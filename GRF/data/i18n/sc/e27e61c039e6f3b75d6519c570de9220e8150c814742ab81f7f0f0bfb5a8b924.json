@@ -3025,5 +3025,10 @@
     },
     "fixfBg": {
         "en": "[An Susceptible Soldier]\nIt's all mine ^BDBDBDCould be^000000 all^BDBDBD mine^000000...\nMy... my treasure ^BDBDBDall^000000 of...my... ^FF0000munch,munch^000000..."
+    },
+    "fyxfBg": {
+        "en": "- You are carrying too many items to proceed with this quest. -",
+        "pt": "- Você não pode prosseguir com a missão porque tem muitos itens. -",
+        "es": "- Llevas demasiados objetos para continuar con esta misión.-"
     }
 }

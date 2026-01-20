@@ -20,12 +20,12 @@
         "es": "[Iromo]\nY si la hay, llevan sus propias vidas en algún sitio…"
     },
     "JAsg": {
-        "en": "[Iromo]\nI would like to go and visit them someday...someday...soon.. \nI am sure there will be other life outside...",
+        "en": "[Iromo]\nAnd if there is, they have their own lives somewhere...",
         "pt": "[Iromo]\nEu queria visitar eles algum dia... algum dia... em breve... \nTenho certeza de que haverá outra vida lá fora...",
         "es": "[Iromo]\nMe gustaría visitarlos algún día… Algún día… Pronto… \nSé que tiene que existir vida en otros planetas…"
     },
     "JQsg": {
-        "en": "[Iromo]\nIf it is so painful.. then I shouldn't go for it...",
+        "en": "[Iromo]\nI would like to go and visit them someday...someday...soon..\nI am sure there will be other life outside...",
         "pt": "[Iromo]\nSe é tão doloroso... então eu não deveria tentar...",
         "es": "[Iromo]\nSi me duele tanto, entonces, no debería intentarlo…"
     },
@@ -220,12 +220,12 @@
         "es": "[Iromo]\n¿Qué? ¿De nuevo? \nNo quiero saber nada de ti. ¡Ni una palabra!"
     },
     "TAsg": {
-        "en": "[Iromo]\nWhat is it? Do you still have something to tell me?",
+        "en": "[Iromo]\n...What? Again?\nI don't want to hear anything from you. Not a word!",
         "pt": "[Iromo]\nO que é isso? Você ainda tem algo pra me dizer?",
         "es": "[Iromo]\n¿Qué sucede? ¿Todavía tienes algo que decirme?"
     },
     "TQsg": {
-        "en": "Tell Kazien and Lyozien's story.",
+        "en": "[Iromo]\nWhat is it? Do you still have something to tell me?",
         "pt": "Contar a história de Kazien e Lyozien.",
         "es": "Contar la historia de Kazien y Lyozien."
     },
@@ -310,7 +310,7 @@
         "es": "[Iromo]\nNunca te rindes, ¿cierto? \n ¿Qué quieres decir?"
     },
     "Xgsg": {
-        "en": "[Iromo]\nIt is frustrating. But...\nWhy do you care about me so much?",
+        "en": "[Iromo]\nYou never give up, don't you?\n What are you trying to say?",
         "pt": "[Iromo]\nÉ frustrante. Mas...\nPor que você se importa tanto comigo?",
         "es": "[Iromo]\nEs frustrante. Pero…\n¿Por qué te preocupas tanto por mí?"
     },
@@ -340,22 +340,22 @@
         "es": "[Iromo]\nGracias por preocuparte… \nPero no hay problema… No, gracias…"
     },
     "ZAsg": {
-        "en": "[Iromo]\nOh, you made the furious cat\ngo away from the village?\n...Oh, you did..Thanks!",
+        "en": "[Iromo]\nThank you for caring...\nBut that is ok...No thanks...",
         "pt": "[Iromo]\nAh, você fez o gato furioso\nfugir da aldeia?\n... Ah, foi você... Obrigado!",
         "es": "[Iromo]\nOh, ¿lograste que el gato furioso\nse fuera de la aldea?\n…Oh, lo lograste… ¡Gracias!"
     },
     "ZQsg": {
-        "en": "[Iromo]\nBut, I am still scared of \nbeing outside.\nI would rather stay at home.",
+        "en": "[Iromo]\nOh, you made the furious cat\ngo away from the village?\n...Oh, you did..Thanks!",
         "pt": "[Iromo]\nMas ainda tenho medo de \nir lá fora.\nPrefiro ficar em casa.",
         "es": "[Iromo]\nPero aún me da miedo \nestar fuera.\nPreferiría quedarme en casa."
     },
     "Zgsg": {
-        "en": "[Iromo]\nThank you for being helpful. \nBut, no thanks.",
+        "en": "[Iromo]\nBut, I am still scared of\nbeing outside.\nI would rather stay at home.",
         "pt": "[Iromo]\nObrigado por ser útil. \nMas, não, obrigado.",
         "es": "[Iromo]\nGracias por ayudarme. \nPero no, gracias."
     },
     "Zwsg": {
-        "en": "[Iromo]\nIf I go out, I will see the scary cat.",
+        "en": "[Iromo]\nThank you for being helpful.\nBut, no thanks.",
         "pt": "[Iromo]\nSe eu sair, vou ver o gato medonho.",
         "es": "[Iromo]\nSi salgo, veré al gato aterrador."
     },
@@ -375,7 +375,7 @@
         "es": "[Iromo]\nPero… Mi madre está a mi lado. \n*Guiño, guiño*"
     },
     "awsg": {
-        "en": "[Iromo]\n...Thanks! I need to hide this.\nAnyway, thank you!",
+        "en": "[Iromo]\nBut..my mom is beside me.\n(Wink, Wink)",
         "pt": "[Iromo]\n... Obrigado! Preciso esconder isso.\nDe qualquer forma, obrigado!",
         "es": "[Iromo]\n¡…Gracias! Necesito ocultar esto.\n¡En fin, gracias!"
     },
@@ -400,7 +400,7 @@
         "es": "[Iromo]\nTengo miedo. Si salgo… \nNo, no quiero que me lastimen de nuevo…"
     },
     "cAsg": {
-        "en": "Again?",
+        "en": "[Iromo]\nI am scared. If I go out...\nNo, I don't want to get hurt again...",
         "pt": "De novo?",
         "es": "¿De nuevo?"
     },
@@ -410,12 +410,12 @@
         "es": "[Iromo]\n…Hay un gato raro que camina en dos patas. \nMe gustan los gatos, así que me acerqué.\nY, de repente, me rasguñó y me mordió."
     },
     "cgsg": {
-        "en": "[Iromo]\nI don't want to see the cat again. \nIf I go out, I will see him. It is scary.",
+        "en": "[Iromo]\n...there is a weird cat that can walk on two feet.\nI like cats so I approached him.\nThen suddenly he scratched and bit me.",
         "pt": "[Iromo]\nNão quero ver o gato de novo. \nSe eu sair, vou ver ele. Que medo...",
         "es": "[Iromo]\nNo quiero volver a ver a ese gato. \nSi salgo, lo veré. Da miedo."
     },
     "cwsg": {
-        "en": "[Iromo]\n... I don't like being outside of the village.\nBeing inside of the house is the best.",
+        "en": "[Iromo]\nI don't want to see the cat again.\nIf I go out, I will see him. It is scary.",
         "pt": "[Iromo]\n... Não gosto de ficar fora da vila.\nEstar dentro de casa é a melhor coisa que tem.",
         "es": "[Iromo]\n… No me gusta estar fuera de la aldea.\nEs mejor estar dentro de casa."
     },
@@ -480,7 +480,7 @@
         "es": "[Madre]\nNo era una herida grave.\nMe preocupé mucho.\nPero jamás me contó lo que pasó ese día."
     },
     "gAsg": {
-        "en": "[Mother]\nAfter that day, he hasn't talked to people much and doesn't go out at all.",
+        "en": "[Mother]\nOh, I remember\nwhat happened last time..\nOne day, Iromo came home\nwith tears in his eyes.\nAnd he seemed hurt.",
         "pt": "[Mãe]\nDepois daquele dia, ele não tem conversado muito com as pessoas e não sai mais.",
         "es": "[Madre]\nDespués de ese día, casi no habla con la gente y no salió nunca más."
     },
@@ -770,7 +770,7 @@
         "es": "[Phiom]\nPrimero, patearé a los desgraciados.\nEsas porquerías voladoras me molestan demasiado."
     },
     "ugsg": {
-        "en": "[Phiom]\nStodpelaj rmy wedwsat dkehaiher keepdkehs",
+        "en": "[Kalton]\nI can relax now that we have those piles of Bradium.\nBut I am also worried that we can spend them in a short time.",
         "pt": "[Phiom]\nStodpelaj rmy wedwsat dkehaiher keepdkehs",
         "es": "[Phiom]\nStodpelaj rmy wedwsat dkehaiher keepdkehs"
     },
@@ -825,7 +825,7 @@
         "es": "Hada"
     },
     "xQsg": {
-        "en": "[Fairy]\nIt is shame that I have to\ncope with those fat beasts.\nI am just too delicate to fight with them.",
+        "en": "[Phiom]\nOur lives exist for Safas.\nOn the other hand,\nSafas lives exist for me.\nHum hahaha!",
         "pt": "[Fada]\nÉ uma pena que eu tenha que\nlidar com essas feras gordas.\nSou delicada demais para lutar com elas.",
         "es": "[Hada]\nEs una pena que tenga\nque lidiar con esas bestias enormes.\nSoy demasiado frágil como para pelear con ellos."
     },
@@ -865,7 +865,7 @@
         "es": "[Hada]\n¡Ni se te ocurra acercarte!"
     },
     "zQsg": {
-        "en": "[Fairy]\nWehVeldHir Or ThusNorAnu\nReImanWos Yu marFuloNor Yee \nSharneaVrum Ir Ruff",
+        "en": "[Phiom]\nHuman, you think our battle is stupid, don't you?\nAnd a waste of time?\nBut it is really depends on this war whether we can survive or not.",
         "pt": "[Fada]\nWehVeldHir Ou ThusNorAnu\nReImanWos Yu marFuloNor Yee \nSharneaVrum Ir Ruff",
         "es": "[Hada]\nWehVeldHir Or ThusNorAnu.\nReImanWos Yu marFuloNor Yee. \nSharneaVrum Ir Ruff."
     },
@@ -905,7 +905,7 @@
         "es": "[Hada]\nAgolWhaNe O LoRini."
     },
     "1Qsg": {
-        "en": "[Fairy]\nHey, you~! Human! How did you find us?\nWhat does your human world look like?\nIs it fun to be there?",
+        "en": "[Fairy]\nLarsFuloSar Yu VilGotheor Yu nes\nAnuneseor Ie remuSeDieb er\nWosLoNud Ko NuffDuIman Ir",
         "pt": "[Fada]\nEi, você~! Pessoa! Como você nos encontrou?\nComo é o seu mundo humano?\nLá é divertido?",
         "es": "[Hada]\n¡Oye, tú! ¡Humano! ¿Cómo nos encontraste?\n¿Qué aspecto tiene el mundo de los humanos?\n¿Es divertido?"
     },
@@ -925,12 +925,12 @@
         "es": "[Hada]\nNo quiero escuchar a los demás.\nAsí como soy, ¡soy la perfección!"
     },
     "2Qsg": {
-        "en": "[Fairy]\nnarnahNoh Di WehRiniLars Yee ModAnu\nLuAlahNe Or FarAnduOsa No AgolKo",
+        "en": "[Fairy]\nWehVeldHir Or ThusNorAnu\nReImanWos Yu marFuloNor Yee\nSharneaVrum Ir Ruff",
         "pt": "[Fada]\nnarnahNoh Di WehRiniLars Yee ModAnu\nLuAlahNe Ou FarAnduOsa No AgolKo",
         "es": "[Hada]\nNarnahNoh Di WehRiniLars Yee ModAnu.\nLuAlahNe Or FarAnduOsa No AgolKo."
     },
     "2gsg": {
-        "en": "[Fairy]\nLarsVilDim No WhaVilFus Ha Ash\nReLarsShar Mu AnduLoLon Ie Nufftas",
+        "en": "[Fairy]\nBurKoWeh Ie nesThusLu Ee",
         "pt": "[Fada]\nLarsVilDim No WhaVilFus Ha Ash\nReLarsShar Mu AnduLoLon Ie Nufftas",
         "es": "[Hada]\nLarsVilDim No WhaVilFus Ha Ash.\nReLarsShar Mu AnduLoLon Ie Nufftas."
     },
@@ -945,12 +945,12 @@
         "es": "[Hada]\nNuffMushLars Ra WehVilnah Ra DielWeh.\nRivehnarWos Ra YurSharRe.\nTalVaThor O VerWhatas.\nFuloDimIyaz Mu WhaNoreo U. \nAlahNeLo Ra UorOsa.\nSeAnduMush Ur."
     },
     "3Qsg": {
-        "en": "[Fairy]\nI don't want touch them at all.\nBut they are ruining my Yggdrasilberries.\nI can't stand it anymore!",
+        "en": "[Fairy]\nDiebVohlWeh Ko RasVeldFar Ie AshVohl\nneaAmanIman Ie DorDuMe No Hireo\ntassermaur Yee DorAdorNud Ee\nNohThorVe O FusImanAman",
         "pt": "[Fada]\nEu não quero tocar neles de jeito nenhum.\nMas eles estão arruinando meus Frutos de Yggdrasil.\nNão aguento mais isso!",
         "es": "[Hada]\nNi siquiera quiero tocarlos.\nPero están arruinando mis frutos de Yggdrasil.\n¡No aguanto más!"
     },
     "3gsg": {
-        "en": "[Fairy]\nFighting is not my thing..\nBut for our glory, I will fight!\nThey should feel honored to be battling with us!",
+        "en": "[Fairy]\nOsaVeldWeh U GothIyazVer Or\nLarsAnDor Yee TurVeldVil\nLarsDanaFus An DiebImanmar er Dim\ntasLoRini Ir WehAndu",
         "pt": "[Fada]\nLutar não é a minha praia...\nMas, para nossa glória, eu lutarei!\nEles devem se sentir honrados por estarem lutando conosco!",
         "es": "[Hada]\nPelear no es lo mío.\nPero, por la gloria, ¡pelearé!\n¡Deberían sentirse honrados de luchar a nuestro lado!"
     },
@@ -1013,5 +1013,45 @@
         "en": "[Fairy]\nTh idlejh pitdfd terandn afdh adnn bheating andh dpsne",
         "pt": "[Fada]\nTh idlejh pitdfd terandn afdh adnn bheating andh dpsne",
         "es": "[Hada]\nTh idlejh pitdfd terandn afdh adnn bheating andh dpsne."
+    },
+    "6wsg": {
+        "en": "- You are carrying too many items to proceed with this quest. -",
+        "pt": "- Você não pode prosseguir com a missão porque tem muitos itens. -",
+        "es": "- Llevas demasiados objetos para continuar con esta misión.-"
+    },
+    "7Asg": {
+        "en": "[Iromo]\nThe world is wide and many excitements are waiting for me...\nI want to see them all.",
+        "pt": "[Iromo]\nO mundo é vasto e muitas coisas estão esperando por mim...\nQuero ver todas elas.",
+        "es": "[Iromo]\nEl mundo es grande y me esperan muchas emociones…\nQuiero experimentarlas a todas."
+    },
+    "7Qsg": {
+        "en": "[Iromo]\nPlease kindly leave.\nI don't want to hear it anymore.",
+        "pt": "[Iromo]\nPor favor, vá embora. \nNão quero mais ouvir isso.",
+        "es": "[Iromo]\nVete, por favor. \nNo quiero escuchar nada más."
+    },
+    "7gsg": {
+        "en": "[Fairy]\nAnnarNor So marFarAno Di NudThusNei Ir  Ir\nnarVaTi Mu SharDimmaur Or Ano\nWhaModKo Or eoNeiNor Di ImanDunah O  O",
+        "pt": "[Fairy]\nAnnarNor So marFarAno Di NudThusNei Ir  Ir\nnarVaTi Mu SharDimmaur Or Ano\nWhaModKo Or eoNeiNor Di ImanDunah O  O",
+        "es": "[Fairy]\nAnnarNor So marFarAno Di NudThusNei Ir  Ir\nnarVaTi Mu SharDimmaur Or Ano\nWhaModKo Or eoNeiNor Di ImanDunah O  O"
+    },
+    "7wsg": {
+        "en": "[Fairy]\nNuffMushLars Ra WehVilnah Ra DielWeh\nRivehnarWos Ra YurSharRe\nTalVaThor O VerWhatas\nFuloDimIyaz Mu WhaNoreo U\nAlahNeLo Ra UorOsa\nSeAnduMush Ur",
+        "pt": "[Fairy]\nNuffMushLars Ra WehVilnah Ra DielWeh\nRivehnarWos Ra YurSharRe\nTalVaThor O VerWhatas\nFuloDimIyaz Mu WhaNoreo U\nAlahNeLo Ra UorOsa\nSeAnduMush Ur",
+        "es": "[Fairy]\nNuffMushLars Ra WehVilnah Ra DielWeh\nRivehnarWos Ra YurSharRe\nTalVaThor O VerWhatas\nFuloDimIyaz Mu WhaNoreo U\nAlahNeLo Ra UorOsa\nSeAnduMush Ur"
+    },
+    "8Asg": {
+        "en": "[Fairy]\nAshAmanNei Ir LonVeldremu O\nAnduSarHir No NudAnumaur Ha Veld\nSemarmah U VeTingDieb Yu\nmahsertas Ra marAmanAdor Ir",
+        "pt": "[Fairy]\nAshAmanNei Ir LonVeldremu O\nAnduSarHir No NudAnumaur Ha Veld\nSemarmah U VeTingDieb Yu\nmahsertas Ra marAmanAdor Ir",
+        "es": "[Fairy]\nAshAmanNei Ir LonVeldremu O\nAnduSarHir No NudAnumaur Ha Veld\nSemarmah U VeTingDieb Yu\nmahsertas Ra marAmanAdor Ir"
+    },
+    "8Qsg": {
+        "en": "[Fairy]\nOdesmahHir Or mahneaLars So\nHirNudAman O AdorWosDu\nDimYurVa So DanaRuYur",
+        "pt": "[Fairy]\nOdesmahHir Or mahneaLars So\nHirNudAman O AdorWosDu\nDimYurVa So DanaRuYur",
+        "es": "[Fairy]\nOdesmahHir Or mahneaLars So\nHirNudAman O AdorWosDu\nDimYurVa So DanaRuYur"
+    },
+    "8gsg": {
+        "en": "[Fairy]\ntasSarNuff Or WehFarDieb Ir FarRu\nFusYurnah So MeAshnar O Noth\nYurBurDu Yu VeldVaMush So Thor\nAgolDiebUor No TurnahAla O",
+        "pt": "[Fairy]\ntasSarNuff Or WehFarDieb Ir FarRu\nFusYurnah So MeAshnar O Noth\nYurBurDu Yu VeldVaMush So Thor\nAgolDiebUor No TurnahAla O",
+        "es": "[Fairy]\ntasSarNuff Or WehFarDieb Ir FarRu\nFusYurnah So MeAshnar O Noth\nYurBurDu Yu VeldVaMush So Thor\nAgolDiebUor No TurnahAla O"
     }
 }

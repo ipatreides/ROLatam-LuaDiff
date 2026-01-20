@@ -73,5 +73,10 @@
         "en": "[Worker]\nDoeickn Fkeiak Doekd Thkeis Basicketa",
         "pt": "[Trabalhador]\nDoeickn Fkeiak Doekd Thkeis Basicketa",
         "es": "[Trabajador]\nDoeickn Fkeiak Doekd Thkeis Basicketa."
+    },
+    "r1oy": {
+        "en": "- You are carrying too many items to proceed with this quest. -",
+        "pt": "- Você não pode prosseguir com a missão porque tem muitos itens. -",
+        "es": "- Llevas demasiados objetos para continuar con esta misión.-"
     }
 }

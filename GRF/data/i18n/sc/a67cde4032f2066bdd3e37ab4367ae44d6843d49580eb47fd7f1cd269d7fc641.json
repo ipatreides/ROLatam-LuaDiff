@@ -172,7 +172,7 @@
     "gpmfBw": {
         "en": "[Rebellion leader]\nSecret Wings?\nHa! Don't make me laugh!\nThe fact you say it now shows that you know something about the relationship between us and them. Am I right?",
         "pt": "[Líder dos Insurgentes]\nVento Secreto?\nHa! Não me faça rir!\nMencionar isso agora mostra que você sabe algo sobre o nosso relacionamento com eles. Acertei?",
-        "es": "[Líder de la Rebelión]\n¿Alas Secretas?\n¡Ja! ¡No me hagas reír!\nEl hecho de que lo digas ahora demuestra que sabes algo de la relación entre nosotros y ellos. ¿Estoy en lo correcto?"
+        "es": "[Líder de la Rebelión]\n¿Viento Secreto?\n¡Ja! ¡No me hagas reír!\nEl hecho de que lo digas ahora demuestra que sabes algo de la relación entre nosotros y ellos. ¿Estoy en lo correcto?"
     },
     "g5mfBw": {
         "en": "[Rebellion leader]\nIf you don't, that means you are just being exploited. Then you just have to go back gently.",
@@ -677,7 +677,7 @@
     "55mfBw": {
         "en": "Special Force commander : Normally she goes crazy, even after hearing the word 'Secret Wings'.",
         "pt": "Comandante Est: Normalmente ela fica louca, mesmo após ouvir a expressão 'Vento Secreto'.",
-        "es": "Comandante Est: Normalmente, se vuelve loca con solo oír “Alas Secretas”."
+        "es": "Comandante Est: Normalmente, se vuelve loca con solo oír “Viento Secreto”."
     },
     "6JmfBw": {
         "en": "[Special Force commander Est]\nHey!\nLarcis.\nAre you sure she wrote this?",
@@ -1276,8 +1276,8 @@
     },
     "X5qfBw": {
         "en": "[Rebellion leader Rupert]\nAre you saying that you agreed to help the Secret Wings?",
-        "pt": "[Rupert]\nVocê está dizendo que concordou em ajudar a Vento Secreto?",
-        "es": "[Líder Rupert]\n¿Estás diciendo que aceptaste ayudar a Alas Secretas?"
+        "pt": "[Rupert]\nVocê está dizendo que concordou em ajudar o Vento Secreto?",
+        "es": "[Líder Rupert]\n¿Estás diciendo que aceptaste ayudar al Viento Secreto?"
     },
     "YJqfBw": {
         "en": "Rebellion leader : Unless there is a problem with my eyes.",
@@ -1291,8 +1291,8 @@
     },
     "YpqfBw": {
         "en": "[Rebellion senior Dien]\nRidsh, Cotnes amd I will agree to help the Secret Wings.",
-        "pt": "[Dien, Veterana]\nRidsh, Cotnes e eu concordamos em ajudar a Vento Secreto.",
-        "es": "[Dien, Veterana]\nRidsh, Cotnes y yo aceptaremos ayudar a Alas Secretas."
+        "pt": "[Dien, Veterana]\nRidsh, Cotnes e eu concordamos em ajudar o Vento Secreto.",
+        "es": "[Dien, Veterana]\nRidsh, Cotnes y yo aceptaremos ayudar al Viento Secreto."
     },
     "Y5qfBw": {
         "en": "[Rebellion leader Rupert]\nEven Ridsh and Cotnes...? No. I can't believe that you agree to it, even after I have heard it from you personally.",
@@ -1707,7 +1707,7 @@
     "tZqfBw": {
         "en": "[Rebellion senior Ridsh]\nThe kid from the Secret Wings~",
         "pt": "[Ridsh, Veterana]\nA criança do Vento Secreto.",
-        "es": "[Ridsh, Veterana]\nLa persona de Alas Secretas~."
+        "es": "[Ridsh, Veterana]\nLa persona del Viento Secreto~."
     },
     "tpqfBw": {
         "en": "[Rebellion senior Dien]\nOh!\nI remember I asked him for an errand. Will he be back here?",
@@ -1736,8 +1736,8 @@
     },
     "u5qfBw": {
         "en": "[Rebellion senior Dien]\nAlthough they are all novices, they can be an obstacle for us in defeating the Secret Wings.",
-        "pt": "[Dien, Veterana]\nApesar de serem todos novatos, elas podem ser um obstáculo para derrotar a Vento Secreto.",
-        "es": "[Dien, Veterana]\nAunque son todos principiantes, pueden ser un obstáculo para que derrotemos a Alas Secretas."
+        "pt": "[Dien, Veterana]\nApesar de serem todos novatos, elas podem ser um obstáculo para derrotar o Vento Secreto.",
+        "es": "[Dien, Veterana]\nAunque son todos principiantes, pueden ser un obstáculo para que derrotemos al Viento Secreto."
     },
     "vJqfBw": {
         "en": "[Rebellion senior Ridsh]\nThat's true.",
@@ -1746,13 +1746,13 @@
     },
     "vZqfBw": {
         "en": "[Rebellion senior Dien]\nLet's say we attack the Secret Wings recklessly and Heart Hunters takes the chance to attack us. We'll collapse in a minute.",
-        "pt": "[Dien, Veterana]\nSe nós atacarmos a Vento Secreto imprudentemente e os Caça-Corações aproveitarem essa chance para nos atacar... Acabarão com a gente em um minuto.",
-        "es": "[Dien, Veterana]\nSupongamos que atacamos a Alas Secretas de forma imprudente, y los Cazacorazones aprovechan la oportunidad para atacarnos. Colapsaremos en un minuto."
+        "pt": "[Dien, Veterana]\nSe nós atacarmos o Vento Secreto imprudentemente e os Caça-Corações aproveitarem essa chance para nos atacar... Acabarão com a gente em um minuto.",
+        "es": "[Dien, Veterana]\nSupongamos que atacamos al Viento Secreto de forma imprudente, y los Cazacorazones aprovechan la oportunidad para atacarnos. Colapsaremos en un minuto."
     },
     "vpqfBw": {
         "en": "[Rebellion senior Dien]\nSo we will pretend to cooperate with the Secret Wings and get rid of the annoying ones first.",
-        "pt": "[Dien, Veterana]\nEntão vamos fingir que cooperamos com a Vento Secreto e nos livramos dos mais irritantes primeiro.",
-        "es": "[Dien, Veterana]\nAsí que fingiremos cooperar con Alas Secretas y nos desharemos primero de los molestos."
+        "pt": "[Dien, Veterana]\nEntão vamos fingir que cooperamos com o Vento Secreto e nos livramos dos mais irritantes primeiro.",
+        "es": "[Dien, Veterana]\nAsí que fingiremos cooperar con Viento Secreto y nos desharemos primero de los molestos."
     },
     "v5qfBw": {
         "en": "[Rebellion senior Ridsh]\nLet's finish them before they realize we have a plan to attack them.",
@@ -2103,5 +2103,10 @@
         "en": "[Rebellion]\nDo you know the meaning of this position?\nHuhuhuhuhu",
         "pt": "[Insurgente]\nVocê conhece o significado dessa posição?\nHuhuhuhuhu",
         "es": "[Rebelde]\n¿Conoces el significado de esta posición?\nJu, ju, ju…"
+    },
+    "BZufBw": {
+        "en": "- You are carrying too many items to proceed with this quest. -",
+        "pt": "- Você não pode prosseguir com a missão porque tem muitos itens. -",
+        "es": "- Llevas demasiados objetos para continuar con esta misión.-"
     }
 }

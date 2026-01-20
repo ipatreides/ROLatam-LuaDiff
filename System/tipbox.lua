@@ -730,6 +730,69 @@ tbl = {
 			"Estado religioso governado por uma Papisa e seus sacerdotes. Por serem adoradores de Freya, seus nativos discriminam nativos de Rune-Midgard, por serem devotos de Odin. Arunafeltz foi fundada por imigrantes que eram perseguidos religiosamente no passado. A capital, Rachel, tem um enorme templo, Sessrumnir.\n\n\t\t\t\t<TIPBOX>» Página anterior<INFO>4001</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>» Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
 		}
 	},
+	[4107] = {
+		Title = "Recompensa do episódio#Equipamento",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"É possível trocar várias itens usando moedas exclusivas que podem ser obtidas ao avançar em determinados episódios.\n\n                        <TIPBOX>>Recompensa de Ep16.1 Marca de Honra<INFO>4108</INFO></TIPBOX>\n                        <TIPBOX>>Recompensa de Ep16.2 Brasão de Honra<INFO>4109</INFO></TIPBOX>\n                        <TIPBOX>>Ep17.1 Ilusão, série OS<INFO>4110</INFO></TIPBOX>\n\n                        <TIPBOX>>Episódio<INFO>4101</INFO></TIPBOX>\n                        <TIPBOX>>Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4108] = {
+		Title = "Recompensa de Ep16.1 Marca de Honra#Lisonja, Sarcasmo e Cidade",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Durante o progresso do episódio, você pode trocar o <ITEM>[Marca de Honra]<INFO>6919</INFO></ITEM> que obteve por vários itens úteis no castelo de Prontera.\n\n                        ^663399§ Local de Troca^000000\n                        ><NAVI>[Comissário]<INFO>prt_cas,165,255,0,101,0</INFO></NAVI>\n\n                        ^663399§ Itens de Equipamento^000000\n                        <ITEM>[Vestimenta Arrogante]<INFO>15146</INFO></ITEM>\n                        <ITEM>[Vestimenta Exuberante]<INFO>15147</INFO></ITEM>\n                        <ITEM>[[Visual] Ilusões do Tempo]<INFO>20246</INFO></ITEM>\n                        <ITEM>[[Visual] Mão Diabólica]<INFO>20247</INFO></ITEM>\n                        <ITEM>[Mapa da Capital]<INFO>28354</INFO></ITEM>\n                        <ITEM>[Poção Sagrada]<INFO>28355</INFO></ITEM>\n                        <ITEM>[Brasão de Prontera]<INFO>28356</INFO></ITEM>\n                        <ITEM>[Escudo da Realeza]<INFO>28900</INFO></ITEM>\n\n                        ^663399§ Outros Itens^000000\n                        <ITEM>[Mapa da Cidade]<INFO>22899</INFO></ITEM>\n                        <ITEM>[Poção Sagrada]<INFO>11600</INFO></ITEM>\n                        <ITEM>[Chaves da Prisão]<INFO>22848</INFO></ITEM>\n                        <ITEM>[Brasão de Prontera]<INFO>22847</INFO></ITEM>\n\n                        <TIPBOX>>Recompensa do Episódio<INFO>4107</INFO></TIPBOX>\n                        <TIPBOX>>Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4109] = {
+		Title = "Recompensa de Ep16.2 Brasão de Honra#Anel do Mercenário da República de Consultas",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Ao avançar no episódio, você pode trocar o <ITEM>[Brasão de Honra]<INFO>25155</INFO></ITEM> adquirido por vários itens úteis no esconderijo da Rebellion em Einbech, chamado 'Clana Nemieri'.\n\n\t\t\t^663399§ Local de troca^000000\n\t\t\t><NAVI>[Schutrase]<INFO>rebel_in,74,67,0,101,0</INFO></NAVI>\n\n\t\t\t^663399§ Itens de Equipamento^000000\n\t\t\t<ITEM>[Vestimenta Atraente]<INFO>15163</INFO></ITEM>\n\t\t\t<ITEM>[Vestimenta Consulente]<INFO>15164</INFO></ITEM>\n\t\t\t<ITEM>[Chapéu da República]<INFO>19115</INFO></ITEM>\n\t\t\t<ITEM>[[Visual] Vestígios de Combate]<INFO>20456</INFO></ITEM>\n\t\t\t<ITEM>[Anel Mercenário A]<INFO>28425</INFO></ITEM>\n\t\t\t<ITEM>[Anel Mercenário B]<INFO>28426</INFO></ITEM>\n\n\t\t\t<TIPBOX>>Recompensa do Episódio<INFO>4107</INFO></TIPBOX>\n\t\t\t<TIPBOX>>Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4110] = {
+		Title = "Ep17.1 Ilusão, série OS#Cor Coração Peça acessória da arma danificada",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Ao avançar no episódio, você pode trocar os itens adquiridos <ITEM>[Arma Danificada]<INFO>25668</INFO></ITEM> e <ITEM>[Núcleo Core OS]<INFO>25723</INFO></ITEM> por diversos itens úteis na área especial de contenção, Cor.\n\n                        ^663399§ Local de Troca^000000\n                        ><NAVI>[Rebellion]<INFO>sp_cor,108,130,0,101,0</INFO></NAVI>\n\n                        ^663399§ Série Ilusão^000000\n                        >Troque por <ITEM>[Núcleo Core OS]<INFO>25723</INFO></ITEM>.\n                        <ITEM>[Armadura de Ilusão Tipo A]<INFO>15376</INFO></ITEM>\n                        <ITEM>[Armadura de Ilusão Tipo B]<INFO>15377</INFO></ITEM>\n                        <ITEM>[Asa de Motor de Ilusão Tipo A]<INFO>20933</INFO></ITEM>\n                        <ITEM>[Asa de Motor de Ilusão Tipo B]<INFO>20934</INFO></ITEM>\n                        <ITEM>[Perna de Ilusão Tipo A]<INFO>22196</INFO></ITEM>\n                        <ITEM>[Perna de Ilusão Tipo B]<INFO>22197</INFO></ITEM>\n                        <ITEM>[Propulsor de Ilusão R]<INFO>32207</INFO></ITEM>\n                        <ITEM>[Propulsor de Ilusão L]<INFO>32208</INFO></ITEM>\n                        <ITEM>[Chip de Batalha de Ilusão R]<INFO>32209</INFO></ITEM>\n                        <ITEM>[Chip de Batalha de Ilusão L]<INFO>32210</INFO></ITEM>\n\n                        ^663399§ Série de Armas OS^000000\n                        >Obtenha aleatoriamente uma das armas OS ao trocar <ITEM>[Componente Misterioso]<INFO>25669</INFO></ITEM> e <ITEM>[Arma Danificada]<INFO>25668</INFO></ITEM>.\n                        <ITEM>[Rapier Canhão-OS]<INFO>13493</INFO></ITEM>\n                        <ITEM>[Claymore de Feixe-OS]<INFO>21047</INFO></ITEM>\n                        <ITEM>[Cajado Rutilus-OS]<INFO>26151</INFO></ITEM>\n                        <ITEM>[Placa de Circuito-OS]<INFO>28629</INFO></ITEM>\n                        <ITEM>[Blasti-OS]<INFO>28136</INFO></ITEM>\n                        <ITEM>[Buraco Zafir-OS]<INFO>16088</INFO></ITEM>\n                        <ITEM>[Arco Virtual-OS]<INFO>18178</INFO></ITEM>\n                        <ITEM>[MH-P89-OS]<INFO>18179</INFO></ITEM>\n                        <ITEM>[Moishura-OS]<INFO>28038</INFO></ITEM>\n                        <ITEM>[Punho Ardente-OS]<INFO>1862</INFO></ITEM>\n                        <ITEM>[HR-S55-OS]<INFO>28253</INFO></ITEM>\n                        <ITEM>[Kuroiro-OS]<INFO>28755</INFO></ITEM>\n                        <ITEM>[AC-B44-OS]<INFO>18180</INFO></ITEM>\n                        <ITEM>[Lança de Impulso-OS]<INFO>32019</INFO></ITEM>\n                        <ITEM>[Electric Fox-OS]<INFO>26164</INFO></ITEM>\n                        <ITEM>[Ultio-OS]<INFO>16089</INFO></ITEM>\n\n                        <TIPBOX>>Aparece no Ep17.1, Ilusão<INFO>7055</INFO></TIPBOX>\n                        <TIPBOX>>Recompensa do episódio<INFO>4107</INFO></TIPBOX>\n                        <TIPBOX>>Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4112] = {
+		Title = "Ep16.1 Série Noblesse#100",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Durante o progresso do episódio, você pode trocar o <ITEM>[Marca de Honra]<INFO>6919</INFO></ITEM> obtido no Palácio Real de Prontera por equipamentos Noblesse. Os itens disponíveis para troca variam de acordo com a classe.\n                        ^663399§ Requisito para troca: Nível 100 ou superior^000000\n\n                        ^663399§ Local de troca^000000\n                        ><NAVI>[Trocador de Nobre]<INFO>prt_cas,165,260,0,101,0</INFO></NAVI>\n\n                        ^663399§ Itens comuns^000000\n                        <ITEM>[Nobre Anel Físico]<INFO>490014</INFO></ITEM>\n                        <ITEM>[Nobre Anel Mágico]<INFO>490015</INFO></ITEM>\n                        <ITEM>[Nobre Capa Física]<INFO>480012</INFO></ITEM>\n                        <ITEM>[Nobre Capa Mágica]<INFO>480014</INFO></ITEM>\n                        <ITEM>[Nobre Bota Física]<INFO>470016</INFO></ITEM>\n                        <ITEM>[Nobre Bota Mágica]<INFO>470017</INFO></ITEM>\n                        <ITEM>[Ticket Nobre de Refino]<INFO>100128</INFO></ITEM>\n\n                        ^663399§ Itens por classe^000000\n                        <ITEM>[Nobre Traje Draconiano]<INFO>450018</INFO></ITEM>\n                        <ITEM>[Nobre Traje Flamejante]<INFO>450019</INFO></ITEM>\n                        <ITEM>[Nobre Traje Perfurante]<INFO>450020</INFO></ITEM>\n                        <ITEM>[Nobre Traje Exorcista]<INFO>450021</INFO></ITEM>\n                        <ITEM>[Nobre Traje Preciso]<INFO>450022</INFO></ITEM>\n                        <ITEM>[Nobre Traje Certeiro]<INFO>450023</INFO></ITEM>\n                        <ITEM>[Nobre Traje Temporal]<INFO>450024</INFO></ITEM>\n                        <ITEM>[Nobre Traje Musical]<INFO>450025</INFO></ITEM>\n                        <ITEM>[Nobre Traje Adoramus]<INFO>450026</INFO></ITEM>\n                        <ITEM>[Nobre Traje Lumen]<INFO>450027</INFO></ITEM>\n                        <ITEM>[Nobre Traje Corporal]<INFO>450050</INFO></ITEM>\n                        <ITEM>[Nobre Traje Lutador]<INFO>450051</INFO></ITEM>\n                        <ITEM>[Nobre Traje Furacão]<INFO>450028</INFO></ITEM>\n                        <ITEM>[Nobre Traje Mecânico]<INFO>450029</INFO></ITEM>\n                        <ITEM>[Noblesse Canhão de Prótons 슈츠]<INFO>450030</INFO></ITEM>\n                        <ITEM>[Nobre Traje Tornado]<INFO>450031</INFO></ITEM>\n                        <ITEM>[Nobre Traje Loki]<INFO>450032</INFO></ITEM>\n                        <ITEM>[Nobre Traje Crítico]<INFO>450033</INFO></ITEM>\n                        <ITEM>[Nobre Traje Fatal]<INFO>450034</INFO></ITEM>\n                        <ITEM>[Nobre Traje Meteórico]<INFO>450035</INFO></ITEM>\n                        <ITEM>[Nobre Traje Animal]<INFO>450036</INFO></ITEM>\n                        <ITEM>[Nobre Traje Florestal]<INFO>450037</INFO></ITEM>\n                        <ITEM>[Nobre Traje Expurgante]<INFO>450038</INFO></ITEM>\n                        <ITEM>[Nobre Traje Labareda]<INFO>450039</INFO></ITEM>\n                        <ITEM>[Nobre Traje Escarlate]<INFO>450040</INFO></ITEM>\n                        <ITEM>[Nobre Traje Gélido]<INFO>450041</INFO></ITEM>\n                        <ITEM>[Nobre Traje Psíquico]<INFO>450042</INFO></ITEM>\n                        <ITEM>[Nobre Traje Diamante]<INFO>450043</INFO></ITEM>\n                        <ITEM>[Nobre Traje Solar]<INFO>450044</INFO></ITEM>\n                        <ITEM>[Nobre Traje Lunar]<INFO>450045</INFO></ITEM>\n                        <ITEM>[Nobre Traje Ninpou]<INFO>450046</INFO></ITEM>\n                        <ITEM>[Nobre Traje Togatana]<INFO>450047</INFO></ITEM>\n                        <ITEM>[Nobre Traje Eswhoo]<INFO>450048</INFO></ITEM>\n                        <ITEM>[Nobre Traje Sombrio]<INFO>450049</INFO></ITEM>\n                        <ITEM>[Nobre Traje Físico]<INFO>450121</INFO></ITEM>\n                        <ITEM>[Nobre Traje Mágico]<INFO>450122</INFO></ITEM>\n\n                        <TIPBOX>>Ep16.1 Banquete para Heróis<INFO>8118</INFO></TIPBOX>\n                        <TIPBOX>>Recompensa do Episódio<INFO>4107</INFO></TIPBOX>\n                        <TIPBOX>>Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4113] = {
+		Title = "Ep16.2 Série Imperial#125",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Durante o progresso do episódio, você pode trocar o <ITEM>[Brasão de Honra]<INFO>25155</INFO></ITEM> obtido no esconderijo Rebellion de Einbech, 'Clana Nemieri', por equipamentos Imperial. Os itens disponíveis para troca variam conforme a classe.\n\t\t\t^663399§ Requisito para troca: Nível 125 ou superior^000000\n\n\t\t\t^663399§ Local da troca^000000\n\t\t\t><NAVI>[Trocador Imperial]<INFO>rebel_in,99,51,0,101,0</INFO></NAVI>\n\n\t\t\t^663399§ Itens comuns^000000\n\t\t\t<ITEM>[Ilustre Anel Físico]<INFO>490017</INFO></ITEM>\n\t\t\t<ITEM>[Ilustre Anel Mágico]<INFO>490018</INFO></ITEM>\n\t\t\t<ITEM>[Ilustre Capa Física]<INFO>480016</INFO></ITEM>\n\t\t\t<ITEM>[Ilustre Capa Mágica]<INFO>480017</INFO></ITEM>\n\t\t\t<ITEM>[Ilustre Bota Física]<INFO>470018</INFO></ITEM>\n\t\t\t<ITEM>[Ilustre Bota Mágica]<INFO>470019</INFO></ITEM>\n\t\t\t<ITEM>[Ticket Ilustre de Refino]<INFO>100129</INFO></ITEM>\n\t\t\t\n\t\t\t>Licença de Modificação Imperial\n\t\t\t<ITEM>[Licença de Modificação Física (Manto)]<INFO>100131</INFO></ITEM>\n\t\t\t<ITEM>[Licença de Modificação Mágica (Manto)]<INFO>100132</INFO></ITEM>\n\t\t\t<ITEM>[Licença de Modificação Física (Armadura)]<INFO>100135</INFO></ITEM>\n\t\t\t<ITEM>[Licença de Modificação Mágica (Armadura)]<INFO>100136</INFO></ITEM>\n\n\t\t\t^663399§ Itens por classe^000000\n\t\t\t<ITEM>[Ilustre Traje Draconiano]<INFO>450052</INFO></ITEM>\n\t\t\t<ITEM>[Ilustre Traje Flamejante]<INFO>450053</INFO></ITEM>\n\t\t\t<ITEM>[Ilustre Traje Perfurante]<INFO>450054</INFO></ITEM>\n\t\t\t<ITEM>[Ilustre Traje Exorcista]<INFO>450055</INFO></ITEM>\n\t\t\t<ITEM>[Ilustre Traje Preciso]<INFO>450056</INFO></ITEM>\n\t\t\t<ITEM>[Ilustre Traje Certeiro]<INFO>450057</INFO></ITEM>\n\t\t\t<ITEM>[Ilustre Traje Temporal]<INFO>450058</INFO></ITEM>\n\t\t\t<ITEM>[Ilustre Traje Musical]<INFO>450059</INFO></ITEM>\n\t\t\t<ITEM>[Ilustre Traje Adoramus]<INFO>450060</INFO></ITEM>\n\t\t\t<ITEM>[Ilustre Traje Lumen]<INFO>450061</INFO></ITEM>\n\t\t\t<ITEM>[Ilustre Traje Corporal]<INFO>450062</INFO></ITEM>\n\t\t\t<ITEM>[Ilustre Traje Lutador]<INFO>450063</INFO></ITEM>\n\t\t\t<ITEM>[Ilustre Traje Furacão]<INFO>450064</INFO></ITEM>\n\t\t\t<ITEM>[Ilustre Traje Mecânico]<INFO>450065</INFO></ITEM>\n\t\t\t<ITEM>[Imperial Canhão de Prótons 슈츠]<INFO>450066</INFO></ITEM>\n\t\t\t<ITEM>[Ilustre Traje Tornado]<INFO>450067</INFO></ITEM>\n\t\t\t<ITEM>[Ilustre Traje Loki]<INFO>450068</INFO></ITEM>\n\t\t\t<ITEM>[Ilustre Traje Crítico]<INFO>450069</INFO></ITEM>\n\t\t\t<ITEM>[Ilustre Traje Fatal]<INFO>450070</INFO></ITEM>\n\t\t\t<ITEM>[Ilustre Traje Meteórico]<INFO>450071</INFO></ITEM>\n\t\t\t<ITEM>[Ilustre Traje Animal]<INFO>450072</INFO></ITEM>\n\t\t\t<ITEM>[Ilustre Traje Florestal]<INFO>450073</INFO></ITEM>\n\t\t\t<ITEM>[Ilustre Traje Expurgante]<INFO>450074</INFO></ITEM>\n\t\t\t<ITEM>[Ilustre Traje Labareda]<INFO>450075</INFO></ITEM>\n\t\t\t<ITEM>[Ilustre Traje Escarlate]<INFO>450076</INFO></ITEM>\n\t\t\t<ITEM>[Ilustre Traje Gélido]<INFO>450077</INFO></ITEM>\n\t\t\t<ITEM>[Ilustre Traje Psíquico]<INFO>450078</INFO></ITEM>\n\t\t\t<ITEM>[Ilustre Traje Diamante]<INFO>450079</INFO></ITEM>\n\t\t\t<ITEM>[Ilustre Traje Solar]<INFO>450080</INFO></ITEM>\n\t\t\t<ITEM>[Ilustre Traje Lunar]<INFO>450081</INFO></ITEM>\n\t\t\t<ITEM>[Ilustre Traje Ninpou]<INFO>450082</INFO></ITEM>\n\t\t\t<ITEM>[Ilustre Traje Togatana]<INFO>450083</INFO></ITEM>\n\t\t\t<ITEM>[Ilustre Traje Eswhoo]<INFO>450084</INFO></ITEM>\n\t\t\t<ITEM>[Ilustre Traje Sombrio]<INFO>450085</INFO></ITEM>\n\t\t\t<ITEM>[Ilustre Traje Físico]<INFO>450123</INFO></ITEM>\n\t\t\t<ITEM>[Ilustre Traje Mágico]<INFO>450124</INFO></ITEM>\n\n\t\t\t<TIPBOX>>Ep16.2 Terra Gloria<INFO>8143</INFO></TIPBOX>\n\t\t\t<TIPBOX>>Recompensa do Episódio<INFO>4107</INFO></TIPBOX>\n\t\t\t<TIPBOX>>Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4114] = {
+		Title = "Série Ep17.1 Grace#150",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Durante o progresso do episódio, você pode trocar os itens adquiridos <ITEM>[Núcleo Core OS]<INFO>25723</INFO></ITEM>, <ITEM>[Componente Misterioso]<INFO>25669</INFO></ITEM> por equipamentos Grace na Área de Restrição Especial Core. Os itens disponíveis para troca variam conforme a classe.\n\t\t\t^663399§ Requisito para troca: Nível 150 ou superior^000000\n\t\t\t\n\t\t\t^663399§ Local de troca^000000\n\t\t\t><NAVI>[Trocador de Graça]<INFO>sp_cor,136,156,0,101,0</INFO></NAVI>\n\t\t\t\n\t\t\t^663399§ Itens comuns^000000\n\t\t\t<ITEM>[Grácil Anel Físico]<INFO>490019</INFO></ITEM>\n\t\t\t<ITEM>[Grácil Anel Mágico]<INFO>490020</INFO></ITEM>\n\t\t\t<ITEM>[Grácil Capa Física]<INFO>480018</INFO></ITEM>\n\t\t\t<ITEM>[Grácil Capa Mágica]<INFO>480019</INFO></ITEM>\n\t\t\t<ITEM>[Grácil Bota Física]<INFO>470020</INFO></ITEM>\n\t\t\t<ITEM>[Grácil Bota Mágica]<INFO>470021</INFO></ITEM>\n\t\t\t<ITEM>[Ticket Grácil de Refino]<INFO>100130</INFO></ITEM>\n\t\t\t\n\t\t\t>Licença de Modificação Grace\n\t\t\t<ITEM>[Licença de Modificação Física (Manto)]<INFO>100133</INFO></ITEM>\n\t\t\t<ITEM>[Licença de Modificação Mágica (Manto)]<INFO>100134</INFO></ITEM>\n\t\t\t<ITEM>[Licença de Modificação Física (Armadura)]<INFO>100137</INFO></ITEM>\n\t\t\t<ITEM>[Licença de Modificação Mágica (Armadura)]<INFO>100138</INFO></ITEM>\n\t\t\t\n\t\t\t^663399§ Itens por classe^000000\n\t\t\t<ITEM>[Grácil Traje Draconiano]<INFO>450086</INFO></ITEM>\n\t\t\t<ITEM>[Grácil Traje Flamejante]<INFO>450087</INFO></ITEM>\n\t\t\t<ITEM>[Grácil Traje Perfurante]<INFO>450088</INFO></ITEM>\n\t\t\t<ITEM>[Grácil Traje Exorcista]<INFO>450089</INFO></ITEM>\n\t\t\t<ITEM>[Grácil Traje Preciso]<INFO>450090</INFO></ITEM>\n\t\t\t<ITEM>[Grácil Traje Certeiro]<INFO>450091</INFO></ITEM>\n\t\t\t<ITEM>[Grácil Traje Temporal]<INFO>450092</INFO></ITEM>\n\t\t\t<ITEM>[Grácil Traje Musical]<INFO>450093</INFO></ITEM>\n\t\t\t<ITEM>[Grácil Traje Adoramus]<INFO>450094</INFO></ITEM>\n\t\t\t<ITEM>[Grácil Traje Lumen]<INFO>450095</INFO></ITEM>\n\t\t\t<ITEM>[Grácil Traje Corporal]<INFO>450096</INFO></ITEM>\n\t\t\t<ITEM>[Grácil Traje Lutador]<INFO>450097</INFO></ITEM>\n\t\t\t<ITEM>[Grácil Traje Furacão]<INFO>450098</INFO></ITEM>\n\t\t\t<ITEM>[Grácil Traje Mecânico]<INFO>450099</INFO></ITEM>\n\t\t\t<ITEM>[Grace Canhão de Prótons 슈츠]<INFO>450100</INFO></ITEM>\n\t\t\t<ITEM>[Grácil Traje Tornado]<INFO>450101</INFO></ITEM>\n\t\t\t<ITEM>[Grácil Traje Loki]<INFO>450102</INFO></ITEM>\n\t\t\t<ITEM>[Grácil Traje Crítico]<INFO>450103</INFO></ITEM>\n\t\t\t<ITEM>[Grácil Traje Fatal]<INFO>450104</INFO></ITEM>\n\t\t\t<ITEM>[Grácil Traje Meteórico]<INFO>450105</INFO></ITEM>\n\t\t\t<ITEM>[Grácil Traje Animal]<INFO>450106</INFO></ITEM>\n\t\t\t<ITEM>[Grácil Traje Florestal]<INFO>450107</INFO></ITEM>\n\t\t\t<ITEM>[Grácil Traje Expurgante]<INFO>450108</INFO></ITEM>\n\t\t\t<ITEM>[Grácil Traje Labareda]<INFO>450109</INFO></ITEM>\n\t\t\t<ITEM>[Grácil Traje Escarlate]<INFO>450110</INFO></ITEM>\n\t\t\t<ITEM>[Grácil Traje Gélido]<INFO>450111</INFO></ITEM>\n\t\t\t<ITEM>[Grácil Traje Psíquico]<INFO>450112</INFO></ITEM>\n\t\t\t<ITEM>[Grácil Traje Diamante]<INFO>450113</INFO></ITEM>\n\t\t\t<ITEM>[Grácil Traje Solar]<INFO>450114</INFO></ITEM>\n\t\t\t<ITEM>[Grácil Traje Lunar]<INFO>450115</INFO></ITEM>\n\t\t\t<ITEM>[Grácil Traje Ninpou]<INFO>450116</INFO></ITEM>\n\t\t\t<ITEM>[Grácil Traje Togatana]<INFO>450117</INFO></ITEM>\n\t\t\t<ITEM>[Grácil Traje Eswhoo]<INFO>450118</INFO></ITEM>\n\t\t\t<ITEM>[Grácil Traje Sombrio]<INFO>450119</INFO></ITEM>\n\t\t\t<ITEM>[Grácil Traje Físico]<INFO>450125</INFO></ITEM>\n\t\t\t<ITEM>[Grácil Traje Mágico]<INFO>450126</INFO></ITEM>\n\t\t\t\n\t\t\t<TIPBOX>>Aparece no Ep17.1, Ilusão<INFO>7055</INFO></TIPBOX>\n\t\t\t<TIPBOX>>Recompensa do episódio<INFO>4107</INFO></TIPBOX>\n\t\t\t<TIPBOX>>Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
 	[4193] = {
 		Title = "Sociedade de Monstros",
 		Search = 1,
@@ -944,6 +1007,215 @@ tbl = {
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
 			"Um palácio está sob ataque na Fenda Dimensional. Você descobrirá a história da princesa e o que tornou o Espadachim amaldiçoado...\n\n\t\t\t§ Informações\n\t\t\t\t› Individual\n\t\t\t\t› Diária (reseta 04:00)\n\t\t\t\t› Duração: 120 minutos\n\t\t\t\t› Nível 120 ou mais\n\n\t\t\t<NAVI>[Guarda Real Sinistro]<INFO>dali02,43,129,0,101,0</INFO></NAVI>\n\n\t\t\t§ Recompensas\n\t\t\t› Troque <ITEM>[Fragmento de Cinzas]<INFO>6672</INFO></ITEM>:\n\t\t\t› Armadura\n\t\t\t<ITEM>[Elmo de Cinzas]<INFO>18820</INFO></ITEM>\n\t\t\t<ITEM>[Capa de Cinzas]<INFO>20721</INFO></ITEM>\n\t\t\t<ITEM>[Botas de Cinzas]<INFO>22033</INFO></ITEM>\n\t\t\t<ITEM>[Armadura de Cinzas]<INFO>15090</INFO></ITEM>\n\t\t\t<ITEM>[Mano de Cinzas]<INFO>15091</INFO></ITEM>\n\t\t\t<ITEM>[Escudo de Cinzas]<INFO>2187</INFO></ITEM>\n\t\t\t› Arma\n\t\t\t<ITEM>[Cajado Duplo de Cinzas]<INFO>2023</INFO></ITEM>\n\t\t\t<ITEM>[Lança Dupla de Cinzas]<INFO>1496</INFO></ITEM>\n\t\t\t<ITEM>[Grande Espada de Cinzas]<INFO>21009</INFO></ITEM>\n\t\t\t<ITEM>[Machado de Cinzas]<INFO>28100</INFO></ITEM>\n\t\t\t<ITEM>[Katar de Cinzas]<INFO>28000</INFO></ITEM>\n\t\t\t<ITEM>[Arco de Cinzas]<INFO>18119</INFO></ITEM>\n\t\t\t<ITEM>[Espada de Cinzas]<INFO>13441</INFO></ITEM>\n\t\t\t<ITEM>[Adaga de Cinzas]<INFO>13093</INFO></ITEM>\n\t\t\t<ITEM>[Lança de Cinzas]<INFO>1438</INFO></ITEM>\n\t\t\t<ITEM>[Maça de Cinzas]<INFO>16028</INFO></ITEM>\n\t\t\t<ITEM>[Báculo de Cinzas]<INFO>1669</INFO></ITEM>\n\t\t\t<ITEM>[Punho de Cinzas]<INFO>1836</INFO></ITEM>\n\t\t\t<ITEM>[Violino de Cinzas]<INFO>1933</INFO></ITEM>\n\t\t\t<ITEM>[Chicote de Cinzas]<INFO>1988</INFO></ITEM>\n\n\t\t\t<TIPBOX>» Página anterior<INFO>7129</INFO></TIPBOX>\n\t\t\t<TIPBOX>» Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[7055] = {
+		Title = "Aparecimento do Episódio 17.1, Ilusão#QuestEpisódio",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip07055",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"A República, que aguardava silenciosamente por uma oportunidade dentro de Schwarzwald, finalmente abre suas asas!\n\n\t\t\t\t\tAs Asas Secretas e Rebellion formaram uma aliança temporária.\n\t\t\t\t\tAntes de cortar de vez as garras das corporações, estabelecem uma base operacional em Einbroch para maior mobilidade.\n\n\t\t\t\t\tUma operação de ataque urgente começa no PUB Bala de Gato!\n\n\t\t\t\t\t<TIPBOX>› Ep.16.2 Terra Golria<INFO>8149</INFO></TIPBOX> concluído\n\t\t\t\t\t^663399 § Nível 110 ou superior^000000\n\n\t\t\t\t\t› Missão inicial\n\t\t\t\t\t<TIPBOX>Q Nova área de operações <INFO>7056</INFO></TIPBOX>\n\n\t\t\t\t\t› Missão principal\n\t\t\t\t\t<TIPBOX>Q A crise da empresa<INFO>7057</INFO></TIPBOX>\n\t\t\t\t\t<TIPBOX>Q Caminho para o emprego 01<INFO>7058</INFO></TIPBOX>\n\t\t\t\t\t<TIPBOX>Q Velhas lembranças<INFO>7059</INFO></TIPBOX>\n\t\t\t\t\t<TIPBOX>Q Céu visto do poço<INFO>7060</INFO></TIPBOX>\n\t\t\t\t\t<TIPBOX>Q Moleque travesso puro<INFO>7061</INFO></TIPBOX>\n\n\t\t\t\t\t› Missões secundárias\n\t\t\t\t\t<TIPBOX>Q Operação de Ocupação de Os<INFO>7062</INFO></TIPBOX>\n\t\t\t\t\t<TIPBOX>Q Caminho para o emprego, início da jornada<INFO>7063</INFO></TIPBOX>\n\t\t\t\t\t<TIPBOX>Q História de Morning<INFO>7064</INFO></TIPBOX>\n\n\t\t\t\t\t› Missões diárias\n\t\t\t\t\t<TIPBOX>Q Mercenário vs Mercenário<INFO>7065</INFO></TIPBOX>\n\t\t\t\t\t<TIPBOX>Q Mão de obra da fazenda<INFO>7066</INFO></TIPBOX>\n\t\t\t\t\t<TIPBOX>Q Operação de Supressão EL1_A17T<INFO>7067</INFO></TIPBOX>\n\t\t\t\t\t\n\t\t\t\t\t<TIPBOX>› Ep17.1 Série Ilusão, OS<INFO>4110</INFO></TIPBOX>\n\t\t\t\t\t<TIPBOX>› Ep17.1 Série Grace<INFO>4114</INFO></TIPBOX>\n\n\t\t\t\t\t<TIPBOX>› Ver Episódio 17<INFO>4106</INFO></TIPBOX>\n\t\t\t\t\t<TIPBOX>› Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[7056] = {
+		Title = "Q Nova área de operações (110)#Início da missão do episódio 17.1 Ilusão",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"O PUB Bala de Gato, localizado em Einbroch. Neste bar aparentemente comum, o agente do governo Tess e a Rebellion iniciam uma operação de invasão a uma instalação secreta do laboratório da corporação.\n\n\t\t\t<TIPBOX>› Ep.16.2 Terra Golria<INFO>8149</INFO></TIPBOX> concluído\n\t\t\t^663399 § Nível 110 ou superior^000000\n\n\t\t\t<NAVI>[Philopontes]<INFO>pub_cat,93,105,0,101,0</INFO></NAVI>\n\n\t\t\t<TIPBOX>› Para a página anterior<INFO>7055</INFO></TIPBOX>\n\t\t\t<TIPBOX>› Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[7057] = {
+		Title = "Q A crise da empresa (110)#Missão Episódio 17.1 Ilusão",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Depois de confirmar a verdadeira natureza de Ludus e retornar, o aventureiro é apresentado por Tess a um representante da corporação.\n\tA pessoa que pede ajuda para retomar Regenchirm, o laboratório afiliado da Rekenber que foi tomado por criminosos, será que é...?\n\n\t<TIPBOX>› Nova área de operações<INFO>7056</INFO></TIPBOX> Concluído\n\t^663399 § Nível 110 ou superior^000000\n\n\t<NAVI>[Philopontes]<INFO>pub_cat,93,105,0,101,0</INFO></NAVI>\n\n\t<TIPBOX>› Para a página anterior<INFO>7055</INFO></TIPBOX>\n\t<TIPBOX>› Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[7058] = {
+		Title = "Q Caminho para o emprego 01 (110)#Missão Episódio 17.1 Ilusão",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Leizi, que recebeu uma nova missão do presidente, está explodindo de raiva em um dos quartos do Gato Bala de Canhão.\n\tO alvo é ninguém menos que Kaya Tos, vice-presidente da Rekenber.\n\tSerá que esses dois, que agora iniciam juntos uma jornada para revelar a verdade oculta, conseguirão chegar ao fim em segurança?\n\n\t<TIPBOX>› A crise da empresa<INFO>7057</INFO></TIPBOX> concluído\n\t^663399 § Nível 110 ou superior^000000\n\n\t<NAVI>[Leizi]<INFO>pub_cat,106,69,0,101,0</INFO></NAVI>\n\n\t<TIPBOX>› Para a página anterior<INFO>7055</INFO></TIPBOX>\n\t<TIPBOX>› Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[7059] = {
+		Title = "Q Velhas lembranças (110)#Missão Episódio 17.1 Ilusão",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"As antigas minas de Einbroch já foram fechadas, mas alguns pesquisadores da corporação ainda as utilizam para novos propósitos.\n\tPara combater as instalações ilegais, os veteranos da Rebellion entraram em ação. Afinal, ainda estão na ativa.\n\n\t<TIPBOX>› Caminho para o emprego 01<INFO>7058</INFO></TIPBOX> concluído\n\t^663399 § Nível 110 ou superior^000000\n\n\t<NAVI>[Membro da Rebellion]<INFO>ein_fild03,278,269,0,101,0</INFO></NAVI>\n\n\t<TIPBOX>› Para a página anterior<INFO>7055</INFO></TIPBOX>\n\t<TIPBOX>› Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[7060] = {
+		Title = "Q Céu visto do poço (110)#Missão Episódio 17.1 Ilusão",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Após muitos esforços, ao chegar à entrada de Core, os trabalhadores locais, que não sabem da situação, estão em confronto com a equipe avançada da Rebellion.\n\tAté mesmo Kaya, vice-presidente da Rekenber, tenta persuadi-los, mas não é fácil. Enquanto todos pensam em uma solução, um estranho aparece de repente e ataca sem aviso...?\n\n\t<TIPBOX>› Velhas lembranças<INFO>7059</INFO></TIPBOX> concluído\n\t^663399 § Nível 110 ou superior^000000\n\n\t<NAVI>[Rebellion]<INFO>sp_cor,168,81,0,101,0</INFO></NAVI>\n\n\t<TIPBOX>› Para a página anterior<INFO>7055</INFO></TIPBOX>\n\t<TIPBOX>› Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[7061] = {
+		Title = "Q Moleque travesso puro (110)#Missão Episódio 17.1 Ilusão",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"O pesquisador fugitivo Eliumina está praticando táticas de guerrilha e conseguindo despistar os perseguidores.\n\tO Rebellion, julgando que será difícil tanto a busca quanto a recuperação se Eliumina continuar solto, decide isolar Core e iniciar uma grande operação de busca.\n\n\t<TIPBOX>› O céu visto do poço<INFO>7060</INFO></TIPBOX> Concluído\n\t^663399 § Nível 110 ou superior^000000\n\n\t<NAVI>[Rebellion]<INFO>sp_cor,108,130,0,101,0</INFO></NAVI>\n\n\t<TIPBOX>› Para a página anterior<INFO>7055</INFO></TIPBOX>\n\t<TIPBOX>› Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[7062] = {
+		Title = "Q Operação de Ocupação de Os (110)#Episódio 17.1 Missão diária de Ilusão",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"A equipe avançada garantiu a rota ferroviária de transporte de Ous, mas ainda não está completamente segura.\n\tPara garantir o controle total de Ous, é necessário ajudar na batalha de aniquilação em preparação para o contra-ataque de Ilusão.\n\n\t- Após concluir a missão, haverá uma missão diária disponível.\n\tBusca Secundária em Ous (110)\n\n\t<TIPBOX>› Velhas lembranças<INFO>7059</INFO></TIPBOX> concluído\n\t^663399 § Nível 110 ou superior^000000\n\n\t<NAVI>[Est]<INFO>sp_cor,162,56,0,101,0</INFO></NAVI>\n\n\t<TIPBOX>› Para a página anterior<INFO>7055</INFO></TIPBOX>\n\t<TIPBOX>› Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[7063] = {
+		Title = "Q Caminho para o emprego, início da jornada (110)#Missão diária do episódio 17.1 Ilusão",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Kor, onde os Ilusão se reuniam para realizar pesquisas. Kaya, convencida de que este é o laboratório para onde foram transferidos os desaparecidos que haviam sido contratados pela empresa Rekenber, continua pedindo ao aventureiro que investigue o paradeiro dessas pessoas.\n\n\t\t\t- Após concluir a missão, uma missão diária estará disponível.\n\t\t\tColeta de pulseiras (110)\n\n\t\t\t<TIPBOX>› O céu visto do poço<INFO>7060</INFO></TIPBOX> concluído\n\t\t\t^663399 § Nível 110 ou superior^000000\n\n\t\t\t<NAVI>[Kaya Tos]<INFO>sp_cor,136,146,0,101,0</INFO></NAVI>\n\n\t\t\t<TIPBOX>› Para a página anterior<INFO>7055</INFO></TIPBOX>\n\t\t\t<TIPBOX>› Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[7064] = {
+		Title = "Q Morning História (110)#Episódio 17.1 Ilusão Missão Diária",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Mesmo no Ludus, o lugar onde experimentos descartados perderam sua utilidade, a manhã chega. Até mesmo para a criança abandonada pela manhã, Morning, o café da manhã é necessário. Que tal entregar refeições diariamente para Morning e fazer amizade com ela?\n\n\t\t\t- Após concluir a missão, uma missão diária estará disponível.\n\t\t\tEntrega de Refeição (110)\n\n\t\t\t<TIPBOX>› Nova área de operações<INFO>7056</INFO></TIPBOX> Concluído\n\t\t\t^663399 § Nível 110 ou superior^000000\n\n\t\t\t<NAVI>[Terra com algo enterrado]<INFO>sp_rudus,124,195,0,101,0</INFO></NAVI>\n\n\t\t\t<TIPBOX>› Para a página anterior<INFO>7055</INFO></TIPBOX>\n\t\t\t<TIPBOX>› Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[7065] = {
+		Title = "Q Mercenário vs Mercenário (110)#Missão diária do episódio 17.1 Ilusão",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Os Rebellion continuam realizando operações de extermínio e busca contra Os. No entanto, estão enfrentando dificuldades devido ao surgimento constante de inimigos. Vamos ajudá-los e mostrar o verdadeiro valor dos mercenários.\n\n\t\t\t<TIPBOX>› Velhas lembranças<INFO>7059</INFO></TIPBOX> Concluído\n\t\t\t^663399 § Nível 110 ou superior^000000\n\n\t\t\t<NAVI>[Yuslan]<INFO>sp_cor,155,94,0,101,0</INFO></NAVI>\n\n\t\t\t<TIPBOX>› Para a página anterior<INFO>7055</INFO></TIPBOX>\n\t\t\t<TIPBOX>› Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[7066] = {
+		Title = "Q Mão de obra da fazenda (110)#Missão diária do episódio 17.1 Ilusão",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Apesar de Kor, o laboratório onde experimentos cruéis foram realizados, em um canto dele todo tipo de planta está crescendo. Afinal, os pesquisadores e trabalhadores também precisavam se alimentar.\n\tTalvez seja bom cuidar das plantações por um tempo, ajudando com as mãos que faltam, e assim aproveitar para descansar um pouco.\n\n\t<TIPBOX>› Moleque travesso puro<INFO>7061</INFO></TIPBOX> Concluído\n\t^663399 § Nível 110 ou superior^000000\n\n\t<NAVI>[Trabalhador da Fazenda]<INFO>sp_cor,246,97,0,101,0</INFO></NAVI>\n\n\t<TIPBOX>› Para a página anterior<INFO>7055</INFO></TIPBOX>\n\t<TIPBOX>› Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[7067] = {
+		Title = "Q Operação de Supressão EL1_A17T (110) #Episódio 17.1 Ilusão Missão diária MD Memorial",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"As crianças de Eliumina traíram Eliumina? Em parte sim, em parte não.\n\tAs crianças de Eliumina mudaram para o modo de baixa energia e estão escondidas em algum lugar de Core. No entanto, ao receberem um forte estímulo dos aventureiros, elas escaparam do controle de Eliumina e agora não podem ser desligadas à força.\n\tA única solução é esgotar sua energia gradualmente através de batalhas constantes!\n\n\t<TIPBOX>› Moleque travesso puro<INFO>7061</INFO></TIPBOX> Concluído\n\t^663399 § Nível 110 ou superior^000000\n\n\t<NAVI>[Rebellion]<INFO>sp_cor,113,130,0,101,0</INFO></NAVI>\n\n\t<TIPBOX>› Para a página anterior<INFO>7055</INFO></TIPBOX>\n\t<TIPBOX>› Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[7119] = {
+		Title = "MD 17.1 Operação de Reconquista de Regenschirm (110)",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Operação para retomar o laboratório subsidiário Regenchirm da Rekenber, que foi ocupado por criminosos.\n\t\t\t\t\tEntrando agora!\n\t\t\t\t\t\n\t\t\t\t\t§ Pré-requisito: <TIPBOX>A crise da empresa<INFO>7057</INFO></TIPBOX> concluído\n\t\t\t\t\t\n\t\t\t\t\t§ Estrutura da masmorra\n\t\t\t\t\t\t\t> Modo de cenário único\n\t\t\t\t\t\t\t> Tempo limite: 60 minutos\n\t\t\t\t\t\t\t> Nível 110 ou superior\n\t\t\t\t\t\t\t\n\t\t\t\t\t<NAVI>[Rekenber Guard Oscar]<INFO>lighthalzen,55,278,0,101,0</INFO></NAVI>\n\t\t\t\t\t\n\t\t\t\t\t<TIPBOX>>Para a página anterior<INFO>7107</INFO></TIPBOX>\n\t\t\t\t\t<TIPBOX>>Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[7120] = {
+		Title = "MD 17.1 Os bloqueado - Os concluído (110)",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"As antigas minas de Einbroch já foram fechadas, mas alguns pesquisadores da corporação ainda as utilizam para novos propósitos. As instalações ilegais devem ser demolidas, certo?\n\n\t§ Pré-requisito: <TIPBOX>Caminho para o emprego 01<INFO>7058</INFO></TIPBOX> concluído\n\n\t§ Estrutura da masmorra\n\t\t> Modo de cenário único (reentrada permitida)\n\t\t> Tempo limite: 60 minutos\n\t\t> Nível 110 ou superior\n\n\t<NAVI>[Rebellion membro]<INFO>ein_fild03,278,269,0,101,0</INFO></NAVI>\n\n\t§ <TIPBOX>Recompensas da masmorra<INFO>4110</INFO></TIPBOX>\n\n\t<TIPBOX>>Para a página anterior<INFO>7107</INFO></TIPBOX>\n\t<TIPBOX>>Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[7121] = {
+		Title = "MD 17.1 Operação de Ocupação de Os (110)",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"A equipe de reconhecimento garantiu a rota ferroviária de Os, mas ainda não está completamente segura.\n\tPara garantir o domínio total de Os, é necessário ajudar na batalha de aniquilação em preparação para o contra-ataque de Ilusão.\n\n\t§ Pré-requisito: <TIPBOX>Velhas lembranças<INFO>7059</INFO></TIPBOX> concluído\n\n\t§ Estrutura da masmorra\n\t\t> Modo de cenário único\n\t\t> Tempo limite de 60 minutos\n\t\t> Nível 110 ou superior\n\n\t<NAVI>[Est]<INFO>sp_cor,163,56,0,101,0</INFO></NAVI>\n\n\t<TIPBOX>>Para a página anterior<INFO>7107</INFO></TIPBOX>\n\t<TIPBOX>>Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[7122] = {
+		Title = "MD 17.1 Busca secundária de Os (110)",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Apesar de termos conseguido uma supressão inicial com a operação de extermínio, os mutantes continuam a aparecer. Parece que apenas uma busca contínua e minuciosa poderá erradicá-los completamente.\n\n\t§ Condição prévia: <TIPBOX>Operação de Ocupação de Os<INFO>7121</INFO></TIPBOX> concluída\n\n\t§ Estrutura da masmorra\n\t\t> Pode ser desafiada diariamente (reinicia às 04h do dia seguinte)\n\t\t> Tempo limite: 60 minutos\n\t\t> Nível 110 ou superior\n\n\t<NAVI>[oficial operacional]<INFO>sp_cor,160,55,0,101,0</INFO></NAVI>\n\n\t§ <TIPBOX>Recompensas da masmorra<INFO>4110</INFO></TIPBOX>\n\n\t<TIPBOX>>Para a página anterior<INFO>7107</INFO></TIPBOX>\n\t<TIPBOX>>Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[7123] = {
+		Title = "MD 17.1 Memorial de Core (110)",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"As crianças de Eliumina mudaram para o modo de baixa energia e estão escondidas em algum lugar de Core. No entanto, ao sentirem o forte estímulo dos aventureiros, elas podem escapar do controle de Eliumina e não podem ser desligadas à força.\n\tA única maneira é esgotar sua energia gradualmente através de batalhas constantes!\n\n\t§ Pré-requisito: <TIPBOX>Moleque travesso puro<INFO>7061</INFO></TIPBOX> concluído\n\n\t§ Estrutura da masmorra\n\t\t> Após completar o modo de cenário uma vez, pode ser desafiada diariamente (reinicia às 04h do dia seguinte)\n\t\t> Tempo limite: 60 minutos\n\t\t> Nível 110 ou superior\n\n\t<NAVI>[Rebellion]<INFO>sp_cor,113,130,0,101,0</INFO></NAVI>\n\n\t§ <TIPBOX>Recompensas da masmorra<INFO>4110</INFO></TIPBOX>\n\n\t<TIPBOX>>Para a página anterior<INFO>7107</INFO></TIPBOX>\n\t<TIPBOX>>Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[8086] = {
+		Title = "Operação de Supressão EL1_A17T",
+		Search = 0,
+		Image = "유저인터페이스\\tipbox\\tip08086",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Depois de desactivar os dispositivos de vigilância escondidos em quatro locais, siga a orientação de Eliumina para se aproximar do EL1_A17T."
+		},
+		PageEX = {
+			{
+				EffectNum = 4,
+				Twinkle = 1,
+				StartX = 173,
+				StartY = 92,
+				DistX = 0,
+				DistY = 0,
+				MoveTime = 0
+			},
+			{
+				EffectNum = 4,
+				Twinkle = 1,
+				StartX = 173,
+				StartY = 154,
+				DistX = 0,
+				DistY = 0,
+				MoveTime = 0
+			},
+			{
+				EffectNum = 4,
+				Twinkle = 1,
+				StartX = 120,
+				StartY = 199,
+				DistX = 0,
+				DistY = 0,
+				MoveTime = 0
+			},
+			{
+				EffectNum = 4,
+				Twinkle = 1,
+				StartX = 103,
+				StartY = 233,
+				DistX = 0,
+				DistY = 0,
+				MoveTime = 0
+			}
 		}
 	},
 	[10013] = {

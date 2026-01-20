@@ -1224,6 +1224,8 @@ EFST_IDs = {
 	EFST_C_BUFF_1 = 1509,
 	EFST_C_BUFF_2 = 1510,
 	EFST_OVERSEA_BUFF_12 = 1595,
+	EFST_OVERSEA_BUFF_30 = 1614,
+	EFST_OVERSEA_BUFF_31 = 1615,
 	__newindex = function()
 		error("unknown state")
 	end

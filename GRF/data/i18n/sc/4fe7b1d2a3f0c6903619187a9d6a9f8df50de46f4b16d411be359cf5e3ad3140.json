@@ -2075,7 +2075,7 @@
         "es": "[Prisionera Laphine]\nPor favor, habla con mi gente en Splendide. Vendrán a ayudarme."
     },
     "H7sq": {
-        "en": "What happened to you?",
+        "en": "[Neat Etorr]\nTkeh Iikek Ohek QekhIHkl PkedlioH.",
         "pt": "O que aconteceu com você?",
         "es": "¿Qué te pasó?"
     },
@@ -2438,5 +2438,15 @@
         "en": "^0000FFThe records and after-effect related to the Nidhoggur's Nest have been removed. You can generate and enter the dungeon again.^000000",
         "pt": "^0000FFOs registros e efeitos posteriores relacionados ao Ninho de Nidhogg foram removidos. Você pode gerar e entrar na masmorra novamente.^000000",
         "es": "^0000FFSe eliminaron los registros y secuelas relacionados con el nido de Nidhogg. Puedes generar la mazmorra y volver a entrar.^000000"
+    },
+    "aLsq": {
+        "en": "- You are carrying too many items to proceed with this quest. -",
+        "pt": "- Você não pode prosseguir com a missão porque tem muitos itens. -",
+        "es": "- Llevas demasiados objetos para continuar con esta misión.-"
+    },
+    "absq": {
+        "en": "[Splendide Guard]\nThusDurnah Ra SharVeldIyaz U UorAmanDur Yee neaOsaAdor Yee",
+        "pt": "[Guarda de Esplendor]\nThusDurnah Ra SharVeldIyaz U UorAmanDur Yee neaOsaAdor Yee",
+        "es": "[Guardia de Splendide]\nThusDurnah Ra SharVeldIyaz U UorAmanDur Yee neaOsaAdor Yee"
     }
 }

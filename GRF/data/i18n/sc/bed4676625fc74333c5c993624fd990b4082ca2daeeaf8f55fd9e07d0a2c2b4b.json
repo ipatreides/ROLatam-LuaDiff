@@ -70,12 +70,12 @@
         "es": "[Hija Luen]\nPoppy. Sé amable.\nEsta persona no es\nalguien a quien temer,\n*Shh. Shh.*"
     },
     "jo1b": {
-        "en": "[Mother Rosa]\nAnd how many times \ndid I tell you to lock the doors\nproperly, my dear!!\nThis is all because of you\nnot caring for our house enough!",
+        "en": "[Mother Rosa]\nAnd how many times\ndid I tell you to lock the doors\nproperly, my dear!!\nThis is all because of you\nnot caring for our house enough!",
         "pt": "[Mãe Rosa]\nE quantas vezes \neu lhe disse para trancar as portas\ncorretamente, minha querida!!!\nIsso tudo é por causa de você\nnão cuidar de nossa casa o suficiente!",
         "es": "[Madre Rosa]\n¡¿Y cuántas veces \nte dije que cerraras bien\nlas puertas, cariño?!\nTodo esto es gracias a ti,\n¡por no cuidar bien nuestra casa!"
     },
     "j41b": {
-        "en": "[Father Dames]\nHey, hey, you keep\nblaming me too much!\nAren't we lucky enough \nthat we are not\nhurt anywhere?",
+        "en": "[Father Dames]\nHey, hey, you keep\nblaming me too much!\nAren't we lucky enough\nthat we are not\nhurt anywhere?",
         "pt": "[Pai Dames]\nEi, ei, você continua\nme culpando demais!\nNão temos sorte o suficiente \nde não estarmos\nferidos em alguma lugar?",
         "es": "[Padre Dames]\nOye, oye, ¡sigues\nculpándome demasiado!\n¿No tenemos suerte \nde estar\ncompletamente sanos?"
     },
@@ -95,7 +95,7 @@
         "es": "Me duele mucho la cabeza…"
     },
     "k41b": {
-        "en": "[Mother Rosa]\nIf the human's awake, get rid of it!\nOur house just got robbed\nand we don't have the \nluxury of taking care of someone!",
+        "en": "[Mother Rosa]\nIf the human's awake, get rid of it!\nOur house just got robbed\nand we don't have the\nluxury of taking care of someone!",
         "pt": "[Mãe Rosa]\nSe o humano estiver acordado, livre-se dele!\nNossa casa acabou de ser roubada\ne não podemos nos dar \nao luxo de cuidar de alguém!",
         "es": "[Madre Rosa]\nSi ya se despertó, ¡haz que se vaya!\nAcaban de robar en nuestra casa\ny no podemos darnos el \nlujo de cuidar de alguien."
     },
@@ -115,7 +115,7 @@
         "es": "Alguien salió… y…"
     },
     "l41b": {
-        "en": "[Daughter Luen]\nWow... I can't believe something like that happened.\nI think the person who knocked\nyou unconscious is the one \nwho robbed our house.",
+        "en": "[Daughter Luen]\nWow... I can't believe something like that happened.\nI think the person who knocked\nyou unconscious is the one\nwho robbed our house.",
         "pt": "[Filha Luen]\nUau... Não acredito que algo assim tenha acontecido.\nAcho que a pessoa que te deixou\ninconsciente é a mesma\nque roubou nossa casa.",
         "es": "[Hija Luen]\nGuau… No puedo creer que haya pasado algo así.\nCreo que la persona que te dejó \ninconsciente es la que \nrobó en nuestra casa."
     },
@@ -155,7 +155,7 @@
         "es": "Ayudaré a atrapar al ladrón."
     },
     "n41b": {
-        "en": "[Daughter Luen]\nHmm... The way you look\nseems like you would have \nbeen bullied around in the past..",
+        "en": "[Daughter Luen]\nHmm... The way you look\nseems like you would have\nbeen bullied around in the past..",
         "pt": "[Filha Luen]\nHmm... A sua aparência\nindica que você teria \nsofrido bullying no passado...",
         "es": "[Hija Luen]\nMmm… La forma en que miras\nparece que te \nmolestaron en el pasado…"
     },
@@ -235,7 +235,7 @@
         "es": "[{0}]\nEn otras palabras… la persona que\nme encontró primero fue Rosa\ny yo estaba inconsciente en el frente de\nla casa.\nLa casa estaba muy desordenada\nY…"
     },
     "r41b": {
-        "en": "[{0}]\nThe daughter told me that \nshe saw Balumin passing\nby the house...\nHe seemed to be preoccupied\nwith something...",
+        "en": "[{0}]\nThe daughter told me that\nshe saw Balumin passing\nby the house...\nHe seemed to be preoccupied\nwith something...",
         "pt": "[{0}]\nA filha me disse que \nela viu o Balumin passando\npela casa...\nEle parecia estar preocupado\ncom alguma coisa...",
         "es": "[{0}]\nLa hija me dijo que \nvio pasar a Balumin\npor la casa…\nParecía que le preocupaba\nalgo…"
     },
@@ -270,7 +270,7 @@
         "es": "[{0}]\nDames volvió de reunirse con un amigo.\nEl amigo es simpático.\nEs un poco inmaduro, pero no\nparece ser un problema en particular."
     },
     "to1b": {
-        "en": "[{0}]\nThe stolen necklace was\nwhat the husband bought for his wife..\nRecently, the wife asked him to \nbuy her a necklace, but he refused.\nThat's why he suspects her.\nAnd..",
+        "en": "[{0}]\nThe stolen necklace was\nwhat the husband bought for his wife..\nRecently, the wife asked him to\nbuy her a necklace, but he refused.\nThat's why he suspects her.\nAnd..",
         "pt": "[{0}]\nO colar roubado foi\no que o marido comprou para a esposa.\nRecentemente, a esposa lhe pediu para \ncomprar um colar para ela, mas ele recusou.\nÉ por isso que ele suspeita dela.\nE...",
         "es": "[{0}]\nEl marido compró el collar\nrobado para su esposa…\nRecientemente, la esposa le pidió  \nque le comprara un collar, pero él se negó.\nPor eso sospecha de ella.\nY…"
     },
@@ -280,12 +280,12 @@
         "es": "[{0}]\nDames volvió de reunirse con un amigo.\nEl amigo pidió \ndinero prestado recientemente, pero se lo negaron.\nMmm… Se lo rechazaron…"
     },
     "uI1b": {
-        "en": "[{0}]\nThe stolen necklace was\nwhat the husband bought for his wife.\nRecently, the wife asked him to \nbuy her a necklace, but he refused.\nThat's why he suspects her.\nAnd...",
+        "en": "[{0}]\nThe stolen necklace was\nwhat the husband bought for his wife.\nRecently, the wife asked him to\nbuy her a necklace, but he refused.\nThat's why he suspects her.\nAnd...",
         "pt": "[{0}]\nO colar roubado foi\no que o marido comprou para a esposa.\nRecentemente, a esposa lhe pediu para \ncomprar um colar para ela, mas ele recusou.\nÉ por isso que ele suspeita dela.\nE...",
         "es": "[{0}]\nEl marido compró el collar\nlo que compró para su esposa.\nRecientemente, la esposa le pidió  \nque le comprara un collar, pero él se negó.\nPor eso sospecha de ella.\nY…"
     },
     "uY1b": {
-        "en": "[{0}]\nRosa was coming back from shopping.\nSince I was lying unconscious\nand the house was a mess,\nshe was afraid of me and left me \nthere and stayed inside the house.",
+        "en": "[{0}]\nRosa was coming back from shopping.\nSince I was lying unconscious\nand the house was a mess,\nshe was afraid of me and left me\nthere and stayed inside the house.",
         "pt": "[{0}]\nRosa estava voltando das compras.\nComo eu estava inconsciente\ne a casa estava uma bagunça,\nela ficou com medo de mim e me deixou \nlá e ficou dentro de casa.",
         "es": "[{0}]\nRosa volvía de hacer las compras.\nComo estaba inconsciente\ny la casa estaba hecha un desastre,\nme tuvo miedo, me dejó  \nallí y se quedó adentro de la casa."
     },
@@ -385,7 +385,7 @@
         "es": "[Hija Luen]\nEra un color de cabello poco común,\nasí que me hizo mirar fijo a la persona \nun rato, y me preguntaba quién era."
     },
     "zY1b": {
-        "en": "Was the person male or female?",
+        "en": "[Daughter Luen]\nIt was an uncommon hair color\nso it made me stare at the person\nfor a bit, wondering who it was.",
         "pt": "A pessoa era homem ou mulher?",
         "es": "¿La persona era hombre o mujer?"
     },
@@ -425,7 +425,7 @@
         "es": "[Hija Luen]\nCreo que… fui la \nprimera persona en encontrarte…"
     },
     "1Y1b": {
-        "en": "[Daughter Luen]\nWhen I first found you,\nyou were lying in\nfront of the house unconscious.",
+        "en": "[Daughter Luen]\nI think... I was the\nfirst one to discover you...",
         "pt": "[Filha Luen]\nQuando eu te encontrei pela primeira vez,\nvocê estava deitado na\nfrente da casa, inconsciente.",
         "es": "[Hija Luen]\nCuando te encontré por primera vez,\nestabas en el suelo\ninconsciente en el frente de la casa."
     },
@@ -460,7 +460,7 @@
         "es": "[Hija Luen]\nNo hay problema.\nEspero que haya sido útil \nal menos un poco."
     },
     "3I1b": {
-        "en": "[Daughter Luen]\nI hope we can catch the robber.",
+        "en": "[Daughter Luen]\nNo problem.\nI hope that was helpful\nat least somewhat.",
         "pt": "[Filha Luen]\nEspero que consigamos pegar o ladrão.",
         "es": "[Hija Luen]\nEspero que podamos atrapar al ladrón."
     },
@@ -555,7 +555,7 @@
         "es": "[{0}]\nPor desgracia, no fue el caso,\ny debo hacer una \ninvestigación con interrogatorio\na varias personas."
     },
     "741b": {
-        "en": "[Daughter Luen]\nOh, I see...\nBut aren't you doing\ntoo much for us?\nHonestly, we are very\nthankful for what\nyou've already done...",
+        "en": "[{0}]\nUnfortunately, that wasn't the case,\nand I should do a\nsurvey investigation of\nvarious people.",
         "pt": "[Filha Luen]\nAh, entendo...\nMas você não está fazendo\ndemais por nós?\nSinceramente, estamos muito\nagradecidos pelo que\nque já fez...",
         "es": "[Hija Luen]\nAh, ya veo…\n¿Pero no estás haciendo\ndemasiado por nosotros?\nSinceramente,\nte agradecemos mucho por lo que\nque ya hiciste…"
     },
@@ -950,7 +950,7 @@
         "es": "¿Había algo sospechoso?"
     },
     "Po5b": {
-        "en": "[Mother Rosa]\nWhen I first saw you\nlying down, I was shocked\nout of my mind, and actually\nthought that if you were alive,\nI need to do something about it!\nI'm not that bad, you know!",
+        "en": "[Mother Rosa]\nI didn't really have anything\nI liked, so I just came back home.\nThat's all.",
         "pt": "[Mãe Rosa]\nQuando te vi pela primeira vez\ndeitado, fiquei chocada\ne realmente\npensei que, se você estivesse vivo,\nprecisaria fazer algo a respeito!\nEu não sou tão ruim assim, sabe!",
         "es": "[Madre Rosa]\nCuando te vi por primera vez\nen el suelo, me impactó \nmucho, y en realidad\npensé que, si estabas con vida,\ntenía que hacer algo al respecto.\nNo soy tan mala, ¿sabes?"
     },
@@ -1020,7 +1020,7 @@
         "es": "[Madre Rosa]\nEs obvio que el collar \nno es tan caro.\nIncluso si lo vendes…\nno creo que cueste tanto.\nNo tengo ni idea de por qué lo robaron."
     },
     "TI5b": {
-        "en": "[Mother Rosa]\nThat necklace. It's what\nmy husband got me. So it's\nvery important to me.",
+        "en": "[Mother Rosa]\nIt's obvious that the necklace\nis not that pricey.\nEven if you sell it..\nI don't think it would be all that much.\nI have no idea why it was stolen.",
         "pt": "[Mãe Rosa]\nEsse colar. Foi o que\nmeu marido me deu. Portanto, ele é\nmuito importante para mim.",
         "es": "[Madre Rosa]\nEse collar. Me lo\nregaló mi marido. Así que es\nmuy importante para mí."
     },
@@ -1185,7 +1185,7 @@
         "es": "[Cruyan]\n¡Encontraré ese collar pase lo que pase y se lo llevaré a la madre!"
     },
     "bY5b": {
-        "en": "Did anything particular happen?",
+        "en": "[{0}]\nI'm the detective who\nis responsible for this case.\nI have a few questions to ask and I would appreciate your cooperation.",
         "pt": "Aconteceu alguma coisa em especial?",
         "es": "¿Sucedió algo en particular?"
     },
@@ -1215,7 +1215,7 @@
         "es": "[Cruyan]\nYa que pareces estar trabajando duro, te daré esta Poción de concentración que conseguí al cazar."
     },
     "c45b": {
-        "en": "[Cruyan]\nSo we are done with these questions, right?\nAnd since I will find that necklace for sure, you probably won't have to worry about it anymore.",
+        "en": "[Cruyan]\nWhen I was on my way out of\nthe land of blooming flowers,\nI saw the friend of\nmy girlfriend's father\nhurrying somewhere.",
         "pt": "[Cruyan]\nEntão, acabamos com essas perguntas, certo?\nE, como eu vou encontrar o colar com certeza, você provavelmente não precisará mais se preocupar com isso.",
         "es": "[Cruyan]\nHemos terminado con el interrogatorio, ¿verdad?\nY como seguro encontraré ese collar, probablemente ya no tendrás que preocuparte más."
     },
@@ -2430,7 +2430,7 @@
         "es": "[{0}]\n¡Cruyan es definitivamente el ladrón!\nLa razón es"
     },
     "Zo9b": {
-        "en": "Revenge on Luen's parents",
+        "en": "[{0}]\nHe said that he met with Dames\nand that his financial state\nis unstable recently.\nAnd I heard that you secretly\nasked to borrow some money.",
         "pt": "Vingança contra os pais de Luen",
         "es": "Para vengarse de los padres de Luen."
     },
@@ -2515,7 +2515,7 @@
         "es": "[Cruyan]\nEs cierto que me gustan el alcohol \ny las apuestas, pero como\na la madre de Luen no le gusta nada de eso,\nadopté una vida limpia\npara ganar su confianza."
     },
     "d49b": {
-        "en": "Why would I believe that?",
+        "en": "[{0}]\nHe must have stolen the\nnecklace to take revenge on\nthe opposition he faced from\nRosa regarding his relationship with Luen!",
         "pt": "Por que eu acreditaria nisso?",
         "es": "¿Por qué creería eso?"
     },
@@ -2560,7 +2560,7 @@
         "es": "[{0}]\nnunca es fácil cambiar la primera impresión de nadie.\nEntonces, robó el collar primero y quiso ganarse la confianza de Rosa actuando como si lo hubiera encontrado de nuevo."
     },
     "gI9b": {
-        "en": "[Cruyan]\nHaha... What on earth are you talking about? Huh?\nI was hunting in the land of blooming flowers during the time of crime.\nThe Concentration Potion is the proof.",
+        "en": "[{0}]\nThe Wandering Merchant was\ndrunk and you may think he could\nhave been the culprit, but\nI'm sure it was Cruyan who traded\nthe alcohol for more gambling\nas he ran out of money.",
         "pt": "[Cruyan]\nHaha... De que diabos está falando? O quê?\nEu estava caçando na terra das flores desabrochando durante a hora do crime.\nA Poção de Concentração é a prova.",
         "es": "[Cruyan]\nJa, ja… ¿De qué demonios estás hablando? ¿Eh?\nEstaba cazando en la tierra de los pimpollos al momento del crimen.\nLa Poción de concentración es la prueba."
     },
@@ -2570,7 +2570,7 @@
         "es": "Ya veo… Mmm…"
     },
     "go9b": {
-        "en": "I'm afraid that's not true.",
+        "en": "[Cruyan]\nIt's true that I like alcohol\nand gambling, but since\nLuen's mother doesn't like that,\nI've been living a clean life\nto earn her trust!",
         "pt": "Receio que isso não seja verdade.",
         "es": "Me temo que no es cierto."
     },
@@ -2635,7 +2635,7 @@
         "es": "[Cruyan]\nIncluso… Incluso si eso fuera cierto,\n¡No tengo el collar!\n¡Es verdad!"
     },
     "j49b": {
-        "en": "Look through his possessions.",
+        "en": "[Mother Rosa]\nWhat... What in the\nworld do you mean?",
         "pt": "Dê uma olhada em seus pertences.",
         "es": "Buscar entre sus pertenencias."
     },
@@ -2645,7 +2645,7 @@
         "es": "Explicar sin buscar."
     },
     "kY9b": {
-        "en": "[Cruyan]\nOk, look through it all you want.\nI really don't have the necklace!!",
+        "en": "[{0}]\nFrom the beginning,\nCruyan who likes gambling and alcohol was never liked by Rosa.\nHe tried to change himself in a variety of ways, but...",
         "pt": "[Cruyan]\nOk, dê uma olhada em tudo o que quiser.\nEu realmente não estou com o colar!!!",
         "es": "[Cruyan]\nEstá bien, mira todo lo que quieras.\n¡Realmente no tengo el collar!"
     },
@@ -2715,7 +2715,7 @@
         "es": "[Cruyan]\nPara… Por favor, detente…\nNo quiero ser aún más miserable\nde lo que ya soy…"
     },
     "n49b": {
-        "en": "[Cruyan]\nYes... I am the thief...\nI won't try to \njustify that.",
+        "en": "[{0}]\nBalumin said\nthat even though he hunted\nin the land of blooming flowers\nwhere you presumably were\nhunting also, he never caught\na sight of you.",
         "pt": "[Cruyan]\nSim... Eu sou o ladrão...\nNão vou tentar \njustificar isso.",
         "es": "[Cruyan]\nSí… Yo soy el ladrón…\nNo intentaré  \njustificar eso."
     },
@@ -2770,12 +2770,12 @@
         "es": "[Hija Luen]\nGracias por todo…"
     },
     "qo9b": {
-        "en": "[Daughter Luen]\nPlease let us know\nwhen you're leaving.",
+        "en": "[{0}]\nAlthough Luen\nwas shocked to see her\nboyfriend trying to rob and\ngoing through the house,\nshe got to hear his side of\nthe story.",
         "pt": "[Filha Luen]\nPor favor, nos avise\nquando estiver indo embora.",
         "es": "[Hija Luen]\nAvísanos\ncuando te vayas."
     },
     "q49b": {
-        "en": "Residence entrance",
+        "en": "[{0}]\nShe must have sympathized\nwith how you felt, but probably\ndisagreed with you. She must\nhave physically resisted you\ntrying to steal the necklace, and\nin the process, the necklace was lost...",
         "pt": "Entrada da residência",
         "es": "Salida de la residencia"
     },
@@ -2810,7 +2810,7 @@
         "es": "No salir de la residencia."
     },
     "so9b": {
-        "en": "Exit the residence.",
+        "en": "[Cruyan]\nYes... I am the thief...\nI won't try to\njustify that.",
         "pt": "Saia da residência.",
         "es": "Salir de la residencia."
     },
@@ -2818,5 +2818,105 @@
         "en": "- Let's leave a bit later -",
         "pt": "- Vamos sair um pouco mais tarde -",
         "es": "(Salgamos un poco más tarde)."
+    },
+    "tI9b": {
+        "en": "- You are carrying too many items to proceed with this quest. -",
+        "pt": "- Você não pode prosseguir com a missão porque tem muitos itens. -",
+        "es": "- Llevas demasiados objetos para continuar con esta misión.-"
+    },
+    "tY9b": {
+        "en": "[Daughter Luen]\nIf it was a color as\nobvious as that,\nthere is no way I wouldn't remember!",
+        "pt": "[Filha Luen]\nSe fosse uma cor tão \nóbvia como essa,\nnão haveria como eu não me lembrar!",
+        "es": "[Hija Luen]\nSi fuera un color \ntan llamativo como ese,\nes imposible que no me acordara."
+    },
+    "to9b": {
+        "en": "[Daughter Luen]\nAnyways, I think that's\npretty much all I know.",
+        "pt": "[Filha Luen]\nDe qualquer forma, acho que isso é \npraticamente tudo o que sei.",
+        "es": "[Hija Luen]\nEn fin, creo que eso \nes todo lo que sé."
+    },
+    "t49b": {
+        "en": "[{0}]\nNow..\nI'll let you know the\nresults of my investigation.",
+        "pt": "[{0}]\nAgora...\nEu lhe informarei os \nresultados de minha investigação.",
+        "es": "[{0}]\nAhora…\nTe informaré de \nlos resultados de mi investigación."
+    },
+    "uI9b": {
+        "en": "[Father Dames]\nNot a problem.\nI hope my responses\nwill help you.",
+        "pt": "[Pai Dames]\nNão há problema.\nEspero que minhas respostas \najudem.",
+        "es": "[Padre Dames]\nNo hay problema.\nEspero que mis respuestas \nte ayuden."
+    },
+    "uY9b": {
+        "en": "[Father Dames]\nNo matter what I say,\nshe either says\nIt's not for any specific reason,\nbut she just opposes me for\nthe sake of opposing me.",
+        "pt": "[Pai Dames]\nNão importa o que eu diga,\nela diz \nque não é por nenhuma razão específica,\nmas simplesmente se opõe a mim\napenas pelo fato de se opor a mim.",
+        "es": "[Padre Dames]\nNo importa lo que diga,\nresponde \nNo es por ningún motivo específico,\npero ella simplemente se opone a mí \nsolo para contradecirme."
+    },
+    "uo9b": {
+        "en": "[Father Dames]\nI see you are continuing your investigation.\nAre you thinking of\ntalking to my friend as well?",
+        "pt": "[Pai Dames]\nVejo que está continuando sua investigação.\nEstá pensando em \nconversar com meu amigo também?",
+        "es": "[Padre Dames]\nVeo que continúas con tu investigación.\n¿Piensas \nhablar con mi amigo también?"
+    },
+    "u49b": {
+        "en": "[Mother Rosa]\nAnd it's not that our house is\nfilled with expensive items,\nand the necklace is one\nprecious item that I\ntruly treasure...",
+        "pt": "[Mãe Rosa]\nE não é que nossa casa esteja \ncheia de itens caros,\ne o colar é um\nitem precioso que eu\nrealmente valorizo...",
+        "es": "[Madre Rosa]\nY no es que nuestra casa esté  \nllena de objetos costosos,\ny el collar es\nun objeto valioso que\nverdaderamente atesoro…"
+    },
+    "vI9b": {
+        "en": "[Mother Rosa]\nIn fact, the necklace is also not\nall that expensive. But it's just\nthat it's an object of multiple\nsignificance...",
+        "pt": "[Mãe Rosa]\nDe fato, o colar também não é\ntão caro assim. Mas é que \nque ele é um objeto de múltiplos\nsignificado...",
+        "es": "[Madre Rosa]\nDe hecho, el collar tampoco\nes tan caro. Pero \nes un objeto de mucha\nimportancia…"
+    },
+    "vY9b": {
+        "en": "[Mother Rosa]\nBut...\nIt turns out that\nCruyan or my daughter\ndon't have the necklace.\nFor that I'm still pretty upset.",
+        "pt": "[Mãe Rosa]\nMas...\nAcontece que \nCruyan ou minha filha\nnão estão com o colar.\nPor isso, ainda estou muito chateada.",
+        "es": "[Madre Rosa]\nPero…\nResulta que ni \nCruyan ni mi hija\ntienen el collar.\nPor eso siento bastante disgusto."
+    },
+    "vo9b": {
+        "en": "[Cruyan]\nYour possessions are too\nheavy that I can't confirm\nmy alibi. Please lighten\nyour load and come back.",
+        "pt": "[Cruyan]\nSuas posses são \npesadas demais que eu não posso confirmar\nmeu álibi. Por favor, alivie\nsua carga e volte.",
+        "es": "[Cruyan]\nTus pertenencias son tan \npesadas que no puedo confirmar\nmi coartada. Aligera\ntu carga y regresa."
+    },
+    "v49b": {
+        "en": "[Balumin]\nI know that you were\na big part in resolving\nthis incident.",
+        "pt": "[Balumin]\nSei que você teve \ngrande participação na solução\ndesse incidente.",
+        "es": "[Balumin]\nSé que tuviste \nun papel importante en la resolución de\neste incidente."
+    },
+    "wI9b": {
+        "en": "[{0}]\nThis thing is so violent\ntoward strangers...\nHow could the thief\nbe okay?",
+        "pt": "[{0}]\nEssa coisa é tão violenta\ncontra estranhos...\nComo pode o ladrão \nestar bem?",
+        "es": "[{0}]\nEsta cosa es tan violenta\ncon los extraños…\n¿Cómo podría el ladrón \nestar bien?"
+    },
+    "wY9b": {
+        "en": "[{0}]\nI should observe it\na little bit more...",
+        "pt": "[{0}]\nEu deveria observá-lo \num pouco mais...",
+        "es": "[{0}]\nDebería observarla \nun poco más…"
+    },
+    "wo9b": {
+        "en": "[{0}]\nHey Dames! What's in\nthis soda can container?",
+        "pt": "[{0}]\nEi, Dames! O que tem dentro \ndessa lata de refrigerante?",
+        "es": "[{0}]\n¡Oye, Dames! ¿Qué hay en \neste recipiente para latas de refresco?"
+    },
+    "w49b": {
+        "en": "[{0}]\nIt feels like I could get\nsomething out of this\nforeign object.\nI wonder.",
+        "pt": "[{0}]\nParece que eu poderia conseguir \nalgo com esse\nobjeto estranho.\nEu me pergunto.",
+        "es": "[{0}]\nCreo que podría obtener \nalgo de este\nobjeto extraño.\nMe pregunto."
+    },
+    "xI9b": {
+        "en": "[{0}]\nThe thief who stole\nthe necklace is!!",
+        "pt": "[{0}]\nO ladrão que roubou \no colar é...",
+        "es": "[{0}]\nEl ladrón que robó \nel collar es…"
+    },
+    "xY9b": {
+        "en": "[{0}]\nAs you saw earlier, Rosa would\nfrequently yell at Cruyan, and\nanyone who received that kind of\ntreatment will begin developing\nsome kind of vindictiveness.",
+        "pt": "[{0}]\nComo você viu anteriormente, Rosa\nfrequentemente gritava com Cruyan, e\nqualquer pessoa que receba esse tipo de \ntratamento começará a desenvolver\nalgum tipo de vingança.",
+        "es": "[{0}]\nComo viste antes, Rosa\nle gritaba a Cruyan con frecuencia, y\ncualquiera que recibiera ese tipo de \ntrato comenzaría a desarrollar\nalgún tipo de rencor."
+    },
+    "xo9b": {
+        "en": "[Cruyan]\nI love Luen!!\nIf I committed such a crime,\nI might never be able\nto meet Luen again.\nWhy would I do such\na crazy thing?",
+        "pt": "[Cruyan]\nEu amo a Luen!!!\nSe eu cometesse tal crime,\ntalvez eu nunca mais pudesse\nencontrar Luen novamente.\nPor que eu faria \numa coisa tão louca?",
+        "es": "[Cruyan]\n¡Amo a Luen!\nSi cometiera tal crimen,\nquizá nunca pueda\nvolver a ver a Luen.\n¿Por qué iba a hacer esa \nlocura?"
+    },
+    "x49b": {
+        "en": "[Daughter Luen]\nThank you for lightening\nour burdens...\nCruyan and I will resolve\nthe rest of this issue.\nWould you please go outside now?",
+        "pt": "[Filha Luen]\nObrigada por aliviar \nnossos fardos...\nCruyan e eu resolveremos\no restante dessa questão.\nVocê poderia ir lá fora agora, por favor?",
+        "es": "[Hija Luen]\nGracias por aliviar \nnuestras cargas…\nCruyan y yo resolveremos\nel resto de este problema.\n¿Quieres salir ahora, por favor?"
     }
 }

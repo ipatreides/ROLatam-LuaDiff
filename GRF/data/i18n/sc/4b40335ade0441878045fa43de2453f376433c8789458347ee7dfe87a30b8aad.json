@@ -459,6 +459,9 @@
         "pt": "[Fada Carpinteira]\nNão é possível passar por aqui até que seja consertado, portanto, tenha cuidado.",
         "es": "[Hada carpintera]\nNo puedes pasar por aquí hasta que esté reparado, así que ten cuidado."
     },
+    "fBRd": {
+        "en": "002"
+    },
     "fRRd": {
         "en": "What if you use magic to repair it?",
         "pt": "E se você usar magia para consertar?",
@@ -825,7 +828,7 @@
         "es": "[{0}]\n¿Disculpa?"
     },
     "xhRd": {
-        "en": "[Glaces]\nYes?",
+        "en": "[Golie]\nWhenever you are disheartened and discouraged, try approaching Fili with your concerns. You will probably find new insights.\nAnd... Mm... the bridge was done while we were just jibber-jabbering.",
         "pt": "[Glaces]\nSim?",
         "es": "[Glaces]\n¿Sí?"
     },
@@ -1273,6 +1276,9 @@
         "en": "[Yube]\nTato? Tato is in the western part of the city.",
         "pt": "[Yube]\nTato? Tato fica na parte oeste da cidade.",
         "es": "[Yube]\n¿Tato? Tato está en la parte oeste de la ciudad."
+    },
+    "IBVd": {
+        "en": "128"
     },
     "IRVd": {
         "en": "[Yube]\nHuh?!\nSo no one knows how old Moreng is?",
@@ -1835,7 +1841,7 @@
         "es": "[Viajero]\nSi estás pensando en venderla, deberías desistir.\nNo deseo venderla por mucho que me rueguen."
     },
     "kRVd": {
-        "en": "[Traveler]\nThis feather.\nIt's not an ordinary feather.",
+        "en": "[Du Lian]\nBut old man, would you happen to know anything about a legend regarding the great bird in Midgard?",
         "pt": "[Viajante]\nEsta pena.\nNão é uma pena comum.",
         "es": "[Viajero]\nEsta pluma.\nNo es una pluma común."
     },
@@ -2488,5 +2494,15 @@
         "en": "[Alp Ocart]\nI... I should have.. I should have gotten his autograph!!!",
         "pt": "[Alp Ocart]\nE... Eu deveria ter... Eu deveria ter conseguido seu autógrafo!!!",
         "es": "[AHP Ocart]\nYo… Debería haber… ¡Debería haber conseguido su autógrafo!"
+    },
+    "FBZd": {
+        "en": "- You are carrying too many items to proceed with this quest. -",
+        "pt": "- Você não pode prosseguir com a missão porque tem muitos itens. -",
+        "es": "- Llevas demasiados objetos para continuar con esta misión.-"
+    },
+    "FRZd": {
+        "en": "[Moreng]\nDo you think that old man's story is real? Or do you think it's a lie?\nI used to think of it as a forgotten legend, but now I am even afraid to find out whether it is real or fake.",
+        "pt": "[Moreng]\nVocê acha que a história desse velho é real? Ou que é uma mentira?\nEu costumava pensar nisso como uma lenda esquecida, mas agora tenho até medo de descobrir se é real ou falsa.",
+        "es": "[Moreng]\n¿Crees que la historia de ese anciano es real? ¿O crees que es mentira?\nSolía pensar que era una leyenda olvidada, pero ahora hasta me da miedo averiguar si es real o falsa."
     }
 }

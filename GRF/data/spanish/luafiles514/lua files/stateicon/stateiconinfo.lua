@@ -7827,3 +7827,37 @@ StateIconList[EFST_IDs.EFST_C_BUFF_2] = {
 		{"%s", COLOR_TIME}
 	}
 }
+StateIconList[EFST_IDs.EFST_OVERSEA_BUFF_30] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{
+			"Música de Samba",
+			COLOR_TITLE_BUFF
+		},
+		{"%s", COLOR_TIME},
+		{
+			"Otorga efecto de Ataque Guiado"
+		},
+		{
+			"Absorbe HP y SP"
+		}
+	}
+}
+StateIconList[EFST_IDs.EFST_OVERSEA_BUFF_31] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{
+			"Glitter de Carnaval",
+			COLOR_TITLE_BUFF
+		},
+		{"%s", COLOR_TIME},
+		{
+			"Efectividad de Curación +30%"
+		},
+		{
+			"Reduce el Enfriamiento Global"
+		}
+	}
+}

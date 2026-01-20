@@ -80,12 +80,12 @@
         "es": "[Wuhari]\nMi hermano… no es un erudito muy conocido.\nAunque su fama perdió un poco de brillo estos últimos años porque se quedó en casa dedicándose mucho a las tareas domésticas."
     },
     "UIBY": {
-        "en": "[Wuhari]\nIt's been long since the last time I saw his face because I was all over the place for a while.",
+        "en": "[Wuhari]\nMy brother is... not an extremely well-known scholar.\nAlthough his fame lost a bit of flare these recent years because he was stuck at home getting too fond of housework.",
         "pt": "[Wuhari]\nJá faz muito tempo desde a última vez que vi o rosto dele, porque eu estava em todos os lugares por um tempo.",
         "es": "[Wuhari]\nHa pasado mucho tiempo desde la última vez que lo vi porque he estado en varios lugares."
     },
     "UYBY": {
-        "en": "[Wuhari]\nI don't mean to brag, but I am also a distinguished intellectual myself, so I'm sought after by many, haha.",
+        "en": "[Wuhari]\nIt's been long since the last time I saw his face because I was all over the place for a while.",
         "pt": "[Wuhari]\nNão quero me gabar, mas também sou um intelectual distinto, por isso sou procurado por muitos, haha.",
         "es": "[Wuhari]\nNo quiero presumir, pero también soy un intelectual distinguido, así que muchos me buscan, ja, ja."
     },
@@ -100,9 +100,9 @@
         "es": "[Wuhari]\nDijeron algo sobre su investigación, pero no conozco los detalles. Me gustaría saber más, pero no estoy en condiciones de llegar hasta allí."
     },
     "VIBY": {
-        "en": "[Wuhari]\n{0} would you mind ^0000CDvisiting my big brother in my place^000000 to find out what's going on and let me know?",
-        "pt": "[Wuhari]\n{0}, você se importaria de ^0000CDvisitar meu irmão mais velho em minha casa^000000 para descobrir o que está acontecendo e me informar?",
-        "es": "[Wuhari]\n¿{0}, podrías ^0000CDvisitar a mi hermano mayor por mí^000000 para averiguar qué pasa y contármelo?"
+        "en": "[Wuhari]\nThey said something about his research but I don't know the details myself. I would like to find out more, but I am not in a situation to make my way there.",
+        "pt": "[Wuhari]\n{name}, você se importaria de ^0000CDvisitar meu irmão mais velho em minha casa^000000 para descobrir o que está acontecendo e me informar?",
+        "es": "[Wuhari]\n¿{name}, podrías ^0000CDvisitar a mi hermano mayor por mí^000000 para averiguar qué pasa y contármelo?"
     },
     "VYBY": {
         "en": "I would like to help you but...",
@@ -1935,7 +1935,7 @@
         "es": "[Dandy]\nUn laphine puede cambiarse libremente de ropa, ¡pero no cualquier laphine luce tan bien!"
     },
     "w4FY": {
-        "en": "[Lafiki]\nWhat nonsensical nonsense are you saying? No matter who looks at it, this region's best looker is me!",
+        "en": "The scattered wing pieces are collected.",
         "pt": "[Lafiki]\nQue bobagem sem sentido você está dizendo? Não importa quem olhe para ele, o mais bonito desta região sou eu!",
         "es": "[Lafiki]\n¿Qué tonterías sin sentido estás diciendo? No importa quién mire, ¡la más guapa de esta región soy yo!"
     },
@@ -2213,5 +2213,10 @@
         "en": "[Choir member]\nAah~",
         "pt": "[Membro do Coral]\nAah~",
         "es": "[Miembro del coro]\nAah."
+    },
+    "+4FY": {
+        "en": "- You are carrying too many items to proceed with this quest. -",
+        "pt": "- Você não pode prosseguir com a missão porque tem muitos itens. -",
+        "es": "- Llevas demasiados objetos para continuar con esta misión.-"
     }
 }

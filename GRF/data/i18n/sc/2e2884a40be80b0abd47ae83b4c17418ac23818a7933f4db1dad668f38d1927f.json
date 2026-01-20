@@ -1863,5 +1863,10 @@
         "en": "[Vigilante Penne]\nDon't worry. If you win our favor, we'll give you the job of cleaning anchovies somewhere in Lasagna!",
         "pt": "[Penne]\nNão se preocupe. Se você ganhar a nossa simpatia, vamos te dar o trabalho de limpar anchovas em algum lugar de Lasagna!",
         "es": "[Justiciero Macarrón]\nNo te preocupes. Si te ganas nuestro respeto, te daremos el trabajo de limpiar anchoas en algún lugar de Lasagna."
+    },
+    "FVAECA": {
+        "en": "- You are carrying too many items to proceed with this quest. -",
+        "pt": "- Você não pode prosseguir com a missão porque tem muitos itens. -",
+        "es": "- Llevas demasiados objetos para continuar con esta misión.-"
     }
 }

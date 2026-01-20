@@ -1558,5 +1558,10 @@
         "en": "[Newoz]\nConfirm and report, okay?",
         "pt": "[Novo Oz]\nConfirme e informe, ok?",
         "es": "[Newoz]\nConfirma e informa, ¿sí?"
+    },
+    "+Jte": {
+        "en": "- You are carrying too many items to proceed with this quest. -",
+        "pt": "- Você não pode prosseguir com a missão porque tem muitos itens. -",
+        "es": "- Llevas demasiados objetos para continuar con esta misión.-"
     }
 }

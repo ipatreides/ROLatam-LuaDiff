@@ -2382,12 +2382,12 @@
     "HCgrCg": {
         "en": "[Egnigem Cenia]\nLighthalzen Slum Anonymous Adventurer's Request\nLocation: Biolab\nTarget: Defeat 30 Egnigem Cenia\nReward: Exp 850000, Jexp 850000, 1 Eden Group Coin",
         "pt": "[Cobaia Espadachim]\nSolicitação de um Anônimo\nLocal: Biolaboratório\nObjetivo: Caçar 30 Egnigem Cenia\nRecompensa: EXP base 850000, EXP classe 850000, 1 Moeda do Éden",
-        "es": "[Egnigem Cenia]\nSolicitud de trotamundos sin nombre de los suburbios de Lighthalzen\nUbicación: Biolaboratorio\nObjetivo: Derrota a 30 Egnigem Cenia\nPremio: 850000 de EXP, 850000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Egnigem Cenia]\nSolicitud de trotamundos sin nombre de los barrios bajos de Lighthalzen\nUbicación: Biolaboratorio\nObjetivo: Derrota a 30 Egnigem Cenia\nPremio: 850000 de EXP, 850000 de EXP de clase, 1 moneda del Grupo de Edén"
     },
     "HSgrCg": {
         "en": "Lighthalzen Slum Anonymous Adventurer's Request\n^4D4DFF[Egnigem Cenia]^000000 Quest accepted.",
         "pt": "A solicitação de um Anônimo\n^4D4DFF[Cobaia Espadachim]^000000 foi aceita.",
-        "es": "Solicitud de trotamundos sin nombre de los suburbios de Lighthalzen\n^4D4DFF[Egnigem Cenia]^000000 Misión aceptada."
+        "es": "Solicitud de trotamundos sin nombre de los barrios bajos de Lighthalzen\n^4D4DFF[Egnigem Cenia]^000000 Misión aceptada."
     },
     "HigrCg": {
         "en": "[Request Completed]\nLocation: Biolab\nTarget: Defeat 30 Armeyer Dinze\nReward: Exp 850000, Jexp 850000, 1 Eden Group Coin",
@@ -2397,12 +2397,12 @@
     "HygrCg": {
         "en": "[Armeyer Dinze]\nLighthalzen Slum Anonymous Adventurer's Request\nLocation: Biolab\nTarget: Defeat 30 Armeyer Dinze\nReward: Exp 850000, Jexp 850000, 1 Eden Group Coin",
         "pt": "[Cobaia Mercadora]\nSolicitação de um Anônimo\nLocal: Biolaboratório\nObjetivo: Caçar 30 Armeyer Dinze\nRecompensa: EXP base 850000, EXP classe 850000, 1 Moeda do Éden",
-        "es": "[Armeyer Dinze]\nSolicitud de trotamundos sin nombre de los suburbios de Lighthalzen\nUbicación: Biolaboratorio\nObjetivo: Derrota a 30 Armeyer Dinze\nPremio: 850000 de EXP, 850000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Armeyer Dinze]\nSolicitud de trotamundos sin nombre de los barrios bajos de Lighthalzen\nUbicación: Biolaboratorio\nObjetivo: Derrota a 30 Armeyer Dinze\nPremio: 850000 de EXP, 850000 de EXP de clase, 1 moneda del Grupo de Edén"
     },
     "ICgrCg": {
         "en": "Lighthalzen Slum Anonymous Adventurer's Request\n^4D4DFF[Armeyer Dinze]^000000 Quest accepted.",
         "pt": "A solicitação de um Anônimo\n^4D4DFF[Cobaia Mercadora]^000000 foi aceita.",
-        "es": "Solicitud de trotamundos sin nombre de los suburbios de Lighthalzen\n^4D4DFF[Armeyer Dinze]^000000 Misión aceptada."
+        "es": "Solicitud de trotamundos sin nombre de los barrios bajos de Lighthalzen\n^4D4DFF[Armeyer Dinze]^000000 Misión aceptada."
     },
     "ISgrCg": {
         "en": "[Request Completed]\nLocation: Biolab\nTarget: Defeat 30 Wickebine Tres\nReward: Exp 850000, Jexp 850000, 1 Eden Group Coin",
@@ -2412,12 +2412,12 @@
     "IigrCg": {
         "en": "[Wickebine Tres]\nLighthalzen Slum Anonymous Adventurer's Request\nLocation: Biolab\nTarget: Defeat 30 Wickebine Tres\nReward: Exp 850000, Jexp 850000, 1 Eden Group Coin",
         "pt": "[Cobaia Gatuna]\nSolicitação de um Anônimo\nLocal: Biolaboratório\nObjetivo: Caçar 30 Wickebine Tres\nRecompensa: EXP base 850000, EXP classe 850000, 1 Moeda do Éden",
-        "es": "[Wickebine Tres]\nSolicitud de trotamundos sin nombre de los suburbios de Lighthalzen\nUbicación: Biolaboratorio\nObjetivo: Derrota a 30 Wickebine Tres\nPremio: 850000 de EXP, 850000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Wickebine Tres]\nSolicitud de trotamundos sin nombre de los barrios bajos de Lighthalzen\nUbicación: Biolaboratorio\nObjetivo: Derrota a 30 Wickebine Tres\nPremio: 850000 de EXP, 850000 de EXP de clase, 1 moneda del Grupo de Edén"
     },
     "IygrCg": {
         "en": "Lighthalzen Slum Anonymous Adventurer's Request\n^4D4DFF[Wickebine Tres]^000000 Quest accepted.",
         "pt": "A solicitação de um Anônimo\n^4D4DFF[Cobaia Gatuna]^000000 foi aceita.",
-        "es": "Solicitud de trotamundos sin nombre de los suburbios de Lighthalzen\n^4D4DFF[Wickebine Tres]^000000 Misión aceptada."
+        "es": "Solicitud de trotamundos sin nombre de los barrios bajos de Lighthalzen\n^4D4DFF[Wickebine Tres]^000000 Misión aceptada."
     },
     "JCgrCg": {
         "en": "[Request Completed]\nLocation: Biolab\nTarget: Defeat 30 Kavach Icarus\nReward: Exp 850000, Jexp 850000, 1 Eden Group Coin",
@@ -2427,12 +2427,12 @@
     "JSgrCg": {
         "en": "[Kavach Icarus]\nLighthalzen Slum Anonymous Adventurer's Request\nLocation: Biolab\nTarget: Defeat 30 Kavach Icarus\nReward: Exp 850000, Jexp 850000, 1 Eden Group Coin",
         "pt": "[Cobaia Arqueiro]\nSolicitação de um Anônimo\nLocal: Biolaboratório\nObjetivo: Caçar 30 Kavach Ícaro\nRecompensa: EXP base 850000, EXP classe 850000, 1 Moeda do Éden",
-        "es": "[Kavach Icarus]\nSolicitud de trotamundos sin nombre de los suburbios de Lighthalzen\nUbicación: Biolaboratorio\nObjetivo: Derrota a 30 Kavach Icarus\nPremio: 850000 de EXP, 850000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Kavach Icarus]\nSolicitud de trotamundos sin nombre de los barrios bajos de Lighthalzen\nUbicación: Biolaboratorio\nObjetivo: Derrota a 30 Kavach Icarus\nPremio: 850000 de EXP, 850000 de EXP de clase, 1 moneda del Grupo de Edén"
     },
     "JigrCg": {
         "en": "Lighthalzen Slum Anonymous Adventurer's Request\n^4D4DFF[Kavach Icarus]^000000 Quest accepted.",
         "pt": "A solicitação de um Anônimo\n^4D4DFF[Cobaia Arqueiro]^000000 foi aceita.",
-        "es": "Solicitud de trotamundos sin nombre de los suburbios de Lighthalzen\n^4D4DFF[Kavach Icarus]^000000 Misión aceptada."
+        "es": "Solicitud de trotamundos sin nombre de los barrios bajos de Lighthalzen\n^4D4DFF[Kavach Icarus]^000000 Misión aceptada."
     },
     "JygrCg": {
         "en": "[Request Completed]\nLocation: Biolab\nTarget: Defeat 30 Errende Ebecee\nReward: Exp 850000, Jexp 850000, 1 Eden Group Coin",
@@ -2442,12 +2442,12 @@
     "KCgrCg": {
         "en": "[Errende Ebecee]\nLighthalzen Slum Anonymous Adventurer's Request\nLocation: Biolab\nTarget: Defeat 30 Errende Ebecee\nReward: Exp 850000, Jexp 850000, 1 Eden Group Coin",
         "pt": "[Cobaia Noviço]\nSolicitação de um Anônimo\nLocal: Biolaboratório\nObjetivo: Caçar 30 Errende Ebecee\nRecompensa: EXP base 850000, EXP classe 850000, 1 Moeda do Éden",
-        "es": "[Errende Ebecee]\nSolicitud de trotamundos sin nombre de los suburbios de Lighthalzen\nUbicación: Biolaboratorio\nObjetivo: Derrota a 30 Errende Ebecee\nPremio: 850000 de EXP, 850000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Errende Ebecee]\nSolicitud de trotamundos sin nombre de los barrios bajos de Lighthalzen\nUbicación: Biolaboratorio\nObjetivo: Derrota a 30 Errende Ebecee\nPremio: 850000 de EXP, 850000 de EXP de clase, 1 moneda del Grupo de Edén"
     },
     "KSgrCg": {
         "en": "Lighthalzen Slum Anonymous Adventurer's Request\n^4D4DFF[Errende Ebecee]^000000 Quest accepted.",
         "pt": "A solicitação de um Anônimo\n^4D4DFF[Cobaia Noviço]^000000 foi aceita.",
-        "es": "Solicitud de trotamundos sin nombre de los suburbios de Lighthalzen\n^4D4DFF[Errende Ebecee]^000000 Misión aceptada."
+        "es": "Solicitud de trotamundos sin nombre de los barrios bajos de Lighthalzen\n^4D4DFF[Errende Ebecee]^000000 Misión aceptada."
     },
     "KigrCg": {
         "en": "[Request Completed]\nLocation: Biolab\nTarget: Defeat 30 Laurell Weinder\nReward: Exp 850000, Jexp 850000, 1 Eden Group Coin",
@@ -2457,12 +2457,12 @@
     "KygrCg": {
         "en": "[Laurell Weinder]\nLighthalzen Slum Anonymous Adventurer's Request\nLocation: Biolab\nTarget: Defeat 30 Laurell Weinder\nReward: Exp 850000, Jexp 850000, 1 Eden Group Coin",
         "pt": "[Cobaia Mago]\nSolicitação de um Anônimo\nLocal: Biolaboratório\nObjetivo: Caçar 30 Laurell Weinder\nRecompensa: EXP base 850000, EXP classe 850000, 1 Moeda do Éden",
-        "es": "[Laurell Weinder]\nSolicitud de trotamundos sin nombre de los suburbios de Lighthalzen\nUbicación: Biolaboratorio\nObjetivo: Derrota a 30 Laurell Weinder\nPremio: 850000 de EXP, 850000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Laurell Weinder]\nSolicitud de trotamundos sin nombre de los barrios bajos de Lighthalzen\nUbicación: Biolaboratorio\nObjetivo: Derrota a 30 Laurell Weinder\nPremio: 850000 de EXP, 850000 de EXP de clase, 1 moneda del Grupo de Edén"
     },
     "LCgrCg": {
         "en": "Lighthalzen Slum Anonymous Adventurer's Request\n^4D4DFF[Laurell Weinder]^000000 Quest accepted.",
         "pt": "A solicitação de um Anônimo\n^4D4DFF[Cobaia Mago]^000000 foi aceita.",
-        "es": "Solicitud de trotamundos sin nombre de los suburbios de Lighthalzen\n^4D4DFF[Laurell Weinder]^000000 Misión aceptada."
+        "es": "Solicitud de trotamundos sin nombre de los barrios bajos de Lighthalzen\n^4D4DFF[Laurell Weinder]^000000 Misión aceptada."
     },
     "LSgrCg": {
         "en": "[Request Completed]\nLocation: Biolab\nTarget: Defeat 2 Cecil Damon\nReward: Exp 1000000, Jexp 1000000, 1 Eden Group Coin",
@@ -2472,12 +2472,12 @@
     "LigrCg": {
         "en": "[Cecil Damon]\nLighthalzen Slum Anonymous Adventurer's Request\nLocation: Biolab\nTarget: Defeat 2 Cecil Damon\nReward: Exp 1000000, Jexp 1000000, 1 Eden Group Coin",
         "pt": "[Cobaia Atiradora]\nSolicitação de um Anônimo\nLocal: Biolaboratório\nObjetivo: Caçar 2 Cecil Damon\nRecompensa: EXP base 1000000, EXP classe 1000000, 1 Moeda do Éden",
-        "es": "[Cecil Damon]\nSolicitud de trotamundos sin nombre de los suburbios de Lighthalzen\nUbicación: Biolaboratorio\nObjetivo: Derrota a 2 Cecil Damon\nPremio: 1000000 de EXP, 1000000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Cecil Damon]\nSolicitud de trotamundos sin nombre de los barrios bajos de Lighthalzen\nUbicación: Biolaboratorio\nObjetivo: Derrota a 2 Cecil Damon\nPremio: 1000000 de EXP, 1000000 de EXP de clase, 1 moneda del Grupo de Edén"
     },
     "LygrCg": {
         "en": "Lighthalzen Slum Anonymous Adventurer's Request\n^4D4DFF[Cecil Damon]^000000 Quest accepted.",
         "pt": "A solicitação de um Anônimo\n^4D4DFF[Cobaia Atiradora]^000000 foi aceita.",
-        "es": "Solicitud de trotamundos sin nombre de los suburbios de Lighthalzen\n^4D4DFF[Cecil Damon]^000000 Misión aceptada."
+        "es": "Solicitud de trotamundos sin nombre de los barrios bajos de Lighthalzen\n^4D4DFF[Cecil Damon]^000000 Misión aceptada."
     },
     "MCgrCg": {
         "en": "[Request Completed]\nLocation: Biolab\nTarget: Defeat 2 Kathryne Keyron\nReward: Exp 1000000, Jexp 1000000, 1 Eden Group Coin",
@@ -2487,12 +2487,12 @@
     "MSgrCg": {
         "en": "[Kathryne Keyron]\nLighthalzen Slum Anonymous Adventurer's Request\nLocation: Biolab\nTarget: Defeat 2 Kathryne Keyron\nReward: Exp 1000000, Jexp 1000000, 1 Eden Group Coin",
         "pt": "[Cobaia Arquimaga]\nSolicitação de um Anônimo\nLocal: Biolaboratório\nObjetivo: Caçar 2 Kathryne Keyron\nRecompensa: EXP base 1000000, EXP classe 1000000, 1 Moeda do Éden",
-        "es": "[Kathryne Keyron]\nSolicitud de trotamundos sin nombre de los suburbios de Lighthalzen\nUbicación: Biolaboratorio\nObjetivo: Derrota a 2 Kathryne Keyron\nPremio: 1000000 de EXP, 1000000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Kathryne Keyron]\nSolicitud de trotamundos sin nombre de los barrios bajos de Lighthalzen\nUbicación: Biolaboratorio\nObjetivo: Derrota a 2 Kathryne Keyron\nPremio: 1000000 de EXP, 1000000 de EXP de clase, 1 moneda del Grupo de Edén"
     },
     "MigrCg": {
         "en": "Lighthalzen Slum Anonymous Adventurer's Request\n^4D4DFF[Kathryne Keyron]^000000 Quest accepted.",
         "pt": "A solicitação de um Anônimo\n^4D4DFF[Cobaia Arquimaga]^000000 foi aceita.",
-        "es": "Solicitud de trotamundos sin nombre de los suburbios de Lighthalzen\n^4D4DFF[Kathryne Keyron]^000000 Misión aceptada."
+        "es": "Solicitud de trotamundos sin nombre de los barrios bajos de Lighthalzen\n^4D4DFF[Kathryne Keyron]^000000 Misión aceptada."
     },
     "MygrCg": {
         "en": "[Request Completed]\nLocation: Biolab\nTarget: Defeat 2 Margaretha Sorin\nReward: Exp 1000000, Jexp 1000000, 1 Eden Group Coin",
@@ -2502,12 +2502,12 @@
     "NCgrCg": {
         "en": "[Margaretha Sorin]\nLighthalzen Slum Anonymous Adventurer's Request\nLocation: Biolab\nTarget: Defeat 2 Margaretha Sorin\nReward: Exp 1000000, Jexp 1000000, 1 Eden Group Coin",
         "pt": "[Cobaia Sacerdotisa]\nSolicitação de um Anônimo\nLocal: Biolaboratório\nObjetivo: Caçar 2 Margaretha Sorin\nRecompensa: EXP base 1000000, EXP classe 1000000, 1 Moeda do Éden",
-        "es": "[Margarita Sorin]\nSolicitud de trotamundos sin nombre de los suburbios de Lighthalzen\nUbicación: Biolaboratorio\nObjetivo: Derrota a 2 Margarita Sorin\nPremio: 1000000 de EXP, 1000000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Margarita Sorin]\nSolicitud de trotamundos sin nombre de los barrios bajos de Lighthalzen\nUbicación: Biolaboratorio\nObjetivo: Derrota a 2 Margarita Sorin\nPremio: 1000000 de EXP, 1000000 de EXP de clase, 1 moneda del Grupo de Edén"
     },
     "NSgrCg": {
         "en": "Lighthalzen Slum Anonymous Adventurer's Request\n^4D4DFF[Margaretha Sorin]^000000 Quest accepted.",
         "pt": "A solicitação de um Anônimo\n^4D4DFF[Cobaia Sacerdotisa]^000000 foi aceita.",
-        "es": "Solicitud de trotamundos sin nombre de los suburbios de Lighthalzen\n^4D4DFF[Margarita Sorin]^000000 Misión aceptada."
+        "es": "Solicitud de trotamundos sin nombre de los barrios bajos de Lighthalzen\n^4D4DFF[Margarita Sorin]^000000 Misión aceptada."
     },
     "NigrCg": {
         "en": "[Request Completed]\nLocation: Biolab\nTarget: Defeat 2 Seyren Windsor\nReward: Exp 1000000, Jexp 1000000, 1 Eden Group Coin",
@@ -2517,12 +2517,12 @@
     "NygrCg": {
         "en": "[Seyren Windsor]\nLighthalzen Slum Anonymous Adventurer's Request\nLocation: Biolab\nTarget: Defeat 2 Seyren Windsor\nReward: Exp 1000000, Jexp 1000000, 1 Eden Group Coin",
         "pt": "[Cobaia Lorde]\nSolicitação de um Anônimo\nLocal: Biolaboratório\nObjetivo: Caçar 2 Seyren Windsor\nRecompensa: EXP base 1000000, EXP classe 1000000, 1 Moeda do Éden",
-        "es": "[Seyren Windsor]\nSolicitud de trotamundos sin nombre de los suburbios de Lighthalzen\nUbicación: Biolaboratorio\nObjetivo: Derrota a 2 Seyren Windsor\nPremio: 1000000 de EXP, 1000000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Seyren Windsor]\nSolicitud de trotamundos sin nombre de los barrios bajos de Lighthalzen\nUbicación: Biolaboratorio\nObjetivo: Derrota a 2 Seyren Windsor\nPremio: 1000000 de EXP, 1000000 de EXP de clase, 1 moneda del Grupo de Edén"
     },
     "OCgrCg": {
         "en": "Lighthalzen Slum Anonymous Adventurer's Request\n^4D4DFF[Seyren Windsor]^000000 Quest accepted.",
         "pt": "A solicitação de um Anônimo\n^4D4DFF[Cobaia Lorde]^000000 foi aceita.",
-        "es": "Solicitud de trotamundos sin nombre de los suburbios de Lighthalzen\n^4D4DFF[Seyren Windsor]^000000 Misión aceptada."
+        "es": "Solicitud de trotamundos sin nombre de los barrios bajos de Lighthalzen\n^4D4DFF[Seyren Windsor]^000000 Misión aceptada."
     },
     "OSgrCg": {
         "en": "[Request Completed]\nLocation: Biolab\nTarget: Defeat 2 Eremes Guile\nReward: Exp 1000000, Jexp 1000000, 1 Eden Group Coin",
@@ -2532,12 +2532,12 @@
     "OigrCg": {
         "en": "[Eremes Guile]\nLighthalzen Slum Anonymous Adventurer's Request\nLocation: Biolab\nTarget: Defeat 2 Eremes Guile\nReward: Exp 1000000, Jexp 1000000, 1 Eden Group Coin",
         "pt": "[Cobaia Algoz]\nSolicitação de um Anônimo\nLocal: Biolaboratório\nObjetivo: Caçar 2 Eremes Guile\nRecompensa: EXP base 1000000, EXP classe 1000000, 1 Moeda do Éden",
-        "es": "[Eremes Guile]\nSolicitud de trotamundos sin nombre de los suburbios de Lighthalzen\nUbicación: Biolaboratorio\nObjetivo: Derrota a 2 Eremes Guile\nPremio: 1000000 de EXP, 1000000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Eremes Guile]\nSolicitud de trotamundos sin nombre de los barrios bajos de Lighthalzen\nUbicación: Biolaboratorio\nObjetivo: Derrota a 2 Eremes Guile\nPremio: 1000000 de EXP, 1000000 de EXP de clase, 1 moneda del Grupo de Edén"
     },
     "OygrCg": {
         "en": "Lighthalzen Slum Anonymous Adventurer's Request\n^4D4DFF[Eremes Guile]^000000 Quest accepted.",
         "pt": "A solicitação de um Anônimo\n^4D4DFF[Cobaia Algoz]^000000 foi aceita.",
-        "es": "Solicitud de trotamundos sin nombre de los suburbios de Lighthalzen\n^4D4DFF[Eremes Guile]^000000 Misión aceptada."
+        "es": "Solicitud de trotamundos sin nombre de los barrios bajos de Lighthalzen\n^4D4DFF[Eremes Guile]^000000 Misión aceptada."
     },
     "PCgrCg": {
         "en": "[Request Completed]\nLocation: Biolab\nTarget: Defeat 2 Howard Alteisen\nReward: Exp 1000000, Jexp 1000000, 1 Eden Group Coin",
@@ -2547,12 +2547,12 @@
     "PSgrCg": {
         "en": "[Howard Alteisen]\nLighthalzen Slum Anonymous Adventurer's Request\nLocation: Biolab\nTarget: Defeat 2 Howard Alteisen\nReward: Exp 1000000, Jexp 1000000, 1 Eden Group Coin",
         "pt": "[Cobaia Ferreiro]\nSolicitação de um Anônimo\nLocal: Biolaboratório\nObjetivo: Caçar 2 Howard Alt-Eisen\nRecompensa: EXP base 1000000, EXP classe 1000000, 1 Moeda do Éden",
-        "es": "[Howard Alteisen]\nSolicitud de trotamundos sin nombre de los suburbios de Lighthalzen\nUbicación: Biolaboratorio\nObjetivo: Derrota a 2 Howard Alteisen\nPremio: 1000000 de EXP, 1000000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Howard Alteisen]\nSolicitud de trotamundos sin nombre de los barrios bajos de Lighthalzen\nUbicación: Biolaboratorio\nObjetivo: Derrota a 2 Howard Alteisen\nPremio: 1000000 de EXP, 1000000 de EXP de clase, 1 moneda del Grupo de Edén"
     },
     "PigrCg": {
         "en": "Lighthalzen Slum Anonymous Adventurer's Request\n^4D4DFF[Howard Alteisen]^000000 Quest accepted.",
         "pt": "A solicitação de um Anônimo\n^4D4DFF[Cobaia Ferreiro]^000000 foi aceita.",
-        "es": "Solicitud de trotamundos sin nombre de los suburbios de Lighthalzen\n^4D4DFF[Howard Alteisen]^000000 Misión aceptada."
+        "es": "Solicitud de trotamundos sin nombre de los barrios bajos de Lighthalzen\n^4D4DFF[Howard Alteisen]^000000 Misión aceptada."
     },
     "PygrCg": {
         "en": "[Request Completed]\nLocation: Dimensional Rift\nTarget: Defeat 30 Incarnation of Morroc (Valkyrie)\nReward: Exp 800000, Jexp 800000, 1 Eden Group Coin",

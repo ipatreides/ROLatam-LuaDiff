@@ -121,13 +121,13 @@
     },
     "OIycBw": {
         "en": "[{0}]\nI am... You revealed you're an adventurer who came to help Secret Wings and requested cooperation to the Rebellion.",
-        "pt": "[{0}]\nEu sou... ^FF0000Você revelou que é um aventureiro que veio ajudar a Vento Secreto e pediu apoio à Rebelião.^000000",
-        "es": "[{0}]\nSoy… Revelaste que eres la persona que vino a ayudar a Alas Secretas y pidió cooperación a Rebelión."
+        "pt": "[{0}]\nEu sou... ^FF0000Você revelou que é um aventureiro que veio ajudar o Vento Secreto e pediu apoio à Rebelião.^000000",
+        "es": "[{0}]\nSoy… Revelaste que eres la persona que vino a ayudar al Viento Secreto y pidió cooperación a Rebelión."
     },
     "OYycBw": {
         "en": "[USU commander Elena]\nSecret Wings? They are just rookies. All they do is suck up to the president.\nYou're so brave. Who told you to visit me?\nI don't want to dance to chicks flapping their wings. Just go away.",
         "pt": "[Comandante Elena]\nVento Secreto? Eles são amadores. Tudo o que fazem é bajular o presidente, não é?\nVocê tem tanta coragem. Quem te disse para me visitar?\nEu não quero me envolver com quem só quer se exibir. Apenas vá embora.",
-        "es": "[Comandante Elena]\n¿Alas Secretas? Solo son principiantes. Lo único que hacen es lamerle las botas al presidente.\nEres muy valiente. ¿Quién te dijo que me visitaras?\nNo quiero tener nada que ver con gente que solo quiere presumir. Solo vete."
+        "es": "[Comandante Elena]\n¿Viento Secreto? Solo son principiantes. Lo único que hacen es lamerle las botas al presidente.\nEres muy valiente. ¿Quién te dijo que me visitaras?\nNo quiero tener nada que ver con gente que solo quiere presumir. Solo vete."
     },
     "OoycBw": {
         "en": "[{0}]\nNo, wait please. In fact, I... no, my companion...",
@@ -331,8 +331,8 @@
     },
     "YoycBw": {
         "en": "[USU commander Elena]\nSo I'll support the cooperation with the Secret Wings. Do you need my signature?",
-        "pt": "[Comandante Elena]\nEntão eu apoio a cooperação com a Vento Secreto. Você precisa da minha assinatura?",
-        "es": "[Comandante Elena]\nAsí que apoyaré la cooperación con Alas Secretas. ¿Necesitas mi firma?"
+        "pt": "[Comandante Elena]\nEntão eu apoio a cooperação com o Vento Secreto. Você precisa da minha assinatura?",
+        "es": "[Comandante Elena]\nAsí que apoyaré la cooperación con el Viento Secreto. ¿Necesitas mi firma?"
     },
     "Y4ycBw": {
         "en": "[{0}]\nNo, you don't have to. Please show your opinion in front of others next time.",
@@ -396,8 +396,8 @@
     },
     "b4ycBw": {
         "en": "[USU commander Elena]\nAren't you going to fight me?\nHaven't you come here to ask for the cooperation between the Secret Wings and Rebellion?",
-        "pt": "[Comandante Elena]\nVocê não vai me enfrentar?\nVocê não veio aqui pedir a cooperação entre a Vento Secreto e a Rebelião?",
-        "es": "[Comandante Elena]\n¿No pelearás conmigo?\n¿No viniste a pedir la cooperación entre Alas Secretas y la Rebelión?"
+        "pt": "[Comandante Elena]\nVocê não vai me enfrentar?\nVocê não veio aqui pedir a cooperação entre o Vento Secreto e a Rebelião?",
+        "es": "[Comandante Elena]\n¿No pelearás conmigo?\n¿No viniste a pedir la cooperación entre el Viento Secreto y la Rebelión?"
     },
     "cIycBw": {
         "en": "[USU commander Elena]\nWill you give up the fight?",
@@ -452,7 +452,7 @@
     "eoycBw": {
         "en": "[USU commander Elena]\nAren't you going to fight me?\nHaven't you come here to ask for the cooperation with the Rebellion?",
         "pt": "[Comandante Elena]\nVocê não vai me enfrentar?\nVocê não veio aqui pedir a cooperação da Rebelião?",
-        "es": "[Comandante Elena]\n¿No pelearás conmigo?\n¿No viniste a pedir la cooperación entre Alas Secretas y la Rebelión?"
+        "es": "[Comandante Elena]\n¿No pelearás conmigo?\n¿No viniste a pedir la cooperación de la Rebelión?"
     },
     "e4ycBw": {
         "en": "[USU commander Elena]\nDo not make me repeat it.\nIn that case, print the screen and ask the administration team about it.",
@@ -476,8 +476,8 @@
     },
     "f4ycBw": {
         "en": "[{0}]\nYes. I have come to request a cooperation between the Secret Wings and the Rebellion.\nIn order to persuade the people of Rebellions, I would like to ask you for help...",
-        "pt": "[{0}]\nSim. Eu vim solicitar uma cooperação entre a Vento Secreto e a Rebelião.\nEu gostaria de pedir sua ajuda para convencer o pessoal da Rebelião...",
-        "es": "[{0}]\nSí. Vine a solicitar una cooperación entre Alas Secretas y la Rebelión.\nMe gustaría pedirte ayuda para persuadir a las personas de la Rebelión."
+        "pt": "[{0}]\nSim. Eu vim solicitar uma cooperação entre o Vento Secreto e a Rebelião.\nEu gostaria de pedir sua ajuda para convencer o pessoal da Rebelião...",
+        "es": "[{0}]\nSí. Vine a solicitar una cooperación entre el Viento Secreto y la Rebelión.\nMe gustaría pedirte ayuda para persuadir a las personas de la Rebelión."
     },
     "gIycBw": {
         "en": "[USU commander Elena]\nOkay. I will help you.\nWhat should I do?",
@@ -491,8 +491,8 @@
     },
     "goycBw": {
         "en": "[USU commander Elena]\nYou don't have to tell me the story. You've already told me the story physically. If I can fight on the same side with you, I will welcome whatever it is.\nSo I support the cooperation with the Secret Wings. Do you need my signature?",
-        "pt": "[Comandante Elena]\nVocê não precisa me contar a história. Você já me contou a história, fisicamente. Se eu puder lutar do mesmo lado que você, aceitarei o que quer que seja.\nEntão eu apoio a cooperação com a Vento Secreto. Você precisa da minha assinatura?",
-        "es": "[Comandante Elena]\nNo tienes que contarme la historia. Ya me contaste la historia demostrativamente. Si puedo pelear en el mismo bando que tú, le daré la bienvenida con satisfacción a lo que sea.\nAsí que apoyo la cooperación con Alas Secretas. ¿Necesitas mi firma?"
+        "pt": "[Comandante Elena]\nVocê não precisa me contar a história. Você já me contou a história, fisicamente. Se eu puder lutar do mesmo lado que você, aceitarei o que quer que seja.\nEntão eu apoio a cooperação com o Vento Secreto. Você precisa da minha assinatura?",
+        "es": "[Comandante Elena]\nNo tienes que contarme la historia. Ya me contaste la historia demostrativamente. Si puedo pelear en el mismo bando que tú, le daré la bienvenida con satisfacción a lo que sea.\nAsí que apoyo la cooperación con el Viento Secreto. ¿Necesitas mi firma?"
     },
     "g4ycBw": {
         "en": "[USU commander Elena]\nGood. ......By the way,\nIf you have time, visit the arena any time.\nI will fight you even if you come every day.",
@@ -1372,12 +1372,12 @@
     "Mo2cBw": {
         "en": "[Jana Levedev]\nAre you the adventurer who defeated our commander?\nSo you're the one from the Secret Wings, aren't you?",
         "pt": "[Jana Levedev]\nVocê é o aventureiro que derrotou nossa comandante?\nEntão você é a pessoa do Vento Secreto, não é?",
-        "es": "[Jana Levedev]\n¿Eres el trotamundos que derrotó a nuestra comandante?\nAsí que tú eres la persona de Alas Secretas, ¿no?"
+        "es": "[Jana Levedev]\n¿Eres el trotamundos que derrotó a nuestra comandante?\nAsí que tú eres la persona del Viento Secreto, ¿no?"
     },
     "M42cBw": {
         "en": "[Jana Levedev]\nHuhu, the old guys here hate the Secret Wings, but we don't care.\nSince we want to fight hard in a mission, we welcome your proposal.",
-        "pt": "[Jana Levedev]\nHuhu, os mais velhos aqui odeiam a Vento Secreto, mas nós não ligamos.\nComo queremos lutar arduamente em uma missão, agradecemos a sua proposta.",
-        "es": "[Jana Levedev]\nJa, ja, los viejos de aquí odian a los miembros de Alas Secretas, pero no nos importa.\nComo queremos darlo todo en una misión, aceptamos tu propuesta."
+        "pt": "[Jana Levedev]\nHuhu, os mais velhos aqui odeiam o Vento Secreto, mas nós não ligamos.\nComo queremos lutar arduamente em uma missão, agradecemos a sua proposta.",
+        "es": "[Jana Levedev]\nJa, ja, los viejos de aquí odian a los miembros del Viento Secreto, pero no nos importa.\nComo queremos darlo todo en una misión, aceptamos tu propuesta."
     },
     "NI2cBw": {
         "en": "Ilya Levedev: Me too!",
@@ -2211,8 +2211,8 @@
     },
     "2o2cBw": {
         "en": "[Detached Force commander Ericsson]\nYou... You're the adventurer who showed up with the Secret Wings.\nWhat can I do for you?",
-        "pt": "[Ericsson Adler]\nVocê... Você é o viajante que veio com a Vento Secreto.\nEm que posso ajudar?",
-        "es": "[Ericsson Adler]\nTú… Eres el trotamundos que apareció con Alas Secretas.\n¿En qué te puedo ayudar?"
+        "pt": "[Ericsson Adler]\nVocê... Você é o viajante que veio com o Vento Secreto.\nEm que posso ajudar?",
+        "es": "[Ericsson Adler]\nTú… Eres el trotamundos que apareció con el Viento Secreto.\n¿En qué te puedo ayudar?"
     },
     "242cBw": {
         "en": "You told him what you heard from Elena Bolkova and asked him for a consultation.",
@@ -2221,8 +2221,8 @@
     },
     "3I2cBw": {
         "en": "[Detached Force commander Ericsson]\nIf it was about the Secret Wings, I would not have mentioned anything. But for that issue, I will help you.\nAs commander Bolkova said, I brought those kids.",
-        "pt": "[Ericsson Adler]\nSe fosse sobre a Vento Secreto, eu não teria falado nada. Mas com esse problema, vou ajudá-lo.\nComo a comandante Bolkova disse, eu trouxe essas crianças.",
-        "es": "[Ericsson Adler]\nSi se tratara de Alas Secretas, no habría dicho nada. Pero en ese asunto, les ayudaré.\nComo dijo la comandante Bolkova, yo traje a esos chicos."
+        "pt": "[Ericsson Adler]\nSe fosse sobre o Vento Secreto, eu não teria falado nada. Mas com esse problema, vou ajudá-lo.\nComo a comandante Bolkova disse, eu trouxe essas crianças.",
+        "es": "[Ericsson Adler]\nSi se tratara del Viento Secreto, no habría dicho nada. Pero en ese asunto, les ayudaré.\nComo dijo la comandante Bolkova, yo traje a esos chicos."
     },
     "3Y2cBw": {
         "en": "[Detached Force commander Ericsson]\n...I heard what happened to them lately. But I didn't know they were suffering like that.",
@@ -4675,15 +4675,28 @@
         "es": "-Tienes demasiados objetos en el inventario.\nOrganiza tu inventario e inténtalo de nuevo.-"
     },
     "x4+cBw": {
-        "en": "Autumn Red Tea"
+        "en": "Autumn Red Tea",
+        "pt": "Chá Vermelho de Outono",
+        "es": "Té Rojo de Otoño"
     },
     "yI+cBw": {
-        "en": "Honey Herbal Tea"
+        "en": "Honey Herbal Tea",
+        "pt": "Chá de Ervas com Mel",
+        "es": "Té de Hierbas con Miel"
     },
     "yY+cBw": {
-        "en": "Chocolate Mousse"
+        "en": "Chocolate Mousse",
+        "pt": "Mousse de Chocolate",
+        "es": "Mousse de Chocolate"
     },
     "yo+cBw": {
-        "en": "[Milo River]\nYou brought it as you promised! A cup of Grape Herb Tea. Will you give it to me now?"
+        "en": "[Milo River]\nYou brought it as you promised! A cup of Grape Herb Tea. Will you give it to me now?",
+        "pt": "[Milo River]\nVocê trouxe como prometeu! Uma xícara de Chá de Ervas de Uva.\nVai me entregar agora?",
+        "es": "[Milo River]\n¡Lo trajiste tal como prometiste! Una taza de Té de Hierbas de Uva.\n¿Me lo darás ahora?"
+    },
+    "y4+cBw": {
+        "en": "- You are carrying too many items to proceed with this quest. -",
+        "pt": "- Você não pode prosseguir com a missão porque tem muitos itens. -",
+        "es": "- Llevas demasiados objetos para continuar con esta misión.-"
     }
 }

@@ -6879,110 +6879,110 @@ QuestInfoList = {
 		CoolTimeQuest = 1
 	},
 	[3407] = {
-		Title = "Ilusión submarina I",
+		Title = "La caña de pescar del desaparecido",
 		Description = {
-			"Llevemos la caña de pescar de Shirud al <NAVI>[oceanólogo Jerimon]<INFO>prt_in,157,66,0,101,0</INFO></NAVI>."
+			"Llevemos Caña de Pescar de Sirud a <NAVI>[Científico marino Jerimon]<INFO>prt_in,157,66,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Habla con Jerimon."
+		Summary = "Hablar con Jerimon"
 	},
 	[3408] = {
-		Title = "Ilusión submarina II",
+		Title = "Adquisición de Esencia del Abismo",
 		Description = {
-			"Lleva la Esencia abismal de Gein al <NAVI>[oceanólogo Jerimon]<INFO>prt_in,157,66,0,101,0</INFO></NAVI>."
+			"Llevemos la Esencia del Abismo que recibimos de Gain a <NAVI>[Científico marino Jerimon]<INFO>prt_in,157,66,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Entrega la esencia a Jerimon."
+		Summary = "Entregar Esencia del Abismo"
 	},
 	[3409] = {
-		Title = "Ilusión submarina III",
+		Title = "Remolino que conduce a las profundidades del mar",
 		Description = {
-			"Volvamos a <NAVI>[Izlude]<INFO>izlude,132,54,0,101,0</INFO></NAVI> con Jerimon y creemos un vórtice que conecte con las profundidades marinas."
+			"Regresa a <NAVI>[Izlude]<INFO>izlude,132,54,0,101,0</INFO></NAVI> junto con Jerimon y crea el remolino que conecta con las profundidades marinas."
 		},
-		Summary = "Habla con Jerimon en Izlude."
+		Summary = "Habla con Jerimon en Izlude"
 	},
 	[3410] = {
-		Title = "Ilusión submarina IV",
+		Title = "Por mar hacia Sirud",
 		Description = {
-			"Sirud te pide que lo lleves contigo cuando vuelvas a la superficie."
+			"Sirud te pide que, cuando subas por mar, lo lleves contigo."
 		},
-		Summary = "Vuelve con Sirud."
+		Summary = "Subir al mar junto con Sirud"
 	},
 	[3411] = {
-		Title = "Ilusión submarina V",
+		Title = "Derrota a las criaturas de las profundidades marinas",
 		Description = {
-			"Derrota a 10 ^4d4dffSropho abismales^000000, 10 ^4d4dffDeviace abismales^000000 y 10 ^4d4dffMarse abismales^000000."
+			"^4d4dffSropho abismal^000000 y ^4d4dffDeviace abismal^000000 y también ^4d4dffMarse abismal^000000; derrota 10 de cada uno."
 		},
-		Summary = "Derrota las criaturas abismales."
+		Summary = "Derrota a 3 tipos de criaturas de las profundidades marinas"
 	},
 	[3412] = {
-		Title = "Ilusión submarina VI",
+		Title = "Recolección de Esencia del Abismo",
 		Description = {
-			"Recolecta 10 ^4d4dffEsencias abismales^000000 y llévalas a <NAVI>[Jerimon]<INFO>iz_d04_i,127,228,0,101,0</INFO></NAVI>."
+			"^4d4dffReúne 10 Esencia del Abismo^000000 y llévaselos a <NAVI>[Jerimon]<INFO>iz_d04_i,127,228,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Recolecta 10 Esencias abismales."
+		Summary = "Entrega 10 Esencia del Abismo"
 	},
 	[3413] = {
-		Title = "[Diario] Recolectar Esencia abismal",
+		Title = "Recolección de Esencia del Abismo - Diario",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Recolecta 10 ^4d4dffEsencias abismales^000000 y llévalas a <NAVI>[Jerimon]<INFO>iz_d04_i,127,228,0,101,0</INFO></NAVI>."
+			"^4d4dffReúne 10 Esencia del Abismo^000000 y llévaselos a <NAVI>[Jerimon]<INFO>iz_d04_i,127,228,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Recolecta 10 Esencias abismales."
+		Summary = "Entrega 10 Esencia del Abismo"
 	},
 	[3414] = {
-		Title = "[Tiempo de espera] Recolectar Esencia abismal",
+		Title = "Recolección de Esencia del Abismo - En espera",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Terminaste la tarea por hoy. Habla con <NAVI>[Jerimon]<INFO>iz_d04_i,127,228,0,101,0</INFO></NAVI> mañana para aceptar la misión de nuevo."
+			"Esta misión es una misión diaria; cuando termine el tiempo de espera, podrás aceptarla de nuevo y completarla. Puedes aceptar la misión a través de <NAVI>[Jerimon]<INFO>iz_d04_i,127,228,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Se reinicia a las 4:00."
+		Summary = "Reinicio a las 04:00"
 	},
 	[3415] = {
-		Title = "[Diario] Derrota las criaturas abismales I",
+		Title = "Derrota a las criaturas abisales del piso superior - Diario",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Derrota a 10 ^4d4dffSropho abismales^000000, 10 ^4d4dffDeviace abismales^000000 y 10 ^4d4dffMarse abismales^000000."
+			"^4d4dffSropho abismal^000000, ^4d4dffDeviace abismal^000000 y ^4d4dffMarse abismal^000000 y derrota 10 de cada uno."
 		},
-		Summary = "Derrota las criaturas abismales."
+		Summary = "Derrota a 3 tipos de criaturas de las profundidades marinas"
 	},
 	[3416] = {
-		Title = "[Tiempo de espera] Derrota a las criaturas abismales I",
+		Title = "Derrota a las criaturas abisales del piso superior - En espera",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Terminaste la tarea por hoy. Habla con <NAVI>[Jerimon]<INFO>iz_d04_i,127,228,0,101,0</INFO></NAVI> mañana para aceptar la misión de nuevo."
+			"Esta misión es una misión diaria; cuando termine el tiempo de espera, podrás aceptarla de nuevo y completarla. <NAVI>[Jerimon]<INFO>iz_d04_i,127,228,0,101,0</INFO></NAVI> te permite aceptar la misión."
 		},
-		Summary = "Se reinicia a las 4:00."
+		Summary = "Reinicio a las 04:00"
 	},
 	[3417] = {
-		Title = "[Diario] Derrota las criaturas abismales II",
+		Title = "Derrota a las criaturas de las profundidades del nivel inferior - Diario",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Derrota a 10 ^4d4dffPeces espada abismales^000000, 10 ^4d4dffPhen abismales^000000 y 10 ^4d4dffReyes Kray abismales^000000."
+			"^4d4dffPez espada abismal^000000 y ^4d4dffPhen abismal^000000 y ^4d4dffRey Kray abismal^000000; derrota 10 de cada uno."
 		},
-		Summary = "Derrota las criaturas abismales."
+		Summary = "Derrota a 3 tipos de criaturas de las profundidades marinas"
 	},
 	[3418] = {
-		Title = "[Tiempo de espera] Derrota a las criaturas abismales II",
+		Title = "Derrota a las criaturas de las profundidades del nivel inferior - En espera",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Terminaste la tarea por hoy. Habla con <NAVI>[Kenna]<INFO>iz_d05_i,138,186,0,101,0</INFO></NAVI> mañana para aceptar la misión de nuevo."
+			"Esta misión es una misión diaria; cuando termine el tiempo de espera, podrás aceptarla de nuevo y completarla. Puedes aceptar la misión a través de <NAVI>[Kena]<INFO>iz_d05_i,138,186,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Se reinicia a las 4:00."
+		Summary = "Reinicio a las 04:00"
 	},
 	[3419] = {
-		Title = "[Diario] Derrota las criaturas abismales III",
+		Title = "Derrota a los Hombres Pez del nivel inferior - Diario",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Derrota a 15 ^4d4dffSedora abismales^000000 y 15 ^4d4dffStrouf abismales^000000."
+			"^4d4dffDerrota a 15 Abismal Sedora^000000 y a 15 ^4d4dffStrouf Abismal^000000 por separado."
 		},
-		Summary = "Derrota las criaturas abismales."
+		Summary = "Derrota a 2 tipos de hombres pez"
 	},
 	[3420] = {
-		Title = "[Tiempo de espera] Derrota a las criaturas abismales III",
+		Title = "Derrota a los hombres pez del nivel inferior - En espera",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Terminaste la tarea por hoy. Habla con <NAVI>[Kenna]<INFO>iz_d05_i,138,186,0,101,0</INFO></NAVI> mañana para aceptar la misión de nuevo."
+			"Esta misión es una misión diaria; cuando termine el tiempo de espera, podrás aceptarla de nuevo y completarla. <NAVI>[Kena]<INFO>iz_d05_i,138,186,0,101,0</INFO></NAVI> te permite aceptar la misión."
 		},
-		Summary = "Se reinicia a las 4:00."
+		Summary = "Reinicio a las 04:00"
 	},
 	[3421] = {
 		Title = "En busca del Libro de la Ilusión",
@@ -8003,6 +8003,13 @@ QuestInfoList = {
 	[4131] = {
 		Title = "",
 		Description = {""}
+	},
+	[4132] = {
+		Title = "El Mago Astuto de Geffen",
+		Description = {
+			"El mago de Geffen parece estar a punto de quedarse dormido."
+		},
+		Summary = ""
 	},
 	[4133] = {
 		Title = "Poción de purificación de Anori",
@@ -20155,74 +20162,74 @@ QuestInfoList = {
 		CoolTimeQuest = 1
 	},
 	[7850] = {
-		Title = "Gatito bala",
+		Title = "Maullido de Bala",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"El miembro de Rebellion que conocí en Einbech me informó que, para cubrir la zona de operaciones recientemente ampliada, están utilizando una tienda de Einbroch como base temporal. Busca a <NAVI>[gato bala]<INFO>einbroch,302,329,0,101,0</INFO></NAVI> en Einbroch."
+			"Un miembro de la Rebelión me informó que están usando el <NAVI>[Maullido de Bala]<INFO>einbroch,302,329,0,101,0</INFO></NAVI> como escondite para cubrir el área de operaciones recientemente ampliada."
 		},
-		Summary = "Habla con Tess en Gatito bala."
+		Summary = "Habla con Tess en el bar"
 	},
 	[7851] = {
-		Title = "Nueva zona de operaciones",
+		Title = "Investigando Rudus",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"He recibido información de Tess sobre una nueva zona de operaciones, <NAVI>[Ludos]<INFO>ein_fild05,158,284,0,101,0</INFO></NAVI>. Dirígete a la zona de operaciones y únete a Rebellion."
+			"Tess quiere que investigues <NAVI>[Rudus]<INFO>ein_fild05,158,284,0,101,0</INFO></NAVI>. Dirígete a la puerta y habla con el Miembro de la Rebelión."
 		},
-		Summary = "Habla con Elena Volkova."
+		Summary = "Habla con Elena Bolkova"
 	},
 	[7852] = {
-		Title = "Más allá de la barrera",
+		Title = "Investigando Rudus",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Elena Volkova, que está esperando en el nuevo lugar de operaciones <NAVI>[Ludos]<INFO>ein_fild05,158,284,0,101,0</INFO></NAVI>, te pedirá que investigues más allá de la barrera después de hablar con Rookie, quien está examinando la pared divisoria."
+			"Elena Bolkova pidió que hables con Lukie en <NAVI>[Rudus]<INFO>ein_fild05,158,284,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Habla con Rookie."
+		Summary = "Habla con Lukie"
 	},
 	[7853] = {
-		Title = "Inspección alrededor de la barrera",
+		Title = "Investigando Rudus",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"<NAVI>[Ludos]<INFO>ein_fild05,158,284,0,101,0</INFO></NAVI> en el interior, Rookie te pide que investigues los alrededores de la pared divisoria. Si encuentras algo inusual, recógelo e infórmale."
+			"Cerca de la muralla de <NAVI>[Rudus]<INFO>ein_fild05,158,284,0,101,0</INFO></NAVI> hay algunos miembros de la Rebelión. Lukie quiere que hables con ellos."
 		},
-		Summary = "Inspección alrededor de la barrera"
+		Summary = "Investiga la zona"
 	},
 	[7854] = {
-		Title = "La pared sobre los rieles",
+		Title = "Investigando Rudus",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Una barricada está erigida sobre los rieles de hierro. Parece que la barricada fue construida después de que la mina quedara abandonada."
+			"El muro está construido sobre las vías del ferrocarril y parece haber sido erigido después de que la mina se convirtiera en una mina abandonada."
 		},
-		Summary = ""
+		Summary = "Encontraste la vía ferroviaria"
 	},
 	[7855] = {
-		Title = "Torre de vigilancia",
+		Title = "Investigando Rudus",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Una torre de vigilancia tan alta que permite ver de un solo vistazo más allá de la muralla. No parece que una torre de vigilancia así sea necesaria para la refinación de minerales..."
+			"Una torre de vigilancia lo bastante alta para observar más allá de la muralla. Una mina no necesitaría una estructura así…"
 		},
-		Summary = ""
+		Summary = "Torre de vigilancia"
 	},
 	[7856] = {
-		Title = "agujero de rana",
+		Title = "Investigando Rudus",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"En el extremo de la pared rocosa, hay una pequeña abertura por donde apenas podría pasar un niño muy pequeño."
+			"Hay un agujero que es demasiado pequeño para que pase un adulto."
 		},
-		Summary = ""
+		Summary = "Encontraste un agujero"
 	},
 	[7857] = {
-		Title = "Informa a Rookie.",
+		Title = "Investigando Rudus",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Parece que ya he explorado casi todo alrededor de la muralla. Vamos a entregarle la información recopilada a Rookie."
+			"Parece que ya investigué todo alrededor de la muralla. Será mejor informar a Lukie sobre lo que encontramos."
 		},
-		Summary = "Habla con Rookie."
+		Summary = "Habla con Lukie"
 	},
 	[7858] = {
-		Title = "Investigar el origen del sonido inquietante",
+		Title = "Investigando Rudus",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Algunos miembros de Rebellion ya se han movilizado para descubrir el origen del sonido que proviene del otro lado de la pared. Rookie pidió que, si la fuente del ruido resulta ser un monstruo, lo elimines de manera espectacular."
+			"Algunos miembros de la Rebelión están inquietos por el ruido que viene del otro lado de la muralla. Si se trata de monstruos, Lukie quiere que te encargues de ellos."
 		},
 		Summary = "Caza de monstruos",
 		RewardEXP = "800000",
@@ -20232,70 +20239,70 @@ QuestInfoList = {
 		}
 	},
 	[7859] = {
-		Title = "Informa a Tess.",
+		Title = "Investigando Rudus",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Elena Volkova te ha ordenado que informes a <NAVI>[Tess]<INFO>pub_cat,93,105,0,101,0</INFO></NAVI> sobre la situación anormal al otro lado de la barrera, regresando como un gato bala. Elena mencionó que era un vertedero..."
+			"Elena Bolkova dijo que la situación más allá de la barrera no es normal y pidió que regresaras al Maullido de Bala para informar a <NAVI>[Tess]<INFO>pub_cat,93,105,0,101,0</INFO></NAVI>. Ella llamó al lugar de vertedero, pero…"
 		},
-		Summary = "Informa a Tess."
+		Summary = "Informa a Tess"
 	},
 	[7860] = {
-		Title = "Un invitado inesperado",
+		Title = "Investigando Rudus",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"En Tess<INFO>pub_cat,93,105,0,101,0</INFO>, a quien conociste en bala, te llevó rápidamente a la sala secreta del interior diciendo que tenía un asunto urgente."
+			"En Maullido de Bala, <NAVI>[Tess]<INFO>pub_cat,93,105,0,101,0</INFO></NAVI> te pide que hables con el Jubilado para acceder a la sala secreta."
 		},
-		Summary = "Habla con Tess en la sala secreta."
+		Summary = "Habla con el Jubilado"
 	},
 	[7861] = {
-		Title = "La crisis de la empresa",
+		Title = "Invasión en Regenschirm",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Decidiste unirte al grupo de Est para recuperar el laboratorio de Regenschirm, que fue tomado por un traidor interno. Reúnete con <NAVI>[guardia de la República.]<INFO>lighthalzen,56,270,0,101,0</INFO></NAVI>, quien está esperando la operación en Lighthalzen."
+			"Decidiste unirte al grupo de Est para recuperar el laboratorio de Regenschirm. Reúnete con <NAVI>[Guardia de la República.]<INFO>lighthalzen,56,270,0,101,0</INFO></NAVI>, quien está esperando la operación en Lighthalzen."
 		},
-		Summary = "Habla con el guardia de la República."
+		Summary = "Habla con el guardia de la República"
 	},
 	[7862] = {
-		Title = "Operación de recuperación de Regenschirm",
+		Title = "Invasión en Regenschirm",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Decidí infiltrarme en el laboratorio y poner todo en orden desde dentro. Es posible acceder al laboratorio a través de <NAVI>[???]<INFO>lighthalzen,55,278,0,101,0</INFO></NAVI>, quien está esperando."
+			"Vamos a invadir el Laboratorio Regenschirm hablando con <NAVI>[Oscar]<INFO>lighthalzen,55,278,0,101,0</INFO></NAVI>, que está esperando."
 		},
-		Summary = "Recuperación del laboratorio"
+		Summary = "Reconquistando el laboratorio"
 	},
 	[7863] = {
-		Title = "Datos obtenidos en el laboratorio",
+		Title = "Invasión en Regenschirm",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Estos son los datos relacionados con el primer equipo de seguridad del laboratorio."
+			"Estos son los datos relacionados con el primer equipo de seguridad del laboratorio. Llévalos a Philopontess."
 		},
-		Summary = "Informa a Tess.",
+		Summary = "Informa a Tess",
 		RewardEXP = "200000",
 		RewardJEXP = "200000"
 	},
 	[7864] = {
-		Title = "Ventilación",
+		Title = "Crisis en Rekenber",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Mientras Tess analiza los datos, decidiste ayudar a Leizi. Busquemos a Leizi, que debe estar en algún lugar de la taberna."
+			"Mientras Tess analiza los datos, decidiste ayudar a Lazy. Busquemos a Lazy, que debe estar en algún lugar de la taberna."
 		},
-		Summary = "Habla con Leizi."
+		Summary = "Habla con Lazy"
 	},
 	[7865] = {
-		Title = "La segunda operación",
+		Title = "Segunda Operación",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Se llevará a cabo una nueva operación en la mina abandonada del noroeste de Einbroch. Reúnete con <NAVI>[Rebellion ??]<INFO>ein_fild03,278,269,0,101,0</INFO></NAVI>, que está esperando, y únete a la misión."
+			"Una nueva misión está programada para realizarse en las minas abandonadas al noroeste de Einbroch. Vamos a encontrar a <NAVI>[Miembro de la Rebelión]<INFO>ein_fild03,278,269,0,101,0</INFO></NAVI>, que nos está esperando."
 		},
-		Summary = "Habla con el miembro de Rebellion."
+		Summary = "Miembro de la Rebelión"
 	},
 	[7866] = {
-		Title = "Como un gato veloz como una bala",
+		Title = "Invasión en Regenschirm",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Debes regresar como 'el gato bala' y reportar toda la verdad sobre el laboratorio a <NAVI>[Tess]<INFO>pub_cat,93,105,0,101,0</INFO></NAVI>."
+			"Regresa al [Maullido de Bala] e informa a <NAVI>[Tess]<INFO>pub_cat,93,105,0,101,0</INFO></NAVI> sobre los resultados de la invasión al laboratorio."
 		},
-		Summary = "Habla con Tess.",
+		Summary = "Habla con Tess",
 		RewardEXP = "1000000",
 		RewardJEXP = "800000",
 		RewardItemList = {
@@ -20303,12 +20310,12 @@ QuestInfoList = {
 		}
 	},
 	[7867] = {
-		Title = "Mercenario vs Mercenario",
+		Title = "Caza a los Cazadores",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"La <NAVI>[Yuslan]<INFO>sp_cor,155,94,0,101,0</INFO></NAVI> de la zona de vigilancia especial de Koru te ha pedido que derrotes a Heart Hunter Bellare y Sanare, que aparecen dentro de Os."
 		},
-		Summary = "Eliminación de Heart Hunter",
+		Summary = "Derrota a los Cazacorazones",
 		RewardEXP = "200000",
 		RewardJEXP = "200000"
 	},
@@ -23129,7 +23136,7 @@ QuestInfoList = {
 		CoolTimeQuest = 1
 	},
 	[8541] = {
-		Title = "No hay contenido.",
+		Title = "Una Cosa Vacía",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"<NAVI>[Nillem]<INFO>glast_01,191,273,0,101,0</INFO></NAVI> te pide que caces 20 Raydric contaminado y 20 Arquero Raydric contaminado, y que verifiques su contenido."
@@ -23137,7 +23144,7 @@ QuestInfoList = {
 		Summary = "Derrota a Raydric contaminado y a Arquero Raydric contaminado."
 	},
 	[8542] = {
-		Title = "Sin contenido - Esperando",
+		Title = "[Espera] Una Cosa Vacía",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Esta misión es una misión diaria; cuando expire el tiempo de espera, podrás volver a recibirla y completarla hablando con <NAVI>[Nillem]<INFO>glast_01,191,273,0,101,0</INFO></NAVI>."
@@ -23145,7 +23152,7 @@ QuestInfoList = {
 		Summary = "Reinicio a las 4 a.m."
 	},
 	[8543] = {
-		Title = "Probablemente no contiene nada.",
+		Title = "Quizás, Una Cosa Vacía",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"<NAVI>[Nillem]<INFO>glast_01,191,273,0,101,0</INFO></NAVI> te pide que caces 20 Raydric contaminado y 20 Arquero Raydric contaminado, y que verifiques su contenido."
@@ -23153,7 +23160,7 @@ QuestInfoList = {
 		Summary = "Derrota a Raydric contaminado y a Arquero Raydric contaminado."
 	},
 	[8544] = {
-		Title = "Punto de congelación alto",
+		Title = "Algo de Alto Punto de Congelación",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"<NAVI>[Nillem]<INFO>glast_01,191,273,0,101,0</INFO></NAVI> te pide que derrotes a 5 Gárgola congelada y 5 Fugitivo de prisión, y luego le muestres los resultados para ver el cambio."
@@ -23161,7 +23168,7 @@ QuestInfoList = {
 		Summary = "Derrota a Gárgola congelada y Fugitivo de prisión."
 	},
 	[8545] = {
-		Title = "Punto de congelación alto - Aire",
+		Title = "[Espera] Algo de Alto Punto de Congelación",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Esta misión es una misión diaria; cuando expire el tiempo de espera, podrás volver a recibirla y completarla hablando con <NAVI>[Nillem]<INFO>glast_01,191,273,0,101,0</INFO></NAVI>."
@@ -23169,7 +23176,7 @@ QuestInfoList = {
 		Summary = "Reinicio a las 04:00."
 	},
 	[8546] = {
-		Title = "Un punto de congelación muy alto.",
+		Title = "Algo Con un Punto de Congelación Muy Alto",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"<NAVI>[Nillem]<INFO>glast_01,191,273,0,101,0</INFO></NAVI> te pide que derrotes a 5 Gárgola congelada y 5 Fugitivo de prisión para que puedas presenciar el cambio."
@@ -23177,15 +23184,15 @@ QuestInfoList = {
 		Summary = "Derrota a Gárgola congelada y Fugitivo de prisión."
 	},
 	[8547] = {
-		Title = "Algo como un espejo",
+		Title = "Algo Como un Espejo",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Nillem]<INFO>glast_01,191,273,0,101,0</INFO></NAVI> te pide que derrotes a 10 Fantasma de hielo y 10 Flame Ghost, y luego le muestres el resultado para ver el cambio."
+			"<NAVI>[Nillem]<INFO>glast_01,191,273,0,101,0</INFO></NAVI> pide que derrotes a 10 Fantasmas de hielo y 10 Fantasmas de llamas, y luego le muestres el resultado."
 		},
-		Summary = "Fantasma de hielo, Fantasma de llamas"
+		Summary = "Derrota al Fantasma de Hielo y al Fantasma de Fuego."
 	},
 	[8548] = {
-		Title = "Algo como un espejo - Esperando",
+		Title = "[Espera] Algo Como un Espejo",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Esta misión es una misión diaria; cuando expire el tiempo de espera, podrás volver a recibirla y completarla hablando con <NAVI>[Nillem]<INFO>glast_01,191,273,0,101,0</INFO></NAVI>."
@@ -23193,15 +23200,15 @@ QuestInfoList = {
 		Summary = "Reinicio a las 4 a.m."
 	},
 	[8549] = {
-		Title = "Es como un espejo.",
+		Title = "Algo Como un Espejo Misterioso",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Nillem]<INFO>glast_01,191,273,0,101,0</INFO></NAVI> te pide que derrotes a 10 Fantasma de hielo y 10 Flame Ghost, y luego le muestres el resultado para ver el cambio."
+			"<NAVI>[Nillem]<INFO>glast_01,191,273,0,101,0</INFO></NAVI> pide que derrotes a 10 Fantasmas de hielo y 10 Fantasmas de llamas, y luego le muestres el resultado."
 		},
-		Summary = "Fantasma de hielo, Fantasma de llamas"
+		Summary = "Derrota al Fantasma de Hielo y al Fantasma de Fuego."
 	},
 	[8550] = {
-		Title = "Deleter que ha experimentado una evolución anómala",
+		Title = "Deleter Anormalmente Evolucionado",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"<NAVI>[Lily Blanc]<INFO>yuno_fild03,38,146,0,101,0</INFO></NAVI> te pide que luches contra 15 Deleter rígido (cielo) y 15 Deleter rígido (tierra), y que luego informes sobre las diferencias entre las razas."
@@ -23209,7 +23216,7 @@ QuestInfoList = {
 		Summary = "Derrota a Deleter rígido (cielo) y Deleter rígido (tierra)."
 	},
 	[8551] = {
-		Title = "Deleter que ha experimentado una evolución anómala - Esperando",
+		Title = "[Espera] Deleter Anormalmente Evolucionado",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Esta misión es una misión diaria; cuando expire el tiempo de espera, podrás volver a recibirla y completarla hablando con <NAVI>[Lily Blanc]<INFO>yuno_fild03,38,146,0,101,0</INFO></NAVI>."
@@ -23217,7 +23224,7 @@ QuestInfoList = {
 		Summary = "Reinicio a las 04:00."
 	},
 	[8552] = {
-		Title = "Reinvestigación del Deleter que ha experimentado una evolución anómala",
+		Title = "Reinvestigación del Deleter Anormalmente Evolucionado",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"<NAVI>[Lily Blanc]<INFO>yuno_fild03,38,146,0,101,0</INFO></NAVI> te pide que luches contra 15 Deleter rígido (cielo) y 15 Deleter rígido (tierra), y que le informes sobre las diferencias entre las razas."
@@ -23225,7 +23232,7 @@ QuestInfoList = {
 		Summary = "Derrota a Deleter rígido (cielo) y Deleter rígido (tierra)."
 	},
 	[8553] = {
-		Title = "Eliminación de la pesadilla hecha realidad",
+		Title = "Derrota a La Pesadilla Real",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"<NAVI>[Lily Blanc]<INFO>yuno_fild03,38,146,0,101,0</INFO></NAVI> te pide que luches contra 10 Terror nocturno rígido y le informes sobre las diferencias entre las razas."
@@ -23233,7 +23240,7 @@ QuestInfoList = {
 		Summary = "Derrota a Terror nocturno rígido"
 	},
 	[8554] = {
-		Title = "Eliminación de la pesadilla materializada - Esperando",
+		Title = "[Espera] Derrota a La Pesadilla Real",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Esta misión es una misión diaria, y podrás volver a recibirla y completarla con <NAVI>[Lily Blanc]<INFO>yuno_fild03,38,146,0,101,0</INFO></NAVI> una vez que expire el tiempo de espera."
@@ -23241,7 +23248,7 @@ QuestInfoList = {
 		Summary = "Reinicio a las 4 a.m."
 	},
 	[8555] = {
-		Title = "Eliminación de la aterradora pesadilla que se ha hecho realidad",
+		Title = "Derrota a La Aterradora Pesadilla Real",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"<NAVI>[Lily Blanc]<INFO>yuno_fild03,38,146,0,101,0</INFO></NAVI> te pide que luches contra 10 Terror nocturno rígido y le informes sobre las diferencias entre las razas."
@@ -23249,7 +23256,7 @@ QuestInfoList = {
 		Summary = "Derrota a Terror nocturno rígido"
 	},
 	[8556] = {
-		Title = "Comprobación de densidad",
+		Title = "Verificación de Densidad",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"<NAVI>[Lily Blanc]<INFO>yuno_fild03,38,146,0,101,0</INFO></NAVI> te pide que derrotes a 10 Gólem de lava rígido y le informes sobre las diferencias entre las razas."
@@ -23257,7 +23264,7 @@ QuestInfoList = {
 		Summary = "Derrota a Gólem de lava rígido."
 	},
 	[8557] = {
-		Title = "Comprobación de densidad - Esperando",
+		Title = "[Espera] Verificación de Densidad",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Esta misión es una misión diaria; cuando expire el tiempo de espera, podrás volver a recibirla y completarla hablando con <NAVI>[Lily Blanc]<INFO>yuno_fild03,38,146,0,101,0</INFO></NAVI>."
@@ -23265,7 +23272,7 @@ QuestInfoList = {
 		Summary = "Reinicio a las 4 a.m."
 	},
 	[8558] = {
-		Title = "Verifica la densidad una vez más.",
+		Title = "Verificación de Densidad Otra Vez",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"<NAVI>[Lily Blanc]<INFO>yuno_fild03,38,146,0,101,0</INFO></NAVI> te pide que derrotes a 10 Gólem de lava rígido y le informes sobre las diferencias entre las razas."
@@ -23273,15 +23280,15 @@ QuestInfoList = {
 		Summary = "Derrota a Gólem de lava rígido"
 	},
 	[8559] = {
-		Title = "Pequeñas cosas que se desmoronan",
+		Title = "Las Pequeñas Cosas que Susurran",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Lily Blanc]<INFO>yuno_fild03,38,146,0,101,0</INFO></NAVI> te pide que derrotes a 10 Explosión rígida y 10 Brasa rígida, y luego le informes sobre las diferencias entre las razas."
+			"<NAVI>[Lily Blanc]<INFO>yuno_fild03,38,146,0,101,0</INFO></NAVI> pide que derrotes a 10 Explosión rígida y 10 Brasa rígida, y luego le informes sobre las diferencias entre las razas."
 		},
 		Summary = "Derrota a Explosión rígida y Brasa rígida."
 	},
 	[8560] = {
-		Title = "Pequeñas cosas que se desmoronan - Esperando",
+		Title = "[Espera] Las Pequeñas Cosas que Susurran",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Esta misión es una misión diaria; cuando expire el tiempo de espera, podrás volver a recibirla y completarla hablando con <NAVI>[Lily Blanc]<INFO>yuno_fild03,38,146,0,101,0</INFO></NAVI>."
@@ -23289,10 +23296,10 @@ QuestInfoList = {
 		Summary = "Reinicio a las 04:00."
 	},
 	[8561] = {
-		Title = "Cosas diminutas que se desmoronan",
+		Title = "Las Cositas Muy Pequeñas Que Susurran",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Lily Blanc]<INFO>yuno_fild03,38,146,0,101,0</INFO></NAVI> te pide que derrotes a 10 Explosión rígida y 10 Brasa rígida, y luego le informes sobre las diferencias entre las razas."
+			"<NAVI>[Lily Blanc]<INFO>yuno_fild03,38,146,0,101,0</INFO></NAVI> pide que derrotes a 10 Explosión rígida y 10 Brasa rígida, y luego le informes sobre las diferencias entre las razas."
 		},
 		Summary = "Derrota a Explosión rígida y Brasa rígida."
 	},
@@ -31715,184 +31722,184 @@ QuestInfoList = {
 		Summary = "Bastón Ilusional"
 	},
 	[11573] = {
-		Title = "Misión de cambio de clase de Emperador de las estrellas",
+		Title = "Misión de cambio de clase Emperador Estelar",
 		IconName = "ico_jq.bmp",
 		Description = {
-			"Nalson me dijo cómo llegar al bosque de Meteoro.",
-			"Sigue el estrecho camino del lado norte de Mjolnir hasta llegar al bosque de Meteoro."
+			"He oído de Nalson cómo llegar a Bosque de Meteoro.",
+			"Busquemos el estrecho sendero de montaña al norte de la cordillera Mjolnir y vayamos a Bosque de Meteoro."
 		},
-		Summary = "Al bosque de Meteoro"
+		Summary = "hacia Bosque de Meteoro"
 	},
 	[11574] = {
-		Title = "Misión de cambio de clase de Emperador de las estrellas",
+		Title = "Misión de cambio de clase de Emperador Estelar",
 		IconName = "ico_jq.bmp",
 		Description = {
-			"Puedo rellenar una solicitud en la casa de té.",
-			"Ve a la casa de té."
+			"Puedes redactar el manual de iniciación en la casa de té.",
+			"Vayamos a la casa de té."
 		},
-		Summary = "A la casa de té."
+		Summary = "A la casa de té"
 	},
 	[11575] = {
-		Title = "Misión de cambio de clase de Emperador de las estrellas",
+		Title = "Misión de cambio de clase de Emperador Estelar",
 		IconName = "ico_jq.bmp",
 		Description = {
-			"Chosung se fue siguiendo a Rancis de cerca.",
-			"Sal y habla con Chosung."
+			"Ransis también salió afuera siguiendo a Choseung.",
+			"Sal afuera y habla con Choseung."
 		},
-		Summary = "Fuera de la casa de té."
+		Summary = "Fuera de la casa de té"
 	},
 	[11576] = {
-		Title = "Misión de cambio de clase de Emperador de las estrellas",
+		Title = "Misión de cambio de clase de Emperador Estelar",
 		IconName = "ico_jq.bmp",
 		Description = {
-			"Chosung se fue a toda prisa y dejó a Rancis encargado de darme una vuelta por el bosque de Meteoro.",
-			"Habla con Rancis y aprende sobre el bosque de Meteoro."
+			"Choseung le pidió a Ransis que guiara hacia Bosque de Meteoro y se marchó a toda prisa.",
+			"Habla con Ransis y escucha sobre Bosque de Meteoro."
 		},
-		Summary = "Habla con Rancis."
+		Summary = "Hablar con Ransis"
 	},
 	[11577] = {
-		Title = "Misión de cambio de clase de Emperador de las estrellas",
+		Title = "Misión de cambio de clase de Emperador Estelar",
 		IconName = "ico_jq.bmp",
 		Description = {
-			"Echa un vistazo al bosque de Meteoro, con la guía de Rancis."
+			"Siguiendo las indicaciones de Ransis, vamos a echar un vistazo al Bosque de Meteoro."
 		},
-		Summary = "Habla con Rancis."
+		Summary = "Hablar con Ransis"
 	},
 	[11578] = {
-		Title = "Misión de cambio de clase de Emperador de las estrellas",
+		Title = "Misión de cambio de clase de Emperador Estelar",
 		IconName = "ico_jq.bmp",
 		Description = {
-			"Rancis descubrió algo mientras me enseñaba el bosque de Meteoro.",
-			"Síguela."
+			"Ransis, que guiaba hacia Bosque de Meteoro, parece haber encontrado algo.",
+			"Sigamos a Ransis."
 		},
-		Summary = "Habla con Eunha."
+		Summary = "Hablar con Eunha"
 	},
 	[11579] = {
-		Title = "Misión de cambio de clase de Emperador de las estrellas",
+		Title = "Misión de cambio de clase de Emperador Estelar",
 		IconName = "ico_jq.bmp",
 		Description = {
-			"Eunha me pidió que cazara 10 minerales como parte de mi entrenamiento.",
-			"Ve a cazar 10 minerales en la mazmorra de la mina de Einbroch 2F."
+			"Eunha dice que te ayudará con el entrenamiento y te pide que derrotes a 10 Mineral.",
+			"Derrota a 10 Mineral en el 2.º piso de la mina de Einbech y regresa."
 		},
-		Summary = "Caza 10 minerales."
+		Summary = "Derrota a 10 Mineral"
 	},
 	[11580] = {
-		Title = "Misión de cambio de clase de Emperador de las estrellas",
+		Title = "Misión de cambio de clase de Emperador Estelar",
 		IconName = "ico_jq.bmp",
 		Description = {
-			"Sorprendida de que yo hubiera cazado minerales, Eunha me sugirió que fuera a entrenar con Ilgwang."
+			"Al ver que has capturado a Mineral, Eunha dice que Ilgwang parece ser mejor que ella y te pide que vayas a ver a Ilgwang."
 		},
-		Summary = "Habla con Ilgwang."
+		Summary = "Hablar con Ilgwang"
 	},
 	[11581] = {
-		Title = "Misión de cambio de clase de Emperador de las estrellas",
+		Title = "Misión de cambio de clase de Emperador Estelar",
 		IconName = "ico_jq.bmp",
 		Description = {
-			"Ilgwang, en lugar de enseñarme a entrenar, me sugirió que cazara Nueve colas para Chosung.",
-			"Caza 50 nueve colas en la mazmorra de Payon 3F o más allá, y luego ve a Chosung."
+			"Ilgwang dice que no sabe bien cuál es el método de entrenamiento, y comenta que a Choseung le gustaría si traes un Nueve colas.",
+			"En las profundidades de Payon, a partir del 3.º piso del calabozo, derrota al menos a 50 Nueve colas y ve a ver a Choseung."
 		},
-		Summary = "Caza 50 nueve colas."
+		Summary = "Derrota a 50 Nueve colas"
 	},
 	[11582] = {
-		Title = "Misión de cambio de clase de Emperador de las estrellas",
+		Title = "Misión de cambio de clase de Emperador Estelar",
 		IconName = "ico_jq.bmp",
 		Description = {
-			"Enfurecido por la pereza de Eunha, Chosung me pidió que le dijera que quería verlo en la sala de Ilgwang."
+			"Choseung se enfurece por las acciones de Eunha y le dice a Eunha que le transmita que venga a la habitación de Ilgwang."
 		},
-		Summary = "Habla con Eunha."
+		Summary = "Hablar con Eunha"
 	},
 	[11583] = {
-		Title = "Misión de cambio de clase de Emperador de las estrellas",
+		Title = "Emperador Estelar Misión de cambio de clase",
 		IconName = "ico_jq.bmp",
 		Description = {
-			"Refunfuñando, Eunha me pidió que lo acompañara a la sala de Ilgwang."
+			"Eunha se queja y dice que vayamos juntos a la habitación de Ilgwang."
 		},
-		Summary = "A la sala de Ilgwang"
+		Summary = "A la habitación de Ilgwang"
 	},
 	[11584] = {
-		Title = "Misión de cambio de clase de Emperador de las estrellas",
+		Title = "Emperador Estelar Misión de cambio de clase",
 		IconName = "ico_jq.bmp",
 		Description = {
-			"Ilgwang dijo que el maestro Chosi está al pie de la montaña.",
-			"Baja la montaña y reúnete con el maestro Chosi."
+			"Ilgwang dice que el maestro Chosi está al pie de la montaña.",
+			"Bajemos al pie de la montaña y vayamos a ver al maestro Chosi."
 		},
-		Summary = "Habla con Chosi."
+		Summary = "Hablar con Chosi"
 	},
 	[11585] = {
-		Title = "Misión de cambio de clase de Emperador de las estrellas",
+		Title = "Misión de cambio de clase de Emperador Estelar",
 		IconName = "ico_jq.bmp",
 		Description = {
-			"Chosi dijo que planea delegar su puesto de maestro a Ilgwang, Chosung y Eunha. Quiere que yo vuelva al bosque de Meteoro y elija con cuál de sus estudiantes quiero crecer."
+			"Chosi dice que quiere ceder el puesto de maestro a Ilgwang, Choseung y Eunha, y que regresará a Bosque de Meteoro, así que te pide que elijas a la persona con la que quieras crecer juntos."
 		},
-		Summary = "Habla con Ilgwang, Chosung o Eunha."
+		Summary = "Habla con Ilgwang o con Choseung o con Eunha."
 	},
 	[11596] = {
-		Title = "Recuerdos antiguos",
+		Title = "Como en los viejos tiempos",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Parece que hemos encontrado la base enemiga disfrazada de mina abandonada cerca de Einbroch. Vamos a revisar los alrededores para asegurarnos de que no haya otros enemigos cerca."
+			"Parece que hemos encontrado la base enemiga disfrazada de mina abandonada cerca de Einbroch. Vamos a revisar los <NAVI>alrededores <INFO>ein_fild03,347,219,0,101,0</INFO></NAVI> para asegurarnos de que no haya otros enemigos."
 		},
 		Summary = "Explorar los alrededores"
 	},
 	[11597] = {
-		Title = "Recuerdos antiguos",
+		Title = "Como en los viejos tiempos",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"No ves nada especial. Vamos a buscar en otro lugar."
+			"No hay nada especial aquí. Vamos a buscar en <NAVI>otro lugar<INFO>ein_fild03,268,207,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Explorar los alrededores"
 	},
 	[11598] = {
-		Title = "Recuerdos antiguos",
+		Title = "Como en los viejos tiempos",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"No se ve nada especial. Vamos a buscar en otro lugar."
+			"No hay nada especial aquí. Vamos a buscar en <NAVI>otro lugar<INFO>ein_fild03,218,266,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Explorar los alrededores"
 	},
 	[11599] = {
-		Title = "Recuerdos antiguos",
+		Title = "Como en los viejos tiempos",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"No ves nada especial. Regresa con el miembro de Rebellion."
+			"No hay nada especial aquí. Regresemos con el <NAVI>Miembro de la Rebelión<INFO>ein_fild03,278,269,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Habla con el miembro de Rebellion.",
 		RewardEXP = 100000,
 		RewardJEXP = 100000
 	},
 	[11600] = {
-		Title = "Recuerdos antiguos",
+		Title = "Como en los viejos tiempos",
 		IconName = "ico_ep.bmp",
 		Description = {
 			"Vamos explorar el interior de la mina abandonada, donde el camino está bloqueado."
 		},
-		Summary = "Adentro",
+		Summary = "Completa la instancia",
 		RewardEXP = 600000,
 		RewardJEXP = 600000
 	},
 	[11601] = {
-		Title = "Recuerdos antiguos",
+		Title = "Como en los viejos tiempos",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Se ha abierto un camino hacia la siguiente zona. Regresa a Clananemieri para informar las novedades y luego vuelve a la habitación de Dien trayendo el objeto que Dien está buscando."
+			"Se ha abierto un camino hacia la siguiente zona. Regresa a Clana Nemieri para informar las novedades y luego vuelve a la habitación de Dien trayendo el objeto que Dien está buscando."
 		},
-		Summary = "Clananemieri"
+		Summary = "Clana Nemieri"
 	},
 	[11602] = {
-		Title = "Recuerdos antiguos",
+		Title = "Como en los viejos tiempos",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Regresa con el objeto que Dien está buscando en la habitación de Dien."
+			"En la habitación de las Veteranas, busca la Caja Decorada."
 		},
-		Summary = "El talismán de Dien"
+		Summary = "Caja Decorada"
 	},
 	[11603] = {
-		Title = "Recuerdos antiguos",
+		Title = "Como en los viejos tiempos",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Has encontrado el talismán de Dien. Regresa con Dien."
+			"Encontraste el amuleto de Dien. Vuelve a los alrededores de Einbroch 03, entra al Distrito OS y habla con <NAVI>Dien<INFO>sp_os,252,359,0,101,0</INFO></NAVI>."
 		},
-		Summary = "De vuelta a Dien",
+		Summary = "Vuelve con Dien",
 		RewardEXP = 200000,
 		RewardJEXP = 100000
 	},
@@ -33376,7 +33383,7 @@ QuestInfoList = {
 		Summary = ""
 	},
 	[12020] = {
-		Title = "Rescate del miembro de Alas Secretas",
+		Title = "Rescate del miembro del Viento Secreto",
 		Description = {
 			"Encuentra al agente Jargeah cerca de un puente roto entre Einbroch y Lighthalzen. Está herido y necesita ayuda, así que llega antes que el enemigo."
 		},
@@ -35986,162 +35993,160 @@ QuestInfoList = {
 		Summary = "Cura la Piedra Guardiana"
 	},
 	[12442] = {
-		Title = "Senda del Cosechador de Almas 1",
+		Title = "Caminho de Ceifador de Almas 1",
 		Description = {
-			"Escucha a Banyak, que está rodeado por algunos trabajadores de la taberna."
+			"Vamos ouvir o que Banyak tem a dizer, cercado pelos funcionários da estalagem."
 		},
-		Summary = "Senda del Cosechador de Almas"
+		Summary = "O caminho de Ceifador de Almas"
 	},
 	[12443] = {
-		Title = "Senda del Cosechador de Almas 2",
+		Title = "Caminho de Ceifador de Almas 2",
 		Description = {
-			"Si vuelvo a ver a Banyak, hablaré con él. Lo arrastraron a la <NAVI>[taberna]<INFO>payon.gat,190,93,0,101,0</INFO></NAVI> en algún lugar de Payon."
+			"Se você tiver algum vínculo com Banyak, vamos nos encontrar de novo. Parece que ele foi levado para alguma <NAVI>[Taverna]<INFO>payon.gat,190,93,0,101,0</INFO></NAVI> em algum lugar de Payon."
 		},
-		Summary = "Senda del Cosechador de Almas"
+		Summary = "O caminho de Ceifador de Almas"
 	},
 	[12444] = {
-		Title = "Senda del Cosechador de Almas 3",
+		Title = "Caminho de Ceifador de Almas 3",
 		Description = {
-			"Busca al ladrón que robó el bolso de Banyak. Quizá sus cómplices estén en la taberna."
+			"Se conseguirmos confirmar os passos do ladrão de trouxas de Banyak, vamos tentar. Talvez haja um ajudante perto da estalagem."
 		},
-		Summary = "Senda del Cosechador de Almas"
+		Summary = "O caminho de Ceifador de Almas"
 	},
 	[12445] = {
-		Title = "Senda del Cosechador de Almas 4",
+		Title = "Caminho de Ceifador de Almas 4",
 		Description = {
-			"Habla con <NAVI>[Banyak]<INFO>payon.gat,190,93,0,101,0</INFO></NAVI> sobre las identidades de los ladrones que robaron su bolso."
+			"Vamos conversar com <NAVI>[Banyak]<INFO>payon.gat,190,93,0,101,0</INFO></NAVI> sobre a identidade do ladrão de trouxas."
 		},
-		Summary = "Senda del Cosechador de Almas"
+		Summary = "O caminho de Ceifador de Almas"
 	},
 	[12446] = {
-		Title = "Senda del Cosechador de Almas 5",
+		Title = "Caminho de Ceifador de Almas 5",
 		Description = {
-			"Interroga a Jumagi con Banyak y la chica para identificar a los ladrones que robaron el bolso de Banyak."
+			"Vamos ter uma guerra de palavras com Tavern Keeper com o pequeno e Banyak para identificar o ladrão estragado."
 		},
-		Summary = "Senda del Cosechador de Almas"
+		Summary = "O caminho de Ceifador de Almas"
 	},
 	[12447] = {
-		Title = "Senda del Cosechador de Almas 6",
+		Title = "Caminho de Ceifador de Almas 6",
 		Description = {
-			"Reúnete con <NAVI>[Banyak]<INFO>payon.gat,241,294,0,101,0</INFO></NAVI> en el norte de Payon."
+			"Payon Reencontre <NAVI>[Banyak]<INFO>payon.gat,241,294,0,101,0</INFO></NAVI> ao norte de Payon"
 		},
-		Summary = "Senda del Cosechador de Almas"
+		Summary = "O caminho de Ceifador de Almas"
 	},
 	[12448] = {
-		Title = "Senda del Cosechador de Almas 7",
+		Title = "Caminho de Ceifador de Almas 7",
 		Description = {
-			"Recolecta 44 <ITEM>[Colas de zorro]<INFO>1022</INFO></ITEM> para el ritual y llévalos a <NAVI>[Gato]<INFO>pay_dun04.gat,120,116,0,101,0</INFO></NAVI>."
+			"Vamos juntar 44 <ITEM>[Cauda de Raposa]<INFO>1022</INFO></ITEM> necessárias para o Grande Ritual e entregar para <NAVI>[Ya-eongi]<INFO>pay_dun04.gat,120,116,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Senda del Cosechador de Almas"
+		Summary = "O caminho de Ceifador de Almas"
 	},
 	[12449] = {
-		Title = "Senda del Cosechador de Almas 8",
+		Title = "Caminho de Ceifador de Almas 8",
 		Description = {
-			"Reúnete con <NAVI>[Banyak]<INFO>payon.gat,241,294,0,101,0</INFO></NAVI> y escucha la historia que se esconde tras el ritual de invocación de almas."
+			"<NAVI>Encontre [Banyak]<INFO>payon.gat,241,294,0,101,0</INFO></NAVI> e confirme a história ligada ao Ritual de chamadas de almas."
 		},
-		Summary = "Senda del Cosechador de Almas"
+		Summary = "O caminho de Ceifador de Almas"
 	},
 	[12450] = {
-		Title = "Senda del Cosechador de Almas 9",
+		Title = "Caminho de Ceifador de Almas 9",
 		Description = {
-			"Entra en el mundo espiritual de Banyak a través del ritual de invocación de almas y salva a su hermano."
+			"Vamos entrar no mundo espiritual de Banyak com o Ritual de chamadas de almas e resgatar o irmão mais novo dela(?)."
 		},
-		Summary = "Senda del Cosechador de Almas"
+		Summary = "O caminho de Ceifador de Almas"
 	},
 	[12451] = {
-		Title = "Senda del Cosechador de Almas - Final",
+		Title = "Capítulo final do caminho de Ceifador de Almas",
 		Description = {
-			"Habla con <NAVI>[Banyak]<INFO>payon.gat,241,294,0,101,0</INFO></NAVI> y decide si quieres seguir el camino del Cosechador de Almas."
+			"<NAVI>Decida o caminho de Ceifador de Almas conversando com [Banyak]<INFO>payon.gat,241,294,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Senda del Cosechador de Almas"
+		Summary = "O caminho de Ceifador de Almas"
 	},
 	[12452] = {
-		Title = "Operación de ocupación de Os",
+		Title = "Ocupación de Os",
 		Description = {
 			"Se ha asegurado la ruta de transporte ferroviario. Eliminemos las fuerzas restantes para tomar el control total de Os."
 		},
-		Summary = "Operación de ocupación de Os"
+		Summary = "Completa la instancia"
 	},
 	[12453] = {
-		Title = "En espera de la operación",
+		Title = "[Espera] Ocupación de Os",
 		Description = {
-			"La puerta que conduce a Osro está temporalmente cerrada. Esperemos hasta que se levante la restricción."
+			"La puerta que conduce a Os está temporalmente cerrada. Esperemos hasta que se levante la restricción."
 		},
-		Summary = "En espera de la operación"
+		Summary = "Espera órdenes"
 	},
 	[12454] = {
-		Title = "Misión de búsqueda adicional",
+		Title = "Misión OS",
 		Description = {
 			"Vamos a inspeccionar adicionalmente el noreste de Os y, si detectamos cualquier signo inusual o elemento peligroso, eliminémoslo de inmediato."
 		},
 		Summary = "Misión de búsqueda adicional"
 	},
 	[12455] = {
-		Title = "En espera de la operación",
+		Title = "[Espera] Misión OS",
 		Description = {
-			"La puerta que conduce a Osro está temporalmente cerrada. Espera hasta que se levante el bloqueo."
+			"La puerta que conduce a Os está temporalmente cerrada. Espera hasta que se levante el bloqueo."
 		},
-		Summary = "En espera de la operación"
+		Summary = "Vuelve mañana"
 	},
 	[12456] = {
-		Title = "[Espera] Anomalía Dimensional]",
+		Title = "[Espera] Anomalía Dimensional",
 		Description = {
 			"Has viajado entre las grietas dimensionales y se recomienda que esperes un tiempo."
 		},
-		Summary = "Vuelve mañana.­"
+		Summary = "Vuelve mañana"
 	},
 	[12457] = {
-		Title = "Momento de la caída",
+		Title = "El momento de la caída",
 		Description = {
-			"Sigue al dragón espacial Oscar al pasado y observa cómo cayó Glast Heim, la mayor fortaleza."
+			"Debes seguir al cronodragón Oscar y regresar al tiempo del pasado para presenciar cómo Glastheim, que fue la fortaleza más poderosa, terminó cayendo."
 		},
-		Summary = "Momento de la caída."
+		Summary = "El momento de la caída"
 	},
 	[12458] = {
-		Title = "Historia del orbe",
+		Title = "Epílogo del Orbe",
 		Description = {
-			"A pesar del sacrificio del rey Schmidt, su actuación fue distorsionada y transmitida."
+			"A pesar del sacrificio de Rey Schmidt, sus hazañas acabaron siendo distorsionadas al transmitirse."
 		},
-		Summary = "Sabor a dragón."
+		Summary = "El gusto del dragón"
 	},
 	[12459] = {
-		Title = "Descanso para los pensamientos del rey",
+		Title = "Que el descanso llegue a los pensamientos del rey.",
 		Description = {
-			"Para salvar innumerables vidas, Schmidt arrojó su propia vida al orbe. Sin embargo, en el proceso, el poder del orbe materializó sus pensamientos e intentó dejar constancia de su desgracia para futuras generaciones. Tu deber consiste en darle descanso a sus pensamientos."
+			"Para salvar innumerables vidas, Schmidt arrojó su propia vida al Orbe. Pero, en el proceso, el poder del Orbe materializó sus pensamientos persistentes e intenta dejar un registro de deshonra para las generaciones futuras. Tu misión es conceder descanso a sus pensamientos persistentes."
 		},
-		Summary = "Derrota los Pensamientos de Schmidt.",
+		Summary = "Derrota el remanente de Schmidt",
 		NpcSpr = "4_ED_SCHMIDT",
-		RewardEXP = "650 000",
-		RewardJEXP = "480 000",
+		RewardEXP = "650000",
+		RewardJEXP = "480000",
 		RewardItemList = {
 			{ItemID = 25739, ItemNum = 3}
 		}
 	},
 	[12460] = {
-		Title = "Consecuencias de la caída",
+		Title = "Secuelas de la caída",
 		Description = {
-			"Es difícil ver la escena de la caída de cualquier manera. No puedes entrar o crear la ^ff0000Purificación de Glast Heim^000000 mientras queden secuelas."
+			"De cualquier manera, es duro presenciar el lugar de la caída. Mientras duren las secuelas, no será posible entrar ni crear ^ff0000Purificación de Glastheim^000000."
 		},
-		Summary = "Se reinicia a las 4:00.",
-		CoolTimeQuest = 1
+		Summary = "Reinicio a las 4 a. m."
 	},
 	[12461] = {
-		Title = "Poderosas consecuencias de la muerte",
+		Title = "Las secuelas de una muerte poderosa",
 		Description = {
-			"Esta secuela va acompañada de la secuela de la caída. Durante el tiempo restante, los menús relacionados con la ^ff0000Purificación de Glast Heim (difícil)^000000 no aparecen y no se pueden usar."
+			"Este efecto secundario va acompañado del efecto secundario de la Caída. Mientras dure, no aparecerá el menú relacionado con ^ff0000Purificación de Glastheim(Avanzado))^000000 y tampoco podrás usarlo."
 		},
-		Summary = "Se reinicia a las 4:00 después de 3 días.",
-		CoolTimeQuest = 1
+		Summary = "Se reinicia a las 4 de la madrugada dentro de 3 días."
 	},
 	[12462] = {
-		Title = "Descanso para los pensamientos del rey (difícil)",
+		Title = "Descanso para el pensamiento del rey (Avanzado)",
 		Description = {
-			"Para salvar innumerables vidas, Schmidt arrojó su propia vida al orbe. Sin embargo, en el proceso, el poder del orbe materializó sus pensamientos e intentó dejar constancia de su desgracia para futuras generaciones. Tu deber consiste en darle descanso a sus pensamientos."
+			"Para salvar innumerables vidas, Schmidt arrojó su propia vida al Orbe. Pero en ese proceso, el poder del Orbe materializó sus pensamientos persistentes e intenta dejar un registro de deshonra para las generaciones futuras. Tu misión es conceder descanso a sus pensamientos persistentes."
 		},
-		Summary = "Derrota los Pensamientos de Schmidt (difícil).",
+		Summary = "Derrota a la Aparición de Schmidt (Avanzado)",
 		NpcSpr = "4_ED_SCHMIDT",
-		RewardEXP = "2 800 000",
-		RewardJEXP = "1 900 000",
+		RewardEXP = "2800000",
+		RewardJEXP = "1900000",
 		RewardItemList = {
 			{ItemID = 25740, ItemNum = 6}
 		}
@@ -44748,7 +44753,7 @@ QuestInfoList = {
 		Title = "Copia de seguridad de datos",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Necesito guardar mi chip todos los días. Debería ir con el <NAVI>[investigador]<INFO>sp_rudus4,192,204,0,101,0</INFO></NAVI> de Alas Secretas."
+			"Necesito guardar mi chip todos los días. Debería ir con el <NAVI>[investigador]<INFO>sp_rudus4,192,204,0,101,0</INFO></NAVI> del Viento Secreto."
 		},
 		Summary = "Habla con el investigador."
 	},
@@ -45397,120 +45402,120 @@ Talk to Kar=],
 		Summary = "Habla con Elena."
 	},
 	[17000] = {
-		Title = "Rechazar conversación",
+		Title = "Crisis en Rekenber",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"<NAVI>[Leizi]<INFO>pub_cat,105,58,0,101,0</INFO></NAVI> ya no quiso hablar más con la subdirectora Kaya Tos. Pregúntale qué historia hay detrás de esto."
+			"<NAVI>[Lazy]<INFO>pub_cat,105,58,0,101,0</INFO></NAVI> ya no quiso hablar más con el vicepresidente de Rekenber, Kaya Toss. Preguntemos cuál es la historia."
 		},
-		Summary = "Habla con Leizi."
+		Summary = "Habla con Lazy"
 	},
 	[17001] = {
-		Title = "Propuesta de acompañamiento",
+		Title = "Crisis en Rekenber",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"El Sr. Leizi y la subdirectora Kaya Tos no confían en las palabras del otro. Intenta proponerle a <NAVI>[Kaya Tos]<INFO>pub_cat,109,71,0,101,0</INFO></NAVI> que te acompañe."
+			"El Sr. Lazy y el vicepresidente Kaya Toss no confían en las palabras del otro. Intenta proponerle a <NAVI>[Kaya Toss]<INFO>pub_cat,109,71,0,101,0</INFO></NAVI> que te acompañe."
 		},
-		Summary = "Habla con Kaya Tos."
+		Summary = "Habla con Kaya Toss"
 	},
 	[17002] = {
-		Title = "Tiempo de reflexión",
+		Title = "Crisis en Rekenber",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Parece que Kaya Tos necesita un momento para pensar. Regresa con <NAVI>[Leizi]<INFO>pub_cat,105,58,0,101,0</INFO></NAVI> y habla con él sobre esto."
+			"Parece que Kaya Toss necesita un momento para pensar. Conversemos con <NAVI>[Lazy]<INFO>pub_cat,105,58,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Habla con Leizi.",
+		Summary = "Habla con Lazy",
 		RewardEXP = 300000,
 		RewardJEXP = 300000
 	},
 	[17003] = {
-		Title = "Acompañamiento logrado",
+		Title = "Crisis en Rekenber",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"¡Aventurero! El camino es largo, así que debemos darnos prisa. Vamos rápidamente al <NAVI>[aeropuerto]<INFO>einbroch,42,208,0,101,0</INFO></NAVI> de Einbroch."
+			"Dirígete a la entrada del <NAVI>[aeropuerto]<INFO>einbroch,42,208,0,101,0</INFO></NAVI> de Einbroch."
 		},
-		Summary = "Al aeropuerto de Einbroch"
+		Summary = "Aeropuerto de Einbroch"
 	},
 	[17004] = {
-		Title = "Camino hacia el empleo, comienza la aventura",
+		Title = "Crisis en Rekenber",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"A partir de ahora, comenzaremos un viaje para seguir las huellas de la carrera de Paxxi desde su primer empleo hasta el presente. Nos encontraremos en <NAVI>[Lighthalzen]<INFO>lighthalzen,259,215,0,101,0</INFO></NAVI>."
+			"A partir de ahora, vamos a investigar toda la vida de Patrick Kaufman hasta su desaparición. Nos encontraremos en <NAVI>[Lighthalzen]<INFO>lighthalzen,259,215,0,101,0</INFO></NAVI>."
 		},
 		Summary = "A Lighthalzen"
 	},
 	[17005] = {
-		Title = "El barrio pobre de Lighthalzen",
+		Title = "Crisis en Rekenber",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Esta aventura comienza en los barrios bajos donde se encuentra <NAVI>[la casa de Pack.]<INFO>lighthalzen,336,266,0,101,0</INFO></NAVI>."
+			"Esta aventura comienza en los barrios bajos donde se encuentra la <NAVI>[casa de Paca]<INFO>lighthalzen,336,266,0,101,0</INFO></NAVI>."
 		},
-		Summary = "A la casa de Pack.",
+		Summary = "A la casa de Patrick Kaufman",
 		RewardEXP = 300000,
 		RewardJEXP = 300000
 	},
 	[17006] = {
-		Title = "Comienzo de la investigación en serio.",
+		Title = "Crisis en Rekenber",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"¿Qué le ha parecido el tour por el barrio pobre? Ahora le acompañaré a <NAVI>[casa central]<INFO>lighthalzen,107,165,0,101,0</INFO></NAVI> de Rekenber. ¡Vamos!"
+			"¿Qué le ha parecido el tour por el barrio pobre? Ahora le acompañaré a <NAVI>[Sede]<INFO>lighthalzen,107,165,0,101,0</INFO></NAVI> de Rekenber. ¡Vamos!"
 		},
-		Summary = "A Rekkenber"
+		Summary = "Sede de Rekenber"
 	},
 	[17007] = {
-		Title = "Investigación de Rekenber",
+		Title = "Crisis en Rekenber",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"¿A dónde se dirigirán primero los nuevos empleados? Vamos a <NAVI>[lobby]<INFO>lhz_in01,107,137,0,101,0</INFO></NAVI>."
+			"¿A dónde irán primero los nuevos empleados? Vamos al <NAVI>[Vestíbulo]<INFO>lhz_in01,107,137,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Dentro de la sede central"
+		Summary = "Dentro de la Corporación"
 	},
 	[17008] = {
 		Title = "Investigación de Rekenber",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Vamos todos al <NAVI>[sala de reuniones]<INFO>lhz_in01,162,257,0,101,0</INFO></NAVI> en el segundo piso, donde Pax comenzó su vida en Rekenber."
+			"Vamos todos a dirigirnos al 2.º piso, <NAVI>[Sala de Reuniones]<INFO>lhz_in01,162,257,0,101,0</INFO></NAVI> donde Patrick Kaufman empezó a trabajar en Rekenber."
 		},
-		Summary = "Al segundo piso"
+		Summary = "Sala de Reuniones"
 	},
 	[17009] = {
-		Title = "Investigación de Rekenber",
+		Title = "Crisis en Rekenber",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"¿Por qué crees que solo llevaron a personas sanas al laboratorio? ¡Tengo curiosidad, muchísima curiosidad! Vamos rápido a <NAVI>[Laboratorio anexo]<INFO>rgsr_in,157,84,0,101,0</INFO></NAVI>."
+			"¿Por qué se habrán llevado solo a personas sanas al laboratorio? ¡Tengo tanta curiosidad, pero tanta curiosidad! Vamos rápido al <NAVI>[Laboratorio anexo]<INFO>rgsr_in,157,84,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Laboratorio anexo"
+		Summary = "Laboratorio Anexo"
 	},
 	[17010] = {
-		Title = "Investigación de Rekenber",
+		Title = "Crisis en Rekenber",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"¿Patrick Kaufman? ¿Quién es? Lo siento, no lo sé bien. Probablemente <NAVI>[alguien]<INFO>rgsr_in,12,46,0,101,0</INFO></NAVI> que está allí adentro lo sepa mejor."
+			"¿Patrick Kaufmann? ¿Quién es? Lo siento, no lo conozco. Probablemente, <NAVI>[alguien]<INFO>rgsr_in,12,46,0,101,0</INFO></NAVI> allí adentro debe saber más."
 		},
-		Summary = "Hacia adentro"
+		Summary = "Habla con Sammy"
 	},
 	[17011] = {
-		Title = "Investigación de Rekenber",
+		Title = "Crisis en Rekenber",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Hmm... El laboratorio al que fue transferido Faxxi... Alguien de ese departamento debe saberlo, así que primero vayamos a <NAVI>[oficina]<INFO>lhz_in01,80,210,0,101,0</INFO></NAVI>."
+			"Regresa a la Corporación Rekenber y habla con el <NAVI>[Secretario]<INFO>lhz_in01,80,210,0,101,0</INFO></NAVI>."
 		},
-		Summary = "De vuelta al edificio principal."
+		Summary = "Regresar a Rekenber"
 	},
 	[17012] = {
-		Title = "Investigación de Rekenber",
+		Title = "Crisis en Rekenber",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Si desea manejar este asunto de manera discreta, sería mejor que vaya directamente a <NAVI>[archivo de documentos]<INFO>lhz_in01,32,264,0,101,0</INFO></NAVI> y busque el documento correspondiente, en lugar de pasar por el departamento de recursos humanos."
+			"Si deseas manejar este asunto de manera discreta, ve a la <NAVI>[Sala de Archivo]<INFO>lhz_in01,32,264,0,101,0</INFO></NAVI> , en lugar de pasar por el equipo de RR. HH."
 		},
-		Summary = "A la sala de archivo de documentos"
+		Summary = "A la Sala de Archivo"
 	},
 	[17013] = {
-		Title = "La ubicación del nuevo laboratorio",
+		Title = "Crisis en Rekenber",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"La ubicación de <NAVI>[nuevo laboratorio]<INFO>ein_fild01,95,146,0,101,0</INFO></NAVI>, a la que fue el señor Patrick, es... el distrito 01, número 95-146, en la cordillera de Einbroch."
+			"Patrick fue transferido al <NAVI>Nuevo Laboratorio]<INFO>ein_fild01,95,146,0,101,0</INFO></NAVI>, en los alrededores de Einbroch, sector 01-95-146"
 		},
-		Summary = "A las afueras de Einbroch",
+		Summary = "Alrededores de Einbroch",
 		RewardEXP = 600000,
 		RewardJEXP = 600000,
 		RewardItemList = {
@@ -45518,120 +45523,120 @@ Talk to Kar=],
 		}
 	},
 	[17014] = {
-		Title = "No había ningún laboratorio.",
+		Title = "Crisis en Rekenber",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"¿Qué más podría hacer un aventurero aquí? Yo no, la verdad. Además, tengo un poco de hambre y me duelen un poco las piernas.",
-			"Vamos rápidamente a <NAVI>[ gato bala]<INFO>pub_cat,93,105,0,101,0</INFO></NAVI>."
+			"Los laboratorios McDonnell y Sinclair no existen. Ya no queda nada más por investigar.",
+			"Regresemos al <NAVI>[Maullido de Bala]<INFO>pub_cat,93,105,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Regresa como un gato bala."
+		Summary = "Regreso al Maullido de Bala"
 	},
 	[17015] = {
-		Title = "Esta es la elocuencia del subdirector.",
+		Title = "Capturando Elyumina",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Son personas que trabajaban en el laboratorio.",
-			"Hablaré con estas personas usando <NAVI>[Yo]<INFO>sp_cor,165,79,0,101,0</INFO></NAVI> una vez."
+			"Estas personas que trabajaban en el laboratorio.",
+			"Vamos a escuchar a <NAVI>[Kaya Toss]<INFO>sp_cor,165,79,0,101,0</INFO></NAVI>."
 		},
-		Summary = "La persuasión de Kaya Tos"
+		Summary = "La persuasión de Kaya Toss"
 	},
 	[17016] = {
-		Title = "No podemos comunicarnos...",
+		Title = "Capturando Elyumina",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"No importa cómo hablemos, no quiere escuchar. Así no llegaremos a ninguna conclusión. <NAVI>[tú y yo]<INFO>sp_cor,166,81,0,101,0</INFO></NAVI>Vamos a pensar juntos en una solución por un momento."
+			"No importa lo que digas, no quieren escuchar. Así no llegaremos a ninguna conclusión. Vamos a hablar con <NAVI>[Tess]<INFO>sp_cor,166,81,0,101,0</INFO></NAVI> y tomar una medida juntos."
 		},
-		Summary = "Discutir contramedidas con Tess."
+		Summary = "Habla con Tess"
 	},
 	[17017] = {
-		Title = "Prepárate para el ataque.",
+		Title = "Capturando Elyumina",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"¡Lleve al herido a <NAVI>[lugar seguro]<INFO>sp_cor,122,141,0,101,0</INFO></NAVI>! ¡Apúrese!"
+			"¡Lleve al herido a un <NAVI>[lugar seguro]<INFO>sp_cor,122,141,0,101,0</INFO></NAVI>! ¡Apresúrate!"
 		},
-		Summary = "Moverse a un lugar seguro"
+		Summary = "Ve a un lugar seguro"
 	},
 	[17018] = {
-		Title = "El estado de los pacientes",
+		Title = "Capturando Elyumina",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"<NAVI>[Ahs]<INFO>sp_cor,135,147,0,101,0</INFO></NAVI> dice que tiene un asunto urgente que debe informar a Kaya Tos."
+			"<NAVI>[Ace]<INFO>sp_cor,135,147,0,101,0</INFO></NAVI> dice que tiene un asunto urgente que debe informar a Kaya Toss."
 		},
-		Summary = "Al señor Ahs",
+		Summary = "Para Ace",
 		RewardEXP = 300000,
 		RewardJEXP = 300000
 	},
 	[17019] = {
-		Title = "Situación urgente",
+		Title = "Capturando Elyumina",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"¡Se necesitan más personas para buscar al investigador fugitivo! <NAVI>[izquierda]<INFO>sp_cor,108,130,0,101,0</INFO></NAVI> ¡Únete a los otros equipos de búsqueda allí!"
+			"¡La fugitiva está atacando a miembros de la Rebelión! Habla con el <NAVI>[Insurgente]<INFO>sp_cor,108,130,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Participar en la búsqueda"
+		Summary = "Habla con el Rebelde"
 	},
 	[17020] = {
-		Title = "Reanudar la investigación",
+		Title = "Buscando a Patrick",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Le agradecería que continuara investigando sobre Patrick Kaufman. Tal vez las <NAVI>[personas que trabajaban aquí]<INFO>sp_cor,133,144,0,101,0</INFO></NAVI> puedan darnos alguna pista."
+			"Continúa la investigación sobre Patrick Kaufman. Quizás los <NAVI>[trabajadores]<INFO>sp_cor,133,144,0,101,0</INFO></NAVI> puedan darte alguna pista."
 		},
 		Summary = "A los trabajadores"
 	},
 	[17021] = {
-		Title = "Busca a Pakssi.",
+		Title = "Buscando a Patrick",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"De todos modos, si buscas a alguien, deberías preguntarles a los investigadores. Aunque probablemente no queden muchos, ya que la mayoría huyó...",
-			"<NAVI>[paso]<INFO>sp_cor,224,77,0,101,0</INFO></NAVI>todavía quedan algunos, así que ve a comprobarlo."
+			"De todos modos, si buscas a alguien, tendrás que preguntarle a la asistente de los investigadores...",
+			"Habla con la <NAVI>[Investigadora]<INFO>sp_cor,224,77,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Al investigador"
+		Summary = "Al asistente"
 	},
 	[17022] = {
-		Title = "Busca a Pakssi.",
+		Title = "Buscando a Patrick",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Si buscas a alguien, ve a ver a <NAVI>[Persona]<INFO>sp_cor,151,180,0,101,0</INFO></NAVI>, quien se encargaba de la lavandería. Ha estado aquí mucho tiempo y conoce a todo el mundo."
+			"Si buscas a alguien, ve a a la <NAVI>[Lavandería]<INFO>sp_cor,151,180,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Al encargado de la lavandería",
 		RewardEXP = 300000,
 		RewardJEXP = 300000
 	},
 	[17023] = {
-		Title = "Busca a Paxxi.",
+		Title = "Buscando a Patrick",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Si estás buscando algo, ve a <NAVI>[planta incineradora]<INFO>sp_cor,70,263,0,101,0</INFO></NAVI>. Allí están reuniendo y clasificando los materiales que ahora están esparcidos por todas partes, así que quizás puedas encontrar algo útil."
+			"Si estás buscando algo, ve a la <NAVI>[incineradora]<INFO>sp_cor,70,263,0,101,0</INFO></NAVI>. Allí están reuniendo y clasificando los materiales que están esparcidos por todas partes, así que quizás puedas encontrar algo buscas."
 		},
 		Summary = "Al incinerador"
 	},
 	[17024] = {
-		Title = "Busca a Paxxi.",
+		Title = "Buscando a Patrick",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Me dijeron que hay un <NAVI>[vertedero]<INFO>sp_rudus,227,351,0,101,0</INFO></NAVI> especial donde se desechan las cosas que están muy contaminadas o que no se pueden quemar. Entre ellos lo llaman de alguna manera..."
+			"Me dijeron que hay un <NAVI>[depósito de residuos]<INFO>sp_rudus,227,351,0,101,0</INFO></NAVI> donde se desechan las cosas que están muy contaminadas o que no se pueden quemar. Hasta tienen un nombre propio para este lugar..."
 		},
-		Summary = "A Ludos"
+		Summary = "A Rudus"
 	},
 	[17025] = {
-		Title = "Busca a Paxxi.",
+		Title = "Buscando a Patrick",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"<NAVI>[en algún lugar]<INFO>sp_rudus,15,280,0,101,0</INFO></NAVI> Se escucha una voz proveniente de algún lugar. Vamos a buscar de dónde viene."
+			"Escuché una voz proveniente de <NAVI>[algún lugar]<INFO>sp_rudus,15,280,0,101,0</INFO></NAVI>. Sigamos el sonido."
 		},
-		Summary = "Siguiendo el sonido",
+		Summary = "Al otro lugar",
 		RewardEXP = 300000,
 		RewardJEXP = 300000
 	},
 	[17026] = {
-		Title = "Busca a Paxxi.",
+		Title = "Buscando a Patrick",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Mejor intenta buscar la pulsera de identificación entre los montones de basura. Seguramente estará tirada en algún lugar del suelo."
+			"Vamos a buscar la pulsera de identificación entre los montones de basura. Seguramente estará tirada en algún lugar del suelo."
 		},
-		Summary = "Brazalete de identificación para sujetos de prueba"
+		Summary = "Brazalete de identificación"
 	},
 	[17027] = {
-		Title = "Busca a Paxxi.",
+		Title = "Buscando a Patrick",
 		IconName = "ico_ep.bmp",
 		Description = {
 			"Rebusqué cuidadosamente entre el montón de basura y encontré algunas pulseras de identificación, pero ninguna era la del señor Kaufmann. Vamos a buscar en otro lugar."
@@ -45639,7 +45644,7 @@ Talk to Kar=],
 		Summary = "Busquemos en otro lugar."
 	},
 	[17028] = {
-		Title = "Busca a Paxxi.",
+		Title = "Buscando a Patrick",
 		IconName = "ico_ep.bmp",
 		Description = {
 			"Rebusqué en el montón de basura y encontré varias pulseras de identificación de otras personas. Vamos a buscar en otro lugar."
@@ -45647,7 +45652,7 @@ Talk to Kar=],
 		Summary = "Rebuscar entre montones de basura"
 	},
 	[17029] = {
-		Title = "Busca a Paxxi.",
+		Title = "Buscando a Patrick",
 		IconName = "ico_ep.bmp",
 		Description = {
 			"Buscaste con esmero, pero todo resultó ser basura. Mejor revisa en otro lugar."
@@ -45655,7 +45660,7 @@ Talk to Kar=],
 		Summary = "Echar un vistazo a otro lugar"
 	},
 	[17030] = {
-		Title = "Busca a Paxxi.",
+		Title = "Buscando a Patrick",
 		IconName = "ico_ep.bmp",
 		Description = {
 			"He revisado y vuelto a revisar, pero parece que no hay nada útil. Mejor busquemos en otro lugar."
@@ -45663,7 +45668,7 @@ Talk to Kar=],
 		Summary = "A otro montón de basura."
 	},
 	[17031] = {
-		Title = "Busca a Pakssi.",
+		Title = "Buscando a Patrick",
 		IconName = "ico_ep.bmp",
 		Description = {
 			"Aquí no había nada. ¿Podré encontrar alguna pista de la señora Kaufman...? Mejor reviso en otro lugar."
@@ -45671,7 +45676,7 @@ Talk to Kar=],
 		Summary = "A otro montón de basura."
 	},
 	[17032] = {
-		Title = "Busca a Pakssi.",
+		Title = "Buscando a Patrick",
 		IconName = "ico_ep.bmp",
 		Description = {
 			"He desenterrado una pulsera que estaba enterrada en un montón de basura. Regresemos con <NAVI>[Kaya]<INFO>sp_cor,136,146,0,101,0</INFO></NAVI> con esto."
@@ -45693,7 +45698,7 @@ Talk to Kar=],
 	},
 	[17034] = {
 		Title = "A Ludos",
-		IconName = "ico_ep.bmp",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"Entonces, por favor, concede descanso a los 20 sujetos de prueba llamados Dolor y tráeme 10 brazaletes de identificación para sujetos de prueba. - <NAVI>[Ahs]<INFO>sp_cor,135,147,0,101,0</INFO></NAVI>"
 		},
@@ -45707,7 +45712,7 @@ Talk to Kar=],
 	},
 	[17035] = {
 		Title = "Espera: Ludos",
-		IconName = "ico_ep.bmp",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"Nos volveremos a ver después del amanecer. Realmente ha sido un gran esfuerzo de su parte. - <NAVI>[Ahs]<INFO>sp_cor,135,147,0,101,0</INFO></NAVI>"
 		},
@@ -48924,6 +48929,48 @@ Talk to Kar=],
 			"Solo puedes luchar contra Troy una vez que el temporizador expire."
 		},
 		Summary = ""
+	},
+	[20000] = {
+		Title = "Verificación del Personaje del Usuario Completada",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"¡La verificación del personaje del usuario para RagFes se ha completado!"
+		},
+		Summary = "RagFes"
+	},
+	[20022] = {
+		Title = "¡Soy el Dios del Refinamiento! (1)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"El evento “¡Soy el Dios del Refinamiento!” (1.ª ronda) está en progreso."
+		},
+		Summary = ""
+	},
+	[20023] = {
+		Title = "¡Soy el Dios del Refinamiento! (2)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"El evento “¡Soy el Dios del Refinamiento!” (2.ª ronda) está en progreso."
+		},
+		Summary = ""
+	},
+	[20024] = {
+		Title = "¡Soy el Dios del Refinamiento! (3)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"El evento “¡Soy el Dios del Refinamiento!” (3.ª ronda) está en progreso."
+		},
+		Summary = ""
+	},
+	[20025] = {
+		Title = "[En espera] ¡Soy el Dios del Refinamiento!",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"El evento de hoy “¡Soy el Dios del Refinamiento!” ha finalizado.",
+			"Podrás intentarlo de nuevo después de que el recinto del evento abra mañana."
+		},
+		Summary = "Reinicio a las 11:00",
+		CoolTimeQuest = 1
 	},
 	[21001] = {
 		Title = "Escape del barco hundido",
@@ -71607,6 +71654,104 @@ Talk to Kar=],
 		Summary = "Se reinicia a las 4:00.",
 		CoolTimeQuest = 1
 	},
+	[295259] = {
+		Title = "Battle Pass Daily1",
+		Description = {
+			"Derrota a 5 Deleter Rígido (Cielo)"
+		},
+		Summary = "Derrota a 5 Deleter Rígido (Cielo)"
+	},
+	[295260] = {
+		Title = "Battle Pass Daily1",
+		Description = {
+			"Derrota Deleter Rígido (Cielo) / 1 vez al día, reinicia a las 04:00"
+		},
+		Summary = "Reinicia a las 04:00"
+	},
+	[295261] = {
+		Title = "Battle Pass Daily2",
+		Description = {
+			"Derrota a 5 Deleter Rígido (Tierra)"
+		},
+		Summary = "Derrota a 5 Deleter Rígido (Tierra)"
+	},
+	[295262] = {
+		Title = "Battle Pass Daily2",
+		Description = {
+			"Derrota Deleter Rígido (Tierra) / 1 vez al día, reinicia a las 04:00"
+		},
+		Summary = "Reinicia a las 04:00"
+	},
+	[295263] = {
+		Title = "Battle Pass Daily3",
+		Description = {
+			"Derrota a 5 Fantasma de Hielo"
+		},
+		Summary = "Derrota a 5 Fantasma de Hielo"
+	},
+	[295264] = {
+		Title = "Battle Pass Daily3",
+		Description = {
+			"Derrota Fantasma de Hielo / 1 vez al día, reinicia a las 04:00"
+		},
+		Summary = "Reinicia a las 04:00"
+	},
+	[295265] = {
+		Title = "Battle Pass Daily4",
+		Description = {
+			"Derrota a 5 Fantasma de Llamas"
+		},
+		Summary = "Derrota a 5 Fantasma de Llamas"
+	},
+	[295266] = {
+		Title = "Battle Pass Daily4",
+		Description = {
+			"Derrota Fantasma de Llamas / 1 vez al día, reinicia a las 04:00"
+		},
+		Summary = "Reinicia a las 04:00"
+	},
+	[295267] = {
+		Title = "Battle Pass Daily5",
+		Description = {
+			"Derrota a 1 Naght Sieger"
+		},
+		Summary = "Derrota a 1 Naght Sieger"
+	},
+	[295268] = {
+		Title = "Battle Pass Daily5",
+		Description = {
+			"Derrota Naght Sieger / 1 vez por semana, reinicia a las 04:00"
+		},
+		Summary = "Reinicia a las 04:00"
+	},
+	[295269] = {
+		Title = "Battle Pass Alltime",
+		Description = {
+			"Sube de nivel al personaje una vez"
+		},
+		Summary = "Sube de nivel al personaje una vez"
+	},
+	[295270] = {
+		Title = "Battle Pass Alltime",
+		Description = {
+			"Sube de nivel al personaje una vez / 1 vez por semana, reinicia a las 04:00"
+		},
+		Summary = "Misión de la Temporada 1 del Battle Pass completada"
+	},
+	[295271] = {
+		Title = "Battle Pass Bonus Quest",
+		Description = {
+			"Alcanza el nivel 185"
+		},
+		Summary = "Alcanza el nivel 185"
+	},
+	[295272] = {
+		Title = "Battle Pass Bonus Quest",
+		Description = {
+			"Alcanza el nivel 185 / Solo 1 vez durante este evento"
+		},
+		Summary = "Misión de la Temporada 1 del Battle Pass completada"
+	},
 	[297001] = {
 		Title = "Conversación con el recluta Woods Goofus",
 		IconName = "ico_ev.bmp",
@@ -72061,47 +72206,5 @@ Talk to Kar=],
 		NpcNavi = "geffen",
 		NpcPosX = 40,
 		NpcPosY = 141
-	},
-	[20000] = {
-		Title = "Verificación del Personaje del Usuario Completada",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"¡La verificación del personaje del usuario para RagFes se ha completado!"
-		},
-		Summary = "RagFes"
-	},
-	[20022] = {
-		Title = "¡Soy el Dios del Refinamiento! (1)",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"El evento “¡Soy el Dios del Refinamiento!” (1.ª ronda) está en progreso."
-		},
-		Summary = ""
-	},
-	[20023] = {
-		Title = "¡Soy el Dios del Refinamiento! (2)",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"El evento “¡Soy el Dios del Refinamiento!” (2.ª ronda) está en progreso."
-		},
-		Summary = ""
-	},
-	[20024] = {
-		Title = "¡Soy el Dios del Refinamiento! (3)",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"El evento “¡Soy el Dios del Refinamiento!” (3.ª ronda) está en progreso."
-		},
-		Summary = ""
-	},
-	[20025] = {
-		Title = "[En espera] ¡Soy el Dios del Refinamiento!",
-		IconName = "ico_dq.bmp",
-		Description = {
-			"El evento de hoy “¡Soy el Dios del Refinamiento!” ha finalizado.",
-			"Podrás intentarlo de nuevo después de que el recinto del evento abra mañana."
-		},
-		Summary = "Reinicio a las 11:00",
-		CoolTimeQuest = 1
 	}
 }

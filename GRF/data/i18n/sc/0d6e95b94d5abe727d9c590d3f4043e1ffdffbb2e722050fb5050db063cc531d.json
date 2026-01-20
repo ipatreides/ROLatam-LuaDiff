@@ -1381,8 +1381,8 @@
     },
     "tKeiBw": {
         "en": "[Tess]\nIf you remember the collapse of the Secret Wing, maybe you will know a lot about it.\nBut the Secret Wing was not destroyed entirely.",
-        "pt": "[Tess]\nSe você lembra do colapso da Vento Secreto, então talvez saiba bem.\nMas a Vento Secreto não foi totalmente destruída.",
-        "es": "[Tess]\nSi recuerdas el colapso del Alas Secretas, quizá sepas mucho al respecto.\nPero el Alas Secretas no fue destruida por completo."
+        "pt": "[Tess]\nSe você lembra do colapso do Vento Secreto, então talvez saiba bem.\nMas o Vento Secreto não foi totalmente destruída.",
+        "es": "[Tess]\nSi recuerdas el colapso del Viento Secreto, quizá sepas mucho al respecto.\nPero el Viento Secreto no fue destruida por completo."
     },
     "taeiBw": {
         "en": "[Tess]\nAlthough it's only a small number, there are agents who are working on information warfare.",
@@ -2273,5 +2273,10 @@
         "en": "Hey, Lazy! You are irresponsible!",
         "pt": "Ei, Nalandro! Você é irresponsável!",
         "es": "¡Eh, Lazy! ¡Eres un irresponsable!"
+    },
+    "Z6iiBw": {
+        "en": "- You are carrying too many items to proceed with this quest. -",
+        "pt": "- Você não pode prosseguir com a missão porque tem muitos itens. -",
+        "es": "- Llevas demasiados objetos para continuar con esta misión.-"
     }
 }

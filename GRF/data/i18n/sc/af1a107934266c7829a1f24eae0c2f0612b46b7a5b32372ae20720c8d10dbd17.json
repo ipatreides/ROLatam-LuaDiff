@@ -380,7 +380,7 @@
         "es": "[Profesor Gusano]\nPero aún nada está completamente claro.\nTengo tanta curiosidad, que me da rabia, pero no tengo más Ranas-diario que lanzar…"
     },
     "TKhh": {
-        "en": "[Professor Worm]\nI'll try to figure out other ways to get back my memory. And when I do please help me again.",
+        "en": "[Professor Worm]\nDid you find all Diary Frogs?\nYou only found three?\nDid all the rest just get destroyed?\nI should have thrown them a little more gently...\nThanks a lot. Thanks to you, I found my portrait and got back some of my memories.",
         "pt": "[Professor Fabre]\nVou tentar descobrir outras maneiras de recuperar minha memória. E, quando eu conseguir, por favor, me ajude novamente.",
         "es": "[Profesor Gusano]\nIntentaré buscar otras formas de recuperar la memoria. Y cuando lo haga, por favor, ayúdame de nuevo."
     },
@@ -853,5 +853,20 @@
         "en": "[Diary Frog No. 30]\nI'll let you listen to Professor Worm's diary with a well composed voice.\nLet me first shape my throat here...\nErhem.... Prrhaaha!",
         "pt": "[Sapo-Diário nº 30]\nVou deixar você ouvir o diário do Professor Fabre com uma voz bem composta.\nDeixe-me primeiro moldar minha garganta aqui...\nErhem.... Prrhaaha!",
         "es": "[Rana-diario núm.30]\nTe permitiré escuchar el diario del profesor Gusano con una voz bien tranquila.\nPrimero déjame darle forma a mi garganta…\nEjem… ¡Prrhaaha!"
+    },
+    "q6hh": {
+        "en": "- You are carrying too many items to proceed with this quest. -",
+        "pt": "- Você não pode prosseguir com a missão porque tem muitos itens. -",
+        "es": "- Llevas demasiados objetos para continuar con esta misión.-"
+    },
+    "rKhh": {
+        "en": "The wall is filled with Professor Worm's notes.\nIt seems like some of it can be read.",
+        "pt": "A parede está cheia de anotações do Professor Fabre. \nParece que algumas delas podem ser lidas.",
+        "es": "La pared está cubierta de notas del profesor Gusano. \nParece que algunas se pueden leer."
+    },
+    "rahh": {
+        "en": "The wall is filled with\nProfessor Worm's notes.\nIt seems like some of it can be read.",
+        "pt": "A parede está cheia de \nanotações do Professor Fabre. \nParece que algumas delas podem ser lidas.",
+        "es": "La pared está cubierta de \nnotas del profesor Gusano. \nParece que algunas se pueden leer."
     }
 }

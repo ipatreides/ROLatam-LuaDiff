@@ -463,5 +463,10 @@
         "en": "A boy dressed in unusual clothing is standing, with a fierce look in his eyes.\nYou guess you'd better leave him alone.",
         "pt": "Um garoto vestido com roupas incomuns está de pé, com um olhar feroz nos olhos.\nÉ melhor deixá-lo em paz.",
         "es": "Un chico vestido con ropa inusual está de pie con una mirada feroz en los ojos.\nSerá mejor que no lo molestes."
+    },
+    "HTFG": {
+        "en": "- You are carrying too many items to proceed with this quest. -",
+        "pt": "- Você não pode prosseguir com a missão porque tem muitos itens. -",
+        "es": "- Llevas demasiados objetos para continuar con esta misión.-"
     }
 }

@@ -30,7 +30,7 @@
         "es": "(No parece darse cuenta de que estoy a su lado y sigue escribiendo)."
     },
     "Zhgj": {
-        "en": "[Industrious man]\nwrite..write..\ncrunch..crunch..\n....",
+        "en": "- He doesn't seem to recognize that I am standing next to him as he continues writing something. -",
         "pt": "[Homem trabalhador]\nescrever...escrever...\ncrunch...crunch...\n....",
         "es": "[Hombre laborioso]\n*Escribe… Escribe…*\n*Tris… Tris…*\n...."
     },
@@ -325,7 +325,7 @@
         "es": "(Bazett lee con atención). \n (Quizás no quiera que lo molesten). \n (Déjalo leer)."
     },
     "oRgj": {
-        "en": "[Bazett]\nUm... Oh...my...God!!",
+        "en": "- Bazett is reading carefully -\n - Perhaps he doesn't want to  be botherered -\n - Let him read. -",
         "pt": "[Bazett]\nHum... Ah... pelos céus!",
         "es": "[Bazett]\nEh… ¡Oh… por los dioses!"
     },
@@ -540,9 +540,9 @@
         "es": "(No entiendes lo que dice)."
     },
     "zBgj": {
-        "en": "[Worker]\nHello.{0}.\nDid you come here to help me?",
-        "pt": "[Trabalhador]\nOlá, {0}.\nVocê veio me ajudar?",
-        "es": "[Trabajador]\nHola, {0}.\n¿Viniste para ayudarme?"
+        "en": "- You can't understand what he is saying. -",
+        "pt": "[Trabalhador]\nOlá, {callme}.\nVocê veio me ajudar?",
+        "es": "[Trabajador]\nHola, {callme}.\n¿Viniste para ayudarme?"
     },
     "zRgj": {
         "en": "[Gill]\nI need something to fix the tent with,\nif you can get^0000FF 30 Horn of Hillslion^000000, I can make them into sturdy enough screws.",
@@ -658,5 +658,15 @@
         "en": "[nes]\nSeGothShar An AshDur",
         "pt": "[nes]\nSeGothShar e AshDur",
         "es": "[Nes]\nSeGothShar An AshDur."
+    },
+    "5Bgj": {
+        "en": "- You are carrying too many items to proceed with this quest. -",
+        "pt": "- Você não pode prosseguir com a missão porque tem muitos itens. -",
+        "es": "- Llevas demasiados objetos para continuar con esta misión.-"
+    },
+    "5Rgj": {
+        "en": "[nes]\nVaFuloDor An\nWosNuffremu Ha TurAshTi\nVilTiRini O",
+        "pt": "[nes]\nVaFuloDor An\nWosNuffremu Ha TurAshTi\nVilTiRini O",
+        "es": "[nes]\nVaFuloDor An\nWosNuffremu Ha TurAshTi\nVilTiRini O"
     }
 }

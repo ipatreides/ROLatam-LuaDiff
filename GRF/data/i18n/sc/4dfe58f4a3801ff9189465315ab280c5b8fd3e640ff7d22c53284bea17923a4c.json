@@ -235,7 +235,7 @@
         "es": "[Laphine tomando notas]\nEl poeta nos impresionó mucho.\nA los laphines también nos gusta mucho la música.\nJamás pensé escuchar música tan exótica."
     },
     "L9Qw": {
-        "en": "[Laphine taking notes]\nI want to study music someday.\nI plan to write much about the study of instruments and music.",
+        "en": "[Dining Laphine]\nNothFarLu Ra...?\nRuffYur..!",
         "pt": "[Laphine tomando notas]\nQuero estudar música algum dia.\nPretendo escrever muito sobre o estudo de instrumentos e música.",
         "es": "[Laphine tomando nota]\nAlgún día, quiero estudiar música.\nPlaneo componer mucho sobre el estudio de los instrumentos y la música."
     },
@@ -350,7 +350,7 @@
         "es": "Soldado de Alto Rango"
     },
     "RtQw": {
-        "en": "[High-Ranked Soldier]\nAre there any new supplies?",
+        "en": "[Laphine Staff]\nVeldAnoWeh Or\nTurWos\n......ah...",
         "pt": "[Soldado Alto Nível]\nHá algum suprimento novo?",
         "es": "[Soldado de Alto Rango]\n¿Hay recursos nuevos?"
     },
@@ -403,5 +403,25 @@
         "en": "[Upper Grade Soldier]\nDurNohHir Ha UorVaThus Di AshNuffLon U mahNuffThus U RuAmanAgol Ir NohHir...?",
         "pt": "[Soldado Alto Nível]\nDurNohHir Ha UorVaThus Di AshNuffLon U mahNuffThus U RuAmanAgol Ir NohHir...?",
         "es": "[Soldado de Rango Mayor]\nDurNohHir Ha UorVaThus Di AshNuffLon U mahNuffThus U RuAmanAgol Ir NohHir…?"
+    },
+    "UdQw": {
+        "en": "- You are carrying too many items to proceed with this quest. -",
+        "pt": "- Você não pode prosseguir com a missão porque tem muitos itens. -",
+        "es": "- Llevas demasiados objetos para continuar con esta misión.-"
+    },
+    "UtQw": {
+        "en": "[Resting Laphine]\nIyazLarsSe Or An.\nmarLoOsa Yee NeiBur\nRinisehrnea Mu...?",
+        "pt": "[Laphine Descansando]\nIyazLarsSe ou An.\nmarLoOsa Yee NeiBur\nRinisehrnea Mu...?",
+        "es": "[Laphine Descansando]\nIyazLarsSe Or An.\nmarLoOsa Yee NeiBur.\n¿Rinisehrnea Mu…?"
+    },
+    "U9Qw": {
+        "en": "[Laphine Staff]\nNorVerNuff Ee Re!\nremuDurOdes Mu AshFus~!\nOdesTalWeh Ur???",
+        "pt": "[Equipe Laphine]\nNorVerNuff Ee Re!\nremuDurOdes Mu AshFus~!\nOdesTalWeh Ur????",
+        "es": "[Personal Laphine]\nNorVerNuff Ee Re!\nremuDurOdes Mu AshFus!\nOdesTalWeh Ur???"
+    },
+    "VNQw": {
+        "en": "[Laphine Soldier]\nFusVerAlah Di\nModNorNor U DimVohlWeh O DimAmannea An WosAnoNoh An AnduMeOdes So TalAdor.",
+        "pt": "[Soldado Laphine]\nFusVerAlah Di \nModNorNor U DimVohlWeh O DimAmannea An WosAnoNoh An AnduMeOdes So TalAdor.",
+        "es": "[Soldado Laphine]\nFusVerAlah Di. \nModNorNor U DimVohlWeh O DimAmannea An WosAnoNoh An AnduMeOdes So TalAdor."
     }
 }

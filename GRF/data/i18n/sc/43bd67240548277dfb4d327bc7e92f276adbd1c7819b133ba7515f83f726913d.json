@@ -85,7 +85,7 @@
         "es": "[Guardia de Eclage]\nTodo tu dolor y cansancio se desvanecen en los brazos de la naturaleza. Restaura tu mente y cuerpo en la clínica de Eclage.\nSigue el camino de la izquierda."
     },
     "cSFg": {
-        "en": "[Eclage Guard]\nHaven't you seen our decorations for Yai? Take a trip outside. You'll see our residential area.",
+        "en": "[Eclage Guard]\nThis is the plaza of Eclage. You'll find everything you need around here.",
         "pt": "[Guarda de Eclage]\nVocê ainda não viu nossas decorações para Yai? Dê uma olhada lá fora. Você verá nossa área residencial.",
         "es": "[Guardia de Eclage]\n¿No viste nuestras decoraciones para yai? Haz un recorrido por el exterior. Verás nuestra zona residencial."
     },
@@ -135,7 +135,7 @@
         "es": "Olvidarlo."
     },
     "eyFg": {
-        "en": "[Receptionist]\nIt seems like you don't have enough coins. Would you check your account again, please?",
+        "en": "[Receptionist]\nRestore your mind and body at our clinic. It's filled with Eclage's clean energy.\nWe charge 1 Splendide Coin normally, but we offer a special discount for travelers. Your total is 5,000 zeny.",
         "pt": "[Recepcionista]\nParece que você não tem moedas suficientes. Poderia verificar sua conta novamente, por favor?",
         "es": "[Recepcionista]\nParece que no tienes suficientes monedas. ¿Podrías volver a revisar tu cuenta?"
     },
@@ -203,5 +203,15 @@
         "en": "[Injured Laphine]\n...what do you mean??",
         "pt": "[Laphine Ferida]\n...o que você quer dizer com isso?",
         "es": "[Laphine herido]\n¿Qué quieres decir?"
+    },
+    "iSFg": {
+        "en": "- You are carrying too many items to proceed with this quest. -",
+        "pt": "- Você não pode prosseguir com a missão porque tem muitos itens. -",
+        "es": "- Llevas demasiados objetos para continuar con esta misión.-"
+    },
+    "iiFg": {
+        "en": "[Doctor]\nWell...I was going to tell you after you recover, but you should know. You can't decorate the Yai anymore.\nIn other words, you injured your wing. The arrow went through the most critical part in the wing.",
+        "pt": "[Doutor]\nBem... eu ia lhe contar depois que você se recuperasse, mas precisa saber. Você não pode mais decorar o Yai. \nEm outras palavras, você feriu sua asa. A flecha atravessou a parte mais crítica dela.",
+        "es": "[Médico]\nBueno… iba a decírtelo después de que te recuperaras, pero deberías saberlo. Ya no puedes decorar el yai. \nEn otras palabras, te lesionaste el ala. La flecha atravesó la parte más importante del ala."
     }
 }

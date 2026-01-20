@@ -841,6 +841,69 @@ A religious kingdom that worships the goddess Freya and has achieved unity of ch
 				<TIPBOX>- See tip list<INFO>1000</INFO></TIPBOX>]]
 		}
 	},
+	[4107] = {
+		Title = "Recompensa de episodio#Equipo",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Es posible intercambiar varios objetos utilizando monedas exclusivas que se pueden obtener al avanzar en episodios específicos.\n\n                        <TIPBOX>>Recompensa de Ep16.1 Marca de Honor<INFO>4108</INFO></TIPBOX>\n                        <TIPBOX>>Recompensa de Ep16.2 Escudo de Honor<INFO>4109</INFO></TIPBOX>\n                        <TIPBOX>>Ep17.1 Ilusión, serie OS<INFO>4110</INFO></TIPBOX>\n\n                        <TIPBOX>>Episodio<INFO>4101</INFO></TIPBOX>\n                        <TIPBOX>>Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4108] = {
+		Title = "Ep16.1 Recompensa de Marca de Honor #Adulación, veneno y ciudad",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Mientras avanzas en el episodio, puedes intercambiar las <ITEM>[Marca de Honor]<INFO>6919</INFO></ITEM> que obtienes por varios objetos útiles en el palacio real de Prontera.\n\n                        ^663399§Ubicación de intercambio^000000\n                        ><NAVI>[Comisario]<INFO>prt_cas,165,255,0,101,0</INFO></NAVI>\n\n                        ^663399§Objetos de equipo^000000\n                        <ITEM>[Vestimenta Arrogante]<INFO>15146</INFO></ITEM>\n                        <ITEM>[Vestimenta Exuberante]<INFO>15147</INFO></ITEM>\n                        <ITEM>[[Disfraz] Ilusiones del Tiempo]<INFO>20246</INFO></ITEM>\n                        <ITEM>[[Disfraz] Mano Diabólica]<INFO>20247</INFO></ITEM>\n                        <ITEM>[Mapa de la Capital]<INFO>28354</INFO></ITEM>\n                        <ITEM>[Poción Sagrada]<INFO>28355</INFO></ITEM>\n                        <ITEM>[Insignia de Prontera]<INFO>28356</INFO></ITEM>\n                        <ITEM>[Escudo de la Realeza]<INFO>28900</INFO></ITEM>\n\n                        ^663399§Otros objetos^000000\n                        <ITEM>[Mapa de la Ciudad]<INFO>22899</INFO></ITEM>\n                        <ITEM>[Poción Sagrada]<INFO>11600</INFO></ITEM>\n                        <ITEM>[Llaves de la Prisión]<INFO>22848</INFO></ITEM>\n                        <ITEM>[Insignia de Prontera]<INFO>22847</INFO></ITEM>\n\n                        <TIPBOX>>Recompensa del episodio<INFO>4107</INFO></TIPBOX>\n                        <TIPBOX>>Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4109] = {
+		Title = "Recompensa de Ep16.2 Escudo de Honor#Anillo de Mercenario de la República de la Asamblea",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Mientras avanzas en el episodio, puedes intercambiar el <ITEM>[Escudo de Honor]<INFO>25155</INFO></ITEM> que obtuviste por varios objetos útiles en el escondite de Rebellion en Einbech, llamado 'Clana Nemieri'.\n\n                        ^663399§Ubicación de intercambio^000000\n                        ><NAVI>[Strasse]<INFO>rebel_in,74,67,0,101,0</INFO></NAVI>\n\n                        ^663399§Objetos de equipo^000000\n                        <ITEM>[Túnica Agenda]<INFO>15163</INFO></ITEM>\n                        <ITEM>[Túnica de Consulta]<INFO>15164</INFO></ITEM>\n                        <ITEM>[Sombrero de la Republica]<INFO>19115</INFO></ITEM>\n                        <ITEM>[[Disfraz] Vestigio de Combate]<INFO>20456</INFO></ITEM>\n                        <ITEM>[Mercenary Ring Type A]<INFO>28425</INFO></ITEM>\n                        <ITEM>[Mercenary Ring Type B]<INFO>28426</INFO></ITEM>\n\n                        <TIPBOX>>Recompensa del episodio<INFO>4107</INFO></TIPBOX>\n                        <TIPBOX>>Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4110] = {
+		Title = "Ep17.1 Ilusión, serie OS#Accesorio de la puerta de arma dañada de Cor Core",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Mientras avanzas en el episodio, puedes intercambiar los objetos obtenidos, como <ITEM>[Arma Dañada]<INFO>25668</INFO></ITEM> y <ITEM>[Núcleo Cor]<INFO>25723</INFO></ITEM>, por varios ítems útiles en la zona especial de Cor.\n\n\t\t\t^663399§Ubicación de intercambio^000000\n\t\t\t><NAVI>[Rebellion]<INFO>sp_cor,108,130,0,101,0</INFO></NAVI>\n\n\t\t\t^663399§Serie Ilusión^000000\n\t\t\t>Intercambia por <ITEM>[Núcleo Cor]<INFO>25723</INFO></ITEM>.\n\t\t\t<ITEM>[Ilusión Armadura Tipo A]<INFO>15376</INFO></ITEM>\n\t\t\t<ITEM>[Ilusión Armadura Tipo B]<INFO>15377</INFO></ITEM>\n\t\t\t<ITEM>[Ilusión Ala de Motor Tipo A]<INFO>20933</INFO></ITEM>\n\t\t\t<ITEM>[Ilusión Ala de Motor Tipo B]<INFO>20934</INFO></ITEM>\n\t\t\t<ITEM>[Ilusión Piernas Tipo A]<INFO>22196</INFO></ITEM>\n\t\t\t<ITEM>[Ilusión Piernas Tipo B]<INFO>22197</INFO></ITEM>\n\t\t\t<ITEM>[Ilusión Impulsor R]<INFO>32207</INFO></ITEM>\n\t\t\t<ITEM>[Ilusión Impulsor L]<INFO>32208</INFO></ITEM>\n\t\t\t<ITEM>[Ilusión Chip de Batalla R]<INFO>32209</INFO></ITEM>\n\t\t\t<ITEM>[Ilusión Chip de Batalla L]<INFO>32210</INFO></ITEM>\n\n\t\t\t^663399§Serie de armas OS^000000\n\t\t\t>Obtén aleatoriamente una de las armas OS usando <ITEM>[Componente Misterioso]<INFO>25669</INFO></ITEM> y <ITEM>[Arma Dañada]<INFO>25668</INFO></ITEM>.\n\t\t\t<ITEM>[Cañón Rapier-OS]<INFO>13493</INFO></ITEM>\n\t\t\t<ITEM>[Rayo Claymore-OS]<INFO>21047</INFO></ITEM>\n\t\t\t<ITEM>[Bastón Rutilus-OS]<INFO>26151</INFO></ITEM>\n\t\t\t<ITEM>[Placa de Circuito-OS]<INFO>28629</INFO></ITEM>\n\t\t\t<ITEM>[Blasti-OS]<INFO>28136</INFO></ITEM>\n\t\t\t<ITEM>[Agujero Zafiro-OS]<INFO>16088</INFO></ITEM>\n\t\t\t<ITEM>[Arco Virtual-OS]<INFO>18178</INFO></ITEM>\n\t\t\t<ITEM>[MH-P89-OS]<INFO>18179</INFO></ITEM>\n\t\t\t<ITEM>[Moishura-OS]<INFO>28038</INFO></ITEM>\n\t\t\t<ITEM>[Puño Ardiente-OS]<INFO>1862</INFO></ITEM>\n\t\t\t<ITEM>[HR-S55-OS]<INFO>28253</INFO></ITEM>\n\t\t\t<ITEM>[Kuroiro-OS]<INFO>28755</INFO></ITEM>\n\t\t\t<ITEM>[AC-B44-OS]<INFO>18180</INFO></ITEM>\n\t\t\t<ITEM>[Lanza Impulsada-OS]<INFO>32019</INFO></ITEM>\n\t\t\t<ITEM>[일렉트릭폭스]<INFO>26164</INFO></ITEM>\n\t\t\t<ITEM>[Ultio-OS]<INFO>16089</INFO></ITEM>\n\n\t\t\t<TIPBOX>>Aparece en Ep17.1, Ilusión<INFO>7055</INFO></TIPBOX>\n\t\t\t<TIPBOX>>Recompensa del episodio<INFO>4107</INFO></TIPBOX>\n\t\t\t<TIPBOX>>Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4112] = {
+		Title = "Ep16.1 Serie Noblesse#100",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Mientras avanzas en el episodio, puedes intercambiar los <ITEM>[Marca de Honor]<INFO>6919</INFO></ITEM> obtenidos por armaduras Noblesse en el palacio real de Prontera. Los objetos disponibles para el intercambio varían según la clase.\n\t\t\t^663399§Requisito de intercambio: Nivel 100 o superior^000000\n\n\t\t\t^663399§Ubicación de intercambio^000000\n\t\t\t><NAVI>[Intercambiador de Noblesse]<INFO>prt_cas,165,260,0,101,0</INFO></NAVI>\n\n\t\t\t^663399§Objetos comunes^000000\n\t\t\t<ITEM>[Anillo de ataque Noblesse]<INFO>490014</INFO></ITEM>\n\t\t\t<ITEM>[Anillo mágico Noblesse]<INFO>490015</INFO></ITEM>\n\t\t\t<ITEM>[Noblesse Attack Manteau]<INFO>480012</INFO></ITEM>\n\t\t\t<ITEM>[Noblesse Magic Manteau]<INFO>480014</INFO></ITEM>\n\t\t\t<ITEM>[Botas de ataque Noblesse]<INFO>470016</INFO></ITEM>\n\t\t\t<ITEM>[Botas mágicas Noblesse]<INFO>470017</INFO></ITEM>\n\t\t\t<ITEM>[Billete de ascenso Noblesse]<INFO>100128</INFO></ITEM>\n\n\t\t\t^663399§Objetos por clase^000000\n\t\t\t<ITEM>[Armadura de aliento noble]<INFO>450018</INFO></ITEM>\n\t\t\t<ITEM>[Armadura de caballero noble]<INFO>450019</INFO></ITEM>\n\t\t\t<ITEM>[Armadura de lanza noble]<INFO>450020</INFO></ITEM>\n\t\t\t<ITEM>[Armadura génesis noble]<INFO>450021</INFO></ITEM>\n\t\t\t<ITEM>[Atuendo de Errante noble]<INFO>450022</INFO></ITEM>\n\t\t\t<ITEM>[Atuendo noble de puntería]<INFO>450023</INFO></ITEM>\n\t\t\t<ITEM>[Atuendo de Gran tormenta noble]<INFO>450024</INFO></ITEM>\n\t\t\t<ITEM>[Atuendo de Reverberación noble]<INFO>450025</INFO></ITEM>\n\t\t\t<ITEM>[Túnica de Adoramus noble]<INFO>450026</INFO></ITEM>\n\t\t\t<ITEM>[Túnica de Luz doble noble]<INFO>450027</INFO></ITEM>\n\t\t\t<ITEM>[Atuendo de Flecha de puño de acero noble]<INFO>450050</INFO></ITEM>\n\t\t\t<ITEM>[Atuendo de Cañón de tigre noble]<INFO>450051</INFO></ITEM>\n\t\t\t<ITEM>[Armadura de Tornado noble]<INFO>450028</INFO></ITEM>\n\t\t\t<ITEM>[Armadura de Brazo vulcano noble]<INFO>450029</INFO></ITEM>\n\t\t\t<ITEM>[Noblesse Cañón de Carreta 슈츠]<INFO>450030</INFO></ITEM>\n\t\t\t<ITEM>[Atuendo de Tornado de carreta noble]<INFO>450031</INFO></ITEM>\n\t\t\t<ITEM>[Atuendo de Cortadora de rodillos noble]<INFO>450032</INFO></ITEM>\n\t\t\t<ITEM>[Atuendo de Asesino noble]<INFO>450033</INFO></ITEM>\n\t\t\t<ITEM>[Atuendo de Amenaza mortal noble]<INFO>450034</INFO></ITEM>\n\t\t\t<ITEM>[Atuendo de Perseguidor noble]<INFO>450035</INFO></ITEM>\n\t\t\t<ITEM>[Túnica de Picoteo de pollito noble]<INFO>450036</INFO></ITEM>\n\t\t\t<ITEM>[Túnica de Meteoro de Catnip noble]<INFO>450037</INFO></ITEM>\n\t\t\t<ITEM>[Atuendo de Daño de ida y vuelta noble]<INFO>450038</INFO></ITEM>\n\t\t\t<ITEM>[Atuendo de Lluvia de fuego noble]<INFO>450039</INFO></ITEM>\n\t\t\t<ITEM>[Túnica de Rosa carmesí noble]<INFO>450040</INFO></ITEM>\n\t\t\t<ITEM>[Túnica de Jack Escarcha noble]<INFO>450041</INFO></ITEM>\n\t\t\t<ITEM>[Túnica de Oleada psíquica noble]<INFO>450042</INFO></ITEM>\n\t\t\t<ITEM>[Túnica de Polvo diamantino noble]<INFO>450043</INFO></ITEM>\n\t\t\t<ITEM>[Atuendo de Explosión solar noble]<INFO>450044</INFO></ITEM>\n\t\t\t<ITEM>[Atuendo de Patada de luna llena noble]<INFO>450045</INFO></ITEM>\n\t\t\t<ITEM>[Atuendo de Ninja noble]<INFO>450046</INFO></ITEM>\n\t\t\t<ITEM>[Atuendo de Salpicadura de Kunai noble]<INFO>450047</INFO></ITEM>\n\t\t\t<ITEM>[Túnica de Eswoo noble]<INFO>450048</INFO></ITEM>\n\t\t\t<ITEM>[Túnica de Explosión de maldiciones noble]<INFO>450049</INFO></ITEM>\n\t\t\t<ITEM>[Atuendo de Superprincipiante noble]<INFO>450121</INFO></ITEM>\n\t\t\t<ITEM>[Túnica de Superprincipiante noble]<INFO>450122</INFO></ITEM>\n\n\t\t\t<TIPBOX>>Ep16.1 Banquete para los héroes<INFO>8118</INFO></TIPBOX>\n\t\t\t<TIPBOX>>Recompensa del episodio<INFO>4107</INFO></TIPBOX>\n\t\t\t<TIPBOX>>Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4113] = {
+		Title = "Ep16.2 Serie Imperial#125",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Mientras avanzas en el episodio, puedes intercambiar el <ITEM>[Escudo de Honor]<INFO>25155</INFO></ITEM> que obtuviste en el escondite de Rebellion en Einbech, 'Clana Nemieri', por armaduras Imperial. Los objetos disponibles para el intercambio varían según la clase.\n\t\t\t^663399§Requisito de intercambio: Nivel 125 o superior^000000\n\n\t\t\t^663399§Ubicación de intercambio^000000\n\t\t\t><NAVI>[Intercambiador Imperial]<INFO>rebel_in,99,51,0,101,0</INFO></NAVI>\n\n\t\t\t^663399§Objetos comunes^000000\n\t\t\t<ITEM>[Anillo de ataque imperial]<INFO>490017</INFO></ITEM>\n\t\t\t<ITEM>[Anillo mágico imperial]<INFO>490018</INFO></ITEM>\n\t\t\t<ITEM>[Manteau d'attaque imperial]<INFO>480016</INFO></ITEM>\n\t\t\t<ITEM>[Manteau mágico imperial]<INFO>480017</INFO></ITEM>\n\t\t\t<ITEM>[Botas de ataque imperiales]<INFO>470018</INFO></ITEM>\n\t\t\t<ITEM>[Botas mágicas imperiales]<INFO>470019</INFO></ITEM>\n\t\t\t<ITEM>[Billete Imperial]<INFO>100129</INFO></ITEM>\n\t\t\t\n\t\t\t>Permiso de modificación Imperial\n\t\t\t<ITEM>[Permiso de modificación física (Manto)]<INFO>100131</INFO></ITEM>\n\t\t\t<ITEM>[Permiso de modificación mágica (Manto)]<INFO>100132</INFO></ITEM>\n\t\t\t<ITEM>[Permiso de modificación física (Armadura)]<INFO>100135</INFO></ITEM>\n\t\t\t<ITEM>[Permiso de modificación mágica (Armadura)]<INFO>100136</INFO></ITEM>\n\n\t\t\t^663399§Objetos por clase^000000\n\t\t\t<ITEM>[Armadura imperial de ataque]<INFO>450052</INFO></ITEM>\n\t\t\t<ITEM>[Armadura de caballero imperial]<INFO>450053</INFO></ITEM>\n\t\t\t<ITEM>[Armadura de lanza imperial]<INFO>450054</INFO></ITEM>\n\t\t\t<ITEM>[Armadura imperial génesis]<INFO>450055</INFO></ITEM>\n\t\t\t<ITEM>[Atuendo de Errante noble]<INFO>450056</INFO></ITEM>\n\t\t\t<ITEM>[Atuendo de puntería imperial]<INFO>450057</INFO></ITEM>\n\t\t\t<ITEM>[Atuendo de Gran tormenta imperial]<INFO>450058</INFO></ITEM>\n\t\t\t<ITEM>[Atuendo de Reverberación imperial]<INFO>450059</INFO></ITEM>\n\t\t\t<ITEM>[Túnica de Adoramus imperial]<INFO>450060</INFO></ITEM>\n\t\t\t<ITEM>[Túnica de Luz doble imperial]<INFO>450061</INFO></ITEM>\n\t\t\t<ITEM>[Atuendo de Puño de acero imperial]<INFO>450062</INFO></ITEM>\n\t\t\t<ITEM>[Atuendo de Cañón de tigre imperial]<INFO>450063</INFO></ITEM>\n\t\t\t<ITEM>[Traje de Huracán Ilustre]<INFO>450064</INFO></ITEM>\n\t\t\t<ITEM>[Armadura de Brazo vulcano imperial]<INFO>450065</INFO></ITEM>\n\t\t\t<ITEM>[Imperial Cañón de Carreta 슈츠]<INFO>450066</INFO></ITEM>\n\t\t\t<ITEM>[Atuendo de Tornado de carreta imperial]<INFO>450067</INFO></ITEM>\n\t\t\t<ITEM>[Atuendo de Cortadora de rodillos imperial]<INFO>450068</INFO></ITEM>\n\t\t\t<ITEM>[Atuendo de Asesino imperial]<INFO>450069</INFO></ITEM>\n\t\t\t<ITEM>[Atuendo de Amenaza mortal imperial]<INFO>450070</INFO></ITEM>\n\t\t\t<ITEM>[Atuendo de Perseguidor imperial]<INFO>450071</INFO></ITEM>\n\t\t\t<ITEM>[Túnica de Picoteo de pollito imperial]<INFO>450072</INFO></ITEM>\n\t\t\t<ITEM>[Túnica de Meteoro de Catnip imperial]<INFO>450073</INFO></ITEM>\n\t\t\t<ITEM>[Atuendo de Daño de ida y vuelta imperial]<INFO>450074</INFO></ITEM>\n\t\t\t<ITEM>[Atuendo de Lluvia de fuego imperial]<INFO>450075</INFO></ITEM>\n\t\t\t<ITEM>[Túnica de Roca carmesí imperial]<INFO>450076</INFO></ITEM>\n\t\t\t<ITEM>[Túnica de Jack Escarcha imperial]<INFO>450077</INFO></ITEM>\n\t\t\t<ITEM>[Túnica de Oleada psíquica imperial]<INFO>450078</INFO></ITEM>\n\t\t\t<ITEM>[Daño de Polvo diamantino imperial]<INFO>450079</INFO></ITEM>\n\t\t\t<ITEM>[Atuendo de Explosión solar imperial]<INFO>450080</INFO></ITEM>\n\t\t\t<ITEM>[Atuendo de Patada de luna llena imperial]<INFO>450081</INFO></ITEM>\n\t\t\t<ITEM>[Atuendo de Nninja imperial]<INFO>450082</INFO></ITEM>\n\t\t\t<ITEM>[Atuendo de Salpicadura de Kunai imperial]<INFO>450083</INFO></ITEM>\n\t\t\t<ITEM>[Túnica de Eswoo imperial]<INFO>450084</INFO></ITEM>\n\t\t\t<ITEM>[Túnica de Explosión de maldiciones imperial]<INFO>450085</INFO></ITEM>\n\t\t\t<ITEM>[Atuendo de Superprincipiante imperial]<INFO>450123</INFO></ITEM>\n\t\t\t<ITEM>[Túnica de Superprincipiante imperial]<INFO>450124</INFO></ITEM>\n\n\t\t\t<TIPBOX>>Ep16.2 Terra Gloria<INFO>8143</INFO></TIPBOX>\n\t\t\t<TIPBOX>>Recompensa del episodio<INFO>4107</INFO></TIPBOX>\n\t\t\t<TIPBOX>>Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4114] = {
+		Title = "Ep17.1 Serie Grace#150",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Mientras avanzas en el episodio, puedes intercambiar los objetos obtenidos <ITEM>[Núcleo Cor]<INFO>25723</INFO></ITEM>, <ITEM>[Componente Misterioso]<INFO>25669</INFO></ITEM> por armaduras Grace en la zona especial de Cor. Los objetos disponibles para el intercambio varían según la clase.\n\t\t\t^663399§Requisito de intercambio: Nivel 150 o superior^000000\n\t\t\t\n\t\t\t^663399§Ubicación de intercambio^000000\n\t\t\t><NAVI>[Intercambiador de Grace]<INFO>sp_cor,136,156,0,101,0</INFO></NAVI>\n\t\t\t\n\t\t\t^663399§Objetos comunes^000000\n\t\t\t<ITEM>[Anillo de ataque Grace]<INFO>490019</INFO></ITEM>\n\t\t\t<ITEM>[Anillo mágico Grace]<INFO>490020</INFO></ITEM>\n\t\t\t<ITEM>[Grace Attack Manteau]<INFO>480018</INFO></ITEM>\n\t\t\t<ITEM>[Grace Magic Manteau]<INFO>480019</INFO></ITEM>\n\t\t\t<ITEM>[Botas Grace Attack]<INFO>470020</INFO></ITEM>\n\t\t\t<ITEM>[Botas mágicas Grace]<INFO>470021</INFO></ITEM>\n\t\t\t<ITEM>[Billete de ascenso Grace]<INFO>100130</INFO></ITEM>\n\t\t\t\n\t\t\t>Permiso de modificación Grace\n\t\t\t<ITEM>[Permiso de modificación física (Manteau)]<INFO>100133</INFO></ITEM>\n\t\t\t<ITEM>[Permiso de modificación mágica (Manteau)]<INFO>100134</INFO></ITEM>\n\t\t\t<ITEM>[Permiso de modificación física (Armadura)]<INFO>100137</INFO></ITEM>\n\t\t\t<ITEM>[Permiso de modificación mágica (Armadura)]<INFO>100138</INFO></ITEM>\n\t\t\t\n\t\t\t^663399§Objetos por clase^000000\n\t\t\t<ITEM>[Armadura de aliento de gracia]<INFO>450086</INFO></ITEM>\n\t\t\t<ITEM>[Armadura de Caballero de gracia]<INFO>450087</INFO></ITEM>\n\t\t\t<ITEM>[Armadura de lanza de gracia]<INFO>450088</INFO></ITEM>\n\t\t\t<ITEM>[Armadura génesis de gracia]<INFO>450089</INFO></ITEM>\n\t\t\t<ITEM>[Atuendo de Errante de gracia]<INFO>450090</INFO></ITEM>\n\t\t\t<ITEM>[Atuendo de puntería de gracia]<INFO>450091</INFO></ITEM>\n\t\t\t<ITEM>[Armadura de Gran tormenta de gracia]<INFO>450092</INFO></ITEM>\n\t\t\t<ITEM>[Atuendo de Reverberación de gracia]<INFO>450093</INFO></ITEM>\n\t\t\t<ITEM>[Túnica de Adoramus de gracia]<INFO>450094</INFO></ITEM>\n\t\t\t<ITEM>[Túnica de Luz doble de gracia]<INFO>450095</INFO></ITEM>\n\t\t\t<ITEM>[Atuendo de Puño de acero de gracia]<INFO>450096</INFO></ITEM>\n\t\t\t<ITEM>[Atuendo de Cañón de tigre de gracia]<INFO>450097</INFO></ITEM>\n\t\t\t<ITEM>[Elegante Traje Huracán]<INFO>450098</INFO></ITEM>\n\t\t\t<ITEM>[Armadura de Brazo vulcano de gracia]<INFO>450099</INFO></ITEM>\n\t\t\t<ITEM>[Grace Cañón de Carreta 슈츠]<INFO>450100</INFO></ITEM>\n\t\t\t<ITEM>[Atuendo de Tornado de carreta de gracia]<INFO>450101</INFO></ITEM>\n\t\t\t<ITEM>[Atuendo de Cortadora de rodillos de gracia]<INFO>450102</INFO></ITEM>\n\t\t\t<ITEM>[Atuendo de Asesino de gracia]<INFO>450103</INFO></ITEM>\n\t\t\t<ITEM>[Atuendo de Amenaza mortal de gracia]<INFO>450104</INFO></ITEM>\n\t\t\t<ITEM>[Atuendo de Perseguidor de gracia]<INFO>450105</INFO></ITEM>\n\t\t\t<ITEM>[Túnica de Picoteo de pollito de gracia]<INFO>450106</INFO></ITEM>\n\t\t\t<ITEM>[Túnica de Meteoro de Catnip de gracia]<INFO>450107</INFO></ITEM>\n\t\t\t<ITEM>[Atuendo de Daño de ida y vuelta de gracia]<INFO>450108</INFO></ITEM>\n\t\t\t<ITEM>[Atuendo de Lluvia de fuego de gracia]<INFO>450109</INFO></ITEM>\n\t\t\t<ITEM>[Túnica de Roca carmesí de gracia]<INFO>450110</INFO></ITEM>\n\t\t\t<ITEM>[Túnica de Jack Escarcha de gracia]<INFO>450111</INFO></ITEM>\n\t\t\t<ITEM>[Túnica de Oleada psíquica de gracia]<INFO>450112</INFO></ITEM>\n\t\t\t<ITEM>[Túnica de Polvo diamantino de gracia]<INFO>450113</INFO></ITEM>\n\t\t\t<ITEM>[Atuendo de Explosión solar de gracia]<INFO>450114</INFO></ITEM>\n\t\t\t<ITEM>[Atuendo de Patada de luna llena de gracia]<INFO>450115</INFO></ITEM>\n\t\t\t<ITEM>[Atuendo de Ninja de gracia]<INFO>450116</INFO></ITEM>\n\t\t\t<ITEM>[Atuendo de Salpicadura de Kunai de gracia]<INFO>450117</INFO></ITEM>\n\t\t\t<ITEM>[Túnica de Eswoo de gracia]<INFO>450118</INFO></ITEM>\n\t\t\t<ITEM>[Túnica de Explosión de maldiciones de gracia]<INFO>450119</INFO></ITEM>\n\t\t\t<ITEM>[Atuendo de Superprincipiante de gracia]<INFO>450125</INFO></ITEM>\n\t\t\t<ITEM>[Bata Grace Super Novice]<INFO>450126</INFO></ITEM>\n\t\t\t\n\t\t\t<TIPBOX>>Aparece en Ep17.1, Ilusión<INFO>7055</INFO></TIPBOX>\n\t\t\t<TIPBOX>>Recompensa del episodio<INFO>4107</INFO></TIPBOX>\n\t\t\t<TIPBOX>>Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
 	[4193] = {
 		Title = "Sociedad de Monstruos",
 		Search = 1,
@@ -1048,6 +1111,168 @@ A religious kingdom that worships the goddess Freya and has achieved unity of ch
 			"Hay una misión de cacería en los alrededores de Rachel. Habla con el Agente para comenzar.\n\t\t\tMapa: Alrededores de Rachel\n\t\t\tObjetivo: Lobo del Desierto, Roween, Anopheles\n\t\t\t^663399Nivel mínimo: 88^000000\n\t\t\t\n\t\t\t<NAVI>[Agente Siaro]<INFO>ra_fild01,224,319,0,101,0</INFO></NAVI>\n\t\t\t\n\t\t\t<TIPBOX>» Sociedad de Monstruos<INFO>4193</INFO></TIPBOX>\n\t\t\t<TIPBOX>» Página principal<INFO>1000</INFO></TIPBOX>"
 		}
 	},
+	[7055] = {
+		Title = "Aparición del Episodio 17.1, Ilusión#episodio de misión",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip07055",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"¡El gobierno republicano, que aguardaba en silencio su oportunidad dentro de Schwarzwald, finalmente despliega sus alas!\n\n\t\t\t\t\tLas Alas Secretas y Rebellion han formado una alianza temporal.\n\t\t\t\t\tAntes de cortar de raíz las extremidades de la corporación, establecen una base operativa en Einbroch para mejorar su movilidad.\n\n\t\t\t\t\t¡Una operación de ataque urgente que comienza en el PUB Bala de Gato!\n\n\t\t\t\t\t<TIPBOX> § Ep.16.2 Terra Golria<INFO>8149</INFO></TIPBOX> completado\n\t\t\t\t\t^663399› Nivel 110 o superior^000000\n\n\t\t\t\t\t § Misión de inicio\n\t\t\t\t\t<TIPBOX>Q Nueva zona de operaciones <INFO>7056</INFO></TIPBOX>\n\n\t\t\t\t\t § Misión principal\n\t\t\t\t\t<TIPBOX>Q La crisis de la empresa<INFO>7057</INFO></TIPBOX>\n\t\t\t\t\t<TIPBOX>Q Camino hacia el empleo 01<INFO>7058</INFO></TIPBOX>\n\t\t\t\t\t<TIPBOX>Q Recuerdos antiguos<INFO>7059</INFO></TIPBOX>\n\t\t\t\t\t<TIPBOX>Q El cielo visto desde el pozo<INFO>7060</INFO></TIPBOX>\n\t\t\t\t\t<TIPBOX>Q Trastillo puro<INFO>7061</INFO></TIPBOX>\n\n\t\t\t\t\t § Misiones secundarias\n\t\t\t\t\t<TIPBOX>Q Operación de ocupación de Os<INFO>7062</INFO></TIPBOX>\n\t\t\t\t\t<TIPBOX>Q Camino hacia el empleo 02<INFO>7063</INFO></TIPBOX>\n\t\t\t\t\t<TIPBOX>Q Historia de Gony<INFO>7064</INFO></TIPBOX>\n\n\t\t\t\t\t § Misiones diarias\n\t\t\t\t\t<TIPBOX>Q Mercenario vs Mercenario<INFO>7065</INFO></TIPBOX>\n\t\t\t\t\t<TIPBOX>Q Mano de obra para la granja<INFO>7066</INFO></TIPBOX>\n\t\t\t\t\t<TIPBOX>Q Operación antidisturbios EL1_A17T<INFO>7067</INFO></TIPBOX>\n\t\t\t\t\t\n\t\t\t\t\t<TIPBOX> § Ep17.1 Ilusión, serie OS<INFO>4110</INFO></TIPBOX>\n\t\t\t\t\t<TIPBOX> § Ep17.1 serie Grace<INFO>4114</INFO></TIPBOX>\n\n\t\t\t\t\t<TIPBOX> § Ver episodio 17<INFO>4106</INFO></TIPBOX>\n\t\t\t\t\t<TIPBOX> § Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[7056] = {
+		Title = "Q Nueva zona de operaciones (110)#Comienza la misión del episodio 17.1 Ilusión",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"El PUB Bala de Gato, ubicado en Einbroch. En este bar que parece común y corriente, los funcionarios del gobierno, Tess y Rebellion, inician una operación de asalto a las instalaciones secretas del laboratorio corporativo.\n\n\t\t\t<TIPBOX> § Ep.16.2 Terra Golria<INFO>8149</INFO></TIPBOX> completado\n\t\t\t^663399› Nivel 110 o superior^000000\n\n\t\t\t<NAVI>[Philopontes]<INFO>pub_cat,93,105,0,101,0</INFO></NAVI>\n\n\t\t\t<TIPBOX> § Volver a la página anterior<INFO>7055</INFO></TIPBOX>\n\t\t\t<TIPBOX> § Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[7057] = {
+		Title = "Q La crisis de la empresa (110)#Misión Episodio 17.1 Ilusión",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Después de que el aventurero confirmara la verdadera naturaleza de Ludus y regresara, Tess le presenta a un representante de la empresa.\n\t\t\tSe le pide ayuda para recuperar Regenchirm, el laboratorio afiliado a Rekenber, que ha sido tomado por asaltantes. ¿Quién será la persona que hace esta solicitud...?\n\n\t\t\t<TIPBOX> § Nueva zona de operaciones<INFO>7056</INFO></TIPBOX> Completado\n\t\t\t^663399› Nivel 110 o superior^000000\n\n\t\t\t<NAVI>[Philopontes]<INFO>pub_cat,93,105,0,101,0</INFO></NAVI>\n\n\t\t\t<TIPBOX> § Volver a la página anterior<INFO>7055</INFO></TIPBOX>\n\t\t\t<TIPBOX> § Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[7058] = {
+		Title = "Q Camino hacia el empleo 01 (110)#Misión Episodio 17.1 Ilusión",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Leizi, quien ha recibido una nueva misión del presidente, está desahogando su frustración en una pequeña habitación de Gato Bala.\n\tEl objetivo es Kaya Tos, el vicepresidente de Rekenber.\n\t¿Podrán estas dos personas, que ahora inician juntos un viaje para revelar la verdad oculta, llegar sanos y salvos hasta el final?\n\n\t<TIPBOX> § La crisis de la empresa<INFO>7057</INFO></TIPBOX> completado\n\t^663399› Nivel 110 o superior^000000\n\n\t<NAVI>[Leizi]<INFO>pub_cat,106,69,0,101,0</INFO></NAVI>\n\n\t<TIPBOX> § Volver a la página anterior<INFO>7055</INFO></TIPBOX>\n\t<TIPBOX> § Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[7059] = {
+		Title = "Q Recuerdos antiguos (110)#Misión Episodio 17.1 Ilusión",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Las antiguas minas de Einbroch ya han sido clausuradas, pero algunos investigadores de la corporación las están utilizando con nuevos propósitos.\n\tPara atacar las instalaciones ilegales, los veteranos de Rebellion han tomado la iniciativa. Después de todo, aún están en activo.\n\n\t<TIPBOX> § Camino hacia el empleo 01<INFO>7058</INFO></TIPBOX> completado\n\t^663399› Nivel 110 o superior^000000\n\n\t<NAVI>[Rebellion miembro]<INFO>ein_fild03,278,269,0,101,0</INFO></NAVI>\n\n\t<TIPBOX> § Volver a la página anterior<INFO>7055</INFO></TIPBOX>\n\t<TIPBOX> § Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[7060] = {
+		Title = "Q El cielo visto desde el pozo (110) #MisiónEpisodio17.1 Ilusión",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Después de mucho esfuerzo, al llegar a la entrada de Core, los trabajadores del lugar, que desconocen la situación, se encuentran enfrentados con el grupo de avanzada de Rebellion.\n\tIncluso Kaya, la subdirectora de Rekenber, intenta persuadirlos, pero no es tarea fácil. Mientras buscan una solución, de repente aparece un desconocido y ataca sin previo aviso... ¿?\n\n\t<TIPBOX> § Recuerdos antiguos<INFO>7059</INFO></TIPBOX> completado\n\t^663399› Nivel 110 o superior^000000\n\n\t<NAVI>[Rebellion]<INFO>sp_cor,168,81,0,101,0</INFO></NAVI>\n\n\t<TIPBOX> § Volver a la página anterior<INFO>7055</INFO></TIPBOX>\n\t<TIPBOX> § Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[7061] = {
+		Title = "Q Trastillo puro (110)#Misión Episodio 17.1 Ilusión",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"El investigador fugitivo Eliumina está evadiendo la persecución recurriendo constantemente a tácticas de guerrilla.\n\tRebellion, considerando que dejar a Eliumina libre dificultaría tanto la búsqueda como la recuperación, decide bloquear Core y llevar a cabo una operación de búsqueda a gran escala.\n\n\t<TIPBOX> § El cielo visto desde el pozo<INFO>7060</INFO></TIPBOX> completado\n\t^663399› Nivel 110 o superior^000000\n\n\t<NAVI>[Rebellion]<INFO>sp_cor,108,130,0,101,0</INFO></NAVI>\n\n\t<TIPBOX> § Volver a la página anterior<INFO>7055</INFO></TIPBOX>\n\t<TIPBOX> § Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[7062] = {
+		Title = "Q Operación de ocupación de Os (110)#Misión diaria del episodio 17.1 Ilusión",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"El escuadrón de avanzada ha asegurado la ruta ferroviaria de Os, pero no está completamente bajo control.\n\tDebemos ayudar en la operación de aniquilación para dominar Os por completo, preparándonos para la contraofensiva de Ilusión.\n\n\t- Tras completar la misión, habrá una misión diaria disponible.\n\tBúsqueda secundaria en Os (110)\n\n\t<TIPBOX> § Recuerdos antiguos<INFO>7059</INFO></TIPBOX> completado\n\t^663399› Nivel 110 o superior^000000\n\n\t<NAVI>[Est]<INFO>sp_cor,162,56,0,101,0</INFO></NAVI>\n\n\t<TIPBOX> § Volver a la página anterior<INFO>7055</INFO></TIPBOX>\n\t<TIPBOX> § Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[7063] = {
+		Title = "Q Camino hacia el empleo 02 (110)#Misión diaria del episodio 17.1 Ilusión",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Cor, donde se reunían los Ilusión para investigar. Kaya, convencida de que este lugar es el laboratorio al que fueron transferidos los desaparecidos que trabajaban en la empresa Rekenber y luego desaparecieron, sigue pidiendo al aventurero que investigue sobre los desaparecidos.\n\n\t\t\t- Hay una misión diaria disponible tras completar la misión.\n\t\t\tRecogida de pulseras (110)\n\n\t\t\t<TIPBOX> § El cielo visto desde el pozo<INFO>7060</INFO></TIPBOX> completado\n\t\t\t^663399› Nivel 110 o superior^000000\n\n\t\t\t<NAVI>[Kaya Tos]<INFO>sp_cor,136,146,0,101,0</INFO></NAVI>\n\n\t\t\t<TIPBOX> § Volver a la página anterior<INFO>7055</INFO></TIPBOX>\n\t\t\t<TIPBOX> § Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[7064] = {
+		Title = "Historia de Gony (110) #Misión diaria del episodio 17.1 Ilusión",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Incluso en Ludus, el lugar donde se abandonan los experimentos que ya no tienen utilidad, llega la mañana. Incluso para el niño abandonado por la mañana, Gony, el desayuno es necesario. ¿Qué te parece llevarle la comida a Gony cada día y hacerte su amigo?\n\n\t\t\t- Tras completar la misión, podrás realizar una misión diaria.\n\t\t\tEntrega de comida (110)\n\n\t\t\t<TIPBOX> § Nueva zona de operaciones<INFO>7056</INFO></TIPBOX> Completado\n\t\t\t^663399› Nivel 110 o superior^000000\n\n\t\t\t<NAVI>[Tierra con algo enterrado]<INFO>sp_rudus,124,195,0,101,0</INFO></NAVI>\n\n\t\t\t<TIPBOX> § Volver a la página anterior<INFO>7055</INFO></TIPBOX>\n\t\t\t<TIPBOX> § Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[7065] = {
+		Title = "Q Mercenario vs Mercenario (110)#Misión diaria del episodio 17.1 Ilusión",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Los Rebellion continúan llevando a cabo operaciones de aniquilación y búsqueda contra Oth. Sin embargo, están teniendo dificultades debido a la aparición constante de enemigos. Ayudémosles y mostremos el verdadero valor de los mercenarios.\n\n\t\t\t<TIPBOX> § Recuerdos antiguos<INFO>7059</INFO></TIPBOX> completado\n\t\t\t^663399› Nivel 110 o superior^000000\n\n\t\t\t<NAVI>[Yuslan]<INFO>sp_cor,155,94,0,101,0</INFO></NAVI>\n\n\t\t\t<TIPBOX> § Volver a la página anterior<INFO>7055</INFO></TIPBOX>\n\t\t\t<TIPBOX> § Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[7066] = {
+		Title = "Q Mano de obra para la granja (110)#Misión diaria del episodio 17.1 Ilusión",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Aunque Cor es un laboratorio donde se han realizado experimentos brutales, en un rincón crecen todo tipo de cultivos. Después de todo, los investigadores y los trabajadores también necesitan alimentarse.\n\tCuidar los cultivos en lugar de las manos que faltan y tomarse un respiro tampoco estaría mal.\n\n\t<TIPBOX> § Trastillo puro<INFO>7061</INFO></TIPBOX> Completado\n\t^663399› Nivel 110 o superior^000000\n\n\t<NAVI>[Trabajador agrícola]<INFO>sp_cor,246,97,0,101,0</INFO></NAVI>\n\n\t<TIPBOX> § Volver a la página anterior<INFO>7055</INFO></TIPBOX>\n\t<TIPBOX> § Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[7067] = {
+		Title = "Q Operación antidisturbios EL1_A17T máquina (110) #Episodio 17.1 Ilusión misión diaria MD Memorial",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"¿Los niños de Eliumina traicionaron a Eliumina? Es mitad cierto y mitad falso.  \n\tLos niños de Eliumina han cambiado al modo de bajo consumo y se esconden en algún lugar de Core. Sin embargo, al recibir un fuerte estímulo de los aventureros, han escapado del control de Eliumina y no pueden ser apagados a la fuerza.  \n\t¡La única manera es agotar su energía de forma constante a través de combates continuos!\n\n\t<TIPBOX> § Trastillo puro<INFO>7061</INFO></TIPBOX> completado  \n\t^663399› Nivel 110 o superior^000000\n\n\t<NAVI>[Rebellion]<INFO>sp_cor,113,130,0,101,0</INFO></NAVI>\n\n\t<TIPBOX> § Volver a la página anterior<INFO>7055</INFO></TIPBOX>  \n\t<TIPBOX> § Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[7119] = {
+		Title = "MD 17.1 Operación de recuperación de Regenschirm (110)",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Operación para recuperar el laboratorio subsidiario Regenchirm de Rekenber, que ha sido ocupado por criminales.\n\t¡Entrando ahora!\n\n\t§ Requisito previo: <TIPBOX>La crisis de la empresa<INFO>7057</INFO></TIPBOX> completado\n\n\t§ Composición de la mazmorra\n\t\t> Modo de escenario de una sola vez\n\t\t> Tiempo límite: 60 minutos\n\t\t> Nivel 110 o superior\n\n\t<NAVI>[Rekenber Guard Oscar]<INFO>lighthalzen,55,278,0,101,0</INFO></NAVI>\n\n\t<TIPBOX>>A la página anterior<INFO>7107</INFO></TIPBOX>\n\t<TIPBOX>>Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[7120] = {
+		Title = "MD 17.1 Os bloqueado - Avance de Os (110)",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Las antiguas minas de Einbroch ya han sido clausuradas, pero algunos investigadores de la empresa las están utilizando para nuevos propósitos. ¿No crees que deberíamos desmantelar las instalaciones ilegales?\n\n\t\t\t\t\t\n\t\t\t\t\t§ Condición previa: <TIPBOX>Camino hacia el empleo 01<INFO>7058</INFO></TIPBOX> completado\n\t\t\t\t\t\n\t\t\t\t\t§ Composición de la mazmorra\n\t\t\t\t\t\t\t> Modo escenario de una sola vez (reingreso permitido)\n\t\t\t\t\t\t\t> Tiempo límite: 60 minutos\n\t\t\t\t\t\t\t> Nivel 110 o superior\n\t\t\t\t\t\t\t\n\t\t\t\t\t<NAVI>[Rebellion miembro]<INFO>ein_fild03,278,269,0,101,0</INFO></NAVI>\n\t\t\t\t\t\n\t\t\t\t\t§ <TIPBOX>El botín del mazmorra<INFO>4110</INFO></TIPBOX>\n\t\t\t\t\t\n\t\t\t\t\t<TIPBOX>>A la página anterior<INFO>7107</INFO></TIPBOX>\n\t\t\t\t\t<TIPBOX>>Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[7121] = {
+		Title = "MD 17.1 Operación de ocupación de Os (110)",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"El escuadrón de avanzada ha asegurado la ruta ferroviaria de Os, pero no completamente.\n\tDebes ayudar en la operación de aniquilación para tomar el control total de Os y prepararte para el contraataque de Ilusión.\n\n\t§ Requisito previo: Completa <TIPBOX>Recuerdos antiguos<INFO>7059</INFO></TIPBOX>\n\n\t§ Composición de la mazmorra\n\t\t> Modo de escenario de una sola vez\n\t\t> Tiempo límite: 60 minutos\n\t\t> Nivel 110 o superior\n\n\t<NAVI>[Est]<INFO>sp_cor,163,56,0,101,0</INFO></NAVI>\n\n\t<TIPBOX>>Volver a la página anterior<INFO>7107</INFO></TIPBOX>\n\t<TIPBOX>>Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[7122] = {
+		Title = "MD 17.1 Búsqueda de la segunda fase de Os (110)",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Aunque logramos una supresión inicial mediante la operación de exterminio, los mutantes siguen apareciendo continuamente. Parece que la única solución es realizar búsquedas constantes para erradicarlos.\n\n\t§ Condición previa: <TIPBOX>Operación de ocupación de Os<INFO>7121</INFO></TIPBOX> completada\n\n\t§ Composición de la mazmorra\n\t\t> Se puede intentar diariamente (se reinicia a las 04:00 del día siguiente)\n\t\t> Tiempo límite: 60 minutos\n\t\t> Nivel 110 o superior\n\n\t<NAVI>[oficial de operaciones]<INFO>sp_cor,160,55,0,101,0</INFO></NAVI>\n\n\t§ <TIPBOX>Botín de la mazmorra<INFO>4110</INFO></TIPBOX>\n\n\t<TIPBOX>>A la página anterior<INFO>7107</INFO></TIPBOX>\n\t<TIPBOX>>Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[7123] = {
+		Title = "MD 17.1 Memorial de Core (110)",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Los niños de Eliumina han cambiado al modo de bajo consumo y se esconden en algún lugar de Core. Sin embargo, al recibir el fuerte estímulo de los aventureros, han escapado del control de Eliumina y no pueden ser forzados a apagarse.\n\t¡La única manera es agotar su energía de forma continua a través de combates constantes!\n\n\t§ Requisito previo: <TIPBOX>Trastillo puro<INFO>7061</INFO></TIPBOX> completado\n\n\t§ Composición de la mazmorra\n\t\t> Tras completar el modo historia una vez, se puede desafiar diariamente (se reinicia a las 04:00 del día siguiente)\n\t\t> Tiempo límite: 60 minutos\n\t\t> Nivel 110 o superior\n\n\t<NAVI>[Rebellion]<INFO>sp_cor,113,130,0,101,0</INFO></NAVI>\n\n\t§ <TIPBOX>Botín de la mazmorra<INFO>4110</INFO></TIPBOX>\n\n\t<TIPBOX>>Volver a la página anterior<INFO>7107</INFO></TIPBOX>\n\t<TIPBOX>>Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
 	[7132] = {
 		Title = "Palacio Fantasma (120)#Grieta Dimensional",
 		Search = 1,
@@ -1055,6 +1280,53 @@ A religious kingdom that worships the goddess Freya and has achieved unity of ch
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
 			"Un aventurero que acude al palacio atacado a petición de la Guardia Real en busca de ayuda en la Grieta Dimensional. Allí, el aventurero que presenció la historia de la princesa y la guardia real descubre la identidad de esta...\n\n\t\t\t§ Estructura de la Instancia\n\t\t\t\t› Individual\n\t\t\t\t› Diaria (se reinicia a las 04:00)\n\t\t\t\t› Límite de tiempo: 120 minutos\n\t\t\t\t› Nivel 120 o superior\n\n\t\t\t<NAVI>[Guardia Real Desagradable]<INFO>dali02,43,129,0,101,0</INFO></NAVI>\n\n\t\t\t§ Recompensas\n\t\t\t› El <ITEM>[Fragmento Gris]<INFO>6672</INFO></ITEM> se puede canjear por los siguientes objetos:\n\t\t\t› Armadura\n\t\t\t<ITEM>[Yelmo de Gris]<INFO>18820</INFO></ITEM>\n\t\t\t<ITEM>[Capa de Gris]<INFO>20721</INFO></ITEM>\n\t\t\t<ITEM>[Botas de Gris]<INFO>22033</INFO></ITEM>\n\t\t\t<ITEM>[Armadura de Gris]<INFO>15090</INFO></ITEM>\n\t\t\t<ITEM>[Túnica de Gris]<INFO>15091</INFO></ITEM>\n\t\t\t<ITEM>[Escudo de Gris]<INFO>2187</INFO></ITEM>\n\t\t\t› Arma\n\t\t\t<ITEM>[Bastón de Thanos]<INFO>2023</INFO></ITEM>\n\t\t\t<ITEM>[Lanza Larga de Thanos]<INFO>1496</INFO></ITEM>\n\t\t\t<ITEM>[Gran Espada de Thanos]<INFO>21009</INFO></ITEM>\n\t\t\t<ITEM>[Hacha de Thanos]<INFO>28100</INFO></ITEM>\n\t\t\t<ITEM>[Katar de Thanos]<INFO>28000</INFO></ITEM>\n\t\t\t<ITEM>[Arco de Thanos]<INFO>18119</INFO></ITEM>\n\t\t\t<ITEM>[Espada de Thanos]<INFO>13441</INFO></ITEM>\n\t\t\t<ITEM>[Daga de Thanos]<INFO>13093</INFO></ITEM>\n\t\t\t<ITEM>[Lanza de Thanos]<INFO>1438</INFO></ITEM>\n\t\t\t<ITEM>[Martillo de Thanos]<INFO>16028</INFO></ITEM>\n\t\t\t<ITEM>[Báculo de Thanos]<INFO>1669</INFO></ITEM>\n\t\t\t<ITEM>[Nudillos de Thanos]<INFO>1836</INFO></ITEM>\n\t\t\t<ITEM>[Violín de Thanos]<INFO>1933</INFO></ITEM>\n\t\t\t<ITEM>[Látigo de Thanos]<INFO>1988</INFO></ITEM>\n\n\t\t\t<TIPBOX>» Página anterior<INFO>7129</INFO></TIPBOX>\n\t\t\t<TIPBOX>» Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[8086] = {
+		Title = "Operación antidisturbios EL1_A17T",
+		Search = 0,
+		Image = "유저인터페이스\\tipbox\\tip08086",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Después de anular el dispositivo de vigilancia emboscado en cuatro localidades, acceda a EL1_A17T bajo la dirección de Elyumina."
+		},
+		PageEX = {
+			{
+				EffectNum = 4,
+				Twinkle = 1,
+				StartX = 173,
+				StartY = 92,
+				DistX = 0,
+				DistY = 0,
+				MoveTime = 0
+			},
+			{
+				EffectNum = 4,
+				Twinkle = 1,
+				StartX = 173,
+				StartY = 154,
+				DistX = 0,
+				DistY = 0,
+				MoveTime = 0
+			},
+			{
+				EffectNum = 4,
+				Twinkle = 1,
+				StartX = 120,
+				StartY = 199,
+				DistX = 0,
+				DistY = 0,
+				MoveTime = 0
+			},
+			{
+				EffectNum = 4,
+				Twinkle = 1,
+				StartX = 103,
+				StartY = 233,
+				DistX = 0,
+				DistY = 0,
+				MoveTime = 0
+			}
 		}
 	},
 	[10013] = {

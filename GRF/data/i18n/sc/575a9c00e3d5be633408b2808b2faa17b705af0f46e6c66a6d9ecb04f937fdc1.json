@@ -278,5 +278,10 @@
         "en": "[Wandering Bard]\nI wonder if Hugel still has the signboard\nto recruit excavators.\nWould you go check it out?\nI want to hear the story behind those excavators when you get back.",
         "pt": "[Bardo Errante]\nSerá que Hugel ainda tem a placa\npara recrutar escavadores?\nVocê poderia dar uma olhada?\nQuero ouvir a história por trás desses escavadores quando você voltar.",
         "es": "[Bardo Errante]\nMe pregunto si Hugel todavía tiene el cartel\npara contratar excavadores.\n¿Quieres ir a comprobarlo?\nCuando regreses, quiero oír la historia detrás de esos excavadores."
+    },
+    "OBdkBw": {
+        "en": "- You are carrying too many items to proceed with this quest. -",
+        "pt": "- Você não pode prosseguir com a missão porque tem muitos itens. -",
+        "es": "- Llevas demasiados objetos para continuar con esta misión.-"
     }
 }

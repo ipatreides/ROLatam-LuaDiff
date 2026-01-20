@@ -1310,7 +1310,7 @@ Navi_Map = {
 	},
 	{
 		"gl_cas01_",
-		"Glast Heim (1) ",
+		"Castillo de Glastheim Abyss piso 1",
 		5001,
 		400,
 		400
@@ -1618,7 +1618,7 @@ Navi_Map = {
 	},
 	{
 		"hu_fild03",
-		"Campo de Ca?",
+		"Campos de Hugel ",
 		5001,
 		400,
 		400
@@ -2410,6 +2410,13 @@ Navi_Map = {
 	{
 		"mag_dun02b",
 		"",
+		5001,
+		260,
+		260
+	},
+	{
+		"mag_dun03",
+		"Caverna de Magma (3)",
 		5001,
 		260,
 		260
@@ -3620,7 +3627,7 @@ Navi_Map = {
 	},
 	{
 		"prt_mz03_i",
-		"Floresta do Labirinto Distorcido",
+		"Ilusão do Labirinto",
 		5001,
 		200,
 		200
@@ -3673,6 +3680,13 @@ Navi_Map = {
 		5001,
 		200,
 		200
+	},
+	{
+		"pub_cat",
+		"",
+		5001,
+		200,
+		160
 	},
 	{
 		"que_bingo",
@@ -3976,6 +3990,13 @@ Navi_Map = {
 		100
 	},
 	{
+		"rgsr_in",
+		"",
+		5003,
+		260,
+		260
+	},
+	{
 		"rockmi1",
 		"Mina de Rockridge (1)",
 		5001,
@@ -4037,6 +4058,41 @@ Navi_Map = {
 		5001,
 		300,
 		180
+	},
+	{
+		"sp_cor",
+		"",
+		5001,
+		300,
+		320
+	},
+	{
+		"sp_os",
+		"",
+		5001,
+		400,
+		400
+	},
+	{
+		"sp_rudus",
+		"",
+		5001,
+		400,
+		400
+	},
+	{
+		"sp_rudus2",
+		"",
+		5001,
+		400,
+		400
+	},
+	{
+		"sp_rudus3",
+		"",
+		5001,
+		400,
+		400
 	},
 	{
 		"sp_rudus4",
@@ -4772,6 +4828,13 @@ Navi_Map = {
 		5001,
 		300,
 		360
+	},
+	{
+		"1@os_a",
+		"",
+		5001,
+		400,
+		400
 	},
 	{
 		"NULL",

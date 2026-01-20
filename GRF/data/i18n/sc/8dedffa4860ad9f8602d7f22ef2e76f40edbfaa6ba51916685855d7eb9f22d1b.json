@@ -1893,5 +1893,10 @@
         "en": "[Karian]\nHow did you get in here?",
         "pt": "[Karian]\nComo você chegou aqui?",
         "es": "[Karian]\n¿Cómo entraste?"
+    },
+    "+4fiAg": {
+        "en": "- You are carrying too many items to proceed with this quest. -",
+        "pt": "- Você não pode prosseguir com a missão porque tem muitos itens. -",
+        "es": "- Llevas demasiados objetos para continuar con esta misión.-"
     }
 }

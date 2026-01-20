@@ -1853,5 +1853,15 @@
         "en": "[Gift for participating in the JCoin Rush Event(300000)]",
         "pt": "[Presente por ter participado do Evento JCoin Rush(300000)]",
         "es": "[Regalo por participar en el Evento JCoin Rush(300000)]"
+    },
+    "gSg": {
+        "en": "[Battle Pass Invitation]",
+        "pt": "[Convite para o Passe de Batalha]",
+        "es": "[Invitación al Pase de Batalla]"
+    },
+    "gig": {
+        "en": "[Join the First Season of the Battle Pass]",
+        "pt": "[Participe da Primeira Temporada do Passe de Batalha]",
+        "es": "[Únete a la Primera Temporada del Pase de Batalla]"
     }
 }

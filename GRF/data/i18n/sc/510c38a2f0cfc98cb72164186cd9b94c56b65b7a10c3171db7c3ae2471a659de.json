@@ -483,5 +483,10 @@
         "en": "[Paltu]\nGood. This is a satisfying result.\nI'll do even a better job next time. Please tell others about my work. Have a good day~",
         "pt": "[Paltu]\nBom. Esse é um resultado satisfatório.\nFarei um trabalho ainda melhor da próxima vez. Por favor, conte aos outros sobre meu trabalho. Tenha um bom dia~",
         "es": "[Paltu]\nBien. Es un resultado satisfactorio.\nLa próxima vez lo haré aún mejor. Recomienda mi trabajo, por favor. Que lo pases bien."
+    },
+    "gUlp": {
+        "en": "- You are carrying too many items to proceed with this quest. -",
+        "pt": "- Você não pode prosseguir com a missão porque tem muitos itens. -",
+        "es": "- Llevas demasiados objetos para continuar con esta misión.-"
     }
 }

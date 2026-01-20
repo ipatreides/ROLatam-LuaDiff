@@ -696,8 +696,8 @@
     },
     "y5LS": {
         "en": "[Gushaar]\nThe ultimate goal of our\ngroup, ''Secret Wing,'' is to\nestablish true independence\nin the Schwartzwald Republic\nby destroying Rekenber Corporation.",
-        "pt": "[Gushaar]\nO objetivo máximo do nosso\ngrupo, a ''Asa Secreta'' é \nconseguir a verdadeira independência\nda República de Schwaltzvalt\ndestruindo a Corporação Rekenber.",
-        "es": "[Gushaar]\nEl objetivo último de nuestro\ngrupo, Alas Secretas, es\nestablecer la verdadera independencia\nde la República de Schwarzwald\ndestruyendo a la Corporación Rekenber."
+        "pt": "[Gushaar]\nO objetivo máximo do nosso\ngrupo, o ''Vento Secreto'' é \nconseguir a verdadeira independência\nda República de Schwaltzvalt\ndestruindo a Corporação Rekenber.",
+        "es": "[Gushaar]\nEl objetivo último de nuestro\ngrupo, Viento Secreto, es\nestablecer la verdadera independencia\nde la República de Schwarzwald\ndestruyendo a la Corporación Rekenber."
     },
     "zJLS": {
         "en": "[Gushaar]\nFortunately, the new president\nof the Schwartzwald Republic,\nMr. Weierstrass, is sympathetic\nto our cause. He is working with us to bring about a revolution and\noverthrow Rekenber Corporation.",
@@ -711,13 +711,13 @@
     },
     "zpLS": {
         "en": "[Gushaar]\nI hope you understand\n''Secret Wing's'' ultimate\ngoal now. In any case, you've\ngot to meet our president,\nKarl Theodor Weierstrass.",
-        "pt": "[Gushaar]\nEspero que agora tenha \nentendido o objetivo máximo \nda ''Asa Secreta''. Em qualquer caso, você precisa\nencontrar o nosso presidente,\nKarl Theodor Weierstrass.",
-        "es": "[Gushaar]\nEspero que comprendas\nel objetivo final de Alas Secretas\nahora. En todo caso, tienes que\nreunirte con nuestro presidente,\nKarl Theodor Weierstrass."
+        "pt": "[Gushaar]\nEspero que agora tenha \nentendido o objetivo máximo \ndo ''Vento Secreto''. Em qualquer caso, você precisa\nencontrar o nosso presidente,\nKarl Theodor Weierstrass.",
+        "es": "[Gushaar]\nEspero que comprendas\nel objetivo final del Viento Secreto\nahora. En todo caso, tienes que\nreunirte con nuestro presidente,\nKarl Theodor Weierstrass."
     },
     "z5LS": {
         "en": "[Gushaar]\nIt won't be easy to see\nsuch an important man,\nso show your Secret Wing\nMembership Card to his\nsecretary and there should\nbe very little hassle.",
-        "pt": "[Gushaar]\nNão é fácil ver\num homem tão importante,\nentão mostre o Cartão \nde Filiação da Asa Secreta\nà secretária dele.\nInsista se for preciso.",
-        "es": "[Gushaar]\nNo será fácil reunirte\ncon un hombre tan importante,\nasí que muestra tu Tarjeta de membresía\nde Alas Secretas a su secretaria\ny no debería haber\ncomplicación alguna."
+        "pt": "[Gushaar]\nNão é fácil ver\num homem tão importante,\nentão mostre o Cartão \nde Filiação do Vento Secreto\nà secretária dele.\nInsista se for preciso.",
+        "es": "[Gushaar]\nNo será fácil reunirte\ncon un hombre tan importante,\nasí que muestra tu Tarjeta de Membresía\ndel Viento Secreto a su secretaria\ny no debería haber\ncomplicación alguna."
     },
     "0JLS": {
         "en": "[Gushaar]\nBecause of his schedule,\nyou'll only be allowed to see\nhim from ^FF00008:00 PM to 11:00 PM^000000,\nand from ^FF000011:00 AM to 2:00PM PST^000000.Good luck on this mission, friend.",
@@ -801,8 +801,8 @@
     },
     "4JLS": {
         "en": "Show Secret Wing Card.",
-        "pt": "Mostre o Cartão da Asa Secreta.",
-        "es": "Mostrar la Tarjeta de membresía de Alas Secretas."
+        "pt": "Mostre o Cartão do Vento Secreto.",
+        "es": "Mostrar la Tarjeta de Membresía del Viento Secreto."
     },
     "4ZLS": {
         "en": "I'm here to see the president.",
@@ -816,8 +816,8 @@
     },
     "45LS": {
         "en": "^3355FFYou suavely flash\nyour ''Secret Wing''\nMembership Card.^000000",
-        "pt": "^3355FFDiscretamente você mostra\nseu Cartão de Filiação da\n''Asa Secreta''^000000.",
-        "es": "^3355FFCon un gesto elegante,\nmuestras tu Tarjeta de membresía\nde Alas Secretas.^000000"
+        "pt": "^3355FFDiscretamente você mostra\nseu Cartão de Filiação do\n''Vento Secreto''^000000.",
+        "es": "^3355FFCon un gesto elegante,\nmuestras tu Tarjeta de Membresía\ndel Viento Secreto.^000000"
     },
     "5JLS": {
         "en": "[Hes O'Neil]\nOh... I see.\nThe president has\nbeen expecting you.\nPlease, right this way.",
@@ -831,8 +831,8 @@
     },
     "5pLS": {
         "en": "^3355FFWait a second...\nYou don't seem to\nbe carrying your\n''Secret Wing''\nMembership Card.^000000",
-        "pt": "^3355FFEspere um pouco...\nParece que você não\nestá levando o \nseu Cartão de Filiação da\n''Asa Secreta''^000000.",
-        "es": "^3355FFEspera un segundo…\nNo parece\nque lleves tu\nTarjeta de membresía\nde Alas Secretas.^000000"
+        "pt": "^3355FFEspere um pouco...\nParece que você não\nestá levando o \nseu Cartão de Filiação do\n''Vento Secreto''^000000.",
+        "es": "^3355FFEspera un segundo…\nNo parece\nque lleves tu\nTarjeta de Membresía\ndel Viento Secreto.^000000"
     },
     "55LS": {
         "en": "[Hes O'Neil]\nAlright, let me see.\nMay I please have your\nname so that I can look\nit up in today's schedule.",
@@ -1086,23 +1086,23 @@
     },
     "GZPS": {
         "en": "[Karl]\nAs I'm sure Ghalstein\nhas told you, ''Secret Wing''\nwas formed to overthrow the\nevil Rekenber Corporation.\nNow, I'm sure that you must\nhave some questions for me...",
-        "pt": "[Karl]\nComo Ghalstein já deve\nter lhe contado, a ''Asa Secreta''\nfoi formada para acabar com \na maligna Corporação Rekenber.\nPorém, eu imagino que você \nqueira me fazer algumas perguntas...",
-        "es": "[Karl]\nComo seguro Ghalstein\nya te comentó, Alas Secretas\nse formó para derrocar a la\nmalvada Corporación Rekenber.\nBien, seguro tienes\nalgunas preguntas…"
+        "pt": "[Karl]\nComo Ghalstein já deve\nter lhe contado, a ''Vento Secreto''\nfoi formada para acabar com \na maligna Corporação Rekenber.\nPorém, eu imagino que você \nqueira me fazer algumas perguntas...",
+        "es": "[Karl]\nComo seguro Ghalstein\nya te comentó, el ''Viento Secreto''\nse formó para derrocar a la\nmalvada Corporación Rekenber.\nBien, seguro tienes\nalgunas preguntas…"
     },
     "GpPS": {
         "en": "Secret Wing's Background",
-        "pt": "Qual a história da Asa Secreta?",
-        "es": "Antecedentes de Alas Secretas."
+        "pt": "Qual a história do Vento Secreto?",
+        "es": "¿Cuál es la historia del Viento Secreto?"
     },
     "G5PS": {
         "en": "Rekenber's Purpose",
         "pt": "Qual o propósito da Rekenber?",
-        "es": "Propósito de Rekenber."
+        "es": "¿Cuál es el propósito del Rekenber?"
     },
     "HJPS": {
         "en": "Secret Wing's Goal",
-        "pt": "Qual o objetivo da Asa Secreta?",
-        "es": "Objetivo de Alas Secretas."
+        "pt": "Qual o objetivo do Vento Secreto?",
+        "es": "¿Cuál es el objetivo del Viento Secreto?"
     },
     "HZPS": {
         "en": "Details about my mission",
@@ -1131,8 +1131,8 @@
     },
     "IpPS": {
         "en": "[Karl]\nWe decided to pool our\nresources to deal with what\nwe perceived as a common\nenemy. Before long, we gathered\nmore devotees to our cause and\nformed the ''Secret Wing.''",
-        "pt": "[Karl]\nNós decidimos juntar nossos\nrecursos para lidar com o que \nentendemos ser um inimigo\ncomum. Em pouco tempo, reunimos\nmais devotos à nossa causa e\nformamos a ''Asa Secreta''.",
-        "es": "[Karl]\nDecidimos combinar nuestros recursos\npara hacer frente a lo que\npercibimos como un mutuo\nenemigo. En poco tiempo, reunimos\na los más devotos a nuestra causa\ny formamos Alas Secretas."
+        "pt": "[Karl]\nNós decidimos juntar nossos\nrecursos para lidar com o que \nentendemos ser um inimigo\ncomum. Em pouco tempo, reunimos\nmais devotos à nossa causa e\nformamos o ''Vento Secreto''.",
+        "es": "[Karl]\nDecidimos combinar nuestros recursos\npara hacer frente a lo que\npercibimos como un mutuo\nenemigo. En poco tiempo, reunimos\na los más devotos a nuestra causa\ny formamos el ''Viento Secreto''."
     },
     "I5PS": {
         "en": "[Karl]\nIt may be helpful for\nyou to know that our\ndirect contact to the\nKafra Corporation is the\n^FF00003rd Security Team^000000. Oh, did\nyou have any other questions?",
@@ -1156,8 +1156,8 @@
     },
     "J5PS": {
         "en": "[Karl]\n''Secret Wing's'' only\ngoal is to destroy the\nRekenber Corporation in\norder to break the Schwartzwald Republic free from its oppression.",
-        "pt": "[Karl]\nO único objetivo da\n''Asa Secreta'' é destruir\na Corporação Rekenber para\nlibertar a República de Schwaltzvalt de sua opressão.",
-        "es": "[Karl]\nEl único objetivo de Alas Secretas es destruir a la Corporación Rekenber para liberar a la República de Schwarzwald de su opresión."
+        "pt": "[Karl]\nO único objetivo do\n''Vento Secreto'' é destruir\na Corporação Rekenber para\nlibertar a República de Schwaltzvalt de sua opressão.",
+        "es": "[Karl]\nEl único objetivo del Viento Secreto es destruir a la Corporación Rekenber para liberar a la República de Schwarzwald de su opresión."
     },
     "KJPS": {
         "en": "[Karl]\nOf course, we realize\nthat it will take time and\na lot of sacrifice to make\nthis a reality. Now, do you\nhave anything else to ask?",
@@ -1201,8 +1201,8 @@
     },
     "MJPS": {
         "en": "[Karl]\nBe careful and do not\nfreely mention anything\nabout ''Secret Wing'' or\nyour cooperation with us as\nit may jeopardize our goals.\nHurry, time is of the essense.",
-        "pt": "[Karl]\nTenha cuidado e não\nmencione levianamente nada \nsobre a ''Asa Secreta'' ou sobre\nsua cooperação conosco já que isso\npode por nossos objetivos em risco.\nRápido, tempo é essencial.",
-        "es": "[Karl]\nTen cuidado y no\nmenciones nada\nacerca de Alas Secretas o\nde tu colaboración con nosotros,\nya que puedes poner en peligro nuestras metas.\nDate prisa. El tiempo apremia."
+        "pt": "[Karl]\nTenha cuidado e não\nmencione levianamente nada \nsobre o ''Vento Secreto'' ou sobre\nsua cooperação conosco já que isso\npode por nossos objetivos em risco.\nRápido, tempo é essencial.",
+        "es": "[Karl]\nTen cuidado y no\nmenciones nada\nacerca del Viento Secreto o\nde tu colaboración con nosotros,\nya que puedes poner en peligro nuestras metas.\nDate prisa. El tiempo apremia."
     },
     "MZPS": {
         "en": "[Karl]\nAh, before I forget,\nplease bring this file\nfolder to ^FF0000Ms. Hes O'Neil^000000\nfor me before you leave.\nThank you very much.",
@@ -1521,8 +1521,8 @@
     },
     "cJPS": {
         "en": "[Karl]\nI can't believe this. All\nthose years of friendship\nwere all a lie? We even\njoined Secret Wing together.\nThis whole time, you were\nharboring a silly grudge...",
-        "pt": "[Karl]\nNão posso acreditar nisso. Todos\nesses anos de amizade\nforam uma mentira? Nós até \nentramos juntos na Asa Secreta.\nEsse tempo todo, você \nescondia uma inveja tola...",
-        "es": "[Karl]\nNo puedo creerlo. ¿Todos\nesos años de amistad\nfueron mentira? Hasta\nnos unimos a Alas Secretas.\nTodo este tiempo, albergabas\nese absurdo rencor…"
+        "pt": "[Karl]\nNão posso acreditar nisso. Todos\nesses anos de amizade\nforam uma mentira? Nós até \nentramos juntos no Vento Secreto.\nEsse tempo todo, você \nescondia uma inveja tola...",
+        "es": "[Karl]\nNo puedo creerlo. ¿Todos\nesos años de amistad\nfueron mentira? Hasta\nnos unimos al Viento Secreto.\nTodo este tiempo, albergabas\nese absurdo rencor…"
     },
     "cZPS": {
         "en": "[Kurelle]\nShut up! It's not a\nsilly grudge! ...You there.\nAdventurer. Can't you see\nthis man is finished?! But\nit's not too late. Join us.\nRekenber could use you.",
@@ -1561,8 +1561,8 @@
     },
     "eJPS": {
         "en": "[Karl]\nWhy... Of course.\nBut since Secret Wing\nhas disbanded, it seems\nthat Rekenber has the upper\nhand. Lately, I've been\nnothing but their puppet...",
-        "pt": "[Karl]\nFilho, não posso dizer isso com certeza.\nDesde que nossa Asa Secreta se desfez, sinto-me como\numa marionette, controlada por eles, assim como os outros presidentes.",
-        "es": "[Karl]\n¿Por qué…? Por supuesto.\nPero, desde que Alas Secretas\nse disolvió, parece\nque Rekenber tiene toda\nla ventaja. En este último tiempo,\nno fui más que su marioneta…"
+        "pt": "[Karl]\nFilho, não posso dizer isso com certeza.\nDesde que nosso Vento Secreto se desfez, sinto-me como\numa marionette, controlada por eles, assim como os outros presidentes.",
+        "es": "[Karl]\n¿Por qué…? Por supuesto.\nPero, desde que el Viento Secreto\nse disolvió, parece\nque Rekenber tiene toda\nla ventaja. En este último tiempo,\nno fui más que su marioneta…"
     },
     "eZPS": {
         "en": "[{0}]\nA while ago, I met a former\nscientist that worked in\nRegenschirm. Together,\nwe stole their research, and\ndestroyed some of their\nexperimental machinery.",
@@ -1571,7 +1571,7 @@
     },
     "epPS": {
         "en": "[Karl]\nReally? That's really\ngood work! With the research\nthat you've stolen, you might\nbe able to cause some real\ndamage to Rekenber! That's\nalmost unbelieveable!",
-        "pt": "[Karl]\n...!\nMinha nossa, essa é uma ótima notícia! Ah, agora me sinto ainda mais inútil...\nEnquanto você lutava com eles, eu não fazia nada, só lamentava os meus problemas...\nFui traído pelo meu melhor amigo, forçado a acabar com a Asa Secreta...\nVocê fez um trabalho e tanto. Parabéns, filho.",
+        "pt": "[Karl]\n...!\nMinha nossa, essa é uma ótima notícia! Ah, agora me sinto ainda mais inútil...\nEnquanto você lutava com eles, eu não fazia nada, só lamentava os meus problemas...\nFui traído pelo meu melhor amigo, forçado a acabar com o Vento Secreto...\nVocê fez um trabalho e tanto. Parabéns, filho.",
         "es": "[Karl]\n¿De verdad? ¡Hicieron un\nexcelente trabajo! ¡Con las investigaciones\nque robaron, podrías\ncausar un daño grave\na Rekenber! ¡Eso es\ncasi imposible de creer!"
     },
     "e5PS": {
@@ -1587,11 +1587,11 @@
     "fZPS": {
         "en": "[Karl]\nThis is why I became\npresident: I want to fulfill\nmy dream of rooting out\ncorruption in this country.\nYes, there are still a few^FFFFFF        ^000000 Secret Wing members out there...",
         "pt": "[Karl]\nEu me lembro do dia em que decide que acabaria com toda a\ncorrupção e trazer a prosperidade para este país novamente.\nMe sinto envergonhado de ter deixado essa lembrança de lado.",
-        "es": "[Karl]\nPor eso, me convertí en\nel presidente: quiero cumplir\nmi sueño de eliminar\nla corrupción en este país.\nSí, todavía hay algunos miembros de^FFFFFF ^000000Alas Secretas por ahí…"
+        "es": "[Karl]\nPor eso, me convertí en\nel presidente: quiero cumplir\nmi sueño de eliminar\nla corrupción en este país.\nSí, todavía hay algunos miembros del^FFFFFF ^000000Viento Secreto por ahí…"
     },
     "fpPS": {
         "en": "[Karl]\nI really think that\nit might be possible...\nYes, we can really expose\nRekenber's evils to the world!\nI almost can't believe it...",
-        "pt": "[Karl]\nAcho que sei de uma forma de re-estabelecer a Asa Secreta.\nPreciso encontrar alguns repórteres que não tenham sofrido a influência de Rekember.\nVou falar em cadeia nacional e revelar a verdade sobre a corporação!",
+        "pt": "[Karl]\nAcho que sei de uma forma de re-estabelecer o Vento Secreto.\nPreciso encontrar alguns repórteres que não tenham sofrido a influência de Rekember.\nVou falar em cadeia nacional e revelar a verdade sobre a corporação!",
         "es": "[Karl]\nRealmente, creo que\npodría ser posible…\n¡Sí! ¡Podemos exponer\nlos males de Rekenber al mundo!\nCasi no puedo creerlo…"
     },
     "f5PS": {
@@ -1811,7 +1811,7 @@
     },
     "qpPS": {
         "en": "^3355FFWait...\nYou can't show\nyour ''Secret Wing''\nMembership Card\nif you don't have it!^000000",
-        "pt": "^3355FFEspere aí...\nVocê não pode mostrar\no seu Cartão de Filiação da\n''Asa Secreta''\nse você não está com ele!^000000",
+        "pt": "^3355FFEspere aí...\nVocê não pode mostrar\no seu Cartão de Filiação do\n''Vento Secreto''\nse você não está com ele!^000000",
         "es": "^3355FFEspera…\n¡No puedes mostrarle la\nmuestras tu Tarjeta de membresía\nTarjeta de membresía\nsi no la tienes contigo!^000000"
     },
     "q5PS": {
@@ -1851,13 +1851,13 @@
     },
     "spPS": {
         "en": "[Benith]\nPlease hurry!\nI don't want the enemy\nto find Jargeah before\nwe do! His life and the\nSecret Wing are at stake!",
-        "pt": "[Benith]\nSe apresse por favor!\nEu não quero que o inimigo\nache Jargeah antes\nde nós! Sua vida e a \nAsa Secreta estão em risco!",
-        "es": "[Benith]\nDate prisa, por favor.\nNo quiero que el enemigo\nencuentre a Jargeah antes\nque nosotros. ¡Su vida y el destino\nde Alas Secretas están en juego!"
+        "pt": "[Benith]\nSe apresse por favor!\nEu não quero que o inimigo\nache Jargeah antes\nde nós! Sua vida e o \nVento Secreto estão em risco!",
+        "es": "[Benith]\nDate prisa, por favor.\nNo quiero que el enemigo\nencuentre a Jargeah antes\nque nosotros. ¡Su vida y el destino\ndel Viento Secreto están en juego!"
     },
     "s5PS": {
         "en": "[Benith]\nAlright. Please take\nthis file to ^FF0000him^000000 now.\nI believe you know\nwhom I am talking about.\nThe Secret Wing is counting\non you, brave adventurer.",
-        "pt": "[Benith]\nCerto. Por favor, leve\neste arquivo para ^FF0000ele^000000 agora.\nAcho que você sabe\nde quem eu estou falando.\nA Asa Secreta conta com\nvocê, meu bravo aventureiro.",
-        "es": "[Benith]\nEstá bien. Lleva\neste expediente y entrégaselo a ^FF0000él^000000 ahora.\nCreo que sabes\nde quién estoy hablando.\nAlas Secretas cuenta\ncontigo, valiente trotamundos."
+        "pt": "[Benith]\nCerto. Por favor, leve\neste arquivo para ^FF0000ele^000000 agora.\nAcho que você sabe\nde quem eu estou falando.\nO Vento Secreto conta com\nvocê, meu bravo aventureiro.",
+        "es": "[Benith]\nEstá bien. Lleva\neste expediente y entrégaselo a ^FF0000él^000000 ahora.\nCreo que sabes\nde quién estoy hablando.\nEl Viento Secreto cuenta\ncontigo, valiente trotamundos."
     },
     "tJPS": {
         "en": "[Benith]\nI swear by my father's\ngrave that the tears I shed\nfor Jargeah will only be\nmatched by the blood I will\nspill in holy retribution.\nJargeah, watch over me!",
@@ -1916,8 +1916,8 @@
     },
     "v5PS": {
         "en": "Secret Wing",
-        "pt": "Asa Secreta",
-        "es": "Alas Secretas"
+        "pt": "Vento Secreto",
+        "es": "Viento Secreto"
     },
     "wJPS": {
         "en": "[Jargeah]\nNo... No, you're\nnot the one who's\nsupposed to come\nfor m-me... ^333333*Huk*^000000",
@@ -2026,8 +2026,8 @@
     },
     "1ZPS": {
         "en": "[Esuna]\nGood, you're back.\nListen, all members of\nSecret Wing need to leave\nthe Schwartzwald Republic\nimmediately! We've been\nseverely compromised...",
-        "pt": "[Esuna]\nBom, você está de volta.\nEscute, todos os membros\nda Asa Secreta precisam sair\nda República de Schwaltzvalt\nimediatamente! Nós fomos\nseriamente comprometidos...",
-        "es": "[Esuna]\nBien, estás de vuelta.\n¡Escucha, todos los miembros de\nAlas Secretas tienen que salir\nde la República de Schwarzwald\nde inmediato! Estamos\ngravemente comprometidos…"
+        "pt": "[Esuna]\nBom, você está de volta.\nEscute, todos os membros\ndo Vento Secreto precisam sair\nda República de Schwaltzvalt\nimediatamente! Nós fomos\nseriamente comprometidos...",
+        "es": "[Esuna]\nBien, estás de vuelta.\n¡Escucha, todos los miembros del\nViento Secreto tienen que salir\nde la República de Schwarzwald\nde inmediato! Estamos\ngravemente comprometidos…"
     },
     "1pPS": {
         "en": "What happened?",
@@ -2061,8 +2061,8 @@
     },
     "3JPS": {
         "en": "[Esuna]\nStill, aside from a few\nagents, almost all of Secret\nWing must pull out of the\nSchwartzwald Republic for\nnow so that we can live to\nfight another day.",
-        "pt": "[Esuna]\nAinda assim, fora alguns\nagentes, a maioria da Asa\nSecreta precisa sair já da\nRepública de Schwaltzvalt\npara que possamos viver e\nlutar um outro dia.",
-        "es": "[Esuna]\nAun así, a excepción de unos pocos\nagentes, casi todos los miembros de Alas Secretas\ndeben abandonar la\nRepública de Schwarzwald por ahora\na fin de que podamos vivir\npara pelear más adelante."
+        "pt": "[Esuna]\nAinda assim, fora alguns\nagentes, a maioria do Vento\nSecreto precisa sair já da\nRepública de Schwaltzvalt\npara que possamos viver e\nlutar um outro dia.",
+        "es": "[Esuna]\nAun así, a excepción de unos pocos\nagentes, casi todos los miembros del Viento Secreto\ndeben abandonar la\nRepública de Schwarzwald por ahora\na fin de que podamos vivir\npara pelear más adelante."
     },
     "3ZPS": {
         "en": "[Esuna]\nFor now, this is\ngoodbye. Take care...",

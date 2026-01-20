@@ -13,5 +13,10 @@
         "en": "[Eclage Guard]\nThis the prison where we put criminals.\nNo outsiders can enter.",
         "pt": "[Guarda de Eclage]\nEsta é a prisão onde colocamos os criminosos.\nNinguém de fora pode entrar.",
         "es": "[Guardia de Eclage]\nEsta es la prisión donde encerramos a los delincuentes.\nNo pueden entrar extraños."
+    },
+    "o/lW": {
+        "en": "- You are carrying too many items to proceed with this quest. -",
+        "pt": "- Você não pode prosseguir com a missão porque tem muitos itens. -",
+        "es": "- Llevas demasiados objetos para continuar con esta misión.-"
     }
 }

@@ -14964,6 +14964,42 @@ tblLapineUpgradeBox = {
 				}
 			},
 			NeedSource_String = "Arma OS"
+		},
+		God_Favor_TW = {
+			ItemID = 101484,
+			NeedRefineMin = 0,
+			NeedRefineMax = 0,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"Ultio_Cape_TW",
+					480088
+				}
+			},
+			NeedSource_String = "Ultio Manto Magico"
+		},
+		Magma_Essence = {
+			ItemID = 23815,
+			NeedRefineMin = 0,
+			NeedRefineMax = 20,
+			NeedOptionNumMin = 2,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"Lava_Leather_Armor",
+					15378
+				},
+				{
+					"Lava_Leather_Suits",
+					15379
+				},
+				{
+					"Lava_Leather_Robe",
+					15380
+				}
+			},
+			NeedSource_String = "Armadura de Couro de Lava"
 		}
 	},
 	get_lapine_box = function(in_box_id)

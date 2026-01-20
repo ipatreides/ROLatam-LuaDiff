@@ -2,20 +2,20 @@
     "oBC7Bw": {
         "ko": "오스점령 포탈",
         "en": "Occupy Os Portal",
-        "pt": "Portal de ocupação de Os",
-        "es": "Portal de ocupación de Os"
+        "pt": "Portal OS",
+        "es": "Portal OS"
     },
     "oRC7Bw": {
         "ko": "[오스점령 포탈]\nPPL 삭제됨",
         "en": "[Occupy Os Portal]\nPPL has been removed.",
-        "pt": "[Portal de Ocupação de Os]\nPPL removido",
-        "es": "[Portal de ocupación de Os]\nPPL eliminado"
+        "pt": "[Portal OS]\nPPL excluído",
+        "es": "[Portal OS]\nPPL eliminado"
     },
     "ohC7Bw": {
         "ko": "[오스점령 포탈]\n오스점령 쿨타임삭제",
         "en": "[Occupy Os Portal]\nRemove the cooldown for occupying Os.",
-        "pt": "[Portal de Ocupação de Os]\nRemoção do tempo de recarga da Ocupação de Os",
-        "es": "[Portal de ocupación de Os]\nEliminación del tiempo de reutilización de la ocupación de Os."
+        "pt": "[Portal OS]\nRemover espera da instância.",
+        "es": "[Portal OS]\nEliminar tiempo de espera de la instancia."
     },
     "oxC7Bw": {
         "ko": "취소",
@@ -26,26 +26,26 @@
     "pBC7Bw": {
         "ko": "선행조건",
         "en": "Prerequisite",
-        "pt": "Pré-requisito",
-        "es": "Condición previa"
+        "pt": "Adicionar pré-requisitos",
+        "es": "Agregar prerrequisitos"
     },
     "pRC7Bw": {
         "ko": "선행초기화",
         "en": "Pre-initialization",
-        "pt": "Inicialização prévia",
-        "es": "Inicialización previa"
+        "pt": "Resetar pré-requisitos",
+        "es": "Restablecer prerrequisitos"
     },
     "phC7Bw": {
         "ko": "대화 초기화",
         "en": "Reset conversation",
-        "pt": "Reiniciar conversa",
-        "es": "Reiniciar conversación"
+        "pt": "Resetar Conversa",
+        "es": "Restablecer conversación"
     },
     "pxC7Bw": {
         "ko": "이제 빠르게 섬멸전으로 몰아붙여야 해. 시간이 얼마 없어.",
         "en": "Now we need to quickly push forward with the Annihilation Battle. We don't have much time left.",
-        "pt": "Agora precisamos avançar rapidamente para a Batalha de Extermínio. Não temos muito tempo.",
-        "es": "Ahora debemos apresurarnos y lanzarnos rápidamente a la batalla de aniquilación. No tenemos mucho tiempo."
+        "pt": "Devemos eliminá-los rapidamente. Não temos muito tempo.",
+        "es": "Debemos eliminarlos rápidamente. No tenemos mucho tiempo."
     },
     "qBC7Bw": {
         "ko": "에스트",
@@ -56,217 +56,217 @@
     "qRC7Bw": {
         "ko": "[에스트]\n아직 선발부대의 철도 수송로 확보가 이루어지지 않았다. 이대로 진입은 불가능해.",
         "en": "[Est]\nThe advance team's railway transport route has not been secured yet. We can't proceed any further like this.",
-        "pt": "[Est]\nAinda não conseguimos garantir a rota ferroviária de transporte da unidade avançada. Não é possível avançar assim.",
-        "es": "[Est]\nTodavía no se ha asegurado la ruta ferroviaria de transporte para la unidad avanzada. Es imposible entrar así."
+        "pt": "[Est Loveloy]\nAs tropas ainda não garantiram a rota de transporte ferroviário. Não dá para entrar assim.",
+        "es": "[Est Loveloy]\nLas tropas aún no han asegurado la ruta de transporte ferroviario. No se puede entrar así."
     },
     "qhC7Bw": {
         "ko": "[에스트]\n섬멸전은 꽤 성공적이었지만... 매일같이 주기적으로 순찰을 돌아야할 것 같아. 자세한건 작전장교와 상의 해 보도록.",
         "en": "[Est]\nThe extermination mission was quite successful, but... it seems we'll need to patrol regularly every day. For more details, consult with Operations Officer.",
-        "pt": "[Est]\nA operação de extermínio foi bastante bem-sucedida, mas... acho que teremos que patrulhar regularmente todos os dias. Para mais detalhes, consulte o oficial de operações.",
-        "es": "[Est]\nLa operación de aniquilación fue bastante exitosa, pero... parece que tendremos que patrullar periódicamente todos los días. Para más detalles, consulta con el oficial de operaciones."
+        "pt": "[Est Loveloy]\nA batalha foi bem sucedida... mas acho que devemos patrulhar todos os dias. Por favor, converse os detalhes com o Oficial de Operações.",
+        "es": "[Est Loveloy]\nLa batalla fue un éxito... pero creo que tendremos que patrullar todos los días. Habla los detalles con el Oficial de Operaciones."
     },
     "qxC7Bw": {
         "ko": "오스 점령작전",
         "en": "Os Occupation Operation",
-        "pt": "Operação de Ocupação de Os",
-        "es": "Operación de ocupación de Os"
+        "pt": "Ocupação OS",
+        "es": "Ocupación OS"
     },
     "rBC7Bw": {
         "ko": "[에스트]\n아, 왔군. 선발대가 철도 수송로를 장악했다는 소식은 들었다.",
         "en": "[Est]\nAh, you’re here. I heard that the Advance Party has taken control of the railway transport route.",
-        "pt": "[Est]\nAh, você chegou. Ouvi dizer que a equipe de reconhecimento tomou o controle da rota ferroviária de transporte.",
-        "es": "[Est]\nAh, has venido. He oído que la unidad de avanzada ha tomado el control de la ruta ferroviaria de transporte."
+        "pt": "[Est Loveloy]\nAh, você está aí. Ouvi dizer que a tropa garantiu a rota ferroviária.",
+        "es": "[Est Loveloy]\nAh, ya llegaste. Escuché que la tropa aseguró la ruta ferroviaria."
     },
     "rRC7Bw": {
         "ko": "다음 작전에 대해 묻는다",
         "en": "Ask about the next operation.",
-        "pt": "Pergunta sobre a próxima operação.",
-        "es": "Pregunta sobre la próxima operación."
+        "pt": "E a próxima operação?",
+        "es": "¿Y la próxima operación?"
     },
     "rhC7Bw": {
         "ko": "[에스트]\n수송로를 장악했지만 아마 몇 시간내로 저들이 다시 반격을 하겠지. 그럼 애써 실행한 작전이 무용지물이 된다.",
         "en": "[Est]\nWe've secured the transport route, but they'll probably counterattack within a few hours. If that happens, all our efforts and the operation we've carried out will be for nothing.",
-        "pt": "[Est]\nConseguimos controlar a rota de transporte, mas provavelmente eles vão contra-atacar em poucas horas. Se isso acontecer, toda a operação que realizamos com tanto esforço será em vão.",
-        "es": "[Est]\nHemos asegurado la ruta de transporte, pero probablemente ellos contraatacarán en unas horas. Entonces, toda la operación que llevamos a cabo con tanto esfuerzo será en vano."
+        "pt": "[Est Loveloy]\nNós assumimos o controle ferroviário, mas os inimigos podem contra-atacar novamente a qualquer momento. Então, nossa ocupação poderá ser inutilizada.",
+        "es": "[Est Loveloy]\nHemos tomado el control del ferrocarril, pero los enemigos podrían contraatacar en cualquier momento. Entonces, nuestra ocupación quedaría en nada."
     },
     "rxC7Bw": {
         "ko": "[에스트]\n우린 후속 반격을 막기위해 주변지역의 섬멸전을 실시할 예정이다. 물론 멀쩡한 민간인은 대상에 포함되지 않겠지만...",
         "en": "[Est]\nWe plan to carry out a mop-up operation in the surrounding area to prevent any counterattacks. Of course, innocent civilians won't be included as targets...",
-        "pt": "[Est]\nPretendemos realizar uma operação de aniquilação nas áreas ao redor para impedir possíveis contra-ataques. É claro que civis inocentes não serão incluídos como alvos...",
-        "es": "[Est]\nTenemos previsto llevar a cabo una operación de aniquilación en las zonas cercanas para evitar cualquier contraataque posterior. Por supuesto, los civiles inocentes no serán incluidos como objetivo..."
+        "pt": "[Est Loveloy]\nPara evitar isso, planejamos eliminar qualquer não-civil na área.",
+        "es": "[Est Loveloy]\nPara evitarlo, planeamos eliminar a todo aquel que no sea civil en la zona."
     },
     "sBC7Bw": {
         "ko": "준비해야할 사항을 묻는다.",
         "en": "Ask what needs to be prepared.",
-        "pt": "Pergunta quais são as coisas que precisam ser preparadas.",
-        "es": "Pregunta qué cosas se deben preparar."
+        "pt": "Como se preparar?",
+        "es": "¿Cómo prepararse?"
     },
     "sRC7Bw": {
         "ko": "[에스트]\n전투와 관련한 브리핑은 작전지역으로 진입한 뒤에 할 예정이야. 필요한 물품은 적당히 알아서",
         "en": "[Est]\nThe briefing related to the battle will be given after we enter the operation area. Make sure to prepare any necessary supplies on your own.",
-        "pt": "[Est]\nO briefing relacionado ao combate será feito após entrarmos na área da missão. Prepare os suprimentos necessários conforme achar adequado.",
-        "es": "[Est]\nEl informe relacionado con el combate se dará una vez que entremos en la zona de operaciones. Asegúrate de preparar los suministros necesarios por tu cuenta."
+        "pt": "[Est Loveloy]\nVou instruir você assim que iniciarmos as operações. Prepare-se com o que você já tem.",
+        "es": "[Est Loveloy]\nTe daré las instrucciones cuando comencemos la operación. Prepárate con lo que ya tengas."
     },
     "shC7Bw": {
         "ko": "[에스트]\n수송로를 장악했지만 아마 몇 시간내로 저들이 다시 반격을 하겠지.",
         "en": "[Est]\nWe've secured the transport route, but they'll probably launch a counterattack within a few hours.",
-        "pt": "[Est]\nConseguimos controlar a rota de transporte, mas provavelmente eles vão contra-atacar em algumas horas.",
-        "es": "[Est]\nHemos asegurado la ruta de transporte, pero probablemente ellos contraatacarán de nuevo en unas pocas horas."
+        "pt": "[Est Loveloy]\nNós assumimos o controle do transporte, mas eles provavelmente vão revidar em algumas horas.",
+        "es": "[Est Loveloy]\nHemos asegurado el transporte, pero probablemente contraatacarán en unas horas."
     },
     "sxC7Bw": {
         "ko": "^FF0000던전 안에서 몬스터 테이밍 등의 임의의 몬스터 처리를 하실 경우 정상적인 진행으로 간주하지 않습니다. 이 점 유의하시기 바랍니다.^000000",
         "en": "If you arbitrarily handle monsters inside the ^FF0000dungeon, such as by taming them, it will not be considered normal progression. Please keep this in mind.^000000",
-        "pt": "^FF0000Caso você realize ações arbitrárias de manipulação de monstros, como domar monstros, dentro do masmorra, isso não será considerado como progresso normal. Por favor, esteja ciente disso.^000000",
-        "es": "^FF0000Si manipulas monstruos de manera arbitraria, como el domar monstruos, dentro de la mazmorra, no se considerará como un progreso normal. Por favor, tenlo en cuenta.^000000"
+        "pt": "^FF0000Atenção: se você tentar domar monstros ou realizar qualquer outra ação irrelevante relacionada a monstros, esta masmorra não será considerada concluída.^000000",
+        "es": "^FF0000Atención: si intentas domar monstruos o realizar cualquier otra acción irrelevante relacionada con monstruos, esta mazmorra no se considerará completada.^000000"
     },
     "tBC7Bw": {
         "ko": "^FF0000초심자 모드에서는 플레이어가 몬스터 형태로 변신합니다. 입장 및 진행시 기존의 변신효과는 사라지는점 유의하십시오. ^000000",
         "en": "In ^FF0000 Beginner Mode, players transform into a monster form. Please note that any existing transformation effects will disappear upon entry and during progression. ^000000",
-        "pt": "^FF0000No modo de iniciante, o jogador se transforma em um monstro. Ao entrar e durante o progresso, observe que qualquer efeito de transformação anterior será removido. ^000000",
-        "es": "^FF0000En el modo de principiante, el jugador se transforma en un monstruo. Ten en cuenta que cualquier efecto de transformación previo desaparecerá al entrar y durante el progreso. ^000000"
+        "pt": "^FF0000No modo Iniciante, o jogador será transformado em um monstro. Observe que quaisquer efeitos de transformação ativos serão removidos ao entrar no mapa e durante esta missão.^000000",
+        "es": "^FF0000En el modo Principiante, el jugador se transformará en un monstruo. Ten en cuenta que cualquier efecto de transformación activo se eliminará al entrar en el mapa y durante esta misión.^000000"
     },
     "tRC7Bw": {
         "ko": "[에스트]\n마음의 준비는 되었겠지?",
         "en": "[Est]\nAre you ready?",
-        "pt": "[Est]\nVocê está pronto, certo?",
-        "es": "¿Estás listo mentalmente?"
+        "pt": "[Est Loveloy]\nTudo pronto?",
+        "es": "[Est Loveloy]\n¿Todo listo?"
     },
     "thC7Bw": {
         "ko": "오스 점령전 투입준비",
         "en": "Preparing to deploy for the Os Occupation War",
-        "pt": "Preparação para a entrada na Guerra de Ocupação de Os",
-        "es": "Preparativos para la entrada en la Batalla de Ocupación de Os."
+        "pt": "Gerar instância",
+        "es": "Generar instancia"
     },
     "txC7Bw": {
         "ko": "입장",
         "en": "Enter",
-        "pt": "Entrada",
-        "es": "Entrada"
+        "pt": "Entrar",
+        "es": "Entrar"
     },
     "uBC7Bw": {
         "ko": "파티명:{0}\n파티장:{1}\n^0000FF{2} ^000000- 예약실패",
         "en": "Party Name: {0}\nParty Leader: {1}\n^0000FF{2} ^000000 - Reservation Failed",
-        "pt": "Nome do grupo: {0}\nLíder do grupo: {1}\n^0000FF{2} ^000000 - Falha na reserva",
-        "es": "Nombre del grupo: {0}\nLíder del grupo: {1}\n^0000FF{2} ^000000 - Reserva fallida"
+        "pt": "Grupo: {0}\nLíder: {1}\nFalha ao reservar ^0000FF{2} ^000000.",
+        "es": "Grupo: {0}\nLíder: {1}\nError al reservar ^0000FF{2} ^000000."
     },
     "uRC7Bw": {
         "ko": "[에스트]\n점령전을 위한 문이 열리기 전에 마지막으로 부대 점검을 하도록.",
         "en": "[Est]\nMake your final preparations with your squad before the gate for the Conquest opens.",
-        "pt": "[Est]\nAntes que o portão da batalha de ocupação seja aberto, faça uma última checagem na sua unidade.",
-        "es": "[Est]\nAntes de que se abran las puertas para la batalla de ocupación, realiza una última revisión de la escuadra."
+        "pt": "[Est Loveloy]\nCerto, quando for sua vez na fila, volte a falar comigo novamente.",
+        "es": "[Est Loveloy]\nBien, cuando sea tu turno en la fila, vuelve a hablar conmigo."
     },
     "uhC7Bw": {
         "ko": "알 수 없는 에러가 발생했습니다.",
         "en": "An unknown error has occurred.",
-        "pt": "Ocorreu um erro desconhecido.",
-        "es": "Se ha producido un error desconocido."
+        "pt": "Um erro desconhecido ocorreu.",
+        "es": "Ocurrió un error desconocido."
     },
     "uxC7Bw": {
         "ko": "진입준비가 완료되지 않았거나 파티장과 다른 작전을수행하는것으로 확인됩니다.",
         "en": "It appears that either the entry preparations are not complete, or you are carrying out a different operation from the party leader.",
-        "pt": "A preparação para a entrada não foi concluída ou foi detectado que você está realizando uma operação diferente da do líder do grupo.",
-        "es": "Parece que la preparación para entrar no está completa, o se ha detectado que el líder del grupo está realizando una operación diferente."
+        "pt": "Você não está em condições de entrar. Ou o líder do grupo está em uma situação diferente da sua.",
+        "es": "No cumples las condiciones para entrar o el líder del grupo está en una situación diferente."
     },
     "vBC7Bw": {
         "ko": "^FF0000파티 상태가 아니라면 입장할 수 없습니다.^000000",
         "en": "You cannot enter unless you are in a party.",
-        "pt": "^FF0000Você não pode entrar se não estiver em um grupo.^000000",
-        "es": "^FF0000No puedes entrar si no estás en estado de grupo.^000000"
+        "pt": "^FF0000Apenas membros do grupo podem entrar.^000000",
+        "es": "^FF0000Solo los miembros del grupo pueden entrar.^000000"
     },
     "vRC7Bw": {
         "ko": "{0} 부대의 {1} 부대원이 {2} 에 참여합니다",
         "en": "A member of the {1} squad from {0} is joining {2}.",
-        "pt": "O membro {1} da equipe {0} está participando de {2}.",
-        "es": "El miembro {1} de la escuadra {0} participará en {2}."
+        "pt": "{1}, do grupo {0}, entrou na {2}.",
+        "es": "{1}, del grupo {0}, ha entrado en {2}."
     },
     "vhC7Bw": {
         "ko": "던전으로 입장",
         "en": "Enter the dungeon",
-        "pt": "Entrar na masmorra",
-        "es": "Entrar a la mazmorra"
+        "pt": "Entrar na instância",
+        "es": "Entrar a la instancia"
     },
     "vxC7Bw": {
         "ko": "[에스트]\n너 엄청 피곤해보이는데.",
         "en": "[Est]\nYou look really tired.",
-        "pt": "[Est]\nVocê parece estar muito cansado.",
-        "es": "Parece que estás muy cansado."
+        "pt": "[Est Loveloy]\nVocê não descansou o suficiente.",
+        "es": "[Est Loveloy]\nNo has descansado lo suficiente."
     },
     "wBC7Bw": {
         "ko": "[에스트]\n아직은 작전시간이 아니니 일단 쉬어두라고.",
         "en": "[Est]\nIt's not time for the operation yet, so take a rest for now.",
-        "pt": "[Est]\nAinda não é hora da operação, então descanse um pouco por enquanto.",
-        "es": "Aún no es la hora de la operación, así que descansa por ahora."
+        "pt": "[Est Loveloy]\nAinda não é hora de trabalhar, então, faça uma pausa, por favor.",
+        "es": "[Est Loveloy]\nAún no es hora de trabajar, así que descansa un poco."
     },
     "wRC7Bw": {
         "ko": "[에스트]\n혼자인가? 혼자면 곤란해 일단 파티를 결성해서 부대를 만든 뒤 시작하라구.",
         "en": "[Est]\nAre you alone? If you're alone, that's a problem. First, form a party to create a squad, then get started.",
-        "pt": "[Est]\nEstá sozinho? Se estiver sozinho, será complicado. Primeiro, forme um grupo criando uma equipe e então comece.",
-        "es": "[Est]\n¿Estás solo? Si estás solo, será difícil. Primero, forma un grupo y crea una escuadra antes de empezar."
+        "pt": "[Est Loveloy]\nVocê está só? Primeiro crie um grupo e depois volte novamente.",
+        "es": "[Est Loveloy]\n¿Estás solo? Primero crea un grupo y luego regresa."
     },
     "whC7Bw": {
         "ko": "작전장교",
         "en": "Operations Officer",
         "pt": "Oficial de Operações",
-        "es": "Oficial de operaciones"
+        "es": "Oficial de Operaciones"
     },
     "wxC7Bw": {
         "ko": "[작전장교]\n아직 선발부대의 오스 점령이 이루어지지 않았다. 이대로 진입은 불가능해.",
         "en": "[Operations Officer]\nThe advance party has not yet secured Os. We can't proceed any further like this.",
-        "pt": "[Oficial de Operações]\nA ocupação de Os pela unidade avançada ainda não foi concluída. Não é possível entrar assim.",
-        "es": "[Oficial de operaciones]\nAún no se ha logrado la ocupación de Os por parte de la unidad avanzada. Es imposible avanzar en estas condiciones."
+        "pt": "[Oficial de Operações]\nA primeira tropa ainda não concluiu a Ocupação OS. É impossível entrar agora.",
+        "es": "[Oficial de Operaciones]\nLa tropa inicial aún no ha completado la Ocupación OS. Es imposible entrar ahora."
     },
     "xBC7Bw": {
         "ko": "오스 2차 수색",
         "en": "Os Second Search",
-        "pt": "Busca secundária de Os",
-        "es": "Búsqueda de la segunda fase de Os"
+        "pt": "2a Missão OS",
+        "es": "Misión OS 2"
     },
     "xRC7Bw": {
         "ko": "[작전장교]\n아직은 작전시간이 아니니 일단 쉬어두라고.",
         "en": "[Operations Officer]\nIt's not operation time yet, so take a break for now.",
-        "pt": "[Oficial de Operações]\nAinda não é hora da missão, então descanse por enquanto.",
-        "es": "[Oficial de operaciones]\nAún no es hora de la misión, así que descansa por ahora."
+        "pt": "[Oficial de Operações]\nAinda não estamos trabalhando. Sugiro descansar.",
+        "es": "[Oficial de Operaciones]\nAún no estamos en operación. Te recomiendo descansar."
     },
     "xhC7Bw": {
         "ko": "[작전장교]\n섬멸작전으로 1차 제압은 했지만 지금도 계속해서 뮤턴트들이 꾸역꾸역 기어 나오고있다.",
         "en": "[Operations Officer]\nWe managed to suppress them in the first phase of the extermination operation, but mutants are still relentlessly crawling out even now.",
-        "pt": "[Oficial de Operações]\nConseguimos conter a primeira onda com a operação de extermínio, mas os mutantes continuam surgindo sem parar até agora.",
-        "es": "[Oficial de operaciones]\nAunque logramos la primera contención con la operación de exterminio, los mutantes siguen saliendo sin parar incluso ahora."
+        "pt": "[Oficial de Operações]\nMesmo com o sucesso da operação anterior, os monstros ainda estão lá.",
+        "es": "[Oficial de Operaciones]\nA pesar del éxito de la operación anterior, los monstruos siguen apareciendo."
     },
     "xxC7Bw": {
         "ko": "[작전장교]\n시설을 원천적으로 파괴하면 깔끔하겠지만 그건 상부에서 허가하지 않으니 2차 수색을 시작할 예정이다.",
         "en": "[Operations Officer]\nIt would be simplest to completely destroy the facility, but since headquarters hasn't authorized that, we'll proceed with a second search.",
-        "pt": "[Oficial de Operações]\nSeria mais simples destruir completamente as instalações, mas como a chefia não autorizou isso, pretendemos iniciar uma segunda busca.",
-        "es": "[Oficial de operaciones]\nSería ideal destruir por completo las instalaciones, pero como la autoridad superior no lo permite, planeamos iniciar una segunda búsqueda."
+        "pt": "[Oficial de Operações]\nPoderíamos só explodir o prédio todo, mas os meus superiores não permitiriam. Então, ficamos enviando tropas todos os dias.",
+        "es": "[Oficial de Operaciones]\nPodríamos volar todo el edificio, pero mis superiores no lo permitirían. Por eso seguimos enviando tropas todos los días."
     },
     "yBC7Bw": {
         "ko": "[작전장교]\n무사히 수색이 끝나길 바란다.",
         "en": "[Operations Officer]\nI hope your search ends safely.",
-        "pt": "[Oficial de Operações]\nEspero que a busca termine em segurança.",
-        "es": "[Oficial de operaciones]\nEspero que la búsqueda termine sin contratiempos."
+        "pt": "[Oficial de Operações]\nEspero que a ocupação termine com segurança.",
+        "es": "[Oficial de Operaciones]\nEspero que la ocupación termine sin problemas."
     },
     "yRC7Bw": {
         "ko": "[작전장교]\n마음의 준비는 되었겠지?",
         "en": "[Operations Officer]\nAre you ready?",
-        "pt": "[Oficial de Operações]\nVocê já está preparado mentalmente, certo?",
-        "es": "[Oficial de operaciones]\n¿Estás listo mentalmente?"
+        "pt": "[Oficial de Operações]\nVocê está com tudo pronto?",
+        "es": "[Oficial de Operaciones]\n¿Estás listo?"
     },
     "yhC7Bw": {
         "ko": "오스 2차 수색 투입준비",
         "en": "Preparing for the second search deployment in Os.",
-        "pt": "Preparação para a segunda missão de busca de Os.",
-        "es": "Preparativos para la segunda misión de búsqueda de Os."
+        "pt": "Tudo pronto para a 2a Missão OS",
+        "es": "Todo listo para la Misión OS 2"
     },
     "yxC7Bw": {
         "ko": "[작전장교]\n수색 전에 마지막으로 부대 점검을 하도록.",
         "en": "[Operations Officer]\nLet's do a final unit check before the search.",
-        "pt": "[Oficial de Operações]\nFaça uma última inspeção na unidade antes da busca.",
-        "es": "[Oficial de operaciones]\nHaz una última revisión de la unidad antes de la búsqueda."
+        "pt": "[Oficial de Operações]\nVerifique seu grupo e tente novamente.",
+        "es": "[Oficial de Operaciones]\nVerifica tu grupo e inténtalo de nuevo."
     },
     "zBC7Bw": {
         "ko": "[작전장교]\n혼자인가? 혼자면 곤란해 일단 파티를 결성해서 부대를 만든 뒤 시작하라구.",
         "en": "[Operations Officer]\nAre you alone? It’ll be difficult if you’re by yourself. First, form a party to create a squad, then get started.",
-        "pt": "[Oficial de Operações]\nEstá sozinho? Se estiver sozinho, será difícil. Primeiro, forme um grupo criando uma equipe e então comece.",
-        "es": "[Oficial de operaciones]\n¿Estás solo? Si estás solo, será un problema. Primero, forma un grupo y crea una escuadra antes de comenzar."
+        "pt": "[Oficial de Operações]\nVocê está só? Primeiro crie um grupo e depois volte novamente.",
+        "es": "[Oficial de Operaciones]\n¿Estás solo? Primero crea un grupo y luego regresa."
     }
 }

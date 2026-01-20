@@ -305,7 +305,7 @@
         "es": "Heinrich: ¡Gerhalt!"
     },
     "vfSCCA": {
-        "en": "Gerhalt: Commander... we must get out from here Ahhhh!",
+        "en": "[Gerhalt]\nUuuuu... Khhhah! Just run away with the commander.",
         "pt": "Geralt: Comandante... Nós precisamos sair daqui!Ahhhhhh",
         "es": "Gerhalt: Comandante… debemos salir de aquí ¡Ahhhh!"
     },
@@ -335,7 +335,7 @@
         "es": "Himmelmez: ¿De verdad? ¿Qué te hace pensar eso?"
     },
     "w/SCCA": {
-        "en": "Heinrich: Himmelmez! You already made what you want so there is no more need for a sacrifice!",
+        "en": "Heinrich: Gerhalt!",
         "pt": "Heinrich: Himmelmez! Você já conseguiu o que queria, não há necessidade de mais sacrifícios!",
         "es": "Heinrich: ¡Himmelmez! Ya hiciste lo que querías, ¡así que ya no hay necesidad de más sacrificios!"
     },
@@ -405,7 +405,7 @@
         "es": "El fantasma de Varmundt"
     },
     "0fSCCA": {
-        "en": "Varmundt's Ghost: Amdarais may use a strong magic shield! Stay close to me and I'll protect you!",
+        "en": "Himmelmez: Uh uh ~ I'm so scared.",
         "pt": "Fantasma de Varmund: Amdarais pode usar um escudo mágico poderoso! Fique atrás de mim e proteja-se!",
         "es": "El fantasma de Varmundt: ¡Amdarais puede usar un escudo mágico fuerte! ¡Quédate cerca mío y te protegeré!"
     },
@@ -455,9 +455,9 @@
         "es": "Demolición… ¡Muerte!…"
     },
     "2/SCCA": {
-        "en": "Amdarais HP {0}% reach!",
-        "pt": "HP de Amdarais {0}% atingido!",
-        "es": "¡HP Amdarais {0}%!"
+        "en": "Varmundt's Ghost: If you don't want to be attacked by Amdarais's power, come to me and get more power!",
+        "pt": "HP de Amdarais {mob_p}% atingido!",
+        "es": "¡HP Amdarais {mob_p}%!"
     },
     "3PSCCA": {
         "en": "Gerhalt's body is changing.",
@@ -533,5 +533,10 @@
         "en": "[Hugin]\nReally? This place will be broke down so, please look around quickly.",
         "pt": "[Hugin]\nSério? Esse lugar vai desaparecer em breve, então seja rápido.",
         "es": "[Hugin]\n¿De verdad? Este lugar se derrumbará, así que mira rápido."
+    },
+    "6/SCCA": {
+        "en": "- You are carrying too many items to proceed with this quest. -",
+        "pt": "- Você não pode prosseguir com a missão porque tem muitos itens. -",
+        "es": "- Llevas demasiados objetos para continuar con esta misión.-"
     }
 }

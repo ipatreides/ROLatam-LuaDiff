@@ -878,5 +878,10 @@
         "en": "{0} Party's {1} member enters {2}",
         "pt": "{1}, do grupo {0}, entrou no Laboratório Werner.",
         "es": "{1}, del grupo {partyname}, entró al Laboratorio Werner."
+    },
+    "8C2kBw": {
+        "en": "- You are carrying too many items to proceed with this quest. -",
+        "pt": "- Você não pode prosseguir com a missão porque tem muitos itens. -",
+        "es": "- Llevas demasiados objetos para continuar con esta misión.-"
     }
 }

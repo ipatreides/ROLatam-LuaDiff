@@ -1008,5 +1008,10 @@
         "en": "[Voice from another side]\nRuffUdeneo Mu VilAsh\nYurReDur Ha DielTalNe Ko Lars\nHirVerWeh Yu AnuNud",
         "pt": "[Voz de outro lado]\nRuffUdeneo Mu VilAsh\nYurReDur Ha DielTalNe Ko Lars\nHirVerWeh Yu AnuNud",
         "es": "[Voz del otro lado]\nRuffUdeneo Mu VilAsh.\nYurReDur Ha DielTalNe Ko Lars.\nHirVerWeh Yu AnuNud."
+    },
+    "yp8k": {
+        "en": "- You are carrying too many items to proceed with this quest. -",
+        "pt": "- Você não pode prosseguir com a missão porque tem muitos itens. -",
+        "es": "- Llevas demasiados objetos para continuar con esta misión.-"
     }
 }

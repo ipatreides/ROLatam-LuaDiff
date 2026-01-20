@@ -340,9 +340,9 @@
         "es": "[Arc]\nPero…\nYo…\nMierda, ¡¿entonces qué hago?!"
     },
     "5CUm": {
-        "en": "[{0}]\nI will go. I'm the one who knows exactly where that cave is.\nI will go and bring her back.\nIf Terra headed for that cave, I should be able to find her.",
-        "pt": "[{0}]\nDeixa comigo. Sei exatamente onde a caverna está.\nVou e trago ela de volta.\nSe a Terra foi para aquela caverna, devo conseguir achar ela.",
-        "es": "[{0}]\nIré yo. Sé exactamente dónde está la cueva.\nIré y la traeré de regreso.\nSi Terra fue a esa cueva, entonces la encontraré."
+        "en": "[Arc]\nIt's..\n...No....\nShit, then what should I do!!",
+        "pt": "[{name}]\nDeixa comigo. Sei exatamente onde a caverna está.\nVou e trago ela de volta.\nSe a Terra foi para aquela caverna, devo conseguir achar ela.",
+        "es": "[{name}]\nIré yo. Sé exactamente dónde está la cueva.\nIré y la traeré de regreso.\nSi Terra fue a esa cueva, entonces la encontraré."
     },
     "5SUm": {
         "en": "[{0}]\nLet's hear rest of the story from Terra.\nIt is important for you to guard this place, isn't it?\nIf Terra really took the Bradium without any permission...",
@@ -475,7 +475,7 @@
         "es": "[Arc]\n¿Yur,Dur AnoVa?\n¿Qué? Dieb OsaDur .. \n¿ah..RuffThus NeAsh. man nesAsh OdesAlah?"
     },
     "/yUm": {
-        "en": "- I can't understand what he's saying... Oh god how frustrating. -",
+        "en": "[Arc]\nYur,Dur AnoVa?\nWha? Dieb OsaDur ..\nah..RuffThus NeAsh. man nesAsh OdesAlah ?",
         "pt": "- Não consigo entender o que ele está dizendo... Céus, que frustrante. -",
         "es": "(No entiendo lo que dice… Cielos, ¡qué frustrante!)."
     },
@@ -2123,5 +2123,25 @@
         "en": "[{0}]\nArc gave me three Yggdrasilberries and...\nI've found... three six of them should be enough.\nLet's go back to Snorren.",
         "pt": "[{0}]\nArc me deu três Frutos de Yggdrasil e...\nDescobri que... seis delas devem ser suficientes.\nVamos voltar para o Snorren.",
         "es": "[{0}]\nArc me dio tres frutos de Yggdrasil, y\nencontré tres más. Seis deberían ser suficientes.\nVolvamos con Snorren."
+    },
+    "SScm": {
+        "en": "- You are carrying too many items to proceed with this quest. -",
+        "pt": "- Você não pode prosseguir com a missão porque tem muitos itens. -",
+        "es": "- Llevas demasiados objetos para continuar con esta misión.-"
+    },
+    "Sicm": {
+        "en": "[Arc]\nBy the way, you...\nNo, never mind.\nWhat is your name?",
+        "pt": "[Arc]\nA propósito, você... \nNão, esqueça.\nQual é o seu nome?",
+        "es": "[Arc]\nPor cierto, tú… \nNo, olvídalo.\n¿Cómo te llamas?"
+    },
+    "Sycm": {
+        "en": "[Terra]\nSo I tried to bring a bradium to him...\nBut he... Sob...",
+        "pt": "[Terra]\nEntão, tentei levar um bradium para ele... \nMas ele... Aaahh...",
+        "es": "[Terra]\nAsí que intenté llevarle Bradium… \nPero… *Solloza*"
+    },
+    "TCcm": {
+        "en": "[Terra]\nModBurDana...? Mu AnduWehFus Yee OsaLoLars...\neoFusser....\nmaurNohser Ur...... ThorNuffLars So",
+        "pt": "[Terra]\nModBurDana...? Mu AnduWehFus Yee OsaLoLars...\neoFusser....\nmaurNohser Ur...... ThorNuffLars So",
+        "es": "[Terra]\n¿ModBurDana…? Mu AnduWehFus Yee OsaLoLars…\neoFusser…\nmaurNohser Ur… ThorNuffLars So."
     }
 }

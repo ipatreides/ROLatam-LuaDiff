@@ -3838,5 +3838,10 @@
         "en": "[Hiel]\nYou're back. {0} While you were gone, I added various functionalities onto the spare rift reactor.",
         "pt": "[Hiel]\nVocê voltou! {0}, enquanto estava fora, eu adicionei diversas funcionalidades no reator de fenda reserva.",
         "es": "[Hiel]\nVolviste. {0} Mientras no estabas, agregué varias funcionalidades al reactor de grieta de repuesto."
+    },
+    "4D5m": {
+        "en": "- You are carrying too many items to proceed with this quest. -",
+        "pt": "- Você não pode prosseguir com a missão porque tem muitos itens. -",
+        "es": "- Llevas demasiados objetos para continuar con esta misión.-"
     }
 }

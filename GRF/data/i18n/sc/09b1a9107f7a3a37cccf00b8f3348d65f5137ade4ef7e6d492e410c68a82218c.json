@@ -4858,5 +4858,10 @@
         "en": "It's a Laphine's corpse.",
         "pt": "É o cadáver de um Laphine.",
         "es": "Es el cadáver de un laphine."
+    },
+    "bDJj": {
+        "en": "- You are carrying too many items to proceed with this quest. -",
+        "pt": "- Você não pode prosseguir com a missão porque tem muitos itens. -",
+        "es": "- Llevas demasiados objetos para continuar con esta misión.-"
     }
 }

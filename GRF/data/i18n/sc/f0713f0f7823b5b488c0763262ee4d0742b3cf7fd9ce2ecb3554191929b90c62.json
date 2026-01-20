@@ -503,5 +503,10 @@
         "en": "[Flowa]\nAnuFuloUor Ko CyaWosnes Ha WosAnuAsh O WosDuAno O\nFuloAndueo Ie WosGothLars Ee Tinarmaur Or AlahnahVa Or narAnuFulo So KoCya",
         "pt": "[Flowa]\nAnuFuloUor Ko CyaWosnes Ha WosAnuAsh O WosDuAno O \nFuloAndueo Ie WosGothLars Ee Tinarmaur Ou AlahnahVa Ou narAnuFulo So KoCya",
         "es": "[Flowa]\nAnuFuloUor Ko CyaWosnes Ha WosAnuAsh O WosDuAno O. \nFuloAndueo Ie WosGothLars Ee Tinarmaur Or AlahnahVa Or narAnuFulo So KoCya."
+    },
+    "pawn": {
+        "en": "- You are carrying too many items to proceed with this quest. -",
+        "pt": "- Você não pode prosseguir com a missão porque tem muitos itens. -",
+        "es": "- Llevas demasiados objetos para continuar con esta misión.-"
     }
 }

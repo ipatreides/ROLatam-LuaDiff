@@ -10307,3 +10307,37 @@ StateIconList[EFST_IDs.EFST_SPECIALCOOKIE] = {
 		}
 	}
 }
+StateIconList[EFST_IDs.EFST_OVERSEA_BUFF_30] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{
+			"Música de Samba",
+			COLOR_TITLE_BUFF
+		},
+		{"%s", COLOR_TIME},
+		{
+			"Concede efeito de Ataque Guiado"
+		},
+		{
+			"Absorve HP e SP"
+		}
+	}
+}
+StateIconList[EFST_IDs.EFST_OVERSEA_BUFF_31] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{
+			"Glitter de Carnaval",
+			COLOR_TITLE_BUFF
+		},
+		{"%s", COLOR_TIME},
+		{
+			"Eficiência de Cura +30%"
+		},
+		{
+			"Reduz o Tempo de Recarga Global"
+		}
+	}
+}

@@ -1,22 +1,21 @@
 MaxLevelTable = {
 	BaseLevel = 99,
-	BaseLevel3rd = 175,
-	BaseLevelExtend2 = 175,
-	BaseLevelUpperJob = 175,
-	BaseLevelHomun = 175,
-	BaseLevelDoram = 175,
+	BaseLevel3rd = 185,
+	BaseLevelExtend2 = 185,
+	BaseLevelUpperJob = 185,
+	BaseLevelHomun = 185,
+	BaseLevelDoram = 185,
 	JobLevelNovice = 10,
 	JobLevelSuperNovice = 99,
 	JobLevelBase = 50,
 	JobLevel2nd = 70,
-	JobLevel3rd = 60,
-	JobLevelExtend2 = 60,
-	JobLevelUpperJob = 60,
-	JobLevelDoram = 50
+	JobLevel3rd = 65,
+	JobLevelExtend2 = 65,
+	JobLevelUpperJob = 65,
+	JobLevelDoram = 55
 }
 MakeableRace = {Doram = false}
-AssistAddr = "lt-account-01.gnjoylatam.com:2052"
-BlockStart = false
+AssistAddr = "34.95.249.53:2052"
 LEVELAURA = {}
 LEVELAURA.EF_NONE = -1
 LEVELAURA.EF_LEVEL99 = 200
@@ -42,14 +41,14 @@ Level99AuraTable = {
 MaxLevelAuraTable = {
 	Default150LvAura = LEVELAURA.EF_LEVEL150,
 	Default150LvAura_sub = LEVELAURA.EF_LEVEL150_SUB,
-	Default160LvAura = LEVELAURA.EF_LEVEL150,
-	Default160LvAura_sub = LEVELAURA.EF_LEVEL150_SUB,
-	Default185LvAura = LEVELAURA.EF_LEVEL150,
-	Default185LvAura_sub = LEVELAURA.EF_LEVEL150_SUB,
-	UpperJobMaxLvAura = LEVELAURA.EF_LEVEL150,
-	UpperJobMaxLvAura_sub = LEVELAURA.EF_LEVEL150_SUB,
-	HomunMaxLvAura = LEVELAURA.EF_LEVEL150,
-	HomunMaxLvAura_sub = LEVELAURA.EF_LEVEL150_SUB
+	Default160LvAura = LEVELAURA.EF_LEVEL185,
+	Default160LvAura_sub = LEVELAURA.EF_LEVEL185_SUB,
+	UpperJobMaxLvAura = LEVELAURA.EF_LEVEL185,
+	UpperJobMaxLvAura_sub = LEVELAURA.EF_LEVEL185_SUB,
+	Default185LvAura = LEVELAURA.EF_LEVEL185,
+	Default185LvAura_sub = LEVELAURA.EF_LEVEL185_SUB,
+	HomunMaxLvAura = LEVELAURA.EF_LEVEL185,
+	HomunMaxLvAura_sub = LEVELAURA.EF_LEVEL185_SUB
 }
 function GetTableIntValueForC(tableName, keyName)
 	local t = _G[tableName]

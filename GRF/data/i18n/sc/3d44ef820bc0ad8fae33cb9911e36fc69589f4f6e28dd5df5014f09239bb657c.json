@@ -1,0 +1,278 @@
+{
+    "4DubDA": {
+        "ko": "Mission Board",
+        "en": "Mission Board",
+        "pt": "Quadro de Missões",
+        "es": "Tablero de Misiones"
+    },
+    "4TubDA": {
+        "ko": "- 진행할 수 없습니다 -",
+        "en": "- Cannot proceed -",
+        "pt": "- Não é possível prosseguir -",
+        "es": "- No se puede proceder -"
+    },
+    "4jubDA": {
+        "ko": "[Mission Board]\n이 Mission Board를 사용하려면 안내서가 필요합니다.",
+        "en": "[Mission Board]\nA guide is needed to use this Mission Board.",
+        "pt": "[Quadro de Missões]\nÉ necessário um Passe para usar este Quadro de Missões.",
+        "es": "[Tablero de Misiones]\nSe necesita una Guía para usar este Tablero de Misiones."
+    },
+    "4zubDA": {
+        "ko": "[Mission Board]\n사용 전 Mission Board 이용 규칙을 자세히 읽어 주세요.",
+        "en": "[Mission Board]\nPlease read the Mission Board usage rules carefully before use.",
+        "pt": "[Quadro de Missões]\nPor favor, leia as regras de uso do Quadro de Missões com atenção antes de usar.",
+        "es": "[Tablero de Misiones]\nPor favor, lea las reglas de uso del Tablero de Misiones con atención antes de usar."
+    },
+    "5DubDA": {
+        "ko": "[Mission Board]\n사용 방법\n1. Mission Board에는 Daily, Weekly, Full Time Event 총 3종류의 퀘스트가 있습니다.\n2. Daily 및 Weekly 퀘스트는 매주 변경됩니다.\n3. Daily 퀘스트는 매일 새벽 4시에 초기화됩니다.\n4. 각 퀘스트마다 획득 가능한 Battle Pass EXP가 다르니 퀘스트 창에서 상세 내용을 확인해 주세요.",
+        "en": "[Mission Board]\nHow to Use\n1. The Mission Board has three types of quests: Daily, Weekly, and Full Time Event.\n2. Daily and Weekly quests change every week.\n3. Daily quests reset at 4:00 AM every day.\n4. Each quest provides a different amount of obtainable Battle Pass EXP. Please check the details in the quest window.",
+        "pt": "[Quadro de Missões]\nComo Usar\n1. O Quadro de Missões tem três tipos de missões: Diárias, Semanais e Integral.\n2. As missões Diárias e Semanais mudam toda semana.\n3. As missões Diárias resetam às 4h da manhã todos os dias.\n4. Cada missão fornece uma quantidade diferente de EXP do Passe de Batalha. Por favor, verifique os detalhes na janela da missão.",
+        "es": "[Tablero de Misiones]\nCómo Usar\n1. El Tablero de Misiones tiene tres tipos de misiones: Diarias, Semanales y de Evento Completo.\n2. Las misiones Diarias y Semanales cambian cada semana.\n3. Las misiones Diarias se reinician a las 4:00 AM todos los días.\n4. Cada misión proporciona una cantidad diferente de EXP del Pase de Batalla. Por favor, verifique los detalles en la ventana de la misión."
+    },
+    "5TubDA": {
+        "ko": "[Mission Board]\n진행할 항목을 선택해 주세요.",
+        "en": "[Mission Board]\nPlease select the item to proceed with.",
+        "pt": "[Quadro de Missões]\nPor favor, selecione uma opção.",
+        "es": "[Tablero de Misiones]\nPor favor, seleccione una opción."
+    },
+    "5jubDA": {
+        "ko": "임무 수락",
+        "en": "Accept Mission",
+        "pt": "Aceitar Missão",
+        "es": "Aceptar Misión"
+    },
+    "5zubDA": {
+        "ko": "임무 보고",
+        "en": "Report Mission",
+        "pt": "Reportar Missão",
+        "es": "Reportar Misión"
+    },
+    "6DubDA": {
+        "ko": "취소",
+        "en": "Cancel",
+        "pt": "Cancelar",
+        "es": "Cancelar"
+    },
+    "6TubDA": {
+        "ko": "일일 퀘스트 확인",
+        "en": "Check Daily Quest",
+        "pt": "Ver Missão Diária",
+        "es": "Ver Misión Diaria"
+    },
+    "6jubDA": {
+        "ko": "주간 퀘스트 확인",
+        "en": "Check Weekly Quest",
+        "pt": "Ver Missão Semanal",
+        "es": "Ver Misión Semanal"
+    },
+    "6zubDA": {
+        "ko": "Full Time Event 퀘스트 확인",
+        "en": "Check Full Time Event Quest",
+        "pt": "Ver Missão Integral",
+        "es": "Ver Misión de Evento Completo"
+    },
+    "7DubDA": {
+        "ko": "굳은 지상 딜리터 처치",
+        "en": "Defeat Stiff Deleter(Ground)",
+        "pt": "Derrotar Deleter",
+        "es": "Derrotar Deleter rígido (tierra)"
+    },
+    "7TubDA": {
+        "ko": "아이스 고스트 처치",
+        "en": "Defeat Ice Ghost",
+        "pt": "Derrotar Xamã do Gelo",
+        "es": "Derrotar Chamán de Hielo"
+    },
+    "7jubDA": {
+        "ko": "플레임 고스트 처치",
+        "en": "Defeat Flame Ghost",
+        "pt": "Derrotar Xamã do Fogo",
+        "es": "Derrotar Chamán de Fuego"
+    },
+    "7zubDA": {
+        "ko": "[Mission Board]\n해당 퀘스트는 하루에 1회만 수행할 수 있습니다.",
+        "en": "[Mission Board]\nThis quest can only be completed once per day.",
+        "pt": "[Quadro de Missões]\nEsta missão só pode ser concluída uma vez por dia.",
+        "es": "[Tablero de Misiones]\nEsta misión solo se puede completar una vez al día."
+    },
+    "8DubDA": {
+        "ko": "[Mission Board]\n굳은 지상 딜리터 5마리 처치\nEXP Battle Pass 4",
+        "en": "[Mission Board]\nDefeat 5 Stiff Deleter(Ground)\nEXP Battle Pass 4",
+        "pt": "[Quadro de Missões]\nDerrote 5 Deleter\nEXP do Passe: 4",
+        "es": "[Tablero de Misiones]\nDerrota 5 Deleter rígido (tierra)\nEXP del Pase: 4"
+    },
+    "8TubDA": {
+        "ko": "[Mission Board]\n이미 진행 중인 퀘스트입니다.",
+        "en": "[Mission Board]\nYou are already progressing on this quest.",
+        "pt": "[Quadro de Missões]\nVocê já está fazendo esta missão.",
+        "es": "[Tablero de Misiones]\nYa estás realizando esta misión."
+    },
+    "8jubDA": {
+        "ko": "[Mission Board]\n아이스 고스트 5마리 처치\nEXP Battle Pass 4",
+        "en": "[Mission Board]\nDefeat 5 Ice Ghosts\nEXP Battle Pass 4",
+        "pt": "[Quadro de Missões]\nDerrote 5 Xamã do Gelo\nEXP do Passe: 4",
+        "es": "[Tablero de Misiones]\nDerrota 5 Chamán de Hielo\nEXP del Pase: 4"
+    },
+    "8zubDA": {
+        "ko": "[Mission Board]\n플레임 고스트 5마리 처치\nEXP Battle Pass 4",
+        "en": "[Mission Board]\nDefeat 5 Flame Ghosts\nEXP Battle Pass 4",
+        "pt": "[Quadro de Missões]\nDerrote 5 Xamã do Fogo\nEXP do Passe: 4",
+        "es": "[Tablero de Misiones]\nDerrota 5 Chamán de Fuego\nEXP del Pase: 4"
+    },
+    "9DubDA": {
+        "ko": "나흐트 지거 처치",
+        "en": "Defeat Naght Sieger",
+        "pt": "Derrotar Naght Sieger",
+        "es": "Derrotar Naght Sieger"
+    },
+    "9TubDA": {
+        "ko": "자기 계발",
+        "en": "Self-improvement",
+        "pt": "Autoaperfeiçoamento",
+        "es": "Autosuperación"
+    },
+    "9jubDA": {
+        "ko": "[Mission Board]\n해당 퀘스트는 주 1회만 수행할 수 있습니다.",
+        "en": "[Mission Board]\nThis quest can only be completed once per week.",
+        "pt": "[Quadro de Missões]\nEsta missão só pode ser concluída uma vez por semana.",
+        "es": "[Tablero de Misiones]\nEsta misión solo se puede completar una vez por semana."
+    },
+    "9zubDA": {
+        "ko": "[Mission Board]\n나흐트 지거 1마리 처치\nEXP Battle Pass 20",
+        "en": "[Mission Board]\nDefeat 1 Naght Sieger\nEXP Battle Pass 20",
+        "pt": "[Quadro de Missões]\nDerrote 1 Naght Sieger\nEXP do Passe: 20",
+        "es": "[Tablero de Misiones]\nDerrota 1 Naght Sieger\nEXP del Pase: 20"
+    },
+    "+DubDA": {
+        "ko": "[Mission Board]\n이미 진행 중인 퀘스트입니다.\n이번 주에는 1회만 진행할 수 있습니다!",
+        "en": "[Mission Board]\nYou are already progressing on this quest.\nYou can only proceed once this week!",
+        "pt": "[Quadro de Missões]\nVocê já está fazendo esta missão.\nVocê só pode prosseguir uma vez esta semana!",
+        "es": "[Tablero de Misiones]\nYa estás realizando esta misión.\n¡Solo puedes proceder una vez esta semana!"
+    },
+    "+TubDA": {
+        "ko": "[Mission Board]\n캐릭터 레벨업 1회\nEXP Battle Pass 15",
+        "en": "[Mission Board]\nLevel up a character once\nEXP Battle Pass 15",
+        "pt": "[Quadro de Missões]\nSuba de nível um personagem uma vez.\nEXP do Passe: 15",
+        "es": "[Tablero de Misiones]\nSube de nivel un personaje una vez.\nEXP del Pase: 15"
+    },
+    "+jubDA": {
+        "ko": "[Mission Board]\n이미 진행 중인 퀘스트입니다.\n이번 주에는 1회만 진행할 수 있습니다.",
+        "en": "[Mission Board]\nYou are already progressing on this quest.\nYou can only proceed once this week.",
+        "pt": "[Quadro de Missões]\nVocê já está fazendo esta missão.\nVocê só pode prosseguir uma vez esta semana.",
+        "es": "[Tablero de Misiones]\nYa estás realizando esta misión.\nSolo puedes proceder una vez esta semana."
+    },
+    "+zubDA": {
+        "ko": "[Mission Board]\n이미 임무를 완료하여 더 이상 진행할 수 없습니다.",
+        "en": "[Mission Board]\nYou have already completed the mission and cannot proceed further.",
+        "pt": "[Quadro de Missões]\nVocê já completou a missão e não pode prosseguir mais.",
+        "es": "[Tablero de Misiones]\nYa has completado la misión y no puedes proceder más."
+    },
+    "/DubDA": {
+        "ko": "[Mission Board]\n레벨 185 달성\nEXP Battle Pass 150",
+        "en": "[Mission Board]\nAchieve Level 185\nEXP Battle Pass 150",
+        "pt": "[Quadro de Missões]\nAtinja o Nível 185\nEXP do Passe: 150",
+        "es": "[Tablero de Misiones]\nAlcanza el Nivel 185\nEXP del Pase: 150"
+    },
+    "/TubDA": {
+        "ko": "[Mission Board]\n이미 진행 중인 퀘스트입니다.\n이번 이벤트에서는 1회만 진행할 수 있습니다.",
+        "en": "[Mission Board]\nYou are already progressing on this quest.\nYou can only proceed once during this event.",
+        "pt": "[Quadro de Missões]\nVocê já está fazendo esta missão.\nVocê só pode prosseguir uma vez durante este evento.",
+        "es": "[Tablero de Misiones]\nYa estás realizando esta misión.\nSolo puedes proceder una vez durante este evento."
+    },
+    "/jubDA": {
+        "ko": "일일 퀘스트 보고",
+        "en": "Report Daily Quest",
+        "pt": "Reportar Missão Diária",
+        "es": "Reportar Misión Diaria"
+    },
+    "/zubDA": {
+        "ko": "주간 퀘스트 보고",
+        "en": "Report Weekly Quest",
+        "pt": "Reportar Missão Semanal",
+        "es": "Reportar Misión Semanal"
+    },
+    "ADybDA": {
+        "ko": "Full Time Event 퀘스트 보고",
+        "en": "Report Full Time Event Quest",
+        "pt": "Reportar Missão Integral",
+        "es": "Reportar Misión de Evento Completo"
+    },
+    "ATybDA": {
+        "ko": "굳은 지상 딜리터 처치 의뢰",
+        "en": "Stiff Deleter(Ground) Extermination Request",
+        "pt": "Caçar Deleter",
+        "es": "Cazar Deleter rígido (tierra)"
+    },
+    "AjybDA": {
+        "ko": "아이스 고스트 처치 의뢰",
+        "en": "Ice Ghost Extermination Request",
+        "pt": "Caçar Xamã do Gelo",
+        "es": "Cazar Chamán de Hielo"
+    },
+    "AzybDA": {
+        "ko": "플레임 고스트 처치 의뢰",
+        "en": "Flame Ghost Extermination Request",
+        "pt": "Caçar Xamã do Fogo",
+        "es": "Cazar Chamán de Fuego"
+    },
+    "BDybDA": {
+        "ko": "[Mission Board]\n퀘스트 완료\nBattle Pass EXP 3 지급",
+        "en": "[Mission Board]\nQuest Complete\nBattle Pass EXP 3 granted",
+        "pt": "[Quadro de Missões]\nMissão Concluída\nVocê recebeu 3 de EXP do Passe de Batalha",
+        "es": "[Tablero de Misiones]\nMisión Completada\nHas recibido 3 de EXP del Pase de Batalla"
+    },
+    "BTybDA": {
+        "ko": "[Mission Board]\n조건이 맞지 않습니다. 다시 확인해 주세요.",
+        "en": "[Mission Board]\nConditions do not match. Please check again.",
+        "pt": "[Quadro de Missões]\nAs condições não correspondem. Por favor, verifique novamente.",
+        "es": "[Tablero de Misiones]\nLas condiciones no coinciden. Por favor, verifique nuevamente."
+    },
+    "BjybDA": {
+        "ko": "[Mission Board]\n퀘스트 완료\nBattle Pass EXP 4 지급",
+        "en": "[Mission Board]\nQuest Complete\nBattle Pass EXP 4 granted",
+        "pt": "[Quadro de Missões]\nMissão Concluída\nVocê recebeu 4 de EXP do Passe de Batalha",
+        "es": "[Tablero de Misiones]\nMisión Completada\nHas recibido 4 de EXP del Pase de Batalla"
+    },
+    "BzybDA": {
+        "ko": "나흐트 지거 처치 의뢰",
+        "en": "Naght Sieger Extermination Request",
+        "pt": "Caçar Naght Sieger",
+        "es": "Cazar Naght Sieger"
+    },
+    "CDybDA": {
+        "ko": "[Mission Board]\n퀘스트 완료\nBattle Pass EXP 20 지급",
+        "en": "[Mission Board]\nQuest Complete\nBattle Pass EXP 20 granted",
+        "pt": "[Quadro de Missões]\nMissão Concluída\nVocê recebeu 20 de EXP do Passe de Batalha",
+        "es": "[Tablero de Misiones]\nMisión Completada\nHas recibido 20 de EXP del Pase de Batalla"
+    },
+    "CTybDA": {
+        "ko": "[Mission Board]\n퀘스트 완료\nBattle Pass EXP 15 지급",
+        "en": "[Mission Board]\nQuest Complete\nBattle Pass EXP 15 granted",
+        "pt": "[Quadro de Missões]\nMissão Concluída\nVocê recebeu 15 de EXP do Passe de Batalha",
+        "es": "[Tablero de Misiones]\nMisión Completada\nHas recibido 15 de EXP del Pase de Batalla"
+    },
+    "CjybDA": {
+        "ko": "[Mission Board]\n퀘스트 완료\nBattle Pass EXP 150 지급",
+        "en": "[Mission Board]\nQuest Complete\nBattle Pass EXP 150 granted",
+        "pt": "[Quadro de Missões]\nMissão Concluída\nVocê recebeu 150 de EXP do Passe de Batalha",
+        "es": "[Tablero de Misiones]\nMisión Completada\nHas recibido 150 de EXP del Pase de Batalla"
+    },
+    "CzybDA": {
+        "ko": "굳은 공중 딜리터 처치",
+        "en": "Defeat Stiff Deleter(Sky)",
+        "pt": "Derrotar Deleter Voador",
+        "es": "Derrotar Deleter rígido (cielo)"
+    },
+    "DDybDA": {
+        "ko": "[Mission Board]\n굳은 공중 딜리터 5마리 처치\nEXP Battle Pass 4",
+        "en": "[Mission Board]\nDefeat 5 Stiff Deleter(Sky)s\nEXP Battle Pass 4",
+        "pt": "[Quadro de Missões]\nDerrote 5 Deleter Voador\nEXP do Passe: 4",
+        "es": "[Tablero de Misiones]\nDerrota 5 Deleter rígido (cielo)\nEXP del Pase: 4"
+    },
+    "DTybDA": {
+        "ko": "굳은 공중 딜리터 처치 의뢰",
+        "en": "Stiff Deleter(Sky) Extermination Request",
+        "pt": "Caçar Deleter Voador",
+        "es": "Cazar Deleter rígido (cielo)"
+    }
+}

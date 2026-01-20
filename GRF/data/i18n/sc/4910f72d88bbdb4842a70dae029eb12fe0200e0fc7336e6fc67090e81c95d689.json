@@ -960,7 +960,7 @@
         "es": "[Avalanche]\nEres humano.\n¿Qué buscas aquí?"
     },
     "IIM7": {
-        "en": "I've come with Vyhannus's invitation.",
+        "en": "[Doha]\n..?\nI didn't say a thing.\nI guess you heard wrong.\nWill you leave now? Because I have to organize a report.",
         "pt": "Vehanus me mandou vir.",
         "es": "Vine por invitación de Vyhannus."
     },
@@ -2205,7 +2205,7 @@
         "es": "[Knit]\n¡Ah! Y tiene la piel divina.\nSin embargo, nunca sale de su oficina en lo alto de Dicastes Diel."
     },
     "GYQ7": {
-        "en": "[Knit]\nBut I guess it would be better for Ahat's complexion...\nto stay warm and safe like a crystal bird in Diel instead of being out in the winter weather!",
+        "en": "[Knit]\nXXXXXXXXXXXXXX\nXXXXXXXXXXXXXXXXXXX\nXXXXXXXXXXXXXX??",
         "pt": "[Nit]\nmas talvez isso seja melhor para ele, pois os ventos rigorosos do inverno\nnão chegam ao seu escritório quentinho e aconchegante no topo de Diel.",
         "es": "[Knit]\nPero supongo que es mejor para la tez de Ahat que se mantenga seguro y calentito como un pájaro de cristal en Diel en vez de salir con un clima invernal como este."
     },
@@ -2380,7 +2380,7 @@
         "es": "[Guardia de Diel]\n¿XXXXXXXXXXXXX?\nXXXXXXXXXXXXXXX…\n¡XXXXXXXXXX!"
     },
     "PIQ7": {
-        "en": "[Diel Guard]\nYou can't go further.\nThis is the highest minister's office.\nOnly those with permission are allowed in.\nPlease go back.",
+        "en": "[Galten]\nXXXXXXXXXX?\nXXXXXXXXXXXX...\nXXXXXXXX..!",
         "pt": "[Guarda de Diel]\nVocê só pode vir até aqui.\nAdiante fica o escritório do Primeiro Ancião.\nSomente para pessoas autorizadas.\nPor favor, saia.",
         "es": "[Guardia de Diel]\nNo puedes seguir avanzando.\nEsta es la oficina de un alto miembro del ministerio.\nSolo se permite entrar a quienes tengan un permiso.\nVete."
     },
@@ -3590,7 +3590,7 @@
         "es": "[HesLanta]\nLo siento.\nDebo haberte quitado mucho tiempo.\nDebo volverme más fuerte."
     },
     "LoU7": {
-        "en": "BK",
+        "en": "conflict between the 3 countries..",
         "pt": "B. K.",
         "es": "Montón de tierra"
     },
@@ -4318,5 +4318,30 @@
         "en": "[Suspicious Guy]\n.....",
         "pt": "[Homem Suspeito]\n...",
         "es": "[Tipo sospechoso]\n……"
+    },
+    "wIU7": {
+        "en": "- You are carrying too many items to proceed with this quest. -",
+        "pt": "- Você não pode prosseguir com a missão porque tem muitos itens. -",
+        "es": "- Llevas demasiados objetos para continuar con esta misión.-"
+    },
+    "wYU7": {
+        "en": "[Shay]\nHere..\n......Hmmm...\nNah.",
+        "pt": "[Shai]\nQuer dizer, aqui? \nNão.\nDesculpe.",
+        "es": "[Shay]\nAquí tienes… \nMmmm…\nNa."
+    },
+    "woU7": {
+        "en": "[Diel Guard]\nXXXXXXXXXXXXX?\nXXXXXXXXXXXXXXX...\nXXXXXXXXXX..!",
+        "pt": "[Guarda de Diel]\n??? ? ????\n??? ? ??? ? ???...\n??? ? ??? ?..!",
+        "es": "[Guardia de Diel]\n¿XXXXXXXXXXXXX?\nXXXXXXXXXXXXXXX…\n¡XXXXXXXXXX!"
+    },
+    "w4U7": {
+        "en": "[Jarute HesLanta]\nXXXXXXXXXXXXX?\nXXXXXXXXXXXXXXX...\nXXXXXXXXXX..!",
+        "pt": "[Jeruth HesLanta]\n??? ? ????\n??? ? ??? ? ???...\n??? ? ??? ?..!",
+        "es": "[Jarute HesLanta]\n¿XXXXXXXXXXXXX?\nXXXXXXXXXXXXXXX…\n¡XXXXXXXXXX!"
+    },
+    "xIU7": {
+        "en": "[Vigilante]\nXXXXXXXXXXXXX?\nXXXXXXXXXXXXXXX...\nXXXXXXXXXX..!",
+        "pt": "[Vigilante]\n??? ? ????\n??? ? ??? ? ???...\n??? ? ??? ?..!",
+        "es": "[Justiciero]\n¿XXXXXXXXXXXXX?\nXXXXXXXXXXXXXXX…\n¡XXXXXXXXXX!"
     }
 }

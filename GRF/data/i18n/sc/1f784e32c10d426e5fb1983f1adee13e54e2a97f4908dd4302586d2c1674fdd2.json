@@ -118,5 +118,10 @@
         "en": "[Strasse]\nHmm... You don't have any Schwartz Honor Tokens.\nPlease come back after taking care of other tasks.",
         "pt": "[Strasse]\nHumm... Você não tem nenhum Brasão de Honra.\nPor favor, volte depois de terminar outra tarefa.",
         "es": "[Strasse]\nMmm… No tienes ningun Escudo de Honor.\nRegresa después de haber completado otras tareas."
+    },
+    "OMGoBw": {
+        "en": "- You are carrying too many items to proceed with this quest. -",
+        "pt": "- Você não pode prosseguir com a missão porque tem muitos itens. -",
+        "es": "- Llevas demasiados objetos para continuar con esta misión.-"
     }
 }

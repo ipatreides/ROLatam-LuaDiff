@@ -1878,5 +1878,10 @@
         "en": "[Raffle Researcher]\nCould it be that you suddenly want to look at\nThe research report???",
         "pt": "[Pesquisador Raffle]\nSerá que quer dar uma olhada\nno relatório de pesquisa???",
         "es": "[Investigador Rafflesia]\n¿Podría ser que de repente quieres mirar\nel informe de investigación"
+    },
+    "WNNN": {
+        "en": "- You are carrying too many items to proceed with this quest. -",
+        "pt": "- Você não pode prosseguir com a missão porque tem muitos itens. -",
+        "es": "- Llevas demasiados objetos para continuar con esta misión.-"
     }
 }

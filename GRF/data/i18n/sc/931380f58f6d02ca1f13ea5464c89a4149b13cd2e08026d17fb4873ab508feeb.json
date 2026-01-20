@@ -5,7 +5,7 @@
         "es": "Hogar"
     },
     "wRKeBw": {
-        "en": "Seems like you have too many belongings. Let's try it again after you remove some.",
+        "en": "- You are carrying too many items to proceed with this quest. -",
         "pt": "Parece que você tem muitos pertences. Vamos tentar novamente depois que você remover alguns itens.",
         "es": "Parece que tienes demasiadas pertenencias. Inténtalo de nuevo después de quitar algunas."
     },
@@ -240,9 +240,9 @@
         "es": "Anillo Mercenario A"
     },
     "8BKeBw": {
-        "en": "Mercenary Ring type B",
-        "pt": "Anel Mercenário B",
-        "es": "Anillo Mercenario B"
+        "en": "Mercenary Ring type A",
+        "pt": "Anel Mercenário A",
+        "es": "Anillo Mercenario A"
     },
     "8RKeBw": {
         "en": "[Hogar]\nHey, grow up. If you want to upgrade your Mercenary Ring, you must put it on properly first.",
@@ -283,5 +283,10 @@
         "en": "[Hogar]\nHey, did you hear that? The chief guard may be coming.",
         "pt": "[Hogar]\nEi, você ouviu isso? O chefe da guarda pode estar chegando.",
         "es": "[Hogar]\nOye, ¿oíste eso? Puede que venga el jefe de la Guardia."
+    },
+    "+RKeBw": {
+        "en": "Mercenary Ring type B",
+        "pt": "Anel Mercenário B",
+        "es": "Anillo Mercenario B"
     }
 }

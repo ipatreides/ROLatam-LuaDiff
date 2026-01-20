@@ -1223,5 +1223,10 @@
         "en": "[EP13 Translator Quest Preperation]\nTry again.",
         "pt": "[Preparação para a missão do tradutor do EP13]\nTente novamente.",
         "es": "[EP 13: Preparación para la misión del traductor]\nInténtalo de nuevo."
+    },
+    "tZIh": {
+        "en": "- You are carrying too many items to proceed with this quest. -",
+        "pt": "- Você não pode prosseguir com a missão porque tem muitos itens. -",
+        "es": "- Llevas demasiados objetos para continuar con esta misión.-"
     }
 }

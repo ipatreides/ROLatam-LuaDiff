@@ -17,7 +17,7 @@
     "AyChBw": {
         "en": "[{0}]\nThey told me to meet the agent of the Secret Wings. Could it be that person? Well, by no means...",
         "pt": "[{0}]\nMe disseram para encontrar o agente do Vento Secreto. Será aquela pessoa? Não, de jeito nenhum...",
-        "es": "[{0}]\nMe dijeron que me reuniera con el agente de Alas Secretas. ¿Será esa persona? Bueno, de ninguna manera…"
+        "es": "[{0}]\nMe dijeron que me reuniera con el agente del Viento Secreto. ¿Será esa persona? Bueno, de ninguna manera…"
     },
     "BCChBw": {
         "en": "Looks like every moment will be painful if I am together with him.. It must not be him.",
@@ -82,7 +82,7 @@
     "ECChBw": {
         "en": "[{0}]\nIf you are Lazy, you must be the agent of the Secret Wings. Right?",
         "pt": "[{0}]\nSe seu nome é Nalandro, você deve ser o agente do Vento Secreto. Certo?",
-        "es": "[{0}]\nSi eres Lazy, debes ser el agente de Alas Secretas. ¿Verdad?"
+        "es": "[{0}]\nSi eres Lazy, debes ser el agente del Viento Secreto. ¿Verdad?"
     },
     "ESChBw": {
         "en": "[Lazy]\nPipe down~ You must not say that word in a public place like this! You must always be careful! Remember that we are in the middle of a mission!",
@@ -412,7 +412,7 @@
     "UiChBw": {
         "en": "[{0}]\nIs this... a ^0000CDdoghole^000000? I heard the Secret Wings is an executive office of the President. Why are you so needy?",
         "pt": "[{0}]\nAquilo é... um ^0000CDburaco de esgoto^000000? O Vento Secreto é um gabinete executivo do Presidente. Por que essa pobreza?",
-        "es": "[{0}]\n¿Esto es… un ^0000CDhueco de alcantarilla^000000? He oído que Alas Secretas es una oficina ejecutiva del presidente. ¿Por qué eres tan desesperado?"
+        "es": "[{0}]\n¿Esto es… un ^0000CDhueco de alcantarilla^000000? He oído que el Viento Secreto es una oficina ejecutiva del presidente. ¿Por qué eres tan desesperado?"
     },
     "UyChBw": {
         "en": "I can't believe it. This is not what I imagined.",
@@ -2137,7 +2137,7 @@
     "qyGhBw": {
         "en": "[Lazy]\nI am an ^0000CDagent of Secret Wings^000000, an institution directly responsible to the President of Schwartzwald.",
         "pt": "[Nalandro]\nSou um ^0000CDagente do Vento Secreto^000000, uma organização diretamente ligada ao Presidente de Schwartzwald.",
-        "es": "[Lazy]\nSoy un ^0000CDagente de Alas Secretas^000000, una institución que responde directamente al Presidente de Schwaltzwalt."
+        "es": "[Lazy]\nSoy un ^0000CDagente del Viento Secreto^000000, una institución que responde directamente al Presidente de Schwaltzwalt."
     },
     "rCGhBw": {
         "en": "What?",
@@ -2162,7 +2162,7 @@
     "sCGhBw": {
         "en": "He said he is an agent of Secret Wings, an institution directly responsible to the President of Schwartzwald! I heard everything!",
         "pt": "Ele disse que é um agente do Vento Secreto, uma organização ligada ao Presidente de Schwartzwald! Eu ouvi tudo!",
-        "es": "¡Dijo que es un agente de Alas Secretas, una institución que responde directamente al Presidente de Schwaltzwalt! ¡Escuché todo!"
+        "es": "¡Dijo que es un agente del Viento Secreto, una institución que responde directamente al Presidente de Schwaltzwalt! ¡Escuché todo!"
     },
     "sSGhBw": {
         "en": "[{0}]\nThen the store outside the door was a ^0000CDtrickery^000000. The collapsed man is a member of ^0000CDRebellion^000000... That's why...",
@@ -2377,7 +2377,7 @@
     "2yGhBw": {
         "en": "[Lazy]\nAnd I am a member of Secret Wings, an institution directly responsible to the President of Schwartzwald Republic. Since the President guarantees my identification, you don't have to worry.",
         "pt": "[Nalandro]\nE eu sou um agente do Vento Secreto, uma organização diretamente ligada ao Presidente de Schwartzwald. Como o Presidente garante minha identificação, você não precisa se preocupar.",
-        "es": "[Lazy]\nY yo soy miembro de Alas Secretas, una institución que responde directamente al Presidente de la República de Schwaltzvalt. Como el Presidente garantiza mi identidad, no tienen de qué preocuparse."
+        "es": "[Lazy]\nY yo soy miembro del Viento Secreto, una institución que responde directamente al Presidente de la República de Schwaltzvalt. Como el Presidente garantiza mi identidad, no tienen de qué preocuparse."
     },
     "3CGhBw": {
         "en": "Ha!!! That's nonsense!!",
@@ -6353,5 +6353,10 @@
         "en": "You only see a cold and hard wall.",
         "pt": "- Você vê apenas uma parede dura e fria. -",
         "es": "Solo ves una pared fría y dura."
+    },
+    "9yShBw": {
+        "en": "- You are carrying too many items to proceed with this quest. -",
+        "pt": "- Você não pode prosseguir com a missão porque tem muitos itens. -",
+        "es": "- Llevas demasiados objetos para continuar con esta misión.-"
     }
 }

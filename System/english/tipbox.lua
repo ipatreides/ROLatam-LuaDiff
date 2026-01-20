@@ -1008,6 +1008,77 @@ A religious kingdom that worships the goddess Freya and has achieved unity of ch
 				<TIPBOX>- See tip list<INFO>1000</INFO></TIPBOX>]]
 		}
 	},
+	[4107] = {
+		Title = "Episode Reward#Equipment",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			[[
+You can exchange various items using exclusive currencies that can be obtained during certain episodes.
+
+                        <TIPBOX>>Ep16.1 Honor Token Rewards<INFO>4108</INFO></TIPBOX>
+                        <TIPBOX>>Ep16.2 Schwartz's Honor Token Rewards<INFO>4109</INFO></TIPBOX>
+                        <TIPBOX>>Ep17.1 Illusion, OS Series<INFO>4110</INFO></TIPBOX>
+
+                        <TIPBOX>>Episode<INFO>4101</INFO></TIPBOX>
+                        <TIPBOX>>View Tip List<INFO>1000</INFO></TIPBOX>]]
+		}
+	},
+	[4108] = {
+		Title = "Ep16.1 Honor Token Reward#Flattery, Sarcasm, and the City",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"You can exchange the <ITEM>[Token of Honor]<INFO>6919</INFO></ITEM> you obtained while progressing through the episode for various useful items at the Prontera Royal Palace.\n\n                        ^663399§Exchange Location^000000\n                        ><NAVI>[Commissary]<INFO>prt_cas,165,255,0,101,0</INFO></NAVI>\n\n                        ^663399§Equipment Items^000000\n                        <ITEM>[Flattery Robe]<INFO>15146</INFO></ITEM>\n                        <ITEM>[Abusive Robe]<INFO>15147</INFO></ITEM>\n                        <ITEM>[[Costume] Time Décor]<INFO>20246</INFO></ITEM>\n                        <ITEM>[[Costume] Black Hand of Destiny]<INFO>20247</INFO></ITEM>\n                        <ITEM>[City Map]<INFO>28354</INFO></ITEM>\n                        <ITEM>[Shining Holy Water]<INFO>28355</INFO></ITEM>\n                        <ITEM>[Prontera Badge]<INFO>28356</INFO></ITEM>\n                        <ITEM>[Royal Guard Shield]<INFO>28900</INFO></ITEM>\n\n                        ^663399§Other Items^000000\n                        <ITEM>[City Map]<INFO>22899</INFO></ITEM>\n                        <ITEM>[Shining Holy Water]<INFO>11600</INFO></ITEM>\n                        <ITEM>[Prison Keys]<INFO>22848</INFO></ITEM>\n                        <ITEM>[Prontera Badge]<INFO>22847</INFO></ITEM>\n\n                        <TIPBOX>>Episode Rewards<INFO>4107</INFO></TIPBOX>\n                        <TIPBOX>>View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4109] = {
+		Title = "Ep16.2 Schwartz's Honor Token Reward #Republic of Arunafeltz Mercenary Ring",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"You can exchange the <ITEM>[Schwartz's Honor Token]<INFO>25155</INFO></ITEM> obtained during the episode for various useful items at the Rebellion hideout \"Clana Nemieri\" in Einbech.\n\n\t\t\t^663399§Exchange Location^000000\n\t\t\t><NAVI>[Strasse]<INFO>rebel_in,74,67,0,101,0</INFO></NAVI>\n\n\t\t\t^663399§Equipment Items^000000\n\t\t\t<ITEM>[Agenda Robe]<INFO>15163</INFO></ITEM>\n\t\t\t<ITEM>[Consultation Robe]<INFO>15164</INFO></ITEM>\n\t\t\t<ITEM>[Republic Hat]<INFO>19115</INFO></ITEM>\n\t\t\t<ITEM>[[Costume] Combat Vestige]<INFO>20456</INFO></ITEM>\n\t\t\t<ITEM>[Mercenary Ring Type A]<INFO>28425</INFO></ITEM>\n\t\t\t<ITEM>[Mercenary Ring Type B]<INFO>28426</INFO></ITEM>\n\n\t\t\t<TIPBOX>>Episode Rewards<INFO>4107</INFO></TIPBOX>\n\t\t\t<TIPBOX>>View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4110] = {
+		Title = "Ep17.1 Illusion, OS Series#Cor Core Damaged Weapon Inquiry Parts",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"You can exchange the <ITEM>[Broken Weapon]<INFO>25668</INFO></ITEM> and <ITEM>[Core Core]<INFO>25723</INFO></ITEM> you obtained while progressing through the episode for various useful items in the Special Border Area Core.\n\n\t\t\t^663399§Exchange Location^000000\n\t\t\t><NAVI>[Rebellion]<INFO>sp_cor,108,130,0,101,0</INFO></NAVI>\n\n\t\t\t^663399§Illusion Series^000000\n\t\t\t>Exchange for <ITEM>[Core Core]<INFO>25723</INFO></ITEM>.\n\t\t\t<ITEM>[Illusion Armor Type A]<INFO>15376</INFO></ITEM>\n\t\t\t<ITEM>[Illusion Armor Type B]<INFO>15377</INFO></ITEM>\n\t\t\t<ITEM>[Illusion Engine Wing Type A]<INFO>20933</INFO></ITEM>\n\t\t\t<ITEM>[Illusion Engine Wing Type B]<INFO>20934</INFO></ITEM>\n\t\t\t<ITEM>[Illusion Leg Type A]<INFO>22196</INFO></ITEM>\n\t\t\t<ITEM>[Illusion Leg Type B]<INFO>22197</INFO></ITEM>\n\t\t\t<ITEM>[Illusion Booster R]<INFO>32207</INFO></ITEM>\n\t\t\t<ITEM>[Illusion Booster L]<INFO>32208</INFO></ITEM>\n\t\t\t<ITEM>[Illusion Battle Chip R]<INFO>32209</INFO></ITEM>\n\t\t\t<ITEM>[Illusion Battle Chip L]<INFO>32210</INFO></ITEM>\n\n\t\t\t^663399§OS Weapon Series^000000\n\t\t\t>Obtain a random OS weapon using <ITEM>[Mysterious Component]<INFO>25669</INFO></ITEM> and <ITEM>[Broken Weapon]<INFO>25668</INFO></ITEM>.\n\t\t\t<ITEM>[Cannon Rapier-OS]<INFO>13493</INFO></ITEM>\n\t\t\t<ITEM>[Beam Claymore-OS]<INFO>21047</INFO></ITEM>\n\t\t\t<ITEM>[Rutilus Stick-OS]<INFO>26151</INFO></ITEM>\n\t\t\t<ITEM>[Circuit Board-OS]<INFO>28629</INFO></ITEM>\n\t\t\t<ITEM>[Blasti-OS]<INFO>28136</INFO></ITEM>\n\t\t\t<ITEM>[Zaphier Hall-OS]<INFO>16088</INFO></ITEM>\n\t\t\t<ITEM>[Virtual Bow-OS]<INFO>18178</INFO></ITEM>\n\t\t\t<ITEM>[MH-P89-OS]<INFO>18179</INFO></ITEM>\n\t\t\t<ITEM>[Moisura-OS]<INFO>28038</INFO></ITEM>\n\t\t\t<ITEM>[Burning Knuckle-OS]<INFO>1862</INFO></ITEM>\n\t\t\t<ITEM>[HR-S55-OS]<INFO>28253</INFO></ITEM>\n\t\t\t<ITEM>[Kuroiro-OS]<INFO>28755</INFO></ITEM>\n\t\t\t<ITEM>[AC-B44-OS]<INFO>18180</INFO></ITEM>\n\t\t\t<ITEM>[Boost Lance-OS]<INFO>32019</INFO></ITEM>\n\t\t\t<ITEM>[Electric Fox-OS]<INFO>26164</INFO></ITEM>\n\t\t\t<ITEM>[Ultio-OS]<INFO>16089</INFO></ITEM>\n\n\t\t\t<TIPBOX>>Appears in Ep17.1, Illusion<INFO>7055</INFO></TIPBOX>\n\t\t\t<TIPBOX>>Episode Rewards<INFO>4107</INFO></TIPBOX>\n\t\t\t<TIPBOX>>View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4112] = {
+		Title = "Ep16.1 Noblesse Series#100",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"You can exchange the <ITEM>[Token of Honor]<INFO>6919</INFO></ITEM> you obtained while progressing through the episode for Noblesse armor at the Prontera Royal Palace. The items available for exchange differ depending on your job.\n\t\t\t^663399§Exchange Eligibility: Level 100 or higher^000000\n\n\t\t\t^663399§Exchange Location^000000\n\t\t\t><NAVI>[Noblesse Exchange Officer]<INFO>prt_cas,165,260,0,101,0</INFO></NAVI>\n\n\t\t\t^663399§Common Items^000000\n\t\t\t<ITEM>[Noblesse Attack Ring]<INFO>490014</INFO></ITEM>\n\t\t\t<ITEM>[Noblesse Magic Ring]<INFO>490015</INFO></ITEM>\n\t\t\t<ITEM>[Noblesse Attack Manteau]<INFO>480012</INFO></ITEM>\n\t\t\t<ITEM>[Noblesse Magic Manteau]<INFO>480014</INFO></ITEM>\n\t\t\t<ITEM>[Noblesse Attack Boots]<INFO>470016</INFO></ITEM>\n\t\t\t<ITEM>[Noblesse Magic Boots]<INFO>470017</INFO></ITEM>\n\t\t\t<ITEM>[Noblesse Refine Ticket]<INFO>100128</INFO></ITEM>\n\n\t\t\t^663399§Job-Specific Items^000000\n\t\t\t<ITEM>[Noblesse Breath Armor]<INFO>450018</INFO></ITEM>\n\t\t\t<ITEM>[Noblesse Knight Armor]<INFO>450019</INFO></ITEM>\n\t\t\t<ITEM>[Noblesse Spear Armor]<INFO>450020</INFO></ITEM>\n\t\t\t<ITEM>[Noblesse Genesis Armor]<INFO>450021</INFO></ITEM>\n\t\t\t<ITEM>[Noblesse Sharp Suit]<INFO>450022</INFO></ITEM>\n\t\t\t<ITEM>[Noblesse Aimed Suit]<INFO>450023</INFO></ITEM>\n\t\t\t<ITEM>[Noblesse Severe Suit]<INFO>450024</INFO></ITEM>\n\t\t\t<ITEM>[Noblesse Reverb Suit]<INFO>450025</INFO></ITEM>\n\t\t\t<ITEM>[Noblesse Adora Robe]<INFO>450026</INFO></ITEM>\n\t\t\t<ITEM>[Noblesse Duple Robe]<INFO>450027</INFO></ITEM>\n\t\t\t<ITEM>[Noblesse Knuckle Suit]<INFO>450050</INFO></ITEM>\n\t\t\t<ITEM>[Noblesse Tiger Suit]<INFO>450051</INFO></ITEM>\n\t\t\t<ITEM>[Noblesse Tornado Armor]<INFO>450028</INFO></ITEM>\n\t\t\t<ITEM>[Noblesse Vulcan Armor]<INFO>450029</INFO></ITEM>\n\t\t\t<ITEM>[Noblesse Cart Cannon Suit]<INFO>450030</INFO></ITEM>\n\t\t\t<ITEM>[Noblesse Cart Tornado Suit]<INFO>450031</INFO></ITEM>\n\t\t\t<ITEM>[Noblesse Rolling Suit]<INFO>450032</INFO></ITEM>\n\t\t\t<ITEM>[Noblesse Assassin Suit]<INFO>450033</INFO></ITEM>\n\t\t\t<ITEM>[Noblesse Fatal Suit]<INFO>450034</INFO></ITEM>\n\t\t\t<ITEM>[Noblesse Stalker Suit]<INFO>450035</INFO></ITEM>\n\t\t\t<ITEM>[Noblesse Picky Robe]<INFO>450036</INFO></ITEM>\n\t\t\t<ITEM>[Noblesse Catnip Robe]<INFO>450037</INFO></ITEM>\n\t\t\t<ITEM>[Noblesse Trip Suit]<INFO>450038</INFO></ITEM>\n\t\t\t<ITEM>[Noblesse Fire Rain Suit]<INFO>450039</INFO></ITEM>\n\t\t\t<ITEM>[Noblesse Crimson Robe]<INFO>450040</INFO></ITEM>\n\t\t\t<ITEM>[Noblesse Frost Robe]<INFO>450041</INFO></ITEM>\n\t\t\t<ITEM>[Noblesse Psychic Robe]<INFO>450042</INFO></ITEM>\n\t\t\t<ITEM>[Noblesse Dust Robe]<INFO>450043</INFO></ITEM>\n\t\t\t<ITEM>[Noblesse Sun Suit]<INFO>450044</INFO></ITEM>\n\t\t\t<ITEM>[Noblesse Moon Suit]<INFO>450045</INFO></ITEM>\n\t\t\t<ITEM>[Noblesse Ninja Suit]<INFO>450046</INFO></ITEM>\n\t\t\t<ITEM>[Noblesse Kunai Suit]<INFO>450047</INFO></ITEM>\n\t\t\t<ITEM>[Noblesse Eswhoo Robe]<INFO>450048</INFO></ITEM>\n\t\t\t<ITEM>[Noblesse Explosion Robe]<INFO>450049</INFO></ITEM>\n\t\t\t<ITEM>[Noblesse Super Novice Suit]<INFO>450121</INFO></ITEM>\n\t\t\t<ITEM>[Noblesse Super Novice Robe]<INFO>450122</INFO></ITEM>\n\n\t\t\t<TIPBOX>>Ep16.1 Banquet for Heroes<INFO>8118</INFO></TIPBOX>\n\t\t\t<TIPBOX>>Episode Rewards<INFO>4107</INFO></TIPBOX>\n\t\t\t<TIPBOX>>View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4113] = {
+		Title = "Ep16.2 Imperial Series#125",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"You can exchange the <ITEM>[Schwartz's Honor Token]<INFO>25155</INFO></ITEM> obtained during the episode for Imperial armor at the Rebellion hideout \"Clana Nemieri\" in Einbech. The items available for exchange differ depending on your job class.\n\t\t\t^663399§Exchange Eligibility: Level 125 or higher^000000\n\n\t\t\t^663399§Exchange Location^000000\n\t\t\t><NAVI>[Imperial Exchanger Officer]<INFO>rebel_in,99,51,0,101,0</INFO></NAVI>\n\n\t\t\t^663399§Common Items^000000\n\t\t\t<ITEM>[Imperial Attack Ring]<INFO>490017</INFO></ITEM>\n\t\t\t<ITEM>[Imperial Magic Ring]<INFO>490018</INFO></ITEM>\n\t\t\t<ITEM>[Imperial Attack Manteau]<INFO>480016</INFO></ITEM>\n\t\t\t<ITEM>[Imperial Magic Manteau]<INFO>480017</INFO></ITEM>\n\t\t\t<ITEM>[Imperial Attack Boots]<INFO>470018</INFO></ITEM>\n\t\t\t<ITEM>[Imperial Magic Boots]<INFO>470019</INFO></ITEM>\n\t\t\t<ITEM>[Imperial Refine Ticket]<INFO>100129</INFO></ITEM>\n\t\t\t\n\t\t\t>Imperial Modification Permits\n\t\t\t<ITEM>[Physical Modification Permit (Manteau)]<INFO>100131</INFO></ITEM>\n\t\t\t<ITEM>[Magic Modification Permit (Manteau)]<INFO>100132</INFO></ITEM>\n\t\t\t<ITEM>[Physical Modification Permit (Armor)]<INFO>100135</INFO></ITEM>\n\t\t\t<ITEM>[Magic Modification Permit (Armor)]<INFO>100136</INFO></ITEM>\n\n\t\t\t^663399§Job-Specific Items^000000\n\t\t\t<ITEM>[Imperial Breath Armor]<INFO>450052</INFO></ITEM>\n\t\t\t<ITEM>[Imperial Knight Armor]<INFO>450053</INFO></ITEM>\n\t\t\t<ITEM>[Imperial Spear Armor]<INFO>450054</INFO></ITEM>\n\t\t\t<ITEM>[Imperial Genesis Armor]<INFO>450055</INFO></ITEM>\n\t\t\t<ITEM>[Imperial Sharp Suit]<INFO>450056</INFO></ITEM>\n\t\t\t<ITEM>[Imperial Aimed Suit]<INFO>450057</INFO></ITEM>\n\t\t\t<ITEM>[Imperial Severe Suit]<INFO>450058</INFO></ITEM>\n\t\t\t<ITEM>[Imperial Reverb Suit]<INFO>450059</INFO></ITEM>\n\t\t\t<ITEM>[Imperial Adora Robe]<INFO>450060</INFO></ITEM>\n\t\t\t<ITEM>[Imperial Duple Robe]<INFO>450061</INFO></ITEM>\n\t\t\t<ITEM>[Imperial Knuckle Suit]<INFO>450062</INFO></ITEM>\n\t\t\t<ITEM>[Imperial Tiger Suit]<INFO>450063</INFO></ITEM>\n\t\t\t<ITEM>[Imperial Tornado Armor]<INFO>450064</INFO></ITEM>\n\t\t\t<ITEM>[Imperial Vulcan Armor]<INFO>450065</INFO></ITEM>\n\t\t\t<ITEM>[Imperial Cart Cannon Suit]<INFO>450066</INFO></ITEM>\n\t\t\t<ITEM>[Imperial Cart Tornado Suit]<INFO>450067</INFO></ITEM>\n\t\t\t<ITEM>[Imperial Rolling Suit]<INFO>450068</INFO></ITEM>\n\t\t\t<ITEM>[Imperial Assassin Suit]<INFO>450069</INFO></ITEM>\n\t\t\t<ITEM>[Imperial Fatal Suit]<INFO>450070</INFO></ITEM>\n\t\t\t<ITEM>[Imperial Stalker Suit]<INFO>450071</INFO></ITEM>\n\t\t\t<ITEM>[Imperial Picky Robe]<INFO>450072</INFO></ITEM>\n\t\t\t<ITEM>[Impeiral Catnip Robe]<INFO>450073</INFO></ITEM>\n\t\t\t<ITEM>[Imperial Trip Suit]<INFO>450074</INFO></ITEM>\n\t\t\t<ITEM>[Imperial Fire Rain Suit]<INFO>450075</INFO></ITEM>\n\t\t\t<ITEM>[Imperial Crimson Robe]<INFO>450076</INFO></ITEM>\n\t\t\t<ITEM>[Imperial Frost Robe]<INFO>450077</INFO></ITEM>\n\t\t\t<ITEM>[Imperial Psychic Robe]<INFO>450078</INFO></ITEM>\n\t\t\t<ITEM>[Imperial Dust Robe]<INFO>450079</INFO></ITEM>\n\t\t\t<ITEM>[Imperial Sun Suit]<INFO>450080</INFO></ITEM>\n\t\t\t<ITEM>[Imperial Moon Suit]<INFO>450081</INFO></ITEM>\n\t\t\t<ITEM>[Imperial Ninja Suit]<INFO>450082</INFO></ITEM>\n\t\t\t<ITEM>[Imperial Kunai Suit]<INFO>450083</INFO></ITEM>\n\t\t\t<ITEM>[Imperial Eswhoo Robe]<INFO>450084</INFO></ITEM>\n\t\t\t<ITEM>[Imperial Explosion Robe]<INFO>450085</INFO></ITEM>\n\t\t\t<ITEM>[Imperial Super Novice Suit]<INFO>450123</INFO></ITEM>\n\t\t\t<ITEM>[Imperial Super Novice Robe]<INFO>450124</INFO></ITEM>\n\n\t\t\t<TIPBOX>>Ep16.2 Terra Gloria<INFO>8143</INFO></TIPBOX>\n\t\t\t<TIPBOX>>Episode Rewards<INFO>4107</INFO></TIPBOX>\n\t\t\t<TIPBOX>>View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[4114] = {
+		Title = "Ep17.1 Grace Series#150",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"You can exchange the <ITEM>[Core Core]<INFO>25723</INFO></ITEM> and <ITEM>[Mysterious Component]<INFO>25669</INFO></ITEM> obtained during the episode for Grace armor in the Special Border Area, Core. The items available for exchange differ depending on your job class.\n\t\t\t^663399§Exchange Eligibility: Level 150 or higher^000000\n\t\t\t\n\t\t\t^663399§Exchange Location^000000\n\t\t\t><NAVI>[Grace Exchange Officer]<INFO>sp_cor,136,156,0,101,0</INFO></NAVI>\n\t\t\t\n\t\t\t^663399§Common Items^000000\n\t\t\t<ITEM>[Grace Attack Ring]<INFO>490019</INFO></ITEM>\n\t\t\t<ITEM>[Grace Magic Ring]<INFO>490020</INFO></ITEM>\n\t\t\t<ITEM>[Grace Attack Manteau]<INFO>480018</INFO></ITEM>\n\t\t\t<ITEM>[Grace Magic Manteau]<INFO>480019</INFO></ITEM>\n\t\t\t<ITEM>[Grace Attack Boots]<INFO>470020</INFO></ITEM>\n\t\t\t<ITEM>[Grace Magic Boots]<INFO>470021</INFO></ITEM>\n\t\t\t<ITEM>[Grace Refine Ticket]<INFO>100130</INFO></ITEM>\n\t\t\t\n\t\t\t>Grace Modification Permits\n\t\t\t<ITEM>[Physical Modification Permit (Manteau)]<INFO>100133</INFO></ITEM>\n\t\t\t<ITEM>[Magic Modification Permit (Manteau)]<INFO>100134</INFO></ITEM>\n\t\t\t<ITEM>[Physical Modification Permit (Armor)]<INFO>100137</INFO></ITEM>\n\t\t\t<ITEM>[Magic Modification Permit (Armor)]<INFO>100138</INFO></ITEM>\n\t\t\t\n\t\t\t^663399§Job-Specific Items^000000\n\t\t\t<ITEM>[Grace Breath Armor]<INFO>450086</INFO></ITEM>\n\t\t\t<ITEM>[Grace Knight Armor]<INFO>450087</INFO></ITEM>\n\t\t\t<ITEM>[Grace Spear Armor]<INFO>450088</INFO></ITEM>\n\t\t\t<ITEM>[Grace Genesis Armor]<INFO>450089</INFO></ITEM>\n\t\t\t<ITEM>[Grace Sharp Suit]<INFO>450090</INFO></ITEM>\n\t\t\t<ITEM>[Grace Aimed Suit]<INFO>450091</INFO></ITEM>\n\t\t\t<ITEM>[Grace Severe Suit]<INFO>450092</INFO></ITEM>\n\t\t\t<ITEM>[Grace Reverb Suit]<INFO>450093</INFO></ITEM>\n\t\t\t<ITEM>[Grace Adora Robe]<INFO>450094</INFO></ITEM>\n\t\t\t<ITEM>[Grace Duple Robe]<INFO>450095</INFO></ITEM>\n\t\t\t<ITEM>[Grace Knuckle Suit]<INFO>450096</INFO></ITEM>\n\t\t\t<ITEM>[Grace Tiger Suit]<INFO>450097</INFO></ITEM>\n\t\t\t<ITEM>[Grace Tornado Armor]<INFO>450098</INFO></ITEM>\n\t\t\t<ITEM>[Grace Vulcan Armor]<INFO>450099</INFO></ITEM>\n\t\t\t<ITEM>[Grace Cart Cannon Suit]<INFO>450100</INFO></ITEM>\n\t\t\t<ITEM>[Grace Cart Tornado Suit]<INFO>450101</INFO></ITEM>\n\t\t\t<ITEM>[Grace Rolling Suit]<INFO>450102</INFO></ITEM>\n\t\t\t<ITEM>[Grace Assassin Suit]<INFO>450103</INFO></ITEM>\n\t\t\t<ITEM>[Grace Fatal Suit]<INFO>450104</INFO></ITEM>\n\t\t\t<ITEM>[Grace Stalker Suit]<INFO>450105</INFO></ITEM>\n\t\t\t<ITEM>[Grace Picky Robe]<INFO>450106</INFO></ITEM>\n\t\t\t<ITEM>[Grace Catnip Robe]<INFO>450107</INFO></ITEM>\n\t\t\t<ITEM>[Grace Trip Suit]<INFO>450108</INFO></ITEM>\n\t\t\t<ITEM>[Grace Fire Rain Suit]<INFO>450109</INFO></ITEM>\n\t\t\t<ITEM>[Grace Crimson Robe]<INFO>450110</INFO></ITEM>\n\t\t\t<ITEM>[Grace Frost Robe]<INFO>450111</INFO></ITEM>\n\t\t\t<ITEM>[Grace Psychic Robe]<INFO>450112</INFO></ITEM>\n\t\t\t<ITEM>[Grace Dust Robe]<INFO>450113</INFO></ITEM>\n\t\t\t<ITEM>[Grace Sun Suit]<INFO>450114</INFO></ITEM>\n\t\t\t<ITEM>[Grace Moon Suit]<INFO>450115</INFO></ITEM>\n\t\t\t<ITEM>[Grace Ninja Suit]<INFO>450116</INFO></ITEM>\n\t\t\t<ITEM>[Grace Kunai Suit]<INFO>450117</INFO></ITEM>\n\t\t\t<ITEM>[Grace Eswhoo Robe]<INFO>450118</INFO></ITEM>\n\t\t\t<ITEM>[Grace Explosion Robe]<INFO>450119</INFO></ITEM>\n\t\t\t<ITEM>[Grace Super Novice Suit]<INFO>450125</INFO></ITEM>\n\t\t\t<ITEM>[Grace Super Novice Robe]<INFO>450126</INFO></ITEM>\n\t\t\t\n\t\t\t<TIPBOX>>Ep17.1 Appearance, Illusion<INFO>7055</INFO></TIPBOX>\n\t\t\t<TIPBOX>>Episode Rewards<INFO>4107</INFO></TIPBOX>\n\t\t\t<TIPBOX>>View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
 	[4193] = {
 		Title = "Monster Society",
 		Search = 1,
@@ -1215,13 +1286,222 @@ A religious kingdom that worships the goddess Freya and has achieved unity of ch
 			"There is a hunting mission in the surroundings of Rachel. Talk to the Agent to start.\n\t\t\tMap: Rachel Surroundings\n\t\t\tTarget: Desert Wolf, Roween, Anopheles\n\t\t\t^663399Minimum Level: 88^000000\n\t\t\t\n\t\t\t<NAVI>[Agent Siaro]<INFO>ra_fild01,224,319,0,101,0</INFO></NAVI>\n\t\t\t\n\t\t\t<TIPBOX>» Monster Society<INFO>4193</INFO></TIPBOX>\n\t\t\t<TIPBOX>» Home Page<INFO>1000</INFO></TIPBOX>"
 		}
 	},
+	[7055] = {
+		Title = "Episode 17.1 Appearance, Illusion#Quest Episode",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip07055",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"The Republic, which had been lying low within Schwarzwald, finally spreads its wings!\n\n\t\t\t\t\tThe Secret Wings and Rebellion have formed a temporary alliance.\n\t\t\t\t\tBefore they begin to sever the hands and feet of the corporations in earnest, they establish an operational base in Einbroch for greater mobility.\n\n\t\t\t\t\tA tense strike operation begins at PUB Bullet Cat!\n\n\t\t\t\t\t<TIPBOX>Ø Ep.16.2 Terra Golria<INFO>8149</INFO></TIPBOX> Complete\n\t\t\t\t\t^663399» Level 110 or higher^000000\n\n\t\t\t\t\tØ Starting Quest\n\t\t\t\t\t<TIPBOX>Q New Operation Area <INFO>7056</INFO></TIPBOX>\n\n\t\t\t\t\tØ Main Quests\n\t\t\t\t\t<TIPBOX>Q Corporate Crisis<INFO>7057</INFO></TIPBOX>\n\t\t\t\t\t<TIPBOX>Q Job Road 01<INFO>7058</INFO></TIPBOX>\n\t\t\t\t\t<TIPBOX>Q Old Memories<INFO>7059</INFO></TIPBOX>\n\t\t\t\t\t<TIPBOX>Q Sky Seen from the Well<INFO>7060</INFO></TIPBOX>\n\t\t\t\t\t<TIPBOX>Q Pure Mischief<INFO>7061</INFO></TIPBOX>\n\n\t\t\t\t\tØ Sub Quests\n\t\t\t\t\t<TIPBOX>Q Os Occupation Operation<INFO>7062</INFO></TIPBOX>\n\t\t\t\t\t<TIPBOX>Q Job Road 02<INFO>7063</INFO></TIPBOX>\n\t\t\t\t\t<TIPBOX>Q Morning Story<INFO>7064</INFO></TIPBOX>\n\n\t\t\t\t\tØ Daily Quests\n\t\t\t\t\t<TIPBOX>Q Mercenary vs Mercenary<INFO>7065</INFO></TIPBOX>\n\t\t\t\t\t<TIPBOX>Q Farmhand<INFO>7066</INFO></TIPBOX>\n\t\t\t\t\t<TIPBOX>Q EL1_A17T Suppression Operation<INFO>7067</INFO></TIPBOX>\n\t\t\t\t\t\n\t\t\t\t\t<TIPBOX>Ø Ep17.1 Illusion, OS Series<INFO>4110</INFO></TIPBOX>\n\t\t\t\t\t<TIPBOX>Ø Ep17.1 Grace Series<INFO>4114</INFO></TIPBOX>\n\n\t\t\t\t\t<TIPBOX>Ø View Episode 17<INFO>4106</INFO></TIPBOX>\n\t\t\t\t\t<TIPBOX>Ø View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[7056] = {
+		Title = "Q New Operation Area (110)#Quest Episode 17.1 Illusion Start",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"The PUB Bullet Cat located in Einbroch. In this seemingly ordinary tavern, government official Tess and the Rebellion begin an operation to raid the secret facility of the corporate laboratory.\n\n\t\t\t<TIPBOX>Ø Ep.16.2 Terra Golria<INFO>8149</INFO></TIPBOX> Complete\n\t\t\t^663399» Level 110 or higher^000000\n\n\t\t\t<NAVI>[Philopontes]<INFO>pub_cat,93,105,0,101,0</INFO></NAVI>\n\n\t\t\t<TIPBOX>Ø Back to previous page<INFO>7055</INFO></TIPBOX>\n\t\t\t<TIPBOX>Ø View tip list<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[7057] = {
+		Title = "Q Corporate Crisis (110)#Quest Episode 17.1Illusion",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"After confirming the true nature of Ludus and returning, the adventurer is introduced to a corporate representative by Tess.\n\tThe person who requests your help to reclaim Regen Schirm, a subsidiary research lab of Rekenber that has been taken over by mysterious assailants, is...?\n\n\t<TIPBOX>Ø New Operation Area<INFO>7056</INFO></TIPBOX> Complete\n\t^663399» Level 110 or higher^000000\n\n\t<NAVI>[Philopontes]<INFO>pub_cat,93,105,0,101,0</INFO></NAVI>\n\n\t<TIPBOX>Ø Back to previous page<INFO>7055</INFO></TIPBOX>\n\t<TIPBOX>Ø View tip list<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[7058] = {
+		Title = "Q Job Road 01 (110)#Quest Episode 17.1Illusion",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"After receiving a new mission from the President, Leizi is fuming with anger in one of Bullet Cat's small rooms.\n\tThe opponent this time is Kaya Tos, the vice president of Rekenber.\n\tWill these two, who are about to embark on a journey to uncover the hidden truth, be able to reach the end safely?\n\n\t<TIPBOX>Ø Corporate Crisis<INFO>7057</INFO></TIPBOX> Complete\n\t^663399» Level 110 or higher^000000\n\n\t<NAVI>[Leizi]<INFO>pub_cat,106,69,0,101,0</INFO></NAVI>\n\n\t<TIPBOX>Ø Back to previous page<INFO>7055</INFO></TIPBOX>\n\t<TIPBOX>Ø View tip list<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[7059] = {
+		Title = "Q Old Memories (110)#Quest Episode 17.1Illusion",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"The old mines of Einbroch have already been closed, but some corporate researchers are repurposing them for new uses.\n\tTo strike at these illegal facilities, the elders of the Rebellion have stepped forward. After all, they're still active.\n\n\t<TIPBOX>Ø Job Road 01<INFO>7058</INFO></TIPBOX> Complete\n\t^663399» Level 110 or higher^000000\n\n\t<NAVI>[Rebellion Member]<INFO>ein_fild03,278,269,0,101,0</INFO></NAVI>\n\n\t<TIPBOX>Ø Back to previous page<INFO>7055</INFO></TIPBOX>\n\t<TIPBOX>Ø View tip list<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[7060] = {
+		Title = "Q The Sky Seen from the Well (110) #QuestEpisode17.1 Illusion",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"After much effort, you finally arrive at the entrance to Core, where the local workers—unaware of the situation—are facing off against the Rebellion vanguard.\n\tEven Kaya, the vice president of Rekenber, steps in to persuade them, but it’s not easy. As everyone is struggling to find a solution, a mysterious assailant suddenly appears and launches an attack...?\n\n\t<TIPBOX>Ø Old Memories<INFO>7059</INFO></TIPBOX> Complete\n\t^663399» Level 110 or higher^000000\n\n\t<NAVI>[Rebellion]<INFO>sp_cor,168,81,0,101,0</INFO></NAVI>\n\n\t<TIPBOX>Ø Back to previous page<INFO>7055</INFO></TIPBOX>\n\t<TIPBOX>Ø View tip list<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[7061] = {
+		Title = "Q Pure Mischief (110)#Quest Episode 17.1Illusion",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"The escaped researcher Eliumina is evading pursuit by engaging in guerrilla tactics.\n\tBelieving that leaving Eliumina unchecked would make both the search and recovery difficult, Rebellion decides to seal off Core and launch a large-scale search operation.\n\n\t<TIPBOX>Ø The Sky Seen from the Well<INFO>7060</INFO></TIPBOX> Complete\n\t^663399» Level 110 or higher^000000\n\n\t<NAVI>[Rebellion]<INFO>sp_cor,108,130,0,101,0</INFO></NAVI>\n\n\t<TIPBOX>Ø Back to Previous Page<INFO>7055</INFO></TIPBOX>\n\t<TIPBOX>Ø View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[7062] = {
+		Title = "Q Os Occupation Operation (110)#Episode 17.1 Illusion Daily Quest",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"The advance party has secured the Os railway transport route, but it’s not perfect yet.\n\t\t\tYou must help with the extermination battle to fully take control of Os and prepare for Illusion's counterattack.\n\n\t\t\t- There is a daily quest available after completing the main quest.\n\t\t\tOs Second Search (110)\n\n\t\t\t<TIPBOX>Ø Old Memories<INFO>7059</INFO></TIPBOX> Complete\n\t\t\t^663399» Level 110 or higher^000000\n\n\t\t\t<NAVI>[Est]<INFO>sp_cor,162,56,0,101,0</INFO></NAVI>\n\n\t\t\t<TIPBOX>Ø Back to previous page<INFO>7055</INFO></TIPBOX>\n\t\t\t<TIPBOX>Ø View tip list<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[7063] = {
+		Title = "Q Job Road 02 (110)#Episode 17.1 Illusion Daily Quest",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Kor, where the Illusions gathered to conduct research. Kaya, convinced that this was the laboratory where the missing persons who had been employed by the Rekenber Corporation were transferred, continues to ask the adventurer to investigate the missing people.\n\n\t\t\t- A daily quest becomes available after completing the quest.\n\t\t\tBracelet Collection (110)\n\n\t\t\t<TIPBOX>Ø The Sky Seen from the Well<INFO>7060</INFO></TIPBOX> Complete\n\t\t\t^663399» Level 110 or higher^000000\n\n\t\t\t<NAVI>[Kaya Tos]<INFO>sp_cor,136,146,0,101,0</INFO></NAVI>\n\n\t\t\t<TIPBOX>Ø Back to Previous Page<INFO>7055</INFO></TIPBOX>\n\t\t\t<TIPBOX>Ø View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[7064] = {
+		Title = "Q Morning Story (110)#Episode 17.1 Illusion Daily Quest",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Even in Ludus, the place where discarded test subjects have outlived their usefulness, morning still arrives. Even for the child abandoned in the morning, Morning, breakfast is a necessity. How about delivering meals to Morning every day and making a new friend?\n\n\t\t\t- After completing the quest, a daily quest becomes available.\n\t\t\tMeal Delivery (110)\n\n\t\t\t<TIPBOX>Ø New Operation Area<INFO>7056</INFO></TIPBOX> Complete\n\t\t\t^663399» Level 110 or higher^000000\n\n\t\t\t<NAVI>[Land with Something Buried]<INFO>sp_rudus,124,195,0,101,0</INFO></NAVI>\n\n\t\t\t<TIPBOX>Ø Back to Previous Page<INFO>7055</INFO></TIPBOX>\n\t\t\t<TIPBOX>Ø View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[7065] = {
+		Title = "Q Mercenary vs Mercenary (110)#Episode 17.1 Illusion Daily Quest",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"The Rebellion are continuing their extermination and reconnaissance missions against Oth. However, they're facing difficulties due to the endless stream of enemies. Let's help them and show what true mercenaries are made of.\n\n\t\t\t<TIPBOX>Ø Old Memories<INFO>7059</INFO></TIPBOX> Complete\n\t\t\t^663399» Level 110 or higher^000000\n\n\t\t\t<NAVI>[Yuslan]<INFO>sp_cor,155,94,0,101,0</INFO></NAVI>\n\n\t\t\t<TIPBOX>Ø Back to previous page<INFO>7055</INFO></TIPBOX>\n\t\t\t<TIPBOX>Ø View tip list<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[7066] = {
+		Title = "Q Farmhand (110)#Episode 17.1 Illusion Daily Quest",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Although Cor, the laboratory where brutal experiments have taken place, is known for its dark history, all kinds of crops are growing in one corner. After all, researchers and workers still need to eat to survive.\n\t\t\tWhy not take a break and help tend to the crops, giving yourself a moment to breathe while lending a hand where help is needed?\n\n\t\t\t<TIPBOX>Ø Pure Mischief<INFO>7061</INFO></TIPBOX> Complete\n\t\t\t^663399» Level 110 or higher^000000\n\n\t\t\t<NAVI>[Farm Worker]<INFO>sp_cor,246,97,0,101,0</INFO></NAVI>\n\n\t\t\t<TIPBOX>Ø Back to previous page<INFO>7055</INFO></TIPBOX>\n\t\t\t<TIPBOX>Ø View tip list<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[7067] = {
+		Title = "Q EL1_A17T Suppression Operation (110) #Episode 17.1 Illusion Daily Quest MD Memorial",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Did the children of Eliumina betray Eliumina? That's only half true.\n\t\t\tThe children of Eliumina have switched to low-power mode and are hiding somewhere in Core. However, due to the strong stimulus of adventurers, they have broken free from Eliumina's control, making it impossible to forcibly shut them down.\n\t\t\tThe only way is to continuously drain their power through persistent combat!\n\n\t\t\t<TIPBOX>Ø Pure Mischief<INFO>7061</INFO></TIPBOX> Complete\n\t\t\t^663399» Level 110 or higher^000000\n\n\t\t\t<NAVI>[Rebellion]<INFO>sp_cor,113,130,0,101,0</INFO></NAVI>\n\n\t\t\t<TIPBOX>Ø Back to previous page<INFO>7055</INFO></TIPBOX>\n\t\t\t<TIPBOX>Ø View tip list<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[7119] = {
+		Title = "MD 17.1 Regenchirm Recapture Operation (110)",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"An operation to reclaim Regenschirm, the Rekenber subsidiary research lab, which has been taken over by assailants.\n\t\t\t\t\tWe are commencing the infiltration now!\n\t\t\t\t\t\n\t\t\t\t\t§ Prerequisite: <TIPBOX>Corporate Crisis<INFO>7057</INFO></TIPBOX> completed\n\t\t\t\t\t\n\t\t\t\t\t§ Dungeon Details\n\t\t\t\t\t\t\t> One-time scenario mode\n\t\t\t\t\t\t\t> Time limit: 60 minutes\n\t\t\t\t\t\t\t> Level 110 or higher\n\t\t\t\t\t\t\t\n\t\t\t\t\t<NAVI>[Rekenber Guard Oscar]<INFO>lighthalzen,55,278,0,101,0</INFO></NAVI>\n\t\t\t\t\t\n\t\t\t\t\t<TIPBOX>>Back to previous page<INFO>7107</INFO></TIPBOX>\n\t\t\t\t\t<TIPBOX>>View tip list<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[7120] = {
+		Title = "MD 17.1 Sealed Os - Os Breakthrough (110)",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"The old mines of Einbroch have already been closed, but some corporate researchers are repurposing them for new uses. Illegal facilities should be dismantled, right?\n\n\t§ Prerequisite: <TIPBOX>Job Road 01<INFO>7058</INFO></TIPBOX> completed\n\n\t§ Dungeon Details\n\t\t> One-time scenario mode (re-entry allowed)\n\t\t> Time limit: 60 minutes\n\t\t> Level 110 or higher required\n\n\t<NAVI>[Rebellion Member]<INFO>ein_fild03,278,269,0,101,0</INFO></NAVI>\n\n\t§ <TIPBOX>Dungeon Clear Rewards<INFO>4110</INFO></TIPBOX>\n\n\t<TIPBOX>>Back to Previous Page<INFO>7107</INFO></TIPBOX>\n\t<TIPBOX>>View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[7121] = {
+		Title = "MD 17.1 Os Occupation Operation (110)",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"The advance party has secured the railway transport route of Os, but it is not yet perfect.\n\tTo prepare for a counterattack from Illusion, you must assist in the extermination battle and fully take control of Os.\n\n\t§ Prerequisite: Complete <TIPBOX>Old Memories<INFO>7059</INFO></TIPBOX>\n\n\t§ Dungeon Details\n\t\t> One-time scenario mode\n\t\t> Time limit: 60 minutes\n\t\t> Level 110 or higher\n\n\t<NAVI>[Est]<INFO>sp_cor,163,56,0,101,0</INFO></NAVI>\n\n\t<TIPBOX>>Back to previous page<INFO>7107</INFO></TIPBOX>\n\t<TIPBOX>>View tip list<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[7122] = {
+		Title = "MD 17.1 Os Second Search (110)",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Although the initial suppression was achieved through the extermination operation, mutants continue to appear. It seems that only consistent re-search and elimination is the answer.\n\n\t§ Prerequisite: <TIPBOX>Os Occupation Operation<INFO>7121</INFO></TIPBOX> completed\n\n\t§ Dungeon Details\n\t\t> Can be attempted daily (resets at 04:00 the next day)\n\t\t> Time limit: 60 minutes\n\t\t> Level 110 or higher required\n\n\t<NAVI>[Operations Officer]<INFO>sp_cor,160,55,0,101,0</INFO></NAVI>\n\n\t§ <TIPBOX>Dungeon Rewards<INFO>4110</INFO></TIPBOX>\n\n\t<TIPBOX>>Back to Previous Page<INFO>7107</INFO></TIPBOX>\n\t<TIPBOX>>View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[7123] = {
+		Title = "MD 17.1 Core Memorial (110)",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"The children of Eliumina have switched to low-power mode and are hiding somewhere in Core. However, due to the strong stimulus of adventurers, they have broken free from Eliumina's control, making it impossible to force a shutdown.\n\n\tThe only way is to continuously drain their power through persistent battles!\n\n\t§ Prerequisite: <TIPBOX>Pure Mischief<INFO>7061</INFO></TIPBOX> completed\n\n\t§ Dungeon Structure\n\t\t> After completing the scenario mode once, you can challenge it daily (resets at 4:00 AM the next day)\n\t\t> Time limit: 60 minutes\n\t\t> Level 110 or higher required\n\n\t<NAVI>[Rebellion]<INFO>sp_cor,113,130,0,101,0</INFO></NAVI>\n\n\t§ <TIPBOX>Dungeon Rewards<INFO>4110</INFO></TIPBOX>\n\n\t<TIPBOX>>Back to Previous Page<INFO>7107</INFO></TIPBOX>\n\t<TIPBOX>>View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
 	[7132] = {
 		Title = "Ghost Palace (120)#Dimensional Rift",
 		Search = 1,
 		Image = "",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"An adventurer who goes to the palace under attack at the request of the Royal Guard asking for help in the Dimensional Rift. There, the adventurer who watched the story of the princess and the royal guard learns the identity of the royal guard...\n\n\t\t\t§ Memorial Dungeon Structure\n\t\t\t\t› 1-person instance\n\t\t\t\t› Daily (reset at 04:00)\n\t\t\t\t› Time limit 120 minutes\n\t\t\t\t› Level 120 or higher\n\n\t\t\t<NAVI>[Unpleasent Royal Guard]<INFO>dali02,43,129,0,101,0</INFO></NAVI>\n\n\t\t\t§ Rewards\n\t\t\t› The <ITEM>[Gray Shard]<INFO>6672</INFO></ITEM> can be exchanged to the items below:\n\t\t\t› Armor\n\t\t\t<ITEM>[Helmet of Gray]<INFO>18820</INFO></ITEM>\n\t\t\t<ITEM>[Cloak of Gray]<INFO>20721</INFO></ITEM>\n\t\t\t<ITEM>[Boots of Gray]<INFO>22033</INFO></ITEM>\n\t\t\t<ITEM>[Armor of Gray]<INFO>15090</INFO></ITEM>\n\t\t\t<ITEM>[Robe of Gray]<INFO>15091</INFO></ITEM>\n\t\t\t<ITEM>[Shield of Gray]<INFO>2187</INFO></ITEM>\n\t\t\t› Weapons\n\t\t\t<ITEM>[Thanos Two-handed Staff]<INFO>2023</INFO></ITEM>\n\t\t\t<ITEM>[Thanos Long Spear]<INFO>1496</INFO></ITEM>\n\t\t\t<ITEM>[Thanos Great Sword]<INFO>21009</INFO></ITEM>\n\t\t\t<ITEM>[Thanos Axe]<INFO>28100</INFO></ITEM>\n\t\t\t<ITEM>[Thanos Katar]<INFO>28000</INFO></ITEM>\n\t\t\t<ITEM>[Thanos Bow]<INFO>18119</INFO></ITEM>\n\t\t\t<ITEM>[Thanos Sword]<INFO>13441</INFO></ITEM>\n\t\t\t<ITEM>[Thanos Dagger]<INFO>13093</INFO></ITEM>\n\t\t\t<ITEM>[Thanos Spear]<INFO>1438</INFO></ITEM>\n\t\t\t<ITEM>[Thanos Hammer]<INFO>16028</INFO></ITEM>\n\t\t\t<ITEM>[Thanos Staff]<INFO>1669</INFO></ITEM>\n\t\t\t<ITEM>[Thanos Knuckles]<INFO>1836</INFO></ITEM>\n\t\t\t<ITEM>[Thanos Violin]<INFO>1933</INFO></ITEM>\n\t\t\t<ITEM>[Thanos Whip]<INFO>1988</INFO></ITEM>\n\n\t\t\t<TIPBOX>» Previous page<INFO>7129</INFO></TIPBOX>\n\t\t\t<TIPBOX>» View tip list<INFO>1000</INFO></TIPBOX>"
+			"An adventurer who goes to the palace under attack at the request of the Royal Guard asking for help in the Dimensional Rift. There, the adventurer who watched the story of the princess and the royal guard learns the identity of the royal guard...\n\n\t\t\tØ  Memorial Dungeon Structure\n\t\t\t\t› 1-person instance\n\t\t\t\t› Daily (reset at 04:00)\n\t\t\t\t› Time limit 120 minutes\n\t\t\t\t› Level 120 or higher\n\n\t\t\t<NAVI>[Unpleasent Royal Guard]<INFO>dali02,43,129,0,101,0</INFO></NAVI>\n\n\t\t\tØ  Rewards\n\t\t\t› The <ITEM>[Gray Shard]<INFO>6672</INFO></ITEM> can be exchanged to the items below:\n\t\t\t› Armor\n\t\t\t<ITEM>[Helmet of Gray]<INFO>18820</INFO></ITEM>\n\t\t\t<ITEM>[Cloak of Gray]<INFO>20721</INFO></ITEM>\n\t\t\t<ITEM>[Boots of Gray]<INFO>22033</INFO></ITEM>\n\t\t\t<ITEM>[Armor of Gray]<INFO>15090</INFO></ITEM>\n\t\t\t<ITEM>[Robe of Gray]<INFO>15091</INFO></ITEM>\n\t\t\t<ITEM>[Shield of Gray]<INFO>2187</INFO></ITEM>\n\t\t\t› Weapons\n\t\t\t<ITEM>[Thanos Two-handed Staff]<INFO>2023</INFO></ITEM>\n\t\t\t<ITEM>[Thanos Long Spear]<INFO>1496</INFO></ITEM>\n\t\t\t<ITEM>[Thanos Great Sword]<INFO>21009</INFO></ITEM>\n\t\t\t<ITEM>[Thanos Axe]<INFO>28100</INFO></ITEM>\n\t\t\t<ITEM>[Thanos Katar]<INFO>28000</INFO></ITEM>\n\t\t\t<ITEM>[Thanos Bow]<INFO>18119</INFO></ITEM>\n\t\t\t<ITEM>[Thanos Sword]<INFO>13441</INFO></ITEM>\n\t\t\t<ITEM>[Thanos Dagger]<INFO>13093</INFO></ITEM>\n\t\t\t<ITEM>[Thanos Spear]<INFO>1438</INFO></ITEM>\n\t\t\t<ITEM>[Thanos Hammer]<INFO>16028</INFO></ITEM>\n\t\t\t<ITEM>[Thanos Staff]<INFO>1669</INFO></ITEM>\n\t\t\t<ITEM>[Thanos Knuckles]<INFO>1836</INFO></ITEM>\n\t\t\t<ITEM>[Thanos Violin]<INFO>1933</INFO></ITEM>\n\t\t\t<ITEM>[Thanos Whip]<INFO>1988</INFO></ITEM>\n\n\t\t\t<TIPBOX>» Previous page<INFO>7129</INFO></TIPBOX>\n\t\t\t<TIPBOX>» View tip list<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[8086] = {
+		Title = "EL1_A17T Suppression Operation",
+		Search = 0,
+		Image = "유저인터페이스\\tipbox\\tip08086",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"After disabling the surveillance devices hidden in four locations, follow the guidance of Eliumina to approach EL1_A17T."
+		},
+		PageEX = {
+			{
+				EffectNum = 4,
+				Twinkle = 1,
+				StartX = 173,
+				StartY = 92,
+				DistX = 0,
+				DistY = 0,
+				MoveTime = 0
+			},
+			{
+				EffectNum = 4,
+				Twinkle = 1,
+				StartX = 173,
+				StartY = 154,
+				DistX = 0,
+				DistY = 0,
+				MoveTime = 0
+			},
+			{
+				EffectNum = 4,
+				Twinkle = 1,
+				StartX = 120,
+				StartY = 199,
+				DistX = 0,
+				DistY = 0,
+				MoveTime = 0
+			},
+			{
+				EffectNum = 4,
+				Twinkle = 1,
+				StartX = 103,
+				StartY = 233,
+				DistX = 0,
+				DistY = 0,
+				MoveTime = 0
+			}
 		}
 	},
 	[10013] = {

@@ -748,5 +748,10 @@
         "en": "[Wolfchev]\nDo you want to get out of here now?",
         "pt": "[Wolfchev]\nQuer sair daqui agora?",
         "es": "[Wolfchev]\n¿Quieres salir de aquí ahora?"
+    },
+    "thqpCA": {
+        "en": "- You are carrying too many items to proceed with this quest. -",
+        "pt": "- Você não pode prosseguir com a missão porque tem muitos itens. -",
+        "es": "- Llevas demasiados objetos para continuar con esta misión.-"
     }
 }

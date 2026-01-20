@@ -1407,7 +1407,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.ADDSKILLMDAMAGE_UNDEAD[1]
 			},
 			[34] = {
-				name = "{sym}{val}%#Resistance to all property attacks (Exept Neutral)",
+				name = "{sym}{val}%#Resistance to all property attacks",
 				func = FunctionPreset.DecDmgBySkillProp,
 				val = {
 					[2] = Operation.ADD

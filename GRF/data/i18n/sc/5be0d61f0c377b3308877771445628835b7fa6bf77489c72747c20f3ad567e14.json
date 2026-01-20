@@ -105,12 +105,12 @@
         "es": "[Papyrus]\n¿Cómo puedo ayudarte?"
     },
     "le42": {
-        "en": "What is this place for?",
+        "en": "[Papyrus]\nHow can I help you?",
         "pt": "Para que serve esse lugar?",
         "es": "¿Qué es este lugar?"
     },
     "lu42": {
-        "en": "How do I view documents?",
+        "en": "What is this place for?",
         "pt": "Como faço para visualizar documentos?",
         "es": "¿Cómo veo los documentos?"
     },
@@ -120,7 +120,7 @@
         "es": "¿Qué es una Reliquia desconocida?"
     },
     "mO42": {
-        "en": "[Papyrus]\nThis is an important place where data of various relics collected, since our ancient forefathers, are kept.",
+        "en": "What is an Unknown Relic?",
         "pt": "[Papyrus]\nEsse é um local importante onde são mantidos os dados de várias relíquias coletadas desde o tempo de nossos antepassados.",
         "es": "[Papyrus]\nEste es un lugar de gran importancia que existe desde el tiempo de nuestros antepasados. Aquí se conserva información de todo tipo de reliquias."
     },
@@ -1243,5 +1243,15 @@
         "en": "You were able to find information on the Stone Heart",
         "pt": "Você conseguiu encontrar informações sobre Coração de Pedra.",
         "es": "Encontraste información sobre el objeto Corazón de piedra."
+    },
+    "ee82": {
+        "en": "- You are carrying too many items to proceed with this quest. -",
+        "pt": "- Você não pode prosseguir com a missão porque tem muitos itens. -",
+        "es": "- Llevas demasiados objetos para continuar con esta misión.-"
+    },
+    "eu82": {
+        "en": "[Papyrus]\nWow~\nYou've found an Unknown Relic.\nDo you want to exchange it with for 1 Sapha Certification?",
+        "pt": "[Papyrus]\nUau! \nVocê encontrou uma Relíquia Desconhecida.\nDeseja trocá-la por 1 Certificação Sapha?",
+        "es": "[Papyrus]\nVaya. \nEncontraste una Reliquia desconocida.\n¿Quieres canjearla por 1 Certificación sapha?"
     }
 }

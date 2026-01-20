@@ -1,0 +1,887 @@
+{
+    "oC6YDA": {
+        "ko": "RS26",
+        "en": "RS26",
+        "pt": "RS26",
+        "es": "RS26"
+    },
+    "oS6YDA": {
+        "ko": "보유한 물건의 종류가 너무 많은것 같다. 물건의 종류를 줄인뒤에 다시 진행해보자.",
+        "en": "It seems you have too many different types of items. Please reduce the number of item types and try again.",
+        "unknown_3": "It seems you have too many different types of items. Please reduce the number of item types and try again.",
+        "unknown_4": "Parece que você possui muitos tipos diferentes de itens. Reduza a variedade de itens e tente novamente.",
+        "unknown_5": "Parece que tienes demasiados tipos de objetos. Reduce la variedad de objetos y vuelve a intentarlo.",
+        "pt": "Parece que você possui muitos tipos diferentes de itens. Reduza a variedade de itens e tente novamente.",
+        "es": "Parece que tienes demasiados tipos de objetos. Reduce la variedad de objetos y vuelve a intentarlo."
+    },
+    "oi6YDA": {
+        "ko": "가진 물건이 너무 무거워 더이상의 진행이 힘들 것 같다. 무게를 줄인 후 다시 도전해보자.",
+        "en": "Your items are too heavy to continue any further. Reduce your weight and try again.",
+        "pt": "Seus itens estão pesados demais para continuar. Reduza o peso e tente novamente.",
+        "es": "Tus objetos son demasiado pesados para continuar. Reduce el peso y vuelve a intentarlo."
+    },
+    "oy6YDA": {
+        "ko": "[RS26]\n{0} 님\n어서오십시오 환영합니다!",
+        "en": "[RS26]\n{0}\nWelcome! We’re glad to have you!",
+        "pt": "[RS26]\n{0}\nSeja bem-vindo! É um prazer recebê-lo!",
+        "es": "[RS26]\n{0}\n¡Bienvenido! ¡Nos alegra darte la bienvenida!"
+    },
+    "pC6YDA": {
+        "ko": "기기 살펴보기",
+        "en": "Check Device",
+        "pt": "Verificar Dispositivo",
+        "es": "Revisar Dispositivo"
+    },
+    "pS6YDA": {
+        "ko": "Enchant Shield",
+        "en": "Enchant Shield",
+        "pt": "Encantar Escudo",
+        "es": "Encantar Escudo"
+    },
+    "pi6YDA": {
+        "ko": "Buy Enchantment Orbs",
+        "en": "Buy Enchantment Orbs",
+        "pt": "Comprar Orbes de Encantamento",
+        "es": "Comprar Orbes de Encantamiento"
+    },
+    "py6YDA": {
+        "ko": "^0000FF#최신 홀로그램으로 표현된 안드로이드가 자연스런 동작으로 인사를 건네온다#^000000",
+        "en": "^0000FF#A cutting-edge holographic android greets you with natural movements.#^000000",
+        "pt": "^0000FF#Um androide holográfico de última geração cumprimenta você com movimentos naturais.#^000000",
+        "es": "^0000FF#Un androide holográfico de última generación te saluda con movimientos naturales.#^000000"
+    },
+    "qC6YDA": {
+        "ko": "리벨리온 : 아, 거기 그 기계는 개조 모듈이 없으면 아무 쓸모가 없어요.",
+        "en": "Rebellion: Ah, that machine over there is completely useless without modification modules.",
+        "pt": "Rebellion: Ah, aquela máquina ali não serve para nada sem módulos de modificação.",
+        "es": "Rebellion: Ah, esa máquina de ahí no sirve para nada sin módulos de modificación."
+    },
+    "qS6YDA": {
+        "ko": "[RS26]\n미래도시에서 발견된 기술이 이제 여러분의 생활속으로 파고듭니다. 레겐쉬름 로보틱스의 최신 테크놀러지 RS26 과 함께 하세요.",
+        "en": "[RS26]\nTechnology discovered in the city of the future now enters your everyday life. Join Regen Schirm Robotics’ latest technology, RS26.",
+        "pt": "[RS26]\nA tecnologia descoberta na cidade do futuro agora faz parte do seu dia a dia. Junte-se à mais nova tecnologia da Regen Schirm Robotics, RS26.",
+        "es": "[RS26]\nLa tecnología descubierta en la ciudad del futuro ahora se integra en tu vida diaria. Únete a la última tecnología de Regen Schirm Robotics, RS26."
+    },
+    "qi6YDA": {
+        "ko": "[RS26]\n일루시온 쉴드와 강화용 모듈을 가지고 오시면 모듈에 따라 장비를 강화해 드리고 있습니다.",
+        "en": "[RS26]\nBring an Illusion Shield and enhancement modules, and we will upgrade your equipment according to the module.",
+        "pt": "[RS26]\nTraga um Escudo de Ilusão e módulos de aprimoramento, e melhoraremos seu equipamento de acordo com o módulo.",
+        "es": "[RS26]\nTrae un Escudo de Ilusión y módulos de mejora, y reforzaremos tu equipo según el módulo."
+    },
+    "qy6YDA": {
+        "ko": "[RS26]\n규격 모듈에 따라 작업하는 것이므로 장비가 파괴되는 일은 없습니다. 다만 모듈에 따라 업그레이드 횟수등은 다를 수 있습니다.",
+        "en": "[RS26]\nSince we work only with standard modules, your equipment will not be destroyed. However, upgrade limits may vary by module.",
+        "pt": "[RS26]\nComo trabalhamos com módulos padrão, seu equipamento não será destruído. Porém, os limites de melhoria podem variar conforme o módulo.",
+        "es": "[RS26]\nComo trabajamos con módulos estándar, tu equipo no se destruirá. Sin embargo, los límites de mejora pueden variar según el módulo."
+    },
+    "rC6YDA": {
+        "ko": "[RS26]\n그럼 도움이 필요하실때 다시 방문하십시오~",
+        "en": "[RS26]\nCome back anytime if you need help~",
+        "pt": "[RS26]\nVolte quando precisar de ajuda~",
+        "es": "[RS26]\nVuelve cuando necesites ayuda~"
+    },
+    "rS6YDA": {
+        "ko": "^AAAAAA개조 오브(방어)(도면없음)^000000",
+        "en": "^AAAAAAModification Orb (DEF)(No Blueprint)^000000",
+        "pt": "^AAAAAAOrbe de Modificação (DEF)(Sem Planta)^000000",
+        "es": "^AAAAAAOrbe de Modificación (DEF)(Sin Plano)^000000"
+    },
+    "ri6YDA": {
+        "ko": "개조 오브(방어)",
+        "en": "Modification Orb (DEF)",
+        "pt": "Orbe de Modificação (DEF)",
+        "es": "Orbe de Modificación (DEF)"
+    },
+    "ry6YDA": {
+        "ko": "^AAAAAA개조 오브(마법방어)(도면없음)^000000",
+        "en": "^AAAAAAModification Orb (MDEF)(No Blueprint)^000000",
+        "pt": "^AAAAAAOrbe de Modificação (MDEF)(Sem Planta)^000000",
+        "es": "^AAAAAAOrbe de Modificación (MDEF)(Sin Plano)^000000"
+    },
+    "sC6YDA": {
+        "ko": "개조 오브(마법방어)",
+        "en": "Modification Orb (MDEF)",
+        "pt": "Orbe de Modificação (MDEF)",
+        "es": "Orbe de Modificación (MDEF)"
+    },
+    "sS6YDA": {
+        "ko": "^AAAAAAVIT+3(도면없음)^000000",
+        "en": "^AAAAAAVIT+3(No Blueprint)^000000",
+        "pt": "^AAAAAAVIT+3(Sem Planta)^000000",
+        "es": "^AAAAAAVIT+3(Sin Plano)^000000"
+    },
+    "si6YDA": {
+        "ko": "VIT+3",
+        "en": "VIT+3",
+        "pt": "VIT+3",
+        "es": "VIT+3"
+    },
+    "sy6YDA": {
+        "ko": "^AAAAAALUK+3(도면없음)^000000",
+        "en": "^AAAAAALUK+3(No Blueprint)^000000",
+        "pt": "^AAAAAALUK+3(Sem Planta)^000000",
+        "es": "^AAAAAALUK+3(Sin Plano)^000000"
+    },
+    "tC6YDA": {
+        "ko": "LUK+3",
+        "en": "LUK+3",
+        "pt": "LUK+3",
+        "es": "LUK+3"
+    },
+    "tS6YDA": {
+        "ko": "^AAAAAASTR+3(도면없음)^000000",
+        "en": "^AAAAAASTR+3(No Blueprint)^000000",
+        "pt": "^AAAAAASTR+3(Sem Planta)^000000",
+        "es": "^AAAAAASTR+3(Sin Plano)^000000"
+    },
+    "ti6YDA": {
+        "ko": "STR+3",
+        "en": "STR+3",
+        "pt": "STR+3",
+        "es": "STR+3"
+    },
+    "ty6YDA": {
+        "ko": "^AAAAAAAGI+3(도면없음)^000000",
+        "en": "^AAAAAAAGI+3(No Blueprint)^000000",
+        "pt": "^AAAAAAAGI+3(Sem Planta)^000000",
+        "es": "^AAAAAAAGI+3(Sin Plano)^000000"
+    },
+    "uC6YDA": {
+        "ko": "AGI+3",
+        "en": "AGI+3",
+        "pt": "AGI+3",
+        "es": "AGI+3"
+    },
+    "uS6YDA": {
+        "ko": "^AAAAAAINT+3(도면없음)^000000",
+        "en": "^AAAAAAINT+3(No Blueprint)^000000",
+        "pt": "^AAAAAAINT+3(Sem Planta)^000000",
+        "es": "^AAAAAAINT+3(Sin Plano)^000000"
+    },
+    "ui6YDA": {
+        "ko": "INT+3",
+        "en": "INT+3",
+        "pt": "INT+3",
+        "es": "INT+3"
+    },
+    "uy6YDA": {
+        "ko": "^AAAAAADEX+3(도면없음)^000000",
+        "en": "^AAAAAADEX+3(No Blueprint)^000000",
+        "pt": "^AAAAAADEX+3(Sem Planta)^000000",
+        "es": "^AAAAAADEX+3(Sin Plano)^000000"
+    },
+    "vC6YDA": {
+        "ko": "DEX+3",
+        "en": "DEX+3",
+        "pt": "DEX+3",
+        "es": "DEX+3"
+    },
+    "vS6YDA": {
+        "ko": "^AAAAAA개조 오브(HP회복량)(도면없음)^000000",
+        "en": "^AAAAAAModification Orb (HP Recovery)(No Blueprint)^000000",
+        "pt": "^AAAAAAOrbe de Modificação (Recuperação de HP)(Sem Planta)^000000",
+        "es": "^AAAAAAOrbe de Modificación (Recuperación de HP)(Sin Plano)^000000"
+    },
+    "vi6YDA": {
+        "ko": "개조 오브(HP회복량)",
+        "en": "Modification Orb (HP Recovery)",
+        "pt": "Orbe de Modificação (Recuperação de HP)",
+        "es": "Orbe de Modificación (Recuperación de HP)"
+    },
+    "vy6YDA": {
+        "ko": "^AAAAAA개조 오브(SP회복량)(도면없음)^000000",
+        "en": "^AAAAAAModification Orb (SP Recovery)(No Blueprint)^000000",
+        "pt": "^AAAAAAOrbe de Modificação (Recuperação de SP)(Sem Planta)^000000",
+        "es": "^AAAAAAOrbe de Modificación (Recuperación de SP)(Sin Plano)^000000"
+    },
+    "wC6YDA": {
+        "ko": "개조 오브(SP회복량)",
+        "en": "Modification Orb (SP Recovery)",
+        "pt": "Orbe de Modificação (Recuperação de SP)",
+        "es": "Orbe de Modificación (Recuperación de SP)"
+    },
+    "wS6YDA": {
+        "ko": "^AAAAAA마력5Lv(도면없음)^000000",
+        "en": "^AAAAAASpell Power Lv. 5(No Blueprint)^000000",
+        "pt": "^AAAAAAPoder Mágico Nv. 5(Sem Planta)^000000",
+        "es": "^AAAAAAPoder Mágico Nv. 5(Sin Plano)^000000"
+    },
+    "wi6YDA": {
+        "ko": "마력5Lv",
+        "en": "Spell Power Lv. 5",
+        "pt": "Poder Mágico Nv. 5",
+        "es": "Poder Mágico Nv. 5"
+    },
+    "wy6YDA": {
+        "ko": "^AAAAAA공격후딜레이4Lv(도면없음)^000000",
+        "en": "^AAAAAAAfter Attack Delay Lv. 4(No Blueprint)^000000",
+        "pt": "^AAAAAAAtraso Pós-Ataque Nv. 4(Sem Planta)^000000",
+        "es": "^AAAAAARetraso Post-Ataque Nv. 4(Sin Plano)^000000"
+    },
+    "xC6YDA": {
+        "ko": "공격후딜레이4Lv",
+        "en": "After Attack Delay Lv. 4",
+        "pt": "Atraso Pós-Ataque Nv. 4",
+        "es": "Retraso Post-Ataque Nv. 4"
+    },
+    "xS6YDA": {
+        "ko": "^AAAAAA치명4Lv(도면없음)^000000",
+        "en": "^AAAAAACritical Lv. 4(No Blueprint)^000000",
+        "pt": "^AAAAAACrítico Nv. 4(Sem Planta)^000000",
+        "es": "^AAAAAACrítico Nv. 4(Sin Plano)^000000"
+    },
+    "xi6YDA": {
+        "ko": "치명4Lv",
+        "en": "Critical Lv. 4",
+        "pt": "Crítico Nv. 4",
+        "es": "Crítico Nv. 4"
+    },
+    "xy6YDA": {
+        "ko": "^AAAAAA명궁5Lv(도면없음)^000000",
+        "en": "^AAAAAASharpshooter Lv. 5(No Blueprint)^000000",
+        "pt": "^AAAAAAAtirador de Elite Nv. 5(Sem Planta)^000000",
+        "es": "^AAAAAATirador Experto Nv. 5(Sin Plano)^000000"
+    },
+    "yC6YDA": {
+        "ko": "명궁5Lv",
+        "en": "Sharpshooter Lv. 5",
+        "pt": "Atirador de Elite Nv. 5",
+        "es": "Tirador Experto Nv. 5"
+    },
+    "yS6YDA": {
+        "ko": "^AAAAAA개조 오브(체력)(도면없음)^000000",
+        "en": "^AAAAAAModification Orb (Vitality)(No Blueprint)^000000",
+        "pt": "^AAAAAAOrbe de Modificação (Vitalidade)(Sem Planta)^000000",
+        "es": "^AAAAAAOrbe de Modificación (Vitalidad)(Sin Plano)^000000"
+    },
+    "yi6YDA": {
+        "ko": "개조 오브(체력)",
+        "en": "Modification Orb (Vitality)",
+        "pt": "Orbe de Modificação (Vitalidade)",
+        "es": "Orbe de Modificación (Vitalidad)"
+    },
+    "yy6YDA": {
+        "ko": "^AAAAAA개조 오브(정신력)(도면없음)^000000",
+        "en": "^AAAAAAModification Orb (Mental Strength)(No Blueprint)^000000",
+        "pt": "^AAAAAAOrbe de Modificação (Força Mental)(Sem Planta)^000000",
+        "es": "^AAAAAAOrbe de Modificación (Fuerza Mental)(Sin Plano)^000000"
+    },
+    "zC6YDA": {
+        "ko": "개조 오브(정신력)",
+        "en": "Modification Orb (Mental Strength)",
+        "pt": "Orbe de Modificação (Força Mental)",
+        "es": "Orbe de Modificación (Fuerza Mental)"
+    },
+    "zS6YDA": {
+        "ko": "^AAAAAA개조 오브(힐)(도면없음)^000000",
+        "en": "^AAAAAAModification Orb (Heal)(No Blueprint)^000000",
+        "pt": "^AAAAAAOrbe de Modificação (Cura)(Sem Planta)^000000",
+        "es": "^AAAAAAOrbe de Modificación (Curación)(Sin Plano)^000000"
+    },
+    "zi6YDA": {
+        "ko": "개조 오브(힐)",
+        "en": "Modification Orb (Heal)",
+        "pt": "Orbe de Modificação (Cura)",
+        "es": "Orbe de Modificación (Curación)"
+    },
+    "zy6YDA": {
+        "ko": "^AAAAAA개조 오브(공격력)(도면없음)^000000",
+        "en": "^AAAAAAModification Orb (ATK)(No Blueprint)^000000",
+        "pt": "^AAAAAAOrbe de Modificação (ATQ)(Sem Planta)^000000",
+        "es": "^AAAAAAOrbe de Modificación (ATQ)(Sin Plano)^000000"
+    },
+    "0C6YDA": {
+        "ko": "개조 오브(공격력)",
+        "en": "Modification Orb (ATK)",
+        "pt": "Orbe de Modificação (ATQ)",
+        "es": "Orbe de Modificación (ATQ)"
+    },
+    "0S6YDA": {
+        "ko": "^AAAAAA개조 오브(마법력)(도면없음)^000000",
+        "en": "^AAAAAAModification Orb (MATK)(No Blueprint)^000000",
+        "pt": "^AAAAAAOrbe de Modificação (MATQ)(Sem Planta)^000000",
+        "es": "^AAAAAAOrbe de Modificación (MATQ)(Sin Plano)^000000"
+    },
+    "0i6YDA": {
+        "ko": "개조 오브(마법력)",
+        "en": "Modification Orb (MATK)",
+        "pt": "Orbe de Modificação (MATQ)",
+        "es": "Orbe de Modificación (MATQ)"
+    },
+    "0y6YDA": {
+        "ko": "^AAAAAA개조 오브(명사수)(도면없음)^000000",
+        "en": "^AAAAAAModification Orb (Sharpshooter)(No Blueprint)^000000",
+        "pt": "^AAAAAAOrbe de Modificação (Atirador)(Sem Planta)^000000",
+        "es": "^AAAAAAOrbe de Modificación (Tirador)(Sin Plano)^000000"
+    },
+    "1C6YDA": {
+        "ko": "개조 오브(명사수)",
+        "en": "Modification Orb (Sharpshooter)",
+        "pt": "Orbe de Modificação (Atirador)",
+        "es": "Orbe de Modificación (Tirador)"
+    },
+    "1S6YDA": {
+        "ko": "^AAAAAA개조 오브(신속)(도면없음)^000000",
+        "en": "^AAAAAAModification Orb (Speed)(No Blueprint)^000000",
+        "pt": "^AAAAAAOrbe de Modificação (Velocidade)(Sem Planta)^000000",
+        "es": "^AAAAAAOrbe de Modificación (Velocidad)(Sin Plano)^000000"
+    },
+    "1i6YDA": {
+        "ko": "개조 오브(신속)",
+        "en": "Modification Orb (Speed)",
+        "pt": "Orbe de Modificação (Velocidade)",
+        "es": "Orbe de Modificación (Velocidad)"
+    },
+    "1y6YDA": {
+        "ko": "^AAAAAA개조 오브(캐스터)(도면없음)^000000",
+        "en": "^AAAAAAModification Orb (Caster)(No Blueprint)^000000",
+        "pt": "^AAAAAAOrbe de Modificação (Conjurador)(Sem Planta)^000000",
+        "es": "^AAAAAAOrbe de Modificación (Hechicero)(Sin Plano)^000000"
+    },
+    "2C6YDA": {
+        "ko": "개조 오브(캐스터)",
+        "en": "Modification Orb (Caster)",
+        "pt": "Orbe de Modificação (Conjurador)",
+        "es": "Orbe de Modificación (Hechicero)"
+    },
+    "2S6YDA": {
+        "ko": "^AAAAAA개조 오브(크리티컬)(도면없음)^000000",
+        "en": "^AAAAAAModification Orb (Critical)(No Blueprint)^000000",
+        "pt": "^AAAAAAOrbe de Modificação (Crítico)(Sem Planta)^000000",
+        "es": "^AAAAAAOrbe de Modificación (Crítico)(Sin Plano)^000000"
+    },
+    "2i6YDA": {
+        "ko": "개조 오브(크리티컬)",
+        "en": "Modification Orb (Critical)",
+        "pt": "Orbe de Modificação (Crítico)",
+        "es": "Orbe de Modificación (Crítico)"
+    },
+    "2y6YDA": {
+        "ko": "^AAAAAA개조 오브(스킬 후  딜레이)(도면없음)^000000",
+        "en": "^AAAAAAModification Orb (After Skill Delay)(No Blueprint)^000000",
+        "pt": "^AAAAAAOrbe de Modificação (Atraso Pós-Habilidade)(Sem Planta)^000000",
+        "es": "^AAAAAAOrbe de Modificación (Retraso Post-Habilidad)(Sin Plano)^000000"
+    },
+    "3C6YDA": {
+        "ko": "개조 오브(스킬 후  딜레이)",
+        "en": "Modification Orb (After Skill Delay)",
+        "pt": "Orbe de Modificação (Atraso Pós-Habilidade)",
+        "es": "Orbe de Modificación (Retraso Post-Habilidad)"
+    },
+    "3S6YDA": {
+        "ko": "^AAAAAA개조 오브(고정 캐스팅)(도면없음)^000000",
+        "en": "^AAAAAAModification Orb (Fixed Casting)(No Blueprint)^000000",
+        "pt": "^AAAAAAOrbe de Modificação (Conjuração Fixa)(Sem Planta)^000000",
+        "es": "^AAAAAAOrbe de Modificación (Lanzamiento Fijo)(Sin Plano)^000000"
+    },
+    "3i6YDA": {
+        "ko": "개조 오브(고정 캐스팅)",
+        "en": "Modification Orb (Fixed Casting)",
+        "pt": "Orbe de Modificação (Conjuração Fixa)",
+        "es": "Orbe de Modificación (Lanzamiento Fijo)"
+    },
+    "3y6YDA": {
+        "ko": "^AAAAAA개조 오브(어보브 올)(도면없음)^000000",
+        "en": "^AAAAAAModification Orb (Above All)(No Blueprint)^000000",
+        "pt": "^AAAAAAOrbe de Modificação (Above All)(Sem Planta)^000000",
+        "es": "^AAAAAAOrbe de Modificación (Above All)(Sin Plano)^000000"
+    },
+    "4C6YDA": {
+        "ko": "개조 오브(어보브 올)",
+        "en": "Modification Orb (Above All)",
+        "pt": "Orbe de Modificação (Above All)",
+        "es": "Orbe de Modificación (Above All)"
+    },
+    "4S6YDA": {
+        "ko": "^AAAAAA개조 오브(드레인 라이프)(도면없음)^000000",
+        "en": "^AAAAAAModification Orb (Drain Life)(No Blueprint)^000000",
+        "pt": "^AAAAAAOrbe de Modificação (Drenar Vida)(Sem Planta)^000000",
+        "es": "^AAAAAAOrbe de Modificación (Drenar Vida)(Sin Plano)^000000"
+    },
+    "4i6YDA": {
+        "ko": "개조 오브(드레인 라이프)",
+        "en": "Modification Orb (Drain Life)",
+        "pt": "Orbe de Modificação (Drenar Vida)",
+        "es": "Orbe de Modificación (Drenar Vida)"
+    },
+    "4y6YDA": {
+        "ko": "^AAAAAA개조 오브(드레인 소울)(도면없음)^000000",
+        "en": "^AAAAAAModification Orb (Drain Soul)(No Blueprint)^000000",
+        "pt": "^AAAAAAOrbe de Modificação (Drenar Alma)(Sem Planta)^000000",
+        "es": "^AAAAAAOrbe de Modificación (Drenar Alma)(Sin Plano)^000000"
+    },
+    "5C6YDA": {
+        "ko": "개조 오브(드레인 소울)",
+        "en": "Modification Orb (Drain Soul)",
+        "pt": "Orbe de Modificação (Drenar Alma)",
+        "es": "Orbe de Modificación (Drenar Alma)"
+    },
+    "5S6YDA": {
+        "ko": "^AAAAAA개조 오브(매직 힐링)(도면없음)^000000",
+        "en": "^AAAAAAModification Orb (Magic Healing)(No Blueprint)^000000",
+        "pt": "^AAAAAAOrbe de Modificação (Cura Mágica)(Sem Planta)^000000",
+        "es": "^AAAAAAOrbe de Modificación (Curación Mágica)(Sin Plano)^000000"
+    },
+    "5i6YDA": {
+        "ko": "개조 오브(매직 힐링)",
+        "en": "Modification Orb (Magic Healing)",
+        "pt": "Orbe de Modificação (Cura Mágica)",
+        "es": "Orbe de Modificación (Curación Mágica)"
+    },
+    "5y6YDA": {
+        "ko": "^AAAAAA개조 오브(매직 소울)(도면없음)^000000",
+        "en": "^AAAAAAModification Orb (Magic Soul)(No Blueprint)^000000",
+        "pt": "^AAAAAAOrbe de Modificação (Alma Mágica)(Sem Planta)^000000",
+        "es": "^AAAAAAOrbe de Modificación (Alma Mágica)(Sin Plano)^000000"
+    },
+    "6C6YDA": {
+        "ko": "개조 오브(매직 소울)",
+        "en": "Modification Orb (Magic Soul)",
+        "pt": "Orbe de Modificação (Alma Mágica)",
+        "es": "Orbe de Modificación (Alma Mágica)"
+    },
+    "6S6YDA": {
+        "ko": "^AAAAAA개조 오브(언리밋바이탈)(도면없음)^000000",
+        "en": "^AAAAAAModification Orb (Unlimited Vital)(No Blueprint)^000000",
+        "pt": "^AAAAAAOrbe de Modificação (Vital Ilimitado)(Sem Planta)^000000",
+        "es": "^AAAAAAOrbe de Modificación (Vital Ilimitado)(Sin Plano)^000000"
+    },
+    "6i6YDA": {
+        "ko": "개조 오브(언리밋바이탈)",
+        "en": "Modification Orb (Unlimited Vital)",
+        "pt": "Orbe de Modificação (Vital Ilimitado)",
+        "es": "Orbe de Modificación (Vital Ilimitado)"
+    },
+    "6y6YDA": {
+        "ko": "^AAAAAA개조 오브(스펠버스터)(도면없음)^000000",
+        "en": "^AAAAAAModification Orb (Spell Buster)(No Blueprint)^000000",
+        "pt": "^AAAAAAOrbe de Modificação (Spell Buster)(Sem Planta)^000000",
+        "es": "^AAAAAAOrbe de Modificación (Spell Buster)(Sin Plano)^000000"
+    },
+    "7C6YDA": {
+        "ko": "개조 오브(스펠버스터)",
+        "en": "Modification Orb (Spell Buster)",
+        "pt": "Orbe de Modificação (Spell Buster)",
+        "es": "Orbe de Modificación (Spell Buster)"
+    },
+    "7S6YDA": {
+        "ko": "^AAAAAA개조 오브(파이어링샷)(도면없음)^000000",
+        "en": "^AAAAAAModification Orb (Firing Shot)(No Blueprint)^000000",
+        "pt": "^AAAAAAOrbe de Modificação (Firing Shot)(Sem Planta)^000000",
+        "es": "^AAAAAAOrbe de Modificación (Firing Shot)(Sin Plano)^000000"
+    },
+    "7i6YDA": {
+        "ko": "개조 오브(파이어링샷)",
+        "en": "Modification Orb (Firing Shot)",
+        "pt": "Orbe de Modificação (Firing Shot)",
+        "es": "Orbe de Modificación (Firing Shot)"
+    },
+    "7y6YDA": {
+        "ko": "^AAAAAA개조 오브(오버파워)(도면없음)^000000",
+        "en": "^AAAAAAModification Orb (Overpower)(No Blueprint)^000000",
+        "pt": "^AAAAAAOrbe de Modificação (Overpower)(Sem Planta)^000000",
+        "es": "^AAAAAAOrbe de Modificación (Overpower)(Sin Plano)^000000"
+    },
+    "8C6YDA": {
+        "ko": "개조 오브(오버파워)",
+        "en": "Modification Orb (Overpower)",
+        "pt": "Orbe de Modificação (Overpower)",
+        "es": "Orbe de Modificación (Overpower)"
+    },
+    "8S6YDA": {
+        "ko": "^AAAAAA개조 오브(페이탈 플래쉬)(도면없음)^000000",
+        "en": "^AAAAAAModification Orb (Fatal Flash)(No Blueprint)^000000",
+        "pt": "^AAAAAAOrbe de Modificação (Fatal Flash)(Sem Planta)^000000",
+        "es": "^AAAAAAOrbe de Modificación (Fatal Flash)(Sin Plano)^000000"
+    },
+    "8i6YDA": {
+        "ko": "개조 오브(페이탈 플래쉬)",
+        "en": "Modification Orb (Fatal Flash)",
+        "pt": "Orbe de Modificação (Fatal Flash)",
+        "es": "Orbe de Modificación (Fatal Flash)"
+    },
+    "8y6YDA": {
+        "ko": "^AAAAAA개조 오브(럭키스트라이크)(도면없음)^000000",
+        "en": "^AAAAAAModification Orb (Lucky Strike)(No Blueprint)^000000",
+        "pt": "^AAAAAAOrbe de Modificação (Lucky Strike)(Sem Planta)^000000",
+        "es": "^AAAAAAOrbe de Modificación (Lucky Strike)(Sin Plano)^000000"
+    },
+    "9C6YDA": {
+        "ko": "개조 오브(럭키스트라이크)",
+        "en": "Modification Orb (Lucky Strike)",
+        "pt": "Orbe de Modificação (Lucky Strike)",
+        "es": "Orbe de Modificación (Lucky Strike)"
+    },
+    "9S6YDA": {
+        "ko": "[RS26]\n{0} 님\n업그레이드하실 효능을 선택해주십시오.",
+        "en": "[RS26]\n{0}\nPlease select the effect you wish to upgrade.",
+        "pt": "[RS26]\n{0}\nSelecione o efeito que deseja aprimorar.",
+        "es": "[RS26]\n{0}\nSelecciona el efecto que deseas mejorar."
+    },
+    "9i6YDA": {
+        "ko": "취소",
+        "en": "Cancel",
+        "pt": "Cancelar",
+        "es": "Cancelar"
+    },
+    "9y6YDA": {
+        "ko": "노멀등급",
+        "en": "Normal Grade",
+        "pt": "Grau Normal",
+        "es": "Grado Normal"
+    },
+    "+C6YDA": {
+        "ko": "레어등급",
+        "en": "Rare Grade",
+        "pt": "Grau Raro",
+        "es": "Grado Raro"
+    },
+    "+S6YDA": {
+        "ko": "유니크등급",
+        "en": "Unique Grade",
+        "pt": "Grau Único",
+        "es": "Grado Único"
+    },
+    "+i6YDA": {
+        "ko": "레전드등급",
+        "en": "Legend Grade",
+        "pt": "Grau Lendário",
+        "es": "Grado Legendario"
+    },
+    "+y6YDA": {
+        "ko": "[RS26]\n여기까지 하기로 하겠습니다.",
+        "en": "[RS26]\nWe’ll stop here.",
+        "pt": "[RS26]\nVamos encerrar por aqui.",
+        "es": "[RS26]\nLo dejaremos aquí."
+    },
+    "/C6YDA": {
+        "ko": "개조 오브(방어)",
+        "en": "Modification Orb (DEF)",
+        "pt": "Orbe de Modificação (DEF)",
+        "es": "Orbe de Modificación (DEF)"
+    },
+    "/S6YDA": {
+        "ko": "개조 오브(마법방어)",
+        "en": "Modification Orb (MDEF)",
+        "pt": "Orbe de Modificação (MDEF)",
+        "es": "Orbe de Modificación (MDEF)"
+    },
+    "/i6YDA": {
+        "ko": "VIT+3",
+        "en": "VIT+3",
+        "pt": "VIT+3",
+        "es": "VIT+3"
+    },
+    "/y6YDA": {
+        "ko": "LUK+3",
+        "en": "LUK+3",
+        "pt": "LUK+3",
+        "es": "LUK+3"
+    },
+    "AC+YDA": {
+        "ko": "STR+3",
+        "en": "STR+3",
+        "pt": "STR+3",
+        "es": "STR+3"
+    },
+    "AS+YDA": {
+        "ko": "AGI+3",
+        "en": "AGI+3",
+        "pt": "AGI+3",
+        "es": "AGI+3"
+    },
+    "Ai+YDA": {
+        "ko": "INT+3",
+        "en": "INT+3",
+        "pt": "INT+3",
+        "es": "INT+3"
+    },
+    "Ay+YDA": {
+        "ko": "DEX+3",
+        "en": "DEX+3",
+        "pt": "DEX+3",
+        "es": "DEX+3"
+    },
+    "BC+YDA": {
+        "ko": "개조 오브(HP회복량)",
+        "en": "Modification Orb (HP Recovery)",
+        "pt": "Orbe de Modificação (Recuperação de HP)",
+        "es": "Orbe de Modificación (Recuperación de HP)"
+    },
+    "BS+YDA": {
+        "ko": "개조 오브(SP회복량)",
+        "en": "Modification Orb (SP Recovery)",
+        "pt": "Orbe de Modificação (Recuperação de SP)",
+        "es": "Orbe de Modificación (Recuperación de SP)"
+    },
+    "Bi+YDA": {
+        "ko": "마력5Lv",
+        "en": "Spell Power Lv. 5",
+        "pt": "Poder Mágico Nv. 5",
+        "es": "Poder Mágico Nv. 5"
+    },
+    "By+YDA": {
+        "ko": "공격후딜레이4Lv",
+        "en": "After Attack Delay Lv. 4",
+        "pt": "Atraso Pós-Ataque Nv. 4",
+        "es": "Retraso Post-Ataque Nv. 4"
+    },
+    "CC+YDA": {
+        "ko": "치명4Lv",
+        "en": "Critical Lv. 4",
+        "pt": "Crítico Nv. 4",
+        "es": "Crítico Nv. 4"
+    },
+    "CS+YDA": {
+        "ko": "명궁5Lv",
+        "en": "Sharpshooter Lv. 5",
+        "pt": "Atirador de Elite Nv. 5",
+        "es": "Tirador Experto Nv. 5"
+    },
+    "Ci+YDA": {
+        "ko": "개조 오브(체력)",
+        "en": "Modification Orb (Vitality)",
+        "pt": "Orbe de Modificação (Vitalidade)",
+        "es": "Orbe de Modificación (Vitalidad)"
+    },
+    "Cy+YDA": {
+        "ko": "개조 오브(정신력)",
+        "en": "Modification Orb (Mental Strength)",
+        "pt": "Orbe de Modificação (Força Mental)",
+        "es": "Orbe de Modificación (Fuerza Mental)"
+    },
+    "DC+YDA": {
+        "ko": "개조 오브(힐)",
+        "en": "Modification Orb (Heal)",
+        "pt": "Orbe de Modificação (Cura)",
+        "es": "Orbe de Modificación (Curación)"
+    },
+    "DS+YDA": {
+        "ko": "개조 오브(공격력)",
+        "en": "Modification Orb (ATK)",
+        "pt": "Orbe de Modificação (ATQ)",
+        "es": "Orbe de Modificación (ATQ)"
+    },
+    "Di+YDA": {
+        "ko": "개조 오브(마법력)",
+        "en": "Modification Orb (MATK)",
+        "pt": "Orbe de Modificação (MATQ)",
+        "es": "Orbe de Modificación (MATQ)"
+    },
+    "Dy+YDA": {
+        "ko": "개조 오브(명사수)",
+        "en": "Modification Orb (Sharpshooter)",
+        "pt": "Orbe de Modificação (Atirador)",
+        "es": "Orbe de Modificación (Tirador)"
+    },
+    "EC+YDA": {
+        "ko": "개조 오브(신속)",
+        "en": "Modification Orb (Speed)",
+        "pt": "Orbe de Modificação (Velocidade)",
+        "es": "Orbe de Modificación (Velocidad)"
+    },
+    "ES+YDA": {
+        "ko": "개조 오브(캐스터)",
+        "en": "Modification Orb (Caster)",
+        "pt": "Orbe de Modificação (Conjurador)",
+        "es": "Orbe de Modificación (Hechicero)"
+    },
+    "Ei+YDA": {
+        "ko": "개조 오브(크리티컬)",
+        "en": "Modification Orb (Critical)",
+        "pt": "Orbe de Modificação (Crítico)",
+        "es": "Orbe de Modificación (Crítico)"
+    },
+    "Ey+YDA": {
+        "ko": "개조 오브(스킬_후 _딜레이)",
+        "en": "Modification Orb (After Skill Delay)",
+        "pt": "Orbe de Modificação (Atraso Pós-Habilidade)",
+        "es": "Orbe de Modificación (Retraso Post-Habilidad)"
+    },
+    "FC+YDA": {
+        "ko": "개조 오브(고정_캐스팅)",
+        "en": "Modification Orb (Fixed Casting)",
+        "pt": "Orbe de Modificação (Conjuração Fixa)",
+        "es": "Orbe de Modificación (Lanzamiento Fijo)"
+    },
+    "FS+YDA": {
+        "ko": "개조 오브(어보브_올)",
+        "en": "Modification Orb (Above All)",
+        "pt": "Orbe de Modificação (Above All)",
+        "es": "Orbe de Modificación (Above All)"
+    },
+    "Fi+YDA": {
+        "ko": "개조 오브(드레인_라이프)",
+        "en": "Modification Orb (Drain Life)",
+        "pt": "Orbe de Modificação (Drenar Vida)",
+        "es": "Orbe de Modificación (Drenar Vida)"
+    },
+    "Fy+YDA": {
+        "ko": "개조 오브(드레인_소울)",
+        "en": "Modification Orb (Drain Soul)",
+        "pt": "Orbe de Modificação (Drenar Alma)",
+        "es": "Orbe de Modificación (Drenar Alma)"
+    },
+    "GC+YDA": {
+        "ko": "개조 오브(매직_힐링)",
+        "en": "Modification Orb (Magic Healing)",
+        "pt": "Orbe de Modificação (Cura Mágica)",
+        "es": "Orbe de Modificación (Curación Mágica)"
+    },
+    "GS+YDA": {
+        "ko": "개조 오브(매직_소울)",
+        "en": "Modification Orb (Magic Soul)",
+        "pt": "Orbe de Modificação (Alma Mágica)",
+        "es": "Orbe de Modificación (Alma Mágica)"
+    },
+    "Gi+YDA": {
+        "ko": "개조 오브(언리밋바이탈)",
+        "en": "Modification Orb (Unlimited Vital)",
+        "pt": "Orbe de Modificação (Vital Ilimitado)",
+        "es": "Orbe de Modificación (Vital Ilimitado)"
+    },
+    "Gy+YDA": {
+        "ko": "개조 오브(스펠버스터)",
+        "en": "Modification Orb (Spell Buster)",
+        "pt": "Orbe de Modificação (Spell Buster)",
+        "es": "Orbe de Modificación (Spell Buster)"
+    },
+    "HC+YDA": {
+        "ko": "개조 오브(파이어링샷)",
+        "en": "Modification Orb (Firing Shot)",
+        "pt": "Orbe de Modificação (Firing Shot)",
+        "es": "Orbe de Modificación (Firing Shot)"
+    },
+    "HS+YDA": {
+        "ko": "개조 오브(오버파워)",
+        "en": "Modification Orb (Overpower)",
+        "pt": "Orbe de Modificação (Overpower)",
+        "es": "Orbe de Modificación (Overpower)"
+    },
+    "Hi+YDA": {
+        "ko": "개조 오브(페이탈 플래쉬)",
+        "en": "Modification Orb (Fatal Flash)",
+        "pt": "Orbe de Modificação (Fatal Flash)",
+        "es": "Orbe de Modificación (Fatal Flash)"
+    },
+    "Hy+YDA": {
+        "ko": "개조 오브(럭키스트라이크)",
+        "en": "Modification Orb (Lucky Strike)",
+        "pt": "Orbe de Modificação (Lucky Strike)",
+        "es": "Orbe de Modificación (Lucky Strike)"
+    },
+    "IC+YDA": {
+        "ko": "[RS26]\n효능과 일치하는 모듈을 소지하셔야 강화를 진행 할 수 있습니다.",
+        "en": "[RS26]\nYou can proceed only if you have a module that matches the selected effect.",
+        "pt": "[RS26]\nVocê só pode prosseguir se possuir um módulo que corresponda ao efeito selecionado.",
+        "es": "[RS26]\nSolo puedes continuar si tienes un módulo que coincida con el efecto seleccionado."
+    },
+    "IS+YDA": {
+        "ko": "[RS26]\n정상적인 진행이 불가능한 상황입니다. 관리자를 찾으셔야 할 것 같군요.",
+        "en": "[RS26]\nNormal operation is not possible. You may need to contact an administrator.",
+        "pt": "[RS26]\nNão é possível prosseguir normalmente. Talvez você precise contatar um administrador.",
+        "es": "[RS26]\nNo es posible continuar con normalidad. Puede que debas contactar a un administrador."
+    },
+    "Ii+YDA": {
+        "ko": "[RS26]\n장비를 벗고 계신건 아닌가요?",
+        "en": "[RS26]\nAre you sure you’re not unequipped?",
+        "pt": "[RS26]\nTem certeza de que não está sem equipamento?",
+        "es": "[RS26]\n¿Seguro que no estás sin equipar el equipo?"
+    },
+    "Iy+YDA": {
+        "ko": "^FF0000랜덤옵션이 확인됩니다. 해당 장비는 작업 하실 수 없습니다.^000000",
+        "en": "^FF0000Random options detected. This equipment cannot be modified.^000000",
+        "pt": "^FF0000Opções aleatórias detectadas. Este equipamento não pode ser modificado.^000000",
+        "es": "^FF0000Se detectaron opciones aleatorias. Este equipo no se puede modificar.^000000"
+    },
+    "JC+YDA": {
+        "ko": "[RS26]\n이미 레전드급 모듈을 장착 하셨었군요. 더 이상의 레전드급 모듈 장착은 불가능합니다",
+        "en": "[RS26]\nYou have already installed a Legend-grade module. You cannot install any additional Legend-grade modules.",
+        "pt": "[RS26]\nVocê já instalou um módulo de grau Lendário. Não é possível instalar mais módulos Lendários.",
+        "es": "[RS26]\nYa has instalado un módulo de grado Legendario. No se pueden instalar más módulos Legendarios."
+    },
+    "JS+YDA": {
+        "ko": "[RS26]\n선택하신 모듈과 선택하신 장비는 호환되지 않습니다.",
+        "en": "[RS26]\nThe selected module is not compatible with the selected equipment.",
+        "pt": "[RS26]\nO módulo selecionado não é compatível com o equipamento selecionado.",
+        "es": "[RS26]\nEl módulo seleccionado no es compatible con el equipo seleccionado."
+    },
+    "Ji+YDA": {
+        "ko": "[RS26]\n이 모듈은 첫 강화 시에만 사용 가능합니다. 유감스럽게도 해당장비는 이미 다른 효능을 부여받으셨군요. 다른 모듈을 이용하여 강화해 주십시오.",
+        "en": "[RS26]\nThis module can be used only for the first enhancement. Unfortunately, this equipment already has a different effect. Please use another module.",
+        "pt": "[RS26]\nEste módulo só pode ser usado na primeira melhoria. Infelizmente, este equipamento já recebeu outro efeito. Use outro módulo.",
+        "es": "[RS26]\nEste módulo solo puede usarse en la primera mejora. Lamentablemente, este equipo ya tiene otro efecto. Usa otro módulo."
+    },
+    "Jy+YDA": {
+        "ko": "[RS26]\n이 모듈의 능력치는 {0}번 까지 확장 가능합니다. 이미 확장 한계치까지 작업이 된 것 같군요",
+        "en": "[RS26]\nThis module’s stats can be extended up to {0} times. It seems it has already reached the limit.",
+        "pt": "[RS26]\nOs atributos deste módulo podem ser ampliados até {0} vezes. Parece que já atingiu o limite.",
+        "es": "[RS26]\nLos atributos de este módulo se pueden ampliar hasta {0} veces. Parece que ya alcanzó el límite."
+    },
+    "KC+YDA": {
+        "ko": "[RS26]\n강화하시려는 장비가 이미 확장 한계치까지 작업이 된 것 같군요",
+        "en": "[RS26]\nIt seems the equipment you want to enhance has already reached its expansion limit.",
+        "pt": "[RS26]\nParece que o equipamento que você deseja melhorar já atingiu o limite de expansão.",
+        "es": "[RS26]\nParece que el equipo que deseas mejorar ya alcanzó el límite de expansión."
+    },
+    "KS+YDA": {
+        "ko": "[RS26]\n작업중에 장비를 장착해제 하시면 오류가 발생할 수 있습니다. 주의하십시오.",
+        "en": "[RS26]\nUnequipping the equipment during the process may cause errors. Please be careful.",
+        "pt": "[RS26]\nRemover o equipamento durante o processo pode causar erros. Tenha cuidado.",
+        "es": "[RS26]\nDesequipar el equipo durante el proceso puede causar errores. Ten cuidado."
+    },
+    "Ki+YDA": {
+        "ko": "일루전 쉴드A",
+        "en": "Illusion Shield A",
+        "pt": "Escudo de Ilusão A",
+        "es": "Escudo de Ilusión A"
+    },
+    "Ky+YDA": {
+        "ko": "일루전 쉴드B",
+        "en": "Illusion Shield B",
+        "pt": "Escudo de Ilusão B",
+        "es": "Escudo de Ilusión B"
+    },
+    "LC+YDA": {
+        "ko": "[RS26]\n강화하시려는 장착한 제품에 시리얼넘버가 없습니다. 규격 외 상품이므로 강화를 해 드릴 수 없습니다.",
+        "en": "[RS26]\nThe equipped item you want to enhance has no serial number. As it is non-standard, we cannot enhance it.",
+        "pt": "[RS26]\nO item equipado que você deseja melhorar não possui número de série. Por ser um produto fora do padrão, não é possível aprimorá-lo.",
+        "es": "[RS26]\nEl objeto equipado que deseas mejorar no tiene número de serie. Al ser un producto fuera de estándar, no se puede mejorar."
+    },
+    "LS+YDA": {
+        "ko": "[RS26]^0000FF\n{0} + {1} 선택\n^000000------------------\n선택하신 도면은 해당 장비에 최대 ^0000FF{2} 회 까지 동일한 도면으로 업그레이드 가능^000000하며 현재 ^0000FF{3} 회^000000 강화되어 있습니다. 계속 진행 하시겠습니까?",
+        "en": "[RS26]^0000FF\n{0} + {1} Selected\n^000000------------------\nThis blueprint can upgrade the selected equipment up to ^0000FF{2} times^000000 with the same blueprint, and it has been upgraded ^0000FF{3} times^000000 so far. Do you want to continue?",
+        "pt": "[RS26]^0000FF\n{0} + {1} Selecionado\n^000000------------------\nEsta planta pode aprimorar o equipamento selecionado até ^0000FF{2} vezes^000000 com a mesma planta, e ele já foi aprimorado ^0000FF{3} vezes^000000. Deseja continuar?",
+        "es": "[RS26]^0000FF\n{0} + {1} Seleccionado\n^000000------------------\nEste plano puede mejorar el equipo seleccionado hasta ^0000FF{2} veces^000000 con el mismo plano, y actualmente lleva ^0000FF{3} mejoras^000000. ¿Deseas continuar?"
+    },
+    "Li+YDA": {
+        "ko": "생각 좀 더 해보고...",
+        "en": "Let me think a bit more...",
+        "pt": "Vou pensar um pouco mais...",
+        "es": "Déjame pensarlo un poco más..."
+    },
+    "Ly+YDA": {
+        "ko": "진행한다",
+        "en": "Proceed",
+        "pt": "Prosseguir",
+        "es": "Continuar"
+    },
+    "MC+YDA": {
+        "ko": "[RS26]\n선택하신 장비는 이미 확장 한계치까지 작업이 된 것 같군요",
+        "en": "[RS26]\nIt seems the selected equipment has already reached its expansion limit.",
+        "pt": "[RS26]\nParece que o equipamento selecionado já atingiu o limite de expansão.",
+        "es": "[RS26]\nParece que el equipo seleccionado ya alcanzó el límite de expansión."
+    },
+    "MS+YDA": {
+        "ko": "[RS26]\n장비의 ^990000{0}번째 ^000000업그레이드를 시도합니다.",
+        "en": "[RS26]\nAttempting the ^990000{0}th^000000 upgrade of the equipment.",
+        "pt": "[RS26]\nTentando a ^990000{0}ª^000000 melhoria do equipamento.",
+        "es": "[RS26]\nIntentando la ^990000{0}.ª^000000 mejora del equipo."
+    },
+    "Mi+YDA": {
+        "ko": "[RS26]\n장비의 ^990000 보너스 효능 ^000000업그레이드를 시도합니다.",
+        "en": "[RS26]\nAttempting to upgrade the ^990000bonus effect^000000 of the equipment.",
+        "pt": "[RS26]\nTentando aprimorar o ^990000efeito bônus^000000 do equipamento.",
+        "es": "[RS26]\nIntentando mejorar el ^990000efecto adicional^000000 del equipo."
+    }
+}

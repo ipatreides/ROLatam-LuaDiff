@@ -340,7 +340,7 @@
         "es": "(No puedes comenzar la misión porque te sobrecargaste)."
     },
     "JDMp": {
-        "en": "[Pinedel]\nWhy it's working, Tabb?\nThat should be working.",
+        "en": "[Laphine craftsman]\nYur,Dur AnoVa?\nWha? Dieb OsaDur ..\nah..RuffThus NeAsh. man nesAsh OdesAlah ?",
         "pt": "[Pinedel]\nPor que não está funcionando, Tabb?\nDeveria estar funcionando.",
         "es": "[Pinedel]\n¿Por qué no funciona, Tabb?\nDebería funcionar."
     },
@@ -623,5 +623,10 @@
         "en": "Runaway Dandelion",
         "pt": "Dandelion Fugitivo",
         "es": "Diente de León fugitivo"
+    },
+    "XTMp": {
+        "en": "- You are carrying too many items to proceed with this quest. -",
+        "pt": "- Você não pode prosseguir com a missão porque tem muitos itens. -",
+        "es": "- Llevas demasiados objetos para continuar con esta misión.-"
     }
 }

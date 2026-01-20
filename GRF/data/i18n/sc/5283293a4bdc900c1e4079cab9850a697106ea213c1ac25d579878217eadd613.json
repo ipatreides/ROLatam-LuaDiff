@@ -143,5 +143,10 @@
         "en": "Manuk Field (20,000 Zeny)",
         "pt": "Campo de Manuk (20.000 Zeny)",
         "es": "Campo Manuk (20 000 zeny)."
+    },
+    "/QZa": {
+        "en": "- You are carrying too many items to proceed with this quest. -",
+        "pt": "- Você não pode prosseguir com a missão porque tem muitos itens. -",
+        "es": "- Llevas demasiados objetos para continuar con esta misión.-"
     }
 }

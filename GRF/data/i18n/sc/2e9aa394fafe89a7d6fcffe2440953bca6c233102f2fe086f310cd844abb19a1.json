@@ -1588,5 +1588,10 @@
         "en": "[TFQ Guide]\nSupply completed",
         "pt": "[TFQ Guide]\nFornecimento concluído",
         "es": "[Guía de MLT]\nSuministro completado."
+    },
+    "vjunBw": {
+        "en": "- You are carrying too many items to proceed with this quest. -",
+        "pt": "- Você não pode prosseguir com a missão porque tem muitos itens. -",
+        "es": "- Llevas demasiados objetos para continuar con esta misión.-"
     }
 }

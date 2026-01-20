@@ -8004,6 +8004,13 @@ QuestInfoList = {
 		Title = "",
 		Description = {""}
 	},
+	[4132] = {
+		Title = "The Cunning Wizard of Geffen",
+		Description = {
+			"The wizard of Geffen looks like he is about to fall asleep."
+		},
+		Summary = ""
+	},
 	[4133] = {
 		Title = "Anori's Purification Potion",
 		Description = {
@@ -23386,7 +23393,7 @@ QuestInfoList = {
 		CoolTimeQuest = 1
 	},
 	[8541] = {
-		Title = "There is nothing inside.",
+		Title = "An Empty Thing",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"<NAVI>[Nillem]<INFO>glast_01,191,273,0,101,0</INFO></NAVI> asks you to hunt 20 Contaminated Raydric and 20 Contaminated Raydric Archer, and then check their contents."
@@ -23394,7 +23401,7 @@ QuestInfoList = {
 		Summary = "Defeat Contaminated Raydric and Contaminated Raydric Archer."
 	},
 	[8542] = {
-		Title = "Empty contents - Waiting",
+		Title = "[Waiting] An Empty Thing",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"This quest is a daily quest, and you can receive and complete it again from <NAVI>[Nillem]<INFO>glast_01,191,273,0,101,0</INFO></NAVI> once the cooldown period has expired."
@@ -23402,7 +23409,7 @@ QuestInfoList = {
 		Summary = "Reset at 4 AM"
 	},
 	[8543] = {
-		Title = "It probably doesn't contain anything.",
+		Title = "Perhaps, An Empty Thing",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"<NAVI>[Nillem]<INFO>glast_01,191,273,0,101,0</INFO></NAVI> asks you to hunt 20 Contaminated Raydric and 20 Contaminated Raydric Archer, and then check their contents."
@@ -23410,7 +23417,7 @@ QuestInfoList = {
 		Summary = "Defeat Contaminated Raydric and Contaminated Raydric Archer."
 	},
 	[8544] = {
-		Title = "A higher freezing point",
+		Title = "A Thing with High Freezing Point",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"<NAVI>[Nillem]<INFO>glast_01,191,273,0,101,0</INFO></NAVI> asks you to defeat 5 Frozen Gargoyle and 5 Prison Breaker and then return to witness the change."
@@ -23418,7 +23425,7 @@ QuestInfoList = {
 		Summary = "Defeat Frozen Gargoyle and Prison Breaker."
 	},
 	[8545] = {
-		Title = "High Freezing Point - Air",
+		Title = "[Waiting] A Thing with High Freezing Point",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"This quest is a daily quest, and you can receive and complete it again from <NAVI>[Nillem]<INFO>glast_01,191,273,0,101,0</INFO></NAVI> once the cooldown period has expired."
@@ -23426,7 +23433,7 @@ QuestInfoList = {
 		Summary = "Reset at 4 AM"
 	},
 	[8546] = {
-		Title = "A very high freezing point",
+		Title = "A Thing with Pretty High Freezing Point",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"<NAVI>[Nillem]<INFO>glast_01,191,273,0,101,0</INFO></NAVI> asks you to defeat 5 Frozen Gargoyle and 5 Prison Breaker and then return to see what changes occur."
@@ -23434,15 +23441,15 @@ QuestInfoList = {
 		Summary = "Defeat Frozen Gargoyle and Prison Breaker."
 	},
 	[8547] = {
-		Title = "Something like a mirror",
+		Title = "A Thing Like A Mirror",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"<NAVI>[Nillem]<INFO>glast_01,191,273,0,101,0</INFO></NAVI> asks you to defeat 10 Ice Ghost and 10 Flame Ghosts, and then show him the results."
 		},
-		Summary = "Ice Ghost, Flame Ghost"
+		Summary = "Defeat Ice Ghost and Flame Ghost"
 	},
 	[8548] = {
-		Title = "Something Like a Mirror - Waiting",
+		Title = "[Waiting] A Thing Like A Mirror",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"This quest is a daily quest, and once the cooldown expires, you can receive and complete it again from <NAVI>[Nillem]<INFO>glast_01,191,273,0,101,0</INFO></NAVI>."
@@ -23450,15 +23457,15 @@ QuestInfoList = {
 		Summary = "Reset at 4 AM"
 	},
 	[8549] = {
-		Title = "It's just like a mirror.",
+		Title = "A Thing Like A Mysterious Mirror",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"<NAVI>[Nillem]<INFO>glast_01,191,273,0,101,0</INFO></NAVI> asks you to defeat 10 Ice Ghost and 10 Flame Ghosts, then return to show the results."
 		},
-		Summary = "Ice Ghost, Flame Ghost"
+		Summary = "Defeat Ice Ghost and Flame Ghost"
 	},
 	[8550] = {
-		Title = "Deleter that has undergone abnormal evolution",
+		Title = "Abnormally Evolved Deleter",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"<NAVI>[Lily Blanc]<INFO>yuno_fild03,38,146,0,101,0</INFO></NAVI> asks you to fight 15 Stiff Deleter(Sky) and 15 Stiff Deleter(Ground), then report back on the differences between the races."
@@ -23466,7 +23473,7 @@ QuestInfoList = {
 		Summary = "Defeat Stiff Deleter(Sky) and Stiff Deleter(Ground)."
 	},
 	[8551] = {
-		Title = "Deleter that has undergone abnormal evolution - Standby",
+		Title = "[Waiting] Abnormally Evolved Deleter",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"This quest is a daily quest, and you can receive and complete it again from <NAVI>[Lily Blanc]<INFO>yuno_fild03,38,146,0,101,0</INFO></NAVI> once the cooldown period has expired."
@@ -23474,7 +23481,7 @@ QuestInfoList = {
 		Summary = "Reset at 4 AM"
 	},
 	[8552] = {
-		Title = "Reinvestigation of the Deleter that underwent abnormal evolution",
+		Title = "Reinvestigation of Abnormally Evolved Deleter",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"<NAVI>[Lily Blanc]<INFO>yuno_fild03,38,146,0,101,0</INFO></NAVI> asks you to fight 15 Stiff Deleter(Sky) and 15 Stiff Deleter(Ground), then report back on the differences between the races."
@@ -23482,7 +23489,7 @@ QuestInfoList = {
 		Summary = "Defeat Stiff Deleter(Sky) and Stiff Deleter(Ground)."
 	},
 	[8553] = {
-		Title = "Defeating the Materialized Nightmare",
+		Title = "Defeat Real Nightmare",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"<NAVI>[Lily Blanc]<INFO>yuno_fild03,38,146,0,101,0</INFO></NAVI> asks you to fight 10 Stiff Nightmare Terror and report back on the differences between the races."
@@ -23490,7 +23497,7 @@ QuestInfoList = {
 		Summary = "Defeat Stiff Nightmare Terror"
 	},
 	[8554] = {
-		Title = "Defeat the Materialized Nightmare - Waiting",
+		Title = "[Waiting] Defeat Real Nightmare",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"This quest is a daily quest, and you can receive and complete it again from <NAVI>[Lily Blanc]<INFO>yuno_fild03,38,146,0,101,0</INFO></NAVI> once the cooldown period has expired."
@@ -23498,7 +23505,7 @@ QuestInfoList = {
 		Summary = "Reset at 4 AM"
 	},
 	[8555] = {
-		Title = "Defeating the Terrifying Nightmare That Has Taken Form",
+		Title = "Defeat Real Scary Nightmare",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"<NAVI>[Lily Blanc]<INFO>yuno_fild03,38,146,0,101,0</INFO></NAVI> asks you to fight 10 Stiff Nightmare Terror and report back on the differences between the races."
@@ -23506,7 +23513,7 @@ QuestInfoList = {
 		Summary = "Defeat Stiff Nightmare Terror"
 	},
 	[8556] = {
-		Title = "Check the density.",
+		Title = "Density Verification",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"<NAVI>[Lily Blanc]<INFO>yuno_fild03,38,146,0,101,0</INFO></NAVI> asks you to defeat 10 Stiff Lava Golem and report back about the differences between the races."
@@ -23514,7 +23521,7 @@ QuestInfoList = {
 		Summary = "Defeat Stiff Lava Golem"
 	},
 	[8557] = {
-		Title = "Density Check - Standby",
+		Title = "[Waiting] Density Verification",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"This quest is a daily quest, and you can receive and complete it again from <NAVI>[Lily Blanc]<INFO>yuno_fild03,38,146,0,101,0</INFO></NAVI> once the cooldown period has expired."
@@ -23522,7 +23529,7 @@ QuestInfoList = {
 		Summary = "Reset at 4 AM"
 	},
 	[8558] = {
-		Title = "Check the density once more.",
+		Title = "Density Verification Again",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"<NAVI>[Lily Blanc]<INFO>yuno_fild03,38,146,0,101,0</INFO></NAVI> asks you to defeat 10 Stiff Lava Golem and report back about the differences between the races."
@@ -23530,15 +23537,15 @@ QuestInfoList = {
 		Summary = "Defeat Stiff Lava Golem"
 	},
 	[8559] = {
-		Title = "Small things that crumble away",
+		Title = "The Small Things That Rustle",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Lily Blanc]<INFO>yuno_fild03,38,146,0,101,0</INFO></NAVI> asks you to defeat 10 Stiff Explosion and 10 Stiff Blazer, then report back on the differences between the species."
+			"<NAVI>[Lily Blanc]<INFO>yuno_fild03,38,146,0,101,0</INFO></NAVI> asks you to defeat 10 Rigid Explosion and 10 Stiff Blazer, then report back on the differences between the species."
 		},
-		Summary = "Defeat Stiff Explosion and Stiff Blazer."
+		Summary = "Defeat Rigid Explosion and Stiff Blazer."
 	},
 	[8560] = {
-		Title = "Small Things That Crumble - Waiting",
+		Title = "[Waiting] The Small Things That Rustle",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"This quest is a daily quest, and once the cooldown expires, you can receive and complete it again from <NAVI>[Lily Blanc]<INFO>yuno_fild03,38,146,0,101,0</INFO></NAVI>."
@@ -23546,12 +23553,12 @@ QuestInfoList = {
 		Summary = "Reset at 4 AM"
 	},
 	[8561] = {
-		Title = "Things that crumble are often very small.",
+		Title = "The Very Small Things That Rustle",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Lily Blanc]<INFO>yuno_fild03,38,146,0,101,0</INFO></NAVI> asks you to defeat 10 Stiff Explosion and 10 Stiff Blazer, then report back on the differences between the races."
+			"<NAVI>[Lily Blanc]<INFO>yuno_fild03,38,146,0,101,0</INFO></NAVI> asks you to defeat 10 Rigid Explosion and 10 Stiff Blazer, then report back on the differences between the races."
 		},
-		Summary = "Defeat Stiff Explosion and Stiff Blazer."
+		Summary = "Defeat Rigid Explosion and Stiff Blazer."
 	},
 	[8577] = {
 		Title = "Will grind a melon for you.",
@@ -32087,7 +32094,7 @@ QuestInfoList = {
 		Title = "Old Memories",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"It seems we've found the enemy's hideout disguised as an abandoned mine near Einbroch. Let's check the surroundings to make sure there are no other enemies nearby."
+			"It seems we've found the enemy's hideout disguised as an abandoned mine near Einbroch. Let's check the surroundings to make sure there are no other enemies <NAVI>nearby<INFO>ein_fild03,347,219,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Search the surroundings"
 	},
@@ -32095,7 +32102,7 @@ QuestInfoList = {
 		Title = "Old Memories",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Nothing special can be seen. Let's look somewhere else."
+			"Nothing special can be seen. Let's look <NAVI>somewhere else<INFO>ein_fild03,268,207,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Search the surroundings"
 	},
@@ -32103,7 +32110,7 @@ QuestInfoList = {
 		Title = "Old Memories",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Nothing special can be seen. Let's look somewhere else."
+			"Nothing special can be seen. Let's look <NAVI>somewhere else<INFO>ein_fild03,218,266,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Search the surroundings"
 	},
@@ -32111,7 +32118,7 @@ QuestInfoList = {
 		Title = "Old Memories",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Nothing special can be seen. Let's return to Rebellion Member."
+			"Nothing special can be seen. Let's return to <NAVI>Rebellion Member<INFO>ein_fild03,278,269,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Talk to Rebellion Member.",
 		RewardEXP = 100000,
@@ -32121,7 +32128,7 @@ QuestInfoList = {
 		Title = "Old Memories",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Let's take a look inside the abandoned mine, where the path is blocked."
+			"Let's take a look <NAVI>inside the abandoned mine<INFO>ein_fild03,278,269,0,101,0</INFO></NAVI>, where the path is blocked."
 		},
 		Summary = "Inside",
 		RewardEXP = 600000,
@@ -32131,7 +32138,7 @@ QuestInfoList = {
 		Title = "Old Memories",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"A path to the next area has opened. Return to Clananemieri to deliver the news, then go to Dien's room and bring back the item that Dien is looking for."
+			"A path to the next area has opened. Return to <NAVI>Clananemieri<INFO>rebel_in,68,41,0,101,0</INFO></NAVI> to deliver the news, then go to Dien's room and bring back the item that Dien is looking for."
 		},
 		Summary = "Clana Nemieri"
 	},
@@ -32139,7 +32146,7 @@ QuestInfoList = {
 		Title = "Old Memories",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Let's return to Dien's room with the item that Dien is looking for."
+			"Let's return to Dien's room with the <NAVI>item<INFO>rebel_in,161,87,0,101,0</INFO></NAVI> that Dien is looking for."
 		},
 		Summary = "Talisman of Dien"
 	},
@@ -32147,7 +32154,7 @@ QuestInfoList = {
 		Title = "Old Memories",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"You have found Dien's talisman. Let's return to Dien."
+			"You have found Dien's talisman. Let's return to <NAVI>Dien<INFO>sp_os,252,359,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Go back to Dien.",
 		RewardEXP = 200000,
@@ -45667,7 +45674,7 @@ Talk to Kar=],
 		Title = "Job Road, Journey Begins",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"We will now begin our journey tracing the career path of Pac from their first job to the present. I’ll see you at <NAVI>[Lighthalzen]<INFO>lighthalzen,259,215,0,101,0</INFO></NAVI>."
+			"We will now begin our journey tracing the career path of Pac from their first job to the present. I'll see you at <NAVI>[Lighthalzen]<INFO>lighthalzen,259,215,0,101,0</INFO></NAVI>."
 		},
 		Summary = "To Lighthalzen"
 	},
@@ -45823,7 +45830,7 @@ Talk to Kar=],
 		Title = "Find Pac.",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"If you're looking for someone, try going to <NAVI>[person]<INFO>sp_cor,151,180,0,101,0</INFO></NAVI>, who used to handle the laundry. They've been around for a long time and know a lot of people."
+			"If you're looking for someone, try going to <NAVI>[A person]<INFO>sp_cor,151,180,0,101,0</INFO></NAVI>, who used to handle the laundry. They've been around for a long time and know a lot of people."
 		},
 		Summary = "To the laundry manager",
 		RewardEXP = 300000,
@@ -45841,7 +45848,7 @@ Talk to Kar=],
 		Title = "Find Pac.",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"They said there’s a separate <NAVI>[Disposal Site]<INFO>sp_rudus,227,351,0,101,0</INFO></NAVI> for things that are heavily contaminated or can’t be burned. They have their own name for it…"
+			"They said there's a separate <NAVI>[Disposal Site]<INFO>sp_rudus,227,351,0,101,0</INFO></NAVI> for things that are heavily contaminated or can't be burned. They have their own name for it."
 		},
 		Summary = "To Ludeus."
 	},
@@ -45926,7 +45933,7 @@ Talk to Kar=],
 	},
 	[17034] = {
 		Title = "To Ludeus.",
-		IconName = "ico_ep.bmp",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"Then, please grant peace to the 20 test subjects known as Dolor, and bring me 10 identification bracelets for test subjects. - <NAVI>[Ahs]<INFO>sp_cor,135,147,0,101,0</INFO></NAVI>"
 		},
@@ -45940,7 +45947,7 @@ Talk to Kar=],
 	},
 	[17035] = {
 		Title = "Waiting: Ludeus",
-		IconName = "ico_ep.bmp",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"I will see you again after dawn. You really worked hard. - <NAVI>[Ahs]<INFO>sp_cor,135,147,0,101,0</INFO></NAVI>"
 		},
@@ -49153,6 +49160,48 @@ Talk to Kar=],
 			"You can only challenge Troy once the timer has expired."
 		},
 		Summary = ""
+	},
+	[20000] = {
+		Title = "User Character Verification Complete",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Your user character verification for RagFes has been completed!"
+		},
+		Summary = "RagFes"
+	},
+	[20022] = {
+		Title = "I Am the God of Refinement! (1)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"The \"I Am the God of Refinement!\" event (Round 1) is currently in progress."
+		},
+		Summary = ""
+	},
+	[20023] = {
+		Title = "I Am the God of Refinement! (2)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"The \"I Am the God of Refinement!\" event (Round 2) is currently in progress."
+		},
+		Summary = ""
+	},
+	[20024] = {
+		Title = "I Am the God of Refinement! (3)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"The \"I Am the God of Refinement!\" event (Round 3) is currently in progress."
+		},
+		Summary = ""
+	},
+	[20025] = {
+		Title = "[Waiting] I Am the God of Refinement!",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Today's \"I Am the God of Refinement!\" event has ended.",
+			"You can try again after the event venue opens tomorrow."
+		},
+		Summary = "Reset at 11:00",
+		CoolTimeQuest = 1
 	},
 	[21001] = {
 		Title = "Shipwreck Escape",
@@ -71834,6 +71883,104 @@ Talk to Kar=],
 		Summary = "Reset at 4 AM",
 		CoolTimeQuest = 1
 	},
+	[295259] = {
+		Title = "Battle Pass Daily1",
+		Description = {
+			"Defeat 5 Hardened Sky Deleter"
+		},
+		Summary = "Defeat 5 Hardened Sky Deleter"
+	},
+	[295260] = {
+		Title = "Battle Pass Daily1",
+		Description = {
+			"Defeat Hardened Sky Deleter / Once per day, resets at 04:00"
+		},
+		Summary = "Resets at 04:00"
+	},
+	[295261] = {
+		Title = "Battle Pass Daily2",
+		Description = {
+			"Defeat 5 Hardened Ground Deleter"
+		},
+		Summary = "Defeat 5 Hardened Ground Deleter"
+	},
+	[295262] = {
+		Title = "Battle Pass Daily2",
+		Description = {
+			"Defeat Hardened Ground Deleter / Once per day, resets at 04:00"
+		},
+		Summary = "Resets at 04:00"
+	},
+	[295263] = {
+		Title = "Battle Pass Daily3",
+		Description = {
+			"Defeat 5 Ice Ghost"
+		},
+		Summary = "Defeat 5 Ice Ghost"
+	},
+	[295264] = {
+		Title = "Battle Pass Daily3",
+		Description = {
+			"Defeat Ice Ghost / Once per day, resets at 04:00"
+		},
+		Summary = "Resets at 04:00"
+	},
+	[295265] = {
+		Title = "Battle Pass Daily4",
+		Description = {
+			"Defeat 5 Flame Ghost"
+		},
+		Summary = "Defeat 5 Flame Ghost"
+	},
+	[295266] = {
+		Title = "Battle Pass Daily4",
+		Description = {
+			"Defeat Flame Ghost / Once per day, resets at 04:00"
+		},
+		Summary = "Resets at 04:00"
+	},
+	[295267] = {
+		Title = "Battle Pass Daily5",
+		Description = {
+			"Defeat 1 Nacht Sieger"
+		},
+		Summary = "Defeat 1 Nacht Sieger"
+	},
+	[295268] = {
+		Title = "Battle Pass Daily5",
+		Description = {
+			"Defeat Nacht Sieger / Once per week, resets at 04:00"
+		},
+		Summary = "Resets at 04:00"
+	},
+	[295269] = {
+		Title = "Battle Pass Alltime",
+		Description = {
+			"Level up your character once"
+		},
+		Summary = "Level up your character once"
+	},
+	[295270] = {
+		Title = "Battle Pass Alltime",
+		Description = {
+			"Level up your character once / Once per week, resets at 04:00"
+		},
+		Summary = "Battle Pass Season 1 Mission Complete"
+	},
+	[295271] = {
+		Title = "Battle Pass Bonus Quest",
+		Description = {
+			"Reach Level 185"
+		},
+		Summary = "Reach Level 185"
+	},
+	[295272] = {
+		Title = "Battle Pass Bonus Quest",
+		Description = {
+			"Reach Level 185 / Once during this event"
+		},
+		Summary = "Battle Pass Season 1 Mission Complete"
+	},
 	[297001] = {
 		Title = "Talk to Pvt Woods Goofus",
 		IconName = "ico_ev.bmp",
@@ -72288,47 +72435,5 @@ Talk to Kar=],
 		NpcNavi = "geffen",
 		NpcPosX = 40,
 		NpcPosY = 141
-	},
-	[20000] = {
-		Title = "User Character Verification Complete",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"Your user character verification for RagFes has been completed!"
-		},
-		Summary = "RagFes"
-	},
-	[20022] = {
-		Title = "I Am the God of Refinement! (1)",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"The \"I Am the God of Refinement!\" event (Round 1) is currently in progress."
-		},
-		Summary = ""
-	},
-	[20023] = {
-		Title = "I Am the God of Refinement! (2)",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"The \"I Am the God of Refinement!\" event (Round 2) is currently in progress."
-		},
-		Summary = ""
-	},
-	[20024] = {
-		Title = "I Am the God of Refinement! (3)",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"The \"I Am the God of Refinement!\" event (Round 3) is currently in progress."
-		},
-		Summary = ""
-	},
-	[20025] = {
-		Title = "[Waiting] I Am the God of Refinement!",
-		IconName = "ico_dq.bmp",
-		Description = {
-			"Today's \"I Am the God of Refinement!\" event has ended.",
-			"You can try again after the event venue opens tomorrow."
-		},
-		Summary = "Reset at 11:00",
-		CoolTimeQuest = 1
 	}
 }

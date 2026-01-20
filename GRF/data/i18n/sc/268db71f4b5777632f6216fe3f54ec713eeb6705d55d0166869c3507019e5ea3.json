@@ -10617,7 +10617,7 @@
     "644B": {
         "en": "Twin Capute",
         "pt": "Caput",
-        "es": "Gemelo capute"
+        "es": "Caput"
     },
     "7I4B": {
         "en": "A013-Bellare",
@@ -10627,7 +10627,7 @@
     "7Y4B": {
         "en": "A013-Capute",
         "pt": "A013-Caput",
-        "es": "A013-Capute"
+        "es": "A013-Caput"
     },
     "7o4B": {
         "en": "A013-Dolor",
@@ -10637,12 +10637,12 @@
     "744B": {
         "en": "Body Battery",
         "pt": "Biobateria",
-        "es": "Batería corporal"
+        "es": "Bio Bateria"
     },
     "8I4B": {
         "en": "Sorrow Crob",
         "pt": "Vítima",
-        "es": "Crob del lamento"
+        "es": "Cobaya del Lamento"
     },
     "8Y4B": {
         "en": "EL-A17T",
@@ -10667,7 +10667,7 @@
     "9Y4B": {
         "en": "Manhole2",
         "pt": "Buraco",
-        "es": "Boca de acceso2"
+        "es": "Sigilo del Abismo"
     },
     "9o4B": {
         "en": "Miguel",
@@ -10692,12 +10692,12 @@
     "+o4B": {
         "en": "Heart Hunter Bellare",
         "pt": "Bellare",
-        "es": "Cazador de corazones Bellare"
+        "es": "Cazacorazones Bellare"
     },
     "+44B": {
         "en": "Heart Hunter Sanare",
         "pt": "Sanare",
-        "es": "Cazador de corazones Sanare"
+        "es": "Cazacorazones Sanare"
     },
     "/I4B": {
         "en": "Dolor",
@@ -10712,17 +10712,17 @@
     "/o4B": {
         "en": "Twin Caputs",
         "pt": "Caput",
-        "es": "Gemelos caput"
+        "es": "Gemelos Caput"
     },
     "/44B": {
         "en": "High Hunter Bellare",
         "pt": "Bellare Mutante",
-        "es": "Sumo cazador Bellare"
+        "es": "Gran Cazador Bellare"
     },
     "AI8B": {
         "en": "High Hunter Sanare",
         "pt": "Sanare Mutante",
-        "es": "Sumo cazador Sanare"
+        "es": "Gran Cazador Sanare"
     },
     "AY8B": {
         "en": "Plaga",
@@ -10747,7 +10747,7 @@
     "BY8B": {
         "en": "Mutant Twin Caputs",
         "pt": "Caput Mutante",
-        "es": "Gemelos caput mutantes"
+        "es": "Caput mutante"
     },
     "Bo8B": {
         "en": "Angry Gazeti",
@@ -11290,7 +11290,7 @@
         "es": "Deleter rígido (tierra)"
     },
     "co8B": {
-        "en": "Stiff Explosion",
+        "en": "Rigid Explosion",
         "pt": "Explosão",
         "es": "Explosión rígida"
     },
@@ -11305,22 +11305,22 @@
         "es": "Gólem de lava rígido"
     },
     "dY8B": {
-        "en": "Stiff Muspellskoll",
+        "en": "Rigid Muspellskoll",
         "pt": "Muspellskoll",
         "es": "Muspellskoll rígido"
     },
     "do8B": {
-        "en": "Contaminated Wander Man",
+        "en": "Corrupted Wanderer",
         "pt": "Andarilho Poluto",
         "es": "Vagabundo contaminado"
     },
     "d48B": {
-        "en": "Contaminated Brinaranea",
+        "en": "Corrupted Spider Queen",
         "pt": "Aranha Rainha",
         "es": "Brinaranea contaminada"
     },
     "eI8B": {
-        "en": "Contaminated Dark Lord",
+        "en": "Corrupted Dark Lord",
         "pt": "Lorde das Trevas",
         "es": "Lord oscuro contaminado"
     },

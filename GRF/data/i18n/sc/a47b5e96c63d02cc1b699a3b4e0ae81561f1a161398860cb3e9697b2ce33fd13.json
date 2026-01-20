@@ -110,7 +110,7 @@
         "es": "[Regente de la Orden de los Caballeros del Barrio]\n¡Prometo que, como el cabecilla de la orden,\nte daré más trabajo\ncuando vuelvas!"
     },
     "Fj5J": {
-        "en": "[Other Heads]\nI approve it, as the Chief.\nYou can thank me, the Boss.\nYou know the Leader is the boss here, right?",
+        "en": "[Order of the Knights Head]\ncould help solve the case,\nbut we can't now\nbecause we're not done cleaning the yard yet.\nSo, what I'm trying to say is",
         "pt": "[Outros chefes]\nEu aprovo, como Chefe.\nVocê pode me agradecer, o Chefão.\nVocês sabem que o Líder é o chefe aqui, certo?",
         "es": "[Otros cabecillas]\nLo apruebo, como la presidenta.\nPuedes agradecérmelo a mí, el jefe.\nSabes que la líder es el jefe aquí, ¿verdad?"
     },
@@ -208,5 +208,10 @@
         "en": "[Other Leaders]\nHuh! I said the Boss is the boss!\nNo, the Chief is the best!\nHow rude you all are! I'm the Head here!",
         "pt": "[Outros líderes]\nHuh! Eu disse que o chefão é o chefão!\nNão, o Chefe é o melhor!\nComo vocês são rudes! Eu sou o Regente aqui!",
         "es": "[Otros líderes]\n¡Ah! ¡Dije que el jefe es el jefe!\n¡No, la presidenta es la mejor!\n¡Qué maleducados son todos ustedes! ¡Yo soy el cabecilla aquí!"
+    },
+    "Kj5J": {
+        "en": "- You are carrying too many items to proceed with this quest. -",
+        "pt": "- Você não pode prosseguir com a missão porque tem muitos itens. -",
+        "es": "- Llevas demasiados objetos para continuar con esta misión.-"
     }
 }

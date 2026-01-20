@@ -1048,5 +1048,10 @@
         "en": "The crack looks suspicious, but nothing more to check.",
         "pt": "A rachadura parece um pouco suspeita...",
         "es": "La grieta parece sospechosa, pero no hay nada más que comprobar."
+    },
+    "sm6BCA": {
+        "en": "- You are carrying too many items to proceed with this quest. -",
+        "pt": "- Você não pode prosseguir com a missão porque tem muitos itens. -",
+        "es": "- Llevas demasiados objetos para continuar con esta misión.-"
     }
 }
