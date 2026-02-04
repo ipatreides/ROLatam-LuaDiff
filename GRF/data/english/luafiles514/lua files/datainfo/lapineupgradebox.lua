@@ -14860,6 +14860,144 @@ tblLapineUpgradeBox = {
 				}
 			},
 			NeedSource_String = "Lava Leather Armor"
+		},
+		Underwater_Box_IL = {
+			ItemID = 100425,
+			NeedRefineMin = 4,
+			NeedRefineMax = 9,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = false,
+			TargetItems = {
+				{
+					"Death_Guidance_IL",
+					600011
+				},
+				{
+					"KatarOfCold_Icicle_IL",
+					610012
+				},
+				{"Brionac_IL", 630006},
+				{
+					"Zephyrus_IL",
+					630007
+				},
+				{
+					"Electronic_Guitar_IL",
+					570008
+				},
+				{
+					"Electric_Eel_IL",
+					580008
+				},
+				{
+					"Saint_Robe_IL",
+					450144
+				},
+				{
+					"Water_Sprits_Armor_IL",
+					450145
+				},
+				{
+					"Chain_Mail_IL",
+					450146
+				},
+				{
+					"Morrigane_Helm_IL",
+					400053
+				},
+				{
+					"Morrigane_Manyeau_IL",
+					480054
+				}
+			},
+			NeedSource_String = "Illusion of Underwater Equipment"
+		},
+		S_Underwater_Box_IL = {
+			ItemID = 100426,
+			NeedRefineMin = 4,
+			NeedRefineMax = 11,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = false,
+			TargetItems = {
+				{
+					"Death_Guidance_IL",
+					600011
+				},
+				{
+					"KatarOfCold_Icicle_IL",
+					610012
+				},
+				{"Brionac_IL", 630006},
+				{
+					"Zephyrus_IL",
+					630007
+				},
+				{
+					"Electronic_Guitar_IL",
+					570008
+				},
+				{
+					"Electric_Eel_IL",
+					580008
+				},
+				{
+					"Saint_Robe_IL",
+					450144
+				},
+				{
+					"Water_Sprits_Armor_IL",
+					450145
+				},
+				{
+					"Chain_Mail_IL",
+					450146
+				},
+				{
+					"Morrigane_Helm_IL",
+					400053
+				},
+				{
+					"Morrigane_Manyeau_IL",
+					480054
+				}
+			},
+			NeedSource_String = "Illusion of Underwater Equipment"
+		},
+		Dead_Soul_Record_TW = {
+			ItemID = 101304,
+			NeedRefineMin = 0,
+			NeedRefineMax = 20,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"Manteau_Of_Fallen",
+					20748
+				},
+				{
+					"Manteau_Of_Fallen_",
+					20749
+				},
+				{
+					"Subject_Cape_TW",
+					480024
+				}
+			},
+			NeedSource_String = "Fallen Warrior’s Cloak, Tormented Soul’s Cloak"
+		},
+		P_Sungl_Dduck_Box = {
+			ItemID = 101670,
+			NeedRefineMin = 0,
+			NeedRefineMax = 0,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"Poring_Sunglasses_K_",
+					19118
+				}
+			},
+			NeedSource_String = "Poring Sunglasses+"
 		}
 	},
 	get_lapine_box = function(in_box_id)

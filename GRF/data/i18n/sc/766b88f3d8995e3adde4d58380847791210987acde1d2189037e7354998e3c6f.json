@@ -12,7 +12,7 @@
     "Qip+Aw": {
         "en": "[Nahadan]\nI'm from the Eden Group. I'll give you jobs if you become a member.",
         "pt": "[Nahadan]\nSomente um membro do Grupo do Éden pode falar comigo.",
-        "es": "[Nahadan]\nSoy del Grupo de Edén. Si te unes, te asignaré trabajos."
+        "es": "[Nahadan]\nSoy del Grupo del Edén. Si te unes, te asignaré trabajos."
     },
     "Qyp+Aw": {
         "en": "[Nahadan]\nYou're just a kid. I have to keep an eye on you, clean up after you...",
@@ -32,17 +32,17 @@
     "Rip+Aw": {
         "en": "[Nahadan]\nYou've already been to the Eden Group?\nThen I have no quests to share.",
         "pt": "[Nahadan]\nVocê aceitou a missão pelo Grupo do Éden...\nEu não tenho nada a oferecer.",
-        "es": "[Nahadan]\n¿Ya estuviste en el Grupo de Edén?\nEntonces, no tengo misiones para compartir."
+        "es": "[Nahadan]\n¿Ya estuviste en el Grupo del Edén?\nEntonces, no tengo misiones para compartir."
     },
     "Ryp+Aw": {
         "en": "[Nahadan]\nAlready done with the quest from the Eden Group?\nThen come back again tomorrow.",
         "pt": "[Nahadan]\nParece que você terminou aquela solicitação no Grupo do Éden.\nÉ melhor descansar e esperar até amanhã.",
-        "es": "[Nahadan]\n¿Ya terminaste con la misión del Grupo de Edén?\nEntonces, vuelve mañana."
+        "es": "[Nahadan]\n¿Ya terminaste con la misión del Grupo del Edén?\nEntonces, vuelve mañana."
     },
     "SCp+Aw": {
         "en": "[Nahadan]\nHey, you! You don't look like a tourist, judging by your hands.\nI'm an Eden Group guard at Abyss Lake. Care to listen to my story?",
         "pt": "[Nahadan]\nObservando sua mão, você não parece ser turista.\nSou funcionária do Grupo do Éden atuando no Lago do Abismo, posso falar com você um instante?",
-        "es": "[Nahadan]\n¡Oye, tú! A juzgar por tus manos, no tienes aspecto de turista.\nSoy guardia del Grupo de Edén en el Lago del abismo. ¿Quiere escuchar mi historia?"
+        "es": "[Nahadan]\n¡Oye, tú! A juzgar por tus manos, no tienes aspecto de turista.\nSoy guardia del Grupo del Edén en el Lago del abismo. ¿Quiere escuchar mi historia?"
     },
     "SSp+Aw": {
         "en": "Sure, why not.",
@@ -62,12 +62,12 @@
     "TCp+Aw": {
         "en": "[Nahadan]\nThat's why people from the Eden Group are sent to secure their safety.\nI'm in charge of Abyss Lake, and there's this weird occult maniac at the dock responsible for Odin Temple.",
         "pt": "[Nahadan]\nPor isso que o Grupo do Éden me enviou para cá.\nEnquanto eu cuido do Lago do Abismo, tem um estranho encarregado do Templo de Odin.",
-        "es": "[Nahadan]\nPor eso se envía a gente del Grupo de Edén para garantizar su seguridad.\nEstoy a cargo del Lago del abismo, y hay un extraño maníaco ocultista en el muelle responsable del Templo de Odín."
+        "es": "[Nahadan]\nPor eso se envía a gente del Grupo del Edén para garantizar su seguridad.\nEstoy a cargo del Lago del abismo, y hay un extraño maníaco ocultista en el muelle responsable del Templo de Odín."
     },
     "TSp+Aw": {
         "en": "[Nahadan]\nWe can't go out there to hunt, so we are requesting adventurers to do the job or posting it on the Eden Group mission board... Do you want the work?",
         "pt": "[Nahadan]\nComo não podemos lutar sozinhos, fazemos solicitações aos aventureiros na sede do Grupo do Éden, você já deve ter visto.",
-        "es": "[Nahadan]\nNo podemos salir a cazar, así que solicitamos trotamundos que hagan el trabajo o publicamos las misiones en el tablero del Grupo de Edén… ¿Quieres el trabajo?"
+        "es": "[Nahadan]\nNo podemos salir a cazar, así que solicitamos trotamundos que hagan el trabajo o publicamos las misiones en el tablero del Grupo del Edén… ¿Quieres el trabajo?"
     },
     "Tip+Aw": {
         "en": "[Nahadan]\nWell, it won't be a dangerous task. The lake is empty now because people are at festivals or something.\nYou know the Feruses? ^0000CDKill 30 of the red ones^000000 for me.",
@@ -172,7 +172,7 @@
     "Yip+Aw": {
         "en": "[Myungkyung]\nI heard the Eden Group sent you to keep this place safe? \nTo work in such a dangerous place like this for the people's sake... Thank you so much.",
         "pt": "[Duda]\nNão é você a funcionária do Grupo do Éden responsável pela segurança? \nNão acredito que você aceitou esse trabalho tão perigoso. Só tenho a agradecer você.",
-        "es": "[Myungkyung]\n¿Escuché que el Grupo de Edén te envió para mantener este lugar seguro? \nTrabajar en un lugar tan peligroso como éste por el bien de la gente… Muchas gracias."
+        "es": "[Myungkyung]\n¿Escuché que el Grupo del Edén te envió para mantener este lugar seguro? \nTrabajar en un lugar tan peligroso como éste por el bien de la gente… Muchas gracias."
     },
     "Yyp+Aw": {
         "en": "[Nahadan]\nN-No. ...That's not true.",

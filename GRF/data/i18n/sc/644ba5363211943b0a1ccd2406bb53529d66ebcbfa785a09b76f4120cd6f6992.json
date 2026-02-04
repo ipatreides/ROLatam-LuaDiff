@@ -7,7 +7,7 @@
     "QYcGCg": {
         "en": "[Eden Teleport Officer]\nNewcomers to this unfamiliar world, aimless, idle Adventurers; come to me!\nEden Group has the answer to your problems!",
         "pt": "[Oficial do Éden]\nRecém-chegados a este mundo desconhecido, aventureiros ociosos e sem rumo; venham até mim!\nO Grupo do Éden tem a resposta para seus problemas!",
-        "es": "[Oficial de Teleportación de Edén]\nRecién llegados a este mundo desconocido, aventureros ociosos y sin rumbo, ¡venid a mí!\n¡El Grupo Edén tiene la respuesta a vuestros problemas!"
+        "es": "[Oficial de Teleportación de Edén]\nRecién llegados a este mundo desconocido, aventureros ociosos y sin rumbo, ¡venid a mí!\n¡El Grupo del Edén tiene la respuesta a vuestros problemas!"
     },
     "QocGCg": {
         "en": "[Eden Teleport Officer]\nOh! Adventurer!\nThere's a message here from the Criatura Academy in Izlude!\n^4D4DFFSprakki^000000 asked me to take you to her!",
@@ -47,42 +47,42 @@
     "SYcGCg": {
         "en": "[Eden Teleport Officer]\nImportant information!\nYou may go to ^4D4DFFEden Group^000000 now for ^4D4DFFlevel 2 training^000000 and get your ^4D4DFFEquipment^000000.",
         "pt": "[Oficial do Éden]\nInformações importantes!\nVocê pode ir ao ^4D4DFFGrupo do Éden^000000 agora para o ^4D4DFFtreinamento de nível 2^000000 e obter seu ^4D4DFFEquipmento^000000.",
-        "es": "[Oficial de Teletransporte del Edén]\n¡Información importante!\nYa puedes ir al ^4D4DFFGrupo Edén^000000 para recibir entrenamiento de ^4D4DFFnivel 2^000000 y conseguir tu ^4D4DFFEquipo^000000."
+        "es": "[Oficial de Teletransporte del Edén]\n¡Información importante!\nYa puedes ir al ^4D4DFFGrupo del Edén^000000 para recibir entrenamiento de ^4D4DFFnivel 2^000000 y conseguir tu ^4D4DFFEquipo^000000."
     },
     "SocGCg": {
         "en": "[Eden Teleport Officer]\nPlease go to see ^4D4DFFInstructor Boya at Eden Group^000000.\nGood info, right?",
         "pt": "[Oficial do Éden]\nPor favor, vá ver ^4D4DFFInstrutora Boya no Grupo do Éden^000000.\nBoa informação, certo?",
-        "es": "[Oficial de Teletransporte del Edén]\nPor favor, ve a ver al ^4D4DFFInstructor Boya en el Grupo Edén^000000.\nBuena información, ¿verdad?"
+        "es": "[Oficial de Teletransporte del Edén]\nPor favor, ve a ver al ^4D4DFFInstructor Boya en el Grupo del Edén^000000.\nBuena información, ¿verdad?"
     },
     "S4cGCg": {
         "en": "[Eden Teleport Officer]\nImportant information!\nYou may go to ^4D4DFFEden Group^000000 now for ^4D4DFFlevel 3 training^000000 and get your ^4D4DFFEquipment^000000.",
         "pt": "[Oficial do Éden]\nInformações importantes!\nVocê pode ir ao ^4D4DFFGrupo do Éden^000000 agora para o ^4D4DFFtreinamento de nível 3^000000 e obter seu ^4D4DFFEquipmento^000000.",
-        "es": "[Oficial de Teletransporte del Edén]\n¡Información importante!\nYa puedes ir al ^4D4DFFGrupo Edén^000000 para recibir entrenamiento de ^4D4DFFnivel 3^000000 y conseguir tu ^4D4DFFEquipo^000000."
+        "es": "[Oficial de Teletransporte del Edén]\n¡Información importante!\nYa puedes ir al ^4D4DFFGrupo del Edén^000000 para recibir entrenamiento de ^4D4DFFnivel 3^000000 y conseguir tu ^4D4DFFEquipo^000000."
     },
     "TIcGCg": {
         "en": "[Eden Teleport Officer]\nImportant information!\nYou may go to ^4D4DFFEden Group^000000 now for ^4D4DFFtraining^000000 and get your ^4D4DFFHigh-Grade Equipment^000000.",
         "pt": "[Oficial do Éden]\nInformações importantes!\nVocê pode ir ao ^4D4DFFGrupo do Éden^000000 agora para ^4D4DFFtreinamento^000000 e obter seu ^4D4DFFEquipamento de Alta Classe^000000.",
-        "es": "[Oficial de Teletransporte del Edén]\n¡Información importante!\nPuedes ir al ^4D4DFFGrupo Edén^000000 ahora para ^4D4DFFentrenarte^000000 y conseguir tu ^4D4DFFEquipo de Alto Grado^000000."
+        "es": "[Oficial de Teletransporte del Edén]\n¡Información importante!\nPuedes ir al ^4D4DFFGrupo del Edén^000000 ahora para ^4D4DFFentrenarte^000000 y conseguir tu ^4D4DFFEquipo de Alto Grado^000000."
     },
     "TYcGCg": {
         "en": "[Eden Teleport Officer]\nPlease go to see ^4D4DFFInstructor Ur at Eden Group^000000.\nGood info, right?",
         "pt": "[Oficial do Éden]\nPor favor, vá ver ^4D4DFFInstrutor Ur no Grupo do Éden^000000.\nBoa informação, certo?",
-        "es": "[Oficial de Teletransporte del Edén]\nPor favor, ve a ver al ^4D4DFFInstructor Ur en el Grupo Edén^000000.\nBuena información, ¿verdad?"
+        "es": "[Oficial de Teletransporte del Edén]\nPor favor, ve a ver al ^4D4DFFInstructor Ur en el Grupo del Edén^000000.\nBuena información, ¿verdad?"
     },
     "TocGCg": {
         "en": "[Eden Teleport Officer]\nImportant information!\nYou may go to ^4D4DFFEden Group^000000 now for ^4D4DFFlevel 1 training^000000 and get your ^4D4DFFWeapon Upgrade^000000.",
         "pt": "[Oficial do Éden]\nInformações importantes!\nVocê pode ir ao ^4D4DFFGrupo do Éden^000000 agora para ^4D4DFFtreinamento de nível 1^000000 e obter sua ^4D4DFFAtualização de Arma^000000.",
-        "es": "[Oficial de Teletransporte del Edén]\n¡Información importante!\nYa puedes ir al ^4D4DFFGrupo Edén^000000 para recibir entrenamiento de ^4D4DFFnivel 1^000000 y conseguir tu ^4D4DFFActualización de Arma^000000."
+        "es": "[Oficial de Teletransporte del Edén]\n¡Información importante!\nYa puedes ir al ^4D4DFFGrupo del Edén^000000 para recibir entrenamiento de ^4D4DFFnivel 1^000000 y conseguir tu ^4D4DFFActualización de Arma^000000."
     },
     "T4cGCg": {
         "en": "[Eden Teleport Officer]\nImportant information!\nYou may go to ^4D4DFFEden Group^000000 now for ^4D4DFFlevel 2 training^000000 and get your ^4D4DFFWeapon Upgrade^000000.",
         "pt": "[Oficial do Éden]\nInformações importantes!\nVocê pode ir ao ^4D4DFFGrupo do Éden^000000 agora para ^4D4DFFtreinamento de nível 2^000000 e obter sua ^4D4DFFAtualização de Arma^000000.",
-        "es": "[Oficial de Teletransporte del Edén]\n¡Información importante!\nYa puedes ir al ^4D4DFFGrupo Edén^000000 para recibir entrenamiento de ^4D4DFFnivel 2^000000 y conseguir tu ^4D4DFFActualización de Arma^000000."
+        "es": "[Oficial de Teletransporte del Edén]\n¡Información importante!\nYa puedes ir al ^4D4DFFGrupo del Edén^000000 para recibir entrenamiento de ^4D4DFFnivel 2^000000 y conseguir tu ^4D4DFFActualización de Arma^000000."
     },
     "UIcGCg": {
         "en": "[Eden Teleport Officer]\nImportant information!\nYou may go to ^4D4DFFEden Group^000000 now for ^4D4DFFlevel 3 training^000000 and get your ^4D4DFFWeapon Upgrade^000000.",
         "pt": "[Oficial do Éden]\nInformações importantes!\nVocê pode ir ao ^4D4DFFGrupo do Éden^000000 agora para ^4D4DFFtreinamento de nível 3^000000 e obter sua ^4D4DFFAtualização de Arma^000000.",
-        "es": "[Oficial de Teletransporte del Edén]\n¡Información importante!\nYa puedes ir al ^4D4DFFGrupo Edén^000000 para recibir entrenamiento de ^4D4DFFnivel 3^000000 y conseguir tu ^4D4DFFActualización de Arma^000000."
+        "es": "[Oficial de Teletransporte del Edén]\n¡Información importante!\nYa puedes ir al ^4D4DFFGrupo del Edén^000000 para recibir entrenamiento de ^4D4DFFnivel 3^000000 y conseguir tu ^4D4DFFActualización de Arma^000000."
     },
     "UYcGCg": {
         "en": "[Eden Teleport Officer]\nDo you want us to give you some quests that'll be helpful for your adventure?",
@@ -92,7 +92,7 @@
     "UocGCg": {
         "en": "Go to Eden Group.",
         "pt": "Ir para o Grupo do Éden.",
-        "es": "Ir al Grupo Edén."
+        "es": "Ir al Grupo del Edén."
     },
     "U4cGCg": {
         "en": "^4D4DFFAsk for advice.^000000",
@@ -367,6 +367,6 @@
     "iYcGCg": {
         "en": "[Eden Teleport Officer]\nPlease visit the Eden Group any time you're in need!",
         "pt": "[Oficial do Éden]\nVisite o Grupo do Éden sempre que precisar!",
-        "es": "[Oficial de Teletransporte del Edén]\nVisite el Grupo Edén cuando lo necesite."
+        "es": "[Oficial de Teletransporte del Edén]\nVisite el Grupo del Edén cuando lo necesite."
     }
 }

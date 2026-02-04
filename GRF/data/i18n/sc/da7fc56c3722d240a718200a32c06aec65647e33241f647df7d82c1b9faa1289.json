@@ -27,12 +27,12 @@
     "xUSEAw": {
         "en": "[Orzo]\nOh, you're not from Eden Group.\nI don't have enough money to ask a private Adventurer for help. I'm sorry.",
         "pt": "[Orzo]\nAh, você não é do Grupo do Éden.\nNão dá para confiar nesses viajantes sem registro.",
-        "es": "[Orzo]\nAh, no eres del Grupo de Edén.\nNo tengo suficiente dinero para contratar a un trotamundos privado. Lo siento."
+        "es": "[Orzo]\nAh, no eres del Grupo del Edén.\nNo tengo suficiente dinero para contratar a un trotamundos privado. Lo siento."
     },
     "xkSEAw": {
         "en": "[Orzo]\nAre you here to see the museum? Perhaps you're an Adventurer? If you're from Eden Group, may I ask a favor of you?",
         "pt": "[Orzo]\nAh, você veio visitar o Museu? Se você for do Grupo do Éden...",
-        "es": "[Orzo]\n¿Viniste a ver el museo? ¿Tal vez eres trotamundos? Si eres del Grupo de Edén, ¿puedo pedirte un favor?"
+        "es": "[Orzo]\n¿Viniste a ver el museo? ¿Tal vez eres trotamundos? Si eres del Grupo del Edén, ¿puedo pedirte un favor?"
     },
     "x0SEAw": {
         "en": "[Orzo]\nOh, you're still in training.\nThis is a job with hazard pay. You should train some more before taking it ...",
@@ -47,12 +47,12 @@
     "yUSEAw": {
         "en": "[Orzo]\nYou took our quest from Eden Group. Thank you.",
         "pt": "[Orzo]\nObrigado por ter aceito a minha solicitação no Grupo do Éden.",
-        "es": "[Orzo]\nAceptaste la misión del Grupo de Edén. Gracias."
+        "es": "[Orzo]\nAceptaste la misión del Grupo del Edén. Gracias."
     },
     "ykSEAw": {
         "en": "[Orzo]\nYou completed our quest from Eden Group.\nIf you want to take the same quest from the museum as well, please come back tomorrow.",
         "pt": "[Orzo]\nVocê completou a solicitação feita lá no Grupo do Éden.\nVolte amanhã para repetir a mesma solicitação comigo.",
-        "es": "[Orzo]\nCompletaste la misión del Grupo de Edén.\nSi quieres hacer la misma misión del museo, vuelve mañana."
+        "es": "[Orzo]\nCompletaste la misión del Grupo del Edén.\nSi quieres hacer la misma misión del museo, vuelve mañana."
     },
     "y0SEAw": {
         "en": "[Orzo]\nWelcome. Are you here to see the museum?\nOr to get some quests as an Adventurer?",
@@ -72,7 +72,7 @@
     "zkSEAw": {
         "en": "[Orzo]\nYou came! Thank you.\nI sent a message to Eden Group, hoping that somebody would help me. I'm glad you're here.",
         "pt": "[Orzo]\nEntão mandaram você! Legal.\nSolicitei ao Grupo do Éden para enviar alguém.",
-        "es": "[Orzo]\n¡Viniste! Gracias.\nEnvié un mensaje al Grupo de Edén con la esperanza de que alguien me ayudara. Me alegra que estés aquí."
+        "es": "[Orzo]\n¡Viniste! Gracias.\nEnvié un mensaje al Grupo del Edén con la esperanza de que alguien me ayudara. Me alegra que estés aquí."
     },
     "z0SEAw": {
         "en": "[Orzo]\nThere's a lot to do. Which quest would you like to do first?",
@@ -437,7 +437,7 @@
     "F0WEAw": {
         "en": "[Kurda]\nYou from Eden Group? Got nothin' to do with ya if you ain't.",
         "pt": "[Kaio]\nCadê o seu Emblema do Grupo do Éden? Ah, você não tem registro lá.",
-        "es": "[Kurda]\n¿Eres del Grupo de Edén? Si no lo eres, no tengo nada que hablar contigo."
+        "es": "[Kurda]\n¿Eres del Grupo del Edén? Si no lo eres, no tengo nada que hablar contigo."
     },
     "GEWEAw": {
         "en": "[Kurda]\n... You ain't all that ... why are you even here? Your loss if ya get hurt.",
@@ -447,12 +447,12 @@
     "GUWEAw": {
         "en": "[Kurda]\nLooks like ya already got a quest from Eden Group. Ya gotta return to Eden Group after your first quest.\nYou can come to me after.",
         "pt": "[Kaio]\nVocê aceitou a missão lá no Grupo do Éden.\nVolte amanhã para repetir a mesma solicitação comigo.",
-        "es": "[Kurda]\nParece que ya tienes una misión del Grupo de Edén. Tienes que volver al Grupo de Edén tras tu primera misión.\nPuedes venir a verme después."
+        "es": "[Kurda]\nParece que ya tienes una misión del Grupo del Edén. Tienes que volver al Grupo del Edén tras tu primera misión.\nPuedes venir a verme después."
     },
     "GkWEAw": {
         "en": "[Kurda]\nAren't ya done with today's Eden Group quest? Ready for more already?\nMust be quite some fighter ... but just come back tomorrow.",
         "pt": "[Kaio]\nVeio descansar num lugar como esse?\nEu também descansaria um dia depois de completar a missão.",
-        "es": "[Kurda]\n¿No terminaste la misión de hoy del Grupo de Edén? ¿Ya quieres otra aventura?\nLuchar se te debe dar bien… pero vuelve mañana."
+        "es": "[Kurda]\n¿No terminaste la misión de hoy del Grupo del Edén? ¿Ya quieres otra aventura?\nLuchar se te debe dar bien… pero vuelve mañana."
     },
     "G0WEAw": {
         "en": "[Kurda]\nOh, you look like an Adventurer. Got any skills?\nInterested in taking a quest from the Monster Museum in Juno?",

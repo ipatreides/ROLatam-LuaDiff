@@ -7312,6 +7312,45 @@ tblLapineDdukddakBox = {
 				}
 			},
 			NeedSource_String = "Hard Champion Shadow"
+		},
+		GemstoneShadow_Mix = {
+			ItemID = 23248,
+			NeedCount = 3,
+			NeedRefineMin = 7,
+			NeedRefineMax = 20,
+			SourceItems = {
+				{
+					"S_Gemstone_Pendent",
+					1,
+					24089
+				},
+				{
+					"S_Gemstone_Armor",
+					1,
+					24084
+				},
+				{
+					"S_Gemstone_Shoes",
+					1,
+					24085
+				},
+				{
+					"S_Gemstone_Shield",
+					1,
+					24086
+				},
+				{
+					"S_Gemstone_Earring",
+					1,
+					24088
+				},
+				{
+					"S_Gemstone_Weapon",
+					1,
+					24087
+				}
+			},
+			NeedSource_String = "+7 Gemstone Shadow"
 		}
 	},
 	get_lapine_box = function(in_box_id)

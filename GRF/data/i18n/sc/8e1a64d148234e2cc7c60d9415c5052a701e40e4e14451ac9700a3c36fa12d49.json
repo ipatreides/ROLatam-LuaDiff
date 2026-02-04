@@ -12,7 +12,7 @@
     "QiYrCg": {
         "en": "- In order to receive a request -\n - You must have ^4D4DFF'Eden Group Mark'^000000. -",
         "pt": "- Você precisa ter - \n- o ^4D4DFFEmblema do Éden^000000. -",
-        "es": "-Para recibir una solicitud, \n debes tener la ^4D4DFFMarca del Grupo de Edén^000000.-"
+        "es": "-Para recibir una solicitud, \n debes tener la ^4D4DFFMarca del Grupo del Edén^000000.-"
     },
     "QyYrCg": {
         "en": "You cannot use this bulletin board due to insufficient level.",
@@ -677,12 +677,12 @@
     "xyYrCg": {
         "en": "[Request Completed]\nLocation: Nogg Road Magma Dungeon\nTarget: Defeat 30 Nightmare Terror\nReward: Exp 160000, Jexp 160000, 1 Eden Group Coin",
         "pt": "[Missão completa]\nLocal: Caverna de Magma\nObjetivo: Caçar 30 Pesadelos Sombrios\nRecompensa: EXP base 160000, EXP classe 160000, 1 Moeda do Éden",
-        "es": "[Solicitud completada]\nUbicación: Carretera Nogg, Mazmorra Magma\nObjetivo: Derrota a 30 Terrores nocturnos\nPremio: 160000 de EXP, 160000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Solicitud completada]\nUbicación: Carretera Nogg, Mazmorra Magma\nObjetivo: Derrota a 30 Terrores nocturnos\nPremio: 160000 de EXP, 160000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "yCYrCg": {
         "en": "[Nightmare Terror Hunting]\nRequest from Museum Staff in front of the Nogg Road Entrance\nLocation: Nogg Road Magma Dungeon\nTarget: Defeat 30 Nightmare Terror\nReward: Exp 160000, Jexp 160000, 1 Eden Group Coin",
         "pt": "[Filtro dos Sonhos]\nSolicitação de um Diligente do Museu\nLocal: Caverna de Magma\nObjetivo: Caçar 30 Pesadelos Sombrios\nRecompensa: EXP base 160000, EXP classe 160000, 1 Moeda do Éden",
-        "es": "[Cacería de Terrores nocturnos]\nSolicitud del personal del museo frente a la entrada de la carretera Nogg\nUbicación: Carretera Nogg, Mazmorra Magma\nObjetivo: Derrota a 30 Terrores nocturnos\nPremio: 160000 de EXP, 160000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Cacería de Terrores nocturnos]\nSolicitud del personal del museo frente a la entrada de la carretera Nogg\nUbicación: Carretera Nogg, Mazmorra Magma\nObjetivo: Derrota a 30 Terrores nocturnos\nPremio: 160000 de EXP, 160000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "ySYrCg": {
         "en": "Accept Request.",
@@ -702,12 +702,12 @@
     "zCYrCg": {
         "en": "[Request Completed]\nLocation: Nogg Road Magma Dungeon\nTarget: Defeat 30 Ground Deleter and 30 Flying Deleter\nReward: Exp 160000, Jexp 160000, 2 Eden Group Coin",
         "pt": "[Missão completa]\nLocal: Caverna de Magma\nObjetivo: Caçar 30 Deletérios e 30 Exterminadores\nRecompensa: EXP base 160000, EXP classe 160000, 2 Moedas do Éden",
-        "es": "[Solicitud completada]\nUbicación: Carretera Nogg, Mazmorra Magma\nObjetivo: Derrota a 30 Deleter terrestres y 30 Deleter voladores\nPremio: 160000 de EXP, 160000 de EXP de clase, 2 monedas del Grupo de Edén"
+        "es": "[Solicitud completada]\nUbicación: Carretera Nogg, Mazmorra Magma\nObjetivo: Derrota a 30 Deleter terrestres y 30 Deleter voladores\nPremio: 160000 de EXP, 160000 de EXP de clase, 2 monedas del Grupo del Edén"
     },
     "zSYrCg": {
         "en": "[Deleter Hunting]\nRequest from Museum Staff in front of the Nogg Road Entrance\nLocation: Nogg Road Magma Dungeon\nTarget: Defeat 30 Ground Deleter and 30 Flying Deleter\nReward: Exp 160000, Jexp 160000, 2 Eden Group Coin",
         "pt": "[Dragões de Fogo]\nSolicitação de um Diligente do Museu\nLocal: Caverna de Magma\nObjetivo: Caçar 30 Deletérios e 30 Exterminadores\nRecompensa: EXP base 160000, EXP classe 160000, 2 Moedas do Éden",
-        "es": "[Cacería de Deleter]\nSolicitud del personal del museo frente a la entrada de la carretera Nogg\nUbicación: Carretera Nogg, Mazmorra Magma\nObjetivo: Derrota a 30 Deleter terrestres y 30 Deleter voladores\nPremio: 160000 de EXP, 160000 de EXP de clase, 2 monedas del Grupo de Edén"
+        "es": "[Cacería de Deleter]\nSolicitud del personal del museo frente a la entrada de la carretera Nogg\nUbicación: Carretera Nogg, Mazmorra Magma\nObjetivo: Derrota a 30 Deleter terrestres y 30 Deleter voladores\nPremio: 160000 de EXP, 160000 de EXP de clase, 2 monedas del Grupo del Edén"
     },
     "ziYrCg": {
         "en": "Request from Museum Staff in front of the Nogg Road Entrance\n^4D4DFF[Deleter Hunting]^000000 Quest accepted.",
@@ -717,12 +717,12 @@
     "zyYrCg": {
         "en": "[Request Completed]\nLocation: Nogg Road Magma Dungeon\nTarget: Collect 10 Lava\nReward: Exp 160000, Jexp 160000, 1 Eden Group Coin",
         "pt": "[Missão completa]\nLocal: Caverna de Magma\nObjetivo: Coletar 10 Pedras Pomes\nRecompensa: EXP base 160000, EXP classe 160000, 1 Moeda do Éden",
-        "es": "[Solicitud completada]\nUbicación: Carretera Nogg, Mazmorra Magma\nObjetivo: Recolecta 10 unidades de Lava\nPremio: 160000 de EXP, 160000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Solicitud completada]\nUbicación: Carretera Nogg, Mazmorra Magma\nObjetivo: Recolecta 10 unidades de Lava\nPremio: 160000 de EXP, 160000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "0CYrCg": {
         "en": "[Collect Solidified Lava]\nRequest from Museum Staff in front of the Nogg Road Entrance\nLocation: Nogg Road Magma Dungeon\nTarget: Collect 10 Lava\nReward: Exp 160000, Jexp 160000, 1 Eden Group Coin",
         "pt": "[Estudo Geológico]\nSolicitação de um Diligente do Museu\nLocal: Caverna de Magma\nObjetivo: Coletar 10 Pedras Pomes\nRecompensa: EXP base 160000, EXP classe 160000, 1 Moeda do Éden",
-        "es": "[Recolectar Lava solidificada]\nSolicitud del personal del museo frente a la entrada de la carretera Nogg\nUbicación: Carretera Nogg, Mazmorra Magma\nObjetivo: Recolecta 10 unidades de Lava\nPremio: 160000 de EXP, 160000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Recolectar Lava solidificada]\nSolicitud del personal del museo frente a la entrada de la carretera Nogg\nUbicación: Carretera Nogg, Mazmorra Magma\nObjetivo: Recolecta 10 unidades de Lava\nPremio: 160000 de EXP, 160000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "0SYrCg": {
         "en": "Request from Museum Staff in front of the Nogg Road Entrance\n^4D4DFF[Collect Solidified Lava]^000000 Quest accepted.",
@@ -737,12 +737,12 @@
     "0yYrCg": {
         "en": "[Request Completed]\nLocation: Glastheim\nTarget: Defeat 30 Carat\nReward: Exp 160000, Jexp 160000, 1 Eden Group Coin",
         "pt": "[Missão completa]\nLocal: Glastheim\nObjetivo: Caçar 30 Carats\nRecompensa: EXP base 160000, EXP classe 160000, 1 Moeda do Éden",
-        "es": "[Solicitud completada]\nUbicación: Glastheim\nObjetivo: Derrota a 30 Carat\nPremio: 160000 de EXP, 160000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Solicitud completada]\nUbicación: Glastheim\nObjetivo: Derrota a 30 Carat\nPremio: 160000 de EXP, 160000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "1CYrCg": {
         "en": "[Poor Clown]\nDarqueth's request in front of Glastheim main castle\nLocation: Glastheim\nTarget: Defeat 30 Carat\nReward: Exp 160000, Jexp 160000, 1 Eden Group Coin",
         "pt": "[Pobre Palhaço]\nSolicitação do Padre Lúcifer\nLocal: Glastheim\nObjetivo: Caçar 30 Carats\nRecompensa: EXP base 160000, EXP classe 160000, 1 Moeda do Éden",
-        "es": "[Pobre payaso]\nSolicitud de Darqueth frente al castillo principal de Glastheim\nUbicación: Glastheim\nObjetivo: Derrota a 30 Carat\nPremio: 160000 de EXP, 160000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Pobre payaso]\nSolicitud de Darqueth frente al castillo principal de Glastheim\nUbicación: Glastheim\nObjetivo: Derrota a 30 Carat\nPremio: 160000 de EXP, 160000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "1SYrCg": {
         "en": "Darqueth's request in front of Glastheim main castle\n^4D4DFF[Poor Clown]^000000 Quest accepted.",
@@ -752,12 +752,12 @@
     "1iYrCg": {
         "en": "[Request Completed]\nLocation: Glastheim\nTarget: Defeat 30 Arclouze\nReward: Exp 160000, Jexp 160000, 1 Eden Group Coin",
         "pt": "[Missão completa]\nLocal: Glastheim\nObjetivo: Caçar 30 Arclouses\nRecompensa: EXP base 160000, EXP classe 160000, 1 Moeda do Éden",
-        "es": "[Solicitud completada]\nUbicación: Glastheim\nObjetivo: Derrota a 30 Arclouze\nPremio: 160000 de EXP, 160000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Solicitud completada]\nUbicación: Glastheim\nObjetivo: Derrota a 30 Arclouze\nPremio: 160000 de EXP, 160000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "1yYrCg": {
         "en": "[A Small Bug]\nDarqueth's request in front of Glastheim main castle\nLocation: Glastheim\nTarget: Defeat 30 Arclouze\nReward: Exp 160000, Jexp 160000, 1 Eden Group Coin",
         "pt": "[O MVP mais Forte]\nSolicitação do Padre Lúcifer\nLocal: Glastheim\nObjetivo: Caçar 30 Arclouses\nRecompensa: EXP base 160000, EXP classe 160000, 1 Moeda do Éden",
-        "es": "[Pequeño insecto]\nSolicitud de Darqueth frente al castillo principal de Glastheim\nUbicación: Glastheim\nObjetivo: Derrota a 30 Arclouze\nPremio: 160000 de EXP, 160000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Pequeño insecto]\nSolicitud de Darqueth frente al castillo principal de Glastheim\nUbicación: Glastheim\nObjetivo: Derrota a 30 Arclouze\nPremio: 160000 de EXP, 160000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "2CYrCg": {
         "en": "Darqueth's request in front of Glastheim main castle\n^4D4DFF[A Small Bug]^000000 Quest accepted.",
@@ -767,12 +767,12 @@
     "2SYrCg": {
         "en": "[Request Completed]\nLocation: Glastheim\nTarget: Defeat 30 Anolian\nReward: Exp 200000, Jexp 200000, 1 Eden Group Coin",
         "pt": "[Missão completa]\nLocal: Glastheim\nObjetivo: Caçar 30 Anolians\nRecompensa: EXP base 200000, EXP classe 200000, 1 Moeda do Éden",
-        "es": "[Solicitud completada]\nUbicación: Glastheim\nObjetivo: Derrota a 30 Anolian\nPremio: 200000 de EXP, 200000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Solicitud completada]\nUbicación: Glastheim\nObjetivo: Derrota a 30 Anolian\nPremio: 200000 de EXP, 200000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "2iYrCg": {
         "en": "[If you're alive, go to heaven]\nDarqueth's request in front of Glastheim main castle\nLocation: Glastheim\nTarget: Defeat 30 Anolian\nReward: Exp 200000, Jexp 200000, 1 Eden Group Coin",
         "pt": "[Limpeza de Esgoto]\nSolicitação do Padre Lúcifer\nLocal: Glastheim\nObjetivo: Caçar 30 Anolians\nRecompensa: EXP base 200000, EXP classe 200000, 1 Moeda do Éden",
-        "es": "[Si sigues con vida, ve al cielo]\nSolicitud de Darqueth frente al castillo principal de Glastheim\nUbicación: Glastheim\nObjetivo: Derrota a 30 Anolian\nPremio: 200000 de EXP, 200000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Si sigues con vida, ve al cielo]\nSolicitud de Darqueth frente al castillo principal de Glastheim\nUbicación: Glastheim\nObjetivo: Derrota a 30 Anolian\nPremio: 200000 de EXP, 200000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "2yYrCg": {
         "en": "Darqueth's request in front of Glastheim main castle\n^4D4DFF[If you're alive, go to heaven]^000000 Quest accepted.",
@@ -782,12 +782,12 @@
     "3CYrCg": {
         "en": "[Request Completed]\nLocation: Glastheim\nTarget: Defeat 30 Sting\nReward: Exp 200000, Jexp 200000, 1 Eden Group Coin",
         "pt": "[Missão completa]\nLocal: Glastheim\nObjetivo: Caçar 30 Stings\nRecompensa: EXP base 200000, EXP classe 200000, 1 Moeda do Éden",
-        "es": "[Solicitud completada]\nUbicación: Glastheim\nObjetivo: Derrota a 30 Sting\nPremio: 200000 de EXP, 200000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Solicitud completada]\nUbicación: Glastheim\nObjetivo: Derrota a 30 Sting\nPremio: 200000 de EXP, 200000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "3SYrCg": {
         "en": "[No Doubt]\nDarqueth's request in front of Glastheim main castle\nLocation: Glastheim\nTarget: Defeat 30 Sting\nReward: Exp 200000, Jexp 200000, 1 Eden Group Coin",
         "pt": "[Mão Inimiga]\nSolicitação do Padre Lúcifer\nLocal: Glastheim\nObjetivo: Caçar 30 Stings\nRecompensa: EXP base 200000, EXP classe 200000, 1 Moeda do Éden",
-        "es": "[Sin dudas]\nSolicitud de Darqueth frente al castillo principal de Glastheim\nUbicación: Glastheim\nObjetivo: Derrota a 30 Sting\nPremio: 200000 de EXP, 200000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Sin dudas]\nSolicitud de Darqueth frente al castillo principal de Glastheim\nUbicación: Glastheim\nObjetivo: Derrota a 30 Sting\nPremio: 200000 de EXP, 200000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "3iYrCg": {
         "en": "Darqueth's request in front of Glastheim main castle\n^4D4DFF[No Doubt]^000000 Quest accepted.",
@@ -797,12 +797,12 @@
     "3yYrCg": {
         "en": "[Request Completed]\nLocation: Glastheim\nTarget: Defeat 30 Majoruros\nReward: Exp 260000, Jexp 260000, 1 Eden Group Coin",
         "pt": "[Missão completa]\nLocal: Glastheim\nObjetivo: Caçar 30 Majorous\nRecompensa: EXP base 260000, EXP classe 260000, 1 Moeda do Éden",
-        "es": "[Solicitud completada]\nUbicación: Glastheim\nObjetivo: Derrota a 30 Majoruros\nPremio: 260000 de EXP, 260000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Solicitud completada]\nUbicación: Glastheim\nObjetivo: Derrota a 30 Majoruros\nPremio: 260000 de EXP, 260000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "4CYrCg": {
         "en": "[Delicious Poor Soul]\nDarqueth's request in front of Glastheim main castle\nLocation: Glastheim\nTarget: Defeat 30 Majoruros\nReward: Exp 260000, Jexp 260000, 1 Eden Group Coin",
         "pt": "[Touro Valente]\nSolicitação do Padre Lúcifer\nLocal: Glastheim\nObjetivo: Caçar 30 Majorous\nRecompensa: EXP base 260000, EXP classe 260000, 1 Moeda do Éden",
-        "es": "[Pobre y deliciosa alma]\nSolicitud de Darqueth frente al castillo principal de Glastheim\nUbicación: Glastheim\nObjetivo: Derrota a 30 Majoruros\nPremio: 260000 de EXP, 260000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Pobre y deliciosa alma]\nSolicitud de Darqueth frente al castillo principal de Glastheim\nUbicación: Glastheim\nObjetivo: Derrota a 30 Majoruros\nPremio: 260000 de EXP, 260000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "4SYrCg": {
         "en": "Darqueth's request in front of Glastheim main castle\n^4D4DFF[Delicious Poor Soul]^000000 Quest accepted.",
@@ -812,12 +812,12 @@
     "4iYrCg": {
         "en": "[Request Completed]\nLocation: Glastheim\nTarget: Defeat 30 Raydric\nReward: Exp 300000, Jexp 300000, 1 Eden Group Coin",
         "pt": "[Missão completa]\nLocal: Glastheim\nObjetivo: Caçar 30 Raydrics\nRecompensa: EXP base 300000, EXP classe 300000, 1 Moeda do Éden",
-        "es": "[Solicitud completada]\nUbicación: Glastheim\nObjetivo: Derrota a 30 Raydric\nPremio: 300 000 de EXP, 300 000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Solicitud completada]\nUbicación: Glastheim\nObjetivo: Derrota a 30 Raydric\nPremio: 300 000 de EXP, 300 000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "4yYrCg": {
         "en": "[Just an empty armor]\nRequest from Chiab\nLocation: Glastheim\nTarget: Defeat 30 Raydric\nReward: Exp 300000, Jexp 300000, 1 Eden Group Coin",
         "pt": "[Armadura Vazia]\nSolicitação do Templário Thiago\nLocal: Glastheim\nObjetivo: Caçar 30 Raydrics\nRecompensa: EXP base 300000, EXP classe 300000, 1 Moeda do Éden",
-        "es": "[Solo una armadura vacía]\nSolicitud de Chiave\nUbicación: Glastheim\nObjetivo: Derrota a 30 Raydric\nPremio: 300 000 de EXP, 300 000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Solo una armadura vacía]\nSolicitud de Chiave\nUbicación: Glastheim\nObjetivo: Derrota a 30 Raydric\nPremio: 300 000 de EXP, 300 000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "5CYrCg": {
         "en": "Request from Chiab\n^4D4DFF[Just an empty armor]^000000 Quest accepted.",
@@ -827,12 +827,12 @@
     "5SYrCg": {
         "en": "[Request Completed]\nLocation: Glastheim\nTarget: Defeat 30 Khalitzburg\nReward: Exp 300000, Jexp 300000, 1 Eden Group Coin",
         "pt": "[Missão completa]\nLocal: Glastheim\nObjetivo: Caçar 30 Khalitzburgs\nRecompensa: EXP base 300000, EXP classe 300000, 1 Moeda do Éden",
-        "es": "[Solicitud completada]\nUbicación: Glastheim\nObjetivo: Derrota a 30 Khalitzburg\nPremio: 300 000 de EXP, 300 000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Solicitud completada]\nUbicación: Glastheim\nObjetivo: Derrota a 30 Khalitzburg\nPremio: 300 000 de EXP, 300 000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "5iYrCg": {
         "en": "[A Righteous Soul]\nRequest from Chiab\nLocation: Glastheim\nTarget: Defeat 30 Khalitzburg\nReward: Exp 300000, Jexp 300000, 1 Eden Group Coin",
         "pt": "[Ajeite a Postura]\nSolicitação do Templário Thiago\nLocal: Glastheim\nObjetivo: Caçar 30 Khalitzburgs\nRecompensa: EXP base 300000, EXP classe 300000, 1 Moeda do Éden",
-        "es": "[¿Almas justas?]\nSolicitud de Chiave\nUbicación: Glastheim\nObjetivo: Derrota a 30 Khalitzburg\nPremio: 300 000 de EXP, 300 000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[¿Almas justas?]\nSolicitud de Chiave\nUbicación: Glastheim\nObjetivo: Derrota a 30 Khalitzburg\nPremio: 300 000 de EXP, 300 000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "5yYrCg": {
         "en": "Request from Chiab\n^4D4DFF[A Righteous Soul]^000000 Quest accepted.",
@@ -842,12 +842,12 @@
     "6CYrCg": {
         "en": "[Request Completed]\nLocation: Glastheim\nTarget: Defeat 30 Wanderer\nReward: Exp 300000, Jexp 300000, 1 Eden Group Coin",
         "pt": "[Missão completa]\nLocal: Glastheim\nObjetivo: Cace 30 Andarilhos\nRecompensa: EXP base 300000, EXP classe 300000, 1 Moeda do Éden",
-        "es": "[Solicitud completada]\nUbicación: Glastheim\nObjetivo: Derrota a 30 Vagabundos\nPremio: 300 000 de EXP, 300 000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Solicitud completada]\nUbicación: Glastheim\nObjetivo: Derrota a 30 Vagabundos\nPremio: 300 000 de EXP, 300 000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "6SYrCg": {
         "en": "[Knight's Nemesis]\nRequest from Chiab\nLocation: Glastheim\nTarget: Defeat 30 Wanderer\nReward: Exp 300000, Jexp 300000, 1 Eden Group Coin",
         "pt": "[Viajante sem Rumo]\nSolicitação do Templário Thiago\nLocal: Glastheim\nObjetivo: Cace 30 Andarilhos\nRecompensa: EXP base 300000, EXP classe 300000, 1 Moeda do Éden",
-        "es": "[El enemigo jurado de un caballero]\nSolicitud de Chiave\nUbicación: Glastheim\nObjetivo: Derrota a 30 Vagabundos\nPremio: 300 000 de EXP, 300 000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[El enemigo jurado de un caballero]\nSolicitud de Chiave\nUbicación: Glastheim\nObjetivo: Derrota a 30 Vagabundos\nPremio: 300 000 de EXP, 300 000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "6iYrCg": {
         "en": "Request from Chiab\n^4D4DFF[Knight's Nemesis]^000000 Quest accepted.",
@@ -857,12 +857,12 @@
     "6yYrCg": {
         "en": "[Request Completed]\nLocation: Glastheim\nTarget: Defeat 10 Abysmal Knight\nReward: Exp 300000, Jexp 300000, 1 Eden Group Coin",
         "pt": "[Missão completa]\nLocal: Glastheim\nObjetivo: Caçar 10 Cavaleiros do Abismo\nRecompensa: EXP base 300000, EXP classe 300000, 1 Moeda do Éden",
-        "es": "[Solicitud completada]\nUbicación: Glastheim\nObjetivo: Derrota a 10 Caballeros abismales\nPremio: 300 000 de EXP, 300 000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Solicitud completada]\nUbicación: Glastheim\nObjetivo: Derrota a 10 Caballeros abismales\nPremio: 300 000 de EXP, 300 000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "7CYrCg": {
         "en": "[A Worthy Opponent]\nRequest from Chiab\nLocation: Glastheim\nTarget: Defeat 10 Abysmal Knight\nReward: Exp 300000, Jexp 300000, 1 Eden Group Coin",
         "pt": "[Inimigo à Altura]\nSolicitação do Templário Thiago\nLocal: Glastheim\nObjetivo: Caçar 10 Cavaleiros do Abismo\nRecompensa: EXP base 300000, EXP classe 300000, 1 Moeda do Éden",
-        "es": "[Un oponente digno]\nSolicitud de Chiave\nUbicación: Glastheim\nObjetivo: Derrota a 10 Caballeros abismales\nPremio: 300 000 de EXP, 300 000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Un oponente digno]\nSolicitud de Chiave\nUbicación: Glastheim\nObjetivo: Derrota a 10 Caballeros abismales\nPremio: 300 000 de EXP, 300 000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "7SYrCg": {
         "en": "Request from Chiab\n^4D4DFF[A Worthy Opponent]^000000 Quest accepted.",
@@ -872,12 +872,12 @@
     "7iYrCg": {
         "en": "[Request Completed]\nLocation: Splendide Field\nTarget: Defeat 30 Pinguicula\nReward: Exp 160000, Jexp 160000, 1 Eden Group Coin",
         "pt": "[Missão completa]\nLocal: Campo Esplendor\nObjetivo: Caçar 30 Pinguiculas\nRecompensa: EXP base 160000, EXP classe 160000, 1 Moeda do Éden",
-        "es": "[Solicitud completada]\nUbicación: Campo de Splendide\nObjetivo: Derrota a 30 Pinguicula\nPremio: 160000 de EXP, 160000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Solicitud completada]\nUbicación: Campo de Splendide\nObjetivo: Derrota a 30 Pinguicula\nPremio: 160000 de EXP, 160000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "7yYrCg": {
         "en": "[Girl with Leaves]\nYerne's Request from Midgard Allied Forces Post Area\nLocation: Splendide Field\nTarget: Defeat 30 Pinguicula\nReward: Exp 160000, Jexp 160000, 1 Eden Group Coin",
         "pt": "[Menina das Flores]\nSolicitação do jovem Zeca\nLocal: Campo Esplendor\nObjetivo: Caçar 30 Pinguiculas\nRecompensa: EXP base 160000, EXP classe 160000, 1 Moeda do Éden",
-        "es": "[Chica con hojas]\nSolicitud de Yerne en la zona del puesto de las Fuerzas Aliadas de Midgard\nUbicación: Campo de Splendide\nObjetivo: Derrota a 30 Pinguicula\nPremio: 160000 de EXP, 160000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Chica con hojas]\nSolicitud de Yerne en la zona del puesto de las Fuerzas Aliadas de Midgard\nUbicación: Campo de Splendide\nObjetivo: Derrota a 30 Pinguicula\nPremio: 160000 de EXP, 160000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "8CYrCg": {
         "en": "Yerne's Request from Midgard Allied Forces Post Area\n^4D4DFF[Girl with Leaves]^000000 Quest accepted.",
@@ -887,12 +887,12 @@
     "8SYrCg": {
         "en": "[Request Completed]\nLocation: Splendide Field\nTarget: Defeat 30 Luciola Vespa\nReward: Exp 200000, Jexp 200000, 1 Eden Group Coin",
         "pt": "[Missão completa]\nLocal: Campo Esplendor\nObjetivo: Caçar 30 Vespas-Vagalumes\nRecompensa: EXP base 200000, EXP classe 200000, 1 Moeda do Éden",
-        "es": "[Solicitud completada]\nUbicación: Campo de Splendide\nObjetivo: Derrota a 30 Luciola vespa\nPremio: 200000 de EXP, 200000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Solicitud completada]\nUbicación: Campo de Splendide\nObjetivo: Derrota a 30 Luciola vespa\nPremio: 200000 de EXP, 200000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "8iYrCg": {
         "en": "[Electrifying Beauty]\nYerne's Request from Midgard Allied Forces Post Area\nLocation: Splendide Field\nTarget: Defeat 30 Luciola Vespa\nReward: Exp 200000, Jexp 200000, 1 Eden Group Coin",
         "pt": "[Brilho Fatal]\nSolicitação do jovem Zeca\nLocal: Campo Esplendor\nObjetivo: Caçar 30 Vespas-Vagalumes\nRecompensa: EXP base 200000, EXP classe 200000, 1 Moeda do Éden",
-        "es": "[Belleza electrizante]\nSolicitud de Yerne en la zona del puesto de las Fuerzas Aliadas de Midgard\nUbicación: Campo de Splendide\nObjetivo: Derrota a 30 Luciola vespa\nPremio: 200000 de EXP, 200000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Belleza electrizante]\nSolicitud de Yerne en la zona del puesto de las Fuerzas Aliadas de Midgard\nUbicación: Campo de Splendide\nObjetivo: Derrota a 30 Luciola vespa\nPremio: 200000 de EXP, 200000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "8yYrCg": {
         "en": "Yerne's Request from Midgard Allied Forces Post Area\n^4D4DFF[Electrifying Beauty]^000000 Quest accepted.",
@@ -902,12 +902,12 @@
     "9CYrCg": {
         "en": "[Request Completed]\nLocation: Splendide Field\nTarget: Defeat 1 Tendrillion\nReward: Exp 260000, Jexp 260000, 1 Eden Group Coin",
         "pt": "[Missão completa]\nLocal: Campo Esplendor\nObjetivo: Caçar 1 Leão de Vinhas\nRecompensa: EXP base 260000, EXP classe 260000, 1 Moeda do Éden",
-        "es": "[Solicitud completada]\nUbicación: Campo de Splendide\nObjetivo: Derrota a 1 León enredadera\nPremio: 260000 de EXP, 260000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Solicitud completada]\nUbicación: Campo de Splendide\nObjetivo: Derrota a 1 León enredadera\nPremio: 260000 de EXP, 260000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "9SYrCg": {
         "en": "[King of the Otherworld]\nYerne's Request from Midgard Allied Forces Post Area\nLocation: Splendide Field\nTarget: Defeat 1 Tendrillion\nReward: Exp 260000, Jexp 260000, 1 Eden Group Coin",
         "pt": "[Rei do Novo Mundo]\nSolicitação do jovem Zeca\nLocal: Campo Esplendor\nObjetivo: Caçar 1 Leão de Vinhas\nRecompensa: EXP base 260000, EXP classe 260000, 1 Moeda do Éden",
-        "es": "[Rey del otro mundo]\nSolicitud de Yerne en la zona del puesto de las Fuerzas Aliadas de Midgard\nUbicación: Campo de Splendide\nObjetivo: Derrota a 1 León enredadera\nPremio: 260000 de EXP, 260000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Rey del otro mundo]\nSolicitud de Yerne en la zona del puesto de las Fuerzas Aliadas de Midgard\nUbicación: Campo de Splendide\nObjetivo: Derrota a 1 León enredadera\nPremio: 260000 de EXP, 260000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "9iYrCg": {
         "en": "Yerne's Request from Midgard Allied Forces Post Area\n^4D4DFF[King of the Otherworld]^000000 Quest accepted.",
@@ -917,12 +917,12 @@
     "9yYrCg": {
         "en": "[Request Completed]\nLocation: Splendide Field\nTarget: Defeat 30 Dark Pinguicula\nReward: Exp 300000, Jexp 300000, 1 Eden Group Coin",
         "pt": "[Missão completa]\nLocal: Campo Esplendor\nObjetivo: Caçar 30 Pinguicula Sombria\nRecompensa: EXP base 300000, EXP classe 300000, 1 Moeda do Éden",
-        "es": "[Solicitud completada]\nUbicación: Campo de Splendide\nObjetivo: Derrota a 30 Pinguicula oscura\nPremio: 300000 de EXP, 300000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Solicitud completada]\nUbicación: Campo de Splendide\nObjetivo: Derrota a 30 Pinguicula oscura\nPremio: 300000 de EXP, 300000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "+CYrCg": {
         "en": "[Lady with Leaves]\nYerne's Request from Midgard Allied Forces Post Area\nLocation: Splendide Field\nTarget: Defeat 30 Dark Pinguicula\nReward: Exp 300000, Jexp 300000, 1 Eden Group Coin",
         "pt": "[Menina Veneno]\nSolicitação do jovem Zeca\nLocal: Campo Esplendor\nObjetivo: Caçar 30 Pinguicula Sombria\nRecompensa: EXP base 300000, EXP classe 300000, 1 Moeda do Éden",
-        "es": "[Dama con hojas]\nSolicitud de Yerne en la zona del puesto de las Fuerzas Aliadas de Midgard\nUbicación: Campo de Splendide\nObjetivo: Derrota a 30 Pinguicula oscura\nPremio: 300000 de EXP, 300000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Dama con hojas]\nSolicitud de Yerne en la zona del puesto de las Fuerzas Aliadas de Midgard\nUbicación: Campo de Splendide\nObjetivo: Derrota a 30 Pinguicula oscura\nPremio: 300000 de EXP, 300000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "+SYrCg": {
         "en": "Yerne's Request from Midgard Allied Forces Post Area\n^4D4DFF[Lady with Leaves]^000000 Quest accepted.",
@@ -932,12 +932,12 @@
     "+iYrCg": {
         "en": "[Request Completed]\nLocation: Manuk Field\nTarget: Defeat 30 Nephentes\nReward: Exp 300000, Jexp 300000, 1 Eden Group Coin",
         "pt": "[Missão completa]\nLocal: Campo Manuka\nObjetivo: Caçar 30 Nephentes\nRecompensa: EXP base 300000, EXP classe 300000, 1 Moeda do Éden",
-        "es": "[Solicitud completada]\nUbicación: Campo de Manuk\nObjetivo: Derrota a 30 Nepenthes\nPremio: 300000 de EXP, 300000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Solicitud completada]\nUbicación: Campo de Manuk\nObjetivo: Derrota a 30 Nepenthes\nPremio: 300000 de EXP, 300000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "+yYrCg": {
         "en": "[Dried Flower Bookmark]\nYerne's Request from Midgard Allied Forces Post Area\nLocation: Manuk Field\nTarget: Defeat 30 Nephentes\nReward: Exp 300000, Jexp 300000, 1 Eden Group Coin",
         "pt": "[Marcador de Páginas]\nSolicitação do jovem Zeca\nLocal: Campo Manuka\nObjetivo: Caçar 30 Nephentes\nRecompensa: EXP base 300000, EXP classe 300000, 1 Moeda do Éden",
-        "es": "[Marcador de flores secas]\nSolicitud de Yerne en la zona del puesto de las Fuerzas Aliadas de Midgard\nUbicación: Campo de Manuk\nObjetivo: Derrota a 30 Nepenthes\nPremio: 300000 de EXP, 300000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Marcador de flores secas]\nSolicitud de Yerne en la zona del puesto de las Fuerzas Aliadas de Midgard\nUbicación: Campo de Manuk\nObjetivo: Derrota a 30 Nepenthes\nPremio: 300000 de EXP, 300000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "/CYrCg": {
         "en": "Yerne's Request from Midgard Allied Forces Post Area\n^4D4DFF[Dried Flower Bookmark]^000000 Quest accepted.",
@@ -947,12 +947,12 @@
     "/SYrCg": {
         "en": "[Request Completed]\nLocation: Splendide Field\nTarget: Defeat 30 Naga\nReward: Exp 300000, Jexp 300000, 1 Eden Group Coin",
         "pt": "[Missão completa]\nLocal: Campo Esplendor\nObjetivo: Caçar 30 Nagas\nRecompensa: EXP base 300000, EXP classe 300000, 1 Moeda do Éden",
-        "es": "[Solicitud completada]\nUbicación: Campo de Splendide\nObjetivo: Derrota a 30 Naga\nPremio: 300000 de EXP, 300000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Solicitud completada]\nUbicación: Campo de Splendide\nObjetivo: Derrota a 30 Naga\nPremio: 300000 de EXP, 300000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "/iYrCg": {
         "en": "[Good... Muscle!]\nYerne's Request from Midgard Allied Forces Post Area\nLocation: Splendide Field\nTarget: Defeat 30 Naga\nReward: Exp 300000, Jexp 300000, 1 Eden Group Coin",
         "pt": "[Belos Músculos!]\nSolicitação do jovem Zeca\nLocal: Campo Esplendor\nObjetivo: Caçar 30 Nagas\nRecompensa: EXP base 300000, EXP classe 300000, 1 Moeda do Éden",
-        "es": "[¡Buenos… músculos!]\nSolicitud de Yerne en la zona del puesto de las Fuerzas Aliadas de Midgard\nUbicación: Campo de Splendide\nObjetivo: Derrota a 30 Naga\nPremio: 300000 de EXP, 300000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[¡Buenos… músculos!]\nSolicitud de Yerne en la zona del puesto de las Fuerzas Aliadas de Midgard\nUbicación: Campo de Splendide\nObjetivo: Derrota a 30 Naga\nPremio: 300000 de EXP, 300000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "/yYrCg": {
         "en": "Yerne's Request from Midgard Allied Forces Post Area\n^4D4DFF[Good... Muscle!]^000000 Quest accepted.",
@@ -962,12 +962,12 @@
     "ACcrCg": {
         "en": "[Request Completed]\nLocation: Splendide Field\nTarget: Defeat 30 Cornus\nReward: Exp 300000, Jexp 300000, 1 Eden Group Coin",
         "pt": "[Missão completa]\nLocal: Campo Esplendor\nObjetivo: Caçar 30 Cornus\nRecompensa: EXP base 300000, EXP classe 300000, 1 Moeda do Éden",
-        "es": "[Solicitud completada]\nUbicación: Campo de Splendide\nObjetivo: Derrota a 30 Cornus\nPremio: 300000 de EXP, 300000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Solicitud completada]\nUbicación: Campo de Splendide\nObjetivo: Derrota a 30 Cornus\nPremio: 300000 de EXP, 300000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "AScrCg": {
         "en": "[Like something out of a fairy tale]\nYerne's Request from Midgard Allied Forces Post Area\nLocation: Splendide Field\nTarget: Defeat 30 Cornus\nReward: Exp 300000, Jexp 300000, 1 Eden Group Coin",
         "pt": "[Conto de Fadas]\nSolicitação do jovem Zeca\nLocal: Campo Esplendor\nObjetivo: Caçar 30 Cornus\nRecompensa: EXP base 300000, EXP classe 300000, 1 Moeda do Éden",
-        "es": "[Como salido de un cuento de hadas]\nSolicitud de Yerne en la zona del puesto de las Fuerzas Aliadas de Midgard\nUbicación: Campo de Splendide\nObjetivo: Derrota a 30 Cornus\nPremio: 300000 de EXP, 300000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Como salido de un cuento de hadas]\nSolicitud de Yerne en la zona del puesto de las Fuerzas Aliadas de Midgard\nUbicación: Campo de Splendide\nObjetivo: Derrota a 30 Cornus\nPremio: 300000 de EXP, 300000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "AicrCg": {
         "en": "Yerne's Request from Midgard Allied Forces Post Area\n^4D4DFF[Like something out of a fairy tale]^000000 Quest accepted.",
@@ -977,12 +977,12 @@
     "AycrCg": {
         "en": "[Request Completed]\nLocation: Manuk Field\nTarget: Defeat 20 Centipede Larva\nReward: Exp 300000, Jexp 300000, 1 Eden Group Coin",
         "pt": "[Missão completa]\nLocal: Campo Manuka\nObjetivo: Caçar 20 Larvas de Centopeia\nRecompensa: EXP base 300000, EXP classe 300000, 1 Moeda do Éden",
-        "es": "[Solicitud completada]\nUbicación: Campo de Manuk\nObjetivo: Derrota a 20 Larvas de Escolopendra\nPremio: 300000 de EXP, 300000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Solicitud completada]\nUbicación: Campo de Manuk\nObjetivo: Derrota a 20 Larvas de Escolopendra\nPremio: 300000 de EXP, 300000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "BCcrCg": {
         "en": "[Stimulating Charm]\nYerne's Request from Midgard Allied Forces Post Area\nLocation: Manuk Field\nTarget: Defeat 20 Centipede Larva\nReward: Exp 300000, Jexp 300000, 1 Eden Group Coin",
         "pt": "[Espinhos Perigosos]\nSolicitação do jovem Zeca\nLocal: Campo Manuka\nObjetivo: Caçar 20 Larvas de Centopeia\nRecompensa: EXP base 300000, EXP classe 300000, 1 Moeda do Éden",
-        "es": "[Carisma estimulante]\nSolicitud de Yerne en la zona del puesto de las Fuerzas Aliadas de Midgard\nUbicación: Campo de Manuk\nObjetivo: Derrota a 20 Larvas de Escolopendra\nPremio: 300000 de EXP, 300000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Carisma estimulante]\nSolicitud de Yerne en la zona del puesto de las Fuerzas Aliadas de Midgard\nUbicación: Campo de Manuk\nObjetivo: Derrota a 20 Larvas de Escolopendra\nPremio: 300000 de EXP, 300000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "BScrCg": {
         "en": "Yerne's Request from Midgard Allied Forces Post Area\n^4D4DFF[Stimulating Charm]^000000 Quest accepted.",
@@ -992,12 +992,12 @@
     "BicrCg": {
         "en": "[Request Completed]\nLocation: Splendide Field\nTarget: Collect 20 Mystic Horn\nReward: Exp 300000, Jexp 300000, 1 Eden Group Coin",
         "pt": "[Missão completa]\nLocal: Campo Esplendor\nObjetivo: Coletar 20 Chifres Místicos\nRecompensa: EXP base 300000, EXP classe 300000, 1 Moeda do Éden",
-        "es": "[Solicitud completada]\nUbicación: Campo de Splendide\nObjetivo: Recolecta 20 Cuernos místicos\nPremio: 300000 de EXP, 300000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Solicitud completada]\nUbicación: Campo de Splendide\nObjetivo: Recolecta 20 Cuernos místicos\nPremio: 300000 de EXP, 300000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "BycrCg": {
         "en": "[A Certain Magical Horn]\nYerne's Request from Midgard Allied Forces Post Area\nLocation: Splendide Field\nTarget: Collect 20 Mystic Horn\nReward: Exp 300000, Jexp 300000, 1 Eden Group Coin",
         "pt": "[Poder do Chifre]\nSolicitação do jovem Zeca\nLocal: Campo Esplendor\nObjetivo: Coletar 20 Chifres Místicos\nRecompensa: EXP base 300000, EXP classe 300000, 1 Moeda do Éden",
-        "es": "[Cierto cuerno mágico]\nSolicitud de Yerne en la zona del puesto de las Fuerzas Aliadas de Midgard\nUbicación: Campo de Splendide\nObjetivo: Recolecta 20 Cuernos místicos\nPremio: 300000 de EXP, 300000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Cierto cuerno mágico]\nSolicitud de Yerne en la zona del puesto de las Fuerzas Aliadas de Midgard\nUbicación: Campo de Splendide\nObjetivo: Recolecta 20 Cuernos místicos\nPremio: 300000 de EXP, 300000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "CCcrCg": {
         "en": "Yerne's Request from Midgard Allied Forces Post Area\n^4D4DFF[A Certain Magical Horn]^000000 Quest accepted.",
@@ -1007,12 +1007,12 @@
     "CScrCg": {
         "en": "[Request Completed]\nLocation: Audumbla Grassland\nTarget: Defeat 20 Kobold Axe, 20 Kobold Hammer, and 20 Kobold Mace\nReward: Exp 250000, Jexp 250000, 2 Eden Group Coin",
         "pt": "[Missão completa]\nLocal: Vila dos Kobolds\nObjetivo: Caçar 20 Kobolds de Machado, 20 Kobolds de Maça e 20 Kobolds de Martelo\nRecompensa: EXP base 250000, EXP classe 250000, 2 Moedas do Éden",
-        "es": "[Solicitud completada]\nUbicación: Pradera de Audhumbla\nObjetivo: Derrota a 20 Kobolds con hacha, 20 Kobolds con martillo y 20 Kobolds con maza\nPremio: 250000 de EXP, 250000 de EXP de clase, 2 monedas del Grupo de Edén"
+        "es": "[Solicitud completada]\nUbicación: Pradera de Audhumbla\nObjetivo: Derrota a 20 Kobolds con hacha, 20 Kobolds con martillo y 20 Kobolds con maza\nPremio: 250000 de EXP, 250000 de EXP de clase, 2 monedas del Grupo del Edén"
     },
     "CicrCg": {
         "en": "[Grassland Brawl - Kobold Edition]\nRequest from Hunter Harim in Ida Plains\nLocation: Audumbla Grassland\nTarget: Defeat 20 Kobold Axe, 20 Kobold Hammer, and 20 Kobold Mace\nReward: Exp 250000, Jexp 250000, 2 Eden Group Coin",
         "pt": "[Vilarejo dos Kobolds]\nSolicitação do Caçador Harim\nLocal: Vila dos Kobolds\nObjetivo: Caçar 20 Kobolds de Machado, 20 Kobolds de Maça e 20 Kobolds de Martelo\nRecompensa: EXP base 250000, EXP classe 250000, 2 Moedas do Éden",
-        "es": "[Contienda en la pradera: edición Kobold]\nSolicitud del Cazador Harim en la llanura de Ida\nUbicación: Pradera de Audhumbla\nObjetivo: Derrota a 20 Kobolds con hacha, 20 Kobolds con martillo y 20 Kobolds con maza\nPremio: 250000 de EXP, 250000 de EXP de clase, 2 monedas del Grupo de Edén"
+        "es": "[Contienda en la pradera: edición Kobold]\nSolicitud del Cazador Harim en la llanura de Ida\nUbicación: Pradera de Audhumbla\nObjetivo: Derrota a 20 Kobolds con hacha, 20 Kobolds con martillo y 20 Kobolds con maza\nPremio: 250000 de EXP, 250000 de EXP de clase, 2 monedas del Grupo del Edén"
     },
     "CycrCg": {
         "en": "Request from Hunter Harim in Ida Plains\n^4D4DFF[Grassland Brawl - Kobold Edition]^000000 Quest accepted.",
@@ -1022,12 +1022,12 @@
     "DCcrCg": {
         "en": "[Request Completed]\nLocation: Plain of Ida\nTarget: Defeat 30 Hill Wind\nReward: Exp 150000, Jexp 150000, 1 Eden Group Coin",
         "pt": "[Missão completa]\nLocal: Planície de Ida\nObjetivo: Caçar 30 Ventos da Colina\nRecompensa: EXP base 150000, EXP classe 150000, 1 Moeda do Éden",
-        "es": "[Solicitud completada]\nUbicación: Llanura de Ida\nObjetivo: Derrota a 30 Vientos de la colina\nPremio: 150000 de EXP, 150000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Solicitud completada]\nUbicación: Llanura de Ida\nObjetivo: Derrota a 30 Vientos de la colina\nPremio: 150000 de EXP, 150000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "DScrCg": {
         "en": "[Grassland Brawl - Hill Wind Edition]\nRequest from Hunter Harim in Ida Plains\nLocation: Plain of Ida\nTarget: Defeat 30 Hill Wind\nReward: Exp 150000, Jexp 150000, 1 Eden Group Coin",
         "pt": "[Vila da Colina]\nSolicitação do Caçador Harim\nLocal: Planície de Ida\nObjetivo: Caçar 30 Ventos da Colina\nRecompensa: EXP base 150000, EXP classe 150000, 1 Moeda do Éden",
-        "es": "[Contienda en la pradera: edición Viento de la colina]\nSolicitud del Cazador Harim en la llanura de Ida\nUbicación: Llanura de Ida\nObjetivo: Derrota a 30 Vientos de la colina\nPremio: 150000 de EXP, 150000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Contienda en la pradera: edición Viento de la colina]\nSolicitud del Cazador Harim en la llanura de Ida\nUbicación: Llanura de Ida\nObjetivo: Derrota a 30 Vientos de la colina\nPremio: 150000 de EXP, 150000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "DicrCg": {
         "en": "Request from Hunter Harim in Ida Plains\n^4D4DFF[Grassland Brawl - Hill Wind Edition]^000000 Quest accepted.",
@@ -1037,12 +1037,12 @@
     "DycrCg": {
         "en": "[Request Completed]\nLocation: Audumbla Grassland\nTarget: Defeat 30 Desert Wolf\nReward: Exp 150000, Jexp 150000, 1 Eden Group Coin",
         "pt": "[Missão completa]\nLocal: Entrada da Caverna de Gelo\nObjetivo: Caçar 30 Lobos do Deserto\nRecompensa: EXP base 150000, EXP classe 150000, 1 Moeda do Éden",
-        "es": "[Solicitud completada]\nUbicación: Pradera de Audhumbla\nObjetivo: Derrota a 30 Lobos del desierto\nPremio: 150000 de EXP, 150000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Solicitud completada]\nUbicación: Pradera de Audhumbla\nObjetivo: Derrota a 30 Lobos del desierto\nPremio: 150000 de EXP, 150000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "ECcrCg": {
         "en": "[Grassland Brawl - Desert Wolf Edition]\nRequest from Hunter Sarim in front of Ice Cave\nLocation: Audumbla Grassland\nTarget: Defeat 30 Desert Wolf\nReward: Exp 150000, Jexp 150000, 1 Eden Group Coin",
         "pt": "[Alcateia no Deserto]\nSolicitação do Caçador Sarim\nLocal: Entrada da Caverna de Gelo\nObjetivo: Caçar 30 Lobos do Deserto\nRecompensa: EXP base 150000, EXP classe 150000, 1 Moeda do Éden",
-        "es": "[Contienda en la pradera: edición Lobo del desierto]\nSolicitud del cazador Sarim frente a la Cueva de hielo\nUbicación: Pradera de Audhumbla\nObjetivo: Derrota a 30 Lobos del desierto\nPremio: 150000 de EXP, 150000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Contienda en la pradera: edición Lobo del desierto]\nSolicitud del cazador Sarim frente a la Cueva de hielo\nUbicación: Pradera de Audhumbla\nObjetivo: Derrota a 30 Lobos del desierto\nPremio: 150000 de EXP, 150000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "EScrCg": {
         "en": "Request from Hunter Sarim in front of Ice Cave\n^4D4DFF[Grassland Brawl - Desert Wolf Edition]^000000 Quest accepted.",
@@ -1052,12 +1052,12 @@
     "EicrCg": {
         "en": "[Request Completed]\nLocation: Audumbla Grassland\nTarget: Collect 20 Blue Hair\nReward: Exp 100000, Jexp 100000, 1 Eden Group Coin",
         "pt": "[Missão completa]\nLocal: Vila dos Kobolds\nObjetivo: Coletar 20 Cabelos Azuis\nRecompensa: EXP base 100000, EXP classe 100000, 1 Moeda do Éden",
-        "es": "[Solicitud completada]\nUbicación: Pradera de Audhumbla\nObjetivo: Recolecta 20 Cabellos azules\nPremio: 100000 de EXP, 100000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Solicitud completada]\nUbicación: Pradera de Audhumbla\nObjetivo: Recolecta 20 Cabellos azules\nPremio: 100000 de EXP, 100000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "EycrCg": {
         "en": "[Collect Good Fur.]\nRequest from Veins Farmer Cheddar\nLocation: Audumbla Grassland\nTarget: Collect 20 Blue Hair\nReward: Exp 100000, Jexp 100000, 1 Eden Group Coin",
         "pt": "[Pelos de Cachorro]\nSolicitação do Fazendeiro Cheda\nLocal: Vila dos Kobolds\nObjetivo: Coletar 20 Cabelos Azuis\nRecompensa: EXP base 100000, EXP classe 100000, 1 Moeda do Éden",
-        "es": "[Recolectar Pieles de calidad]\nSolicitud del granjero Cheddar de Veins\nUbicación: Pradera de Audhumbla\nObjetivo: Recolecta 20 Cabellos azules\nPremio: 100000 de EXP, 100000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Recolectar Pieles de calidad]\nSolicitud del granjero Cheddar de Veins\nUbicación: Pradera de Audhumbla\nObjetivo: Recolecta 20 Cabellos azules\nPremio: 100000 de EXP, 100000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "FCcrCg": {
         "en": "Request from Veins Farmer Cheddar\n^4D4DFF[Collect Good Fur.]^000000 Quest accepted.",
@@ -1067,12 +1067,12 @@
     "FScrCg": {
         "en": "[Request Completed]\nLocation: Veins Field\nTarget: Defeat 30 Drosera and 30 Muscipular\nReward: Exp 300000, Jexp 300000, 2 Eden Group Coin",
         "pt": "[Missão completa]\nLocal: Arredores de Veins\nObjetivo: Caçar 30 Droseras e 30 Muscipulares\nRecompensa: EXP base 300000, EXP classe 300000, 2 Moedas do Éden",
-        "es": "[Solicitud completada]\nUbicación: Campo de Veins\nObjetivo: Derrota a 30 Drosera y 30 Muscipular\nPremio: 300000 de EXP, 300000 de EXP de clase, 2 monedas del Grupo de Edén"
+        "es": "[Solicitud completada]\nUbicación: Campo de Veins\nObjetivo: Derrota a 30 Drosera y 30 Muscipular\nPremio: 300000 de EXP, 300000 de EXP de clase, 2 monedas del Grupo del Edén"
     },
     "FicrCg": {
         "en": "[Weed War]\nRequest from Mine, who dreams of becoming a Veins farmer.\nLocation: Veins Field\nTarget: Defeat 30 Drosera and 30 Muscipular\nReward: Exp 300000, Jexp 300000, 2 Eden Group Coin",
         "pt": "[Guerra contra as Plantas]\nSolicitação da Jardineira Minne\nLocal: Arredores de Veins\nObjetivo: Caçar 30 Droseras e 30 Muscipulares\nRecompensa: EXP base 300000, EXP classe 300000, 2 Moedas do Éden",
-        "es": "[Guerra de malas hierbas]\nSolicitud de Mine, quien sueña con ser granjera en Veins\nUbicación: Campo de Veins\nObjetivo: Derrota a 30 Drosera y 30 Muscipular\nPremio: 300000 de EXP, 300000 de EXP de clase, 2 monedas del Grupo de Edén"
+        "es": "[Guerra de malas hierbas]\nSolicitud de Mine, quien sueña con ser granjera en Veins\nUbicación: Campo de Veins\nObjetivo: Derrota a 30 Drosera y 30 Muscipular\nPremio: 300000 de EXP, 300000 de EXP de clase, 2 monedas del Grupo del Edén"
     },
     "FycrCg": {
         "en": "Request from Mine, who dreams of becoming a Veins farmer.\n^4D4DFF[Weed War]^000000 Quest accepted.",
@@ -1082,12 +1082,12 @@
     "GCcrCg": {
         "en": "[Request Completed]\nLocation: Veins Field\nTarget: Defeat 30 Magmaring\nReward: Exp 150000, Jexp 150000, 1 Eden Group Coin",
         "pt": "[Missão completa]\nLocal: Arredores de Veins\nObjetivo: Caçar 30 Magmarings\nRecompensa: EXP base 150000, EXP classe 150000, 1 Moeda do Éden",
-        "es": "[Solicitud completada]\nUbicación: Campo de Veins\nObjetivo: Derrota a 30 Magmaring\nPremio: 150000 de EXP, 150000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Solicitud completada]\nUbicación: Campo de Veins\nObjetivo: Derrota a 30 Magmaring\nPremio: 150000 de EXP, 150000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "GScrCg": {
         "en": "[Volcanic Mutation]\nVeins Vigilante's Request\nLocation: Veins Field\nTarget: Defeat 30 Magmaring\nReward: Exp 150000, Jexp 150000, 1 Eden Group Coin",
         "pt": "[Mutação Vulcânica]\nSolicitação de um Vigia de Veins\nLocal: Arredores de Veins\nObjetivo: Caçar 30 Magmarings\nRecompensa: EXP base 150000, EXP classe 150000, 1 Moeda do Éden",
-        "es": "[Mutación volcánica]\nSolicitud del justiciero de Veins\nUbicación: Campo de Veins\nObjetivo: Derrota a 30 Magmaring\nPremio: 150000 de EXP, 150000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Mutación volcánica]\nSolicitud del justiciero de Veins\nUbicación: Campo de Veins\nObjetivo: Derrota a 30 Magmaring\nPremio: 150000 de EXP, 150000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "GicrCg": {
         "en": "Veins Vigilante's Request\n^4D4DFF[Volcanic Mutation]^000000 Quest accepted.",
@@ -1097,12 +1097,12 @@
     "GycrCg": {
         "en": "[Request Completed]\nLocation: Ice Cave\nTarget: Defeat 20 Glacial Heart\nReward: Exp 100000, Jexp 100000, 1 Eden Group Coin",
         "pt": "[Missão completa]\nLocal: Caverna de Gelo\nObjetivo: Coletar 20 Corações Glaciais\nRecompensa: EXP base 100000, EXP classe 100000, 1 Moeda do Éden",
-        "es": "[Solicitud completada]\nUbicación: Cueva de hielo\nObjetivo: Recolecta 20 Corazones glaciales\nPremio: 100000 de EXP, 100000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Solicitud completada]\nUbicación: Cueva de hielo\nObjetivo: Recolecta 20 Corazones glaciales\nPremio: 100000 de EXP, 100000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "HCcrCg": {
         "en": "[Cold heart, cool cuisine]\nRequest from Tarim, bar clerk at Rachel Hotel\nLocation: Ice Cave\nTarget: Defeat 20 Glacial Heart\nReward: Exp 100000, Jexp 100000, 1 Eden Group Coin",
         "pt": "[Minhas Bebidas Geladas]\nSolicitação da Barista de Rachel\nLocal: Caverna de Gelo\nObjetivo: Coletar 20 Corações Glaciais\nRecompensa: EXP base 100000, EXP classe 100000, 1 Moeda do Éden",
-        "es": "[Corazones fríos, cocina fresca]\nSolicitud de Tarim, dependiente de la cantina del Hotel Rachel\nUbicación: Cueva de hielo\nObjetivo: Recolecta 20 Corazones glaciales\nPremio: 100000 de EXP, 100000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Corazones fríos, cocina fresca]\nSolicitud de Tarim, dependiente de la cantina del Hotel Rachel\nUbicación: Cueva de hielo\nObjetivo: Recolecta 20 Corazones glaciales\nPremio: 100000 de EXP, 100000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "HScrCg": {
         "en": "Request from Tarim, bar clerk at Rachel Hotel\n^4D4DFF[Cold heart, cool cuisine]^000000 Quest accepted.",
@@ -1112,12 +1112,12 @@
     "HicrCg": {
         "en": "[Request Completed]\nLocation: Ice Cave\nTarget: Defeat 30 Snowier\nReward: Exp 150000, Jexp 150000, 1 Eden Group Coin",
         "pt": "[Missão completa]\nLocal: Caverna de Gelo\nObjetivo: Caçar 30 Yetis\nRecompensa: EXP base 150000, EXP classe 150000, 1 Moeda do Éden",
-        "es": "[Solicitud completada]\nUbicación: Cueva de hielo\nObjetivo: Derrota a 30 Nevadísimos\nPremio: 150000 de EXP, 150000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Solicitud completada]\nUbicación: Cueva de hielo\nObjetivo: Derrota a 30 Nevadísimos\nPremio: 150000 de EXP, 150000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "HycrCg": {
         "en": "[Yeti who can't communicate]\nIce Cave 1st floor Request from the wizard's friend\nLocation: Ice Cave\nTarget: Defeat 30 Snowier\nReward: Exp 150000, Jexp 150000, 1 Eden Group Coin",
         "pt": "[Monstro das Neves]\nSolicitação do Amigo de um Mago\nLocal: Caverna de Gelo\nObjetivo: Caçar 30 Yetis\nRecompensa: EXP base 150000, EXP classe 150000, 1 Moeda do Éden",
-        "es": "[Abominables hombres de las nieves]\nCueva de hielo, piso 1, solicitud del amigo del mago\nUbicación: Cueva de hielo\nObjetivo: Derrota a 30 Nevadísimos\nPremio: 150000 de EXP, 150000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Abominables hombres de las nieves]\nCueva de hielo, piso 1, solicitud del amigo del mago\nUbicación: Cueva de hielo\nObjetivo: Derrota a 30 Nevadísimos\nPremio: 150000 de EXP, 150000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "ICcrCg": {
         "en": "Ice Cave 1st floor Request from the wizard's friend\n^4D4DFF[Yeti who can't communicate]^000000 Quest accepted.",
@@ -1127,12 +1127,12 @@
     "IScrCg": {
         "en": "[Request Completed]\nLocation: Ice Cave\nTarget: Defeat 30 Ice Titan and 10 Gazeti\nReward: Exp 300000, Jexp 300000, 1 Eden Group Coin",
         "pt": "[Missão completa]\nLocal: Caverna de Gelo\nObjetivo: Caçar 30 Titãs de Gelo e 10 Gazetis\nRecompensa: EXP base 300000, EXP classe 300000, 1 Moeda do Éden",
-        "es": "[Solicitud completada]\nUbicación: Cueva de hielo\nObjetivo: Derrota a 30 Titanes de hielo y 10 Gazeti\nPremio: 300000 de EXP, 300000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Solicitud completada]\nUbicación: Cueva de hielo\nObjetivo: Derrota a 30 Titanes de hielo y 10 Gazeti\nPremio: 300000 de EXP, 300000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "IicrCg": {
         "en": "[How hard are ice crystals?]\nIce Cave 1st floor Request from the wizard's friend\nLocation: Ice Cave\nTarget: Defeat 30 Ice Titan and 10 Gazeti\nReward: Exp 300000, Jexp 300000, 1 Eden Group Coin",
         "pt": "[Cristais são Duros?]\nSolicitação do Amigo de um Mago\nLocal: Caverna de Gelo\nObjetivo: Caçar 30 Titãs de Gelo e 10 Gazetis\nRecompensa: EXP base 300000, EXP classe 300000, 1 Moeda do Éden",
-        "es": "[¿Qué dureza tienen los cristales de hielo?]\nCueva de hielo piso 1, solicitud del amigo del Hechicero\nUbicación: Cueva de hielo\nObjetivo: Derrota a 30 Titanes de hielo y 10 Gazeti\nPremio: 300000 de EXP, 300000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[¿Qué dureza tienen los cristales de hielo?]\nCueva de hielo piso 1, solicitud del amigo del Hechicero\nUbicación: Cueva de hielo\nObjetivo: Derrota a 30 Titanes de hielo y 10 Gazeti\nPremio: 300000 de EXP, 300000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "IycrCg": {
         "en": "Ice Cave 1st floor Request from the wizard's friend\n^4D4DFF[How hard are ice crystals?]^000000 Quest accepted.",
@@ -1142,12 +1142,12 @@
     "JCcrCg": {
         "en": "[Request Completed]\nLocation: Thanatos Tower\nTarget: Defeat 30 Ancient Mimic\nReward: Exp 400000, Jexp 400000, 1 Eden Group Coin",
         "pt": "[Missão completa]\nLocal: Torre de Thanatos\nObjetivo: Caçar 30 Mímicos Anciões\nRecompensa: EXP base 400000, EXP classe 400000, 1 Moeda do Éden",
-        "es": "[Solicitud completada]\nUbicación: Torre de Thanatos\nObjetivo: Derrota a 30 Mímicos antiguos\nPremio: 400000 de EXP, 400000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Solicitud completada]\nUbicación: Torre de Thanatos\nObjetivo: Derrota a 30 Mímicos antiguos\nPremio: 400000 de EXP, 400000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "JScrCg": {
         "en": "[Inside Mimic's Box]\nAbril's request inside the 1st floor of Thanatos Tower\nLocation: Thanatos Tower\nTarget: Defeat 30 Ancient Mimic\nReward: Exp 400000, Jexp 400000, 1 Eden Group Coin",
         "pt": "[Uma Caixa Viva]\nSolicitação de uma Exploradora\nLocal: Torre de Thanatos\nObjetivo: Caçar 30 Mímicos Anciões\nRecompensa: EXP base 400000, EXP classe 400000, 1 Moeda do Éden",
-        "es": "[Dentro de la caja del Mímico]\nSolicitud de Abril en el piso 1 de la torre de Thanatos\nUbicación: Torre de Thanatos\nObjetivo: Derrota a 30 Mímicos antiguos\nPremio: 400000 de EXP, 400000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Dentro de la caja del Mímico]\nSolicitud de Abril en el piso 1 de la torre de Thanatos\nUbicación: Torre de Thanatos\nObjetivo: Derrota a 30 Mímicos antiguos\nPremio: 400000 de EXP, 400000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "JicrCg": {
         "en": "Abril's request inside the 1st floor of Thanatos Tower\n^4D4DFF[Inside Mimic's Box]^000000 Quest accepted.",
@@ -1157,12 +1157,12 @@
     "JycrCg": {
         "en": "[Request Completed]\nLocation: Thanatos Tower\nTarget: Defeat 30 Death Word\nReward: Exp 400000, Jexp 400000, 1 Eden Group Coin",
         "pt": "[Missão completa]\nLocal: Torre de Thanatos\nObjetivo: Caçar 30 Palavras Mortas\nRecompensa: EXP base 400000, EXP classe 400000, 1 Moeda do Éden",
-        "es": "[Solicitud completada]\nUbicación: Torre de Thanatos\nObjetivo: Derrota a 30 Palabras de muerte\nPremio: 400000 de EXP, 400000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Solicitud completada]\nUbicación: Torre de Thanatos\nObjetivo: Derrota a 30 Palabras de muerte\nPremio: 400000 de EXP, 400000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "KCcrCg": {
         "en": "[Floating Old Wisdom]\nAbril's request inside the 1st floor of Thanatos Tower\nLocation: Thanatos Tower\nTarget: Defeat 30 Death Word\nReward: Exp 400000, Jexp 400000, 1 Eden Group Coin",
         "pt": "[Palavras ao Vento]\nSolicitação de uma Exploradora\nLocal: Torre de Thanatos\nObjetivo: Caçar 30 Palavras Mortas\nRecompensa: EXP base 400000, EXP classe 400000, 1 Moeda do Éden",
-        "es": "[Antigua sabiduría flotante]\nSolicitud de Abril en el piso 1 de la torre de Thanatos\nUbicación: Torre de Thanatos\nObjetivo: Derrota a 30 Palabras de muerte\nPremio: 400000 de EXP, 400000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Antigua sabiduría flotante]\nSolicitud de Abril en el piso 1 de la torre de Thanatos\nUbicación: Torre de Thanatos\nObjetivo: Derrota a 30 Palabras de muerte\nPremio: 400000 de EXP, 400000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "KScrCg": {
         "en": "Abril's request inside the 1st floor of Thanatos Tower\n^4D4DFF[Floating Old Wisdom]^000000 Quest accepted.",
@@ -1172,12 +1172,12 @@
     "KicrCg": {
         "en": "[Request Completed]\nLocation: Thanatos Tower\nTarget: Defeat 20 Owl Baron\nReward: Exp 500000, Jexp 500000, 1 Eden Group Coin",
         "pt": "[Missão completa]\nLocal: Torre de Thanatos\nObjetivo: Caçar 20 Barões Corujas\nRecompensa: EXP base 500000, EXP classe 500000, 1 Moeda do Éden",
-        "es": "[Solicitud completada]\nUbicación: Torre de Thanatos\nObjetivo: Derrota a 20 Barones búho\nPremio: 500000 de EXP, 500000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Solicitud completada]\nUbicación: Torre de Thanatos\nObjetivo: Derrota a 20 Barones búho\nPremio: 500000 de EXP, 500000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "KycrCg": {
         "en": "[Baron of Old Castle]\nAbril's request inside the 1st floor of Thanatos Tower\nLocation: Thanatos Tower\nTarget: Defeat 20 Owl Baron\nReward: Exp 500000, Jexp 500000, 1 Eden Group Coin",
         "pt": "[Barão do Reino]\nSolicitação de uma Exploradora\nLocal: Torre de Thanatos\nObjetivo: Caçar 20 Barões Corujas\nRecompensa: EXP base 500000, EXP classe 500000, 1 Moeda do Éden",
-        "es": "[Barón del castillo ancestral]\nSolicitud de Abril en el piso 1 de la torre de Thanatos\nUbicación: Torre de Thanatos\nObjetivo: Derrota a 20 Barones búho\nPremio: 500000 de EXP, 500000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Barón del castillo ancestral]\nSolicitud de Abril en el piso 1 de la torre de Thanatos\nUbicación: Torre de Thanatos\nObjetivo: Derrota a 20 Barones búho\nPremio: 500000 de EXP, 500000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "LCcrCg": {
         "en": "Abril's request inside the 1st floor of Thanatos Tower\n^4D4DFF[Baron of Old Castle]^000000 Quest accepted.",
@@ -1187,12 +1187,12 @@
     "LScrCg": {
         "en": "[Request Completed]\nLocation: Thanatos Tower\nTarget: Collect 10 Bloody Page\nReward: Exp 400000, Jexp 400000, 1 Eden Group Coin",
         "pt": "[Missão completa]\nLocal: Torre de Thanatos\nObjetivo: Coletar 10 Páginas Sangrentas\nRecompensa: EXP base 400000, EXP classe 400000, 1 Moeda do Éden",
-        "es": "[Solicitud completada]\nUbicación: Torre de Thanatos\nObjetivo: Recolecta 10 Páginas ensangrentadas\nPremio: 400000 de EXP, 400000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Solicitud completada]\nUbicación: Torre de Thanatos\nObjetivo: Recolecta 10 Páginas ensangrentadas\nPremio: 400000 de EXP, 400000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "LicrCg": {
         "en": "[Pieces of Knowledge]\nAbril's request inside the 1st floor of Thanatos Tower\nLocation: Thanatos Tower\nTarget: Collect 10 Bloody Page\nReward: Exp 400000, Jexp 400000, 1 Eden Group Coin",
         "pt": "[Páginas de um Livro]\nSolicitação de uma Exploradora\nLocal: Torre de Thanatos\nObjetivo: Coletar 10 Páginas Sangrentas\nRecompensa: EXP base 400000, EXP classe 400000, 1 Moeda do Éden",
-        "es": "[Piezas de conocimiento]\nSolicitud de Abril en el piso 1 de la torre de Thanatos\nUbicación: Torre de Thanatos\nObjetivo: Recolecta 10 Páginas ensangrentadas\nPremio: 400000 de EXP, 400000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Piezas de conocimiento]\nSolicitud de Abril en el piso 1 de la torre de Thanatos\nUbicación: Torre de Thanatos\nObjetivo: Recolecta 10 Páginas ensangrentadas\nPremio: 400000 de EXP, 400000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "LycrCg": {
         "en": "Abril's request inside the 1st floor of Thanatos Tower\n^4D4DFF[Pieces of Knowledge]^000000 Quest accepted.",
@@ -1202,12 +1202,12 @@
     "MCcrCg": {
         "en": "[Request Completed]\nLocation: Thanatos Tower\nTarget: Collect 10 Worn-out Magic Scroll\nReward: Exp 400000, Jexp 400000, 1 Eden Group Coin",
         "pt": "[Missão completa]\nLocal: Torre de Thanatos\nObjetivo: Coletar 10 Pergaminho Antigo\nRecompensa: EXP base 400000, EXP classe 400000, 1 Moeda do Éden",
-        "es": "[Solicitud completada]\nUbicación: Torre de Thanatos\nObjetivo: Recolecta 10 Pergaminos mágicos desgastados\nPremio: 400000 de EXP, 400000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Solicitud completada]\nUbicación: Torre de Thanatos\nObjetivo: Recolecta 10 Pergaminos mágicos desgastados\nPremio: 400000 de EXP, 400000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "MScrCg": {
         "en": "[Old Magic Records]\nAbril's request inside the 1st floor of Thanatos Tower\nLocation: Thanatos Tower\nTarget: Collect 10 Worn-out Magic Scroll\nReward: Exp 400000, Jexp 400000, 1 Eden Group Coin",
         "pt": "[Manuscritos Mágicos]\nSolicitação de uma Exploradora\nLocal: Torre de Thanatos\nObjetivo: Coletar 10 Pergaminho Antigo\nRecompensa: EXP base 400000, EXP classe 400000, 1 Moeda do Éden",
-        "es": "[Viejos registros mágicos]\nSolicitud de Abril en el piso 1 de la torre de Thanatos\nUbicación: Torre de Thanatos\nObjetivo: Recolecta 10 Pergaminos mágicos desgastados\nPremio: 400000 de EXP, 400000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Viejos registros mágicos]\nSolicitud de Abril en el piso 1 de la torre de Thanatos\nUbicación: Torre de Thanatos\nObjetivo: Recolecta 10 Pergaminos mágicos desgastados\nPremio: 400000 de EXP, 400000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "MicrCg": {
         "en": "Abril's request inside the 1st floor of Thanatos Tower\n^4D4DFF[Old Magic Records]^000000 Quest accepted.",
@@ -1217,12 +1217,12 @@
     "MycrCg": {
         "en": "[Request Completed]\nLocation: Thanatos Tower\nTarget: Collect 30 Tattered Clothes\nReward: Exp 400000, Jexp 400000, 1 Eden Group Coin",
         "pt": "[Missão completa]\nLocal: Torre de Thanatos\nObjetivo: Coletar 30 Farrapos\nRecompensa: EXP base 400000, EXP classe 400000, 1 Moeda do Éden",
-        "es": "[Solicitud completada]\nUbicación: Torre de Thanatos\nObjetivo: Recolecta 30 unidades de Ropa andrajosa\nPremio: 400000 de EXP, 400000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Solicitud completada]\nUbicación: Torre de Thanatos\nObjetivo: Recolecta 30 unidades de Ropa andrajosa\nPremio: 400000 de EXP, 400000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "NCcrCg": {
         "en": "[Recycling Collection]\nAbril's request inside the 1st floor of Thanatos Tower\nLocation: Thanatos Tower\nTarget: Collect 30 Tattered Clothes\nReward: Exp 400000, Jexp 400000, 1 Eden Group Coin",
         "pt": "[Aula de Reciclagem]\nSolicitação de uma Exploradora\nLocal: Torre de Thanatos\nObjetivo: Coletar 30 Farrapos\nRecompensa: EXP base 400000, EXP classe 400000, 1 Moeda do Éden",
-        "es": "[Recolección de reciclaje]\nSolicitud de Abril en el piso 1 de la torre de Thanatos\nUbicación: Torre de Thanatos\nObjetivo: Recolecta 30 unidades de Ropa andrajosa\nPremio: 400000 de EXP, 400000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Recolección de reciclaje]\nSolicitud de Abril en el piso 1 de la torre de Thanatos\nUbicación: Torre de Thanatos\nObjetivo: Recolecta 30 unidades de Ropa andrajosa\nPremio: 400000 de EXP, 400000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "NScrCg": {
         "en": "Abril's request inside the 1st floor of Thanatos Tower\n^4D4DFF[Recycling Collection]^000000 Quest accepted.",
@@ -1232,12 +1232,12 @@
     "NicrCg": {
         "en": "[Request Completed]\nLocation: Juperos Dungeon\nTarget: Defeat 20 Venatu (Purple) and 20 Venatu (Green)\nReward: Exp 300000, Jexp 250000, 1 Eden Group Coin",
         "pt": "[Missão completa]\nLocal: Juperos\nObjetivo: Caçar 20 Venatus Verdes e 20 Venatus Laranjas\nRecompensa: EXP base 300000, EXP classe 250000, 1 Moeda do Éden",
-        "es": "[Solicitud completada]\nUbicación: Mazmorra de Juperos\nObjetivo: Derrota a 20 Venatu (morado) y 20 Venatu (verde)\nPremio: 300000 de EXP, 250000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Solicitud completada]\nUbicación: Mazmorra de Juperos\nObjetivo: Derrota a 20 Venatu (morado) y 20 Venatu (verde)\nPremio: 300000 de EXP, 250000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "NycrCg": {
         "en": "[Swarm of Iron Ants-1]\nRequest from Jowon Ernest in front of Juperos Dungeon\nLocation: Juperos Dungeon\nTarget: Defeat 20 Venatu (Purple) and 20 Venatu (Green)\nReward: Exp 300000, Jexp 250000, 1 Eden Group Coin",
         "pt": "[Formigas de Aço]\nSolicitação de um estudante no Desfiladeiro Elmes\nLocal: Juperos\nObjetivo: Caçar 20 Venatus Verdes e 20 Venatus Laranjas\nRecompensa: EXP base 300000, EXP classe 250000, 1 Moeda do Éden",
-        "es": "[Enjambre de hormigas de hierro 1]\nSolicitud de Jowon Ernest frente a la mazmorra de Juperos\nUbicación: Mazmorra de Juperos\nObjetivo: Derrota a 20 Venatu (morado) y 20 Venatu (verde)\nPremio: 300000 de EXP, 250000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Enjambre de hormigas de hierro 1]\nSolicitud de Jowon Ernest frente a la mazmorra de Juperos\nUbicación: Mazmorra de Juperos\nObjetivo: Derrota a 20 Venatu (morado) y 20 Venatu (verde)\nPremio: 300000 de EXP, 250000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "OCcrCg": {
         "en": "Request from Jowon Ernest in front of Juperos Dungeon\n^4D4DFF[Swarm of Iron Ants-1]^000000 Quest accepted.",
@@ -1247,12 +1247,12 @@
     "OScrCg": {
         "en": "[Request Completed]\nLocation: Juperos Dungeon\nTarget: Defeat 20 Venatu (Red) and 20 Venatu (Blue)\nReward: Exp 300000, Jexp 250000, 1 Eden Group Coin",
         "pt": "[Missão completa]\nLocal: Juperos\nObjetivo: Caçar 20 Venatus Azuis e 20 Venatus Vermelhos\nRecompensa: EXP base 300000, EXP classe 250000, 1 Moeda do Éden",
-        "es": "[Solicitud completada]\nUbicación: Mazmorra de Juperos\nObjetivo: Derrota a 20 Venatu (rojo) y 20 Venatu (azul)\nPremio: 300000 de EXP, 250000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Solicitud completada]\nUbicación: Mazmorra de Juperos\nObjetivo: Derrota a 20 Venatu (rojo) y 20 Venatu (azul)\nPremio: 300000 de EXP, 250000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "OicrCg": {
         "en": "[Swarm of Iron Ants-2]\nRequest from Jowon Ernest in front of Juperos Dungeon\nLocation: Juperos Dungeon\nTarget: Defeat 20 Venatu (Red) and 20 Venatu (Blue)\nReward: Exp 300000, Jexp 250000, 1 Eden Group Coin",
         "pt": "[Formigas de Ferro]\nSolicitação de um estudante no Desfiladeiro Elmes\nLocal: Juperos\nObjetivo: Caçar 20 Venatus Azuis e 20 Venatus Vermelhos\nRecompensa: EXP base 300000, EXP classe 250000, 1 Moeda do Éden",
-        "es": "[Enjambre de hormigas de hierro 2]\nSolicitud de Jowon Ernest frente a la mazmorra de Juperos\nUbicación: Mazmorra de Juperos\nObjetivo: Derrota a 20 Venatu (rojo) y 20 Venatu (azul)\nPremio: 300000 de EXP, 250000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Enjambre de hormigas de hierro 2]\nSolicitud de Jowon Ernest frente a la mazmorra de Juperos\nUbicación: Mazmorra de Juperos\nObjetivo: Derrota a 20 Venatu (rojo) y 20 Venatu (azul)\nPremio: 300000 de EXP, 250000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "OycrCg": {
         "en": "Request from Jowon Ernest in front of Juperos Dungeon\n^4D4DFF[Swarm of Iron Ants-2]^000000 Quest accepted.",
@@ -1262,12 +1262,12 @@
     "PCcrCg": {
         "en": "[Request Completed]\nLocation: Juperos Dungeon\nTarget: Defeat 10 Dimik (Green) and 10 Dimik (Blue)\nReward: Exp 300000, Jexp 250000, 1 Eden Group Coin",
         "pt": "[Missão completa]\nLocal: Juperos\nObjetivo: Caçar 10 Dimiks Azuis e 10 Dimiks Laranjas\nRecompensa: EXP base 300000, EXP classe 250000, 1 Moeda do Éden",
-        "es": "[Solicitud completada]\nUbicación: Mazmorra de Juperos\nObjetivo: Derrota a 10 Dimik (verde) y 10 Dimik (azul)\nPremio: 300000 de EXP, 250000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Solicitud completada]\nUbicación: Mazmorra de Juperos\nObjetivo: Derrota a 10 Dimik (verde) y 10 Dimik (azul)\nPremio: 300000 de EXP, 250000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "PScrCg": {
         "en": "[Colorful Dimik-1]\nRequest from Captain Maxim in front of Juperos Dungeon\nLocation: Juperos Dungeon\nTarget: Defeat 10 Dimik (Green) and 10 Dimik (Blue)\nReward: Exp 300000, Jexp 250000, 1 Eden Group Coin",
         "pt": "[Robôs Coloridos]\nSolicitação de um estudante no Desfiladeiro Elmes\nLocal: Juperos\nObjetivo: Caçar 10 Dimiks Azuis e 10 Dimiks Laranjas\nRecompensa: EXP base 300000, EXP classe 250000, 1 Moeda do Éden",
-        "es": "[Dimik colorido 1]\nSolicitud del capitán Maxim frente a la mazmorra de Juperos\nUbicación: Mazmorra de Juperos\nObjetivo: Derrota a 10 Dimik (verde) y 10 Dimik (azul)\nPremio: 300000 de EXP, 250000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Dimik colorido 1]\nSolicitud del capitán Maxim frente a la mazmorra de Juperos\nUbicación: Mazmorra de Juperos\nObjetivo: Derrota a 10 Dimik (verde) y 10 Dimik (azul)\nPremio: 300000 de EXP, 250000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "PicrCg": {
         "en": "Request from Captain Maxim in front of Juperos Dungeon\n^4D4DFF[Colorful Dimik-1]^000000 Quest accepted.",
@@ -1277,12 +1277,12 @@
     "PycrCg": {
         "en": "[Request Completed]\nLocation: Juperos Dungeon\nTarget: Defeat 10 Dimik (Scarlet) and 10 Dimik (Red)\nReward: Exp 300000, Jexp 250000, 1 Eden Group Coin",
         "pt": "[Missão completa]\nLocal: Juperos\nObjetivo: Caçar 10 Dimiks Verdes e 10 Dimiks Vermelhos\nRecompensa: EXP base 300000, EXP classe 250000, 1 Moeda do Éden",
-        "es": "[Solicitud completada]\nUbicación: Mazmorra de Juperos\nObjetivo: Derrota a 10 Dimik (escarlata) y 10 Dimik (rojo)\nPremio: 300000 de EXP, 250000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Solicitud completada]\nUbicación: Mazmorra de Juperos\nObjetivo: Derrota a 10 Dimik (escarlata) y 10 Dimik (rojo)\nPremio: 300000 de EXP, 250000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "QCcrCg": {
         "en": "[Colorful Dimik-2]\nRequest from Captain Maxim in front of Juperos Dungeon\nLocation: Juperos Dungeon\nTarget: Defeat 10 Dimik (Scarlet) and 10 Dimik (Red)\nReward: Exp 300000, Jexp 250000, 1 Eden Group Coin",
         "pt": "[Robôs Multicoloridos]\nSolicitação de um estudante no Desfiladeiro Elmes\nLocal: Juperos\nObjetivo: Caçar 10 Dimiks Verdes e 10 Dimiks Vermelhos\nRecompensa: EXP base 300000, EXP classe 250000, 1 Moeda do Éden",
-        "es": "[Dimik colorido 2]\nSolicitud del capitán Maxim frente a la mazmorra de Juperos\nUbicación: Mazmorra de Juperos\nObjetivo: Derrota a 10 Dimik (escarlata) y 10 Dimik (rojo)\nPremio: 300000 de EXP, 250000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Dimik colorido 2]\nSolicitud del capitán Maxim frente a la mazmorra de Juperos\nUbicación: Mazmorra de Juperos\nObjetivo: Derrota a 10 Dimik (escarlata) y 10 Dimik (rojo)\nPremio: 300000 de EXP, 250000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "QScrCg": {
         "en": "Request from Captain Maxim in front of Juperos Dungeon\n^4D4DFF[Colorful Dimik-2]^000000 Quest accepted.",
@@ -2002,12 +2002,12 @@
     "0CcrCg": {
         "en": "[Request Completed]\nLocation: Hugel Temple of Odin\nTarget: Defeat 20 Skogul\nReward: Exp 600000, Jexp 600000, 1 Eden Group Coin",
         "pt": "[Missão completa]\nLocal: Templo de Odin\nObjetivo: Caçar 20 Skogul\nRecompensa: EXP base 600000, EXP classe 600000, 1 Moeda do Éden",
-        "es": "[Solicitud completada]\nUbicación: Templo de Odín en Hugel\nObjetivo: Derrota a 20 Skogul\nPremio: 600000 de EXP, 600000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Solicitud completada]\nUbicación: Templo de Odín en Hugel\nObjetivo: Derrota a 20 Skogul\nPremio: 600000 de EXP, 600000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "0ScrCg": {
         "en": "[From the Radio Operator]\nMorvand's request in front of Hugel Pier\nLocation: Hugel Temple of Odin\nTarget: Defeat 20 Skogul\nReward: Exp 600000, Jexp 600000, 1 Eden Group Coin",
         "pt": "[Menina Gótica]\nSolicitação de Morband\nLocal: Templo de Odin\nObjetivo: Caçar 20 Skogul\nRecompensa: EXP base 600000, EXP classe 600000, 1 Moeda do Éden",
-        "es": "[Del operador de radio]\nSolicitud de Morvand frente al muelle de Hugel\nUbicación: Templo de Odín en Hugel\nObjetivo: Derrota a 20 Skogul\nPremio: 600000 de EXP, 600000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Del operador de radio]\nSolicitud de Morvand frente al muelle de Hugel\nUbicación: Templo de Odín en Hugel\nObjetivo: Derrota a 20 Skogul\nPremio: 600000 de EXP, 600000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "0icrCg": {
         "en": "Morvand's request in front of Hugel Pier\n^4D4DFF[From the Radio Operator]^000000 Quest accepted.",
@@ -2017,12 +2017,12 @@
     "0ycrCg": {
         "en": "[Request Completed]\nLocation: Hugel Temple of Odin\nTarget: Defeat 20 Frus\nReward: Exp 600000, Jexp 600000, 1 Eden Group Coin",
         "pt": "[Missão completa]\nLocal: Templo de Odin\nObjetivo: Caçar 20 Frus\nRecompensa: EXP base 600000, EXP classe 600000, 1 Moeda do Éden",
-        "es": "[Solicitud completada]\nUbicación: Templo de Odín en Hugel\nObjetivo: Derrota a 20 Frus\nPremio: 600000 de EXP, 600000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Solicitud completada]\nUbicación: Templo de Odín en Hugel\nObjetivo: Derrota a 20 Frus\nPremio: 600000 de EXP, 600000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "1CcrCg": {
         "en": "[Demon Purification]\nMorvand's request in front of Hugel Pier\nLocation: Hugel Temple of Odin\nTarget: Defeat 20 Frus\nReward: Exp 600000, Jexp 600000, 1 Eden Group Coin",
         "pt": "[Purificar o Mal]\nSolicitação de Morband\nLocal: Templo de Odin\nObjetivo: Caçar 20 Frus\nRecompensa: EXP base 600000, EXP classe 600000, 1 Moeda do Éden",
-        "es": "[Purificación de demonios]\nSolicitud de Morvand frente al muelle de Hugel\nUbicación: Templo de Odín en Hugel\nObjetivo: Derrota a 20 Frus\nPremio: 600000 de EXP, 600000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Purificación de demonios]\nSolicitud de Morvand frente al muelle de Hugel\nUbicación: Templo de Odín en Hugel\nObjetivo: Derrota a 20 Frus\nPremio: 600000 de EXP, 600000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "1ScrCg": {
         "en": "Morvand's request in front of Hugel Pier\n^4D4DFF[Demon Purification]^000000 Quest accepted.",
@@ -2032,12 +2032,12 @@
     "1icrCg": {
         "en": "[Request Completed]\nLocation: Hugel Temple of Odin\nTarget: Defeat 5 Blue Skeggiold and 5 Brown Skeggiold\nReward: Exp 600000, Jexp 600000, 2 Eden Group Coin",
         "pt": "[Missão completa]\nLocal: Templo de Odin\nObjetivo: Caçar 5 Skeggiold Azuis e 5 Skeggiold Marrons\nRecompensa: EXP base 600000, EXP classe 600000, 2 Moedas do Éden",
-        "es": "[Solicitud completada]\nUbicación: Templo de Odín en Hugel\nObjetivo: Derrota a 5 Skeggiold azules y a 5 Skeggiold marrones\nPremio: 600000 de EXP, 600000 de EXP de clase, 2 monedas del Grupo de Edén"
+        "es": "[Solicitud completada]\nUbicación: Templo de Odín en Hugel\nObjetivo: Derrota a 5 Skeggiold azules y a 5 Skeggiold marrones\nPremio: 600000 de EXP, 600000 de EXP de clase, 2 monedas del Grupo del Edén"
     },
     "1ycrCg": {
         "en": "[Before being deceived]\nMorvand's request in front of Hugel Pier\nLocation: Hugel Temple of Odin\nTarget: Defeat 5 Blue Skeggiold and 5 Brown Skeggiold\nReward: Exp 600000, Jexp 600000, 2 Eden Group Coin",
         "pt": "[Seres Gelatinosos]\nSolicitação de Morband\nLocal: Templo de Odin\nObjetivo: Caçar 5 Skeggiold Azuis e 5 Skeggiold Marrons\nRecompensa: EXP base 600000, EXP classe 600000, 2 Moedas do Éden",
-        "es": "[Antes de ser engañado]\nSolicitud de Morvand frente al muelle de Hugel\nUbicación: Templo de Odín en Hugel\nObjetivo: Derrota a 5 Skeggiold azules y a 5 Skeggiold marrones\nPremio: 600000 de EXP, 600000 de EXP de clase, 2 monedas del Grupo de Edén"
+        "es": "[Antes de ser engañado]\nSolicitud de Morvand frente al muelle de Hugel\nUbicación: Templo de Odín en Hugel\nObjetivo: Derrota a 5 Skeggiold azules y a 5 Skeggiold marrones\nPremio: 600000 de EXP, 600000 de EXP de clase, 2 monedas del Grupo del Edén"
     },
     "2CcrCg": {
         "en": "Morvand's request in front of Hugel Pier\n^4D4DFF[Before being deceived]^000000 Quest accepted.",
@@ -2047,12 +2047,12 @@
     "2ScrCg": {
         "en": "[Request Completed]\nLocation: Abyss Lake\nTarget: Defeat 30 Red Ferus and 30 Green Ferus\nReward: Exp 500000, Jexp 500000, 2 Eden Group Coin",
         "pt": "[Missão completa]\nLocal: Lago do Abismo\nObjetivo: Caçar 30 Ferus Verdes e 30 Ferus Escarlates\nRecompensa: EXP base 500000, EXP classe 500000, 2 Moedas do Éden",
-        "es": "[Solicitud completada]\nUbicación: Lago del abismo\nObjetivo: Derrota a 30 Ferus rojos y 30 Ferus verdes\nPremio: 500000 de EXP, 500000 de EXP de clase, 2 monedas del Grupo de Edén"
+        "es": "[Solicitud completada]\nUbicación: Lago del abismo\nObjetivo: Derrota a 30 Ferus rojos y 30 Ferus verdes\nPremio: 500000 de EXP, 500000 de EXP de clase, 2 monedas del Grupo del Edén"
     },
     "2icrCg": {
         "en": "[Dragon in the Lake]\nRequest from Nahadan in front of Hugel Stall\nLocation: Abyss Lake\nTarget: Defeat 30 Red Ferus and 30 Green Ferus\nReward: Exp 500000, Jexp 500000, 2 Eden Group Coin",
         "pt": "[Dragões do Lago]\nSolicitação de Nahadan, em Hugel\nLocal: Lago do Abismo\nObjetivo: Caçar 30 Ferus Verdes e 30 Ferus Escarlates\nRecompensa: EXP base 500000, EXP classe 500000, 2 Moedas do Éden",
-        "es": "[Dragón en el lago]\nSolicitud de Nahadan frente al puesto de Hugel\nUbicación: Lago del abismo\nObjetivo: Derrota a 30 Ferus rojos y 30 Ferus verdes\nPremio: 500000 de EXP, 500000 de EXP de clase, 2 monedas del Grupo de Edén"
+        "es": "[Dragón en el lago]\nSolicitud de Nahadan frente al puesto de Hugel\nUbicación: Lago del abismo\nObjetivo: Derrota a 30 Ferus rojos y 30 Ferus verdes\nPremio: 500000 de EXP, 500000 de EXP de clase, 2 monedas del Grupo del Edén"
     },
     "2ycrCg": {
         "en": "Request from Nahadan in front of Hugel Stall\n^4D4DFF[Dragon in the Lake]^000000 Quest accepted.",
@@ -2062,12 +2062,12 @@
     "3CcrCg": {
         "en": "[Request Completed]\nLocation: Abyss Lake\nTarget: Defeat 30 Blue Acidus and 30 Yellow Acidus\nReward: Exp 500000, Jexp 500000, 2 Eden Group Coin",
         "pt": "[Missão completa]\nLocal: Lago do Abismo\nObjetivo: Caçar 30 Acidus Azuis e 30 Acidus Dourados\nRecompensa: EXP base 500000, EXP classe 500000, 2 Moedas do Éden",
-        "es": "[Solicitud completada]\nUbicación: Lago del abismo\nObjetivo: Derrota a 30 Ácidus azules y 30 Ácidus amarillos\nPremio: 500000 de EXP, 500000 de EXP de clase, 2 monedas del Grupo de Edén"
+        "es": "[Solicitud completada]\nUbicación: Lago del abismo\nObjetivo: Derrota a 30 Ácidus azules y 30 Ácidus amarillos\nPremio: 500000 de EXP, 500000 de EXP de clase, 2 monedas del Grupo del Edén"
     },
     "3ScrCg": {
         "en": "[Drake of the Lake]\nRequest from Nahadan in front of Hugel Stall\nLocation: Abyss Lake\nTarget: Defeat 30 Blue Acidus and 30 Yellow Acidus\nReward: Exp 500000, Jexp 500000, 2 Eden Group Coin",
         "pt": "[Dragões do Subsolo]\nSolicitação de Nahadan, em Hugel\nLocal: Lago do Abismo\nObjetivo: Caçar 30 Acidus Azuis e 30 Acidus Dourados\nRecompensa: EXP base 500000, EXP classe 500000, 2 Moedas do Éden",
-        "es": "[Drake del lago]\nSolicitud de Nahadan frente al puesto de Hugel\nUbicación: Lago del abismo\nObjetivo: Derrota a 30 Ácidus azules y 30 Ácidus amarillos\nPremio: 500000 de EXP, 500000 de EXP de clase, 2 monedas del Grupo de Edén"
+        "es": "[Drake del lago]\nSolicitud de Nahadan frente al puesto de Hugel\nUbicación: Lago del abismo\nObjetivo: Derrota a 30 Ácidus azules y 30 Ácidus amarillos\nPremio: 500000 de EXP, 500000 de EXP de clase, 2 monedas del Grupo del Edén"
     },
     "3icrCg": {
         "en": "Request from Nahadan in front of Hugel Stall\n^4D4DFF[Drake of the Lake]^000000 Quest accepted.",
@@ -2077,12 +2077,12 @@
     "3ycrCg": {
         "en": "[Request Completed]\nLocation: Abyss Lake\nTarget: Defeat 1 Hydrolancer\nReward: Exp 500000, Jexp 500000, 1 Eden Group Coin",
         "pt": "[Missão completa]\nLocal: Lago do Abismo\nObjetivo: Caçar 1 Hydrolancer\nRecompensa: EXP base 500000, EXP classe 500000, 1 Moeda do Éden",
-        "es": "[Solicitud completada]\nUbicación: Lago del abismo\nObjetivo: Derrota a 1 Hydrolancer\nPremio: 500000 de EXP, 500000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Solicitud completada]\nUbicación: Lago del abismo\nObjetivo: Derrota a 1 Hydrolancer\nPremio: 500000 de EXP, 500000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "4CcrCg": {
         "en": "[Three-Headed Dragon of the Lake]\nRequest from Nahadan in front of Hugel Stall\nLocation: Abyss Lake\nTarget: Defeat 1 Hydrolancer\nReward: Exp 500000, Jexp 500000, 1 Eden Group Coin",
         "pt": "[Dragão do Tesouro]\nSolicitação de Nahadan, em Hugel\nLocal: Lago do Abismo\nObjetivo: Caçar 1 Hydrolancer\nRecompensa: EXP base 500000, EXP classe 500000, 1 Moeda do Éden",
-        "es": "[Dragón de tres cabezas del lago]\nSolicitud de Nahadan frente al puesto de Hugel\nUbicación: Lago del abismo\nObjetivo: Derrota a 1 Hydrolancer\nPremio: 500000 de EXP, 500000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Dragón de tres cabezas del lago]\nSolicitud de Nahadan frente al puesto de Hugel\nUbicación: Lago del abismo\nObjetivo: Derrota a 1 Hydrolancer\nPremio: 500000 de EXP, 500000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "4ScrCg": {
         "en": "Request from Nahadan in front of Hugel Stall\n^4D4DFF[Three-Headed Dragon of the Lake]^000000 Quest accepted.",
@@ -2092,12 +2092,12 @@
     "4icrCg": {
         "en": "[Request Completed]\nLocation: Thanatos Tower\nTarget: Defeat 30 Baroness of Retribution\nReward: Exp 600000, Jexp 600000, 1 Eden Group Coin",
         "pt": "[Missão completa]\nLocal: Torre de Thanatos\nObjetivo: Caçar 30 Retribuição\nRecompensa: EXP base 600000, EXP classe 600000, 1 Moeda do Éden",
-        "es": "[Solicitud completada]\nUbicación: Torre de Thanatos\nObjetivo: Derrota a 30 Baronesas de la retribución\nPremio: 600000 de EXP, 600000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Solicitud completada]\nUbicación: Torre de Thanatos\nObjetivo: Derrota a 30 Baronesas de la retribución\nPremio: 600000 de EXP, 600000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "4ycrCg": {
         "en": "[Surveillance and Punishment]\nThanatos Tower 1st floor interior Tart's request\nLocation: Thanatos Tower\nTarget: Defeat 30 Baroness of Retribution\nReward: Exp 600000, Jexp 600000, 1 Eden Group Coin",
         "pt": "[Punição Angelical]\nSolicitação de uma Aventureira\nLocal: Torre de Thanatos\nObjetivo: Caçar 30 Retribuição\nRecompensa: EXP base 600000, EXP classe 600000, 1 Moeda do Éden",
-        "es": "[Vigilancia y castigo]\nInterior del piso 1 de la torre de Thanatos, solicitud de Tart\nUbicación: Torre de Thanatos\nObjetivo: Derrota a 30 Baronesas de la retribución\nPremio: 600000 de EXP, 600000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Vigilancia y castigo]\nInterior del piso 1 de la torre de Thanatos, solicitud de Tart\nUbicación: Torre de Thanatos\nObjetivo: Derrota a 30 Baronesas de la retribución\nPremio: 600000 de EXP, 600000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "5CcrCg": {
         "en": "Thanatos Tower 1st floor interior Tart's request\n^4D4DFF[Surveillance and Punishment]^000000 Quest accepted.",
@@ -2107,12 +2107,12 @@
     "5ScrCg": {
         "en": "[Request Completed]\nLocation: Thanatos Tower\nTarget: Defeat 30 Lady Solace\nReward: Exp 600000, Jexp 600000, 1 Eden Group Coin",
         "pt": "[Missão completa]\nLocal: Torre de Thanatos\nObjetivo: Caçar 30 Conforto\nRecompensa: EXP base 600000, EXP classe 600000, 1 Moeda do Éden",
-        "es": "[Solicitud completada]\nUbicación: Torre de Thanatos\nObjetivo: Derrota a 30 Damas del consuelo\nPremio: 600000 de EXP, 600000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Solicitud completada]\nUbicación: Torre de Thanatos\nObjetivo: Derrota a 30 Damas del consuelo\nPremio: 600000 de EXP, 600000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "5icrCg": {
         "en": "[Sweet Poison]\nThanatos Tower 1st floor interior Tart's request\nLocation: Thanatos Tower\nTarget: Defeat 30 Lady Solace\nReward: Exp 600000, Jexp 600000, 1 Eden Group Coin",
         "pt": "[Som Angelical]\nSolicitação de uma Aventureira\nLocal: Torre de Thanatos\nObjetivo: Caçar 30 Conforto\nRecompensa: EXP base 600000, EXP classe 600000, 1 Moeda do Éden",
-        "es": "[Dulce veneno]\nInterior del piso 1 de la torre de Thanatos, solicitud de Tart\nUbicación: Torre de Thanatos\nObjetivo: Derrota a 30 Damas del consuelo\nPremio: 600000 de EXP, 600000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Dulce veneno]\nInterior del piso 1 de la torre de Thanatos, solicitud de Tart\nUbicación: Torre de Thanatos\nObjetivo: Derrota a 30 Damas del consuelo\nPremio: 600000 de EXP, 600000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "5ycrCg": {
         "en": "Thanatos Tower 1st floor interior Tart's request\n^4D4DFF[Sweet Poison]^000000 Quest accepted.",
@@ -2122,12 +2122,12 @@
     "6CcrCg": {
         "en": "[Request Completed]\nLocation: Thanatos Tower\nTarget: Defeat 30 Mistress of Shelter\nReward: Exp 600000, Jexp 600000, 1 Eden Group Coin",
         "pt": "[Missão completa]\nLocal: Torre de Thanatos\nObjetivo: Caçar 30 Abrigo\nRecompensa: EXP base 600000, EXP classe 600000, 1 Moeda do Éden",
-        "es": "[Solicitud completada]\nUbicación: Torre de Thanatos\nObjetivo: Derrota a 30 Señoras de la protección\nPremio: 600000 de EXP, 600000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Solicitud completada]\nUbicación: Torre de Thanatos\nObjetivo: Derrota a 30 Señoras de la protección\nPremio: 600000 de EXP, 600000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "6ScrCg": {
         "en": "[Rest in Death]\nThanatos Tower 1st floor interior Tart's request\nLocation: Thanatos Tower\nTarget: Defeat 30 Mistress of Shelter\nReward: Exp 600000, Jexp 600000, 1 Eden Group Coin",
         "pt": "[Descanso Angelical]\nSolicitação de uma Aventureira\nLocal: Torre de Thanatos\nObjetivo: Caçar 30 Abrigo\nRecompensa: EXP base 600000, EXP classe 600000, 1 Moeda do Éden",
-        "es": "[Descanso en la muerte]\nInterior del piso 1 de la torre de Thanatos, solicitud de Tart\nUbicación: Torre de Thanatos\nObjetivo: Derrota a 30 Señoras de la protección\nPremio: 600000 de EXP, 600000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Descanso en la muerte]\nInterior del piso 1 de la torre de Thanatos, solicitud de Tart\nUbicación: Torre de Thanatos\nObjetivo: Derrota a 30 Señoras de la protección\nPremio: 600000 de EXP, 600000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "6icrCg": {
         "en": "Thanatos Tower 1st floor interior Tart's request\n^4D4DFF[Rest in Death]^000000 Quest accepted.",
@@ -2137,12 +2137,12 @@
     "6ycrCg": {
         "en": "[Request Completed]\nLocation: Thanatos Tower\nTarget: Defeat 30 Dame of Sentinel\nReward: Exp 600000, Jexp 600000, 1 Eden Group Coin",
         "pt": "[Missão completa]\nLocal: Torre de Thanatos\nObjetivo: Caçar 30 Observação\nRecompensa: EXP base 600000, EXP classe 600000, 1 Moeda do Éden",
-        "es": "[Solicitud completada]\nUbicación: Torre de Thanatos\nObjetivo: Derrota a 30 Damas centinelas\nPremio: 600000 de EXP, 600000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Solicitud completada]\nUbicación: Torre de Thanatos\nObjetivo: Derrota a 30 Damas centinelas\nPremio: 600000 de EXP, 600000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "7CcrCg": {
         "en": "[Seeds of Control]\nThanatos Tower 1st floor interior Tart's request\nLocation: Thanatos Tower\nTarget: Defeat 30 Dame of Sentinel\nReward: Exp 600000, Jexp 600000, 1 Eden Group Coin",
         "pt": "[Vigia Angelical]\nSolicitação de uma Aventureira\nLocal: Torre de Thanatos\nObjetivo: Caçar 30 Observação\nRecompensa: EXP base 600000, EXP classe 600000, 1 Moeda do Éden",
-        "es": "[Semillas de control]\nInterior del piso 1 de la torre de Thanatos, solicitud de Tart\nUbicación: Torre de Thanatos\nObjetivo: Derrota a 30 Damas centinelas\nPremio: 600000 de EXP, 600000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Semillas de control]\nInterior del piso 1 de la torre de Thanatos, solicitud de Tart\nUbicación: Torre de Thanatos\nObjetivo: Derrota a 30 Damas centinelas\nPremio: 600000 de EXP, 600000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "7ScrCg": {
         "en": "Thanatos Tower 1st floor interior Tart's request\n^4D4DFF[Seeds of Control]^000000 Quest accepted.",
@@ -2152,12 +2152,12 @@
     "7icrCg": {
         "en": "[Request Completed]\nLocation: Outskirts of Kamidal Mountain\nTarget: Defeat 20 Centipede\nReward: Exp 600000, Jexp 600000, 1 Eden Group Coin",
         "pt": "[Missão completa]\nLocal: Arredores de Manuka\nObjetivo: Caçar 20 Centopeias\nRecompensa: EXP base 600000, EXP classe 600000, 1 Moeda do Éden",
-        "es": "[Solicitud completada]\nUbicación: Alrededores de la montaña Kamidal\nObjetivo: Derrota a 20 Escolopendras\nPremio: 600000 de EXP, 600000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Solicitud completada]\nUbicación: Alrededores de la montaña Kamidal\nObjetivo: Derrota a 20 Escolopendras\nPremio: 600000 de EXP, 600000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "7ycrCg": {
         "en": "[Poisonous Bug]\nMidgard Allied Forces Post Area Theodore's Request\nLocation: Outskirts of Kamidal Mountain\nTarget: Defeat 20 Centipede\nReward: Exp 600000, Jexp 600000, 1 Eden Group Coin",
         "pt": "[Alerta Venenoso]\nSolicitação do jovem Téo\nLocal: Arredores de Manuka\nObjetivo: Caçar 20 Centopeias\nRecompensa: EXP base 600000, EXP classe 600000, 1 Moeda do Éden",
-        "es": "[Insecto venenoso]\nZona del puesto de las Fuerzas Aliadas de Midgard, solicitud de Theodore\nUbicación: Alrededores de la montaña Kamidal\nObjetivo: Derrota a 20 Escolopendras\nPremio: 600000 de EXP, 600000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Insecto venenoso]\nZona del puesto de las Fuerzas Aliadas de Midgard, solicitud de Theodore\nUbicación: Alrededores de la montaña Kamidal\nObjetivo: Derrota a 20 Escolopendras\nPremio: 600000 de EXP, 600000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "8CcrCg": {
         "en": "Midgard Allied Forces Post Area Theodore's Request\n^4D4DFF[Poisonous Bug]^000000 Quest accepted.",
@@ -2167,12 +2167,12 @@
     "8ScrCg": {
         "en": "[Request Completed]\nLocation: Outskirts of Kamidal Mountain\nTarget: Defeat 20 Tatacho\nReward: Exp 600000, Jexp 600000, 1 Eden Group Coin",
         "pt": "[Missão completa]\nLocal: Arredores de Manuka\nObjetivo: Caçar 20 Tatachos\nRecompensa: EXP base 600000, EXP classe 600000, 1 Moeda do Éden",
-        "es": "[Solicitud completada]\nUbicación: Alrededores de la montaña Kamidal\nObjetivo: Derrota a 20 Tatacho\nPremio: 600000 de EXP, 600000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Solicitud completada]\nUbicación: Alrededores de la montaña Kamidal\nObjetivo: Derrota a 20 Tatacho\nPremio: 600000 de EXP, 600000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "8icrCg": {
         "en": "[Incompetent lazy person]\nMidgard Allied Forces Post Area Theodore's Request\nLocation: Outskirts of Kamidal Mountain\nTarget: Defeat 20 Tatacho\nReward: Exp 600000, Jexp 600000, 1 Eden Group Coin",
         "pt": "[Animal Pateta]\nSolicitação do jovem Téo\nLocal: Arredores de Manuka\nObjetivo: Caçar 20 Tatachos\nRecompensa: EXP base 600000, EXP classe 600000, 1 Moeda do Éden",
-        "es": "[Incompetente y negligente]\nZona del puesto de las Fuerzas Aliadas de Midgard, solicitud de Theodore\nUbicación: Alrededores de la montaña Kamidal\nObjetivo: Derrota a 20 Tatacho\nPremio: 600000 de EXP, 600000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Incompetente y negligente]\nZona del puesto de las Fuerzas Aliadas de Midgard, solicitud de Theodore\nUbicación: Alrededores de la montaña Kamidal\nObjetivo: Derrota a 20 Tatacho\nPremio: 600000 de EXP, 600000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "8ycrCg": {
         "en": "Midgard Allied Forces Post Area Theodore's Request\n^4D4DFF[Incompetent lazy person]^000000 Quest accepted.",
@@ -2182,12 +2182,12 @@
     "9CcrCg": {
         "en": "[Request Completed]\nLocation: Outskirts of Kamidal Mountain\nTarget: Defeat 30 Dolomedes\nReward: Exp 800000, Jexp 800000, 1 Eden Group Coin",
         "pt": "[Missão completa]\nLocal: Arredores de Manuka\nObjetivo: Caçar 30 Dolomedes\nRecompensa: EXP base 800000, EXP classe 800000, 1 Moeda do Éden",
-        "es": "[Solicitud completada]\nUbicación: Alrededores de la montaña Kamidal\nObjetivo: Derrota a 30 Dolomedes\nPremio: 800000 de EXP, 800000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Solicitud completada]\nUbicación: Alrededores de la montaña Kamidal\nObjetivo: Derrota a 30 Dolomedes\nPremio: 800000 de EXP, 800000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "9ScrCg": {
         "en": "[Appearance can be deceiving]\nMidgard Allied Forces Post Area Theodore's Request\nLocation: Outskirts of Kamidal Mountain\nTarget: Defeat 30 Dolomedes\nReward: Exp 800000, Jexp 800000, 1 Eden Group Coin",
         "pt": "[Parece uma Joia]\nSolicitação do jovem Téo\nLocal: Arredores de Manuka\nObjetivo: Caçar 30 Dolomedes\nRecompensa: EXP base 800000, EXP classe 800000, 1 Moeda do Éden",
-        "es": "[Las apariencias engañan]\nZona del puesto de las Fuerzas Aliadas de Midgard, solicitud de Theodore\nUbicación: Alrededores de la montaña Kamidal\nObjetivo: Derrota a 30 Dolomedes\nPremio: 800000 de EXP, 800000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Las apariencias engañan]\nZona del puesto de las Fuerzas Aliadas de Midgard, solicitud de Theodore\nUbicación: Alrededores de la montaña Kamidal\nObjetivo: Derrota a 30 Dolomedes\nPremio: 800000 de EXP, 800000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "9icrCg": {
         "en": "Midgard Allied Forces Post Area Theodore's Request\n^4D4DFF[Appearance can be deceiving]^000000 Quest accepted.",
@@ -2197,12 +2197,12 @@
     "9ycrCg": {
         "en": "[Request Completed]\nLocation: Scaraba Hole\nTarget: Defeat 30 Uni-horn Scaraba\nReward: Exp 800000, Jexp 800000, 1 Eden Group Coin",
         "pt": "[Missão completa]\nLocal: Túnel Kamidal\nObjetivo: Caçar 30 Scarabas Chifre\nRecompensa: EXP base 800000, EXP classe 800000, 1 Moeda do Éden",
-        "es": "[Solicitud completada]\nUbicación: Agujero de Scaraba\nObjetivo: Derrota a 30 Scaraba de un cuerno\nPremio: 800000 de EXP, 800000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Solicitud completada]\nUbicación: Agujero de Scaraba\nObjetivo: Derrota a 30 Scaraba de un cuerno\nPremio: 800000 de EXP, 800000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "+CcrCg": {
         "en": "[Snap one's horn]\nMidgard Allied Forces Post Area Theodore's Request\nLocation: Scaraba Hole\nTarget: Defeat 30 Uni-horn Scaraba\nReward: Exp 800000, Jexp 800000, 1 Eden Group Coin",
         "pt": "[Um Único Chifre]\nSolicitação do jovem Téo\nLocal: Túnel Kamidal\nObjetivo: Caçar 30 Scarabas Chifre\nRecompensa: EXP base 800000, EXP classe 800000, 1 Moeda do Éden",
-        "es": "[Romper tu propio cuerno]\nZona del puesto de las Fuerzas Aliadas de Midgard, solicitud de Theodore\nUbicación: Agujero de Scaraba\nObjetivo: Derrota a 30 Scaraba de un cuerno\nPremio: 800000 de EXP, 800000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Romper tu propio cuerno]\nZona del puesto de las Fuerzas Aliadas de Midgard, solicitud de Theodore\nUbicación: Agujero de Scaraba\nObjetivo: Derrota a 30 Scaraba de un cuerno\nPremio: 800000 de EXP, 800000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "+ScrCg": {
         "en": "Midgard Allied Forces Post Area Theodore's Request\n^4D4DFF[Snap one's horn]^000000 Quest accepted.",
@@ -2212,12 +2212,12 @@
     "+icrCg": {
         "en": "[Request Completed]\nLocation: Scaraba Hole\nTarget: Defeat 30 Horn Scaraba\nReward: Exp 800000, Jexp 800000, 1 Eden Group Coin",
         "pt": "[Missão completa]\nLocal: Túnel Kamidal\nObjetivo: Caçar 30 Chifres Duplos\nRecompensa: EXP base 800000, EXP classe 800000, 1 Moeda do Éden",
-        "es": "[Solicitud completada]\nUbicación: Agujero de Scaraba\nObjetivo: Derrota a 30 Scaraba de 1 o 2 cuernos\nPremio: 800000 de EXP, 800000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Solicitud completada]\nUbicación: Agujero de Scaraba\nObjetivo: Derrota a 30 Scaraba de 1 o 2 cuernos\nPremio: 800000 de EXP, 800000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "+ycrCg": {
         "en": "[Twin Horns]\nMidgard Allied Forces Post Area Theodore's Request\nLocation: Scaraba Hole\nTarget: Defeat 30 Horn Scaraba\nReward: Exp 800000, Jexp 800000, 1 Eden Group Coin",
         "pt": "[São Dois Chifres]\nSolicitação do jovem Téo\nLocal: Túnel Kamidal\nObjetivo: Caçar 30 Chifres Duplos\nRecompensa: EXP base 800000, EXP classe 800000, 1 Moeda do Éden",
-        "es": "[Cuernos gemelos]\nZona del puesto de las Fuerzas Aliadas de Midgard, solicitud de Theodore\nUbicación: Agujero de Scaraba\nObjetivo: Derrota a 30 Scaraba de 1 o 2 cuernos\nPremio: 800000 de EXP, 800000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Cuernos gemelos]\nZona del puesto de las Fuerzas Aliadas de Midgard, solicitud de Theodore\nUbicación: Agujero de Scaraba\nObjetivo: Derrota a 30 Scaraba de 1 o 2 cuernos\nPremio: 800000 de EXP, 800000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "/CcrCg": {
         "en": "Midgard Allied Forces Post Area Theodore's Request\n^4D4DFF[Twin Horns]^000000 Quest accepted.",
@@ -2227,12 +2227,12 @@
     "/ScrCg": {
         "en": "[Request Completed]\nLocation: Scaraba Hole\nTarget: Defeat 30 Antler Scaraba\nReward: Exp 800000, Jexp 800000, 1 Eden Group Coin",
         "pt": "[Missão completa]\nLocal: Túnel Kamidal\nObjetivo: Caçar 30 Scarabas Galhados\nRecompensa: EXP base 800000, EXP classe 800000, 1 Moeda do Éden",
-        "es": "[Solicitud completada]\nUbicación: Agujero de Scaraba\nObjetivo: Derrota a 30 Scaraba de astas\nPremio: 800000 de EXP, 800000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Solicitud completada]\nUbicación: Agujero de Scaraba\nObjetivo: Derrota a 30 Scaraba de astas\nPremio: 800000 de EXP, 800000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "/icrCg": {
         "en": "[Steer the deer's antlers]\nMidgard Allied Forces Post Area Theodore's Request\nLocation: Scaraba Hole\nTarget: Defeat 30 Antler Scaraba\nReward: Exp 800000, Jexp 800000, 1 Eden Group Coin",
         "pt": "[Chifres de Galho]\nSolicitação do jovem Téo\nLocal: Túnel Kamidal\nObjetivo: Caçar 30 Scarabas Galhados\nRecompensa: EXP base 800000, EXP classe 800000, 1 Moeda do Éden",
-        "es": "[Guiar las astas del ciervo]\nZona del puesto de las Fuerzas Aliadas de Midgard, solicitud de Theodore\nUbicación: Agujero de Scaraba\nObjetivo: Derrota a 30 Scaraba de astas\nPremio: 800000 de EXP, 800000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Guiar las astas del ciervo]\nZona del puesto de las Fuerzas Aliadas de Midgard, solicitud de Theodore\nUbicación: Agujero de Scaraba\nObjetivo: Derrota a 30 Scaraba de astas\nPremio: 800000 de EXP, 800000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "/ycrCg": {
         "en": "Midgard Allied Forces Post Area Theodore's Request\n^4D4DFF[Steer the deer's antlers]^000000 Quest accepted.",
@@ -2242,12 +2242,12 @@
     "ACgrCg": {
         "en": "[Request Completed]\nLocation: Scaraba Hole\nTarget: Defeat 30 Rake Scaraba\nReward: Exp 800000, Jexp 800000, 1 Eden Group Coin",
         "pt": "[Missão completa]\nLocal: Túnel Kamidal\nObjetivo: Caçar 30 Scarabas Ancinhos\nRecompensa: EXP base 800000, EXP classe 800000, 1 Moeda do Éden",
-        "es": "[Solicitud completada]\nUbicación: Agujero de Scaraba\nObjetivo: Derrota a 30 Scaraba de rastrillo\nPremio: 800000 de EXP, 800000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Solicitud completada]\nUbicación: Agujero de Scaraba\nObjetivo: Derrota a 30 Scaraba de rastrillo\nPremio: 800000 de EXP, 800000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "ASgrCg": {
         "en": "[Crunching the claws]\nMidgard Allied Forces Post Area Theodore's Request\nLocation: Scaraba Hole\nTarget: Defeat 30 Rake Scaraba\nReward: Exp 800000, Jexp 800000, 1 Eden Group Coin",
         "pt": "[Chifres de Pinça]\nSolicitação do jovem Téo\nLocal: Túnel Kamidal\nObjetivo: Caçar 30 Scarabas Ancinhos\nRecompensa: EXP base 800000, EXP classe 800000, 1 Moeda do Éden",
-        "es": "[Crujir de garras]\nZona del puesto de las Fuerzas Aliadas de Midgard, solicitud de Theodore\nUbicación: Agujero de Scaraba\nObjetivo: Derrota a 30 Scaraba de rastrillo\nPremio: 800000 de EXP, 800000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Crujir de garras]\nZona del puesto de las Fuerzas Aliadas de Midgard, solicitud de Theodore\nUbicación: Agujero de Scaraba\nObjetivo: Derrota a 30 Scaraba de rastrillo\nPremio: 800000 de EXP, 800000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "AigrCg": {
         "en": "Midgard Allied Forces Post Area Theodore's Request\n^4D4DFF[Crunching the claws]^000000 Quest accepted.",
@@ -2257,12 +2257,12 @@
     "AygrCg": {
         "en": "[Request Completed]\nLocation: Flame Basin\nTarget: Defeat 15 Fire Condor and 15 Fire Frilldora\nReward: Exp 1000000, Jexp 1000000, 1 Eden Group Coin",
         "pt": "[Missão completa]\nLocal: Círculo de Fogo\nObjetivo: Caçar 15 Condores de Fogo e 15 Frilldoras de Fogo\nRecompensa: EXP base 1000000, EXP classe 1000000, 1 Moeda do Éden",
-        "es": "[Solicitud completada]\nUbicación: Cuenca de las llamas\nObjetivo: Derrota a 15 Cóndores de fuego y 15 Frilldora de fuego\nPremio: 1000000 de EXP, 1000000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Solicitud completada]\nUbicación: Cuenca de las llamas\nObjetivo: Derrota a 15 Cóndores de fuego y 15 Frilldora de fuego\nPremio: 1000000 de EXP, 1000000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "BCgrCg": {
         "en": "[Morroc's Harassment]\nMidgard Allied Forces Post Area Theodore's Request\nLocation: Flame Basin\nTarget: Defeat 15 Fire Condor and 15 Fire Frilldora\nReward: Exp 1000000, Jexp 1000000, 1 Eden Group Coin",
         "pt": "[Animais de Fogo]\nSolicitação do jovem Téo\nLocal: Círculo de Fogo\nObjetivo: Caçar 15 Condores de Fogo e 15 Frilldoras de Fogo\nRecompensa: EXP base 1000000, EXP classe 1000000, 1 Moeda do Éden",
-        "es": "[El acoso de Morroc]\nZona del puesto de las Fuerzas Aliadas de Midgard, solicitud de Theodore\nUbicación: Cuenca de las llamas\nObjetivo: Derrota a 15 Cóndores de fuego y 15 Frilldora de fuego\nPremio: 1000000 de EXP, 1000000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[El acoso de Morroc]\nZona del puesto de las Fuerzas Aliadas de Midgard, solicitud de Theodore\nUbicación: Cuenca de las llamas\nObjetivo: Derrota a 15 Cóndores de fuego y 15 Frilldora de fuego\nPremio: 1000000 de EXP, 1000000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "BSgrCg": {
         "en": "Midgard Allied Forces Post Area Theodore's Request\n^4D4DFF[Morroc's Harassment]^000000 Quest accepted.",
@@ -2272,12 +2272,12 @@
     "BigrCg": {
         "en": "[Request Completed]\nLocation: Flame Basin\nTarget: Defeat 15 Fire Golem and 15 Fire Sandman\nReward: Exp 1000000, Jexp 1000000, 1 Eden Group Coin",
         "pt": "[Missão completa]\nLocal: Círculo de Fogo\nObjetivo: Caçar 15 Arenosos de Fogo e 15 Golens de Fogo\nRecompensa: EXP base 1000000, EXP classe 1000000, 1 Moeda do Éden",
-        "es": "[Solicitud completada]\nUbicación: Cuenca de las llamas\nObjetivo: Derrota a 15 Gólem de llama y 15 Hombres de arena quemada\nPremio: 1000000 de EXP, 1000000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Solicitud completada]\nUbicación: Cuenca de las llamas\nObjetivo: Derrota a 15 Gólem de llama y 15 Hombres de arena quemada\nPremio: 1000000 de EXP, 1000000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "BygrCg": {
         "en": "[Morroc's Trick]\nMidgard Allied Forces Post Area Theodore's Request\nLocation: Flame Basin\nTarget: Defeat 15 Fire Golem and 15 Fire Sandman\nReward: Exp 1000000, Jexp 1000000, 1 Eden Group Coin",
         "pt": "[Criaturas de Fogo]\nSolicitação do jovem Téo\nLocal: Círculo de Fogo\nObjetivo: Caçar 15 Arenosos de Fogo e 15 Golens de Fogo\nRecompensa: EXP base 1000000, EXP classe 1000000, 1 Moeda do Éden",
-        "es": "[El truco de Morroc]\nZona del puesto de las Fuerzas Aliadas de Midgard, solicitud de Theodore\nUbicación: Cuenca de las llamas\nObjetivo: Derrota a 15 Gólem de llama y 15 Hombres de arena quemada\nPremio: 1000000 de EXP, 1000000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[El truco de Morroc]\nZona del puesto de las Fuerzas Aliadas de Midgard, solicitud de Theodore\nUbicación: Cuenca de las llamas\nObjetivo: Derrota a 15 Gólem de llama y 15 Hombres de arena quemada\nPremio: 1000000 de EXP, 1000000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "CCgrCg": {
         "en": "Midgard Allied Forces Post Area Theodore's Request\n^4D4DFF[Morroc's Trick]^000000 Quest accepted.",
@@ -2287,12 +2287,12 @@
     "CSgrCg": {
         "en": "[Request Completed]\nLocation: Nameless Island Monastery\nTarget: Defeat 30 Ragged Zombie and 30 Zombie Slaughter\nReward: Exp 1000000, Jexp 600000, 2 Eden Group Coin",
         "pt": "[Missão completa]\nLocal: Monastério da Ilha Esquecida\nObjetivo: Caçar 30 Massacres e 30 Zumbis Dilacerados\nRecompensa: EXP base 1000000, EXP classe 600000, 2 Moedas do Éden",
-        "es": "[Solicitud completada]\nUbicación: Monasterio de la Isla Anónima\nObjetivo: Derrota a 30 Zombis harapientos y 30 Zombis asesinos\nPremio: 1000000 de EXP, 600000 de EXP de clase, 2 monedas del Grupo de Edén"
+        "es": "[Solicitud completada]\nUbicación: Monasterio de la Isla Anónima\nObjetivo: Derrota a 30 Zombis harapientos y 30 Zombis asesinos\nPremio: 1000000 de EXP, 600000 de EXP de clase, 2 monedas del Grupo del Edén"
     },
     "CigrCg": {
         "en": "[Nameless Island Purification]\nRequest from Nameless Island ferry Rottert\nLocation: Nameless Island Monastery\nTarget: Defeat 30 Ragged Zombie and 30 Zombie Slaughter\nReward: Exp 1000000, Jexp 600000, 2 Eden Group Coin",
         "pt": "[Irmãos Zumbis]\nSolicitação de Rotert\nLocal: Monastério da Ilha Esquecida\nObjetivo: Caçar 30 Massacres e 30 Zumbis Dilacerados\nRecompensa: EXP base 1000000, EXP classe 600000, 2 Moedas do Éden",
-        "es": "[Purificación de la Isla Anónima]\nSolicitud de Rottert, del ferri de Isla Anónima\nUbicación: Monasterio de la Isla Anónima\nObjetivo: Derrota a 30 Zombis harapientos y 30 Zombis asesinos\nPremio: 1000000 de EXP, 600000 de EXP de clase, 2 monedas del Grupo de Edén"
+        "es": "[Purificación de la Isla Anónima]\nSolicitud de Rottert, del ferri de Isla Anónima\nUbicación: Monasterio de la Isla Anónima\nObjetivo: Derrota a 30 Zombis harapientos y 30 Zombis asesinos\nPremio: 1000000 de EXP, 600000 de EXP de clase, 2 monedas del Grupo del Edén"
     },
     "CygrCg": {
         "en": "Request from Nameless Island ferry Rottert\n^4D4DFF[Nameless Island Purification]^000000 Quest accepted.",
@@ -2302,12 +2302,12 @@
     "DCgrCg": {
         "en": "[Request Completed]\nLocation: Nameless Island Monastery\nTarget: Defeat 30 Banshee\nReward: Exp 500000, Jexp 300000, 1 Eden Group Coin",
         "pt": "[Missão completa]\nLocal: Monastério da Ilha Esquecida\nObjetivo: Caçar 30 Banshees\nRecompensa: EXP base 500000, EXP classe 300000, 1 Moeda do Éden",
-        "es": "[Solicitud completada]\nUbicación: Monasterio de la Isla Anónima\nObjetivo: Derrota a 30 Banshee\nPremio: 500000 de EXP, 300000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Solicitud completada]\nUbicación: Monasterio de la Isla Anónima\nObjetivo: Derrota a 30 Banshee\nPremio: 500000 de EXP, 300000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "DSgrCg": {
         "en": "[Cry, cry, cry again]\nRequest from Nameless Island ferry Rottert\nLocation: Nameless Island Monastery\nTarget: Defeat 30 Banshee\nReward: Exp 500000, Jexp 300000, 1 Eden Group Coin",
         "pt": "[Gritos e mais Gritos]\nSolicitação de Rotert\nLocal: Monastério da Ilha Esquecida\nObjetivo: Caçar 30 Banshees\nRecompensa: EXP base 500000, EXP classe 300000, 1 Moeda do Éden",
-        "es": "[Llorar, llorar, volver a llorar]\nSolicitud de Rottert, del ferri de Isla Anónima\nUbicación: Monasterio de la Isla Anónima\nObjetivo: Derrota a 30 Banshee\nPremio: 500000 de EXP, 300000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Llorar, llorar, volver a llorar]\nSolicitud de Rottert, del ferri de Isla Anónima\nUbicación: Monasterio de la Isla Anónima\nObjetivo: Derrota a 30 Banshee\nPremio: 500000 de EXP, 300000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "DigrCg": {
         "en": "Request from Nameless Island ferry Rottert\n^4D4DFF[Cry, cry, cry again]^000000 Quest accepted.",
@@ -2317,12 +2317,12 @@
     "DygrCg": {
         "en": "[Request Completed]\nLocation: Nameless Island Monastery\nTarget: Defeat 20 Necromancer\nReward: Exp 600000, Jexp 500000, 1 Eden Group Coin",
         "pt": "[Missão completa]\nLocal: Monastério da Ilha Esquecida\nObjetivo: Caçar 20 Necromantes\nRecompensa: EXP base 600000, EXP classe 500000, 1 Moeda do Éden",
-        "es": "[Solicitud completada]\nUbicación: Monasterio de la Isla Anónima\nObjetivo: Derrota a 20 Nigromantes\nPremio: 600000 de EXP, 500000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Solicitud completada]\nUbicación: Monasterio de la Isla Anónima\nObjetivo: Derrota a 20 Nigromantes\nPremio: 600000 de EXP, 500000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "ECgrCg": {
         "en": "[The master of the dead marionette]\nRequest from Nameless Island ferry Rottert\nLocation: Nameless Island Monastery\nTarget: Defeat 20 Necromancer\nReward: Exp 600000, Jexp 500000, 1 Eden Group Coin",
         "pt": "[Controle dos Mortos]\nSolicitação de Rotert\nLocal: Monastério da Ilha Esquecida\nObjetivo: Caçar 20 Necromantes\nRecompensa: EXP base 600000, EXP classe 500000, 1 Moeda do Éden",
-        "es": "[El maestro de la marioneta muerta]\nSolicitud de Rottert, del ferri de Isla Anónima\nUbicación: Monasterio de la Isla Anónima\nObjetivo: Derrota a 20 Nigromantes\nPremio: 600000 de EXP, 500000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[El maestro de la marioneta muerta]\nSolicitud de Rottert, del ferri de Isla Anónima\nUbicación: Monasterio de la Isla Anónima\nObjetivo: Derrota a 20 Nigromantes\nPremio: 600000 de EXP, 500000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "ESgrCg": {
         "en": "Request from Nameless Island ferry Rottert\n^4D4DFF[The master of the dead marionette]^000000 Quest accepted.",
@@ -2332,12 +2332,12 @@
     "EigrCg": {
         "en": "[Request Completed]\nLocation: Western area of ??the temple sanctuary\nTarget: Defeat 20 Vanberk and 20 Isilla\nReward: Exp 500000, Jexp 500000, 1 Eden Group Coin",
         "pt": "[Missão completa]\nLocal: Santuário de Rachel\nObjetivo: Caçar 20 Isillas e 20 Vanberks\nRecompensa: EXP base 500000, EXP classe 500000, 1 Moeda do Éden",
-        "es": "[Solicitud completada]\nUbicación: Zona oeste del santuario del templo\nObjetivo: Derrota a 20 Vanberk y 20 Isilla\nPremio: 500000 de EXP, 500000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Solicitud completada]\nUbicación: Zona oeste del santuario del templo\nObjetivo: Derrota a 20 Vanberk y 20 Isilla\nPremio: 500000 de EXP, 500000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "EygrCg": {
         "en": "[Sanctuary Cleansing - West]\nRequest from Rachel Priest Thebenio\nLocation: Western area of ??the temple sanctuary\nTarget: Defeat 20 Vanberk and 20 Isilla\nReward: Exp 500000, Jexp 500000, 1 Eden Group Coin",
         "pt": "[Limpe a Ala Oeste]\nSolicitação da Noviça Thelma\nLocal: Santuário de Rachel\nObjetivo: Caçar 20 Isillas e 20 Vanberks\nRecompensa: EXP base 500000, EXP classe 500000, 1 Moeda do Éden",
-        "es": "[Limpieza del santuario: oeste]\nSolicitud de Thebenio, Sacerdote de Rachel\nUbicación: Zona oeste del santuario del templo\nObjetivo: Derrota a 20 Vanberk y 20 Isilla\nPremio: 500000 de EXP, 500000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Limpieza del santuario: oeste]\nSolicitud de Thebenio, Sacerdote de Rachel\nUbicación: Zona oeste del santuario del templo\nObjetivo: Derrota a 20 Vanberk y 20 Isilla\nPremio: 500000 de EXP, 500000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "FCgrCg": {
         "en": "Request from Rachel Priest Thebenio\n^4D4DFF[Sanctuary Cleansing - West]^000000 Quest accepted.",
@@ -2347,12 +2347,12 @@
     "FSgrCg": {
         "en": "[Request Completed]\nLocation: Eastern section of the temple sanctuary\nTarget: Defeat 30 Hodremlin\nReward: Exp 500000, Jexp 500000, 1 Eden Group Coin",
         "pt": "[Missão completa]\nLocal: Santuário de Rachel\nObjetivo: Caçar 30 Hodremlin\nRecompensa: EXP base 500000, EXP classe 500000, 1 Moeda do Éden",
-        "es": "[Solicitud completada]\nUbicación: Sección este del santuario del templo\nObjetivo: Derrota a 30 Hodremlin\nPremio: 500000 de EXP, 500000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Solicitud completada]\nUbicación: Sección este del santuario del templo\nObjetivo: Derrota a 30 Hodremlin\nPremio: 500000 de EXP, 500000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "FigrCg": {
         "en": "[Sanctuary Cleansing - East]\nRequest from Rachel Priest Thebenio\nLocation: Eastern section of the temple sanctuary\nTarget: Defeat 30 Hodremlin\nReward: Exp 500000, Jexp 500000, 1 Eden Group Coin",
         "pt": "[Limpe a Ala Leste]\nSolicitação da Noviça Thelma\nLocal: Santuário de Rachel\nObjetivo: Caçar 30 Hodremlin\nRecompensa: EXP base 500000, EXP classe 500000, 1 Moeda do Éden",
-        "es": "[Limpieza del santuario: este]\nSolicitud de Thebenio, Sacerdote de Rachel\nUbicación: Sección este del santuario del templo\nObjetivo: Derrota a 30 Hodremlin\nPremio: 500000 de EXP, 500000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Limpieza del santuario: este]\nSolicitud de Thebenio, Sacerdote de Rachel\nUbicación: Sección este del santuario del templo\nObjetivo: Derrota a 30 Hodremlin\nPremio: 500000 de EXP, 500000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "FygrCg": {
         "en": "Request from Rachel Priest Thebenio\n^4D4DFF[Sanctuary Cleansing - East]^000000 Quest accepted.",
@@ -2362,12 +2362,12 @@
     "GCgrCg": {
         "en": "[Request Completed]\nLocation: Southern section of the temple sanctuary\nTarget: Defeat 20 Echio and 20 Agav\nReward: Exp 500000, Jexp 500000, 1 Eden Group Coin",
         "pt": "[Missão completa]\nLocal: Santuário de Rachel\nObjetivo: Caçar 20 Agav e 20 Echios\nRecompensa: EXP base 500000, EXP classe 500000, 1 Moeda do Éden",
-        "es": "[Solicitud completada]\nUbicación: Sección sur del santuario del templo\nObjetivo: Derrota a 20 Echio y 20 Agav\nPremio: 500000 de EXP, 500000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Solicitud completada]\nUbicación: Sección sur del santuario del templo\nObjetivo: Derrota a 20 Echio y 20 Agav\nPremio: 500000 de EXP, 500000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "GSgrCg": {
         "en": "[Sanctuary Cleansing - South]\nRequest from Rachel Priest Thebenio\nLocation: Southern section of the temple sanctuary\nTarget: Defeat 20 Echio and 20 Agav\nReward: Exp 500000, Jexp 500000, 1 Eden Group Coin",
         "pt": "[Limpe a Ala Sul]\nSolicitação da Noviça Thelma\nLocal: Santuário de Rachel\nObjetivo: Caçar 20 Agav e 20 Echios\nRecompensa: EXP base 500000, EXP classe 500000, 1 Moeda do Éden",
-        "es": "[Limpieza del santuario: sur]\nSolicitud de Thebenio, Sacerdote de Rachel\nUbicación: Sección sur del santuario del templo\nObjetivo: Derrota a 20 Echio y 20 Agav\nPremio: 500000 de EXP, 500000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Limpieza del santuario: sur]\nSolicitud de Thebenio, Sacerdote de Rachel\nUbicación: Sección sur del santuario del templo\nObjetivo: Derrota a 20 Echio y 20 Agav\nPremio: 500000 de EXP, 500000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "GigrCg": {
         "en": "Request from Rachel Priest Thebenio\n^4D4DFF[Sanctuary Cleansing - South]^000000 Quest accepted.",
@@ -2377,12 +2377,12 @@
     "GygrCg": {
         "en": "[Request Completed]\nLocation: Biolab\nTarget: Defeat 30 Egnigem Cenia\nReward: Exp 850000, Jexp 850000, 1 Eden Group Coin",
         "pt": "[Missão completa]\nLocal: Biolaboratório\nObjetivo: Caçar 30 Egnigem Cenia\nRecompensa: EXP base 850000, EXP classe 850000, 1 Moeda do Éden",
-        "es": "[Solicitud completada]\nUbicación: Biolaboratorio\nObjetivo: Derrota a 30 Egnigem Cenia\nPremio: 850000 de EXP, 850000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Solicitud completada]\nUbicación: Biolaboratorio\nObjetivo: Derrota a 30 Egnigem Cenia\nPremio: 850000 de EXP, 850000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "HCgrCg": {
         "en": "[Egnigem Cenia]\nLighthalzen Slum Anonymous Adventurer's Request\nLocation: Biolab\nTarget: Defeat 30 Egnigem Cenia\nReward: Exp 850000, Jexp 850000, 1 Eden Group Coin",
         "pt": "[Cobaia Espadachim]\nSolicitação de um Anônimo\nLocal: Biolaboratório\nObjetivo: Caçar 30 Egnigem Cenia\nRecompensa: EXP base 850000, EXP classe 850000, 1 Moeda do Éden",
-        "es": "[Egnigem Cenia]\nSolicitud de trotamundos sin nombre de los barrios bajos de Lighthalzen\nUbicación: Biolaboratorio\nObjetivo: Derrota a 30 Egnigem Cenia\nPremio: 850000 de EXP, 850000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Egnigem Cenia]\nSolicitud de trotamundos sin nombre de los barrios bajos de Lighthalzen\nUbicación: Biolaboratorio\nObjetivo: Derrota a 30 Egnigem Cenia\nPremio: 850000 de EXP, 850000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "HSgrCg": {
         "en": "Lighthalzen Slum Anonymous Adventurer's Request\n^4D4DFF[Egnigem Cenia]^000000 Quest accepted.",
@@ -2392,12 +2392,12 @@
     "HigrCg": {
         "en": "[Request Completed]\nLocation: Biolab\nTarget: Defeat 30 Armeyer Dinze\nReward: Exp 850000, Jexp 850000, 1 Eden Group Coin",
         "pt": "[Missão completa]\nLocal: Biolaboratório\nObjetivo: Caçar 30 Armeyer Dinze\nRecompensa: EXP base 850000, EXP classe 850000, 1 Moeda do Éden",
-        "es": "[Solicitud completada]\nUbicación: Biolaboratorio\nObjetivo: Derrota a 30 Armeyer Dinze\nPremio: 850000 de EXP, 850000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Solicitud completada]\nUbicación: Biolaboratorio\nObjetivo: Derrota a 30 Armeyer Dinze\nPremio: 850000 de EXP, 850000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "HygrCg": {
         "en": "[Armeyer Dinze]\nLighthalzen Slum Anonymous Adventurer's Request\nLocation: Biolab\nTarget: Defeat 30 Armeyer Dinze\nReward: Exp 850000, Jexp 850000, 1 Eden Group Coin",
         "pt": "[Cobaia Mercadora]\nSolicitação de um Anônimo\nLocal: Biolaboratório\nObjetivo: Caçar 30 Armeyer Dinze\nRecompensa: EXP base 850000, EXP classe 850000, 1 Moeda do Éden",
-        "es": "[Armeyer Dinze]\nSolicitud de trotamundos sin nombre de los barrios bajos de Lighthalzen\nUbicación: Biolaboratorio\nObjetivo: Derrota a 30 Armeyer Dinze\nPremio: 850000 de EXP, 850000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Armeyer Dinze]\nSolicitud de trotamundos sin nombre de los barrios bajos de Lighthalzen\nUbicación: Biolaboratorio\nObjetivo: Derrota a 30 Armeyer Dinze\nPremio: 850000 de EXP, 850000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "ICgrCg": {
         "en": "Lighthalzen Slum Anonymous Adventurer's Request\n^4D4DFF[Armeyer Dinze]^000000 Quest accepted.",
@@ -2407,12 +2407,12 @@
     "ISgrCg": {
         "en": "[Request Completed]\nLocation: Biolab\nTarget: Defeat 30 Wickebine Tres\nReward: Exp 850000, Jexp 850000, 1 Eden Group Coin",
         "pt": "[Missão completa]\nLocal: Biolaboratório\nObjetivo: Caçar 30 Wickebine Tres\nRecompensa: EXP base 850000, EXP classe 850000, 1 Moeda do Éden",
-        "es": "[Solicitud completada]\nUbicación: Biolaboratorio\nObjetivo: Derrota a 30 Wickebine Tres\nPremio: 850000 de EXP, 850000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Solicitud completada]\nUbicación: Biolaboratorio\nObjetivo: Derrota a 30 Wickebine Tres\nPremio: 850000 de EXP, 850000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "IigrCg": {
         "en": "[Wickebine Tres]\nLighthalzen Slum Anonymous Adventurer's Request\nLocation: Biolab\nTarget: Defeat 30 Wickebine Tres\nReward: Exp 850000, Jexp 850000, 1 Eden Group Coin",
         "pt": "[Cobaia Gatuna]\nSolicitação de um Anônimo\nLocal: Biolaboratório\nObjetivo: Caçar 30 Wickebine Tres\nRecompensa: EXP base 850000, EXP classe 850000, 1 Moeda do Éden",
-        "es": "[Wickebine Tres]\nSolicitud de trotamundos sin nombre de los barrios bajos de Lighthalzen\nUbicación: Biolaboratorio\nObjetivo: Derrota a 30 Wickebine Tres\nPremio: 850000 de EXP, 850000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Wickebine Tres]\nSolicitud de trotamundos sin nombre de los barrios bajos de Lighthalzen\nUbicación: Biolaboratorio\nObjetivo: Derrota a 30 Wickebine Tres\nPremio: 850000 de EXP, 850000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "IygrCg": {
         "en": "Lighthalzen Slum Anonymous Adventurer's Request\n^4D4DFF[Wickebine Tres]^000000 Quest accepted.",
@@ -2422,12 +2422,12 @@
     "JCgrCg": {
         "en": "[Request Completed]\nLocation: Biolab\nTarget: Defeat 30 Kavach Icarus\nReward: Exp 850000, Jexp 850000, 1 Eden Group Coin",
         "pt": "[Missão completa]\nLocal: Biolaboratório\nObjetivo: Caçar 30 Kavach Ícaro\nRecompensa: EXP base 850000, EXP classe 850000, 1 Moeda do Éden",
-        "es": "[Solicitud completada]\nUbicación: Biolaboratorio\nObjetivo: Derrota a 30 Kavach Icarus\nPremio: 850000 de EXP, 850000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Solicitud completada]\nUbicación: Biolaboratorio\nObjetivo: Derrota a 30 Kavach Icarus\nPremio: 850000 de EXP, 850000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "JSgrCg": {
         "en": "[Kavach Icarus]\nLighthalzen Slum Anonymous Adventurer's Request\nLocation: Biolab\nTarget: Defeat 30 Kavach Icarus\nReward: Exp 850000, Jexp 850000, 1 Eden Group Coin",
         "pt": "[Cobaia Arqueiro]\nSolicitação de um Anônimo\nLocal: Biolaboratório\nObjetivo: Caçar 30 Kavach Ícaro\nRecompensa: EXP base 850000, EXP classe 850000, 1 Moeda do Éden",
-        "es": "[Kavach Icarus]\nSolicitud de trotamundos sin nombre de los barrios bajos de Lighthalzen\nUbicación: Biolaboratorio\nObjetivo: Derrota a 30 Kavach Icarus\nPremio: 850000 de EXP, 850000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Kavach Icarus]\nSolicitud de trotamundos sin nombre de los barrios bajos de Lighthalzen\nUbicación: Biolaboratorio\nObjetivo: Derrota a 30 Kavach Icarus\nPremio: 850000 de EXP, 850000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "JigrCg": {
         "en": "Lighthalzen Slum Anonymous Adventurer's Request\n^4D4DFF[Kavach Icarus]^000000 Quest accepted.",
@@ -2437,12 +2437,12 @@
     "JygrCg": {
         "en": "[Request Completed]\nLocation: Biolab\nTarget: Defeat 30 Errende Ebecee\nReward: Exp 850000, Jexp 850000, 1 Eden Group Coin",
         "pt": "[Missão completa]\nLocal: Biolaboratório\nObjetivo: Caçar 30 Errende Ebecee\nRecompensa: EXP base 850000, EXP classe 850000, 1 Moeda do Éden",
-        "es": "[Solicitud completada]\nUbicación: Biolaboratorio\nObjetivo: Derrota a 30 Errende Ebecee\nPremio: 850000 de EXP, 850000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Solicitud completada]\nUbicación: Biolaboratorio\nObjetivo: Derrota a 30 Errende Ebecee\nPremio: 850000 de EXP, 850000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "KCgrCg": {
         "en": "[Errende Ebecee]\nLighthalzen Slum Anonymous Adventurer's Request\nLocation: Biolab\nTarget: Defeat 30 Errende Ebecee\nReward: Exp 850000, Jexp 850000, 1 Eden Group Coin",
         "pt": "[Cobaia Noviço]\nSolicitação de um Anônimo\nLocal: Biolaboratório\nObjetivo: Caçar 30 Errende Ebecee\nRecompensa: EXP base 850000, EXP classe 850000, 1 Moeda do Éden",
-        "es": "[Errende Ebecee]\nSolicitud de trotamundos sin nombre de los barrios bajos de Lighthalzen\nUbicación: Biolaboratorio\nObjetivo: Derrota a 30 Errende Ebecee\nPremio: 850000 de EXP, 850000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Errende Ebecee]\nSolicitud de trotamundos sin nombre de los barrios bajos de Lighthalzen\nUbicación: Biolaboratorio\nObjetivo: Derrota a 30 Errende Ebecee\nPremio: 850000 de EXP, 850000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "KSgrCg": {
         "en": "Lighthalzen Slum Anonymous Adventurer's Request\n^4D4DFF[Errende Ebecee]^000000 Quest accepted.",
@@ -2452,12 +2452,12 @@
     "KigrCg": {
         "en": "[Request Completed]\nLocation: Biolab\nTarget: Defeat 30 Laurell Weinder\nReward: Exp 850000, Jexp 850000, 1 Eden Group Coin",
         "pt": "[Missão completa]\nLocal: Biolaboratório\nObjetivo: Caçar 30 Laurell Weinder\nRecompensa: EXP base 850000, EXP classe 850000, 1 Moeda do Éden",
-        "es": "[Solicitud completada]\nUbicación: Biolaboratorio\nObjetivo: Derrota a 30 Laurell Weinder\nPremio: 850000 de EXP, 850000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Solicitud completada]\nUbicación: Biolaboratorio\nObjetivo: Derrota a 30 Laurell Weinder\nPremio: 850000 de EXP, 850000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "KygrCg": {
         "en": "[Laurell Weinder]\nLighthalzen Slum Anonymous Adventurer's Request\nLocation: Biolab\nTarget: Defeat 30 Laurell Weinder\nReward: Exp 850000, Jexp 850000, 1 Eden Group Coin",
         "pt": "[Cobaia Mago]\nSolicitação de um Anônimo\nLocal: Biolaboratório\nObjetivo: Caçar 30 Laurell Weinder\nRecompensa: EXP base 850000, EXP classe 850000, 1 Moeda do Éden",
-        "es": "[Laurell Weinder]\nSolicitud de trotamundos sin nombre de los barrios bajos de Lighthalzen\nUbicación: Biolaboratorio\nObjetivo: Derrota a 30 Laurell Weinder\nPremio: 850000 de EXP, 850000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Laurell Weinder]\nSolicitud de trotamundos sin nombre de los barrios bajos de Lighthalzen\nUbicación: Biolaboratorio\nObjetivo: Derrota a 30 Laurell Weinder\nPremio: 850000 de EXP, 850000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "LCgrCg": {
         "en": "Lighthalzen Slum Anonymous Adventurer's Request\n^4D4DFF[Laurell Weinder]^000000 Quest accepted.",
@@ -2467,12 +2467,12 @@
     "LSgrCg": {
         "en": "[Request Completed]\nLocation: Biolab\nTarget: Defeat 2 Cecil Damon\nReward: Exp 1000000, Jexp 1000000, 1 Eden Group Coin",
         "pt": "[Missão completa]\nLocal: Biolaboratório\nObjetivo: Caçar 2 Cecil Damon\nRecompensa: EXP base 1000000, EXP classe 1000000, 1 Moeda do Éden",
-        "es": "[Solicitud completada]\nUbicación: Biolaboratorio\nObjetivo: Derrota a 2 Cecil Damon\nPremio: 1000000 de EXP, 1000000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Solicitud completada]\nUbicación: Biolaboratorio\nObjetivo: Derrota a 2 Cecil Damon\nPremio: 1000000 de EXP, 1000000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "LigrCg": {
         "en": "[Cecil Damon]\nLighthalzen Slum Anonymous Adventurer's Request\nLocation: Biolab\nTarget: Defeat 2 Cecil Damon\nReward: Exp 1000000, Jexp 1000000, 1 Eden Group Coin",
         "pt": "[Cobaia Atiradora]\nSolicitação de um Anônimo\nLocal: Biolaboratório\nObjetivo: Caçar 2 Cecil Damon\nRecompensa: EXP base 1000000, EXP classe 1000000, 1 Moeda do Éden",
-        "es": "[Cecil Damon]\nSolicitud de trotamundos sin nombre de los barrios bajos de Lighthalzen\nUbicación: Biolaboratorio\nObjetivo: Derrota a 2 Cecil Damon\nPremio: 1000000 de EXP, 1000000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Cecil Damon]\nSolicitud de trotamundos sin nombre de los barrios bajos de Lighthalzen\nUbicación: Biolaboratorio\nObjetivo: Derrota a 2 Cecil Damon\nPremio: 1000000 de EXP, 1000000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "LygrCg": {
         "en": "Lighthalzen Slum Anonymous Adventurer's Request\n^4D4DFF[Cecil Damon]^000000 Quest accepted.",
@@ -2482,12 +2482,12 @@
     "MCgrCg": {
         "en": "[Request Completed]\nLocation: Biolab\nTarget: Defeat 2 Kathryne Keyron\nReward: Exp 1000000, Jexp 1000000, 1 Eden Group Coin",
         "pt": "[Missão completa]\nLocal: Biolaboratório\nObjetivo: Caçar 2 Kathryne Keyron\nRecompensa: EXP base 1000000, EXP classe 1000000, 1 Moeda do Éden",
-        "es": "[Solicitud completada]\nUbicación: Biolaboratorio\nObjetivo: Derrota a 2 Kathryne Keyron\nPremio: 1000000 de EXP, 1000000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Solicitud completada]\nUbicación: Biolaboratorio\nObjetivo: Derrota a 2 Kathryne Keyron\nPremio: 1000000 de EXP, 1000000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "MSgrCg": {
         "en": "[Kathryne Keyron]\nLighthalzen Slum Anonymous Adventurer's Request\nLocation: Biolab\nTarget: Defeat 2 Kathryne Keyron\nReward: Exp 1000000, Jexp 1000000, 1 Eden Group Coin",
         "pt": "[Cobaia Arquimaga]\nSolicitação de um Anônimo\nLocal: Biolaboratório\nObjetivo: Caçar 2 Kathryne Keyron\nRecompensa: EXP base 1000000, EXP classe 1000000, 1 Moeda do Éden",
-        "es": "[Kathryne Keyron]\nSolicitud de trotamundos sin nombre de los barrios bajos de Lighthalzen\nUbicación: Biolaboratorio\nObjetivo: Derrota a 2 Kathryne Keyron\nPremio: 1000000 de EXP, 1000000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Kathryne Keyron]\nSolicitud de trotamundos sin nombre de los barrios bajos de Lighthalzen\nUbicación: Biolaboratorio\nObjetivo: Derrota a 2 Kathryne Keyron\nPremio: 1000000 de EXP, 1000000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "MigrCg": {
         "en": "Lighthalzen Slum Anonymous Adventurer's Request\n^4D4DFF[Kathryne Keyron]^000000 Quest accepted.",
@@ -2497,12 +2497,12 @@
     "MygrCg": {
         "en": "[Request Completed]\nLocation: Biolab\nTarget: Defeat 2 Margaretha Sorin\nReward: Exp 1000000, Jexp 1000000, 1 Eden Group Coin",
         "pt": "[Missão completa]\nLocal: Biolaboratório\nObjetivo: Caçar 2 Margaretha Sorin\nRecompensa: EXP base 1000000, EXP classe 1000000, 1 Moeda do Éden",
-        "es": "[Solicitud completada]\nUbicación: Biolaboratorio\nObjetivo: Derrota a 2 Margarita Sorin\nPremio: 1000000 de EXP, 1000000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Solicitud completada]\nUbicación: Biolaboratorio\nObjetivo: Derrota a 2 Margarita Sorin\nPremio: 1000000 de EXP, 1000000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "NCgrCg": {
         "en": "[Margaretha Sorin]\nLighthalzen Slum Anonymous Adventurer's Request\nLocation: Biolab\nTarget: Defeat 2 Margaretha Sorin\nReward: Exp 1000000, Jexp 1000000, 1 Eden Group Coin",
         "pt": "[Cobaia Sacerdotisa]\nSolicitação de um Anônimo\nLocal: Biolaboratório\nObjetivo: Caçar 2 Margaretha Sorin\nRecompensa: EXP base 1000000, EXP classe 1000000, 1 Moeda do Éden",
-        "es": "[Margarita Sorin]\nSolicitud de trotamundos sin nombre de los barrios bajos de Lighthalzen\nUbicación: Biolaboratorio\nObjetivo: Derrota a 2 Margarita Sorin\nPremio: 1000000 de EXP, 1000000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Margarita Sorin]\nSolicitud de trotamundos sin nombre de los barrios bajos de Lighthalzen\nUbicación: Biolaboratorio\nObjetivo: Derrota a 2 Margarita Sorin\nPremio: 1000000 de EXP, 1000000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "NSgrCg": {
         "en": "Lighthalzen Slum Anonymous Adventurer's Request\n^4D4DFF[Margaretha Sorin]^000000 Quest accepted.",
@@ -2512,12 +2512,12 @@
     "NigrCg": {
         "en": "[Request Completed]\nLocation: Biolab\nTarget: Defeat 2 Seyren Windsor\nReward: Exp 1000000, Jexp 1000000, 1 Eden Group Coin",
         "pt": "[Missão completa]\nLocal: Biolaboratório\nObjetivo: Caçar 2 Seyren Windsor\nRecompensa: EXP base 1000000, EXP classe 1000000, 1 Moeda do Éden",
-        "es": "[Solicitud completada]\nUbicación: Biolaboratorio\nObjetivo: Derrota a 2 Seyren Windsor\nPremio: 1000000 de EXP, 1000000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Solicitud completada]\nUbicación: Biolaboratorio\nObjetivo: Derrota a 2 Seyren Windsor\nPremio: 1000000 de EXP, 1000000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "NygrCg": {
         "en": "[Seyren Windsor]\nLighthalzen Slum Anonymous Adventurer's Request\nLocation: Biolab\nTarget: Defeat 2 Seyren Windsor\nReward: Exp 1000000, Jexp 1000000, 1 Eden Group Coin",
         "pt": "[Cobaia Lorde]\nSolicitação de um Anônimo\nLocal: Biolaboratório\nObjetivo: Caçar 2 Seyren Windsor\nRecompensa: EXP base 1000000, EXP classe 1000000, 1 Moeda do Éden",
-        "es": "[Seyren Windsor]\nSolicitud de trotamundos sin nombre de los barrios bajos de Lighthalzen\nUbicación: Biolaboratorio\nObjetivo: Derrota a 2 Seyren Windsor\nPremio: 1000000 de EXP, 1000000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Seyren Windsor]\nSolicitud de trotamundos sin nombre de los barrios bajos de Lighthalzen\nUbicación: Biolaboratorio\nObjetivo: Derrota a 2 Seyren Windsor\nPremio: 1000000 de EXP, 1000000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "OCgrCg": {
         "en": "Lighthalzen Slum Anonymous Adventurer's Request\n^4D4DFF[Seyren Windsor]^000000 Quest accepted.",
@@ -2527,12 +2527,12 @@
     "OSgrCg": {
         "en": "[Request Completed]\nLocation: Biolab\nTarget: Defeat 2 Eremes Guile\nReward: Exp 1000000, Jexp 1000000, 1 Eden Group Coin",
         "pt": "[Missão completa]\nLocal: Biolaboratório\nObjetivo: Caçar 2 Eremes Guile\nRecompensa: EXP base 1000000, EXP classe 1000000, 1 Moeda do Éden",
-        "es": "[Solicitud completada]\nUbicación: Biolaboratorio\nObjetivo: Derrota a 2 Eremes Guile\nPremio: 1000000 de EXP, 1000000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Solicitud completada]\nUbicación: Biolaboratorio\nObjetivo: Derrota a 2 Eremes Guile\nPremio: 1000000 de EXP, 1000000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "OigrCg": {
         "en": "[Eremes Guile]\nLighthalzen Slum Anonymous Adventurer's Request\nLocation: Biolab\nTarget: Defeat 2 Eremes Guile\nReward: Exp 1000000, Jexp 1000000, 1 Eden Group Coin",
         "pt": "[Cobaia Algoz]\nSolicitação de um Anônimo\nLocal: Biolaboratório\nObjetivo: Caçar 2 Eremes Guile\nRecompensa: EXP base 1000000, EXP classe 1000000, 1 Moeda do Éden",
-        "es": "[Eremes Guile]\nSolicitud de trotamundos sin nombre de los barrios bajos de Lighthalzen\nUbicación: Biolaboratorio\nObjetivo: Derrota a 2 Eremes Guile\nPremio: 1000000 de EXP, 1000000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Eremes Guile]\nSolicitud de trotamundos sin nombre de los barrios bajos de Lighthalzen\nUbicación: Biolaboratorio\nObjetivo: Derrota a 2 Eremes Guile\nPremio: 1000000 de EXP, 1000000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "OygrCg": {
         "en": "Lighthalzen Slum Anonymous Adventurer's Request\n^4D4DFF[Eremes Guile]^000000 Quest accepted.",
@@ -2542,12 +2542,12 @@
     "PCgrCg": {
         "en": "[Request Completed]\nLocation: Biolab\nTarget: Defeat 2 Howard Alteisen\nReward: Exp 1000000, Jexp 1000000, 1 Eden Group Coin",
         "pt": "[Missão completa]\nLocal: Biolaboratório\nObjetivo: Caçar 2 Howard Alt-Eisen\nRecompensa: EXP base 1000000, EXP classe 1000000, 1 Moeda do Éden",
-        "es": "[Solicitud completada]\nUbicación: Biolaboratorio\nObjetivo: Derrota a 2 Howard Alteisen\nPremio: 1000000 de EXP, 1000000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Solicitud completada]\nUbicación: Biolaboratorio\nObjetivo: Derrota a 2 Howard Alteisen\nPremio: 1000000 de EXP, 1000000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "PSgrCg": {
         "en": "[Howard Alteisen]\nLighthalzen Slum Anonymous Adventurer's Request\nLocation: Biolab\nTarget: Defeat 2 Howard Alteisen\nReward: Exp 1000000, Jexp 1000000, 1 Eden Group Coin",
         "pt": "[Cobaia Ferreiro]\nSolicitação de um Anônimo\nLocal: Biolaboratório\nObjetivo: Caçar 2 Howard Alt-Eisen\nRecompensa: EXP base 1000000, EXP classe 1000000, 1 Moeda do Éden",
-        "es": "[Howard Alteisen]\nSolicitud de trotamundos sin nombre de los barrios bajos de Lighthalzen\nUbicación: Biolaboratorio\nObjetivo: Derrota a 2 Howard Alteisen\nPremio: 1000000 de EXP, 1000000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Howard Alteisen]\nSolicitud de trotamundos sin nombre de los barrios bajos de Lighthalzen\nUbicación: Biolaboratorio\nObjetivo: Derrota a 2 Howard Alteisen\nPremio: 1000000 de EXP, 1000000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "PigrCg": {
         "en": "Lighthalzen Slum Anonymous Adventurer's Request\n^4D4DFF[Howard Alteisen]^000000 Quest accepted.",
@@ -2557,12 +2557,12 @@
     "PygrCg": {
         "en": "[Request Completed]\nLocation: Dimensional Rift\nTarget: Defeat 30 Incarnation of Morroc (Valkyrie)\nReward: Exp 800000, Jexp 800000, 1 Eden Group Coin",
         "pt": "[Missão completa]\nLocal: Fenda Dimensional\nObjetivo: Caçar 30 Sombras da Inveja\nRecompensa: EXP base 800000, EXP classe 800000, 1 Moeda do Éden",
-        "es": "[Solicitud completada]\nUbicación: Grieta dimensional\nObjetivo: Derrota a 30 Encarnaciones de Morroc (valkiria)\nPremio: 800000 de EXP, 800000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Solicitud completada]\nUbicación: Grieta dimensional\nObjetivo: Derrota a 30 Encarnaciones de Morroc (valkiria)\nPremio: 800000 de EXP, 800000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "QCgrCg": {
         "en": "[Angel Shape]\nRequest from Morok Lartal\nLocation: Dimensional Rift\nTarget: Defeat 30 Incarnation of Morroc (Valkyrie)\nReward: Exp 800000, Jexp 800000, 1 Eden Group Coin",
         "pt": "[Forma de Anjo]\nSolicitação de uma Criança em Morroc\nLocal: Fenda Dimensional\nObjetivo: Caçar 30 Sombras da Inveja\nRecompensa: EXP base 800000, EXP classe 800000, 1 Moeda do Éden",
-        "es": "[Forma de ángel]\nSolicitud de Morok Lartal\nUbicación: Grieta dimensional\nObjetivo: Derrota a 30 Encarnaciones de Morroc (valkiria)\nPremio: 800000 de EXP, 800000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Forma de ángel]\nSolicitud de Morok Lartal\nUbicación: Grieta dimensional\nObjetivo: Derrota a 30 Encarnaciones de Morroc (valkiria)\nPremio: 800000 de EXP, 800000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "QSgrCg": {
         "en": "Request from Morok Lartal\n^4D4DFF[Angel Shape]^000000 Quest accepted.",
@@ -2572,12 +2572,12 @@
     "QigrCg": {
         "en": "[Request Completed]\nLocation: Dimensional Rift\nTarget: Defeat 30 Incarnation of Morroc (Mud)\nReward: Exp 800000, Jexp 800000, 1 Eden Group Coin",
         "pt": "[Missão completa]\nLocal: Fenda Dimensional\nObjetivo: Caçar 30 Sombras da Gula\nRecompensa: EXP base 800000, EXP classe 800000, 1 Moeda do Éden",
-        "es": "[Solicitud completada]\nUbicación: Grieta dimensional\nObjetivo: Derrota a 30 Encarnaciones de Morroc (barro)\nPremio: 800000 de EXP, 800000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Solicitud completada]\nUbicación: Grieta dimensional\nObjetivo: Derrota a 30 Encarnaciones de Morroc (barro)\nPremio: 800000 de EXP, 800000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "QygrCg": {
         "en": "[Blessing of Rest]\nRequest from Morok Lartal\nLocation: Dimensional Rift\nTarget: Defeat 30 Incarnation of Morroc (Mud)\nReward: Exp 800000, Jexp 800000, 1 Eden Group Coin",
         "pt": "[Forma de Lama]\nSolicitação de uma Criança em Morroc\nLocal: Fenda Dimensional\nObjetivo: Caçar 30 Sombras da Gula\nRecompensa: EXP base 800000, EXP classe 800000, 1 Moeda do Éden",
-        "es": "[Bendición del descanso]\nSolicitud de Morok Lartal\nUbicación: Grieta dimensional\nObjetivo: Derrota a 30 Encarnaciones de Morroc (barro)\nPremio: 800000 de EXP, 800000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Bendición del descanso]\nSolicitud de Morok Lartal\nUbicación: Grieta dimensional\nObjetivo: Derrota a 30 Encarnaciones de Morroc (barro)\nPremio: 800000 de EXP, 800000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "RCgrCg": {
         "en": "Request from Morok Lartal\n^4D4DFF[Blessing of Rest]^000000 Quest accepted.",
@@ -2587,12 +2587,12 @@
     "RSgrCg": {
         "en": "[Request Completed]\nLocation: Dimensional Rift\nTarget: Defeat 30 Incarnation of Morroc (Exorcised Lady)\nReward: Exp 800000, Jexp 800000, 1 Eden Group Coin",
         "pt": "[Missão completa]\nLocal: Fenda Dimensional\nObjetivo: Caçar 30 Sombras da Vaidade\nRecompensa: EXP base 800000, EXP classe 800000, 1 Moeda do Éden",
-        "es": "[Solicitud completada]\nUbicación: Grieta dimensional\nObjetivo: Derrota a 30 Encarnaciones de Morroc (dama exorcizada)\nPremio: 800000 de EXP, 800000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Solicitud completada]\nUbicación: Grieta dimensional\nObjetivo: Derrota a 30 Encarnaciones de Morroc (dama exorcizada)\nPremio: 800000 de EXP, 800000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "RigrCg": {
         "en": "[The Joy of Servitude]\nRequest from Morok Lartal\nLocation: Dimensional Rift\nTarget: Defeat 30 Incarnation of Morroc (Exorcised Lady)\nReward: Exp 800000, Jexp 800000, 1 Eden Group Coin",
         "pt": "[Forma Humana]\nSolicitação de uma Criança em Morroc\nLocal: Fenda Dimensional\nObjetivo: Caçar 30 Sombras da Vaidade\nRecompensa: EXP base 800000, EXP classe 800000, 1 Moeda do Éden",
-        "es": "[La alegría de la servidumbre]\nSolicitud de Morok Lartal\nUbicación: Grieta dimensional\nObjetivo: Derrota a 30 Encarnaciones de Morroc (dama exorcizada)\nPremio: 800000 de EXP, 800000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[La alegría de la servidumbre]\nSolicitud de Morok Lartal\nUbicación: Grieta dimensional\nObjetivo: Derrota a 30 Encarnaciones de Morroc (dama exorcizada)\nPremio: 800000 de EXP, 800000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "RygrCg": {
         "en": "Request from Morok Lartal\n^4D4DFF[The Joy of Servitude]^000000 Quest accepted.",
@@ -2602,12 +2602,12 @@
     "SCgrCg": {
         "en": "[Request Completed]\nLocation: Dimensional Rift\nTarget: Defeat 30 Incarnation of Morroc (Ghost)\nReward: Exp 800000, Jexp 800000, 1 Eden Group Coin",
         "pt": "[Missão completa]\nLocal: Fenda Dimensional\nObjetivo: Caçar 30 Sombras da Ira\nRecompensa: EXP base 800000, EXP classe 800000, 1 Moeda do Éden",
-        "es": "[Solicitud completada]\nUbicación: Grieta dimensional\nObjetivo: Derrota a 30 Encarnaciones de Morroc (fantasma)\nPremio: 800000 de EXP, 800000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Solicitud completada]\nUbicación: Grieta dimensional\nObjetivo: Derrota a 30 Encarnaciones de Morroc (fantasma)\nPremio: 800000 de EXP, 800000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "SSgrCg": {
         "en": "[Embodiment of Purity]\nRequest from Morok Lartal\nLocation: Dimensional Rift\nTarget: Defeat 30 Incarnation of Morroc (Ghost)\nReward: Exp 800000, Jexp 800000, 1 Eden Group Coin",
         "pt": "[Forma Fantasma]\nSolicitação de uma Criança em Morroc\nLocal: Fenda Dimensional\nObjetivo: Caçar 30 Sombras da Ira\nRecompensa: EXP base 800000, EXP classe 800000, 1 Moeda do Éden",
-        "es": "[Encarnación de la pureza]\nSolicitud de Morok Lartal\nUbicación: Grieta dimensional\nObjetivo: Derrota a 30 Encarnaciones de Morroc (fantasma)\nPremio: 800000 de EXP, 800000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Encarnación de la pureza]\nSolicitud de Morok Lartal\nUbicación: Grieta dimensional\nObjetivo: Derrota a 30 Encarnaciones de Morroc (fantasma)\nPremio: 800000 de EXP, 800000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "SigrCg": {
         "en": "Request from Morok Lartal\n^4D4DFF[Embodiment of Purity]^000000 Quest accepted.",
@@ -2617,12 +2617,12 @@
     "SygrCg": {
         "en": "[Request Completed]\nLocation: Geffenia\nTarget: Defeat 5 Incubus and 5 Succubus\nReward: Exp 400000, Jexp 400000, 1 Eden Group Coin",
         "pt": "[Missão completa]\nLocal: Geffenia\nObjetivo: Caçar 5 Incubus e 5 Succubus\nRecompensa: EXP base 400000, EXP classe 400000, 1 Moeda do Éden",
-        "es": "[Solicitud completada]\nUbicación: Geffenia\nObjetivo: Derrota a 5 Íncubos y 5 Súcubos\nPremio: 400000 de EXP, 400000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Solicitud completada]\nUbicación: Geffenia\nObjetivo: Derrota a 5 Íncubos y 5 Súcubos\nPremio: 400000 de EXP, 400000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "TCgrCg": {
         "en": "[Dream Demon Research]\nRequest from Geffen Alchemist Mingmin\nLocation: Geffenia\nTarget: Defeat 5 Incubus and 5 Succubus\nReward: Exp 400000, Jexp 400000, 1 Eden Group Coin",
         "pt": "[Demônios dos Sonhos]\nSolicitação de Mingmin, em Geffen\nLocal: Geffenia\nObjetivo: Caçar 5 Incubus e 5 Succubus\nRecompensa: EXP base 400000, EXP classe 400000, 1 Moeda do Éden",
-        "es": "[Investigación sobre el demonio del sueño]\nSolicitud de Mingmin, Alquimista de Geffen\nUbicación: Geffenia\nObjetivo: Derrota a 5 Íncubos y 5 Súcubos\nPremio: 400000 de EXP, 400000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Investigación sobre el demonio del sueño]\nSolicitud de Mingmin, Alquimista de Geffen\nUbicación: Geffenia\nObjetivo: Derrota a 5 Íncubos y 5 Súcubos\nPremio: 400000 de EXP, 400000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "TSgrCg": {
         "en": "Request from Geffen Alchemist Mingmin\n^4D4DFF[Dream Demon Research]^000000 Quest accepted.",
@@ -2632,12 +2632,12 @@
     "TigrCg": {
         "en": "[Request Completed]\nLocation: Around Bifrost\nTarget: Defeat 20 Miming\nReward: Exp 850000, Jexp 850000, 1 Eden Group Coin",
         "pt": "[Missão completa]\nLocal: Bifröst\nObjetivo: Caçar 20 Plagiadores\nRecompensa: EXP base 850000, EXP classe 850000, 1 Moeda do Éden",
-        "es": "[Solicitud completada]\nUbicación: Alrededores de Bifrost\nObjetivo: Derrota a 20 Mimos\nPremio: 850000 de EXP, 850000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Solicitud completada]\nUbicación: Alrededores de Bifrost\nObjetivo: Derrota a 20 Mimos\nPremio: 850000 de EXP, 850000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "TygrCg": {
         "en": "[Fluffy Kid]\nRequest from Nyunui of Mora Village\nLocation: Around Bifrost\nTarget: Defeat 20 Miming\nReward: Exp 850000, Jexp 850000, 1 Eden Group Coin",
         "pt": "[Carinha Felpudo]\nSolicitação da rafflen Lulu\nLocal: Bifröst\nObjetivo: Caçar 20 Plagiadores\nRecompensa: EXP base 850000, EXP classe 850000, 1 Moeda do Éden",
-        "es": "[Pequeñín mullido]\nSolicitud de Nyunui, del pueblo de Mora\nUbicación: Alrededores de Bifrost\nObjetivo: Derrota a 20 Mimos\nPremio: 850000 de EXP, 850000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Pequeñín mullido]\nSolicitud de Nyunui, del pueblo de Mora\nUbicación: Alrededores de Bifrost\nObjetivo: Derrota a 20 Mimos\nPremio: 850000 de EXP, 850000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "UCgrCg": {
         "en": "Request from Nyunui of Mora Village\n^4D4DFF[Fluffy Kid]^000000 Quest accepted.",
@@ -2647,12 +2647,12 @@
     "USgrCg": {
         "en": "[Request Completed]\nLocation: Around Bifrost\nTarget: Defeat 20 Little Fatum\nReward: Exp 850000, Jexp 850000, 1 Eden Group Coin",
         "pt": "[Missão completa]\nLocal: Bifröst\nObjetivo: Caçar 20 Pequenos Fatum\nRecompensa: EXP base 850000, EXP classe 850000, 1 Moeda do Éden",
-        "es": "[Solicitud completada]\nUbicación: Alrededores de Bifrost\nObjetivo: Derrota a 20 Fatum pequeño\nPremio: 850000 de EXP, 850000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Solicitud completada]\nUbicación: Alrededores de Bifrost\nObjetivo: Derrota a 20 Fatum pequeño\nPremio: 850000 de EXP, 850000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "UigrCg": {
         "en": "[Little Prankster]\nRequest from Nyunui of Mora Village\nLocation: Around Bifrost\nTarget: Defeat 20 Little Fatum\nReward: Exp 850000, Jexp 850000, 1 Eden Group Coin",
         "pt": "[Fada Travessa]\nSolicitação da rafflen Lulu\nLocal: Bifröst\nObjetivo: Caçar 20 Pequenos Fatum\nRecompensa: EXP base 850000, EXP classe 850000, 1 Moeda do Éden",
-        "es": "[Pequeño bromista]\nSolicitud de Nyunui, del pueblo de Mora\nUbicación: Alrededores de Bifrost\nObjetivo: Derrota a 20 Fatum pequeño\nPremio: 850000 de EXP, 850000 de EXP de clase, 1 moneda del Grupo de Edén"
+        "es": "[Pequeño bromista]\nSolicitud de Nyunui, del pueblo de Mora\nUbicación: Alrededores de Bifrost\nObjetivo: Derrota a 20 Fatum pequeño\nPremio: 850000 de EXP, 850000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "UygrCg": {
         "en": "Request from Nyunui of Mora Village\n^4D4DFF[Little Prankster]^000000 Quest accepted.",

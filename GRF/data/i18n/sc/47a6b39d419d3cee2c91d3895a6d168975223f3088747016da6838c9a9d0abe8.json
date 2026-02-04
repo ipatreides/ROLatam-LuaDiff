@@ -297,7 +297,7 @@
     "+9prAw": {
         "en": "[Friedrich]\nIt's an official quest registered with Eden Group\nBut wouldn't it be to our mutual benefit for me to pay you to handle it?",
         "pt": "[Fred]\nEu também registrei isso no Grupo do Éden.\nNão seria legal você me ajudar e ganhar uma recompensa por isso?",
-        "es": "[Friedrich]\nEs una misión oficial registrada en el Grupo de Edén.\n¿Pero no sería en beneficio mutuo que te pague para que te encargues?"
+        "es": "[Friedrich]\nEs una misión oficial registrada en el Grupo del Edén.\n¿Pero no sería en beneficio mutuo que te pague para que te encargues?"
     },
     "/NprAw": {
         "en": "[Friedrich]\nWhich directions do you want?",
@@ -512,7 +512,7 @@
     "JttrAw": {
         "en": "[Atin]\nBoth we and the superior office tried to put in a lot of manpower, but all we could do was let the dust settle.\n... So now we made a ^4D4DFFrequest to Eden Group^000000.",
         "pt": "[Aiden]\nOs meus superiores tentaram aumentar a quantidade de guardas, mas não surtiu efeito.\n........agora entendo o motivo de terem ^4D4DFFaberto uma solicitação no Grupo do Éden^000000.",
-        "es": "[Atin]\nTanto nosotros como los de la oficina superior intentamos asignar gran cantidad de personal a este asunto, pero lo único que pudimos hacer fue dejar que las cosas se calmen.\n… Así que ahora le hicimos una ^4D4DFFsolicitud al Grupo de Edén^000000."
+        "es": "[Atin]\nTanto nosotros como los de la oficina superior intentamos asignar gran cantidad de personal a este asunto, pero lo único que pudimos hacer fue dejar que las cosas se calmen.\n… Así que ahora le hicimos una ^4D4DFFsolicitud al Grupo del Edén^000000."
     },
     "J9trAw": {
         "en": "Could I accept that request?",
@@ -522,7 +522,7 @@
     "KNtrAw": {
         "en": "[Atin]\n... Ah, of course.\nThere weren't enough people anyway, so we asked Eden Group to get Adventurers' help.",
         "pt": "[Aiden]\n...Claro.\nPrecisamos de vários aventureiros para essa missão, por isso o pedido lá no Grupo do Éden.",
-        "es": "[Atin]\n… Ah, por supuesto.\nNo había gente suficiente de todas formas, así que le pedimos al Grupo de Edén que consiguiera la ayuda de los trotamundos."
+        "es": "[Atin]\n… Ah, por supuesto.\nNo había gente suficiente de todas formas, así que le pedimos al Grupo del Edén que consiguiera la ayuda de los trotamundos."
     },
     "KdtrAw": {
         "en": "[Atin]\nPlease talk to me whenever you're ready.\nSince I am well informed about the basic quest.\nThank you for your care.",
@@ -632,7 +632,7 @@
     "PttrAw": {
         "en": "[Atin]\nI don't think you need to destroy Waste Stoves for a while.\nIt's an official quest registered with Eden Group, so other volunteers are also here to take care of it.",
         "pt": "[Aiden]\nAcho que a Fornalha Velha não vai nos incomodar por um tempo.\nEsse pedido também está registrado no Grupo do Éden, então tem outros aventureiros lidando com isso.",
-        "es": "[Atin]\nNo creo que sea necesario destruir las Estufas de residuos durante un tiempo.\nEs una misión oficial registrada en el Grupo de Edén, por lo que también hay otros voluntarios que se ocupan de ella."
+        "es": "[Atin]\nNo creo que sea necesario destruir las Estufas de residuos durante un tiempo.\nEs una misión oficial registrada en el Grupo del Edén, por lo que también hay otros voluntarios que se ocupan de ella."
     },
     "P9trAw": {
         "en": "[Atin]\nThank you for your help today.",
@@ -1732,7 +1732,7 @@
     "GtxrAw": {
         "en": "[Leno]\nIn fact, that is the case here.\nEverything was fine when I sorted out some of the quests that were posted at Eden Group",
         "pt": "[Leno]\nQuer dizer, nesse caso.\nEu estava analisando algumas solicitações do Grupo do Éden.",
-        "es": "[Leno]\nDe hecho, ese es el caso aquí.\nTodo iba bien hasta que seleccioné algunas misiones que se publicaron en el Grupo de Edén,"
+        "es": "[Leno]\nDe hecho, ese es el caso aquí.\nTodo iba bien hasta que seleccioné algunas misiones que se publicaron en el Grupo del Edén,"
     },
     "G9xrAw": {
         "en": "[Leno]\nBut then I drew the short straw and landed on this quest.\n... But I utterly ... Cannot progress.",

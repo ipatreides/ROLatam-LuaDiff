@@ -277,7 +277,7 @@
     "V0LwAg": {
         "en": "[Eden Group teleporter]",
         "pt": "Teleportador do Grupo do Éden",
-        "es": "[Teletransporte del Grupo de Edén]"
+        "es": "[Teletransporte del Grupo del Edén]"
     },
     "WELwAg": {
         "en": "[Kafra Employee]",
@@ -307,7 +307,7 @@
     "XULwAg": {
         "en": "[Information staff]\nFor now, I will mark the location of\n<NAVI>[Eden Group teleporter]<INFO>izlude,131,148,</INFO></NAVI>\non the mini map.\nDo you need additional directions?",
         "pt": "[Guia da Cidade]\n<NAVI>Teleportador do Grupo do Éden<INFO>izlude,131,148,</INFO></NAVI>\nMarcarei o local\nno seu minimapa.\nPrecisa de algo mais?",
-        "es": "[Personal de información]\nPor ahora, marcaré la ubicación del\n<NAVI>[Teletransporte del Grupo de Edén]<INFO>izlude,131,148,</INFO></NAVI>\nen el minimapa.\n¿Necesitas que te diga a dónde ir?"
+        "es": "[Personal de información]\nPor ahora, marcaré la ubicación del\n<NAVI>[Teletransporte del Grupo del Edén]<INFO>izlude,131,148,</INFO></NAVI>\nen el minimapa.\n¿Necesitas que te diga a dónde ir?"
     },
     "XkLwAg": {
         "en": "[Information staff]\nI will mark the location of\n<NAVI>[Kafra staff]<INFO>izlude,128,148,</INFO></NAVI>\non the mini map.",

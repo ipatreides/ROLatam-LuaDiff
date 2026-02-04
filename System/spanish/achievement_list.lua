@@ -6,12 +6,12 @@ achievement_tbl = {
 		minor = 0,
 		title = "Ladrón de refrigeradores",
 		content = {
-			details = "Entregue um Vinho de Mastela para o Pé Grande na carceragem do Palácio de Prontera.",
-			summary = "Quem nunca comeu de madrugada?"
+			details = "Entrega un Vino de frutas de Mastela a Pie Grande en el Castillo de Prontera.",
+			summary = "¿Quién nunca ha comido algo a medianoche?"
 		},
 		resource = {
 			{
-				text = "Traga a comida pedida."
+				text = "Trae la comida adecuada."
 			}
 		},
 		reward = {},
@@ -24,30 +24,26 @@ achievement_tbl = {
 		minor = 0,
 		title = "Testigo",
 		content = {
-			details = "O príncipe Jurgen Wigner parece ser bem popular.",
-			summary = "Fale com os fãs do príncipe"
+			details = "El príncipe Jurger Wigner parece ser muy popular.",
+			summary = "Habla con los seguidores del príncipe."
 		},
 		resource = {
+			{text = "Gyusoo"},
 			{
-				text = "Mulher Elegante"
+				text = "Horda de Mujeres"
+			},
+			{text = "Señorita"},
+			{
+				text = "Chica Soltera"
 			},
 			{
-				text = "Moça Bonita"
+				text = "Chico Soltero"
 			},
 			{
-				text = "Garota Romântica"
+				text = "Horda de Mujeres (Interior de la Sala)"
 			},
 			{
-				text = "Mulher Bonita"
-			},
-			{
-				text = "Estrangeiro"
-			},
-			{
-				text = "Menina Agitada"
-			},
-			{
-				text = "Rapaz Batalhador"
+				text = "Chico Soltero (Interior de la Sala)"
 			}
 		},
 		reward = {},
@@ -2688,13 +2684,13 @@ achievement_tbl = {
 		minor = 0,
 		title = "Intruso en la fábrica",
 		content = {
-			details = "Complete a instância",
-			summary = "Elimine Celine Kimi"
+			details = "Concluye la Mazmorra del Recuerdo",
+			summary = "Derrota a Celine Kimi"
 		},
 		resource = {
 			{
 				count = 1,
-				text = "Elimine Celine Kimi 1 vez"
+				text = "Derrota a Celine Kimi una vez"
 			}
 		},
 		reward = {},
@@ -2707,13 +2703,13 @@ achievement_tbl = {
 		minor = 0,
 		title = "Trabajador de fábrica",
 		content = {
-			details = "Complete a instância",
-			summary = "Elimine Celine Kimi"
+			details = "Concluye la Mazmorra del Recuerdo",
+			summary = "Derrota a Celine Kimi"
 		},
 		resource = {
 			{
 				count = 10,
-				text = "Elimine Celine Kimi 10 vezes"
+				text = "Derrota a Celine Kimi 10 veces"
 			}
 		},
 		reward = {},
@@ -2732,7 +2728,7 @@ achievement_tbl = {
 		resource = {
 			{
 				count = 25,
-				text = "Elimine Celine Kimi 25 vezes"
+				text = "Elimine Celine Kimi 25 veces"
 			}
 		},
 		reward = {},
@@ -2745,13 +2741,13 @@ achievement_tbl = {
 		minor = 0,
 		title = "Gerente de fábrica",
 		content = {
-			details = "Complete a instância",
-			summary = "Elimine Celine Kimi"
+			details = "Concluye la Mazmorra del Recuerdo",
+			summary = "Derrota a Celine Kimi"
 		},
 		resource = {
 			{
 				count = 50,
-				text = "Elimine Celine Kimi 50 vezes"
+				text = "Derrota a Celine Kimi 50 veces"
 			}
 		},
 		reward = {},
@@ -2764,13 +2760,13 @@ achievement_tbl = {
 		minor = 0,
 		title = "Admirador de muñecas",
 		content = {
-			details = "Complete a instância",
-			summary = "Elimine Celine Kimi"
+			details = "Concluye la Mazmorra del Recuerdo",
+			summary = "Derrota a Celine Kimi"
 		},
 		resource = {
 			{
 				count = 100,
-				text = "Elimine Celine Kimi 100 vezes"
+				text = "Derrota a Celine Kimi 100 veces"
 			}
 		},
 		reward = {},
@@ -2783,13 +2779,13 @@ achievement_tbl = {
 		minor = 2,
 		title = "Pesca peligrosa",
 		content = {
-			details = "Complete a instância",
-			summary = "Elimine Bakonawa"
+			details = "Concluye la Mazmorra del Recuerdo",
+			summary = "Derrota a Bakonawa"
 		},
 		resource = {
 			{
 				count = 1,
-				text = "Elimine Bakonawa 1 vez"
+				text = "Derrota a Bakonawa una vez"
 			}
 		},
 		reward = {},
@@ -2802,13 +2798,13 @@ achievement_tbl = {
 		minor = 2,
 		title = "Inmune a los meteoritos",
 		content = {
-			details = "Complete a instância",
-			summary = "Elimine Bakonawa"
+			details = "Concluye la Mazmorra del Recuerdo",
+			summary = "Derrota a Bakonawa"
 		},
 		resource = {
 			{
 				count = 10,
-				text = "Elimine Bakonawa 10 vezes"
+				text = "Derrota a Bakonawa 10 veces"
 			}
 		},
 		reward = {},
@@ -2821,13 +2817,13 @@ achievement_tbl = {
 		minor = 2,
 		title = "Maestro de Gong",
 		content = {
-			details = "Complete a instância",
-			summary = "Elimine Bakonawa"
+			details = "Concluye la Mazmorra del Recuerdo",
+			summary = "Derrota a Bakonawa"
 		},
 		resource = {
 			{
 				count = 50,
-				text = "Elimine Bakonawa 50 vezes"
+				text = "Derrota a Bakonawa 50 veces"
 			}
 		},
 		reward = {},
@@ -2840,13 +2836,13 @@ achievement_tbl = {
 		minor = 0,
 		title = "Exorcista Excepcional",
 		content = {
-			details = "Complete a instância",
-			summary = "Elimine Bafomé Selado"
+			details = "Concluye la Mazmorra del Recuerdo",
+			summary = "Derrota a Baphomet Sellado"
 		},
 		resource = {
 			{
 				count = 1,
-				text = "Elimine Bafomé Selado 1 vez"
+				text = "Derrota a Baphomet Sellado una vez"
 			}
 		},
 		reward = {},
@@ -2859,13 +2855,13 @@ achievement_tbl = {
 		minor = 0,
 		title = "Miembro de una secta",
 		content = {
-			details = "Complete a instância",
-			summary = "Elimine Bafomé Selado"
+			details = "Concluye la Mazmorra del Recuerdo",
+			summary = "Derrota a Baphomet Sellado"
 		},
 		resource = {
 			{
 				count = 10,
-				text = "Elimine Bafomé Selado 10 vezes"
+				text = "Derrota a Baphomet Sellado 10 veces"
 			}
 		},
 		reward = {},
@@ -2878,13 +2874,13 @@ achievement_tbl = {
 		minor = 0,
 		title = "Cabra rival",
 		content = {
-			details = "Complete a instância",
-			summary = "Elimine Bafomé Selado"
+			details = "Concluye la Mazmorra del Recuerdo",
+			summary = "Derrota a Baphomet Sellado"
 		},
 		resource = {
 			{
 				count = 50,
-				text = "Elimine Bafomé Selado 50 vezes"
+				text = "Derrota a Baphomet Sellado 50 veces"
 			}
 		},
 		reward = {},
@@ -2897,13 +2893,13 @@ achievement_tbl = {
 		minor = 1,
 		title = "Vigilante matutino",
 		content = {
-			details = "Complete a instância",
-			summary = "Elimine Ceifador Ankou"
+			details = "Concluye la Mazmorra del Recuerdo",
+			summary = "Derrota a Segador Ankou"
 		},
 		resource = {
 			{
 				count = 1,
-				text = "Elimine Ceifador Ankou 1 vez"
+				text = "Derrota a Segador Ankou una vez"
 			}
 		},
 		reward = {},
@@ -2916,13 +2912,13 @@ achievement_tbl = {
 		minor = 1,
 		title = "Vigilante de la tarde",
 		content = {
-			details = "Complete a instância",
-			summary = "Elimine Ceifador Ankou"
+			details = "Concluye la Mazmorra del Recuerdo",
+			summary = "Derrota a Segador Ankou"
 		},
 		resource = {
 			{
 				count = 10,
-				text = "Elimine Ceifador Ankou 10 vezes"
+				text = "Derrota a Segador Ankou 10 veces"
 			}
 		},
 		reward = {},
@@ -2935,13 +2931,13 @@ achievement_tbl = {
 		minor = 1,
 		title = "Vigilante nocturno",
 		content = {
-			details = "Complete a instância",
-			summary = "Elimine Ceifador Ankou"
+			details = "Concluye la Mazmorra del Recuerdo",
+			summary = "Derrota a Segador Ankou"
 		},
 		resource = {
 			{
 				count = 50,
-				text = "Elimine Ceifador Ankou 50 vezes"
+				text = "Derrota a Segador Ankou 50 veces"
 			}
 		},
 		reward = {},
@@ -2954,13 +2950,13 @@ achievement_tbl = {
 		minor = 2,
 		title = "Armadura de cocodrilo",
 		content = {
-			details = "Complete a instância",
-			summary = "Elimine Buwaya"
+			details = "Concluye la Mazmorra del Recuerdo",
+			summary = "Derrota a Buwaya"
 		},
 		resource = {
 			{
 				count = 1,
-				text = "Elimine Buwaya 1 vez"
+				text = "Derrota a Buwaya una vez"
 			}
 		},
 		reward = {},
@@ -2973,13 +2969,13 @@ achievement_tbl = {
 		minor = 2,
 		title = "Turista de la Caja",
 		content = {
-			details = "Complete a instância",
-			summary = "Elimine Buwaya"
+			details = "Concluye la Mazmorra del Recuerdo",
+			summary = "Derrota a Buwaya"
 		},
 		resource = {
 			{
 				count = 10,
-				text = "Elimine Buwaya 10 vezes"
+				text = "Derrota a Buwaya 10 veces"
 			}
 		},
 		reward = {},
@@ -2992,13 +2988,13 @@ achievement_tbl = {
 		minor = 2,
 		title = "Bolso de cocodrilo",
 		content = {
-			details = "Complete a instância",
-			summary = "Elimine Buwaya"
+			details = "Concluye la Mazmorra del Recuerdo",
+			summary = "Derrota a Buwaya"
 		},
 		resource = {
 			{
 				count = 50,
-				text = "Elimine Buwaya 50 vezes"
+				text = "Derrota a Buwaya 50 veces"
 			}
 		},
 		reward = {},
@@ -3011,13 +3007,13 @@ achievement_tbl = {
 		minor = 1,
 		title = "Salvó el mundo",
 		content = {
-			details = "Complete a instância",
-			summary = "Elimine Deus Morroc"
+			details = "Concluye la Mazmorra del Recuerdo",
+			summary = "Derrota a Dios Morroc"
 		},
 		resource = {
 			{
 				count = 1,
-				text = "Elimine Deus Morroc 1 vez"
+				text = "Derrota a Dios Morroc una vez"
 			}
 		},
 		reward = {},
@@ -3030,13 +3026,13 @@ achievement_tbl = {
 		minor = 1,
 		title = "¡Hoy no, Satanás!",
 		content = {
-			details = "Complete a instância",
-			summary = "Elimine Deus Morroc"
+			details = "Concluye la Mazmorra del Recuerdo",
+			summary = "Derrota a Dios Morroc"
 		},
 		resource = {
 			{
 				count = 10,
-				text = "Elimine Deus Morroc 10 vezes"
+				text = "Derrota a Dios Morroc 10 veces"
 			}
 		},
 		reward = {},
@@ -3049,13 +3045,13 @@ achievement_tbl = {
 		minor = 1,
 		title = "Luz de esperanza",
 		content = {
-			details = "Complete a instância",
-			summary = "Elimine Deus Morroc"
+			details = "Concluye la Mazmorra del Recuerdo",
+			summary = "Derrota a Dios Morroc"
 		},
 		resource = {
 			{
 				count = 25,
-				text = "Elimine Deus Morroc 25 vezes"
+				text = "Derrota a Dios Morroc 25 veces"
 			}
 		},
 		reward = {},
@@ -3068,13 +3064,13 @@ achievement_tbl = {
 		minor = 1,
 		title = "Semidiós",
 		content = {
-			details = "Complete a instância",
-			summary = "Elimine Deus Morroc"
+			details = "Concluye la Mazmorra del Recuerdo",
+			summary = "Derrota a Dios Morroc"
 		},
 		resource = {
 			{
 				count = 50,
-				text = "Elimine Deus Morroc 50 vezes"
+				text = "Derrota a Dios Morroc 50 veces"
 			}
 		},
 		reward = {},
@@ -3087,13 +3083,13 @@ achievement_tbl = {
 		minor = 1,
 		title = "Divinidad",
 		content = {
-			details = "Complete a instância",
-			summary = "Elimine Deus Morroc"
+			details = "Concluye la Mazmorra del Recuerdo",
+			summary = "Derrota a Dios Morroc"
 		},
 		resource = {
 			{
 				count = 100,
-				text = "Elimine Deus Morroc 100 vezes"
+				text = "Derrota a Dios Morroc 100 veces"
 			}
 		},
 		reward = {},
@@ -3106,13 +3102,13 @@ achievement_tbl = {
 		minor = 1,
 		title = "Necromancia",
 		content = {
-			details = "Complete a instância",
-			summary = "Elimine Necromante de Morroc"
+			details = "Concluye la Mazmorra del Recuerdo",
+			summary = "Derrota a Nigromante de Morroc"
 		},
 		resource = {
 			{
 				count = 1,
-				text = "Elimine Necromante de Morroc 1 vez"
+				text = "Derrota a Nigromante de Morroc una vez"
 			}
 		},
 		reward = {},
@@ -3125,13 +3121,13 @@ achievement_tbl = {
 		minor = 1,
 		title = "Enemigo impío",
 		content = {
-			details = "Complete a instância",
-			summary = "Elimine Necromante de Morroc"
+			details = "Concluye la Mazmorra del Recuerdo",
+			summary = "Derrota a Nigromante de Morroc"
 		},
 		resource = {
 			{
 				count = 10,
-				text = "Elimine Necromante de Morroc 10 vezes"
+				text = "Derrota a Nigromante de Morroc 10 veces"
 			}
 		},
 		reward = {},
@@ -3144,13 +3140,13 @@ achievement_tbl = {
 		minor = 1,
 		title = "Sin alma",
 		content = {
-			details = "Complete a instância",
-			summary = "Elimine Necromante de Morroc"
+			details = "Concluye la Mazmorra del Recuerdo",
+			summary = "Derrota a Nigromante de Morroc"
 		},
 		resource = {
 			{
 				count = 50,
-				text = "Elimine Necromante de Morroc 50 vezes"
+				text = "Derrota a Nigromante de Morroc 50 veces"
 			}
 		},
 		reward = {},
@@ -3163,13 +3159,13 @@ achievement_tbl = {
 		minor = 0,
 		title = "Su Majestad",
 		content = {
-			details = "Complete a instância",
-			summary = "Elimine Rainha Verme"
+			details = "Concluye la Mazmorra del Recuerdo",
+			summary = "Derrota a Reina Lombrirrostro"
 		},
 		resource = {
 			{
 				count = 1,
-				text = "Elimine Rainha Verme 1 vez"
+				text = "Derrota a Reina Lombrirrostro una vez"
 			}
 		},
 		reward = {},
@@ -3182,13 +3178,13 @@ achievement_tbl = {
 		minor = 0,
 		title = "Lombriz Anabolizada",
 		content = {
-			details = "Complete a instância",
-			summary = "Elimine a Rainha Verme (Terra)"
+			details = "Concluye la Mazmorra del Recuerdo",
+			summary = "Derrota a Reina Lombrirrostro Verde"
 		},
 		resource = {
 			{
 				count = 1,
-				text = "Elimine a Rainha Verme (Terra) 1 vez"
+				text = "Derrota a Reina Lombrirrostro Verde una vez"
 			}
 		},
 		reward = {},
@@ -3201,13 +3197,13 @@ achievement_tbl = {
 		minor = 0,
 		title = "Superviviente de la Esfera de Agua",
 		content = {
-			details = "Complete a instância",
-			summary = "Elimine a Rainha Verme (Água)"
+			details = "Concluye la Mazmorra del Recuerdo",
+			summary = "Derrota a Reina Lombrirrostro Azul"
 		},
 		resource = {
 			{
 				count = 1,
-				text = "Elimine a Rainha Verme (Água) 1 vez"
+				text = "Derrota a Reina Lombrirrostro Azul una vez"
 			}
 		},
 		reward = {},
@@ -3220,13 +3216,13 @@ achievement_tbl = {
 		minor = 0,
 		title = "La ira de la reina",
 		content = {
-			details = "Complete a instância",
-			summary = "Elimine a Rainha Verme (Vento)"
+			details = "Concluye la Mazmorra del Recuerdo",
+			summary = "Derrota a Reina Lombrirrostro Amarilla"
 		},
 		resource = {
 			{
 				count = 1,
-				text = "Elimine a Rainha Verme (Vento) 1 vez"
+				text = "Derrota a Reina Lombrirrostro Amarilla una vez"
 			}
 		},
 		reward = {},
@@ -3239,13 +3235,13 @@ achievement_tbl = {
 		minor = 0,
 		title = "Testigo de la maldición",
 		content = {
-			details = "Complete a instância",
-			summary = "Elimine Amdarais"
+			details = "Concluye la Mazmorra del Recuerdo",
+			summary = "Derrota a Amdarais"
 		},
 		resource = {
 			{
 				count = 1,
-				text = "Elimine Amdarais 1 vez"
+				text = "Derrota a Amdarais una vez"
 			}
 		},
 		reward = {},
@@ -3258,13 +3254,13 @@ achievement_tbl = {
 		minor = 0,
 		title = "Es solo un paseo...",
 		content = {
-			details = "Complete a instância",
-			summary = "Elimine Amdarais"
+			details = "Concluye la Mazmorra del Recuerdo",
+			summary = "Derrota a Amdarais"
 		},
 		resource = {
 			{
 				count = 10,
-				text = "Elimine Amdarais 10 vezes"
+				text = "Derrota a Amdarais 10 veces"
 			}
 		},
 		reward = {},
@@ -3277,13 +3273,13 @@ achievement_tbl = {
 		minor = 0,
 		title = "El triunfo de Varmunt",
 		content = {
-			details = "Complete a instância",
-			summary = "Elimine Amdarais"
+			details = "Concluye la Mazmorra del Recuerdo",
+			summary = "Derrota a Amdarais"
 		},
 		resource = {
 			{
 				count = 50,
-				text = "Elimine Amdarais 50 vezes"
+				text = "Derrota a Amdarais 50 veces"
 			}
 		},
 		reward = {},
@@ -3296,13 +3292,13 @@ achievement_tbl = {
 		minor = 0,
 		title = "Víctima de la maldición",
 		content = {
-			details = "Complete a instância",
-			summary = "Elimine Amdarais Sombrio"
+			details = "Concluye la Mazmorra del Recuerdo",
+			summary = "Derrota a Amdarais Sombrío"
 		},
 		resource = {
 			{
 				count = 1,
-				text = "Elimine Amdarais Sombrio 1 vez"
+				text = "Derrota a Amdarais Sombrío una vez"
 			}
 		},
 		reward = {},
@@ -3315,13 +3311,13 @@ achievement_tbl = {
 		minor = 0,
 		title = "La esperanza de los caballeros",
 		content = {
-			details = "Complete a instância",
-			summary = "Elimine Amdarais Sombrio"
+			details = "Concluye la Mazmorra del Recuerdo",
+			summary = "Derrota a Amdarais Sombrío"
 		},
 		resource = {
 			{
 				count = 10,
-				text = "Elimine Amdarais Sombrio 10 vezes"
+				text = "Derrota a Amdarais Sombrío 10 veces"
 			}
 		},
 		reward = {},
@@ -3334,13 +3330,13 @@ achievement_tbl = {
 		minor = 0,
 		title = "Guardia del Castillo",
 		content = {
-			details = "Complete a instância",
-			summary = "Elimine Amdarais Sombrio"
+			details = "Concluye la Mazmorra del Recuerdo",
+			summary = "Derrota a Amdarais Sombrío"
 		},
 		resource = {
 			{
 				count = 50,
-				text = "Elimine Amdarais Sombrio 50 vezes"
+				text = "Derrota a Amdarais Sombrío 50 veces"
 			}
 		},
 		reward = {},
@@ -3353,13 +3349,13 @@ achievement_tbl = {
 		minor = 0,
 		title = "Viajero del tiempo",
 		content = {
-			details = "Complete a instância",
-			summary = "Elimine Sara Irine"
+			details = "Concluye la Mazmorra del Recuerdo",
+			summary = "Derrota a Sarah Irine"
 		},
 		resource = {
 			{
 				count = 1,
-				text = "Elimine Sara Irine 1 vez"
+				text = "Derrota a Sarah Irine una vez"
 			}
 		},
 		reward = {},
@@ -3372,13 +3368,13 @@ achievement_tbl = {
 		minor = 0,
 		title = "Especialista en Historia",
 		content = {
-			details = "Complete a instância",
-			summary = "Elimine Sara Irine"
+			details = "Concluye la Mazmorra del Recuerdo",
+			summary = "Derrota a Sarah Irine"
 		},
 		resource = {
 			{
 				count = 10,
-				text = "Elimine Sara Irine 10 vezes"
+				text = "Derrota a Sarah Irine 10 veces"
 			}
 		},
 		reward = {},
@@ -3391,13 +3387,13 @@ achievement_tbl = {
 		minor = 0,
 		title = "Maestro de reliquias",
 		content = {
-			details = "Complete a instância",
-			summary = "Elimine Sara Irine"
+			details = "Concluye la Mazmorra del Recuerdo",
+			summary = "Derrota a Sarah Irine"
 		},
 		resource = {
 			{
 				count = 50,
-				text = "Elimine Sara Irine 50 vezes"
+				text = "Derrota a Sarah Irine 50 veces"
 			}
 		},
 		reward = {},
@@ -3410,13 +3406,13 @@ achievement_tbl = {
 		minor = 0,
 		title = "Campeón del torneo",
 		content = {
-			details = "Complete a instância",
-			summary = "Elimine Fenrir"
+			details = "Concluye la Mazmorra del Recuerdo",
+			summary = "Derrota a Fenrir"
 		},
 		resource = {
 			{
 				count = 1,
-				text = "Elimine Fenrir 1 vez"
+				text = "Derrota a Fenrir una vez"
 			}
 		},
 		reward = {},
@@ -3429,13 +3425,13 @@ achievement_tbl = {
 		minor = 0,
 		title = "Gladiador del Coliseo",
 		content = {
-			details = "Complete a instância",
-			summary = "Elimine Fenrir"
+			details = "Concluye la Mazmorra del Recuerdo",
+			summary = "Derrota a Fenrir"
 		},
 		resource = {
 			{
 				count = 10,
-				text = "Elimine Fenrir 10 vezes"
+				text = "Derrota a Fenrir 10 veces"
 			}
 		},
 		reward = {},
@@ -3448,13 +3444,13 @@ achievement_tbl = {
 		minor = 0,
 		title = "Retador invencible",
 		content = {
-			details = "Complete a instância",
-			summary = "Elimine Fenrir"
+			details = "Concluye la Mazmorra del Recuerdo",
+			summary = "Derrota a Fenrir"
 		},
 		resource = {
 			{
 				count = 50,
-				text = "Elimine Fenrir 50 vezes"
+				text = "Derrota a Fenrir 50 veces"
 			}
 		},
 		reward = {},
@@ -3467,13 +3463,13 @@ achievement_tbl = {
 		minor = 0,
 		title = "Líder de los demonios",
 		content = {
-			details = "Complete a instância",
-			summary = "Elimine Naght Sieger"
+			details = "Concluye la Mazmorra del Recuerdo",
+			summary = "Derrota a Naght Sieger"
 		},
 		resource = {
 			{
 				count = 1,
-				text = "Elimine Naght Sieger 1 vez"
+				text = "Derrota a Naght Sieger una vez"
 			}
 		},
 		reward = {},
@@ -3486,13 +3482,13 @@ achievement_tbl = {
 		minor = 0,
 		title = "Escalador de escaleras",
 		content = {
-			details = "Complete a instância",
-			summary = "Elimine Naght Sieger"
+			details = "Concluye la Mazmorra del Recuerdo",
+			summary = "Derrota a Naght Sieger"
 		},
 		resource = {
 			{
 				count = 10,
-				text = "Elimine Naght Sieger 10 vezes"
+				text = "Derrota a Naght Sieger 10 veces"
 			}
 		},
 		reward = {},
@@ -3505,13 +3501,13 @@ achievement_tbl = {
 		minor = 0,
 		title = "Monarca de la Torre",
 		content = {
-			details = "Complete a instância",
-			summary = "Elimine Naght Sieger"
+			details = "Concluye la Mazmorra del Recuerdo",
+			summary = "Derrota a Naght Sieger"
 		},
 		resource = {
 			{
 				count = 50,
-				text = "Elimine Naght Sieger 50 vezes"
+				text = "Derrota a Naght Sieger 50 veces"
 			}
 		},
 		reward = {},
@@ -4318,32 +4314,32 @@ achievement_tbl = {
 		group = "CHATTING",
 		major = 4,
 		minor = 0,
-		title = "Parte da Realeza",
+		title = "Parte de la Realeza",
 		content = {
-			details = "Apresente-se para as 7 famílias reais.",
-			summary = "Visitar as 7 Famílias Reais"
+			details = "Preséntate a las siete Familias Reales.",
+			summary = "Visita las 7 Familias Reales"
 		},
 		resource = {
 			{
-				text = "Visite a Família Heine"
+				text = "Visita la familia Heines"
 			},
 			{
-				text = "Visite a Família Nerius"
+				text = "Visita la familia Nerius"
 			},
 			{
-				text = "Visite a Família Walter"
+				text = "Visita la familia Walther"
 			},
 			{
-				text = "Visite a Família Wigner"
+				text = "Visita la familia Wigner"
 			},
 			{
-				text = "Visite a Família Richard"
+				text = "Visita la familia Richard"
 			},
 			{
-				text = "Visite a Família Gaebolg"
+				text = "Visita la familia Gaeborg"
 			},
 			{
-				text = "Visite a Família Lugenburg"
+				text = "Visita a la familia Roegenburg"
 			}
 		},
 		reward = {title = 1034},
@@ -4356,12 +4352,12 @@ achievement_tbl = {
 		minor = 0,
 		title = "Música armoniosa",
 		content = {
-			details = "Ouça uma música especial do Bardo Ornit no são do Banquete Real.",
-			summary = "Escute a Orquesta de Prontera"
+			details = "Escucha una música especial de Orint, el músico de la corte, durante el banquete real.",
+			summary = "Escucha la música secreta de Orint"
 		},
 		resource = {
 			{
-				text = "Escute a música secreta da Orquestra de Prontera"
+				text = "Escucha la música secreta de Orint"
 			}
 		},
 		reward = {},
@@ -6772,24 +6768,6 @@ achievement_tbl = {
 		},
 		score = 10
 	},
-	[130005] = {
-		UI_Type = 0,
-		group = "CHATTING",
-		major = 4,
-		minor = 0,
-		title = "Hacedor de Reyes",
-		content = {
-			details = "Regain the glory of Terra Gloria and crown the one who was at the vanguard.",
-			summary = "The king I crowned myself"
-		},
-		resource = {
-			{
-				text = "Participate in the coronation of the new king of Rune-Midgarts Kingdom."
-			}
-		},
-		reward = {title = 1046},
-		score = 10
-	},
 	[200035] = {
 		UI_Type = 0,
 		group = "GOAL_LEVEL",
@@ -7023,12 +7001,12 @@ achievement_tbl = {
 		minor = 0,
 		title = "Creador de Reyes",
 		content = {
-			summary = "Mi Rey Creado por M?",
-			details = "Restaura la gloria de Terra Gloria y corona al h?roe que la reclam?."
+			summary = "Mi Rey Creado por Mí",
+			details = "Restaura la gloria de Terra Gloria y corona al héroe que la reclamó."
 		},
 		resource = {
 			[1] = {
-				text = "Asiste a la coronaci?n del nuevo Rey de Rune-Midgarts."
+				text = "Ve a la coronación del rey de Rune-Midgard."
 			}
 		},
 		reward = {title = 1046},

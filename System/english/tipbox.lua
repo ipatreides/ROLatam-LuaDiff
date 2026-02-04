@@ -1789,6 +1789,60 @@ Mirko asks you to gather 20 Recognition Shells.
 	<TIPBOX>Back to Previous Page<INFO>9093</INFO></TIPBOX>
 	<TIPBOX>View Tip List<INFO>1000</INFO></TIPBOX>]]
 		}
+	},
+	[9093] = {
+		Title = "Illusion of Underwater",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Investigate the suspicious events in the Illusion of Underwater.\n\t\t\t^663399» Level 140 or higher^000000\n\t\t\t\n\t\t\t<NAVI>[Izlude]<INFO>izlude,132,49,0,101,0</INFO></NAVI>\n\t\t\t\n\t\t\t» Main Quest Chain\n\t\t\t<TIPBOX>Q Illusion of Underwater 100 Monster Hunt (180)<INFO>9134</INFO></TIPBOX>\n\t\t\t\n\t\t\t» Daily Quests\n\t\t\t<TIPBOX>Q Sample of Essences (140)<INFO>9122</INFO></TIPBOX>\n\t\t\t<TIPBOX>Q Creature Control (140)<INFO>9123</INFO></TIPBOX>\n\t\t\t<TIPBOX>Q Fish Control (180)<INFO>9124</INFO></TIPBOX>\n\t\t\t<TIPBOX>Q Species Control (180)<INFO>9125</INFO></TIPBOX>\n\t\t\t\t\t\n\t\t\tAfter completing the Illusion of Underwater, you can craft powerful equipment with <ITEM>[Illusion Stones]<INFO>25271</INFO></ITEM>.\n\t\t\tYou need to upgrade the equipment to +9.\n\t\t\t^663399» Crafting Materials^000000\n\t\t\t» <NAVI>[Underwater Tunnel]<INFO>iz_d04_i,134,228,0,101,0</INFO></NAVI>\n\t\t\tØ <ITEM>[Illusion Electric Eel [2]]<INFO>580008</INFO></ITEM>\n\t\t\t+9 <ITEM>[Electric Eel [2]]<INFO>1972</INFO></ITEM>, 150x <ITEM>[Abysmal Starfish]<INFO>25895</INFO></ITEM>, 120x <ITEM>[Illusion Stone]<INFO>25271</INFO></ITEM>\n\t\t\tØ <ITEM>[Illusion Electric Guitar [2]]<INFO>570008</INFO></ITEM>\n\t\t\t+9<ITEM>[Electric Guitar]<INFO>1913</INFO></ITEM>, 150x <ITEM>[Abysmal Starfish]<INFO>25895</INFO></ITEM>, 120x <ITEM>[Illusion Stone]<INFO>25271</INFO></ITEM>\n\t\t\tØ <ITEM>[Illusion Brionac [2]]<INFO>630006</INFO></ITEM>\n\t\t\t+9 <ITEM>[Brionac]<INFO>1470</INFO></ITEM>, 150x <ITEM>[Abysmal Fish Tail]<INFO>25893</INFO></ITEM>, 120x <ITEM>[Illusion Stone]<INFO>25271</INFO></ITEM>\n\t\t\tØ <ITEM>[Illusion Katar of Frozen Icicle]<INFO>610012</INFO></ITEM>\n\t\t\t+9 <ITEM>Katar of Frozen Icicle [3]]<INFO>1275</INFO></ITEM>, 150x <ITEM>[Abysmal Crab]<INFO>25896</INFO></ITEM>, 120x <ITEM>[Illusion Stone]<INFO>25271</INFO></ITEM>\n\t\t\tØ <ITEM>[Illusion Death Guidance [2]]<INFO>600011</INFO></ITEM>\n\t\t\t+9 <ITEM>[Death Guidance [2]]<INFO>1186</INFO></ITEM>, 150x <ITEM>[Rotten Abysmal Fish]<INFO>25894</INFO></ITEM>, 120x <ITEM>[Illusion Stone]<INFO>25271</INFO></ITEM>\n\t\t\tØ <ITEM>[Illusion Zephyrus [2]]<INFO>630007</INFO></ITEM>\n\t\t\t+9 <ITEM>[Zephyrus [3]]<INFO>1481</INFO></ITEM>, 150x <ITEM>[Abysmal Sea Shell]<INFO>25892</INFO></ITEM>, 120x <ITEM>[Illusion Stone]<INFO>25271</INFO></ITEM>\n\t\t\tØ <ITEM>[Illusion Saint Robe [1]]<INFO>450144</INFO></ITEM>\n\t\t\t+9 <ITEM>[Saint Robe [1]]<INFO>2326</INFO></ITEM>, 100x <ITEM>[Abysmal Fish Tail]<INFO>25893</INFO></ITEM>, 20x <ITEM>[Abysmal Essence]<INFO>25899</INFO></ITEM>, 90x <ITEM>[Illusion Stone]<INFO>25271</INFO></ITEM>\n\t\t\tØ <ITEM>[Illusion Saphien's Armor of Ocean [1]]<INFO>450145</INFO></ITEM>\n\t\t\t+9 <ITEM>[Saphien's Armor of Ocean]<INFO>2347</INFO></ITEM>, 100x <ITEM>[Abysmal Crab]<INFO>25896</INFO></ITEM>, 20x <ITEM>[Abysmal Essence]<INFO>25899</INFO></ITEM>, 90x <ITEM>[Illusion Stone]<INFO>25271</INFO></ITEM>\n\t\t\tØ <ITEM>[Illusion Chain Mail [1]]<INFO>450146</INFO></ITEM>\n\t\t\t+9 <ITEM>[Chain Mail [1]]<INFO>2315</INFO></ITEM>, 100x <ITEM>[Abysmal Starfish]<INFO>25895</INFO></ITEM>, 20x <ITEM>[Abysmal Essence]<INFO>25899</INFO></ITEM>, 90x <ITEM>[Illusion Stone]<INFO>25271</INFO></ITEM>\n\t\t\tØ <ITEM>[Illusion Morrigane's Helm [1]]<INFO>400053</INFO></ITEM>\n\t\t\t+9 <ITEM>[Morrigane's Helm]<INFO>5127</INFO></ITEM>, 100x <ITEM>[Abysmal Crab]<INFO>25896</INFO></ITEM>, 50x <ITEM>[Abysmal Essence]<INFO>25899</INFO></ITEM>, 100x <ITEM>[Illusion Stone]<INFO>25271</INFO></ITEM>\n\t\t\tØ <ITEM>[Illusion Morigane Manteau [1]]<INFO>480054</INFO></ITEM>\n\t\t\t+9 <ITEM>[Morigane Manteau]<INFO>2519</INFO></ITEM>, 100x <ITEM>[Rotten Abysmal Fish]<INFO>25894</INFO></ITEM>, 50x <ITEM>[Abysmal Essence]<INFO>25899</INFO></ITEM>, 100x <ITEM>[Illusion Stone]<INFO>25271</INFO></ITEM>\n\t\t\tØ <ITEM>[Illusion Morrigane's Belt [1]]<INFO>490069</INFO></ITEM>\n\t\t\t<ITEM>[Morrigane's Belt]<INFO>2650</INFO></ITEM>, 100x <ITEM>[Abysmal Fish Tail]<INFO>25893</INFO></ITEM>, 15x <ITEM>[Abysmal Kraken Tentacle]<INFO>7324</INFO></ITEM>, 50x <ITEM>[Abysmal Essence]<INFO>25899</INFO></ITEM>, 100x <ITEM>[Illusion Stone]<INFO>25271</INFO></ITEM>\n\t\t\tØ <ITEM>[Illusion Morrigane's Pendant]<INFO>490070</INFO></ITEM>\n\t\t\t<ITEM>[Morrigane's Pendant]<INFO>2651</INFO></ITEM>, 100x <ITEM>[Abysmal Sea Shell]<INFO>25892</INFO></ITEM>, 15x <ITEM>[Abysmal Witch's Crown]<INFO>25897</INFO></ITEM>, 50x <ITEM>[Abysmal Essence]<INFO>25899</INFO></ITEM>, 100x <ITEM>[Illusion Stone]<INFO>25271</INFO></ITEM>\n\n\t\t\t<TIPBOX>» Main Quest Line<INFO>9085</INFO></TIPBOX>\n\t\t\t<TIPBOX>» Beginner's Guide<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[9122] = {
+		Title = "Q Sample of Essences (140)",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Collect 10 Abysmal Essence from the monsters in the Underwater Tunnel.\n\t\n\t\t\t<NAVI>[Underwater Tunnel]<INFO>iz_d04_i,127,228,0,101,0</INFO></NAVI>\n\n\t<TIPBOX>» Illusion of Underwater<INFO>9093</INFO></TIPBOX> Prerequisite\n\t^663399» Level 140 or higher^000000\n\n\t<TIPBOX>» Main Quest Line<INFO>9093</INFO></TIPBOX>\n\t<TIPBOX>» Beginner's Guide<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[9123] = {
+		Title = "Q Creature Control (140)",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Hunt a total of 10 Abysmal Sropho, Abysmal Deviace and Abysmal Marse from the monsters in the Underwater Tunnel.\n\t\n\t\t\t<NAVI>[Underwater Tunnel]<INFO>iz_d04_i,127,228,0,101,0</INFO></NAVI>\n\n\t<TIPBOX>» Illusion of Underwater<INFO>9093</INFO></TIPBOX> \n\tPrerequisite:\n\t^663399» Level 140 or higher^000000\n\n\t<TIPBOX>» Main Quest Line<INFO>9093</INFO></TIPBOX>\n\t<TIPBOX>» Beginner's Guide<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[9124] = {
+		Title = "Q Fish Control (180)",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Hunt a total of 10 Abysmal Swordfish, Abysmal Phen and Abysmal King Dramoh from the monsters in the Underwater Tunnel.\n\t\n\t\t\t<NAVI>[Underwater Tunnel]<INFO>iz_d05_i,138,186,0,101,0</INFO></NAVI>\n\n\t<TIPBOX>» Illusion of Underwater<INFO>9093</INFO></TIPBOX> \n\tPrerequisite:\n\t^663399» Level 180 or higher^000000\n\n\t<TIPBOX>» Main Quest Line<INFO>9093</INFO></TIPBOX>\n\t<TIPBOX>» Beginner's Guide<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[9125] = {
+		Title = "Q Species Control (180)",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Hunt a total of 15 Abysmal Sedora and Abysmal Strouf from the monsters in the Underwater Tunnel.\n\t\n\t\t\t<NAVI>[Underwater Tunnel]<INFO>iz_d05_i,138,186,0,101,0</INFO></NAVI>\n\n\t<TIPBOX>» Illusion of Underwater<INFO>9093</INFO></TIPBOX> \n\tPrerequisite:\n\t^663399» Level 180 or higher^000000\n\n\t<TIPBOX>» Main Quest Line<INFO>9093</INFO></TIPBOX>\n\t<TIPBOX>» Beginner's Guide<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[9134] = {
+		Title = "Q Underwater Investigation (180)",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Defeat the in the Underwater Tunnel and report back to the guard.\n\t\t\tHunt 100 monsters in the Illusion of Underwater to prove your strength and receive your reward.\n\t\n\t\t\t<NAVI>[Temple Guard]<INFO>iz_d04_i,127,224,0,101,0</INFO></NAVI>\n\t\t\t\n\t\t\t^663399» Level 180 or higher^000000\n\n\t<TIPBOX>» Main Quest Line<INFO>9093</INFO></TIPBOX>\n\t<TIPBOX>» Beginner's Guide<INFO>1000</INFO></TIPBOX>"
+		}
 	}
 }
 function main()

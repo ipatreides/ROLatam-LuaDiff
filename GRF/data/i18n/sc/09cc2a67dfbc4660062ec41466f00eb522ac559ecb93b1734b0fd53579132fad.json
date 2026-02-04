@@ -537,7 +537,7 @@
     "y8cyCg": {
         "en": "[Boya]\nTo register in the Eden Group ask Lime Evenor who is next to me.",
         "pt": "[Boya]\nPara se registrar na Grupo Edén, peça a Lenore, que está ao meu lado.",
-        "es": "[Boya]\nSi quieres inscribirte en el Grupo de Edén, habla con Lime Evenor, que está a mi lado."
+        "es": "[Boya]\nSi quieres inscribirte en el Grupo del Edén, habla con Lime Evenor, que está a mi lado."
     },
     "zMcyCg": {
         "en": "Talking Dog",
@@ -552,7 +552,7 @@
     "zscyCg": {
         "en": "[Talking Dog]\nWhat's up?\nYou are\na member of the Paradise Team.\nDid you come to give some food?? I don't like dry food.",
         "pt": "[Mutt]\nE aí?\nVocê é\num membro da Grupo Edén.\nVocê veio dar comida?? Não gosto de comida seca.",
-        "es": "[Perro que habla]\n¿Qué sucede?\nEres\nmiembro del Grupo de Edén.\n¿Viniste a darme de comer? No me gusta la comida seca."
+        "es": "[Perro que habla]\n¿Qué sucede?\nEres\nmiembro del Grupo del Edén.\n¿Viniste a darme de comer? No me gusta la comida seca."
     },
     "z8cyCg": {
         "en": "dear boya is really great.",
@@ -707,7 +707,7 @@
     "7ccyCg": {
         "en": "[Talking Dog]\nGo back to the para team office and show it to the flashing lun knight.\nLet me just say again ,you are great!\nahooooohooo",
         "pt": "[Mutt]\nVolte para o escritório da Eden Group e mostre para a Cavaleira Rúnica Relâmpago.\nVou dizer novamente, você é incrível!\nahooooohooo",
-        "es": "[Perro que habla]\nVuelve a la oficina del Grupo de Edén y enséñaselo a la caballera más rápida.\nPermíteme repetirlo, ¡eres genial!\n*¡Ajuuu!*"
+        "es": "[Perro que habla]\nVuelve a la oficina del Grupo del Edén y enséñaselo a la caballera más rápida.\nPermíteme repetirlo, ¡eres genial!\n*¡Ajuuu!*"
     },
     "7scyCg": {
         "en": "[Talking Dog]\nLet's remove just 5 scorpions.\nIf so, we can make peace in this oasis.",
@@ -727,7 +727,7 @@
     "8ccyCg": {
         "en": "[Talking Dog]\nEveryone will have good memories with the paradise team.\nOh, if you tired, I will help you.",
         "pt": "[Mutt]\nTodos terão boas lembranças da Grupo Edén.\nOh, se você estiver cansado, eu o ajudarei.",
-        "es": "[Perro que habla]\nTodos tendrán buenos recuerdos del Grupo de Edén.\nAh, si te cansas, te ayudaré."
+        "es": "[Perro que habla]\nTodos tendrán buenos recuerdos del Grupo del Edén.\nAh, si te cansas, te ayudaré."
     },
     "8scyCg": {
         "en": "[Talking Dog]\nkkkkkaaaaauuuunnng.\noopssss kup..",
@@ -747,7 +747,7 @@
     "9ccyCg": {
         "en": "[Talking Dog]\nthe Paradise team is cool, a really good team.\nThey accept the wandering, talking dog.\nTake care and good job.",
         "pt": "[Mutt]\nA Grupo Edén é legal, uma equipe muito boa.\nEles aceitam o cão errante que fala.\nSe cuida e bom trabalho.",
-        "es": "[Perro que habla]\nEl Grupo de Edén es genial, es un excelente equipo.\nAceptan al perro errante que habla.\n¡Bien hecho! Cuídate."
+        "es": "[Perro que habla]\nEl Grupo del Edén es genial, es un excelente equipo.\nAceptan al perro errante que habla.\n¡Bien hecho! Cuídate."
     },
     "9scyCg": {
         "en": "[Talking Dog]\nHey look.\nI'm a talking dog.\nNot a wolf.\nOriginally I wasn't a dog...",
@@ -757,7 +757,7 @@
     "98cyCg": {
         "en": "[Talking Dog]\nAnyway are you one of the paradise team members?\nOh, good to see you.\nI am also a member of the paradise team.\nTake care and good job.",
         "pt": "[Mutt]\nEnfim, você é um dos membros da Grupo Edén?\nAh, que bom ver você.\nTambém sou membro da Grupo Edén.\nCuide-se e bom trabalho.",
-        "es": "[Perro que habla]\nEn fin, ¿eres miembro del Grupo de Edén?\nAh, me alegro de verte.\nYo también soy miembro del Grupo de Edén.\n¡Bien hecho! Cuídate."
+        "es": "[Perro que habla]\nEn fin, ¿eres miembro del Grupo del Edén?\nAh, me alegro de verte.\nYo también soy miembro del Grupo del Edén.\n¡Bien hecho! Cuídate."
     },
     "+McyCg": {
         "en": "[Talking Dog]\nWhy are you looking me mysteriously?\n.....",
@@ -932,7 +932,7 @@
     "GsgyCg": {
         "en": "[Timid Cat]\nDo you know how to go to the Para team office??\nProntera is the closest city to here.\nGo to Prontera and find a officer.",
         "pt": "[Gato tímido]\nVocê sabe como chegar ao escritório da Eden Group?\nProntera é a cidade mais próxima daqui.\nVá para Prontera e encontre um oficial.",
-        "es": "[Gato temeroso]\n¿Sabes cómo ir a la oficina del Grupo de Edén?\nProntera es la ciudad más cercana.\nVe a Prontera y busca a un oficial."
+        "es": "[Gato temeroso]\n¿Sabes cómo ir a la oficina del Grupo del Edén?\nProntera es la ciudad más cercana.\nVe a Prontera y busca a un oficial."
     },
     "G8gyCg": {
         "en": "[Timid Cat]\nFamiliar is really scary man,\nhe appears by flying.",
@@ -947,7 +947,7 @@
     "HcgyCg": {
         "en": "[Timid Cat]\nYou already conquered the underground waterway.\nNow just go back to the Para office to report to Boya.",
         "pt": "[Gato tímido]\nVocê já conquistou o canal subterrâneo.\nAgora é só voltar ao escritório do Para pra se apresentar a Boya.",
-        "es": "[Gato temeroso]\nYa conquistaste el canal subterráneo.\nAhora, vuelve a la oficina del Grupo de Edén para informar a Boya."
+        "es": "[Gato temeroso]\nYa conquistaste el canal subterráneo.\nAhora, vuelve a la oficina del Grupo del Edén para informar a Boya."
     },
     "HsgyCg": {
         "en": "[Timid Cat]\nBoya might eat my tuna while he is waiting for you...",
@@ -957,7 +957,7 @@
     "H8gyCg": {
         "en": "[Timid Cat]\nHow are you, meeew?\nDid you volunteer to conquer underground waterway?\nSurely you are member of the Para team?\nYou are helping the world to be a better place.",
         "pt": "[Gato tímido]\nComo você está, miaau?\nVocê se voluntariou para conquistar o canal subterrâneo?\nCerteza que você é membro do Eden Group?\nVocê está ajudando o mundo a ser um lugar melhor.",
-        "es": "[Gato temeroso]\n¿Cómo estás? Miaaa.\n¿Te ofreciste para conquistar el canal subterráneo?\n¿Seguro que eres miembro del Grupo de Edén?\nEstás ayudando a que el mundo sea un lugar mejor."
+        "es": "[Gato temeroso]\n¿Cómo estás? Miaaa.\n¿Te ofreciste para conquistar el canal subterráneo?\n¿Seguro que eres miembro del Grupo del Edén?\nEstás ayudando a que el mundo sea un lugar mejor."
     },
     "IMgyCg": {
         "en": "Coral of parateam",
@@ -1087,7 +1087,7 @@
     "OcgyCg": {
         "en": "[Coral]\nI already let Boya know in the Para office.\nIf you go there he will give you a big welcome.",
         "pt": "[Coral]\nJá avisei a Boya no escritório do Eden Group.\nSe você for até lá, ele lhe dará as boas-vindas.",
-        "es": "[Coral]\nYa se lo hice saber a Boya en la oficina del Grupo de Edén.\nSi vas allí, te dará una gran bienvenida."
+        "es": "[Coral]\nYa se lo hice saber a Boya en la oficina del Grupo del Edén.\nSi vas allí, te dará una gran bienvenida."
     },
     "OsgyCg": {
         "en": "[Coral]\nYou will get a new uniform, aren't you excited?\nhahaha.",
@@ -1097,7 +1097,7 @@
     "O8gyCg": {
         "en": "[Coral]\nGet rid of undead??\nDo your best to make the world safer.\nIt's one of goals of the Para team.",
         "pt": "[Coral]\nLivrar-se dos mortos-vivos??\nFaça seu melhor para tornar o mundo mais seguro.\nEssa é uma das metas do Eden Group.",
-        "es": "[Coral]\n¿Eliminar a los Muertos vivientes?\nHaz todo lo posible para que el mundo sea más seguro.\nEs uno de los objetivos del Grupo de Edén."
+        "es": "[Coral]\n¿Eliminar a los Muertos vivientes?\nHaz todo lo posible para que el mundo sea más seguro.\nEs uno de los objetivos del Grupo del Edén."
     },
     "PMgyCg": {
         "en": "Parateam Clod",
@@ -1282,12 +1282,12 @@
     "YMgyCg": {
         "en": "[Clod]\nGo back to the office and report that you completed the job, hurry up.\nYou will get good news.\nPara team uniform is pretty well manufactured.",
         "pt": "[Clod]\nVolte ao escritório e reporte que você concluiu o trabalho, vá logo.\nVocê receberá boas notícias.\nO uniforme da Eden Group é muito bem fabricado.",
-        "es": "[Clod]\nVuelve a la oficina e informa que completaste el trabajo, date prisa.\nRecibirás buenas noticias.\nEl uniforme del Grupo de Edén es de muy buena calidad."
+        "es": "[Clod]\nVuelve a la oficina e informa que completaste el trabajo, date prisa.\nRecibirás buenas noticias.\nEl uniforme del Grupo del Edén es de muy buena calidad."
     },
     "YcgyCg": {
         "en": "[Clod]\nI am really proud of myself and my Para team.\nGoes well with the uniform?\nHaha.",
         "pt": "[Clod]\nEstou muito orgulhoso de mim mesmo e da minha Eden Group.\nO uniforme está combinando?\nHaha.",
-        "es": "[Clod]\nEstoy muy orgulloso de mí mismo y de mi Grupo de Edén.\n¿Va bien con el uniforme?\nJa, ja."
+        "es": "[Clod]\nEstoy muy orgulloso de mí mismo y de mi Grupo del Edén.\n¿Va bien con el uniforme?\nJa, ja."
     },
     "YsgyCg": {
         "en": "Parateam Hooksha",
@@ -1312,7 +1312,7 @@
     "ZsgyCg": {
         "en": "[Hooksha]\nWhy don't you join in my team?\nPara team.\nif you have anything interesting, find them.\nYou won't regret it... hooowoo.",
         "pt": "[Hooksha]\nPor que não se junta à minha equipe?\nEden Group.\nSe você tiver algo interessante, encontre.\nVocê não vai se arrepender... hooowoo.",
-        "es": "[Hooksha]\n¿Por qué no te unes a mi equipo?\nEl Grupo de Edén.\nSi tienes algo interesante, encuéntralos.\nNo te arrepentirás… Iujuuu."
+        "es": "[Hooksha]\n¿Por qué no te unes a mi equipo?\nEl Grupo del Edén.\nSi tienes algo interesante, encuéntralos.\nNo te arrepentirás… Iujuuu."
     },
     "Z8gyCg": {
         "en": "[Hooksha]\nHello.\nAre you a trainee?\nHoho, I can recognize at once.\nbut is it alright?\ncan I start?",
@@ -1422,7 +1422,7 @@
     "fMgyCg": {
         "en": "[Hooksha]\nGo back to the Para office and report it.\nThey will give good news to you.",
         "pt": "[Hooksha]\nVolte ao escritório da Para e reporte.\nEles lhe darão boas notícias.",
-        "es": "[Hooksha]\nVuelve a la oficina del Grupo de Edén para informar esto.\nTe darán buenas noticias."
+        "es": "[Hooksha]\nVuelve a la oficina del Grupo del Edén para informar esto.\nTe darán buenas noticias."
     },
     "fcgyCg": {
         "en": "[Hooksha]\nOrc ladies are the final target.\nCheer up!! a little bit more!!.",
@@ -1687,7 +1687,7 @@
     "scgyCg": {
         "en": "[Mihael]\nCheck what you get.\nOne of Eden Group hats\nOne of Eden Group uniforms\nOne pair of Eden Group boots\nOne of Eden Group manteau\nTotally 4, that's all.",
         "pt": "[Mihael]\nCheque o que você recebeu.\nUm dos chapéus da Eden Group\nUm dos uniformes da Eden Group\nUm par de botas da Eden Group\nUm manteau da Eden Group\nSão 4, no total.",
-        "es": "[Mihael]\nRevisa lo que obtienes.\nUn Sombrero del Grupo de Edén.\nUn Uniforme del Grupo de Edén.\nUn par de Botas del Grupo de Edén.\nUn Manto del Edén.\nSon 4 objetos en total, eso es todo."
+        "es": "[Mihael]\nRevisa lo que obtienes.\nUn Sombrero del Grupo del Edén.\nUn Uniforme del Grupo del Edén.\nUn par de Botas del Grupo del Edén.\nUn Manto del Edén.\nSon 4 objetos en total, eso es todo."
     },
     "ssgyCg": {
         "en": "[Mihael]\nIs it correct?\nIt is manufactured for beginners so, doesn't have good effect BUT\nsurely better than cheaper equipment in the shop.",
@@ -1737,12 +1737,12 @@
     "u8gyCg": {
         "en": "[Mihael]\nYou chose the Foxtail of Eden I weapon.\nAdditionally there are Eden Group boots II and Uniform II.",
         "pt": "[Mihael]\nVocê escolheu a arma Cauda de Gato I do Grupo do Éden.\nAlém disso, há as Botas II da Eden Group e o Uniforme II.",
-        "es": "[Mihael]\nElegiste el arma Báculo de Cola de Gato I del Grupo de Edén.\nAdemás, hay Botas II y Uniforme II del Grupo de Edén."
+        "es": "[Mihael]\nElegiste el arma Báculo de Cola de Gato I del Grupo del Edén.\nAdemás, hay Botas II y Uniforme II del Grupo del Edén."
     },
     "vMgyCg": {
         "en": "[Mihael]\nYou don't have record what equipment you have got\nSo, I will give you the Eden Group manteau and hat too.",
         "pt": "[Mihael]\nVocê não tem registro do equipamento que tem\nEntão, eu lhe darei o chapéu e o manteau da Eden Group também.",
-        "es": "[Mihael]\nNo hace falta que registres el equipamiento que tienes.\nPor lo tanto, también te daré el Manto y el Sombrero del Grupo de Edén."
+        "es": "[Mihael]\nNo hace falta que registres el equipamiento que tienes.\nPor lo tanto, también te daré el Manto y el Sombrero del Grupo del Edén."
     },
     "vcgyCg": {
         "en": "[Mihael]\nCheck your equipment again and treat it usefully.",
@@ -1782,17 +1782,17 @@
     "xMgyCg": {
         "en": "[Mihael]\nYou choose the Sword of Eden I equipment...\nAdditionally there are Eden boots II and Uniform II.",
         "pt": "[Mihael]\nVocê escolheu a Espada do Éden I...\nTambém darei as Botas II e o Uniforme II do Éden.",
-        "es": "[Mihael]\nElegiste el equipamiento Exterminadora del Grupo de Edén I…\nAdemás, hay Botas II y Uniforme II del Grupo de Edén."
+        "es": "[Mihael]\nElegiste el equipamiento Exterminadora del Grupo del Edén I…\nAdemás, hay Botas II y Uniforme II del Grupo del Edén."
     },
     "xcgyCg": {
         "en": "[Mihael]\nYour weapon is Sabre of Eden I.\nAdditionally there are Eden boots II and Uniform II.",
         "pt": "[Mihael]\nA sua arma é o Sabre do Éden I.\nTambém darei as Botas II e o Uniforme II do Éden.",
-        "es": "[Mihael]\nTu arma es el Sable del Grupo de Edén I.\nAdemás, hay Botas II y Uniforme II del Grupo de Edén."
+        "es": "[Mihael]\nTu arma es el Sable del Grupo del Edén I.\nAdemás, hay Botas II y Uniforme II del Grupo del Edén."
     },
     "xsgyCg": {
         "en": "[Mihael]\nYour weapon is one of knife Dagger of Eden I.\nAdditionally there are Eden boots II and Uniform II.",
         "pt": "[Mihael]\nA sua arma é a Adaga do Éden I.\nTambém darei as Botas II e o Uniforme II do Éden.",
-        "es": "[Mihael]\nTu arma es una Daga del Edén I.\nAdemás, hay Botas II y Uniforme II del Grupo de Edén."
+        "es": "[Mihael]\nTu arma es una Daga del Edén I.\nAdemás, hay Botas II y Uniforme II del Grupo del Edén."
     },
     "x8gyCg": {
         "en": "[Mihael]\nPlease check all equipment and use it effectively.",
@@ -1832,12 +1832,12 @@
     "zsgyCg": {
         "en": "[Mihael]\nYou choose the Mace of Eden I.\nAdditionally there are Eden boots II and Uniform II.",
         "pt": "[Mihael]\nVocê escolheu a Maça do Éden I.\nTambém darei as Botas II e o Uniforme II do Éden.",
-        "es": "[Mihael]\nElegiste la Maza del Edén I.\nAdemás, hay Botas II y Uniforme II del Grupo de Edén."
+        "es": "[Mihael]\nElegiste la Maza del Edén I.\nAdemás, hay Botas II y Uniforme II del Grupo del Edén."
     },
     "z8gyCg": {
         "en": "[Mihael]\nI will give one bow Bow of Eden I.\nAdditionally there are Eden boots II and Uniform II.",
         "pt": "[Mihael]\nVou te dar o Arco do Éden I.\nTambém darei as Botas II e o Uniforme II do Éden.",
-        "es": "[Mihael]\nVoy a darte un Arco del Edén I.\nAdemás, hay Botas II y Uniforme II del Grupo de Edén."
+        "es": "[Mihael]\nVoy a darte un Arco del Edén I.\nAdemás, hay Botas II y Uniforme II del Grupo del Edén."
     },
     "0MgyCg": {
         "en": "[Mihael]\nBow, Uniform, Boots so, totally 3.\nPlease check it again.",
@@ -1862,7 +1862,7 @@
     "1MgyCg": {
         "en": "[Mihael]\nYou chose the Staff of Eden I.\nAdditionally there are Eden boots II and Uniform II.",
         "pt": "[Mihael]\nVocê escolheu o Cetro do Éden I .\nTambém darei as Botas II e o Uniforme II do Éden.",
-        "es": "[Mihael]\nElegiste el Cetro del Edén I.\nAdemás, hay Botas II y Uniform eII del Grupo de Edén."
+        "es": "[Mihael]\nElegiste el Cetro del Edén I.\nAdemás, hay Botas II y Uniform eII del Grupo del Edén."
     },
     "1cgyCg": {
         "en": "[Mihael]\nKnife, Uniform, Boots all 3 things.\nPlease check it again.",
@@ -1877,7 +1877,7 @@
     "18gyCg": {
         "en": "[Mihael]\nI will give Eden Revolver I weapon.\nAdditionally we have Eden Group boots II and Uniform II.",
         "pt": "[Mihael]\nVou te dar o Revólver do Éden I.\nAlém disso, temos as botas II e o Uniforme II do Grupo do Éden.",
-        "es": "[Mihael]\nTe daré un Revólver de Edén I.\nAdemás, tenemos Botas II y Uniforme II del Grupo de Edén."
+        "es": "[Mihael]\nTe daré un Revólver de Edén I.\nAdemás, tenemos Botas II y Uniforme II del Grupo del Edén."
     },
     "2MgyCg": {
         "en": "[Mihael]\nRevolver, Uniform, and Boots a total of 3 things.\nPlease check it again.",
@@ -1917,7 +1917,7 @@
     "38gyCg": {
         "en": "[Mihael]\nYou chose the P.Eden Group Foxtail Staff II weapon.\nAdditionally we have boots and uniform.",
         "pt": "[Mihael]\nVou te dar a Cauda do Éden II.\nAlém disso, há as Botas III e o Uniforme do Éden III.",
-        "es": "[Mihael]\nElegiste el arma Báculo de cola de zorro del Grupo de Edén II.\nAdemás, tenemos Botas y Uniforme."
+        "es": "[Mihael]\nElegiste el arma Báculo de cola de zorro del Grupo del Edén II.\nAdemás, tenemos Botas y Uniforme."
     },
     "4MgyCg": {
         "en": "[Mihael]\nWhat kind of equipment do you want?\nWe have slayer and sabre.\nHere are your options:",
@@ -2032,7 +2032,7 @@
     "9sgyCg": {
         "en": "[Mihael]\nYou mean upgraded equipment, right?.\nWe can upgrade only one hat from the Eden Group.",
         "pt": "[Mihael]\nVocê quer dizer equipamentos aprimorados, certo?\nPodemos aprimorar apenas um chapéu da Eden Group.",
-        "es": "[Mihael]\nTe refieres a los equipamientos mejorados, ¿verdad?\nSolo podemos mejorar un sombrero del Grupo de Edén."
+        "es": "[Mihael]\nTe refieres a los equipamientos mejorados, ¿verdad?\nSolo podemos mejorar un sombrero del Grupo del Edén."
     },
     "98gyCg": {
         "en": "[Mihael]\nWhich section do you want to upgrade?",
@@ -2462,7 +2462,7 @@
     "TMkyCg": {
         "en": "[Chef]\n............\nahah..hey even if I talk about useless things, don't look at me like that\nBut it's really true that three people established this Eden Group.",
         "pt": "[Cozinheira]\n............\nahah... ei, mesmo que eu fale sobre coisas inúteis, não olhe para mim desse jeito\nMas é verdade que três pessoas fundaram a Eden Group.",
-        "es": "[Chef]\n…………\nJa, ja… Oye, aunque hable de cosas inútiles, no me mires así.\nPero es verdad que tres personas crearon este Grupo de Edén."
+        "es": "[Chef]\n…………\nJa, ja… Oye, aunque hable de cosas inútiles, no me mires así.\nPero es verdad que tres personas crearon este Grupo del Edén."
     },
     "TckyCg": {
         "en": "[Chef]\nuh? request work.. did you find the right place?\nalso.. let me see... you are not my members. how can I give work?",

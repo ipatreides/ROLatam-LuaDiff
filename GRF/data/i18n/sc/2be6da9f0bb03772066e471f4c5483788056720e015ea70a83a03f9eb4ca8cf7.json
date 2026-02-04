@@ -12,7 +12,7 @@
     "Yr71CQ": {
         "en": "[Carocc]\nIn Izlude, there's an academy for adventurers,\nand recently, the ^4D4DFFEden Group^000000 has taken over its management.",
         "pt": "[Chobber]\nEm Izlude, há uma academia para aventureiros,\ne, recentemente, o ^4D4DFFGrupo do Éden^000000 assumiu sua administração.",
-        "es": "[Carocc]\nEn Izlude, hay una academia para aventureros,\ny recientemente, el ^4D4DFFGrupo Edén^000000 se ha hecho cargo de su gestión."
+        "es": "[Carocc]\nEn Izlude, hay una academia para aventureros,\ny recientemente, el ^4D4DFFGrupo del Edén^000000 se ha hecho cargo de su gestión."
     },
     "Y771CQ": {
         "en": "[Carocc]\nIf you don't know where to begin,\nI suggest you visit and register your adventurer status with the ^4D4DFFCriatura Academy^000000 first.",
@@ -172,7 +172,7 @@
     "gr71CQ": {
         "en": "[Hoon]\nRecently, the ^4D4DFFEden Group^000000 started actively supporting adventurers.\nIt's even taken over the Criatura Academy's management. It's a major player in town now.",
         "pt": "[Bartolomeu]\nRecentemente, o ^4D4DFFGrupo do Éden^000000 começou a apoiar ativamente os aventureiros.\nEle até assumiu a administração da Academia Criatura. Agora, é um dos principais atores da cidade.",
-        "es": "[Hoon]\nRecientemente, el ^4D4DFFGrupo Edén^000000 comenzó a apoyar activamente a los aventureros.\nIncluso se ha hecho cargo de la gestión de la Academia Criatura. Ahora es un jugador importante en la ciudad."
+        "es": "[Hoon]\nRecientemente, el ^4D4DFFGrupo del Edén^000000 comenzó a apoyar activamente a los aventureros.\nIncluso se ha hecho cargo de la gestión de la Academia Criatura. Ahora es un jugador importante en la ciudad."
     },
     "g771CQ": {
         "en": "[Hoon]\nMaybe we should call the Academy the Adventurer Guild, too.\nIf you haven't been in the Criatura Academy, you should.\nIt can be helpful for you.",
@@ -182,7 +182,7 @@
     "hL71CQ": {
         "en": "[Hoon]\nThe Criatura Academy is now being managed by the Eden Group, but nothing else has been changed.\nAnd thanks to its new management, the Academy can now support its adventurer students better than ever.",
         "pt": "[Bartolomeu]\nA Academia Criatura agora está sendo gerenciada pelo Grupo do Éden, mas nada mais foi alterado.\nE, graças à sua nova administração, a Academia agora pode apoiar seus alunos aventureiros melhor do que nunca.",
-        "es": "[Hoon]\nLa Academia Criatura está siendo gestionada ahora por el Grupo Edén, pero nada más ha cambiado.\nY gracias a su nueva gestión, la Academia puede ahora apoyar a sus estudiantes aventureros mejor que nunca."
+        "es": "[Hoon]\nLa Academia Criatura está siendo gestionada ahora por el Grupo del Edén, pero nada más ha cambiado.\nY gracias a su nueva gestión, la Academia puede ahora apoyar a sus estudiantes aventureros mejor que nunca."
     },
     "hb71CQ": {
         "en": "[Hoon]\nI'm glad for this change.",
@@ -202,7 +202,7 @@
     "iL71CQ": {
         "en": "[Sprakki]\nThis place is the Rune-Midgard Royal Criatura Academy, originally established to support a sudden influx of adventurers into the kingdom.\nRecently, the Eden Group has taken over its management to support adventurers in earnest.",
         "pt": "[Sprakki]\nEste lugar é a Academia Criatura de Rune-Midgard, originalmente criada para dar suporte a um súbito influxo de aventureiros no reino.\nRecentemente, o Grupo do Éden assumiu sua administração para dar suporte aos aventureiros de fato.",
-        "es": "[Sprakki]\nEste lugar es la Academia de criaturas real Rune-Midgard, establecida originalmente para apoyar una repentina afluencia de aventureros al reino.\nRecientemente, el Grupo Edén se ha hecho cargo de su gestión para apoyar a los aventureros en serio."
+        "es": "[Sprakki]\nEste lugar es la Academia de criaturas real Rune-Midgard, establecida originalmente para apoyar una repentina afluencia de aventureros al reino.\nRecientemente, el Grupo del Edén se ha hecho cargo de su gestión para apoyar a los aventureros en serio."
     },
     "ib71CQ": {
         "en": "[Sprakki]\nThe more experienced adventurers, the better the future of our kingdom and the rest of the Midgard continent.",
@@ -227,7 +227,7 @@
     "jb71CQ": {
         "en": "[Sprakki]\nHello, {0}.\nI don't think I've seen you before.\nHave you heard the news? The Eden Group is now in charge of the management of this Criatura Academy.",
         "pt": "[Sprakki]\nOlá, {0}.\nAcho que nunca o vi antes.\nVocê já ouviu as notícias? O Grupo do Éden está agora encarregado da administração da Academia Criatura.",
-        "es": "[Sprakki]\nHola, {0}.\nCreo que no te había visto antes.\n¿Has oído las noticias? El Grupo Edén está ahora a cargo de la gestión de esta Academia de criaturas."
+        "es": "[Sprakki]\nHola, {0}.\nCreo que no te había visto antes.\n¿Has oído las noticias? El Grupo del Edén está ahora a cargo de la gestión de esta Academia de criaturas."
     },
     "jr71CQ": {
         "en": "[Sprakki]\nThrough this merge, the Academy has been reborn as the Adventurer Guild.\nNothing much has been changed, but now, you can also receive various requests through the Academy.",
@@ -277,12 +277,12 @@
     "l771CQ": {
         "en": "[Sprakki]\nHe specially came from the Eden Group office to see you today, {0}.\nHe has something important to tell you. Please talk to him.",
         "pt": "[Sprakki]\nEle veio especialmente do escritório do Grupo do Éden para vê-lo hoje, {0}.\nEle tem algo importante para lhe dizer. Por favor, fale com ele.",
-        "es": "[Sprakki]\nHa venido especialmente de la oficina del Grupo Edén para verte hoy, {0}.\nTiene algo importante que decirte. Por favor, habla con él."
+        "es": "[Sprakki]\nHa venido especialmente de la oficina del Grupo del Edén para verte hoy, {0}.\nTiene algo importante que decirte. Por favor, habla con él."
     },
     "mL71CQ": {
         "en": "[Sprakki]\nYou've changed your job and joined the Eden Group as well.\nNow, are you ready to accept requests from the Eden Group?",
         "pt": "[Sprakki]\nVocê mudou de classe e também entrou para o Grupo do Éden.\nAgora, você está pronto para aceitar solicitações do Grupo do Éden?",
-        "es": "[Sprakki]\nHas cambiado de clase y también te has unido al Grupo Edén.\nAhora, ¿estás listo para aceptar solicitudes del Grupo Edén?"
+        "es": "[Sprakki]\nHas cambiado de clase y también te has unido al Grupo del Edén.\nAhora, ¿estás listo para aceptar solicitudes del Grupo del Edén?"
     },
     "mb71CQ": {
         "en": "[Sprakki]\nOr maybe you already have.\nBut if you haven't, I've selected some requests just for you, {0}.\nWant to take a look?",
@@ -377,12 +377,12 @@
     "q771CQ": {
         "en": "[Sprakki]\nI've heard you successfully investigated the Poring Village.\nThe Eden Group will reward you accordingly.",
         "pt": "[Sprakki]\nOuvi dizer que você investigou com sucesso a Vila Poring.\nO Grupo do Éden o recompensará de acordo.",
-        "es": "[Sprakki]\nHe oído que has investigado con éxito la Aldea Poring.\nEl Grupo Edén te recompensará en consecuencia."
+        "es": "[Sprakki]\nHe oído que has investigado con éxito la Aldea Poring.\nEl Grupo del Edén te recompensará en consecuencia."
     },
     "rL71CQ": {
         "en": "[Alquien]\nAre you the famous adventurer I've heard about?\nNice to meet you.\nI'm Alquien, the leader of the Eden Group.",
         "pt": "[Alquien]\nVocê é o famoso aventureiro de que ouvi falar?\nPrazer em te conhecer.\nSou Alquien, o líder do Grupo do Éden.",
-        "es": "[Alquien]\n¿Eres el famoso aventurero del que he oído hablar?\nEncantado de conocerte.\nSoy Alquien, el líder del Grupo Edén."
+        "es": "[Alquien]\n¿Eres el famoso aventurero del que he oído hablar?\nEncantado de conocerte.\nSoy Alquien, el líder del Grupo del Edén."
     },
     "rb71CQ": {
         "en": "[Alquien]\nI've heard you've been very helpful to the Group.\nI look forward to hearing more great things about you.",
@@ -392,7 +392,7 @@
     "rr71CQ": {
         "en": "[Alquien]\nFrom now on, you should pick up requests on your own in different cities as well ad through the Eden Group office.",
         "pt": "[Alquien]\nDe agora em diante, você deve pegar os pedidos por conta própria em diferentes cidades, bem como por meio do escritório do Grupo do Éden.",
-        "es": "[Alquien]\nA partir de ahora, deberás recoger las solicitudes por tu cuenta en diferentes ciudades, así como a través de la oficina del Grupo Edén."
+        "es": "[Alquien]\nA partir de ahora, deberás recoger las solicitudes por tu cuenta en diferentes ciudades, así como a través de la oficina del Grupo del Edén."
     },
     "r771CQ": {
         "en": "[Alquien]\nUsing our agency service is convenient, but it's better you talk to your clients and help them in person.",
@@ -457,7 +457,7 @@
     "u771CQ": {
         "en": "[Sprakki]\nWelcome to the old Royal Criatura Academy that's been merged with the ^4D4DFFEden Group^000000.\nIt's now called the Eden Group Adventurer Guild.\nHow may I help you today?",
         "pt": "[Sprakki]\nBem-vindo à antiga Academia Criatura que foi fundida com o ^4D4DFFGrupo do Éden^000000.\nAgora ela se chama Guilda de Aventureiros do Grupo do Éden.\nComo posso ajudá-lo hoje?",
-        "es": "[Sprakki]\nBienvenido a la antigua Academia Real Criatura que se ha fusionado con el ^4D4DFFGrupo Edén^000000.\nAhora se llama Gremio de Aventureros del Grupo Edén.\n¿En qué puedo ayudarle hoy?"
+        "es": "[Sprakki]\nBienvenido a la antigua Academia Real Criatura que se ha fusionado con el ^4D4DFFGrupo del Edén^000000.\nAhora se llama Gremio de Aventureros del Grupo del Edén.\n¿En qué puedo ayudarle hoy?"
     },
     "vL71CQ": {
         "en": "I want to change my job.",
@@ -472,7 +472,7 @@
     "vr71CQ": {
         "en": "What's the Eden Group?",
         "pt": "O que é o Grupo do Éden?",
-        "es": "¿Qué es el Grupo Edén?"
+        "es": "¿Qué es el Grupo del Edén?"
     },
     "v771CQ": {
         "en": "[Sprakki]\nSure, if you're a Novice, you can directly change to one of ^4D4DFF6 1st jobs^000000",
@@ -582,27 +582,27 @@
     "1L71CQ": {
         "en": "[Sprakki]\nIt still is. It just has been merged with the Eden Group for better management\nand to also serve as an adventurer guild.",
         "pt": "[Sprakki]\nAinda é. Apenas foi fundida com o Grupo do Éden para melhor gerenciamento\ne para servir também como uma guilda de aventureiros.",
-        "es": "[Sprakki]\nSigue siéndolo. Sólo se ha fusionado con el Grupo Edén para una mejor gestión\ny para servir también como gremio de aventureros."
+        "es": "[Sprakki]\nSigue siéndolo. Sólo se ha fusionado con el Grupo del Edén para una mejor gestión\ny para servir también como gremio de aventureros."
     },
     "1b71CQ": {
         "en": "[Sprakki]\nWe need you beginning adventurers to grow quickly, so you can take care of many requests for the Eden Group.\nThat's why we're investing in you.\nSo, keep up the good work training.",
         "pt": "[Sprakki]\nPrecisamos que vocês, aventureiros iniciantes, cresçam rapidamente, para que possam atender a muitas solicitações do Grupo do Éden.\nÉ por isso que estamos investindo em vocês.\nPortanto, continuem com o bom trabalho no treinamento.",
-        "es": "[Sprakki]\nNecesitamos que los aventureros principiantes crezcan rápidamente, para que puedan atender muchas peticiones del Grupo Edén.\nPor eso estamos invirtiendo en ustedes.\nAsí que sigan entrenando."
+        "es": "[Sprakki]\nNecesitamos que los aventureros principiantes crezcan rápidamente, para que puedan atender muchas peticiones del Grupo del Edén.\nPor eso estamos invirtiendo en ustedes.\nAsí que sigan entrenando."
     },
     "1r71CQ": {
         "en": "[Sprakki]\nThe Eden Group is basically a request agency.\nIt accepts requests from various cities and villages and distribute them among its adventurer members.",
         "pt": "[Sprakki]\nO Grupo do Éden é basicamente uma agência de solicitações.\nEle aceita solicitações de várias cidades e vilarejos e as distribui entre seus membros aventureiros.",
-        "es": "[Sprakki]\nEl Grupo Edén es básicamente una agencia de peticiones.\nAcepta peticiones de varias ciudades y pueblos y las distribuye entre sus miembros aventureros."
+        "es": "[Sprakki]\nEl Grupo del Edén es básicamente una agencia de peticiones.\nAcepta peticiones de varias ciudades y pueblos y las distribuye entre sus miembros aventureros."
     },
     "1771CQ": {
         "en": "[Sprakki]\nIt uses its proceeds from agency fees to run side businesses and host social activities.\nThis is why the Eden Group values its adventurer members.",
         "pt": "[Sprakki]\nEle usa a receita das taxas de agência para administrar negócios paralelos e realizar atividades sociais.\nÉ por isso que o Grupo do Éden valoriza seus membros aventureiros.",
-        "es": "[Sprakki]\nUtiliza sus ingresos procedentes de las cuotas de agencia para gestionar negocios paralelos y organizar actividades sociales.\nPor eso el Grupo Edén valora a sus miembros aventureros."
+        "es": "[Sprakki]\nUtiliza sus ingresos procedentes de las cuotas de agencia para gestionar negocios paralelos y organizar actividades sociales.\nPor eso el Grupo del Edén valora a sus miembros aventureros."
     },
     "2L71CQ": {
         "en": "[Sprakki]\nIt's also the reason the Group has joined this beginning adventurer support program.\nYou can accept requests directly from people or through the Eden Group.",
         "pt": "[Sprakki]\nEsse também é o motivo pelo qual o Grupo aderiu a esse programa de suporte a aventureiros iniciantes.\nVocê pode aceitar solicitações diretamente das pessoas ou por meio do Grupo do Éden.",
-        "es": "[Sprakki]\nTambién es la razón por la que el Grupo se ha unido a este programa de apoyo a aventureros principiantes.\nPuedes aceptar solicitudes directamente de la gente o a través del Grupo Edén."
+        "es": "[Sprakki]\nTambién es la razón por la que el Grupo se ha unido a este programa de apoyo a aventureros principiantes.\nPuedes aceptar solicitudes directamente de la gente o a través del Grupo del Edén."
     },
     "2b71CQ": {
         "en": "[Sprakki]\nYou should go check its office later.",
@@ -617,12 +617,12 @@
     "2771CQ": {
         "en": "[Lime Evenor]\nHello, {0}. My name is Lime Evenor and I'm the general office manager of the Eden Group.\nI came to ask you to join the Group.",
         "pt": "[Lenore]\nOlá, {0}. Meu nome é Lenore e sou o gerente geral do Grupo do Éden.\nVim convidá-lo para se juntar ao Grupo.",
-        "es": "[Lime Evenor]\nHola, {0}. Me llamo Lime Evenor y soy el director general del Grupo Edén.\nHe venido a pedirte que te unas al Grupo."
+        "es": "[Lime Evenor]\nHola, {0}. Me llamo Lime Evenor y soy el director general del Grupo del Edén.\nHe venido a pedirte que te unas al Grupo."
     },
     "3L71CQ": {
         "en": "[Lime Evenor]\nThe Eden Group receives and takes care of requests\nfrom people who need help everywhere in Midgard.",
         "pt": "[Lenore]\nO Grupo do Éden recebe e cuida das solicitações\nde pessoas que precisam de ajuda em todos os lugares de Midgard.",
-        "es": "[Lime Evenor]\nEl Grupo Edén recibe y atiende peticiones\nde personas que necesitan ayuda en cualquier lugar de Midgard."
+        "es": "[Lime Evenor]\nEl Grupo del Edén recibe y atiende peticiones\nde personas que necesitan ayuda en cualquier lugar de Midgard."
     },
     "3b71CQ": {
         "en": "[Lime Evenor]\nWhen it receives requests, it posts them on its bulletin boards to share with its members.",
@@ -637,7 +637,7 @@
     "3771CQ": {
         "en": "[Lime Evenor]\nBy completing the Eden Group's requests,\nthe beginners can familiarize themselves with this brand new world that they've just joined.\nAs for intermediate and advanced adventurers, they can travel around the world and meet various people.",
         "pt": "[Lenore]\nAo completar as solicitações do Grupo do Éden,\nos iniciantes podem se familiarizar com esse novo mundo no qual acabaram de entrar.\nQuanto aos aventureiros intermediários e avançados, eles podem viajar pelo mundo e conhecer várias pessoas.",
-        "es": "[Lime Evenor]\nAl completar las peticiones del Grupo Edén,\nlos principiantes pueden familiarizarse con este nuevo mundo al que acaban de unirse.\nEn cuanto a los aventureros intermedios y avanzados, pueden viajar por el mundo y conocer a varias personas."
+        "es": "[Lime Evenor]\nAl completar las peticiones del Grupo del Edén,\nlos principiantes pueden familiarizarse con este nuevo mundo al que acaban de unirse.\nEn cuanto a los aventureros intermedios y avanzados, pueden viajar por el mundo y conocer a varias personas."
     },
     "4L71CQ": {
         "en": "[Lime Evenor]\nWealth and fame will naturally follow, of course.",
@@ -657,7 +657,7 @@
     "4771CQ": {
         "en": "[Lime Evenor]\nUse that mark to return to the Eden Group whenever you want.\nI'll see you in the Eden Group office from now on.\nWelcome to the Eden Group, {0}.",
         "pt": "[Lenore]\nUse essa marca para retornar ao Grupo do Éden sempre que quiser.\nVejo você no escritório do Grupo do Éden de agora em diante.\nBem-vindo ao Grupo do Éden, {0}.",
-        "es": "[Lime Evenor]\nUsa esa marca para volver al Grupo Edén cuando quieras.\nTe veré en la oficina del Grupo Edén a partir de ahora.\nBienvenido al Grupo Edén, {0}."
+        "es": "[Lime Evenor]\nUsa esa marca para volver al Grupo del Edén cuando quieras.\nTe veré en la oficina del Grupo del Edén a partir de ahora.\nBienvenido al Grupo del Edén, {0}."
     },
     "5L71CQ": {
         "en": "Now, I should go back to my office.",
@@ -672,7 +672,7 @@
     "5r71CQ": {
         "en": "[Lime Evenor]\nI'll see you in the Eden Group office from now on.\nWelcome to the Eden Group, {0}.",
         "pt": "[Lenore]\nVejo você no escritório do Grupo do Éden de agora em diante.\nBem-vindo ao Grupo do Éden, {0}.",
-        "es": "[Lime Evenor]\nTe veré en la oficina del Grupo Edén a partir de ahora.\nBienvenido al Grupo Edén, {0}."
+        "es": "[Lime Evenor]\nTe veré en la oficina del Grupo del Edén a partir de ahora.\nBienvenido al Grupo del Edén, {0}."
     },
     "5771CQ": {
         "en": "Knight Meric",
@@ -2312,7 +2312,7 @@
     "LsD1CQ": {
         "en": "[Leno]\nYou haven't changed your job yet.\nGo to the Criatura Academy.\nRecently, it's been merged with the Eden Group to better support beginning adventurers like you.",
         "pt": "[Leno]\nVocê ainda não mudou de classe.\nVá para a Academia Criatura.\nRecentemente, ela se fundiu com o Grupo do Éden para dar mais suporte a aventureiros iniciantes como você.",
-        "es": "[Leno]\nAún no has cambiado de clase.\nVe a la Academia Criatura.\nRecientemente, se ha fusionado con el Grupo Edén para apoyar mejor a los aventureros principiantes como tú."
+        "es": "[Leno]\nAún no has cambiado de clase.\nVe a la Academia Criatura.\nRecientemente, se ha fusionado con el Grupo del Edén para apoyar mejor a los aventureros principiantes como tú."
     },
     "L8D1CQ": {
         "en": "[Leno]\nI'm already a Swordsman, but barely so. I'm traveling here and there to train.\nI hope you'll find the job you like.",

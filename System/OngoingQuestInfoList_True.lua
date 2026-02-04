@@ -7166,34 +7166,34 @@ QuestInfoList = {
 		Summary = "Elimine Brutos"
 	},
 	[3394] = {
-		Title = "Caçada Real - 1",
+		Title = "Caçada Real",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Após caçar 30 monstros brutos de nível 50 ou mais, retorne para o <NAVI>[Oficial Lofinche]<INFO>prt_fild01,97,180,0,101,0</INFO></NAVI>."
+			"Após caçar 30 monstros brutos de nível 50 ou mais, retorne para o <NAVI>[Tenente Lofinche]<INFO>prt_fild01,97,180,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Elimine Brutos"
 	},
 	[3395] = {
-		Title = "Caçada Real - 2",
+		Title = "Caçada Real",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Após caçar 30 monstros insetos de nível 50 ou mais, retorne para o <NAVI>[Oficial Lofinche]<INFO>prt_fild01,97,180,0,101,0</INFO></NAVI>."
+			"Após caçar 30 monstros insetos de nível 50 ou mais, retorne para o <NAVI>[Tenente Lofinche]<INFO>prt_fild01,97,180,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Elimine Insetos"
 	},
 	[3396] = {
-		Title = "Caçada Real - 1",
+		Title = "Caçada Real",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Após caçar 30 monstros peixes de nível 50 ou mais, retorne para a <NAVI>[Tenente Jang]<INFO>prt_fild01,107,180,0,101,0</INFO></NAVI>."
+			"Após caçar 30 monstros peixes de nível 50 ou mais, retorne para a <NAVI>[General Jang]<INFO>prt_fild01,107,180,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Elimine Peixes"
 	},
 	[3397] = {
-		Title = "Caçada Real - 2",
+		Title = "Caçada Real",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Após caçar 30 monstros dragões de nível 50 ou mais, retorne para a <NAVI>[Tenente Jang]<INFO>prt_fild01,107,180,0,101,0</INFO></NAVI>."
+			"Após caçar 30 monstros dragões de nível 50 ou mais, retorne para a <NAVI>[General Jang]<INFO>prt_fild01,107,180,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Elimine Dragões"
 	},
@@ -7201,186 +7201,186 @@ QuestInfoList = {
 		Title = "Caçada Real",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Use o <NAVI>[Teleportador]<INFO>prt_fild01,94,171,0,101,0</INFO></NAVI> para digirir-se ao campo de caça."
+			"Para chegar no Campo de Caça, use o <NAVI>[Teleportador]<INFO>prt_fild01,94,171,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Elimine Dragões"
+		Summary = ""
 	},
 	[3399] = {
-		Title = "Caçada Real",
+		Title = "Caçada Real: Insetos",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Após caçar 30 monstros insetos de nível 50 ou mais, retorne para o <NAVI>[Oficial Lofinche]<INFO>prt_fild01,97,180,0,101,0</INFO></NAVI>."
+			"Após caçar 30 monstros insetos de nível 50 ou mais, retorne para o <NAVI>[Tenente Lofinche]<INFO>prt_fild01,97,180,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Elimine Insetos"
+		Summary = "Raça Inseto"
 	},
 	[3400] = {
-		Title = "[Espera] Caçada Real - Insetos",
+		Title = "[Espera] Caçada Real: Insetos",
 		IconName = "ico_ev.bmp",
 		Description = {
 			"Finalizamos a caça de hoje, melhor retornar após o horário indicado."
 		},
-		Summary = "Reseta 4 da manhã",
+		Summary = "Volte amanhã.",
 		CoolTimeQuest = 1
 	},
 	[3401] = {
-		Title = "Elimine Brutos",
+		Title = "Caçada Real: Brutos",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Após caçar 30 monstros brutos de nível 50 ou mais, retorne para o <NAVI>[Oficial Lofinche]<INFO>prt_fild01,97,180,0,101,0</INFO></NAVI>."
+			"Após caçar 30 monstros brutos de nível 50 ou mais, retorne para o <NAVI>[Tenente Lofinche]<INFO>prt_fild01,97,180,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Elimine Brutos"
+		Summary = "Raça Bruto"
 	},
 	[3402] = {
-		Title = "[Espera] Caçada Real - Brutos",
+		Title = "[Espera] Caçada Real: Brutos",
 		IconName = "ico_ev.bmp",
 		Description = {
 			"Finalizamos a caça de hoje, melhor retornar após o horário indicado."
 		},
-		Summary = "Reseta 4 da manhã",
+		Summary = "Volte amanhã.",
 		CoolTimeQuest = 1
 	},
 	[3403] = {
-		Title = "Elimine Peixes",
+		Title = "Caçada Real: Peixes",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Após caçar 30 monstros peixes de nível 50 ou mais, retorne para o <NAVI>[Oficial Lofinche]<INFO>prt_fild01,97,180,0,101,0</INFO></NAVI>."
+			"Após caçar 30 monstros peixes de nível 50 ou mais, retorne para o <NAVI>[Tenente Lofinche]<INFO>prt_fild01,97,180,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Elimine Peixes"
+		Summary = "Raça Peixe"
 	},
 	[3404] = {
-		Title = "[Espera] Caçada Real - Peixes",
+		Title = "[Espera] Caçada Real: Peixes",
 		IconName = "ico_ev.bmp",
 		Description = {
 			"Finalizamos a caça de hoje, melhor retornar após o horário indicado."
 		},
-		Summary = "Reseta 4 da manhã",
+		Summary = "Volte amanhã.",
 		CoolTimeQuest = 1
 	},
 	[3405] = {
-		Title = "Elimine Dragões",
+		Title = "Caçada Real: Dragões",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Após caçar 30 monstros dragões de nível 50 ou mais, retorne para o <NAVI>[Oficial Lofinche]<INFO>prt_fild01,97,180,0,101,0</INFO></NAVI>."
+			"Após caçar 30 monstros dragões de nível 50 ou mais, retorne para o <NAVI>[Tenente Lofinche]<INFO>prt_fild01,97,180,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Elimine Dragões"
+		Summary = "Raça Dragão"
 	},
 	[3406] = {
-		Title = "[Espera] Caçada Real - Dragões",
+		Title = "[Espera] Caçada Real: Dragões",
 		IconName = "ico_ev.bmp",
 		Description = {
 			"Finalizamos a caça de hoje, melhor retornar após o horário indicado."
 		},
-		Summary = "Reseta 4 da manhã",
+		Summary = "Volte amanhã.",
 		CoolTimeQuest = 1
 	},
 	[3407] = {
-		Title = "Vara de Pesca do Desaparecido",
+		Title = "Ilusão do Mar",
 		Description = {
-			"Vamos levar Vara de Pesca de Siroods até <NAVI>[Científico marinho Jerimon]<INFO>prt_in,157,66,0,101,0</INFO></NAVI>."
+			"Vamos levar a Vara de Pescaria do Sirud para <NAVI>[Jeremias]<INFO>prt_elib,57,18,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Conversar com Jerimon"
+		Summary = "Para Jeremias"
 	},
 	[3408] = {
-		Title = "Aquisição de Essência Abissal",
+		Title = "Ilusão do Mar",
 		Description = {
-			"Vamos levar a Essência Abissal recebida de Gain para <NAVI>[Científico marinho Jerimon]<INFO>prt_in,157,66,0,101,0</INFO></NAVI>."
+			"Vamos levar a Essência Abismal para <NAVI>[Jeremias]<INFO>prt_elib,57,18,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Entregar Essência Abissal"
+		Summary = "Para Jeremias"
 	},
 	[3409] = {
-		Title = "Redemoinho que leva às profundezas do mar",
+		Title = "Ilusão do Mar",
 		Description = {
-			"Volte para <NAVI>[Izlude]<INFO>izlude,132,54,0,101,0</INFO></NAVI> com Jerimon e crie o redemoinho que leva às profundezas do mar."
+			"Volte para <NAVI>[Izlude]<INFO>izlude,132,54,0,101,0</INFO></NAVI>. Jeremias espera você lá."
 		},
-		Summary = "Converse com Jerimon em Izlude"
+		Summary = "Jeremias em Izlude"
 	},
 	[3410] = {
-		Title = "Pelo mar até Sirud",
+		Title = "Ilusão do Mar",
 		Description = {
-			"Sirud pede que, quando você subir pelo mar, o leve junto também."
+			"Sirud quer ir junto com você."
 		},
-		Summary = "Subir ao mar junto com Sirud"
+		Summary = "Para Sirud"
 	},
 	[3411] = {
-		Title = "Derrote criaturas das profundezas do mar",
+		Title = "Ilusão do Mar",
 		Description = {
-			"Vamos derrotar 10 de cada: ^4d4dffSropho Abismal^000000, ^4d4dffDeviace Abismal^000000 e ^4d4dffMarse Abismal^000000."
+			"Vamos caçar 10 ^4D4DFFSropho Abismal^000000, 10 ^4D4DFFDeviace Abismal^000000 e 10 ^4D4DFFMarse Abismal^000000."
 		},
-		Summary = "Derrote 3 tipos de criaturas das profundezas do mar"
+		Summary = "Elimine os monstros"
 	},
 	[3412] = {
-		Title = "Coletar Essência Abissal",
+		Title = "Ilusão do Mar",
 		Description = {
-			"^4d4dffReúna 10 Essência Abissal^000000 e leve para <NAVI>[Jerimon]<INFO>iz_d04_i,127,228,0,101,0</INFO></NAVI>."
+			"Vamos coletar 10x ^4D4DFFEssência do Abismo^000000 e entregá-las para <NAVI>[Jeremias]<INFO>iz_d04_i,127,228,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Entregue 10 Essência Abissal"
+		Summary = "10 Essências do Abismo"
 	},
 	[3413] = {
-		Title = "Coletar Essência Abissal - Diário",
+		Title = "Amostra de Essências",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"^4d4dffReúna 10 Essência Abissal^000000 e leve para <NAVI>[Jerimon]<INFO>iz_d04_i,127,228,0,101,0</INFO></NAVI>."
+			"Colete 10x ^4D4DFFEssência do Abismo^000000 e entregue-as para <NAVI>[Jeremias]<INFO>iz_d04_i,127,228,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Entregue 10 Essência Abissal"
+		Summary = "10x Essência do Abismo"
 	},
 	[3414] = {
-		Title = "Coleta de Essência Abissal - Aguardando",
+		Title = "[Espera] Amostra de Essências",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Esta missão é uma missão diária e pode ser aceita novamente e realizada quando o tempo de espera expirar. É possível aceitar a missão por meio de <NAVI>[Jerimon]<INFO>iz_d04_i,127,228,0,101,0</INFO></NAVI>."
+			"Essa missão pode ser repetida no dia seguinte, basta falar com <NAVI>[Jeremias]<INFO>iz_d04_i,127,228,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Reinicia às 04:00"
+		Summary = "Reseta 4 da manhã."
 	},
 	[3415] = {
-		Title = "Derrote criaturas das profundezas do andar superior - Diário",
+		Title = "Controle de Criaturas",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Vamos derrotar 10 de cada: ^4d4dffSropho Abismal^000000, ^4d4dffDeviace Abismal^000000 e ^4d4dffMarse Abismal^000000."
+			"Vamos caçar 10 ^4D4DFFSropho Abismal^000000, 10 ^4D4DFFDeviace Abismal^000000 e 10 ^4D4DFFMarse Abismal^000000.0}."
 		},
-		Summary = "Derrote 3 tipos de criaturas das profundezas do mar"
+		Summary = "Elimine os monstros"
 	},
 	[3416] = {
-		Title = "Derrote as criaturas das profundezas do andar superior - Aguardando",
+		Title = "[Espera] Controle de Criaturas",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Esta missão é uma missão diária e pode ser aceita e realizada novamente quando o tempo de espera expirar. É possível aceitar a missão através de <NAVI>[Jerimon]<INFO>iz_d04_i,127,228,0,101,0</INFO></NAVI>."
+			"Essa missão pode ser repetida no dia seguinte, basta falar com <NAVI>[Jeremias]<INFO>iz_d04_i,127,228,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Reinicia às 04:00"
+		Summary = "Reseta 4 da manhã."
 	},
 	[3417] = {
-		Title = "Derrote criaturas das profundezas do andar inferior - Diário",
+		Title = "Controle de Peixes",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Vamos derrotar 10 de cada: ^4d4dffPeixe Abismal^000000, ^4d4dffFen Abismal^000000 e ^4d4dffDramoh Abismal^000000."
+			"Vamos caçar 10 ^4D4DFFPeixe Abismal^000000, 10 ^4D4DFFFen Abismal^000000 e 10 ^4D4DFFDramoh Abismal^000000."
 		},
-		Summary = "Derrote 3 tipos de criaturas das profundezas do mar"
+		Summary = "Elimine os monstros"
 	},
 	[3418] = {
-		Title = "Derrote criaturas das profundezas do andar inferior - Aguardando",
+		Title = "[Espera] Controle de Peixes",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Esta missão é uma missão diária e pode ser aceita e realizada novamente quando o tempo de espera expirar. É possível aceitar a missão através de <NAVI>[Kena]<INFO>iz_d05_i,138,186,0,101,0</INFO></NAVI>."
+			"Essa missão pode ser repetida no dia seguinte, basta falar com <NAVI>[Kenna]<INFO>iz_d05_i,138,186,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Reinicia às 04:00"
+		Summary = "Reseta 4 da manhã."
 	},
 	[3419] = {
-		Title = "Derrote os Tritões do andar inferior - Diário",
+		Title = "Controle de Espécies",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"^4d4dffDerrote 15 de cada: Abissal Sedora^000000 e ^4d4dffStrouf Abismal^000000."
+			"Vamos caçar 15 ^4D4DFFSedora Abismal^000000 e 15 ^4D4DFFStrouf Abismal^000000."
 		},
-		Summary = "Derrote 2 tipos de raça Peixe?"
+		Summary = "Elimine os monstros"
 	},
 	[3420] = {
-		Title = "Derrote os Tritões do andar inferior - Aguardando",
+		Title = "[Espera] Controle de Espécies",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Esta missão é uma missão diária e, quando o tempo de espera expirar, você poderá aceitá-la novamente e concluí-la. Você pode aceitar a missão através de <NAVI>[Kena]<INFO>iz_d05_i,138,186,0,101,0</INFO></NAVI>."
+			"Essa missão pode ser repetida no dia seguinte, basta falar com <NAVI>[Kenna]<INFO>iz_d05_i,138,186,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Reinicia às 04:00"
+		Summary = "Reseta 4 da manhã."
 	},
 	[3421] = {
-		Title = "Essa missão pode ser repetida no dia seguinte. <NAVI>Kenna]<INFO>iz_d05_i,138,186,0,101,0</INFO></NAVI> aguardará você na Ilusão Submarina.",
+		Title = "Encontre o Livro da Ilusão Vol. 1",
 		Description = {
 			"O sacerdote Jergus pediu que eu testasse minha fé encontrando o Livro da Ilusão em <NAVI>[Caverna de Payon]<INFO>pay_arche,39,131,0,101,0</INFO></NAVI>."
 		},
@@ -11451,77 +11451,77 @@ QuestInfoList = {
 		}
 	},
 	[5404] = {
-		Title = "[Repetir]Disciplina do Guerreiro - Humanoide",
+		Title = "Disciplina [Humanoide]",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"O Programa de Treinamento da família Richard requer que você elimine 50 monstros da raça Humanoide."
 		}
 	},
 	[5405] = {
-		Title = "[Repetir]Disciplina do Guerreiro - Bruto",
+		Title = "Disciplina [Bruto]",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"O Programa de Treinamento da família Richard requer que você elimine 50 monstros da raça Bruto."
 		}
 	},
 	[5406] = {
-		Title = "[Repetir]Disciplina do Guerreiro - Inseto",
+		Title = "Disciplina [Inseto]",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"O Programa de Treinamento da família Richard requer que você elimine 50 monstros da raça Inseto."
 		}
 	},
 	[5407] = {
-		Title = "[Repetir]Disciplina do Guerreiro - Peixe",
+		Title = "Disciplina [Peixe]",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"O Programa de Treinamento da família Richard requer que você elimine 50 monstros da raça Peixe."
 		}
 	},
 	[5408] = {
-		Title = "[Repetir]Disciplina do Guerreiro - Planta",
+		Title = "Disciplina [Planta]",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"O Programa de Treinamento da família Richard requer que você elimine 50 monstros da raça Planta."
 		}
 	},
 	[5409] = {
-		Title = "[Repetir]Disciplina do Guerreiro - Demônio",
+		Title = "Disciplina [Demônio]",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"O Programa de Treinamento da família Richard requer que você elimine 50 monstros da raça Demônio."
 		}
 	},
 	[5410] = {
-		Title = "[Repetir]Disciplina do Guerreiro - Anjo",
+		Title = "Disciplina [Anjo]",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"O Programa de Treinamento da família Richard requer que você elimine 50 monstros da raça Anjo."
 		}
 	},
 	[5411] = {
-		Title = "[Repetir]Disciplina do Guerreiro - Imortal",
+		Title = "Disciplina [Morto-Vivo]",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"O Programa de Treinamento da família Richard requer que você elimine 50 monstros da raça Morto-Vivo."
 		}
 	},
 	[5412] = {
-		Title = "[Repetir]Disciplina do Guerreiro - Intangível",
+		Title = "Disciplina [Amorfo]",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"O Programa de Treinamento da família Richard requer que você elimine 50 monstros da raça Amorfo."
 		}
 	},
 	[5413] = {
-		Title = "[Repetir]Disciplina do Guerreiro - Dragão",
+		Title = "Disciplina [Dragão]",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"O Programa de Treinamento da família Richard requer que você elimine 50 monstros da raça Dragão."
 		}
 	},
 	[5414] = {
-		Title = "[Espera] Disciplina do guerreiro",
+		Title = "[Espera] Disciplina",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Você pode participar do <NAVI>[treinamento da família Richard]<INFO>prt_cas_q,80,80,0,101,0</INFO></NAVI> novamente amanhã de manhã."
@@ -11592,7 +11592,7 @@ QuestInfoList = {
 		}
 	},
 	[5424] = {
-		Title = "[Completo]Patrulha Prisional",
+		Title = "[Completo] Patrulha Prisional",
 		IconName = "ico_nq.bmp",
 		Description = {
 			"Você terminou de patrulhar a prisão. Parabéns."
@@ -11616,7 +11616,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[5427] = {
-		Title = "[Repete] Velho Amigo",
+		Title = "Velho Amigo",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"A troca regular de cartas é boa para a saúde mental dos prisioneiros. Receba a carta do amigo em algum lugar da prisão subterrânea."
@@ -11640,7 +11640,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[5430] = {
-		Title = "[Repetir]Favor Vampiresco",
+		Title = "Favor Vampiresco",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"O prisioneiro deseja mais Olhos de Sangue! Hora de procurar alguns Observadores por aí."
@@ -11672,28 +11672,29 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[5434] = {
-		Title = "[Repetir]Melhorando o Ambiente",
+		Title = "Melhorando o Ambiente",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"É hora de sentir a alegria da limpeza. Vamos limpar a prisão subterrânea com o coração cheio de alegria."
 		}
 	},
 	[5435] = {
-		Title = "[Repetir] A limpeza foi concluída.",
+		Title = "[Espera] Melhorando o Ambiente",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Você terminou de limpar a prisão subterrânea. Por que não volta para dar uma olhada?"
 		}
 	},
 	[5436] = {
-		Title = "Encontrando luzes",
+		Title = "Coleta de Luz",
 		IconName = "ico_nq.bmp",
 		Description = {
 			"Esse prisioneiro parece odiar a escuridão. Vamos trazer uma luz brilhante da enorme tocha para essa prisão."
-		}
+		},
+		Summary = "Traga Luz Flamejante"
 	},
 	[5437] = {
-		Title = "[Espera] Encontrando luzes",
+		Title = "[Espera] Coleta de Luz",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Ele parece estar satisfeito com a luz brilhante. Vamos trazê-lo mais uma vez quando a luz estiver prestes a diminuir."
@@ -11701,11 +11702,12 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[5438] = {
-		Title = "[Repetir]Encontrando luzes",
+		Title = "Coleta de Luz",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Vamos trazer novamente uma luz brilhante da enorme tocha desta prisão."
-		}
+		},
+		Summary = "Traga Luz Flamejante"
 	},
 	[5439] = {
 		Title = "Umidade em Excesso",
@@ -11724,7 +11726,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[5441] = {
-		Title = "[Repetir]Umidade em Excesso",
+		Title = "Umidade em Excesso",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Os Desumidificadores acabaram, melhor trazer mais 20 para a prisioneira."
@@ -11748,7 +11750,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[5444] = {
-		Title = "[Repetir]Controlando a Escuridão",
+		Title = "Controlando a Escuridão",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"A escuridão está se alastrando novamente. Traga uma flor. Que flor devo trazer desta vez?"
@@ -11772,7 +11774,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[5447] = {
-		Title = "[Repetir]Ei Chifrudo",
+		Title = "Ei Chifrudo",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Ele ainda precisa de mais lixas? Já que ele quer, vamos caçar alguns Tappys."
@@ -11780,34 +11782,35 @@ QuestInfoList = {
 		Summary = "Traga 20 Lixas"
 	},
 	[5448] = {
-		Title = "Solicitação do Chefe da Guarda",
+		Title = "Salvando Vidas",
 		Description = {
 			"Spiegel, Chefe da Guarda de Prontera, pediu que você procure por sobreviventes. Confira seu mini-mapa."
 		}
 	},
 	[5449] = {
-		Title = "Solicitação do Chefe da Guarda",
+		Title = "Salvando Vidas",
 		Description = {
 			"Spiegel, Chefe da Guarda de Prontera, pediu que você procure por sobreviventes. Confira seu mini-mapa."
 		}
 	},
 	[5450] = {
-		Title = "Solicitação do Chefe da Guarda",
+		Title = "Salvando Vidas",
 		Description = {
 			"Spiegel, Chefe da Guarda de Prontera, pediu que você procure por sobreviventes. Confira seu mini-mapa."
 		}
 	},
 	[5451] = {
-		Title = "Solicitação do Chefe da Guarda",
+		Title = "Salvando Vidas",
 		Description = {
 			"Spiegel, Chefe da Guarda de Prontera, pediu que você procure por sobreviventes. Confira seu mini-mapa."
 		}
 	},
 	[5452] = {
-		Title = "[Espera]Solicitação do Chefe da Guarda",
+		Title = "[Espera] Salvando Vidas",
 		Description = {
 			"Você ajudou o aldeão de Prontera. Por um tempo, você precisa andar pela cidade para derrotar os mortos-vivos."
-		}
+		},
+		Summary = "Volte outra hora"
 	},
 	[5453] = {
 		Title = "Ingrato(1)",
@@ -11838,41 +11841,41 @@ QuestInfoList = {
 		Summary = "Volte ao Guarda Spiegel"
 	},
 	[5457] = {
-		Title = "Encontre Minha Irmã(1)",
+		Title = "Encontre Minha Irmã (1)",
 		Description = {
 			"Leve a menina que estava chorando depois de perder a irmã para a catedral, que é o abrigo mais próximo."
 		},
 		Summary = "Vá para a Catedral"
 	},
 	[5458] = {
-		Title = "Encontre Minha Irmã(2)",
+		Title = "Encontre Minha Irmã (2)",
 		Description = {
 			"Leve a garota até sua irmã que está na Cavalaria."
 		},
 		Summary = "Vá para a Cavalaria"
 	},
 	[5459] = {
-		Title = "Encontre Minha Irmã(3)",
+		Title = "Encontre Minha Irmã (3)",
 		Description = {
 			"Você ajudou a menina que estava chorando após ser separada da irmã a encontrar a irmã."
 		}
 	},
 	[5460] = {
-		Title = "Blefe Descarado(1)",
+		Title = "Soldado (1)",
 		Description = {
-			"Leve a solda para o prédio do Knight, que é o abrigo mais próximo."
+			"Leve o Soldado para o abrigo mais próximo."
 		},
-		Summary = "Volte ao Guarda Spiegel"
+		Summary = "Vá para a Cavalaria"
 	},
 	[5461] = {
-		Title = "Blefe Descarado(2)",
+		Title = "Soldado (2)",
 		Description = {
 			"Ele poderia ter ficado na Cavalaria, mas ele insistiu em ir para outro lugar... Vamos levá-lo para o Prédio da Estilista."
 		},
-		Summary = "Vá para o Prédio da Estilist"
+		Summary = "Vá para o Prédio da Estilista"
 	},
 	[5462] = {
-		Title = "Blefe Descarado(3)",
+		Title = "Soldado (3)",
 		Description = {
 			"O que esse guarda de Geffen faz em Prontera? Bom, pelo menos nós ajudamos."
 		},
@@ -11900,21 +11903,21 @@ QuestInfoList = {
 		Summary = "Vá para a Catredal"
 	},
 	[5466] = {
-		Title = "Amor louco pela esposa(4)",
+		Title = "Amante (4)",
 		Description = {
 			"A doença de Ellie parece ter se agravado quando ela se soltou um pouco. Vá até o local onde você encontrou Ellie e procure o remédio perdido."
 		},
 		Summary = "Vá para o prédio dos Clãs"
 	},
 	[5467] = {
-		Title = "Amor louco pela esposa(5)",
+		Title = "Amante (5)",
 		Description = {
 			"Você encontrou o remédio. Leve-o para Ellie antes que a doença dela se agrave."
 		},
 		Summary = "Vá para a Catedral"
 	},
 	[5468] = {
-		Title = "Amor louco pela esposa(6)",
+		Title = "Amante (6)",
 		Description = {
 			"Você ajudou o casal Ellie e Eryus, que parecem estar profundamente apaixonados. Você está feliz por ver os verdadeiros pombinhos há muito tempo."
 		}
@@ -32080,7 +32083,7 @@ QuestInfoList = {
 		Title = "Como nos velhos tempos",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Você encontrou o amuleto de Dien. Volte para os arredores de Einbroch 03, entre no Distrito OS e fale com Dien."
+			"Você encontrou o amuleto de Dien. Volte para os arredores de Einbroch 03, entre no Distrito OS e fale com <NAVI>Dien<INFO>sp_os,252,359,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Volte para Dien",
 		RewardEXP = 200000,
@@ -36191,25 +36194,25 @@ QuestInfoList = {
 		Summary = "Volte amanhã."
 	},
 	[12457] = {
-		Title = "O Momento da Queda",
+		Title = "Edda de Glastheim",
 		Description = {
-			"Você deve seguir o dinossauro do tempo Oscar e voltar ao passado para ver como Glastheim, que já foi a fortaleza mais poderosa, acabou caindo."
+			"Você deve seguir Oscar, o Dragão-do-Tempo e voltar ao passado para ver como Glastheim, que já foi a fortaleza mais poderosa, acabou sendo amaldiçoada."
 		},
-		Summary = "O Momento da Queda"
+		Summary = "Complete a instância"
 	},
 	[12458] = {
-		Title = "Epílogo do Orbe",
+		Title = "Edda de Glastheim",
 		Description = {
 			"Apesar do sacrifício de Rei Schmidt, seus feitos acabaram sendo transmitidos de forma distorcida."
 		},
-		Summary = "O Gosto do Dragão"
+		Summary = "Complete a instância"
 	},
 	[12459] = {
-		Title = "Que o pensamento do rei descanse.",
+		Title = "Em Memória ao Rei",
 		Description = {
-			"Para salvar inúmeras vidas, Schmidt lançou a própria vida ao Orbe. Porém, nesse processo, o poder do Orbe materializou seus pensamentos obsessivos, tentando deixar um registro de desonra para as gerações futuras. Sua missão é conceder descanso a esses pensamentos persistentes."
+			"Para salvar inúmeras vidas, Schmidt deu a própria vida para o Orbe. Porém, nesse processo, o poder do Orbe materializou seus pensamentos obsessivos, tentando deixar um registro de desonra para as gerações futuras. Sua missão é conceder descanso a esses vestígios falsos do Rei."
 		},
-		Summary = "Eliminar o pensamento residual de Schmidt",
+		Summary = "Modo Normal",
 		NpcSpr = "4_ED_SCHMIDT",
 		RewardEXP = "650000",
 		RewardJEXP = "480000",
@@ -36218,25 +36221,25 @@ QuestInfoList = {
 		}
 	},
 	[12460] = {
-		Title = "Sequelas da Queda",
+		Title = "[Espera] Queda de Glastheim",
 		Description = {
-			"De qualquer forma, é difícil testemunhar a cena da queda. Enquanto os efeitos persistirem, não será possível entrar ou criar ^ff0000Purificação Glastheim^000000."
+			"De qualquer forma, é difícil testemunhar a cena da queda. Enquanto os efeitos persistirem, não será possível entrar ou criar a instância ^FF0000Queda Glastheim^000000."
 		},
-		Summary = "Reinicia às 4 da madrugada"
+		Summary = "Reseta 4 da manhã."
 	},
 	[12461] = {
-		Title = "Graves sequelas da morte",
+		Title = "[Espera] Queda de Glastheim II",
 		Description = {
-			"Este efeito colateral vem acompanhado do efeito colateral da Queda. Durante o tempo restante, não aparecerá o menu relacionado a ^ff0000Purificação Glastheim(Avançado)^000000, e também não será possível utilizá-lo."
+			"Este efeito colateral afeta todas as linhas do tempo. Por isso, você não poderá fazer a ^FF0000Queda de Glastheim do Modo Normal e Difícil^000000."
 		},
-		Summary = "Reinicia em 3 dias, às 4 da madrugada."
+		Summary = "Reseta em 3 dias"
 	},
 	[12462] = {
-		Title = "Descanso para o Pensamento do Rei (Avançado)",
+		Title = "Em Memória ao Rei",
 		Description = {
-			"inúmeras vidas, Schmidt lançou a própria vida ao Orbe. Porém, nesse processo, o poder do Orbe materializou seus pensamentos persistentes e tenta deixar, para as gerações futuras, um registro de desonra. Conceder descanso aos pensamentos persistentes dele é a sua missão."
+			"Para salvar inúmeras vidas, Schmidt deu a própria vida para o Orbe. Porém, nesse processo, o poder do Orbe materializou seus pensamentos obsessivos, tentando deixar um registro de desonra para as gerações futuras. Sua missão é conceder descanso a esses vestígios falsos do Rei."
 		},
-		Summary = "Derrote o Pensamento Remanescente (Avançado) de Schmidt",
+		Summary = "Modo Difícil",
 		NpcSpr = "4_ED_SCHMIDT",
 		RewardEXP = "2800000",
 		RewardJEXP = "1900000",
@@ -70285,102 +70288,102 @@ NpcSpr = [=[4_M_RACHMAN1]]
 		Summary = "Reseta às 4 da manhã"
 	},
 	[295259] = {
-		Title = "Battle Pass Daily1",
+		Title = "Passe de Batalha Diário 1",
 		Description = {
-			"Derrote 5 Deleter Voador"
+			"Derrote 80 Fen"
 		},
-		Summary = "Derrote 5 Deleter Voador"
+		Summary = "Derrote 80 Fen"
 	},
 	[295260] = {
-		Title = "Battle Pass Daily1",
+		Title = "Passe de Batalha Diário 1",
 		Description = {
-			"Derrote Deleter Voador / 1 vez por dia, reinicia às 04:00"
+			"Derrote Fen / Uma vez por dia, reinicia às 04:00"
 		},
 		Summary = "Reinicia às 04:00"
 	},
 	[295261] = {
-		Title = "Battle Pass Daily2",
+		Title = "Passe de Batalha Diário 2",
 		Description = {
-			"Derrote 5 Deleter"
+			"Derrote 2 Sacerdote Maldito Feroz"
 		},
-		Summary = "Derrote 5 Deleter"
+		Summary = "Derrote 2 Sacerdote Maldito Feroz"
 	},
 	[295262] = {
-		Title = "Battle Pass Daily2",
+		Title = "Passe de Batalha Diário 2",
 		Description = {
-			"Derrote Deleter / 1 vez por dia, reinicia às 04:00"
+			"Derrote Sacerdote Maldito Feroz / Uma vez por dia, reinicia às 04:00"
 		},
 		Summary = "Reinicia às 04:00"
 	},
 	[295263] = {
-		Title = "Battle Pass Daily3",
+		Title = "Passe de Batalha Diário 3",
 		Description = {
-			"Derrote 5 Xamã do Gelo"
+			"Entregue 888 Bananas"
 		},
-		Summary = "Derrote 5 Xamã do Gelo"
+		Summary = "Entregue 888 Bananas"
 	},
 	[295264] = {
-		Title = "Battle Pass Daily3",
+		Title = "Passe de Batalha Diário 3",
 		Description = {
-			"Derrote Xamã do Gelo / 1 vez por dia, reinicia às 04:00"
+			"Entregue Bananas / Uma vez por dia, reinicia às 04:00"
 		},
 		Summary = "Reinicia às 04:00"
 	},
 	[295265] = {
-		Title = "Battle Pass Daily4",
+		Title = "Passe de Batalha Diário 4",
 		Description = {
-			"Derrote 5 Xamã do Fogo"
+			"Doe 500.000 Zeny"
 		},
-		Summary = "Derrote 5 Xamã do Fogo"
+		Summary = "Doe 500.000 Zeny"
 	},
 	[295266] = {
-		Title = "Battle Pass Daily4",
+		Title = "Passe de Batalha Diário 4",
 		Description = {
-			"Derrote Xamã do Fogo / 1 vez por dia, reinicia às 04:00"
+			"Doe Zeny / Uma vez por dia, reinicia às 04:00"
 		},
 		Summary = "Reinicia às 04:00"
 	},
 	[295267] = {
-		Title = "Battle Pass Daily5",
+		Title = "Passe de Batalha Diário 5",
 		Description = {
-			"Derrote 1 Naght Sieger"
+			"Derrote 200 Pesadelo Sinistro"
 		},
-		Summary = "Derrote 1 Naght Sieger"
+		Summary = "Derrote 200 Pesadelo Sinistro"
 	},
 	[295268] = {
-		Title = "Battle Pass Daily5",
+		Title = "Passe de Batalha Diário 5",
 		Description = {
-			"Derrote Naght Sieger / 1 vez por semana, reinicia às 04:00"
+			"Derrote Pesadelo Sinistro / Uma vez por semana, reinicia às 04:00"
 		},
 		Summary = "Reinicia às 04:00"
 	},
 	[295269] = {
-		Title = "Battle Pass Alltime",
+		Title = "Passe de Batalha - Semanal 2",
 		Description = {
-			"Suba o nível do personagem uma vez"
+			"Suba o nível do personagem uma vez. Caso já tenha atingido o nível 185, converse novamente com o NPC para completar a missão."
 		},
 		Summary = "Suba o nível do personagem uma vez"
 	},
 	[295270] = {
-		Title = "Battle Pass Alltime",
+		Title = "Passe de Batalha - Semanal 2",
 		Description = {
-			"Suba o nível do personagem uma vez / 1 vez por semana, reinicia às 04:00"
+			"Suba o nível do personagem uma vez / 1 vez por semana, reinicia ás 04:00"
 		},
-		Summary = "Missão da Temporada 1 do Battle Pass concluída"
+		Summary = "[Espera] Passe de Batalha - Semanal 2"
 	},
 	[295271] = {
-		Title = "Battle Pass Bonus Quest",
+		Title = "Passe de Batalha - Missão Especial",
 		Description = {
-			"Alcance o nível 185"
+			"Alcance o nível 185. Essa missão pode ser concluída apenas 1 vez por temporada."
 		},
 		Summary = "Alcance o nível 185"
 	},
 	[295272] = {
-		Title = "Battle Pass Bonus Quest",
+		Title = "[Conclúida] Passe de Batalha - Missão Especial",
 		Description = {
 			"Alcance o nível 185 / Apenas 1 vez durante este evento"
 		},
-		Summary = "Missão da Temporada 1 do Battle Pass concluída"
+		Summary = "Missão da Temporada 1 do Passe de Batalha concluída."
 	},
 	[297001] = {
 		Title = "Fale com o Soldado Woods Goofus",
@@ -70756,5 +70759,249 @@ NpcSpr = [=[4_M_RACHMAN1]]
 			""
 		},
 		Summary = "Reseta após 20 horas"
+	},
+	[291494] = {
+		Title = "Carnaval",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Para participar do Carnaval, \n\t\t\t\t\tvocê precisa da permissão da Mãe Natureza! \n\t\t\t\t\tEncontre os 4 Elementos na praia de Brasilis\n\t\t\t\t\te retorne ao <NAVI>[Gerente do Evento]<INFO>brasilis,246,323,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Praia de Brasilis"
+	},
+	[291495] = {
+		Title = "Carnaval: Pedra do Fogo",
+		IconName = "ico_ev.bmp",
+		Description = {""},
+		Summary = ""
+	},
+	[291496] = {
+		Title = "Carnaval: Pedra da Água",
+		IconName = "ico_ev.bmp",
+		Description = {""},
+		Summary = ""
+	},
+	[291497] = {
+		Title = "Carnaval: Pedra do Vento",
+		IconName = "ico_ev.bmp",
+		Description = {""},
+		Summary = ""
+	},
+	[291498] = {
+		Title = "Carnaval: Pedra da Terra",
+		IconName = "ico_ev.bmp",
+		Description = {""},
+		Summary = ""
+	},
+	[291499] = {
+		Title = "Carnaval: Fantasia!",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"\"Não posso perder o concurso de fantasias por causa dele!\" \n\t\t\t\t- <NAVI>[Fernando]<INFO>brasilis,111,330,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Elimine o monstro"
+	},
+	[291500] = {
+		Title = "[Espera] Fantasia!",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Você completou a missão de Carnaval de hoje. Volte amanhã para <NAVI>[Fernando]<INFO>brasilis,111,330,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Reseta 4 da manhã."
+	},
+	[291501] = {
+		Title = "Carnaval: Música Perdida",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Porings Carnavalescos comeram as instruções de dança!\n\t\t\t\tColete os seguintes itens:\n\t\t\t\t2x ^ff0000^nItemID^6340^000000\n\t\t\t\t2x ^ff0000^nItemID^6341^000000\n\t\t\t\t2x ^ff0000^nItemID^6342^000000 \n\t\t\t\t2x ^ff0000^nItemID^6343^000000 \n\t\t\t\tE retorne para a <NAVI>[Sambista]<INFO>brasilis,201,145,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Colete os Itens"
+	},
+	[291502] = {
+		Title = "[Espera] Música Perdida",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Você completou a missão de Carnaval de hoje. Volte amanhã para <NAVI>[Sambista]<INFO>brasilis,201,145,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Reseta 4 da manhã."
+	},
+	[291503] = {
+		Title = "Carnaval: Violino Quebrado",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Vá até a casa de <NAVI>[Vinícius]<INFO>bra_in01,163,131,0,101,0</INFO></NAVI>!\n\t\t\t\tEle deve consertar o Violino se trouxer\n\t\t\t\t3x ^ff0000^nItemID^1002^000000\n\t\t\t\tDepois, traga o Violino de volta\n\t\t\t\tpara o jovem <NAVI>[Jobim]<INFO>brasilis,198,145,0,101,0</INFO></NAVI>."
+		},
+		Summary = "3x ITEM_NAME"
+	},
+	[291504] = {
+		Title = "[Espera] Violino Quebrado",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Você completou a missão de Carnaval de hoje. Volte amanhã para <NAVI>[Jobim]<INFO>brasilis,198,145,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Reseta 4 da manhã."
+	},
+	[291505] = {
+		Title = "Carnaval: Violino Quebrado",
+		IconName = "ico_ev.bmp",
+		Description = {""},
+		Summary = ""
+	},
+	[291506] = {
+		Title = "Carnaval: Restaurante",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Ajude a pobre <NAVI>[Garçonete]<INFO>brasilis,338,228,0,101,0</INFO></NAVI>.\n\t\t\t\tAceite os pedidos dos clientes e\n\t\t\t\ttraga pratos de comida para eles."
+		},
+		Summary = "Anote Pedidos"
+	},
+	[291507] = {
+		Title = "[Espera] Restaurante",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Você completou a missão de Carnaval de hoje. Volte amanhã para a <NAVI>[Garçonete]<INFO>brasilis,338,228,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Reseta 4 da manhã."
+	},
+	[291508] = {
+		Title = "Carnaval: Mesa 1",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Traga ^ff0000^nItemID^12044^000000 para o <NAVI>[Cliente]<INFO>brasilis,348,231,0,101,0</INFO></NAVI>."
+		},
+		Summary = "1x Bife Marinado com Ervas"
+	},
+	[291509] = {
+		Title = "Carnaval: Mesa 1",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Traga ^ff0000^nItemID^12060^000000 para o <NAVI>[Cliente]<INFO>brasilis,348,231,0,101,0</INFO></NAVI>."
+		},
+		Summary = "1x Morcego na Moranga"
+	},
+	[291510] = {
+		Title = "Carnaval: Mesa 2",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Traga ^ff0000^nItemID^12055^000000 para o <NAVI>[Cliente]<INFO>brasilis,329,224,0,101,0</INFO></NAVI>."
+		},
+		Summary = "1x Pão de Carne Picante"
+	},
+	[291511] = {
+		Title = "Carnaval: Mesa 2",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Traga ^ff0000^nItemID^12050^000000 para o <NAVI>[Cliente]<INFO>brasilis,329,224,0,101,0</INFO></NAVI>."
+		},
+		Summary = "1x Vinho de Mastela"
+	},
+	[291512] = {
+		Title = "Carnaval: Mesa 3",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Traga ^ff0000^nItemID^12065^000000 para o <NAVI>[Cliente]<INFO>brasilis,339,217,0,101,0</INFO></NAVI>."
+		},
+		Summary = "1x Salada Verde"
+	},
+	[291513] = {
+		Title = "Carnaval: Mesa 3",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Traga ^ff0000^nItemID^12068^000000 para o <NAVI>[Cliente]<INFO>brasilis,339,217,0,101,0</INFO></NAVI>."
+		},
+		Summary = "1x Batata Doce Frita"
+	},
+	[291514] = {
+		Title = "Carnaval: Completo!",
+		IconName = "ico_ev.bmp",
+		Description = {""},
+		Summary = ""
+	},
+	[291515] = {
+		Title = "[Espera] Passe Diário",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Você completou a missão de hoje!\n\t\t\t\tRetorne amanhã após o horário para\n\t\t\t\tcontinuar coletando os Selos!\n\n\t\t\t\t           <NAVI>[Folclorista]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>"
+		},
+		Summary = "Reseta 4 da manhã"
+	},
+	[291516] = {
+		Title = "Passe Diário: Dia 1",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Elimine 30 monstros nos campos de Amatsu (ama_fild01) e retorne ao <NAVI>[Folclorista]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Caça em Amatsu"
+	},
+	[291517] = {
+		Title = "Passe Diário: Dia 2",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Elimine 30 monstros nos campos de Kunlun (gon_fild01) e retorne ao <NAVI>[Folclorista]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Caça em Kunlun"
+	},
+	[291518] = {
+		Title = "Passe Diário: Dia 3",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Elimine 30 monstros nos campos de Ayothaya (ayo_fild02) e retorne ao <NAVI>[Folclorista]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Caça em Ayothaya"
+	},
+	[291519] = {
+		Title = "Passe Diário: Dia 4",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Elimine 30 monstros na Caverna de Louyang (lou_dun02) e retorne ao <NAVI>[Folclorista]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Caverna de Louyang"
+	},
+	[291520] = {
+		Title = "Passe Diário: Dia 5",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Elimine 30 monstros na Caverna de Moscóvia (mosk_dun02) e retorne ao <NAVI>[Folclorista]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Floresta Encantada"
+	},
+	[291521] = {
+		Title = "Passe Diário: Dia 6",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Elimine 30 monstros na Caverna de Dewata (dew_dun02) e retorne ao <NAVI>[Folclorista]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Caverna Istana"
+	},
+	[291522] = {
+		Title = "Passe Diário: Dia 7",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Elimine 30 monstros nos campos de Brasilis (bra_fild01) e retorne ao <NAVI>[Folclorista]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Campos de Brasilis"
+	},
+	[291523] = {
+		Title = "Passe Diário: Dia 8",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Elimine 30 monstros na Caverna de Brasilis (bra_dun01) e retorne ao <NAVI>[Folclorista]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Caverna de Brasilis"
+	},
+	[291524] = {
+		Title = "Passe Diário: Dia 9",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Elimine 30 monstros na Caverna de Malangdo (mal_dun01) e retorne ao <NAVI>[Folclorista]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Caverna de Malangdo"
+	},
+	[291525] = {
+		Title = "Passe Diário: Dia 10",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Elimine 30 monstros na Caverna de Porto Malaya (ma_dun01) e retorne ao <NAVI>[Folclorista]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Caverna de Malaya"
 	}
 }

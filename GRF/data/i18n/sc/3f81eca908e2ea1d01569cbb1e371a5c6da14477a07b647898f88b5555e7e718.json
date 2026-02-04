@@ -467,12 +467,12 @@
     "XYx9Cg": {
         "en": "Go to Eden.",
         "pt": "Para o Éden!",
-        "es": "¡Al Grupo de Edén!"
+        "es": "¡Al Grupo del Edén!"
     },
     "Xox9Cg": {
         "en": "^4D4DFFGo to Eden - In Progress^000000",
         "pt": "^4D4DFFPara o Éden! - em progresso^000000",
-        "es": "^4D4DFF¡Al Grupo de Edén!: en curso.^000000"
+        "es": "^4D4DFF¡Al Grupo del Edén!: en curso.^000000"
     },
     "X4x9Cg": {
         "en": "^FF88A7Quest complete!^000000",
@@ -632,7 +632,7 @@
     "fox9Cg": {
         "en": "[Quest Details]\nGo to Eden Group.\nGo twice!",
         "pt": "[Detalhes da Missão]\nPara o Éden!\nVá logo!",
-        "es": "[Detalles de la misión]\n¡Al Grupo de Edén!\n¡Date prisa!"
+        "es": "[Detalles de la misión]\n¡Al Grupo del Edén!\n¡Date prisa!"
     },
     "f4x9Cg": {
         "en": "What is this?",
@@ -642,12 +642,12 @@
     "gIx9Cg": {
         "en": "[Lumin]\nEden Group made a list of various quality quests.\nMy plan is to use that list to train the newcomers.",
         "pt": "[Rumin]\nListei várias missões do Grupo do Éden.\nPlanejo usá-las como treinamento.",
-        "es": "[Rumin]\nEnumeré varias de las misiones del Grupo de Edén.\nPienso usarlas como entrenamiento."
+        "es": "[Rumin]\nEnumeré varias de las misiones del Grupo del Edén.\nPienso usarlas como entrenamiento."
     },
     "gYx9Cg": {
         "en": "[Lumin]\nEden Group Teleport Service is available in all big cities. It's even open in front of the Pyramid.\nGo easy.",
         "pt": "[Rumin]\nPor sorte, o portal para o Grupo do Éden está na Guilda dos Gatunos.\nDá pra chegar bem fácil!",
-        "es": "[Rumin]\nPor suerte, el portal al Grupo de Edén está en el gremio de Ladrones.\n¡Puedes llegar fácilmente!"
+        "es": "[Rumin]\nPor suerte, el portal al Grupo del Edén está en el gremio de Ladrones.\n¡Puedes llegar fácilmente!"
     },
     "gox9Cg": {
         "en": "Accept.",

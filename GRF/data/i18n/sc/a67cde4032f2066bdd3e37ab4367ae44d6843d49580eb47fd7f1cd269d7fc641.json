@@ -80,7 +80,7 @@
         "es": "[Líder de la Rebelión]\n¿Hay algo más?"
     },
     "cJmfBw": {
-        "en": "Tell the leader about having saved Gonie.",
+        "en": "Tell the leader about having saved Gony.",
         "pt": "Sobre o resgate de Gonie.",
         "es": "Contarle al líder que salvaste a Gonie."
     },
@@ -90,7 +90,7 @@
         "es": "[Líder de la Rebelión]\n¡Ah!\n¡Ya veo!\nMuchas gracias por ayudar al joven."
     },
     "cpmfBw": {
-        "en": "[Rebellion leader]\nHmm.. As I expected......\nGonie......",
+        "en": "[Rebellion leader]\nHmm.. As I expected......\nGony......",
         "pt": "[Líder dos Insurgentes]\nHum... Como eu esperava...\nGonie...",
         "es": "[Líder de la Rebelión]\nMmm… Tal como esperaba…\nGonie…"
     },
@@ -125,12 +125,12 @@
         "es": "[Líder de la Rebelión]\nMirándote a los ojos, veo que no viniste a que te demos las gracias."
     },
     "eZmfBw": {
-        "en": "[Rebellion leader]\nThe man called Lazy who came with you...\nHe's been wandering around here.",
+        "en": "[Rebellion leader]\nThe man called Leizi who came with you...\nHe's been wandering around here.",
         "pt": "[Líder dos Insurgentes]\nO homem chamado Nalandro que veio com você...\nEle está vagando por aqui.",
         "es": "[Líder de la Rebelión]\nEl hombre llamado Lazy que vino contigo…\nHa estado deambulando por aquí."
     },
     "epmfBw": {
-        "en": "[Rebellion leader]\nYou helped Gonie by chance. But you didn't come here by chance. Did you?",
+        "en": "[Rebellion leader]\nYou helped Gony by chance. But you didn't come here by chance. Did you?",
         "pt": "[Líder dos Insurgentes]\nVocê ajudou Gonie por acaso. Mas você não chegou aqui por acaso. Não é?",
         "es": "[Líder de la Rebelión]\nAyudaste a Gonie por casualidad. Pero no viniste aquí por casualidad. ¿Verdad?"
     },
@@ -160,7 +160,7 @@
         "es": "[Líder de la Rebelión]\nJa…\nCreo que estás malinterpretando algo."
     },
     "gJmfBw": {
-        "en": "[Rebellion leader]\nSurely, I want to express my gratitude for what you did for Gonie.",
+        "en": "[Rebellion leader]\nSurely, I want to express my gratitude for what you did for Gony.",
         "pt": "[Líder dos Insurgentes]\nClaro, eu quero expressar minha gratidão pelo que você fez pelo Gonie.",
         "es": "[Líder de la Rebelión]\nSin duda, quiero expresar mi gratitud por lo que hiciste por Gonie."
     },
@@ -195,7 +195,7 @@
         "es": "Saldrá por su propia cuenta, a menos que quiera morir."
     },
     "h5mfBw": {
-        "en": "[Rebellion leader]\nHe must know his position better than anyone else.\nThe man called Lazy, too.",
+        "en": "[Rebellion leader]\nHe must know his position better than anyone else.\nThe man called Leizi, too.",
         "pt": "[Líder dos Insurgentes]\nEle deve entender sua posição melhor do que ninguém.\nO homem chamado Nalandro também.",
         "es": "[Líder de la Rebelión]\nDebe conocer su posición mejor que nadie.\nEl hombre que se llama Lazy también."
     },
@@ -545,7 +545,7 @@
         "es": "[Dien, Veterana]\nYa que tienes la aprobación de Rupert, {0}, ¿por qué no regresas a reportar?"
     },
     "zZmfBw": {
-        "en": "Dien : The man who came with you.. Is his name Lazy?",
+        "en": "Dien : The man who came with you.. Is his name Leizi?",
         "pt": "Dien: O homem que veio com você... O nome dele é Nalandro?",
         "es": "Dien: El hombre que vino contigo… ¿Se llama Lazy?"
     },
@@ -740,12 +740,12 @@
         "es": "[Dien]\nBueno… Oí lo que dijeron de ti.\n¿Ayudaste al chico cuando se cayó al suelo?"
     },
     "9JmfBw": {
-        "en": "[???]\nSister, he is Gonie.",
+        "en": "[???]\nSister, he is Gony.",
         "pt": "[???]\nIrmã, ele é o Gonie.",
         "es": "[???]\nHermana, él es Gonie."
     },
     "9ZmfBw": {
-        "en": "[Dien]\nOops.\nIs his name Gonie?",
+        "en": "[Dien]\nOops.\nIs his name Gony?",
         "pt": "[Dien]\nOpa.\nO nome dele é Gonie?",
         "es": "[Dien]\nUy.\n¿Se llama Gonie?"
     },
@@ -815,7 +815,7 @@
         "es": "???: Bueno… Como aquí es muy seco, pueden quedar más crujientes."
     },
     "A5qfBw": {
-        "en": "[???]\nBy the way, what happened to Gonie that time?",
+        "en": "[???]\nBy the way, what happened to Gony that time?",
         "pt": "[???]\nFalando nisso, o que aconteceu com o Gonie aquela vez?",
         "es": "[???]\nPor cierto, ¿qué le pasó a Gonie aquella vez?"
     },
@@ -915,7 +915,7 @@
         "es": "Ridsh: ¡También oíste lo que acaba de decir!"
     },
     "F5qfBw": {
-        "en": "[Ridsh]\nNo wonder they started talking about Gonie. It seemed like they were hiding something from the beginning!",
+        "en": "[Ridsh]\nNo wonder they started talking about Gony. It seemed like they were hiding something from the beginning!",
         "pt": "[Ridsh]\nNenhuma surpresa terem começado a falar de Gonie. Parecia que estavam escondendo alguma coisa desde o começo!",
         "es": "[Ridsh]\nNo me extraña que empezara hablando de Gonie. ¡Parecía que ocultaba algo desde el principio!"
     },

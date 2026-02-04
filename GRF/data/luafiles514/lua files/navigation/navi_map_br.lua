@@ -1310,7 +1310,7 @@ Navi_Map = {
 	},
 	{
 		"gl_cas01_",
-		"Castillo de Glastheim Abyss piso 1",
+		"Glast Heim (1) ",
 		5001,
 		400,
 		400
@@ -4019,7 +4019,7 @@ Navi_Map = {
 	},
 	{
 		"rockrdg2",
-		"Deserto Kiwawa (2)",
+		"Kiwawa Desert",
 		5001,
 		400,
 		400
@@ -4142,6 +4142,20 @@ Navi_Map = {
 		5001,
 		400,
 		400
+	},
+	{
+		"star_frst",
+		"Bosque Meteoro",
+		5003,
+		200,
+		200
+	},
+	{
+		"star_in",
+		"Interior do Bosque Meteoro",
+		5003,
+		200,
+		200
 	},
 	{
 		"sword_1-1",

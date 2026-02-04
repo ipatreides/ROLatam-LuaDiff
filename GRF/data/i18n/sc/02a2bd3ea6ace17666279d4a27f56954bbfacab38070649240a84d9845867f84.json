@@ -39,13 +39,13 @@
         "ko": "[Eden Group Teleport Service]\nDo you want us to give you some quests that'll be helpful for your adventure?",
         "en": "[Eden Teleport Officer]\nDo you want to return to Eden Group?",
         "pt": "[Oficial do Éden]\nQuer voltar ao Grupo Éden?",
-        "es": "[Oficial de Teletransporte del Edén]\n¿Quieres volver al Grupo Edén?"
+        "es": "[Oficial de Teletransporte del Edén]\n¿Quieres volver al Grupo del Edén?"
     },
     "Z/2gCw": {
         "ko": "Go to Eden Group.",
         "en": "Go to Eden Group.",
         "pt": "Ir para o Grupo do Éden.",
-        "es": "Ir al Grupo Edén."
+        "es": "Ir al Grupo del Edén."
     },
     "aP2gCw": {
         "ko": "End conversation.",
@@ -63,7 +63,7 @@
         "ko": "[Eden Group Teleport Service]\nPlease visit the Eden Group any time you're in need!",
         "en": "[Eden Teleport Officer]\nPlease visit the Eden Group any time you're in need!",
         "pt": "[Oficial do Éden]\nVisite o Grupo do Éden sempre que precisar!",
-        "es": "[Oficial de Teletransporte del Edén]\nVisita el Grupo Edén cuando lo necesites."
+        "es": "[Oficial de Teletransporte del Edén]\nVisita el Grupo del Edén cuando lo necesites."
     },
     "a/2gCw": {
         "ko": "[마켓 상인]\n절 따라오세요!",

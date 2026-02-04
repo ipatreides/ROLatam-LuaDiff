@@ -22,7 +22,7 @@
     "BFdxCg": {
         "en": "[Instructor Ur]\nWell, I'm an instructor for Eden Group.",
         "pt": "[Instrutor Ur]\nBem, sou um instrutor do Grupo do Éden.",
-        "es": "[Instructor Ur]\nBueno, soy instructor del Grupo de Edén."
+        "es": "[Instructor Ur]\nBueno, soy instructor del Grupo del Edén."
     },
     "BVdxCg": {
         "en": "[Instructor Ur]\nI'm here to give you missions based on your current base level.\nThese missions are not very difficult to do.",
@@ -32,7 +32,7 @@
     "BldxCg": {
         "en": "[Instructor Ur]\nI am the senior instructor here at Eden Group.\nWhat do you say are you up for the challenge?",
         "pt": "[Instrutor Ur]\nSou o Instrutor Avançado Ur, do Grupo do Éden.\nO que você acha? Você quer tentar?",
-        "es": "[Instructor Ur]\nSoy el instructor sénior del Grupo de Edén.\n¿Qué dices? ¿Te interesa este desafío?"
+        "es": "[Instructor Ur]\nSoy el instructor sénior del Grupo del Edén.\n¿Qué dices? ¿Te interesa este desafío?"
     },
     "B1dxCg": {
         "en": "Not today I'm not.",
@@ -267,7 +267,7 @@
     "NVdxCg": {
         "en": "[Instructor Ur]\nAnyways, go out to the field south of Einbroch and you'll see the Dispatched Instructor.\nI'm sure he'll recognize you first.\nDon't forget to bring the Eden Group badge.",
         "pt": "[Instrutor Ur]\nEnfim, você vai encontrar um integrante do nosso grupo ao sul de Einbroch.\nEle vai te reconhecer.\nNão se esqueça de levar o emblema do Grupo do Éden com você.",
-        "es": "[Instructor Ur]\nEn fin, ve al campo al sur de Einbroch y verás al instructor designado.\nSeguro te reconocerá primero.\nNo olvides llevar la insignia del Grupo de Edén."
+        "es": "[Instructor Ur]\nEn fin, ve al campo al sur de Einbroch y verás al instructor designado.\nSeguro te reconocerá primero.\nNo olvides llevar la insignia del Grupo del Edén."
     },
     "NldxCg": {
         "en": "[Instructor Ur]\nThe city's pollution is unbearable\nBut the surrounding fields are relatively clean...\nThis should be pretty easy for you.",
@@ -312,7 +312,7 @@
     "PldxCg": {
         "en": "[Instructor Ur]\nAll you have to do is find the Eden Group agent there.\nTell him I sent you, and he'll give you instructions.\nYou can explore the new world\nIt's like a vacation isn't it?",
         "pt": "[Instrutor Ur]\nTudo o que você precisa fazer é encontrar a Agente do Grupo do Éden.\nDiga a ela que eu te enviei e ela lhe dará instruções.\nVocê pode explorar o novo mundo.\nÉ como férias, não é?",
-        "es": "[Instructor Ur]\nSolo tienes que encontrar al agente del Grupo de Edén que está allí.\nDile que te envié yo, y te dará instrucciones.\nPuedes explorar el nuevo mundo.\nSon como unas vacaciones, ¿verdad?"
+        "es": "[Instructor Ur]\nSolo tienes que encontrar al agente del Grupo del Edén que está allí.\nDile que te envié yo, y te dará instrucciones.\nPuedes explorar el nuevo mundo.\nSon como unas vacaciones, ¿verdad?"
     },
     "P1dxCg": {
         "en": "[Instructor Ur]\nHahaha!\n.. Maybe I'll go instead of sending you.\nAnyways, their names are Ma~ something... I don't know.",
@@ -447,7 +447,7 @@
     "WVdxCg": {
         "en": "[Instructor Ur]\nI've used to have a rough life.\nBut after meeting the Eden Group, my life has a purpose.\nI love my life now.",
         "pt": "[Instrutor Ur]\nJá passei por tempos difíceis.\nTenho algo para fazer, agora que estou no Grupo do Éden.\nAgora estou em uma situação confortável.",
-        "es": "[Instructor Ur]\nSolía tener una vida difícil.\nPero después de conocer al Grupo de Edén, por fin tuve un propósito.\nAhora me encanta mi vida."
+        "es": "[Instructor Ur]\nSolía tener una vida difícil.\nPero después de conocer al Grupo del Edén, por fin tuve un propósito.\nAhora me encanta mi vida."
     },
     "WldxCg": {
         "en": "[Instructor Ur]\nAll I do is send help to where help is requested, but\nIt's great to meet new people all the time\nI can't ask for more.",
@@ -577,7 +577,7 @@
     "c1dxCg": {
         "en": "[Romeo]\nIf you were sent from the Eden Group for training, wait for me at the town.\nI'm waiting for a different trainee right now.",
         "pt": "[Romeo]\nSe o grupo te mandou para cá para treinar, vamos até a vila.\nVim encontrar outros integrantes.",
-        "es": "[Romeo]\nSi te enviaron del Grupo de Edén para que entrenes, espérame en el pueblo.\nAhora, estoy esperando a otro aprendiz."
+        "es": "[Romeo]\nSi te enviaron del Grupo del Edén para que entrenes, espérame en el pueblo.\nAhora, estoy esperando a otro aprendiz."
     },
     "dFdxCg": {
         "en": "[Romeo]\nNo no.. Not here.\nI'm waiting for a different trainee right now.\nGo back.",
@@ -737,7 +737,7 @@
     "k1dxCg": {
         "en": "[Johan]\nYou can go back to Eden now\nI'll stay and clean up the rest, hehe",
         "pt": "[Johan]\nVolte para o grupo.\nVou continuar cuidando da Abadia.",
-        "es": "[Johan]\nYa puedes volver al Grupo de Edén.\nMe quedaré a limpiar el resto, je, je."
+        "es": "[Johan]\nYa puedes volver al Grupo del Edén.\nMe quedaré a limpiar el resto, je, je."
     },
     "lFdxCg": {
         "en": "[Johan]\n10 Evil Druids!\nI'll watch your back, like last time.\n... Of... Course... I'll fight them too!",
@@ -1037,7 +1037,7 @@
     "z1dxCg": {
         "en": "[Margaret]\nOh, sorry.\nI don't know much about the life of an adventurer.\nI'm just a member of Eden Group...",
         "pt": "[Magret]\nOh, desculpe.\nNão faço ideia de como está a expedição.\nÉ melhor perguntar a outra pessoa.",
-        "es": "[Margaret]\nAh, lo siento.\nNo sé mucho sobre la vida de los trotamundos.\nSolo soy miembro del Grupo de Edén…"
+        "es": "[Margaret]\nAh, lo siento.\nNo sé mucho sobre la vida de los trotamundos.\nSolo soy miembro del Grupo del Edén…"
     },
     "0FdxCg": {
         "en": "[Margaret]\nThe proof that you have there.\nYou're here in paradise.\nInstructor Ur sent you?",
@@ -1352,7 +1352,7 @@
     "DlhxCg": {
         "en": "[Thorn]\nHmm equipment strengthening.\nI don't exactly do that for just anyone.\nThe first step is at least a higher degree of training so have you done the Eden Group training yet?",
         "pt": "[Torhen]\nBem, quanto a encantar equipamentos.\nVocê precisa passar pelo treinamento avançado do Ur.\nFale com o Instrutor Ur.",
-        "es": "[Thorn]\nMmm, una mejora de equipamiento.\nNo hago ese tipo de trabajo para cualquiera.\nEl primer paso es al menos un grado superior de práctica, así que ¿ya completaste el entrenamiento del Grupo de Edén?"
+        "es": "[Thorn]\nMmm, una mejora de equipamiento.\nNo hago ese tipo de trabajo para cualquiera.\nEl primer paso es al menos un grado superior de práctica, así que ¿ya completaste el entrenamiento del Grupo del Edén?"
     },
     "D1hxCg": {
         "en": "[Thorn]\nYou have not awakened yet.\nFirst do the missions set forth by Instructor Ur and I'll help you strengthen your equipment.",
@@ -1367,7 +1367,7 @@
     "EVhxCg": {
         "en": "[Thorn]\nStrengthen your equipment eh?\nI'll strengthen the new Eden Group equipment for you by giving it a random stat boost.",
         "pt": "[Torhen]\nEncantar seu equipamento?\nSó aplico encantamentos aos equipamentos do Grupo do Éden.\nO encantamento é aleatório.",
-        "es": "[Thorn]\nAsí que, quieres mejorar tu equipamiento, ¿eh?\nReforzaré tu nuevo equipamiento del Grupo de Edén con un aumento aleatorio de las estadísticas."
+        "es": "[Thorn]\nAsí que, quieres mejorar tu equipamiento, ¿eh?\nReforzaré tu nuevo equipamiento del Grupo del Edén con un aumento aleatorio de las estadísticas."
     },
     "ElhxCg": {
         "en": "[Thorn]\nSo what equipment do you want to enhance?",
@@ -1742,7 +1742,7 @@
     "XFhxCg": {
         "en": "[Thorn]\nYou can strengthen the equipment that I gave you.\nWeapons Expert BK is at Eden Group Headquarters and he can do that for you.",
         "pt": "[Torhen]\nBK e eu podemos ajudar você encantando equipamentos.\nEu encanto equipamentos. BK encanta armas.",
-        "es": "[Thorn]\nPuedes mejorar el equipamiento que te di.\nEl experto en armas, BK, está en el cuartel general del Grupo de Edén y puede ayudarte con eso."
+        "es": "[Thorn]\nPuedes mejorar el equipamiento que te di.\nEl experto en armas, BK, está en el cuartel general del Grupo del Edén y puede ayudarte con eso."
     },
     "XVhxCg": {
         "en": "[Thorn]\nSo go to him and he can make your equipment stronger.",
@@ -1762,7 +1762,7 @@
     "YFhxCg": {
         "en": "[Thorn]\nHmm, are you a member of Eden Group?\nYou need to be one of our members to use my services.",
         "pt": "[Torhen]\nHmm, você é do Grupo do Éden?\nVocê precisa ser um de nossos membros para usar meus serviços.",
-        "es": "[Thorn]\nHum, ¿eres miembro del Grupo de Edén?\nTienes que ser miembros para usar mis servicios."
+        "es": "[Thorn]\nHum, ¿eres miembro del Grupo del Edén?\nTienes que ser miembros para usar mis servicios."
     },
     "YVhxCg": {
         "en": "Weapons Expert BK",
@@ -1772,12 +1772,12 @@
     "YlhxCg": {
         "en": "[BK]\nI'm sorry, but you can't upgrade if you have Eden Group items provided for rental.",
         "pt": "[BK]\nSinto muito, mas não é possível encantar se você tiver itens do Grupo do Éden de aluguel.",
-        "es": "[BK]\nLo siento, pero no puedes mejorar objetos del Grupo de Edén que son alquilados."
+        "es": "[BK]\nLo siento, pero no puedes mejorar objetos del Grupo del Edén que son alquilados."
     },
     "Y1hxCg": {
         "en": "Sword of Eden III",
         "pt": "Espada do Éden III",
-        "es": "Exterminadora del Grupo de Edén III."
+        "es": "Exterminadora del Grupo del Edén III."
     },
     "ZFhxCg": {
         "en": "Saber of Eden III",

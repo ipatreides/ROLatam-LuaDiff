@@ -4354,14 +4354,14 @@ achievement_tbl = {
 		group = "CHATTING",
 		major = 4,
 		minor = 0,
-		title = "Coroação",
+		title = "Criador de Reis",
 		content = {
-			details = "Regain the glory of Terra Gloria and crown the one who was at the vanguard.",
-			summary = "The king I crowned myself"
+			summary = "Meu Rei que Eu Criei",
+			details = "Restaure a glória de Terra Gloria e coroe o herói que a reivindicou."
 		},
 		resource = {
-			{
-				text = "Participate in the coronation of the new king of Rune-Midgarts Kingdom."
+			[1] = {
+				text = "Assista à coroação do novo Rei de Rune-Midgarts."
 			}
 		},
 		reward = {title = 1046},
@@ -7015,24 +7015,6 @@ achievement_tbl = {
 		},
 		reward = {},
 		score = 50
-	},
-	[130005] = {
-		UI_Type = 0,
-		group = "CHATTING",
-		major = 4,
-		minor = 0,
-		title = "Criador de Reis",
-		content = {
-			summary = "Meu Rei que Eu Criei",
-			details = "Restaure a glória de Terra Gloria e coroe o herói que a reivindicou."
-		},
-		resource = {
-			[1] = {
-				text = "Assista à coroação do novo Rei de Rune-Midgarts."
-			}
-		},
-		reward = {title = 1046},
-		score = 10
 	},
 	[200032] = {
 		UI_Type = 0,

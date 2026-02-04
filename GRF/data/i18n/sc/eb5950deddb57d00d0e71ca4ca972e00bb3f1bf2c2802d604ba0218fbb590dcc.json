@@ -537,7 +537,7 @@
     "q4tZAw": {
         "en": "[Boya]\nTo register in the Eden Group ask Lime Evenor who is next to me.",
         "pt": "[Boya]\nPara se inscrever no Grupo do Éden, fale com Lenore, que está perto de mim.",
-        "es": "[Boya]\nSi quieres inscribirte en el Grupo de Edén, habla con Lime Evenor, que está a mi lado."
+        "es": "[Boya]\nSi quieres inscribirte en el Grupo del Edén, habla con Lime Evenor, que está a mi lado."
     },
     "rItZAw": {
         "en": "Talking Dog",
@@ -552,7 +552,7 @@
     "rotZAw": {
         "en": "[Talking Dog]\nWhat's up?\nYou are\na member of the Eden Group.\nDid you come to give some food?? I don't like dry food.",
         "pt": "[Mutt]\nO que me conta de novo?\nVocê é um integrante do Grupo do Éden.\nVocê veio me dar ração?? \nNão gosto de ficar com fome...",
-        "es": "[Perro que habla]\n¿Qué sucede?\nEres\nmiembro del Grupo de Edén.\n¿Viniste a darme de comer? No me gusta la comida seca."
+        "es": "[Perro que habla]\n¿Qué sucede?\nEres\nmiembro del Grupo del Edén.\n¿Viniste a darme de comer? No me gusta la comida seca."
     },
     "r4tZAw": {
         "en": "Boya is really great.",
@@ -707,7 +707,7 @@
     "zYtZAw": {
         "en": "[Talking Dog]\nGo back to the Eden Group and show it to the flashing lun knight.\nLet me just say again ,you are great!\nahooooohooo",
         "pt": "[Mutt]\nVolte ao escritório do Grupo do Éden e mostre à Cavaleira Rúnica Ligeira.\nDeixe-me dizer mais uma vez que você é demais!\nAuuuuuauuuuu",
-        "es": "[Perro que habla]\nVuelve a la oficina del Grupo de Edén y enséñaselo a la caballera más rápida.\nPermíteme repetirlo, ¡eres genial!\n*¡Ajuuu!*"
+        "es": "[Perro que habla]\nVuelve a la oficina del Grupo del Edén y enséñaselo a la caballera más rápida.\nPermíteme repetirlo, ¡eres genial!\n*¡Ajuuu!*"
     },
     "zotZAw": {
         "en": "[Talking Dog]\nLet's remove just 5 scorpions.\nIf so, we can make peace in this oasis.",
@@ -727,7 +727,7 @@
     "0YtZAw": {
         "en": "[Talking Dog]\nEveryone will have good memories with the Eden Group.\nOh, if you tired, I will help you.",
         "pt": "[Mutt]\nTodas as pessoas terão boas lembranças do Grupo do Éden.\nAh, se estiver cansado, eu ajudarei você.",
-        "es": "[Perro que habla]\nTodos tendrán buenos recuerdos del Grupo de Edén.\nAh, si te cansas, te ayudaré."
+        "es": "[Perro que habla]\nTodos tendrán buenos recuerdos del Grupo del Edén.\nAh, si te cansas, te ayudaré."
     },
     "0otZAw": {
         "en": "[Talking Dog]\nkkkkkaaaaauuuunnng.\noopssss kup..",
@@ -747,7 +747,7 @@
     "1YtZAw": {
         "en": "[Talking Dog]\nthe Eden Group is cool, a really good team.\nThey accept the wandering, talking dog.\nTake care and good job.",
         "pt": "[Mutt]\nO Grupo do Éden é muito legal e solícito.\nEles aceitam cães falantes abandonados...\nCuide-se e bom trabalho.",
-        "es": "[Perro que habla]\nEl Grupo de Edén es genial, es un excelente equipo.\nAceptan al perro errante que habla.\n¡Bien hecho! Cuídate."
+        "es": "[Perro que habla]\nEl Grupo del Edén es genial, es un excelente equipo.\nAceptan al perro errante que habla.\n¡Bien hecho! Cuídate."
     },
     "1otZAw": {
         "en": "[Talking Dog]\nHey look.\nI'm a talking dog.\nNot a wolf.\nOriginally I wasn't a dog...",
@@ -757,7 +757,7 @@
     "14tZAw": {
         "en": "[Talking Dog]\nAnyway are you one of the Eden Group members?\nOh, good to see you.\nI am also a member of the Eden Group.\nTake care and good job.",
         "pt": "[Mutt]\nBom, você é um dos integrantes do Grupo do Éden?\nHoho, que bom ver você.\nTambém faço parte do Grupo do Éden.\nCuide-se e bom trabalho.",
-        "es": "[Perro que habla]\nEn fin, ¿eres miembro del Grupo de Edén?\nAh, me alegro de verte.\nYo también soy miembro del Grupo de Edén.\n¡Bien hecho! Cuídate."
+        "es": "[Perro que habla]\nEn fin, ¿eres miembro del Grupo del Edén?\nAh, me alegro de verte.\nYo también soy miembro del Grupo del Edén.\n¡Bien hecho! Cuídate."
     },
     "2ItZAw": {
         "en": "[Talking Dog]\nWhy are you looking me mysteriously?\n.....",
@@ -932,7 +932,7 @@
     "+otZAw": {
         "en": "[Timid Cat]\nDo you know how to go to the Eden Group??\nProntera is the closest city to here.\nGo to Prontera and find a officer.",
         "pt": "[Perrault]\nVocê sabe ir até o escritório do Grupo do Éden??\nA cidade de Prontera é a mais próxima daqui.\nVá até Prontera e encontre a Oficial.",
-        "es": "[Gato temeroso]\n¿Sabes cómo ir a la oficina del Grupo de Edén?\nProntera es la ciudad más cercana.\nVe a Prontera y busca a un oficial."
+        "es": "[Gato temeroso]\n¿Sabes cómo ir a la oficina del Grupo del Edén?\nProntera es la ciudad más cercana.\nVe a Prontera y busca a un oficial."
     },
     "+4tZAw": {
         "en": "[Timid Cat]\nFamiliar is really scary man,\nhe appears by flying.",
@@ -947,7 +947,7 @@
     "/YtZAw": {
         "en": "[Timid Cat]\nYou already conquered the underground waterway.\nNow just go back to the Para office to report to Boya.",
         "pt": "[Perrault]\nVocê já conquistou os esgotos.\nAgora, basta voltar ao Grupo do Éden e informar isso a Boya.",
-        "es": "[Gato temeroso]\nYa conquistaste el canal subterráneo.\nAhora, vuelve a la oficina del Grupo de Edén para informar a Boya."
+        "es": "[Gato temeroso]\nYa conquistaste el canal subterráneo.\nAhora, vuelve a la oficina del Grupo del Edén para informar a Boya."
     },
     "/otZAw": {
         "en": "[Timid Cat]\nBoya might eat my tuna while he is waiting for you...",
@@ -957,7 +957,7 @@
     "/4tZAw": {
         "en": "[Timid Cat]\nHow are you, meeew?\nDid you volunteer to conquer underground waterway?\nSurely you are member of the Eden Group?\nYou are helping the world to be a better place.",
         "pt": "[Perrault]\nComo vai? Miaaau...\nVocê voluntariou para conquistar o esgoto de Prontera?\nCom certeza, é um integrante do Grupo do Éden...\nVocê está ajudando o mundo a se tornar um lugar melhor.",
-        "es": "[Gato temeroso]\n¿Cómo estás? Miaaa.\n¿Te ofreciste para conquistar el canal subterráneo?\n¿Seguro que eres miembro del Grupo de Edén?\nEstás ayudando a que el mundo sea un lugar mejor."
+        "es": "[Gato temeroso]\n¿Cómo estás? Miaaa.\n¿Te ofreciste para conquistar el canal subterráneo?\n¿Seguro que eres miembro del Grupo del Edén?\nEstás ayudando a que el mundo sea un lugar mejor."
     },
     "AIxZAw": {
         "en": "Coral",
@@ -1087,7 +1087,7 @@
     "GYxZAw": {
         "en": "[Coral]\nI already let Boya know in the Para office.\nIf you go there he will give you a big welcome.",
         "pt": "[Coral]\nJá informei Boya no Grupo do Éden.\nSe for até lá, ela receberá você muito bem.",
-        "es": "[Coral]\nYa se lo hice saber a Boya en la oficina del Grupo de Edén.\nSi vas allí, te dará una gran bienvenida."
+        "es": "[Coral]\nYa se lo hice saber a Boya en la oficina del Grupo del Edén.\nSi vas allí, te dará una gran bienvenida."
     },
     "GoxZAw": {
         "en": "[Coral]\nYou will get a new uniform, aren't you excited?\nhahaha.",
@@ -1097,7 +1097,7 @@
     "G4xZAw": {
         "en": "[Coral]\nGet rid of undead??\nDo your best to make the world safer.\nIt's one of goals of the Eden Group.",
         "pt": "[Coral]\nLivrou-se dos mortos-vivos??\nFaça o melhor possível para tornar o mundo melhor.\nÉ um dos objetivos do Grupo do Éden.",
-        "es": "[Coral]\n¿Eliminar a los Muertos vivientes?\nHaz todo lo posible para que el mundo sea más seguro.\nEs uno de los objetivos del Grupo de Edén."
+        "es": "[Coral]\n¿Eliminar a los Muertos vivientes?\nHaz todo lo posible para que el mundo sea más seguro.\nEs uno de los objetivos del Grupo del Edén."
     },
     "HIxZAw": {
         "en": "Clod",
@@ -1282,12 +1282,12 @@
     "QIxZAw": {
         "en": "[Clod]\nGo back to the office and report that you completed the job, hurry up.\nYou will get good news.\nEden Group uniform is pretty well manufactured.",
         "pt": "[Clod]\nVolte ao Grupo do Éden e informe que completou a tarefa. Depressa!\nVocê receberá boas notícias.\nO uniforme do Grupo do Éden é muito bem produzido.",
-        "es": "[Clod]\nVuelve a la oficina e informa que completaste el trabajo, date prisa.\nRecibirás buenas noticias.\nEl uniforme del Grupo de Edén es de muy buena calidad."
+        "es": "[Clod]\nVuelve a la oficina e informa que completaste el trabajo, date prisa.\nRecibirás buenas noticias.\nEl uniforme del Grupo del Edén es de muy buena calidad."
     },
     "QYxZAw": {
         "en": "[Clod]\nI am really proud of myself and my Eden Group.\nGoes well with the uniform?\nHaha.",
         "pt": "[Clod]\nEstou muito orgulhoso de mim mesmo e do Grupo do Éden.\nO uniforme ficou bom?\nHaha...",
-        "es": "[Clod]\nEstoy muy orgulloso de mí mismo y de mi Grupo de Edén.\n¿Va bien con el uniforme?\nJa, ja."
+        "es": "[Clod]\nEstoy muy orgulloso de mí mismo y de mi Grupo del Edén.\n¿Va bien con el uniforme?\nJa, ja."
     },
     "QoxZAw": {
         "en": "Hooksha",
@@ -1312,7 +1312,7 @@
     "RoxZAw": {
         "en": "[Hooksha]\nWhy don't you join in my team?\nEden Group.\nif you have anything interesting, find them.\nYou won't regret it... hooowoo.",
         "pt": "[Absalom]\nPor que não se junta ao meu grupo?\nO Grupo do Éden.\nSe estiver interessado, procure-os.\nVocê não vai se arrepender... uááááá.",
-        "es": "[Hooksha]\n¿Por qué no te unes a mi equipo?\nEl Grupo de Edén.\nSi tienes algo interesante, encuéntralos.\nNo te arrepentirás… Iujuuu."
+        "es": "[Hooksha]\n¿Por qué no te unes a mi equipo?\nEl Grupo del Edén.\nSi tienes algo interesante, encuéntralos.\nNo te arrepentirás… Iujuuu."
     },
     "R4xZAw": {
         "en": "[Hooksha]\nHello.\nAre you a trainee?\nHoho, I can recognize at once.\nbut is it alright?\ncan I start?",
@@ -1422,7 +1422,7 @@
     "XIxZAw": {
         "en": "[Hooksha]\nGo back to the Para office and report it.\nThey will give good news to you.",
         "pt": "[Absalom]\nVolte ao Grupo do Éden e informe isso a eles. \nEles lhe darão boas notícias.",
-        "es": "[Hooksha]\nVuelve a la oficina del Grupo de Edén para informar esto.\nTe darán buenas noticias."
+        "es": "[Hooksha]\nVuelve a la oficina del Grupo del Edén para informar esto.\nTe darán buenas noticias."
     },
     "XYxZAw": {
         "en": "[Hooksha]\nOrc ladies are the final target.\nCheer up!! a little bit more!!.",
@@ -1687,7 +1687,7 @@
     "kYxZAw": {
         "en": "[Mihael]\nCheck what you get.\nOne of Eden Group hats\nOne of Eden Group uniforms\nOne pair of Eden Group boots\nOne of Eden Group manteau\nTotally 4, that's all.",
         "pt": "[Mihael]\nCheque o que você recebeu.\nUm dos chapéus da Eden Group\nUm dos uniformes da Eden Group\nUm par de botas da Eden Group\nUm manteau da Eden Group\nSão 4, no total.",
-        "es": "[Mihael]\nRevisa lo que obtienes.\nUn Sombrero del Grupo de Edén.\nUn Uniforme del Grupo de Edén.\nUn par de Botas del Grupo de Edén.\nUn Manto del Edén.\nSon 4 objetos en total, eso es todo."
+        "es": "[Mihael]\nRevisa lo que obtienes.\nUn Sombrero del Grupo del Edén.\nUn Uniforme del Grupo del Edén.\nUn par de Botas del Grupo del Edén.\nUn Manto del Edén.\nSon 4 objetos en total, eso es todo."
     },
     "koxZAw": {
         "en": "[Mihael]\nIs it correct?\nIt is manufactured for beginners so, doesn't have good effect BUT\nsurely better than cheaper equipment in the shop.",
@@ -1737,12 +1737,12 @@
     "m4xZAw": {
         "en": "[Mihael]\nYou chose the Foxtail of Eden I weapon.\nAdditionally there are Eden Group boots II and Uniform II.",
         "pt": "[Mihael]\nVocê escolheu a arma Cauda de Gato I do Grupo do Éden.\nAlém disso, há as Botas II da Eden Group e o Uniforme II.",
-        "es": "[Mihael]\nElegiste el arma Báculo de Cola de Gato I del Grupo de Edén.\nAdemás, hay Botas II y Uniforme II del Grupo de Edén."
+        "es": "[Mihael]\nElegiste el arma Báculo de Cola de Gato I del Grupo del Edén.\nAdemás, hay Botas II y Uniforme II del Grupo del Edén."
     },
     "nIxZAw": {
         "en": "[Mihael]\nYou don't have record what equipment you have got\nSo, I will give you the Eden Group manteau and hat too.",
         "pt": "[Mihael]\nVocê não tem registro do equipamento que tem\nEntão, eu lhe darei o chapéu e o manteau da Eden Group também.",
-        "es": "[Mihael]\nNo hace falta que registres el equipamiento que tienes.\nPor lo tanto, también te daré el Manto y el Sombrero del Grupo de Edén."
+        "es": "[Mihael]\nNo hace falta que registres el equipamiento que tienes.\nPor lo tanto, también te daré el Manto y el Sombrero del Grupo del Edén."
     },
     "nYxZAw": {
         "en": "[Mihael]\nCheck your equipment again and treat it usefully.",
@@ -1782,17 +1782,17 @@
     "pIxZAw": {
         "en": "[Mihael]\nYou choose the Sword of Eden I equipment...\nAdditionally there are Eden boots II and Uniform II.",
         "pt": "[Mihael]\nVocê escolheu a Espada do Éden I...\nTambém darei as Botas II e o Uniforme II do Éden.",
-        "es": "[Mihael]\nElegiste el equipamiento Exterminadora del Grupo de Edén I…\nAdemás, hay Botas II y Uniforme II del Grupo de Edén."
+        "es": "[Mihael]\nElegiste el equipamiento Exterminadora del Grupo del Edén I…\nAdemás, hay Botas II y Uniforme II del Grupo del Edén."
     },
     "pYxZAw": {
         "en": "[Mihael]\nYour weapon is Sabre of Eden I.\nAdditionally there are Eden boots II and Uniform II.",
         "pt": "[Mihael]\nA sua arma é o Sabre do Éden I.\nTambém darei as Botas II e o Uniforme II do Éden.",
-        "es": "[Mihael]\nTu arma es el Sable del Grupo de Edén I.\nAdemás, hay Botas II y Uniforme II del Grupo de Edén."
+        "es": "[Mihael]\nTu arma es el Sable del Grupo del Edén I.\nAdemás, hay Botas II y Uniforme II del Grupo del Edén."
     },
     "poxZAw": {
         "en": "[Mihael]\nYour weapon is one of knife Dagger of Eden I.\nAdditionally there are Eden boots II and Uniform II.",
         "pt": "[Mihael]\nA sua arma é a Adaga do Éden I.\nTambém darei as Botas II e o Uniforme II do Éden.",
-        "es": "[Mihael]\nTu arma es una Daga del Edén I.\nAdemás, hay Botas II y Uniforme II del Grupo de Edén."
+        "es": "[Mihael]\nTu arma es una Daga del Edén I.\nAdemás, hay Botas II y Uniforme II del Grupo del Edén."
     },
     "p4xZAw": {
         "en": "[Mihael]\nPlease check all equipment and use it effectively.",
@@ -1832,12 +1832,12 @@
     "roxZAw": {
         "en": "[Mihael]\nYou choose the Mace of Eden I.\nAdditionally there are Eden boots II and Uniform II.",
         "pt": "[Mihael]\nVocê escolheu a Maça do Éden I.\nTambém darei as Botas II e o Uniforme II do Éden.",
-        "es": "[Mihael]\nElegiste la Maza del Edén I.\nAdemás, hay Botas II y Uniforme II del Grupo de Edén."
+        "es": "[Mihael]\nElegiste la Maza del Edén I.\nAdemás, hay Botas II y Uniforme II del Grupo del Edén."
     },
     "r4xZAw": {
         "en": "[Mihael]\nI will give one bow Bow of Eden I.\nAdditionally there are Eden boots II and Uniform II.",
         "pt": "[Mihael]\nVou te dar o Arco do Éden I.\nTambém darei as Botas II e o Uniforme II do Éden.",
-        "es": "[Mihael]\nVoy a darte un Arco del Edén I.\nAdemás, hay Botas II y Uniforme II del Grupo de Edén."
+        "es": "[Mihael]\nVoy a darte un Arco del Edén I.\nAdemás, hay Botas II y Uniforme II del Grupo del Edén."
     },
     "sIxZAw": {
         "en": "[Mihael]\nBow, Uniform, Boots so, totally 3.\nPlease check it again.",
@@ -1862,7 +1862,7 @@
     "tIxZAw": {
         "en": "[Mihael]\nYou chose the Staff of Eden I.\nAdditionally there are Eden boots II and Uniform II.",
         "pt": "[Mihael]\nVocê escolheu o Cetro do Éden I .\nTambém darei as Botas II e o Uniforme II do Éden.",
-        "es": "[Mihael]\nElegiste el Cetro del Edén I.\nAdemás, hay Botas II y Uniform eII del Grupo de Edén."
+        "es": "[Mihael]\nElegiste el Cetro del Edén I.\nAdemás, hay Botas II y Uniform eII del Grupo del Edén."
     },
     "tYxZAw": {
         "en": "[Mihael]\nKnife, Uniform, Boots all 3 things.\nPlease check it again.",
@@ -1877,7 +1877,7 @@
     "t4xZAw": {
         "en": "[Mihael]\nI will give Eden Revolver I weapon.\nAdditionally we have Eden Group boots II and Uniform II.",
         "pt": "[Mihael]\nVou te dar o Revólver do Éden I.\nAlém disso, temos as botas II e o Uniforme II do Grupo do Éden.",
-        "es": "[Mihael]\nTe daré un Revólver de Edén I.\nAdemás, tenemos Botas II y Uniforme II del Grupo de Edén."
+        "es": "[Mihael]\nTe daré un Revólver de Edén I.\nAdemás, tenemos Botas II y Uniforme II del Grupo del Edén."
     },
     "uIxZAw": {
         "en": "[Mihael]\nRevolver, Uniform, and Boots a total of 3 things.\nPlease check it again.",
@@ -1917,7 +1917,7 @@
     "v4xZAw": {
         "en": "[Mihael]\nYou chose the P.Eden Group Foxtail Staff II weapon.\nAdditionally we have boots and uniform.",
         "pt": "[Mihael]\nVou te dar a Cauda do Éden II.\nAlém disso, há as Botas III e o Uniforme do Éden III.",
-        "es": "[Mihael]\nElegiste el arma Báculo de cola de zorro del Grupo de Edén II.\nAdemás, tenemos Botas y Uniforme."
+        "es": "[Mihael]\nElegiste el arma Báculo de cola de zorro del Grupo del Edén II.\nAdemás, tenemos Botas y Uniforme."
     },
     "wIxZAw": {
         "en": "[Mihael]\nWhat kind of equipment do you want?\nWe have slayer and sabre.\nHere are your options:",
@@ -2032,7 +2032,7 @@
     "1oxZAw": {
         "en": "[Mihael]\nYou mean upgraded equipment, right?.\nWe can upgrade only one hat from the Eden Group.",
         "pt": "[Mihael]\nVocê quer um encanto, certo?\nPodemos encantar somente o Chapéu do Grupo do Éden.",
-        "es": "[Mihael]\nTe refieres a los equipamientos mejorados, ¿verdad?\nSolo podemos mejorar un sombrero del Grupo de Edén."
+        "es": "[Mihael]\nTe refieres a los equipamientos mejorados, ¿verdad?\nSolo podemos mejorar un sombrero del Grupo del Edén."
     },
     "14xZAw": {
         "en": "[Mihael]\nWhich section do you want to upgrade?",
@@ -2372,12 +2372,12 @@
     "Go1ZAw": {
         "en": "[Chef]\nIn the Eden Group... sometimes they receive work\nbut manufacture armor or weapons by themselves.",
         "pt": "[Chef Gordon]\nO Grupo do Éden às vezes recebe trabalhos, \nmas fabricam as próprias armas e armaduras.",
-        "es": "[Chef]\nGrupo de Edén… a veces recibe trabajo, \npero fabrican armadura y armas por sí mismos."
+        "es": "[Chef]\nGrupo del Edén… a veces recibe trabajo, \npero fabrican armadura y armas por sí mismos."
     },
     "G41ZAw": {
         "en": "[Chef]\nif you want, can get the uniform from the Eden Group.\nSurely you should pay.",
         "pt": "[Chef Gordon]\nSe quiser, poderá obter o uniforme do Grupo do Éden.\nAh, e claro que terá que pagar.",
-        "es": "[Chef]\nSi quieres, puedes conseguir uniforme del Grupo de Edén.\nSeguro debes pagar."
+        "es": "[Chef]\nSi quieres, puedes conseguir uniforme del Grupo del Edén.\nSeguro debes pagar."
     },
     "HI1ZAw": {
         "en": "[Chef]\nto take it, should complete the mission.\nIf you are interested then meet Miss Boya at the desk.",
@@ -2392,12 +2392,12 @@
     "Ho1ZAw": {
         "en": "[Chef]\nYes! I found your missing thing!\nYou didn't get the uniform from Eden Group?",
         "pt": "[Chef Gordon]\nSim! Já sei o que está faltando!\nVocê não pegou o uniforme com o Grupo do Éden.",
-        "es": "[Chef]\n¡Sí! ¡Encontré lo que te faltaba!\n¿No conseguiste uniforme del Grupo de Edén?"
+        "es": "[Chef]\n¡Sí! ¡Encontré lo que te faltaba!\n¿No conseguiste uniforme del Grupo del Edén?"
     },
     "H41ZAw": {
         "en": "[Chef]\nIt's not necessary, but to remain in the Eden Group it would be a good symbol.",
         "pt": "[Chef Gordon]\nNão é algo obrigatório, mas é um bom indicador de que você pertence ao Grupo do Éden.",
-        "es": "[Chef]\nNo es necesario, pero para permanecer en Grupo de Edén, sería buen símbolo."
+        "es": "[Chef]\nNo es necesario, pero para permanecer en Grupo del Edén, sería buen símbolo."
     },
     "II1ZAw": {
         "en": "[Chef]\nYou can't get it easily but..\nIf you are interested then meet Miss Boya at the desk.",
@@ -2462,7 +2462,7 @@
     "LI1ZAw": {
         "en": "[Chef]\n............\nahah..hey even if I talk about useless things, don't look at me like that\nBut it's really true that three people established this Eden Group.",
         "pt": "[Chef Gordon]\n............\nHahaha... Ei, mesmo que eu tenha dito algo inútil, não me olhe assim.\nMas é verdade que esses três criaram o Grupo do Éden.",
-        "es": "[Chef]\n…………\nJa, ja… Oye, aunque hable de cosas inútiles, no me mires así.\nPero es verdad que tres personas crearon este Grupo de Edén."
+        "es": "[Chef]\n…………\nJa, ja… Oye, aunque hable de cosas inútiles, no me mires así.\nPero es verdad que tres personas crearon este Grupo del Edén."
     },
     "LY1ZAw": {
         "en": "[Chef]\nuh? request work.. did you find the right place?\nalso.. let me see... you are not my members. how can I give work?",

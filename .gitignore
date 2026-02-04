@@ -5,3 +5,4 @@
 *.dll
 Tool/UPDATE/*
 Tool/*.log
+*.bson

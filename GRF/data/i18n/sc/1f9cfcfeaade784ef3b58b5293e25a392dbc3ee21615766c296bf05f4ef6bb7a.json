@@ -7,7 +7,7 @@
     "4dj7CQ": {
         "en": "[Swordsmans' Guild Staff]\nJob change for each job is restricted by guild and connection to the Eden Group.\nIf you want to become a swordsman, I'll let you change jobs right here, right now.",
         "pt": "[Membro dos Espadachins]\nA mudança de classe para cada classe é restrita pela guilda e pela conexão com o Grupo do Éden.\nSe você quiser se tornar um espadachim, permitirei que mude de classe aqui e agora.",
-        "es": "[Personal del Gremio de Espadachines]\n El cambio de clase para cada empleo está restringido por gremio y conexión con el Grupo Edén.\n Si quieres convertirte en espadachín, te dejaré cambiar de clase aquí y ahora."
+        "es": "[Personal del Gremio de Espadachines]\n El cambio de clase para cada empleo está restringido por gremio y conexión con el Grupo del Edén.\n Si quieres convertirte en espadachín, te dejaré cambiar de clase aquí y ahora."
     },
     "4tj7CQ": {
         "en": "[Swordsmans' Guild Staff]\nHowever, extra benefits are given to those who seek out the guild directly.\nShould you wish to learn some ^4D4DFFextra skills^000000, I suggest you go directly to the job guild to change your job.",
@@ -182,7 +182,7 @@
     "BNn7CQ": {
         "en": "[Thieves' Guild Staff]\nJob change for each job is restricted by guild and connection to the Eden Group.\nIf you want to become a thief, I'll let you change jobs right here, right now.",
         "pt": "[Membro dos Gatunos]\nA mudança de Classe para cada classe é restrita pela guilda e pela conexão com o Grupo do Éden.\nSe você quiser se juntar aos Gatunos, eu permitirei que você mude de classe aqui e agora.",
-        "es": "[Personal del Gremio de Ladrones]\n El cambio de clase está restringido por gremio y conexión con el Grupo Edén.\n Si quieres convertirte en ladrón, te dejaré cambiar de clase aquí y ahora."
+        "es": "[Personal del Gremio de Ladrones]\n El cambio de clase está restringido por gremio y conexión con el Grupo del Edén.\n Si quieres convertirte en ladrón, te dejaré cambiar de clase aquí y ahora."
     },
     "Bdn7CQ": {
         "en": "[Thieves' Guild Staff]\nHowever, extra benefits are given to those who seek out the guild directly.\nShould you wish to learn some ^4D4DFFextra skills^000000, I suggest you go directly to the job guild to change your job.",
@@ -262,7 +262,7 @@
     "FNn7CQ": {
         "en": "[Merchants' Guild Staff]\nJob change for each job is restricted by guild and connection to the Eden Group.\nIf you want to become a merchant, I'll let you change jobs right here, right now.",
         "pt": "[Membro dos Mercadores]\nA mudança de Classe para cada classe é restrita por guilda e conexão com o Grupo do Éden.\nSe você quiser se tornar um mercador, permitirei que mude de classe aqui e agora.",
-        "es": "[Personal del Gremio de Comerciantes]\n El cambio de clase para cada puesto está restringido por gremio y conexión con el Grupo Edén.\n Si quieres convertirte en comerciante, te dejaré cambiar de clase aquí y ahora."
+        "es": "[Personal del Gremio de Comerciantes]\n El cambio de clase para cada puesto está restringido por gremio y conexión con el Grupo del Edén.\n Si quieres convertirte en comerciante, te dejaré cambiar de clase aquí y ahora."
     },
     "Fdn7CQ": {
         "en": "[Merchants' Guild Staff]\nHowever, you'll get some extra benefits if you go seek out the guild directly.\nIf you want to learn some ^4D4DFFextra skills^000000, I suggest you go directly to the job guild to change your job.",
@@ -347,7 +347,7 @@
     "Jdn7CQ": {
         "en": "[Archers' Guild Staff]\nJob change for each job is restricted by guild and connection to the Eden Group.\nIf you want to become an archer, I'll let you change jobs right here, right now.",
         "pt": "[Membro dos Arqueiros]\nA mudança de Classe para cada classe é restrita pela guilda e pela conexão com o Grupo do Éden.\nSe você quiser se tornar um arqueiro, eu permitirei que você mude de classe aqui e agora.",
-        "es": "[Personal del Gremio de Arqueros]\n El cambio de clase está restringido por gremio y conexión con el Grupo Edén.\n Si quieres convertirte en arquero, te dejaré cambiar de clase aquí y ahora."
+        "es": "[Personal del Gremio de Arqueros]\n El cambio de clase está restringido por gremio y conexión con el Grupo del Edén.\n Si quieres convertirte en arquero, te dejaré cambiar de clase aquí y ahora."
     },
     "Jtn7CQ": {
         "en": "[Archers' Guild Staff]\nHowever, you'll get some extra benefits for seeking out the guild directly.\nShould want to you learn some ^4D4DFFextra skills^000000, I suggest you go directly to the job guild to change your job.",
@@ -422,7 +422,7 @@
     "NNn7CQ": {
         "en": "[Mages' Guild Staff]\nJob change for each job is restricted by guild and connection to the Eden Group.\nIf you want to become a mage, I'll let you change jobs right here, right now.",
         "pt": "[Membro dos Magos]\nA mudança de Classe para cada classe é restrita por guilda e conexão com o Grupo do Éden.\nSe você quiser se tornar um mago, permitirei que mude de classe aqui e agora.",
-        "es": "[Personal del Gremio de Magos]\n El cambio de clase para cada empleo está restringido por gremio y conexión con el Grupo Edén.\n Si quieres convertirte en mago, te dejaré cambiar de clase aquí y ahora."
+        "es": "[Personal del Gremio de Magos]\n El cambio de clase para cada empleo está restringido por gremio y conexión con el Grupo del Edén.\n Si quieres convertirte en mago, te dejaré cambiar de clase aquí y ahora."
     },
     "Ndn7CQ": {
         "en": "[Mages' Guild Staff]\nHowever, some extra benefits are given to those who seek out the job guild directly.\nShould you want to learn some ^4D4DFFextra skills^000000, I suggest you go directly to the job guild to change your job.",

@@ -87,7 +87,7 @@
         "ko": "[엘레나 볼코바]\n리벨리온 대장들끼리 토의한 결과, 지역 전체를 소개하고 리벨리온 정예 부대를 투입해 수색하기로 했다.",
         "en": "[Elena Volkova]\nAfter a discussion among the Rebellion leaders, we decided to search the entire area and deploy an elite Rebellion unit for the operation.",
         "pt": "[Elena Bolkova]\nOutros comandantes da Rebelião decidiram evacuar todos os civis desse lugar e ordenar nossas tropas para procurar.",
-        "es": "[Elena Bolkova]\nOtros comandantes de la Rebelión decidieron evacuar a todos los civiles de este lugar y ordenar a nuestras tropas que registren la zona."
+        "es": "[Elena Bolkova]\nOtros comandantes de la Rebelión decidieron evacuar a todos los civiles de este lugar y ordenar a nuestras tropas que busquen."
     },
     "L/a0Bw": {
         "ko": "[엘레나 볼코바]\n이미 소개를 시작해서 민간인과 대통령의 아기 병아리들은 퇴각중이다.",
@@ -195,7 +195,7 @@
         "ko": "민망하게 왜 그러세요?",
         "en": "Why are you acting so embarrassed?",
         "pt": "Parem de falar, Levedevs!",
-        "es": "¡Dejen de hablar, Levedevs!\""
+        "es": "¡Dejen de hablar, Levedevs!"
     },
     "Qfa0Bw": {
         "ko": "[엘레나 볼코바]\n모험가 너는 '작전 준비'를 선택한 뒤 잠시 기다려.\nMD가 활성화 되면 '작전 돌입'을 선택해. 네 돌입을 신호로 작전을 개시한다.",
@@ -344,8 +344,8 @@
     "Wfa0Bw": {
         "ko": "[엘레나 볼코바]\n대통령의 그… 날개인가 하는 녀석들과 루키가 심문할 준비를 하고 있어.\n마지막 기계덩어리와 싸운 장소를 정리해서 거기서 진행할 모양이야.",
         "en": "[Elena Volkova]\nThe President’s so-called… wings, and Rookie, are getting ready to conduct the interrogation.\nIt looks like they’ve cleaned up the place where we fought the last machine, and that’s where it’ll take place.",
-        "pt": "[Elena Bolkova]\nAs… Asas do Presidente — ou seja lá como se chamam — e o Lukie estão se preparando para um interrogatório.\nEles estão organizando o local onde você lutou contra a última máquina e pretendem conduzir tudo por lá.",
-        "es": "[Elena Bolkova]\nLas… Alas del Presidente — o como se llamen — y Lukie se están preparando para un interrogatorio.\nEstán organizando el lugar donde luchaste contra la última máquina y planean proceder allí."
+        "pt": "[Elena Bolkova]\nVe… Vento do Presidente — ou seja lá como se chamam — e o Lukie estão se preparando para um interrogatório.\nEles estão organizando o local onde você lutou contra a última máquina e pretendem conduzir tudo por lá.",
+        "es": "[Elena Bolkova]\nVie… Viento del Presidente — o como se llamen — y Lukie se están preparando para un interrogatorio.\nEstán organizando el lugar donde luchaste contra la última máquina y planean proceder allí."
     },
     "Wva0Bw": {
         "ko": "[엘레나 볼코바]\n여어. 바쁜 모양이다?\n나도 당분간 여기와 리벨리온 본거지를 뻔질나게 드나들어야 할 것 같네.",
@@ -403,9 +403,9 @@
     },
     "Y/a0Bw": {
         "ko": "[레이지]\n역시 소질이 있다니까, 럭키 루키. 내 안목은 대단해. 멋진 나, 대단한 나♡",
-        "en": "[Leizi]\nSee, I told you you had talent, Lucky Rookie. My eye for talent is amazing. I'm so cool, I'm so great♡",
-        "pt": "[Nalandro]\nNa real, eu até curto ser mandado por você, eu só trabalho assim.",
-        "es": "[Lazy]\nLa verdad, me gusta que me mandes, así es como trabajo."
+        "en": "[Leizi]\nSee, I told you you had talent, Lucky Rookie. My eye for talent is amazing. I'm so cool, I'm so great <3",
+        "pt": "[Nalandro]\nNa real, eu até curto ser mandado por você, eu só trabalho assim. <3",
+        "es": "[Lazy]\nLa verdad, me gusta que me mandes, así es como trabajo. <3"
     },
     "ZPa0Bw": {
         "ko": "레이지 : 얼른 데려다가 써먹고 싶다. 가슴이 두근두근해.",
@@ -435,7 +435,7 @@
         "ko": "[레이지]\n어이쿠, 실례. 그럼 루키, 잘 해보도록 해.",
         "en": "[Leizi]\nOops, my apologies. Well then, Rookie, do your best.",
         "pt": "[Nalandro]\nAh é, a bandida! Vai Lukiezinho, faça o seu melhor.",
-        "es": "[Lazy]\nAh sí, ¡la bandida! Vamos, Lukiezito, haz lo mejor que puedas."
+        "es": "[Lazy]\nAh sí, ¡la bandida! Vamos, Lukiecito, haz lo mejor que puedas."
     },
     "afa0Bw": {
         "ko": "[고니]\n……?",
@@ -727,9 +727,9 @@
     },
     "mfa0Bw": {
         "ko": "[엘레나]\n흐음……",
-        "en": "[Elena]\nHmm...",
-        "pt": "[Helena]\nHum...",
-        "es": "[Helena]\nHum..."
+        "en": "[Elena Volkova]\nHmm...",
+        "pt": "[Elena Bolkova]\nHum...",
+        "es": "[Elena Bolkova]\nHum..."
     },
     "mva0Bw": {
         "ko": "[루키]\n무슨 이야기 하고 있어요? 아무튼, 지금 필요한 건 다 들었어요.\n저 녀석들의 이름은 ^0000CD일루시온^000000. 이전까지 ^0000CD레겐쉬름의 연구원이었다는 사실^000000도 알고 있었지요.",
@@ -747,7 +747,7 @@
         "ko": "레이지 : 하청의 하청 같네.",
         "en": "Leizi: It's like subcontracting a subcontract.",
         "pt": "Nalandro: É como se fosse a terceirzada da terceirizada.",
-        "es": "Lazy: Es como una subcontratada de una subcontrata."
+        "es": "Lazy: Es como subcontratar a un subcontratista."
     },
     "nfa0Bw": {
         "ko": "엘류미나 : 하청이 아니라 연구 지원이야!",
@@ -757,7 +757,7 @@
     },
     "nva0Bw": {
         "ko": "[루키]\n그리고 이들이 터를 잡은 이 지역 너머는…… 숨겨져 있던 ^0000CD바르문트의 저택^000000이라고 합니다.\n이곳을 발견한 뒤, 여기의 지식을 독식하려고 저 녀석들이 만든 집단이 일루시온.",
-        "en": "[Rookie]\nAnd beyond the area where they've settled... lies the hidden ^0000CDVarmundt's Mansion^000000.  \nAfter discovering this place, those guys formed a group called Illusion to monopolize the knowledge found here.",
+        "en": "[Rookie]\nAnd beyond the area where they've settled... lies the hidden ^0000CDVarmunt's Mansion^000000.  \nAfter discovering this place, those guys formed a group called Illusion to monopolize the knowledge found here.",
         "pt": "[Lukie]\nE ao norte está escondida a ^0000CDMansão de Varmunt^000000.\nA ^0000CDIlusión^000000 nasceu para evitar que descobrissem essa mansão.",
         "es": "[Lukie]\nY al norte está escondida la ^0000CDMansión de Varmunt^000000.\n^0000CDIlusión^000000 nació para evitar que descubrieran esa mansión."
     },
@@ -777,7 +777,7 @@
         "ko": "[루키]\n울타리 오른쪽 끝에 설치된 <NAVI>[수로]<INFO>sp_cor,255,285,0,101,0</INFO></NAVI>를 통해 직접 들어갈 수 있다고 하네요\n정보도 얻어야 하고 남은 자들도 소탕해야 하니 직접 보는 게 낫겠지요. 함께 가 보시죠, 대장, 모험가님도!",
         "en": "[Rookie]\nIt seems you can enter directly through the <NAVI>[Sewer]<INFO>sp_cor,255,285,0,101,0</INFO></NAVI> installed at the far right end of the fence.\nSince we need to gather information and clear out any remaining enemies, it would be best to see it for ourselves. Let's go together, Captain, and you too, Adventurer!",
         "pt": "[Lukie]\nTem um <NAVI>[canal de esgoto]<INFO>sp_cor,255,285,0,101,0</INFO></NAVI> perto da cerca.\nPreciso obter informações e interrogar os outros trabalhadores. Você poderia vir junto, viajante!",
-        "es": "[Lukie]\nHay un <NAVI>[canal de alcantarillado]<INFO>sp_cor,255,285,0,101,0</INFO></NAVI> cerca de la cerca.\nNecesito obtener información e interrogar a los otros trabajadores. ¡Podrías venir conmigo, trotamundos!"
+        "es": "[Lukie]\nHay un <NAVI>[canal de alcantarilla]<INFO>sp_cor,255,285,0,101,0</INFO></NAVI> cerca de la cerca.\nNecesito obtener información e interrogar a los otros trabajadores. ¡Podrías acompañarme, trotamundos!"
     },
     "ova0Bw": {
         "ko": "[루키]\n새로운 소식이 있으면 가장 먼저 알려드리겠습니다, 모험가님!",
@@ -861,7 +861,7 @@
         "ko": "[루키]\n모험가님, 리벨리온은 여기를 포위하고 당분간 주변을 조사할 거예요.\n저곳이 어디인지 알았으니 물러날 수 없죠.",
         "en": "[Rookie]\nAdventurer, Rebellion will surround this area and investigate the surroundings for a while.\nNow that we know where that place is, we can't back down.",
         "pt": "[Lukie]\nViajante, a Rebelião vai sitiar aqui e investigar o perímetro por um tempo.\nAgora que sabemos desse lugar, não podemos ignorá-lo.",
-        "es": "[Lukie]\nTrotamundos, la Rebelión va a sitiar este lugar e investigar el perímetro por un tiempo.\nAhora que conocemos este sitio, no podemos ignorarlo."
+        "es": "[Lukie]\nTrotamundos, la Rebelión se desplegará por esta zona y patrullará los alrededores un tempo.\nAhora que conocemos este sitio, no podemos ignorarlo."
     },
     "sPa0Bw": {
         "ko": "[루키]\n우리와는 은원이 깊은 정부와 기업. 그 두 집단과 손을 잡든 잡지 않든 일루시온에게서는 저 바르문트의 유산을 반드시 탈환해야 합니다.",
@@ -939,7 +939,7 @@
         "ko": "[리벨리온]\n연락 받으셨군요! 지금 대장님들이 안에 모여서 회의하고 계십니다. 엘레나 볼코바 대장님이 모험가님을 부르셨을 겁니다.\n불러 드리… 려고 했는데, 벌써 오셨군요.",
         "en": "[Rebellion]\nYou received the message! The commanders are currently gathered inside for a meeting. Captain Elena Volkova must have called for you, adventurer.\nI was just about to call you in... but you’re already here.",
         "pt": "[Insurgente]\nVocê recebeu a mensagem! Nesse momento, os líderes estão se reunindo lá dentro. A comandante Elena Bolkova deve ter chamado você.\nEu ia chamá-la, mas... ela já está aqui.",
-        "es": "[Rebelde]\n¡Recibiste el mensaje! En este momento, los líderes se están reuniendo allí dentro.\nLa comandante Elena Bolkova debe haberte llamado.\nIba a llamarte, pero... ya estás aquí."
+        "es": "[Rebelde]\n¡Recibiste el mensaje! En este momento, los líderes se están reuniendo allí dentro. La comandante Elena Bolkova seguramente te llamó.\nIba a llamarte, pero... ya estás aquí."
     },
     "vfa0Bw": {
         "ko": "엘레나 볼코바 : 아, 찾고 있었다, 모험가.",
@@ -1731,25 +1731,25 @@
         "ko": "농장 일꾼",
         "en": "Farm Worker",
         "pt": "Fazendeiro",
-        "es": "Fazendeiro"
+        "es": "Agricultor"
     },
     "Qfe0Bw": {
         "ko": "[농장 일꾼]\n거, 바쁩니다. 여기는 비료 냄새도 나고 도시 사람들은 싫어할 건디요. 저기 연구원님들 계시던 쪽에 사람들 많이 와 있으니 그리 가보십쇼.",
         "en": "[Farm Worker]\nHey, I'm busy. It smells like fertilizer around here, so city folks probably wouldn't like it. There are a lot of people gathered where the Researcher folks are, so you should head over there.",
         "pt": "[Fazendeiro]\nEi, saia daqui. Vocês da cidade grande não curtem o cheiro de fertilizante.",
-        "es": "[Fazendeiro]\nOye, lárgate de aquí. A la gente de ciudad no le gusta el olor a fertilizante."
+        "es": "[Agricultor]\nOye, lárgate de aquí. A la gente de ciudad no le gusta el olor a fertilizante."
     },
     "Qve0Bw": {
         "ko": "[농장 일꾼]\n저희는 여기서 작물을 기르는 일을 맡고 있었습죠. 자급자족이 가능한 농장은 저희 자랑이지요.",
         "en": "[Farm Worker]\nWe were in charge of growing crops here. Our self-sufficient farm is something we take great pride in.",
         "pt": "[Fazendeiro]\nEstamos encarregados de cultivar aqui. Estamos orgulhosos de sermos auto-suficientes.",
-        "es": "[Fazendeiro]\nNos encargamos de cultivar aquí. Estamos orgullosos de ser autosuficientes."
+        "es": "[Agricultor]\nNos encargamos de cultivar aquí. Estamos orgullosos de ser autosuficientes."
     },
     "Q/e0Bw": {
         "ko": "[농장 일꾼]\n하지만 이번 일로 전근 희망자들이 생겨 일손이 부족해서… 작물을 돌보는 일을 좀 도와주시겠습니까요?",
         "en": "[Farm Worker]\nBut because of this incident, some workers have requested transfers, so we're short-handed... Could you help take care of the crops?",
         "pt": "[Fazendeiro]\nMas desde o incidente, os trabalhadores estão pedindo transferência daqui, e estou ficando sem pessoal... Você poderia me ajudar a cuidar das plantações?",
-        "es": "[Fazendeiro]\nPero desde el incidente, los trabajadores están pidiendo traslado, y me estoy quedando sin personal...\n¿Podrías ayudarme a cuidar los cultivos?"
+        "es": "[Agricultor]\nPero desde el incidente, los trabajadores están pidiendo traslado, y me estoy quedando sin personal...\n¿Podrías ayudarme a cuidar los cultivos?"
     },
     "RPe0Bw": {
         "ko": "도와준다.",
@@ -1767,217 +1767,217 @@
         "ko": "[농장 일꾼]\n감사합니다! 농장에 가보시면 포도, 깍지콩, 호박이 있는데 각각 해주셔야 하는 일이 다르니 잘 기억해 주시면 됩니다요.",
         "en": "[Farm Worker]\nThank you! When you visit the farm, you'll find Grape, Pod Bean, and Pumpkin. Each one requires a different task, so please remember what you need to do for each.",
         "pt": "[Fazendeiro]\nObrigado! Nós criamos uvas, feijões e abóboras. Cada um tem um cuidado diferente, então, por favor, lembre-se disso.",
-        "es": "[Fazendeiro]\n¡Gracias! Cultivamos uvas, frijoles y calabazas.\nCada uno requiere un cuidado distinto, así que recuérdalo."
+        "es": "[Agricultor]\n¡Gracias! Cultivamos uvas, frijoles y calabazas.\nCada uno requiere un cuidado distinto, así que recuérdalo."
     },
     "R/e0Bw": {
         "ko": "진딧물을 잡아",
         "en": "Catch the aphids.",
         "pt": "retire os pulgões",
-        "es": "atrapa pulgones"
+        "es": "Retira los pulgones"
     },
     "SPe0Bw": {
         "ko": "비료를 쳐",
         "en": "Apply fertilizer.",
         "pt": "fertilize",
-        "es": "aplica fertilizante"
+        "es": "Aplicar fertilizante"
     },
     "Sfe0Bw": {
         "ko": "잡초를 뽑아",
         "en": "Pull out the weeds.",
         "pt": "remova ervas daninhas",
-        "es": "arranca malezas"
+        "es": "Arranca malezas"
     },
     "Sve0Bw": {
         "ko": "진딧물을 잡아",
         "en": "Catch the aphids.",
         "pt": "retire os pulgões",
-        "es": "atrapa pulgones"
+        "es": "Retira los pulgones"
     },
     "S/e0Bw": {
         "ko": "비료를 쳐",
         "en": "Apply fertilizer.",
         "pt": "fertilize",
-        "es": "aplica fertilizante"
+        "es": "Aplicar fertilizante"
     },
     "TPe0Bw": {
         "ko": "잡초를 뽑아",
         "en": "Pull out the weeds.",
         "pt": "remova ervas daninhas",
-        "es": "arranca malezas"
+        "es": "Arranca malezas"
     },
     "Tfe0Bw": {
         "ko": "진딧물을 잡아",
         "en": "Catch the aphids.",
         "pt": "retire os pulgões",
-        "es": "atrapa pulgones"
+        "es": "Retira los pulgones"
     },
     "Tve0Bw": {
         "ko": "비료를 쳐",
         "en": "Apply fertilizer.",
         "pt": "fertilize",
-        "es": "aplica fertilizante"
+        "es": "Aplicar fertilizante"
     },
     "T/e0Bw": {
         "ko": "잡초를 뽑아",
         "en": "Pull out the weeds.",
         "pt": "remova ervas daninhas",
-        "es": "arranca malezas"
+        "es": "Arranca malezas"
     },
     "UPe0Bw": {
         "ko": "[농장 일꾼]\n포도는 {0} 주시고, 깍지콩은 {1} 주시고, 호박은 {2} 주시면 됩니다요.\n그럼 잘 부탁드립니다.",
         "en": "[Farm Worker]\nPlease give me {0} Grape, {1} Pod Bean, and {2} Pumpkin.\nThank you in advance.",
         "pt": "[Fazendeiro]\nPara cuidar das uvas, ^0000CD{0}^000000. Para os feijões, ^0000CD{1}^000000. E as abóboras, ^0000CD{2}^000000.\nLembre-se disso.",
-        "es": "[Fazendeiro]\nPara cuidar las uvas, ^0000CD{0}^000000. Para los frijoles, ^0000CD{1}^000000. Y las calabazas, ^0000CD{2}^000000.\nRecuérdalo."
+        "es": "[Agricultor]\nPara cuidar las uvas, ^0000CD{0}^000000. Para los frijoles, ^0000CD{1}^000000. Y las calabazas, ^0000CD{2}^000000.\nRecuérdalo."
     },
     "Ufe0Bw": {
         "ko": "[농장 일꾼]\n어르신들이 와서 들쑤시는 바람에 저희의 평화가 끝났지만…",
         "en": "[Farm Worker]\nOur peace came to an end when the elders came and stirred things up…",
         "pt": "[Fazendeiro]\nAh, sim. Graças a todos vocês, tenho menos mão-de-obra e um pouco mais de trabalho a fazer, mas tudo bem...",
-        "es": "[Fazendeiro]\nAh, sí. Gracias a todos ustedes, tengo menos mano de obra y un poco más de trabajo, pero está bien..."
+        "es": "[Agricultor]\nAh, sí. Gracias a todos ustedes, tengo menos mano de obra y un poco más de trabajo, pero está bien..."
     },
     "Uve0Bw": {
         "ko": "[농장 일꾼]\n뭐 됐수다. 사실 진짜 평화도 아니었던 것 같고…",
         "en": "[Farm Worker]\nWell, whatever. Honestly, I don't think it was real peace anyway...",
         "pt": "[Fazendeiro]\nO que foi? Só falei verdades...",
-        "es": "[Fazendeiro]\n¿Qué fue? Solo dije la verdad..."
+        "es": "[Agricultor]\n¿Qué fue? Solo dije la verdad..."
     },
     "U/e0Bw": {
         "ko": "[농장 일꾼]\n전부 완료해 주셨구만요. 그것 참, 모험가답지 않게 밭일하는 손이 야무지십니다그려.",
         "en": "[Farm Worker]\nYou've finished everything. I must say, for an adventurer, you're quite skilled at farm work.",
         "pt": "[Fazendeiro]\nVocê terminou tudo. Nada mal para alguém sem experiência de campo.",
-        "es": "[Fazendeiro]\nTerminaste todo. Nada mal para alguien sin experiencia en el campo."
+        "es": "[Agricultor]\nTerminaste todo. Nada mal para alguien sin experiencia en el campo."
     },
     "VPe0Bw": {
         "ko": "[농장 일꾼]\n저희가 드릴 것은 없고 근처에서 주운 부품을 좀 드리겠습니다. 그… 용병님들이 이걸 모으시는 걸 봤거든요. 모험가님도 필요하시다믄서요?",
         "en": "[Farm Worker]\nI don't have much to offer, but I'll give you some parts I picked up nearby. I saw some mercenaries collecting these... You need them too, right, Adventurer?",
         "pt": "[Fazendeiro]\nNós não tenho como te pagar, mas tenho algumas peças encontradas aqui. Acho que é de seu interesse, né?",
-        "es": "[Fazendeiro]\nNo tengo cómo pagarte, pero encontré algunas piezas aquí.\nCreo que te interesarán, ¿no?"
+        "es": "[Agricultor]\nNo tengo cómo pagarte, pero encontré algunas piezas aquí.\nCreo que te interesarán, ¿no?"
     },
     "Vfe0Bw": {
         "ko": "[농장 일꾼]\n매일 돌봐줘야 하는 작물들이니 다음에도 잘 부탁드립니다.",
         "en": "[Farm Worker]\nThese are crops that need to be taken care of every day, so I’ll be counting on you again next time.",
         "pt": "[Fazendeiro]\nEssas plantações precisam ser cuidadas todos os dias, então, por favor, volte aqui para cuidar delas numa próxima vez.",
-        "es": "[Fazendeiro]\nEstos cultivos deben cuidarse todos los días, así que vuelve otro día para encargarte de ellos."
+        "es": "[Agricultor]\nEstos cultivos deben cuidarse todos los días, así que vuelve otro día para encargarte de ellos."
     },
     "Vve0Bw": {
         "ko": "진딧물을 잡아 주셔야 하고,",
         "en": "You need to catch the aphids,",
         "pt": "falta retirar os pulgões",
-        "es": "falta atrapar pulgones"
+        "es": "Falta retirar los pulgones"
     },
     "V/e0Bw": {
         "ko": "비료를 쳐 주셔야 하고,",
         "en": "You need to apply fertilizer, and",
         "pt": "falta aplicar o fertilizante",
-        "es": "falta aplicar fertilizante"
+        "es": "Falta aplicar fertilizante"
     },
     "WPe0Bw": {
         "ko": "잡초를 뽑아 주셔야 하고,",
         "en": "You need to pull out the weeds,",
         "pt": "falta remover ervas daninhas",
-        "es": "falta arrancar malezas"
+        "es": "Falta arrancar malezas"
     },
     "Wfe0Bw": {
         "ko": "잘 돌봐 주셨군요.",
         "en": "You took good care of it.",
         "pt": "não precisa fazer nada",
-        "es": "no hay que hacer nada"
+        "es": "No hay que hacer nada"
     },
     "Wve0Bw": {
         "ko": "진딧물을 잡아 주셔야 하고,",
         "en": "You need to catch aphids,",
         "pt": "falta retirar os pulgões",
-        "es": "falta atrapar pulgones"
+        "es": "Falta retirar los pulgones"
     },
     "W/e0Bw": {
         "ko": "비료를 쳐 주셔야 하고,",
         "en": "You need to apply fertilizer, and",
         "pt": "falta aplicar o fertilizante",
-        "es": "falta aplicar fertilizante"
+        "es": "Falta aplicar fertilizante"
     },
     "XPe0Bw": {
         "ko": "잡초를 뽑아 주셔야 하고,",
         "en": "You need to pull out the weeds,",
         "pt": "falta remover ervas daninhas",
-        "es": "falta arrancar malezas"
+        "es": "Falta arrancar malezas"
     },
     "Xfe0Bw": {
         "ko": "잘 돌봐 주셨구요.",
         "en": "You took good care of me.",
         "pt": "não precisa fazer nada",
-        "es": "no hay que hacer nada"
+        "es": "No hay que hacer nada"
     },
     "Xve0Bw": {
         "ko": "진딧물을 잡아 주셔야 합죠.",
         "en": "You need to catch the aphids.",
         "pt": "falta retirar os pulgões",
-        "es": "falta atrapar pulgones"
+        "es": "Falta retirar los pulgones"
     },
     "X/e0Bw": {
         "ko": "비료를 쳐 주셔야 합죠.",
         "en": "You need to apply fertilizer.",
         "pt": "falta aplicar o fertilizante",
-        "es": "falta aplicar fertilizante"
+        "es": "Falta aplicar fertilizante"
     },
     "YPe0Bw": {
         "ko": "잡초를 뽑아 주셔야 합죠.",
         "en": "You need to pull out the weeds.",
         "pt": "falta remover ervas daninhas",
-        "es": "falta arrancar malezas"
+        "es": "Falta arrancar malezas"
     },
     "Yfe0Bw": {
         "ko": "잘 돌봐 주셨습니다.",
         "en": "You have taken good care of me.",
         "pt": "não precisa fazer nada",
-        "es": "no hay que hacer nada"
+        "es": "No hay que hacer nada"
     },
     "Yve0Bw": {
         "ko": "[농장 일꾼]\n아이구, 아직 일이 덜 됐습니다요.",
         "en": "[Farm Worker]\nOh dear, the work isn’t finished yet.",
         "pt": "[Fazendeiro]\nOpa, seu trabalho ainda não acabou.",
-        "es": "[Fazendeiro]\nOpa, tu trabajo aún no terminó."
+        "es": "[Agricultor]\nOpa, tu trabajo aún no terminó."
     },
     "Y/e0Bw": {
         "ko": "[농장 일꾼]\n포도는 {0} 깍지콩은 {1} 호박은 {2}",
         "en": "[Farm Worker]\nGrape is {0}, Pod Bean is {1}, and Pumpkin is {2}.",
         "pt": "[Fazendeiro]\nPara cuidar das uvas, ^0000CD{0}^000000. Para os feijões, ^0000CD{1}^000000. E as abóboras, ^0000CD{2}^000000.",
-        "es": "[Fazendeiro]\nPara cuidar las uvas, ^0000CD{0}^000000. Para los frijoles, ^0000CD{1}^000000. Y las calabazas, ^0000CD{2}^000000."
+        "es": "[Agricultor]\nPara cuidar las uvas, ^0000CD{0}^000000. Para los frijoles, ^0000CD{1}^000000. Y las calabazas, ^0000CD{2}^000000."
     },
     "ZPe0Bw": {
         "ko": "[농장 일꾼]\n다시 가셔서 확인해 봐 주십쇼.",
         "en": "[Farm Worker]\nPlease go back and check again.",
         "pt": "[Fazendeiro]\nPor favor, termine o serviço o quanto antes.",
-        "es": "[Fazendeiro]\nPor favor, termina el trabajo lo antes posible."
+        "es": "[Agricultor]\nPor favor, termina el trabajo lo antes posible."
     },
     "Zfe0Bw": {
         "ko": "[농장 일꾼]\n아직은 작물이 싱싱합니다. 너무 자주 만지면 또 안 좋습지요. 그 녀석들이 그래봬도 예민하그든요.",
         "en": "[Farm Worker]\nThe crops are still fresh. It's not good to handle them too often, you know. They're actually quite sensitive, despite how they look.",
         "pt": "[Fazendeiro]\nAs plantas ainda estão frescas. É ruim se você tocá-las com muita frequência. Plantas são sensíveis.",
-        "es": "[Fazendeiro]\nLas plantas aún están frescas. Es malo tocarlas con demasiada frecuencia. Las plantas son sensibles."
+        "es": "[Agricultor]\nLas plantas aún están frescas. Es malo tocarlas con demasiada frecuencia. Las plantas son sensibles."
     },
     "Zve0Bw": {
         "ko": "[농장 일꾼]\n새벽이 지난 뒤에 다시 와주시면 무척 감사드리굽쇼.",
         "en": "[Farm Worker]\nI would greatly appreciate it if you could come back after dawn.",
         "pt": "[Fazendeiro]\nSe você voltar depois do amanhecer, eu ficaria muito grato.",
-        "es": "[Fazendeiro]\nSi vuelves después del amanecer, te lo agradecería mucho."
+        "es": "[Agricultor]\nSi vuelves después del amanecer, te lo agradecería mucho."
     },
     "Z/e0Bw": {
         "ko": "[농장 일꾼]\n시간이 시간이라 그런지 작물이 다시 기운이 없습니다… 오늘도 밭일을 좀 도와주시렵니까?",
         "en": "[Farm Worker]\nMaybe it's because of the time, but the crops still look lifeless... Would you be able to help out with the farm work again today?",
         "pt": "[Fazendeiro]\nMais um dia raiou e eu minha plantação precisa de cuidados... Você gostaria de ajudar no trabalho de campo hoje?",
-        "es": "[Fazendeiro]\nHa amanecido otro día y mis cultivos necesitan cuidados...\n¿Te gustaría ayudar hoy en el trabajo del campo?"
+        "es": "[Agricultor]\nHa amanecido otro día y mis cultivos necesitan cuidados...\n¿Te gustaría ayudar hoy en el trabajo del campo?"
     },
     "aPe0Bw": {
         "ko": "[농장 일꾼]\n여러분이 오신 덕에 자잘하게 할 일이 늘어나서, 제가 전부 돌보기에는 자잘하게 힘에 부쳐서 말입죠.",
         "en": "[Farm Worker]\nThanks to your arrival, there are now more small tasks to handle, and honestly, it's a bit much for me to take care of everything on my own.",
         "pt": "[Fazendeiro]\nGraças a vocês, tenho muita coisa para fazer e é um pouco difícil para mim cuidar de todas elas.",
-        "es": "[Fazendeiro]\nGracias a ustedes, tengo mucho que hacer y me resulta un poco difícil ocuparme de todo."
+        "es": "[Agricultor]\nGracias a ustedes, tengo mucho que hacer y me resulta un poco difícil ocuparme de todo."
     },
     "afe0Bw": {
         "ko": "[농장 일꾼]\n감사합니다! 포도, 깍지콩, 호박이 있는데 각각 해주셔야 하는 일이 다르다고 말씀드렸습지요.",
         "en": "[Farm Worker]\nThank you! As I mentioned, there are Grape, Pod Bean, and Pumpkin, and each of them has a different task for you to do.",
         "pt": "[Fazendeiro]\nObrigado! Eu já te disse que criamos uvas, feijões e abóboras. Cada um tem um cuidado diferente.",
-        "es": "[Fazendeiro]\n¡Gracias! Ya te dije que cultivamos uvas, frijoles y calabazas.\nCada uno tiene un cuidado distinto."
+        "es": "[Agricultor]\n¡Gracias! Ya te dije que cultivamos uvas, frijoles y calabazas.\nCada uno tiene un cuidado distinto."
     },
     "ave0Bw": {
         "ko": "[농장 일꾼]\n포도는 {0} 주시고, 깍지콩은 {1} 주시고, 호박은 {2} 주시면 됩니다요. 이미 해 주신 적이 있으니 든든합니다그려.",
@@ -1989,19 +1989,19 @@
         "ko": "[농장 일꾼]\n아, 그러믄요. 제가 여러분 덕에 일손은 줄고 자잘하게 할 일은 자잘하게 늘어났지만 괜찮습니다요.",
         "en": "[Farm Worker]\nOh, of course. Thanks to you, I have less heavy work to do, though the small chores have increased a bit, but it's all right.",
         "pt": "[Fazendeiro]\nAh, sim. Graças a todos vocês, tenho menos mão-de-obra e um pouco mais de trabalho a fazer, mas tudo bem.",
-        "es": "[Fazendeiro]\nAh, sí. Gracias a todos ustedes, tengo menos mano de obra y un poco más de trabajo, pero está bien."
+        "es": "[Agricultor]\nAh, sí. Gracias a todos ustedes, tengo menos mano de obra y un poco más de trabajo, pero está bien."
     },
     "bPe0Bw": {
         "ko": "[농장 일꾼]\n뭐, 됐습니다. 그쪽도 어지간히 바쁘신 거겠지요… 저는 농투성이라 어려운 건 잘 모르굽쇼.",
         "en": "[Farm Worker]\nWell, that's fine. You must be quite busy yourself... I'm just a simple farmer, so I don't really understand complicated things.",
         "pt": "[Fazendeiro]\nVocê deve estar sem tempo também... Eu sou um fazendeiro, então, não sei de coisas difíceis.",
-        "es": "[Fazendeiro]\nSeguro que tú también andas sin tiempo...\nSoy granjero, así que no sé de cosas complicadas."
+        "es": "[Agricultor]\nSeguro que tú también andas sin tiempo...\nSoy agricultor, así que no sé de cosas complicadas."
     },
     "bfe0Bw": {
         "ko": "[농장 일꾼]\n거, 바쁩니다. 여기는 비료 냄새도 나고 도시 사람들은 싫어할 건디요. 저기 연구원님들 계시던 쪽에 사람들 많이 와 있수다. 그리 가보십쇼.",
         "en": "[Farm Worker]\nHey, I'm busy. It smells like fertilizer around here, so city folks probably wouldn't like it. There are a lot of people gathered where the Researcher folks are. You should head over there.",
         "pt": "[Fazendeiro]\nÔ, tô ocupado demais.\nAqui fede a fertilizante, gente da cidade não costuma gostar disso.\nLá pro lado onde ficavam os pesquisadores, tem bastante gente reunida.\nDá uma olhada por lá.",
-        "es": "[Fazendeiro]\nOye, estoy muy ocupado.\nAquí huele a fertilizante, a la gente de ciudad no le suele gustar.\nPor el lado donde estaban los investigadores, hay mucha gente reunida.\nVe a echar un vistazo por allí."
+        "es": "[Agricultor]\nOye, estoy muy ocupado.\nAquí huele a fertilizante, a la gente de ciudad no le suele gustar.\nPor el lado donde estaban los investigadores, hay mucha gente reunida.\nVe a echar un vistazo por allí."
     },
     "bve0Bw": {
         "ko": "포도",
@@ -2019,7 +2019,7 @@
         "ko": "진딧물을 잡는다.",
         "en": "Catching aphids.",
         "pt": "Retirar pulgões.",
-        "es": "Atrapar pulgones."
+        "es": "Retirar pulgones."
     },
     "cfe0Bw": {
         "ko": "비료를 준다.",

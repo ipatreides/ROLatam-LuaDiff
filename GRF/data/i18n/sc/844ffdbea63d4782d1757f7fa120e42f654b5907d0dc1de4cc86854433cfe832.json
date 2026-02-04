@@ -1,0 +1,584 @@
+{
+    "QOqlDA": {
+        "ko": "화단",
+        "en": "Flower Bed",
+        "pt": "Arbusto",
+        "es": "Arbusto"
+    },
+    "QeqlDA": {
+        "ko": "^0000FF오래된 고성에 걸맞지 않는 정돈된 화단입니다. 누군가가 휴식처로 삼기위해 손을 댄 듯 합니다",
+        "en": "^0000FFIt is a well-kept flower bed that does not suit an old castle. It seems someone has tended it to use this place as a resting spot.",
+        "pt": "^0000FFParece ser um arbusto comum, mas bem aparado. O que significa que alguém esteve aqui recentemente.",
+        "es": "^0000FFParece un arbusto común, pero bien podado. Eso significa que alguien estuvo aquí recientemente."
+    },
+    "QuqlDA": {
+        "ko": "[시간의 관리자]\n시나리오모드 입력",
+        "en": "[Time Administrator]\nEnter Scenario Mode",
+        "pt": "[Administrador]\nGerenciamento da Edda de Glastheim.",
+        "es": "[Administrador]\nGestión de la Edda de Glastheim."
+    },
+    "Q+qlDA": {
+        "ko": "쿨타임(일반) 삭제",
+        "en": "Remove Cooldown (Normal)",
+        "pt": "Resetar missão (Normal)",
+        "es": "Reiniciar misión (Normal)"
+    },
+    "ROqlDA": {
+        "ko": "쿨타임(하드) 삭제",
+        "en": "Remove Cooldown (Hard)",
+        "pt": "Resetar missão (Difícil)",
+        "es": "Reiniciar misión (Difícil)"
+    },
+    "ReqlDA": {
+        "ko": "완전초기화",
+        "en": "Complete Reset",
+        "pt": "Resetar tudo",
+        "es": "Reiniciar todo"
+    },
+    "RuqlDA": {
+        "ko": "시나리오모드 완료",
+        "en": "Scenario Mode Complete",
+        "pt": "Setar modo história",
+        "es": "Establecer modo historia"
+    },
+    "R+qlDA": {
+        "ko": "오스카",
+        "en": "Oscar",
+        "pt": "Oscar",
+        "es": "Oscar"
+    },
+    "SOqlDA": {
+        "ko": "글래스트 헤임의 몰락",
+        "en": "The Fall of Glastheim",
+        "pt": "Edda de Glastheim",
+        "es": "Edda de Glastheim"
+    },
+    "SeqlDA": {
+        "ko": "글래스트 헤임 정화",
+        "en": "Glastheim Purification",
+        "pt": "Queda de Glastheim",
+        "es": "Caída de Glastheim"
+    },
+    "SuqlDA": {
+        "ko": "글래스트 헤임 정화 상급",
+        "en": "Glastheim Purification Advanced",
+        "pt": "Queda de Glastheim II",
+        "es": "Caída de Glastheim II"
+    },
+    "S+qlDA": {
+        "ko": "^0000FF최소 1인 이상의 파티를 구성하고 진행 해 주시기 바랍니다.^000000",
+        "en": "^0000FFPlease form a party of at least 1 member and proceed.^000000",
+        "pt": "^0000FFPor favor, forme um grupo com pelo menos 1 pessoa para continuar.^000000",
+        "es": "^0000FFPor favor, forma un grupo con al menos 1 persona para continuar.^000000"
+    },
+    "TOqlDA": {
+        "ko": "^0000FF당신과 대화할 마음이 없어보입니다. 레벨 {0}이상이 되어야 대화가 가능해질 듯 합니다.^000000",
+        "en": "^0000FFIt doesn't seem willing to talk to you. You may be able to speak with it once you reach Level {0} or higher.^000000",
+        "pt": "^0000FFVocê precisa ter o nível {0} para continuar.^000000",
+        "es": "^0000FFNecesitas tener nivel {0} para continuar.^000000"
+    },
+    "TeqlDA": {
+        "ko": "[오스카]\n앗! 당신 내가 보여요?",
+        "en": "[Oscar]\nAh! You can see me?",
+        "pt": "[Oscar]\nAh! Você consegue me ver?",
+        "es": "[Oscar]\n¡Ah! ¿Puedes verme?"
+    },
+    "TuqlDA": {
+        "ko": "잘 보인다",
+        "en": "I can see it clearly.",
+        "pt": "Muito bem, por sinal.",
+        "es": "Muy bien, por cierto."
+    },
+    "T+qlDA": {
+        "ko": "[오스카]\n허어, 이제보니 차원의 틈을 몇번이나 들락거린 흔적이 있잖아?",
+        "en": "[Oscar]\nHuh... now that I look, there are traces of you going in and out of the Dimensional Gap several times, aren't there?",
+        "pt": "[Oscar]\nUau, agora que notei, há sinais de que você entrou e saiu da Fenda Dimensional várias vezes, não é?",
+        "es": "[Oscar]\nVaya, ahora que lo noto, hay señales de que entraste y saliste de la Fisura Dimensional varias veces, ¿verdad?"
+    },
+    "UOqlDA": {
+        "ko": "[오스카]\n킁킁킁~.\n오! 진짜네! 차원을 넘나든 존재에게만 나는 냄새가 나고있어!",
+        "en": "[Oscar]\nSniff sniff sniff~.\nOh! It's real! I can smell the scent that only comes from someone who has crossed dimensions!",
+        "pt": "[Oscar]\n*cheira* *cheira*~\nÉ isso! Esse é o perfume de quem viajou por várias dimensões!",
+        "es": "[Oscar]\n*huéle* *huéle*~\n¡Eso es! ¡Ese es el perfume de quien ha viajado por varias dimensiones!"
+    },
+    "UeqlDA": {
+        "ko": "(자신의 냄새를 맡아본다)",
+        "en": "(Sniffs their own scent.)",
+        "pt": "*Você começa a se cheirar*",
+        "es": "*Empiezas a olerte*"
+    },
+    "UuqlDA": {
+        "ko": "[오스카]\n아니아니, 당신 사람이잖아. 사람은 시공간을 넘나들며 묻은 시간의 향을 맡을수가 없으니깐 벌름거려봐야 의미없다구요.",
+        "en": "[Oscar]\nNo, no. You're human. Humans can't cross time and space and catch the scent of time that clings to things, so there's no point in sniffing around.",
+        "pt": "[Oscar]\nNão, não, você é humano. Humanos não conseguem sentir o cheiro do espaço-tempo, então não faz sentido se preocupar com isso.",
+        "es": "[Oscar]\nNo, no, tú eres humano. Los humanos no pueden oler el espacio-tiempo, así que no tiene sentido preocuparse por eso."
+    },
+    "U+qlDA": {
+        "ko": "그러는 넌 누구냐?",
+        "en": "And who are you?",
+        "pt": "Tá, quem é você?",
+        "es": "Está bien, ¿quién eres tú?"
+    },
+    "VOqlDA": {
+        "ko": "[오스카]\n아... 음, 일단 오스카 라고 불러줘요. 당신처럼 시공간을 들락거리면서 기록을 수집하는게 취미.",
+        "en": "[Oscar]\nAh... um, for now, please call me Oscar. Like you, I enjoy coming and going through time and space, collecting records.",
+        "pt": "[Oscar]\nAh, sim... Pode me chamar de Oscar. Assim como você, eu gosto de colecionar registros do tempo e espaço.",
+        "es": "[Oscar]\nAh, sí... Puedes llamarme Oscar. Al igual que tú, a mí me gusta coleccionar registros del tiempo y espacio."
+    },
+    "VeqlDA": {
+        "ko": "[오스카]\n간만에 좋아하는 시간으로 여행을 떠나려던 참에 당신이 빤히 쳐다봐서 깜짝 놀랐지 뭐예요.",
+        "en": "[Oscar]\nI was just about to take a trip through time to my favorite era, and you were staring right at me, so you gave me quite a scare.",
+        "pt": "[Oscar]\nEu estava prestes a viajar para a minha época favorita quando notei você me encarando.",
+        "es": "[Oscar]\nEstaba a punto de viajar a mi época favorita cuando noté que me estabas mirando."
+    },
+    "VuqlDA": {
+        "ko": "방해해서 미안",
+        "en": "Sorry to bother you.",
+        "pt": "Desculpe incomodar.",
+        "es": "Disculpa la molestia."
+    },
+    "V+qlDA": {
+        "ko": "난 바쁘니 간다",
+        "en": "I'm busy, so I'm going.",
+        "pt": "Eu vou te deixar em paz.",
+        "es": "Te dejaré en paz."
+    },
+    "WOqlDA": {
+        "ko": "[오스카]\n아, 잠깐. 혹시 차원여행을 얼마나 많이 했나요? 죽을뻔한 경험은 많아요? 제일 인상적이던 차원은 어디예요?",
+        "en": "[Oscar]\nAh, wait. How many times have you traveled between dimensions? Have you had many near-death experiences? Which dimension left the biggest impression on you?",
+        "pt": "[Oscar]\nOh, espere. Quantas vezes você viajou através das dimensões? Você teve muitas experiências de quase morte? Qual dimensão foi a mais impressionante?",
+        "es": "[Oscar]\nOh, espera. ¿Cuántas veces has viajado a través de las dimensiones? ¿Has tenido muchas experiencias cercanas a la muerte? ¿Qué dimensión fue la más impresionante?"
+    },
+    "WeqlDA": {
+        "ko": "제발 질문은 하나씩만 해줘.",
+        "en": "Please ask only one question at a time.",
+        "pt": "Calma, uma pergunta de cada vez...",
+        "es": "Tranquilo, una pregunta a la vez..."
+    },
+    "WuqlDA": {
+        "ko": "[오스카]\n아... 미안해요. 저 말고도 차원여행 경험이 있는 존재가 있다는게 반가워서.",
+        "en": "[Oscar]\nAh... I'm sorry. I was just glad to hear there are others besides me who have experience traveling between dimensions.",
+        "pt": "[Oscar]\nAh... me desculpe. Fico feliz que haja alguém além de mim que tenha experiência em viagens dimensionais.",
+        "es": "[Oscar]\nAh... lo siento. Me alegra que haya alguien además de mí con experiencia en viajes dimensionales."
+    },
+    "W+qlDA": {
+        "ko": "[오스카]\n바르문트같은 차원의 현자도 있긴하지만 이런 이야기를 나누려 해도 워낙 절 어려워해서...",
+        "en": "[Oscar]\nThere are sages from the same dimension, like Varmunt, but they find me so difficult to approach that I can hardly even talk about things like this with them...",
+        "pt": "[Oscar]\nNa verdade, tem o sábio Varmunt, mas ele me acha uma pessoa edificante...",
+        "es": "[Oscar]\nEn realidad, está el sabio Varmunt, pero él me considera una persona edificante..."
+    },
+    "XOqlDA": {
+        "ko": "바르문트가 널 어려워해??",
+        "en": "Is Varmunt having a hard time with you??",
+        "pt": "Varmunt te acha edificante?",
+        "es": "¿Varmunt te considera edificante?"
+    },
+    "XeqlDA": {
+        "ko": "[오스카]\n네, 예의를 지켜야한다고 가까이 오려고도 하질 않아서. 차원여행 이야기도 많이 못 나눠 봤어요.",
+        "en": "[Oscar]\nYeah, he kept his distance, saying we should mind our manners. So I didn’t really get to talk much about dimensional travel, either.",
+        "pt": "[Oscar]\nSim, pois eu sou alguém 'edifício' de encontrar! Hahaha!",
+        "es": "[Oscar]\n¡Sí, porque soy alguien 'edificante' de encontrar! ¡Jajaja!"
+    },
+    "XuqlDA": {
+        "ko": "[{0}]\n딴건 몰라도 그건 확실히 알겠다. 넌 재미 없는 개그에 소질이 있구나.",
+        "en": "[{0}]\nI may not know much, but I know this for sure. You’ve got a talent for unfunny jokes.",
+        "pt": "[{0}]\nUrgh... que piada sem graça.",
+        "es": "[{0}]\nUgh... qué chiste sin gracia."
+    },
+    "X+qlDA": {
+        "ko": "[{0}]\n네 개그 감각이 너무 끝내주게 썰렁해서 올 여름엔 마당에 잭 프로스트를 쳐줄 법사 용역을 안 불러도 아주 쾌적하겠어!",
+        "en": "[{0}]\nYour sense of humor is so unbelievably cold that this summer, I won't even need to hire a wizard to cast Jack Frost in the yard to keep things nice and cool!",
+        "pt": "[{0}]\nDepois dessa piada infame, podemos voltar ao assunto?!",
+        "es": "[{0}]\nDespués de ese chiste infame, ¿podemos volver al tema?!"
+    },
+    "YOqlDA": {
+        "ko": "[오스카]\n보통은 그게 정상이라구요. 500년 묵은 시공룡 앞에서라면 인간 대현자라도 껄끄러워 하는게 당연하니까.",
+        "en": "[Oscar]\nNormally, that would be perfectly natural. Even a great human sage would be uneasy when facing a 500-year-old time-space dragon.",
+        "pt": "[Oscar]\nÉ o meu senso de humor. É normal até Varmunt se sentir desconfortável na frente de um Dragão-do-Tempo de 500 anos.",
+        "es": "[Oscar]\nEs mi sentido del humor. Es normal que hasta Varmunt se sienta incómodo frente a un Dragón del Tiempo de 500 años."
+    },
+    "YeqlDA": {
+        "ko": "지금 뭐라고 하셨소?",
+        "en": "What did you just say?",
+        "pt": "O QUÊ?!",
+        "es": "¡¿QUÉ?!"
+    },
+    "YuqlDA": {
+        "ko": "[오스카]\n대현자도 껄끄러워 한다고 했죠.",
+        "en": "[Oscar]\nI told you, even the Great Sage finds it troublesome.",
+        "pt": "[Oscar]\nEu disse que até o Grande Sábio Varmunt fica desconfortável comigo!!",
+        "es": "[Oscar]\n¡¡Dije que hasta el Gran Sabio Varmunt se siente incómodo conmigo!!"
+    },
+    "Y+qlDA": {
+        "ko": "아니 그거 말구...",
+        "en": "No, not that...",
+        "pt": "Não, não é isso...",
+        "es": "No, no es eso..."
+    },
+    "ZOqlDA": {
+        "ko": "용이라구 하셨소?",
+        "en": "Did you say a dragon?",
+        "pt": "Você disse que é um Dragão-do-Tempo?",
+        "es": "¿Dijiste que eres un Dragón del Tiempo?"
+    },
+    "ZeqlDA": {
+        "ko": "[오스카]\n네. 갑자기 안색이 안좋으시네. 더우신가요? 아깐 시원하다고 하시더니.",
+        "en": "[Oscar]\nYes. You suddenly look unwell. Are you feeling hot? You said it was cool earlier.",
+        "pt": "[Oscar]\nSim! Ei... o que foi? Você está com cara de quem está vendo uma assombração.",
+        "es": "[Oscar]\n¡Sí! Oye... ¿qué pasa? Tienes cara de estar viendo un fantasma."
+    },
+    "ZuqlDA": {
+        "ko": "500년 묵은 용...",
+        "en": "A 500-year-old dragon...",
+        "pt": "Um Dragão-do-Tempo de 500 anos...",
+        "es": "Un Dragón del Tiempo de 500 años..."
+    },
+    "Z+qlDA": {
+        "ko": "[오스카]\n그렇습니다만. 갑자기 왜 무릎을 꿇으시는지?",
+        "en": "[Oscar]\nYes, but... why are you suddenly kneeling?",
+        "pt": "[Oscar]\nSim, ué. Qual a surpresa?",
+        "es": "[Oscar]\nSí, claro. ¿Cuál es la sorpresa?"
+    },
+    "aOqlDA": {
+        "ko": "유희 중이신 겁니까?",
+        "en": "Are you playing around?",
+        "pt": "Você tá brincando?",
+        "es": "¿Estás bromeando?"
+    },
+    "aeqlDA": {
+        "ko": "[오스카]\n유희는 항상 하고 있죠! 지금도 시공의 관찰을 하려던 참이었는데. 바닥엔 왜 엎드리세요?!",
+        "en": "[Oscar]\nI’m always up for a little fun! I was just about to observe time and space, too. Why are you lying face-down on the floor?!",
+        "pt": "[Oscar]\nEu estou sempre brincando! Eu adoro brincar nas fendas espaciais indo e voltando ao passado. Você não?!",
+        "es": "[Oscar]\n¡Siempre estoy bromeando! Me encanta jugar en las fisuras espaciales yendo y volviendo al pasado. ¿Tú no?!"
+    },
+    "auqlDA": {
+        "ko": "공손히 자기 소개를 한다.",
+        "en": "You politely introduce yourself.",
+        "pt": "Você é um Dragão-do-Tempo?",
+        "es": "¿Eres un Dragón del Tiempo?"
+    },
+    "a+qlDA": {
+        "ko": "[오스카]\n아아 {0} 모험가님 이시군요. 이제 그만 일어나시고. 마침 딱 타이밍좋게 제가 좋아하는 시공으로 통하는 때가 왔네요.",
+        "en": "[Oscar]\nAh, you must be Adventurer {0}. Now, get up already. The time has come at just the right moment for the space-time I like to open up.",
+        "pt": "[Oscar]\nAh, {0}. Esse é o momento ideal para eu te apresentar meus poderes draconianos.",
+        "es": "[Oscar]\nAh, {0}. Este es el momento ideal para presentarte mis poderes draconianos."
+    },
+    "bOqlDA": {
+        "ko": "[오스카]\n혹시 이제까지 가보지 않은 차원을 엿보고싶지 않아요?",
+        "en": "[Oscar]\nWould you like to catch a glimpse of a dimension you’ve never been to before?",
+        "pt": "[Oscar]\nNão quer dar uma espiada em uma dimensão onde nunca esteve antes?",
+        "es": "[Oscar]\n¿No quieres echar un vistazo a una dimensión donde nunca hayas estado antes?"
+    },
+    "beqlDA": {
+        "ko": "미천한 저에게 길을 알려주십시오.",
+        "en": "Please show the way to one as humble as me.",
+        "pt": "Mostre o caminho.",
+        "es": "Muéstrame el camino."
+    },
+    "buqlDA": {
+        "ko": "[오스카]\n좋아요. 이 글래스트 헤임이 몰락하던 그 시점을 구경하러 갈 거예요. 모험가님도 저와 같이 가는걸로 하죠.",
+        "en": "[Oscar]\nAll right. I’m going to go see the very moment Glastheim fell into ruin. Adventurer, you’ll come with me, too.",
+        "pt": "[Oscar]\nCerto, que tal voltarmos no tempo para o exato momento da Queda de Glastheim?",
+        "es": "[Oscar]\nBien, ¿qué tal si viajamos en el tiempo al momento exacto de la Caída de Glastheim?"
+    },
+    "b+qlDA": {
+        "ko": "격하게 고개를 흔들어 동의한다",
+        "en": "Nods vigorously in agreement",
+        "pt": "Vamos lá!",
+        "es": "¡Vamos!"
+    },
+    "cOqlDA": {
+        "ko": "[오스카]\n오, 기뻐할 줄 알았어요. 그럼 잠시 준비하시고 제가 입구를 여는것을 도와주세요.",
+        "en": "[Oscar]\nOh, I thought you'd be happy. Then get ready for a moment, and help me open the entrance.",
+        "pt": "[Oscar]\nImaginei que ficaria feliz. Certo, prepare-se que eu irei abrir a entrada quando você falar comigo novamente.",
+        "es": "[Oscar]\nImaginé que te alegrarías. De acuerdo, prepárate, abriré la entrada cuando hables conmigo nuevamente."
+    },
+    "ceqlDA": {
+        "ko": "^0000FF시나리오 모드는 1인 진행 던전입니다. 새로 1인 파티를 구성해주십시오.^000000",
+        "en": "^0000FFScenario Mode is a solo instance dungeon. Please create a new one-person party.^000000",
+        "pt": "^0000FFEssa instância requer um grupo de um só membro. Por favor, crie um grupo e tente novamente.^000000",
+        "es": "^0000FFEsta instancia requiere un grupo de un solo miembro. Por favor, crea un grupo e inténtalo de nuevo.^000000"
+    },
+    "cuqlDA": {
+        "ko": "^0000FF시나리오 모드에는 던전 내부의 용병과 함께 참여할 수 없습니다.^000000",
+        "en": "^0000FFIn Scenario Mode, you cannot participate with mercenaries inside the dungeon.^000000",
+        "pt": "^0000FFVocê não pode entrar na instância com um Assistente. Por favor, dispense seu assistente e tente novamente.^000000",
+        "es": "^0000FFNo puedes entrar a la instancia con un Asistente. Por favor, despide a tu asistente e inténtalo de nuevo.^000000"
+    },
+    "c+qlDA": {
+        "ko": "[오스카]\n마음의 준비는 다 끝난거죠? 제 손에 손을 대고 정신을 집중 해주세요.",
+        "en": "[Oscar]\nAre you all ready? Place your hand on mine and focus your mind.",
+        "pt": "[Oscar]\nTudo certo? Por favor, encoste a palma da sua mão na minha e feche os olhos.",
+        "es": "[Oscar]\n¿Todo listo? Por favor, apoya la palma de tu mano en la mía y cierra los ojos."
+    },
+    "dOqlDA": {
+        "ko": "차원의 틈 생성",
+        "en": "Dimensional Rift Creation",
+        "pt": "Criar instância",
+        "es": "Crear instancia"
+    },
+    "deqlDA": {
+        "ko": "입장",
+        "en": "Enter",
+        "pt": "Entrar na instância",
+        "es": "Entrar a la instancia"
+    },
+    "duqlDA": {
+        "ko": "^0000FF{0} ^000000- 예약실패",
+        "en": "^0000FF{0} ^000000- Reservation Failed",
+        "pt": "^0000FF{0} ^000000- Falha.",
+        "es": "^0000FF{0} ^000000 - Falló."
+    },
+    "d+qlDA": {
+        "ko": "^FF0000알 수 없는 에러가 발생했습니다.^000000",
+        "en": "^FF0000An unknown error has occurred.^000000",
+        "pt": "^FF0000Ocorreu um erro desconhecido.^000000",
+        "es": "^FF0000Ocurrió un error desconocido.^000000"
+    },
+    "eOqlDA": {
+        "ko": "^0000FF던전이 생성되지 않았거나 파티장과 다른 던전으로 진입하려는 상태로 확인됩니다^000000",
+        "en": "^0000FFIt seems the dungeon has not been created, or you are trying to enter a different dungeon than the party leader.^000000",
+        "pt": "^0000FFParece que a instância não foi criada ou que você está tentando entrar em uma instância diferente da do líder do grupo^000000",
+        "es": "^0000FFParece que la instancia no fue creada o estás intentando entrar en una instancia diferente a la del líder del grupo.^000000"
+    },
+    "eeqlDA": {
+        "ko": "^FF0000파티 상태가 아니라면 입장할 수 없습니다.^000000",
+        "en": "^FF0000You cannot enter unless you are in a party.^000000",
+        "pt": "^FF0000Você não pode entrar sem um grupo.^000000",
+        "es": "^FF0000No puedes entrar sin un grupo.^000000"
+    },
+    "euqlDA": {
+        "ko": "{0} 파티의 파티원이 {1} 던전의 공략에 참여합니다",
+        "en": "A member of {0}'s party is joining the assault on the {1} dungeon.",
+        "pt": "{0} entrou na instância [{1}].",
+        "es": "{0} entró en la instancia [{1}]."
+    },
+    "e+qlDA": {
+        "ko": "[오스카]\n안타깝지만 오브에 슈미츠가 삼켜지는 일을 막을 방법은 없었어요.",
+        "en": "[Oscar]\nI'm afraid there was no way to stop Schmidt from being swallowed by the orb.",
+        "pt": "[Oscar]\nInfelizmente, não há nada que poderíamos fazer para impedir Schmidt de ser engolido pelo Orbe.",
+        "es": "[Oscar]\nDesafortunadamente, no había nada que pudiéramos hacer para impedir que Schmidt fuera engullido por el Orbe."
+    },
+    "fOqlDA": {
+        "ko": "오브는 파괴되었나요?",
+        "en": "Has the orb been destroyed?",
+        "pt": "O Orbe foi destruído?",
+        "es": "¿El Orbe fue destruido?"
+    },
+    "feqlDA": {
+        "ko": "[오스카]\n네. 이후의 일을 잠깐 설명하자면, 오브는 확실히 작동을 멈췄고 더 이상의 생명체를 흡수하진 않았어요. 그건 그나마 다행한 일이예요.",
+        "en": "[Oscar]\nYes. To briefly explain what happened after that, the orb definitely stopped working, and it didn't absorb any more living creatures. At least that's a relief.",
+        "pt": "[Oscar]\nSim. Só para explicar o que aconteceu em seguida, o orbe definitivamente parou de funcionar e não absorveu mais vida. Isso é uma coisa boa.",
+        "es": "[Oscar]\nSí. Solo para explicar qué pasó después, el orbe definitivamente dejó de funcionar y ya no absorbía vida. Eso es bueno."
+    },
+    "fuqlDA": {
+        "ko": "[오스카]\n하지만 오브의 기운이 정지했다고 해서 이 글래스트 헤임을 뒤덮은 죽음의 기운이 멈추지는 않았어요.",
+        "en": "[Oscar]\nBut just because the orb's energy has stopped, it doesn't mean the aura of death that covers Glastheim has stopped.",
+        "pt": "[Oscar]\nMas mesmo que a energia do orbe tenha parado, isso não impediu a energia mortal envolver toda Glastheim.",
+        "es": "[Oscar]\nPero incluso después de que la energía del orbe se detuvo, eso no impidió que la energía mortal envolviera toda Glastheim."
+    },
+    "f+qlDA": {
+        "ko": "[오스카]\n슈미츠의 사념의 파편이 현실화되어 한동안 고성의 여기 저기에 나타나기 시작했죠.",
+        "en": "[Oscar]\nFragments of Schmidt's lingering thoughts became real, and for a while, they started appearing here and there throughout the old castle.",
+        "pt": "[Oscar]\nFragmentos da mente de Schmidt se materializaram e começaram a aparecer no castelo por um tempo.",
+        "es": "[Oscar]\nFragmentos de la mente de Schmidt se materializaron y comenzaron a aparecer en el castillo por un tiempo."
+    },
+    "gOqlDA": {
+        "ko": "[오스카]\n아, 당연히 제가 생기의 흔적이 있는지 측정해보았지만 그건 슈미츠를 흉내 냈을 뿐 슈미츠의 영혼과는 아무런 관계가 없는 흔적 이었어요.",
+        "en": "[Oscar]\nAh, of course I measured to see if there were any traces of life energy, but it was only a trace that imitated Schmidt and had nothing to do with Schmidt's soul.",
+        "pt": "[Oscar]\nAh, claro que medi para ver se havia algum vestígio de vida, mas era apenas uma imitação de Schmidt e não tinha nada a ver com a alma dele.",
+        "es": "[Oscar]\nAh, claro que medí para ver si había algún rastro de vida, pero era solo una imitación de Schmidt y no tenía nada que ver con su alma."
+    },
+    "geqlDA": {
+        "ko": "그럼 진짜 슈미츠는?",
+        "en": "Then the real Schmidt is?",
+        "pt": "O que aconteceu com o verdadeiro Schmidt?",
+        "es": "¿Qué le pasó al verdadero Schmidt?"
+    },
+    "guqlDA": {
+        "ko": "[오스카]\n오브의 내부에 슈미츠의 영혼이 남아있을까 살펴봤지만 다른 차원으로 영혼이 옮겨진 것인지 아니면 완전히 소멸된 것인지 그의 기온이 감지되진 않더라고요.",
+        "en": "[Oscar]\nI checked to see if Schmidt's soul was still inside the orb, but I couldn't sense his presence. Either his soul was moved to another dimension, or it was completely destroyed.",
+        "pt": "[Oscar]\nVerifiquei se a alma de Schmidt permaneceu dentro do orbe, mas não consegui detectar sua presença, indicando se sua alma havia sido transferida para outra dimensão ou completamente destruída.",
+        "es": "[Oscar]\nVerifiqué si el alma de Schmidt permaneció dentro del orbe, pero no pude detectar su presencia, lo que indica si su alma había sido transferida a otra dimensión o completamente destruida."
+    },
+    "g+qlDA": {
+        "ko": "[오스카]\n다만, 슈미츠의 사념이 배회하는 현상은 룬 미드가츠의 다른 왕족들에게 좋은 정치적 먹이감이 되었어요.",
+        "en": "[Oscar]\nHowever, the phenomenon of Schmidt's lingering thoughts wandering about became fine political fodder for the other royals of Rune-Midgarts.",
+        "pt": "[Oscar]\nNo entanto, a atitude de Schmidt se tornou um prato cheio político para outras famílias reais de Rune-Midgard.",
+        "es": "[Oscar]\nSin embargo, la actitud de Schmidt se convirtió en un plato político suculento para otras familias reales de Rune-Midgard."
+    },
+    "hOqlDA": {
+        "ko": "정치적이라면...",
+        "en": "If it’s political...",
+        "pt": "Político...?",
+        "es": "¿Político...?"
+    },
+    "heqlDA": {
+        "ko": "[오스카]\n왕국 국민들의 생명을 살리려 몸을 던진 행위가, 광기에 휩싸인 왕의 타락으로 변질되어 소문이 퍼지는건 아주 쉬웠죠.",
+        "en": "[Oscar]\nIt was all too easy for rumors to spread, twisting the act of throwing yourself in to save the lives of the kingdom's people into the fall of a king consumed by madness.",
+        "pt": "[Oscar]\nO ato de sacrificar a própria vida para salvar o reino foi transformado em um falso boato de que o rei em sucumbiu à loucura.",
+        "es": "[Oscar]\nEl acto de sacrificar su propia vida para salvar el reino fue transformado en un falso rumor de que el rey sucumbió a la locura."
+    },
+    "huqlDA": {
+        "ko": "[오스카]\n슈미츠 왕은 사술에 미쳐 스스로를 재물로 삼아 언데드화 된 것이 정설로 받아들여지고 정사에 기록되었죠",
+        "en": "[Oscar]\nIt is widely accepted and recorded in the official history that King Schmidt, driven mad by dark sorcery, offered himself as a sacrifice and became undead.",
+        "pt": "[Oscar]\nFoi espalhado que o rei Schmidt era louco por bruxaria e se transformou em um morto-vivo. Isso ficou registrado na história da política.",
+        "es": "[Oscar]\nSe difundió que el rey Schmidt estaba loco por la brujería y se convirtió en un no-muerto. Eso quedó registrado en la historia política."
+    },
+    "h+qlDA": {
+        "ko": "[오스카]\n전 어딘가에 슈미츠의 진짜 영혼이 살아있을거라 짐작하고 있어요. 그래서 차원여행으로 슈미츠 왕의 사념체를 수만번이나 쓰러뜨렸죠.",
+        "en": "[Oscar]\nI suspect that Schmidt's true soul is still alive somewhere. So through dimensional travel, I defeated King Schmidt's lingering thoughts tens of thousands of times.",
+        "pt": "[Oscar]\nSuspeito que o verdadeiro espírito de Schmidt viva em algum lugar. Já vi o Rei Schmidt dezenas de milhares de vezes através das viagens dimensionais.",
+        "es": "[Oscar]\nSospecho que el verdadero espíritu de Schmidt vive en algún lugar. He visto al Rey Schmidt decenas de miles de veces a través de los viajes dimensionales."
+    },
+    "iOqlDA": {
+        "ko": "[오스카]\n사념체에서 나오는 흔적들을 모아 탐구하다보면 언젠가는 슈미츠 왕의 영혼이 어떻게 되었는지 알 수 있지 않을까 해서...",
+        "en": "[Oscar]\nI’ve been gathering and studying the traces left behind by those thought-forms, hoping that someday we might learn what became of King Schmidt’s soul...",
+        "pt": "[Oscar]\nAchava que se eu coletasse e explorasse vestígios dele, um dia poderia ser capaz de descobrir o que aconteceu com a alma do Rei Schmidt...",
+        "es": "[Oscar]\nPensé que si recolectaba y exploraba rastros de él, algún día podría ser capaz de descubrir qué le pasó al alma del Rey Schmidt..."
+    },
+    "ieqlDA": {
+        "ko": "왜 그렇게까지 하십니까?",
+        "en": "Why would you go that far?",
+        "pt": "Por que você faz isso?",
+        "es": "¿Por qué haces eso?"
+    },
+    "iuqlDA": {
+        "ko": "[오스카]\n일단, 이것을 알아주셨으면 좋겠어요. 난 다른 드래곤들처럼 생명체의 귀하고 천함을 따지는 것을 좋아하지 않아요.",
+        "en": "[Oscar]\nFirst, I want you to know this. Unlike other dragons, I don't like judging whether a living being is noble or lowly.",
+        "pt": "[Oscar]\nEm primeiro lugar, não gosto de julgar a preciosidade ou insignificância dos seres vivos como os outros Dragões-do-Tempo fazem.",
+        "es": "[Oscar]\nEn primer lugar, no me gusta juzgar la preciosidad o insignificancia de los seres vivos como lo hacen otros Dragones del Tiempo."
+    },
+    "i+qlDA": {
+        "ko": "[오스카]\n자기 희생을 아는 생명체는 그 누구라도 고귀하다고 생각해요. 그래서 그 고귀함이 변질되어 전해지는걸 원치 않아요.",
+        "en": "[Oscar]\nAny living being who understands self-sacrifice is noble, I believe. That is why I do not want that nobility to be distorted as it is passed on.",
+        "pt": "[Oscar]\nAcredito que qualquer ser vivo é nobre. Portanto, não quero que essa nobreza seja distorcida e transmitida em forma de mentira.",
+        "es": "[Oscar]\nCreo que cualquier ser vivo es noble. Por lo tanto, no quiero que esa nobleza sea distorsionada y transmitida en forma de mentira."
+    },
+    "jOqlDA": {
+        "ko": "[오스카]\n그것이 시간과 기록을 관장하는\n나 시공룡 오스카의 사명이기 때문입니다.",
+        "en": "[Oscar]\nBecause that is the duty of I, the time dragon Oscar, who governs time and records.",
+        "pt": "[Oscar]\nEssa é a minha missão. Por isso eu sou Oscar, o Dragão-do-Tempo, governador das eras e dos séculos.",
+        "es": "[Oscar]\nEsa es mi misión. Por eso soy Oscar, el Dragón del Tiempo, gobernador de las eras y los siglos."
+    },
+    "jeqlDA": {
+        "ko": "제가 도움이 될 수 있을까요?",
+        "en": "Is there anything I can help you with?",
+        "pt": "Como eu poderia te ajudar?",
+        "es": "¿Cómo podría ayudarte?"
+    },
+    "juqlDA": {
+        "ko": "[오스카]\n음... 어쩌면 있을지도 몰라요.",
+        "en": "[Oscar]\nUm... Maybe there is.",
+        "pt": "[Oscar]\nHm... talvez...",
+        "es": "[Oscar]\nHm... tal vez..."
+    },
+    "j+qlDA": {
+        "ko": "[오스카]\n슈미츠 왕의 사념을 정화하고 그 사념에서 나온 결정이나 파편들을 모아주세요. 물론 저도 개인적으로 모으고 있긴하지만 많으면 많을수록 좋으니까.",
+        "en": "[Oscar]\nPlease purify the King's lingering thoughts, and gather the crystals or fragments that come from them. Of course, I'm collecting them personally as well, but the more we have, the better.",
+        "pt": "[Oscar]\nPor favor, purifique Glastheim e colete os cristais que vieram da mente fragmentada de Schmidt. Estou coletando-os pessoalmente, mas quanto mais, melhor.",
+        "es": "[Oscar]\nPor favor, purifica Glastheim y recolecta los cristales que vinieron de la mente fragmentada de Schmidt. Los estoy recolectando personalmente, pero cuanto más, mejor."
+    },
+    "kOqlDA": {
+        "ko": "[오스카]\n아. 제 옆의 이 자판기 처럼 생긴 성물들을 소개해드리죠. 저 성물에 적절한 결정체들을 투입하면 제 의지가 반영되어 원하는 물건과 교환하거나 그 물건들을 강화할 수 있을거예요.",
+        "en": "[Oscar]\nAh. Let me introduce these sacred objects that look like vending machines beside me. If you insert the proper crystals into those sacred objects, my will shall be reflected, allowing you to exchange them for the item you want or enhance those items.",
+        "pt": "[Oscar]\nAh. Sobre essas Máquinas ao meu lado. Se você colocar os cristais, poderá trocá-los por itens ou fortalecer equipamentos.",
+        "es": "[Oscar]\nAh. Sobre estas Máquinas a mi lado. Si pones los cristales, podrás intercambiarlos por ítems o fortalecer equipos."
+    },
+    "keqlDA": {
+        "ko": "어떤 원리인지 알 수 없군요.",
+        "en": "I can't tell how it works.",
+        "pt": "Como você faz isso?",
+        "es": "¿Cómo lo haces?"
+    },
+    "kuqlDA": {
+        "ko": "[오스카]\n드래곤의 권능이라 해 두죠. 어쨌든 언제든 원하는 때에 말하세요. 사념의 정화를 위한 차원의 문은 제가 열어드리도록 할테니까.",
+        "en": "[Oscar]\nLet’s call it the power of a dragon. In any case, speak whenever you wish. I will open the dimensional gate for you to purify the lingering thoughts.",
+        "pt": "[Oscar]\nVamos chamar de 'Poder Draconiano'. De qualquer forma, abrirei a porta dimensional para a purificação de Glastheim.",
+        "es": "[Oscar]\nLlamémoslo 'Poder Draconiano'. De cualquier modo, abriré la puerta dimensional para la purificación de Glastheim."
+    },
+    "k+qlDA": {
+        "ko": "^0000FF던전의 출입 후유증이 사라지지 않았습니다. 이 시간동안에는 ^FF0000일반모드와 하드모드^0000FF의 모든 이용이 중지됩니다.^000000",
+        "en": "^0000FFThe aftereffects of entering the dungeon have not worn off yet. During this time, all access to ^FF0000Normal Mode and Hard Mode^0000FF will be suspended.^000000",
+        "pt": "^0000FFVocê ainda não pode entrar na instância. O tempo de espera funciona tanto para o ^FF0000Modo Normal quanto para o Modo Difícil.^000000",
+        "es": "^0000FFAún no puedes entrar en la instancia. El tiempo de espera funciona tanto para el ^FF0000Modo Normal como para el Modo Difícil.^000000"
+    },
+    "lOqlDA": {
+        "ko": "^0000FF던전의 출입 후유증이 모두 사라졌습니다. 이제 정상적으로 대화가 가능합니다.^000000",
+        "en": "^0000FFAll aftereffects from entering the dungeon have disappeared. You can now speak normally.^000000",
+        "pt": "^0000FFO tempo de espera acabou.^000000",
+        "es": "^0000FFEl tiempo de espera terminó.^000000"
+    },
+    "leqlDA": {
+        "ko": "^FF0000던전의 하드모드 출입 후유증이 모두 사라졌습니다. 이제 대화를 통해 정상적으로 진행 가능합니다.^000000",
+        "en": "^FF0000All aftereffects from entering Hard Mode in the dungeon have disappeared. You can now proceed normally through dialogue.^000000",
+        "pt": "^FF0000O tempo de espera do Modo Difícil acabou.^000000",
+        "es": "^FF0000El tiempo de espera del Modo Difícil terminó.^000000"
+    },
+    "luqlDA": {
+        "ko": "차원의 틈 생성",
+        "en": "Create Dimensional Rift",
+        "pt": "Criar Fenda Dimensional",
+        "es": "Crear Fisura Dimensional"
+    },
+    "l+qlDA": {
+        "ko": "^FF0000차원의 틈(상급) 생성^000000",
+        "en": "^FF0000Create Dimensional Gap (Advanced)^000000",
+        "pt": "^FF0000Criar Fenda Dimensional (Modo Difícil)^000000",
+        "es": "^FF0000Crear Fisura Dimensional (Modo Difícil)^000000"
+    },
+    "mOqlDA": {
+        "ko": "[오스카]",
+        "en": "[Oscar]",
+        "pt": "[Oscar]",
+        "es": "[Oscar]"
+    },
+    "meqlDA": {
+        "ko": "마음의 준비는 다 끝난거죠? 제 손에 손을 대고 정신을 집중 해주세요.",
+        "en": "You’re all set, right? Place your hand on mine and focus your mind.",
+        "pt": "Tudo certo? Por favor, encoste a palma da sua mão na minha e feche os olhos.",
+        "es": "¿Todo listo? Por favor, apoya la palma de tu mano en la mía y cierra los ojos."
+    },
+    "muqlDA": {
+        "ko": "마음의 준비는 다 끝난거죠?\n참고로 하드모드든 일반모드든 ^FF0000하루에 한가지 모드만 이용가능^000000해요. 둘중 하나라도 입장하면 그날은 더이상의 이용이 안되니 주의해줘요.",
+        "en": "You’re all ready, right?\nJust so you know, whether it’s Hard Mode or Normal Mode, you can only use ^FF0000one mode per day^000000. If you enter either one, you won’t be able to use it again that day, so be careful.",
+        "pt": "Tudo pronto?\nTenha em mente que você só poderá entrar ^FF0000em um Modo por dia^000000. Se você entrar no Modo Normal, não poderá fazer o Modo Difícil no mesmo dia.",
+        "es": "¿Todo listo?\nTen en cuenta que solo podrás entrar ^FF0000en un Modo por día^000000. Si entras en el Modo Normal, no podrás hacer el Modo Difícil el mismo día."
+    },
+    "m+qlDA": {
+        "ko": "^0000FF던전의 출입 후유증이 사라지지 않았습니다. 좀 더 시간이 경과한 뒤에 대화해보십시오.^000000",
+        "en": "^0000FFThe aftereffects of entering the dungeon have not worn off. Please speak again after some more time has passed.^000000",
+        "pt": "^0000FFVocê ainda está no tempo de espera. Não é possível fazer a instância.^000000",
+        "es": "^0000FFAún estás en tiempo de espera. No es posible hacer la instancia.^000000"
+    },
+    "nOqlDA": {
+        "ko": "^0000FF던전의 하드모드 출입 후유증이 사라지지 않았습니다. 좀 더 시간이 경과한 뒤에 대화해보십시오.^000000",
+        "en": "^0000FFThe aftereffects of entering the dungeon’s Hard Mode have not worn off. Please speak again after some more time has passed.^000000",
+        "pt": "^0000FFVocê ainda está no tempo de espera do Modo Difícil. Não é possível fazer a instância.^000000",
+        "es": "^0000FFAún estás en tiempo de espera del Modo Difícil. No es posible hacer la instancia.^000000"
+    },
+    "neqlDA": {
+        "ko": "{0} 파티의 파티원이 {1} 던전의 공략에 참여합니다",
+        "en": "A member of {0}'s party will join the assault on the {1} dungeon.",
+        "pt": "{0} entrou em [{1}]",
+        "es": "{0} entró en [{1}]"
+    },
+    "nuqlDA": {
+        "ko": "^0000FF파티장이 아니라면 던전의 생성은 불가능합니다.^000000",
+        "en": "^0000FFOnly the party leader can create the dungeon.^000000",
+        "pt": "^0000FFVocê não pode criar a instância sem ser líder do grupo.^000000",
+        "es": "^0000FFNo puedes crear la instancia sin ser el líder del grupo.^000000"
+    },
+    "n+qlDA": {
+        "ko": "^0000FF{0} ^000000- 예약실패",
+        "en": "^0000FF{0} ^000000- Reservation Failed",
+        "pt": "^0000FF{0} ^000000- Falha na reserva",
+        "es": "^0000FF{0} ^000000 - Falló la reserva"
+    },
+    "oOqlDA": {
+        "ko": "^0000FF{0} ^000000- 예약실패",
+        "en": "^0000FF{0} ^000000- Reservation Failed",
+        "pt": "^0000FF{0} ^000000- Falha na reserva",
+        "es": "^0000FF{0} ^000000 - Falló la reserva"
+    }
+}

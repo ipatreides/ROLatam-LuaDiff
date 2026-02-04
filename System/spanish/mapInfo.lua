@@ -3087,7 +3087,7 @@ mapTbl = {
 		displayName = "Ilusión submarina (1)",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Túnel submarino"
+			mainTitle = "Ilusión submarina (1)"
 		},
 		backgroundBmp = "dungeon"
 	},
@@ -3095,7 +3095,7 @@ mapTbl = {
 		displayName = "Ilusión submarina (2)",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Templo submarino"
+			mainTitle = "Ilusión submarina (2)"
 		},
 		backgroundBmp = "dungeon"
 	},
@@ -4192,7 +4192,7 @@ mapTbl = {
 		displayName = "Dentro del Grupo de Edén de Morroc",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Grupo de Edén"
+			mainTitle = "Grupo Del Edén"
 		},
 		backgroundBmp = "village_s2"
 	},
@@ -7572,7 +7572,7 @@ mapTbl = {
 		displayName = "Dentro del Grupo de Edén de Morroc",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Grupo de Edén"
+			mainTitle = "Grupo Del Edén"
 		},
 		backgroundBmp = "village_s2"
 	},
@@ -7580,7 +7580,7 @@ mapTbl = {
 		displayName = "Dentro del Grupo de Edén de Morroc",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Grupo de Edén"
+			mainTitle = "Grupo Del Edén"
 		},
 		backgroundBmp = "village_s2"
 	},
@@ -7588,7 +7588,7 @@ mapTbl = {
 		displayName = "Dentro del Grupo de Edén de Morroc",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Grupo de Edén"
+			mainTitle = "Grupo Del Edén"
 		},
 		backgroundBmp = "village_s2"
 	},

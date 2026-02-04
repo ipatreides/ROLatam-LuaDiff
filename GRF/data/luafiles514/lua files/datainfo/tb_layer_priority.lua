@@ -4,6 +4,14 @@ TB_Layer_Priority = {
 	Default_Bottom = 300,
 	Default_Robe = 400,
 	Items_List = {
+		[ACCESSORY_IDs.ACCESSORY_C_L_Knitting_Wave_RSV] = {
+			Default = 143,
+			Direction = {}
+		},
+		[ACCESSORY_IDs.ACCESSORY_C_L_Knitting_Wave_RBD] = {
+			Default = 143,
+			Direction = {}
+		},
 		[ACCESSORY_IDs.ACCESSORY_C_Twin_Milkyway] = {
 			Default = 143,
 			Direction = {}

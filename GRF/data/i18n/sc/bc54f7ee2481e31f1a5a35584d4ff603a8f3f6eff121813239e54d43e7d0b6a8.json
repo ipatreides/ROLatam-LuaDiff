@@ -13,7 +13,7 @@
     },
     "4h2+Bw": {
         "ko": "[리벨리온 대원]\n그래서 위치를 알려드리려고요.\n아인브로크 기차역 너머에 있는 <NAVI>[총알 탄 야옹이]<INFO>einbroch,302,329,0,101,0</INFO></NAVI>라고..\n작은 술집이 있는데, 다음 작전은 거기서 진행한답니다.",
-        "en": "[Rebellion Member]\nI'd like to tell you where it is.\nIt's the <NAVI>[Cat on Bullet]<INFO>einbroch,302,329,0,101,0</INFO></NAVI> beyond the Einbroch Train Station,\na small pub. Our next operation will take place in there.",
+        "en": "[Rebellion Member]\nI'd like to tell you where it is.\nIt's the <NAVI>[Cat on a Bullet]<INFO>einbroch,302,329,0,101,0</INFO></NAVI> beyond the Einbroch Train Station,\na small pub. Our next operation will take place in there.",
         "pt": "[Membro da Rebelião]\nEla fica ao norte de Einbroch.\nSe chama <NAVI>[Miado de Bala]<INFO>einbroch,302,329,0,101,0</INFO></NAVI>...\nEstá disfarçado de Boteco.",
         "es": "[Miembro de la Rebelión]\nEstá al norte de Einbroch.\nSe llama <NAVI>[Maullido de Bala]<INFO>einbroch,302,329,0,101,0</INFO></NAVI>...\nEstá disfrazado de taberna."
     },
@@ -25,7 +25,7 @@
     },
     "5B2+Bw": {
         "ko": "[리벨리온 대원]\n아인브로크의 기차역 너머에 있는 술집입니다.\n<NAVI>[총알 탄 야옹이]<INFO>einbroch,302,329,0,101,0</INFO></NAVI>. 술집 이름치고는 귀엽죠?",
-        "en": "[Rebellion Member]\nIt's a pub beyond the Einbroch Train Station\ncalled the <NAVI>[Cat on Bullet]<INFO>einbroch,302,329,0,101,0</INFO></NAVI>. Sounds pretty cute for a watering hole, doesn't it?",
+        "en": "[Rebellion Member]\nIt's a pub beyond the Einbroch Train Station\ncalled the <NAVI>[Cat on a Bullet]<INFO>einbroch,302,329,0,101,0</INFO></NAVI>. Sounds pretty cute for a watering hole, doesn't it?",
         "pt": "[Membro da Rebelião]\nEm Einbroch, mais ao norte fica o\n<NAVI>[Miado de Bala]<INFO>einbroch,302,329,0,101,0</INFO></NAVI>. Belo nome de bar, não é?",
         "es": "[Miembro de la Rebelión]\nEn Einbroch, más al norte está\n<NAVI>[Maullido de Bala]<INFO>einbroch,302,329,0,101,0</INFO></NAVI>. Bonito nombre de bar, ¿no?"
     },
@@ -37,7 +37,7 @@
     },
     "5h2+Bw": {
         "ko": "[테스]\n이런 장소가 있다는걸 이제껏 몰랐습니다.\n생각보다 굉장하군요.",
-        "en": "[Tes]\nI didn't know there was a place like this.\nIt's incredible.",
+        "en": "[Tess]\nI didn't know there was a place like this.\nIt's incredible.",
         "pt": "[Tess]\nEu nunca soube que existia um lugar assim.\nÉ mais incrível do que eu pensava.",
         "es": "[Tess]\nNunca supe que existía un lugar así.\nEs más increíble de lo que imaginaba."
     },
@@ -247,7 +247,7 @@
     },
     "CR6+Bw": {
         "ko": "[테스]\n에스트님이 가져온 정보가 엄청나더군요.\n그리고 레이지씨가 당신에게 뭔가 할 말이 있는 모양입니다.",
-        "en": "[Tess]\nEst has brought a tremendous amount of information.\nAnd Lazy seems to have something to say to you.",
+        "en": "[Tess]\nEst has brought a tremendous amount of information.\nAnd Leizi seems to have something to say to you.",
         "pt": "[Tess]\nE Est trouxe muita informação bombástica.\nE parece que Nalandro tem algo a dizer a você.",
         "es": "[Tess]\nY Est trajo información muy impactante.\nY parece que Lazy tiene algo que decirte."
     },
@@ -259,7 +259,7 @@
     },
     "Cx6+Bw": {
         "ko": "[테스]\n이건? 연구소 보안과 관련된 자료 아닙니까?\n아스님이 전해주라 하신거군요.",
-        "en": "[Tess]\nWhat's this? \nIt's information related the Lab's security.\nAas asked you to give it to me.",
+        "en": "[Tess]\nWhat's this? \nIt's information related the Lab's security.\nAce asked you to give it to me.",
         "pt": "[Tess]\nIsso é a informação coletada do laboratório?\nAce pediu que você me entregasse.",
         "es": "[Tess]\n¿Esta es la información recolectada del laboratorio?\nAce te pidió que me la entregaras."
     },
@@ -277,13 +277,13 @@
     },
     "Dh6+Bw": {
         "ko": "[테스]\n레이지씨가 뭔가 일을 꾸미고 있는 것 같았습니다.\n여기 주점 어딘가에 있을테니 찾아 보십시오.",
-        "en": "[Tess]\nI think Lazy is up to something.\nHe must be somewhere in this pub. Maybe you should talk to him.",
+        "en": "[Tess]\nI think Leizi is up to something.\nHe must be somewhere in this pub. Maybe you should talk to him.",
         "pt": "[Tess]\nParece que Nalandro está tramando algo.\nEle deve estar em algum lugar desse boteco.",
         "es": "[Tess]\nParece que Lazy está tramando algo.\nDebe de estar en algún lugar de esa taberna."
     },
     "Dx6+Bw": {
         "ko": "[테스]\n레이지씨와 뭔가 조사를 하러 가신 것 같았는데 표정을 보아하니 썩 좋은 결과는 아니었던 모양입니다.",
-        "en": "[Tess]\nI saw you leaving with Lazy to check something. It didn't go well, did it?",
+        "en": "[Tess]\nI saw you leaving with Leizi to check something. It didn't go well, did it?",
         "pt": "[Tess]\nEu vi você e Nalandro indo investigar algo. Parece que não deu muito certo, né?",
         "es": "[Tess]\nTe vi a ti y a Lazy investigando algo. Parece que no salió muy bien, ¿verdad?"
     },
@@ -1489,7 +1489,7 @@
     },
     "2B6+Bw": {
         "ko": "[오스카]\n총알 탄 야옹이로 오라는 전언을 남기셨습니다.\n바로 가보시는게 좋겠습니다.",
-        "en": "[Oscar]\nThey asked you to come to the Cat on Bullet.\nPlease go there.",
+        "en": "[Oscar]\nThey asked you to come to the Cat on a Bullet.\nPlease go there.",
         "pt": "[Oscar]\nVocê deveria ir para a Miado de Bala.\nImediatamente.",
         "es": "[Oscar]\nDeberías ir a Maullido de Bala.\nDe inmediato."
     },

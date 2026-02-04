@@ -2851,7 +2851,7 @@
     },
     "+pXlAg": {
         "en": "- The note contains... -\n-----------------\n   20 21 18 14\n   1 14 4\n   19 8 1 11 5\n-----------------",
-        "pt": "Ele diz.\n-----------------\n22 9 18 1 18 \n5\n19 1 3 21 4 9 18\n-----------------",
+        "pt": "- O papel contém o seguinte -\n-----------------\n22 9 18 1 18 \n5\n19 1 3 21 4 9 18\n-----------------",
         "es": "(La nota dice lo siguiente…).\n -----------------\n 7 9 18 1 \n 26 \n 1 7 9 21 1\n -----------------"
     },
     "+5XlAg": {
@@ -2886,7 +2886,7 @@
     },
     "AZblAg": {
         "en": "- I pressed and turned the miniature house roof. -\n- It fell off the rest of the house. -",
-        "pt": "Você vira o teto.",
+        "pt": "- Você vira o teto. -",
         "es": "(Presioné y giré el techo de la casa en miniatura.\n Esto hizo que el resto de la casa se derrumbe)."
     },
     "ApblAg": {
@@ -2901,22 +2901,22 @@
     },
     "BJblAg": {
         "en": "- I shook the roof. -\n- It didn't make any noise or yield anything. -",
-        "pt": "Apesar de você sacudir o teto,\nnada acontece.",
+        "pt": "- Apesar de você sacudir o teto, -\n- nada acontece. -",
         "es": "(Agité el techo.\n No hizo ningún ruido ni sucedió nada)."
     },
     "BZblAg": {
         "en": "[{0}]\nI don't think this is it.\nI should return it where it belongs,\nand then try again.",
-        "pt": "[{0}]\nNão é isso.\nHum...",
+        "pt": "[{0}]\nEstá errado.\nColoque de volta\ne tente outra vez..",
         "es": "[{0}]\n No creo que sea esto.\n Debería regresarla a donde estaba\n y volver a intentarlo."
     },
     "BpblAg": {
         "en": "- I put the separated roof on the side and tried to shake the house. -\n- It wouldn't come off the platform. I couldn't shake it. -",
-        "pt": "Você tentou sacudir a casa, mas\nnada acontece.",
+        "pt": "- Coloquei o telhado separado de lado e tentei sacudir a casa. -\n- Ela não saía da plataforma. Eu não conseguia sacudi-la. -",
         "es": "(Dejé el techo desprendido a un lado e intenté agitar la casa.\n No pude levantarla de la platforma. No pude agitarla)."
     },
     "B5blAg": {
         "en": "- I turned the entire miniature house. -\n- The house released itself from its platform as a screw would out of its socket. -",
-        "pt": "[{name}]\nEstá errado.\nColoque de volta\ne tente outra vez..",
+        "pt": "- Virei a casa em miniatura inteira. -\n- A casa se soltou da plataforma. -",
         "es": "(Giré la casa en miniatura.\n La casa se desprendió de la base como un tornillo de su tuerca)."
     },
     "CJblAg": {
@@ -2941,12 +2941,12 @@
     },
     "DJblAg": {
         "en": "- I shook it up and down. It rattled. -\n- There's something in it, but it wouldn't come out. -",
-        "pt": "Nada acontece.\nAcho que há algo dentro, mas não sai.",
+        "pt": "- Nada acontece. -\n- Acho que há algo dentro, mas não sai de jeito nenhum. -",
         "es": "(La agité hacia arriba y abajo. Traqueteó.\n Hay algo dentro, pero no sale)."
     },
     "DZblAg": {
         "en": "- I shook it sideways. It rattled. -\n- There's something in it, but it wouldn't come out. -",
-        "pt": "Nada acontece.\nAcho que há algo dentro, mas não sai.",
+        "pt": "- Nada acontece. -\n- Acho que há algo dentro, mas não sai. -",
         "es": "(La agité de lado. Traqueteó.\n Hay algo dentro, pero no sale)."
     },
     "DpblAg": {

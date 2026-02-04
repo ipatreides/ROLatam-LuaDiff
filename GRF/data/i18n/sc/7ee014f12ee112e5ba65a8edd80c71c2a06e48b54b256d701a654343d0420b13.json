@@ -17,12 +17,12 @@
     "w8jxAg": {
         "en": "[Battle Instructor Subino]\nVisit the ^FF0000support of the class guild(LV.10~20) or check out the Eden Group(LV.15~100)^000000.",
         "pt": "[Spino]\nVá em buscar da ^FF0000Guilda(Nv. 10 a 20)^000000 ou vá para ^FF0000o Grupo do Éden (Nv. 15 a 110)^000000.",
-        "es": "[Instructor Subino]\nPide ^FF0000ayuda al gremio de cada clase (nv.1020) o consulta en el Grupo de Edén (nv.15100)^000000."
+        "es": "[Instructor Subino]\nPide ^FF0000ayuda al gremio de cada clase (nv.1020) o consulta en el Grupo del Edén (nv.15100)^000000."
     },
     "xMjxAg": {
         "en": "[Battle Instructor Subino]\n^FF0000Ask the staff of each job on the second floor about the location of each class guild^000000 and you will find the ^FF0000 Eden Group Headquarters^000000 where you can find easy hunt quests.",
         "pt": "[Spino]\nPara saber a localização de sua Guilda, pergunte ao responsável por sua Classe. Já o Grupo do Éden é fácil de encontrar se perguntar pela cidade.",
-        "es": "[Instructor Subino]\n^FF0000Pregúntale al personal de cada clase en el segundo piso sobre la ubicación de cada gremio de clase^000000 y encontrarás la ^FF0000sede del Grupo de Edén,^000000 donde podrás encontrar misiones de cacería fáciles."
+        "es": "[Instructor Subino]\n^FF0000Pregúntale al personal de cada clase en el segundo piso sobre la ubicación de cada gremio de clase^000000 y encontrarás la ^FF0000sede del Grupo del Edén,^000000 donde podrás encontrar misiones de cacería fáciles."
     },
     "xcjxAg": {
         "en": "[Battle Instructor Subino]\nIt is ^FF0000displayed in the map of right screen^000000, so search for it.\nIf you do not know, then you should get a help from a ^FF0000Town Guide^000000.",
@@ -707,7 +707,7 @@
     "TcnxAg": {
         "en": "[Otter Samssoon]\nYou can receive ^FF0000Criatura beauty coupon^000000 from ^FF0000vending machine for novice in 1st job guild or paradise club^000000.",
         "pt": "[Otto]\nVocê pode pegar o ^FF0000Cupom de Cabeleireiro do Calouro^000000 na ^FF0000máquina de vendas para Aprendizes na Academia Criatura ou no Grupo do Éden^000000.",
-        "es": "[Nutria Samssoon]\nLa máquina expendedora para Principiantes te puede dar un ^FF0000Cupón de belleza de la Academia^000000 ^FF0000en el gremio de la primera clase o en el Grupo de Edén^000000."
+        "es": "[Nutria Samssoon]\nLa máquina expendedora para Principiantes te puede dar un ^FF0000Cupón de belleza de la Academia^000000 ^FF0000en el gremio de la primera clase o en el Grupo del Edén^000000."
     },
     "TsnxAg": {
         "en": "[Otter Samssoon]\nthey don't give for free.. well.. the equipment you had received when you arrived at academy?\nThey change ^FF0000egg shell for novice^000000 to coupon?",

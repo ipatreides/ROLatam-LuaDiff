@@ -525,13 +525,13 @@
         "ko": "낙원단으로 이동",
         "en": "Go to Eden Group.",
         "pt": "Vá para o Grupo do Éden.",
-        "es": "Ir al Grupo Edén."
+        "es": "Ir al Grupo del Edén."
     },
     "OLfLCw": {
         "ko": "[안내요원]\n낙원단으로 이동합니다.",
         "en": "[Bazaar Guide]\nGoing to Eden Group",
         "pt": "[Guia do Bazar]\nIndo ao Grupo do Éden.",
-        "es": "[Guía del Bazar]\nVoy al Grupo Edén."
+        "es": "[Guía del Bazar]\nVoy al Grupo del Edén."
     },
     "ObfLCw": {
         "ko": "[안내요원]\n시장 거리 내부 이동이나 프론테라 중심가로 이동이 필요하시면 언제든지 찾아주십시오.",
@@ -549,6 +549,6 @@
         "ko": "[카프라 직원]\n낙원단으로 이동합니다.",
         "en": "[Kafra Employee]\nGoing to Eden Group",
         "pt": "[Funcionária Kafra]\nIndo ao Grupo do Éden.",
-        "es": "[Empleada de Kafra]\nVoy al Grupo Edén."
+        "es": "[Empleada de Kafra]\nVoy al Grupo del Edén."
     }
 }

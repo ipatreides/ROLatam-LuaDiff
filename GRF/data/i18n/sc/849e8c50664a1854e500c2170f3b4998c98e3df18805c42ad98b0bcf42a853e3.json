@@ -1,932 +1,1862 @@
 {
     "YFahDA": {
-        "ko": "사냥대회 길잡이"
+        "ko": "사냥대회 길잡이",
+        "en": "Royal Official",
+        "pt": "Oficial da Realeza",
+        "es": "Oficial de la Realeza"
     },
     "YVahDA": {
-        "ko": "일곱 왕가에서 주최하는 사냥대회에 참가하십시오!"
+        "ko": "일곱 왕가에서 주최하는 사냥대회에 참가하십시오!",
+        "en": "The 7 royal families invite everyone to the Royal Hunt!",
+        "pt": "As 7 famílias reais convidam todos para a Caçada Real!",
+        "es": "Las 7 familias reales invitan a todos a la Cacería Real."
     },
     "YlahDA": {
-        "ko": "[사냥대회 길잡이]\n왕가에서 주관하는 사냥대회입니다. 참가하시고자 하는 뜻은 귀하게 여기나 좀더 수련하고 오셔야겠습니다."
+        "ko": "[사냥대회 길잡이]\n왕가에서 주관하는 사냥대회입니다. 참가하시고자 하는 뜻은 귀하게 여기나 좀더 수련하고 오셔야겠습니다.",
+        "en": "[Royal Official]\nForgive the inconvenience, but your lordship should train more to participate in the Royal Hunt.",
+        "pt": "[Oficial da Realeza]\nPerdoe-me a indisposição, mas vossa senhoria deveria treinar mais para participar da Caçada Real.",
+        "es": "[Oficial de la Realeza]\nDisculpe la molestia, pero su señorío debería entrenar más para participar en la Cacería Real."
     },
     "Y1ahDA": {
-        "ko": "- 50레벨 이상 참여할 수 있는 이벤트입니다. -"
+        "ko": "- 50레벨 이상 참여할 수 있는 이벤트입니다. -",
+        "en": "- Only base level 50 or higher. -",
+        "pt": "- Apenas nível base 50 ou mais. -",
+        "es": "- Solo nivel base 50 o superior. -"
     },
     "ZFahDA": {
-        "ko": "[사냥대회 길잡이]\n일곱 왕가의 주관으로 열리는 왕실 사냥대회가 시작되었습니다. 올해도 강하고 현명한 모험가님들의 많은 참여를 기대합니다."
+        "ko": "[사냥대회 길잡이]\n일곱 왕가의 주관으로 열리는 왕실 사냥대회가 시작되었습니다. 올해도 강하고 현명한 모험가님들의 많은 참여를 기대합니다.",
+        "en": "[Royal Official]\nThe Royal Hunt, proclaimed by the seven royal families of the Kingdom of Rune-Midgard, has begun.",
+        "pt": "[Oficial da Realeza]\nA Caçada Real, proclamada pelas sete famílias reais do Reino de Rune-Midgard, começou.",
+        "es": "[Oficial de la Realeza]\nLa Cacería Real, proclamada por las siete familias reales del Reino de Rune-Midgard, ha comenzado."
     },
     "ZVahDA": {
-        "ko": "[사냥대회 길잡이]\n모험가님이라면 대회에서 충분히 활약할 수 있을 것으로 보이는데 어떻게 생각하십니까?"
+        "ko": "[사냥대회 길잡이]\n모험가님이라면 대회에서 충분히 활약할 수 있을 것으로 보이는데 어떻게 생각하십니까?",
+        "en": "[Royal Official]\nIf you wish, I will show you the way to the <NAVI>[Camp]<INFO>prt_fild01.gat,101,155,0,101,0</INFO></NAVI>, but only once.",
+        "pt": "[Oficial da Realeza]\nSe desejares, indico-lhe o caminho ao <NAVI>[Acampamento]<INFO>prt_fild01.gat,101,155,0,101,0</INFO></NAVI>, mas apenas uma vez.",
+        "es": "[Oficial de la Realeza]\nSi lo deseas, te indicaré el camino al <NAVI>[Campamento]<INFO>prt_fild01.gat,101,155,0,101,0</INFO></NAVI>, pero solo una vez."
     },
     "ZlahDA": {
-        "ko": "[사냥대회 길잡이]\n손쉽게 사냥 대회에 등록이 가능하도록 <NAVI>[사냥대회 본영]<INFO>prt_fild01.gat,101,155,0,101,0</INFO></NAVI>으로 이동 지원을 해 드려도 되겠습니까?"
+        "ko": "[사냥대회 길잡이]\n손쉽게 사냥 대회에 등록이 가능하도록 <NAVI>[사냥대회 본영]<INFO>prt_fild01.gat,101,155,0,101,0</INFO></NAVI>으로 이동 지원을 해 드려도 되겠습니까?",
+        "en": "[Royal Official]\nIn a cautious manner, I can take you to the Camp. Does your grace desire the teleport?",
+        "pt": "[Oficial da Realeza]\nDe maneira parcimoniosa, posso levar-te ao Acampamento. Vossa mercê desejas o teleporte?",
+        "es": "[Oficial de la Realeza]\nDe manera parsimoniosa, puedo llevarte al Campamento. ¿Desea su mercedel teletransporte?"
     },
     "Z1ahDA": {
-        "ko": "이동한다."
+        "ko": "이동한다.",
+        "en": "I want to teleport.",
+        "pt": "Quero teleportar.",
+        "es": "Quiero teletransportarme."
     },
     "aFahDA": {
-        "ko": "이동하지 않는다."
+        "ko": "이동하지 않는다.",
+        "en": "I'm not interested.",
+        "pt": "Não tenho interesse.",
+        "es": "No me interesa."
     },
     "aVahDA": {
-        "ko": "[사냥대회 길잡이]\n무운을 빌겠습니다. 룬 미드가츠의 영광을 위하여!"
+        "ko": "[사냥대회 길잡이]\n무운을 빌겠습니다. 룬 미드가츠의 영광을 위하여!",
+        "en": "[Royal Official]\nAt the camp, speak with Commander Nadezda.",
+        "pt": "[Oficial da Realeza]\nNo acampamento, fale com a Comandante Nadezda.",
+        "es": "[Oficial de la Realeza]\nEn el campamento, habla con la Comandante Nadezda."
     },
     "alahDA": {
-        "ko": "룬 미드가츠의 영광을 위하여!"
+        "ko": "룬 미드가츠의 영광을 위하여!",
+        "en": "Glory to the Kingdom of Rune-Midgard!",
+        "pt": "Glória ao Reino de Rune-Midgard!",
+        "es": "¡Gloria al Reino de Rune-Midgard!"
     },
     "a1ahDA": {
-        "ko": "[사냥대회 길잡이]\n준비가 되면 다시 저에게 말을 걸어주십시오."
+        "ko": "[사냥대회 길잡이]\n준비가 되면 다시 저에게 말을 걸어주십시오.",
+        "en": "[Royal Official]\nCertainly. If your grace changes your mind, I am at your disposal.",
+        "pt": "[Oficial da Realeza]\nDe certo que sim. Caso vossa mercê mudar de ideia, estou à disposição.",
+        "es": "[Oficial de la Realeza]\nPor supuesto. Si su merced cambia de opinión, estoy a su disposición."
     },
     "bFahDA": {
-        "ko": "지휘관 나데즈다"
+        "ko": "지휘관 나데즈다",
+        "en": "Commander Nadezda",
+        "pt": "Comandante Nadezda",
+        "es": "Comandante Nadezda"
     },
     "bVahDA": {
-        "ko": "[지휘관 나데즈다]\n왕가에서 주관하는 사냥대회다. 좋은 성과를 거두고 싶다면 좀더 수련하여 실력을 다진 뒤 오도록 하라."
+        "ko": "[지휘관 나데즈다]\n왕가에서 주관하는 사냥대회다. 좋은 성과를 거두고 싶다면 좀더 수련하여 실력을 다진 뒤 오도록 하라.",
+        "en": "[Commander Nadezda]\nThis is a hunting competition supervised by the Royal Families. If you wish to obtain good results, train more to improve your skills before coming.",
+        "pt": "[Comandante Nadezda]\nEsta é uma competição de caça supervisionada pelas Famílias Reais. Se desejar obter bons resultados, treine mais para aperfeiçoar suas habilidades antes de vir.",
+        "es": "[Comandante Nadezda]\nEsta es una competencia de caza supervisada por las Familias Reales. \nSi deseas obtener buenos resultados, entrena más para perfeccionar tus habilidades antes de venir."
     },
     "blahDA": {
-        "ko": "[알림]\n - 가방이 가득 찼습니다. 소지 무게와 소지 물품 수량 확인 뒤 다시 말을 걸어 주세요. -"
+        "ko": "[알림]\n - 가방이 가득 찼습니다. 소지 무게와 소지 물품 수량 확인 뒤 다시 말을 걸어 주세요. -",
+        "en": "[Warning]\n- Empty your inventory to continue. -",
+        "pt": "[Aviso]\n- Esvazie seu inventário para continuar. -",
+        "es": "[Aviso]\n- Vacía tu inventario para continuar. -"
     },
     "b1ahDA": {
-        "ko": "[지휘관 나데즈다]\n왕가에서 주최하여 매년 열리는 사냥대회가 올해도 개최되었다."
+        "ko": "[지휘관 나데즈다]\n왕가에서 주최하여 매년 열리는 사냥대회가 올해도 개최되었다.",
+        "en": "[Commander Nadezda]\nThis year, the seven royal families of the Kingdom of Rune-Midgard are honoring the Royal Hunt event.",
+        "pt": "[Comandante Nadezda]\nEste ano, as sete famílias reais do Reino de Rune-Midgard estão prestigiando o evento da Caçada Real.",
+        "es": "[Comandante Nadezda]\nEste año, las siete familias reales del Reino de Rune-Midgard están prestandigiando el evento de la Cacería Real."
     },
     "cFahDA": {
-        "ko": "[지휘관 나데즈다]\n묘르닐 산맥에서 겨울 준비를 위해 내려온 사나운 몬스터를 사냥하여 룬 미드가츠 국민을 지키고, 더불어 자신의 빼어난 기량을 뽐내는 귀중한 기회다."
+        "ko": "[지휘관 나데즈다]\n묘르닐 산맥에서 겨울 준비를 위해 내려온 사나운 몬스터를 사냥하여 룬 미드가츠 국민을 지키고, 더불어 자신의 빼어난 기량을 뽐내는 귀중한 기회다.",
+        "en": "[Commander Nadezda]\nThis is a unique opportunity to show our strength against ferocious monsters in front of the royalty.",
+        "pt": "[Comandante Nadezda]\nEssa é uma oportunidade única de mostrar nossa força contra monstros ferozes na frente da realeza.",
+        "es": "[Comandante Nadezda]\nEsta es una oportunidad única de mostrar nuestra fuerza contra monstruos feroces frente a la realeza."
     },
     "cVahDA": {
-        "ko": "[지휘관 나데즈다]\n모험가여, 올해 사냥대회에 참가하기 위해 자격을 증명하는 시험을 받겠는가?"
+        "ko": "[지휘관 나데즈다]\n모험가여, 올해 사냥대회에 참가하기 위해 자격을 증명하는 시험을 받겠는가?",
+        "en": "[Commander Nadezda]\nBefore participating, we will do a strength test to see if you have the necessary qualities.",
+        "pt": "[Comandante Nadezda]\nAntes de participar, faremos um teste de força para saber se você tem as qualidades necessárias.",
+        "es": "[Comandante Nadezda]\nAntes de participar, haremos una prueba de fuerza para saber si tienes las cualidades necesarias."
     },
     "clahDA": {
-        "ko": "[지휘관 나데즈다]\n시험을 모두 통과한다면 희귀한 몬스터들이 등장하는 ^4D4DFF왕실 사냥터^000000 입장을 허가하겠다."
+        "ko": "[지휘관 나데즈다]\n시험을 모두 통과한다면 희귀한 몬스터들이 등장하는 ^4D4DFF왕실 사냥터^000000 입장을 허가하겠다.",
+        "en": "[Commander Nadezda]\nIf you pass the test, I will accept your participation in the ^4D4DFFRoyal Hunt^000000.",
+        "pt": "[Comandante Nadezda]\nSe você passar no teste, aceitarei sua participação na ^4D4DFFCaçada Real^000000.",
+        "es": "[Comandante Nadezda]\nSi pasas la prueba, aceptaré tu participación en la ^4D4DFFCacería Real^000000."
     },
     "c1ahDA": {
-        "ko": "시험을 받는다."
+        "ko": "시험을 받는다.",
+        "en": "Take the test.",
+        "pt": "Fazer o teste.",
+        "es": "Hacer la prueba."
     },
     "dFahDA": {
-        "ko": "시험을 받지 않는다"
+        "ko": "시험을 받지 않는다",
+        "en": "Don't take the test.",
+        "pt": "Não fazer o teste.",
+        "es": "No hacer la prueba."
     },
     "dVahDA": {
-        "ko": "[지휘관 나데즈다]\n좋다. 첫 번째 시험이다. 첫 번째 시험은 그다지 어렵지 않으니 간결하고 신속하게 수행하고 오도록 하라."
+        "ko": "[지휘관 나데즈다]\n좋다. 첫 번째 시험이다. 첫 번째 시험은 그다지 어렵지 않으니 간결하고 신속하게 수행하고 오도록 하라.",
+        "en": "[Commander Nadezda]\nAlright, the first test is not so difficult and you can do it quickly.",
+        "pt": "[Comandante Nadezda]\nCerto, o primeiro teste não é tão difícil e você pode fazê-lo rápido.",
+        "es": "[Comandante Nadezda]\nBien, la primera prueba no es tan difícil y puedes hacerla rápido."
     },
     "dlahDA": {
-        "ko": "[지휘관 나데즈다]\n어느 몬스터든 좋다. 룬 미드가츠 왕가와 백성의 안위를 위협하는 ^4D4DFF동물형^000000 몬스터를 총 30마리 사냥한 뒤 돌아와 보고하도록 하라."
+        "ko": "[지휘관 나데즈다]\n어느 몬스터든 좋다. 룬 미드가츠 왕가와 백성의 안위를 위협하는 ^4D4DFF동물형^000000 몬스터를 총 30마리 사냥한 뒤 돌아와 보고하도록 하라.",
+        "en": "[Commander Nadezda]\nPlease, eliminate 30 monsters of the ^4D4DFFBrute race^000000, any monster of that race will do.",
+        "pt": "[Comandante Nadezda]\nPor favor, elimine 30 monstros da ^4D4DFFraça Bruto^000000, qualquer monstro dessa raça serve.",
+        "es": "[Comandante Nadezda]\nPor favor, elimina 30 monstruos de la ^4D4DFFraza Bruto^000000, cualquier monstruo de esa raza sirve."
     },
     "d1ahDA": {
-        "ko": "[지휘관 나데즈다]\n사냥대회에 참가하려 본영에 내방한 것 아니었나?\n숙고한 뒤 참여 여부를 다시 한 번 생각해보도록 하라."
+        "ko": "[지휘관 나데즈다]\n사냥대회에 참가하려 본영에 내방한 것 아니었나?\n숙고한 뒤 참여 여부를 다시 한 번 생각해보도록 하라.",
+        "en": "[Commander Nadezda]\nDid you come to the camp out of curiosity?\nAfter contemplating, you can return here.",
+        "pt": "[Comandante Nadezda]\nVocê veio ao acampamento por curiosidade?\nDepois de contemplar, pode voltar aqui.",
+        "es": "[Comandante Nadezda]\n¿Viniste al campamento por curiosidad?\nDespués de contemplar, puedes volver aquí."
     },
     "eFahDA": {
-        "ko": "[지휘관 나데즈다]\n자네 같이 유능한 모험가는 많을수록 좋지."
+        "ko": "[지휘관 나데즈다]\n자네 같이 유능한 모험가는 많을수록 좋지.",
+        "en": "[Commander Nadezda]\nThe more participants in the hunt, the better.",
+        "pt": "[Comandante Nadezda]\nQuanto mais participantes na caçada, melhor.",
+        "es": "[Comandante Nadezda]\nCuantos más participantes en la cacería, mejor."
     },
     "eVahDA": {
-        "ko": "[지휘관 나데즈다]\n아직 사냥 중인 모양이군.\n임무 내용은 기억하고 있겠지? ^4D4DFF동물형^000000이라면 어떤 몬스터든 총 30마리를 사냥하고 돌아오도록 하라."
+        "ko": "[지휘관 나데즈다]\n아직 사냥 중인 모양이군.\n임무 내용은 기억하고 있겠지? ^4D4DFF동물형^000000이라면 어떤 몬스터든 총 30마리를 사냥하고 돌아오도록 하라.",
+        "en": "[Commander Nadezda]\nStill hunting?\nIt's 30 monsters of the ^4D4DFFBrute race^000000, regardless of species.",
+        "pt": "[Comandante Nadezda]\nAinda caçando?\nSão 30 monstros da ^4D4DFFraça Bruto^000000, não importa a espécie.",
+        "es": "[Comandante Nadezda]\n¿Sigues cazando?\nSon 30 monstruos de la ^4D4DFFraza Bruto^000000, no importa la especie."
     },
     "elahDA": {
-        "ko": "[지휘관 나데즈다]\n그대의 신속하고 정확한 실력은 잘 보았다. 그럼 바로 두 번째 시험을 안내하도록 하겠다."
+        "ko": "[지휘관 나데즈다]\n그대의 신속하고 정확한 실력은 잘 보았다. 그럼 바로 두 번째 시험을 안내하도록 하겠다.",
+        "en": "[Commander Nadezda]\nI quickly saw that you would pass the test with ease!",
+        "pt": "[Comandante Nadezda]\nLogo vi que você passaria no teste com facilidade!",
+        "es": "[Comandante Nadezda]\n¡Pronto vi que pasarías la prueba con facilidad!"
     },
     "e1ahDA": {
-        "ko": "[지휘관 나데즈다]\n<NAVI>[부관 로핀체]<INFO>prt_fild01,97,180,0,101,0</INFO></NAVI>에게 가면 다음 시험에 대한 안내가 있을 것이다."
+        "ko": "[지휘관 나데즈다]\n<NAVI>[부관 로핀체]<INFO>prt_fild01,97,180,0,101,0</INFO></NAVI>에게 가면 다음 시험에 대한 안내가 있을 것이다.",
+        "en": "[Commander Nadezda]\nFor the second test, look for <NAVI>[Lieutenant Lofinche]<INFO>prt_fild01,97,180,0,101,0</INFO></NAVI>.",
+        "pt": "[Comandante Nadezda]\nPara o segundo teste, procure pelo <NAVI>[Tenente Lofinche]<INFO>prt_fild01,97,180,0,101,0</INFO></NAVI>.",
+        "es": "[Comandante Nadezda]\nPara la segunda prueba, busca al <NAVI>[Teniente Lofinche]<INFO>prt_fild01,97,180,0,101,0</INFO></NAVI>."
     },
     "fFahDA": {
-        "ko": "[지휘관 나데즈다]\n그리고 이것은 내 작은 성의이니 일단 가지고 있으면 추후에 요긴하게 쓰일 것이다."
+        "ko": "[지휘관 나데즈다]\n그리고 이것은 내 작은 성의이니 일단 가지고 있으면 추후에 요긴하게 쓰일 것이다.",
+        "en": "[Commander Nadezda]\nAnd accept this gift. It will be useful in the future.",
+        "pt": "[Comandante Nadezda]\nE aceite esse agrado. Será útil no futuro.",
+        "es": "[Comandante Nadezda]\nY acepta este obsequio.\nTe será útil en el futuro."
     },
     "fVahDA": {
-        "ko": "[지휘관 나데즈다]\n<NAVI>[부관 로핀체]<INFO>prt_fild01,97,180,0,101,0</INFO></NAVI>에게 가면 다음 시험에 대한 안내가 있을 것이니 바로 가보도록 하라."
+        "ko": "[지휘관 나데즈다]\n<NAVI>[부관 로핀체]<INFO>prt_fild01,97,180,0,101,0</INFO></NAVI>에게 가면 다음 시험에 대한 안내가 있을 것이니 바로 가보도록 하라.",
+        "en": "[Commander Nadezda]\nIf you speak with <NAVI>[Lieutenant Lofinche]<INFO>prt_fild01,97,180,0,101,0</INFO></NAVI>, he will proceed with the next exam.",
+        "pt": "[Comandante Nadezda]\nSe você falar com o <NAVI>[Tenente Lofinche]<INFO>prt_fild01,97,180,0,101,0</INFO></NAVI>, ele dará prosseguimento ao próximo exame.",
+        "es": "[Comandante Nadezda]\nSi hablas con el <NAVI>[Teniente Lofinche]<INFO>prt_fild01,97,180,0,101,0</INFO></NAVI>, él dará continuidad al próximo examen."
     },
     "flahDA": {
-        "ko": "[지휘관 나데즈다]\n모든 시험을 마치고 나에게 오면 왕실 사냥터에 입장할 수 있도록 도와주겠다."
+        "ko": "[지휘관 나데즈다]\n모든 시험을 마치고 나에게 오면 왕실 사냥터에 입장할 수 있도록 도와주겠다.",
+        "en": "[Commander Nadezda]\nWhen you complete all your missions, speak with me to enter the royal hunting field.",
+        "pt": "[Comandante Nadezda]\nQuando você completar todas as suas missões, fale comigo para entrar no campo de caçada real.",
+        "es": "[Comandante Nadezda]\nCuando completes todas tus misiones, habla conmigo para entrar al campo de cacería real."
     },
     "f1ahDA": {
-        "ko": "[지휘관 나데즈다]\n마지막 시험까지 모두 마치고 왔구나. 고생 많았다."
+        "ko": "[지휘관 나데즈다]\n마지막 시험까지 모두 마치고 왔구나. 고생 많았다.",
+        "en": "[Commander Nadezda]\nYou have finally returned.",
+        "pt": "[Comandante Nadezda]\nVocê finalmente retornou.",
+        "es": "[Comandante Nadezda]\nFinalmente has regresado."
     },
     "gFahDA": {
-        "ko": "[지휘관 나데즈다]\n<NAVI>[텔레포테이션 장치]<INFO>prt_fild01,97,180,0,101,0</INFO></NAVI>를 사용하면 왕실 사냥터로 이동이 가능하다."
+        "ko": "[지휘관 나데즈다]\n<NAVI>[텔레포테이션 장치]<INFO>prt_fild01,97,180,0,101,0</INFO></NAVI>를 사용하면 왕실 사냥터로 이동이 가능하다.",
+        "en": "[Commander Nadezda]\nTo go to the hunting field, use the <NAVI>[Teleporter]<INFO>prt_fild01,94,171,0,101,0</INFO></NAVI>",
+        "pt": "[Comandante Nadezda]\nPara seguir ao campo da caçada, use o <NAVI>[Teleportador]<INFO>prt_fild01,94,171,0,101,0</INFO></NAVI>",
+        "es": "[Comandante Nadezda]\nPara ir al campo de cacería, usa el <NAVI>[Teletransportador]<INFO>prt_fild01,94,171,0,101,0</INFO></NAVI>"
     },
     "gVahDA": {
-        "ko": "[지휘관 나데즈다]\n왕실 사냥터에는 희귀하고 강력한 몬스터가 종종 등장하니 입장 전에 준비를 충분히 할 수 있도록."
+        "ko": "[지휘관 나데즈다]\n왕실 사냥터에는 희귀하고 강력한 몬스터가 종종 등장하니 입장 전에 준비를 충분히 할 수 있도록.",
+        "en": "[Commander Nadezda]\nThere are very strong monsters in the Royal Hunt field, be very careful.",
+        "pt": "[Comandante Nadezda]\nExistem monstros muito fortes no campo da Caçada Real, tome bastante cuidado.",
+        "es": "[Comandante Nadezda]\nExisten monstruos muy fuertes en el campo de la Cacería Real, ten mucho cuidado."
     },
     "glahDA": {
-        "ko": "[지휘관 나데즈다]\n가끔씩 등장하는 ^4D4DFF굶주린 바포메트^000000는 특히 조심하도록 해. 혼자서 사냥하기 힘들다면 동료들을 모집해서 사냥하는 것도 좋겠지."
+        "ko": "[지휘관 나데즈다]\n가끔씩 등장하는 ^4D4DFF굶주린 바포메트^000000는 특히 조심하도록 해. 혼자서 사냥하기 힘들다면 동료들을 모집해서 사냥하는 것도 좋겠지.",
+        "en": "[Commander Nadezda]\nBe very careful with the ^4D4DFFRavenous Baphomet^000000, if you cannot kill it, ask other participants for help.",
+        "pt": "[Comandante Nadezda]\nTome muito cuidado com o ^4D4DFFBafomé Voraz^000000, se você não conseguir matá-lo, peça ajuda a outros participantes.",
+        "es": "[Comandante Nadezda]\nTen mucho cuidado con el ^4D4DFFBaphomet Insaciable^000000, si no logras matarlo, pide ayuda a otros participantes."
     },
     "g1ahDA": {
-        "ko": "텔레포테이션 장치"
+        "ko": "텔레포테이션 장치",
+        "en": "Teleporter",
+        "pt": "Teleportador",
+        "es": "Teletransportador"
     },
     "hFahDA": {
-        "ko": "[텔레포테이션 장치]\n50레벨 미만인 모험가는 사냥터로 이동할 수 없습니다."
+        "ko": "[텔레포테이션 장치]\n50레벨 미만인 모험가는 사냥터로 이동할 수 없습니다.",
+        "en": "[Teleporter]\nOnly base level 50 or higher.",
+        "pt": "[Teleportador]\nApenas nível base 50 ou mais.",
+        "es": "[Teletransportador]\nSolo nivel base 50 o superior."
     },
     "hVahDA": {
-        "ko": "[텔레포테이션 장치]\n사냥터로 이동하시겠습니까? 사냥터에서 본영으로 돌아오시려면 사냥터 중앙의 베이스 캠프 안에서 텔레포테이션 장치를 이용하십시오."
+        "ko": "[텔레포테이션 장치]\n사냥터로 이동하시겠습니까? 사냥터에서 본영으로 돌아오시려면 사냥터 중앙의 베이스 캠프 안에서 텔레포테이션 장치를 이용하십시오.",
+        "en": "[Teleporter]\nDo you wish to proceed to the royal hunting field? Use the Teleporter from inside there to return.",
+        "pt": "[Teleportador]\nDeseja seguir para o campo da caçada real? Use o Teleportador de lá dentro para retornar.",
+        "es": "[Teletransportador]\n¿Deseas ir al campo de la cacería real? \nUsa el Teletransportador de ahí dentro para regresar."
     },
     "hlahDA": {
-        "ko": "[텔레포테이션 장치]\n사냥터로 이동하시려면 다시 말을 걸어 주시기 바랍니다."
+        "ko": "[텔레포테이션 장치]\n사냥터로 이동하시려면 다시 말을 걸어 주시기 바랍니다.",
+        "en": "[Teleporter]\nPlease, speak with me again if you wish to move to the hunting fields.",
+        "pt": "[Teleportador]\nPor favor, fale comigo novamente se desejar se mover para os campos de caça.",
+        "es": "[Teletransportador]\nPor favor, habla conmigo nuevamente si deseas moverte a los campos de caza."
     },
     "h1ahDA": {
-        "ko": "[텔레포테이션 장치]\n<NAVI>[지휘관 나데즈다]<INFO>prt_fild01.gat,98,171,0,101,0</INFO></NAVI>를 통해 사냥대회 참가 자격을 얻어야 사냥터로 이동할 수 있습니다."
+        "ko": "[텔레포테이션 장치]\n<NAVI>[지휘관 나데즈다]<INFO>prt_fild01.gat,98,171,0,101,0</INFO></NAVI>를 통해 사냥대회 참가 자격을 얻어야 사냥터로 이동할 수 있습니다.",
+        "en": "[Teleporter]\nTo begin, speak with <NAVI>[Commander Nadezda]<INFO>prt_fild01.gat,98,171,0,101,0</INFO></NAVI>",
+        "pt": "[Teleportador]\nPara começar, fale com a <NAVI>[Comandante Nadezda]<INFO>prt_fild01.gat,98,171,0,101,0</INFO></NAVI>",
+        "es": "[Teletransportador]\nPara comenzar, habla con la <NAVI>[Comandante Nadezda]<INFO>prt_fild01.gat,98,171,0,101,0</INFO></NAVI>"
     },
     "iFahDA": {
-        "ko": "[텔레포테이션 장치]\n본영으로 이동하시겠습니까?"
+        "ko": "[텔레포테이션 장치]\n본영으로 이동하시겠습니까?",
+        "en": "[Teleporter]\nDo you wish to leave here?",
+        "pt": "[Teleportador]\nDeseja sair daqui?",
+        "es": "[Teletransportador]\n¿Deseas salir de aquí?"
     },
     "iVahDA": {
-        "ko": "[텔레포테이션 장치]\n본영으로 이동하시려면 다시 말을 걸어 주시기 바랍니다."
+        "ko": "[텔레포테이션 장치]\n본영으로 이동하시려면 다시 말을 걸어 주시기 바랍니다.",
+        "en": "[Teleporter]\nPlease, speak with me again if you wish to move to the camp.",
+        "pt": "[Teleportador]\nPor favor, fale comigo novamente se desejar se mover para o acampamento.",
+        "es": "[Teletransportador]\nPor favor, habla conmigo nuevamente si deseas moverte al campamento."
     },
     "ilahDA": {
-        "ko": "부관 로핀체"
+        "ko": "부관 로핀체",
+        "en": "Lieutenant Lofinche",
+        "pt": "Tenente Lofinche",
+        "es": "Teniente Lofinche"
     },
     "i1ahDA": {
-        "ko": "[부관 로핀체]\n지금의 실력으로는 조금 무리인 것 같네요. 조금 더 성장한 뒤에 오시길 바랍니다."
+        "ko": "[부관 로핀체]\n지금의 실력으로는 조금 무리인 것 같네요. 조금 더 성장한 뒤에 오시길 바랍니다.",
+        "en": "[Lieutenant Lofinche]\nIf you wish to participate in the hunt, train a bit more.",
+        "pt": "[Tenente Lofinche]\nSe você deseja participar da caçada, treine um pouco mais.",
+        "es": "[Teniente Lofinche]\nSi deseas participar en la cacería, entrena un poco más."
     },
     "jFahDA": {
-        "ko": "[부관 로핀체]\n안녕하세요, 모험가님."
+        "ko": "[부관 로핀체]\n안녕하세요, 모험가님.",
+        "en": "[Lieutenant Lofinche]\nHello, traveler.",
+        "pt": "[Tenente Lofinche]\nOlá, viajante.",
+        "es": "[Teniente Lofinche]\nHola, trotamundos."
     },
     "jVahDA": {
-        "ko": "[부관 로핀체]\n이번 사냥 대회의 운영을 위해 파견 나온 로핀체라고 합니다."
+        "ko": "[부관 로핀체]\n이번 사냥 대회의 운영을 위해 파견 나온 로핀체라고 합니다.",
+        "en": "[Lieutenant Lofinche]\nI am responsible for organizing the participants of the Royal Hunt.",
+        "pt": "[Tenente Lofinche]\nSou o responsável por organizar os participantes da Caçada Real.",
+        "es": "[Teniente Lofinche]\nSoy el responsable de organizar a los participantes de la Cacería Real."
     },
     "jlahDA": {
-        "ko": "[부관 로핀체]\n나데즈다님의 첫 번째 시험을 무난하게 통과하고 오셨군요. 그렇다면 약간 난이도를 높인 두 번째 시험을 드리겠습니다."
+        "ko": "[부관 로핀체]\n나데즈다님의 첫 번째 시험을 무난하게 통과하고 오셨군요. 그렇다면 약간 난이도를 높인 두 번째 시험을 드리겠습니다.",
+        "en": "[Lieutenant Lofinche]\nYou passed Commander Nadezda's first test, so I will give you the second test.",
+        "pt": "[Tenente Lofinche]\nVocê passou do primeiro teste da Comandante Nadezda, então vou dar o segundo teste.",
+        "es": "[Teniente Lofinche]\nPasaste la primera prueba de la Comandante Nadezda, así que te daré la segunda prueba."
     },
     "j1ahDA": {
-        "ko": "[부관 로핀체]\n50Lv 이상의 ^4D4DFF동물형^000000, ^4D4DFF곤충형^000000 몬스터를 각각 30마리씩 사냥하시면 되겠습니다."
+        "ko": "[부관 로핀체]\n50Lv 이상의 ^4D4DFF동물형^000000, ^4D4DFF곤충형^000000 몬스터를 각각 30마리씩 사냥하시면 되겠습니다.",
+        "en": "[Lieutenant Lofinche]\nI want you to eliminate 30 monsters of the ^4D4DFFBrute race^000000 and 30 of the ^4D4DFFInsect race^000000, BUT only monsters above level 50 will count.",
+        "pt": "[Tenente Lofinche]\nQuero que elimine 30 monstros da ^4D4DFFraça Bruto^000000 e 30 da ^4D4DFFraça Inseto^000000, PORÉM só valerão os monstros acima do nível 50.",
+        "es": "[Teniente Lofinche]\nQuiero que elimines 30 monstruos de la ^4D4DFFraza Bruto^000000 y 30 de la ^4D4DFFraza Insecto^000000, PERO solo valdrán los monstruos de nivel superior a 50."
     },
     "kFahDA": {
-        "ko": "[부관 로핀체]\n하지만 모험가님에게는 별로 어렵지 않을 거라 생각해요. 사냥을 완료하고 돌아와 주시면 ^4D4DFF선택의 장미^000000 증정과 함께 다음 시험에 대한 안내를 드리도록 하겠습니다."
+        "ko": "[부관 로핀체]\n하지만 모험가님에게는 별로 어렵지 않을 거라 생각해요. 사냥을 완료하고 돌아와 주시면 ^4D4DFF선택의 장미^000000 증정과 함께 다음 시험에 대한 안내를 드리도록 하겠습니다.",
+        "en": "[Lieutenant Lofinche]\nSince it is a difficult test, your gift will be the ^4D4DFFVote Rose^000000, very useful here at the camp.",
+        "pt": "[Tenente Lofinche]\nPor ser um teste difícil, seu presente será a ^4D4DFFRosa-de-Voto^000000, muito útil aqui no acampamento.",
+        "es": "[Teniente Lofinche]\nPor ser una prueba difícil, tu regalo será la ^4D4DFFRosa de la Elección^000000, muy útil aquí en el campamento."
     },
     "kVahDA": {
-        "ko": "[부관 로핀체]\n그럼 무운을 빌겠습니다!"
+        "ko": "[부관 로핀체]\n그럼 무운을 빌겠습니다!",
+        "en": "[Lieutenant Lofinche]\nGood luck!",
+        "pt": "[Tenente Lofinche]\nBoa sorte!",
+        "es": "[Teniente Lofinche]\n¡Buena suerte!"
     },
     "klahDA": {
-        "ko": "[부관 로핀체]\n아직 목표치를 달성하지 못하셨군요. 이왕 오신 김에 잠시 쉬어가는 것도 좋지요."
+        "ko": "[부관 로핀체]\n아직 목표치를 달성하지 못하셨군요. 이왕 오신 김에 잠시 쉬어가는 것도 좋지요.",
+        "en": "[Lieutenant Lofinche]\nYou have not yet completed the hunt.",
+        "pt": "[Tenente Lofinche]\nVocê ainda não concluiu a caçada.",
+        "es": "[Teniente Lofinche]\nAún no has concluido la cacería."
     },
     "k1ahDA": {
-        "ko": "[부관 로핀체]\n50Lv 이상의 ^4D4DFF동물형^000000 몬스터와 ^4D4DFF곤충형^000000 몬스터를 각각 30마리씩 사냥하시면 되겠습니다."
+        "ko": "[부관 로핀체]\n50Lv 이상의 ^4D4DFF동물형^000000 몬스터와 ^4D4DFF곤충형^000000 몬스터를 각각 30마리씩 사냥하시면 되겠습니다.",
+        "en": "[Lieutenant Lofinche]\nI want you to eliminate 30 monsters of the ^4D4DFFBrute race^000000 and 30 of the ^4D4DFFInsect race^000000, BUT only monsters above level 50 will count.",
+        "pt": "[Tenente Lofinche]\nQuero que elimine 30 monstros da ^4D4DFFraça Bruto^000000 e 30 da ^4D4DFFraça Inseto^000000, PORÉM só valerão os monstros acima do nível 50.",
+        "es": "[Teniente Lofinche]\nQuiero que elimines 30 monstruos de la ^4D4DFFraza Bruto^000000 y 30 de la ^4D4DFFraza Insecto^000000, PERO solo valdrán los monstruos de nivel superior a 50."
     },
     "lFahDA": {
-        "ko": "[부관 로핀체]\n역시, 빠르게 해치우고 오셨군요. 그렇다면 이제 마지막 시험만 치르시면 본격적인 사냥을 하실 수 있습니다."
+        "ko": "[부관 로핀체]\n역시, 빠르게 해치우고 오셨군요. 그렇다면 이제 마지막 시험만 치르시면 본격적인 사냥을 하실 수 있습니다.",
+        "en": "[Lieutenant Lofinche]\nYou have shown your worth. I am very proud.",
+        "pt": "[Tenente Lofinche]\nVocê mostrou seu valor. Estou muito orgulhoso.",
+        "es": "[Teniente Lofinche]\nHas mostrado tu valía. Estoy muy orgulloso."
     },
     "lVahDA": {
-        "ko": "[부관 로핀체]\n<NAVI>[부관 장하성]<INFO>prt_fild01,107,180,0,101,0</INFO></NAVI>에게 가시면 진행을 도와드릴겁니다."
+        "ko": "[부관 로핀체]\n<NAVI>[부관 장하성]<INFO>prt_fild01,107,180,0,101,0</INFO></NAVI>에게 가시면 진행을 도와드릴겁니다.",
+        "en": "[Lieutenant Lofinche]\nGo to <NAVI>[General Jang]<INFO>prt_fild01,107,180,0,101,0</INFO></NAVI>. She will assist you with the mission.",
+        "pt": "[Tenente Lofinche]\nVá até a <NAVI>[General Jang]<INFO>prt_fild01,107,180,0,101,0</INFO></NAVI>. Ela auxiliará você com a missão.",
+        "es": "[Teniente Lofinche]\nVe con la <NAVI>[General Jang]<INFO>prt_fild01,107,180,0,101,0</INFO></NAVI>. Ella te auxiliará con la misión."
     },
     "llahDA": {
-        "ko": "[부관 로핀체]\n이건 약속했었던 장미에요. 일단 받아주세요."
+        "ko": "[부관 로핀체]\n이건 약속했었던 장미에요. 일단 받아주세요.",
+        "en": "[Lieutenant Lofinche]\nAnd as promised, the ^4D4DFFVote Rose^000000. Please accept it.",
+        "pt": "[Tenente Lofinche]\nE como prometido, a ^4D4DFFRosa-de-Voto^000000. Por favor, aceite.",
+        "es": "[Teniente Lofinche]\nY como prometí, la ^4D4DFFRosa de la Elección^000000. Por favor, acéptala."
     },
     "l1ahDA": {
-        "ko": "[부관 로핀체]\n<NAVI>[부관 장하성]<INFO>prt_fild01,107,180,0,101,0</INFO></NAVI>이 마지막 시험의 진행을 도와줄 것입니다."
+        "ko": "[부관 로핀체]\n<NAVI>[부관 장하성]<INFO>prt_fild01,107,180,0,101,0</INFO></NAVI>이 마지막 시험의 진행을 도와줄 것입니다.",
+        "en": "[Lieutenant Lofinche]\nGo to <NAVI>[General Jang]<INFO>prt_fild01,107,180,0,101,0</INFO></NAVI>. She will help you with the mission.",
+        "pt": "[Tenente Lofinche]\nVá até a <NAVI>[General Jang]<INFO>prt_fild01,107,180,0,101,0</INFO></NAVI>. Ela vai te ajudar com a missão.",
+        "es": "[Teniente Lofinche]\nVe con la <NAVI>[General Jang]<INFO>prt_fild01,107,180,0,101,0</INFO></NAVI>. Ella te ayudará con la misión."
     },
     "mFahDA": {
-        "ko": "[부관 로핀체]\n왕실 사냥 대회에 참가하러 오셨다면 <NAVI>[지휘관 나데즈다]<INFO>prt_fild01,98,171,0,101,0</INFO></NAVI>님이 주시는 시험을 통과한 뒤에 저에게 오시면 됩니다."
+        "ko": "[부관 로핀체]\n왕실 사냥 대회에 참가하러 오셨다면 <NAVI>[지휘관 나데즈다]<INFO>prt_fild01,98,171,0,101,0</INFO></NAVI>님이 주시는 시험을 통과한 뒤에 저에게 오시면 됩니다.",
+        "en": "[Lieutenant Lofinche]\nIf you came to participate in the Royal Hunt, talk with me after passing the test from <NAVI>[Commander Nadezda]<INFO>prt_fild01,98,171,0,101,0</INFO></NAVI>.",
+        "pt": "[Tenente Lofinche]\nSe veio para participar da Caçada Real, converse comigo após passar no teste da <NAVI>[Comandante Nadezda]<INFO>prt_fild01,98,171,0,101,0</INFO></NAVI>.",
+        "es": "[Teniente Lofinche]\nSi viniste para participar en la Cacería Real, conversa conmigo después de pasar la prueba de la <NAVI>[Comandante Nadezda]<INFO>prt_fild01,98,171,0,101,0</INFO></NAVI>."
     },
     "mVahDA": {
-        "ko": "[부관 로핀체]\n묘르닐 산맥에서 이 곳을 향하여 내려오는 몬스터들은 여전히 많은 상태입니다. 도움의 손길이 필요한데..."
+        "ko": "[부관 로핀체]\n묘르닐 산맥에서 이 곳을 향하여 내려오는 몬스터들은 여전히 많은 상태입니다. 도움의 손길이 필요한데...",
+        "en": "[Lieutenant Lofinche]\nThere are still many monsters in the hunting field, I will need help.",
+        "pt": "[Tenente Lofinche]\nAinda existem muitos monstros no campo de caçada, vou precisar de ajuda.",
+        "es": "[Teniente Lofinche]\nAún existen muchos monstruos en el campo de cacería, voy a necesitar ayuda."
     },
     "mlahDA": {
-        "ko": "[부관 로핀체]\n사냥을 도와주시겠어요?"
+        "ko": "[부관 로핀체]\n사냥을 도와주시겠어요?",
+        "en": "[Lieutenant Lofinche]\nWhich monsters do you wish to hunt?",
+        "pt": "[Tenente Lofinche]\nQue monstros você deseja caçar?",
+        "es": "[Teniente Lofinche]\n¿Qué monstruos deseas cazar?"
     },
     "m1ahDA": {
-        "ko": "돕는다."
+        "ko": "돕는다.",
+        "en": "Help.",
+        "pt": "Ajudar.",
+        "es": "Ayudar."
     },
     "nFahDA": {
-        "ko": "돕지 않는다."
+        "ko": "돕지 않는다.",
+        "en": "Not help.",
+        "pt": "Não ajudar.",
+        "es": "No ayudar."
     },
     "nVahDA": {
-        "ko": "[부관 로핀체]\n다행이네요, 잘 됐어! 어떤 유형의 몬스터를 사냥해주실건가요?"
+        "ko": "[부관 로핀체]\n다행이네요, 잘 됐어! 어떤 유형의 몬스터를 사냥해주실건가요?",
+        "en": "[Lieutenant Lofinche]\nThat is a relief, great! What type of monster will you hunt for us?",
+        "pt": "[Tenente Lofinche]\nIsso é um alívio, ótimo! Que tipo de monstro você caçará para nós?",
+        "es": "[Teniente Lofinche]\nEso es un alivio, ¡excelente! \n¿Qué tipo de monstruo cazarás para nosotros?"
     },
     "nlahDA": {
-        "ko": "^999999곤충형 몬스터 사냥(50Lv 이상) - 대기중^000000"
+        "ko": "^999999곤충형 몬스터 사냥(50Lv 이상) - 대기중^000000",
+        "en": "^999999(Pending) Hunt Insects lv.50+^000000",
+        "pt": "^999999(Em espera) Caçar Insetos de nv.50+^000000",
+        "es": "^999999(En espera) Cazar Insectos de Nv.50+^000000"
     },
     "n1ahDA": {
-        "ko": "^999999곤충형 몬스터 사냥(50Lv 이상) - 사냥중^000000"
+        "ko": "^999999곤충형 몬스터 사냥(50Lv 이상) - 사냥중^000000",
+        "en": "^999999(In progress) Hunt Insects lv.50+^000000",
+        "pt": "^999999(Em curso) Caçar Insetos de nv.50+^000000",
+        "es": "^999999(En curso) Cazar Insectos de Nv.50+^000000"
     },
     "oFahDA": {
-        "ko": "^999999곤충형 몬스터 사냥(50Lv 이상) - 완료^000000"
+        "ko": "^999999곤충형 몬스터 사냥(50Lv 이상) - 완료^000000",
+        "en": "^999999(Complete) Hunt Insects lv.50+^000000",
+        "pt": "^999999(Completo) Caçar Insetos de nv.50+^000000",
+        "es": "^999999(Completo) Cazar Insectos de Nv.50+^000000"
     },
     "oVahDA": {
-        "ko": "곤충형 몬스터 사냥(50Lv 이상)"
+        "ko": "곤충형 몬스터 사냥(50Lv 이상)",
+        "en": "Hunt Insects lv.50+",
+        "pt": "Caçar Insetos de nv.50+",
+        "es": "Cazar Insectos de Nv.50+"
     },
     "olahDA": {
-        "ko": "^999999동물형 몬스터 사냥(50Lv 이상) - 대기중^000000"
+        "ko": "^999999동물형 몬스터 사냥(50Lv 이상) - 대기중^000000",
+        "en": "^999999(Pending) Hunt Brutes lv.50+^000000",
+        "pt": "^999999(Em espera) Caçar Brutos de nv.50+^000000",
+        "es": "^999999(En espera) Cazar Brutos de Nv.50+^000000"
     },
     "o1ahDA": {
-        "ko": "^999999동물형 몬스터 사냥(50Lv 이상) - 사냥중^000000"
+        "ko": "^999999동물형 몬스터 사냥(50Lv 이상) - 사냥중^000000",
+        "en": "^999999(In progress) Hunt Brutes lv.50+^000000",
+        "pt": "^999999(Em curso) Caçar Brutos de nv.50+^000000",
+        "es": "^999999(En curso) Cazar Brutos de Nv.50+^000000"
     },
     "pFahDA": {
-        "ko": "^999999동물형 몬스터 사냥(50Lv 이상) - 완료^000000"
+        "ko": "^999999동물형 몬스터 사냥(50Lv 이상) - 완료^000000",
+        "en": "^999999(Complete) Hunt Brutes lv.50+^000000",
+        "pt": "^999999(Completo) Caçar Brutos de nv.50+^000000",
+        "es": "^999999(Completo) Cazar Brutos de Nv.50+^000000"
     },
     "pVahDA": {
-        "ko": "동물형 몬스터 사냥(50Lv 이상)"
+        "ko": "동물형 몬스터 사냥(50Lv 이상)",
+        "en": "Hunt Brutes lv.50+",
+        "pt": "Caçar Brutos de nv.50+",
+        "es": "Cazar Brutos de Nv.50+"
     },
     "plahDA": {
-        "ko": "^999999어패류 몬스터 사냥(50Lv 이상) - 대기중^000000"
+        "ko": "^999999어패류 몬스터 사냥(50Lv 이상) - 대기중^000000",
+        "en": "^999999(Pending) Hunt Fish lv.50+^000000",
+        "pt": "^999999(Em espera) Caçar Peixes de nv.50+^000000",
+        "es": "^999999(En espera) Cazar Peces de Nv.50+^000000"
     },
     "p1ahDA": {
-        "ko": "^999999어패류 몬스터 사냥(50Lv 이상) - 사냥중^000000"
+        "ko": "^999999어패류 몬스터 사냥(50Lv 이상) - 사냥중^000000",
+        "en": "^999999(In progress) Hunt Fish lv.50+^000000",
+        "pt": "^999999(Em curso) Caçar Peixes de nv.50+^000000",
+        "es": "^999999(En curso) Cazar Peces de Nv.50+^000000"
     },
     "qFahDA": {
-        "ko": "^999999어패류 몬스터 사냥(50Lv 이상) - 완료^000000"
+        "ko": "^999999어패류 몬스터 사냥(50Lv 이상) - 완료^000000",
+        "en": "^999999(Complete) Hunt Fish lv.50+^000000",
+        "pt": "^999999(Completo) Caçar Peixes de nv.50+^000000",
+        "es": "^999999(Completo) Cazar Peces de Nv.50+^000000"
     },
     "qVahDA": {
-        "ko": "어패류 몬스터 사냥(50Lv 이상)"
+        "ko": "어패류 몬스터 사냥(50Lv 이상)",
+        "en": "Hunt Fish lv.50+",
+        "pt": "Caçar Peixes de nv.50+",
+        "es": "Cazar Peces de Nv.50+"
     },
     "qlahDA": {
-        "ko": "^999999용족 몬스터 사냥(50Lv 이상) - 대기중^000000"
+        "ko": "^999999용족 몬스터 사냥(50Lv 이상) - 대기중^000000",
+        "en": "^999999(Pending) Hunt Dragons lv.50+^000000",
+        "pt": "^999999(Em espera) Caçar Dragões de nv.50+^000000",
+        "es": "^999999(En espera) Cazar Dragones de Nv.50+^000000"
     },
     "q1ahDA": {
-        "ko": "^999999용족 몬스터 사냥(50Lv 이상) - 사냥중^000000"
+        "ko": "^999999용족 몬스터 사냥(50Lv 이상) - 사냥중^000000",
+        "en": "^999999(In progress) Hunt Dragons lv.50+^000000",
+        "pt": "^999999(Em curso) Caçar Dragões de nv.50+^000000",
+        "es": "^999999(En curso) Cazar Dragones de Nv.50+^000000"
     },
     "rFahDA": {
-        "ko": "^999999용족 몬스터 사냥(50Lv 이상) - 완료^000000"
+        "ko": "^999999용족 몬스터 사냥(50Lv 이상) - 완료^000000",
+        "en": "^999999(Complete) Hunt Dragons lv.50+^000000",
+        "pt": "^999999(Completo) Caçar Dragões de nv.50+^000000",
+        "es": "^999999(Completo) Cazar Dragones de Nv.50+^000000"
     },
     "rVahDA": {
-        "ko": "용족 몬스터 사냥(50Lv 이상)"
+        "ko": "용족 몬스터 사냥(50Lv 이상)",
+        "en": "Hunt Dragons lv.50+",
+        "pt": "Caçar Dragões de nv.50+",
+        "es": "Cazar Dragones de Nv.50+"
     },
     "rlahDA": {
-        "ko": "다음에 온다."
+        "ko": "다음에 온다.",
+        "en": "I'll come back later.",
+        "pt": "Voltarei mais tarde.",
+        "es": "Volveré más tarde."
     },
     "r1ahDA": {
-        "ko": "곤충형 몬스터 30마리 사냥(50Lv 이상)"
+        "ko": "곤충형 몬스터 30마리 사냥(50Lv 이상)",
+        "en": "Eliminate 30 monsters of the Insect race that are level 50 or higher",
+        "pt": "Elimine 30 monstros da raça Inseto que sejam de nível 50 ou mais",
+        "es": "Elimina 30 monstruos de la raza Insecto que sean de nivel 50 o más"
     },
     "sFahDA": {
-        "ko": "동물형 몬스터 30마리 사냥(50Lv 이상)"
+        "ko": "동물형 몬스터 30마리 사냥(50Lv 이상)",
+        "en": "Eliminate 30 monsters of the Brute race that are level 50 or higher",
+        "pt": "Elimine 30 monstros da raça Bruto que sejam de nível 50 ou mais",
+        "es": "Elimina 30 monstruos de la raza Bruto que sean de nivel 50 o más"
     },
     "sVahDA": {
-        "ko": "어패류 몬스터 30마리 사냥(50Lv 이상)"
+        "ko": "어패류 몬스터 30마리 사냥(50Lv 이상)",
+        "en": "Eliminate 30 monsters of the Fish race that are level 50 or higher",
+        "pt": "Elimine 30 monstros da raça Peixe que sejam de nível 50 ou mais",
+        "es": "Elimina 30 monstruos de la raza Pez que sean de nivel 50 o más"
     },
     "slahDA": {
-        "ko": "용족 몬스터 30마리 사냥(50Lv 이상)"
+        "ko": "용족 몬스터 30마리 사냥(50Lv 이상)",
+        "en": "Eliminate 30 monsters of the Dragon race that are level 50 or higher",
+        "pt": "Elimine 30 monstros da raça Dragão que sejam de nível 50 ou mais",
+        "es": "Elimina 30 monstruos de la raza Dragón que sean de nivel 50 o más"
     },
     "s1ahDA": {
-        "ko": "[부관 로핀체]\n사냥 대회 기간 중에는 항상 여기 있으니 언제든지 찾아와 주십시오."
+        "ko": "[부관 로핀체]\n사냥 대회 기간 중에는 항상 여기 있으니 언제든지 찾아와 주십시오.",
+        "en": "[Lieutenant Lofinche]\nI will always be around here, in case you want something.",
+        "pt": "[Tenente Lofinche]\nEstarei sempre por aqui, caso queira algo.",
+        "es": "[Teniente Lofinche]\nSiempre estaré por aquí, por si quieres algo."
     },
     "tFahDA": {
-        "ko": "[부관 로핀체]\n해당 임무는 현재 해결되어 있는 상태입니다."
+        "ko": "[부관 로핀체]\n해당 임무는 현재 해결되어 있는 상태입니다.",
+        "en": "[Lieutenant Lofinche]\nThis mission has already been completed today.",
+        "pt": "[Tenente Lofinche]\nEssa missão já foi concluída hoje.",
+        "es": "[Teniente Lofinche]\nEsta misión ya fue completada hoy."
     },
     "tVahDA": {
-        "ko": "[부관 로핀체]\n하지만 내일이 되면 대시 개체수가 늘어날 것으로 판단되오니 내일 다시 저를 찾아와 주세요."
+        "ko": "[부관 로핀체]\n하지만 내일이 되면 대시 개체수가 늘어날 것으로 판단되오니 내일 다시 저를 찾아와 주세요.",
+        "en": "[Lieutenant Lofinche]\nWe recommend rest. Come back tomorrow.",
+        "pt": "[Tenente Lofinche]\nNós recomendamos o descanso. Volte amanhã.",
+        "es": "[Teniente Lofinche]\nRecomendamos el descanso. \nVuelve mañana."
     },
     "tlahDA": {
-        "ko": "[부관 로핀체]\n오늘도 잘 부탁드립니다, 모험가님.\n{0} 임무를 맡아주시겠습니까?"
+        "ko": "[부관 로핀체]\n오늘도 잘 부탁드립니다, 모험가님.\n{0} 임무를 맡아주시겠습니까?",
+        "en": "[Lieutenant Lofinche]\nAre you looking for a mission?\n{0}, please.",
+        "pt": "[Tenente Lofinche]\nEstá querendo uma missão?\n{0}, por favor.",
+        "es": "[Teniente Lofinche]\n¿Estás queriendo una misión?\n{0}, por favor."
     },
     "t1ahDA": {
-        "ko": "맡는다."
+        "ko": "맡는다.",
+        "en": "Accept.",
+        "pt": "Aceitar.",
+        "es": "Aceptar."
     },
     "uFahDA": {
-        "ko": "맡지 않는다."
+        "ko": "맡지 않는다.",
+        "en": "Refuse.",
+        "pt": "Recusar.",
+        "es": "Rechazar."
     },
     "uVahDA": {
-        "ko": "[부관 로핀체]\n50레벨 이상의 몬스터를 사냥하시면 되겠습니다."
+        "ko": "[부관 로핀체]\n50레벨 이상의 몬스터를 사냥하시면 되겠습니다.",
+        "en": "[Lieutenant Lofinche]\nRemember that only monsters ^4D4DFFlevel 50 or higher^000000 are valid.",
+        "pt": "[Tenente Lofinche]\nLembre-se que são válidos somente os monstros ^4D4DFFde nível 50 ou maior^000000.",
+        "es": "[Teniente Lofinche]\nRecuerda que solo son válidos los monstruos ^4D4DFFde nivel 50 o mayor^000000."
     },
     "ulahDA": {
-        "ko": "[부관 로핀체]\n사냥을 마치고 돌아오시면 그에 해당하는 보상을 드리겠습니다. 그럼 몸조심히 다녀오십시오."
+        "ko": "[부관 로핀체]\n사냥을 마치고 돌아오시면 그에 해당하는 보상을 드리겠습니다. 그럼 몸조심히 다녀오십시오.",
+        "en": "[Lieutenant Lofinche]\nWhen you return, I will give you an appropriate prize.",
+        "pt": "[Tenente Lofinche]\nQuando retornar, lhe darei um prêmio apropriado.",
+        "es": "[Teniente Lofinche]\nCuando regreses, te daré un premio apropiado."
     },
     "u1ahDA": {
-        "ko": "[부관 로핀체]\n저는 사냥 대회 기간 동안에는 항상 여기에 있을 예정이니 마음이 생기시면 다시 찾아와 주십시오."
+        "ko": "[부관 로핀체]\n저는 사냥 대회 기간 동안에는 항상 여기에 있을 예정이니 마음이 생기시면 다시 찾아와 주십시오.",
+        "en": "[Lieutenant Lofinche]\nI will stay around here throughout the entire hunting event.",
+        "pt": "[Tenente Lofinche]\nVou continuar por aqui durante todo o evento da caçada.",
+        "es": "[Teniente Lofinche]\nVoy a continuar por aquí durante todo el evento de cacería."
     },
     "vFahDA": {
-        "ko": "[부관 로핀체]\n{0} 임무를 현재 진행하고 계십니다."
+        "ko": "[부관 로핀체]\n{0} 임무를 현재 진행하고 계십니다.",
+        "en": "[Lieutenant Lofinche]\nDid you forget your mission? {0}.",
+        "pt": "[Tenente Lofinche]\nEsqueceu sua missão? {0}.",
+        "es": "[Teniente Lofinche]\n¿Olvidaste tu misión? {0}."
     },
     "vVahDA": {
-        "ko": "[부관 로핀체]\n마치고 돌아오시면 그에 해당하는 보수를 드리겠습니다, 잘 부탁드립니다."
+        "ko": "[부관 로핀체]\n마치고 돌아오시면 그에 해당하는 보수를 드리겠습니다, 잘 부탁드립니다.",
+        "en": "[Lieutenant Lofinche]\nWhen you complete it, I will give you an appropriate reward.",
+        "pt": "[Tenente Lofinche]\nQuando completá-la, lhe darei uma recompensa apropriada.",
+        "es": "[Teniente Lofinche]\nCuando la completes, te daré una recompensa apropiada."
     },
     "vlahDA": {
-        "ko": "[부관 로핀체]\n{0} 임무를 마치고 돌아오셨군요, 감사합니다."
+        "ko": "[부관 로핀체]\n{0} 임무를 마치고 돌아오셨군요, 감사합니다.",
+        "en": "[Lieutenant Lofinche]\nThe mission said [^999999{0}^000000] and you completed it!",
+        "pt": "[Tenente Lofinche]\nA missão dizia [^999999{0}^000000] e você a completou!",
+        "es": "[Teniente Lofinche]\n¡La misión decía [^999999{0}^000000] y la completaste!"
     },
     "v1ahDA": {
-        "ko": "[부관 로핀체]\n보수로 <ITEM>[선택의 장미]<INFO>23533</INFO></ITEM> 10개를 지급해 드리도록 하겠습니다."
+        "ko": "[부관 로핀체]\n보수로 <ITEM>[선택의 장미]<INFO>23533</INFO></ITEM> 10개를 지급해 드리도록 하겠습니다.",
+        "en": "[Lieutenant Lofinche]\nI will pay you 10 units of <ITEM>[Vote Rose]<INFO>23533</INFO></ITEM> for your work.",
+        "pt": "[Tenente Lofinche]\nTe pagarei 10 unidades da <ITEM>[Rosa-de-Voto]<INFO>23533</INFO></ITEM> pelo seu trabalho.",
+        "es": "[Teniente Lofinche]\nTe pagaré 10 unidades de la <ITEM>[Rosa de la Elección]<INFO>23533</INFO></ITEM> por tu trabajo."
     },
     "wFahDA": {
-        "ko": "[부관 로핀체]\n선택의 장미는 본영 내에서 유용하게 사용할 수 있으니 잘 활용해주시길 바랍니다."
+        "ko": "[부관 로핀체]\n선택의 장미는 본영 내에서 유용하게 사용할 수 있으니 잘 활용해주시길 바랍니다.",
+        "en": "[Lieutenant Lofinche]\nThe Vote Rose is highly requested here at the Camp, make good use of it.",
+        "pt": "[Tenente Lofinche]\nA Rosa-de-Voto é muito requisitada aqui no Acampamento, faça bom uso.",
+        "es": "[Teniente Lofinche]\nLa Rosa de la Elección es muy solicitada aquí en el Campamento, haz buen uso de ella."
     },
     "wVahDA": {
-        "ko": "[부관 로핀체]\n명예로운 임무입니다. 마음이 바뀌시면 다시 저에게 말을 걸어주십시오,"
+        "ko": "[부관 로핀체]\n명예로운 임무입니다. 마음이 바뀌시면 다시 저에게 말을 걸어주십시오,",
+        "en": "[Lieutenant Lofinche]\nIt is an honorable task. If you change your mind, please speak with me again.",
+        "pt": "[Tenente Lofinche]\nÉ uma tarefa honrosa. Se mudar de ideia, por favor, fale comigo novamente.",
+        "es": "[Teniente Lofinche]\nEs una tarea honorable. \nSi cambias de opinión, por favor, habla conmigo nuevamente."
     },
     "wlahDA": {
-        "ko": "부관 장하성"
+        "ko": "부관 장하성",
+        "en": "General Jang",
+        "pt": "General Jang",
+        "es": "General Jang"
     },
     "w1ahDA": {
-        "ko": "[부관 장하성]\n지금의 실력으로는 조금 무리인 것 같네요. 조금 더 성장한 뒤에 오시길 바랍니다."
+        "ko": "[부관 장하성]\n지금의 실력으로는 조금 무리인 것 같네요. 조금 더 성장한 뒤에 오시길 바랍니다.",
+        "en": "[General Jang]\nIf you wish to participate in the hunt, train a bit more.",
+        "pt": "[General Jang]\nSe você deseja participar da caçada, treine um pouco mais.",
+        "es": "[General Jang]\nSi deseas participar en la cacería, entrena un poco más."
     },
     "xFahDA": {
-        "ko": "[부관 장하성]\n안녕하세요. 마지막 시험을 담당하고 있는 장하성이라고 합니다."
+        "ko": "[부관 장하성]\n안녕하세요. 마지막 시험을 담당하고 있는 장하성이라고 합니다.",
+        "en": "[General Jang]\nHello. My name is Jang Ha-Seong and I am responsible for the final test.",
+        "pt": "[General Jang]\nOlá. Eu me chamo Jang Ha-Seong e sou a responsável pelo teste final.",
+        "es": "[General Jang]\nHola. \nMe llamo Jang Ha-Seong y soy la responsable de la prueba final."
     },
     "xVahDA": {
-        "ko": "[부관 장하성]\n그렇게 많은 몬스터들을 사냥하셨는데도 전혀 피로한 기색이 없으시군요. 좋습니다. 그럼 마지막 시험을 드리도록 하지요."
+        "ko": "[부관 장하성]\n그렇게 많은 몬스터들을 사냥하셨는데도 전혀 피로한 기색이 없으시군요. 좋습니다. 그럼 마지막 시험을 드리도록 하지요.",
+        "en": "[General Jang]\nEven after having hunted so many monsters, you don't appear to show signs of fatigue.",
+        "pt": "[General Jang]\nMesmo depois de ter caçado tantos monstros, você não aparenta ter sinais de fadiga.",
+        "es": "[General Jang]\nIncluso después de haber cazado tantos monstruos, no pareces tener signos de fatiga."
     },
     "xlahDA": {
-        "ko": "[부관 장하성]\n50Lv 이상의 ^4D4DFF어패형^000000와 ^4D4DFF용족^000000 몬스터를 각각 30마리씩 사냥하고 오시면 됩니다."
+        "ko": "[부관 장하성]\n50Lv 이상의 ^4D4DFF어패형^000000와 ^4D4DFF용족^000000 몬스터를 각각 30마리씩 사냥하고 오시면 됩니다.",
+        "en": "[General Jang]\nI want you to take care of 30 monsters of the ^4D4DFFFish^000000 race and 30 of the ^4D4DFFDragon^000000 race, all above level 50.",
+        "pt": "[General Jang]\nQuero que dê conta de 30 monstros da raça ^4D4DFFPeixe^000000 e 30 da raça ^4D4DFFDragão^000000, todos acima do nível 50.",
+        "es": "[General Jang]\nQuiero que te encargues de 30 monstruos de la raza ^4D4DFFPez^000000 y 30 de la raza ^4D4DFFDragón^000000, todos de nivel superior a 50."
     },
     "x1ahDA": {
-        "ko": "[부관 장하성]\n모두 사냥하고 돌아오신다면 특별한 보상을 드리도록 하겠습니다."
+        "ko": "[부관 장하성]\n모두 사냥하고 돌아오신다면 특별한 보상을 드리도록 하겠습니다.",
+        "en": "[General Jang]\nIf you return alive, I will give you a reward for the work.",
+        "pt": "[General Jang]\nSe voltar com vida, lhe darei uma recompensa pelo trabalho.",
+        "es": "[General Jang]\nSi regresas con vida, te daré una recompensa por el trabajo."
     },
     "yFahDA": {
-        "ko": "[부관 장하성]\n그럼 몸 조심히 다녀오세요~!"
+        "ko": "[부관 장하성]\n그럼 몸 조심히 다녀오세요~!",
+        "en": "[General Jang]\nThen, good luck~!",
+        "pt": "[General Jang]\nEntão, boa sorte~!",
+        "es": "[General Jang]\nEntonces, ¡buena suerte~!"
     },
     "yVahDA": {
-        "ko": "[부관 장하성]\n50Lv 이상의 ^4D4DFF어패형^000000과 ^4D4DFF용족^000000 몬스터를 각각 30마리씩 사냥하고 오시면 됩니다."
+        "ko": "[부관 장하성]\n50Lv 이상의 ^4D4DFF어패형^000000과 ^4D4DFF용족^000000 몬스터를 각각 30마리씩 사냥하고 오시면 됩니다.",
+        "en": "[General Jang]\nI want you to take care of 30 monsters of the ^4D4DFFFish^000000 race and 30 of the ^4D4DFFDragon^000000 race, all above level 50.",
+        "pt": "[General Jang]\nQuero que dê conta de 30 monstros da raça ^4D4DFFPeixe^000000 e 30 da raça ^4D4DFFDragão^000000, todos acima do nível 50.",
+        "es": "[General Jang]\nQuiero que te encargues de 30 monstruos de la raza ^4D4DFFPez^000000 y 30 de la raza ^4D4DFFDragón^000000, todos de nivel superior a 50."
     },
     "ylahDA": {
-        "ko": "[부관 장하성]\n조심히 다녀오세요!"
+        "ko": "[부관 장하성]\n조심히 다녀오세요!",
+        "en": "[General Jang]\nThen, good luck~!",
+        "pt": "[General Jang]\nEntão, boa sorte~!",
+        "es": "[General Jang]\nEntonces, ¡buena suerte~!"
     },
     "y1ahDA": {
-        "ko": "[부관 장하성]\n사냥을 잘 마치고 돌아오셨군요."
+        "ko": "[부관 장하성]\n사냥을 잘 마치고 돌아오셨군요.",
+        "en": "[General Jang]\nWhat a marvelous hunt!",
+        "pt": "[General Jang]\nQue caçada maravilhosa!",
+        "es": "[General Jang]\n¡Qué cacería maravillosa!"
     },
     "zFahDA": {
-        "ko": "[부관 장하성]\n마지막 시험을 마치셨으니 <NAVI>[지휘관 나데즈다]<INFO>prt_fild01,98,171,0,101,0</INFO></NAVI>님에게 가시면 왕실 사냥터 입장에 대한 안내를 받으실 수 있을겁니다."
+        "ko": "[부관 장하성]\n마지막 시험을 마치셨으니 <NAVI>[지휘관 나데즈다]<INFO>prt_fild01,98,171,0,101,0</INFO></NAVI>님에게 가시면 왕실 사냥터 입장에 대한 안내를 받으실 수 있을겁니다.",
+        "en": "[General Jang]\nSince you passed all the tests, return to <NAVI>[Commander Nadezda]<INFO>prt_fild01,98,171,0,101,0</INFO></NAVI>. She will give you access to the hunting field.",
+        "pt": "[General Jang]\nComo você passou em todos os testes, retorne para a <NAVI>[Comandante Nadezda]<INFO>prt_fild01,98,171,0,101,0</INFO></NAVI>. Ela te dará acesso ao campo de caçada.",
+        "es": "[General Jang]\nComo pasaste todas las pruebas, regresa con la <NAVI>[Comandante Nadezda]<INFO>prt_fild01,98,171,0,101,0</INFO></NAVI>. \nElla te dará acceso al campo de cacería."
     },
     "zVahDA": {
-        "ko": "[부관 장하성]\n아, 그리고 모험가님의 가방 안에는 <ITEM>[선택의 장미]<INFO>23533</INFO></ITEM>가 있을 텐데요, 저에게 가져와 주시면 여러가지 상품으로 교환해드리겠습니다."
+        "ko": "[부관 장하성]\n아, 그리고 모험가님의 가방 안에는 <ITEM>[선택의 장미]<INFO>23533</INFO></ITEM>가 있을 텐데요, 저에게 가져와 주시면 여러가지 상품으로 교환해드리겠습니다.",
+        "en": "[General Jang]\nAh! If you bring me a <ITEM>[Vote Rose]<INFO>23533</INFO></ITEM>, I can exchange it for awesome prizes.",
+        "pt": "[General Jang]\nAh! Se você trouxer uma <ITEM>[Rosa-de-Voto]<INFO>23533</INFO></ITEM>, posso trocá-la por prêmios supimpas.",
+        "es": "[General Jang]\n¡Ah! Si me traes una <ITEM>[Rosa-del-Voto]<INFO>23533</INFO></ITEM>, puedo cambiártela por premios geniales."
     },
     "zlahDA": {
-        "ko": "[부관 장하성]\n그리고 이것은 마지막 시험을 통과한 자에게 주어지는 보상입니다. 고생 많으셨습니다."
+        "ko": "[부관 장하성]\n그리고 이것은 마지막 시험을 통과한 자에게 주어지는 보상입니다. 고생 많으셨습니다.",
+        "en": "[General Jang]\nIn fact, I am giving you 10 as a reward.",
+        "pt": "[General Jang]\nInclusive, estou de dando 10 como recompensa.",
+        "es": "[General Jang]\nIncluso, te estoy dando 10 como recompensa."
     },
     "z1ahDA": {
-        "ko": "[부관 장하성]\n안녕하세요, 이번 사냥대회의 상품 뽑기 진행은 제가 하기로 했습니다. 후후...<ITEM>[선택의 장미]<INFO>23533</INFO></ITEM>를 저에게 주시면 여러가지 상품으로 교환해드리겠습니다."
+        "ko": "[부관 장하성]\n안녕하세요, 이번 사냥대회의 상품 뽑기 진행은 제가 하기로 했습니다. 후후...<ITEM>[선택의 장미]<INFO>23533</INFO></ITEM>를 저에게 주시면 여러가지 상품으로 교환해드리겠습니다.",
+        "en": "[General Jang]\nHello, I am responsible for the prize draw. Hehe... If you give me <ITEM>[Vote Rose]<INFO>23533</INFO></ITEM>, I will exchange them for various random items.",
+        "pt": "[General Jang]\nOlá, eu sou responsável pelo sorteio de prêmios. Hehe... Se você me der <ITEM>[Rosa-de-Voto]<INFO>23533</INFO></ITEM>, as trocarei por vários itens aleatórios.",
+        "es": "[General Jang]\nHola, yo soy responsable del sorteo de premios. \nJeje... \nSi me das <ITEM>[Rosa de la Elección]<INFO>23533</INFO></ITEM>, las cambiaré por varios ítems aleatorios."
     },
     "0FahDA": {
-        "ko": "[부관 장하성]\n또는 사냥하는데 도움이 될 만한 버프를 제공해드릴 수도 있으니 많은 이용 부탁드립니다."
+        "ko": "[부관 장하성]\n또는 사냥하는데 도움이 될 만한 버프를 제공해드릴 수도 있으니 많은 이용 부탁드립니다.",
+        "en": "[General Jang]\nAlternatively, I can also provide bonuses that can help in the hunt, so please make good use of my services.",
+        "pt": "[General Jang]\nAlternativamente, também posso fornecer bônus que podem ajudar na caçada, então por favor, faça bom uso dos meus serviços.",
+        "es": "[General Jang]\nAlternativamente, también puedo proporcionar bonificaciones que pueden ayudar en la cacería, así que por favor, haz buen uso de mis servicios."
     },
     "0VahDA": {
-        "ko": "[부관 장하성]\n아, 그리고 <ITEM>[뛰어난 사냥꾼의 증표]<INFO>1000235</INFO></ITEM>를 가지고 계시다면 증표 1개당 <ITEM>[선택의 장미]<INFO>23533</INFO></ITEM> 3개로 교환해드리겠습니다."
+        "ko": "[부관 장하성]\n아, 그리고 <ITEM>[뛰어난 사냥꾼의 증표]<INFO>1000235</INFO></ITEM>를 가지고 계시다면 증표 1개당 <ITEM>[선택의 장미]<INFO>23533</INFO></ITEM> 3개로 교환해드리겠습니다.",
+        "en": "[General Jang]\nAh! If you have an <ITEM>[Hunting Insignia]<INFO>1000235</INFO></ITEM>, I will exchange it for 3 <ITEM>[Vote Roses]<INFO>23533</INFO></ITEM>.",
+        "pt": "[General Jang]\nAh! Se você tiver uma <ITEM>[Insígnia de Caça]<INFO>1000235</INFO></ITEM>, eu troco por 3 <ITEM>[Rosas-de-Voto]<INFO>23533</INFO></ITEM>.",
+        "es": "[General Jang]\n¡Ah! Si tienes una <ITEM>[Insignia de Caza]<INFO>1000235</INFO></ITEM>, yo la cambio por 3 <ITEM>[Rosa de la Elección]<INFO>23533</INFO></ITEM>."
     },
     "0lahDA": {
-        "ko": "[부관 장하성]\n무엇을 도와드릴까요?"
+        "ko": "[부관 장하성]\n무엇을 도와드릴까요?",
+        "en": "[General Jang]\nWhat do you wish?",
+        "pt": "[General Jang]\nO que você deseja?",
+        "es": "[General Jang]\n¿Qué deseas?"
     },
     "01ahDA": {
-        "ko": "뽑기를 진행한다."
+        "ko": "뽑기를 진행한다.",
+        "en": "Try your luck",
+        "pt": "Tentar a sorte",
+        "es": "Intentar la suerte"
     },
     "1FahDA": {
-        "ko": "버프를 받는다."
+        "ko": "버프를 받는다.",
+        "en": "Receive a bonus.",
+        "pt": "Receber um bônus.",
+        "es": "Recibir una bonificación."
     },
     "1VahDA": {
-        "ko": "증표를 선택의 장미로 교환."
+        "ko": "증표를 선택의 장미로 교환.",
+        "en": "Convert Insignias.",
+        "pt": "Converter Insígnias.",
+        "es": "Convertir Insignias."
     },
     "1lahDA": {
-        "ko": "[부관 장하성]\n^4D4DFF선택의 장미 1개로 뽑기 1회^000000를 진행할 수 있습니다, 뽑기를 진행하시겠습니까?"
+        "ko": "[부관 장하성]\n^4D4DFF선택의 장미 1개로 뽑기 1회^000000를 진행할 수 있습니다, 뽑기를 진행하시겠습니까?",
+        "en": "[General Jang]\nI will give you a ^4D4DFFrandom prize^000000 at the cost of 1 <ITEM>[Vote Rose]<INFO>23533</INFO></ITEM>, do you wish to continue?",
+        "pt": "[General Jang]\nVou te dar um ^4D4DFFprêmio aleatório^000000 ao custo de 1 <ITEM>[Rosa-de-Voto]<INFO>23533</INFO></ITEM>, quer continuar?",
+        "es": "[General Jang]\nTe daré un ^4D4DFFpremio aleatorio^000000 al costo de 1 <ITEM>[Rosa de la Elección]<INFO>23533</INFO></ITEM>, ¿quieres continuar?"
     },
     "11ahDA": {
-        "ko": "[부관 장하성]\n뽑기를 한번 더 진행하시겠습니까?"
+        "ko": "[부관 장하성]\n뽑기를 한번 더 진행하시겠습니까?",
+        "en": "[General Jang]\nDo you wish to continue trying your luck?",
+        "pt": "[General Jang]\nDeseja continuar tentando a sorte?",
+        "es": "[General Jang]\n¿Deseas continuar intentando la suerte?"
     },
     "2FahDA": {
-        "ko": "진행한다."
+        "ko": "진행한다.",
+        "en": "Continue.",
+        "pt": "Continuar.",
+        "es": "Continuar."
     },
     "2VahDA": {
-        "ko": "진행하지 않는다."
+        "ko": "진행하지 않는다.",
+        "en": "Stop.",
+        "pt": "Parar.",
+        "es": "Parar."
     },
     "2lahDA": {
-        "ko": "[부관 장하성]\n행운이 깃드셨기를 바랍니다."
+        "ko": "[부관 장하성]\n행운이 깃드셨기를 바랍니다.",
+        "en": "[General Jang]\nI hope luck is with you.",
+        "pt": "[General Jang]\nEspero que a sorte esteja com você.",
+        "es": "[General Jang]\nEspero que la suerte esté contigo."
     },
     "21ahDA": {
-        "ko": "[부관 장하성]\n<ITEM>[선택의 장미]<INFO>23533</INFO></ITEM>를 가지고 계시지 않군요."
+        "ko": "[부관 장하성]\n<ITEM>[선택의 장미]<INFO>23533</INFO></ITEM>를 가지고 계시지 않군요.",
+        "en": "[General Jang]\nIt seems you don't have <ITEM>[Vote Rose]<INFO>23533</INFO></ITEM>.",
+        "pt": "[General Jang]\nParece que você não tem <ITEM>[Rosa-de-Voto]<INFO>23533</INFO></ITEM>.",
+        "es": "[General Jang]\nParece que no tienes <ITEM>[Rosa de la Elección]<INFO>23533</INFO></ITEM>."
     },
     "3FahDA": {
-        "ko": "[부관 장하성]\n장미를 얻게 되시면 사냥대회가 끝나기 전에 오셔서 뽑기를 진행하시기를 바랍니다."
+        "ko": "[부관 장하성]\n장미를 얻게 되시면 사냥대회가 끝나기 전에 오셔서 뽑기를 진행하시기를 바랍니다.",
+        "en": "[General Jang]\nI recommend doing hunting missions to get more.",
+        "pt": "[General Jang]\nRecomendo fazer missões de caçada para conseguir mais.",
+        "es": "[General Jang]\nRecomiendo hacer misiones de cacería para conseguir más."
     },
     "3VahDA": {
-        "ko": "[부관 장하성]\n장미를 얻게 되시면 사냥대회가 끝나기 전에 오셔서 뽑기를 진행하시길 바랍니다."
+        "ko": "[부관 장하성]\n장미를 얻게 되시면 사냥대회가 끝나기 전에 오셔서 뽑기를 진행하시길 바랍니다.",
+        "en": "[General Jang]\nTry it at least once, you won't regret it.",
+        "pt": "[General Jang]\nExperimente pelo menos uma vez, você não vai se arrepender.",
+        "es": "[General Jang]\nPruébalo al menos una vez, no te arrepentirás."
     },
     "3lahDA": {
-        "ko": "[부관 장하성]\n<ITEM>[선택의 장미]<INFO>23533</INFO></ITEM> 1개를 주시면 사냥에 도움이 되는 버프를 제공해드리겠습니다."
+        "ko": "[부관 장하성]\n<ITEM>[선택의 장미]<INFO>23533</INFO></ITEM> 1개를 주시면 사냥에 도움이 되는 버프를 제공해드리겠습니다.",
+        "en": "[General Jang]\nFor 1 <ITEM>[Vote Rose]<INFO>23533</INFO></ITEM>, I can guarantee a special effect for you~!",
+        "pt": "[General Jang]\nPor 1 <ITEM>[Rosa-de-Voto]<INFO>23533</INFO></ITEM>, posso garantir um efeito especial pra você~!",
+        "es": "[General Jang]\nPor 1 <ITEM>[Rosa de la Elección]<INFO>23533</INFO></ITEM>, puedo garantizarte un efecto especial para ti~!"
     },
     "31ahDA": {
-        "ko": "[부관 장하성]\n제공해 드릴 수 있는 버프는 3종류가 있는데 어떤 것으로 선택하시겠어요?"
+        "ko": "[부관 장하성]\n제공해 드릴 수 있는 버프는 3종류가 있는데 어떤 것으로 선택하시겠어요?",
+        "en": "[General Jang]\nThere are three types of bonuses I can provide. Which one would you like to choose?",
+        "pt": "[General Jang]\nHá três tipos de bônus que posso fornecer. Qual você gostaria de escolher?",
+        "es": "[General Jang]\nHay tres tipos de bonificaciones que puedo proporcionar. ¿Cuál te gustaría elegir?"
     },
     "4FahDA": {
-        "ko": "사냥꾼의 힘"
+        "ko": "사냥꾼의 힘",
+        "en": "Hunting Power",
+        "pt": "Poder de Caça",
+        "es": "Poder de Caza"
     },
     "4VahDA": {
-        "ko": "사냥꾼의 지혜"
+        "ko": "사냥꾼의 지혜",
+        "en": "Hunting Wisdom",
+        "pt": "Sabedoria de Caça",
+        "es": "Sabiduría de Caza"
     },
     "4lahDA": {
-        "ko": "사냥꾼의 날렵함"
+        "ko": "사냥꾼의 날렵함",
+        "en": "Hunting Agility",
+        "pt": "Rapidez de Caça",
+        "es": "Rapidez de Caza"
     },
     "41ahDA": {
-        "ko": "[부관 장하성]\n좋습니다. 이야압!!"
+        "ko": "[부관 장하성]\n좋습니다. 이야압!!",
+        "en": "[General Jang]\nGreat choice!!",
+        "pt": "[General Jang]\nBoa escolha!!",
+        "es": "[General Jang]\n¡¡Buena elección!!"
     },
     "5FahDA": {
-        "ko": "[부관 장하성]\n그럼 조심히 다녀오십시오."
+        "ko": "[부관 장하성]\n그럼 조심히 다녀오십시오.",
+        "en": "[General Jang]\nPlease, take care.",
+        "pt": "[General Jang]\nPor favor, cuide-se.",
+        "es": "[General Jang]\nPor favor, cuídate."
     },
     "5VahDA": {
-        "ko": "[부관 장하성]\n<ITEM>[선택의 장미]<INFO>23533</INFO></ITEM>를 가지고 계시지 않는군요, 장미를 지참하여 저에게 와 주시길 바랍니다."
+        "ko": "[부관 장하성]\n<ITEM>[선택의 장미]<INFO>23533</INFO></ITEM>를 가지고 계시지 않는군요, 장미를 지참하여 저에게 와 주시길 바랍니다.",
+        "en": "[General Jang]\nYou don't have 1 <ITEM>[Vote Rose]<INFO>23533</INFO></ITEM>.",
+        "pt": "[General Jang]\nVocê não tem 1 <ITEM>[Rosa-de-Voto]<INFO>23533</INFO></ITEM>.",
+        "es": "[General Jang]\nNo tienes 1 <ITEM>[Rosa de la Elección]<INFO>23533</INFO></ITEM>."
     },
     "5lahDA": {
-        "ko": "[부관 장하성]\n한 번에 증표를 최대 10개까지 교환해드릴 수 있습니다. 몇 개를 교환하시겠습니까?"
+        "ko": "[부관 장하성]\n한 번에 증표를 최대 10개까지 교환해드릴 수 있습니다. 몇 개를 교환하시겠습니까?",
+        "en": "[General Jang]\nYou can exchange up to 10 Hunting Insignias at a time. How many do you wish to exchange? Please enter a number from 1 to 10.",
+        "pt": "[General Jang]\nVocê pode trocar até 10 Insígnias de Caça por vez. Por quantas deseja trocar? Por favor digite um número de 1 a 10.",
+        "es": "[General Jang]\nPuedes cambiar hasta 10 Insignias de Caza a la vez. \n¿Por cuántas deseas cambiar? \nPor favor, digita un número del 1 al 10."
     },
     "51ahDA": {
-        "ko": "[부관 장하성]\n교환이 필요하면 저를 찾아와 주세요."
+        "ko": "[부관 장하성]\n교환이 필요하면 저를 찾아와 주세요.",
+        "en": "[General Jang]\nIf you change your mind, come back to speak with me.",
+        "pt": "[General Jang]\nSe mudar de ideia, volte a falar comigo.",
+        "es": "[General Jang]\nSi cambias de opinión, vuelve a hablar conmigo."
     },
     "6FahDA": {
-        "ko": "[부관 장하성]\n증표가 부족합니다. 가방 안을 체크해보시겠어요?"
+        "ko": "[부관 장하성]\n증표가 부족합니다. 가방 안을 체크해보시겠어요?",
+        "en": "[General Jang]\nYou don't have enough Hunting Insignias for that amount of exchanges.",
+        "pt": "[General Jang]\nVocê não tem Insgínias de Caça suficientes para essa quantidade de trocas.",
+        "es": "[General Jang]\nNo tienes Insignias de Caza suficientes para esa cantidad de cambios."
     },
     "6VahDA": {
-        "ko": "[부관 장하성]\n1부터 10 사이의 숫자를 입력해주세요."
+        "ko": "[부관 장하성]\n1부터 10 사이의 숫자를 입력해주세요.",
+        "en": "[General Jang]\nPlease enter a number from 1 to 10.",
+        "pt": "[General Jang]\nPor favor digite um número de 1 a 10.",
+        "es": "[General Jang]\nPor favor, digita un número del 1 al 10."
     },
     "6lahDA": {
-        "ko": "[부관 장하성]\n자, 여기 <ITEM>[선택의 장미]<INFO>23533</INFO></ITEM>로 교환해드렸습니다."
+        "ko": "[부관 장하성]\n자, 여기 <ITEM>[선택의 장미]<INFO>23533</INFO></ITEM>로 교환해드렸습니다.",
+        "en": "[General Jang]\nI exchanged the insignias for the <ITEM>[Vote Rose]<INFO>23533</INFO></ITEM>.",
+        "pt": "[General Jang]\nTroquei as insígnias pela <ITEM>[Rosa-de-Voto]<INFO>23533</INFO></ITEM>.",
+        "es": "[General Jang]\nCambié las insignias por la <ITEM>[Rosa de la Elección]<INFO>23533</INFO></ITEM>."
     },
     "61ahDA": {
-        "ko": "[부관 장하성]\n사냥 대회에 참가하고 싶으시다면 선행 시험들을 모두 통과하신 뒤에 저에게 오시면 됩니다."
+        "ko": "[부관 장하성]\n사냥 대회에 참가하고 싶으시다면 선행 시험들을 모두 통과하신 뒤에 저에게 오시면 됩니다.",
+        "en": "[General Jang]\nAre you interested in the Royal Hunt?",
+        "pt": "[General Jang]\nVocê se interessou pela Caçada Real?",
+        "es": "[General Jang]\n¿Te interesó la Cacería Real?"
     },
     "7FahDA": {
-        "ko": "[부관 장하성]\n아직 시험을 받지 않으셨다면 <NAVI>[지휘관 나데즈다]<INFO>prt_fild01,98,171,0,101,0</INFO></NAVI>님을 찾아가 보세요."
+        "ko": "[부관 장하성]\n아직 시험을 받지 않으셨다면 <NAVI>[지휘관 나데즈다]<INFO>prt_fild01,98,171,0,101,0</INFO></NAVI>님을 찾아가 보세요.",
+        "en": "[General Jang]\nTo participate in the event, I suggest you speak with <NAVI>[Commander Nadezda]<INFO>prt_fild01,98,171,0,101,0</INFO></NAVI>.",
+        "pt": "[General Jang]\nPara participar do evento, sugiro que fale com a <NAVI>[Comandante Nadezda]<INFO>prt_fild01,98,171,0,101,0</INFO></NAVI>.",
+        "es": "[General Jang]\nPara participar en el evento, te sugiero que hables con la <NAVI>[Comandante Nadezda]<INFO>prt_fild01,98,171,0,101,0</INFO></NAVI>."
     },
     "7VahDA": {
-        "ko": "스피카 네리우스"
+        "ko": "스피카 네리우스",
+        "en": "Spica Nerius",
+        "pt": "Spica Nerius",
+        "es": "Spica Nerius"
     },
     "7lahDA": {
-        "ko": "[스피카 네리우스]\n오랜만이네, {0}. 여기서 다시 보리라고는 생각했지만 이번에도 정말 만날 줄이야."
+        "ko": "[스피카 네리우스]\n오랜만이네, {0}. 여기서 다시 보리라고는 생각했지만 이번에도 정말 만날 줄이야.",
+        "en": "[Spica Nerius]\nIt's a pleasure to see you again, {0}.",
+        "pt": "[Spica Nerius]\nÉ um prazer rever você, {0}.",
+        "es": "[Spica Nerius]\nEs un placer volver a verte, {0}."
     },
     "71ahDA": {
-        "ko": "안부를 묻는다."
+        "ko": "안부를 묻는다.",
+        "en": "How are you?",
+        "pt": "Como você está?",
+        "es": "¿Cómo estás?"
     },
     "8FahDA": {
-        "ko": "특별한 카드를 교환한다."
+        "ko": "특별한 카드를 교환한다.",
+        "en": "Exchange Autographed Card.",
+        "pt": "Trocar Carta Autógrafo.",
+        "es": "Cambiar Carta Firmada."
     },
     "8VahDA": {
-        "ko": "[스피카 네리우스]\n행사에 생각보다 지원자가 적어서 말이지.\n왕가의 행사가 구색을 맞추지 못하는 것도 원하지 않는 바이니, 이 몸이 네리우스 가의 대표로 참석하였네."
+        "ko": "[스피카 네리우스]\n행사에 생각보다 지원자가 적어서 말이지.\n왕가의 행사가 구색을 맞추지 못하는 것도 원하지 않는 바이니, 이 몸이 네리우스 가의 대표로 참석하였네.",
+        "en": "[Spica Nerius]\nI am well, thank you for asking.\nThe royal hunts serve to bring the royal family closer to the common people.",
+        "pt": "[Spica Nerius]\nEstou bem, obrigada por perguntar.\nAs caçadas reais servem para aproximar a família real da plebe.",
+        "es": "[Spica Nerius]\nEstoy bien, gracias por preguntar.\nLas cacerías reales sirven para acercar a la familia real con el pueblo."
     },
     "8lahDA": {
-        "ko": "[스피카 네리우스]\n이런 행사에 나오는 것을 내 반쪽이 재미있어하기도 하고 말이야."
+        "ko": "[스피카 네리우스]\n이런 행사에 나오는 것을 내 반쪽이 재미있어하기도 하고 말이야.",
+        "en": "[Spica Nerius]\nI am the representative of the Nerius family, but my twin sister is also here.",
+        "pt": "[Spica Nerius]\nEu sou a representante da família Nerius, mas minha irmã gêmea está aqui também.",
+        "es": "[Spica Nerius]\nYo soy la representante de la familia Nerius, pero mi hermana gemela también está aquí."
     },
     "81ahDA": {
-        "ko": "[스피카 네리우스]\n작년만큼 의욕이 넘쳐 보이지는 않는다만.. 후후."
+        "ko": "[스피카 네리우스]\n작년만큼 의욕이 넘쳐 보이지는 않는다만.. 후후.",
+        "en": "[Spica Nerius]\nShe doesn't seem to be as focused on the hunt.",
+        "pt": "[Spica Nerius]\nEla parece não estar tão concentrada na caçada assim.",
+        "es": "[Spica Nerius]\nElla parece no estar tan concentrada en la cacería."
     },
     "9FahDA": {
-        "ko": "스키아 : 내, 내가 뭐 어떻다고 그래!"
+        "ko": "스키아 : 내, 내가 뭐 어떻다고 그래!",
+        "en": "Skia: Ah... Nihil...",
+        "pt": "Skia: Ah... Nihil...",
+        "es": "Skia: Ah... Nihil..."
     },
     "9VahDA": {
-        "ko": "[스피카 네리우스]\n아무튼 즐기도록 하시게. {0} 님. 이건 당신과 같은 이들을 위해 준비된 행사이니."
+        "ko": "[스피카 네리우스]\n아무튼 즐기도록 하시게. {0} 님. 이건 당신과 같은 이들을 위해 준비된 행사이니.",
+        "en": "[Spica Nerius]\nWell, {0}. Have fun in the hunt, we prepared this event for people like you.",
+        "pt": "[Spica Nerius]\nBom, {0}. Divirta-se na caçada, preparamos esse evento para pessoas como você.",
+        "es": "[Spica Nerius]\nBueno, {0}. Diviértete en la cacería, preparamos este evento para personas como tú."
     },
     "9lahDA": {
-        "ko": "[스피카 네리우스]\n손도 무겁고, 마음도 무겁군. 무슨 고민이라도 있는가?"
+        "ko": "[스피카 네리우스]\n손도 무겁고, 마음도 무겁군. 무슨 고민이라도 있는가?",
+        "en": "[Spica Nerius]\nYour hand is heavy, and your heart seems heavy too. Are you worried about something?",
+        "pt": "[Spica Nerius]\nSua mão está pesada, e seu coração parece pesado também. Está preocupado com algo?",
+        "es": "[Spica Nerius]\nTu mano está pesada, y tu corazón parece pesado también. \n¿Estás preocupado por algo?"
     },
     "91ahDA": {
-        "ko": "[스피카 네리우스]\n마음은 당장 가볍게 할 수 없겠지만 손은 할 수 있겠지. 기분 전환 삼아 좀 정리하고 다시 오게."
+        "ko": "[스피카 네리우스]\n마음은 당장 가볍게 할 수 없겠지만 손은 할 수 있겠지. 기분 전환 삼아 좀 정리하고 다시 오게.",
+        "en": "[Spica Nerius]\nI feel a weight coming from inside your heart. Isn't it better to relieve that emotional burden?",
+        "pt": "[Spica Nerius]\nEu sinto um peso vindo de dentro do seu coração. Não é melhor aliviar essa carga emocional?",
+        "es": "[Spica Nerius]\nSiento un peso viniendo desde dentro de tu corazón. \n¿No es mejor aliviar esa carga emocional?"
     },
     "+FahDA": {
-        "ko": "- 가방이 가득 찼습니다. 가방을 비우고 다시 말을 걸어 주세요. -"
+        "ko": "- 가방이 가득 찼습니다. 가방을 비우고 다시 말을 걸어 주세요. -",
+        "en": "- Empty your inventory to continue. -",
+        "pt": "- Esvazie seu inventário para continuar. -",
+        "es": "- Vacía tu inventario para continuar. -"
     },
     "+VahDA": {
-        "ko": "[스피카 네리우스]\n내 이름을 새긴 카드를 100장 모아 가져왔군. 원한다면 특별한 카드 1장으로 바꿔주겠네."
+        "ko": "[스피카 네리우스]\n내 이름을 새긴 카드를 100장 모아 가져왔군. 원한다면 특별한 카드 1장으로 바꿔주겠네.",
+        "en": "[Spica Nerius]\nIf you bring me 100 of my autographs, I can give you 1 Card with my name.",
+        "pt": "[Spica Nerius]\nSe você me trouxer 100 Carta Autógrafos meus, posso te dar 1 Carta com o meu nome.",
+        "es": "[Spica Nerius]\nSi me traes 100 Carta Firmadas mías, puedo darte 1 Carta con mi nombre."
     },
     "+lahDA": {
-        "ko": "사양한다."
+        "ko": "사양한다.",
+        "en": "Refuse.",
+        "pt": "Recusar.",
+        "es": "Rechazar."
     },
     "+1ahDA": {
-        "ko": "요청한다."
+        "ko": "요청한다.",
+        "en": "Exchange 100 autographs.",
+        "pt": "Trocar 100 autógrafos.",
+        "es": "Cambiar 100 Carta Firmadas."
     },
     "/FahDA": {
-        "ko": "[스피카 네리우스]\n같은 카드를 백몇 장씩 가지고 다닐 필요가 무엇인지 모르겠군. 뭐, 알았네."
+        "ko": "[스피카 네리우스]\n같은 카드를 백몇 장씩 가지고 다닐 필요가 무엇인지 모르겠군. 뭐, 알았네.",
+        "en": "[Spica Nerius]\nI don't know why you need 100 of my autographs, but... it's okay, right?",
+        "pt": "[Spica Nerius]\nNão sei porque você precisa de 100 autógrafos meus, mas... tudo bem, né?",
+        "es": "[Spica Nerius]\nNo sé por qué necesitas 100 Carta firmadas por mí, pero... está bien, ¿no?"
     },
     "/VahDA": {
-        "ko": "[스피카 네리우스]\n이 카드는 {0} 님이 앞으로 여행하는 데 도움이 되도록 조금 손을 써 두었네.\n뭐, 그저 이름만 새겨진 카드로는 아쉽지 않겠나?"
+        "ko": "[스피카 네리우스]\n이 카드는 {0} 님이 앞으로 여행하는 데 도움이 되도록 조금 손을 써 두었네.\n뭐, 그저 이름만 새겨진 카드로는 아쉽지 않겠나?",
+        "en": "[Spica Nerius]\nI exchanged the autographs for you, {0}.\nI thank you from the bottom of my heart.",
+        "pt": "[Spica Nerius]\nTroquei os autógrafos pra você, {0}.\nAgradeço do fundo do meu coração.",
+        "es": "[Spica Nerius]\nCambié las Cartas Firmadas para ti, {0}.\nTe agradezco desde el fondo de mi corazón."
     },
     "/lahDA": {
-        "ko": "[스피카 네리우스]\n잠깐, 내 눈은 피할 수 없지. 카드가 부족하지 않나. 필요한 수량은 100장이네."
+        "ko": "[스피카 네리우스]\n잠깐, 내 눈은 피할 수 없지. 카드가 부족하지 않나. 필요한 수량은 100장이네.",
+        "en": "[Spica Nerius]\nYou don't have 100 autographs with my name. Better check again.",
+        "pt": "[Spica Nerius]\nVocê não tem 100 autógrafos com meu nome. Melhor verificar novamente.",
+        "es": "[Spica Nerius]\nNo tienes 100 Cartas Firmadas con mi nombre. \nMejor verifica nuevamente."
     },
     "/1ahDA": {
-        "ko": "[스피카 네리우스]\n내 이름이 새겨진 카드를 100장 가져오면 좀더 특별한 카드로 바꾸어 주겠네. 지금은 수량이 모자라군."
+        "ko": "[스피카 네리우스]\n내 이름이 새겨진 카드를 100장 가져오면 좀더 특별한 카드로 바꾸어 주겠네. 지금은 수량이 모자라군.",
+        "en": "[Spica Nerius]\nIf you bring me 100 of my autographs, I can give you 1 Card with my name. You don't have enough at the moment.",
+        "pt": "[Spica Nerius]\nSe você me trouxer 100 Carta Autógrafos meus, posso te dar 1 Carta com o meu nome. Você não tem o suficiente no momento.",
+        "es": "[Spica Nerius]\nSi me traes 100 Carta Firmadas mías, puedo darte 1 Carta con mi nombre. \nNo tienes suficiente en este momento."
     },
     "AFehDA": {
-        "ko": "스키아 네리우스"
+        "ko": "스키아 네리우스",
+        "en": "Skia Nerius",
+        "pt": "Skia Nerius",
+        "es": "Skia Nerius"
     },
     "AVehDA": {
-        "ko": "[스키아 네리우스]\n네리우스 가의 스키아입니다."
+        "ko": "[스키아 네리우스]\n네리우스 가의 스키아입니다.",
+        "en": "[Skia Nerius]\nI am Skia of the Nerius family.",
+        "pt": "[Skia Nerius]\nEu sou Skia da família Nerius.",
+        "es": "[Skia Nerius]\nYo soy Skia de la familia Nerius."
     },
     "AlehDA": {
-        "ko": "[스키아 네리우스]\n안녕하세요! 오랜만이에요 모험가님. 사냥대회를 즐기고 계신가요?\n저도 즐겁답니다!"
+        "ko": "[스키아 네리우스]\n안녕하세요! 오랜만이에요 모험가님. 사냥대회를 즐기고 계신가요?\n저도 즐겁답니다!",
+        "en": "[Skia Nerius]\nI am well, and you?\nAre you having fun with the hunts?",
+        "pt": "[Skia Nerius]\nVou bem e você?\nEstá se divertindo com as caçadas?",
+        "es": "[Skia Nerius]\nEstoy bien, ¿y tú?\n¿Te estás divirtiendo con las cacerías?"
     },
     "A1ehDA": {
-        "ko": "[스키아 네리우스]\n보셨나요? 이번에도 저를 위한 카드가 만들어졌답니다.\n아, 저를 위했다기보다는 모험가님을 위한다는 게 맞지만요! 하지만 저를 위한 것도 맞지요!"
+        "ko": "[스키아 네리우스]\n보셨나요? 이번에도 저를 위한 카드가 만들어졌답니다.\n아, 저를 위했다기보다는 모험가님을 위한다는 게 맞지만요! 하지만 저를 위한 것도 맞지요!",
+        "en": "[Skia Nerius]\nDid you see?\nThey made a card with my picture!",
+        "pt": "[Skia Nerius]\nVocê viu?\nFizeram uma carta com a minha foto!",
+        "es": "[Skia Nerius]\n¿Viste?\n¡Hicieron una carta con mi foto!"
     },
     "BFehDA": {
-        "ko": "[스키아 네리우스]\n아무튼 제 카드도 무척 예쁘답니다!\n저는 한 장씩 받아 두었어요. 소지품에 끼워서 가지고 다닐 거랍니다."
+        "ko": "[스키아 네리우스]\n아무튼 제 카드도 무척 예쁘답니다!\n저는 한 장씩 받아 두었어요. 소지품에 끼워서 가지고 다닐 거랍니다.",
+        "en": "[Skia Nerius]\nIt's not my best angle, but\nstill, it's a pretty picture.",
+        "pt": "[Skia Nerius]\nNão é o meu melhor ângulo, mas\nainda assim, é uma foto bonita.",
+        "es": "[Skia Nerius]\nNo es mi mejor ángulo, pero\naun así, es una foto bonita."
     },
     "BVehDA": {
-        "ko": "[스키아 네리우스]\n그리고…"
+        "ko": "[스키아 네리우스]\n그리고…",
+        "en": "[Skia Nerius]\nI am prettier than my sister and...",
+        "pt": "[Skia Nerius]\nEu sou mais bonita que a minha irmã e...",
+        "es": "[Skia Nerius]\nYo soy más bonita que mi hermana y..."
     },
     "BlehDA": {
-        "ko": "스피카 : 흠, 흠. 내 반쪽?"
+        "ko": "스피카 : 흠, 흠. 내 반쪽?",
+        "en": "Spica: We are identical twins, Skia.",
+        "pt": "Spica: Nós somos gêmeas idênticas, Skia.",
+        "es": "Spica: Somos gemelas idénticas, Skia."
     },
     "B1ehDA": {
-        "ko": "[스키아 네리우스]\n아. 오래 붙들어서 죄송합니다.\n바쁘시지요? 모험가님들은 항상! 자, 이제 사냥을 하러 가셔요!"
+        "ko": "[스키아 네리우스]\n아. 오래 붙들어서 죄송합니다.\n바쁘시지요? 모험가님들은 항상! 자, 이제 사냥을 하러 가셔요!",
+        "en": "[Skia Nerius]\nAh, were you listening, Spica?\nWell, traveler, thanks for the conversation, hehehe!",
+        "pt": "[Skia Nerius]\nAh, você estava ouvindo, Spica?\nBom, viajante, obrigada pela conversa, hehehe!",
+        "es": "[Skia Nerius]\nAh, ¿estabas escuchando, Spica?\nBueno, trotamundos, gracias por la conversación, ¡jejeje!"
     },
     "CFehDA": {
-        "ko": "[스키아 네리우스]\n앗, 모험가님 가방이 많이 무거워 보이십니다."
+        "ko": "[스키아 네리우스]\n앗, 모험가님 가방이 많이 무거워 보이십니다.",
+        "en": "[Skia Nerius]\nOh, traveler... so much burden on those shoulders.",
+        "pt": "[Skia Nerius]\nOh, viajante... tanto fardo nesses ombros.",
+        "es": "[Skia Nerius]\nOh, trotamundos... tanto peso en esos hombros."
     },
     "CVehDA": {
-        "ko": "[스키아 네리우스]\n보다 안전한 교환을 위해 가방을 조금만 비우고 와 주시겠어요??"
+        "ko": "[스키아 네리우스]\n보다 안전한 교환을 위해 가방을 조금만 비우고 와 주시겠어요??",
+        "en": "[Skia Nerius]\nWhy not lighten your load and come speak with me again??",
+        "pt": "[Skia Nerius]\nPorque não alivia sua carga e volte a falar comigo??",
+        "es": "[Skia Nerius]\n¿Por qué no alivias tu carga y vuelves a hablar conmigo?"
     },
     "ClehDA": {
-        "ko": "[스키아 네리우스]\n저를 위해 만들어진 카드를 100장 가져오시면, 더욱 유용하고 아름다운 카드 1장으로 바꾸어 드릴 수 있어요!"
+        "ko": "[스키아 네리우스]\n저를 위해 만들어진 카드를 100장 가져오시면, 더욱 유용하고 아름다운 카드 1장으로 바꾸어 드릴 수 있어요!",
+        "en": "[Skia Nerius]\nDid you collect 100 autographs with my name? I can exchange them for 1 Skia Card.",
+        "pt": "[Skia Nerius]\nVocê juntou 100 autógrafos com meu nome? Posso trocá-los por 1 Carta Skia.",
+        "es": "[Skia Nerius]\n¿Juntaste 100 Carta Firmadas con mi nombre? \nPuedo cambiártelos por 1 Carta Skia."
     },
     "C1ehDA": {
-        "ko": "[스키아 네리우스]\n어머, 모험가님. 그냥 카드 100장도 좋지만, 특별한 카드 1장은 더 좋아요!"
+        "ko": "[스키아 네리우스]\n어머, 모험가님. 그냥 카드 100장도 좋지만, 특별한 카드 1장은 더 좋아요!",
+        "en": "[Skia Nerius]\nDon't you think it's strange to keep 100 autographs with my picture?",
+        "pt": "[Skia Nerius]\nNão acha estranho guardar 100 autógrafos com a minha foto?",
+        "es": "[Skia Nerius]\n¿No te parece extraño guardar 100 Carta Firmadas con mi foto?"
     },
     "DFehDA": {
-        "ko": "[스키아 네리우스]\n어머, 모험가님. 그냥 카드 100장도 좋지만, 특별한 카드 1장은 더 좋답니다!\n여기, 분명 좋아하시겠지요. 잘 써 주세요!"
+        "ko": "[스키아 네리우스]\n어머, 모험가님. 그냥 카드 100장도 좋지만, 특별한 카드 1장은 더 좋답니다!\n여기, 분명 좋아하시겠지요. 잘 써 주세요!",
+        "en": "[Skia Nerius]\nI exchanged the autographs!\nThank you!",
+        "pt": "[Skia Nerius]\nTroquei os autógrafos!\nObrigada!",
+        "es": "[Skia Nerius]\n¡Cambié las Cartas Firmadas!\n¡Gracias!"
     },
     "DVehDA": {
-        "ko": "[스키아 네리우스]\n어, 모험가님. 카드가 부족하면 안 돼요. 다시 한 번 확인해 주세요!"
+        "ko": "[스키아 네리우스]\n어, 모험가님. 카드가 부족하면 안 돼요. 다시 한 번 확인해 주세요!",
+        "en": "[Skia Nerius]\nNha~ If you want 1 of my Cards, you need to bring exactly 100 Skia autographs! Myself!",
+        "pt": "[Skia Nerius]\nNha~ Se você quiser 1 Carta minha, precisa trazer exatamente 100 autógrafos da Skia! Eu mesma!",
+        "es": "[Skia Nerius]\n¡Nha~ Si quieres 1 Carta mía, necesitas traer exactamente 100 Carta Firmadas de Skia! \n¡Yo misma!"
     },
     "DlehDA": {
-        "ko": "[스키아 네리우스]\n어, 모험가님. 카드가 부족하면 바꿔 드릴 수 없어요. 다시 한 번 확인해 주시겠어요?"
+        "ko": "[스키아 네리우스]\n어, 모험가님. 카드가 부족하면 바꿔 드릴 수 없어요. 다시 한 번 확인해 주시겠어요?",
+        "en": "[Skia Nerius]\nIf you bring me 100 of my autographs, I can give you 1 Card with my name. You don't have enough at the moment.",
+        "pt": "[Skia Nerius]\nSe você me trouxer 100 Carta Autógrafos meus, posso te dar 1 Carta com o meu nome. Você não tem o suficiente no momento.",
+        "es": "[Skia Nerius]\nSi me traes 100 Carta Firmadas míos, puedo darte 1 Carta con mi nombre. \nNo tienes suficiente en este momento."
     },
     "D1ehDA": {
-        "ko": "아그네스 뢰겐부르그"
+        "ko": "아그네스 뢰겐부르그",
+        "en": "Agnes Lugenburg",
+        "pt": "Agnes Lugenburg",
+        "es": "Agnes Lugenburg"
     },
     "EFehDA": {
-        "ko": "[아그네스 뢰겐부르그]\n오랜만이에요, {0} 님! 모험가님들을 모시는 행사라고 해서, 만날 수 있을까 기대했어요."
+        "ko": "[아그네스 뢰겐부르그]\n오랜만이에요, {0} 님! 모험가님들을 모시는 행사라고 해서, 만날 수 있을까 기대했어요.",
+        "en": "[Agnes Lugenburg]\nGreetings, {0}.",
+        "pt": "[Agnes Lugenburg]\nSaudações, {0}.",
+        "es": "[Agnes Lugenburg]\nSaludos, {0}."
     },
     "EVehDA": {
-        "ko": "[아그네스 뢰겐부르그]\n오늘은 제 마음에 쏙 드는 드레스를 입어서 기분이 좋답니다. 손수건도 잔뜩 준비했고요!"
+        "ko": "[아그네스 뢰겐부르그]\n오늘은 제 마음에 쏙 드는 드레스를 입어서 기분이 좋답니다. 손수건도 잔뜩 준비했고요!",
+        "en": "[Agnes Lugenburg]\nToday the weather is perfect to wear my favorite little dress!",
+        "pt": "[Agnes Lugenburg]\nHoje o clima está perfeito para usar meu vestidinho favorito!",
+        "es": "[Agnes Lugenburg]\n¡Hoy el clima está perfecto para usar mi vestidito favorito!"
     },
     "ElehDA": {
-        "ko": "[아그네스 뢰겐부르그]\n저는 즐거워요! 왕가의 영애라면 사냥대회에 나와 뭇 기사님들의 마음을 받아 드려야 한다고 배웠거든요."
+        "ko": "[아그네스 뢰겐부르그]\n저는 즐거워요! 왕가의 영애라면 사냥대회에 나와 뭇 기사님들의 마음을 받아 드려야 한다고 배웠거든요.",
+        "en": "[Agnes Lugenburg]\nI am very happy! As a member of the royal family of the house of Lugenburg, I must observe the participants in the hunt.",
+        "pt": "[Agnes Lugenburg]\nEu estou muito feliz! Como membro da família real da casa dos Lugenburg, eu devo observar os participantes na caçada.",
+        "es": "[Agnes Lugenburg]\n¡Estoy muy feliz! \nComo miembro de la familia real de la casa de los Lugenburg, debo observar a los participantes en la cacería."
     },
     "E1ehDA": {
-        "ko": "[아그네스 뢰겐부르그]\n그럴 기회가 생겨서 무척 기뻐요!"
+        "ko": "[아그네스 뢰겐부르그]\n그럴 기회가 생겨서 무척 기뻐요!",
+        "en": "[Agnes Lugenburg]\nI am so happy to get out of the palace a little!",
+        "pt": "[Agnes Lugenburg]\nFico muito feliz por sair um pouco do palácio!",
+        "es": "[Agnes Lugenburg]\n¡Me alegro mucho de salir un poco del palacio!"
     },
     "FFehDA": {
-        "ko": "[아그네스 뢰겐부르그]\n어머! 무척 무거워보이는 가방을 들고 계시네요. 괜찮으신가요?"
+        "ko": "[아그네스 뢰겐부르그]\n어머! 무척 무거워보이는 가방을 들고 계시네요. 괜찮으신가요?",
+        "en": "[Agnes Lugenburg]\nLook, I know a lot about dresses, but that outfit of yours... isn't it too heavy?",
+        "pt": "[Agnes Lugenburg]\nOlha, eu entendo muito de vestidos, mas essa sua roupa aí... não está muito pesada?",
+        "es": "[Agnes Lugenburg]\nMira, yo entiendo mucho de vestidos, pero esa tu ropa ahí... ¿no está muy pesada?"
     },
     "FVehDA": {
-        "ko": "[아그네스 뢰겐부르그]\n너무 무거운 가방은 곧은 자세의 적이랍니다. 조금 정리하고 오시는 게 좋겠어요."
+        "ko": "[아그네스 뢰겐부르그]\n너무 무거운 가방은 곧은 자세의 적이랍니다. 조금 정리하고 오시는 게 좋겠어요.",
+        "en": "[Agnes Lugenburg]\nLet's do it this way, go to the Kafra and put your things there.",
+        "pt": "[Agnes Lugenburg]\nVamos fazer assim, vá na Kafra e coloque suas coisas lá.",
+        "es": "[Agnes Lugenburg]\nVamos a hacer así, ve a la Kafra y guarda tus cosas ahí."
     },
     "FlehDA": {
-        "ko": "[아그네스 뢰겐부르그]\n제 이름이 쓰인 카드를 100장 모아 가지고 오셨군요. 원하신다면 좀더 특별한 카드 1장으로 바꿔드릴 수 있어요."
+        "ko": "[아그네스 뢰겐부르그]\n제 이름이 쓰인 카드를 100장 모아 가지고 오셨군요. 원하신다면 좀더 특별한 카드 1장으로 바꿔드릴 수 있어요.",
+        "en": "[Agnes Lugenburg]\nHey! Did you collect 100 autographs with my name? How about exchanging them for 1 Card with my name?",
+        "pt": "[Agnes Lugenburg]\nEi! Você juntou 100 autógrafos com meu nome? Que tal trocar por 1 Carta com o meu nome?",
+        "es": "[Agnes Lugenburg]\n¡Oye! \n¿Juntaste 100 Carta Firmadas con mi nombre? \n¿Qué tal cambiarlos por 1 Carta con mi nombre?"
     },
     "F1ehDA": {
-        "ko": "[아그네스 뢰겐부르그]\n으음~ 네에. 하지만 꼭 바꿔드리고 싶은걸요. 한 번 더 생각해 주시지 않으시겠어요?"
+        "ko": "[아그네스 뢰겐부르그]\n으음~ 네에. 하지만 꼭 바꿔드리고 싶은걸요. 한 번 더 생각해 주시지 않으시겠어요?",
+        "en": "[Agnes Lugenburg]\nOh my! All those autographs...",
+        "pt": "[Agnes Lugenburg]\nAi ai! Todos esses autógrafos...",
+        "es": "[Agnes Lugenburg]\n¡Ay ay! \nTodos esos autógrafos..."
     },
     "GFehDA": {
-        "ko": "[아그네스 뢰겐부르그]\n이 카드는 {0} 님이 앞으로 더 멋진 모험을 하시는데 도움이 될 수 있도록 조금 애를 써 보았어요. 부디 마음에 드셨으면."
+        "ko": "[아그네스 뢰겐부르그]\n이 카드는 {0} 님이 앞으로 더 멋진 모험을 하시는데 도움이 될 수 있도록 조금 애를 써 보았어요. 부디 마음에 드셨으면.",
+        "en": "[Agnes Lugenburg]\nAh, {0}, thank you!",
+        "pt": "[Agnes Lugenburg]\nAh, {0}, obrigadinha!",
+        "es": "[Agnes Lugenburg]\nAh, {0}, ¡gracias!"
     },
     "GVehDA": {
-        "ko": "[아그네스 뢰겐부르그]\n제가 잠시 착각한 모양이에요. 카드가 부족하네... 한 번 더 세 볼까요?"
+        "ko": "[아그네스 뢰겐부르그]\n제가 잠시 착각한 모양이에요. 카드가 부족하네... 한 번 더 세 볼까요?",
+        "en": "[Agnes Lugenburg]\nBring me 100 autographed cards with my name to earn a special card of mine!",
+        "pt": "[Agnes Lugenburg]\nTraga-me 100 carta autógrafos com meu nome para ganhar uma carta especial minha!",
+        "es": "[Agnes Lugenburg]\n¡Tráeme 100 cartas firmadas con mi nombre para ganar una carta especial mía!"
     },
     "GlehDA": {
-        "ko": "[아그네스 뢰겐부르그]\n제 이름이 새겨진 카드를 100장 가지고 오시면 좀더 특별한 카드로 바꿔드릴 수 있어요. 잊지 마시고 꼭 바꿔서 가져가 주세요."
+        "ko": "[아그네스 뢰겐부르그]\n제 이름이 새겨진 카드를 100장 가지고 오시면 좀더 특별한 카드로 바꿔드릴 수 있어요. 잊지 마시고 꼭 바꿔서 가져가 주세요.",
+        "en": "[Agnes Lugenburg]\nIf you bring me 100 of my autographs, I can give you 1 Card with my name. You don't have enough at the moment.",
+        "pt": "[Agnes Lugenburg]\nSe você me trouxer 100 Carta Autógrafos meus, posso te dar 1 Carta com o meu nome. Você não tem o suficiente no momento.",
+        "es": "[Agnes Lugenburg]\nSi me traes 100 Carta Firmadas míos, puedo darte 1 Carta con mi nombre. No tienes suficiente en este momento."
     },
     "G1ehDA": {
-        "ko": "유르겐 위그너"
+        "ko": "유르겐 위그너",
+        "en": "Jurgen Wigner",
+        "pt": "Jurgen Wigner",
+        "es": "Jurgen Wigner"
     },
     "HFehDA": {
-        "ko": "[유르겐 위그너]\n오랜만이에요, {0} 님! 이런 행사는 되도록 자제하는 편이지만, 여러 분이 권하셔서 사냥대회에는 참석하고 말았답니다."
+        "ko": "[유르겐 위그너]\n오랜만이에요, {0} 님! 이런 행사는 되도록 자제하는 편이지만, 여러 분이 권하셔서 사냥대회에는 참석하고 말았답니다.",
+        "en": "[Jurgen Wigner]\nGreetings, {0}, I hope you are having fun.",
+        "pt": "[Jurgen Wigner]\nSaudações, {0}, espero que você esteja se divertindo.",
+        "es": "[Jurgen Wigner]\nSaludos, {0}, espero que te estés divirtiendo."
     },
     "HVehDA": {
-        "ko": "[유르겐 위그너]\n바람이 경쾌하네요. 기분이 무척 좋군요."
+        "ko": "[유르겐 위그너]\n바람이 경쾌하네요. 기분이 무척 좋군요.",
+        "en": "[Jurgen Wigner]\nThe camp is quite lively, don't you think?",
+        "pt": "[Jurgen Wigner]\nO acampamento está bem movimentado, não acha?",
+        "es": "[Jurgen Wigner]\nEl campamento está bien movido, ¿no crees?"
     },
     "HlehDA": {
-        "ko": "[유르겐 위그너]\n저야 여전히 아름다움으로 세계 평화를 지키고 있지요.\n아름다움이란 지고불변의 가치니까요."
+        "ko": "[유르겐 위그너]\n저야 여전히 아름다움으로 세계 평화를 지키고 있지요.\n아름다움이란 지고불변의 가치니까요.",
+        "en": "[Jurgen Wigner]\nI am still using my beauty to ask for World Peace.\nFor me, beauty has a supreme value.",
+        "pt": "[Jurgen Wigner]\nEu ainda estou usando a minha beleza para pedir a Paz Mundial.\nPara mim, a beleza tem um valor supremo.",
+        "es": "[Jurgen Wigner]\nYo aún estoy usando mi belleza para pedir la Paz Mundial.\nPara mí, la belleza tiene un valor supremo."
     },
     "H1ehDA": {
-        "ko": "[유르겐 위그너]\n여전히 무척 적극적으로 제 주변에 머무르시는 분들이 계셔서 혹시나 여기까지 따라오실까봐 좀 걱정했답니다."
+        "ko": "[유르겐 위그너]\n여전히 무척 적극적으로 제 주변에 머무르시는 분들이 계셔서 혹시나 여기까지 따라오실까봐 좀 걱정했답니다.",
+        "en": "[Jurgen Wigner]\nI still have some fans following me around here, so I am being careful.",
+        "pt": "[Jurgen Wigner]\nAinda tenho alguns fãs me seguindo por aqui, então estou tomando cuidado.",
+        "es": "[Jurgen Wigner]\nAún tengo algunos fans siguiéndome por aquí, así que estoy teniendo cuidado."
     },
     "IFehDA": {
-        "ko": "[유르겐 위그너]\n몇 분은 분명 따라오신 모양이지만...... 제가 걱정한 대로 몬스터에게 당하거나 경비병들에게 호된 취급을 받으신 것 같지는 않아서 다행이에요."
+        "ko": "[유르겐 위그너]\n몇 분은 분명 따라오신 모양이지만...... 제가 걱정한 대로 몬스터에게 당하거나 경비병들에게 호된 취급을 받으신 것 같지는 않아서 다행이에요.",
+        "en": "[Jurgen Wigner]\nBut I have great admiration for you, battling is not easy.",
+        "pt": "[Jurgen Wigner]\nMas eu tenho uma grande admiração por você, batalhar não é algo fácil.",
+        "es": "[Jurgen Wigner]\nPero tengo una gran admiración por ti, batallar no es algo fácil."
     },
     "IVehDA": {
-        "ko": "[유르겐 위그너]\n정말, 강한 분들이세요!"
+        "ko": "[유르겐 위그너]\n정말, 강한 분들이세요!",
+        "en": "[Jurgen Wigner]\nYou are very strong!",
+        "pt": "[Jurgen Wigner]\nVocê é muito forte!",
+        "es": "[Jurgen Wigner]\n¡Eres muy fuerte!"
     },
     "IlehDA": {
-        "ko": "[유르겐 위그너]\n너무 무거운 걸 들고 다니시면 안돼요. 체력과 건강을 소중히 여겨야지요."
+        "ko": "[유르겐 위그너]\n너무 무거운 걸 들고 다니시면 안돼요. 체력과 건강을 소중히 여겨야지요.",
+        "en": "[Jurgen Wigner]\nYou shouldn't be so overweight like this... I worry about your health.",
+        "pt": "[Jurgen Wigner]\nVocê não deveria ficar tão acima do peso assim... me preocupo com a sua saúde.",
+        "es": "[Jurgen Wigner]\nNo deberías estar tan con sobrepeso así... me preocupo por tu salud."
     },
     "I1ehDA": {
-        "ko": "[유르겐 위그너]\n가방을 정리하고 다시 와 주시겠어요?"
+        "ko": "[유르겐 위그너]\n가방을 정리하고 다시 와 주시겠어요?",
+        "en": "[Jurgen Wigner]\nTry to reduce your weight and come back here.",
+        "pt": "[Jurgen Wigner]\nTente diminuir seu peso e volte aqui.",
+        "es": "[Jurgen Wigner]\nIntenta disminuir tu peso y vuelve aquí."
     },
     "JFehDA": {
-        "ko": "[유르겐 위그너]\n제 이름이 쓰인 카드를 100장 이상 가지고 계시군요. 바라신다면 100장을 특별한 카드 1장과 교환해드릴 수 있어요."
+        "ko": "[유르겐 위그너]\n제 이름이 쓰인 카드를 100장 이상 가지고 계시군요. 바라신다면 100장을 특별한 카드 1장과 교환해드릴 수 있어요.",
+        "en": "[Jurgen Wigner]\nOooh... if you saved 100 autographed cards with my signature, I can give you 1 Card with my name.",
+        "pt": "[Jurgen Wigner]\nOooh... se você guardou 100 carta autógrafos com a minha assinatura, posso te dar 1 Carta com o meu nome.",
+        "es": "[Jurgen Wigner]\nOooh... si guardaste 100 cartas autografiadas con mi firma, puedo darte 1 Carta con mi nombre."
     },
     "JVehDA": {
-        "ko": "[유르겐 위그너]\n물론 제 이름만 쓰인 카드도 좋지만, 특별한 카드는 더욱 더 마음에 드실 거예요."
+        "ko": "[유르겐 위그너]\n물론 제 이름만 쓰인 카드도 좋지만, 특별한 카드는 더욱 더 마음에 드실 거예요.",
+        "en": "[Jurgen Wigner]\nI understand... you need many pictures of me to admire.",
+        "pt": "[Jurgen Wigner]\nEu entendo... você precisa de muitas fotos minhas para admirar.",
+        "es": "[Jurgen Wigner]\nEntiendo... necesitas muchas fotos mías para admirar."
     },
     "JlehDA": {
-        "ko": "[유르겐 위그너]\n제가 드리는 카드가 앞으로 여행하시는 데 도움이 될 수 있도록, 신경써서 만들어달라고 부탁했답니다. 분명 마음에 드실 거예요."
+        "ko": "[유르겐 위그너]\n제가 드리는 카드가 앞으로 여행하시는 데 도움이 될 수 있도록, 신경써서 만들어달라고 부탁했답니다. 분명 마음에 드실 거예요.",
+        "en": "[Jurgen Wigner]\nExchange done. Admire me in moderation.",
+        "pt": "[Jurgen Wigner]\nTroca feita. Aprecie-me com moderação.",
+        "es": "[Jurgen Wigner]\nCambio hecho. Admírame con moderación."
     },
     "J1ehDA": {
-        "ko": "[유르겐 위그너]\n어, 어? 왜 카드가 부족하지?\n......정말 왜 부족할까요? 영문을 알 수 없네요."
+        "ko": "[유르겐 위그너]\n어, 어? 왜 카드가 부족하지?\n......정말 왜 부족할까요? 영문을 알 수 없네요.",
+        "en": "[Jurgen Wigner]\nWhere are the 100 autographs? \n... I thought you liked my beauty...",
+        "pt": "[Jurgen Wigner]\nOnde estão os 100 autógrafos?\n... Eu pensei que gostasse da minha beleza...",
+        "es": "[Jurgen Wigner]\n¿Dónde están los 100 Carta Firmadas?\n...  Pensé que te gustaba mi belleza..."
     },
     "KFehDA": {
-        "ko": "[유르겐 위그너]\n제 이름이 쓰인 카드를 100장 모아 오시면 특별한 카드로 바꿔드릴 수 있어요. 마음에 쏙 드실 거예요."
+        "ko": "[유르겐 위그너]\n제 이름이 쓰인 카드를 100장 모아 오시면 특별한 카드로 바꿔드릴 수 있어요. 마음에 쏙 드실 거예요.",
+        "en": "[Jurgen Wigner]\nIf you bring me 100 of my autographs, I can give you 1 Card with my name. You don't have enough at the moment.",
+        "pt": "[Jurgen Wigner]\nSe você me trouxer 100 Carta Autógrafos meus, posso te dar 1 Carta com o meu nome. Você não tem o suficiente no momento.",
+        "es": "[Jurgen Wigner]\nSi me traes 100 Carta Firmadas míos, puedo darte 1 Carta con mi nombre. No tienes suficiente en este momento."
     },
     "KVehDA": {
-        "ko": "크로네커 G. 하이네"
+        "ko": "크로네커 G. 하이네",
+        "en": "Kronecker G. Heine",
+        "pt": "Kronecker G. Heine",
+        "es": "Kronecker G. Heine"
     },
     "KlehDA": {
-        "ko": "[크로네커 G. 하이네]\n……하이네 가의 크로네커 그란츠 하이네 대공이오."
+        "ko": "[크로네커 G. 하이네]\n……하이네 가의 크로네커 그란츠 하이네 대공이오.",
+        "en": "[Kronecker G. Heine]\nArchduke Kronecker Grantz Heine, pleasure.",
+        "pt": "[Kronecker G. Heine]\nArquiduque Kronecker Grantz Heine, prazer.",
+        "es": "[Kronecker G. Heine]\nArchiduque Kronecker Grantz Heine, un placer."
     },
     "K1ehDA": {
-        "ko": "[크로네커 G. 하이네]\n하이네는 강대한 마력의 가문.\n사냥대회에 참석하신 분들께 축복을 내려 드리지."
+        "ko": "[크로네커 G. 하이네]\n하이네는 강대한 마력의 가문.\n사냥대회에 참석하신 분들께 축복을 내려 드리지.",
+        "en": "[Kronecker G. Heine]\nThe Heine Family is made up of great mages.\nAccept this power as a courtesy for participating in the hunts.",
+        "pt": "[Kronecker G. Heine]\nA Família Heine é formada por grandes magos.\nAceite este poder como cortesia por participar das caçadas.",
+        "es": "[Kronecker G. Heine]\nLa Familia Heine está formada por grandes magos.\nAcepta este poder como cortesía por participar en las cacerías."
     },
     "LFehDA": {
-        "ko": "[크로네커 G. 하이네]\n원하는 것이 있다면 손은 가볍게, 마음은 무겁게 하시오."
+        "ko": "[크로네커 G. 하이네]\n원하는 것이 있다면 손은 가볍게, 마음은 무겁게 하시오.",
+        "en": "[Kronecker G. Heine]\nIf you want to speak with me, clean your hands and lighten your heart.",
+        "pt": "[Kronecker G. Heine]\nSe você quiser falar comigo, limpe suas mãos e alivie seu coração.",
+        "es": "[Kronecker G. Heine]\nSi quieres hablar conmigo, limpia tus manos y alivia tu corazón."
     },
     "LVehDA": {
-        "ko": "- 가방이 가득 찼습니다. 소지 무게와 소지 물품 수량 확인 뒤 다시 말을 걸어 주세요. -"
+        "ko": "- 가방이 가득 찼습니다. 소지 무게와 소지 물품 수량 확인 뒤 다시 말을 걸어 주세요. -",
+        "en": "- Empty your inventory to continue. -",
+        "pt": "- Esvazie seu inventário para continuar. -",
+        "es": "- Vacía tu inventario para continuar. -"
     },
     "LlehDA": {
-        "ko": "[크로네커 G. 하이네]\n100장의 카드를 모아 온다면 특수한 카드 1장으로 바꾸어 드리오."
+        "ko": "[크로네커 G. 하이네]\n100장의 카드를 모아 온다면 특수한 카드 1장으로 바꾸어 드리오.",
+        "en": "[Kronecker G. Heine]\nYoung one, we can make a trade. Bring me 100 autographs with my name and I will give you 1 of my Cards.",
+        "pt": "[Kronecker G. Heine]\nJovem, podemos fazer uma permuta. Traga-me 100 autógrafos com meu nome e lhe darei 1 Carta minha.",
+        "es": "[Kronecker G. Heine]\nJoven, podemos hacer un trueque. Tráeme 100 Carta Firmadas con mi nombre y te daré 1 Carta mía."
     },
     "L1ehDA": {
-        "ko": "[크로네커 G. 하이네]\n알겠네."
+        "ko": "[크로네커 G. 하이네]\n알겠네.",
+        "en": "[Kronecker G. Heine]\nAs you wish.",
+        "pt": "[Kronecker G. Heine]\nComo quiser.",
+        "es": "[Kronecker G. Heine]\nComo quieras."
     },
     "MFehDA": {
-        "ko": "[크로네커 G. 하이네]\n특수한 카드에는 능력치가 붙어 있으니 잘 쓰시오."
+        "ko": "[크로네커 G. 하이네]\n특수한 카드에는 능력치가 붙어 있으니 잘 쓰시오.",
+        "en": "[Kronecker G. Heine]\nTrade completed, have fun.",
+        "pt": "[Kronecker G. Heine]\nTroca realizada, divirta-se.",
+        "es": "[Kronecker G. Heine]\nCambio realizado, diviértete."
     },
     "MVehDA": {
-        "ko": "[크로네커 G. 하이네]\n100장이 필요하다 하였소."
+        "ko": "[크로네커 G. 하이네]\n100장이 필요하다 하였소.",
+        "en": "[Kronecker G. Heine]\nI need 100 identical autographs with my name, young one.",
+        "pt": "[Kronecker G. Heine]\nEu preciso de 100 autógrafos iguais com meu nome, jovem.",
+        "es": "[Kronecker G. Heine]\nNecesito 100 Carta Firmadas iguales con mi nombre, joven."
     },
     "MlehDA": {
-        "ko": "[크로네커 G. 하이네]\n100장이 필요하다 하였소. 원하는 것이 있다면 경청하고 행동하시오."
+        "ko": "[크로네커 G. 하이네]\n100장이 필요하다 하였소. 원하는 것이 있다면 경청하고 행동하시오.",
+        "en": "[Kronecker G. Heine]\nIf you bring me 100 of my autographs, I can give you 1 Card with my name. You don't have enough at the moment.",
+        "pt": "[Kronecker G. Heine]\nSe você me trouxer 100 Carta Autógrafos meus, posso te dar 1 Carta com o meu nome. Você não tem o suficiente no momento.",
+        "es": "[Kronecker G. Heine]\nSi me traes 100 Carta Firmadas míos, puedo darte 1 Carta con mi nombre. No tienes suficiente en este momento."
     },
     "M1ehDA": {
-        "ko": "볼프 뢰겐부르그"
+        "ko": "볼프 뢰겐부르그",
+        "en": "Wolf Lugenburg",
+        "pt": "Wolf Lugenburg",
+        "es": "Wolf Lugenburg"
     },
     "NFehDA": {
-        "ko": "[볼프 뢰겐부르그]\n사냥하기에 딱 좋은 날씨군요."
+        "ko": "[볼프 뢰겐부르그]\n사냥하기에 딱 좋은 날씨군요.",
+        "en": "[Wolf Lugenburg]\nThe weather is perfect for hunting.",
+        "pt": "[Wolf Lugenburg]\nO clima está perfeito para caça.",
+        "es": "[Wolf Lugenburg]\nEl clima está perfecto para la caza."
     },
     "NVehDA": {
-        "ko": "인사를 한다."
+        "ko": "인사를 한다.",
+        "en": "How are you?",
+        "pt": "Como você está?",
+        "es": "¿Cómo estás?"
     },
     "NlehDA": {
-        "ko": "[볼프 뢰겐부르그]\n안녕하세요 {0}님, 뢰겐부르그 가의 볼프입니다."
+        "ko": "[볼프 뢰겐부르그]\n안녕하세요 {0}님, 뢰겐부르그 가의 볼프입니다.",
+        "en": "[Wolf Lugenburg]\nHello {0}, I am Wolf, from the Lugenburg family.",
+        "pt": "[Wolf Lugenburg]\nOlá {0}, eu sou Wolf, da família Lugenburg.",
+        "es": "[Wolf Lugenburg]\nHola {0}, yo soy Wolf, de la familia Lugenburg."
     },
     "N1ehDA": {
-        "ko": "[볼프 뢰겐부르그]\n왕실 사냥대회에는 예전부터 관심이 있었지만 사정이 있어서 참가를 하지 못했어요."
+        "ko": "[볼프 뢰겐부르그]\n왕실 사냥대회에는 예전부터 관심이 있었지만 사정이 있어서 참가를 하지 못했어요.",
+        "en": "[Wolf Lugenburg]\nI am looking for some honorable competitor for this hunting event.",
+        "pt": "[Wolf Lugenburg]\nEstou à procura de algum competidor honrado para esse evento de caçada.",
+        "es": "[Wolf Lugenburg]\nEstoy buscando algún competidor honorable para este evento de cacería."
     },
     "OFehDA": {
-        "ko": "[볼프 뢰겐부르그]\n올 해는 감사하게도 기회가 닿아서 저도 구경하러 나왔답니다. 아무쪼록 의미있는 시간 보내시길 바랍니다."
+        "ko": "[볼프 뢰겐부르그]\n올 해는 감사하게도 기회가 닿아서 저도 구경하러 나왔답니다. 아무쪼록 의미있는 시간 보내시길 바랍니다.",
+        "en": "[Wolf Lugenburg]\nI appreciate the concern, it's always good to spend time with travelers.",
+        "pt": "[Wolf Lugenburg]\nAgradeço pela preocupação, é sempre bom passar um tempo com viajantes.",
+        "es": "[Wolf Lugenburg]\nAgradezco la preocupación, siempre es bueno pasar tiempo con trotamundos."
     },
     "OVehDA": {
-        "ko": "[볼프 뢰겐부르그]\n음.. 가방이 무거워 보이는군요."
+        "ko": "[볼프 뢰겐부르그]\n음.. 가방이 무거워 보이는군요.",
+        "en": "[Wolf Lugenburg]\nA true warrior would never let his bag be heavy.",
+        "pt": "[Wolf Lugenburg]\nUm guerreiro de verdade jamais deixaria sua bolsa pesada.",
+        "es": "[Wolf Lugenburg]\nUn guerrero de verdad jamás dejaría su bolsa pesada."
     },
     "OlehDA": {
-        "ko": "[볼프 뢰겐부르그]\n가방의 공간을 확보하신 뒤에 저를 다시 찾아주세요."
+        "ko": "[볼프 뢰겐부르그]\n가방의 공간을 확보하신 뒤에 저를 다시 찾아주세요.",
+        "en": "[Wolf Lugenburg]\nDo not dishonor the kingdom of Rune-Midgard.",
+        "pt": "[Wolf Lugenburg]\nNão desonre o reino de Rune-Midgard.",
+        "es": "[Wolf Lugenburg]\nNo deshonres al reino de Rune-Midgard."
     },
     "O1ehDA": {
-        "ko": "[볼프 뢰겐부르그]\n제 이름이 쓰인 카드를 100장 이상 가지고 계시는군요. 원하신다면 100장의 카드를 특별한 카드 1장으로 교환해드릴 수 있습니다."
+        "ko": "[볼프 뢰겐부르그]\n제 이름이 쓰인 카드를 100장 이상 가지고 계시는군요. 원하신다면 100장의 카드를 특별한 카드 1장으로 교환해드릴 수 있습니다.",
+        "en": "[Wolf Lugenburg]\nDo you have 100 Wolf Autograph Cards? Would you accept exchanging them for 1 Wolf Card?",
+        "pt": "[Wolf Lugenburg]\nVocê tem 100 Carta Autógrafos de Wolf? Aceitaria trocar por 1 Carta Wolf?",
+        "es": "[Wolf Lugenburg]\n¿Tienes 100 Cartas Firmadas por Wolf? ¿Aceptarías cambiarlas por 1 Carta Wolf?"
     },
     "PFehDA": {
-        "ko": "[볼프 뢰겐부르그]\n특별한 카드에는 귀중한 힘이 담겨있습니다. 다시 생각해보시는 건 어떻습니까?"
+        "ko": "[볼프 뢰겐부르그]\n특별한 카드에는 귀중한 힘이 담겨있습니다. 다시 생각해보시는 건 어떻습니까?",
+        "en": "[Wolf Lugenburg]\n... I accept your refusal.",
+        "pt": "[Wolf Lugenburg]\n... Aceito sua recusa.",
+        "es": "[Wolf Lugenburg]\n... Acepto tu negativa."
     },
     "PVehDA": {
-        "ko": "[볼프 뢰겐부르그]\n부디 이 카드가 {0}님의 모험에 도움이 되었으면 좋겠네요."
+        "ko": "[볼프 뢰겐부르그]\n부디 이 카드가 {0}님의 모험에 도움이 되었으면 좋겠네요.",
+        "en": "[Wolf Lugenburg]\nAutographs exchanged, {0}.",
+        "pt": "[Wolf Lugenburg]\nAutógrafos trocados, {0}.",
+        "es": "[Wolf Lugenburg]\nAutógrafos cambiados, {0}."
     },
     "PlehDA": {
-        "ko": "[볼프 뢰겐부르그]\n제 이름이 쓰여진 카드의 소지량이 100개가 되면 저를 찾아와 주세요. 새로운 힘이 깃든 카드로 교환해드리겠습니다."
+        "ko": "[볼프 뢰겐부르그]\n제 이름이 쓰여진 카드의 소지량이 100개가 되면 저를 찾아와 주세요. 새로운 힘이 깃든 카드로 교환해드리겠습니다.",
+        "en": "[Wolf Lugenburg]\nIf you bring me 100 of my autographs, I can give you 1 Card with my name. You don't have enough at the moment.",
+        "pt": "[Wolf Lugenburg]\nSe você me trouxer 100 Carta Autógrafos meus, posso te dar 1 Carta com o meu nome. Você não tem o suficiente no momento.",
+        "es": "[Wolf Lugenburg]\nSi me traes 100 Carta Firmadas míos, puedo darte 1 Carta con mi nombre. No tienes suficiente en este momento."
     },
     "P1ehDA": {
-        "ko": "포 리하르트"
+        "ko": "포 리하르트",
+        "en": "Po Richard",
+        "pt": "Po Richard",
+        "es": "Po Richard"
     },
     "QFehDA": {
-        "ko": "[포 리하르트]\n가문을 대표하여 이번 사냥대회를 참관하러 왔다네."
+        "ko": "[포 리하르트]\n가문을 대표하여 이번 사냥대회를 참관하러 왔다네.",
+        "en": "[Po Richard]\nIn the name of the Richard family, I came to honor the royal hunts.",
+        "pt": "[Po Richard]\nEm nome da família Richard, vim prestigiar as caçadas reais.",
+        "es": "[Po Richard]\nEn nombre de la familia Richard, vine a prestigiar las cacerías reales."
     },
     "QVehDA": {
-        "ko": "[포 리하르트]\n반갑다 {0} 내 이름은 포 리하르트."
+        "ko": "[포 리하르트]\n반갑다 {0} 내 이름은 포 리하르트.",
+        "en": "[Po Richard]\nThank you for the question, {0}. I am well.",
+        "pt": "[Po Richard]\nObrigado pela pergunta, {0}. Eu estou bem.",
+        "es": "[Po Richard]\nGracias por la pregunta, {0}. Estoy bien."
     },
     "QlehDA": {
-        "ko": "[포 리하르트]\n이번 사냥대회는 특히 유능하고 강한 모험가들이 많이 참가한다는 소식을 들었다네."
+        "ko": "[포 리하르트]\n이번 사냥대회는 특히 유능하고 강한 모험가들이 많이 참가한다는 소식을 들었다네.",
+        "en": "[Po Richard]\nThe Royal Hunt event serves to observe the abilities of our warriors.",
+        "pt": "[Po Richard]\nO evento da Caçada Real serve para observar as habilidades dos nossos guerreiros.",
+        "es": "[Po Richard]\nEl evento de la Cacería Real sirve para observar las habilidades de nuestros guerreros."
     },
     "Q1ehDA": {
-        "ko": "[포 리하르트]\n흥미가 생겨서 이렇게 참관하러 왔지, 리하르트 가문이 참관하러 오는 것은 이번이 처음일세."
+        "ko": "[포 리하르트]\n흥미가 생겨서 이렇게 참관하러 왔지, 리하르트 가문이 참관하러 오는 것은 이번이 처음일세.",
+        "en": "[Po Richard]\nI hope to find something good among the competitors.",
+        "pt": "[Po Richard]\nEspero encontrar alguma coisa boa entre os competidores.",
+        "es": "[Po Richard]\nEspero encontrar algo bueno entre los competidores."
     },
     "RFehDA": {
-        "ko": "[포 리하르트]\n자네, 가방이 무거워 보이는군."
+        "ko": "[포 리하르트]\n자네, 가방이 무거워 보이는군.",
+        "en": "[Po Richard]\nWeight. Either it's little space for new items, or you are carrying something very heavy.",
+        "pt": "[Po Richard]\nPeso. Ou é pouco espaço para novos itens, ou está carregando algo muito pesado.",
+        "es": "[Po Richard]\nPeso. O es poco espacio para nuevos ítems, o estás cargando algo muy pesado."
     },
     "RVehDA": {
-        "ko": "[포 리하르트]\n가방 안을 조금 비워놓고 나를 다시 찾아오게나."
+        "ko": "[포 리하르트]\n가방 안을 조금 비워놓고 나를 다시 찾아오게나.",
+        "en": "[Po Richard]\nPathetic.",
+        "pt": "[Po Richard]\nPatético.",
+        "es": "[Po Richard]\nPatético."
     },
     "RlehDA": {
-        "ko": "[포 리하르트]\n내 이름이 쓰인 카드를 100장 이상 가지고 있구나. 원한다면 100장의 카드를 특별한 카드 1장으로 교환해주겠네."
+        "ko": "[포 리하르트]\n내 이름이 쓰인 카드를 100장 이상 가지고 있구나. 원한다면 100장의 카드를 특별한 카드 1장으로 교환해주겠네.",
+        "en": "[Po Richard]\nDid you manage to collect 100 autographs with my name? Don't you want to exchange them for 1 Card with my name?",
+        "pt": "[Po Richard]\nVocê conseguiu juntar 100 autógrafos com meu nome? Não quer trocar por 1 Carta com o meu nome?",
+        "es": "[Po Richard]\n¿Lograste juntar 100 Carta Firmadas con mi nombre? ¿No quieres cambiarlos por 1 Carta con mi nombre?"
     },
     "R1ehDA": {
-        "ko": "[포 리하르트]\n자네가 가지고 있는 100장의 카드보다 더 가치있는 1장의 카드일텐데..."
+        "ko": "[포 리하르트]\n자네가 가지고 있는 100장의 카드보다 더 가치있는 1장의 카드일텐데...",
+        "en": "[Po Richard]\nIt would be a card more valuable than the 100 cards you have...",
+        "pt": "[Po Richard]\nSeria uma carta mais valiosa do que as 100 cartas que você tem...",
+        "es": "[Po Richard]\nSería una carta más valiosa que las 100 cartas que tienes..."
     },
     "SFehDA": {
-        "ko": "[포 리하르트]\n자네에게 귀중한 카드가 될 것이네, 유용하게 사용하도록 하라."
+        "ko": "[포 리하르트]\n자네에게 귀중한 카드가 될 것이네, 유용하게 사용하도록 하라.",
+        "en": "[Po Richard]\nSee if you liked it.",
+        "pt": "[Po Richard]\nVeja se gostou.",
+        "es": "[Po Richard]\nVe si te gustó."
     },
     "SVehDA": {
-        "ko": "[포 리하르트]\n나의 이름이 쓰여진 카드 100장을 가지고 오게나, 모험에 매우 유용하게 쓰일 카드로 교환해 줄 터이니."
+        "ko": "[포 리하르트]\n나의 이름이 쓰여진 카드 100장을 가지고 오게나, 모험에 매우 유용하게 쓰일 카드로 교환해 줄 터이니.",
+        "en": "[Po Richard]\nIf you bring me 100 of my autographs, I can give you 1 Card with my name. You don't have enough at the moment.",
+        "pt": "[Po Richard]\nSe você me trouxer 100 Carta Autógrafos meus, posso te dar 1 Carta com o meu nome. Você não tem o suficiente no momento.",
+        "es": "[Po Richard]\nSi me traes 100 Carta Firmadas míos, puedo darte 1 Carta con mi nombre. No tienes suficiente en este momento."
     },
     "SlehDA": {
-        "ko": "프리드리히 S. 하이네"
+        "ko": "프리드리히 S. 하이네",
+        "en": "Friedrich S. Heine",
+        "pt": "Friedrich S. Heine",
+        "es": "Friedrich S. Heine"
     },
     "S1ehDA": {
-        "ko": "[프리드리히]\n자네도 사냥대회에 참가하러 온 모양이군."
+        "ko": "[프리드리히]\n자네도 사냥대회에 참가하러 온 모양이군.",
+        "en": "[Friedrich]\nIt seems you also came to participate in the Royal Hunt.",
+        "pt": "[Friedrich]\nParece que você também veio participar da Caçada Real.",
+        "es": "[Friedrich]\nParece que tú también viniste a participar en la Cacería Real."
     },
     "TFehDA": {
-        "ko": "인사한다."
+        "ko": "인사한다.",
+        "en": "Greet him.",
+        "pt": "Cumprimentá-lo.",
+        "es": "Saludarlo."
     },
     "TVehDA": {
-        "ko": "[프리드리히]\n나는 하이네 가문의 프리디리히 슈톨츠."
+        "ko": "[프리드리히]\n나는 하이네 가문의 프리디리히 슈톨츠.",
+        "en": "[Friedrich]\nI am Friedrich Stolz of the Heine family.",
+        "pt": "[Friedrich]\nEu sou Friedrich Stolz da família Heine.",
+        "es": "[Friedrich]\nYo soy Friedrich Stolz de la familia Heine."
     },
     "TlehDA": {
-        "ko": "[프리드리히]\n많은 모험가들이 사냥 대회에 참가하고 있는 중이로군, 니힐은 중요한 행사를 치르고 있어서 대신해서 내가 나왔네."
+        "ko": "[프리드리히]\n많은 모험가들이 사냥 대회에 참가하고 있는 중이로군, 니힐은 중요한 행사를 치르고 있어서 대신해서 내가 나왔네.",
+        "en": "[Friedrich]\nMany adventurers are participating in the Royal Hunt, I see. Nihil is handling an important event, so I came in his place.",
+        "pt": "[Friedrich]\nMuitos aventureiros estão participando da Caçada Real, vejo. Nihil está lidando com um evento importante, então vim em seu lugar.",
+        "es": "[Friedrich]\nMuchos aventureros están participando en la Cacería Real, veo. Nihil está manejando un evento importante, así que vine en su lugar."
     },
     "T1ehDA": {
-        "ko": "[프리드리히]\n니힐의 이름이 적힌 카드를 100장 가져온다면 내가 특별한 카드로 교환해 주겠다."
+        "ko": "[프리드리히]\n니힐의 이름이 적힌 카드를 100장 가져온다면 내가 특별한 카드로 교환해 주겠다.",
+        "en": "[Friedrich]\nI offered to help Nihil, so I am handling the exchanges.",
+        "pt": "[Friedrich]\nEu me ofereci para ajudar Nihil, então estou realizando as trocas.",
+        "es": "[Friedrich]\nMe ofrecí para ayudar a Nihil, así que estoy realizando los cambios."
     },
     "UFehDA": {
-        "ko": "[프리드리히]\n보아하니 자네는 실력 있는 모험가 같은데 진지하게 임한다면 100장 정도는 금방 모아올 수 있을 걸세."
+        "ko": "[프리드리히]\n보아하니 자네는 실력 있는 모험가 같은데 진지하게 임한다면 100장 정도는 금방 모아올 수 있을 걸세.",
+        "en": "[Friedrich]\nJust bring me 100 Autographs of Nihil and I will exchange them for his card.",
+        "pt": "[Friedrich]\nBasta me trazer 100 Autógrafos do Nihil que trocarei pela carta dele.",
+        "es": "[Friedrich]\nSolo tráeme 100 Carta Firmadas de Nihil y los cambiaré por su carta."
     },
     "UVehDA": {
-        "ko": "[프리드리히]\n지금 자네는 매우 불편한 모양이군, 가방에 짐이 너무 많아 보여."
+        "ko": "[프리드리히]\n지금 자네는 매우 불편한 모양이군, 가방에 짐이 너무 많아 보여.",
+        "en": "[Friedrich]\nYour face is pale, are you sure you can carry all that?",
+        "pt": "[Friedrich]\nSeu rosto está pálido, tem certeza que você consegue carregar tudo isso?",
+        "es": "[Friedrich]\nTu rostro está pálido, ¿seguro que puedes cargar todo eso?"
     },
     "UlehDA": {
-        "ko": "[프리드리히]\n가방의 짐을 조금 덜어낸 후에 나에게 다시 오도록 하게."
+        "ko": "[프리드리히]\n가방의 짐을 조금 덜어낸 후에 나에게 다시 오도록 하게.",
+        "en": "[Friedrich]\nWouldn't you prefer to lighten the bag?",
+        "pt": "[Friedrich]\nNão prefere aliviar a carga?",
+        "es": "[Friedrich]\n¿No prefieres aliviar la carga?"
     },
     "U1ehDA": {
-        "ko": "[프리드리히]\n니힐의 이름이 적힌 카드를 100장 이상 가지고 있구나, 그 100장을 특별한 카드로 교환하지 않겠나?"
+        "ko": "[프리드리히]\n니힐의 이름이 적힌 카드를 100장 이상 가지고 있구나, 그 100장을 특별한 카드로 교환하지 않겠나?",
+        "en": "[Friedrich]\nIf you bring me 100 Autographs of Nihil, I can give you 1 of his Cards.",
+        "pt": "[Friedrich]\nSe você me trouxer 100 Autógrafos de Nihil, posso te dar 1 Carta dele.",
+        "es": "[Friedrich]\nSi me traes 100 Carta Firmadas de Nihil, puedo darte 1 Carta suya."
     },
     "VFehDA": {
-        "ko": "[프리드리히]\n특별한 카드에는 강한 힘이 깃들어 있네, 필요하게 되면 다시 찾아와 주게나."
+        "ko": "[프리드리히]\n특별한 카드에는 강한 힘이 깃들어 있네, 필요하게 되면 다시 찾아와 주게나.",
+        "en": "[Friedrich]\nAlright, feel free.",
+        "pt": "[Friedrich]\nCerto, fique à vontade.",
+        "es": "[Friedrich]\nEstá bien, siéntete libre."
     },
     "VVehDA": {
-        "ko": "[프리드리히]\n이 카드가 당신의 모험에 도움이 될 걸세."
+        "ko": "[프리드리히]\n이 카드가 당신의 모험에 도움이 될 걸세.",
+        "en": "[Friedrich]\nExchange completed, thank you.",
+        "pt": "[Friedrich]\nTroca realizada, obrigado.",
+        "es": "[Friedrich]\nCambio realizado, gracias."
     },
     "VlehDA": {
-        "ko": "[프리드리히]\n니힐의 이름이 적힌 카드를 100장 가져오게나."
+        "ko": "[프리드리히]\n니힐의 이름이 적힌 카드를 100장 가져오게나.",
+        "en": "[Friedrich]\nIf you bring me 100 of my autographs, I can give you 1 Card with my name. You don't have enough at the moment.",
+        "pt": "[Friedrich]\nSe você me trouxer 100 Carta Autógrafos meus, posso te dar 1 Carta com o meu nome. Você não tem o suficiente no momento.",
+        "es": "[Friedrich]\nSi me traes 100 Carta Firmadas míos, puedo darte 1 Carta con mi nombre. No tienes suficiente en este momento."
     },
     "V1ehDA": {
-        "ko": "크룩스 파인델"
+        "ko": "크룩스 파인델",
+        "en": "Crux Findel",
+        "pt": "Crux Findel",
+        "es": "Crux Findel"
     },
     "WFehDA": {
-        "ko": "[크룩스 파인델]\n날씨가 무척 좋군요. 다들 즐거워하시는 듯하고요."
+        "ko": "[크룩스 파인델]\n날씨가 무척 좋군요. 다들 즐거워하시는 듯하고요.",
+        "en": "[Crux Findel]\nThe weather is very good. Everyone seems to be having fun.",
+        "pt": "[Crux Findel]\nO clima está muito bom. Todos parecem estar se divertindo.",
+        "es": "[Crux Findel]\nEl clima está muy bueno. Todos parecen estar divirtiéndose."
     },
     "WVehDA": {
-        "ko": "보스 제어"
+        "ko": "보스 제어",
+        "en": "Boss Control",
+        "pt": "Boss Control",
+        "es": "Boss Control"
     },
     "WlehDA": {
-        "ko": "사냥터에 굶주린 바포메트가 나타났습니다!"
+        "ko": "사냥터에 굶주린 바포메트가 나타났습니다!",
+        "en": "Careful! A Ravenous Baphomet has appeared!!",
+        "pt": "Cuidado! Um Bafomé Voraz apareceu!!",
+        "es": "¡Cuidado! ¡¡Un Baphomet Voraz apareció!!"
     },
     "W1ehDA": {
-        "ko": "중보스 제어"
+        "ko": "중보스 제어",
+        "en": "Mid-Boss Control",
+        "pt": "Mid-Boss Control",
+        "es": "Mid-Boss Control"
     },
     "XFehDA": {
-        "ko": "바주"
+        "ko": "바주",
+        "en": "BaphJ",
+        "pt": "BaphJ",
+        "es": "BaphJ"
     },
     "XVehDA": {
-        "ko": "굶주린 바포메트 주니어"
+        "ko": "굶주린 바포메트 주니어",
+        "en": "Cruel Baphomet Jr.",
+        "pt": "Bafomé Jr. Cruel",
+        "es": "Baphomet Jr. Cruel"
     },
     "XlehDA": {
-        "ko": "사냥터에 굶주린 바포메트 주니어가 나타났습니다!"
+        "ko": "사냥터에 굶주린 바포메트 주니어가 나타났습니다!",
+        "en": "Careful! A Cruel Baphomet Jr. has appeared!!",
+        "pt": "Cuidado! Um Bafomé Jr. Cruel apareceu!!",
+        "es": "¡Cuidado! ¡¡Un Baphomet Jr. Cruel apareció!!"
     },
     "X1ehDA": {
-        "ko": "떠늑"
+        "ko": "떠늑",
+        "en": "WildW",
+        "pt": "WildW",
+        "es": "WildW"
     },
     "YFehDA": {
-        "ko": "예민해진 떠돌이 늑대"
+        "ko": "예민해진 떠돌이 늑대",
+        "en": "Wild Wolf",
+        "pt": "Lobo Selvagem",
+        "es": "Lobo Salvaje"
     },
     "YVehDA": {
-        "ko": "사냥터에 예민해진 떠돌이 늑대가 나타났습니다!"
+        "ko": "사냥터에 예민해진 떠돌이 늑대가 나타났습니다!",
+        "en": "Careful! A Wild Wolf has appeared!!",
+        "pt": "Cuidado! Um Lobo Selvagem apareceu!!",
+        "es": "¡Cuidado! ¡¡Un Lobo Salvaje apareció!!"
     },
     "YlehDA": {
-        "ko": "이클"
+        "ko": "이클",
+        "en": "Eclip",
+        "pt": "Eclip",
+        "es": "Eclip"
     },
     "Y1ehDA": {
-        "ko": "배고픈 이클립스"
+        "ko": "배고픈 이클립스",
+        "en": "Barbaric Eclipse",
+        "pt": "Eclipse Bárbaro",
+        "es": "Eclipse Bárbaro"
     },
     "ZFehDA": {
-        "ko": "사냥터에 배고픈 이클립스가 나타났습니다!"
+        "ko": "사냥터에 배고픈 이클립스가 나타났습니다!",
+        "en": "Careful! A Barbaric Eclipse has appeared!!",
+        "pt": "Cuidado! Um Eclipse Bárbaro apareceu!!",
+        "es": "¡Cuidado! ¡¡Un Eclipse Bárbaro apareció!!"
     },
     "ZVehDA": {
-        "ko": "보컬"
+        "ko": "보컬",
+        "en": "Vocal",
+        "pt": "Vocal",
+        "es": "Vocal"
     },
     "ZlehDA": {
-        "ko": "후회중인 보컬"
+        "ko": "후회중인 보컬",
+        "en": "Cruel Vocal",
+        "pt": "Vocal Cruel",
+        "es": "Vocal Cruel"
     },
     "Z1ehDA": {
-        "ko": "사냥터에 후회중인 보컬이 나타났습니다!"
+        "ko": "사냥터에 후회중인 보컬이 나타났습니다!",
+        "en": "Careful! A Cruel Vocal has appeared!",
+        "pt": "Cuidado! Um Vocal Cruel apareceu!",
+        "es": "¡Cuidado! ¡Un Vocal Cruel apareció!"
     },
     "aFehDA": {
-        "ko": "운골"
+        "ko": "운골",
+        "en": "Ungol",
+        "pt": "Ungol",
+        "es": "Ungol"
     },
     "aVehDA": {
-        "ko": "바지런한 운골리안트"
+        "ko": "바지런한 운골리안트",
+        "en": "Violent Ungoliant",
+        "pt": "Ungoliant Violento",
+        "es": "Ungoliant Violento"
     },
     "alehDA": {
-        "ko": "사냥터에 바지런한 운골리안트가 나타났습니다!"
+        "ko": "사냥터에 바지런한 운골리안트가 나타났습니다!",
+        "en": "Careful! A Violent Ungoliant has appeared!!",
+        "pt": "Cuidado! Um Ungoliant Violento apareceu!!",
+        "es": "¡Cuidado! ¡¡Un Ungoliant Violento apareció!!"
     },
     "a1ehDA": {
-        "ko": "바포메트 주니어"
+        "ko": "바포메트 주니어",
+        "en": "BaphJ",
+        "pt": "BaphJ",
+        "es": "BaphJ"
     },
     "bFehDA": {
-        "ko": "떠돌이 늑대"
+        "ko": "떠돌이 늑대",
+        "en": "WildW",
+        "pt": "WildW",
+        "es": "WildW"
     },
     "bVehDA": {
-        "ko": "이클립스"
+        "ko": "이클립스",
+        "en": "Eclip",
+        "pt": "Eclip",
+        "es": "Eclip"
     },
     "blehDA": {
-        "ko": "운골리안트"
+        "ko": "운골리안트",
+        "en": "Ungol",
+        "pt": "Ungol",
+        "es": "Ungol"
     },
     "b1ehDA": {
-        "ko": "파인겔"
+        "ko": "파인겔",
+        "en": "Finegel",
+        "pt": "Finegel",
+        "es": "Finegel"
     },
     "cFehDA": {
-        "ko": "[파인겔]\n니힐 님 카드와 유르겐 님 카드 교환하실 분~ 제가 유르겐 님 카드 드리는 쪽입니다!"
+        "ko": "[파인겔]\n니힐 님 카드와 유르겐 님 카드 교환하실 분~ 제가 유르겐 님 카드 드리는 쪽입니다!",
+        "en": "[Finegel]\nAnyone there with Nihil's autographs?!",
+        "pt": "[Finegel]\nAlguém aí com autógrafos do Nihil?!",
+        "es": "[Finegel]\n¡¿Alguien ahí con Cartas Firmadas por Nihil?!"
     },
     "cVehDA": {
-        "ko": "[파인겔]\n니힐 님 카드 남으시는 분 저와 교환해요~!!"
+        "ko": "[파인겔]\n니힐 님 카드 남으시는 분 저와 교환해요~!!",
+        "en": "[Finegel]\nI am exchanging for Skia's autographs~!!",
+        "pt": "[Finegel]\nEstou trocando por autógrafos da Skia~!!",
+        "es": "[Finegel]\n¡¡Estoy cambiando por Cartas Firmadas por Skia~!!"
     },
     "clehDA": {
-        "ko": "반포이"
+        "ko": "반포이",
+        "en": "Loel",
+        "pt": "Loel",
+        "es": "Loel"
     },
     "c1ehDA": {
-        "ko": "[반포이]\n아그네스 님 카드 석 장만 주세요… 제가 드릴 카드는 없지만… 훌쩍."
+        "ko": "[반포이]\n아그네스 님 카드 석 장만 주세요… 제가 드릴 카드는 없지만… 훌쩍.",
+        "en": "[Loel]\nThe monsters in the hunting field are weak at least.",
+        "pt": "[Loel]\nAté que os monstros do campo de caçada são fracos.",
+        "es": "[Loel]\nHasta que los monstruos del campo de cacería son débiles."
     },
     "dFehDA": {
-        "ko": "[반포이]\n아그네스 님 카드 석 장만 더 모으면 아그네스 님께 직접 특별한 카드로 교환받을 수 있는데 장미가 다 떨어졌어… 내일 사냥 임무를 또 받을 때까지 못참아!"
+        "ko": "[반포이]\n아그네스 님 카드 석 장만 더 모으면 아그네스 님께 직접 특별한 카드로 교환받을 수 있는데 장미가 다 떨어졌어… 내일 사냥 임무를 또 받을 때까지 못참아!",
+        "en": "[Loel]\nBut my biggest concern is the rumors of a large Baphomet roaming around there!",
+        "pt": "[Loel]\nMas a minha maior preocupação é com os boatos de um grande Bafomé rondando por lá!",
+        "es": "[Loel]\n¡Pero mi mayor preocupación son los rumores de un gran Baphomet rondando por ahí!"
     },
     "dVehDA": {
-        "ko": "[반포이]\n아~ 아그네스 님… 저의 꽃송이 같은 분…"
+        "ko": "[반포이]\n아~ 아그네스 님… 저의 꽃송이 같은 분…",
+        "en": "[Loel]\nI have never seen it, they say it is very rare to appear.",
+        "pt": "[Loel]\nEu nunca o vi, dizem que ele é bem raro de aparecer.",
+        "es": "[Loel]\nNunca lo he visto, dicen que es bastante raro que aparezca."
     },
     "dlehDA": {
-        "ko": "짐꾼"
+        "ko": "짐꾼",
+        "en": "Raimundo",
+        "pt": "Raimundo",
+        "es": "Raimundo"
     },
     "d1ehDA": {
-        "ko": "[짐꾼]\n저는 사냥대회의 보급을 담당하고 있습니다.\n전투의 기본은 보급 아니겠습니까! 물론 프론테라 왕궁이 지척에 있지만요…"
+        "ko": "[짐꾼]\n저는 사냥대회의 보급을 담당하고 있습니다.\n전투의 기본은 보급 아니겠습니까! 물론 프론테라 왕궁이 지척에 있지만요…",
+        "en": "[Raimundo]\nI am in charge of the Royal Hunt supplies.\nThis way, the participants won't feel hungry.",
+        "pt": "[Raimundo]\nEstou encarregado dos suprimentos da Caçada Real.\nAssim, os participantes não vão sentir fome.",
+        "es": "[Raimundo]\nEstoy a cargo de los suministros de la Cacería Real.\nAsí, los participantes no van a sentir hambre."
     },
     "eFehDA": {
-        "ko": "[짐꾼]\n제때 맛있는 간식으로 사냥대회에 참가하신 모험가분들이 기운을 내게 해드리는 건 중요하니까요!"
+        "ko": "[짐꾼]\n제때 맛있는 간식으로 사냥대회에 참가하신 모험가분들이 기운을 내게 해드리는 건 중요하니까요!",
+        "en": "[Raimundo]\nIt's true that Prontera is one map away, but still, it's good to keep this here as a safety measure.",
+        "pt": "[Raimundo]\nTudo bem que Prontera está à um mapa de distância, mas ainda assim, é bom manter isso aqui por uma questão de segurança.",
+        "es": "[Raimundo]\nEstá bien que Prontera está a un mapa de distancia, pero aun así, es bueno mantener esto aquí por una cuestión de seguridad."
     },
     "eVehDA": {
-        "ko": "서크토"
+        "ko": "서크토",
+        "en": "Suspicious Person",
+        "pt": "Suspeito",
+        "es": "Sospechoso"
     },
     "elehDA": {
-        "ko": "[서크토]\n……히약?!\n뭐야, 뭔데!"
+        "ko": "[서크토]\n……히약?!\n뭐야, 뭔데!",
+        "en": "[Suspicious Person]\n...What is it?!\nLeave me alone!",
+        "pt": "[Suspeito]\n...O que foi?!\nMe deixe em paz!",
+        "es": "[Sospechoso]\n...¡¿Qué pasa?!\n¡Déjame en paz!"
     },
     "e1ehDA": {
-        "ko": "[서크토]\n날 왜 그런 눈으로 보는 거야? 난 사냥대회 참가자라고!"
+        "ko": "[서크토]\n날 왜 그런 눈으로 보는 거야? 난 사냥대회 참가자라고!",
+        "en": "[Suspicious Person]\nWhy are you looking at me like that?!",
+        "pt": "[Suspeito]\nPor que você está me olhando desse jeito?!",
+        "es": "[Sospechoso]\n¿Por qué me estás mirando de esa manera?!"
     },
     "fFehDA": {
-        "ko": "[서크토]\n유르겐 님을 사냥하는 한 마리의 귀여운 맹수… 그게 바로 나라고!"
+        "ko": "[서크토]\n유르겐 님을 사냥하는 한 마리의 귀여운 맹수… 그게 바로 나라고!",
+        "en": "[Suspicious Person]\nI am participating in the royal hunts to collect Jurgen Wigner cards!",
+        "pt": "[Suspeito]\nEstou participando das caçadas reais para juntar cartas de Jurgen Wigner!",
+        "es": "[Sospechoso]\n¡Estoy participando en las cacerías reales para juntar cartas de Jurgen Wigner!"
     },
     "fVehDA": {
-        "ko": "[치안 담당자]\n아, 네. 귀여운 맹수. 지금 사냥당하셨습니다. 당신 사냥대회는 지금 끝났어요."
+        "ko": "[치안 담당자]\n아, 네. 귀여운 맹수. 지금 사냥당하셨습니다. 당신 사냥대회는 지금 끝났어요.",
+        "en": "[Suspicious Person]\nAaaah, Jurgen! So much beauty...",
+        "pt": "[Suspeito]\nAaaah, Jurgen! Tanta beleza...",
+        "es": "[Sospechoso]\n¡Aaaah, Jurgen! Tanta belleza..."
     },
     "flehDA": {
-        "ko": "[서크토]\n왜 이래! 나한테 왜 그러는 거야! 이렇게 순수하고 귀여운 나한테!!"
+        "ko": "[서크토]\n왜 이래! 나한테 왜 그러는 거야! 이렇게 순수하고 귀여운 나한테!!",
+        "en": "[Suspicious Person]\nHey! Hey! Who are you??? Are you the police??!!",
+        "pt": "[Suspeito]\nEi! Ei! Quem é você??? É da polícia??!!",
+        "es": "[Sospechoso]\n¡Oye! ¡Oye! ¿Quién eres tú??? ¿Eres de la policía??!!"
     },
     "f1ehDA": {
-        "ko": "[치안 담당자]\n…아직 사고를 친 게 아니니 체포할 수는 없지만, 제가 여기서 지켜보고 있을 테니 안심하세요."
+        "ko": "[치안 담당자]\n…아직 사고를 친 게 아니니 체포할 수는 없지만, 제가 여기서 지켜보고 있을 테니 안심하세요.",
+        "en": "[Police]\nYou are too close to the prince! He is already very harassed!",
+        "pt": "[Policial]\nVocê está próximo demais do príncipe! Ele já é muito assediado!",
+        "es": "[Policía]\n¡Estás demasiado cerca del príncipe! ¡Ya es muy acosado!"
     },
     "gFehDA": {
-        "ko": "치안 담당자"
+        "ko": "치안 담당자",
+        "en": "Police",
+        "pt": "Policial",
+        "es": "Policía"
     },
     "gVehDA": {
-        "ko": "[치안 담당자]\n왕실의 높은 분들이 공식 참가하시는 드문 행사라, 치안에도 매우 힘을 기울이고 있습니다."
+        "ko": "[치안 담당자]\n왕실의 높은 분들이 공식 참가하시는 드문 행사라, 치안에도 매우 힘을 기울이고 있습니다.",
+        "en": "[Police]\nThis is one of the rare events where the royal families leave the Prontera Palace.",
+        "pt": "[Policial]\nEste é um dos raros eventos em que as famílias reais saem do Palácio de Prontera.",
+        "es": "[Policía]\nEste es uno de los raros eventos en que las familias reales salen del Palacio de Prontera."
     },
     "glehDA": {
-        "ko": "[치안 담당자]\n저 말고도 다른 기사와 병사들이 단단히 감시 중이니 걱정 마세요!"
+        "ko": "[치안 담당자]\n저 말고도 다른 기사와 병사들이 단단히 감시 중이니 걱정 마세요!",
+        "en": "[Police]\nI am protecting the nobles! Glory to Rune-Midgard!",
+        "pt": "[Policial]\nEstou protegendo os nobres! Glória a Rune-Midgard!",
+        "es": "[Policía]\n¡Estoy protegiendo a los nobles! ¡Gloria a Rune-Midgard!"
     },
     "g1ehDA": {
-        "ko": "몽크 할배"
+        "ko": "몽크 할배",
+        "en": "Grandpa Monk",
+        "pt": "Vovô Monge",
+        "es": "Abuelo Monje"
     },
     "hFehDA": {
-        "ko": "몽크 할배 : 헛, 훗, 헛 크헉! 헉! 헉! 이 날을 위해 이 한몸 단련해 왔소! 헉! 흑! 흐헉!"
+        "ko": "몽크 할배 : 헛, 훗, 헛 크헉! 헉! 헉! 이 날을 위해 이 한몸 단련해 왔소! 헉! 흑! 흐헉!",
+        "en": "Grandpa Monk: Hunt! Let's hunt! Argh! My back...",
+        "pt": "Vovô Monge: Caçar! Vamos caçar! Argh! Minhas costas...",
+        "es": "Abuelo Monje: ¡Cazar! ¡Vamos a cazar! ¡Argh! Mi espalda..."
     },
     "hVehDA": {
-        "ko": "로그 청년"
+        "ko": "로그 청년",
+        "en": "Competitor",
+        "pt": "Competidor",
+        "es": "Competidor"
     },
     "hlehDA": {
-        "ko": "로그 청년 : 저기, 할배. 괜찮아? 갑자기 픽 쓰러지고 그러는 거 아니지?"
+        "ko": "로그 청년 : 저기, 할배. 괜찮아? 갑자기 픽 쓰러지고 그러는 거 아니지?",
+        "en": "Competitor: Hey grandpa, are you okay?",
+        "pt": "Competidor: Ei vô, tá tudo bem?",
+        "es": "Competidor: Oye, abuelo, ¿estás bien?"
     },
     "h1ehDA": {
-        "ko": "릴리사"
+        "ko": "릴리사",
+        "en": "Lisa",
+        "pt": "Lisa",
+        "es": "Lisa"
     },
     "iFehDA": {
-        "ko": "[릴리사]\n저희는 네리우스 가 영애님들 팬클럽이에요~"
+        "ko": "[릴리사]\n저희는 네리우스 가 영애님들 팬클럽이에요~",
+        "en": "[Lisa]\nWe are from the Nerius Family fan club~",
+        "pt": "[Lisa]\nSomos do fã clube da Família Nerius~",
+        "es": "[Lisa]\n¡Somos del fan club de la Familia Nerius~"
     },
     "iVehDA": {
-        "ko": "[라프]\n아직 어려서 사냥대회에는 참가 못하지만 영애님들을 직접 뵙고 싶어서 왔어요!"
+        "ko": "[라프]\n아직 어려서 사냥대회에는 참가 못하지만 영애님들을 직접 뵙고 싶어서 왔어요!",
+        "en": "[Rafa]\nI am too young to participate in the hunt, but I will want to when I grow up!",
+        "pt": "[Rafa]\nSou muito novo pra participar da caçada, mas vou querer quando crescer!",
+        "es": "[Rafa]\n¡Soy muy joven para participar en la cacería, pero querré cuando crezca!"
     },
     "ilehDA": {
-        "ko": "[릴리사]\n프론테라에서부터 걸어왔어요~"
+        "ko": "[릴리사]\n프론테라에서부터 걸어왔어요~",
+        "en": "[Lisa]\nWe came walking from Prontera~",
+        "pt": "[Lisa]\nNós viemos andando de Prontera~",
+        "es": "[Lisa]\n¡Vinimos caminando desde Prontera~"
     },
     "i1ehDA": {
-        "ko": "라프"
+        "ko": "라프",
+        "en": "Rafa",
+        "pt": "Rafa",
+        "es": "Rafa"
     },
     "jFehDA": {
-        "ko": "[라프]\n우리는 아직 어려서 사냥대회에는 참가 못하지만 영애님들을 직접 뵙고 싶어서 왔어요!"
+        "ko": "[라프]\n우리는 아직 어려서 사냥대회에는 참가 못하지만 영애님들을 직접 뵙고 싶어서 왔어요!",
+        "en": "[Rafa]\nWe are from the Nerius Family fan club~",
+        "pt": "[Rafa]\nSomos do fã clube da Família Nerius~",
+        "es": "[Rafa]\n¡Somos del fan club de la Familia Nerius~"
     },
     "jVehDA": {
-        "ko": "[릴리사]\n프론테라에서부터 걸어왔어요~ 집에는 어떻게 가야 할 지 모르지만 지금 너무 좋아요~"
+        "ko": "[릴리사]\n프론테라에서부터 걸어왔어요~ 집에는 어떻게 가야 할 지 모르지만 지금 너무 좋아요~",
+        "en": "[Lisa]\nWe came walking from Prontera, but I don't know if we'll manage to get back home~",
+        "pt": "[Lisa]\nViemos andando de Prontera, mas não sei se vamos conseguir voltar pra casa~",
+        "es": "[Lisa]\nVinimos caminando desde Prontera, pero no sé si lograremos volver a casa~"
     },
     "jlehDA": {
-        "ko": "쿠토"
+        "ko": "쿠토",
+        "en": "Guto",
+        "pt": "Guto",
+        "es": "Guto"
     },
     "j1ehDA": {
-        "ko": "[쿠토]\n난 팬클럽 같은 거 아냐… 그냥 형이 스피카 님 카드 구해오면 형 보물인 마도 레이저 팔찌랑 바꿔준다고 해서 왔어."
+        "ko": "[쿠토]\n난 팬클럽 같은 거 아냐… 그냥 형이 스피카 님 카드 구해오면 형 보물인 마도 레이저 팔찌랑 바꿔준다고 해서 왔어.",
+        "en": "[Guto]\nI am not in any fan club, I am only here for my brother.",
+        "pt": "[Guto]\nEu não estou em nenhum fã clube, só estou aqui pelo meu irmão.",
+        "es": "[Guto]\nYo no estoy en ningún fan club, solo estoy aquí por mi hermano."
     },
     "kFehDA": {
-        "ko": "[라프]\n괜찮아, 너도 직접 실물을 뵙고 나면 네리우스 가 영애님들의 매력에 빠지고 말걸!"
+        "ko": "[라프]\n괜찮아, 너도 직접 실물을 뵙고 나면 네리우스 가 영애님들의 매력에 빠지고 말걸!",
+        "en": "[Rafa]\nHe is crazy for the Spica card, if he gets it, he will give me his Bintendo Sweet!",
+        "pt": "[Rafa]\nEle é doido pela carta Spica, se conseguir, vai me dar o Bintendo Suitchy dele!",
+        "es": "[Rafa]\n¡Él está loco por la carta Spica, si la consigue, me dará su Bintendo Suite!"
     },
     "kVehDA": {
-        "ko": "[쿠토]\n그럼 내 몫의 카드도 구해야 하잖아… 됐어…"
+        "ko": "[쿠토]\n그럼 내 몫의 카드도 구해야 하잖아… 됐어…",
+        "en": "[Guto]\nHe said it was a promise!",
+        "pt": "[Guto]\nEle disse que era uma promessa!",
+        "es": "[Guto]\n¡Dijo que era una promesa!"
     },
     "klehDA": {
-        "ko": "[치안 담당자]\n그리고 전… 이 꼬마들의 임시 보호자죠.\n담당 배분 받을 때는 이런 일을 하게 될 줄은 몰랐는데."
+        "ko": "[치안 담당자]\n그리고 전… 이 꼬마들의 임시 보호자죠.\n담당 배분 받을 때는 이런 일을 하게 될 줄은 몰랐는데.",
+        "en": "[Police]\nOh dear, I'd better keep an eye on these kids.\nI bet they don't know how to get back home.",
+        "pt": "[Policial]\nAi ai, é melhor eu ficar de olho nessas crianças.\nAposto que não sabem voltar pra casa.",
+        "es": "[Policía]\nAy ay, mejor me quedo vigilando a estos niños.\nApuesto a que no saben volver a casa."
     },
     "k1ehDA": {
-        "ko": "[라프]\n우리 꼬마 아니에요!"
+        "ko": "[라프]\n우리 꼬마 아니에요!",
+        "en": "[Rafa]\nI don't know!",
+        "pt": "[Rafa]\nEu não sei!",
+        "es": "[Rafa]\n¡Yo no sé!"
     },
     "lFehDA": {
-        "ko": "[쿠토]\n꼬마 아니거든!"
+        "ko": "[쿠토]\n꼬마 아니거든!",
+        "en": "[Guto]\nMe neither!",
+        "pt": "[Guto]\nEu também não!",
+        "es": "[Guto]\n¡Yo tampoco!"
     },
     "lVehDA": {
-        "ko": "[치안 담당자]\n꼬마 아니라는 녀석들이 바로 꼬마죠. 하하!"
+        "ko": "[치안 담당자]\n꼬마 아니라는 녀석들이 바로 꼬마죠. 하하!",
+        "en": "[Police]\nUgh... just as I imagined!",
+        "pt": "[Policial]\nUgh... foi como imaginei!",
+        "es": "[Policía]\nUgh... fue como imaginé."
     }
 }

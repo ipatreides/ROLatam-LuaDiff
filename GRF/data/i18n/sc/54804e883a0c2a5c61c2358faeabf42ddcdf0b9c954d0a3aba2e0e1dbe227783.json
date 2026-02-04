@@ -147,7 +147,7 @@
     "vQP2AQ": {
         "en": "Eden Group Teleporter",
         "pt": "Teletransportador do Grupo Eden",
-        "es": "Teletransportador del Grupo de Edén"
+        "es": "Teletransportador del Grupo del Edén"
     },
     "vgP2AQ": {
         "en": "PecoPeco Master",
@@ -202,7 +202,7 @@
     "yAP2AQ": {
         "en": "[Prontera Guide]\nLet me mark the location of the\n<NAVI>Eden Group Teleporter<INFO>prontera,124,76,</INFO></NAVI>\non your mini-map.\nDid you need anything else?",
         "pt": "[Guia Prontera]\nDeixe-me marcar a localização do\n<NAVI>Teletransportador do Grupo do Éden<INFO>prontera,124,76,</INFO></NAVI>\nem seu mini-mapa.\nVocê precisa de mais alguma coisa?",
-        "es": "[Guía de Prontera]\nPermíteme marcar la ubicación del\n<NAVI>Teletransportador del Grupo de Edén<INFO>prontera,124,76,</INFO></NAVI>\nen tu minimapa.\n¿Necesitabas algo más?"
+        "es": "[Guía de Prontera]\nPermíteme marcar la ubicación del\n<NAVI>Teletransportador del Grupo del Edén<INFO>prontera,124,76,</INFO></NAVI>\nen tu minimapa.\n¿Necesitabas algo más?"
     },
     "yQP2AQ": {
         "en": "[Prontera Guide]\nTwo ^0000FFPecoPeco Masters^000000 are available:\none for <NAVI>Knights<INFO>prontera,55,350,</INFO></NAVI> to the ^0000FFnorthwest^000000\nand the other for <NAVI>Crusaders<INFO>prontera,232,318,</INFO></NAVI> to the ^0000FFnortheast^000000.",
@@ -657,7 +657,7 @@
     "IwT2AQ": {
         "en": "[Geffen Guide]\nLet me mark the location of the\n<NAVI>Eden Group Teleporters<INFO>geffen,132,66,</INFO></NAVI>\non your mini-map.\nDid you need anything else?",
         "pt": "[Guia Geffen]\nDeixe-me marcar a localização dos\n<NAVI>Teletransportadores do Grupo do Éden<INFO>geffen,132,66,</INFO></NAVI>\nem seu mini-mapa.\nVocê precisa de mais alguma coisa?",
-        "es": "[Guía de Geffen]\nPermíteme marcar la ubicación del\n<NAVI>Teletransportadores del Grupo de Edén<INFO>geffen,132,66,</INFO></NAVI>\nen tu minimapa.\n¿Necesitabas algo más?"
+        "es": "[Guía de Geffen]\nPermíteme marcar la ubicación del\n<NAVI>Teletransportadores del Grupo del Edén<INFO>geffen,132,66,</INFO></NAVI>\nen tu minimapa.\n¿Necesitabas algo más?"
     },
     "JAT2AQ": {
         "en": "[Geffen Guide]\nLet me mark the location of the\n<NAVI>Kafra Employees<INFO>geffen,203,123,</INFO></NAVI>\non your mini-map.\nDid you need anything else?",
@@ -752,7 +752,7 @@
     "NgT2AQ": {
         "en": "[Alberta Guide]\n<NAVI>Eden Group Teleporters<INFO>alberta,33,41,</INFO></NAVI> are located in South Alberta\nand inside the Merchant Guild building.\nLet me mark their locations on your mini-map.\nDid you need anything else?",
         "pt": "[Guia de Alberta]\n<NAVI>Os Teletransportadores do Grupo do Éden<INFO>alberta,33,41,</INFO></NAVI> estão localizados em South Alberta\ne dentro do prédio da Guilda dos Comerciantes.\nDeixe-me marcar a localização deles em seu mini-mapa.\nVocê precisa de mais alguma coisa?",
-        "es": "[Guía de Alberta]\nLos <NAVI>Teletransportadores del Grupo de Edén<INFO>alberta,33,41,</INFO></NAVI> se encuentran en el sur de Alberta\ny dentro del edificio del gremio de Comerciantes.\nPermíteme marcar las ubicaciones en tu minimapa.\n¿Necesitabas algo más?"
+        "es": "[Guía de Alberta]\nLos <NAVI>Teletransportadores del Grupo del Edén<INFO>alberta,33,41,</INFO></NAVI> se encuentran en el sur de Alberta\ny dentro del edificio del gremio de Comerciantes.\nPermíteme marcar las ubicaciones en tu minimapa.\n¿Necesitabas algo más?"
     },
     "NwT2AQ": {
         "en": "[Alberta Guide]\nLet me mark the location of the\n^0000FFKafra Employees^000000\non your mini-map.\nDid you need anything else?",
@@ -997,7 +997,7 @@
     "ZwT2AQ": {
         "en": "[Morroc Guide]\nLet me mark the location of the\n<NAVI>Eden Group Teleporter<INFO>moc_ruins,68,164,</INFO></NAVI>\non your mini-map.\nDid you need anything else?",
         "pt": "[Guia de Morroc]\nDeixe-me marcar a localização do\n<NAVI>Teletransportador do Grupo do Éden<INFO>moc_ruins,68,164,</INFO></NAVI>\nem seu mini-mapa.\nVocê precisa de mais alguma coisa?",
-        "es": "[Guía de Morroc]\nPermíteme marcar la ubicación del\n<NAVI>Teletransportador del Grupo de Edén<INFO>moc_ruins,68,164,</INFO></NAVI>\nen tu minimapa.\n¿Necesitas algo más?"
+        "es": "[Guía de Morroc]\nPermíteme marcar la ubicación del\n<NAVI>Teletransportador del Grupo del Edén<INFO>moc_ruins,68,164,</INFO></NAVI>\nen tu minimapa.\n¿Necesitas algo más?"
     },
     "aAT2AQ": {
         "en": "[Morroc Guide]\nLet me mark the location of the\n<NAVI>Tool Merchant<INFO>moc_ruins,92,128,</INFO></NAVI>\non your mini-map.\nDid you need anything else?",
@@ -1097,7 +1097,7 @@
     "ewT2AQ": {
         "en": "[Al De Baran Guard]\nLet me mark the location of the\n<NAVI>Eden Group Teleporter<INFO>aldebaran,133,119,</INFO></NAVI>\non your mini-map.\nWould you like to check any other locations?",
         "pt": "[Guarda de Al De Baran]\nDeixe-me marcar a localização do\n<NAVI>Teletransportador do Grupo do Éden<INFO>aldebaran,133,119,</INFO></NAVI>\nem seu mini-mapa.\nGostaria de verificar outros locais?",
-        "es": "[Guardia de Aldebaran]\nPermíteme marcar la ubicación del\n<NAVI>Teletransportador del Grupo de Edén<INFO>aldebaran,133,119,</INFO></NAVI>\nen tu minimapa.\n¿Deseas consultar otros lugares?"
+        "es": "[Guardia de Aldebaran]\nPermíteme marcar la ubicación del\n<NAVI>Teletransportador del Grupo del Edén<INFO>aldebaran,133,119,</INFO></NAVI>\nen tu minimapa.\n¿Deseas consultar otros lugares?"
     },
     "fAT2AQ": {
         "en": "[Al De Baran Guard]\nLet me mark the location of the\n<NAVI>Kafra Employee<INFO>aldebaran,143,119,</INFO></NAVI>\non your mini-map.\nDid you need anything else?",

@@ -1310,7 +1310,7 @@
         "es": "[Crux]\nVamos a Lighthalzen."
     },
     "pqeiBw": {
-        "en": "[Crux]\nThe appointed place is ^4D4DFFEinbroch train station^000000.\nAn agent named ^4D4DFFLazy^000000 is waiting for us.\nWe have to hurry.",
+        "en": "[Crux]\nThe appointed place is ^4D4DFFEinbroch train station^000000.\nAn agent named ^4D4DFFLeizi^000000 is waiting for us.\nWe have to hurry.",
         "pt": "[Crux]\nO lugar indicado é a ^4D4DFFestação de trem de Einbroch^000000.\nUm agente chamado ^4D4DFFNalandro^000000 está esperando por nós.\nPrecisamos nos apressar.",
         "es": "[Crux]\nEl lugar designado es ^4D4DFFla estación de trenes de Einbroch^000000.\nNos está esperando un agente llamado ^4D4DFFLazy^000000.\nTenemos que darnos prisa."
     },
@@ -1700,7 +1700,7 @@
         "es": "La garza…"
     },
     "9KeiBw": {
-        "en": "[Tess]\nThe heron? Oh, Lazy?\nI'm sure he will take care of getting himself there.",
+        "en": "[Tess]\nThe heron? Oh, Leizi?\nI'm sure he will take care of getting himself there.",
         "pt": "[Tess]\nA garça? Ah, Nalandro?\nTenho certeza de que ele sabe chegar lá.",
         "es": "[Tess]\n¿La garza? Ah, ¿Lazy?\nNo me cabe duda de que encontrará la forma de llegar allí."
     },
@@ -1760,7 +1760,7 @@
         "es": "[Tess]\nTe doy la bienvenida. Pasa."
     },
     "AKiiBw": {
-        "en": "Mr. Lazy, was that a joke?",
+        "en": "Mr. Leizi, was that a joke?",
         "pt": "Sr. Nalandro, isso foi uma piada?",
         "es": "Señor Lazy, ¿eso fue una broma?"
     },
@@ -2250,17 +2250,17 @@
         "es": "[Lukie]\nVayamos antes de que sea demasiado tarde."
     },
     "YqiiBw": {
-        "en": "Lazy",
+        "en": "Leizi",
         "pt": "Nalandro",
         "es": "Lazy"
     },
     "Y6iiBw": {
-        "en": "[Lazy]\nWell, it seems like everyone is here. Maybe I can step out?\nFrom now on, Rookie, the heron emeritus agent, will handle it!",
+        "en": "[Leizi]\nWell, it seems like everyone is here. Maybe I can step out?\nFrom now on, Rookie, the heron emeritus agent, will handle it!",
         "pt": "[Nalandro]\nBem, parece que estão todos aqui. Posso sair?\nA partir de agora, Lukie, o agente twink, vai assumir!",
         "es": "[Lazy]\nBueno, parece que ya estamos todos. ¿Puedo irme?\n¡A partir de ahora, Lukie, el agente jovencito, se hará cargo!"
     },
     "ZKiiBw": {
-        "en": "[Lazy]\nI've done my job~\nNow I'm counting on Rookie!\nI'm on vacation from now on!",
+        "en": "[Leizi]\nI've done my job~\nNow I'm counting on Rookie!\nI'm on vacation from now on!",
         "pt": "[Nalandro]\nFiz a minha parte.\nAgora, estou contando com Lukie!\nEntrei de férias a partir de agora!",
         "es": "[Lazy]\nHice mi trabajo~.\n¡Ahora cuento con Lukie!\n¡A partir de ahora, estoy de vacaciones!"
     },
@@ -2270,7 +2270,7 @@
         "es": "¡¿Quién dice eso?!"
     },
     "ZqiiBw": {
-        "en": "Hey, Lazy! You are irresponsible!",
+        "en": "Hey, Leizi! You are irresponsible!",
         "pt": "Ei, Nalandro! Você é irresponsável!",
         "es": "¡Eh, Lazy! ¡Eres un irresponsable!"
     },

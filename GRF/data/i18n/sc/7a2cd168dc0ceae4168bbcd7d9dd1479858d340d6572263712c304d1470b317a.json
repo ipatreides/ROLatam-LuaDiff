@@ -1195,8 +1195,8 @@
     },
     "5yvBBw": {
         "ko": "[테스]\n카야 테스 부사장께서 저분들을 설득하신다니까 들어보도록 합시다.",
-        "en": "[Tess]\nSince Kaya and Tess Vice President are going to persuade them, let's listen to what they have to say.",
-        "pt": "[Tess]\nVamos ouvir o vice-presidente Kaya Tess.",
+        "en": "[Tess]\nSince Vice President Kya Tos are going to persuade them, let's listen to what they have to say.",
+        "pt": "[Tess]\nVamos ouvir o vice-presidente Kaya Toss.",
         "es": "[Tess]\nEscuchemos al vicepresidente Kaya Toss."
     },
     "6CvBBw": {
@@ -1268,7 +1268,7 @@
     "8yvBBw": {
         "ko": "[일꾼]\n어, 수석 연구원님?",
         "en": "[Worker]\nOh, Chief Researcher?",
-        "pt": "[Trabalhador]\nih, é a pesquisadora-chefe?",
+        "pt": "[Trabalhador]\nIh, é a pesquisadora-chefe?",
         "es": "[Trabajador]\n¿Eh? ¿Es la investigadora jefe?"
     },
     "9CvBBw": {
@@ -1501,7 +1501,7 @@
     },
     "GizBBw": {
         "ko": "[엘류미나]\n쟤네 왜 저렇게 잘 해? 우리가 실험 대상을 잘못 고른 거야?",
-        "en": "[Eliumina]\nWhy are they so good?\n Did we pick the wrong test subjects?",
+        "en": "[Eliumina]\nWhy are they so good?\nDid we pick the wrong test subjects?",
         "pt": "[Elyumina]\nComo eles são tão bons? Escolhemos as armas erradas?",
         "es": "[Elyumina]\n¿Cómo son tan buenos? ¿Elegimos las armas equivocadas?"
     },
@@ -1777,26 +1777,26 @@
     },
     "SCzBBw": {
         "ko": "[테스]\n아직 후발대가 도착하려면 멀었는데, 부디 아무일 없기를 빌어야겠습니다.",
-        "en": "[Tess]\nThe reinforcements are still a long way off, so let's hope nothing happens until they arrive.",
+        "en": "[Kaya]\n Let's move to <NAVI>[another place]<INFO>sp_cor,122,141,0,101,0</INFO></NAVI>. They might attack us again.",
         "pt": "[Kaya]\nAntes de sermos atacados novamente, devemos ir para <NAVI>[um outro lugar]<INFO>sp_cor,122,141,0,101,0</INFO></NAVI>.",
         "es": "[Kaya]\nAntes de que nos ataquen de nuevo, debemos ir a <NAVI>[otro lugar]<INFO>sp_cor,122,141,0,101,0</INFO></NAVI>."
     },
     "SSzBBw": {
         "ko": "[아스]\n기습을 할 줄이야..! 물러나십시오!",
-        "en": "[Ace]\nAn ambush...! \nPlease fall back!",
+        "en": "[Tess]\nI hope nothing happens until the reinforcements arrive.",
         "pt": "[Tess]\nAté que o segundo grupo de avanço chegue, espero que nada aconteça.",
         "es": "[Tess]\nHasta que llegue el segundo grupo de avance, espero que no ocurra nada."
     },
     "SizBBw": {
         "ko": "아니, 아니 이게 다 무슨 일이래. 아이고...",
         "en": "No, no, what on earth is happening here? Oh dear...",
-        "pt": "[Ace] Eles fizeram um ataque surpresa...! Para trás!",
+        "pt": "Não, não... O que está acontecendo aqui? Pelos deuses...",
         "es": "No, no, ¿qué demonios está pasando aquí? Ay, Dios mío..."
     },
     "SyzBBw": {
         "ko": "아, 나 좀 다친 것 같아. 아야야. 아이고 허리야! 근육이 놀랐나 봐!",
         "en": "Ah, I think I hurt myself. Ouch, ouch. Oh, my back! I think I pulled a muscle!",
-        "pt": "[Ace] Não há mais nada aqui. Vamos para <NAVI>[um lugar seguro]<INFO>sp_cor,122,141,0,101,0</INFO></NAVI>!",
+        "pt": "AH, eu acho que me machuquei. Ai, ai. AI, MINHAS COSTAS! Algo saiu do lugar!",
         "es": "Ah, creo que me he lastimado. Ay, ay. ¡Ay, mi espalda! ¡Creo que me he hecho un esguince!"
     },
     "TCzBBw": {
@@ -1963,7 +1963,7 @@
     },
     "ZyzBBw": {
         "ko": "[아스]\n주변은 제가 확인할 테니 제발 이곳에 계십시오.",
-        "en": "[Ahs]\nI’ll check the surroundings, so please stay here.",
+        "en": "[Ace]\nI’ll check the surroundings, so please stay here.",
         "pt": "[Ace]\nVou verificar os arredores, então, por favor, fiquem aqui.",
         "es": "[Ace]\nRevisaré los alrededores. Por favor, quédense aquí."
     },
@@ -1987,7 +1987,7 @@
     },
     "ayzBBw": {
         "ko": "[아스]\n네, 그러니 제발 이곳에 계십시오.",
-        "en": "[Ahs]\nYes, so please stay here.",
+        "en": "[Ace]\nYes, so please stay here.",
         "pt": "[Ace]\nSim, então, por favor, fique aqui.",
         "es": "[Ace]\nSí, entonces, por favor, quédense aquí."
     },
@@ -2005,7 +2005,7 @@
     },
     "bizBBw": {
         "ko": "[일꾼]\n수석 연구원 중 한 명인 엘류미나님입니다.",
-        "en": "[Worker]\nThis is Eliumina, one of the chief Researchers.",
+        "en": "[Worker]\nThat is Miss Eliumina, one of the chief Researchers.",
         "pt": "[Trabalhador]\nSenhorita Elyumina, uma das principais pesquisadoras.",
         "es": "[Trabajador]\nLa señorita Elyumina, una de las principales investigadoras"
     },
@@ -2047,7 +2047,7 @@
     },
     "dSzBBw": {
         "ko": "맞아. 전에는 이상하게 웃더라니까.",
-        "en": "That's right. He used to laugh strangely before.",
+        "en": "That's right. She used to laugh strangely before.",
         "pt": "E ela gargalhava meio estranho.",
         "es": "Y se reía de forma extraña."
     },
@@ -2167,7 +2167,7 @@
     },
     "iSzBBw": {
         "ko": "[아스]\n부사장님, 잠시... 보고 드릴 일이 있습니다.",
-        "en": "[Ahs]\nVice President, excuse me... I have something to report.",
+        "en": "[Ace]\nVice President, excuse me... I have something to report.",
         "pt": "[Ace]\nVice-presidente, espere... eu tenho algo para relatar a você.",
         "es": "[Ace]\nVicepresidente, espere… tengo algo que informarle."
     },
@@ -2185,7 +2185,7 @@
     },
     "jCzBBw": {
         "ko": "[테스]\n방금 <NAVI>[아스]<INFO>sp_cor,135,147,0,101,0</INFO></NAVI>씨가 부사장님을 모시고 가지 않았습니까? 부상자 중 중상자는 없어야 할 텐데, 걱정입니다.",
-        "en": "[Tess]\nDidn't <NAVI>[Ahs]<INFO>sp_cor,135,147,0,101,0</INFO></NAVI> just escort Vice President? I hope none of the Injured Soldier are seriously hurt. I'm worried.",
+        "en": "[Tess]\nDidn't <NAVI>[Ace]<INFO>sp_cor,135,147,0,101,0</INFO></NAVI> just escort Vice President? I hope none of the Injured Soldier are seriously hurt. I'm worried.",
         "pt": "[Tess]\nParece que <NAVI>[Ace]<INFO>sp_cor,135,147,0,101,0</INFO></NAVI> tem algo a falar com o vice-presidente.",
         "es": "[Tess]\nParece que <NAVI>[Ace]<INFO>sp_cor,135,147,0,101,0</INFO></NAVI> tiene algo que decirle al vicepresidente."
     },
@@ -2203,7 +2203,7 @@
     },
     "jyzBBw": {
         "ko": "[카야]\n<NAVI>[아스]<INFO>sp_cor,135,147,0,101,0</INFO></NAVI>가 부상자 관련으로 찾는 모양이오. 가봐야겠소.",
-        "en": "[Kaya]\n<NAVI>[Ahs]<INFO>sp_cor,135,147,0,101,0</INFO></NAVI>seems to be looking for you about the Injured Soldier. You should go see them.",
+        "en": "[Kaya]\n<NAVI>[Ace]<INFO>sp_cor,135,147,0,101,0</INFO></NAVI>seems to be looking for you about the Injured Soldier. You should go see them.",
         "pt": "[Kaya]\n<NAVI>[Ace]<INFO>sp_cor,135,147,0,101,0</INFO></NAVI> quer falar comigo. Vou ter que ir.",
         "es": "[Kaya]\n<NAVI>[Ace]<INFO>sp_cor,135,147,0,101,0</INFO></NAVI> quiere hablar conmigo. Tendré que ir."
     },
@@ -2227,7 +2227,7 @@
     },
     "kyzBBw": {
         "ko": "[레이지]\n<NAVI>[경호]<INFO>sp_cor,135,147,0,101,0</INFO></NAVI>님이 VIP께 긴히 할 말이 있나 본데. 부상자들의 거취 문제인가?",
-        "en": "[Leizi]\n<NAVI>[Escort]<INFO>sp_cor,135,147,0,101,0</INFO></NAVI> seems to have something urgent to discuss with the VIP. \nIs it about the whereabouts of the Injured Soldiers?",
+        "en": "[Leizi]\n<NAVI>[Ace]<INFO>sp_cor,135,147,0,101,0</INFO></NAVI> seems to have something urgent to discuss with the VIP. \nIs it about the whereabouts of the Injured Soldiers?",
         "pt": "[Nalandro]\nA senhorita <NAVI>[Ace]<INFO>sp_cor,135,147,0,101,0</INFO></NAVI> parece ter algo a dizer ao VIP. Será que é sobre os feridos?",
         "es": "[Lazy]\nLa señorita <NAVI>[Ace]<INFO>sp_cor,135,147,0,101,0</INFO></NAVI> parece tener algo que decirle al VIP. ¿Será sobre los heridos?"
     },
@@ -2257,7 +2257,7 @@
     },
     "mCzBBw": {
         "ko": "[아스]\n부사장님께서 직접 이곳을 살펴보시겠다고 하셔서 곤란합니다. 좀전의 공격도 있었는데 안전한 곳에 계시면 좋을 것을...",
-        "en": "[Ahs]\nIt's troubling because Vice President insisted on inspecting this place personally. There was even an attack just a moment ago—I wish they would stay somewhere safe...",
+        "en": "[Ace]\nIt's troubling because Vice President insisted on inspecting this place personally. There was even an attack just a moment ago—I wish they would stay somewhere safe...",
         "pt": "[Ace]\nNós fomos atacados a pouco tempo, é difícil acreditar que o vice-presidente prefere ficar aqui vistoriando ao invés de ficar em um lugar seguro...",
         "es": "[Ace]\nFuimos atacados hace poco. Es difícil creer que el vicepresidente prefiera quedarse aquí inspeccionando en lugar de estar en un sitio seguro..."
     },
@@ -2293,25 +2293,25 @@
     },
     "nizBBw": {
         "ko": "[카야]\n부상자들의 상태는 어떤가?",
-        "en": "[Kaya]\nHow are the Injured Soldiers doing?",
+        "en": "[Kaya]\nHow are the injured people doing?",
         "pt": "[Kaya]\nComo estão os feridos?",
         "es": "[Kaya]\n¿Cómo están los heridos?"
     },
     "nyzBBw": {
         "ko": "[아스]\n심각한 자들은 따로 상태를 살피고 있고, 가벼운 부상자들은 처치 후에 문진을 하고 있습니다.",
-        "en": "[Ace]\nWe're monitoring the more serious cases separately, and after treating the lightly injured Injured Soldier, we're conducting medical checkups.",
+        "en": "[Ace]\nWe're monitoring the more serious cases separately, and after treating the lightly injured, we're conducting medical checkups.",
         "pt": "[Ace]\nFeridos gravemente estão sendo examinados separadamente e pessoas levemente feridas estão sendo entrevistadas após o tratamento.",
         "es": "[Ace]\nLos heridos graves están siendo examinados por separado y los levemente heridos están siendo entrevistados tras el tratamiento."
     },
     "oCzBBw": {
         "ko": "문진?",
-        "en": "Medical questionnaire?",
+        "en": "Medical checkups?",
         "pt": "Tratamento?",
         "es": "¿Tratamiento?"
     },
     "oSzBBw": {
         "ko": "[아스]\n상처를 치료하다 보니 몇몇 부상자들은 부상 외에도 ^0000CD건강상의 심각한 문제^000000가 발견 되었습니다.",
-        "en": "[Ace]\nWhile treating their wounds, I discovered that some of the Injured Soldiers have ^0000CDserious health issues^000000 in addition to their injuries.",
+        "en": "[Ace]\nWhile treating their wounds, I discovered that some of them have ^0000CDserious health issues^000000 in addition to their injuries.",
         "pt": "[Ace]\nDescobrimos que algumas pessoas tinham ^0000CDgraves problemas de saúde^000000, antes dos ferimentos.",
         "es": "[Ace]\nDescubrimos que algunas personas tenían ^0000CDgraves problemas de salud^000000 incluso antes de las heridas."
     },
@@ -2329,7 +2329,7 @@
     },
     "pCzBBw": {
         "ko": "[카야]\n기본적인 안전 수칙조차 지키지 않았군. 중독된 사람이 한 둘이 아니란 말인가?",
-        "en": "[Kaya]\nYou didn't even follow basic safety rules. Are you saying there are multiple people who have been poisoned?",
+        "en": "[Kaya]\nThey didn't even follow basic safety rules. Are you saying there are multiple people who have been poisoned?",
         "pt": "[Kaya]\nEntão esse laboratório não segue as regras básicas de segurança. Há muitas pessoas contaminadas?",
         "es": "[Kaya]\nEntonces este laboratorio no cumple ni siquiera las normas básicas de seguridad. ¿Hay muchas personas contaminadas?"
     },
@@ -2485,13 +2485,13 @@
     },
     "vizBBw": {
         "ko": "산재? 산재라고 했어?",
-        "en": "Workplace injury? Did you say workplace injury?",
+        "en": "Compensation? Did you say compensation?",
         "pt": "Ele disse seguro-acidente?",
         "es": "¿Dijo seguro contra accidentes?"
     },
     "vyzBBw": {
         "ko": "틀림 없이 산재라고 했지.",
-        "en": "You definitely said it was an occupational accident.",
+        "en": "You definitely said there will be a compensation.",
         "pt": "Ele vai nos indenizar!",
         "es": "¡Nos van a indemnizar!"
     },
@@ -2503,7 +2503,7 @@
     },
     "wSzBBw": {
         "ko": "그런데 산재가 뭐야?",
-        "en": "By the way, what is \"industrial accident\"?",
+        "en": "By the way, what is \"disaster response\"?",
         "pt": "Quanto a gente vai ganhar?",
         "es": "¿Cuánto vamos a recibir?"
     },
@@ -2677,19 +2677,19 @@
     },
     "3izBBw": {
         "ko": "[수색대]\n모험가님께 지원 요청 드립니다!",
-        "en": "[Search Party]\nRequesting assistance from you, Adventurer!",
+        "en": "[Search Party Member]\nRequesting assistance from you, Adventurer!",
         "pt": "[Soldado do Grupo de Avanço]\nViajante, precisamos da sua ajuda!",
         "es": "[Soldado del Grupo de Avance]\n¡Viajero, necesitamos tu ayuda!"
     },
     "3yzBBw": {
         "ko": "[카야]\n무슨 일이오? 부상자가 발생했소?",
-        "en": "[Kaya]\nWhat is it?\nHas something happened to Injured Soldier?",
+        "en": "[Kaya]\nWhat is it?\nHas something happened to the injuried?",
         "pt": "[Kaya]\nO que aconteceu? Há mais feridos?",
         "es": "[Kaya]\n¿Qué pasó? ¿Hay más heridos?"
     },
     "4CzBBw": {
         "ko": "[수색대]\n저희를 공격한 괴한을 추적하던 중 몇이 부상을 당해 ^0000CD지원이 필요^000000합니다.",
-        "en": "[Search Party]\nWhile tracking the assailant who attacked us, some of our members were injured and ^0000CDrequire support^000000.",
+        "en": "[Search Party Member]\nWhile tracking the assailant who attacked us, some of our members were injured and ^0000CDrequire support^000000.",
         "pt": "[Soldado do Grupo de Avanço]\nNossos soldados ^0000CDforam feridos^000000 enquanto perseguiam a foragida.",
         "es": "[Soldado del Grupo de Avance]\nNuestros soldados ^0000CDresultaron heridos^000000 mientras perseguían a la fugitiva."
     },
@@ -2701,13 +2701,13 @@
     },
     "4izBBw": {
         "ko": "[수색대]\n곳곳에 설치되어 있는 트랩을 미처 발견하지 못한 일부 인원이 부상을 당하고 있습니다.",
-        "en": "[Search Party]\nSome members have been injured because they failed to notice the traps set up in various places.",
+        "en": "[Search Party Member]\nSome members have been injured because they failed to notice the traps set up in various places.",
         "pt": "[Soldado do Grupo de Avanço]\nPor armadilhas. Ela colocou várias armadilhas que estão reduzindo nosso moral.",
         "es": "[Soldado del Grupo de Avance]\nPor trampas. Colocó varias trampas que están reduciendo nuestra moral."
     },
     "4yzBBw": {
         "ko": "[수색대]\n선발대만으로는 수색에 어려움이 있어 이에 모험가님께도 지원을 요청 드리러 왔습니다! <NAVI>[왼편]<INFO>sp_cor,108,130,0,101,0</INFO></NAVI>에서 다른 수색대와 합류하십시오!",
-        "en": "[Search Party]\nWe’re having trouble with the search using only the Advance Party, so I’ve come to ask for your help as well, adventurer! \nPlease join the other Search Party members at <NAVI>[to the left]<INFO>sp_cor,108,130,0,101,0</INFO></NAVI>!",
+        "en": "[Search Party Member]\nWe’re having trouble with the search using only our Party, so I’ve come to ask for your help as well, adventurer! \nPlease join the other Search Party members at <NAVI>[this place]<INFO>sp_cor,108,130,0,101,0</INFO></NAVI>!",
         "pt": "[Soldado do Grupo de Avanço]\nNossa tropa está com dificuldades e por isso, queremos que você vá <NAVI>[para esse local]<INFO>sp_cor,108,130,0,101,0</INFO></NAVI>!",
         "es": "[Soldado del Grupo de Avance]\nNuestra tropa está teniendo dificultades, por eso queremos que vayas <NAVI>[a este lugar]<INFO>sp_cor,108,130,0,101,0</INFO></NAVI>."
     },
@@ -2731,7 +2731,7 @@
     },
     "5yzBBw": {
         "ko": "루두스에 가려고 합니다.",
-        "en": "I'm planning to go to Ludeus.",
+        "en": "I'm planning to go to Rudus.",
         "pt": "Eu vou para Rudus.",
         "es": "Voy a Rudus."
     },
@@ -2751,19 +2751,19 @@
         "ko": "[아스]\n그런데 저... 모험가님은 괜찮으십니까?",
         "en": "[Ace]\nBy the way... are you all right, Adventurer?",
         "pt": "[Ace]\nA propósito... como está o seu psicológico, viajante?",
-        "es": "[Ace]\nPor cierto... ¿cómo está tu estado mental, viajero?"
+        "es": "[Ace]\nPor cierto... ¿cómo está tu estado mental, trotamundos?"
     },
     "6yzBBw": {
         "ko": "[아스]\n저는 그곳에서.. 사람이 어디까지 잔인해질 수 있는지 알게 됐습니다. 도덕과 양심, 규율이 모두 버려진 곳이었어요.",
         "en": "[Ace]\nIt was there... that I learned just how cruel people can become. It was a place where morality, conscience, and order had all been abandoned.",
         "pt": "[Ace]\nFoi por causa de Rudus que vi como que as pessoas podem ser cruéis. Um lugar onde a moral, a consciência e a ética são abandonadas.",
-        "es": "[Ace]\nFue por Rudus que vi lo crueles que pueden ser las personas. Un lugar donde la moral, la conciencia y la ética son abandonadas."
+        "es": "[Ace]\nFue por Rudus que vi cómo pueden ser crueles las personas. Un lugar donde la moral, la conciencia y la ética son abandonadas."
     },
     "7CzBBw": {
         "ko": "[아스]\n그분들이 받았을 고통이 어땠을지 상상하는 것만으로도 너무 괴롭습니다.",
         "en": "[Ace]\nJust imagining the pain they must have endured is unbearable.",
         "pt": "[Ace]\nMe aperta o coração só de imaginar como deve ter sido a dor dessas vítimas.",
-        "es": "[Ace]\nSe me oprime el corazón solo de imaginar el dolor que debieron sentir esas víctimas."
+        "es": "[Ace]\nMe aprieta el corazón solo de imaginar cómo debió ser el dolor de esas víctimas."
     },
     "7SzBBw": {
         "ko": "[아스]\n제가 저지른 일은 아니지만, 그간 제가 몸담고 있는 곳이었는데도 몰랐다는 것에 죄책감을 느껴요.",
@@ -2775,29 +2775,29 @@
         "ko": "[아스]\n이제 와 돌이킬 수 없는 일이지만... 아무튼 저는 제가 할 수 있는 것을 최선을 다하려고 합니다.",
         "en": "[Ace]\nIt's something that can't be undone now... \nBut in any case, I'll do my best with what I can.",
         "pt": "[Ace]\nO que passou, passou... Agora, estou tentando fazer o melhor que posso para que isso não se repita.",
-        "es": "[Ace]\nLo pasado, pasado está... Ahora intento hacer lo mejor posible para que no vuelva a ocurrir."
+        "es": "[Ace]\nLo que pasó, pasó… Ahora estoy tratando de hacer lo mejor que puedo para que no vuelva a suceder."
     },
     "7yzBBw": {
         "ko": "[아스]\n그럼 쉽지 않으시겠지만 ^0000CD돌로르라 불리는 실험체 20분^000000에게 안식을 주시고 ^0000CD실험체용 식별 팔찌 10개^000000를.. 부탁드립니다. 부디 몸조심 하세요!",
         "en": "[Ace]\nIt won’t be easy, but please put ^0000CD 20 of the test subjects known as Dolor ^000000 to rest and bring me ^0000CD 10 Identification Bracelets ^000000 for Test Subjects. \nPlease be careful out there!",
         "pt": "[Ace]\nNão será fácil, mas dê o descanso eterno para ^0000CD20 cobaias chamadas Dolor^000000 e me traga ^0000CD10 Braceletes de Identificação^000000. Por favor!",
-        "es": "[Ace]\nNo será fácil, pero da descanso eterno a ^0000CD20 cobayas llamadas Dolor^000000 y tráeme ^0000CD10 Brazaletes de Identificación^000000. ¡Por favor!"
+        "es": "[Ace]\nNo será fácil, pero da el descanso eterno a ^0000CD20 cobayas llamados Dolor^000000 y tráeme ^0000CD10 brazaletes de identificación^000000. ¡Por favor!"
     },
     "8CzBBw": {
         "ko": "[아스]\n아직은 모험가님께 부탁 드릴 일은 없습니다.",
         "en": "[Ace]\nI don't have any requests for you at the moment, Adventurer.",
         "pt": "[Ace]\nNão temos nada muito sério para requisitar sua especialidade, viajante.",
-        "es": "[Ace]\nNo tenemos nada muy serio que requiera tu especialidad, viajero."
+        "es": "[Ace]\nNo tenemos nada muy serio que requiera tu especialidad, trotamundos."
     },
     "8SzBBw": {
         "ko": "[아스]\n시간이 되신다면, 마음의 준비가 되셨다면 루두스의 일을 해보시는 것은 어떠십니까?",
-        "en": "[Ace]\nIf you have the time and feel ready, how about trying out some work for Ludos?",
+        "en": "[Ace]\nIf you have the time and feel ready, how about trying out some work for Rudus?",
         "pt": "[Ace]\nPorém, se você tiver tempo, se estiver mentalmente saudável, posso te dar uma missão para se aventurar em Rudus.",
-        "es": "[Ace]\nPero si tienes tiempo y te sientes mentalmente bien, puedo darte una misión para aventurarte en Rudus."
+        "es": "[Ace]\nSin embargo, si tienes tiempo y estás mentalmente en condiciones, puedo darte una misión para aventurarte en Rudus."
     },
     "8izBBw": {
         "ko": "[아스]\n루두스의 일은, 마치셨습니까?",
-        "en": "[Ace]\nHave you finished Ludus's task?",
+        "en": "[Ace]\nHave you finished Rudus' task?",
         "pt": "[Ace]\nVocê terminou a missão em Rudus?",
         "es": "[Ace]\n¿Terminaste la misión en Rudus?"
     },
@@ -2833,7 +2833,7 @@
     },
     "+CzBBw": {
         "ko": "[아스]\n안녕하세요. 루두스로 가시게요?",
-        "en": "[Ace]\nHello. Are you heading to Ludeus?",
+        "en": "[Ace]\nHello. Are you heading to Rudus?",
         "pt": "[Ace]\nOlá. Você vai para Rudus?",
         "es": "[Ace]\nHola. ¿Vas a Rudus?"
     },
@@ -2865,13 +2865,13 @@
         "ko": "[아스]\n모험가님께도 휴식 시간이 필요하겠지요. 알겠습니다.",
         "en": "[Ace]\nAdventurer, you need some rest too. \nUnderstood.",
         "pt": "[Ace]\nViajantes também devem fazer uma pausa. Entendo.",
-        "es": "[Ace]\nLos viajeros también deben tomarse un descanso. Lo entiendo."
+        "es": "[Ace]\nLos trotamundos también deben tomarse un descanso. Lo entiendo."
     },
     "/izBBw": {
         "ko": "[아스]\n모험가님, 안녕하십니까? 무슨 일이신가요? 지원이 필요하신가요?",
         "en": "[Ace]\nHello, Adventurer. \nHow can I help you? \nDo you need any assistance?",
         "pt": "[Ace]\nOlá, viajante. O que está acontecendo? Precisa de ajuda?",
-        "es": "[Ace]\nHola, viajero. ¿Qué ocurre? ¿Necesitas ayuda?"
+        "es": "[Ace]\nHola, trotamundos . ¿Qué ocurre? ¿Necesitas ayuda?"
     },
     "/yzBBw": {
         "ko": "루두스로 가려고 합니다.",
@@ -2899,9 +2899,9 @@
     },
     "Ay3BBw": {
         "ko": "[아스]\n모험가님, 안녕하세요. 루두스로 가시게요?",
-        "en": "[Ace]\nHello, Adventurer. \nAre you heading to Ludos?",
+        "en": "[Ace]\nHello, Adventurer. \nAre you heading to Rudus?",
         "pt": "[Ace]\nOlá, viajante. Você vai para Rudus?",
-        "es": "[Ace]\nHola, viajero. ¿Vas a Rudus?"
+        "es": "[Ace]\nHola, trotamundos. ¿Vas a Rudus?"
     },
     "BC3BBw": {
         "ko": "수색대",
@@ -2911,7 +2911,7 @@
     },
     "BS3BBw": {
         "ko": "[수색대]\n선발대만으로는 수색에 어려움이 있어 이에 모험가님께도 지원을 요청하러 왔습니다!\n<NAVI>[왼편]<INFO>sp_cor,108,130,0,101,0</INFO></NAVI>에서 다른 수색대와 합류하십시오!",
-        "en": "[Search Party]\nWe’re having trouble with the search using only the Advance Party, so I’ve come to ask for your help as well, adventurer!\nJoin the other Search Party members at <NAVI>[to the left]<INFO>sp_cor,108,130,0,101,0</INFO></NAVI>!",
+        "en": "[Search Party Member]\nWe’re having trouble with the search using only our Party, so I’ve come to ask for your help as well, adventurer!\nJoin the other Search Party members at <NAVI>[this place]<INFO>sp_cor,108,130,0,101,0</INFO></NAVI>!",
         "pt": "[Soldado do Grupo de Avanço]\nPrecisamos da sua ajuda para dar o apoio necessário para o nosso pelotão!\n<NAVI>[Junte-se a nós]<INFO>sp_cor,108,130,0,101,0</INFO></NAVI>!",
         "es": "[Soldado del Grupo de Avance]\n¡Necesitamos tu ayuda para brindar el apoyo necesario a nuestro pelotón!\n<NAVI>[Únete a nosotros]<INFO>sp_cor,108,130,0,101,0</INFO></NAVI>!"
     },
@@ -2959,7 +2959,7 @@
     },
     "DS3BBw": {
         "ko": "[카야]\n부상자들 문제로 <NAVI>[아스]<INFO>sp_cor,135,147,0,101,0</INFO></NAVI>가 긴히 전할 말이 있는 모양이오.",
-        "en": "[Kaya]\nIt seems that <NAVI>[Ahs]<INFO>sp_cor,135,147,0,101,0</INFO></NAVI> has something urgent to tell you regarding the issue with the Injured Soldiers.",
+        "en": "[Kaya]\nIt seems that <NAVI>[Ace]<INFO>sp_cor,135,147,0,101,0</INFO></NAVI> has something urgent to tell you regarding the issue with the Injured people.",
         "pt": "[Kaya]\nParece que <NAVI>[Ace]<INFO>sp_cor,135,147,0,101,0</INFO></NAVI> tem algo a dizer sobre os feridos.",
         "es": "[Kaya]\nParece que <NAVI>[Ace]<INFO>sp_cor,135,147,0,101,0</INFO></NAVI> tiene algo que decir sobre los heridos."
     },
@@ -3055,7 +3055,7 @@
     },
     "HS3BBw": {
         "ko": "[카야]\n다만, 나중에라도 한 숨 돌릴 때 카우프먼 씨를 생각해 주시오.",
-        "en": "[Kaya]\nHowever, when you have a moment to catch your breath later, please spare a thought for Mr. Kaufmann.",
+        "en": "[Kaya]\nHowever, when you have a moment to catch your breath later, please spare a thought for Mr. Kaufman.",
         "pt": "[Kaya]\nMas, ainda mais tarde, quando você parar para respirar, pense no Sr. Kaufman.",
         "es": "[Kaya]\nPero más adelante, cuando respires con calma, piensa en el Sr. Kaufman."
     },
@@ -3073,7 +3073,7 @@
     },
     "IC3BBw": {
         "ko": "[카야]\n아, 모험가. 어서 오시오. 카우프먼씨는... 찾으셨소?",
-        "en": "[Kaya]\nAh, adventurer. \nWelcome. \nDid you... find Mr. Kaufmann?",
+        "en": "[Kaya]\nAh, adventurer. \nWelcome. \nDid you... find Mr. Kaufman?",
         "pt": "[Kaya]\nVocê encontrou o sr. Kaufman...?",
         "es": "[Kaya]\n¿Encontraste al Sr. Kaufman...?"
     },
@@ -3081,11 +3081,11 @@
         "ko": "이거... 받으십시오.",
         "en": "Here... please take this.",
         "pt": "Dê uma olhada nisso...",
-        "es": "Mira esto..."
+        "es": "Échale un vistazo a esto..."
     },
     "Ii3BBw": {
         "ko": "[카야]\n이것들은...? 다 무엇이오?",
-        "en": "[Kaya]\nThese...? \nWhat are all these?",
+        "en": "[Kaya]\nThis...? \nWhat is this?",
         "pt": "[Kaya]\nO que é... isso...?",
         "es": "[Kaya]\n¿Qué es... eso...?"
     },
@@ -3097,13 +3097,13 @@
     },
     "JC3BBw": {
         "ko": "[카야]\n이것이 카우프먼씨의..? 그곳에 다른 사람들은 없었소?",
-        "en": "[Kaya]\nIs this Mr. Kaufmann's...? Was there no one else there?",
+        "en": "[Kaya]\nIs this Mr. Kaufman's...? Was there no one else there?",
         "pt": "[Kaya]\nEste é o bracelete do Sr. Kaufman...? Não encontrou de outros por lá?",
         "es": "[Kaya]\n¿Este es el brazalete del Sr. Kaufman...? ¿No encontraste otros por allí?"
     },
     "JS3BBw": {
         "ko": "- 카야 토스에게 루두스에서 만났던 연구원의 이야기와 실험체 이야기를 전했다. -",
-        "en": "- You told Kaya Tos about the Researcher you met in Ludeus and the story of the test subject. -",
+        "en": "- You told Kaya Tos about the Researcher you met in Rudus and the story of the test subject. -",
         "pt": "- Eu contei a história do cientista deformado e das outras cobaias que encontrei em Rudus -",
         "es": "- Conté la historia del científico deformado y de las otras cobayas que encontré en Rudus -"
     },
@@ -3218,7 +3218,7 @@
     "OC3BBw": {
         "ko": "패트릭 카우프먼씨요. 시설 정비과 직원요.",
         "en": "Mr. Patrick Kaufman. He's with the Facility Maintenance Department, Employee.",
-        "pt": "Patrick Kaufman, da manutenção",
+        "pt": "Patrick Kaufman, da manutenção.",
         "es": "Patrick Kaufman, del mantenimiento."
     },
     "OS3BBw": {
@@ -3230,14 +3230,14 @@
     "Oi3BBw": {
         "ko": "영이라면 잘 아는데.",
         "en": "I know a lot about spirits.",
-        "pt": "O Yong eu sei quem é.",
-        "es": "A Yong sí lo conozco."
+        "pt": "O Young eu sei quem é.",
+        "es": "A Young sí lo conozco."
     },
     "Oy3BBw": {
         "ko": "[일꾼]\n걘 물류 하던 애잖아.",
         "en": "[Worker]\nHe’s the one who used to handle logistics.",
-        "pt": "[Trabalhadora]\nO Yong é um cara de logística.",
-        "es": "[Trabajadora]\nYong es de logística."
+        "pt": "[Trabalhadora]\nO Young é um cara de logística.",
+        "es": "[Trabajadora]\nYoung es de logística."
     },
     "PC3BBw": {
         "ko": "시설 정비과 말이야.",
@@ -3469,25 +3469,25 @@
     },
     "Yi3BBw": {
         "ko": "[일꾼]\n아, 우리를 구해주신 분! 반갑습니다. 저는 마커스입니다. 이곳엔 어쩐일로 다 오셨습니까?",
-        "en": "[Worker]\nAh, the one who saved us!\nIt's good to see you. \nMy name is Markus. \nWhat brings you all the way here?",
+        "en": "[Worker]\nAh, the one who saved us!\nIt's good to see you. \nMy name is Marcus. \nWhat brings you all the way here?",
         "pt": "[Trabalhador]\nAh, você que nos salvou! Prazer em te conhecer. Eu sou Marcus. Por que você está aqui?",
         "es": "[Trabajador]\nAh, ¡tú eres quien nos salvó! Encantado de conocerte. Soy Marcus. ¿Por qué estás aquí?"
     },
     "Yy3BBw": {
         "ko": "반갑습니다. 저는 마커스입니다.",
-        "en": "Nice to meet you. I am Markus.",
+        "en": "Nice to meet you. I am Marcus.",
         "pt": "Prazer em conhecê-lo. Eu sou Marcus.",
         "es": "Encantado de conocerte. Soy Marcus."
     },
     "ZC3BBw": {
         "ko": "리히타르젠 출신 마커스 홀츠먼씨?",
-        "en": "Mr. Markus Holtzmann from Lighthalzen?",
+        "en": "Mr. Marcus Holtzmann from Lighthalzen?",
         "pt": "Marcus... Holtzman??",
         "es": "¿Marcus... Holtzman?"
     },
     "ZS3BBw": {
         "ko": "[마커스]\n나를 아는 분인가요? 나는 잘 모르겠는데..",
-        "en": "[Markus]\nDo you know me? \nI’m not sure I know you...",
+        "en": "[Marcus]\nDo you know me? \nI’m not sure I know you...",
         "pt": "[Marcus]\nVocê me conhece? Eu não...",
         "es": "[Marcus]\n¿Me conoces? Yo no..."
     },
@@ -3499,7 +3499,7 @@
     },
     "Zy3BBw": {
         "ko": "[마커스]\n아니, 당신 누구죠, 정말? 에바 뮬러를 알아요? 에바가 보냈나요? 에바는 어떻게 지내요? 세상에! 에바! 에바는 잘 지내요?",
-        "en": "[Markus]\nWait, who are you, really? \nDo you know Eva Mueller? \nDid Eva send you? \nHow is Eva doing?\nOh my! Eva! \nIs Eva doing well?",
+        "en": "[Marcus]\nWait, who are you, really? \nDo you know Eva Mueller? \nDid Eva send you? \nHow is Eva doing?\nOh my! Eva! \nIs Eva doing well?",
         "pt": "[Marcus]\nQuem é você? Como conhece Eva Muller? Eva mandou você? Como está Eva? Oh meu Deus! Eva! Como está Eva?",
         "es": "[Marcus]\n¿Quién eres? ¿Cómo conoces a Eva Muller? ¿Eva te envió? ¿Cómo está Eva? ¡Dios mío! ¡Eva! ¿Cómo está Eva?"
     },
@@ -3511,7 +3511,7 @@
     },
     "aS3BBw": {
         "ko": "[마커스]\n에바, 에바가 너무 보고 싶어요. 에바는 날 잊지 않았나요? 몇 년 동안 연락 한 번을 못하고.",
-        "en": "[Markus]\nEva, I miss Eva so much. \nHas Eva forgotten about me? \nWe haven't been in touch for years.",
+        "en": "[Marcus]\nEva, I miss Eva so much. \nHas Eva forgotten about me? \nWe haven't been in touch for years.",
         "pt": "[Marcus]\nEva, eu sinto tanto a falta de Eva. Eva me esqueceu? Nós não entramos em contato há anos.",
         "es": "[Marcus]\nEva, cuánto extraño a Eva. ¿Eva me olvidó? Hace años que no nos comunicamos."
     },
@@ -3523,13 +3523,13 @@
     },
     "ay3BBw": {
         "ko": "연락이 없어서 걱정하고 계세요.",
-        "en": "They're worried because they haven't heard from you.",
+        "en": "She is worried because she haven't heard from you.",
         "pt": "Ela está preocupada.",
         "es": "Ella está preocupada."
     },
     "bC3BBw": {
         "ko": "[마커스]\n편지를, 편지를 보낼 수가 없었어요. 외부와 연락을 할 수도 없었고, 여기서 절대로 나갈 수가 없었어요. 그게 이곳의 규정이었거든요.",
-        "en": "[Markus]\nI couldn't send any letters.\nI wasn't able to contact the outside world, and there was absolutely no way to leave this place. \nThat was the rule here.",
+        "en": "[Marcus]\nI couldn't send any letters.\nI wasn't able to contact the outside world, and there was absolutely no way to leave this place. \nThat was the rule here.",
         "pt": "[Marcus]\nNão podia me comunicar com o mundo exterior, nem sair daqui. Essa era a regra daqui.",
         "es": "[Marcus]\nNo podía comunicarme con el exterior ni salir de aquí. Esa era la regla."
     },
@@ -3541,7 +3541,7 @@
     },
     "bi3BBw": {
         "ko": "[마커스]\n휴가요? 여기서 며칠 쉰거죠, 뭐. 아니, 근데 어떻게 그런 것까지 알고 계세요?",
-        "en": "[Markus]\nA vacation? \nWell, I’ve just been resting here for a few days. \nBut wait, how do you even know about that?",
+        "en": "[Marcus]\nA vacation? \nWell, I’ve just been resting here for a few days. \nBut wait, how do you even know about that?",
         "pt": "[Marcus]\nQue férias? Eu não saí daqui! Como você sabe disso tudo?",
         "es": "[Marcus]\n¿Qué vacaciones? ¡No salí de aquí! ¿Cómo sabes todo eso?"
     },
@@ -3559,7 +3559,7 @@
     },
     "cS3BBw": {
         "ko": "[마커스]\n그렇군요! 이렇게 고마울 수가!",
-        "en": "[Markus]\nI see! \nI can't thank you enough!",
+        "en": "[Marcus]\nI see! \nI can't thank you enough!",
         "pt": "[Marcus]\nEntendo! Ainda bem que nos encontramos!",
         "es": "[Marcus]\n¡Entiendo! ¡Qué bueno que nos encontramos!"
     },
@@ -3571,7 +3571,7 @@
     },
     "cy3BBw": {
         "ko": "[마커스]\n세상에.. 처음 보는 저를 위해 그렇게까지.. 오늘 당신을 처음 보았지만, 제 평생의 은인이자 친구로 삼겠어요. 혹시 도움이 필요하면 언제든지 저를 찾아 주세요.",
-        "en": "[Markus]\nMy goodness... \nYou went to such lengths for someone you just met... \nAlthough today is the first time I've seen you, I will consider you a lifelong benefactor and friend. \nIf you ever need help, please come find me anytime.",
+        "en": "[Marcus]\nMy goodness... \nYou went to such lengths for someone you just met... \nAlthough today is the first time I've seen you, I will consider you a lifelong benefactor and friend. \nIf you ever need help, please come find me anytime.",
         "pt": "[Marcus]\nOh meu Deus. Eu só te vi uma vez hoje, mas e já sei que vai ser uma amizade para a vida toda.\nSe quiser me pedir algo, eu vejo se consigo fazer.",
         "es": "[Marcus]\nOh, Dios mío. Solo te vi una vez hoy, pero ya sé que será una amistad para toda la vida.\nSi quieres pedirme algo, veré si puedo hacerlo."
     },
@@ -3583,7 +3583,7 @@
     },
     "dS3BBw": {
         "ko": "[마커스]\n가만, 그 이름 되게 낯익은데.. 패트릭.. 패트릭.. 혹시 연구실 청소를 하던 팻 얘기하는 건가? 찾는 사람이 리히타르젠 출신 아니었어요?",
-        "en": "[Markus]\nWait, that name sounds really familiar... \nPatrick... \nPatrick... \nAre you talking about Pat, the one who used to clean the laboratory? \nWasn't the person looking for him from Lighthalzen?",
+        "en": "[Marcus]\nWait, that name sounds really familiar... \nPatrick... \nPatrick... \nAre you talking about Patsy, the one who used to clean the laboratory? \nWasn't the person looking for him from Lighthalzen?",
         "pt": "[Marcus]\nEspere, esse nome soa muito familiar... Patrick... Patrick... Você está falando do Paca, que limpava o laboratório? Ele é da favela?",
         "es": "[Marcus]\nEspera, ese nombre me suena mucho... Patrick... Patrick... ¿Te refieres a Paca, el que limpiaba el laboratorio? ¿El de los barrios bajos?"
     },
@@ -3595,31 +3595,31 @@
     },
     "dy3BBw": {
         "ko": "[마커스]\n맞네, 맞아! 키도 크고 몸집도 좋아 보였던 그 친구!! 동향 출신이라 친하게 지내고 싶었는데. 어느 날부터인가 보이지 않더라고요. 그래서 해고됐나 했지.",
-        "en": "[Markus]\nThat's right, that's him! \nThe tall guy who looked pretty sturdy!\nI wanted to get closer since we're from the same hometown, but he suddenly stopped showing up one day. \nSo I thought maybe he got fired.",
+        "en": "[Marcus]\nThat's right, that's him! \nThe tall guy who looked pretty sturdy!\nI wanted to get closer since we're from the same hometown, but he suddenly stopped showing up one day. \nSo I thought maybe he got fired.",
         "pt": "[Marcus]\nEle era alto e magro! Ele era do mesmo bairro que eu, então eu queria ser amigo dele. Eu não o vejo faz tempo. Pensei que ele tinha sido demitido.",
         "es": "[Marcus]\n¡Era alto y delgado! Era del mismo barrio que yo, así que quería ser su amigo. Hace tiempo que no lo veo. Pensé que lo habían despedido."
     },
     "eC3BBw": {
         "ko": "[마커스]\n시설 정비과였는데 청소를 시킨다고 투덜거리는 것을, 여기 일이 그렇게 돌아가지 않는다고 내가 타일러 줬지요.",
-        "en": "[Markus]\nHe was grumbling about being made to clean even though he was in the maintenance department, so I had to explain to him that things don’t work that way around here.",
+        "en": "[Marcus]\nHe was grumbling about being made to clean even though he was in the maintenance department, so I had to explain to him that things don’t work that way around here.",
         "pt": "[Marcus]\nO Paca não gostou de ser da limpeza, ele nasceu para ser mecânico, mas as coisas não funcionam assim nesse lugar.",
         "es": "[Marcus]\nA Paca no le gustaba la limpieza. Nació para ser mecánico, pero las cosas no funcionan así en este lugar."
     },
     "eS3BBw": {
         "ko": "[마커스]\n그러다 마음을 고쳐먹었는지, 연구실 청소하면서 거기 ^0000CD연구원들이랑 친하게^000000 지내는 걸 내가 지나가면서 몇 번 보긴 했는데.. 일을 그만뒀나?",
-        "en": "[Markus]\nI thought he had changed his mind about his new job, since I saw him getting along well with the ^0000CDscientists^000000 in the laboratory.",
+        "en": "[Marcus]\nI thought he had changed his mind about his new job, since I saw him getting along well with the ^0000CDscientists^000000 in the laboratory.",
         "pt": "[Marcus]\nEu pensei que ele mudou de ideia sobre o novo trabalho dele, já que eu o vi sendo amigável com os ^0000CDcientistas^000000 do laboratório.",
         "es": "[Marcus]\nPensé que había cambiado de opinión sobre su nuevo trabajo, ya que lo vi llevándose bien con los ^0000CDcientíficos^000000 del laboratorio."
     },
     "ei3BBw": {
         "ko": "[마커스]\n아무튼 뭔가 건지고 싶으면 <NAVI>[소각장]<INFO>sp_cor,70,263,0,101,0</INFO></NAVI>에 가 봐요.\n거기에서 여기저기 흩어진 자료들을 모아서 분류하는 작업을 한다니까 팻에 관한 것도 얻을 수 있을지 모르죠.",
-        "en": "[Markus]\nAnyway, if you want to find something useful, try going to <NAVI>[Incineration Plant]<INFO>sp_cor,70,263,0,101,0</INFO></NAVI>.\nThey collect and sort scattered materials there, so you might be able to find something related to pets.",
+        "en": "[Marcus]\nAnyway, if you want to find something useful, try going to <NAVI>[Incineration Plant]<INFO>sp_cor,70,263,0,101,0</INFO></NAVI>.\nThey collect and sort scattered materials there, so you might be able to find something related to Patsy.",
         "pt": "[Marcus]\nSe você quiser obter alguma informação sobre o Paca, recomendo ir até o <NAVI>[setor de incineração]<INFO>sp_cor,70,263,0,101,0</INFO></NAVI>.\nEstão coletando e classificando os materiais espalhados por lá.",
         "es": "[Marcus]\nSi quieres obtener información sobre Paca, te recomiendo ir al <NAVI>[sector de incineración]<INFO>sp_cor,70,263,0,101,0</INFO></NAVI>.\nAllí están recolectando y clasificando los materiales esparcidos."
     },
     "ey3BBw": {
         "ko": "[마커스]\n이 세탁물들도 이제 곧 소각장으로 옮길 예정이에요. 어이고.. 아까워라. 세탁기에 한 번만 샥샥 돌리면 깨끗이 세탁될 텐데...",
-        "en": "[Markus]\nThese laundry items will soon be moved to the incinerator. \nOh dear... \nWhat a waste. \nIf I could just run them through the washing machine once, they'd be perfectly clean...",
+        "en": "[Marcus]\nThese laundry items will soon be moved to the incinerator. \nOh dear... \nWhat a waste. \nIf I could just run them through the washing machine once, they'd be perfectly clean...",
         "pt": "[Marcus]\nEssas roupas também vão ser levadas para o incinerador em breve. É um desperdício...",
         "es": "[Marcus]\nEsta ropa también será llevada pronto al incinerador. Es un desperdicio..."
     },
@@ -3631,19 +3631,19 @@
     },
     "fS3BBw": {
         "ko": "[마커스]\n아무튼 고맙습니다. 편지는 그간 엄청나게 많이 써 두었으니 정리해서 드릴게요. 정말 고맙습니다!",
-        "en": "[Markus]\nAnyway, thank you. \nI've written a ton of letters during this time, so I'll organize them and give them to you. \nThank you so much!",
+        "en": "[Marcus]\nAnyway, thank you. \nI've written a ton of letters during this time, so I'll organize them and give them to you. \nThank you so much!",
         "pt": "[Marcus]\nDe qualquer forma, obrigado. Eu escrevi muitas cartas até agora, então vou juntar todas e enviar. Muito obrigado!",
         "es": "[Marcus]\nDe todos modos, gracias. He escrito muchas cartas hasta ahora, así que las reuniré todas y las enviaré. ¡Muchas gracias!"
     },
     "fi3BBw": {
         "ko": "[마커스]\n<NAVI>[소각장]<INFO>sp_cor,70,263,0,101,0</INFO></NAVI>에 가면 뭔가 건질 수 있을 거예요.",
-        "en": "[Markus]\nIf you go to the <NAVI>[Incinerator]<INFO>sp_cor,70,263,0,101,0</INFO></NAVI>, you might be able to find something useful.",
+        "en": "[Marcus]\nIf you go to the <NAVI>[Incinerator]<INFO>sp_cor,70,263,0,101,0</INFO></NAVI>, you might be able to find something useful.",
         "pt": "[Marcus]\nSe você for para o <NAVI>[setor de incineração]<INFO>sp_cor,70,263,0,101,0</INFO></NAVI>, poderá obter alguma coisa.",
         "es": "[Marcus]\nSi vas al <NAVI>[sector de incineración]<INFO>sp_cor,70,263,0,101,0</INFO></NAVI>, podrás encontrar algo."
     },
     "fy3BBw": {
         "ko": "[마커스]\n어휴.. 이걸 세탁을 하지 않고 다 불태운다니, 어휴.. 내 속이 다 타들어 가는 것 같네.",
-        "en": "[Markus]\nSigh... \nBurning all of this without even washing it first, sigh... \nIt feels like my insides are burning up, too.",
+        "en": "[Marcus]\nSigh... \nBurning all of this without even washing it first, sigh... \nIt feels like my insides are burning up, too.",
         "pt": "[Marcus]\nNão acredito que eu vou ter que queimar essas roupas ao invés de lavar elas.",
         "es": "[Marcus]\nNo puedo creer que tenga que quemar esta ropa en vez de lavarla."
     },
@@ -3763,7 +3763,7 @@
     },
     "ky3BBw": {
         "ko": "[일꾼]\n패트릭 카우프먼..? 아뇨, 혹시 패트릭 영이라면 아는데, 맞나요?",
-        "en": "[Worker]\nPatrick Kaufmann...? \nNo, but I do know a Patrick Young. \nIs that who you mean?",
+        "en": "[Worker]\nPatrick Kaufman...? \nNo, but I do know a Patrick Young. \nIs that who you mean?",
         "pt": "[Trabalhador]\nPatrick Kaufman...? Não, mas eu sei quem é Patrick Young, serve?",
         "es": "[Trabajador]\n¿Patrick Kaufman...? No, pero sé quién es Patrick Young. ¿Sirve?"
     },
@@ -3775,13 +3775,13 @@
     },
     "lS3BBw": {
         "ko": "[일꾼]\n아니, <NAVI>[그곳]<INFO>sp_rudus,227,351,0,101,0</INFO></NAVI>에 가신다고요? 어휴.. 행운을 빕니다. 행운을 아주 많이 빌어 드려야 할 것 같네요.",
-        "en": "[Worker]\nWhat, you're going to <NAVI>[that place]<INFO>sp_rudus,227,351,0,101,0</INFO></NAVI>?\nOh dear... Good luck. \nI think you'll need a whole lot of it.",
+        "en": "[Worker]\nWhat, you're going to the <NAVI>[Disposal SIte]<INFO>sp_rudus,227,351,0,101,0</INFO></NAVI>?\nOh dear... Good luck. \nI think you'll need a whole lot of it.",
         "pt": "[Trabalhador]\nSério? Tenha cuidado com o <NAVI>[depósito de rejeitos]<INFO>sp_rudus,227,351,0,101,0</INFO></NAVI>, viu? Acho que devo desejar-lhe muita sorte .",
         "es": "[Trabajador]\n¿En serio? Ten cuidado con el <NAVI>[depósito de residuos]<INFO>sp_rudus,227,351,0,101,0</INFO></NAVI>, ¿sí? Creo que debo desearte mucha suerte."
     },
     "li3BBw": {
         "ko": "[일꾼]\n<NAVI>[폐기장]<INFO>sp_rudus,227,351,0,101,0</INFO></NAVI>에는 웬만하면 안 가시는 것이 좋을 것 같은데...",
-        "en": "[Worker]\nI don't think it's a good idea to go to <NAVI>[Scrapyard]<INFO>sp_rudus,227,351,0,101,0</INFO></NAVI> unless you really have to...",
+        "en": "[Worker]\nI don't think it's a good idea to go to the <NAVI>[Disposal Site]<INFO>sp_rudus,227,351,0,101,0</INFO></NAVI> unless you really have to...",
         "pt": "[Trabalhador]\nEu acho melhor não ir para o <NAVI>[depósito de rejeitos]<INFO>sp_rudus,227,351,0,101,0</INFO></NAVI>...",
         "es": "[Trabajador]\nCreo que es mejor no ir al <NAVI>[depósito de residuos]<INFO>sp_rudus,227,351,0,101,0</INFO></NAVI>..."
     },
@@ -4147,7 +4147,7 @@
     },
     "0y3BBw": {
         "ko": "[{0}]\n카우프먼씨의 팔찌는 찾았다. 카야씨에게 돌아 가자.",
-        "en": "[{0}]\nI found Kaufmann's bracelet. \nLet's return to Kaya.",
+        "en": "[{0}]\nI found Kaufman's bracelet. \nLet's return to Kaya.",
         "pt": "[{0}]\nEncontrei a pulseira do Sr. Kaufman. Vamos voltar para o Sr. Kaya.",
         "es": "[{0}]\nEncontré el brazalete del Sr. Kaufman. Volvamos con el Sr. Kaya."
     },
@@ -4171,7 +4171,7 @@
     },
     "1y3BBw": {
         "ko": "[{0}]\n쓰레기 더미를 조심조심 뒤져 식별 팔찌 몇 개를 찾았지만 카우프먼씨의 것은 없었다. 다른 곳을 찾아 보자.",
-        "en": "[{0}]\nYou carefully rummaged through the pile of trash and found a few Identification Bracelets, but none of them belonged to Mr. Kaufmann. \nLet's search somewhere else.",
+        "en": "[{0}]\nYou carefully rummaged through the pile of trash and found a few Identification Bracelets, but none of them belonged to Mr. Kaufman. \nLet's search somewhere else.",
         "pt": "[{0}]\nVasculhei cuidadosamente e achei alguns braceletes, mas nenhuma do sr. Kaufman. Vamos procurar em outro lugar.",
         "es": "[{0}]\nBusqué con cuidado y encontré algunos brazaletes, pero ninguno del Sr. Kaufman. Busquemos en otro lugar."
     },
@@ -4267,7 +4267,7 @@
     },
     "5y3BBw": {
         "ko": "[{0}]\n역시 이곳에도 아무것도 없었다. 카우프먼씨의 단서를 찾을 수나 있을까... 어쩌면 여기가 아닌 다른 곳에 있는 건 아닐까?\n마지막으로 다른 곳을 살펴 보자.",
-        "en": "[{0}]\nAs expected, there was nothing here either. \nWill I ever be able to find any clues about Mr. Kaufmann...? \nMaybe it's actually somewhere else, not here.\nLet's check one last place.",
+        "en": "[{0}]\nAs expected, there was nothing here either. \nWill I ever be able to find any clues about Mr. Kaufman...? \nMaybe it's actually somewhere else, not here.\nLet's check one last place.",
         "pt": "[{0}]\nNão havia nada aqui também. Podemos encontrar alguma pista sobre o sr. Kaufman... Talvez seja em outro lugar?\nVamos dar uma olhada em outro lugar.",
         "es": "[{0}]\nAquí tampoco había nada. ¿Podremos encontrar alguna pista sobre el Sr. Kaufman...?\nBusquemos en otro lugar."
     },
@@ -4389,7 +4389,7 @@
         "ko": "화물을 편히 싣고 나르기 위해서 선로를 깔다니. 노력이 대단해. 그런데 화물차는 어디 있지?",
         "en": "They even laid down tracks to transport cargo more easily. That's some impressive effort. But where's the freight car?",
         "pt": "É nesse trilho que passa a Carreta Buracão?",
-        "es": "¿Es por estas vías por donde pasa la Carreta Buracón?"
+        "es": "Incluso pusieron vías para mover cargas más fácilmente. Todo un esfuerzo. Pero ¿has visto algún vagón de carga?"
     },
     "/C3BBw": {
         "ko": "휴- 이제야 한숨 돌릴 수 있겠네. 내가 몇 살로 보여? 몇 살을 상상하든 그것보다는 어리니까 할아버지라고 부르지 마.",

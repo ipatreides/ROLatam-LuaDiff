@@ -3311,6 +3311,30 @@ tbl = {
 			EFFECT.EF_LEVEL99_RED
 		}
 	},
+	[20421] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.EF_LEVEL99_RED
+		}
+	},
+	[20422] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.EF_LEVEL99_RED
+		}
+	},
+	[20419] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.EF_LEVEL99_RED
+		}
+	},
+	[20381] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.EF_LEVEL99_RED
+		}
+	},
 	[3105] = {
 		MonsterSize = 1.5,
 		MonsterEff = {
@@ -3806,14 +3830,6 @@ tbl = {
 			EFFECT.EF_REFLECTBODY
 		}
 	},
-	[20381] = {
-		MonsterSize = 1,
-		MonsterEff = {
-			EFFECT.EF_GREEN99_3,
-			EFFECT.EF_GREEN99_5,
-			EFFECT.EF_GREEN99_6
-		}
-	},
 	[21384] = {
 		MonsterSize = 1.9,
 		MonsterEff = {
@@ -3885,6 +3901,54 @@ tbl = {
 			EFFECT.EF_GREEN99_3,
 			EFFECT.EF_GREEN99_5,
 			EFFECT.EF_GREEN99_6
+		}
+	},
+	[20426] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.EF_TORCH_PURPLE
+		}
+	},
+	[20386] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.EF_SPHEREWIND2
+		}
+	},
+	[20387] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.EF_SPHEREWIND2
+		}
+	},
+	[20389] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.EF_REDBODY
+		}
+	},
+	[20391] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.EF_REDBODY
+		}
+	},
+	[20392] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.EF_REFLECTBODY
+		}
+	},
+	[20393] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.EF_REFLECTBODY
+		}
+	},
+	[20394] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.EF_REFLECTBODY
 		}
 	}
 }

@@ -4672,7 +4672,7 @@
     "RooB": {
         "en": "Unsealed Baphomet",
         "pt": "Bafomé Selado",
-        "es": "Baphomet desbloqueado"
+        "es": "Baphomet Sellado"
     },
     "R4oB": {
         "en": "Naght Sieger",
@@ -6820,9 +6820,9 @@
         "es": "Dios maligno de la reproducción"
     },
     "9IsB": {
-        "en": "Morroc the Desparate god",
+        "en": "Despair God Morroc",
         "pt": "Deus Morroc",
-        "es": "Morocc el dios desesperado"
+        "es": "Dios de la Desesperación Morroc"
     },
     "9YsB": {
         "en": "Morroc of Rest",
@@ -6872,7 +6872,7 @@
     "/osB": {
         "en": "Morroc Necromancer",
         "pt": "Necromante de Morroc",
-        "es": "Nigromante de Morocc"
+        "es": "Nigromante de Morroc"
     },
     "/4sB": {
         "en": "Morroc Dummy",
@@ -6977,7 +6977,7 @@
     "E4wB": {
         "en": "The Death Ankou",
         "pt": "Ceifador Ankou",
-        "es": "El Ankou de la muerte"
+        "es": "Segador Ankou"
     },
     "FIwB": {
         "en": "Corrupted Death",
@@ -7715,9 +7715,9 @@
         "es": "Caballero real en agonía"
     },
     "p4wB": {
-        "en": "Amdarais",
+        "en": "Phantom of Amdarais",
         "pt": "Amdarais Sombrio",
-        "es": "Amdarais"
+        "es": "Amdarais Sombrío"
     },
     "qIwB": {
         "en": "Royal Guard  of Kingdom",
@@ -10867,62 +10867,62 @@
     "HY8B": {
         "en": "Starving Baphomet",
         "pt": "Bafomé Voraz",
-        "es": "Baphomet hambriento"
+        "es": "Baphomet Insaciable"
     },
     "Ho8B": {
         "en": "Starving Baphomet Jr.",
         "pt": "Bafomé Jr. Cruel",
-        "es": "Baphomet Jr. hambriento"
+        "es": "Baphomet Jr. Insaciable"
     },
     "H48B": {
         "en": "Hungry Eclipse",
         "pt": "Eclipse Bárbaro",
-        "es": "Eclipse hambriento"
+        "es": "Eclipse Insaciable"
     },
     "II8B": {
         "en": "Diligent Ungoliant",
         "pt": "Ungoliant Violento",
-        "es": "Ungoliant diligente"
+        "es": "Ungoliant Diligente"
     },
     "IY8B": {
         "en": "Vocal in Regretting",
         "pt": "Vocal Cruel",
-        "es": "Vocal de arrepentimiento"
+        "es": "Vocal Arrepentido"
     },
     "Io8B": {
         "en": "Sensitive Wild Wolf",
         "pt": "Lobo Selvagem",
-        "es": "Lobo salvaje sensible"
+        "es": "Lobo Salvaje Sensible"
     },
     "I48B": {
         "en": "Sleepy Bigfoot",
         "pt": "Pé-Grande Furioso",
-        "es": "Pie grande somnoliento"
+        "es": "Piegrande Somnoliento"
     },
     "JI8B": {
         "en": "Starving Coco",
         "pt": "Koko Silvestre",
-        "es": "Coco hambriento"
+        "es": "Coco Insaciable"
     },
     "JY8B": {
         "en": "Withered Geographer",
         "pt": "Planta Carnívora Murcha",
-        "es": "Geógrafo marchito"
+        "es": "Geografo Insaciable"
     },
     "Jo8B": {
         "en": "Angry Grizzly",
         "pt": "Grizzly Atroz",
-        "es": "Grizzly enfadado"
+        "es": "Grizzly Enfadado"
     },
     "J48B": {
         "en": "Smooth Beetle King",
         "pt": "Encouraçado Agitado",
-        "es": "Rey de escarabajo suave"
+        "es": "Rey Escarabajo Suave"
     },
     "KI8B": {
         "en": "Angry Mantis",
         "pt": "Louva-a-deus Bravo",
-        "es": "Mantis enfadada"
+        "es": "Mantis Enfadado"
     },
     "KY8B": {
         "en": "Ancient Tri Joint",
@@ -11732,107 +11732,107 @@
     "yo8B": {
         "en": "Abysmal Deviace",
         "pt": "Deviace Abismal",
-        "es": "Deviace abismal"
+        "es": "Deviace Abismal"
     },
     "y48B": {
         "en": "Abysmal Marse",
         "pt": "Marse Abismal",
-        "es": "Marse abismal"
+        "es": "Marse Abismal"
     },
     "zI8B": {
         "en": "Abysmal Merman",
         "pt": "Tritão Abismal",
-        "es": "Tritón abismal"
+        "es": "Triton Abismal"
     },
     "zY8B": {
         "en": "Abysmal Obeaune",
         "pt": "Obeaune Abismal",
-        "es": "Obeaune abismal"
+        "es": "Obeaune Abismal"
     },
     "zo8B": {
         "en": "Abysmal Phen",
         "pt": "Fen Abismal",
-        "es": "Phen abismal"
+        "es": "Phen Abismal"
     },
     "z48B": {
         "en": "Abysmal Sedora",
         "pt": "Sedora Abismal",
-        "es": "Sedora abismal"
+        "es": "Sedora Abismal"
     },
     "0I8B": {
         "en": "Abysmal Sropho",
         "pt": "Sropho Abismal",
-        "es": "Sropho abismal"
+        "es": "Sropho Abismal"
     },
     "0Y8B": {
         "en": "Abysmal Strouf",
         "pt": "Strouf Abismal",
-        "es": "Strouf abismal"
+        "es": "Strouf Abismal"
     },
     "0o8B": {
         "en": "Abysmal Swordfish",
         "pt": "Peixe Abismal",
-        "es": "Pez espada abismal"
+        "es": "Pez Espada Abismal"
     },
     "048B": {
         "en": "Abysmal Witch",
         "pt": "Bruxa do Mar",
-        "es": "Bruja abismal"
+        "es": "Bruja Abismal"
     },
     "1I8B": {
         "en": "Abysmal Deviace",
         "pt": "Deviace Abismal",
-        "es": "Deviace abismal"
+        "es": "Deviace Abismal"
     },
     "1Y8B": {
         "en": "Abysmal King Dramoh",
         "pt": "Dramoh Abismal",
-        "es": "Rey Kray abismal"
+        "es": "Rey Kray Abismal"
     },
     "1o8B": {
         "en": "Abysmal Kraken",
         "pt": "Kraken Abismal",
-        "es": "Demonio calamar abismal"
+        "es": "Demonio Calamar Abismal"
     },
     "148B": {
         "en": "Abysmal Marse",
         "pt": "Marse Abismal",
-        "es": "Marse abismal"
+        "es": "Marse Abismal"
     },
     "2I8B": {
         "en": "Abysmal Merman",
         "pt": "Tritão Abismal",
-        "es": "Tritón abismal"
+        "es": "Triton Abismal"
     },
     "2Y8B": {
         "en": "Abysmal Obeaune",
         "pt": "Obeaune Abismal",
-        "es": "Obeaune abismal"
+        "es": "Obeaune Abismal"
     },
     "2o8B": {
         "en": "Abysmal Phen",
         "pt": "Fen Abismal",
-        "es": "Phen abismal"
+        "es": "Phen Abismal"
     },
     "248B": {
         "en": "Abysmal Sedora",
         "pt": "Sedora Abismal",
-        "es": "Sedora abismal"
+        "es": "Sedora Abismal"
     },
     "3I8B": {
         "en": "Abysmal Sropho",
         "pt": "Sropho Abismal",
-        "es": "Sropho abismal"
+        "es": "Sropho Abismal"
     },
     "3Y8B": {
         "en": "Abysmal Strouf",
         "pt": "Strouf Abismal",
-        "es": "Strouf abismal"
+        "es": "Strouf Abismal"
     },
     "3o8B": {
         "en": "Abysmal Swordfish",
         "pt": "Peixe Abismal",
-        "es": "Pez espada abismal"
+        "es": "Pez Espada Abismal"
     },
     "348B": {
         "en": "Buffalo Bandit",
@@ -13233,5 +13233,65 @@
         "en": "Buffalo Bandit",
         "pt": "Búfalo Bandido",
         "es": "Bandido búfalo"
+    },
+    "95AB": {
+        "en": "Corrupted Maid",
+        "pt": "Criada Corrompida",
+        "es": "Doncella Corrupta"
+    },
+    "+JAB": {
+        "en": "Captain of the Royal Guard",
+        "pt": "Capitão da Guarda Real",
+        "es": "Capitán de la Guardia Real"
+    },
+    "+ZAB": {
+        "en": "Khalitzburg Knight",
+        "pt": "Cavaleiro de Khalitzburg",
+        "es": "Caballero de Khalitzburg"
+    },
+    "+pAB": {
+        "en": "Khalitzburg Knight",
+        "pt": "Cavaleiro de Khalitzburg",
+        "es": "Caballero de Khalitzburg"
+    },
+    "+5AB": {
+        "en": "King Schmitz",
+        "pt": "Rei Schmitz",
+        "es": "Rey Schmitz"
+    },
+    "/JAB": {
+        "en": "King Consumed by the Curse",
+        "pt": "Rei Consumido pela Maldição",
+        "es": "Rey Consumido por la Maldición"
+    },
+    "/ZAB": {
+        "en": "King Consumed by the Curse",
+        "pt": "Rei Consumido pela Maldição",
+        "es": "Rey Consumido por la Maldición"
+    },
+    "/pAB": {
+        "en": "Corrupted Root",
+        "pt": "Raiz Corrompida",
+        "es": "Raíz Corrupta"
+    },
+    "/5AB": {
+        "en": "White Knight",
+        "pt": "Cavaleiro Branco",
+        "es": "Caballero Blanco"
+    },
+    "AJEB": {
+        "en": "White Knight",
+        "pt": "Cavaleiro Branco",
+        "es": "Caballero Blanco"
+    },
+    "AZEB": {
+        "en": "Manhole 3",
+        "pt": "Bueiro 3",
+        "es": "Alcantarilla 3"
+    },
+    "ApEB": {
+        "en": "Carnival Poring",
+        "pt": "Poring de Carnaval",
+        "es": "Poring de Carnaval"
     }
 }

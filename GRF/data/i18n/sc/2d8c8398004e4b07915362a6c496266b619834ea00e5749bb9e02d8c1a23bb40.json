@@ -1210,12 +1210,12 @@
     },
     "smTDCQ": {
         "en": "<ITEM>[Ability]<INFO>{0}</INFO></ITEM>",
-        "pt": "<ITEM>[Descrição do Efeito]<INFO>{0}</INFO></ITEM>",
+        "pt": "<ITEM>[Encanto]<INFO>{0}</INFO></ITEM>",
         "es": "<ITEM>[Capacidad]<INFO>{0}</INFO></ITEM>"
     },
     "s2TDCQ": {
         "en": "^FF0000 Caution ^000000\n^FF0000This upgrade can be failed.^000000\n^FF0000Success: existing enchant stone(if any) in {0} will be replaced with {1}.^000000\n^FF0000Failure: existing enchant stone and new enchant stone will be destroyed.^000000\n^FF0000Are you sure about upgrading this item?^000000",
-        "pt": "^FF0000 Ø Avisos Ø^000000\n^FF0000Há uma chance de falha.^000000\n^FF0000O encanto [{1}] será adicionado no Visual equipável em {0}.^000000\n^FF0000Posso continuar?^000000",
+        "pt": "^FF0000 Ø Avisos Ø^000000\n^FF0000Há uma chance de falha.^000000\n^FF0000O [{1}] será adicionado no Visual equipável em {0}.^000000\n^FF0000Posso continuar?^000000",
         "es": "^FF0000 Precaución ^000000\n^FF0000Esta mejora puede fallar.^000000\n^FF0000Éxito: La piedra de encantamiento existente (si la hay) en {0} se reemplazará con {1}.^000000\n^FF0000Error: La piedra de encantamiento existente y la nueva serán destruidas.^000000\n^FF0000¿Estás seguro de mejorar este objeto?^000000"
     },
     "tGTDCQ": {
@@ -1505,7 +1505,7 @@
     },
     "7WTDCQ": {
         "en": "^FF0000 Caution ^000000\n^FF0000This upgrade can be failed.^000000\n^FF0000Success: existing enchant stone(if any) in {0} will be replaced with {1}.^000000\n^FF0000Failure: existing enchant stone in {0} and new enchant stone will be destroyed.^000000\n^FF0000Are you sure about upgrading this item?^000000",
-        "pt": "^FF0000Ø Avisos Ø^000000\n^FF0000Há uma chance de falha.^000000\n^FF0000O encanto [{1}]  será adicionado no Visual que equipa em [{0}].^000000\n^FF0000Posso continuar?^000000",
+        "pt": "^FF0000Ø Avisos Ø^000000\n^FF0000Há uma chance de falha.^000000\n^FF0000O [{1}] será adicionado no Visual que equipa em [{0}].^000000\n^FF0000Posso continuar?^000000",
         "es": "^FF0000 Precaución ^000000\n^FF0000Esta mejora puede fallar.^000000\n^FF0000Éxito: La piedra de encantamiento existente (si la hay) en {0} se reemplazará con {1}.^000000\n^FF0000Fallo: La piedra de encantamiento existente en {0} y la nueva piedra de encantamiento se destruirán.^000000\n^FF0000¿Estás seguro de mejorar este objeto?^000000"
     },
     "7mTDCQ": {
@@ -1710,7 +1710,7 @@
     },
     "FmXDCQ": {
         "en": "^FF0000 Caution ^000000\n^FF0000The effect applies to only 1 equipment regardless of the location.^000000\n^FF0000Applying {0} to {1}.^000000\n^FF0000Please confirm.^000000",
-        "pt": "^FF0000 Ø ATENÇÃO Ø^000000\n^FF0000Não há chances de falha.^000000\n^FF0000O encanto [{0}]  será adicionado no Visual que equipa em [{1}].^000000\n^FF0000Deseja continuar?^000000",
+        "pt": "^FF0000 Ø ATENÇÃO Ø^000000\n^FF0000Não há chances de falha.^000000\n^FF0000O [{0}]  será adicionado no Visual que equipa em [{1}].^000000\n^FF0000Deseja continuar?^000000",
         "es": "^FF0000 Precaución ^000000\n^FF0000El efecto solo se aplica a un equipo, independientemente de la ubicación.^000000\n^FF0000Aplicando {0} a {1}.^000000\n^FF0000Por favor, confirma.^000000"
     },
     "F2XDCQ": {
@@ -1725,7 +1725,7 @@
     },
     "GWXDCQ": {
         "en": "[Gurjio Gurmani]\n^FF0000 Caution ^000000\n^FF0000This action will remove an effect from the headgear costume.^000000\n^FF0000It will consume 99,800 Zeny and you cannot take back the effect and effect stone.^000000\n^FF0000Please confirm.^000000",
-        "pt": "[Silver Montyla]\n^FF0000Ø Avisos Ø^000000\n^FF0000A pedra de efeito não será devolvida.^000000\n^FF0000O custo para esse processo é de 99.800 Zeny.^000000 \n^FF0000 Deseja continuar?^000000",
+        "pt": "[Silver Montyla]\n^FF0000Ø Avisos Ø^000000\n^FF0000A pedra de efeito não será devolvida.^000000\n^FF0000O custo para esse processo é de 99.800 Zeny.^000000 \n^FF0000Deseja continuar?^000000",
         "es": "[Gurjio Gurmani]\n^FF0000 Precaución ^000000\n^FF0000Esta acción eliminará un efecto del traje de cabeza.^000000\n^FF0000Consumirá 99.800 Zeny y no podrás recuperar el efecto ni la piedra de efecto.^000000\n^FF0000Por favor, confirma.^000000"
     },
     "GmXDCQ": {
@@ -1922,5 +1922,15 @@
         "en": "[Costume] Soul of Neko",
         "pt": "[Visual] Miaura",
         "es": "[Disfraz] Alma de Neko"
+    },
+    "QWXDCQ": {
+        "en": "Spirit of Leadership({0})",
+        "pt": "Espírito de Liderança({0})",
+        "es": "Espíritu de Liderazgo({0})"
+    },
+    "QmXDCQ": {
+        "en": "Spirit of Influence({0})",
+        "pt": "Espírito de Influência({0})",
+        "es": "Espíritu de Influencia({0})"
     }
 }

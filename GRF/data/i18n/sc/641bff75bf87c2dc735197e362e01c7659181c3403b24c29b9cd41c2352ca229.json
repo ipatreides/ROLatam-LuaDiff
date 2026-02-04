@@ -982,12 +982,12 @@
     "BPZxAw": {
         "en": "[Ernest]\nI guess I'll have to enlist help from the Eden Group ... Drat.",
         "pt": "[Ernesto]\nPrecisei fazer uma solicitação no Grupo do Éden.",
-        "es": "[Ernest]\nSupongo que tendré que pedirle ayuda al Grupo de Edén… Maldición."
+        "es": "[Ernest]\nSupongo que tendré que pedirle ayuda al Grupo del Edén… Maldición."
     },
     "BfZxAw": {
         "en": "^4D4DFFQuest Prerequisites:\nEden Group quest [Defeat Isis] completed; cooldown reset.^000000",
         "pt": "^4D4DFFPara prosseguir com a minha missão,\nvocê tem que concluir [Metade Cobra] e aguardar o tempo de espera.^000000",
-        "es": "^4D4DFFRequisitos previos de la misión:\nMisión [Derrota a Isis] del Grupo de Edén completada; se restableció el tiempo de recarga.^000000"
+        "es": "^4D4DFFRequisitos previos de la misión:\nMisión [Derrota a Isis] del Grupo del Edén completada; se restableció el tiempo de recarga.^000000"
     },
     "BvZxAw": {
         "en": "[Ernest]\nI've decided to collaborate with this scholar,\nthanks to you, Adventurer.",
@@ -1102,7 +1102,7 @@
     "HPZxAw": {
         "en": "^4D4DFFQuest Prerequisites:\nEden Group quest [Sphinx Workers] completed; cooldown reset.^000000",
         "pt": "^4D4DFFPara prosseguir com a minha missão,\nvocê tem que concluir [Pedreiros] e aguardar o tempo de espera.^000000",
-        "es": "^4D4DFFRequisitos previos de la misión:\nMisión [Trabajadores de la esfinge] del Grupo de Edén completada; se restableció el tiempo de recarga.^000000"
+        "es": "^4D4DFFRequisitos previos de la misión:\nMisión [Trabajadores de la esfinge] del Grupo del Edén completada; se restableció el tiempo de recarga.^000000"
     },
     "HfZxAw": {
         "en": "[Ernest]\nOh, well met.\nI have another task for you.\nWe've discovered that the pyramid and the Sphinx were built during the same historical era.",
@@ -1207,7 +1207,7 @@
     "MfZxAw": {
         "en": "^4D4DFFQuest Prerequisites:\nEden Group quest [Secrets of the Sphinx] completed; cooldown reset.^000000",
         "pt": "^4D4DFFPara prosseguir com a minha missão,\nvocê tem que concluir [Enigma da Esfinge] e aguardar o tempo de espera.^000000",
-        "es": "^4D4DFFRequisitos previos de la misión:\nMisión [Secretos de la esfinge] del Grupo de Edén completada; se restableció el tiempo de recarga.^000000"
+        "es": "^4D4DFFRequisitos previos de la misión:\nMisión [Secretos de la esfinge] del Grupo del Edén completada; se restableció el tiempo de recarga.^000000"
     },
     "MvZxAw": {
         "en": "[Ernest]\nAs I've already mentioned before,\nwe have to investigate the deepest parts of the Sphinx.",
@@ -1652,12 +1652,12 @@
     "ivZxAw": {
         "en": "[Maxim]\nYou must be the one who accepted the quest I posted at the Eden Group. Thanks.",
         "pt": "[Maximus]\nVocê aceitou a missão lá no Grupo do Éden.",
-        "es": "[Maxim]\nDebes ser quien aceptó la misión que publiqué en el Grupo de Edén. Gracias."
+        "es": "[Maxim]\nDebes ser quien aceptó la misión que publiqué en el Grupo del Edén. Gracias."
     },
     "i/ZxAw": {
         "en": "^4D4DFFQuest Prerequisites:\nEden Group quest [Mummy and an Old Blue Box] completed; cooldown reset.^000000",
         "pt": "^4D4DFFPara prosseguir com a minha missão,\nvocê tem que concluir [A Caixa da Múmia] e aguardar o tempo de espera.^000000",
-        "es": "^4D4DFFRequisitos previos de la misión:\nMisión [Una Momia y una Caja antigua azul] del Grupo de Edén completada; se restableció el tiempo de recarga.^000000"
+        "es": "^4D4DFFRequisitos previos de la misión:\nMisión [Una Momia y una Caja antigua azul] del Grupo del Edén completada; se restableció el tiempo de recarga.^000000"
     },
     "jPZxAw": {
         "en": "[Maxim]\nAre you an Adventurer?\nThe place upstairs is very dangerous. Be careful.",

@@ -12,12 +12,12 @@
     "4rB/Aw": {
         "en": "[Yerne]\nHiya! How are you? I'm the Eden Group quest manager responsible for this area.",
         "pt": "[Zeca]\nOlá! Sou o enviado especial do Grupo do Éden.",
-        "es": "[Yerne]\n¡Hola! ¿Cómo estás? Soy el administrador de misiones del Grupo de Edén responsable de esta zona."
+        "es": "[Yerne]\n¡Hola! ¿Cómo estás? Soy el administrador de misiones del Grupo del Edén responsable de esta zona."
     },
     "47B/Aw": {
         "en": "[Yerne]\nUmm, I guess you haven't joined Eden Group yet.\nWhy not take this opportunity to become one of us?",
         "pt": "[Zeca]\nParece que você não se juntou ao grupo ainda.\nQue tal ir na Sede e se inscrever?",
-        "es": "[Yerne]\nMmm, supongo que aún no te has unido al Grupo de Edén.\n¿Por qué no aprovechas esta oportunidad para convertirte en uno de los nuestros?"
+        "es": "[Yerne]\nMmm, supongo que aún no te has unido al Grupo del Edén.\n¿Por qué no aprovechas esta oportunidad para convertirte en uno de los nuestros?"
     },
     "5LB/Aw": {
         "en": "[Yerne]\nThe quests here will be given to Adventurers strong enough to take them.\nPlus, all quests are taken now. Why don't you train some more and come back?",
@@ -32,7 +32,7 @@
     "5rB/Aw": {
         "en": "[Yerne]\nOh, you are the one who took the quest from our mission board.\nPlease report to the Eden Group mission board this time.",
         "pt": "[Zeca]\nAh, você aceitou a missão direto no Grupo do Éden.\nTe peço que reporte a solicitação no mesmo lugar.",
-        "es": "[Yerne]\nAh, ¿tú eres quien tomó la misión de nuestro tablero de misiones?\nEsta vez infórmalo en el tablero de misiones del Grupo de Edén."
+        "es": "[Yerne]\nAh, ¿tú eres quien tomó la misión de nuestro tablero de misiones?\nEsta vez infórmalo en el tablero de misiones del Grupo del Edén."
     },
     "57B/Aw": {
         "en": "[Yerne]\nYou already completed a quest today.",
@@ -42,12 +42,12 @@
     "6LB/Aw": {
         "en": "[Yerne]\nWe at Eden Group value our people above all.\nPlease come back tomorrow after you've had some rest!",
         "pt": "[Zeca]\nEncorajamos o esforço dos nossos membros, mas...\n... não queremos que você morra de exaustão. Volte amanhã!",
-        "es": "[Yerne]\nEn el Grupo de Edén valoramos a nuestra gente por encima de todo.\n¡Vuelve mañana cuando hayas descansado, por favor!"
+        "es": "[Yerne]\nEn el Grupo del Edén valoramos a nuestra gente por encima de todo.\n¡Vuelve mañana cuando hayas descansado, por favor!"
     },
     "6bB/Aw": {
         "en": "[Yerne]\nYoohoo! Welcome to the Foreign World, Adventurer!\nWe are the Eden Group quest managers responsible for monster raids in this area!",
         "pt": "[Zeca]\nViajantes do Novo Mundo! Como vão?\nNós dois fomos enviados pelo Grupo do Éden para esse lugar!",
-        "es": "[Yerne]\n¡Yuju! ¡Te doy la bienvenida al Nuevo mundo, trotamundos!\nSomos los administradores de misiones del Grupo de Edén responsables de los operativos contra monstruos en esta zona."
+        "es": "[Yerne]\n¡Yuju! ¡Te doy la bienvenida al Nuevo mundo, trotamundos!\nSomos los administradores de misiones del Grupo del Edén responsables de los operativos contra monstruos en esta zona."
     },
     "6rB/Aw": {
         "en": "[Yerne]\nWe've got something juicy for you. You in?",
@@ -57,7 +57,7 @@
     "67B/Aw": {
         "en": "[Theodore]\nWatch your tongue, Yerne! I never taught you to speak so rudely to others.\nHello, Adventurer. We are the Eden Group quest managers, just as that rude fellow said.",
         "pt": "[Téo]\nEu também!\nComo o Zeca disse, nós fomos enviados pelo Grupo do Éden.",
-        "es": "[Theodore]\n¡Cuidado con lo que dices, Yerne! Nunca te enseñé a hablar tan groseramente con los demás.\nHola, trotamundos. Somos los administradores de misiones del Grupo de Edén, como dijo aquel maleducado."
+        "es": "[Theodore]\n¡Cuidado con lo que dices, Yerne! Nunca te enseñé a hablar tan groseramente con los demás.\nHola, trotamundos. Somos los administradores de misiones del Grupo del Edén, como dijo aquel maleducado."
     },
     "7LB/Aw": {
         "en": "[Yerne]\nI wasn't being rude!\nTheodore is a bit uptight, but he's a good person. Anyway, do you want to take the quest?",
@@ -327,7 +327,7 @@
     "IbF/Aw": {
         "en": "[Yerne]\nM-Mystic H-H-H-Horn of C-C-Cornus.\nAdventurer! If you bring them! Please share them with me!\nT-T-They were all supposed to be sent to Eden Group!",
         "pt": "[Zeca]\nEu queria sentir o poder mágico do Cornus.\nViajante! Dizem que a magia do Cornus vem do chifre!!\nOs chifres são místicos!!",
-        "es": "[Yerne]\nC-Cuerno m-m-místico de C-C-Cornus.\n¡Trotamundos! ¡Si los traes, déjame verlos!\n¡S-S-Se supone que todos deben ser enviados al Grupo de Edén!"
+        "es": "[Yerne]\nC-Cuerno m-m-místico de C-C-Cornus.\n¡Trotamundos! ¡Si los traes, déjame verlos!\n¡S-S-Se supone que todos deben ser enviados al Grupo del Edén!"
     },
     "IrF/Aw": {
         "en": "[Yerne]\nWow! It's magnificent, that thing! Quickly! We need them quick! Please?",
@@ -687,12 +687,12 @@
     "abF/Aw": {
         "en": "[Theodore]\nHello. We are the Eden Group quest managers responsible for monster raids in this area.",
         "pt": "[Téo]\nFui enviado pelo Grupo do Éden para recepcionar os membros.",
-        "es": "[Theodore]\nHola. Somos los administradores de misiones del Grupo de Edén responsables de los asaltos a monstruos en esta zona."
+        "es": "[Theodore]\nHola. Somos los administradores de misiones del Grupo del Edén responsables de los asaltos a monstruos en esta zona."
     },
     "arF/Aw": {
         "en": "[Theodore]\nWe only give quests to Eden Group members.\nPlease go to the Eden Teleport Officer in the big city to become a member.",
         "pt": "[Téo]\nAs missões oferecidas são exclusiva para membros.\nPor favor, considere fazer parte do Grupo do Éden.",
-        "es": "[Theodore]\nSolo les damos misiones a los miembros del Grupo de Edén.\nVe al Oficial de Teletransporte del Edén en la gran ciudad para convertirte en miembro."
+        "es": "[Theodore]\nSolo les damos misiones a los miembros del Grupo del Edén.\nVe al Oficial de Teletransporte del Edén en la gran ciudad para convertirte en miembro."
     },
     "a7F/Aw": {
         "en": "[Theodore]\nThese are difficult quests to complete, so I only give them to those who are ready.",
@@ -707,7 +707,7 @@
     "bbF/Aw": {
         "en": "[Theodore]\nDo you already have a quest?\nPlease report directly to Eden Group to turn in your quest.",
         "pt": "[Téo]\nVocê já está no meio de uma missão?\nPor favor, reporte-a no Grupo do Éden.",
-        "es": "[Theodore]\n¿Ya tienes una misión?\nVe directamente al Grupo de Edén para entregar tu misión."
+        "es": "[Theodore]\n¿Ya tienes una misión?\nVe directamente al Grupo del Edén para entregar tu misión."
     },
     "brF/Aw": {
         "en": "[Theodore]\nHave you turned in your quest yet?\nPlease come back tomorrow after you get some rest.",
@@ -1262,7 +1262,7 @@
     "3LF/Aw": {
         "en": "[Nuinui]\nHey, it's a human. But I'll only make requests to humans in Eden Group.",
         "pt": "[Lulu]\nPessoas que se juntaram ao Grupo do Éden, eu preciso de vocês.",
-        "es": "[Nuinui]\nOye, es un ser humano. Pero solo les daré encargos a humanos del Grupo de Edén."
+        "es": "[Nuinui]\nOye, es un ser humano. Pero solo les daré encargos a humanos del Grupo del Edén."
     },
     "3bF/Aw": {
         "en": "[Nuinui]\nHonestly, I don't remember why.\nBut I made a promise to one human somehow ...",
@@ -1282,7 +1282,7 @@
     "4LF/Aw": {
         "en": "[Nuinui]\nOh, human. You're already doing my quest?\nGo report to Eden Group this time and get your reward. This time.",
         "pt": "[Lulu]\nOh, você aceitou minha solicitação lá no Éden?\nMuito obrigada! Você precisa reportar a missão no mesmo lugar que solicitou.",
-        "es": "[Nuinui]\nAh, ser humano. ¿Ya estás trabajando en mi misión?\nInforma al Grupo de Edén y obtén tu recompensa. Por esta vez."
+        "es": "[Nuinui]\nAh, ser humano. ¿Ya estás trabajando en mi misión?\nInforma al Grupo del Edén y obtén tu recompensa. Por esta vez."
     },
     "4bF/Aw": {
         "en": "[Nuinui]\nAha, human. Looks like you just turned in your quest. It's easy to tell if you look close enough.",

@@ -2,7 +2,7 @@
     "QMBlAw": {
         "en": "Eden Group Jeweler",
         "pt": "Joalheira",
-        "es": "Joyera del Grupo Edén"
+        "es": "Joyera del Grupo del Edén"
     },
     "QcBlAw": {
         "en": "You are carrying too many types of items. Please try again with fewer types.",
@@ -17,7 +17,7 @@
     "Q8BlAw": {
         "en": "[Eden Group Jeweler]\nWe will enchant accessories you've obtained in exchange for Eden Group Coins.",
         "pt": "[Joalheira]\nVeio encantar seus acessórios do Éden? É comigo!",
-        "es": "[Joyera del Grupo Edén]\nEncantaremos accesorios que hayas obtenido a cambio de Monedas del Grupo Edén."
+        "es": "[Joyera del Grupo del Edén]\nEncantaremos accesorios que hayas obtenido a cambio de Monedas del Grupo del Edén."
     },
     "RMBlAw": {
         "en": "How would you like to enchant?",
@@ -27,42 +27,42 @@
     "RcBlAw": {
         "en": "Add stats to Eden Group accessory",
         "pt": "Encantar Acessório do Éden",
-        "es": "Añadir estadísticas al accesorio Grupo Edén"
+        "es": "Añadir estadísticas al accesorio Grupo del Edén"
     },
     "RsBlAw": {
         "en": "Reset Eden Group accessory enchantment",
         "pt": "Resetar encantos",
-        "es": "Restablecer el encanto de los accesorios del Grupo Edén"
+        "es": "Restablecer el encanto de los accesorios del Grupo del Edén"
     },
     "R8BlAw": {
         "en": "[Eden Group Jeweler]\nHave you ever traded Eden Group Coins for equipment?",
         "pt": "[Joalheira]\nTodo acessório que você comprou por Moedas do Éden pode ser encantado.",
-        "es": "[Joyera del Grupo Edén]\n¿Alguna vez has cambiado monedas del Grupo Edén por equipamiento?"
+        "es": "[Joyera del Grupo del Edén]\n¿Alguna vez has cambiado monedas del Grupo del Edén por equipamiento?"
     },
     "SMBlAw": {
         "en": "[Eden Group Jeweler]\nI can also provide additional engravings on accessories.",
         "pt": "[Joalheira]\nOu seja, somente os Anéis e Colares do Éden com os nomes Forte, Mágico, Ágil e Vital, de qualquer numeração, I, II, III, IV e V.",
-        "es": "[Joyera del Grupo Edén]\nTambién puedo proporcionar grabados adicionales en accesorios."
+        "es": "[Joyera del Grupo del Edén]\nTambién puedo proporcionar grabados adicionales en accesorios."
     },
     "ScBlAw": {
         "en": "[Eden Group Jeweler]\nYou can engrave up to 2 sockets. Each socket costs 10 Eden Group Coins, and you can always reset whenever you want.",
         "pt": "[Joalheira]\nO processo custa 10 Moedas do Éden por encanto. Você só pode adicionar o máximo de 2 pedras.",
-        "es": "[Joyera del Grupo Edén]\nPuedes grabar hasta 2 zócalos. Cada zócalo cuesta 10 Monedas del Grupo Edén, y siempre puedes restablecerlo cuando quieras."
+        "es": "[Joyera del Grupo del Edén]\nPuedes grabar hasta 2 zócalos. Cada zócalo cuesta 10 Monedas del Grupo del Edén, y siempre puedes restablecerlo cuando quieras."
     },
     "SsBlAw": {
         "en": "[Eden Group Jeweler]\nResetting costs 10 Eden Group Coins, and enchanting and resetting will never destroy an item, so you don't need to worry about that.",
         "pt": "[Joalheira]\nVocê também pode resetar os encantos pelo mesmo valor. Não há chance nenhuma de falha.",
-        "es": "[Joyera del Grupo Edén]\nReajustar cuesta 10 Monedas del Grupo Edén, y encantar y reajustar nunca destruirá un objeto, así que no tienes que preocuparte por eso."
+        "es": "[Joyera del Grupo del Edén]\nReajustar cuesta 10 Monedas del Grupo del Edén, y encantar y reajustar nunca destruirá un objeto, así que no tienes que preocuparte por eso."
     },
     "S8BlAw": {
         "en": "[Eden Group Jeweler]\nYou must equip an Eden Group accessory in your right accessory slot to proceed.",
         "pt": "[Joalheira]\nPreciso que você equipe o acessório no lado DIREITO para continuar.",
-        "es": "[Joyera del Grupo Edén]\nDebes equipar un accesorio del Grupo Edén en tu ranura de accesorio derecha para continuar."
+        "es": "[Joyera del Grupo del Edén]\nDebes equipar un accesorio del Grupo del Edén en tu ranura de accesorio derecha para continuar."
     },
     "TMBlAw": {
         "en": "[Eden Group Jeweler]\nIt's very dangerous to unequip the item during the process.",
         "pt": "[Joalheira]\nNão é legal remover o item durante o processo.",
-        "es": "[Joyera del Grupo Edén]\nEs muy peligroso desequipar el objeto durante el proceso."
+        "es": "[Joyera del Grupo del Edén]\nEs muy peligroso desequipar el objeto durante el proceso."
     },
     "TcBlAw": {
         "en": "Eden Group Ring of Strength I",
@@ -267,17 +267,17 @@
     "dcBlAw": {
         "en": "[Eden Group Jeweler]\nI cannot engrave this equipment.^0000FFCould you return with an Eden Group accessory equipped in your right accessory slot^000000?",
         "pt": "[Joalheira]\nEu não trabalho com esse item. Somente ^0000FFacessórios do Éden equipados no lado DIREITO^000000.",
-        "es": "[Joyera del Grupo Edén]\nNo puedo grabar este equipo.^0000FF¿Podrías volver con un accesorio del Grupo Edén equipado en tu ranura de accesorio derecha^000000?"
+        "es": "[Joyera del Grupo del Edén]\nNo puedo grabar este equipo.^0000FF¿Podrías volver con un accesorio del Grupo del Edén equipado en tu ranura de accesorio derecha^000000?"
     },
     "dsBlAw": {
         "en": "[Eden Group Jeweler]\nThis accessory has already been fully upgraded. It can't be improved any further.",
         "pt": "[Joalheira]\nEsse item está encantado no máximo.",
-        "es": "[Joyera del Grupo Edén]\nEste accesorio ya se ha mejorado por completo. No se puede mejorar más."
+        "es": "[Joyera del Grupo del Edén]\nEste accesorio ya se ha mejorado por completo. No se puede mejorar más."
     },
     "d8BlAw": {
         "en": "[Eden Group Jeweler]\nWhat kind of effect would you like?",
         "pt": "[Joalheira]\nQue tipo de encanto você gostaria?",
-        "es": "[Joyera del Grupo Edén]\n¿Qué tipo de efecto le gustaría?"
+        "es": "[Joyera del Grupo del Edén]\n¿Qué tipo de efecto le gustaría?"
     },
     "eMBlAw": {
         "en": "Think again.",
@@ -297,7 +297,7 @@
     "e8BlAw": {
         "en": "[Eden Group Jeweler]\nI will try the first stats upgrade. ^FF0000Already refined parts or cards will not be affected. Moreover, the enchant will not destroy the equipment.^000000 Should I continue?",
         "pt": "[Joalheira]\nVou encantar o 1º slot. ^FF0000Não há chance de falha.^000000 Posso continuar?",
-        "es": "[Joyera del Grupo Edén]\nIntentaré la primera mejora de estadísticas. ^FF0000Las piezas o cartas ya refinadas no se verán afectadas. Además, el encantamiento no destruirá el equipo. ^000000 ¿Debo continuar?"
+        "es": "[Joyera del Grupo del Edén]\nIntentaré la primera mejora de estadísticas. ^FF0000Las piezas o cartas ya refinadas no se verán afectadas. Además, el encantamiento no destruirá el equipo. ^000000 ¿Debo continuar?"
     },
     "fMBlAw": {
         "en": "I'll come back later.",
@@ -312,61 +312,61 @@
     "fsBlAw": {
         "en": "[Eden Group Jeweler]\nUnderstood. Please come back if you change your mind.",
         "pt": "[Joalheira]\nTudo bem, estarei aguardando você caso mude de ideia.",
-        "es": "[Joyera del Grupo Edén]\nEntendido. Por favor, vuelva si cambia de opinión."
+        "es": "[Joyera del Grupo del Edén]\nEntendido. Por favor, vuelva si cambia de opinión."
     },
     "f8BlAw": {
         "en": "[Eden Group Jeweler]\nI will try the second stats upgrade. ^FF0000Already refined parts or cards will not be affected. Moreover, the enchant will not destroy the equipment.^000000 Should I continue?",
         "pt": "[Joalheira]\nVou encantar o 2º slot. ^FF0000Partes já refinadas ou cartas não serão afetadas. Além disso, o encantamento não destruirá o equipamento.^000000 Deseja continuar?",
-        "es": "[Joyera del Grupo Edén]\nIntentaré la segunda mejora de estadísticas. ^FF0000Las piezas o cartas ya refinadas no se verán afectadas. Además, el encantamiento no destruirá el equipo. ^000000 ¿Debo continuar?"
+        "es": "[Joyera del Grupo del Edén]\nIntentaré la segunda mejora de estadísticas. ^FF0000Las piezas o cartas ya refinadas no se verán afectadas. Además, el encantamiento no destruirá el equipo. ^000000 ¿Debo continuar?"
     },
     "gMBlAw": {
         "en": "[Eden Group Jeweler]\nThis equipment has already been fully upgraded. You can upgrade it again after resetting its existing upgrades. Or you can bring me another weapon.",
         "pt": "[Joalheira]\nNão posso mais adicionar encantos nesse item. Considere resetar os encantos...",
-        "es": "[Joyera del Grupo Edén]\nEste equipo ya ha sido completamente mejorado. Puedes mejorarlo de nuevo después de restablecer las mejoras existentes. O puedes traerme otra arma."
+        "es": "[Joyera del Grupo del Edén]\nEste equipo ya ha sido completamente mejorado. Puedes mejorarlo de nuevo después de restablecer las mejoras existentes. O puedes traerme otra arma."
     },
     "gcBlAw": {
         "en": "[Eden Group Jeweler]\nDo you want to reset all upgrades and effects on this accessory? There's no chance of failure, of course.",
         "pt": "[Joalheira]\nQuer remover todos os encantos do acessório? Não tem chances de falhar.",
-        "es": "[Joyera del Grupo Edén]\n¿Quieres reiniciar todas las mejoras y efectos de este accesorio? No hay posibilidad de fallo, por supuesto."
+        "es": "[Joyera del Grupo del Edén]\n¿Quieres reiniciar todas las mejoras y efectos de este accesorio? No hay posibilidad de fallo, por supuesto."
     },
     "gsBlAw": {
         "en": "[Eden Group Jeweler]\nThis item hasn't been upgraded enough to be reset. Please come back after you have upgraded it twice.",
         "pt": "[Joalheira]\nEu só posso resetar os encantos desse item se ele possuir 2 encantos.",
-        "es": "[Joyera del Grupo Edén]\nEste objeto no se ha mejorado lo suficiente como para restablecerlo. Vuelve cuando lo hayas mejorado dos veces."
+        "es": "[Joyera del Grupo del Edén]\nEste objeto no se ha mejorado lo suficiente como para restablecerlo. Vuelve cuando lo hayas mejorado dos veces."
     },
     "g8BlAw": {
         "en": "[Eden Group Jeweler]\nI don't know what happened, but something went wrong. Would you come back later?",
         "pt": "[Joalheira]\nAlgo deu errado. Volte mais tarde.",
-        "es": "[Joyera del Grupo Edén]\nNo sé qué pasó, pero algo salió mal. ¿Podría volver más tarde?"
+        "es": "[Joyera del Grupo del Edén]\nNo sé qué pasó, pero algo salió mal. ¿Podría volver más tarde?"
     },
     "hMBlAw": {
         "en": "[Eden Group Jeweler]\nI don't know what happened, but something went wrong. Please come back later.",
         "pt": "[Joalheira]\nAlgo deu errado. Volte mais tarde.",
-        "es": "[Joyera del Grupo Edén]\nNo sé qué pasó, pero algo salió mal. Por favor, vuelva más tarde."
+        "es": "[Joyera del Grupo del Edén]\nNo sé qué pasó, pero algo salió mal. Por favor, vuelva más tarde."
     },
     "hcBlAw": {
         "en": "[Eden Group Jeweler]\nI can't work with this.",
         "pt": "[Joalheira]\nAcho que eu não devo mexer nesse item.",
-        "es": "[Joyera del Grupo Edén]\nNo puedo trabajar con esto."
+        "es": "[Joyera del Grupo del Edén]\nNo puedo trabajar con esto."
     },
     "hsBlAw": {
         "en": "[Eden Group Jeweler]\nOh no, seems like you weren't very lucky. But it happens pretty frequently.",
         "pt": "[Joalheira]\nOps... É raro, mas acontece muito.",
-        "es": "[Joyera del Grupo Edén]\nOh no, parece que no tuviste mucha suerte. Pero sucede con bastante frecuencia."
+        "es": "[Joyera del Grupo del Edén]\nOh no, parece que no tuviste mucha suerte. Pero sucede con bastante frecuencia."
     },
     "h8BlAw": {
         "en": "[Eden Group Jeweler]\nThe item is complete. Take a look.",
         "pt": "[Joalheira]\nO encanto foi um sucesso.",
-        "es": "[Joyera del Grupo Edén]\nEl artículo está completo. Echa un vistazo."
+        "es": "[Joyera del Grupo del Edén]\nEl artículo está completo. Echa un vistazo."
     },
     "iMBlAw": {
         "en": "[Eden Group Jeweler]\nYou haven't chosen what you want me to do. Please try again.",
         "pt": "[Joalheira]\nAlgo deu errado. Volte mais tarde.",
-        "es": "[Joyera del Grupo Edén]\nNo has elegido lo que quieres que haga. Por favor, inténtelo de nuevo."
+        "es": "[Joyera del Grupo del Edén]\nNo has elegido lo que quieres que haga. Por favor, inténtelo de nuevo."
     },
     "icBlAw": {
         "en": "[Eden Group Jeweler]\nThis job costs 10 Eden Group Coins, but you don't seem to have enough on you.",
         "pt": "[Joalheira]\nVocê não tem 10 Moeas do Éden, então não posso continuar.",
-        "es": "[Joyera del Grupo Edén]\nEste trabajo cuesta 10 Monedas del Grupo Edén, pero parece que no llevas suficientes."
+        "es": "[Joyera del Grupo del Edén]\nEste trabajo cuesta 10 Monedas del Grupo del Edén, pero parece que no llevas suficientes."
     }
 }

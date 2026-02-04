@@ -42,7 +42,7 @@
     "aPdUAw": {
         "en": "[Rigel]\nSo I secretly filed a request to Eden Group's office.\nA member from Eden Group came and went in there alone to investigate, but...",
         "pt": "[Lígia]\nEntão eu fiz um pedido para o Grupo do Éden.\nEles mandaram alguém para investigar...",
-        "es": "[Rigel]\nAsí que, en secreto, presenté una solicitud a la oficina del Grupo de Edén.\nUn miembro del Grupo de Edén entró allí a solas para investigar, pero…"
+        "es": "[Rigel]\nAsí que, en secreto, presenté una solicitud a la oficina del Grupo del Edén.\nUn miembro del Grupo del Edén entró allí a solas para investigar, pero…"
     },
     "afdUAw": {
         "en": "[Rigel]\nHe hasn't come out even once since then.\nWhat if the ghost got him?\nPlease, go in there and see if he's alive!",
@@ -77,12 +77,12 @@
     "b/dUAw": {
         "en": "[Rigel]\nPlease see what is going in there\nand if that person from Eden Group is alive.",
         "pt": "[Lígia]\nQue diabos está rolando?\nPor favor, veja se o membro do Éden está a salvo.",
-        "es": "[Rigel]\nFíjate qué está pasando allí.\ny si esa persona del Grupo de Edén está viva."
+        "es": "[Rigel]\nFíjate qué está pasando allí.\ny si esa persona del Grupo del Edén está viva."
     },
     "cPdUAw": {
         "en": "[Rigel]\nIs the Eden Group guy alive?\nI see.\nThank you. Did you run into any trouble inside?",
         "pt": "[Lígia]\nE como ele está?\nEntendi.\nTem algo rolando lá embaixo?",
-        "es": "[Rigel]\n¿El tipo del Grupo de Edén está vivo?\nYa veo.\nGracias. ¿Tuviste algún problema dentro?"
+        "es": "[Rigel]\n¿El tipo del Grupo del Edén está vivo?\nYa veo.\nGracias. ¿Tuviste algún problema dentro?"
     },
     "cfdUAw": {
         "en": "[Rigel]\nOh... You need to investigate more.\nI get it.\nIt's a relief that everyone's all right.",
@@ -117,7 +117,7 @@
     "d/dUAw": {
         "en": "Are you from the Eden Group?",
         "pt": "Você é do Grupo do Éden?",
-        "es": "¿Eres del Grupo de Edén?"
+        "es": "¿Eres del Grupo del Edén?"
     },
     "ePdUAw": {
         "en": "[Cursa]\nUh, yes, I am, but why are you here, adventurer?",

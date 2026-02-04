@@ -72,22 +72,22 @@
         "es": "Ver Misión de Evento Completo"
     },
     "7DubDA": {
-        "ko": "굳은 지상 딜리터 처치",
-        "en": "Defeat Stiff Deleter(Ground)",
-        "pt": "Derrotar Deleter",
-        "es": "Derrotar Deleter rígido (tierra)"
+        "ko": "Furious Dark Piest 처치",
+        "en": "Defeat Furious Dark Priest",
+        "pt": "Derrotar Sacerdote Maldito Feroz",
+        "es": "Derrotar Sacerdote oscuro furioso"
     },
     "7TubDA": {
-        "ko": "아이스 고스트 처치",
-        "en": "Defeat Ice Ghost",
-        "pt": "Derrotar Xamã do Gelo",
-        "es": "Derrotar Chamán de Hielo"
+        "ko": "바나나 888개를 전달",
+        "en": "Deliver 888 bananas",
+        "pt": "Entregue 888 Bananas",
+        "es": "Entrega 888 Bananas"
     },
     "7jubDA": {
-        "ko": "플레임 고스트 처치",
-        "en": "Defeat Flame Ghost",
-        "pt": "Derrotar Xamã do Fogo",
-        "es": "Derrotar Chamán de Fuego"
+        "ko": "500,000 제니를 기부",
+        "en": "Donate 500,000 Zeny",
+        "pt": "Doe 500.000 Zeny",
+        "es": "Dona 500.000 Zeny"
     },
     "7zubDA": {
         "ko": "[Mission Board]\n해당 퀘스트는 하루에 1회만 수행할 수 있습니다.",
@@ -96,10 +96,10 @@
         "es": "[Tablero de Misiones]\nEsta misión solo se puede completar una vez al día."
     },
     "8DubDA": {
-        "ko": "[Mission Board]\n굳은 지상 딜리터 5마리 처치\nEXP Battle Pass 4",
-        "en": "[Mission Board]\nDefeat 5 Stiff Deleter(Ground)\nEXP Battle Pass 4",
-        "pt": "[Quadro de Missões]\nDerrote 5 Deleter\nEXP do Passe: 4",
-        "es": "[Tablero de Misiones]\nDerrota 5 Deleter rígido (tierra)\nEXP del Pase: 4"
+        "ko": "[Mission Board]\nFurious Dark Piest 2마리 처치\nEXP Battle Pass 3",
+        "en": "[Mission Board]\nDefeat 2 Furious Dark Priest\nEXP Battle Pass 3",
+        "pt": "[Quadro de Missões]\nDerrote 2 Sacerdote Maldito Feroz\nEXP do Passe: 3",
+        "es": "[Tablero de Misiones]\nDerrota 2 Sacerdote oscuro furioso\nEXP del Pase: 3"
     },
     "8TubDA": {
         "ko": "[Mission Board]\n이미 진행 중인 퀘스트입니다.",
@@ -108,22 +108,22 @@
         "es": "[Tablero de Misiones]\nYa estás realizando esta misión."
     },
     "8jubDA": {
-        "ko": "[Mission Board]\n아이스 고스트 5마리 처치\nEXP Battle Pass 4",
-        "en": "[Mission Board]\nDefeat 5 Ice Ghosts\nEXP Battle Pass 4",
-        "pt": "[Quadro de Missões]\nDerrote 5 Xamã do Gelo\nEXP do Passe: 4",
-        "es": "[Tablero de Misiones]\nDerrota 5 Chamán de Hielo\nEXP del Pase: 4"
+        "ko": "[Mission Board]\n바나나 888개를 전달하세요.\nEXP Battle Pass 4",
+        "en": "[Mission Board]\nDeliver 888 Bananas.\nEXP Battle Pass 4",
+        "pt": "[Mission Board]\nEntregue 888 Bananas.\nEXP Battle Pass 4",
+        "es": "[Mission Board]\nEntrega 888 Bananas.\nEXP Battle Pass 4"
     },
     "8zubDA": {
-        "ko": "[Mission Board]\n플레임 고스트 5마리 처치\nEXP Battle Pass 4",
-        "en": "[Mission Board]\nDefeat 5 Flame Ghosts\nEXP Battle Pass 4",
-        "pt": "[Quadro de Missões]\nDerrote 5 Xamã do Fogo\nEXP do Passe: 4",
-        "es": "[Tablero de Misiones]\nDerrota 5 Chamán de Fuego\nEXP del Pase: 4"
+        "ko": "[Mission Board]\n500,000 제니를 기부하세요.\nEXP Battle Pass 4",
+        "en": "[Mission Board]\nDonate 500,000 Zeny.\nEXP Battle Pass 4",
+        "pt": "[Mission Board]\nDoe 500.000 Zeny.\nEXP Battle Pass 4",
+        "es": "[Mission Board]\nDona 500.000 Zeny.\nEXP Battle Pass 4"
     },
     "9DubDA": {
-        "ko": "나흐트 지거 처치",
-        "en": "Defeat Naght Sieger",
-        "pt": "Derrotar Naght Sieger",
-        "es": "Derrotar Naght Sieger"
+        "ko": "Rigid Nightmare Terror 처치",
+        "en": "Defeat Stiff Nightmare Terror",
+        "pt": "Derrotar Pesadelo Sinistro",
+        "es": "Derrotar Terror nocturno rígido"
     },
     "9TubDA": {
         "ko": "자기 계발",
@@ -138,10 +138,10 @@
         "es": "[Tablero de Misiones]\nEsta misión solo se puede completar una vez por semana."
     },
     "9zubDA": {
-        "ko": "[Mission Board]\n나흐트 지거 1마리 처치\nEXP Battle Pass 20",
-        "en": "[Mission Board]\nDefeat 1 Naght Sieger\nEXP Battle Pass 20",
-        "pt": "[Quadro de Missões]\nDerrote 1 Naght Sieger\nEXP do Passe: 20",
-        "es": "[Tablero de Misiones]\nDerrota 1 Naght Sieger\nEXP del Pase: 20"
+        "ko": "[Mission Board]\nRigid Nightmare Terror 200마리 처치\nEXP Battle Pass 20",
+        "en": "[Mission Board]\nDefeat 200 Stiff Nightmare Terror\nEXP Battle Pass 20",
+        "pt": "[Quadro de Missões]\nDerrote 200 Pesadelo Sinistro\nEXP do Passe: 20",
+        "es": "[Tablero de Misiones]\nDerrota 200 Terror nocturno rígido\nEXP del Pase: 20"
     },
     "+DubDA": {
         "ko": "[Mission Board]\n이미 진행 중인 퀘스트입니다.\n이번 주에는 1회만 진행할 수 있습니다!",
@@ -198,22 +198,22 @@
         "es": "Reportar Misión de Evento Completo"
     },
     "ATybDA": {
-        "ko": "굳은 지상 딜리터 처치 의뢰",
-        "en": "Stiff Deleter(Ground) Extermination Request",
-        "pt": "Caçar Deleter",
-        "es": "Cazar Deleter rígido (tierra)"
+        "ko": "Furious Dark Piest 처치 의뢰",
+        "en": "Furious Dark Priest Extermination Request",
+        "pt": "Caçar Sacerdote Maldito Feroz",
+        "es": "Cazar Sacerdote oscuro furioso"
     },
     "AjybDA": {
-        "ko": "아이스 고스트 처치 의뢰",
-        "en": "Ice Ghost Extermination Request",
-        "pt": "Caçar Xamã do Gelo",
-        "es": "Cazar Chamán de Hielo"
+        "ko": "바나나 전달 의뢰",
+        "en": "Banana Delivery Request",
+        "pt": "Pedido de Entrega de Bananas",
+        "es": "Encargo de Entrega de Bananas"
     },
     "AzybDA": {
-        "ko": "플레임 고스트 처치 의뢰",
-        "en": "Flame Ghost Extermination Request",
-        "pt": "Caçar Xamã do Fogo",
-        "es": "Cazar Chamán de Fuego"
+        "ko": "제니를 기부 의뢰",
+        "en": "Zeny Donation Request",
+        "pt": "Pedido de Doação de Zeny",
+        "es": "Encargo de Donación de Zeny"
     },
     "BDybDA": {
         "ko": "[Mission Board]\n퀘스트 완료\nBattle Pass EXP 3 지급",
@@ -258,21 +258,33 @@
         "es": "[Tablero de Misiones]\nMisión Completada\nHas recibido 150 de EXP del Pase de Batalla"
     },
     "CzybDA": {
-        "ko": "굳은 공중 딜리터 처치",
-        "en": "Defeat Stiff Deleter(Sky)",
-        "pt": "Derrotar Deleter Voador",
-        "es": "Derrotar Deleter rígido (cielo)"
+        "ko": "Phen 처치",
+        "en": "Defeat Phen",
+        "pt": "Derrotar Fen",
+        "es": "Derrotar Phen"
     },
     "DDybDA": {
-        "ko": "[Mission Board]\n굳은 공중 딜리터 5마리 처치\nEXP Battle Pass 4",
-        "en": "[Mission Board]\nDefeat 5 Stiff Deleter(Sky)s\nEXP Battle Pass 4",
-        "pt": "[Quadro de Missões]\nDerrote 5 Deleter Voador\nEXP do Passe: 4",
-        "es": "[Tablero de Misiones]\nDerrota 5 Deleter rígido (cielo)\nEXP del Pase: 4"
+        "ko": "[Mission Board]\nPhen 80마리 처치\nEXP Battle Pass 3",
+        "en": "[Mission Board]\nDefeat 80 Phen\nEXP Battle Pass 3",
+        "pt": "[Quadro de Missões]\nDerrote 80 Fen\nEXP do Passe: 3",
+        "es": "[Tablero de Misiones]\nDerrota 80 Phen\nEXP del Pase: 3"
     },
     "DTybDA": {
-        "ko": "굳은 공중 딜리터 처치 의뢰",
-        "en": "Stiff Deleter(Sky) Extermination Request",
-        "pt": "Caçar Deleter Voador",
-        "es": "Cazar Deleter rígido (cielo)"
+        "ko": "Phen 처치 의뢰",
+        "en": "Phen Extermination Request",
+        "pt": "Missão para Derrotar Fen",
+        "es": "Encargo para Derrotar a Phen"
+    },
+    "DjybDA": {
+        "ko": "[Mission Board]\n조건이 맞지 않습니다.\n진행할 수 없습니다.",
+        "en": "[Mission Board]\nThe requirements are not met.\nYou cannot proceed.",
+        "pt": "[Mission Board]\nOs requisitos não foram atendidos.\nNão é possível prosseguir.",
+        "es": "[Mission Board]\nNo cumples con los requisitos.\nNo se puede continuar."
+    },
+    "DzybDA": {
+        "ko": "Rigid Nightmare Terror 처치 의뢰",
+        "en": "Request to Defeat Stiff Nightmare Terror",
+        "pt": "Missão para Derrotar o Pesadelo Sinistro",
+        "es": "Encargo para Derrotar al Terror nocturno rígido"
     }
 }

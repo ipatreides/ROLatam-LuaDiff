@@ -42,12 +42,12 @@
     "aCgOCg": {
         "en": "^4D4DFFQuest Prerequisites:\nEden Group quest [Noisy Fellows] completed; cooldown reset.^000000",
         "pt": "^4D4DFFPré-requisitos da missão:\nMissão do Grupo do Éden [Bichos Barulhentos] concluída; tempo de espera reiniciado.^000000",
-        "es": "{Requisitos previos:\nBúsqueda del Grupo Edén [Compañeros Ruidosos] completada; enfriamiento reseteado.^000000"
+        "es": "{Requisitos previos:\nBúsqueda del Grupo del Edén [Compañeros Ruidosos] completada; enfriamiento reseteado.^000000"
     },
     "aSgOCg": {
         "en": "[Pontis]\nCriatura Academy helps out novice Adventurers.\nAnd they are running a joint venture with the Eden Group.",
         "pt": "[Pontis]\nA Academia Criatura ajuda os aventureiros Aprendizes.\nE eles estão administrando um empreendimento conjunto com o Grupo do Éden.",
-        "es": "[Pontis]\nLa Academia Criatura ayuda a los aventureros principiantes.\nY dirigen una empresa conjunta con el Grupo Edén."
+        "es": "[Pontis]\nLa Academia Criatura ayuda a los aventureros principiantes.\nY dirigen una empresa conjunta con el Grupo del Edén."
     },
     "aigOCg": {
         "en": "[Pontis]\nAll for the sake of teaching novices how to accept quests and help others.",
@@ -57,7 +57,7 @@
     "aygOCg": {
         "en": "[Pontis]\nHead over to the Eden Group. I can fix you up with some tasks once you join them.",
         "pt": "[Pontis]\nVá até o Grupo do Éden. Posso lhe dar algumas tarefas quando você se juntar a eles.",
-        "es": "[Pontis]\nDirígete al Grupo Edén. Puedo asignarte algunas tareas cuando te unas a ellos."
+        "es": "[Pontis]\nDirígete al Grupo del Edén. Puedo asignarte algunas tareas cuando te unas a ellos."
     },
     "bCgOCg": {
         "en": "[Pontis]\nThere's a task adequate for your level. Interested?",
@@ -107,7 +107,7 @@
     "dSgOCg": {
         "en": "[Pontis]\nThink this over, now.\nMost of the quests around the continent can be obtained from the Eden Group.\nThey will surely be helpful to you.",
         "pt": "[Pontis]\nPense nisso agora.\nA maioria das missões no continente pode ser obtida no Grupo do Éden.\nElas certamente serão úteis para você.",
-        "es": "[Pontis]\nPiénsalo bien.\nLa mayoría de las misiones del continente pueden obtenerse del Grupo Edén.\nSeguramente te serán de ayuda."
+        "es": "[Pontis]\nPiénsalo bien.\nLa mayoría de las misiones del continente pueden obtenerse del Grupo del Edén.\nSeguramente te serán de ayuda."
     },
     "digOCg": {
         "en": "[Pontis]\nPeco Pecos and Mukas are in the field southwest of izlude.\nBe careful. Peco Pecos tend to attack in groups.",
@@ -122,12 +122,12 @@
     "eCgOCg": {
         "en": "[Pontis]\nOh, finished already?\nThe Eden Group gives this quest out, too, you know.",
         "pt": "[Pontis]\nOh, já terminou?\nO Grupo do Éden também distribui essa missão, você sabe.",
-        "es": "[Pontis]\nOh, ¿ya terminaste?\nEl Grupo Edén también da esta búsqueda, ya sabes."
+        "es": "[Pontis]\nOh, ¿ya terminaste?\nEl Grupo del Edén también da esta búsqueda, ya sabes."
     },
     "eSgOCg": {
         "en": "[Pontis]\nYou can do it again anytime by talking to me or the Eden Group.",
         "pt": "[Pontis]\nVocê pode fazer isso novamente a qualquer momento, falando comigo ou com o Grupo do Éden.",
-        "es": "[Pontis]\nPuedes volver a hacerlo en cualquier momento hablando conmigo o con el Grupo Edén."
+        "es": "[Pontis]\nPuedes volver a hacerlo en cualquier momento hablando conmigo o con el Grupo del Edén."
     },
     "eigOCg": {
         "en": "[Pontis]\nUsually, quests for defeating monsters are available once a day, every day.\nKeep that in mind during your travels!",
@@ -197,7 +197,7 @@
     "hygOCg": {
         "en": "^4D4DFFIn order to proceed with this quest,\nall [Noisy Fellows] quests received from Eden group must be completed and the waiting time has ended.^000000",
         "pt": "^4D4DFFPara prosseguir com essa missão,\ntodas as missões [Bichos Barulhentos] recebidas do Grupo do Éden devem ter sido concluídas e o tempo de espera deve ter terminado.^000000",
-        "es": "^4D4DFFPara proceder con esta quest,\ntodas las misiones [Noisy Fellows] recibidas del Grupo Edén deben ser completadas y el tiempo de espera debe haber terminado.^000000"
+        "es": "^4D4DFFPara proceder con esta quest,\ntodas las misiones [Noisy Fellows] recibidas del Grupo del Edén deben ser completadas y el tiempo de espera debe haber terminado.^000000"
     },
     "iCgOCg": {
         "en": "[Pontis]\nAnd from now on, I'll give you some more difficult quests.\nIsn't that exciting?",
@@ -207,7 +207,7 @@
     "iSgOCg": {
         "en": "^4D4DFFQuest Prerequisites:\nEden Group quest [Chicken Eggs and Grasshoppers] completed; cooldown reset.^000000",
         "pt": "^4D4DFFPré-requisitos da missão:\nMissão do Grupo do Éden [Ovos de Galinha e Gafanhotos] concluída; tempo de espera reiniciado.^000000",
-        "es": "{Requisitos previos de la búsqueda:\nBúsqueda del Grupo Edén [Huevos de gallina y saltamontes] completada; enfriamiento reseteado.^000000"
+        "es": "{Requisitos previos de la búsqueda:\nBúsqueda del Grupo del Edén [Huevos de gallina y saltamontes] completada; enfriamiento reseteado.^000000"
     },
     "iigOCg": {
         "en": "[Pontis]\nWell met!\nI have a quest for you.",
@@ -217,7 +217,7 @@
     "iygOCg": {
         "en": "[Pontis]\nI've got a quest from the Eden Group here to help you train.",
         "pt": "[Pontis]\nTenho uma missão do Grupo do Éden aqui para ajudá-lo a treinar.",
-        "es": "[Pontis]\nTengo aquí una misión del Grupo Edén para ayudarte a entrenar."
+        "es": "[Pontis]\nTengo aquí una misión del Grupo del Edén para ayudarte a entrenar."
     },
     "jCgOCg": {
         "en": "[Pontis]\nIt's kinda like training for those who've just come out of Criatura Academy.",
@@ -297,7 +297,7 @@
     "mygOCg": {
         "en": "[Pontis]\nYou're getting used to things pretty quickly now, aren't you?\nAre you doing well with the quests from Eden Group?",
         "pt": "[Pontis]\nVocê está se acostumando com as coisas bem rápido agora, não é?\nEstá se saindo bem com as missões do Grupo do Éden?",
-        "es": "[Pontis]\nTe estás acostumbrando muy rápido a las cosas, ¿verdad?\n¿Te va bien con las misiones del Grupo Edén?"
+        "es": "[Pontis]\nTe estás acostumbrando muy rápido a las cosas, ¿verdad?\n¿Te va bien con las misiones del Grupo del Edén?"
     },
     "nCgOCg": {
         "en": "[Pontis]\nThen why don't you go and have a chat with some of the other folks around town?",
@@ -332,7 +332,7 @@
     "oigOCg": {
         "en": "[Pontis]\nIf you feel the need to get rid of some more, then come talk to me once your quests reset.\nAlternatively, you can get the quest from the Eden Group as well.",
         "pt": "[Pontis]\nSe você sentir a necessidade de se livrar de mais alguns, venha falar comigo quando suas missões forem reiniciadas.\nComo alternativa, você também pode obter a missão no Grupo do Éden.",
-        "es": "[Pontis]\nSi sientes la necesidad de deshacerte de algunos más, entonces ven a hablar conmigo una vez que tus quests se reinicien.\nTambién puedes conseguir la misión en el Grupo Edén."
+        "es": "[Pontis]\nSi sientes la necesidad de deshacerte de algunos más, entonces ven a hablar conmigo una vez que tus quests se reinicien.\nTambién puedes conseguir la misión en el Grupo del Edén."
     },
     "oygOCg": {
         "en": "[Pontis]\nWell met!\nI've got a quest here for defeating Magnolias and Metallers.\nJust like before.",

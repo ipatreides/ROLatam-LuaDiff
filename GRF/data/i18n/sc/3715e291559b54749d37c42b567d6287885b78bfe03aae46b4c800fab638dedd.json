@@ -33,7 +33,7 @@
         "ko": "[리벨리온]\n무언가 폭발한 것으로 보입니다. 전방에서 불꽃이 치솟았습니다!",
         "en": "[Rebellion]\nIt looks like something exploded. Flames have erupted ahead!",
         "pt": "[Insurgente]\nAlgo parece ter explodido. Eu vi as chamas subindo!",
-        "es": "[Rebelde]\nAlgo parece haber explotado. ¡Vi las llamas elevarse!"
+        "es": "[Rebelde]\nAlgo parece haber explotado. ¡Vi las llamas elevándose!"
     },
     "xrHCBw": {
         "ko": "[리벨리온]\n여기서 육안으로 확인되는 폭파 지점은 총 4곳! ^FF0000지도에 표시^000000하였습니다!",
@@ -153,13 +153,13 @@
         "ko": "[엘류미나]\n가서 함정에 손대면 함정이 작동하면서 내 사랑스러운 아이들이 등장하지.\n각 함정의 주의할 점은 해 봤으니 알지?",
         "en": "[Eliumina]\nIf you go and touch the traps, my lovely children will appear as the traps are triggered.\nYou already know what to watch out for with each trap, right?",
         "pt": "[Elyumina]\nClique nas caixas e minhas crias aparecerão.\nVocê está ciente dos perigos delas, né?",
-        "es": "[Elyumina]\nHaz clic en las cajas y mis crías aparecerán.\nSabes lo peligrosas que son, ¿verdad?"
+        "es": "[Elyumina]\nHaz clic en las cajas y mis creaciones aparecerán.\nSabes lo peligrosas que son, ¿verdad?"
     },
     "2rHCBw": {
         "ko": "엘류미나 : 가서 함정에 손대면 함정이 작동하면서 내 사랑스러운 아이들이 등장하지. 각 함정의 주의할 점은 해 봤으니 알지?",
         "en": "Eliumina: If you touch the traps, they'll activate and my lovely children will appear. You already know what to watch out for with each trap, right?",
         "pt": "Elyumina: Clique nas caixas e minhas crias aparecerão. Você está ciente dos perigos delas, né?",
-        "es": "Elyumina: Haz clic en las cajas y mis crías aparecerán. Sabes lo peligrosas que son, ¿verdad?"
+        "es": "Elyumina: Haz clic en las cajas y mis creaciones aparecerán. Sabes lo peligrosas que son, ¿verdad?"
     },
     "27HCBw": {
         "ko": "[엘류미나]\n네 곳을 전부 정리하고 나면 EL1_A17T가 나올 텐데, 여기 망나니가 저번과 같은 장소로 몰아넣어 줄 거야.",
@@ -441,7 +441,7 @@
         "ko": "[리벨리온]\n화학독을 건드리시면 터지면서 독장판이 생성되니, 절대 가까이 다가가시면 안됩니다.",
         "en": "[Rebellion]\nIf you touch the chemical poison, it will explode and create a poison field, so you must never get close to it.",
         "pt": "[Insurgente]\nSe você tocar o veneno químico, ele explode, então você nunca deve chegar muito perto.",
-        "es": "[Rebelde]\nSi tocas el veneno químico, explota, así que nunca te acerques demasiado."
+        "es": "[Rebelde]\nSi tocas el veneno químico, explotará, así que nunca te acerques demasiado."
     },
     "CrLCBw": {
         "ko": "엘레나 볼코바 : 비범한 게 튀어나왔다! 신호탄을 쏠 테니 이리 와!!",
@@ -745,9 +745,9 @@
     },
     "PLLCBw": {
         "ko": "[엘레나 볼코바]\n그으래… 하지만 저 망나니가 실수로 죽어버리면 나도 곤란하니까 어서 준비해서 가긴 가야 할 거야?",
-        "en": "[Elena Volkova]\nYeah, I guess so... But if that troublemaker accidentally gets himself killed, it’ll be a problem for me too. So I’d better get ready and go, right?",
-        "pt": "[Elena Bolkova]\nTudo bem... eu não posso imaginar se aquela maromba morrer sem querer... vou estar em apuros.",
-        "es": "[Elena Bolkova]\nEstá bien... no puedo imaginarme si esa musculosa muere por accidente... estaría en problemas."
+        "en": "[Eliumina]\nYeah, I guess so... But if that troublemaker accidentally gets himself killed, it’ll be a problem for me too. So I’d better get ready and go, right?",
+        "pt": "[Elyumina]\nTudo bem... eu não posso imaginar se aquela maromba morrer sem querer... vou estar em apuros.",
+        "es": "[Elyumina]\nEstá bien... no puedo imaginarme si esa musculosa muere por accidente... estaría en problemas."
     },
     "PbLCBw": {
         "ko": "엘류미나 : 그으래… 하지만 저 망나니가 실수로 죽어버리면 나도 곤란하니까 어서 준비해서 가긴 가야 할 거야?",

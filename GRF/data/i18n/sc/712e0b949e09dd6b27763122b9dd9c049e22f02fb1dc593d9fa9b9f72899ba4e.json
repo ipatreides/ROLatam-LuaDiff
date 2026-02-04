@@ -1,272 +1,326 @@
 {
     "IEUWBw": {
-        "en": "Banyak: Good job entering my brother's spiritual world.",
+        "ko": "반약: 제대로 제 동생의 정신세계 속으로 들어왔군요.",
+        "en": "Banyak: You’ve truly entered my younger sibling’s mind.",
         "pt": "Banyak: Você realmente entrou no Limbo.",
-        "es": "Banyak: Buen trabajo entrando en el mundo espiritual de mi hermano."
+        "es": "Banyak: Realmente entraste al Limbo."
     },
     "IUUWBw": {
-        "en": "Banyak: I'm sharing your vision to at least feel the place.",
+        "ko": "반약: 여행자님과 제 시야를 공유해서 제가 그곳을 느낄 수 있게 해 두었어요.",
+        "en": "Banyak: I’ve shared my sight with you, Traveler, so I can sense that place.",
         "pt": "Banyak: Você está compartilhando suas sensações comigo.",
-        "es": "¿Banyak? Comparto tu visión para al menos sentir el lugar."
+        "es": "Banyak: Estás compartiendo tus sensaciones conmigo."
     },
     "IkUWBw": {
-        "en": "Banyak: This is strange. Why am I not seeing anything?",
+        "ko": "반약: 헌데 이상하군요. 왜 아무것도 보이지 않는걸까요.",
+        "en": "Banyak: But that is strange. Why can I not see anything?",
         "pt": "Banyak: Então eu consigo ouvir e sentir o lugar, mas porque não consigo ver nada?",
-        "es": "¿Banyak? Esto es extraño. ¿Por qué no veo nada?"
+        "es": "Banyak: Así que puedo oír y sentir el lugar, pero ¿por qué no puedo ver nada?"
     },
     "I0UWBw": {
-        "en": "???: Who's there? Who's here with me?",
+        "ko": "???: 누구지? 누가 여기 들어와있는겁니까?",
+        "en": "???: Who is it? Who has come in here?",
         "pt": "???: Quem é? Quem está aí?",
-        "es": "???: ¿Quién está ahí? ¿Quién está aquí conmigo?"
+        "es": "???: ¿Quién es? ¿Quién está ahí?"
     },
     "JEUWBw": {
-        "en": "Banyak: This voice!",
-        "pt": "Banyak: O que é essa voz???",
-        "es": "¿Banyak? ¡Esta voz!"
+        "ko": "반약: 이 목소리는???",
+        "en": "Banyak: This voice is???",
+        "pt": "Banyak: De quem é essa voz???",
+        "es": "Banyak: ¿De quién es esa voz???"
     },
     "JUUWBw": {
-        "en": "Banyak: Soha! Soha, is that you?",
+        "ko": "반약: 소하!? 소하 맞니?",
+        "en": "Banyak: Soha!? Are you really Soha?",
         "pt": "Banyak: Soha!? É Soha?",
-        "es": "¿Banyak? ¡Soha! Soha, ¿eres tú?"
+        "es": "Banyak: ¡¿Soha?! ¿Es Soha?"
     },
     "JkUWBw": {
-        "en": "???: That voice! Sister, is that you?",
+        "ko": "???: 낯익은 목소리. 혹시 누님인가요?",
+        "en": "???: A familiar voice. Could it be you, sis?",
         "pt": "???: Conheço essa voz. É minha irmã?",
-        "es": "???: ¡Esa voz! Hermana, ¿eres tú?"
+        "es": "???: Conozco esa voz. ¿Es mi hermana?"
     },
     "J0UWBw": {
-        "en": "Banyak: Soha, it's you! Soha, listen to me. The traveler who entered the spiritual path will get our souls out of there.",
+        "ko": "반약: 소하 맞구나! 소하야 내 말을 잘 들어. 지금 영혼의 통로로 들어간 여행자님이 네 영혼을 이끌어낼거야.",
+        "en": "Banyak: So it is Soha! Soha, listen carefully. The traveler who just entered Soul Path will draw out your soul.",
         "pt": "Banyak: Isso, Soha! Me escuta. Vamos tirar sua alma do limbo!",
-        "es": "¿Banyak? ¡Soha, eres tú! Soha, escúchame. El viajante que entró en el camino espiritual sacará nuestras almas de allí."
+        "es": "Banyak: ¡Sí, Soha! Escúchame. ¡Vamos a sacar tu alma del limbo!"
     },
     "KEUWBw": {
-        "en": "Banyak: It's over, Soha. Finally, I can return your body to you.",
-        "pt": "Banyak: Tá tudo bem, Soha. Vou devolver meu corpo para você.",
-        "es": "¿Banyak? Se acabó, Soha. Finalmente, puedo devolverte tu cuerpo."
+        "ko": "반약: 이제 다 끝났어 소하야. 네게 이 몸을 돌려줄 수 있게 되었구나.",
+        "en": "Banyak: It’s all over now, Soha. I can return this body to you.",
+        "pt": "Banyak: Soha, eu vou devolver meu corpo para você.",
+        "es": "Banyak: Soha, voy a devolverte tu cuerpo."
     },
     "KUUWBw": {
-        "en": "Soha: When our ritual failed, an army of wandering ghosts and pretas entered this world.",
+        "ko": "소하: 그 옛날 대법이 실패할때 수많은 배회령과 아귀들이 이 정신세계로 들어왔었어요.",
+        "en": "Soha: Long ago, when the great law failed, countless A wandering spirit and hungry ghosts entered this spirit world.",
         "pt": "Soha: Quando a magia falhou, o poder mágico dilacerou o corpo da minha irmã.",
-        "es": "Soha: Cuando nuestro ritual falló, un ejército de fantasmas errantes y pretas entró en este mundo."
+        "es": "Soha: Cuando la magia falló, el poder mágico destrozó el cuerpo de mi hermana."
     },
     "KkUWBw": {
-        "en": "Soha: I chose to stay with them in here, to keep them from eating away the spiritual path.",
+        "ko": "소하: 그들이 이 영혼의 통로를 먹어치우는걸 막기위해 제가 일부러 이곳에 갇히는걸 선택한겁니다.",
+        "en": "Soha: I chose to be trapped here on purpose, to stop them from devouring this Soul Path.",
         "pt": "Soha: Então eu escolhi dar a minha alma para que a magia não engolisse mais ninguém.",
-        "es": "Elegí quedarme con ellos aquí, para evitar que se comieran el camino espiritual."
+        "es": "Soha: Entonces yo elegí dar mi alma para que la magia no se tragara a nadie más."
     },
     "K0UWBw": {
-        "en": "Soha: Don't try to release me. I must protect the path, or your life will be in danger.",
+        "ko": "소하: 저를 풀어내려고 하지 마십시오. 이 영혼의 통로가 아귀와 배회령에게 먹히게되면 누님의 목숨도 위험해요.",
+        "en": "Soha: Do not try to release me. If this Soul Path gets devoured by the maw and A wandering spirit, your life will be in danger too, Sister.",
         "pt": "Soha: Não tente me libertar. Se eu voltar para meu corpo, a alma da minha irmã estará em risco.",
-        "es": "No intentes liberarme. Debo proteger el camino, o tu vida estará en peligro."
+        "es": "Soha: No intentes liberarme. Si vuelvo a mi cuerpo, el alma de mi hermana estará en peligro."
     },
     "LEUWBw": {
-        "en": "Banyak: Oh, no... But the soul-calling ritual already has begun.",
+        "ko": "반약: 그럴수가... 이미 초혼술은 시작되어버렸단다.",
+        "en": "Banyak: That can’t be... The first summoning ritual has already begun.",
         "pt": "Banyak: Não pode ser... As outras almas estão vindo.",
-        "es": "¿Banyak? Ay, no… Pero el ritual de invocación de almas ya comenzó."
+        "es": "Banyak: No puede ser... Las otras almas se están acercando."
     },
     "LUUWBw": {
-        "en": "Soha: Ugh...! The pretas and ghosts are breaking out of my ward. Sister, stop the ritual!",
+        "ko": "소하: 크윽... 제 결계밖으로 아귀와 배회령들이 빠져나가고 있어요. 초혼술을 멈춰주세요 누님!",
+        "en": "Soha: Ngh... The Agwi and A wandering spirits are escaping beyond my barrier. Please stop the Spirit Summoning, sis!",
         "pt": "Soha: Ai... As almas notaram um ser vivo aqui dentro. Por favor, pare o ritual, irmã!",
-        "es": "¡Uff! Los pretas y los fantasmas se están escapando de mi pabellón. ¡Hermana, detén el ritual!"
+        "es": "Soha: Ay... Las almas notaron a un ser vivo aquí dentro. ¡Por favor, detén el ritual, hermana!"
     },
     "LkUWBw": {
-        "en": "Banyak: You know I can't do that. It'll close all the spiritual paths.",
-        "pt": "Banyak: Não posso! E o viajante?",
-        "es": "¿Banyak? Sabes que no puedo hacer eso. Cerrará todos los caminos espirituales."
+        "ko": "반약: 너도 알고 있잖니 한번 시작된 초혼술을 강제로 멈추면 모든 영혼의 통로가 닫혀버리고 말아.",
+        "en": "Banyak: You know it too. If we forcibly stop a soul-summoning ritual once it has begun, all Soul Path will end up closing.",
+        "pt": "Banyak: Não posso! Tem um ser vivo aí dentro!",
+        "es": "Banyak: ¡No puedo! ¡Hay un ser vivo ahí dentro!"
     },
     "L0UWBw": {
-        "en": "Soha: Traveler on the path, be careful! The wandering ghosts heading your way!",
-        "pt": "Soha: Viajantes! Cuidado, com as almas sedentas por vida!",
-        "es": "Viajante en el camino, ¡ten cuidado! ¡Los fantasmas errantes se dirigen hacia ti!"
+        "ko": "소하: 통로에 들어와있는 여행자님! 조심하세요 배회령들이 그곳으로 가고있습니다!",
+        "en": "Soha: Traveler in the passage! Be careful, A wandering spirit are heading that way!",
+        "pt": "Soha: Espiritualista! Cuidado, com as almas sedentas por vida!",
+        "es": "Soha: ¡Trotamundos! ¡Cuidado, con las almas sedientas de vida!"
     },
     "MEUWBw": {
-        "en": "Wandering Ghost#{}",
-        "pt": "Astaroth#{}",
-        "es": "Fantasma errante núm.{}"
+        "ko": "배회령#{0}",
+        "en": "A wandering spirit#{0}",
+        "pt": "Alma Vagante#{0}",
+        "es": "Alma Vagante#{0}"
     },
     "MUUWBw": {
-        "en": "Banyak: Traveler, are you okay?",
-        "pt": "Banyak: Viajante! Você está bem?",
-        "es": "¿Banyak? Viajante, ¿estás bien?"
+        "ko": "반약: 여행자님! 괜찮으신가요?",
+        "en": "Banyak: Traveler! Are you all right?",
+        "pt": "Banyak: Espiritualista! Você está bem?",
+        "es": "Banyak: ¡Trotamundos! ¿Estás bien?"
     },
     "MkUWBw": {
-        "en": "Soha: You're pretty strong. Some of the wandering ghosts perished, freeing me from my burden.",
+        "ko": "소하: 굉장히 강한 분이시군요. 배회령들의 일부가 소멸하면서 제 영혼이 그만큼 자유로와졌습니다.",
+        "en": "Soha: You are very strong. As some of the A wandering spirit have been destroyed, my soul has become that much freer.",
         "pt": "Soha: Você é muito forte! Como algumas almas sumiram, consigo materializar ajuda.",
-        "es": "Eres bastante fuerte. Algunos de los fantasmas errantes desaparecieron y me liberaron de mi carga."
+        "es": "Soha: ¡Eres muy fuerte! Como algunas almas desaparecieron, puedo materializar ayuda."
     },
     "M0UWBw": {
-        "en": "Soha: But there are still many wandering ghosts and pretas thrashing to get out of here.",
+        "ko": "소하: 하지만 아직 많은 수의 배회령과 아귀들이 요동치고 있어요.",
+        "en": "Soha: But a great many A wandering spirit and hungry ghosts are still stirring about.",
         "pt": "Soha: Mas ainda existem muitas almas vagantes por aí.",
-        "es": "Pero aún hay muchos fantasmas errantes y pretas que luchan por salir de aquí."
+        "es": "Soha: Pero aún quedan muchas almas vagando por ahí."
     },
     "NEUWBw": {
-        "en": "Banyak: I'm sensing something else has been released, Soha.",
+        "ko": "반약: 뭔가가 또 풀려나는 느낌이구나 소하야.",
+        "en": "Banyak: It feels like something is being released again, Soha.",
         "pt": "Banyak: Eu sinto alguma coisa vindo, Soha.",
-        "es": "¿Banyak? Siento que se liberó algo más, Soha."
+        "es": "Banyak: Siento algo acercándose, Soha."
     },
     "NUUWBw": {
-        "en": "Soha: Yes. This time, stronger ones are rushing toward the spiritual path. Watch out, traveler.",
-        "pt": "Soha: Sim, as almas mais fortes estão sabendo de você. Cuidado, viajante.",
-        "es": "Sí. Esta vez, los más fuertes se precipitan hacia el camino espiritual. Cuidado, viajante."
+        "ko": "소하: 예, 이번엔 좀 더 강한 녀석들이 영혼의 통로로 달려가고 있습니다. 조심하세요 여행자님.",
+        "en": "Soha: Yes, this time some stronger ones are rushing toward Soul Path. Be careful, traveler.",
+        "pt": "Soha: Sim, as almas mais fortes estão sabendo de você. Cuidado, Espiritualista.",
+        "es": "Soha: Sí, las almas más fuertes se están enterando de ti. Ten cuidado, Trotamundos."
     },
     "NkUWBw": {
-        "en": "Preta#{}",
-        "pt": "Asmodeus#{}",
-        "es": "Preta núm.{}"
+        "ko": "아귀#{0}",
+        "en": "Hungry Ghost#{0}",
+        "pt": "Alma Sedenta#{0}",
+        "es": "Alma Sedienta#{0}"
     },
     "N0UWBw": {
-        "en": "Soha: More than half of the wandering ghosts that used to be here with me have perished.",
+        "ko": "소하: 저와 함게 봉인되어있던 배회령의 반 이상이 소멸했군요.",
+        "en": "Soha: More than half of A wandering spirit, who was sealed together with me, has vanished.",
         "pt": "Soha: Mais da metade das outras almas que vieram comigo desapareceram.",
-        "es": "Más de la mitad de los fantasmas errantes que solían estar aquí conmigo desaparecieron."
+        "es": "Soha: Más de la mitad de las otras almas que vinieron conmigo han desaparecido."
     },
     "OEUWBw": {
-        "en": "Soha: Now, the pretas will break out in earnest. Please be careful.",
+        "ko": "소하: 아귀들이 이제 본격적으로 풀려날 것 같습니다. 부디 조심하십시오.",
+        "en": "Soha: It seems the Asuras will soon be unleashed in earnest. Please be careful.",
         "pt": "Soha: Durante a falha da magia, algumas pessoas foram engolidas também.",
-        "es": "Ahora, los pretas estallarán de verdad. Ten cuidado, trotamundos."
+        "es": "Soha: Durante el fallo de la magia, algunas personas también fueron tragadas."
     },
     "OUUWBw": {
-        "en": "Banyak: Ugh... I can feel the evil energy filling the spiritual path.",
+        "ko": "반약: 으윽... 영혼의 통로에 강력한 사기가 느껴져.",
+        "en": "Banyak: Ugh... I can feel a powerful evil spirit on the Soul Path.",
         "pt": "Banyak: Ugh... Eu sinto uma forte presença. Tome cuidado.",
-        "es": "¿Banyak? Uf… Puedo sentir la energía maligna llenando el camino espiritual."
+        "es": "Banyak: Ugh... Siento una presencia muy fuerte. Ten cuidado."
     },
     "OkUWBw": {
-        "en": "Soha: Of the pretas. They're wildly rampaging, having broken out of my spiritual ward.",
+        "ko": "소하: 아귀들입니다. 제 영혼의 금제가 무너지면서 날뛰고 있군요.",
+        "en": "Soha: They are Agui. With the seal on my soul broken, they are running wild.",
         "pt": "Soha: Parece que estão vindo demônios. Eles também habitam o Limbo.",
-        "es": "De los pretas. Están arrasando salvajemente, después de escaparse de mi pabellón espiritual."
+        "es": "Soha: Parece que vienen demonios. Ellos también habitan el Limbo."
     },
     "O0UWBw": {
-        "en": "Soha: My soul is materializing itself in the spiritual path.",
-        "pt": "Furcas#{}",
-        "es": "Mi alma se materializa en el camino espiritual."
+        "ko": "소하: 제 영혼이 영혼의 통로에 서서히 나타나기 시작하는군요",
+        "en": "Soha: My soul is slowly beginning to appear on the Soul Path.",
+        "pt": "Soha: Parece que consigo materializar minha alma aqui no Limbo.",
+        "es": "Soha: Parece que puedo materializar mi alma aquí en el Limbo."
     },
     "PEUWBw": {
-        "en": "Banyak: You're being released, Soha!",
-        "pt": "Paimon#{}",
-        "es": "¿Banyak? ¡Te estás liberando, Soha!"
+        "ko": "반약: 이제 풀려나기 시작했구나 소하야!",
+        "en": "Banyak: You’re finally starting to break free, Soha!",
+        "pt": "Banyak: Estou sentindo sua presença, Soha!",
+        "es": "Banyak: ¡Estoy sintiendo tu presencia, Soha!"
     },
     "PUUWBw": {
-        "en": "Soha: Come to me when you're in danger. I'm weak, but I can help you, traveler.",
-        "pt": "Soha: Parece que consigo materializar minha alma aqui no Limbo.",
-        "es": "Ven a mí cuando estés en peligro. Soy débil, pero puedo ayudarte, viajante."
+        "ko": "소하: 미약한 힘이지만 위급해질땐 제 근처로 와주세요. 작은 도움이 될겁니다 여행자님.",
+        "en": "Soha: My power is weak, but if things get dangerous, please come near me. It will be a small help, traveler.",
+        "pt": "Soha: Não tenho muita força, mas se aproxime de mim caso precise de ajuda, Espiritualista.",
+        "es": "Soha: No tengo mucha fuerza, pero acércate a mí si necesitas ayuda, Trotamundos."
     },
     "PkUWBw": {
-        "en": "Soha: Now, all the remaining pretas and wandering ghosts will attack. Please brace yourself.",
-        "pt": "Banyak: Estou sentindo sua presença, Soha!",
-        "es": "Ahora, todos los pretas y fantasmas errantes restantes atacarán. Por favor, prepárate."
+        "ko": "소하: 이제 남은 모든 아귀와 배회령이 몰려올거예요. 마음 단단히 먹어주세요.",
+        "en": "Soha: Now all the remaining Hungry Ghosts and A wandering spirit will come rushing in. Brace yourself.",
+        "pt": "Soha: Agora muitas almas sedentas estão se aproximando.",
+        "es": "Soha: Ahora muchas almas sedientas se están acercando."
     },
     "P0UWBw": {
+        "ko": "소하",
         "en": "Soha",
-        "pt": "Soha: Não tenho muita força, mas se aproxime de mim caso precise de ajuda, viajante.",
+        "pt": "Soha",
         "es": "Soha"
     },
     "QEUWBw": {
-        "en": "Ah... I've never fully materialized in a spiritual path before.",
-        "pt": "Soha: Agora muitas almas sedentas estão se aproximando.",
-        "es": "Ah… Nunca antes me había materializado por completo en un camino espiritual."
+        "ko": "아아... 영혼의 통로에 모든 모습을 드러내게 된 건 처음이군요.",
+        "en": "Ah... This is the first time I’ve revealed my true form in Soul Path.",
+        "pt": "Ah... Parece a primeira vez que entrei no Limbo.",
+        "es": "Ah... Parece la primera vez que entré al Limbo."
     },
     "QUUWBw": {
-        "en": "Banyak: Soha. Is that really you, Soha?",
-        "pt": "Murmur#{}",
-        "es": "¿Banyak? Soha. ¿Eres realmente tú, Soha?"
+        "ko": "반약: 소하야. 정말 소하 맞니?",
+        "en": "Banyak: It's Soha. Are you really Soha?",
+        "pt": "Banyak: Soha. É você mesmo, Soha?",
+        "es": "Banyak: Soha. ¿Eres tú realmente, Soha?"
     },
     "QkUWBw": {
-        "en": "Yes, Sister. No evil energy remains in this spiritual path. I think I can go to Heaven now.",
-        "pt": "Orobas#{}",
-        "es": "Sí, hermana. Ninguna energía maligna permanece en este camino espiritual. Creo que ya puedo ir al cielo."
+        "ko": "네, 누님 이제 이 영혼의 통로안에는 사악한 기운이 남아있지 않네요. 안심하고 승천해도 될 것같습니다.",
+        "en": "Yes, ma'am. There is no longer any evil energy left within this Soul Path. I think you can ascend in peace now.",
+        "pt": "Sim, irmã, não há mais almas malignas aqui. Agora posso fazer a Passagem.",
+        "es": "Sí, hermana, ya no hay almas malignas aquí. Ahora puedo hacer el Paso."
     },
     "Q0UWBw": {
-        "en": "Banyak: Soha, what are you talking about?",
-        "pt": "Soha",
-        "es": "¿Banyak? Soha, ¿de qué estás hablando?"
+        "ko": "반약: 무슨소리냐 소하야!!",
+        "en": "Banyak: What are you talking about, Soha!!",
+        "pt": "Banyak: Do que você está falando, Soha?!!",
+        "es": "Banyak: ¡¿De qué estás hablando, Soha?!!"
     },
     "REUWBw": {
-        "en": "You know. It's been ten years since my body was occupied by you. It wouldn't last long if its soul changed.",
-        "pt": "Ah... Parece a primeira vez que entrei no Limbo.",
-        "es": "Ya sabes. Han pasado diez años desde que ocupaste mi cuerpo. No duraría mucho si su alma cambiara."
+        "ko": "잘 아시잖아요. 이미 10년이 넘게 누님과 동화된 몸이예요. 이제와서 영혼이 바뀌면 어차피 오래 살 수도 없어요.",
+        "en": "You know that already. My body has been fused with milady for over 10 years now. Even if my soul were to change now, I wouldn't be able to live much longer anyway.",
+        "pt": "Você sabe. Sua alma está no meu corpo há 10 anos. Se trocarmos, você não terá um corpo.",
+        "es": "Lo sabes. Tu alma ha estado en mi cuerpo durante 10 años. Si nos intercambiamos, tú no tendrás un cuerpo."
     },
     "RUUWBw": {
-        "en": "Traveler, can we talk?",
-        "pt": "Banyak: Soha. É você mesmo, Soha?",
-        "es": "Viajante, ¿podemos hablar?"
+        "ko": "여행자님은 저와 이야기를 좀 나누시죠.",
+        "en": "Traveler, please talk with me for a while.",
+        "pt": "Espiritualista, fale comigo.",
+        "es": "Trotamundos, habla conmigo."
     },
     "RkUWBw": {
-        "en": "[Soha]\nThank you so much for helping my sister with nothing in return.",
-        "pt": "Sim, irmã, não há mais almas malignas aqui. Agora posso fazer a Passagem.",
-        "es": "[Soha]\nMuchas gracias por ayudar a mi hermana sin nada a cambio."
+        "ko": "[소하]\n저희 누님을 사심없이 도와주셔서 정말 감사드립니다.",
+        "en": "[Soha]\nThank you so much for helping my sister without any ulterior motives.",
+        "pt": "[Soha]\nMuito obrigado por ajudar minha irmã de forma tão altruísta.",
+        "es": "[Soha]\nMuchas gracias por ayudar a mi hermana de forma tan altruista."
     },
     "R0UWBw": {
-        "en": "[Soha]\nYou have a pure soul, being able to enter someone else's spiritual path like this.",
-        "pt": "Banyak: Do que você está falando, Soha?!!",
-        "es": "[Soha]\nTienes un alma pura, ya que eres capaz de entrar así en el camino espiritual de otra persona."
+        "ko": "[소하]\n타인의 영혼 통로에 들어올 수 있을 정도라니 정말 맑은 영혼을 가지고 계시군요.",
+        "en": "[Soha]\nTo be able to enter another person's soul passage... you truly have a very pure soul.",
+        "pt": "[Soha]\nVocê tem uma alma tão pura que pôde entrar no Limbo.",
+        "es": "[Soha]\nTienes un alma tan pura que pudiste entrar al Limbo."
     },
     "SEUWBw": {
+        "ko": "이제 어떻게 되는겁니까?",
         "en": "What happens now?",
-        "pt": "Você sabe muito bem. Sua alma está no meu corpo há 10 anos. Se trocarmos, você não terá um corpo.",
-        "es": "¿Y ahora qué?"
+        "pt": "E agora?",
+        "es": "¿Y ahora?"
     },
     "SUUWBw": {
-        "en": "You look just like your sister.",
-        "pt": "Viajante, fale comigo.",
-        "es": "Te pareces a tu hermana."
+        "ko": "누님과 정말 똑같이 생겼군요?",
+        "en": "You look exactly like my sister, don’t you?",
+        "pt": "Você é a cara da sua irmã.",
+        "es": "Eres el vivo retrato de tu hermana."
     },
     "SkUWBw": {
-        "en": "[Soha]\nHah hah. That body used to belong to me. Of course, we look the same.",
-        "pt": "[Soha]\nMuito obrigado por ajudar minha irmã de forma tão altruísta.",
-        "es": "[Soha]\nJa, ja. Ese cuerpo solía pertenecerme. Por supuesto, nos parecemos."
+        "ko": "[소하]\n하하, 몸은 원래 저의 몸이었으니 똑같을 수 밖에요.",
+        "en": "[Soha]\nHaha, this body was originally mine, so of course it has to be the same.",
+        "pt": "[Soha]\nHaha, este corpo era originalmente meu, então devo ser mesmo a cara dela.",
+        "es": "[Soha]\nJaja, este cuerpo era originalmente mío, así que debo serlo."
     },
     "S0UWBw": {
-        "en": "[Soha]\nIt seems my sister wants to bring me back even if it kills her, but I don't want that.",
-        "pt": "[Soha]\nVocê tem uma alma tão pura que pôde entrar no Limbo.",
-        "es": "[Soha]\nParece que mi hermana quiere traerme de vuelta aunque eso la mate, pero yo no quiero eso."
+        "ko": "[소하]\n아무래도 누님은 저를 원래의 몸으로 돌려놓고 생을 마감하려 하시는 모양입니다만... 저는 그러고 싶지 않군요.",
+        "en": "[Soha]\nIt seems my sister intends to return me to my original body and then end her life, but... I don't want that.",
+        "pt": "[Soha]\nParece que minha irmã está tentando acabar com a própria vida me devolvendo ao seu corpo original... mas eu não quero.",
+        "es": "[Soha]\nParece que mi hermana está intentando acabar con su propia vida devolviéndome a su cuerpo original... pero yo no quiero."
     },
     "TEUWBw": {
-        "en": "[Soha]\nI stopped caring about the outside world years ago. I'd rather go to Heaven and study the new spiritual world.",
-        "pt": "E agora?",
-        "es": "[Soha]\nHace años que dejó de importarme el mundo exterior. Prefiero ir al cielo y estudiar el nuevo mundo espiritual."
+        "ko": "[소하]\n어차피 바깥 세상의 일에 관심이 없어진건 몇 년 되었습니다. 그 보다는 천계로 올라가 새로운 영의 세계를 탐구하고 싶군요.",
+        "en": "[Soha]\nIt's been years since I lost interest in the affairs of the outside world. More than that, I'd like to ascend to the heavens and explore a new world of spirits.",
+        "pt": "[Soha]\nJá se passaram alguns anos desde que perdi o interesse pelos assuntos do mundo exterior. Em vez disso, gostaria de fazer a passagem e explorar o mundo dos espíritos.",
+        "es": "[Soha]\nHan pasado algunos años desde que perdí el interés por los asuntos del mundo exterior. En cambio, me gustaría hacer el paso y explorar el mundo de los espíritus."
     },
     "TUUWBw": {
-        "en": "Banyak: Soha, stop thinking about something else. Let's switch places now.",
-        "pt": "Você é a cara da sua irmã",
-        "es": "¿Banyak? Soha, deja de pensar en otra cosa. Cambiemos de lugar ahora."
+        "ko": "반약: 소하야... 다른 생각은 하지말고 이제 나와 영혼을 바꾸도록 하자.",
+        "en": "Banyak: Soha... Don’t think about anything else. Now, let’s switch souls with me.",
+        "pt": "Banyak: Soha... Não faça mais nada e vamos trocar de almas comigo agora.",
+        "es": "Banyak: Soha... No hagas nada más e intercambiemos nuestras almas ahora mismo."
     },
     "TkUWBw": {
-        "en": "[Soha]\nGeez, she's as stubborn as I remember. She knows my body wouldn't last longer than a few years if we switched places.",
-        "pt": "[Soha]\nHaha, meu corpo era originalmente meu, então devo ser mesmo.",
-        "es": "[Soha]\nVaya, es tan testaruda como la recordaba. Sabe que mi cuerpo no durará más de unos años si cambiamos de lugar."
+        "ko": "[소하]\n아이고, 저 고집스런 성격은 어릴때랑 다를게 없네요. 어차피 이제와서 영혼이 바뀌어봐야 몇 년 더 살지도 못한다는걸 잘 아실텐데.",
+        "en": "[Soha]\nOh dear, that stubborn personality hasn’t changed since childhood. You know well enough that even if your soul were to change now, you wouldn’t live more than a few more years anyway.",
+        "pt": "[Soha]\nBanyak, você sabe que não conseguirá sobreviver se nós trocarmos de alma.",
+        "es": "[Soha]\nBanyak, sabes que no podrás sobrevivir si intercambiamos nuestras almas."
     },
     "T0UWBw": {
-        "en": "She loves you so much.",
-        "pt": "[Soha]\nParece que minha irmã está tentando acabar com a própria vida me devolvendo ao seu corpo original... mas eu não quero.",
-        "es": "Te quiere mucho."
+        "ko": "동생을 생각하는 정이 깊어서겠지요.",
+        "en": "It must be because you care so deeply about your younger sibling.",
+        "pt": "Ela ama você.",
+        "es": "Ella te ama."
     },
     "UEUWBw": {
-        "en": "[Soha]\nI want her to continue training as a Soul Reaper. I have my own things to do.",
-        "pt": "[Soha]\nJá se passaram alguns anos desde que perdi o interesse pelos assuntos do mundo exterior. Em vez disso, gostaria de fazer a passagem e explorar o mundo dos espíritos.",
-        "es": "[Soha]\nQuiero que siga entrenándose como Cosechadora de almas. Tengo cosas que hacer."
+        "ko": "[소하]\n저는 누님이 지금까지 해왔던대로 수련을 계속 해 줬으면 합니다. 저는 저대로 할일이 있으니까요.",
+        "en": "[Soha]\nI want you to keep training, just as you have been doing until now. I have my own work to do.",
+        "pt": "[Soha]\nQuero que minha irmã continue treinando como tem feito até agora. O sonho dela é se tornar uma Asceta.",
+        "es": "[Soha]\nQuiero que mi hermana siga entrenando como lo ha hecho hasta ahora. Su sueño es convertirse en una Asceta."
     },
     "UUUWBw": {
-        "en": "[Soha]\nBy the way, you've jumped over a big hurdle this time. My sister can help you find enlightenment when you go back.",
-        "pt": "Banyak: Soha... Não faça mais nada e vamos trocar de almas comigo agora.",
-        "es": "[Soha]\nPor cierto, esta vez superaste un gran obstáculo. Mi hermana puede ayudarte a encontrar la iluminación cuando regreses."
+        "ko": "[소하]\n그러고보니 이제 여행자님은 큰 벽을 하나 뛰어넘으셨군요. 돌아가시면 누님을 통해 좋은 깨달음을 얻으시기 바랍니다.",
+        "en": "[Soha]\nCome to think of it, you have now overcome a great wall, Traveler. When you return, I hope you gain good insight through my sister.",
+        "pt": "[Soha]\nAgora, parando para pensar, você se arriscou demais aqui. Espero que sua alma seja iluminada.",
+        "es": "[Soha]\nAhora, pensándolo bien, te arriesgaste demasiado aquí. Espero que tu alma sea iluminada."
     },
     "UkUWBw": {
-        "en": "Where are you going now?",
-        "pt": "[Soha]\nBanyak, você sabe que não conseguirá sobreviver se nós trocarmos de alma.",
-        "es": "¿Adónde vas ahora?"
+        "ko": "이제 어디로 갈겁니까?",
+        "en": "Where will you go now?",
+        "pt": "Pra onde você vai?",
+        "es": "¿A dónde vas?"
     },
     "U0UWBw": {
-        "en": "[Soha]\nWhere souls go after their time on the earth is over. I'll see my sister again soon. Please tell her that.",
-        "pt": "Ela ama seu irmão.",
-        "es": "[Soha]\nA donde van las almas cuando terminan su estancia en este planeta. Pronto volveré a ver a mi hermana. Por favor, díselo."
+        "ko": "[소하]\n지상의 업을 다 끝낸 영혼들이 모이는 곳으로 갑니다. 아마 조만간 누님과는 또 만나게 될겁니다. 그리 전해주세요.",
+        "en": "[Soha]\nI am going to the place where souls gather after finishing all their work in the world. I will probably meet you again soon, ma'am. Please tell her that.",
+        "pt": "[Soha]\nEu vou para o lugar onde as almas que terminaram sua missão na Terra se reúnem. É provável que vou encontrar minha irmã novamente algum dia.",
+        "es": "[Soha]\nVoy al lugar donde se reúnen las almas que cumplieron su misión en la Tierra. Es probable que me encuentre con mi hermana otra vez algún día."
     },
     "VEUWBw": {
-        "en": "[Soha]\nThe effect of the spirit-calling ritual is wearing off. When you go back, please tell her sister that I've gone to a better place.",
-        "pt": "[Soha]\nQuero que minha irmã continue treinando como tem feito até agora. O sonho dela é se tornar uma Asceta.",
-        "es": "[Soha]\nEl efecto del ritual de invocación de espíritus está desapareciendo. Cuando regreses, dile a mi hermana que me he ido a un lugar mejor."
+        "ko": "[소하]\n슬슬 초혼대법의 효력이 끝나가는 모양입니다. 돌아가시면 누님께 제가 좋은곳으로 갔다고 전해주십시오.",
+        "en": "[Soha]\nIt seems the effects of the Soul-calling Ritual are slowly wearing off. When you return, please tell my sister that I went to a good place.",
+        "pt": "[Soha]\nParece que o ritual está acabando. Quando você voltar, diga para minha irmã que fui para um lugar melhor.",
+        "es": "[Soha]\nParece que el ritual está terminando. Cuando regreses, dile a mi hermana que fui a un lugar mejor."
     },
     "VUUWBw": {
-        "en": "[Soha]\nNow, farewell.",
-        "pt": "[Soha]\nAgora, parando para pensar, você se arriscou demais aqui. Espero que sua alma seja iluminada quando morrer.",
-        "es": "[Soha]\nAdiós."
+        "ko": "[소하]\n그럼 이만...",
+        "en": "[Soha]\nThen, I’ll be going...",
+        "pt": "[Soha]\nAdeus...",
+        "es": "[Soha]\nAdiós..."
     }
 }

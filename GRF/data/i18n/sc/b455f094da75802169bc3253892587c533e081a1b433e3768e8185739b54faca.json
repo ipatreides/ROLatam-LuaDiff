@@ -27,7 +27,7 @@
     "5aPvCQ": {
         "en": "[Leno]\nYeah. The very first step in being an adventurer is by helping others in need.\nFor a member of Eden Group, it's just like completing a quest.",
         "pt": "[Leno]\nSim. O primeiro passo para ser um aventureiro é ajudar os necessitados.\nPara um membro do Grupo do Éden, é como completar uma missão.",
-        "es": "[Leno]\nSí. El primer paso para ser un aventurero es ayudar a los necesitados.\nPara un miembro del Grupo Edén, es como completar una misión."
+        "es": "[Leno]\nSí. El primer paso para ser un aventurero es ayudar a los necesitados.\nPara un miembro del Grupo del Edén, es como completar una misión."
     },
     "5qPvCQ": {
         "en": "[Leno]\nAlso, it's on our way there anyway.\nLet's do it together.",
@@ -237,7 +237,7 @@
     "D6TvCQ": {
         "en": "Yes, that's correct. They are members of Eden Group.",
         "pt": "Sim, é isso mesmo. Eles são membros do Grupo do Éden.",
-        "es": "Sí, es cierto. Son miembros del Grupo Edén."
+        "es": "Sí, es cierto. Son miembros del Grupo del Edén."
     },
     "EKTvCQ": {
         "en": "Please explain to us! Why are we here?",
@@ -282,7 +282,7 @@
     "GKTvCQ": {
         "en": "[Lime Evenor]\nYes. I'll need to pull some strings to prove your innocence.\nWhy did you take up anything other than Eden Group-certified quests?",
         "pt": "[Sim.]\nSim. Precisarei mexer alguns pauzinhos para provar sua inocência.\nPor que você se dedicou a outras missões que não as certificadas pelo Grupo do Éden?",
-        "es": "[Lime Evenor]\nSí. Necesitaré mover algunos hilos para probar tu inocencia.\n¿Por qué aceptaste otra cosa que no fueran misiones certificadas por el Grupo Edén?"
+        "es": "[Lime Evenor]\nSí. Necesitaré mover algunos hilos para probar tu inocencia.\n¿Por qué aceptaste otra cosa que no fueran misiones certificadas por el Grupo del Edén?"
     },
     "GaTvCQ": {
         "en": "[Leno]\nThe Adventurers' Guild is where you're supposed to take quests from those in need.\nWe just did what we were taught.",
@@ -292,7 +292,7 @@
     "GqTvCQ": {
         "en": "[Meric]\nHaha... Well, in any case, I'm certain that you two were merely tricked by some strange man.\nRest assured that the Eden Group will do what it can to clear your good names.",
         "pt": "[Meric]\nHaha... Bem, em todo caso, tenho certeza de que vocês dois foram apenas enganados por um homem estranho.\nTenham certeza de que o Grupo do Éden fará o possível para limpar seus bons nomes.",
-        "es": "[Meric]\nJaja... Bueno, en cualquier caso, estoy seguro de que vosotros dos simplemente fuisteis engañados por un hombre extraño.\nTened por seguro que el Grupo Edén hará lo que pueda para limpiar vuestros buenos nombres."
+        "es": "[Meric]\nJaja... Bueno, en cualquier caso, estoy seguro de que vosotros dos simplemente fuisteis engañados por un hombre extraño.\nTened por seguro que el Grupo del Edén hará lo que pueda para limpiar vuestros buenos nombres."
     },
     "G6TvCQ": {
         "en": "[Meric]\nNow, the question is why a Goddess Follower would appear now of all times...\nWe got rid of most of them that infiltrated our kingdom...",
@@ -402,7 +402,7 @@
     "MKTvCQ": {
         "en": "[Roam]\nAre you from the Eden Group?\nI heard that something unexpected occurred on your way here...\nDo you think you will be able to take this job immediately?",
         "pt": "[Roam]\nVocê é do Grupo do Éden?\nOuvi dizer que algo inesperado aconteceu em seu caminho para cá...\nVocê acha que poderá aceitar esse trabalho imediatamente?",
-        "es": "[Roam]\n¿Eres del Grupo Edén?\nHe oído que ha ocurrido algo inesperado en tu camino hacia aquí...\n¿Crees que serás capaz de tomar este trabajo inmediatamente?"
+        "es": "[Roam]\n¿Eres del Grupo del Edén?\nHe oído que ha ocurrido algo inesperado en tu camino hacia aquí...\n¿Crees que serás capaz de tomar este trabajo inmediatamente?"
     },
     "MaTvCQ": {
         "en": "Okay, let's begin.",
@@ -657,7 +657,7 @@
     "Y6TvCQ": {
         "en": "Kid",
         "pt": "Criança",
-        "es": "Niña"
+        "es": "Joven"
     },
     "ZKTvCQ": {
         "en": "[Raspberry]\nAdventurer, Adventurer!\nHave you been in here?\nThe blacksmith Hollgrehenn is in there.",
@@ -1122,7 +1122,7 @@
     "wKTvCQ": {
         "en": "[Leno]\nSprakki also pays attention to many adventurers in the Eden Group,\nso she'll be able to give us some advice, too.\nLet's go to Izlude and meet with Sprakki.",
         "pt": "[Leno]\nSprakki também dá atenção a muitos aventureiros do Grupo do Éden,\nportanto, ela também poderá nos dar alguns conselhos.\nVamos para Izlude e nos encontrar com Sprakki.",
-        "es": "[Leno]\nSprakki también presta atención a muchos aventureros del Grupo Edén,\nasí que ella también podrá darnos algunos consejos.\nVayamos a Izlude y reunámonos con Sprakki."
+        "es": "[Leno]\nSprakki también presta atención a muchos aventureros del Grupo del Edén,\nasí que ella también podrá darnos algunos consejos.\nVayamos a Izlude y reunámonos con Sprakki."
     },
     "waTvCQ": {
         "en": "[Leno]\nSomewhere I can get involved.\nSomewhere I can train more...\nI need to know where I can go!",

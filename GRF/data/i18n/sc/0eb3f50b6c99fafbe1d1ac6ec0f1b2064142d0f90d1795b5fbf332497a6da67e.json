@@ -1672,12 +1672,12 @@
     "TiyiCg": {
         "en": "[Anxious Middle-Aged Man]\nYou must be the one who accepted the quest I posted at the Eden Group.\nGood luck.",
         "pt": "[Homem de meia-idade ansioso]\nVocê deve ser a pessoa que aceitou a missão que publiquei no Grupo do Éden.\nBoa sorte.",
-        "es": "[Hombre de mediana edad]\nDebes ser quien aceptó la misión que publiqué en el Grupo de Edén.\nBuena suerte."
+        "es": "[Hombre de mediana edad]\nDebes ser quien aceptó la misión que publiqué en el Grupo del Edén.\nBuena suerte."
     },
     "TyyiCg": {
         "en": "^4D4DFFQuest Prerequisites:\nEden Group quest [Sweet, Sweet Labor] completed; cooldown reset.^000000",
         "pt": "^4D4DFFPré-requisitos da missão:\nMissão do Grupo do Éden [Doce, Doce Trabalho] concluída; tempo de espera reiniciado.^000000",
-        "es": "^4D4DFFRequisitos previos de la misión:\nMisión [Dulce, dulce labor] del Grupo de Edén completada; se restableció el tiempo de recarga.^000000"
+        "es": "^4D4DFFRequisitos previos de la misión:\nMisión [Dulce, dulce labor] del Grupo del Edén completada; se restableció el tiempo de recarga.^000000"
     },
     "UCyiCg": {
         "en": "[Man]\nSay, are you heading out of the village by any chance?\nCan I ask a favor of you, if you are going out through the southern gate?",
@@ -1722,7 +1722,7 @@
     "WCyiCg": {
         "en": "[Man]\nI should ask someone else to take care of it next time.\nOr assign my quest to the Eden Group.",
         "pt": "[Homem]\nEu deveria pedir a outra pessoa para cuidar disso da próxima vez.\nOu atribuir minha missão ao Grupo do Éden.",
-        "es": "[Hombre]\nDebería pedirle a alguien más que se encargue la próxima vez.\nO asignarle la misión al Grupo de Edén."
+        "es": "[Hombre]\nDebería pedirle a alguien más que se encargue la próxima vez.\nO asignarle la misión al Grupo del Edén."
     },
     "WSyiCg": {
         "en": "[Man]\nI am sorry that you have to go through so much trouble because of my son.\n... Well, if you are up for it,\ncan I ask you to go get some firewood next time?",
@@ -1732,7 +1732,7 @@
     "WiyiCg": {
         "en": "[Man]\nI will also post it on the Eden Group, but ...\nThanks anyway.",
         "pt": "[Homem]\nTambém publicarei no Grupo do Éden, mas ...\nDe qualquer forma, obrigado.",
-        "es": "[Hombre]\nTambién lo publicaré en el Grupo de Edén, pero…\nGracias de todos modos."
+        "es": "[Hombre]\nTambién lo publicaré en el Grupo del Edén, pero…\nGracias de todos modos."
     },
     "WyyiCg": {
         "en": "[Man]\nI've got enough firewood, thanks.\nI will ask you again when I need some more.",
@@ -1787,7 +1787,7 @@
     "ZSyiCg": {
         "en": "[Dongdong]\nHehe, are you here for the quest you got from the Eden Group? Go do that first, then come talk to me.\nGood luck.",
         "pt": "[Dongdong]\nHehe, está aqui por causa da missão que recebeu do Grupo do Éden? Faça isso primeiro e depois venha falar comigo.\nBoa sorte.",
-        "es": "[Dongdong]\nJe, je, ¿estás aquí por la misión que obtuviste del Grupo de Edén? Ve a hacer eso primero y luego ven a hablar conmigo.\nBuena suerte."
+        "es": "[Dongdong]\nJe, je, ¿estás aquí por la misión que obtuviste del Grupo del Edén? Ve a hacer eso primero y luego ven a hablar conmigo.\nBuena suerte."
     },
     "ZiyiCg": {
         "en": "[Dongdong]\nThere are plenty of trees,\nso there's plenty of shade!",
@@ -1902,12 +1902,12 @@
     "fCyiCg": {
         "en": "[Lady]\nOh, you must be the one who accepted my quest from the Eden Group.",
         "pt": "[Senhora]\nAh, você deve ser a pessoa que aceitou minha missão do Grupo do Éden.",
-        "es": "[Dama]\nAh, debes ser la persona que aceptó mi misión del Grupo de Edén."
+        "es": "[Dama]\nAh, debes ser la persona que aceptó mi misión del Grupo del Edén."
     },
     "fSyiCg": {
         "en": "^4D4DFFQuest Prerequisites:\nEden Group quest [Professional Snake Hunter] completed; cooldown reset.^000000",
         "pt": "^4D4DFFPré-requisitos da missão:\nMissão do Grupo do Éden [Caçador de Cobras Profissional] concluída; tempo de espera reiniciado.^000000",
-        "es": "^4D4DFFRequisitos previos de la misión:\nMisión [Cazaserpientes profesional] del Grupo de Edén completada; se restableció el tiempo de recarga.^000000"
+        "es": "^4D4DFFRequisitos previos de la misión:\nMisión [Cazaserpientes profesional] del Grupo del Edén completada; se restableció el tiempo de recarga.^000000"
     },
     "fiyiCg": {
         "en": "[Lady]\nOh, you must be an Adventurer!\nIs this your first time in Payon?",
@@ -2002,7 +2002,7 @@
     "kCyiCg": {
         "en": "[Lady]\nI should ask the Eden Group to help me, then.\nGoodbye.",
         "pt": "[Senhora]\nPreciso pedir ajuda ao Grupo do Éden, então.\nAté logo.",
-        "es": "[Dama]\nEntonces, debería pedirle ayuda al Grupo de Edén.\nAdiós."
+        "es": "[Dama]\nEntonces, debería pedirle ayuda al Grupo del Edén.\nAdiós."
     },
     "kSyiCg": {
         "en": "[Lady]\nYou really are a skilled Adventurer.\nThanks to you, my children and I will be able to enjoy a picnic in the forest.",
@@ -2027,12 +2027,12 @@
     "lSyiCg": {
         "en": "[Grandma]\nI heard that someone accepted the quest I posted to the Eden Group. That must be you.",
         "pt": "[Grandma]\nOuvi dizer que alguém aceitou a missão que postei no Grupo do Éden. Deve ser você.",
-        "es": "[Abuela]\nOí que alguien aceptó la misión que publiqué en el Grupo de Edén. Debes ser tú."
+        "es": "[Abuela]\nOí que alguien aceptó la misión que publiqué en el Grupo del Edén. Debes ser tú."
     },
     "liyiCg": {
         "en": "^4D4DFFQuest Prerequisites:\nEden Group quest [That is One Nasty Onion] completed; cooldown reset.^000000",
         "pt": "^4D4DFFPré-requisitos para a missão:\nMissão do Grupo do Éden [Essa é uma cebola nojenta] concluída; tempo de espera reiniciado.^000000",
-        "es": "^4D4DFFRequisitos previos de la misión:\nMisión [Qué cebolla desagradable] del Grupo de Edén completada; se restableció el tiempo de recarga.^000000"
+        "es": "^4D4DFFRequisitos previos de la misión:\nMisión [Qué cebolla desagradable] del Grupo del Edén completada; se restableció el tiempo de recarga.^000000"
     },
     "lyyiCg": {
         "en": "[Grandma]\nHello there, young Adventurer.\nPlease hear me out.",
@@ -2107,7 +2107,7 @@
     "pSyiCg": {
         "en": "Go talk to the Eden Group.",
         "pt": "Vá falar com o Grupo do Éden.",
-        "es": "Ve a hablar con el Grupo de Edén."
+        "es": "Ve a hablar con el Grupo del Edén."
     },
     "piyiCg": {
         "en": "Should I?",
@@ -2177,7 +2177,7 @@
     "syyiCg": {
         "en": "[Grandma]\nI should go ask those Eden Group folks then ...\nHaha ...",
         "pt": "[Grandma]\nEntão, eu deveria perguntar para o pessoal do Grupo do Éden...\nHaha ...",
-        "es": "[Abuela]\nEntonces, debería pedírselo a los del Grupo de Edén…\nJa, ja…"
+        "es": "[Abuela]\nEntonces, debería pedírselo a los del Grupo del Edén…\nJa, ja…"
     },
     "tCyiCg": {
         "en": "[Grandma]\nThey can be found in the forest to the east.\nGood luck.",
@@ -2207,7 +2207,7 @@
     "uSyiCg": {
         "en": "^4D4DFFQuest Prerequisites:\nEden Group quest [Before There Are Mushrooms Everywhere ...] completed; cooldown reset.^000000",
         "pt": "^4D4DFFPré-requisitos para a missão:\nMissão do Grupo do Éden [Antes que os cogumelos tomem conta] concluída; tempo de espera reiniciado.^000000",
-        "es": "^4D4DFFRequisitos previos de la misión:\nMisión [Antes de que haya hongos por todas partes…] del Grupo de Edén completada; se restableció el tiempo de recarga.^000000"
+        "es": "^4D4DFFRequisitos previos de la misión:\nMisión [Antes de que haya hongos por todas partes…] del Grupo del Edén completada; se restableció el tiempo de recarga.^000000"
     },
     "uiyiCg": {
         "en": "[Grandpa]\nWe have to\nget rid of those hideous things ... Do you know who I should talk to?",

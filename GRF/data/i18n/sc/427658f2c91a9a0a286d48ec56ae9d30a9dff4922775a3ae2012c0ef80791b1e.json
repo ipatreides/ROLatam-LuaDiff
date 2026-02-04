@@ -12,7 +12,7 @@
     "onNaCg": {
         "en": "[Manager Emily]\nEden Group has prepared various equipment items for advanced adventurers.\nYou need ^4D4DFFEden Group Coins ^000000 to exchange for items.\nWould you like to exchange?",
         "pt": "[Gerente Emily]\nO Grupo do Éden preparou diversos equipamentos para aventureiros e aventureiras de níveis mais altos.\nBasta trazer ^4D4DFFMoedas do Éden^000000\nGostaria de trocar?",
-        "es": "[Gerente Emily]\nEl Grupo Edén ha preparado varios objetos de equipo para aventureros avanzados.\nNecesitas ^4D4DFFMonedas del Grupo Edén ^000000 para canjearlas por objetos.\n¿Te gustaría cambiarlas?"
+        "es": "[Gerente Emily]\nEl Grupo del Edén ha preparado varios objetos de equipo para aventureros avanzados.\nNecesitas ^4D4DFFMonedas del Grupo del Edén ^000000 para canjearlas por objetos.\n¿Te gustaría cambiarlas?"
     },
     "o3NaCg": {
         "en": "Accessory",
@@ -42,7 +42,7 @@
     "qHNaCg": {
         "en": "Eden Group Coin?",
         "pt": "Moeda do Éden?",
-        "es": "¿Moneda del Grupo Edén?"
+        "es": "¿Moneda del Grupo del Edén?"
     },
     "qXNaCg": {
         "en": "Cancel",
@@ -267,7 +267,7 @@
     "1XNaCg": {
         "en": "^4D4DFFMagic Ring of Eden IV[Coins: 110]^000000",
         "pt": "^4D4DFFAnel Mágico do Éden IV [Moedas: 110]^000000",
-        "es": "^4D4DFFAnillo Mágico del Grupo Edén IV[Monedas: 110]^000000"
+        "es": "^4D4DFFAnillo Mágico del Grupo del Edén IV[Monedas: 110]^000000"
     },
     "1nNaCg": {
         "en": "^4D4DFFMagic Necklace of Eden IV[Coins: 110]^000000",
@@ -397,7 +397,7 @@
     "73NaCg": {
         "en": "^4D4DFFAgility Necklace of Eden V[Coins: 150]^000000",
         "pt": "^4D4DFFColar Ágil do Éden V [Moedas: 150]^000000",
-        "es": "^4D4DFFDEX Collar Grupo Edén V[Monedas: 150]^000000"
+        "es": "^4D4DFFDEX Collar Grupo del Edén V[Monedas: 150]^000000"
     },
     "8HNaCg": {
         "en": "[Manager Emily]\nThe items are classified according to level requirements as follows:\n<ITEM>Agility Ring of Eden I<INFO>28463</INFO></ITEM>: level 100\n<ITEM>Agility Necklace of Eden I<INFO>28464</INFO></ITEM>: level 100\n<ITEM>Agility Ring of Eden II<INFO>28465</INFO></ITEM>: level 115\n<ITEM>Agility Necklace of Eden II<INFO>28466</INFO></ITEM>: level 115\n<ITEM>Agility Ring of Eden III<INFO>28467</INFO></ITEM>: level 130\n<ITEM>Agility Necklace of Eden III<INFO>28468</INFO></ITEM>: level 130\n<ITEM>Agility Ring of Eden IV<INFO>28469</INFO></ITEM>: level 145\n<ITEM>Agility Necklace of Eden IV<INFO>28470</INFO></ITEM>: level 145\n<ITEM>Agility Ring of Eden V<INFO>28471</INFO></ITEM>: level 160\n<ITEM>Agility Necklace of Eden V<INFO>28472</INFO></ITEM>: level 160",
@@ -512,57 +512,57 @@
     "BnRaCg": {
         "en": "^CCCCCCEden Uniform I[Coins: 20]^000000",
         "pt": "^CCCCCCFarda do Éden I [Moedas: 20]^000000",
-        "es": "^CCCCCCUniforme del Edén I[Monedas: 20]^000000"
+        "es": "^CCCCCCTraje del Edén I[Monedas: 20]^000000"
     },
     "B3RaCg": {
         "en": "^4D4DFFEden Uniform I[Coins: 20]^000000",
         "pt": "^4D4DFFFarda do Éden I [Moedas: 20]^000000",
-        "es": "^4D4DFFUniforme del Edén I[Monedas: 20]^000000"
+        "es": "^4D4DFFTraje del Edén I[Monedas: 20]^000000"
     },
     "CHRaCg": {
         "en": "^CCCCCCEden Uniform II[Coins: 60]^000000",
         "pt": "^CCCCCCFarda do Éden II [Moedas: 60]^000000",
-        "es": "^CCCCCCUniforme del Edén II[Monedas: 60]^000000"
+        "es": "^CCCCCCTraje del Edén II[Monedas: 60]^000000"
     },
     "CXRaCg": {
         "en": "^4D4DFFEden Uniform II[Coins: 60]^000000",
         "pt": "^4D4DFFFarda do Éden II [Moedas: 60]^000000",
-        "es": "^4D4DFFUniforme del Edén II[Monedas: 60]^000000"
+        "es": "^4D4DFFTraje del Edén II[Monedas: 60]^000000"
     },
     "CnRaCg": {
         "en": "^CCCCCCEden Uniform III[Coins: 80]^000000",
         "pt": "^CCCCCCFarda do Éden III [Moedas: 80]^000000",
-        "es": "^CCCCCCUniforme del Edén III[Monedas: 80]^000000"
+        "es": "^CCCCCCTraje del Edén III[Monedas: 80]^000000"
     },
     "C3RaCg": {
         "en": "^4D4DFFEden Uniform III[Coins: 80]^000000",
         "pt": "^4D4DFFFarda do Éden III [Moedas: 80]^000000",
-        "es": "^4D4DFFUniforme del Edén III[Monedas: 80]^000000"
+        "es": "^4D4DFFTraje del Edén III[Monedas: 80]^000000"
     },
     "DHRaCg": {
         "en": "^CCCCCCEden Uniform IV[Coins: 110]^000000",
         "pt": "^CCCCCCFarda do Éden IV [Moedas: 110]^000000",
-        "es": "^CCCCCCUniforme del Edén IV[Monedas: 110]^000000"
+        "es": "^CCCCCCTraje del Edén IV[Monedas: 110]^000000"
     },
     "DXRaCg": {
         "en": "^4D4DFFEden Uniform IV[Coins: 110]^000000",
         "pt": "^4D4DFFFarda do Éden IV [Moedas: 110]^000000",
-        "es": "^4D4DFFUniforme del Edén IV[Monedas: 110]^000000"
+        "es": "^4D4DFFTraje del Edén IV[Monedas: 110]^000000"
     },
     "DnRaCg": {
         "en": "^CCCCCCEden Uniform V[Coins: 150]^000000",
         "pt": "^CCCCCCFarda do Éden V [Moedas: 150]^000000",
-        "es": "^CCCCCCUniforme del Edén V[Monedas: 150]^000000"
+        "es": "^CCCCCCTraje del Edén V[Monedas: 150]^000000"
     },
     "D3RaCg": {
         "en": "^4D4DFFEden Uniform V[Coins: 150]^000000",
         "pt": "^4D4DFFFarda do Éden V [Moedas: 150]^000000",
-        "es": "^4D4DFFUniforme del Edén V[Monedas: 150]^000000"
+        "es": "^4D4DFFTraje del Edén V[Monedas: 150]^000000"
     },
     "EHRaCg": {
         "en": "[Manager Emily]\nThe items are classified according to level requirements as follows:\n<ITEM>Eden Uniform I<INFO>15181</INFO></ITEM>: level 100\n<ITEM>Eden Uniform II<INFO>15182</INFO></ITEM>: level 115\n<ITEM>Eden Uniform III<INFO>15183</INFO></ITEM>: level 130\n<ITEM>Eden Uniform IV<INFO>15184</INFO></ITEM>: level 145\n<ITEM>Eden Uniform V<INFO>15185</INFO></ITEM>: level 160",
         "pt": "[Gerente Emily]\nAtente-se à descrição do item!!\n<ITEM>Farda do Éden I<INFO>15181</INFO></ITEM>\n<ITEM>Farda do Éden II<INFO>15182</INFO></ITEM>\n<ITEM>Farda do Éden III<INFO>15183</INFO></ITEM>\n<ITEM>Farda do Éden IV<INFO>15184</INFO></ITEM>\n<ITEM>Farda do Éden V<INFO>15185</INFO></ITEM>",
-        "es": "[Gerente Emily]\nLos objetos se clasifican según los requisitos de nivel de la siguiente manera:\n<ITEM>Uniforme del Edén I<INFO>15181</INFO></ITEM>\n<ITEM>Uniforme del Edén II<INFO>15182</INFO></ITEM>\n<ITEM>Uniforme del Edén III<INFO>15183</INFO></ITEM>\n<ITEM>Uniforme del Edén IV<INFO>15184</INFO></ITEM>\n<ITEM>Uniforme del Edén V<INFO>15185</INFO></ITEM>"
+        "es": "[Gerente Emily]\nLos objetos se clasifican según los requisitos de nivel de la siguiente manera:\n<ITEM>Traje del Edén I<INFO>15181</INFO></ITEM>\n<ITEM>Traje del Edén II<INFO>15182</INFO></ITEM>\n<ITEM>Traje del Edén III<INFO>15183</INFO></ITEM>\n<ITEM>Traje del Edén IV<INFO>15184</INFO></ITEM>\n<ITEM>Traje del Edén V<INFO>15185</INFO></ITEM>"
     },
     "EXRaCg": {
         "en": "^CCCCCCEden Boots I[Coins: 20]^000000",
@@ -657,37 +657,37 @@
     "I3RaCg": {
         "en": "^CCCCCCEden Hat I[Coins: 70]^000000",
         "pt": "^CCCCCCBoina do Éden I [Moedas: 70]^000000",
-        "es": "^CCCCCCSombrero del Grupo Edén I[Monedas: 70]^000000"
+        "es": "^CCCCCCSombrero del Grupo del Edén I[Monedas: 70]^000000"
     },
     "JHRaCg": {
         "en": "^4D4DFFEden Hat I[Coins: 70]^000000",
         "pt": "^4D4DFFBoina do Éden I [Moedas: 70]^000000",
-        "es": "^4D4DFFSombrero del Grupo Edén I[Monedas: 70]^000000"
+        "es": "^4D4DFFSombrero del Grupo del Edén I[Monedas: 70]^000000"
     },
     "JXRaCg": {
         "en": "^CCCCCCEden Hat II[Coins: 600]^000000",
         "pt": "^CCCCCCBoina do Éden II [Moedas: 600]^000000",
-        "es": "^CCCCCCSombrero del Grupo Edén II[Monedas: 600]^000000"
+        "es": "^CCCCCCSombrero del Grupo del Edén II[Monedas: 600]^000000"
     },
     "JnRaCg": {
         "en": "^4D4DFFEden Hat II[Coins: 600]^000000",
         "pt": "^4D4DFFBoina do Éden II [Moedas: 600]^000000",
-        "es": "^4D4DFFSombrero del Grupo Edén II[Monedas: 600]^000000"
+        "es": "^4D4DFFSombrero del Grupo del Edén II[Monedas: 600]^000000"
     },
     "J3RaCg": {
         "en": "[Manager Emily]\nThe items are classified according to level requirements as follows:\n<ITEM>Eden Hat I<INFO>19164</INFO></ITEM>: level 100\n<ITEM>Eden Hat II<INFO>19165</INFO></ITEM>: level 160",
         "pt": "[Gerente Emily]\nAtente-se à descrição do item!!\n<ITEM>Boina do Éden I<INFO>19164</INFO></ITEM>\n<ITEM>Boina do Éden II<INFO>19165</INFO></ITEM>",
-        "es": "[Gerente Emily]\nLos objetos se clasifican según los requisitos de nivel de la siguiente manera:\n<ITEM>Sombrero del Grupo Edén I<INFO>19164</INFO></ITEM>\n<ITEM>Sombrero del Grupo Edén II<INFO>19165</INFO></ITEM>"
+        "es": "[Gerente Emily]\nLos objetos se clasifican según los requisitos de nivel de la siguiente manera:\n<ITEM>Sombrero del Grupo del Edén I<INFO>19164</INFO></ITEM>\n<ITEM>Sombrero del Grupo del Edén II<INFO>19165</INFO></ITEM>"
     },
     "KHRaCg": {
         "en": "[Manager Emily]\n<ITEM>Eden Group Coin <INFO>25223</INFO></ITEM>\ncan be obtained as a reward by completing advanced quests for adventurers of level 100 or higher.",
         "pt": "[Gerente Emily]\nA <ITEM>Moeda do Éden <INFO>25223</INFO></ITEM>\npode ser obtida como recompensa ao concluir missões de nível 100 ou superior.",
-        "es": "[Gerente Emily]\n<ITEM>Moneda del Grupo Edén <INFO>25223</INFO></ITEM>\nse puede obtener como recompensa al completar misiones avanzadas para aventureros de nivel 100 o superior."
+        "es": "[Gerente Emily]\n<ITEM>Moneda del Grupo del Edén <INFO>25223</INFO></ITEM>\nse puede obtener como recompensa al completar misiones avanzadas para aventureros de nivel 100 o superior."
     },
     "KXRaCg": {
         "en": "[Manager Emily]\nIt is a gift prepared by Eden Group for the adventurers who finish quests and contribute to the group.",
         "pt": "[Gerente Emily]\nÉ um presente preparado pelo Grupo do Éden para viajantes que terminam as missões e contribuem conosco.",
-        "es": "[Gerente Emily]\nEs un regalo preparado por el Grupo Edén para los aventureros que terminan misiones y contribuyen al grupo."
+        "es": "[Gerente Emily]\nEs un regalo preparado por el Grupo del Edén para los aventureros que terminan misiones y contribuyen al grupo."
     },
     "KnRaCg": {
         "en": "[Manager Emily]\nAcquired coins can be used to exchanged for various equipment and items here.",
@@ -702,7 +702,7 @@
     "LHRaCg": {
         "en": "[Manager Emily]\nBecause it is a reward to those who do the work for Eden Group.",
         "pt": "[Gerente Emily]\nConsidere um presente para aqueles que trabalham para o Grupo do Éden.",
-        "es": "[Gerente Emily]\nPorque es una recompensa a los que hacen el trabajo para el Grupo Edén."
+        "es": "[Gerente Emily]\nPorque es una recompensa a los que hacen el trabajo para el Grupo del Edén."
     },
     "LXRaCg": {
         "en": "[Manager Emily]\nThank you, please come back again.",

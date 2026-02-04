@@ -267,7 +267,7 @@
     "NehuAw": {
         "en": "[Dry]\nOh, are you an Adventurer?\nAre you here because you accepted my request to Eden Group?",
         "pt": "[Hudson]\nHã? Viajante?\nO Grupo do Éden mandou você?",
-        "es": "[Dry]\nAh, ¿eres Trotamundos?\n¿Estás aquí porque aceptaste la solicitud que hice al Grupo de Edén?"
+        "es": "[Dry]\nAh, ¿eres Trotamundos?\n¿Estás aquí porque aceptaste la solicitud que hice al Grupo del Edén?"
     },
     "NuhuAw": {
         "en": "[Dry]\nHmm ... Now that I have a better look, you're not.\nYou don't have the capability to perform my quest.",
@@ -387,7 +387,7 @@
     "TehuAw": {
         "en": "[Dry]\nHmm, no one yet has accepted the quest I asked Eden Group to do.\nHow about you?",
         "pt": "[Hudson]\nHmm, ninguém atendeu minha solicitação no Grupo do Éden ainda.\nComo vai você?",
-        "es": "[Dry]\nMmm, todavía nadie aceptó la misión que le encomendé al Grupo de Edén.\n¿Y tú?"
+        "es": "[Dry]\nMmm, todavía nadie aceptó la misión que le encomendé al Grupo del Edén.\n¿Y tú?"
     },
     "TuhuAw": {
         "en": "[Dry]\nWhy don't you help me and get rid of those darned ^4D4DFFNovuses^000000?",
@@ -417,7 +417,7 @@
     "U+huAw": {
         "en": "[Dry]\nThat's unfortunate.\n I have no choice but to wait for someone at Eden Group to accept my request.",
         "pt": "[Hudson]\nNão pode ajudar?\nNão tenho escolha a não ser esperar que apareça alguém que atenda minha solicitação no Grupo do Éden.",
-        "es": "[Dry]\nEs una pena.\nNo me queda más remedio que esperar a que alguien del Grupo de Edén acepte mi solicitud."
+        "es": "[Dry]\nEs una pena.\nNo me queda más remedio que esperar a que alguien del Grupo del Edén acepte mi solicitud."
     },
     "VOhuAw": {
         "en": "[Dry]\nYou're at a vacation spot, so better rest rather than work. \nMake yourself at home and enjoy.",

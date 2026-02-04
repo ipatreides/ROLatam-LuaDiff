@@ -1508,6 +1508,60 @@ A religious kingdom that worships the goddess Freya and has achieved unity of ch
 		Page = {
 			"Mirko te pide reunir 20 Caparazones de Reconocimiento.\n\t\n\t\t\t<NAVI>[Mirko]<INFO>anthell02,177,190,0,101,0</INFO></NAVI>\n\n\t<TIPBOX>• Ilusión de los Gemelos<INFO>9157</INFO></TIPBOX> Completado\n\t^663399• Nivel 160 o superior^000000\n\n\t<TIPBOX>• Página Anterior<INFO>9093</INFO></TIPBOX>\n\t<TIPBOX>• Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
 		}
+	},
+	[9093] = {
+		Title = "Ilusión Submarina",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Investiga los eventos sospechosos en la Ilusión Submarina.\n\t\t\t^663399» Nivel 140 o superior^000000\n\t\t\t\n\t\t\t<NAVI>[Izlude]<INFO>izlude,132,49,0,101,0</INFO></NAVI>\n\t\t\t\n\t\t\t» Misión Principal\n\t\t\t<TIPBOX>Q Ilusión Submarina: Cacería de 100 Monstruos (180)<INFO>9134</INFO></TIPBOX>\n\t\t\t\n\t\t\t» Misiones Diarias\n\t\t\t<TIPBOX>Q Muestra de Esencias (140)<INFO>9122</INFO></TIPBOX>\n\t\t\t<TIPBOX>Q Control de Criaturas (140)<INFO>9123</INFO></TIPBOX>\n\t\t\t<TIPBOX>Q Control de Peces (180)<INFO>9124</INFO></TIPBOX>\n\t\t\t<TIPBOX>Q Control de Especies (180)<INFO>9125</INFO></TIPBOX>\n\t\t\t\t\t\n\t\t\tDespués de completar la Ilusión Submarina, puedes crear equipo poderoso con <ITEM>[Piedras de Ilusión]<INFO>25271</INFO></ITEM>.\n\t\t\tNecesitas mejorar el equipo a +9.\n\t\t\t^663399» Materiales de Creación^000000\n\t\t\t» <NAVI>[Túnel Submarino]<INFO>iz_d04_i,134,228,0,101,0</INFO></NAVI>\n\t\t\tØ <ITEM>[Anguila Eléctrica de Ilusión [2]]<INFO>580008</INFO></ITEM>\n\t\t\t+9 <ITEM>[Anguila Eléctrica [2]]<INFO>1972</INFO></ITEM>, 150x <ITEM>[Estrella de Mar Abismal]<INFO>25895</INFO></ITEM>, 120x <ITEM>[Piedra de Ilusión]<INFO>25271</INFO></ITEM>\n\t\t\tØ <ITEM>[Guitarra Eléctrica de Ilusión [2]]<INFO>570008</INFO></ITEM>\n\t\t\t+9<ITEM>[Guitarra Eléctrica]<INFO>1913</INFO></ITEM>, 150x <ITEM>[Estrella de Mar Abismal]<INFO>25895</INFO></ITEM>, 120x <ITEM>[Piedra de Ilusión]<INFO>25271</INFO></ITEM>\n\t\t\tØ <ITEM>[Brionac de Ilusión [2]]<INFO>630006</INFO></ITEM>\n\t\t\t+9 <ITEM>[Brionac]<INFO>1470</INFO></ITEM>, 150x <ITEM>[Cola de Pez Abismal]<INFO>25893</INFO></ITEM>, 120x <ITEM>[Piedra de Ilusión]<INFO>25271</INFO></ITEM>\n\t\t\tØ <ITEM>[Katar de Carámbano Helado de Ilusión]<INFO>610012</INFO></ITEM>\n\t\t\t+9 <ITEM>Katar de Carámbano Helado [3]]<INFO>1275</INFO></ITEM>, 150x <ITEM>[Cangrejo Abismal]<INFO>25896</INFO></ITEM>, 120x <ITEM>[Piedra de Ilusión]<INFO>25271</INFO></ITEM>\n\t\t\tØ <ITEM>[Guía de la Muerte de Ilusión [2]]<INFO>600011</INFO></ITEM>\n\t\t\t+9 <ITEM>[Guía de la Muerte [2]]<INFO>1186</INFO></ITEM>, 150x <ITEM>[Pez Abismal Podrido]<INFO>25894</INFO></ITEM>, 120x <ITEM>[Piedra de Ilusión]<INFO>25271</INFO></ITEM>\n\t\t\tØ <ITEM>[Céfiro de Ilusión [2]]<INFO>630007</INFO></ITEM>\n\t\t\t+9 <ITEM>[Céfiro [3]]<INFO>1481</INFO></ITEM>, 150x <ITEM>[Concha Marina Abismal]<INFO>25892</INFO></ITEM>, 120x <ITEM>[Piedra de Ilusión]<INFO>25271</INFO></ITEM>\n\t\t\tØ <ITEM>[Túnica de Santa de Ilusión [1]]<INFO>450144</INFO></ITEM>\n\t\t\t+9 <ITEM>[Túnica de Santa [1]]<INFO>2326</INFO></ITEM>, 100x <ITEM>[Cola de Pez Abismal]<INFO>25893</INFO></ITEM>, 20x <ITEM>[Esencia Abismal]<INFO>25899</INFO></ITEM>, 90x <ITEM>[Piedra de Ilusión]<INFO>25271</INFO></ITEM>\n\t\t\tØ <ITEM>[Armadura del Océano de Saphien de Ilusión [1]]<INFO>450145</INFO></ITEM>\n\t\t\t+9 <ITEM>[Armadura del Océano de Saphien]<INFO>2347</INFO></ITEM>, 100x <ITEM>[Cangrejo Abismal]<INFO>25896</INFO></ITEM>, 20x <ITEM>[Esencia Abismal]<INFO>25899</INFO></ITEM>, 90x <ITEM>[Piedra de Ilusión]<INFO>25271</INFO></ITEM>\n\t\t\tØ <ITEM>[Cota de Mallas de Ilusión [1]]<INFO>450146</INFO></ITEM>\n\t\t\t+9 <ITEM>[Cota de Mallas [1]]<INFO>2315</INFO></ITEM>, 100x <ITEM>[Estrella de Mar Abismal]<INFO>25895</INFO></ITEM>, 20x <ITEM>[Esencia Abismal]<INFO>25899</INFO></ITEM>, 90x <ITEM>[Piedra de Ilusión]<INFO>25271</INFO></ITEM>\n\t\t\tØ <ITEM>[Yelmo de Morrigane de Ilusión [1]]<INFO>400053</INFO></ITEM>\n\t\t\t+9 <ITEM>[Yelmo de Morrigane]<INFO>5127</INFO></ITEM>, 100x <ITEM>[Cangrejo Abismal]<INFO>25896</INFO></ITEM>, 50x <ITEM>[Esencia Abismal]<INFO>25899</INFO></ITEM>, 100x <ITEM>[Piedra de Ilusión]<INFO>25271</INFO></ITEM>\n\t\t\tØ <ITEM>[Manteo de Morrigane de Ilusión [1]]<INFO>480054</INFO></ITEM>\n\t\t\t+9 <ITEM>[Manteo de Morrigane]<INFO>2519</INFO></ITEM>, 100x <ITEM>[Pez Abismal Podrido]<INFO>25894</INFO></ITEM>, 50x <ITEM>[Esencia Abismal]<INFO>25899</INFO></ITEM>, 100x <ITEM>[Piedra de Ilusión]<INFO>25271</INFO></ITEM>\n\t\t\tØ <ITEM>[Cinturón de Morrigane de Ilusión [1]]<INFO>490069</INFO></ITEM>\n\t\t\t<ITEM>[Cinturón de Morrigane]<INFO>2650</INFO></ITEM>, 100x <ITEM>[Cola de Pez Abismal]<INFO>25893</INFO></ITEM>, 15x <ITEM>[Tentáculo de Kraken Abismal]<INFO>7324</INFO></ITEM>, 50x <ITEM>[Esencia Abismal]<INFO>25899</INFO></ITEM>, 100x <ITEM>[Piedra de Ilusión]<INFO>25271</INFO></ITEM>\n\t\t\tØ <ITEM>[Colgante de Morrigane de Ilusión]<INFO>490070</INFO></ITEM>\n\t\t\t<ITEM>[Colgante de Morrigane]<INFO>2651</INFO></ITEM>, 100x <ITEM>[Concha Marina Abismal]<INFO>25892</INFO></ITEM>, 15x <ITEM>[Corona de la Bruja Abismal]<INFO>25897</INFO></ITEM>, 50x <ITEM>[Esencia Abismal]<INFO>25899</INFO></ITEM>, 100x <ITEM>[Piedra de Ilusión]<INFO>25271</INFO></ITEM>\n\n\t\t\t<TIPBOX>» Línea de Misiones Principales<INFO>9085</INFO></TIPBOX>\n\t\t\t<TIPBOX>» Guía para Principiantes<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[9122] = {
+		Title = "Q Muestra de Esencias (140)",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Recolecta 10 Esencias Abismales de los monstruos en el Túnel Submarino.\n\t\n\t\t\t<NAVI>[Túnel Submarino]<INFO>iz_d04_i,127,228,0,101,0</INFO></NAVI>\n\n\t<TIPBOX>» Ilusión Submarina<INFO>9093</INFO></TIPBOX> Requisito previo\n\t^663399» Nivel 140 o superior^000000\n\n\t<TIPBOX>» Línea de Misiones Principales<INFO>9093</INFO></TIPBOX>\n\t<TIPBOX>» Guía para Principiantes<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[9123] = {
+		Title = "Q Control de Criaturas (140)",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Caza un total de 10 Sropho Abismal, Deviace Abismal y Marse Abismal de los monstruos en el Túnel Submarino.\n\t\n\t\t\t<NAVI>[Túnel Submarino]<INFO>iz_d04_i,127,228,0,101,0</INFO></NAVI>\n\n\t<TIPBOX>» Ilusión Submarina<INFO>9093</INFO></TIPBOX> \n\tRequisito previo:\n\t^663399» Nivel 140 o superior^000000\n\n\t<TIPBOX>» Línea de Misiones Principales<INFO>9093</INFO></TIPBOX>\n\t<TIPBOX>» Guía para Principiantes<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[9124] = {
+		Title = "Q Control de Peces (180)",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Caza un total de 10 Pez Espada Abismal, Phen Abismal y Rey Dramoh Abismal de los monstruos en el Túnel Submarino.\n\t\n\t\t\t<NAVI>[Túnel Submarino]<INFO>iz_d05_i,138,186,0,101,0</INFO></NAVI>\n\n\t<TIPBOX>» Ilusión Submarina<INFO>9093</INFO></TIPBOX> \n\tRequisito previo:\n\t^663399» Nivel 180 o superior^000000\n\n\t<TIPBOX>» Línea de Misiones Principales<INFO>9093</INFO></TIPBOX>\n\t<TIPBOX>» Guía para Principiantes<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[9125] = {
+		Title = "Q Control de Especies (180)",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Caza un total de 15 Sedora Abismal y Strouf Abismal de los monstruos en el Túnel Submarino.\n\t\n\t\t\t<NAVI>[Túnel Submarino]<INFO>iz_d05_i,138,186,0,101,0</INFO></NAVI>\n\n\t<TIPBOX>» Ilusión Submarina<INFO>9093</INFO></TIPBOX> \n\tRequisito previo:\n\t^663399» Nivel 180 o superior^000000\n\n\t<TIPBOX>» Línea de Misiones Principales<INFO>9093</INFO></TIPBOX>\n\t<TIPBOX>» Guía para Principiantes<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[9134] = {
+		Title = "Q Investigación Submarina (180)",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Derrota a los monstruos en el Túnel Submarino e informa al guardia.\n\t\t\tCaza 100 monstruos en la Ilusión Submarina para demostrar tu fuerza y recibe tu recompensa.\n\t\n\t\t\t<NAVI>[Guardia del Templo]<INFO>iz_d04_i,127,224,0,101,0</INFO></NAVI>\n\t\t\t\n\t\t\t^663399» Nivel 180 o superior^000000\n\n\t<TIPBOX>» Línea de Misiones Principales<INFO>9093</INFO></TIPBOX>\n\t<TIPBOX>» Guía para Principiantes<INFO>1000</INFO></TIPBOX>"
+		}
 	}
 }
 function main()

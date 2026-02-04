@@ -254,13 +254,13 @@
     "CuOaCw": {
         "ko": "푸어링",
         "en": "Pouring Egg",
-        "pt": "Ovo de Aguaring",
+        "pt": "Ovo de Pouring",
         "es": "Huevo de Pouring"
     },
     "C+OaCw": {
         "ko": "^999999푸어링 (티켓 없음)^000000",
         "en": "^999999Pouring Egg (not enough ticket)^000000",
-        "pt": "^999999Ovo de Aguaring (ticket insuficiente)^000000",
+        "pt": "^999999Ovo de Pouring (ticket insuficiente)^000000",
         "es": "^999999Huevo de Pouring (Ticket insuficiente)^000000"
     },
     "DOOaCw": {
@@ -268,5 +268,41 @@
         "en": "<ITEM>[Pouring Pet Ticket]<INFO>25463</INFO></ITEM>",
         "pt": "<ITEM>[Ticket de Mascote Pouring]<INFO>25463</INFO></ITEM>",
         "es": "<ITEM>[Ticket de Mascota Pouring]<INFO>25463</INFO></ITEM>"
+    },
+    "DeOaCw": {
+        "ko": "오크히어로",
+        "en": "Hero Orc Egg",
+        "pt": "Ovo de Orc Herói",
+        "es": "Huevo de Orco Héroe"
+    },
+    "DuOaCw": {
+        "ko": "^999999오크히어로 (티켓 없음)^000000",
+        "en": "^999999Hero Orc Egg (not enough ticket)^000000",
+        "pt": "^999999Ovo de Orc Herói (ticket insuficiente)^000000",
+        "es": "^999999Huevo de Orco Héroe (Ticket insuficiente)^000000"
+    },
+    "D+OaCw": {
+        "ko": "백소진",
+        "en": "White Lady Egg",
+        "pt": "Ovo de Lady Branca",
+        "es": "Huevo de Dama Blanca"
+    },
+    "EOOaCw": {
+        "ko": "^999999백소진 (티켓 없음)^000000",
+        "en": "^999999White Lady Egg (not enough ticket)^000000",
+        "pt": "^999999Ovo de Lady Branca (ticket insuficiente)^000000",
+        "es": "^999999Huevo de Dama Blanca (Ticket insuficiente)^000000"
+    },
+    "EeOaCw": {
+        "ko": "<ITEM>[오크히어로 큐펫 교환 티켓]<INFO>1000452</INFO></ITEM>",
+        "en": "<ITEM>[Hero Orc Pet Ticket]<INFO>1000452</INFO></ITEM>",
+        "pt": "<ITEM>[Ticket de Mascote Orc Herói]<INFO>1000452</INFO></ITEM>",
+        "es": "<ITEM>[Ticket de Mascota Orco Héroe]<INFO>1000452</INFO></ITEM>"
+    },
+    "EuOaCw": {
+        "ko": "<ITEM>[백소진 큐펫 교환 티켓]<INFO>1000456</INFO></ITEM>",
+        "en": "<ITEM>[White Lady Pet Ticket]<INFO>1000456</INFO></ITEM>",
+        "pt": "<ITEM>[Ticket de Mascote Lady Branca]<INFO>1000456</INFO></ITEM>",
+        "es": "<ITEM>[Ticket de Mascota Dama Blanca]<INFO>1000456</INFO></ITEM>"
     }
 }

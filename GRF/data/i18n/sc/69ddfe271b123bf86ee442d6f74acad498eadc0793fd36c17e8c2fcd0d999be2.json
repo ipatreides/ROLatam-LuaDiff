@@ -12,7 +12,7 @@
     "IupRAw": {
         "en": "1.Are you a member\n   of the Eden group?\n2. You need\n  ^4D4DFF500 zeny^000000!",
         "pt": "1. Você faz parte do\nGrupo do Éden?\n2. A taxa de uso é de\n^4D4DFF500 Zeny^000000!",
-        "es": "1. ¿Eres parte\n   del Grupo de Edén?\n2. ¡Necesitas\n  ^4D4DFF500 zeny^000000!"
+        "es": "1. ¿Eres parte\n   del Grupo del Edén?\n2. ¡Necesitas\n  ^4D4DFF500 zeny^000000!"
     },
     "I+pRAw": {
         "en": "You need to insert zeny to use the cabinet.\nCost : 500 zeny \nWould you like to use it?",
@@ -47,6 +47,6 @@
     "KepRAw": {
         "en": "I need a Eden Group Mark to use this Cabinet.",
         "pt": "Preciso de um Emblema do Éden para usar esse armário.",
-        "es": "Necesito una Marca del Grupo de Edén para usar este Gabinete."
+        "es": "Necesito una Marca del Grupo del Edén para usar este Gabinete."
     }
 }

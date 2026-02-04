@@ -57,7 +57,7 @@
     "i3LZCw": {
         "en": "[Spokesperson]\nIf you want to join the project, please go submit your application to the Eden Group.",
         "pt": "[Porta-voz de Fantasmagórica]\nSe quiser entrar no projeto, por favor, mande sua inscrição para o Grupo Éden.",
-        "es": "[Portavoz]\nSi quieres sumarte al proyecto, envía una solicitud al Grupo de Edén."
+        "es": "[Portavoz]\nSi quieres sumarte al proyecto, envía una solicitud al Grupo del Edén."
     },
     "jHLZCw": {
         "en": "[Spokesperson]\nAn ancient site was just discovered in Juperos.\nIt was hidden at the end of a long tunnel.",
@@ -187,7 +187,7 @@
     "pXLZCw": {
         "en": "[Secretary Lime Evenor]\nJoin the Eden Group, and you can take on all sorts of missions.",
         "pt": "[Secretária Lenore]\nEntre para o Grupo Éden e poderá participar de vários tipos de missões.",
-        "es": "[Secretario Lime Evenor]\nÚnete al Grupo de Edén para emprender todo tipo de misiones."
+        "es": "[Secretario Lime Evenor]\nÚnete al Grupo del Edén para emprender todo tipo de misiones."
     },
     "pnLZCw": {
         "en": "Captain Arquien",
@@ -207,7 +207,7 @@
     "qXLZCw": {
         "en": "[Captain Arquien]\nLet me introduce myself. I'm Arquien Nile Atnad, founder and captain of the Eden Group.\nYou may call me Nile.",
         "pt": "[Capitã Arquien]\nVou me apresentar. Eu sou Arquien Nile Atnad, fundadora e capitã do Grupo Éden.\nPode me chamar de Nile.",
-        "es": "[Capitana Arquien]\nPermíteme presentarme. Soy Arquien Nile Atnad, fundadora y capitana del Grupo de Edén.\nMe puedes decir Nile."
+        "es": "[Capitana Arquien]\nPermíteme presentarme. Soy Arquien Nile Atnad, fundadora y capitana del Grupo del Edén.\nMe puedes decir Nile."
     },
     "qnLZCw": {
         "en": "So, what can I do for you?",
@@ -487,7 +487,7 @@
     "4XLZCw": {
         "en": "[Aureth]\nLet me tell you. When Lime came to us,\nwe all wondered why a famous company like Eden Group would support a ragtag bunch of old men like us.\nThen we found out they're father and daughter.",
         "pt": "[Aureth]\nVou dizer. Quando Lenore nos procurou,\nficamos pensando no motivo pelo qual uma companhia famosa como o Grupo Éden daria apoio a um bando de velhos como nós.\nE então descobrimos que eles são pai e filha.",
-        "es": "[Aureth]\nDéjame que te lo cuente. Cuando Lime acudió a nosotros,\nnos preguntamos por qué una empresa famosa como el Grupo de Edén respaldaría a un puñado cualquiera de ancianos.\nLuego, nos enteramos de que son padre e hija."
+        "es": "[Aureth]\nDéjame que te lo cuente. Cuando Lime acudió a nosotros,\nnos preguntamos por qué una empresa famosa como el Grupo del Edén respaldaría a un puñado cualquiera de ancianos.\nLuego, nos enteramos de que son padre e hija."
     },
     "4nLZCw": {
         "en": "Father and daughter? Who?",
@@ -577,12 +577,12 @@
     "83LZCw": {
         "en": "[Lime]\nI'm sorry, but he's our guest.\nAnd this office is for Eden Group employees only.\nThe dormitory is the next room.",
         "pt": "[Lenore]\nSinto muito, mas ele é nosso convidado.\nE este escritório é somente para funcionários do Grupo Éden.\nO dormitório fica na próxima sala.",
-        "es": "[Lime]\nLo siento, pero es una visita.\nY esta oficina es solo para personal del Grupo de Edén.\nEl dormitorio está aquí al lado."
+        "es": "[Lime]\nLo siento, pero es una visita.\nY esta oficina es solo para personal del Grupo del Edén.\nEl dormitorio está aquí al lado."
     },
     "9HLZCw": {
         "en": "[Aureth]\nI'll see you again at the excavation site, yeah?\nThe Eden Group has hired an escort for me, so I'll be traveling with him.\nSee you at the site.",
         "pt": "[Aureth]\nVejo você no local da escavação, certo?\nO Grupo Éden foi contratado para me acompanhar, então vou viajar com eles.\nVejo você lá.",
-        "es": "[Aureth]\nNos veremos de nuevo en la excavación, ¿sí?\nEl Grupo de Edén me contrató un escolta, así que viajaré con él.\nNos vemos en el sitio."
+        "es": "[Aureth]\nNos veremos de nuevo en la excavación, ¿sí?\nEl Grupo del Edén me contrató un escolta, así que viajaré con él.\nNos vemos en el sitio."
     },
     "9XLZCw": {
         "en": "[Aureth]\nOh, you came.\nI came here often.\nI feel sorry for Luke, for he has to travel so often because of me.",
@@ -632,7 +632,7 @@
     "/nLZCw": {
         "en": "[Manager Michelle]\nOh, yes. The ^4D4DFFEden Group^000000 is the easiest place to get a referral.\nIf you're qualified, then the Group will recommend you to us for the excavation project.",
         "pt": "[Gerente Michelle]\nAh, sim. A forma mais fácil de conseguir uma recomendação é com o ^4D4DFFGrupo Éden^000000 .\nSe você for qualificado, o Grupo recomendará você para fazer parte do projeto de escavação.",
-        "es": "[Administradora Michelle]\nAh, sí. El lugar más fácil para conseguir una recomendación es el ^4D4DFFGrupo de Edén^000000.\nSi cumples los requisitos, el Grupo te recomendará para el proyecto."
+        "es": "[Administradora Michelle]\nAh, sí. El lugar más fácil para conseguir una recomendación es el ^4D4DFFGrupo del Edén^000000.\nSi cumples los requisitos, el Grupo te recomendará para el proyecto."
     },
     "/3LZCw": {
         "en": "[Manager Michelle]\nNow, please step back for your safety.",
@@ -647,7 +647,7 @@
     "AXPZCw": {
         "en": "[Manager Michelle]\nLet me check the roster.\nYour name is...{0}Ah, there you are.\nYou're from the Eden Group, all right.",
         "pt": "[Gerente Michelle]\nDeixe-me verificar a lista.\nSeu nome é... {0} Ah, aqui está você.\nCerto, você é do Grupo Éden.",
-        "es": "[Administradora Michelle]\nA ver, te buscaré en la lista.\nTú eres… {0}. Ah, aquí estás.\nEfectivamente, estás en el Grupo de Edén."
+        "es": "[Administradora Michelle]\nA ver, te buscaré en la lista.\nTú eres… {0}. Ah, aquí estás.\nEfectivamente, estás en el Grupo del Edén."
     },
     "AnPZCw": {
         "en": "[Manager Michelle]\nThe excavation site is at the other end of this tunnel.\nOnce you're in, you're required to formally register yourself at the Central Command Center.",
@@ -857,7 +857,7 @@
     "K3PZCw": {
         "en": "[Nara]\nIf you don't know a place to get a referral or an excavation team,\nyou can always join the ^4D4DFFEden Group^000000.",
         "pt": "[Nara]\nSe não conhece um bom lugar para conseguir uma referência ou alguma equipe de escavação,\nvocê sempre pode entrar no ^4D4DFFGrupo Éden^000000.",
-        "es": "[Nara]\nSi no sabes dónde conseguir una recomendación o un equipo,\nsúmate al ^4D4DFFGrupo de Edén^000000."
+        "es": "[Nara]\nSi no sabes dónde conseguir una recomendación o un equipo,\nsúmate al ^4D4DFFGrupo del Edén^000000."
     },
     "LHPZCw": {
         "en": "[Nara]\nIf you've worked for the Group before, then you won't have a problem getting its referral.",
@@ -882,12 +882,12 @@
     "MHPZCw": {
         "en": "I'm from the Eden Group.",
         "pt": "Faço parte do Grupo Éden.",
-        "es": "Soy del Grupo de Edén."
+        "es": "Soy del Grupo del Edén."
     },
     "MXPZCw": {
         "en": "[Nara]\nFrom the Eden Group, got it.\nMay I have your name?{0}...\nAh, there you are.",
         "pt": "[Nara]\nFaz parte do Grupo Éden, entendi.\nPosso saber o seu nome? {0}...\nAh, aqui está você.",
-        "es": "[Nara]\nDel Grupo de Edén, entendido.\n¿Me puedes indicar tu nombre? {0}…\nAh, ahí estás."
+        "es": "[Nara]\nDel Grupo del Edén, entendido.\n¿Me puedes indicar tu nombre? {0}…\nAh, ahí estás."
     },
     "MnPZCw": {
         "en": "[Nara]\nYou're a member of a separate excavation team.\nWhich excavation team do you belong?",
@@ -1362,12 +1362,12 @@
     "kHPZCw": {
         "en": "[Aureth]\nThen stop it\nand stop harassing them.\nThe Eden Group won't be happy if it knows about this.",
         "pt": "[Aureth]\nEntão pare com isso\ne pare de incomodá-los.\nO Grupo Éden não vai ficar feliz quando souber disso.",
-        "es": "[Aureth]\nEntonces, para\ny deja de atormentarlos.\nAl Grupo de Edén no le agradará esta noticia."
+        "es": "[Aureth]\nEntonces, para\ny deja de atormentarlos.\nAl Grupo del Edén no le agradará esta noticia."
     },
     "kXPZCw": {
         "en": "[Ian Atnad]\nThe Eden Group? *Snort* Who cares?",
         "pt": "[Ian Atnad]\nO Grupo Éden? *Bufa* E daí?",
-        "es": "[Ian Atnad]\n¿El Grupo de Edén? *Resopla* ¿A quién le importa?"
+        "es": "[Ian Atnad]\n¿El Grupo del Edén? *Resopla* ¿A quién le importa?"
     },
     "knPZCw": {
         "en": "[Aureth]\nYou're helpless.",
@@ -1452,7 +1452,7 @@
     "onPZCw": {
         "en": "[Aureth]\nIan, jeez!\nThey're from the Eden Group to help us.\nDid you really have to be so rude?",
         "pt": "[Aureth]\nIan, céus!\nEle veio do Grupo Éden para nos ajudar.\nVocê precisa mesmo ser tão rude?",
-        "es": "[Aureth]\n¡Cielos, Ian!\nSon del Grupo de Edén; vinieron a ayudarnos.\n¿Era necesario ser tan descortés?"
+        "es": "[Aureth]\n¡Cielos, Ian!\nSon del Grupo del Edén; vinieron a ayudarnos.\n¿Era necesario ser tan descortés?"
     },
     "o3PZCw": {
         "en": "[Ian Atnad]\nSo you came to help us.\nLet's see how capable you are.\nWhen you go deeper into the site, you'll arrive at a plaza.",
@@ -1922,7 +1922,7 @@
     "AHTZCw": {
         "en": "[Luke]\nSorry to interrupt,\nbut you're from the Eden Group to help the excavation team.",
         "pt": "[Luke]\nDesculpe interromper,\nmas você veio do Grupo Éden para ajudar a equipe de escavação.",
-        "es": "[Luke]\nLamento interrumpir,\npero tú eres del Grupo de Edén y viniste a ayudar al equipo de excavación."
+        "es": "[Luke]\nLamento interrumpir,\npero tú eres del Grupo del Edén y viniste a ayudar al equipo de excavación."
     },
     "AXTZCw": {
         "en": "[Luke]\nYour job is to help Lloyd.\nYou can't say no.",

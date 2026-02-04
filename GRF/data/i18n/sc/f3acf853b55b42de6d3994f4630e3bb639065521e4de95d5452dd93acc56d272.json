@@ -70,7 +70,7 @@
         "es": "[{0}]\nSoy {0}, esa persona. Pero…"
     },
     "DiChBw": {
-        "en": "[???]\nAre you sure you don't know anything? My name is ^0000CDLazy^000000. Of course it's not my real name. For now, you can just remember that name.",
+        "en": "[???]\nAre you sure you don't know anything? My name is ^0000CDLeizi^000000. Of course it's not my real name. For now, you can just remember that name.",
         "pt": "[???]\nTem certeza de que não sabe de nada? Meu nome é ^0000CDNalandro^000000. Claro, esse não é meu nome verdadeiro. Por enquanto, basta lembrar esse nome.",
         "es": "[¿¿¿???]\n¿Realmente no sabes nada? Me llamo ^0000CDLazy^000000. Por supuesto que no es mi verdadero nombre. Por ahora, es suficiente con que recuerdes ese nombre."
     },
@@ -85,7 +85,7 @@
         "es": "[{0}]\nSi eres Lazy, debes ser el agente del Viento Secreto. ¿Verdad?"
     },
     "ESChBw": {
-        "en": "[Lazy]\nPipe down~ You must not say that word in a public place like this! You must always be careful! Remember that we are in the middle of a mission!",
+        "en": "[Leizi]\nPipe down~ You must not say that word in a public place like this! You must always be careful! Remember that we are in the middle of a mission!",
         "pt": "[Nalandro]\nFale baixo! Você não deve dizer essa palavra em público! Deve sempre ter cuidado! Lembre-se de que estamos no meio de uma missão!",
         "es": "[Lazy]\n¡Baja la voz~! ¡No debes decir esa palabra en un lugar público como este! ¡Siempre hay que tener cuidado! Recuerda que estamos en medio de una misión."
     },
@@ -100,12 +100,12 @@
         "es": "[{0}]\nSí, sí."
     },
     "FCChBw": {
-        "en": "[Lazy]\nJust by looking at you, I know they have brought someone very smart. And the callus in your hand indicates that you are a man of the world.",
+        "en": "[Leizi]\nJust by looking at you, I know they have brought someone very smart. And the callus in your hand indicates that you are a man of the world.",
         "pt": "[Nalandro]\nSó de olhar pra você, já sei que trouxeram alguém muito inteligente. E sua mão calejada indica que você é experiente.",
         "es": "[Lazy]\nSolo con mirarte, sé que eligieron a alguien muy inteligente. Y el callo en tu mano indica que eres una persona con experiencia en el mundo."
     },
     "FSChBw": {
-        "en": "[Lazy]\nYou are also taking someone off his/her guard by pretending to be a little naive. You deserve to be trusted by the royal families of Rune Midgard.",
+        "en": "[Leizi]\nYou are also taking someone off his/her guard by pretending to be a little naive. You deserve to be trusted by the royal families of Rune Midgard.",
         "pt": "[Nalandro]\nVocê também está baixando a guarda de outra pessoa ao fingir não saber de nada. Realmente merece a confiança das famílias reais de Rune-Midgard.",
         "es": "[Lazy]\nTambién estás tomando a alguien desprevenido haciéndote pasar por una persona un poco ingenua. Mereces la confianza de las familias reales de Rune Midgarts."
     },
@@ -120,12 +120,12 @@
         "es": "¿Por qué tienes la cara roja?"
     },
     "GCChBw": {
-        "en": "[Lazy]\nWhen I read about you in the report, I thought you would look a bit scary. But by seeing you directly, you seem to be different from what I heard. That's why we have to meet someone directly to know him/her well.",
+        "en": "[Leizi]\nWhen I read about you in the report, I thought you would look a bit scary. But by seeing you directly, you seem to be different from what I heard. That's why we have to meet someone directly to know him/her well.",
         "pt": "[Nalandro]\nQuando li sobre você no relatório, achei que sua aparência seria meio assustadora. Mas, vendo pessoalmente, você parece diferente. É por isso que temos que ver as pessoas pessoalmente para conhecê-las melhor.",
         "es": "[Lazy]\nCuando leí sobre ti en el informe, pensé que darías un poco de miedo. Pero, ahora que te veo, pareces ser diferente de lo que he oído. Por eso, es importante ver a alguien directamente para conocerlo bien."
     },
     "GSChBw": {
-        "en": "[Lazy]\nBy the way, how are you? Have you been to Arunafeltz?",
+        "en": "[Leizi]\nBy the way, how are you? Have you been to Arunafeltz?",
         "pt": "[Nalandro]\nAliás, como você está? Você já esteve em Arunafeltz?",
         "es": "[Lazy]\nPor cierto, ¿cómo estás? ¿Has estado en Arunafeltz?"
     },
@@ -135,12 +135,12 @@
         "es": "[{0}]\nBueno, sí… algo así…"
     },
     "GyChBw": {
-        "en": "[Lazy]\nWow- Have you met the Pope? Her highness is great. I really like her.",
+        "en": "[Leizi]\nWow- Have you met the Pope? Her highness is great. I really like her.",
         "pt": "[Nalandro]\nUau! Você conheceu a Papisa? Sua Alteza é incrível. Eu adoro ela.",
         "es": "[Lazy]\nGuau, ¿conociste a la Papisa? Su alteza es genial. Me cae muy bien."
     },
     "HCChBw": {
-        "en": "[Lazy]\nOh, Pope... !!",
+        "en": "[Leizi]\nOh, Pope... !!",
         "pt": "[Nalandro]\nAh, Papisa... !!",
         "es": "[Lazy]\n¡Oh, Papisa…!"
     },
@@ -150,12 +150,12 @@
         "es": "Mi corazón, con su sangre roja, le pertenece a la Papisa…"
     },
     "HiChBw": {
-        "en": "[Lazy]\nI'd really love to meet the Pope. But I am not mentally ready to see the holy face of her highness. I guess I might black out once I see the Pope. If you have time later on, please take me to the Pope.",
+        "en": "[Leizi]\nI'd really love to meet the Pope. But I am not mentally ready to see the holy face of her highness. I guess I might black out once I see the Pope. If you have time later on, please take me to the Pope.",
         "pt": "[Nalandro]\nEu adoraria conhecer a Papisa... Mas não estou mentalmente preparado para ver a face sagrada de Sua Alteza. Acho que posso desmaiar ao ver a Papisa, mas se tiver tempo depois, por favor, me leve até ela.",
         "es": "[Lazy]\nMe encantaría conocer a la Papisa. Pero no estoy mentalmente preparado para ver el rostro sagrado de Su Alteza. Creo que podría desmayarme en cuanto la vea. Si más tarde tienes tiempo, por favor llévame a conocer a la Papisa."
     },
     "HyChBw": {
-        "en": "[Lazy]\nBy the way, what are we doing here? Aren't we supposed to meet in ^0000CDEinbech^000000? I have been waiting for a long time and came here. And I found you here.",
+        "en": "[Leizi]\nBy the way, what are we doing here? Aren't we supposed to meet in ^0000CDEinbech^000000? I have been waiting for a long time and came here. And I found you here.",
         "pt": "[Nalandro]\nAliás, o que estamos fazendo aqui? Não deveríamos ter nos encontrado em ^0000CDEinbech^000000? Eu esperei por muito tempo e vim para cá. E encontrei você.",
         "es": "[Lazy]\nPor cierto, ¿qué hacemos aquí? ¿No se suponía que nos encontraríamos en ^0000CDEinbech^000000? He estado esperando mucho tiempo y vine hasta aquí… y te encontré aquí."
     },
@@ -165,7 +165,7 @@
         "es": "[{0}]\nMe dijeron que viniera aquí."
     },
     "ISChBw": {
-        "en": "[Lazy]\nHey~ Who? Who said that? There must have been some misunderstanding during the communication. We must go to Einbech.",
+        "en": "[Leizi]\nHey~ Who? Who said that? There must have been some misunderstanding during the communication. We must go to Einbech.",
         "pt": "[Nalandro]\nEi! Quem? Quem disse isso? Deve ter havido algum mal-entendido durante a comunicação. Devemos ir para Einbech.",
         "es": "[Lazy]\nEy~. ¿Quién? ¿Quién dijo eso? Seguro hubo algún malentendido durante la comunicación. Debemos ir a Einbech."
     },
@@ -175,12 +175,12 @@
         "es": "Tal vez, alguien quería que te esforzaras."
     },
     "IyChBw": {
-        "en": "[Lazy]\nWell, since I like a train, it doesn't matter how many times I take it.",
+        "en": "[Leizi]\nWell, since I like a train, it doesn't matter how many times I take it.",
         "pt": "[Nalandro]\nBem, como eu gosto de trens, não importa quantas vezes eu pegue um.",
         "es": "[Lazy]\nBueno, como me gusta el tren, no importa cuántas veces lo tome."
     },
     "JCChBw": {
-        "en": "[Lazy]\nLet's hurry up. We have a long way to go.",
+        "en": "[Leizi]\nLet's hurry up. We have a long way to go.",
         "pt": "[Nalandro]\nVamos logo. Temos um longo caminho pela frente.",
         "es": "[Lazy]\nDémonos prisa. Nos queda mucho camino por recorrer."
     },
@@ -190,12 +190,12 @@
         "es": "[{0}]\n¿A dónde vamos ahora?"
     },
     "JiChBw": {
-        "en": "[Lazy]\nThe most dangerous place.",
+        "en": "[Leizi]\nThe most dangerous place.",
         "pt": "[Nalandro]\nO lugar mais perigoso de todos.",
         "es": "[Lazy]\nAl lugar más peligroso."
     },
     "JyChBw": {
-        "en": "[Lazy]\nCalm down! I'm just kidding. You are too serious. We are just going to the secret base of the Rebellion in Einbech.",
+        "en": "[Leizi]\nCalm down! I'm just kidding. You are too serious. We are just going to the secret base of the Rebellion in Einbech.",
         "pt": "[Nalandro]\nAcalme-se! Foi só uma brincadeira. Você leva tudo a sério. Vamos apenas para a base secreta da Rebelião em Einbech.",
         "es": "[Lazy]\n¡Cálmate! Solo estoy bromeando. No te tomes todo en serio. Solo vamos a la base secreta de la Rebelión en Einbech."
     },
@@ -205,7 +205,7 @@
         "es": "Tienes el rostro pálido. ¿Estás bien? Si quieres vomitar, puedes hacerlo allí."
     },
     "KSChBw": {
-        "en": "[Lazy]\nI'm just saying that I feel like it is dangerous. I don't mean it will really be dangerous. Calm down.",
+        "en": "[Leizi]\nI'm just saying that I feel like it is dangerous. I don't mean it will really be dangerous. Calm down.",
         "pt": "[Nalandro]\nSó estou dizendo que acho que é perigoso. Não significa que isso é verdade. Acalme-se.",
         "es": "[Lazy]\nSolo digo que me parece peligroso. No significa que sea realmente peligroso. Tranquilízate."
     },
@@ -215,37 +215,37 @@
         "es": "[{0}]\nSi estamos negociando con la Rebelión, ¿por qué vamos a Einbech en vez de a Einbroch?"
     },
     "KyChBw": {
-        "en": "[Lazy]\nHave you heard of the mercenary revolt in Schwartzwald?",
+        "en": "[Leizi]\nHave you heard of the mercenary revolt in Schwartzwald?",
         "pt": "[Nalandro]\nVocê já ouviu falar da Rebelião Mercenária em Schwartzwald?",
         "es": "[Lazy]\n¿Has oído hablar de la revuelta de los mercenarios en Schwarzwald?"
     },
     "LCChBw": {
-        "en": "[Lazy]\nTo tell you briefly, the mercenaries were used as a garrison of the republic. But as the republic developed a Guardian, they were about to be abandoned. Then the mercenaries rose in revolt and were nearly annihilated.",
+        "en": "[Leizi]\nTo tell you briefly, the mercenaries were used as a garrison of the republic. But as the republic developed a Guardian, they were about to be abandoned. Then the mercenaries rose in revolt and were nearly annihilated.",
         "pt": "[Nalandro]\nPara resumir, os Justiceiros eram usados como guarnições da república. Mas, como a república desenvolveu um Guardião Automatizado, eles estavam prestes a serem abandonados. Então os Justiceiros se revoltaram e foram quase aniquilados.",
         "es": "[Lazy]\nPara resumirte, los mercenarios fueron usados como guarnición de la república. Pero cuando la república desarrolló un Guardián, estaban a punto de ser abandonados. Entonces los mercenarios se rebelaron y estuvieron a punto de ser aniquilados."
     },
     "LSChBw": {
-        "en": "[Lazy]\nSome of the remnants went to Hugel, But the rest of them gathered in Einbech and Einbroch to organize the Rebellion. By the way, Einbroch is a large city where many people live ans pass by. Isn't it?",
+        "en": "[Leizi]\nSome of the remnants went to Hugel, But the rest of them gathered in Einbech and Einbroch to organize the Rebellion. By the way, Einbroch is a large city where many people live ans pass by. Isn't it?",
         "pt": "[Nalandro]\nAlguns remanescentes foram para Hugel, mas o restante reuniu-se em Einbech e Einbroch para organizar a Rebelião. Aliás, Einbroch é uma cidade grande, onde muita gente vive e transita. Não é?",
         "es": "[Lazy]\nAlgunos de los restos se dirigieron a Hugel, pero el resto se reunió en Einbech y Einbroch para organizar la Rebelión. Por cierto, Einbroch es una gran ciudad donde vive y pasa mucha gente, ¿no es así?"
     },
     "LiChBw": {
-        "en": "[Lazy]\nSo the Rebellion put their guild in Einbroch. The rest of them were hiding somewhere else in Einbroch. That's why I suggested you to meet in Einbech..",
+        "en": "[Leizi]\nSo the Rebellion put their guild in Einbroch. The rest of them were hiding somewhere else in Einbroch. That's why I suggested you to meet in Einbech..",
         "pt": "[Nalandro]\nEntão os Justiceiros estabeleceram uma guilda em Einbroch. O restante se escondeu em algum outro lugar de lá. Por isso, sugeri encontrar você em Einbech...",
         "es": "[Lazy]\nAsí que Rebelión estableció su gremio en Einbroch. El resto de los mercenarios se escondió en otro lugar de Einbroch. Por eso, te sugerí que nos reuniéramos en Einbech…"
     },
     "LyChBw": {
-        "en": "[Lazy]\nAnyway, the government was overlooking the remnants for various reasons. I'm sure the government is still uncomfortable about it.",
+        "en": "[Leizi]\nAnyway, the government was overlooking the remnants for various reasons. I'm sure the government is still uncomfortable about it.",
         "pt": "[Nalandro]\nEnfim, o governo estava negligenciando os remanescentes por vários motivos. Tenho certeza de que o governo continua desconfortável com isso.",
         "es": "[Lazy]\nDe todos modos, el gobierno estaba pasando por alto los supervivientes por varias razones. Estoy seguro de que el gobierno aún se siente incómodo con esto."
     },
     "MCChBw": {
-        "en": "[Lazy]\nThat's why this negotiation is so important. We are going to asking for help to the guy who's angry at me. It won't be easy.",
+        "en": "[Leizi]\nThat's why this negotiation is so important. We are going to asking for help to the guy who's angry at me. It won't be easy.",
         "pt": "[Nalandro]\nE é por isso que essa negociação é tão importante. Vamos pedir ajuda a alguém que tem raiva de mim. Não será fácil.",
         "es": "[Lazy]\nPor eso, es tan importante esta negociación. Pediremos ayuda al tipo que está enfadado conmigo. No será fácil."
     },
     "MSChBw": {
-        "en": "[Lazy]\nWe should them a sense of apology and a promise of hope in the future. At the same time, ^0000CDwe have to relax their mind and promise with them to cooperate in future affairs^000000...",
+        "en": "[Leizi]\nWe should them a sense of apology and a promise of hope in the future. At the same time, ^0000CDwe have to relax their mind and promise with them to cooperate in future affairs^000000...",
         "pt": "[Nalandro]\nDevemos desculpas a eles, junto a uma promessa de esperança para o futuro. Ao mesmo tempo, ^0000CDprecisamos acalmá-los e prometer cooperar em assuntos futuros.^000000",
         "es": "[Lazy]\nDebemos transmitir una muestra de disculpa y una promesa de esperanza en el futuro. Al mismo tiempo, ^0000CDtenemos que tranquilizarlos y comprometernos con ellos a cooperar en los asuntos futuros^000000…"
     },
@@ -260,12 +260,12 @@
         "es": "[{0}]\nParece difícil de tan solo escucharlo."
     },
     "NCChBw": {
-        "en": "[Lazy]\nThe most difficult thing is how to enter the ^0000CDsecret base^000000 rather than talking to them.",
+        "en": "[Leizi]\nThe most difficult thing is how to enter the ^0000CDsecret base^000000 rather than talking to them.",
         "pt": "[Nalandro]\nO mais difícil não é falar com eles, mas sim entrar na ^0000CDbase secreta^000000.",
         "es": "[Lazy]\nEs más difícil entrar en la ^0000CDbase secreta^000000 que hablar con ellos."
     },
     "NSChBw": {
-        "en": "[Lazy]\nAnyway, we will think about the method on our way there. You Just trust me and follow me. Nothing is impossible as long as you trust me. You can trust me in any situation.",
+        "en": "[Leizi]\nAnyway, we will think about the method on our way there. You Just trust me and follow me. Nothing is impossible as long as you trust me. You can trust me in any situation.",
         "pt": "[Nalandro]\nEnfim, vamos pensar sobre isso no caminho. Siga-me, e confie em mim. Nada será impossível se você confiar em mim. Pode confiar em mim para qualquer coisa.",
         "es": "[Lazy]\nDe todos modos, ya pensaremos en cómo hacerlo de camino. Solo confía en mí y sígueme. Nada es imposible mientras confíes en mí. Puedes confiar en mí en cualquier situación."
     },
@@ -275,7 +275,7 @@
         "es": "[{0}]\nNo tengo mucha fe en ti."
     },
     "NyChBw": {
-        "en": "[Lazy]\nIt's okay, because I trust myself. Out of all these people in this large world, I am the only one whom I trust. So you just follow me.",
+        "en": "[Leizi]\nIt's okay, because I trust myself. Out of all these people in this large world, I am the only one whom I trust. So you just follow me.",
         "pt": "[Nalandro]\nTudo bem, porque eu confio em mim mesmo. De todas as pessoas desse mundão, sou a única em que confio. Então basta me seguir.",
         "es": "[Lazy]\nEstá bien porque confío en mí mismo. De todas estas personas en este gran mundo, soy el único en quien confío. Así que sígueme."
     },
@@ -285,22 +285,22 @@
         "es": "[{0}]\nTienes mucha fe en ti mismo."
     },
     "OSChBw": {
-        "en": "[Lazy]\nOf course. If I don't feel confident about myself, I can't do this job.",
+        "en": "[Leizi]\nOf course. If I don't feel confident about myself, I can't do this job.",
         "pt": "[Nalandro]\nClaro! Sem autoconfiança, não posso fazer esse trabalho.",
         "es": "[Lazy]\nPor supuesto. No puedo hacer este trabajo si no me siento seguro de mí mismo."
     },
     "OiChBw": {
-        "en": "[Lazy]\nSometimes I have to face some unpleasant situation, and do things that are not sometimes moral. But for my task and survival, I must not hesitate to make momentary decisions and execute my actions.",
+        "en": "[Leizi]\nSometimes I have to face some unpleasant situation, and do things that are not sometimes moral. But for my task and survival, I must not hesitate to make momentary decisions and execute my actions.",
         "pt": "[Nalandro]\n...Às vezes, preciso lidar com situações desagradáveis e fazer coisas que estão à margem da moralidade. Mas, em nome da minha missão e sobrevivência, não posso hesitar em tomar decisões e fazer o que é preciso.",
         "es": "[Lazy]\nA veces, tengo que enfrentarme a situaciones desagradables y hacer cosas que no siempre son morales. Pero, por el bien de mi misión y de mi supervivencia, no debo dudar en tomar decisiones inmediatas y ejecutar mis acciones."
     },
     "OyChBw": {
-        "en": "[Lazy]\nAnd let's say you begin to doubt it. Once your mind starts to shake, the task will be in danger. Unwavering confidence is more important than anything else.",
+        "en": "[Leizi]\nAnd let's say you begin to doubt it. Once your mind starts to shake, the task will be in danger. Unwavering confidence is more important than anything else.",
         "pt": "[Nalandro]\nDigamos que você comece a ter dúvidas. Quando sua mente começa a fraquejar, a missão corre perigo. Uma confiança inabalável é o mais importante.",
         "es": "[Lazy]\nY digamos que empiezas a dudar. En cuanto tu mente empiece a temblar, la misión estará en peligro. La confianza inquebrantable es más importante que cualquier otra cosa"
     },
     "PCChBw": {
-        "en": "[Lazy]\nOf course, you need the capability to support your confidence. You can't trust anything without evidence.",
+        "en": "[Leizi]\nOf course, you need the capability to support your confidence. You can't trust anything without evidence.",
         "pt": "[Nalandro]\nClaro, é preciso ter habilidades que respaldem sua confiança. Não dá para confiar em algo sem evidências.",
         "es": "[Lazy]\nPor supuesto, necesitas la capacidad para respaldar tu confianza. No puedes confiar en nada sin evidencia."
     },
@@ -310,12 +310,12 @@
         "es": "[{0}]\nDespués de escuchar lo que dijiste, no confío plenamente en ti. Pero siento que tengo que hacerlo."
     },
     "PiChBw": {
-        "en": "[Lazy]\nIt's quite natural. Very good. Good luck in our mission. My goal is to build a reputation of a fantastic duo with you.",
+        "en": "[Leizi]\nIt's quite natural. Very good. Good luck in our mission. My goal is to build a reputation of a fantastic duo with you.",
         "pt": "[Nalandro]\nMuito bom. Meu objetivo é construir a reputação de que somos uma dupla fantástica.",
         "es": "[Lazy]\nEs algo bastante natural. Muy bien. Buena suerte en nuestra misión. Mi objetivo es construir una reputación como un dúo fantástico contigo."
     },
     "PyChBw": {
-        "en": "[Lazy]\nLet's get going. This way.",
+        "en": "[Leizi]\nLet's get going. This way.",
         "pt": "[Nalandro]\nVamos continuar. Por aqui.",
         "es": "[Lazy]\nPongámonos en marcha. Por aquí."
     },
@@ -325,7 +325,7 @@
         "es": "[{0}]\n¡La boletería está por allá! Tenemos que pagar el tren. ¿Estás diciendo que iremos caminando?"
     },
     "QSChBw": {
-        "en": "[Lazy]\nYikes! Pipe down!! Of course we are taking a train. In a special place and in a special way.",
+        "en": "[Leizi]\nYikes! Pipe down!! Of course we are taking a train. In a special place and in a special way.",
         "pt": "[Nalandro]\nCaramba! Fale baixo!! É claro que vamos pegar um trem. Em um lugar especial, de uma forma especial.",
         "es": "[Lazy]\n¡Ay! ¡Baja la voz! Por supuesto que iremos en tren. En un lugar especial y de una forma especial."
     },
@@ -340,7 +340,7 @@
         "es": "Por favor, no lo llames un viaje gratis."
     },
     "RCChBw": {
-        "en": "[Lazy]\nIf you want to call it a free ride, go ahead. But do you really want to discount your action as a 'free ride'? You can used the elegant expression 'occupation after closed infiltration'.",
+        "en": "[Leizi]\nIf you want to call it a free ride, go ahead. But do you really want to discount your action as a 'free ride'? You can used the elegant expression 'occupation after closed infiltration'.",
         "pt": "[Nalandro]\nSe quiser chamar assim, vá em frente. Mas deseja mesmo desmerecer sua atuação como uma mera 'viagem gratuita'? Você pode usar uma expressão elegante, como 'ocupação após infiltração'.",
         "es": "[Lazy]\nSi quieres llamarlo viaje gratis, está bien. Pero, ¿realmente quieres rebajar lo que hiciste llamándolo así? Puedes usar una expresión más elegante como “ocupación tras una infiltración secreta”."
     },
@@ -350,12 +350,12 @@
         "es": "Sí. Sí. Suena muy bien."
     },
     "RiChBw": {
-        "en": "[Lazy]\nUsually, we can feel buy tickets, say hello to the station staff eat delicious snacks, and enjoy our trip.",
+        "en": "[Leizi]\nUsually, we can feel buy tickets, say hello to the station staff eat delicious snacks, and enjoy our trip.",
         "pt": "[Nalandro]\nNormalmente, poderíamos comprar bilhetes, dizer olá para os funcionários da estação, comer petiscos deliciosos e curtir a viagem.",
         "es": "[Lazy]\nNormalmente compramos los boletos, saludar al personal de la estación, comer bocadillos deliciosos y disfrutar de nuestro viaje."
     },
     "RyChBw": {
-        "en": "[Lazy]\nBut we are in the middle of a mission. It's already begun. It's kind of an emergency. So we have to be tense.",
+        "en": "[Leizi]\nBut we are in the middle of a mission. It's already begun. It's kind of an emergency. So we have to be tense.",
         "pt": "[Nalandro]\nMas estamos no meio de uma missão. Ela já começou. É meio que uma emergência. Então precisamos ficar apreensivos.",
         "es": "[Lazy]\nPero estamos en plena misión. Ya empezó. Es una especie de emergencia, así que tenemos que estar alertas."
     },
@@ -365,22 +365,22 @@
         "es": "[{0}]\nRealmente, no entiendo la relación entre estar tenso y viajar gratis."
     },
     "SSChBw": {
-        "en": "[Lazy]\nDo you really thing I'm just trying to save 200 Zeny? I know what I'm doing. You just follow me without nagging. We are in a hurry.",
+        "en": "[Leizi]\nDo you really thing I'm just trying to save 200 Zeny? I know what I'm doing. You just follow me without nagging. We are in a hurry.",
         "pt": "[Nalandro]\nAcha mesmo que só estou tentando economizar 200 zenys? Sei o que estou fazendo. Só me siga, e não reclame. Estamos com pressa.",
         "es": "[Lazy]\n¿De verdad crees que solo estoy tratando de ahorrar 200 zeny? Sé lo que hago. Solo sígueme sin quejarte. Tenemos prisa."
     },
     "SiChBw": {
-        "en": "[Lazy]\nWhy aren't you following me? We might miss the train!",
+        "en": "[Leizi]\nWhy aren't you following me? We might miss the train!",
         "pt": "[Nalandro]\nPor que você não está me seguindo? Vamos perder o trem!",
         "es": "[Lazy]\n¿Por qué no me estás siguiendo? ¡Podríamos perder el tren!"
     },
     "SyChBw": {
-        "en": "[Lazy]\nAre you okay to be here now?",
+        "en": "[Leizi]\nAre you okay to be here now?",
         "pt": "[Nalandro]\nEstar aqui é um problema para você?",
         "es": "[Lazy]\n¿Estás bien estando aquí ahora?"
     },
     "TCChBw": {
-        "en": "[Lazy]\nLong time no see! I'm going to another mission spot. Got it? See you later!",
+        "en": "[Leizi]\nLong time no see! I'm going to another mission spot. Got it? See you later!",
         "pt": "[Nalandro]\nQuanto tempo! Vou para outro local da missão. Entendeu? Até mais tarde!",
         "es": "[Lazy]\n¡Cuánto tiempo sin verte! Voy a otro lugar de la misión. ¿Entendido? ¡Hasta luego!"
     },
@@ -400,12 +400,12 @@
         "es": "Pasaste por el agujero por el que apenas puede entrar una persona."
     },
     "UCChBw": {
-        "en": "Lazy",
+        "en": "Leizi",
         "pt": "Nalandro",
         "es": "Lazy"
     },
     "USChBw": {
-        "en": "[Lazy]\nWe are going to take a train here. Do you see ^0000CDvery small hole^000000 in the sewer down there?",
+        "en": "[Leizi]\nWe are going to take a train here. Do you see ^0000CDvery small hole^000000 in the sewer down there?",
         "pt": "[Nalandro]\nVamos pegar um trem aqui. Está vendo aquele ^0000CDpequeno buraco^000000 ali no esgoto?",
         "es": "[Lazy]\nTomaremos un tren aquí. ¿Ves un ^0000CDagujero pequeño^000000 en la alcantarilla allí abajo?"
     },
@@ -420,7 +420,7 @@
         "es": "No puedo creerlo. Esto no es lo que imaginaba."
     },
     "VCChBw": {
-        "en": "[Lazy]\nShh--- I told you not to mention that name. Be careful from now on. I don't want to be stabbed on my back for something I didn't do. If you really want to say it, call it Heron.",
+        "en": "[Leizi]\nShh--- I told you not to mention that name. Be careful from now on. I don't want to be stabbed on my back for something I didn't do. If you really want to say it, call it Heron.",
         "pt": "[Nalandro]\nXiu! Eu disse pra você não falar esse nome. Tenha cuidado de agora em diante. Não quero ser apunhalado pelas costas por algo que não fiz. Se quer mesmo dizer, chame de Garça.",
         "es": "[Lazy]\nShh… te dije que no mencionaras ese nombre. Ten cuidado a partir de ahora. No quiero que me apuñalen por la espalda por algo que no hice. Si realmente quieres decirlo, usa la palabra Garza."
     },
@@ -435,7 +435,7 @@
         "es": "[{0}]\nQuiero decir, ¿por qué tienes que pasar por un lugar como este? ¿No te pagan por las actividades que haces? Quizá a Su Excelencia no le importe nada tu comodidad."
     },
     "VyChBw": {
-        "en": "[Lazy]\nIt's not true. We receive a free pass to use all means of transportation in this continent. They includes airship, train and teleporting, etc.",
+        "en": "[Leizi]\nIt's not true. We receive a free pass to use all means of transportation in this continent. They includes airship, train and teleporting, etc.",
         "pt": "[Nalandro]\nNão é verdade. Recebemos um passe livre para usar qualquer tipo de transporte nesse continente. Isso inclui aeroplanos, trens, teleportes, etc.",
         "es": "[Lazy]\nNo es verdad. Recibimos un pase gratuito para usar todos los medios de transporte de este continente. Incluye aeronaves, trenes, teletransporte, etc."
     },
@@ -445,42 +445,42 @@
         "es": "[{0}]\nEntonces, ¿por qué tienes que pasar por un lugar como este?"
     },
     "WSChBw": {
-        "en": "[Lazy]\nBecause we don't want to leave the records. We must not be detected by others. Although we get captured, our moving route must be hidden. The moving routes can be a great clue.",
+        "en": "[Leizi]\nBecause we don't want to leave the records. We must not be detected by others. Although we get captured, our moving route must be hidden. The moving routes can be a great clue.",
         "pt": "[Nalandro]\nPorque não queremos deixar rastros. Não podemos ser detectados. Mesmo se formos capturados, nossa rota deve permanecer oculta. As rotas de locomoção podem ser pistas importantes.",
         "es": "[Lazy]\nPorque no queremos dejar rastros. No debemos ser detectados por otros. Aunque nos capturen, nuestra ruta de movimientos debe permanecer oculta. Las rutas de movimientos pueden ser una excelente pista."
     },
     "WiChBw": {
-        "en": "[Lazy]\nNo wonder we have the word 'secret' in our name. That's why I move so carefully during my mission.",
+        "en": "[Leizi]\nNo wonder we have the word 'secret' in our name. That's why I move so carefully during my mission.",
         "pt": "[Nalandro]\nNão é à toa que temos a palavra 'secreto' no nosso nome. É por isso que eu me locomovo de forma tão cuidadosa durante minha missão.",
         "es": "[Lazy]\nNo es de extrañar que tengamos la palabra “secreto” en nuestro nombre. Por eso, me muevo con tanto cuidado durante mi misión."
     },
     "WyChBw": {
-        "en": "[Lazy]\nTo avoid being detected, duck yourself and follow me.",
+        "en": "[Leizi]\nTo avoid being detected, duck yourself and follow me.",
         "pt": "[Nalandro]\nPara evitar detecção, abaixe-se e me siga.",
         "es": "[Lazy]\nPara no ser detectado, agáchate y sígueme."
     },
     "XCChBw": {
-        "en": "[Lazy]\nWhat are you doing? I told you to follow me!",
+        "en": "[Leizi]\nWhat are you doing? I told you to follow me!",
         "pt": "[Nalandro]\nO que está fazendo? Eu disse para me seguir!",
         "es": "[Lazy]\n¿Qué estás haciendo? ¡Te dije que me siguieras!"
     },
     "XSChBw": {
-        "en": "[Lazy]\nWhat the hell are you doing here? You must work! Work!",
+        "en": "[Leizi]\nWhat the hell are you doing here? You must work! Work!",
         "pt": "[Nalandro]\nO que você está fazendo aqui? Você tem trabalho a fazer! Trabalhe!",
         "es": "[Lazy]\n¿Qué demonios haces aquí? ¡Tienes que trabajar! ¡Trabaja!"
     },
     "XiChBw": {
-        "en": "[Lazy]\nWe have to go back to the train station.",
+        "en": "[Leizi]\nWe have to go back to the train station.",
         "pt": "[Nalandro]\nPrecisamos voltar para a estação de trem.",
         "es": "[Lazy]\nTenemos que volver a la estación de tren."
     },
     "XyChBw": {
-        "en": "[Lazy]\nThis is Einbech. The last time I came here, I was being chased by 17 pursuers.",
+        "en": "[Leizi]\nThis is Einbech. The last time I came here, I was being chased by 17 pursuers.",
         "pt": "[Nalandro]\nAqui é Einbech. Da última vez em que estive aqui, estava sendo perseguido por 17 pessoas.",
         "es": "[Lazy]\nEsto es Einbech. La última vez que vine aquí, me perseguían 17 personas."
     },
     "YCChBw": {
-        "en": "[Lazy]\nI'm sorry I can't tell more than that. It's confidential.",
+        "en": "[Leizi]\nI'm sorry I can't tell more than that. It's confidential.",
         "pt": "[Nalandro]\nDesculpe, não posso contar mais do que isso. É confidencial.",
         "es": "[Lazy]\nLamento no poder contar más que eso. Es confidencial."
     },
@@ -495,7 +495,7 @@
         "es": "[{0}]\n…"
     },
     "YyChBw": {
-        "en": "[Lazy]\nHey! I just cracked a joke before starting on the mission. You can't even accept?",
+        "en": "[Leizi]\nHey! I just cracked a joke before starting on the mission. You can't even accept?",
         "pt": "[Nalandro]\nEi! Acabei de contar uma piada antes da missão. E você não vai nem sorrir?",
         "es": "[Lazy]\n¡Oye! Conté un chiste antes de empezar la misión. ¿Y ni siquiera vas a sonreír?"
     },
@@ -510,7 +510,7 @@
         "es": "[{0}]\nQué nervios. Una negociación…"
     },
     "ZiChBw": {
-        "en": "[Lazy]\nYou don't have to be nervous. I'm going to be in charge of talking to them. You just add several words beside me.",
+        "en": "[Leizi]\nYou don't have to be nervous. I'm going to be in charge of talking to them. You just add several words beside me.",
         "pt": "[Nalandro]\nNão há nada com o que se preocupar. Eu falarei com eles. Você só precisa ficar ao meu lado e concordar comigo.",
         "es": "[Lazy]\nNo tienes que ponerte nervioso. Me encargaré de hablar con ellos. Tú solo añade unas cuantas palabras a mi lado."
     },
@@ -520,7 +520,7 @@
         "es": "¿Nervios? Eres más adorable de lo que pensaba."
     },
     "aCChBw": {
-        "en": "[Lazy]\nIn this mission, the trust is important. There is a reason why the government assigned you to this mission in addition to me, a professional negotiator.",
+        "en": "[Leizi]\nIn this mission, the trust is important. There is a reason why the government assigned you to this mission in addition to me, a professional negotiator.",
         "pt": "[Nalandro]\nConfiança é importante para essa missão. É por isso que o governo designou que eu, um negociador profissional, acompanhasse você.",
         "es": "[Lazy]\nEn esta misión, la confianza es importante. Hay una razón por la que el gobierno te asignó a esta misión además de a mí, que soy un negociador profesional."
     },
@@ -530,7 +530,7 @@
         "es": "Es extremadamente difícil volver a generar confianza. Pero, ¿qué otra opción tenemos? Quieren que enmendemos la situación."
     },
     "aiChBw": {
-        "en": "[Lazy]\nYou are known as a hero in this Midgard continent and a symbol of trust. If you come with me, the Rebellion will be less stubborn to us. Once we get trusted by them, everything will work out.",
+        "en": "[Leizi]\nYou are known as a hero in this Midgard continent and a symbol of trust. If you come with me, the Rebellion will be less stubborn to us. Once we get trusted by them, everything will work out.",
         "pt": "[Nalandro]\nO continente de Midgard idolatra e enxerga você como um símbolo de confiança. Se vier comigo, a Rebelião será mais flexível. Quando ganharmos a confiança deles, tudo será mais fácil.",
         "es": "[Lazy]\nTe perciben como un héroe y un símbolo de confianza en este continente de Midgard. Si vienes conmigo, la Rebelión será más flexible. Cuando confíen en nosotros, todo saldrá bien."
     },
@@ -540,7 +540,7 @@
         "es": "[{0}]\nHablando así, con esa ropa, no creo que puedas persuadirlos mucho."
     },
     "bCChBw": {
-        "en": "[Lazy]\nThis is my critical costume I prepared for this mission. Who would ever find a tourist suspicious?",
+        "en": "[Leizi]\nThis is my critical costume I prepared for this mission. Who would ever find a tourist suspicious?",
         "pt": "[Nalandro]\nEsse é o traje de emergência que eu preparei para essa missão. Quem acharia um turista suspeito?",
         "es": "[Lazy]\nEste es el disfraz clave que preparé para esta misión. ¿Quién podría sospechar de un turista?"
     },
@@ -550,12 +550,12 @@
         "es": "Y estas son mis gafas de sol especiales."
     },
     "biChBw": {
-        "en": "[Lazy]\nAs I mentioned before, our greatest challenge is to enter the Rebellion's secret base without any armed conflict. This costume is for that purpose.",
+        "en": "[Leizi]\nAs I mentioned before, our greatest challenge is to enter the Rebellion's secret base without any armed conflict. This costume is for that purpose.",
         "pt": "[Nalandro]\nComo disse antes, nosso maior desafio será entrar na base secreta da Rebelião sem iniciar um conflito armado. Esse traje serve para isso.",
         "es": "[Lazy]\nComo dije antes, nuestro mayor desafío es entrar en la base secreta de la Rebelión sin provocar un conflicto armado. Este traje es para ese propósito."
     },
     "byChBw": {
-        "en": "[Lazy]\nAnd Juno is such a nice place. I have a dream to buy a building there after retirement and spend my golden years comfortably.",
+        "en": "[Leizi]\nAnd Juno is such a nice place. I have a dream to buy a building there after retirement and spend my golden years comfortably.",
         "pt": "[Nalandro]\nE Juno é um lugar tão legal. Sonho em comprar uma casa lá depois que me aposentar e passar a velhice de forma confortável.",
         "es": "[Lazy]\nY Juno es un lugar tan agradable. Sueño con comprar un edificio allí después de jubilarme y pasar mis años dorados cómodamente ."
     },
@@ -570,7 +570,7 @@
         "es": "[{0}]\n¿No suelen elegir un resort como Comodo para pasar los años dorados?"
     },
     "ciChBw": {
-        "en": "[Lazy]\nOh, I don't like a beach. I saw the sea every single day when I was young. Now I'm sick of its salty smell. To leave the sea, I used to have a dream to become a captain of airship.",
+        "en": "[Leizi]\nOh, I don't like a beach. I saw the sea every single day when I was young. Now I'm sick of its salty smell. To leave the sea, I used to have a dream to become a captain of airship.",
         "pt": "[Nalandro]\nAh, eu não gosto de praia. Eu via o mar todos os dias quando era jovem. Agora, não aguento mais o cheiro de sal. Para me afastar do mar, eu sonhava em me tornar um capitão de aeroplano.",
         "es": "[Lazy]\n¡Ay, no me gusta la playa! De joven veía el mar todos los días. Ahora estoy harto de su olor salado. Para alejarme del mar, soñaba con ser capitán de una aeronave."
     },
@@ -585,7 +585,7 @@
         "es": "[{0}]\nSi querías ser piloto, ¿por qué te convertiste en agente secreto?"
     },
     "dSChBw": {
-        "en": "[Lazy]\nI can't tell you. It's confidential.",
+        "en": "[Leizi]\nI can't tell you. It's confidential.",
         "pt": "[Nalandro]\nNão posso lhe dizer. É confidencial.",
         "es": "[Lazy]\nNo puedo decírtelo. Es confidencial."
     },
@@ -600,7 +600,7 @@
         "es": "No me lo esperaba."
     },
     "eCChBw": {
-        "en": "[Lazy]\nOh, when you get back after the mission, you can purchase a train ticket and show it to the employee in the train station. But it's free for me.",
+        "en": "[Leizi]\nOh, when you get back after the mission, you can purchase a train ticket and show it to the employee in the train station. But it's free for me.",
         "pt": "[Nalandro]\nAh, quando voltar da missão, você pode comprar um bilhete e mostrar para o funcionário da estação de trem. Mas, para mim, é de graça.",
         "es": "[Lazy]\nOh, cuando regreses después de la misión, puedes comprar un boleto de tren y mostrárselo al empleado de la estación. Pero para mí es gratis."
     },
@@ -620,7 +620,7 @@
         "es": "[{0}]\nBueno, ¿dónde iremos ahora?"
     },
     "fCChBw": {
-        "en": "[Lazy]\nWe have go somewhere deep inside the village. From here on, just trust me and follow me. Since the path is a little complicated, I will leave ^0000CDtraces^000000. Make sure you catch them up.",
+        "en": "[Leizi]\nWe have go somewhere deep inside the village. From here on, just trust me and follow me. Since the path is a little complicated, I will leave ^0000CDtraces^000000. Make sure you catch them up.",
         "pt": "[Nalandro]\nPrecisamos ir para o meio de Einbech. De agora em diante, confie em mim e me siga. Já que o caminho é um pouco complicado, vou deixar ^0000CDrastros^000000. Não esqueça de apanhá-los.",
         "es": "[Lazy]\nNecesitamos ir al centro de Einbech. De ahora en adelante, confía en mí y sígueme. Como el camino es un poco complicado, dejaré ^0000CDrastros^000000. No olvides recogerlas."
     },
@@ -630,17 +630,17 @@
         "es": "Puedo percibir un oler en los rastros."
     },
     "fiChBw": {
-        "en": "[Lazy]\nWe are not supposed to be here now. We must go to the Rebellion.",
+        "en": "[Leizi]\nWe are not supposed to be here now. We must go to the Rebellion.",
         "pt": "[Nalandro]\nNão devíamos estar aqui. Precisamos ir até a Rebelião.",
         "es": "[Lazy]\nNo deberíamos estar aquí ahora. Debemos ir a la Rebelión."
     },
     "fyChBw": {
-        "en": "[Lazy]\nHe told me he'd come here. Maybe he's still in Einbroch train station? I have to go there again.",
+        "en": "[Leizi]\nHe told me he'd come here. Maybe he's still in Einbroch train station? I have to go there again.",
         "pt": "[Nalandro]\nEle me disse que viria até aqui. Será que ele ainda está na estação de trem em Einbroch? Preciso ir até lá novamente.",
         "es": "[Lazy]\nMe dijo que vendría aquí. ¿Quizá sigue en la Estación de tren de Einbroch? Tengo que ir allí otra vez."
     },
     "gCChBw": {
-        "en": "[Lazy]\nWait. Stop right there. Somebody is lying down here. Don't step on it. Hey, watch out!",
+        "en": "[Leizi]\nWait. Stop right there. Somebody is lying down here. Don't step on it. Hey, watch out!",
         "pt": "[Nalandro]\nEspere. Pare aí mesmo. Tem alguém deitado aqui. Não pise em cima dele. Ei, cuidado!",
         "es": "[Lazy]\nEspera. Detente justo ahí. Alguien está acostado aquí. No lo pises. ¡Eh, cuidado!"
     },
@@ -655,7 +655,7 @@
         "es": "¿Cómo es posible?"
     },
     "gyChBw": {
-        "en": "[Lazy]\nIf I get rid of this and that...!",
+        "en": "[Leizi]\nIf I get rid of this and that...!",
         "pt": "[Nalandro]\nSe eu tirar isso e aquilo...",
         "es": "[Lazy]\n¡Si me deshago de esto y aquello…!"
     },
@@ -665,7 +665,7 @@
         "es": "¡Ven y ayúdame!"
     },
     "hSChBw": {
-        "en": "[Lazy]\nWow... I think today is a lucky day. This mission is going to be easier than we thought.",
+        "en": "[Leizi]\nWow... I think today is a lucky day. This mission is going to be easier than we thought.",
         "pt": "[Nalandro]\nUau... Acho que hoje é nosso dia de sorte. Essa missão vai ser mais fácil do que pensamos.",
         "es": "[Lazy]\nGuau… Creo que hoy es un día de suerte. Esta misión será más fácil de lo que pensábamos."
     },
@@ -675,7 +675,7 @@
         "es": "[{0}]\n¿De qué estás hablando?"
     },
     "hyChBw": {
-        "en": "[Lazy]\nWhat's written on the bottom? Dying message? Are they words? How come he never practiced writing even if he was a Gunslinger?",
+        "en": "[Leizi]\nWhat's written on the bottom? Dying message? Are they words? How come he never practiced writing even if he was a Gunslinger?",
         "pt": "[Nalandro]\nO que está escrito no fundo? Uma mensagem agonizante? São palavras? Como é que ele nunca aprendeu a escrever, mesmo sendo um Insurgente?",
         "es": "[Lazy]\n¿Qué está escrito abajo? ¿Un mensaje antes de morir? ¿Son palabras? ¿Cómo es que nunca practicó la escritura aun siendo Pistolero?"
     },
@@ -685,7 +685,7 @@
         "es": "¿Hola? ¿Quieres escucharme, por favor?"
     },
     "iSChBw": {
-        "en": "[Lazy]\nAdventurer, try to heal this man. Although he has an injury, it's not so serious. Since he's collapsed due to an exhaustion, he'll probably recover himself by a simple treatment. Once he wakes up, I will take all the information from him.",
+        "en": "[Leizi]\nAdventurer, try to heal this man. Although he has an injury, it's not so serious. Since he's collapsed due to an exhaustion, he'll probably recover himself by a simple treatment. Once he wakes up, I will take all the information from him.",
         "pt": "[Nalandro]\nTente curar esse homem. Ele está ferido, mas não é nada sério. Ele desmaiou de exaustão, mas deve se recuperar com um tratamento simples. Quando ele acordar, vou interrogá-lo para obter todas as informações necessárias.",
         "es": "[Lazy]\nTrotamundos, intenta curar a este hombre. Si bien tiene una herida, no es tan grave. Como se ha desmayado por agotamiento, seguro se recuperará con un simple tratamiento. Una vez que despierte, le sacaré toda la información."
     },
@@ -710,7 +710,7 @@
         "es": "[{0}]\nMmm… Ahora no funciona."
     },
     "jiChBw": {
-        "en": "[Lazy]\nWhat? You've received the power of the god!",
+        "en": "[Leizi]\nWhat? You've received the power of the god!",
         "pt": "[Nalandro]\nO quê? Você recebeu o poder de um deus!",
         "es": "[Lazy]\n¿Qué? ¡Recibiste el poder de dios!"
     },
@@ -720,7 +720,7 @@
         "es": "[{0}]\nHe revivido a alguien muerto o casi muerto. Pero nunca recuperé a alguien desmayado por agotamiento."
     },
     "kCChBw": {
-        "en": "[Lazy]\nDon't go around telling people that you received the power of the god.",
+        "en": "[Leizi]\nDon't go around telling people that you received the power of the god.",
         "pt": "[Nalandro]\nEntão não saia por aí dizendo que você recebeu o poder de um deus.",
         "es": "[Lazy]\nNo vayas por ahí diciendo a la gente que recibiste el poder de dios."
     },
@@ -740,7 +740,7 @@
         "es": "[{0}]\nNo sé cómo curar."
     },
     "lCChBw": {
-        "en": "[Lazy]\nAren't you an adventurer?",
+        "en": "[Leizi]\nAren't you an adventurer?",
         "pt": "[Nalandro]\nVocê não é um aventureiro?",
         "es": "[Lazy]\n¿No eres un trotamundos?"
     },
@@ -760,12 +760,12 @@
         "es": "¿Me estás juzgando por mi apariencia?"
     },
     "mCChBw": {
-        "en": "[Lazy]\nWell, I have no other choice.",
+        "en": "[Leizi]\nWell, I have no other choice.",
         "pt": "[Nalandro]\nBem, não tenho outra escolha.",
         "es": "[Lazy]\nBueno, no tengo otra opción."
     },
     "mSChBw": {
-        "en": "[Lazy]\nOdin, Freyja, Thor and a god of exhausted traveler. Please show us a mercy!",
+        "en": "[Leizi]\nOdin, Freyja, Thor and a god of exhausted traveler. Please show us a mercy!",
         "pt": "[Nalandro]\nOdin, Freya, Thor e o deus dos viajantes exaustos. Tenham piedade!",
         "es": "[Lazy]\n¡Odín, Freyja, Thor y tú, dios de los viajeros agotados, ten piedad de nosotros!"
     },
@@ -780,12 +780,12 @@
         "es": "Ahora te has ganado mi respeto."
     },
     "nCChBw": {
-        "en": "[Lazy]\nOh, after experiencing so many things, you should do it all.",
+        "en": "[Leizi]\nOh, after experiencing so many things, you should do it all.",
         "pt": "[Nalandro]\nAh, depois de passar pelas coisas que passei, você aprende de tudo um pouco.",
         "es": "[Lazy]\nAh, después de pasar por todo lo que pasé, uno aprende un poco de todo."
     },
     "nSChBw": {
-        "en": "[Lazy]\nI'am so good at various arts and craft. I am such a great person.",
+        "en": "[Leizi]\nI'am so good at various arts and craft. I am such a great person.",
         "pt": "[Nalandro]\nSou excelente em várias artes e ofícios. Sou uma pessoa incrível.",
         "es": "[Lazy]\nSoy excelente en varias artes y oficios. Soy una persona increíble."
     },
@@ -795,12 +795,12 @@
         "es": "Soy encantador~."
     },
     "nyChBw": {
-        "en": "[Lazy]\nHe won't wake up immediately, but he'll save his life anyway. If we were too late, he would have died.",
+        "en": "[Leizi]\nHe won't wake up immediately, but he'll save his life anyway. If we were too late, he would have died.",
         "pt": "[Nalandro]\nEle não vai acordar imediatamente, mas sua vida está salva. Se chegássemos tarde demais, ele teria morrido.",
         "es": "[Lazy]\nNo despertará de inmediato, pero aun así salvará su vida. Si hubiéramos llegado demasiado tarde, habría muerto."
     },
     "oCChBw": {
-        "en": "[Lazy]\nWhat are you doing? Carry him.",
+        "en": "[Leizi]\nWhat are you doing? Carry him.",
         "pt": "[Nalandro]\nO que está fazendo? Carregue-o.",
         "es": "[Lazy]\n¿Qué estás haciendo? Cárgalo."
     },
@@ -825,7 +825,7 @@
         "es": "[{0}]\n¿Vamos a cargarlo? Pensé que estábamos en una misión secreta."
     },
     "pSChBw": {
-        "en": "[Lazy]\nWe ^0000CDmust bring^000000 him. No matter what happens, we must bring this man. He will be our ticket to the base.",
+        "en": "[Leizi]\nWe ^0000CDmust bring^000000 him. No matter what happens, we must bring this man. He will be our ticket to the base.",
         "pt": "[Nalandro]\nNós ^0000CDprecisamos levá-lo^000000. Haja o que houver, precisamos levar essa homem. Ele será nossa porta de entrada para a base.",
         "es": "[Lazy]\nNosotros ^0000CDdebemos llevarlo^000000. Pase lo que pase, este hombre será nuestra puerta de entrada."
     },
@@ -840,7 +840,7 @@
         "es": "[{0}]\n¿Quién es este hombre?"
     },
     "qCChBw": {
-        "en": "[Lazy]\nGood question. But since we don't have enough time, let me explain later. We must deliver him before he dies.",
+        "en": "[Leizi]\nGood question. But since we don't have enough time, let me explain later. We must deliver him before he dies.",
         "pt": "[Nalandro]\nBoa pergunta. Mas já que não temos muito tempo, eu explico depois. Precisamos levá-lo antes que ele morra.",
         "es": "[Lazy]\nBuena pregunta. Pero, como no tenemos suficiente tiempo, déjame explicarlo después. Debemos entregarlo antes de que muera."
     },
@@ -850,7 +850,7 @@
         "es": "Entonces, ¿lo mantuviste apenas con vida?"
     },
     "qiChBw": {
-        "en": "[Lazy]\nWhat are you doing here? We are not supposed to meet here. Are we?",
+        "en": "[Leizi]\nWhat are you doing here? We are not supposed to meet here. Are we?",
         "pt": "[Nalandro]\nO que está fazendo aqui? Não deveríamos ter nos encontrado aqui. Deveríamos?",
         "es": "[Lazy]\n¿Qué haces aquí? Se supone que no deberíamos encontrarnos aquí. ¿No?"
     },
@@ -870,7 +870,7 @@
         "es": "[¿¿??]\n…"
     },
     "riChBw": {
-        "en": "[Lazy]\nAre you here now?",
+        "en": "[Leizi]\nAre you here now?",
         "pt": "[Nalandro]\nVocê está aqui agora?",
         "es": "[Lazy]\n¿Estás aquí ahora?"
     },
@@ -885,7 +885,7 @@
         "es": "¡Oye! ¡Estuve llevando a una persona inconsciente!"
     },
     "sSChBw": {
-        "en": "[Lazy]\nPut down what you have carried.",
+        "en": "[Leizi]\nPut down what you have carried.",
         "pt": "[Nalandro]\nColoque sua carga no chão.",
         "es": "[Lazy]\nDeja la carga en el suelo."
     },
@@ -910,7 +910,7 @@
         "es": "[{0}]\n¿Dónde estoy? Aquí no hay nadie."
     },
     "tiChBw": {
-        "en": "[Lazy]\nYou can see as much as you know. That's why I'm always tired. People all want me to look at them.",
+        "en": "[Leizi]\nYou can see as much as you know. That's why I'm always tired. People all want me to look at them.",
         "pt": "[Nalandro]\nVocê enxerga tanto quanto sabe das coisas. É por isso que estou sempre tão cansado. As pessoas sempre querem que eu olhe pra elas.",
         "es": "[Lazy]\nSolo puedes ver lo que sabes. Por eso, siempre estoy cansado. La gente siempre quiere que los mire."
     },
@@ -920,7 +920,7 @@
         "es": "Los miraré más tarde."
     },
     "uCChBw": {
-        "en": "[Lazy]\nAnyway, let's get in here.",
+        "en": "[Leizi]\nAnyway, let's get in here.",
         "pt": "[Nalandro]\nEnfim, vamos entrar.",
         "es": "[Lazy]\nDe todos modos, entremos aquí."
     },
@@ -930,7 +930,7 @@
         "es": "[{0}]\nEntonces, ¿dónde estoy?"
     },
     "uiChBw": {
-        "en": "[Lazy]\nYou talk too much! I told you we don't have much time. You can listen to my explanation later. Someone who was standing in front of this detected me already and went inside. We don't know what they will prepare.",
+        "en": "[Leizi]\nYou talk too much! I told you we don't have much time. You can listen to my explanation later. Someone who was standing in front of this detected me already and went inside. We don't know what they will prepare.",
         "pt": "[Nalandro]\nVocê fala demais! Eu disse que não temos muito tempo. Você pode ouvir minha explicação depois. Alguém que estava aqui na frente me detectou e correu para dentro. Não sabemos o que estão tramando.",
         "es": "[Lazy]\n¡Hablas demasiado! Te dije que no tenemos mucho tiempo. Puedes escuchar mi explicación después. Alguien que estaba aquí adelante me detectó y corrió adentro. No sabemos qué están tramando."
     },
@@ -945,7 +945,7 @@
         "es": "[{0}]\nEspera, ¿vamos a dejarlo aquí?"
     },
     "vSChBw": {
-        "en": "[Lazy]\nYeah. Is there any problem? Is it a problem? Could it be a problem?",
+        "en": "[Leizi]\nYeah. Is there any problem? Is it a problem? Could it be a problem?",
         "pt": "[Nalandro]\nSim. Algum problema? Isso é um problema? Seria um problema?",
         "es": "[Lazy]\nSí. ¿Hay algún problema? ¿Es un problema? ¿Podría ser un problema?"
     },
@@ -965,7 +965,7 @@
         "es": "Puedes decir todo lo que quieras. No te tengo miedo."
     },
     "wSChBw": {
-        "en": "[Lazy]\nDon't worry about him. He's not going to die. Humans do not die so easily. The fact I'm still alive is the evidence.",
+        "en": "[Leizi]\nDon't worry about him. He's not going to die. Humans do not die so easily. The fact I'm still alive is the evidence.",
         "pt": "[Nalandro]\nNão se preocupe com ele. Ele não vai morrer. Humanos não morrem tão facilmente. O fato de eu ainda ter uma vida é a prova.",
         "es": "[Lazy]\nNo te preocupes por él. No morirá. Los humanos no mueren tan fácilmente. El hecho de que yo siga vivo es evidencia suficiente."
     },
@@ -980,7 +980,7 @@
         "es": "[{0}]\nEse no es el problema aquí."
     },
     "xCChBw": {
-        "en": "[Lazy]\nCome on, let's get in. We don't have much time. Let's talk inside. Aren't you curious to know what's in there?",
+        "en": "[Leizi]\nCome on, let's get in. We don't have much time. Let's talk inside. Aren't you curious to know what's in there?",
         "pt": "[Nalandro]\nVenha, vamos entrar. Não temos muito tempo. Falaremos lá dentro. Você não tem curiosidade para saber o que há lá?",
         "es": "[Lazy]\nVamos, entremos. No tenemos mucho tiempo. Hablemos dentro. ¿No tienes curiosidad por saber qué hay ahí dentro?"
     },
@@ -995,32 +995,32 @@
         "es": "[{0}]\nTenemos que ver algo para poder entrar."
     },
     "xyChBw": {
-        "en": "[Lazy]\nLook at this. There's an entrance here. This is ^0000CDan entrance hidden in the wall of the beach^000000. It is so fishy. Let's get inside and check what's there.",
+        "en": "[Leizi]\nLook at this. There's an entrance here. This is ^0000CDan entrance hidden in the wall of the beach^000000. It is so fishy. Let's get inside and check what's there.",
         "pt": "[Nalandro]\nOlha só. Tem uma entrada aqui. É ^0000CDuma entrada escondida na parede das margens do rio^000000. Parece tão suspeito. Vamos entrar e ver o que há lá.",
         "es": "[Lazy]\nMira. Hay una entrada aquí. Es ^0000CDuna entrada oculta en la pared de la playa^000000. Es demasiado sospechoso. Entremos y veamos que hay ahí."
     },
     "yCChBw": {
-        "en": "[Lazy]\nWhat are you doing? Come in!",
+        "en": "[Leizi]\nWhat are you doing? Come in!",
         "pt": "[Nalandro]\nO que está fazendo? Venha!",
         "es": "[Lazy]\n¿Qué estás haciendo? ¡Adelante!"
     },
     "ySChBw": {
-        "en": "[Lazy]\nAre you okay to be here now? Come on, let's get inside!",
+        "en": "[Leizi]\nAre you okay to be here now? Come on, let's get inside!",
         "pt": "[Nalandro]\nEstar aqui é um problema para você? Venha, vamos entrar!",
         "es": "[Lazy]\n¿Estás listo para estar aquí ahora? ¡Vamos, entremos!"
     },
     "yiChBw": {
-        "en": "[Lazy]\nOh! We meet again! I got called and would like to go somewhere else. See you later!",
+        "en": "[Leizi]\nOh! We meet again! I got called and would like to go somewhere else. See you later!",
         "pt": "[Nalandro]\nAh! Nos encontramos de novo! Eu fui chamado e gostaria de ir para outro lugar. Até mais tarde!",
         "es": "[Lazy]\n¡Ah! ¡Nos volvemos a ver! Me llamaron y me gustaría ir a otro sitio. ¡Nos vemos luego!"
     },
     "yyChBw": {
-        "en": "Gonie",
+        "en": "Gony",
         "pt": "Gonie",
         "es": "Gonie"
     },
     "zCChBw": {
-        "en": "[Lazy]\nOuch! The store looks smaller that it looks from outside. Is there a space behind the pillar?",
+        "en": "[Leizi]\nOuch! The store looks smaller that it looks from outside. Is there a space behind the pillar?",
         "pt": "[Nalandro]\nAi! A loja parece maior de fora. Há um espaço atrás da estante?",
         "es": "[Lazy]\n¡Ay! La tienda parece más pequeño de lo que se ve desde fuera. ¿Hay un espacio detrás del pilar?"
     },
@@ -1070,7 +1070,7 @@
         "es": "Calma. Relájate."
     },
     "1iChBw": {
-        "en": "[Lazy]\nYeah.. I hope we have what you're looking for.",
+        "en": "[Leizi]\nYeah.. I hope we have what you're looking for.",
         "pt": "[Nalandro]\nSim... Espero que tenhamos o que você está procurando.",
         "es": "[Lazy]\nSí… espero que tengamos lo que estás buscando."
     },
@@ -1085,7 +1085,7 @@
         "es": "¿Qué estás insinuando?"
     },
     "2SChBw": {
-        "en": "[Lazy]\nI wanted to buy a self-defense gun. And someone recommended me this store.",
+        "en": "[Leizi]\nI wanted to buy a self-defense gun. And someone recommended me this store.",
         "pt": "[Nalandro]\nGostaria de comprar uma arma para defesa pessoal. E alguém me recomendou essa loja.",
         "es": "[Lazy]\nQuería comprar un arma de defensa personal. Y alguien me recomendó esta tienda."
     },
@@ -1095,12 +1095,12 @@
         "es": "[Tendero]\n¿Quién… fue?"
     },
     "2yChBw": {
-        "en": "[Lazy]\nWhat would you do if I tell you who that person is?",
+        "en": "[Leizi]\nWhat would you do if I tell you who that person is?",
         "pt": "[Nalandro]\nO que faria se eu te dissesse quem foi a pessoa?",
         "es": "[Lazy]\n¿Qué harías si te digo quién es esa persona?"
     },
     "3CChBw": {
-        "en": "[Lazy]\nWow, this looks cool. Is this the way you hold it?",
+        "en": "[Leizi]\nWow, this looks cool. Is this the way you hold it?",
         "pt": "[Nalandro]\nUau, isso parece legal. É assim que segura?",
         "es": "[Lazy]\nVaya, esto es genial. ¿Así es como se sostiene?"
     },
@@ -1115,7 +1115,7 @@
         "es": "Por favor, retire las manos de ahí."
     },
     "3yChBw": {
-        "en": "[Lazy]\nDidn't you tell me to look all I want? This is so small! Can it ever fire a bullet? Look at the dust here. I guess you're out of business here.",
+        "en": "[Leizi]\nDidn't you tell me to look all I want? This is so small! Can it ever fire a bullet? Look at the dust here. I guess you're out of business here.",
         "pt": "[Nalandro]\nVocê não me disse para olhar à vontade? Isso é tão pequeno! Consegue disparar uma bala? Olha só a poeira aqui. Parece que os negócios aqui não estão bons.",
         "es": "[Lazy]\n¿No me dijiste que mirara todo lo que quisiera? ¡Qué pequeña! ¿Puede disparar al menos una bala? Mira el polvo aquí. Supongo que estás fuera de negocios aquí."
     },
@@ -1125,7 +1125,7 @@
         "es": "[Tendero]\nOh… ese es uno de los productos más populares de nuestra tienda."
     },
     "4SChBw": {
-        "en": "[Lazy]\nIs this a popular product? I can imagine the quality of this store.",
+        "en": "[Leizi]\nIs this a popular product? I can imagine the quality of this store.",
         "pt": "[Nalandro]\nIsso é um produto popular? Já dá pra imaginar a qualidade dessa loja.",
         "es": "[Lazy]\n¿Es un producto popular? Me imagino la calidad de esta tienda."
     },
@@ -1140,7 +1140,7 @@
         "es": "¡No lo toleraré más! ¡Váyanse!"
     },
     "5CChBw": {
-        "en": "[Lazy]\nNo, I don't mean it. But if you heard it that way, then it's an insult.",
+        "en": "[Leizi]\nNo, I don't mean it. But if you heard it that way, then it's an insult.",
         "pt": "[Nalandro]\nNão, não foi o que eu quis dizer. Mas se você entendeu assim, então é um insulto.",
         "es": "[Lazy]\nNo, no lo digo de esa manera. Pero si lo interpretaste así, entonces, es un insulto."
     },
@@ -1155,7 +1155,7 @@
         "es": "Señor."
     },
     "5yChBw": {
-        "en": "[Lazy]\nHmm... This looks quite good. How much is it?",
+        "en": "[Leizi]\nHmm... This looks quite good. How much is it?",
         "pt": "[Nalandro]\nHmm... Isso parece bom. Quanto custa?",
         "es": "[Lazy]\nMmm… Esta luce bien. ¿Cuánto cuesta?"
     },
@@ -1165,7 +1165,7 @@
         "es": "[Tendero]\n3.4 millones de zeny."
     },
     "6SChBw": {
-        "en": "[Lazy]\nThat's the price of a snack. Give me one.",
+        "en": "[Leizi]\nThat's the price of a snack. Give me one.",
         "pt": "[Nalandro]\nÉ o preço de um jellopy. Vou levar um.",
         "es": "[Lazy]\nEs el precio de un jellopy. Dame una."
     },
@@ -1180,7 +1180,7 @@
         "es": "[Tendero]\nComo es un producto de exposición, tenemos que hacer un pedido. Hay demasiados pedidos y tienes que esperar ocho meses. ¿Puedes esperar?"
     },
     "7CChBw": {
-        "en": "[Lazy]\nI'm not the one who's short-tempered. I guess it's you.",
+        "en": "[Leizi]\nI'm not the one who's short-tempered. I guess it's you.",
         "pt": "[Nalandro]\nNão sou eu quem tem o pavio curto. Parece que é você.",
         "es": "[Lazy]\nNo soy yo quien tiene el temperamento corto. Parece que eres tú."
     },
@@ -1200,7 +1200,7 @@
         "es": "[Tendero]\nCálmate, Nemi."
     },
     "8CChBw": {
-        "en": "[Lazy]\nRather than these, show me what you actually sell here. For example, ^0000CDFast Grinder Cutting through the Wind^000000?",
+        "en": "[Leizi]\nRather than these, show me what you actually sell here. For example, ^0000CDFast Grinder Cutting through the Wind^000000?",
         "pt": "[Nalandro]\nAlém dessas coisas, mostre o que você realmente vende aqui. Por exemplo, uma ^0000CDRasgadora de Vento^000000?",
         "es": "[Lazy]\nEn lugar de esto, muéstrame lo que realmente vendes aquí. Por ejemplo, ^0000CD¿una Trituradora veloz cortatodo^000000?"
     },
@@ -1230,7 +1230,7 @@
         "es": "Por tu respuesta, no parece el nombre de una bala."
     },
     "9iChBw": {
-        "en": "[Lazy]\nCan't you see? I am a tourist and this is my secretary.",
+        "en": "[Leizi]\nCan't you see? I am a tourist and this is my secretary.",
         "pt": "[Nalandro]\nNão está vendo? Sou um turista, e essa pessoa serve a mim.",
         "es": "[Lazy]\n¿No lo ves? Soy un turista y ella es mi secretaria."
     },
@@ -1260,7 +1260,7 @@
         "es": "[Tendero]\n¿Qué turista viene hasta un mercado de armas de una aldea minera donde no hay nada que ver? ¿De dónde vienes?"
     },
     "/CChBw": {
-        "en": "[Lazy]\nI just arrived from Juno. I went there and it was so~ wonderful.",
+        "en": "[Leizi]\nI just arrived from Juno. I went there and it was so~ wonderful.",
         "pt": "[Nalandro]\nEu acabei de chegar de Juno. Lá é maravilhoso.",
         "es": "[Lazy]\nAcabo de llegar de Juno. Fui allí y fue tan~ maravilloso."
     },
@@ -1275,7 +1275,7 @@
         "es": "Y, aunque tuviéramos una, no te la venderíamos."
     },
     "/yChBw": {
-        "en": "[Lazy]\nSo you're kicking us out? Mr. Nemieri. You can't do this.",
+        "en": "[Leizi]\nSo you're kicking us out? Mr. Nemieri. You can't do this.",
         "pt": "[Nalandro]\nEstá nos expulsando? Sr. Nemieri. Não pode fazer isso.",
         "es": "[Lazy]\n¿Así que nos están echando? Señor Nemieri… No puede hacer esto."
     },
@@ -1285,7 +1285,7 @@
         "es": "[Tendero]\n¿Por qué no puedo echarlos? Váyanse antes de que llame a alguien."
     },
     "ASGhBw": {
-        "en": "[Lazy]\nYou'd better take a look who's out there. His name was... ^0000CDGonie^000000. Right?",
+        "en": "[Leizi]\nYou'd better take a look who's out there. His name was... ^0000CDGony^000000. Right?",
         "pt": "[Nalandro]\nÉ melhor ver a pessoa que está lá fora. O nome dele é... ^0000CDGonie^000000. Certo?",
         "es": "[Lazy]\nMira quién está ahí fuera. Su nombre es… ^0000CDGonie^000000. ¿Verdad?"
     },
@@ -1300,7 +1300,7 @@
         "es": "[Tendero]\n¿De qué estás hablando?"
     },
     "BCGhBw": {
-        "en": "[Lazy]\nJust go outside and check it yourself.",
+        "en": "[Leizi]\nJust go outside and check it yourself.",
         "pt": "[Nalandro]\nVá lá fora e veja com os próprios olhos.",
         "es": "[Lazy]\nSal y compruébalo tú mismo."
     },
@@ -1310,7 +1310,7 @@
         "es": "[Tendero]\nNo te toleraré si estás haciendo trucos baratos."
     },
     "BiGhBw": {
-        "en": "[Lazy]\nCan he carry him alone?",
+        "en": "[Leizi]\nCan he carry him alone?",
         "pt": "[Nalandro]\nEle pode carregá-lo sozinho?",
         "es": "[Lazy]\n¿Puede cargarlo él solo?"
     },
@@ -1325,7 +1325,7 @@
         "es": "¿Cómo sabes su nombre?"
     },
     "CSGhBw": {
-        "en": "[Lazy]\nDidn't you know? That's why we struggled to bring him all the way here. Now look. He will use a magic after a short while.",
+        "en": "[Leizi]\nDidn't you know? That's why we struggled to bring him all the way here. Now look. He will use a magic after a short while.",
         "pt": "[Nalandro]\nNão sabia? Por isso nos esforçamos para trazê-lo até aqui. Agora, olhe. Ele vai usar uma magia daqui a pouco.",
         "es": "[Lazy]\n¿No lo sabías? Por eso, nos costó traerlo hasta aquí. Ahora mira. Usará una magia dentro de poco."
     },
@@ -1350,7 +1350,7 @@
         "es": "[Tendero]\nArrgh..."
     },
     "DiGhBw": {
-        "en": "[Shopkeeper]\nOh, my goodness. Gonie! What happened!",
+        "en": "[Shopkeeper]\nOh, my goodness. Gony! What happened!",
         "pt": "[Lojista]\nAh, minha nossa. Gonie! O que aconteceu?",
         "es": "[Tendero]\nAy, por todos los dioses. ¡Gonie! ¿Qué pasó?"
     },
@@ -1360,7 +1360,7 @@
         "es": "[Tendero]\nEri. Ve y trae a ^0000CDLucky^000000."
     },
     "ECGhBw": {
-        "en": "[Lazy]\nRookie?",
+        "en": "[Leizi]\nRookie?",
         "pt": "[Nalandro]\nLucky?",
         "es": "[Lazy]\n¿Lucky?"
     },
@@ -1370,7 +1370,7 @@
         "es": "[Tendero]\nOye, ¿qué le hicieron a este tipo?"
     },
     "EiGhBw": {
-        "en": "[Lazy]\nWell, we did something. He was nearly dead and we brought him all the way here by keeping him alive. That was a great job.",
+        "en": "[Leizi]\nWell, we did something. He was nearly dead and we brought him all the way here by keeping him alive. That was a great job.",
         "pt": "[Nalandro]\nBem, realmente fizemos algo. Ele estava quase morto, e salvamos sua vida e o trouxemos até aqui. Foi um excelente trabalho.",
         "es": "[Lazy]\nBueno, hicimos algo. Estaba casi muerto y lo trajimos hasta aquí con vida. Fue un gran trabajo."
     },
@@ -1390,17 +1390,17 @@
         "es": "Trotamundos, tranquilo. Déjame manejar esto. Ahórrate fuerzas."
     },
     "FiGhBw": {
-        "en": "[Lazy]\nWhy would I hand over the person I took hostage to you? If you really don't know what happened, wake him up and ask him. What would you do if we didn't hurt him?",
+        "en": "[Leizi]\nWhy would I hand over the person I took hostage to you? If you really don't know what happened, wake him up and ask him. What would you do if we didn't hurt him?",
         "pt": "[Nalandro]\nPor que eu entregaria a você a pessoa que fiz de refém? Se você realmente não sabe o que aconteceu, acorde-o e pergunte a ele. O que fará se nós não o tivermos machucado?",
         "es": "[Lazy]\n¿Por qué te entregaría a la persona que tomé como rehén? Si realmente no sabes qué pasó, despiértalo y pregúntale. ¿Qué sucederá cuando te enteres de que no le hicimos daño?"
     },
     "FyGhBw": {
-        "en": "[Lazy]\nYou'll be so embarrassed, sorry and ashamed. Would you even lift your head up?",
+        "en": "[Leizi]\nYou'll be so embarrassed, sorry and ashamed. Would you even lift your head up?",
         "pt": "[Nalandro]\nVocê sentirá tanta vergonha e humilhação. Como poderá levantar a cabeça de novo?",
         "es": "[Lazy]\nVas a estar tan avergonzado y apenado… ¿Acaso siquiera levantarías la cabeza?"
     },
     "GCGhBw": {
-        "en": "[Lazy]\nWhy are you doubting us so much? Enough is enough. Not many villains try to swindle with an injured person.",
+        "en": "[Leizi]\nWhy are you doubting us so much? Enough is enough. Not many villains try to swindle with an injured person.",
         "pt": "[Nalandro]\nPor que duvida tanto de nós? Já chega. Nunca vi um vilão tentar enganar alguém com uma pessoa ferida.",
         "es": "[Lazy]\n¿Por qué dudas tanto de nosotros? Ya basta. Pocos villanos se atreverían a engañar a alguien herido."
     },
@@ -1410,12 +1410,12 @@
         "es": "¡Cierto!"
     },
     "GiGhBw": {
-        "en": "[Lazy]\nThis is unfair. I've been victimized! Father! Mother!!",
+        "en": "[Leizi]\nThis is unfair. I've been victimized! Father! Mother!!",
         "pt": "[Nalandro]\nIsso não é justo. Sou uma vítima! Pai! Mãe!!",
         "es": "[Lazy]\n¡Esto no es justo! ¡Soy una víctima! ¡Papá! ¡Mamá!"
     },
     "GyGhBw": {
-        "en": "[Lucky]\nNemi, what happened? Is Gonie dead?",
+        "en": "[Lucky]\nNemi, what happened? Is Gony dead?",
         "pt": "[Lukie]\nNemi, o que aconteceu? Gonie morreu?",
         "es": "[Lukie]\nNemi, ¿qué pasó? ¿Está muerto Gonie?"
     },
@@ -1430,7 +1430,7 @@
         "es": "[Tendero]\nNo, no está muerto."
     },
     "HiGhBw": {
-        "en": "[Lazy]\nHe was nearly dead and we brought him all the way here by keeping him alive~ It was so tough~~",
+        "en": "[Leizi]\nHe was nearly dead and we brought him all the way here by keeping him alive~ It was so tough~~",
         "pt": "[Nalandro]\nEle estava quase morto, e nós o trouxemos até aqui para salvá-lo. Foi bem trabalhoso.",
         "es": "[Lazy]\nEstaba casi muerto y lo trajimos hasta aquí con vida~. Fue muy difícil~~."
     },
@@ -1440,12 +1440,12 @@
         "es": "¡Le salvé la vida!"
     },
     "ICGhBw": {
-        "en": "[Lucky]\nHe's not doing very well. We have to take him there and lay him down. Wake up, Gonie. Can you walk?",
+        "en": "[Lucky]\nHe's not doing very well. We have to take him there and lay him down. Wake up, Gony. Can you walk?",
         "pt": "[Lukie]\nEle não está muito bem. Temos que levá-lo até ali e deitá-lo. Acorde, Gonie. Consegue andar?",
         "es": "[Lukie]\nNo está muy bien. Tenemos que llevarlo allí y acostarlo. Despierta, Gonie. ¿Puedes caminar?"
     },
     "ISGhBw": {
-        "en": "[Lazy]\nIt will be difficult now. You will have to carry him. If it is hard for you, you can order my strong secretary to lift him~",
+        "en": "[Leizi]\nIt will be difficult now. You will have to carry him. If it is hard for you, you can order my strong secretary to lift him~",
         "pt": "[Nalandro]\nVai ser difícil. Você precisará carregá-lo. Se for muito trabalhoso, pode mandar meu serviçal carregá-lo.",
         "es": "[Lazy]\nAhora será difícil. Tendrás que cargarlo. Si te resulta difícil, puedes pedirle a mi fuerte secretaria que lo levante~."
     },
@@ -1465,12 +1465,12 @@
         "es": "¡Bum!"
     },
     "JSGhBw": {
-        "en": "[Gonie]\n....!",
+        "en": "[Gony]\n....!",
         "pt": "[Gonie]\n....!",
         "es": "[Gonie]\n¡…!"
     },
     "JiGhBw": {
-        "en": "[Lazy]\nOh, dear! You dropped him. Maybe you have been overworking.",
+        "en": "[Leizi]\nOh, dear! You dropped him. Maybe you have been overworking.",
         "pt": "[Nalandro]\nMinha nossa! Você deixou ele cair. Talvez esteja se esforçando demais.",
         "es": "[Lazy]\n¡Oh, por los dioses! Lo dejaste caer. Quizá trabajaste demasiado."
     },
@@ -1485,7 +1485,7 @@
         "es": "[{0}]\n¡Abrió los ojos! ¡Parece que está consciente!"
     },
     "KSGhBw": {
-        "en": "[Lazy]\nNo, he opened his eyes instinctively due to the impact. He's still unconscious.",
+        "en": "[Leizi]\nNo, he opened his eyes instinctively due to the impact. He's still unconscious.",
         "pt": "[Nalandro]\nNão, foi um reflexo por causa do impacto. Ainda está inconsciente.",
         "es": "[Lazy]\nNo, abrió los ojos instintivamente por el impacto. Sigue inconsciente."
     },
@@ -1495,12 +1495,12 @@
         "es": "¿Es posible?"
     },
     "KyGhBw": {
-        "en": "[??]\nGonie! Are you all right? Stand up.",
+        "en": "[??]\nGony! Are you all right? Stand up.",
         "pt": "[??]\nGonie! Está tudo bem? Levante-se.",
         "es": "[¿¿??]\n¡Gonie! ¿Estás bien? Levántate."
     },
     "LCGhBw": {
-        "en": "[Lazy]\nMy god! You dropped him again. Don't work too hard.",
+        "en": "[Leizi]\nMy god! You dropped him again. Don't work too hard.",
         "pt": "[Nalandro]\nMeu Deus! Você derrubou ele de novo. Não se esforce tanto.",
         "es": "[Lazy]\n¡Por todos los dioses! Lo dejaste caer de nuevo. No te esfuerces demasiado."
     },
@@ -1515,22 +1515,22 @@
         "es": "Ah… ¿Debería?"
     },
     "LyGhBw": {
-        "en": "[??]\nGonie! What happened to you? Stand up again.",
+        "en": "[??]\nGony! What happened to you? Stand up again.",
         "pt": "[??]\nGonie! O que aconteceu com você? Levante-se de novo.",
         "es": "[¿¿??]\n¡Gonie! ¿Qué te pasó? Levántate de nuevo."
     },
     "MCGhBw": {
-        "en": "[Gonie]\n......!!",
+        "en": "[Gony]\n......!!",
         "pt": "[Gonie]\n......!!",
         "es": "[Gonie]\n¡¡…!!"
     },
     "MSGhBw": {
-        "en": "[Lazy]\nGosh, why is your arm you so weak? Seems like this place is in trouble. You have no manpower so you hired such a weak person? My god.",
+        "en": "[Leizi]\nGosh, why is your arm you so weak? Seems like this place is in trouble. You have no manpower so you hired such a weak person? My god.",
         "pt": "[Nalandro]\nNossa, você não tem força nos braços? Parece que esse lugar está com problemas. Não tinha mais ninguém, então você contratou alguém fraco assim, é isso? Meu Deus.",
         "es": "[Lazy]\nCielos, ¿por qué tu brazo está tan débil? Parece que este lugar tiene problemas. Como no tienes mano de obra, ¿contrataste a una persona así de débil? ¡Por todos los dioses!"
     },
     "MiGhBw": {
-        "en": "Look at that. Gonie might die.",
+        "en": "Look at that. Gony might die.",
         "pt": "Olha só pra isso. Gonie pode morrer.",
         "es": "Mira eso. Gonie podría morir."
     },
@@ -1545,7 +1545,7 @@
         "es": "[¿¿??]\nNo sé quién eres tú. Pero oigo lo que dices."
     },
     "NSGhBw": {
-        "en": "[Lazy]\nHear what? I was just speaking inside!",
+        "en": "[Leizi]\nHear what? I was just speaking inside!",
         "pt": "[Nalandro]\nOuvindo o quê? Eu estava apenas pensando alto!",
         "es": "[Lazy]\n¿Oír qué? ¡Estaba hablando por dentro!"
     },
@@ -1555,12 +1555,12 @@
         "es": "Como te dije antes, tu bocaza siempre es un problema."
     },
     "NyGhBw": {
-        "en": "[Gonie]\n....!!!! ....",
+        "en": "[Gony]\n....!!!! ....",
         "pt": "[Gonie]\n....!!!! ....",
         "es": "[Gonie]\n¡¡…!!"
     },
     "OCGhBw": {
-        "en": "[??]\nGonie! Why are you so bloody? Did they attack you?",
+        "en": "[??]\nGony! Why are you so bloody? Did they attack you?",
         "pt": "[??]\nGonie! Por que você está todo ensanguentado? Eles atacaram você?",
         "es": "[¿¿??]\n¡Gonie! ¿Por qué estás todo ensangrentado? ¿Te atacaron?"
     },
@@ -1580,7 +1580,7 @@
         "es": "[Tendero]\nNo presiones demasiado a Lucky."
     },
     "PCGhBw": {
-        "en": "[Lazy]\nI barely saved his life and now you're trying to kill him. It's a fortune that he is unconscious and cannot feel the pain.",
+        "en": "[Leizi]\nI barely saved his life and now you're trying to kill him. It's a fortune that he is unconscious and cannot feel the pain.",
         "pt": "[Nalandro]\nEu mal salvei a vida dele, e agora você está tentando matá-lo. Por sorte, ele está inconsciente e não pode sentir a dor.",
         "es": "[Lazy]\nApenas pude salvarle la vida y ahora intentas matarlo. Tiene suerte de estar inconsciente y no sentir el dolor."
     },
@@ -1605,7 +1605,7 @@
         "es": "[¿¿??]\nGracias, Nemi. Arrgh. Traigámoslo y acostémoslo."
     },
     "QSGhBw": {
-        "en": "[Lazy]\nHey. Don't you have anything to tell us?",
+        "en": "[Leizi]\nHey. Don't you have anything to tell us?",
         "pt": "[Nalandro]\nEi. Você não tem nada para nos dizer?",
         "es": "[Lazy]\nOye. ¿No tienes nada que contarnos?"
     },
@@ -1620,17 +1620,17 @@
         "es": "[¿¿??]\nHasta luego."
     },
     "RCGhBw": {
-        "en": "[Lazy]\nWait! They're sending us away like this? Seems like they are. Did I get it wrong?",
+        "en": "[Leizi]\nWait! They're sending us away like this? Seems like they are. Did I get it wrong?",
         "pt": "[Nalandro]\nEspere! Estão nos mandando embora dessa forma? Parece que sim. Será que eu entendi errado?",
         "es": "[Lazy]\n¡Espera! ¿Nos echan así sin más? Parece que sí. ¿Entendí mal?"
     },
     "RSGhBw": {
-        "en": "[Lazy]\nOops? They went inside! Come on!",
+        "en": "[Leizi]\nOops? They went inside! Come on!",
         "pt": "[Nalandro]\nOps? Eles foram para dentro! Vamos!",
         "es": "[Lazy]\n¿Uy? ¡Entraron! ¡Vamos!"
     },
     "RiGhBw": {
-        "en": "[Lazy]\nYou are sending us back after giving some money? You can't do this! At least, you should give me a cup of tea!",
+        "en": "[Leizi]\nYou are sending us back after giving some money? You can't do this! At least, you should give me a cup of tea!",
         "pt": "[Nalandro]\nSó porque nos deu algum dinheiro, você está nos mandando de volta? Não pode fazer isso! Você deveria, pelo menos, me oferecer uma xícara de chá!",
         "es": "[Lazy]\n¿Nos estás mandando de regreso después de darnos algo de dinero? ¡No puedes hacer esto! ¡Al menos deberías darme una taza de té!"
     },
@@ -1640,7 +1640,7 @@
         "es": "[Tendero]\nPor favor, cliente. No deberías hacer esto."
     },
     "SCGhBw": {
-        "en": "[Lazy]\nThen tell them to come out! Come out now! Come out! Come out!",
+        "en": "[Leizi]\nThen tell them to come out! Come out now! Come out! Come out!",
         "pt": "[Nalandro]\nEntão diga para eles aparecerem! Apareçam agora! Apareçam! Apareçam!",
         "es": "[Lazy]\n¡Entonces, diles que salgan! ¡Salgan ya! ¡Salgan! ¡Salgan!"
     },
@@ -1650,12 +1650,12 @@
         "es": "¡¿Por qué no lo hacen?!"
     },
     "SiGhBw": {
-        "en": "[{0}]\nHmm, Lazy. This is a little embarrassing. Let's go back now. We have a mission.",
+        "en": "[{0}]\nHmm, Leizi. This is a little embarrassing. Let's go back now. We have a mission.",
         "pt": "[{0}]\nHmm, Nalandro. Isso é um pouco constrangedor. Vamos voltar agora. Temos uma missão.",
         "es": "[{0}]\nMmm, Lazy. Esto es un poco vergonzoso. Volvamos ahora. Tenemos una misión."
     },
     "SyGhBw": {
-        "en": "[Lazy]\nNever! I am impervious to shame so I will keep shouting until they come out! Hey! Rookie! Come out! Come out!",
+        "en": "[Leizi]\nNever! I am impervious to shame so I will keep shouting until they come out! Hey! Rookie! Come out! Come out!",
         "pt": "[Nalandro]\nNunca! Sou imune à vergonha, então vou continuar gritando até eles aparecerem! Ei! Lukie! Apareça! Apareça!",
         "es": "[Lazy]\n¡Nunca! No tengo vergüenza, ¡así que seguiré gritando hasta que salgan! ¡Oye! ¡Lukie! ¡Salgan! ¡Salgan!"
     },
@@ -1675,7 +1675,7 @@
         "es": "[Tendero]\nSilencio. Si sigues causando alboroto, llamaré a alguien para que te saque de aquí."
     },
     "TyGhBw": {
-        "en": "[Lazy]\nWho kicks me out! That's impossible! I will lie down here! Come out!",
+        "en": "[Leizi]\nWho kicks me out! That's impossible! I will lie down here! Come out!",
         "pt": "[Nalandro]\nQuem vai me expulsar? Isso é impossível! Vou me deitar aqui! Apareçam!",
         "es": "[Lazy]\n¡¿Quién me echará?! ¡Eso es imposible! ¡Me acostaré aquí! ¡Salgan!"
     },
@@ -1690,7 +1690,7 @@
         "es": "[Lukie]\nFiu…"
     },
     "UiGhBw": {
-        "en": "[Lazy]\nHe's here!!!",
+        "en": "[Leizi]\nHe's here!!!",
         "pt": "[Nalandro]\nEle está aqui!!!",
         "es": "[Lazy]\n¡Está aquí!"
     },
@@ -1705,12 +1705,12 @@
         "es": "¿Quién es estúpido? ¿Yo?"
     },
     "VSGhBw": {
-        "en": "[Lazy]\nI can do something worse.",
+        "en": "[Leizi]\nI can do something worse.",
         "pt": "[Nalandro]\nPosso fazer pior.",
         "es": "[Lazy]\nPuedo hacer algo peor."
     },
     "ViGhBw": {
-        "en": "Lazy, please calm down!",
+        "en": "Leizi, please calm down!",
         "pt": "Nalandro, se acalme!",
         "es": "¡Lazy, por favor, cálmate!"
     },
@@ -1730,7 +1730,7 @@
         "es": "[Lukie]\nMíralo. Ni siquiera puede hacernos daño."
     },
     "WiGhBw": {
-        "en": "[Lazy]\nI feel weird, but I will skip it. Oh! I'm so thirsty~",
+        "en": "[Leizi]\nI feel weird, but I will skip it. Oh! I'm so thirsty~",
         "pt": "[Nalandro]\nSinto algo estranho, mas vou ignorar. Ah! Estou com tanta sede.",
         "es": "[Lazy]\nMe siento raro, pero no pasa nada. ¡Ah! Tengo mucha sed~."
     },
@@ -1745,17 +1745,17 @@
         "es": "[Lukie]\nSígueme. Es por acá."
     },
     "XSGhBw": {
-        "en": "[Lazy]\nWe don't have time to hesitate. Get in while they allow us. If you hesitate, you'll miss the opportunity!",
+        "en": "[Leizi]\nWe don't have time to hesitate. Get in while they allow us. If you hesitate, you'll miss the opportunity!",
         "pt": "[Nalandro]\nNão há tempo para hesitar. Entre enquanto eles nos permitem. Se hesitar, você vai perder a chance!",
         "es": "[Lazy]\nNo tenemos tiempo para dudar. Entra mientras nos lo permitan. Si dudas, perderás la oportunidad."
     },
     "XiGhBw": {
-        "en": "[Lazy]\nAre you okay to be here now? Come in.",
+        "en": "[Leizi]\nAre you okay to be here now? Come in.",
         "pt": "[Nalandro]\nEstar aqui é um problema para você? Venha.",
         "es": "[Lazy]\n¿Estás bien para estar aquí ahora? Pasa."
     },
     "XyGhBw": {
-        "en": "[Gonie]\n......",
+        "en": "[Gony]\n......",
         "pt": "[Gonie]\n......",
         "es": "[Gonie]\n…"
     },
@@ -1840,12 +1840,12 @@
         "es": "Como aquí el sonido hace eco, camina en silencio. No corras."
     },
     "cCGhBw": {
-        "en": "[Lazy]\nWhy do you have so many things here? Your bag has to be light to carry a lot of new stuff.",
+        "en": "[Leizi]\nWhy do you have so many things here? Your bag has to be light to carry a lot of new stuff.",
         "pt": "[Nalandro]\nPor que você tem tantas coisas aqui? Sua mochila deve estar leve para você carregar um monte de coisas novas.",
         "es": "[Lazy]\n¿Por qué tienes tantas cosas aquí? Tu bolso tiene que estar liviano para que puedas llevar muchas cosas nuevas."
     },
     "cSGhBw": {
-        "en": "[Lazy]\nOh~ It's wonderful here. It's so cozy. ^0000CDWhat is this place for^000000? I want to stay here for a day.",
+        "en": "[Leizi]\nOh~ It's wonderful here. It's so cozy. ^0000CDWhat is this place for^000000? I want to stay here for a day.",
         "pt": "[Nalandro]\nAh! Aqui é tão bonito. Tão aconchegante. ^0000CDPara que serve esse lugar^000000? Quero passar o dia aqui.",
         "es": "[Lazy]\n¡Oh! Qué maravilla. Es tan acogedor. ¿Para qué sirve este lugar? Me gustaría quedarme aquí un día."
     },
@@ -1865,7 +1865,7 @@
         "es": "[Lukie]\nUn sanatorio que atiende a jovenes y ancianos. Aquí no hay nada que ver. Además, hace demasiado frío y podrías amanecer con la boca torcida si duermes aquí. Por eso es mejor que te vayas después de tomar el té."
     },
     "dSGhBw": {
-        "en": "[Lazy]\nYou are too stingy. How can you do this to me after I saved his life?",
+        "en": "[Leizi]\nYou are too stingy. How can you do this to me after I saved his life?",
         "pt": "[Nalandro]\nQue grosseria. Como pode fazer isso comigo depois que eu salvei a vida dele?",
         "es": "[Lazy]\nEres demasiado tacaño. ¿Cómo puedes hacerme esto después de haberle salvado la vida?"
     },
@@ -1885,7 +1885,7 @@
         "es": "¿Me estás maldiciendo? ¡Por favor! ¡No me conviertas en alguien codicioso!"
     },
     "eSGhBw": {
-        "en": "[Lazy]\nThere are things you cannot buy.",
+        "en": "[Leizi]\nThere are things you cannot buy.",
         "pt": "[Nalandro]\nHá coisas que você não pode comprar.",
         "es": "[Lazy]\nHay cosas que no se pueden comprar."
     },
@@ -1900,7 +1900,7 @@
         "es": "Me parece bien. Así ahorramos dinero."
     },
     "fCGhBw": {
-        "en": "[Lazy]\nNo. According to my experience so far, everything that I cannot buy is useless.",
+        "en": "[Leizi]\nNo. According to my experience so far, everything that I cannot buy is useless.",
         "pt": "[Nalandro]\nNão. A julgar pela minha experiência até agora, tudo o que eu não posso comprar é inútil.",
         "es": "[Lazy]\nNo. Según mi experiencia hasta ahora, todo lo que no puedo comprar es inútil."
     },
@@ -1990,7 +1990,7 @@
         "es": "¡Lucky! ¡Yo primero!"
     },
     "jiGhBw": {
-        "en": "[Lazy]\nThey are looking for you everywhere. You are so popular. Aren't you?",
+        "en": "[Leizi]\nThey are looking for you everywhere. You are so popular. Aren't you?",
         "pt": "[Nalandro]\nTodo mundo está procurando por você. Você é tão popular. Não é?",
         "es": "[Lazy]\nTodo el mundo te está buscando. Eres muy popular, ¿verdad?"
     },
@@ -2055,7 +2055,7 @@
         "es": "¿Por qué debería seguirte?"
     },
     "myGhBw": {
-        "en": "[Lucky]\nThey saved Gonie's life. They came to this quiet Einbech. They found injured Gonie ^0000CDaccidentally^000000 and healed him. Then they brought him ^0000CDright^000000 here.",
+        "en": "[Lucky]\nThey saved Gony's life. They came to this quiet Einbech. They found injured Gony ^0000CDaccidentally^000000 and healed him. Then they brought him ^0000CDright^000000 here.",
         "pt": "[Lukie]\nEles salvaram a vida de Gonie. Vieram até a silenciosa Einbech. Encontraram Gonie ^0000CDacidentalmente^000000 e o curaram. Então trouxeram ele ^0000CDexatamente^000000 aqui.",
         "es": "[Lucky]\nSalvaron la vida de Gonie. Llegaron a este tranquilo Einbech. Encontraron herido a Gonie ^0000CDpor accidente^000000 y lo curaron. Luego, lo trajeron ^0000CDjusto^000000 aquí."
     },
@@ -2070,7 +2070,7 @@
         "es": "¿Se están peleando otra vez?"
     },
     "niGhBw": {
-        "en": "[Lazy]\nYes. I did it. I did it!",
+        "en": "[Leizi]\nYes. I did it. I did it!",
         "pt": "[Nalandro]\nSim. Consegui. Consegui!",
         "es": "[Lazy]\nSí. Lo logré. ¡Lo logré!"
     },
@@ -2100,7 +2100,7 @@
         "es": "No parecen ser nuestros niños."
     },
     "pCGhBw": {
-        "en": "[Lazy]\nYou have to exaggerate your performance. That's the way to be appreciated by others.",
+        "en": "[Leizi]\nYou have to exaggerate your performance. That's the way to be appreciated by others.",
         "pt": "[Nalandro]\nVocê precisa exagerar sua performance. É assim que você faz os outros gostarem de você.",
         "es": "[Lazy]\nTienes que exagerar lo que haces. Así logras que los demás te aprecien."
     },
@@ -2130,12 +2130,12 @@
         "es": "Entonces, ¿quién los invitó?"
     },
     "qiGhBw": {
-        "en": "[Lazy]\nMe? Lazy. Although it's not my real name, call me Lazy now.",
+        "en": "[Leizi]\nMe? Leizi. Although it's not my real name, call me Leizi now.",
         "pt": "[Nalandro]\nEu? Nalandro. Esse não é meu nome verdadeiro, mas pode me chamar de Nalandro.",
         "es": "[Lazy]\n¿Yo? Lazy. No es mi nombre de verdad, pero por ahora llámame Lazy."
     },
     "qyGhBw": {
-        "en": "[Lazy]\nI am an ^0000CDagent of Secret Wings^000000, an institution directly responsible to the President of Schwartzwald.",
+        "en": "[Leizi]\nI am an ^0000CDagent of Secret Wings^000000, an institution directly responsible to the President of Schwartzwald.",
         "pt": "[Nalandro]\nSou um ^0000CDagente do Vento Secreto^000000, uma organização diretamente ligada ao Presidente de Schwartzwald.",
         "es": "[Lazy]\nSoy un ^0000CDagente del Viento Secreto^000000, una institución que responde directamente al Presidente de Schwaltzwalt."
     },
@@ -2155,7 +2155,7 @@
         "es": "Creo que acabo de oír mal."
     },
     "ryGhBw": {
-        "en": "[Lazy]\nIt's all right. This is our destination. ^0000CDClana Nemieri^000000, the stronghold of Rebellions.",
+        "en": "[Leizi]\nIt's all right. This is our destination. ^0000CDClana Nemieri^000000, the stronghold of Rebellions.",
         "pt": "[Nalandro]\nEstá tudo bem. Aqui é o nosso destino. ^0000CDClana Nemieri^000000, o esconderijo da Rebelião.",
         "es": "[Lazy]\nEstá bien. Este es nuestro destino. ^0000CDClana Nemieri^000000, la fortaleza de la Rebelión."
     },
@@ -2230,7 +2230,7 @@
         "es": "[Lucky]\n¡Ey, cálmense, por favor! ¡Guarden sus armas! ¡Son realmente unos viejos temperamentales!"
     },
     "viGhBw": {
-        "en": "[Lucky]\nAlthough they have come here with a fishy purpose, it's true that they carried injured Gonie all the way here. Behave yourself, old men.",
+        "en": "[Lucky]\nAlthough they have come here with a fishy purpose, it's true that they carried injured Gony all the way here. Behave yourself, old men.",
         "pt": "[Lukie]\nApesar de terem vindo com um propósito suspeito, eles realmente trouxeram Gonie até aqui. Comportem-se, senhores.",
         "es": "[Lucky]\nA pesar de que vinieron con un propósito sospechoso, realmente trajeron a Gonie hasta aquí. Compórtense, señores"
     },
@@ -2245,7 +2245,7 @@
         "es": "¡¿Por qué deberíamos comportarnos?!"
     },
     "wSGhBw": {
-        "en": "[Lazy]\nYou are not surprised? So you knew it.",
+        "en": "[Leizi]\nYou are not surprised? So you knew it.",
         "pt": "[Nalandro]\nNão está surpreso? Então você sabia.",
         "es": "[Lazy]\n¿No te sorprende? Así que lo sabías."
     },
@@ -2255,7 +2255,7 @@
         "es": "[Lucky]\nNo sabía quién eras. Pero sabía que tenías un propósito. No te había dicho mi nombre, pero tú estabas gritando '¡Sal, Lukie!'. Así que tuve una pista."
     },
     "wyGhBw": {
-        "en": "[Lazy]\nI heard that the brain of a Rebellion is filled with bullets, but maybe not every Rebellion! So, is your name Lucky, or Rookie?",
+        "en": "[Leizi]\nI heard that the brain of a Rebellion is filled with bullets, but maybe not every Rebellion! So, is your name Lucky, or Rookie?",
         "pt": "[Nalandro]\nOuvi dizer que o cérebro de um Insurgente é cheio de balas, mas parece que não todos! Então seu nome é Lukie?",
         "es": "[Lazy]\nHe oído que el cerebro de un rebelde está lleno de balas, ¡pero tal vez no todos los rebeldes! Entonces, ¿te llamas Lucky o Lukie?"
     },
@@ -2350,12 +2350,12 @@
         "es": "Ese tipo tiene gran intuición e ingenio."
     },
     "1iGhBw": {
-        "en": "[Lazy]\nHahaha! Nice to meet you. Did I surprise you by coming in all of a sudden in leisure hours?",
+        "en": "[Leizi]\nHahaha! Nice to meet you. Did I surprise you by coming in all of a sudden in leisure hours?",
         "pt": "[Nalandro]\nHahaha! Prazer em conhecer vocês. Surpreendi vocês chegando de repente no horário de descanso?",
         "es": "[Lazy]\n¡Jajaja! Mucho gusto en conocerlos. ¿Los sorprendí llegando así de repente en su hora de descanso?"
     },
     "1yGhBw": {
-        "en": "[Lazy]\nBut I am not a dangerous person, so please relax. And this adventurer is much less dangerous.",
+        "en": "[Leizi]\nBut I am not a dangerous person, so please relax. And this adventurer is much less dangerous.",
         "pt": "[Nalandro]\nMas não sou perigoso, então relaxe. E essa pessoa aqui é ainda menos perigosa.",
         "es": "[Lazy]\nPero no soy una persona peligrosa, así que relájense. Y este trotamundos es mucho menos peligroso."
     },
@@ -2365,7 +2365,7 @@
         "es": "¡No hace falta que hables con nosotros!"
     },
     "2SGhBw": {
-        "en": "[Lazy]\nThis person is an adventurer who settled various problems of the continent, including Schwartzwald. The adventurer is currently under the protection of Rune Midgard Kingdom, {0}.",
+        "en": "[Leizi]\nThis person is an adventurer who settled various problems of the continent, including Schwartzwald. The adventurer is currently under the protection of Rune Midgard Kingdom, {0}.",
         "pt": "[Nalandro]\nEssa pessoa é um viajante que resolveu diversos problemas do continente, incluindo Schwartzwald. Ela está sob a proteção do Reino de Rune-Midgard no momento, {0}",
         "es": "[Lazy]\nEsta persona es un trotamundos que solucionó varios problemas del continente, incluido Schwarzwald. El trotamundos actualmente tiene la protección del reino de Rune-Midgarts, {0}"
     },
@@ -2375,9 +2375,9 @@
         "es": "{0} ¿Trotamundos? Tú debes ser esa persona en el palacio real en Rune-Midgarts…"
     },
     "2yGhBw": {
-        "en": "[Lazy]\nAnd I am a member of Secret Wings, an institution directly responsible to the President of Schwartzwald Republic. Since the President guarantees my identification, you don't have to worry.",
+        "en": "[Leizi]\nAnd I am a member of Secret Wings, an institution directly responsible to the President of Schwartzwald Republic. Since the President guarantees my identification, you don't have to worry.",
         "pt": "[Nalandro]\nE eu sou um agente do Vento Secreto, uma organização diretamente ligada ao Presidente de Schwartzwald. Como o Presidente garante minha identificação, você não precisa se preocupar.",
-        "es": "[Lazy]\nY yo soy miembro del Viento Secreto, una institución que responde directamente al Presidente de la República de Schwaltzvalt. Como el Presidente garantiza mi identidad, no tienen de qué preocuparse."
+        "es": "[Lazy]\nY yo soy miembro del Viento Secreto, una institución que responde directamente al Presidente de la República de Schwartzwald. Como el Presidente garantiza mi identidad, no tienen de qué preocuparse."
     },
     "3CGhBw": {
         "en": "Ha!!! That's nonsense!!",
@@ -2425,7 +2425,7 @@
         "es": "¿Qué? ¿Malcriado…?"
     },
     "5SGhBw": {
-        "en": "[Lazy]\nThat's what I am about to tell you now. Haha. So please put your guns down... Let's sit down first.",
+        "en": "[Leizi]\nThat's what I am about to tell you now. Haha. So please put your guns down... Let's sit down first.",
         "pt": "[Nalandro]\nÉ isso que estou prestes a contar. Haha. Então abaixem as armas... Vamos nos sentar primeiro.",
         "es": "[Lazy]\nEso es justamente lo que voy a contarles ahora. Jaja. Así que bajen las armas… Vamos a sentarnos primero."
     },
@@ -2440,7 +2440,7 @@
         "es": "¿Es un truco sucio?"
     },
     "6CGhBw": {
-        "en": "[Lazy]\nAhaha. I've got a disease that I can't sit down. By the way... As a guest, I couldn't come here with empty hands. This is a specialty good of Juno... Please have some.",
+        "en": "[Leizi]\nAhaha. I've got a disease that I can't sit down. By the way... As a guest, I couldn't come here with empty hands. This is a specialty good of Juno... Please have some.",
         "pt": "[Nalandro]\nAhaha. Eu tenho uma doença que me impede de sentar. Aliás... Como convidado, não poderia vir aqui com as mãos abanando. Esta é uma iguaria especial de Juno... Por favor, provem um pouco.",
         "es": "[Lazy]\nJajaja. Tengo una enfermedad que no me deja sentarme. Por cierto… Como invitado, no podía venir con las manos vacías. Esto es un producto típico de Juno… Por favor, prueben un poco."
     },
@@ -2565,12 +2565,12 @@
         "es": "Está delicioso."
     },
     "ASKhBw": {
-        "en": "[Lazy]\nWow~ This tea is great. It matches well with this specialty good. Try it. The President prepared it for you.",
+        "en": "[Leizi]\nWow~ This tea is great. It matches well with this specialty good. Try it. The President prepared it for you.",
         "pt": "[Nalandro]\nUau! Esse chá é maravilhoso. Combina perfeitamente com essa iguaria. Experimente. O Presidente preparou para você.",
         "es": "[Lazy]\n¡Wow! Este té es maravilloso. Combina perfectamente con esta delicia. Pruébalo. El Presidente lo preparó para ti."
     },
     "AiKhBw": {
-        "en": "[Lazy]\nPlease listen to me. I'm here to ask you a very difficult request.",
+        "en": "[Leizi]\nPlease listen to me. I'm here to ask you a very difficult request.",
         "pt": "[Nalandro]\nPor favor, me escute. Estou aqui para fazer um pedido muito difícil.",
         "es": "[Lazy]\nPor favor, escúchenme. Estoy aquí para pedir algo muy difícil."
     },
@@ -2595,12 +2595,12 @@
         "es": "¡Jojo! Está delicioso."
     },
     "ByKhBw": {
-        "en": "[Lazy]\nThat's why I came here. This mission cannot be accomplished by anyone except Rebellion. So the President sent me here.",
+        "en": "[Leizi]\nThat's why I came here. This mission cannot be accomplished by anyone except Rebellion. So the President sent me here.",
         "pt": "[Nalandro]\nÉ por isso que eu vim para cá. Essa missão não pode ser realizada por ninguém além da Rebelião. Por isso, o Presidente me enviou.",
         "es": "[Lazy]\nPor eso, vine aquí. Esta misión solo la puede cumplir la Rebelión. Así que el presidente me envió aquí."
     },
     "CCKhBw": {
-        "en": "[Lazy]\nI think it will be such a confidential and cautious story. Please take this...",
+        "en": "[Leizi]\nI think it will be such a confidential and cautious story. Please take this...",
         "pt": "[Nalandro]\nSinto que será uma história confidencial e cautelosa. Por favor, aceite isso...",
         "es": "[Lazy]\nCreo que será una historia bastante confidencial y cautelosa. Por favor, toma esto…"
     },
@@ -2615,7 +2615,7 @@
         "es": "[Veterano]\nDinos lo que quieres decir."
     },
     "CyKhBw": {
-        "en": "[Lazy]\nYes! Although you pretend not to know, it's the story you all know.",
+        "en": "[Leizi]\nYes! Although you pretend not to know, it's the story you all know.",
         "pt": "[Nalandro]\nSim! Ainda que vocês finjam não saber, é uma história que todos conhecem.",
         "es": "[Lazy]\n¡Sí! Aunque finjas no saberlo, es la historia que todos ustedes conocen."
     },
@@ -2625,17 +2625,17 @@
         "es": "Lo explicaré rápidamente."
     },
     "DSKhBw": {
-        "en": "[Lazy]\nThe President certainly regrets what happened in the past. His excellency has always been thinking about you and wanted to start a talk.",
+        "en": "[Leizi]\nThe President certainly regrets what happened in the past. His excellency has always been thinking about you and wanted to start a talk.",
         "pt": "[Nalandro]\nO Presidente se arrepende do que aconteceu no passado. Sua Excelência sempre pensou em vocês, e deseja iniciar um diálogo.",
         "es": "[Lazy]\nEl Presidente realmente lamenta lo que pasó en el pasado. Su excelencia siempre ha estado pensando en ustedes y quería entablar una charla."
     },
     "DiKhBw": {
-        "en": "[Lazy]\nUpon your approval, his excellency wants to meet you in person, apologize, and wants to have an opportunity to harmonize with you.",
+        "en": "[Leizi]\nUpon your approval, his excellency wants to meet you in person, apologize, and wants to have an opportunity to harmonize with you.",
         "pt": "[Nalandro]\nCom seu consentimento, Sua Excelência pretende encontrar vocês pessoalmente para pedir desculpas e ter uma oportunidade de fazer a pazes.",
         "es": "[Lazy]\nCon su permiso, Su Excelencia quiere reunirse con ustedes en persona, disculparse y aprovechar la oportunidad para acercarse a ustedes."
     },
     "DyKhBw": {
-        "en": "[Lazy]\nI was also extremely sad to hear what happened to you. And I was looking for a chance to meet you and talk to you.",
+        "en": "[Leizi]\nI was also extremely sad to hear what happened to you. And I was looking for a chance to meet you and talk to you.",
         "pt": "[Nalandro]\nEu também fiquei muito triste quando soube o que aconteceu com vocês. E estava ansioso por uma chance de nos encontrarmos para conversar.",
         "es": "[Lazy]\nTambién me sentí extremadamente triste al escuchar lo que les pasó. Y estaba buscando la oportunidad de encontrarlos y hablar con ustedes."
     },
@@ -2645,7 +2645,7 @@
         "es": "[Veterano]\n¡Ve directo al grano!"
     },
     "ESKhBw": {
-        "en": "[Lazy]\nYou are so cool. I like it. Then I will get down to the business.",
+        "en": "[Leizi]\nYou are so cool. I like it. Then I will get down to the business.",
         "pt": "[Nalandro]\nVocê é muito legal. Gostei disso. Então vou direto ao ponto.",
         "es": "[Lazy]\n\"Son geniales. Me gusta. Entonces, iré al grano."
     },
@@ -2655,7 +2655,7 @@
         "es": "Eres genial. Me gusta."
     },
     "EyKhBw": {
-        "en": "[Lazy began to talk about what happened recently and the request of the President.]",
+        "en": "[Leizi began to talk about what happened recently and the request of the President.]",
         "pt": "[Nalandro começa a falar sobre os acontecimentos recentes e sobre o pedido do Presidente.]",
         "es": "[Lazy empezó a hablar de lo que había ocurrido recientemente y de la solicitud del presidente.]"
     },
@@ -2690,17 +2690,17 @@
         "es": "No hace falta que sigamos escuchando."
     },
     "GiKhBw": {
-        "en": "[Lazy]\nThat won't harm you under any circumstances!",
+        "en": "[Leizi]\nThat won't harm you under any circumstances!",
         "pt": "[Nalandro]\nNada de mau acontecerá com vocês sob nenhuma circunstância!",
         "es": "[Lazy]\n¡Eso no los perjudicará de ninguna manera!"
     },
     "GyKhBw": {
-        "en": "[Lazy]\nThe adventurer approved by the royal family of Rune Midgard is together with us in this mission.",
+        "en": "[Leizi]\nThe adventurer approved by the royal family of Rune Midgard is together with us in this mission.",
         "pt": "[Nalandro]\nEssa pessoa foi aprovada pela família real de Rune-Midgard e está junto conosco nesta missão.",
         "es": "[Lazy]\nEl trotamundos aprobado por la familia real de Rune Midgarts está con nosotros en esta misión."
     },
     "HCKhBw": {
-        "en": "[Lazy]\nWith the cooperation of Schwartzwald President and Rune Midgard Kingdom, you can now use the power of the adventurer.",
+        "en": "[Leizi]\nWith the cooperation of Schwartzwald President and Rune Midgard Kingdom, you can now use the power of the adventurer.",
         "pt": "[Nalandro]\nCom a cooperação entre o Presidente de Schwartzwald e o Reino de Rune-Midgard, agora você tem o poder de um aventureiro.",
         "es": "[Lazy]\nCon la cooperación del presidente de Schwarzwald y del reino de Rune-Midgarts, ahora pueden contar con el poder del trotamundos."
     },
@@ -2730,7 +2730,7 @@
         "es": "Ya lo hicieron una vez. ¿Cómo podemos creer que no lo harán de nuevo?"
     },
     "IiKhBw": {
-        "en": "[Lazy]\nThis is your opportunity. Along with this cooperation, you can eliminate the dishonor!",
+        "en": "[Leizi]\nThis is your opportunity. Along with this cooperation, you can eliminate the dishonor!",
         "pt": "[Nalandro]\nEsta é sua chance. Com essa cooperação, vocês podem sair da desonra!",
         "es": "[Lazy]\n¡Esta es su oportunidad! ¡Si cooperan, recuperarán su honor!"
     },
@@ -2745,12 +2745,12 @@
         "es": "¿De qué demonios estás hablando?"
     },
     "JSKhBw": {
-        "en": "[Lazy]\nIf you cannot trust the President, please trust the adventurer and the royal family of Rune Midgard. They have already promised a full support.",
+        "en": "[Leizi]\nIf you cannot trust the President, please trust the adventurer and the royal family of Rune Midgard. They have already promised a full support.",
         "pt": "[Nalandro]\nSe vocês não confiam no Presidente, confiem no aventureiro e na família real de Rune-Midgard. Eles já prometeram total apoio.",
         "es": "[Lazy]\nSi no pueden confiar en el presidente, confíen en el trotamundos y en la familia real de Rune-Midgarts. Ya han prometido su apoyo total."
     },
     "JiKhBw": {
-        "en": "[Lazy]\nCome on, say somthing.",
+        "en": "[Leizi]\nCome on, say somthing.",
         "pt": "[Nalandro]\nVamos, digam alguma coisa.",
         "es": "[Lazy]\nVamos, digan algo."
     },
@@ -2795,12 +2795,12 @@
         "es": "No hagas ningún alboroto."
     },
     "LyKhBw": {
-        "en": "[Lazy]\nPlease, you can't leave like this...!!!",
+        "en": "[Leizi]\nPlease, you can't leave like this...!!!",
         "pt": "[Nalandro]\nPor favor, não podem ir embora assim!!!",
         "es": "[Lazy]\n¡Por favor, no pueden irse así…!"
     },
     "MCKhBw": {
-        "en": "[Lazy]\nHmm... I knew it would be difficult. But I'm surprised that they are not even listening to me.",
+        "en": "[Leizi]\nHmm... I knew it would be difficult. But I'm surprised that they are not even listening to me.",
         "pt": "[Nalandro]\nHmm... Eu sabia que seria difícil. Mas estou surpreso por eles nem ao menos terem me escutado.",
         "es": "[Lazy]\nHmm… Sabía que sería difícil. Pero me sorprende que ni siquiera me escuchen."
     },
@@ -2815,7 +2815,7 @@
         "es": "Parece que vivir molestos es su lema."
     },
     "MyKhBw": {
-        "en": "[Lazy]\nYour name is Rookie. Right?",
+        "en": "[Leizi]\nYour name is Rookie. Right?",
         "pt": "[Nalandro]\nSeu nome é Lukie. Certo?",
         "es": "[Lazy]\nTu nombre es Lukie. ¿cierto?"
     },
@@ -2830,7 +2830,7 @@
         "es": "Tienes una extraña costumbre."
     },
     "NiKhBw": {
-        "en": "[Lazy]\nSorry. I guess I made a wrong judgment. I should have collected more accurate information.",
+        "en": "[Leizi]\nSorry. I guess I made a wrong judgment. I should have collected more accurate information.",
         "pt": "[Nalandro]\nDesculpe. Acho que entendi errado. Deveria ter coletado informações mais precisas.",
         "es": "[Lazy]\nPerdón… supongo que los juzgué mal. Debería haber buscado información más precisa."
     },
@@ -2845,12 +2845,12 @@
         "es": "¿Dónde está tu confianza?"
     },
     "OSKhBw": {
-        "en": "[Lazy]\nBefore I came here, I knew people who were sitting here had the authority, but I now realize that it is a little different.",
+        "en": "[Leizi]\nBefore I came here, I knew people who were sitting here had the authority, but I now realize that it is a little different.",
         "pt": "[Nalandro]\nAntes de vir, eu conheci pessoas que acreditava terem autoridade aqui, mas agora percebo que as coisas são um pouco diferente.",
         "es": "[Lazy]\nAntes de venir aquí, sabía que las personas sentadas en este lugar tenían la autoridad, pero ahora me doy cuenta de que es un poco diferente."
     },
     "OiKhBw": {
-        "en": "[Lazy]\nUnless you live here, it's hard to find out who has the authority.",
+        "en": "[Leizi]\nUnless you live here, it's hard to find out who has the authority.",
         "pt": "[Nalandro]\nNão é possível saber quem tem autoridade a menos que você viva aqui.",
         "es": "[Lazy]\nSi no vives aquí, es difícil saber quién tiene realmente la autoridad."
     },
@@ -2865,22 +2865,22 @@
         "es": "Tengo muchas cosas que hacer."
     },
     "PSKhBw": {
-        "en": "[Lazy]\nRookie, please help us. If you think about it, you can tell that it's a win-win proposition. You don't want to hide yourself in this corner of the woods forever, do you?",
+        "en": "[Leizi]\nRookie, please help us. If you think about it, you can tell that it's a win-win proposition. You don't want to hide yourself in this corner of the woods forever, do you?",
         "pt": "[Nalandro]\nLukie, por favor, nos ajude. Se pensar bem, perceberá que não há o que perder com essa proposta. Você não quer ficar se escondendo no meio do mato para sempre, quer?",
         "es": "[Lazy]\nLukie, ayúdanos. verás que es una propuesta en la que todos ganamos. No querrás esconderte para siempre en este rincón del bosque, ¿verdad?"
     },
     "PiKhBw": {
-        "en": "[Lazy]\nYou know that this is the opportunity to take advantage of the government's support and compassion for you. It will provide better fundamentals for Rebellions.",
+        "en": "[Leizi]\nYou know that this is the opportunity to take advantage of the government's support and compassion for you. It will provide better fundamentals for Rebellions.",
         "pt": "[Nalandro]\nSabe que essa é uma oportunidade de aproveitar o apoio e a compaixão do governo por vocês. Isso dará mais força aos Insurgentes.",
         "es": "[Lazy]\nSabes que esta es la oportunidad de aprovechar el apoyo y la compasión que te está ofreciendo el gobierno. Eso les dará una mejor base para la Rebelión."
     },
     "PyKhBw": {
-        "en": "[Lazy]\nIf this works well. you'll be free to work in Schwartzwald and Rune Midgard.",
+        "en": "[Leizi]\nIf this works well. you'll be free to work in Schwartzwald and Rune Midgard.",
         "pt": "[Nalandro]\nSe tudo correr bem, vocês serão livres para trabalhar em Schwartzwald e Rune-Midgard.",
         "es": "[Lazy]\nSi esto sale bien, podrás trabajar en Schwarzwald y Rune-Midgarts."
     },
     "QCKhBw": {
-        "en": "[Lazy]\nLook at this place. It's just a tiny shop. Can you call it headquarters? Don't you want to reclaim your glory?",
+        "en": "[Leizi]\nLook at this place. It's just a tiny shop. Can you call it headquarters? Don't you want to reclaim your glory?",
         "pt": "[Nalandro]\nOlhe para este lugar. É apenas uma loja minúscula. Chama isso de quartel-general? Você não gostaria de reconquistar sua glória?",
         "es": "[Lazy]\nMira este lugar. Es solo una tiendita. ¿Puedes llamarla un cuartel general? ¿No quieres recuperar tu gloria?"
     },
@@ -2900,7 +2900,7 @@
         "es": "Aunque no estuve directamente implicado en eso, tampoco quiero ayudarte."
     },
     "RCKhBw": {
-        "en": "[Lazy]\nThat's why I am asking for your help. I guess you can change their mind by persuading them.",
+        "en": "[Leizi]\nThat's why I am asking for your help. I guess you can change their mind by persuading them.",
         "pt": "[Nalandro]\nÉ por isso que estou pedindo sua ajuda. Acho que você pode convencê-los.",
         "es": "[Lazy]\nPor eso, te pido ayuda. Supongo que puedes persuadirlos para que cambien de opinión."
     },
@@ -2925,7 +2925,7 @@
         "es": "Jajaja. Tienes un gran sentido del humor. Jajaja."
     },
     "SSKhBw": {
-        "en": "[Lazy]\nIn every place, there is a hidden key person who moves the whole group even though you cannot that person easily. Here, it's you.",
+        "en": "[Leizi]\nIn every place, there is a hidden key person who moves the whole group even though you cannot that person easily. Here, it's you.",
         "pt": "[Nalandro]\nEm qualquer lugar, sempre há uma pessoa importante que move todo o grupo em segredo, mesmo que não seja fácil encontrá-la. Aqui, é você.",
         "es": "[Lazy]\nEn todos los lugares hay una persona clave oculta que mueve a todo el grupo, aunque no se note fácilmente. Aquí, esa persona eres tú."
     },
@@ -2935,12 +2935,12 @@
         "es": "[Lukie]\nBueno… creo que me estás sobrevalorando. Ellos me ven como alguien sin importancia aquí. No me asignan misiones importantes. Todo lo que hago son mandados y limpieza. ¿De verdad crees que soy una persona clave?"
     },
     "SyKhBw": {
-        "en": "[Lazy]\nNo, no. That's not what I am talking about. Normally they call it a mood maker.",
+        "en": "[Leizi]\nNo, no. That's not what I am talking about. Normally they call it a mood maker.",
         "pt": "[Nalandro]\nNão, não. Não é disso que estou falando. Normalmente, é alguém capaz de criar uma atmosfera de segurança.",
         "es": "[Lazy]\nNo, no. No me refiero a eso. Normalmente a eso se le llama ‘el que anima el ambiente’."
     },
     "TCKhBw": {
-        "en": "[Lazy]\nA while ago, you convinced the old men to listen to me. That's what I am talking about. You have such abilities.",
+        "en": "[Leizi]\nA while ago, you convinced the old men to listen to me. That's what I am talking about. You have such abilities.",
         "pt": "[Nalandro]\nHá pouco, você convenceu aqueles velhos a me ouvirem. É disso que estou falando. Você tem essa habilidade.",
         "es": "[Lazy]\nHace un rato, convenciste a los viejos para que me escucharan. A eso me refiero. Tienes esas habilidades."
     },
@@ -2955,7 +2955,7 @@
         "es": "[Lukie]\nNo sé a qué te refieres con 'esas habilidades'. Pero supongo que ya no tienes nada de que hablar. Los veteranos ya se fueron."
     },
     "TyKhBw": {
-        "en": "[Lazy]\nThat's why I'm trying to help you. Please convince others.",
+        "en": "[Leizi]\nThat's why I'm trying to help you. Please convince others.",
         "pt": "[Nalandro]\nÉ por isso que estou tentando te ajudar. Por favor, convença os outros.",
         "es": "[Lazy]\nPor eso intento ayudarte. Por favor, convence a los demás."
     },
@@ -2975,12 +2975,12 @@
         "es": "[Lukie]\nPara ti, puede ser una cuestión de cooperación. Pero, para nosotros, es una cuestión de supervivencia."
     },
     "UyKhBw": {
-        "en": "[Lazy]\nPlease. We are also desperate. The fates of the royal family and another country are in danger.",
+        "en": "[Leizi]\nPlease. We are also desperate. The fates of the royal family and another country are in danger.",
         "pt": "[Nalandro]\nPor favor. Também estamos desesperados. O destino de uma família real e de um país estão em jogo.",
         "es": "[Lazy]\nPor favor. Nosotros también estamos desesperados. El destino de la familia real y de un país está en peligro."
     },
     "VCKhBw": {
-        "en": "[Lazy]\nBut if you help us, we can sort it out. That's something only you can do. We really need your help.",
+        "en": "[Leizi]\nBut if you help us, we can sort it out. That's something only you can do. We really need your help.",
         "pt": "[Nalandro]\nMas, se nos ajudar, poderemos resolver tudo. Isso é algo que apenas vocês podem fazer. Precisamos muito da sua ajuda.",
         "es": "[Lazy]\nPero, si nos ayudas, podemos solucionarlo. Eso es algo que solo tú puedes hacer. Realmente, necesitamos tu ayuda."
     },
@@ -2990,7 +2990,7 @@
         "es": "[Lukie]\nSi realmente necesitas ayuda, busquen a otra persona."
     },
     "ViKhBw": {
-        "en": "[Lazy]\nYou are as cold as ice. How merciless. Please show some mercy and help us.",
+        "en": "[Leizi]\nYou are as cold as ice. How merciless. Please show some mercy and help us.",
         "pt": "[Nalandro]\nVocê é frio como gelo. Quanta crueldade. Por favor, tenha piedade e nos ajude.",
         "es": "[Lazy]\nEres tan frío como el hielo. Qué despiadado. Por favor, muestra un poco de compasión y ayúdanos."
     },
@@ -3025,7 +3025,7 @@
         "es": "[Lukie]\nSi los convences, la opinión pública cambiará. Y, una vez que cambie, ¿qué podrán hacer los ancianos?"
     },
     "XSKhBw": {
-        "en": "[Lazy]\nThank you. I prefer those who are wise and smart like you.",
+        "en": "[Leizi]\nThank you. I prefer those who are wise and smart like you.",
         "pt": "[Nalandro]\nObrigado. Prefiro aqueles que são sábios e inteligentes, como você.",
         "es": "[Lazy]\nGracias. Prefiero a las personas sabias e inteligentes como tú."
     },
@@ -3045,7 +3045,7 @@
         "es": "Seremos competitivos en cualquier lugar."
     },
     "YSKhBw": {
-        "en": "[Lazy]\nAdventurer, it's time for you to take an action. Please persuade them.",
+        "en": "[Leizi]\nAdventurer, it's time for you to take an action. Please persuade them.",
         "pt": "[Nalandro]\nHora de você agir. Convença-os.",
         "es": "[Lazy]\nTrotamundos, es hora de que tomes acción. Por favor, convéncelos."
     },
@@ -3055,7 +3055,7 @@
         "es": "[{0}]\n¿Debería?"
     },
     "YyKhBw": {
-        "en": "[Lazy]\nDid you seen the response from the seniors? Once I introduce myself, they might shoot at me make dozens of holes in my body.",
+        "en": "[Leizi]\nDid you seen the response from the seniors? Once I introduce myself, they might shoot at me make dozens of holes in my body.",
         "pt": "[Nalandro]\nVocê viu a resposta dos veteranos? Se eu aparecer, eles podem me encher de balas.",
         "es": "[Lazy]\n¿Viste la reacción de los veteranos? Si me presento, podrían dispararme y hacer decenas de agujeros en mi cuerpo."
     },
@@ -3075,7 +3075,7 @@
         "es": "Lo digo en serio. Ni te imaginas los nervios que tenía."
     },
     "ZyKhBw": {
-        "en": "[Lazy]\nSince those seniors were relatively rational, we are alive and talking like this. If only there was one person with a short-temper... Phew...",
+        "en": "[Leizi]\nSince those seniors were relatively rational, we are alive and talking like this. If only there was one person with a short-temper... Phew...",
         "pt": "[Nalandro]\nComo aqueles veteranos foram minimamente racionais, ainda estamos vivos e conversando. Se houvesse uma única pessoa de pavio curto... Ai, ai...",
         "es": "[Lazy]\nSi esos veteranos fueran menos racionales, no estaríamos vivos ni hablando así. Si tan solo hubiera habido alguien de mal genio… Puf…"
     },
@@ -3085,7 +3085,7 @@
         "es": "Así es. Tienes suerte de que la persona de verdadero mal genio esté en el piso de arriba ahora."
     },
     "aSKhBw": {
-        "en": "[Lazy]\nAdventurer. You are a symbol of faith. Please go and show them your faith. That will take care of everything. Did you see what I did a moment ago? Do as I did.",
+        "en": "[Leizi]\nAdventurer. You are a symbol of faith. Please go and show them your faith. That will take care of everything. Did you see what I did a moment ago? Do as I did.",
         "pt": "[Nalandro]\nViajante. Você é um símbolo de fé. Por favor, vá até lá e mostre isso a eles. Isso resolverá tudo. Viu o que eu fiz agora há pouco? Faça o mesmo.",
         "es": "[Lazy]\nTrotamundos. Eres un símbolo de fe. Por favor, ve y demuéstrales eso. Con eso, solucionaremos todo. ¿Viste lo que hice hace un momento? Haz lo mismo que yo."
     },
@@ -3145,7 +3145,7 @@
         "es": "Espero que no termines con un agujero en la cabeza…"
     },
     "dSKhBw": {
-        "en": "[Lazy]\nAdventurer, good luck! I will be talking to Rookie. Cheer up.",
+        "en": "[Leizi]\nAdventurer, good luck! I will be talking to Rookie. Cheer up.",
         "pt": "[Nalandro]\nBoa sorte! Continuarei conversando com Lukie. Anime-se.",
         "es": "[Lazy]\nTrotamundos, ¡buena suerte! Hablaré con Lukie. Anímate."
     },
@@ -3155,7 +3155,7 @@
         "es": "¡Vuelve con vida!"
     },
     "dyKhBw": {
-        "en": "[Lazy]\nYou're back! So, have you met them? Are they going to help us?",
+        "en": "[Leizi]\nYou're back! So, have you met them? Are they going to help us?",
         "pt": "[Nalandro]\nVocê voltou! Então encontrou eles? Vão nos ajudar?",
         "es": "[Lazy]\n¡Volviste! ¿Te reuniste con ellos? ¿Nos ayudarán?"
     },
@@ -3165,12 +3165,12 @@
         "es": "[{0}]\nSí… Pasaron varias cosas, pero no necesariamente malas."
     },
     "eSKhBw": {
-        "en": "[Lazy]\nNo wonder you are a symbol of faith!! Now, we can wait for seniors and staffs. Right?",
+        "en": "[Leizi]\nNo wonder you are a symbol of faith!! Now, we can wait for seniors and staffs. Right?",
         "pt": "[Nalandro]\nVocê não é um símbolo de fé à toa! Agora, podemos esperar pelos veteranos e outros membros. Certo?",
         "es": "[Lazy]\n¡No me extraña que seas un símbolo de fe! Ahora podemos esperar a los ancianos y demás miembros, ¿no?"
     },
     "eiKhBw": {
-        "en": "[Lazy]\nCome on. Sit here and listen to Rookie's story. It's so interesting.",
+        "en": "[Leizi]\nCome on. Sit here and listen to Rookie's story. It's so interesting.",
         "pt": "[Nalandro]\nVenha. Sente-se e escute a história de Lukie. É muito interessante.",
         "es": "[Lazy]\nVamos. Siéntate aquí y escucha la historia de Lukie. Es muy interesante."
     },
@@ -3180,7 +3180,7 @@
         "es": "Sé que hablaste mucho y que perdiste mucho líquido. Bebe un poco de té."
     },
     "fCKhBw": {
-        "en": "[Lazy]\nSo, why did you leave your home?",
+        "en": "[Leizi]\nSo, why did you leave your home?",
         "pt": "[Nalandro]\nEntão por que você deixou seu lar?",
         "es": "[Lazy]\nEntonces, ¿por qué te fuiste de tu hogar?"
     },
@@ -3205,7 +3205,7 @@
         "es": "[Lukie]\nNormalmente, usan el hierro que se extrae de las minas. Pero, como no alcanza para satisfacer la demanda, también se consume mucho hierro usado. Nuestra familia compraba hierro y lo revendía."
     },
     "gSKhBw": {
-        "en": "[Lazy]\nAnd you were not able to help them?",
+        "en": "[Leizi]\nAnd you were not able to help them?",
         "pt": "[Nalandro]\nE você não podia ajudá-los?",
         "es": "[Lazy]\n¿Y no pudiste ayudarlos?"
     },
@@ -3220,7 +3220,7 @@
         "es": "[Lukie]\nMis hermanos ayudaron a mis padres. Como ven, soy muy pequeño y solía enfermarme a menudo cuando era niño"
     },
     "hCKhBw": {
-        "en": "[Lazy]\nOh, so they regarded you as a useless kid?",
+        "en": "[Leizi]\nOh, so they regarded you as a useless kid?",
         "pt": "[Nalandro]\nAh, então te consideravam uma criança inútil?",
         "es": "[Lazy]\n¿Así que te consideraban un niño inútil?"
     },
@@ -3235,7 +3235,7 @@
         "es": "[Lukie]\nNo tenía otra opción."
     },
     "hyKhBw": {
-        "en": "[Lazy]\nI don't agree with you. Everyone has different ability and you must be good at something. You just didn't find it earlier. Anyway, what happened next?",
+        "en": "[Leizi]\nI don't agree with you. Everyone has different ability and you must be good at something. You just didn't find it earlier. Anyway, what happened next?",
         "pt": "[Nalandro]\nDiscordo de você. Todos têm uma habilidade, e você deve ser bom em alguma coisa. Só não descobriu ainda. Enfim, o que aconteceu depois?",
         "es": "[Lazy]\nNo estoy de acuerdo. Cada uno tiene habilidades diferentes y seguro que tú eres bueno en algo. Simplemente no lo descubriste antes. En fin, ¿qué pasó después?"
     },
@@ -3245,7 +3245,7 @@
         "es": "[Lukie]\nComo mi familia me ignoraba, decidí irme de mi hogar para encontrar algo que pudiera hacer bien."
     },
     "iSKhBw": {
-        "en": "[Lazy]\nWell done. If you stayed there, you would have become such a useless person.",
+        "en": "[Leizi]\nWell done. If you stayed there, you would have become such a useless person.",
         "pt": "[Nalandro]\nMuito bem. Se tivesse continuado lá, teria se tornado um inútil.",
         "es": "[Lazy]\nBien hecho. Si te hubieras quedado allí, te habrías convertido en un inútil."
     },
@@ -3255,17 +3255,17 @@
         "es": "Eres muy inteligente y sabio."
     },
     "iyKhBw": {
-        "en": "[Rookie]\nThen I met Gonie and came here. But I found that there's nothing I could do here as well.",
+        "en": "[Rookie]\nThen I met Gony and came here. But I found that there's nothing I could do here as well.",
         "pt": "[Lukie]\nEntão encontrei Gonie e vim para cá. Mas descobri que não podia fazer nada aqui também.",
         "es": "[Lukie]\nLuego, conocí a Gonie y vine aquí. Pero descubrí que aquí tampoco podía hacer nada."
     },
     "jCKhBw": {
-        "en": "Gonie? The guy who was bloody?",
+        "en": "Gony? The guy who was bloody?",
         "pt": "Gonie? O cara ensanguentado?",
         "es": "¿Gonie? ¿El tipo que estaba lleno de sangre?"
     },
     "jSKhBw": {
-        "en": "[Lazy]\nEveryone is a monster here. Look at Gonie. He was bleeding and almost dead. But He was still alive. The truth is that other guys are extraordinary and you are normal.",
+        "en": "[Leizi]\nEveryone is a monster here. Look at Gony. He was bleeding and almost dead. But He was still alive. The truth is that other guys are extraordinary and you are normal.",
         "pt": "[Nalandro]\nTodos aqui são monstros. Olhe para Gonie. Ele estava sangrando e à beira da morte. Mas ainda estava vivo. A verdade é que outras pessoas são extraordinárias, e você é normal.",
         "es": "[Lazy]\nAquí todo el mundo es un monstruo. Mira a Gonie. Estaba sangrando y casi muerto. Pero seguía vivo. La verdad es que los demás son extraordinarios y tú eres normal."
     },
@@ -3285,7 +3285,7 @@
         "es": "Supongo que sí. No tengo problemas cuando entreno."
     },
     "kSKhBw": {
-        "en": "[Lazy]\nSo you are in charge of the housekeeping here?",
+        "en": "[Leizi]\nSo you are in charge of the housekeeping here?",
         "pt": "[Nalandro]\nEntão você faz o serviço doméstico por aqui?",
         "es": "[Lazy]\n¿Así que tú te encargas de las tareas domésticas aquí?"
     },
@@ -3400,7 +3400,7 @@
         "es": "Sácalos."
     },
     "qCKhBw": {
-        "en": "[Rookie]\nGonie?",
+        "en": "[Rookie]\nGony?",
         "pt": "[Lukie]\nGonie?",
         "es": "[Lukie]\n¿Gonie?"
     },
@@ -3425,7 +3425,7 @@
         "es": "[Lukie]\nPor favor…"
     },
     "rSKhBw": {
-        "en": "[Lazy]\nDid you hear that? He is in the middle of a silent meditation. How spiteful!",
+        "en": "[Leizi]\nDid you hear that? He is in the middle of a silent meditation. How spiteful!",
         "pt": "[Nalandro]\nOuviu isso? Ele está no meio de uma meditação silenciosa. Quanto rancor!",
         "es": "[Lazy]\n¿Escuchaste eso? Está en medio de una meditación silenciosa. ¡Cuánto resentimiento!"
     },
@@ -3440,7 +3440,7 @@
         "es": "[{0}]\nSilencio. Lo oigo todo."
     },
     "sCKhBw": {
-        "en": "[Rookie]\n... Gonie says we have to pay for the favor they did to him.",
+        "en": "[Rookie]\n... Gony says we have to pay for the favor they did to him.",
         "pt": "[Lukie]\n... Gonie disse para retribuirmos o favor que fizeram a ele.",
         "es": "[Lukie]\n… Gonie dice que tenemos que pagar por el favor que le hicieron."
     },
@@ -3470,7 +3470,7 @@
         "es": "¡No le digan a nadie que son miembros de la Rebelión!"
     },
     "tiKhBw": {
-        "en": "[Lazy]\nDid you hear that? They are so cool.",
+        "en": "[Leizi]\nDid you hear that? They are so cool.",
         "pt": "[Nalandro]\nOuviu isso? Eles são tão legais.",
         "es": "[Lazy]\n¿Escuchaste eso? Son geniales."
     },
@@ -3540,7 +3540,7 @@
         "es": "[Lukie]\nY parece que la mayoría estamos de acuerdo. No creo que ocurra nada bueno si sigues en contra."
     },
     "xCKhBw": {
-        "en": "[Lazy]\nPhew... Sir, what would you do now? Hehe.",
+        "en": "[Leizi]\nPhew... Sir, what would you do now? Hehe.",
         "pt": "[Nalandro]\nAi, ai... Senhor, o que vai fazer agora? Hehe.",
         "es": "[Lazy]\nFiu… Señor, ¿qué hará ahora? Je, je."
     },
@@ -3580,7 +3580,7 @@
         "es": "[Veterano]\n¡Pero nunca confiaré en ustedes! ¡Tendré los ojos puestos en ustedes!"
     },
     "zCKhBw": {
-        "en": "[Lazy]\nOh, what a passionate propose. I've never had anything like this in my life. I feel a little shy.",
+        "en": "[Leizi]\nOh, what a passionate propose. I've never had anything like this in my life. I feel a little shy.",
         "pt": "[Nalandro]\nNossa, quanta determinação. Nunca tive nada parecido. Estou um pouco envergonhado.",
         "es": "[Lazy]\nQué propuesta tan apasionada. Nunca me han dicho algo así en mi vida. Me da vergüenza."
     },
@@ -3615,7 +3615,7 @@
         "es": "[Lukie]\nSí. Déjame manejar este lugar. Entra y prepárate."
     },
     "0yKhBw": {
-        "en": "[Lazy]\nI've never imagined that this would be done so perfectly. I owe you for this. Thanks.",
+        "en": "[Leizi]\nI've never imagined that this would be done so perfectly. I owe you for this. Thanks.",
         "pt": "[Nalandro]\nNão esperava que isso acabaria tão bem. Estou em dívida com você. Obrigado.",
         "es": "[Lazy]\nNunca imaginé que esto se haría con tanta perfección. Te debo un favor. Gracias."
     },
@@ -3625,7 +3625,7 @@
         "es": "La felicidad siempre está conmigo."
     },
     "1SKhBw": {
-        "en": "[Lazy]\nPlease go and send them a message. Tell them 'The Heron spread its wings' and they will understand.",
+        "en": "[Leizi]\nPlease go and send them a message. Tell them 'The Heron spread its wings' and they will understand.",
         "pt": "[Nalandro]\nPor favor, vá e envie uma mensagem. Diga que 'A Garça abriu suas asas' e eles entenderão tudo.",
         "es": "[Lazy]\nPor favor, ve y envíales un mensaje. Diles “La garza desplegó sus alas” y lo entenderán."
     },
@@ -3645,7 +3645,7 @@
         "es": "[{0}]\n¿Debería ir por mi cuenta? ¿No tienes que enviar el mensaje directamente?"
     },
     "2SKhBw": {
-        "en": "[Lazy]\nI am staying here. Hahaha. I really like this fellow and we can work together.",
+        "en": "[Leizi]\nI am staying here. Hahaha. I really like this fellow and we can work together.",
         "pt": "[Nalandro]\nVou ficar aqui. Hahaha. Eu gosto desse sujeito, e podemos trabalhar juntos.",
         "es": "[Lazy]\nMe quedo aquí. Ja, ja, ja. Me agrada mucho este tipo y podemos trabajar juntos."
     },
@@ -3660,27 +3660,27 @@
         "es": "[Lukie]\n¿Trabajar conmigo? No creo que pueda hacer nada útil por ti."
     },
     "3CKhBw": {
-        "en": "[Lazy]\nExactly. That's something you should change. Self-confidence. In your case, the lack of confidence caused the lack of self-confidence.",
+        "en": "[Leizi]\nExactly. That's something you should change. Self-confidence. In your case, the lack of confidence caused the lack of self-confidence.",
         "pt": "[Nalandro]\nExatamente. Você precisa mudar isso. Autoconfiança. No seu caso, falta de autoconfiança.",
         "es": "[Lazy]\nExactamente. Eso es algo que deberías cambiar. La confianza en uno mismo. En tu caso, es un problema de falta de confianza."
     },
     "3SKhBw": {
-        "en": "[Lazy]\nConfidence can be obtained by yourself, through an achievement or by being approved by someone else a person. It's impossible here. This place is like a suit that does not fit for you.",
+        "en": "[Leizi]\nConfidence can be obtained by yourself, through an achievement or by being approved by someone else a person. It's impossible here. This place is like a suit that does not fit for you.",
         "pt": "[Nalandro]\nConfiança pode ser adquirida individualmente, por meio de uma conquista ou da aprovação de outra pessoa. Aqui, isso é impossível. Esse lugar é como uma bota que não cabe no pé.",
         "es": "[Lazy]\nLa confianza la puedes obtener tú mismo a través de un logro o por la aprobación de otra persona. Aquí es imposible. Este lugar es como un traje que no te queda bien."
     },
     "3iKhBw": {
-        "en": "[Lazy]\nAs long as there is just one person who trusts you, you can grow to infinity.",
+        "en": "[Leizi]\nAs long as there is just one person who trusts you, you can grow to infinity.",
         "pt": "[Nalandro]\nSe ao menos uma pessoa confiar em você, seu crescimento será infinito.",
         "es": "[Lazy]\nMientras haya una sola persona que confíe en ti, podrás crecer hasta el infinito."
     },
     "3yKhBw": {
-        "en": "[Lazy]\nYou may not have realized it. But you are already doing it to everyone here. They all counting on you. Just trust yourself a little more.",
+        "en": "[Leizi]\nYou may not have realized it. But you are already doing it to everyone here. They all counting on you. Just trust yourself a little more.",
         "pt": "[Nalandro]\nTalvez você ainda não tenha percebido. Mas já está fazendo isso com todos aqui. Todos aqui dependem de você. Tenha mais confiança em si mesmo.",
         "es": "[Lazy]\nQuizá no te hayas dado cuenta. Pero ya lo estás haciendo con todo el mundo aquí. Todos cuentan contigo. Confía un poco más en ti mismo."
     },
     "4CKhBw": {
-        "en": "[Lazy]\nIf you don't get it, trust me. Because I trust you.",
+        "en": "[Leizi]\nIf you don't get it, trust me. Because I trust you.",
         "pt": "[Nalandro]\nSe não entendeu, confie em mim. Porque eu confio em você.",
         "es": "[Lazy]\nSi no lo entiendes, confía en mí. Porque yo confío en ti."
     },
@@ -3690,22 +3690,22 @@
         "es": "Esto se llama “confianza infinita”."
     },
     "4iKhBw": {
-        "en": "[Lazy]\nNow the generation has shifted. Today is the last day for the old generation and the first day for the new generation. And you are the link.",
+        "en": "[Leizi]\nNow the generation has shifted. Today is the last day for the old generation and the first day for the new generation. And you are the link.",
         "pt": "[Nalandro]\nAgora, a era se transformou. Hoje é o último dia da antiga era, e o primeiro da nova. E você é o elo.",
         "es": "[Lazy]\nAhora la generación ha cambiado. Hoy es el último día para la vieja generación y el primero para la nueva. Y tú eres la conexión."
     },
     "4yKhBw": {
-        "en": "[Lazy]\nYou're too good to waste your talent here.",
+        "en": "[Leizi]\nYou're too good to waste your talent here.",
         "pt": "[Nalandro]\nVocê é bom demais para desperdiçar seu talento aqui.",
         "es": "[Lazy]\nEres demasiado bueno para desperdiciar tu talento aquí."
     },
     "5CKhBw": {
-        "en": "[Lazy]\nFirst, you had the ability to find out that I had a certain purpose. You were also able to find out what's helpful for Rebellions. Then you had the guts to implement it. You also have the humanity...",
+        "en": "[Leizi]\nFirst, you had the ability to find out that I had a certain purpose. You were also able to find out what's helpful for Rebellions. Then you had the guts to implement it. You also have the humanity...",
         "pt": "[Nalandro]\nPrimeiro, você foi capaz de descobrir que eu tinha um propósito. Você também conseguiu descobrir o que é útil para Insurgentes. Em seguida, você teve a coragem de implementar sua descoberta. Você também tem humanidade...",
         "es": "[Lazy]\nEn primer lugar, pudiste darte cuenta de que yo tenía un propósito específico. También lograste descubrir qué es útil para la Rebelión. Luego, tuviste el valor de ponerlo en práctica. También tienes un lado humano…"
     },
     "5SKhBw": {
-        "en": "[Lazy]\nJust a little polishing will help you spread your wings. You're supposed to use your brain. Why do you suffer by working physically?",
+        "en": "[Leizi]\nJust a little polishing will help you spread your wings. You're supposed to use your brain. Why do you suffer by working physically?",
         "pt": "[Nalandro]\nBasta um pouco de prática para você abrir suas asas. Você deveria estar usando sua inteligência. Por que sofre fazendo trabalho manual?",
         "es": "[Lazy]\nSolo hace falta pulir algunos detalles y podrás desplegar tus alas. Se supone que debes usar el cerebro. ¿Por qué sufres trabajando físicamente?"
     },
@@ -3720,7 +3720,7 @@
         "es": "Estrictamente hablando, no. Pero digamos que es similar."
     },
     "6CKhBw": {
-        "en": "[Lazy]\nIf you want, I can help you. What do you think? I need a partner and I'm sure we can make a great duo.",
+        "en": "[Leizi]\nIf you want, I can help you. What do you think? I need a partner and I'm sure we can make a great duo.",
         "pt": "[Nalandro]\nSe quiser, posso ajudar. O que você acha? Preciso de um parceiro, e tenho certeza de que faremos uma ótima dupla.",
         "es": "[Lazy]\nSi quieres, puedo ayudarte. ¿Qué opinas? Necesito un compañero y estoy seguro de que podemos hacer un gran dúo."
     },
@@ -3740,7 +3740,7 @@
         "es": "[Lukie]\n¿Podrías explicármelo con detalle?"
     },
     "7CKhBw": {
-        "en": "[Lazy]\nSure. I have plenty of time. By the way, is it okay for me to stay here continuously?",
+        "en": "[Leizi]\nSure. I have plenty of time. By the way, is it okay for me to stay here continuously?",
         "pt": "[Nalandro]\nClaro. Tenho bastante tempo. Aliás, tem algum problema se eu ficar por aqui?",
         "es": "[Lazy]\nClaro. Tengo tiempo de sobra. Por cierto, ¿está bien que me quede aquí permanentemente?"
     },
@@ -3760,7 +3760,7 @@
         "es": "[{0}]\n¿No crees que está mal reclutarlo así, delante de otras personas?"
     },
     "8CKhBw": {
-        "en": "[Lazy]\nIs there anything wrong with it? You have this talented guy but you are not utilizing his ability. Are you? He's so talented!",
+        "en": "[Leizi]\nIs there anything wrong with it? You have this talented guy but you are not utilizing his ability. Are you? He's so talented!",
         "pt": "[Nalandro]\nO que há de errado nisso? Tanto talento, e ninguém usa suas habilidades. Usa? Ele é tão talentoso!",
         "es": "[Lazy]\n¿Qué tiene de malo? ¡Tiene tanto talento y nadie lo aprovecha! ¿O sí? ¡Es tan talentoso!"
     },
@@ -3775,7 +3775,7 @@
         "es": "¿Ya?"
     },
     "8yKhBw": {
-        "en": "[Lazy]\nWhat did he say?",
+        "en": "[Leizi]\nWhat did he say?",
         "pt": "[Nalandro]\nO que ele disse?",
         "es": "[Lazy]\n¿Qué dijo?"
     },
@@ -3795,7 +3795,7 @@
         "es": "[{0}]\nSí. Me reuniré con esa persona y la escucharé."
     },
     "9yKhBw": {
-        "en": "[Lazy]\nAdventurer, I need to have a long talk from now on. So I'm counting on you. When you go there, don't forget to use that place. I mean 'that place'.",
+        "en": "[Leizi]\nAdventurer, I need to have a long talk from now on. So I'm counting on you. When you go there, don't forget to use that place. I mean 'that place'.",
         "pt": "[Nalandro]\nPreciso ter uma longa conversa agora. Então conto com você. Quando for lá, não esqueça de usar aquele lugar. Quero dizer 'aquele lugar'.",
         "es": "[Lazy]\nTrotamundos, necesito tener una larga charla a partir de ahora. Así que cuento contigo. Cuando vayas, no olvides visitar ese lugar. Me refiero a “ese lugar”."
     },
@@ -3805,7 +3805,7 @@
         "es": "[{0}]\n¿Perdón? Ya veo… Hasta luego."
     },
     "+SKhBw": {
-        "en": "[Lazy]\nYikes! Wait a minute! I almost forgot. This is the reward specially prepared for this mission. I am giving all of them to you. You can exchange this with something useful.",
+        "en": "[Leizi]\nYikes! Wait a minute! I almost forgot. This is the reward specially prepared for this mission. I am giving all of them to you. You can exchange this with something useful.",
         "pt": "[Nalandro]\nCaramba! Espere um minuto! Eu quase esqueci. Esta é a recompensa preparada especialmente para essa missão. Estou entregando tudo a você. Você pode trocar isso por algo útil.",
         "es": "[Lazy]\n¡Vaya! ¡Espera un momento! Casi lo olvido. Este es el premio, preparado especialmente para esta misión. Te doy todo a ti. Puedes cambiarlo por algo útil."
     },
@@ -3815,12 +3815,12 @@
         "es": "[{0}]\n¿Escudo de Honor?"
     },
     "+yKhBw": {
-        "en": "[Lazy]\nSeems like the dull middle-aged person standing beside the stairs receives the tokens. His name is Strasse. If you are interested, go.",
+        "en": "[Leizi]\nSeems like the dull middle-aged person standing beside the stairs receives the tokens. His name is Strasse. If you are interested, go.",
         "pt": "[Nalandro]\nParece que a pessoa de meia-idade que fica ao lado das escadas recebe os Brasões. O nome dele é Strasse. Se isso te interessar, vá.",
         "es": "[Lazy]\nParece que el joven aburrido que está junto a las escaleras recibe las muestras. Se llama Strasse. Si te interesa, ve."
     },
     "/CKhBw": {
-        "en": "[Lazy]\nI gave you everything. Bye now. Say hello to the President!!",
+        "en": "[Leizi]\nI gave you everything. Bye now. Say hello to the President!!",
         "pt": "[Nalandro]\nJá entreguei tudo a você. Adeus. Diga oi para o Presidente por mim!",
         "es": "[Lazy]\nTe di todo. Adiós. ¡Saluda al presidente!"
     },
@@ -3835,17 +3835,17 @@
         "es": "Vuelve a visitarnos, trotamundos."
     },
     "/yKhBw": {
-        "en": "[Lazy]\nAdventurer! How was it? You met all of them and persuaded them? Not yet? I guess not. If you go to the 2nd floor, you can meet all of them.",
+        "en": "[Leizi]\nAdventurer! How was it? You met all of them and persuaded them? Not yet? I guess not. If you go to the 2nd floor, you can meet all of them.",
         "pt": "[Nalandro]\nAventureiro! Como foi? Encontrou todos e os convenceu? Ainda não? Acho que não. Se for até o 2º andar, encontrará todos eles.",
         "es": "[Lazy]\n¡Trotamundos! ¿Cómo te fue? ¿Te reuniste con todos y los convenciste? ¿Todavía no? Supongo que no. Si vas al segundo piso, podrás conocerlos a todos."
     },
     "ACOhBw": {
-        "en": "[Lazy]\nI will be cheering for you. Go, adventurer!",
+        "en": "[Leizi]\nI will be cheering for you. Go, adventurer!",
         "pt": "[Nalandro]\nEstou torcendo por você. Agora vá!",
         "es": "[Lazy]\nTe estaré animando. ¡Vamos, trotamundos!"
     },
     "ASOhBw": {
-        "en": "[Lazy]\nYo! Welcome! Do you want a cup of tea? Did you send the message properly?",
+        "en": "[Leizi]\nYo! Welcome! Do you want a cup of tea? Did you send the message properly?",
         "pt": "[Nalandro]\nE aí! Boas-vindas! Gostaria de uma xícara de chá? Você entregou a mensagem direito?",
         "es": "[Lazy]\n¡Oye! ¡Llegaste! ¿Quieres una taza de té? ¿Enviaste el mensaje correctamente?"
     },
@@ -3885,7 +3885,7 @@
         "es": "[Lukie]\nAunque dan bastante miedo… son todos buena gente."
     },
     "CSOhBw": {
-        "en": "[Rookie]\nDon't you have to report to Lazy now?",
+        "en": "[Rookie]\nDon't you have to report to Leizi now?",
         "pt": "[Lukie]\nVocê não precisa ir falar com Nalandro agora?",
         "es": "[Lukie]\n¿No tienes que informar a Lazy ahora?"
     },
@@ -5245,7 +5245,7 @@
         "es": "[{0}]\nLukie, ¿cómo has estado?"
     },
     "GSShBw": {
-        "en": "[Rookie]\nAdventurer, how was your business? Lazy told me that I could fully trust you.",
+        "en": "[Rookie]\nAdventurer, how was your business? Leizi told me that I could fully trust you.",
         "pt": "[Lukie]\nViajante, como foram seus negócios? Nalandro disse que posso confiar totalmente em você.",
         "es": "[Lukie]\nTrotamundos, ¿qué tal? Lazy me dijo que podía confiar plenamente en ti."
     },
@@ -5265,12 +5265,12 @@
         "es": "[Lukie]\nNosotros también estamos ansiosos y preparando muchas cosas. No debemos decepcionar a esa persona~."
     },
     "HSShBw": {
-        "en": "[{0}]\nI will do my best. Rookie, what have you been doing recently? How was your talk with Lazy?",
+        "en": "[{0}]\nI will do my best. Rookie, what have you been doing recently? How was your talk with Leizi?",
         "pt": "[{0}]\nFarei o melhor que puder. Lukie, o que você tem feito? Como foi sua conversa com Nalandro?",
         "es": "[{0}]\nHaré lo que pueda. Lukie, ¿qué has estado haciendo últimamente? ¿Cómo te fue con Lazy?"
     },
     "HiShBw": {
-        "en": "[Lazy]\nI'm still here. This fellow cannot leave immediately. Neither can I.",
+        "en": "[Leizi]\nI'm still here. This fellow cannot leave immediately. Neither can I.",
         "pt": "[Nalandro]\nAinda estou aqui. Esse camarada não pode partir de imediato. Nem eu.",
         "es": "[Lazy]\nSigo aquí. Este tipo no puede marcharse tan rápido. Yo tampoco."
     },

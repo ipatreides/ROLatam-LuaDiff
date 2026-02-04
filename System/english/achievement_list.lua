@@ -6,12 +6,12 @@ achievement_tbl = {
 		minor = 0,
 		title = "Refrigerator Robber",
 		content = {
-			details = "Entregue um Vinho de Mastela para o Pé Grande na carceragem do Palácio de Prontera.",
-			summary = "Quem nunca comeu de madrugada?"
+			details = "Deliver a Mastela Fruit Wine to Bigfoot inside Prontera Castle's prison",
+			summary = "Who never had a midnight snack?"
 		},
 		resource = {
 			{
-				text = "Traga a comida pedida."
+				text = "Bring the correct food."
 			}
 		},
 		reward = {},
@@ -24,30 +24,22 @@ achievement_tbl = {
 		minor = 0,
 		title = "Witness",
 		content = {
-			details = "O príncipe Jurgen Wigner parece ser bem popular.",
-			summary = "Fale com os fãs do príncipe"
+			details = "Prince Jurger Wigner seems to be very popular.",
+			summary = "Speak to the fans of the prince."
 		},
 		resource = {
+			{text = "Gyusoo"},
+			{text = "Womenfolk"},
+			{text = "Miss"},
 			{
-				text = "Mulher Elegante"
+				text = "Bachelorette"
+			},
+			{text = "Bachelor"},
+			{
+				text = "Womenfolk (Inside Room)"
 			},
 			{
-				text = "Moça Bonita"
-			},
-			{
-				text = "Garota Romântica"
-			},
-			{
-				text = "Mulher Bonita"
-			},
-			{
-				text = "Estrangeiro"
-			},
-			{
-				text = "Menina Agitada"
-			},
-			{
-				text = "Rapaz Batalhador"
+				text = "Bachelor (Inside Room)"
 			}
 		},
 		reward = {},
@@ -2688,13 +2680,13 @@ achievement_tbl = {
 		minor = 0,
 		title = "Factory Crasher",
 		content = {
-			details = "Complete a instância",
-			summary = "Elimine Celine Kimi"
+			details = "Finish the Memorial Dungeon",
+			summary = "Defeat Celine Kimi"
 		},
 		resource = {
 			{
 				count = 1,
-				text = "Elimine Celine Kimi 1 vez"
+				text = "Defeat Celine Kimi once"
 			}
 		},
 		reward = {},
@@ -2707,13 +2699,13 @@ achievement_tbl = {
 		minor = 0,
 		title = "Factory Worker",
 		content = {
-			details = "Complete a instância",
-			summary = "Elimine Celine Kimi"
+			details = "Finish the Memorial Dungeon",
+			summary = "Defeat Celine Kimi"
 		},
 		resource = {
 			{
 				count = 10,
-				text = "Elimine Celine Kimi 10 vezes"
+				text = "Defeat Celine Kimi 10 times"
 			}
 		},
 		reward = {},
@@ -2726,13 +2718,13 @@ achievement_tbl = {
 		minor = 0,
 		title = "Employee of the Month",
 		content = {
-			details = "Complete a instância",
-			summary = "Elimine Celine Kimi"
+			details = "Finish the Memorial Dungeon",
+			summary = "Defeat Celine Kimi"
 		},
 		resource = {
 			{
 				count = 25,
-				text = "Elimine Celine Kimi 25 vezes"
+				text = "Defeat Celine Kimi 25 times"
 			}
 		},
 		reward = {},
@@ -2745,13 +2737,13 @@ achievement_tbl = {
 		minor = 0,
 		title = "Factory Manager",
 		content = {
-			details = "Complete a instância",
-			summary = "Elimine Celine Kimi"
+			details = "Finish the Memorial Dungeon",
+			summary = "Defeat Celine Kimi"
 		},
 		resource = {
 			{
 				count = 50,
-				text = "Elimine Celine Kimi 50 vezes"
+				text = "Defeat Celine Kimi 50 times"
 			}
 		},
 		reward = {},
@@ -2764,13 +2756,13 @@ achievement_tbl = {
 		minor = 0,
 		title = "Doll Fan",
 		content = {
-			details = "Complete a instância",
-			summary = "Elimine Celine Kimi"
+			details = "Finish the Memorial Dungeon",
+			summary = "Defeat Celine Kimi"
 		},
 		resource = {
 			{
 				count = 100,
-				text = "Elimine Celine Kimi 100 vezes"
+				text = "Defeat Celine Kimi 100 times"
 			}
 		},
 		reward = {},
@@ -2783,13 +2775,13 @@ achievement_tbl = {
 		minor = 2,
 		title = "Dangerous Fishing",
 		content = {
-			details = "Complete a instância",
-			summary = "Elimine Bakonawa"
+			details = "Finish the Memorial Dungeon",
+			summary = "Defeat Bakonawa"
 		},
 		resource = {
 			{
 				count = 1,
-				text = "Elimine Bakonawa 1 vez"
+				text = "Defeat Bakonawa once"
 			}
 		},
 		reward = {},
@@ -2802,13 +2794,13 @@ achievement_tbl = {
 		minor = 2,
 		title = "Immune to Meteors",
 		content = {
-			details = "Complete a instância",
-			summary = "Elimine Bakonawa"
+			details = "Finish the Memorial Dungeon",
+			summary = "Defeat Bakonawa"
 		},
 		resource = {
 			{
 				count = 10,
-				text = "Elimine Bakonawa 10 vezes"
+				text = "Defeat Bakonawa 10 times"
 			}
 		},
 		reward = {},
@@ -2821,13 +2813,13 @@ achievement_tbl = {
 		minor = 2,
 		title = "Gong Master",
 		content = {
-			details = "Complete a instância",
-			summary = "Elimine Bakonawa"
+			details = "Finish the Memorial Dungeon",
+			summary = "Defeat Bakonawa"
 		},
 		resource = {
 			{
 				count = 50,
-				text = "Elimine Bakonawa 50 vezes"
+				text = "Defeat Bakonawa 50 times"
 			}
 		},
 		reward = {},
@@ -2840,13 +2832,13 @@ achievement_tbl = {
 		minor = 0,
 		title = "Exceptional Exorcist",
 		content = {
-			details = "Complete a instância",
-			summary = "Elimine Bafomé Selado"
+			details = "Finish the Memorial Dungeon",
+			summary = "Defeat Unsealed Baphomet"
 		},
 		resource = {
 			{
 				count = 1,
-				text = "Elimine Bafomé Selado 1 vez"
+				text = "Defeat Unsealed Baphomet once"
 			}
 		},
 		reward = {},
@@ -2859,13 +2851,13 @@ achievement_tbl = {
 		minor = 0,
 		title = "Cult Member",
 		content = {
-			details = "Complete a instância",
-			summary = "Elimine Bafomé Selado"
+			details = "Finish the Memorial Dungeon",
+			summary = "Defeat Unsealed Baphomet"
 		},
 		resource = {
 			{
 				count = 10,
-				text = "Elimine Bafomé Selado 10 vezes"
+				text = "Defeat Unsealed Baphomet 10 times"
 			}
 		},
 		reward = {},
@@ -2878,13 +2870,13 @@ achievement_tbl = {
 		minor = 0,
 		title = "Goat Rival",
 		content = {
-			details = "Complete a instância",
-			summary = "Elimine Bafomé Selado"
+			details = "Finish the Memorial Dungeon",
+			summary = "Defeat Unsealed Baphomet"
 		},
 		resource = {
 			{
 				count = 50,
-				text = "Elimine Bafomé Selado 50 vezes"
+				text = "Defeat Unsealed Baphomet 50 times"
 			}
 		},
 		reward = {},
@@ -2897,13 +2889,13 @@ achievement_tbl = {
 		minor = 1,
 		title = "Morning Watchman",
 		content = {
-			details = "Complete a instância",
-			summary = "Elimine Ceifador Ankou"
+			details = "Finish the Memorial Dungeon",
+			summary = "Defeat The Death Ankou"
 		},
 		resource = {
 			{
 				count = 1,
-				text = "Elimine Ceifador Ankou 1 vez"
+				text = "Defeat The Death Ankou once"
 			}
 		},
 		reward = {},
@@ -2916,13 +2908,13 @@ achievement_tbl = {
 		minor = 1,
 		title = "Afternoon Watchman",
 		content = {
-			details = "Complete a instância",
-			summary = "Elimine Ceifador Ankou"
+			details = "Finish the Memorial Dungeon",
+			summary = "Defeat The Death Ankou"
 		},
 		resource = {
 			{
 				count = 10,
-				text = "Elimine Ceifador Ankou 10 vezes"
+				text = "Defeat The Death Ankou 10 times"
 			}
 		},
 		reward = {},
@@ -2935,13 +2927,13 @@ achievement_tbl = {
 		minor = 1,
 		title = "Night Watchman",
 		content = {
-			details = "Complete a instância",
-			summary = "Elimine Ceifador Ankou"
+			details = "Finish the Memorial Dungeon",
+			summary = "Defeat Ankou"
 		},
 		resource = {
 			{
 				count = 50,
-				text = "Elimine Ceifador Ankou 50 vezes"
+				text = "Defeat Ankou 50 times"
 			}
 		},
 		reward = {},
@@ -2954,13 +2946,13 @@ achievement_tbl = {
 		minor = 2,
 		title = "Crocodile Armor",
 		content = {
-			details = "Complete a instância",
-			summary = "Elimine Buwaya"
+			details = "Finish the Memorial Dungeon",
+			summary = "Defeat Buwaya"
 		},
 		resource = {
 			{
 				count = 1,
-				text = "Elimine Buwaya 1 vez"
+				text = "Defeat Buwaya once"
 			}
 		},
 		reward = {},
@@ -2973,13 +2965,13 @@ achievement_tbl = {
 		minor = 2,
 		title = "Box Tourist",
 		content = {
-			details = "Complete a instância",
-			summary = "Elimine Buwaya"
+			details = "Finish the Memorial Dungeon",
+			summary = "Defeat Buwaya"
 		},
 		resource = {
 			{
 				count = 10,
-				text = "Elimine Buwaya 10 vezes"
+				text = "Defeat Buwaya 10 times"
 			}
 		},
 		reward = {},
@@ -2992,13 +2984,13 @@ achievement_tbl = {
 		minor = 2,
 		title = "Crocodile Bag",
 		content = {
-			details = "Complete a instância",
-			summary = "Elimine Buwaya"
+			details = "Finish the Memorial Dungeon",
+			summary = "Defeat Buwaya"
 		},
 		resource = {
 			{
 				count = 50,
-				text = "Elimine Buwaya 50 vezes"
+				text = "Defeat Buwaya 50 times"
 			}
 		},
 		reward = {},
@@ -3011,13 +3003,13 @@ achievement_tbl = {
 		minor = 1,
 		title = "Saved the World",
 		content = {
-			details = "Complete a instância",
-			summary = "Elimine Deus Morroc"
+			details = "Finish the Memorial Dungeon",
+			summary = "Defeat Despair God Morroc"
 		},
 		resource = {
 			{
 				count = 1,
-				text = "Elimine Deus Morroc 1 vez"
+				text = "Defeat Despair God Morroc once"
 			}
 		},
 		reward = {},
@@ -3030,13 +3022,13 @@ achievement_tbl = {
 		minor = 1,
 		title = "Not today, Satan!",
 		content = {
-			details = "Complete a instância",
-			summary = "Elimine Deus Morroc"
+			details = "Finish the Memorial Dungeon",
+			summary = "Defeat Despair God Morroc"
 		},
 		resource = {
 			{
 				count = 10,
-				text = "Elimine Deus Morroc 10 vezes"
+				text = "Defeat Despair God Morroc 10 times"
 			}
 		},
 		reward = {},
@@ -3049,13 +3041,13 @@ achievement_tbl = {
 		minor = 1,
 		title = "Light of Hope",
 		content = {
-			details = "Complete a instância",
-			summary = "Elimine Deus Morroc"
+			details = "Finish the Memorial Dungeon",
+			summary = "Defeat Despair God Morroc"
 		},
 		resource = {
 			{
 				count = 25,
-				text = "Elimine Deus Morroc 25 vezes"
+				text = "Defeat Despair God Morroc 25 times"
 			}
 		},
 		reward = {},
@@ -3068,13 +3060,13 @@ achievement_tbl = {
 		minor = 1,
 		title = "Demigod",
 		content = {
-			details = "Complete a instância",
-			summary = "Elimine Deus Morroc"
+			details = "Finish the Memorial Dungeon",
+			summary = "Defeat Despair God Morroc"
 		},
 		resource = {
 			{
 				count = 50,
-				text = "Elimine Deus Morroc 50 vezes"
+				text = "Defeat Despair God Morroc 50 times"
 			}
 		},
 		reward = {},
@@ -3087,13 +3079,13 @@ achievement_tbl = {
 		minor = 1,
 		title = "Divinity",
 		content = {
-			details = "Complete a instância",
-			summary = "Elimine Deus Morroc"
+			details = "Finish the Memorial Dungeon",
+			summary = "Defeat Despair God Morroc"
 		},
 		resource = {
 			{
 				count = 100,
-				text = "Elimine Deus Morroc 100 vezes"
+				text = "Defeat Despair God Morroc 100 times"
 			}
 		},
 		reward = {},
@@ -3106,13 +3098,13 @@ achievement_tbl = {
 		minor = 1,
 		title = "Necromancy",
 		content = {
-			details = "Complete a instância",
-			summary = "Elimine Necromante de Morroc"
+			details = "Finish the Memorial Dungeon",
+			summary = "Defeat Morroc Necromancer"
 		},
 		resource = {
 			{
 				count = 1,
-				text = "Elimine Necromante de Morroc 1 vez"
+				text = "Defeat Morroc Necromancer once"
 			}
 		},
 		reward = {},
@@ -3125,13 +3117,13 @@ achievement_tbl = {
 		minor = 1,
 		title = "Unholy Enemy",
 		content = {
-			details = "Complete a instância",
-			summary = "Elimine Necromante de Morroc"
+			details = "Finish the Memorial Dungeon",
+			summary = "Defeat Morroc Necromancer"
 		},
 		resource = {
 			{
 				count = 10,
-				text = "Elimine Necromante de Morroc 10 vezes"
+				text = "Defeat Morroc Necromancer 10 times"
 			}
 		},
 		reward = {},
@@ -3144,13 +3136,13 @@ achievement_tbl = {
 		minor = 1,
 		title = "Soulless",
 		content = {
-			details = "Complete a instância",
-			summary = "Elimine Necromante de Morroc"
+			details = "Finish the Memorial Dungeon",
+			summary = "Defeat Morroc Necromancer"
 		},
 		resource = {
 			{
 				count = 50,
-				text = "Elimine Necromante de Morroc 50 vezes"
+				text = "Defeat Morroc Necromancer 50 times"
 			}
 		},
 		reward = {},
@@ -3163,13 +3155,13 @@ achievement_tbl = {
 		minor = 0,
 		title = "Your Majesty",
 		content = {
-			details = "Complete a instância",
-			summary = "Elimine Rainha Verme"
+			details = "Finish the Memorial Dungeon",
+			summary = "Defeat Faceworm Queen"
 		},
 		resource = {
 			{
 				count = 1,
-				text = "Elimine Rainha Verme 1 vez"
+				text = "Defeat Faceworm Queen once"
 			}
 		},
 		reward = {},
@@ -3182,13 +3174,13 @@ achievement_tbl = {
 		minor = 0,
 		title = "Anabolic Earthworm",
 		content = {
-			details = "Complete a instância",
-			summary = "Elimine a Rainha Verme (Terra)"
+			details = "Finish the Memorial Dungeon",
+			summary = "Defeat Green Faceworm Queen"
 		},
 		resource = {
 			{
 				count = 1,
-				text = "Elimine a Rainha Verme (Terra) 1 vez"
+				text = "Defeat Green Faceworm Queen once"
 			}
 		},
 		reward = {},
@@ -3201,13 +3193,13 @@ achievement_tbl = {
 		minor = 0,
 		title = "Water Ball Survivor",
 		content = {
-			details = "Complete a instância",
-			summary = "Elimine a Rainha Verme (Água)"
+			details = "Finish the Memorial Dungeon",
+			summary = "Defeat Blue Faceworm Queen"
 		},
 		resource = {
 			{
 				count = 1,
-				text = "Elimine a Rainha Verme (Água) 1 vez"
+				text = "Defeat Blue Faceworm Queen once"
 			}
 		},
 		reward = {},
@@ -3220,13 +3212,13 @@ achievement_tbl = {
 		minor = 0,
 		title = "Queen's Wrath",
 		content = {
-			details = "Complete a instância",
-			summary = "Elimine a Rainha Verme (Vento)"
+			details = "Finish the Memorial Dungeon",
+			summary = "Defeat Yellow Faceworm Queen"
 		},
 		resource = {
 			{
 				count = 1,
-				text = "Elimine a Rainha Verme (Vento) 1 vez"
+				text = "Defeat Yellow Faceworm Queen once"
 			}
 		},
 		reward = {},
@@ -3239,13 +3231,13 @@ achievement_tbl = {
 		minor = 0,
 		title = "Witness to the Curse",
 		content = {
-			details = "Complete a instância",
-			summary = "Elimine Amdarais"
+			details = "Finish the Memorial Dungeon",
+			summary = "Defeat Amdarais"
 		},
 		resource = {
 			{
 				count = 1,
-				text = "Elimine Amdarais 1 vez"
+				text = "Defeat Amdarais once"
 			}
 		},
 		reward = {},
@@ -3258,13 +3250,13 @@ achievement_tbl = {
 		minor = 0,
 		title = "It's just a walk...",
 		content = {
-			details = "Complete a instância",
-			summary = "Elimine Amdarais"
+			details = "Finish the Memorial Dungeon",
+			summary = "Defeat Amdarais"
 		},
 		resource = {
 			{
 				count = 10,
-				text = "Elimine Amdarais 10 vezes"
+				text = "Defeat Amdarais 10 times"
 			}
 		},
 		reward = {},
@@ -3277,13 +3269,13 @@ achievement_tbl = {
 		minor = 0,
 		title = "Varmunt's Triumph",
 		content = {
-			details = "Complete a instância",
-			summary = "Elimine Amdarais"
+			details = "Finish the Memorial Dungeon",
+			summary = "Defeat Amdarais"
 		},
 		resource = {
 			{
 				count = 50,
-				text = "Elimine Amdarais 50 vezes"
+				text = "Defeat Amdarais 50 times"
 			}
 		},
 		reward = {},
@@ -3296,13 +3288,13 @@ achievement_tbl = {
 		minor = 0,
 		title = "Victim of the Curse",
 		content = {
-			details = "Complete a instância",
-			summary = "Elimine Amdarais Sombrio"
+			details = "Finish the Memorial Dungeon",
+			summary = "Defeat Phantom of Amdarais"
 		},
 		resource = {
 			{
 				count = 1,
-				text = "Elimine Amdarais Sombrio 1 vez"
+				text = "Defeat Phantom of Amdarais once"
 			}
 		},
 		reward = {},
@@ -3315,13 +3307,13 @@ achievement_tbl = {
 		minor = 0,
 		title = "Knights' Hope",
 		content = {
-			details = "Complete a instância",
-			summary = "Elimine Amdarais Sombrio"
+			details = "Finish the Memorial Dungeon",
+			summary = "Defeat Phantom of Amdarais"
 		},
 		resource = {
 			{
 				count = 10,
-				text = "Elimine Amdarais Sombrio 10 vezes"
+				text = "Defeat Phantom of Amdarais 10 times"
 			}
 		},
 		reward = {},
@@ -3334,13 +3326,13 @@ achievement_tbl = {
 		minor = 0,
 		title = "Castle Guard",
 		content = {
-			details = "Complete a instância",
-			summary = "Elimine Amdarais Sombrio"
+			details = "Finish the Memorial Dungeon",
+			summary = "Defeat Phantom of Amdarais"
 		},
 		resource = {
 			{
 				count = 50,
-				text = "Elimine Amdarais Sombrio 50 vezes"
+				text = "Defeat Phantom of Amdarais 50 times"
 			}
 		},
 		reward = {},
@@ -3353,13 +3345,13 @@ achievement_tbl = {
 		minor = 0,
 		title = "Time Traveler",
 		content = {
-			details = "Complete a instância",
-			summary = "Elimine Sara Irine"
+			details = "Finish the Memorial Dungeon",
+			summary = "Defeat Sarah Irine"
 		},
 		resource = {
 			{
 				count = 1,
-				text = "Elimine Sara Irine 1 vez"
+				text = "Defeat Sarah Irine once"
 			}
 		},
 		reward = {},
@@ -3372,13 +3364,13 @@ achievement_tbl = {
 		minor = 0,
 		title = "History Specialist",
 		content = {
-			details = "Complete a instância",
-			summary = "Elimine Sara Irine"
+			details = "Finish the Memorial Dungeon",
+			summary = "Defeat Sarah Irine"
 		},
 		resource = {
 			{
 				count = 10,
-				text = "Elimine Sara Irine 10 vezes"
+				text = "Defeat Sarah Irine 10 times"
 			}
 		},
 		reward = {},
@@ -3391,13 +3383,13 @@ achievement_tbl = {
 		minor = 0,
 		title = "Relic Master",
 		content = {
-			details = "Complete a instância",
-			summary = "Elimine Sara Irine"
+			details = "Finish the Memorial Dungeon",
+			summary = "Defeat Sarah Irine"
 		},
 		resource = {
 			{
 				count = 50,
-				text = "Elimine Sara Irine 50 vezes"
+				text = "Defeat Sarah Irine 50 times"
 			}
 		},
 		reward = {},
@@ -3410,13 +3402,13 @@ achievement_tbl = {
 		minor = 0,
 		title = "Tournament Champion",
 		content = {
-			details = "Complete a instância",
-			summary = "Elimine Fenrir"
+			details = "Finish the Memorial Dungeon",
+			summary = "Defeat Fenrir"
 		},
 		resource = {
 			{
 				count = 1,
-				text = "Elimine Fenrir 1 vez"
+				text = "Defeat Fenrir once"
 			}
 		},
 		reward = {},
@@ -3429,13 +3421,13 @@ achievement_tbl = {
 		minor = 0,
 		title = "Colosseum Gladiator",
 		content = {
-			details = "Complete a instância",
-			summary = "Elimine Fenrir"
+			details = "Finish the Memorial Dungeon",
+			summary = "Defeat Fenrir"
 		},
 		resource = {
 			{
 				count = 10,
-				text = "Elimine Fenrir 10 vezes"
+				text = "Defeat Fenrir 10 times"
 			}
 		},
 		reward = {},
@@ -3448,13 +3440,13 @@ achievement_tbl = {
 		minor = 0,
 		title = "Invincible Challenger",
 		content = {
-			details = "Complete a instância",
-			summary = "Elimine Fenrir"
+			details = "Finish the Memorial Dungeon",
+			summary = "Defeat Fenrir"
 		},
 		resource = {
 			{
 				count = 50,
-				text = "Elimine Fenrir 50 vezes"
+				text = "Defeat Fenrir 50 times"
 			}
 		},
 		reward = {},
@@ -3467,13 +3459,13 @@ achievement_tbl = {
 		minor = 0,
 		title = "Leader of the Demons",
 		content = {
-			details = "Complete a instância",
-			summary = "Elimine Naght Sieger"
+			details = "Finish the Memorial Dungeon",
+			summary = "Defeat Naght Sieger"
 		},
 		resource = {
 			{
 				count = 1,
-				text = "Elimine Naght Sieger 1 vez"
+				text = "Defeat Naght Sieger once"
 			}
 		},
 		reward = {},
@@ -3486,13 +3478,13 @@ achievement_tbl = {
 		minor = 0,
 		title = "Stair Climber",
 		content = {
-			details = "Complete a instância",
-			summary = "Elimine Naght Sieger"
+			details = "Finish the Memorial Dungeon",
+			summary = "Defeat Naght Sieger"
 		},
 		resource = {
 			{
 				count = 10,
-				text = "Elimine Naght Sieger 10 vezes"
+				text = "Defeat Naght Sieger 10 times"
 			}
 		},
 		reward = {},
@@ -3505,13 +3497,13 @@ achievement_tbl = {
 		minor = 0,
 		title = "Monarch of the Tower",
 		content = {
-			details = "Complete a instância",
-			summary = "Elimine Naght Sieger"
+			details = "Finish the Memorial Dungeon",
+			summary = "Defeat Naght Sieger"
 		},
 		resource = {
 			{
 				count = 50,
-				text = "Elimine Naght Sieger 50 vezes"
+				text = "Defeat Naght Sieger 50 times"
 			}
 		},
 		reward = {},
@@ -4318,32 +4310,32 @@ achievement_tbl = {
 		group = "CHATTING",
 		major = 4,
 		minor = 0,
-		title = "Parte da Realeza",
+		title = "Part of the Royalty",
 		content = {
-			details = "Apresente-se para as 7 famílias reais.",
-			summary = "Visitar as 7 Famílias Reais"
+			details = "Introduce yourself to all 7 Royal Families.",
+			summary = "Visit all 7 Royal Families"
 		},
 		resource = {
 			{
-				text = "Visite a Família Heine"
+				text = "Visit Heines Family"
 			},
 			{
-				text = "Visite a Família Nerius"
+				text = "Visit Nerius Family"
 			},
 			{
-				text = "Visite a Família Walter"
+				text = "Visit Walther Family"
 			},
 			{
-				text = "Visite a Família Wigner"
+				text = "Visit Wigner Family"
 			},
 			{
-				text = "Visite a Família Richard"
+				text = "Visit Richard Family"
 			},
 			{
-				text = "Visite a Família Gaebolg"
+				text = "Visit Gaeborg Family"
 			},
 			{
-				text = "Visite a Família Lugenburg"
+				text = "Visit Roegenburg Family"
 			}
 		},
 		reward = {title = 1034},
@@ -4354,14 +4346,14 @@ achievement_tbl = {
 		group = "HEAR",
 		major = 4,
 		minor = 0,
-		title = "Música Harmoniosa",
+		title = "Harmonic Music",
 		content = {
-			details = "Ouça uma música especial do Bardo Ornit no são do Banquete Real.",
-			summary = "Escute a Orquesta de Prontera"
+			details = "Hear a special music from Orint, the court musician, during the Royal Banquet.",
+			summary = "Hear the secret music from Orint"
 		},
 		resource = {
 			{
-				text = "Escute a música secreta da Orquestra de Prontera"
+				text = "Hear Orint's secret music"
 			}
 		},
 		reward = {},
@@ -6844,7 +6836,7 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 0,
-		title = "Show the Captain Who’s Boss",
+		title = "Show the Captain Who�s Boss",
 		content = {
 			summary = "Defeat Pherlock",
 			details = "Complete the Memorial Dungeon until the end."
@@ -6863,7 +6855,7 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 0,
-		title = "Show the Weak Captain Who’s Boss",
+		title = "Show the Weak Captain Who�s Boss",
 		content = {
 			summary = "Defeat Pherlock",
 			details = "Complete the Memorial Dungeon until the end."

@@ -12,7 +12,7 @@
     "otiIAw": {
         "en": "[Avril]\nAre you here in connection with a quest?\nThen please join the Eden Group first.",
         "pt": "[Felícia]\nVocê quer uma missão?\nEntão, por favor, junte-se ao Grupo do Éden primeiro.",
-        "es": "[Avril]\n¿Viniste en relación con una misión?\nEntonces, primero únete al Grupo de Edén."
+        "es": "[Avril]\n¿Viniste en relación con una misión?\nEntonces, primero únete al Grupo del Edén."
     },
     "o9iIAw": {
         "en": "[Avril]\nMy quest is still too challenging for you, adventurer.\nKnowing your limitations is also an important skill. I appreciate your offer, but I cannot accept your help, adventurer.",
@@ -27,17 +27,17 @@
     "pdiIAw": {
         "en": "[Avril]\nI see that you picked the quest from the Eden Group mission board.\nPlease return this quest to the Eden Group mission board.",
         "pt": "[Felícia]\nVocê aceitou a solicitação no Grupo do Éden.\nPor favor, reporte a missão no quadro de lá.",
-        "es": "[Avril]\nVeo que tomaste la misión del tablero del Grupo de Edén.\nDevuelve esta misión al tablero del Grupo de Edén."
+        "es": "[Avril]\nVeo que tomaste la misión del tablero del Grupo del Edén.\nDevuelve esta misión al tablero del Grupo del Edén."
     },
     "ptiIAw": {
         "en": "[Avril]\nIt hasn't been long since you last completed a request for me.\nEden Group quests are managed on a daily basis. If you want to take up a different quest, please come back tomorrow.",
         "pt": "[Felícia]\nVocê já entregou a missão no Grupo do Éden.\nAs solicitações são feitas diariamente, então volte amanhã.",
-        "es": "[Avril]\nHace muy poco que completaste otra solicitud para mí.\nLas misiones del Grupo de Edén son diarias. Si quieres aceptar una misión diferente, regresa mañana."
+        "es": "[Avril]\nHace muy poco que completaste otra solicitud para mí.\nLas misiones del Grupo del Edén son diarias. Si quieres aceptar una misión diferente, regresa mañana."
     },
     "p9iIAw": {
         "en": "[Avril]\nHow are you? I'm in charge of Eden Group monster raids.\nI assign monster raid quests for Thanatos Tower Lower Level.",
         "pt": "[Felícia]\nFui contratada pelo Grupo do Éden para eliminar monstros.\nOs monstros requisitados são dos andares mais baixos.",
-        "es": "[Avril]\n¿Cómo estás? Estoy a cargo de los asaltos a monstruos del Grupo de Edén.\nAsigno las misiones de asalto a monstruos de los niveles inferiores de la Torre de Thanatos."
+        "es": "[Avril]\n¿Cómo estás? Estoy a cargo de los asaltos a monstruos del Grupo del Edén.\nAsigno las misiones de asalto a monstruos de los niveles inferiores de la Torre de Thanatos."
     },
     "qNiIAw": {
         "en": "[Tart]\nI-I am responsible for assigning quests for the Upper Level! If you want to receive quests for the Upper Level, you may speak to me!",
@@ -117,12 +117,12 @@
     "t9iIAw": {
         "en": "[Avril]\nIt's very rare, though. But this knowledge has great value, so the Eden Group considers it worth all the risk.",
         "pt": "[Felícia]\nElas são raras, então são mais valiosas. O Grupo do Éden acredita que vale a pena estudá-las.",
-        "es": "[Avril]\nSin embargo, es muy raro. Pero este conocimiento es muy valioso, así que el Grupo de Edén considera que vale la pena el riesgo."
+        "es": "[Avril]\nSin embargo, es muy raro. Pero este conocimiento es muy valioso, así que el Grupo del Edén considera que vale la pena el riesgo."
     },
     "uNiIAw": {
         "en": "[Avril]\nHunt ^0000CD30 Death Words^000000, if you please. If you obtain a special Death Word, don't forget that the ownership of the content will belong to the Eden Group.",
         "pt": "[Felícia]\n^0000CDElimine 30 Palavras Mortas^000000, por favor. Se elas soltarem algumas páginas, eu também tenho interesse nelas.",
-        "es": "[Avril]\nCaza ^0000CD30 Palabras de muerte^000000. Si consigues una Palabra de muerte especial, no te olvides de que la propiedad del contenido le pertenece al Grupo de Edén."
+        "es": "[Avril]\nCaza ^0000CD30 Palabras de muerte^000000. Si consigues una Palabra de muerte especial, no te olvides de que la propiedad del contenido le pertenece al Grupo del Edén."
     },
     "udiIAw": {
         "en": "[Avril]\nParticular monster classes are the subjects of ongoing research.\nOwl Barons and Owl Dukes are among them.",
@@ -207,7 +207,7 @@
     "ydiIAw": {
         "en": "[Avril]\nIt hasn't been long since you last performed a request for me.\nEden Group quests are managed on a daily basis. If you want to take up a different quest, please come back tomorrow.",
         "pt": "[Felícia]\nVocê já entregou a missão no Grupo do Éden.\nAs solicitações são feitas diariamente, então volte amanhã.",
-        "es": "[Avril]\nHace muy poco que realizaste otra solicitud para mí.\nLas misiones del Grupo de Edén son diarias. Si quieres aceptar una misión diferente, regresa mañana."
+        "es": "[Avril]\nHace muy poco que realizaste otra solicitud para mí.\nLas misiones del Grupo del Edén son diarias. Si quieres aceptar una misión diferente, regresa mañana."
     },
     "ytiIAw": {
         "en": "[Avril]\nSo, we'd ask you to hunt ^0000CDAncient Mimics^000000.\n^0000CD30 of them^000000, if you would. Please make sure to fill out and submit your loot record.",
@@ -352,7 +352,7 @@
     "5tiIAw": {
         "en": "[Tart]\nYou need to join the Eden Group first!\nThe quests come after that. Please join us!",
         "pt": "[Talita]\nVocê deve primeiro se juntar ao Grupo do Éden!\nPor favor, inscreva-se!",
-        "es": "[Tart]\n¡Primero, tienes que unirte al Grupo de Edén!\nLuego, vienen las misiones. ¡Únete a nosotros!"
+        "es": "[Tart]\n¡Primero, tienes que unirte al Grupo del Edén!\nLuego, vienen las misiones. ¡Únete a nosotros!"
     },
     "59iIAw": {
         "en": "[Tart]\nOh, dear. You still cannot accept this quest...\nThat doesn't mean you're not good enough! I-I mean! Experience... That kind of thing!",
@@ -372,7 +372,7 @@
     "6tiIAw": {
         "en": "[Tart]\nOh... Ohh! You already received the quest from the Eden Group! Indeed, you are the paragon of a dedicated adventurer!\nPlease go and report to the Eden Group this time.",
         "pt": "[Talita]\nAh... oh! Você já aceitou a missão lá no Grupo do Éden!\nEntão, você tem que ir até lá para reportar a missão!",
-        "es": "[Tart]\nAh… ¡Ahh! ¡Ya recibiste la misión del Grupo de Edén! ¡Ciertamente eres un ejemplo de dedicación para todos los trotamundos!\nEsta vez, debes informar al Grupo de Edén."
+        "es": "[Tart]\nAh… ¡Ahh! ¡Ya recibiste la misión del Grupo del Edén! ¡Ciertamente eres un ejemplo de dedicación para todos los trotamundos!\nEsta vez, debes informar al Grupo del Edén."
     },
     "69iIAw": {
         "en": "[Tart]\nOf course, you are welcome to come to me and accept my quests after your present quest is over!",
@@ -392,7 +392,7 @@
     "7tiIAw": {
         "en": "[Tart]\nHello! Adventurer! I'm in charge of Eden Group monster raids!\nI give monster raid quests for Thanatos Tower Upper Level!",
         "pt": "[Talita]\nOlá! Fui contratada pelo Grupo do Éden!\nMeu serviço é eliminar monstros dos andares superiores da Torre de Thanatos!!",
-        "es": "[Tart]\n¡Hola! ¡Trotamundos! ¡Estoy a cargo de los asaltos a monstruos del Grupo de Edén!\n¡Asigno las misiones de asalto a monstruos de los niveles superiores de la Torre de Thanatos!"
+        "es": "[Tart]\n¡Hola! ¡Trotamundos! ¡Estoy a cargo de los asaltos a monstruos del Grupo del Edén!\n¡Asigno las misiones de asalto a monstruos de los niveles superiores de la Torre de Thanatos!"
     },
     "79iIAw": {
         "en": "[Tart]\nWow! You're a real adventurer. I've been watching you hunt, but I'm so nervous since this is my first time talking to you for this long!",
@@ -412,7 +412,7 @@
     "8tiIAw": {
         "en": "[Avril]\nWhat are you talking about? You work for the Eden Group and earn money.\nYou're a professional, too. You can't ignore it.",
         "pt": "[Felícia]\nUé... foi você quem pediu essa tarefa.\nVocê também é uma profissional. Não fuja.",
-        "es": "[Avril]\n¿De qué estás hablando? Trabajas para el Grupo de Edén y ganas dinero.\nTú también eres profesional. No puedes ignorarlo."
+        "es": "[Avril]\n¿De qué estás hablando? Trabajas para el Grupo del Edén y ganas dinero.\nTú también eres profesional. No puedes ignorarlo."
     },
     "89iIAw": {
         "en": "[Tart]\nAh, ahhhh...\nAh, ah, anyway, ad-adventurer. I would like to request a monster raid!\nCan-Can I give you one!",
@@ -562,7 +562,7 @@
     "ENmIAw": {
         "en": "[Tart]\nOh... Ohh! You already received the quest from the Eden Group! Indeed, you are the paragon of a dedicated adventurer!\nPlease go and report to the Eden Group now.",
         "pt": "[Talita]\nAh... oh! Você já aceitou a missão lá no Grupo do Éden!\nEntão, você tem que ir até lá para reportar a missão!",
-        "es": "[Tart]\nAh… ¡Ahh! ¡Ya recibiste la misión del Grupo de Edén! ¡Ciertamente eres un ejemplo de dedicación para todos los trotamundos!\nAhora ve e informa al Grupo de Edén."
+        "es": "[Tart]\nAh… ¡Ahh! ¡Ya recibiste la misión del Grupo del Edén! ¡Ciertamente eres un ejemplo de dedicación para todos los trotamundos!\nAhora ve e informa al Grupo del Edén."
     },
     "EdmIAw": {
         "en": "[Tart]\n^FF0000Baroness of Retribution^000000! How could a mere monster do such a thing!\nIt's abominable, isn't it?",

@@ -1087,7 +1087,7 @@
     "+bHyCQ": {
         "en": "[Shorty]\nIf you go to the restaurant in Eden group, a person named ^0000CDOrganization Master^000000 says you can delete the quests you got from the event. Will it erase my memory? Does it erase traces? Will I disappear too?",
         "pt": "[Baixinho]\nSe você for ao restaurante no Grupo do Éden, uma pessoa chamada ^0000CDMestre de Organização^000000 diz que você pode excluir as missões que obteve no evento. Isso apagará minha memória? Apaga os rastros? Eu também desaparecerei?",
-        "es": "[Peque]\nSi vas al restaurante en Grupo Edén, una persona llamada ^0000CDOrganization Master^000000 dice que puedes borrar las misiones que conseguiste en el evento. ¿Me borrará la memoria? ¿Se borran los rastros? ¿Desapareceré yo también?"
+        "es": "[Peque]\nSi vas al restaurante en Grupo del Edén, una persona llamada ^0000CDOrganization Master^000000 dice que puedes borrar las misiones que conseguiste en el evento. ¿Me borrará la memoria? ¿Se borran los rastros? ¿Desapareceré yo también?"
     },
     "+rHyCQ": {
         "en": "[Shorty]\nPal! Aren't there times when you want to show off the items that you got? Or when do you want others to see if this is good or bad?",
@@ -1292,7 +1292,7 @@
     "IrLyCQ": {
         "en": "[Shorty]\nIn that case, you can use something called ^0000CDWindow Shopper Catalogue^000000 which is being sold in ^0000CDEden group^000000.",
         "pt": "[Baixinho]\nNesse caso, você pode usar algo chamado ^0000CDCatalogador Mágico^000000 que está sendo vendido no ^0000CDGrupo do Éden^000000.",
-        "es": "[Peque]\nEn ese caso, puede utilizar algo llamado ^0000CDCatálogo de compradores de escaparates^000000 que se vende en ^0000CDGrupo Edén^000000."
+        "es": "[Peque]\nEn ese caso, puede utilizar algo llamado ^0000CDCatálogo de compradores de escaparates^000000 que se vende en ^0000CDGrupo del Edén^000000."
     },
     "I7LyCQ": {
         "en": "[Shorty]\nHowever, you must be careful when using because it can only provide information on vending in the current location.",
@@ -1572,7 +1572,7 @@
     "WrLyCQ": {
         "en": "[Shorty]\n<NAVI>[Alberta : Necko]<INFO>alberta,83,96,000,0,</INFO></NAVI>\n<NAVI>[Alberta : Charlron]<INFO>alberta,119,221,000,0,</INFO></NAVI>\n<NAVI>[Alberta : Gershaun]<INFO>alberta,232,103,000,0,</INFO></NAVI>\n<NAVI>[Eden Group : Cart Tuner Galijo]<INFO>moc_para01,29,37,000,0,</INFO></NAVI>\n<NAVI>[Merchant Guild : Purchasing Team]<INFO>alberta,37,41,000,0,</INFO></NAVI>.",
         "pt": "[Baixinho]\n<NAVI>[Alberta : Necko]<INFO>alberta,83,96,000,0,</INFO></NAVI>\n<NAVI>[Alberta : Charlron]<INFO>alberta,119,221,000,0,</INFO></NAVI>\n<NAVI>[Alberta : Gershaun]<INFO>alberta,232,103,000,0,</INFO></NAVI>\n<NAVI>[Grupo do Éden : Carrinhista Galijo]<INFO>moc_para01,29,37,000,0,</INFO></NAVI>\n<NAVI>[Guilda dos Mercadores : Equipe de Compras]<INFO>alberta,37,41,000,0,</INFO></NAVI>.",
-        "es": "[Peque]\n<NAVI>[Alberta : Necko]<INFO>alberta,83,96,000,0,</INFO></NAVI>[Alberta : Peque\n<NAVI>[Alberta : Charlron]<INFO>alberta,119,221,000,0,</INFO></NAVI>[Alberta] [Peque\n<NAVI>[Alberta : Gershaun]<INFO>alberta,232,103,000,0,</INFO></NAVI>[Alberta : Gershaun\n<NAVI>[Grupo Edén : Afinador de carros Galijo]<INFO>moc_para01,29,37,000,0,</INFO></NAVI>\n<NAVI>[Gremio Mercantil : Equipo de Compras]<INFO>alberta,37,41,000,0,</INFO></NAVI>."
+        "es": "[Peque]\n<NAVI>[Alberta : Necko]<INFO>alberta,83,96,000,0,</INFO></NAVI>[Alberta : Peque\n<NAVI>[Alberta : Charlron]<INFO>alberta,119,221,000,0,</INFO></NAVI>[Alberta] [Peque\n<NAVI>[Alberta : Gershaun]<INFO>alberta,232,103,000,0,</INFO></NAVI>[Alberta : Gershaun\n<NAVI>[Grupo del Edén : Afinador de carros Galijo]<INFO>moc_para01,29,37,000,0,</INFO></NAVI>\n<NAVI>[Gremio Mercantil : Equipo de Compras]<INFO>alberta,37,41,000,0,</INFO></NAVI>."
     },
     "W7LyCQ": {
         "en": "[Shorty]\nHere's the list of quest skill for merchant. Go visit these NPCs.\n<NAVI>[Thief Guild : Alcouskou]<INFO>moc_prydb1,154,128,000,0,</INFO></NAVI>.",
@@ -2352,12 +2352,12 @@
     "9rLyCQ": {
         "en": "[Shorty]\nOf course, it's not free, and you have to solve a simple request from the Eden group. Plus, it makes the equipment more useful.",
         "pt": "[Baixinho]\nÉ claro que não é gratuito, e você precisa resolver uma solicitação simples do Grupo do Éden. Além disso, isso torna o equipamento mais útil.",
-        "es": "[Peque]\nPor supuesto, no es gratis, y tienes que resolver una simple petición del Grupo Edén. Además, hace que el equipo sea más útil."
+        "es": "[Peque]\nPor supuesto, no es gratis, y tienes que resolver una simple petición del Grupo del Edén. Además, hace que el equipo sea más útil."
     },
     "97LyCQ": {
         "en": "[Shorty]\nIf you're curious, go to the Eden group office and get a request.",
         "pt": "[Baixinho]\nSe você estiver curioso, vá até o escritório do Grupo do Éden e faça uma solicitação.",
-        "es": "[Peque]\nSi tienes curiosidad, ve a la oficina del Grupo Edén y pide una solicitud."
+        "es": "[Peque]\nSi tienes curiosidad, ve a la oficina del Grupo del Edén y pide una solicitud."
     },
     "+LLyCQ": {
         "en": "[Shorty]\nI wonder where",
@@ -3687,7 +3687,7 @@
     "AbTyCQ": {
         "en": "[Shorty]\nYou haven't even joined the Eden group?",
         "pt": "[Baixinho]\nVocê ainda não entrou no Grupo do Éden?",
-        "es": "[Peque]\n¿Ni siquiera te has unido al Grupo Edén?"
+        "es": "[Peque]\n¿Ni siquiera te has unido al Grupo del Edén?"
     },
     "ArTyCQ": {
         "en": "[Shorty]\nGo and register with ^0000CDLime Evenor^000000 first, and then talk to Instructor Boya or the Eden Logistics Manager on either side.",

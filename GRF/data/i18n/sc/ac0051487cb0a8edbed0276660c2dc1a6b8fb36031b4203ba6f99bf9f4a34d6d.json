@@ -62,17 +62,17 @@
     "jK/ACg": {
         "en": "[Paul]\nThe Eden Group really does accept quests from anyone! Awesome!",
         "pt": "[Poch]\nO Grupo do Éden realmente aceita missões de qualquer pessoa! Muito bom!",
-        "es": "[Paul]\n¡El Grupo de Edén realmente acepta misiones de cualquier persona! ¡Fantástico!"
+        "es": "[Paul]\n¡El Grupo del Edén realmente acepta misiones de cualquier persona! ¡Fantástico!"
     },
     "ja/ACg": {
         "en": "^4D4DFFQuest Prerequisites:\nEden Group quest [Making the Playground Safe - Hornet] completed; cooldown reset.^000000",
         "pt": "^4D4DFFPré-requisitos da missão:\nMissão do Grupo do Éden [Tornando o parquinho seguro - Zangão] concluída; tempo de espera reiniciado.^000000",
-        "es": "^4D4DFFRequisitos previos de la misión:\nMisión [Hacer que el patio de juegos sea seguro: Avispón] del Grupo de Edén completada; tiempo de espera restablecido.^000000"
+        "es": "^4D4DFFRequisitos previos de la misión:\nMisión [Hacer que el patio de juegos sea seguro: Avispón] del Grupo del Edén completada; tiempo de espera restablecido.^000000"
     },
     "jq/ACg": {
         "en": "^4D4DFFQuest Prerequisites:\nEden Group quest [Making the Playground Safe - Rocker] completed; cooldown reset.^000000",
         "pt": "^4D4DFFPré-requisitos da missão:\nMissão do Grupo do Éden [Tornando o parquinho seguro - Rocker] concluída; tempo de espera reiniciado.^000000",
-        "es": "^4D4DFFRequisitos previos de la misión:\nMisión [Hacer que el patio de juegos sea seguro: Rockero] del Grupo de Edén completada; tiempo de espera restablecido.^000000"
+        "es": "^4D4DFFRequisitos previos de la misión:\nMisión [Hacer que el patio de juegos sea seguro: Rockero] del Grupo del Edén completada; tiempo de espera restablecido.^000000"
     },
     "j6/ACg": {
         "en": "[Paul]\nThings can't continue like this.\nWhat should we do?",
@@ -142,7 +142,7 @@
     "nK/ACg": {
         "en": "[Paul]\nIsn't there a place where Adventurers help with quests?\nWhat was it called? The Eden Group?\nAnyway, if I give you a quest, will you do it for me?",
         "pt": "[Poch]\nNão há um lugar onde os Aventureiros ajudam nas missões?\nComo se chama? O Grupo do Éden?\nDe qualquer forma, se eu lhe der uma missão, você a cumprirá para mim?",
-        "es": "[Paul]\n¿No hay un lugar en el que los trotamundos ayudan con las misiones?\n¿Cómo se llama? ¿El Grupo de Edén?\nEn fin, si te doy una misión, ¿podrías llevarla a cabo por mí?"
+        "es": "[Paul]\n¿No hay un lugar en el que los trotamundos ayudan con las misiones?\n¿Cómo se llama? ¿El Grupo del Edén?\nEn fin, si te doy una misión, ¿podrías llevarla a cabo por mí?"
     },
     "na/ACg": {
         "en": "[Paul]\nThe quest is obviously to ^4D4DFFDefeat the Hornets^000000!",
@@ -172,7 +172,7 @@
     "oq/ACg": {
         "en": "[Paul]\nAh ... Well, then it can't be helped. I'm going to ask the Eden Group!",
         "pt": "[Poch]\nAh ... Bem, então não há como evitar. Vou perguntar ao Grupo do Éden!",
-        "es": "[Paul]\nAh… Bueno, entonces, no tengo más remedio. ¡Iré a pedírselo al Grupo de Edén!"
+        "es": "[Paul]\nAh… Bueno, entonces, no tengo más remedio. ¡Iré a pedírselo al Grupo del Edén!"
     },
     "o6/ACg": {
         "en": "Let's go!",
@@ -472,12 +472,12 @@
     "3q/ACg": {
         "en": "[Ann]\nThe Eden Group is great! They even help children!",
         "pt": "[Ann]\nO Grupo do Éden é ótimo! Eles até ajudam crianças!",
-        "es": "[Ann]\n¡El Grupo de Edén es genial! ¡Incluso ayuda a los niños!"
+        "es": "[Ann]\n¡El Grupo del Edén es genial! ¡Incluso ayuda a los niños!"
     },
     "36/ACg": {
         "en": "^4D4DFFQuest Prerequisites:\nEden Group quest [Legendary Knight, Ambernite] completed; cooldown reset.^000000",
         "pt": "^4D4DFFPré-requisitos da missão:\nMissão do Grupo do Éden [Cavaleiro Lendário, Ambernite] concluída; tempo de espera reiniciado.^000000",
-        "es": "^4D4DFFRequisitos previos de la misión:\nMisión [Caballero legendario, Ambarnito] del Grupo de Edén completada; tiempo de espera restablecido.^000000"
+        "es": "^4D4DFFRequisitos previos de la misión:\nMisión [Caballero legendario, Ambarnito] del Grupo del Edén completada; tiempo de espera restablecido.^000000"
     },
     "4K/ACg": {
         "en": "[Ann]\nThere are a lot of Thief Bugs here.\nIf you anger them, they'll group up and attack you, so be careful!",
@@ -867,7 +867,7 @@
     "LbDACg": {
         "en": "[Raid Captain]\nEh, what's that? You want to join the raid?\nAre you from the ^4D4DFFEden Group^000000?\nNo, it doesn't matter.",
         "pt": "[Capitão do Ataque Surpresa]\nÃh, o que é isso? Você quer participar do ataque surpresa?\nVocê é do ^4D4DFFGrupo do Éden^000000?\nNão, isso não importa.",
-        "es": "[Capitán de asalto]\nEh, ¿qué dices? ¿Quieres unirte al asalto?\n¿Eres del ^4D4DFFGrupo de Edén^000000?\nNo, no importa."
+        "es": "[Capitán de asalto]\nEh, ¿qué dices? ¿Quieres unirte al asalto?\n¿Eres del ^4D4DFFGrupo del Edén^000000?\nNo, no importa."
     },
     "LrDACg": {
         "en": "[Raid Captain]\nAh, are these supplies?\nSome food rations and a first-aid kit.\nThat'll do.",
@@ -1442,7 +1442,7 @@
     "oLDACg": {
         "en": "[Lars]\nI asked to go to the ^4D4DFFEden Group ^000000 to send me a talented adventurer ...\nBut those who took the quest from me will never come.",
         "pt": "[Lars]\nEu pedi para ir ao ^4D4DFFGrupo do Éden^000000 para me enviar um aventureiro talentoso...\nMas aqueles que tomaram a missão de mim nunca virão.",
-        "es": "[Lars]\nPedí al ^4D4DFFGrupo de Edén^000000 que me enviara trotamundos hábiles…\nPero los que aceptaron la misión nunca vinieron."
+        "es": "[Lars]\nPedí al ^4D4DFFGrupo del Edén^000000 que me enviara trotamundos hábiles…\nPero los que aceptaron la misión nunca vinieron."
     },
     "obDACg": {
         "en": "[Lars]\nIf your Adventurer were a little stronger, then I will be able to accept the quest from me.\nIt's a shame.",
@@ -1457,7 +1457,7 @@
     "o7DACg": {
         "en": "[Lars]\nOh! Are you from the Eden Group? \nWell, isn't it really that important? But can you accept the quest from me?",
         "pt": "[Lars]\nOh! Você é do Grupo do Éden? \nBem, não é mesmo tão importante. Mas você pode aceitar a missão de mim?",
-        "es": "[Lars]\n¡Ah! ¿Eres del Grupo de Edén? \nBueno, ¿no es realmente muy importante? Pero, ¿puedes aceptar la misión que ofrezco?"
+        "es": "[Lars]\n¡Ah! ¿Eres del Grupo del Edén? \nBueno, ¿no es realmente muy importante? Pero, ¿puedes aceptar la misión que ofrezco?"
     },
     "pLDACg": {
         "en": "Quest?",

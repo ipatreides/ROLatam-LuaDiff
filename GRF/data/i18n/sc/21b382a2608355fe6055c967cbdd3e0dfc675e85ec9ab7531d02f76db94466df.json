@@ -37,7 +37,7 @@
     "50ZnAw": {
         "en": "[Timothy]\nOh, I also asked the Eden Group to do it.  Seems that you've taken on the quest.",
         "pt": "[Timothy]\nAh, você aceitou a solicitação que fiz no Grupo do Éden.",
-        "es": "[Timothy]\nAh, también se lo pedí al Grupo de Edén.  Parece que tomaste la misión."
+        "es": "[Timothy]\nAh, también se lo pedí al Grupo del Edén.  Parece que tomaste la misión."
     },
     "6EZnAw": {
         "en": "[Timothy]\nI'm counting on you! Hurry there and finish it.",
@@ -47,7 +47,7 @@
     "6UZnAw": {
         "en": "[Timothy]\nHave you finished everything I asked the Eden Group to do?\nAlright, pal! Get some rest. I'll have more work for you later!",
         "pt": "[Timothy]\nVocê concluiu a solicitação do Grupo do Éden?\nÓtimo! Vá descansar um pouco!",
-        "es": "[Timothy]\n¿Terminaste todo lo que le pedí al Grupo de Edén que hiciera?\n¡Muy bien, camarada! Descansa un poco. ¡Tendré más trabajo para ti después!"
+        "es": "[Timothy]\n¿Terminaste todo lo que le pedí al Grupo del Edén que hiciera?\n¡Muy bien, camarada! Descansa un poco. ¡Tendré más trabajo para ti después!"
     },
     "6kZnAw": {
         "en": "Ugh... What should I do, what should I do.",
@@ -1067,7 +1067,7 @@
     "tUdnAw": {
         "en": "[Mulberry]\nOh my, it seems that you've got the quest I requested from the Eden Group. I cannot believe you came to me. You look very, very earnest.",
         "pt": "[Amora]\nOra, ora... Parece que você aceitou a missão que solicitei ao Grupo do Éden.\nMal posso acreditar que veio até mim.\nVocê parece tão, tão... dedicado.",
-        "es": "[Mulberry]\nVaya, parece que tienes la misión que le pedí al Grupo de Edén. No puedo creer que vinieras a verme. Pareces una persona muy, pero muy seria."
+        "es": "[Mulberry]\nVaya, parece que tienes la misión que le pedí al Grupo del Edén. No puedo creer que vinieras a verme. Pareces una persona muy, pero muy seria."
     },
     "tkdnAw": {
         "en": "[Mulberry]\nIf you want to hear more details or want to do business together, please come and see me in person.",
@@ -1077,7 +1077,7 @@
     "t0dnAw": {
         "en": "[Mulberry]\nHave you finished the quest I asked the Eden Group to do?\nThen get some rest for a while before coming back.",
         "pt": "[Amora]\nVocê terminou todas as solicitações do Grupo do Éden?\nEntão, descanse um pouco e volte depois.",
-        "es": "[Mulberry]\n¿Terminaste la misión que le pedí al Grupo de Edén?\nEntonces, descansa un rato antes de volver."
+        "es": "[Mulberry]\n¿Terminaste la misión que le pedí al Grupo del Edén?\nEntonces, descansa un rato antes de volver."
     },
     "uEdnAw": {
         "en": "[Mulberry]\nOh my, who are you, honey? What are you doing here?",
@@ -2792,7 +2792,7 @@
     "DklnAw": {
         "en": "[Knight Thibault]\nHmm... It seems that you've got the quest I requested the Eden Group to do.",
         "pt": "[Soldado Tibalto]\nHmm... Parece que você recebeu a missão que pedi ao Grupo do Éden.",
-        "es": "[Caballero Tibalt]\nMmm… Parece que tienes la misión que le pedí al Grupo de Edén."
+        "es": "[Caballero Tibalt]\nMmm… Parece que tienes la misión que le pedí al Grupo del Edén."
     },
     "D0lnAw": {
         "en": "[Knight Thibault]\nYou don't look half bad, so do your best. If you want to hear more details, come to me again.",
@@ -2802,7 +2802,7 @@
     "EElnAw": {
         "en": "[Knight Thibault]\nIt seems that you're back after completing the quest I requested the Eden Group to do.\nIt's not good for you to work too hard too quickly. Get some rest and come back again.",
         "pt": "[Soldado Tibalto]\nParece que você retornou após concluir a missão que pedi ao Grupo do Éden.\nTrabalhar rápido demais não é bom para você. Descanse um pouco e volte mais tarde.",
-        "es": "[Caballero Tibalt]\nParece que regresaste tras completar la misión que le pedí al Grupo de Edén.\nNo te hace bien trabajar tanto en tan poco tiempo. Descansa un poco y vuelve otra vez."
+        "es": "[Caballero Tibalt]\nParece que regresaste tras completar la misión que le pedí al Grupo del Edén.\nNo te hace bien trabajar tanto en tan poco tiempo. Descansa un poco y vuelve otra vez."
     },
     "EUlnAw": {
         "en": "[Knight Thibault]\nHey, you, are you an adventurer?\nIt is a pleasure to meet you.",

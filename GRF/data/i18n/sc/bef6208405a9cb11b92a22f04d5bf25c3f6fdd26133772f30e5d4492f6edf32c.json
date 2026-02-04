@@ -257,12 +257,12 @@
     "EwkeAw": {
         "en": "You will level up easily\nonce you report to the Eden Group\nand complete the quests suitable for your level.",
         "pt": "Registre-se no Grupo do Éden.\nLá, eles te dão missões e itens muito bons. Dá pra evoluir bem rápido!",
-        "es": "Subirás de nivel fácilmente\nuna vez que te reportes al Grupo Edén\ny completes las misiones adecuadas a tu nivel."
+        "es": "Subirás de nivel fácilmente\nuna vez que te reportes al Grupo del Edén\ny completes las misiones adecuadas a tu nivel."
     },
     "FAkeAw": {
         "en": "[Swordsman Ecalto]\nThere's a teleporter here\nto the Eden Group,\nso use it and go discuss with them.",
         "pt": "[Espadachim Luna]\nHá um teletransportador aqui\npara o Grupo Eden,\nportanto, use-o e vá conversar com eles.",
-        "es": "[Espadachín Ecalto]\nHay un teletransportador aquí\nal Grupo Edén,\nasí que úsalo y ve a discutir con ellos."
+        "es": "[Espadachín Ecalto]\nHay un teletransportador aquí\nal Grupo del Edén,\nasí que úsalo y ve a discutir con ellos."
     },
     "FQkeAw": {
         "en": "Was the explanation clear enough?\nLet's move on to the actual training.",
@@ -347,7 +347,7 @@
     "JQkeAw": {
         "en": "[Swordsman Ecalto]\nI see that you have beaten\nthe ^FF0000Familiars^000000.\nI don't think you need\nmy training anymore.\nPlease hone your skills\nwith the Eden Group from now on.",
         "pt": "[Espadachim Luna]\nOlha só! Você deu cabo mesmo dos ^FF0000Familiar^000000!\nParabéns!",
-        "es": "[Espadachín Ecalto]\nVeo que has vencido\na los ^FF0000Familiares^000000.\nNo creo que necesites\nmi entrenamiento.\nPor favor, perfecciona tus habilidades\ncon el Grupo Edén a partir de ahora."
+        "es": "[Espadachín Ecalto]\nVeo que has vencido\na los ^FF0000Familiares^000000.\nNo creo que necesites\nmi entrenamiento.\nPor favor, perfecciona tus habilidades\ncon el Grupo del Edén a partir de ahora."
     },
     "JgkeAw": {
         "en": "[Swordsman Ecalto]\nGo to the culvert\nand beat 10 Familiars.\nBest of luck!",
@@ -362,7 +362,7 @@
     "KAkeAw": {
         "en": "The Eden Group will be of help\nwhile you hone your Swordsman skills.\nTrust them,\nas you have trusted me.",
         "pt": "O Grupo Eden o ajudará\nenquanto você aprimora suas habilidades de espadachim.\nConfie neles,\ncomo você confiou em mim.",
-        "es": "El Grupo Edén será de ayuda\nmientras perfeccionas tus habilidades de espadachín.\nConfía en ellos,\ncomo has confiado en mí."
+        "es": "El Grupo del Edén será de ayuda\nmientras perfeccionas tus habilidades de espadachín.\nConfía en ellos,\ncomo has confiado en mí."
     },
     "KQkeAw": {
         "en": "Swordsman Phodin",
@@ -527,11 +527,11 @@
     "SQkeAw": {
         "en": "You will be able to level up easily\nonce you report to the Eden Group\nand complete the quests suitable for your level.",
         "pt": "Registre-se no Grupo do Éden.\nLá, eles te dão missões e itens muito bons. Dá pra evoluir bem rápido!",
-        "es": "Podrás subir de nivel fácilmente\nuna vez que te reportes al Grupo Edén\ny completes las misiones adecuadas a tu nivel."
+        "es": "Podrás subir de nivel fácilmente\nuna vez que te reportes al Grupo del Edén\ny completes las misiones adecuadas a tu nivel."
     },
     "SgkeAw": {
         "en": "[Swordsman Phodin]\nThere's a teleporter here\nto the Eden Group,\nso use it and go have a discussion with them.",
         "pt": "[Foldin]\nHá um teletransportador aqui\npara o Grupo Eden,\nportanto, use-o e vá conversar com eles.",
-        "es": "[Espadachín Phodin]\nHay un teletransportador aquí\nal Grupo Edén,\nasí que úsalo y ve a tener una discusión con ellos."
+        "es": "[Espadachín Phodin]\nHay un teletransportador aquí\nal Grupo del Edén,\nasí que úsalo y ve a tener una discusión con ellos."
     }
 }

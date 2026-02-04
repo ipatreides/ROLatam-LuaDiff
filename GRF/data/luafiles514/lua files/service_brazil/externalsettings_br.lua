@@ -15,7 +15,8 @@ MaxLevelTable = {
 	JobLevelDoram = 55
 }
 MakeableRace = {Doram = false}
-AssistAddr = "34.95.249.53:2052"
+AssistAddr = "lt-account-01.gnjoylatam.com:2052"
+BlockStart = false
 LEVELAURA = {}
 LEVELAURA.EF_NONE = -1
 LEVELAURA.EF_LEVEL99 = 200

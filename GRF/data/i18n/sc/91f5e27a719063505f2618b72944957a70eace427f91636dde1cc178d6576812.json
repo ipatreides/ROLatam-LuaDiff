@@ -1672,12 +1672,12 @@
     "Ln1zAw": {
         "en": "[Anxious Middle-Aged Man]\nYou must be the one who accepted the quest I posted at the Eden Group.\nGood luck.",
         "pt": "[Pai Nervoso]\nVocê aceitou minha solicitação lá no Grupo do Éden, obrigado.\nBom trabalho.",
-        "es": "[Hombre Ansioso]\nDebes ser quien aceptó la misión que publiqué en el Grupo de Edén.\nBuena suerte."
+        "es": "[Hombre Ansioso]\nDebes ser quien aceptó la misión que publiqué en el Grupo del Edén.\nBuena suerte."
     },
     "L31zAw": {
         "en": "^4D4DFFQuest Prerequisites:\nEden Group quest [Sweet, Sweet Labor] completed; cooldown reset.^000000",
         "pt": "^4D4DFFPara prosseguir com a missão,\nvocê precisa concluir a missão [Trabalho Braçal] lá no Grupo do Éden e aguardar o tempo de retorno.^000000",
-        "es": "^4D4DFFRequisitos previos de la misión:\nMisión [Dulce, dulce labor] del Grupo de Edén completada; se restableció el tiempo de recarga.^000000"
+        "es": "^4D4DFFRequisitos previos de la misión:\nMisión [Dulce, dulce labor] del Grupo del Edén completada; se restableció el tiempo de recarga.^000000"
     },
     "MH1zAw": {
         "en": "[Man]\nSay, are you heading out of the village by any chance?\nCan I ask a favor of you, if you are going out through the southern gate?",
@@ -1722,7 +1722,7 @@
     "OH1zAw": {
         "en": "[Man]\nI should ask someone else to take care of it next time.\nOr assign my quest to the Eden Group.",
         "pt": "[Senhor]\nA partir de agora, pedirei outras pessoas para fazerem esse trabalho.\nAcho que vou abrir uma solicitação no Grupo do Éden.",
-        "es": "[Hombre]\nDebería pedirle a alguien más que se encargue la próxima vez.\nO asignarle la misión al Grupo de Edén."
+        "es": "[Hombre]\nDebería pedirle a alguien más que se encargue la próxima vez.\nO asignarle la misión al Grupo del Edén."
     },
     "OX1zAw": {
         "en": "[Man]\nI am sorry that you have to go through so much trouble because of my son.\n... Well, if you are up for it,\ncan I ask you to go get some firewood next time?",
@@ -1732,7 +1732,7 @@
     "On1zAw": {
         "en": "[Man]\nI will also post it on the Eden Group, but ...\nThanks anyway.",
         "pt": "[Senhor]\nSe não puder, vou pedir para alguém no Grupo do Éden...\n...De qualquer maneira, obrigado.",
-        "es": "[Hombre]\nTambién lo publicaré en el Grupo de Edén, pero…\nGracias de todos modos."
+        "es": "[Hombre]\nTambién lo publicaré en el Grupo del Edén, pero…\nGracias de todos modos."
     },
     "O31zAw": {
         "en": "[Man]\nI've got enough firewood, thanks.\nI will ask you again when I need some more.",
@@ -1787,7 +1787,7 @@
     "RX1zAw": {
         "en": "[Dongdong]\nHehe, are you here for the quest you got from the Eden Group? Go do that first, then come talk to me.\nGood luck.",
         "pt": "[Ricardo]\nAh, você já aceitou a solicitação no Grupo do Éden~\nBom trabalho.",
-        "es": "[Dongdong]\nJe, je, ¿estás aquí por la misión que obtuviste del Grupo de Edén? Ve a hacer eso primero y luego ven a hablar conmigo.\nBuena suerte."
+        "es": "[Dongdong]\nJe, je, ¿estás aquí por la misión que obtuviste del Grupo del Edén? Ve a hacer eso primero y luego ven a hablar conmigo.\nBuena suerte."
     },
     "Rn1zAw": {
         "en": "[Dongdong]\nThere are plenty of trees,\nso there's plenty of shade!",
@@ -1902,12 +1902,12 @@
     "XH1zAw": {
         "en": "[Lady]\nOh, you must be the one who accepted my quest from the Eden Group.",
         "pt": "[Moça]\nAh, você já aceitou a solicitação no Grupo do Éden.",
-        "es": "[Dama]\nAh, debes ser la persona que aceptó mi misión del Grupo de Edén."
+        "es": "[Dama]\nAh, debes ser la persona que aceptó mi misión del Grupo del Edén."
     },
     "XX1zAw": {
         "en": "^4D4DFFQuest Prerequisites:\nEden Group quest [Professional Snake Hunter] completed; cooldown reset.^000000",
         "pt": "^4D4DFFPara prosseguir com a missão,\nvocê precisa concluir a missão [Medo de Cobras] lá no Grupo do Éden e aguardar o tempo de retorno.^000000",
-        "es": "^4D4DFFRequisitos previos de la misión:\nMisión [Cazaserpientes profesional] del Grupo de Edén completada; se restableció el tiempo de recarga.^000000"
+        "es": "^4D4DFFRequisitos previos de la misión:\nMisión [Cazaserpientes profesional] del Grupo del Edén completada; se restableció el tiempo de recarga.^000000"
     },
     "Xn1zAw": {
         "en": "[Lady]\nOh, you must be an Adventurer!\nIs this your first time in Payon?",
@@ -2002,7 +2002,7 @@
     "cH1zAw": {
         "en": "[Lady]\nI should ask the Eden Group to help me, then.\nGoodbye.",
         "pt": "[Moça]\nOh, puxa.\nTerei de arranjar outra pessoa.",
-        "es": "[Dama]\nEntonces, debería pedirle ayuda al Grupo de Edén.\nAdiós."
+        "es": "[Dama]\nEntonces, debería pedirle ayuda al Grupo del Edén.\nAdiós."
     },
     "cX1zAw": {
         "en": "[Lady]\nYou really are a skilled Adventurer.\nThanks to you, my children and I will be able to enjoy a picnic in the forest.",
@@ -2027,12 +2027,12 @@
     "dX1zAw": {
         "en": "[Grandma]\nI heard that someone accepted the quest I posted to the Eden Group. That must be you.",
         "pt": "[Vovozinha]\nOh, você já aceitou meu pedido lá no Grupo do Éden.",
-        "es": "[Abuela]\nOí que alguien aceptó la misión que publiqué en el Grupo de Edén. Debes ser tú."
+        "es": "[Abuela]\nOí que alguien aceptó la misión que publiqué en el Grupo del Edén. Debes ser tú."
     },
     "dn1zAw": {
         "en": "^4D4DFFQuest Prerequisites:\nEden Group quest [That is One Nasty Onion] completed; cooldown reset.^000000",
         "pt": "^4D4DFFPara prosseguir com a missão,\nvocê precisa concluir a missão [Não é uma Cebola] lá no Grupo do Éden e aguardar o tempo de retorno.^000000",
-        "es": "^4D4DFFRequisitos previos de la misión:\nMisión [Qué cebolla desagradable] del Grupo de Edén completada; se restableció el tiempo de recarga.^000000"
+        "es": "^4D4DFFRequisitos previos de la misión:\nMisión [Qué cebolla desagradable] del Grupo del Edén completada; se restableció el tiempo de recarga.^000000"
     },
     "d31zAw": {
         "en": "[Grandma]\nHello there, young Adventurer.\nPlease hear me out.",
@@ -2107,7 +2107,7 @@
     "hX1zAw": {
         "en": "Go talk to the Eden Group.",
         "pt": "O Grupo do Éden.",
-        "es": "Ve a hablar con el Grupo de Edén."
+        "es": "Ve a hablar con el Grupo del Edén."
     },
     "hn1zAw": {
         "en": "Should I?",
@@ -2177,7 +2177,7 @@
     "k31zAw": {
         "en": "[Grandma]\nI should go ask those Eden Group folks then ...\nHaha ...",
         "pt": "[Vovozinha]\nEntão, vou pedir para as crianças do Grupo do Éden.\nHoho~...",
-        "es": "[Abuela]\nEntonces, debería pedírselo a los del Grupo de Edén…\nJa, ja…"
+        "es": "[Abuela]\nEntonces, debería pedírselo a los del Grupo del Edén…\nJa, ja…"
     },
     "lH1zAw": {
         "en": "[Grandma]\nThey can be found in the forest to the east.\nGood luck.",
@@ -2207,7 +2207,7 @@
     "mX1zAw": {
         "en": "^4D4DFFQuest Prerequisites:\nEden Group quest [Before There Are Mushrooms Everywhere ...] completed; cooldown reset.^000000",
         "pt": "^4D4DFFPara prosseguir com a missão,\nvocê precisa concluir a missão [Cogumelo Estranho] lá no Grupo do Éden e aguardar o tempo de retorno.^000000",
-        "es": "^4D4DFFRequisitos previos de la misión:\nMisión [Antes de que haya hongos por todas partes…] del Grupo de Edén completada; se restableció el tiempo de recarga.^000000"
+        "es": "^4D4DFFRequisitos previos de la misión:\nMisión [Antes de que haya hongos por todas partes…] del Grupo del Edén completada; se restableció el tiempo de recarga.^000000"
     },
     "mn1zAw": {
         "en": "[Grandpa]\nWe have to\nget rid of those hideous things ... Do you know who I should talk to?",

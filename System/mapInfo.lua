@@ -3112,7 +3112,7 @@ mapTbl = {
 		displayName = "Ilusão Submarina (1)",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Túnel Submarino"
+			mainTitle = "Ilusão Submarina (1)"
 		},
 		backgroundBmp = "dungeon"
 	},
@@ -3120,7 +3120,7 @@ mapTbl = {
 		displayName = "Ilusão Submarina (2)",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Templo Submarino"
+			mainTitle = "Ilusão Submarina (2)"
 		},
 		backgroundBmp = "dungeon"
 	},

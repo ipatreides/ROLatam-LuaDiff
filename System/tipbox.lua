@@ -1397,6 +1397,60 @@ tbl = {
 		Page = {
 			"Mirko pede que você reúna 20 Cascas de Reconhecimento.\n\t\n\t\t\t<NAVI>[Mirko]<INFO>anthell02,177,190,0,101,0</INFO></NAVI>\n\n\t<TIPBOX>§Ilusão dos Gêmeos<INFO>9157</INFO></TIPBOX> Concluído\n\t^663399◆Nível 160 ou superior^000000\n\n\t<TIPBOX>§Página Anterior<INFO>9093</INFO></TIPBOX>\n\t<TIPBOX>§Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
 		}
+	},
+	[9093] = {
+		Title = "Ilusão do Mar",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Investigue os eventos suspeitos na Ilusão do Mar.\n\t\t\t^663399» Nível 140 ou superior^000000\n\t\t\t\n\t\t\t<NAVI>[Izlude]<INFO>izlude,132,49,0,101,0</INFO></NAVI>\n\t\t\t\n\t\t\t» Missões Principais\n\t\t\t<TIPBOX>Investigação Ilusional (180)<INFO>9134</INFO></TIPBOX>\n\t\t\t\n\t\t\t» Missões Diárias\n\t\t\t<TIPBOX>Amostra de Essências (140)<INFO>9122</INFO></TIPBOX>\n\t\t\t<TIPBOX>Controle de Criaturas (140)<INFO>9123</INFO></TIPBOX>\n\t\t\t<TIPBOX>Controle de Peixes (180)<INFO>9124</INFO></TIPBOX>\n\t\t\t<TIPBOX>Controle de Espécies (180)<INFO>9125</INFO></TIPBOX>\n\t\t\t\t\t\n\t\t\tApós completar a Ilusão do Mar, você pode criar equipamentos poderosos com <ITEM>[Pedra Ilusional]<INFO>25271</INFO></ITEM>.\n\t\t\tVocê precisa refinar certos equipamentos para +9.\n\t\t\t^663399» Materiais^000000\n\t\t\t» <NAVI>[Túnel Abissal]<INFO>iz_d04_i,134,228,0,101,0</INFO></NAVI>\n\t\t\tØ <ITEM>[Enguia Ilusional]<INFO>580008</INFO></ITEM>\n\t\t\t+9 <ITEM>[Enguia Elétrica]<INFO>1972</INFO></ITEM>, 150x <ITEM>[Estrela-Abissal]<INFO>25895</INFO></ITEM>, 120x <ITEM>[Pedra Ilusional]<INFO>25271</INFO></ITEM>\n\t\t\tØ <ITEM>[Guitarra Ilusional]<INFO>570008</INFO></ITEM>\n\t\t\t+9<ITEM>[Guitarra Elétrica]<INFO>1913</INFO></ITEM>, 150x <ITEM>[Estrela-Abissal]<INFO>25895</INFO></ITEM>, 120x <ITEM>[Pedra Ilusional]<INFO>25271</INFO></ITEM>\n\t\t\tØ <ITEM>[Brionac Ilusional]<INFO>630006</INFO></ITEM>\n\t\t\t+9 <ITEM>[Brionac]<INFO>1470</INFO></ITEM>, 150x <ITEM>[Restos de Peixe]<INFO>25893</INFO></ITEM>, 120x <ITEM>[Pedra Ilusional]<INFO>25271</INFO></ITEM>\n\t\t\tØ <ITEM>[Gélida Ilusional]<INFO>610012</INFO></ITEM>\n\t\t\t+9 <ITEM>[Katar Gélida [3]<INFO>1275</INFO></ITEM>, 150x <ITEM>[Siri]<INFO>25896</INFO></ITEM>, 120x <ITEM>[Pedra Ilusional]<INFO>25271</INFO></ITEM>\n\t\t\tØ <ITEM>[Guia Ilusional]<INFO>600011</INFO></ITEM>\n\t\t\t+9 <ITEM>[Guia da Morte]<INFO>1186</INFO></ITEM>, 150x <ITEM>[Carcaça de Peixe]<INFO>25894</INFO></ITEM>, 120x <ITEM>[Pedra Ilusional]<INFO>25271</INFO></ITEM>\n\t\t\tØ <ITEM>[Zéfiro Ilusional]<INFO>630007</INFO></ITEM>\n\t\t\t+9 <ITEM>[Zéfiro [3]<INFO>1481</INFO></ITEM>, 150x <ITEM>[Concha Abissal]<INFO>25892</INFO></ITEM>, 120x <ITEM>[Pedra Ilusional]<INFO>25271</INFO></ITEM>\n\t\t\tØ <ITEM>[Manto Ilusional]<INFO>450144</INFO></ITEM>\n\t\t\t+9 <ITEM>[Manto Sagrado [1]<INFO>2326</INFO></ITEM>, 100x <ITEM>[Restos de Peixe]<INFO>25893</INFO></ITEM>, 20x <ITEM>[Essência Abismal]<INFO>25899</INFO></ITEM>, 90x <ITEM>[Pedra Ilusional]<INFO>25271</INFO></ITEM>\n\t\t\tØ <ITEM>[Oceânica Ilusional]<INFO>450145</INFO></ITEM>\n\t\t\t+9 <ITEM>[Couraça da Submissão Oceânica [1]<INFO>2347</INFO></ITEM>, 100x <ITEM>[Siri]<INFO>25896</INFO></ITEM>, 20x <ITEM>[Essência Abismal]<INFO>25899</INFO></ITEM>, 90x <ITEM>[Pedra Ilusional]<INFO>25271</INFO></ITEM>\n\t\t\tØ <ITEM>[Cota Ilusional]<INFO>450146</INFO></ITEM>\n\t\t\t+9 <ITEM>[Cota de Malha [1]<INFO>2315</INFO></ITEM>, 100x <ITEM>[Estrela-Abissal]<INFO>25895</INFO></ITEM>, 20x <ITEM>[Essência Abismal]<INFO>25899</INFO></ITEM>, 90x <ITEM>[Pedra Ilusional]<INFO>25271</INFO></ITEM>\n\t\t\tØ <ITEM>[Elmo Morrigane Ilusional]<INFO>400053</INFO></ITEM>\n\t\t\t+9 <ITEM>[Elmo de Morrigane]<INFO>5127</INFO></ITEM>, 100x <ITEM>[Siri]<INFO>25896</INFO></ITEM>, 50x <ITEM>[Essência Abismal]<INFO>25899</INFO></ITEM>, 100x <ITEM>[Pedra Ilusional]<INFO>25271</INFO></ITEM>\n\t\t\tØ <ITEM>[Manteau Morrigane Ilusional]<INFO>480054</INFO></ITEM>\n\t\t\t+9 <ITEM>[Manteau de Morrigane]<INFO>2519</INFO></ITEM>, 100x <ITEM>[Carcaça de Peixe]<INFO>25894</INFO></ITEM>, 50x <ITEM>[Essência Abismal]<INFO>25899</INFO></ITEM>, 100x <ITEM>[Pedra Ilusional]<INFO>25271</INFO></ITEM>\n\t\t\tØ <ITEM>[Cinto Morrigane Ilusional]<INFO>490069</INFO></ITEM>\n\t\t\t<ITEM>[Cinto de Morrigane]<INFO>2650</INFO></ITEM>, 100x <ITEM>[Restos de Peixe]<INFO>25893</INFO></ITEM>, 15x <ITEM>[Perna de Kraken]<INFO>7324</INFO></ITEM>, 50x <ITEM>[Essência Abismal]<INFO>25899</INFO></ITEM>, 100x <ITEM>[Pedra Ilusional]<INFO>25271</INFO></ITEM>\n\t\t\tØ <ITEM>[Pingente Morrigane Ilusional]<INFO>490070</INFO></ITEM>\n\t\t\t<ITEM>[Pingente de Morrigane]<INFO>2651</INFO></ITEM>, 100x <ITEM>[Concha Abissal]<INFO>25892</INFO></ITEM>, 15x <ITEM>[Coroa da Bruxa]<INFO>25897</INFO></ITEM>, 50x <ITEM>[Essência Abismal]<INFO>25899</INFO></ITEM>, 100x <ITEM>[Pedra Ilusional]<INFO>25271</INFO></ITEM>\n\n\t\t\t<TIPBOX>» Lista de missões<INFO>9085</INFO></TIPBOX>\n\t\t\t<TIPBOX>» Página inicial<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[9122] = {
+		Title = "Amostra de Essências (140)",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Colete 10 Essências Abissais na Ilusão do Mar.\n\t\n\t\t\t<NAVI>[Fossas Abismais]<INFO>iz_d04_i,127,228,0,101,0</INFO></NAVI>\n\n\t<TIPBOX>» Ilusão do Mar<INFO>9093</INFO></TIPBOX>\n\t^663399» Nível 140 ou superior^000000\n\n\t<TIPBOX>» Lista de missões<INFO>9093</INFO></TIPBOX>\n\t<TIPBOX>» Página inicial<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[9123] = {
+		Title = "Controle de Criaturas (140)",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Elimine 10 Sropho Abissal, 10 Deviace Abissal e 10 Marse Abissal na Ilusão do Mar.\n\t\n\t\t\t<NAVI>[Fossas Abismais]<INFO>iz_d04_i,127,228,0,101,0</INFO></NAVI>\n\n\t<TIPBOX>» Ilusão do Mar<INFO>9093</INFO></TIPBOX> \n\t^663399» Nível 140 ou superior^000000\n\n\t<TIPBOX>» Lista de missões<INFO>9093</INFO></TIPBOX>\n\t<TIPBOX>» Página inicial<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[9124] = {
+		Title = "Controle de Peixes (180)",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Elimine 10 Peixe Abissal, 10 Fen Abissal e 10 Dramoh Abissal na Ilusão do Mar.\n\t\n\t\t\t<NAVI>[Templo Abissal]<INFO>iz_d05_i,138,186,0,101,0</INFO></NAVI>\n\n\t<TIPBOX>» Ilusão do Mar<INFO>9093</INFO></TIPBOX> \n\t^663399» Nível 180 ou superior^000000\n\n\t<TIPBOX>» Lista de missões<INFO>9093</INFO></TIPBOX>\n\t<TIPBOX>» Página inicial<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[9125] = {
+		Title = "Controle de Espécies (180)",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Cace um total de 15 Sedora Abissal e Strouf Abissal dos monstros no Túnel Subaquático.\n\t\n\t\t\t<NAVI>[Túnel Subaquático]<INFO>iz_d05_i,138,186,0,101,0</INFO></NAVI>\n\n\t<TIPBOX>» Ilusão do Mar<INFO>9093</INFO></TIPBOX> \n\t^663399» Nível 180 ou superior^000000\n\n\t<TIPBOX>» Lista de missões<INFO>9093</INFO></TIPBOX>\n\t<TIPBOX>» Página inicial<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[9134] = {
+		Title = "Investigação Ilusional (180)",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Derrote os monstros e retorne a Rista.\n\t\t\tCace 100 monstros na Ilusão do Mar para receber sua recompensa.\n\t\n\t\t\t<NAVI>[Rista]<INFO>iz_d04_i,127,224,0,101,0</INFO></NAVI>\n\t\t\t\n\t\t\t^663399» Nível 180 ou superior^000000\n\n\t<TIPBOX>» Lista de missões<INFO>9093</INFO></TIPBOX>\n\t<TIPBOX>» Página inicial<INFO>1000</INFO></TIPBOX>"
+		}
 	}
 }
 function main()

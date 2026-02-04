@@ -3711,63 +3711,63 @@ QuestInfoList = {
 		Summary = "Investiga la alucinación auditiva."
 	},
 	[2087] = {
-		Title = "La empresa",
+		Title = "La Empresa",
 		Description = {
 			"Con la ayuda de un anciano, encuentras a ese extraño espíritu en la Corporación Rekenber y te guía."
 		},
 		Summary = "Entra en la Corporación Rekenber."
 	},
 	[2088] = {
-		Title = "La empresa",
+		Title = "La Empresa",
 		Description = {
 			"La recepcionista te informa que puedes buscar la historia de Rekenber en la biblioteca."
 		},
 		Summary = "Habla con un bibliotecario en la biblioteca de Rekenber."
 	},
 	[2089] = {
-		Title = "La empresa",
+		Title = "La Empresa",
 		Description = {
 			"Puedes buscar información sobre la historia de Rekenber en libros y preguntando a bibliotecarios."
 		},
 		Summary = "Obtén más información sobre Rekenber."
 	},
 	[2090] = {
-		Title = "La empresa",
+		Title = "La Empresa",
 		Description = {
 			"Wolfchev, investigador de Rekenber, dice que quiere algo brillante y redondo."
 		},
 		Summary = "Tráele a Wolfchev lo que pide y habla con él."
 	},
 	[2091] = {
-		Title = "La empresa",
+		Title = "La Empresa",
 		Description = {
 			"Consigues un antiguo Colgante que nadie abrió en el pasado de alguien relacionado con Rekenber."
 		},
 		Summary = "Busca la forma de abrir el Colgante."
 	},
 	[2092] = {
-		Title = "La empresa",
+		Title = "La Empresa",
 		Description = {
 			"El anciano te pide algunos objetos para remover la maldición que pesa sobre el Colgante."
 		},
 		Summary = "Trae al anciano 5 unidades de Agua bendita y 1 Ramo."
 	},
 	[2093] = {
-		Title = "La empresa",
+		Title = "La Empresa",
 		Description = {
 			"Con la ayuda del anciano, puedes abrir el Colgante y ver la foto de una chica sentada en una silla y un hombre que parece su hermano."
 		},
 		Summary = "Busca a quién le pertenece el Colgante."
 	},
 	[2094] = {
-		Title = "La empresa",
+		Title = "La Empresa",
 		Description = {
 			"Llegas a la conclusión de que la causa principal de todas las maldiciones es Rekenber y decides ir de nuevo a Rekenber para averiguar la verdad."
 		},
 		Summary = "Habla con funcionarios de Rekenber."
 	},
 	[2095] = {
-		Title = "La empresa",
+		Title = "La Empresa",
 		Description = {
 			"Sueii Slierre, secretaria en Rekenber, dice que Wolfchev se jubiló y el caso se cerró."
 		},
@@ -6128,21 +6128,21 @@ QuestInfoList = {
 		Description = {
 			"Caza ^0000FF30 Momias^000000 y recolecta 0000FF20 Vendajes podridos^000000s."
 		},
-		Summary = "Informa a Sparkle en el Grupo de Edén una vez completes la solicitud."
+		Summary = "Informa a Sparkle en el Grupo del Edén una vez completes la solicitud."
 	},
 	[3251] = {
 		Title = "Cocodrilos peligrosos",
 		Description = {
 			"Caza a los Cocodrilos que han estado atacando a la gente cerca de la playa. Caza 30 ^0000FFCocodrilos^000000s."
 		},
-		Summary = "Informa a Sparkle en el Grupo de Edén una vez completes la solicitud."
+		Summary = "Informa a Sparkle en el Grupo del Edén una vez completes la solicitud."
 	},
 	[3252] = {
 		Title = "Eso no era una Obeaune…",
 		Description = {
 			"Una solicitud de un cliente desconocido. Caza 30 Tritones en la mazmorra de Byalan."
 		},
-		Summary = "Informa a Sparkle en el Grupo de Edén una vez completes la solicitud."
+		Summary = "Informa a Sparkle en el Grupo del Edén una vez completes la solicitud."
 	},
 	[3253] = {
 		Title = "¡Mi país me llama!",
@@ -6154,49 +6154,49 @@ QuestInfoList = {
 		Description = {
 			"Recolecta 10 unidades de Arena fina y 30 Gravillas cazando monstruos Hombre de arena en Morroc."
 		},
-		Summary = "Informa a Sparkle en el Grupo de Edén una vez completes la solicitud."
+		Summary = "Informa a Sparkle en el Grupo del Edén una vez completes la solicitud."
 	},
 	[3255] = {
 		Title = "Cacería de Jabalí ",
 		Description = {
 			"Una solicitud del ayuntamiento de Payon. Cazar 30 Salvajes para salvar sus cosechas."
 		},
-		Summary = "Informa a Sparkle en el Grupo de Edén una vez completes la solicitud."
+		Summary = "Informa a Sparkle en el Grupo del Edén una vez completes la solicitud."
 	},
 	[3256] = {
 		Title = "Preparación del verano",
 		Description = {
 			"Una solicitud del Herrero Aragham de recolectar 30 Patas palmípedas pegajosas de Rana Thara."
 		},
-		Summary = "Informa a Sparkle en el Grupo de Edén una vez completes la solicitud."
+		Summary = "Informa a Sparkle en el Grupo del Edén una vez completes la solicitud."
 	},
 	[3257] = {
 		Title = "El rencor de una mujer",
 		Description = {
 			"Una solicitud del inventor Dorian de Izlude. Caza 30 monstruos Sohee en la mazmorra de Payon."
 		},
-		Summary = "Informa a Sparkle en el Grupo de Edén una vez completes la solicitud."
+		Summary = "Informa a Sparkle en el Grupo del Edén una vez completes la solicitud."
 	},
 	[3258] = {
 		Title = "Ingredientes especiales",
 		Description = {
 			"Una solicitud de Wallah de Payon. Recolecta 40 Hojas enormes para ayudarlo a fabricar una medicina especial."
 		},
-		Summary = "Informa a Sparkle en el Grupo de Edén una vez completes la solicitud."
+		Summary = "Informa a Sparkle en el Grupo del Edén una vez completes la solicitud."
 	},
 	[3259] = {
 		Title = "La agonía del titiritero",
 		Description = {
 			"Una solicitud de Woonute de Geffen. Caza 30 Marionetas y recolecta 30 Cabellos dorados."
 		},
-		Summary = "Informa a Sparkle en el Grupo de Edén una vez completes la solicitud."
+		Summary = "Informa a Sparkle en el Grupo del Edén una vez completes la solicitud."
 	},
 	[3260] = {
 		Title = "Moscas tediosas",
 		Description = {
 			"Una solicitud de un exterminador de Prontera. Caza 30 monstruos Mosca cazadora en la Torre de Geffen."
 		},
-		Summary = "Informa a Sparkle en el Grupo de Edén una vez completes la solicitud."
+		Summary = "Informa a Sparkle en el Grupo del Edén una vez completes la solicitud."
 	},
 	[3261] = {
 		Title = "Munak peligroso",
@@ -6210,7 +6210,7 @@ QuestInfoList = {
 		Description = {
 			"Una solicitud de un traficante de gemas de Morroc. Recolecta 40 Flores carnívoras de Flora en Comodo."
 		},
-		Summary = "Informa a Sparkle en el Grupo de Edén una vez completes la solicitud."
+		Summary = "Informa a Sparkle en el Grupo del Edén una vez completes la solicitud."
 	},
 	[3263] = {
 		Title = "Báculo mágico",
@@ -6777,212 +6777,226 @@ QuestInfoList = {
 		Summary = "Recolecta 10 Papitas fritas."
 	},
 	[3393] = {
-		Title = "Participación en la cacería real",
+		Title = "Cacería Real",
+		IconName = "ico_ev.bmp",
 		Description = {
-			"Después de cazar 30 monstruos de tipo animal, informa a <NAVI>[comandante Nadezda]<INFO>prt_fild01,98,171,0,101,0</INFO></NAVI>."
+			"Después de cazar 30 monstruos brutos, regresa con la <NAVI>[Comandante Nadezda]<INFO>prt_fild01,98,171,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Cacería de monstruos animales"
+		Summary = "Eliminar Brutos"
 	},
 	[3394] = {
-		Title = "Aprendiz de cazador - 1",
+		Title = "Cacería Real",
+		IconName = "ico_ev.bmp",
 		Description = {
-			"Después de cazar 30 monstruos de tipo animal de nivel superior a 50, informa al <NAVI>[asistente Lofince]<INFO>prt_fild01,97,1800,101,0</INFO></NAVI>."
+			"Después de cazar 30 monstruos brutos de nivel 50 o superior, regresa con el <NAVI>[Teniente Lofinche]<INFO>prt_fild01,97,180,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Cacería de monstruos animales"
+		Summary = "Eliminar Brutos"
 	},
 	[3395] = {
-		Title = "Aprendiz de cazador - 2",
+		Title = "Cacería Real",
+		IconName = "ico_ev.bmp",
 		Description = {
-			"Después de cazar 30 monstruos de tipo insecto de nivel superior a 50, informa al <NAVI>[asistente Lofince]<INFO>prt_fild01,97,1800,101,0</INFO></NAVI>."
+			"Después de cazar 30 monstruos insectos de nivel 50 o superior, regresa con el <NAVI>[Teniente Lofinche]<INFO>prt_fild01,97,180,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Cacería de monstruos de raza Insecto"
+		Summary = "Eliminar Insectos"
 	},
 	[3396] = {
-		Title = "Cazador experto - 1",
+		Title = "Cacería Real",
+		IconName = "ico_ev.bmp",
 		Description = {
-			"Después de cazar 30 monstruos de tipo pez y marisco de nivel superior a 50, informa al <NAVI>[asistente Jang Ha-sung]<INFO>prt_fild01,107,180,0,101,0</INFO></NAVI>."
+			"Después de cazar 30 monstruos peces de nivel 50 o superior, regresa con la <NAVI>[General Jang]<INFO>prt_fild01,107,180,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Cacería de monstruos de tipo pez y caparazón"
+		Summary = "Eliminar Peces"
 	},
 	[3397] = {
-		Title = "Cazador experto - 2",
+		Title = "Cacería Real",
+		IconName = "ico_ev.bmp",
 		Description = {
-			"Después de cazar 30 monstruos de tipo dragón de nivel 50 o superior, informa al <NAVI>[almirante Haseong Jang]<INFO>prt_fild01,107,180,0,101,0</INFO></NAVI>."
+			"Después de cazar 30 monstruos dragones de nivel 50 o superior, regresa con la <NAVI>[General Jang]<INFO>prt_fild01,107,180,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Cacería de monstruos de raza Dragón"
+		Summary = "Eliminar Dragones"
 	},
 	[3398] = {
-		Title = "A El coto de cacería real",
+		Title = "Cacería Real",
+		IconName = "ico_ev.bmp",
 		Description = {
-			"Usa el <NAVI>[dispositivo de teletransporte]<INFO>prt_fild01,93,174,0,101,0</INFO></NAVI> para entrar en el coto de cacería real."
+			"Para llegar al Campo de Caza, usa el <NAVI>[Teletransportador]<INFO>prt_fild01,94,171,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Cacería de monstruos de raza Dragón"
+		Summary = ""
 	},
 	[3399] = {
-		Title = "Cacería de monstruos de raza Insecto",
+		Title = "Cacería Real: Insectos",
+		IconName = "ico_ev.bmp",
 		Description = {
-			"Después de cazar 30 monstruos de tipo insecto de nivel superior a 50, informa al <NAVI>[asistente Lofince]<INFO>prt_fild01,97,1800,101,0</INFO></NAVI>."
+			"Después de cazar 30 monstruos insectos de nivel 50 o superior, regresa con el <NAVI>[Teniente Lofinche]<INFO>prt_fild01,97,180,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Cacería de monstruos de raza Insecto"
+		Summary = "Raza Insecto"
 	},
 	[3400] = {
-		Title = "Cacería de monstruos de raza Insecto - En espera",
+		Title = "[Espera] Cacería Real: Insectos",
+		IconName = "ico_ev.bmp",
 		Description = {
-			"Estas misiones son misiones diarias que puedes repetir cuando se acabe el tiempo de espera."
+			"Terminamos la cacería de hoy, mejor regresa después de la hora indicada."
 		},
-		Summary = "Se reinicia a las 4:00.",
+		Summary = "Vuelve mañana.",
 		CoolTimeQuest = 1
 	},
 	[3401] = {
-		Title = "Cacería de monstruos animales",
+		Title = "Cacería Real: Brutos",
+		IconName = "ico_ev.bmp",
 		Description = {
-			"Después de cazar 30 monstruos de tipo animal de nivel superior a 50, informa al <NAVI>[asistente Lofince]<INFO>prt_fild01,97,1800,101,0</INFO></NAVI>."
+			"Después de cazar 30 monstruos brutos de nivel 50 o superior, regresa con el <NAVI>[Teniente Lofinche]<INFO>prt_fild01,97,180,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Cacería de monstruos animales"
+		Summary = "Raza Bruto"
 	},
 	[3402] = {
-		Title = "Cacería de monstruos animales - En espera",
+		Title = "[Espera] Cacería Real: Brutos",
+		IconName = "ico_ev.bmp",
 		Description = {
-			"Estas misiones son misiones diarias que puedes repetir cuando se acabe el tiempo de espera."
+			"Terminamos la cacería de hoy, mejor regresa después de la hora indicada."
 		},
-		Summary = "Se reinicia a las 4:00.",
+		Summary = "Vuelve mañana.",
 		CoolTimeQuest = 1
 	},
 	[3403] = {
-		Title = "Cacería de monstruos de tipo pez y caparazón",
+		Title = "Cacería Real: Peces",
+		IconName = "ico_ev.bmp",
 		Description = {
-			"Después de cazar 30 monstruos de tipo pez de nivel superior a 50, informa al <NAVI>[asistente Lofince]<INFO>prt_fild01,97,180,0,101,0</INFO></NAVI>"
+			"Después de cazar 30 monstruos peces de nivel 50 o superior, regresa con el <NAVI>[Teniente Lofinche]<INFO>prt_fild01,97,180,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Cacería de monstruos de tipo pez y caparazón"
+		Summary = "Raza Pez"
 	},
 	[3404] = {
-		Title = "Cacería de monstruos de tipo pez y caparazón - En espera",
+		Title = "[Espera] Cacería Real: Peces",
+		IconName = "ico_ev.bmp",
 		Description = {
-			"Estas misiones son misiones diarias que puedes repetir cuando se acabe el tiempo de espera."
+			"Terminamos la cacería de hoy, mejor regresa después de la hora indicada."
 		},
-		Summary = "Se reinicia a las 4:00.",
+		Summary = "Vuelve mañana.",
 		CoolTimeQuest = 1
 	},
 	[3405] = {
-		Title = "Cacería de monstruos de raza Dragón",
+		Title = "Cacería Real: Dragones",
+		IconName = "ico_ev.bmp",
 		Description = {
-			"Caza 30 monstruos de tipo dragón de nivel 50 o superior y luego informa al <NAVI>[diputado Lopinche]<INFO>prt_fild01,97,180,0,101,0</INFO></NAVI>."
+			"Después de cazar 30 monstruos dragones de nivel 50 o superior, regresa con el <NAVI>[Teniente Lofinche]<INFO>prt_fild01,97,180,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Cacería de monstruos de raza Dragón"
+		Summary = "Raza Dragón"
 	},
 	[3406] = {
-		Title = "Cacería de monstruos de raza Dragón - En espera",
+		Title = "[Espera] Cacería Real: Dragones",
+		IconName = "ico_ev.bmp",
 		Description = {
-			"Estas misiones son misiones diarias que puedes repetir cuando se acabe el tiempo de espera."
+			"Terminamos la cacería de hoy, mejor regresa después de la hora indicada."
 		},
-		Summary = "Se reinicia a las 4:00.",
+		Summary = "Vuelve mañana.",
 		CoolTimeQuest = 1
 	},
 	[3407] = {
-		Title = "La caña de pescar del desaparecido",
+		Title = "Ilusión Submarina",
 		Description = {
-			"Llevemos Caña de Pescar de Sirud a <NAVI>[Científico marino Jerimon]<INFO>prt_in,157,66,0,101,0</INFO></NAVI>."
+			"Llevemos la Caña de Pescar de Sirud a <NAVI>[Jeremías]<INFO>prt_elib,57,18,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Hablar con Jerimon"
+		Summary = "Para Jeremías"
 	},
 	[3408] = {
-		Title = "Adquisición de Esencia del Abismo",
+		Title = "Ilusión Submarina",
 		Description = {
-			"Llevemos la Esencia del Abismo que recibimos de Gain a <NAVI>[Científico marino Jerimon]<INFO>prt_in,157,66,0,101,0</INFO></NAVI>."
+			"Llevemos la Esencia del Abismo a <NAVI>[Jeremías]<INFO>prt_elib,57,18,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Entregar Esencia del Abismo"
+		Summary = "Para Jeremías"
 	},
 	[3409] = {
-		Title = "Remolino que conduce a las profundidades del mar",
+		Title = "Ilusión Submarina",
 		Description = {
-			"Regresa a <NAVI>[Izlude]<INFO>izlude,132,54,0,101,0</INFO></NAVI> junto con Jerimon y crea el remolino que conecta con las profundidades marinas."
+			"Regresa a <NAVI>[Izlude]<INFO>izlude,132,54,0,101,0</INFO></NAVI>. Jeremías te espera allí."
 		},
-		Summary = "Habla con Jerimon en Izlude"
+		Summary = "Jeremías en Izlude"
 	},
 	[3410] = {
-		Title = "Por mar hacia Sirud",
+		Title = "Ilusión Submarina",
 		Description = {
-			"Sirud te pide que, cuando subas por mar, lo lleves contigo."
+			"Sirud quiere ir contigo."
 		},
-		Summary = "Subir al mar junto con Sirud"
+		Summary = "Para Sirud"
 	},
 	[3411] = {
-		Title = "Derrota a las criaturas de las profundidades marinas",
+		Title = "Ilusión Submarina",
 		Description = {
-			"^4d4dffSropho abismal^000000 y ^4d4dffDeviace abismal^000000 y también ^4d4dffMarse abismal^000000; derrota 10 de cada uno."
+			"Vamos a cazar 10 ^4D4DFFSropho Abismal^000000, 10 ^4D4DFFDeviace Abismal^000000 y 10 ^4D4DFFMarse Abismal^000000."
 		},
-		Summary = "Derrota a 3 tipos de criaturas de las profundidades marinas"
+		Summary = "Elimina a los monstruos"
 	},
 	[3412] = {
-		Title = "Recolección de Esencia del Abismo",
+		Title = "Ilusión Submarina",
 		Description = {
-			"^4d4dffReúne 10 Esencia del Abismo^000000 y llévaselos a <NAVI>[Jerimon]<INFO>iz_d04_i,127,228,0,101,0</INFO></NAVI>."
+			"Vamos a recolectar 10x ^4D4DFFEsencia del Abismo^000000 y entregárselas a <NAVI>[Jeremías]<INFO>iz_d04_i,127,228,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Entrega 10 Esencia del Abismo"
+		Summary = "10 Esencias del Abismo"
 	},
 	[3413] = {
-		Title = "Recolección de Esencia del Abismo - Diario",
+		Title = "Muestra de Esencias",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"^4d4dffReúne 10 Esencia del Abismo^000000 y llévaselos a <NAVI>[Jerimon]<INFO>iz_d04_i,127,228,0,101,0</INFO></NAVI>."
+			"Recolecta 10x ^4D4DFFEsencia del Abismo^000000 y entrégaselas a <NAVI>[Jeremías]<INFO>iz_d04_i,127,228,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Entrega 10 Esencia del Abismo"
+		Summary = "10x Esencia del Abismo"
 	},
 	[3414] = {
-		Title = "Recolección de Esencia del Abismo - En espera",
+		Title = "[Espera] Muestra de Esencias",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Esta misión es una misión diaria; cuando termine el tiempo de espera, podrás aceptarla de nuevo y completarla. Puedes aceptar la misión a través de <NAVI>[Jerimon]<INFO>iz_d04_i,127,228,0,101,0</INFO></NAVI>."
+			"Esta misión se puede repetir al día siguiente, solo habla con <NAVI>[Jeremías]<INFO>iz_d04_i,127,228,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Reinicio a las 04:00"
+		Summary = "Se reinicia a las 4 de la mañana."
 	},
 	[3415] = {
-		Title = "Derrota a las criaturas abisales del piso superior - Diario",
+		Title = "Control de Criaturas",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"^4d4dffSropho abismal^000000, ^4d4dffDeviace abismal^000000 y ^4d4dffMarse abismal^000000 y derrota 10 de cada uno."
+			"Vamos a cazar 10 ^4D4DFFSropho Abismal^000000, 10 ^4D4DFFDeviace Abismal^000000 y 10 ^4D4DFFMarse Abismal^000000."
 		},
-		Summary = "Derrota a 3 tipos de criaturas de las profundidades marinas"
+		Summary = "Elimina a los monstruos"
 	},
 	[3416] = {
-		Title = "Derrota a las criaturas abisales del piso superior - En espera",
+		Title = "[Espera] Control de Criaturas",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Esta misión es una misión diaria; cuando termine el tiempo de espera, podrás aceptarla de nuevo y completarla. <NAVI>[Jerimon]<INFO>iz_d04_i,127,228,0,101,0</INFO></NAVI> te permite aceptar la misión."
+			"Esta misión se puede repetir al día siguiente, solo habla con <NAVI>[Jeremías]<INFO>iz_d04_i,127,228,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Reinicio a las 04:00"
+		Summary = "Se reinicia a las 4 de la mañana."
 	},
 	[3417] = {
-		Title = "Derrota a las criaturas de las profundidades del nivel inferior - Diario",
+		Title = "Control de Peces",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"^4d4dffPez espada abismal^000000 y ^4d4dffPhen abismal^000000 y ^4d4dffRey Kray abismal^000000; derrota 10 de cada uno."
+			"Vamos a cazar 10 ^4D4DFFPez Espada Abismal^000000, 10 ^4D4DFFPhen Abismal^000000 y 10 ^4D4DFFRey Dramoh Abismal^000000."
 		},
-		Summary = "Derrota a 3 tipos de criaturas de las profundidades marinas"
+		Summary = "Elimina a los monstruos"
 	},
 	[3418] = {
-		Title = "Derrota a las criaturas de las profundidades del nivel inferior - En espera",
+		Title = "[Espera] Control de Peces",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Esta misión es una misión diaria; cuando termine el tiempo de espera, podrás aceptarla de nuevo y completarla. Puedes aceptar la misión a través de <NAVI>[Kena]<INFO>iz_d05_i,138,186,0,101,0</INFO></NAVI>."
+			"Esta misión se puede repetir al día siguiente, solo habla con <NAVI>[Kenna]<INFO>iz_d05_i,138,186,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Reinicio a las 04:00"
+		Summary = "Se reinicia a las 4 de la mañana."
 	},
 	[3419] = {
-		Title = "Derrota a los Hombres Pez del nivel inferior - Diario",
+		Title = "Control de Especies",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"^4d4dffDerrota a 15 Abismal Sedora^000000 y a 15 ^4d4dffStrouf Abismal^000000 por separado."
+			"Vamos a cazar 15 ^4D4DFFSedora Abismal^000000 y 15 ^4D4DFFStrouf Abismal^000000."
 		},
-		Summary = "Derrota a 2 tipos de hombres pez"
+		Summary = "Elimina a los monstruos"
 	},
 	[3420] = {
-		Title = "Derrota a los hombres pez del nivel inferior - En espera",
+		Title = "[Espera] Control de Especies",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Esta misión es una misión diaria; cuando termine el tiempo de espera, podrás aceptarla de nuevo y completarla. <NAVI>[Kena]<INFO>iz_d05_i,138,186,0,101,0</INFO></NAVI> te permite aceptar la misión."
+			"Esta misión se puede repetir al día siguiente, solo habla con <NAVI>[Kenna]<INFO>iz_d05_i,138,186,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Reinicio a las 04:00"
+		Summary = "Se reinicia a las 4 de la mañana."
 	},
 	[3421] = {
 		Title = "En busca del Libro de la Ilusión",
@@ -8120,35 +8134,35 @@ QuestInfoList = {
 	[4161] = {
 		Title = "Experto en asedios",
 		Description = {
-			"Habla con el experto en asedios en el segundo piso del cuartel general del Grupo de Edén y responde con éxito su cuestionario."
+			"Habla con el experto en asedios en el segundo piso del cuartel general del Grupo del Edén y responde con éxito su cuestionario."
 		},
 		Summary = ""
 	},
 	[4162] = {
 		Title = "Experto en reclutamiento para grupos",
 		Description = {
-			"Habla con el experto en reclutamiento para grupos en el segundo piso del cuartel general del Grupo de Edén y responde con éxito su cuestionario."
+			"Habla con el experto en reclutamiento para grupos en el segundo piso del cuartel general del Grupo del Edén y responde con éxito su cuestionario."
 		},
 		Summary = ""
 	},
 	[4163] = {
 		Title = "Experto en campos de batalla",
 		Description = {
-			"Habla con el experto en campos de batalla en el segundo piso del cuartel general del Grupo de Edén y responde con éxito su cuestionario."
+			"Habla con el experto en campos de batalla en el segundo piso del cuartel general del Grupo del Edén y responde con éxito su cuestionario."
 		},
 		Summary = ""
 	},
 	[4164] = {
 		Title = "Experto en Mazmorra del Recuerdo",
 		Description = {
-			"Habla con el experto en Mazmorra del Recuerdo en el segundo piso del cuartel general del Grupo de Edén y responde con éxito su cuestionario."
+			"Habla con el experto en Mazmorra del Recuerdo en el segundo piso del cuartel general del Grupo del Edén y responde con éxito su cuestionario."
 		},
 		Summary = ""
 	},
 	[4165] = {
 		Title = "Experto en mapas",
 		Description = {
-			"Habla con el experto en mapas en el segundo piso del cuartel general del Grupo de Edén y responde con éxito su cuestionario."
+			"Habla con el experto en mapas en el segundo piso del cuartel general del Grupo del Edén y responde con éxito su cuestionario."
 		},
 		Summary = ""
 	},
@@ -8162,210 +8176,210 @@ QuestInfoList = {
 	[4167] = {
 		Title = "Cacería de Colas de dragón",
 		Description = {
-			"Caza 30 monstruos Cola de dragón en la Isla Tortuga y vuelve al segundo piso del cuartel general del Grupo de Edén."
+			"Caza 30 monstruos Cola de dragón en la Isla Tortuga y vuelve al segundo piso del cuartel general del Grupo del Edén."
 		},
 		Summary = ""
 	},
 	[4168] = {
 		Title = "Cacería de Conejos de primavera",
 		Description = {
-			"Caza 30 monstruos Conejo de primavera en la Isla Tortuga y vuelve al segundo piso del cuartel general del Grupo de Edén."
+			"Caza 30 monstruos Conejo de primavera en la Isla Tortuga y vuelve al segundo piso del cuartel general del Grupo del Edén."
 		},
 		Summary = ""
 	},
 	[4169] = {
 		Title = "Cacería de Plagas",
 		Description = {
-			"Caza 30 monstruos Plaga en la Isla Tortuga y vuelve al segundo piso del cuartel general del Grupo de Edén."
+			"Caza 30 monstruos Plaga en la Isla Tortuga y vuelve al segundo piso del cuartel general del Grupo del Edén."
 		},
 		Summary = ""
 	},
 	[4170] = {
 		Title = "Cacería de Bathory",
 		Description = {
-			"Caza 30 monstruos Bathory en la Torre del reloj y vuelve al segundo piso del cuartel general del Grupo de Edén."
+			"Caza 30 monstruos Bathory en la Torre del reloj y vuelve al segundo piso del cuartel general del Grupo del Edén."
 		},
 		Summary = ""
 	},
 	[4171] = {
 		Title = "Cacería de Alarmas",
 		Description = {
-			"Caza 30 monstruos Alarma en la Torre del Reloj y vuelve al segundo piso del cuartel general del Grupo de Edén."
+			"Caza 30 monstruos Alarma en la Torre del Reloj y vuelve al segundo piso del cuartel general del Grupo del Edén."
 		},
 		Summary = ""
 	},
 	[4172] = {
 		Title = "Cacería de Baba Yaga",
 		Description = {
-			"Caza 30 monstruos Baba Yaga en Moscovia y vuelve al segundo piso del cuartel general del Grupo de Edén."
+			"Caza 30 monstruos Baba Yaga en Moscovia y vuelve al segundo piso del cuartel general del Grupo del Edén."
 		},
 		Summary = ""
 	},
 	[4173] = {
 		Title = "Cacería de Yao Jun",
 		Description = {
-			"Caza 30 monstruos Yao Jun en Luoyang y vuelve al segundo piso del cuartel general del Grupo de Edén."
+			"Caza 30 monstruos Yao Jun en Luoyang y vuelve al segundo piso del cuartel general del Grupo del Edén."
 		},
 		Summary = ""
 	},
 	[4174] = {
 		Title = "Cacería de Soldados arcabuceros",
 		Description = {
-			"Caza 30 monstruos Soldado arcabucero en Amatsu y vuelve al segundo piso del cuartel general del Grupo de Edén."
+			"Caza 30 monstruos Soldado arcabucero en Amatsu y vuelve al segundo piso del cuartel general del Grupo del Edén."
 		},
 		Summary = ""
 	},
 	[4175] = {
 		Title = "Cacería de Osos Zipper",
 		Description = {
-			"Caza 30 monstruos Oso Zipper en Kunlun y vuelve al segundo piso del cuartel general del Grupo de Edén."
+			"Caza 30 monstruos Oso Zipper en Kunlun y vuelve al segundo piso del cuartel general del Grupo del Edén."
 		},
 		Summary = ""
 	},
 	[4176] = {
 		Title = "Cacería de Petite terrestres",
 		Description = {
-			"Caza 30 monstruos Petite terrestre alrededor de Geffen y vuelve al segundo piso del cuartel general del Grupo de Edén."
+			"Caza 30 monstruos Petite terrestre alrededor de Geffen y vuelve al segundo piso del cuartel general del Grupo del Edén."
 		},
 		Summary = ""
 	},
 	[4177] = {
 		Title = "Cacería de Rafflesia",
 		Description = {
-			"Caza 30 monstruos Rafflesia en los alrededores de Lighthalzen y vuelve al segundo piso del cuartel general del Grupo de Edén."
+			"Caza 30 monstruos Rafflesia en los alrededores de Lighthalzen y vuelve al segundo piso del cuartel general del Grupo del Edén."
 		},
 		Summary = ""
 	},
 	[4178] = {
 		Title = "Cacería de Venenosos",
 		Description = {
-			"Caza 30 monstruos Venenoso en los alrededores de Einbroch y vuelve al segundo piso del cuartel general del Grupo de Edén."
+			"Caza 30 monstruos Venenoso en los alrededores de Einbroch y vuelve al segundo piso del cuartel general del Grupo del Edén."
 		},
 		Summary = ""
 	},
 	[4179] = {
 		Title = "Cacería de Mineros",
 		Description = {
-			"Caza 30 monstruos Minero en los alrededores de Einbroch y vuelve al segundo piso del cuartel general del Grupo de Edén."
+			"Caza 30 monstruos Minero en los alrededores de Einbroch y vuelve al segundo piso del cuartel general del Grupo del Edén."
 		},
 		Summary = ""
 	},
 	[4180] = {
 		Title = "Cacería de Novus amarillos",
 		Description = {
-			"Caza 30 monstruos Novus amarillo en los alrededores de Einbroch y vuelve al segundo piso del cuartel general del Grupo de Edén."
+			"Caza 30 monstruos Novus amarillo en los alrededores de Einbroch y vuelve al segundo piso del cuartel general del Grupo del Edén."
 		},
 		Summary = ""
 	},
 	[4181] = {
 		Title = "Cacería de Solider",
 		Description = {
-			"Caza 30 monstruos Solider en la Isla Tortuga y vuelve al segundo piso del cuartel general del Grupo de Edén."
+			"Caza 30 monstruos Solider en la Isla Tortuga y vuelve al segundo piso del cuartel general del Grupo del Edén."
 		},
 		Summary = ""
 	},
 	[4182] = {
 		Title = "Cacería de Congeladores",
 		Description = {
-			"Caza 30 monstruos Congelador en la Isla Tortuga y vuelve al segundo piso del cuartel general del Grupo de Edén."
+			"Caza 30 monstruos Congelador en la Isla Tortuga y vuelve al segundo piso del cuartel general del Grupo del Edén."
 		},
 		Summary = ""
 	},
 	[4183] = {
 		Title = "Cacería de Calentadores",
 		Description = {
-			"Caza 30 monstruos Calentador en la Isla Tortuga y vuelve al segundo piso del cuartel general del Grupo de Edén."
+			"Caza 30 monstruos Calentador en la Isla Tortuga y vuelve al segundo piso del cuartel general del Grupo del Edén."
 		},
 		Summary = ""
 	},
 	[4184] = {
 		Title = "Cacería de Injusticias",
 		Description = {
-			"Caza 30 monstruos Injusticia en Glastheim y vuelve al segundo piso del cuartel general del Grupo de Edén."
+			"Caza 30 monstruos Injusticia en Glastheim y vuelve al segundo piso del cuartel general del Grupo del Edén."
 		},
 		Summary = ""
 	},
 	[4185] = {
 		Title = "Cacería de Rybio",
 		Description = {
-			"Caza 30 monstruos Rybio en Glastheim y vuelve al segundo piso del cuartel general del Grupo de Edén."
+			"Caza 30 monstruos Rybio en Glastheim y vuelve al segundo piso del cuartel general del Grupo del Edén."
 		},
 		Summary = ""
 	},
 	[4186] = {
 		Title = "Cacería de Sacerdotes oscuros",
 		Description = {
-			"Caza 30 monstruos Sacerdote oscuro en Glastheim y vuelve al segundo piso del cuartel general del Grupo de Edén."
+			"Caza 30 monstruos Sacerdote oscuro en Glastheim y vuelve al segundo piso del cuartel general del Grupo del Edén."
 		},
 		Summary = ""
 	},
 	[4187] = {
 		Title = "Cacería de Stapo",
 		Description = {
-			"Caza 30 monstruos Stapo en Veins y vuelve al segundo piso del cuartel general del Grupo de Edén."
+			"Caza 30 monstruos Stapo en Veins y vuelve al segundo piso del cuartel general del Grupo del Edén."
 		},
 		Summary = ""
 	},
 	[4188] = {
 		Title = "Cacería de Roween",
 		Description = {
-			"Caza 30 monstruos Roween en Rachel y vuelve al segundo piso del cuartel general del Grupo de Edén."
+			"Caza 30 monstruos Roween en Rachel y vuelve al segundo piso del cuartel general del Grupo del Edén."
 		},
 		Summary = ""
 	},
 	[4189] = {
 		Title = "Cacería de Siroma",
 		Description = {
-			"Caza 30 monstruos Siroma en la mazmorra de hielo y vuelve al segundo piso del cuartel general del Grupo de Edén."
+			"Caza 30 monstruos Siroma en la mazmorra de hielo y vuelve al segundo piso del cuartel general del Grupo del Edén."
 		},
 		Summary = ""
 	},
 	[4190] = {
 		Title = "Cacería de Shinobi",
 		Description = {
-			"Caza 30 monstruos Shinobi en Amatsu y vuelve al segundo piso del cuartel general del Grupo de Edén."
+			"Caza 30 monstruos Shinobi en Amatsu y vuelve al segundo piso del cuartel general del Grupo del Edén."
 		},
 		Summary = ""
 	},
 	[4191] = {
 		Title = "Cacería de Ninfas malvadas",
 		Description = {
-			"Caza 30 monstruos Ninfa malvada en Kunlun y vuelve al segundo piso del cuartel general del Grupo de Edén."
+			"Caza 30 monstruos Ninfa malvada en Kunlun y vuelve al segundo piso del cuartel general del Grupo del Edén."
 		},
 		Summary = ""
 	},
 	[4192] = {
 		Title = "Cacería de Deviruchi",
 		Description = {
-			"Caza 30 monstruos Deviruchi en la mazmorra de Geffen y vuelve al segundo piso del cuartel general del Grupo de Edén."
+			"Caza 30 monstruos Deviruchi en la mazmorra de Geffen y vuelve al segundo piso del cuartel general del Grupo del Edén."
 		},
 		Summary = ""
 	},
 	[4193] = {
 		Title = "Cacería de Minerales",
 		Description = {
-			"Caza 30 monstruos Mineral en la mazmorra de Geffen y vuelve al segundo piso del cuartel general del Grupo de Edén."
+			"Caza 30 monstruos Mineral en la mazmorra de Geffen y vuelve al segundo piso del cuartel general del Grupo del Edén."
 		},
 		Summary = ""
 	},
 	[4194] = {
 		Title = "Cacería de Kaho",
 		Description = {
-			"Caza 30 monstruos Kaho en el volcán Thor y vuelve al segundo piso del cuartel general del Grupo de Edén."
+			"Caza 30 monstruos Kaho en el volcán Thor y vuelve al segundo piso del cuartel general del Grupo del Edén."
 		},
 		Summary = ""
 	},
 	[4195] = {
 		Title = "Cacería de Neraid",
 		Description = {
-			"Caza 30 monstruos Neraid en la mazmorra de Comodo y vuelve al segundo piso del cuartel general del Grupo de Edén."
+			"Caza 30 monstruos Neraid en la mazmorra de Comodo y vuelve al segundo piso del cuartel general del Grupo del Edén."
 		},
 		Summary = ""
 	},
 	[4196] = {
 		Title = "Cacería de Disfraces",
 		Description = {
-			"Caza 30 monstruos Disfraz en Niflheim y vuelve al segundo piso del cuartel general del Grupo de Edén."
+			"Caza 30 monstruos Disfraz en Niflheim y vuelve al segundo piso del cuartel general del Grupo del Edén."
 		},
 		Summary = ""
 	},
@@ -13366,11 +13380,11 @@ QuestInfoList = {
 		Title = "Mi nombre es Morning",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"¡Hola! Amigo que está leyendo esta nota",
-			"Tuve que irme rápidamente, así que dejé al niño atrás. Ese niño es un sujeto de experimento abandonado en Ludos.",
-			"Solo tienes que llamarme <NAVI>[Morning]<INFO>sp_rudus,130,200,000,0</INFO></NAVI>.",
-			"No es que te esté pasando la responsabilidad, yo también vendré a verlo cuando tenga tiempo, así que solo encárgate de darle de comer por la Morning. Solo dale lo que te pida. Por ahora no puedo llevármelo conmigo. Te lo encargo, por favor.",
-			"Todo el grupo"
+			"¡Hola! Amigo que está leyendo esta nota.",
+			"Tuve que irme rápidamente, así que dejé al niño atrás. Ese niño es un sujeto de experimento abandonado en Rudus.",
+			"Puedes llamarle de <NAVI>[Morning]<INFO>sp_rudus,130,200,000,0</INFO></NAVI>.",
+			"No es que te esté pasando la responsabilidad. Vendré siempre que pueda, así que solo te pido que te encargues de las comidas de Morning. Dale lo que pida. Por el momento, no tengo condiciones para llevármelo conmigo. Cuento con tu ayuda.",
+			"- Olgr"
 		},
 		Summary = "",
 		NpcSpr = "4_EP17_MORNING",
@@ -13379,13 +13393,13 @@ QuestInfoList = {
 		NpcPosY = 200
 	},
 	[5857] = {
-		Title = "Hacer amigos de Morning",
+		Title = "Amigos para Morning",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"¡Hola! Amigo que está leyendo esta nota",
-			"Gracias por prepararme la comida de la Morning. Quizás porque le contaste la historia de Poring hace poco, ahora le encanta Poring. Si al menos tuviera una mascota Poring, se sentiría menos solo.",
-			"Entonces, ¿podrías conseguir un <ITEM>[Huevo de Poring]<INFO>9001</INFO></ITEM> y entregárselo a Morning? Te lo pido, amigo.",
-			"Todo el grupo"
+			"¡Hola! Amigo que está leyendo esta nota.",
+			"Gracias por encargarte de las comidas de Morning. Tal vez porque le conté una historia sobre los Porings el otro día, parece que le gustan mucho. Si al menos tuviera una mascota Poring, se sentiría menos sola.",
+			"Dicho esto, ¿podrías conseguir un <ITEM>[Huevo de Poring]<INFO>9001</INFO></ITEM> y entregárselo a Morning? Cuento con tu ayuda, amigo.",
+			"- Olgr"
 		},
 		Summary = "Huevo de Poring",
 		NpcSpr = "4_EP17_MORNING",
@@ -13399,16 +13413,17 @@ QuestInfoList = {
 		}
 	},
 	[5858] = {
-		Title = "Hacer amigos de Morning",
+		Title = "Amigos para Morning",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"¡Hola! Amigo.",
-			"¿Parece que Morning te reconoce como la persona que le da de comer, verdad?",
-			"Ah, eso era una tontería, y hace poco le conté la historia del saltamontes cantante, Rocker. Entonces, parece que ahora quiere ver a Rocker.",
-			"¿Podrías conseguirme uno de <ITEM>[Huevo de Rocker]<INFO>9011</INFO></ITEM> esta vez? Te lo pido, amigo.",
-			"Todo el grupo"
+			"Hola, amigo.",
+			"Parece que Morning ya te reconoce como quien trae la comida.",
+			"Es broma. El otro día le conté una historia sobre un Rocker cantante, y ahora parece tener curiosidad por los Rockeros.",
+			"Esta vez, ¿podrías conseguir un <ITEM>[Huevo de Rockero]<INFO>9011</INFO></ITEM>?",
+			"Cuento con tu ayuda, amigo.",
+			"- Olgr"
 		},
-		Summary = "Huevo de Rocker",
+		Summary = "Huevo de Rockero",
 		NpcSpr = "4_EP17_MORNING",
 		NpcNavi = "sp_rudus",
 		NpcPosX = 130,
@@ -13420,13 +13435,13 @@ QuestInfoList = {
 		}
 	},
 	[5859] = {
-		Title = "Hacer amigos de Morning",
+		Title = "Amigos para Morning",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"¡Hola! Amigo.",
-			"¿Será porque le contaste a Morning la historia de la aventura de esmalte que ahora siente curiosidad por Picky?",
-			"¿Podrías conseguirme esta vez <ITEM>[Huevo de Picky]<INFO>9005</INFO></ITEM>? No puedo cuidarlo tan seguido, así que al menos debería ayudarle a hacer muchos amigos. Por favor, amigo.",
-			"Todo el grupo"
+			"Hola, amigo.",
+			"Tal vez porque le conté a Morning la historia de la aventura del Pollito, ahora parece sentir curiosidad por los Pickies.",
+			"Esta vez, ¿podrías conseguir un <ITEM>[Huevo de Picky]<INFO>9005</INFO></ITEM>? No puedo visitarla con frecuencia, así que al menos que tenga muchos amigos. Cuento con tu ayuda, amigo.",
+			"- Olgr"
 		},
 		Summary = "Huevo de Picky",
 		NpcSpr = "4_EP17_MORNING",
@@ -13440,13 +13455,13 @@ QuestInfoList = {
 		}
 	},
 	[5860] = {
-		Title = "Hacer amigos de Morning",
+		Title = "Amigos para Morning",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"¡Hola! Amigo.",
-			"Siempre te estoy pidiendo favores, qué vergüenza. ¿Será porque te conté la historia del conejo que vive en la luna? Ahora tienes curiosidad por Lunatic.",
-			"¿Podrías conseguirme <ITEM>[Huevo de Lunatic]<INFO>9004</INFO></ITEM>? Te lo pido, amigo.",
-			"Todo el grupo"
+			"Hola, amigo.",
+			"Me da un poco de vergüenza estar pidiéndote tantos favores. Tal vez porque le conté una historia sobre un conejo que vive en la luna, Morning se puso curiosa acerca de los Lunáticos.",
+			"¿Podrías conseguir un <ITEM>[Huevo de Lunatic]<INFO>9004</INFO></ITEM>? Te pido este favor una vez más, amigo.",
+			"- Olgr"
 		},
 		Summary = "Huevo de Lunatic",
 		NpcSpr = "4_EP17_MORNING",
@@ -13463,7 +13478,7 @@ QuestInfoList = {
 		Title = "[Espera] Cuidar de Morning",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Le preparé la comida a <NAVI>[Morning]<INFO>sp_rudus,130,200,000,0</INFO></NAVI>. Si tengo tiempo, ¿no sería buena idea hacerlo también mañana?"
+			"Te encargaste de la comida de <NAVI>[Morning]<INFO>sp_rudus,130,200,000,0</INFO></NAVI>. Si tienes tiempo, tal vez sería bueno cuidarla de nuevo mañana."
 		},
 		Summary = "Reinicio a las 04:00",
 		NpcSpr = "4_EP17_MORNING",
@@ -13472,12 +13487,13 @@ QuestInfoList = {
 		NpcPosY = 200
 	},
 	[5862] = {
-		Title = "Selección de menú de Morning",
+		Title = "Menú de Morning",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"<NAVI>[Morning]<INFO>sp_rudus,130,200,000,0</INFO></NAVI> parece que hoy quiere comer gelopys. Lleva <ITEM>[Gelopios]<INFO>909</INFO></ITEM> 10 unidades."
+			"Parece que <NAVI>[Morning]<INFO>sp_rudus,130,200,000,0</INFO></NAVI> quiere comer jellopies hoy.",
+			"Debería llevarle 10 <ITEM>[Jellopy]<INFO>909</INFO></ITEM>"
 		},
-		Summary = "10 Gelopios",
+		Summary = "10 Jellopy",
 		NpcSpr = "4_EP17_MORNING",
 		NpcNavi = "sp_rudus",
 		NpcPosX = 130,
@@ -13490,12 +13506,13 @@ QuestInfoList = {
 		}
 	},
 	[5863] = {
-		Title = "Selección de menú de Morning",
+		Title = "Menú de Morning",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"<NAVI>[Morning]<INFO>sp_rudus,130,200,000,0</INFO></NAVI> parece que hoy quiere comer raíces de árbol viejo. Llevémosle <ITEM>[Raíz de árbol viejo]<INFO>902</INFO></ITEM> 10 unidades."
+			"Parece que <NAVI>[Morning]<INFO>sp_rudus,130,200,000,0</INFO></NAVI> quiere comer raíz de árbol hoy.",
+			"Debería llevarle 10 <ITEM>[Raíz de Árbol]<INFO>902</INFO></ITEM>"
 		},
-		Summary = "Raíz de árbol viejo x10",
+		Summary = "10 Raíz de Árbol",
 		NpcSpr = "4_EP17_MORNING",
 		NpcNavi = "sp_rudus",
 		NpcPosX = 130,
@@ -13508,12 +13525,13 @@ QuestInfoList = {
 		}
 	},
 	[5864] = {
-		Title = "Selección de menú de Morning",
+		Title = "Menú de Morning",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"<NAVI>[Morning]<INFO>sp_rudus,130,200,000,0</INFO></NAVI> parece que hoy quiere comer patas traseras de saltamontes. Lleva <ITEM>[atas traseras de saltamontes]<INFO>940</INFO></ITEM> 10 unidades."
+			"Parece que <NAVI>[Morning]<INFO>sp_rudus,130,200,000,0</INFO></NAVI> quiere comer pata de saltamontes hoy.",
+			"Debería llevarle 10 <ITEM>[Pata de Saltamontes]<INFO>705</INFO></ITEM>"
 		},
-		Summary = "10 patas traseras de saltamontes",
+		Summary = "10 Pata de Saltamontes",
 		NpcSpr = "4_EP17_MORNING",
 		NpcNavi = "sp_rudus",
 		NpcPosX = 130,
@@ -13526,12 +13544,13 @@ QuestInfoList = {
 		}
 	},
 	[5865] = {
-		Title = "Selección de menú de Morning",
+		Title = "Menú de Morning",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"<NAVI>[Morning]<INFO>sp_rudus,130,200,000,0</INFO></NAVI> parece que hoy quiere comer trébol. Llevémosle 10 <ITEM>[Trébol]<INFO>705</INFO></ITEM>."
+			"Parece que <NAVI>[Morning]<INFO>sp_rudus,130,200,000,0</INFO></NAVI> quiere comer trébol hoy.",
+			"Debería llevarle 10 <ITEM>[Trébol]<INFO>705</INFO></ITEM>"
 		},
-		Summary = "Trébol 10",
+		Summary = "10 Trébol",
 		NpcSpr = "4_EP17_MORNING",
 		NpcNavi = "sp_rudus",
 		NpcPosX = 130,
@@ -13544,12 +13563,13 @@ QuestInfoList = {
 		}
 	},
 	[5866] = {
-		Title = "Selección de menú de Morning",
+		Title = "Menú de Morning",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"<NAVI>[Morning]<INFO>sp_rudus,130,200,000,0</INFO></NAVI> parece que hoy quiere comer plumas de pájaro. Llevémosle <ITEM>[plumas de ave]<INFO>916</INFO></ITEM> 10 unidades."
+			"Parece que <NAVI>[Morning]<INFO>sp_rudus,130,200,000,0</INFO></NAVI> quiere comer pluma de ave hoy.",
+			"Debería llevarle 10 <ITEM>[Pluma de Ave]<INFO>916</INFO></ITEM>"
 		},
-		Summary = "10 plumas de ave",
+		Summary = "10 Pluma de Ave",
 		NpcSpr = "4_EP17_MORNING",
 		NpcNavi = "sp_rudus",
 		NpcPosX = 130,
@@ -13562,12 +13582,13 @@ QuestInfoList = {
 		}
 	},
 	[5867] = {
-		Title = "Selección de menú de Morning",
+		Title = "Menú de Morning",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"<NAVI>[Morning]<INFO>sp_rudus,130,200,000,0</INFO></NAVI> parece que hoy quiere comer colas de rata. Vamos a llevarle <ITEM>[colas de ratón]<INFO>1016</INFO></ITEM> 10 unidades."
+			"Parece que <NAVI>[Morning]<INFO>sp_rudus,130,200,000,0</INFO></NAVI> quiere comer cola de rata hoy.",
+			"Debería llevarle 10 <ITEM>[Cola de rata]<INFO>1016</INFO></ITEM>"
 		},
-		Summary = "10 colas de ratón",
+		Summary = "10 Cola de Rata",
 		NpcSpr = "4_EP17_MORNING",
 		NpcNavi = "sp_rudus",
 		NpcPosX = 130,
@@ -13580,12 +13601,13 @@ QuestInfoList = {
 		}
 	},
 	[5868] = {
-		Title = "Selección de menú de Morning",
+		Title = "Menú de Morning",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"<NAVI>[Morning]<INFO>sp_rudus,130,200,000,0</INFO></NAVI> parece que hoy quiere comer Colmillos Venenosos. Llevémosle <ITEM>[Colmillo Venenoso]<INFO>937</INFO></ITEM> 10 unidades."
+			"Parece que <NAVI>[Morning]<INFO>sp_rudus,130,200,000,0</INFO></NAVI> quiere comer colmillo venenoso hoy.",
+			"Debería llevarle 10 <ITEM>[Colmillo Venenoso]<INFO>937</INFO></ITEM>"
 		},
-		Summary = "Colmillo Venenoso 10",
+		Summary = "10 Colmillo Venenoso",
 		NpcSpr = "4_EP17_MORNING",
 		NpcNavi = "sp_rudus",
 		NpcPosX = 130,
@@ -13598,12 +13620,13 @@ QuestInfoList = {
 		}
 	},
 	[5869] = {
-		Title = "Selección de menú de Morning",
+		Title = "Menú de Morning",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"<NAVI>[Morning]<INFO>sp_rudus,130,200,000,0</INFO></NAVI> parece que hoy quiere comer colas de mono. Llévale <ITEM>[colas de mono]<INFO>942</INFO></ITEM> 10 unidades."
+			"Parece que <NAVI>[Morning]<INFO>sp_rudus,130,200,000,0</INFO></NAVI> quiere comer cola de mono hoy.",
+			"Debería llevarle 10 <ITEM>[Cola de Mono]<INFO>942</INFO></ITEM>"
 		},
-		Summary = "10 colas de mono",
+		Summary = "10 Cola de Mono",
 		NpcSpr = "4_EP17_MORNING",
 		NpcNavi = "sp_rudus",
 		NpcPosX = 130,
@@ -13616,12 +13639,13 @@ QuestInfoList = {
 		}
 	},
 	[5870] = {
-		Title = "Selección de menú de Morning",
+		Title = "Menú de Morning",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"<NAVI>[Morning]<INFO>sp_rudus,130,200,000,0</INFO></NAVI> parece que hoy quiere comer colmillos de murciélago. Llevémosle <ITEM>[colmillos de murciélago]<INFO>913</INFO></ITEM> 10 unidades."
+			"Parece que <NAVI>[Morning]<INFO>sp_rudus,130,200,000,0</INFO></NAVI> quiere comer diente de murciélago hoy.",
+			"Debería llevarle 10 <ITEM>[Diente de Murciélago]<INFO>913</INFO></ITEM>"
 		},
-		Summary = "10 colmillos de murciélago",
+		Summary = "10 Diente de Murciélago",
 		NpcSpr = "4_EP17_MORNING",
 		NpcNavi = "sp_rudus",
 		NpcPosX = 130,
@@ -13634,12 +13658,13 @@ QuestInfoList = {
 		}
 	},
 	[5871] = {
-		Title = "Selección de menú de Morning",
+		Title = "Menú de Morning",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"<NAVI>[Morning]<INFO>sp_rudus,130,200,000,0</INFO></NAVI> parece que hoy quiere comer patas de oso. Llévale 10 <ITEM>[patas de oso]<INFO>948</INFO></ITEM>."
+			"Parece que <NAVI>[Morning]<INFO>sp_rudus,130,200,000,0</INFO></NAVI> quiere comer pieles de pata de oso hoy.",
+			"Debería llevarle 10 <ITEM>[Piel de Pata de Oso]<INFO>948</INFO></ITEM>"
 		},
-		Summary = "10 patas de oso",
+		Summary = "10 Piel de Pata de Oso",
 		NpcSpr = "4_EP17_MORNING",
 		NpcNavi = "sp_rudus",
 		NpcPosX = 130,
@@ -15658,7 +15683,7 @@ QuestInfoList = {
 	[7132] = {
 		Title = "¡Conquista el Desierto!",
 		Description = {
-			"Completaste tu entrenamiento en el Desierto. Informa tus resultados al instructor <NAVI>[Boya]<INFO>moc_para01,25,35,0,101,0</INFO></NAVI> en la oficina del Grupo de Edén."
+			"Completaste tu entrenamiento en el Desierto. Informa tus resultados al instructor <NAVI>[Boya]<INFO>moc_para01,25,35,0,101,0</INFO></NAVI> en la oficina del Grupo del Edén."
 		},
 		Summary = ""
 	},
@@ -15693,16 +15718,16 @@ QuestInfoList = {
 	[7137] = {
 		Title = "¡Conquista la Alcantarilla!",
 		Description = {
-			"Completaste la tarea que te dio el gato de pie. Regresa e informa tus resultados al <NAVI>[instructor Boya]<INFO>moc_para01,25,35,0,101,0</INFO></NAVI> en la oficina del Grupo de Edén."
+			"Completaste la tarea que te dio el gato de pie. Regresa e informa tus resultados al <NAVI>[instructor Boya]<INFO>moc_para01,25,35,0,101,0</INFO></NAVI> en la oficina del Grupo del Edén."
 		},
 		Summary = ""
 	},
 	[7138] = {
 		Title = "¡Conquista la Cueva fantasma!",
 		Description = {
-			"Encuentra a un miembro del Grupo de Edén frente a la <NAVI>[cueva]<INFO>pay_arche,41,136,0,101,0</INFO></NAVI> en el lado oeste de la Aldea de los arqueros de Payon."
+			"Encuentra a un miembro del Grupo del Edén frente a la <NAVI>[cueva]<INFO>pay_arche,41,136,0,101,0</INFO></NAVI> en el lado oeste de la Aldea de los arqueros de Payon."
 		},
-		Summary = "Conversación con un miembro del Grupo de Edén."
+		Summary = "Conversación con un miembro del Grupo del Edén."
 	},
 	[7139] = {
 		Title = "¡Conquista la Cueva fantasma!",
@@ -15721,21 +15746,21 @@ QuestInfoList = {
 	[7141] = {
 		Title = "¡Conquista la Cueva fantasma!",
 		Description = {
-			"Completaste el entrenamiento que te dio Coral. Vuelve a la oficina del Grupo de Edén para recibir tu recompensa."
+			"Completaste el entrenamiento que te dio Coral. Vuelve a la oficina del Grupo del Edén para recibir tu recompensa."
 		},
-		Summary = "Informa al instructor Boya en la oficina del Grupo de Edén."
+		Summary = "Informa al instructor Boya en la oficina del Grupo del Edén."
 	},
 	[7142] = {
 		Title = "¡Conquista el Infierno de hormigas!",
 		Description = {
-			"Encuentra a un miembro del Grupo de Edén en la entrada del <NAVI>[Infierno de hormigas]<INFO>anthell01,29,264,0,101,0</INFO></NAVI>. Entra en el primer piso del Infierno de hormigas en la zona noreste de la fortaleza de Saint Darmain (este)."
+			"Encuentra a un miembro del Grupo del Edén en la entrada del <NAVI>[Infierno de hormigas]<INFO>anthell01,29,264,0,101,0</INFO></NAVI>. Entra en el primer piso del Infierno de hormigas en la zona noreste de la fortaleza de Saint Darmain (este)."
 		},
 		Summary = ""
 	},
 	[7143] = {
 		Title = "¡Conquista el Infierno de hormigas!",
 		Description = {
-			"Caza 15 hormigas Pierre en el Infierno de hormigas e informa a Clod, miembro del Grupo de Edén, en la entrada."
+			"Caza 15 hormigas Pierre en el Infierno de hormigas e informa a Clod, miembro del Grupo del Edén, en la entrada."
 		},
 		Summary = ""
 	},
@@ -15756,14 +15781,14 @@ QuestInfoList = {
 	[7146] = {
 		Title = "¡Conquista el Infierno de hormigas!",
 		Description = {
-			"Completaste el entrenamiento que te dio Clod. Vuelve a la oficina del Grupo de Edén para recibir tu recompensa."
+			"Completaste el entrenamiento que te dio Clod. Vuelve a la oficina del Grupo del Edén para recibir tu recompensa."
 		},
-		Summary = "Informa al instructor Boya en la oficina del Grupo de Edén"
+		Summary = "Informa al instructor Boya en la oficina del Grupo del Edén"
 	},
 	[7147] = {
 		Title = "¡Conquista el Pueblo de los Orcos!",
 		Description = {
-			"Encuentra a un miembro del Grupo de Edén llamado <NAVI>[Hooksha]<INFO>in_orcs01,38,175,0,101,0</INFO></NAVI> en el Pueblo de los Orcos. Está en una cabaña cerca de la empleada de Kafra."
+			"Encuentra a un miembro del Grupo del Edén llamado <NAVI>[Hooksha]<INFO>in_orcs01,38,175,0,101,0</INFO></NAVI> en el Pueblo de los Orcos. Está en una cabaña cerca de la empleada de Kafra."
 		},
 		Summary = ""
 	},
@@ -15791,14 +15816,14 @@ QuestInfoList = {
 	[7151] = {
 		Title = "¡Conquista el Pueblo de los Orcos!",
 		Description = {
-			"Completaste el entrenamiento que te dio Hooksha. Vuelve a la oficina del Grupo de Edén para recibir tu recompensa."
+			"Completaste el entrenamiento que te dio Hooksha. Vuelve a la oficina del Grupo del Edén para recibir tu recompensa."
 		},
-		Summary = "Informa al instructor Boya en la oficina del Grupo de Edén"
+		Summary = "Informa al instructor Boya en la oficina del Grupo del Edén"
 	},
 	[7152] = {
 		Title = "¡Conquista la Mazmorra de Orcos!",
 		Description = {
-			"Encuentra a un miembro del Grupo de Edén llamado <NAVI>[Hooksha]<INFO>in_orcs01,38,175,0,101,0</INFO></NAVI> en el Pueblo de los Orcos. Está en una cabaña cerca de la empleada de Kafra."
+			"Encuentra a un miembro del Grupo del Edén llamado <NAVI>[Hooksha]<INFO>in_orcs01,38,175,0,101,0</INFO></NAVI> en el Pueblo de los Orcos. Está en una cabaña cerca de la empleada de Kafra."
 		},
 		Summary = ""
 	},
@@ -15819,14 +15844,14 @@ QuestInfoList = {
 	[7155] = {
 		Title = "¡Conquista la Mazmorra de Orcos!",
 		Description = {
-			"Completaste el entrenamiento que te dio Hooksha. Vuelve a la oficina del Grupo de Edén para recibir tu recompensa."
+			"Completaste el entrenamiento que te dio Hooksha. Vuelve a la oficina del Grupo del Edén para recibir tu recompensa."
 		},
-		Summary = "Informa al instructor Boya en la oficina del Grupo de Edén"
+		Summary = "Informa al instructor Boya en la oficina del Grupo del Edén"
 	},
 	[7156] = {
 		Title = "¡Conquista la Ciudad submarina!",
 		Description = {
-			"Toma un barco desde Izlude hasta Isla Byalan. Entra al nivel más bajo de la mazmorra para llegar a la Ciudad submarina y encuentra al <NAVI>[miembro del Grupo de Edén]<INFO>iz_dun04,43,46,0,101,0</INFO></NAVI> designado ahí."
+			"Toma un barco desde Izlude hasta Isla Byalan. Entra al nivel más bajo de la mazmorra para llegar a la Ciudad submarina y encuentra al <NAVI>[miembro del Grupo del Edén]<INFO>iz_dun04,43,46,0,101,0</INFO></NAVI> designado ahí."
 		},
 		Summary = ""
 	},
@@ -15847,9 +15872,9 @@ QuestInfoList = {
 	[7159] = {
 		Title = "¡Conquista la Ciudad submarina!",
 		Description = {
-			"Completaste el entrenamiento que te dio Callandiva. Vuelve a la oficina del Grupo de Edén para recibir tu recompensa."
+			"Completaste el entrenamiento que te dio Callandiva. Vuelve a la oficina del Grupo del Edén para recibir tu recompensa."
 		},
-		Summary = "Informa al instructor Boya en la oficina del Grupo de Edén"
+		Summary = "Informa al instructor Boya en la oficina del Grupo del Edén"
 	},
 	[7160] = {
 		Title = "Descifra el código",
@@ -16253,9 +16278,9 @@ QuestInfoList = {
 	[7218] = {
 		Title = "Informa al instructor Ur",
 		Description = {
-			"Tus tareas para el paso 1 terminaron por ahora, así que vuelve a la sede del Grupo de Edén y habla con el instructor Ur."
+			"Tus tareas para el paso 1 terminaron por ahora, así que vuelve a la sede del Grupo del Edén y habla con el instructor Ur."
 		},
-		Summary = "Informa esto al instructor Ur en la sede del Grupo de Edén."
+		Summary = "Informa esto al instructor Ur en la sede del Grupo del Edén."
 	},
 	[7219] = {
 		Title = "Entrenamiento avanzado en Glastheim",
@@ -16281,9 +16306,9 @@ QuestInfoList = {
 	[7222] = {
 		Title = "Informa al instructor Ur",
 		Description = {
-			"Tu cacería en Glastheim ayudó a limpiar la abadía. Regresa la sede del Grupo de Edén y habla con el instructor Ur."
+			"Tu cacería en Glastheim ayudó a limpiar la abadía. Regresa la sede del Grupo del Edén y habla con el instructor Ur."
 		},
-		Summary = "Informa esto al instructor Ur en la sede del Grupo de Edén."
+		Summary = "Informa esto al instructor Ur en la sede del Grupo del Edén."
 	},
 	[7223] = {
 		Title = "Entrenamiento avanzado en Einbroch",
@@ -16323,9 +16348,9 @@ QuestInfoList = {
 	[7228] = {
 		Title = "Informa al instructor Ur",
 		Description = {
-			"Terminó tu trabajo en la zona de Einbroch. Regresa la sede del Grupo de Edén y habla con el instructor Ur."
+			"Terminó tu trabajo en la zona de Einbroch. Regresa la sede del Grupo del Edén y habla con el instructor Ur."
 		},
-		Summary = "Informa al instructor Ur en la sede del Grupo de Edén."
+		Summary = "Informa al instructor Ur en la sede del Grupo del Edén."
 	},
 	[7229] = {
 		Title = "Entrenamiento avanzado en la mazmorra de hielo",
@@ -16351,9 +16376,9 @@ QuestInfoList = {
 	[7232] = {
 		Title = "Informa al instructor Ur",
 		Description = {
-			"Terminaste tu cacería en la mazmorra de hielo. Regresa la sede del Grupo de Edén y habla con el instructor Ur."
+			"Terminaste tu cacería en la mazmorra de hielo. Regresa la sede del Grupo del Edén y habla con el instructor Ur."
 		},
-		Summary = "Informa al instructor Ur en la sede del Grupo de Edén."
+		Summary = "Informa al instructor Ur en la sede del Grupo del Edén."
 	},
 	[7233] = {
 		Title = "Entrenamiento avanzado en Ash Vacuum",
@@ -16386,9 +16411,9 @@ QuestInfoList = {
 	[7237] = {
 		Title = "Informa al instructor Ur",
 		Description = {
-			"Terminó tu entrenamiento en Ash Vacuum. Regresa la sede del Grupo de Edén y habla con el instructor Ur."
+			"Terminó tu entrenamiento en Ash Vacuum. Regresa la sede del Grupo del Edén y habla con el instructor Ur."
 		},
-		Summary = "Informa al instructor Ur en la sede del Grupo de Edén."
+		Summary = "Informa al instructor Ur en la sede del Grupo del Edén."
 	},
 	[7238] = {
 		Title = "Tareas para Thorn (fácil)",
@@ -16407,7 +16432,7 @@ QuestInfoList = {
 	[7240] = {
 		Title = "Mejora del equipamiento",
 		Description = {
-			"Lleva tu nuevo equipamiento del Grupo de Edén a Thorn, pídele que te lo refuerce y te dará una bonificación para el equipamiento."
+			"Lleva tu nuevo equipamiento del Grupo del Edén a Thorn, pídele que te lo refuerce y te dará una bonificación para el equipamiento."
 		},
 		Summary = ""
 	},
@@ -18122,9 +18147,9 @@ QuestInfoList = {
 	[7491] = {
 		Title = "¡Escape al Edén!",
 		Description = {
-			"Sin motivo alguno, aceptaste la petición de ir al Grupo de Edén. El nombre “Edén” te reconforta mucho."
+			"Sin motivo alguno, aceptaste la petición de ir al Grupo del Edén. El nombre “Edén” te reconforta mucho."
 		},
-		Summary = "Visita al Grupo de Edén."
+		Summary = "Visita al Grupo del Edén."
 	},
 	[7492] = {
 		Title = "Caballero de ámbar invencible",
@@ -18827,16 +18852,16 @@ QuestInfoList = {
 		Summary = ""
 	},
 	[7607] = {
-		Title = "Líder del Grupo de Edén",
+		Title = "Líder del Grupo del Edén",
 		Description = {
-			"Se reveló quién lidera el Grupo de Edén. Quiere hablar contigo y con Fantasmagórica. Ve a la sala en el extremo del lado izquierdo en el piso 2."
+			"Se reveló quién lidera el Grupo del Edén. Quiere hablar contigo y con Fantasmagórica. Ve a la sala en el extremo del lado izquierdo en el piso 2."
 		},
-		Summary = "Habla con la capitana del Grupo de Edén."
+		Summary = "Habla con la capitana del Grupo del Edén."
 	},
 	[7608] = {
 		Title = "Equipo 1 de excavación de Atnad",
 		Description = {
-			"La capitana del Grupo de Edén te pidió que hables con Lime en la oficina de empleados para unirte al proyecto de excavación. La oficina de empleados es la sala de al lado."
+			"La capitana del Grupo del Edén te pidió que hables con Lime en la oficina de empleados para unirte al proyecto de excavación. La oficina de empleados es la sala de al lado."
 		},
 		Summary = "Habla con Lime en la oficina de empleados."
 	},
@@ -19040,7 +19065,7 @@ QuestInfoList = {
 		Title = "Reproductor de recuerdos",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Se necesita un tocadiscos para conocer el contenido del Registro de Recuerdos. La comandante Arquien del Grupo de Edén conoce la ubicación del ^CD3278Tocadiscos^000000."
+			"Se necesita un tocadiscos para conocer el contenido del Registro de Recuerdos. La comandante Arquien del Grupo del Edén conoce la ubicación del ^CD3278Tocadiscos^000000."
 		},
 		Summary = "Habla con Arquien."
 	},
@@ -22469,35 +22494,35 @@ QuestInfoList = {
 	[8266] = {
 		Title = "Cacería de Esporas venenosas",
 		Description = {
-			"Caza 10 Esporas venenosas y luego informa a Sponiac en el Grupo de Edén junto al tablero 26-40. Puedes encontrar la mayoría de las Espora venenosas en el Monte Mjolnir 6."
+			"Caza 10 Esporas venenosas y luego informa a Sponiac en el Grupo del Edén junto al tablero 26-40. Puedes encontrar la mayoría de las Espora venenosas en el Monte Mjolnir 6."
 		},
 		Summary = ""
 	},
 	[8267] = {
 		Title = "Cacería de Smokie",
 		Description = {
-			"Caza 10 Smokie y luego informa a Sponiac en el Grupo de Edén junto al tablero 26-40. Puedes encontrar la mayoría de las Espora venenosas en el Monte Mjolnir 6."
+			"Caza 10 Smokie y luego informa a Sponiac en el Grupo del Edén junto al tablero 26-40. Puedes encontrar la mayoría de las Espora venenosas en el Monte Mjolnir 6."
 		},
 		Summary = ""
 	},
 	[8268] = {
 		Title = "Cacería de Sauces ancianos",
 		Description = {
-			"Caza 10 Sauce anciano y luego informa a Sponiac en el Grupo de Edén junto al tablero 26-40. Puedes encontrar Sauces ancianos en los campos al este de Prontera y de Payon."
+			"Caza 10 Sauce anciano y luego informa a Sponiac en el Grupo del Edén junto al tablero 26-40. Puedes encontrar Sauces ancianos en los campos al este de Prontera y de Payon."
 		},
 		Summary = ""
 	},
 	[8269] = {
 		Title = "Cacería de Coco",
 		Description = {
-			"Caza 10 Coco y luego informa a Sponiac en el Grupo de Edén junto al tablero 26-40. Puedes encontrar los Coco cerca del campo 2 de Geffen."
+			"Caza 10 Coco y luego informa a Sponiac en el Grupo del Edén junto al tablero 26-40. Puedes encontrar los Coco cerca del campo 2 de Geffen."
 		},
 		Summary = ""
 	},
 	[8270] = {
 		Title = "Cacería de Ranas Thara",
 		Description = {
-			"Caza 10 Ranas Thara y luego informa a Sponiac en el Grupo de Edén junto al tablero 26-40. Puedes encontrar Ranas Thara en la mazmorra al este de Comodo."
+			"Caza 10 Ranas Thara y luego informa a Sponiac en el Grupo del Edén junto al tablero 26-40. Puedes encontrar Ranas Thara en la mazmorra al este de Comodo."
 		},
 		Summary = ""
 	},
@@ -26379,7 +26404,7 @@ QuestInfoList = {
 	[9345] = {
 		Title = "Recolectar Fragmentos de Alma de Buey y Argollas de Nariz.",
 		Description = {
-			"Ve a la Cueva Subterránea de Glast Heim, 2do piso, y caza Majoruros para recolectar 100 Fragmentos de Alma de Buey y 150 Argollas de Nariz."
+			"Ve a la Cueva Subterránea de Glastheim, 2do piso, y caza Majoruros para recolectar 100 Fragmentos de Alma de Buey y 150 Argollas de Nariz."
 		},
 		Summary = "Obtener 100 Fragmentos de Alma de Buey y 150 Argollas de Nariz."
 	},
@@ -27682,35 +27707,35 @@ QuestInfoList = {
 	[10102] = {
 		Title = "La solicitud de Meidi",
 		Description = {
-			"Aceptaste una solicitud del tablón de anuncios de la oficina del Grupo de Edén. Encuentra a Meidi, que está cerca de la salida oeste de Morroc."
+			"Aceptaste una solicitud del tablón de anuncios de la oficina del Grupo del Edén. Encuentra a Meidi, que está cerca de la salida oeste de Morroc."
 		},
 		Summary = "Reúnete con la clienta Meidi en Morroc."
 	},
 	[10103] = {
 		Title = "La solicitud de Ancellia",
 		Description = {
-			"Aceptaste una solicitud del tablón de anuncios de la oficina del Grupo de Edén. Encuentra a Ancellia, que está cerca del centro de Geffen."
+			"Aceptaste una solicitud del tablón de anuncios de la oficina del Grupo del Edén. Encuentra a Ancellia, que está cerca del centro de Geffen."
 		},
 		Summary = "Reúnete con la clienta Ancellia en Geffen."
 	},
 	[10104] = {
 		Title = "La solicitud de Jeanbai",
 		Description = {
-			"Aceptaste una solicitud del tablón de anuncios de la oficina del Grupo de Edén. Encuentra a Jeanbai, que está cerca de la entrada norte de Al De Baran."
+			"Aceptaste una solicitud del tablón de anuncios de la oficina del Grupo del Edén. Encuentra a Jeanbai, que está cerca de la entrada norte de Al De Baran."
 		},
 		Summary = "Reúnete con el cliente Jeanbai en Al De Baran."
 	},
 	[10105] = {
 		Title = "La solicitud de Lizingshetter",
 		Description = {
-			"Aceptaste una solicitud del tablón de anuncios de la oficina del Grupo de Edén. Encuentra a Lizingshetter, que está cerca del centro de Al De Baran."
+			"Aceptaste una solicitud del tablón de anuncios de la oficina del Grupo del Edén. Encuentra a Lizingshetter, que está cerca del centro de Al De Baran."
 		},
 		Summary = "Conoce al cliente Lizingshetter en Al De Baran."
 	},
 	[10106] = {
 		Title = "La petición de Funfi",
 		Description = {
-			"Aceptaste una solicitud del tablón de anuncios de la oficina del Grupo de Edén. Encuentra a Funfi, que está en los muelles de Alberta."
+			"Aceptaste una solicitud del tablón de anuncios de la oficina del Grupo del Edén. Encuentra a Funfi, que está en los muelles de Alberta."
 		},
 		Summary = "Conoce al cliente Funfi en Alberta."
 	},
@@ -33700,42 +33725,42 @@ QuestInfoList = {
 	[12072] = {
 		Title = "Cacería de Ranas Thara",
 		Description = {
-			"¿Viste alguna rana roja? Se llama Rana Thara y es muy rara. Estamos intentando verificar donde habita. Así que, por favor, caza 20 Ranas Thara en la mazmorra al este de Comodo. Habla con Rakkis del Grupo de Edén para obtener tu recompensa."
+			"¿Viste alguna rana roja? Se llama Rana Thara y es muy rara. Estamos intentando verificar donde habita. Así que, por favor, caza 20 Ranas Thara en la mazmorra al este de Comodo. Habla con Rakkis del Grupo del Edén para obtener tu recompensa."
 		},
 		Summary = "Caza 20 Ranas Thara."
 	},
 	[12073] = {
 		Title = "Cacería de Soldados de juguete",
 		Description = {
-			"Escuché que unos juguetes están atacando a la gente. ¡Es ridículo! ¡Demostrémosles nuestro poder! Tenemos que cazar 15 Soldados de juguete en la Mazmorra de juguetes en Lutie. Habla con Rakkis del Grupo de Edén para obtener tu recompensa."
+			"Escuché que unos juguetes están atacando a la gente. ¡Es ridículo! ¡Demostrémosles nuestro poder! Tenemos que cazar 15 Soldados de juguete en la Mazmorra de juguetes en Lutie. Habla con Rakkis del Grupo del Edén para obtener tu recompensa."
 		},
 		Summary = "Caza 15 Soldados de juguete."
 	},
 	[12074] = {
 		Title = "Cacería de Kukre",
 		Description = {
-			"¡Alguien cerca a la playa fue víctima de un robo! El posible sospechoso es un monstruo criminal llamado Kukre. Caza 30 Kukre en la mazmorra de Byalan. Habla con Rakkis del Grupo de Edén para obtener tu recompensa."
+			"¡Alguien cerca a la playa fue víctima de un robo! El posible sospechoso es un monstruo criminal llamado Kukre. Caza 30 Kukre en la mazmorra de Byalan. Habla con Rakkis del Grupo del Edén para obtener tu recompensa."
 		},
 		Summary = "Caza 30 Kukre."
 	},
 	[12075] = {
 		Title = "Cacería de Bebés orco",
 		Description = {
-			"Los Bebés orco cada día son más violentos. Por favor, caza 15 Bebés orco en el Pueblo de los Orcos en el campo de Geffen. Habla con Rakkis, del Grupo de Edén, para obtener tu recompensa."
+			"Los Bebés orco cada día son más violentos. Por favor, caza 15 Bebés orco en el Pueblo de los Orcos en el campo de Geffen. Habla con Rakkis, del Grupo del Edén, para obtener tu recompensa."
 		},
 		Summary = "Caza 15 Bebés orco."
 	},
 	[12076] = {
 		Title = "Cacería de Guerreros orco",
 		Description = {
-			"Los Guerreros orco están volviéndose más agresivos. Caza 20 Guerreros orco cerca del Pueblo de los Orcos en el campo de Geffen. Habla con Rakkis del Grupo de Edén para obtener tu recompensa."
+			"Los Guerreros orco están volviéndose más agresivos. Caza 20 Guerreros orco cerca del Pueblo de los Orcos en el campo de Geffen. Habla con Rakkis del Grupo del Edén para obtener tu recompensa."
 		},
 		Summary = "Caza 20 Guerreros orco."
 	},
 	[12077] = {
 		Title = "Cacería de Vadon",
 		Description = {
-			"¿Has visto los cangrejos con caparazones gruesos? Se llaman Vadon. Caza 15 Vadon en la mazmorra de Byalan. Habla con Rakkis en el Grupo de Edén para obtener tu recompensa."
+			"¿Has visto los cangrejos con caparazones gruesos? Se llaman Vadon. Caza 15 Vadon en la mazmorra de Byalan. Habla con Rakkis en el Grupo del Edén para obtener tu recompensa."
 		},
 		Summary = "Caza 15 Vadon."
 	},
@@ -36700,14 +36725,14 @@ QuestInfoList = {
 	[13002] = {
 		Title = "Recolección de minerales brigan",
 		Description = {
-			"Recolecta 50 piezas de Brigan en la Isla Tortuga o Glastheim y llévaselas a Gelkah, en el Grupo de Edén."
+			"Recolecta 50 piezas de Brigan en la Isla Tortuga o Glastheim y llévaselas a Gelkah, en el Grupo del Edén."
 		},
 		Summary = "Consigue 50 unidades de brigan."
 	},
 	[13003] = {
 		Title = "Solicitud sobre monstruos Carat",
 		Description = {
-			"Esta solicitud es de un mercader de Morroc. Carats vende helados todo el año pero todavía no está ganando dinero. El equipo del Grupo de Edén sabe que esta no es una razón verdadera, pero una solicitud es una solicitud."
+			"Esta solicitud es de un mercader de Morroc. Carats vende helados todo el año pero todavía no está ganando dinero. El equipo del Grupo del Edén sabe que esta no es una razón verdadera, pero una solicitud es una solicitud."
 		},
 		Summary = "Caza 30 monstruos Carat y regresa con Gelkah."
 	},
@@ -36927,7 +36952,7 @@ QuestInfoList = {
 	[13040] = {
 		Title = "Solicitud sobre monstruos Loli Ruri",
 		Description = {
-			"Una sociedad secreta solicitó que el Grupo de Edén los proteja de los Loli Ruri porque creen que los monstruos tienen poderes mentales."
+			"Una sociedad secreta solicitó que el Grupo del Edén los proteja de los Loli Ruri porque creen que los monstruos tienen poderes mentales."
 		},
 		Summary = "Caza 30 monstruos Loli Ruri y regresa con Gelkah."
 	},
@@ -42754,16 +42779,16 @@ QuestInfoList = {
 	[16129] = {
 		Title = "Segundo ascenso",
 		Description = {
-			"Después de completar el segundo ascenso, dirígete al <NAVI>[Grupo de Edén]<INFO>moc_para01, 46, 34, 0, 101, 1</INFO></NAVI> para encontrarte con Leno y Rumin."
+			"Después de completar el segundo ascenso, dirígete al <NAVI>[Grupo del Edén]<INFO>moc_para01, 46, 34, 0, 101, 1</INFO></NAVI> para encontrarte con Leno y Rumin."
 		},
-		Summary = "Grupo de Edén después de completar el segundo ascenso."
+		Summary = "Grupo del Edén después de completar el segundo ascenso."
 	},
 	[16130] = {
 		Title = "Transmisión y tercer ascenso",
 		Description = {
-			"Después de completar el tercer ascenso, dirígete al <NAVI>[Grupo de Edén]<INFO>moc_para01, 46, 34, 0, 101, 1</INFO></NAVI> para encontrarte con Leno y Rumin."
+			"Después de completar el tercer ascenso, dirígete al <NAVI>[Grupo del Edén]<INFO>moc_para01, 46, 34, 0, 101, 1</INFO></NAVI> para encontrarte con Leno y Rumin."
 		},
-		Summary = "Grupo de Edén después de completar el tercer ascenso."
+		Summary = "Grupo del Edén después de completar el tercer ascenso."
 	},
 	[16131] = {
 		Title = "A Payon.",
@@ -42929,7 +42954,7 @@ QuestInfoList = {
 	[16154] = {
 		Title = "Dentro del bioma",
 		Description = {
-			"Ve a <NAVI>[Lighthalzen]<INFO>lighthalzen,218,202,0,101,1</INFO></NAVI> a completar la solicitud “Ignisem Cenia” del Biothrallion e informa a Leno y Rumin en el Grupo de Edén."
+			"Ve a <NAVI>[Lighthalzen]<INFO>lighthalzen,218,202,0,101,1</INFO></NAVI> a completar la solicitud “Ignisem Cenia” del Biothrallion e informa a Leno y Rumin en el Grupo del Edén."
 		},
 		Summary = "Completaste Ignigem Xenia."
 	},
@@ -43665,206 +43690,206 @@ QuestInfoList = {
 		Summary = "Encantamiento de sombrero de palomitas de maíz"
 	},
 	[16352] = {
-		Title = "La llamada de Elena Volkova",
+		Title = "Capturando Elyumina",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Hablemos con Elena Volkova."
+			"Habla con Elena Volkova."
 		}
 	},
 	[16353] = {
-		Title = "El travieso dorado",
+		Title = "Capturando Elyumina",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Se produjo una explosión cerca de las instalaciones principales. Sigamos a Elena y comprobemos <NAVI>[condición]<INFO>sp_cor,180,169,0,101,0</INFO></NAVI>."
+			"Ocurrió una explosión cerca de la instalación principal. Sigue a Elena y verifica la <NAVI>[situación]<INFO>sp_cor,180,169,0,101,0</INFO></NAVI>.."
 		},
-		Summary = "Habla con Elena."
+		Summary = "Ve al lugar"
 	},
 	[16354] = {
-		Title = "Operación de aseguramiento de Eliumina",
+		Title = "Capturando Elyumina",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"<NAVI>[región]<INFO>sp_cor,180,169,0,101,0</INFO></NAVI> será presentado y se iniciará una operación especial. Después de asegurar Eliumina de manera segura, informa a Elena."
+			"¡Tenemos que capturar a Elyumina! Habla con <NAVI>[Elena Bolkova]<INFO>sp_cor,180,169,0,101,0</INFO></NAVI."
 		},
-		Summary = "Asegura Eliumina."
+		Summary = "Aseguren a Elyumina"
 	},
 	[16355] = {
-		Title = "Caja sospechosa",
+		Title = "Caja Sospechosa",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"La caja se ha activado. Pisa y elimina la batería biológica, derrota a los monstruos y luego habla con Rebellion."
+			"La caja se ha activado. Derrota a los monstruos y luego habla con el Rebelde."
 		},
-		Summary = "Elimina a los monstruos mientras retiras la batería."
+		Summary = "Elimina a los monstruos"
 	},
 	[16356] = {
-		Title = "Caja sospechosa",
+		Title = "Caja Sospechosa",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"La caja se ha activado. Ten cuidado de no tocar el veneno químico, elimina a los monstruos y luego habla con Rebellion."
+			"La caja se ha activado. Ten cuidado de no tocar el veneno químico, elimina a los monstruos y luego habla con el Rebelde."
 		},
-		Summary = "Ten cuidado con el veneno químico mientras eliminas a los monstruos."
+		Summary = "Cuidado con el Veneno"
 	},
 	[16357] = {
-		Title = "Obtén Eliumina",
+		Title = "Capturando Elyumina",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Hemos asegurado al científico de Ilusión sin problemas. Descansa un momento y luego regresa con <NAVI>[Elena]<INFO>sp_cor,180,169,0,101,0</INFO></NAVI>."
+			"La científica fue capturada con éxito. Regresemos a hablar con <NAVI>[Elena]<INFO>sp_cor,180,169,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Habla con Elena."
+		Summary = "Habla con Elena"
 	},
 	[16358] = {
-		Title = "Malvado puro",
+		Title = "Capturando Elyumina",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Se va a interrogar al científico de Illusion que ha sido capturado. Dirígete hacia <NAVI>[casa provisional]<INFO>sp_cor,136,210,0,101,0</INFO></NAVI> y asiste al interrogatorio."
+			"Van a interrogar a la científica capturada. Vamos a observar el interrogatorio en las <NAVI>[carpas]<INFO>sp_cor,136,210,0,101,0</INFO></NAVI> y asiste al interrogatorio."
 		},
-		Summary = "Habla con Goni."
+		Summary = "Habla con Gonie"
 	},
 	[16359] = {
-		Title = "Trastillo puro",
+		Title = "Capturando Elyumina",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"<NAVI>[Rookie]<INFO>sp_cor,135,216,0,101,0</INFO></NAVI> ha decidido liderar el interrogatorio. Ponte a su lado y frunce el ceño con todas tus fuerzas."
+			"<NAVI>[Lukie]<INFO>sp_cor,135,216,0,101,0</INFO></NAVI> ha decidido liderar el interrogatorio. Ponte a su lado y frunce el ceño con todas tus fuerzas."
 		},
-		Summary = "Habla con Rookie."
+		Summary = "Habla con Lukie"
 	},
 	[16360] = {
-		Title = "Hecho puro",
+		Title = "La Mansión de Varmunt",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Gracias al testimonio de Eliumina, hemos descubierto una manera de acceder a la Mansión de Varmundt. Vamos a comprobar el <NAVI>[entrada]<INFO>sp_cor,255,285,0,101,0</INFO></NAVI>."
+			"Con el testimonio de Elyumina, dijo que sabe cómo entrar a la Mansión de Varmunt. Vamos a comprobar el <NAVI>[entrada]<INFO>sp_cor,255,285,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Habla con Rookie."
+		Summary = "Habla con Lukie"
 	},
 	[16361] = {
-		Title = "Limpieza pura",
+		Title = "Memorial COR",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Habla con el <NAVI>[subordinado]<INFO>sp_cor,113,130,0,101,0</INFO></NAVI> de Elena para averiguar por qué, después de la operación de captura de Eliumina, aún no se han recogido los monstruos y trampas que Eliumina dejó esparcidos."
+			"Habla con el <NAVI>[subordinado]<INFO>sp_cor,113,130,0,101,0</INFO></NAVI> de Elena para averiguar por qué, después de capturar a Elyumina, aún no se han recogido los monstruos y trampas."
 		},
-		Summary = "Habla con Rebellion."
+		Summary = "Habla con Rebellion"
 	},
 	[16362] = {
-		Title = "Limpieza pura - Espera",
+		Title = "[Espera] Memorial COR",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Esta misión es una misión diaria, por lo que podrás volver a aceptarla y completarla una vez que expire el tiempo de espera. Puedes aceptar la misión a través de <NAVI>[Rebellion]<INFO>sp_cor,113,130,0,101,0</INFO></NAVI> de Kor."
+			"Esta misión es una misión diaria, por lo que podrás volver a aceptarla y completarla una vez que expire el tiempo de espera. Puedes aceptar la misión a través de <NAVI>[Rebelde]<INFO>sp_cor,113,130,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Reinicio a las 4 a.m."
 	},
 	[16363] = {
-		Title = "Procesando EL1_A17T",
+		Title = "Elimina a EL1_A17T",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"He gestionado EL1_A17T sin problemas."
+			"EL1-A17T fue eliminado con éxito."
 		}
 	},
 	[16364] = {
-		Title = "Mano de obra para la granja",
+		Title = "Trabajos Agrícolas",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"A raíz de este incidente, ha llegado una solicitud de ayuda de <NAVI>[finca]<INFO>sp_cor,246,97,0,101,0</INFO></NAVI>, ya que ahora les falta personal. Ayuda a cuidar las verduras jóvenes que aún están creciendo en el campo."
+			"La <NAVI>[granja]<INFO>sp_cor,246,97,0,101,0</INFO></NAVI> le falta mano de obra. Debemos cuidar los vegetales del campo."
 		},
-		Summary = "Ayudando con el trabajo en la granja"
+		Summary = "Inspecciona las plantas"
 	},
 	[16365] = {
-		Title = "Mano de obra de la granja - Esperando",
+		Title = "[Espera] Trabajos Agrícolas",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Esta misión es una misión diaria, por lo que podrás volver a aceptarla y completarla una vez que expire el tiempo de espera.",
-			"Puedes aceptar la misión a través de <NAVI>[finca trabajador]<INFO>sp_cor,246,97,0,101,0</INFO></NAVI> de Kor."
+			"Puedes aceptar la misión a través de <NAVI>[Agricultor]<INFO>sp_cor,246,97,0,101,0</INFO></NAVI> de Kor."
 		},
-		Summary = "Reinicio a las 04:00."
+		Summary = "Reinicio a las 04:00"
 	},
 	[16366] = {
-		Title = "Mano de obra para la granja",
+		Title = "Trabajos Agrícolas",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"A raíz de este incidente, ha llegado una solicitud de ayuda de <NAVI>[finca]<INFO>sp_cor,246,97,0,101,0</INFO></NAVI>, ya que ahora les falta personal. Ayuda a cuidar las verduras jóvenes del campo."
+			"La <NAVI>[granja]<INFO>sp_cor,246,97,0,101,0</INFO></NAVI> le falta mano de obra. Debemos cuidar los vegetales del campo."
 		},
-		Summary = ""
+		Summary = "Inspecciona las plantas"
 	},
 	[16367] = {
-		Title = "Uva aún joven",
+		Title = "Cultivo - Uvas",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Todavía hay una <NAVI>[uva]<INFO>sp_cor,247,86,0,101,0</INFO></NAVI> pequeña y verde colgando de la rama. Vamos a eliminar los pulgones."
+			"Vamos a eliminar los pulgones de las <NAVI>[Uvas]<INFO>sp_cor,247,86,0,101,0</INFO></NAVI>"
 		},
-		Summary = ""
+		Summary = "Retira los pulgones"
 	},
 	[16368] = {
-		Title = "Uva aún joven",
+		Title = "Cultivo - Uvas",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Todavía hay una <NAVI>[uva]<INFO>sp_cor,247,86,0,101,0</INFO></NAVI> pequeña y verde colgando de la rama. Vamos a fertilizarla."
+			"Vamos a fertilizar las <NAVI>[Uvas]<INFO>sp_cor,247,86,0,101,0</INFO></NAVI>."
 		},
-		Summary = ""
+		Summary = "Fertilizar"
 	},
 	[16369] = {
-		Title = "Uva aún joven",
+		Title = "Cultivo - Uvas",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Todavía cuelga de la rama una <NAVI>[uva]<INFO>sp_cor,247,86,0,101,0</INFO></NAVI> pequeña y verde. Arranquemos las malas hierbas."
+			"Retiremos la maleza de las <NAVI>[Uvas]<INFO>sp_cor,247,86,0,101,0</INFO></NAVI>."
 		},
-		Summary = ""
+		Summary = "Remover maleza"
 	},
 	[16370] = {
-		Title = "Vaina de guisante aún esponjosa",
+		Title = "Cultivo - Frijol",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"El <NAVI>[vaina]<INFO>sp_cor,163,135,0,101,0</INFO></NAVI>, cubierto de un suave vello, es aún más pequeño que una uña de meñique. Ayudémosle a atrapar los pulgones."
+			"Vamos a eliminar los pulgones de los <NAVI>[Frijoles]<INFO>sp_cor,247,86,0,101,0</INFO></NAVI>"
 		},
-		Summary = ""
+		Summary = "Retira los pulgones"
 	},
 	[16371] = {
-		Title = "Vaina de guisante aún esponjosa",
+		Title = "Cultivo - Frijol",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"El <NAVI>[vaina]<INFO>sp_cor,163,135,0,101,0</INFO></NAVI>, cubierto de un suave vello, es aún más pequeño que una uña de meñique. Vamos a fertilizarlo."
+			"Vamos a fertilizar los <NAVI>[Frijoles]<INFO>sp_cor,247,86,0,101,0</INFO></NAVI>."
 		},
-		Summary = ""
+		Summary = "Fertilizar"
 	},
 	[16372] = {
-		Title = "Vaina de guisante aún esponjosa",
+		Title = "Cultivo - Frijol",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"El <NAVI>[vaina]<INFO>sp_cor,163,135,0,101,0</INFO></NAVI>, cubierto de un suave vello, es aún más pequeño que una uña de meñique. Arranquemos las malas hierbas para ayudarle a crecer."
+			"Retiremos la maleza de los <NAVI>[Frijoles]<INFO>sp_cor,247,86,0,101,0</INFO></NAVI>."
 		},
-		Summary = ""
+		Summary = "Remover maleza"
 	},
 	[16373] = {
-		Title = "Todavía es una calabaza pequeña.",
+		Title = "Cultivo - Calabaza",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Una pequeña y azul <NAVI>[calabacera]<INFO>sp_cor,240,87,0,101,0</INFO></NAVI> cuelga de la rama. Vamos a eliminar los pulgones."
+			"Vamos a eliminar los pulgones de las <NAVI>[Calabazas]<INFO>sp_cor,247,86,0,101,0</INFO></NAVI>"
 		},
-		Summary = ""
+		Summary = "Retira los pulgones"
 	},
 	[16374] = {
-		Title = "Todavía es una calabaza pequeña.",
+		Title = "Cultivo - Calabaza",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Una pequeña y azul <NAVI>[calabacera]<INFO>sp_cor,240,87,0,101,0</INFO></NAVI> cuelga de la rama. Vamos a fertilizarla."
+			"Vamos a fertilizar las <NAVI>[Calabazas]<INFO>sp_cor,247,86,0,101,0</INFO></NAVI>."
 		},
-		Summary = ""
+		Summary = "Fertilizar"
 	},
 	[16375] = {
-		Title = "Todavía es una calabaza pequeña.",
+		Title = "Cultivo - Calabaza",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Una pequeña y azul <NAVI>[calabacera]<INFO>sp_cor,240,87,0,101,0</INFO></NAVI> cuelga de la rama. Arranquemos las malas hierbas."
+			"Retiremos la maleza de las <NAVI>[Calabazas]<INFO>sp_cor,247,86,0,101,0</INFO></NAVI>."
 		},
-		Summary = ""
+		Summary = "Remover maleza"
 	},
 	[16376] = {
-		Title = "EL1_A17T Supresión",
+		Title = "Máquina Letal",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Has derrotado a EL1_A17T."
+			"Elimina a EL1-A17T, la creación más poderosa de Elyumina."
 		},
 		Summary = ""
 	},
 	[16377] = {
-		Title = "Supresión de EL1_A17T - En Espera",
+		Title = "[Espera] Máquina Letal",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Has resuelto un asunto molesto. Descansa un momento."
@@ -45639,49 +45664,49 @@ Talk to Kar=],
 		Title = "Buscando a Patrick",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Rebusqué cuidadosamente entre el montón de basura y encontré algunas pulseras de identificación, pero ninguna era la del señor Kaufmann. Vamos a buscar en otro lugar."
+			"Al revisar cuidadosamente el montón de basura y encontré algunos brazaletes de identificación, pero ninguno del Sr. Kaufman. Vamos a buscar en otro lugar."
 		},
-		Summary = "Busquemos en otro lugar."
+		Summary = "En otro lugar"
 	},
 	[17028] = {
 		Title = "Buscando a Patrick",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Rebusqué en el montón de basura y encontré varias pulseras de identificación de otras personas. Vamos a buscar en otro lugar."
+			"Rebusqué en el montón de basura y encontré brazaletes de identificación de algunas otras personas. Vamos a buscar en otro lugar."
 		},
-		Summary = "Rebuscar entre montones de basura"
+		Summary = "En otro lugar"
 	},
 	[17029] = {
 		Title = "Buscando a Patrick",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Buscaste con esmero, pero todo resultó ser basura. Mejor revisa en otro lugar."
+			"Busqué bastante, pero todo era pura basura. Mejor busquemos en otro lado."
 		},
-		Summary = "Echar un vistazo a otro lugar"
+		Summary = "En otro lugar"
 	},
 	[17030] = {
 		Title = "Buscando a Patrick",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"He revisado y vuelto a revisar, pero parece que no hay nada útil. Mejor busquemos en otro lugar."
+			"Busqué una y otra vez, pero parece que no hay nada útil. Vamos a buscar en otro lugar."
 		},
-		Summary = "A otro montón de basura."
+		Summary = "En otro lugar"
 	},
 	[17031] = {
 		Title = "Buscando a Patrick",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Aquí no había nada. ¿Podré encontrar alguna pista de la señora Kaufman...? Mejor reviso en otro lugar."
+			"No había nada aquí. Tal vez podamos encontrar una pista del Sr. Kaufman… Vamos a buscar en otro lugar."
 		},
-		Summary = "A otro montón de basura."
+		Summary = "En otro lugar"
 	},
 	[17032] = {
 		Title = "Buscando a Patrick",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"He desenterrado una pulsera que estaba enterrada en un montón de basura. Regresemos con <NAVI>[Kaya]<INFO>sp_cor,136,146,0,101,0</INFO></NAVI> con esto."
+			"Desenterré un brazalete que estaba enterrado en la basura. Con esto, regresemos con <NAVI>[Kaya]<INFO>sp_cor,136,146,0,101,0</INFO></NAVI> con esto."
 		},
-		Summary = "Al señor Kaya Tos",
+		Summary = "Habla con Kaya Toss",
 		RewardEXP = 600000,
 		RewardJEXP = 600000,
 		RewardItemList = {
@@ -45689,20 +45714,21 @@ Talk to Kar=],
 		}
 	},
 	[17033] = {
-		Title = "El manejo de todos los asuntos futuros",
+		Title = "Descanse en paz",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Por favor, realice todos los trámites posteriores a través de <NAVI>[Ahs]<INFO>sp_cor,135,147,0,101,0</INFO></NAVI>, que se encuentra aquí. También debe entregar las pulseras recolectadas a Ahs."
+			"La señorita <NAVI>[Ace]<INFO>sp_cor,135,147,0,101,0</INFO></NAVI> se encargará de darle la misión de encontrar nuevos brazaletes de identificación."
 		},
-		Summary = "Al señor Ahs"
+		Summary = "Habla con Ace"
 	},
 	[17034] = {
-		Title = "A Ludos",
+		Title = "Descanse en paz",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Entonces, por favor, concede descanso a los 20 sujetos de prueba llamados Dolor y tráeme 10 brazaletes de identificación para sujetos de prueba. - <NAVI>[Ahs]<INFO>sp_cor,135,147,0,101,0</INFO></NAVI>"
+			"Concede el descanso eterno a 20 cobayas llamados Dolor, y colecta 10 brazaletes de identificación.",
+			"- <NAVI>[Ace]<INFO>sp_cor,135,147,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Brazalete de identificación para sujetos de prueba 10",
+		Summary = "10 Brazalete de identificación",
 		RewardEXP = 300000,
 		RewardJEXP = 300000,
 		RewardItemList = {
@@ -45711,12 +45737,13 @@ Talk to Kar=],
 		}
 	},
 	[17035] = {
-		Title = "Espera: Ludos",
+		Title = "[Espera] Descanse en paz",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Nos volveremos a ver después del amanecer. Realmente ha sido un gran esfuerzo de su parte. - <NAVI>[Ahs]<INFO>sp_cor,135,147,0,101,0</INFO></NAVI>"
+			"Te veré después del amanecer. Realmente trabajaste mucho.",
+			"- <NAVI>[Ace]<INFO>sp_cor,135,147,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Hora de reinicio: 04:00"
+		Summary = "Reinicio a las 4 a.m."
 	},
 	[17037] = {
 		Title = "Espera: Cambio de atributo",
@@ -49073,7 +49100,7 @@ Talk to Kar=],
 	[21016] = {
 		Title = "Guerra contra los muertos vivientes (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con un recluta en la aldea de los arqueros de Payon."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con un recluta en la aldea de los arqueros de Payon."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -49087,7 +49114,7 @@ Talk to Kar=],
 	[21018] = {
 		Title = "Ritual de purificación del alma (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con un recluta en la aldea de los arqueros de Payon."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con un recluta en la aldea de los arqueros de Payon."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -49164,7 +49191,7 @@ Talk to Kar=],
 	[21029] = {
 		Title = "Dulce fruto del trabajo - En espera",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe la espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con el hombre nervioso de mediana edad en Payon."
+			"Esta misión diaria se puede repetir cuando se acabe la espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con el hombre nervioso de mediana edad en Payon."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -49185,7 +49212,7 @@ Talk to Kar=],
 	[21032] = {
 		Title = "Cazaserpientes profesional (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de mensajes del Grupo de Edén o con la dama preocupada en Payon."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de mensajes del Grupo del Edén o con la dama preocupada en Payon."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -49206,7 +49233,7 @@ Talk to Kar=],
 	[21035] = {
 		Title = "Cebolla nociva - En espera",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe la espera. Puedes aceptarla en el tablón de mensajes del Grupo de Edén o con la preocupada abuela de Fayon."
+			"Esta misión diaria se puede repetir cuando se acabe la espera. Puedes aceptarla en el tablón de mensajes del Grupo del Edén o con la preocupada abuela de Fayon."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -49227,7 +49254,7 @@ Talk to Kar=],
 	[21038] = {
 		Title = "Antes de convertirte en un paraíso de hongos - En espera",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe la espera. Puedes aceptarla en el tablón de mensajes del Grupo de Edén o con el preocupado abuelo de Payon."
+			"Esta misión diaria se puede repetir cuando se acabe la espera. Puedes aceptarla en el tablón de mensajes del Grupo del Edén o con el preocupado abuelo de Payon."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -49248,7 +49275,7 @@ Talk to Kar=],
 	[21041] = {
 		Title = "Prisioneros con sueños de fuga (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe la espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con Karon en Glastheim."
+			"Esta misión diaria se puede repetir cuando se acabe la espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Karon en Glastheim."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -49262,7 +49289,7 @@ Talk to Kar=],
 	[21043] = {
 		Title = "Torturadores endemoniados (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con Nadir en Glastheim."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Nadir en Glastheim."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -49276,7 +49303,7 @@ Talk to Kar=],
 	[21045] = {
 		Title = "Sabor refinado (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con Nadir en Glastheim."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Nadir en Glastheim."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -49297,7 +49324,7 @@ Talk to Kar=],
 	[21048] = {
 		Title = "Pesadilla moscovita (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe la espera. La misión se puede seleccionar en el tablón de anuncios del Grupo de Edén."
+			"Esta misión diaria se puede repetir cuando se acabe la espera. La misión se puede seleccionar en el tablón de anuncios del Grupo del Edén."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -49311,7 +49338,7 @@ Talk to Kar=],
 	[21050] = {
 		Title = "Muñeca hermosa (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes solicitar la misión desde el tablón de anuncios del Grupo de Edén."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes solicitar la misión desde el tablón de anuncios del Grupo del Edén."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -49325,7 +49352,7 @@ Talk to Kar=],
 	[21052] = {
 		Title = "¿Sandy Mochi? (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe la espera. Puedes pedir la misión desde el tablón de anuncios del Grupo de Edén."
+			"Esta misión diaria se puede repetir cuando se acabe la espera. Puedes pedir la misión desde el tablón de anuncios del Grupo del Edén."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -49339,7 +49366,7 @@ Talk to Kar=],
 	[21054] = {
 		Title = "Caballo sin cabeza (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. La misión se puede seleccionar en el tablón de anuncios del Grupo de Edén."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. La misión se puede seleccionar en el tablón de anuncios del Grupo del Edén."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -49353,7 +49380,7 @@ Talk to Kar=],
 	[21056] = {
 		Title = "León del templo (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. La misión se puede seleccionar en el tablón de anuncios del Grupo de Edén."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. La misión se puede seleccionar en el tablón de anuncios del Grupo del Edén."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -49367,7 +49394,7 @@ Talk to Kar=],
 	[21058] = {
 		Title = "Bird con arcoíris (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. La misión se puede seleccionar en el tablón de anuncios del Grupo de Edén."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. La misión se puede seleccionar en el tablón de anuncios del Grupo del Edén."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -49381,7 +49408,7 @@ Talk to Kar=],
 	[21060] = {
 		Title = "Una escoba, una olla de hierro fundido y una señora (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe la espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén."
+			"Esta misión diaria se puede repetir cuando se acabe la espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -49395,7 +49422,7 @@ Talk to Kar=],
 	[21062] = {
 		Title = "Los perdedores, los ganadores y el resto (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe la espera. La misión se puede seleccionar en el tablón de anuncios del Grupo de Edén."
+			"Esta misión diaria se puede repetir cuando se acabe la espera. La misión se puede seleccionar en el tablón de anuncios del Grupo del Edén."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -49409,7 +49436,7 @@ Talk to Kar=],
 	[21064] = {
 		Title = "Dama celestial (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. La misión se puede seleccionar en el tablón de anuncios del Grupo de Edén."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. La misión se puede seleccionar en el tablón de anuncios del Grupo del Edén."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -49423,7 +49450,7 @@ Talk to Kar=],
 	[21066] = {
 		Title = "La tumba donde yacen los secretos (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe la espera. La misión se puede seleccionar en el tablón de anuncios del Grupo de Edén."
+			"Esta misión diaria se puede repetir cuando se acabe la espera. La misión se puede seleccionar en el tablón de anuncios del Grupo del Edén."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -49437,7 +49464,7 @@ Talk to Kar=],
 	[21068] = {
 		Title = "Te escucho al final de la noche y al final del día (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes pedir la misión desde el tablón de anuncios del Grupo de Edén."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes pedir la misión desde el tablón de anuncios del Grupo del Edén."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -49451,7 +49478,7 @@ Talk to Kar=],
 	[21070] = {
 		Title = "Candidato Son Goku (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -49465,7 +49492,7 @@ Talk to Kar=],
 	[21072] = {
 		Title = "Anciano en las nubes (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. La misión se puede seleccionar en el tablón de anuncios del Grupo de Edén."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. La misión se puede seleccionar en el tablón de anuncios del Grupo del Edén."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -49668,14 +49695,14 @@ Talk to Kar=],
 	[21101] = {
 		Title = "Cacería de la mosca cazadora",
 		Description = {
-			"La Torre de Geffen organiza una campaña de exterminio de monstruos de las mazmorras en colaboración con el Grupo de Edén. Demuestra tus habilidades derrotando a 10 Moscas cazadoras en el piso 1 de la mazmorra subterránea de Geffen."
+			"La Torre de Geffen organiza una campaña de exterminio de monstruos de las mazmorras en colaboración con el Grupo del Edén. Demuestra tus habilidades derrotando a 10 Moscas cazadoras en el piso 1 de la mazmorra subterránea de Geffen."
 		},
 		Summary = "Derrota a 10 Moscas cazadoras."
 	},
 	[21102] = {
 		Title = "Cacería de la Mosca cazadora (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con el aprendiz de Mago de la Torre de Geffen."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con el aprendiz de Mago de la Torre de Geffen."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -49689,14 +49716,14 @@ Talk to Kar=],
 	[21104] = {
 		Title = "Cacería de Necrófagos y Jakk",
 		Description = {
-			"La Torre de Geffen colabora con el Grupo de Edén para derrotar a los monstruos de las mazmorras. Baja al piso 2 de la mazmorra de Geffen y derrota a 10 Necrófagos y a 10 Jakk."
+			"La Torre de Geffen colabora con el Grupo del Edén para derrotar a los monstruos de las mazmorras. Baja al piso 2 de la mazmorra de Geffen y derrota a 10 Necrófagos y a 10 Jakk."
 		},
 		Summary = "Derrota a 10 Necrófagos y a 10 Jakk."
 	},
 	[21105] = {
 		Title = "Cacería de Necrófagos y Jakk (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con el aprendiz de Mago de la Torre de Geffen."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con el aprendiz de Mago de la Torre de Geffen."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -49717,7 +49744,7 @@ Talk to Kar=],
 	[21108] = {
 		Title = "Cacería de Marionetas y Deviruchi (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes acceder a la misión desde el tablón de anuncios del Grupo de Edén o con el aprendiz de Mago de la Torre de Geffen."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes acceder a la misión desde el tablón de anuncios del Grupo del Edén o con el aprendiz de Mago de la Torre de Geffen."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -49738,7 +49765,7 @@ Talk to Kar=],
 	[21111] = {
 		Title = "Pesadilla galopante (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe la espera. Puedes aceptarla en el tablón de mensajes del Grupo de Edén o con el hombre cansado en Geffen."
+			"Esta misión diaria se puede repetir cuando se acabe la espera. Puedes aceptarla en el tablón de mensajes del Grupo del Edén o con el hombre cansado en Geffen."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -49759,7 +49786,7 @@ Talk to Kar=],
 	[21114] = {
 		Title = "Adorables Petite voladores (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes acceder a la misión en el tablón de mensajes del Grupo de Edén o con un chico Petite en Geffen."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes acceder a la misión en el tablón de mensajes del Grupo del Edén o con un chico Petite en Geffen."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -49780,7 +49807,7 @@ Talk to Kar=],
 	[21117] = {
 		Title = "Adorables Petite terrestres (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes acceder a la misión desde el tablón de anuncios del Grupo de Edén o con el chico Petite en Geffen."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes acceder a la misión desde el tablón de anuncios del Grupo del Edén o con el chico Petite en Geffen."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -49801,7 +49828,7 @@ Talk to Kar=],
 	[21121] = {
 		Title = "Vigila a un amigo (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con Timothy en Alberta."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Timothy en Alberta."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -49836,7 +49863,7 @@ Talk to Kar=],
 	[21126] = {
 		Title = "Hígado de Kukre cocido (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de mensajes del Grupo de Edén o con el promotor de Zonda en Alberta."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de mensajes del Grupo del Edén o con el promotor de Zonda en Alberta."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -49857,7 +49884,7 @@ Talk to Kar=],
 	[21129] = {
 		Title = "Lógica económica para crear sin (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de mensajes del Grupo de Edén o con el promotor de Zonda en Alberta."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de mensajes del Grupo del Edén o con el promotor de Zonda en Alberta."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -49899,7 +49926,7 @@ Talk to Kar=],
 	[21135] = {
 		Title = "Limpieza del barco hundido, piso 1 (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de mensajes del Grupo de Edén o con el promotor de Zonda en Alberta."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de mensajes del Grupo del Edén o con el promotor de Zonda en Alberta."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -49913,7 +49940,7 @@ Talk to Kar=],
 	[21137] = {
 		Title = "Limpieza del barco hundido, piso 2 (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de mensajes del Grupo de Edén o con el promotor de Zonda en Alberta."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de mensajes del Grupo del Edén o con el promotor de Zonda en Alberta."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -49934,7 +49961,7 @@ Talk to Kar=],
 	[21141] = {
 		Title = "Una peregrinación pacífica (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con el Guardia del aeropuerto en las llanuras de Ida en Rachel."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con el Guardia del aeropuerto en las llanuras de Ida en Rachel."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -49955,7 +49982,7 @@ Talk to Kar=],
 	[21144] = {
 		Title = "Guardián de la belleza (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe la espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con Leonard en Rachel."
+			"Esta misión diaria se puede repetir cuando se acabe la espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Leonard en Rachel."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -49976,7 +50003,7 @@ Talk to Kar=],
 	[21147] = {
 		Title = "Piedra tragapiedras (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con Craven en Veins."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Craven en Veins."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -49997,7 +50024,7 @@ Talk to Kar=],
 	[21150] = {
 		Title = "Explorar la Isla Tortuga (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de mensajes del Grupo de Edén o con Tibalt, caballero de Alberta."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de mensajes del Grupo del Edén o con Tibalt, caballero de Alberta."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -50039,7 +50066,7 @@ Talk to Kar=],
 	[21156] = {
 		Title = "Mata a un grupo de tortugas (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de mensajes del Grupo de Edén o con Tibalt, caballero de Alberta."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de mensajes del Grupo del Edén o con Tibalt, caballero de Alberta."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -50060,7 +50087,7 @@ Talk to Kar=],
 	[21159] = {
 		Title = "Cacería de apartamentos (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla desde el tablón de anuncios del Grupo de Edén o con el capitán templario de la aldea Foster."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla desde el tablón de anuncios del Grupo del Edén o con el capitán templario de la aldea Foster."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -50116,49 +50143,49 @@ Talk to Kar=],
 	[21167] = {
 		Title = "La gente confía",
 		Description = {
-			"Completaste la solicitud que te hizo la gente de cazar Moscas cazadoras. Cuando se acabe el tiempo de espera, puedes aceptar la misión en el tablón de anuncios del Grupo de Edén o con el aprendiz de Mago de la Torre de Geffen."
+			"Completaste la solicitud que te hizo la gente de cazar Moscas cazadoras. Cuando se acabe el tiempo de espera, puedes aceptar la misión en el tablón de anuncios del Grupo del Edén o con el aprendiz de Mago de la Torre de Geffen."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21168] = {
 		Title = "La gente confía",
 		Description = {
-			"Completaste la solicitud que te hizo la gente de cazar a los Necrófagos y a los Jakk. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con el aprendiz de Mago de la Torre de Geffen cuando se acabe el tiempo de espera."
+			"Completaste la solicitud que te hizo la gente de cazar a los Necrófagos y a los Jakk. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con el aprendiz de Mago de la Torre de Geffen cuando se acabe el tiempo de espera."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21169] = {
 		Title = "La gente confía",
 		Description = {
-			"Completaste la solicitud de cazar Marionetas y Deviruchi en la aldea. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con el aprendiz de Mago de la Torre de Geffen cuando se acabe el tiempo de espera."
+			"Completaste la solicitud de cazar Marionetas y Deviruchi en la aldea. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con el aprendiz de Mago de la Torre de Geffen cuando se acabe el tiempo de espera."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21170] = {
 		Title = "La gente confía",
 		Description = {
-			"Completaste la solicitud de cazar Kukre en la Ciudad. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con el promotor de Zonda de Alberta cuando se acabe el tiempo de espera."
+			"Completaste la solicitud de cazar Kukre en la Ciudad. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con el promotor de Zonda de Alberta cuando se acabe el tiempo de espera."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21171] = {
 		Title = "La gente confía",
 		Description = {
-			"Completaste la misión de cazar a Cola de dragón y al Conejo de primavera en el pueblo. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con el caballero Tibalt de Alberta cuando se acabe el tiempo de espera."
+			"Completaste la misión de cazar a Cola de dragón y al Conejo de primavera en el pueblo. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con el caballero Tibalt de Alberta cuando se acabe el tiempo de espera."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21172] = {
 		Title = "La gente confía",
 		Description = {
-			"Completaste la solicitud que te hizo la gente de cazar un grupo de tortugas. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con el caballero Tibalt de Alberta cuando se acabe el tiempo de espera."
+			"Completaste la solicitud que te hizo la gente de cazar un grupo de tortugas. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con el caballero Tibalt de Alberta cuando se acabe el tiempo de espera."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21173] = {
 		Title = "La gente confía",
 		Description = {
-			"Completaste la solicitud de cazar Petite voladores en el pueblo. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con el chico Petite en Geffen cuando se acabe el tiempo de espera."
+			"Completaste la solicitud de cazar Petite voladores en el pueblo. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con el chico Petite en Geffen cuando se acabe el tiempo de espera."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -50298,7 +50325,7 @@ Talk to Kar=],
 	[21203] = {
 		Title = "Tipos que estorban (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con el Chico errante en el desierto al este de Morroc."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con el Chico errante en el desierto al este de Morroc."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -50319,7 +50346,7 @@ Talk to Kar=],
 	[21206] = {
 		Title = "Insomne (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con Rumin en las ruinas de Morroc."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Rumin en las ruinas de Morroc."
 		},
 		Summary = "Se reinicia a las 4:00"
 	},
@@ -50375,7 +50402,7 @@ Talk to Kar=],
 	[21214] = {
 		Title = "Derrota a Isis (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con un ayudante en las ruinas de Morroc."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con un ayudante en las ruinas de Morroc."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -50389,7 +50416,7 @@ Talk to Kar=],
 	[21216] = {
 		Title = "Trabajadores de la esfinge (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con Ernest en las ruinas de Morroc."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Ernest en las ruinas de Morroc."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -50403,7 +50430,7 @@ Talk to Kar=],
 	[21218] = {
 		Title = "Secretos de la esfinge (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe la espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con Ernest en las ruinas de Morroc."
+			"Esta misión diaria se puede repetir cuando se acabe la espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Ernest en las ruinas de Morroc."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -50438,7 +50465,7 @@ Talk to Kar=],
 	[21223] = {
 		Title = "Amigos ruidosos (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con Phontes en Izlude."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Phontes en Izlude."
 		},
 		Summary = "Se reinicia a las 4:00"
 	},
@@ -50459,7 +50486,7 @@ Talk to Kar=],
 	[21226] = {
 		Title = "Huevos y saltamontes (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe la espera. Puedes aceptarla en el tablón de mensajes del Grupo de Edén o con la instructora Phontes en Izlude."
+			"Esta misión diaria se puede repetir cuando se acabe la espera. Puedes aceptarla en el tablón de mensajes del Grupo del Edén o con la instructora Phontes en Izlude."
 		},
 		Summary = "Se reinicia a las 4:00"
 	},
@@ -50480,7 +50507,7 @@ Talk to Kar=],
 	[21229] = {
 		Title = "¡Recolectar muestras es más difícil de lo que parece! (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes acceder a la misión desde el tablón de anuncios del Grupo de Edén o con Helden, un estudiante universitario que está en la Isla Byalan."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes acceder a la misión desde el tablón de anuncios del Grupo del Edén o con Helden, un estudiante universitario que está en la Isla Byalan."
 		},
 		Summary = "Se reinicia a las 4:00"
 	},
@@ -50501,7 +50528,7 @@ Talk to Kar=],
 	[21232] = {
 		Title = "Seguir la corriente (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes acceder a la misión en el tablón de anuncios del Grupo de Edén o con el Comerciante errante en la Isla Byalan."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes acceder a la misión en el tablón de anuncios del Grupo del Edén o con el Comerciante errante en la Isla Byalan."
 		},
 		Summary = "Se reinicia a las 4:00"
 	},
@@ -50543,7 +50570,7 @@ Talk to Kar=],
 	[21238] = {
 		Title = "Hoy por ti, mañana por mí (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con un ayudante en la mazmorra de Isla Byalan."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con un ayudante en la mazmorra de Isla Byalan."
 		},
 		Summary = "Se reinicia a las 4:00"
 	},
@@ -50557,7 +50584,7 @@ Talk to Kar=],
 	[21240] = {
 		Title = "Entrega de ingredientes (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con Kusekili en la mazmorra de Isla Byalan."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Kusekili en la mazmorra de Isla Byalan."
 		},
 		Summary = "Se reinicia a las 4:00"
 	},
@@ -50578,14 +50605,14 @@ Talk to Kar=],
 	[21243] = {
 		Title = "Estorbo de guardias (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con Maxim en la mazmorra de Isla Byalan."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Maxim en la mazmorra de Isla Byalan."
 		},
 		Summary = "Se reinicia a las 4:00"
 	},
 	[21244] = {
 		Title = "Dama soñada (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con Nonda Ankana en la mazmorra de Isla Byalan."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Nonda Ankana en la mazmorra de Isla Byalan."
 		},
 		Summary = "Se reinicia a las 4:00"
 	},
@@ -50634,21 +50661,21 @@ Talk to Kar=],
 	[21252] = {
 		Title = "Operación de estabilización del patio de juegos - Avispón (En espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. La misión se puede seleccionar en el tablón de anuncios del Grupo de Edén o en el poste afuera de las puertas de Prontera."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. La misión se puede seleccionar en el tablón de anuncios del Grupo del Edén o en el poste afuera de las puertas de Prontera."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21253] = {
 		Title = "Operación de estabilización del patio de juegos - Rockero (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o en el poste afuera de las puertas de Prontera."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o en el poste afuera de las puertas de Prontera."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21254] = {
 		Title = "¡El legendario caballero Ambarnito! En espera",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con Anne afuera de las puertas de Prontera."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Anne afuera de las puertas de Prontera."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -50669,7 +50696,7 @@ Talk to Kar=],
 	[21257] = {
 		Title = "¡Orcos, ¡operación perdida! (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con los exterminadores del Pueblo de los Orcos."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con los exterminadores del Pueblo de los Orcos."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -50683,7 +50710,7 @@ Talk to Kar=],
 	[21259] = {
 		Title = "Orcos extenuantes (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe la espera. Puedes acceder a la misión desde el tablón de anuncios del Grupo de Edén o con los exterminadores del Pueblo de los Orcos."
+			"Esta misión diaria se puede repetir cuando se acabe la espera. Puedes acceder a la misión desde el tablón de anuncios del Grupo del Edén o con los exterminadores del Pueblo de los Orcos."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -50697,7 +50724,7 @@ Talk to Kar=],
 	[21261] = {
 		Title = "Avaro (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes acceder a la misión desde el tablón de anuncios del Grupo de Edén o con los exterminadores del Pueblo de los Orcos."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes acceder a la misión desde el tablón de anuncios del Grupo del Edén o con los exterminadores del Pueblo de los Orcos."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -50711,7 +50738,7 @@ Talk to Kar=],
 	[21263] = {
 		Title = "Exterminio de duendes feroces (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con el subjefe de los exterminadores en el clan de los Duendes al sur del Pueblo de los Orcos."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con el subjefe de los exterminadores en el clan de los Duendes al sur del Pueblo de los Orcos."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -50725,7 +50752,7 @@ Talk to Kar=],
 	[21265] = {
 		Title = "Exterminio de duendes elegantes - (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con el subjefe de los exterminadores en el clan de los Duendes al sur del Pueblo de los Orcos."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con el subjefe de los exterminadores en el clan de los Duendes al sur del Pueblo de los Orcos."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -50760,7 +50787,7 @@ Talk to Kar=],
 	[21270] = {
 		Title = "Criaturas problemáticas (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con el subjefe de los exterminadores en el clan de los Duendes al sur del Pueblo de los Orcos."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con el subjefe de los exterminadores en el clan de los Duendes al sur del Pueblo de los Orcos."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -50781,7 +50808,7 @@ Talk to Kar=],
 	[21273] = {
 		Title = "Limpieza del monasterio (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o en el terrón que hay frente al monasterio de Glastheim."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o en el terrón que hay frente al monasterio de Glastheim."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -50795,7 +50822,7 @@ Talk to Kar=],
 	[21275] = {
 		Title = "Catacumbas estabilizadas (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o en el terrón que hay frente al monasterio de Glastheim."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o en el terrón que hay frente al monasterio de Glastheim."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -50816,7 +50843,7 @@ Talk to Kar=],
 	[21278] = {
 		Title = "Trabajo en el puesto de control fronterizo (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con Cesare en el puesto de control fronterizo."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Cesare en el puesto de control fronterizo."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -50837,7 +50864,7 @@ Talk to Kar=],
 	[21281] = {
 		Title = "Por nuestra seguridad (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con un guardia de la Academia Kiel Hyre."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con un guardia de la Academia Kiel Hyre."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -50851,7 +50878,7 @@ Talk to Kar=],
 	[21283] = {
 		Title = "Objeto empresarial innovador (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con en la tienda Pata de Gato de la Academia Kiel Hyre."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con en la tienda Pata de Gato de la Academia Kiel Hyre."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -50865,7 +50892,7 @@ Talk to Kar=],
 	[21285] = {
 		Title = "Un final seguro (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con un estudiante en Kil'hyr."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con un estudiante en Kil'hyr."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -50879,7 +50906,7 @@ Talk to Kar=],
 	[21287] = {
 		Title = "Limpieza del piso 1 de la Torre del reloj (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes acceder a la misión en el tablón de anuncios del Grupo de Edén o con Serdin, el guardián de la Torre del reloj de Al De Baran."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes acceder a la misión en el tablón de anuncios del Grupo del Edén o con Serdin, el guardián de la Torre del reloj de Al De Baran."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -50893,7 +50920,7 @@ Talk to Kar=],
 	[21289] = {
 		Title = "Relojes que cobran vida y se mueven I (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes acceder a la misión desde el tablón de mensajes del Grupo de Edén o con Cerdin, el guardián de la Torre del reloj de Al De Baran."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes acceder a la misión desde el tablón de mensajes del Grupo del Edén o con Cerdin, el guardián de la Torre del reloj de Al De Baran."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -50907,7 +50934,7 @@ Talk to Kar=],
 	[21291] = {
 		Title = "Relojes que cobran vida y se mueven II (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes acceder a la misión desde el tablón de mensajes del Grupo de Edén o con Cerdin, el guardián de la Torre del reloj de Al De Baran."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes acceder a la misión desde el tablón de mensajes del Grupo del Edén o con Cerdin, el guardián de la Torre del reloj de Al De Baran."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -50921,7 +50948,7 @@ Talk to Kar=],
 	[21293] = {
 		Title = "Risas en el sótano (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes acceder a la misión desde el tablón de anuncios del Grupo de Edén o con el guardián de la Torre del reloj de Al De Baran."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes acceder a la misión desde el tablón de anuncios del Grupo del Edén o con el guardián de la Torre del reloj de Al De Baran."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -50949,21 +50976,21 @@ Talk to Kar=],
 	[21297] = {
 		Title = "La Guerra Noble (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de mensajes del Grupo de Edén o con el pescador Ein en Hugel."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de mensajes del Grupo del Edén o con el pescador Ein en Hugel."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21298] = {
 		Title = "La experiencia del molusqueo (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con el pescador Ein en Hugel."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con el pescador Ein en Hugel."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
 	[21299] = {
 		Title = "Avería de tubería (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con el herrero Dry en Hugel."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con el herrero Dry en Hugel."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -50991,7 +51018,7 @@ Talk to Kar=],
 	[21303] = {
 		Title = "Limpia los alrededores, por favor (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con Friedrich en la zona de la fábrica de los campos de Einbrook."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Friedrich en la zona de la fábrica de los campos de Einbrook."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -51012,7 +51039,7 @@ Talk to Kar=],
 	[21306] = {
 		Title = "Minero sombrío (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe la espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con Atin en Einbech."
+			"Esta misión diaria se puede repetir cuando se acabe la espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Atin en Einbech."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -51026,7 +51053,7 @@ Talk to Kar=],
 	[21308] = {
 		Title = "¿Por qué se mueve esa cosa? (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con Atin en Einbech."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Atin en Einbech."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -51040,7 +51067,7 @@ Talk to Kar=],
 	[21310] = {
 		Title = "Mineral saltarín (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con Atin en Einbech."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Atin en Einbech."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -51061,7 +51088,7 @@ Talk to Kar=],
 	[21313] = {
 		Title = "Gas tóxico flotante 1 (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con Eisen de Einbroch."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Eisen de Einbroch."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -51075,7 +51102,7 @@ Talk to Kar=],
 	[21315] = {
 		Title = "Gas tóxico flotante 2 (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con Eisen de Einbroch."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Eisen de Einbroch."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -51089,7 +51116,7 @@ Talk to Kar=],
 	[21317] = {
 		Title = "Adorable y terrible… (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con Eisen de Einbroch."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Eisen de Einbroch."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -51110,7 +51137,7 @@ Talk to Kar=],
 	[21320] = {
 		Title = "¿Cuándo podemos meternos a la piscina? (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con Theodore en Lighthalzen."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Theodore en Lighthalzen."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -51124,7 +51151,7 @@ Talk to Kar=],
 	[21322] = {
 		Title = "Golpe de tobillo (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con Theodore en Lighthalzen."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Theodore en Lighthalzen."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -51138,7 +51165,7 @@ Talk to Kar=],
 	[21324] = {
 		Title = "Valle de los Cuatro Dioses (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe la espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con Reno en Lighthalzen."
+			"Esta misión diaria se puede repetir cuando se acabe la espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Reno en Lighthalzen."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -51787,7 +51814,7 @@ Talk to Kar=],
 		Summary = ""
 	},
 	[21424] = {
-		Title = "Entrega de Caparazones de caracol al Grupo de Edén",
+		Title = "Entrega de Caparazones de caracol al Grupo del Edén",
 		Description = {
 			"Entregaste el caparazón de caracol a quien se encarga de la logística. "
 		},
@@ -51796,7 +51823,7 @@ Talk to Kar=],
 	[21425] = {
 		Title = "Entrega de un Pico de pájaro a Edén",
 		Description = {
-			"Entregaste un pico de pájaro a quien se encarga de la logística del Grupo de Edén. Puedes volver a entregarlo en una hora."
+			"Entregaste un pico de pájaro a quien se encarga de la logística del Grupo del Edén. Puedes volver a entregarlo en una hora."
 		},
 		Summary = ""
 	},
@@ -51824,21 +51851,21 @@ Talk to Kar=],
 	[21429] = {
 		Title = "Entrega de un Farol a Edén",
 		Description = {
-			"Entregaste un farol a quien se encarga de la logística del Grupo de Edén. Puedes volver a entregarla en una hora."
+			"Entregaste un farol a quien se encarga de la logística del Grupo del Edén. Puedes volver a entregarla en una hora."
 		},
 		Summary = ""
 	},
 	[21430] = {
 		Title = "Entrega de una Caracola a Edén",
 		Description = {
-			"Entregaste una caracola a quien se encarga de la logística del Grupo de Edén. "
+			"Entregaste una caracola a quien se encarga de la logística del Grupo del Edén."
 		},
 		Summary = ""
 	},
 	[21431] = {
 		Title = "Entrega de un Corazón de Obeaune a Edén",
 		Description = {
-			"Entregaste el Corazón de Obeaune a quien se encarga de la logística del Grupo de Edén. Puedes volver a entregarlo en una hora."
+			"Entregaste el Corazón de Obeaune a quien se encarga de la logística del Grupo del Edén. Puedes volver a entregarlo en una hora."
 		},
 		Summary = ""
 	},
@@ -51859,14 +51886,14 @@ Talk to Kar=],
 	[21434] = {
 		Title = "Entrega de Herraduras a Edén",
 		Description = {
-			"Entregaste las Herraduras a quien se encarga de la logística del Grupo de Edén. Puedes volver a entregarlas en una hora."
+			"Entregaste las Herraduras a quien se encarga de la logística del Grupo del Edén. Puedes volver a entregarlas en una hora."
 		},
 		Summary = ""
 	},
 	[21435] = {
 		Title = "Entrega de una Pierna corta a Edén",
 		Description = {
-			"Entregaste una pierna corta a quien se encarga de la logística del Grupo de Edén. "
+			"Entregaste una pierna corta a quien se encarga de la logística del Grupo del Edén."
 		},
 		Summary = ""
 	},
@@ -51887,28 +51914,28 @@ Talk to Kar=],
 	[21438] = {
 		Title = "Entrega de una Caparazón de tortuga a Edén",
 		Description = {
-			"Entregaste el caparazón de la tortuga a quien se encarga de la logística del Grupo de Edén. Puedes volver a entregarlo en una hora."
+			"Entregaste el caparazón de la tortuga a quien se encarga de la logística del Grupo del Edén. Puedes volver a entregarlo en una hora."
 		},
 		Summary = ""
 	},
 	[21439] = {
-		Title = "Entrega de un Cuerno de diablo bebé al Grupo de Edén",
+		Title = "Entrega de un Cuerno de diablo bebé al Grupo del Edén",
 		Description = {
-			"Entregaste el cuerno de diablo a quien se encarga de la logística del Grupo de Edén. Puedes volver a entregarlo en una hora."
+			"Entregaste el cuerno de diablo a quien se encarga de la logística del Grupo del Edén. Puedes volver a entregarlo en una hora."
 		},
 		Summary = ""
 	},
 	[21440] = {
-		Title = "Entrega de un Corazón de hielo al Grupo de Edén",
+		Title = "Entrega de un Corazón de hielo al Grupo del Edén",
 		Description = {
-			"Entregaste un corazón de hielo a quien se encarga de la logística del Grupo de Edén. Puedes volver a entregarlo en una hora."
+			"Entregaste un corazón de hielo a quien se encarga de la logística del Grupo del Edén. Puedes volver a entregarlo en una hora."
 		},
 		Summary = ""
 	},
 	[21441] = {
 		Title = "Entrega de Pelusas a Edén",
 		Description = {
-			"Entregaste las pelusas a quien se encarga de la logística del Grupo de Edén. Puedes volver a entregarlas en una hora."
+			"Entregaste las pelusas a quien se encarga de la logística del Grupo del Edén. Puedes volver a entregarlas en una hora."
 		},
 		Summary = ""
 	},
@@ -52510,7 +52537,7 @@ Talk to Kar=],
 	[21583] = {
 		Title = "La despedida de los Skogul (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con Morvand en Hugel."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Morvand en Hugel."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -52531,7 +52558,7 @@ Talk to Kar=],
 	[21586] = {
 		Title = "El exorcismo (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes seleccionar la misión en el tablón de anuncios del Grupo de Edén o con Morvand en Hugel."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes seleccionar la misión en el tablón de anuncios del Grupo del Edén o con Morvand en Hugel."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -52552,7 +52579,7 @@ Talk to Kar=],
 	[21589] = {
 		Title = "En realidad, no es tan adorable (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con Morvand en Hugel."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Morvand en Hugel."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -52580,7 +52607,7 @@ Talk to Kar=],
 	[21593] = {
 		Title = "Egnigem Cenia (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con el rastro de los incendios en Lighthalzen."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con el rastro de los incendios en Lighthalzen."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -52601,7 +52628,7 @@ Talk to Kar=],
 	[21596] = {
 		Title = "Armeyer Dinze (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con el rastro de los incendios en Lighthalzen."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con el rastro de los incendios en Lighthalzen."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -52622,7 +52649,7 @@ Talk to Kar=],
 	[21599] = {
 		Title = "Wickebine Tres (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con el rastro de los incendios en Lighthalzen."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con el rastro de los incendios en Lighthalzen."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -52643,7 +52670,7 @@ Talk to Kar=],
 	[21602] = {
 		Title = "Kavach Icarus (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con el rastro de los incendios en Lighthalzen."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con el rastro de los incendios en Lighthalzen."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -52664,7 +52691,7 @@ Talk to Kar=],
 	[21605] = {
 		Title = "Errende Ebecee (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe la espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con el rastro de los incendios en Lighthalzen."
+			"Esta misión diaria se puede repetir cuando se acabe la espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con el rastro de los incendios en Lighthalzen."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -52685,7 +52712,7 @@ Talk to Kar=],
 	[21608] = {
 		Title = "Laurell Weinder (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe la espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con el rastro de los incendios en Lighthalzen."
+			"Esta misión diaria se puede repetir cuando se acabe la espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con el rastro de los incendios en Lighthalzen."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -52706,7 +52733,7 @@ Talk to Kar=],
 	[21611] = {
 		Title = "Cecil Damon (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con el rastro de los incendios en Lighthalzen."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con el rastro de los incendios en Lighthalzen."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -52727,7 +52754,7 @@ Talk to Kar=],
 	[21614] = {
 		Title = "Kathryne Keyron (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con el rastro de los incendios en Lighthalzen."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con el rastro de los incendios en Lighthalzen."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -52748,7 +52775,7 @@ Talk to Kar=],
 	[21617] = {
 		Title = "Margarita Sorin (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con el rastro de los incendios en Lighthalzen."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con el rastro de los incendios en Lighthalzen."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -52769,7 +52796,7 @@ Talk to Kar=],
 	[21620] = {
 		Title = "Seyren Windsor (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe la espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con el rastro de los incendios en Lighthalzen."
+			"Esta misión diaria se puede repetir cuando se acabe la espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con el rastro de los incendios en Lighthalzen."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -52790,7 +52817,7 @@ Talk to Kar=],
 	[21623] = {
 		Title = "Eremes Guile (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe la espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con el rastro de los incendios en Lighthalzen."
+			"Esta misión diaria se puede repetir cuando se acabe la espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con el rastro de los incendios en Lighthalzen."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -52811,7 +52838,7 @@ Talk to Kar=],
 	[21626] = {
 		Title = "Howard Alteisen (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con el rastro de los incendios en Lighthalzen."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con el rastro de los incendios en Lighthalzen."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -52839,7 +52866,7 @@ Talk to Kar=],
 	[21630] = {
 		Title = "Captura Terrores nocturnos (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con Elmes Platou, del personal del museo en Yuno."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Elmes Platou, del personal del museo en Yuno."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -52860,7 +52887,7 @@ Talk to Kar=],
 	[21633] = {
 		Title = "Captura Deleter (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con Elmes Platou, del personal del museo en Yuno."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Elmes Platou, del personal del museo en Yuno."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -52881,7 +52908,7 @@ Talk to Kar=],
 	[21636] = {
 		Title = "Recolecta Lava (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con Elmes Platou, del personal del museo en Yuno."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Elmes Platou, del personal del museo en Yuno."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -52916,7 +52943,7 @@ Talk to Kar=],
 	[21641] = {
 		Title = "Dragón del lago (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con Nahadan en Whigel."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Nahadan en Whigel."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -52937,7 +52964,7 @@ Talk to Kar=],
 	[21644] = {
 		Title = "Dragón volador del lago (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe la espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con Nahadan en Hugel."
+			"Esta misión diaria se puede repetir cuando se acabe la espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Nahadan en Hugel."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -52958,7 +52985,7 @@ Talk to Kar=],
 	[21647] = {
 		Title = "Dragón de tres cabezas del lago (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con Nahadan en Hugel."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Nahadan en Hugel."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -52993,7 +53020,7 @@ Talk to Kar=],
 	[21652] = {
 		Title = "En la caja del Mímico (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con Avril en la entrada del museo, en la planta baja de la Torre de Thanatos."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Avril en la entrada del museo, en la planta baja de la Torre de Thanatos."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -53014,7 +53041,7 @@ Talk to Kar=],
 	[21655] = {
 		Title = "Antigua sabiduría flotante (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con Avril en la entrada del museo, en la planta baja de la Torre de Thanatos."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Avril en la entrada del museo, en la planta baja de la Torre de Thanatos."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -53035,7 +53062,7 @@ Talk to Kar=],
 	[21658] = {
 		Title = "Barón del castillo ancestral (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con Avril en la entrada del museo, en la planta baja de la Torre de Thanatos."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Avril en la entrada del museo, en la planta baja de la Torre de Thanatos."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -53056,7 +53083,7 @@ Talk to Kar=],
 	[21661] = {
 		Title = "Piezas de conocimiento (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes seleccionar la misión en el tablón de anuncios del Grupo de Edén o con Avril en la entrada del museo, en la planta baja de la Torre de Thanatos."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes seleccionar la misión en el tablón de anuncios del Grupo del Edén o con Avril en la entrada del museo, en la planta baja de la Torre de Thanatos."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -53077,7 +53104,7 @@ Talk to Kar=],
 	[21664] = {
 		Title = "Viejos registros mágicos (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con Avril en la entrada del museo, en la planta baja de la Torre de Thanatos."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Avril en la entrada del museo, en la planta baja de la Torre de Thanatos."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -53098,7 +53125,7 @@ Talk to Kar=],
 	[21667] = {
 		Title = "Recolección de reciclaje (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes seleccionar la misión en el tablón de anuncios del Grupo de Edén o con Avril en la entrada del museo, en la planta baja de la Torre de Thanatos."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes seleccionar la misión en el tablón de anuncios del Grupo del Edén o con Avril en la entrada del museo, en la planta baja de la Torre de Thanatos."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -53119,7 +53146,7 @@ Talk to Kar=],
 	[21670] = {
 		Title = "Vigilancia y castigo (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con Tart en la entrada del museo, en la planta baja de la Torre de Thanatos."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Tart en la entrada del museo, en la planta baja de la Torre de Thanatos."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -53140,7 +53167,7 @@ Talk to Kar=],
 	[21673] = {
 		Title = "Dulce veneno (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe la espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con Tart en la entrada del museo, en la planta baja de la Torre de Thanatos."
+			"Esta misión diaria se puede repetir cuando se acabe la espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Tart en la entrada del museo, en la planta baja de la Torre de Thanatos."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -53161,7 +53188,7 @@ Talk to Kar=],
 	[21676] = {
 		Title = "Descanso en la muerte (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con Tart en la entrada del museo, en la planta baja de la Torre de Thanatos."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Tart en la entrada del museo, en la planta baja de la Torre de Thanatos."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -53182,7 +53209,7 @@ Talk to Kar=],
 	[21679] = {
 		Title = "Semillas de control (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con Tart en la entrada del museo, en la planta baja de la Torre de Thanatos."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Tart en la entrada del museo, en la planta baja de la Torre de Thanatos."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -53217,7 +53244,7 @@ Talk to Kar=],
 	[21684] = {
 		Title = "A los bufones lamentables (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe la espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con Darketh en Glastheim."
+			"Esta misión diaria se puede repetir cuando se acabe la espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Darketh en Glastheim."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -53238,7 +53265,7 @@ Talk to Kar=],
 	[21687] = {
 		Title = "A un pequeño insecto (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con Darketh en Glastheim."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Darketh en Glastheim."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -53259,7 +53286,7 @@ Talk to Kar=],
 	[21690] = {
 		Title = "El cielo de los vivos (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con Darketh en Glastheim."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Darketh en Glastheim."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -53280,7 +53307,7 @@ Talk to Kar=],
 	[21693] = {
 		Title = "No dudarás del alma (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con Darketh en Glastheim."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Darketh en Glastheim."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -53301,7 +53328,7 @@ Talk to Kar=],
 	[21696] = {
 		Title = "Delicio… No, pobres almas (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe la espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con Darketh en Glastheim."
+			"Esta misión diaria se puede repetir cuando se acabe la espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Darketh en Glastheim."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -53322,7 +53349,7 @@ Talk to Kar=],
 	[21699] = {
 		Title = "Solo una armadura vacía (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con Chiave en Glastheim."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Chiave en Glastheim."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -53343,7 +53370,7 @@ Talk to Kar=],
 	[21702] = {
 		Title = "¿Almas justas? (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con Chiave en Glastheim."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Chiave en Glastheim."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -53364,7 +53391,7 @@ Talk to Kar=],
 	[21705] = {
 		Title = "El enemigo jurado de un caballero (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con Chiave en Glastheim."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Chiave en Glastheim."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -53385,7 +53412,7 @@ Talk to Kar=],
 	[21708] = {
 		Title = "Un oponente digno (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con Chiave en Glastheim."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Chiave en Glastheim."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -53427,7 +53454,7 @@ Talk to Kar=],
 	[21714] = {
 		Title = "Chica envuelta en hojas (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con Yerne en el cuartel de las Fuerzas Aliadas de Midgard."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Yerne en el cuartel de las Fuerzas Aliadas de Midgard."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -53448,7 +53475,7 @@ Talk to Kar=],
 	[21717] = {
 		Title = "Belleza emocionante (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con Yerne en el cuartel de las Fuerzas Aliadas de Midgard."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Yerne en el cuartel de las Fuerzas Aliadas de Midgard."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -53469,7 +53496,7 @@ Talk to Kar=],
 	[21720] = {
 		Title = "Rey del Nuevo mundo (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con Yerne en el cuartel de las Fuerzas Aliadas de Midgard."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Yerne en el cuartel de las Fuerzas Aliadas de Midgard."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -53490,7 +53517,7 @@ Talk to Kar=],
 	[21723] = {
 		Title = "Dama vestida de hojas (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con Yerne en el cuartel de las Fuerzas Aliadas de Midgard."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Yerne en el cuartel de las Fuerzas Aliadas de Midgard."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -53511,7 +53538,7 @@ Talk to Kar=],
 	[21726] = {
 		Title = "Marcador de flores secas (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con Yerne en el cuartel del Sindicato de Midgard."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Yerne en el cuartel del Sindicato de Midgard."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -53532,7 +53559,7 @@ Talk to Kar=],
 	[21729] = {
 		Title = "¡Lindos músculos! (En espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con Yerne en el cuartel de las Fuerzas Aliadas de Midgard."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Yerne en el cuartel de las Fuerzas Aliadas de Midgard."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -53553,7 +53580,7 @@ Talk to Kar=],
 	[21732] = {
 		Title = "Como salido de un cuento de hadas (en espera).",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con Yerne en el cuartel de las Fuerzas Aliadas de Midgard."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Yerne en el cuartel de las Fuerzas Aliadas de Midgard."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -53574,7 +53601,7 @@ Talk to Kar=],
 	[21735] = {
 		Title = "Carisma estimulante (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con Yerne en el cuartel de la Alianza de Midgard."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Yerne en el cuartel de la Alianza de Midgard."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -53595,7 +53622,7 @@ Talk to Kar=],
 	[21738] = {
 		Title = "Cuerno de encantamiento (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con Yerne en el cuartel de la Alianza de Midgard."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Yerne en el cuartel de la Alianza de Midgard."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -53616,7 +53643,7 @@ Talk to Kar=],
 	[21741] = {
 		Title = "Insectos venenosos (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con Theodore en el cuartel del Sindicato de Midgard."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Theodore en el cuartel del Sindicato de Midgard."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -53637,7 +53664,7 @@ Talk to Kar=],
 	[21744] = {
 		Title = "Holgazán incompetente (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con Theodore en el cuartel del Sindicato de Midgard."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Theodore en el cuartel del Sindicato de Midgard."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -53658,7 +53685,7 @@ Talk to Kar=],
 	[21747] = {
 		Title = "Parece una coraza (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con Theodore en el cuartel de la Alianza de Midgard."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Theodore en el cuartel de la Alianza de Midgard."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -53679,7 +53706,7 @@ Talk to Kar=],
 	[21750] = {
 		Title = "Cuernos de punta",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con Theodore en el cuartel de la Alianza de Midgard."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Theodore en el cuartel de la Alianza de Midgard."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -53700,7 +53727,7 @@ Talk to Kar=],
 	[21753] = {
 		Title = "Cuernos gemelos (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con Theodore en el cuartel de la Alianza de Midgard."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Theodore en el cuartel de la Alianza de Midgard."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -53721,7 +53748,7 @@ Talk to Kar=],
 	[21756] = {
 		Title = "Romper astas (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con Theodore en el cuartel del Sindicato de Midgard."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Theodore en el cuartel del Sindicato de Midgard."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -53742,7 +53769,7 @@ Talk to Kar=],
 	[21759] = {
 		Title = "Dominar Scaraba de rastrillo (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con Theodore en el cuartel de la Alianza de Midgard."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Theodore en el cuartel de la Alianza de Midgard."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -53763,7 +53790,7 @@ Talk to Kar=],
 	[21762] = {
 		Title = "El tormento de Morroc (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con Theodore en el cuartel del Sindicato de Midgard."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Theodore en el cuartel del Sindicato de Midgard."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -53784,7 +53811,7 @@ Talk to Kar=],
 	[21765] = {
 		Title = "El truco de Morroc (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe la espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con Theodore en el cuartel del Sindicato de Midgard."
+			"Esta misión diaria se puede repetir cuando se acabe la espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Theodore en el cuartel del Sindicato de Midgard."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -53805,7 +53832,7 @@ Talk to Kar=],
 	[21768] = {
 		Title = "Un niño burbujeante (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con Nuinui en el Pueblo de Mora."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Nuinui en el Pueblo de Mora."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -53826,7 +53853,7 @@ Talk to Kar=],
 	[21771] = {
 		Title = "Pequeño bromista (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con Nuinui en el Pueblo de Mora."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Nuinui en el Pueblo de Mora."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -53854,7 +53881,7 @@ Talk to Kar=],
 	[21775] = {
 		Title = "Formas angelicales (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con Lartal en Morroc."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Lartal en Morroc."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -53875,7 +53902,7 @@ Talk to Kar=],
 	[21778] = {
 		Title = "Bendición del descanso (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con Lartal en Morroc."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Lartal en Morroc."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -53896,7 +53923,7 @@ Talk to Kar=],
 	[21781] = {
 		Title = "El placer de la esclavitud (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con Lartal en Morroc."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Lartal en Morroc."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -53917,7 +53944,7 @@ Talk to Kar=],
 	[21784] = {
 		Title = "Implementación de la pureza (en espera)",
 		Description = {
-			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo de Edén o con Lartal en Morroc."
+			"Esta misión diaria se puede repetir cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de anuncios del Grupo del Edén o con Lartal en Morroc."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -54330,7 +54357,7 @@ Talk to Kar=],
 	[21843] = {
 		Title = "Cacería de una Pinguicula oscura robusta (en espera)",
 		Description = {
-			"Esta misión diaria se puede reclamar cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de misiones de Cacería de campeones del Grupo de Edén."
+			"Esta misión diaria se puede reclamar cuando se acabe el tiempo de espera. Puedes aceptarla en el tablón de misiones de Cacería de campeones del Grupo del Edén."
 		},
 		Summary = "Se reinicia a las 4:00."
 	},
@@ -54477,7 +54504,7 @@ Talk to Kar=],
 	[21910] = {
 		Title = "¡Prontera!",
 		Description = {
-			"Como miembro de la realeza del Grupo de Edén, decidiste ayudar a resolver un problema en la Catedral de Prontera. Reúnete con <NAVI>[Compañero]<INFO>prt_fild08,182,359,000,0</INFO></NAVI> afuera de las puertas al sur de Prontera y únete a él."
+			"Como miembro de la realeza del Grupo del Edén, decidiste ayudar a resolver un problema en la Catedral de Prontera. Reúnete con <NAVI>[Compañero]<INFO>prt_fild08,182,359,000,0</INFO></NAVI> afuera de las puertas al sur de Prontera y únete a él."
 		},
 		Summary = "Habla con Leno."
 	},
@@ -54603,7 +54630,7 @@ Talk to Kar=],
 	[21928] = {
 		Title = "Pueblo de Poring",
 		Description = {
-			"El Grupo de Edén te encomendó determinar la verdad que se esconde tras los rumores de un “Pueblo de Forlorn” que se extienden por Prontera. Reúne información del <NAVI>[Oeste de Prontera]<INFO>prt_fild05,145,235,000,0</INFO></NAVI>."
+			"El Grupo del Edén te encomendó determinar la verdad que se esconde tras los rumores de un “Pueblo de Forlorn” que se extienden por Prontera. Reúne información del <NAVI>[Oeste de Prontera]<INFO>prt_fild05,145,235,000,0</INFO></NAVI>."
 		},
 		Summary = ""
 	},
@@ -56050,14 +56077,14 @@ Talk to Kar=],
 		Summary = "Conversación con Derik Ver."
 	},
 	[60039] = {
-		Title = "Investigación de Glast Heim",
+		Title = "Investigación de Glastheim",
 		Description = {
-			"Derik Ver dice que consiguió a 5 voluntarios para explorar Glast Heim. Anda por tu cuenta para ver si puedes ayudarlos con su investigación."
+			"Derik Ver dice que consiguió a 5 voluntarios para explorar Glastheim. Anda por tu cuenta para ver si puedes ayudarlos con su investigación."
 		},
 		Summary = ""
 	},
 	[60040] = {
-		Title = "Investigación de Glast Heim",
+		Title = "Investigación de Glastheim",
 		Description = {
 			"Continúa tu conversación con el Sr. Brando."
 		},
@@ -56071,7 +56098,7 @@ Talk to Kar=],
 		Summary = ""
 	},
 	[60042] = {
-		Title = "Investigación de Glast Heim",
+		Title = "Investigación de Glastheim",
 		Description = {
 			"El Sr. Brando te pidió que entregues un mensaje a su esposa en la parte trasera de la caballería 1 en menos de 5 minutos."
 		},
@@ -56080,21 +56107,21 @@ Talk to Kar=],
 	[60043] = {
 		Title = "Investigación sobre los monstruos de Glastheim",
 		Description = {
-			"El Sr. Brando te pidió ayuda para investigar las criaturas en Glast Heim. Para hacerlo, caza los monstruos que encuentres allí."
+			"El Sr. Brando te pidió ayuda para investigar las criaturas en Glastheim. Para hacerlo, caza los monstruos que encuentres allí."
 		},
 		Summary = "Caza 20 Necrófagos y 10 Susurros, e informa a su esposa en la caballería 1."
 	},
 	[60044] = {
 		Title = "Investigación sobre los monstruos de Glastheim",
 		Description = {
-			"El Sr. Brando te pidió ayuda para investigar las criaturas en Glast Heim. Para hacerlo, caza los monstruos que encuentres allí."
+			"El Sr. Brando te pidió ayuda para investigar las criaturas en Glastheim. Para hacerlo, caza los monstruos que encuentres allí."
 		},
 		Summary = "Caza 25 Druidas del mal y 1 Sacerdote oscuro elusivo e informa a su esposa en la caballería 1."
 	},
 	[60045] = {
-		Title = "Investigación de Glast Heim",
+		Title = "Investigación de Glastheim",
 		Description = {
-			"La Sra. Brando te envió a la prisión de Glast Heim para entregar otro mensaje a un familiar. Dirígete al norte del castillo y encuentra la prisión en menos de 5 minutos."
+			"La Sra. Brando te envió a la prisión de Glastheim para entregar otro mensaje a un familiar. Dirígete al norte del castillo y encuentra la prisión en menos de 5 minutos."
 		},
 		Summary = "Lleva el mensaje antes de que se acabe el tiempo límite."
 	},
@@ -56113,7 +56140,7 @@ Talk to Kar=],
 		Summary = "Caza 15 Khalitzburg y 90 Raydric e informa a Kipp en la prisión de Glastheim."
 	},
 	[60048] = {
-		Title = "Investigación de Glast Heim",
+		Title = "Investigación de Glastheim",
 		Description = {
 			"Kipp te pidió que entregues un mensaje a su hermana Cherice en las alcantarillas cerca a la entrada del “punto de aparición de los Sting” en menos de 10 minutos."
 		},
@@ -56134,7 +56161,7 @@ Talk to Kar=],
 		Summary = "Caza 20 Injusticias y 20 Rybio e informa a su hermana."
 	},
 	[60051] = {
-		Title = "Investigación de Glast Heim",
+		Title = "Investigación de Glastheim",
 		Description = {
 			"Cherice te pidió que entregues un mensaje a la abuela Vira cerca de la cruz del cementerio en dirección del noroeste en menos de 6 minutos."
 		},
@@ -56155,7 +56182,7 @@ Talk to Kar=],
 		Summary = "Caza 10 Imp y 40 Majoruros e informa a la abuela Vira."
 	},
 	[60054] = {
-		Title = "Investigación de Glast Heim",
+		Title = "Investigación de Glastheim",
 		Description = {
 			"La abuela Vira te pidió que busques la tumba de su esposo en menos de 3 minutos."
 		},
@@ -57455,35 +57482,35 @@ Talk to Kar=],
 	[60401] = {
 		Title = "Cacería de Drops",
 		Description = {
-			"La mayoría de ellos se encuentra en el campo 7 de Morroc, al norte de la ciudad de Morroc. Habla con Sprakki en el cuartel general del Grupo de Edén para obtener tu premio."
+			"La mayoría de ellos se encuentra en el campo 7 de Morroc, al norte de la ciudad de Morroc. Habla con Sprakki en el cuartel general del Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 10 Drops. "
 	},
 	[60402] = {
 		Title = "Cacería de Lunáticas y Fabre",
 		Description = {
-			"Se encuentran en los campos situados al norte y al este de la ciudad de Prontera. Habla con Sprakki en el cuartel general del Grupo de Edén para obtener tu premio."
+			"Se encuentran en los campos situados al norte y al este de la ciudad de Prontera. Habla con Sprakki en el cuartel general del Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 10 Lunáticas y Fabre."
 	},
 	[60403] = {
 		Title = "Cacería de Chonchon y Pupas",
 		Description = {
-			"Los Chonchon y Pupas se encuentran al este y al oeste de la ciudad de Geffen. Habla con Sprakki en el cuartel general del Grupo de Edén para obtener tu premio."
+			"Los Chonchon y Pupas se encuentran al este y al oeste de la ciudad de Geffen. Habla con Sprakki en el cuartel general del Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 20 Chonchon y 10 Pupas."
 	},
 	[60404] = {
 		Title = "Cacería de Huevos de Peco Peco",
 		Description = {
-			"Los Huevos de Peco Peco se encuentran en las zonas al sur de Morroc y en las demás zonas del Desierto Sograt. Habla con Sprakki en el cuartel general del Grupo de Edén para obtener tu premio."
+			"Los Huevos de Peco Peco se encuentran en las zonas al sur de Morroc y en las demás zonas del Desierto Sograt. Habla con Sprakki en el cuartel general del Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 20 Huevos de Peco Peco."
 	},
 	[60405] = {
 		Title = "Cacería de Sauces y Picky",
 		Description = {
-			"Los Sauces se encuentran al sur de Payon, y los Picky, al sur de Morroc. Habla con Sprakki en el cuartel general del Grupo de Edén para obtener tu premio."
+			"Los Sauces se encuentran al sur de Payon, y los Picky, al sur de Morroc. Habla con Sprakki en el cuartel general del Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 20 Sauces y 20 Picky."
 	},
@@ -57749,7 +57776,7 @@ Talk to Kar=],
 	[60443] = {
 		Title = "Cacería de Alarmas",
 		Description = {
-			"Caza Alarmas y vuelve con Abuelo al Grupo de Edén para obtener tu premio."
+			"Caza Alarmas y vuelve con Abuelo al Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Alarmas."
 	},
@@ -57763,21 +57790,21 @@ Talk to Kar=],
 	[60445] = {
 		Title = "Cacería de Lobos del desierto",
 		Description = {
-			"Caza 400 Lobos del desierto en el campo 1 de Rachel. Vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza 400 Lobos del desierto en el campo 1 de Rachel. Vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = ""
 	},
 	[60446] = {
 		Title = "Cacería de Zombis harapientos",
 		Description = {
-			"Caza 400 Zombis harapientos en la Isla Anónima. Vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza 400 Zombis harapientos en la Isla Anónima. Vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = ""
 	},
 	[60447] = {
 		Title = "Cacería de Cecil Damon",
 		Description = {
-			"Caza 400 Cecil Damon en el piso 3 del Biolaboratorio. Vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza 400 Cecil Damon en el piso 3 del Biolaboratorio. Vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = ""
 	},
@@ -57805,133 +57832,133 @@ Talk to Kar=],
 	[60451] = {
 		Title = "Cacería de Durazneros encantados",
 		Description = {
-			"Caza 400 Durazneros encantados en la mazmorra de Kunlun. Vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza 400 Durazneros encantados en la mazmorra de Kunlun. Vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = ""
 	},
 	[60452] = {
 		Title = "Cacería de Osos Zipper",
 		Description = {
-			"Caza 400 Osos Zipper en la mazmorra de Kunlun. Vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza 400 Osos Zipper en la mazmorra de Kunlun. Vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = ""
 	},
 	[60453] = {
 		Title = "Cacería de Súcubos",
 		Description = {
-			"Caza 400 Súcubos en Geffenia. Vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza 400 Súcubos en Geffenia. Vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = ""
 	},
 	[60454] = {
 		Title = "Cacería de Íncubos",
 		Description = {
-			"Caza 400 Íncubos en Geffenia. Vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza 400 Íncubos en Geffenia. Vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = ""
 	},
 	[60455] = {
 		Title = "Cacería de Scaraba de un cuerno",
 		Description = {
-			"Caza 400 Scaraba de un cuerno en la montaña Kamidal. Vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza 400 Scaraba de un cuerno en la montaña Kamidal. Vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = ""
 	},
 	[60456] = {
 		Title = "Cacería de Scaraba con cuerno",
 		Description = {
-			"Caza 400 Scaraba con cuerno en la montaña Kamidal. Vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza 400 Scaraba con cuerno en la montaña Kamidal. Vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = ""
 	},
 	[60457] = {
-		Title = "¡Únete al Grupo de Edén!",
+		Title = "¡Únete al Grupo del Edén!",
 		Description = {
-			"Recibiste la misión de hablar con cualquier guía del Grupo de Edén en el pueblo y de viajar al Grupo de Edén.  Busca al secretario Lime Evenor en el primer piso, detrás del escritorio, y únete al Grupo de Edén."
+			"Recibiste la misión de hablar con cualquier guía del Grupo del Edén en el pueblo y de viajar al Grupo del Edén.  Busca al secretario Lime Evenor en el primer piso, detrás del escritorio, y únete al Grupo del Edén."
 		},
-		Summary = "Ingresa en el Grupo de Edén y habla con Lime Evenor."
+		Summary = "Ingresa en el Grupo del Edén y habla con Lime Evenor."
 	},
 	[60459] = {
 		Title = "Cacería de Gazeti",
 		Description = {
-			"Caza 400 Gazeti en la mazmorra de hielo. Vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza 400 Gazeti en la mazmorra de hielo. Vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = ""
 	},
 	[60460] = {
 		Title = "Cacería de Titanes de hielo",
 		Description = {
-			"Caza Titanes de hielo y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Titanes de hielo y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Titanes de hielo."
 	},
 	[60461] = {
 		Title = "Cacería de Skogul",
 		Description = {
-			"Caza 400 Skogul en el Templo de Odín. Vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza 400 Skogul en el Templo de Odín. Vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = ""
 	},
 	[60462] = {
 		Title = "Cacería de Frus",
 		Description = {
-			"Caza 400 Frus en el Templo de Odín. Vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza 400 Frus en el Templo de Odín. Vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = ""
 	},
 	[60463] = {
 		Title = "Cacería de Scaraba de asta",
 		Description = {
-			"Caza 400 Scaraba de asta en el Agujero de Scaraba. Vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza 400 Scaraba de asta en el Agujero de Scaraba. Vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = ""
 	},
 	[60464] = {
 		Title = "Cacería de Scaraba de rastrillo",
 		Description = {
-			"Caza 400 Scaraba de rastrillo en el Agujero de Scaraba. Vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza 400 Scaraba de rastrillo en el Agujero de Scaraba. Vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = ""
 	},
 	[60465] = {
 		Title = "Cacería de Sapos venenosos",
 		Description = {
-			"Caza 400 Sapos venenosos en la Mazmorra de Amatsu. Vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza 400 Sapos venenosos en la Mazmorra de Amatsu. Vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = ""
 	},
 	[60466] = {
 		Title = "Cacería de Soldados arcabuceros",
 		Description = {
-			"Caza 400 Soldados arcabuceros y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza 400 Soldados arcabuceros y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Soldados arcabuceros."
 	},
 	[60467] = {
 		Title = "Cacería de Dullahan",
 		Description = {
-			"Caza 400 Dullahan en Niflheim. Vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza 400 Dullahan en Niflheim. Vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = ""
 	},
 	[60468] = {
 		Title = "Cacería de Loli Ruri",
 		Description = {
-			"Caza 400 Loli Ruri en Niflheim. Vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza 400 Loli Ruri en Niflheim. Vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = ""
 	},
 	[60469] = {
 		Title = "Cacería de Ácidus dorados",
 		Description = {
-			"Caza 400 Ácidus dorados en el Abismo. Vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza 400 Ácidus dorados en el Abismo. Vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = ""
 	},
 	[60470] = {
 		Title = "Cacería de Ácidus azules",
 		Description = {
-			"Caza 400 Ácidus azules en el Abismo. Vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza 400 Ácidus azules en el Abismo. Vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = ""
 	},
@@ -57973,70 +58000,70 @@ Talk to Kar=],
 	[60476] = {
 		Title = "Cacería de Minerales",
 		Description = {
-			"Caza los monstruos en el piso 2 de la mazmorra de Einbroch y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza los monstruos en el piso 2 de la mazmorra de Einbroch y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Minerales."
 	},
 	[60477] = {
 		Title = "Cacería de Obsidianas",
 		Description = {
-			"Caza los monstruos en el piso 2 de la mazmorra de Einbroch y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza los monstruos en el piso 2 de la mazmorra de Einbroch y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Obsidianas."
 	},
 	[60478] = {
 		Title = "Cacería de Ferus",
 		Description = {
-			"Caza los monstruos en la mazmorra del Abismo y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza los monstruos en la mazmorra del Abismo y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Ferus."
 	},
 	[60479] = {
 		Title = "Cacería de Bewler",
 		Description = {
-			"Caza los monstruos en la mazmorra del Abismo y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza los monstruos en la mazmorra del Abismo y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Bewler."
 	},
 	[60480] = {
 		Title = "Cacería de Laurell Weinder",
 		Description = {
-			"Caza los monstruos en el Biolaboratorio y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza los monstruos en el Biolaboratorio y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Laurell Weinder."
 	},
 	[60481] = {
 		Title = "Cacería de Armeyer Dinze",
 		Description = {
-			"Caza los monstruos en el Biolaboratorio y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza los monstruos en el Biolaboratorio y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Armeyer Dinze."
 	},
 	[60482] = {
 		Title = "Cacería de Egnigem Cenia",
 		Description = {
-			"Caza los monstruos en el Biolaboratorio y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza los monstruos en el Biolaboratorio y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Egnigem Cenia."
 	},
 	[60483] = {
 		Title = "Cacería de Errende Ebecee",
 		Description = {
-			"Caza los monstruos en el Biolaboratorio y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza los monstruos en el Biolaboratorio y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Errende Ebecee."
 	},
 	[60484] = {
 		Title = "Cacería de Kavach Icarus",
 		Description = {
-			"Caza los monstruos en el Biolaboratorio y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza los monstruos en el Biolaboratorio y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Kavach Icarus."
 	},
 	[60485] = {
 		Title = "Cacería de Wickebine Tres",
 		Description = {
-			"Caza los monstruos en el Biolaboratorio y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza los monstruos en el Biolaboratorio y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Wickebine Tres."
 	},
@@ -58057,42 +58084,42 @@ Talk to Kar=],
 	[60488] = {
 		Title = "Cacería de Solider",
 		Description = {
-			"Caza Solider en la mazmorra de las tortugas y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Solider en la mazmorra de las tortugas y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Solider."
 	},
 	[60489] = {
 		Title = "Cacería de Permeter",
 		Description = {
-			"Caza Permeter en la mazmorra de las tortugas y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Permeter en la mazmorra de las tortugas y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Permeter."
 	},
 	[60490] = {
 		Title = "Cacería de Aliot",
 		Description = {
-			"Caza Aliot y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Aliot y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Aliot."
 	},
 	[60491] = {
 		Title = "Cacería de Aliza",
 		Description = {
-			"Caza Aliza en la Fábrica de robots 1 y vuelve con Abuelo al Grupo de Edén para obtener tu premio."
+			"Caza Aliza en la Fábrica de robots 1 y vuelve con Abuelo al Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Aliza."
 	},
 	[60492] = {
 		Title = "Cacería de Escolopendras",
 		Description = {
-			"Caza Escolopendras en el campo 1 de El Dicastes y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Escolopendras en el campo 1 de El Dicastes y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Escolopendras."
 	},
 	[60493] = {
 		Title = "Cacería de Gólem de bradium",
 		Description = {
-			"Caza Gólem de bradium y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Gólem de bradium y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Gólem de bradium."
 	},
@@ -58120,224 +58147,224 @@ Talk to Kar=],
 	[60501] = {
 		Title = "Cacería de Raydric",
 		Description = {
-			"Caza Raydric en la Caballería de Glast Heim y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Raydric en la Caballería de Glastheim y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Raydric."
 	},
 	[60502] = {
 		Title = "Cacería de Vagabundos",
 		Description = {
-			"Caza Vagabundos en el piso 2 de Glast Heim y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Vagabundos en el piso 2 de Glastheim y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Vagabundos."
 	},
 	[60503] = {
 		Title = "Cacería de Muscipular",
 		Description = {
-			"Caza Muscipular en el campo 4 de Veins y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Muscipular en el campo 4 de Veins y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Muscipular."
 	},
 	[60504] = {
 		Title = "Cacería de Drocera",
 		Description = {
-			"Caza Drocera en el campo 4 de Veins y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Drocera en el campo 4 de Veins y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Drocera."
 	},
 	[60505] = {
 		Title = "Cacería de Árboles antiguos",
 		Description = {
-			"Caza Árboles antiguos en la Mazmorra especial de Nidhogg y vuelve con Abuelo en el Grupo de Edén para obtener tu premio. Habla con Abuelo y pídele un teletransportador a la Mazmorra especial."
+			"Caza Árboles antiguos en la Mazmorra especial de Nidhogg y vuelve con Abuelo en el Grupo del Edén para obtener tu premio. Habla con Abuelo y pídele un teletransportador a la Mazmorra especial."
 		},
 		Summary = "Caza 400 Árboles antiguos."
 	},
 	[60506] = {
 		Title = "Cacería de Phylla",
 		Description = {
-			"Caza Phylla en la mazmorra especial de Nidhogg y vuelve con Abuelo en el Grupo de Edén para obtener tu premio. Habla con Abuelo y pídele un teletransportador a la Mazmorra especial."
+			"Caza Phylla en la mazmorra especial de Nidhogg y vuelve con Abuelo en el Grupo del Edén para obtener tu premio. Habla con Abuelo y pídele un teletransportador a la Mazmorra especial."
 		},
 		Summary = "Caza 400 Phylla."
 	},
 	[60507] = {
 		Title = "Cacería de Ositos de peluche",
 		Description = {
-			"Caza Ositos de peluche en la Mazmorra de la mina de Einbroch y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Ositos de peluche en la Mazmorra de la mina de Einbroch y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Ositos de peluche."
 	},
 	[60508] = {
 		Title = "Cacería de Estufas de residuos",
 		Description = {
-			"Caza Estufas de residuos en la Mazmorra de la mina de Einbroch y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Estufas de residuos en la Mazmorra de la mina de Einbroch y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Estufas de residuos."
 	},
 	[60509] = {
 		Title = "Cacería de Dimik verdes",
 		Description = {
-			"Caza Dimik verdes en el centro de Juperos y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Dimik verdes en el centro de Juperos y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Dimik verdes."
 	},
 	[60510] = {
 		Title = "Cacería de Dimik azules",
 		Description = {
-			"Caza Dimik azules en el centro de Juperos y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Dimik azules en el centro de Juperos y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Dimik azules."
 	},
 	[60511] = {
 		Title = "Cacería de Dimik naranja",
 		Description = {
-			"Caza Dimik naranja en el centro de Juperos y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Dimik naranja en el centro de Juperos y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Dimik naranja."
 	},
 	[60512] = {
 		Title = "Cacería de Dimik rojos",
 		Description = {
-			"Caza Dimik rojos en el centro de Juperos y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Dimik rojos en el centro de Juperos y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Dimik rojos."
 	},
 	[60513] = {
 		Title = "Cacería de Golpeadores",
 		Description = {
-			"Caza Golpeadores en el piso 2 de la mazmorra del volcán Thor y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Golpeadores en el piso 2 de la mazmorra del volcán Thor y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Golpeadores."
 	},
 	[60514] = {
 		Title = "Cacería de Imp",
 		Description = {
-			"Caza Imp en el piso 2 de la mazmorra del volcán Thor y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Imp en el piso 2 de la mazmorra del volcán Thor y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Imp."
 	},
 	[60515] = {
 		Title = "Cacería de Anopheles",
 		Description = {
-			"Caza Anopheles en el campo 12 de Rachel, que está al este de Rachel, y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Anopheles en el campo 12 de Rachel, que está al este de Rachel, y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Anopheles."
 	},
 	[60516] = {
 		Title = "Cacería de Roween",
 		Description = {
-			"Caza Roween en el campo 12 de Rachel, que está justo al este de Rachel, y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Roween en el campo 12 de Rachel, que está justo al este de Rachel, y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Roween."
 	},
 	[60517] = {
 		Title = "Cacería de Agav",
 		Description = {
-			"Caza Agav en los pisos 4 o 5 del santuario de Rachel y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Agav en los pisos 4 o 5 del santuario de Rachel y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Agav."
 	},
 	[60518] = {
 		Title = "Cacería de Echio",
 		Description = {
-			"Caza Echio en los pisos 4 o 5 del santuario de Rachel y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Echio en los pisos 4 o 5 del santuario de Rachel y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Echio."
 	},
 	[60519] = {
 		Title = "Cacería de Cecil Damon",
 		Description = {
-			"Caza Cecil Damon en el Biolaboratorio 3 y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Cecil Damon en el Biolaboratorio 3 y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Cecil Damon."
 	},
 	[60520] = {
 		Title = "Cacería de Astucias de Eremes",
 		Description = {
-			"Caza Astucias de Eremes en el Biolaboratorio 3 y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Astucias de Eremes en el Biolaboratorio 3 y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Astucias de Eremes."
 	},
 	[60521] = {
 		Title = "Cacería de Margarita Sorin",
 		Description = {
-			"Caza Margarita Sorin en el Biolaboratorio 3 y vuelve con Abuelo al Grupo de Edén para obtener tu premio."
+			"Caza Margarita Sorin en el Biolaboratorio 3 y vuelve con Abuelo al Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Margarita Sorin."
 	},
 	[60522] = {
 		Title = "Cacería de Seyren Windsor",
 		Description = {
-			"Caza Seyren Windsor en el Biolaboratorio 3 y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Seyren Windsor en el Biolaboratorio 3 y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Seyren Windsor."
 	},
 	[60523] = {
 		Title = "Cacería de Kathryne Keyron",
 		Description = {
-			"Caza Kathryne Keyron en el Biolaboratorio 3 y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Kathryne Keyron en el Biolaboratorio 3 y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Kathryne Keyron."
 	},
 	[60524] = {
 		Title = "Cacería de Howard Alteisen",
 		Description = {
-			"Caza Howard Alteisen en el Biolaboratorio 3 y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Howard Alteisen en el Biolaboratorio 3 y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Howard Alteisen."
 	},
 	[60525] = {
 		Title = "Cacería de Metaling",
 		Description = {
-			"Caza Metaling en el campo 8 de Einbroch y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Metaling en el campo 8 de Einbroch y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Metaling."
 	},
 	[60526] = {
 		Title = "Cacería de Porcellio",
 		Description = {
-			"Caza Porcellio en el campo 8 de Einbroch y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Porcellio en el campo 8 de Einbroch y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Porcellio."
 	},
 	[60527] = {
 		Title = "Cacería de Venatu morados",
 		Description = {
-			"Caza Venatu morados en las Ruinas de Juperos y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Venatu morados en las Ruinas de Juperos y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Venatu morados."
 	},
 	[60528] = {
 		Title = "Cacería de Venatu verdes",
 		Description = {
-			"Caza Venatu verdes en las Ruinas de Juperos y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Venatu verdes en las Ruinas de Juperos y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Venatu verdes."
 	},
 	[60529] = {
 		Title = "Cacería de Venatu naranja",
 		Description = {
-			"Caza Venatu naranja en las Ruinas de Juperos y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Venatu naranja en las Ruinas de Juperos y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Venatu naranja."
 	},
 	[60530] = {
 		Title = "Cacería de Venatu azules",
 		Description = {
-			"Caza Venatu azules en las Ruinas de Juperos y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Venatu azules en las Ruinas de Juperos y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Venatu azules."
 	},
 	[60531] = {
 		Title = "Cacería de Banshee",
 		Description = {
-			"Caza Banshee en el Monasterio maldito y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Banshee en el Monasterio maldito y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Banshee."
 	},
 	[60532] = {
 		Title = "Cacería de Nigromantes",
 		Description = {
-			"Caza Nigromantes en el Monasterio maldito y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Nigromantes en el Monasterio maldito y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Nigromantes."
 	},
@@ -58358,91 +58385,91 @@ Talk to Kar=],
 	[60535] = {
 		Title = "Cacería de Gárgolas",
 		Description = {
-			"Caza Gárgolas en la Alcantarilla de Glast Heim y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Gárgolas en la Alcantarilla de Glastheim y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Gárgolas."
 	},
 	[60536] = {
 		Title = "Cacería de Arclouze",
 		Description = {
-			"Caza Arclouze en la Alcantarilla de Glast Heim y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Arclouze en la Alcantarilla de Glastheim y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Arclouze."
 	},
 	[60537] = {
 		Title = "Cacería de Gusanos de tallo",
 		Description = {
-			"Caza Gusanos de tallo en el campo 1 y 2 de Lighthalzen y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Gusanos de tallo en el campo 1 y 2 de Lighthalzen y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Gusanos de tallo."
 	},
 	[60538] = {
 		Title = "Cacería de Rafflesia",
 		Description = {
-			"Caza Rafflesia en el campo de Lighthalzen 1 y 2, y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Rafflesia en el campo de Lighthalzen 1 y 2, y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Rafflesia."
 	},
 	[60539] = {
 		Title = "Cacería de Mímicos antiguos",
 		Description = {
-			"Caza Mímicos antiguos en el piso 2 de la Torre de Thanatos y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Mímicos antiguos en el piso 2 de la Torre de Thanatos y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Mímicos antiguos."
 	},
 	[60540] = {
 		Title = "Cacería de Palabras de muerte",
 		Description = {
-			"Caza Palabras de muerte en el piso 2 de la Torre de Thanatos y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Palabras de muerte en el piso 2 de la Torre de Thanatos y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Palabras de muerte."
 	},
 	[60541] = {
 		Title = "Cacería de Tatacho",
 		Description = {
-			"Caza Tatacho en la montaña Kamidal y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Tatacho en la montaña Kamidal y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Tatacho."
 	},
 	[60542] = {
 		Title = "Cacería de Dolomedes",
 		Description = {
-			"Caza Dolomedes y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Dolomedes y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Dolomedes."
 	},
 	[60543] = {
 		Title = "Cacería de Kobold (hacha)",
 		Description = {
-			"Caza Kobold (hacha) en el campo 5 de Rachel y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Kobold (hacha) en el campo 5 de Rachel y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Kobold (hacha)."
 	},
 	[60544] = {
 		Title = "Cacería de Kobold (martillo)",
 		Description = {
-			"Caza Kobold (martillo) en el campo 5 de Rachel y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Kobold (martillo) en el campo 5 de Rachel y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Kobold (martillo)."
 	},
 	[60545] = {
 		Title = "Cacería de Kobold (maza)",
 		Description = {
-			"Caza Kobold (maza) en el campo 5 de Rachel y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Kobold (maza) en el campo 5 de Rachel y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Kobold (maza)."
 	},
 	[60546] = {
 		Title = "Cacería de Kasa",
 		Description = {
-			"Caza Kasa en el piso 3 de la mazmorra del volcán Thor y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Kasa en el piso 3 de la mazmorra del volcán Thor y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Kasa."
 	},
 	[60547] = {
 		Title = "Cacería de Salamandras",
 		Description = {
-			"Caza Salamandras en el piso 3 de la mazmorra del volcán Thor y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Salamandras en el piso 3 de la mazmorra del volcán Thor y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Salamandras."
 	},
@@ -58456,175 +58483,175 @@ Talk to Kar=],
 	[60549] = {
 		Title = "Cacería de Marionetas",
 		Description = {
-			"Caza Marionetas en el piso 2 de la mazmorra de Geffen y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Marionetas en el piso 2 de la mazmorra de Geffen y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Marionetas."
 	},
 	[60550] = {
 		Title = "Cacería de Deviruchi",
 		Description = {
-			"Caza Deviruchi en el piso 2 de la mazmorra de Geffen y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Deviruchi en el piso 2 de la mazmorra de Geffen y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Deviruchi."
 	},
 	[60551] = {
 		Title = "Cacería de Arclouze",
 		Description = {
-			"Caza Arclouze en el piso 6 de la Pirámide de Morroc y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Arclouze en el piso 6 de la Pirámide de Morroc y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Arclouze."
 	},
 	[60552] = {
 		Title = "Cacería de Momias antiguas",
 		Description = {
-			"Caza Momias antiguas en el piso 6 de la Pirámide de Morroc y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Momias antiguas en el piso 6 de la Pirámide de Morroc y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Momias antiguas."
 	},
 	[60553] = {
 		Title = "Cacería de Deleter voladores",
 		Description = {
-			"Caza Deleter volador en la Carretera Nogg y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Deleter volador en la Carretera Nogg y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Deleter voladores."
 	},
 	[60554] = {
 		Title = "Cacería de Deleter terrestres",
 		Description = {
-			"Caza Deleter terrestres en la Carretera Nogg y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Deleter terrestres en la Carretera Nogg y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Deleter terrestres."
 	},
 	[60555] = {
 		Title = "Cacería de Hodremlin",
 		Description = {
-			"Caza Hodremlin en el piso 3 del santuario de Rachel y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Hodremlin en el piso 3 del santuario de Rachel y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Hodremlin."
 	},
 	[60556] = {
 		Title = "Cacería de Buscadores",
 		Description = {
-			"Caza Buscadores en el piso 3 del santuario de Rachel y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Buscadores en el piso 3 del santuario de Rachel y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Buscadores."
 	},
 	[60557] = {
 		Title = "Cacería de Prisioneros esqueletos",
 		Description = {
-			"Caza Prisioneros esqueletos en la Infraprisión de Glast Heim y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Prisioneros esqueletos en la Infraprisión de Glastheim y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Prisioneros esqueletos."
 	},
 	[60558] = {
 		Title = "Cacería de Injusticias",
 		Description = {
-			"Caza Injusticias en la Infraprisión de Glast Heim y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Injusticias en la Infraprisión de Glastheim y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Injusticias."
 	},
 	[60559] = {
 		Title = "Cacería de Pinguicula oscuras",
 		Description = {
-			"Caza Pinguicula oscuras en el campo 1 de Splendide y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Pinguicula oscuras en el campo 1 de Splendide y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Pinguicula oscuras."
 	},
 	[60560] = {
 		Title = "Cacería de Naga",
 		Description = {
-			"Caza Naga en campo 1 de Splendide y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Naga en campo 1 de Splendide y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Naga."
 	},
 	[60561] = {
 		Title = "Cacería de Lude",
 		Description = {
-			"Caza Lude en el campo 1 de Niflheim y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Lude en el campo 1 de Niflheim y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Lude."
 	},
 	[60562] = {
 		Title = "Cacería de Hylozoist",
 		Description = {
-			"Caza Hylozoist en el campo 1 de Niflheim y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Hylozoist en el campo 1 de Niflheim y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Hylozoist."
 	},
 	[60563] = {
 		Title = "Ingredientes del Estofado de Drocera y hierbas",
 		Description = {
-			"Caza 200 Drocera en el campo 2 de Veins y el chef del Grupo de Edén te dará 6 Tentáculos de Drocera que se pueden usar para preparar Estofado de Drocera y hierbas."
+			"Caza 200 Drocera en el campo 2 de Veins y el chef del Grupo del Edén te dará 6 Tentáculos de Drocera que se pueden usar para preparar Estofado de Drocera y hierbas."
 		},
 		Summary = ""
 	},
 	[60564] = {
 		Title = "Ingredientes del Té helado de Siroma",
 		Description = {
-			"Caza 200 Gazeti en el piso 3 de la mazmorra de hielo y el chef del Grupo de Edén te dará 6 Trozos de hielo que se pueden usar para preparar Té helado de Siroma."
+			"Caza 200 Gazeti en el piso 3 de la mazmorra de hielo y el chef del Grupo del Edén te dará 6 Trozos de hielo que se pueden usar para preparar Té helado de Siroma."
 		},
 		Summary = ""
 	},
 	[60565] = {
 		Title = "Cacería de Magmaring",
 		Description = {
-			"Caza Magmaring en el campo 3 de Veins y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Magmaring en el campo 3 de Veins y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Magmaring."
 	},
 	[60566] = {
 		Title = "Ingredientes del Cóctel de sangre de Warg",
 		Description = {
-			"Caza 200 Titanes de hielo en el piso 3 de la mazmorra de hielo y el chef del Grupo de Edén te dará 10 unidades de Hielo frío que se pueden usar para preparar el Cóctel de sangre de Warg."
+			"Caza 200 Titanes de hielo en el piso 3 de la mazmorra de hielo y el chef del Grupo del Edén te dará 10 unidades de Hielo frío que se pueden usar para preparar el Cóctel de sangre de Warg."
 		},
 		Summary = ""
 	},
 	[60567] = {
 		Title = "Ingredientes de los Fideos de cola de Petite",
 		Description = {
-			"Caza 200 Petite terrestre en el campo 6 de Geffen y el chef del Grupo de Edén te dará 8 Colas de Petite que se pueden usar para preparar Fideos de cola de Petite."
+			"Caza 200 Petite terrestre en el campo 6 de Geffen y el chef del Grupo del Edén te dará 8 Colas de Petite que se pueden usar para preparar Fideos de cola de Petite."
 		},
 		Summary = ""
 	},
 	[60568] = {
 		Title = "Ingredientes de la Barbacoa salvaje",
 		Description = {
-			"Caza 200 Salvajes en el campo 7 de Mjolnir y el chef del Grupo de Edén te dará 4 unidades de Carne de Salvaje que se pueden usar para preparar la Barbacoa salvaje."
+			"Caza 200 Salvajes en el campo 7 de Mjolnir y el chef del Grupo del Edén te dará 4 unidades de Carne de Salvaje que se pueden usar para preparar la Barbacoa salvaje."
 		},
 		Summary = ""
 	},
 	[60569] = {
 		Title = "Ingredientes del Filete de Minor",
 		Description = {
-			"Caza 200 Minorous en el piso 4 de la Esfinge y el chef del Grupo de Edén te dará 4 Cabezas de ternera que se pueden usar para preparar el Filete de Minor."
+			"Caza 200 Minorous en el piso 4 de la Esfinge y el chef del Grupo del Edén te dará 4 Cabezas de ternera que se pueden usar para preparar el Filete de Minor."
 		},
 		Summary = ""
 	},
 	[60570] = {
 		Title = "Cacería de Viento de la colina",
 		Description = {
-			"Caza Vientos de la colina en el campo 4 de Rachel y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Vientos de la colina en el campo 4 de Rachel y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Vientos de la colina."
 	},
 	[60571] = {
 		Title = "Cacería de Plagas",
 		Description = {
-			"Caza Plagas en la mazmorra oeste de Comodo y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Plagas en la mazmorra oeste de Comodo y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Plagas."
 	},
 	[60572] = {
 		Title = "Cacería de Medusas",
 		Description = {
-			"Caza Medusas en la mazmorra oeste de Comodo y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Medusas en la mazmorra oeste de Comodo y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Medusas."
 	},
 	[60573] = {
 		Title = "Cacería de Leones de montaña",
 		Description = {
-			"Caza Leones de montaña en el campo 3 de Manuk y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Leones de montaña en el campo 3 de Manuk y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Leones de montaña."
 	},
@@ -58638,14 +58665,14 @@ Talk to Kar=],
 	[60575] = {
 		Title = "Cacería de Kobold (Arquero)",
 		Description = {
-			"Caza Kobold (Arquero) en el campo 6 de Rachel al norte de Lighthalzen y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Kobold (Arquero) en el campo 6 de Rachel al norte de Lighthalzen y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Kobold (Arquero)."
 	},
 	[60576] = {
 		Title = "Cacería de Violy",
 		Description = {
-			"Caza Violy en Geffenia y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Violy en Geffenia y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Violy."
 	},
@@ -58666,147 +58693,147 @@ Talk to Kar=],
 	[60579] = {
 		Title = "Cacería de Novus rojos",
 		Description = {
-			"Caza Novus rojos en el campo de Hugel y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Novus rojos en el campo de Hugel y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Novus rojos."
 	},
 	[60580] = {
 		Title = "Cacería de Archdam",
 		Description = {
-			"Caza Archdam en el centro de Juperos y vuelve con Abuelo al Grupo de Edén para obtener tu premio."
+			"Caza Archdam en el centro de Juperos y vuelve con Abuelo al Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Archdam."
 	},
 	[60581] = {
 		Title = "Cacería de Nepenthes",
 		Description = {
-			"Caza Nepenthes en el campo de Manuk y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Nepenthes en el campo de Manuk y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Nepenthes."
 	},
 	[60582] = {
 		Title = "Cacería de Mantis Angra",
 		Description = {
-			"Caza Mantis Angra en Bifrost y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Mantis Angra en Bifrost y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Mantis Angra."
 	},
 	[60583] = {
 		Title = "Cacería de Arañas Pom",
 		Description = {
-			"Caza Arañas Pom en Bifrost y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Arañas Pom en Bifrost y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Arañas Pom."
 	},
 	[60584] = {
 		Title = "Cacería de Novus amarillos",
 		Description = {
-			"Caza Novus amarillos en Hugel y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Novus amarillos en Hugel y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Novus amarillos."
 	},
 	[60585] = {
 		Title = "Cacería de Cornus",
 		Description = {
-			"Caza Cornus en el campo de Splendide y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Cornus en el campo de Splendide y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Cornus."
 	},
 	[60586] = {
 		Title = "Cacería de Miming",
 		Description = {
-			"Caza Miming en Bifrost y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Miming en Bifrost y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Miming."
 	},
 	[60587] = {
 		Title = "Cacería de Fatum pequeños",
 		Description = {
-			"Caza Fatum pequeños en Bifrost y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Fatum pequeños en Bifrost y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Fatum pequeños."
 	},
 	[60588] = {
 		Title = "Cacería de Calentadores",
 		Description = {
-			"Caza Calentadores en la mazmorra de las tortugas y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Calentadores en la mazmorra de las tortugas y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Calentadores."
 	},
 	[60589] = {
 		Title = "Cacería de Atacantes",
 		Description = {
-			"Caza Atacantes en la mazmorra de las tortugas y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Atacantes en la mazmorra de las tortugas y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Atacantes."
 	},
 	[60590] = {
 		Title = "Cacería de Blazer",
 		Description = {
-			"Caza Blazer en la Carretera Nogg y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Blazer en la Carretera Nogg y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Blazer."
 	},
 	[60591] = {
 		Title = "Cacería de Gólem de lava",
 		Description = {
-			"Caza Gólem de lava en la Carretera Nogg y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Gólem de lava en la Carretera Nogg y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Gólem de lava."
 	},
 	[60592] = {
 		Title = "Cacería de Barones búho",
 		Description = {
-			"Caza Barones búho y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Barones búho y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Barones búho."
 	},
 	[60593] = {
 		Title = "Cacería de Vanberk",
 		Description = {
-			"Caza Vanberk y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Vanberk y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Vanberk."
 	},
 	[60594] = {
 		Title = "Cacería de Isilla",
 		Description = {
-			"Caza Isilla y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Isilla y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Isilla."
 	},
 	[60595] = {
 		Title = "Cacería de Zombis harapientos",
 		Description = {
-			"Caza Zombis harapientos y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Zombis harapientos y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Zombis harapientos."
 	},
 	[60596] = {
 		Title = "Cacería de Zombis asesinos",
 		Description = {
-			"Caza Zombis asesinos y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Zombis asesinos y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Zombis asesinos."
 	},
 	[60597] = {
 		Title = "Cacería de Cecil y Eremes",
 		Description = {
-			"Caza Cecil y Eremes y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Cecil y Eremes y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Cecil y Eremes."
 	},
 	[60598] = {
 		Title = "Cacería de Kathryne y Seyren",
 		Description = {
-			"Caza Kathryne y Seyren y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Kathryne y Seyren y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Kathryne y Seyren."
 	},
 	[60599] = {
 		Title = "Cacería de Margarita y Howard",
 		Description = {
-			"Caza Margarita y Howard y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Margarita y Howard y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Margarita y Howard."
 	},
@@ -58820,35 +58847,35 @@ Talk to Kar=],
 	[60601] = {
 		Title = "Cacería de Uzhas",
 		Description = {
-			"Caza Uzhas y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Uzhas y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Uzhas."
 	},
 	[60602] = {
 		Title = "Cacería de Bathory",
 		Description = {
-			"Caza Bathory y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Bathory y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Bathory."
 	},
 	[60603] = {
 		Title = "Cacería de Terrores nocturnos",
 		Description = {
-			"Caza Terrores nocturnos y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Terrores nocturnos y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Terrores nocturnos."
 	},
 	[60604] = {
 		Title = "Cacería de Anolian",
 		Description = {
-			"Caza Anolian y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Anolian y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Anolian."
 	},
 	[60605] = {
 		Title = "Cacería de Damas del consuelo",
 		Description = {
-			"Caza Damas del consuelo y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Damas del consuelo y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Damas del consuelo."
 	},
@@ -58869,35 +58896,35 @@ Talk to Kar=],
 	[60608] = {
 		Title = "Cacería de Rybio",
 		Description = {
-			"Caza Rybio y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Rybio y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Rybio."
 	},
 	[60609] = {
 		Title = "Cacería de Alicel",
 		Description = {
-			"Caza Alicel y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Alicel y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Alicel."
 	},
 	[60610] = {
 		Title = "Cacería de Petite terrestres",
 		Description = {
-			"Caza Petite terrestres y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Petite terrestres y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Petite terrestres."
 	},
 	[60611] = {
 		Title = "Cacería de Mavka",
 		Description = {
-			"Caza Mavka y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Mavka y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Mavka."
 	},
 	[60612] = {
 		Title = "Cacería de Pinguicula",
 		Description = {
-			"Caza Pinguicula y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Pinguicula y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Pinguicula."
 	},
@@ -58911,7 +58938,7 @@ Talk to Kar=],
 	[60614] = {
 		Title = "Cacería de Nevadísimos",
 		Description = {
-			"Caza Nevadísimos y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Nevadísimos y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Nevadísimos."
 	},
@@ -59371,28 +59398,28 @@ Talk to Kar=],
 	[60815] = {
 		Title = "Cacería de Removedores",
 		Description = {
-			"Caza Removedores y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Removedores y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Removedores."
 	},
 	[60816] = {
 		Title = "Cacería de Khalitzburg",
 		Description = {
-			"Caza Khalitzburg y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Khalitzburg y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Khalitzburg."
 	},
 	[60817] = {
 		Title = "Cacería de Mariposas sangrientas",
 		Description = {
-			"Caza Mariposas sangrientas y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Mariposas sangrientas y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Mariposas sangrientas."
 	},
 	[60818] = {
 		Title = "Cacería de Caniches infernales",
 		Description = {
-			"Caza Caniches infernales y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Caniches infernales y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Caniches infernales."
 	},
@@ -59406,350 +59433,350 @@ Talk to Kar=],
 	[60820] = {
 		Title = "Cacería de Superiores orcos",
 		Description = {
-			"Caza Superiores orcos y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Superiores orcos y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Superiores orcos."
 	},
 	[60821] = {
 		Title = "Cacería de Congeladores",
 		Description = {
-			"Caza Congeladores y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Congeladores y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Congeladores."
 	},
 	[60822] = {
 		Title = "Cacería de Dragones",
 		Description = {
-			"Caza Dragones y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Dragones y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Dragones."
 	},
 	[60823] = {
 		Title = "Cacería de Encarnaciones de Morocc",
 		Description = {
-			"Caza Encarnaciones de Morocc y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Encarnaciones de Morocc y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Encarnaciones de Morocc."
 	},
 	[60824] = {
 		Title = "Cacería de Holden",
 		Description = {
-			"Caza Holden y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Holden y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Holden."
 	},
 	[60825] = {
 		Title = "Cacería de Ancianos",
 		Description = {
-			"Caza Ancianos y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Ancianos y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Ancianos."
 	},
 	[60826] = {
 		Title = "Cacería de Parus",
 		Description = {
-			"Caza Parus y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Parus y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Parus."
 	},
 	[60827] = {
 		Title = "Cacería de Siroma",
 		Description = {
-			"Caza Siroma y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Siroma y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Siroma."
 	},
 	[60828] = {
 		Title = "Cacería de Prisioneros zombis",
 		Description = {
-			"Caza Prisioneros zombis y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Prisioneros zombis y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Prisioneros zombis."
 	},
 	[60829] = {
 		Title = "Cacería de Encarnaciones de Morocc",
 		Description = {
-			"Caza Encarnaciones de Morocc y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Encarnaciones de Morocc y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Encarnaciones de Morocc."
 	},
 	[60830] = {
 		Title = "Cacería de Druidas del mal",
 		Description = {
-			"Caza Druidas del mal y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Druidas del mal y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Druidas del mal."
 	},
 	[60831] = {
 		Title = "Cacería de Caballeros abismales",
 		Description = {
-			"Caza Caballeros abismales y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Caballeros abismales y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Caballeros abismales."
 	},
 	[60832] = {
 		Title = "Cacería de Shinobi",
 		Description = {
-			"Caza Shinobi y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Shinobi y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Shinobi."
 	},
 	[60833] = {
 		Title = "Cacería de Arpías",
 		Description = {
-			"Caza Arpías y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Arpías y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Arpías."
 	},
 	[60834] = {
 		Title = "Cacería de Kapha",
 		Description = {
-			"Caza Kapha y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Kapha y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Kapha."
 	},
 	[60835] = {
 		Title = "Cacería de Cráneos en llamas",
 		Description = {
-			"Caza Cráneos en llamas y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Cráneos en llamas y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Cráneos en llamas."
 	},
 	[60836] = {
 		Title = "Cacería de Aunoe",
 		Description = {
-			"Caza Aunoe y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Aunoe y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Aunoe."
 	},
 	[60837] = {
 		Title = "Cacería de Fante",
 		Description = {
-			"Caza Fante y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Fante y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Fante."
 	},
 	[60838] = {
 		Title = "Cacería de Papeles",
 		Description = {
-			"Caza Papeles y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Papeles y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Papeles."
 	},
 	[60839] = {
 		Title = "Cacería de Tengu",
 		Description = {
-			"Caza Tengu y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Tengu y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Tengu."
 	},
 	[60840] = {
 		Title = "Cacería de Mulas sin cabeza",
 		Description = {
-			"Caza Mulas sin cabeza y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Mulas sin cabeza y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Mulas sin cabeza."
 	},
 	[60841] = {
 		Title = "Cacería de Sacerdotes oscuros",
 		Description = {
-			"Caza Sacerdotes oscuros y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Sacerdotes oscuros y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Sacerdotes oscuros."
 	},
 	[60842] = {
 		Title = "Cacería de Anubis",
 		Description = {
-			"Caza Anubis y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Anubis y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Anubis."
 	},
 	[60843] = {
 		Title = "Cacería de Yao Jun",
 		Description = {
-			"Caza Yao Jun y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Yao Jun y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Yao Jun."
 	},
 	[60844] = {
 		Title = "Cacería de Mao Guai",
 		Description = {
-			"Caza Mao Guai y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Mao Guai y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Mao Guai."
 	},
 	[60845] = {
 		Title = "Cacería de Gajomart",
 		Description = {
-			"Caza Gajomart y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Gajomart y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Gajomart."
 	},
 	[60846] = {
 		Title = "Cacería de Aves del paraíso",
 		Description = {
-			"Caza Aves del paraíso y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Aves del paraíso y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Aves del paraíso."
 	},
 	[60847] = {
 		Title = "Cacería de Engkanto",
 		Description = {
-			"Caza Engkanto y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Engkanto y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Engkanto."
 	},
 	[60848] = {
 		Title = "Cacería de Espectros muertos",
 		Description = {
-			"Caza Espectros muertos y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Espectros muertos y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Espectros muertos."
 	},
 	[60849] = {
 		Title = "Cacería de Larvas de Escolopendra",
 		Description = {
-			"Caza Larvas de Escolopendra y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Larvas de Escolopendra y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Larvas de Escolopendra."
 	},
 	[60850] = {
 		Title = "Cacería de Nocivos",
 		Description = {
-			"Caza Nocivos y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Nocivos y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Nocivos."
 	},
 	[60851] = {
 		Title = "Cacería de Pasana",
 		Description = {
-			"Caza Pasana y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Pasana y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Pasana."
 	},
 	[60852] = {
 		Title = "Cacería de Cramp",
 		Description = {
-			"Caza Cramp y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Cramp y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Cramp."
 	},
 	[60853] = {
 		Title = "Cacería de Wakwak",
 		Description = {
-			"Caza Wakwak y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Wakwak y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Wakwak."
 	},
 	[60854] = {
 		Title = "Cacería de Tikbalang",
 		Description = {
-			"Caza Tikbalang y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Tikbalang y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Tikbalang."
 	},
 	[60855] = {
 		Title = "Cacería de Durmientes",
 		Description = {
-			"Caza Durmientes y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Durmientes y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Durmientes."
 	},
 	[60856] = {
 		Title = "Cacería de Cenere",
 		Description = {
-			"Caza Cenere y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Cenere y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Cenere."
 	},
 	[60857] = {
 		Title = "Cacería de Libros antiguos",
 		Description = {
-			"Caza Libros antiguos y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Libros antiguos y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Libros antiguos."
 	},
 	[60858] = {
 		Title = "Cacería de Punk",
 		Description = {
-			"Caza Punk y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Punk y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Punk."
 	},
 	[60859] = {
 		Title = "Cacería de Menblatt",
 		Description = {
-			"Caza Menblatt y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Menblatt y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Menblatt."
 	},
 	[60860] = {
 		Title = "Cacería de Lichtern verdes",
 		Description = {
-			"Caza Lichtern verdes y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Lichtern verdes y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Lichtern verdes."
 	},
 	[60861] = {
 		Title = "Cacería de Bungisngis",
 		Description = {
-			"Caza Bungisngis y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Bungisngis y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Bungisngis."
 	},
 	[60862] = {
 		Title = "Cacería de Engkanto",
 		Description = {
-			"Caza Engkanto y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Engkanto y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Engkanto."
 	},
 	[60863] = {
 		Title = "Cacería de Petal",
 		Description = {
-			"Caza Petal y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Petal y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Petal."
 	},
 	[60864] = {
 		Title = "Cacería de Brisas",
 		Description = {
-			"Caza Brisas y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Brisas y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Brisas."
 	},
 	[60865] = {
 		Title = "Cacería de Neraid",
 		Description = {
-			"Caza Neraid y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Neraid y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Neraid."
 	},
 	[60866] = {
 		Title = "Cacería de Sedora",
 		Description = {
-			"Caza Sedora y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Sedora y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Sedora."
 	},
 	[60867] = {
 		Title = "Cacería de Gusanos antiguos",
 		Description = {
-			"Caza Gusanos antiguos y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Gusanos antiguos y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Gusanos antiguos."
 	},
 	[60868] = {
 		Title = "Cacería de Lichtern rojos",
 		Description = {
-			"Caza Lichtern rojos y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Lichtern rojos y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Lichtern rojos."
 	},
 	[60869] = {
 		Title = "Cacería de Lichtern azules",
 		Description = {
-			"Caza Lichtern azules y vuelve con Abuelo en el Grupo de Edén para obtener tu premio."
+			"Caza Lichtern azules y vuelve con Abuelo en el Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Lichtern azules."
 	},
@@ -62113,7 +62140,7 @@ Talk to Kar=],
 	[62487] = {
 		Title = "Romero y Necrolieta",
 		Description = {
-			"Romero te pidió que derrotes a 40 Gárgolas y que lo encuentres en el sector noreste del piso 1 de Glast Heim."
+			"Romero te pidió que derrotes a 40 Gárgolas y que lo encuentres en el sector noreste del piso 1 de Glastheim."
 		},
 		Summary = ""
 	},
@@ -64459,14 +64486,14 @@ Talk to Kar=],
 	[62832] = {
 		Title = "La cacería del Tucán",
 		Description = {
-			"Caza Tucanes y vuelve con el abuelo al Grupo de Edén para obtener tu premio."
+			"Caza Tucanes y vuelve con el abuelo al Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Tucanes."
 	},
 	[62833] = {
 		Title = "Cacería de Siorava",
 		Description = {
-			"Caza Siorava y vuelve con el abuelo al Grupo de Edén para obtener tu premio."
+			"Caza Siorava y vuelve con el abuelo al Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Siorava."
 	},
@@ -66783,42 +66810,42 @@ Talk to Kar=],
 	[63282] = {
 		Title = "Cacería de DR815",
 		Description = {
-			"Caza DR815 y vuelve con el abuelo al Grupo de Edén para obtener tu premio."
+			"Caza DR815 y vuelve con el abuelo al Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 DR815."
 	},
 	[63283] = {
 		Title = "Cacería de GC109",
 		Description = {
-			"Caza GC109 y vuelve con el abuelo al Grupo de Edén para obtener tu premio."
+			"Caza GC109 y vuelve con el abuelo al Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 GC109."
 	},
 	[63285] = {
 		Title = "Cacería de Step de seguridad",
 		Description = {
-			"Caza Step de seguridad y vuelve con el abuelo al Grupo de Edén para obtener tu premio."
+			"Caza Step de seguridad y vuelve con el abuelo al Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Step de seguridad."
 	},
 	[63286] = {
 		Title = "Cacería de Patada y patadas",
 		Description = {
-			"Caza Patada y patadas y vuelve con el abuelo al Grupo de Edén para obtener tu premio."
+			"Caza Patada y patadas y vuelve con el abuelo al Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Patada y patadas."
 	},
 	[63287] = {
 		Title = "Cacería de Step rocoso",
 		Description = {
-			"Caza Step rocoso y vuelve con el abuelo al Grupo de Edén para obtener tu premio."
+			"Caza Step rocoso y vuelve con el abuelo al Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Step rocosos."
 	},
 	[63288] = {
 		Title = "Cacería de Step",
 		Description = {
-			"Caza Step y vuelve con el abuelo al Grupo de Edén para obtener tu premio."
+			"Caza Step y vuelve con el abuelo al Grupo del Edén para obtener tu premio."
 		},
 		Summary = "Caza 400 Step."
 	},
@@ -70539,7 +70566,7 @@ Talk to Kar=],
 	[70080] = {
 		Title = "Temporizador de ingredientes de comida",
 		Description = {
-			"Debes esperar 23 horas para recibir otra misión del chef del Grupo de Edén."
+			"Debes esperar 23 horas para recibir otra misión del chef del Grupo del Edén."
 		},
 		Summary = ""
 	},
@@ -71655,74 +71682,74 @@ Talk to Kar=],
 		CoolTimeQuest = 1
 	},
 	[295259] = {
-		Title = "Battle Pass Daily1",
+		Title = "Pase de Batalla Diario 1",
 		Description = {
-			"Derrota a 5 Deleter Rígido (Cielo)"
+			"Derrota a 80 Phen"
 		},
-		Summary = "Derrota a 5 Deleter Rígido (Cielo)"
+		Summary = "Derrota a 80 Phen"
 	},
 	[295260] = {
-		Title = "Battle Pass Daily1",
+		Title = "Pase de Batalla Diario 1",
 		Description = {
-			"Derrota Deleter Rígido (Cielo) / 1 vez al día, reinicia a las 04:00"
+			"Derrota a Phen / Una vez al día, se reinicia a las 04:00"
 		},
-		Summary = "Reinicia a las 04:00"
+		Summary = "Se reinicia a las 04:00"
 	},
 	[295261] = {
-		Title = "Battle Pass Daily2",
+		Title = "Pase de Batalla Diario 2",
 		Description = {
-			"Derrota a 5 Deleter Rígido (Tierra)"
+			"Derrota a 2 Sacerdote oscuro furioso"
 		},
-		Summary = "Derrota a 5 Deleter Rígido (Tierra)"
+		Summary = "Derrota a 2 Sacerdote oscuro furioso"
 	},
 	[295262] = {
-		Title = "Battle Pass Daily2",
+		Title = "Pase de Batalla Diario 2",
 		Description = {
-			"Derrota Deleter Rígido (Tierra) / 1 vez al día, reinicia a las 04:00"
+			"Derrota a Sacerdote oscuro furioso / Una vez al día, se reinicia a las 04:00"
 		},
-		Summary = "Reinicia a las 04:00"
+		Summary = "Se reinicia a las 04:00"
 	},
 	[295263] = {
-		Title = "Battle Pass Daily3",
+		Title = "Pase de Batalla Diario 3",
 		Description = {
-			"Derrota a 5 Fantasma de Hielo"
+			"Entrega 888 Bananas"
 		},
-		Summary = "Derrota a 5 Fantasma de Hielo"
+		Summary = "Entrega 888 Bananas"
 	},
 	[295264] = {
-		Title = "Battle Pass Daily3",
+		Title = "Pase de Batalla Diario 3",
 		Description = {
-			"Derrota Fantasma de Hielo / 1 vez al día, reinicia a las 04:00"
+			"Entrega Bananas / Una vez al día, se reinicia a las 04:00"
 		},
-		Summary = "Reinicia a las 04:00"
+		Summary = "Se reinicia a las 04:00"
 	},
 	[295265] = {
-		Title = "Battle Pass Daily4",
+		Title = "Pase de Batalla Diario 4",
 		Description = {
-			"Derrota a 5 Fantasma de Llamas"
+			"Dona 500.000 Zeny"
 		},
-		Summary = "Derrota a 5 Fantasma de Llamas"
+		Summary = "Dona 500.000 Zeny"
 	},
 	[295266] = {
-		Title = "Battle Pass Daily4",
+		Title = "Pase de Batalla Diario 4",
 		Description = {
-			"Derrota Fantasma de Llamas / 1 vez al día, reinicia a las 04:00"
+			"Dona Zeny / Una vez al día, se reinicia a las 04:00"
 		},
-		Summary = "Reinicia a las 04:00"
+		Summary = "Se reinicia a las 04:00"
 	},
 	[295267] = {
-		Title = "Battle Pass Daily5",
+		Title = "Pase de Batalla Diario 5",
 		Description = {
-			"Derrota a 1 Naght Sieger"
+			"Derrota a 200 Terror nocturno rígido"
 		},
-		Summary = "Derrota a 1 Naght Sieger"
+		Summary = "Derrota a 200 Terror nocturno rígido"
 	},
 	[295268] = {
-		Title = "Battle Pass Daily5",
+		Title = "Pase de Batalla Diario 5",
 		Description = {
-			"Derrota Naght Sieger / 1 vez por semana, reinicia a las 04:00"
+			"Derrota a Terror nocturno rígido / Una vez por semana, se reinicia a las 04:00"
 		},
-		Summary = "Reinicia a las 04:00"
+		Summary = "Se reinicia a las 04:00"
 	},
 	[295269] = {
 		Title = "Battle Pass Alltime",
@@ -72206,5 +72233,249 @@ Talk to Kar=],
 		NpcNavi = "geffen",
 		NpcPosX = 40,
 		NpcPosY = 141
+	},
+	[291494] = {
+		Title = "Carnaval",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"¡Para participar en el Carnaval, \n\t\t\t\t\tnecesitas el permiso de la Madre Naturaleza! \n\t\t\t\t\tEncuentra los 4 Elementos en la playa de Brasilis\n\t\t\t\t\ty regresa con el <NAVI>[Gerente del Evento]<INFO>brasilis,246,323,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Playa de Brasilis"
+	},
+	[291495] = {
+		Title = "Carnaval: Piedra de Fuego",
+		IconName = "ico_ev.bmp",
+		Description = {""},
+		Summary = ""
+	},
+	[291496] = {
+		Title = "Carnaval: Piedra de Agua",
+		IconName = "ico_ev.bmp",
+		Description = {""},
+		Summary = ""
+	},
+	[291497] = {
+		Title = "Carnaval: Piedra del Viento",
+		IconName = "ico_ev.bmp",
+		Description = {""},
+		Summary = ""
+	},
+	[291498] = {
+		Title = "Carnaval: Piedra de Tierra",
+		IconName = "ico_ev.bmp",
+		Description = {""},
+		Summary = ""
+	},
+	[291499] = {
+		Title = "Carnaval: ¡Disfraz!",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"“¡No puedo perder el concurso de disfraces por su culpa!” \n\t\t\t\t- <NAVI>[Fernando]<INFO>brasilis,111,330,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Elimina al monstruo"
+	},
+	[291500] = {
+		Title = "[Espera] ¡Disfraz!",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Completaste la misión del Carnaval de hoy. Vuelve mañana con <NAVI>[Fernando]<INFO>brasilis,111,330,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Se reinicia a las 4 de la mañana."
+	},
+	[291501] = {
+		Title = "Carnaval: Música Perdida",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"¡Los Porings Carnavalescos se comieron las instrucciones de baile!\n\t\t\t\tRecoge los siguientes objetos:\n\t\t\t\t2x ^ff0000^nItemID^6340^000000\n\t\t\t\t2x ^ff0000^nItemID^6341^000000\n\t\t\t\t2x ^ff0000^nItemID^6342^000000 \n\t\t\t\t2x ^ff0000^nItemID^6343^000000 \n\t\t\t\tY regresa con la <NAVI>[Sambista]<INFO>brasilis,201,145,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Recoge los Objetos"
+	},
+	[291502] = {
+		Title = "[Espera] Música Perdida",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Completaste la misión del Carnaval de hoy. Vuelve mañana con la <NAVI>[Sambista]<INFO>brasilis,201,145,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Se reinicia a las 4 de la mañana."
+	},
+	[291503] = {
+		Title = "Carnaval: Violín Roto",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"¡Ve a la casa de <NAVI>[Vinícius]<INFO>bra_in01,163,131,0,101,0</INFO></NAVI>!\n\t\t\t\tÉl debe reparar el Violín si le llevas\n\t\t\t\t3x ^ff0000^nItemID^1002^000000\n\t\t\t\tDespués, lleva el Violín de vuelta\n\t\t\t\tal joven <NAVI>[Jobim]<INFO>brasilis,198,145,0,101,0</INFO></NAVI>."
+		},
+		Summary = "3x NOMBRE_OBJETO"
+	},
+	[291504] = {
+		Title = "[Espera] Violín Roto",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Completaste la misión del Carnaval de hoy. Vuelve mañana con <NAVI>[Jobim]<INFO>brasilis,198,145,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Se reinicia a las 4 de la mañana."
+	},
+	[291505] = {
+		Title = "Carnaval: Violín Roto",
+		IconName = "ico_ev.bmp",
+		Description = {""},
+		Summary = ""
+	},
+	[291506] = {
+		Title = "Carnaval: Restaurante",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Ayuda a la pobre <NAVI>[Mesera]<INFO>brasilis,338,228,0,101,0</INFO></NAVI>.\n\t\t\t\tAcepta los pedidos de los clientes y\n\t\t\t\tllévales platos de comida."
+		},
+		Summary = "Anota los Pedidos"
+	},
+	[291507] = {
+		Title = "[Espera] Restaurante",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Completaste la misión del Carnaval de hoy. Vuelve mañana con la <NAVI>[Mesera]<INFO>brasilis,338,228,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Se reinicia a las 4 de la mañana."
+	},
+	[291508] = {
+		Title = "Carnaval: Mesa 1",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Lleva ^ff0000^nItemID^12044^000000 al <NAVI>[Cliente]<INFO>brasilis,348,231,0,101,0</INFO></NAVI>."
+		},
+		Summary = "1x Bife Marinado con Hierbas"
+	},
+	[291509] = {
+		Title = "Carnaval: Mesa 1",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Lleva ^ff0000^nItemID^12060^000000 al <NAVI>[Cliente]<INFO>brasilis,348,231,0,101,0</INFO></NAVI>."
+		},
+		Summary = "1x Murciélago en Calabaza"
+	},
+	[291510] = {
+		Title = "Carnaval: Mesa 2",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Lleva ^ff0000^nItemID^12055^000000 al <NAVI>[Cliente]<INFO>brasilis,329,224,0,101,0</INFO></NAVI>."
+		},
+		Summary = "1x Pan de Carne Picante"
+	},
+	[291511] = {
+		Title = "Carnaval: Mesa 2",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Lleva ^ff0000^nItemID^12050^000000 al <NAVI>[Cliente]<INFO>brasilis,329,224,0,101,0</INFO></NAVI>."
+		},
+		Summary = "1x Vino de Mastela"
+	},
+	[291512] = {
+		Title = "Carnaval: Mesa 3",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Lleva ^ff0000^nItemID^12065^000000 al <NAVI>[Cliente]<INFO>brasilis,339,217,0,101,0</INFO></NAVI>."
+		},
+		Summary = "1x Ensalada Verde"
+	},
+	[291513] = {
+		Title = "Carnaval: Mesa 3",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Lleva ^ff0000^nItemID^12068^000000 al <NAVI>[Cliente]<INFO>brasilis,339,217,0,101,0</INFO></NAVI>."
+		},
+		Summary = "1x Camote Frito"
+	},
+	[291514] = {
+		Title = "Carnaval: ¡Completo!",
+		IconName = "ico_ev.bmp",
+		Description = {""},
+		Summary = ""
+	},
+	[291515] = {
+		Title = "[Espera] Pase Diario",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"¡Completaste la misión de hoy!\n\t\t\t\tVuelve mañana después de la hora indicada para\n\t\t\t\tcontinuar recolectando los Sellos!\n\n\t\t\t\t           <NAVI>[Folklorista]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>"
+		},
+		Summary = "Se reinicia a las 4 de la mañana"
+	},
+	[291516] = {
+		Title = "Pase Diario: Día 1",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Elimina 30 monstruos en los campos de Amatsu (ama_fild01) y regresa con el <NAVI>[Folklorista]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Cacería en Amatsu"
+	},
+	[291517] = {
+		Title = "Pase Diario: Día 2",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Elimina 30 monstruos en los campos de Kunlun (gon_fild01) y regresa con el <NAVI>[Folklorista]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Cacería en Kunlun"
+	},
+	[291518] = {
+		Title = "Pase Diario: Día 3",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Elimina 30 monstruos en los campos de Ayothaya (ayo_fild02) y regresa con el <NAVI>[Folklorista]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Cacería en Ayothaya"
+	},
+	[291519] = {
+		Title = "Pase Diario: Día 4",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Elimina 30 monstruos en la Cueva de Louyang (lou_dun02) y regresa con el <NAVI>[Folklorista]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Cueva de Louyang"
+	},
+	[291520] = {
+		Title = "Pase Diario: Día 5",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Elimina 30 monstruos en la Cueva de Moscovia (mosk_dun02) y regresa con el <NAVI>[Folklorista]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Bosque Encantado"
+	},
+	[291521] = {
+		Title = "Pase Diario: Día 6",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Elimina 30 monstruos en la Cueva de Dewata (dew_dun02) y regresa con el <NAVI>[Folklorista]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Cueva Istana"
+	},
+	[291522] = {
+		Title = "Pase Diario: Día 7",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Elimina 30 monstruos en los campos de Brasilis (bra_fild01) y regresa con el <NAVI>[Folklorista]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Campos de Brasilis"
+	},
+	[291523] = {
+		Title = "Pase Diario: Día 8",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Elimina 30 monstruos en la Cueva de Brasilis (bra_dun01) y regresa con el <NAVI>[Folklorista]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Cueva de Brasilis"
+	},
+	[291524] = {
+		Title = "Pase Diario: Día 9",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Elimina 30 monstruos en la Cueva de Malangdo (mal_dun01) y regresa con el <NAVI>[Folklorista]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Cueva de Malangdo"
+	},
+	[291525] = {
+		Title = "Pase Diario: Día 10",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Elimina 30 monstruos en la Cueva de Puerto Malaya (ma_dun01) y regresa con el <NAVI>[Folklorista]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Cueva de Malaya"
 	}
 }

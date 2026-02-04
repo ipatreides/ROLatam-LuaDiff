@@ -3355,7 +3355,7 @@
     },
     "r6a/Bw": {
         "ko": "[레이지]\n팩씨는 여기서 무슨 일을 했을까. 여기에 있긴 있을까? 저 관계자한테 물어보면 알겠지.",
-        "en": "[Leizi]\nWhat did Pat do here? \nIs he even here? \nLet's ask the staff over there.",
+        "en": "[Leizi]\nWhat did Patsy do here? \nIs he even here? \nLet's ask the staff over there.",
         "pt": "[Nalandro]\nO que será que o Paca fez aqui? Vamos perguntar ao guarda responsável.",
         "es": "[Lazy]\n¿Qué habrá hecho Paca aquí? Preguntemos al guardia encargado."
     },
@@ -3643,7 +3643,7 @@
     },
     "36a/Bw": {
         "ko": "[새미]\n그래서 팻이 신설 연구소로 전출 될 때도 그런 줄 알았습니다. 그때 신설 연구소 때문에 시설 정비과며 물류팀이며... ^0000CD한창 많이들 전출^000000됐습니다.",
-        "en": "[Sammy]\nSo, I thought nothing of it when Pat was moved to the new lab. \n^0000CDA lot of people were moved there^000000 from the Installation and Maintenance Team, the Logistics Team, and everywhere to that new lab.",
+        "en": "[Sammy]\nSo, I thought nothing of it when Patsy was moved to the new lab. \n^0000CDA lot of people were moved there^000000 from the Installation and Maintenance Team, the Logistics Team, and everywhere to that new lab.",
         "pt": "[Sammy]\nEntão, nem reparei quando o Patrick foi transferido para o novo laboratório. ^0000CDMuita gente vai para lá^000000.\nDesde a equipe de manutenção até a equipe logística.",
         "es": "[Sammy]\nAsí que ni noté cuando Patrick fue enviado al nuevo laboratorio. ^0000CDMucha gente va allí^000000.\nDesde mantenimiento hasta logística."
     },
@@ -4112,7 +4112,7 @@
     "Lae/Bw": {
         "ko": "[아스]\n저 사람, 너무 수상해 보입니다. 그레이씨가 얘기한 그 사람이 맞는지 확인해 봐야겠습니다.",
         "en": "[Ace]\nHe looks way too suspicious. \nWe'd better check if he's Gray's contact.",
-        "pt": "[Ace]\nEssa pessoa parece tão suspeita. Vamos verse é a pessoa de quem Gray estava falando.",
+        "pt": "[Ace]\nEssa pessoa parece tão suspeita. Vamos ver se é a pessoa de quem Gray estava falando.",
         "es": "[Ace]\nEsa persona parece sospechosa. Veamos si es de quien hablaba Gray."
     },
     "Lqe/Bw": {
@@ -4483,9 +4483,9 @@
     },
     "a6e/Bw": {
         "ko": "[레이지]\n어서 <NAVI>[야옹이네]<INFO>pub_cat,93,105,0,101,0</INFO></NAVI>로 가자. 나 배고프다.",
-        "en": "[Leizi]\nLet's go to the <NAVI>[Cat]<INFO>pub_cat,93,105,0,101,0</INFO></NAVI>. \nI'm hungry.",
+        "en": "[Leizi]\nLet's go to the <NAVI>[Cat on a Bullet]<INFO>pub_cat,93,105,0,101,0</INFO></NAVI>. \nI'm hungry.",
         "pt": "[Nalandro]\nVamos voltar para o <NAVI>[Miado de Bala]<INFO>pub_cat,93,105,0,101,0</INFO></NAVI>. Estou com fome.",
-        "es": "[Lazy]\nVolvamos al <NAVI>[Miaullido de Bala]<INFO>pub_cat,93,105,0,101,0</INFO></NAVI>. Tengo hambre."
+        "es": "[Lazy]\nVolvamos al <NAVI>[Maullido de Bala]<INFO>pub_cat,93,105,0,101,0</INFO></NAVI>. Tengo hambre."
     },
     "bKe/Bw": {
         "ko": "[카야]\n들고있는 짐이 많이 무거워 보이는군. 좀 덜고 오는 편이 좋겠소.",
@@ -4586,7 +4586,7 @@
     "fKe/Bw": {
         "ko": "[아스]\n이곳도 마찬가지로 아무 것도 없었군요. 저희쪽도 마찬가지였습니다. 아무 것도 없었습니다.",
         "en": "[Ace]\nSo, there's nothing here. \nThere was nothing there, either. \nNothing at all.",
-        "pt": "[Ace]\nEntão, não há nada aqui também. Foi o mesmo conosco. Não havia nada de McDonnell, lá.",
+        "pt": "[Ace]\nEntão, não há nada aqui também. Foi o mesmo conosco. Não havia nada de McDonnell lá.",
         "es": "[Ace]\nAquí tampoco había nada. Fue igual para nosotros. No había rastro de McDonnell."
     },
     "fae/Bw": {
@@ -4717,7 +4717,7 @@
     },
     "kqe/Bw": {
         "ko": "[레이지]\n이것으로 VIP님의, 팩씨의 취업부터 현재까지의 흔적을 좇는 취업 로드의 여정을 마치겠습니다.\n모두들 <NAVI>[야옹이네]<INFO>pub_cat,93,105,0,101,0</INFO></NAVI>로 이동하세요~",
-        "en": "[Leizi]\nThis concludes our journey to follow Patsy's career.\nEveryone, please go to the <NAVI>[Cat]<INFO>pub_cat,93,105,0,101,0</INFO></NAVI> now.",
+        "en": "[Leizi]\nThis concludes our journey to follow Patsy's career.\nEveryone, please go to the <NAVI>[Cat on a Bullet]<INFO>pub_cat,93,105,0,101,0</INFO></NAVI> now.",
         "pt": "[Nalandro]\nCom isso, terminamos a restituição da vida do sr. Paca.\nVamos todos para o <NAVI>[Miado de Bala]<INFO>pub_cat,93,105,0,101,0</INFO></NAVI>~",
         "es": "[Lazy]\nCon esto, damos por concluida la restitución de la vida del sr. Paca.\nVamos todos al <NAVI>[Maullido de Bala]<INFO>pub_cat,93,105,0,101,0</INFO></NAVI>~"
     },

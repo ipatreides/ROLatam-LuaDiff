@@ -5016,5 +5016,16 @@ JobNameTable = {
 	[jobtbl.JT_DARK_LORD2] = "DARK_LORD2",
 	[jobtbl.JT_MISTRESS3] = "MISTRESS2",
 	[jobtbl.JT_TIMEHOLDER3] = "TIMEHOLDER2",
-	[jobtbl.JT_4_VENDING_MACHINE2] = "4_vending_machine"
+	[jobtbl.JT_4_VENDING_MACHINE2] = "4_vending_machine",
+	[jobtbl.JT_CARNIVAL_PORING] = "Poring",
+	[jobtbl.JT_1_RAGFES_01] = "1_ragfes_01",
+	[jobtbl.JT_4_RAGFES_06] = "4_ragfes_06",
+	[jobtbl.JT_4_RAGFES_07] = "4_ragfes_07",
+	[jobtbl.JT_4_RAGFES_10] = "4_ragfes_10",
+	[jobtbl.JT_4_RAGFES_13] = "4_ragfes_13",
+	[jobtbl.JT_4_RAGFES_15] = "4_ragfes_15",
+	[jobtbl.JT_4_RAGFES_16] = "4_ragfes_16",
+	[jobtbl.JT_4_GACHA_MACHINE] = "4_gacha_machine",
+	[jobtbl.JT_4_EP18_TAMARIN] = "4_ep18_tamarin",
+	[jobtbl.JT_4_EP19_TAMARIN] = "4_ep19_tamarin"
 }

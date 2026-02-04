@@ -2737,12 +2737,12 @@
     "QyFeAw": {
         "en": "[ Request from Eden Group]\nLocation: Ayothaya Ancient Shrine\nTarget: Defeat 20 Tamruan\nReward: Exp 30000, Jexp 30000",
         "pt": "[Solicitação]\nLocal: Santuário de Ayothaya\nObjetivo: Caçar 20 Tamruan\nRecompensa: EXP base 30000, EXP classe 30000",
-        "es": "[Solicitud del Grupo de Edén]\nUbicación: Antiguo santuario de Ayothaya.\nObjetivo: Derrota a 20 Tamruan.\nPremio: 30000 de EXP y 30000 de EXP de clase."
+        "es": "[Solicitud del Grupo del Edén]\nUbicación: Antiguo santuario de Ayothaya.\nObjetivo: Derrota a 20 Tamruan.\nPremio: 30000 de EXP y 30000 de EXP de clase."
     },
     "RCFeAw": {
         "en": "Request from Eden Group\n^4D4DFF[Temple Lion]^000000 Quest accepted.",
         "pt": "[Solicitação]\n^4D4DFF[Arauto do Templo]^000000 foi aceita.",
-        "es": "Solicitud del Grupo de Edén.\n^4D4DFF[León del Templo]^000000: misión aceptada."
+        "es": "Solicitud del Grupo del Edén.\n^4D4DFF[León del Templo]^000000: misión aceptada."
     },
     "RSFeAw": {
         "en": "[Request Completed]\nLocation: Brasilis Field \nTarget: Defeat 20 Toucan\nReward: Exp 30000, Jexp 30000",
@@ -2752,12 +2752,12 @@
     "RiFeAw": {
         "en": "[ Request from Eden Group]\nLocation: Brasilis Field \nTarget: Defeat 20 Toucan\nReward: Exp 30000, Jexp 30000",
         "pt": "[Solicitação]\nLocal: Floresta de Brasilis\nObjetivo: Caçar 20 Espíritos do Vento\nRecompensa: EXP base 30000, EXP classe 30000",
-        "es": "[Solicitud del Grupo de Edén]\nUbicación: Campo de Brasilis.\nObjetivo: Derrota a 20 Tucanes.\nPremio: 30000 de EXP y 30000 de EXP de clase."
+        "es": "[Solicitud del Grupo del Edén]\nUbicación: Campo de Brasilis.\nObjetivo: Derrota a 20 Tucanes.\nPremio: 30000 de EXP y 30000 de EXP de clase."
     },
     "RyFeAw": {
         "en": "Request from Eden Group\n^4D4DFF[Rainbow Bird]^000000 Quest accepted.",
         "pt": "[Solicitação]\n^4D4DFF[Pássaro Colorido]^000000 foi aceita.",
-        "es": "Solicitud del Grupo de Edén.\n^4D4DFF[Ave arcoíris]^000000: misión aceptada."
+        "es": "Solicitud del Grupo del Edén.\n^4D4DFF[Ave arcoíris]^000000: misión aceptada."
     },
     "SCFeAw": {
         "en": "[Request Completed]\nLocation: Brasilis Field \nTarget: Defeat 20 Headless Mule\nReward: Exp 35000, Jexp 35000",
@@ -2767,12 +2767,12 @@
     "SSFeAw": {
         "en": "[ Request from Eden Group]\nLocation: Brasilis Field \nTarget: Defeat 20 Headless Mule\nReward: Exp 35000, Jexp 35000",
         "pt": "[Solicitação]\nLocal: Floresta de Brasilis\nObjetivo: Caçar 20 Mulas-sem-Cabeça\nRecompensa: EXP base 35000, EXP classe 35000",
-        "es": "[Solicitud del Grupo de Edén]\nUbicación: Campo de Brasilis.\nObjetivo: Derrota a 20 Mulas sin cabeza.\nPremio: 35000 de EXP y 35000 de EXP de clase."
+        "es": "[Solicitud del Grupo del Edén]\nUbicación: Campo de Brasilis.\nObjetivo: Derrota a 20 Mulas sin cabeza.\nPremio: 35000 de EXP y 35000 de EXP de clase."
     },
     "SiFeAw": {
         "en": "Request from Eden Group\n^4D4DFF[Headless Horse]^000000 Quest accepted.",
         "pt": "[Solicitação]\n^4D4DFF[Lenda do Folclore]^000000 foi aceita.",
-        "es": "Solicitud del Grupo de Edén.\n^4D4DFF[Caballo sin cabeza]^000000: misión aceptada."
+        "es": "Solicitud del Grupo del Edén.\n^4D4DFF[Caballo sin cabeza]^000000: misión aceptada."
     },
     "SyFeAw": {
         "en": "[Request Completed]\nLocation: Moscovia Deep Forest\nTarget: Defeat 20 Uzhas\nReward: Exp 42660, Jexp 43600",
@@ -2782,12 +2782,12 @@
     "TCFeAw": {
         "en": "[ Request from Eden Group]\nLocation: Moscovia Deep Forest\nTarget: Defeat 20 Uzhas\nReward: Exp 42660, Jexp 43600",
         "pt": "[Solicitação]\nLocal: Floresta Encantada\nObjetivo: Caçar 20 Kikimoras\nRecompensa: EXP base 42660, EXP classe 43600",
-        "es": "[Solicitud del Grupo de Edén]\nUbicación: Bosque profundo de Moscovia.\nObjetivo: Derrota a 20 Uzhas.\nPremio: 42660 de EXP y 43600 de EXP de clase."
+        "es": "[Solicitud del Grupo del Edén]\nUbicación: Bosque profundo de Moscovia.\nObjetivo: Derrota a 20 Uzhas.\nPremio: 42660 de EXP y 43600 de EXP de clase."
     },
     "TSFeAw": {
         "en": "Request from Eden Group\n^4D4DFF[Moscovia Nightmare]^000000 Quest accepted.",
         "pt": "[Solicitação]\n^4D4DFF[Pesadelo Soviético]^000000 foi aceita.",
-        "es": "Solicitud del Grupo de Edén.\n^4D4DFF[Pesadilla en Moscovia]^000000: misión aceptada."
+        "es": "Solicitud del Grupo del Edén.\n^4D4DFF[Pesadilla en Moscovia]^000000: misión aceptada."
     },
     "TiFeAw": {
         "en": "[Request Completed]\nLocation: Moscovia Very Deep Forest\nTarget: Defeat 20 Baba Yaga\nReward: Exp 45700, Jexp 46700",
@@ -2797,12 +2797,12 @@
     "TyFeAw": {
         "en": "[ Request from Eden Group]\nLocation: Moscovia Very Deep Forest\nTarget: Defeat 20 Baba Yaga\nReward: Exp 45700, Jexp 46700",
         "pt": "[Solicitação]\nLocal: Floresta Encantada\nObjetivo: Caçar 20 Baba-Yagas\nRecompensa: EXP base 45700, EXP classe 46700",
-        "es": "[Solicitud del Grupo de Edén]\nUbicación: Bosque muy profundo de Moscovia.\nObjetivo: Derrota a 20 Baba Yaga.\nPremio: 45700 de EXP y 46700 de EXP de clase."
+        "es": "[Solicitud del Grupo del Edén]\nUbicación: Bosque muy profundo de Moscovia.\nObjetivo: Derrota a 20 Baba Yaga.\nPremio: 45700 de EXP y 46700 de EXP de clase."
     },
     "UCFeAw": {
         "en": "Request from Eden Group\n^4D4DFF[Broom, Cast Iron Pot, and Grandmother]^000000 Quest accepted.",
         "pt": "[Solicitação]\n^4D4DFF[Vovó Vidente]^000000 foi aceita.",
-        "es": "Solicitud del Grupo de Edén.\n^4D4DFF[La abuela, la escoba y el caldero]^000000: misión aceptada."
+        "es": "Solicitud del Grupo del Edén.\n^4D4DFF[La abuela, la escoba y el caldero]^000000: misión aceptada."
     },
     "USFeAw": {
         "en": "[Request Completed]\nLocation: Louyang Field\nTarget: Defeat 20 Mi Gao\nReward: Exp 39600, Jexp 35000",
@@ -2812,12 +2812,12 @@
     "UiFeAw": {
         "en": "[ Request from Eden Group]\nLocation: Louyang Field\nTarget: Defeat 20 Mi Gao\nReward: Exp 39600, Jexp 35000",
         "pt": "[Solicitação]\nLocal: Sul de Louyang\nObjetivo: Caçar 20 Mi Gao\nRecompensa: EXP base 39600, EXP classe 35000",
-        "es": "[Solicitud del Grupo de Edén]\nUbicación: Campo de Luoyang.\nObjetivo: Derrota a 20 Mi Gao.\nPremio: 39600 de EXP y 35000 de EXP de clase."
+        "es": "[Solicitud del Grupo del Edén]\nUbicación: Campo de Luoyang.\nObjetivo: Derrota a 20 Mi Gao.\nPremio: 39600 de EXP y 35000 de EXP de clase."
     },
     "UyFeAw": {
         "en": "Request from Eden Group\n^4D4DFF[Rice cake made from sand?]^000000 Quest accepted.",
         "pt": "[Solicitação]\n^4D4DFF[Areias Atacam?]^000000 foi aceita.",
-        "es": "Solicitud del Grupo de Edén.\n^4D4DFF[¿Pastel de arroz hecho de arena?]^000000: misión aceptada."
+        "es": "Solicitud del Grupo del Edén.\n^4D4DFF[¿Pastel de arroz hecho de arena?]^000000: misión aceptada."
     },
     "VCFeAw": {
         "en": "[Request Completed]\nLocation: Louyang The Royal Tomb\nTarget: Defeat 15 Yao Jun and 15 Jing Guai\nReward: Exp 72000, Jexp 72000",
@@ -2827,12 +2827,12 @@
     "VSFeAw": {
         "en": "[ Request from Eden Group]\nLocation: Louyang The Royal Tomb\nTarget: Defeat 15 Yao Jun and 15 Jing Guai\nReward: Exp 72000, Jexp 72000",
         "pt": "[Solicitação]\nLocal: Tumba Real\nObjetivo: Caçar 15 Yao Jun e 15 Jing Guai\nRecompensa: EXP base 72000, EXP classe 72000",
-        "es": "[Solicitud del Grupo de Edén]\nUbicación: Luoyang, la Tumba real.\nObjetivo: Derrota a 15 Yao Jun y 15 Jing Guai.\nPremio: 72000 de EXP y 72000 de EXP de clase."
+        "es": "[Solicitud del Grupo del Edén]\nUbicación: Luoyang, la Tumba real.\nObjetivo: Derrota a 15 Yao Jun y 15 Jing Guai.\nPremio: 72000 de EXP y 72000 de EXP de clase."
     },
     "ViFeAw": {
         "en": "Request from Eden Group\n^4D4DFF[A tomb where secrets sleep]^000000 Quest accepted.",
         "pt": "[Solicitação]\n^4D4DFF[Tumba de Segredos]^000000 foi aceita.",
-        "es": "Solicitud del Grupo de Edén.\n^4D4DFF[La tumba donde yacen los secretos]^000000: misión aceptada."
+        "es": "Solicitud del Grupo del Edén.\n^4D4DFF[La tumba donde yacen los secretos]^000000: misión aceptada."
     },
     "VyFeAw": {
         "en": "[Request Completed]\nLocation: Amatsu Tatami Maze\nTarget: Defeat 20 Miyabi Doll\nReward: Exp 36800, Jexp 40100",
@@ -2842,12 +2842,12 @@
     "WCFeAw": {
         "en": "[ Request from Eden Group]\nLocation: Amatsu Tatami Maze\nTarget: Defeat 20 Miyabi Doll\nReward: Exp 36800, Jexp 40100",
         "pt": "[Solicitação]\nLocal: Labirinto de Tatami\nObjetivo: Caçar 20 Bonecos de Miyabi\nRecompensa: EXP base 36800, EXP classe 40100",
-        "es": "[Solicitud del Grupo de Edén]\nUbicación: Laberinto de tatami de Amatsu.\nObjetivo: Derrota a 20 MuñecasMiyabi.\nPremio: 36800 de EXP y 40100 de EXP de clase."
+        "es": "[Solicitud del Grupo del Edén]\nUbicación: Laberinto de tatami de Amatsu.\nObjetivo: Derrota a 20 MuñecasMiyabi.\nPremio: 36800 de EXP y 40100 de EXP de clase."
     },
     "WSFeAw": {
         "en": "Request from Eden Group\n^4D4DFF[Beautiful Doll]^000000 Quest accepted.",
         "pt": "[Solicitação]\n^4D4DFF[Bonecas Delicadas]^000000 foi aceita.",
-        "es": "Solicitud del Grupo de Edén.\n^4D4DFF[Muñeca hermosa]^000000: misión aceptada."
+        "es": "Solicitud del Grupo del Edén.\n^4D4DFF[Muñeca hermosa]^000000: misión aceptada."
     },
     "WiFeAw": {
         "en": "[Request Completed]\nLocation: Amatsu Tatami Maze\nTarget: Defeat 20 Firelock Soldier\nReward: Exp 47500, Jexp 48300",
@@ -2857,12 +2857,12 @@
     "WyFeAw": {
         "en": "[ Request from Eden Group]\nLocation: Amatsu Tatami Maze\nTarget: Defeat 20 Firelock Soldier\nReward: Exp 47500, Jexp 48300",
         "pt": "[Solicitação]\nLocal: Labirinto de Tatami\nObjetivo: Caçar 20 Zumbis Atiradores\nRecompensa: EXP base 47500, EXP classe 48300",
-        "es": "[Solicitud del Grupo de Edén]\nUbicación: Laberinto de tatami de Amatsu.\nObjetivo: Derrota a 20 Soldados arcabuceros.\nPremio: 47500 de EXP y 48300 de EXP de clase."
+        "es": "[Solicitud del Grupo del Edén]\nUbicación: Laberinto de tatami de Amatsu.\nObjetivo: Derrota a 20 Soldados arcabuceros.\nPremio: 47500 de EXP y 48300 de EXP de clase."
     },
     "XCFeAw": {
         "en": "Request from Eden Group\n^4D4DFF[Losers, winners, and those left behind]^000000 Quest accepted.",
         "pt": "[Solicitação]\n^4D4DFF[Vigia Morto-Vivo]^000000 foi aceita.",
-        "es": "Solicitud del Grupo de Edén.\n^4D4DFF[Perdedores, ganadores y los que se quedan atrás]^000000: misión aceptada."
+        "es": "Solicitud del Grupo del Edén.\n^4D4DFF[Perdedores, ganadores y los que se quedan atrás]^000000: misión aceptada."
     },
     "XSFeAw": {
         "en": "[Request Completed]\nLocation: Amatsu Tatami Maze\nTarget: Defeat 20 Shinobi\nReward: Exp 81120, Jexp 72200",
@@ -2872,12 +2872,12 @@
     "XiFeAw": {
         "en": "[ Request from Eden Group]\nLocation: Amatsu Tatami Maze\nTarget: Defeat 20 Shinobi\nReward: Exp 81120, Jexp 72200",
         "pt": "[Solicitação]\nLocal: Labirinto de Tatami\nObjetivo: Caçar 20 Shinobi\nRecompensa: EXP base 81120, EXP classe 72200",
-        "es": "[Solicitud del Grupo de Edén]\nUbicación: Laberinto de tatami de Amatsu.\nObjetivo: Derrota a 20 Shinobi.\nPremio: 81120 de EXP y 72200 de EXP de clase."
+        "es": "[Solicitud del Grupo del Edén]\nUbicación: Laberinto de tatami de Amatsu.\nObjetivo: Derrota a 20 Shinobi.\nPremio: 81120 de EXP y 72200 de EXP de clase."
     },
     "XyFeAw": {
         "en": "Request from Eden Group\n^4D4DFF[Shinobi Hunting.]^000000 Quest accepted.",
         "pt": "[Solicitação]\n^4D4DFF[Alguém à Espreita]^000000 foi aceita.",
-        "es": "Solicitud del Grupo de Edén.\n^4D4DFF[Cacería de Shinobi]^000000: misión aceptada."
+        "es": "Solicitud del Grupo del Edén.\n^4D4DFF[Cacería de Shinobi]^000000: misión aceptada."
     },
     "YCFeAw": {
         "en": "[Request Completed]\nLocation: Kunlun Arcadia\nTarget: Defeat 20 Evil Nymph\nReward: Exp 76600, Jexp 83700",
@@ -2887,12 +2887,12 @@
     "YSFeAw": {
         "en": "[ Request from Eden Group]\nLocation: Kunlun Arcadia\nTarget: Defeat 20 Evil Nymph\nReward: Exp 76600, Jexp 83700",
         "pt": "[Solicitação]\nLocal: Terra das Fadas\nObjetivo: Caçar 20 Ninfas Perversas\nRecompensa: EXP base 76600, EXP classe 83700",
-        "es": "[Solicitud del Grupo de Edén]\nUbicación: Arcadia en Kunlun.\nObjetivo: Derrota a 20 Ninfas malvadas.\nPremio: 76600 de EXP y 83700 de EXP de clase."
+        "es": "[Solicitud del Grupo del Edén]\nUbicación: Arcadia en Kunlun.\nObjetivo: Derrota a 20 Ninfas malvadas.\nPremio: 76600 de EXP y 83700 de EXP de clase."
     },
     "YiFeAw": {
         "en": "Request from Eden Group\n^4D4DFF[Celestial Lady]^000000 Quest accepted.",
         "pt": "[Solicitação]\n^4D4DFF[Donzela Celestial]^000000 foi aceita.",
-        "es": "Solicitud del Grupo de Edén.\n^4D4DFF[Dama celestial]^000000: misión aceptada."
+        "es": "Solicitud del Grupo del Edén.\n^4D4DFF[Dama celestial]^000000: misión aceptada."
     },
     "YyFeAw": {
         "en": "[Request Completed]\nLocation: Shrine of Kunlun Queen\nTarget: Defeat 20 Enchanted Peach Tree\nReward: Exp 63000, Jexp 71900",
@@ -2902,12 +2902,12 @@
     "ZCFeAw": {
         "en": "[ Request from Eden Group]\nLocation: Shrine of Kunlun Queen\nTarget: Defeat 20 Enchanted Peach Tree\nReward: Exp 63000, Jexp 71900",
         "pt": "[Solicitação]\nLocal: Tabuleiro de Go\nObjetivo: Caçar 20 Pessegueiras Encantadas\nRecompensa: EXP base 63000, EXP classe 71900",
-        "es": "[Solicitud del Grupo de Edén]\nUbicación: Santuario de la reina de Kunlun.\nObjetivo: Derrota a 20 Durazneros encantados.\nPremio: 63000 de EXP y 71900 de EXP de clase."
+        "es": "[Solicitud del Grupo del Edén]\nUbicación: Santuario de la reina de Kunlun.\nObjetivo: Derrota a 20 Durazneros encantados.\nPremio: 63000 de EXP y 71900 de EXP de clase."
     },
     "ZSFeAw": {
         "en": "Request from Eden Group\n^4D4DFF[Monkey King Candidate]^000000 Quest accepted.",
         "pt": "[Solicitação]\n^4D4DFF[Pêssegos e Yoyos]^000000 foi aceita.",
-        "es": "Solicitud del Grupo de Edén.\n^4D4DFF[Candidato a Rey Mono]^000000: misión aceptada."
+        "es": "Solicitud del Grupo del Edén.\n^4D4DFF[Candidato a Rey Mono]^000000: misión aceptada."
     },
     "ZiFeAw": {
         "en": "[Request Completed]\nLocation: Hermit's Checkers in Kunlun\nTarget: Defeat 20 Taoist Hermit\nReward: Exp 72000, Jexp 72000",
@@ -2917,12 +2917,12 @@
     "ZyFeAw": {
         "en": "[ Request from Eden Group]\nLocation: Hermit's Checkers in Kunlun\nTarget: Defeat 20 Taoist Hermit\nReward: Exp 72000, Jexp 72000",
         "pt": "[Solicitação]\nLocal: Terra das Fadas\nObjetivo: Caçar 20 Ermitão Maligno\nRecompensa: EXP base 72000, EXP classe 72000",
-        "es": "[Solicitud del Grupo de Edén]\nUbicación: Damas del ermitaño de Kunlun.\nObjetivo: Derrota a 20 Ermitaños taoístas.\nPremio: 72000 de EXP y 72000 de EXP de clase."
+        "es": "[Solicitud del Grupo del Edén]\nUbicación: Damas del ermitaño de Kunlun.\nObjetivo: Derrota a 20 Ermitaños taoístas.\nPremio: 72000 de EXP y 72000 de EXP de clase."
     },
     "aCFeAw": {
         "en": "Request from Eden Group\n^4D4DFF[Old Man on the Clouds]^000000 Quest accepted.",
         "pt": "[Solicitação]\n^4D4DFF[Homem nas Nuvens]^000000 foi aceita.",
-        "es": "Solicitud del Grupo de Edén.\n^4D4DFF[Anciano en las nubes]^000000: misión aceptada."
+        "es": "Solicitud del Grupo del Edén.\n^4D4DFF[Anciano en las nubes]^000000: misión aceptada."
     },
     "aSFeAw": {
         "en": "[Request Completed]\nLocation: Field near Schwarzwald border crossing\nTarget: Defeat 10 Geographer and 10 Mantis\nReward: Exp 19760, Jexp 15150",
@@ -3007,7 +3007,7 @@
     "eSFeAw": {
         "en": "[Eden Logistics Manager]\nIn order to receive a request You must have ^4D4DFF'Eden Group Mark'^000000.\nRegarding ^4D4DFF'Eden Group Mark'^000000, please ask Lime next to you.",
         "pt": "[Estoquista]\nVocê precisa ter o ^4D4DFFEmblema do Éden^000000 para receber missões.\nFale com a ^4D4DFFSecretária^000000 no balcão.",
-        "es": "[Admin. logíst. de Edén]\nPara recibir una solicitud debes tener la ^4D4DFFMarca del Grupo de Edén^000000.\nEn cuanto a la ^4D4DFFMarca del Grupo de Edén^000000, puedes preguntarle a Lime que está a tu lado."
+        "es": "[Admin. logíst. de Edén]\nPara recibir una solicitud debes tener la ^4D4DFFMarca del Grupo del Edén^000000.\nEn cuanto a la ^4D4DFFMarca del Grupo del Edén^000000, puedes preguntarle a Lime que está a tu lado."
     },
     "eiFeAw": {
         "en": "^8C8C8C(Completed) Fluff Delivery ^000000",
@@ -3212,7 +3212,7 @@
     "oiFeAw": {
         "en": "[Eden Logistics Manager]\nHello.\nEden group is receiving delivery of materials to make various equipment.",
         "pt": "[Estoquista]\nOlá.\nO Grupo do Éden está recebendo materiais para a produção de suprimentos.",
-        "es": "[Admin. logíst. de Edén]\nHola.\nEl Grupo de Edén está recibiendo materiales para fabricar diversos equipamientos."
+        "es": "[Admin. logíst. de Edén]\nHola.\nEl Grupo del Edén está recibiendo materiales para fabricar diversos equipamientos."
     },
     "oyFeAw": {
         "en": "LV 1~30",
