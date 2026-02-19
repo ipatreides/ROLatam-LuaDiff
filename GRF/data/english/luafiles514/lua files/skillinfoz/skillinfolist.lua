@@ -4251,7 +4251,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NPC_DEFENDER] = {
 		"NPC_DEFENDER",
-		SkillName = "Aura Sagrada",
+		SkillName = "Defending Aura",
 		MaxLv = 5,
 		SpAmount = {
 			0,

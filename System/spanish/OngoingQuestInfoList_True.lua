@@ -4441,9 +4441,9 @@ QuestInfoList = {
 	[2206] = {
 		Title = "Nenúfar de Brasilis",
 		Description = {
-			"Vuelve con Jasira y cuéntale el mensaje que te dio Jasi."
+			"Jasi ha aceptado tu sinceridad. Ahora, parece que debes recoger un Lirio de Agua y entregarle el mensaje a Jasira."
 		},
-		Summary = "Habla con Jasira."
+		Summary = "Habla con Jasira tras conseguir un Lirio de Agua."
 	},
 	[2207] = {
 		Title = "Nenúfar de Brasilis",
@@ -14821,7 +14821,7 @@ QuestInfoList = {
 	[7008] = {
 		Title = "Guerrero del sol, la luna y las estrellas: Naturaleza",
 		Description = {
-			"Ve y reúne el poder de la naturaleza esparcido por todo el mundo. Tráeme partes de viento borrascoso, tierra sólida, hielo álgido y llama ardiente."
+			"Adelante, reúne el poder de la naturaleza esparcido por el mundo. Tráeme el viento fuerte, la tierra sólida, el hielo duro y la llama ardiente."
 		},
 		Summary = "Piedra de viento, Gran naturaleza, Místico congelado, Corazón en llamas."
 	},
@@ -31747,94 +31747,94 @@ QuestInfoList = {
 		Summary = "Bastón Ilusional"
 	},
 	[11573] = {
-		Title = "Misión de cambio de clase Emperador Estelar",
+		Title = "Cambio de Clase: Emperador Estelar",
 		IconName = "ico_jq.bmp",
 		Description = {
-			"He oído de Nalson cómo llegar a Bosque de Meteoro.",
+			"Existe un Dojang en el Monte Mjolnir. Vamos a visitar el Bosque Meteoro. Solo sigue el camino estrecho en el lado norte del Monte Mjolnir.",
 			"Busquemos el estrecho sendero de montaña al norte de la cordillera Mjolnir y vayamos a Bosque de Meteoro."
 		},
-		Summary = "hacia Bosque de Meteoro"
+		Summary = "Hacia Bosque de Meteoro"
 	},
 	[11574] = {
-		Title = "Misión de cambio de clase de Emperador Estelar",
+		Title = "Cambio de Clase: Emperador Estelar",
 		IconName = "ico_jq.bmp",
 		Description = {
-			"Puedes redactar el manual de iniciación en la casa de té.",
+			"Hay una casa de té en el Dojang. La alumna de Choshi nos espera allí. Ve a la casa de té.",
 			"Vayamos a la casa de té."
 		},
-		Summary = "A la casa de té"
+		Summary = "A la Casa de Té"
 	},
 	[11575] = {
-		Title = "Misión de cambio de clase de Emperador Estelar",
+		Title = "Cambio de Clase: Emperador Estelar",
 		IconName = "ico_jq.bmp",
 		Description = {
-			"Ransis también salió afuera siguiendo a Choseung.",
+			"Será mejor que salgamos de la Casa de Té. Habla con Lunomoto fuera.",
 			"Sal afuera y habla con Choseung."
 		},
-		Summary = "Fuera de la casa de té"
+		Summary = "Hable con Lunomoto"
 	},
 	[11576] = {
-		Title = "Misión de cambio de clase de Emperador Estelar",
+		Title = "Cambio de Clase: Emperador Estelar",
 		IconName = "ico_jq.bmp",
 		Description = {
-			"Choseung le pidió a Ransis que guiara hacia Bosque de Meteoro y se marchó a toda prisa.",
+			"Ya conoces Lunomoto. Hablemos con Lansis para saber más sobre el Bosque Meteoro.",
 			"Habla con Ransis y escucha sobre Bosque de Meteoro."
 		},
-		Summary = "Hablar con Ransis"
+		Summary = "Hablar con Lansis"
 	},
 	[11577] = {
-		Title = "Misión de cambio de clase de Emperador Estelar",
+		Title = "Cambio de Clase: Emperador Estelar",
 		IconName = "ico_jq.bmp",
 		Description = {
-			"Siguiendo las indicaciones de Ransis, vamos a echar un vistazo al Bosque de Meteoro."
+			"Vamos a conocer el Bosque Meteoro."
 		},
-		Summary = "Hablar con Ransis"
+		Summary = "Ir al dormitorio"
 	},
 	[11578] = {
-		Title = "Misión de cambio de clase de Emperador Estelar",
+		Title = "Cambio de Clase: Emperador Estelar",
 		IconName = "ico_jq.bmp",
 		Description = {
-			"Ransis, que guiaba hacia Bosque de Meteoro, parece haber encontrado algo.",
+			"Parece que uno de los maestros está tramando algo. Ve al quiosco al sur del Dojang.",
 			"Sigamos a Ransis."
 		},
-		Summary = "Hablar con Eunha"
+		Summary = "Hable con Cosmos"
 	},
 	[11579] = {
-		Title = "Misión de cambio de clase de Emperador Estelar",
+		Title = "Cambio de Clase: Emperador Estelar",
 		IconName = "ico_jq.bmp",
 		Description = {
-			"Eunha dice que te ayudará con el entrenamiento y te pide que derrotes a 10 Mineral.",
+			"Ve a la mina de Einbech y elimina a 10 monstruos llamados «Mineral».",
 			"Derrota a 10 Mineral en el 2.º piso de la mina de Einbech y regresa."
 		},
 		Summary = "Derrota a 10 Mineral"
 	},
 	[11580] = {
-		Title = "Misión de cambio de clase de Emperador Estelar",
+		Title = "Cambio de Clase: Emperador Estelar",
 		IconName = "ico_jq.bmp",
 		Description = {
-			"Al ver que has capturado a Mineral, Eunha dice que Ilgwang parece ser mejor que ella y te pide que vayas a ver a Ilgwang."
+			"Cosmos te envió a Aurora dentro de una casa."
 		},
-		Summary = "Hablar con Ilgwang"
+		Summary = "Hable con Aurora"
 	},
 	[11581] = {
-		Title = "Misión de cambio de clase de Emperador Estelar",
+		Title = "Cambio de Clase: Emperador Estelar",
 		IconName = "ico_jq.bmp",
 		Description = {
-			"Ilgwang dice que no sabe bien cuál es el método de entrenamiento, y comenta que a Choseung le gustaría si traes un Nueve colas.",
+			"Ve a la Cueva de Payon y elimina a 50 Nueve Colas.",
 			"En las profundidades de Payon, a partir del 3.º piso del calabozo, derrota al menos a 50 Nueve colas y ve a ver a Choseung."
 		},
-		Summary = "Derrota a 50 Nueve colas"
+		Summary = "Elimina 50 Nueve Colas"
 	},
 	[11582] = {
-		Title = "Misión de cambio de clase de Emperador Estelar",
+		Title = "Cambio de Clase: Emperador Estelar",
 		IconName = "ico_jq.bmp",
 		Description = {
-			"Choseung se enfurece por las acciones de Eunha y le dice a Eunha que le transmita que venga a la habitación de Ilgwang."
+			"Atiende la petición de Lunomoto y busca a Cosmos."
 		},
-		Summary = "Hablar con Eunha"
+		Summary = "Hable con Cosmos"
 	},
 	[11583] = {
-		Title = "Emperador Estelar Misión de cambio de clase",
+		Title = "Cambio de Clase: Emperador Estelar",
 		IconName = "ico_jq.bmp",
 		Description = {
 			"Eunha se queja y dice que vayamos juntos a la habitación de Ilgwang."
@@ -31842,21 +31842,21 @@ QuestInfoList = {
 		Summary = "A la habitación de Ilgwang"
 	},
 	[11584] = {
-		Title = "Emperador Estelar Misión de cambio de clase",
+		Title = "Cambio de Clase: Emperador Estelar",
 		IconName = "ico_jq.bmp",
 		Description = {
-			"Ilgwang dice que el maestro Chosi está al pie de la montaña.",
+			"Escuché la conversación de los Maestros. Iré hasta la entrada del Bosque Meteoro. Baja la montaña y encuentra al Maestro Chosi.",
 			"Bajemos al pie de la montaña y vayamos a ver al maestro Chosi."
 		},
-		Summary = "Hablar con Chosi"
+		Summary = "Habla con Chosi"
 	},
 	[11585] = {
-		Title = "Misión de cambio de clase de Emperador Estelar",
+		Title = "Cambio de Clase: Emperador Estelar",
 		IconName = "ico_jq.bmp",
 		Description = {
-			"Chosi dice que quiere ceder el puesto de maestro a Ilgwang, Choseung y Eunha, y que regresará a Bosque de Meteoro, así que te pide que elijas a la persona con la que quieras crecer juntos."
+			"Ahora puedes convertirte en un Maestro Estelar hablando con cualquiera de los 3 Maestros del Bosque Meteoro."
 		},
-		Summary = "Habla con Ilgwang o con Choseung o con Eunha."
+		Summary = "Cambiar de Clase"
 	},
 	[11596] = {
 		Title = "Como en los viejos tiempos",
@@ -36018,74 +36018,74 @@ QuestInfoList = {
 		Summary = "Cura la Piedra Guardiana"
 	},
 	[12442] = {
-		Title = "Caminho de Ceifador de Almas 1",
+		Title = "Cambio de Clase: Segador de Almas",
 		Description = {
-			"Vamos ouvir o que Banyak tem a dizer, cercado pelos funcionários da estalagem."
+			"Banyak está rodeado por los empleados de la posada. Vamos a escuchar lo que tiene que decir."
 		},
-		Summary = "O caminho de Ceifador de Almas"
+		Summary = "Hable con Banyak"
 	},
 	[12443] = {
-		Title = "Caminho de Ceifador de Almas 2",
+		Title = "Cambio de Clase: Segador de Almas",
 		Description = {
-			"Se você tiver algum vínculo com Banyak, vamos nos encontrar de novo. Parece que ele foi levado para alguma <NAVI>[Taverna]<INFO>payon.gat,190,93,0,101,0</INFO></NAVI> em algum lugar de Payon."
+			"Vamos a <NAVI>[Posada]<INFO>payon.gat,190,93,0,101,0</INFO></NAVI>. Está en algún lugar de Payon."
 		},
-		Summary = "O caminho de Ceifador de Almas"
+		Summary = "Para la Posada"
 	},
 	[12444] = {
-		Title = "Caminho de Ceifador de Almas 3",
+		Title = "Cambio de Clase: Segador de Almas",
 		Description = {
-			"Se conseguirmos confirmar os passos do ladrão de trouxas de Banyak, vamos tentar. Talvez haja um ajudante perto da estalagem."
+			"Vamos a intentar ayudar a Banyak. Quizás haya alguien cerca que haya visto algo."
 		},
-		Summary = "O caminho de Ceifador de Almas"
+		Summary = "Habla con la Niña"
 	},
 	[12445] = {
-		Title = "Caminho de Ceifador de Almas 4",
+		Title = "Cambio de Clase: Segador de Almas",
 		Description = {
-			"Vamos conversar com <NAVI>[Banyak]<INFO>payon.gat,190,93,0,101,0</INFO></NAVI> sobre a identidade do ladrão de trouxas."
+			"Hablemos con <NAVI>[Banyak]<INFO>payon.gat,190,93,0,101,0</INFO></NAVI> sobre la identidad del ladrón."
 		},
-		Summary = "O caminho de Ceifador de Almas"
+		Summary = "Para la Posada"
 	},
 	[12446] = {
-		Title = "Caminho de Ceifador de Almas 5",
+		Title = "Cambio de Clase: Segador de Almas",
 		Description = {
-			"Vamos ter uma guerra de palavras com Tavern Keeper com o pequeno e Banyak para identificar o ladrão estragado."
+			"Parece que hemos descubierto la identidad del ladrón. Veamos qué nos cuenta la Niña."
 		},
-		Summary = "O caminho de Ceifador de Almas"
+		Summary = "Habla con la Niña"
 	},
 	[12447] = {
-		Title = "Caminho de Ceifador de Almas 6",
+		Title = "Cambio de Clase: Segador de Almas",
 		Description = {
-			"Payon Reencontre <NAVI>[Banyak]<INFO>payon.gat,241,294,0,101,0</INFO></NAVI> ao norte de Payon"
+			"Hablemos con <NAVI>[Banyak]<INFO>payon.gat,241,294,0,101,0</INFO></NAVI>. Está en la entrada de la Aldea de los Arqueros."
 		},
-		Summary = "O caminho de Ceifador de Almas"
+		Summary = "Hable con Banyak"
 	},
 	[12448] = {
-		Title = "Caminho de Ceifador de Almas 7",
+		Title = "Cambio de Clase: Segador de Almas",
 		Description = {
-			"Vamos juntar 44 <ITEM>[Cauda de Raposa]<INFO>1022</INFO></ITEM> necessárias para o Grande Ritual e entregar para <NAVI>[Ya-eongi]<INFO>pay_dun04.gat,120,116,0,101,0</INFO></NAVI>."
+			"Vamos a <NAVI>[Pueblo abandonado]<INFO>pay_dun04.gat,120,116,0,101,0</INFO></NAVI>. Allí debemos reunir 44 <ITEM>[Nueve Colas]<INFO>1022</INFO></ITEM> necesarias para el Gran Ritual."
 		},
-		Summary = "O caminho de Ceifador de Almas"
+		Summary = "Habla con Munchkin"
 	},
 	[12449] = {
-		Title = "Caminho de Ceifador de Almas 8",
+		Title = "Cambio de Clase: Segador de Almas",
 		Description = {
 			"<NAVI>Encontre [Banyak]<INFO>payon.gat,241,294,0,101,0</INFO></NAVI> e confirme a história ligada ao Ritual de chamadas de almas."
 		},
-		Summary = "O caminho de Ceifador de Almas"
+		Summary = "Hable con Banyak"
 	},
 	[12450] = {
-		Title = "Caminho de Ceifador de Almas 9",
+		Title = "Cambio de Clase: Segador de Almas",
 		Description = {
-			"Vamos entrar no mundo espiritual de Banyak com o Ritual de chamadas de almas e resgatar o irmão mais novo dela(?)."
+			"¡Prepárate para la batalla! Banyak abrirá un portal al mundo espiritual."
 		},
-		Summary = "O caminho de Ceifador de Almas"
+		Summary = "Hable con Banyak"
 	},
 	[12451] = {
-		Title = "Capítulo final do caminho de Ceifador de Almas",
+		Title = "Cambio de Clase: Segador de Almas",
 		Description = {
-			"<NAVI>Decida o caminho de Ceifador de Almas conversando com [Banyak]<INFO>payon.gat,241,294,0,101,0</INFO></NAVI>."
+			"Habla con <NAVI>[Banyak] <INFO>payon.gat,241,294,0,101,0</INFO></NAVI> para cambiar tu clase."
 		},
-		Summary = "O caminho de Ceifador de Almas"
+		Summary = "Hable con Banyak"
 	},
 	[12452] = {
 		Title = "Ocupación de Os",
@@ -36123,25 +36123,25 @@ QuestInfoList = {
 		Summary = "Vuelve mañana"
 	},
 	[12457] = {
-		Title = "El momento de la caída",
+		Title = "Edda de Glastheim",
 		Description = {
-			"Debes seguir al cronodragón Oscar y regresar al tiempo del pasado para presenciar cómo Glastheim, que fue la fortaleza más poderosa, terminó cayendo."
+			"Debes seguir a Oscar, el Dragón del Tiempo, y regresar al pasado para ver cómo Glastheim, que alguna vez fue la fortaleza más poderosa, terminó siendo maldita."
 		},
-		Summary = "El momento de la caída"
+		Summary = "Completa la instancia"
 	},
 	[12458] = {
-		Title = "Epílogo del Orbe",
+		Title = "Edda de Glastheim",
 		Description = {
 			"A pesar del sacrificio de Rey Schmidt, sus hazañas acabaron siendo distorsionadas al transmitirse."
 		},
-		Summary = "El gusto del dragón"
+		Summary = "Completa la instancia"
 	},
 	[12459] = {
-		Title = "Que el descanso llegue a los pensamientos del rey.",
+		Title = "En memoria del Rey",
 		Description = {
-			"Para salvar innumerables vidas, Schmidt arrojó su propia vida al Orbe. Pero, en el proceso, el poder del Orbe materializó sus pensamientos persistentes e intenta dejar un registro de deshonra para las generaciones futuras. Tu misión es conceder descanso a sus pensamientos persistentes."
+			"Para salvar innumerables vidas, Schmidt dio su propia vida al Orbe. Pero en el proceso, el poder del Orbe materializó sus pensamientos obsesivos, intentando dejar un registro de deshonra para las generaciones futuras. Tu misión es conceder descanso a estos vestigios falsos del Rey."
 		},
-		Summary = "Derrota el remanente de Schmidt",
+		Summary = "Modo Normal",
 		NpcSpr = "4_ED_SCHMIDT",
 		RewardEXP = "650000",
 		RewardJEXP = "480000",
@@ -36150,25 +36150,25 @@ QuestInfoList = {
 		}
 	},
 	[12460] = {
-		Title = "Secuelas de la caída",
+		Title = "[Espera] Caída de Glastheim",
 		Description = {
-			"De cualquier manera, es duro presenciar el lugar de la caída. Mientras duren las secuelas, no será posible entrar ni crear ^ff0000Purificación de Glastheim^000000."
+			"De cualquier forma, es difícil presenciar la escena de la caída. Mientras los efectos persistan, no será posible entrar ni crear la instancia ^FF0000Caída de Glastheim^000000."
 		},
-		Summary = "Reinicio a las 4 a. m."
+		Summary = "Reinicia a las 4 a. m."
 	},
 	[12461] = {
-		Title = "Las secuelas de una muerte poderosa",
+		Title = "[Espera] Caída de Glastheim II",
 		Description = {
-			"Este efecto secundario va acompañado del efecto secundario de la Caída. Mientras dure, no aparecerá el menú relacionado con ^ff0000Purificación de Glastheim(Avanzado))^000000 y tampoco podrás usarlo."
+			"Este efecto colateral afecta a todas las líneas del tiempo. Por eso, no podrás realizar la ^FF0000Caída de Glastheim en Modo Normal y Difícil^000000."
 		},
-		Summary = "Se reinicia a las 4 de la madrugada dentro de 3 días."
+		Summary = "Reinicia en 3 días"
 	},
 	[12462] = {
-		Title = "Descanso para el pensamiento del rey (Avanzado)",
+		Title = "En memoria del Rey",
 		Description = {
-			"Para salvar innumerables vidas, Schmidt arrojó su propia vida al Orbe. Pero en ese proceso, el poder del Orbe materializó sus pensamientos persistentes e intenta dejar un registro de deshonra para las generaciones futuras. Tu misión es conceder descanso a sus pensamientos persistentes."
+			"Para salvar innumerables vidas, Schmidt dio su propia vida al Orbe. Pero en el proceso, el poder del Orbe materializó sus pensamientos obsesivos, intentando dejar un registro de deshonra para las generaciones futuras. Tu misión es conceder descanso a estos vestigios falsos del Rey."
 		},
-		Summary = "Derrota a la Aparición de Schmidt (Avanzado)",
+		Summary = "Modo Difícil",
 		NpcSpr = "4_ED_SCHMIDT",
 		RewardEXP = "2800000",
 		RewardJEXP = "1900000",
@@ -71561,6 +71561,270 @@ Talk to Kar=],
 		},
 		Summary = "Se reinicia a las 4 AM"
 	},
+	[291494] = {
+		Title = "Carnaval",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"¡Para participar en el Carnaval, ",
+			"necesitas el permiso de la Madre Naturaleza! ",
+			"Encuentra los 4 Elementos en la playa de Brasilis",
+			"y regresa con el <NAVI>[Gerente del Evento]<INFO>brasilis,246,323,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Playa de Brasilis"
+	},
+	[291495] = {
+		Title = "Carnaval: Piedra de Fuego",
+		IconName = "ico_ev.bmp",
+		Description = {""},
+		Summary = ""
+	},
+	[291496] = {
+		Title = "Carnaval: Piedra de Agua",
+		IconName = "ico_ev.bmp",
+		Description = {""},
+		Summary = ""
+	},
+	[291497] = {
+		Title = "Carnaval: Piedra del Viento",
+		IconName = "ico_ev.bmp",
+		Description = {""},
+		Summary = ""
+	},
+	[291498] = {
+		Title = "Carnaval: Piedra de Tierra",
+		IconName = "ico_ev.bmp",
+		Description = {""},
+		Summary = ""
+	},
+	[291499] = {
+		Title = "Carnaval: ¡Disfraz!",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"“¡No puedo perder el concurso de disfraces por su culpa!” ",
+			"- <NAVI>[Fernando]<INFO>brasilis,111,330,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Elimina al monstruo"
+	},
+	[291500] = {
+		Title = "[Espera] ¡Disfraz!",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Completaste la misión del Carnaval de hoy. Vuelve mañana con <NAVI>[Fernando]<INFO>brasilis,111,330,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Se reinicia a las 4 de la mañana."
+	},
+	[291501] = {
+		Title = "Carnaval: Música Perdida",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"¡Los Porings Carnavalescos se comieron las instrucciones de baile!",
+			"Recoge los siguientes objetos:",
+			"2x ^ff0000^nItemID^6340^000000",
+			"2x ^ff0000^nItemID^6341^000000",
+			"2x ^ff0000^nItemID^6342^000000 ",
+			"2x ^ff0000^nItemID^6343^000000 ",
+			"Y regresa con la <NAVI>[Sambista]<INFO>brasilis,201,145,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Recoge los Objetos"
+	},
+	[291502] = {
+		Title = "[Espera] Música Perdida",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Completaste la misión del Carnaval de hoy. Vuelve mañana con la <NAVI>[Sambista]<INFO>brasilis,201,145,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Se reinicia a las 4 de la mañana."
+	},
+	[291503] = {
+		Title = "Carnaval: Violín Roto",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"¡Ve a la casa de <NAVI>[Vinícius]<INFO>bra_in01,163,131,0,101,0</INFO></NAVI>!",
+			"Él debe reparar el Violín si le llevas",
+			"3x ^ff0000^nItemID^1002^000000",
+			"Después, lleva el Violín de vuelta",
+			"al joven <NAVI>[Jobim]<INFO>brasilis,198,145,0,101,0</INFO></NAVI>."
+		},
+		Summary = "3x NOMBRE_OBJETO"
+	},
+	[291504] = {
+		Title = "[Espera] Violín Roto",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Completaste la misión del Carnaval de hoy. Vuelve mañana con <NAVI>[Jobim]<INFO>brasilis,198,145,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Se reinicia a las 4 de la mañana."
+	},
+	[291505] = {
+		Title = "Carnaval: Violín Roto",
+		IconName = "ico_ev.bmp",
+		Description = {""},
+		Summary = ""
+	},
+	[291506] = {
+		Title = "Carnaval: Restaurante",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Ayuda a la pobre <NAVI>[Mesera]<INFO>brasilis,338,228,0,101,0</INFO></NAVI>.",
+			"Acepta los pedidos de los clientes y",
+			"llévales platos de comida."
+		},
+		Summary = "Anota los Pedidos"
+	},
+	[291507] = {
+		Title = "[Espera] Restaurante",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Completaste la misión del Carnaval de hoy. Vuelve mañana con la <NAVI>[Mesera]<INFO>brasilis,338,228,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Se reinicia a las 4 de la mañana."
+	},
+	[291508] = {
+		Title = "Carnaval: Mesa 1",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Lleva ^ff0000^nItemID^12044^000000 al <NAVI>[Cliente]<INFO>brasilis,348,231,0,101,0</INFO></NAVI>."
+		},
+		Summary = "1x Bife Marinado con Hierbas"
+	},
+	[291509] = {
+		Title = "Carnaval: Mesa 1",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Lleva ^ff0000^nItemID^12060^000000 al <NAVI>[Cliente]<INFO>brasilis,348,231,0,101,0</INFO></NAVI>."
+		},
+		Summary = "1x Murciélago en Calabaza"
+	},
+	[291510] = {
+		Title = "Carnaval: Mesa 2",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Lleva ^ff0000^nItemID^12055^000000 al <NAVI>[Cliente]<INFO>brasilis,329,224,0,101,0</INFO></NAVI>."
+		},
+		Summary = "1x Pan de Carne Picante"
+	},
+	[291511] = {
+		Title = "Carnaval: Mesa 2",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Lleva ^ff0000^nItemID^12050^000000 al <NAVI>[Cliente]<INFO>brasilis,329,224,0,101,0</INFO></NAVI>."
+		},
+		Summary = "1x Vino de Mastela"
+	},
+	[291512] = {
+		Title = "Carnaval: Mesa 3",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Lleva ^ff0000^nItemID^12065^000000 al <NAVI>[Cliente]<INFO>brasilis,339,217,0,101,0</INFO></NAVI>."
+		},
+		Summary = "1x Ensalada Verde"
+	},
+	[291513] = {
+		Title = "Carnaval: Mesa 3",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Lleva ^ff0000^nItemID^12068^000000 al <NAVI>[Cliente]<INFO>brasilis,339,217,0,101,0</INFO></NAVI>."
+		},
+		Summary = "1x Camote Frito"
+	},
+	[291514] = {
+		Title = "Carnaval: ¡Completo!",
+		IconName = "ico_ev.bmp",
+		Description = {""},
+		Summary = ""
+	},
+	[291515] = {
+		Title = "[Espera] Pase Diario",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"¡Completaste la misión de hoy!",
+			"Vuelve mañana después de la hora indicada para",
+			"continuar recolectando los Sellos!",
+			"",
+			"<NAVI>[Folklorista]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>"
+		},
+		Summary = "Se reinicia a las 4 de la mañana"
+	},
+	[291516] = {
+		Title = "Pase Diario: Día 1",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Elimina 30 monstruos en los campos de Amatsu (ama_fild01) y regresa con el <NAVI>[Folklorista]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Cacería en Amatsu"
+	},
+	[291517] = {
+		Title = "Pase Diario: Día 2",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Elimina 30 monstruos en los campos de Kunlun (gon_fild01) y regresa con el <NAVI>[Folklorista]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Cacería en Kunlun"
+	},
+	[291518] = {
+		Title = "Pase Diario: Día 3",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Elimina 30 monstruos en los campos de Ayothaya (ayo_fild02) y regresa con el <NAVI>[Folklorista]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Cacería en Ayothaya"
+	},
+	[291519] = {
+		Title = "Pase Diario: Día 4",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Elimina 30 monstruos en la Cueva de Louyang (lou_dun02) y regresa con el <NAVI>[Folklorista]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Cueva de Louyang"
+	},
+	[291520] = {
+		Title = "Pase Diario: Día 5",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Elimina 30 monstruos en la Cueva de Moscovia (mosk_dun02) y regresa con el <NAVI>[Folklorista]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Bosque Encantado"
+	},
+	[291521] = {
+		Title = "Pase Diario: Día 6",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Elimina 30 monstruos en la Cueva de Dewata (dew_dun02) y regresa con el <NAVI>[Folklorista]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Cueva Istana"
+	},
+	[291522] = {
+		Title = "Pase Diario: Día 7",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Elimina 30 monstruos en los campos de Brasilis (bra_fild01) y regresa con el <NAVI>[Folklorista]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Campos de Brasilis"
+	},
+	[291523] = {
+		Title = "Pase Diario: Día 8",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Elimina 30 monstruos en la Cueva de Brasilis (bra_dun01) y regresa con el <NAVI>[Folklorista]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Cueva de Brasilis"
+	},
+	[291524] = {
+		Title = "Pase Diario: Día 9",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Elimina 30 monstruos en la Cueva de Malangdo (mal_dun01) y regresa con el <NAVI>[Folklorista]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Cueva de Malangdo"
+	},
+	[291525] = {
+		Title = "Pase Diario: Día 10",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Elimina 30 monstruos en la Cueva de Puerto Malaya (ma_dun01) y regresa con el <NAVI>[Folklorista]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Cueva de Malaya"
+	},
 	[293428] = {
 		Title = "Viaje a otro mundo",
 		Description = {
@@ -71684,70 +71948,70 @@ Talk to Kar=],
 	[295259] = {
 		Title = "Pase de Batalla Diario 1",
 		Description = {
-			"Derrota a 80 Phen"
+			"Derrota a 5 Planta brillante"
 		},
-		Summary = "Derrota a 80 Phen"
+		Summary = "Derrota a 5 Planta brillante"
 	},
 	[295260] = {
 		Title = "Pase de Batalla Diario 1",
 		Description = {
-			"Derrota a Phen / Una vez al día, se reinicia a las 04:00"
+			"Derrota a Planta brillante / Una vez al día, se reinicia a las 04:00"
 		},
 		Summary = "Se reinicia a las 04:00"
 	},
 	[295261] = {
 		Title = "Pase de Batalla Diario 2",
 		Description = {
-			"Derrota a 2 Sacerdote oscuro furioso"
+			"Derrota a 4 Scaraba Dorado"
 		},
-		Summary = "Derrota a 2 Sacerdote oscuro furioso"
+		Summary = "Derrota a 4 Scaraba Dorado"
 	},
 	[295262] = {
 		Title = "Pase de Batalla Diario 2",
 		Description = {
-			"Derrota a Sacerdote oscuro furioso / Una vez al día, se reinicia a las 04:00"
+			"Derrota a Scaraba Dorado / Una vez al día, se reinicia a las 04:00"
 		},
 		Summary = "Se reinicia a las 04:00"
 	},
 	[295263] = {
 		Title = "Pase de Batalla Diario 3",
 		Description = {
-			"Entrega 888 Bananas"
+			"Entrega 1.000 Pociones Rojas."
 		},
-		Summary = "Entrega 888 Bananas"
+		Summary = "Entrega 1.000 Pociones Rojas."
 	},
 	[295264] = {
 		Title = "Pase de Batalla Diario 3",
 		Description = {
-			"Entrega Bananas / Una vez al día, se reinicia a las 04:00"
+			"Entrega Pociones Rojas / Una vez al día, se reinicia a las 04:00"
 		},
 		Summary = "Se reinicia a las 04:00"
 	},
 	[295265] = {
 		Title = "Pase de Batalla Diario 4",
 		Description = {
-			"Dona 500.000 Zeny"
+			"Entrega 10 Hierbas Azules."
 		},
-		Summary = "Dona 500.000 Zeny"
+		Summary = "Entrega 10 Hierbas Azules."
 	},
 	[295266] = {
 		Title = "Pase de Batalla Diario 4",
 		Description = {
-			"Dona Zeny / Una vez al día, se reinicia a las 04:00"
+			"Entrega Hierbas Azules. / Una vez al día, se reinicia a las 04:00"
 		},
 		Summary = "Se reinicia a las 04:00"
 	},
 	[295267] = {
 		Title = "Pase de Batalla Diario 5",
 		Description = {
-			"Derrota a 200 Terror nocturno rígido"
+			"Derrota a 5 Bijou"
 		},
-		Summary = "Derrota a 200 Terror nocturno rígido"
+		Summary = "Derrota a 5 Bijou"
 	},
 	[295268] = {
 		Title = "Pase de Batalla Diario 5",
 		Description = {
-			"Derrota a Terror nocturno rígido / Una vez por semana, se reinicia a las 04:00"
+			"Derrota a Bijou / Una vez por semana, se reinicia a las 04:00"
 		},
 		Summary = "Se reinicia a las 04:00"
 	},
@@ -72233,249 +72497,5 @@ Talk to Kar=],
 		NpcNavi = "geffen",
 		NpcPosX = 40,
 		NpcPosY = 141
-	},
-	[291494] = {
-		Title = "Carnaval",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"¡Para participar en el Carnaval, \n\t\t\t\t\tnecesitas el permiso de la Madre Naturaleza! \n\t\t\t\t\tEncuentra los 4 Elementos en la playa de Brasilis\n\t\t\t\t\ty regresa con el <NAVI>[Gerente del Evento]<INFO>brasilis,246,323,0,101,0</INFO></NAVI>."
-		},
-		Summary = "Playa de Brasilis"
-	},
-	[291495] = {
-		Title = "Carnaval: Piedra de Fuego",
-		IconName = "ico_ev.bmp",
-		Description = {""},
-		Summary = ""
-	},
-	[291496] = {
-		Title = "Carnaval: Piedra de Agua",
-		IconName = "ico_ev.bmp",
-		Description = {""},
-		Summary = ""
-	},
-	[291497] = {
-		Title = "Carnaval: Piedra del Viento",
-		IconName = "ico_ev.bmp",
-		Description = {""},
-		Summary = ""
-	},
-	[291498] = {
-		Title = "Carnaval: Piedra de Tierra",
-		IconName = "ico_ev.bmp",
-		Description = {""},
-		Summary = ""
-	},
-	[291499] = {
-		Title = "Carnaval: ¡Disfraz!",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"“¡No puedo perder el concurso de disfraces por su culpa!” \n\t\t\t\t- <NAVI>[Fernando]<INFO>brasilis,111,330,0,101,0</INFO></NAVI>."
-		},
-		Summary = "Elimina al monstruo"
-	},
-	[291500] = {
-		Title = "[Espera] ¡Disfraz!",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"Completaste la misión del Carnaval de hoy. Vuelve mañana con <NAVI>[Fernando]<INFO>brasilis,111,330,0,101,0</INFO></NAVI>."
-		},
-		Summary = "Se reinicia a las 4 de la mañana."
-	},
-	[291501] = {
-		Title = "Carnaval: Música Perdida",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"¡Los Porings Carnavalescos se comieron las instrucciones de baile!\n\t\t\t\tRecoge los siguientes objetos:\n\t\t\t\t2x ^ff0000^nItemID^6340^000000\n\t\t\t\t2x ^ff0000^nItemID^6341^000000\n\t\t\t\t2x ^ff0000^nItemID^6342^000000 \n\t\t\t\t2x ^ff0000^nItemID^6343^000000 \n\t\t\t\tY regresa con la <NAVI>[Sambista]<INFO>brasilis,201,145,0,101,0</INFO></NAVI>."
-		},
-		Summary = "Recoge los Objetos"
-	},
-	[291502] = {
-		Title = "[Espera] Música Perdida",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"Completaste la misión del Carnaval de hoy. Vuelve mañana con la <NAVI>[Sambista]<INFO>brasilis,201,145,0,101,0</INFO></NAVI>."
-		},
-		Summary = "Se reinicia a las 4 de la mañana."
-	},
-	[291503] = {
-		Title = "Carnaval: Violín Roto",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"¡Ve a la casa de <NAVI>[Vinícius]<INFO>bra_in01,163,131,0,101,0</INFO></NAVI>!\n\t\t\t\tÉl debe reparar el Violín si le llevas\n\t\t\t\t3x ^ff0000^nItemID^1002^000000\n\t\t\t\tDespués, lleva el Violín de vuelta\n\t\t\t\tal joven <NAVI>[Jobim]<INFO>brasilis,198,145,0,101,0</INFO></NAVI>."
-		},
-		Summary = "3x NOMBRE_OBJETO"
-	},
-	[291504] = {
-		Title = "[Espera] Violín Roto",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"Completaste la misión del Carnaval de hoy. Vuelve mañana con <NAVI>[Jobim]<INFO>brasilis,198,145,0,101,0</INFO></NAVI>."
-		},
-		Summary = "Se reinicia a las 4 de la mañana."
-	},
-	[291505] = {
-		Title = "Carnaval: Violín Roto",
-		IconName = "ico_ev.bmp",
-		Description = {""},
-		Summary = ""
-	},
-	[291506] = {
-		Title = "Carnaval: Restaurante",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"Ayuda a la pobre <NAVI>[Mesera]<INFO>brasilis,338,228,0,101,0</INFO></NAVI>.\n\t\t\t\tAcepta los pedidos de los clientes y\n\t\t\t\tllévales platos de comida."
-		},
-		Summary = "Anota los Pedidos"
-	},
-	[291507] = {
-		Title = "[Espera] Restaurante",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"Completaste la misión del Carnaval de hoy. Vuelve mañana con la <NAVI>[Mesera]<INFO>brasilis,338,228,0,101,0</INFO></NAVI>."
-		},
-		Summary = "Se reinicia a las 4 de la mañana."
-	},
-	[291508] = {
-		Title = "Carnaval: Mesa 1",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"Lleva ^ff0000^nItemID^12044^000000 al <NAVI>[Cliente]<INFO>brasilis,348,231,0,101,0</INFO></NAVI>."
-		},
-		Summary = "1x Bife Marinado con Hierbas"
-	},
-	[291509] = {
-		Title = "Carnaval: Mesa 1",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"Lleva ^ff0000^nItemID^12060^000000 al <NAVI>[Cliente]<INFO>brasilis,348,231,0,101,0</INFO></NAVI>."
-		},
-		Summary = "1x Murciélago en Calabaza"
-	},
-	[291510] = {
-		Title = "Carnaval: Mesa 2",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"Lleva ^ff0000^nItemID^12055^000000 al <NAVI>[Cliente]<INFO>brasilis,329,224,0,101,0</INFO></NAVI>."
-		},
-		Summary = "1x Pan de Carne Picante"
-	},
-	[291511] = {
-		Title = "Carnaval: Mesa 2",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"Lleva ^ff0000^nItemID^12050^000000 al <NAVI>[Cliente]<INFO>brasilis,329,224,0,101,0</INFO></NAVI>."
-		},
-		Summary = "1x Vino de Mastela"
-	},
-	[291512] = {
-		Title = "Carnaval: Mesa 3",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"Lleva ^ff0000^nItemID^12065^000000 al <NAVI>[Cliente]<INFO>brasilis,339,217,0,101,0</INFO></NAVI>."
-		},
-		Summary = "1x Ensalada Verde"
-	},
-	[291513] = {
-		Title = "Carnaval: Mesa 3",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"Lleva ^ff0000^nItemID^12068^000000 al <NAVI>[Cliente]<INFO>brasilis,339,217,0,101,0</INFO></NAVI>."
-		},
-		Summary = "1x Camote Frito"
-	},
-	[291514] = {
-		Title = "Carnaval: ¡Completo!",
-		IconName = "ico_ev.bmp",
-		Description = {""},
-		Summary = ""
-	},
-	[291515] = {
-		Title = "[Espera] Pase Diario",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"¡Completaste la misión de hoy!\n\t\t\t\tVuelve mañana después de la hora indicada para\n\t\t\t\tcontinuar recolectando los Sellos!\n\n\t\t\t\t           <NAVI>[Folklorista]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>"
-		},
-		Summary = "Se reinicia a las 4 de la mañana"
-	},
-	[291516] = {
-		Title = "Pase Diario: Día 1",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"Elimina 30 monstruos en los campos de Amatsu (ama_fild01) y regresa con el <NAVI>[Folklorista]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>."
-		},
-		Summary = "Cacería en Amatsu"
-	},
-	[291517] = {
-		Title = "Pase Diario: Día 2",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"Elimina 30 monstruos en los campos de Kunlun (gon_fild01) y regresa con el <NAVI>[Folklorista]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>."
-		},
-		Summary = "Cacería en Kunlun"
-	},
-	[291518] = {
-		Title = "Pase Diario: Día 3",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"Elimina 30 monstruos en los campos de Ayothaya (ayo_fild02) y regresa con el <NAVI>[Folklorista]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>."
-		},
-		Summary = "Cacería en Ayothaya"
-	},
-	[291519] = {
-		Title = "Pase Diario: Día 4",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"Elimina 30 monstruos en la Cueva de Louyang (lou_dun02) y regresa con el <NAVI>[Folklorista]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>."
-		},
-		Summary = "Cueva de Louyang"
-	},
-	[291520] = {
-		Title = "Pase Diario: Día 5",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"Elimina 30 monstruos en la Cueva de Moscovia (mosk_dun02) y regresa con el <NAVI>[Folklorista]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>."
-		},
-		Summary = "Bosque Encantado"
-	},
-	[291521] = {
-		Title = "Pase Diario: Día 6",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"Elimina 30 monstruos en la Cueva de Dewata (dew_dun02) y regresa con el <NAVI>[Folklorista]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>."
-		},
-		Summary = "Cueva Istana"
-	},
-	[291522] = {
-		Title = "Pase Diario: Día 7",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"Elimina 30 monstruos en los campos de Brasilis (bra_fild01) y regresa con el <NAVI>[Folklorista]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>."
-		},
-		Summary = "Campos de Brasilis"
-	},
-	[291523] = {
-		Title = "Pase Diario: Día 8",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"Elimina 30 monstruos en la Cueva de Brasilis (bra_dun01) y regresa con el <NAVI>[Folklorista]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>."
-		},
-		Summary = "Cueva de Brasilis"
-	},
-	[291524] = {
-		Title = "Pase Diario: Día 9",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"Elimina 30 monstruos en la Cueva de Malangdo (mal_dun01) y regresa con el <NAVI>[Folklorista]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>."
-		},
-		Summary = "Cueva de Malangdo"
-	},
-	[291525] = {
-		Title = "Pase Diario: Día 10",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"Elimina 30 monstruos en la Cueva de Puerto Malaya (ma_dun01) y regresa con el <NAVI>[Folklorista]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>."
-		},
-		Summary = "Cueva de Malaya"
 	}
 }

@@ -15686,9 +15686,9 @@
     },
     "TVNJX01JTEVBR0VfSEVMUA==": {
         "ko": "골드 PC방 마일리지는 최대 %d점까지 모을 수 있습니다.",
-        "en": "You can gather up to %d Gold PC cafe points.",
-        "pt": "You can gather up to %d Gold PC cafe points.",
-        "es": "Puedes conseguir hasta %d puntos de PC café Oro."
+        "en": "You can accumulate up to %d points of login time mileage.",
+        "pt": "É possível acumular até %d pontos de milhagem por tempo de conexão.",
+        "es": "Puedes acumular hasta %d puntos de millaje por tiempo de conexión."
     },
     "TVNJX1JFU1RSQUlOVF9PRl9UUkFERV8x": {
         "ko": "해당 서버에서 사용 할 수 없는 기능 입니다",

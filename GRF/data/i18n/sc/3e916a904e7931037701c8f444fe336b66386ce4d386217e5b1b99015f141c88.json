@@ -925,7 +925,7 @@
         "es": "[Sigmund Ting]\n¿Sabes lo que noté?\nLos guardias de la frontera\nhacia los barrios bajos, a veces,\nse distraen. Aproveché un momento\nen el que no estaban atentos\n¡y básicamente salté la valla!"
     },
     "mRnU": {
-        "en": "[Sigmund Ting]\nBut once I was in the \nslums, I was pretty bored.\nThere really isn't much to\ndo there. Which makes me\nwonder... Why guard it?",
+        "en": "[Sigmund Ting]\nBut once I was in the\nslums, I was pretty bored.\nThere really isn't much to\ndo there. Which makes me\nwonder... Why guard it?",
         "pt": "[Sigmund Ting]\nMas quando eu estava nas \nfavelas, fiquei bastante entediado.\nRealmente não há muito o que\nfazer lá. O que me faz\nquestionar... Por que guardá-las?",
         "es": "[Sigmund Ting]\nPero, una vez que llegué  \na los barrios bajos, me aburrí bastante.\nLa verdad es que no hay mucho\npara hacer allá. Lo que me hace\npreguntarme… ¿Para qué poner guardias?"
     },
@@ -1710,7 +1710,7 @@
         "es": "[Berru]\n¡Papá…! ¡Buaaaaa!\n¡Quiero a mi papá!"
     },
     "NhrU": {
-        "en": "[Pilia]\nBerru, I don't \nthink Daddy's coming\nhome tonight. Come on,\nwe should go to bed.",
+        "en": "[Pilia]\nBerru, I don't\nthink Daddy's coming\nhome tonight. Come on,\nwe should go to bed.",
         "pt": "[Berru]\nBerru, eu não \nacho que o papai virá\npara casa hoje. Venha,\ntemos que ir para a cama.",
         "es": "[Pilia]\nBerru, no creo \nque papá venga\na casa esta noche. Vamos,\nmejor vayamos a la cama."
     },
@@ -1865,7 +1865,7 @@
         "es": "[Mendigo]\nSiento como que creo en el destino\ny, a la vez, no creo en él. Te explicaré \nlo que quiero decir. Vivo la vida un día a la vez,\ny cada día cubre su propio espectro,\ncon milagros en^FFFFFF ^000000un extremo y tragedias en el otro."
     },
     "VRrU": {
-        "en": "[Beggar]\nSo each day has the capacity\nfor experiences that can be\ngood, bad or both. I believe\neach person can take an \nactive role in shaping their\ndestiny, day by day.",
+        "en": "[Beggar]\nSo each day has the capacity\nfor experiences that can be\ngood, bad or both. I believe\neach person can take an\nactive role in shaping their\ndestiny, day by day.",
         "pt": "[Pedinte]\nEntão, cada dia pode propiciar\nexperiências que podem ser\nboas, ruins ou ambas. Acredito que\nque cada pessoa pode assumir um \npapel ativo na formação de seu\ndestino, dia após dia.",
         "es": "[Mendigo]\nAsí que cada día puede ofrecerme\nexperiencias buenas, malas\no de los dos tipos. Creo\nque cada persona puede \ndesempeñar un rol activo en forjar\nsu destino día a día."
     },
@@ -1900,7 +1900,7 @@
         "es": "[Mendigo]\nNo dejes que esta ira\nte afecte si no quieres\nhacer el ridículo. Piensa en\nel panorama completo y, si\nla ira no se disipa, desahógate de una forma adecuada.^FFFFFF ^000000Con sinceridad y sin herir a nadie."
     },
     "XBrU": {
-        "en": "[Beggar]\nThe second kind of anger\nis righteous anger. You've\nbeen wronged and need \nsome form of retribution. \nJust don't misdirect your anger\nand respond appropriately.",
+        "en": "[Beggar]\nThe second kind of anger\nis righteous anger. You've\nbeen wronged and need\nsome form of retribution.\nJust don't misdirect your anger\nand respond appropriately.",
         "pt": "[Pedinte]\nO segundo tipo de raiva\né a justa. Você sofreu umainjustiça e precisa\nde alguma retribuição.\nApenas não direcione mal sua raiva\ne responda adequadamente.",
         "es": "[Mendigo]\nEl segundo tipo de ira\nes la ira justa. Has\nsufrido un agravio y necesitas \nalguna forma de retribución. \nProcura no desviar esa ira\ny responde de forma adecuada."
     },
@@ -1975,7 +1975,7 @@
         "es": "[{0}]\n¡Ah, no, claro que no!\n¡Te entregaré,\nratero!"
     },
     "axrU": {
-        "en": "[Suspicious Guy]\nNo...! I'm sorry!\nI'll give you back\nyour money, just \nlet me go! Crap!",
+        "en": "[Suspicious Guy]\nNo...! I'm sorry!\nI'll give you back\nyour money, just\nlet me go! Crap!",
         "pt": "[Sujeito Suspeito]\nNão...! Desculpa!\nEu devolvo\nseu dinheiro, apenas \nme deixe ir embora! Droga!",
         "es": "[Tipo sospechoso]\n¡No…! ¡Lo siento!\n¡Te devuelvo\nel dinero, solo \ndéjame ir! ¡Maldita sea!"
     },

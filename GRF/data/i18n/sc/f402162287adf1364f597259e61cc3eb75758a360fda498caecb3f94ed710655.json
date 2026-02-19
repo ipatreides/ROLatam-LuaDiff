@@ -5,27 +5,27 @@
         "es": "Thief Guía"
     },
     "wfTAAg": {
-        "en": "[Thief Guild Member]\nHuh? Do I know you? It's creepy that you seem so familiar.\nYou don't have a twin, do you?",
+        "en": "[Guild Representative]\nIt seems you have come this far due to a special connection.",
         "pt": "[Gatuna Ajudante]\nHã? Eu conheço você? É esquisito, parece tão familiar. \nVocê não tem um irmão gêmeo, tem?",
         "es": "[Miembro del gremio de Ladrones]\n¿Eh? ¿Te conozco? Me asusta que me parezcas tan familiar.\nNo tienes un gemelo, ¿verdad?"
     },
     "wvTAAg": {
-        "en": "[Thief Guild Member]\nWhat, do you want to be a Thief?\nI'm sorry, but you look like you need more training.",
+        "en": "^4D4DFF You can summon a service NPC for job change.\n^4D4DFF Booster promotion eligible players can change jobs through the job change agent.^000000",
         "pt": "[Gatuna Ajudante]\nO quê, você quer se juntar aos Gatunos?\nSinto muito, mas parece que você precisa de mais treinamento.",
         "es": "[Miembro del gremio de Ladrones]\n¿Qué, quieres ser Ladrón?\nLo siento, pero parece que te falta más entrenamiento."
     },
     "w/TAAg": {
-        "en": "[Thief Guild Member]\nTake your time and learn all the Basic Skills, will you?\nWell then, see you later~!",
+        "en": "Summon a job change agent for job change.",
         "pt": "[Gatuna Ajudante]\nNão tenha pressa e aprenda todas as Habilidades Básicas, tá bom?\nEntão, até depois~!",
         "es": "[Miembro del gremio de Ladrones]\nTómate tu tiempo y aprende todas las habilidades básicas, ¿quieres?\n¡Bueno, hasta luego!"
     },
     "xPTAAg": {
-        "en": "[Thief Guild Member]\nWell, I got this feeling like you've been through a lifetime of fighting, so I'm promoting you to a Thief right this minute.\nI better give you tough guys what you want...",
+        "en": "Decline.",
         "pt": "[Gatuna Ajudante]\nBem, tenho a sensação de que você já passou por uma vida inteira de luta, por isso estou mudando sua classe agora.\nParabéns...!",
         "es": "[Miembro del gremio de Ladrones]\nVaya, tengo la sensación de que llevas toda una vida luchando, así que te ascenderé a Ladrón ahora mismo.\nSi has luchado tanto como parece, mejor te doy lo que quieres…"
     },
     "xfTAAg": {
-        "en": "[Thief Guild Member]\nSince you've become a Thief, live as a Thief.\nNow, go for it! Next~",
+        "en": "^4D4DFF Booster promotion eligible players can change jobs through the job change agent.\nThird job change can also be done at each job guild.^000000",
         "pt": "[Gatuna Ajudante]\nJá que você se juntou aos Gatunos, viva na margem da sociedade.\nAgora, vida que segue! Próximo~",
         "es": "[Miembro del gremio de Ladrones]\nYa que te has convertido en Ladrón, vive como tal.\nAhora, ¡sal y vive! Siguiente."
     },
@@ -410,7 +410,7 @@
         "es": "[Persona sospechosa]\n¡Ey, Principiante!\n¿Quieres vivir una vida increíble? ¿Una vida más fácil?\nEntonces, conviértete en Ladrón y únete a nuestro gremio. Te daremos la bienvenida cuando quieras."
     },
     "EvXAAg": {
-        "en": "[Suspicious Person]\nYou can get more information in the Underground Room in the Pyramid 1 BF.",
+        "en": "...............",
         "pt": "[Chefe dos Gatunos]\nQuando entrar na Pirâmide, haverá uma placa com direções. Clique para ativar a navegação!",
         "es": "[Persona sospechosa]\nPuedes obtener más información en la Sala subterránea de la Pirámide 1 BF."
     }

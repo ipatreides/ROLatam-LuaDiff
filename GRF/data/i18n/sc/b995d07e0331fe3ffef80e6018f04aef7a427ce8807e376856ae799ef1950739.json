@@ -248,5 +248,20 @@
         "en": "Buy Morroc Solution.",
         "pt": "Comprar Solução de Morroc",
         "es": "Comprar solución Morroc."
+    },
+    "EmG8Ag": {
+        "en": "[Guild Member]\nIt seems you have come this far due to a special connection."
+    },
+    "E2G8Ag": {
+        "en": "^4D4DFF You can summon a service NPC for job change.\n^4D4DFF Booster promotion eligible players can change jobs through the job change agent.^000000"
+    },
+    "FGG8Ag": {
+        "en": "Summon a job change agent for job change."
+    },
+    "FWG8Ag": {
+        "en": "Decline."
+    },
+    "FmG8Ag": {
+        "en": "^4D4DFF Booster promotion eligible players can change jobs through the job change agent.\nThird job change can also be done at each job guild.^000000"
     }
 }

@@ -22,6 +22,44 @@ RecommendedQuestInfoList = {
 		}
 	},
 	[2] = {
+		Title = "New Job: Star Emperor",
+		IconName = "ico_jq.bmp",
+		Summary = "The sun and the moon... and the stars",
+		BgName = "reco_02.bmp",
+		QuestInfo1 = {
+			"The one who mastered the universe!",
+			"The job change to Star Emperor is here.",
+			"Find <NAVI>[Man in Star Emperor Uniform]<INFO>payon.gat,171,171,0,101,0</INFO></NAVI> and ask about the way to Meteor Forest. Hear his words, understand the force within the Sun and Moon, and feel the force of the Universe."
+		},
+		QuestInfo2 = {
+			"Conditions:",
+			"Taekwon Master",
+			"Lv.99/50"
+		},
+		QuestInfo3 = {
+			"^ff0000* This page is an announcement for new content.^000000"
+		}
+	},
+	[3] = {
+		Title = "New Job: Soul Reaper",
+		IconName = "ico_jq.bmp",
+		Summary = "Soul Eater",
+		BgName = "reco_03.bmp",
+		QuestInfo1 = {
+			"The new Soul Reaper job arrived.",
+			"Find the troubled <NAVI>[Banyak]<INFO>pay_fild08.gat,51,82,0,101,0</INFO></NAVI> and help him to solve all his problems to follow the Soul Reaper path.",
+			"Obtaining souls is not something as simple as it seems."
+		},
+		QuestInfo2 = {
+			"Conditions:",
+			"Soul Linker",
+			"Lv.99/50"
+		},
+		QuestInfo3 = {
+			"^ff0000* This page is an announcement for new content.^000000"
+		}
+	},
+	[4] = {
 		Title = "Illusion of Underwater",
 		IconName = "ico_sc.bmp",
 		Summary = "Uncover the deep sea cave's secret!",

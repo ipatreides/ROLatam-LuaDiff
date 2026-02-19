@@ -63,13 +63,13 @@
         "ko": "[OSC1198]\n장비를 벗고 계신건 아닌가요?",
         "en": "[OSC1198]\nAren't you unequipped?",
         "pt": "[OSC1198]\nVocê não está sem equipamento, está?",
-        "es": "[OSC1198]\n¿No estarás sin equipo, verdad?"
+        "es": "[OSC1198]\nNo estarás sin equipo, ¿verdad?"
     },
     "63CnDA": {
         "ko": "^FF0000랜덤옵션이 확인됩니다. 해당 장비는 작업 하실 수 없습니다.^000000",
         "en": "^FF0000Random options have been detected. You cannot work on this equipment.^000000",
         "pt": "^FF0000Não é possível prosseguir. O item contém Bônus Aleatórios.^000000\"",
-        "es": "^FF0000No es posible proceder. El ítem contiene Bonificaciones Aleatorias.^000000\""
+        "es": "^FF0000No es posible continuar. El objeto contiene Bonos Aleatorios.^000000"
     },
     "7HCnDA": {
         "ko": "국왕 슈미츠의 제복",
@@ -81,19 +81,19 @@
         "ko": "저주에 잠식되는 결정",
         "en": "Crystal Corrupted by Curse",
         "pt": "Gema Corrompida",
-        "es": "Gema Corrupta"
+        "es": "Mineral Corrompido"
     },
     "7nCnDA": {
         "ko": "국왕 슈미츠의 망토",
         "en": "King Schmidt's Manteau",
         "pt": "Manto de Schmidt",
-        "es": "Manto de Schmidt"
+        "es": "Capa de Schmidt"
     },
     "73CnDA": {
         "ko": "국왕 슈미츠의 강인휘장",
         "en": "King Schmidt's Badge of Fortitude",
         "pt": "Brasão de Schmidt FOR",
-        "es": "Insignia de Schmidt FUE"
+        "es": "Blasón de Schmidt FUE"
     },
     "8HCnDA": {
         "ko": "저주에 침식된 원석",
@@ -105,37 +105,37 @@
         "ko": "국왕 슈미츠의 신력휘장",
         "en": "King Schmidt's Badge of Divine Power",
         "pt": "Brasão de Schmidt INT",
-        "es": "Insignia de Schmidt INT"
+        "es": "Blasón de Schmidt INT"
     },
     "8nCnDA": {
         "ko": "국왕 슈미츠의 백운휘장",
         "en": "King Schmidt's Badge of White Cloud",
         "pt": "Brasão de Schmidt SOR",
-        "es": "Insignia de Schmidt SUE"
+        "es": "Blasón de Schmidt SUE"
     },
     "83CnDA": {
         "ko": "국왕 슈미츠의 강체휘장",
         "en": "King Schmidt's Badge of Strong Body",
         "pt": "Brasão de Schmidt VIT",
-        "es": "Insignia de Schmidt VIT"
+        "es": "Blasón de Schmidt VIT"
     },
     "9HCnDA": {
         "ko": "국왕 슈미츠의 섬광휘장",
         "en": "King Schmidt's Badge of Flash",
         "pt": "Brasão de Schmidt AGI",
-        "es": "Insignia de Schmidt AGI"
+        "es": "Blasón de Schmidt AGI"
     },
     "9XCnDA": {
         "ko": "국왕 슈미츠의 천궁휘장",
         "en": "King Schmidt's Badge of Sky Palace",
         "pt": "Brasão de Schmidt DES",
-        "es": "Insignia de Schmidt DES"
+        "es": "Blasón de Schmidt DES"
     },
     "9nCnDA": {
         "ko": "[OSC1198]\n이 장비는 슈미츠왕의 유물이 아닙니다. 분해할 수 없습니다.",
         "en": "[OSC1198]\nThis equipment is not a relic of King Schmidt. It cannot be dismantled.",
         "pt": "[OSC1198]\nNão posso prosseguir. O item equipado não é um espólio do Rei Schmidt.",
-        "es": "[OSC1198]\nNo puedo proceder. El ítem equipado no es un botín del Rey Schmidt."
+        "es": "[OSC1198]\nNo puedo continuar. El objeto equipado no es un botín del Rey Schmidt."
     },
     "93CnDA": {
         "ko": "[OSC1198]\n최소한 1회 이상의 강화를 시도했던 장비만 분해해 드리고 있습니다.",
@@ -207,49 +207,49 @@
         "ko": "국왕 슈미츠의 망토",
         "en": "King Schmidt's Manteau",
         "pt": "Manto de Schmidt",
-        "es": "Manto de Schmidt"
+        "es": "Capa de Schmidt"
     },
     "A3GnDA": {
         "ko": "국왕 슈미츠의 강인휘장",
         "en": "King Schmidt's Badge of Fortitude",
         "pt": "Brasão de Schmidt FOR",
-        "es": "Insignia de Schmidt FUE"
+        "es": "Blasón de Schmidt FUE"
     },
     "BHGnDA": {
         "ko": "국왕 슈미츠의 신력휘장",
         "en": "King Schmidt's Badge of Divine Power",
         "pt": "Brasão de Schmidt INT",
-        "es": "Insignia de Schmidt INT"
+        "es": "Blasón de Schmidt INT"
     },
     "BXGnDA": {
         "ko": "국왕 슈미츠의 백운휘장",
         "en": "King Schmidt's Badge of White Cloud",
         "pt": "Brasão de Schmidt SOR",
-        "es": "Insignia de Schmidt SUE"
+        "es": "Blasón de Schmidt SUE"
     },
     "BnGnDA": {
         "ko": "국왕 슈미츠의 강체휘장",
         "en": "King Schmidt's Badge of Strong Body",
         "pt": "Brasão de Schmidt VIT",
-        "es": "Insignia de Schmidt VIT"
+        "es": "Blasón de Schmidt VIT"
     },
     "B3GnDA": {
         "ko": "국왕 슈미츠의 섬광휘장",
         "en": "King Schmidt's Badge of Flash",
         "pt": "Brasão de Schmidt AGI",
-        "es": "Insignia de Schmidt AGI"
+        "es": "Blasón de Schmidt AGI"
     },
     "CHGnDA": {
         "ko": "국왕 슈미츠의 천궁휘장",
         "en": "King Schmidt's Badge of Sky Palace",
         "pt": "Brasão de Schmidt DES",
-        "es": "Insignia de Schmidt DES"
+        "es": "Blasón de Schmidt DES"
     },
     "CXGnDA": {
         "ko": "[OSC1052]\n몰락한 글래스트헤임의 유물을 보관하고 있습니다. 원하는 물건의 정보를 입력해 주십시오.",
         "en": "[OSC1052]\nI am keeping the relics of Fallen Glastheim. Please enter the information for the item you want.",
         "pt": "[OSC1052]\nMinha função é trocar os minérios Corrompidos por espólios do Rei Schmidt.",
-        "es": "[OSC1052]\nMi función es intercambiar los minerales Corruptos por botines del Rey Schmidt."
+        "es": "[OSC1052]\nMi función es intercambiar las reliquias Corrompidas por bienes del Rey Schmidt."
     },
     "CnGnDA": {
         "ko": "[OSC1052]\n또 들러주십시오. 차원의 가호를 받으신 분들은 언제나 환영합니다.",
@@ -273,13 +273,13 @@
         "ko": "국왕 슈미츠의 망토",
         "en": "King Schmidt's Manteau",
         "pt": "Manto de Schmidt",
-        "es": "Manto de Schmidt"
+        "es": "Capa de Schmidt"
     },
     "DnGnDA": {
         "ko": "국왕 슈미츠의 강인휘장",
         "en": "King Schmidt's Badge of Fortitude",
         "pt": "Brasão de Schmidt FOR",
-        "es": "Insignia de Schmidt FUE"
+        "es": "Blasón de Schmidt FUE"
     },
     "D3GnDA": {
         "ko": "오염된 마력",
@@ -291,31 +291,31 @@
         "ko": "국왕 슈미츠의 신력휘장",
         "en": "King Schmidt's Badge of Divine Power",
         "pt": "Brasão de Schmidt INT",
-        "es": "Insignia de Schmidt INT"
+        "es": "Blasón de Schmidt INT"
     },
     "EXGnDA": {
         "ko": "국왕 슈미츠의 백운휘장",
         "en": "King Schmidt's Badge of White Cloud",
         "pt": "Brasão de Schmidt SOR",
-        "es": "Insignia de Schmidt SUE"
+        "es": "Blasón de Schmidt SUE"
     },
     "EnGnDA": {
         "ko": "국왕 슈미츠의 강체휘장",
         "en": "King Schmidt's Badge of Strong Body",
         "pt": "Brasão de Schmidt VIT",
-        "es": "Insignia de Schmidt VIT"
+        "es": "Blasón de Schmidt VIT"
     },
     "E3GnDA": {
         "ko": "국왕 슈미츠의 섬광휘장",
         "en": "King Schmidt's Badge of Flash",
         "pt": "Brasão de Schmidt AGI",
-        "es": "Insignia de Schmidt AGI"
+        "es": "Blasón de Schmidt AGI"
     },
     "FHGnDA": {
         "ko": "국왕 슈미츠의 천궁휘장",
         "en": "King Schmidt's Badge of Sky Palace",
         "pt": "Brasão de Schmidt DES",
-        "es": "Insignia de Schmidt DES"
+        "es": "Blasón de Schmidt DES"
     },
     "FXGnDA": {
         "ko": "[OSC1052]\n[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\n===============\n[필요재료]\n[<ITEM>{2}<INFO>{3}</INFO></ITEM>] {4}개\n[<ITEM>{5}<INFO>{6}</INFO></ITEM>] {7}개",

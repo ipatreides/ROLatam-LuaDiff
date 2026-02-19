@@ -242,7 +242,7 @@
     "MLhMCg": {
         "en": "[Request Completed]\nLocation: Payon South Field\nTarget: Defeat 5 Willows and collect 3 Barren Trunks\nReward: Exp 800, Jexp 800",
         "pt": "[Solicitação Concluída]\nLocalização: Campos ao Sul de Payon\nObjetivo: Derrotar 5 Willows e coletar 3 Troncos Estéreis\nRecompensa: Exp 800, Jexp 800",
-        "es": "[Solicitud completada]\nUbicación: Campo del sur de Payon.\nObjetivo: Derrota a 5Sauces y recolecta 3Troncos secos.\nPremio: 800deEXP y 800deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Campo del sur de Payon.\nObjetivo: Derrota a 5 Sauces y recolecta 3 Troncos secos.\nPremio: 800 deEXP y 800 de EXP de clase."
     },
     "MbhMCg": {
         "en": "This request has already been completed.",
@@ -252,7 +252,7 @@
     "MrhMCg": {
         "en": "[Request from a nervous middle-aged man]\nLocation: Payon South Field\nTarget: Defeat 5 Willows and collect 3 Barren Trunks\nReward: Exp 800, Jexp 800",
         "pt": "[Solicitação de um homem de meia-idade nervoso]\nLocalização: Campos ao Sul de Payon\nObjetivo: Derrotar 5 Willows e coletar 3 Troncos Estéreis\nRecompensa: Exp 800, Jexp 800",
-        "es": "[Solicitud de un hombre nervioso de mediana edad]\nUbicación: Campo del sur de Payon.\nObjetivo: Derrota a 5Sauces y recolecta 3Troncos secos.\nPremio: 800deEXP y 800deEXPdeclase."
+        "es": "[Solicitud de un hombre nervioso de mediana edad]\nUbicación: Campo del sur de Payon.\nObjetivo: Derrota a 5 Sauces y recolecta 3 Troncos secos.\nPremio: 800 de EXP y 800 de EXP de clase."
     },
     "M7hMCg": {
         "en": "Accept.",
@@ -272,12 +272,12 @@
     "NrhMCg": {
         "en": "[Request Completed]\nLocation: Payon East Field\nTarget: Defeat 5 Boa\nReward: Exp 1600, Jexp 1400",
         "pt": "[Missão Completa]\nLocal: Leste de Payon\nObjetivo: Caçar 5 Jiboias\nRecompensa: EXP base 1600, EXP classe 1400",
-        "es": "[Solicitud completada]\nUbicación: Campo del este de Payon.\nObjetivo: Derrota a 5Boas.\nPremio: 1600deEXP y 1400deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Campo del este de Payon.\nObjetivo: Derrota a 5 Boas.\nPremio: 1600 de EXP y 1400 de EXP de clase."
     },
     "N7hMCg": {
         "en": "[Request from a worried girl]\nLocation: Payon East Field\nTarget: Defeat 5 Boa\nReward: Exp 1600, Jexp 1400",
         "pt": "[Solicitação]\nLocal: Leste de Payon\nObjetivo: Caçar 5 Jiboias\nRecompensa: EXP base 1600, EXP classe 1400",
-        "es": "[Solicitud de una chica preocupada]\nUbicación: Campo del este de Payon.\nObjetivo: Derrota a 5Boas.\nPremio: 1600deEXP y 1400deEXPdeclase."
+        "es": "[Solicitud de una chica preocupada]\nUbicación: Campo del este de Payon.\nObjetivo: Derrota a 5 Boas.\nPremio: 1600 de EXP y 1400 de EXP de clase."
     },
     "OLhMCg": {
         "en": "Request from a worried girl in Payon\n^4D4DFF[Professional Snake Hunter]^000000 Quest accepted.",
@@ -287,12 +287,12 @@
     "ObhMCg": {
         "en": "[Request Completed]\nLocation: Payon East Field\nTarget: Defeat 5 Wormtail\nReward: Exp 1600, Jexp 1400",
         "pt": "[Missão Completa]\nLocal: Leste de Payon\nObjetivo: Caçar 5 Rabo-de-Verme\nRecompensa: EXP base 1600, EXP classe 1400",
-        "es": "[Solicitud completada]\nUbicación: Campo del este de Payon.\nObjetivo: Derrota a 5Colas de gusano.\nPremio: 1600deEXP y 1400deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Campo del este de Payon.\nObjetivo: Derrota a 5 Colas de gusano.\nPremio: 1600 de EXP y 1400 de EXP de clase."
     },
     "OrhMCg": {
         "en": "[Request from a worried grandmother]\nLocation: Payon East Field\nTarget: Defeat 5 Wormtail\nReward: Exp 1600, Jexp 1400",
         "pt": "[Solicitação]\nLocal: Leste de Payon\nObjetivo: Caçar 5 Rabo-de-Verme\nRecompensa: EXP base 1600, EXP classe 1400",
-        "es": "[Solicitud de una abuela preocupada]\nUbicación: Campo del este de Payon.\nObjetivo: Derrota a 5Colas de gusano.\nPremio: 1600deEXP y 1400deEXPdeclase."
+        "es": "[Solicitud de una abuela preocupada]\nUbicación: Campo del este de Payon.\nObjetivo: Derrota a 5 Colas de gusano.\nPremio: 1600 de EXP y 1400 de EXP de clase."
     },
     "O7hMCg": {
         "en": "Request from a worried grandmother in Payon\n^4D4DFF[Noxious Onion]^000000 Quest accepted.",
@@ -302,12 +302,12 @@
     "PLhMCg": {
         "en": "[Request Completed]\nLocation: Payon East Field\nTarget: Defeat 10 Spore\nReward: Exp 3000, Jexp 2000",
         "pt": "[Missão Completa]\nLocal: Leste de Payon\nObjetivo: Caçar 10 Esporos\nRecompensa: EXP base 3000, EXP classe 2000",
-        "es": "[Solicitud completada]\nUbicación: Campo del este de Payon.\nObjetivo: Derrota a 10Esporas.\nPremio: 3000deEXP y 2000deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Campo del este de Payon.\nObjetivo: Derrota a 10 Esporas.\nPremio: 3000 de EXP y 2000 de EXP de clase."
     },
     "PbhMCg": {
         "en": "[Request from a worried grandfather]\nLocation: Payon East Field\nTarget: Defeat 10 Spore\nReward: Exp 3000, Jexp 2000",
         "pt": "[Solicitação]\nLocal: Leste de Payon\nObjetivo: Caçar 10 Esporos\nRecompensa: EXP base 3000, EXP classe 2000",
-        "es": "[Solicitud de un abuelo preocupado]\nUbicación: Campo del este de Payon.\nObjetivo: Derrota a 10Esporas.\nPremio: 3000deEXP y 2000deEXPdeclase."
+        "es": "[Solicitud de un abuelo preocupado]\nUbicación: Campo del este de Payon.\nObjetivo: Derrota a 10 Esporas.\nPremio: 3000 deEXP y 2000 de EXP de clase."
     },
     "PrhMCg": {
         "en": "Request from a worried grandfather in Payon\n^4D4DFF[Mushroom Paradise]^000000 Quest accepted.",
@@ -322,12 +322,12 @@
     "QLhMCg": {
         "en": "[Request Completed]\nLocation: Prontera West Field\nTarget: Defeat 10 Hornet\nReward: Exp 1200, Jexp 1000",
         "pt": "[Missão Completa]\nLocal: Oeste de Prontera\nObjetivo: Caçar 10 Zangões\nRecompensa: EXP base 1200, EXP classe 1000",
-        "es": "[Solicitud completada]\nUbicación: Campo del oeste de Prontera.\nObjetivo: Derrota a 10Avispones.\nPremio: 1200deEXP y 1000deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Campo del oeste de Prontera.\nObjetivo: Derrota a 10 Avispones.\nPremio: 1200 de EXP y 1000 de EXP de clase."
     },
     "QbhMCg": {
         "en": "[Paul's Request Outside Prontera's West Gate]\nLocation: Prontera West Field\nTarget: Defeat 10 Hornet\nReward: Exp 1200, Jexp 1000",
         "pt": "[Solicitação]\nLocal: Oeste de Prontera\nObjetivo: Caçar 10 Zangões\nRecompensa: EXP base 1200, EXP classe 1000",
-        "es": "[Solicitud de Paul afuera de la puerta oeste de Prontera]\nUbicación: Campo del oeste de Prontera.\nObjetivo: Derrota a 10Avispones.\nPremio: 1200deEXP y 1000deEXPdeclase."
+        "es": "[Solicitud de Paul afuera de la puerta oeste de Prontera]\nUbicación: Campo del oeste de Prontera.\nObjetivo: Derrota a 10 Avispones.\nPremio: 1200 de EXP y 1000 de EXP de clase."
     },
     "QrhMCg": {
         "en": "Paul's Request Outside Prontera's West Gate\n^4D4DFF[Playground Stabilization Operation - Hornet]^000000 Quest accepted.",
@@ -337,12 +337,12 @@
     "Q7hMCg": {
         "en": "[Request Completed]\nLocation: Prontera Southwest Field\nTarget: Defeat 10 Rocker\nReward: Exp 1600, Jexp 1400",
         "pt": "[Missão Completa]\nLocal: Sudoeste de Prontera\nObjetivo: Caçar 10 Rockers\nRecompensa: EXP base 1600, EXP classe 1400",
-        "es": "[Solicitud completada]\nUbicación: Campo del suroeste de Prontera.\nObjetivo: Derrota a 10Rockeros.\nPremio: 1600deEXP y 1400deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Campo del suroeste de Prontera.\nObjetivo: Derrota a 10 Rockeros.\nPremio: 1600 de EXP y 1400 de EXP de clase."
     },
     "RLhMCg": {
         "en": "[Paul's Request Outside Prontera's West Gate]\nLocation: Prontera Southwest Field\nTarget: Defeat 10 Rocker\nReward: Exp 1600, Jexp 1400",
         "pt": "[Solicitação]\nLocal: Sudoeste de Prontera\nObjetivo: Caçar 10 Rockers\nRecompensa: EXP base 1600, EXP classe 1400",
-        "es": "[Solicitud de Paul afuera de la puerta oeste de Prontera]\nUbicación: Campo del suroeste de Prontera.\nObjetivo: Derrota a 10Rockeros.\nPremio: 1600deEXP y 1400deEXPdeclase."
+        "es": "[Solicitud de Paul afuera de la puerta oeste de Prontera]\nUbicación: Campo del suroeste de Prontera.\nObjetivo: Derrota a 10 Rockeros.\nPremio: 1600 de EXP y 1400 de EXP de clase."
     },
     "RbhMCg": {
         "en": "Paul's Request Outside Prontera's West Gate\n^4D4DFF[Playground Stabilization Operation - Rocker]^000000 Quest accepted.",
@@ -352,12 +352,12 @@
     "RrhMCg": {
         "en": "[Request Completed]\nLocation: Prontera Field\nTarget: Defeat 10 Ambernite\nReward: Exp 2000, Jexp 2000",
         "pt": "[Missão Completa]\nLocal: Noroeste de Prontera\nObjetivo: Caçar 10 Ambernites\nRecompensa: EXP base 2000, EXP classe 2000",
-        "es": "[Solicitud completada]\nUbicación: Campo de Prontera.\nObjetivo: Derrota a 10Ambarnitos.\nPremio: 2000deEXP y 2000deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Campo de Prontera.\nObjetivo: Derrota a 10 Ambarnitos.\nPremio: 2000 de EXP y 2000 de EXP de clase."
     },
     "R7hMCg": {
         "en": "[Anne's Request Outside Prontera's West Gate]\nLocation: Prontera Field\nTarget: Defeat 10 Ambernite\nReward: Exp 2000, Jexp 2000",
         "pt": "[Solicitação]\nLocal: Noroeste de Prontera\nObjetivo: Caçar 10 Ambernites\nRecompensa: EXP base 2000, EXP classe 2000",
-        "es": "[Solicitud de Anne afuera de la puerta oeste de Prontera]\nUbicación: Campo de Prontera.\nObjetivo: Derrota a 10Ambarnitos.\nPremio: 2000deEXP y 2000deEXPdeclase."
+        "es": "[Solicitud de Anne afuera de la puerta oeste de Prontera]\nUbicación: Campo de Prontera.\nObjetivo: Derrota a 10 Ambarnitos.\nPremio: 2000 de EXP y 2000 de EXP de clase."
     },
     "SLhMCg": {
         "en": "Anne's Request Outside Prontera's West Gate\n^4D4DFF[The legendary knight, Ambernite!]^000000 Quest accepted.",
@@ -367,12 +367,12 @@
     "SbhMCg": {
         "en": "[Request Completed]\nLocation: Payon Dungeon 1st floor\nTarget: Defeat 10 Zombies and 20 Skeletons\nReward: Exp 3200, Jexp 3000",
         "pt": "[Missão Completa]\nLocal: Caverna de Payon\nObjetivo: Caçar 10 Zumbis e 20 Esqueletos\nRecompensa: EXP base 3200, EXP classe 3000",
-        "es": "[Solicitud completada]\nUbicación: Piso1 de la Mazmorra de Payon.\nObjetivo: Derrota a 10Zombis y 20Esqueletos.\nPremio: 3200deEXP y 3000deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Piso1 de la Mazmorra de Payon.\nObjetivo: Derrota a 10 Zombis y 20 Esqueletos.\nPremio: 3200 de EXP y 3000 de EXP de clase."
     },
     "SrhMCg": {
         "en": "[Request from the guard in front of the Payon Dungeon entrance]\nLocation: Payon Dungeon 1st floor\nTarget: Defeat 10 Zombies and 20 Skeletons\nReward: Exp 3200, Jexp 3000",
         "pt": "[Solicitação]\nLocal: Caverna de Payon\nObjetivo: Caçar 10 Zumbis e 20 Esqueletos\nRecompensa: EXP base 3200, EXP classe 3000",
-        "es": "[Solicitud del guardia frente a la entrada de la Mazmorra de Payon]\nUbicación: Piso1 de la Mazmorra de Payon.\nObjetivo: Derrota a 10Zombis y 20Esqueletos.\nPremio: 3200deEXP y 3000deEXPdeclase."
+        "es": "[Solicitud del guardia frente a la entrada de la Mazmorra de Payon]\nUbicación: Piso1 de la Mazmorra de Payon.\nObjetivo: Derrota a 10 Zombis y 20 Esqueletos.\nPremio: 3200 de EXP y 3000 de EXP de clase."
     },
     "S7hMCg": {
         "en": "Request from the guard in front of the Payon Dungeon entrance\n^4D4DFF[Undead War]^000000 Quest accepted.",
@@ -382,12 +382,12 @@
     "TLhMCg": {
         "en": "[Request Completed]\nLocation: Izlude Southwest Field\nTarget: Defeat 10 Muka and 10 Peco Peco\nReward: Exp 4800, Jexp 4200",
         "pt": "[Missão Completa]\nLocal: Sul de Izlude\nObjetivo: Caçar 10 Mukas e 10 PecoPecos\nRecompensa: EXP base 4800, EXP classe 4200",
-        "es": "[Solicitud completada]\nUbicación: Campo del suroeste de Izlude.\nObjetivo: Derrota a 10Muka y 10Peco Peco.\nPremio: 4800deEXP y 4200deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Campo del suroeste de Izlude.\nObjetivo: Derrota a 10 Muka y 10 Peco Peco.\nPremio: 4800 de EXP y 4200 de EXP de clase."
     },
     "TbhMCg": {
         "en": "[Request from Izlude Instructor Fontes]\nLocation: Izlude Southwest Field\nTarget: Defeat 10 Muka and 10 Peco Peco\nReward: Exp 4800, Jexp 4200",
         "pt": "[Solicitação]\nLocal: Sul de Izlude\nObjetivo: Caçar 10 Mukas e 10 PecoPecos\nRecompensa: EXP base 4800, EXP classe 4200",
-        "es": "[Solicitud de la instructora Pontis en Izlude]\nUbicación: Campo del suroeste de Izlude.\nObjetivo: Derrota a 10Muka y 10Peco Peco.\nPremio: 4800deEXP y 4200deEXPdeclase."
+        "es": "[Solicitud de la instructora Pontis en Izlude]\nUbicación: Campo del suroeste de Izlude.\nObjetivo: Derrota a 10 Muka y 10 Peco Peco.\nPremio: 4800 de EXP y 4200 de EXP de clase."
     },
     "TrhMCg": {
         "en": "Request from Izlude Instructor Fontes\n^4D4DFF[Noisy Fellows]^000000 Quest accepted.",
@@ -397,12 +397,12 @@
     "T7hMCg": {
         "en": "[Request Completed]\nLocation: Comodo Dungeon\nTarget: Defeat 10 Thara Frog and collect 10 Sticky Webfoot\nReward: Exp 5500, Jexp 5500",
         "pt": "[Missão Completa]\nLocal: Caverna Mao\nObjetivo: Caçar 10 Sapos de Thara e coletar 10 Patas Pegajosas\nRecompensa: EXP base 5500, EXP classe 5500",
-        "es": "[Solicitud completada]\nUbicación: Mazmorra de Comodo.\nObjetivo: Derrota a 10RanasThara y recolecta 10Pataspalmípedaspegajosas.\nPremio: 5500deEXP y 5500deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Mazmorra de Comodo.\nObjetivo: Derrota a 10 Ranas Thara y recolecta 10 Patas palmípedas pegajosas.\nPremio: 5500 de EXP y 5500 de EXP de clase."
     },
     "ULhMCg": {
         "en": "[Request from Comodo Chef BabiQ]\nLocation: Comodo Dungeon\nTarget: Defeat 10 Thara Frog and collect 10 Sticky Webfoot\nReward: Exp 5500, Jexp 5500",
         "pt": "[Solicitação]\nLocal: Caverna Mao\nObjetivo: Caçar 10 Sapos de Thara e coletar 10 Patas Pegajosas\nRecompensa: EXP base 5500, EXP classe 5500",
-        "es": "[Solicitud del chef Dito Asadito en Comodo]\nUbicación: Mazmorra de Comodo.\nObjetivo: Derrota a 10RanasThara y recolecta 10Pataspalmípedaspegajosas.\nPremio: 5500deEXP y 5500deEXPdeclase."
+        "es": "[Solicitud del chef Dito Asadito en Comodo]\nUbicación: Mazmorra de Comodo.\nObjetivo: Derrota a 10 Ranas Thara y recolecta 10 Patas palmípeda spegajosas.\nPremio: 5500 de EXP y 5500 de EXP de clase."
     },
     "UbhMCg": {
         "en": "Request from Comodo Chef BabiQ\n^4D4DFF[BabiQ's Cooking Hell]^000000 Quest accepted.",
@@ -412,12 +412,12 @@
     "UrhMCg": {
         "en": "[Request Completed]\nLocation: Comodo Dungeon\nTarget: Defeat 10 Hydra and collect 5 Tentacle\nReward: Exp 5500, Jexp 5500",
         "pt": "[Missão Completa]\nLocal: Caverna Mao\nObjetivo: Caçar 10 Hidras e coletar 5 Tentáculos\nRecompensa: EXP base 5500, EXP classe 5500",
-        "es": "[Solicitud completada]\nUbicación: Mazmorra de Comodo.\nObjetivo: Derrota a 10Hidras y recoge 5Tentáculos.\nPremio: 5500deEXP y 5500deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Mazmorra de Comodo.\nObjetivo: Derrota a 10 Hidras y recoge 5 Tentáculos.\nPremio: 5500 de EXP y 5500 de EXP de clase."
     },
     "U7hMCg": {
         "en": "[Request from Comodo Chef BabiQ]\nLocation: Comodo Dungeon\nTarget: Defeat 10 Hydra and collect 5 Tentacle\nReward: Exp 5500, Jexp 5500",
         "pt": "[Solicitação]\nLocal: Caverna Mao\nObjetivo: Caçar 10 Hidras e coletar 5 Tentáculos\nRecompensa: EXP base 5500, EXP classe 5500",
-        "es": "[Solicitud del chef Dito Asadito en Comodo]\nUbicación: Mazmorra de Comodo.\nObjetivo: Derrota a 10Hidras y recoge 5Tentáculos.\nPremio: 5500deEXP y 5500deEXPdeclase."
+        "es": "[Solicitud del chef Dito Asadito en Comodo]\nUbicación: Mazmorra de Comodo.\nObjetivo: Derrota a 10 Hidras y recoge 5 Tentáculos.\nPremio: 5500 de EXP y 5500 de EXP de clase."
     },
     "VLhMCg": {
         "en": "Request from Comodo Chef BabiQ\n^4D4DFF[Honey Skin BabiQ]^000000 Quest accepted.",
@@ -427,12 +427,12 @@
     "VbhMCg": {
         "en": "[Request Completed]\nLocation: Comodo Dungeon\nTarget: Defeat 10 Megalodon\nReward: Exp 5500, Jexp 5500",
         "pt": "[Missão Completa]\nLocal: Caverna Mao\nObjetivo: Caçar 10 Megalodon\nRecompensa: EXP base 5500, EXP classe 5500",
-        "es": "[Solicitud completada]\nUbicación: Mazmorra de Comodo.\nObjetivo: Derrota a 10Megalodones.\nPremio: 5500deEXP y 5500deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Mazmorra de Comodo.\nObjetivo: Derrota a 10 Megalodones.\nPremio: 5500 de EXP y 5500 de EXP de clase."
     },
     "VrhMCg": {
         "en": "[Request from Chief Komodo]\nLocation: Comodo Dungeon\nTarget: Defeat 10 Megalodon\nReward: Exp 5500, Jexp 5500",
         "pt": "[Solicitação]\nLocal: Caverna Mao\nObjetivo: Caçar 10 Megalodon\nRecompensa: EXP base 5500, EXP classe 5500",
-        "es": "[Solicitud del jefe de Comodo]\nUbicación: Mazmorra de Comodo.\nObjetivo: Derrota a 10Megalodones.\nPremio: 5500deEXP y 5500deEXPdeclase."
+        "es": "[Solicitud del jefe de Comodo]\nUbicación: Mazmorra de Comodo.\nObjetivo: Derrota a 10 Megalodones.\nPremio: 5500 de EXP y 5500 de EXP de clase."
     },
     "V7hMCg": {
         "en": "Request from Chief Komodo\n^4D4DFF[Que Sera, Sera]^000000 Quest accepted.",
@@ -441,7 +441,7 @@
     },
     "WLhMCg": {
         "en": "40~69 Request Bulletin Board",
-        "pt": "40~69 Quadro de avisos de solicitações",
+        "pt": "Missões 40 -69",
         "es": "40~69 Tablón de Anuncios de Solicitudes"
     },
     "WbhMCg": {
@@ -997,12 +997,12 @@
     "x7hMCg": {
         "en": "[Request Completed]\nLocation: Shipwreck 1F\nTarget: Defeat 20 Pirate Skeleton\nReward: Exp 8600, Jexp 9600",
         "pt": "[Solicitação Concluída]\nLocalização: Navio Fantasma (1)\nObjetivo: Derrotar 20 Esqueletos Pirata\nRecompensa: Exp 8600, Jexp 9600",
-        "es": "[Solicitud completada]\nUbicación: Barco hundidoP1.\nObjetivo: Derrota a 20Esqueletos piratas.\nPremio: 8600deEXP y 9600deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Barco hundido P1.\nObjetivo: Derrota a 20 Esqueletos piratas.\nPremio: 8600 de EXP y 9600 de EXP de clase."
     },
     "yLhMCg": {
         "en": "[Timothy's Request, Northern Alberta]\nLocation: Shipwreck 1F\nTarget: Defeat 20 Pirate Skeleton\nReward: Exp 8600, Jexp 9600",
         "pt": "[Pedido de Timothy, ao Norte de Alberta]\nLocalização: Navio Fantasma (1)\nObjetivo: Derrotar 20 Esqueletos Pirata\nRecompensa: Exp 8600, Jexp 9600",
-        "es": "[Solicitud de Timothy en el norte de Alberta]\nUbicación: Barco hundidoP1.\nObjetivo: Derrota a 20Esqueletos piratas.\nPremio: 8600deEXP y 9600deEXPdeclase."
+        "es": "[Solicitud de Timothy en el norte de Alberta]\nUbicación: Barco hundido P1.\nObjetivo: Derrota a 20 Esqueletos piratas.\nPremio: 8600 de EXP y 9600 de EXP de clase."
     },
     "ybhMCg": {
         "en": "Timothy's Request, Northern Alberta\n^4D4DFF[Friends Rescue]^000000 Quest accepted.",
@@ -1012,12 +1012,12 @@
     "yrhMCg": {
         "en": "[Request Completed]\nLocation: Shipwreck 1F\nTarget: Defeat 10 Kukre\nReward: Exp 6500, Jexp 6500",
         "pt": "[Solicitação Concluída]\nLocalização: Navio Fantasma (1)\nObjetivo: Derrotar 10 Kukre\nRecompensa: Exp 6500, Jexp 6500",
-        "es": "[Solicitud completada]\nUbicación: Barco hundidoP1.\nObjetivo: Derrota a 10Kukre.\nPremio: 6500deEXP y 6500deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Barco hundido P1.\nObjetivo: Derrota a 10 Kukre.\nPremio: 6500 de EXP y 6500 de EXP de clase."
     },
     "y7hMCg": {
         "en": "[Request from Zonda promoter inside Alberta building]\nLocation: Shipwreck 1F\nTarget: Defeat 10 Kukre\nReward: Exp 6500, Jexp 6500",
         "pt": "[Pedido do promotor da Zonda na Casa em Alberta]\nLocalização: Navio Fantasma (1)\nObjetivo: Derrotar 10 Kukre\nRecompensa: Exp 6500, Jexp 6500",
-        "es": "[Solicitud del promotor de Zonda dentro de un edificio de Alberta]\nUbicación: Barco hundidoP1.\nObjetivo: Derrota a 10Kukre.\nPremio: 6500deEXP y 6500deEXPdeclase."
+        "es": "[Solicitud del promotor de Zonda dentro de un edificio de Alberta]\nUbicación: Barco hundido P1.\nObjetivo: Derrota a 10 Kukre.\nPremio: 6500 de EXP y 6500 de EXP de clase."
     },
     "zLhMCg": {
         "en": "Request from Zonda promoter inside Alberta building\n^4D4DFF[Eating Kukre Liver]^000000 Quest accepted.",
@@ -1027,7 +1027,7 @@
     "zbhMCg": {
         "en": "[Request Completed]\nLocation: Shipwreck 1F\nTarget: Hide 10 Old Coin\nReward: Exp 7000, Jexp 7000",
         "pt": "[Solicitação Concluída]\nLocalização: Navio Fantasma (1)\nObjetivo: Esconder 10 Moedas Antigas\nRecompensa: Exp 7000, Jexp 7000",
-        "es": "[Solicitud completada]\nUbicación: Barco hundidoP1.\nObjetivo: Ocultar 10Monedas antiguas.\nPremio: 7000deEXP y 7000deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Barco hundido P1.\nObjetivo: Ocultar 10 Monedas antiguas.\nPremio: 7000 de EXP y 7000 de EXP declase."
     },
     "zrhMCg": {
         "en": "This is a request currently being carried out.\nIf you run out of coins, you can receive additional coins from a Zonda promoter.",
@@ -1037,7 +1037,7 @@
     "z7hMCg": {
         "en": "[Request from Zonda promoter inside Alberta building]\nLocation: Shipwreck 1F\nTarget: Hide 10 Old Coin\nReward: Exp 7000, Jexp 7000",
         "pt": "[Pedido do promotor da Zonda na Casa em Alberta]\nLocalização: Navio Fantasma (1)\nObjetivo: Esconder 10 Moedas Antigas\nRecompensa: Exp 7000, Jexp 7000",
-        "es": "[Solicitud del promotor de Zonda dentro de un edificio de Alberta]\nUbicación: Barco hundidoP1.\nObjetivo: Ocultar 10Monedas antiguas.\nPremio: 7000deEXP y 7000deEXPdeclase."
+        "es": "[Solicitud del promotor de Zonda dentro de un edificio de Alberta]\nUbicación: Barco hundido P1.\nObjetivo: Ocultar 10 Monedas antiguas.\nPremio: 7000 de EXP y 7000 de EXP de clase."
     },
     "0LhMCg": {
         "en": "Request from Zonda promoter inside Alberta building\n^4D4DFF[Poor Man's Treasure]^000000 Quest accepted.",
@@ -1047,12 +1047,12 @@
     "0bhMCg": {
         "en": "[Request Completed]\nLocation: Shipwreck 1F\nTarget: Defeat 10 Hydra, collect 10 Skeleton Bone, 10 Insect Peeling, and 5 Tentacle\nReward: Exp 9600, Jexp 8280",
         "pt": "[Missão Completa]\nLocal: Navio Fantasma 1º piso\nObjetivo: Caçar 10 Hidras e coletar 10 Ossos, 5 Peles de Verme e 5 Tentáculos\nRecompensa: EXP base 9600, EXP classe 8280",
-        "es": "[Solicitud completada]\nUbicación: Barco hundidoP1.\nObjetivo: Derrota a 10Hidras y recolecta 10Huesos de esqueleto, 10Caparazones de insecto y 5Tentáculos.\nPremio: 9600deEXP y 8280deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Barco hundido P1.\nObjetivo: Derrota a 10 Hidras y recolecta 10 Huesos de esqueleto, 10 Caparazones de insecto y 5 Tentáculos.\nPremio: 9600 de EXP y 8280 de EXP de clase."
     },
     "0rhMCg": {
         "en": "[Request from Zonda promoter inside Alberta building]\nLocation: Shipwreck 1F\nTarget: Defeat 10 Hydra, collect 10 Skeleton Bone, 10 Insect Peeling, and 5 Tentacle\nReward: Exp 9600, Jexp 8280",
         "pt": "[Solicitação]\nLocal: Navio Fantasma 1º piso\nObjetivo: Caçar 10 Hidras e coletar 10 Ossos, 5 Peles de Verme e 5 Tentáculos\nRecompensa: EXP base 9600, EXP classe 8280",
-        "es": "[Solicitud del promotor de Zonda dentro de un edificio de Alberta]\nUbicación: Barco hundidoP1.\nObjetivo: Derrota a 10Hidras y recolecta 10Huesos de esqueleto, 10Caparazones de insecto y 5Tentáculos.\nPremio: 9600deEXP y 8280deEXPdeclase."
+        "es": "[Solicitud del promotor de Zonda dentro de un edificio de Alberta]\nUbicación: Barco hundido P1.\nObjetivo: Derrota a 10 Hidras y recolecta 10 Huesos de esqueleto, 10 Caparazones de insecto y 5 Tentáculos.\nPremio: 9600 de EXP y 8280 de EXP de clase."
     },
     "07hMCg": {
         "en": "Request from Zonda promoter inside Alberta building\n^4D4DFF[Clean Shipwreck 1F]^000000 Quest accepted.",
@@ -1062,12 +1062,12 @@
     "1LhMCg": {
         "en": "[Request Completed]\nLocation: Shipwreck 2F\nTarget: Defeat 10 Whisper and 1 Swift Pirate Skeleton\nReward: Exp 11800, Jexp 9600",
         "pt": "[Missão Completa]\nLocal: Navio Fantasma 2º piso\nObjetivo: Caçar 10 Sussurros e 1 Marinheiro Ágil\nRecompensa: EXP base 11800, EXP classe 9600",
-        "es": "[Solicitud completada]\nUbicación: Barco hundidoP2.\nObjetivo: Derrota a 10Susurros y 1Esqueleto pirata veloz.\nPremio: 11800deEXP y 9600deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Barco hundido P2.\nObjetivo: Derrota a 10 Susurros y 1 Esqueleto pirata veloz.\nPremio: 11800 de EXP y 9600 de EXP de clase."
     },
     "1bhMCg": {
         "en": "[Request from Zonda promoter inside Alberta building]\nLocation: Shipwreck 2F\nTarget: Defeat 10 Whisper and 1 Swift Pirate Skeleton\nReward: Exp 11800, Jexp 9600",
         "pt": "[Solicitação]\nLocal: Navio Fantasma 2º piso\nObjetivo: Caçar 10 Sussurros e 1 Marinheiro Ágil\nRecompensa: EXP base 11800, EXP classe 9600",
-        "es": "[Solicitud del promotor de Zonda dentro de un edificio de Alberta]\nUbicación: Barco hundidoP2.\nObjetivo: Derrota a 10Susurros y 1Esqueleto pirata veloz.\nPremio: 11800deEXP y 9600deEXPdeclase."
+        "es": "[Solicitud del promotor de Zonda dentro de un edificio de Alberta]\nUbicación: Barco hundido P2.\nObjetivo: Derrota a 10 Susurros y 1 Esqueleto pirata veloz.\nPremio: 11800 de EXP y 9600 de EXP de clase."
     },
     "1rhMCg": {
         "en": "Request from Zonda promoter inside Alberta building\n^4D4DFF[Clean Shipwreck 2F]^000000 Quest accepted.",
@@ -1077,12 +1077,12 @@
     "17hMCg": {
         "en": "[Request Completed]\nLocation: Hugel South Field\nTarget: Defeat 10 Aster and 10 Crab\nReward: Exp 8400, Jexp 8380",
         "pt": "[Missão Completa]\nLocal: Hugel\nObjetivo: Caçar 10 Estrelas do Mar e 10 Caranguejos\nRecompensa: EXP base 8400, EXP classe 8380",
-        "es": "[Solicitud completada]\nUbicación: Campo del sur de Hugel.\nObjetivo: Derrota a 10Áster y 10Cangrejos.\nPremio: 8400deEXP y 8380deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Campo del sur de Hugel.\nObjetivo: Derrota a 10 Áster y 10 Cangrejos.\nPremio: 8400 de EXP y 8380 de EXP de clase."
     },
     "2LhMCg": {
         "en": "[Request Hugel Fisherman Ain]\nLocation: Hugel South Field\nTarget: Defeat 10 Aster and 10 Crab\nReward: Exp 8400, Jexp 8380",
         "pt": "[Solicitação]\nLocal: Hugel\nObjetivo: Caçar 10 Estrelas do Mar e 10 Caranguejos\nRecompensa: EXP base 8400, EXP classe 8380",
-        "es": "[Solicitud del pescador Ain en Hugel]\nUbicación: Campo del sur de Hugel.\nObjetivo: Derrota a 10Áster y 10Cangrejos.\nPremio: 8400deEXP y 8380deEXPdeclase."
+        "es": "[Solicitud del pescador Ain en Hugel]\nUbicación: Campo del sur de Hugel.\nObjetivo: Derrota a 10 Áster y 10 Cangrejos.\nPremio: 8400 de EXP y 8380 de EXP de clase."
     },
     "2bhMCg": {
         "en": "Request Hugel Fisherman Ain\n^4D4DFF[Noble War]^000000 Quest accepted.",
@@ -1092,12 +1092,12 @@
     "2rhMCg": {
         "en": "[Request Completed]\nLocation: Hugel South Field\nTarget: Defeat 10 Shellfish and Collect 5 Clam Flesh\nReward: Exp 8400, Jexp 8380",
         "pt": "[Missão Completa]\nLocal: Hugel\nObjetivo: Caçar 10 Moluscos e coletar 5 Carnes de Ostra\nRecompensa: EXP base 8400, EXP classe 8380",
-        "es": "[Solicitud completada]\nUbicación: Campo del sur de Hugel.\nObjetivo: Derrota a 10Moluscos y recolecta 5unidades de Carne de almeja.\nPremio: 8400deEXP y 8380deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Campo del sur de Hugel.\nObjetivo: Derrota a 10 Moluscos y recolecta 5 unidades de Carne de almeja.\nPremio: 8400 de EXP y 8380 de EXP de clase."
     },
     "27hMCg": {
         "en": "[Request Hugel Fisherman Ain]\nLocation: Hugel South Field\nTarget: Defeat 10 Shellfish and Collect 5 Clam Flesh\nReward: Exp 8400, Jexp 8380",
         "pt": "[Solicitação]\nLocal: Hugel\nObjetivo: Caçar 10 Moluscos e coletar 5 Carnes de Ostra\nRecompensa: EXP base 8400, EXP classe 8380",
-        "es": "[Solicitud del pescador Ain en Hugel]\nUbicación: Campo del sur de Hugel.\nObjetivo: Derrota a 10Moluscos y recolecta 5unidades de Carne de almeja.\nPremio: 8400deEXP y 8380deEXPdeclase."
+        "es": "[Solicitud del pescador Ain en Hugel]\nUbicación: Campo del sur de Hugel.\nObjetivo: Derrota a 10 Moluscos y recolecta 5 unidades de Carne de almeja.\nPremio: 8400 de EXP y 8380 de EXP de clase."
     },
     "3LhMCg": {
         "en": "Request Hugel Fisherman Ain\n^4D4DFF[Seashell Digging Experience]^000000 Quest accepted.",
@@ -1107,42 +1107,42 @@
     "3bhMCg": {
         "en": "[Request Completed]\nLocation: Orc Dungeon 1F\nTarget: Defeat 20 Orc Skeleton and 20 Orc Zombie\nReward: Exp 28700, Jexp 27400",
         "pt": "[Missão Completa]\nLocal: Caverna Orc 1º piso\nObjetivo: Caçar 20 Orcs Esqueletos e 20 Orcs Zumbis\nRecompensa: EXP base 28700, EXP classe 27400",
-        "es": "[Solicitud completada]\nUbicación: Mazmorra de los OrcosP1.\nObjetivo: Derrota a 20Esqueletos orcos y 20Zombis orcos.\nPremio: 28700deEXP y 27400deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Mazmorra de los Orcos P1.\nObjetivo: Derrota a 20 Esqueletos orcos y 20 Zombis orcos.\nPremio: 28700 de EXP y 27400 de EXP de clase."
     },
     "3rhMCg": {
         "en": "[Request from the leader on the 1F Orc Dungeon]\nLocation: Orc Dungeon 1F\nTarget: Defeat 20 Orc Skeleton and 20 Orc Zombie\nReward: Exp 28700, Jexp 27400",
         "pt": "[Solicitação]\nLocal: Caverna Orc 1º piso\nObjetivo: Caçar 20 Orcs Esqueletos e 20 Orcs Zumbis\nRecompensa: EXP base 28700, EXP classe 27400",
-        "es": "[Solicitud del líder en la Mazmorra de los OrcosP1]\nUbicación: Mazmorra de los OrcosP1.\nObjetivo: Derrota a 20Esqueletos orcos y 20Zombis orcos.\nPremio: 28700deEXP y 27400deEXPdeclase."
+        "es": "[Solicitud del líder en la Mazmorra de los Orcos P1]\nUbicación: Mazmorra de los Orcos P1.\nObjetivo: Derrota a 20 Esqueletos orcos y 20 Zombis orcos.\nPremio: 28700 de EXP y 27400 de EXP de clase."
     },
     "37hMCg": {
         "en": "Request from the leader on the 1F Orc Dungeon\n^4D4DFF[Disgusting Orcs]^000000 Quest accepted.",
         "pt": "[Solicitação]\n^4D4DFF[Orcs Infernais]^000000 foi aceita.",
-        "es": "Solicitud del líder en la Mazmorra de los OrcosP1.\n^4D4DFF[Orcos repugnantes]^000000: misión aceptada."
+        "es": "Solicitud del líder en la Mazmorra de los Orcos P1.\n^4D4DFF[Orcos repugnantes]^000000: misión aceptada."
     },
     "4LhMCg": {
         "en": "[Request Completed]\nLocation: Orc Dungeon 2F\nTarget: Defeat 20 Zenorc\nReward: Exp 16000, Jexp 12000",
         "pt": "[Missão Completa]\nLocal: Caverna Orc 2º piso\nObjetivo: Caçar 20 Zenorcs\nRecompensa: EXP base 16000, EXP classe 12000",
-        "es": "[Solicitud completada]\nUbicación: Mazmorra de los OrcosP2.\nObjetivo: Derrota a 20Zenorc.\nPremio: 16000deEXP y 12000deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Mazmorra de los Orcos P2.\nObjetivo: Derrota a 20 Zenorc.\nPremio: 16000 de EXP y 12000 de EXP de clase."
     },
     "4bhMCg": {
         "en": "[Request from the leader on the 2F Orc Dungeon]\nLocation: Orc Dungeon 2F\nTarget: Defeat 20 Zenorc\nReward: Exp 16000, Jexp 12000",
         "pt": "[Solicitação]\nLocal: Caverna Orc 2º piso\nObjetivo: Caçar 20 Zenorcs\nRecompensa: EXP base 16000, EXP classe 12000",
-        "es": "[Solicitud del líder en la Mazmorra de los OrcosP2]\nUbicación: Mazmorra de los OrcosP2.\nObjetivo: Derrota a 20Zenorc.\nPremio: 16000deEXP y 12000deEXPdeclase."
+        "es": "[Solicitud del líder en la Mazmorra de los Orcos P2]\nUbicación: Mazmorra de los Orcos P2.\nObjetivo: Derrota a 20 Zenorc.\nPremio: 16000 de EXP y 12000 de EXP de clase."
     },
     "4rhMCg": {
         "en": "Request from the leader on the 2F Orc Dungeon\n^4D4DFF[A greedy person]^000000 Quest accepted.",
         "pt": "[Solicitação]\n^4D4DFF[Ganancioso]^000000 foi aceita.",
-        "es": "Solicitud del líder en la Mazmorra de los OrcosP2.\n^4D4DFF[Una persona codiciosa]^000000: misión aceptada."
+        "es": "Solicitud del líder en la Mazmorra de los Orcos P2.\n^4D4DFF[Una persona codiciosa]^000000: misión aceptada."
     },
     "47hMCg": {
         "en": "[Request Completed]\nLocation: Orc Village\nTarget: Defeat 15 Orc Warrior, 15 Orc Lady, and 10 Orc Baby\nReward: Exp 23520, Jexp 24300",
         "pt": "[Missão Completa]\nLocal: Vila dos Orcs\nObjetivo: Caçar 15 Guerreiros Orc, 15 Senhoras Orc e 10 Filhotes de Orc\nRecompensa: EXP base 23520, EXP classe 24300",
-        "es": "[Solicitud completada]\nUbicación: Pueblo de Orco.\nObjetivo: Derrota a 15Guerreros orcos, 15Damas orcos y 10Bebés orcos.\nPremio: 23520deEXP y 24300deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Pueblo de Orco.\nObjetivo: Derrota a 15 Guerreros orcos, 15 Damas orcos y 10 Bebés orcos.\nPremio: 23520 de EXP y 24300 de EXP de clase."
     },
     "5LhMCg": {
         "en": "[Request from Orc subjugation team leader]\nLocation: Orc Village\nTarget: Defeat 15 Orc Warrior, 15 Orc Lady, and 10 Orc Baby\nReward: Exp 23520, Jexp 24300",
         "pt": "[Solicitação]\nLocal: Vila dos Orcs\nObjetivo: Caçar 15 Guerreiros Orc, 15 Senhoras Orc e 10 Filhotes de Orc\nRecompensa: EXP base 23520, EXP classe 24300",
-        "es": "[Solicitud del jefe del equipo de subyugación de los Orcos]\nUbicación: Pueblo de Orco.\nObjetivo: Derrota a 15Guerreros orcos, 15Damas orcos y 10Bebés orcos.\nPremio: 23520deEXP y 24300deEXPdeclase."
+        "es": "[Solicitud del jefe del equipo de subyugación de los Orcos]\nUbicación: Pueblo de Orco.\nObjetivo: Derrota a 15 Guerreros orcos, 15 Damas orcos y 10 Bebés orcos.\nPremio: 23520 de EXP y 24300 de EXP de clase."
     },
     "5bhMCg": {
         "en": "Request from Orc subjugation team leader\n^4D4DFF[Operation Orc Wipeout]^000000 Quest accepted.",
@@ -1152,12 +1152,12 @@
     "5rhMCg": {
         "en": "[Request Completed]\nLocation: South Field of Orc Village\nTarget: Defeat 10 Goblin Axe and 10 Goblin Chain\nReward: Exp 13000, Jexp 8200",
         "pt": "[Missão Completa]\nLocal: Vila dos Goblins\nObjetivo: Caçar 10 Goblins de Machado e 10 Goblins de Mangual\nRecompensa: EXP base 13000, EXP classe 8200",
-        "es": "[Solicitud completada]\nUbicación: Campo al sur del pueblo de Orco.\nObjetivo: Derrota a 10Duendes con hacha y 10Duendes con cadena.\nPremio: 13000deEXP y 8200deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Campo al sur del pueblo de Orco.\nObjetivo: Derrota a 10 Duendes con hacha y 10 Duendes con cadena.\nPremio: 13000 de EXP y 8200 de EXP de clase."
     },
     "57hMCg": {
         "en": "[Request from south subjugation team leader]\nLocation: South Field of Orc Village\nTarget: Defeat 10 Goblin Axe and 10 Goblin Chain\nReward: Exp 13000, Jexp 8200",
         "pt": "[Solicitação]\nLocal: Vila dos Goblins\nObjetivo: Caçar 10 Goblins de Machado e 10 Goblins de Mangual\nRecompensa: EXP base 13000, EXP classe 8200",
-        "es": "[Solicitud del jefe del equipo de subyugación del sur]\nUbicación: Campo al sur del pueblo de Orco.\nObjetivo: Derrota a 10Duendes con hacha y 10Duendes con cadena.\nPremio: 13000deEXP y 8200deEXPdeclase."
+        "es": "[Solicitud del jefe del equipo de subyugación del sur]\nUbicación: Campo al sur del pueblo de Orco.\nObjetivo: Derrota a 10Duendes con hacha y 10 Duendes con cadena.\nPremio: 13000 de EXP y 8200 de EXP de clase."
     },
     "6LhMCg": {
         "en": "Request from south subjugation team leader\n^4D4DFF[Gruesome Goblin Cleanup]^000000 Quest accepted.",
@@ -1167,12 +1167,12 @@
     "6bhMCg": {
         "en": "[Request Completed]\nLocation: South Field of Orc Village\nTarget: Defeat 10 Goblin Dagger and 10 Goblin Hammer\nReward: Exp 13000, Jexp 8600",
         "pt": "[Missão Completa]\nLocal: Vila dos Goblins\nObjetivo: Caçar 10 Goblins de Adaga e 10 Goblins de Martelo\nRecompensa: EXP base 13000, EXP classe 8600",
-        "es": "[Solicitud completada]\nUbicación: Campo al sur del pueblo de Orco.\nObjetivo: Derrota a 10Duendes con daga y 10Duendes con martillo.\nPremio: 13000deEXP y 8600deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Campo al sur del pueblo de Orco.\nObjetivo: Derrota a 10 Duendes con daga y 10 Duendes con martillo.\nPremio: 13000 de EXP y 8600 de EXP de clase."
     },
     "6rhMCg": {
         "en": "[Request from south subjugation team leader]\nLocation: South Field of Orc Village\nTarget: Defeat 10 Goblin Dagger and 10 Goblin Hammer\nReward: Exp 13000, Jexp 8600",
         "pt": "[Solicitação]\nLocal: Vila dos Goblins\nObjetivo: Caçar 10 Goblins de Adaga e 10 Goblins de Martelo\nRecompensa: EXP base 13000, EXP classe 8600",
-        "es": "[Solicitud del jefe del equipo de subyugación del sur]\nUbicación: Campo al sur del pueblo de Orco.\nObjetivo: Derrota a 10Duendes con daga y 10Duendes con martillo.\nPremio: 13000deEXP y 8600deEXPdeclase."
+        "es": "[Solicitud del jefe del equipo de subyugación del sur]\nUbicación: Campo al sur del pueblo de Orco.\nObjetivo: Derrota a 10 Duendes con daga y 10 Duendes con martillo.\nPremio: 13000 de EXP y 8600 de EXP de clase."
     },
     "67hMCg": {
         "en": "Request from south subjugation team leader\n^4D4DFF[Swift Goblin Cleanup]^000000 Quest accepted.",
@@ -1182,12 +1182,12 @@
     "7LhMCg": {
         "en": "[Request Completed]\nLocation: Southeast of Orc Village\nTarget: Defeat 10 Goblin Archer and 10 Goblin Mace\nReward: Exp 11800, Jexp 11900",
         "pt": "[Missão Completa]\nLocal: Vila dos Goblins\nObjetivo: Caçar 10 Goblins Arqueiros e 10 Goblins de Maça\nRecompensa: EXP base 11800, EXP classe 11900",
-        "es": "[Solicitud completada]\nUbicación: Sureste del pueblo de Orco.\nObjetivo: Derrota a 10Duendes arqueros y 10Duendes con maza.\nPremio: 11800deEXP y 11900deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Sureste del pueblo de Orco.\nObjetivo: Derrota a 10 Duendes arqueros y 10 Duendes con maza.\nPremio: 11800 de EXP y 11900 de EXP de clase."
     },
     "7bhMCg": {
         "en": "[Request from south subjugation team leader]\nLocation: Southeast of Orc Village\nTarget: Defeat 10 Goblin Archer and 10 Goblin Mace\nReward: Exp 11800, Jexp 11900",
         "pt": "[Solicitação]\nLocal: Vila dos Goblins\nObjetivo: Caçar 10 Goblins Arqueiros e 10 Goblins de Maça\nRecompensa: EXP base 11800, EXP classe 11900",
-        "es": "[Solicitud del jefe del equipo de subyugación del sur]\nUbicación: Sureste del pueblo de Orco.\nObjetivo: Derrota a 10Duendes arqueros y 10Duendes con maza.\nPremio: 11800deEXP y 11900deEXPdeclase."
+        "es": "[Solicitud del jefe del equipo de subyugación del sur]\nUbicación: Sureste del pueblo de Orco.\nObjetivo: Derrota a 10 Duendes arqueros y 10 Duendes con maza.\nPremio: 11800 de EXP y 11900 de EXP de clase."
     },
     "7rhMCg": {
         "en": "Request from south subjugation team leader\n^4D4DFF[Tough Fellows]^000000 Quest accepted.",
@@ -1197,12 +1197,12 @@
     "77hMCg": {
         "en": "[Request Completed]\nLocation: Southwest of Izlude\nTarget: Defeat 10 Magnolia and 10 Metaller\nReward: Exp 8400, Jexp 8380",
         "pt": "[Missão Completa]\nLocal: Norte de Morroc\nObjetivo: Caçar 10 Magnólias e 10 Metaller\nRecompensa: EXP base 8400, EXP classe 8380",
-        "es": "[Solicitud completada]\nUbicación: Sudoeste de Izlude\nObjetivo: Derrota a 10Magnolias y 10Metaleros.\nPremio: 8400deEXP y 8380deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Sudoeste de Izlude\nObjetivo: Derrota a 10 Magnolias y 10 Metaleros.\nPremio: 8400 de EXP y 8380 de EXP de clase."
     },
     "8LhMCg": {
         "en": "[Request from Izlude Instructor]\nLocation: Southwest of Izlude\nTarget: Defeat 10 Magnolia and 10 Metaller\nReward: Exp 8400, Jexp 8380",
         "pt": "[Solicitação]\nLocal: Norte de Morroc\nObjetivo: Caçar 10 Magnólias e 10 Metaller\nRecompensa: EXP base 8400, EXP classe 8380",
-        "es": "[Solicitud de instructor en Izlude]\nUbicación: Sudoeste de Izlude\nObjetivo: Derrota a 10Magnolias y 10Metaleros.\nPremio: 8400deEXP y 8380deEXPdeclase."
+        "es": "[Solicitud de instructor en Izlude]\nUbicación: Sudoeste de Izlude\nObjetivo: Derrota a 10 Magnolias y 10 Metaleros.\nPremio: 8400 de EXP y 8380 de EXP de clase."
     },
     "8bhMCg": {
         "en": "Request from Izlude Instructor\n^4D4DFF[Eggs and Grasshoppers]^000000 Quest accepted.",
@@ -1212,12 +1212,12 @@
     "8rhMCg": {
         "en": "[Request Completed]\nLocation: Izlude Underwater Cave Dungeon 1F\nTarget: Defeat 10 Marina, 10 Plankton, and bring 10 Single Cell\nReward: Exp 9600, Jexp 8380",
         "pt": "[Missão Completa]\nLocal: Túnel Submarino 1º piso\nObjetivo: Caçar 10 Plâncton, 10 Marinas e coletar 5 Células Únicas\nRecompensa: EXP base 9600, EXP classe 8380",
-        "es": "[Solicitud completada]\nUbicación: Mazmorra de la cueva submarina de IzludeP1.\nObjetivo: Derrota a 10Marinas y 10Plancton y trae 10Células únicas.\nPremio: 9600deEXP y 8380deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Mazmorra de la cueva submarina de Izlude P1.\nObjetivo: Derrota a 10 Marinas y 10 Plancton y trae 10 Células únicas.\nPremio: 9600 de EXP y 8380 de EXP de clase."
     },
     "87hMCg": {
         "en": "[Request from a student]\nLocation: Izlude Underwater Cave Dungeon 1F\nTarget: Defeat 10 Marina, 10 Plankton, and bring 10 Single Cell\nReward: Exp 9600, Jexp 8380",
         "pt": "[Solicitação]\nLocal: Túnel Submarino 1º piso\nObjetivo: Caçar 10 Plâncton, 10 Marinas e coletar 10 Células Únicas\nRecompensa: EXP base 9600, EXP classe 8380",
-        "es": "[Solicitud de un estudiante]\nUbicación: Mazmorra de la cueva submarina de IzludeP1.\nObjetivo: Derrota a 10Marinas y 10Plancton y trae 10Células únicas.\nPremio: 9600deEXP y 8380deEXPdeclase."
+        "es": "[Solicitud de un estudiante]\nUbicación: Mazmorra de la cueva submarina de Izlude P1.\nObjetivo: Derrota a 10 Marinas y 10 Plancton y trae 10 Células únicas.\nPremio: 9600 de EXP y 8380 de EXP de clase."
     },
     "9LhMCg": {
         "en": "Request from a student\n^4D4DFF[Collecting Samples is Harder than it Appears!]^000000 Quest accepted.",
@@ -1227,12 +1227,12 @@
     "9bhMCg": {
         "en": "[Request Completed]\nLocation: Izlude Underwater Cave Dungeon 1F 2F\nTarget: Defeat 10 Vadon and bring 5 Nipper\nReward: Exp 7800, Jexp 8380",
         "pt": "[Missão Completa]\nLocal: Túnel Submarino 2º piso\nObjetivo: Caçar 10 Vadons e coletar 5 Garras de Crustáceo\nRecompensa: EXP base 7800, EXP classe 8380",
-        "es": "[Solicitud completada]\nUbicación: Mazmorra de la cueva submarina de IzludeP1yP2.\nObjetivo: Derrota a 10Vadon y trae 5Pinzas.\nPremio: 7800deEXP y 8380deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Mazmorra de la cueva submarina de Izlude P1 y P2.\nObjetivo: Derrota a 10 Vadon y trae 5 Pinzas.\nPremio: 7800 de EXP y 8380 de EXP de clase."
     },
     "9rhMCg": {
         "en": "[Request from a wandering merchant]\nLocation: Izlude Underwater Cave Dungeon 1F 2F\nTarget: Defeat 10 Vadon and bring 5 Nipper\nReward: Exp 7800, Jexp 8380",
         "pt": "[Solicitação]\nLocal: Túnel Submarino 2º piso\nObjetivo: Caçar 10 Vadons e coletar 5 Garras de Crustáceo\nRecompensa: EXP base 7800, EXP classe 8380",
-        "es": "[Solicitud de un comerciante errante]\nUbicación: Mazmorra de la cueva submarina de IzludeP1yP2.\nObjetivo: Derrota a 10Vadon y trae 5Pinzas.\nPremio: 7800deEXP y 8380deEXPdeclase."
+        "es": "[Solicitud de un comerciante errante]\nUbicación: Mazmorra de la cueva submarina de Izlude P1 y P2.\nObjetivo: Derrota a 10 Vadon y trae 5 Pinzas.\nPremio: 7800 de EXP y 8380 de EXP de clase."
     },
     "97hMCg": {
         "en": "Request from a wandering merchant\n^4D4DFF[Go with the Tide]^000000 Quest accepted.",
@@ -1242,42 +1242,42 @@
     "+LhMCg": {
         "en": "[Request Completed]\nLocation: Izlude Underwater Cave Dungeon 4F\nTarget: Defeat 10 Swordfish and 10 Marc\nReward: Exp 12400, Jexp 14380",
         "pt": "[Missão Completa]\nLocal: Túnel Submarino 4º piso\nObjetivo: Caçar 10 Peixe-Espadas e 10 Cavalo-Marinhos\nRecompensa: EXP base 12400, EXP classe 14380",
-        "es": "[Solicitud completada]\nUbicación: Mazmorra de la cueva submarina de IzludeP4.\nObjetivo: Derrota a 10Peces espada y 10Marc.\nPremio: 12400deEXP y 14380deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Mazmorra de la cueva submarina de Izlude P4.\nObjetivo: Derrota a 10 Peces espada y 10 Marc.\nPremio: 12400 de EXP y 14380 de EXP de clase."
     },
     "+bhMCg": {
         "en": "[Request from Ernest, 2F of Izlude Undersea]\nLocation: Izlude Underwater Cave Dungeon 4F\nTarget: Defeat 10 Swordfish and 10 Marc\nReward: Exp 12400, Jexp 14380",
         "pt": "[Solicitação]\nLocal: Túnel Submarino 4º piso\nObjetivo: Caçar 10 Peixe-Espadas e 10 Cavalo-Marinhos\nRecompensa: EXP base 12400, EXP classe 14380",
-        "es": "[Solicitud de Ernest en el P2de la cueva submarina de Izlude]\nUbicación: Mazmorra de la cueva submarina de IzludeP4.\nObjetivo: Derrota a 10Peces espada y 10Marc.\nPremio: 12400deEXP y 14380deEXPdeclase."
+        "es": "[Solicitud de Ernest en el P2 de la cueva submarina de Izlude]\nUbicación: Mazmorra de la cueva submarina de Izlude P4.\nObjetivo: Derrota a 10 Peces espada y 10 Marc.\nPremio: 12400 de EXP y 14380 de EXP de clase."
     },
     "+rhMCg": {
         "en": "Request from Ernest, 2F of Izlude Undersea\n^4D4DFF[Kindness to a Friend]^000000 Quest accepted.",
         "pt": "[Solicitação]\n^4D4DFF[Cuidando do Grupo]^000000 foi aceita.",
-        "es": "Solicitud de Ernest en el P2de la cueva submarina de Izlude.\n^4D4DFF[Hoy por ti, mañana por mí]^000000: misión aceptada."
+        "es": "Solicitud de Ernest en el P2 de la cueva submarina de Izlude.\n^4D4DFF[Hoy por ti, mañana por mí]^000000: misión aceptada."
     },
     "+7hMCg": {
         "en": "[Request Completed]\nLocation: Izlude Underwater Cave Dungeon 3F\nTarget: Defeat 20 Marse and bring 10 Squid Ink\nReward: Exp 10640, Jexp 10240",
         "pt": "[Missão Completa]\nLocal: Túnel Submarino 3º piso\nObjetivo: Caçar 20 Martes e coletar 10 Tintas de Polvo\nRecompensa: EXP base 10640, EXP classe 10240",
-        "es": "[Solicitud completada]\nUbicación: Mazmorra de la cueva submarina de IzludeP3.\nObjetivo: Derrota a 20Marse y trae 10unidades de Tinta de calamar.\nPremio: 10640deEXP y 10240deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Mazmorra de la cueva submarina de Izlude P3.\nObjetivo: Derrota a 20 Marse y trae 10 unidades de Tinta de calamar.\nPremio: 10640 de EXP y 10240 de EXP de clase."
     },
     "/LhMCg": {
         "en": "[Request from Kusekili, Izlude Underwater 3F]\nLocation: Izlude Underwater Cave Dungeon 3F\nTarget: Defeat 20 Marse and bring 10 Squid Ink\nReward: Exp 10640, Jexp 10240",
         "pt": "[Solicitação]\nLocal: Túnel Submarino 3º piso\nObjetivo: Caçar 20 Martes e coletar 10 Tintas de Polvo\nRecompensa: EXP base 10640, EXP classe 10240",
-        "es": "[Solicitud de Kusekili en el P3de la cueva submarina de Izlude]\nUbicación: Mazmorra de la cueva submarina de IzludeP3.\nObjetivo: Derrota a 20Marse y trae 10unidades de Tinta de calamar.\nPremio: 10640deEXP y 10240deEXPdeclase."
+        "es": "[Solicitud de Kusekili en el P3de la cueva submarina de Izlude]\nUbicación: Mazmorra de la cueva submarina de Izlude P3.\nObjetivo: Derrota a 20 Marse y trae 10 unidades de Tinta de calamar.\nPremio: 10640 de EXP y 10240 de EXP de clase."
     },
     "/bhMCg": {
         "en": "Request from Kusekili, Izlude Underwater 3F\n^4D4DFF[Deliver the Ingredients]^000000 Quest accepted.",
         "pt": "[Solicitação]\n^4D4DFF[Ingredientes Culinários]^000000 foi aceita.",
-        "es": "Solicitud de Kusekili en el P3de la cueva submarina de Izlude.\n^4D4DFF[Entrega de ingredientes]^000000: misión aceptada."
+        "es": "Solicitud de Kusekili en el P3 de la cueva submarina de Izlude.\n^4D4DFF[Entrega de ingredientes]^000000: misión aceptada."
     },
     "/rhMCg": {
         "en": "[Request Completed]\nLocation: Izlude Underwater Cave Dungeon 3F\nTarget: Defeat 10 Obeanue and bring 1 Mermaid's Heart\nReward: Exp 9600, Jexp 9600",
         "pt": "[Missão Completa]\nLocal: Túnel Submarino 3º piso\nObjetivo: Caçar 10 Obeaune e coletar 1 Coração de Sereia\nRecompensa: EXP base 9600, EXP classe 9600",
-        "es": "[Solicitud completada]\nUbicación: Mazmorra de la cueva submarina de IzludeP3.\nObjetivo: Derrota a 10Obeaune y trae 1Corazón de sirena.\nPremio: 9600deEXP y 9600deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Mazmorra de la cueva submarina de Izlude P3.\nObjetivo: Derrota a 10 Obeaune y trae 1 Corazón de sirena.\nPremio: 9600 de EXP y 9600 de EXP de clase."
     },
     "/7hMCg": {
         "en": "[Request from Nonda Ankana]\nLocation: Izlude Underwater Cave Dungeon 3F\nTarget: Defeat 10 Obeanue and bring 1 Mermaid's Heart\nReward: Exp 9600, Jexp 9600",
         "pt": "[Solicitação]\nLocal: Túnel Submarino 3º piso\nObjetivo: Caçar 10 Obeaune e coletar 1 Coração de Sereia\nRecompensa: EXP base 9600, EXP classe 9600",
-        "es": "[Solicitud de Nonda Ankana]\nUbicación: Mazmorra de la cueva submarina de IzludeP3.\nObjetivo: Derrota a 10Obeaune y trae 1Corazón de sirena.\nPremio: 9600deEXP y 9600deEXPdeclase."
+        "es": "[Solicitud de Nonda Ankana]\nUbicación: Mazmorra de la cueva submarina de Izlude P3.\nObjetivo: Derrota a 10 Obeaune y trae 1 Corazón de sirena.\nPremio: 9600 de EXP y 9600 de EXP de clase."
     },
     "ALlMCg": {
         "en": "Request from Nonda Ankana\n^4D4DFF[Dream Lover]^000000 Quest accepted.",
@@ -1287,12 +1287,12 @@
     "AblMCg": {
         "en": "[Request Completed]\nLocation: Izlude Underwater Cave Dungeon 5F\nTarget: Defeat 10 Stouf and 10 Merman\nReward: Exp 17200, Jexp 15600",
         "pt": "[Missão Completa]\nLocal: Túnel Submarino 5º piso\nObjetivo: Caçar 10 Strouf e 10 Tritões\nRecompensa: EXP base 17200, EXP classe 15600",
-        "es": "[Solicitud completada]\nUbicación: Mazmorra de la cueva submarina de IzludeP5.\nObjetivo: Derrota a 10Strouf y 10Tritones.\nPremio: 17200deEXP y 15600deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Mazmorra de la cueva submarina de Izlude P5.\nObjetivo: Derrota a 10 Strouf y 10 Tritones.\nPremio: 17200 de EXP y 15600 de EXP de clase."
     },
     "ArlMCg": {
         "en": "[Request from Leader Maxim]\nLocation: Izlude Underwater Cave Dungeon 5F\nTarget: Defeat 10 Stouf and 10 Merman\nReward: Exp 17200, Jexp 15600",
         "pt": "[Solicitação]\nLocal: Túnel Submarino 5º piso\nObjetivo: Caçar 10 Strouf e 10 Tritões\nRecompensa: EXP base 17200, EXP classe 15600",
-        "es": "[Solicitud del líder Maxim]\nUbicación: Mazmorra de la cueva submarina de IzludeP5.\nObjetivo: Derrota a 10Strouf y 10Tritones.\nPremio: 17200deEXP y 15600deEXPdeclase."
+        "es": "[Solicitud del líder Maxim]\nUbicación: Mazmorra de la cueva submarina de Izlude P5.\nObjetivo: Derrota a 10 Strouf y 10 Tritones.\nPremio: 17200 de EXP y 15600 de EXP de clase."
     },
     "A7lMCg": {
         "en": "Request from Leader Maxim\n^4D4DFF[Annoying Guards]^000000 Quest accepted.",
@@ -1302,12 +1302,12 @@
     "BLlMCg": {
         "en": "[Request Completed]\nLocation: Morroc Pyramid 3-4F\nTarget: Defeat 10 Mummy and bring 1 Memento\nReward: Exp 7200, Jexp 7800",
         "pt": "[Missão Completa]\nLocal: Pirâmide 3-4º piso\nObjetivo: Caçar 10 Múmias e coletar 1 Espólio\nRecompensa: EXP base 7200, EXP classe 7800",
-        "es": "[Solicitud completada]\nUbicación: Pirámide de MorrocP3yP4.\nObjetivo: Derrota a 10Momias y trae 1Recuerdo.\nPremio: 7200deEXP y 7800deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Pirámide de Morroc P3 y P4.\nObjetivo: Derrota a 10 Momias y trae 1 Recuerdo.\nPremio: 7200 de EXP y 7800 de EXP de clase."
     },
     "BblMCg": {
         "en": "[Request from Leader Maxim]\nLocation: Morroc Pyramid 3-4F\nTarget: Defeat 10 Mummy and bring 1 Memento\nReward: Exp 7200, Jexp 7800",
         "pt": "[Solicitação]\nLocal: Pirâmide 3-4º piso\nObjetivo: Caçar 10 Múmias e coletar 1 Espólio\nRecompensa: EXP base 7200, EXP classe 7800",
-        "es": "[Solicitud del líder Maxim]\nUbicación: Pirámide de MorrocP3yP4.\nObjetivo: Derrota a 10Momias y trae 1Recuerdo.\nPremio: 7200deEXP y 7800deEXPdeclase."
+        "es": "[Solicitud del líder Maxim]\nUbicación: Pirámide de Morroc P3 y P4.\nObjetivo: Derrota a 10 Momias y trae 1 Recuerdo.\nPremio: 7200 de EXP y 7800 de EXP de clase."
     },
     "BrlMCg": {
         "en": "Request from Leader Maxim\n^4D4DFF[Mummy and an Old Blue Box]^000000 Quest accepted.",
@@ -1317,12 +1317,12 @@
     "B7lMCg": {
         "en": "[Request Completed]\nLocation: Morroc Pyramid Underground 1F\nTarget: Defeat 10 Verit and 10 Minorous\nReward: Exp 12000, Jexp 12800",
         "pt": "[Missão Completa]\nLocal: Subolo da Pirâmide 1º piso\nObjetivo: Caçar 10 Verits e 10 Minorous\nRecompensa: EXP base 12000, EXP classe 12800",
-        "es": "[Solicitud completada]\nUbicación: Pirámide subterránea de MorrocP1.\nObjetivo: Derrota a 10Verit y 10Minorous.\nPremio: 12000deEXP y 12800deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Pirámide subterránea de Morroc P1.\nObjetivo: Derrota a 10 Verit y 10 Minorous.\nPremio: 12000 de EXP y 12800 de EXP de clase."
     },
     "CLlMCg": {
         "en": "[Request from Rumin]\nLocation: Morroc Pyramid Underground 1F\nTarget: Defeat 10 Verit and 10 Minorous\nReward: Exp 12000, Jexp 12800",
         "pt": "[Solicitação]\nLocal: Subolo da Pirâmide 1º piso\nObjetivo: Caçar 10 Verits e 10 Minorous\nRecompensa: EXP base 12000, EXP classe 12800",
-        "es": "[Solicitud de Rumin]\nUbicación: Pirámide subterránea de MorrocP1.\nObjetivo: Derrota a 10Verit y 10Minorous.\nPremio: 12000deEXP y 12800deEXPdeclase."
+        "es": "[Solicitud de Rumin]\nUbicación: Pirámide subterránea de Morroc P1.\nObjetivo: Derrota a 10 Verit y 10 Minorous.\nPremio: 12000 de EXP y 12800 de EXP de clase."
     },
     "CblMCg": {
         "en": "Request from Rumin\n^4D4DFF[Insomniac]^000000 Quest accepted.",
@@ -1332,12 +1332,12 @@
     "CrlMCg": {
         "en": "[Request Completed]\nLocation: Morroc Pyramid 4F\nTarget: Defeat 20 Isis\nReward: Exp 16740, Jexp 17880",
         "pt": "[Missão Completa]\nLocal: Pirâmide 4º piso\nObjetivo: Caçar 20 Ísis\nRecompensa: EXP base 16740, EXP classe 17880",
-        "es": "[Solicitud completada]\nUbicación: Pirámide de MorrocP4.\nObjetivo: Derrota a 20Isis.\nPremio: 16740deEXP y 17880deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Pirámide de Morroc P4.\nObjetivo: Derrota a 20 Isis.\nPremio: 16740 de EXP y 17880 de EXP de clase."
     },
     "C7lMCg": {
         "en": "[Request from Ernest]\nLocation: Morroc Pyramid 4F\nTarget: Defeat 20 Isis\nReward: Exp 16740, Jexp 17880",
         "pt": "[Solicitação]\nLocal: Pirâmide 4º piso\nObjetivo: Caçar 20 Ísis\nRecompensa: EXP base 16740, EXP classe 17880",
-        "es": "[Solicitud de Ernest]\nUbicación: Pirámide de MorrocP4.\nObjetivo: Derrota a 20Isis.\nPremio: 16740deEXP y 17880deEXPdeclase."
+        "es": "[Solicitud de Ernest]\nUbicación: Pirámide de Morroc P4.\nObjetivo: Derrota a 20 Isis.\nPremio: 16740 de EXP y 17880 de EXP de clase."
     },
     "DLlMCg": {
         "en": "Request from Ernest\n^4D4DFF[Defeat Isis]^000000 Quest accepted.",
@@ -1347,12 +1347,12 @@
     "DblMCg": {
         "en": "[Request Completed]\nLocation: Morroc Sphinx 1F\nTarget: Defeat 15 Zerom and 15 Requiem\nReward: Exp 19450, Jexp 20090",
         "pt": "[Missão Completa]\nLocal: Esfinge 1º piso\nObjetivo: Caçar 15 Zerom e 15 Requiem\nRecompensa: EXP base 19450, EXP classe 20090",
-        "es": "[Solicitud completada]\nUbicación: Esfinge de MorrocP1.\nObjetivo: Derrota a 15Zerom y 15Réquiem.\nPremio: 19450deEXP y 20090deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Esfinge de Morroc P1.\nObjetivo: Derrota a 15 Zerom y 15 Réquiem.\nPremio: 19450 de EXP y 20090 de EXP de clase."
     },
     "DrlMCg": {
         "en": "[Request from Ernest]\nLocation: Morroc Sphinx 1F\nTarget: Defeat 15 Zerom and 15 Requiem\nReward: Exp 19450, Jexp 20090",
         "pt": "[Solicitação]\nLocal: Esfinge 1º piso\nObjetivo: Caçar 15 Zerom e 15 Requiem\nRecompensa: EXP base 19450, EXP classe 20090",
-        "es": "[Solicitud de Ernest]\nUbicación: Esfinge de MorrocP1.\nObjetivo: Derrota a 15Zerom y 15Réquiem.\nPremio: 19450deEXP y 20090deEXPdeclase."
+        "es": "[Solicitud de Ernest]\nUbicación: Esfinge de MorrocP1.\nObjetivo: Derrota a 15 Zerom y 15 Réquiem.\nPremio: 19450 de EXP y 20090 de EXP de clase."
     },
     "D7lMCg": {
         "en": "Request from Ernest\n^4D4DFF[Sphinx's Workers]^000000 Quest accepted.",
@@ -1362,12 +1362,12 @@
     "ELlMCg": {
         "en": "[Request Completed]\nLocation: Morroc Sphinx 2-3F\nTarget: Defeat 15 Marduk, 15 Pasana, and bring 10 Old Papyrus\nReward: Exp 25640, Jexp 24210",
         "pt": "[Missão Completa]\nLocal: Esfinge 2-3º piso\nObjetivo: Caçar 15 Marduks, 15 Pasanas e coletar 10 Antigos Papiros\nRecompensa: EXP base 25640, EXP classe 24210",
-        "es": "[Solicitud completada]\nUbicación: Esfinge de MorrocP2yP3.\nObjetivo: Derrota a 15Marduk y 15Pasana y trae 10Papiros antiguos.\nPremio: 25640deEXP y 24210deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Esfinge de Morroc P2 y P3.\nObjetivo: Derrota a 15 Marduk y 15 Pasana y trae 10 Papiros antiguos.\nPremio: 25640 de EXP y 24210 de EXP de clase."
     },
     "EblMCg": {
         "en": "[Request from Ernest]\nLocation: Morroc Sphinx 2-3F\nTarget: Defeat 15 Marduk, 15 Pasana, and bring 10 Old Papyrus\nReward: Exp 25640, Jexp 24210",
         "pt": "[Solicitação]\nLocal: Esfinge 2-3º piso\nObjetivo: Caçar 15 Marduks, 15 Pasanas e coletar 10 Antigos Papiros\nRecompensa: EXP base 25640, EXP classe 24210",
-        "es": "[Solicitud de Ernest]\nUbicación: Esfinge de MorrocP2yP3.\nObjetivo: Derrota a 15Marduk y 15Pasana y trae 10Papiros antiguos.\nPremio: 25640deEXP y 24210deEXPdeclase."
+        "es": "[Solicitud de Ernest]\nUbicación: Esfinge de Morroc P2 y P3.\nObjetivo: Derrota a 15 Marduk y 15 Pasana y trae 10 Papiros antiguos.\nPremio: 25640 de EXP y 24210 de EXP de clase."
     },
     "ErlMCg": {
         "en": "Request from Ernest\n^4D4DFF[Secret of the Sphinx]^000000 Quest accepted.",
@@ -1377,12 +1377,12 @@
     "E7lMCg": {
         "en": "[Request Completed]\nLocation: Sograt Desert\nTarget: Defeat 10 Sandman and bring 5 Grit\nReward: Exp 10800, Jexp 9600",
         "pt": "[Missão Completa]\nLocal: Sudeste de Morroc\nObjetivo: Caçar 10 Arenosos e coletar 5 Torrões de Areia\nRecompensa: EXP base 10800, EXP classe 9600",
-        "es": "[Solicitud completada]\nUbicación: Desierto Sograt.\nObjetivo: Derrota a 10Hombres de arena y trae 5Granos.\nPremio: 10800deEXP y 9600deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Desierto Sograt.\nObjetivo: Derrota a 10 Hombres de arena y trae 5 Granos.\nPremio: 10800 de EXP y 9600 de EXP de clase."
     },
     "FLlMCg": {
         "en": "[Request from a Student]\nLocation: Sograt Desert\nTarget: Defeat 10 Sandman and bring 5 Grit\nReward: Exp 10800, Jexp 9600",
         "pt": "[Solicitação]\nLocal: Sudeste de Morroc\nObjetivo: Caçar 10 Arenosos e coletar 5 Torrões de Areia\nRecompensa: EXP base 10800, EXP classe 9600",
-        "es": "[Solicitud de estudiante]\nUbicación: Desierto Sograt.\nObjetivo: Derrota a 10Hombres de arena y trae 5Granos.\nPremio: 10800deEXP y 9600deEXPdeclase."
+        "es": "[Solicitud de estudiante]\nUbicación: Desierto Sograt.\nObjetivo: Derrota a 10 Hombres de arena y trae 5 Granos.\nPremio: 10800 de EXP y 9600 de EXP de clase."
     },
     "FblMCg": {
         "en": "Request from a Student\n^4D4DFF[Guys who get in the way]^000000 Quest accepted.",
@@ -1392,12 +1392,12 @@
     "FrlMCg": {
         "en": "[Request Completed]\nLocation: Payon Dungeon 3F\nTarget: Defeat 15 Munak, 15 Bongun, and bring 15 Amulet\nReward: Exp 13200, Jexp 12300",
         "pt": "[Missão Completa]\nLocal: Caverna de Payon 3º piso\nObjetivo: Caçar 15 Munaks, 15 Bonguns e coletar 15 Amuletos\nRecompensa: EXP base 13200, EXP classe 12300",
-        "es": "[Solicitud completada]\nUbicación: Mazmorra de PayonP3.\nObjetivo: Derrota a 15Munak y 15Bongun y trae 15Amuletos.\nPremio: 13200deEXP y 12300deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Mazmorra de Payon P3.\nObjetivo: Derrota a 15 Munak y 15 Bongun y trae 15 Amuletos.\nPremio: 13200 de EXP y 12300 de EXP de clase."
     },
     "F7lMCg": {
         "en": "[Request from Payon Guard]\nLocation: Payon Dungeon 3F\nTarget: Defeat 15 Munak, 15 Bongun, and bring 15 Amulet\nReward: Exp 13200, Jexp 12300",
         "pt": "[Solicitação]\nLocal: Caverna de Payon 3º piso\nObjetivo: Caçar 15 Munaks, 15 Bonguns e coletar 15 Amuletos\nRecompensa: EXP base 13200, EXP classe 12300",
-        "es": "[Solicitud de la guardia de Payon]\nUbicación: Mazmorra de PayonP3.\nObjetivo: Derrota a 15Munak y 15Bongun y trae 15Amuletos.\nPremio: 13200deEXP y 12300deEXPdeclase."
+        "es": "[Solicitud de la guardia de Payon]\nUbicación: Mazmorra de Payon P3.\nObjetivo: Derrota a 15 Munak y 15 Bongun y trae 15 Amuletos.\nPremio: 13200 de EXP y 12300 de EXP de clase."
     },
     "GLlMCg": {
         "en": "Request from Payon Guard\n^4D4DFF[Soul Purification Ritual]^000000 Quest accepted.",
@@ -1407,12 +1407,12 @@
     "GblMCg": {
         "en": "[Request Completed]\nLocation: Payon Dungeon 4F\nTarget: Bring 10 Purified Bottles of Ghost\nReward: Exp 9600, Jexp 9600",
         "pt": "[Missão Completa]\nLocal: Caverna de Payon 4º piso\nObjetivo: Coletar 10 Último Suspiro\nRecompensa: EXP base 9600, EXP classe 9600",
-        "es": "[Solicitud completada]\nUbicación: Mazmorra de PayonP4.\nObjetivo: Trae 10Botellas purificadas de fantasmas.\nPremio: 9600deEXP y 9600deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Mazmorra de Payon P4.\nObjetivo: Trae 10 Botellas purificadas de fantasmas.\nPremio: 9600 de EXP y 9600 de EXP de clase."
     },
     "GrlMCg": {
         "en": "[Request from Wandering Monk]\nLocation: Payon Dungeon 4F\nTarget: Bring 10 Purified Bottles of Ghost\nReward: Exp 9600, Jexp 9600",
         "pt": "[Solicitação]\nLocal: Caverna de Payon 4º piso\nObjetivo: Coletar 10 Último Suspiro\nRecompensa: EXP base 9600, EXP classe 9600",
-        "es": "[Solicitud del monje errante]\nUbicación: Mazmorra de PayonP4.\nObjetivo: Trae 10Botellas purificadas de fantasmas.\nPremio: 9600deEXP y 9600deEXPdeclase."
+        "es": "[Solicitud del monje errante]\nUbicación: Mazmorra de Payon P4.\nObjetivo: Trae 10 Botellas purificadas de fantasmas.\nPremio: 9600 de EXP y 9600 de EXP de clase."
     },
     "G7lMCg": {
         "en": "Request from Wandering Monk\n^4D4DFF[The Best Medicine]^000000 Quest accepted.",
@@ -1422,12 +1422,12 @@
     "HLlMCg": {
         "en": "[Request Completed]\nLocation: Payon Dungeon 4F\nTarget: Defeat 12 Sohee and bring 3 Girl's Handkerchief\nReward: Exp 10480, Jexp 12400",
         "pt": "[Missão Completa]\nLocal: Caverna de Payon 4º piso\nObjetivo: Caçar 12 Sohees e coletar 3 Lenços de Menina\nRecompensa: EXP base 10480, EXP classe 12400",
-        "es": "[Solicitud completada]\nUbicación: Mazmorra de PayonP4.\nObjetivo: Derrota a 12Sohee y trae 3Pañuelos de chica.\nPremio: 10480deEXP y 12400deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Mazmorra de PayonP4.\nObjetivo: Derrota a 12 Sohee y trae 3 Pañuelos de chica.\nPremio: 10480 de EXP y 12400 de EXP de clase."
     },
     "HblMCg": {
         "en": "[Request from Young Scholar]\nLocation: Payon Dungeon 4F\nTarget: Defeat 12 Sohee and bring 3 Girl's Handkerchief\nReward: Exp 10480, Jexp 12400",
         "pt": "[Solicitação]\nLocal: Caverna de Payon 4º piso\nObjetivo: Caçar 12 Sohees e coletar 3 Lenços de Menina\nRecompensa: EXP base 10480, EXP classe 12400",
-        "es": "[Solicitud de un joven erudito]\nUbicación: Mazmorra de PayonP4.\nObjetivo: Derrota a 12Sohee y trae 3Pañuelos de chica.\nPremio: 10480deEXP y 12400deEXPdeclase."
+        "es": "[Solicitud de un joven erudito]\nUbicación: Mazmorra de PayonP4.\nObjetivo: Derrota a 12 Sohee y trae 3 Pañuelos de chica.\nPremio: 10480 de EXP y 12400 de EXP de clase."
     },
     "HrlMCg": {
         "en": "Request from Young Scholar\n^4D4DFF[Traces of Great Magic]^000000 Quest accepted.",
@@ -1437,12 +1437,12 @@
     "H7lMCg": {
         "en": "[Request Completed]\nLocation: Geffen Underground 1F\nTarget: Defeat 10 Hunter Fly\nReward: Exp 8000, Jexp 6800",
         "pt": "[Missão Completa]\nLocal: Torre de Geffen 1º piso\nObjetivo: Caçar 10 Moscas Caçadoras\nRecompensa: EXP base 8000, EXP classe 6800",
-        "es": "[Solicitud completada]\nUbicación: Caverna subterránea de GeffenP1.\nObjetivo: Derrota a 10Moscas cazadoras.\nPremio: 8000deEXP y 6800deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Caverna subterránea de Geffen P1.\nObjetivo: Derrota a 10 Moscas cazadoras.\nPremio: 8000 de EXP y 6800 de EXP de clase."
     },
     "ILlMCg": {
         "en": "[Request from Apprentice Mage]\nLocation: Geffen Underground 1F\nTarget: Defeat 10 Hunter Fly\nReward: Exp 8000, Jexp 6800",
         "pt": "[Solicitação]\nLocal: Torre de Geffen 1º piso\nObjetivo: Caçar 10 Moscas Caçadoras\nRecompensa: EXP base 8000, EXP classe 6800",
-        "es": "[Solicitud de aprendiz de Mago]\nUbicación: Caverna subterránea de GeffenP1.\nObjetivo: Derrota a 10Moscas cazadoras.\nPremio: 8000deEXP y 6800deEXPdeclase."
+        "es": "[Solicitud de aprendiz de Mago]\nUbicación: Caverna subterránea de Geffen P1.\nObjetivo: Derrota a 10 Moscas cazadoras.\nPremio: 8000 de EXP y 6800 de EXP de clase."
     },
     "IblMCg": {
         "en": "Request from Apprentice Mage\n^4D4DFF[Hunterfly Hunting]^000000 Quest accepted.",
@@ -1452,12 +1452,12 @@
     "IrlMCg": {
         "en": "[Request Completed]\nLocation: Geffen Underground 2F \nTarget: Defeat 10 Ghoul and 10 Jakk\nReward: Exp 14800, Jexp 13660",
         "pt": "[Missão Completa]\nLocal: Torre de Geffen 2º piso \nObjetivo: Caçar 10 Carniçais e 10 Jakks\nRecompensa: EXP base 14800, EXP classe 13660",
-        "es": "[Solicitud completada]\nUbicación: Caverna subterránea de GeffenP2. \nObjetivo: Derrota a 10Necrófagos y 10Jakk.\nPremio: 14800deEXP y 13660deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Caverna subterránea de Geffen P2. \nObjetivo: Derrota a 10 Necrófagos y 10 Jakk.\nPremio: 14800 de EXP y 13660 de EXP de clase."
     },
     "I7lMCg": {
         "en": "[Request from Apprentice Mage]\nLocation: Geffen Underground 2F \nTarget: Defeat 10 Ghoul and 10 Jakk\nReward: Exp 14800, Jexp 13660",
         "pt": "[Solicitação]\nLocal: Torre de Geffen 2º piso \nObjetivo: Caçar 10 Carniçais e 10 Jakks\nRecompensa: EXP base 14800, EXP classe 13660",
-        "es": "[Solicitud de aprendiz de Mago]\nUbicación: Caverna subterránea de GeffenP2. \nObjetivo: Derrota a 10Necrófagos y 10Jakk.\nPremio: 14800deEXP y 13660deEXPdeclase."
+        "es": "[Solicitud de aprendiz de Mago]\nUbicación: Caverna subterránea de Geffen P2. \nObjetivo: Derrota a 10 Necrófagos y 10 Jakk.\nPremio: 14800 de EXP y 13660 de EXP de clase."
     },
     "JLlMCg": {
         "en": "Request from Apprentice Mage\n^4D4DFF[Ghoul and Jakk Hunting]^000000 Quest accepted.",
@@ -1467,12 +1467,12 @@
     "JblMCg": {
         "en": "[Request Completed]\nLocation: Kokomo Beach\nTarget: Defeat 10 Seal and 10 Sea-Otter\nReward: Exp 10000, Jexp 10000",
         "pt": "[Missão Completa]\nLocal: Praia de Kokomo\nObjetivo: Caçar 10 Lontras e 10 Focas\nRecompensa: EXP base 10000, EXP classe 10000",
-        "es": "[Solicitud completada]\nUbicación: Playa de Kokomo.\nObjetivo: Derrota a 10Focas y 10Nutrias marinas.\nPremio: 10000deEXP y 10000deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Playa de Kokomo.\nObjetivo: Derrota a 10 Focas y 10 Nutrias marinas.\nPremio: 10000 de EXP y 10000 de EXP de clase."
     },
     "JrlMCg": {
         "en": "[Request from Vigilante Group Member]\nLocation: Kokomo Beach\nTarget: Defeat 10 Seal and 10 Sea-Otter\nReward: Exp 10000, Jexp 10000",
         "pt": "[Solicitação]\nLocal: Praia de Kokomo\nObjetivo: Caçar 10 Lontras e 10 Focas\nRecompensa: EXP base 10000, EXP classe 10000",
-        "es": "[Solicitud de un miembro del grupo de justicieros]\nUbicación: Playa de Kokomo.\nObjetivo: Derrota a 10Focas y 10Nutrias marinas.\nPremio: 10000deEXP y 10000deEXPdeclase."
+        "es": "[Solicitud de un miembro del grupo de justicieros]\nUbicación: Playa de Kokomo.\nObjetivo: Derrota a 10 Focas y 10 Nutrias marinas.\nPremio: 10000 de EXP y 10000 de EXP de clase."
     },
     "J7lMCg": {
         "en": "Request from Vigilante Group Member\n^4D4DFF[Cute Scoundrels]^000000 Quest accepted.",
@@ -1482,12 +1482,12 @@
     "KLlMCg": {
         "en": "[Request Completed]\nLocation: Northern Comodo Cave Luanda\nTarget: Defeat 10 Stalactic Golem, 5 Trijoint, and 5 Megalith\nReward: Exp 20000, Jexp 20000",
         "pt": "[Missão Completa]\nLocal: Caverna Luanda\nObjetivo: Caçar 10 Megaliths, 10 Trilobitas e 10 Golens Estalactíticos\nRecompensa: EXP base 20000, EXP classe 20000",
-        "es": "[Solicitud completada]\nUbicación: Cueva de Luanda al norte de Comodo.\nObjetivo: Derrota a 10Gólems de estalactita, 5Trilobites y 5Megalith.\nPremio: 20000deEXP y 20000deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Cueva de Luanda al norte de Comodo.\nObjetivo: Derrota a 10 Gólems de estalactita, 5 Trilobites y 5 Megalith.\nPremio: 20000 de EXP y 20000 de EXP de clase."
     },
     "KblMCg": {
         "en": "[Request from Vigilante Group Member]\nLocation: Northern Comodo Cave Luanda\nTarget: Defeat 10 Stalactic Golem, 5 Trijoint, and 5 Megalith\nReward: Exp 20000, Jexp 20000",
         "pt": "[Solicitação]\nLocal: Caverna Luanda\nObjetivo: Caçar 10 Megaliths, 10 Trilobitas e 10 Golens Estalactíticos\nRecompensa: EXP base 20000, EXP classe 20000",
-        "es": "[Solicitud de un miembro del grupo de justicieros]\nUbicación: Cueva de Luanda al norte de Comodo.\nObjetivo: Derrota a 10Gólems de estalactita, 5Trilobites y 5Megalith.\nPremio: 20000deEXP y 20000deEXPdeclase."
+        "es": "[Solicitud de un miembro del grupo de justicieros]\nUbicación: Cueva de Luanda al norte de Comodo.\nObjetivo: Derrota a 10 Gólems de estalactita, 5 Trilobites y 5 Megalith.\nPremio: 20000 de EXP y 20000 de EXP de clase."
     },
     "KrlMCg": {
         "en": "Request from Vigilante Group Member\n^4D4DFF[Stiff Fellows]^000000 Quest accepted.",
@@ -1497,12 +1497,12 @@
     "K7lMCg": {
         "en": "[Request Completed]\nLocation: Comodo Papuchicha Forest\nTarget: Defeat 15 Grove and 10 Alligator\nReward: Exp 15000, Jexp 15000",
         "pt": "[Missão Completa]\nLocal: Floresta Papuchica\nObjetivo: Caçar 15 Groove e 10 Crocodilos\nRecompensa: EXP base 15000, EXP classe 15000",
-        "es": "[Solicitud completada]\nUbicación: Bosque de Papuchicha en Comodo.\nObjetivo: Derrota a 15Grove y 10Cocodrilos.\nPremio: 15000deEXP y 15000deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Bosque de Papuchicha en Comodo.\nObjetivo: Derrota a 15 Grove y 10 Cocodrilos.\nPremio: 15000 de EXP y 15000 de EXP de clase."
     },
     "LLlMCg": {
         "en": "[Request from Explorer]\nLocation: Comodo Papuchicha Forest\nTarget: Defeat 15 Grove and 10 Alligator\nReward: Exp 15000, Jexp 15000",
         "pt": "[Solicitação]\nLocal: Floresta Papuchica\nObjetivo: Caçar 15 Groove e 10 Crocodilos\nRecompensa: EXP base 15000, EXP classe 15000",
-        "es": "[Solicitud del explorador]\nUbicación: Bosque de Papuchicha en Comodo.\nObjetivo: Derrota a 15Grove y 10Cocodrilos.\nPremio: 15000deEXP y 15000deEXPdeclase."
+        "es": "[Solicitud del explorador]\nUbicación: Bosque de Papuchicha en Comodo.\nObjetivo: Derrota a 15 Grove y 10 Cocodrilos.\nPremio: 15000 de EXP y 15000 de EXP de clase."
     },
     "LblMCg": {
         "en": "Request from Explorer\n^4D4DFF[Gross Fellows]^000000 Quest accepted.",
@@ -1511,7 +1511,7 @@
     },
     "LrlMCg": {
         "en": "70~99 Request Bulletin Board",
-        "pt": "Quadro de avisos de solicitações 70~99",
+        "pt": "Missões 70 - 99",
         "es": "70~99 Tablón de Anuncios de Solicitudes"
     },
     "L7lMCg": {
@@ -2267,12 +2267,12 @@
     "xblMCg": {
         "en": "[Request Completed]\nLocation: Field near Kiel Hyre Cottage\nTarget: Defeat 15 Harpy and 15 Sleeper\nReward: Exp 36840, Jexp 40200",
         "pt": "[Missão Completa]\nLocal: Arredores da Academia Kiel Hyre\nObjetivo: Caçar 15 Harpias e 15 Rochosos\nRecompensa: EXP base 36840, EXP classe 40200",
-        "es": "[Solicitud completada]\nUbicación: Campo cerca de la cabaña de Kiel Hyre.\nObjetivo: Derrota a 15Arpías y 15Durmientes.\nPremio: 36840deEXP y 40200deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Campo cerca de la cabaña de Kiel Hyre.\nObjetivo: Derrota a 15 Arpías y 15 Durmientes.\nPremio: 36840 de EXP y 40200 de EXP de clase."
     },
     "xrlMCg": {
         "en": "[Kiel Hyre Academy Guard's Request]\nLocation: Field near Kiel Hyre Cottage\nTarget: Defeat 15 Harpy and 15 Sleeper\nReward: Exp 36840, Jexp 40200",
         "pt": "[Solicitação]\nLocal: Arredores da Academia Kiel Hyre\nObjetivo: Caçar 15 Harpias e 15 Rochosos\nRecompensa: EXP base 36840, EXP classe 40200",
-        "es": "[Solicitud de la guardia de la Academia Kiel Hyre]\nUbicación: Campo cerca de la cabaña de Kiel Hyre.\nObjetivo: Derrota a 15Arpías y 15Durmientes.\nPremio: 36840deEXP y 40200deEXPdeclase."
+        "es": "[Solicitud de la guardia de la Academia Kiel Hyre]\nUbicación: Campo cerca de la cabaña de Kiel Hyre.\nObjetivo: Derrota a 15 Arpías y 15 Durmientes.\nPremio: 36840 de EXP y 40200 de EXP de clase."
     },
     "x7lMCg": {
         "en": "Kiel Hyre Academy Guard's Request\n^4D4DFF[Improve School Safety]^000000 Quest accepted.",
@@ -2282,12 +2282,12 @@
     "yLlMCg": {
         "en": "[Request Completed]\nLocation: Fields near Kiel Hyre Academy \nTarget: Collect 10 Antelope Skin and 10 PecoPeco Feather\nReward: Exp 14200, Jexp 14200",
         "pt": "[Missão Completa]\nLocal: Arredores da Academia Kiel Hyre\nObjetivo: Coletar 10 Peles de Bode e 10 Penas de Grand Peco\nRecompensa: EXP base 14200, EXP classe 14200",
-        "es": "[Solicitud completada]\nUbicación: Campos cercanos a la Academia Kiel Hyre. \nObjetivo: Recolecta 10Pieles de antílope y 10Plumas de Peco Peco.\nPremio: 14200deEXP y 14200deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Campos cercanos a la Academia Kiel Hyre. \nObjetivo: Recolecta 10 Pieles de antílope y 10 Plumas de Peco Peco.\nPremio: 14200 de EXP y 14200 de EXP de clase."
     },
     "yblMCg": {
         "en": "[Kiel Hyre Academy Cat Hand Merchant's Request]\nLocation: Fields near Kiel Hyre Academy \nTarget: Collect 10 Antelope Skin and 10 PecoPeco Feather\nReward: Exp 14200, Jexp 14200",
         "pt": "[Solicitação]\nLocal: Arredores da Academia Kiel Hyre\nObjetivo: Coletar 10 Peles de Bode e 10 Penas de Grand Peco\nRecompensa: EXP base 14200, EXP classe 14200",
-        "es": "[Solicitud de comerciante de Mano Gatuna en la Academia Kiel Hyre]\nUbicación: Campos cercanos a la Academia Kiel Hyre. \nObjetivo: Recolecta 10Pieles de antílope y 10Plumas de Peco Peco.\nPremio: 14200deEXP y 14200deEXPdeclase."
+        "es": "[Solicitud de comerciante de Mano Gatuna en la Academia Kiel Hyre]\nUbicación: Campos cercanos a la Academia Kiel Hyre. \nObjetivo: Recolecta 10 Pieles de antílope y 10 Plumas de Peco Peco.\nPremio: 14200 de EXP y 14200 de EXP de clase."
     },
     "yrlMCg": {
         "en": "Kiel Hyre Academy Cat Hand Merchant's Request\n^4D4DFF[Groundbreaking Business Item]^000000 Quest accepted.",
@@ -2297,12 +2297,12 @@
     "y7lMCg": {
         "en": "[Request Completed]\nLocation: Fields near Kiel Hyre Academy \nTarget: Defeat 20 Grand Peco and 20 Goat\nReward: Exp 42960, Jexp 43880",
         "pt": "[Missão Completa]\nLocal: Arredores da Academia Kiel Hyre\nObjetivo: Caçar 20 Bodes e 20 Grand Pecos\nRecompensa: EXP base 42960, EXP classe 43880",
-        "es": "[Solicitud completada]\nUbicación: Campos cercanos a la Academia Kiel Hyre. \nObjetivo: Derrota a 20Gran Peco y 20Cabras.\nPremio: 42960deEXP y 43880deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Campos cercanos a la Academia Kiel Hyre. \nObjetivo: Derrota a 20 Gran Peco y 20 Cabras.\nPremio: 42960 de EXP y 43880 de EXP de clase."
     },
     "zLlMCg": {
         "en": "[Request from Kiel Hyre Academy student]\nLocation: Fields near Kiel Hyre Academy \nTarget: Defeat 20 Grand Peco and 20 Goat\nReward: Exp 42960, Jexp 43880",
         "pt": "[Solicitação]\nLocal: Arredores da Academia Kiel Hyre\nObjetivo: Caçar 20 Bodes e 20 Grand Pecos\nRecompensa: EXP base 42960, EXP classe 43880",
-        "es": "[Solicitud de una estudiante de la Academia Kiel Hyre]\nUbicación: Campos cercanos a la Academia Kiel Hyre. \nObjetivo: Derrota a 20Gran Peco y 20Cabras.\nPremio: 42960deEXP y 43880deEXPdeclase."
+        "es": "[Solicitud de una estudiante de la Academia Kiel Hyre]\nUbicación: Campos cercanos a la Academia Kiel Hyre. \nObjetivo: Derrota a 20 Gran Peco y 20 Cabras.\nPremio: 42960 de EXP y 43880 de EXP de clase."
     },
     "zblMCg": {
         "en": "Request from Kiel Hyre Academy student\n^4D4DFF[A Solid Finish]^000000 Quest accepted.",
@@ -2312,12 +2312,12 @@
     "zrlMCg": {
         "en": "[Request Completed]\nLocation: Aldebaran Clock Tower 1F\nTarget: Defeat 20 Rideword and 15 Punk\nReward: Exp 33820, Jexp 40650",
         "pt": "[Missão Completa]\nLocal: Torre do Relógio 1º piso\nObjetivo: Caçar 20 Ridewords e 15 Punks\nRecompensa: EXP base 33820, EXP classe 40650",
-        "es": "[Solicitud completada]\nUbicación: Torre del reloj de AldebaranP1.\nObjetivo: Derrota a 20Rideword y 15Punk.\nPremio: 33820deEXP y 40650deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Torre del reloj de Aldebaran P1.\nObjetivo: Derrota a 20 Rideword y 15 Punk.\nPremio: 33820 de EXP y 40650 de EXP de clase."
     },
     "z7lMCg": {
         "en": "[Request from Aldebaran Clock Tower Manager Serdin]\nLocation: Aldebaran Clock Tower 1F\nTarget: Defeat 20 Rideword and 15 Punk\nReward: Exp 33820, Jexp 40650",
         "pt": "[Solicitação]\nLocal: Torre do Relógio 1º piso\nObjetivo: Caçar 20 Ridewords e 15 Punks\nRecompensa: EXP base 33820, EXP classe 40650",
-        "es": "[Solicitud de Serdin, el guardián de la Torre del reloj de Aldebaran]\nUbicación: Torre del reloj de AldebaranP1.\nObjetivo: Derrota a 20Rideword y 15Punk.\nPremio: 33820deEXP y 40650deEXPdeclase."
+        "es": "[Solicitud de Serdin, el guardián de la Torre del reloj de Aldebaran]\nUbicación: Torre del reloj de Aldebaran P1.\nObjetivo: Derrota a 20 Rideword y 15 Punk.\nPremio: 33820 de EXP y 40650 de EXP de clase."
     },
     "0LlMCg": {
         "en": "Request from Aldebaran Clock Tower Manager Serdin\n^4D4DFF[Clean Clock Tower 1F]^000000 Quest accepted.",
@@ -2327,12 +2327,12 @@
     "0blMCg": {
         "en": "[Request Completed]\nLocation: Aldebaran Clock Tower 2F\nTarget: Defeat 15 Clock\nReward: Exp 20310, Jexp 17370",
         "pt": "[Missão Completa]\nLocal: Torre do Relógio 2º piso\nObjetivo: Caçar 15 Relógios\nRecompensa: EXP base 20310, EXP classe 17370",
-        "es": "[Solicitud completada]\nUbicación: Torre del reloj de AldebaranP2.\nObjetivo: Derrota a 15Relojes.\nPremio: 20310deEXP y 17370deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Torre del reloj de Aldebaran P2.\nObjetivo: Derrota a 15 Relojes.\nPremio: 20310 de EXP y 17370 de EXP de clase."
     },
     "0rlMCg": {
         "en": "[Request from Aldebaran Clock Tower Manager Serdin]\nLocation: Aldebaran Clock Tower 2F\nTarget: Defeat 15 Clock\nReward: Exp 20310, Jexp 17370",
         "pt": "[Solicitação]\nLocal: Torre do Relógio 2º piso\nObjetivo: Caçar 15 Relógios\nRecompensa: EXP base 20310, EXP classe 17370",
-        "es": "[Solicitud de Serdin, el guardián de la Torre del reloj de Aldebaran]\nUbicación: Torre del reloj de AldebaranP2.\nObjetivo: Derrota a 15Relojes.\nPremio: 20310deEXP y 17370deEXPdeclase."
+        "es": "[Solicitud de Serdin, el guardián de la Torre del reloj de Aldebaran]\nUbicación: Torre del reloj de Aldebaran P2.\nObjetivo: Derrota a 15 Relojes.\nPremio: 20310 de EXP y 17370 de EXP de clase."
     },
     "07lMCg": {
         "en": "Request from Aldebaran Clock Tower Manager Serdin\n^4D4DFF[A Living, Moving Clock 1]^000000 Quest accepted.",
@@ -2342,12 +2342,12 @@
     "1LlMCg": {
         "en": "[Request Completed]\nLocation: Aldebaran Clock Tower 3F\nTarget: Defeat 20 Alarm\nReward: Exp 28320, Jexp 27960",
         "pt": "[Missão Completa]\nLocal: Torre do Relógio 3º piso\nObjetivo: Caçar 20 Alarmes\nRecompensa: EXP base 28320, EXP classe 27960",
-        "es": "[Solicitud completada]\nUbicación: Torre del reloj de AldebaranP3.\nObjetivo: Derrota a 20Alarmas.\nPremio: 28320deEXP y 27960deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Torre del reloj de Aldebaran P3.\nObjetivo: Derrota a 20 Alarmas.\nPremio: 28320 de EXP y 27960 de EXP de clase."
     },
     "1blMCg": {
         "en": "[Request from Aldebaran Clock Tower Manager Serdin]\nLocation: Aldebaran Clock Tower 3F\nTarget: Defeat 20 Alarm\nReward: Exp 28320, Jexp 27960",
         "pt": "[Solicitação]\nLocal: Torre do Relógio 3º piso\nObjetivo: Caçar 20 Alarmes\nRecompensa: EXP base 28320, EXP classe 27960",
-        "es": "[Solicitud de Serdin, el guardián de la Torre del reloj de Aldebaran]\nUbicación: Torre del reloj de AldebaranP3.\nObjetivo: Derrota a 20Alarmas.\nPremio: 28320deEXP y 27960deEXPdeclase."
+        "es": "[Solicitud de Serdin, el guardián de la Torre del reloj de Aldebaran]\nUbicación: Torre del reloj de Aldebaran P3.\nObjetivo: Derrota a 20 Alarmas.\nPremio: 28320 de EXP y 27960 de EXP de clase."
     },
     "1rlMCg": {
         "en": "Request from Aldebaran Clock Tower Manager Serdin\n^4D4DFF[A Living, Moving Clock 2]^000000 Quest accepted.",
@@ -2357,12 +2357,12 @@
     "17lMCg": {
         "en": "[Request Completed]\nLocation: Aldebaran Underground Clock Tower 4F\nTarget: Defeat 20 Bathory\nReward: Exp 25720, Jexp 27280",
         "pt": "[Missão Completa]\nLocal: Subsolo da Torre do Relógio 4º piso\nObjetivo: Caçar 20 Bathorys\nRecompensa: EXP base 25720, EXP classe 27280",
-        "es": "[Solicitud completada]\nUbicación: Torre del reloj de AldebaranP4.\nObjetivo: Derrota a 20Bathory.\nPremio: 25720deEXP y 27280deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Torre del reloj de Aldebaran P4.\nObjetivo: Derrota a 20 Bathory.\nPremio: 25720 de EXP y 27280 de EXP de clase."
     },
     "2LlMCg": {
         "en": "[Request from Aldebaran Clock Tower Manager Serdin]\nLocation: Aldebaran Underground Clock Tower 4F\nTarget: Defeat 20 Bathory\nReward: Exp 25720, Jexp 27280",
         "pt": "[Solicitação]\nLocal: Subsolo da Torre do Relógio 4º piso\nObjetivo: Caçar 20 Bathorys\nRecompensa: EXP base 25720, EXP classe 27280",
-        "es": "[Solicitud de Serdin, el guardián de la Torre del reloj de Aldebaran]\nUbicación: Torre del reloj de AldebaranP4.\nObjetivo: Derrota a 20Bathory.\nPremio: 25720deEXP y 27280deEXPdeclase."
+        "es": "[Solicitud de Serdin, el guardián de la Torre del reloj de Aldebaran]\nUbicación: Torre del reloj de Aldebaran P4.\nObjetivo: Derrota a 20 Bathory.\nPremio: 25720 de EXP y 27280 de EXP de clase."
     },
     "2blMCg": {
         "en": "Request from Aldebaran Clock Tower Manager Serdin\n^4D4DFF[Laughter from Underground]^000000 Quest accepted.",
@@ -2372,12 +2372,12 @@
     "2rlMCg": {
         "en": "[Request Completed]\nLocation: Glastheim Monastery 1F\nTarget: Defeat 15 Wraith and 15 Evil Druid\nReward: Exp 37640, Jexp 37050",
         "pt": "[Missão Completa]\nLocal: Abadia 1º piso\nObjetivo: Caçar 15 Druidas Malignos e 15 Aparições\nRecompensa: EXP base 37640, EXP classe 37050",
-        "es": "[Solicitud completada]\nUbicación: Monasterio de GlastheimP1.\nObjetivo: Derrota a 15Espectros y 15Druidas del mal.\nPremio: 37640deEXP y 37050deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Monasterio de Glastheim P1.\nObjetivo: Derrota a 15 Espectros y 15 Druidas del mal.\nPremio: 37640 de EXP y 37050 de EXP de clase."
     },
     "27lMCg": {
         "en": "[Request from Claude in Glastheim Monastery Entrance]\nLocation: Glastheim Monastery 1F\nTarget: Defeat 15 Wraith and 15 Evil Druid\nReward: Exp 37640, Jexp 37050",
         "pt": "[Solicitação]\nLocal: Abadia 1º piso\nObjetivo: Caçar 15 Druidas Malignos e 15 Aparições\nRecompensa: EXP base 37640, EXP classe 37050",
-        "es": "[Solicitud de Claude en la entrada del monasterio de Glastheim]\nUbicación: Monasterio de GlastheimP1.\nObjetivo: Derrota a 15Espectros y 15Druidas del mal.\nPremio: 37640deEXP y 37050deEXPdeclase."
+        "es": "[Solicitud de Claude en la entrada del monasterio de Glastheim]\nUbicación: Monasterio de Glastheim P1.\nObjetivo: Derrota a 15 Espectros y 15 Druidas del mal.\nPremio: 37640 de EXP y 37050 de EXP de clase."
     },
     "3LlMCg": {
         "en": "Request from Claude in Glastheim Monastery Entrance\n^4D4DFF[Monastery Purification]^000000 Quest accepted.",
@@ -2387,12 +2387,12 @@
     "3blMCg": {
         "en": "[Request Completed]\nLocation: Glastheim Underground Prison\nTarget: Defeat 10 Zombie Prisoner and 10 Skeleton Prisoner\nReward: Exp 72000, Jexp 72000",
         "pt": "[Missão Completa]\nLocal: Prisão 1º piso\nObjetivo: Caçar 10 Esqueletos Prisioneiros e 10 Zumbis Prisioneiros\nRecompensa: EXP base 72000, EXP classe 72000",
-        "es": "[Solicitud completada]\nUbicación: Prisión subterránea de Glastheim.\nObjetivo: Derrota a 10Prisioneros zombis y a 10Esqueletos prisioneros.\nPremio: 72000deEXP y 72000deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Prisión subterránea de Glastheim.\nObjetivo: Derrota a 10 Prisioneros zombis y a 10 Esqueletos prisioneros.\nPremio: 72000 de EXP y 72000 de EXP de clase."
     },
     "3rlMCg": {
         "en": "[Request from Tired Priest Charon]\nLocation: Glastheim Underground Prison\nTarget: Defeat 10 Zombie Prisoner and 10 Skeleton Prisoner\nReward: Exp 72000, Jexp 72000",
         "pt": "[Solicitação]\nLocal: Prisão 1º piso\nObjetivo: Caçar 10 Esqueletos Prisioneiros e 10 Zumbis Prisioneiros\nRecompensa: EXP base 72000, EXP classe 72000",
-        "es": "[Solicitud del cansado sacerdote Charon]\nUbicación: Prisión subterránea de Glastheim.\nObjetivo: Derrota a 10Prisioneros zombis y a 10Esqueletos prisioneros.\nPremio: 72000deEXP y 72000deEXPdeclase."
+        "es": "[Solicitud del cansado sacerdote Charon]\nUbicación: Prisión subterránea de Glastheim.\nObjetivo: Derrota a 10 Prisioneros zombis y a 10 Esqueletos prisioneros.\nPremio: 72000 de EXP y 72000 de EXP de clase."
     },
     "37lMCg": {
         "en": "Request from Tired Priest Charon\n^4D4DFF[Prison Break]^000000 Quest accepted.",
@@ -2402,12 +2402,12 @@
     "4LlMCg": {
         "en": "[Request Completed]\nLocation: Glastheim Underground Prison\nTarget: Defeat 20 Injustice\nReward: Exp 72000, Jexp 72000",
         "pt": "[Missão Completa]\nLocal: Prisão 1º piso\nObjetivo: Elimine 20 Injustiçados\nRecompensa: EXP base 72000, EXP classe 72000",
-        "es": "[Solicitud completada]\nUbicación: Prisión subterránea de Glastheim.\nObjetivo: Derrota a 20Injusticias.\nPremio: 72000deEXP y 72000deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Prisión subterránea de Glastheim.\nObjetivo: Derrota a 20 Injusticias.\nPremio: 72000 de EXP y 72000 de EXP de clase."
     },
     "4blMCg": {
         "en": "[Request from the wandering wizard Nadir]\nLocation: Glastheim Underground Prison\nTarget: Defeat 20 Injustice\nReward: Exp 72000, Jexp 72000",
         "pt": "[Solicitação]\nLocal: Prisão 1º piso\nObjetivo: Elimine 20 Injustiçados\nRecompensa: EXP base 72000, EXP classe 72000",
-        "es": "[Solicitud del mago errante Nadir]\nUbicación: Prisión subterránea de Glastheim.\nObjetivo: Derrota a 20Injusticias.\nPremio: 72000deEXP y 72000deEXPdeclase."
+        "es": "[Solicitud del mago errante Nadir]\nUbicación: Prisión subterránea de Glastheim.\nObjetivo: Derrota a 20 Injusticias.\nPremio: 72000 de EXP y 72000 de EXP de clase."
     },
     "4rlMCg": {
         "en": "Request from the wandering wizard Nadir\n^4D4DFF[Refined Taste]^000000 Quest accepted.",
@@ -2417,12 +2417,12 @@
     "47lMCg": {
         "en": "[Request Completed]\nLocation: Glastheim Monastery Catacombs\nTarget: Defeat 10 Dark Priest and 1 Furious Dark Priest\nReward: Exp 96220, Jexp 91630",
         "pt": "[Missão Completa]\nLocal: Cemitério\nObjetivo: Caçar 10 Sacerdotes Malditos e 1 Sacerdote Maldito Feroz \nRecompensa: EXP base 96220, EXP classe 91630",
-        "es": "[Solicitud completada]\nUbicación: Catacumbas del monasterio de Glastheim.\nObjetivo: Derrota a 10Sacerdotes oscuros y a 1Sacerdote oscuro furioso.\nPremio: 96220deEXP y 91630deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Catacumbas del monasterio de Glastheim.\nObjetivo: Derrota a 10 Sacerdotes oscuros y a 1 Sacerdote oscuro furioso.\nPremio: 96220 de EXP y 91630 de EXP de clase."
     },
     "5LlMCg": {
         "en": "[Request from Claude in Glastheim Monastery Entrance]\nLocation: Glastheim Monastery Catacombs\nTarget: Defeat 10 Dark Priest and 1 Furious Dark Priest\nReward: Exp 96220, Jexp 91630",
         "pt": "[Solicitação]\nLocal: Cemitério\nObjetivo: Caçar 10 Sacerdotes Malditos e 1 Sacerdote Maldito Feroz \nRecompensa: EXP base 96220, EXP classe 91630",
-        "es": "[Solicitud de Claude en la entrada del monasterio de Glastheim]\nUbicación: Catacumbas del monasterio de Glastheim.\nObjetivo: Derrota a 10Sacerdotes oscuros y a 1Sacerdote oscuro furioso.\nPremio: 96220deEXP y 91630deEXPdeclase."
+        "es": "[Solicitud de Claude en la entrada del monasterio de Glastheim]\nUbicación: Catacumbas del monasterio de Glastheim.\nObjetivo: Derrota a 10 Sacerdotes oscuros y a 1 Sacerdote oscuro furioso.\nPremio: 96220 de EXP y 91630 de EXP de clase."
     },
     "5blMCg": {
         "en": "Request from Claude in Glastheim Monastery Entrance\n^4D4DFF[Catacomb Stabilization]^000000 Quest accepted.",
@@ -2432,12 +2432,12 @@
     "5rlMCg": {
         "en": "[Request Completed]\nLocation: Glastheim Underground Prison\nTarget: Defeat 10 Rybio\nReward: Exp 72000, Jexp 72000",
         "pt": "[Missão Completa]\nLocal: Prisão 1º piso\nObjetivo: Caçar 10 Rybios\nRecompensa: EXP base 72000, EXP classe 72000",
-        "es": "[Solicitud completada]\nUbicación: Prisión subterránea de Glastheim.\nObjetivo: Derrota a 10Rybio.\nPremio: 72000deEXP y 72000deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Prisión subterránea de Glastheim.\nObjetivo: Derrota a 10 Rybio.\nPremio: 72000 de EXP y 72000 de EXP de clase."
     },
     "57lMCg": {
         "en": "[Request from the wandering wizard Nadir]\nLocation: Glastheim Underground Prison\nTarget: Defeat 10 Rybio\nReward: Exp 72000, Jexp 72000",
         "pt": "[Solicitação]\nLocal: Prisão 1º piso\nObjetivo: Caçar 10 Rybios\nRecompensa: EXP base 72000, EXP classe 72000",
-        "es": "[Solicitud del mago errante Nadir]\nUbicación: Prisión subterránea de Glastheim.\nObjetivo: Derrota a 10Rybio.\nPremio: 72000deEXP y 72000deEXPdeclase."
+        "es": "[Solicitud del mago errante Nadir]\nUbicación: Prisión subterránea de Glastheim.\nObjetivo: Derrota a 10 Rybio.\nPremio: 72000 de EXP y 72000 de EXP de clase."
     },
     "6LlMCg": {
         "en": "Request from the wandering wizard Nadir\n^4D4DFF[A Vicious Torturer]^000000 Quest accepted.",
@@ -2447,12 +2447,12 @@
     "6blMCg": {
         "en": "[Request Completed]\nLocation: Geffen Field\nTarget: Defeat 10 Flying Petite\nReward: Exp 9900, Jexp 10120",
         "pt": "[Missão Completa]\nLocal: Arredores de Geffen\nObjetivo: Caçar 10 Petites Voadores\nRecompensa: EXP base 9900, EXP classe 10120",
-        "es": "[Solicitud completada]\nUbicación: Campo de Geffen.\nObjetivo: Derrota a 10Petite voladores.\nPremio: 9900deEXP y 10120deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Campo de Geffen.\nObjetivo: Derrota a 10 Petite voladores.\nPremio: 9900 de EXP y 10120 de EXP de clase."
     },
     "6rlMCg": {
         "en": "[Request from a boy in front of the Geffen West Entrance]\nLocation: Geffen Field\nTarget: Defeat 10 Flying Petite\nReward: Exp 9900, Jexp 10120",
         "pt": "[Solicitação]\nLocal: Arredores de Geffen\nObjetivo: Caçar 10 Petites Voadores\nRecompensa: EXP base 9900, EXP classe 10120",
-        "es": "[Solicitud de un niño frente a la entrada oeste de Geffen]\nUbicación: Campo de Geffen.\nObjetivo: Derrota a 10Petite voladores.\nPremio: 9900deEXP y 10120deEXPdeclase."
+        "es": "[Solicitud de un niño frente a la entrada oeste de Geffen]\nUbicación: Campo de Geffen.\nObjetivo: Derrota a 10 Petite voladores.\nPremio: 9900 de EXP y 10120 de EXP de clase."
     },
     "67lMCg": {
         "en": "Request from a boy in front of the Geffen West Entrance\n^4D4DFF[Cute Sky Petite]^000000 Quest accepted.",
@@ -2462,12 +2462,12 @@
     "7LlMCg": {
         "en": "[Request Completed]\nLocation: Geffen Northwest Field\nTarget: Defeat 10 Petite (Green)\nReward: Exp 12860, Jexp 13160",
         "pt": "[Missão Completa]\nLocal: Arredores de Glastheim\nObjetivo: Caçar 10 Petites Verdes\nRecompensa: EXP base 12860, EXP classe 13160",
-        "es": "[Solicitud completada]\nUbicación: Campo del noroeste de Geffen.\nObjetivo: Derrota a 10Petite (verdes).\nPremio: 12860deEXP y 13160deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Campo del noroeste de Geffen.\nObjetivo: Derrota a 10 Petite (verdes).\nPremio: 12860 de EXP y 13160 de EXP de clase."
     },
     "7blMCg": {
         "en": "[Request from a boy in front of the Geffen West Entrance]\nLocation: Geffen Northwest Field\nTarget: Defeat 10 Petite (Green)\nReward: Exp 12860, Jexp 13160",
         "pt": "[Solicitação]\nLocal: Arredores de Glastheim\nObjetivo: Caçar 10 Petites Verdes\nRecompensa: EXP base 12860, EXP classe 13160",
-        "es": "[Solicitud de un niño frente a la entrada oeste de Geffen]\nUbicación: Campo del noroeste de Geffen.\nObjetivo: Derrota a 10Petite (verdes).\nPremio: 12860deEXP y 13160deEXPdeclase."
+        "es": "[Solicitud de un niño frente a la entrada oeste de Geffen]\nUbicación: Campo del noroeste de Geffen.\nObjetivo: Derrota a 10 Petite (verdes).\nPremio: 12860 de EXP y 13160 de EXP de clase."
     },
     "7rlMCg": {
         "en": "Request from a boy in front of the Geffen West Entrance\n^4D4DFF[Cute Ground Petite]^000000 Quest accepted.",
@@ -2477,12 +2477,12 @@
     "77lMCg": {
         "en": "[Request Completed]\nLocation: Geffen Underground 3F\nTarget: Defeat 10 Marionette and 10 Deviruchi\nReward: Exp 37520, Jexp 41740",
         "pt": "[Missão Completa]\nLocal: Torre de Geffen 3º piso\nObjetivo: Caçar 10 Marionetes e 10 Deviruchis\nRecompensa: EXP base 37520, EXP classe 41740",
-        "es": "[Solicitud completada]\nUbicación: Caverna subterránea de GeffenP3.\nObjetivo: Derrota a 10Marionetas y 10Deviruchi.\nPremio: 37520deEXP y 41740deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Caverna subterránea de GeffenP3.\nObjetivo: Derrota a 10 Marionetas y 10 Deviruchi.\nPremio: 37520 de EXP y 41740 de EXP de clase."
     },
     "8LlMCg": {
         "en": "[Request from Apprentice Mage]\nLocation: Geffen Underground 3F\nTarget: Defeat 10 Marionette and 10 Deviruchi\nReward: Exp 37520, Jexp 41740",
         "pt": "[Solicitação]\nLocal: Torre de Geffen 3º piso\nObjetivo: Caçar 10 Marionetes e 10 Deviruchis\nRecompensa: EXP base 37520, EXP classe 41740",
-        "es": "[Solicitud de aprendiz de Mago]\nUbicación: Caverna subterránea de GeffenP3.\nObjetivo: Derrota a 10Marionetas y 10Deviruchi.\nPremio: 37520deEXP y 41740deEXPdeclase."
+        "es": "[Solicitud de aprendiz de Mago]\nUbicación: Caverna subterránea de GeffenP3.\nObjetivo: Derrota a 10 Marionetas y 10 Deviruchi.\nPremio: 37520 de EXP y 41740 de EXP de clase."
     },
     "8blMCg": {
         "en": "Request from Apprentice Mage\n^4D4DFF[Marionette and Deviruchi Hunting]^000000 Quest accepted.",
@@ -2492,12 +2492,12 @@
     "8rlMCg": {
         "en": "[Request Completed]\nLocation: Geffen Underground 3F\nTarget: Defeat 10 Nightmare\nReward: Exp 42000, Jexp 38000",
         "pt": "[Missão Completa]\nLocal: Torre de Geffen 3º piso\nObjetivo: Caçar 10 Pesadelos\nRecompensa: EXP base 42000, EXP classe 38000",
-        "es": "[Solicitud completada]\nUbicación: Caverna subterránea de GeffenP3.\nObjetivo: Derrota a 10Pesadillas.\nPremio: 42000deEXP y 38000deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Caverna subterránea de GeffenP3.\nObjetivo: Derrota a 10 Pesadillas.\nPremio: 42000 de EXP y 38000 de EXP de clase."
     },
     "87lMCg": {
         "en": "[Request from a tired man in front of the Geffen Underground]\nLocation: Geffen Underground 3F\nTarget: Defeat 10 Nightmare\nReward: Exp 42000, Jexp 38000",
         "pt": "[Solicitação]\nLocal: Torre de Geffen 3º piso\nObjetivo: Caçar 10 Pesadelos\nRecompensa: EXP base 42000, EXP classe 38000",
-        "es": "[Solicitud de un hombre cansado frente a la caverna subterránea de Geffen]\nUbicación: Caverna subterránea de GeffenP3.\nObjetivo: Derrota a 10Pesadillas.\nPremio: 42000deEXP y 38000deEXPdeclase."
+        "es": "[Solicitud de un hombre cansado frente a la caverna subterránea de Geffen]\nUbicación: Caverna subterránea de Geffen P3.\nObjetivo: Derrota a 10 Pesadillas.\nPremio: 42000 de EXP y 38000 de EXP de clase."
     },
     "9LlMCg": {
         "en": "Request from a tired man in front of the Geffen Underground\n^4D4DFF[Riding a Nightmare]^000000 Quest accepted.",
@@ -2507,12 +2507,12 @@
     "9blMCg": {
         "en": "[Request Completed]\nLocation: Einbroch Field\nTarget: Defeat 20 Metaling and 10 Holden\nReward: Exp 40920, Jexp 38220",
         "pt": "[Missão Completa]\nLocal: Arredores de Einbroch\nObjetivo: Caçar 20 Metalings e 20 Holdens\nRecompensa: EXP base 40920, EXP classe 38220",
-        "es": "[Solicitud completada]\nUbicación: Campo de Einbroch.\nObjetivo: Derrota a 20Metaling y 10Holden.\nPremio: 40920deEXP y 38220deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Campo de Einbroch.\nObjetivo: Derrota a 20 Metaling y 10 Holden.\nPremio: 40920 de EXP y 38220 de EXP de clase."
     },
     "9rlMCg": {
         "en": "[Request from Friedrich in Kiel Hyre Academy]\nLocation: Einbroch Field\nTarget: Defeat 20 Metaling and 10 Holden\nReward: Exp 40920, Jexp 38220",
         "pt": "[Solicitação]\nLocal: Arredores de Einbroch\nObjetivo: Caçar 20 Metalings e 20 Holdens\nRecompensa: EXP base 40920, EXP classe 38220",
-        "es": "[Solicitud de Friedrich en la Academia Kiel Hyre]\nUbicación: Campo de Einbroch.\nObjetivo: Derrota a 20Metaling y 10Holden.\nPremio: 40920deEXP y 38220deEXPdeclase."
+        "es": "[Solicitud de Friedrich en la Academia Kiel Hyre]\nUbicación: Campo de Einbroch.\nObjetivo: Derrota a 20 Metaling y 10 Holden.\nPremio: 40920 de EXP y 38220 de EXP de clase."
     },
     "97lMCg": {
         "en": "Request from Friedrich in Kiel Hyre Academy\n^4D4DFF[Clean up the surroundings, please.]^000000 Quest accepted.",
@@ -2522,12 +2522,12 @@
     "+LlMCg": {
         "en": "[Request Completed]\nLocation: Einbroch Field\nTarget: Defeat 20 Venomous\nReward: Exp 38200, Jexp 33440",
         "pt": "[Missão Completa]\nLocal: Norte de Einbroch\nObjetivo: Caçar 20 Nuvens Venenosas\nRecompensa: EXP base 38200, EXP classe 33440",
-        "es": "[Solicitud completada]\nUbicación: Campo de Einbroch.\nObjetivo: Derrota a 20Venenosos.\nPremio: 38200deEXP y 33440deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Campo de Einbroch.\nObjetivo: Derrota a 20 Venenosos.\nPremio: 38200 de EXP y 33440 de EXP de clase."
     },
     "+blMCg": {
         "en": "[Request from Einbroch Guard Aizen]\nLocation: Einbroch Field\nTarget: Defeat 20 Venomous\nReward: Exp 38200, Jexp 33440",
         "pt": "[Solicitação]\nLocal: Norte de Einbroch\nObjetivo: Caçar 20 Nuvens Venenosas\nRecompensa: EXP base 38200, EXP classe 33440",
-        "es": "[Solicitud del guardia Aizen en Einbroch]\nUbicación: Campo de Einbroch.\nObjetivo: Derrota a 20Venenosos.\nPremio: 38200deEXP y 33440deEXPdeclase."
+        "es": "[Solicitud del guardia Aizen en Einbroch]\nUbicación: Campo de Einbroch.\nObjetivo: Derrota a 20 Venenosos.\nPremio: 38200 de EXP y 33440 de EXP de clase."
     },
     "+rlMCg": {
         "en": "Request from Einbroch Guard Aizen\n^4D4DFF[Floating Toxic Gas 1]^000000 Quest accepted.",
@@ -2537,12 +2537,12 @@
     "+7lMCg": {
         "en": "[Request Completed]\nLocation: Northeast Einbroch\nTarget: Defeat 20 Noxious\nReward: Exp 39200, Jexp 35680",
         "pt": "[Missão Completa]\nLocal: Norte de Einbroch\nObjetivo: Caçar 20 Nuvens Tóxicas\nRecompensa: EXP base 39200, EXP classe 35680",
-        "es": "[Solicitud completada]\nUbicación: Noreste de Einbroch.\nObjetivo: Derrota a 20Nocivos.\nPremio: 39200deEXP y 35680deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Noreste de Einbroch.\nObjetivo: Derrota a 20 Nocivos.\nPremio: 39200 de EXP y 35680 de EXP de clase."
     },
     "/LlMCg": {
         "en": "[Request from Einbroch Guard Aizen]\nLocation: Northeast Einbroch\nTarget: Defeat 20 Noxious\nReward: Exp 39200, Jexp 35680",
         "pt": "[Solicitação]\nLocal: Norte de Einbroch\nObjetivo: Caçar 20 Nuvens Tóxicas\nRecompensa: EXP base 39200, EXP classe 35680",
-        "es": "[Solicitud del guardia Aizen en Einbroch]\nUbicación: Noreste de Einbroch.\nObjetivo: Derrota a 20Nocivos.\nPremio: 39200deEXP y 35680deEXPdeclase."
+        "es": "[Solicitud del guardia Aizen en Einbroch]\nUbicación: Noreste de Einbroch.\nObjetivo: Derrota a 20 Nocivos.\nPremio: 39200 de EXP y 35680 de EXP de clase."
     },
     "/blMCg": {
         "en": "Request from Einbroch Guard Aizen\n^4D4DFF[Floating Toxic Gas 2]^000000 Quest accepted.",
@@ -2552,12 +2552,12 @@
     "/rlMCg": {
         "en": "[Request Completed]\nLocation: Einbroch Field\nTarget: Defeat 15 Teddy Bear\nReward: Exp 48600, Jexp 51420",
         "pt": "[Missão Completa]\nLocal: Nordeste de Einbroch\nObjetivo: Caçar 15 Ursinhos\nRecompensa: EXP base 48600, EXP classe 51420",
-        "es": "[Solicitud completada]\nUbicación: Campo de Einbroch.\nObjetivo: Derrota a 15Ositos de peluche.\nPremio: 48600deEXP y 51420deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Campo de Einbroch.\nObjetivo: Derrota a 15 Ositos de peluche.\nPremio: 48600 de EXP y 51420 de EXP de clase."
     },
     "/7lMCg": {
         "en": "[Request from Einbroch Guard Aizen]\nLocation: Einbroch Field\nTarget: Defeat 15 Teddy Bear\nReward: Exp 48600, Jexp 51420",
         "pt": "[Solicitação]\nLocal: Nordeste de Einbroch\nObjetivo: Caçar 15 Ursinhos\nRecompensa: EXP base 48600, EXP classe 51420",
-        "es": "[Solicitud del guardia Aizen en Einbroch]\nUbicación: Campo de Einbroch.\nObjetivo: Derrota a 15Ositos de peluche.\nPremio: 48600deEXP y 51420deEXPdeclase."
+        "es": "[Solicitud del guardia Aizen en Einbroch]\nUbicación: Campo de Einbroch.\nObjetivo: Derrota a 15 Ositos de peluche.\nPremio: 48600 de EXP y 51420 de EXP de clase."
     },
     "ALpMCg": {
         "en": "Request from Einbroch Guard Aizen\n^4D4DFF[Cute and Terrible]^000000 Quest accepted.",
@@ -2567,12 +2567,12 @@
     "AbpMCg": {
         "en": "[Request Completed]\nLocation: Einbech Mine Dungeon 1F\nTarget: Defeat 20 Pitman\nReward: Exp 77500, Jexp 69780",
         "pt": "[Missão Completa]\nLocal: Mina de Einbech 1º piso\nObjetivo: Caçar 20 Mineiros\nRecompensa: EXP base 77500, EXP classe 69780",
-        "es": "[Solicitud completada]\nUbicación: Mazmorra de la mina de EinbechP1.\nObjetivo: Derrota a 20Mineros.\nPremio: 77500deEXP y 69780deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Mazmorra de la mina de Einbech P1.\nObjetivo: Derrota a 20 Mineros.\nPremio: 77500 de EXP y 69780 de EXP de clase."
     },
     "ArpMCg": {
         "en": "[Request from Einbech Guard Atin]\nLocation: Einbech Mine Dungeon 1F\nTarget: Defeat 20 Pitman\nReward: Exp 77500, Jexp 69780",
         "pt": "[Solicitação]\nLocal: Mina de Einbech 1º piso\nObjetivo: Caçar 20 Mineiros\nRecompensa: EXP base 77500, EXP classe 69780",
-        "es": "[Solicitud del guardia Atin en Einbech]\nUbicación: Mazmorra de la mina de EinbechP1.\nObjetivo: Derrota a 20Mineros.\nPremio: 77500deEXP y 69780deEXPdeclase."
+        "es": "[Solicitud del guardia Atin en Einbech]\nUbicación: Mazmorra de la mina de Einbech P1.\nObjetivo: Derrota a 20 Mineros.\nPremio: 77500 de EXP y 69780 de EXP de clase."
     },
     "A7pMCg": {
         "en": "Request from Einbech Guard Atin\n^4D4DFF[Shadow Miner]^000000 Quest accepted.",
@@ -2582,12 +2582,12 @@
     "BLpMCg": {
         "en": "[Request Completed]\nLocation: Einbech Mine Dungeon 2F\nTarget: Defeat 15 Old Stove\nReward: Exp 72040, Jexp 71084",
         "pt": "[Missão Completa]\nLocal: Mina de Einbech 2º piso\nObjetivo: Caçar 15 Fornalhas Velhas\nRecompensa: EXP base 72040, EXP classe 71084",
-        "es": "[Solicitud completada]\nUbicación: Mazmorra de la mina de EinbechP2.\nObjetivo: Derrota a 15Estufas antiguas.\nPremio: 72040deEXP y 71084deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Mazmorra de la mina de Einbech P2.\nObjetivo: Derrota a 15 Estufas antiguas.\nPremio: 72040 de EXP y 71084 de EXP de clase."
     },
     "BbpMCg": {
         "en": "[Request from Einbech Guard Atin]\nLocation: Einbech Mine Dungeon 2F\nTarget: Defeat 15 Old Stove\nReward: Exp 72040, Jexp 71084",
         "pt": "[Solicitação]\nLocal: Mina de Einbech 2º piso\nObjetivo: Caçar 15 Fornalhas Velhas\nRecompensa: EXP base 72040, EXP classe 71084",
-        "es": "[Solicitud del guardia Atin en Einbech]\nUbicación: Mazmorra de la mina de EinbechP2.\nObjetivo: Derrota a 15Estufas antiguas.\nPremio: 72040deEXP y 71084deEXPdeclase."
+        "es": "[Solicitud del guardia Atin en Einbech]\nUbicación: Mazmorra de la mina de Einbech P2.\nObjetivo: Derrota a 15 Estufas antiguas.\nPremio: 72040 de EXP y 71084 de EXP de clase."
     },
     "BrpMCg": {
         "en": "Request from Einbech Guard Atin\n^4D4DFF[Why is it moving like that!]^000000 Quest accepted.",
@@ -2597,12 +2597,12 @@
     "B7pMCg": {
         "en": "[Request Completed]\nLocation: Einbech Mine Dungeon 2F\nTarget: Defeat 15 Mineral and 5 Obsidian\nReward: Exp 72530, Jexp 89290",
         "pt": "[Missão Completa]\nLocal: Mina de Einbech 2º piso\nObjetivo: Caçar 15 Mineral e 5 Obsidianas\nRecompensa: EXP base 72530, EXP classe 89290",
-        "es": "[Solicitud completada]\nUbicación: Mazmorra de la mina de EinbechP2.\nObjetivo: Derrota a 15Minerales y 5Obsidianas.\nPremio: 72530deEXP y 89290deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Mazmorra de la mina de Einbech P2.\nObjetivo: Derrota a 15 Minerales y 5 Obsidianas.\nPremio: 72530 de EXP y 89290 de EXP de clase."
     },
     "CLpMCg": {
         "en": "[Request from Einbech Guard Atin]\nLocation: Einbech Mine Dungeon 2F\nTarget: Defeat 15 Mineral and 5 Obsidian\nReward: Exp 72530, Jexp 89290",
         "pt": "[Solicitação]\nLocal: Mina de Einbech 2º piso\nObjetivo: Caçar 15 Mineral e 5 Obsidianas\nRecompensa: EXP base 72530, EXP classe 89290",
-        "es": "[Solicitud del guardia Atin en Einbech]\nUbicación: Mazmorra de la mina de EinbechP2.\nObjetivo: Derrota a 15Minerales y 5Obsidianas.\nPremio: 72530deEXP y 89290deEXPdeclase."
+        "es": "[Solicitud del guardia Atin en Einbech]\nUbicación: Mazmorra de la mina de Einbech P2.\nObjetivo: Derrota a 15 Minerales y 5 Obsidianas.\nPremio: 72530 de EXP y 89290 de EXP de clase."
     },
     "CbpMCg": {
         "en": "Request from Einbech Guard Atin\n^4D4DFF[Jumping Minerals]^000000 Quest accepted.",
@@ -2612,12 +2612,12 @@
     "CrpMCg": {
         "en": "[Request Completed]\nLocation: Lighthalzen Field\nTarget: Defeat 20 Rafflesia\nReward: Exp 51440, Jexp 52640",
         "pt": "[Missão Completa]\nLocal: Norte de Lighthalzen\nObjetivo: Caçar 20 Rafflesias\nRecompensa: EXP base 51440, EXP classe 52640",
-        "es": "[Solicitud completada]\nUbicación: Campo de Lighthalzen.\nObjetivo: Derrota a 20Rafflesia.\nPremio: 51440deEXP y 52640deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Campo de Lighthalzen.\nObjetivo: Derrota a 20 Rafflesia.\nPremio: 51440 de EXP y 52640 de EXP de clase."
     },
     "C7pMCg": {
         "en": "[Lighthalzen Theodore's Request]\nLocation: Lighthalzen Field\nTarget: Defeat 20 Rafflesia\nReward: Exp 51440, Jexp 52640",
         "pt": "[Solicitação]\nLocal: Norte de Lighthalzen\nObjetivo: Caçar 20 Rafflesias\nRecompensa: EXP base 51440, EXP classe 52640",
-        "es": "[Solicitud de Theodore en Lighthalzen]\nUbicación: Campo de Lighthalzen.\nObjetivo: Derrota a 20Rafflesia.\nPremio: 51440deEXP y 52640deEXPdeclase."
+        "es": "[Solicitud de Theodore en Lighthalzen]\nUbicación: Campo de Lighthalzen.\nObjetivo: Derrota a 20 Rafflesia.\nPremio: 51440 de EXP y 52640 de EXP de clase."
     },
     "DLpMCg": {
         "en": "Lighthalzen Theodore's Request\n^4D4DFF[Why is there such a big pool!]^000000 Quest accepted.",
@@ -2627,12 +2627,12 @@
     "DbpMCg": {
         "en": "[Request Completed]\nLocation: Lighthalzen Field\nTarget: Defeat 20 Stem Worm\nReward: Exp 49890, Jexp 53416",
         "pt": "[Missão Completa]\nLocal: Norte de Lighthalzen\nObjetivo: Caçar 20 Talos-de-Verme\nRecompensa: EXP base 49890, EXP classe 53416",
-        "es": "[Solicitud completada]\nUbicación: Campo de Lighthalzen.\nObjetivo: Derrota a 20Gusanos de tallo.\nPremio: 49890deEXP y 53416deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Campo de Lighthalzen.\nObjetivo: Derrota a 20 Gusanos de tallo.\nPremio: 49890 de EXP y 53416 de EXP de clase."
     },
     "DrpMCg": {
         "en": "[Lighthalzen Theodore's Request]\nLocation: Lighthalzen Field\nTarget: Defeat 20 Stem Worm\nReward: Exp 49890, Jexp 53416",
         "pt": "[Solicitação]\nLocal: Norte de Lighthalzen\nObjetivo: Caçar 20 Talos-de-Verme\nRecompensa: EXP base 49890, EXP classe 53416",
-        "es": "[Solicitud de Theodore en Lighthalzen]\nUbicación: Campo de Lighthalzen.\nObjetivo: Derrota a 20Gusanos de tallo.\nPremio: 49890deEXP y 53416deEXPdeclase."
+        "es": "[Solicitud de Theodore en Lighthalzen]\nUbicación: Campo de Lighthalzen.\nObjetivo: Derrota a 20 Gusanos de tallo.\nPremio: 49890 de EXP y 53416 de EXP de clase."
     },
     "D7pMCg": {
         "en": "Lighthalzen Theodore's Request\n^4D4DFF[Ankle Snapping]^000000 Quest accepted.",
@@ -2642,12 +2642,12 @@
     "ELpMCg": {
         "en": "[Request Completed]\nLocation: Northeast of Lighthalzen, Grim Reaper's Valley\nTarget: Defeat 20 Breeze\nReward: Exp 84392, Jexp 79024",
         "pt": "[Missão Completa]\nLocal: Nordeste de Lighthalzen\nObjetivo: Caçar 20 Breezes\nRecompensa: EXP base 84392, EXP classe 79024",
-        "es": "[Solicitud completada]\nUbicación: Noreste de Lighthalzen, Valle de la Parca.\nObjetivo: Derrota a 20Brisas.\nPremio: 84392deEXP y 79024deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Noreste de Lighthalzen, Valle de la Parca.\nObjetivo: Derrota a 20 Brisas.\nPremio: 84392 de EXP y 79024 de EXP de clase."
     },
     "EbpMCg": {
         "en": "[Lighthalzen Leno's Request]\nLocation: Northeast of Lighthalzen, Grim Reaper's Valley\nTarget: Defeat 20 Breeze\nReward: Exp 84392, Jexp 79024",
         "pt": "[Solicitação]\nLocal: Nordeste de Lighthalzen\nObjetivo: Caçar 20 Breezes\nRecompensa: EXP base 84392, EXP classe 79024",
-        "es": "[Solicitud de Leno en Lighthalzen]\nUbicación: Noreste de Lighthalzen, Valle de la Parca.\nObjetivo: Derrota a 20Brisas.\nPremio: 84392deEXP y 79024deEXPdeclase."
+        "es": "[Solicitud de Leno en Lighthalzen]\nUbicación: Noreste de Lighthalzen, Valle de la Parca.\nObjetivo: Derrota a 20 Brisas.\nPremio: 84392 de EXP y 79024 de EXP de clase."
     },
     "ErpMCg": {
         "en": "Lighthalzen Leno's Request\n^4D4DFF[Valley of the Four Gods]^000000 Quest accepted.",
@@ -2657,12 +2657,12 @@
     "E7pMCg": {
         "en": "[Request Completed]\nLocation: Turtle Island Dungeon\nTarget: Defeat 10 Dragon Tail and 10 Spring Rabbit\nReward: Exp 76000, Jexp 72000",
         "pt": "[Missão Completa]\nLocal: Ilha da Tartaruga\nObjetivo: Caçar 10 Coelhos e 10 Lavadeiras\nRecompensa: EXP base 76000, EXP classe 72000",
-        "es": "[Solicitud completada]\nUbicación: Mazmorra de la Isla Tortuga.\nObjetivo: Derrota a 10Colas de dragón y 10Conejos de primavera.\nPremio: 76000deEXP y 72000deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Mazmorra de la Isla Tortuga.\nObjetivo: Derrota a 10 Colas de dragón y 10 Conejos de primavera.\nPremio: 76000 de EXP y 72000 de EXP de clase."
     },
     "FLpMCg": {
         "en": "[Alberta Dock Knight Tybalt's Request]\nLocation: Turtle Island Dungeon\nTarget: Defeat 10 Dragon Tail and 10 Spring Rabbit\nReward: Exp 76000, Jexp 72000",
         "pt": "[Solicitação]\nLocal: Ilha da Tartaruga\nObjetivo: Caçar 10 Coelhos e 10 Lavadeiras\nRecompensa: EXP base 76000, EXP classe 72000",
-        "es": "[Solicitud de Tybalt, el caballero en el muelle de Alberta]\nUbicación: Mazmorra de la Isla Tortuga.\nObjetivo: Derrota a 10Colas de dragón y 10Conejos de primavera.\nPremio: 76000deEXP y 72000deEXPdeclase."
+        "es": "[Solicitud de Tybalt, el caballero en el muelle de Alberta]\nUbicación: Mazmorra de la Isla Tortuga.\nObjetivo: Derrota a 10 Colas de dragón y 10 Conejos de primavera.\nPremio: 76000 de EXP y 72000 de EXP de clase."
     },
     "FbpMCg": {
         "en": "Alberta Dock Knight Tybalt's Request\n^4D4DFF[Explore Turtle Island]^000000 Quest accepted.",
@@ -2672,12 +2672,12 @@
     "FrpMCg": {
         "en": "[Request Completed]\nLocation: Turtle Island Dungeon\nTarget: Defeat 10 Solider, 10 Permeter, 10 Freezer, and 10 Heater\nReward: Exp 102000, Jexp 104000",
         "pt": "[Missão Completa]\nLocal: Ilha da Tartaruga 2º piso\nObjetivo: Caçar 10 Aquecedores, 10 Congeladores, 10 Batedores e 10 Solidificadores\nRecompensa: EXP base 102000, EXP classe 104000",
-        "es": "[Solicitud completada]\nUbicación: Mazmorra de la Isla Tortuga.\nObjetivo: Derrota a 10Solider, 10Permeter, 10Congeladores y 10Calentadores.\nPremio: 102000deEXP y 104000deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Mazmorra de la Isla Tortuga.\nObjetivo: Derrota a 10 Solider, 10 Permeter, 10 Congeladores y 10 Calentadores.\nPremio: 102000 de EXP y 104000 de EXP de clase."
     },
     "F7pMCg": {
         "en": "[Alberta Dock Knight Tybalt's Request]\nLocation: Turtle Island Dungeon\nTarget: Defeat 10 Solider, 10 Permeter, 10 Freezer, and 10 Heater\nReward: Exp 102000, Jexp 104000",
         "pt": "[Solicitação]\nLocal: Ilha da Tartaruga 2º piso\nObjetivo: Caçar 10 Aquecedores, 10 Congeladores, 10 Batedores e 10 Solidificadores\nRecompensa: EXP base 102000, EXP classe 104000",
-        "es": "[Solicitud de Tybalt, el caballero en el muelle de Alberta]\nUbicación: Mazmorra de la Isla Tortuga.\nObjetivo: Derrota a 10Solider, 10Permeter, 10Congeladores y 10Calentadores.\nPremio: 102000deEXP y 104000deEXPdeclase."
+        "es": "[Solicitud de Tybalt, el caballero en el muelle de Alberta]\nUbicación: Mazmorra de la Isla Tortuga.\nObjetivo: Derrota a 10 Solider, 10 Permeter, 10 Congeladores y 10 Calentadores.\nPremio: 102000 de EXP y 104000 de EXP de clase."
     },
     "GLpMCg": {
         "en": "Alberta Dock Knight Tybalt's Request\n^4D4DFF[Defeat the Turtle Swarm]^000000 Quest accepted.",
@@ -2687,12 +2687,12 @@
     "GbpMCg": {
         "en": "[Request Completed]\nLocation: Turtle Island Dungeon\nTarget: Defeat 10 Assaulter\nReward: Exp 52000, Jexp 67000",
         "pt": "[Missão Completa]\nLocal: Vila das Boas Tartarugas\nObjetivo: Caçar 10 Agressores\nRecompensa: EXP base 52000, EXP classe 67000",
-        "es": "[Solicitud completada]\nUbicación: Mazmorra de la Isla Tortuga.\nObjetivo: Derrota a 10Atacantes.\nPremio: 52000deEXP y 67000deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Mazmorra de la Isla Tortuga.\nObjetivo: Derrota a 10 Atacantes.\nPremio: 52000 de EXP y 67000 de EXP de clase."
     },
     "GrpMCg": {
         "en": "[Request from the Knight Commander]\nLocation: Turtle Island Dungeon\nTarget: Defeat 10 Assaulter\nReward: Exp 52000, Jexp 67000",
         "pt": "[Solicitação]\nLocal: Vila das Boas Tartarugas\nObjetivo: Caçar 10 Agressores\nRecompensa: EXP base 52000, EXP classe 67000",
-        "es": "[Solicitud del comandante Caballero]\nUbicación: Mazmorra de la Isla Tortuga.\nObjetivo: Derrota a 10Atacantes.\nPremio: 52000deEXP y 67000deEXPdeclase."
+        "es": "[Solicitud del comandante Caballero]\nUbicación: Mazmorra de la Isla Tortuga.\nObjetivo: Derrota a 10 Atacantes.\nPremio: 52000 de EXP y 67000 de EXP de clase."
     },
     "G7pMCg": {
         "en": "Request from the Knight Commander\n^4D4DFF[Hunting Ground]^000000 Quest accepted.",
@@ -2732,12 +2732,12 @@
     "IrpMCg": {
         "en": "[Request Completed]\nLocation: Ayothaya Ancient Shrine\nTarget: Defeat 20 Tamruan\nReward: Exp 30000, Jexp 30000",
         "pt": "[Missão Completa]\nLocal: Santuário de Ayothaya\nObjetivo: Caçar 20 Tamruan\nRecompensa: EXP base 30000, EXP classe 30000",
-        "es": "[Solicitud completada]\nUbicación: Antiguo santuario de Ayothaya.\nObjetivo: Derrota a 20Tamruan.\nPremio: 30000deEXP y 30000deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Antiguo santuario de Ayothaya.\nObjetivo: Derrota a 20 Tamruan.\nPremio: 30000 de EXP y 30000 de EXP de clase."
     },
     "I7pMCg": {
         "en": "[ Request from Eden Group]\nLocation: Ayothaya Ancient Shrine\nTarget: Defeat 20 Tamruan\nReward: Exp 30000, Jexp 30000",
         "pt": "[Solicitação]\nLocal: Santuário de Ayothaya\nObjetivo: Caçar 20 Tamruan\nRecompensa: EXP base 30000, EXP classe 30000",
-        "es": "[Solicitud del Grupo del Edén]\nUbicación: Antiguo santuario de Ayothaya.\nObjetivo: Derrota a 20Tamruan.\nPremio: 30000deEXP y 30000deEXPdeclase."
+        "es": "[Solicitud del Grupo del Edén]\nUbicación: Antiguo santuario de Ayothaya.\nObjetivo: Derrota a 20 Tamruan.\nPremio: 30000 de EXP y 30000 de EXP de clase."
     },
     "JLpMCg": {
         "en": "Request from Eden Group\n^4D4DFF[Temple Lion]^000000 Quest accepted.",
@@ -2747,12 +2747,12 @@
     "JbpMCg": {
         "en": "[Request Completed]\nLocation: Brasilis Field \nTarget: Defeat 20 Toucan\nReward: Exp 30000, Jexp 30000",
         "pt": "[Missão Completa]\nLocal: Floresta de Brasilis\nObjetivo: Caçar 20 Espíritos do Vento\nRecompensa: EXP base 30000, EXP classe 30000",
-        "es": "[Solicitud completada]\nUbicación: Campo de Brasilis. \nObjetivo: Derrota a 20Tucanes.\nPremio: 30000deEXP y 30000deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Campo de Brasilis. \nObjetivo: Derrota a 20 Tucanes.\nPremio: 30000 de EXP y 30000 de EXP de clase."
     },
     "JrpMCg": {
         "en": "[ Request from Eden Group]\nLocation: Brasilis Field \nTarget: Defeat 20 Toucan\nReward: Exp 30000, Jexp 30000",
         "pt": "[Solicitação]\nLocal: Floresta de Brasilis\nObjetivo: Caçar 20 Espíritos do Vento\nRecompensa: EXP base 30000, EXP classe 30000",
-        "es": "[Solicitud del Grupo del Edén]\nUbicación: Campo de Brasilis. \nObjetivo: Derrota a 20Tucanes.\nPremio: 30000deEXP y 30000deEXPdeclase."
+        "es": "[Solicitud del Grupo del Edén]\nUbicación: Campo de Brasilis. \nObjetivo: Derrota a 20 Tucanes.\nPremio: 30000 de EXP y 30000 de EXP de clase."
     },
     "J7pMCg": {
         "en": "Request from Eden Group\n^4D4DFF[Rainbow Bird]^000000 Quest accepted.",
@@ -2762,12 +2762,12 @@
     "KLpMCg": {
         "en": "[Request Completed]\nLocation: Brasilis Field \nTarget: Defeat 20 Headless Mule\nReward: Exp 35000, Jexp 35000",
         "pt": "[Missão Completa]\nLocal: Floresta de Brasilis\nObjetivo: Caçar 20 Mulas-sem-Cabeça\nRecompensa: EXP base 35000, EXP classe 35000",
-        "es": "[Solicitud completada]\nUbicación: Campo de Brasilis. \nObjetivo: Derrota a 20Mulas sin cabeza.\nPremio: 35000deEXP y 35000deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Campo de Brasilis. \nObjetivo: Derrota a 20 Mulas sin cabeza.\nPremio: 35000 de EXP y 35000 de EXP de clase."
     },
     "KbpMCg": {
         "en": "[ Request from Eden Group]\nLocation: Brasilis Field \nTarget: Defeat 20 Headless Mule\nReward: Exp 35000, Jexp 35000",
         "pt": "[Solicitação]\nLocal: Floresta de Brasilis\nObjetivo: Caçar 20 Mulas-sem-Cabeça\nRecompensa: EXP base 35000, EXP classe 35000",
-        "es": "[Solicitud del Grupo del Edén]\nUbicación: Campo de Brasilis. \nObjetivo: Derrota a 20Mulas sin cabeza.\nPremio: 35000deEXP y 35000deEXPdeclase."
+        "es": "[Solicitud del Grupo del Edén]\nUbicación: Campo de Brasilis. \nObjetivo: Derrota a 20 Mulas sin cabeza.\nPremio: 35000 de EXP y 35000 de EXP de clase."
     },
     "KrpMCg": {
         "en": "Request from Eden Group\n^4D4DFF[Headless Horse]^000000 Quest accepted.",
@@ -2777,12 +2777,12 @@
     "K7pMCg": {
         "en": "[Request Completed]\nLocation: Moscovia Deep Forest\nTarget: Defeat 20 Uzhas\nReward: Exp 42660, Jexp 43600",
         "pt": "[Missão Completa]\nLocal: Floresta Encantada\nObjetivo: Caçar 20 Kikimoras\nRecompensa: EXP base 42660, EXP classe 43600",
-        "es": "[Solicitud completada]\nUbicación: Bosque profundo de Moscovia.\nObjetivo: Derrota a 20Uzhas.\nPremio: 42660deEXP y 43600deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Bosque profundo de Moscovia.\nObjetivo: Derrota a 20 Uzhas.\nPremio: 42660 de EXP y 43600 de EXP de clase."
     },
     "LLpMCg": {
         "en": "[ Request from Eden Group]\nLocation: Moscovia Deep Forest\nTarget: Defeat 20 Uzhas\nReward: Exp 42660, Jexp 43600",
         "pt": "[Solicitação]\nLocal: Floresta Encantada\nObjetivo: Caçar 20 Kikimoras\nRecompensa: EXP base 42660, EXP classe 43600",
-        "es": "[Solicitud del Grupo del Edén]\nUbicación: Bosque profundo de Moscovia.\nObjetivo: Derrota a 20Uzhas.\nPremio: 42660deEXP y 43600deEXPdeclase."
+        "es": "[Solicitud del Grupo del Edén]\nUbicación: Bosque profundo de Moscovia.\nObjetivo: Derrota a 20 Uzhas.\nPremio: 42660 de EXP y 43600 de EXP de clase."
     },
     "LbpMCg": {
         "en": "Request from Eden Group\n^4D4DFF[Moscovia Nightmare]^000000 Quest accepted.",
@@ -2792,12 +2792,12 @@
     "LrpMCg": {
         "en": "[Request Completed]\nLocation: Moscovia Very Deep Forest\nTarget: Defeat 20 Baba Yaga\nReward: Exp 45700, Jexp 46700",
         "pt": "[Missão Completa]\nLocal: Floresta Encantada\nObjetivo: Caçar 20 Baba-Yagas\nRecompensa: EXP base 45700, EXP classe 46700",
-        "es": "[Solicitud completada]\nUbicación: Bosque muy profundo de Moscovia.\nObjetivo: Derrota a 20Baba Yaga.\nPremio: 45700deEXP y 46700deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Bosque muy profundo de Moscovia.\nObjetivo: Derrota a 20 Baba Yaga.\nPremio: 45700 de EXP y 46700 de EXP de clase."
     },
     "L7pMCg": {
         "en": "[ Request from Eden Group]\nLocation: Moscovia Very Deep Forest\nTarget: Defeat 20 Baba Yaga\nReward: Exp 45700, Jexp 46700",
         "pt": "[Solicitação]\nLocal: Floresta Encantada\nObjetivo: Caçar 20 Baba-Yagas\nRecompensa: EXP base 45700, EXP classe 46700",
-        "es": "[Solicitud del Grupo del Edén]\nUbicación: Bosque muy profundo de Moscovia.\nObjetivo: Derrota a 20Baba Yaga.\nPremio: 45700deEXP y 46700deEXPdeclase."
+        "es": "[Solicitud del Grupo del Edén]\nUbicación: Bosque muy profundo de Moscovia.\nObjetivo: Derrota a 20 Baba Yaga.\nPremio: 45700 de EXP y 46700 de EXP de clase."
     },
     "MLpMCg": {
         "en": "Request from Eden Group\n^4D4DFF[Broom, Cast Iron Pot, and Grandmother]^000000 Quest accepted.",
@@ -2807,12 +2807,12 @@
     "MbpMCg": {
         "en": "[Request Completed]\nLocation: Louyang Field\nTarget: Defeat 20 Mi Gao\nReward: Exp 39600, Jexp 35000",
         "pt": "[Missão Completa]\nLocal: Sul de Louyang\nObjetivo: Caçar 20 Mi Gao\nRecompensa: EXP base 39600, EXP classe 35000",
-        "es": "[Solicitud completada]\nUbicación: Campo de Luoyang.\nObjetivo: Derrota a 20Mi Gao.\nPremio: 39600deEXP y 35000deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Campo de Luoyang.\nObjetivo: Derrota a 20 Mi Gao.\nPremio: 39600 de EXP y 35000 de EXP de clase."
     },
     "MrpMCg": {
         "en": "[ Request from Eden Group]\nLocation: Louyang Field\nTarget: Defeat 20 Mi Gao\nReward: Exp 39600, Jexp 35000",
         "pt": "[Solicitação]\nLocal: Sul de Louyang\nObjetivo: Caçar 20 Mi Gao\nRecompensa: EXP base 39600, EXP classe 35000",
-        "es": "[Solicitud del Grupo del Edén]\nUbicación: Campo de Luoyang.\nObjetivo: Derrota a 20Mi Gao.\nPremio: 39600deEXP y 35000deEXPdeclase."
+        "es": "[Solicitud del Grupo del Edén]\nUbicación: Campo de Luoyang.\nObjetivo: Derrota a 20 Mi Gao.\nPremio: 39600 de EXP y 35000 de EXP de clase."
     },
     "M7pMCg": {
         "en": "Request from Eden Group\n^4D4DFF[Rice cake made from sand?]^000000 Quest accepted.",
@@ -2822,12 +2822,12 @@
     "NLpMCg": {
         "en": "[Request Completed]\nLocation: Louyang The Royal Tomb\nTarget: Defeat 15 Yao Jun and 15 Jing Guai\nReward: Exp 72000, Jexp 72000",
         "pt": "[Missão Completa]\nLocal: Tumba Real\nObjetivo: Caçar 15 Yao Jun e 15 Jing Guai\nRecompensa: EXP base 72000, EXP classe 72000",
-        "es": "[Solicitud completada]\nUbicación: Luoyang, la Tumba real.\nObjetivo: Derrota a 15Yao Jun y 15Jing Guai.\nPremio: 72000deEXP y 72000deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Luoyang, la Tumba real.\nObjetivo: Derrota a 15 Yao Jun y 15 Jing Guai.\nPremio: 72000 de EXP y 72000 de EXP de clase."
     },
     "NbpMCg": {
         "en": "[ Request from Eden Group]\nLocation: Louyang The Royal Tomb\nTarget: Defeat 15 Yao Jun and 15 Jing Guai\nReward: Exp 72000, Jexp 72000",
         "pt": "[Solicitação]\nLocal: Tumba Real\nObjetivo: Caçar 15 Yao Jun e 15 Jing Guai\nRecompensa: EXP base 72000, EXP classe 72000",
-        "es": "[Solicitud del Grupo del Edén]\nUbicación: Luoyang, la Tumba real.\nObjetivo: Derrota a 15Yao Jun y 15Jing Guai.\nPremio: 72000deEXP y 72000deEXPdeclase."
+        "es": "[Solicitud del Grupo del Edén]\nUbicación: Luoyang, la Tumba real.\nObjetivo: Derrota a 15 Yao Jun y 15 Jing Guai.\nPremio: 72000 de EXP y 72000 de EXP de clase."
     },
     "NrpMCg": {
         "en": "Request from Eden Group\n^4D4DFF[A tomb where secrets sleep]^000000 Quest accepted.",
@@ -2837,12 +2837,12 @@
     "N7pMCg": {
         "en": "[Request Completed]\nLocation: Amatsu Tatami Maze\nTarget: Defeat 20 Miyabi Doll\nReward: Exp 36800, Jexp 40100",
         "pt": "[Missão Completa]\nLocal: Labirinto de Tatami\nObjetivo: Caçar 20 Bonecos de Miyabi\nRecompensa: EXP base 36800, EXP classe 40100",
-        "es": "[Solicitud completada]\nUbicación: Laberinto de tatami de Amatsu.\nObjetivo: Derrota a 20MuñecasMiyabi.\nPremio: 36800deEXP y 40100deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Laberinto de tatami de Amatsu.\nObjetivo: Derrota a 20 Muñecas Miyabi.\nPremio: 36800 de EXP y 40100 de EXP de clase."
     },
     "OLpMCg": {
         "en": "[ Request from Eden Group]\nLocation: Amatsu Tatami Maze\nTarget: Defeat 20 Miyabi Doll\nReward: Exp 36800, Jexp 40100",
         "pt": "[Solicitação]\nLocal: Labirinto de Tatami\nObjetivo: Caçar 20 Bonecos de Miyabi\nRecompensa: EXP base 36800, EXP classe 40100",
-        "es": "[Solicitud del Grupo del Edén]\nUbicación: Laberinto de tatami de Amatsu.\nObjetivo: Derrota a 20MuñecasMiyabi.\nPremio: 36800deEXP y 40100deEXPdeclase."
+        "es": "[Solicitud del Grupo del Edén]\nUbicación: Laberinto de tatami de Amatsu.\nObjetivo: Derrota a 20 Muñecas Miyabi.\nPremio: 36800 de EXP y 40100 de EXP de clase."
     },
     "ObpMCg": {
         "en": "Request from Eden Group\n^4D4DFF[Beautiful Doll]^000000 Quest accepted.",
@@ -2852,12 +2852,12 @@
     "OrpMCg": {
         "en": "[Request Completed]\nLocation: Amatsu Tatami Maze\nTarget: Defeat 20 Firelock Soldier\nReward: Exp 47500, Jexp 48300",
         "pt": "[Missão Completa]\nLocal: Labirinto de Tatami\nObjetivo: Caçar 20 Zumbis Atiradores\nRecompensa: EXP base 47500, EXP classe 48300",
-        "es": "[Solicitud completada]\nUbicación: Laberinto de tatami de Amatsu.\nObjetivo: Derrota a 20Soldados arcabuceros.\nPremio: 47500deEXP y 48300deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Laberinto de tatami de Amatsu.\nObjetivo: Derrota a 20 Soldados arcabuceros.\nPremio: 47500 de EXP y 48300 de EXP de clase."
     },
     "O7pMCg": {
         "en": "[ Request from Eden Group]\nLocation: Amatsu Tatami Maze\nTarget: Defeat 20 Firelock Soldier\nReward: Exp 47500, Jexp 48300",
         "pt": "[Solicitação]\nLocal: Labirinto de Tatami\nObjetivo: Caçar 20 Zumbis Atiradores\nRecompensa: EXP base 47500, EXP classe 48300",
-        "es": "[Solicitud del Grupo del Edén]\nUbicación: Laberinto de tatami de Amatsu.\nObjetivo: Derrota a 20Soldados arcabuceros.\nPremio: 47500deEXP y 48300deEXPdeclase."
+        "es": "[Solicitud del Grupo del Edén]\nUbicación: Laberinto de tatami de Amatsu.\nObjetivo: Derrota a 20 Soldados arcabuceros.\nPremio: 47500 de EXP y 48300 de EXP de clase."
     },
     "PLpMCg": {
         "en": "Request from Eden Group\n^4D4DFF[Losers, winners, and those left behind]^000000 Quest accepted.",
@@ -2867,12 +2867,12 @@
     "PbpMCg": {
         "en": "[Request Completed]\nLocation: Amatsu Tatami Maze\nTarget: Defeat 20 Shinobi\nReward: Exp 81120, Jexp 72200",
         "pt": "[Missão Completa]\nLocal: Labirinto de Tatami\nObjetivo: Caçar 20 Shinobi\nRecompensa: EXP base 81120, EXP classe 72200",
-        "es": "[Solicitud completada]\nUbicación: Laberinto de tatami de Amatsu.\nObjetivo: Derrota a 20Shinobi.\nPremio: 81120deEXP y 72200deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Laberinto de tatami de Amatsu.\nObjetivo: Derrota a 20 Shinobi.\nPremio: 81120 de EXP y 72200 de EXP de clase."
     },
     "PrpMCg": {
         "en": "[ Request from Eden Group]\nLocation: Amatsu Tatami Maze\nTarget: Defeat 20 Shinobi\nReward: Exp 81120, Jexp 72200",
         "pt": "[Solicitação]\nLocal: Labirinto de Tatami\nObjetivo: Caçar 20 Shinobi\nRecompensa: EXP base 81120, EXP classe 72200",
-        "es": "[Solicitud del Grupo del Edén]\nUbicación: Laberinto de tatami de Amatsu.\nObjetivo: Derrota a 20Shinobi.\nPremio: 81120deEXP y 72200deEXPdeclase."
+        "es": "[Solicitud del Grupo del Edén]\nUbicación: Laberinto de tatami de Amatsu.\nObjetivo: Derrota a 20 Shinobi.\nPremio: 81120 de EXP y 72200 de EXP de clase."
     },
     "P7pMCg": {
         "en": "Request from Eden Group\n^4D4DFF[Shinobi Hunting.]^000000 Quest accepted.",
@@ -2882,12 +2882,12 @@
     "QLpMCg": {
         "en": "[Request Completed]\nLocation: Kunlun Arcadia\nTarget: Defeat 20 Evil Nymph\nReward: Exp 76600, Jexp 83700",
         "pt": "[Missão Completa]\nLocal: Terra das Fadas\nObjetivo: Caçar 20 Ninfas Perversas\nRecompensa: EXP base 76600, EXP classe 83700",
-        "es": "[Solicitud completada]\nUbicación: Arcadia en Kunlun.\nObjetivo: Derrota a 20Ninfas malvadas.\nPremio: 76600deEXP y 83700deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Arcadia en Kunlun.\nObjetivo: Derrota a 20 Ninfas malvadas.\nPremio: 76600 de EXP y 83700 de EXP de clase."
     },
     "QbpMCg": {
         "en": "[ Request from Eden Group]\nLocation: Kunlun Arcadia\nTarget: Defeat 20 Evil Nymph\nReward: Exp 76600, Jexp 83700",
         "pt": "[Solicitação]\nLocal: Terra das Fadas\nObjetivo: Caçar 20 Ninfas Perversas\nRecompensa: EXP base 76600, EXP classe 83700",
-        "es": "[Solicitud del Grupo del Edén]\nUbicación: Arcadia en Kunlun.\nObjetivo: Derrota a 20Ninfas malvadas.\nPremio: 76600deEXP y 83700deEXPdeclase."
+        "es": "[Solicitud del Grupo del Edén]\nUbicación: Arcadia en Kunlun.\nObjetivo: Derrota a 20 Ninfas malvadas.\nPremio: 76600 de EXP y 83700 de EXP de clase."
     },
     "QrpMCg": {
         "en": "Request from Eden Group\n^4D4DFF[Celestial Lady]^000000 Quest accepted.",
@@ -2897,12 +2897,12 @@
     "Q7pMCg": {
         "en": "[Request Completed]\nLocation: Shrine of Kunlun Queen\nTarget: Defeat 20 Enchanted Peach Tree\nReward: Exp 63000, Jexp 71900",
         "pt": "[Missão Completa]\nLocal: Tabuleiro de Go\nObjetivo: Caçar 20 Pessegueiras Encantadas\nRecompensa: EXP base 63000, EXP classe 71900",
-        "es": "[Solicitud completada]\nUbicación: Santuario de la reina de Kunlun.\nObjetivo: Derrota a 20Durazneros encantados.\nPremio: 63000deEXP y 71900deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Santuario de la reina de Kunlun.\nObjetivo: Derrota a 20 Durazneros encantados.\nPremio: 63000 de EXP y 71900 de EXP de clase."
     },
     "RLpMCg": {
         "en": "[ Request from Eden Group]\nLocation: Shrine of Kunlun Queen\nTarget: Defeat 20 Enchanted Peach Tree\nReward: Exp 63000, Jexp 71900",
         "pt": "[Solicitação]\nLocal: Tabuleiro de Go\nObjetivo: Caçar 20 Pessegueiras Encantadas\nRecompensa: EXP base 63000, EXP classe 71900",
-        "es": "[Solicitud del Grupo del Edén]\nUbicación: Santuario de la reina de Kunlun.\nObjetivo: Derrota a 20Durazneros encantados.\nPremio: 63000deEXP y 71900deEXPdeclase."
+        "es": "[Solicitud del Grupo del Edén]\nUbicación: Santuario de la reina de Kunlun.\nObjetivo: Derrota a 20 Durazneros encantados.\nPremio: 63000 de EXP y 71900 de EXP de clase."
     },
     "RbpMCg": {
         "en": "Request from Eden Group\n^4D4DFF[Monkey King Candidate]^000000 Quest accepted.",
@@ -2912,12 +2912,12 @@
     "RrpMCg": {
         "en": "[Request Completed]\nLocation: Hermit's Checkers in Kunlun\nTarget: Defeat 20 Taoist Hermit\nReward: Exp 72000, Jexp 72000",
         "pt": "[Missão Completa]\nLocal: Terra das Fadas\nObjetivo: Caçar 20 Ermitão Maligno\nRecompensa: EXP base 72000, EXP classe 72000",
-        "es": "[Solicitud completada]\nUbicación: Damas del ermitaño de Kunlun.\nObjetivo: Derrota a 20Ermitaños taoístas.\nPremio: 72000deEXP y 72000deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Damas del ermitaño de Kunlun.\nObjetivo: Derrota a 20 Ermitaños taoístas.\nPremio: 72000 de EXP y 72000 de EXP de clase."
     },
     "R7pMCg": {
         "en": "[ Request from Eden Group]\nLocation: Hermit's Checkers in Kunlun\nTarget: Defeat 20 Taoist Hermit\nReward: Exp 72000, Jexp 72000",
         "pt": "[Solicitação]\nLocal: Terra das Fadas\nObjetivo: Caçar 20 Ermitão Maligno\nRecompensa: EXP base 72000, EXP classe 72000",
-        "es": "[Solicitud del Grupo del Edén]\nUbicación: Damas del ermitaño de Kunlun.\nObjetivo: Derrota a 20Ermitaños taoístas.\nPremio: 72000deEXP y 72000deEXPdeclase."
+        "es": "[Solicitud del Grupo del Edén]\nUbicación: Damas del ermitaño de Kunlun.\nObjetivo: Derrota a 20 Ermitaños taoístas.\nPremio: 72000 de EXP y 72000 de EXP de clase."
     },
     "SLpMCg": {
         "en": "Request from Eden Group\n^4D4DFF[Old Man on the Clouds]^000000 Quest accepted.",
@@ -2927,12 +2927,12 @@
     "SbpMCg": {
         "en": "[Request Completed]\nLocation: Field near Schwarzwald border crossing\nTarget: Defeat 10 Geographer and 10 Mantis\nReward: Exp 19760, Jexp 15150",
         "pt": "[Missão Completa]\nLocal: Norte de Al De Baran\nObjetivo: Caçar 10 Plantas Carnívoras e 10 Louva-a-Deus\nRecompensa: EXP base 19760, EXP classe 15150",
-        "es": "[Solicitud completada]\nUbicación: Campo cerca del paso fronterizo de Schwarzwald.\nObjetivo: Derrota a 10Geógrafos y 10Mantis.\nPremio: 19760deEXP y 15150deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Campo cerca del paso fronterizo de Schwarzwald.\nObjetivo: Derrota a 10 Geógrafos y 10 Mantis.\nPremio: 19760 de EXP y 15150 de EXP de clase."
     },
     "SrpMCg": {
         "en": "[Request from chief Cesare at the Schwarzwald border crossing.]\nLocation: Field near Schwarzwald border crossing\nTarget: Defeat 10 Geographer and 10 Mantis\nReward: Exp 19760, Jexp 15150",
         "pt": "[Solicitação]\nLocal: Norte de Al De Baran\nObjetivo: Caçar 10 Plantas Carnívoras e 10 Louva-a-Deus\nRecompensa: EXP base 19760, EXP classe 15150",
-        "es": "[Solicitud del jefe Cesare en el paso fronterizo de Schwarzwald]\nUbicación: Campo cerca del paso fronterizo de Schwarzwald.\nObjetivo: Derrota a 10Geógrafos y 10Mantis.\nPremio: 19760deEXP y 15150deEXPdeclase."
+        "es": "[Solicitud del jefe Cesare en el paso fronterizo de Schwarzwald]\nUbicación: Campo cerca del paso fronterizo de Schwarzwald.\nObjetivo: Derrota a 10 Geógrafos y 10 Mantis.\nPremio: 19760 de EXP y 15150 de EXP de clase."
     },
     "S7pMCg": {
         "en": "Request from chief Cesare at the Schwarzwald border crossing.\n^4D4DFF[Border Checkpoint Work]^000000 Quest accepted.",
@@ -2942,12 +2942,12 @@
     "TLpMCg": {
         "en": "[Request Completed]\nLocation: Hugel Southwest Field\nTarget: Defeat 10 Yellow Novus and 10 Red Novus\nReward: Exp 43080, Jexp 40160",
         "pt": "[Missão Completa]\nLocal: Sul de Hugel\nObjetivo: Caçar 10 Novus Escarlates e 10 Novus Dourados \nRecompensa: EXP base 43080, EXP classe 40160",
-        "es": "[Solicitud completada]\nUbicación: Campo del suroeste de Hugel.\nObjetivo: Derrota a 10Novus amarillos y 10Novus rojos.\nPremio: 43080deEXP y 40160deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Campo del suroeste de Hugel.\nObjetivo: Derrota a 10 Novus amarillos y 10 Novus rojos.\nPremio: 43080 de EXP y 40160 de EXP de clase."
     },
     "TbpMCg": {
         "en": "[Hugel Blacksmith Dry's Request]\nLocation: Hugel Southwest Field\nTarget: Defeat 10 Yellow Novus and 10 Red Novus\nReward: Exp 43080, Jexp 40160",
         "pt": "[Solicitação]\nLocal: Sul de Hugel\nObjetivo: Caçar 10 Novus Escarlates e 10 Novus Dourados \nRecompensa: EXP base 43080, EXP classe 40160",
-        "es": "[Solicitud de Dry, herrero en Hugel]\nUbicación: Campo del suroeste de Hugel.\nObjetivo: Derrota a 10Novus amarillos y 10Novus rojos.\nPremio: 43080deEXP y 40160deEXPdeclase."
+        "es": "[Solicitud de Dry, herrero en Hugel]\nUbicación: Campo del suroeste de Hugel.\nObjetivo: Derrota a 10 Novus amarillos y 10 Novus rojos.\nPremio: 43080 de EXP y 40160 de EXP de clase."
     },
     "TrpMCg": {
         "en": "Hugel Blacksmith Dry's Request\n^4D4DFF[Pipe Failure]^000000 Quest accepted.",
@@ -2957,12 +2957,12 @@
     "T7pMCg": {
         "en": "[Request Completed]\nLocation: Rachel Plains\nTarget: Defeat 30 Roween\nReward: Exp 86000, Jexp 82000",
         "pt": "[Missão Completa]\nLocal: Arredores de Rachel\nObjetivo: Caçar 30 Roweens\nRecompensa: EXP base 86000, EXP classe 82000",
-        "es": "[Solicitud completada]\nUbicación: Llanuras de Rachel.\nObjetivo: Derrota a 30Roween.\nPremio: 86000deEXP y 82000deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Llanuras de Rachel.\nObjetivo: Derrota a 30 Roween.\nPremio: 86000 de EXP y 82000 de EXP de clase."
     },
     "ULpMCg": {
         "en": "[Request from the security in front of Rachel Airport]\nLocation: Rachel Plains\nTarget: Defeat 30 Roween\nReward: Exp 86000, Jexp 82000",
         "pt": "[Solicitação]\nLocal: Arredores de Rachel\nObjetivo: Caçar 30 Roweens\nRecompensa: EXP base 86000, EXP classe 82000",
-        "es": "[Solicitud de guardia de seguridad frente al aeropuerto de Rachel]\nUbicación: Llanuras de Rachel.\nObjetivo: Derrota a 30Roween.\nPremio: 86000deEXP y 82000deEXPdeclase."
+        "es": "[Solicitud de guardia de seguridad frente al aeropuerto de Rachel]\nUbicación: Llanuras de Rachel.\nObjetivo: Derrota a 30 Roween.\nPremio: 86000 de EXP y 82000 de EXP de clase."
     },
     "UbpMCg": {
         "en": "Request from the security in front of Rachel Airport\n^4D4DFF[A Peaceful Pilgrimage]^000000 Quest accepted.",
@@ -2972,12 +2972,12 @@
     "UrpMCg": {
         "en": "[Request Completed]\nLocation: Rachel Ice Cave 1F\nTarget: Defeat 30 Siroma\nReward: Exp 92000, Jexp 82000",
         "pt": "[Missão Completa]\nLocal: Caverna de Gelo 1º piso\nObjetivo: Caçar 30 Siromas\nRecompensa: EXP base 92000, EXP classe 82000",
-        "es": "[Solicitud completada]\nUbicación: Cueva de hielo de RachelP1.\nObjetivo: Derrota a 30Siroma.\nPremio: 92000deEXP y 82000deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Cueva de hielo de Rachel P1.\nObjetivo: Derrota a 30 Siroma.\nPremio: 92000 de EXP y 82000 de EXP de clase."
     },
     "U7pMCg": {
         "en": "[Leonard's request from the main road east of Rachel]\nLocation: Rachel Ice Cave 1F\nTarget: Defeat 30 Siroma\nReward: Exp 92000, Jexp 82000",
         "pt": "[Solicitação]\nLocal: Caverna de Gelo 1º piso\nObjetivo: Caçar 30 Siromas\nRecompensa: EXP base 92000, EXP classe 82000",
-        "es": "[Solicitud de Leonard en la carretera principal al este de Rachel]\nUbicación: Cueva de hielo de RachelP1.\nObjetivo: Derrota a 30Siroma.\nPremio: 92000deEXP y 82000deEXPdeclase."
+        "es": "[Solicitud de Leonard en la carretera principal al este de Rachel]\nUbicación: Cueva de hielo de Rachel P1.\nObjetivo: Derrota a 30 Siroma.\nPremio: 92000 de EXP y 82000 de EXP de clase."
     },
     "VLpMCg": {
         "en": "Leonard's request from the main road east of Rachel\n^4D4DFF[Guardian of Beauty]^000000 Quest accepted.",
@@ -2987,12 +2987,12 @@
     "VbpMCg": {
         "en": "[Request Completed]\nLocation: Veins Field\nTarget: Defeat 30 Stapo\nReward: Exp 86000, Jexp 82000",
         "pt": "[Missão Completa]\nLocal: Sul de Veins\nObjetivo: Caçar 30 Stapos\nRecompensa: EXP base 86000, EXP classe 82000",
-        "es": "[Solicitud completada]\nUbicación: Campo de Veins.\nObjetivo: Derrota a 30Stapo.\nPremio: 86000deEXP y 82000deEXPdeclase."
+        "es": "[Solicitud completada]\nUbicación: Campo de Veins.\nObjetivo: Derrota a 30 Stapo.\nPremio: 86000 de EXP y 82000 de EXP de clase."
     },
     "VrpMCg": {
         "en": "[Request from Mayor Craven next to Veins Square]\nLocation: Veins Field\nTarget: Defeat 30 Stapo\nReward: Exp 86000, Jexp 82000",
         "pt": "[Solicitação]\nLocal: Sul de Veins\nObjetivo: Caçar 30 Stapos\nRecompensa: EXP base 86000, EXP classe 82000",
-        "es": "[Solicitud del alcalde Craven junto a la plaza de Veins]\nUbicación: Campo de Veins.\nObjetivo: Derrota a 30Stapo.\nPremio: 86000deEXP y 82000deEXPdeclase."
+        "es": "[Solicitud del alcalde Craven junto a la plaza de Veins]\nUbicación: Campo de Veins.\nObjetivo: Derrota a 30 Stapo.\nPremio: 86000 de EXP y 82000 de EXP de clase."
     },
     "V7pMCg": {
         "en": "Request from Mayor Craven next to Veins Square\n^4D4DFF[Stone Swallowing Stone]^000000 Quest accepted.",
@@ -3242,7 +3242,7 @@
     "iLpMCg": {
         "en": "[Fluff Delivery Request]\nRequired Materials : Fluff 30 pcs\nReward: Exp 5000",
         "pt": "[Felpa em baixo estoque]\nItem: 30 Felpas\nRecompensa: EXP base 5000",
-        "es": "[Solicitud de entrega de Pelusas]\nMateriales requeridos: 30Pelusas.\nPremio: 5000deEXP."
+        "es": "[Solicitud de entrega de Pelusas]\nMateriales requeridos: 30 Pelusas.\nPremio: 5000 de EXP."
     },
     "ibpMCg": {
         "en": "Deliver Materials.",
@@ -3262,97 +3262,97 @@
     "jLpMCg": {
         "en": "[Sticky Webfoot Delivery Request]\nRequired Materials : Sticky Webfoot 30 pcs\nReward: Exp 5400",
         "pt": "[Pata Pegajosa em baixo estoque]\nItem: 30 Patas Pegajosas\nRecompensa: EXP base 5400",
-        "es": "[Solicitud de entrega de Patas palmípedas pegajosas]\nMateriales requeridos: 30Pataspalmípedaspegajosas.\nPremio: 5400deEXP."
+        "es": "[Solicitud de entrega de Patas palmípedas pegajosas]\nMateriales requeridos: 30 Patas palmípedas pegajosas.\nPremio: 5400 de EXP."
     },
     "jbpMCg": {
         "en": "[Grasshopper's Leg Delivery Request]\nRequired Materials : Grasshopper's Leg 30 pcs\nReward: Exp 5940",
         "pt": "[Perna de Gafanhoto em baixo estoque]\nItem: 30 Pernasde Gafanhoto\nRecompensa: EXP base 5940",
-        "es": "[Solicitud de entrega de Patas de saltamontes]\nMateriales requeridos: 30Patasdesaltamontes.\nPremio: 5940deEXP."
+        "es": "[Solicitud de entrega de Patas de saltamontes]\nMateriales requeridos: 30 Patas de saltamontes.\nPremio: 5940 de EXP."
     },
     "jrpMCg": {
         "en": "[Snail's Shell Delivery Request]\nRequired Materials : Snail's Shell 30 pcs\nReward: Exp 7020",
         "pt": "[Casco de Caramujo em baixo estoque]\nItem: 30 Cascos de Caramujo\nRecompensa: EXP base 7020",
-        "es": "[Solicitud de entrega de Caparazones de caracol]\nMateriales requeridos: 30Caparazones de caracol.\nPremio: 7020deEXP."
+        "es": "[Solicitud de entrega de Caparazones de caracol]\nMateriales requeridos: 30 Caparazones de caracol.\nPremio: 7020 de EXP."
     },
     "j7pMCg": {
         "en": "[Bird's Bill Delivery Request]\nRequired Materials : Bird's Bill 30 pcs\nReward: Exp 9720",
         "pt": "[Bico de Ave em baixo estoque]\nItem: 30 Bicos de Ave\nRecompensa: EXP base 9720",
-        "es": "[Solicitud de entrega de Picos de ave]\nMateriales requeridos: 30Picosdeave.\nPremio: 9720deEXP."
+        "es": "[Solicitud de entrega de Picos de ave]\nMateriales requeridos: 30 Picos de ave.\nPremio: 9720 de EXP."
     },
     "kLpMCg": {
         "en": "[Bear's Footskin Delivery Request]\nRequired Materials : Bear's Footskin 30 pcs\nReward: Exp 10800",
         "pt": "[Pata de Urso em baixo estoque]\nItem: 30 Patas de Urso\nRecompensa: EXP base 10800",
-        "es": "[Solicitud de entrega de Pieles de patas de oso]\nMateriales requeridos: 30Pielesdepatadeoso.\nPremio: 10800deEXP."
+        "es": "[Solicitud de entrega de Pieles de patas de oso]\nMateriales requeridos: 30 Pieles de pata de oso.\nPremio: 10800 de EXP."
     },
     "kbpMCg": {
         "en": "[Resin Delivery Request]\nRequired Materials : Resin 30 pcs\nReward: Exp 13980",
         "pt": "[Galho Seco em baixo estoque]\nItem: 30 Resinas\nRecompensa: EXP base 13980",
-        "es": "[Solicitud de entrega de Resina]\nMateriales requeridos: 30unidadesdeResina.\nPremio: 13980deEXP."
+        "es": "[Solicitud de entrega de Resina]\nMateriales requeridos: 30 unidades de Resina.\nPremio: 13980 de EXP."
     },
     "krpMCg": {
         "en": "[Monkey Tail Delivery Request]\nRequired Materials : Monkey Tail 30 pcs\nReward: Exp 16200",
         "pt": "[Cauda de Yoyo em baixo estoque]\nItem: 30 Caudas de Yoyo\nRecompensa: EXP base 16200",
-        "es": "[Solicitud de entrega de Colas de mono]\nMateriales requeridos: 30Colas de mono.\nPremio: 16200deEXP."
+        "es": "[Solicitud de entrega de Colas de mono]\nMateriales requeridos: 30 Colas de mono.\nPremio: 16200 de EXP."
     },
     "k7pMCg": {
         "en": "[Lantern Delivery Request]\nRequired Materials : Lantern 30 pcs\nReward: Exp 19980",
         "pt": "[Lampião em baixo estoque]\nItem: 30 Lampiões\nRecompensa: EXP base 19980",
-        "es": "[Solicitud de entrega de Faroles]\nMateriales requeridos: 30Faroles.\nPremio: 19980deEXP."
+        "es": "[Solicitud de entrega de Faroles]\nMateriales requeridos: 30 Faroles.\nPremio: 19980 de EXP."
     },
     "lLpMCg": {
         "en": "[Conch Delivery Request]\nRequired Materials : Conch 30 pcs\nReward: Exp 22140",
         "pt": "[Concha em baixo estoque]\nItem: 30 Conchas\nRecompensa: EXP base 22140",
-        "es": "[Solicitud de entrega de Caracolas]\nMateriales requeridos: 30Caracolas.\nPremio: 22140deEXP."
+        "es": "[Solicitud de entrega de Caracolas]\nMateriales requeridos: 30 Caracolas.\nPremio: 22140 de EXP."
     },
     "lbpMCg": {
         "en": "[Mermaid's Heart Delivery Request]\nRequired Materials : Mermaid's Heart 30 pcs\nReward: Exp 28560",
         "pt": "[Coração de Sereia em baixo estoque]\nItem: 30 Corações de Sereia\nRecompensa: EXP base 28560",
-        "es": "[Solicitud de entrega de Corazón de sirena]\nMateriales requeridos: 30Corazones de sirena.\nPremio: 28560deEXP."
+        "es": "[Solicitud de entrega de Corazón de sirena]\nMateriales requeridos: 30 Corazones de sirena.\nPremio: 28560 de EXP."
     },
     "lrpMCg": {
         "en": "[Mane Delivery Request]\nRequired Materials : Mane 30 pcs\nReward: Exp 34380",
         "pt": "[Crina em baixo estoque]\nItem: 30 Crinas\nRecompensa: EXP base 34380",
-        "es": "[Solicitud de entrega deCrines]\nMateriales requeridos: 30Crines.\nPremio: 34380deEXP."
+        "es": "[Solicitud de entrega de Crines]\nMateriales requeridos: 30 Crines.\nPremio: 34380 de EXP."
     },
     "l7pMCg": {
         "en": "[Black Hair Delivery Request]\nRequired Materials : Black Hair 30 pcs\nReward: Exp 35640",
         "pt": "[Cabelos Morenos em baixo estoque]\nItem: 30 Cabelos Morenos\nRecompensa: EXP base 35640",
-        "es": "[Solicitud de entrega deCabellos negros]\nMateriales requeridos: 30Cabellosnegros.\nPremio: 35640deEXP."
+        "es": "[Solicitud de entrega deCabellos negros]\nMateriales requeridos: 30 Cabellos negros.\nPremio: 35640 de EXP."
     },
     "mLpMCg": {
         "en": "[Horseshoe Delivery Request]\nRequired Materials : Horseshoe 30 pcs\nReward: Exp 36000",
         "pt": "[Ferradura em baixo estoque]\nItem: 30 Ferraduras\nRecompensa: EXP base 36000",
-        "es": "[Solicitud de entrega de Herraduras]\nMateriales requeridos: 30Herraduras.\nPremio: 36000deEXP."
+        "es": "[Solicitud de entrega de Herraduras]\nMateriales requeridos: 30 Herraduras.\nPremio: 36000 de EXP."
     },
     "mbpMCg": {
         "en": "[Bug Leg Delivery Request]\nRequired Materials : Bug Leg 30 pcs\nReward: Exp 48600",
         "pt": "[Pata de Inseto em baixo estoque]\nItem: 30 Patas de Inseto\nRecompensa: EXP base 48600",
-        "es": "[Solicitud de entrega dePatas de bicho]\nMateriales requeridos: 30Patas de bicho\nPremio: 48600deEXP."
+        "es": "[Solicitud de entrega de Patas de bicho]\nMateriales requeridos: 30 Patas de bicho\nPremio: 48600 de EXP."
     },
     "mrpMCg": {
         "en": "[Sand Clump Delivery Request]\nRequired Materials : Sand Clump 30 pcs\nReward: Exp 62040",
         "pt": "[Areia Molhada em baixo estoque]\nItem: 30 Areias Molhadas\nRecompensa: EXP base 62040",
-        "es": "[Solicitud de entrega de Arena húmeda]\nMateriales requeridos: 30unidadesdeArenahúmeda.\nPremio: 62040deEXP."
+        "es": "[Solicitud de entrega de Arena húmeda]\nMateriales requeridos: 30 unidades de Arena húmeda.\nPremio: 62040 de EXP."
     },
     "m7pMCg": {
         "en": "[Dry Sand Delivery Request]\nRequired Materials : Dry Sand 30 pcs\nReward: Exp 72060",
         "pt": "[Areia Seca em baixo estoque]\nItem: 30 Areias Secas\nRecompensa: EXP base 72060",
-        "es": "[Solicitud de entrega deArena seca]\nMateriales requeridos: 30unidades deArenaseca.\nPremio: 72060deEXP."
+        "es": "[Solicitud de entrega de Arena seca]\nMateriales requeridos: 30 unidades de Arena seca.\nPremio: 72060 de EXP."
     },
     "nLpMCg": {
         "en": "[Turtle Shell Delivery Request]\nRequired Materials : Turtle Shell 30 pcs\nReward: Exp 78300",
         "pt": "[Casco de Tartaruga em baixo estoque]\nItem: 30 Cascos de Tartaruga\nRecompensa: EXP base 78300",
-        "es": "[Solicitud de entrega deCaparazones de tortuga]\nMateriales requeridos: 30Caparazonesdetortuga.\nPremio: 78300deEXP."
+        "es": "[Solicitud de entrega de Caparazones de tortuga]\nMateriales requeridos: 30 Caparazones de tortuga.\nPremio: 78300 de EXP."
     },
     "nbpMCg": {
         "en": "[Little Evil Horn Delivery Request]\nRequired Materials : Little Evil Horn 30 pcs\nReward: Exp 108360",
         "pt": "[Pequeno Chifre Maligno em baixo estoque]\nItem: 30 Pequenos Chifres Malignos\nRecompensa: EXP base 108360",
-        "es": "[Solicitud de entrega deCuernosdedemonio pequeño]\nMateriales requeridos: 30Cuernosdedemonio pequeño.\nPremio: 108360deEXP."
+        "es": "[Solicitud de entrega de Cuernos de demonio pequeño]\nMateriales requeridos: 30 Cuernos dedemonio pequeño.\nPremio: 108360 de EXP."
     },
     "nrpMCg": {
         "en": "[Glacial Heart Delivery Request]\nRequired Materials : Glacial Heart 30 pcs\nReward: Exp 116640",
         "pt": "[Coração Glacial em baixo estoque]\nItem: 30 Corações Glaciais\nRecompensa: EXP base 116640",
-        "es": "[Solicitud de entrega de Corazón glacial]\nMateriales requeridos: 30Corazones glaciales.\nPremio: 116640deEXP."
+        "es": "[Solicitud de entrega de Corazón glacial]\nMateriales requeridos: 30 Corazones glaciales.\nPremio: 116640 de EXP."
     },
     "n7pMCg": {
         "en": "[Eden Logistics Manager]\nGoodbye.",

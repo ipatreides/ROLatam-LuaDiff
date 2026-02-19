@@ -69,13 +69,13 @@
         "ko": "[바르문트의 환영]\n물러나시오. 이곳은 살아있는 인간이 들어갈 수 없는 곳으로 변하고 있소.",
         "en": "[Varmunt's Phantom]\nStand back. This place has become somewhere no living human can enter.",
         "pt": "[Ilusão de Varmunt]\nVolte. Aqui está se transformando em um lugar onde nenhum ser vivo pode entrar.",
-        "es": "[Ilusión de Varmunt]\nRegresa. Este lugar se está transformando en un sitio donde ningún ser vivo puede entrar."
+        "es": "[Ilusión de Varmunt]\nRegresa. Esto se está convirtiendo en un lugar donde ningún ser vivo puede entrar."
     },
     "jPeoDA": {
         "ko": "[슈미츠]\n대현자님. 이게 어떻게 된 일입니까. 모든 일정을 취소하고 급하게 돌아왔습니다. 하인리히는 또 어디에?",
         "en": "[Schmidt]\nGreat Sage. What is the meaning of this? I canceled all my appointments and hurried back. And where is Heinrich?",
         "pt": "[Schmidt]\nGrande Sábio. Como isso aconteceu? Cancelei todos os meus planos e vim rápido. Onde está Heinrich?",
-        "es": "[Schmidt]\nGran Sabio. ¿Cómo sucedió esto? Cancelé todos mis planes y vine rápido. ¿Dónde está Heinrich?"
+        "es": "[Schmidt]\nGran Sabio. ¿Cómo ocurrió esto? Cancelé todos mis planes y vine rápido. ¿Dónde está Heinrich?"
     },
     "jfeoDA": {
         "ko": "[바르문트의 환영]\n대강의 상황은 들어 알겠지만 이 성 전체에 히멜메즈로 인한 저주가 퍼져있소. 지금 안으로 들어가는것은 지극히 위험하오.",
@@ -93,25 +93,25 @@
         "ko": "[바르문트의 환영]\n하인리히경이 그것을 지휘하고 있소. 지금 그대가 해야 할 일은 대피 후 이 사태를 수습하는것이지 성 안으로 무모하게 뛰어드는것이 아니오.",
         "en": "[Varmunt's Phantom]\nSir Heinrich is in command of it. What you must do now is evacuate and then help bring this situation under control, not recklessly rush into the castle.",
         "pt": "[Ilusão de Varmunt]\nHeinrich está comandando isso. O que você precisa fazer agora é evacuar, não correr para dentro do castelo de forma imprudente.",
-        "es": "[Ilusión de Varmunt]\nHeinrich está al mando de eso. Lo que tú necesitas hacer ahora es evacuar, no correr imprudentemente dentro del castillo."
+        "es": "[Ilusión de Varmunt]\nHeinrich está a cargo de eso. Lo que necesitas hacer ahora es evacuar, no entrar imprudentemente al castillo."
     },
     "kPeoDA": {
         "ko": "[슈미츠]\n그 말씀도 맞습니다만 제가 성 안으로 들어가려는 다른 이유도 있습니다.",
         "en": "[Schmidt]\nYou're right, but I have another reason for wanting to go inside the castle.",
         "pt": "[Schmidt]\nVocê está certo, mas há outro motivo pelo qual eu quero entrar no castelo.",
-        "es": "[Schmidt]\nTienes razón, pero hay otra razón por la que quiero entrar al castillo."
+        "es": "[Schmidt]\nTienes razón, pero hay otro motivo por el cual quiero entrar al castillo."
     },
     "kfeoDA": {
         "ko": "[슈미츠]\n이런 형태의 저주술에 대해서는 저도 좀 압니다. 아마도 촉매가 되는 무언가가 성 안에 자리 잡았을거라 봅니다. 그걸 파괴하지 않으면...",
         "en": "[Schmidt]\nI know a bit about curses like this. I suspect there’s something acting as a catalyst inside the castle. If we don’t destroy it...",
         "pt": "[Schmidt]\nEu sei um pouco sobre esse tipo de maldição. Acho que provavelmente há algo no castelo que atua como um catalisador. Se não o destruirmos...",
-        "es": "[Schmidt]\nSé un poco sobre este tipo de maldición. Creo que probablemente hay algo en el castillo que actúa como un catalizador. Si no lo destruimos..."
+        "es": "[Schmidt]\nSé un poco sobre este tipo de maldición. Creo que probablemente hay algo en el castillo que actúa como catalizador. Si no lo destruimos…"
     },
     "kveoDA": {
         "ko": "[바르문트의 환영]\n저주술을 언급하셨지요, 바로 그 이유 때문에 안 된다는겁니다.",
         "en": "[Varmunt's Phantom]\nYou mentioned the curse magic, yes? That is exactly why it cannot be done.",
         "pt": "[Ilusão de Varmunt]\nVocê falou maldição, não foi? É por isso que você não vai conseguir ajudar muito.",
-        "es": "[Ilusión de Varmunt]\nDijiste maldición, ¿verdad? Por eso no vas a poder ayudar mucho."
+        "es": "[Ilusión de Varmunt]\nMencionaste maldición, ¿verdad? Por eso no vas a poder ayudar mucho."
     },
     "k/eoDA": {
         "ko": "[슈미츠]\n그게 무슨? 혹시 대현자께선 저 기운의 정체를 알고 계신겁니까?",
@@ -123,25 +123,25 @@
         "ko": "[바르문트의 환영]\n자세한건 나중에 설명드릴테니 이곳을 나가시지요. 아니면 환영이 아니라 제 본신을 마주 하셔야겠습니까?",
         "en": "[Varmunt's Phantom]\nI will explain the details later, so please leave this place. Or would you rather face my true self, not just a phantom?",
         "pt": "[Ilusão de Varmunt]\nExplicarei os detalhes mais tarde, saia daqui, por favor. Ou você quer encarar meu verdadeiro eu em vez de uma ilusão?",
-        "es": "[Ilusión de Varmunt]\nExplicaré los detalles más tarde, sal de aquí, por favor. ¿O quieres enfrentarte a mi verdadero yo en lugar de a una ilusión?"
+        "es": "[Ilusión de Varmunt]\nExplicaré los detalles más tarde. Por favor, sal de aquí. ¿O acaso quieres enfrentar a mi verdadero yo en lugar de una ilusión?"
     },
     "lfeoDA": {
         "ko": "[슈미츠]\n상황이 그렇지 못하단걸 잘 아시잖습니까. 저는 이 대륙의 왕이자 이 성의 주인입니다. 이 사태를 수습해야 할 의무가 있습니다",
         "en": "[Schmidt]\nYou know full well the situation will not allow it. I am the king of this continent and the master of this castle. I have a duty to bring this matter under control.",
         "pt": "[Schmidt]\nVocê sabe muito bem que a questão não é essa. Eu sou o rei deste continente e o dono deste castelo. Tenho o dever de resolver esta situação.",
-        "es": "[Schmidt]\nSabes muy bien que ese no es el punto. Soy el rey de este continente y el dueño de este castillo. Tengo el deber de resolver esta situación."
+        "es": "[Schmidt]\nSabes muy bien que no se trata de eso. Soy el rey de este continente y el dueño de este castillo. Tengo el deber de resolver esta situación."
     },
     "lveoDA": {
         "ko": "[바르문트의 환영]\n젊은 왕이여 그대의 마음에 한치의 거짓도 망설임도 없다는것을 누구보다 잘 아오.",
         "en": "[Varmunt's Phantom]\nYoung king, I know better than anyone that there is not the slightest falsehood or hesitation in your heart.",
         "pt": "[Ilusão de Varmunt]\nJovem rei, eu sei melhor do que ninguém que não há uma única mentira ou hesitação em seu coração.",
-        "es": "[Ilusión de Varmunt]\nJoven rey, yo sé mejor que nadie que no hay una sola mentira o vacilación en tu corazón."
+        "es": "[Ilusión de Varmunt]\nJoven rey, sé mejor que nadie que no hay una sola mentira ni duda en tu corazón."
     },
     "l/eoDA": {
         "ko": "[바르문트의 환영]\n그러나 그대의 목숨은 이 대륙의 목숨이나 마찬가지입니다, 돌아가세요.",
         "en": "[Varmunt's Phantom]\nBut your life is as precious as this continent's life. Please go back.",
         "pt": "[Ilusão de Varmunt]\nMas sua vida é tão preciosa quanto a vida deste continente. Saia daqui.",
-        "es": "[Ilusión de Varmunt]\nPero tu vida es tan preciosa como la vida de este continente. Sal de aquí."
+        "es": "[Ilusión de Varmunt]\nPero tu vida es tan valiosa como la vida de este continente. Sal de aquí."
     },
     "mPeoDA": {
         "ko": "[슈미츠]\n대현자님... 아니, 스승님.",
@@ -165,7 +165,7 @@
         "ko": "[바르문트의 환영]\n다만 한 가지는 확실히 말해주겠소. 지금 즉시 이 곳에서 발길을 돌려 바깥으로 나간다면 다음을 기약 할 수 있을것이오.",
         "en": "[Varmunt's Phantom]\nBut I can tell you one thing for certain. If you turn back now and leave this place at once, you may live to return another day.",
         "pt": "[Ilusão de Varmunt]\nMas vou lhe dizer uma coisa claramente. Se você sair daqui e agora, eu contarei. Isso é uma promessa.",
-        "es": "[Ilusión de Varmunt]\nPero te diré una cosa claramente. Si sales de aquí y ahora, te lo contaré. Es una promesa."
+        "es": "[Ilusión de Varmunt]\nPero te diré algo claramente. Si te vas de aquí ahora, te lo contaré. Eso es una promesa."
     },
     "nPeoDA": {
         "ko": "[바르문트의 환영]\n물론 성 안의 다른 사람들의 목숨은 보장할 수 없지만 지금은 어쩔 수 없소.",
@@ -177,7 +177,7 @@
         "ko": "[슈미츠]\n저의 부하들이고 저의 백성들입니다. 살아남은 사람이 있다면 구해야지요. 앞서의 이야기는 못들은 것으로 하겠습니다.",
         "en": "[Schmidt]\nThey are my subordinates and my people. If anyone survived, we must save them. I will pretend I did not hear what you said earlier.",
         "pt": "[Schmidt]\nEles são meus subordinados. Eles são o MEU POVO. Se houver sobreviventes, devo salvá-los.",
-        "es": "[Schmidt]\nEllos son mis subordinados. Ellos son MI PUEBLO. Si hay supervivientes, debo salvarlos."
+        "es": "[Schmidt]\nSon mis subordinados. Son MI GENTE. Si hay sobrevivientes, debo salvarlos."
     },
     "nveoDA": {
         "ko": "[슈미츠]\n저는 계속 들어갈 것입니다.",
@@ -213,31 +213,31 @@
         "ko": "어서 움직이세요. 시간이 그리 많지 않으니까.",
         "en": "Move quickly. We don't have much time.",
         "pt": "Não temos muito tempo, vá correndo.",
-        "es": "No tenemos mucho tiempo, ve corriendo."
+        "es": "No tenemos mucho tiempo, corre."
     },
     "pPeoDA": {
         "ko": "[오스카]\n아 이렇게 모습을 내놓고 다녀도 되냐고요? 걱정마세요. 제 몸엔 차원의 결계가 쳐져있어서 당신 외에는 보이지 않아요.",
         "en": "[Oscar]\nOh, you mean if it’s okay for me to walk around like this? Don’t worry. My body is protected by an interdimensional barrier, so no one but you can see me.",
         "pt": "[Oscar]\nAh, está tudo bem se eu aparecer assim? Não se preocupe. Há uma barreira dimensional ao redor do meu corpo, então não posso ser visto por ninguém além de você.",
-        "es": "[Oscar]\nAh, ¿está bien si aparezco así? No te preocupes. Hay una barrera dimensional alrededor de mi cuerpo, así que nadie más que tú puede verme."
+        "es": "[Oscar]\nAh, ¿está bien si aparezco así? No te preocupes. Hay una barrera dimensional alrededor de mi cuerpo, así que no puedo ser visto por nadie más que por ti."
     },
     "pfeoDA": {
         "ko": "[오스카]\n당신이 보기엔 어때요. 이 사람들의 이야기를 비극적이지 않게 돌릴 방법이 있을 것 같나요?",
         "en": "[Oscar]\nWhat do you think? Do you think there’s a way to turn these people’s story into something less tragic?",
         "pt": "[Oscar]\nO que você achou? Você acha que existe uma maneira de tornar as histórias dessas pessoas menos trágica?",
-        "es": "[Oscar]\n¿Qué opinas? ¿Crees que hay una manera de hacer que las historias de estas personas sean menos trágicas?"
+        "es": "[Oscar]\n¿Qué te pareció? ¿Crees que exista alguna manera de hacer que las historias de estas personas sean menos trágicas?"
     },
     "pveoDA": {
         "ko": "[오스카]\n따지고보면 이 사람들에게 내려진 운명은 가혹하기 그지없죠.",
         "en": "[Oscar]\nWhen you think about it, the fate that befell these people is unbearably cruel.",
         "pt": "[Oscar]\nSe você pensar bem, o destino dessas pessoas é extremamente ruim.",
-        "es": "[Oscar]\nSi lo piensas bien, el destino de estas personas es extremadamente malo."
+        "es": "[Oscar]\nSi lo piensas bien, el destino de estas personas es extremadamente cruel."
     },
     "p/eoDA": {
         "ko": "[오스카]\n꿈도 희망도 없는 미래. 괴로운 이별. 왜곡되어 전승되는 이야기!! 어딜 찾아봐도 희망적인 부분은 한톨도 찾을 수 없죠",
         "en": "[Oscar]\nA future with no dreams and no hope. A painful farewell. A tale passed down in a twisted way!! No matter where you look, you can’t find even a speck of hope.",
         "pt": "[Oscar]\nUm futuro sem sonhos ou esperança. Uma história que virou boato e mentira!! Não importa para onde eu olhe, não consigo encontrar um único pingo de esperança.",
-        "es": "[Oscar]\nUn futuro sin sueños ni esperanza. ¡¡Una historia que se convirtió en rumor y mentira!! No importa hacia dónde mire, no puedo encontrar una sola gota de esperanza."
+        "es": "[Oscar]\nUn futuro sin sueños ni esperanza. ¡Una historia que se convirtió en rumor y mentira! No importa a dónde mire, no logro encontrar ni una sola pizca de esperanza."
     },
     "qPeoDA": {
         "ko": "[오스카]\n물론 제가 정말 좋아하는건 해피엔딩이라서 사실 몇번정도는 직접 개입해서 운명을 바꾸려고도 했어요.",
@@ -255,7 +255,7 @@
         "ko": "[오스카]\n어쨌든. 제 판단으론 이때 슈미츠 왕의 결정은 그가 좋아하는 군사학적으로 평가하자면...",
         "en": "[Oscar]\nAnyway. In my judgment, if we evaluate King Schmidt's decision at the time in the military terms he favors...",
         "pt": "[Oscar]\nDe qualquer forma. Na minha opinião, a decisão do Rei Schmidt neste momento pode ser avaliada a partir de sua perspectiva militar...",
-        "es": "[Oscar]\nDe todos modos. En mi opinión, la decisión del Rey Schmidt en este momento puede evaluarse desde su perspectiva militar..."
+        "es": "[Oscar]\nDe cualquier forma, en mi opinión, la decisión del rey Schmidt en este momento puede evaluarse desde su perspectiva militar…"
     },
     "q/eoDA": {
         "ko": "[오스카]\n전술적으로는 옳았지만 전략적으로는 실패한 행동이었죠.",
@@ -279,13 +279,13 @@
         "ko": "[오스카]\n그가 조금만 더 이기적인 왕이었다면 이야기가 얼마나 달라졌을까를 늘 생각해요.",
         "en": "[Oscar]\nI always wonder how different the story would have been if he had been just a little more selfish as a king.",
         "pt": "[Oscar]\nSempre penso em como a história teria sido diferente se ele tivesse sido um rei egoísta.",
-        "es": "[Oscar]\nSiempre pienso en cómo habría sido diferente la historia si él hubiera sido un rey egoísta."
+        "es": "[Oscar]\nSiempre pienso en cómo la historia habría sido diferente si él hubiera sido un rey egoísta."
     },
     "r/eoDA": {
         "ko": "[오스카]\n어쨌든 어서 움직여요. 아직 목격해야할 사건들이 남아있으니까!",
         "en": "[Oscar]\nAnyway, let's get moving. There are still incidents we need to witness!",
         "pt": "[Oscar]\nDe qualquer forma, vamos andando. Ainda há eventos para testemunhar!",
-        "es": "[Oscar]\nDe todos modos, sigamos caminando. ¡Aún hay eventos por presenciar!"
+        "es": "[Oscar]\nDe todos modos, sigamos adelante. ¡Aún hay eventos por presenciar!"
     },
     "sPeoDA": {
         "ko": "3",
@@ -297,7 +297,7 @@
         "ko": "잠깐. 저 앞에 있는건 우리 병사가 아닌가?",
         "en": "Wait. Isn’t that our soldier up ahead?",
         "pt": "Espere. Aquilo ali na frente não é um dos nossos soldados?",
-        "es": "Espera. ¿Eso de adelante no es uno de nuestros soldados?"
+        "es": "Espera. ¿Eso que está ahí adelante no es uno de nuestros soldados?"
     },
     "sveoDA": {
         "ko": "잠깐 길이 엇갈렸었군.",
@@ -309,37 +309,37 @@
         "ko": "[슈미츠]\n아직 빠져나가지 못한 사람들이 있는 것 같다. 밖으로 나가라고 전해야 해.",
         "en": "[Schmidt]\nI think there are still people who haven't made it out. I need to tell them to get outside.",
         "pt": "[Schmidt]\nParece que há pessoas que ainda não evacuaram. Precisamos pedir para saírem.",
-        "es": "[Schmidt]\nParece que hay gente que aún no ha evacuado. Necesitamos pedirles que salgan."
+        "es": "[Schmidt]\nParece que todavía hay personas que no han evacuado. Tenemos que pedirles que salgan."
     },
     "tPeoDA": {
         "ko": "지금이라도 발길을 돌리시죠",
         "en": "Even now, you should turn back.",
         "pt": "Por favor, volte agora",
-        "es": "Por favor, regresa ahora"
+        "es": "Por favor, regrese ahora."
     },
     "tfeoDA": {
         "ko": "명을 받듭니다",
         "en": "I accept your command.",
         "pt": "Dê as suas ordens",
-        "es": "Da tus órdenes"
+        "es": "Dé sus órdenes."
     },
     "tveoDA": {
         "ko": "[슈미츠]\n아니 그럴 순 없네. 여기까지 와서 돌아가다니...",
         "en": "[Schmidt]\nNo, that won't do. Coming all this way only to turn back...",
         "pt": "[Schmidt]\nNão, isso não é possível. Vir até aqui e depois voltar...?",
-        "es": "[Schmidt]\nNo, eso no es posible. ¿Venir hasta aquí y luego volver...?"
+        "es": "[Schmidt]\nNo, eso no es posible. ¿Venir hasta aquí y luego regresar...?"
     },
     "t/eoDA": {
         "ko": "[슈미츠]\n아니, 아니다. 내가 직접 명을 내리지 않으면 듣지 않겠지.",
         "en": "[Schmidt]\nNo... no. They won't listen unless I give the order myself.",
         "pt": "[Schmidt]\nEles não ouvirão a menos que eu mesmo dê a ordem.",
-        "es": "[Schmidt]\nNo escucharán a menos que dé la orden yo mismo."
+        "es": "[Schmidt]\nNo escucharán a menos que yo mismo dé la orden."
     },
     "uPeoDA": {
         "ko": "[슈미츠]\n미안하지만 자네가 날 도와줘야겠어. 생존자들을 찾는걸 도와주게.",
         "en": "[Schmidt]\nI'm sorry, but I need your help. Help me search for the survivors.",
         "pt": "[Schmidt]\nDesculpe, mas preciso que você me ajude a encontrar os sobreviventes.",
-        "es": "[Schmidt]\nLo siento, pero necesito que me ayudes a encontrar a los supervivientes."
+        "es": "[Schmidt]\nLo siento, pero necesito que me ayudes a encontrar a los sobrevivientes."
     },
     "ufeoDA": {
         "ko": "[슈미츠]\n아마 저들은 내가 없으면 자넬 공격할지도 몰라. 이미 반쯤 이성을 잃은 것 같으니까...",
@@ -363,13 +363,13 @@
         "ko": "[슈미츠]\n이 문은 이미 낡아버려서 그냥 부숴버리고 진행하는게 낫겠군. 비켜봐 내가 처리할테니.",
         "en": "[Schmidt]\nThis door is already worn out. It'd be better to just break it and move on. Step aside. I'll handle it.",
         "pt": "[Schmidt]\nEsta porta já está velha, então talvez seja melhor derrubá-la e prosseguir. Afaste-se que eu cuidarei disso.",
-        "es": "[Schmidt]\nEsta puerta ya está vieja, así que quizás sea mejor derribarla y seguir. Apártate, yo me encargaré."
+        "es": "[Schmidt]\nEsta puerta ya está vieja, así que quizás sea mejor derribarla y seguir. Aléjate, yo me encargaré."
     },
     "vfeoDA": {
         "ko": "[슈미츠]\n아직 남아있는 생존자가 있을거야. 좀 더 찾아보는게 어떨까.",
         "en": "[Schmidt]\nThere should still be survivors out there. Why not search a little more?",
         "pt": "[Schmidt]\nAinda pode haver sobreviventes. Que tal procurar mais?",
-        "es": "[Schmidt]\nAún puede haber supervivientes. ¿Qué tal si buscamos más?"
+        "es": "[Schmidt]\nAún puede haber sobrevivientes. ¿Qué tal si buscamos más?"
     },
     "vveoDA": {
         "ko": "[오스카]\n휴~ 실패하셨네요. 아니 이게 무슨일이람. 저랑 이야기 좀 하시죠",
@@ -381,19 +381,19 @@
         "ko": "[오스카]\n왕과 함께 생존자를 피신시켜야 역사가 올바르게 이어진다구요.",
         "en": "[Oscar]\nWe must evacuate the survivors with the king so history can continue as it should.",
         "pt": "[Oscar]\nPara que a história continue, os sobreviventes devem evacuar junto com o rei.",
-        "es": "[Oscar]\nPara que la historia continúe, los supervivientes deben evacuar junto con el rey."
+        "es": "[Oscar]\nPara que la historia continúe, los sobrevivientes deben evacuar junto con el rey."
     },
     "wPeoDA": {
         "ko": "[오스카]\n뭐, 처음이니 그럴수도 있겠다 싶어서 다시 시간을 되돌려 드릴테니 이번엔 잘 해보시라구요.",
         "en": "[Oscar]\nWell, since it’s your first time, I figured that might happen, so I’ll turn back time for you again—do better this time.",
         "pt": "[Oscar]\nBem, como é a sua primeira vez, pensei que seria possível, então vou voltar no tempo, tente o seu melhor desta vez.",
-        "es": "[Oscar]\nBueno, como es tu primera vez, pensé que sería posible, así que retrocederé en el tiempo, hazlo mejor esta vez."
+        "es": "[Oscar]\nBueno, como es tu primera vez, pensé que sería posible, así que volveré en el tiempo, hazlo mejor esta vez."
     },
     "wfeoDA": {
         "ko": "[오스카]\n반드시 슈미츠 왕과 함께 생존자에게 말을 거셔야해요.",
         "en": "[Oscar]\nYou must speak to the survivor together with King Schmidt.",
         "pt": "[Oscar]\nVocê deve falar com o sobrevivente junto com o Rei Schmidt.",
-        "es": "[Oscar]\nDebes hablar con el superviviente junto con el Rey Schmidt."
+        "es": "[Oscar]\nDebes hablar con el sobreviviente junto con el Rey Schmidt."
     },
     "wveoDA": {
         "ko": "기분 나쁜 예감이 점점 커지는군",
@@ -405,7 +405,7 @@
         "ko": "[슈미츠]\n생기가 점점 사라지고 있어. 그 와중에 이런 진득하고 음습한 기운... 마치 살아있는 사람들을 부르는 것 같지 않느냐.",
         "en": "[Schmidt]\nThe life force is slowly fading away. And in the midst of it, this thick, damp, sinister energy... Doesn't it feel like it's calling out to the living?",
         "pt": "[Schmidt]\nA vitalidade está desaparecendo gradualmente. Enquanto isso, essa energia espessa e escura... não parece que está chamando os vivos?",
-        "es": "[Schmidt]\nLa vitalidad está desapareciendo gradualmente. Mientras tanto, esta energía densa y oscura... ¿no parece que está llamando a los vivos?"
+        "es": "[Schmidt]\nLa vitalidad está desapareciendo gradualmente. Mientras tanto, esa energía densa y oscura... ¿no parece que está llamando a los vivos?"
     },
     "xPeoDA": {
         "ko": "이제라도 돌아가셔야 합니다",
@@ -507,7 +507,7 @@
         "ko": "^0000FF그의 시간축과는 어긋나버린 것 같습니다. 아마 대화는 통하지 않을 것입니다.^000000",
         "en": "^0000FFIt seems we’ve fallen out of sync with his timeline. We probably won’t be able to communicate.^000000",
         "pt": "^0000FFParece que o eixo do tempo está errado. A conversa provavelmente não funcionará.^000000",
-        "es": "^0000FFParece que el eje temporal está mal. La conversación probablemente no funcionará.^000000"
+        "es": "^0000FFParece que el eje del tiempo está incorrecto. La conversación probablemente no funcionará.^000000"
     },
     "1feoDA": {
         "ko": "하인리히",
@@ -519,7 +519,7 @@
         "ko": "[하인리히]\n슈미츠 전하! 여기 계셨군요.",
         "en": "[Heinrich]\nYour Majesty Schmidt! There you are.",
         "pt": "[Heinrich]\nVossa Majestade Schmidt! Você está aqui.",
-        "es": "[Heinrich]\n¡Su Majestad Schmidt! Está usted aquí."
+        "es": "[Heinrich]\n¡Su Majestad Schmidt! Está aquí."
     },
     "1/eoDA": {
         "ko": "[슈미츠]\n하인리히 무사했군! 정말 다행이야.",
@@ -561,7 +561,7 @@
         "ko": "[슈미츠]\n무슨 짓이냐 하인리히! 우린 어린시절을 형제처럼 보내온 사이 일텐데...",
         "en": "[Schmidt]\nWhat are you doing, Heinrich! We spent our childhood together like brothers...",
         "pt": "[Schmidt]\nO que você está fazendo, Heinrich? Passamos nossa infância juntos como irmãos...",
-        "es": "[Schmidt]\n¿Qué estás haciendo, Heinrich? Pasamos nuestra infancia juntos como hermanos..."
+        "es": "[Schmidt]\n¿Qué estás haciendo, Heinrich? Pasamos nuestra infancia juntos como hermanos…"
     },
     "3veoDA": {
         "ko": "[하인리히]\n지겹군 그 형제애 라는것...",
@@ -585,13 +585,13 @@
         "ko": "[오스카]\n흠흠, 죄송합니다 대현자님. 그... 원래 하던대로 하시죠 하인리히씨.",
         "en": "[Oscar]\nAhem, my apologies, Great Sage. Um... please go on as you were, Heinrich.",
         "pt": "[Oscar]\nAh~ Perdão, Grande Sábio. Bem... apenas faça o que você normalmente faz, Sr. Heinrich.",
-        "es": "[Oscar]\nAh~ Perdón, Gran Sabio. Bueno... simplemente haz lo que haces normalmente, Sr. Heinrich."
+        "es": "[Oscar]\nAh~ Perdón, Gran Sabio. Bueno… solo haga lo que normalmente hace, Sr. Heinrich."
     },
     "4veoDA": {
         "ko": "[하인리히]\n어, 네... 칼 내려야 되죠?",
         "en": "[Heinrich]\nUh, yes... I should lower my sword, right?",
         "pt": "[Heinrich]\nUh, sim... tenho que voltar ao normal, não é isso?",
-        "es": "[Heinrich]\nEh, sí... tengo que volver a la normalidad, ¿no es así?"
+        "es": "[Heinrich]\nEh, sí... tengo que volver a la normalidad, ¿verdad?"
     },
     "4/eoDA": {
         "ko": "[하인리히]\n전하를 만나면 바깥으로 모시라고 병사들에게 지시해 놨었는데, 병사들이 명령에 불복한건 아닐테고, 전하가 고집을 부려 여기까지 오셨겠군요.",
@@ -609,13 +609,13 @@
         "ko": "[하인리히]\n슈미츠 전하, 지금은 그렇게 여유를 부릴때가 아닙니다 일단 저와 함께 이곳을 빠져 나가셔야합니다!",
         "en": "[Heinrich]\nYour Highness Schmidt, now is not the time to take it easy. For now, you must escape this place with me!",
         "pt": "[Heinrich]\nVossa Majestade Schmidt, agora não é hora de relaxar. Primeiro, você precisa sair daqui comigo!",
-        "es": "[Heinrich]\nSu Majestad Schmidt, ahora no es momento de relajarse. ¡Primero, necesita salir de aquí conmigo!"
+        "es": "[Heinrich]\nSu Majestad Schmidt, ahora no es momento de relajarse. Primero, ¡debe salir de aquí conmigo!"
     },
     "5veoDA": {
         "ko": "[슈미츠]\n대현자도 그렇고 자네도 그렇고, 빨리 여기서 나가란 말 밖엔 하지 않는군. 성 안에 뭔가 확실히 있긴 있는 모양이지?",
         "en": "[Schmidt]\nThe Great Sage, and you as well... all you say is that I should leave this place quickly. So there really is something inside the castle, isn't there?",
         "pt": "[Schmidt]\nO Grande Sábio e vocês dois não dizem nada além de sair daqui rapidamente. Parece que há algo no castelo, certo?",
-        "es": "[Schmidt]\nEl Gran Sabio y ustedes dos no dicen nada más que 'sal de aquí rápido'. Parece que hay algo en el castillo, ¿verdad?"
+        "es": "[Schmidt]\nEl Gran Sabio y ustedes dos no hacen más que decir que salga de aquí lo más rápido posible. Parece que hay algo en el castillo, ¿verdad?"
     },
     "5/eoDA": {
         "ko": "[슈미츠]\n자, 이제 말해라. 나를 최대한 멀어지게 하려는 그 원인이 대체 뭐냐 하인리히.",
@@ -639,13 +639,13 @@
         "ko": "[슈미츠]\n헌데 그 오브라는것이 문제라면 자리를 피하는게 해결책이 될 것 같진 않은데?",
         "en": "[Schmidt]\nBut if that orb is the problem, I don't think avoiding the area will be the solution.",
         "pt": "[Schmidt]\nMas se esse orbe é o problema, você acha que ir embora seria a solução?",
-        "es": "[Schmidt]\nPero si ese orbe es el problema, ¿crees que irnos sería la solución?"
+        "es": "[Schmidt]\nPero si ese orbe es el problema, ¿crees que irse sería la solución?"
     },
     "6/eoDA": {
         "ko": "[바르문트의 환영]\n그렇지. 도망쳐봐야 의미없지. 그것은 끝없이 생명력을 탐하는 저주받은 물건. 어디로 도망치든 결국 남는건 죽음 뿐이니까...",
         "en": "[Varmunt's Phantom]\nThat's right. There's no point in trying to run. It's a cursed object that endlessly craves life. No matter where you flee, in the end, all that remains is death...",
         "pt": "[Ilusão de Varmunt]\nIsso mesmo. Não faz sentido fugir. É um objeto amaldiçoado que deseja infinitamente força vital. Não importa para onde você corra, a única coisa que resta no final é a morte...",
-        "es": "[Ilusión de Varmunt]\nAsí es. No tiene sentido huir. Es un objeto maldito que desea infinitamente fuerza vital. No importa a dónde corras, lo único que queda al final es la muerte..."
+        "es": "[Ilusión de Varmunt]\nAsí es. No tiene sentido huir. Es un objeto maldito que desea infinitamente la fuerza vital. No importa a dónde corras, lo único que queda al final es la muerte..."
     },
     "7PeoDA": {
         "ko": "바르문트님!",
@@ -693,7 +693,7 @@
         "ko": "[바르문트의 환영]\n대체 뭡니까! 이 스승이 필사적으로 막은 일을 고집 부려가며 안쪽으로 나아 가려는건 국왕으로서의 자존심입니까 아니면 객기입니까",
         "en": "[Varmunt's Phantom]\nWhat on earth is this?! Is it a king's pride, or reckless bravado, to stubbornly insist on pushing further inside when this master desperately held it back?",
         "pt": "[Ilusão de Varmunt]\nEu não entendo. Nós estamos bloqueando a entrada, mas o rei insiste em entrar. É por puro orgulho ou um ato de bravura?",
-        "es": "[Ilusión de Varmunt]\nNo lo entiendo. Nosotros estamos bloqueando la entrada, pero el rey insiste en entrar. ¿Es por puro orgullo o un acto de valentía?"
+        "es": "[Ilusión de Varmunt]\nNo lo entiendo. Estamos bloqueando la entrada, pero el rey insiste en entrar. ¿Es puro orgullo o un acto de valentía?"
     },
     "9PeoDA": {
         "ko": "[하인리히]\n지금이라도 제가 슈미츠님을 모시겠습니다!",
@@ -717,31 +717,31 @@
         "ko": "[오스카]\n이 장면만 지금까지 82만 4천번쯤 본것 같아요.",
         "en": "[Oscar]\nI think I’ve seen this scene about 824,000 times by now.",
         "pt": "[Oscar]\nAcho que já vi essa cena cerca de 824.000 vezes.",
-        "es": "[Oscar]\nCreo que ya he visto esta escena unas 824,000 veces."
+        "es": "[Oscar]\nCreo que ya he visto esta escena unas 824 000 veces."
     },
     "+PeoDA": {
         "ko": "[오스카]\n가끔 다른 분기로 빠지는 경우도 있긴했는데 당신이 보게된 차원은 그냥 평범한 역사대로네요.",
         "en": "[Oscar]\nThere were times it branched off in a different direction, but the dimension you saw follows ordinary history.",
         "pt": "[Oscar]\nÀs vezes você cai em uma linha do tempo diferente, mas a dimensão que você vê é como a história aconteceu.",
-        "es": "[Oscar]\nA veces caes en una línea de tiempo diferente, pero la dimensión que ves es como sucedió la historia."
+        "es": "[Oscar]\nA veces caes en una línea temporal diferente, pero la dimensión que ves es como sucedió la historia."
     },
     "+feoDA": {
         "ko": "[오스카]\n이제부터 우린 차원의 결계를 치고 슈미츠의 이야기를 관찰해야해요. 지금부터 볼 시간의 모습은 매우 위험하거든요.",
         "en": "[Oscar]\nFrom now on, we must set up a dimensional barrier and observe Schmidt's story. What you are about to see in time is very dangerous.",
         "pt": "[Oscar]\nDe agora em diante, devemos estabelecer a barreira dimensional e observar a história de Schmidt. A partir de agora, o que vamos ver é muito perigoso.",
-        "es": "[Oscar]\nDe ahora en adelante, debemos establecer la barrera dimensional y observar la historia de Schmidt. A partir de ahora, lo que veremos es muy peligroso."
+        "es": "[Oscar]\nA partir de ahora, debemos establecer la barrera dimensional y observar la historia de Schmidt. De ahora en adelante, lo que veremos será muy peligroso."
     },
     "+veoDA": {
         "ko": "[오스카]\n아마 슈미츠나 하인리히는 물론이거니와 시공마법에 능숙한 하인리히조차 당신의 모습을 감지할 수 없을거예요.",
         "en": "[Oscar]\nEven Schmidt or Heinrich, and even Heinrich, who is skilled in time-space magic, won't be able to sense your presence.",
         "pt": "[Oscar]\nProvavelmente nem mesmo Schmidt ou Heinrich serão capazes de detectar sua presença.",
-        "es": "[Oscar]\nProbablemente ni siquiera Schmidt o Heinrich podrán detectar tu presencia."
+        "es": "[Oscar]\nProbablemente ni siquiera Schmidt o Heinrich serán capaces de detectar tu presencia."
     },
     "+/eoDA": {
         "ko": "[오스카]\n자, 슈미츠를 따라가서 그 다음 이야기를 계속 볼 건가요? 관심없다면 여기서 관둬도 상관없어요.",
         "en": "[Oscar]\nSo, will you follow Schmidt and continue the story? If you're not interested, it's fine to stop here.",
         "pt": "[Oscar]\nAgora, você quer seguir Schmidt e continuar para a próxima parte da história? Se não estiver interesse, basta sair daqui.",
-        "es": "[Oscar]\nAhora, ¿quieres seguir a Schmidt y continuar a la siguiente parte de la historia? Si no estás interesado, simplemente sal de aquí."
+        "es": "[Oscar]\nAhora, ¿quieres seguir a Schmidt y continuar a la siguiente parte de la historia? Si no te interesa, simplemente sal de aquí."
     },
     "/PeoDA": {
         "ko": "따라간다",
@@ -867,7 +867,7 @@
         "ko": "내가 왜 그대를 이 성에서 멀리 떼어놓고 싶었는지 이야기 해주겠소. 일단 오브를 당장에라도 깰 것 같은 그 손부터 내려놓으시오.",
         "en": "Let me tell you why I wanted to keep you far away from this castle. First, take your hand off that orb before you break it at any moment.",
         "pt": "Vou te contar por que queria mantê-lo longe deste castelo. Primeiro, abaixe sua arma.",
-        "es": "Te contaré por qué quería mantenerlo lejos de este castillo. Primero, baja tu arma."
+        "es": "Te contaré por qué quería mantenerte lejos de este castillo. Primero, baja tu arma."
     },
     "EfioDA": {
         "ko": "슈미츠 전하. 지금은 대현자님의 말에 따르시지요. 이 오브는 위험해보입니다!",
@@ -915,13 +915,13 @@
         "ko": "통로라구요!? 기껏 살아있는 생명을 빨아들인뒤 하는 행동이 그냥 다른 차원에 버리는 겁니까?",
         "en": "\"A passageway!? After going to the trouble of sucking in a living being, all it does is just throw it into another dimension?\"",
         "pt": "Uma passagem?! Ele suga a vida e apenas joga em outra dimensão?",
-        "es": "¡¿Un pasaje?! ¡¿Chupa la vida y solo la arroja a otra dimensión?"
+        "es": "¡¿Un pasaje?! ¿Absorbe la vida y solo la arroja a otra dimensión?"
     },
     "GfioDA": {
         "ko": "[바르문트]\n이 오브를 만든이의 악의가 느껴지는 저주요. 이것을 부술 유일한 방법은 강제로 생명력을 불어넣어 오브에 과부하를 주는 방법 뿐일것이오.",
         "en": "[Varmunt]\nThis is a curse that reeks of the creator's malice. The only way to break it is to forcibly breathe life into the orb and overload it.",
         "pt": "[Varmunt]\nIsso reflete a maldade da criadora do orbe. A única maneira de destruir é sobrecarregar o orbe usando uma vida.",
-        "es": "[Varmunt]\nEso refleja la maldad de la creadora del orbe. La única manera de destruirlo es sobrecargar el orbe usando una vida."
+        "es": "[Varmunt]\nEso refleja la maldad de la creadora del orbe. La única manera de destruirlo es sobrecargarlo usando una vida."
     },
     "GvioDA": {
         "ko": "[슈미츠]\n그 말씀은...",
@@ -933,13 +933,13 @@
         "ko": "[바르문트]\n강력한 생명의 근원을 가진자가 아주 짧은시간동안 자신의 생명을 이 오브에 쏟아부어야겠지.",
         "en": "[Varmunt]\nSomeone with a powerful source of life will have to pour their own life into this orb for a very short time.",
         "pt": "[Varmunt]\nAlguém terá que derramar sua vida neste orbe por um período muito curto de tempo.",
-        "es": "[Varmunt]\nAlguien tendrá que verter su vida en este orbe por un período muy corto de tiempo."
+        "es": "[Varmunt]\nAlguien tendrá que derramar su vida en este orbe por un período muy corto de tiempo."
     },
     "HPioDA": {
         "ko": "[바르문트]\n그리고 마침 여기엔 인간으로서 꽤 정순하고 넘치는 생명력을 지닌 자가 있소.",
         "en": "[Varmunt]\nAnd as it happens, there is someone here who is quite pure as a human, and brimming with vitality.",
         "pt": "[Varmunt]\nE acontece que há uma pessoa aqui que é bastante pura e tem uma vitalidade transbordante como ser humano.",
-        "es": "[Varmunt]\nY resulta que hay una persona aquí que es bastante pura y tiene una vitalidad desbordante como ser humano."
+        "es": "[Varmunt]\nY resulta que hay una persona aquí que es bastante pura y con una vitalidad desbordante como ser humano."
     },
     "HfioDA": {
         "ko": "[바르문트]\n바로 나 바르문트요.",
@@ -963,7 +963,7 @@
         "ko": "[바르문트]\n그대라면 내가 가르쳐주지 않았더라도 이 오브를 파괴하는 법을 알아 차렸을테지. 그리고 분명 목숨을 내놨을것이오.",
         "en": "[Varmunt]\nEven if I had not taught you, you would have figured out how to destroy this orb. And surely, you would have given your life.",
         "pt": "[Varmunt]\nVocê teria descoberto como destruir este orbe mesmo sem ensinamento. E você teria entregado sua vida.",
-        "es": "[Varmunt]\nTú habrías descubierto cómo destruir este orbe incluso sin enseñanza. Y tú habrías entregado tu vida."
+        "es": "[Varmunt]\nHabrías descubierto cómo destruir este orbe incluso sin enseñanza. Y habrías entregado tu vida."
     },
     "IfioDA": {
         "ko": "[슈미츠]\n아마도 그랬겠지요.",
@@ -975,7 +975,7 @@
         "ko": "[바르문트]\n로얄가드의 정점에 선 그대라면 이 오브를 파괴하고도 남을 만큼의 생명력을 가지고 있소. 하지만 그대는 죽어선 안되오.",
         "en": "[Varmunt]\nAs one who stands at the pinnacle of the Royal Guard, you have more than enough vitality to destroy this orb. But you must not die.",
         "pt": "[Varmunt]\nVocê está no auge dos Guardiões Reais, você tem vitalidade suficiente para destruir este orbe. Mas você não deve morrer.",
-        "es": "[Varmunt]\nEstás en el apogeo de los Guardianes Reales, tienes vitalidad suficiente para destruir este orbe. Pero tú no debes morir."
+        "es": "[Varmunt]\nEstás en la cima de los Guardianes Reales, tienes vitalidad suficiente para destruir este orbe. Pero no debes morir."
     },
     "I/ioDA": {
         "ko": "[바르문트]\n평소에도 이 스승의 말을 지독하게 듣지 않았으니. 왕께선 이번만은 내 이야기를 들어줬으면 좋겠소.",
@@ -993,7 +993,7 @@
         "ko": "[바르문트]\n내 생명력을 마나로 치환해서 오브에 쏟아넣을 생각이오. 한 순간에 오브로 집중할 수만 있다면 파괴시키는 것까진 가능하지 않을까 싶군.",
         "en": "[Varmunt]\nI plan to convert my life force into mana and pour it into the orb. If I can focus it all into the orb in a single moment, I think it might be possible to destroy it.",
         "pt": "[Varmunt]\nPretendo trocar minha força vital por mana e despejá-la no orbe. Acho que seria possível destruí-lo se eu pudesse me concentrar no orbe por um momento.",
-        "es": "[Varmunt]\nPretendo intercambiar mi fuerza vital por maná y verterla en el orbe. Creo que sería posible destruirlo si pudiera concentrarme en el orbe por un momento."
+        "es": "[Varmunt]\nPretendo convertir mi fuerza vital en maná y verterla en el orbe. Creo que sería posible destruirlo si pudiera concentrarme en el orbe por un momento."
     },
     "JvioDA": {
         "ko": "[슈미츠]\n스승님! 그건 곧 목숨을 버리신다는 의미 아닙니까?",
@@ -1023,13 +1023,13 @@
         "ko": "[슈미츠]\n국왕이 실종되면 얼마간 혼란은 있겠지요 그러나 조례에따라 대행할 사람과 승계할 사람은 정해져있습니다.",
         "en": "[Schmidt]\nIf the king goes missing, there will be some confusion for a while. However, by royal decree, the person to act in his place and the person to succeed him have already been decided.",
         "pt": "[Schmidt]\nSe um rei morrer, logo surgirá outro que o sucederá. É determinado de acordo com o decreto real.",
-        "es": "[Schmidt]\nSi un rey muere, pronto surgirá otro que lo sucederá. Está determinado de acuerdo con el decreto real."
+        "es": "[Schmidt]\nSi un rey muere, pronto surgirá otro que lo suceda. Está determinado por el decreto real."
     },
     "K/ioDA": {
         "ko": "[슈미츠]\n하지만 스승님을 대체할 사람이 과연 존재할까요? 제 생각엔 아마도 향후 몇백년간 나타나지 않을거라 확신합니다.",
         "en": "[Schmidt]\nBut will there really be anyone who can replace Master? I’m certain that no one like that will appear for the next few hundred years.",
         "pt": "[Schmidt]\nMas existe alguém para substituir um Grande Sábio? Tenho certeza que alguém assim não aparecerá nos próximos 100 anos.",
-        "es": "[Schmidt]\n¿Pero existe alguien para reemplazar a un Gran Sabio? Estoy seguro de que alguien así no aparecerá en los próximos 100 años."
+        "es": "[Schmidt]\nPero ¿existe alguien que pueda reemplazar al Gran Sabio? Estoy seguro de que alguien así no aparecerá en los próximos 100 años."
     },
     "LPioDA": {
         "ko": "[바르문트]\n어리석은 소리!",
@@ -1065,13 +1065,13 @@
         "ko": "[슈미츠]\n말도 안되는 소리! 내 평생을 죄책감에 시달리며 살게 할 셈이냐 하인리히!",
         "en": "[Schmidt]\nNonsense! Are you trying to make me live my whole life tormented by guilt, Heinrich!",
         "pt": "[Schmidt]\nBobagem! Você vai me fazer sofrer de culpa pelo resto da minha vida, Heinrich!",
-        "es": "[Schmidt]\n¡Tonterías! ¡Me harás sufrir de culpa por el resto de mi vida, Heinrich!"
+        "es": "[Schmidt]\n¡Tonterías! ¡Me harías cargar con la culpa por el resto de mi vida, Heinrich!"
     },
     "MvioDA": {
         "ko": "[슈미츠]\n너는 이 왕국의 신하이자. 나의 친우이자. 내가 지켜야할 국민이다. 자기 국민의 목숨을 딛고 살아남는 국왕이 가당한거냐!",
         "en": "[Schmidt]\nYou are a subject of this kingdom. My close friend. And a citizen I must protect. Is it right for a king to survive by stepping on the lives of his own people!",
         "pt": "[Schmidt]\nVocê é um súdito deste reino. Você é meu amigo próximo. Você é um cidadão que devo proteger. É digno de um rei que sacrifica a vida de seu próprio povo para sobreviver!",
-        "es": "[Schmidt]\nTú eres un súbdito de este reino. Eres mi amigo cercano. Eres un ciudadano que debo proteger. ¡No es digno de un rey sacrificar la vida de su propio pueblo para sobrevivir!"
+        "es": "[Schmidt]\nEres un súbdito de este reino. Eres mi amigo cercano. Eres un ciudadano que debo proteger. ¡No es digno de un rey sacrificar la vida de su propio pueblo para sobrevivir!"
     },
     "M/ioDA": {
         "ko": "[슈미츠]\n이 오브는 내가 부숴야한다. 왕국의 국민들을 지키는것은 국왕의 의무. 이것에 이견은 없겠지?",
@@ -1083,13 +1083,13 @@
         "ko": "[바르문트]\n너무 무모하오 하인리히 경! 그리고 쓸데없는 소리 말아라 슈미츠! 아까부터 듣자듣자하니 넌 이 스승을 뭐라 생각하는거냐.",
         "en": "[Varmunt]\nYou're being far too reckless, Sir Heinrich! And stop that pointless talk, Schmidt! I've been listening and listening—what do you take this master for?",
         "pt": "[Varmunt]\nVocê é muito imprudente, Heinrich! E pare de falar bobagem, Schmidt! Por que não pode ser eu?",
-        "es": "[Varmunt]\n¡Eres muy imprudente, Heinrich! ¡Y deja de decir tonterías, Schmidt! ¿Por qué no puedo ser yo?"
+        "es": "[Varmunt]\n¡Eres demasiado imprudente, Heinrich! ¡Y deja de decir tonterías, Schmidt! ¿Por qué no puedo ser yo?"
     },
     "NfioDA": {
         "ko": "[바르문트]\n너야 말로 나를 제자의 목숨을 담보로 살아남은 스승으로 만들 셈이냐!",
         "en": "[Varmunt]\nAre you trying to make me a master who survived at the cost of my disciple's life?!",
         "pt": "[Varmunt]\nVocê realmente vai me tornar um Sábio que sacrifica a vida dos meus discípulos?",
-        "es": "[Varmunt]\n¿De verdad vas a convertirme en un Sabio que sacrifica la vida de sus discípulos?"
+        "es": "[Varmunt]\n¿De verdad quieres convertirme en un Sabio que sacrifica la vida de sus discípulos?"
     },
     "NvioDA": {
         "ko": "[슈미츠]\n스승님. 저희가 이렇게 논쟁을 벌이는 동안에도 오브가 힘을 확장하고 있군요.",
@@ -1101,13 +1101,13 @@
         "ko": "[슈미츠]\n이제 더는 지체해선 안될 것 같습니다. 제가 먼저 갑니다. 하인리히 바르문트님을 모셔라!",
         "en": "[Schmidt]\nI don't think we can afford to delay any longer. I'll go on ahead. Bring Heinrich and Varmunt!",
         "pt": "[Schmidt]\nAcho que não devemos demorar mais. Eu irei primeiro!!",
-        "es": "[Schmidt]\nCreo que no debemos demorar más. ¡¡Yo iré primero!!"
+        "es": "[Schmidt]\nCreo que no debemos demorar más. ¡Yo iré primero!"
     },
     "OPioDA": {
         "ko": "[하인리히]\n슈미츠 전하. 설마!!",
         "en": "[Heinrich]\nYour Majesty Schmidt. No way!!",
         "pt": "[Heinrich]\nVossa Majestade Schmidt. De jeito nenhum!!",
-        "es": "[Heinrich]\nSu Majestad Schmidt. ¡¡De ninguna manera!!"
+        "es": "[Heinrich]\nSu Majestad Schmidt. ¡De ninguna manera!"
     },
     "OfioDA": {
         "ko": "[바르문트]\n그만둬라! 슈미츠!",
@@ -1185,13 +1185,13 @@
         "ko": "[바르문트]\n고통스럽지 않도록 너의 통각을 마비시키는 마법을 걸어주마. 그것이 스승으로서 내가 해 줄수 있는 마지막 배려구나.",
         "en": "[Varmunt]\nI will cast a spell to numb your pain so you will not suffer. As your master, that is the last mercy I can grant you.",
         "pt": "[Varmunt]\nVou lançar um feitiço para paralisar sua sensação de dor para que você não sofra. Essa é a última consideração que posso lhe dar como seu professor.",
-        "es": "[Varmunt]\nLanzaré un hechizo para paralizar tu sensación de dolor para que no sufras. Esa es la última consideración que puedo darte como tu profesor."
+        "es": "[Varmunt]\nLanzaré un hechizo para paralizar tu sensación de dolor para que no sufras. Esta es la última consideración que puedo darte como tu maestro."
     },
     "RvioDA": {
         "ko": "[슈미츠]\n하인리히!! 나의 마지막 명령이다! 지금 즉시 바르문트님을 모시고 이 성을 탈출해라!",
         "en": "[Schmidt]\nHeinrich!! This is my final order! Take Varmunt and escape this castle at once!",
         "pt": "[Schmidt]\nHeinrich!! Este é meu último comando! Leve o Mestre Varmunt e fuja deste castelo imediatamente!!",
-        "es": "[Schmidt]\n¡¡Heinrich!! ¡Este es mi último comando! ¡Lleva al Maestro Varmunt y huye de este castillo inmediatamente!!"
+        "es": "[Schmidt]\n¡¡Heinrich!! ¡Esta es mi última orden! ¡Lleva al maestro Varmunt y huye de este castillo inmediatamente!"
     },
     "R/ioDA": {
         "ko": "[하인리히]\n신 하인리히...",
@@ -1215,7 +1215,7 @@
         "ko": "[바르문트]\n나는, 널 평생동안 스승의 말을 듣지않은 막돼먹은 제자로 기억하겠다.",
         "en": "[Varmunt]\nI will remember you as a wretched disciple who never listened to the master's words for your entire life.",
         "pt": "[Varmunt]\nVou me lembrar de você pelo resto da vida como um péssimo aluno que não deu ouvidos ao professor.",
-        "es": "[Varmunt]\nTe recordaré por el resto de mi vida como un pésimo alumno que no hizo caso al profesor."
+        "es": "[Varmunt]\nTe recordaré por el resto de mi vida como un pésimo alumno que no escuchó a su maestro."
     },
     "S/ioDA": {
         "ko": "[슈미츠]\n그렇게라도 기억해 주신다니 감사합니다. 그러면 이제 작별입니다 스승님!",
@@ -1245,7 +1245,7 @@
         "ko": "전하! 어떻게... 어떻게 이런일이!",
         "en": "Your Majesty! How... how could this happen!",
         "pt": "Vossa Majestade! Como... Como isso pôde acontecer!",
-        "es": "¡Su Majestad! ¿Cómo... ¿Cómo pudo pasar esto!"
+        "es": "¡Su Majestad! ¿Cómo… cómo pudo pasar esto?"
     },
     "UPioDA": {
         "ko": "슈미츠, 이 바보같은 놈!",
@@ -1263,7 +1263,7 @@
         "ko": "슈미츠의 외침: 성안에 남은 모든 이들에게 고한다! 지금 즉시 수단과 방법을 가리지 말고 도망쳐라!",
         "en": "Schmidt shouts: To everyone still inside the castle! Run at once, by any means necessary!",
         "pt": "Schmidt: Todos que estão no castelo! Fujam imediatamente!!",
-        "es": "Schmidt: ¡¡Todos los que están en el castillo! ¡Huyan inmediatamente!!"
+        "es": "Schmidt: ¡Todos los que están en el castillo! ¡Huyan inmediatamente!"
     },
     "U/ioDA": {
         "ko": "슈미츠의 외침: 이것은 왕명이다!",
@@ -1275,7 +1275,7 @@
         "ko": "슈미츠 전하!  저도 곧 따르겠습니다... 가시지요 바르문트님.",
         "en": "Schmidt Your Highness! I will follow soon as well... Please go on, Varmunt.",
         "pt": "Vossa Majestade Schmidt! Estarei com você em breve... Vamos, Varmunt.",
-        "es": "¡Su Majestad Schmidt! Estaré con usted pronto... Vamos, Varmunt."
+        "es": "¡Su Majestad Schmidt! Estaré con usted muy pronto… Vamos, Varmunt."
     },
     "VfioDA": {
         "ko": "그럼 이제 슬슬 끝을 내 볼까!",
@@ -1287,13 +1287,13 @@
         "ko": "아, 깜빡했군. 하인리히에게 다음 국왕대행을 맡긴다고 말했어야 했는데...",
         "en": "Ah, I almost forgot. I should have told Heinrich that I'm entrusting him with the role of the next regent...",
         "pt": "Ah, esqueci. Eu deveria ter dito a Heinrich que ele seria o próximo rei...",
-        "es": "Ah, lo olvidé. Debí haberle dicho a Heinrich que él sería el próximo rey..."
+        "es": "Ah, lo olvidé. Debería haberle dicho a Heinrich que él sería el próximo rey..."
     },
     "V/ioDA": {
         "ko": "하인리히니까, 알아서 잘 하겠지... 술이나 한잔 했으면 좋겠군.",
         "en": "Since it's Heinrich, he'll handle it just fine... I could go for a drink.",
         "pt": "Conhecendo Heinrich, ele cuidará disso sozinho... Espero que encontremos novamente algum dia.",
-        "es": "Conociendo a Heinrich, él se encargará solo... Espero que nos encontremos de nuevo algún día."
+        "es": "Conociendo a Heinrich, se encargará de ello por su cuenta... Espero que algún día nos volvamos a encontrar."
     },
     "WPioDA": {
         "ko": "#smt{0}",
@@ -1341,7 +1341,7 @@
         "ko": "[오스카]\n뭐, 그건 나중에 천천히 보기로 하고 일단 우리도 이곳을 나갈까요? 차원의 벽이 붕괴될 것같아서 빨리 움직여야 겠네요.",
         "en": "[Oscar]\nWell, we can take a closer look at that later. For now, shall we get out of here too? It looks like the dimensional wall is going to collapse, so we should move quickly.",
         "pt": "[Oscar]\nBem, veremos isso mais tarde. Vamos sair daqui por enquanto. Parece que esta dimensão está prestes a desabar.",
-        "es": "[Oscar]\nBueno, lo veremos más tarde. Salgamos de aquí por ahora. Parece que esta dimensión está a punto de colapsar."
+        "es": "[Oscar]\nBueno, lo veremos más tarde. Vámonos de aquí por ahora. Parece que esta dimensión está a punto de colapsar."
     },
     "YPioDA": {
         "ko": "차원 격벽이 사라진 상태이니 실제로 다치거나 죽을 수 도 있어요. 조심하세요.",

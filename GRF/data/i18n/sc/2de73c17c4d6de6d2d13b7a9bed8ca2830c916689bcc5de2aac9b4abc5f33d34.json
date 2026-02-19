@@ -3071,12 +3071,12 @@
     },
     "Rq8sCg": {
         "en": "^8C8C8C(Completed) Resin Delivery ^000000",
-        "pt": "^8C8C8C(Feito) Galho Seco^000000",
+        "pt": "^8C8C8C(Feito) Entrega de Resina^000000",
         "es": "^8C8C8C(Completeda) Entrega de Resina ^000000"
     },
     "R68sCg": {
         "en": "[35] Resin Delivery",
-        "pt": "[35] Galho Seco",
+        "pt": "[35] Entrega de Resina",
         "es": "[35] Entrega de Resina"
     },
     "SK8sCg": {

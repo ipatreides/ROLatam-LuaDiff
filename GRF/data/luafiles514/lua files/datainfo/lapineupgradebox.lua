@@ -15138,6 +15138,286 @@ tblLapineUpgradeBox = {
 				}
 			},
 			NeedSource_String = "Poring Sunglasses+"
+		},
+		Thanos_Refine_Cube_LT = {
+			ItemID = 106429,
+			NeedRefineMin = 0,
+			NeedRefineMax = 7,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = false,
+			TargetItems = {
+				{
+					"Thanos_Whip",
+					1988
+				},
+				{
+					"Thanos_Sword",
+					13441
+				},
+				{
+					"Thanos_Great_Sword",
+					21009
+				},
+				{
+					"Thanos_Spear",
+					1438
+				},
+				{
+					"Thanos_Long_Spear",
+					1496
+				},
+				{
+					"Thanos_Dagger",
+					13093
+				},
+				{
+					"Thanos_Katar",
+					28000
+				},
+				{
+					"Thanos_Knuckle",
+					1836
+				},
+				{
+					"Thanos_Hammer",
+					16028
+				},
+				{"Thanos_Axe", 28100},
+				{
+					"Thanos_Violin",
+					1933
+				},
+				{"Thanos_Rod", 2023},
+				{
+					"Thanos_Staff",
+					1669
+				},
+				{
+					"Thanos_Sword",
+					13441
+				},
+				{"Thanos_Bow", 18119},
+				{
+					"Thanos_Violin",
+					1933
+				}
+			},
+			NeedSource_String = "Ghost Palace"
+		},
+		Mora_Refine_Cube_LT = {
+			ItemID = 106430,
+			NeedRefineMin = 0,
+			NeedRefineMax = 9,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = false,
+			TargetItems = {
+				{
+					"Golden_Rod_Robe",
+					15025
+				},
+				{
+					"Golden_Rod_Shoes",
+					2467
+				},
+				{"Aqua_Robe", 15026},
+				{"Aqua_Shoes", 2468},
+				{
+					"Crimson_Robe",
+					15027
+				},
+				{
+					"Crimson_Shoes",
+					2469
+				},
+				{
+					"Forest_Robe",
+					15028
+				},
+				{
+					"Forest_Shoes",
+					2470
+				},
+				{
+					"Shoes_Of_Affection",
+					2471
+				},
+				{
+					"Robe_Of_Affection",
+					15029
+				},
+				{
+					"Shawl_Of_Affection",
+					2569
+				},
+				{
+					"Shoes_Of_Judgement",
+					2472
+				},
+				{
+					"Robe_Of_Judgement",
+					15030
+				},
+				{
+					"Shawl_Of_Judgement",
+					2570
+				},
+				{
+					"Bible_Of_Promise1",
+					2156
+				},
+				{
+					"Wand_Of_Affection",
+					1657
+				},
+				{
+					"Mace_Of_Judgement",
+					16013
+				},
+				{"Ur_Greave", 2475},
+				{
+					"Peuz_Greave",
+					2476
+				},
+				{"Ur_Manteau", 2574},
+				{
+					"Peuz_Manteau",
+					2575
+				},
+				{"Ur_Plate", 15036},
+				{"Peuz_Plate", 15037},
+				{
+					"White_Wing_Boots",
+					2479
+				},
+				{
+					"Black_Wing_Boots",
+					2480
+				},
+				{
+					"White_Wing_Manteau",
+					2580
+				},
+				{
+					"Black_Wing_Manteau",
+					2581
+				},
+				{
+					"White_Wing_Suits",
+					15042
+				},
+				{
+					"Black_Wing_Suits",
+					15043
+				},
+				{
+					"Sabah_Shoes",
+					2477
+				},
+				{"Nab_Shoes", 2478},
+				{"Sabah_Hood", 2577},
+				{"Nab_Hood", 2578},
+				{
+					"Sabah_Cloth",
+					15038
+				},
+				{"Nab_Cloth", 15039},
+				{
+					"Wand_Of_Affection2",
+					1660
+				},
+				{
+					"Mace_Of_Judgement2",
+					16018
+				},
+				{
+					"Golden_Rod_Staff2",
+					2011
+				},
+				{
+					"Aqua_Staff2",
+					2012
+				},
+				{
+					"Crimson_Staff2",
+					2013
+				},
+				{
+					"Forest_Staff2",
+					2014
+				},
+				{
+					"Golden_Rod_Staff",
+					2007
+				},
+				{"Aqua_Staff", 2008},
+				{
+					"Crimson_Staff",
+					2009
+				},
+				{
+					"Forest_Staff",
+					2010
+				}
+			},
+			NeedSource_String = "Mora Relics"
+		},
+		Hero_Refine_Cube_LT = {
+			ItemID = 106431,
+			NeedRefineMin = 0,
+			NeedRefineMax = 8,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = false,
+			TargetItems = {
+				{
+					"Evt_Narcis_Bow",
+					18183
+				},
+				{
+					"Evt_Oriental_Sword",
+					21049
+				},
+				{
+					"Evt_Magic_Sword",
+					28759
+				},
+				{
+					"Evt_Avenger",
+					28137
+				},
+				{
+					"Evt_Shadow_Staff_K",
+					26156
+				},
+				{
+					"Evt_Iron_Nail_K",
+					1864
+				},
+				{
+					"Evt_Iron_Staff",
+					2054
+				},
+				{
+					"Evt_Undine_Spear_K",
+					32021
+				},
+				{
+					"Evt_Royal_Bow_K",
+					18182
+				},
+				{
+					"Evt_Shiver_Katar_K",
+					28040
+				},
+				{
+					"Evt_D_H_Bible_K",
+					28632
+				},
+				{
+					"Evt_Bluefire_Sword",
+					13495
+				}
+			},
+			NeedSource_String = "Sealed Hero Weapons"
 		}
 	},
 	get_lapine_box = function(in_box_id)

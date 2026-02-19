@@ -21,13 +21,13 @@
         "ko": "방송",
         "en": "Broadcast",
         "pt": "Anúncio",
-        "es": "Transmisión"
+        "es": "Anuncio"
     },
     "xASsDA": {
         "ko": "생존한 기사",
         "en": "Surviving Knight",
         "pt": "Sobrevivente",
-        "es": "Superviviente"
+        "es": "Sobrevivente"
     },
     "xQSsDA": {
         "ko": "왕명입니다! 속히 밖으로 피신하십시오",
@@ -99,13 +99,13 @@
         "ko": "성 안쪽의 경비를 맡았던 병력들이 괴물로 변해버렸다는데 사실이 아니겠죠? 전 나가보겠습니다",
         "en": "They say the troops guarding inside the castle have turned into monsters... That can't be true, right? I'll head out.",
         "pt": "É verdade que a tropa virou zumbi? Eu estou caindo fora!",
-        "es": "¿Es verdad que la tropa se volvió zombi? ¡Yo me largo de aquí!"
+        "es": "¿Es cierto que los soldados se han convertido en zombis? ¡Yo me largo de aquí!"
     },
     "0QSsDA": {
         "ko": "안쪽으로 들어가시면 안됩니다. 바깥으로 달아나셔야합니다. 저도 이제 나갈겁니다!",
         "en": "You must not go inside. You need to run outside. I'm leaving now, too!",
         "pt": "Você não pode ir mais a fundo! Eu estou fugindo!",
-        "es": "¡No puedes ir más adentro! ¡Yo estoy huyendo!"
+        "es": "¡No puedes ir más allá! ¡Estoy huyendo!"
     },
     "0gSsDA": {
         "ko": "더 들어가지 마십시오 전하! 위험합니다! 저와 함께 나가시지요!",

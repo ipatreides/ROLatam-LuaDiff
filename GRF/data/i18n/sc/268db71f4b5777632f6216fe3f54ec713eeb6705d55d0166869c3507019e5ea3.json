@@ -13245,12 +13245,12 @@
         "es": "Capitán de la Guardia Real"
     },
     "+ZAB": {
-        "en": "Khalitzburg Knight",
+        "en": "Mad Knight",
         "pt": "Cavaleiro de Khalitzburg",
         "es": "Caballero de Khalitzburg"
     },
     "+pAB": {
-        "en": "Khalitzburg Knight",
+        "en": "Mad Knight Spirit",
         "pt": "Cavaleiro de Khalitzburg",
         "es": "Caballero de Khalitzburg"
     },
@@ -13260,14 +13260,14 @@
         "es": "Rey Schmitz"
     },
     "/JAB": {
-        "en": "King Consumed by the Curse",
+        "en": "Cursed King Schmidt",
         "pt": "Rei Consumido pela Maldição",
-        "es": "Rey Consumido por la Maldición"
+        "es": "Rey Corrompido"
     },
     "/ZAB": {
-        "en": "King Consumed by the Curse",
+        "en": "Cursed King Schmidt",
         "pt": "Rei Consumido pela Maldição",
-        "es": "Rey Consumido por la Maldición"
+        "es": "Rey Corrompido"
     },
     "/pAB": {
         "en": "Corrupted Root",

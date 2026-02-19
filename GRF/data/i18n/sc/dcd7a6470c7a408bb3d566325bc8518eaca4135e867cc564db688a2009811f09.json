@@ -1,7 +1,7 @@
 {
     "gL4UBw": {
         "ko": "성제 복장을 한 남자",
-        "en": "A man dressed as Star Emperor",
+        "en": "Man in Star Emperor Uniform",
         "pt": "Cara bem-vestido",
         "es": "Hombre Bien Vestido"
     },
@@ -19,19 +19,19 @@
     },
     "g74UBw": {
         "ko": "[성제 복장을 한 남자]\n하----앗!\n…\n……",
-        "en": "[A man dressed as Star Emperor]\nHaaah!\n…\n……",
+        "en": "[Man in Star Emperor Uniform]\nHaaah!\n…\n……",
         "pt": "[Cara bem-vestido]\nAaaaa ... Rá!\n...\n...",
         "es": "[Hombre Bien Vestido]\n¡Aaaaa... Rá!\n...\n..."
     },
     "hL4UBw": {
         "ko": "성제 복장을 한 남자 : 하----앗!",
-        "en": "Man in Star Emperor attire: Hyaaaah!",
+        "en": "Man in Star Emperor Uniform: Hyaaaah!",
         "pt": "Cara bem-vestido: Aaaaa ... Rá!",
         "es": "Hombre Bien Vestido: ¡Aaaaa... Rá!"
     },
     "hb4UBw": {
         "ko": "[성제 복장을 한 남자]\n크…\n나란 녀석…\n왜… 지르기 하나조차 이렇게까지 완벽해서…",
-        "en": "[A man dressed as Star Emperor]\nUgh...\nWhat a guy I am...\nWhy... am I so perfect, even at something as simple as shouting...?",
+        "en": "[Man in Star Emperor Uniform]\nUgh...\nWhat a guy I am...\nWhy... am I so perfect, even at something as simple as shouting...?",
         "pt": "[Cara bem-vestido]\nAff...\nUm cara como eu...\nNão consigo um oponente à minha altura...",
         "es": "[Hombre Bien Vestido]\nUff...\nUn tipo como yo...\nNo consigo un oponente a mi altura..."
     },
@@ -986,7 +986,7 @@
     "JL8UBw": {
         "ko": "[은하]\n와…\n그 정도 근성이라면 나보다는 저 북쪽에 있는 수련바ㅂ…가 아니라 일광한테 가보는 게 좋겠다.",
         "en": "[Eunha]\nWow...\nWith that kind of determination, you should go see the training ma... no, I mean Ilgwang up north instead of me.",
-        "pt": "[Cosmos]\nUau...\nSe você tem essa determinação toda, seria melhor ir para Aurora do que para o estagiário perto de mim.",
+        "pt": "[Cosmos]\nUau...\nSe você tem essa determinação toda, seria melhor ir treinar com a Aurora.",
         "es": "[Cosmos]\nGuau...\nSi tienes tanta determinación, sería mejor que fueras con Aurora que con el aprendiz cerca de mí."
     },
     "Jb8UBw": {

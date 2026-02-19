@@ -3071,12 +3071,12 @@
     },
     "5j5rCg": {
         "en": "^8C8C8CResin Delivery (Completed)^000000",
-        "pt": "^8C8C8C(Feito) Resina^000000",
+        "pt": "^8C8C8C(Feito) Entrega de Resina^000000",
         "es": "^8C8C8CEntrega de Resina (completada)^000000"
     },
     "5z5rCg": {
         "en": "Resin Delivery [35]",
-        "pt": "[35] Galho Seco",
+        "pt": "[35] Entrega de Resina",
         "es": "Entrega de Resina [35]"
     },
     "6D5rCg": {
@@ -3286,7 +3286,7 @@
     },
     "ET9rCg": {
         "en": "[Resin Delivery Request]\nRequired Materials : Resin 30 pcs\nReward: Exp 13980",
-        "pt": "[Galho Seco em baixo estoque]\nItem: 30 Galhos Secos\nRecompensa: EXP base 13980",
+        "pt": "[Resina em baixo estoque]\nItem: 30 Resinas\nRecompensa: EXP base 13980",
         "es": "[Solicitud de entrega de Resina]\nMateriales requeridos: 30unidadesdeResina.\nPremio: 13980deEXP."
     },
     "Ej9rCg": {

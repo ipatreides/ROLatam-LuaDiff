@@ -4441,9 +4441,9 @@ QuestInfoList = {
 	[2206] = {
 		Title = "Brasilis Water Lily",
 		Description = {
-			"Go back to Jasira and tell her what the message that Jasi told you."
+			"Jasi has accepted your sincerity. Now, it seems you should pick a Water Lily and deliver the message to Jasira."
 		},
-		Summary = "Speak with Jasira"
+		Summary = "Speak with Jasira after obtaining a Water Lily."
 	},
 	[2207] = {
 		Title = "Brasilis Water Lily",
@@ -36247,7 +36247,7 @@ QuestInfoList = {
 		Description = {
 			"You have received your reward for saving another dimension. You will only be able to receive your next reward after the scheduled time."
 		},
-		Summary = "Come back tomorrow.­"
+		Summary = "Come back tomorrow."
 	},
 	[12422] = {
 		Title = "Crack of Dimension",
@@ -71775,6 +71775,250 @@ Talk to Kar=],
 		},
 		Summary = "Resets 4 am."
 	},
+	[291494] = {
+		Title = "카�_x008b__x0088_�_x009c_ �벤�_x008a_� �_x008b__x009c_�_x009e__x0091_",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"카�_x008b__x0088_�_x009c_ �벤�_x008a_�를 참�_x0080_�_x0095__x0098_기 �_x009c__x0084_�_x0095_��_x0084_  �_x008c__x0080_�_x009e_�_x0097_��_x0098_ �_x0097__x0088_�� �_x0095__x0084_�_x009a__x0094_�_x0095_��_x008b__x0088_�_x008b_�. �_x0095_��_x0080_�_x009c_��_x009c_ �_x0080_�_x0084__x009c_ 4�_x0080_�_x0080_ �_x009b_�_x0086__x008c_�_x0084_�_x0097_�_x008c_ ��_x0085_�_x0084_ �_x009b_�  <NAVI>[�벤�_x008a_� 주�_x009c_�_x009e_]<INFO>brasilis,246,323,0,101,0</INFO></NAVI>�_x0097_�_x008c_ �_x008c_�_x0095__x0084_�_x0098_��_x0084_��_x009a__x0094_."
+		},
+		Summary = "�_x009b_�_x0086__x008c_�_x0084_�_x0097_�_x008c_ ��_x0085_�_x009b_기"
+	},
+	[291495] = {
+		Title = "�_x0088_�_x0098_ �_x009b_�_x0086__x008c_�_x0084_�_x0097_�_x008c_ ��_x0085_�_x0099__x0084_�_x008c_",
+		IconName = "ico_ev.bmp",
+		Description = {""},
+		Summary = ""
+	},
+	[291496] = {
+		Title = "물�_x0098_ �_x009b_�_x0086__x008c_�_x0084_�_x0097_�_x008c_ ��_x0085_�_x0099__x0084_�_x008c_",
+		IconName = "ico_ev.bmp",
+		Description = {""},
+		Summary = ""
+	},
+	[291497] = {
+		Title = "�_x0094_�_x009e__x008c_�_x0098_ �_x009b_�_x0086__x008c_�_x0084_�_x0097_�_x008c_ ��_x0085_�_x0099__x0084_�_x008c_",
+		IconName = "ico_ev.bmp",
+		Description = {""},
+		Summary = ""
+	},
+	[291498] = {
+		Title = "�_x0095__x0085_�_x0098_ �_x009b_�_x0086__x008c_�_x0084_�_x0097_�_x008c_ ��_x0085_�_x0099__x0084_�_x008c_",
+		IconName = "ico_ev.bmp",
+		Description = {""},
+		Summary = ""
+	},
+	[291499] = {
+		Title = "�_x008e__x0098_르�_x0082__x009c_�_x0093__x009c_�_x0098_ �_x0080_�_x0083_",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"카�_x008b__x0088_�_x009c_ ��� 3�_x0088_리를 �_x0098_�_x0098_�_x0095__x0098_�  <NAVI>[�_x008e__x0098_르�_x0082__x009c_�_x0093__x009c_]<INFO>brasilis,111,330,0,101,0</INFO></NAVI>�_x0097_�_x008c_ �_x008c_�_x0095__x0084_�_x0080_�_x0084_��_x009a__x0094_."
+		},
+		Summary = "Kill the monster"
+	},
+	[291500] = {
+		Title = "�_x008e__x0098_르�_x0082__x009c_�_x0093__x009c_�_x0098_ �_x0080_�_x0083_: Cooldown",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"� �벤�_x008a_� �_x0080__x0098_�_x008a_��_x008a_��_x008a__x0094_ �_x0095__x0098_루�_x0097_ �_x0095__x009c_�_x0088_ �_x0080_�_x008a_��_x0095__x0098_�_x0080_�_x008c_, �_x0083_��_x008b_��_x009e__x0098_�_x0097_�매를 �_x0082_��_x009a_��_x0095__x0098_면 �_x0098_복 �_x0080_�_x008a_��_x0095_��_x008b__x0088_�_x008b_�. �_x0098_�� _x0084_ 4�_x008b__x009c_ ��_x009b__x0084_�_x0097_ <NAVI>[�_x008e__x0098_르�_x0082__x009c_�_x0093__x009c_]<INFO>brasilis,111,330,0,101,0</INFO></NAVI>�_x0097_�_x008c_ �_x008b_��_x008b__x009c_ �_x0080__x0098_�_x008a_��_x008a_�를 �_x009b_�_x0084_ �_x0088__x0098_ �_x009e__x0088_�_x008a_��_x008b__x0088_�_x008b_�."
+		},
+		Summary = "�_x0098_�� _x0084_ 4�_x008b__x009c_�_x0097_ 리�_x0085__x008b_"
+	},
+	[291501] = {
+		Title = "�_x008c__x0084_�_x008b_��_x0080_��_x0098_ �_x0080_�_x0083_",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"카�_x008b__x0088_�_x009c_ ���� �_x009b__x0094_�_x009c_ �_x008c_�_x0095__x0085_ �_x009e_��_x0083_ 목��_x0093_��_x0084_ 2�_x009c_�_x0094_� 찾�_x0095__x0084_주�_x0084_��_x009a__x0094_. ^FF0000^nItemID^6340^000000 x 2, ^FF0000^nItemID^6341^000000 x 2, ^FF0000^nItemID^6342^000000 x 2, ^FF0000^nItemID^6343^000000 x 2. 모�_x0091_ 찾�_x0095__x0098_�_x008b_�면<NAVI>[�_x008c__x0084_�_x008b_��_x0080_�]<INFO>brasilis,201,145,0,101,0</INFO></NAVI>�_x0097_�_x008c_ �_x008c_�_x0095__x0084_�_x0080_�_x0084_��_x009a__x0094_."
+		},
+		Summary = "�_x008c_�_x0095__x0085_�_x009e_��_x0083_목� 찾기"
+	},
+	[291502] = {
+		Title = "�_x008c__x0084_�_x008b_��_x0080_��_x0098_ �_x0080_�_x0083_: Cooldown",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"� �벤�_x008a_� �_x0080__x0098_�_x008a_��_x008a_��_x008a__x0094_ �_x0095__x0098_루�_x0097_ �_x0095__x009c_�_x0088_ �_x0080_�_x008a_��_x0095__x0098_�_x0080_�_x008c_, �_x0083_��_x008b_��_x009e__x0098_�_x0097_�매를 �_x0082_��_x009a_��_x0095__x0098_면 �_x0098_복 �_x0080_�_x008a_��_x0095_��_x008b__x0088_�_x008b_�. �_x0098_�� _x0084_ 4�_x008b__x009c_ ��_x009b__x0084_�_x0097_ <NAVI>[�_x008c__x0084_�_x008b_��_x0080_�]<INFO>brasilis,201,145,0,101,0</INFO></NAVI>�_x0097_�_x008c_ �_x008b_��_x008b__x009c_ �_x0080__x0098_�_x008a_��_x008a_�를 �_x009b_�_x0084_ �_x0088__x0098_ �_x009e__x0088_�_x008a_��_x008b__x0088_�_x008b_�."
+		},
+		Summary = "�_x0098_�� _x0084_ 4�_x008b__x009c_�_x0097_ 리�_x0085__x008b_"
+	},
+	[291503] = {
+		Title = "조�_x0088_�_x0098_ �_x0080_�_x0083_",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"<NAVI>[�_x0084_�_x008b__x0088_�_x008b__x009c_�_x009a_��_x008a_�]<INFO>bra_in01,163,131,0,101,0</INFO></NAVI>�_x0097_�_x008c_ �_x0080_�_x0084__x009c_ 조�_x0088_�_x0098_ �_x0094_��_x0098_�린�_x0084_ �_x0088__x0098_리�_x0095__x0098_�_x0084_��_x009a__x0094_. �_x0094_��_x0098_�린� �_x0088__x0098_리�_x0098_면 <NAVI>[조�_x0088_]<INFO>brasilis,198,145,0,101,0</INFO></NAVI>�_x0097_�_x008c_ �_x008c_�_x0095__x0084_�_x0080_�_x0084_��_x009a__x0094_."
+		},
+		Summary = "조�_x0088_�_x0098_ �_x0094_��_x0098_�린 �_x0088__x0098_리"
+	},
+	[291504] = {
+		Title = "조�_x0088_�_x0098_ �_x0080_�_x0083_: Cooldown",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"� �벤�_x008a_� �_x0080__x0098_�_x008a_��_x008a_��_x008a__x0094_ �_x0095__x0098_루�_x0097_ �_x0095__x009c_�_x0088_ �_x0080_�_x008a_��_x0095__x0098_�_x0080_�_x008c_, �_x0083_��_x008b_��_x009e__x0098_�_x0097_�매를 �_x0082_��_x009a_��_x0095__x0098_면 �_x0098_복 �_x0080_�_x008a_��_x0095_��_x008b__x0088_�_x008b_�. �_x0098_�� _x0084_ 4�_x008b__x009c_ ��_x009b__x0084_�_x0097_ <NAVI>[조�_x0088_]<INFO>brasilis,198,145,0,101,0</INFO></NAVI>�_x0097_�_x008c_ �_x008b_��_x008b__x009c_ �_x0080__x0098_�_x008a_��_x008a_�를 �_x009b_�_x0084_ �_x0088__x0098_ �_x009e__x0088_�_x008a_��_x008b__x0088_�_x008b_�."
+		},
+		Summary = "�_x0098_�� _x0084_ 4�_x008b__x009c_�_x0097_ 리�_x0085__x008b_"
+	},
+	[291505] = {
+		Title = "조�_x0088_�_x0098_ �_x0094_��_x0098_�린 �_x0088__x0098_리�_x0099__x0084_�_x008c_",
+		IconName = "ico_ev.bmp",
+		Description = {""},
+		Summary = ""
+	},
+	[291506] = {
+		Title = "�_x009b_���_x008a_�리�_x008a_��_x0098_ �_x0080_�_x0083_",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"�_x0085__x008c_��_x0094_�_x0097_ �_x009e__x0088_�_x008a__x0094_ �_x0086_�_x008b__x0098_ �_x0084_��_x0085_�_x0098_ 주문�_x0084_ �_x009b_�_x0095__x0084_주�_x0084_��_x009a__x0094_. 모�_x0093_  주문�_x0084_ �_x0099__x0084_�_x008c_�_x0095__x009c_ �_x0092_� <NAVI>[�_x009b_���_x008a_�리�_x008a_�]<INFO>brasilis,338,228,0,101,0</INFO></NAVI>�_x0097_�_x008c_ �_x008c_�_x0095__x0084_�_x0080_�_x0084_��_x009a__x0094_."
+		},
+		Summary = "Take Orders"
+	},
+	[291507] = {
+		Title = "�_x009b_���_x008a_�리�_x008a_��_x0098_ �_x0080_�_x0083_: Cooldown",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"� �벤�_x008a_� �_x0080__x0098_�_x008a_��_x008a_��_x008a__x0094_ �_x0095__x0098_루�_x0097_ �_x0095__x009c_�_x0088_ �_x0080_�_x008a_��_x0095__x0098_�_x0080_�_x008c_, �_x0083_��_x008b_��_x009e__x0098_�_x0097_�매를 �_x0082_��_x009a_��_x0095__x0098_면 �_x0098_복 �_x0080_�_x008a_��_x0095_��_x008b__x0088_�_x008b_�. �_x0098_�� _x0084_ 4�_x008b__x009c_ ��_x009b__x0084_�_x0097_ <NAVI>[�_x009b_���_x008a_�리�_x008a_�]<INFO>brasilis,338,228,0,101,0</INFO></NAVI>�_x0097_�_x008c_ �_x008b_��_x008b__x009c_ �_x0080__x0098_�_x008a_��_x008a_�를 �_x009b_�_x0084_ �_x0088__x0098_ �_x009e__x0088_�_x008a_��_x008b__x0088_�_x008b_�."
+		},
+		Summary = "�_x0098_�� _x0084_ 4�_x008b__x009c_�_x0097_ 리�_x0085__x008b_"
+	},
+	[291508] = {
+		Title = "�_x0086_�_x008b__x0098_�_x0098_ 주문1",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"주문�_x0084_ �_x009b_�_x0095__x0098_�_x008a_��_x008b__x0088_�_x008b_�. ^FF0000^nItemID^12044^000000 를 <NAVI>[�_x0086_�_x008b__x0098_]<INFO>brasilis,348,231,0,101,0</INFO></NAVI>�_x0097_�_x008c_ �_x0080_� ��_x0098_��_x0084_��_x009a__x0094_."
+		},
+		Summary = "1x Marinated Steak with Herbs"
+	},
+	[291509] = {
+		Title = "�_x0086_�_x008b__x0098_�_x0098_ 주문1",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"주문�_x0084_ �_x009b_�_x0095__x0098_�_x008a_��_x008b__x0088_�_x008b_�. ^FF0000^nItemID^12060^000000 를 <NAVI>[�_x0086_�_x008b__x0098_]<INFO>brasilis,348,231,0,101,0</INFO></NAVI>�_x0097_�_x008c_ �_x0080_� ��_x0098_��_x0084_��_x009a__x0094_."
+		},
+		Summary = "1x Bat in a Pumpkin"
+	},
+	[291510] = {
+		Title = "�_x0086_�_x008b__x0098_�_x0098_ 주문2",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"주문�_x0084_ �_x009b_�_x0095__x0098_�_x008a_��_x008b__x0088_�_x008b_�. ^FF0000^nItemID^12055^000000 를 <NAVI>[�_x0086_�_x008b__x0098_]<INFO>brasilis,329,224,0,101,0</INFO></NAVI>�_x0097_�_x008c_ �_x0080_� ��_x0098_��_x0084_��_x009a__x0094_."
+		},
+		Summary = "1x Spicy Meat Bread"
+	},
+	[291511] = {
+		Title = "�_x0086_�_x008b__x0098_�_x0098_ 주문2",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"주문�_x0084_ �_x009b_�_x0095__x0098_�_x008a_��_x008b__x0088_�_x008b_�. ^FF0000^nItemID^12050^000000 를 <NAVI>[�_x0086_�_x008b__x0098_]<INFO>brasilis,329,224,0,101,0</INFO></NAVI>�_x0097_�_x008c_ �_x0080_� ��_x0098_��_x0084_��_x009a__x0094_."
+		},
+		Summary = "1x Mastela Wine"
+	},
+	[291512] = {
+		Title = "�_x0086_�_x008b__x0098_�_x0098_ 주문3",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"주문�_x0084_ �_x009b_�_x0095__x0098_�_x008a_��_x008b__x0088_�_x008b_�. ^FF0000^nItemID^12065^000000 를 <NAVI>[�_x0086_�_x008b__x0098_]<INFO>brasilis,339,217,0,101,0</INFO></NAVI>�_x0097_�_x008c_ �_x0080_� ��_x0098_��_x0084_��_x009a__x0094_."
+		},
+		Summary = "1x Green Salad"
+	},
+	[291513] = {
+		Title = "�_x0086_�_x008b__x0098_�_x0098_ 주문3",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"주문�_x0084_ �_x009b_�_x0095__x0098_�_x008a_��_x008b__x0088_�_x008b_�. ^FF0000^nItemID^12068^000000 를 <NAVI>[�_x0086_�_x008b__x0098_]<INFO>brasilis,339,217,0,101,0</INFO></NAVI>�_x0097_�_x008c_ �_x0080_� ��_x0098_��_x0084_��_x009a__x0094_."
+		},
+		Summary = "1x Fried Sweet Potato"
+	},
+	[291514] = {
+		Title = "모�_x0093_  주문 �_x0099__x0084_�_x008c_",
+		IconName = "ico_ev.bmp",
+		Description = {""},
+		Summary = ""
+	},
+	[291515] = {
+		Title = "민�_x0086_�_x0095__x0099_�_x009e_�_x0098_ �_x0080_�_x0083_: Cooldown",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"� �벤�_x008a_� �_x0080__x0098_�_x008a_��_x008a_��_x008a__x0094_ �_x0095__x0098_루�_x0097_ �_x0095__x009c_�_x0088_ �_x0080_�_x008a_��_x0095_��_x008b__x0088_�_x008b_�. �_x0098_�� _x0084_ 4�_x008b__x009c_ ��_x009b__x0084_�_x0097_ <NAVI>[민�_x0086_�_x0095__x0099_�_x009e_]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>�_x0097_�_x008c_ �_x008b_��_x008b__x009c_ �_x0080__x0098_�_x008a_��_x008a_�를 �_x009b_�_x0084_ �_x0088__x0098_ �_x009e__x0088_�_x008a_��_x008b__x0088_�_x008b_�."
+		},
+		Summary = "�_x0098_�� _x0084_ 4�_x008b__x009c_�_x0097_ 리�_x0085__x008b_"
+	},
+	[291516] = {
+		Title = "민�_x0086_�_x0095__x0099_�_x009e_�_x0098_ �_x0080_�_x0083_ 1",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Amatsu �_x0080_�_x0097_��_x0097_�_x0084__x009c_ 몬�_x008a_��_x0084_� 30 �_x0088_리 �_x0098_�_x0098_를 �_x0098_�_x0098_�_x0095__x0098_�  <NAVI>[민�_x0086_�_x0095__x0099_�_x009e_]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>�_x0097_�_x008c_ �_x008c_�_x0095__x0084_�_x0080_�_x0084_��_x009a__x0094_."
+		},
+		Summary = "ama_fild01 맵 몬�_x008a_��_x0084_� �_x0098_�_x0098_"
+	},
+	[291517] = {
+		Title = "민�_x0086_�_x0095__x0099_�_x009e_�_x0098_ �_x0080_�_x0083_ 2",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Gonryun �_x0080_�_x0097_��_x0097_�_x0084__x009c_ 몬�_x008a_��_x0084_� 30 �_x0088_리 �_x0098_�_x0098_를 �_x0098_�_x0098_�_x0095__x0098_�  <NAVI>[민�_x0086_�_x0095__x0099_�_x009e_]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>�_x0097_�_x008c_ �_x008c_�_x0095__x0084_�_x0080_�_x0084_��_x009a__x0094_."
+		},
+		Summary = "gon_fild01 맵 몬�_x008a_��_x0084_� �_x0098_�_x0098_"
+	},
+	[291518] = {
+		Title = "민�_x0086_�_x0095__x0099_�_x009e_�_x0098_ �_x0080_�_x0083_ 3",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Ayothaya �_x0080_�_x0097_��_x0097_�_x0084__x009c_ 몬�_x008a_��_x0084_� 30 �_x0088_리 �_x0098_�_x0098_를 �_x0098_�_x0098_�_x0095__x0098_�  <NAVI>[민�_x0086_�_x0095__x0099_�_x009e_]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>�_x0097_�_x008c_ �_x008c_�_x0095__x0084_�_x0080_�_x0084_��_x009a__x0094_."
+		},
+		Summary = "ayo_fild02 맵 몬�_x008a_��_x0084_� �_x0098_�_x0098_"
+	},
+	[291519] = {
+		Title = "민�_x0086_�_x0095__x0099_�_x009e_�_x0098_ �_x0080_�_x0083_ 4",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Louyang �_x0080_�_x0097_��_x0097_�_x0084__x009c_ 몬�_x008a_��_x0084_� 30 �_x0088_리 �_x0098_�_x0098_를 �_x0098_�_x0098_�_x0095__x0098_�  <NAVI>[민�_x0086_�_x0095__x0099_�_x009e_]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>�_x0097_�_x008c_ �_x008c_�_x0095__x0084_�_x0080_�_x0084_��_x009a__x0094_."
+		},
+		Summary = "lou_dun02 맵 몬�_x008a_��_x0084_� �_x0098_�_x0098_"
+	},
+	[291520] = {
+		Title = "민�_x0086_�_x0095__x0099_�_x009e_�_x0098_ �_x0080_�_x0083_ 5",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Moskovia �_x0080_�_x0097_��_x0097_�_x0084__x009c_ 몬�_x008a_��_x0084_� 30 �_x0088_리 �_x0098_�_x0098_를 �_x0098_�_x0098_�_x0095__x0098_�  <NAVI>[민�_x0086_�_x0095__x0099_�_x009e_]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>�_x0097_�_x008c_ �_x008c_�_x0095__x0084_�_x0080_�_x0084_��_x009a__x0094_."
+		},
+		Summary = "mosk_dun02 맵 몬�_x008a_��_x0084_� �_x0098_�_x0098_"
+	},
+	[291521] = {
+		Title = "민�_x0086_�_x0095__x0099_�_x009e_�_x0098_ �_x0080_�_x0083_ 6",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Dewata �_x0080_�_x0097_��_x0097_�_x0084__x009c_ 몬�_x008a_��_x0084_� 30 �_x0088_리 �_x0098_�_x0098_를 �_x0098_�_x0098_�_x0095__x0098_�  <NAVI>[민�_x0086_�_x0095__x0099_�_x009e_]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>�_x0097_�_x008c_ �_x008c_�_x0095__x0084_�_x0080_�_x0084_��_x009a__x0094_."
+		},
+		Summary = "dew_dun02 맵 몬�_x008a_��_x0084_� �_x0098_�_x0098_"
+	},
+	[291522] = {
+		Title = "민�_x0086_�_x0095__x0099_�_x009e_�_x0098_ �_x0080_�_x0083_ 7",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Brasilis �_x0095__x0084_�_x0093__x009c_�_x0097_�_x0084__x009c_ 몬�_x008a_��_x0084_� 30 �_x0088_리 �_x0098_�_x0098_를 �_x0098_�_x0098_�_x0095__x0098_�  <NAVI>[민�_x0086_�_x0095__x0099_�_x009e_]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>�_x0097_�_x008c_ �_x008c_�_x0095__x0084_�_x0080_�_x0084_��_x009a__x0094_."
+		},
+		Summary = "bra_fild01 맵 몬�_x008a_��_x0084_� �_x0098_�_x0098_"
+	},
+	[291523] = {
+		Title = "민�_x0086_�_x0095__x0099_�_x009e_�_x0098_ �_x0080_�_x0083_ 8",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Brasilis �_x0098_� _x0084_�_x0097_�_x0084__x009c_ 몬�_x008a_��_x0084_� 30 �_x0088_리 �_x0098_�_x0098_를 �_x0098_�_x0098_�_x0095__x0098_�  <NAVI>[민�_x0086_�_x0095__x0099_�_x009e_]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>�_x0097_�_x008c_ �_x008c_�_x0095__x0084_�_x0080_�_x0084_��_x009a__x0094_."
+		},
+		Summary = "bra_dun01 맵 몬�_x008a_��_x0084_� �_x0098_�_x0098_"
+	},
+	[291524] = {
+		Title = "민�_x0086_�_x0095__x0099_�_x009e_�_x0098_ �_x0080_�_x0083_ 9",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Malangdo �_x0080_�_x0097_��_x0097_�_x0084__x009c_ 몬�_x008a_��_x0084_� 30 �_x0088_리 �_x0098_�_x0098_를 �_x0098_�_x0098_�_x0095__x0098_�  <NAVI>[민�_x0086_�_x0095__x0099_�_x009e_]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>�_x0097_�_x008c_ �_x008c_�_x0095__x0084_�_x0080_�_x0084_��_x009a__x0094_."
+		},
+		Summary = "mal_dun01 맵 몬�_x008a_��_x0084_� �_x0098_�_x0098_"
+	},
+	[291525] = {
+		Title = "민�_x0086_�_x0095__x0099_�_x009e_�_x0098_ �_x0080_�_x0083_ 10",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Malaya �_x0080_�_x0097_��_x0097_�_x0084__x009c_ 몬�_x008a_��_x0084_� 30 �_x0088_리 �_x0098_�_x0098_를 �_x0098_�_x0098_�_x0095__x0098_�  <NAVI>[민�_x0086_�_x0095__x0099_�_x009e_]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>�_x0097_�_x008c_ �_x008c_�_x0095__x0084_�_x0080_�_x0084_��_x009a__x0094_."
+		},
+		Summary = "ma_ dun01 맵 몬�_x008a_��_x0084_� �_x0098_�_x0098_"
+	},
 	[293428] = {
 		Title = "Trip to Another World",
 		Description = {
@@ -71898,70 +72142,70 @@ Talk to Kar=],
 	[295259] = {
 		Title = "Battle Pass Daily1",
 		Description = {
-			"Defeat 80 Phen"
+			"Defeat 5 Shining Plant"
 		},
-		Summary = "Defeat 80 Phen"
+		Summary = "Defeat 5 Shining Plant"
 	},
 	[295260] = {
 		Title = "Battle Pass Daily1",
 		Description = {
-			"Defeat Phen / Once per day, resets at 04:00"
+			"Defeat Shining Plant / Once per day, resets at 04:00"
 		},
 		Summary = "Resets at 04:00"
 	},
 	[295261] = {
 		Title = "Battle Pass Daily2",
 		Description = {
-			"Defeat 2 Furious Dark Priest"
+			"Defeat 4 Gold Scaraba"
 		},
-		Summary = "Defeat 2 Furious Dark Priest"
+		Summary = "Defeat 4 Gold Scaraba"
 	},
 	[295262] = {
 		Title = "Battle Pass Daily2",
 		Description = {
-			"Defeat Furious Dark Priest / Once per day, resets at 04:00"
+			"Defeat Gold Scaraba / Once per day, resets at 04:00"
 		},
 		Summary = "Resets at 04:00"
 	},
 	[295263] = {
 		Title = "Battle Pass Daily3",
 		Description = {
-			"Deliver 888 Bananas"
+			"Deliver 1,000 Red Potions"
 		},
-		Summary = "Deliver 888 Bananas"
+		Summary = "Deliver 1,000 Red Potions"
 	},
 	[295264] = {
 		Title = "Battle Pass Daily3",
 		Description = {
-			"Deliver Bananas / Once per day, resets at 04:00"
+			"Deliver Red Potions / Once per day, resets at 04:00"
 		},
 		Summary = "Resets at 04:00"
 	},
 	[295265] = {
 		Title = "Battle Pass Daily4",
 		Description = {
-			"Donate 500,000 Zeny"
+			"Deliver 10 Blue Herbs"
 		},
-		Summary = "Donate 500,000 Zeny"
+		Summary = "Deliver 10 Blue Herbs"
 	},
 	[295266] = {
 		Title = "Battle Pass Daily4",
 		Description = {
-			"Donate Zeny / Once per day, resets at 04:00"
+			"Deliver Blue Herbs / Once per day, resets at 04:00"
 		},
 		Summary = "Resets at 04:00"
 	},
 	[295267] = {
 		Title = "Battle Pass Daily5",
 		Description = {
-			"Defeat 200 Stiff Nightmare Terror"
+			"Defeat 5 Bijou"
 		},
-		Summary = "Defeat 200 Stiff Nightmare Terror"
+		Summary = "Defeat 5 Bijou"
 	},
 	[295268] = {
 		Title = "Battle Pass Daily5",
 		Description = {
-			"Defeat Stiff Nightmare Terror / Once per week, resets at 04:00"
+			"Defeat Bijou / Once per week, resets at 04:00"
 		},
 		Summary = "Resets at 04:00"
 	},
@@ -72447,268 +72691,5 @@ Talk to Kar=],
 		NpcNavi = "geffen",
 		NpcPosX = 40,
 		NpcPosY = 141
-	},
-	[291494] = {
-		Title = "Carnival",
-		IconName = "ico_ev.bmp",
-		Description = {
-			[[
-To participate in the Carnival,
-					you need permission from Mother Nature!
-					Find the 4 Elements on the beach of Brasilis
-					and return to the <NAVI>[Event Manager]<INFO>brasilis,246,323,0,101,0</INFO></NAVI>.]]
-		},
-		Summary = "Brasilis Beach"
-	},
-	[291495] = {
-		Title = "Carnival: Fire Stone",
-		IconName = "ico_ev.bmp",
-		Description = {""},
-		Summary = ""
-	},
-	[291496] = {
-		Title = "Carnival: Water Stone",
-		IconName = "ico_ev.bmp",
-		Description = {""},
-		Summary = ""
-	},
-	[291497] = {
-		Title = "Carnival: Wind Stone",
-		IconName = "ico_ev.bmp",
-		Description = {""},
-		Summary = ""
-	},
-	[291498] = {
-		Title = "Carnival: Earth Stone",
-		IconName = "ico_ev.bmp",
-		Description = {""},
-		Summary = ""
-	},
-	[291499] = {
-		Title = "Carnival: Costume!",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"“I can’t miss the costume contest because of him!”\n\t\t\t\t- <NAVI>[Fernando]<INFO>brasilis,111,330,0,101,0</INFO></NAVI>."
-		},
-		Summary = "Kill the monster"
-	},
-	[291500] = {
-		Title = "[Wait] Costume!",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"You have completed today's Carnival mission. Return tomorrow to <NAVI>[Fernando]<INFO>brasilis,111,330,0,101,0</INFO></NAVI>."
-		},
-		Summary = "Resets at 4 AM."
-	},
-	[291501] = {
-		Title = "Carnival: Lost Music",
-		IconName = "ico_ev.bmp",
-		Description = {
-			[[
-Carnival Porings ate the dance instructions!
-				Collect the following items:
-				2x ^ff0000^nItemID^6340^000000
-				2x ^ff0000^nItemID^6341^000000
-				2x ^ff0000^nItemID^6342^000000
-				2x ^ff0000^nItemID^6343^000000
-				And return to the <NAVI>[Samba Dancer]<INFO>brasilis,201,145,0,101,0</INFO></NAVI>.]]
-		},
-		Summary = "Collect the items"
-	},
-	[291502] = {
-		Title = "[Wait] Lost Music",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"You have completed today's Carnival mission. Return tomorrow to <NAVI>[Samba Dancer]<INFO>brasilis,201,145,0,101,0</INFO></NAVI>."
-		},
-		Summary = "Resets at 4 AM."
-	},
-	[291503] = {
-		Title = "Carnival: Broken Violin",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"Go to <NAVI>[Vinícius]'s house<INFO>bra_in01,163,131,0,101,0</INFO></NAVI>!\n\t\t\t\tHe should fix the Violin if you bring\n\t\t\t\t3x ^ff0000^nItemID^1002^000000\n\t\t\t\tThen, bring the Violin back\n\t\t\t\tto the young man <NAVI>[Jobim]<INFO>brasilis,198,145,0,101,0</INFO></NAVI>."
-		},
-		Summary = "3x ITEM_NAME"
-	},
-	[291504] = {
-		Title = "[Wait] Broken Violin",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"You have completed today's Carnival mission. Return tomorrow to <NAVI>[Jobim]<INFO>brasilis,198,145,0,101,0</INFO></NAVI>."
-		},
-		Summary = "Resets at 4 AM."
-	},
-	[291505] = {
-		Title = "Carnival: Broken Violin",
-		IconName = "ico_ev.bmp",
-		Description = {""},
-		Summary = ""
-	},
-	[291506] = {
-		Title = "Carnival: Restaurant",
-		IconName = "ico_ev.bmp",
-		Description = {
-			[[
-Help the poor <NAVI>[Waitress]<INFO>brasilis,338,228,0,101,0</INFO></NAVI>.
-				Accept the customers' orders and
-				bring them plates of food.]]
-		},
-		Summary = "Take Orders"
-	},
-	[291507] = {
-		Title = "[Wait] Restaurant",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"You have completed today's Carnival mission. Return tomorrow to the <NAVI>[Waitress]<INFO>brasilis,338,228,0,101,0</INFO></NAVI>."
-		},
-		Summary = "Resets at 4 AM."
-	},
-	[291508] = {
-		Title = "Carnival: Table 1",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"Bring ^ff0000^nItemID^12044^000000 to the <NAVI>[Customer]<INFO>brasilis,348,231,0,101,0</INFO></NAVI>."
-		},
-		Summary = "1x Marinated Steak with Herbs"
-	},
-	[291509] = {
-		Title = "Carnival: Table 1",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"Bring ^ff0000^nItemID^12060^000000 to the <NAVI>[Customer]<INFO>brasilis,348,231,0,101,0</INFO></NAVI>."
-		},
-		Summary = "1x Bat in a Pumpkin"
-	},
-	[291510] = {
-		Title = "Carnival: Table 2",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"Bring ^ff0000^nItemID^12055^000000 to the <NAVI>[Customer]<INFO>brasilis,329,224,0,101,0</INFO></NAVI>."
-		},
-		Summary = "1x Spicy Meat Bread"
-	},
-	[291511] = {
-		Title = "Carnival: Table 2",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"Bring ^ff0000^nItemID^12050^000000 to the <NAVI>[Customer]<INFO>brasilis,329,224,0,101,0</INFO></NAVI>."
-		},
-		Summary = "1x Mastela Wine"
-	},
-	[291512] = {
-		Title = "Carnival: Table 3",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"Bring ^ff0000^nItemID^12065^000000 to the <NAVI>[Customer]<INFO>brasilis,339,217,0,101,0</INFO></NAVI>."
-		},
-		Summary = "1x Green Salad"
-	},
-	[291513] = {
-		Title = "Carnival: Table 3",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"Bring ^ff0000^nItemID^12068^000000 to the <NAVI>[Customer]<INFO>brasilis,339,217,0,101,0</INFO></NAVI>."
-		},
-		Summary = "1x Fried Sweet Potato"
-	},
-	[291514] = {
-		Title = "Carnival: Complete!",
-		IconName = "ico_ev.bmp",
-		Description = {""},
-		Summary = ""
-	},
-	[291515] = {
-		Title = "[Wait] Daily Pass",
-		IconName = "ico_ev.bmp",
-		Description = {
-			[[
-You have completed today's mission!
-				Return tomorrow after the reset time to
-				continue collecting Stamps!
-
-				           <NAVI>[Folklorist]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>]]
-		},
-		Summary = "Resets at 4 AM"
-	},
-	[291516] = {
-		Title = "Daily Pass: Day 1",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"Kill 30 monsters in the fields of Amatsu (ama_fild01) and return to the <NAVI>[Folklorist]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>."
-		},
-		Summary = "Hunt in Amatsu"
-	},
-	[291517] = {
-		Title = "Daily Pass: Day 2",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"Kill 30 monsters in the fields of Kunlun (gon_fild01) and return to the <NAVI>[Folklorist]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>."
-		},
-		Summary = "Hunt in Kunlun"
-	},
-	[291518] = {
-		Title = "Daily Pass: Day 3",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"Kill 30 monsters in the fields of Ayothaya (ayo_fild02) and return to the <NAVI>[Folklorist]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>."
-		},
-		Summary = "Hunt in Ayothaya"
-	},
-	[291519] = {
-		Title = "Daily Pass: Day 4",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"Kill 30 monsters in the Louyang Dungeon (lou_dun02) and return to the <NAVI>[Folklorist]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>."
-		},
-		Summary = "Louyang Dungeon"
-	},
-	[291520] = {
-		Title = "Daily Pass: Day 5",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"Kill 30 monsters in the Moscovia Dungeon (mosk_dun02) and return to the <NAVI>[Folklorist]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>."
-		},
-		Summary = "Enchanted Forest"
-	},
-	[291521] = {
-		Title = "Daily Pass: Day 6",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"Kill 30 monsters in the Dewata Dungeon (dew_dun02) and return to the <NAVI>[Folklorist]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>."
-		},
-		Summary = "Istana Dungeon"
-	},
-	[291522] = {
-		Title = "Daily Pass: Day 7",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"Kill 30 monsters in the fields of Brasilis (bra_fild01) and return to the <NAVI>[Folklorist]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>."
-		},
-		Summary = "Brasilis Fields"
-	},
-	[291523] = {
-		Title = "Daily Pass: Day 8",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"Kill 30 monsters in the Brasilis Dungeon (bra_dun01) and return to the <NAVI>[Folklorist]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>."
-		},
-		Summary = "Brasilis Dungeon"
-	},
-	[291524] = {
-		Title = "Daily Pass: Day 9",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"Kill 30 monsters in the Malangdo Dungeon (mal_dun01) and return to the <NAVI>[Folklorist]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>."
-		},
-		Summary = "Malangdo Dungeon"
-	},
-	[291525] = {
-		Title = "Daily Pass: Day 10",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"Kill 30 monsters in the Port Malaya Dungeon (ma_dun01) and return to the <NAVI>[Folklorist]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>."
-		},
-		Summary = "Malaya Dungeon"
 	}
 }

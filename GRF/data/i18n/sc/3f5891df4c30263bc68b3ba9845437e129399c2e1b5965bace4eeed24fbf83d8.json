@@ -1,0 +1,758 @@
+{
+    "QB+yDA": {
+        "pt": "Yanoma"
+    },
+    "QR+yDA": {
+        "pt": "Liga dos Desbravadores"
+    },
+    "Qh+yDA": {
+        "pt": "^FF0000Você está carregando muitos itens. Libere um pouco de espaço no seu inventário e tente novamente.^000000"
+    },
+    "Qx+yDA": {
+        "pt": "[Yanoma]"
+    },
+    "RB+yDA": {
+        "pt": "Oi, {0}.\nA Liga dos Desbravadores está aqui para te incentivar a explorar instâncias."
+    },
+    "RR+yDA": {
+        "pt": "Eu troco suas <ITEM>[Moedas do Explorador]<INFO>1001011</INFO></ITEM> por Equipamentos e Consumíveis.\nO que me diz?"
+    },
+    "Rh+yDA": {
+        "pt": "Loja de Consumíveis"
+    },
+    "Rx+yDA": {
+        "pt": "Loja de Equipamentos"
+    },
+    "SB+yDA": {
+        "pt": "^0000FFConsumíveis^000000?\nSó um momento..."
+    },
+    "SR+yDA": {
+        "pt": "^0000FFEquipamentos^000000?\nSó um momento..."
+    },
+    "Sh+yDA": {
+        "pt": "Aztek"
+    },
+    "Sx+yDA": {
+        "pt": "[Aztek]"
+    },
+    "TB+yDA": {
+        "pt": "Oi, {0}.\nSeja bem-vindo ao prédio principal da Liga dos Desbravadores."
+    },
+    "TR+yDA": {
+        "pt": "Missões A"
+    },
+    "Th+yDA": {
+        "pt": "[Missões A]\n^FF0000Você está carregando muitos itens. Libere um pouco de espaço no seu inventário e tente novamente.^000000"
+    },
+    "Tx+yDA": {
+        "pt": "[Missões A]\n^FF0000Você está acima do peso. Libere um pouco de espaço no seu inventário e tente novamente.^000000"
+    },
+    "UB+yDA": {
+        "pt": "[Missões A]\nBoas vindas, {0}.\nO que você deseja?\n-----------------------\n^FF0000Assim que você entrega uma missão, você já recebe uma nova, mas deve aguardar o tempo de recarga.^000000"
+    },
+    "UR+yDA": {
+        "pt": "Reportar missões"
+    },
+    "Uh+yDA": {
+        "pt": "Status das missões"
+    },
+    "Ux+yDA": {
+        "pt": "Pegar missões"
+    },
+    "VB+yDA": {
+        "pt": "Desistir das missões"
+    },
+    "VR+yDA": {
+        "pt": "Cancelar"
+    },
+    "Vh+yDA": {
+        "pt": "[Missões A]\n^FF0000Você só pode carregar até 30.000 unidades de um mesmo item. Por favor, guarde esses itens no armazém.^000000"
+    },
+    "Vx+yDA": {
+        "pt": "[Missões A]\nMuito obrigada."
+    },
+    "WB+yDA": {
+        "pt": "[Missões A]\nNenhuma missão a reportar."
+    },
+    "WR+yDA": {
+        "pt": "[Missões A]\nEsses são os status das missões."
+    },
+    "Wh+yDA": {
+        "pt": "^888888Em espera^000000"
+    },
+    "Wx+yDA": {
+        "pt": "^FF0000Completa^000000"
+    },
+    "XB+yDA": {
+        "pt": "^0000FFEm curso^000000"
+    },
+    "XR+yDA": {
+        "pt": "^888888Liberada^000000"
+    },
+    "Xh+yDA": {
+        "pt": "[Status]\nBatalha dos Orcs"
+    },
+    "Xx+yDA": {
+        "pt": "Torneio de Magia"
+    },
+    "YB+yDA": {
+        "pt": "Memórias de Sarah"
+    },
+    "YR+yDA": {
+        "pt": "Palácio das Mágoas"
+    },
+    "Yh+yDA": {
+        "pt": "Salão de Ymir"
+    },
+    "Yx+yDA": {
+        "pt": "Hospital Abandonado"
+    },
+    "ZB+yDA": {
+        "pt": "Aos Pés do Rei"
+    },
+    "ZR+yDA": {
+        "pt": "Fábrica do Terror"
+    },
+    "Zh+yDA": {
+        "pt": "Sonho Sombrio"
+    },
+    "Zx+yDA": {
+        "pt": "Covil de Vermes"
+    },
+    "aB+yDA": {
+        "pt": "[Missões A]\nParece que você recebeu todas as missões."
+    },
+    "aR+yDA": {
+        "pt": "[Missões A]\n^FF0000A propósito, assim que você completa uma missão, eu já registro ela automaticamente.^000000"
+    },
+    "ah+yDA": {
+        "pt": "[Missões A]\n[^0000FFDesistir de uma missão^000000]\nSignifica remover a missão da sua janela de missões."
+    },
+    "ax+yDA": {
+        "pt": "[Missões A]\nQue missão você pegou?"
+    },
+    "bB+yDA": {
+        "pt": "^0000FF"
+    },
+    "bR+yDA": {
+        "pt": "^888888"
+    },
+    "bh+yDA": {
+        "pt": "Batalha dos Orcs^000000"
+    },
+    "bx+yDA": {
+        "pt": "Torneio de Magia^000000"
+    },
+    "cB+yDA": {
+        "pt": "Memórias de Sarah^000000"
+    },
+    "cR+yDA": {
+        "pt": "Palácio das Mágoas^000000"
+    },
+    "ch+yDA": {
+        "pt": "Salão de Ymir^000000"
+    },
+    "cx+yDA": {
+        "pt": "Hospital Abandonado^000000"
+    },
+    "dB+yDA": {
+        "pt": "Aos Pés do Rei^000000"
+    },
+    "dR+yDA": {
+        "pt": "Fábrica do Terror^000000"
+    },
+    "dh+yDA": {
+        "pt": "Sonho Sombrio^000000"
+    },
+    "dx+yDA": {
+        "pt": "Covil de Vermes^000000"
+    },
+    "eB+yDA": {
+        "pt": "Pegar todas as missões"
+    },
+    "eR+yDA": {
+        "pt": "[Missões A]\nTudo bem, se mudar de ideia, estarei aqui."
+    },
+    "eh+yDA": {
+        "pt": "[Missões A]\nEssa missão já foi completada hoje."
+    },
+    "ex+yDA": {
+        "pt": "[Missões A]\nVocê já aceitou essa missão."
+    },
+    "fB+yDA": {
+        "pt": "[Missões A]\nVocê não possui nenhuma missão para desistir."
+    },
+    "fR+yDA": {
+        "pt": "[Missões A]\nQue missão deseja desistir?"
+    },
+    "fh+yDA": {
+        "pt": "Desistir de todas"
+    },
+    "fx+yDA": {
+        "pt": "Não"
+    },
+    "gB+yDA": {
+        "pt": "Sim"
+    },
+    "gR+yDA": {
+        "pt": "[Missões A]\nOk, volte quando mudar de ideia."
+    },
+    "gh+yDA": {
+        "pt": "[Missões A]\nNão encontrei nenhuma missão."
+    },
+    "gx+yDA": {
+        "pt": "[Missões A]\nPronto, missão cancelada."
+    },
+    "hB+yDA": {
+        "pt": "Missões B"
+    },
+    "hR+yDA": {
+        "pt": "[Missões B]\n^FF0000Você está carregando muitos itens. Libere um pouco de espaço no seu inventário e tente novamente.^000000"
+    },
+    "hh+yDA": {
+        "pt": "[Missões B]\n^FF0000Você está acima do peso. Libere um pouco de espaço no seu inventário e tente novamente.^000000"
+    },
+    "hx+yDA": {
+        "pt": "[Missões B]\nBoas vindas, {0}.\nO que você deseja?\n-----------------------\n^FF0000Assim que você entrega uma missão, você já recebe uma nova, mas deve aguardar o tempo de recarga.^000000"
+    },
+    "iB+yDA": {
+        "pt": "[Missões B]\n^FF0000Você só pode carregar até 30.000 unidades de um mesmo item. Por favor, guarde esses itens no armazém.^000000"
+    },
+    "iR+yDA": {
+        "pt": "[Missões B]\nMuito obrigada."
+    },
+    "ih+yDA": {
+        "pt": "[Missões B]\nNenhuma missão a reportar."
+    },
+    "ix+yDA": {
+        "pt": "[Missões B]\nEsses são os status das missões."
+    },
+    "jB+yDA": {
+        "pt": "[Status]\nSala Final"
+    },
+    "jR+yDA": {
+        "pt": "Ninho de Nidhogg"
+    },
+    "jh+yDA": {
+        "pt": "Lago Bakonawa"
+    },
+    "jx+yDA": {
+        "pt": "Caverna de Buwaya"
+    },
+    "kB+yDA": {
+        "pt": "Glastheim Sombria"
+    },
+    "kR+yDA": {
+        "pt": "Sarah vs Fenrir"
+    },
+    "kh+yDA": {
+        "pt": "Torre do Demônio"
+    },
+    "kx+yDA": {
+        "pt": "Ilha Bios"
+    },
+    "lB+yDA": {
+        "pt": "Templo do Demônio Rei"
+    },
+    "lR+yDA": {
+        "pt": "Laboratório Werner"
+    },
+    "lh+yDA": {
+        "pt": "[Missões B]\nParece que você recebeu todas as missões."
+    },
+    "lx+yDA": {
+        "pt": "[Missões B]\n^FF0000A propósito, assim que você completa uma missão, eu já registro ela automaticamente.^000000"
+    },
+    "mB+yDA": {
+        "pt": "[Missões B]\n[^0000FFDesistir de uma missão^000000]\nSignifica remover a missão da sua janela de missões."
+    },
+    "mR+yDA": {
+        "pt": "[Missões B]\nQue missão você pegou?"
+    },
+    "mh+yDA": {
+        "pt": "Sala Final^000000"
+    },
+    "mx+yDA": {
+        "pt": "Ninho de Nidhogg^000000"
+    },
+    "nB+yDA": {
+        "pt": "Lago Bakonawa^000000"
+    },
+    "nR+yDA": {
+        "pt": "Caverna de Buwaya^000000"
+    },
+    "nh+yDA": {
+        "pt": "Glastheim Sombria^000000"
+    },
+    "nx+yDA": {
+        "pt": "Sarah vs Fenrir^000000"
+    },
+    "oB+yDA": {
+        "pt": "Torre do Demônio^000000"
+    },
+    "oR+yDA": {
+        "pt": "Ilha Bios^000000"
+    },
+    "oh+yDA": {
+        "pt": "Templo do Demônio Rei^000000"
+    },
+    "ox+yDA": {
+        "pt": "Laboratório Werner^000000"
+    },
+    "pB+yDA": {
+        "pt": "[Missões B]\nTudo bem, se mudar de ideia, estarei aqui."
+    },
+    "pR+yDA": {
+        "pt": "[Missões B]\nEssa missão já foi completada hoje."
+    },
+    "ph+yDA": {
+        "pt": "[Missões B]\nVocê já aceitou essa missão."
+    },
+    "px+yDA": {
+        "pt": "[Missões B]\nVocê não possui nenhuma missão para desistir."
+    },
+    "qB+yDA": {
+        "pt": "[Missões B]\nQue missão deseja desistir?"
+    },
+    "qR+yDA": {
+        "pt": "[Missões B]\nOk, volte quando mudar de ideia."
+    },
+    "qh+yDA": {
+        "pt": "[Missões B]\nNão encontrei nenhuma missão."
+    },
+    "qx+yDA": {
+        "pt": "[Missões B]\nPronto, missão cancelada."
+    },
+    "rB+yDA": {
+        "pt": "Missões C"
+    },
+    "rR+yDA": {
+        "pt": "[Missões C]\n^FF0000Você está carregando muitos itens. Libere um pouco de espaço no seu inventário e tente novamente.^000000"
+    },
+    "rh+yDA": {
+        "pt": "[Missões C]\n^FF0000Você está acima do peso. Libere um pouco de espaço no seu inventário e tente novamente.^000000"
+    },
+    "rx+yDA": {
+        "pt": "[Missões C]\nBoas vindas, {0}.\nO que você deseja?\n-----------------------\n^FF0000Assim que você entrega uma missão, você já recebe uma nova, mas deve aguardar o tempo de recarga.^000000"
+    },
+    "sB+yDA": {
+        "pt": "[Missões C]\n^FF0000Você só pode carregar até 30.000 unidades de um mesmo item. Por favor, guarde esses itens no armazém.^000000"
+    },
+    "sR+yDA": {
+        "pt": "[Missões C]\nMuito obrigada."
+    },
+    "sh+yDA": {
+        "pt": "[Missões C]\nNenhuma missão a reportar."
+    },
+    "sx+yDA": {
+        "pt": "[Missões C]\nEsses são os status das missões."
+    },
+    "tB+yDA": {
+        "pt": "[Status]\nVila dos Porings"
+    },
+    "tR+yDA": {
+        "pt": "Caverna do Polvo"
+    },
+    "th+yDA": {
+        "pt": "Quarto Crescente"
+    },
+    "tx+yDA": {
+        "pt": "Missão OS"
+    },
+    "uB+yDA": {
+        "pt": "Maldição de Glastheim"
+    },
+    "uR+yDA": {
+        "pt": "Base Militar"
+    },
+    "uh+yDA": {
+        "pt": "Laboratório de Wolfchev"
+    },
+    "ux+yDA": {
+        "pt": "Memorial COR"
+    },
+    "vB+yDA": {
+        "pt": "Fortaleza Aérea"
+    },
+    "vR+yDA": {
+        "pt": "Caverna de Mors"
+    },
+    "vh+yDA": {
+        "pt": "[Missões C]\nParece que você recebeu todas as missões."
+    },
+    "vx+yDA": {
+        "pt": "[Missões C]\n^FF0000A propósito, assim que você completa uma missão, eu já registro ela automaticamente.^000000"
+    },
+    "wB+yDA": {
+        "pt": "[Missões C]\n[^0000FFDesistir de uma missão^000000]\nSignifica remover a missão da sua janela de missões."
+    },
+    "wR+yDA": {
+        "pt": "[Missões C]\nQue missão você pegou?"
+    },
+    "wh+yDA": {
+        "pt": "Vila dos Porings^000000"
+    },
+    "wx+yDA": {
+        "pt": "Caverna do Polvo^000000"
+    },
+    "xB+yDA": {
+        "pt": "Quarto Crescente^000000"
+    },
+    "xR+yDA": {
+        "pt": "Missão OS^000000"
+    },
+    "xh+yDA": {
+        "pt": "Maldição de Glastheim^000000"
+    },
+    "xx+yDA": {
+        "pt": "Base Militar^000000"
+    },
+    "yB+yDA": {
+        "pt": "Laboratório de Wolfchev^000000"
+    },
+    "yR+yDA": {
+        "pt": "Memorial COR^000000"
+    },
+    "yh+yDA": {
+        "pt": "Fortaleza Aérea^000000"
+    },
+    "yx+yDA": {
+        "pt": "Caverna de Mors^000000"
+    },
+    "zB+yDA": {
+        "pt": "[Missões C]\nTudo bem, se mudar de ideia, estarei aqui."
+    },
+    "zR+yDA": {
+        "pt": "[Missões C]\nEssa missão já foi completada hoje."
+    },
+    "zh+yDA": {
+        "pt": "[Missões C]\nVocê já aceitou essa missão."
+    },
+    "zx+yDA": {
+        "pt": "[Missões C]\nVocê não possui nenhuma missão para desistir."
+    },
+    "0B+yDA": {
+        "pt": "[Missões C]\nQue missão deseja desistir?"
+    },
+    "0R+yDA": {
+        "pt": "[Missões C]\nOk, volte quando mudar de ideia."
+    },
+    "0h+yDA": {
+        "pt": "[Missões C]\nNão encontrei nenhuma missão."
+    },
+    "0x+yDA": {
+        "pt": "[Missões C]\nPronto, missão cancelada."
+    },
+    "1B+yDA": {
+        "pt": "Missões D"
+    },
+    "1R+yDA": {
+        "pt": "^FF0000Você está acima do peso. Libere um pouco de espaço no seu inventário e tente novamente.^000000"
+    },
+    "1h+yDA": {
+        "pt": "[Conversora de Moedas]\nBoas vindas, {0}.\nO que você deseja?"
+    },
+    "1x+yDA": {
+        "pt": "Converter Equipamentos"
+    },
+    "2B+yDA": {
+        "pt": "Converter Itens"
+    },
+    "2R+yDA": {
+        "pt": "[Conversora de Moedas]\nDeseja transformar seus equipamentos das instâncias em Moedas dos Desbravadores?"
+    },
+    "2h+yDA": {
+        "pt": "Sim!"
+    },
+    "2x+yDA": {
+        "pt": "Não."
+    },
+    "3B+yDA": {
+        "pt": "Arco Esconjurante"
+    },
+    "3R+yDA": {
+        "pt": "Cajado Esconjurante"
+    },
+    "3h+yDA": {
+        "pt": "Espada Esconjurante"
+    },
+    "3x+yDA": {
+        "pt": "Katar Esconjurante"
+    },
+    "4B+yDA": {
+        "pt": "Maça Esconjurante"
+    },
+    "4R+yDA": {
+        "pt": "Punhal Esconjurante"
+    },
+    "4h+yDA": {
+        "pt": "Coturnos de Comissário"
+    },
+    "4x+yDA": {
+        "pt": "Uniforme de Comissário"
+    },
+    "5B+yDA": {
+        "pt": "Manto do Comissário"
+    },
+    "5R+yDA": {
+        "pt": "Espada Cerimonial"
+    },
+    "5h+yDA": {
+        "pt": "Espada Pesada"
+    },
+    "5x+yDA": {
+        "pt": "Cajado de Geffen"
+    },
+    "6B+yDA": {
+        "pt": "Adaga Folheada a Ouro"
+    },
+    "6R+yDA": {
+        "pt": "Armadura Filigranada"
+    },
+    "6h+yDA": {
+        "pt": "Uniforme do Ferlock"
+    },
+    "6x+yDA": {
+        "pt": "Sobretudo do Ferlock"
+    },
+    "7B+yDA": {
+        "pt": "Botas do Ferlock"
+    },
+    "7R+yDA": {
+        "pt": "Adaga Sobrenatural"
+    },
+    "7h+yDA": {
+        "pt": "Arco Sobrenatural"
+    },
+    "7x+yDA": {
+        "pt": "Arpão Sobrenatural"
+    },
+    "8B+yDA": {
+        "pt": "Cajado Sobrenatural"
+    },
+    "8R+yDA": {
+        "pt": "Cetro Sobrenatural"
+    },
+    "8h+yDA": {
+        "pt": "Chicote Sobrenatural"
+    },
+    "8x+yDA": {
+        "pt": "Espada Sobrenatural"
+    },
+    "9B+yDA": {
+        "pt": "Katar Sobrenatural"
+    },
+    "9R+yDA": {
+        "pt": "Livro Sobrenatural"
+    },
+    "9h+yDA": {
+        "pt": "Maça Sobrenatural"
+    },
+    "9x+yDA": {
+        "pt": "Machado Sobrenatural"
+    },
+    "+B+yDA": {
+        "pt": "Pique Sobrenatural"
+    },
+    "+R+yDA": {
+        "pt": "Pistola Sobrenatural"
+    },
+    "+h+yDA": {
+        "pt": "Punho Sobrenatural"
+    },
+    "+x+yDA": {
+        "pt": "Sabre Sobrenatural"
+    },
+    "/B+yDA": {
+        "pt": "Shuriken Sobrenatural"
+    },
+    "/R+yDA": {
+        "pt": "Viollino Sobrenatural"
+    },
+    "/h+yDA": {
+        "pt": "Isso é tudo?"
+    },
+    "/x+yDA": {
+        "pt": "Verifique de novo"
+    },
+    "ACCyDA": {
+        "pt": "^980078Operação cancelada.^000000"
+    },
+    "ASCyDA": {
+        "pt": "[Conversora de Moedas]\n^3131FF{0}^000000\nequivale a {1}x Moeda dos Desbravadores.\n^FF0000Você vai perder carta, encanto ou refino aplicado nesse item.^000000"
+    },
+    "AiCyDA": {
+        "pt": "Trocar"
+    },
+    "AyCyDA": {
+        "pt": "Não trocar"
+    },
+    "BCCyDA": {
+        "pt": "[Conversora de Moedas]\nO item desapareceu. O que houve?"
+    },
+    "BSCyDA": {
+        "pt": "[Conversora de Moedas]\nTroca realizada."
+    },
+    "BiCyDA": {
+        "pt": "[Conversora de Moedas]\nAbrindo o sistema de permuta."
+    },
+    "ByCyDA": {
+        "pt": "Teleportador"
+    },
+    "CCCyDA": {
+        "pt": "[Teleportador]\nSelecione seu destino.\nValor da passagem: 20.000 zeny."
+    },
+    "CSCyDA": {
+        "pt": "Espaço Dimensional"
+    },
+    "CiCyDA": {
+        "pt": "Maldição de Glastheim"
+    },
+    "CyCyDA": {
+        "pt": "Torre sem Fim"
+    },
+    "DCCyDA": {
+        "pt": "Batalha dos Orcs"
+    },
+    "DSCyDA": {
+        "pt": "Salão de Ymir"
+    },
+    "DiCyDA": {
+        "pt": "Laboratório de Wolfchev"
+    },
+    "DyCyDA": {
+        "pt": "Verus"
+    },
+    "ECCyDA": {
+        "pt": "Ash Vacuum"
+    },
+    "ESCyDA": {
+        "pt": "Clana Nemieri"
+    },
+    "EiCyDA": {
+        "pt": "Porto Malaya"
+    },
+    "EyCyDA": {
+        "pt": "Altar do Selo"
+    },
+    "FCCyDA": {
+        "pt": "Fábrica do Terror"
+    },
+    "FSCyDA": {
+        "pt": "Quarto Crescente"
+    },
+    "FiCyDA": {
+        "pt": "Túmulo do Monarca"
+    },
+    "FyCyDA": {
+        "pt": "Espaço Infinito"
+    },
+    "GCCyDA": {
+        "pt": "[Teleportador]\n^FF0000Espaço Dimensional^000000\nSelecione seu destino."
+    },
+    "GSCyDA": {
+        "pt": "Torneio de Magia"
+    },
+    "GiCyDA": {
+        "pt": "Memórias de Sarah"
+    },
+    "GyCyDA": {
+        "pt": "Palácio das Mágoas"
+    },
+    "HCCyDA": {
+        "pt": "Invasão ao Aeroplano"
+    },
+    "HSCyDA": {
+        "pt": "Covil de Vermes"
+    },
+    "HiCyDA": {
+        "pt": "Sarah vs Fenrir"
+    },
+    "HyCyDA": {
+        "pt": "Torre do Demônio"
+    },
+    "ICCyDA": {
+        "pt": "Sonho Sombrio"
+    },
+    "ISCyDA": {
+        "pt": "[Teleportador]\nTenha uma boa viagem!"
+    },
+    "IiCyDA": {
+        "pt": "[Teleportador]\nVocê não tem 20.000 zeny."
+    },
+    "IyCyDA": {
+        "pt": "[Teleportador]\n^FF0000Verus^000000\nSelecione seu destino."
+    },
+    "JCCyDA": {
+        "pt": "Aos Pés do Rei"
+    },
+    "JSCyDA": {
+        "pt": "Laboratório Central"
+    },
+    "JiCyDA": {
+        "pt": "Sala Final"
+    },
+    "JyCyDA": {
+        "pt": "[Teleportador]\nComo você completou a missão de acesso, o teleporte vai ser gratuito! Tenha uma boa viagem."
+    },
+    "KCCyDA": {
+        "pt": "[Teleportador]\n^FF0000Ash Vacuum^000000\nSelecione seu destino."
+    },
+    "KSCyDA": {
+        "pt": "Ninho de Nidhogg"
+    },
+    "KiCyDA": {
+        "pt": "Caverna de Fogo"
+    },
+    "KyCyDA": {
+        "pt": "[Teleportador]\n^FF0000Clana Nemieri^000000\nSelecione seu destino."
+    },
+    "LCCyDA": {
+        "pt": "Base Militar"
+    },
+    "LSCyDA": {
+        "pt": "Distrito COR"
+    },
+    "LiCyDA": {
+        "pt": "[Teleportador]\n^FF0000Porto Malaya^000000\nSelecione seu destino."
+    },
+    "LyCyDA": {
+        "pt": "Hospital Abandonado"
+    },
+    "MCCyDA": {
+        "pt": "Caverna de Buwaya"
+    },
+    "MSCyDA": {
+        "pt": "Lago de Bakonawa"
+    },
+    "MiCyDA": {
+        "pt": "[Teleportador]\nInfelizmente, você não completou a missão para acessar esse mapa.\nSeu teleporte foi negado."
+    },
+    "MyCyDA": {
+        "pt": "Oficial da Ordem"
+    },
+    "NCCyDA": {
+        "pt": "[Mulher Suspeita]"
+    },
+    "NSCyDA": {
+        "pt": "Oi, {0}.\nSou uma Agente da Liga dos Desbravadores, grupo que te incentiva a explorar instâncias.\nO que você deseja?"
+    },
+    "NiCyDA": {
+        "pt": "Liga dos Desbravadores?"
+    },
+    "NyCyDA": {
+        "pt": "A ^FF0000Liga dos Desbravadores^000000 está localizada em Alberta e garante Moedas dos Desbravadores toda vez que você completa uma missão de instância.\nSe você quiser, posso teleportar você para a nossa sede."
+    },
+    "OCCyDA": {
+        "pt": "Vou ficar aqui"
+    },
+    "OSCyDA": {
+        "pt": "^FF0000Teleportar^000000"
+    },
+    "OiCyDA": {
+        "pt": "Sem problemas, até logo."
+    },
+    "OyCyDA": {
+        "pt": "Não se esque a de pegar uma missão nas plaquinhas."
+    }
+}

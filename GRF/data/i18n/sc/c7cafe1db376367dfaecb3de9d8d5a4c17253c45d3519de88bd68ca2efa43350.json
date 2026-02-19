@@ -35,27 +35,27 @@
         "es": "[Arquero gremial]\nTe apoyaré."
     },
     "R9q6Ag": {
-        "en": "[Archer Guildsman]\nHey, I know you.\nYou came back to be an archer again?",
+        "en": "[Archer Guildsman]\nIt seems you have come this far due to a special connection.",
         "pt": "[Líder dos Arqueiros]\nEi, eu conheço você.\nVocê voltou para se juntar aos Arqueiros novamente?",
         "es": "[Arquero gremial]\nOye, yo te conozco.\n¿Volviste para ser de la clase Arquero otra vez?"
     },
     "SNq6Ag": {
-        "en": "[Archer Guildsman]\nErr...\nYou'd better learn all the Basic Skills first before you can become an Archer.",
+        "en": "^4D4DFF You can summon a service NPC for job change.\n^4D4DFF Booster promotion eligible players can change jobs through the job change agent.^000000",
         "pt": "[Líder dos Arqueiros]\nErr...\nÉ melhor você aprender todas as Habilidades Básicas antes de se juntar à nós.",
         "es": "[Arquero gremial]\nEh…\nSerá mejor que aprendas primero todas las habilidades básicas antes de ser de la clase Arquero."
     },
     "Sdq6Ag": {
-        "en": "[Archer Guildsman]\nAlright, see you later.",
+        "en": "Summon a job change agent for job change.",
         "pt": "[Líder dos Arqueiros]\nTudo bem, até mais tarde.",
         "es": "[Arquero gremial]\nMuy bien, hasta luego."
     },
     "Stq6Ag": {
-        "en": "[Archer Guildsman]\nWell then. I don't need to say anything else.\nI know you'll make a great Archer...",
+        "en": "Decline.",
         "pt": "[Líder dos Arqueiros]\nBem, é isso. Não preciso dizer mais nada.\nSei que você será excepcional no Arco e Flecha...",
         "es": "[Arquero gremial]\nEn ese caso, no necesito decir nada más.\nSé que representarás muy bien a la clase Arquero…"
     },
     "S9q6Ag": {
-        "en": "[Archer Guildsman]\nAlthough there's no special\nreward for you this time, I hope you understand. Take care of yourself.",
+        "en": "^4D4DFF Booster promotion eligible players can change jobs through the job change agent.\nThird job change can also be done at each job guild.^000000",
         "pt": "[Líder dos Arqueiros]\nEmbora não haja nenhuma recompensa especial\npara você desta vez, espero que você entenda. Cuide-se!",
         "es": "[Arquero gremial]\nAunque esta vez no hay un\npremio especial para ti, espero que lo entiendas. Cuídate."
     },
@@ -125,12 +125,12 @@
         "es": "[Arquero gremial]\nCon arco y flechas, ahora realmente eres de la clase Arquero.\nSi abres el contenedor de flechas, encontrarás flechas que podrás equipar."
     },
     "Wdq6Ag": {
-        "en": "[Archer Guildsman]\nOriginally, only those who have trained hard can use\n^4D4DFFArrow Repel^000000 and ^4D4DFFArrow Crafting^000000..",
+        "en": "[Archer Guildsman]\nWell, you're not at the right skill level.\nYour job level must be at least ^4D4DFF10^000000\nand your Basic Skill level should reach ^4D4DFFlevel 9^000000",
         "pt": "[Líder dos Arqueiros]\nOriginalmente, somente aqueles que treinaram muito podiam usar\n^4D4DFFDisparo Violento^000000 e ^4D4DFFFabricar Flechas^000000.",
         "es": "[Arquero gremial]\nOriginalmente, solo quienes entrenaron mucho pueden usar\n^4D4DFFRepeler flechas^000000 y ^4D4DFFFabricar flechas^000000."
     },
     "Wtq6Ag": {
-        "en": "[Archer Guildsman]\nIt may seem a bit early, but it'll be okay.\nI believe in you.",
+        "en": "[Archer Guildsman]\nBecause an Archer needs\nextremely high concentration,\nso we do not accept\nthose who have little patience.",
         "pt": "[Líder dos Arqueiros]\nPode parecer um pouco cedo, mas vai dar tudo certo.\nEu acredito em você.",
         "es": "[Arquero gremial]\nPuede parecer un poco pronto, pero todo estará bien.\nCreo en ti."
     },

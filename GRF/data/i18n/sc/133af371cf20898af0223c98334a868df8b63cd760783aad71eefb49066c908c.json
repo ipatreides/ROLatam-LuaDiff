@@ -9,7 +9,7 @@
         "ko": "240822 함정삭제 / 보스 방어력 증강(2차수정)\n240509 GH_Cursed_Gemstone GH_Cursed_Crystal 필터추가\n231012 SetMonsterStat 구문 삭제",
         "en": "240822 Trap removal / Boss DEF enhancement (2nd revision)\n240509 Added filter for GH_Cursed_Gemstone GH_Cursed_Crystal\n231012 Removed SetMonsterStat syntax",
         "pt": "240822 Remoção de armadilha / Aumento da Defesa do chefe (2ª revisão)\n240509 Adição de filtro para GH_Cursed_Gemstone GH_Cursed_Crystal\n231012 Remoção da sintaxe SetMonsterStat",
-        "es": "240822 Eliminación de trampa / Refuerzo de defensa del jefe (2.ª revisión)\n240509 Se añadió un filtro para GH_Cursed_Gemstone GH_Cursed_Crystal\n231012 Se eliminó la sintaxis de SetMonsterStat"
+        "es": "240822 Eliminación de trampa / Aumento de la defensa del jefe (2.ª revisión)\n240509 Adición de filtro para GH_Cursed_Gemstone GH_Cursed_Crystal\n231012 Eliminación de la sintaxis de SetMonsterStat"
     },
     "In6qDA": {
         "ko": "보스회복셋업",
@@ -27,7 +27,7 @@
         "ko": "하드",
         "en": "Hard",
         "pt": "Difícil",
-        "es": "Duro"
+        "es": "Difícil"
     },
     "JX6qDA": {
         "ko": "보스",
@@ -39,7 +39,7 @@
         "ko": "라운드 이동",
         "en": "Move to the next round",
         "pt": "Mover para a rodada seguinte",
-        "es": "Moverse de ronda"
+        "es": "Pasar a la siguiente ronda"
     },
     "J36qDA": {
         "ko": "보스처치후",
@@ -51,7 +51,7 @@
         "ko": "보스가 자체 회복을 하지 않도록 설정",
         "en": "Set it so the boss cannot heal itself.",
         "pt": "Configurar para que o chefe não use cura própria",
-        "es": "Configurar para que el jefe no se cure automáticamente."
+        "es": "Configurar para que el jefe no se use curación propia"
     },
     "KX6qDA": {
         "ko": "보스가 자체 회복하도록 설정",
@@ -111,7 +111,7 @@
         "ko": "암흑의 근위대장#",
         "en": "Captain of the Dark Guard#",
         "pt": "Guarda das Sombras#",
-        "es": "Guarda de las Sombras#"
+        "es": "Guardián de las Sombras#"
     },
     "M36qDA": {
         "ko": "여기사의 사념#",
@@ -123,7 +123,7 @@
         "ko": "암흑의 근위대장#",
         "en": "Captain of the Dark Guard#",
         "pt": "Guarda das Sombras#",
-        "es": "Guarda de las Sombras#"
+        "es": "Guardián de las Sombras#"
     },
     "NX6qDA": {
         "ko": "저주받은 기사#",
@@ -165,19 +165,19 @@
         "ko": "오스카: 첫번째 구간의 시간이 정상적으로 흐르기 시작했어요. 다음 구간으로 이동하죠.",
         "en": "Oscar: Time has started flowing normally in the first section. Let's move on to the next section.",
         "pt": "Oscar: Primeira área limpa. Vou te teleportar para a próxima zona.",
-        "es": "Oscar: Primera área limpiada. Te teletransportaré a la siguiente zona."
+        "es": "Oscar: Primera zona despejada. Te teletransportaré a la siguiente zona."
     },
     "PH6qDA": {
         "ko": "오스카: 두번째 구간의 시간이 정상적으로 흐르기 시작했어요. 다음 구간으로 이동하죠.",
         "en": "Oscar: Time has started flowing normally in the second section. Let's move on to the next section.",
         "pt": "Oscar: Segunda área limpa. Vou te teleportar para a próxima zona.",
-        "es": "Oscar: Segunda área limpiada. Te teletransportaré a la siguiente zona."
+        "es": "Oscar: Segunda zona despejada. Te teletransportaré a la siguiente zona."
     },
     "PX6qDA": {
         "ko": "오스카: 세번째 구간의 시간이 정상적으로 흐르기 시작했어요. 다음 구간으로 이동하죠.",
         "en": "Oscar: Time has started flowing normally in the third section. Let's move on to the next section.",
         "pt": "Oscar: Terceira área limpa. Vou te teleportar para a próxima zona.",
-        "es": "Oscar: Tercera área limpiada. Te teletransportaré a la siguiente zona."
+        "es": "Oscar: Tercera zona despejada. Te teletransportaré a la siguiente zona."
     },
     "Pn6qDA": {
         "ko": "오스카: 이제 마지막 방이군요. 슈미츠왕의 사념이 배회하고 있을지 확인 해 보자구요.",
@@ -189,7 +189,7 @@
         "ko": "생존중인 몬스터 - {0}",
         "en": "Surviving Monsters - {0}",
         "pt": "Faltam {0} sobreviventes",
-        "es": "Faltan {0} supervivientes"
+        "es": "Faltan {0} sobrevivientes"
     },
     "QH6qDA": {
         "ko": "오스카",
@@ -219,7 +219,7 @@
         "ko": "저는 다음 시간의 흐름을 위해 잠시 앞으로 가 있을테니 이 분들께도 안식을 내려주세요",
         "en": "I will go ahead for a while, for the flow of time to continue, so please grant these people rest as well.",
         "pt": "Estaremos movendo para a próxima dimensão no tempo. Então, dê um descanso a eles.",
-        "es": "Estaremos moviéndonos a la siguiente dimensión en el tiempo. Así que, dales un descanso."
+        "es": "Estaremos pasando a la siguiente dimensión en el tiempo. Así que, dales un descanso."
     },
     "RX6qDA": {
         "ko": "여긴 제 2 숙소와 식당겸 휴게실이 있던 장소예요.",
@@ -321,19 +321,19 @@
         "ko": "저주를 삼킨 왕#",
         "en": "Cursed King Schmidt#",
         "pt": "Schmidt Corrompido#",
-        "es": "Schmidt Corrupto#"
+        "es": "Schmidt Corrompido#"
     },
     "Vn6qDA": {
         "ko": "저주를 삼킨 왕#",
         "en": "Cursed King Schmidt#",
         "pt": "Schmidt Corrompido#",
-        "es": "Schmidt Corrupto#"
+        "es": "Schmidt Corrompido#"
     },
     "V36qDA": {
         "ko": "오스카: 사념체가 진정되었군요. 이제 그는 한동안 제대로 공격하지 못할거예요.",
         "en": "Oscar: The wraith has calmed down. He won’t be able to attack properly for a while.",
         "pt": "Oscar: Ele não incomodará mais ninguém agora.",
-        "es": "Oscar: Él no molestará a nadie más ahora."
+        "es": "Oscar: Ahora ya no molestará a nadie más."
     },
     "WH6qDA": {
         "ko": "오스카: 그리고 사념체의 광폭화 상태도 풀렸어요. 지금이 공격할 기회입니다.",
@@ -345,7 +345,7 @@
         "ko": "오스카: 사념의 힘이 다시 돌아오고 있어요. 공격 속도를 조절하세요.",
         "en": "Oscar: The power of dark thoughts is returning. Adjust your Attack Speed.",
         "pt": "Oscar: O poder dele está voltando. Tenha mais velocidade no ataque.",
-        "es": "Oscar: Su poder está regresando. Ten más velocidad en el ataque."
+        "es": "Oscar: Su poder está volviendo. Ten más velocidad en el ataque."
     },
     "Wn6qDA": {
         "ko": "오스카: 제가 잠시 화염해일의 시간을 멈췄어요. 최대한 살아남으세요.",
@@ -375,7 +375,7 @@
         "ko": "[오스카]\n여러 차원의 시간을 여행하면서 직접 전투까지 벌이는건 꽤 많은 힘이 들거든요.",
         "en": "[Oscar]\nTraveling through time across many dimensions and even fighting in person takes quite a lot of strength.",
         "pt": "[Oscar]\nÉ bem difícil viajar entre as dimensões do espaço e do tempo, imagina lutar ainda.",
-        "es": "[Oscar]\nEs muy difícil viajar entre las dimensiones del espacio y del tiempo, imagínate pelear además."
+        "es": "[Oscar]\nEs muy difícil viajar entre las dimensiones del espacio y el tiempo, imagínate pelear además."
     },
     "X36qDA": {
         "ko": "[오스카]\n아 참 방금 슈미츠 왕의 사념이 소멸하면서 남긴 물품이예요.",
@@ -387,7 +387,7 @@
         "ko": "[오스카]\n오, 이런 시간의 결계가 무너질 것 같아요. 일단 어서 나가죠.",
         "en": "[Oscar]\nOh no, it looks like this time barrier is about to collapse. For now, let's get out of here quickly.",
         "pt": "[Oscar]\nIh, acho que esse lugar vai entrar em colapso. É melhor darmos o fora daqui.",
-        "es": "[Oscar]\nUy, creo que este lugar va a colapsar. Mejor larguémonos de aquí."
+        "es": "[Oscar]\nUy, creo que este lugar va a colapsar. Será mejor que nos larguemos de aquí."
     },
     "YX6qDA": {
         "ko": "오, 시간의 결계가 버텨줄 시간이 없어보이네, 저도 빠르게 나가야겠어요.",

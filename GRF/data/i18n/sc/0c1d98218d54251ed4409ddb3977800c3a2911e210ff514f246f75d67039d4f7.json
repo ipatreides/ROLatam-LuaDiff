@@ -40,17 +40,17 @@
         "es": "[Padre Mareusis]\nAh, siento que sufriste una experiencia de tu vida pasada. \nDebes haber aprendido muchas cosas antes de entrar en el Valhalla."
     },
     "qFO5Ag": {
-        "en": "[Father Mareusis]\nUnfortunately, I don't think you're ready to become an Acolyte yet.\nPlease finish learning all of the Basic Skills first.",
+        "en": "^4D4DFF You can summon a service NPC for job change.\n^4D4DFF Booster promotion eligible players can change jobs through the job change agent.^000000",
         "pt": "[Padre Necrus]\nPara fazer parte dos Noviços,\npor favor, aprenda as Habilidades Básicas primeiro.",
         "es": "[Padre Mareusis]\nLamentablemente, no creo que tengas lo necesario para convertirte en Acólito todavía.\nTermina primero de aprender todas las habilidades básicas."
     },
     "qVO5Ag": {
-        "en": "[Father Mareusis]\nIn the meantime, I will wait until you are ready.\nMay God be with you.",
+        "en": "Summon a job change agent for job change.",
         "pt": "[Padre Necrus]\nEnquanto isso, esperarei por você aqui.\nQue Deus esteja contigo.",
         "es": "[Padre Mareusis]\nMientras tanto, esperaré hasta que termines.\nQue los dioses te acompañen."
     },
     "qlO5Ag": {
-        "en": "[Father Mareusis]\nWell, I welcome you back from Valhalla,\nand wish you luck on your new life's journey.",
+        "en": "Decline.",
         "pt": "[Padre Necrus]\nVocê volta a trilhar a estrada do clero,\ntoda a igreja de Prontera dá as boas-vindas a você.",
         "es": "[Padre Mareusis]\nBueno, te doy la bienvenida en tu regreso del Valhalla\ny te deseo suerte en el nuevo viaje de tu vida."
     },
@@ -398,5 +398,14 @@
         "en": "[Father Yosuke]\nDo you have anything to say? Because unfortunately for you,\nI don't any replies.",
         "pt": "[Irmão Bartolomeu]\nVocê tem algo a dizer? Porque, infelizmente para você,\neu não tenho nenhuma resposta.",
         "es": "[Padre Yosuke]\n¿Tienes algo que decirme? Porque lamentablemente para ti,\nyo no tengo ninguna respuesta."
+    },
+    "8FO5Ag": {
+        "en": "[Father Mareusis]\nIt seems you have come this far due to a special connection."
+    },
+    "8VO5Ag": {
+        "en": "^4D4DFF Booster promotion eligible players can change jobs through the job change agent.\nThird job change can also be done at each job guild.^000000"
+    },
+    "8lO5Ag": {
+        "en": "[Father Mareusis]\nAh, I sense you have endured a past life experience.\nYou must have learned many things before entering Valhalla."
     }
 }

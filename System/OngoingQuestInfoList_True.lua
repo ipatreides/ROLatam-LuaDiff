@@ -185,663 +185,513 @@ QuestInfoList = {
 		}
 	},
 	[1017] = {
-		Title = "",
+		Title = "Liga dos Desbravadores",
 		IconName = "ico_dq.bmp",
-		Description = {""},
-		Summary = "",
-		NpcSpr = "4_BOARD3",
-		NpcNavi = "alberta",
-		NpcPosX = 116,
-		NpcPosY = 71,
-		RewardEXP = "200.000",
-		RewardJEXP = "200.000",
-		RewardItemList = {
-			{ItemID = 25737, ItemNum = 5}
-		}
+		Description = {
+			"Na Batalha dos Orcs, elimine 1 Orc Falso."
+		},
+		Summary = "Batalha dos Orcs"
 	},
 	[1018] = {
-		Title = "",
+		Title = "[Espera] LD - Batalha dos Orcs",
 		IconName = "ico_dq.bmp",
-		Description = {""},
-		Summary = "",
+		Description = {
+			"Aguarde o período de descanso para retornar ao prédio da Liga dos Desbravadores!"
+		},
+		Summary = "Volte amanhã",
 		CoolTimeQuest = 1
 	},
 	[1019] = {
-		Title = "",
+		Title = "Liga dos Desbravadores",
 		IconName = "ico_dq.bmp",
-		Description = {""},
-		Summary = "",
-		NpcSpr = "4_BOARD3",
-		NpcNavi = "alberta",
-		NpcPosX = 116,
-		NpcPosY = 71,
-		RewardEXP = "200.000",
-		RewardJEXP = "200.000",
-		RewardItemList = {
-			{ItemID = 25737, ItemNum = 5}
-		}
+		Description = {
+			"No Torneio de Magia, elimine 1 Muliphen."
+		},
+		Summary = "Torneio de Magia"
 	},
 	[1020] = {
-		Title = "",
+		Title = "[Espera] LD - Torneio de Magia",
 		IconName = "ico_dq.bmp",
-		Description = {""},
-		Summary = "",
+		Description = {
+			"Aguarde o período de descanso para retornar ao prédio da Liga dos Desbravadores!"
+		},
+		Summary = "Volte amanhã",
 		CoolTimeQuest = 1
 	},
 	[1021] = {
-		Title = "",
+		Title = "Liga dos Desbravadores",
 		IconName = "ico_dq.bmp",
-		Description = {""},
-		Summary = "",
-		NpcSpr = "4_BOARD3",
-		NpcNavi = "alberta",
-		NpcPosX = 116,
-		NpcPosY = 71,
-		RewardEXP = "200.000",
-		RewardJEXP = "200.000",
-		RewardItemList = {
-			{ItemID = 25737, ItemNum = 5}
-		}
+		Description = {
+			"Nas Memórias de Sarah, elimine 1 Lorde Irine."
+		},
+		Summary = "Memórias de Sarah"
 	},
 	[1022] = {
-		Title = "",
+		Title = "[Espera] LD - Memórias de Sarah",
 		IconName = "ico_dq.bmp",
-		Description = {""},
-		Summary = "",
+		Description = {
+			"Aguarde o período de descanso para retornar ao prédio da Liga dos Desbravadores!"
+		},
+		Summary = "Volte amanhã",
 		CoolTimeQuest = 1
 	},
 	[1023] = {
-		Title = "",
+		Title = "Liga dos Desbravadores",
 		IconName = "ico_dq.bmp",
-		Description = {""},
-		Summary = "",
-		NpcSpr = "4_BOARD3",
-		NpcNavi = "alberta",
-		NpcPosX = 116,
-		NpcPosY = 71,
-		RewardEXP = "600.000",
-		RewardJEXP = "600.000",
-		RewardItemList = {
-			{ItemID = 25737, ItemNum = 5}
-		}
+		Description = {
+			"No Palácio das Mágoas, elimine 1 Angústia Torturante."
+		},
+		Summary = "Palácio das Mágoas"
 	},
 	[1024] = {
-		Title = "",
+		Title = "[Espera] LD - Palácio das Mágoas",
 		IconName = "ico_dq.bmp",
-		Description = {""},
-		Summary = "",
+		Description = {
+			"Aguarde o período de descanso para retornar ao prédio da Liga dos Desbravadores!"
+		},
+		Summary = "Volte amanhã",
 		CoolTimeQuest = 1
 	},
 	[1025] = {
-		Title = "",
+		Title = "Liga dos Desbravadores",
 		IconName = "ico_dq.bmp",
-		Description = {""},
-		Summary = "",
-		NpcSpr = "4_BOARD3",
-		NpcNavi = "alberta",
-		NpcPosX = 116,
-		NpcPosY = 71,
-		RewardEXP = "300.000",
-		RewardJEXP = "300.000",
-		RewardItemList = {
-			{ItemID = 25737, ItemNum = 5}
-		}
+		Description = {
+			"No Salão de Ymir, elimine 1 Bijou."
+		},
+		Summary = "Salão de Ymir"
 	},
 	[1026] = {
-		Title = "",
+		Title = "[Espera] LD - Salão de Ymir",
 		IconName = "ico_dq.bmp",
-		Description = {""},
-		Summary = "",
+		Description = {
+			"Aguarde o período de descanso para retornar ao prédio da Liga dos Desbravadores!"
+		},
+		Summary = "Volte amanhã",
 		CoolTimeQuest = 1
 	},
 	[1027] = {
-		Title = "",
+		Title = "Liga dos Desbravadores",
 		IconName = "ico_dq.bmp",
-		Description = {""},
-		Summary = "",
-		NpcSpr = "4_BOARD3",
-		NpcNavi = "alberta",
-		NpcPosX = 116,
-		NpcPosY = 71,
-		RewardEXP = "800.000",
-		RewardJEXP = "800.000",
-		RewardItemList = {
-			{ItemID = 25737, ItemNum = 7}
-		}
+		Description = {
+			"No Hospital Abandonado, elimine 1 Bangungot."
+		},
+		Summary = "Hospital Abandonado"
 	},
 	[1028] = {
-		Title = "",
+		Title = "[Espera] LD - Hospital Abandonado",
 		IconName = "ico_dq.bmp",
-		Description = {""},
-		Summary = "",
+		Description = {
+			"Aguarde o período de descanso para retornar ao prédio da Liga dos Desbravadores!"
+		},
+		Summary = "Volte amanhã",
 		CoolTimeQuest = 1
 	},
 	[1029] = {
-		Title = "",
+		Title = "Liga dos Desbravadores",
 		IconName = "ico_dq.bmp",
-		Description = {""},
-		Summary = "",
-		NpcSpr = "4_BOARD3",
-		NpcNavi = "alberta",
-		NpcPosX = 116,
-		NpcPosY = 71,
-		RewardEXP = "800.000",
-		RewardJEXP = "800.000",
-		RewardItemList = {
-			{ItemID = 25737, ItemNum = 10}
-		}
+		Description = {
+			"Na instância Aos Pés do Rei, elimine 1 Charleston 03."
+		},
+		Summary = "Aos Pés do Rei"
 	},
 	[1030] = {
-		Title = "",
+		Title = "[Espera] LD - Aos Pés do Rei",
 		IconName = "ico_dq.bmp",
-		Description = {""},
-		Summary = "",
+		Description = {
+			"Aguarde o período de descanso para retornar ao prédio da Liga dos Desbravadores!"
+		},
+		Summary = "Volte amanhã",
 		CoolTimeQuest = 1
 	},
 	[1031] = {
-		Title = "",
+		Title = "Liga dos Desbravadores",
 		IconName = "ico_dq.bmp",
-		Description = {""},
-		Summary = "",
-		NpcSpr = "4_BOARD3",
-		NpcNavi = "alberta",
-		NpcPosX = 116,
-		NpcPosY = 71,
-		RewardEXP = "800.000",
-		RewardJEXP = "800.000",
-		RewardItemList = {
-			{ItemID = 25737, ItemNum = 5}
-		}
+		Description = {
+			"Na Fábrica do Terror, elimine 1 Antonio."
+		},
+		Summary = "Fábrica do Terror"
 	},
 	[1032] = {
-		Title = "",
+		Title = "[Espera] LD - Fábrica do Terror",
 		IconName = "ico_dq.bmp",
-		Description = {""},
-		Summary = "",
+		Description = {
+			"Aguarde o período de descanso para retornar ao prédio da Liga dos Desbravadores!"
+		},
+		Summary = "Volte amanhã",
 		CoolTimeQuest = 1
 	},
 	[1033] = {
-		Title = "",
+		Title = "Liga dos Desbravadores",
 		IconName = "ico_dq.bmp",
-		Description = {""},
-		Summary = "",
-		NpcSpr = "4_BOARD3",
-		NpcNavi = "alberta",
-		NpcPosX = 116,
-		NpcPosY = 71,
-		RewardEXP = "800.000",
-		RewardJEXP = "800.000",
-		RewardItemList = {
-			{ItemID = 25737, ItemNum = 10}
-		}
+		Description = {
+			"No Sonho Sombrio, elimine 1 Réquiem de Marfim."
+		},
+		Summary = "Sonho Sombrio"
 	},
 	[1034] = {
-		Title = "",
+		Title = "[Espera] LD - Sonho Sombrio",
 		IconName = "ico_dq.bmp",
-		Description = {""},
-		Summary = "",
+		Description = {
+			"Aguarde o período de descanso para retornar ao prédio da Liga dos Desbravadores!"
+		},
+		Summary = "Volte amanhã",
 		CoolTimeQuest = 1
 	},
 	[1035] = {
-		Title = "",
+		Title = "Liga dos Desbravadores",
 		IconName = "ico_dq.bmp",
-		Description = {""},
-		Summary = "",
-		NpcSpr = "4_BOARD3",
-		NpcNavi = "alberta",
-		NpcPosX = 116,
-		NpcPosY = 71,
-		RewardEXP = "600.000",
-		RewardJEXP = "600.000",
-		RewardItemList = {
-			{ItemID = 25737, ItemNum = 5}
-		}
+		Description = {
+			"No Covil de Vermes, elimine 4 Vermes Sombrios com Rosto."
+		},
+		Summary = "Covil de Vermes"
 	},
 	[1036] = {
-		Title = "",
+		Title = "[Espera] LD - Covil de Vermes",
 		IconName = "ico_dq.bmp",
-		Description = {""},
-		Summary = "",
+		Description = {
+			"Aguarde o período de descanso para retornar ao prédio da Liga dos Desbravadores!"
+		},
+		Summary = "Volte amanhã",
 		CoolTimeQuest = 1
 	},
 	[1037] = {
-		Title = "",
+		Title = "Liga dos Desbravadores",
 		IconName = "ico_dq.bmp",
-		Description = {""},
-		Summary = "",
-		NpcSpr = "4_BOARD3",
-		NpcNavi = "alberta",
-		NpcPosX = 116,
-		NpcPosY = 71,
-		RewardEXP = "800.000",
-		RewardJEXP = "800.000",
-		RewardItemList = {
-			{ItemID = 25737, ItemNum = 7}
-		}
+		Description = {
+			"Na Sala Final, elimine 1 T_W_O."
+		},
+		Summary = "Sala Final"
 	},
 	[1038] = {
-		Title = "",
+		Title = "[Espera] LD - Sala Final",
 		IconName = "ico_dq.bmp",
-		Description = {""},
-		Summary = "",
+		Description = {
+			"Aguarde o período de descanso para retornar ao prédio da Liga dos Desbravadores!"
+		},
+		Summary = "Volte amanhã",
 		CoolTimeQuest = 1
 	},
 	[1039] = {
-		Title = "",
+		Title = "Liga dos Desbravadores",
 		IconName = "ico_dq.bmp",
-		Description = {""},
-		Summary = "",
-		NpcSpr = "4_BOARD3",
-		NpcNavi = "alberta",
-		NpcPosX = 116,
-		NpcPosY = 71,
-		RewardEXP = "800.000",
-		RewardJEXP = "800.000",
-		RewardItemList = {
-			{ItemID = 25737, ItemNum = 20}
-		}
+		Description = {
+			"No Ninho de Nidhogg, elimine 1 Sombra do Guardião."
+		},
+		Summary = "Ninho de Nidhogg"
 	},
 	[1040] = {
-		Title = "",
+		Title = "[Espera] LD - Ninho de Nidhogg",
 		IconName = "ico_dq.bmp",
-		Description = {""},
-		Summary = "",
+		Description = {
+			"Aguarde o período de descanso para retornar ao prédio da Liga dos Desbravadores!"
+		},
+		Summary = "Volte amanhã",
 		CoolTimeQuest = 1
 	},
 	[1041] = {
-		Title = "",
+		Title = "Liga dos Desbravadores",
 		IconName = "ico_dq.bmp",
-		Description = {""},
-		Summary = "",
-		NpcSpr = "4_BOARD3",
-		NpcNavi = "alberta",
-		NpcPosX = 116,
-		NpcPosY = 71,
-		RewardEXP = "800.000",
-		RewardJEXP = "800.000",
-		RewardItemList = {
-			{ItemID = 25737, ItemNum = 7}
-		}
+		Description = {
+			"No Lago de Bakonawa, elimine 1 Tesouro de Bakonawa."
+		},
+		Summary = "Lago de Bakonawa"
 	},
 	[1042] = {
-		Title = "",
+		Title = "[Espera] LD - Lago Bakonawa",
 		IconName = "ico_dq.bmp",
-		Description = {""},
-		Summary = "",
+		Description = {
+			"Aguarde o período de descanso para retornar ao prédio da Liga dos Desbravadores!"
+		},
+		Summary = "Volte amanhã",
 		CoolTimeQuest = 1
 	},
 	[1043] = {
-		Title = "",
+		Title = "Liga dos Desbravadores",
 		IconName = "ico_dq.bmp",
-		Description = {""},
-		Summary = "",
-		NpcSpr = "4_BOARD3",
-		NpcNavi = "alberta",
-		NpcPosX = 116,
-		NpcPosY = 71,
-		RewardEXP = "200.000",
-		RewardJEXP = "200.000",
-		RewardItemList = {
-			{ItemID = 25737, ItemNum = 5}
-		}
+		Description = {
+			"Na Caverna de Buwaya, elimine 1 Buwaya."
+		},
+		Summary = "Caverna de Buwaya"
 	},
 	[1044] = {
-		Title = "",
+		Title = "[Espera] LD - Caverna Buwaya",
 		IconName = "ico_dq.bmp",
-		Description = {""},
-		Summary = "",
+		Description = {
+			"Aguarde o período de descanso para retornar ao prédio da Liga dos Desbravadores!"
+		},
+		Summary = "Volte amanhã",
 		CoolTimeQuest = 1
 	},
 	[1045] = {
-		Title = "",
+		Title = "Liga dos Desbravadores",
 		IconName = "ico_dq.bmp",
-		Description = {""},
-		Summary = "",
-		NpcSpr = "4_BOARD3",
-		NpcNavi = "alberta",
-		NpcPosX = 116,
-		NpcPosY = 71,
-		RewardEXP = "1.000.000",
-		RewardJEXP = "1.000.000",
-		RewardItemList = {
-			{ItemID = 25737, ItemNum = 20}
-		}
+		Description = {
+			"Na Glastheim Sombria, elimine 1 Amdarais Sombrio."
+		},
+		Summary = "Glastheim Sombria"
 	},
 	[1046] = {
-		Title = "",
+		Title = "[Espera] LD - Glastheim Sombria",
 		IconName = "ico_dq.bmp",
-		Description = {""},
-		Summary = "",
+		Description = {
+			"Aguarde o período de descanso para retornar ao prédio da Liga dos Desbravadores!"
+		},
+		Summary = "Volte amanhã",
 		CoolTimeQuest = 1
 	},
 	[1047] = {
-		Title = "",
+		Title = "Liga dos Desbravadores",
 		IconName = "ico_dq.bmp",
-		Description = {""},
-		Summary = "",
-		NpcSpr = "4_BOARD3",
-		NpcNavi = "alberta",
-		NpcPosX = 116,
-		NpcPosY = 71,
-		RewardEXP = "800.000",
-		RewardJEXP = "800.000",
-		RewardItemList = {
-			{ItemID = 25737, ItemNum = 25}
-		}
+		Description = {
+			"Na instância Sarah vs Fenrir, elimine 6 Gigantes Ancestrais."
+		},
+		Summary = "Sarah vs Fenrir"
 	},
 	[1048] = {
-		Title = "",
+		Title = "[Espera] LD - Sarah vs Fenrir",
 		IconName = "ico_dq.bmp",
-		Description = {""},
-		Summary = "",
+		Description = {
+			"Aguarde o período de descanso para retornar ao prédio da Liga dos Desbravadores!"
+		},
+		Summary = "Volte amanhã",
 		CoolTimeQuest = 1
 	},
 	[1049] = {
-		Title = "",
+		Title = "Liga dos Desbravadores",
 		IconName = "ico_dq.bmp",
-		Description = {""},
-		Summary = "",
-		NpcSpr = "4_BOARD3",
-		NpcNavi = "alberta",
-		NpcPosX = 116,
-		NpcPosY = 71,
-		RewardEXP = "400.000",
-		RewardJEXP = "400.000",
-		RewardItemList = {
-			{ItemID = 25737, ItemNum = 5}
-		}
+		Description = {
+			"Na Torre do Demônio, elimine os 3 tipos de Sombras das Trevas."
+		},
+		Summary = "Torre do Demônio"
 	},
 	[1050] = {
-		Title = "",
+		Title = "[Espera] LD - Torre do Demônio",
 		IconName = "ico_dq.bmp",
-		Description = {""},
-		Summary = "",
+		Description = {
+			"Aguarde o período de descanso para retornar ao prédio da Liga dos Desbravadores!"
+		},
+		Summary = "Volte amanhã",
 		CoolTimeQuest = 1
 	},
 	[1051] = {
-		Title = "",
+		Title = "Liga dos Desbravadores",
 		IconName = "ico_dq.bmp",
-		Description = {""},
-		Summary = "",
-		NpcSpr = "4_BOARD3",
-		NpcNavi = "alberta",
-		NpcPosX = 116,
-		NpcPosY = 71,
-		RewardEXP = "600.000",
-		RewardJEXP = "600.000",
-		RewardItemList = {
-			{ItemID = 25737, ItemNum = 10}
-		}
+		Description = {
+			"Na Ilha Bios, elimine 1 Ceifador Ankou."
+		},
+		Summary = "Ilha Bios"
 	},
 	[1052] = {
-		Title = "",
+		Title = "[Espera] LD - Ilha Bios",
 		IconName = "ico_dq.bmp",
-		Description = {""},
-		Summary = "",
+		Description = {
+			"Aguarde o período de descanso para retornar ao prédio da Liga dos Desbravadores!"
+		},
+		Summary = "Volte amanhã",
 		CoolTimeQuest = 1
 	},
 	[1053] = {
-		Title = "",
+		Title = "Liga dos Desbravadores",
 		IconName = "ico_dq.bmp",
-		Description = {""},
-		Summary = "",
-		NpcSpr = "4_BOARD3",
-		NpcNavi = "alberta",
-		NpcPosX = 116,
-		NpcPosY = 71,
-		RewardEXP = "1.000.000",
-		RewardJEXP = "1.000.000",
-		RewardItemList = {
-			{ItemID = 25737, ItemNum = 15}
-		}
+		Description = {
+			"No Templo do Demônio Rei, elimine 1 Deus Morroc."
+		},
+		Summary = "Templo do Demônio Rei"
 	},
 	[1054] = {
-		Title = "",
+		Title = "[Espera] LD - Templo do Demônio Rei",
 		IconName = "ico_dq.bmp",
-		Description = {""},
-		Summary = "",
+		Description = {
+			"Aguarde o período de descanso para retornar ao prédio da Liga dos Desbravadores!"
+		},
+		Summary = "Volte amanhã",
 		CoolTimeQuest = 1
 	},
 	[1055] = {
-		Title = "",
+		Title = "Liga dos Desbravadores",
 		IconName = "ico_dq.bmp",
-		Description = {""},
-		Summary = "",
-		NpcSpr = "4_BOARD3",
-		NpcNavi = "alberta",
-		NpcPosX = 116,
-		NpcPosY = 71,
-		RewardEXP = "300.000",
-		RewardJEXP = "300.000",
-		RewardItemList = {
-			{ItemID = 25737, ItemNum = 10}
-		}
+		Description = {
+			"No Laboratório Werner, elimine 1 Fofinho."
+		},
+		Summary = "Laboratório Werner"
 	},
 	[1056] = {
-		Title = "",
+		Title = "[Espera] LD - Laboratório Werner",
 		IconName = "ico_dq.bmp",
-		Description = {""},
-		Summary = "",
+		Description = {
+			"Aguarde o período de descanso para retornar ao prédio da Liga dos Desbravadores!"
+		},
+		Summary = "Volte amanhã",
 		CoolTimeQuest = 1
 	},
 	[1057] = {
-		Title = "",
+		Title = "Liga dos Desbravadores",
 		IconName = "ico_dq.bmp",
-		Description = {""},
-		Summary = "",
-		NpcSpr = "4_BOARD3",
-		NpcNavi = "alberta",
-		NpcPosX = 116,
-		NpcPosY = 71,
-		RewardEXP = "50.000",
-		RewardJEXP = "50.000",
-		RewardItemList = {
-			{ItemID = 25737, ItemNum = 5}
-		}
+		Description = {
+			"Na Vila dos Porings, elimine 1 Rei Poring."
+		},
+		Summary = "Vila dos Porings"
 	},
 	[1058] = {
-		Title = "",
+		Title = "[Espera] LD - Vila dos Porings",
 		IconName = "ico_dq.bmp",
-		Description = {""},
-		Summary = "",
+		Description = {
+			"Aguarde o período de descanso para retornar ao prédio da Liga dos Desbravadores!"
+		},
+		Summary = "Volte amanhã",
 		CoolTimeQuest = 1
 	},
 	[1059] = {
-		Title = "",
+		Title = "Liga dos Desbravadores",
 		IconName = "ico_dq.bmp",
-		Description = {""},
-		Summary = "",
-		NpcSpr = "4_BOARD3",
-		NpcNavi = "alberta",
-		NpcPosX = 116,
-		NpcPosY = 71,
-		RewardEXP = "100.000",
-		RewardJEXP = "100.000",
-		RewardItemList = {
-			{ItemID = 25737, ItemNum = 5}
-		}
+		Description = {
+			"Na Caverna do Polvo, elimine 1 Polvo Gigante."
+		},
+		Summary = "Caverna do Polvo"
 	},
 	[1060] = {
-		Title = "",
+		Title = "[Espera] LD - Caverna do Polvo",
 		IconName = "ico_dq.bmp",
-		Description = {""},
-		Summary = "",
+		Description = {
+			"Aguarde o período de descanso para retornar ao prédio da Liga dos Desbravadores!"
+		},
+		Summary = "Volte amanhã",
 		CoolTimeQuest = 1
 	},
 	[1061] = {
-		Title = "",
+		Title = "Liga dos Desbravadores",
 		IconName = "ico_dq.bmp",
-		Description = {""},
-		Summary = "",
-		NpcSpr = "4_BOARD3",
-		NpcNavi = "alberta",
-		NpcPosX = 116,
-		NpcPosY = 71,
-		RewardEXP = "1.000.000",
-		RewardJEXP = "1.000.000",
-		RewardItemList = {
-			{ItemID = 25737, ItemNum = 7}
-		}
+		Description = {
+			"No Quarto Crescente, elimine 1 Espectro de Ktullanux."
+		},
+		Summary = "Quarto Crescente"
 	},
 	[1062] = {
-		Title = "",
+		Title = "[Espera] LD - Quarto Crescente",
 		IconName = "ico_dq.bmp",
-		Description = {""},
-		Summary = "",
+		Description = {
+			"Aguarde o período de descanso para retornar ao prédio da Liga dos Desbravadores!"
+		},
+		Summary = "Volte amanhã",
 		CoolTimeQuest = 1
 	},
 	[1063] = {
-		Title = "",
+		Title = "Liga dos Desbravadores",
 		IconName = "ico_dq.bmp",
-		Description = {""},
-		Summary = "",
-		NpcSpr = "4_BOARD3",
-		NpcNavi = "alberta",
-		NpcPosX = 116,
-		NpcPosY = 71,
-		RewardEXP = "800.000",
-		RewardJEXP = "800.000",
-		RewardItemList = {
-			{ItemID = 25737, ItemNum = 7}
-		}
+		Description = {
+			"Na Missão OS, elimine 1 Miguel."
+		},
+		Summary = "Missão OS"
 	},
 	[1064] = {
-		Title = "",
+		Title = "[Espera] LD - Missão OS",
 		IconName = "ico_dq.bmp",
-		Description = {""},
-		Summary = "",
+		Description = {
+			"Aguarde o período de descanso para retornar ao prédio da Liga dos Desbravadores!"
+		},
+		Summary = "Volte amanhã",
 		CoolTimeQuest = 1
 	},
 	[1065] = {
-		Title = "",
+		Title = "Liga dos Desbravadores",
 		IconName = "ico_dq.bmp",
-		Description = {""},
-		Summary = "",
-		NpcSpr = "4_BOARD3",
-		NpcNavi = "alberta",
-		NpcPosX = 116,
-		NpcPosY = 71,
-		RewardEXP = "800.000",
-		RewardJEXP = "800.000",
-		RewardItemList = {
-			{ItemID = 25737, ItemNum = 10}
-		}
+		Description = {
+			"Na Maldição de Glastheim, elimine 1 Origem da Maldição e 1 Amdarais."
+		},
+		Summary = "Maldição de Glastheim"
 	},
 	[1066] = {
-		Title = "",
+		Title = "[Espera] LD - Maldição de Glastheim",
 		IconName = "ico_dq.bmp",
-		Description = {""},
-		Summary = "",
+		Description = {
+			"Aguarde o período de descanso para retornar ao prédio da Liga dos Desbravadores!"
+		},
+		Summary = "Volte amanhã",
 		CoolTimeQuest = 1
 	},
 	[1067] = {
-		Title = "",
+		Title = "Liga dos Desbravadores",
 		IconName = "ico_dq.bmp",
-		Description = {""},
-		Summary = "",
-		NpcSpr = "4_BOARD3",
-		NpcNavi = "alberta",
-		NpcPosX = 116,
-		NpcPosY = 71,
-		RewardEXP = "600.000",
-		RewardJEXP = "600.000",
-		RewardItemList = {
-			{ItemID = 25737, ItemNum = 5}
-		}
+		Description = {
+			"Na Base Militar, elimine 1 Malícia."
+		},
+		Summary = "Hospital Abandonado"
 	},
 	[1068] = {
-		Title = "",
+		Title = "[Espera] LD - Base Militar",
 		IconName = "ico_dq.bmp",
-		Description = {""},
-		Summary = "",
+		Description = {
+			"Aguarde o período de descanso para retornar ao prédio da Liga dos Desbravadores!"
+		},
+		Summary = "Volte amanhã",
 		CoolTimeQuest = 1
 	},
 	[1069] = {
-		Title = "",
+		Title = "Liga dos Desbravadores",
 		IconName = "ico_dq.bmp",
-		Description = {""},
-		Summary = "",
-		NpcSpr = "4_BOARD3",
-		NpcNavi = "alberta",
-		NpcPosX = 116,
-		NpcPosY = 71,
-		RewardEXP = "600.000",
-		RewardJEXP = "600.000",
-		RewardItemList = {
-			{ItemID = 25737, ItemNum = 10}
-		}
+		Description = {
+			"No Laboratório de Wolfchev, elimine 5 Cobaias Famintas e 10 Animais Famintos."
+		},
+		Summary = "Laboratório de Wolfchev"
 	},
 	[1070] = {
-		Title = "",
+		Title = "[Espera] LD - Laboratório de Wolfchev",
 		IconName = "ico_dq.bmp",
-		Description = {""},
-		Summary = "",
+		Description = {
+			"Aguarde o período de descanso para retornar ao prédio da Liga dos Desbravadores!"
+		},
+		Summary = "Volte amanhã",
 		CoolTimeQuest = 1
 	},
 	[1071] = {
-		Title = "",
+		Title = "Liga dos Desbravadores",
 		IconName = "ico_dq.bmp",
-		Description = {""},
-		Summary = "",
-		NpcSpr = "4_BOARD3",
-		NpcNavi = "alberta",
-		NpcPosX = 116,
-		NpcPosY = 71,
-		RewardEXP = "600.000",
-		RewardJEXP = "600.000",
-		RewardItemList = {
-			{ItemID = 25737, ItemNum = 7}
-		}
+		Description = {
+			"No Memorial COR, elimine 1 EL-A17T."
+		},
+		Summary = "Memorial COR"
 	},
 	[1072] = {
-		Title = "",
+		Title = "[Espera] LD - Memorial COR",
 		IconName = "ico_dq.bmp",
-		Description = {""},
-		Summary = "",
+		Description = {
+			"Aguarde o período de descanso para retornar ao prédio da Liga dos Desbravadores!"
+		},
+		Summary = "Volte amanhã",
 		CoolTimeQuest = 1
 	},
 	[1073] = {
-		Title = "",
+		Title = "Liga dos Desbravadores",
 		IconName = "ico_dq.bmp",
-		Description = {""},
-		Summary = "",
-		NpcSpr = "4_BOARD3",
-		NpcNavi = "alberta",
-		NpcPosX = 116,
-		NpcPosY = 71,
-		RewardEXP = "400.000",
-		RewardJEXP = "400.000",
-		RewardItemList = {
-			{ItemID = 25737, ItemNum = 5}
-		}
+		Description = {
+			"No Sussurro Sombrio, elimine 3 Mortos-Vivos de cada tipo."
+		},
+		Summary = "Sussurro Sombrio"
 	},
 	[1074] = {
-		Title = "",
+		Title = "[Espera] LD - Sussurro Sombrio",
 		IconName = "ico_dq.bmp",
-		Description = {""},
-		Summary = "",
+		Description = {
+			"Aguarde o período de descanso para retornar ao prédio da Liga dos Desbravadores!"
+		},
+		Summary = "Volte amanhã",
 		CoolTimeQuest = 1
 	},
 	[1075] = {
-		Title = "",
+		Title = "Liga dos Desbravadores",
 		IconName = "ico_dq.bmp",
-		Description = {""},
-		Summary = "",
-		NpcSpr = "4_BOARD3",
-		NpcNavi = "alberta",
-		NpcPosX = 116,
-		NpcPosY = 71,
-		RewardEXP = "800.000",
-		RewardJEXP = "800.000",
-		RewardItemList = {
-			{ItemID = 25737, ItemNum = 10}
-		}
+		Description = {
+			"Na Caverna de Mors, elimine 1 Necromante de Morroc."
+		},
+		Summary = "Caverna de Mors"
 	},
 	[1076] = {
-		Title = "",
+		Title = "[Espera] LD - Caverna de Mors",
 		IconName = "ico_dq.bmp",
-		Description = {""},
-		Summary = "",
+		Description = {
+			"Aguarde o período de descanso para retornar ao prédio da Liga dos Desbravadores!"
+		},
+		Summary = "Volte amanhã",
 		CoolTimeQuest = 1
 	},
 	[1100] = {
@@ -4701,39 +4551,42 @@ QuestInfoList = {
 		Summary = ""
 	},
 	[2187] = {
-		Title = "Mudança de classe: Arcebispo",
+		Title = "Mudança de Classe: Arcebispo",
 		Description = {
-			"Encontre o sacerdote Dayan e diga a ele exatamente: \"Sou de Prontera em uma peregrinação\"."
+			"Em <NAVI>[Umbala]<INFO>umbala,139,227,0,101,0,100,0,0</INFO></NAVI>, encontre o sacerdote Dayan e diga: ^4D4DFFSou de Prontera em uma peregrinação^000000"
 		},
-		Summary = "Sacerdote Dayan em Umbala"
+		Summary = "Vá para Umbala"
 	},
 	[2188] = {
-		Title = "Mudança de classe: Arcebispo",
+		Title = "Mudança de Classe: Arcebispo",
 		Description = {
-			"O sacerdote Dayan diz que você precisa fazer uma peregrinação à grande árvore Yggdrasil. Lembre-se de que o primeiro caminho é o caminho da meditação..."
+			"O sacerdote Dayan diz que você precisa encontrar a fonte de <NAVI>[Hvergelmir]<INFO>yggdrasil01,219,47,0,101,0,100,0,0</INFO></NAVI>",
+			"Leve 1x <ITEM>[Água Benta]<INFO>523</INFO></ITEM>.",
+			"Lembre-se: ^4D4DFFA meditação é o caminho.^000000"
 		},
-		Summary = "Encontre a fonte de Hvergelmir"
+		Summary = "1x Água Benta"
 	},
 	[2189] = {
-		Title = "Mudança de classe: Arcebispo",
+		Title = "Mudança de Classe: Arcebispo",
 		Description = {
-			"Dayan prist disse que deixaria você encontrar Vinue em Hugel."
+			"O sacerdote Dayan disse que devo encontrar a irmã Vinue na Catedral de <NAVI>[Hugel]<INFO>hu_in01,205,204,0,101,0,100,0,0</INFO></NAVI>"
 		},
-		Summary = "Conversa com Vinue em Hugel"
+		Summary = "Vá para Hugel"
 	},
 	[2190] = {
-		Title = "Mudança de classe: Arcebispo",
+		Title = "Mudança de Classe: Arcebispo",
 		Description = {
-			"Você decide investigar sobre a Valquíria no Santuário de Odin para a freira Vinue."
+			"Atendendo ao pedido da irmã Vinue, você decide investigar a <NAVI>[Valquíria]<INFO>odin_tem02,281,275,0,101,0,100,0,0</INFO></NAVI>",
+			"Se você não enxergar a Valquíria, tente se aproximar um pouco mais..."
 		},
-		Summary = "Investir no santuário de Odin"
+		Summary = "Santuário de Odin"
 	},
 	[2191] = {
-		Title = "Mudança de classe: Arcebispo",
+		Title = "Mudança de Classe: Arcebispo",
 		Description = {
-			"Para proteger a Valquíria, colete Pedaços de Chifre."
+			"Seu objetivo é proteger a Valquíria andando pelo mapa. Use o mini-mapa para se guiar. No caminho, colete <ITEM>[Pedaços de Chifre]<INFO>6154</INFO></ITEM>"
 		},
-		Summary = ""
+		Summary = "Pedaços de Chifre"
 	},
 	[2192] = {
 		Title = "Doce de Guaraná",
@@ -4836,9 +4689,9 @@ QuestInfoList = {
 	[2206] = {
 		Title = "Vitória-Régia",
 		Description = {
-			"Volte para Jacira e conte a ela de sua conversa com Jaci."
+			"Jasi aceitou sua sinceridade. Agora, parece que você deve colher uma Vitória-régia e levar a mensagem para Jasira."
 		},
-		Summary = "Fale com Jacira"
+		Summary = "Fale com Jasira após obter uma Vitória-régia."
 	},
 	[2207] = {
 		Title = "Vitória-Régia",
@@ -4857,107 +4710,107 @@ QuestInfoList = {
 	[2209] = {
 		Title = "Mudança de Classe: Bioquímico",
 		Description = {
-			"Você decide estudar a Erva Gigante 'Acanthus'. Após pegar algumas folhas, você poderá começar o teste."
+			"Você decide estudar a Planta Bigibigi. Após pegar algumas folhas, você poderá começar o teste."
 		},
-		Summary = ""
+		Summary = "Planta Bigibigi"
 	},
 	[2210] = {
 		Title = "Mudança de Classe: Bioquímico",
 		Description = {
-			"Você decide estudar o exótico 'Cacto'. Após pegar algumas folhas, você poderá começar o teste."
+			"Você decide estudar a Árvore de Muka. Após pegar algumas folhas, você poderá começar o teste."
 		},
-		Summary = ""
+		Summary = "Árvore de Muka"
 	},
 	[2211] = {
 		Title = "Mudança de Classe: Bioquímico",
 		Description = {
-			"Você decide estudar a 'Videira'. Após pegar algumas folhas, você poderá começar o teste."
+			"Você decide estudar a Vinha Bogi. Após pegar algumas folhas, você poderá começar o teste."
 		},
-		Summary = ""
+		Summary = "Vinha Bogi"
 	},
 	[2212] = {
 		Title = "Mudança de Classe: Bioquímico",
 		Description = {
-			"Você decide estudar a delicada 'Dama da Noite'. Após pegar algumas folhas, você poderá começar o teste."
+			"Você decide estudar a delicada Aolatura. Após pegar algumas folhas, você poderá começar o teste."
 		},
-		Summary = ""
+		Summary = "Aolatura"
 	},
 	[2213] = {
 		Title = "Mudança de Classe: Bioquímico",
 		Description = {
-			"Você decide estudar a 'Bromélia'. Após pegar algumas folhas, você poderá começar o teste."
+			"Você decide estudar a Congra. Após pegar algumas folhas, você poderá começar o teste."
 		},
-		Summary = ""
+		Summary = "Congra"
 	},
 	[2214] = {
 		Title = "Mudança de Classe: Bioquímico",
 		Description = {
-			"Você decide estudar a 'Alfazema'. Após pegar algumas folhas, você poderá começar o teste."
+			"Você decide estudar a Grama Grudenta. Após pegar algumas folhas, você poderá começar o teste."
 		},
-		Summary = ""
+		Summary = "Grama Grudenta"
 	},
 	[2215] = {
 		Title = "Mudança de Classe: Bioquímico",
 		Description = {
-			"A Guilda dos Alquimistas apresenta Devries, um conhecido Bioquímico de Lighthalzen."
+			"A Guilda dos Alquimistas apresenta <NAVI>[Devries]<INFO>job3_gen01,25,58,0,101,0,100,0,0</INFO></NAVI>, um conhecido Bioquímico de Lighthalzen."
 		},
-		Summary = ""
+		Summary = "Fale com Devries"
 	},
 	[2216] = {
 		Title = "Mudança de Classe: Bioquímico",
 		Description = {
-			"Devries pede para você visitar Demi Calberine, até que a guilda possa avaliar a qualidade de seu trabalho."
+			"Devries pede para você visitar <NAVI>[Demi Calberine]<INFO>job3_gen01,91,48,0,101,0,100,0,0</INFO></NAVI>, até que a guilda possa avaliar a qualidade de seu trabalho."
 		},
-		Summary = ""
+		Summary = "Para Demi Calberine"
 	},
 	[2217] = {
 		Title = "Mudança de Classe: Bioquímico",
 		Description = {
-			"Demi Calberine pediu que você encontre os fragmentos de material do laboratório."
+			"Colete 10 peças de carrinho espalhadas pelo laboratório de <NAVI>[Demi Calberine]<INFO>job3_gen01,91,48,0,101,0,100,0,0</INFO></NAVI>"
 		},
-		Summary = "Colete 10 Fragmentos no laboratório"
+		Summary = "Coisas Esparramadas"
 	},
 	[2218] = {
 		Title = "Mudança de Classe: Musa",
 		Description = {
-			"O gerente de espetáculo pediu que você procure por Gui Tharra em Comodo."
+			"O Gerente pediu que você procure pelo Trovador em <NAVI>[Comodo]<INFO>comodo,140,86,0,101,0,100,0,0</INFO></NAVI>"
 		},
-		Summary = "Fale com Gui Tharra."
+		Summary = "Para Comodo"
 	},
 	[2219] = {
 		Title = "Mudança de Classe: Musa",
 		Description = {
-			"Gui Tharra falou que a parceira de dança, Danssa Rina, desfez a dupla e pediu que você fale com ela em Hugel."
+			"O Trovador disse que sua parceira de dança desistiu do grupo musical. Ele pediu que você encontre-a nos confins de <NAVI>[Hugel]<INFO>hu_in01,305,251,0,101,0,100,0,0</INFO></NAVI>"
 		},
-		Summary = "Fale com Danssa Rina"
+		Summary = "Para Hugel"
 	},
 	[2220] = {
 		Title = "Mudança de Classe: Musa",
 		Description = {
-			"Rina pediu que você treine com ela no Lago do Abismo, na parte sul de Hugel."
+			"A Odalisca Kim deseja praticar alguns exercícios. Encontre-a na entrada do <NAVI>[Lago do Abismo]<INFO>hu_fild05,342,130,0,101,0,100,0,0</INFO></NAVI>"
 		},
-		Summary = ""
+		Summary = "Odalisca Kim"
 	},
 	[2221] = {
 		Title = "Mudança de Classe: Musa",
 		Description = {
-			"Você promete derrotar 50 Novus no tempo estipulado na área do Lago do Abismo."
+			"Você tem somente 10 minutos para eliminar 50 Novus Dourados nos arredores de Hugel. Se concluir ou não conseguir à tempo, retorne para a <NAVI>[Odalisca Kim]<INFO>hu_fild05,342,130,0,101,0,100,0,0</INFO></NAVI>"
 		},
-		Summary = "Cace 50 Novus amarelos no tempo estipulado"
+		Summary = "Em 10 minutos"
 	},
 	[2222] = {
 		Title = "Mudança de Classe: Musa",
 		Description = {
-			"Rina pediu que você converse com Gui para reatar a dupla 'Dinâmicos'. Depois volte para Lutie."
+			"A Odalisca Kim se sente melhor para dançar! Dê as boas notícias ao <NAVI>[Trovador]<INFO>comodo,140,86,0,101,0,100,0,0</INFO></NAVI>; e ao Gerente em <NAVI>[Lutie]<INFO>xmas,148,131,0,101,0,100,0,0</INFO></NAVI>"
 		},
-		Summary = ""
+		Summary = "Reporte as boas notícias"
 	},
 	[2223] = {
 		Title = "Mudança de Classe: Bioquímico",
 		Description = {
-			"Demi Calburin recomendou que você se acostume com as novas funções do Carrinho."
+			"Demi Calberine recomendou que você se acostume com as novas funções do Carrinho. Por isso, deve eliminar 100 Esporos Venenosos que estão dentro da Guilda."
 		},
-		Summary = "Derrote 100 Esporos Venenosos do teste."
+		Summary = "Dentro da Gaiola"
 	},
 	[2224] = {
 		Title = "Missão Invisível",
@@ -6385,149 +6238,151 @@ QuestInfoList = {
 	[3200] = {
 		Title = "Mudança de Classe: Cav. Rúnico",
 		Description = {
-			"Manuel explica sobre como tornar-se um Cavaleiro Rúnico, e pede que você vá a Glastheim para continuar."
+			"Manuel explicou sobre como se juntar aos Cavaleiros Rúnicos, e pediu que você encontre o <NAVI>[Guia Jungberg]<INFO>glast_01,44,363,0,101,0,100,0,0</INFO></NAVI>"
 		},
-		Summary = "  "
+		Summary = "Para Glastheim"
 	},
 	[3201] = {
 		Title = "Mudança de Classe: Cav. Rúnico",
 		Description = {
-			"Encontre o representante dos Cavaleiros Rúnicos nO esconderijo secreto na Cavalaria de Glastheim."
+			"Encontre o representante dos Cavaleiros Rúnicos no 2o andar da <NAVI>[Cavalaria de Glastheim]<INFO>gl_knt02,150,55,0,101,0,100,0,0</INFO></NAVI>"
 		},
-		Summary = "  "
+		Summary = "Cavalaria de Glastheim"
 	},
 	[3202] = {
 		Title = "Mudança de Classe: Cav. Rúnico",
 		Description = {
-			"O Capitão Tigris indica a Lunarea para aplicar o teste para Cavaleiro Rúnico."
+			"O Cavaleiro Rúnico Chefe aprova sua iniciação na Guilda. Fale com a Cavaleira Rúnica <NAVI>[Lunarea]<INFO>job3_rune01,90,50,0,101,0,100,0,0</INFO></NAVI>"
 		},
-		Summary = "  "
+		Summary = "Fale com Lunarea"
 	},
 	[3203] = {
 		Title = "Mudança de Classe: Cav. Rúnico",
 		Description = {
 			"Lunarea explica o primeiro teste: derrotar todos os inimigos de uma sala."
 		},
-		Summary = "  "
+		Summary = "Teste 1"
 	},
 	[3204] = {
 		Title = "Mudança de Classe: Cav. Rúnico",
 		Description = {
-			"Lunarea confirma sua aprovação e pede que você fale com o Capitão Tigris."
+			"Lunarea confirma sua aprovação e pede que você fale com o <NAVI>[Chefe]<INFO>job3_rune01,80,60,0,101,0,100,0,0</INFO></NAVI>"
 		},
-		Summary = "  "
+		Summary = "Para o Chefe"
 	},
 	[3205] = {
 		Title = "Mudança de Classe: Cav. Rúnico",
 		Description = {
-			"O Capitão Tigris pede que você faça o segundo teste com a Renoa."
+			"O Cavaleiro Rúnico Chefe pede que você faça o segundo teste com a <NAVI>[Renoa]<INFO>job3_rune01,55,50,0,101,0,100,0,0</INFO></NAVI>"
 		},
-		Summary = "  "
+		Summary = "Teste 2"
 	},
 	[3206] = {
 		Title = "Mudança de Classe: Cav. Rúnico",
 		Description = {
-			"Você deve estudar todos os livros sobre as Runas e os Cavaleiros Rúnicos."
+			"Você deve estudar todos os livros sobre as Runas e os Cavaleiros Rúnicos.",
+			"Leia <NAVI>[Runas]<INFO>job3_rune01,40,53,0,101,0,100,0,0</INFO></NAVI>, <NAVI>[Runas e Cavaleiros]<INFO>job3_rune01,43,43,0,101,0,100,0,0</INFO></NAVI>",
+			"e <NAVI>[Princípio das Runas]<INFO>job3_rune01,50,35,0,101,0,100,0,0</INFO></NAVI>"
 		},
-		Summary = "  "
+		Summary = "Leia 3 Livros"
 	},
 	[3207] = {
 		Title = "Mudança de Classe: Cav. Rúnico",
 		Description = {
-			"Encontre-se com o sábio Serpione, um dos primeiros Cavaleiros Rúnicos."
+			"A instrução é de conversar com <NAVI>[Serpeone]<INFO>mid_camp,235,250,0,101,0,100,0,0</INFO></NAVI>, no Acampamento da Expedição da Aliança."
 		},
-		Summary = "  "
+		Summary = "Fale com Serpeone"
 	},
 	[3208] = {
 		Title = "Mudança de Classe: Cav. Rúnico",
 		Description = {
-			"Acumule energia da caçada de monstros para canalizar para a manipulação de Runas."
+			"Elimine todos os monstros e retorne para <NAVI>[Serpeone]<INFO>mid_camp,235,250,0,101,0,100,0,0</INFO></NAVI>"
 		},
-		Summary = " "
+		Summary = "Termine a caçada"
 	},
 	[3209] = {
 		Title = "Mudança de Classe: Cav. Rúnico",
 		Description = {
-			"Acumule energia da caçada de monstros para canalizar para a manipulação de Runas."
+			"Acumule energia da caçada de monstros para canalizar para a manipulação de Runas. Elimine 10 Dullahan em Nifflheim."
 		},
-		Summary = "Derrote 10 Dullahans"
+		Summary = "Caça ao Dullahan"
 	},
 	[3210] = {
 		Title = "Mudança de Classe: Cav. Rúnico",
 		Description = {
-			"Acumule energia da caçada de monstros para canalizar para a manipulação de Runas."
+			"Acumule energia da caçada de monstros para canalizar para a manipulação de Runas. Elimine 10 Mascarado em Nifflheim."
 		},
-		Summary = "Derrote 10 Mascarados"
+		Summary = "Caça ao Mascarado"
 	},
 	[3211] = {
 		Title = "Mudança de Classe: Cav. Rúnico",
 		Description = {
-			"Acumule energia da caçada de monstros para canalizar para a manipulação de Runas."
+			"Acumule energia da caçada de monstros para canalizar para a manipulação de Runas. Elimine 10 Quve em Nifflheim."
 		},
-		Summary = "Derrote 10 Quves"
+		Summary = "Caça ao 10 Quve"
 	},
 	[3212] = {
 		Title = "Mudança de Classe: Cav. Rúnico",
 		Description = {
-			"Acumule energia da caçada de monstros para canalizar para a manipulação de Runas."
+			"Acumule energia da caçada de monstros para canalizar para a manipulação de Runas. Elimine 10 Poltergeist em Nifflheim."
 		},
-		Summary = "Derrote 10 Poltergeists"
+		Summary = "Caça ao Poltergeist"
 	},
 	[3213] = {
 		Title = "Mudança de Classe: Cav. Rúnico",
 		Description = {
-			"Você concluiu todas as instruções do Sábio Serfeone. Vamos voltar para o <NAVI>[Renoa]<INFO>job3_rune01,55,50,0,101,0</INFO></NAVI>, Cavaleiro Rúnico Lótus Vermelho"
+			"Você concluiu todas as instruções de Serpeone. Vamos voltar para a Cavaleira Rúnica <NAVI>[Renoa]<INFO>job3_rune01,55,50,0,101,0</INFO></NAVI>"
 		},
-		Summary = ""
+		Summary = "Fale com Renoa"
 	},
 	[3214] = {
 		Title = "Mudança de Classe: Cav. Rúnico",
 		Description = {
-			"Faça 20 pedras rúnicas com a Rune Furnace atrás de Renoa. Os livros da biblioteca contêm todo o conhecimento acumulado sobre Rune Stones. Avise Renoa quando você tiver 20."
+			"Renoa quer ver sua prática! Use os livros que leu na biblioteca para criar 20 Runas na <NAVI>[Fornalha]<INFO>job3_rune01,57,53,0,101,0</INFO></NAVI>. Em seguida, mostre-as para <NAVI>[Renoa]<INFO>job3_rune01,55,50,0,101,0</INFO></NAVI>"
 		},
-		Summary = ""
+		Summary = "Use a Fornalha"
 	},
 	[3215] = {
 		Title = "Mudança de Classe: Cav. Rúnico",
 		Description = {
-			"Você passou no segundo teste. Volte para o Capitão Tigris."
+			"Você passou no segundo teste. Volte para o Cavaleiro Rúnico <NAVI>[Chefe]<INFO>job3_rune01,80,60,0,101,0,100,0,0</INFO></NAVI>"
 		},
-		Summary = ""
+		Summary = "Fale com o Chefe"
 	},
 	[3216] = {
 		Title = "Mudança de Classe: Cav. Rúnico",
 		Description = {
-			"Você deve aceitar a missão de Velpino, um Cavaleiro Rúnico escuro como as sombras."
+			"Você deve aceitar a missão de <NAVI>[Velpino]<INFO>job3_rune01,114,50,0,101,0,100,0,0</INFO></NAVI>, um Cavaleiro Rúnico de armadura escura como as sombras."
 		},
-		Summary = ""
+		Summary = "Fale com Velpino"
 	},
 	[3217] = {
 		Title = "Mudança de Classe: Cav. Rúnico",
 		Description = {
 			"Antes de fazer o último teste, você precisa remover todo o seu equipamento, exceto uma arma de uma mão, um escudo ou uma arma de duas mãos, e não pode pesar mais de 400."
 		},
-		Summary = ""
+		Summary = "Exame Final"
 	},
 	[3218] = {
 		Title = "Mudança de Classe: Cav. Rúnico",
 		Description = {
-			"Você elimina os 3 monstros e passa no teste. Converse com Velpino."
+			"Você eliminou os 3 monstros e passou no teste. Converse com <NAVI>[Velpino]<INFO>job3_rune01,114,50,0,101,0,100,0,0</INFO></NAVI>"
 		},
-		Summary = ""
+		Summary = "Exame Final"
 	},
 	[3219] = {
 		Title = "Mudança de Classe: Cav. Rúnico",
 		Description = {
-			"Todas as etapas foram completas. Converse com o Capitão Tigris."
+			"Todas as etapas foram completas. Converse com o Cavaleiro Rúnico <NAVI>[Chefe]<INFO>job3_rune01,80,60,0,101,0,100,0,0</INFO></NAVI>"
 		},
-		Summary = ""
+		Summary = "Fale com o Chefe"
 	},
 	[3220] = {
 		Title = "Mudança de Classe: Cav. Rúnico",
 		Description = {
-			"Um aspirane precisa esperar 10 minutos antes de entrar novamente em uma sala de teste."
+			"Você precisa esperar 10 minutos antes de entrar novamente em na sala de teste."
 		},
-		Summary = ""
+		Summary = "10 minutos"
 	},
 	[3250] = {
 		Title = "O que é esse Curativo?",
@@ -15725,39 +15580,39 @@ QuestInfoList = {
 		Summary = "Reserva de Espaço"
 	},
 	[7091] = {
-		Title = "Conselho de Daora",
+		Title = "Mudança de Classe: Sicário",
 		Description = {
-			"Fale com Madelle em uma loja, Trovan em uma esquadra, e Crave em uma loja de utilidades."
+			"'É uma boa ideia conduzir algumas investigações. Alguns dos aldeões de olhos atentos seriam Madelle na taverna, o vigilante Trovan e Crave na loja de ferramentas.' - Daora"
 		},
-		Summary = ""
+		Summary = "Conselho de Daora 1"
 	},
 	[7092] = {
-		Title = "Conselho de Daora",
+		Title = "Mudança de Classe: Sicário",
 		Description = {
-			"Encontre Melissa em uma das ruas da vila. Ela terá um presente útil."
+			"'Então precisamos encontrar uma ajudante. Há uma garota chamada Melissa em um lugar com vista para a entrada da cidade. Ela tem uma habilidade única, então encontre-a. Ela será útil.' - Daora"
 		},
-		Summary = ""
+		Summary = "Conselho de Daora 2"
 	},
 	[7093] = {
-		Title = "Conselho de Daora",
+		Title = "Mudança de Classe: Sicário",
 		Description = {
-			"Você poderá encontrar um beco na parte leste da vila. Encontre Melissa neste beco."
+			"'Se você seguir para leste a partir da cidade, encontrará um beco residencial que se estende para o norte. Será que este é o beco sem saída que Melissa mencionou? Procure por aquele beco.' - Daora"
 		},
-		Summary = ""
+		Summary = "Conselho de Daora 3"
 	},
 	[7094] = {
-		Title = "Conselho de Daora",
+		Title = "Mudança de Classe: Sicário",
 		Description = {
-			"Fale com o chaveiro em Rachel."
+			"'Para descobrir a função da chave, visite o chaveiro de Rachel. Ele é um chaveiro renomado, então é provável que alguém na cidade o conheça.' - Daora"
 		},
-		Summary = ""
+		Summary = "Conselho de Daora 4"
 	},
 	[7095] = {
-		Title = "Conselho de Daora",
+		Title = "Mudança de Classe: Sicário",
 		Description = {
-			"Vá para o campo a noroeste de Veins."
+			"'Vá para o campo a noroeste de Veins, e há um longo cânion que se estende para nordeste a partir desse local. Provavelmente está nessa direção.' - Daora"
 		},
-		Summary = ""
+		Summary = "Conselho de Daora 5"
 	},
 	[7096] = {
 		Title = "Mudança de Classe: Sicário",
@@ -15788,123 +15643,127 @@ QuestInfoList = {
 		Summary = "Mostre para Bercasell"
 	},
 	[7100] = {
-		Title = "Uma mensagem de Bercascell",
+		Title = "Mudança de Classe: Sicário",
 		Description = {
-			"Pegue o equipamento da guilda."
+			"'É pouco, mas a guilda fornecerá equipamentos mais tarde. Não se esqueça de passar por lá para pegá-los... Claro, não sei quando estarão prontos, mas... De qualquer forma, eu os entregarei a você. Não se esqueça.' - Bercasell."
 		},
 		Summary = "Fale com Bercasell"
 	},
 	[7101] = {
 		Title = "Mudança de Classe: Sicário",
 		Description = {
-			"Você deve visitar a taverna subterrânea em Morroc."
+			"Por recomendação de um Membro da Guilda em Morroc, você deve encontrar uma taverna subterrânea em <NAVI>[Veins]<INFO>job3_guil01,82,91,0,101,0,100,0,0</INFO></NAVI>"
 		},
-		Summary = "Visite a taverna subterrânea"
+		Summary = "Taverna em Veins"
 	},
 	[7102] = {
 		Title = "Mudança de Classe: Sicário",
 		Description = {
-			"Você deve conversar com Mayshell na sala no final do beco."
+			"Você achou a filial da Guilda dos Sicários em Veins e se encontrou com Daora. Para iniciar a missão, encontre Mayshell na <NAVI>[sala secreta]<INFO>job3_guil01,82,91,0,101,0,100,0,0</INFO></NAVI>"
 		},
 		Summary = "Converse com Mayshell"
 	},
 	[7103] = {
 		Title = "Mudança de Classe: Sicário",
 		Description = {
-			"Você deve achar um estranho em Veins como primeira tarefa da guilda dos Mercenários."
+			"A missão especial da Guilda dos Sicários finalmente começou. A primeira tarefa é encontrar o estranho em Veins.",
+			"Vamos coletar informações das pessoas:",
+			"<NAVI>[Jovem Mercador]<INFO>ve_in,246,303,0,101,0,100,0,0</INFO></NAVI>",
+			"<NAVI>[Vigilante]<INFO>veins,291,215,0,101,0,100,0,0</INFO></NAVI>",
+			"<NAVI>[Senhor]<INFO>veins,235,126,0,101,0,100,0,0</INFO></NAVI>"
 		},
-		Summary = ""
+		Summary = "Investigação"
 	},
 	[7104] = {
 		Title = "Mudança de Classe: Sicário",
 		Description = {
-			"Melissa conta sobre Estillda. Ela passará no beco em uma hora."
+			"Obtive informações sobre Estilda com a Melissa. Ela disse que em ^4D4DFF1 hora^000000 passaria pelo <NAVI>[beco sem saída]<INFO>veins,337,284,0,101,0,100,0,0</INFO></NAVI>"
 		},
 		Summary = "Encontre Estillda"
 	},
 	[7105] = {
 		Title = "Mudança de Classe: Sicário",
 		Description = {
-			"Você não conseguiu encontrar Estillda, mas ela voltará aqui. Volte 10 minutos depois."
+			"Você não conseguiu encontrar Estillda, mas ela voltará aqui. Após 10 minutos, volte ao <NAVI>[beco sem saída]<INFO>veins,337,284,0,101,0,100,0,0</INFO></NAVI>"
 		},
 		Summary = "Encontre Estillda"
 	},
 	[7106] = {
 		Title = "Mudança de Classe: Sicário",
 		Description = {
-			"Você encontrou Estillda. Ela foi para uma estalagem em Veins."
+			"Você encontrou Estillda! Ela foi para os fundos da <NAVI>[Guilda dos Sicários]<INFO>job3_guil01,82,91,0,101,0,100,0,0</INFO></NAVI>"
 		},
-		Summary = ""
+		Summary = "Siga Estilda"
 	},
 	[7107] = {
 		Title = "Mudança de Classe: Sicário",
 		Description = {
-			"Você deve encontrar Estillda no porão de um depósito após 3 horas."
+			"Você deve encontrar Estillda após ^4D4DFF3 horas^000000 no <NAVI>[porão do depósito]<INFO>veins,206,56,0,101,0,100,0,0</INFO></NAVI>"
 		},
-		Summary = ""
+		Summary = "Aguarde 3 horas"
 	},
 	[7108] = {
 		Title = "Mudança de Classe: Sicário",
 		Description = {
-			"Você consegue uma chave suspeita. Descubra a origem deste item."
+			"Você obteve uma chave com um emblema ornamentado de um oficial da Dandelion. Vamos encontrar algum <NAVI>[Chaveiro]<INFO>ra_in01,175,196,0,101,0,100,0,0</INFO></NAVI>. Depois, vamos reportar para <NAVI>[Mayshell]<INFO>job3_guil01,82,91,0,101,0,100,0,0</INFO></NAVI>"
 		},
-		Summary = "Descubra mais informações sobre a chave"
+		Summary = "Encontre um Chaveiro"
 	},
 	[7109] = {
 		Title = "Mudança de Classe: Sicário",
 		Description = {
-			"A chave é de um local em Veins. Encontre um representante da guilda na cidade."
+			"A chave da mansão era de um Bispo que morava perto de Veins. Você pode obter mais informações com <NAVI>[Renzak]<INFO>ve_fild05,327,308,0,101,0,100,0,0</INFO></NAVI>"
 		},
-		Summary = ""
+		Summary = "Campos de Veins"
 	},
 	[7110] = {
 		Title = "Mudança de Classe: Sicário",
 		Description = {
-			"Renzak disse que o alvo está na mansão. Prepare-se para encontrar o alvo."
+			"Renzack diz que seu alvo final é esta mansão. Infiltre-se o mais rápido possível e elimine o alvo. ^4D4DFFVocê tem 10 minutos.^000000"
 		},
-		Summary = "Encontre o oficial desaparecido."
+		Summary = "Em 10 minutos"
 	},
 	[7111] = {
 		Title = "Mudança de Classe: Sicário",
 		Description = {
-			"Elimine o alvo e retorne à guilda."
+			"Você derrotou o alvo final da guilda e concluiu a missão. Relate o ocorrido para a <NAVI>[Guilda]<INFO>job3_guil01,16,20,0,101,0,100,0,0</INFO></NAVI>"
 		},
-		Summary = ""
+		Summary = "Volte para Veins"
 	},
 	[7112] = {
-		Title = "Informações de Madelle",
+		Title = "Mudança de Classe: Sicário",
 		Description = {
-			"Um homem cansado para para comer algo. Ele parece novo por aqui."
+			"'Certa noite, um homem com aparência exausta entrou e comprou comida. Parecia um padre, e eu nunca o tinha visto antes.' - Madelle"
 		},
-		Summary = ""
+		Summary = "Relato de Madelle"
 	},
 	[7113] = {
-		Title = "Informações do Crave",
+		Title = "Mudança de Classe: Sicário",
 		Description = {
-			"Uma garota faz compras regularmente aqui, mas ninguém sabe onde ela mora."
+			"'Há uma garota loira que compra itens diariamente, mas, estranhamente, ninguém sabe onde ela mora. Onde será que ela mora?' - Crave"
 		},
-		Summary = ""
+		Summary = "Relato de Crave"
 	},
 	[7114] = {
-		Title = "Informações do Trovan",
+		Title = "Mudança de Classe: Sicário",
 		Description = {
-			"Este rapaz trás muitas coisas, mas ninguém sabe quem ele é."
+			"'Ultimamente, um homem tem entrado e saído carregando uma grande quantidade de mercadorias. Sua identidade é desconhecida e seu paradeiro é incerto. Ele não é hóspede da pousada nem um novo residente, então estamos de olho nele.' - Trovan"
 		},
-		Summary = ""
+		Summary = "Relato de Trovan"
 	},
 	[7115] = {
-		Title = "Informações de um vendedor ambulante",
+		Title = "Mudança de Classe: Sicário",
 		Description = {
-			"Esta garota compra coisas caras todos os dias, mas ninguém sabe onde ela mora."
+			"'Há uma mulher de residência desconhecida que compra ingredientes frescos e de alta qualidade todos os dias, apesar de sua condição social.' - Peddler"
 		},
-		Summary = ""
+		Summary = "Relato de Peddler"
 	},
 	[7116] = {
-		Title = "Informações de um idoso",
+		Title = "Mudança de Classe: Sicário",
 		Description = {
-			"Esta garota compra coisas modestas todos os dias, mas ninguém sabe onde ela mora."
+			"'Há uma mulher que compra frequentemente itens. Mas não sei onde ela mora nem quem ela é. Não a vejo há alguns dias... Será que ela acabou de se mudar?' - Senhor"
 		},
-		Summary = ""
+		Summary = "Relato do Senhor"
 	},
 	[7117] = {
 		Title = "Sua primeira missão!",
@@ -16206,151 +16065,174 @@ QuestInfoList = {
 		Summary = "Fale com Boya"
 	},
 	[7160] = {
-		Title = "Decifrar o código",
+		Title = "Mudança de Classe: Renegado",
 		Description = {
-			"Você recebeu um código secreto de Urupa. O código é [ 43231114345243 / 11441531241542 / 2433 / 3542343344154211 ]."
+			"Você recebeu um código secreto do <NAVI>[Homem Assustador]<INFO>in_rogue,379,101,0,100,0,0</INFO></NAVI>",
+			"O código é: [ ^4D4DFF43231114345243 / 11441531241542 / 2433 / 3542343344154211 ^000000]"
 		},
-		Summary = "Decifre-o e encontre o gerente lá"
+		Summary = "Gerente em Prontera"
 	},
 	[7161] = {
-		Title = "Criptograma Misterioso",
+		Title = "Mudança de Classe: Renegado",
 		Description = {
-			"Você recebeu um novo criptograma de Graham. O criptograma é [ 5 15 24 8 / 9 12 21 8 / 18 17 / 23 24 21 23 15 8 / 12 22 15 4 17 7 / 23 11 12 21 7 / 9 15 18 18 21 ] [Chave: 3]"
+			"Você recebeu um novo criptograma de <NAVI>[Graham]<INFO>s_atelier,65,123,0,101,0,100,0,0</INFO></NAVI>",
+			"O criptograma:",
+			"[^4D4DFF 5 15 24 8 / 9 12 21 8 / 18 17 / 23 24 21 23 15 8 / 12 22 15 4 17 7 / 23 11 12 21 7 / 9 15 18 18 21 ^000000]"
 		},
-		Summary = ""
+		Summary = "Chave 3"
 	},
 	[7162] = {
-		Title = "Criptograma Misterioso",
+		Title = "Mudança de Classe: Renegado",
 		Description = {
-			"Você recebeu um novo criptograma de Graham. O criptograma é [ 6 16 25 9 / 10 13 22 9 / 19 18 / 24 25 22 24 16 9 / 13 23 16 5 18 8 / 24 12 13 22 8 / 10 16 19 19 22 ] [Chave: 4]"
+			"Você recebeu um novo criptograma de <NAVI>[Graham]<INFO>s_atelier,65,123,0,101,0,100,0,0</INFO></NAVI>",
+			"O criptograma é [^4D4DFF 6 16 25 9 / 10 13 22 9 / 19 18 / 24 25 22 24 16 9 / 13 23 16 5 18 8 / 24 12 13 22 8 / 10 16 19 19 22 ^000000]"
 		},
-		Summary = ""
+		Summary = "Chave 4"
 	},
 	[7163] = {
-		Title = "Criptograma Misterioso",
+		Title = "Mudança de Classe: Renegado",
 		Description = {
-			"Você recebeu um novo criptograma de Graham. O criptograma é [ 7 17 26 10 / 11 14 23 10 / 20 19 / 25 26 23 25 17 10 / 14 24 17 6 19 9 / 25 13 14 23 9 / 11 17 20 20 23 ] [Chave: 5]"
+			"Você recebeu um novo criptograma de <NAVI>[Graham]<INFO>s_atelier,65,123,0,101,0,100,0,0</INFO></NAVI>",
+			"O criptograma é [^4D4DFF 7 17 26 10 / 11 14 23 10 / 20 19 / 25 26 23 25 17 10 / 14 24 17 6 19 9 / 25 13 14 23 9 / 11 17 20 20 23 ^000000]"
 		},
-		Summary = ""
+		Summary = "Chave 5"
 	},
 	[7164] = {
-		Title = "Caça à Sombra da Decepção",
+		Title = "Mudança de Classe: Renegado",
 		Description = {
-			"A chama da Ilha das Tartatugas parece relacionada à Sombra da Decepção. Derrote a sombra."
+			"A Sombra da Decepção parece ter alguma relação com a <NAVI>[Chama]<INFO>tur_dun03,38,209,0,101,0,100,0,0</INFO></NAVI>",
+			"Derrote a Sombra para cortar essa conexão."
 		},
-		Summary = "Derrote a Sombra da Decepção"
+		Summary = "Elimine o monstro"
 	},
 	[7165] = {
-		Title = "A chave do engano",
+		Title = "Mudança de Classe: Renegado",
 		Description = {
-			"Você encontrou uma chave na Ilha das Tartarugas. Reporte suas descobertas a Graham."
+			"Você encontrou a ^4D4DFFChave da Decepção^000000 na Ilha da Tartaruga.",
+			"Reporte suas descobertas a <NAVI>[Graham]<INFO>s_atelier,65,123,0,101,0,100,0,0</INFO></NAVI>"
 		},
-		Summary = ""
+		Summary = "Volte ao Gerente"
 	},
 	[7166] = {
-		Title = "Oficina de sombras de Rachel",
+		Title = "Mudança de Classe: Renegado",
 		Description = {
-			"Graham pediu para você investigar na guilda dos Renegados em Rachel."
+			"Graham pediu para você ir até o ateliê de Rachel, falar <NAVI>[Paulo]<INFO>s_atelier,168,65,0,101,0,100,0,0</INFO></NAVI>"
 		},
 		Summary = "Vá a Rachel"
 	},
 	[7167] = {
-		Title = "Criptograma misterioso",
+		Title = "Mudança de Classe: Renegado",
 		Description = {
-			"Paulo mostrou outro código secreto: [R-E-N-N-N-D / L-N-N-W-W-N-D ]. Quando você encontrar, fale com Paulo."
+			"Um outro código secreto aparece: [^4D4DFFR-E-N-N-N-D / L-N-N-W-W-N-D ^000000].",
+			"Quando você encontrar, fale com o <NAVI>[Paulo]<INFO>s_atelier,168,65,0,101,0,100,0,0</INFO></NAVI>"
 		},
-		Summary = ""
+		Summary = "Fale com o Gerente"
 	},
 	[7168] = {
-		Title = "Criptograma Misterioso - 3º",
+		Title = "Mudança de Classe: Renegado",
 		Description = {
-			"Você recebeu o criptograma e a palavra-chave que Paulo tinha. [R-E-N-N-N-D / L-N-N-W-W-N-D ] Esses criptogramas parecem indicar o nome do lugar e a direção. A palavra-chave separada é [SEED]"
+			"Você recebeu o criptograma e a palavra-chave do <NAVI>[Paulo]<INFO>s_atelier,168,65,0,101,0,100,0,0</INFO></NAVI>",
+			"Esses criptogramas parecem indicar o nome do lugar e a direção.",
+			"[^4D4DFF R-E-N-N-N-D / L-N-N-W-W-N-D ^000000]",
+			"A palavra-chave separada é [^4D4DFFSemente^000000]"
 		},
-		Summary = "Encontre o local certo"
+		Summary = "Chave: Semente"
 	},
 	[7169] = {
-		Title = "Criptograma Misterioso - 3º",
+		Title = "Mudança de Classe: Renegado",
 		Description = {
-			"Recebi o criptograma e a palavra-chave que Paul tinha. [R-E-N-N-N-D / L-N-N-W-W-N-D ] Esse criptograma parece indicar o nome do lugar e a direção. A palavra-chave separada é [FOOT]"
+			"Você recebeu o criptograma e a palavra-chave do <NAVI>[Paulo]<INFO>s_atelier,168,65,0,101,0,100,0,0</INFO></NAVI>",
+			"Esses criptogramas parecem indicar o nome do lugar e a direção.",
+			"[^4D4DFF R-E-N-N-N-D / L-N-N-W-W-N-D ^000000]",
+			"A palavra-chave separada é [^4D4DFFPé^000000]"
 		},
-		Summary = "Encontre o local certo."
+		Summary = "Chave: Pé"
 	},
 	[7170] = {
-		Title = "Criptograma Misterioso - 3º",
+		Title = "Mudança de Classe: Renegado",
 		Description = {
-			"Você recebeu o criptograma e a palavra-chave que Paul tinha. [R-E-N-N-N-D / L-N-N-W-W-N-D ] Esse criptograma parece indicar o nome do local e a direção. A palavra-chave separada é [COLD]"
+			"Você recebeu o criptograma e a palavra-chave do <NAVI>[Paulo]<INFO>s_atelier,168,65,0,101,0,100,0,0</INFO></NAVI>",
+			"Esses criptogramas parecem indicar o nome do lugar e a direção.",
+			"[^4D4DFF R-E-N-N-N-D / L-N-N-W-W-N-D ^000000]",
+			"A palavra-chave separada é [^4D4DFFFrio^000000]"
 		},
-		Summary = "Encontre o local certo."
+		Summary = "Chave: Frio"
 	},
 	[7171] = {
-		Title = "Caçar a Sombra da Ilusão",
+		Title = "Mudança de Classe: Renegado",
 		Description = {
-			"A chama está ligada a esta sombra. Para prosseguir, derrote a sombra."
+			"A Sombra da Ilusão parece ter alguma relação com a <NAVI>[Chama]<INFO>ice_dun02,206,223,0,101,0,100,0,0</INFO></NAVI>",
+			"Derrote a Sombra para cortar essa conexão."
 		},
-		Summary = "Derrote a Sombra da Ilusão"
+		Summary = "Elimine o monstro"
 	},
 	[7172] = {
-		Title = "A chave da ilusão",
+		Title = "Mudança de Classe: Renegado",
 		Description = {
-			"Você encontrou uma chave no interior da Caverna de Gelo. Retorne a Paulo."
+			"Você encontrou a ^4D4DFFChave da Ilusão^000000 na Caverna de Gelo.",
+			"Reporte suas descobertas ao <NAVI>[Paulo]<INFO>s_atelier,168,65,0,101,0,100,0,0</INFO></NAVI>"
 		},
-		Summary = ""
+		Summary = "Volte a Paulo"
 	},
 	[7173] = {
-		Title = "Mensagem de Paulo para Haled",
+		Title = "Mudança de Classe: Renegado",
 		Description = {
-			"Encontre Haled no Juno Shadow Workshop. Se ele não cooperar, dê a ele esta mensagem de Paul:^4d4dffEu sei o que você fez no verão passado!^000000"
+			"Vá ao ateliê de Juno e fale com <NAVI>[Haled]<INFO>s_atelier,167,129,0,101,0,100,0,0</INFO></NAVI>",
+			"Se ele não cooperar, diga a mensagem de Paulo: ^4D4DFFEu sei o que você fez no verão passado!^000000"
 		},
-		Summary = ""
+		Summary = "Vá para Juno"
 	},
 	[7174] = {
-		Title = "Criptograma misterioso",
+		Title = "Mudança de Classe: Renegado",
 		Description = {
-			"Haled falou sobre uma canção. Encontre o local que a música fala."
+			"Haled falou sobre uma canção. Encontre o local que a música menciona:",
+			"[^4D4DFF Raiz fina da árvore da Vida / Lágrimas dos vivos / Eles eram, mas não éramos nós / Habitantes da noite esquecida ^000000]"
 		},
-		Summary = ""
+		Summary = "Decifre a canção"
 	},
 	[7175] = {
-		Title = "Caçar a Sombra do Prazer",
+		Title = "Mudança de Classe: Renegado",
 		Description = {
-			"A chama vermelha se transformou na Sombra do Prazer."
+			"A Sombra do Prazer parece ter alguma relação com a <NAVI>[Chama]<INFO>niflheim,230,276,,0,101,0,100,0,0</INFO></NAVI>",
+			"Derrote a Sombra para cortar essa conexão."
 		},
-		Summary = "Derrote a Sombra do Prazer"
+		Summary = "Elimine o monstro"
 	},
 	[7176] = {
-		Title = "A chave do prazer",
+		Title = "Mudança de Classe: Renegado",
 		Description = {
-			"Você encontrou uma chave novamente. Fale com Haled."
+			"Você encontrou a ^4D4DFFChave do Prazer^000000 na Caverna de Gelo.",
+			"Reporte suas descobertas ao <NAVI>[Haled]<INFO>s_atelier,167,129,0,101,0,100,0,0</INFO></NAVI>"
 		},
-		Summary = ""
+		Summary = "Volte ao Gerente"
 	},
 	[7177] = {
-		Title = "O Atelier de Lighthalzen",
+		Title = "Mudança de Classe: Renegado",
 		Description = {
-			"Haled pediu que você fale com Vicente, em Lighthalzen."
+			"Haled pediu que você vá para o ateliê de Lighthalzen falar com <NAVI>[Vicente]<INFO>s_atelier,24,71,0,101,0,100,0,0</INFO></NAVI>"
 		},
-		Summary = ""
+		Summary = "Para Lighthalzen"
 	},
 	[7178] = {
-		Title = "Destino das chaves",
+		Title = "Mudança de Classe: Renegado",
 		Description = {
-			"As 3 chaves que você encontrou podem ser usadas em uma estátua na Torre de Thanatos."
+			"As 3 chaves que você encontrou podem ser usadas em uma estátua na <NAVI>[Torre de Thanatos]<INFO>tha_t01,149,228,0,101,0,100,0,0</INFO></NAVI>"
 		},
-		Summary = ""
+		Summary = "Para a Torre de Thanatos"
 	},
 	[7179] = {
-		Title = "Tesouro?",
+		Title = "Mudança de Classe: Renegado",
 		Description = {
-			"Você encontrou um pincel. Fale com Vincente."
+			"Você encontrou o Pincel Mágico. Fale com <NAVI>[Vicente]<INFO>s_atelier,24,71,0,101,0,100,0,0</INFO></NAVI>"
 		},
 		Summary = "Fale com Vincente"
 	},
 	[7180] = {
-		Title = "Mensagem de Doomk",
+		Title = "Mudança de Classe: Renegado",
 		Description = {
-			"O pincel será usado pela guilda."
+			"A mensagem de Dumk é: 'A guilda enviará suprimentos em breve. Não sei exatamente quando, porém. Eles chegarão algum dia, então embalarei os seus Pincéis quando chegarem. Portanto, não se esqueça de passar por aqui de vez em quando.'"
 		},
-		Summary = ""
+		Summary = "Para Dumk"
 	},
 	[7181] = {
 		Title = "Anel de Karacas",
@@ -20072,11 +19954,11 @@ QuestInfoList = {
 		Summary = "Acesso ao Biolaboratório"
 	},
 	[7775] = {
-		Title = "Mudança de Classe: Bioquímicos",
+		Title = "Mudança de Classe: Bioquímico",
 		Description = {
-			"Demmi Calverine disse que a melhor maneira de se acostumar com um carrinho é balançá-lo contra alguma coisa. Havia muitos esporos de veneno dentro da gaiola..."
+			"Demi Calberine recomendou que você se acostume com as novas funções do Carrinho. Por isso, deve eliminar 100 Esporos Venenosos que estão dentro da Guilda."
 		},
-		Summary = "Derrote 100 esporos venenosos na gaiola"
+		Summary = "Dentro da Jaula"
 	},
 	[7776] = {
 		Title = "Ilusão da Lua",
@@ -22619,65 +22501,65 @@ QuestInfoList = {
 	[8254] = {
 		Title = "Mudança de Classe: Sentinela",
 		Description = {
-			"Deixe seu peso '0' e procure por Rescue na Ilha das Tartarugas."
+			"Na ilha de Tartaruga, fique com zero de peso e fale com o <NAVI>[Instrutor]<INFO>tur_dun01,156,36,0,101,0,100,0,0</INFO></NAVI>"
 		},
-		Summary = "Fale com Rescue"
+		Summary = "Zero de peso"
 	},
 	[8255] = {
 		Title = "Mudança de Classe: Sentinela",
 		Description = {
-			"Passe no teste de Rescue."
+			"Inicie o teste falando novamente com o <NAVI>[Instrutor]<INFO>tur_dun01,156,36,0,101,0,100,0,0</INFO></NAVI>"
 		},
-		Summary = "Fale com Rescue"
+		Summary = "Inicío do teste"
 	},
 	[8256] = {
 		Title = "Mudança de Classe: Sentinela",
 		Description = {
-			"Siga com cuidado até a área de testes."
+			"O teste de sobrevivência consiste em atravessar a Ilha da Tartaruga para encontrar o outro <NAVI>[Instrutor]<INFO>tur_dun01,91,169,0,101,0,100,0,0</INFO></NAVI>"
 		},
-		Summary = "Procure a área de testes"
+		Summary = "Instrutor de Teste"
 	},
 	[8257] = {
 		Title = "Mudança de Classe: Sentinela",
 		Description = {
-			"O primeiro teste consiste em derrotar uma Lavadeira e coletar 1 Asa de Libélula."
+			"O primeiro teste do <NAVI>[Instrutor]<INFO>tur_dun01,91,169,0,101,0,100,0,0</INFO></NAVI>: cace 1 Lavadeira e colete 1 <ITEM>[Asa de Libélula]<INFO>6959</INFO></ITEM>"
 		},
-		Summary = "Derrote 1 Lavadeira e colete 1 Asa de Libélula."
+		Summary = "1x Asa de Libélula"
 	},
 	[8258] = {
 		Title = "Mudança de Classe: Sentinela",
 		Description = {
-			"Você passou no primeiro teste. Prossiga para o próximo."
+			"Você passou no primeiro teste. Continue falando com o Instrutor para seguir ao próximo teste."
 		},
-		Summary = "Fale com Lágrima"
+		Summary = "Instrutor de Teste"
 	},
 	[8259] = {
 		Title = "Mudança de Classe: Sentinela",
 		Description = {
-			"O teste é composto de 3 partes."
+			"O teste prático é composto de 3 partes. Entre na sala preparada pela equipe e aguarde. O teste é feito individualmente, portanto, se houver muitas pessoas, você poderá ter que esperar um pouco. Em breve, você fará parte dos <NAVI>[Sentinelas]<INFO>job3_rang01,90,43,0,101,0,100,0,0</INFO></NAVI>"
 		},
-		Summary = "Lágrima lhe encaminha para os testes"
+		Summary = "Teste Prático"
 	},
 	[8260] = {
 		Title = "Mudança de Classe: Sentinela",
 		Description = {
-			"Navegue pelos monstros e entregue a carta a Caution. Certifique-se de usar todas as 10 Bomb Ring Capsules antes de chegar ao Test Supervisor Caution."
+			"Explore a floresta até encontrar a instrutora no final da passagem. Certifique-se de usar todas as 10 Cápsulas de Bombardeio antes de chegar nela."
 		},
-		Summary = ""
+		Summary = "Complete o teste"
 	},
 	[8261] = {
 		Title = "Mudança de Classe: Sentinela",
 		Description = {
-			"O terceiro teste pede que você invoque um lobo."
+			"O terceiro teste consiste em invocar um filhote de lobo do deserto para desarmar bombas."
 		},
-		Summary = "Invoque o lobo"
+		Summary = "Complete o teste"
 	},
 	[8262] = {
 		Title = "Mudança de Classe: Sentinela",
 		Description = {
-			"Parabéns! Você passou em todos os testes!"
+			"Parabéns! Você passou em todos os testes! Para mudar de classe, fale com o <NAVI>[Mestre dos Sentinelas]<INFO>job3_rang01,90,43,0,101,0,100,0,0</INFO></NAVI>"
 		},
-		Summary = "Fale novamente para virar Sentinela"
+		Summary = "Mestre dos Sentinelas"
 	},
 	[8265] = {
 		Title = "Uma vez por uma hora!",
@@ -27761,86 +27643,86 @@ QuestInfoList = {
 	[10090] = {
 		Title = "Mudança de Classe: Mecânico",
 		Description = {
-			"Chainheart conta uma história sobre os Mecânicos."
+			"Escute a história dos Mecânicos falando com <NAVI>[Luc Tomwa]<INFO>yuno,129,156,0,101,0,100,0,0</INFO></NAVI>"
 		},
-		Summary = "Continue sua conversa com Chainheart."
+		Summary = "Fale com Luc Tomwa"
 	},
 	[10091] = {
 		Title = "Mudança de Classe: Mecânico",
 		Description = {
-			"Chainheart continua a história."
+			"Continue ouvindo a história do <NAVI>[Luc Tomwa]<INFO>yuno,129,156,0,101,0,100,0,0</INFO></NAVI>"
 		},
-		Summary = "Continue sua conversa com Chainheart."
+		Summary = "Ainda com Luc Tomwa"
 	},
 	[10092] = {
 		Title = "Mudança de Classe: Mecânico",
 		Description = {
-			"Chainheart lhe disse que, para se tornar um Mecânico, você deve encontrar alguém chamado Franklson, que foi o primeiro a desenvolver Máquinas Mágicas, em Juperos."
+			"Para se juntar aos Mecânicos, você deve encontrar um <NAVI>[Sábio]<INFO>yuno,129,156,0,101,0,100,0,0</INFO></NAVI>, o primeiro a desenvolver M.E.C.H.A."
 		},
-		Summary = "Procurar a área de Juperos."
+		Summary = "Visite Juperos"
 	},
 	[10093] = {
 		Title = "Mudança de Classe: Mecânico",
 		Description = {
-			"Você consegue os itens para ir a Juperos."
+			"Você viajou ao Centro de Juperos graças ao <NAVI>[Sábio]<INFO>yuno,129,156,0,101,0,100,0,0</INFO></NAVI>. Nesse local, procure pelo <NAVI>[Fantasma]<INFO>jupe_core2,149,273,0,101,0,100,0,0</INFO></NAVI>"
 		},
-		Summary = "Vamos para Juperos."
+		Summary = "3 Fantasmas"
 	},
 	[10094] = {
 		Title = "Mudança de Classe: Mecânico",
 		Description = {
-			"Você ouviu uma história de um Fogo Fátuo que já foi humano. O próximo Fogo Fátuo deve estar em algum lugar na área sudoeste do centro de Juperos."
+			"Você ouviu uma história de alguém que já foi humano. Encontre o próximo <NAVI>[Fantasma]<INFO>jupe_core2,53,75,0,101,0,100,0,0</INFO></NAVI>"
 		},
-		Summary = "Encontre o Fogo Fátuo"
+		Summary = "2 Fantasmas"
 	},
 	[10095] = {
 		Title = "Mudança de Classe: Mecânico",
 		Description = {
-			"Você ouviu uma história de um Fogo Fátuo que já foi humano. O próximo Fogo Fátuo deve estar em algum lugar na área sudeste do centro de Juperos."
+			"Você ouviu uma história de alguém que já foi humano. Encontre o último <NAVI>[Fantasma]<INFO>jupe_core2,242,62,0,101,0,100,0,0</INFO></NAVI>"
 		},
-		Summary = "Encontre o Fogo Fátuo"
+		Summary = "1 Fantasma"
 	},
 	[10096] = {
 		Title = "Mudança de Classe: Mecânico",
 		Description = {
-			"O Fogo Fátuo mencionou ter pisado em um marcador entre duas estátuas mecânicas próximas."
+			"Você ouviu a história de todos os fantasmas. Vamos investigar o dispositivo à <NAVI>[oeste]<INFO>jupe_core2,29,150,0,101,0,100,0,0</INFO></NAVI>"
 		},
-		Summary = "Encontre a estátua a oeste"
+		Summary = "Estátua Oeste"
 	},
 	[10097] = {
 		Title = "Mudança de Classe: Mecânico",
 		Description = {
-			"Ao pisar no marcador, você ouviu uma voz dizendo para encontrar uma estátua de um humano."
+			"Vamos continuar a investigação com o dispositivo à <NAVI>[leste]<INFO>jupe_core2,272,149,0,101,0,100,0,0</INFO></NAVI>"
 		},
-		Summary = "Encontre a estátua a leste"
+		Summary = "Estátua a Leste"
 	},
 	[10098] = {
 		Title = "Mudança de Classe: Mecânico",
 		Description = {
-			"Você fica sabendo mais sobre a história."
+			"Você fica sabendo mais sobre a história. Ande próximo de um <NAVI>[lugar com luz]<INFO>jupe_core2,288,140,0,101,0,100,0,0</INFO></NAVI>"
 		},
-		Summary = "Procure um local ensolarado"
+		Summary = "Ande ao redor"
 	},
 	[10099] = {
 		Title = "Mudança de Classe: Mecânico",
 		Description = {
-			"Você deve buscar o conhecimento pesquisando a parte sul de Juperos para encontrar um marcador lá."
+			"Você deve buscar o conhecimento ao se aproximar da parte <NAVI>[sul]<INFO>jupe_core2,149,273,0,101,0,100,0,0</INFO></NAVI>"
 		},
-		Summary = "Vá para o campo no sul"
+		Summary = "Plataforma Sul"
 	},
 	[10100] = {
 		Title = "Mudança de Classe: Mecânico",
 		Description = {
-			"Você tem o conhecimento que estava procurando. Volte para o Fogo Fátuo ao norte."
+			"Você tem o conhecimento que estava procurando. Volte para o Fantasma ao <NAVI>[norte]<INFO>jupe_core2,149,273,0,101,0,100,0,0</INFO></NAVI>"
 		},
-		Summary = ""
+		Summary = "Retorne ao Fantasma"
 	},
 	[10101] = {
 		Title = "Mudança de Classe: Mecânico",
 		Description = {
-			"Você tem todo o conhecimento de que precisa. O Fogo Fátuo disse para voltar para Chainheart em Juno."
+			"Você tem todo o conhecimento de que precisa. O Fantasma disse para voltar para <NAVI>[Luc Tomwa]<INFO>yuno,129,156,0,101,0,100,0,0</INFO></NAVI>"
 		},
-		Summary = ""
+		Summary = "Volte a Luc Tomwa"
 	},
 	[10102] = {
 		Title = "Solicitação da Meidi",
@@ -28737,51 +28619,54 @@ QuestInfoList = {
 	[11106] = {
 		Title = "Mudança de Classe: Arcano",
 		Description = {
-			"Procure Yoop sobre sua mudança de classe."
+			"Fale sobre a mudança de classe com o assistente <NAVI>[Yoop]<INFO>spl_in02,77,107,0,101,0,100,0,0</INFO></NAVI>"
 		},
-		Summary = ""
+		Summary = "Fale com Yoop"
 	},
 	[11107] = {
 		Title = "Mudança de Classe: Arcano",
 		Description = {
-			"Encontre um ^000077Cristal Brilhante^000000 e um ^000077Pedaço de Bradium ^000000. Para obtê-los, você deve equipar as Magical Stones ao caçar Golems Naga e Bradium."
+			"Traga os itens para o <NAVI>[Assistente]<INFO>spl_in02,60,231,0,101,0,100,0,0</INFO></NAVI>",
+			"1x <ITEM>[Cristal Brilhante]<INFO>6152</INFO></ITEM>",
+			"1x <ITEM>[Pedaço de Bradium]<INFO>6151</INFO></ITEM>",
+			"Para obtê-los, você deve derrotar ^000077Nagas^000000 e ^000077Golens de Bradium^000000 que possuem uma aura azul. É necessário estar equipando a <ITEM>[Rocha Mágica 1]<INFO>2796</INFO></ITEM>, e a <ITEM>[Rocha Mágica 2]<INFO>2797</INFO></ITEM>"
 		},
-		Summary = "Vá ao laboratório de Yoop com o material"
+		Summary = "Colete os itens"
 	},
 	[11108] = {
 		Title = "Mudança de Classe: Arcano",
 		Description = {
-			"Enquando ele prepara a magia, volte para o mestre de Yoop."
+			"Enquanto Yoop prepara os Rubis Arco-Íris, vá para a Guilda dos Arcanos conversar com a <NAVI>[Mestra]<INFO>spl_in02,80,108,0,101,0,100,0,0</INFO></NAVI>"
 		},
-		Summary = "Volte para a guilda"
+		Summary = "Para a Guilda"
 	},
 	[11109] = {
 		Title = "Mudança de Classe: Arcano",
 		Description = {
-			"Fale com Shez para iniciar os testes na sala especial."
+			"Inicie os testes na Câmara da Magia conversando com <NAVI>[Shez]<INFO>spl_in02,84,103,0,101,0,100,0,0</INFO></NAVI>"
 		},
 		Summary = "Fale com Shez"
 	},
 	[11110] = {
 		Title = "Mudança de Classe: Arcano",
 		Description = {
-			"Quando estiver pronto, vá para a sala de espera para ser enviado para a Câmara da Magia. Use os Rubis Arco-Íris para ajudar a sobreviver aos monstros na Câmara."
+			"Na Câmara Mágica, use os Rubis Arco-Íris para ajudar a sobreviver aos monstros. Cada Rubi Arco-Íris fornece uma habilidade mágica de Arcano. Você tem 10 minutos."
 		},
 		Summary = "Elimine os monstros"
 	},
 	[11111] = {
 		Title = "Mudança de Classe: Arcano",
 		Description = {
-			"Você conseguiu cristalizar a pedra oca com poder mágico suficiente. Fale com a assistente de cabelos roxos para concluir seu teste."
+			"Você conseguiu cristalizar a Pedra Oca com poder mágico suficiente. Conclua o teste falando com <NAVI>[Shez]<INFO>spl_in02,84,103,0,101,0,100,0,0</INFO></NAVI>"
 		},
 		Summary = "Fale com Shez"
 	},
 	[11112] = {
 		Title = "Mudança de Classe: Arcano",
 		Description = {
-			"Você terminou todos os testes. Agora você pode se tornar mais poderoso ao se tornar um Arcano."
+			"Você terminou todos os testes. Agora você pode se juntar aos Arcanos falando com a <NAVI>[Mestra]<INFO>spl_in02,80,108,0,101,0,100,0,0</INFO></NAVI>"
 		},
-		Summary = "Fale com o mestre da guilda"
+		Summary = "Para a Mestra"
 	},
 	[11113] = {
 		Title = "Até que o radering esteja funcionando",
@@ -28938,100 +28823,100 @@ QuestInfoList = {
 		Summary = ""
 	},
 	[11135] = {
-		Title = "Encontre informações sobre Mello Dias",
+		Title = "Mudança de Classe: Trovador",
 		Description = {
-			"Vá a Prontera procurar informações sobre o Mello Dias e depois volte a Alberta."
+			"Encontre informações de Mello Dias em <NAVI>[Prontera]<INFO>prontera,141,97,0,101,0</INFO></NAVI>"
 		},
-		Summary = ""
+		Summary = "Vá para Prontera"
 	},
 	[11136] = {
 		Title = "Mudança de Classe: Trovador",
 		Description = {
-			"Fale com o garoto perto do portão sobre as 100 músicas mais populares."
+			"Se for sobre músicas, é melhor perguntar as 100 músicas mais populares para o <NAVI>[Homem de Óculos]<INFO>prontera,140,331,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Fale com o garoto"
+		Summary = "Homem de Óculos"
 	},
 	[11137] = {
 		Title = "Mudança de Classe: Trovador",
 		Description = {
-			"A senhora perto da loja de utilidades deve ter mais informações."
+			"Há uma mulher que deve ter mais informações. Ela está perto da <NAVI>[Fonte]<INFO>prontera,146,218,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Fale com a senhora"
+		Summary = "Fale com a Mulher"
 	},
 	[11138] = {
-		Title = "Volte a Alberta",
+		Title = "Mudança de Classe: Trovador",
 		Description = {
-			"A mulher diz que acredita que o Maestro Song é seu filho perdido há muito tempo. Volte para o Bardo em Alberta e conte a ele o que você conseguiu descobrir em Prontera."
+			"A mulher diz que acredita que o Mello Dias é seu filho perdido há muito tempo. Volte para o Bardo em <NAVI>[Alberta]<INFO>alberta,196,133,0,101,0</INFO></NAVI>"
 		},
-		Summary = ""
+		Summary = "Volte a Alberta"
 	},
 	[11139] = {
 		Title = "Mudança de Classe: Trovador",
 		Description = {
-			"Karian ouviu dizer que o Maestro Song pode ter pegado um barco para Izlude, mas esse barco desapareceu. Encontre-o no dirigível que viaja para Hugel."
+			"Karian ouviu dizer que o Mello Dias pode ter pegado um barco para Izlude, mas esse barco desapareceu. Encontre-o no <NAVI>[Aeroplano de Izlude]<INFO>airplane,222,67,0,101,0</INFO></NAVI>"
 		},
-		Summary = ""
+		Summary = "Aeroplano de Izlude"
 	},
 	[11140] = {
 		Title = "Mudança de Classe: Trovador",
 		Description = {
-			"É a primeira vez que Karian está em um dirigível e ele está enjoado. Fale com ele em Hugel."
+			"É a primeira vez que Karian está em um aeroplano e ele está enjoado. Fale com ele em <NAVI>[Hugel]<INFO>hu_in01,267,5,0,101,0</INFO></NAVI>"
 		},
-		Summary = ""
+		Summary = "Em Hugel..."
 	},
 	[11141] = {
 		Title = "Mudança de Classe: Trovador",
 		Description = {
-			"Você deve encontrar informações úteis na taverna."
+			"Você deve encontrar informações úteis na <NAVI>[Estalagem]<INFO>hu_in01,]hu_in01,361,103,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Volte à taverna"
+		Summary = "Para a Estalagem"
 	},
 	[11142] = {
 		Title = "Mudança de Classe: Trovador",
 		Description = {
-			"Antes disso, ele escuta minha música. Você conseguiu informações sobre 'Ruído Estridente'."
+			"Você conseguiu informações sobre '^4D4DFFRuído Estridente^000000'. Vamos falar com <NAVI>[Karian]<INFO>hu_in01,267,5,0,101,0</INFO></NAVI>"
 		},
-		Summary = ""
+		Summary = "Fale com Karian"
 	},
 	[11143] = {
 		Title = "Mudança de Classe: Trovador",
 		Description = {
-			"Não sei o motivo de Mello Dias ir para a Torre de Thanatos."
+			"Não sei o motivo de Mello Dias ir para a <NAVI>[Torre de Thanatos]<INFO>tha_scene01,140,200,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Vá para a Torre de Thanatos"
+		Summary = "Para a Torre de Thanatos"
 	},
 	[11144] = {
 		Title = "Mudança de Classe: Trovador",
 		Description = {
-			"Troque este recibo de loja com o gerente."
+			"Você recebeu um <ITEM>[Recibo de Loja]<INFO>6271</INFO></ITEM>. Leve-o para o <NAVI>[Sr. Click]<INFO>yuno,143,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Encontre o Sr. Click em Juno."
+		Summary = "Encontre o Sr. Click"
 	},
 	[11145] = {
 		Title = "Mudança de Classe: Trovador",
 		Description = {
-			"Elimine 33 ursinhos, e encontre-se com Karian em Lighthalzen."
+			"Elimine 33 <NAVI>[Ursinhos]<INFO>ein_fild03,135,46,0,101,0</INFO></NAVI>. Após isso, vá para Karian em <NAVI>[Lighthalzen]<INFO>lighthalzen,162,126,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Fale com Karian"
+		Summary = "Complete a missão"
 	},
 	[11146] = {
 		Title = "Mudança de Classe: Trovador",
 		Description = {
-			"Com os ursinhos será possível procurar Mello Dias."
+			"Descobrimos que Mello Dias juntou vários Ursinhos para fazer um casaco de pele e ir para a entrada da <NAVI>[Caverna de Gelo]<INFO>ra_fild01,233,329,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Volte à Caverna de Gelo"
+		Summary = "Para a Caverna de Gelo"
 	},
 	[11147] = {
 		Title = "Mudança de Classe: Trovador",
 		Description = {
-			"As lágrimas de seus olhos se tornam orvalho."
+			"Você conseguiu informações sobre '^4D4DFFOrvalho de Idun^000000'."
 		},
-		Summary = "Fale com a Velha."
+		Summary = "Fale com a Velha"
 	},
 	[11148] = {
 		Title = "Mudança de Classe: Trovador",
 		Description = {
-			"Encontre um barco no campo ao sul de Veins."
+			"Parece que Mello Dias foi para Comodo. Vamos pegar um barco ao <NAVI>[sul de Veins]<INFO>ve_fild07,131,132,0,101,0</INFO></NAVI>"
 		},
 		Summary = "Volte para o sudeste de Veins"
 	},
@@ -29045,65 +28930,65 @@ QuestInfoList = {
 	[11150] = {
 		Title = "Mudança de Classe: Trovador",
 		Description = {
-			"Devo perguntar às pessoas da vila sobre o Maestro Song?"
+			"Devo perguntar às pessoas da cidade sobre o Mello Dias? Vamos começar <NAVI>[por aqui]<INFO>comodo,192,119,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Consiga as informações"
+		Summary = "Ao Mestre Kayak"
 	},
 	[11151] = {
 		Title = "Mudança de Classe: Trovador",
 		Description = {
-			"Esta senhora conhece o rosto de muitas pessoas."
+			"A tem uma incrível capacidade de se lembrar do rosto de cada cliente. Vamos falar <NAVI>[com ela]<INFO>comodo,159,316,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Pergunte à senhora"
+		Summary = "Para a Churrasqueira"
 	},
 	[11152] = {
 		Title = "Mudança de Classe: Trovador",
 		Description = {
-			"Ele estava aqui em Comodo, mas depois se retirou para um lugar tranquilo perto de Morroc, onde uma guilda secreta se reúne. A mulher disse que soava como cinza ou assa..."
+			"Mello Dias estava aqui em Comodo, mas depois se retirou para um lugar tranquilo perto de Morroc, onde fica uma <NAVI>[Fortaleza]<INFO>moc_fild16,206,232,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Ao sudeste de Morroc"
+		Summary = "Para Morroc"
 	},
 	[11153] = {
 		Title = "Mudança de Classe: Trovador",
 		Description = {
-			"Esse parece ser o mesmo estilo de escrita que encontrei no recibo. De repente, Karian diz que devemos ir à Torre do Relógio em Al De Baran"
+			"Esse parece ser o mesmo estilo de escrita que encontrei no recibo. De repente, Karian diz que devemos ir à Torre do Relógio em <NAVI>[Al De Baran]<INFO>aldebaran,140,130,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Vá para a Torre do Relógio em Al de Baran"
+		Summary = "Para Al de Baran"
 	},
 	[11154] = {
 		Title = "Mudança de Classe: Trovador",
 		Description = {
-			"Você ouviu Karian relembrar uma música que seu amigo cantou com ele em frente à Torre do Relógio"
+			"Você ouviu Karian relembrar uma música que seu amigo cantou com ele em frente à Torre do Relógio. Ele aguarda você no sul de <NAVI>[Prontera]<INFO>prontera,155,40,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Volte para o portão sul de Prontera."
+		Summary = "Para Prontera"
 	},
 	[11155] = {
 		Title = "Mudança de Classe: Shura",
 		Description = {
-			"Você acabou de testemunhar uma mulher demonstrando um poder incrível. Vá até a pousada e descubra mais sobre ela."
+			"Você acabou de testemunhar uma mulher demonstrando um poder incrível. Descubra mais sobre ela indo até essa <NAVI>[casa]<INFO>ve_in,98,159,0,101,0,100,0,0</INFO></NAVI>"
 		},
-		Summary = "Saiba mais sobre ele"
+		Summary = "Fale com a Lutadora"
 	},
 	[11156] = {
 		Title = "Mudança de Classe: Shura",
 		Description = {
-			"Prove que você tem o que é preciso para ser um Sura e caçar 100 lobos do deserto."
+			"Prove que você tem o que é preciso para se juntar aos Shuras. Elimine 100 Lobos do Deserto e retorne para a <NAVI>[Lutadora]<INFO>ve_in,98,159,0,101,0,100,0,0</INFO></NAVI>"
 		},
-		Summary = "Cace 100 Lobos do Deserto"
+		Summary = "Elimine Lobos"
 	},
 	[11157] = {
 		Title = "Mudança de Classe: Shura",
 		Description = {
-			"Vá ao vale ao sudeste de Juno e fale com Buddy."
+			"Atendendo ao pedido da Lutadora, vá para o desfiladeiro de Elmes encontrar um <NAVI>[Monge]<INFO>yuno_fild07,254,176,0,101,0,100,0,0</INFO></NAVI>"
 		},
-		Summary = "Procure Buddy"
+		Summary = "Ao Vale do Abismo"
 	},
 	[11158] = {
 		Title = "Mudança de Classe: Shura",
 		Description = {
-			"Ele vai apresentá-lo para o mestre."
+			"Entre na sala de testes e tente sobreviver em 5 minutos. O Mestre dos Shuras deverá aparecer assim que a prova acabar. Se você falhar, basta retornar ao <NAVI>[Monge]<INFO>yuno_fild07,254,176,0,101,0,100,0,0</INFO></NAVI>"
 		},
-		Summary = "Espere pelo Mestre e sobreviva."
+		Summary = "Teste Prático"
 	},
 	[11159] = {
 		Title = "História de Brian",
@@ -31924,7 +31809,7 @@ QuestInfoList = {
 		Title = "Mudança de Classe: Mestre Estelar",
 		Description = {
 			"Existe um Dojang no Monte Mjolnir. Vamos visitar o Bosque Meteoro.",
-			"Siga o caminho estreito no lado norte do Mjolnir até a Meteor Forest."
+			"É só seguir o caminho estreito no lado norte do Monte Mjolnir."
 		},
 		Summary = "Para Mjolnir 03"
 	},
@@ -31939,15 +31824,15 @@ QuestInfoList = {
 	[11575] = {
 		Title = "Mudança de Classe: Mestre Estelar",
 		Description = {
-			"É melhor sairmos da Casa de Chá. Fale com Lunomoto do lado de fora.",
-			"Vá para fora e fale com Chosung."
+			"É melhor sairmos da Casa de Chá.",
+			"Fale com Lunomoto do lado de fora."
 		},
 		Summary = "Fale com Lunomoto"
 	},
 	[11576] = {
 		Title = "Mudança de Classe: Mestre Estelar",
 		Description = {
-			"Você conheceu Lunomoto. Vamos falar com Lansis.",
+			"Você conheceu Lunomoto. Vamos falar com Lansis para saber mais sobre o Bosque Meteoro",
 			"Converse com Rancis e saiba mais sobre a Meteor Forest."
 		},
 		Summary = "Fale com Lansis"
@@ -31962,8 +31847,8 @@ QuestInfoList = {
 	[11578] = {
 		Title = "Mudança de Classe: Mestre Estelar",
 		Description = {
-			"Parece um dos Mestres está aprontando. Vá para o coreto ao Sul do Dojang.",
-			"Siga-a."
+			"Parece um dos Mestres está aprontando.",
+			"Vá para o coreto ao Sul do Dojang."
 		},
 		Summary = "Fale com Cosmos"
 	},
@@ -31985,7 +31870,7 @@ QuestInfoList = {
 	[11581] = {
 		Title = "Mudança de Classe: Mestre Estelar",
 		Description = {
-			"Vá para a Caverna de Payon. Elimine 50 Nove Caudas.",
+			"Vá para a Caverna de Payon e elimine 50 Nove Caudas.",
 			"Cace 50 Nine Tails no Payon Dungeon 3F ou mais profundo e depois vá até Chosung."
 		},
 		Summary = "Elimine 50 Nove Caudas"
@@ -33914,58 +33799,68 @@ QuestInfoList = {
 	[12090] = {
 		Title = "Mudança de Classe: Guardião Real",
 		Description = {
-			"Hainrich parece ter muitas informações importantes."
+			"Este Senhor do Palácio de Prontera parece ter informações importantes. Vamos falar novamente com o <NAVI>[Senhor]<INFO>prt_cas,172,275,0,101,0,100,0,0</INFO></NAVI>"
 		},
-		Summary = "Tente conversar com ele novamente"
+		Summary = "Fale com Heinrich"
 	},
 	[12091] = {
 		Title = "Mudança de Classe: Guardião Real",
 		Description = {
-			"Hainrich pediu 100 Corações Incandescentes"
+			"Seu objetivo é conseguir 100 <ITEM>[Coração Incandescente]<INFO>7097</INFO></ITEM>. Traga-os para o <NAVI>[Senhor]<INFO>prt_cas,172,275,0,101,0,100,0,0</INFO></NAVI>"
 		},
-		Summary = "100 Corações Incandescentes"
+		Summary = "100x Coração Incandescente."
 	},
 	[12092] = {
 		Title = "Mudança de Classe: Guardião Real",
 		Description = {
-			"Após completar sua missão, Hainrich contará uma história."
+			"Após entregar os itens, continue conversando com o <NAVI>[Senhor]<INFO>prt_cas,172,275,0,101,0,100,0,0</INFO></NAVI>"
 		},
 		Summary = "Ouça a história"
 	},
 	[12093] = {
 		Title = "Mudança de Classe: Guardião Real",
 		Description = {
-			"Você possui poder para identificar a marca dos Guardiões Reais."
+			"Você possui poder para ver Traços Delicados.",
+			"Vá para a <NAVI>[Abadia de Glastheim]<INFO>gl_church,155,11,0,101,0,100,0,0</INFO></NAVI>",
+			"e encontre 1x <ITEM>[Trajes do Santo]<INFO>6274</INFO></ITEM>",
+			"Depois, volte ao <NAVI>[Senhor]<INFO>prt_cas,172,275,0,101,0,100,0,0</INFO></NAVI>"
 		},
-		Summary = "Encontre o último traço dos Guardiões Reais"
+		Summary = "1x Trajes do Santo"
 	},
 	[12094] = {
 		Title = "Mudança de Classe: Guardião Real",
 		Description = {
-			"A inscrição diz: \"Você é alguém que tem poder sagrado... Encontre minha memória perto do meu antigo castelo de Glastheim. Meus aposentos ficavam ao norte...\"."
+			"A inscrição diz: ^4D4DFFVocê é alguém que tem poder sagrado...",
+			"Encontre minhas memórias... perto do meu castelo.",
+			"Meus aposentos ficavam ao norte...^000000.",
+			"...ao <NAVI>[Norte de Glastheim]<INFO>glast_01,240,366,0,101,0,100,0,0</INFO></NAVI>??"
 		},
-		Summary = "Decifre as marcas"
+		Summary = "Em Glastheim"
 	},
 	[12096] = {
 		Title = "Mudança de Classe: Feiticeiro",
 		Description = {
-			"Encontre o Karacas no 4º andar da Torre de Geffen."
+			"Merito pediu que você encontre <NAVI>[Karacas]<INFO>gef_tower,113,161,0,101,0,100,0,0</INFO></NAVI>"
 		},
-		Summary = "Conversa com Karacas"
+		Summary = "Fale com Karacas"
 	},
 	[12097] = {
 		Title = "Mudança de Classe: Feiticeiro",
 		Description = {
-			"Traga esses materiais para Karacas na Torre de Geffen para que o teste comece. 3 Frescor do Vento, 3 Cristal Azul, 3 Sangue Escarlate e 3 Vida Verdejante."
+			"<NAVI>[Karacas]<INFO>gef_tower,113,161,0,101,0,100,0,0</INFO></NAVI>, da Guilda dos Feiticeiros, quer que você traga 3 Pedras de cada elemento: <ITEM>[Cristal Azul]<INFO>991</INFO></ITEM>, <ITEM>[Frescor do Vento]<INFO>992</INFO></ITEM>, <ITEM>[Vida Verdejante]<INFO>993</INFO></ITEM>, e <ITEM>[Sangue Escarlate]<INFO>990</INFO></ITEM>"
 		},
-		Summary = "Traga as pedras elementais"
+		Summary = "3 Pedras Elementais"
 	},
 	[12098] = {
-		Title = "Visita à masmorra",
+		Title = "Mudança de Classe: Feiticeiro",
 		Description = {
-			"Procure por áreas de comunicação com os elementos na Caverna de Gelo, Vulcão de Thor, Mina de Carvão, e Calabouço de Kunlun."
+			"Traga os 3 Reagentes para <NAVI>[Karacas]<INFO>gef_tower,113,161,0,101,0,100,0,0</INFO></NAVI>",
+			"1x <ITEM>[Reagente Puro]<INFO>6276</INFO></ITEM>",
+			"1x <ITEM>[Reagente Preto]<INFO>6278</INFO></ITEM>",
+			"1x <ITEM>[Reagente Vermelho]<INFO>6277</INFO></ITEM>",
+			"Eles são dados pelos Espíritos Detectores se você trouxer 3 ou mais Pedras Elementais. Os Espíritos são encontrados na <NAVI>[Caverna de Gelo]<INFO>ice_dun01,274,274,0,101,0,100,0,0</INFO></NAVI>, <NAVI>[Mina de Carvão]<INFO>mjo_dun03,200,141,0,101,0,100,0,0</INFO></NAVI>, <NAVI>[Vulcão de Thor]<INFO>thor_v01,64,252,0,101,0,100,0,0</INFO></NAVI>, e no <NAVI>[Tabuleiro de Go]<INFO>gon_dun02,195,190,0,101,0,100,0,0</INFO></NAVI>"
 		},
-		Summary = "Procure as áreas nos 4 calabouços"
+		Summary = "3x Reagentes"
 	},
 	[12099] = {
 		Title = "Removendo o Problema",
@@ -36070,93 +35965,93 @@ QuestInfoList = {
 	[12421] = {
 		Title = "[Espera] Anomalia Dimensional",
 		Description = {
-			"Voc? recebeu sua recompensa por ter salvado uma outra dimens?o. Agora voc? s? poder? receber sua pr?xima recompensa ap?s o hor?rio combinado."
+			"Você recebeu sua recompensa por ter salvado uma outra dimensão. Agora você só poderá receber sua próxima recompensa após o horário combinado."
 		},
-		Summary = "Volte amanh?.ð"
+		Summary = "Volte amanhã."
 	},
 	[12422] = {
 		Title = "Anomalia Dimensional",
 		Description = {
-			"Voc? recebeu o convite do Grande S?bio Varmunt. Vamos seguir para a outra dimens?o."
+			"Você recebeu o convite do Grande Sábio Varmunt. Vamos seguir para a outra dimensão."
 		},
 		Summary = "Fale com Varmunt"
 	},
 	[12423] = {
 		Title = "Anomalia Dimensional",
 		Description = {
-			"Nessa nova dimens?o, seu objetivo ? curar a Pedra Guardi? e proteg?-la dos monstros terr?veis."
+			"Nessa nova dimensão, seu objetivo é curar a Pedra Guardiã e protegê-la dos monstros terríveis."
 		},
-		Summary = "Cure a Pedra Guardi?"
+		Summary = "Cure a Pedra Guardiã"
 	},
 	[12442] = {
-		Title = "Caminho de Ceifador de Almas 1",
+		Title = "Mudança de Classe: Ceifador de Almas",
 		Description = {
-			"Vamos ouvir o que Banyak tem a dizer, cercado pelos funcionários da estalagem."
+			"Banyak está cercado pelos funcionários da Pousada. Vamos ouvir o que ele tem a dizer."
 		},
-		Summary = "O caminho de Ceifador de Almas"
+		Summary = "Fale com Banyak"
 	},
 	[12443] = {
-		Title = "Caminho de Ceifador de Almas 2",
+		Title = "Mudança de Classe: Ceifador de Almas",
 		Description = {
-			"Se você tiver algum vínculo com Banyak, vamos nos encontrar de novo. Parece que ele foi levado para alguma <NAVI>[Taverna]<INFO>payon.gat,190,93,0,101,0</INFO></NAVI> em algum lugar de Payon."
+			"Vamos para a <NAVI>[Pousada]<INFO>payon.gat,190,93,0,101,0</INFO></NAVI>. Ela fica em algum lugar de Payon."
 		},
-		Summary = "O caminho de Ceifador de Almas"
+		Summary = "Para a Pousada"
 	},
 	[12444] = {
-		Title = "Caminho de Ceifador de Almas 3",
+		Title = "Mudança de Classe: Ceifador de Almas",
 		Description = {
-			"Se conseguirmos confirmar os passos do ladrão de trouxas de Banyak, vamos tentar. Talvez haja um ajudante perto da estalagem."
+			"Vamos tentar ajudar Banyak. Talvez haja alguém próximo que viu algo."
 		},
-		Summary = "O caminho de Ceifador de Almas"
+		Summary = "Fale com a Garotinha"
 	},
 	[12445] = {
-		Title = "Caminho de Ceifador de Almas 4",
+		Title = "Mudança de Classe: Ceifador de Almas",
 		Description = {
-			"Vamos conversar com <NAVI>[Banyak]<INFO>payon.gat,190,93,0,101,0</INFO></NAVI> sobre a identidade do ladrão de trouxas."
+			"Vamos conversar com <NAVI>[Banyak]<INFO>payon.gat,190,93,0,101,0</INFO></NAVI> sobre a identidade do gatuno."
 		},
-		Summary = "O caminho de Ceifador de Almas"
+		Summary = "Para a Pousada"
 	},
 	[12446] = {
-		Title = "Caminho de Ceifador de Almas 5",
+		Title = "Mudança de Classe: Ceifador de Almas",
 		Description = {
-			"Vamos ter uma guerra de palavras com Tavern Keeper com o pequeno e Banyak para identificar o ladrão estragado."
+			"Parece que descobrirmos a identidade do bandido. Vamos ver o que a Garotinha tem para nos contar."
 		},
-		Summary = "O caminho de Ceifador de Almas"
+		Summary = "Fale com a Garotinha"
 	},
 	[12447] = {
-		Title = "Caminho de Ceifador de Almas 6",
+		Title = "Mudança de Classe: Ceifador de Almas",
 		Description = {
-			"Payon Reencontre <NAVI>[Banyak]<INFO>payon.gat,241,294,0,101,0</INFO></NAVI> ao norte de Payon"
+			"Vamos falar com <NAVI>[Banyak]<INFO>payon.gat,241,294,0,101,0</INFO></NAVI>. Ele está na entrada da Vila dos Arqueiros."
 		},
-		Summary = "O caminho de Ceifador de Almas"
+		Summary = "Fale com Banyak"
 	},
 	[12448] = {
-		Title = "Caminho de Ceifador de Almas 7",
+		Title = "Mudança de Classe: Ceifador de Almas",
 		Description = {
-			"Vamos juntar 44 <ITEM>[Cauda de Raposa]<INFO>1022</INFO></ITEM> necessárias para o Grande Ritual e entregar para <NAVI>[Ya-eongi]<INFO>pay_dun04.gat,120,116,0,101,0</INFO></NAVI>."
+			"Vamos para o <NAVI>[Vilarejo Abandonado]<INFO>pay_dun04.gat,120,116,0,101,0</INFO></NAVI>. Lá devemos juntar 44 <ITEM>[Cauda de Raposa]<INFO>1022</INFO></ITEM> necessárias para o Grande Ritual."
 		},
-		Summary = "O caminho de Ceifador de Almas"
+		Summary = "Fale com Munchkin"
 	},
 	[12449] = {
-		Title = "Caminho de Ceifador de Almas 8",
+		Title = "Mudança de Classe: Ceifador de Almas",
 		Description = {
-			"<NAVI>Encontre [Banyak]<INFO>payon.gat,241,294,0,101,0</INFO></NAVI> e confirme a história ligada ao Ritual de chamadas de almas."
+			"Encontre <NAVI>[Banyak]<INFO>payon.gat,241,294,0,101,0</INFO></NAVI> e confirme a história ligada ao Ritual."
 		},
-		Summary = "O caminho de Ceifador de Almas"
+		Summary = "Fale com Banyak"
 	},
 	[12450] = {
-		Title = "Caminho de Ceifador de Almas 9",
+		Title = "Mudança de Classe: Ceifador de Almas",
 		Description = {
-			"Vamos entrar no mundo espiritual de Banyak com o Ritual de chamadas de almas e resgatar o irmão mais novo dela(?)."
+			"Prepare-se para a batalha! Banyak irá abrir um portal para o mundo espiritual."
 		},
-		Summary = "O caminho de Ceifador de Almas"
+		Summary = "Fale com Banyak"
 	},
 	[12451] = {
-		Title = "Capítulo final do caminho de Ceifador de Almas",
+		Title = "Mudança de Classe: Ceifador de Almas",
 		Description = {
-			"<NAVI>Decida o caminho de Ceifador de Almas conversando com [Banyak]<INFO>payon.gat,241,294,0,101,0</INFO></NAVI>."
+			"Converse com <NAVI>[Banyak] <INFO>payon.gat,241,294,0,101,0</INFO></NAVI> para mudar sua classe."
 		},
-		Summary = "O caminho de Ceifador de Almas"
+		Summary = "Fale com Banyak"
 	},
 	[12452] = {
 		Title = "Ocupação OS",
@@ -70168,6 +70063,270 @@ NpcSpr = [=[4_M_RACHMAN1]]
 		},
 		Summary = "Reseta 4 da manhã."
 	},
+	[291494] = {
+		Title = "Carnaval",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Para participar do Carnaval, ",
+			"você precisa da permissão da Mãe Natureza! ",
+			"Encontre os 4 Elementos na praia de Brasilis",
+			"e retorne ao <NAVI>[Gerente do Evento]<INFO>brasilis,246,323,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Praia de Brasilis"
+	},
+	[291495] = {
+		Title = "Carnaval: Pedra do Fogo",
+		IconName = "ico_ev.bmp",
+		Description = {""},
+		Summary = ""
+	},
+	[291496] = {
+		Title = "Carnaval: Pedra da Água",
+		IconName = "ico_ev.bmp",
+		Description = {""},
+		Summary = ""
+	},
+	[291497] = {
+		Title = "Carnaval: Pedra do Vento",
+		IconName = "ico_ev.bmp",
+		Description = {""},
+		Summary = ""
+	},
+	[291498] = {
+		Title = "Carnaval: Pedra da Terra",
+		IconName = "ico_ev.bmp",
+		Description = {""},
+		Summary = ""
+	},
+	[291499] = {
+		Title = "Carnaval: Fantasia!",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"\"Não posso perder o concurso de fantasias por causa dele!\" ",
+			"- <NAVI>[Fernando]<INFO>brasilis,111,330,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Elimine o monstro"
+	},
+	[291500] = {
+		Title = "[Espera] Fantasia!",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Você completou a missão de Carnaval de hoje. Volte amanhã para <NAVI>[Fernando]<INFO>brasilis,111,330,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Reseta 4 da manhã."
+	},
+	[291501] = {
+		Title = "Carnaval: Música Perdida",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Porings Carnavalescos comeram as instruções de dança!",
+			"Colete os seguintes itens:",
+			"2x ^ff0000^nItemID^6340^000000",
+			"2x ^ff0000^nItemID^6341^000000",
+			"2x ^ff0000^nItemID^6342^000000 ",
+			"2x ^ff0000^nItemID^6343^000000 ",
+			"E retorne para a <NAVI>[Sambista]<INFO>brasilis,201,145,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Colete os Itens"
+	},
+	[291502] = {
+		Title = "[Espera] Música Perdida",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Você completou a missão de Carnaval de hoje. Volte amanhã para <NAVI>[Sambista]<INFO>brasilis,201,145,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Reseta 4 da manhã."
+	},
+	[291503] = {
+		Title = "Carnaval: Violino Quebrado",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Vá até a casa de <NAVI>[Vinícius]<INFO>bra_in01,163,131,0,101,0</INFO></NAVI>!",
+			"Ele deve consertar o Violino se trouxer",
+			"3x ^ff0000^nItemID^1002^000000",
+			"Depois, traga o Violino de volta",
+			"para o jovem <NAVI>[Jobim]<INFO>brasilis,198,145,0,101,0</INFO></NAVI>."
+		},
+		Summary = "3x ITEM_NAME"
+	},
+	[291504] = {
+		Title = "[Espera] Violino Quebrado",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Você completou a missão de Carnaval de hoje. Volte amanhã para <NAVI>[Jobim]<INFO>brasilis,198,145,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Reseta 4 da manhã."
+	},
+	[291505] = {
+		Title = "Carnaval: Violino Quebrado",
+		IconName = "ico_ev.bmp",
+		Description = {""},
+		Summary = ""
+	},
+	[291506] = {
+		Title = "Carnaval: Restaurante",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Ajude a pobre <NAVI>[Garçonete]<INFO>brasilis,338,228,0,101,0</INFO></NAVI>.",
+			"Aceite os pedidos dos clientes e",
+			"traga pratos de comida para eles."
+		},
+		Summary = "Anote Pedidos"
+	},
+	[291507] = {
+		Title = "[Espera] Restaurante",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Você completou a missão de Carnaval de hoje. Volte amanhã para a <NAVI>[Garçonete]<INFO>brasilis,338,228,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Reseta 4 da manhã."
+	},
+	[291508] = {
+		Title = "Carnaval: Mesa 1",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Traga ^ff0000^nItemID^12044^000000 para o <NAVI>[Cliente]<INFO>brasilis,348,231,0,101,0</INFO></NAVI>."
+		},
+		Summary = "1x Bife Marinado com Ervas"
+	},
+	[291509] = {
+		Title = "Carnaval: Mesa 1",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Traga ^ff0000^nItemID^12060^000000 para o <NAVI>[Cliente]<INFO>brasilis,348,231,0,101,0</INFO></NAVI>."
+		},
+		Summary = "1x Morcego na Moranga"
+	},
+	[291510] = {
+		Title = "Carnaval: Mesa 2",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Traga ^ff0000^nItemID^12055^000000 para o <NAVI>[Cliente]<INFO>brasilis,329,224,0,101,0</INFO></NAVI>."
+		},
+		Summary = "1x Pão de Carne Picante"
+	},
+	[291511] = {
+		Title = "Carnaval: Mesa 2",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Traga ^ff0000^nItemID^12050^000000 para o <NAVI>[Cliente]<INFO>brasilis,329,224,0,101,0</INFO></NAVI>."
+		},
+		Summary = "1x Vinho de Mastela"
+	},
+	[291512] = {
+		Title = "Carnaval: Mesa 3",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Traga ^ff0000^nItemID^12065^000000 para o <NAVI>[Cliente]<INFO>brasilis,339,217,0,101,0</INFO></NAVI>."
+		},
+		Summary = "1x Salada Verde"
+	},
+	[291513] = {
+		Title = "Carnaval: Mesa 3",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Traga ^ff0000^nItemID^12068^000000 para o <NAVI>[Cliente]<INFO>brasilis,339,217,0,101,0</INFO></NAVI>."
+		},
+		Summary = "1x Batata Doce Frita"
+	},
+	[291514] = {
+		Title = "Carnaval: Completo!",
+		IconName = "ico_ev.bmp",
+		Description = {""},
+		Summary = ""
+	},
+	[291515] = {
+		Title = "[Espera] Passe Diário",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Você completou a missão de hoje!",
+			"Retorne amanhã após o horário para",
+			"continuar coletando os Selos!",
+			"",
+			"<NAVI>[Folclorista]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>"
+		},
+		Summary = "Reseta 4 da manhã"
+	},
+	[291516] = {
+		Title = "Passe Diário: Dia 1",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Elimine 30 monstros nos campos de Amatsu (ama_fild01) e retorne ao <NAVI>[Folclorista]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Caça em Amatsu"
+	},
+	[291517] = {
+		Title = "Passe Diário: Dia 2",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Elimine 30 monstros nos campos de Kunlun (gon_fild01) e retorne ao <NAVI>[Folclorista]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Caça em Kunlun"
+	},
+	[291518] = {
+		Title = "Passe Diário: Dia 3",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Elimine 30 monstros nos campos de Ayothaya (ayo_fild02) e retorne ao <NAVI>[Folclorista]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Caça em Ayothaya"
+	},
+	[291519] = {
+		Title = "Passe Diário: Dia 4",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Elimine 30 monstros na Caverna de Louyang (lou_dun02) e retorne ao <NAVI>[Folclorista]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Caverna de Louyang"
+	},
+	[291520] = {
+		Title = "Passe Diário: Dia 5",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Elimine 30 monstros na Caverna de Moscóvia (mosk_dun02) e retorne ao <NAVI>[Folclorista]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Floresta Encantada"
+	},
+	[291521] = {
+		Title = "Passe Diário: Dia 6",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Elimine 30 monstros na Caverna de Dewata (dew_dun02) e retorne ao <NAVI>[Folclorista]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Caverna Istana"
+	},
+	[291522] = {
+		Title = "Passe Diário: Dia 7",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Elimine 30 monstros nos campos de Brasilis (bra_fild01) e retorne ao <NAVI>[Folclorista]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Campos de Brasilis"
+	},
+	[291523] = {
+		Title = "Passe Diário: Dia 8",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Elimine 30 monstros na Caverna de Brasilis (bra_dun01) e retorne ao <NAVI>[Folclorista]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Caverna de Brasilis"
+	},
+	[291524] = {
+		Title = "Passe Diário: Dia 9",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Elimine 30 monstros na Caverna de Malangdo (mal_dun01) e retorne ao <NAVI>[Folclorista]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Caverna de Malangdo"
+	},
+	[291525] = {
+		Title = "Passe Diário: Dia 10",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Elimine 30 monstros na Caverna de Porto Malaya (ma_dun01) e retorne ao <NAVI>[Folclorista]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Caverna de Malaya"
+	},
 	[293428] = {
 		Title = "Viagem a outro mundo",
 		Description = {
@@ -70290,70 +70449,70 @@ NpcSpr = [=[4_M_RACHMAN1]]
 	[295259] = {
 		Title = "Passe de Batalha Diário 1",
 		Description = {
-			"Derrote 80 Fen"
+			"Derrote 5 Planta Brilhante"
 		},
-		Summary = "Derrote 80 Fen"
+		Summary = "Derrote 5 Planta Brilhante"
 	},
 	[295260] = {
 		Title = "Passe de Batalha Diário 1",
 		Description = {
-			"Derrote Fen / Uma vez por dia, reinicia às 04:00"
+			"Derrote Planta Brilhante / Uma vez por dia, reinicia às 04:00"
 		},
 		Summary = "Reinicia às 04:00"
 	},
 	[295261] = {
 		Title = "Passe de Batalha Diário 2",
 		Description = {
-			"Derrote 2 Sacerdote Maldito Feroz"
+			"Derrote 4 Scaraba Dourado"
 		},
-		Summary = "Derrote 2 Sacerdote Maldito Feroz"
+		Summary = "Derrote 4 Scaraba Dourado"
 	},
 	[295262] = {
 		Title = "Passe de Batalha Diário 2",
 		Description = {
-			"Derrote Sacerdote Maldito Feroz / Uma vez por dia, reinicia às 04:00"
+			"Derrote Scaraba Dourado / Uma vez por dia, reinicia às 04:00"
 		},
 		Summary = "Reinicia às 04:00"
 	},
 	[295263] = {
 		Title = "Passe de Batalha Diário 3",
 		Description = {
-			"Entregue 888 Bananas"
+			"Entregue 1.000 Poções Vermelhas"
 		},
-		Summary = "Entregue 888 Bananas"
+		Summary = "Entregue 1.000 Poções Vermelhas"
 	},
 	[295264] = {
 		Title = "Passe de Batalha Diário 3",
 		Description = {
-			"Entregue Bananas / Uma vez por dia, reinicia às 04:00"
+			"Entregue Poções Vermelhas / Uma vez por dia, reinicia às 04:00"
 		},
 		Summary = "Reinicia às 04:00"
 	},
 	[295265] = {
 		Title = "Passe de Batalha Diário 4",
 		Description = {
-			"Doe 500.000 Zeny"
+			"Entregue 10 Ervas Azuis"
 		},
-		Summary = "Doe 500.000 Zeny"
+		Summary = "Entregue 10 Ervas Azuis"
 	},
 	[295266] = {
 		Title = "Passe de Batalha Diário 4",
 		Description = {
-			"Doe Zeny / Uma vez por dia, reinicia às 04:00"
+			"Entregue Ervas Azuis / Uma vez por dia, reinicia às 04:00"
 		},
 		Summary = "Reinicia às 04:00"
 	},
 	[295267] = {
 		Title = "Passe de Batalha Diário 5",
 		Description = {
-			"Derrote 200 Pesadelo Sinistro"
+			"Derrote 5 Bijou"
 		},
-		Summary = "Derrote 200 Pesadelo Sinistro"
+		Summary = "Derrote 5 Bijou"
 	},
 	[295268] = {
 		Title = "Passe de Batalha Diário 5",
 		Description = {
-			"Derrote Pesadelo Sinistro / Uma vez por semana, reinicia às 04:00"
+			"Derrote Bijou / Uma vez por semana, reinicia às 04:00"
 		},
 		Summary = "Reinicia às 04:00"
 	},
@@ -70759,249 +70918,5 @@ NpcSpr = [=[4_M_RACHMAN1]]
 			""
 		},
 		Summary = "Reseta após 20 horas"
-	},
-	[291494] = {
-		Title = "Carnaval",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"Para participar do Carnaval, \n\t\t\t\t\tvocê precisa da permissão da Mãe Natureza! \n\t\t\t\t\tEncontre os 4 Elementos na praia de Brasilis\n\t\t\t\t\te retorne ao <NAVI>[Gerente do Evento]<INFO>brasilis,246,323,0,101,0</INFO></NAVI>."
-		},
-		Summary = "Praia de Brasilis"
-	},
-	[291495] = {
-		Title = "Carnaval: Pedra do Fogo",
-		IconName = "ico_ev.bmp",
-		Description = {""},
-		Summary = ""
-	},
-	[291496] = {
-		Title = "Carnaval: Pedra da Água",
-		IconName = "ico_ev.bmp",
-		Description = {""},
-		Summary = ""
-	},
-	[291497] = {
-		Title = "Carnaval: Pedra do Vento",
-		IconName = "ico_ev.bmp",
-		Description = {""},
-		Summary = ""
-	},
-	[291498] = {
-		Title = "Carnaval: Pedra da Terra",
-		IconName = "ico_ev.bmp",
-		Description = {""},
-		Summary = ""
-	},
-	[291499] = {
-		Title = "Carnaval: Fantasia!",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"\"Não posso perder o concurso de fantasias por causa dele!\" \n\t\t\t\t- <NAVI>[Fernando]<INFO>brasilis,111,330,0,101,0</INFO></NAVI>."
-		},
-		Summary = "Elimine o monstro"
-	},
-	[291500] = {
-		Title = "[Espera] Fantasia!",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"Você completou a missão de Carnaval de hoje. Volte amanhã para <NAVI>[Fernando]<INFO>brasilis,111,330,0,101,0</INFO></NAVI>."
-		},
-		Summary = "Reseta 4 da manhã."
-	},
-	[291501] = {
-		Title = "Carnaval: Música Perdida",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"Porings Carnavalescos comeram as instruções de dança!\n\t\t\t\tColete os seguintes itens:\n\t\t\t\t2x ^ff0000^nItemID^6340^000000\n\t\t\t\t2x ^ff0000^nItemID^6341^000000\n\t\t\t\t2x ^ff0000^nItemID^6342^000000 \n\t\t\t\t2x ^ff0000^nItemID^6343^000000 \n\t\t\t\tE retorne para a <NAVI>[Sambista]<INFO>brasilis,201,145,0,101,0</INFO></NAVI>."
-		},
-		Summary = "Colete os Itens"
-	},
-	[291502] = {
-		Title = "[Espera] Música Perdida",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"Você completou a missão de Carnaval de hoje. Volte amanhã para <NAVI>[Sambista]<INFO>brasilis,201,145,0,101,0</INFO></NAVI>."
-		},
-		Summary = "Reseta 4 da manhã."
-	},
-	[291503] = {
-		Title = "Carnaval: Violino Quebrado",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"Vá até a casa de <NAVI>[Vinícius]<INFO>bra_in01,163,131,0,101,0</INFO></NAVI>!\n\t\t\t\tEle deve consertar o Violino se trouxer\n\t\t\t\t3x ^ff0000^nItemID^1002^000000\n\t\t\t\tDepois, traga o Violino de volta\n\t\t\t\tpara o jovem <NAVI>[Jobim]<INFO>brasilis,198,145,0,101,0</INFO></NAVI>."
-		},
-		Summary = "3x ITEM_NAME"
-	},
-	[291504] = {
-		Title = "[Espera] Violino Quebrado",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"Você completou a missão de Carnaval de hoje. Volte amanhã para <NAVI>[Jobim]<INFO>brasilis,198,145,0,101,0</INFO></NAVI>."
-		},
-		Summary = "Reseta 4 da manhã."
-	},
-	[291505] = {
-		Title = "Carnaval: Violino Quebrado",
-		IconName = "ico_ev.bmp",
-		Description = {""},
-		Summary = ""
-	},
-	[291506] = {
-		Title = "Carnaval: Restaurante",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"Ajude a pobre <NAVI>[Garçonete]<INFO>brasilis,338,228,0,101,0</INFO></NAVI>.\n\t\t\t\tAceite os pedidos dos clientes e\n\t\t\t\ttraga pratos de comida para eles."
-		},
-		Summary = "Anote Pedidos"
-	},
-	[291507] = {
-		Title = "[Espera] Restaurante",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"Você completou a missão de Carnaval de hoje. Volte amanhã para a <NAVI>[Garçonete]<INFO>brasilis,338,228,0,101,0</INFO></NAVI>."
-		},
-		Summary = "Reseta 4 da manhã."
-	},
-	[291508] = {
-		Title = "Carnaval: Mesa 1",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"Traga ^ff0000^nItemID^12044^000000 para o <NAVI>[Cliente]<INFO>brasilis,348,231,0,101,0</INFO></NAVI>."
-		},
-		Summary = "1x Bife Marinado com Ervas"
-	},
-	[291509] = {
-		Title = "Carnaval: Mesa 1",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"Traga ^ff0000^nItemID^12060^000000 para o <NAVI>[Cliente]<INFO>brasilis,348,231,0,101,0</INFO></NAVI>."
-		},
-		Summary = "1x Morcego na Moranga"
-	},
-	[291510] = {
-		Title = "Carnaval: Mesa 2",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"Traga ^ff0000^nItemID^12055^000000 para o <NAVI>[Cliente]<INFO>brasilis,329,224,0,101,0</INFO></NAVI>."
-		},
-		Summary = "1x Pão de Carne Picante"
-	},
-	[291511] = {
-		Title = "Carnaval: Mesa 2",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"Traga ^ff0000^nItemID^12050^000000 para o <NAVI>[Cliente]<INFO>brasilis,329,224,0,101,0</INFO></NAVI>."
-		},
-		Summary = "1x Vinho de Mastela"
-	},
-	[291512] = {
-		Title = "Carnaval: Mesa 3",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"Traga ^ff0000^nItemID^12065^000000 para o <NAVI>[Cliente]<INFO>brasilis,339,217,0,101,0</INFO></NAVI>."
-		},
-		Summary = "1x Salada Verde"
-	},
-	[291513] = {
-		Title = "Carnaval: Mesa 3",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"Traga ^ff0000^nItemID^12068^000000 para o <NAVI>[Cliente]<INFO>brasilis,339,217,0,101,0</INFO></NAVI>."
-		},
-		Summary = "1x Batata Doce Frita"
-	},
-	[291514] = {
-		Title = "Carnaval: Completo!",
-		IconName = "ico_ev.bmp",
-		Description = {""},
-		Summary = ""
-	},
-	[291515] = {
-		Title = "[Espera] Passe Diário",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"Você completou a missão de hoje!\n\t\t\t\tRetorne amanhã após o horário para\n\t\t\t\tcontinuar coletando os Selos!\n\n\t\t\t\t           <NAVI>[Folclorista]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>"
-		},
-		Summary = "Reseta 4 da manhã"
-	},
-	[291516] = {
-		Title = "Passe Diário: Dia 1",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"Elimine 30 monstros nos campos de Amatsu (ama_fild01) e retorne ao <NAVI>[Folclorista]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>."
-		},
-		Summary = "Caça em Amatsu"
-	},
-	[291517] = {
-		Title = "Passe Diário: Dia 2",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"Elimine 30 monstros nos campos de Kunlun (gon_fild01) e retorne ao <NAVI>[Folclorista]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>."
-		},
-		Summary = "Caça em Kunlun"
-	},
-	[291518] = {
-		Title = "Passe Diário: Dia 3",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"Elimine 30 monstros nos campos de Ayothaya (ayo_fild02) e retorne ao <NAVI>[Folclorista]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>."
-		},
-		Summary = "Caça em Ayothaya"
-	},
-	[291519] = {
-		Title = "Passe Diário: Dia 4",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"Elimine 30 monstros na Caverna de Louyang (lou_dun02) e retorne ao <NAVI>[Folclorista]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>."
-		},
-		Summary = "Caverna de Louyang"
-	},
-	[291520] = {
-		Title = "Passe Diário: Dia 5",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"Elimine 30 monstros na Caverna de Moscóvia (mosk_dun02) e retorne ao <NAVI>[Folclorista]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>."
-		},
-		Summary = "Floresta Encantada"
-	},
-	[291521] = {
-		Title = "Passe Diário: Dia 6",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"Elimine 30 monstros na Caverna de Dewata (dew_dun02) e retorne ao <NAVI>[Folclorista]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>."
-		},
-		Summary = "Caverna Istana"
-	},
-	[291522] = {
-		Title = "Passe Diário: Dia 7",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"Elimine 30 monstros nos campos de Brasilis (bra_fild01) e retorne ao <NAVI>[Folclorista]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>."
-		},
-		Summary = "Campos de Brasilis"
-	},
-	[291523] = {
-		Title = "Passe Diário: Dia 8",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"Elimine 30 monstros na Caverna de Brasilis (bra_dun01) e retorne ao <NAVI>[Folclorista]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>."
-		},
-		Summary = "Caverna de Brasilis"
-	},
-	[291524] = {
-		Title = "Passe Diário: Dia 9",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"Elimine 30 monstros na Caverna de Malangdo (mal_dun01) e retorne ao <NAVI>[Folclorista]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>."
-		},
-		Summary = "Caverna de Malangdo"
-	},
-	[291525] = {
-		Title = "Passe Diário: Dia 10",
-		IconName = "ico_ev.bmp",
-		Description = {
-			"Elimine 30 monstros na Caverna de Porto Malaya (ma_dun01) e retorne ao <NAVI>[Folclorista]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>."
-		},
-		Summary = "Caverna de Malaya"
 	}
 }

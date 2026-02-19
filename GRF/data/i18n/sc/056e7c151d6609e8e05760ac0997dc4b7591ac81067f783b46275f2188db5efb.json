@@ -615,7 +615,7 @@
         "ko": "하인리히:음 그래 페코페코 너에겐 할 일이 있다. 이 주변을 돌아다니며 생존자를 찾도록 해라.",
         "en": "Heinrich:Hmm, right. Peco Peco, I have a task for you. Roam around this area and look for survivors.",
         "pt": "Heinrich: Hmm, certo. PecoPeco, tenho uma tarefa para você. Procure por sobreviventes.",
-        "es": "Heinrich: Mmm, cierto. Peco Peco, tengo una tarea para ti. Deambula por esta área y busca supervivientes."
+        "es": "Heinrich: Mmm, cierto. Peco Peco, tengo una tarea para ti. Deambula por esta área y busca sobrevivientes."
     },
     "xw8bDA": {
         "ko": "하인리히:그럼 바르문트님 서둘러 히멜메즈의 뒤를 쫓읍시다.",
@@ -675,19 +675,19 @@
         "ko": "이봐 정신차려! 생존자는 너 혼자인가?",
         "en": "Hey, snap out of it! Are you the only survivor?",
         "pt": "Você é o único sobrevivente?",
-        "es": "¡Oye, reacciona! ¿Eres el único superviviente?"
+        "es": "¡Oye, reacciona! ¿Eres el único sobreviviente?"
     },
     "0Q8bDA": {
         "ko": "[{0}]\n이봐 정신차려! 생존자는 너 혼자인가?",
         "en": "[{0}]\nHey, snap out of it! Are you the only survivor?",
         "pt": "[{0}]\nVocê é o único sobrevivente?",
-        "es": "[{0}]\n¡Oye, reacciona! ¿Eres el único superviviente?"
+        "es": "[{0}]\n¡Oye, reacciona! ¿Eres el único sobreviviente?"
     },
     "0g8bDA": {
         "ko": "이봐 정신차려! 생존자는 너 혼자인가?",
         "en": "Hey, snap out of it! Are you the only survivor?",
         "pt": "Você é o único sobrevivente?",
-        "es": "¡Oye, reacciona! ¿Eres el único superviviente?"
+        "es": "¡Oye, reacciona! ¿Eres el único sobreviviente?"
     },
     "0w8bDA": {
         "ko": "[복사지망생 도문]\n괴물이 ... 말을 하고 있어!?...",
@@ -825,25 +825,25 @@
         "ko": "[{0}]\n안심하세요! 사람입니다. 혼자십니까? 다른 생존자는 없어요?",
         "en": "[{0}]\nBe at ease! I am human. Are you alone? Are there no other survivors?",
         "pt": "[{0}]\nAcalme-se! Sou da paz. Você está sozinha? Não há outros sobreviventes?",
-        "es": "[{0}]\n¡Tranquilo! Soy humano. ¿Estás sola? ¿No hay otros supervivientes?"
+        "es": "[{0}]\n¡Tranquilo! Soy humano. ¿Estás sola? ¿No hay otros sobrevivientes?"
     },
     "6g8bDA": {
         "ko": "안심하세요! 사람입니다. 혼자십니까? 다른 생존자는 없어요?",
         "en": "Be at ease! I am human. Are you alone? Are there no other survivors?",
         "pt": "Acalme-se! Sou da paz. Você está sozinha? Não há outros sobreviventes?",
-        "es": "¡Tranquilo! Soy humano. ¿Estás sola? ¿No hay otros supervivientes?"
+        "es": "¡Tranquilo! Soy humano. ¿Estás sola? ¿No hay otros sobrevivientes?"
     },
     "6w8bDA": {
         "ko": "[홀그렌 디스트로이어]\n사람인데 왜 페코페코의 형상이죠? 어쨌건 이곳의 생존자는 저 혼자예요",
         "en": "[Holgren Destroyer]\nHuman? Then why do you look like a Peco Peco? Anyway, I'm the only survivor here.",
         "pt": "[Senhora Holgren]\nPor que você parece um PecoPeco? Enfim, sou a única sobrevivente aqui.",
-        "es": "[Destructora Holgren]\n¿Humano? ¿Entonces por qué tienes forma de Peco Peco? En fin, soy la única superviviente aquí."
+        "es": "[Destructora Holgren]\n¿Humano? ¿Entonces por qué tienes forma de Peco Peco? En fin, soy la única sobreviviente aquí."
     },
     "7A8bDA": {
         "ko": "홀그렌 디스트로이어: 사람인데 왜 페코페코의 형상이죠? 어쨌건 이곳의 생존자는 저 혼자예요",
         "en": "Holgren Destroyer: Human? Then why do you look like a Peco Peco? Anyway, I'm the only survivor here.",
         "pt": "Senhora Holgren: Por que você parece um PecoPeco? Enfim, sou a única sobrevivente aqui.",
-        "es": "Destructora Holgren: ¿Humano? ¿Entonces por qué tienes forma de Peco Peco? En fin, soy la única superviviente aquí."
+        "es": "Destructora Holgren: ¿Humano? ¿Entonces por qué tienes forma de Peco Peco? En fin, soy la única sobreviviente aquí."
     },
     "7Q8bDA": {
         "ko": "여긴 위험합니다",

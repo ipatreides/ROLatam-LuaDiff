@@ -163,5 +163,20 @@
         "en": "[Swordman Guild Member]\nYou already have one of the other jobs, don't you?\nYou've gone too far with that joke.",
         "pt": "[Mestre Espadachim]\nVocê já tem outra classe, não tem?\nVocê já foi longe demais com essa brincadeira.",
         "es": "[Espadachín gremialista]\nYa tienes una de las otras clases, ¿no?\nFuiste demasiado lejos con esa broma."
+    },
+    "QW6/Ag": {
+        "en": "[Swordsman Guild Member]\nIt seems you have come this far due to a special connection."
+    },
+    "Qm6/Ag": {
+        "en": "^4D4DFF You can summon a service NPC for job change.\n^4D4DFF Booster promotion eligible players can change jobs through the job change agent.^000000"
+    },
+    "Q26/Ag": {
+        "en": "Summon a job change agent for job change."
+    },
+    "RG6/Ag": {
+        "en": "Decline."
+    },
+    "RW6/Ag": {
+        "en": "^4D4DFF Booster promotion eligible players can change jobs through the job change agent.\nThird job change can also be done at each job guild.^000000"
     }
 }
