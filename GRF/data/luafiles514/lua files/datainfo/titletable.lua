@@ -34,7 +34,7 @@ title_tbl = {
 	[1032] = "Bebê",
 	[1033] = "Responsável",
 	[1034] = "Nobre",
-	[1046] = "Maioral",
+	[1046] = "Criador de Reis",
 	[9979] = "Influencer",
 	[1045] = "Ilusionista"
 }

@@ -4,6 +4,19 @@ TB_Layer_Priority = {
 	Default_Bottom = 300,
 	Default_Robe = 400,
 	Items_List = {
+		[ACCESSORY_IDs.ACCESSORY_C_Feather_Hair_TT] = {
+			Default = 143,
+			Direction = {}
+		},
+		[ACCESSORY_IDs.ACCESSORY_Dark_Night_Veil] = {
+			Default = 304,
+			Direction = {}
+		},
+		[ACCESSORY_IDs.ACCESSORY_C_CLB_GAT_bye] = {Default = 403, isIgnoreRiding = true},
+		[ACCESSORY_IDs.ACCESSORY_C_CLB_GAT_go] = {
+			Default = -300,
+			Direction = {}
+		},
 		[ACCESSORY_IDs.ACCESSORY_C_L_Knitting_Wave_RSV] = {
 			Default = 143,
 			Direction = {}

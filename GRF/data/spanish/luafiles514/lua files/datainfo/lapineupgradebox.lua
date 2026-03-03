@@ -15300,6 +15300,1362 @@ tblLapineUpgradeBox = {
 				}
 			},
 			NeedSource_String = "Sealed Hero Weapons"
+		},
+		Booster_RandomOpt_M = {
+			ItemID = 100723,
+			NeedRefineMin = 0,
+			NeedRefineMax = 0,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"IW_B_T_Sword",
+					600012
+				},
+				{
+					"HB_B_T_Spear",
+					630008
+				},
+				{"BC_B_Spear", 530005},
+				{"PG_B_Sword", 500015},
+				{"PT_B_Axe", 620003},
+				{"AK_B_Mace", 590008},
+				{"AC_B_Club", 590009},
+				{"HS_T_Sword", 500016},
+				{"RC_B_Katar", 610013},
+				{"CA_B_Katar", 610028},
+				{"TB_B_Bow", 700014},
+				{
+					"MF_B_Dagger",
+					510018
+				},
+				{"CS_B_Staff", 640009},
+				{"CJ_B_Staff", 640010},
+				{"SB_B_Book", 540009},
+				{"ES_B_Stick", 550010},
+				{"AN_B_Wand", 550011},
+				{"DD_B_Mace", 590010},
+				{
+					"PS_B_Knuckle",
+					560006
+				},
+				{
+					"CP_B_Knuckle",
+					560007
+				},
+				{"AS_B_Bow", 700015},
+				{"SB_B_Bow", 700016},
+				{
+					"RS_B_Violin",
+					570024
+				},
+				{"RS_B_Whip", 580024},
+				{
+					"MV_B_Violin",
+					570010
+				},
+				{"MV_B_Whip", 580010},
+				{"SP_B_Fox", 550050},
+				{"GB_B_Fox", 550051},
+				{"ML_B_Book", 540039},
+				{"SS_B_Book", 540040},
+				{
+					"FCH_B_Huuma",
+					650017
+				},
+				{"SN_B_Huuma", 650018},
+				{
+					"DF_B_Revolver",
+					800008
+				},
+				{
+					"FR_B_Gatling",
+					830007
+				},
+				{"ES_B_Staff", 550052},
+				{"EC_B_Staff", 550053},
+				{"SP_B_Saber", 500042},
+				{"SI_B_Saber", 500043}
+			},
+			NeedSource_String = ""
+		},
+		Booster_RandomOpt_P = {
+			ItemID = 100722,
+			NeedRefineMin = 0,
+			NeedRefineMax = 0,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"IW_B_T_Sword",
+					600012
+				},
+				{
+					"HB_B_T_Spear",
+					630008
+				},
+				{"BC_B_Spear", 530005},
+				{"PG_B_Sword", 500015},
+				{"PT_B_Axe", 620003},
+				{"AK_B_Mace", 590008},
+				{"AC_B_Club", 590009},
+				{"HS_T_Sword", 500016},
+				{"RC_B_Katar", 610013},
+				{"CA_B_Katar", 610028},
+				{"TB_B_Bow", 700014},
+				{
+					"MF_B_Dagger",
+					510018
+				},
+				{"CS_B_Staff", 640009},
+				{"CJ_B_Staff", 640010},
+				{"SB_B_Book", 540009},
+				{"ES_B_Stick", 550010},
+				{"AN_B_Wand", 550011},
+				{"DD_B_Mace", 590010},
+				{
+					"PS_B_Knuckle",
+					560006
+				},
+				{
+					"CP_B_Knuckle",
+					560007
+				},
+				{"AS_B_Bow", 700015},
+				{"SB_B_Bow", 700016},
+				{
+					"RS_B_Violin",
+					570024
+				},
+				{
+					"MV_B_Violin",
+					570010
+				},
+				{"MV_B_Whip", 580010},
+				{"RS_B_Whip", 580024},
+				{"SP_B_Fox", 550050},
+				{"GB_B_Fox", 550051},
+				{"ML_B_Book", 540039},
+				{"SS_B_Book", 540040},
+				{
+					"FCH_B_Huuma",
+					650017
+				},
+				{"SN_B_Huuma", 650018},
+				{
+					"DF_B_Revolver",
+					800008
+				},
+				{
+					"FR_B_Gatling",
+					830007
+				},
+				{"ES_B_Staff", 550052},
+				{"EC_B_Staff", 550053},
+				{"SP_B_Saber", 500042},
+				{"SI_B_Saber", 500043}
+			},
+			NeedSource_String = ""
+		},
+		Booster_W_Up_1 = {
+			ItemID = 100338,
+			NeedRefineMin = 0,
+			NeedRefineMax = 8,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = false,
+			TargetItems = {
+				{
+					"IW_B_T_Sword",
+					600012
+				},
+				{
+					"HB_B_T_Spear",
+					630008
+				},
+				{"BC_B_Spear", 530005},
+				{"PG_B_Sword", 500015},
+				{"PT_B_Axe", 620003},
+				{"AK_B_Mace", 590008},
+				{"AC_B_Club", 590009},
+				{"HS_T_Sword", 500016},
+				{"RC_B_Katar", 610013},
+				{
+					"CA_B_Dagger",
+					510017
+				},
+				{"TB_B_Bow", 700014},
+				{
+					"MF_B_Dagger",
+					510018
+				},
+				{"CS_B_Staff", 640009},
+				{"CJ_B_Staff", 640010},
+				{"SB_B_Book", 540009},
+				{"ES_B_Stick", 550010},
+				{"AN_B_Wand", 550011},
+				{"DD_B_Mace", 590010},
+				{
+					"PS_B_Knuckle",
+					560006
+				},
+				{
+					"CP_B_Knuckle",
+					560007
+				},
+				{"AS_B_Bow", 700015},
+				{"SB_B_Bow", 700016},
+				{"RS_B_Bow", 700017},
+				{
+					"MV_B_Violin",
+					570010
+				},
+				{"MV_B_Whip", 580010}
+			},
+			NeedSource_String = "Arma de Booster"
+		},
+		Booster_W_Up_2 = {
+			ItemID = 100339,
+			NeedRefineMin = 0,
+			NeedRefineMax = 10,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = false,
+			TargetItems = {
+				{
+					"IW_B_T_Sword",
+					600012
+				},
+				{
+					"HB_B_T_Spear",
+					630008
+				},
+				{"BC_B_Spear", 530005},
+				{"PG_B_Sword", 500015},
+				{"PT_B_Axe", 620003},
+				{"AK_B_Mace", 590008},
+				{"AC_B_Club", 590009},
+				{"HS_T_Sword", 500016},
+				{"RC_B_Katar", 610013},
+				{
+					"CA_B_Dagger",
+					510017
+				},
+				{"TB_B_Bow", 700014},
+				{
+					"MF_B_Dagger",
+					510018
+				},
+				{"CS_B_Staff", 640009},
+				{"CJ_B_Staff", 640010},
+				{"SB_B_Book", 540009},
+				{"ES_B_Stick", 550010},
+				{"AN_B_Wand", 550011},
+				{"DD_B_Mace", 590010},
+				{
+					"PS_B_Knuckle",
+					560006
+				},
+				{
+					"CP_B_Knuckle",
+					560007
+				},
+				{"AS_B_Bow", 700015},
+				{"SB_B_Bow", 700016},
+				{"RS_B_Bow", 700017},
+				{
+					"MV_B_Violin",
+					570010
+				},
+				{"MV_B_Whip", 580010}
+			},
+			NeedSource_String = "Arma de Booster"
+		},
+		Booster_W_Up_3 = {
+			ItemID = 100340,
+			NeedRefineMin = 0,
+			NeedRefineMax = 12,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = false,
+			TargetItems = {
+				{
+					"IW_B_T_Sword",
+					600012
+				},
+				{
+					"HB_B_T_Spear",
+					630008
+				},
+				{"BC_B_Spear", 530005},
+				{"PG_B_Sword", 500015},
+				{"PT_B_Axe", 620003},
+				{"AK_B_Mace", 590008},
+				{"AC_B_Club", 590009},
+				{"HS_T_Sword", 500016},
+				{"RC_B_Katar", 610013},
+				{
+					"CA_B_Dagger",
+					510017
+				},
+				{"TB_B_Bow", 700014},
+				{
+					"MF_B_Dagger",
+					510018
+				},
+				{"CS_B_Staff", 640009},
+				{"CJ_B_Staff", 640010},
+				{"SB_B_Book", 540009},
+				{"ES_B_Stick", 550010},
+				{"AN_B_Wand", 550011},
+				{"DD_B_Mace", 590010},
+				{
+					"PS_B_Knuckle",
+					560006
+				},
+				{
+					"CP_B_Knuckle",
+					560007
+				},
+				{"AS_B_Bow", 700015},
+				{"SB_B_Bow", 700016},
+				{"RS_B_Bow", 700017},
+				{
+					"MV_B_Violin",
+					570010
+				},
+				{"MV_B_Whip", 580010}
+			},
+			NeedSource_String = "Arma de Booster"
+		},
+		E_ILL_Up = {
+			ItemID = 100341,
+			NeedRefineMin = 0,
+			NeedRefineMax = 9,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = false,
+			TargetItems = {
+				{
+					"E_Illusion_Armor_A",
+					450147
+				},
+				{
+					"E_Illusion_Armor_B",
+					450148
+				},
+				{
+					"E_Illusion_Engine_A",
+					480062
+				},
+				{
+					"E_Illusion_Engine_B",
+					480063
+				},
+				{
+					"E_Illusion_Leg_A",
+					470054
+				},
+				{
+					"E_Illusion_Leg_B",
+					470055
+				}
+			},
+			NeedSource_String = "Illusion Armor (Bound)"
+		},
+		Boost_Up_1 = {
+			ItemID = 100043,
+			NeedRefineMin = 0,
+			NeedRefineMax = 9,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = false,
+			TargetItems = {
+				{
+					"Atker_Plate",
+					450001
+				},
+				{
+					"Atker_Manteau",
+					480000
+				},
+				{
+					"Atker_Greave",
+					470000
+				},
+				{"Ran_Suits", 450004},
+				{
+					"Ran_Manteau",
+					480003
+				},
+				{"Ran_Boots", 470003},
+				{"Ele_Robe", 450002},
+				{
+					"Ele_Muffler",
+					480001
+				},
+				{"Ele_Shoes", 470001},
+				{"Defn_Robe", 450003},
+				{
+					"Defn_Muffler",
+					480002
+				},
+				{"Defn_Shoes", 470002}
+			},
+			NeedSource_String = "Armadura de Booster"
+		},
+		Ein_Ddbox = {
+			ItemID = 9514,
+			NeedRefineMin = 0,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"Ein_BHSWORD",
+					21054
+				},
+				{
+					"Ein_BHSTAFF",
+					2058
+				},
+				{
+					"Ein_BHHuuma",
+					13346
+				},
+				{
+					"Ein_BHKATAR",
+					28045
+				},
+				{"Ein_BHAXE", 28140},
+				{"Ein_BHBOW", 18190},
+				{
+					"Ein_1HKNUCK",
+					1867
+				},
+				{
+					"Ein_1HHAMMER",
+					16099
+				},
+				{"Ein_1HWAND", 26162},
+				{"Ein_1HWHIP", 26215},
+				{"Ein_1HBOOK", 28635},
+				{
+					"Ein_1HDAGGER",
+					28771
+				},
+				{
+					"Ein_1HMAGGER",
+					28772
+				},
+				{
+					"Ein_1HSPEAR",
+					32026
+				},
+				{"Ein_1HLUTE", 32110},
+				{
+					"Ein_1HSWORD",
+					32352
+				},
+				{"Ein_1HGUN", 32303},
+				{
+					"Ein_1H_Foxtail",
+					550006
+				}
+			},
+			NeedSource_String = "Sistema de modificación física"
+		},
+		Ein_Ddbox2 = {
+			ItemID = 9529,
+			NeedRefineMin = 0,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"Ein_BHSWORD",
+					21054
+				},
+				{
+					"Ein_BHSTAFF",
+					2058
+				},
+				{
+					"Ein_BHHuuma",
+					13346
+				},
+				{
+					"Ein_BHKATAR",
+					28045
+				},
+				{"Ein_BHAXE", 28140},
+				{"Ein_BHBOW", 18190},
+				{
+					"Ein_1HKNUCK",
+					1867
+				},
+				{
+					"Ein_1HHAMMER",
+					16099
+				},
+				{"Ein_1HWAND", 26162},
+				{"Ein_1HWHIP", 26215},
+				{"Ein_1HBOOK", 28635},
+				{
+					"Ein_1HDAGGER",
+					28771
+				},
+				{
+					"Ein_1HMAGGER",
+					28772
+				},
+				{
+					"Ein_1HSPEAR",
+					32026
+				},
+				{"Ein_1HLUTE", 32110},
+				{
+					"Ein_1HSWORD",
+					32352
+				},
+				{"Ein_1HGUN", 32303},
+				{
+					"Ein_1H_Foxtail",
+					550006
+				}
+			},
+			NeedSource_String = "Sistema de modificación mágica"
+		},
+		Abyss_Ddbox = {
+			ItemID = 23981,
+			NeedRefineMin = 0,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"DragonA_Red",
+					15391
+				},
+				{
+					"DragonA_Green",
+					15392
+				},
+				{
+					"DragonA_Gold",
+					15393
+				},
+				{
+					"DragonA_Purple",
+					15394
+				},
+				{
+					"DragonA_Blue",
+					15395
+				},
+				{
+					"DragonA_Silver",
+					15396
+				}
+			},
+			NeedSource_String = "Energía del dragón arremolinada"
+		},
+		Abyss_Ddbox2 = {
+			ItemID = 100142,
+			NeedRefineMin = 0,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"DragonA_Red",
+					15391
+				},
+				{
+					"DragonA_Green",
+					15392
+				},
+				{
+					"DragonA_Gold",
+					15393
+				},
+				{
+					"DragonA_Purple",
+					15394
+				},
+				{
+					"DragonA_Blue",
+					15395
+				},
+				{
+					"DragonA_Silver",
+					15396
+				}
+			},
+			NeedSource_String = "Energía del dragón poderosa"
+		},
+		Abyss_Ddbox3 = {
+			ItemID = 100144,
+			NeedRefineMin = 0,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"Drag_Manteau",
+					20946
+				}
+			},
+			NeedSource_String = "Energía del dragón ardiente"
+		},
+		Abyss_Ddbox4 = {
+			ItemID = 100145,
+			NeedRefineMin = 0,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"Dragon_Boots",
+					22208
+				}
+			},
+			NeedSource_String = "Energía del dragón caliente"
+		},
+		Auto_Imp_Melee_1 = {
+			ItemID = 100164,
+			NeedRefineMin = 0,
+			NeedRefineMax = 20,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"Ep172_1h_Sword",
+					500007
+				},
+				{
+					"Ep172_Bh_Sword",
+					600008
+				},
+				{
+					"Ep172_1h_Wand",
+					550008
+				},
+				{
+					"Ep172_1h_Book",
+					540004
+				},
+				{
+					"Ep172_1h_Axe",
+					520002
+				},
+				{
+					"Ep172_1h_Sword2",
+					500008
+				},
+				{
+					"Ep172_Bh_Bow",
+					700007
+				},
+				{
+					"Ep172_Bh_Bow2",
+					700008
+				},
+				{
+					"Ep172_Bh_knuck",
+					560004
+				},
+				{
+					"Ep172_1h_Spear",
+					530002
+				},
+				{
+					"Ep172_Bh_Spear",
+					630003
+				},
+				{
+					"Ep172_1h_Dagger",
+					510008
+				},
+				{
+					"Ep172_Bh_Katar",
+					610006
+				},
+				{
+					"Ep172_Bh_Staff",
+					640005
+				},
+				{
+					"Ep172_1h_Book2",
+					540005
+				},
+				{
+					"Ep172_1h_Dagger2",
+					510009
+				},
+				{
+					"Ep172_1h_Whip",
+					580005
+				},
+				{
+					"Ep172_1h_Inst",
+					570005
+				},
+				{
+					"Ep172_Bh_Bow3",
+					700009
+				},
+				{
+					"Ep172_Bh_Huuma",
+					650003
+				},
+				{
+					"Ep172_1h_Hammer",
+					590006
+				},
+				{
+					"Ep172_1h_Foxtail",
+					550009
+				},
+				{
+					"Ep172_1h_Rifle",
+					810000
+				},
+				{
+					"Ep172_1h_Shotgun",
+					820000
+				},
+				{
+					"Ep172_1h_Gatling",
+					830001
+				},
+				{
+					"Ep172_1h_Grenade",
+					840000
+				}
+			},
+			NeedSource_String = "Arma objetivo de mejora intermedia (físico)"
+		},
+		Auto_Imp_Melee_2 = {
+			ItemID = 100165,
+			NeedRefineMin = 0,
+			NeedRefineMax = 20,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"Ep172_1h_Sword",
+					500007
+				},
+				{
+					"Ep172_Bh_Sword",
+					600008
+				},
+				{
+					"Ep172_1h_Wand",
+					550008
+				},
+				{
+					"Ep172_1h_Book",
+					540004
+				},
+				{
+					"Ep172_1h_Axe",
+					520002
+				},
+				{
+					"Ep172_1h_Sword2",
+					500008
+				},
+				{
+					"Ep172_Bh_Bow",
+					700007
+				},
+				{
+					"Ep172_Bh_Bow2",
+					700008
+				},
+				{
+					"Ep172_Bh_knuck",
+					560004
+				},
+				{
+					"Ep172_1h_Spear",
+					530002
+				},
+				{
+					"Ep172_Bh_Spear",
+					630003
+				},
+				{
+					"Ep172_1h_Dagger",
+					510008
+				},
+				{
+					"Ep172_Bh_Katar",
+					610006
+				},
+				{
+					"Ep172_Bh_Staff",
+					640005
+				},
+				{
+					"Ep172_1h_Book2",
+					540005
+				},
+				{
+					"Ep172_1h_Dagger2",
+					510009
+				},
+				{
+					"Ep172_1h_Whip",
+					580005
+				},
+				{
+					"Ep172_1h_Inst",
+					570005
+				},
+				{
+					"Ep172_Bh_Bow3",
+					700009
+				},
+				{
+					"Ep172_Bh_Huuma",
+					650003
+				},
+				{
+					"Ep172_1h_Hammer",
+					590006
+				},
+				{
+					"Ep172_1h_Foxtail",
+					550009
+				},
+				{
+					"Ep172_1h_Rifle",
+					810000
+				},
+				{
+					"Ep172_1h_Shotgun",
+					820000
+				},
+				{
+					"Ep172_1h_Gatling",
+					830001
+				},
+				{
+					"Ep172_1h_Grenade",
+					840000
+				}
+			},
+			NeedSource_String = "Arma objetivo de mejora avanzada (físico)"
+		},
+		Auto_Imp_Melee_3 = {
+			ItemID = 100166,
+			NeedRefineMin = 0,
+			NeedRefineMax = 20,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"Ep172_1h_Sword",
+					500007
+				},
+				{
+					"Ep172_Bh_Sword",
+					600008
+				},
+				{
+					"Ep172_1h_Wand",
+					550008
+				},
+				{
+					"Ep172_1h_Book",
+					540004
+				},
+				{
+					"Ep172_1h_Axe",
+					520002
+				},
+				{
+					"Ep172_1h_Sword2",
+					500008
+				},
+				{
+					"Ep172_Bh_Bow",
+					700007
+				},
+				{
+					"Ep172_Bh_Bow2",
+					700008
+				},
+				{
+					"Ep172_Bh_knuck",
+					560004
+				},
+				{
+					"Ep172_1h_Spear",
+					530002
+				},
+				{
+					"Ep172_Bh_Spear",
+					630003
+				},
+				{
+					"Ep172_1h_Dagger",
+					510008
+				},
+				{
+					"Ep172_Bh_Katar",
+					610006
+				},
+				{
+					"Ep172_Bh_Staff",
+					640005
+				},
+				{
+					"Ep172_1h_Book2",
+					540005
+				},
+				{
+					"Ep172_1h_Dagger2",
+					510009
+				},
+				{
+					"Ep172_1h_Whip",
+					580005
+				},
+				{
+					"Ep172_1h_Inst",
+					570005
+				},
+				{
+					"Ep172_Bh_Bow3",
+					700009
+				},
+				{
+					"Ep172_Bh_Huuma",
+					650003
+				},
+				{
+					"Ep172_1h_Hammer",
+					590006
+				},
+				{
+					"Ep172_1h_Foxtail",
+					550009
+				},
+				{
+					"Ep172_1h_Rifle",
+					810000
+				},
+				{
+					"Ep172_1h_Shotgun",
+					820000
+				},
+				{
+					"Ep172_1h_Gatling",
+					830001
+				},
+				{
+					"Ep172_1h_Grenade",
+					840000
+				}
+			},
+			NeedSource_String = "Arma objetivo de mejora superior (físico)"
+		},
+		Auto_Imp_Magic_1 = {
+			ItemID = 100167,
+			NeedRefineMin = 0,
+			NeedRefineMax = 20,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"Ep172_1h_Sword",
+					500007
+				},
+				{
+					"Ep172_Bh_Sword",
+					600008
+				},
+				{
+					"Ep172_1h_Wand",
+					550008
+				},
+				{
+					"Ep172_1h_Book",
+					540004
+				},
+				{
+					"Ep172_1h_Axe",
+					520002
+				},
+				{
+					"Ep172_1h_Sword2",
+					500008
+				},
+				{
+					"Ep172_Bh_Bow",
+					700007
+				},
+				{
+					"Ep172_Bh_Bow2",
+					700008
+				},
+				{
+					"Ep172_Bh_knuck",
+					560004
+				},
+				{
+					"Ep172_1h_Spear",
+					530002
+				},
+				{
+					"Ep172_Bh_Spear",
+					630003
+				},
+				{
+					"Ep172_1h_Dagger",
+					510008
+				},
+				{
+					"Ep172_Bh_Katar",
+					610006
+				},
+				{
+					"Ep172_Bh_Staff",
+					640005
+				},
+				{
+					"Ep172_1h_Book2",
+					540005
+				},
+				{
+					"Ep172_1h_Dagger2",
+					510009
+				},
+				{
+					"Ep172_1h_Whip",
+					580005
+				},
+				{
+					"Ep172_1h_Inst",
+					570005
+				},
+				{
+					"Ep172_Bh_Bow3",
+					700009
+				},
+				{
+					"Ep172_Bh_Huuma",
+					650003
+				},
+				{
+					"Ep172_1h_Hammer",
+					590006
+				},
+				{
+					"Ep172_1h_Foxtail",
+					550009
+				},
+				{
+					"Ep172_1h_Rifle",
+					810000
+				},
+				{
+					"Ep172_1h_Shotgun",
+					820000
+				},
+				{
+					"Ep172_1h_Gatling",
+					830001
+				},
+				{
+					"Ep172_1h_Grenade",
+					840000
+				}
+			},
+			NeedSource_String = "Arma objetivo de mejora intermedia (mágico)"
+		},
+		Auto_Imp_Magic_2 = {
+			ItemID = 100168,
+			NeedRefineMin = 0,
+			NeedRefineMax = 20,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"Ep172_1h_Sword",
+					500007
+				},
+				{
+					"Ep172_Bh_Sword",
+					600008
+				},
+				{
+					"Ep172_1h_Wand",
+					550008
+				},
+				{
+					"Ep172_1h_Book",
+					540004
+				},
+				{
+					"Ep172_1h_Axe",
+					520002
+				},
+				{
+					"Ep172_1h_Sword2",
+					500008
+				},
+				{
+					"Ep172_Bh_Bow",
+					700007
+				},
+				{
+					"Ep172_Bh_Bow2",
+					700008
+				},
+				{
+					"Ep172_Bh_knuck",
+					560004
+				},
+				{
+					"Ep172_1h_Spear",
+					530002
+				},
+				{
+					"Ep172_Bh_Spear",
+					630003
+				},
+				{
+					"Ep172_1h_Dagger",
+					510008
+				},
+				{
+					"Ep172_Bh_Katar",
+					610006
+				},
+				{
+					"Ep172_Bh_Staff",
+					640005
+				},
+				{
+					"Ep172_1h_Book2",
+					540005
+				},
+				{
+					"Ep172_1h_Dagger2",
+					510009
+				},
+				{
+					"Ep172_1h_Whip",
+					580005
+				},
+				{
+					"Ep172_1h_Inst",
+					570005
+				},
+				{
+					"Ep172_Bh_Bow3",
+					700009
+				},
+				{
+					"Ep172_Bh_Huuma",
+					650003
+				},
+				{
+					"Ep172_1h_Hammer",
+					590006
+				},
+				{
+					"Ep172_1h_Foxtail",
+					550009
+				},
+				{
+					"Ep172_1h_Rifle",
+					810000
+				},
+				{
+					"Ep172_1h_Shotgun",
+					820000
+				},
+				{
+					"Ep172_1h_Gatling",
+					830001
+				},
+				{
+					"Ep172_1h_Grenade",
+					840000
+				}
+			},
+			NeedSource_String = "Arma objetivo de mejora avanzada (mágico)"
+		},
+		Auto_Imp_Magic_3 = {
+			ItemID = 100169,
+			NeedRefineMin = 0,
+			NeedRefineMax = 20,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"Ep172_1h_Sword",
+					500007
+				},
+				{
+					"Ep172_Bh_Sword",
+					600008
+				},
+				{
+					"Ep172_1h_Wand",
+					550008
+				},
+				{
+					"Ep172_1h_Book",
+					540004
+				},
+				{
+					"Ep172_1h_Axe",
+					520002
+				},
+				{
+					"Ep172_1h_Sword2",
+					500008
+				},
+				{
+					"Ep172_Bh_Bow",
+					700007
+				},
+				{
+					"Ep172_Bh_Bow2",
+					700008
+				},
+				{
+					"Ep172_Bh_knuck",
+					560004
+				},
+				{
+					"Ep172_1h_Spear",
+					530002
+				},
+				{
+					"Ep172_Bh_Spear",
+					630003
+				},
+				{
+					"Ep172_1h_Dagger",
+					510008
+				},
+				{
+					"Ep172_Bh_Katar",
+					610006
+				},
+				{
+					"Ep172_Bh_Staff",
+					640005
+				},
+				{
+					"Ep172_1h_Book2",
+					540005
+				},
+				{
+					"Ep172_1h_Dagger2",
+					510009
+				},
+				{
+					"Ep172_1h_Whip",
+					580005
+				},
+				{
+					"Ep172_1h_Inst",
+					570005
+				},
+				{
+					"Ep172_Bh_Bow3",
+					700009
+				},
+				{
+					"Ep172_Bh_Huuma",
+					650003
+				},
+				{
+					"Ep172_1h_Hammer",
+					590006
+				},
+				{
+					"Ep172_1h_Foxtail",
+					550009
+				},
+				{
+					"Ep172_1h_Rifle",
+					810000
+				},
+				{
+					"Ep172_1h_Shotgun",
+					820000
+				},
+				{
+					"Ep172_1h_Gatling",
+					830001
+				},
+				{
+					"Ep172_1h_Grenade",
+					840000
+				}
+			},
+			NeedSource_String = "Arma objetivo de mejora superior (mágico)"
+		},
+		Illu_Enhance_Cube = {
+			ItemID = 100251,
+			NeedRefineMin = 4,
+			NeedRefineMax = 6,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"Illusion_Armor_A",
+					15376
+				},
+				{
+					"Illusion_Armor_B",
+					15377
+				},
+				{
+					"Illusion_Engine_A",
+					20933
+				},
+				{
+					"Illusion_Engine_B",
+					20934
+				},
+				{
+					"Illusion_Leg_A",
+					22196
+				},
+				{
+					"Illusion_Leg_B",
+					22197
+				}
+			},
+			NeedSource_String = "Armadura Illusion (refino 4 o superior)"
+		},
+		Auto_Enhance_Cube = {
+			ItemID = 100252,
+			NeedRefineMin = 4,
+			NeedRefineMax = 6,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"Auto_Armor_A",
+					450127
+				},
+				{
+					"Auto_Armor_B",
+					450128
+				},
+				{
+					"Auto_Engine_A",
+					480020
+				},
+				{
+					"Auto_Engine_B",
+					480021
+				},
+				{"Auto_Leg_A", 470022},
+				{"Auto_Leg_B", 470023}
+			},
+			NeedSource_String = "Armadura Automático (refino 4 o superior)"
 		}
 	},
 	get_lapine_box = function(in_box_id)

@@ -1011,15 +1011,6 @@ mapTbl = {
 		},
 		backgroundBmp = "dungeon"
 	},
-	["abyss_04.rsw"] = {
-		displayName = "Cueva subterránea del lago Abismo (4)",
-		notifyEnter = true,
-		signName = {
-			subTitle = "Cueva subterránea",
-			mainTitle = "Lago del Abismo"
-		},
-		backgroundBmp = "dungeon"
-	},
 	["airplane.rsw"] = {
 		displayName = "Aeronave",
 		notifyEnter = true,
@@ -1978,14 +1969,6 @@ mapTbl = {
 		notifyEnter = true,
 		signName = {
 			mainTitle = "Mazmorra de la mina de Einbech, piso 2"
-		},
-		backgroundBmp = "dungeon_s2"
-	},
-	["ein_dun03.rsw"] = {
-		displayName = "Mina de mazmorra (3)",
-		notifyEnter = true,
-		signName = {
-			mainTitle = "Mina de mazmorra (3)"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
@@ -4614,14 +4597,6 @@ mapTbl = {
 			mainTitle = "Herida del saqueador, piso 2"
 		},
 		backgroundBmp = "dungeon_s2"
-	},
-	["odin_past.rsw"] = {
-		displayName = "Antiguo templo de Odín",
-		notifyEnter = true,
-		signName = {
-			mainTitle = "Templo de Odín (Pasado)"
-		},
-		backgroundBmp = "field2_s2"
 	},
 	["odin_tem01.rsw"] = {
 		displayName = "Templo de Odín de Hugel, lado oeste",
@@ -7955,6 +7930,174 @@ mapTbl = {
 		signName = {
 			subTitle = "Ilusión",
 			mainTitle = "Jardín de la Percepción"
+		},
+		backgroundBmp = "dungeon"
+	},
+	["1@gat.rsw"] = {
+		displayName = "Dentro del Portal Sospechoso",
+		notifyEnter = true,
+		signName = {
+			subTitle = "Eagle Brothers",
+			mainTitle = "Dentro del Portal Sospechoso"
+		},
+		backgroundBmp = "dungeon"
+	},
+	["ba_maison.rsw"] = {
+		displayName = "Jard?n de la Mansi?n Varmundt",
+		notifyEnter = true,
+		signName = {
+			mainTitle = "Jard?n de la Mansi?n Varmundt"
+		},
+		backgroundBmp = "noname_s2"
+	},
+	["ba_in01.rsw"] = {
+		displayName = "Interior de la Mansi?n Varmundt"
+	},
+	["ba_pw01.rsw"] = {
+		displayName = "Primera Planta de Energ?a",
+		notifyEnter = true,
+		signName = {
+			mainTitle = "Primera Planta de Energ?a"
+		},
+		backgroundBmp = "dungeon_s2"
+	},
+	["ba_pw03.rsw"] = {
+		displayName = "Segunda Planta de Energ?a",
+		notifyEnter = true,
+		signName = {
+			mainTitle = "Segunda Planta de Energ?a"
+		},
+		backgroundBmp = "dungeon_s2"
+	},
+	["ba_pw02.rsw"] = {
+		displayName = "Planta de Tratamiento de Aguas Residuales",
+		notifyEnter = true,
+		signName = {
+			mainTitle = "Planta de Tratamiento de Aguas Residuales"
+		},
+		backgroundBmp = "dungeon_s2"
+	},
+	["ba_bath.rsw"] = {
+		displayName = "Gran Ba?o Meditatio",
+		notifyEnter = true,
+		signName = {
+			mainTitle = "Gran Ba?o Meditatio"
+		},
+		backgroundBmp = "dungeon_s2"
+	},
+	["ba_2whs01.rsw"] = {
+		displayName = "B?veda T?rtaro - Planta Superior",
+		notifyEnter = true,
+		signName = {
+			mainTitle = "B?veda T?rtaro - Planta Superior"
+		},
+		backgroundBmp = "dungeon_s2"
+	},
+	["ba_2whs02.rsw"] = {
+		displayName = "B?veda T?rtaro - Planta Inferior",
+		notifyEnter = true,
+		signName = {
+			mainTitle = "B?veda T?rtaro - Planta Inferior"
+		},
+		backgroundBmp = "dungeon_s2"
+	},
+	["ba_lost.rsw"] = {
+		displayName = "Menagerie del Valle Perdido",
+		notifyEnter = true,
+		signName = {
+			mainTitle = "Menagerie del Valle Perdido"
+		},
+		backgroundBmp = "dungeon_s2"
+	},
+	["ba_lib.rsw"] = {
+		displayName = "Pasillo de la Biblioteca de los Recuerdos",
+		notifyEnter = true,
+		signName = {
+			subTitle = "Biblioteca",
+			mainTitle = "Pasillo de los Recuerdos"
+		},
+		backgroundBmp = "dungeon"
+	},
+	["ba_go.rsw"] = {
+		displayName = "Campo de Batalla Acu?tico",
+		notifyEnter = true,
+		signName = {
+			mainTitle = "Campo de Batalla Acu?tico"
+		},
+		backgroundBmp = "dungeon_s2"
+	},
+	["ba_chess.rsw"] = {
+		displayName = "Jard?n de Ajedrez",
+		notifyEnter = true,
+		signName = {
+			mainTitle = "Jard?n de Ajedrez"
+		},
+		backgroundBmp = "dungeon_s2"
+	},
+	["1@lost.rsw"] = {
+		displayName = "Menagerie Olvidada por el Tiempo",
+		notifyEnter = true,
+		signName = {
+			subTitle = "Lost Valley",
+			mainTitle = "Menagerie Olvidada por el Tiempo"
+		},
+		backgroundBmp = "dungeon"
+	},
+	["1@herbs.rsw"] = {
+		displayName = "Jard?n Oculto",
+		notifyEnter = true,
+		signName = {
+			mainTitle = "Jard?n Oculto"
+		},
+		backgroundBmp = "dungeon_s2"
+	},
+	["1@ghg.rsw"] = {
+		displayName = "Ortus Aqua",
+		notifyEnter = true,
+		signName = {
+			subTitle = "Jard?n Suspendido",
+			mainTitle = "Ortus Aqua"
+		},
+		backgroundBmp = "dungeon"
+	},
+	["1@bamn.rsw"] = {
+		displayName = "Jard?n al Atardecer",
+		notifyEnter = true,
+		signName = {
+			mainTitle = "Jard?n al Atardecer"
+		},
+		backgroundBmp = "dungeon_s2"
+	},
+	["1@bamq.rsw"] = {
+		displayName = "Dep?sito del Dirigible",
+		notifyEnter = true,
+		signName = {
+			mainTitle = "Dep?sito del Dirigible"
+		},
+		backgroundBmp = "dungeon_s2"
+	},
+	["ein_dun03.rsw"] = {
+		displayName = "Mina de mazmorra (3)",
+		notifyEnter = true,
+		signName = {
+			mainTitle = "Mina de mazmorra (3)"
+		},
+		backgroundBmp = "dungeon_s2"
+	},
+	["odin_past.rsw"] = {
+		displayName = "Antiguo templo de Odín",
+		notifyEnter = true,
+		signName = {
+			mainTitle = "Antiguo templo de Odín"
+		},
+		backgroundBmp = "field2_s2"
+	},
+	["abyss_04.rsw"] = {
+		displayName = "Cueva subterránea del lago Abismo (4)",
+		notifyEnter = true,
+		signName = {
+			subTitle = "Lago del abismo, Hugel",
+			mainTitle = "Cueva subterránea del lago Abismo (4)"
 		},
 		backgroundBmp = "dungeon"
 	}

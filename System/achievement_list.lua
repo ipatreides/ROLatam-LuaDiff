@@ -4354,14 +4354,14 @@ achievement_tbl = {
 		group = "CHATTING",
 		major = 4,
 		minor = 0,
-		title = "Criador de Reis",
+		title = "Aquele que Fez o Rei",
 		content = {
 			summary = "Meu Rei que Eu Criei",
-			details = "Restaure a glória de Terra Gloria e coroe o herói que a reivindicou."
+			details = "Recupere a glória de Terra Gloria e coroe aquele que foi o protagonista dessa glória."
 		},
 		resource = {
 			[1] = {
-				text = "Assista à coroação do novo Rei de Rune-Midgarts."
+				text = "Assista à coroação em que nasce o novo rei de Rune-Midgarts."
 			}
 		},
 		reward = {title = 1046},
@@ -5022,14 +5022,14 @@ achievement_tbl = {
 		group = "GOAL_LEVEL",
 		major = 1,
 		minor = 0,
-		title = "Nível 200",
+		title = "Nível 200 alcançado!",
 		content = {
-			details = "Achieve Base Lv. 200.",
-			summary = "Achieved Base Lv. 200!"
+			summary = "Base Nv. 200 alcançado!",
+			details = "Alcança o Nível Base 200."
 		},
 		resource = {
-			{
-				text = "Base Lv. 200"
+			[1] = {
+				text = "Nível Base 200"
 			}
 		},
 		reward = {buff = 10, item = 400124},

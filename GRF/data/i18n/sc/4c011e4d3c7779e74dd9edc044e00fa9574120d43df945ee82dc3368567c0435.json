@@ -1185,7 +1185,7 @@
         "es": "[Rey]\nNo tienes suficientes ^006400Esquirlas grises^000000\nnecesito 200^006400Esquirlas grises^000000.\nPara hacer un ^FF0000Látigo de Thanatos^000000,"
     },
     "7USVCA": {
-        "en": "with 200 ^006400Gray Shard^000000 \nI will make a ^FF0000Thanatos Whip^000000.",
+        "en": "with 200 ^006400Gray Shard^000000\nI will make a ^FF0000Thanatos Whip^000000.",
         "pt": "Com 200 ^006400Fragmentos de Cinzas^000000 \nposso criar a ^FF0000Chicote de Cinzas^000000.",
         "es": "con 200 ^006400Gray Shard^000000 \nHaré un ^FF0000Látigo de Thanatos^000000"
     },
@@ -1210,7 +1210,7 @@
         "es": "[Rey]\nNo tienes suficientes ^006400Esquirlas grises^000000\nNecesito 100^006400Esquirlas grises^000000\npara hacer un ^FF0000Escudo gris^000000."
     },
     "8kSVCA": {
-        "en": "with 100 of ^006400Gray Shard^000000 \nI will make a ^FF0000Gray Shield^000000.",
+        "en": "with 100 of ^006400Gray Shard^000000\nI will make a ^FF0000Gray Shield^000000.",
         "pt": "Com 100 ^006400Fragmentos de Cinzas^000000 \nposso criar o ^FF0000Escudo de Cinzas^000000.",
         "es": "con 100^006400Esquirlas grises^000000, \nharé un ^FF0000Escudo gris^000000."
     },
@@ -1290,7 +1290,7 @@
         "es": "[Rey]\nNo tienes suficientes ^006400Esquirlas grises^000000\nPara hacer un ^FF0000Calzado gris^000000,\nnecesito 100^006400Esquirlas grises^000000."
     },
     "AkWVCA": {
-        "en": "with 100 of ^006400Gray Shard^000000 \nI will make a ^FF0000Gray Shoes^000000.",
+        "en": "with 100 of ^006400Gray Shard^000000\nI will make a ^FF0000Gray Shoes^000000.",
         "pt": "Com 100 ^006400Fragmentos de Cinzas^000000 \nposso criar os ^FF0000Botas de Cinzas^000000.",
         "es": "con 100^006400Esquirlas grises^000000, \nHaré un ^FF0000Calzado gris^000000"
     },
@@ -1320,7 +1320,7 @@
         "es": "[Rey]\nNo tienes suficientes ^006400Esquirlas grises^000000\nNecesito 100^006400Esquirlas grises^000000\nPara hacer un ^FF0000Casco gris^000000,"
     },
     "CEWVCA": {
-        "en": "with 100 ^006400Gray Shard^000000 \nI will make a ^FF0000Gray Helmet^000000..",
+        "en": "with 100 ^006400Gray Shard^000000\nI will make a ^FF0000Gray Helmet^000000..",
         "pt": "Com 100 ^006400Fragmentos de Cinzas^000000 \nposso criar o ^FF0000Elmo de Cinzas^000000.",
         "es": "con 100^006400Esquirlas grises^000000 \nharé un ^FF0000Casco gris^000000."
     },

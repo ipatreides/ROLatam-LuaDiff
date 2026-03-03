@@ -46,13 +46,13 @@
     },
     "qVO5Ag": {
         "en": "Summon a job change agent for job change.",
-        "pt": "[Padre Necrus]\nEnquanto isso, esperarei por você aqui.\nQue Deus esteja contigo.",
-        "es": "[Padre Mareusis]\nMientras tanto, esperaré hasta que termines.\nQue los dioses te acompañen."
+        "pt": "[Padre Necrus] Enquanto isso, esperarei por você aqui. Que Deus esteja contigo.",
+        "es": "[Padre Mareusis] Mientras tanto, esperaré hasta que termines. Que los dioses te acompañen."
     },
     "qlO5Ag": {
         "en": "Decline.",
-        "pt": "[Padre Necrus]\nVocê volta a trilhar a estrada do clero,\ntoda a igreja de Prontera dá as boas-vindas a você.",
-        "es": "[Padre Mareusis]\nBueno, te doy la bienvenida en tu regreso del Valhalla\ny te deseo suerte en el nuevo viaje de tu vida."
+        "pt": "[Padre Necrus] Você volta a trilhar a estrada do clero, toda a igreja de Prontera dá as boas-vindas a você.",
+        "es": "[Padre Mareusis] Bueno, te doy la bienvenida en tu regreso del Valhalla y te deseo suerte en el nuevo viaje de tu vida."
     },
     "q1O5Ag": {
         "en": "[Father Mareusis]\nNow, venture forth and seek those who need your help.\nMay God light your path.",
@@ -406,6 +406,8 @@
         "en": "^4D4DFF Booster promotion eligible players can change jobs through the job change agent.\nThird job change can also be done at each job guild.^000000"
     },
     "8lO5Ag": {
-        "en": "[Father Mareusis]\nAh, I sense you have endured a past life experience.\nYou must have learned many things before entering Valhalla."
+        "en": "[Father Mareusis]\nAh, I sense you have endured a past life experience.\nYou must have learned many things before entering Valhalla.",
+        "pt": "[Padre Necrus]\nDepois de muito tempo, você volta a este lugar.\nVocê tem ouvido, visto e experimentado muitas coisas.",
+        "es": "[Padre Mareusis]\nAh, siento que sufriste una experiencia de tu vida pasada. \nDebes haber aprendido muchas cosas antes de entrar en el Valhalla."
     }
 }

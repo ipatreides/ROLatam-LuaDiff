@@ -1209,5 +1209,13 @@ hatEffectTable = {
 		isAdjustPositionWhenShrinkState = true,
 		isAdjustSizeWhenShrinkState = true,
 		isRenderBeforeCharacter = true
+	},
+	[HatEFID.HAT_EF_C_CLB_GAT_doc] = {
+		resourceFileName = "efst_C_CLB_GAT_doc\\Gatchamanvi.str",
+		hatEffectPos = -6,
+		hatEffectPosX = 0,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true,
+		isRenderBeforeCharacter = true
 	}
 }

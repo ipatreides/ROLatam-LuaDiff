@@ -6763,14 +6763,14 @@ achievement_tbl = {
 		group = "CHATTING",
 		major = 4,
 		minor = 0,
-		title = "King Maker",
+		title = "The Kingmaker",
 		content = {
-			details = "Regain the glory of Terra Gloria and crown the one who was at the vanguard.",
-			summary = "The king I crowned myself"
+			summary = "My King, Made by Me",
+			details = "Reclaim the glory of Terra Gloria and crown the one who will lead that glory."
 		},
 		resource = {
-			{
-				text = "Participate in the coronation of the new king of Rune-Midgarts Kingdom."
+			[1] = {
+				text = "Attend the coronation ceremony where a new king of Rune-Midgarts is born."
 			}
 		},
 		reward = {title = 1046},
@@ -6781,14 +6781,14 @@ achievement_tbl = {
 		group = "GOAL_LEVEL",
 		major = 1,
 		minor = 0,
-		title = "Level 200!",
+		title = "Reached Level 200!",
 		content = {
-			details = "Achieve Base Lv. 200.",
-			summary = "Achieved Base Lv. 200!"
+			summary = "Base Lv. 200 Achieved!",
+			details = "Achieve Base Level 200."
 		},
 		resource = {
-			{
-				text = "Base Lv. 200"
+			[1] = {
+				text = "Base Level 200"
 			}
 		},
 		reward = {buff = 10, item = 400124},

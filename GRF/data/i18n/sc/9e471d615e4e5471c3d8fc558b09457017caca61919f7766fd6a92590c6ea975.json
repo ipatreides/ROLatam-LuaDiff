@@ -3,19 +3,19 @@
         "ko": "카니발 도우미",
         "en": "Carnival Helper",
         "pt": "Anunciante do Carnaval",
-        "es": "Ayudante del Carnaval"
+        "es": "Anunciante del Carnaval"
     },
     "oWOkDA": {
         "ko": "[카니발 도우미]\n브라질리스에서 카니발이라는 큰 축제를 열고 있어요! 꼭 참여하세요!\n이 축제는 일 년에 한 번 열리니까 놓치지 마세요!",
         "en": "[Carnival Helper]\nBrasilis is holding a big festival called Carnival! Be sure to participate!\nThis festival is held only once a year, so don't miss it!",
         "pt": "[Anunciante do Carnaval]\nBrasilis está realizando um grande festival chamado Carnaval! Certifique-se de participar!\nEste festival acontece apenas uma vez por ano, então não perca!",
-        "es": "[Ayudante del Carnaval]\n¡Brasilis está celebrando un gran festival llamado Carnaval! ¡Asegúrate de participar!\n¡Este festival se celebra sólo una vez al año, así que no te lo pierdas!"
+        "es": "[Anunciante del Carnaval]\n¡Brasilis está celebrando un gran festival llamado Carnaval! \n¡Asegúrate de participar!\n¡Este festival se celebra sólo una vez al año, así que no te lo pierdas!"
     },
     "omOkDA": {
         "ko": "[카니발 도우미]\n원하신다면 지금 바로 브라질리스로 순간이동시켜 드릴게요!",
         "en": "[Carnival Helper]\nIf you wish, I can teleport you to Brasilis right now!",
         "pt": "[Anunciante do Carnaval]\nSe desejar, posso te teleportar para Brasilis agora mesmo!",
-        "es": "[Ayudante del Carnaval]\n¡Si lo deseas, puedo teletransportarte a Brasilis ahora mismo!"
+        "es": "[Anunciante del Carnaval]\n¡Si lo deseas, puedo teletransportarte a Brasilis ahora mismo!"
     },
     "o2OkDA": {
         "ko": "브라질리스로 순간이동",
@@ -39,25 +39,25 @@
         "ko": "- 소지하고 계신 아이템이 많아 진행할 수 없습니다. -",
         "en": "'- You have too many items in your inventory and cannot proceed. -",
         "pt": "'- Você tem muitos itens no seu inventário e não pode prosseguir. -",
-        "es": "'- Tienes demasiados objetos en tu inventario y no puedes continuar. -"
+        "es": "- Tienes demasiados objetos en tu inventario y no puedes continuar. -"
     },
     "p2OkDA": {
         "ko": "- 60레벨 이상만 이벤트 참여가 가능합니다. -",
         "en": "'- Only level 60 and above can participate in this event. -",
         "pt": "'- Somente nível 60 ou acima pode participar deste evento. -",
-        "es": "'- Sólo nivel 60 o superior puede participar en este evento. -"
+        "es": "- Sólo nivel 60 o superior puede participar en este evento. -"
     },
     "qGOkDA": {
         "ko": "[이벤트 주최자]\n여행자여, 안녕! 카니발 축제 기간 동안 우리 도시에 이렇게 많은 관광객이 올 줄은 몰랐어. 그래서 더 많은 도우미를 모집 중이야.",
         "en": "[Event Organizer]\nHello, traveler! I didn't expect so many tourists to visit our city during the Carnival festival. That's why we're recruiting more helpers.",
         "pt": "[Gerente do Evento]\nOlá, viajante! Não esperava tantos turistas visitando nossa cidade durante o festival de Carnaval. Por isso estamos recrutando mais ajudantes.",
-        "es": "[Organizador del Evento]\n¡Hola, viajero! No esperaba que tantos turistas visitaran nuestra ciudad durante el festival del Carnaval. Por eso estamos reclutando más ayudantes."
+        "es": "[Organizador del Evento]\n¡Hola, Trotamundos! \nNo esperaba que tantos turistas visitaran nuestra ciudad durante el festival del Carnaval. \nPor eso estamos reclutando más ayudantes."
     },
     "qWOkDA": {
         "ko": "[이벤트 주최자]\n하지만 누구나 도울 수 있는 건 아니지! 그건 대자연의 허락이 필요해.\n해변으로 가서 각 원소석을 찾아봐",
         "en": "[Event Organizer]\nBut not just anyone can help! You need permission from Mother Nature.\nGo to the beach and find each elemental stone.",
         "pt": "[Gerente do Evento]\nMas nem todo mundo pode ajudar! Você precisa da permissão da Mãe Natureza!\nVá até a praia e encontre 4 Pedras Elementais.",
-        "es": "[Organizador del Evento]\n¡Pero no cualquiera puede ayudar! Necesitas el permiso de la Madre Naturaleza.\nVe a la playa y encuentra cada piedra elemental."
+        "es": "[Organizador del Evento]\n¡Pero no cualquiera puede ayudar! \nNecesitas el permiso de la Madre Naturaleza.\nVe a la playa y encuentra cada piedra elemental."
     },
     "qmOkDA": {
         "ko": "[이벤트 주최자]\n해변으로 가서 각 원소석을 찾아봐",
@@ -69,7 +69,7 @@
         "ko": "[이벤트 주최자]\n대자연의 허락을 모두 받았나? 너에게 보상을 줄게. 둘 중 하나만 선택 가능해.",
         "en": "[Event Organizer]\nHave you received all permissions from Mother Nature? I'll give you a reward. You can only choose one.",
         "pt": "[Gerente do Evento]\nVocê recebeu todas as permissões da Mãe Natureza? Vou te dar uma recompensa. Você só pode escolher uma.",
-        "es": "[Organizador del Evento]\n¿Has recibido todos los permisos de la Madre Naturaleza? Te daré una recompensa. Sólo puedes elegir una."
+        "es": "[Organizador del Evento]\n¿Has recibido todos los permisos de la Madre Naturaleza?\nTe daré una recompensa.\nSólo puedes elegir una."
     },
     "rGOkDA": {
         "ko": "^nItemID^19873",
@@ -87,7 +87,7 @@
         "ko": "[이벤트 주최자]\n자네는 카니발에 참여할 자격이 있어. 카니발을 즐겨!",
         "en": "[Event Organizer]\nYou are qualified to participate in the Carnival. Enjoy the Carnival!",
         "pt": "[Gerente do Evento]\nVocê tem permissão para participar do Carnaval. Aproveite!",
-        "es": "[Organizador del Evento]\nEstás calificado para participar en el Carnaval. ¡Disfruta el Carnaval!"
+        "es": "[Organizador del Evento]\nTienes permiso para participar en el Carnaval.\n¡Disfruta el Carnaval!"
     },
     "r2OkDA": {
         "ko": "[이벤트 주최자]\n카니발을 즐겨!",
@@ -103,21 +103,21 @@
     },
     "sWOkDA": {
         "ko": "불의 원소석이야. 반응을 일으키려면 ^FF0000^nItemID^12008^000000 10개를 가져와서 내 가치를 증명해야 할 것 같아.",
-        "en": "I am the Fire Elemental Stone. To cause a reaction, it seems you need to bring 10 ^FF0000^nItemID^12008^000000 to prove my worth.",
+        "en": "It seems like the Fire Elemental Stone. To cause a reaction, I need to bring 10 ^FF0000^nItemID^12008^000000 to prove my worth.",
         "pt": "Parece ser uma Pedra de Fogo. Para causar uma reação, vou precisar trazer 10x ^FF0000^nItemID^12008^000000 para provar meu valor.",
-        "es": "Yo soy la Piedra de Fuego. Para causar una reacción, parece que necesitas traer 10 ^FF0000^nItemID^12008^000000 para probar mi valor."
+        "es": "Parecer ser una Piedra de Fuego. \nPara causar una reacción, parece que necesito traer 10 ^FF0000^nItemID^12008^000000 para probar mi valor."
     },
     "smOkDA": {
         "ko": "가치를 증명한다",
         "en": "Prove Worth",
         "pt": "Provar Valor",
-        "es": "Probar Valor"
+        "es": "Demuestra tu Valor"
     },
     "s2OkDA": {
         "ko": "부족해. ^FF0000^nItemID^12008^000000 10개를 가져와서 내 가치를 증명해야 할 것 같아.",
         "en": "Not enough. It seems you need to bring 10 ^FF0000^nItemID^12008^000000 to prove my worth.",
         "pt": "Não é suficiente. vou precisar trazer 10 ^FF0000^nItemID^12008^000000 para provar meu valor.",
-        "es": "No es suficiente. Parece que necesitas traer 10 ^FF0000^nItemID^12008^000000 para probar mi valor."
+        "es": "No es suficiente.\nParece que necesito traer 10 ^FF0000^nItemID^12008^000000 para probar mi valor."
     },
     "tGOkDA": {
         "ko": "불의 원소석이 반응하고 있어!",
@@ -134,8 +134,8 @@
     "tmOkDA": {
         "ko": "이제 카니발 페스타에서 일할 수 있을 것 같아!!\n모든 원소석에게 가치를 증명했으니 이벤트 주최자에게 다시 돌아가자",
         "en": "I can probably work at the Carnival Festa now!!\nSince you've proven your worth to all elemental stones, let's return to the Event Organizer.",
-        "pt": "Agora você pode participar do Carnaval!!\nComo você provou seu valor para Mãe Natureza, volte voltar ao Gerente do Evento.",
-        "es": "¡Probablemente ya pueda trabajar en la Fiesta del Carnaval ahora!!\nComo has probado tu valor ante todas las piedras elementales, regresemos con el Organizador del Evento."
+        "pt": "Agora você pode participar do Carnaval!!\nComo você provou seu valor para Mãe Natureza, volte ao Gerente do Evento.",
+        "es": "¡Probablemente ya pueda trabajar en la Fiesta del Carnaval ahora!!\nAhora que has demostrado tu valía ante la Madre Naturaleza, vuelve al gerente del evento."
     },
     "t2OkDA": {
         "ko": "난 이미 불의 원소석에게 가치를 증명했어.",
@@ -145,15 +145,15 @@
     },
     "uGOkDA": {
         "ko": "물의 원소석이야. 반응을 일으키려면 ^FF0000^nItemID^950^000000 10개를 가져와서 내 가치를 증명해야 할 것 같아.",
-        "en": "I am the Water Elemental Stone. To cause a reaction, it seems you need to bring 10 ^FF0000^nItemID^950^000000 to prove my worth.",
+        "en": "It seems like the Water Elemental Stone. To cause a reaction, I need to bring 10 ^FF0000^nItemID^950^000000 to prove my worth.",
         "pt": "Parece ser uma Pedra de Água. Para causar uma reação, vou precisar trazer 10x ^FF0000^nItemID^950^000000 para provar meu valor.",
-        "es": "Yo soy la Piedra de Agua. Para causar una reacción, parece que necesitas traer 10 ^FF0000^nItemID^950^000000 para probar mi valor."
+        "es": "Parecer ser una Piedra de Agua. \nPara causar una reacción, parece que necesito traer 10 ^FF0000^nItemID^950^000000 para probar mi valor."
     },
     "uWOkDA": {
         "ko": "부족해. ^FF0000^nItemID^950^000000 10개를 가져와서 내 가치를 증명해야 할 것 같아.",
         "en": "Not enough. It seems you need to bring 10 ^FF0000^nItemID^950^000000 to prove my worth.",
         "pt": "Não é suficiente. vou precisar trazer 10 ^FF0000^nItemID^950^000000 para provar meu valor.",
-        "es": "No es suficiente. Parece que necesitas traer 10 ^FF0000^nItemID^950^000000 para probar mi valor."
+        "es": "No es suficiente. \nParece que necesito traer 10 ^FF0000^nItemID^950^000000 para probar mi valor."
     },
     "umOkDA": {
         "ko": "물의 원소석이 반응하고 있어!",
@@ -169,15 +169,15 @@
     },
     "vGOkDA": {
         "ko": "바람의 원소석이야. 반응을 일으키려면 ^FF0000^nItemID^1058^000000 10개를 가져와서 내 가치를 증명해야 할 것 같아.",
-        "en": "I am the Wind Elemental Stone. To cause a reaction, it seems you need to bring 10 ^FF0000^nItemID^1058^000000 to prove my worth.",
-        "pt": "Eu sou a Pedra do Vento. Para causar uma reação, vou precisar trazer 10x ^FF0000^nItemID^1058^000000 para provar meu valor.",
-        "es": "Yo soy la Piedra de Viento. Para causar una reacción, parece que necesitas traer 10 ^FF0000^nItemID^1058^000000 para probar mi valor."
+        "en": "It seems like the Wind Elemental Stone. To cause a reaction, I need to bring 10 ^FF0000^nItemID^1058^000000 to prove my worth.",
+        "pt": "Parece ser uma Pedra do Vento. Para causar uma reação, vou precisar trazer 10x ^FF0000^nItemID^1058^000000 para provar meu valor.",
+        "es": "Parecer ser una Piedra de Viento. \nPara causar una reacción, parece que necesito traer 10 ^FF0000^nItemID^1058^000000 para probar mi valor."
     },
     "vWOkDA": {
         "ko": "부족해. ^FF0000^nItemID^1058^000000 10개를 가져와서 내 가치를 증명해야 할 것 같아.",
         "en": "Not enough. It seems you need to bring 10 ^FF0000^nItemID^1058^000000 to prove my worth.",
         "pt": "Não é suficiente. vou precisar trazer 10 ^FF0000^nItemID^1058^000000 para provar meu valor.",
-        "es": "No es suficiente. Parece que necesitas traer 10 ^FF0000^nItemID^1058^000000 para probar mi valor."
+        "es": "No es suficiente. \nParece que necesito traer 10 ^FF0000^nItemID^1058^000000 para probar mi valor."
     },
     "vmOkDA": {
         "ko": "바람의 원소석이 반응하고 있어!",
@@ -193,15 +193,15 @@
     },
     "wGOkDA": {
         "ko": "땅의 원소석이야. 반응을 일으키려면 ^FF0000^nItemID^953^000000 10개를 가져와서 내 가치를 증명해야 할 것 같아.",
-        "en": "I am the Earth Elemental Stone. To cause a reaction, it seems you need to bring 10 ^FF0000^nItemID^953^000000 to prove my worth.",
-        "pt": "Eu sou a Pedra da Terra. Para causar uma reação, vou precisar trazer 10x ^FF0000^nItemID^953^000000 para provar meu valor.",
-        "es": "Yo soy la Piedra de Tierra. Para causar una reacción, parece que necesitas traer 10 ^FF0000^nItemID^953^000000 para probar mi valor."
+        "en": "It seems like the Earth Elemental Stone. To cause a reaction, I need to bring 10 ^FF0000^nItemID^953^000000 to prove my worth.",
+        "pt": "Parece ser uma Pedra da Terra. Para causar uma reação, vou precisar trazer 10x ^FF0000^nItemID^953^000000 para provar meu valor.",
+        "es": "Parecer ser una Piedra de Tierra. \nPara causar una reacción, parece que necesito traer 10 ^FF0000^nItemID^953^000000 para probar mi valor."
     },
     "wWOkDA": {
         "ko": "부족해. ^FF0000^nItemID^953^000000 10개를 가져와서 내 가치를 증명해야 할 것 같아.",
         "en": "Not enough. It seems you need to bring 10 ^FF0000^nItemID^953^000000 to prove my worth.",
         "pt": "Não é suficiente. vou precisar trazer 10 ^FF0000^nItemID^953^000000 para provar meu valor.",
-        "es": "No es suficiente. Parece que necesitas traer 10 ^FF0000^nItemID^953^000000 para probar mi valor."
+        "es": "No es suficiente. \nParece que necesito traer 10 ^FF0000^nItemID^953^000000 para probar mi valor."
     },
     "wmOkDA": {
         "ko": "땅의 원소석이 반응하고 있어!",
@@ -224,13 +224,13 @@
     "xWOkDA": {
         "ko": "- 이벤트 주최자를 통해 카니발의 자격을 얻어야 이벤트 참여가 가능합니다.",
         "en": "'- You must obtain Carnival qualification through the Event Organizer to participate in events.",
-        "pt": "'- Você deve obter a qualificação para o Carnaval através do Gerente do Evento para fazer as missões.",
+        "pt": "- Você deve obter a qualificação para o Carnaval através do Gerente do Evento para fazer as missões.",
         "es": "'- Debes obtener la calificación para el Carnaval a través del Organizador del Evento para participar en eventos."
     },
     "xmOkDA": {
         "ko": "- 오늘은 더 이상 퀘스트를 받을 수 없지만 냥다래 열매를 준다면 한번 더 할 수 있어요. 냥다래 1개 주고 다시 퀘스트를 받으실래요?",
         "en": "'- You cannot accept more quests today, but you can do one more if you give me a Nyangvine Fruit. Give 1 Nyangvine and accept the quest again?",
-        "pt": "'- Você não pode aceitar mais missões hoje, mas pode fazer mais uma se me trouxer MiauMiau. Dar 1 MiauMiau e aceitar a missão novamente?",
+        "pt": "- Você não pode aceitar mais missões hoje, mas pode fazer mais uma se me trouxer MiauMiau. Dar 1 MiauMiau e aceitar a missão novamente?",
         "es": "'- No puedes aceptar más misiones hoy, pero puedes hacer una más si me das una Fruta Nyangvine. ¿Das 1 Nyangvine y aceptas la misión de nuevo?"
     },
     "x2OkDA": {
@@ -242,44 +242,44 @@
     "yGOkDA": {
         "ko": "- 내일 다시 찾아오면 퀘스트가 가능합니다.",
         "en": "'- You can accept the quest again tomorrow.",
-        "pt": "'- Você pode aceitar a missão novamente amanhã.",
+        "pt": "- Você pode aceitar a missão novamente amanhã.",
         "es": "'- Puedes aceptar la misión de nuevo mañana."
     },
     "yWOkDA": {
         "ko": "- 퀘스트를 다시 받기 위해선 냥다래 열매가 1개 필요해요.",
         "en": "'- You need 1 Nyangvine Fruit to accept the quest again.",
-        "pt": "'- Você precisa de 1 MiauMiau para aceitar a missão novamente.",
+        "pt": "- Você precisa de 1 MiauMiau para aceitar a missão novamente.",
         "es": "'- Necesitas 1 Fruta Nyangvine para aceptar la misión de nuevo."
     },
     "ymOkDA": {
         "ko": "[페르난드]\n카니발 포링 3마리를 처치하고 나에게 돌아와.",
         "en": "[Fernando]\nDefeat 3 Carnival Porings and return to me.",
         "pt": "[Fernando]\nDerrote 3 Porings Carnavalescos e volte para mim.",
-        "es": "[Fernando]\nDerrota 3 Porings del Carnaval y regresa conmigo."
+        "es": "[Fernando]\nDerrota 3 Porings de Carnaval y regresa conmigo."
     },
     "y2OkDA": {
         "ko": "[페르난드]\n카니발 포링을 처치하고 돌아왔구나! 여기 보상이야. 내일도 부탁해!",
         "en": "[Fernando]\nYou've defeated the Carnival Porings and returned! Here's your reward. See you tomorrow!",
         "pt": "[Fernando]\nVocê derrotou os Porings Carnavalescos e voltou! Aqui está sua recompensa. Até amanhã!",
-        "es": "[Fernando]\n¡Has derrotado a los Porings del Carnaval y regresado! Aquí está tu recompensa. ¡Nos vemos mañana!"
+        "es": "[Fernando]\n¡Has derrotado a los Porings de Carnaval y regresado! \nAquí está tu recompensa. \n¡Nos vemos mañana!"
     },
     "zGOkDA": {
         "ko": "[페르난드]\n내 의상 마음에 들었어? 난 루티 들판의 보스 몬스터 가름으로 변신했다! 으르릉~.",
         "en": "[Fernando]\nDo you like my costume? My costume is a Garm from Lutie! Grrr~",
         "pt": "[Fernando]\nGostou da minha fantasia? Eu estou fantasiado de Hatii, das montanhas de Lutie! Grrr~",
-        "es": "[Fernando]\n¿Te gusta mi disfraz? ¡Me he transformado en un Garm, de Lutie! Grrr~."
+        "es": "[Fernando]\n¿Te gusta mi disfraz? \n¡Me he transformado en un Garm, de Lutie! \nGrrr~."
     },
     "zWOkDA": {
         "ko": "[페르난드]\n카니발 의 콘테스트에서 우승하고 싶은데, 나를 긴장하게 만드는 강력한 상대가 있거든! 바로 카니발 포링이야!",
         "en": "[Fernando]\nI want to win the Carnival contest, but there's a powerful opponent that makes me nervous! It's the Carnival Porings!",
         "pt": "[Fernando]\nQuero vencer o concurso de fantasias, mas há um Poring que se fantasiou também! A roupa dele está melhor que a minha!!",
-        "es": "[Fernando]\n¡Quiero ganar el concurso del Carnaval, pero hay un oponente poderoso que me pone nervioso! ¡Son los Porings del Carnaval!"
+        "es": "[Fernando]\n¡Quiero ganar el concurso de Carnaval, pero hay un oponente poderoso que me pone nervioso! \n¡Son los Porings de Carnaval!"
     },
     "zmOkDA": {
         "ko": "[페르난드]\n제발 그 녀석을 경쟁에서 탈락시켜 줘! 카니발 포링 3마리를 처치하고 나에게 돌아와.",
         "en": "[Fernando]\nPlease eliminate them from the competition! Defeat 3 Carnival Porings and return to me.",
         "pt": "[Fernando]\nPor favor, elimine-o da competição! Derrote 3 Porings Carnavalescos e volte para mim.",
-        "es": "[Fernando]\n¡Por favor, elimínalos de la competencia! Derrota 3 Porings del Carnaval y regresa conmigo."
+        "es": "[Fernando]\n¡Por favor, elimínalos de la competencia! \nDerrota 3 Porings de Carnaval y regresa conmigo."
     },
     "z2OkDA": {
         "ko": "댄싱퀸",
@@ -290,20 +290,20 @@
     "0GOkDA": {
         "ko": "[댄싱퀸]\n카니발 포링이 훔친 음악 재생 목록들을 2개씩 찾아주세요.\n^FF0000^nItemID^6340^000000 x 2\n^FF0000^nItemID^6341^000000 x 2\n^FF0000^nItemID^6342^000000 x 2\n^FF0000^nItemID^6343^000000 x 2",
         "en": "[Dancing Queen]\nPlease find 2 of each of the music playlists stolen by the Carnival Porings.\n2x ^FF0000^nItemID^6340^000000\n2x ^FF0000^nItemID^6341^000000\n2x ^FF0000^nItemID^6342^000000\n2x ^FF0000^nItemID^6343^000000",
-        "pt": "[Passista]\nPor favor, encontre 2 de cada uma das Letras de Música de música roubadas pelos Porings Carnavalescos.\n2x ^FF0000^nItemID^6340^000000\n2x ^FF0000^nItemID^6341^000000\n2x ^FF0000^nItemID^6342^000000\n2x ^FF0000^nItemID^6343^000000",
-        "es": "[Reina del Baile]\nPor favor, encuentra 2 de cada una de las listas de reproducción de música robadas por los Porings del Carnaval.\n2x ^FF0000^nItemID^6340^000000\n2x ^FF0000^nItemID^6341^000000\n2x ^FF0000^nItemID^6342^000000\n2x ^FF0000^nItemID^6343^000000"
+        "pt": "[Passista]\nPor favor, encontre 2 de cada uma das Letras de Música roubadas pelos Porings Carnavalescos.\n2x ^FF0000^nItemID^6340^000000\n2x ^FF0000^nItemID^6341^000000\n2x ^FF0000^nItemID^6342^000000\n2x ^FF0000^nItemID^6343^000000",
+        "es": "[Reina del Baile]\nPor favor, encuentra 2 de cada una de las listas de reproducción de música robadas por los Porings de Carnaval.\n2x ^FF0000^nItemID^6340^000000\n2x ^FF0000^nItemID^6341^000000\n2x ^FF0000^nItemID^6342^000000\n2x ^FF0000^nItemID^6343^000000"
     },
     "0WOkDA": {
         "ko": "[댄싱퀸]\n모든 재생 목록을 모아오셨군요! 여기 보상이에요. 내일도 부탁해요!",
         "en": "[Dancing Queen]\nYou've collected all the playlists! Here's your reward. See you tomorrow!",
         "pt": "[Passista]\nVocê coletou todas as Letras de Música! Aqui está sua recompensa. Até amanhã!",
-        "es": "[Reina del Baile]\n¡Has recolectado todas las listas de reproducción! Aquí está tu recompensa. ¡Nos vemos mañana!"
+        "es": "[Reina del Baile]\n¡Has recolectado todas las listas de reproducción! \nAquí está tu recompensa.\n¡Nos vemos mañana!"
     },
     "0mOkDA": {
         "ko": "[댄싱퀸]\n여행자님, 제발 도와주세요! 춤 동작을 연습해야 하는데, 음악 재생 목록이 적힌 종이들을 잃어버렸어요! 저 나쁜 카니발 포링이 훔쳐갔어요!",
         "en": "[Dancing Queen]\nTraveler, please help me! I need to practice my dance moves, but I lost the papers with the music playlists! Those nasty Carnival Porings stole them!",
         "pt": "[Passista]\nViajante, por favor me ajude! Preciso praticar meus passos de dança, mas perdi os papéis com as Letras de Música! Aqueles Porings Carnavalescos malvados os roubaram!",
-        "es": "[Reina del Baile]\n¡Viajero, por favor ayúdame! ¡Necesito practicar mis pasos de baile, pero perdí los papeles con las listas de reproducción musical! ¡Esos desagradables Porings del Carnaval se las robaron!"
+        "es": "[Reina del Baile]\n¡Trotamundos, por favor ayúdame! \n¡Necesito practicar mis pasos de baile, pero perdí los papeles con las listas de reproducción musical! \n¡Esos desagradables Porings de Carnaval se las robaron!"
     },
     "02OkDA": {
         "ko": "조빈",
@@ -315,25 +315,25 @@
         "ko": "[조빈]\n모험가님, 제발 제 바이올린을 <NAVI>[비니시우스]<INFO>bra_in01,163,131,0,101,0</INFO></NAVI>에게 고쳐 달라고 전해주세요, 빨리!",
         "en": "[Jobim]\nAdventurer, i need to fix my violin! Please ask <NAVI>[Vinícius]<INFO>bra_in01,163,131,0,101,0</INFO></NAVI>, quickly!",
         "pt": "[Jobim]\nViajante, preciso consertar meu violino! Por favor, fale com <NAVI>[Vinícius]<INFO>bra_in01,163,131,0,101,0</INFO></NAVI>, rapidamente!",
-        "es": "[Jobim]\n¡Aventurero, necesito reparar mi violín! Por favor, pregúntale a <NAVI>[Vinícius]<INFO>bra_in01,163,131,0,101,0</INFO></NAVI>, ¡rápido!"
+        "es": "[Jobim]\n¡Trotamundos, necesito reparar mi violín! \nPor favor, pregúntale a <NAVI>[Vinícius]<INFO>bra_in01,163,131,0,101,0</INFO></NAVI>, ¡rápido!"
     },
     "1WOkDA": {
         "ko": "[조빈]\n제 바이올린을 고쳐주셨군요! 여기 보상이에요. 내일도 부탁해요!",
         "en": "[Jobim]\nYou got my violin fixed! Here's your reward. See you tomorrow!",
         "pt": "[Jobim]\nVocê conseguiu consertar meu violino! Aqui está sua recompensa. Até amanhã!",
-        "es": "[Jobim]\n¡Lograste que repararan mi violín! Aquí está tu recompensa. ¡Nos vemos mañana!"
+        "es": "[Jobim]\n¡Lograste que repararan mi violín! \nAquí está tu recompensa. \n¡Nos vemos mañana!"
     },
     "1mOkDA": {
         "ko": "[조빈]\n세상에! 저 망할 카니발 포링이 내 바이올린을 부쉈어! 악기 없이 축제에서 어떻게 연주하라는 거야?",
         "en": "[Jobim]\nOh no! That darn Carnival Poring broke my violin! How am I supposed to perform at the festival without an instrument?",
         "pt": "[Jobim]\nAh não! Aquele maldito Poring do Carnaval quebrou meu violino! Como vou me apresentar no festival sem um instrumento?",
-        "es": "[Jobim]\n¡Oh, no! ¡Ese maldito Poring del Carnaval rompió mi violín! ¿Cómo se supone que voy a actuar en el festival sin un instrumento?"
+        "es": "[Jobim]\n¡Oh, no! \n¡Ese maldito Poring de Carnaval rompió mi violín! \n¿Cómo se supone que voy a actuar en el festival sin un instrumento?"
     },
     "12OkDA": {
         "ko": "[조빈]\n모험가님, 제발 제 바이올린을 <NAVI>[비니시우스]<INFO>bra_in01,163,131,0,101,0</INFO></NAVI>에게 고쳐 달라고 전해 주세요, 빨리!",
         "en": "[Jobim]\nAdventurer, i need to fix my violin! Please ask <NAVI>[Vinícius]<INFO>bra_in01,163,131,0,101,0</INFO></NAVI>, quickly!",
         "pt": "[Jobim]\nViajante, preciso consertar meu violino! Por favor, fale com <NAVI>[Vinícius]<INFO>bra_in01,163,131,0,101,0</INFO></NAVI>, rapidamente!",
-        "es": "[Jobim]\n¡Aventurero, necesito reparar mi violín! Por favor, pregúntale a <NAVI>[Vinícius]<INFO>bra_in01,163,131,0,101,0</INFO></NAVI>, ¡rápido!"
+        "es": "[Jobim]\n¡Trotamundos, necesito reparar mi violín! \nPor favor, pregúntale a <NAVI>[Vinícius]<INFO>bra_in01,163,131,0,101,0</INFO></NAVI>, ¡rápido!"
     },
     "2GOkDA": {
         "ko": "비니시우스",
@@ -345,13 +345,13 @@
         "ko": "[비니시우스]\n바이올린 수리는 다 했으니 어서 조빈에게 돌아가봐.",
         "en": "[Vinícius]\nI've finished repairing the violin. Go back to Jobim now.",
         "pt": "[Vinícius]\nTerminei de reparar o violino. Volte para o Jobim agora.",
-        "es": "[Vinícius]\nHe terminado de reparar el violín. Regresa con Jobim ahora."
+        "es": "[Vinícius]\nHe terminado de reparar el violín. \nRegresa con Jobim ahora."
     },
     "2mOkDA": {
         "ko": "[비니시우스]\n무슨일이야? 조빈의 부탁으로 바이올린 수리를 하러 왔다고?",
         "en": "[Vinícius]\nWhat's up? Did you come to get Jobim's violin repaired?",
         "pt": "[Vinícius]\nHã? Você veio para consertar o violino do Jobim?",
-        "es": "[Vinícius]\n¿Qué pasa? ¿Viniste para que repare el violín de Jobim?"
+        "es": "[Vinícius]\n¿Qué pasa? \n¿Viniste para que repare el violín de Jobim?"
     },
     "22OkDA": {
         "ko": "[비니시우스]\n바이올린을 수리하려면 다음 재료들이 필요해\n^FF0000^nItemID^1002^000000 x 3\n수리하겠어?",
@@ -369,13 +369,13 @@
         "ko": "[비니시우스]\n재료가 부족해.\n바이올린을 수리하려면 다음 재료들이 필요해\n^FF0000^nItemID^1002^000000 x 3",
         "en": "[Vinícius]\nNot enough materials.\nI need the following materials to repair the violin:\n3x ^FF0000^nItemID^1002^000000",
         "pt": "[Vinícius]\nMateriais insuficientes.\nPreciso dos seguintes materiais para reparar o violino:\n3x ^FF0000^nItemID^1002^000000",
-        "es": "[Vinícius]\nNo hay suficientes materiales.\nNecesito los siguientes materiales para reparar el violín:\n3x ^FF0000^nItemID^1002^000000"
+        "es": "[Vinícius]\nNo hay suficientes materiales.\nNecesito los siguientes materiales para reparar el violín: 3x ^FF0000^nItemID^1002^000000"
     },
     "3mOkDA": {
         "ko": "[비니시우스]\n...\n기다리게 했군. 바이올린 수리가 모두 끝났어. 조빈에게 돌아가도록 해.",
         "en": "[Vinícius]\n...\nSorry to keep you waiting. The violin repair is all done. Go back to Jobim.",
         "pt": "[Vinícius]\n...\nDesculpe pela espera. O reparo do violino está todo feito. Volte para o Jobim.",
-        "es": "[Vinícius]\n...\nPerdón por la espera. La reparación del violín está terminada. Regresa con Jobim."
+        "es": "[Vinícius]\n...\nPerdón por la espera. \nLa reparación del violín está terminada. \nRegresa con Jobim."
     },
     "32OkDA": {
         "ko": "웨이트리스",
@@ -393,7 +393,7 @@
         "ko": "[웨이트리스]\n제 대신 손님들이 주문하신걸 내주셨군요! 여기 보상이에요. 내일도 부탁해요!",
         "en": "[Waitress]\nYou served the customers' orders for me! Here's your reward. See you tomorrow!",
         "pt": "[Garçonete]\nVocê serviu os pedidos dos clientes para mim! Aqui está sua recompensa. Até amanhã!",
-        "es": "[Mesera]\n¡Sirviste los pedidos de los clientes por mí! Aquí está tu recompensa. ¡Nos vemos mañana!"
+        "es": "[Mesera]\n¡Sirviste los pedidos de los clientes por mí! \nAquí está tu recompensa. \n¡Nos vemos mañana!"
     },
     "4mOkDA": {
         "ko": "[웨이트리스]\n축제에 이렇게 많은 사람이 올 줄은 몰랐는데, 이제 혼자서 이렇게 많은 손님을 감당할 수가 없어요!",
@@ -410,8 +410,8 @@
     "5GOkDA": {
         "ko": "- 이 손님은 당신의 서비스에 만족한 것 같습니다.",
         "en": "'- This customer seems satisfied with your service.",
-        "pt": "'- Parece estar feliz com seu serviço.",
-        "es": "'- Este cliente parece satisfecho con tu servicio."
+        "pt": "- Parece estar feliz com seu serviço.",
+        "es": "- Este cliente parece satisfecho con tu servicio."
     },
     "5WOkDA": {
         "ko": "^i[12044]",
@@ -452,14 +452,14 @@
     "62OkDA": {
         "ko": "- 모든 손님이 만족한거 같으니 웨이트리스에게 돌아가세요.",
         "en": "'- It seems all customers are satisfied. Return to the Waitress.",
-        "pt": "'- Parece que todos os clientes estão satisfeitos. Volte para a Garçonete.",
-        "es": "'- Parece que todos los clientes están satisfechos. Regresa con la Mesera."
+        "pt": "- Parece que todos os clientes estão satisfeitos. Volte para a Garçonete.",
+        "es": "- Parece que todos los clientes están satisfechos. Regresa con la Mesera."
     },
     "7GOkDA": {
         "ko": "- 손님이 만족한 것 같습니다. 다른 손님이 당신을 기다립니다.",
         "en": "'- The customer seems satisfied. Another customer is waiting for you.",
-        "pt": "'- Parece estar feliz com seu serviço. Outro cliente está esperando por você.",
-        "es": "'- El cliente parece satisfecho. Otro cliente te está esperando."
+        "pt": "- Parece estar feliz com seu serviço. Outro cliente está esperando por você.",
+        "es": "- El cliente parece satisfecho. Otro cliente te está esperando."
     },
     "7WOkDA": {
         "ko": "[손님]\n주문을 받는건가?\n이 요리를 나에게 가져다줘",
@@ -495,13 +495,13 @@
         "ko": "[손님]\n와! 정말 맛있네요. 대만족!",
         "en": "[Customer]\nWow! Really delicious. Very satisfied!",
         "pt": "[Cliente]\nUau! Isso é realmente delicioso. Eu adorei!",
-        "es": "[Cliente]\n¡Guau! Realmente delicioso. ¡Muy satisfecho!"
+        "es": "[Cliente]\n¡Guau! Realmente delicioso. \n¡Muy satisfecho!"
     },
     "82OkDA": {
         "ko": "[손님]\n드디어 주문을 받아주시나요?\n전 이 요리를 먹고 싶어요. 부탁해요!",
-        "en": "[Customer]\nFinally taking my order?\nI want to eat this dish. Please!",
+        "en": "[Customer]\nFinally taking my order?\nI want to eat this dish. \nPlease!",
         "pt": "[Cliente]\nFinalmente! Anote meu pedido, sim?\nQuero comer este prato. Por favor!",
-        "es": "[Cliente]\n¿Finalmente tomas mi orden?\nQuiero comer este plato. ¡Por favor!"
+        "es": "[Cliente]\n¿Finalmente tomas mi orden?\nQuiero comer este plato. \n¡Por favor!"
     },
     "9GOkDA": {
         "ko": "^i[12065]",
@@ -537,7 +537,7 @@
         "ko": "[카니발 머신]\n브라질리스에 카니발에 오신 것을 환영합니다! 이 기계에서 티켓을 무작위 아이템으로 교환하거나 의상을 장비로 변환할 수 있습니다!",
         "en": "[Carnival Machine]\nWelcome to the Brasilis Carnival! At this machine, you can exchange tickets for random items or convert costume items into equipment!",
         "pt": "[Máquina Carnavalesca]\nBem-vindos ao Carnaval de Brasilis! Nesta máquina, você pode trocar tickets por itens aleatórios ou converter Visuais em Equipamentos!",
-        "es": "[Máquina del Carnaval]\n¡Bienvenido al Carnaval de Brasilis! En esta máquina, puedes intercambiar boletos por objetos aleatorios o convertir objetos de disfraz en equipo!"
+        "es": "[Máquina del Carnaval]\n¡Bienvenido al Carnaval de Brasilis! \nEn esta máquina, puedes intercambiar boletos por objetos aleatorios o convertir objetos de disfraz en equipo!"
     },
     "+mOkDA": {
         "ko": "티켓을 교환",
@@ -591,7 +591,7 @@
         "ko": "[삼바 댄서]\n삼바를 추려면 제대로 된 신발이 필요해! 자, 도전해 보자. 내 신발을 사서 최대한 제련해 봐! 제련 정도에 따라 보상을 주겠어",
         "en": "[Samba Dancer]\nYou need proper shoes to dance Samba! Here, take the challenge. Buy my shoes and refine them as much as you can! I'll give rewards based on the refinement level.",
         "pt": "[Rainha da Bateria]\nVocê precisa de sapatos adequados para dançar Samba! Aqui, aceite o desafio. Compre meus sapatos e refine-os o máximo que puder! Darei recompensas com base no nível de refinamento.",
-        "es": "[Bailarín de Samba]\n¡Necesitas zapatos adecuados para bailar Samba! Toma, acepta el desafío. ¡Compra mis zapatos y refínalos tanto como puedas! Daré recompensas basadas en el nivel de refinamiento."
+        "es": "[Bailarín de Samba]\n¡Necesitas zapatos adecuados para bailar Samba! \nToma, acepta el desafío. \n¡Compra mis zapatos y refínalos tanto como puedas! \nDaré recompensas basadas en el nivel de refinamiento."
     },
     "A2SkDA": {
         "ko": "삼바 슈즈 구매",
@@ -615,7 +615,7 @@
         "ko": "[삼바 댄서]\n^nItemID^470416 로 교환하려면 +10 ^nItemID^470415가 필요해. 교환하겠어?",
         "en": "[Samba Dancer]\nYou need +10 ^nItemID^470415 to exchange for ^nItemID^470416. Exchange?",
         "pt": "[Rainha da Bateria]\nVocê precisa de +10 ^nItemID^470415 para trocar por ^nItemID^470416. Trocar?",
-        "es": "[Bailarín de Samba]\nNecesitas +10 ^nItemID^470415 para intercambiar por ^nItemID^470416. ¿Intercambiar?"
+        "es": "[Bailarín de Samba]\nNecesitas +10 ^nItemID^470415 para intercambiar por ^nItemID^470416. \n¿Intercambiar?"
     },
     "B2SkDA": {
         "ko": "교환한다",
@@ -627,7 +627,7 @@
         "ko": "[삼바 댄서]\n아무것도 장비하지 않은거 같은데? 장비를 해야 교환이 가능해.",
         "en": "[Samba Dancer]\nIt seems you're not wearing anything? You need to equip it to exchange.",
         "pt": "[Rainha da Bateria]\nParece que você não está usando nada? Você precisa equipar a Antiga Sandália de Samba para trocar.",
-        "es": "[Bailarín de Samba]\n¿Parece que no llevas nada puesto? Necesitas equiparlo para intercambiar."
+        "es": "[Bailarín de Samba]\n¿Parece que no llevas nada puesto? \nNecesitas equiparlo para intercambiar."
     },
     "CWSkDA": {
         "ko": "[삼바 댄서]\n^nItemID^470416 로 교환하려면 +10 ^nItemID^470415가 필요해. 장비를 해야 교환이 가능해.",
@@ -645,19 +645,19 @@
         "ko": "민속학자",
         "en": "Folklorist",
         "pt": "Folclorista",
-        "es": "Folklorista"
+        "es": "Folclorista"
     },
     "DGSkDA": {
         "ko": "[민속학자]\n저는 다양한 나라의 지역 전설과 이야기에 매료됩니다.",
         "en": "[Folklorist]\nI am fascinated by local legends and stories from various countries.",
         "pt": "[Folclorista]\nSou fascinado por lendas locais e histórias de vários países.",
-        "es": "[Folklorista]\nMe fascinan las leyendas locales e historias de varios países."
+        "es": "[Folclorista]\nMe fascinan las leyendas locales e historias de varios países."
     },
     "DWSkDA": {
         "ko": "[민속학자]\n10일간 저를 도와주시면, 사냥 임무를 완수할 때마다 보상을 받으실 수 있습니다.\n^FF0000^nItemID^1002641^000000를 갖고 계시면 추가 보상을 드립니다.",
         "en": "[Folklorist]\nHelp me for 10 days, and you'll receive rewards each time you complete a hunting mission.\nIf you have ^FF0000^nItemID^1002641^000000, you'll get additional rewards.",
         "pt": "[Folclorista]\nAjude-me por 10 dias e você receberá recompensas cada vez que completar uma missão de caça.\nSe você tiver ^FF0000^nItemID^1002641^000000, receberá recompensas melhores.",
-        "es": "[Folklorista]\nAyúdame durante 10 días, y recibirás recompensas cada vez que completes una misión de caza.\nSi tienes ^FF0000^nItemID^1002641^000000, obtendrás recompensas adicionales."
+        "es": "[Folclorista]\nAyúdame durante 10 días, y recibirás recompensas cada vez que completes una misión de caza.\nSi tienes ^FF0000^nItemID^1002641^000000, obtendrás recompensas adicionales."
     },
     "DmSkDA": {
         "ko": "오늘의 퀘스트",
@@ -675,79 +675,79 @@
         "ko": "[민속학자]\n10일간의 퀘스트를 모두 완료하셨군요. 감사합니다!",
         "en": "[Folklorist]\nYou've completed all 10 days of quests. Thank you!",
         "pt": "[Folclorista]\nVocê completou todas as 10 dias de missões. Obrigado!",
-        "es": "[Folklorista]\n¡Has completado las 10 días de misiones! ¡Gracias!"
+        "es": "[Folclorista]\n¡Has completado las 10 días de misiones! \n¡Gracias!"
     },
     "EWSkDA": {
         "ko": "[민속학자]\n오늘은 이미 퀘스트를 완료하셨군요. 내일 다시 찾아오면 퀘스트를 드리겠습니다.",
         "en": "[Folklorist]\nYou've already completed today's quest. Come back tomorrow for a new quest.",
         "pt": "[Folclorista]\nVocê já completou a missão de hoje. Volte amanhã para uma nova missão.",
-        "es": "[Folklorista]\nYa completaste la misión de hoy. Vuelve mañana por una nueva misión."
+        "es": "[Folclorista]\nYa completaste la misión de hoy. Vuelve mañana por una nueva misión."
     },
     "EmSkDA": {
         "ko": "Amatsu 지역에서 몬스터 30 마리 처치",
-        "en": "Defeat 30 monsters in Amatsu area",
-        "pt": "Derrote 30 monstros no campo de Amatsu",
-        "es": "Derrota 30 monstruos en el área de Amatsu"
+        "en": "Defeat 30 monsters in Amatsu area.",
+        "pt": "Derrote 30 monstros no campo de Amatsu.",
+        "es": "Derrota 30 monstruos en el área de Amatsu."
     },
     "E2SkDA": {
         "ko": "Gonryun 지역에서 몬스터 30 마리 처치",
-        "en": "Defeat 30 monsters in Gonryun area",
-        "pt": "Derrote 30 monstros no campo de Kunlun",
-        "es": "Derrota 30 monstruos en el área de Gonryun"
+        "en": "Defeat 30 monsters in Gonryun area.",
+        "pt": "Derrote 30 monstros no campo de Kunlun.",
+        "es": "Derrota 30 monstruos en el área de Gonryun."
     },
     "FGSkDA": {
         "ko": "Ayothaya 지역에서 몬스터 30 마리 처치",
-        "en": "Defeat 30 monsters in Ayothaya area",
-        "pt": "Derrote 30 monstros no campo de Ayothaya",
-        "es": "Derrota 30 monstruos en el área de Ayothaya"
+        "en": "Defeat 30 monsters in Ayothaya area.",
+        "pt": "Derrote 30 monstros no campo de Ayothaya.",
+        "es": "Derrota 30 monstruos en el área de Ayothaya."
     },
     "FWSkDA": {
         "ko": "Louyang 지역에서 몬스터 30 마리 처치",
-        "en": "Defeat 30 monsters in Louyang area",
-        "pt": "Derrote 30 monstros no campo de Louyang",
-        "es": "Derrota 30 monstruos en el área de Louyang"
+        "en": "Defeat 30 monsters in Louyang area.",
+        "pt": "Derrote 30 monstros no campo de Louyang.",
+        "es": "Derrota 30 monstruos en el área de Louyang."
     },
     "FmSkDA": {
         "ko": "Moskovia 지역에서 몬스터 30 마리 처치",
-        "en": "Defeat 30 monsters in Moskovia area",
-        "pt": "Derrote 30 monstros no campo de Moscóvia",
-        "es": "Derrota 30 monstruos en el área de Moskovia"
+        "en": "Defeat 30 monsters in Moskovia area.",
+        "pt": "Derrote 30 monstros no campo de Moscóvia.",
+        "es": "Derrota 30 monstruos en el área de Moskovia."
     },
     "F2SkDA": {
         "ko": "Dewata 지역에서 몬스터 30 마리 처치",
-        "en": "Defeat 30 monsters in Dewata area",
-        "pt": "Derrote 30 monstros no campo de Dewata",
-        "es": "Derrota 30 monstruos en el área de Dewata"
+        "en": "Defeat 30 monsters in Dewata area.",
+        "pt": "Derrote 30 monstros no campo de Dewata.",
+        "es": "Derrota 30 monstruos en el área de Dewata."
     },
     "GGSkDA": {
         "ko": "Brasilis 필드에서 몬스터 30 마리 처치",
-        "en": "Defeat 30 monsters in Brasilis Field",
-        "pt": "Derrote 30 monstros no campo de Brasilis",
-        "es": "Derrota 30 monstruos en el Campo de Brasilis"
+        "en": "Defeat 30 monsters in Brasilis Field.",
+        "pt": "Derrote 30 monstros no campo de Brasilis.",
+        "es": "Derrota 30 monstruos en el Campo de Brasilis."
     },
     "GWSkDA": {
         "ko": "Brasilis 던전에서 몬스터 30 마리 처치",
-        "en": "Defeat 30 monsters in Brasilis Dungeon",
-        "pt": "Derrote 30 monstros na caverna de Brasilis",
-        "es": "Derrota 30 monstruos en la Mazmorra de Brasilis"
+        "en": "Defeat 30 monsters in Brasilis Dungeon.",
+        "pt": "Derrote 30 monstros na caverna de Brasilis.",
+        "es": "Derrota 30 monstruos en la Mazmorra de Brasilis."
     },
     "GmSkDA": {
         "ko": "Malangdo 지역에서 몬스터 30 마리 처치",
-        "en": "Defeat 30 monsters in Malangdo area",
-        "pt": "Derrote 30 monstros no campo de Malangdo",
-        "es": "Derrota 30 monstruos en el área de Malangdo"
+        "en": "Defeat 30 monsters in Malangdo area.",
+        "pt": "Derrote 30 monstros no campo de Malangdo.",
+        "es": "Derrota 30 monstruos en el área de Malangdo."
     },
     "G2SkDA": {
         "ko": "Malaya 지역에서 몬스터 30 마리 처치",
-        "en": "Defeat 30 monsters in Malaya area",
-        "pt": "Derrote 30 monstros no campo de Malaya",
-        "es": "Derrota 30 monstruos en el área de Malaya"
+        "en": "Defeat 30 monsters in Malaya area.",
+        "pt": "Derrote 30 monstros no campo de Malaya.",
+        "es": "Derrota 30 monstruos en el área de Malaya."
     },
     "HGSkDA": {
         "ko": "[민속학자]",
         "en": "[Folklorist]",
         "pt": "[Folclorista]",
-        "es": "[Folklorista]"
+        "es": "[Folclorista]"
     },
     "HWSkDA": {
         "ko": "아직 퀘스트를 완료하지 않으셨군요.",
@@ -759,7 +759,7 @@
         "ko": "[민속학자]\n퀘스트를 완료하셨군요! 보상을 드리겠습니다! 임무를 완료하셨으니 스탬프도 찍어드리죠!",
         "en": "[Folklorist]\nYou've completed the quest! Here's your reward! Since you've completed the mission, I'll stamp your card!",
         "pt": "[Folclorista]\nVocê completou a missão! Aqui está sua recompensa! Como você completou a missão de hoje, vou carimbar seu cartão!",
-        "es": "[Folklorista]\n¡Has completado la misión! ¡Aquí está tu recompensa! Como has completado la misión, ¡pondré un sello en tu tarjeta!"
+        "es": "[Folclorista]\n¡Has completado la misión! \n¡Aquí está tu recompensa! \nComo has completado la misión, ¡pondré un sello en tu tarjeta!"
     },
     "H2SkDA": {
         "ko": "몬스터를 모두 처치하신 뒤 저에게 돌아오세요!",
@@ -771,7 +771,7 @@
         "ko": "[민속학자]\n현재 스탬프 상황입니다~ 모든 퀘스트를 완료하여 10개의 도장을 찍어보세요!",
         "en": "[Folklorist]\nHere is your current stamp status~ Complete all quests to get all 10 stamps!",
         "pt": "[Folclorista]\nAqui está seu status atual~ Complete todas as missões para obter todos os 10 selos!",
-        "es": "[Folklorista]\n¡Aquí está tu estado de sellos actual~ Completa todas las misiones para obtener los 10 sellos!"
+        "es": "[Folclorista]\n¡Aquí está tu estado de sellos actual~ \nCompleta todas las misiones para obtener los 10 sellos!"
     },
     "IWSkDA": {
         "ko": "사진작가",
@@ -783,7 +783,7 @@
         "ko": "[사진작가]\n저는 의상 정말 좋아해요! 카니발 때 사람들 사진 찍는 거 정말 좋아해요. 저기요! 자랑하는 거 좋아하죠? 장비 자랑 좀 해보는 거 어떠세요? 제가 사진 찍어줄게요!!",
         "en": "[Photographer]\nI really like costumes! I love taking pictures of people during Carnival. Hey! You like showing off, right? How about showing off your equipment? I'll take your picture!!",
         "pt": "[Fotógrafo]\nRealmente gosto de fantasias! Adoro tirar fotos das pessoas durante o Carnaval. Ei! Você gosta de se exibir, certo? Que tal exibir seu equipamento? Vou tirar sua foto!!",
-        "es": "[Fotógrafo]\n¡Realmente me gustan los disfraces! Me encanta tomar fotos de la gente durante el Carnaval. ¡Oye! Te gusta presumir, ¿verdad? ¿Qué tal si presumes tu equipo? ¡Te tomaré una foto!!"
+        "es": "[Fotógrafo]\n¡Realmente me gustan los disfraces! \nMe encanta tomar fotos de la gente durante el Carnaval. \n¡Oye! \nTe gusta presumir, ¿verdad? \n¿Qué tal si presumes tu equipo? \n¡Te tomaré una foto!!"
     },
     "I2SkDA": {
         "ko": "사진을 찍는다.",
@@ -921,7 +921,7 @@
         "ko": "[Amatsu 관광객]\n이 행사는 정말 아름다워요! 얼마나 많은 노력을 기울였을지 궁금하네요.",
         "en": "[Amatsu Tourist]\nThis event is so beautiful! I wonder how much effort they put into it.",
         "pt": "[Turista de Amatsu]\nEste evento é tão bonito! Me pergunto o quão duro eles trabalharam nisso.",
-        "es": "[Turista de Amatsu]\n¡Este evento es tan hermoso! Me pregunto cuánto esfuerzo le pusieron."
+        "es": "[Turista de Amatsu]\n¡Este evento es tan hermoso! \nMe pregunto cuánto esfuerzo le pusieron."
     },
     "OmSkDA": {
         "ko": "Kunlun 관광객",
@@ -933,7 +933,7 @@
         "ko": "[Kunlun 관광객]\n들어봐. 카이피리냐를 꼭 마셔 봐! 정말 맛있단 말이야!",
         "en": "[Kunlun Tourist]\nListen. You must try Caipirinha! It's really delicious!",
         "pt": "[Turista de Kunlun]\nEscute. Você deve experimentar a Caipirinha! É realmente deliciosa!",
-        "es": "[Turista de Kunlun]\nEscucha. ¡Debes probar la Caipiriña! ¡Es realmente deliciosa!"
+        "es": "[Turista de Kunlun]\nEscucha. \n¡Debes probar la Caipiriña! \n¡Es realmente deliciosa!"
     },
     "PGSkDA": {
         "ko": "Louyang 관광객",
@@ -969,7 +969,7 @@
         "ko": "[Moskovia 관광객]\n여긴 정말 덥네! 난 이런 데 익숙하지 않아!",
         "en": "[Moskovia Tourist]\nIt's really hot here! I'm not used to this!",
         "pt": "[Turista de Moscóvia]\nEstá muito quente aqui! Não me acostumei com isso!",
-        "es": "[Turista de Moskovia]\n¡Hace mucho calor aquí! ¡No estoy acostumbrado a esto!"
+        "es": "[Turista de Moskovia]\n¡Hace mucho calor aquí! \n¡No estoy acostumbrado a esto!"
     },
     "QmSkDA": {
         "ko": "Dewata 관광객",
@@ -981,7 +981,7 @@
         "ko": "[Dewata 관광객]\n저는 브라질리스에서 사진 찍는 걸 즐깁니다! 여기 모험가들의 사진을 찍어주는 사람이 있어요.",
         "en": "[Dewata Tourist]\nI enjoy taking pictures in Brasilis! There's someone here who takes pictures of adventurers.",
         "pt": "[Turista de Dewata]\nGosto de tirar fotos em Brasilis! Tem alguém aqui que tira fotos de viajantes.",
-        "es": "[Turista de Dewata]\n¡Disfruto tomando fotos en Brasilis! Hay alguien aquí que toma fotos de aventureros."
+        "es": "[Turista de Dewata]\n¡Disfruto tomando fotos en Brasilis! \nHay alguien aquí que toma fotos de aventureros."
     },
     "RGSkDA": {
         "ko": "타마린",
@@ -993,7 +993,7 @@
         "ko": "[타마린]\n잠깐만! 지금 의상 고르는 중이야!",
         "en": "[Tamarin]\nWait! I'm choosing a costume right now!",
         "pt": "[Tamarin]\nEspere! Estou escolhendo uma fantasia agora!",
-        "es": "[Tamarin]\n¡Espera! ¡Estoy eligiendo un disfraz ahora mismo!"
+        "es": "[Tamarin]\n¡Espera! \n¡Estoy eligiendo un disfraz ahora mismo!"
     },
     "RmSkDA": {
         "ko": "[타마린]\n이건 아니야!",
@@ -1063,15 +1063,15 @@
     },
     "UWSkDA": {
         "ko": "여인 상인",
-        "en": "Female Merchant",
+        "en": "Merchant",
         "pt": "Comerciante",
-        "es": "Mercader"
+        "es": "Comerciante"
     },
     "UmSkDA": {
         "ko": "[여인 상인]\n안녕하세요, 제가 여러분을 위해 몇 가지 물건을 판매하고 있습니다.",
-        "en": "[Female Merchant]\nHello, I'm selling some items for you.",
+        "en": "[Merchant]\nHello, I'm selling some items for you.",
         "pt": "[Comerciante]\nOlá, estou vendendo alguns itens para você.",
-        "es": "[Mercader]\nHola, estoy vendiendo algunos artículos para ti."
+        "es": "[Comerciante]\nHola, estoy vendiendo algunos artículos para ti."
     },
     "U2SkDA": {
         "ko": "인플루언서",
@@ -1083,7 +1083,7 @@
         "ko": "[인플루언서]\n와, 브라질 사람들 참여도를 너무 심각하게 받아들이네! '좋아요' 수 좀 봐!",
         "en": "[Influencer]\nWow, Brazilians take participation so seriously! Look at the number of 'likes'!",
         "pt": "[Influencer]\nUau, os brasileiros levam a participação do carnaval tão a sério! Olhe meu número de 'likes'!",
-        "es": "[Influencer]\n¡Guau, los brasileños se toman la participación tan en serio! ¡Mira la cantidad de 'me gusta'!"
+        "es": "[Influencer]\n¡Guau, los brasileños se toman la participación tan en serio! \n¡Mira la cantidad de 'me gusta'!"
     },
     "VWSkDA": {
         "ko": "변장한 소",
@@ -1095,7 +1095,7 @@
         "ko": "[변장한 소]\n이 의상 정말 끝내준다고 했잖아! 봐, 저 황소가 우리한테 반했어!",
         "en": "[Disguised Cow]\nI told you this costume is awesome! Look, that bull has fallen for us!",
         "pt": "[Vaquinha]\nEu disse que essa fantasia é incrível! Olhe, aquele touro se apaixonou por nós!",
-        "es": "[Vaca Disfrazada]\n¡Te dije que este disfraz es increíble! Mira, ese toro se ha enamorado de nosotros!"
+        "es": "[Vaca Disfrazada]\n¡Te dije que este disfraz es increíble! \nMira, ese toro se ha enamorado de nosotros!"
     },
     "V2SkDA": {
         "ko": "진짜 황소",

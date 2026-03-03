@@ -11,33 +11,33 @@
     },
     "IpDv": {
         "en": "[Lunar]\nWhat are you looking for? Are you looking for the place where all the dead men roam?",
-        "pt": "[Lunar]\nO que você está procurando? Está procurando o lugar onde todos os homens mortos vagam?",
-        "es": "[Lunar]\n¿Qué estás buscando? ¿Buscas el lugar donde deambulan los muertos?"
+        "pt": "[Lunar]\nEstá procurando algum lugar especial? Por aqui os mortos andam livremente...",
+        "es": "[Lunar]\n¿Buscas algún lugar especial? Por aquí los muertos andan libremente..."
     },
     "I5Dv": {
         "en": "[Lunar]\nI can take you there if you want. You'll need ^0000CD150,000 Zeny^000000.",
-        "pt": "[Lunar]\nPosso levá-lo até lá se quiser. Você precisará de ^0000CD150.000 Zeny^000000.",
-        "es": "[Lunar]\nSi quieres, puedo llevarte. Necesitarás ^0000CD150000 zeny^000000."
+        "pt": "[Lunar]\nPosso te levar para um lugar perigoso... Você precisará de ^0000CD20 Fragmentos Sentimentais e 150.000 Zeny^000000.",
+        "es": "[Lunar]\nPuedo llevarte a un lugar peligroso... Necesitarás ^0000CD20 Fragmentos de Sentimiento y 150.000 Zeny^000000."
     },
     "JJDv": {
         "en": "[Lunar]\nOr you can just see sentiment safely without the interruption of the dead. That will cost you ^0000CD2,000,000 Zeny^000000.",
-        "pt": "[Lunar]\nOu você pode simplesmente ver o sentimento com segurança, sem a interrupção dos mortos. Isso lhe custará ^0000CD2.000.000 Zeny^000000.",
-        "es": "[Lunar]\nO también puedes ir sin que te interrumpan los muertos. Eso te costará ^0000CD2000000 zeny^000000."
+        "pt": "[Lunar]\nOu você pode ir diretamente falar com os fantasmas... Isso te custará ^0000CD30 Fragmentos Sentimentais e 2.000.000 Zeny^000000.",
+        "es": "[Lunar]\nO puedes ir directamente a hablar con los fantasmas... Eso te costará ^0000CD30 Fragmentos de Sentimiento y 2.000.000 Zeny^000000."
     },
     "JZDv": {
         "en": "[Lunar]\nWhere do you want to go?",
-        "pt": "[Lunar]\nPara onde você quer ir?",
-        "es": "[Lunar]\n¿Adónde quieres ir?"
+        "pt": "[Lunar]\nPara onde deseja ir?",
+        "es": "[Lunar]\n¿A dónde deseas ir?"
     },
     "JpDv": {
         "en": "Where all the dead men roam.",
-        "pt": "Onde todos os homens mortos vagam.",
-        "es": "A donde deambulan los muertos."
+        "pt": "Vou enfrentar todos os perigos.",
+        "es": "Enfrentaré todos los peligros."
     },
     "J5Dv": {
         "en": "Only thoughts can be met.",
-        "pt": "Somente os pensamentos podem ser atendidos.",
-        "es": "A donde no haya más que sentimientos."
+        "pt": "Falarei com os fantasmas.",
+        "es": "Hablaré con los fantasmas."
     },
     "KJDv": {
         "en": "What kind of place is it?",
@@ -46,43 +46,43 @@
     },
     "KZDv": {
         "en": "I don't mind.",
-        "pt": "Não me importo.",
-        "es": "No me importa."
+        "pt": "Isso me assusta, vou dar o fora.",
+        "es": "Me asusta, voy a huir."
     },
     "KpDv": {
         "en": "[Lunar]\nYou have everything right?",
-        "pt": "[Lunar]\nVocê tem tudo certo?",
-        "es": "[Lunar]\nTienes todo, ¿no?"
+        "pt": "[Lunar]\nEstá com tudo preparado?",
+        "es": "[Lunar]\n¿Tienes todo preparado?"
     },
     "K5Dv": {
         "en": "[Lunar]\nGood. You have everything. I'll take you there.",
-        "pt": "[Lunar]\nBom. Você tem tudo. Eu o levarei até lá.",
-        "es": "[Lunar]\nBien. Tienes todo. Te llevaré."
+        "pt": "[Lunar]\nMe parece que você tem tudo... Te levarei até lá.",
+        "es": "[Lunar]\nMe parece que tienes todo... Te llevaré hasta allí."
     },
     "LJDv": {
         "en": "[Lunar]\nBut... I'm taking you there for money... you should be careful.",
-        "pt": "[Lunar]\nMas... Estou levando você lá por dinheiro... você deve ter cuidado.",
-        "es": "[Lunar]\nPero… Te llevo a cambio de dinero… Deberías tener cuidado."
+        "pt": "[Lunar]\nE ainda pensam que eu faço isso pelo dinheiro...",
+        "es": "[Lunar]\nY aún piensan que hago esto por dinero..."
     },
     "LZDv": {
         "en": "[Lunar]\nSo.. if you go inside, you'll notice a ^0000CDStrange Machine that looks like a crystal^000000.",
-        "pt": "[Lunar]\nEntão... se você entrar, verá uma Máquina Estranha ^0000CD que parece um cristal^000000.",
-        "es": "[Lunar]\nEntonces… Si entras, verás una ^0000CDmáquina extraña que se parece a un cristal^000000."
+        "pt": "[Lunar]\nUma vez que estiver lá, procure por ^0000CDum tipo de máquina^000000.",
+        "es": "[Lunar]\nUna vez que estés allí, busca ^0000CDun tipo de máquina^000000."
     },
     "LpDv": {
         "en": "[Lunar]\nThis machine will recover your HP if you use it. It helped me survive. I have no idea why it's in there though...",
-        "pt": "[Lunar]\nEsta máquina recuperará seu HP se você a usar. Ela me ajudou a sobreviver. Mas não tenho ideia de por que ela está lá...",
-        "es": "[Lunar]\nSi la usas, esa máquina restaurará tu HP. Me ayudó a sobrevivir. Aunque no tengo idea de por qué está ahí…"
+        "pt": "[Lunar]\nSe chegar perto dela, seu HP será recuperado. Não me pergunte como aquilo funciona...",
+        "es": "[Lunar]\nSi te acercas a ella, tu HP se recuperará. No me preguntes cómo funciona eso..."
     },
     "L5Dv": {
         "en": "[Lunar]\nI turned off the machine so no one can use it, but I'll let you use it as my special treat.",
-        "pt": "[Lunar]\nEu desliguei a máquina para que ninguém possa usá-la, mas vou deixar você usá-la como meu presente especial.",
-        "es": "[Lunar]\nLa apagué para que nadie la usara, pero te dejaré usarla como regalo especial."
+        "pt": "[Lunar]\nGeralmente essa máquina não fica disponível, mas dessa vez você teve sorte.",
+        "es": "[Lunar]\nGeneralmente esa máquina no está disponible, pero esta vez tuviste suerte."
     },
     "MJDv": {
         "en": "[Lunar]\nPlease be careful and use the machine if you need to!",
-        "pt": "[Lunar]\nPor favor, tenha cuidado e use a máquina se precisar!",
-        "es": "[Lunar]\n¡Ten cuidado y usa la máquina si la necesitas!"
+        "pt": "[Lunar]\nTome cuidado e lembre-se de usar a máquina.",
+        "es": "[Lunar]\nTen cuidado y recuerda usar la máquina."
     },
     "MZDv": {
         "en": "[Lunar]\nLet me see.",
@@ -91,83 +91,83 @@
     },
     "MpDv": {
         "en": "[Lunar]\nIt's not enough. You need ^0000CD150,000 Zeny^000000. I can't take you there for free.",
-        "pt": "[Lunar]\nNão é suficiente. Você precisa de ^0000CD150.000 Zeny^000000. Não posso levá-lo até lá de graça.",
-        "es": "[Lunar]\nNo es suficiente. Necesitas ^0000CD150000 zeny^000000. No puedo llevarte gratis."
+        "pt": "[Lunar]\nNão é o bastante. Você precisa de ^0000CD20 Fragmentos Sentimentais e 150.000 Zeny^000000. Nada é de graça na vida... e nem na morte...",
+        "es": "[Lunar]\nNo es suficiente. Necesitas ^0000CD20 Fragmentos de Sentimiento y 150.000 Zeny^000000. Nada es gratis en la vida... y tampoco en la muerte..."
     },
     "M5Dv": {
         "en": "[Lunar]\nYou've got all the money?",
-        "pt": "[Lunar]\nVocê tem todo o dinheiro?",
-        "es": "[Lunar]\n¿Tienes todo el dinero?"
+        "pt": "[Lunar]\nTem tudo que precisa?",
+        "es": "[Lunar]\n¿Tienes todo lo que necesitas?"
     },
     "NJDv": {
         "en": "[Lunar]\nThe exit is outside of the wall.",
-        "pt": "[Lunar]\nA saída está do lado de fora da parede.",
-        "es": "[Lunar]\nLa salida está fuera del muro."
+        "pt": "[Lunar]\nParece que está tudo certo. Te levarei até lá.",
+        "es": "[Lunar]\nParece que está todo en orden. Te llevaré hasta allí."
     },
     "NZDv": {
         "en": "[Lunar]\n^EE0000Well, I also have a warning. Your location can't be saved in there, so if you log off or get disconnected, you'll be moved to your save point.",
-        "pt": "[Lunar]\n^EE0000Bem, também tenho um aviso. Sua localização não pode ser salva lá, portanto, se fizer logoff ou for desconectado, você será movido para seu ponto de salvamento.",
-        "es": "[Lunar]\n^EE0000Bueno, también tenemos una advertencia. No puedes guardar la ubicación ahí dentro, así que si cierras sesión o te desconectas, te llevaremos a tu punto de guardado."
+        "pt": "[Lunar]\nAliás, saiba que você ^EE0000não pode salvar seu ponto de retorno^000000 lá. Portanto, se houver algum problema, voltará da última localização salva.",
+        "es": "[Lunar]\nPor cierto, debes saber que ^EE0000no puedes guardar tu punto de retorno^000000 allí. Por lo tanto, si hay algún problema, volverás desde la última ubicación guardada."
     },
     "NpDv": {
         "en": "[Lunar]\nIt's not enough. I need ^0000CD2,000,000 Zeny^000000. I can't take you there for free.",
-        "pt": "[Lunar]\nNão é suficiente. Preciso de ^0000CD2.000.000 Zeny^000000. Não posso levá-lo até lá de graça.",
-        "es": "[Lunar]\nNo es suficiente. Necesito ^0000CD2000000 zeny^000000. No puedo llevarte gratis."
+        "pt": "[Lunar]\nNão é o bastante. Você precisa de ^0000CD30 Fragmentos Sentimentais e 2.000.000 Zeny^000000. Nada é de graça na vida... e nem na morte...",
+        "es": "[Lunar]\nNo es suficiente. Necesitas ^0000CD30 Fragmentos de Sentimiento y 2.000.000 Zeny^000000. Nada es gratis en la vida... y tampoco en la muerte..."
     },
     "N5Dv": {
         "en": "[Lunar]\nI was digging in the ground to find something to eat and I found something even better.",
-        "pt": "[Lunar]\nEu estava cavando no chão para encontrar algo para comer e encontrei algo ainda melhor.",
-        "es": "[Lunar]\nEstaba excavando el suelo para encontrar algo que comer y encontré algo mucho mejor."
+        "pt": "[Lunar]\nÉ o local onde os mortos procuram comida e abrigo...",
+        "es": "[Lunar]\nEs el lugar donde los muertos buscan comida y refugio..."
     },
     "OJDv": {
         "en": "[Lunar]\nThe living can't survive there, only the dead roam around.",
-        "pt": "[Lunar]\nOs vivos não podem sobreviver lá, apenas os mortos vagam por lá.",
-        "es": "[Lunar]\nAllí los vivos no pueden sobrevivir, solo los muertos deambulan por ahí."
+        "pt": "[Lunar]\nOs vivos não têm vez por aqui, somente os mortos caminham.",
+        "es": "[Lunar]\nLos vivos no tienen cabida aquí, solo los muertos caminan."
     },
     "OZDv": {
         "en": "[Lunar]\nThere's a rumor.. that people who went there never came back...",
-        "pt": "[Lunar]\nHá um boato... de que as pessoas que foram para lá nunca mais voltaram...",
-        "es": "[Lunar]\nExiste un rumor… Dice que la gente que fue allí jamás regresó…"
+        "pt": "[Lunar]\nOs que tentam vagar por aqui são levados pela eternidade...",
+        "es": "[Lunar]\nAquellos que intentan vagar por aquí son llevados por la eternidad..."
     },
     "OpDv": {
         "en": "[Lunar]\nI was so scared but.. it became clear that it's a popluar place for adventurers to visit.",
-        "pt": "[Lunar]\nEu estava tão assustado, mas... ficou claro que é um lugar popular para os aventureiros visitarem.",
-        "es": "[Lunar]\nEstaba muy asustado, pero… Entendí que es un lugar popular para los trotamundos."
+        "pt": "[Lunar]\nMedo é normal... pelo menos no começo...",
+        "es": "[Lunar]\nEl miedo es normal... al menos al principio..."
     },
     "O5Dv": {
         "en": "[Lunar]\nThe place I arrive at is ^0000CD near Strange Sentiment^000000.",
-        "pt": "[Lunar]\nO local em que chego é ^0000CD perto de Strange Sentiment^000000.",
-        "es": "[Lunar]\nEl lugar al que llegué está ^0000CDcerca de Sentimiento Extraño^000000."
+        "pt": "[Lunar]\nQuando cheguei, me senti muito sozinha...",
+        "es": "[Lunar]\nCuando llegué, me sentí muy sola..."
     },
     "PJDv": {
         "en": "[Lunar]\nI ran away since so many dead men tried to kill me.",
-        "pt": "[Lunar]\nEu fugi porque muitos homens mortos tentaram me matar.",
-        "es": "[Lunar]\nHui porque muchos muertos intentaron matarme."
+        "pt": "[Lunar]\nFugi dos mortos e do desejo de vingança deles...",
+        "es": "[Lunar]\nHuí de los muertos y de su deseo de venganza..."
     },
     "PZDv": {
         "en": "[Lunar]\nBut then I got lost and fell down to a weird place.",
-        "pt": "[Lunar]\nMas então eu me perdi e caí em um lugar estranho.",
-        "es": "[Lunar]\nPero luego me perdí y caí en un lugar extraño."
+        "pt": "[Lunar]\nAcabei encontrando um local onde os fantasmas residem pacificamente...",
+        "es": "[Lunar]\nTerminé encontrando un lugar donde los fantasmas residen pacíficamente..."
     },
     "PpDv": {
         "en": "[Lunar]\nThe place was the same as where the dead men roam ^0000CDbut there's only sentiments^000000. I was so scared, so I ran out immediately.",
-        "pt": "[Lunar]\nO lugar era o mesmo onde os homens mortos vagam ^0000CD, mas há apenas sentimentos^000000. Eu estava com muito medo, então saí correndo imediatamente.",
-        "es": "[Lunar]\nEl lugar era igual al lugar donde deambulan los muertos, ^0000CDpero solo hay sentimientos^000000. Tenía mucho miedo, por eso hui de inmediato."
+        "pt": "[Lunar]\nCuriosamente ficava no mesmo lugar em que entrei...",
+        "es": "[Lunar]\nCuriosamente estaba en el mismo lugar por donde entré..."
     },
     "P5Dv": {
         "en": "[Lunar]\nI will take you there if you give me the money.",
-        "pt": "[Lunar]\nEu o levarei até lá se você me der o dinheiro.",
-        "es": "[Lunar]\nSi me das el dinero, te llevaré hasta allí."
+        "pt": "[Lunar]\nLevarei você até lá, pelo preço certo...",
+        "es": "[Lunar]\nTe llevaré hasta allí, por el precio justo..."
     },
     "QJDv": {
         "en": "[Lunar]\nYou might go easier without his help.",
-        "pt": "[Lunar]\nVocê pode ter mais facilidade sem a ajuda dele.",
-        "es": "[Lunar]\nPodría serte más fácil sin su ayuda."
+        "pt": "[Lunar]\nVocê certamente precisará de ajuda...",
+        "es": "[Lunar]\nCiertamente necesitarás ayuda..."
     },
     "QZDv": {
         "en": "[Lunar]\nPlease visit me any time. We have nothing to lose anyway.",
-        "pt": "[Lunar]\nPor favor, venha me visitar a qualquer momento. De qualquer forma, não temos nada a perder.",
-        "es": "[Lunar]\nPuedes visitarme cuando quieras. Igual no tenemos nada que perder."
+        "pt": "[Lunar]\nVisite-nos a qualquer hora... Somos atemporais...",
+        "es": "[Lunar]\nVisítanos a cualquier hora... Somos atemporales..."
     },
     "QpDv": {
         "en": "[Lunar]\nI'm hungry.",

@@ -2,7 +2,7 @@
     "oHXp": {
         "en": "Crevice",
         "pt": "Fenda",
-        "es": "Grieta"
+        "es": "Fisura"
     },
     "oXXp": {
         "en": "Ohno Tohiro",
@@ -11,178 +11,178 @@
     },
     "onXp": {
         "en": "[Ohno Tohiro]\nI was asked to collect some kind of research charts...",
-        "pt": "[Ohno Tohiro]\nPediram-me para coletar alguns tipos de gráficos de pesquisa...",
-        "es": "[Ohno Tohiro]\nMe pidieron que recolecte ciertos Gráficos de investigación…"
+        "pt": "[Ohno Tohiro]\nMe pediram pra coletar algumas Tabelas de Pesquisa na Tumba da Honra...",
+        "es": "[Ohno Tohiro]\nMe pidieron que recolectara algunas Gráficos de Investigación en la Tumba del Honor..."
     },
     "o3Xp": {
         "en": "- I hear somebody talking - - remote communication -",
-        "pt": "- Estou ouvindo alguém falando - - comunicação remota -",
-        "es": "(Escucho hablar a alguien. Comunicación remota)."
+        "pt": "Parece que escuto alguém falando num rádio...",
+        "es": "Parece que escucho a alguien hablando en una radio..."
     },
     "pHXp": {
         "en": "[Ohno Tohiro]\nYes... everything is proceeding smoothly.",
-        "pt": "[Ohno Tohiro]\nSim... tudo está ocorrendo sem problemas.",
-        "es": "[Ohno Tohiro]\nSí… Todo marcha bien."
+        "pt": "[Ohno Tohiro]\nSim... tudo está indo muito bem.",
+        "es": "[Ohno Tohiro]\nSí... todo va muy bien."
     },
     "pXXp": {
         "en": "The status of the report collection is okay.\nYes, sir.",
-        "pt": "O status da coleta de relatórios está correto.\nSim, senhor.",
-        "es": "El estado de la recolección de informes es correcto.\nSí, señor."
+        "pt": "Sim, estamos conseguindo coletar tudo!\nSim, senhor!",
+        "es": "Sí, ¡estamos logrando recolectar todo!\nSí, ¡señor!"
     },
     "pnXp": {
         "en": "[Ohno Tohiro]\nI'll immediately report the information related to the laboratory as a top priority.",
-        "pt": "[Ohno Tohiro]\nVou relatar imediatamente as informações relacionadas ao laboratório como prioridade máxima.",
-        "es": "[Ohno Tohiro]\nEnviaré la información relacionada con el laboratorio de forma inmediata como principal prioridad."
+        "pt": "[Ohno Tohiro]\nIrei reportar imediatamente as informações relacionadas ao Laboratório.",
+        "es": "[Ohno Tohiro]\nReportaré de inmediato la información relacionada al Laboratorio."
     },
     "p3Xp": {
         "en": "Yes, sir...  I'll do so.",
-        "pt": "Sim, senhor... Eu farei isso.",
-        "es": "Sí, señor…  Lo haré."
+        "pt": "Sim, senhor... Como quiser...",
+        "es": "Sí, señor... Como usted quiera..."
     },
     "qHXp": {
         "en": "[Ohno Tohiro]\nOh somebody has come! I'll call you again later.",
-        "pt": "[Ohno Tohiro]\nOh, alguém chegou! Eu lhe ligo novamente mais tarde.",
-        "es": "[Ohno Tohiro]\n¡Oh, vino alguien! Lo llamo nuevamente más tarde."
+        "pt": "[Ohno Tohiro]\nEspere, alguém está aqui... Eu te ligo depois.",
+        "es": "[Ohno Tohiro]\nEspera, alguien está aquí... Te llamo después."
     },
     "qXXp": {
         "en": "[Ohno Tohiro]\nMy shoulders are heavy.\nOur long-cherished wish...\nOne by one, slowly...",
-        "pt": "[Ohno Tohiro]\nMeus ombros estão pesados.\nNosso desejo há muito acalentado...\nUm por um, lentamente...",
-        "es": "[Ohno Tohiro]\nCargo mucho peso sobre los hombros.\nNuestro deseo tan anhelado…\nUno por uno, despacio…"
+        "pt": "[Ohno Tohiro]\nSinto meus ombros pesados...\nO nosso sonho...\nAos poucos ele se tornará real...",
+        "es": "[Ohno Tohiro]\nSiento mis hombros pesados...\nNuestro sueño...\nPoco a poco se hará realidad..."
     },
     "qnXp": {
         "en": "[Ohno Tohiro]\nUh...? I didn't realize someone is here already...\nhmm... hmm...\nIs there something you want from me?",
-        "pt": "[Ohno Tohiro]\nUh...? Eu não sabia que alguém já estava aqui...\nhmm... hmm...\nHá algo que você queira de mim?",
-        "es": "[Ohno Tohiro]\n¿Eh…? No me había dado cuenta de que ya había alguien aquí…\nMmm… Mmm…\n¿Quieres algo de mí?"
+        "pt": "[Ohno Tohiro]\nDesculpe, não notei a sua presença.\nHm...\nPrecisa de alguma coisa?",
+        "es": "[Ohno Tohiro]\nDisculpa, no noté tu presencia.\nHm...\n¿Necesitas algo?"
     },
     "q3Xp": {
         "en": "End the conversation.",
-        "pt": "Encerre a conversa.",
-        "es": "Terminar la conversación."
+        "pt": "Encerrar conversa",
+        "es": "Terminar conversación"
     },
     "rHXp": {
         "en": "Ask him about the Tomb of Honor.",
-        "pt": "Pergunte a ele sobre o Túmulo de Honra.",
-        "es": "Preguntarle sobre la Tumba del honor."
+        "pt": "Tumba da Honra?",
+        "es": "¿Tumba del Honor?"
     },
     "rXXp": {
         "en": "Return to the Tomb of Honor.",
-        "pt": "Retorne ao Túmulo da Honra.",
-        "es": "Volver a la Tumba del honor."
+        "pt": "Quero entrar na Tumba da Honra!",
+        "es": "¡Quiero entrar a la Tumba del Honor!"
     },
     "rnXp": {
         "en": "Say that's too much zeny.",
-        "pt": "Digamos que isso seja Zeny demais.",
-        "es": "Decir que son demasiados zeny."
+        "pt": "Não tenho Zeny o suficiente...",
+        "es": "No tengo suficiente Zeny..."
     },
     "r3Xp": {
         "en": "[Ohno Tohiro]\nThere are many adventurers looking for this crevice, except for you!",
-        "pt": "[Ohno Tohiro]\nHá muitos aventureiros procurando por essa fenda, exceto você!",
-        "es": "[Ohno Tohiro]\nMuchos trotamundos buscan esta grieta, ¡excepto tú!"
+        "pt": "[Ohno Tohiro]\nMuitos aventureiros buscam pela Fenda, mas você parece diferente...",
+        "es": "[Ohno Tohiro]\nMuchos aventureros buscan la Fisura, pero tú pareces diferente..."
     },
     "sHXp": {
         "en": "If you change your mind, come back to me again!",
-        "pt": "Se você mudar de ideia, volte para mim novamente!",
-        "es": "Si cambias de opinión, ¡vuelve a verme!"
+        "pt": "Se mudar de ideia... bom, já sabe.",
+        "es": "Si cambias de opinión... bueno, ya sabes."
     },
     "sXXp": {
         "en": "[Ohno Tohiro]\nYou also heard about the crevice that leads to that place, right?",
-        "pt": "[Ohno Tohiro]\nVocê também ouviu falar sobre a fenda que leva a esse lugar, certo?",
-        "es": "[Ohno Tohiro]\nTambién te enteraste de la grieta que conduce a ese lugar, ¿no?"
+        "pt": "[Ohno Tohiro]\nExiste uma fenda que pode te levar até lá...",
+        "es": "[Ohno Tohiro]\nExiste una fisura que puede llevarte hasta allí..."
     },
     "snXp": {
         "en": "There are many adventurers like you these days!",
-        "pt": "Há muitos aventureiros como você hoje em dia!",
-        "es": "¡Últimamente hay muchos trotamundos como tú!"
+        "pt": "Muitos a procuram...",
+        "es": "Muchos la buscan..."
     },
     "s3Xp": {
         "en": "[Ohno Tohiro]\nI entered this crevice for the first time and guess what? It led to the place where there are so many monsters swarming around.",
-        "pt": "[Ohno Tohiro]\nEntrei nessa fenda pela primeira vez e adivinhe? Ela levava a um lugar onde havia muitos monstros se aglomerando.",
-        "es": "[Ohno Tohiro]\nIngresé a esta grieta por primera vez, ¿y qué crees que sucedió? Me condujo al sitio que está repleto de monstruos."
+        "pt": "[Ohno Tohiro]\nEntrei apenas uma vez e já foi o suficiente... Vi monstros inimagináveis...",
+        "es": "[Ohno Tohiro]\nEntré solo una vez y ya fue suficiente... Vi monstruos inimaginables..."
     },
     "tHXp": {
         "en": "[Ohno Tohiro]\nI gave a heads up to one adventurer I know. Then, he showed a high interest in it!",
-        "pt": "[Ohno Tohiro]\nAvisei um aventureiro que conheço. Então, ele demonstrou grande interesse no assunto!",
-        "es": "[Ohno Tohiro]\nLe avisé a un trotamundos que conozco. ¡Y mostró gran interés al respecto!"
+        "pt": "[Ohno Tohiro]\nContei para um amigo meu, fanático por aventuras... Ele ficou muito interessado.",
+        "es": "[Ohno Tohiro]\nSe lo conté a un amigo mío, fanático de las aventuras... Se interesó mucho."
     },
     "tXXp": {
         "en": "He kept muttering to himself about biomedical research, labs... something like that.",
-        "pt": "Ele ficava murmurando para si mesmo sobre pesquisa biomédica, laboratórios... algo assim.",
-        "es": "No paraba de murmurar para sí sobre investigaciones biomédicas, laboratorios… Algo así."
+        "pt": "Continuava indo atrás e aprendendo mais sobre um tal de Biolaboratório...",
+        "es": "Seguía yendo tras ella y aprendiendo más sobre un tal Biolaboratorio..."
     },
     "tnXp": {
         "en": "[Ohno Tohiro]\nHe kept asking me to show him how to get there. I felt reluctant to let him know about this crevice because I didn't want others to know about it. But I traded this info for 100,000 Zeny.",
-        "pt": "[Ohno Tohiro]\nEle sempre me pedia para lhe mostrar como chegar lá. Eu me senti relutante em contar a ele sobre essa fenda porque não queria que outros soubessem. Mas troquei essa informação por 100.000 Zeny.",
-        "es": "[Ohno Tohiro]\nNo dejaba de pedirme que le muestre cómo llegar. Me rehusaba a contarle sobre la grieta porque no quería que más gente lo supiera. Pero le cambié la información por 100000 zeny."
+        "pt": "[Ohno Tohiro]\nSempre ficava me perguntando como cheguei até lá... Estava decidido a não contar, até que ele me ofereceu 100.000 Zeny.",
+        "es": "[Ohno Tohiro]\nSiempre se preguntaba cómo llegué hasta allí... Estaba decidido a no contarle, hasta que me ofreció 100.000 Zeny."
     },
     "t3Xp": {
         "en": "[Ohno Tohiro]\nNot much later, he came back with his body thoroughly injured. It was a miracle that he came back alive... It was horrible...",
-        "pt": "[Ohno Tohiro]\nPouco tempo depois, ele voltou com o corpo completamente machucado. Foi um milagre ele ter voltado vivo... Foi horrível...",
-        "es": "[Ohno Tohiro]\nPoco después, regresó con todo el cuerpo malherido. Fue un milagro que regresara con vida… Fue horrible…"
+        "pt": "[Ohno Tohiro]\nApós entrar na Fenda, ele retornou completamente machucado. Passou anos se recuperando...",
+        "es": "[Ohno Tohiro]\nDespués de entrar en la Fisura, regresó completamente herido. Pasó años recuperándose..."
     },
     "uHXp": {
         "en": "However, he was holding several items. At first glance, they looked so powerful that even I felt scared.",
-        "pt": "No entanto, ele estava segurando vários itens. À primeira vista, eles pareciam tão poderosos que até eu fiquei com medo.",
-        "es": "Sin embargo, sostenía varios objetos. A primera vista, parecían tan poderosos que hasta sentí miedo."
+        "pt": "Contudo, trouxe itens fortíssimos de lá. Fiquei até assustado...",
+        "es": "Sin embargo, trajo objetos fortísimos de allí. Hasta me asusté..."
     },
     "uXXp": {
         "en": "[Ohno Tohiro]\nAfter that, many adventurers entered this dangerous place through this crevice after hearing the rumor. I hardly found any adventurers coming out of this crevice again. Since then, this place has been called the Tomb of Honor.",
-        "pt": "[Ohno Tohiro]\nDepois disso, muitos aventureiros entraram nesse lugar perigoso por essa fenda depois de ouvir o boato. Quase não encontrei aventureiros saindo dessa fenda novamente. Desde então, esse lugar passou a ser chamado de Túmulo da Honra.",
-        "es": "[Ohno Tohiro]\nDespués, al enterarse del rumor, muchos trotamundos ingresaron a este sitio peligroso a través de esta grieta. Pero casi nunca volví a ver que un trotamundos saliera de allí. Desde entonces, a este lugar se lo llama la Tumba del honor."
+        "pt": "[Ohno Tohiro]\nDepois disso, rumores se espalharam e muitos entraram pela Fenda. Desde então, chamamos esse lugar de Tumba da Honra, pois se alguém morrer lá dentro, será respeitado por sua coragem.",
+        "es": "[Ohno Tohiro]\nDespués de eso, se esparcieron rumores y muchos entraron por la Fisura. Desde entonces, llamamos a ese lugar la Tumba del Honor, porque si alguien muere allí dentro, será respetado por su valentía."
     },
     "unXp": {
         "en": "I earned some money thanks to them, though.",
-        "pt": "No entanto, ganhei algum dinheiro graças a eles.",
-        "es": "Sin embargo, gracias a ellos gané algo de dinero."
+        "pt": "Graças aos aventureiros, venho ganhando muito dinheiro.",
+        "es": "Gracias a los aventureros, he estado ganando mucho dinero."
     },
     "u3Xp": {
         "en": "[Ohno Tohiro]\nYou want to know why I earned money?\nI found this place for the first time, so its ownership belongs to me as well! You got a problem with that?",
-        "pt": "[Ohno Tohiro]\nVocê quer saber por que eu ganhei dinheiro?\nEu encontrei este lugar pela primeira vez, portanto, sua propriedade também pertence a mim! Você tem algum problema com isso?",
-        "es": "[Ohno Tohiro]\n¿Quieres saber por qué gané dinero?\nYo fui la primera persona que encontró este lugar, ¡por lo que su propiedad también es mía! ¿Te molesta?"
+        "pt": "[Ohno Tohiro]\nVocê quer saber como ganho esse dinheiro?\nBom, fui eu que achei a Fenda, então meio que tenho os direitos de uso!",
+        "es": "[Ohno Tohiro]\n¿Quieres saber cómo gano ese dinero?\nBueno, fui yo quien encontró la Fisura, ¡así que de algún modo tengo los derechos de uso!"
     },
     "vHXp": {
         "en": "[Ohno Tohiro]\nHmm hmm... Anyway, give me 100,000 Zeny. Then, I'll open the door which leads to the crevice for adventurers like you...",
-        "pt": "[Ohno Tohiro]\nHmm hmm... De qualquer forma, me dê 100.000 Zeny. Então, abrirei a porta que leva à fenda para aventureiros como você...",
-        "es": "[Ohno Tohiro]\nMmm… Mmm… En fin, dame 100000 zeny. Así te abriré la puerta que conduce a la grieta para los trotamundos como tú…"
+        "pt": "[Ohno Tohiro]\nSe quiser entrar, a taxa custa 100.000 Zeny. É pagar para se aventurar... eu que fiz esse lema!",
+        "es": "[Ohno Tohiro]\nSi quieres entrar, la tarifa cuesta 100.000 Zeny. Es pagar por aventurarse... ¡yo mismo inventé ese lema!"
     },
     "vXXp": {
         "en": "[Ohno Tohiro]\nOh, But it seems\nyou don't have enough experience!\nIf you go in\nright now, you might die.",
-        "pt": "[Ohno Tohiro]\nOh, mas parece que\nvocê não tem experiência suficiente!\nSe você entrar\nagora mesmo, você pode morrer.",
-        "es": "[Ohno Tohiro]\nOh, ¡pero parece que\nno tienes la experiencia suficiente!\nSi entras\nahora, podrías morir."
+        "pt": "[Ohno Tohiro]\nVamos com calma...\nQuero muito a grana, mas parece\nque você não é tão forte ainda.\nVai virar picadinho lá dentro...",
+        "es": "[Ohno Tohiro]\nVamos con calma...\nQuiero mucho el dinero, pero parece\nque aún no eres tan fuerte.\n¡Allí dentro te harán picadillo!"
     },
     "vnXp": {
         "en": "[Ohno Tohiro]\nI don't want to feel\nbad after sending you there so\ncome back when you are stronger.",
-        "pt": "[Ohno Tohiro]\nEu não quero me sentir mal\nruim depois de mandá-lo para lá, então\nvolte quando estiver mais forte.",
-        "es": "[Ohno Tohiro]\nNo quiero sentirme\nmal después de enviarte allí,\nasí que vuelve cuando seas más fuerte."
+        "pt": "[Ohno Tohiro]\nApesar de ganancioso, \nnão sou burro.\nVolte quando estiver mais forte!",
+        "es": "[Ohno Tohiro]\nAunque soy ambicioso,\nno soy tonto.\n¡Vuelve cuando seas más fuerte!"
     },
     "v3Xp": {
         "en": "[Ohno Tohiro]\nLet me see... one... two... three\nAlright. Now that I received the Zeny, I'll open the crevice.",
-        "pt": "[Ohno Tohiro]\nDeixe-me ver... um... dois... três\nMuito bem. Agora que recebi o Zeny, vou abrir a fenda.",
-        "es": "[Ohno Tohiro]\nDéjame ver… Uno… Dos… Tres…\nMuy bien. Ahora que recibí los zeny, abriré la grieta."
+        "pt": "[Ohno Tohiro]\nDeixa eu fazer as contas...\nBeleza, Zeny na mão, tá aberto o portão... digo, Fenda.",
+        "es": "[Ohno Tohiro]\nDéjame hacer cuentas...\nBien, Zeny en mano, está abierto el portón... digo, la Fisura."
     },
     "wHXp": {
         "en": "I hope you can come back alive!...",
-        "pt": "Espero que você possa voltar vivo!...",
-        "es": "¡Espero que puedas regresar con vida…!"
+        "pt": "Volte com vida!!",
+        "es": "¡Vuelve con vida!!"
     },
     "wXXp": {
         "en": "[Ohno Tohiro]\nYou don't have enough money!\nThere is nothing free in this world!",
-        "pt": "[Ohno Tohiro]\nVocê não tem dinheiro suficiente!\nNão há nada de graça neste mundo!",
-        "es": "[Ohno Tohiro]\n¡No tienes suficiente dinero!\n¡En este mundo nada es gratis!"
+        "pt": "[Ohno Tohiro]\nTá sem grana, bicho?!\nNada vem de graça, nem espadada na testa!",
+        "es": "[Ohno Tohiro]\n¡¿No tienes dinero, amigo?!\n¡Nada es gratis, ni un espadazo en la frente!"
     },
     "wnXp": {
         "en": "[Ohno Tohiro]\nWhat? You don't have enough Zeny, but you want to enter?\nHmm... Then... by any chance, you have a research chart?",
-        "pt": "[Ohno Tohiro]\nO quê? Você não tem Zeny suficiente, mas quer entrar?\nHmm... Então... por acaso, você tem um gráfico de pesquisa?",
-        "es": "[Ohno Tohiro]\n¿Qué? ¿No tienes los zeny suficientes, pero quieres entrar igual?\nMmm… Entonces… ¿De casualidad tienes algún Gráfico de investigación?"
+        "pt": "[Ohno Tohiro]\nComo assim? Não tem grana mas quer entrar?\nBom, por acaso tem algumas Tabelas de Pesquisa?",
+        "es": "[Ohno Tohiro]\n¿Cómo es eso? ¿No tienes dinero pero quieres entrar?\nBueno, ¿por casualidad tienes algunas Gráficos de Investigación?"
     },
     "w3Xp": {
         "en": "[Ohno Tohiro]\nHush, speak quietly. People around here may hear us. Do you have it or not?",
-        "pt": "[Ohno Tohiro]\nSilêncio, fale baixo. As pessoas por aqui podem nos ouvir. Você tem ou não?",
-        "es": "[Ohno Tohiro]\nCalla, habla en voz baja. Podrían oírnos. ¿Tienes o no?"
+        "pt": "[Ohno Tohiro]\nHein? Tem ou não tem? Fale baixo, podem nos escutar.",
+        "es": "[Ohno Tohiro]\n¿Eh? ¿Tienes o no tienes? Habla bajo, pueden oírnos."
     },
     "xHXp": {
         "en": "[Ohno Tohiro]\nDon't ask me why I need it. Just bring me 10 research charts. Then, I'll send you to the tomb of honor for nothing. What you do think?",
-        "pt": "[Ohno Tohiro]\nNão me pergunte por que preciso disso. Basta me trazer 10 gráficos de pesquisa. Então, eu o mandarei para o túmulo de honra de graça. O que você acha?",
-        "es": "[Ohno Tohiro]\nNo me preguntes por qué lo necesito. Tráeme 10 Gráficos de investigación. Así te enviaré a la Tumba del honor. ¿Qué te parece?"
+        "pt": "[Ohno Tohiro]\nNão me pergunte o porquê, só me traga 10 Tabelas de Pesquisa. Se trouxer, vai poder entrar na Tumba da Honra de graça.",
+        "es": "[Ohno Tohiro]\nNo me preguntes por qué, solo tráeme 10 Gráficos de Investigación. Si las traes, podrás entrar gratis a la Tumba del Honor."
     },
     "xXXp": {
         "en": "Go back to the previous menu.",
@@ -191,57 +191,57 @@
     },
     "xnXp": {
         "en": "Hand over 10 research charts.",
-        "pt": "Entregue 10 gráficos de pesquisa.",
-        "es": "Entregar 10 Gráficos de investigación."
+        "pt": "Entregar 10 Tabelas de Pesquisa.",
+        "es": "Entregar 10 Gráficos de Investigación."
     },
     "x3Xp": {
         "en": "[Ohno Tohiro]\nYou got any other business with me?",
-        "pt": "[Ohno Tohiro]\nVocê tem mais algum assunto para tratar comigo?",
-        "es": "[Ohno Tohiro]\n¿Tienes algo más que hablar conmigo?"
+        "pt": "[Ohno Tohiro]\nQuer mais alguma coisa? Se for grana, fala de uma vez...",
+        "es": "[Ohno Tohiro]\n¿Quieres algo más? Si es dinero, dímelo de una vez..."
     },
     "yHXp": {
         "en": "[Ohno Tohiro]\nOh... yes, this is it... This is what I need... hoo hoo...",
-        "pt": "[Ohno Tohiro]\nOh... sim, é isso... É disso que eu preciso... hoo hoo...",
-        "es": "[Ohno Tohiro]\nOh… Sí, así es… Es lo que necesito… Jo, jo…"
+        "pt": "[Ohno Tohiro]\nOpa, é disso mesmo que eu preciso!",
+        "es": "[Ohno Tohiro]\n¡Opa, es justo lo que necesito!"
     },
     "yXXp": {
         "en": "[Ohno Tohiro]\nI'll send you to the crevice as promised.\nI want you alive. See you again!",
-        "pt": "[Ohno Tohiro]\nVou mandá-lo para a fenda, como prometido.\nQuero você vivo. Vejo você novamente!",
-        "es": "[Ohno Tohiro]\nTe enviaré a la grieta como prometí.\nTe quiero con vida. ¡Nos vemos pronto!"
+        "pt": "[Ohno Tohiro]\nVocê pode entrar na Fenda, como prometido.\nCuidado lá dentro, hein?! Quero alguém me pagando pra entrar de novo...",
+        "es": "[Ohno Tohiro]\nPuedes entrar a la Fisura, como prometí.\n¡Ten cuidado allí dentro, eh?! ¡Quiero que alguien me pague por entrar de nuevo..."
     },
     "ynXp": {
         "en": "[Ohno Tohiro]\nIt seems 10 research charts are missing now.",
-        "pt": "[Ohno Tohiro]\nParece que agora faltam 10 gráficos de pesquisa.",
-        "es": "[Ohno Tohiro]\nParece que ahora faltan 10 Gráficos de investigación."
+        "pt": "[Ohno Tohiro]\nTem algumas Tabelas de Pesquisa faltando... Preciso de 10 unidades.",
+        "es": "[Ohno Tohiro]\nFaltan algunas Gráficos de Investigación... Necesito 10 unidades."
     },
     "y3Xp": {
         "en": "Maybe you didn't pick them up from the warehouse.",
-        "pt": "Talvez você não os tenha retirado do depósito.",
-        "es": "Quizás no los recolectaste del depósito."
+        "pt": "Você pode ter esquecido elas em algum lugar...",
+        "es": "Puede que las hayas olvidado en algún lugar..."
     },
     "zHXp": {
         "en": "[Ohno Tohiro]\nIs there something else you want from me?",
-        "pt": "[Ohno Tohiro]\nHá mais alguma coisa que você queira de mim?",
-        "es": "[Ohno Tohiro]\n¿Quieres algo más de mí?"
+        "pt": "[Ohno Tohiro]\nQuer mais alguma coisa? Se for grana, fala de uma vez...",
+        "es": "[Ohno Tohiro]\n¿Quieres algo más? Si es dinero, dímelo de una vez..."
     },
     "zXXp": {
         "en": "Dungeon gateway",
-        "pt": "Portal da masmorra",
-        "es": "Puerta de la mazmorra"
+        "pt": "Fenda",
+        "es": "Fisura"
     },
     "znXp": {
         "en": "Don't exit the dungeon.",
-        "pt": "Não saia da masmorra.",
-        "es": "No salir de la mazmorra."
+        "pt": "Permanecer aqui.",
+        "es": "Permanecer aquí."
     },
     "z3Xp": {
         "en": "Exit the dungeon.",
-        "pt": "Saia da masmorra.",
-        "es": "Salir de la mazmorra."
+        "pt": "Sair daqui.",
+        "es": "Salir de aquí."
     },
     "0HXp": {
         "en": "- You still have business to deal with here -",
-        "pt": "- Você ainda tem negócios a tratar aqui -",
-        "es": "-Aún tienes asuntos pendientes aquí.-"
+        "pt": "Ainda há coisas para fazer por aqui...",
+        "es": "Aún hay cosas que hacer por aquí..."
     }
 }

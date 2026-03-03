@@ -280,5 +280,101 @@
         "en": "[Mission Board]\nQuest Complete\nBattle Pass EXP 150 granted",
         "pt": "[Quadro de Missões]\nMissão Concluída\nVocê recebeu 150 de EXP do Passe de Batalha",
         "es": "[Tablero de Misiones]\nMisión Completada\nHas recibido 150 de EXP del Pase de Batalla"
+    },
+    "DzybDA": {
+        "ko": "Hydra 처치",
+        "en": "Defeat Hydra",
+        "pt": "Derrotar Hydra",
+        "es": "Derrotar Hydra"
+    },
+    "EDybDA": {
+        "ko": "Menblatt and Petal 처치",
+        "en": "Defeat Menblatt and Petal",
+        "pt": "Derrotar Menblatt e Petal",
+        "es": "Derrotar Menblatt y Petal"
+    },
+    "ETybDA": {
+        "ko": "Deliver Hard Feeler",
+        "en": "Deliver Hard Feeler",
+        "pt": "Entregar Hard Feeler",
+        "es": "Entregar Hard Feeler"
+    },
+    "EjybDA": {
+        "ko": "Deliver Tentacle",
+        "en": "Deliver Tentacle",
+        "pt": "Entregar Tentacle",
+        "es": "Entregar Tentacle"
+    },
+    "EzybDA": {
+        "ko": "[Mission Board]\nBlue Herb 10개를 전달하세요.\nEXP Battle Pass 3",
+        "en": "[Mission Board]\nDeliver 10 Blue Herbs.\nEXP Battle Pass 3",
+        "pt": "[Mission Board]\nEntregue 10 Blue Herbs.\nEXP Battle Pass 3",
+        "es": "[Mission Board]\nEntregar 10 Blue Herbs.\nEXP Battle Pass 3"
+    },
+    "FDybDA": {
+        "ko": "Defeat Heart Hunter Ebel",
+        "en": "Defeat Heart Hunter Ebel",
+        "pt": "Derrotar Heart Hunter Ebel",
+        "es": "Derrotar Heart Hunter Ebel"
+    },
+    "FTybDA": {
+        "ko": "[Mission Board]\nHeart Hunter Ebel 5마리 처치\nEXP Battle Pass 20",
+        "en": "[Mission Board]\nDefeat 5 Heart Hunter Ebels.\nEXP Battle Pass 20",
+        "pt": "[Mission Board]\nDerrote 5 Heart Hunter Ebels.\nEXP Battle Pass 20",
+        "es": "[Mission Board]\nDerrota 5 Heart Hunter Ebels.\nEXP Battle Pass 20"
+    },
+    "FjybDA": {
+        "ko": "Hydra 처치 의뢰",
+        "en": "Hydra Hunting Request",
+        "pt": "Pedido de Caça à Hydra",
+        "es": "Solicitud de Caza de Hydra"
+    },
+    "FzybDA": {
+        "ko": "Menblatt and Petal 처치 의뢰",
+        "en": "Menblatt and Petal Hunting Request",
+        "pt": "Pedido de Caça a Menblatt e Petal",
+        "es": "Solicitud de Caza de Menblatt y Petal"
+    },
+    "GDybDA": {
+        "ko": "Deliver Hard Feeler 의뢰",
+        "en": "Hard Feeler Delivery Request",
+        "pt": "Pedido de Entrega de Hard Feeler",
+        "es": "Solicitud de Entrega de Hard Feeler"
+    },
+    "GTybDA": {
+        "ko": "Deliver Tentacle 의뢰",
+        "en": "Tentacle Delivery Request",
+        "pt": "Pedido de Entrega de Tentacle",
+        "es": "Solicitud de Entrega de Tentacle"
+    },
+    "GjybDA": {
+        "ko": "Heart Hunter Ebel 처치 의뢰",
+        "en": "Heart Hunter Ebel Hunting Request",
+        "pt": "Pedido de Caça a Heart Hunter Ebel",
+        "es": "Solicitud de Caza de Heart Hunter Ebel"
+    },
+    "GzybDA": {
+        "ko": "[Mission Board]\nHydra 200마리 처치\nEXP Battle Pass 3",
+        "en": "[Mission Board]\nDefeat 200 Hydras.\nEXP Battle Pass 3",
+        "pt": "[Mission Board]\nDerrote 200 Hydras.\nEXP Battle Pass 3",
+        "es": "[Mission Board]\nDerrota 200 Hydras.\nEXP Battle Pass 3"
+    },
+    "HDybDA": {
+        "ko": "[Mission Board]\nMenblatt 20마리 처치\nPetal 20마리 처치\nEXP Battle Pass 4",
+        "en": "[Mission Board]\nDefeat 20 Menblatts.\nDefeat 20 Petals.\nEXP Battle Pass 4",
+        "pt": "[Mission Board]\nDerrote 20 Menblatts.\nDerrote 20 Petals.\nEXP Battle Pass 4",
+        "es": "[Mission Board]\nDerrota 20 Menblatts.\nDerrota 20 Petals.\nEXP Battle Pass 4"
+    },
+    "HTybDA": {
+        "ko": "[Mission Board]\nHard Feeler 15개를 전달하세요.\nEXP Battle Pass 4",
+        "en": "[Mission Board]\nDeliver 15 Hard Feelers.\nEXP Battle Pass 4",
+        "pt": "[Mission Board]\nEntregue 15 Hard Feelers.\nEXP Battle Pass 4",
+        "es": "[Mission Board]\nEntregar 15 Hard Feelers.\nEXP Battle Pass 4"
+    },
+    "HjybDA": {
+        "ko": "[Mission Board]\nTentacle 100개를 전달하세요.\nEXP Battle Pass 3",
+        "en": "[Mission Board]\nDeliver 100 Tentacles.\nEXP Battle Pass 3",
+        "pt": "[Mission Board]\nEntregue 100 Tentacles.\nEXP Battle Pass 3",
+        "es": "[Mission Board]\nEntregar 100 Tentacles.\nEXP Battle Pass 3"
     }
 }

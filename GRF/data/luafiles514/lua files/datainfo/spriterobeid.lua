@@ -290,5 +290,13 @@ SPRITE_ROBE_IDs = {
 	ROBE_C_Popcorn_Bucket2 = 290,
 	ROBE_C_Cursed_Serpent = 291,
 	ROBE_C_Tan_Spear = 292,
-	ROBE_C_Tris_Sword = 293
+	ROBE_C_Tris_Sword = 293,
+	ROBE_Angelwing_move_Test_8F = 294,
+	ROBE_Angelwing_move_Test_24F = 295,
+	ROBE_C_Scepter_SV = 296,
+	ROBE_C_Giant_Chained_Bear = 297,
+	ROBE_C_Sweet_Folk = 298,
+	ROBE_C_Sixth_Sense_Satan = 299,
+	ROBE_C_Knights_Sword_Shield = 300,
+	ROBE_C_Doram_Paw_Hammer = 301
 }

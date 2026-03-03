@@ -843,5 +843,80 @@
         "en": "[Costume] Baphomet's Scythe",
         "pt": "[Visual] Foice de Bafomé",
         "es": "[Disfraz] Guadaña de Baphomet"
+    },
+    "KS7iAQ": {
+        "en": "^nItemID^31176",
+        "pt": "^nItemID^31176",
+        "es": "^nItemID^31176"
+    },
+    "Ki7iAQ": {
+        "en": "^nItemID^400793",
+        "pt": "^nItemID^400793",
+        "es": "^nItemID^400793"
+    },
+    "Ky7iAQ": {
+        "en": "^nItemID^31188",
+        "pt": "^nItemID^31188",
+        "es": "^nItemID^31188"
+    },
+    "LC7iAQ": {
+        "en": "^nItemID^19883",
+        "pt": "^nItemID^19883",
+        "es": "^nItemID^19883"
+    },
+    "LS7iAQ": {
+        "en": "^nItemID^20046",
+        "pt": "^nItemID^20046",
+        "es": "^nItemID^20046"
+    },
+    "Li7iAQ": {
+        "en": "^nItemID^400254",
+        "pt": "^nItemID^400254",
+        "es": "^nItemID^400254"
+    },
+    "Ly7iAQ": {
+        "en": "^nItemID^31313",
+        "pt": "^nItemID^31313",
+        "es": "^nItemID^31313"
+    },
+    "MC7iAQ": {
+        "en": "^nItemID^410396",
+        "pt": "^nItemID^410396",
+        "es": "^nItemID^410396"
+    },
+    "MS7iAQ": {
+        "en": "^nItemID^31302",
+        "pt": "^nItemID^31302",
+        "es": "^nItemID^31302"
+    },
+    "Mi7iAQ": {
+        "en": "^nItemID^410108",
+        "pt": "^nItemID^410108",
+        "es": "^nItemID^410108"
+    },
+    "My7iAQ": {
+        "en": "^nItemID^31670",
+        "pt": "^nItemID^31670",
+        "es": "^nItemID^31670"
+    },
+    "NC7iAQ": {
+        "en": "^nItemID^420570",
+        "pt": "^nItemID^420570",
+        "es": "^nItemID^420570"
+    },
+    "NS7iAQ": {
+        "en": "^nItemID^31330",
+        "pt": "^nItemID^31330",
+        "es": "^nItemID^31330"
+    },
+    "Ni7iAQ": {
+        "en": "^nItemID^480460",
+        "pt": "^nItemID^480460",
+        "es": "^nItemID^480460"
+    },
+    "Ny7iAQ": {
+        "en": "^nItemID^480176",
+        "pt": "^nItemID^480176",
+        "es": "^nItemID^480176"
     }
 }

@@ -1932,5 +1932,10 @@
         "en": "Spirit of Influence({0})",
         "pt": "Espírito de Influência({0})",
         "es": "Espíritu de Influencia({0})"
+    },
+    "Q2XDCQ": {
+        "en": "Operation Firebird Footprints ({0} left)",
+        "pt": "Operation Firebird do Banguela ({0} un)",
+        "es": "Operación Fénix de Chimuelo ({0} restantes)"
     }
 }

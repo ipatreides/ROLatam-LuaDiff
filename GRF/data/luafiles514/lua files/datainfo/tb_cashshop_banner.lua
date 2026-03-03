@@ -18,14 +18,6 @@ tb_cashshop_banner = {
 	[5] = {
 		"05_Cashshop_Banner.bmp",
 		"https://ro.gnjoylatam.com/pt/news/event/51?type=END"
-	},
-	[6] = {
-		"06_Cashshop_Banner.bmp",
-		"https://ro.gnjoylatam.com/pt/news/event/53?type=END"
-	},
-	[7] = {
-		"07_Cashshop_Banner.bmp",
-		"https://ro.gnjoylatam.com/pt/news/notice/259"
 	}
 }
 function set_cashshop_banner()

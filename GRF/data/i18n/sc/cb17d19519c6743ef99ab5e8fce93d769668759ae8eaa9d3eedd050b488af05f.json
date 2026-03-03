@@ -46,13 +46,13 @@
     },
     "iee9Ag": {
         "en": "Summon a job change agent for job change.",
-        "pt": "[Chefe Mansur]\nNão se preocupe, nós sempre teremos uma vaga aberta para você. \nVolte assim que você tiver aprendido, certo?",
-        "es": "[Jefe Mahnsoo]\nNo te preocupes, siempre tendremos un puesto de Comerciante disponible para ti.\nVuelve cuando tengas todo listo, ¿vale?"
+        "pt": "[Chefe Mansur] Não se preocupe, nós sempre teremos uma vaga aberta para você.  Volte assim que você tiver aprendido, certo?",
+        "es": "[Jefe Mahnsoo] No te preocupes, siempre tendremos un puesto de Comerciante disponible para ti. Vuelve cuando tengas todo listo, ¿vale?"
     },
     "iue9Ag": {
         "en": "Decline.",
-        "pt": "[Chefe Mansur]\nVocê nasceu para se juntar aos Mercadores.\nEssa é a sua vocação!",
-        "es": "[Jefe Mahnsoo]\nNaciste para ser Comerciante.\n¡Es tu vocación!"
+        "pt": "[Chefe Mansur] Você nasceu para se juntar aos Mercadores. Essa é a sua vocação!",
+        "es": "[Jefe Mahnsoo] Naciste para ser Comerciante. ¡Es tu vocación!"
     },
     "i+e9Ag": {
         "en": "^4D4DFF Booster promotion eligible players can change jobs through the job change agent.\nThird job change can also be done at each job guild.^000000",
@@ -348,5 +348,23 @@
         "en": "[Magician Guild Staff]\nMy package should have arrived by now.\nHuh. I guess the Merchant Guild might be running a little late...",
         "pt": "[Funcionário da Guilda]\nMeu pacote já deve ter chegado.\nHuh. Acho que a Guilda dos Mercadores pode estar um pouco atrasada...",
         "es": "[Mago gremialista]\nMi paquete debería haber llegado ya.\nMm. Supongo que al gremio de Comerciantes se le podría estar haciendo un poco tarde…"
+    },
+    "xue9Ag": {
+        "en": "[Chief Mahnsoo]\nLong time no see!\nHey, you didn't quit your business, did you?"
+    },
+    "x+e9Ag": {
+        "en": "[Chief Mahnsoo]\nHumans cannot change their calling.\nIt seems that you're not ready to become a Merchant again. Go finish learning the Basic Novice Skills first."
+    },
+    "yOe9Ag": {
+        "en": "[Chief Mahnsoo]\nDon't worry, we'll always have a Merchant position open for you.\nJust come back when you're ready, okay?"
+    },
+    "yee9Ag": {
+        "en": "[Chief Mahnsoo]\nYou were born to be a merchant.\nThis is your call!"
+    },
+    "yue9Ag": {
+        "en": "[Chief Mahnsoo]\nGreat! Now you look familiar.\nAlright, do your best!"
+    },
+    "y+e9Ag": {
+        "en": "[Chief Mahnsoo]\nAhh? Are you trying to have both ways?\nHow about just giving yourself over to your original job?"
     }
 }

@@ -1,1736 +1,2066 @@
 {
     "gNnLBw": {
+        "ko": "스피에라",
         "en": "Spiera",
         "pt": "Spiera",
         "es": "Spiera"
     },
     "gdnLBw": {
-        "en": "Ryza",
-        "pt": "Ryza",
-        "es": "Ryza"
+        "ko": "라이자",
+        "en": "Liza",
+        "pt": "Liza",
+        "es": "Liza"
     },
     "gtnLBw": {
-        "en": "^FF0000You're overweight, or carrying too many items. Please lighten your inventory first.^000000",
-        "pt": "^FF0000Você está pesado demais ou carregando itens demais. Alivie a sua carga antes.^000000",
-        "es": "^660000-Llevas mucho peso o demasiados objetos. Primero aligera el inventario.-^000000"
+        "ko": "^FF0000보유한 물건의 종류나 무게가 너무 많은 것 같습니다. 인벤토리를 정리해주세요.^000000",
+        "en": "^FF0000It seems you are carrying too many types of items or exceeding the weight limit. Please organize your inventory.^000000",
+        "pt": "^FF0000Parece que você está carregando muitos tipos de itens ou peso excessivo. Por favor, organize seu inventário.^000000",
+        "es": "^FF0000Parece que lleva demasiados objetos o que superan el peso permitido. Por favor, organice su inventario.^000000"
     },
     "g9nLBw": {
-        "en": "[Ryza]\nWelcome, welcome!",
-        "pt": "[Ryza]\nBoas-vindas, boas-vindas!",
-        "es": "[Ryza]\n¡Te doy la bienvenida!"
+        "ko": "[라이자]\n어서오십시오 환영합니다~",
+        "en": "[Liza]\nWelcome. Greetings~",
+        "pt": "[Liza]\nSeja bem-vindo, é um prazer recebê-lo~",
+        "es": "[Liza]\nBienvenido, ¡sea usted bienvenido~!"
     },
     "hNnLBw": {
-        "en": "Check the machines",
-        "pt": "Verificar as máquinas",
-        "es": "Revisar las máquinas."
+        "ko": "기기 살펴보기",
+        "en": "View Equipment",
+        "pt": "Examinar equipamentos",
+        "es": "Examinar equipo"
     },
     "hdnLBw": {
-        "en": "Upgrade Automatic Engine Wing",
-        "pt": "Melhorar Motor Automático",
-        "es": "Mejorar el Ala de motor automático."
+        "ko": "오토매틱 엔진 윙 강화",
+        "en": "Enhance Automatic Engine Wing",
+        "pt": "Aprimorar Asas de Motor Automático",
+        "es": "Mejorar Alas de Motor Automáticas"
     },
     "htnLBw": {
-        "en": "Upgrade Automatic Armor",
-        "pt": "Melhorar Armadura Automática",
-        "es": "Mejorar la Armadura automática."
+        "ko": "오토매틱 아머 강화",
+        "en": "Enhance Automatic Armor",
+        "pt": "Aprimorar Armadura Automática",
+        "es": "Mejorar Armadura Automática"
     },
     "h9nLBw": {
-        "en": "Upgrade Automatic Leg",
-        "pt": "Melhorar Perna Automática",
-        "es": "Mejorar la Pierna automática."
+        "ko": "오토매틱 레그 강화",
+        "en": "Enhance Automatic Leg",
+        "pt": "Aprimorar Grevas Automáticas",
+        "es": "Mejorar Grebas Automáticas"
     },
     "iNnLBw": {
-        "en": "Upgrade Automatic Accessory (R)",
-        "pt": "Melhorar Acessório Automático (D)",
-        "es": "Mejorar el Accesorio automático (D)."
+        "ko": "오토매틱 액세서리(R) 강화",
+        "en": "Enhance Automatic Accessory (R)",
+        "pt": "Aprimorar Acessório Automático (R)",
+        "es": "Mejorar Accesorio Automático (R)"
     },
     "idnLBw": {
-        "en": "Upgrade Automatic Accessory (L)",
-        "pt": "Melhorar Acessório Automático (E)",
-        "es": "Mejorar el Accesorio automático (I)."
+        "ko": "오토매틱 액세서리(L) 강화",
+        "en": "Enhance Automatic Accessory (L)",
+        "pt": "Aprimorar Acessório Automático (L)",
+        "es": "Mejorar Accesorio Automático (L)"
     },
     "itnLBw": {
-        "en": "[Ryza]\nPlease bring me Automatic equipment and Modification Modules, and I'll refine your equipment, depending on the Module you have.",
-        "pt": "[Ryza]\nTraga-me equipamentos automáticos e Módulos de Modificação, e eu refinarei seus equipamentos, dependendo do módulo que você tiver.",
-        "es": "[Ryza]\nTráeme el equipamiento automático y los Módulos de modificación para que yo refine tu equipamiento según el módulo que tengas."
+        "ko": "[라이자]\n오토매틱 장비와 강화용 모듈을 가지고 오시면 모듈에 맞는 효능을 장비에 부여해 드리고 있습니다.",
+        "en": "[Liza]\nIf you bring Automatic equipment and enhancement modules, I can grant effects to your equipment according to the module.",
+        "pt": "[Liza]\nSe trouxer equipamentos Automáticos e módulos de aprimoramento, posso conceder ao equipamento os efeitos correspondentes ao módulo.",
+        "es": "[Liza]\nSi trae equipo automático y módulos de mejora, puedo otorgar al equipo los efectos correspondientes según el módulo."
     },
     "i9nLBw": {
-        "en": "[Ryza]\nSince we follow the standard module modification procedures, your equipment will not be destroyed. The number of times you can refine it, however, may vary, depending on your Module.",
-        "pt": "[Ryza]\nComo seguimos os procedimentos padrão de modificação de módulos, seu equipamento não será destruído. O número de vezes que você pode refiná-lo, no entanto, pode variar, dependendo do seu módulo.",
-        "es": "[Ryza]\nDado que seguimos los procedimientos estándar de modificación de módulos, tu equipamiento no se destruirá. Sin embargo, la cantidad de veces que puedes refinarlo varía dependiendo del módulo."
+        "ko": "[라이자]\n규격 모듈에 따라 작업하는 것이므로 장비가 파괴되는 일은 없습니다. 다만 모듈에 따라 업그레이드 횟수등은 다를 수 있습니다.",
+        "en": "[Liza]\nSince the work is performed according to standardized modules, your equipment will not be destroyed. However, the number of upgrades may vary depending on the module.",
+        "pt": "[Liza]\nComo o processo é realizado com módulos padronizados, o equipamento não será destruído. No entanto, o número de aprimoramentos pode variar conforme o módulo.",
+        "es": "[Liza]\nEl trabajo se realiza según las especificaciones del módulo, por lo que el equipo no será destruido. No obstante, el número de mejoras puede variar según el módulo."
     },
     "jNnLBw": {
-        "en": "[Ryza]\nNo problem. Please come back if you need my assistance.",
-        "pt": "[Ryza]\nSem problema. Volte se precisar da minha assistência.",
-        "es": "[Ryza]\nNo hay problema. Vuelve si necesitas mi ayuda."
+        "ko": "[라이자]\n그럼 도움이 필요하실때 다시 방문하십시오~",
+        "en": "[Liza]\nThen please visit again whenever you require assistance~",
+        "pt": "[Liza]\nEntão, volte quando precisar de ajuda~",
+        "es": "[Liza]\nEntonces, si necesita ayuda, vuelva a visitarme~"
     },
     "jdnLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "jtnLBw": {
-        "en": "Automatic Modification Module (DEF)",
-        "pt": "Módulo de Modificação Automático (DEF)",
-        "es": "Módulo de modificación automática (DEF)"
+        "ko": "오토매틱 개조 모듈(방어)",
+        "en": "Automatic Modification Module (Defense)",
+        "pt": "Módulo Automático Mod. (Defesa)",
+        "es": "Módulo de Modificación Automática (Defense)"
     },
     "j9nLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "kNnLBw": {
-        "en": "Automatic Modification Module (MDEF)",
-        "pt": "Módulo de Modificação Automático (DEFM)",
-        "es": "Módulo de modificación automática (DEFM)"
+        "ko": "오토매틱 개조 모듈(마법방어)",
+        "en": "Automatic Modification Module (Magic Defense)",
+        "pt": "Módulo Automático Mod. (Defesa Mágica)",
+        "es": "Módulo de Modificación Automática (Magic Defense)"
     },
     "kdnLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "ktnLBw": {
+        "ko": "오토매틱 개조 모듈(VIT)",
         "en": "Automatic Modification Module (VIT)",
-        "pt": "Módulo de Modificação Automático (VIT)",
-        "es": "Módulo de modificación automática (VIT)"
+        "pt": "Módulo Automático Mod. (VIT)",
+        "es": "Módulo de Modificación Automática (VIT)"
     },
     "k9nLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "lNnLBw": {
+        "ko": "오토매틱 개조 모듈(LUK)",
         "en": "Automatic Modification Module (LUK)",
-        "pt": "Módulo de Modificação Automático (SOR)",
-        "es": "Módulo de modificación automática (SUE)"
+        "pt": "Módulo Automático Mod. (SOR)",
+        "es": "Módulo de Modificación Automática (LUK)"
     },
     "ldnLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "ltnLBw": {
+        "ko": "오토매틱 개조 모듈(STR)",
         "en": "Automatic Modification Module (STR)",
-        "pt": "Módulo de Modificação Automático (FOR)",
-        "es": "Módulo de modificación automática (FUE)"
+        "pt": "Módulo Automático Mod. (FOR)",
+        "es": "Módulo de Modificación Automática (STR)"
     },
     "l9nLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "mNnLBw": {
+        "ko": "오토매틱 개조 모듈(AGI)",
         "en": "Automatic Modification Module (AGI)",
-        "pt": "Módulo de Modificação Automático (AGI)",
-        "es": "Módulo de modificación automática (AGI)"
+        "pt": "Módulo Automático Mod. (AGI)",
+        "es": "Módulo de Modificación Automática (AGI)"
     },
     "mdnLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "mtnLBw": {
+        "ko": "오토매틱 개조 모듈(INT)",
         "en": "Automatic Modification Module (INT)",
-        "pt": "Módulo de Modificação Automático (INT)",
-        "es": "Módulo de modificación automática (INT)"
+        "pt": "Módulo Automático Mod. (INT)",
+        "es": "Módulo de Modificación Automática (INT)"
     },
     "m9nLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "nNnLBw": {
+        "ko": "오토매틱 개조 모듈(DEX)",
         "en": "Automatic Modification Module (DEX)",
-        "pt": "Módulo de Modificação Automático (DES)",
-        "es": "Módulo de modificación automática (DES)"
+        "pt": "Módulo Automático Mod. (DES)",
+        "es": "Módulo de Modificación Automática (DEX)"
     },
     "ndnLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "ntnLBw": {
+        "ko": "오토매틱 개조 모듈(HP회복량)",
         "en": "Automatic Modification Module (HP Recovery)",
-        "pt": "Módulo de Modificação Automático (Recuperação de HP)",
-        "es": "Módulo de modificación automática (Recuperación de PV)"
+        "pt": "Módulo Automático Mod. (Recuperação de HP)",
+        "es": "Módulo de Modificación Automática (HP Recovery)"
     },
     "n9nLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "oNnLBw": {
+        "ko": "오토매틱 개조 모듈(SP회복량)",
         "en": "Automatic Modification Module (SP Recovery)",
-        "pt": "Módulo de Modificação Automático (Recuperação de SP)",
-        "es": "Módulo de modificación automática (Recuperación de PM)"
+        "pt": "Módulo Automático Mod. (Recuperação de SP)",
+        "es": "Módulo de Modificación Automática (SP Recovery)"
     },
     "odnLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "otnLBw": {
-        "en": "Automatic Modification Module (Spell)",
-        "pt": "Módulo de Modificação Automático (Feitiço)",
-        "es": "Módulo de modificación automática (Hechizo)"
+        "ko": "오토매틱 개조 모듈(마력)",
+        "en": "Automatic Modification Module (Magic Power)",
+        "pt": "Módulo Automático Mod. (Poder Mágico)",
+        "es": "Módulo de Modificación Automática (Magic Power)"
     },
     "o9nLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "pNnLBw": {
-        "en": "Automatic Modification Module (ASPD)",
-        "pt": "Módulo de Modificação Automático (VelATQ)",
-        "es": "Módulo de modificación automática (VELA)"
+        "ko": "오토매틱 개조 모듈(공격속도)",
+        "en": "Automatic Modification Module (Attack Speed)",
+        "pt": "Módulo Automático Mod. (Velocidade de Ataque)",
+        "es": "Módulo de Modificación Automática (Attack Speed)"
     },
     "pdnLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "ptnLBw": {
+        "ko": "오토매틱 개조 모듈(치명)",
         "en": "Automatic Modification Module (Fatal)",
-        "pt": "Módulo de Modificação Automático (Fatal)",
-        "es": "Módulo de modificación automática (Fatal)"
+        "pt": "Módulo Automático Mod. (Fatal)",
+        "es": "Módulo de Modificación Automática (Fatal)"
     },
     "p9nLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "qNnLBw": {
-        "en": "Automatic Modification Module (Expert Archer)",
-        "pt": "Módulo de Modificação Automático (Arqueiro Especialista)",
-        "es": "Módulo de modificación automática (Arquero experto)"
+        "ko": "오토매틱 개조 모듈(명궁)",
+        "en": "Automatic Modification Module (Archery)",
+        "pt": "Módulo Automático Mod. (Arqueiria)",
+        "es": "Módulo de Modificación Automática (Archery)"
     },
     "qdnLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "qtnLBw": {
-        "en": "Automatic Modification Module (Health)",
-        "pt": "Módulo de Modificação Automático (Saúde)",
-        "es": "Módulo de modificación automática (Salud)"
+        "ko": "오토매틱 개조 모듈(체력)",
+        "en": "Automatic Modification Module (MHP)",
+        "pt": "Módulo Automático Mod. (MHP)",
+        "es": "Módulo de Modificación Automática (MHP)"
     },
     "q9nLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "rNnLBw": {
-        "en": "Automatic Modification Module (SPR)",
-        "pt": "Módulo de Modificação Automático (Recuperação de SP)",
-        "es": "Módulo de modificación automática (RPM)"
+        "ko": "오토매틱 개조 모듈(정신력)",
+        "en": "Automatic Modification Module (MSP)",
+        "pt": "Módulo Automático Mod. (MSP)",
+        "es": "Módulo de Modificación Automática (MSP)"
     },
     "rdnLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "rtnLBw": {
+        "ko": "오토매틱 개조 모듈(힐)",
         "en": "Automatic Modification Module (Heal)",
-        "pt": "Módulo de Modificação Automático (Cura)",
-        "es": "Módulo de modificación automática (Curación)"
+        "pt": "Módulo Automático Mod. (Cura)",
+        "es": "Módulo de Modificación Automática (Heal)"
     },
     "r9nLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "sNnLBw": {
-        "en": "Automatic Modification Module (ATK)",
-        "pt": "Módulo de Modificação Automático (ATQ)",
-        "es": "Módulo de modificación automática (ATQ)"
+        "ko": "오토매틱 개조 모듈(공격력)",
+        "en": "Automatic Modification Module (Attack Power)",
+        "pt": "Módulo Automático Mod. (Poder de Ataque)",
+        "es": "Módulo de Modificación Automática (Attack Power)"
     },
     "sdnLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "stnLBw": {
-        "en": "Automatic Modification Module (MATK)",
-        "pt": "Módulo de Modificação Automático (ATQM)",
-        "es": "Módulo de modificación automática (ATQM)"
+        "ko": "오토매틱 개조 모듈(마법력)",
+        "en": "Automatic Modification Module (Magical Power)",
+        "pt": "Módulo Automático Mod. (Poder Mágico)",
+        "es": "Módulo de Modificación Automática (Magical Power)"
     },
     "s9nLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "tNnLBw": {
+        "ko": "오토매틱 개조 모듈(명사수)",
         "en": "Automatic Modification Module (Sharpshooter)",
-        "pt": "Módulo de Modificação Automático (Atirador)",
-        "es": "Módulo de modificación automática (Tirador)"
+        "pt": "Módulo Automático Mod. (Atirador Preciso)",
+        "es": "Módulo de Modificación Automática (Sharpshooter)"
     },
     "tdnLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "ttnLBw": {
+        "ko": "오토매틱 개조 모듈(신속)",
         "en": "Automatic Modification Module (Speed)",
-        "pt": "Módulo de Modificação Automático (Velocidade)",
-        "es": "Módulo de modificación automática (Velocidad)"
+        "pt": "Módulo Automático Mod. (Velocidade)",
+        "es": "Módulo de Modificación Automática (Speed)"
     },
     "t9nLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "uNnLBw": {
+        "ko": "오토매틱 개조 모듈(캐스터)",
         "en": "Automatic Modification Module (Caster)",
-        "pt": "Módulo de Modificação Automático (Conjurador)",
-        "es": "Módulo de modificación automática (Lanzador)"
+        "pt": "Módulo Automático Mod. (Conjurador)",
+        "es": "Módulo de Modificación Automática (Caster)"
     },
     "udnLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "utnLBw": {
+        "ko": "오토매틱 개조 모듈(크리티컬)",
         "en": "Automatic Modification Module (Critical)",
-        "pt": "Módulo de Modificação Automático (Crítico)",
-        "es": "Módulo de modificación automática (Crítico)"
+        "pt": "Módulo Automático Mod. (Crítico)",
+        "es": "Módulo de Modificación Automática (Critical)"
     },
     "u9nLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "vNnLBw": {
+        "ko": "오토매틱 개조 모듈(매지컬 포스)",
         "en": "Automatic Modification Module (Magical Force)",
-        "pt": "Módulo de Modificação Automático (Força Mágica)",
-        "es": "Módulo de modificación automática (Fuerza mágica)"
+        "pt": "Módulo Automático Mod. (Força Mágica)",
+        "es": "Módulo de Modificación Automática (Magical Force)"
     },
     "vdnLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "vtnLBw": {
+        "ko": "오토매틱 개조 모듈(어태커 포스)",
         "en": "Automatic Modification Module (Attacker Force)",
-        "pt": "Módulo de Modificação Automático (Atacante)",
-        "es": "Módulo de modificación automática (Fuerza atacante)"
+        "pt": "Módulo Automático Mod. (Força do Atacante)",
+        "es": "Módulo de Modificación Automática (Attacker Force)"
     },
     "v9nLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "wNnLBw": {
+        "ko": "오토매틱 개조 모듈(레인지 포스)",
         "en": "Automatic Modification Module (Ranged Force)",
-        "pt": "Módulo de Modificação Automático (Força a Distância)",
-        "es": "Módulo de modificación automática (Fuerza a distancia)"
+        "pt": "Módulo Automático Mod. (Força à Distância)",
+        "es": "Módulo de Modificación Automática (Ranged Force)"
     },
     "wdnLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "wtnLBw": {
+        "ko": "오토매틱 개조 모듈(크리티컬 포스)",
         "en": "Automatic Modification Module (Critical Force)",
-        "pt": "Módulo de Modificação Automático (Força Crítica)",
-        "es": "Módulo de modificación automática (Fuerza crítica)"
+        "pt": "Módulo Automático Mod. (Força Crítica)",
+        "es": "Módulo de Modificación Automática (Critical Force)"
     },
     "w9nLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "xNnLBw": {
+        "ko": "오토매틱 개조 모듈(리커버리 포스)",
         "en": "Automatic Modification Module (Recovery Force)",
-        "pt": "Módulo de Modificação Automático (Força de Recuperação)",
-        "es": "Módulo de modificación automática (Fuerza de recuperación)"
+        "pt": "Módulo Automático Mod. (Força de Recuperação)",
+        "es": "Módulo de Modificación Automática (Recovery Force)"
     },
     "xdnLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "xtnLBw": {
+        "ko": "오토매틱 개조 모듈(미러 카운터)",
         "en": "Automatic Modification Module (Mirror Counter)",
-        "pt": "Módulo de Modificação Automático (Dor Espelhada)",
-        "es": "Módulo de modificación automática (Contraataque de espejo)"
+        "pt": "Módulo Automático Mod. (Contra-Espelho)",
+        "es": "Módulo de Modificación Automática (Mirror Counter)"
     },
     "x9nLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "yNnLBw": {
-        "en": "Automatic Modification Module (Post-skill Delay)",
-        "pt": "Módulo de Modificação Automático (Atraso de Uso)",
-        "es": "Módulo de modificación automática (Retraso tras la habilidad)"
+        "ko": "오토매틱 개조 모듈(스킬 후 딜레이)",
+        "en": "Automatic Modification Module (After Skill Delay)",
+        "pt": "Módulo de Modificação Automática (Pós-Conjuração de Habilidade)",
+        "es": "Módulo de Modificación Automática (After Skill Delay)"
     },
     "ydnLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "ytnLBw": {
-        "en": "Automatic Modification Module (Fixed Cast Time)",
-        "pt": "Módulo de Modificação Automático (Conjuração Fixa)",
-        "es": "Módulo de modificación automática (Tiempo de lanzamiento fijo)"
+        "ko": "오토매틱 개조 모듈(고정 캐스팅)",
+        "en": "Automatic Modification Module (Fixed Casting)",
+        "pt": "Módulo Automático Mod. (Conjuração Fixa)",
+        "es": "Módulo de Modificación Automática (Fixed Casting)"
     },
     "y9nLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "zNnLBw": {
+        "ko": "오토매틱 개조 모듈(어보브 올)",
         "en": "Automatic Modification Module (Above All)",
-        "pt": "Módulo de Modificação Automático (Total)",
-        "es": "Módulo de modificación automática (Por encima de todo)"
+        "pt": "Módulo Automático Mod. (Acima de Tudo)",
+        "es": "Módulo de Modificación Automática (Above All)"
     },
     "zdnLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "ztnLBw": {
+        "ko": "오토매틱 개조 모듈(드레인 라이프)",
         "en": "Automatic Modification Module (Drain Life)",
-        "pt": "Módulo de Modificação Automático (Drenar Vida)",
-        "es": "Módulo de modificación automática (Drenaje de vida)"
+        "pt": "Módulo Automático Mod. (Drenar Vida)",
+        "es": "Módulo de Modificación Automática (Drain Life)"
     },
     "z9nLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "0NnLBw": {
+        "ko": "오토매틱 개조 모듈(드레인 소울)",
         "en": "Automatic Modification Module (Drain Soul)",
-        "pt": "Módulo de Modificação Automático (Dreno de Alma)",
-        "es": "Módulo de modificación automática (Drenaje de alma)"
+        "pt": "Módulo Automático Mod. (Drenar Alma)",
+        "es": "Módulo de Modificación Automática (Drain Soul)"
     },
     "0dnLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "0tnLBw": {
+        "ko": "오토매틱 개조 모듈(매직 힐링)",
         "en": "Automatic Modification Module (Magic Healing)",
-        "pt": "Módulo de Modificação Automático (Cura Mágica)",
-        "es": "Módulo de modificación automática (Curación mágica)"
+        "pt": "Módulo Automático Mod. (Cura Mágica)",
+        "es": "Módulo de Modificación Automática (Magic Healing)"
     },
     "09nLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "1NnLBw": {
+        "ko": "오토매틱 개조 모듈(매직 소울)",
         "en": "Automatic Modification Module (Magic Soul)",
-        "pt": "Módulo de Modificação Automático (Alma Mágica)",
-        "es": "Módulo de modificación automática (Alma mágica)"
+        "pt": "Módulo Automático Mod. (Alma Mágica)",
+        "es": "Módulo de Modificación Automática (Magic Soul)"
     },
     "1dnLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "1tnLBw": {
+        "ko": "오토매틱 개조 모듈(파워 포스)",
         "en": "Automatic Modification Module (Power Force)",
-        "pt": "Módulo de Modificação Automático (Força de Poder)",
-        "es": "Módulo de modificación automática (Fuerza de poder)"
+        "pt": "Módulo Automático Mod. (Força de Poder)",
+        "es": "Módulo de Modificación Automática (Power Force)"
     },
     "19nLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "2NnLBw": {
+        "ko": "오토매틱 개조 모듈(로버스트)",
         "en": "Automatic Modification Module (Robust)",
-        "pt": "Módulo de Modificação Automático (Robusto)",
-        "es": "Módulo de modificación automática (Robusto)"
+        "pt": "Módulo Automático Mod. (Robusto)",
+        "es": "Módulo de Modificación Automática (Robust)"
     },
     "2dnLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "2tnLBw": {
+        "ko": "오토매틱 개조 모듈(파워풀)",
         "en": "Automatic Modification Module (Powerful)",
-        "pt": "Módulo de Modificação Automático (Poderoso)",
-        "es": "Módulo de modificación automática (Poderoso)"
+        "pt": "Módulo Automático Mod. (Poderoso)",
+        "es": "Módulo de Modificación Automática (Powerful)"
     },
     "29nLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "3NnLBw": {
-        "en": "Automatic Modification Module (All-Force)",
-        "pt": "Módulo de Modificação Automático (Força Total)",
-        "es": "Módulo de modificación automática (Fuerza total)"
+        "ko": "오토매틱 개조 모듈(올 포스)",
+        "en": "Automatic Modification Module (All Force)",
+        "pt": "Módulo Automático Mod. (Força Total)",
+        "es": "Módulo de Modificación Automática (All Force)"
     },
     "3dnLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "3tnLBw": {
+        "ko": "오토매틱 개조 모듈(리플렉션 리젝트)",
         "en": "Automatic Modification Module (Reflection Reject)",
-        "pt": "Módulo de Modificação Automático (Rejeição Refletida)",
-        "es": "Módulo de modificación automática (Rechazo de reflexión)"
+        "pt": "Módulo Automático Mod. (Rejeição de Reflexão)",
+        "es": "Módulo de Modificación Automática (Reflection Reject)"
     },
     "39nLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "4NnLBw": {
-        "en": "Automatic Module (Unlimited Vitality)",
+        "ko": "오토매틱 모듈(언리밋 바이탈)",
+        "en": "Automatic Module (Unlimited Vital)",
         "pt": "Módulo Automático (Vitalidade Ilimitada)",
-        "es": "Módulo automático (Vitalidad ilimitada)"
+        "es": "Módulo Automático (Unlimited Vital)"
     },
     "4dnLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "4tnLBw": {
+        "ko": "오토매틱 모듈(스펠 버스터)",
         "en": "Automatic Module (Spell Buster)",
-        "pt": "Módulo Automático (Super Feitiço)",
-        "es": "Módulo automático (Rompehechizos)"
+        "pt": "Módulo Automático (Quebrador de Feitiços)",
+        "es": "Módulo Automático (Spell Buster)"
     },
     "49nLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "5NnLBw": {
-        "en": "Automatic Module (Fierce Shooter)",
-        "pt": "Módulo Automático (Atirador Impetuoso)",
-        "es": "Módulo automático (Tirador agresivo)"
+        "ko": "오토매틱 모듈(파이어링 샷)",
+        "en": "Automatic Module (Firing Shot)",
+        "pt": "Módulo Automático (Tiro Flamejante)",
+        "es": "Módulo Automático (Firing Shot)"
     },
     "5dnLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "5tnLBw": {
-        "en": "Automatic Module (Overpower)",
-        "pt": "Módulo Automático (Superpoder)",
-        "es": "Módulo automático (Sobrecarga)"
+        "ko": "오토매틱 모듈(오버 파워)",
+        "en": "Automatic Module (Over Power)",
+        "pt": "Módulo Automático (Poder Excedente)",
+        "es": "Módulo Automático (Over Power)"
     },
     "59nLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "6NnLBw": {
+        "ko": "오토매틱 모듈(페이탈 플래쉬)",
         "en": "Automatic Module (Fatal Flash)",
-        "pt": "Módulo Automático (Lampejo)",
-        "es": "Módulo automático (Destello letal)"
+        "pt": "Módulo Automático (Flash Fatal)",
+        "es": "Módulo Automático (Fatal Flash)"
     },
     "6dnLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "6tnLBw": {
+        "ko": "오토매틱 모듈(럭키 스트라이크)",
         "en": "Automatic Module (Lucky Strike)",
         "pt": "Módulo Automático (Golpe de Sorte)",
-        "es": "Módulo automático (Golpe de suerte)"
+        "es": "Módulo Automático (Lucky Strike)"
     },
     "69nLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "7NnLBw": {
-        "en": "Automatic Module (Draconic Breath)",
+        "ko": "오토매틱 모듈(드래고닉 브래스)",
+        "en": "Automatic Module (Dragonic Breath)",
         "pt": "Módulo Automático (Sopro Dracônico)",
-        "es": "Módulo automático (Aliento dracónico)"
+        "es": "Módulo Automático (Dragonic Breath)"
     },
     "7dnLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "7tnLBw": {
+        "ko": "오토매틱 모듈(웨이브 브레이크)",
         "en": "Automatic Module (Wave Break)",
-        "pt": "Módulo Automático (Onda de Impacto)",
-        "es": "Módulo automático (Rompeondas)"
+        "pt": "Módulo Automático (Ruptura das Ondas)",
+        "es": "Módulo Automático (Wave Break)"
     },
     "79nLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "8NnLBw": {
+        "ko": "오토매틱 모듈(헌드레드 스파이럴)",
         "en": "Automatic Module (Hundred Spiral)",
-        "pt": "Módulo Automático (Espiral das Mil Pontas)",
-        "es": "Módulo automático (Cien espirales)"
+        "pt": "Módulo Automático (Espiral Centenária)",
+        "es": "Módulo Automático (Hundred Spiral)"
     },
     "8dnLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "8tnLBw": {
+        "ko": "오토매틱 모듈(드라이브 프레스)",
         "en": "Automatic Module (Drive Press)",
-        "pt": "Módulo Automático (Aegis Compressor)",
-        "es": "Módulo automático (Presión de golpe)"
+        "pt": "Módulo Automático (Prensa Motriz)",
+        "es": "Módulo Automático (Drive Press)"
     },
     "89nLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "9NnLBw": {
+        "ko": "오토매틱 모듈(배니싱 캐논)",
         "en": "Automatic Module (Vanishing Cannon)",
-        "pt": "Módulo Automático (Disparo do Oblívio)",
-        "es": "Módulo automático (Cañón de fuga)"
+        "pt": "Módulo Automático (Canhão Desaparecedor)",
+        "es": "Módulo Automático (Vanishing Cannon)"
     },
     "9dnLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "9tnLBw": {
-        "en": "Automatic Module (Genesis Gloria)",
-        "pt": "Módulo Automático (Glória da Criação)",
-        "es": "Módulo automático (Gloria de génesis)"
+        "ko": "오토매틱 모듈(제네시스 프레셔)",
+        "en": "Automatic Module (Genesis Pressure)",
+        "pt": "Módulo Automático (Pressão Gênese)",
+        "es": "Módulo Automático (Genesis Pressure)"
     },
     "99nLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "+NnLBw": {
+        "ko": "오토매틱 모듈(부스트 캐논)",
         "en": "Automatic Module (Boost Cannon)",
-        "pt": "Módulo Automático (Canhão Foguete)",
-        "es": "Módulo automático (Cañón de propulsión)"
+        "pt": "Módulo Automático (Canhão Impulsionado)",
+        "es": "Módulo Automático (Boost Cannon)"
     },
     "+dnLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "+tnLBw": {
-        "en": "Automatic Module (Ice Flame)",
-        "pt": "Módulo Automático (Chamas Criogênicas)",
-        "es": "Módulo automático (Llama de hielo)"
+        "ko": "오토매틱 모듈(콜드 플레어)",
+        "en": "Automatic Module (Cold Flare)",
+        "pt": "Módulo Automático (Chama Gélida)",
+        "es": "Módulo Automático (Cold Flare)"
     },
     "+9nLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "/NnLBw": {
+        "ko": "오토매틱 모듈(토네이도 스윙)",
         "en": "Automatic Module (Tornado Swing)",
-        "pt": "Módulo Automático (Brandir Furacão)",
-        "es": "Módulo automático (Balanceo de tornado)"
+        "pt": "Módulo Automático (Balanço do Tornado)",
+        "es": "Módulo Automático (Tornado Swing)"
     },
     "/dnLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "/tnLBw": {
+        "ko": "오토매틱 모듈(캐논 토네이도)",
         "en": "Automatic Module (Cannon Tornado)",
         "pt": "Módulo Automático (Tornado de Canhão)",
-        "es": "Módulo automático (Tornado de cañón)"
+        "es": "Módulo Automático (Cannon Tornado)"
     },
     "/9nLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "ANrLBw": {
+        "ko": "오토매틱 모듈(크레이지 만드라고라)",
         "en": "Automatic Module (Crazy Mandragora)",
-        "pt": "Módulo Automático (Mandrágora Daninha)",
-        "es": "Módulo automático (Mandrágora loca)"
+        "pt": "Módulo Automático (Mandrágora Insana)",
+        "es": "Módulo Automático (Crazy Mandragora)"
     },
     "AdrLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "AtrLBw": {
+        "ko": "오토매틱 모듈(애시드 익스플로젼)",
         "en": "Automatic Module (Acid Explosion)",
-        "pt": "Módulo Automático (Explosão de Ácido)",
-        "es": "Módulo automático (Explosión de ácido)"
+        "pt": "Módulo Automático (Explosão Ácida)",
+        "es": "Módulo Automático (Acid Explosion)"
     },
     "A9rLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "BNrLBw": {
+        "ko": "오토매틱 모듈(소닉 임팩트)",
         "en": "Automatic Module (Sonic Impact)",
         "pt": "Módulo Automático (Impacto Sônico)",
-        "es": "Módulo automático (Impacto sónico)"
+        "es": "Módulo Automático (Sonic Impact)"
     },
     "BdrLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "BtrLBw": {
+        "ko": "오토매틱 모듈(커터 슬래셔)",
         "en": "Automatic Module (Cutter Slasher)",
-        "pt": "Módulo Automático (Castigo das Lâminas)",
-        "es": "Módulo automático (Hoja de rodillos)"
+        "pt": "Módulo Automático (Corte Afiado)",
+        "es": "Módulo Automático (Cutter Slasher)"
     },
     "B9rLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "CNrLBw": {
+        "ko": "오토매틱 모듈(버서크 슬래쉬)",
         "en": "Automatic Module (Berserk Slash)",
-        "pt": "Módulo Automático (Retaliação do Destruidor)",
-        "es": "Módulo automático (Destructor de contragolpe)"
+        "pt": "Módulo Automático (Corte Berserk)",
+        "es": "Módulo Automático (Berserk Slash)"
     },
     "CdrLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "CtrLBw": {
+        "ko": "오토매틱 모듈(페이탈 레이드)",
         "en": "Automatic Module (Fatal Raid)",
-        "pt": "Módulo Automático (Ataque Surpresa Fatal)",
-        "es": "Módulo automático (Asalto mortal)"
+        "pt": "Módulo Automático (Investida Fatal)",
+        "es": "Módulo Automático (Fatal Raid)"
     },
     "C9rLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "DNrLBw": {
+        "ko": "오토매틱 모듈(섀도우 스펠)",
         "en": "Automatic Module (Shadow Spell)",
-        "pt": "Módulo Automático (Desejo das Sombras)",
-        "es": "Módulo automático (Hechizo de sombra)"
+        "pt": "Módulo Automático (Feitiço das Sombras)",
+        "es": "Módulo Automático (Shadow Spell)"
     },
     "DdrLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "DtrLBw": {
+        "ko": "오토매틱 모듈(앵글 샷)",
         "en": "Automatic Module (Angle Shot)",
         "pt": "Módulo Automático (Tiro Angular)",
-        "es": "Módulo automático (Tiro angular)"
+        "es": "Módulo Automático (Angle Shot)"
     },
     "D9rLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "ENrLBw": {
+        "ko": "오토매틱 모듈(크림즌 스트레인)",
         "en": "Automatic Module (Crimson Strain)",
-        "pt": "Módulo Automático (Abalo Escarlate)",
-        "es": "Módulo automático (Temblor carmesí)"
+        "pt": "Módulo Automático (Corrente Carmesim)",
+        "es": "Módulo Automático (Crimson Strain)"
     },
     "EdrLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "EtrLBw": {
+        "ko": "오토매틱 모듈(잭 라이트닝)",
         "en": "Automatic Module (Jack Lightning)",
-        "pt": "Módulo Automático (Esquife Elétrico)",
-        "es": "Módulo automático (Relámpago de escarcha)"
+        "pt": "Módulo Automático (Raio Jack)",
+        "es": "Módulo Automático (Jack Lightning)"
     },
     "E9rLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "FNrLBw": {
+        "ko": "오토매틱 모듈(커미트 볼텍스)",
         "en": "Automatic Module (Comet Vortex)",
-        "pt": "Módulo Automático (Vortex de Cometa)",
-        "es": "Módulo automático (Cometa vórtice)"
+        "pt": "Módulo Automático (Vórtice do Cometa)",
+        "es": "Módulo Automático (Comet Vortex)"
     },
     "FdrLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "FtrLBw": {
+        "ko": "오토매틱 모듈(더블 볼트)",
         "en": "Automatic Module (Double Bolt)",
-        "pt": "Módulo Automático (Lanças Duplas)",
-        "es": "Módulo automático (Rayo doble)"
+        "pt": "Módulo Automático (Duplo Raio)",
+        "es": "Módulo Automático (Double Bolt)"
     },
     "F9rLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "GNrLBw": {
+        "ko": "오토매틱 모듈(워머 웨이브)",
         "en": "Automatic Module (Warmer Wave)",
-        "pt": "Módulo Automático (Onda Aquecida)",
-        "es": "Módulo automático (Onda cálida)"
+        "pt": "Módulo Automático (Onda Aquecedora)",
+        "es": "Módulo Automático (Warmer Wave)"
     },
     "GdrLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "GtrLBw": {
+        "ko": "오토매틱 모듈(다이아몬드 그레이브)",
         "en": "Automatic Module (Diamond Grave)",
-        "pt": "Módulo Automático (Castigo de Diamante)",
-        "es": "Módulo automático (Tumba de diamantes)"
+        "pt": "Módulo Automático (Tumba de Diamante)",
+        "es": "Módulo Automático (Diamond Grave)"
     },
     "G9rLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "HNrLBw": {
+        "ko": "오토매틱 모듈(마그누스무스)",
         "en": "Automatic Module (Magnusmus)",
         "pt": "Módulo Automático (Magnusmus)",
-        "es": "Módulo automático (Magnusmus)"
+        "es": "Módulo Automático (Magnusmus)"
     },
     "HdrLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "HtrLBw": {
+        "ko": "오토매틱 모듈(홀리쥬덱스)",
         "en": "Automatic Module (Holy Judex)",
-        "pt": "Módulo Automático (Judex Divino)",
-        "es": "Módulo automático (Judex sagrado)"
+        "pt": "Módulo Automático (Julgamento Sagrado)",
+        "es": "Módulo Automático (Holy Judex)"
     },
     "H9rLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "INrLBw": {
-        "en": "Automatic Module (Duplelica)",
-        "pt": "Módulo Automático (Basílica Gemini)",
-        "es": "Módulo automático (Doblélica)"
+        "ko": "오토매틱 모듈(듀플레리카)",
+        "en": "Automatic Module (Duple Lica)",
+        "pt": "Módulo Automático (Duple Lica)",
+        "es": "Módulo Automático (Duple Lica)"
     },
     "IdrLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "ItrLBw": {
-        "en": "Automatic Module (Fallen Tiger)",
-        "pt": "Módulo Automático (Ruína do Tigre)",
-        "es": "Módulo automático (Tigre caído)"
+        "ko": "오토매틱 모듈(호포붕추)",
+        "en": "Automatic Module (Empire Cannon)",
+        "pt": "Módulo Automático (Canhão Imperial)",
+        "es": "Módulo Automático (Empire Cannon)"
     },
     "I9rLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "JNrLBw": {
-        "en": "Automatic Module (Rampage Arrow)",
-        "pt": "Módulo Automático (Flecha Espiritual)",
-        "es": "Módulo automático (Flecha de explosiones)"
+        "ko": "오토매틱 모듈(폭기신탄)",
+        "en": "Automatic Module (Rampage Fist)",
+        "pt": "Módulo Automático (Punho Furioso)",
+        "es": "Módulo Automático (Rampage Fist)"
     },
     "JdrLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "JtrLBw": {
-        "en": "Automatic Module (Raging Crush)",
-        "pt": "Módulo Automático (Dragão Esmagador)",
-        "es": "Módulo automático (Aplastamiento furioso)"
+        "ko": "오토매틱 모듈(맹룡붕격)",
+        "en": "Automatic Module (Dragon Combo)",
+        "pt": "Módulo Automático (Combo do Dragão)",
+        "es": "Módulo Automático (Dragon Combo)"
     },
     "J9rLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "KNrLBw": {
+        "ko": "오토매틱 모듈(클러스터)",
         "en": "Automatic Module (Cluster)",
-        "pt": "Módulo Automático (Bomba Relógio)",
-        "es": "Módulo automático (Conjunto)"
+        "pt": "Módulo Automático (Aglomerado)",
+        "es": "Módulo Automático (Cluster)"
     },
     "KdrLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "KtrLBw": {
+        "ko": "오토매틱 모듈(브리즈 슈팅)",
         "en": "Automatic Module (Breeze Shooting)",
-        "pt": "Módulo Automático (Brisa de Tiros)",
-        "es": "Módulo automático (Tiro de brisa)"
+        "pt": "Módulo Automático (Tiro da Brisa)",
+        "es": "Módulo Automático (Breeze Shooting)"
     },
     "K9rLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "LNrLBw": {
+        "ko": "오토매틱 모듈(에임드 스톰)",
         "en": "Automatic Module (Aimed Storm)",
-        "pt": "Módulo Automático (Tempestade Certeira)",
-        "es": "Módulo automático (Tormenta dirigida)"
+        "pt": "Módulo Automático (Tempestade Mirada)",
+        "es": "Módulo Automático (Aimed Storm)"
     },
     "LdrLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "LtrLBw": {
+        "ko": "오토매틱 모듈(메탈릭에코)",
         "en": "Automatic Module (Metallic Echo)",
-        "pt": "Módulo Automático (Brado Estridente)",
-        "es": "Módulo automático (Eco metálico)"
+        "pt": "Módulo Automático (Eco Metálico)",
+        "es": "Módulo Automático (Metallic Echo)"
     },
     "L9rLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "MNrLBw": {
+        "ko": "오토매틱 모듈(잔향)",
         "en": "Automatic Module (Reverberation)",
         "pt": "Módulo Automático (Ressonância)",
-        "es": "Módulo automático (Reverberación)"
+        "es": "Módulo Automático (Reverberation)"
     },
     "MdrLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "MtrLBw": {
+        "ko": "오토매틱 모듈(발칸서비어)",
         "en": "Automatic Module (Vulcan Severe)",
-        "pt": "Módulo Automático (Temporal Vulcânico)",
-        "es": "Módulo automático (Tormenta arcana)"
+        "pt": "Módulo Automático (Vulcão Severo)",
+        "es": "Módulo Automático (Vulcan Severe)"
     },
     "M9rLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "NNrLBw": {
-        "en": "Automatic Module (Blaze Explosion)",
-        "pt": "Módulo Automático (Chute Explosivo)",
-        "es": "Módulo automático (Explosión en llamas)"
+        "ko": "오토매틱 모듈(홍염폭발)",
+        "en": "Automatic Module (Blaze Burst)",
+        "pt": "Módulo Automático (Explosão Escarlate)",
+        "es": "Módulo Automático (Blaze Burst)"
     },
     "NdrLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "NtrLBw": {
-        "en": "Automatic Module (Moon Kick)",
-        "pt": "Módulo Automático (Chute Eclipsal)",
-        "es": "Módulo automático (Patada lunar)"
+        "ko": "오토매틱 모듈(월각)",
+        "en": "Automatic Module (Lunar Kick)",
+        "pt": "Módulo Automático (Chute Lunar)",
+        "es": "Módulo Automático (Lunar Kick)"
     },
     "N9rLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "ONrLBw": {
-        "en": "Automatic Module (Falling Flash)",
-        "pt": "Módulo Automático (Chuva de Chutes)",
-        "es": "Módulo automático (Destello fugaz)"
+        "ko": "오토매틱 모듈(섬광낙하)",
+        "en": "Automatic Module (Flashfall)",
+        "pt": "Módulo Automático (Queda Relâmpago)",
+        "es": "Módulo Automático (Flashfall)"
     },
     "OdrLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "OtrLBw": {
+        "ko": "오토매틱 모듈(에스후)",
         "en": "Automatic Module (Eswoo)",
         "pt": "Módulo Automático (Eswoo)",
-        "es": "Módulo automático (Eswoo)"
+        "es": "Módulo Automático (Eswoo)"
     },
     "O9rLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "PNrLBw": {
+        "ko": "오토매틱 모듈(에스파)",
         "en": "Automatic Module (Espa)",
         "pt": "Módulo Automático (Espa)",
-        "es": "Módulo automático (Espa)"
+        "es": "Módulo Automático (Espa)"
     },
     "PdrLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "PtrLBw": {
+        "ko": "오토매틱 모듈(저주폭발)",
         "en": "Automatic Module (Curse Explosion)",
-        "pt": "Módulo Automático (Necroexplosão)",
-        "es": "Módulo automático (Explosión de maldiciones)"
+        "pt": "Módulo Automático (Explosão da Maldição)",
+        "es": "Módulo Automático (Curse Explosion)"
     },
     "P9rLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "QNrLBw": {
+        "ko": "오토매틱 모듈(데스 해머 댄스)",
         "en": "Automatic Module (Death Hammer Dance)",
-        "pt": "Módulo Automático (Tambor da Execução e Morte)",
-        "es": "Módulo automático (Danza del martillo de la muerte)"
+        "pt": "Módulo Automático (Dança do Martelo da Morte)",
+        "es": "Módulo Automático (Death Hammer Dance)"
     },
     "QdrLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "QtrLBw": {
+        "ko": "오토매틱 모듈(파이어 하울링 테일)",
         "en": "Automatic Module (Fire Howling Tail)",
-        "pt": "Módulo Automático (Míssil de Granada e Labareda)",
-        "es": "Módulo automático (Cola de aullido de fuego)"
+        "pt": "Módulo Automático (Cauda do Uivo de Fogo)",
+        "es": "Módulo Automático (Fire Howling Tail)"
     },
     "Q9rLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "RNrLBw": {
+        "ko": "오토매틱 모듈(스톰 버스터 트립)",
         "en": "Automatic Module (Storm Buster Trip)",
-        "pt": "Módulo Automático (Rajada de Tiros Expurgantes)",
-        "es": "Módulo automático (Buster de viaje tormentoso)"
+        "pt": "Módulo Automático (Explosão Tempestuosa)",
+        "es": "Módulo Automático (Storm Buster Trip)"
     },
     "RdrLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "RtrLBw": {
-        "en": "Automatic Module (Petal Spear Blade)",
-        "pt": "Módulo Automático (Pétalas de Lança e Lâmina)",
-        "es": "Módulo automático (Espada con hojas de pétalos)"
+        "ko": "오토매틱 모듈(화섬풍)",
+        "en": "Automatic Module (Elemental Gale)",
+        "pt": "Módulo Automático (Vendaval Elemental)",
+        "es": "Módulo Automático (Elemental Gale)"
     },
     "R9rLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "SNrLBw": {
+        "ko": "오토매틱 모듈(십자베기)",
         "en": "Automatic Module (Cross Slash)",
-        "pt": "Módulo Automático (Impacto Cruzado)",
-        "es": "Módulo automático (Tajo cruzado)"
+        "pt": "Módulo Automático (Corte Cruzado)",
+        "es": "Módulo Automático (Cross Slash)"
     },
     "SdrLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "StrLBw": {
-        "en": "Automatic Module (Dragon Draft Wind)",
-        "pt": "Módulo Automático (Brisa do Grande Dragão)",
-        "es": "Módulo automático (Ráfaga de viento del dragón)"
+        "ko": "오토매틱 모듈(염락풍)",
+        "en": "Automatic Module (Frostfire Tempest)",
+        "pt": "Módulo Automático (Tempestade de Gelo e Fogo)",
+        "es": "Módulo Automático (Frostfire Tempest)"
     },
     "S9rLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "TNrLBw": {
-        "en": "Automatic Module (Power of Sea)",
-        "pt": "Módulo Automático (Poder das Marés)",
-        "es": "Módulo automático (Poder de océano)"
+        "ko": "오토매틱 모듈(바다의 힘)",
+        "en": "Automatic Module (Power of the Sea)",
+        "pt": "Módulo Automático (Poder do Mar)",
+        "es": "Módulo Automático (Power of the Sea)"
     },
     "TdrLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "TtrLBw": {
-        "en": "Automatic Module (Power of Land)",
-        "pt": "Módulo Automático (Poder da Selva)",
-        "es": "Módulo automático (Fuerza de tierra)"
+        "ko": "오토매틱 모듈(대지의 힘)",
+        "en": "Automatic Module (Power of Gaia)",
+        "pt": "Módulo Automático (Poder de Gaia)",
+        "es": "Módulo Automático (Power of Gaia)"
     },
     "T9rLBw": {
-        "en": "^AAAAAA(Have 0 related modules)^000000",
-        "pt": "^EE0000(Tem 0 módulo correspondente)^000000",
-        "es": "^880088(Tienes 0módulos relacionados)^000000"
+        "ko": "^AAAAAA(관련모듈 소지량 0)^000000",
+        "en": "^AAAAAA(Number of related modules in possession: 0)^000000",
+        "pt": "^AAAAAA(Quantidade de módulos relacionados: 0)^000000",
+        "es": "^AAAAAA(Cantidad de módulos relacionados en posesión: 0)^000000"
     },
     "UNrLBw": {
+        "ko": "오토매틱 모듈(생명의 힘)",
         "en": "Automatic Module (Power of Life)",
-        "pt": "Módulo Automático (Poder da Fauna)",
-        "es": "Módulo automático (Poder de vida)"
+        "pt": "Módulo Automático (Poder da Vida)",
+        "es": "Módulo Automático (Power of Life)"
     },
     "UdrLBw": {
-        "en": "[Ryza]\n{},\nplease see if you have anything to upgrade.",
-        "pt": "[Ryza]\n+ {},\nverifique se você tem algo para melhorar.",
-        "es": "[Ryza]\n{},\ncomprueba si tienes algo para mejorar."
+        "ko": "[라이자]\n{0} 님\n업그레이드하실 효능이 있는지 확인해 주십시오.",
+        "en": "[Liza]\n{0},\nplease check whether there is an effect you wish to upgrade.",
+        "pt": "[Liza]\nSr(a). {0}\nVerifique se possui algum efeito para aprimorar.",
+        "es": "[Liza]\nSeñor {0},\nPor favor, compruebe si tiene algún efecto que desee mejorar."
     },
     "UtrLBw": {
-        "en": "Cancel.",
-        "pt": "Cancelar.",
-        "es": "Cancelar."
-    },
-    "U9rLBw": {
-        "en": "Normal",
-        "pt": "Normal",
-        "es": "Normal."
-    },
-    "VNrLBw": {
-        "en": "Rare",
-        "pt": "Raro",
-        "es": "Raro."
-    },
-    "VdrLBw": {
-        "en": "Unique",
-        "pt": "Único",
-        "es": "Único."
-    },
-    "VtrLBw": {
-        "en": "Legendary",
-        "pt": "Lendário",
-        "es": "Legendario."
-    },
-    "V9rLBw": {
-        "en": "Epic 1",
-        "pt": "Épico 1",
-        "es": "Épico1."
-    },
-    "WNrLBw": {
-        "en": "Epic 2",
-        "pt": "Épico 2",
-        "es": "Épico2."
-    },
-    "WdrLBw": {
-        "en": "Epic 3",
-        "pt": "Épico 3",
-        "es": "Épico3."
-    },
-    "WtrLBw": {
-        "en": "[Ryza]\nThen, we'll call it a day.",
-        "pt": "[Ryza]\nEntão vamos encerrar por aqui.",
-        "es": "[Ryza]\nEntonces, terminamos por hoy."
-    },
-    "W9rLBw": {
+        "ko": "취소",
         "en": "Cancel",
         "pt": "Cancelar",
-        "es": "Cancelar."
+        "es": "Cancelar"
+    },
+    "U9rLBw": {
+        "ko": "노멀등급",
+        "en": "Normal Grade",
+        "pt": "Grau Normal",
+        "es": "Grado normal"
+    },
+    "VNrLBw": {
+        "ko": "레어등급",
+        "en": "Rare Grade",
+        "pt": "Grau Raro",
+        "es": "Grado raro"
+    },
+    "VdrLBw": {
+        "ko": "유니크등급",
+        "en": "Unique Grade",
+        "pt": "Grau Único",
+        "es": "Grado único"
+    },
+    "VtrLBw": {
+        "ko": "레전드등급",
+        "en": "Legend Grade",
+        "pt": "Grau Lendário",
+        "es": "Grado leyenda"
+    },
+    "V9rLBw": {
+        "ko": "에픽 1",
+        "en": "Epic 1",
+        "pt": "Épico 1",
+        "es": "Épico 1"
+    },
+    "WNrLBw": {
+        "ko": "에픽 2",
+        "en": "Epic 2",
+        "pt": "Épico 2",
+        "es": "Épico 2"
+    },
+    "WdrLBw": {
+        "ko": "에픽 3",
+        "en": "Epic 3",
+        "pt": "Épico 3",
+        "es": "Épico 3"
+    },
+    "WtrLBw": {
+        "ko": "[라이자]\n여기까지 하기로 하겠습니다.",
+        "en": "[Liza]\nWe will conclude here.",
+        "pt": "[Liza]\nVamos encerrar por aqui.",
+        "es": "[Liza]\nLo dejaremos aquí."
+    },
+    "W9rLBw": {
+        "ko": "오토매틱 개조 모듈(방어)",
+        "en": "Automatic Modification Module (Defense)",
+        "pt": "Módulo Automático Mod. (Defesa)",
+        "es": "Módulo de Modificación Automática (Defense)"
     },
     "XNrLBw": {
-        "en": "Automatic Modification Module (DEF)",
-        "pt": "Módulo de Modificação Automático (DEF)",
-        "es": "Módulo de modificación automática (DEF)"
+        "ko": "오토매틱 개조 모듈(마법방어)",
+        "en": "Automatic Modification Module (Magic Defense)",
+        "pt": "Módulo Automático Mod. (Defesa Mágica)",
+        "es": "Módulo de Modificación Automática (Magic Defense)"
     },
     "XdrLBw": {
-        "en": "Automatic Modification Module (MDEF)",
-        "pt": "Módulo de Modificação Automático (DEFM)",
-        "es": "Módulo de modificación automática (DEFM)"
+        "ko": "오토매틱 개조 모듈(VIT)",
+        "en": "Automatic Modification Module (VIT)",
+        "pt": "Módulo Automático Mod. (VIT)",
+        "es": "Módulo de Modificación Automática (VIT)"
     },
     "XtrLBw": {
-        "en": "Automatic Modification Module (VIT)",
-        "pt": "Módulo de Modificação Automático (VIT)",
-        "es": "Módulo de modificación automática (VIT)"
+        "ko": "오토매틱 개조 모듈(LUK)",
+        "en": "Automatic Modification Module (LUK)",
+        "pt": "Módulo Automático Mod. (SOR)",
+        "es": "Módulo de Modificación Automática (LUK)"
     },
     "X9rLBw": {
-        "en": "Automatic Modification Module (LUK)",
-        "pt": "Módulo de Modificação Automático (SOR)",
-        "es": "Módulo de modificación automática (SUE)"
+        "ko": "오토매틱 개조 모듈(STR)",
+        "en": "Automatic Modification Module (STR)",
+        "pt": "Módulo Automático Mod. (FOR)",
+        "es": "Módulo de Modificación Automática (STR)"
     },
     "YNrLBw": {
-        "en": "Automatic Modification Module (STR)",
-        "pt": "Módulo de Modificação Automático (FOR)",
-        "es": "Módulo de modificación automática (FUE)"
+        "ko": "오토매틱 개조 모듈(AGI)",
+        "en": "Automatic Modification Module (AGI)",
+        "pt": "Módulo Automático Mod. (AGI)",
+        "es": "Módulo de Modificación Automática (AGI)"
     },
     "YdrLBw": {
-        "en": "Automatic Modification Module (AGI)",
-        "pt": "Módulo de Modificação Automático (AGI)",
-        "es": "Módulo de modificación automática (AGI)"
+        "ko": "오토매틱 개조 모듈(INT)",
+        "en": "Automatic Modification Module (INT)",
+        "pt": "Módulo Automático Mod. (INT)",
+        "es": "Módulo de Modificación Automática (INT)"
     },
     "YtrLBw": {
-        "en": "Automatic Modification Module (INT)",
-        "pt": "Módulo de Modificação Automático (INT)",
-        "es": "Módulo de modificación automática (INT)"
+        "ko": "오토매틱 개조 모듈(DEX)",
+        "en": "Automatic Modification Module (DEX)",
+        "pt": "Módulo Automático Mod. (DES)",
+        "es": "Módulo de Modificación Automática (DEX)"
     },
     "Y9rLBw": {
-        "en": "Automatic Modification Module (DEX)",
-        "pt": "Módulo de Modificação Automático (DES)",
-        "es": "Módulo de modificación automática (DES)"
+        "ko": "오토매틱 개조 모듈(HP회복량)",
+        "en": "Automatic Modification Module (HP Recovery)",
+        "pt": "Módulo Automático Mod. (Recuperação de HP)",
+        "es": "Módulo de Modificación Automática (HP Recovery)"
     },
     "ZNrLBw": {
-        "en": "Automatic Modification Module (HP Recovery)",
-        "pt": "Módulo de Modificação Automático (Recuperação de HP)",
-        "es": "Módulo de modificación automática (Recuperación de PV)"
+        "ko": "오토매틱 개조 모듈(SP회복량)",
+        "en": "Automatic Modification Module (SP Recovery)",
+        "pt": "Módulo Automático Mod. (Recuperação de SP)",
+        "es": "Módulo de Modificación Automática (SP Recovery)"
     },
     "ZdrLBw": {
-        "en": "Automatic Modification Module (SP Recovery)",
-        "pt": "Módulo de Modificação Automático (Recuperação de SP)",
-        "es": "Módulo de modificación automática (Recuperación de PM)"
+        "ko": "오토매틱 개조 모듈(마력)",
+        "en": "Automatic Modification Module (Magic Power)",
+        "pt": "Módulo Automático Mod. (Poder Mágico)",
+        "es": "Módulo de Modificación Automática (Magic Power)"
     },
     "ZtrLBw": {
-        "en": "Automatic Modification Module (Spell)",
-        "pt": "Módulo de Modificação Automático (Feitiço)",
-        "es": "Módulo de modificación automática (Hechizo)"
+        "ko": "오토매틱 개조 모듈(공격속도)",
+        "en": "Automatic Modification Module (Attack Speed)",
+        "pt": "Módulo Automático Mod. (Velocidade de Ataque)",
+        "es": "Módulo de Modificación Automática (Attack Speed)"
     },
     "Z9rLBw": {
-        "en": "Automatic Modification Module (ASPD)",
-        "pt": "Módulo de Modificação Automático (VelATQ)",
-        "es": "Módulo de modificación automática (VELA)"
+        "ko": "오토매틱 개조 모듈(치명)",
+        "en": "Automatic Modification Module (Fatal)",
+        "pt": "Módulo Automático Mod. (Fatal)",
+        "es": "Módulo de Modificación Automática (Fatal)"
     },
     "aNrLBw": {
-        "en": "Automatic Modification Module (Fatal)",
-        "pt": "Módulo de Modificação Automático (Fatal)",
-        "es": "Módulo de modificación automática (Fatal)"
+        "ko": "오토매틱 개조 모듈(명궁)",
+        "en": "Automatic Modification Module (Archery)",
+        "pt": "Módulo Automático Mod. (Arqueiria)",
+        "es": "Módulo de Modificación Automática (Archery)"
     },
     "adrLBw": {
-        "en": "Automatic Modification Module (Expert Archer)",
-        "pt": "Módulo de Modificação Automático (Arqueiro Especialista)",
-        "es": "Módulo de modificación automática (Arquero experto)"
+        "ko": "오토매틱 개조 모듈(체력)",
+        "en": "Automatic Modification Module (MHP)",
+        "pt": "Módulo Automático Mod. (MHP)",
+        "es": "Módulo de Modificación Automática (MHP)"
     },
     "atrLBw": {
-        "en": "Automatic Modification Module (Health)",
-        "pt": "Módulo de Modificação Automático (Saúde)",
-        "es": "Módulo de modificación automática (Salud)"
+        "ko": "오토매틱 개조 모듈(정신력)",
+        "en": "Automatic Modification Module (MSP)",
+        "pt": "Módulo Automático Mod. (MSP)",
+        "es": "Módulo de Modificación Automática (MSP)"
     },
     "a9rLBw": {
-        "en": "Automatic Modification Module (SPR)",
-        "pt": "Módulo de Modificação Automático (Cura)",
-        "es": "Módulo de modificación automática (RPM)"
+        "ko": "오토매틱 개조 모듈(힐)",
+        "en": "Automatic Modification Module (Heal)",
+        "pt": "Módulo Automático Mod. (Cura)",
+        "es": "Módulo de Modificación Automática (Heal)"
     },
     "bNrLBw": {
-        "en": "Automatic Modification Module (Heal)",
-        "pt": "Módulo de Modificação Automático (ATQ)",
-        "es": "Módulo de modificación automática (Curación)"
+        "ko": "오토매틱 개조 모듈(공격력)",
+        "en": "Automatic Modification Module (Attack Power)",
+        "pt": "Módulo Automático Mod. (Poder de Ataque)",
+        "es": "Módulo de Modificación Automática (Attack Power)"
     },
     "bdrLBw": {
-        "en": "Automatic Modification Module (ATK)",
-        "pt": "Módulo de Modificação Automático (ATQM)",
-        "es": "Módulo de modificación automática (ATQ)"
+        "ko": "오토매틱 개조 모듈(마법력)",
+        "en": "Automatic Modification Module (Magical Power)",
+        "pt": "Módulo Automático Mod. (Poder Mágico)",
+        "es": "Módulo de Modificación Automática (Magical Power)"
     },
     "btrLBw": {
-        "en": "Automatic Modification Module (MATK)",
-        "pt": "Módulo de Modificação Automático (Atirador)",
-        "es": "Módulo de modificación automática (ATQM)"
+        "ko": "오토매틱 개조 모듈(명사수)",
+        "en": "Automatic Modification Module (Sharpshooter)",
+        "pt": "Módulo Automático Mod. (Atirador Preciso)",
+        "es": "Módulo de Modificación Automática (Sharpshooter)"
     },
     "b9rLBw": {
-        "en": "Automatic Modification Module (Sharpshooter)",
-        "pt": "Módulo de Modificação Automático (Velocidade)",
-        "es": "Módulo de modificación automática (Tirador)"
+        "ko": "오토매틱 개조 모듈(신속)",
+        "en": "Automatic Modification Module (Speed)",
+        "pt": "Módulo Automático Mod. (Velocidade)",
+        "es": "Módulo de Modificación Automática (Speed)"
     },
     "cNrLBw": {
-        "en": "Automatic Modification Module (Speed)",
-        "pt": "Módulo de Modificação Automático (Conjurador)",
-        "es": "Módulo de modificación automática (Velocidad)"
+        "ko": "오토매틱 개조 모듈(캐스터)",
+        "en": "Automatic Modification Module (Caster)",
+        "pt": "Módulo Automático Mod. (Conjurador)",
+        "es": "Módulo de Modificación Automática (Caster)"
     },
     "cdrLBw": {
-        "en": "Automatic Modification Module (Caster)",
-        "pt": "Módulo de Modificação Automático (Crítico)",
-        "es": "Módulo de modificación automática (Lanzador)"
+        "ko": "오토매틱 개조 모듈(크리티컬)",
+        "en": "Automatic Modification Module (Critical)",
+        "pt": "Módulo Automático Mod. (Crítico)",
+        "es": "Módulo de Modificación Automática (Critical)"
     },
     "ctrLBw": {
-        "en": "Automatic Modification Module (Critical)",
-        "pt": "Módulo de Modificação Automático (Força Mágica)",
-        "es": "Módulo de modificación automática (Crítico)"
+        "ko": "오토매틱 개조 모듈(매지컬 포스)",
+        "en": "Automatic Modification Module (Magical Force)",
+        "pt": "Módulo Automático Mod. (Força Mágica)",
+        "es": "Módulo de Modificación Automática (Magical Force)"
     },
     "c9rLBw": {
-        "en": "Automatic Modification Module (Magical Force)",
-        "pt": "Módulo de Modificação Automático (Atacante)",
-        "es": "Módulo de modificación automática (Fuerza mágica)"
+        "ko": "오토매틱 개조 모듈(어태커 포스)",
+        "en": "Automatic Modification Module (Attacker Force)",
+        "pt": "Módulo Automático Mod. (Força do Atacante)",
+        "es": "Módulo de Modificación Automática (Attacker Force)"
     },
     "dNrLBw": {
-        "en": "Automatic Modification Module (Attacker Force)",
-        "pt": "Módulo de Modificação Automático (Força a Distância)",
-        "es": "Módulo de modificación automática (Fuerza atacante)"
+        "ko": "오토매틱 개조 모듈(레인지 포스)",
+        "en": "Automatic Modification Module (Ranged Force)",
+        "pt": "Módulo Automático Mod. (Força à Distância)",
+        "es": "Módulo de Modificación Automática (Ranged Force)"
     },
     "ddrLBw": {
-        "en": "Automatic Modification Module (Ranged Force)",
-        "pt": "Módulo de Modificação Automático (Força Crítica)",
-        "es": "Módulo de modificación automática (Fuerza a distancia)"
+        "ko": "오토매틱 개조 모듈(크리티컬 포스)",
+        "en": "Automatic Modification Module (Critical Force)",
+        "pt": "Módulo Automático Mod. (Força Crítica)",
+        "es": "Módulo de Modificación Automática (Critical Force)"
     },
     "dtrLBw": {
-        "en": "Automatic Modification Module (Critical Force)",
-        "pt": "Módulo de Modificação Automático (Força de Recuperação)",
-        "es": "Módulo de modificación automática (Fuerza crítica)"
+        "ko": "오토매틱 개조 모듈(리커버리 포스)",
+        "en": "Automatic Modification Module (Recovery Force)",
+        "pt": "Módulo Automático Mod. (Força de Recuperação)",
+        "es": "Módulo de Modificación Automática (Recovery Force)"
     },
     "d9rLBw": {
-        "en": "Automatic Modification Module (Recovery Force)",
-        "pt": "Módulo de Modificação Automático (Dor Espelhada)",
-        "es": "Módulo de modificación automática (Fuerza de recuperación)"
+        "ko": "오토매틱 개조 모듈(미러 카운터)",
+        "en": "Automatic Modification Module (Mirror Counter)",
+        "pt": "Módulo Automático Mod. (Contra-Espelho)",
+        "es": "Módulo de Modificación Automática (Mirror Counter)"
     },
     "eNrLBw": {
-        "en": "Automatic Modification Module (Mirror Counter)",
-        "pt": "Módulo de Modificação Automático (Atraso de Uso)",
-        "es": "Módulo de modificación automática (Contraataque de espejo)"
+        "ko": "오토매틱 개조 모듈(스킬 후 딜레이)",
+        "en": "Automatic Modification Module (After Skill Delay)",
+        "pt": "Módulo de Modificação Automática (Pós-Conjuração de Habilidade)",
+        "es": "Módulo de Modificación Automática (After Skill Delay)"
     },
     "edrLBw": {
-        "en": "Automatic Modification Module (Post-skill Delay)",
-        "pt": "Módulo de Modificação Automático (Conjuração Fixa)",
-        "es": "Módulo de modificación automática (Retraso tras la habilidad)"
+        "ko": "오토매틱 개조 모듈(고정 캐스팅)",
+        "en": "Automatic Modification Module (Fixed Casting)",
+        "pt": "Módulo Automático Mod. (Conjuração Fixa)",
+        "es": "Módulo de Modificación Automática (Fixed Casting)"
     },
     "etrLBw": {
-        "en": "Automatic Modification Module (Fixed Cast Time)",
-        "pt": "Módulo de Modificação Automático (Total)",
-        "es": "Módulo de modificación automática (Tiempo de lanzamiento fijo)"
+        "ko": "오토매틱 개조 모듈(어보브 올)",
+        "en": "Automatic Modification Module (Above All)",
+        "pt": "Módulo Automático Mod. (Acima de Tudo)",
+        "es": "Módulo de Modificación Automática (Above All)"
     },
     "e9rLBw": {
-        "en": "Automatic Modification Module (Above All)",
-        "pt": "Módulo de Modificação Automático (Drenar Vida)",
-        "es": "Módulo de modificación automática (Por encima de todo)"
+        "ko": "오토매틱 개조 모듈(드레인 라이프)",
+        "en": "Automatic Modification Module (Drain Life)",
+        "pt": "Módulo Automático Mod. (Drenar Vida)",
+        "es": "Módulo de Modificación Automática (Drain Life)"
     },
     "fNrLBw": {
-        "en": "Automatic Modification Module (Drain Life)",
-        "pt": "Módulo de Modificação Automático (Dreno de Alma)",
-        "es": "Módulo de modificación automática (Drenaje de vida)"
+        "ko": "오토매틱 개조 모듈(드레인 소울)",
+        "en": "Automatic Modification Module (Drain Soul)",
+        "pt": "Módulo Automático Mod. (Drenar Alma)",
+        "es": "Módulo de Modificación Automática (Drain Soul)"
     },
     "fdrLBw": {
-        "en": "Automatic Modification Module (Drain Soul)",
-        "pt": "Módulo de Modificação Automático (Cura Mágica)",
-        "es": "Módulo de modificación automática (Drenaje de alma)"
+        "ko": "오토매틱 개조 모듈(매직 힐링)",
+        "en": "Automatic Modification Module (Magic Healing)",
+        "pt": "Módulo Automático Mod. (Cura Mágica)",
+        "es": "Módulo de Modificación Automática (Magic Healing)"
     },
     "ftrLBw": {
-        "en": "Automatic Modification Module (Magic Healing)",
-        "pt": "Módulo de Modificação Automático (Alma Mágica)",
-        "es": "Módulo de modificación automática (Curación mágica)"
+        "ko": "오토매틱 개조 모듈(매직 소울)",
+        "en": "Automatic Modification Module (Magic Soul)",
+        "pt": "Módulo Automático Mod. (Alma Mágica)",
+        "es": "Módulo de Modificación Automática (Magic Soul)"
     },
     "f9rLBw": {
-        "en": "Automatic Modification Module (Magic Soul)",
-        "pt": "Módulo de Modificação Automático (Força de Poder)",
-        "es": "Módulo de modificación automática (Alma mágica)"
+        "ko": "오토매틱 개조 모듈(파워 포스)",
+        "en": "Automatic Modification Module (Power Force)",
+        "pt": "Módulo Automático Mod. (Força de Poder)",
+        "es": "Módulo de Modificación Automática (Power Force)"
     },
     "gNrLBw": {
-        "en": "Automatic Modification Module (Power Force)",
-        "pt": "Módulo de Modificação Automático (Robusto)",
-        "es": "Módulo de modificación automática (Fuerza de poder)"
+        "ko": "오토매틱 개조 모듈(로버스트)",
+        "en": "Automatic Modification Module (Robust)",
+        "pt": "Módulo Automático Mod. (Robusto)",
+        "es": "Módulo de Modificación Automática (Robust)"
     },
     "gdrLBw": {
-        "en": "Automatic Modification Module (Robust)",
-        "pt": "Módulo de Modificação Automático (Poderoso)",
-        "es": "Módulo de modificación automática (Robusto)"
+        "ko": "오토매틱 개조 모듈(파워풀)",
+        "en": "Automatic Modification Module (Powerful)",
+        "pt": "Módulo Automático Mod. (Poderoso)",
+        "es": "Módulo de Modificación Automática (Powerful)"
     },
     "gtrLBw": {
-        "en": "Automatic Modification Module (Powerful)",
-        "pt": "Módulo de Modificação Automático (Força Total)",
-        "es": "Módulo de modificación automática (Poderoso)"
+        "ko": "오토매틱 개조 모듈(올 포스)",
+        "en": "Automatic Modification Module (All Force)",
+        "pt": "Módulo Automático Mod. (Força Total)",
+        "es": "Módulo de Modificación Automática (All Force)"
     },
     "g9rLBw": {
-        "en": "Automatic Modification Module (All-Force)",
-        "pt": "Módulo de Modificação Automático (Rejeição Refletida)",
-        "es": "Módulo de modificación automática (Fuerza total)"
+        "ko": "오토매틱 개조 모듈(리플렉션 리젝트)",
+        "en": "Automatic Modification Module (Reflection Reject)",
+        "pt": "Módulo Automático Mod. (Rejeição de Reflexão)",
+        "es": "Módulo de Modificación Automática (Reflection Reject)"
     },
     "hNrLBw": {
-        "en": "Automatic Modification Module (Reflection Reject)",
+        "ko": "오토매틱 모듈(언리밋 바이탈)",
+        "en": "Automatic Module (Unlimited Vital)",
         "pt": "Módulo Automático (Vitalidade Ilimitada)",
-        "es": "Módulo de modificación automática (Rechazo de reflexión)"
+        "es": "Módulo Automático (Unlimited Vital)"
     },
     "hdrLBw": {
-        "en": "Automatic Module (Unlimited Vitality)",
-        "pt": "Módulo Automático (Super Feitiço)",
-        "es": "Módulo automático (Vitalidad ilimitada)"
+        "ko": "오토매틱 모듈(스펠 버스터)",
+        "en": "Automatic Module (Spell Buster)",
+        "pt": "Módulo Automático (Quebrador de Feitiços)",
+        "es": "Módulo Automático (Spell Buster)"
     },
     "htrLBw": {
-        "en": "Automatic Module (Spell Buster)",
-        "pt": "Módulo Automático (Atirador Impetuoso)",
-        "es": "Módulo automático (Rompehechizos)"
+        "ko": "오토매틱 모듈(파이어링 샷)",
+        "en": "Automatic Module (Firing Shot)",
+        "pt": "Módulo Automático (Tiro Flamejante)",
+        "es": "Módulo Automático (Firing Shot)"
     },
     "h9rLBw": {
-        "en": "Automatic Module (Fierce Shooter)",
-        "pt": "Módulo Automático (Superpoder)",
-        "es": "Módulo automático (Tirador agresivo)"
+        "ko": "오토매틱 모듈(오버 파워)",
+        "en": "Automatic Module (Over Power)",
+        "pt": "Módulo Automático (Poder Excedente)",
+        "es": "Módulo Automático (Over Power)"
     },
     "iNrLBw": {
-        "en": "Automatic Module (Overpower)",
-        "pt": "Módulo Automático (Lampejo)",
-        "es": "Módulo automático (Sobrecarga)"
+        "ko": "오토매틱 모듈(페이탈 플래쉬)",
+        "en": "Automatic Module (Fatal Flash)",
+        "pt": "Módulo Automático (Flash Fatal)",
+        "es": "Módulo Automático (Fatal Flash)"
     },
     "idrLBw": {
-        "en": "Automatic Module (Fatal Flash)",
+        "ko": "오토매틱 모듈(럭키 스트라이크)",
+        "en": "Automatic Module (Lucky Strike)",
         "pt": "Módulo Automático (Golpe de Sorte)",
-        "es": "Módulo automático (Destello letal)"
+        "es": "Módulo Automático (Lucky Strike)"
     },
     "itrLBw": {
-        "en": "Automatic Module (Lucky Strike)",
+        "ko": "오토매틱 모듈(드래고닉 브래스)",
+        "en": "Automatic Module (Dragonic Breath)",
         "pt": "Módulo Automático (Sopro Dracônico)",
-        "es": "Módulo automático (Golpe de suerte)"
+        "es": "Módulo Automático (Dragonic Breath)"
     },
     "i9rLBw": {
-        "en": "Automatic Module (Draconic Breath)",
-        "pt": "Módulo Automático (Onda de Impacto)",
-        "es": "Módulo automático (Aliento dracónico)"
+        "ko": "오토매틱 모듈(웨이브 브레이크)",
+        "en": "Automatic Module (Wave Break)",
+        "pt": "Módulo Automático (Ruptura das Ondas)",
+        "es": "Módulo Automático (Wave Break)"
     },
     "jNrLBw": {
-        "en": "Automatic Module (Wave Break)",
-        "pt": "Módulo Automático (Espiral das Mil Pontas)",
-        "es": "Módulo automático (Rompeondas)"
+        "ko": "오토매틱 모듈(헌드레드 스파이럴)",
+        "en": "Automatic Module (Hundred Spiral)",
+        "pt": "Módulo Automático (Espiral Centenária)",
+        "es": "Módulo Automático (Hundred Spiral)"
     },
     "jdrLBw": {
-        "en": "Automatic Module (Hundred Spiral)",
-        "pt": "Módulo Automático (Aegis Compressor)",
-        "es": "Módulo automático (Cien espirales)"
+        "ko": "오토매틱 모듈(드라이브 프레스)",
+        "en": "Automatic Module (Drive Press)",
+        "pt": "Módulo Automático (Prensa Motriz)",
+        "es": "Módulo Automático (Drive Press)"
     },
     "jtrLBw": {
-        "en": "Automatic Module (Drive Press)",
-        "pt": "Módulo Automático (Disparo do Oblívio)",
-        "es": "Módulo automático (Presión de golpe)"
+        "ko": "오토매틱 모듈(배니싱 캐논)",
+        "en": "Automatic Module (Vanishing Cannon)",
+        "pt": "Módulo Automático (Canhão Desaparecedor)",
+        "es": "Módulo Automático (Vanishing Cannon)"
     },
     "j9rLBw": {
-        "en": "Automatic Module (Vanishing Cannon)",
-        "pt": "Módulo Automático (Glória da Criação)",
-        "es": "Módulo automático (Cañón de fuga)"
+        "ko": "오토매틱 모듈(제네시스 프레셔)",
+        "en": "Automatic Module (Genesis Pressure)",
+        "pt": "Módulo Automático (Pressão Gênese)",
+        "es": "Módulo Automático (Genesis Pressure)"
     },
     "kNrLBw": {
-        "en": "Automatic Module (Genesis Gloria)",
-        "pt": "Módulo Automático (Canhão Foguete)",
-        "es": "Módulo automático (Gloria de génesis)"
+        "ko": "오토매틱 모듈(부스트 캐논)",
+        "en": "Automatic Module (Boost Cannon)",
+        "pt": "Módulo Automático (Canhão Impulsionado)",
+        "es": "Módulo Automático (Boost Cannon)"
     },
     "kdrLBw": {
-        "en": "Automatic Module (Boost Cannon)",
-        "pt": "Módulo Automático (Chamas Criogênicas)",
-        "es": "Módulo automático (Cañón de propulsión)"
+        "ko": "오토매틱 모듈(콜드 플레어)",
+        "en": "Automatic Module (Cold Flare)",
+        "pt": "Módulo Automático (Chama Gélida)",
+        "es": "Módulo Automático (Cold Flare)"
     },
     "ktrLBw": {
-        "en": "Automatic Module (Ice Flame)",
-        "pt": "Módulo Automático (Brandir Furacão)",
-        "es": "Módulo automático (Llama de hielo)"
+        "ko": "오토매틱 모듈(토네이도 스윙)",
+        "en": "Automatic Module (Tornado Swing)",
+        "pt": "Módulo Automático (Balanço do Tornado)",
+        "es": "Módulo Automático (Tornado Swing)"
     },
     "k9rLBw": {
-        "en": "Automatic Module (Tornado Swing)",
+        "ko": "오토매틱 모듈(캐논 토네이도)",
+        "en": "Automatic Module (Cannon Tornado)",
         "pt": "Módulo Automático (Tornado de Canhão)",
-        "es": "Módulo automático (Balanceo de tornado)"
+        "es": "Módulo Automático (Cannon Tornado)"
     },
     "lNrLBw": {
-        "en": "Automatic Module (Cannon Tornado)",
-        "pt": "Módulo Automático (Mandrágora Daninha)",
-        "es": "Módulo automático (Tornado de cañón)"
+        "ko": "오토매틱 모듈(크레이지 만드라고라)",
+        "en": "Automatic Module (Crazy Mandragora)",
+        "pt": "Módulo Automático (Mandrágora Insana)",
+        "es": "Módulo Automático (Crazy Mandragora)"
     },
     "ldrLBw": {
-        "en": "Automatic Module (Crazy Mandragora)",
-        "pt": "Módulo Automático (Explosão de Ácido)",
-        "es": "Módulo automático (Mandrágora loca)"
+        "ko": "오토매틱 모듈(애시드 익스플로젼)",
+        "en": "Automatic Module (Acid Explosion)",
+        "pt": "Módulo Automático (Explosão Ácida)",
+        "es": "Módulo Automático (Acid Explosion)"
     },
     "ltrLBw": {
-        "en": "Automatic Module (Acid Explosion)",
+        "ko": "오토매틱 모듈(소닉 임팩트)",
+        "en": "Automatic Module (Sonic Impact)",
         "pt": "Módulo Automático (Impacto Sônico)",
-        "es": "Módulo automático (Explosión de ácido)"
+        "es": "Módulo Automático (Sonic Impact)"
     },
     "l9rLBw": {
-        "en": "Automatic Module (Sonic Impact)",
-        "pt": "Módulo Automático (Castigo das Lâminas)",
-        "es": "Módulo automático (Impacto sónico)"
+        "ko": "오토매틱 모듈(커터 슬래셔)",
+        "en": "Automatic Module (Cutter Slasher)",
+        "pt": "Módulo Automático (Corte Afiado)",
+        "es": "Módulo Automático (Cutter Slasher)"
     },
     "mNrLBw": {
-        "en": "Automatic Module (Cutter Slasher)",
-        "pt": "Módulo Automático (Retaliação do Destruidor)",
-        "es": "Módulo automático (Hoja de rodillos)"
+        "ko": "오토매틱 모듈(버서크 슬래쉬)",
+        "en": "Automatic Module (Berserk Slash)",
+        "pt": "Módulo Automático (Corte Berserk)",
+        "es": "Módulo Automático (Berserk Slash)"
     },
     "mdrLBw": {
-        "en": "Automatic Module (Berserk Slash)",
-        "pt": "Módulo Automático (Ataque Surpresa Fatal)",
-        "es": "Módulo automático (Destructor de contragolpe)"
+        "ko": "오토매틱 모듈(페이탈 레이드)",
+        "en": "Automatic Module (Fatal Raid)",
+        "pt": "Módulo Automático (Investida Fatal)",
+        "es": "Módulo Automático (Fatal Raid)"
     },
     "mtrLBw": {
-        "en": "Automatic Module (Fatal Raid)",
-        "pt": "Módulo Automático (Desejo das Sombras)",
-        "es": "Módulo automático (Asalto mortal)"
+        "ko": "오토매틱 모듈(섀도우 스펠)",
+        "en": "Automatic Module (Shadow Spell)",
+        "pt": "Módulo Automático (Feitiço das Sombras)",
+        "es": "Módulo Automático (Shadow Spell)"
     },
     "m9rLBw": {
-        "en": "Automatic Module (Shadow Spell)",
+        "ko": "오토매틱 모듈(앵글 샷)",
+        "en": "Automatic Module (Angle Shot)",
         "pt": "Módulo Automático (Tiro Angular)",
-        "es": "Módulo automático (Hechizo de sombra)"
+        "es": "Módulo Automático (Angle Shot)"
     },
     "nNrLBw": {
-        "en": "Automatic Module (Angle Shot)",
-        "pt": "Módulo Automático (Abalo Escarlate)",
-        "es": "Módulo automático (Tiro angular)"
+        "ko": "오토매틱 모듈(크림즌 스트레인)",
+        "en": "Automatic Module (Crimson Strain)",
+        "pt": "Módulo Automático (Corrente Carmesim)",
+        "es": "Módulo Automático (Crimson Strain)"
     },
     "ndrLBw": {
-        "en": "Automatic Module (Crimson Strain)",
-        "pt": "Módulo Automático (Esquife Elétrico)",
-        "es": "Módulo automático (Temblor carmesí)"
+        "ko": "오토매틱 모듈(잭 라이트닝)",
+        "en": "Automatic Module (Jack Lightning)",
+        "pt": "Módulo Automático (Raio Jack)",
+        "es": "Módulo Automático (Jack Lightning)"
     },
     "ntrLBw": {
-        "en": "Automatic Module (Jack Lightning)",
-        "pt": "Módulo Automático (Vortex de Cometa)",
-        "es": "Módulo automático (Relámpago de escarcha)"
+        "ko": "오토매틱 모듈(커미트 볼텍스)",
+        "en": "Automatic Module (Comet Vortex)",
+        "pt": "Módulo Automático (Vórtice do Cometa)",
+        "es": "Módulo Automático (Comet Vortex)"
     },
     "n9rLBw": {
-        "en": "Automatic Module (Comet Vortex)",
-        "pt": "Módulo Automático (Lanças Duplas)",
-        "es": "Módulo automático (Cometa vórtice)"
+        "ko": "오토매틱 모듈(더블 볼트)",
+        "en": "Automatic Module (Double Bolt)",
+        "pt": "Módulo Automático (Duplo Raio)",
+        "es": "Módulo Automático (Double Bolt)"
     },
     "oNrLBw": {
-        "en": "Automatic Module (Double Bolt)",
-        "pt": "Módulo Automático (Onda Aquecida)",
-        "es": "Módulo automático (Rayo doble)"
+        "ko": "오토매틱 모듈(워머 웨이브)",
+        "en": "Automatic Module (Warmer Wave)",
+        "pt": "Módulo Automático (Onda Aquecedora)",
+        "es": "Módulo Automático (Warmer Wave)"
     },
     "odrLBw": {
-        "en": "Automatic Module (Warmer Wave)",
-        "pt": "Módulo Automático (Castigo de Diamante)",
-        "es": "Módulo automático (Onda cálida)"
+        "ko": "오토매틱 모듈(다이아몬드 그레이브)",
+        "en": "Automatic Module (Diamond Grave)",
+        "pt": "Módulo Automático (Tumba de Diamante)",
+        "es": "Módulo Automático (Diamond Grave)"
     },
     "otrLBw": {
-        "en": "Automatic Module (Diamond Grave)",
+        "ko": "오토매틱 모듈(마그누스무스)",
+        "en": "Automatic Module (Magnusmus)",
         "pt": "Módulo Automático (Magnusmus)",
-        "es": "Módulo automático (Tumba de diamantes)"
+        "es": "Módulo Automático (Magnusmus)"
     },
     "o9rLBw": {
-        "en": "Automatic Module (Magnusmus)",
-        "pt": "Módulo Automático (Judex Divino)",
-        "es": "Módulo automático (Magnusmus)"
+        "ko": "오토매틱 모듈(홀리쥬덱스)",
+        "en": "Automatic Module (Holy Judex)",
+        "pt": "Módulo Automático (Julgamento Sagrado)",
+        "es": "Módulo Automático (Holy Judex)"
     },
     "pNrLBw": {
-        "en": "Automatic Module (Holy Judex)",
-        "pt": "Módulo Automático (Basílica Gemini)",
-        "es": "Módulo automático (Judex sagrado)"
+        "ko": "오토매틱 모듈(듀플레리카)",
+        "en": "Automatic Module (Duple Lica)",
+        "pt": "Módulo Automático (Duple Lica)",
+        "es": "Módulo Automático (Duple Lica)"
     },
     "pdrLBw": {
-        "en": "Automatic Module (Duplelica)",
-        "pt": "Módulo Automático (Ruína do Tigre)",
-        "es": "Módulo automático (Doblélica)"
+        "ko": "오토매틱 모듈(호포붕추)",
+        "en": "Automatic Module (Empire Cannon)",
+        "pt": "Módulo Automático (Canhão Imperial)",
+        "es": "Módulo Automático (Empire Cannon)"
     },
     "ptrLBw": {
-        "en": "Automatic Module (Fallen Tiger)",
-        "pt": "Módulo Automático (Flecha Espiritual)",
-        "es": "Módulo automático (Tigre caído)"
+        "ko": "오토매틱 모듈(폭기신탄)",
+        "en": "Automatic Module (Rampage Fist)",
+        "pt": "Módulo Automático (Punho Furioso)",
+        "es": "Módulo Automático (Rampage Fist)"
     },
     "p9rLBw": {
-        "en": "Automatic Module (Rampage Arrow)",
-        "pt": "Módulo Automático (Dragão Esmagador)",
-        "es": "Módulo automático (Flecha de explosiones)"
+        "ko": "오토매틱 모듈(맹룡붕격)",
+        "en": "Automatic Module (Dragon Combo)",
+        "pt": "Módulo Automático (Combo do Dragão)",
+        "es": "Módulo Automático (Dragon Combo)"
     },
     "qNrLBw": {
-        "en": "Automatic Module (Raging Crush)",
-        "pt": "Módulo Automático (Bomba Relógio)",
-        "es": "Módulo automático (Aplastamiento furioso)"
+        "ko": "오토매틱 모듈(클러스터)",
+        "en": "Automatic Module (Cluster)",
+        "pt": "Módulo Automático (Aglomerado)",
+        "es": "Módulo Automático (Cluster)"
     },
     "qdrLBw": {
-        "en": "Automatic Module (Cluster)",
-        "pt": "Módulo Automático (Brisa de Tiros)",
-        "es": "Módulo automático (Conjunto)"
+        "ko": "오토매틱 모듈(브리즈 슈팅)",
+        "en": "Automatic Module (Breeze Shooting)",
+        "pt": "Módulo Automático (Tiro da Brisa)",
+        "es": "Módulo Automático (Breeze Shooting)"
     },
     "qtrLBw": {
-        "en": "Automatic Module (Breeze Shooting)",
-        "pt": "Módulo Automático (Tempestade Certeira)",
-        "es": "Módulo automático (Tiro de brisa)"
+        "ko": "오토매틱 모듈(에임드 스톰)",
+        "en": "Automatic Module (Aimed Storm)",
+        "pt": "Módulo Automático (Tempestade Mirada)",
+        "es": "Módulo Automático (Aimed Storm)"
     },
     "q9rLBw": {
-        "en": "Automatic Module (Aimed Storm)",
-        "pt": "Módulo Automático (Brado Estridente)",
-        "es": "Módulo automático (Tormenta dirigida)"
+        "ko": "오토매틱 모듈(메탈릭에코)",
+        "en": "Automatic Module (Metallic Echo)",
+        "pt": "Módulo Automático (Eco Metálico)",
+        "es": "Módulo Automático (Metallic Echo)"
     },
     "rNrLBw": {
-        "en": "Automatic Module (Metallic Echo)",
+        "ko": "오토매틱 모듈(잔향)",
+        "en": "Automatic Module (Reverberation)",
         "pt": "Módulo Automático (Ressonância)",
-        "es": "Módulo automático (Eco metálico)"
+        "es": "Módulo Automático (Reverberation)"
     },
     "rdrLBw": {
-        "en": "Automatic Module (Reverberation)",
-        "pt": "Módulo Automático (Temporal Vulcânico)",
-        "es": "Módulo automático (Reverberación)"
+        "ko": "오토매틱 모듈(발칸서비어)",
+        "en": "Automatic Module (Vulcan Severe)",
+        "pt": "Módulo Automático (Vulcão Severo)",
+        "es": "Módulo Automático (Vulcan Severe)"
     },
     "rtrLBw": {
-        "en": "Automatic Module (Vulcan Severe)",
-        "pt": "Módulo Automático (Chute Explosivo)",
-        "es": "Módulo automático (Tormenta arcana)"
+        "ko": "오토매틱 모듈(홍염폭발)",
+        "en": "Automatic Module (Blaze Burst)",
+        "pt": "Módulo Automático (Explosão Escarlate)",
+        "es": "Módulo Automático (Blaze Burst)"
     },
     "r9rLBw": {
-        "en": "Automatic Module (Blaze Explosion)",
-        "pt": "Módulo Automático (Chute Eclipsal)",
-        "es": "Módulo automático (Explosión en llamas)"
+        "ko": "오토매틱 모듈(월각)",
+        "en": "Automatic Module (Lunar Kick)",
+        "pt": "Módulo Automático (Chute Lunar)",
+        "es": "Módulo Automático (Lunar Kick)"
     },
     "sNrLBw": {
-        "en": "Automatic Module (Moon Kick)",
-        "pt": "Módulo Automático (Chuva de Chutes)",
-        "es": "Módulo automático (Patada lunar)"
+        "ko": "오토매틱 모듈(섬광낙하)",
+        "en": "Automatic Module (Flashfall)",
+        "pt": "Módulo Automático (Queda Relâmpago)",
+        "es": "Módulo Automático (Flashfall)"
     },
     "sdrLBw": {
-        "en": "Automatic Module (Falling Flash)",
+        "ko": "오토매틱 모듈(에스후)",
+        "en": "Automatic Module (Eswoo)",
         "pt": "Módulo Automático (Eswoo)",
-        "es": "Módulo automático (Destello fugaz)"
+        "es": "Módulo Automático (Eswoo)"
     },
     "strLBw": {
-        "en": "Automatic Module (Eswoo)",
+        "ko": "오토매틱 모듈(에스파)",
+        "en": "Automatic Module (Espa)",
         "pt": "Módulo Automático (Espa)",
-        "es": "Módulo automático (Eswoo)"
+        "es": "Módulo Automático (Espa)"
     },
     "s9rLBw": {
-        "en": "Automatic Module (Espa)",
-        "pt": "Módulo Automático (Necroexplosão)",
-        "es": "Módulo automático (Espa)"
+        "ko": "오토매틱 모듈(저주폭발)",
+        "en": "Automatic Module (Curse Explosion)",
+        "pt": "Módulo Automático (Explosão da Maldição)",
+        "es": "Módulo Automático (Curse Explosion)"
     },
     "tNrLBw": {
-        "en": "Automatic Module (Curse Explosion)",
-        "pt": "Módulo Automático (Tambor da Execução e Morte)",
-        "es": "Módulo automático (Explosión de maldiciones)"
+        "ko": "오토매틱 모듈(데스 해머 댄스)",
+        "en": "Automatic Module (Death Hammer Dance)",
+        "pt": "Módulo Automático (Dança do Martelo da Morte)",
+        "es": "Módulo Automático (Death Hammer Dance)"
     },
     "tdrLBw": {
-        "en": "Automatic Module (Death Hammer Dance)",
-        "pt": "Módulo Automático (Míssil de Granada e Labareda)",
-        "es": "Módulo automático (Danza del martillo de la muerte)"
+        "ko": "오토매틱 모듈(파이어 하울링 테일)",
+        "en": "Automatic Module (Fire Howling Tail)",
+        "pt": "Módulo Automático (Cauda do Uivo de Fogo)",
+        "es": "Módulo Automático (Fire Howling Tail)"
     },
     "ttrLBw": {
-        "en": "Automatic Module (Fire Howling Tail)",
-        "pt": "Módulo Automático (Rajada de Tiros Expurgantes)",
-        "es": "Módulo automático (Cola de aullido de fuego)"
+        "ko": "오토매틱 모듈(스톰 버스터 트립)",
+        "en": "Automatic Module (Storm Buster Trip)",
+        "pt": "Módulo Automático (Explosão Tempestuosa)",
+        "es": "Módulo Automático (Storm Buster Trip)"
     },
     "t9rLBw": {
-        "en": "Automatic Module (Storm Buster Trip)",
-        "pt": "Módulo Automático (Pétalas de Lança e Lâmina)",
-        "es": "Módulo automático (Buster de viaje tormentoso)"
+        "ko": "오토매틱 모듈(화섬풍)",
+        "en": "Automatic Module (Elemental Gale)",
+        "pt": "Módulo Automático (Vendaval Elemental)",
+        "es": "Módulo Automático (Elemental Gale)"
     },
     "uNrLBw": {
-        "en": "Automatic Module (Petal Spear Blade)",
-        "pt": "Módulo Automático (Impacto Cruzado)",
-        "es": "Módulo automático (Espada con hojas de pétalos)"
+        "ko": "오토매틱 모듈(십자베기)",
+        "en": "Automatic Module (Cross Slash)",
+        "pt": "Módulo Automático (Corte Cruzado)",
+        "es": "Módulo Automático (Cross Slash)"
     },
     "udrLBw": {
-        "en": "Automatic Module (Cross Slash)",
-        "pt": "Módulo Automático (Brisa do Grande Dragão)",
-        "es": "Módulo automático (Tajo cruzado)"
+        "ko": "오토매틱 모듈(염락풍)",
+        "en": "Automatic Module (Frostfire Tempest)",
+        "pt": "Módulo Automático (Tempestade de Gelo e Fogo)",
+        "es": "Módulo Automático (Frostfire Tempest)"
     },
     "utrLBw": {
-        "en": "Automatic Module (Dragon Draft Wind)",
-        "pt": "Módulo Automático (Poder das Marés)",
-        "es": "Módulo automático (Ráfaga de viento del dragón)"
+        "ko": "오토매틱 모듈(바다의 힘)",
+        "en": "Automatic Module (Power of the Sea)",
+        "pt": "Módulo Automático (Poder do Mar)",
+        "es": "Módulo Automático (Power of the Sea)"
     },
     "u9rLBw": {
-        "en": "Automatic Module (Power of Sea)",
-        "pt": "Módulo Automático (Poder da Selva)",
-        "es": "Módulo automático (Poder de océano)"
+        "ko": "오토매틱 모듈(대지의 힘)",
+        "en": "Automatic Module (Power of Gaia)",
+        "pt": "Módulo Automático (Poder de Gaia)",
+        "es": "Módulo Automático (Power of Gaia)"
     },
     "vNrLBw": {
-        "en": "Automatic Module (Power of Land)",
-        "pt": "Módulo Automático (Poder da Fauna)",
-        "es": "Módulo automático (Fuerza de tierra)"
+        "ko": "오토매틱 모듈(생명의 힘)",
+        "en": "Automatic Module (Power of Life)",
+        "pt": "Módulo Automático (Poder da Vida)",
+        "es": "Módulo Automático (Power of Life)"
     },
     "vdrLBw": {
-        "en": "Automatic Module (Power of Life)",
-        "pt": "[Ryza]\nVocê deve ter o Módulo correspondente para continuar com o processo de refinamento.",
-        "es": "Módulo automático (Poder de vida)"
+        "ko": "[라이자]\n효능과 일치하는 모듈을 소지하셔야 강화를 진행 할 수 있습니다.",
+        "en": "[Liza]\nYou must possess a module that matches the effect in order to proceed with the enhancement.",
+        "pt": "[Liza]\nVocê precisa possuir um módulo que corresponda ao efeito para prosseguir com o aprimoramento.",
+        "es": "[Liza]\nPara poder mejorar, debe tener un módulo que coincida con el efecto."
     },
     "vtrLBw": {
-        "en": "[Ryza]\nYou must have the matching Module to continue with the refining process.",
-        "pt": "[Ryza]\nNão consigo prosseguir normalmente. Fale com meu administrador.",
-        "es": "[Ryza]\nDebes tener el módulo correspondiente para continuar con el proceso de refinado."
+        "ko": "[라이자]\n정상적인 진행이 불가능한 상황입니다. 관리자를 찾으셔야 할 것 같군요.",
+        "en": "[Liza]\nNormal progression is not possible. It seems you must contact an administrator.",
+        "pt": "[Liza]\nNão é possível prosseguir normalmente. Parece que você deverá procurar um administrador.",
+        "es": "[Liza]\nNo es posible continuar con normalidad. Parece que debe buscar a un administrador."
     },
     "v9rLBw": {
-        "en": "[Ryza]\nI'm unable to proceed normally. Please talk to my administrator.",
-        "pt": "[Ryza]\nTem certeza de que equipou o item?",
-        "es": "[Ryza]\nNo puedo proceder con normalidad. Por favor, habla con mi administrador."
+        "ko": "[라이자]\n장비를 벗고 계신건 아닌가요?",
+        "en": "[Liza]\nAre you not currently unequipped?",
+        "pt": "[Liza]\nVocê não está sem equipamento, está?",
+        "es": "[Liza]\n¿No se habrá quitado el equipo?"
     },
     "wNrLBw": {
-        "en": "[Ryza]\nAre you sure you're equipped with the item?",
-        "pt": "^FF0000Opções aleatórias detectadas. Este equipamento não pode ser usado.^000000",
-        "es": "[Ryza]\n¿Realmente tienes el objeto?"
+        "ko": "^FF0000랜덤옵션이 확인됩니다. 해당 장비는 작업 하실 수 없습니다.^000000",
+        "en": "^FF0000Random options detected. This equipment cannot be modified.^000000",
+        "pt": "^FF0000Opções aleatórias foram detectadas. Não é possível realizar o processo neste equipamento.^000000",
+        "es": "^FF0000Se ha detectado una opción aleatoria. No se puede trabajar con este equipo.^000000"
     },
     "wdrLBw": {
-        "en": "^FF0000Random options detected. This equipment can't be used.^000000",
-        "pt": "[Ryza]\nJá está equipado com um Módulo Lendário. Não pode ser equipado com mais nenhum Módulo Lendário.",
-        "es": "^660000Se detectaron opciones aleatorias. Este equipamiento no se puede utilizar.^000000"
+        "ko": "[라이자]\n이미 레전드급 모듈을 장착 하셨었군요. 더 이상의 레전드급 모듈 장착은 불가능합니다",
+        "en": "[Liza]\nYou have already equipped a Legend-grade module. Additional Legend-grade modules cannot be installed.",
+        "pt": "[Liza]\nVocê já equipou um módulo de grau Lendário. Não é possível equipar mais módulos de grau Lendário.",
+        "es": "[Liza]\nYa ha equipado un módulo de grado Leyenda. No es posible equipar más módulos de grado Leyenda."
     },
     "wtrLBw": {
-        "en": "[Ryza]\nIt's already equipped with a Legendary Module. It can't be equipped with any more Legendary Modules.",
-        "pt": "[Ryza]\nO equipamento e o Módulo que você escolheu não são compatíveis. Verifique novamente.",
-        "es": "[Ryza]\nYa está equipado con un Módulo legendario. No se puede equipar con más Módulos legendarios."
+        "ko": "[라이자]\n선택하신 장비와 모듈이 서로 호환되지 않는 상태입니다. 장비와 모듈을 다시 확인해주십시오.",
+        "en": "[Liza]\nThe selected equipment and module are not compatible. Please verify the equipment and module again.",
+        "pt": "[Liza]\nO equipamento selecionado e o módulo não são compatíveis. Verifique novamente o equipamento e o módulo.",
+        "es": "[Liza]\nEl equipo seleccionado y el módulo no son compatibles. Compruebe de nuevo el equipo y el módulo."
     },
     "w9rLBw": {
-        "en": "[Ryza]\nThe equipment and Module you chose are not compatible. Please check again.",
-        "pt": "[Ryza]\nEsse Módulo só pode ser usado se o equipamento nunca tiver sido equipado com Módulos antes. Use um módulo diferente.",
-        "es": "[Ryza]\nEl equipamiento y el módulo elegidos no son compatibles. Verifica de nuevo."
+        "ko": "[라이자]\n이 모듈은 첫 강화 시에만 사용 가능합니다. 유감스럽게도 해당장비는 이미 다른 효능을 부여받으셨군요. 다른 모듈을 이용하여 강화해 주십시오.",
+        "en": "[Liza]\nThis module can only be used for the first enhancement. Unfortunately, this equipment has already been granted a different effect. Please use another module to enhance it.",
+        "pt": "[Liza]\nEste módulo só pode ser usado no primeiro aprimoramento. Infelizmente, este equipamento já recebeu outro efeito. Aprimore usando outro módulo.",
+        "es": "[Liza]\nEste módulo solo se puede usar en la primera mejora. Por desgracia, este equipo ya ha recibido otro efecto. Mejore usando otro módulo."
     },
     "xNrLBw": {
-        "en": "[Ryza]\nThis Module can only be used if the equipment never had Modules added to it before. Please use a different Module.",
-        "pt": "[Ryza]\nOs atributos desse Módulo podem ser estendidos até {} vezes, e já foram estendidos até o limite máximo.",
-        "es": "[Ryza]\nEste módulo solo se puede usar si nunca se agregaron módulos al equipamiento. Usa otro módulo."
+        "ko": "[라이자]\n이 모듈의 능력치는 {0}번 까지 확장 가능합니다. 이미 확장 한계치까지 작업이 된 것 같군요",
+        "en": "[Liza]\nThe attributes of this module can be expanded up to {0} times. It appears the expansion limit has already been reached.",
+        "pt": "[Liza]\nOs atributos deste módulo podem ser estendidos até {0}. Parece que já foi estendido até o limite.",
+        "es": "[Liza]\nLos atributos de este módulo pueden ampliarse hasta {0}. Parece que ya se ha alcanzado el límite de ampliación."
     },
     "xdrLBw": {
-        "en": "[Ryza]\nThis Module's stats can be extended up to {} times, and they already have been extended to the max limit.",
-        "pt": "[Ryza]\nO equipamento selecionado já foi ampliado até o limite máximo.",
-        "es": "[Ryza]\nLas estadísticas de este módulo pueden ampliarse hasta {}veces, y ya se ampliaron hasta el límite máximo."
+        "ko": "[라이자]\n강화하시려는 장비가 이미 확장 한계치까지 작업이 된 것 같군요",
+        "en": "[Liza]\nThe equipment you are attempting to enhance appears to have already reached its expansion limit.",
+        "pt": "[Liza]\nParece que o equipamento que você deseja aprimorar já foi estendido até o limite.",
+        "es": "[Liza]\nParece que el equipo que desea mejorar ya se ha trabajado hasta el límite de ampliación."
     },
     "xtrLBw": {
-        "en": "[Ryza]\nThe selected equipment has already been extended to the max limit.",
-        "pt": "[Ryza]\nObserve que desequipar o equipamento durante o processo pode causar erros.",
-        "es": "[Ryza]\nEl equipamiento seleccionado ya se amplió hasta el límite máximo."
+        "ko": "[라이자]\n작업중에 장비를 장착해제 하시면 오류가 발생할 수 있습니다. 주의하십시오.",
+        "en": "[Liza]\nIf you unequip the equipment during the process, an error may occur. Please exercise caution.",
+        "pt": "[Liza]\nSe você desequipar o item durante o processo, pode ocorrer um erro. Tenha cuidado.",
+        "es": "[Liza]\nSi se desequipa el equipo durante el proceso, puede producirse un error. Tenga cuidado."
     },
     "x9rLBw": {
-        "en": "[Ryza]\nPlease note that unequipping the equipment midway can cause errors.",
-        "pt": "Armadura Automática A",
-        "es": "[Ryza]\nTen en cuenta que si eliminas algún equipamiento a mitad del proceso se pueden generar errores."
+        "ko": "오토매틱 아머 A타입",
+        "en": "Automatic Armor Type A",
+        "pt": "Armadura Automática Tipo A",
+        "es": "Armadura Automática Tipo A"
     },
     "yNrLBw": {
-        "en": "Automatic Armor Type A",
-        "pt": "Armadura Automática B",
-        "es": "Armadura automática tipoA"
+        "ko": "오토매틱 아머 B타입",
+        "en": "Automatic Armor Type B",
+        "pt": "Armadura Automática Tipo B",
+        "es": "Armadura Automática Tipo B"
     },
     "ydrLBw": {
-        "en": "Automatic Armor Type B",
-        "pt": "Motor Automático A",
-        "es": "Armadura automática tipoB"
+        "ko": "오토매틱 엔진윙 A타입",
+        "en": "Automatic Engine Wing Type A",
+        "pt": "Asa Motor Automática Tipo A",
+        "es": "Ala de Motor Automática Tipo A"
     },
     "ytrLBw": {
-        "en": "Automatic Engine Wing Type A",
-        "pt": "Motor Automático B",
-        "es": "Ala de motor automático tipoA"
+        "ko": "오토매틱 엔진윙 B타입",
+        "en": "Automatic Engine Wing Type B",
+        "pt": "Asa Motor Automática Tipo B",
+        "es": "Ala de Motor Automática Tipo B"
     },
     "y9rLBw": {
-        "en": "Automatic Engine Wing Type B",
-        "pt": "Perna Automática A",
-        "es": "Ala de motor automático tipoB"
+        "ko": "오토매틱 레그 A타입",
+        "en": "Automatic Leg Type A",
+        "pt": "Perna Automática Tipo A",
+        "es": "Pierna Automática Tipo A"
     },
     "zNrLBw": {
-        "en": "Automatic Leg Type A",
-        "pt": "Perna Automática B",
-        "es": "Pierna automática tipoA"
+        "ko": "오토매틱 레그 B타입",
+        "en": "Automatic Leg Type B",
+        "pt": "Perna Automática Tipo B",
+        "es": "Pierna Automática Tipo B"
     },
     "zdrLBw": {
-        "en": "Automatic Leg Type B",
-        "pt": "Turbina Automática D",
-        "es": "Pierna automática tipoB"
+        "ko": "오토매틱 부스터R",
+        "en": "Automatic Booster R",
+        "pt": "Propulsor Automático R",
+        "es": "Impulsor Automático R"
     },
     "ztrLBw": {
-        "en": "Automatic Booster R",
-        "pt": "Turbina Automática E",
-        "es": "Potenciador automáticoD"
+        "ko": "오토매틱 부스터L",
+        "en": "Automatic Booster L",
+        "pt": "Propulsor Automático L",
+        "es": "Impulsor Automático L"
     },
     "z9rLBw": {
-        "en": "Automatic Booster L",
-        "pt": "Chip de Batalha Automático D",
-        "es": "Potenciador automáticoI"
+        "ko": "오토매틱 배틀칩R",
+        "en": "Automatic Battle Chip R",
+        "pt": "Battlechip Automático R",
+        "es": "Chip de Batalla Automático R"
     },
     "0NrLBw": {
-        "en": "Automatic Battle Chip R",
-        "pt": "Chip de Batalha Automático E",
-        "es": "Chip de batalla automáticoD"
+        "ko": "오토매틱 배틀칩L",
+        "en": "Automatic Battle Chip L",
+        "pt": "Battlechip Automático L",
+        "es": "Chip de Batalla Automático L"
     },
     "0drLBw": {
-        "en": "Automatic Battle Chip L",
-        "pt": "[Ryza]\nO equipamento que você deseja refinar não tem um número de série. Lamentamos, mas não podemos refinar produtos fora do padrão.",
-        "es": "Chip de batalla automáticoI"
+        "ko": "[라이자]\n강화하시려는 장착한 제품에 시리얼넘버가 없습니다. 규격 외 상품이므로 강화를 해 드릴 수 없습니다.",
+        "en": "[Liza]\nThe equipped item you are attempting to enhance does not have a serial number. As it is a non-standard product, enhancement cannot be performed.",
+        "pt": "[Liza]\nO item equipado que você deseja aprimorar não possui número de série. Por ser um produto fora do padrão, não posso aprimorá-lo.",
+        "es": "[Liza]\nEl equipo que lleva puesto no tiene número de serie. Al ser un producto fuera de especificación, no puedo mejorarlo."
     },
     "0trLBw": {
-        "en": "[Ryza]\nThe equipment that you want to refine does not have a serial number. We're sorry, but we can't refine non-standard products.",
-        "pt": "[Ryza]^0000CD\n + enc_ts2+{} selecionado.\n^000000---------------------\nVocê pode utilizar o esquema selecionado para refinar seu equipamento até ^0000CD{} vezes^000000. Até agora, seu equipamento foi refinado ^0000CD + {} vezes^000000. Você deseja continuar?",
-        "es": "[Ryza]\nEl equipamiento que quieres refinar no tiene número de serie. Disculpa, no es posible refinar productos que no sean estándar."
+        "ko": "[라이자]^0000FF\n{0} + {1} 선택\n^000000------------------\n선택하신 도면은 해당 장비에 최대 ^0000FF{2} 회 까지 동일한 도면으로 업그레이드 가능^000000하며 현재 ^0000FF{3} 회^000000 강화되어 있습니다. 계속 진행 하시겠습니까?",
+        "en": "[Liza]^0000FF\n{0} + {1} Selection\n^000000------------------\nThe selected blueprint can be upgraded with the same blueprint up to ^0000FF{2} times^000000 for this equipment, and it has currently been enhanced ^0000FF{3} times^000000. Would you like to continue?",
+        "pt": "[Liza]^0000FF\nSelecionar {0} + {1}\n^000000------------------\nO projeto selecionado permite aprimorar este equipamento com o mesmo projeto até ^0000FF{2} vezes^000000, e atualmente ele foi aprimorado ^0000FF{3} vezes^000000. Deseja continuar?",
+        "es": "[Liza]^0000FF\nSelección de {0} + {1}\n^000000------------------\nEl plano seleccionado puede mejorarse con el mismo plano hasta un máximo de ^0000FF{2} veces^000000 para este equipo, y actualmente se ha mejorado ^0000FF{3} veces^000000. ¿Desea continuar?"
     },
     "09rLBw": {
-        "en": "[Ryza]^0000FF\n{} + {} selected.\n^000000------------------\nYou can use the selected schematics to refine your equipment up to ^0000FF{} times^000000. So far, your equipment has been refined ^0000FF{} times^000000. Would you like to continue?",
-        "pt": "Deixe-me pensar...",
-        "es": "[Ryza]^FF0000\nSeleccionaste {}+{}.\n^000000------------------\nPuedes utilizar los esquemas seleccionados para refinar tu equipamiento hasta ^FF0000{}veces^000000. Hasta ahora, tu equipamiento se refinó ^FF0000{}veces^000000. ¿Quieres continuar?"
+        "ko": "생각 좀 더 해보고...",
+        "en": "I need more time to think...",
+        "pt": "Vou pensar um pouco mais...",
+        "es": "Lo pensaré un poco más..."
     },
     "1NrLBw": {
-        "en": "Let me think...",
-        "pt": "Continuar.",
-        "es": "Déjame pensarlo…"
+        "ko": "진행한다",
+        "en": "Proceed",
+        "pt": "Prosseguir",
+        "es": "Continuar"
     },
     "1drLBw": {
-        "en": "Continue.",
-        "pt": "st",
-        "es": "Continuar."
+        "ko": "[라이자]\n선택하신 장비는 이미 확장 한계치까지 작업이 된 것 같군요",
+        "en": "[Liza]\nThe selected equipment appears to have already reached its expansion limit.",
+        "pt": "[Liza]\nParece que o equipamento selecionado já foi estendido até o limite.",
+        "es": "[Liza]\nParece que el equipo seleccionado ya se ha trabajado hasta el límite de ampliación."
     },
     "1trLBw": {
-        "en": "st",
-        "pt": "nd",
-        "es": "st"
+        "ko": "[라이자]\n장비의 ^990000{0}번째 ^000000업그레이드를 시도합니다.",
+        "en": "[Liza]\nAttempting the ^990000{0}th ^000000upgrade of the equipment.",
+        "pt": "[Liza]\nTentando o ^990000{0}º ^000000aprimoramento do equipamento.",
+        "es": "[Liza]\nIntentando la ^990000{0}.ª ^000000mejora del equipo."
     },
     "19rLBw": {
-        "en": "nd",
-        "pt": "rd",
-        "es": "nd"
-    },
-    "2NrLBw": {
-        "en": "rd",
-        "pt": "[Ryza]\nTentando melhorar o equipamento pela ^000077{} + {} vez^000000.",
-        "es": "rd"
-    },
-    "2drLBw": {
-        "en": "[Ryza]\nTrying to upgrade the equipment for the ^990000{} time^000000.",
-        "pt": "[Ryza]\nTentando adicionar o ^000077efeito bônus^000000 ao equipamento.",
-        "es": "[Ryza]\nEstoy intentando realizar la mejora número^0000FF{}^000000del equipamiento."
-    },
-    "2trLBw": {
-        "en": "[Ryza]\nTrying to add the ^990000bonus effect^000000 to the equipment.",
-        "es": "[Ryza]\nEstoy intentando añadir el ^0000FFefecto de bonificación^000000 al equipamiento."
+        "ko": "[라이자]\n장비의 ^990000 보너스 효능 ^000000업그레이드를 시도합니다.",
+        "en": "[Liza]\nAttempting the ^990000 bonus effect ^000000upgrade of the equipment.",
+        "pt": "[Liza]\nTentando o ^990000 bônus de efeito ^000000aprimoramento do equipamento.",
+        "es": "[Liza]\nIntentando la mejora de ^990000 efecto adicional ^000000del equipo."
     }
 }

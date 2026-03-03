@@ -7496,8 +7496,8 @@
     },
     "e4wB": {
         "en": "Blue Unicorn",
-        "pt": "Unicórnio",
-        "es": "(null)"
+        "pt": "Unicórnio azul",
+        "es": "Unicornio azul"
     },
     "fIwB": {
         "en": "Skelion",
@@ -13291,7 +13291,62 @@
     },
     "ApEB": {
         "en": "Carnival Poring",
-        "pt": "Poring de Carnaval",
+        "pt": "Poring Carnavalesco",
         "es": "Poring de Carnaval"
+    },
+    "A5EB": {
+        "en": "Galarin",
+        "pt": "Galarin",
+        "es": "Galarin"
+    },
+    "BJEB": {
+        "en": "Enhanced Galarin",
+        "pt": "Galarin Aprimorado",
+        "es": "Galarin Mejorado"
+    },
+    "BZEB": {
+        "en": "Beast Galarin",
+        "pt": "Galarin Bestial",
+        "es": "Galarin Bestial"
+    },
+    "BpEB": {
+        "en": "Squid Bomb",
+        "pt": "Lula-explosiva",
+        "es": "Calamar Explosivo"
+    },
+    "B5EB": {
+        "en": "Enhanced Squid Bomb",
+        "pt": "Lula-explosiva Aprimorada",
+        "es": "Calamar Explosivo Reforzado"
+    },
+    "CJEB": {
+        "en": "Abyss Man",
+        "pt": "Homem do Abismo",
+        "es": "Abyss Man"
+    },
+    "CZEB": {
+        "en": "Jewaliant",
+        "pt": "Geodoliant",
+        "es": "Jungoliant"
+    },
+    "CpEB": {
+        "en": "Galaring",
+        "pt": "Galaring",
+        "es": "Galaring"
+    },
+    "C5EB": {
+        "en": "Enhanced Galaring",
+        "pt": "Galaring Aprimorado",
+        "es": "Galaring Reforzado"
+    },
+    "DJEB": {
+        "en": "Beast Galaring",
+        "pt": "Galaring Bestial",
+        "es": "Galaring Bestial"
+    },
+    "DZEB": {
+        "en": "Unicorn",
+        "pt": "Unicórnio",
+        "es": "Unicornio"
     }
 }

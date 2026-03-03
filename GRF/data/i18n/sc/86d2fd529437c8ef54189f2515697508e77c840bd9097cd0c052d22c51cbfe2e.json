@@ -51,7 +51,7 @@
         "ko": "[마당이]\n저 인간이 우리 가게에서 먹은 음식값만 2만제니가 넘었소. 외상도 정도껏 해야지!",
         "en": "[Madangi]\nThat man ran up a food bill of over 20,000 zeny at our shop. There's a limit to how much you can put on credit!",
         "pt": "[Empregado]\nSó o almoço daquele cara custou 20.000 zeny! Meu trabalho deve ser pago!",
-        "es": "[Trabajador]\n¡Solo el almuerzo de ese tipo costó 20.000 zeny! \n¡Mi trabajo debe ser pagado!"
+        "es": "[Trabajador]\nEse hombre acumuló una factura de comida de más de 20 000 zeny en nuestra taberna.\n¡Mi trabajo debe ser pagado!"
     },
     "6TcTBw": {
         "ko": "돈 갖고있긴 한거야? 없으면 노동이라도 해야할거야.",
@@ -189,7 +189,7 @@
         "ko": "[마당이]\n시끄럽네~ 도망치려는 수작이 뻔히 보이는데 관아에 넘기기전에 얌전히 따라오슈",
         "en": "[Madangi]\nIt's noisy~ I can clearly see you trying to run, so come along quietly before I hand you over to the magistrate's office.",
         "pt": "[Empregado]\nEntão~ Vamos conversar na Pousada ao invés de falar com os guardas.",
-        "es": "[Trabajador]\nEntonces~ \nVamos a hablar en la Posada en lugar de hablar con los guardias."
+        "es": "[Trabajador]\nEntonces~ \nVamos a hablar en la Taberna en lugar de hablar con los guardias."
     },
     "ADgTBw": {
         "ko": "[반약]\n하... 지금 제가 대화할 상황이 아니니 좀 비켜주시겠어요?",
@@ -447,7 +447,7 @@
         "ko": "주막 일꾼들이 훔친거라고?",
         "en": "You mean the tavern workers stole it?",
         "pt": "Os donos da Pousada?",
-        "es": "¿Los dueños de la Posada?"
+        "es": "¿Los dueños de la Taberna?"
     },
     "KzgTBw": {
         "ko": "[꼬맹이]\n아궁이는 수면약을 음식에 타고 뒤뜰이는 망을 봤는데... 저 언니 누가 도와줘야하는데...",
@@ -471,7 +471,7 @@
         "ko": "[꼬맹이]\n안되는데!... 저 언니 도와줘야하는데!!...",
         "en": "[Kid]\nNo way!... I have to help that lady!!...",
         "pt": "[Garotinha]\nPoxa!... Eu preciso ajudar minha irmã!!...",
-        "es": "[Niñita]\n¡Vaya!... ¡¡Necesito ayudar a mi hermana!!..."
+        "es": "[Niñita]\n¡Vaya!... \n¡¡Necesito ayudar a mi hermana!!..."
     },
     "LzgTBw": {
         "ko": "[꼬맹이]\n내가 봤는데... 원하면 안내해 줄 수 있는데...",
@@ -543,7 +543,7 @@
         "ko": "[주막이]\n으...으으으으!! 그만둬!",
         "en": "[Tavern Keeper]\nUgh... uuuugh!! Stop it!",
         "pt": "[Taverneiro]\nAaaaaaaah!! Pare com isso!",
-        "es": "[Tabernero]\n¡¡Aaaaaaaah!! ¡Para con eso!"
+        "es": "[Tabernero]\n¡¡Aaaaaaaah!!\n¡Para con eso!"
     },
     "OzgTBw": {
         "ko": "[반약]\n이 초혼선은 저항하는 영혼을 조금씩 갉아먹는다. 한마디로 네놈의 생명줄이 지금도 야금야금 줄어들고 있는 셈이지.",
@@ -639,7 +639,7 @@
         "ko": "[반약]\n아, 실례되는 이야기였나요?",
         "en": "[Banyak]\nAh, was that an inappropriate thing to say?",
         "pt": "[Banyak]\nOh... Você ficou com medo de mim?",
-        "es": "[Banyak]\nOh... ¿Te asustaste de mí?"
+        "es": "[Banyak]\nOh... \n¿Te asustaste de mí?"
     },
     "SzgTBw": {
         "ko": "아닙니다.",
@@ -747,7 +747,7 @@
         "ko": "[야엉이]\n바보 아니면 알수있는데! 주막 일꾼들이 훔친 봇짐을 여기다 묻어둔건데!",
         "en": "[Ya-eong-i]\nAnyone but a fool can tell! The tavern workers buried the bundle they stole right here!",
         "pt": "[Munchkin]\nTu é burro ou se faz? Foram os trabalhadores da Pousada que enterraram as bolsas roubadas aqui!",
-        "es": "[Munchkin]\n¿Eres tonto o te haces? \n¡Fueron los trabajadores de la Posada quienes enterraron las bolsas robadas aquí!"
+        "es": "[Munchkin]\n¿Eres tonto o te haces? \n¡Fueron los trabajadores de la Taberna quienes enterraron las bolsas robadas aquí!"
     },
     "XTgTBw": {
         "ko": "[야엉이]\n그 인간들이 반약 언니를 함정에 빠뜨린건데...",
@@ -921,7 +921,7 @@
         "ko": "[야엉이]\n인간... 해줘야할게 있는데... 나는 차마 이 일을 할 수가 없는데...",
         "en": "[Ya-eong-i]\nHuman... there is something you must do... but I cannot bring myself to do it...",
         "pt": "[Munchkin]\nHumanoide... Eu preciso fazer algo... Eu não consigo fazer isso nesse corpo...",
-        "es": "[Munchkin]\nHumanoide... \nNecesito hacer algo... \nNo puedo hacerlo en este cuerpo..."
+        "es": "[Munchkin]\nHumano... \nNecesito hacer algo... \nNo puedo hacerlo en este cuerpo..."
     },
     "ejgTBw": {
         "ko": "이 친구가 뭐라는겁니까?",
@@ -1173,7 +1173,7 @@
         "ko": "[반약]\n영혼의 입구를 먼저 생성한 뒤 초혼대법을 시작하면 됩니다.",
         "en": "[Banyak]\nFirst, create the entrance for the soul, then begin the Soul-calling Ritual.",
         "pt": "[Banyak]\nAbra o portal, entre na fila e aguarde o chamado.",
-        "es": "[Banyak]\nPrimero, crea la entrada para el alma, luego comienza el Ritual de invocación del Alma."
+        "es": "[Banyak]\nPrimero, crea la entrada al alma y luego comenzamos el Ritual de Invocación del Alma."
     },
     "pDgTBw": {
         "ko": "영혼의 입구 생성",

@@ -16,13 +16,13 @@
     },
     "w/TAAg": {
         "en": "Summon a job change agent for job change.",
-        "pt": "[Gatuna Ajudante]\nNão tenha pressa e aprenda todas as Habilidades Básicas, tá bom?\nEntão, até depois~!",
-        "es": "[Miembro del gremio de Ladrones]\nTómate tu tiempo y aprende todas las habilidades básicas, ¿quieres?\n¡Bueno, hasta luego!"
+        "pt": "[Gatuna Ajudante] Não tenha pressa e aprenda todas as Habilidades Básicas, tá bom? Então, até depois~!",
+        "es": "[Miembro del gremio de Ladrones] Tómate tu tiempo y aprende todas las habilidades básicas, ¿quieres? ¡Bueno, hasta luego!"
     },
     "xPTAAg": {
         "en": "Decline.",
-        "pt": "[Gatuna Ajudante]\nBem, tenho a sensação de que você já passou por uma vida inteira de luta, por isso estou mudando sua classe agora.\nParabéns...!",
-        "es": "[Miembro del gremio de Ladrones]\nVaya, tengo la sensación de que llevas toda una vida luchando, así que te ascenderé a Ladrón ahora mismo.\nSi has luchado tanto como parece, mejor te doy lo que quieres…"
+        "pt": "[Gatuna Ajudante] Bem, tenho a sensação de que você já passou por uma vida inteira de luta, por isso estou mudando sua classe agora. Parabéns...!",
+        "es": "[Miembro del gremio de Ladrones] Vaya, tengo la sensación de que llevas toda una vida luchando, así que te ascenderé a Ladrón ahora mismo. Si has luchado tanto como parece, mejor te doy lo que quieres…"
     },
     "xfTAAg": {
         "en": "^4D4DFF Booster promotion eligible players can change jobs through the job change agent.\nThird job change can also be done at each job guild.^000000",
@@ -413,5 +413,23 @@
         "en": "...............",
         "pt": "[Chefe dos Gatunos]\nQuando entrar na Pirâmide, haverá uma placa com direções. Clique para ativar a navegação!",
         "es": "[Persona sospechosa]\nPuedes obtener más información en la Sala subterránea de la Pirámide 1 BF."
+    },
+    "E/XAAg": {
+        "en": "[Thief Guild Member]\nHuh? Do I know you? It's creepy that you seem so familiar.\nYou don't have a twin, do you?"
+    },
+    "FPXAAg": {
+        "en": "[Thief Guild Member]\nWhat, do you want to be a Thief?\nI'm sorry, but you look like you need more training."
+    },
+    "FfXAAg": {
+        "en": "[Thief Guild Member]\nTake your time and learn all the Basic Skills, will you?\nWell then, see you later~!"
+    },
+    "FvXAAg": {
+        "en": "[Thief Guild Member]\nWell, I got this feeling like you've been through a lifetime of fighting, so I'm promoting you to a Thief right this minute.\nI better give you tough guys what you want..."
+    },
+    "F/XAAg": {
+        "en": "[Thief Guild Member]\nSince you've become a Thief, live as a Thief.\nNow, go for it! Next~"
+    },
+    "GPXAAg": {
+        "en": "[Suspicious Person]\nYou can get more information in the Underground Room in the Pyramid 1 BF."
     }
 }

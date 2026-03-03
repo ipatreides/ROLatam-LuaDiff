@@ -4190,16 +4190,13 @@ StateIconList[EFST_IDs.EFST_AROMA_OIL] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{
-			"Aromatherapy Oil",
-			COLOR_TITLE_BUFF
-		},
+		{"Aroma Oil", COLOR_TITLE_BUFF},
 		{"%s", COLOR_TIME},
 		{
-			"Physical/Magic damage -10%"
+			"Reduces Physical/Magical damage received"
 		},
 		{
-			"from Large Meditatio Bath Dungeon monsters"
+			"from Great Bath Meditatio dungeon monsters by 10%."
 		}
 	}
 }
@@ -4625,15 +4622,15 @@ StateIconList[EFST_IDs.EFST_BATH_FOAM_C] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Bath Salt C",
+			"Bath Additive C",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Physical/Magic damage +15%"
+			"Increases Physical/Magical damage dealt"
 		},
 		{
-			"on Large Meditatio Bath Dungeon monsters"
+			"to Great Bath Meditatio dungeon monsters by 15%."
 		}
 	}
 }
@@ -4642,15 +4639,15 @@ StateIconList[EFST_IDs.EFST_BATH_FOAM_B] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Bath Salt B",
+			"Bath Additive B",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Physical/Magic damage +10%"
+			"Increases Physical/Magical damage dealt"
 		},
 		{
-			"on Large Meditatio Bath Dungeon monsters"
+			"to Great Bath Meditatio dungeon monsters by 10%."
 		}
 	}
 }
@@ -4862,15 +4859,15 @@ StateIconList[EFST_IDs.EFST_BATH_FOAM_A] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Bath Salt A",
+			"Bath Additive A",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Physical/Magic damage +5%"
+			"Increases Physical/Magical damage dealt"
 		},
 		{
-			"on Large Meditatio Bath Dungeon monsters"
+			"to Great Bath Meditatio dungeon monsters by 5%."
 		}
 	}
 }
@@ -5131,11 +5128,11 @@ StateIconList[EFST_IDs.EFST_GIANTGROWTH] = {
 StateIconList[EFST_IDs.EFST_LOCKON_LASER] = {
 	descript = {
 		{
-			"Selects bombing location",
+			"Set Bombardment Point",
 			COLOR_TITLE_DEBUFF
 		},
 		{
-			"Periodically selects a bombing location."
+			"Creates a bombardment attack point at regular intervals."
 		}
 	}
 }
@@ -7752,6 +7749,78 @@ StateIconList[EFST_IDs.EFST_OVERSEA_BUFF_31] = {
 		},
 		{
 			"Reduces Global Cooldown"
+		}
+	}
+}
+StateIconList[EFST_IDs.EFST_C_BUFF_3] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 4,
+	descript = {
+		{
+			"Resistant Feather",
+			COLOR_TITLE_BUFF
+		},
+		{"MHP + 5%"},
+		{"MSP + 5%"},
+		{"%s", COLOR_TIME}
+	}
+}
+StateIconList[EFST_IDs.EFST_C_BUFF_4] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 4,
+	descript = {
+		{
+			"Light Feather",
+			COLOR_TITLE_BUFF
+		},
+		{"FLEE + 25"},
+		{"HIT + 25"},
+		{"%s", COLOR_TIME}
+	}
+}
+StateIconList[EFST_IDs.EFST_C_BUFF_5] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 4,
+	descript = {
+		{
+			"Glamourous Feather",
+			COLOR_TITLE_BUFF
+		},
+		{"CRI + 10"},
+		{"ASPD + 1"},
+		{"%s", COLOR_TIME}
+	}
+}
+StateIconList[EFST_IDs.EFST_C_BUFF_6] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 4,
+	descript = {
+		{
+			"Massive Feather",
+			COLOR_TITLE_BUFF
+		},
+		{"ATK + 7%"},
+		{"MATK + 7%"},
+		{"%s", COLOR_TIME}
+	}
+}
+StateIconList[EFST_IDs.EFST_OVERLAPEXPUP2] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{
+			"Malang Island Cat Can2",
+			COLOR_TITLE_BUFF
+		},
+		{"%s", COLOR_TIME},
+		{
+			"When hunting monsters"
+		},
+		{
+			"Exp, JOB exp Increase"
+		},
+		{
+			"Item Drop Increase"
 		}
 	}
 }

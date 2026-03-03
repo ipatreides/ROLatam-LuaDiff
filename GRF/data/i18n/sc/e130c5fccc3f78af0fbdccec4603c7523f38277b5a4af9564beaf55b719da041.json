@@ -1,0 +1,710 @@
+{
+    "wDm4DA": {
+        "ko": "RS26-1",
+        "en": "RS26-1",
+        "pt": "RS26-1",
+        "es": "RS26-1"
+    },
+    "wTm4DA": {
+        "ko": "<부스터 프로모션>",
+        "en": "<Booster Promotion>",
+        "pt": "<Evento de Apoio>",
+        "es": "<Evento de Apoyo>"
+    },
+    "wjm4DA": {
+        "ko": "보유한 물건의 종류가 너무 많은것 같다. 물건의 종류를 줄인뒤에 다시 진행해보자.",
+        "en": "It seems you have too many types of items. Reduce the number of item types and try again.",
+        "pt": "Parece que você tem muitos itens no inventário. Reorganize seu inventário e tente novamente.",
+        "es": "Parece que tienes demasiados artículos en el inventario. Reorganiza tu inventario e inténtalo de nuevo."
+    },
+    "wzm4DA": {
+        "ko": "가진 물건이 너무 무거워 더이상의 진행이 힘들 것 같다. 무게를 줄인 후 다시 도전해보자.",
+        "en": "Your items are too heavy to proceed further. Reduce your weight and try again.",
+        "pt": "Você está acima do peso. Reorganize seu inventário e tente novamente.",
+        "es": "Estás excedido de peso. Reorganiza tu inventario e inténtalo de nuevo."
+    },
+    "xDm4DA": {
+        "ko": "[RS26-1]\n현재 진행 중인 부스터 프로모션 참가자를 위한 서비스입니다.\n에피소드 17.1 의 메인 시나리오를 완료한 프로모션 참가 모험가님들께 일루시온(귀속) 장비의 인챈트를 지원해 드리고 있습니다~",
+        "en": "[RS26-1]\nThis service is for current participants of the Booster Promotion.\nWe are providing enchantment support for [Booster] Illusion Equipment to Promotion participant Adventurers who have completed the Episode 17.1 main scenario~",
+        "pt": "[RS26-1]\nEste serviço é para os participantes atuais do Evento de Apoio.\nEstamos oferecendo serviço de encantamento para os Aventureiros participantes da promoção que concluíram o Episódio 17.1~",
+        "es": "[RS26-1]\nEste servicio es para los participantes actuales del Evento de Apoyo.\nEstamos ofreciendo servicio de encantamiento para los Aventureros participantes de la promoción que completaron el Episodio 17.1~"
+    },
+    "xTm4DA": {
+        "ko": "[RS26-1]\n에피소드 17.1의 메인 시나리오를 완료하고 오시면 일루시온(귀속) 장비의 인챈트를 지원해 드리겠습니다~",
+        "en": "[RS26-1]\nCome to us after completing the main scenario of Episode 17.1, and we will support enchanting your [Booster] Illusion Equipment~",
+        "pt": "[RS26-1]\nVenha até nós após concluir o Episódio 17.1, e daremos suporte para encantar seu [Apoio] Equipamento Ilusión~",
+        "es": "[RS26-1]\nVen a nosotros después de completar el Episodio 17.1, y te apoyaremos para encantar tu [Apoyo] Equipo Ilusión~"
+    },
+    "xjm4DA": {
+        "ko": "[RS26-1]\n{0} 님\n어서오십시오 환영합니다~ 기간 한정으로 특별히 부스터 코인만으로 일루시온(귀속)장비에 원하시는 효능을 부여해드립니다.",
+        "en": "[RS26-1]\nWelcome, {0}~\nFor a limited time only, we will grant your desired effects to [Booster] Illusion Equipment using only Booster Coins.",
+        "pt": "[RS26-1]\nBoas-vindas, {0}~\nPor tempo limitado, concederemos os efeitos desejados ao '[Apoio] Equipamento Ilusión' usando apenas Moedas de Apoio.",
+        "es": "[RS26-1]\nBienvenido, {0}~\nPor tiempo limitado, otorgaremos los efectos deseados al '[Apoyo] Equipo Ilusión' usando solo Monedas de Apoyo."
+    },
+    "xzm4DA": {
+        "ko": "사용 설명서",
+        "en": "User Manual",
+        "pt": "Como usar o serviço?",
+        "es": "¿Cómo usar el servicio?"
+    },
+    "yDm4DA": {
+        "ko": "일루시온 윙 강화",
+        "en": "Enchant Illusion Engine",
+        "pt": "Encantar Motor Ilusión",
+        "es": "Encantar Motor Ilusión"
+    },
+    "yTm4DA": {
+        "ko": "일루시온 아머 강화",
+        "en": "Enchant Illusion Armor",
+        "pt": "Encantar Colete Ilusión",
+        "es": "Encantar Colete Ilusión"
+    },
+    "yjm4DA": {
+        "ko": "일루시온 레그 강화",
+        "en": "Enchant Illusion Leg",
+        "pt": "Encantar Perna Ilusión",
+        "es": "Encantar Pierna Ilusión"
+    },
+    "yzm4DA": {
+        "ko": "일루시온 액세서리(R) 강화",
+        "en": "Enchant Illusion Accessory (R)",
+        "pt": "Encantar Aces. Direito",
+        "es": "Encantar Acc. Derecho"
+    },
+    "zDm4DA": {
+        "ko": "일루시온 액세서리(L) 강화",
+        "en": "Enchant Illusion Accessory (L)",
+        "pt": "Encantar Aces. Esquerdo",
+        "es": "Encantar Acc. Izquierdo"
+    },
+    "zTm4DA": {
+        "ko": "^0000FFRS 코퍼레이션의 놀라운 프로모션 서비스를 받아보세요^000000",
+        "en": "^0000FFExperience the amazing promotion services of RS Corporation^000000",
+        "pt": "^0000FFExperimente os incríveis serviços promocionais da Corporação RS^000000",
+        "es": "^0000FFExperimenta los increíbles servicios promocionales de la Corporación RS^000000"
+    },
+    "zjm4DA": {
+        "ko": "<FONT COLOR = 990000 SIZE = 10>본 RS26-1의 서비스는 정식 상업용 서비스인 RS26의 체험판 서비스이며 RS26의 기본 서비스가 가진 모든 서비스를 제공하지 않습니다.<font>\n<FONT COLOR = 990000 SIZE = 10>야전에서의 성능이나 편의성에 일부 제한이 있을 수 있으며 불법적으로 오브의 개조 변형을 시도할 경우에 발생하는 폭발/사망 사고에 대해 RS 코퍼레이션은 면책됩니다.<font>",
+        "en": "<FONT COLOR = 990000 SIZE = 10>This RS26-1 service is a trial version of the official commercial service RS26 and does not provide all the services of the basic RS26 service.<font>\n<FONT COLOR = 990000 SIZE = 10>Performance and convenience in the field may be partially limited. RS Corporation disclaims liability for explosion/fatal accidents occurring from illegal modification or deformation of Orbs.<font>",
+        "pt": "<FONT COLOR = 990000 SIZE = 10>Este serviço RS26-1 é uma versão de teste do RS26 e não oferece todos os serviços do RS26 original.<font>\n<FONT COLOR = 990000 SIZE = 10>O desempenho pode ser limitado. A Corporação RS isenta-se de responsabilidade por explosões/acidentes fatais decorrentes de modificação ou deformação ilegal dos Módulos.<font>",
+        "es": "<FONT COLOR = 990000 SIZE = 10>Este servicio RS26-1 es una versión de prueba del RS26 y no ofrece todos los servicios del RS26 original.<font>\n<FONT COLOR = 990000 SIZE = 10>El rendimiento puede ser limitado. La Corporación RS no se responsabiliza por explosiones/accidentes fatales derivados de la modificación o deformación ilegal de los Módulos.<font>"
+    },
+    "zzm4DA": {
+        "ko": "1. 본 기기는 레전드급 모듈의 장착을 지원하지 않습니다.\n2. 본 기기에 적용되는 장비로 정식 서비스인 RS26 을 이용할 수 없습니다\n3. 프로모션 코인은 정식 서비스인 RS26 에서 사용 불가능합니다.\n4. 기타 정식 서비스에 적용되는 기능은 본 기기에서 사용불가능 할 수 있습니다.",
+        "en": "1. This device does not support equipping Legend-grade modules.\n2. Equipment applied to this device cannot be used with the official service, RS26.\n3. Promotion Coins cannot be used in the official service, RS26.\n4. Other functions applicable to the official service may not be usable on this device.",
+        "pt": "1. Este dispositivo não suporta Módulos Lendários.\n2. Equipamentos de Apoio não podem ser usados no serviço original, RS26.\n3. Moedas de Apoio não podem ser usadas no serviço original, RS26.\n4. Outras funções aplicáveis ao serviço original podem não ser utilizáveis neste dispositivo.",
+        "es": "1. Este dispositivo no soporta Módulos Legendarios.\n2. Los Equipos de Apoyo no se pueden usar en el servicio original, RS26.\n3. Las Monedas de Apoyo no se pueden usar en el servicio original, RS26.\n4. Otras funciones aplicables al servicio original pueden no estar disponibles en este dispositivo."
+    },
+    "0Dm4DA": {
+        "ko": "프로모션 장비의 강화내용에 약간의 아쉬움이 느껴지시나요?\n<NAVI>[RS26]<INFO>sp_cor,105,134,0,101,0,</INFO></NAVI>\n를 통해 정식 일루시온 장비들의 강화서비스를 받을 수 있습니다.",
+        "en": "Not quite satisfied with the enhancement results of your promotion equipment?\nYou can receive enhancement services for official Illusion equipment via\n<NAVI>[RS26]<INFO>sp_cor,105,134,0,101,0,</INFO></NAVI>.",
+        "pt": "Não está feliz com o encanto do Equipamento Ilusión de Apoio?\nVocê pode encantar os Equipamentos Ilusión originais através do\n<NAVI>[RS26]<INFO>sp_cor,105,134,0,101,0,</INFO></NAVI>.",
+        "es": "¿No estás satisfecho con el encantamiento del Equipo Ilusión de Apoyo?\nPuedes encantar los Equipos Ilusión originales a través de\n<NAVI>[RS26]<INFO>sp_cor,105,134,0,101,0,</INFO></NAVI>."
+    },
+    "0Tm4DA": {
+        "ko": "개조 오브(방어)",
+        "en": "Modified Orb (Defense)",
+        "pt": "Módulo de N-DEF",
+        "es": "Módulo de N-DEF"
+    },
+    "0jm4DA": {
+        "ko": "개조 오브(마법방어)",
+        "en": "Modified Orb (Magic Defense)",
+        "pt": "Módulo de N-DEFM",
+        "es": "Módulo de N-DEFM"
+    },
+    "0zm4DA": {
+        "ko": "VIT+3",
+        "en": "VIT+3",
+        "pt": "Módulo de N-VIT",
+        "es": "Módulo de N-VIT"
+    },
+    "1Dm4DA": {
+        "ko": "LUK+3",
+        "en": "LUK+3",
+        "pt": "Módulo de N-SOR",
+        "es": "Módulo de N-SUE"
+    },
+    "1Tm4DA": {
+        "ko": "STR+3",
+        "en": "STR+3",
+        "pt": "Módulo de N-FOR",
+        "es": "Módulo de N-FUE"
+    },
+    "1jm4DA": {
+        "ko": "AGI+3",
+        "en": "AGI+3",
+        "pt": "Módulo de N-AGI",
+        "es": "Módulo de N-AGI"
+    },
+    "1zm4DA": {
+        "ko": "INT+3",
+        "en": "INT+3",
+        "pt": "Módulo de N-INT",
+        "es": "Módulo de N-INT"
+    },
+    "2Dm4DA": {
+        "ko": "DEX+3",
+        "en": "DEX+3",
+        "pt": "Módulo de N-DES",
+        "es": "Módulo de N-DES"
+    },
+    "2Tm4DA": {
+        "ko": "개조 오브(HP회복량)",
+        "en": "Modified Orb (HP Recovery)",
+        "pt": "Módulo de S-HPR",
+        "es": "Módulo de S-HPR"
+    },
+    "2jm4DA": {
+        "ko": "개조 오브(SP회복량)",
+        "en": "Modified Orb (SP Recovery)",
+        "pt": "Módulo de S-SPR",
+        "es": "Módulo de S-SPR"
+    },
+    "2zm4DA": {
+        "ko": "마력5Lv",
+        "en": "Magic Power 5Lv",
+        "pt": "Módulo de S-PE5",
+        "es": "Módulo de S-PM5"
+    },
+    "3Dm4DA": {
+        "ko": "공격후딜레이4Lv",
+        "en": "Attack Delay 4Lv",
+        "pt": "Módulo de S-AA4",
+        "es": "Módulo de S-DA4"
+    },
+    "3Tm4DA": {
+        "ko": "치명4Lv",
+        "en": "Critical 4Lv",
+        "pt": "Módulo de S-F4",
+        "es": "Módulo de S-CR4"
+    },
+    "3jm4DA": {
+        "ko": "명궁5Lv",
+        "en": "Archer 5Lv",
+        "pt": "Módulo de S-MA5",
+        "es": "Módulo de S-ARQ5"
+    },
+    "3zm4DA": {
+        "ko": "개조 오브(체력)",
+        "en": "Modified Orb (Vitality)",
+        "pt": "Módulo de S-HPMax",
+        "es": "Módulo de S-VIT"
+    },
+    "4Dm4DA": {
+        "ko": "개조 오브(정신력)",
+        "en": "Modified Orb (Spirit)",
+        "pt": "Módulo de S-SPMax",
+        "es": "Módulo de S-ESP"
+    },
+    "4Tm4DA": {
+        "ko": "개조 오브(힐)",
+        "en": "Modified Orb (Heal)",
+        "pt": "Módulo de S-Cura",
+        "es": "Módulo de S-Cura"
+    },
+    "4jm4DA": {
+        "ko": "개조 오브(공격력)",
+        "en": "Modified Orb (Attack Power)",
+        "pt": "Módulo de S-ATQ",
+        "es": "Módulo de S-ATQ"
+    },
+    "4zm4DA": {
+        "ko": "개조 오브(마법력)",
+        "en": "Modified Orb (Magic Power)",
+        "pt": "Módulo de S-ATQM",
+        "es": "Módulo de S-ATQM"
+    },
+    "5Dm4DA": {
+        "ko": "개조 오브(명사수)",
+        "en": "Modified Orb (Marksman)",
+        "pt": "Módulo de S-Tiro",
+        "es": "Módulo de S-Tiro"
+    },
+    "5Tm4DA": {
+        "ko": "개조 오브(신속)",
+        "en": "Modified Orb (Swiftness)",
+        "pt": "Módulo de S-Rapidez",
+        "es": "Módulo de S-Rapidez"
+    },
+    "5jm4DA": {
+        "ko": "개조 오브(캐스터)",
+        "en": "Modified Orb (Caster)",
+        "pt": "Módulo de S-Magia",
+        "es": "Módulo de S-Magia"
+    },
+    "5zm4DA": {
+        "ko": "개조 오브(크리티컬)",
+        "en": "Modified Orb (Critical)",
+        "pt": "Módulo de S-CRIT",
+        "es": "Módulo de S-CRIT"
+    },
+    "6Dm4DA": {
+        "ko": "개조 오브(스킬 후  딜레이)",
+        "en": "Modified Orb (Post-Skill Delay)",
+        "pt": "Módulo de U-Pós",
+        "es": "Módulo de U-Post"
+    },
+    "6Tm4DA": {
+        "ko": "개조 오브(고정 캐스팅)",
+        "en": "Modified Orb (Fixed Casting)",
+        "pt": "Módulo de U-Fixa",
+        "es": "Módulo de U-Fija"
+    },
+    "6jm4DA": {
+        "ko": "개조 오브(어보브 올)",
+        "en": "Modified Orb (Above All)",
+        "pt": "Módulo de U-Total",
+        "es": "Módulo de U-Total"
+    },
+    "6zm4DA": {
+        "ko": "개조 오브(드레인 라이프)",
+        "en": "Modified Orb (Drain Life)",
+        "pt": "Módulo de U-Vida",
+        "es": "Módulo de U-Vida"
+    },
+    "7Dm4DA": {
+        "ko": "개조 오브(드레인 소울)",
+        "en": "Modified Orb (Drain Soul)",
+        "pt": "Módulo de U-Alma",
+        "es": "Módulo de U-Alma"
+    },
+    "7Tm4DA": {
+        "ko": "개조 오브(매직 힐링)",
+        "en": "Modified Orb (Magic Healing)",
+        "pt": "Módulo de U-Mental",
+        "es": "Módulo de U-Mental"
+    },
+    "7jm4DA": {
+        "ko": "개조 오브(매직 소울)",
+        "en": "Modified Orb (Magic Soul)",
+        "pt": "Módulo de U-Mana",
+        "es": "Módulo de U-Mana"
+    },
+    "7zm4DA": {
+        "ko": "개조 오브(언리밋바이탈)",
+        "en": "Modified Orb (Unlimited Vital)",
+        "pt": "Módulo de L-Eternidade",
+        "es": "Módulo de L-Eternidad"
+    },
+    "8Dm4DA": {
+        "ko": "개조 오브(스펠버스터)",
+        "en": "Modified Orb (Spellbuster)",
+        "pt": "Módulo de L-Sortilégio",
+        "es": "Módulo de L-Hechizo"
+    },
+    "8Tm4DA": {
+        "ko": "개조 오브(파이어링샷)",
+        "en": "Modified Orb (Firing Shot)",
+        "pt": "Módulo de L-Astúcia",
+        "es": "Módulo de L-Astucia"
+    },
+    "8jm4DA": {
+        "ko": "개조 오브(오버파워)",
+        "en": "Modified Orb (Overpower)",
+        "pt": "Módulo de L-Superpoder",
+        "es": "Módulo de L-Superpoder"
+    },
+    "8zm4DA": {
+        "ko": "개조 오브(페이탈 플래쉬)",
+        "en": "Modified Orb (Fatal Flash)",
+        "pt": "Módulo de L-Lampejo",
+        "es": "Módulo de L-Destello"
+    },
+    "9Dm4DA": {
+        "ko": "개조 오브(럭키스트라이크)",
+        "en": "Modified Orb (Lucky Strike)",
+        "pt": "Módulo de L-Fortuna",
+        "es": "Módulo de L-Fortuna"
+    },
+    "9Tm4DA": {
+        "ko": "[RS26-1]\n{0} 님\n업그레이드하실 효능을 선택해주십시오.",
+        "en": "[RS26-1]\n{0}\nPlease select the effect you wish to upgrade.",
+        "pt": "[RS26-1]\n{0}\nPor favor, selecione o Módulo que deseja adicionar.",
+        "es": "[RS26-1]\n{0}\nPor favor, selecciona el Módulo que deseas añadir."
+    },
+    "9jm4DA": {
+        "ko": "취소",
+        "en": "Cancel",
+        "pt": "Cancelar",
+        "es": "Cancelar"
+    },
+    "9zm4DA": {
+        "ko": "노멀등급(부스터코인 10개)",
+        "en": "Normal Grade (10 Booster Coins)",
+        "pt": "N- Normal (10 Moedas de Apoio)",
+        "es": "N- Normal (10 Monedas de Apoyo)"
+    },
+    "+Dm4DA": {
+        "ko": "레어등급(부스터코인 30개)",
+        "en": "Rare Grade (30 Booster Coins)",
+        "pt": "S- Singular (30 Moedas de Apoio)",
+        "es": "S- Singular (30 Monedas de Apoyo)"
+    },
+    "+Tm4DA": {
+        "ko": "유니크등급(부스터코인 50개)",
+        "en": "Unique Grade (50 Booster Coins)",
+        "pt": "U- Único (50 Moedas de Apoio)",
+        "es": "U- Único (50 Monedas de Apoyo)"
+    },
+    "+jm4DA": {
+        "ko": "[RS26-1]\n여기까지 하기로 하겠습니다.",
+        "en": "[RS26-1]\nI will stop here.",
+        "pt": "[RS26-1]\nVou parar por aqui.",
+        "es": "[RS26-1]\nMe detendré aquí."
+    },
+    "+zm4DA": {
+        "ko": "개조 오브(방어)",
+        "en": "Modified Orb (Defense)",
+        "pt": "Módulo de N-DEF",
+        "es": "Módulo de N-DEF"
+    },
+    "/Dm4DA": {
+        "ko": "개조 오브(마법방어)",
+        "en": "Modified Orb (Magic Defense)",
+        "pt": "Módulo de N-DEFM",
+        "es": "Módulo de N-DEFM"
+    },
+    "/Tm4DA": {
+        "ko": "VIT+3",
+        "en": "VIT+3",
+        "pt": "Módulo de N-VIT",
+        "es": "Módulo de N-VIT"
+    },
+    "/jm4DA": {
+        "ko": "LUK+3",
+        "en": "LUK+3",
+        "pt": "Módulo de N-SOR",
+        "es": "Módulo de N-SUE"
+    },
+    "/zm4DA": {
+        "ko": "STR+3",
+        "en": "STR+3",
+        "pt": "Módulo de N-FOR",
+        "es": "Módulo de N-FUE"
+    },
+    "ADq4DA": {
+        "ko": "AGI+3",
+        "en": "AGI+3",
+        "pt": "Módulo de N-AGI",
+        "es": "Módulo de N-AGI"
+    },
+    "ATq4DA": {
+        "ko": "INT+3",
+        "en": "INT+3",
+        "pt": "Módulo de N-INT",
+        "es": "Módulo de N-INT"
+    },
+    "Ajq4DA": {
+        "ko": "DEX+3",
+        "en": "DEX+3",
+        "pt": "Módulo de N-DES",
+        "es": "Módulo de N-DES"
+    },
+    "Azq4DA": {
+        "ko": "개조 오브(HP회복량)",
+        "en": "Modified Orb (HP Recovery)",
+        "pt": "Módulo de S-HPR",
+        "es": "Módulo de S-HPR"
+    },
+    "BDq4DA": {
+        "ko": "개조 오브(SP회복량)",
+        "en": "Modified Orb (SP Recovery)",
+        "pt": "Módulo de S-SPR",
+        "es": "Módulo de S-SPR"
+    },
+    "BTq4DA": {
+        "ko": "마력5Lv",
+        "en": "Magic Power 5Lv",
+        "pt": "Módulo de S-PE5",
+        "es": "Módulo de S-PM5"
+    },
+    "Bjq4DA": {
+        "ko": "공격후딜레이4Lv",
+        "en": "Attack Delay 4Lv",
+        "pt": "Módulo de S-AA4",
+        "es": "Módulo de S-DA4"
+    },
+    "Bzq4DA": {
+        "ko": "치명4Lv",
+        "en": "Critical 4Lv",
+        "pt": "Módulo de S-F4",
+        "es": "Módulo de S-CR4"
+    },
+    "CDq4DA": {
+        "ko": "명궁5Lv",
+        "en": "Archer 5Lv",
+        "pt": "Módulo de S-MA5",
+        "es": "Módulo de S-ARQ5"
+    },
+    "CTq4DA": {
+        "ko": "개조 오브(체력)",
+        "en": "Modified Orb (Vitality)",
+        "pt": "Módulo de S-HPMax",
+        "es": "Módulo de S-VIT"
+    },
+    "Cjq4DA": {
+        "ko": "개조 오브(정신력)",
+        "en": "Modified Orb (Spirit)",
+        "pt": "Módulo de S-SPMax",
+        "es": "Módulo de S-ESP"
+    },
+    "Czq4DA": {
+        "ko": "개조 오브(힐)",
+        "en": "Modified Orb (Heal)",
+        "pt": "Módulo de S-Cura",
+        "es": "Módulo de S-Cura"
+    },
+    "DDq4DA": {
+        "ko": "개조 오브(공격력)",
+        "en": "Modified Orb (Attack Power)",
+        "pt": "Módulo de S-ATQ",
+        "es": "Módulo de S-ATQ"
+    },
+    "DTq4DA": {
+        "ko": "개조 오브(마법력)",
+        "en": "Modified Orb (Magic Power)",
+        "pt": "Módulo de S-ATQM",
+        "es": "Módulo de S-ATQM"
+    },
+    "Djq4DA": {
+        "ko": "개조 오브(명사수)",
+        "en": "Modified Orb (Marksman)",
+        "pt": "Módulo de S-Tiro",
+        "es": "Módulo de S-Tiro"
+    },
+    "Dzq4DA": {
+        "ko": "개조 오브(신속)",
+        "en": "Modified Orb (Swiftness)",
+        "pt": "Módulo de S-Rapidez",
+        "es": "Módulo de S-Rapidez"
+    },
+    "EDq4DA": {
+        "ko": "개조 오브(캐스터)",
+        "en": "Modified Orb (Caster)",
+        "pt": "Módulo de S-Magia",
+        "es": "Módulo de S-Magia"
+    },
+    "ETq4DA": {
+        "ko": "개조 오브(크리티컬)",
+        "en": "Modified Orb (Critical)",
+        "pt": "Módulo de S-CRIT",
+        "es": "Módulo de S-CRIT"
+    },
+    "Ejq4DA": {
+        "ko": "개조 오브(스킬 후  딜레이)",
+        "en": "Modified Orb (Post-Skill Delay)",
+        "pt": "Módulo de U-Pós",
+        "es": "Módulo de U-Post"
+    },
+    "Ezq4DA": {
+        "ko": "개조 오브(고정 캐스팅)",
+        "en": "Modified Orb (Fixed Casting)",
+        "pt": "Módulo de U-Fixa",
+        "es": "Módulo de U-Fija"
+    },
+    "FDq4DA": {
+        "ko": "개조 오브(어보브 올)",
+        "en": "Modified Orb (Above All)",
+        "pt": "Módulo de U-Total",
+        "es": "Módulo de U-Total"
+    },
+    "FTq4DA": {
+        "ko": "개조 오브(드레인 라이프)",
+        "en": "Modified Orb (Drain Life)",
+        "pt": "Módulo de U-Vida",
+        "es": "Módulo de U-Vida"
+    },
+    "Fjq4DA": {
+        "ko": "개조 오브(드레인 소울)",
+        "en": "Modified Orb (Drain Soul)",
+        "pt": "Módulo de U-Alma",
+        "es": "Módulo de U-Alma"
+    },
+    "Fzq4DA": {
+        "ko": "개조 오브(매직 힐링)",
+        "en": "Modified Orb (Magic Healing)",
+        "pt": "Módulo de U-Mental",
+        "es": "Módulo de U-Mental"
+    },
+    "GDq4DA": {
+        "ko": "개조 오브(매직 소울)",
+        "en": "Modified Orb (Magic Soul)",
+        "pt": "Módulo de U-Mana",
+        "es": "Módulo de U-Mana"
+    },
+    "GTq4DA": {
+        "ko": "[RS26-1]\n그 효능은 현재 사용할 수 없습니다.",
+        "en": "[RS26-1]\nThat effect cannot be used currently.",
+        "pt": "[RS26-1]\nEsse módulo não pode ser usado no momento.",
+        "es": "[RS26-1]\nEse módulo no se puede usar en este momento."
+    },
+    "Gjq4DA": {
+        "ko": "[RS26-1]\n부스터 코인 ^0000FF{0}개^000000가 필요한 작업입니다. 코인이 모자란 것 같군요?",
+        "en": "[RS26-1]\nThis work requires ^0000FF{0} Booster Coins^000000. Looks like you don't have enough coins?",
+        "pt": "[RS26-1]\nEste trabalho requer ^0000FF{0} Moedas de Apoio^000000. Parece que você não tem moedas suficientes.",
+        "es": "[RS26-1]\nEste trabajo requiere ^0000FF{0} Monedas de Apoyo^000000. ¿Parece que no tienes suficientes monedas?"
+    },
+    "Gzq4DA": {
+        "ko": "[RS26-1]\n정상적인 진행이 불가능한 상황입니다. 관리자를 찾으셔야 할 것 같군요.",
+        "en": "[RS26-1]\nThis is a situation where normal progress is impossible. You should probably find an administrator.",
+        "pt": "[RS26-1]\nAconteceu um erro. Envie um ticket para a central de suporte.",
+        "es": "[RS26-1]\nOcurrió un error. Envía un ticket al centro de soporte."
+    },
+    "HDq4DA": {
+        "ko": "[RS26-1]\n장비를 벗고 계신건 아닌가요?",
+        "en": "[RS26-1]\nCould it be that you are not wearing the equipment?",
+        "pt": "[RS26-1]\nVocê não está usando o equipamento?",
+        "es": "[RS26-1]\n¿No estás usando el equipo?"
+    },
+    "HTq4DA": {
+        "ko": "^FF0000랜덤옵션이 확인됩니다. 해당 장비는 작업 하실 수 없습니다.^000000",
+        "en": "^FF0000Random options confirmed. You cannot work on this equipment.^000000",
+        "pt": "^FF0000Este equipamento possui Bônus Aleatórios e não pode ser encantado.^000000",
+        "es": "^FF0000Este equipo posee Bonificaciones Aleatorias y no se puede encantar.^000000"
+    },
+    "Hjq4DA": {
+        "ko": "[RS26-1]\n이미 레전드급 모듈을 장착 하셨었군요. 더 이상의 레전드급 모듈 장착은 불가능합니다",
+        "en": "[RS26-1]\nIt seems you already have a Legend-grade module equipped. Equipping further Legend-grade modules is impossible.",
+        "pt": "[RS26-1]\nParece que você já possui um 'Módulo L-' equipado. Equipar mais módulos desse nível é impossível.",
+        "es": "[RS26-1]\nParece que ya tienes equipado un 'Módulo L-'. Equipar más módulos de este nivel es imposible."
+    },
+    "Hzq4DA": {
+        "ko": "[RS26-1]\n선택하신 모듈과 선택하신 장비는 호환되지 않습니다.",
+        "en": "[RS26-1]\nThe selected module and the selected equipment are not compatible.",
+        "pt": "[RS26-1]\nO módulo e o equipamento selecionado não são compatíveis.",
+        "es": "[RS26-1]\nEl módulo y el equipo seleccionado no son compatibles."
+    },
+    "IDq4DA": {
+        "ko": "[RS26-1]\n이 모듈은 첫 강화 시에만 사용 가능합니다. 유감스럽게도 해당장비는 이미 다른 효능을 부여받으셨군요. 다른 모듈을 이용하여 강화해 주십시오.",
+        "en": "[RS26-1]\nThis module can only be used for the first enhancement. Unfortunately, this equipment already has another effect granted. Please enhance it using a different module.",
+        "pt": "[RS26-1]\nEste módulo só pode ser usado para o primeiro encantamento. Infelizmente, este equipamento já possui outro efeito concedido. Por favor, use um módulo diferente.",
+        "es": "[RS26-1]\nEste módulo solo se puede usar para el primer encantamiento. Desafortunadamente, este equipo ya tiene otro efecto concedido. Por favor, usa un módulo diferente."
+    },
+    "ITq4DA": {
+        "ko": "[RS26-1]\n이 모듈의 능력치는 {0}번 까지 확장 가능합니다. 이미 확장 한계치까지 작업이 된 것 같군요",
+        "en": "[RS26-1]\nThis module's stats can be expanded up to {0} times. It seems work has already been done up to the expansion limit.",
+        "pt": "[RS26-1]\nEste módulo pode ser adicionado até {0} vezes. Parece que já está no limite.",
+        "es": "[RS26-1]\nEste módulo se puede añadir hasta {0} veces. Parece que ya está en el límite."
+    },
+    "Ijq4DA": {
+        "ko": "[RS26-1]\n강화하시려는 장비가 이미 확장 한계치까지 작업이 된 것 같군요",
+        "en": "[RS26-1]\nIt seems the equipment you wish to enhance has already been worked on up to its expansion limit.",
+        "pt": "[RS26-1]\nParece que o equipamento já foi encantado até seu limite.",
+        "es": "[RS26-1]\nParece que el equipo ya ha sido encantado hasta su límite."
+    },
+    "Izq4DA": {
+        "ko": "[RS26-1]\n작업중에 장비를 장착해제 하시면 오류가 발생할 수 있습니다. 주의하십시오.",
+        "en": "[RS26-1]\nUnequipping the equipment during work may cause errors. Please be careful.",
+        "pt": "[RS26-1]\nRemover o equipamento durante o trabalho pode causar erros. Por favor, tenha cuidado.",
+        "es": "[RS26-1]\nQuitar el equipo durante el trabajo puede causar errores. Por favor, ten cuidado."
+    },
+    "JDq4DA": {
+        "ko": "일루시온 아머 A타입(귀속)",
+        "en": "[Booster] Illusion Armor A",
+        "pt": "[Apoio] Colete Ilusión A",
+        "es": "[Apoyo] Colete Ilusión A"
+    },
+    "JTq4DA": {
+        "ko": "일루시온 아머 B타입(귀속)",
+        "en": "[Booster] Illusion Armor B",
+        "pt": "[Apoio] Colete Ilusión B",
+        "es": "[Apoyo] Colete Ilusión B"
+    },
+    "Jjq4DA": {
+        "ko": "일루시온 엔진윙 A타입(귀속)",
+        "en": "[Booster] Illusion Engine A",
+        "pt": "[Apoio] Motor Ilusión A",
+        "es": "[Apoyo] Motor Ilusión A"
+    },
+    "Jzq4DA": {
+        "ko": "일루시온 엔진윙 B타입(귀속)",
+        "en": "[Booster] Illusion Engine B",
+        "pt": "[Apoio] Motor Ilusión B",
+        "es": "[Apoyo] Motor Ilusión B"
+    },
+    "KDq4DA": {
+        "ko": "일루시온 레그 A타입(귀속)",
+        "en": "[Booster] Illusion Leg A",
+        "pt": "[Apoio] Perna Ilusión A",
+        "es": "[Apoyo] Pierna Ilusión A"
+    },
+    "KTq4DA": {
+        "ko": "일루시온 레그 B타입(귀속)",
+        "en": "[Booster] Illusion Leg B",
+        "pt": "[Apoio] Perna Ilusión B",
+        "es": "[Apoyo] Pierna Ilusión B"
+    },
+    "Kjq4DA": {
+        "ko": "일루시온 부스터R(귀속)",
+        "en": "[Booster] Illusion Booster R",
+        "pt": "[Apoio] Turbina Ilusión A",
+        "es": "[Apoyo] Turbo Ilusión A"
+    },
+    "Kzq4DA": {
+        "ko": "일루시온 부스터L(귀속)",
+        "en": "[Booster] Illusion Booster L",
+        "pt": "[Apoio] Turbina Ilusión B",
+        "es": "[Apoyo] Turbo Ilusión B"
+    },
+    "LDq4DA": {
+        "ko": "일루시온 배틀칩R(귀속)",
+        "en": "[Booster] Illusion Battle Chip R",
+        "pt": "[Apoio] Soquete Ilusión A",
+        "es": "[Apoyo] Soquete Ilusión A"
+    },
+    "LTq4DA": {
+        "ko": "일루시온 배틀칩L(귀속)",
+        "en": "[Booster] Illusion Battle Chip L",
+        "pt": "[Apoio] Soquete Ilusión B",
+        "es": "[Apoyo] Soquete Ilusión B"
+    },
+    "Ljq4DA": {
+        "ko": "[RS26-1]\n강화하시려는 장착한 제품에 시리얼넘버가 없습니다. 규격 외 상품이므로 강화를 해 드릴 수 없습니다.",
+        "en": "[RS26-1]\nThe equipped product you wish to enhance does not have a serial number. As it is a non-standard product, we cannot enhance it.",
+        "pt": "[RS26-1]\nO equipamento que você deseja encantar não possui número de série. Como é um produto falsificado, não podemos encantá-lo.",
+        "es": "[RS26-1]\nEl equipo que deseas encantar no tiene número de serie. Al ser un producto falsificado, no podemos encantarlo."
+    },
+    "Lzq4DA": {
+        "ko": "[RS26-1]^0000FF\n{0} + {1} 선택\n^000000------------------\n선택하신 도면은 해당 장비에 최대 ^0000FF{2} 회 까지 동일한 도면으로 업그레이드 가능^000000하며 현재 ^0000FF{3} 회^000000 강화되어 있습니다. 계속 진행 하시겠습니까?",
+        "en": "[RS26-1]^0000FF\n{0} + {1} Selected\n^000000------------------\nThe selected blueprint can be used to upgrade this equipment up to a maximum of ^0000FF{2} times^000000 with the same blueprint. It is currently enhanced ^0000FF{3} times^000000. Do you wish to proceed?",
+        "pt": "[RS26-1]^0000FF\n{0} + {1}\n^000000------------------\nVocê pode encantar até ^0000FF{2}x^000000 com o mesmo Módulo. Atualmente está encantado ^0000FF{3}x^000000. Deseja prosseguir?",
+        "es": "[RS26-1]^0000FF\n{0} + {1}\n^000000------------------\nPuedes encantar hasta ^0000FF{2}x^000000 con el mismo Módulo. Actualmente está encantado ^0000FF{3}x^000000. ¿Deseas continuar?"
+    },
+    "MDq4DA": {
+        "ko": "생각 좀 더 해보고...",
+        "en": "Let me think about it...",
+        "pt": "Deixe-me pensar...",
+        "es": "Déjame pensarlo..."
+    },
+    "MTq4DA": {
+        "ko": "진행한다",
+        "en": "Proceed",
+        "pt": "Prosseguir",
+        "es": "Continuar"
+    },
+    "Mjq4DA": {
+        "ko": "[RS26-1]\n그럼 도움이 필요하실때 다시 방문하십시오~",
+        "en": "[RS26-1]\nThen please visit again when you need assistance~",
+        "pt": "[RS26-1]\nEntão, visite-nos novamente quando precisar de assistência~",
+        "es": "[RS26-1]\n¡Entonces visítanos nuevamente cuando necesites asistencia~"
+    },
+    "Mzq4DA": {
+        "ko": "[RS26-1]\n선택하신 장비는 이미 확장 한계치까지 작업이 된 것 같군요",
+        "en": "[RS26-1]\nIt seems the selected equipment has already been worked on up to its expansion limit.",
+        "pt": "[RS26-1]\nParece que o equipamento já foi encantado até seu limite.",
+        "es": "[RS26-1]\nParece que el equipo ya ha sido encantado hasta su límite."
+    },
+    "NDq4DA": {
+        "ko": "[RS26-1]\n장비의 ^990000{0}번째 ^000000업그레이드를 시도합니다.",
+        "en": "[RS26-1]\nAttempting upgrade number ^990000{0}^000000 for the equipment.",
+        "pt": "[RS26-1]\nEncantando seu equipamento pela ^990000{0}^000000ª vez.",
+        "es": "[RS26-1]\nEncantando tu equipo por ^990000{0}^000000ª vez."
+    },
+    "NTq4DA": {
+        "ko": "[RS26-1]\n장비의 ^990000 보너스 효능 ^000000업그레이드를 시도합니다.",
+        "en": "[RS26-1]\nAttempting to upgrade the ^990000bonus effect^000000 of the equipment.",
+        "pt": "[RS26-1]\nTentando melhorar o ^990000efeito^000000 do equipamento.",
+        "es": "[RS26-1]\nIntentando mejorar el ^990000efecto^000000 del equipo."
+    }
+}

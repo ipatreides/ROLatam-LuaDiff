@@ -280,5 +280,7 @@ HatEFID = {
 	HAT_EF_C_S_Beelzebub_Wing = 279,
 	FOOTPRINT_EF_feather = 280,
 	HAT_EF_Solid_State_Recognition = 281,
-	HAT_EF_C_Cursed_Serpent = 282
+	HAT_EF_C_Cursed_Serpent = 282,
+	FOOTPRINT_EF_phoenix = 287,
+	HAT_EF_C_CLB_GAT_doc = 288
 }

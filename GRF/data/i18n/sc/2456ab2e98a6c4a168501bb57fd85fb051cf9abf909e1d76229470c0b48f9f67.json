@@ -1,22 +1,26 @@
 {
     "oHrTBw": {
-        "en": "I'm not finished here. I should look around more.",
-        "pt": "Ainda não terminei aqui. Eu deveria dar mais uma olhada por aqui.",
-        "es": "No terminé aquí. Debería mirar a mi alrededor un poco más."
+        "ko": "아직 여기서 해야 할 일이 남았다. 좀 더 둘러보자.",
+        "en": "There is still work to be done here. Let's look around a bit more.",
+        "pt": "Ainda há coisas a fazer aqui. Vamos dar mais uma olhada.",
+        "es": "Aún queda trabajo por hacer aquí. Echemos un vistazo más."
     },
     "oXrTBw": {
-        "en": "Rookie: Huh? That's not opened yet! We're trying, so please give us some time!",
-        "pt": "Novato: Hã? Ainda não está aberto! Estamos tentando, só precisamos de um tempo!",
-        "es": "Principiante: ¿Eh? ¡Aún no se abrió! ¡Lo estamos intentando, así que danos tiempo!"
+        "ko": "루키: 어어? 거기 아직 열지 못했어요! 저희가 노력중이니 좀 더 기다려주세요!",
+        "en": "Rookie: Huh? You still can't open that yet! We're working on it, so please wait a little longer!",
+        "pt": "Rookie: Hã? Você ainda não pode abrir isso! Estamos trabalhando nisso, então por favor espere mais um pouco!",
+        "es": "Rookie: ¿Eh? ¡Todavía no se puede abrir eso! Estamos trabajando en ello, ¡así que por favor espere un poco más!"
     },
     "onrTBw": {
-        "en": "Ruinan: It's dangerous there.",
-        "pt": "Ruinan: Esse lugar é perigoso.",
-        "es": "Ruinan: Es peligroso allí."
+        "ko": "루이난: 손님, 그 곳은 위험합니다.",
+        "en": "Luynan: Sir/Ma'am, that place is dangerous.",
+        "pt": "Luynan: Senhor, aquele lugar é perigoso.",
+        "es": "Luynan: Señor, ese lugar es peligroso."
     },
     "o3rTBw": {
-        "en": "Ruinan: Excuse me. If you want to go in there, you must talk with me first.",
-        "pt": "Ruinan: Com licença. Se quiser entrar lá, tem que falar comigo primeiro.",
-        "es": "Ruinan: Disculpa. Si quieres entrar ahí, debes hablar conmigo primero."
+        "ko": "루이난: 잠깐만요, 손님. 거기 들어가시려면 저와 상담을 좀...",
+        "en": "Luynan: Just a moment, Sir/Ma'am. If you wish to go in there, I'd like to speak with you first...",
+        "pt": "Luynan: Só um momento, senhor. Se pretende entrar ali, preciso conversar com você um pouco...",
+        "es": "Luynan: Un momento, señor. Si va a entrar ahí, necesito hablar con usted..."
     }
 }

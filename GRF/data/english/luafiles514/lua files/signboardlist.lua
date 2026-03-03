@@ -6586,5 +6586,185 @@ SignBoardList = {
 		FILEPATH = "item\\ship_ticket.bmp",
 		CONTENTS = "  To Lasagna",
 		CHARCOLOR = "#0x00FFFFFF"
+	},
+	[891] = {
+		MAPNAME = "ein_dun02",
+		CELLX = 16,
+		CELLY = 250,
+		HEIGHT = 10,
+		ICONID = 3,
+		FILEPATH = "item\\as_poisonreact.bmp",
+		CONTENTS = "  Entry Prohibited Below Lv. 180",
+		CHARCOLOR = "#0x00FFFFFF"
+	},
+	[892] = {
+		MAPNAME = "odin_tem03",
+		CELLX = 276,
+		CELLY = 236,
+		HEIGHT = 10,
+		ICONID = 3,
+		FILEPATH = "item\\as_poisonreact.bmp",
+		CONTENTS = "  Entry Prohibited Below Lv. 180",
+		CHARCOLOR = "#0x00FFFFFF"
+	},
+	[893] = {
+		MAPNAME = "abyss_03",
+		CELLX = 91,
+		CELLY = 110,
+		HEIGHT = 10,
+		ICONID = 3,
+		FILEPATH = "item\\as_poisonreact.bmp",
+		CONTENTS = "  Entry Prohibited Below Lv. 180",
+		CHARCOLOR = "#0x00FFFFFF"
+	},
+	[894] = {
+		MAPNAME = "airplane_01",
+		CELLX = 243,
+		CELLY = 73,
+		HEIGHT = 10,
+		ICONID = 3,
+		FILEPATH = "item\\over_valkyrie_air.bmp",
+		CONTENTS = "  Airship Exit",
+		CHARCOLOR = "#0x00FFFFFF"
+	},
+	[895] = {
+		MAPNAME = "airplane_01",
+		CELLX = 243,
+		CELLY = 30,
+		HEIGHT = 10,
+		ICONID = 3,
+		FILEPATH = "item\\over_valkyrie_air.bmp",
+		CONTENTS = "  Airship Exit",
+		CHARCOLOR = "#0x00FFFFFF"
+	},
+	[896] = {
+		MAPNAME = "izlude",
+		CELLX = 202,
+		CELLY = 75,
+		HEIGHT = 10,
+		ICONID = 3,
+		FILEPATH = "item\\over_valkyrie_air.bmp",
+		CONTENTS = "  To Juno-Rachel",
+		CHARCOLOR = "#0x00FFFFFF"
+	},
+	[897] = {
+		MAPNAME = "ra_fild12",
+		CELLX = 295,
+		CELLY = 208,
+		HEIGHT = 10,
+		ICONID = 3,
+		FILEPATH = "item\\over_valkyrie_air.bmp",
+		CONTENTS = "  To Juno-Izlude",
+		CHARCOLOR = "#0x00FFFFFF"
+	},
+	[898] = {
+		MAPNAME = "y_airport",
+		CELLX = 148,
+		CELLY = 46,
+		HEIGHT = 10,
+		ICONID = 3,
+		FILEPATH = "item\\over_valkyrie_air.bmp",
+		CONTENTS = "  To Izlude-Rachel",
+		CHARCOLOR = "#0x00FFFFFF"
+	},
+	[899] = {
+		MAPNAME = "y_airport",
+		CELLX = 158,
+		CELLY = 46,
+		HEIGHT = 10,
+		ICONID = 3,
+		FILEPATH = "item\\over_valkyrie_air.bmp",
+		CONTENTS = "  To Izlude-Rachel",
+		CHARCOLOR = "#0x00FFFFFF"
+	},
+	[900] = {
+		MAPNAME = "airplane",
+		CELLX = 243,
+		CELLY = 73,
+		HEIGHT = 10,
+		ICONID = 3,
+		FILEPATH = "item\\over_valkyrie_air.bmp",
+		CONTENTS = "  Airship Exit",
+		CHARCOLOR = "#0x00FFFFFF"
+	},
+	[901] = {
+		MAPNAME = "airplane",
+		CELLX = 243,
+		CELLY = 30,
+		HEIGHT = 10,
+		ICONID = 3,
+		FILEPATH = "item\\over_valkyrie_air.bmp",
+		CONTENTS = "  Airship Exit",
+		CHARCOLOR = "#0x00FFFFFF"
+	},
+	[903] = {
+		MAPNAME = "y_airport",
+		CELLX = 128,
+		CELLY = 46,
+		HEIGHT = 10,
+		ICONID = 3,
+		FILEPATH = "item\\over_valkyrie_air.bmp",
+		CONTENTS = "  Schwarzwald Domestic Line",
+		CHARCOLOR = "#0x00FFFFFF"
+	},
+	[904] = {
+		MAPNAME = "y_airport",
+		CELLX = 138,
+		CELLY = 46,
+		HEIGHT = 10,
+		ICONID = 3,
+		FILEPATH = "item\\over_valkyrie_air.bmp",
+		CONTENTS = "  Schwarzwald Domestic Line",
+		CHARCOLOR = "#0x00FFFFFF"
+	},
+	[905] = {
+		MAPNAME = "hugel",
+		CELLX = 186,
+		CELLY = 147,
+		HEIGHT = 10,
+		ICONID = 3,
+		FILEPATH = "item\\over_valkyrie_air.bmp",
+		CONTENTS = "  Schwarzwald Domestic Line",
+		CHARCOLOR = "#0x00FFFFFF"
+	},
+	[906] = {
+		MAPNAME = "airport",
+		CELLX = 186,
+		CELLY = 147,
+		HEIGHT = 10,
+		ICONID = 3,
+		FILEPATH = "item\\over_valkyrie_air.bmp",
+		CONTENTS = "  Schwarzwald Domestic Line",
+		CHARCOLOR = "#0x00FFFFFF"
+	},
+	[907] = {
+		MAPNAME = "airport",
+		CELLX = 148,
+		CELLY = 46,
+		HEIGHT = 10,
+		ICONID = 3,
+		FILEPATH = "item\\over_valkyrie_air.bmp",
+		CONTENTS = "  Schwarzwald Domestic Line",
+		CHARCOLOR = "#0x00FFFFFF"
+	},
+	[908] = {
+		MAPNAME = "lhz_airport",
+		CELLX = 148,
+		CELLY = 43,
+		HEIGHT = 10,
+		ICONID = 3,
+		FILEPATH = "item\\over_valkyrie_air.bmp",
+		CONTENTS = "  Schwarzwald Domestic Line",
+		CHARCOLOR = "#0x00FFFFFF"
+	},
+	[909] = {
+		MAPNAME = "lhz_airport",
+		CELLX = 138,
+		CELLY = 43,
+		HEIGHT = 10,
+		ICONID = 3,
+		FILEPATH = "item\\over_valkyrie_air.bmp",
+		CONTENTS = "  Schwarzwald Domestic Line",
+		CHARCOLOR = "#0x00FFFFFF"
 	}
 }

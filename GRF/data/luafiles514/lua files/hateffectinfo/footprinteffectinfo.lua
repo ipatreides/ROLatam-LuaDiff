@@ -163,5 +163,14 @@ FootPrintEffectTable = {
 		StrFile_Top_Right = "footprint_dragon_face_3d\\footprint_dragon_face_3d\\fp_dragon_face_3d.str",
 		Scale_Bottom = 0.04,
 		Scale_Top = 0.11
+	},
+	[HatEFID.FOOTPRINT_EF_phoenix] = {
+		Type = STR,
+		StrFile_Bottom_Left = "footprint_phoenix\\footprint_bottom_phoenix\\footprint_bottom_phoenix.str",
+		StrFile_Bottom_Right = "footprint_phoenix\\footprint_bottom_phoenix\\footprint_bottom_phoenix.str",
+		StrFile_Top_Left = "footprint_phoenix\\footprint_phoenix\\footprint_phoenix.str",
+		StrFile_Top_Right = "footprint_phoenix\\footprint_phoenix\\footprint_phoenix.str",
+		Scale_Bottom = 0.04,
+		Scale_Top = 0.11
 	}
 }

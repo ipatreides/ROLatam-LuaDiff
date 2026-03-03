@@ -1,0 +1,770 @@
+{
+    "ILO2DA": {
+        "ko": "입생말랑",
+        "en": "Aives San Laurein",
+        "pt": "Aives San Laurein",
+        "es": "Aives San Laurein"
+    },
+    "IbO2DA": {
+        "ko": "<부스터 프로모션>",
+        "en": "<Booster Promotion>",
+        "pt": "< Evento de Apoio >",
+        "es": "< Evento de Apoyo >"
+    },
+    "IrO2DA": {
+        "ko": "[입생말랑]\n그렇게 많은 걸 들고 다니면 척추에 무리가 가는 거다!!\n허리가 90도로 접히기 전에 가방을 상큼하게 비우는 거다!!!",
+        "en": "[Aives San Laurein]\nCarrying all that stuff is bad for your spine!!\nFreshen up your bag before your back bends 90 degrees!!!",
+        "pt": "[Aives San Laurein]\nCarregar todas essas coisas faz mal pra sua coluna!!\nRenove sua mochila antes que suas costas fiquem tortas!!!",
+        "es": "[Aives San Laurein]\n¡¡Cargar todas esas cosas hace mal a tu columna!!\n¡¡Renueva tu mochila antes de que tu espalda se tuerza!!"
+    },
+    "I7O2DA": {
+        "ko": "^FF0000- 아이템을 너무 많이 들고 있는 것 같다.\n인벤토리를 정리하고 다시 오자. -^000000",
+        "en": "^FF0000- It seems you're carrying too many items.\nPlease organize your inventory and come back. -^000000",
+        "pt": "^FF0000- Parece que você está carregando muitos itens.\nPor favor, organize seu inventário e retorne. -^000000",
+        "es": "^FF0000- Parece que estás cargando demasiados objetos.\nPor favor, organiza tu inventario y regresa. -^000000"
+    },
+    "JLO2DA": {
+        "ko": "[입생말랑]\n크큿...",
+        "en": "[Aives San Laurein]\nHeh...",
+        "pt": "[Aives San Laurein]\nHeh...",
+        "es": "[Aives San Laurein]\nHeh..."
+    },
+    "JbO2DA": {
+        "ko": "[입생말랑]\n나는 ^FF0000의상 초보자 토끼 후드와 의상 초보자 빨간 책가방^000000에게 매료되어 세상을 떠도는 차가운 패셔니스트,",
+        "en": "[Aives San Laurein]\nI am a cold fashionista wandering the world, captivated by the ^FF0000[Costume] Beginner Rabbit Hood and [Costume] Beginner Red Backpack^000000,",
+        "pt": "[Aives San Laurein]\nSou algugém vagando pelo mundo, desejando ver o ^FF0000[Visual] Coelhinho Carinhoso e [Visual] Mochila Estudantil Vermelha^000000,",
+        "es": "[Aives San Laurein]\nSoy alguien que vaga por el mundo, deseando ver el ^FF0000[Disfraz] Conejito Cariñoso y [Disfraz] Mochila Estudiantil Roja^000000,"
+    },
+    "JrO2DA": {
+        "ko": "[입생말랑]\n^FF0000의상 초보자 토끼 후드와 의상 초보자 빨간 책가방^000000에 대해 알고 싶다면 ^FF0000부스터 프로모션^000000에 참가하는 거다!",
+        "en": "[Aives San Laurein]\nIf you want to know about the ^FF0000[Costume] Beginner Rabbit Hood and [Costume] Beginner Red Backpack^000000, participate in the ^FF0000Booster Promotion^000000!",
+        "pt": "[Aives San Laurein]\nSe você quer saber sobre o ^FF0000[Visual] Coelhinho Carinhoso e a [Visual] Mochila Estudantil Vermelha^000000, participe da ^FF0000Promoção de Reforço^000000!",
+        "es": "[Aives San Laurein]\nSi quieres saber sobre el ^FF0000[Disfraz] Conejito Cariñoso y la [Disfraz] Mochila Estudiantil Roja^000000, ¡participa en la ^FF0000Promoción de Refuerzo^000000!"
+    },
+    "J7O2DA": {
+        "ko": "[입생말랑]\n^FF0000의상 초보자 토끼 후드와 의상 초보자 빨간 책가방^000000에게 만족하지 못하고 더 강력한 패션을 얻고 싶은 거라면 잘 찾아왔다!\n바로 나!! 이 ^FF0000'입생말랑'^000000에게!!!!",
+        "en": "[Aives San Laurein]\nIf you're not satisfied with the ^FF0000[Costume] Beginner Rabbit Hood and [Costume] Beginner Red Backpack^000000 and want to obtain even more powerful fashion, you've come to the right place!\nRight to me!! This ^FF0000'Aives San Laurein'^000000!!!!",
+        "pt": "[Aives San Laurein]\nSe você não está satisfeito com o ^FF0000[Visual] Coelhinho Carinhoso e a [Visual] Mochila Estudantil Vermelha^000000 e quer obter moda ainda mais poderosa, veio ao lugar certo!\nDiretamente comigo!! Este ^FF0000'Aives San Laurein'^000000!!!!",
+        "es": "[Aives San Laurein]\nSi no estás satisfecho con el ^FF0000[Disfraz] Conejito Cariñoso y la [Disfraz] Mochila Estudiantil Roja^000000 y quieres obtener moda aún más poderosa, ¡viniste al lugar correcto!\n¡¡Directamente conmigo!! ¡¡Con este ^FF0000'Aives San Laurein'^000000!!!!"
+    },
+    "KLO2DA": {
+        "ko": "[입생말랑]\n^FF0000의상 초보자 토끼 후드^000000라면 ^FF0000부스터 코인 10개^000000, ^FF0000의상 초보자 빨간 책가방^000000이라면 ^FF0000부스터 코인 30개^000000에 최고로 만들어 준다!",
+        "en": "[Aives San Laurein]\nFor the ^FF0000[Costume] Beginner Rabbit Hood^000000, I'll make it the best for ^FF000010 Booster Coins^000000, and for the ^FF0000[Costume] Beginner Red Backpack^000000, for ^FF000030 Booster Coins^000000!",
+        "pt": "[Aives San Laurein]\nPelo ^FF0000[Visual] Coelhinho Carinhoso^000000, faço o melhor por ^FF000010 Moedas de Apoio^000000, e pela ^FF0000[Visual] Mochila Estudantil Vermelha^000000, por ^FF000030 Moedas de Apoio^000000!",
+        "es": "[Aives San Laurein]\nPor el ^FF0000[Disfraz] Conejito Cariñoso^000000, lo hago por solo ^FF000010 Monedas de Apoyo^000000, y por la ^FF0000[Disfraz] Mochila Estudiantil Roja^000000, por ^FF000030 Monedas de Apoyo^000000!"
+    },
+    "KbO2DA": {
+        "ko": "그만 둔다.",
+        "en": "Stop.",
+        "pt": "Pare.",
+        "es": "Detener."
+    },
+    "KrO2DA": {
+        "ko": "의상 인챈트",
+        "en": "Enchant costume",
+        "pt": "Encantar Visual",
+        "es": "Encantar Disfraz"
+    },
+    "K7O2DA": {
+        "ko": "[입생말랑]\n이런 기회는 잘 없는 거다!",
+        "en": "[Aives San Laurein]\nThis kind of opportunity doesn't come often!",
+        "pt": "[Aives San Laurein]\nUma oportunidade dessas não aparece sempre!",
+        "es": "[Aives San Laurein]\n¡Una oportunidad como esta no aparece siempre!"
+    },
+    "LLO2DA": {
+        "ko": "^8C8C8C상단(비어있음)^000000",
+        "en": "^8C8C8CTop (Empty)^000000",
+        "pt": "^8C8C8CTopo (Vazio)^000000",
+        "es": "^8C8C8CSuperior (Vacío)^000000"
+    },
+    "LbO2DA": {
+        "ko": "^8C8C8C상단(코인부족)^000000",
+        "en": "^8C8C8CTop (Insufficient Coins)^000000",
+        "pt": "^8C8C8CTopo (Moedas Insuficientes)^000000",
+        "es": "^8C8C8CSuperior (Monedas Insuficientes)^000000"
+    },
+    "LrO2DA": {
+        "ko": "상단(부스터 코인 10개 소모)",
+        "en": "Top (10 Booster Coins)",
+        "pt": "Topo (10 Moedas de Apoio)",
+        "es": "Superior (10 Monedas de Apoyo)"
+    },
+    "L7O2DA": {
+        "ko": "^8C8C8C중단(비어있음)^000000",
+        "en": "^8C8C8CMiddle (Empty)^000000",
+        "pt": "^8C8C8CMeio (Vazio)^000000",
+        "es": "^8C8C8CMedio (Vacío)^000000"
+    },
+    "MLO2DA": {
+        "ko": "^8C8C8C중단(코인부족)^000000",
+        "en": "^8C8C8CMiddle (Insufficient Coins)^000000",
+        "pt": "^8C8C8CMeio (Moedas Insuficientes)^000000",
+        "es": "^8C8C8CMedio (Monedas Insuficientes)^000000"
+    },
+    "MbO2DA": {
+        "ko": "중단(부스터 코인 10개 소모)",
+        "en": "Middle (10 Booster Coins)",
+        "pt": "Meio (10 Moedas de Apoio)",
+        "es": "Medio (10 Monedas de Apoyo)"
+    },
+    "MrO2DA": {
+        "ko": "^8C8C8C하단(비어있음)^000000",
+        "en": "^8C8C8CBottom (Empty)^000000",
+        "pt": "^8C8C8CBaixo (Vazio)^000000",
+        "es": "^8C8C8CInferior (Vacío)^000000"
+    },
+    "M7O2DA": {
+        "ko": "^8C8C8C하단(코인부족)^000000",
+        "en": "^8C8C8CBottom (Insufficient Coins)^000000",
+        "pt": "^8C8C8CBaixo (Moedas Insuficientes)^000000",
+        "es": "^8C8C8CInferior (Monedas Insuficientes)^000000"
+    },
+    "NLO2DA": {
+        "ko": "하단(부스터 코인 10개 소모)",
+        "en": "Bottom (10 Booster Coins)",
+        "pt": "Baixo (10 Moedas de Apoio)",
+        "es": "Inferior (10 Monedas de Apoyo)"
+    },
+    "NbO2DA": {
+        "ko": "^8C8C8C걸칠것(비어있음)^000000",
+        "en": "^8C8C8CGarment (Empty)^000000",
+        "pt": "^8C8C8CVisual (Vazio)^000000",
+        "es": "^8C8C8CDisfraz (Vacío)^000000"
+    },
+    "NrO2DA": {
+        "ko": "^8C8C8C걸칠것(코인부족)^000000",
+        "en": "^8C8C8CGarment (Insufficient Coins)^000000",
+        "pt": "^8C8C8CVisual (Moedas Insuficientes)^000000",
+        "es": "^8C8C8CDisfraz (Monedas Insuficientes)^000000"
+    },
+    "N7O2DA": {
+        "ko": "걸칠것(부스터 코인 30개 소모)",
+        "en": "Garment (30 Booster Coins)",
+        "pt": "Visual (30 Moedas de Apoio)",
+        "es": "Disfraz (30 Monedas de Apoyo)"
+    },
+    "OLO2DA": {
+        "ko": "상단",
+        "en": "Top",
+        "pt": "Topo",
+        "es": "Superior"
+    },
+    "ObO2DA": {
+        "ko": "중단",
+        "en": "Middle",
+        "pt": "Meio",
+        "es": "Medio"
+    },
+    "OrO2DA": {
+        "ko": "하단",
+        "en": "Bottom",
+        "pt": "Baixo",
+        "es": "Inferior"
+    },
+    "O7O2DA": {
+        "ko": "걸칠것",
+        "en": "Garment",
+        "pt": "Visual",
+        "es": "Disfraz"
+    },
+    "PLO2DA": {
+        "ko": "[입생말랑]\n아무리 인정 많은 나라도 코인이 없다면 아무 것도 해줄 수 없다!\n코인을 주는 일거리라도 찾아보든가!!",
+        "en": "[Aives San Laurein]\nNo matter how generous I am, I can't do anything if you don't have coins!\nGo find some errands that give coins!!",
+        "pt": "[Aives San Laurein]\nPor mais generoso que eu seja, não posso fazer nada se você não tem moedas!\nVá procurar tarefas que dão moedas!!",
+        "es": "[Aives San Laurein]\n¡Por más generoso que sea, no puedo hacer nada si no tienes monedas!\n¡¡Ve a buscar tareas que den monedas!!"
+    },
+    "PbO2DA": {
+        "ko": "[입생말랑]\n그래서 나한테 보여줄 귀염둥이는 어디냐!\n설마 착한사람 눈에만 보인다는 말을 하려는 건 아니겠지?",
+        "en": "[Aives San Laurein]\nSo, where's the cutie you're going to show me?\nDon't tell me you're going to say it's only visible to kind people?",
+        "pt": "[Aives San Laurein]\nEntão, cadê a fofura que você vai me mostrar?\nNão me diga que você vai dizer que só é visível para pessoas bondosas?",
+        "es": "[Aives San Laurein]\nEntonces, ¿dónde está la ternura que me vas a mostrar?\n¿No me digas que vas a decir que solo es visible para las personas bondadosas?"
+    },
+    "PrO2DA": {
+        "ko": "^FF0000난!! 랜덤옵션 녀석들은 취급하지 않는다!^000000\n^FF0000훠이훠이!!!^000000",
+        "en": "^FF0000I!! Do not handle random option items!^000000\n^FF0000Shoo shoo!!!^000000",
+        "pt": "^FF0000EU!! Não lido com itens com Bônus Aleatórios!^000000\n^FF0000Xô xô!!!^000000",
+        "es": "^FF0000¡¡YO!! ¡No trabajo con objetos que tienen Bonificaciones Aleatorias!^000000\n^FF0000¡¡Fuera, fuera!!!^000000"
+    },
+    "P7O2DA": {
+        "ko": "초보자 토끼 후드",
+        "en": "[Costume] Beginner Rabbit Hood",
+        "pt": "[Visual] Coelhinho Carinhoso",
+        "es": "[Disfraz] Conejito Cariñoso"
+    },
+    "QLO2DA": {
+        "ko": "초보자 빨간 책가방",
+        "en": "[Costume] Beginner Red Backpack",
+        "pt": "[Visual] Mochila Estudantil Vermelha",
+        "es": "[Disfraz] Mochila Estudiantil Roja"
+    },
+    "QbO2DA": {
+        "ko": "[입생말랑]\n난 ^FF0000의상 초보자 토끼 후드와 의상 초보자 빨간 책가방^000000 외엔 취급하지 않는다!\n다른 의상이라면 [패션스톤]에 가보든가!",
+        "en": "[Aives San Laurein]\nI only handle the ^FF0000[Costume] Beginner Rabbit Hood and [Costume] Beginner Red Backpack^000000!\nIf you have other costumes, go to [Fashion Shop] or something!",
+        "pt": "[Aives San Laurein]\nEu só lido com o ^FF0000[Visual] Coelhinho Carinhoso e a [Visual] Mochila Estudantil Vermelha^000000!\nSe você tem outras Visuals, vá na [Loja de Moda] ou algo assim!",
+        "es": "[Aives San Laurein]\n¡Solo trabajo con el ^FF0000[Disfraz] Conejito Cariñoso y la [Disfraz] Mochila Estudiantil Roja^000000!\nSi tienes otros Disfraces, ¡ve a la [Tienda de Moda] o algo así!"
+    },
+    "QrO2DA": {
+        "ko": "[입생말랑]\n의상 ^0000FF{0}^000000라면 내 전문이지!!!\n어떻게 요리해줄까?",
+        "en": "[Aives San Laurein]\nIf it's the ^0000FF{0}^000000, that's my specialty!!!\nHow would you like me to cook it?",
+        "pt": "[Aives San Laurein]\nSe é o ^0000FF{0}^000000, essa é a minha especialidade!!!\nQue encanto você gostaria de adicionar?",
+        "es": "[Aives San Laurein]\nSi es el ^0000FF{0}^000000, ¡¡¡esa es mi especialidad!!!\n¿Qué encanto te gustaría agregar?"
+    },
+    "Q7O2DA": {
+        "ko": "로드나이트 스톤",
+        "en": "Lord Knight Stone",
+        "pt": "Pedra de Lorde",
+        "es": "Piedra de Lord"
+    },
+    "RLO2DA": {
+        "ko": "로드나이트스톤II",
+        "en": "Lord Knight Stone II",
+        "pt": "Pedra de Lorde II",
+        "es": "Piedra de Lord II"
+    },
+    "RbO2DA": {
+        "ko": "팔라딘 스톤",
+        "en": "Paladin Stone",
+        "pt": "Pedra de Paladino",
+        "es": "Piedra de Paladín"
+    },
+    "RrO2DA": {
+        "ko": "팔라딘 스톤II",
+        "en": "Paladin Stone II",
+        "pt": "Pedra de Paladino II",
+        "es": "Piedra de Paladín II"
+    },
+    "R7O2DA": {
+        "ko": "화이트스미스 스톤",
+        "en": "Whitesmith Stone",
+        "pt": "Pedra de Mestre-Ferreiro",
+        "es": "Piedra de Herrero Maestro"
+    },
+    "SLO2DA": {
+        "ko": "화이트스미스 스톤II",
+        "en": "Whitesmith Stone II",
+        "pt": "Pedra de Mestre-Ferreiro II",
+        "es": "Piedra de Herrero Maestro II"
+    },
+    "SbO2DA": {
+        "ko": "크리에이터 스톤",
+        "en": "Creator Stone",
+        "pt": "Pedra de Criador",
+        "es": "Piedra de Creador"
+    },
+    "SrO2DA": {
+        "ko": "크리에이터 스톤II",
+        "en": "Creator Stone II",
+        "pt": "Pedra de Criador II",
+        "es": "Piedra de Creador II"
+    },
+    "S7O2DA": {
+        "ko": "어쌔신크로스 스톤",
+        "en": "Assassin Cross Stone",
+        "pt": "Pedra de Algoz",
+        "es": "Piedra de Verdugo"
+    },
+    "TLO2DA": {
+        "ko": "어쌔신크로스 스톤II",
+        "en": "Assassin Cross Stone II",
+        "pt": "Pedra de Algoz II",
+        "es": "Piedra de Verdugo II"
+    },
+    "TbO2DA": {
+        "ko": "스토커 스톤",
+        "en": "Stalker Stone",
+        "pt": "Pedra de Desordeiro",
+        "es": "Piedra de Pendenciero"
+    },
+    "TrO2DA": {
+        "ko": "스토커 스톤II",
+        "en": "Stalker Stone II",
+        "pt": "Pedra de Desordeiro II",
+        "es": "Piedra de Pendenciero II"
+    },
+    "T7O2DA": {
+        "ko": "하이위자드 스톤",
+        "en": "High Wizard Stone",
+        "pt": "Pedra de Arquimago",
+        "es": "Piedra de Archimago"
+    },
+    "ULO2DA": {
+        "ko": "하이위자드 스톤II",
+        "en": "High Wizard Stone II",
+        "pt": "Pedra de Arquimago II",
+        "es": "Piedra de Archimago II"
+    },
+    "UbO2DA": {
+        "ko": "프로페서 스톤",
+        "en": "Professor Stone",
+        "pt": "Pedra de Professor",
+        "es": "Piedra de Profesor"
+    },
+    "UrO2DA": {
+        "ko": "프로페서 스톤II",
+        "en": "Professor Stone II",
+        "pt": "Pedra de Professor II",
+        "es": "Piedra de Profesor II"
+    },
+    "U7O2DA": {
+        "ko": "하이프리스트 스톤",
+        "en": "High Priest Stone",
+        "pt": "Pedra de Sumo Sacerdote",
+        "es": "Piedra de Sumo Sacerdote"
+    },
+    "VLO2DA": {
+        "ko": "하이프리스트 스톤II",
+        "en": "High Priest Stone II",
+        "pt": "Pedra de Sumo Sacerdote II",
+        "es": "Piedra de Sumo Sacerdote II"
+    },
+    "VbO2DA": {
+        "ko": "챔피언 스톤",
+        "en": "Champion Stone",
+        "pt": "Pedra de Mestre",
+        "es": "Piedra de Maestro"
+    },
+    "VrO2DA": {
+        "ko": "챔피언 스톤II",
+        "en": "Champion Stone II",
+        "pt": "Pedra de Mestre II",
+        "es": "Piedra de Maestro II"
+    },
+    "V7O2DA": {
+        "ko": "스나이퍼 스톤",
+        "en": "Sniper Stone",
+        "pt": "Pedra de Atirador de Elite",
+        "es": "Piedra de Francotirador"
+    },
+    "WLO2DA": {
+        "ko": "스나이퍼 스톤II",
+        "en": "Sniper Stone II",
+        "pt": "Pedra de Atirador de Elite II",
+        "es": "Piedra de Francotirador II"
+    },
+    "WbO2DA": {
+        "ko": "크라운집시 스톤",
+        "en": "Clown and Gypsy Stone",
+        "pt": "Pedra de Artista",
+        "es": "Piedra de Artista"
+    },
+    "WrO2DA": {
+        "ko": "크라운집시 스톤II",
+        "en": "Clown and Gypsy Stone II",
+        "pt": "Pedra de Artista II",
+        "es": "Piedra de Artista II"
+    },
+    "W7O2DA": {
+        "ko": "권성 스톤",
+        "en": "Taekwon Stone",
+        "pt": "Pedra de Mestre Taekwon",
+        "es": "Piedra de Maestro Taekwon"
+    },
+    "XLO2DA": {
+        "ko": "소울링커 스톤",
+        "en": "Soul Linker Stone",
+        "pt": "Pedra de Espiritualista",
+        "es": "Piedra de Espiritualista"
+    },
+    "XbO2DA": {
+        "ko": "건슬링거 스톤",
+        "en": "Gunslinger Stone",
+        "pt": "Pedra de Justiceiro",
+        "es": "Piedra de Justiciero"
+    },
+    "XrO2DA": {
+        "ko": "도람 스톤",
+        "en": "Doram Stone",
+        "pt": "Pedra de Invocador",
+        "es": "Piedra de Doram"
+    },
+    "X7O2DA": {
+        "ko": "닌자 스톤",
+        "en": "Ninja Stone",
+        "pt": "Pedra de Ninja",
+        "es": "Piedra de Ninja"
+    },
+    "YLO2DA": {
+        "ko": "룬나이트 스톤",
+        "en": "Rune Knight Stone",
+        "pt": "Pedra de Cavaleiro Rúnico",
+        "es": "Piedra de Caballero Rúnico"
+    },
+    "YbO2DA": {
+        "ko": "룬나이트스톤II",
+        "en": "Rune Knight Stone II",
+        "pt": "Pedra de Cavaleiro Rúnico II",
+        "es": "Piedra de Caballero Rúnico II"
+    },
+    "YrO2DA": {
+        "ko": "로얄가드 스톤",
+        "en": "Royal Guard Stone",
+        "pt": "Pedra de Guardião Real",
+        "es": "Piedra de Guardia Real"
+    },
+    "Y7O2DA": {
+        "ko": "로얄가드 스톤II",
+        "en": "Royal Guard Stone II",
+        "pt": "Pedra de Guardião Real II",
+        "es": "Piedra de Guardia Real II"
+    },
+    "ZLO2DA": {
+        "ko": "미케닉 스톤",
+        "en": "Mechanic Stone",
+        "pt": "Pedra de Mecânico",
+        "es": "Piedra de Mecánico"
+    },
+    "ZbO2DA": {
+        "ko": "미케닉 스톤II",
+        "en": "Mechanic Stone II",
+        "pt": "Pedra de Mecânico II",
+        "es": "Piedra de Mecánico II"
+    },
+    "ZrO2DA": {
+        "ko": "제네릭 스톤",
+        "en": "Genetic Stone",
+        "pt": "Pedra de Bioquímico",
+        "es": "Piedra de Genetista"
+    },
+    "Z7O2DA": {
+        "ko": "제네릭 스톤II",
+        "en": "Genetic Stone II",
+        "pt": "Pedra de Bioquímico II",
+        "es": "Piedra de Genetista II"
+    },
+    "aLO2DA": {
+        "ko": "길로틴크로스 스톤",
+        "en": "Guillotine Cross Stone",
+        "pt": "Pedra de Sicário",
+        "es": "Piedra de Cortador de Cruces"
+    },
+    "abO2DA": {
+        "ko": "길로틴크로스 스톤II",
+        "en": "Guillotine Cross Stone II",
+        "pt": "Pedra de Sicário II",
+        "es": "Piedra de Cortador de Cruces II"
+    },
+    "arO2DA": {
+        "ko": "쉐도우체이서 스톤",
+        "en": "Shadow Chaser Stone",
+        "pt": "Pedra de Renegado",
+        "es": "Piedra de Perseguidor de Sombras"
+    },
+    "a7O2DA": {
+        "ko": "쉐도우체이서 스톤II",
+        "en": "Shadow Chaser Stone II",
+        "pt": "Pedra de Renegado II",
+        "es": "Piedra de Perseguidor de Sombras II"
+    },
+    "bLO2DA": {
+        "ko": "워록 스톤",
+        "en": "Warlock Stone",
+        "pt": "Pedra de Arcano",
+        "es": "Piedra de Brujo"
+    },
+    "bbO2DA": {
+        "ko": "워록 스톤II",
+        "en": "Warlock Stone II",
+        "pt": "Pedra de Arcano II",
+        "es": "Piedra de Brujo II"
+    },
+    "brO2DA": {
+        "ko": "소서러 스톤",
+        "en": "Sorcerer Stone",
+        "pt": "Pedra de Feiticeiro",
+        "es": "Piedra de Conjurador"
+    },
+    "b7O2DA": {
+        "ko": "소서러 스톤II",
+        "en": "Sorcerer Stone II",
+        "pt": "Pedra de Feiticeiro II",
+        "es": "Piedra de Conjurador II"
+    },
+    "cLO2DA": {
+        "ko": "아크비숍 스톤",
+        "en": "Archbishop Stone",
+        "pt": "Pedra de Arcebispo",
+        "es": "Piedra de Arzobispo"
+    },
+    "cbO2DA": {
+        "ko": "아크비숍 스톤II",
+        "en": "Archbishop Stone II",
+        "pt": "Pedra de Arcebispo II",
+        "es": "Piedra de Arzobispo II"
+    },
+    "crO2DA": {
+        "ko": "수라 스톤",
+        "en": "Sura Stone",
+        "pt": "Pedra de Shura",
+        "es": "Piedra de Sura"
+    },
+    "c7O2DA": {
+        "ko": "수라 스톤II",
+        "en": "Sura Stone II",
+        "pt": "Pedra de Shura II",
+        "es": "Piedra de Sura II"
+    },
+    "dLO2DA": {
+        "ko": "레인저 스톤",
+        "en": "Ranger Stone",
+        "pt": "Pedra de Sentinela",
+        "es": "Piedra de Errante"
+    },
+    "dbO2DA": {
+        "ko": "레인저 스톤II",
+        "en": "Ranger Stone II",
+        "pt": "Pedra de Sentinela II",
+        "es": "Piedra de Errante II"
+    },
+    "drO2DA": {
+        "ko": "원더민스 스톤",
+        "en": "Wanderer and Minstrel Stone",
+        "pt": "Pedra de Músicos",
+        "es": "Piedra de Maestro"
+    },
+    "d7O2DA": {
+        "ko": "원더민스 스톤II",
+        "en": "Wanderer and Minstrel Stone II",
+        "pt": "Pedra de Músicos II",
+        "es": "Piedra de Maestro II"
+    },
+    "eLO2DA": {
+        "ko": "성제 스톤",
+        "en": "Star Emperor Stone",
+        "pt": "Pedra de Mestre Estelar",
+        "es": "Piedra de Emperador Estelar"
+    },
+    "ebO2DA": {
+        "ko": "소울리퍼 스톤",
+        "en": "Soul Reaper Stone",
+        "pt": "Pedra de Ceifador de Almas",
+        "es": "Piedra de Cosechador de Almas"
+    },
+    "erO2DA": {
+        "ko": "리벨리온 스톤",
+        "en": "Rebellion Stone",
+        "pt": "Pedra de Insurgente",
+        "es": "Piedra de Rebelde"
+    },
+    "e7O2DA": {
+        "ko": "카게로우 스톤",
+        "en": "Kagerou Stone",
+        "pt": "Pedra de Kagerou",
+        "es": "Piedra de Kagerou"
+    },
+    "fLO2DA": {
+        "ko": "오보로 스톤",
+        "en": "Oboro Stone",
+        "pt": "Pedra de Oboro",
+        "es": "Piedra de Oboro"
+    },
+    "fbO2DA": {
+        "ko": "{0}({1})",
+        "en": "{0}({1})",
+        "pt": "{0}({1})",
+        "es": "{0}({1})"
+    },
+    "frO2DA": {
+        "ko": "{0}({1})",
+        "en": "{0}({1})",
+        "pt": "{0}({1})",
+        "es": "{0}({1})"
+    },
+    "f7O2DA": {
+        "ko": "{0}({1})",
+        "en": "{0}({1})",
+        "pt": "{0}({1})",
+        "es": "{0}({1})"
+    },
+    "gLO2DA": {
+        "ko": "{0}({1})",
+        "en": "{0}({1})",
+        "pt": "{0}({1})",
+        "es": "{0}({1})"
+    },
+    "gbO2DA": {
+        "ko": "{0}({1})",
+        "en": "{0}({1})",
+        "pt": "{0}({1})",
+        "es": "{0}({1})"
+    },
+    "grO2DA": {
+        "ko": "{0}({1})",
+        "en": "{0}({1})",
+        "pt": "{0}({1})",
+        "es": "{0}({1})"
+    },
+    "g7O2DA": {
+        "ko": "{0}({1})",
+        "en": "{0}({1})",
+        "pt": "{0}({1})",
+        "es": "{0}({1})"
+    },
+    "hLO2DA": {
+        "ko": "{0}({1})",
+        "en": "{0}({1})",
+        "pt": "{0}({1})",
+        "es": "{0}({1})"
+    },
+    "hbO2DA": {
+        "ko": "{0}({1})",
+        "en": "{0}({1})",
+        "pt": "{0}({1})",
+        "es": "{0}({1})"
+    },
+    "hrO2DA": {
+        "ko": "{0}({1})",
+        "en": "{0}({1})",
+        "pt": "{0}({1})",
+        "es": "{0}({1})"
+    },
+    "h7O2DA": {
+        "ko": "{0}({1})",
+        "en": "{0}({1})",
+        "pt": "{0}({1})",
+        "es": "{0}({1})"
+    },
+    "iLO2DA": {
+        "ko": "{0}({1})",
+        "en": "{0}({1})",
+        "pt": "{0}({1})",
+        "es": "{0}({1})"
+    },
+    "ibO2DA": {
+        "ko": "{0}({1})",
+        "en": "{0}({1})",
+        "pt": "{0}({1})",
+        "es": "{0}({1})"
+    },
+    "irO2DA": {
+        "ko": "{0}({1})",
+        "en": "{0}({1})",
+        "pt": "{0}({1})",
+        "es": "{0}({1})"
+    },
+    "i7O2DA": {
+        "ko": "{0}({1})",
+        "en": "{0}({1})",
+        "pt": "{0}({1})",
+        "es": "{0}({1})"
+    },
+    "jLO2DA": {
+        "ko": "{0}({1})",
+        "en": "{0}({1})",
+        "pt": "{0}({1})",
+        "es": "{0}({1})"
+    },
+    "jbO2DA": {
+        "ko": "{0}({1})",
+        "en": "{0}({1})",
+        "pt": "{0}({1})",
+        "es": "{0}({1})"
+    },
+    "jrO2DA": {
+        "ko": "{0}({1})",
+        "en": "{0}({1})",
+        "pt": "{0}({1})",
+        "es": "{0}({1})"
+    },
+    "j7O2DA": {
+        "ko": "{0}({1})",
+        "en": "{0}({1})",
+        "pt": "{0}({1})",
+        "es": "{0}({1})"
+    },
+    "kLO2DA": {
+        "ko": "{0}({1})",
+        "en": "{0}({1})",
+        "pt": "{0}({1})",
+        "es": "{0}({1})"
+    },
+    "kbO2DA": {
+        "ko": "{0}({1})",
+        "en": "{0}({1})",
+        "pt": "{0}({1})",
+        "es": "{0}({1})"
+    },
+    "krO2DA": {
+        "ko": "{0}({1})",
+        "en": "{0}({1})",
+        "pt": "{0}({1})",
+        "es": "{0}({1})"
+    },
+    "k7O2DA": {
+        "ko": "{0}({1})",
+        "en": "{0}({1})",
+        "pt": "{0}({1})",
+        "es": "{0}({1})"
+    },
+    "lLO2DA": {
+        "ko": "{0}({1})",
+        "en": "{0}({1})",
+        "pt": "{0}({1})",
+        "es": "{0}({1})"
+    },
+    "lbO2DA": {
+        "ko": "{0}({1})",
+        "en": "{0}({1})",
+        "pt": "{0}({1})",
+        "es": "{0}({1})"
+    },
+    "lrO2DA": {
+        "ko": "{0}({1})",
+        "en": "{0}({1})",
+        "pt": "{0}({1})",
+        "es": "{0}({1})"
+    },
+    "l7O2DA": {
+        "ko": "{0}({1})",
+        "en": "{0}({1})",
+        "pt": "{0}({1})",
+        "es": "{0}({1})"
+    },
+    "mLO2DA": {
+        "ko": "{0}({1})",
+        "en": "{0}({1})",
+        "pt": "{0}({1})",
+        "es": "{0}({1})"
+    },
+    "mbO2DA": {
+        "ko": "{0}({1})",
+        "en": "{0}({1})",
+        "pt": "{0}({1})",
+        "es": "{0}({1})"
+    },
+    "mrO2DA": {
+        "ko": "[입생말랑]\n뭐지?!\n이럴 수는 없다!\n잠깐!! 다시..다시 확인해 보는 거다!",
+        "en": "[Aives San Laurein]\nWhat?!\nThis can't be!\nWait!! Let me... let me check again!",
+        "pt": "[Aives San Laurein]\nO quê?!\nNão pode ser!\nEspera!! Deixa eu... deixa eu verificar de novo!",
+        "es": "[Aives San Laurein]\n¡¿Qué?!\n¡No puede ser!\n¡Espera!! ¡Déjame... déjame revisar de nuevo!"
+    },
+    "m7O2DA": {
+        "ko": "{0}({1})",
+        "en": "{0}({1})",
+        "pt": "{0}({1})",
+        "es": "{0}({1})"
+    },
+    "nLO2DA": {
+        "ko": "^FF0000   ※ 주의사항 ※^000000\n^FF0000{0}에 이미 능력치가 있는 경우, 슬롯을 초기화 하고 <ITEM>{1}<INFO>{2}</INFO></ITEM>을 부여합니다.^000000\n^FF0000인챈트할 장비와 능력치가 확실합니까?^000000",
+        "en": "^FF0000— Precautions —^000000\n^FF0000If {0} already has stats, the slot will be initialized and <ITEM>{1}<INFO>{2}</INFO></ITEM> will be granted.^000000\n^FF0000Are you sure about the equipment and stats to enchant?^000000",
+        "pt": "^FF0000— Precauções —^000000\n^FF0000Se {0} já possuir encantos, o slot será substituído pela <ITEM>{1}<INFO>{2}</INFO></ITEM>.^000000\n^FF0000Tem certeza que quer encantar?^000000",
+        "es": "^FF0000— Precauciones —^000000\n^FF0000Si {0} ya posee encantos, el espacio será reemplazado por <ITEM>{1}<INFO>{2}</INFO></ITEM>.^000000\n^FF0000¿Estás seguro de que quieres encantarlo?^000000"
+    },
+    "nbO2DA": {
+        "ko": "아니오.",
+        "en": "No.",
+        "pt": "Não.",
+        "es": "No."
+    },
+    "nrO2DA": {
+        "ko": "네.",
+        "en": "Yes.",
+        "pt": "Sim.",
+        "es": "Sí."
+    },
+    "n7O2DA": {
+        "ko": "[입생말랑]\n쟈쟌~~!!!!\n어때 나의 솜씨가!",
+        "en": "[Aives San Laurein]\nTa daa~~!!!!\nHow do you like my skills!",
+        "pt": "[Aives San Laurein]\nTa daa~~!!!!\nO que você achou das minhas habilidades?!",
+        "es": "[Aives San Laurein]\n¡Ta daa~~!!!!\n¡¿Qué te parecieron mis habilidades?!"
+    }
+}

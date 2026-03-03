@@ -1,92 +1,110 @@
 {
     "ACneBw": {
-        "en": "Court Mage Nillem",
-        "pt": "Mago Nillem",
-        "es": "Court Mage Nillem"
+        "ko": "궁정마법사 닐렘",
+        "en": "Court Magician Nillem",
+        "pt": "Mago da Corte Nillem",
+        "es": "Court Magician Nillem"
     },
     "ASneBw": {
-        "en": "[Nillem]\nIt's me, dear customer! Surprised to see me here?\nI volunteered to be the teleport mage to come here because I wanted to see you, darling!",
-        "pt": "[Nillem]\nSou eu, cliente! É uma surpresa me ver aqui?\nEu me ofereci para ser o mago do teleporte para vir até aqui porque queria ver você!",
-        "es": "[Nillem]\n¡Soy yo, estimado cliente! ¿Te sorprende verme aquí?\n¡Me ofrecí para ayudar como mago teletransportador para venir aquí porque quería verte, cariño!"
+        "ko": "[닐렘]\n나예요, 고객님~ 놀랐어요? 내가 여기 있어서?\n궁정에서 여기 올 이동 마법사를 자원받길래 자기가 보고 싶어서 내가 손 번쩍 들었지!",
+        "en": "[Nillem]\nIt’s me, dear customer~ Surprised? That I’m here?\nThe court was recruiting a warp magician to come here, so I raised my hand high because I wanted to see you!",
+        "pt": "[Nillem]\nSou eu, cliente~ Surpreso? Por eu estar aqui?\nNo palácio, estavam pedindo voluntários para ser o mago de teleporte que viria para cá, então eu levantei a mão bem alto porque queria ver você!",
+        "es": "[Nillem]\nSoy yo, mi cliente~ ¿Te sorprendí? ¿Que yo esté aquí?\nComo en la corte buscaban voluntarios para ser el mago de transporte que viniera aquí, levanté la mano bien alto porque quería verte."
     },
     "AineBw": {
-        "en": "[Nillem]\nThe big opportunity to use the Million Nillem Summoning Ticket!\nI'll send you anywhere for just 500 Zeny. Where to?",
-        "pt": "[Nillem]\nÉ uma grande oportunidade de usar o Bilhete de Conjuração Nillem do Milhão!\nPosso mandar você para qualquer lugar por apenas 500 Zeny. Você vai para onde?",
-        "es": "[Nillem]\n¡Es una gran oportunidad para usar el Boleto de invocación del millón de Nillem!\nTe enviaré a cualquier parte por tan solo 500zeny. ¿Hacia dónde?"
+        "ko": "[닐렘]\n백만 닐렘 소환권을 쓸 기-회-☆\n500제니만 내시면 보내드립니다. 어디로 갈래요?",
+        "en": "[Nillem]\nA chaaance to use the Million Nillem Summon Ticket-☆\nFor just 500 zeny, I’ll send you off. Where do you want to go?",
+        "pt": "[Nillem]\nUma chance de usar o Bilhete de Invocação do Milhão de Nillem-☆\nPor apenas 500 zeny, eu te envio. Para onde quer ir?",
+        "es": "[Nillem]\n¡Una o-por-tu-ni-dad-☆ de usar el Cupón de Invocación de un Millón de Nillem!\nSi pagas solo 500 zeny, te envío. ¿A dónde quieres ir?"
     },
     "AyneBw": {
+        "ko": "하트헌터 군수기지",
         "en": "Heart Hunter Military Base",
-        "pt": "Base Militar dos Caça-Corações",
-        "es": "Base militar de los Cazadores de corazones."
+        "pt": "Base Militar da Caça-Coração",
+        "es": "Base militar"
     },
     "BCneBw": {
-        "en": "Rudus Floor 1",
-        "pt": "1º Andar de Rudus",
-        "es": "Rudus, piso1"
+        "ko": "루두스 1층",
+        "en": "Rudus 1F",
+        "pt": "Rudus 1F",
+        "es": "Rudus 1F"
     },
     "BSneBw": {
-        "en": "Special Security Area, Cor",
-        "pt": "Área de Segurança Especial, Cor",
-        "es": "Zona especial de seguridad de Cor"
+        "ko": "특수경계지역 코르",
+        "en": "Special Security Area Cor",
+        "pt": "Distrito COR",
+        "es": "Distrito COR"
     },
     "BineBw": {
+        "ko": "현자의 저택 정원",
         "en": "Sage's Mansion Garden",
         "pt": "Jardim da Mansão do Sábio",
-        "es": "Jardín de la Mansión del Sabio"
+        "es": "Jardín de la Mansión del Sage"
     },
     "ByneBw": {
+        "ko": "취소",
         "en": "Cancel",
         "pt": "Cancelar",
-        "es": "Cancelar."
+        "es": "Cancelar"
     },
     "CCneBw": {
-        "en": "[Nillem]\nMillion Nillem Summoning Ticket, activate! To Heart Hunter Military Base.",
-        "pt": "[Nillem]\nBilhete de Conjuração Nillem do Milhão, ativar! Para a Base Militar dos Caça-Corações",
-        "es": "[Nillem]\nBoleto de invocación del millón de Nillem, ¡activado! A la base militar de los Cazadores de corazones."
+        "ko": "[닐렘]\n백만 닐렘 소환권, 발동! 하트헌터 군수기지로-☆",
+        "en": "[Nillem]\nMillion Nillem Summon Ticket, activate! To Heart Hunter Military Base-☆",
+        "pt": "[Nillem]\nBilhete de Invocação do Milhão de Nillem, ativar! Para Base Militar da Caça-Coração-☆",
+        "es": "[Nillem]\n¡Cupón de Invocación de un Millón de Nillem, activación! A Base militar-☆"
     },
     "CSneBw": {
-        "en": "[Nillem]\nOh, my, you don't have 500 Zeny, darling! How could this be!?\nI can't send you there for free. You have to at least pay for the Blue Gemstone!",
-        "pt": "[Nillem]\nAh, você não tem 500 Zeny, meu amor! Como isso é possível?!\nNão posso mandar você para lá de graça. Você tem que, pelo menos, pagar pela Gema Azul!",
-        "es": "[Nillem]\n¡Oh, Dios, no tienes 500zeny, cariño! ¿Cómo es posible?\nNo puedo enviarte allí gratis. ¡Al menos tienes que pagar por la Gema azul!"
+        "ko": "[닐렘]\n아니, 우리 자기 500제니가 없잖아요? 이를 어쩌면 좋아?!\n무료로 보내주는 건 무리, 나도 블루 젬스톤 값 정도는 있어야 이동 지원을 해줄 수 있지 않겠어요?",
+        "en": "[Nillem]\nWait, you don’t have 500 zeny? What should we do?!\nI can’t send you for free—I need at least enough for the cost of a Blue Gemstone to support the warp, don’t you think?",
+        "pt": "[Nillem]\nUé, mas você não tem 500 zeny? O que eu faço agora?!\nMandar de graça é impossível; eu também preciso ter, pelo menos, o valor de uma Blue Gemstone para poder ajudar com o teleporte, não é?",
+        "es": "[Nillem]\n¿Pero si tú no tienes 500 zeny? ¡¿Qué hacemos?!\nNo puedo enviarte gratis; yo también necesito, al menos, el costo de un Blue Gemstone para poder ayudarte con el transporte, ¿no crees?"
     },
     "CineBw": {
-        "en": "[Nillem]\nMillion Nillem Summoning Ticket, activate! To Rudus Floor 1.",
-        "pt": "[Nillem]\nBilhete de Conjuração Nillem do Milhão, ativar! Para 1º Andar de Rudus",
-        "es": "[Nillem]\nBoleto de invocación del millón de Nillem, ¡activado! A Rudus, piso1."
+        "ko": "[닐렘]\n백만 닐렘 소환권, 발동! 루두스 1층으로-☆",
+        "en": "[Nillem]\nMillion Nillem Summon Ticket, activate! To Rudus 1F-☆",
+        "pt": "[Nillem]\nBilhete de Invocação do Milhão de Nillem, ativar! Para Rudus 1F-☆",
+        "es": "[Nillem]\n¡Cupón de Invocación de un Millón de Nillem, activación! A Rudus 1F-☆"
     },
     "CyneBw": {
-        "en": "[Nillem]\nMillion Nillem Summoning Ticket, activate!",
-        "pt": "[Nillem]\nBilhete de Conjuração Nillem do Milhão, ativar!",
-        "es": "[Nillem]\nBoleto de invocación del millón de Nillem, ¡activado!"
+        "ko": "[닐렘]\n백만 닐렘 소환권, 발동! 특수경계지역 코르로-☆",
+        "en": "[Nillem]\nMillion Nillem Summon Ticket, activate! To Special Security Area Cor-☆",
+        "pt": "[Nillem]\nBilhete de Invocação do Milhão de Nillem, ativar! Para Distrito COR-☆",
+        "es": "[Nillem]\n¡Cupón de Invocación de un Millón de Nillem, activación! A Distrito COR-☆"
     },
     "DCneBw": {
-        "en": "[Nillem]\nMillion Nillem Summoning Ticket, activate! To Sage's Mansion Garden.",
-        "pt": "[Nillem]\nBilhete de Conjuração Nillem do Milhão, ativar! Para o Jardim da Mansão do Sábio",
-        "es": "[Nillem]\nBoleto de invocación del millón de Nillem, ¡activado! Al Jardín de la Mansión del Sabio."
+        "ko": "[닐렘]\n백만 닐렘 소환권, 발동! 현자의 저택 정원으로-☆",
+        "en": "[Nillem]\nMillion Nillem Summon Ticket, activate! To Sage's Mansion Garden-☆",
+        "pt": "[Nillem]\nBilhete de Invocação do Milhão de Nillem, ativar! Para Jardim da Mansão do Sábio-☆",
+        "es": "[Nillem]\n¡Cupón de Invocación de un Millón de Nillem, activación! A Jardín de la Mansión del Sage-☆"
     },
     "DSneBw": {
-        "en": "[Nillem]\nOh, my, that's a tricky request.\nI can't just send you there out of nowhere!",
-        "pt": "[Nillem]\nNossa, que pedido complicado.\nNão posso mandar você para lá do nada!",
-        "es": "[Nillem]\nVaya, es una solicitud difícil.\n¡No puedo enviarte allí de la nada!"
+        "ko": "[닐렘]\n어쩐다. 까다로운 장소를 고르셨네.\n거기는 이 닐렘이라도 그냥은 못 보내드립니다!",
+        "en": "[Nillem]\nOh dear. You picked a tricky place.\nEven I, Nillem, can’t just send you there!",
+        "pt": "[Nillem]\nPuxa. Você escolheu um lugar complicado.\nNem mesmo esta Nillem consegue te enviar para lá assim, de qualquer jeito!",
+        "es": "[Nillem]\nVaya. Elegiste un lugar complicado.\n¡Ni siquiera esta Nillem puede enviarte allí así como así!"
     },
     "DineBw": {
-        "en": "[Nillem]\nIt's not possible for me to get the safe coordinates without Alpha's permission.\nI, Nillem, am a great genius, but even I can't make the impossible possible.",
-        "pt": "[Nillem]\nNão é possível obter coordenadas seguras sem a permissão de Alfa.\nEu, Nillem, sou um grande gênio, mas nem eu consigo fazer o impossível.",
-        "es": "[Nillem]\nNo puedo obtener las coordenadas seguras sin el permiso de Alfa.\nYo, Nillem, soy un gran genio, pero ni siquiera yo puedo hacer posible lo imposible."
+        "ko": "[닐렘]\n알파의 허가가 없으면 안전한 좌표를 잡을 수가 없어요.\n이 대천재 닐렘에게 요구하셔도 어쩔 수 없는 건 어쩔 수 없다는 말-씀-☆",
+        "en": "[Nillem]\nWithout Alpha’s permission, I can’t lock onto safe coordinates.\nEven if you ask this great genius Nillem, what can’t be helped can’t be helped, you knooow-☆",
+        "pt": "[Nillem]\nSem a permissão de Alpha, não dá para definir coordenadas seguras.\nMesmo que você peça a esta supergênia Nillem, o que não dá para fazer, não dá para fazer, é o que eu di-igo-☆",
+        "es": "[Nillem]\nSin el permiso de Alpha, no puedo fijar unas coordenadas seguras.\nAunque se lo pidas a esta supergenio Nillem, lo que no se puede, no se puede, di-go-☆"
     },
     "DyneBw": {
-        "en": "[Nillem]\nNow now, the Million Nillem here is not allowed for everyone!\nOur king and the President of Schwarzwald reached an agreement. As a result, I'm here to assist you in the investigation!",
-        "pt": "[Nillem]\nBom, não é todo mundo que pode usar o Nillem do Milhão!\nNosso rei e o Presidente de Schwarzwald chegaram a um acordo. Como resultado, estou aqui para te ajudar na investigação!",
-        "es": "[Nillem]\n¡Ahora bien, el millón de Nillem aquí no está permitido para todos!\nNuestro rey y el presidente de Schwarzwald llegaron a un acuerdo. Como resultado, ¡estoy aquí para ayudarte en la investigación!"
+        "ko": "[닐렘]\n자자, 여기의 백만 닐렘은 아무나 쓸 수 없다는 사-실-!\n슈발츠발드 대통령님과 우리 국왕님의 협의로, 탐사에 힘을 보태기로 한 공식 결과로 온 거라구요, 나는.",
+        "en": "[Nillem]\nNow then, the fact is that not just anyone can use the Million Nillem here-!\nI’m here as an official result of an agreement between the Schwarzwald President and our King to lend support to the expedition.",
+        "pt": "[Nillem]\nOra, ora, o fato de que o Bilhete de Invocação do Milhão de Nillem daqui não pode ser usado por qualquer um-!\nEu vim como resultado oficial de um acordo entre o Presidente de Schwarzwald e o nosso Rei, para ajudar na exploração, eu.",
+        "es": "[Nillem]\n¡A ver, a ver, el Cupón de Invocación de un Millón de Nillem de aquí no es algo que cualquiera pueda usar, e-so-!\nYo vine como resultado oficial de un acuerdo entre el presidente de Schwarzwald y nuestro rey, para aportar fuerzas a la exploración."
     },
     "ECneBw": {
-        "en": "[Nillem]\nSo use me as much as you can when you can!",
-        "pt": "[Nillem]\nEntão pode me usar o máximo que você quiser!",
-        "es": "[Nillem]\n¡Así que sácame todo el provecho que puedas mientras tengas la oportunidad!"
+        "ko": "[닐렘]\n그러니까, 쓸 수 있을 때 잔뜩 써먹으시라는 말-씀-☆",
+        "en": "[Nillem]\nSo, I’m saying you should make the most of it while you can-☆",
+        "pt": "[Nillem]\nEntão, é o que eu di-igo-☆: use bastante enquanto pode.",
+        "es": "[Nillem]\nAsí que, di-go-☆ que lo aproveches todo lo que puedas mientras puedas usarlo."
     },
     "ESneBw": {
-        "en": "[Nillem]\nSo only the darlings who fulfilled the mission can drive me to your heart's content.\nWhich is, cooperate with Rebellion and finish investigating Cor and Rudus. Come back after that!",
-        "pt": "[Nillem]\nApenas os queridos que cumpriram a missão podem usufruir totalmente da minha utilidade.\nOu seja, coopere com a Rebelião e termine de investigar Cor e Rudus. Volte aqui depois disso!",
-        "es": "[Nillem]\nSolo los que hayan cumplido la misión podrán guiarme a su gusto.\nEso es cooperar con Rebelión y terminar de investigar a Cor y Rudus. ¡Regresa después!"
+        "ko": "[닐렘]\n그러니, 그 임무를 달성한 자기만 마음껏 부려먹을 수 있답니다.\n리벨리온과 협력해 코르와 루두스 탐사를 마치고 다시 오기-☆",
+        "en": "[Nillem]\nSo, only you, who have accomplished that mission, can use me as much as you like.\nWork with Rebellion to finish exploring Cor and Rudus, then come back-☆",
+        "pt": "[Nillem]\nPor isso, só você, que cumpriu essa missão, pode usar à vontade.\nCoopere com Rebellion, conclua a exploração de Cor e Rudus e volte aqui-☆",
+        "es": "[Nillem]\nPor eso, solo tú, que has cumplido esa misión, puedes usarme a tu antojo.\nVuelve después de cooperar con Rebellion para terminar la exploración de Cor y Rudus-☆"
     }
 }

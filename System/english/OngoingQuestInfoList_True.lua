@@ -6744,37 +6744,36 @@ QuestInfoList = {
 		CoolTimeQuest = 1
 	},
 	[3389] = {
-		Title = "Remove Organic Jamming Chips",
+		Title = "Remove Bioelectronic Interference Chip",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Chip has been removed successfully, enabling smooth communication with Eorpa."
+			"The chip removal was successful, allowing smooth communication with Eorfa."
 		},
-		Summary = "Talk to Eorpa again after she reboots."
+		Summary = "Once Eorfa's system restarts, speak with them."
 	},
 	[3390] = {
-		Title = "Magic Power Plant 2 Manager Eorpa",
+		Title = "2nd Magic Power Plant Administrator Eorfa",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Steal potato chips from ^4d4dffMagic-poisoned Sanares^000000!"
+			"Let us take Potato Chips from ^4d4dffMana-Addicted Sanare^000000!"
 		},
-		Summary = "Collect 10 Potato Chips."
+		Summary = "Retrieve 10 Potato Chips."
 	},
 	[3391] = {
-		Title = "Potato Chips of Illusion - Pending",
+		Title = "Potato Chips Scattered by Illusion - Waiting",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"A Daily quest. It can be repeated after its cooldown. Accept it through <NAVI>[Eorpa]<INFO>ba_maison,79,278,0,101,0</INFO></NAVI>."
+			"This quest is a daily quest and can be accepted again once the waiting period expires. The quest can be accepted through <NAVI>[Eorfa]<INFO>ba_maison,79,278,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Resets at 4:00 a.m.",
-		CoolTimeQuest = 1
+		Summary = "Resets at 04:00"
 	},
 	[3392] = {
-		Title = "Potato Chips of Illusion",
+		Title = "Potato Chips Scattered by Illusion",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Steal potato chips from ^4d4dffMagic-poisoned Sanares^000000!"
+			"Let us take Potato Chips from ^4d4dffMana-Addicted Sanare^000000!"
 		},
-		Summary = "Collect 10 Potato Chips."
+		Summary = "Retrieve 10 Potato Chips."
 	},
 	[3393] = {
 		Title = "Royal Hunt",
@@ -13921,105 +13920,103 @@ QuestInfoList = {
 		}
 	},
 	[5892] = {
-		Title = "Cleaner Robot Omega",
+		Title = "Cleaning Robot Ω",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"Cleaner Robot Omega"
+			"Cleaning Robot Ω"
 		},
-		Summary = "Complete talking to Cleaner Robot Omega."
+		Summary = "Conversation with Cleaning Robot Ω completed"
 	},
 	[5893] = {
 		Title = "Sewage Treatment Plant Cleanup I",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Cleaner Robot Omega]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI> is sad that it can't clean the plant.",
-			"Let's ^0000FFpunish^000000 44 <NAVI>[Sewage Venenums]<INFO>EP17_2_VENENUM3,0,0,3,-222,1</INFO></NAVI>.",
+			"<NAVI>[Cleaning Robot Ω]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI> is saddened that it cannot clean.",
+			"Defeat 44 <NAVI>[Sewage Venenum]<INFO>EP17_2_VENENUM3,0,0,3,-222,1</INFO></NAVI>.",
 			"",
-			"You have to complete all of Sewage Treatment Plant Cleanup I, Sewage Treatment Plant Cleanup II, and Sewage Treatment Plant III to receive the reward."
+			"Rewards can only be obtained after completing Sewage Treatment Plant Cleanup I, Sewage Treatment Plant Cleanup II, and Sewage Treatment Plant Cleanup III."
 		},
-		Summary = "44 Sewage Venenums",
+		Summary = "44 Sewage Venenum",
 		NpcSpr = "EP17_2_OMEGA_CLEANER"
 	},
 	[5894] = {
 		Title = "Sewage Treatment Plant Cleanup II",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Cleaner Robot Omega]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI> is sad that it can't clean the plant.",
-			"Let's ^0000FFpunish^000000 44 <NAVI>[Sewage Cramps]<INFO>EP17_2_CRAMP,0,0,3,-222,1</INFO></NAVI>.",
+			"<NAVI>[Cleaning Robot Ω]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI> is saddened that it cannot clean.",
+			"Defeat 44 <NAVI>[Sewage Cramp]<INFO>EP17_2_CRAMP,0,0,3,-222,1</INFO></NAVI>.",
 			"",
-			"You have to complete all of Sewage Treatment Plant Cleanup I, Sewage Treatment Plant Cleanup II, and Sewage Treatment Plant III to receive the reward."
+			"Rewards can only be obtained after completing Sewage Treatment Plant Cleanup I, Sewage Treatment Plant Cleanup II, and Sewage Treatment Plant Cleanup III."
 		},
-		Summary = "44 Sewage Cramps",
+		Summary = "44 Sewage Cramp",
 		NpcSpr = "EP17_2_OMEGA_CLEANER"
 	},
 	[5895] = {
 		Title = "Sewage Treatment Plant Cleanup III",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Cleaner Robot Omega]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI> is sad that it can't clean the plant.",
-			"Let's ^0000FFpunish^000000 44 <NAVI>[Sewage Waterfalls]<INFO>EP17_2_WATERFALL,0,0,3,-222,1</INFO></NAVI>.",
+			"<NAVI>[Cleaning Robot Ω]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI> is saddened that it cannot clean.",
+			"Defeat 44 <NAVI>[Sewage Waterfall]<INFO>EP17_2_WATERFALL,0,0,3,-222,1</INFO></NAVI>.",
 			"",
-			"You have to complete all of Sewage Treatment Plant Cleanup I, Sewage Treatment Plant Cleanup II, and Sewage Treatment Plant II to receive the reward."
+			"Rewards can only be obtained after completing Sewage Treatment Plant Cleanup I, Sewage Treatment Plant Cleanup II, and Sewage Treatment Plant Cleanup III."
 		},
-		Summary = "44 Sewage Waterfalls",
+		Summary = "44 Sewage Waterfall",
 		NpcSpr = "EP17_2_OMEGA_CLEANER"
 	},
 	[5896] = {
-		Title = "[Pending] Sewage Treatment Plant Cleanup",
+		Title = "[Waiting] Sewage Treatment Plant Cleanup",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"You can accept the Sewage Treatment Plant Cleanup quest again",
-			"from <NAVI>[Cleaner Robot Omega]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI> after its cooldown."
+			"After a certain period of time,",
+			"you may accept the Sewage Treatment Plant Cleanup quest again from <NAVI>[Cleaning Robot Ω]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Resets at 4:00 a.m.",
-		CoolTimeQuest = 1,
+		Summary = "Resets at 04:00",
 		NpcSpr = "EP17_2_OMEGA_CLEANER"
 	},
 	[5897] = {
-		Title = "Magic Power Plant 1 Cleanup ��",
+		Title = "1st Magic Power Plant Cleanup I",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Cleaner Robot Omega]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI> is sad that it can't clean the plant.",
-			"Let's ^0000FFpunish^000000 44 <NAVI>[Elite Bellares]<INFO>EP17_2_BELLARE3,0,0,3,-222,1</INFO></NAVI>.",
+			"<NAVI>[Cleaning Robot Ω]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI> is saddened that it cannot clean.",
+			"Defeat 44 <NAVI>[Elite Bellare]<INFO>EP17_2_BELLARE3,0,0,3,-222,1</INFO></NAVI>.",
 			"",
-			"You have to complete all of Magic Power Plant 1 Cleanup ��, Magic Power Plant 1 Cleanup ��, and Magic Power Plant 1 Cleanup �� to receive the reward."
+			"Rewards can only be obtained after completing 1st Magic Power Plant Cleanup I, 1st Magic Power Plant Cleanup II, and 1st Magic Power Plant Cleanup III."
 		},
-		Summary = "44 Elite Bellares",
+		Summary = "44 Elite Bellare",
 		NpcSpr = "EP17_2_OMEGA_CLEANER"
 	},
 	[5898] = {
-		Title = "Magic Power Plant 1 Cleanup ��",
+		Title = "1st Magic Power Plant Cleanup II",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Cleaner Robot Omega]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI> is sad that it can't clean the plant.",
-			"Let's ^0000FFpunish^000000 44 <NAVI>[Magic-poisoned Dolors]<INFO>EP17_2_DOLOR3,0,0,3,-222,1</INFO></NAVI>.",
+			"<NAVI>[Cleaning Robot Ω]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI> is saddened that it cannot clean.",
+			"Defeat 44 <NAVI>[Mana-Addicted Dolor]<INFO>EP17_2_DOLOR3,0,0,3,-222,1</INFO></NAVI>.",
 			"",
-			"You have to complete all of Magic Power Plant 1 Cleanup ��, Magic Power Plant 1 Cleanup ��, and Magic Power Plant 1 Cleanup �� to receive the reward."
+			"Rewards can only be obtained after completing 1st Magic Power Plant Cleanup I, 1st Magic Power Plant Cleanup II, and 1st Magic Power Plant Cleanup III."
 		},
-		Summary = "44 Magic-poisoned Dolors",
+		Summary = "44 Mana-Addicted Dolor",
 		NpcSpr = "EP17_2_OMEGA_CLEANER"
 	},
 	[5899] = {
-		Title = "Magic Power Plant 1 Cleanup ��",
+		Title = "1st Magic Power Plant Cleanup III",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Cleaner Robot Omega]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI> is sad that it can't clean the plant.",
-			"Let's ^0000FFpunish^000000 44 <NAVI>[Unleashed Magics]<INFO>EP17_2_PLASMA_Y,0,0,3,-222,1</INFO></NAVI>.",
+			"<NAVI>[Cleaning Robot Ω]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI> is saddened that it cannot clean.",
+			"Defeat 44 <NAVI>[Unleashed Plasma]<INFO>EP17_2_PLASMA_Y,0,0,3,-222,1</INFO></NAVI>.",
 			"",
-			"You have to complete all of Magic Power Plant 1 Cleanup ��, Magic Power Plant 1 Cleanup ��, and Magic Power Plant 1 Cleanup �� to receive the reward."
+			"Rewards can only be obtained after completing 1st Magic Power Plant Cleanup I, 1st Magic Power Plant Cleanup II, and 1st Magic Power Plant Cleanup III."
 		},
-		Summary = "44 Unleashed Magics",
+		Summary = "44 Unleashed Plasma",
 		NpcSpr = "EP17_2_OMEGA_CLEANER"
 	},
 	[5900] = {
-		Title = "[Pending] Magic Power Plant 1 Cleanup",
+		Title = "[Waiting] 1st Magic Power Plant Cleanup",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"You can accept the Sewage Treatment Plant Cleanup quest again",
-			"from <NAVI>[Cleaner Robot Omega]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI> after the cooldown has been passed."
+			"After a certain period of time,",
+			"you may accept the 1st Magic Power Plant quest again from <NAVI>[Cleaning Robot Ω]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Resets at 4:00 a.m.",
-		CoolTimeQuest = 1,
+		Summary = "Resets at 04:00",
 		NpcSpr = "EP17_2_OMEGA_CLEANER"
 	},
 	[5901] = {
@@ -20602,22 +20599,21 @@ QuestInfoList = {
 		Title = "New Poison Gas Research",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Intern Researcher Sally]<INFO>einbech,143,244,0,101,0</INFO></NAVI> near the Einbech Mine said she is researching Poisonouses and Toxiouses, which can be found in Einbech Mine Dungeon Floor 3, and asked me to hunt some."
+			"Near Einbech Mine, <NAVI>[Trainee Researcher Sally]<INFO>einbech,143,244,0,101,0</INFO></NAVI> said she is researching Poisonous and Toxious that appear on the 3rd floor of the Einbech Mine dungeon, and asked you to hunt an appropriate amount."
 		},
-		Summary = "Hunt Poisonouses and Toxiouses",
+		Summary = "Hunt Poisonous, Toxious",
 		NpcSpr = "4_F_LGTGIRL",
 		NpcNavi = "einbech",
 		NpcPosX = 143,
 		NpcPosY = 244
 	},
 	[7880] = {
-		Title = "New Poison Gas Research - Pending",
+		Title = "New Poison Gas Research - Waiting",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"You can receive the New Poison Gas Research quest again from <NAVI>[Intern Researcher Sally]<INFO>einbech,143,244,0,101,0</INFO></NAVI> near the Einbech Mine after its cooldown."
+			"After the waiting time expires, you can accept the 'New Poison Gas Research' quest from <NAVI>[Trainee Researcher Sally]<INFO>einbech,143,244,0,101,0</INFO></NAVI> near Einbech Mine."
 		},
-		Summary = "Resets at 4:00 a.m.",
-		CoolTimeQuest = 1,
+		Summary = "Resets at 04:00",
 		NpcSpr = "4_F_LGTGIRL",
 		NpcNavi = "einbech",
 		NpcPosX = 143,
@@ -20627,22 +20623,21 @@ QuestInfoList = {
 		Title = "Unusual Mineral Research 1",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Intern Researcher Sally]<INFO>einbech,143,244,0,101,0</INFO></NAVI> near the Einbech Mine said she is researching Green Minerals and Red Minerals, which can be found in Einbech Mine Dungeon Floor 3, and asked me to hunt some."
+			"Near Einbech Mine, <NAVI>[Trainee Researcher Sally]<INFO>einbech,143,244,0,101,0</INFO></NAVI> said she is researching Green Mineral and Red Mineral that appear on the 3rd floor of the Einbech Mine dungeon, and asked you to hunt an appropriate amount."
 		},
-		Summary = "Hunt Green Minerals and Red Minerals",
+		Summary = "Hunt Green Mineral, Red Mineral",
 		NpcSpr = "4_F_LGTGIRL",
 		NpcNavi = "einbech",
 		NpcPosX = 143,
 		NpcPosY = 244
 	},
 	[7882] = {
-		Title = "Unusual Mineral Research 1 - Pending",
+		Title = "Unusual Mineral Research 1 - Waiting",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"You can receive the Unusual Mineral Research 1 quest again from <NAVI>[Intern Researcher Sally]<INFO>einbech,143,244,0,101,0</INFO></NAVI> near the Einbech Mine after its cooldown."
+			"After the waiting time expires, you can accept the 'Unusual Mineral Research 1' quest from <NAVI>[Trainee Researcher Sally]<INFO>einbech,143,244,0,101,0</INFO></NAVI> near Einbech Mine."
 		},
-		Summary = "Resets at 4:00 a.m.",
-		CoolTimeQuest = 1,
+		Summary = "Resets at 04:00",
 		NpcSpr = "4_F_LGTGIRL",
 		NpcNavi = "einbech",
 		NpcPosX = 143,
@@ -20652,47 +20647,45 @@ QuestInfoList = {
 		Title = "Unusual Mineral Research 2",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Intern Researcher Sally]<INFO>einbech,143,244,0,101,0</INFO></NAVI> near the Einbech Mine said she is researching White Minerals and Purple Minerals, which can be found in Einbech Mine Dungeon Floor 3, and asked me to hunt some."
+			"Near Einbech Mine, <NAVI>[Trainee Researcher Sally]<INFO>einbech,143,244,0,101,0</INFO></NAVI> said she is researching White Mineral and Purple Mineral that appear on the 3rd floor of the Einbech Mine dungeon, and asked you to hunt an appropriate amount."
 		},
-		Summary = "Hunt White Minerals and Purple Minerals",
+		Summary = "Hunt White Mineral, Purple Mineral",
 		NpcSpr = "4_F_LGTGIRL",
 		NpcNavi = "einbech",
 		NpcPosX = 143,
 		NpcPosY = 244
 	},
 	[7884] = {
-		Title = "Unusual Mineral Research 2 - Pending",
+		Title = "Unusual Mineral Research 2 - Waiting",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"You can receive the Unusual Mineral Research 2 quest again from <NAVI>[Intern Researcher Sally]<INFO>einbech,143,244,0,101,0</INFO></NAVI> near the Einbech Mine after its cooldown."
+			"After the waiting time expires, you can accept the 'Unusual Mineral Research 2' quest from <NAVI>[Trainee Researcher Sally]<INFO>einbech,143,244,0,101,0</INFO></NAVI> near Einbech Mine."
 		},
-		Summary = "Resets at 4:00 a.m.",
-		CoolTimeQuest = 1,
+		Summary = "Resets at 04:00",
 		NpcSpr = "4_F_LGTGIRL",
 		NpcNavi = "einbech",
 		NpcPosX = 143,
 		NpcPosY = 244
 	},
 	[7885] = {
-		Title = "Abyssman Research",
+		Title = "Research on Abyss Man",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Intern Researcher Sally]<INFO>einbech,143,244,0,101,0</INFO></NAVI> near the Einbech Mine said she is researching Abyssmen, which can be found in Einbech Mine Dungeon Floor 3, and asked me to hunt some."
+			"Near Einbech Mine, <NAVI>[Trainee Researcher Sally]<INFO>einbech,143,244,0,101,0</INFO></NAVI> said she is researching Abyss Man that appears on the 3rd floor of the Einbech Mine dungeon, and asked you to hunt an appropriate amount."
 		},
-		Summary = "Hunt Abyssmen",
+		Summary = "Hunt Abyss Man",
 		NpcSpr = "4_F_LGTGIRL",
 		NpcNavi = "einbech",
 		NpcPosX = 143,
 		NpcPosY = 244
 	},
 	[7886] = {
-		Title = "Abyssman Research - Pending",
+		Title = "Abyss Man Research - Waiting",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"You can receive the Abyssman Research quest again from <NAVI>[Intern Researcher Sally]<INFO>einbech,143,244,0,101,0</INFO></NAVI> near the Einbech Mine after its cooldown."
+			"After the waiting time expires, you can accept the 'Abyss Man Research' quest from <NAVI>[Trainee Researcher Sally]<INFO>einbech,143,244,0,101,0</INFO></NAVI> near Einbech Mine."
 		},
-		Summary = "Resets at 4:00 a.m.",
-		CoolTimeQuest = 1,
+		Summary = "Resets at 04:00",
 		NpcSpr = "4_F_LGTGIRL",
 		NpcNavi = "einbech",
 		NpcPosX = 143,
@@ -20702,172 +20695,165 @@ QuestInfoList = {
 		Title = "Mine Bug Research",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Intern Researcher Sally]<INFO>einbech,143,244,0,101,0</INFO></NAVI>near the Einbech Mine said she is researching White Porcellios and Jeweliants, which can be found in Einbech Mine Dungeon Floor 3, and asked me to hunt some."
+			"<NAVI>[Trainee Researcher Sally]<INFO>einbech,143,244,0,101,0</INFO></NAVI> near Einbech Mine said she is researching White Porcellio and Jewaliant that appear on the 3rd floor of the Einbech Mine dungeon, and asked you to hunt a suitable amount."
 		},
-		Summary = "Hunt White Porcellios and Jeweliants",
+		Summary = "Hunt White Porcellio and Jewaliant",
 		NpcSpr = "4_F_LGTGIRL",
 		NpcNavi = "einbech",
 		NpcPosX = 143,
 		NpcPosY = 244
 	},
 	[7888] = {
-		Title = "Mine Bug Research - Pending",
+		Title = "Mine Bug Research - Waiting",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"You can receive the Mine Bug Research quest again from <NAVI>[Intern Researcher Sally]<INFO>einbech,143,244,0,101,0</INFO></NAVI> near the Einbech Mine after its cooldown."
+			"After the waiting time expires, you can accept the 'Mine Bug Research' quest from <NAVI>[Trainee Researcher Sally]<INFO>einbech,143,244,0,101,0</INFO></NAVI> near Einbech Mine."
 		},
-		Summary = "Resets at 4:00 a.m.",
-		CoolTimeQuest = 1,
+		Summary = "Resets at 04:00",
 		NpcSpr = "4_F_LGTGIRL",
 		NpcNavi = "einbech",
 		NpcPosX = 143,
 		NpcPosY = 244
 	},
 	[7889] = {
-		Title = "Xth Century XXgolt",
+		Title = "X Century XX Golt",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Folklorist Cinnamon]<INFO>odin_tem01,108,152,0,101,0</INFO></NAVI>, who studies Odin's Temple at a small ferry nearby, asked me to help him with investigating Ancient Odin's Temple by hunting two kinds of Angelgolts."
+			"At the small dock of the Odin Temple, you were commissioned by <NAVI>[Folklorist Cinnamon]<INFO>odin_tem01,108,152,0,101,0</INFO></NAVI>, who was researching the temple, to hunt two types of Angelgolt for an investigation of the ancient Odin Temple."
 		},
-		Summary = "Hunt two kinds of Angelgolts",
+		Summary = "Hunt two types of Angelgolt",
 		NpcSpr = "4_M_SITDOWN",
 		NpcNavi = "odin_tem01",
 		NpcPosX = 108,
 		NpcPosY = 152
 	},
 	[7890] = {
-		Title = "Xth Century XXgiold - Pending",
+		Title = "X Century XX Golt - Waiting",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"You can receive the Xth Century XXgiold quest again from <NAVI>[Folklorist Cinnamon]<INFO>odin_tem01,108,152,0,101,0</INFO></NAVI> at the Odin's Temple Ferry after its cooldown."
+			"After the waiting time expires, you can accept the 'X Century XX Golt' quest from <NAVI>[Folklorist Cinnamon]<INFO>odin_tem01,108,152,0,101,0</INFO></NAVI> waiting at the dock of the Odin Temple."
 		},
-		Summary = "Resets at 4:00 a.m.",
-		CoolTimeQuest = 1,
+		Summary = "Resets at 04:00",
 		NpcSpr = "4_M_SITDOWN",
 		NpcNavi = "odin_tem01",
 		NpcPosX = 108,
 		NpcPosY = 152
 	},
 	[7891] = {
-		Title = "What Is Valkyrie?",
+		Title = "What Is a Valkyrie",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Folklorist Cinnamon]<INFO>odin_tem01,108,152,0,101,0</INFO></NAVI>, who studies Odin's Temple at a small ferry nearby, asked me to help him with investigating Ancient Odin's Temple by hunting Holy Fruses and Holy Skoguls."
+			"At the small dock of the Odin Temple, you were asked by <NAVI>[Folklorist Cinnamon]<INFO>odin_tem01,108,152,0,101,0</INFO></NAVI>, who was researching the temple, to hunt Holy Frus and Holy Skogul for an investigation of the ancient Odin Temple."
 		},
-		Summary = "Hunt Holy Fruses and Holy Skoguls",
+		Summary = "Hunt Holy Frus and Holy Skogul",
 		NpcSpr = "4_M_SITDOWN",
 		NpcNavi = "odin_tem01",
 		NpcPosX = 108,
 		NpcPosY = 152
 	},
 	[7892] = {
-		Title = "What Is Valkyrie? - Pending",
+		Title = "What Is a Valkyrie - Waiting",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"You can receive the What Is Valkyrie? quest again from <NAVI>[Folklorist Cinnamon]<INFO>odin_tem01,108,152,0,101,0</INFO></NAVI> at the Odin's Temple Ferry after its cooldown."
+			"After the waiting time expires, you can accept the 'What Is a Valkyrie' quest from <NAVI>[Folklorist Cinnamon]<INFO>odin_tem01,108,152,0,101,0</INFO></NAVI> waiting at the pier of Odin Temple."
 		},
-		Summary = "Resets at 4:00 a.m.",
-		CoolTimeQuest = 1,
+		Summary = "Resets at 04:00",
 		NpcSpr = "4_M_SITDOWN",
 		NpcNavi = "odin_tem01",
 		NpcPosX = 108,
 		NpcPosY = 152
 	},
 	[7893] = {
-		Title = "A Strangely-colored Ferus",
+		Title = "Unusually Colored Ferus",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Folklorist Marigold]<INFO>hugel,102,148,0,101,0</INFO></NAVI> at Hugel Plaza asked me to help her study Purple Ferus, an elemental mutant found in Abyss Dungeon Floor 4."
+			"<NAVI>[Ethnologist Marigold]<INFO>hugel,102,148,0,101,0</INFO></NAVI> in the Hugel plaza asked you to help research 'Purple Ferus,' which appears to be an elemental variant on the 4th floor of the Abyss Dungeon."
 		},
-		Summary = "Hunt Purple Feruses",
+		Summary = "Hunt Purple Ferus",
 		NpcSpr = "4_F_HUWOMAN",
 		NpcNavi = "hugel",
 		NpcPosX = 102,
 		NpcPosY = 143
 	},
 	[7894] = {
-		Title = "A Strangely-colored Ferus - Pending",
+		Title = "Unusually Colored Ferus - Waiting",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"You can receive the Purple Ferus Research quest again from <NAVI>[Folklorist Marigold]<INFO>hugel,102,148,0,101,0</INFO></NAVI> at Hugel Plaza after its cooldown."
+			"After the waiting time expires, you can accept the 'Purple Ferus Research' quest from <NAVI>[Ethnologist Marigold]<INFO>hugel,102,148,0,101,0</INFO></NAVI> waiting in the Hugel plaza."
 		},
-		Summary = "Resets at 4:00 a.m.",
-		CoolTimeQuest = 1,
+		Summary = "Resets at 04:00",
 		NpcSpr = "4_F_HUWOMAN",
 		NpcNavi = "hugel",
 		NpcPosX = 102,
 		NpcPosY = 143
 	},
 	[7895] = {
-		Title = "Studying the New Mimic",
+		Title = "Investigate a New Mimic Species",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Folklorist Marigold]<INFO>hugel,102,148,0,101,0</INFO></NAVI> at Hugel Plaza asked me to hunt Treasure Mimic, a new type of Mimic found in Abyss Dungeon Floor 4, and collect its data."
+			"<NAVI>[Ethnologist Marigold]<INFO>hugel,102,148,0,101,0</INFO></NAVI> in the Hugel plaza requested that you hunt Treasure Mimic, a new type of Mimic, on the 4th floor of the Abyss Dungeon and collect data."
 		},
-		Summary = "Hunt Treasure Mimics",
+		Summary = "Hunt Treasure Mimic",
 		NpcSpr = "4_F_HUWOMAN",
 		NpcNavi = "hugel",
 		NpcPosX = 102,
 		NpcPosY = 143
 	},
 	[7896] = {
-		Title = "Studying the New Mimic - Pending",
+		Title = "Investigate a New Mimic Species - Waiting",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"You can receive the Studying the New Mimic quest again from <NAVI>[Folklorist Marigold]<INFO>hugel,102,148,0,101,0</INFO></NAVI> at Hugel Plaza after its cooldown."
+			"After the waiting time expires, you can accept the 'Investigate a New Mimic Species' quest from <NAVI>[Ethnologist Marigold]<INFO>hugel,102,148,0,101,0</INFO></NAVI> waiting in the Hugel plaza."
 		},
-		Summary = "Resets at 4:00 a.m.",
-		CoolTimeQuest = 1,
+		Summary = "Resets at 04:00",
 		NpcSpr = "4_F_HUWOMAN",
 		NpcNavi = "hugel",
 		NpcPosX = 102,
 		NpcPosY = 143
 	},
 	[7897] = {
-		Title = "Acidus Elemental Study",
+		Title = "Acidus Element Research",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Folklorist Marigold]<INFO>hugel,102,148,0,101,0</INFO></NAVI> at Hugel Plaza asked me to help her study Black Acidus and Silver Acidus, which are found in Abyss Dungeon Floor 4."
+			"<NAVI>[Ethnologist Marigold]<INFO>hugel,102,148,0,101,0</INFO></NAVI> in the Hugel plaza asked you to help research Black Acidus and Silver Acidus on the 4th floor of the Abyss Dungeon."
 		},
-		Summary = "Hunt Black Aciduses and Silver Aciduses",
+		Summary = "Hunt Black Acidus, Silver Acidus",
 		NpcSpr = "4_F_HUWOMAN",
 		NpcNavi = "hugel",
 		NpcPosX = 102,
 		NpcPosY = 143
 	},
 	[7898] = {
-		Title = "Acidus Elemental Study - Pending",
+		Title = "Acidus Element Research - Waiting",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"You can receive the Acidus Elemental Study quest again from <NAVI>[Folklorist Marigold]<INFO>hugel,102,148,0,101,0</INFO></NAVI> at Hugel Plaza after its cooldown."
+			"After the waiting time expires, you can accept the 'Acidus Element Research' quest from <NAVI>[Ethnologist Marigold]<INFO>hugel,102,148,0,101,0</INFO></NAVI> waiting in the Hugel plaza."
 		},
-		Summary = "Resets at 4:00 a.m.",
-		CoolTimeQuest = 1,
+		Summary = "Resets at 04:00",
 		NpcSpr = "4_F_HUWOMAN",
 		NpcNavi = "hugel",
 		NpcPosX = 102,
 		NpcPosY = 143
 	},
 	[7899] = {
-		Title = "Against Providence",
+		Title = "Defying Providence",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Folklorist Marigold]<INFO>hugel,102,148,0,101,0</INFO></NAVI> at Hugel Plaza asked me to send Bone Ferus and Bone Acidus, which are found in Abyss Dungeon Floor 4, back into the natural cycle."
+			"<NAVI>[Ethnologist Marigold]<INFO>hugel,102,148,0,101,0</INFO></NAVI> in Hugel Square asked you to return Bone Ferus and Bone Acidus, which appear on the 4th floor of the Abyss Dungeon, to nature's embrace."
 		},
-		Summary = "Kill Bone Feruses and Bone Aciduses",
+		Summary = "Defeat Bone Ferus and Bone Acidus",
 		NpcSpr = "4_F_HUWOMAN",
 		NpcNavi = "hugel",
 		NpcPosX = 102,
 		NpcPosY = 143
 	},
 	[7900] = {
-		Title = "Against Providence - Pending",
+		Title = "Defying Providence - Waiting",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"You can receive the Against Providence quest again from <NAVI>[Folklorist Marigold]<INFO>hugel,102,148,0,101,0</INFO></NAVI> at Hugel Plaza after its cooldown."
+			"After the waiting time expires, you can accept the 'Defying Providence' quest from <NAVI>[Ethnologist Marigold]<INFO>hugel,102,148,0,101,0</INFO></NAVI>, who is waiting in Hugel Square."
 		},
-		Summary = "Resets at 4:00 a.m.",
-		CoolTimeQuest = 1,
+		Summary = "Resets at 04:00",
 		NpcSpr = "4_F_HUWOMAN",
 		NpcNavi = "hugel",
 		NpcPosX = 102,
@@ -23647,83 +23633,81 @@ QuestInfoList = {
 		Summary = "Deliver 30 Meloring Skins"
 	},
 	[8586] = {
-		Title = "Farm Guide",
+		Title = "Ranch Guide",
 		Description = {
-			"I can't enter the farm unless I listen to the facility guide and precautions. I should listen to what <NAVI>[Ruinan]<INFO>ba_maison,311,205,0,101,0</INFO></NAVI> says."
+			"It is said that entry to the ranch will not be permitted without first hearing the facility guide and precautions. Let us speak with <NAVI>[Luynan]<INFO>ba_maison,311,205,0,101,0</INFO></NAVI> for details."
 		},
-		Summary = "Talk to Ruinan"
+		Summary = "Speak with Luynan"
 	},
 	[8587] = {
-		Title = "Daily Farm Experience - Pending",
+		Title = "Daily Farm Experience - Waiting",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Ruinan]<INFO>ba_maison,311,205,0,101,0</INFO></NAVI> will always be waiting for me. I can work and request payment again tomorrow."
+			"<NAVI>[Luynan]<INFO>ba_maison,311,205,0,101,0</INFO></NAVI> is always waiting for you. Let us return tomorrow to work and claim our reward."
 		},
-		Summary = "Resets at 4:00 a.m.",
-		CoolTimeQuest = 1
+		Summary = "Resets at 04:00"
 	},
 	[8588] = {
-		Title = "Collecting Tails",
+		Title = "Collect Tails",
 		Description = {
-			"I should collect various Pitaya Tails while on the farm and hand them to the robot named Silk at the end of the course."
+			"Deliver the various tails of Pitaya gathered during the farm experience to the automaton Silk, who conducts the final inspection."
 		},
 		Summary = "Deliver the tails to Silk at the end of the dungeon"
 	},
 	[8589] = {
-		Title = "Boss Meow!",
+		Title = "A Pitaya Cat!",
 		Description = {
-			"It seems Silk is still mad even though she reported to Ruinan through the internal server. She asked me to make a claim to <NAVI>[Ruinan]<INFO>ba_maison,311,205,0,101,0</INFO></NAVI> as a guest."
+			"Silk has completed the internal server report to Luynan, yet still seems displeased and asks that, as a guest, you file a direct complaint with <NAVI>[Luynan]<INFO>ba_maison,311,205,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Talk to Ruinan"
+		Summary = "Speak with Luynan"
 	},
 	[8590] = {
-		Title = "Playing with Red Pitayas",
+		Title = "Play with Red Pitaya",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Robot <NAVI>[Cotton]<INFO>ba_maison,306,205,0,101,0</INFO></NAVI> wants to do anything she can to fulfill the quota--she even makes the guests work! Cotton will pay me after I play with 20 Red Pitayas."
+			"The automaton <NAVI>[Cotton]<INFO>ba_maison,306,205,0,101,0</INFO></NAVI> wishes to meet its assigned labor quota by any means necessary, even imposing work upon guests. Play with 20 Red Pitaya, and Cotton will provide compensation."
 		},
-		Summary = "Hunt Red Pitayas"
+		Summary = "Defeat Red Pitaya"
 	},
 	[8591] = {
-		Title = "Playing with Yellow Pitayas",
+		Title = "Play with Yellow Pitaya",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Robot <NAVI>[Cotton]<INFO>ba_maison,306,205,0,101,0</INFO></NAVI> wants to do anything she can to fulfill the quota--she even makes the guests work! Cotton will pay me after I play with 20 Yellow Pitayas."
+			"The automaton <NAVI>[Cotton]<INFO>ba_maison,306,205,0,101,0</INFO></NAVI> wishes to meet its assigned labor quota by any means necessary, even imposing work upon guests. Play with 20 Yellow Pitaya, and Cotton will provide compensation."
 		},
-		Summary = "Hunt Yellow Pitayas"
+		Summary = "Defeat Yellow Pitaya"
 	},
 	[8592] = {
-		Title = "Playing with Blue Pitayas",
+		Title = "Play with Blue Pitaya",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Robot <NAVI>[Cotton]<INFO>ba_maison,306,205,0,101,0</INFO></NAVI> wants to do anything she can to fulfill the quota--she even makes the guests work! Cotton will pay me after I play with 20 Blue Pitayas."
+			"The automaton <NAVI>[Cotton]<INFO>ba_maison,306,205,0,101,0</INFO></NAVI> wishes to meet its assigned labor quota by any means necessary, even imposing work upon guests. Play with 20 Blue Pitaya, and Cotton will provide compensation."
 		},
-		Summary = "Hunt Blue Pitayas"
+		Summary = "Defeat Blue Pitaya"
 	},
 	[8593] = {
-		Title = "Playing with Purple Pitayas",
+		Title = "Play with Purple Pitaya",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Robot <NAVI>[Cotton]<INFO>ba_maison,306,205,0,101,0</INFO></NAVI> wants to do anything she can to fulfill the quota--she even makes the guests work! Cotton will pay me after I play with 20 Purple Pitayas."
+			"The automaton <NAVI>[Cotton]<INFO>ba_maison,306,205,0,101,0</INFO></NAVI> wishes to meet its assigned labor quota by any means necessary, even imposing work upon guests. Play with 20 Purple Pitaya, and Cotton will provide compensation."
 		},
-		Summary = "Hunt Purple Pitayas"
+		Summary = "Defeat Purple Pitaya"
 	},
 	[8594] = {
-		Title = "Playing with Green Pitayas",
+		Title = "Play with Green Pitaya",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Robot <NAVI>[Cotton]<INFO>ba_maison,306,205,0,101,0</INFO></NAVI> wants to do anything she can to fulfill the quota--she even makes the guests work! Cotton will pay me after I play with 20 Green Pitayas."
+			"The automaton <NAVI>[Cotton]<INFO>ba_maison,306,205,0,101,0</INFO></NAVI> wishes to meet its assigned labor quota by any means necessary, even imposing work upon guests. Play with 20 Green Pitaya, and Cotton will provide compensation."
 		},
-		Summary = "Hunt Green Pitayas"
+		Summary = "Defeat Green Pitaya"
 	},
 	[8595] = {
-		Title = "Playing with Pitayas - Pending",
+		Title = "Play with Pitaya - Waiting",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Cotton]<INFO>ba_maison,306,205,0,101,0</INFO></NAVI> will always be waiting for me. I can work and request payment again tomorrow."
+			"<NAVI>[Cotton]<INFO>ba_maison,306,205,0,101,0</INFO></NAVI> is always waiting for you. Let us return tomorrow to work and claim our reward."
 		},
-		Summary = "Resets at 4:00 a.m.",
-		CoolTimeQuest = 1
+		Summary = "Resets at 04:00"
 	},
 	[8604] = {
 		Title = "Verus Landscaping Department's Request",
@@ -32240,204 +32224,197 @@ QuestInfoList = {
 		Summary = ""
 	},
 	[11615] = {
-		Title = "Straggler in the Sewer Pipe",
+		Title = "Straggler in the Sewer",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"A person has drowned and got knocked out. I should heal him using a Yggdrasil Leaf."
+			"The person who fell into the water appears to be incapacitated. Use a Yggdrasil Leaf to revive them."
 		},
 		Summary = "1 Yggdrasil Leaf"
 	},
 	[11616] = {
-		Title = "Straggler in the Sewer Pipe",
+		Title = "Straggler in the Sewer",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Looks like Dew and his party got Rebellion's request to investigate the mansion too. I should join with the others."
+			"Deu's party also received a request from Rebellion to investigate the estate. Let us join the others."
 		},
-		Summary = "Follow Maggie's voice"
+		Summary = "Head to where Magi's voice can be heard"
 	},
 	[11617] = {
-		Title = "Straggler in the Sewer Pipe",
+		Title = "Straggler in the Sewer",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"I found the door out. Let's move with them."
+			"You found a door leading upward. Let us move together."
 		},
-		Summary = "Go to where Alph is"
+		Summary = "Head to where Alf is"
 	},
 	[11618] = {
-		Title = "Straggler in the Sewer Pipe",
+		Title = "Straggler in the Sewer",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"I'm finally standing on the earth. I should talk to Rashis."
+			"It seems you have finally reached the surface. Speak with Lasis."
 		},
-		Summary = "Talk to Rashis"
-	},
-	[11619] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Summary = "Speak with Lasis"
 	},
 	[11620] = {
-		Title = "Straggler in the Sewer Pipe",
+		Title = "Straggler in the Sewer",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"The door on the inside is locked. I should get out and talk to the people."
+			"The inner door appears to be locked. Go outside and speak with the party."
 		},
-		Summary = "Talk to Tamarin"
+		Summary = "Speak with Tamarin"
 	},
 	[11621] = {
-		Title = "Be Quiet in the Library!",
+		Title = "Please be quiet in the Library!",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Dew suddenly ran toward the fountain. I should follow him."
+			"Deu suddenly ran toward <NAVI>[Fountain]<INFO>ba_maison,85,111,0,101,0</INFO></NAVI>. Let us follow Deu."
 		},
-		Summary = "Check the fountain"
+		Summary = "Check Fountain"
 	},
 	[11622] = {
-		Title = "Be Quiet in the Library!",
+		Title = "Please be quiet in the Library!",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Everyone is curious about the library. I should investigate that place."
+			"Investigate the <NAVI>[Library]<INFO>ba_in01,211,177,0,101,0</INFO></NAVI> that everyone is curious about."
 		},
-		Summary = "Go into the library"
+		Summary = "Enter the Library"
 	},
 	[11623] = {
-		Title = "Be Quiet in the Library!",
+		Title = "Please be quiet in the Library!",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"I put out the fire on the door and went into the library."
+			"You turned off the light attached to the door and entered the Library. Speak with <NAVI>[Library Manager β]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Talk to Library Manager Beta"
+		Summary = "Speak with Library Manager β"
 	},
 	[11624] = {
-		Title = "Be Quiet in the Library!",
+		Title = "Please be quiet in the Library!",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"I need to register to read the books in the library. I should tell Mark about this."
+			"Additional registration is required to use the Library. Inform <NAVI>[Mark]<INFO>ba_lib,84,85,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Talk to Mark in the library"
+		Summary = "Speak with Mark in the Library"
 	},
 	[11625] = {
-		Title = "Be Quiet in the Library!",
+		Title = "Please be quiet in the Library!",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"I need to register to read the books in the library. I should tell Maggie about this."
+			"Additional registration is required to use the Library. Inform <NAVI>[Magi]<INFO>ba_lib,112,266,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Talk to Maggie in the library"
+		Summary = "Speak with Magi in the Library"
 	},
 	[11626] = {
-		Title = "Be Quiet in the Library!",
+		Title = "Please be quiet in the Library!",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"I need to register to read the books in the library. I should tell Alph about this."
+			"Additional registration is required to use the Library. Inform <NAVI>[Alf]<INFO>ba_lib,293,234,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Talk to Alph in the library"
+		Summary = "Speak with Alf in the Library"
 	},
 	[11627] = {
-		Title = "Be Quiet in the Library!",
+		Title = "Please be quiet in the Library!",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"I need to register to read the books in the library. I should tell Tamarin about this."
+			"Additional registration is required to use the Library. Inform <NAVI>[Tamarin]<INFO>ba_lib,96,208,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Talk to Tamarin in the library"
+		Summary = "Speak with Tamarin in the Library"
 	},
 	[11628] = {
-		Title = "Be Quiet in the Library!",
+		Title = "Please be quiet in the Library!",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"I need to register again to read the books in the library. I should tell Oliver about this."
+			"Additional registration is required to use the Library. Inform <NAVI>[Oliver]<INFO>ba_lib,199,233,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Talk to Oliver in the library"
+		Summary = "Speak with Oliver in the Library"
 	},
 	[11629] = {
-		Title = "Be Quiet in the Library!",
+		Title = "Please be quiet in the Library!",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"I spoke with Mark. I should go back to Library Manager Beta after speaking with all the other party members."
+			"You spoke with Mark. Once you have finished speaking with the others, return to <NAVI>[Library Manager β]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Go to Library Manager Beta"
+		Summary = "Return to Library Manager β"
 	},
 	[11630] = {
-		Title = "Be Quiet in the Library!",
+		Title = "Please be quiet in the Library!",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"I spoke with Maggie. I should go back to Library Manager Beta after speaking with all the other party members."
+			"You spoke with Magi. Once you have finished speaking with the others, return to <NAVI>[Library Manager β]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Go to Library Manager Beta"
+		Summary = "Return to Library Manager β"
 	},
 	[11631] = {
-		Title = "Be Quiet in the Library!",
+		Title = "Please be quiet in the Library!",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"I spoke with Alph. I should go back to Library Manager Beta after speaking with all the other party members."
+			"You spoke with Alf. Once you have finished speaking with the others, return to <NAVI>[Library Manager β]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Go to Library Manager Beta"
+		Summary = "Return to Library Manager β"
 	},
 	[11632] = {
-		Title = "Be Quiet in the Library!",
+		Title = "Please be quiet in the Library!",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"I spoke with Tamarin. I should go back to Library Manager Beta after speaking with all the other party members."
+			"You spoke with Tamarin. Once you have finished speaking with the others, return to <NAVI>[Library Manager β]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Go to Library Manager Beta"
+		Summary = "Return to Library Manager β"
 	},
 	[11633] = {
-		Title = "Be Quiet in the Library!",
+		Title = "Please be quiet in the Library!",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"I spoke with Oliver. I should go back to Library Manager Beta after speaking with all the other party members."
+			"You spoke with Oliver. Once you have finished speaking with the others, return to <NAVI>[Library Manager β]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Go to Library Manager Beta"
+		Summary = "Return to Library Manager β"
 	},
 	[11634] = {
 		Title = "Ultimate Bookworm Hunt",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Bookworms, which gnaw on spellbooks, are seriously bothering Library Manager Beta. Let's hunt them and return to her."
+			"The Library seems troubled by Bookworm gnawing on magic books. Defeat Bookworm and return to <NAVI>[Library Manager β]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Hunt 20 Bookworms"
+		Summary = "Hunt 20 Bookworm"
 	},
 	[11635] = {
 		Title = "Ultimate Bookworm Hunt",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"A Daily quest. It can be repeated after its cooldown. Accept it through <NAVI>[Library Manager Beta]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
+			"This is a daily quest and can be accepted again from <NAVI>[Library Manager β]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI> once the waiting period expires."
 		},
-		Summary = "Resets at 4:00 a.m.",
+		Summary = "Resets at 04:00",
 		CoolTimeQuest = 1
 	},
 	[11636] = {
-		Title = "Ultimate Book Arrangement",
+		Title = "Ultimate Book Organization",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Roaming Spellbooks are making a mess of the bookshelves. Let's retrieve Roaming Spellbooks and return to Library Manager Beta."
+			"The shelves are in disarray due to magic books wandering free. Retrieve Roaming Spellbook and return to <NAVI>[Library Manager β]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Retrieve 20 Roaming Spellbooks"
+		Summary = "Collect 20 Roaming Spellbook"
 	},
 	[11637] = {
-		Title = "Ultimate Book Arrangement",
+		Title = "Ultimate Book Organization",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"A Daily quest. It can be repeated after its cooldown. Accept it through <NAVI>[Library Manager Beta]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
+			"This is a daily quest and can be accepted again from <NAVI>[Library Manager β]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI> once the waiting period expires."
 		},
-		Summary = "Resets at 4:00 a.m.",
-		CoolTimeQuest = 1
+		Summary = "Resets at 04:00"
 	},
 	[11638] = {
-		Title = "Ultimate Scrap Metal Collecting",
+		Title = "Ultimate Scrap Collection",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Tamarin says she can fix the Guardian if I get her broken parts of Guardians. Let's retrieve Guardian parts and return to her who is in front of Laboratory 1."
+			"It is said the Guardian can be repaired if its broken parts are retrieved. Collect the Guardian's parts and return to Tamarin in front of the 1st Laboratory."
 		},
-		Summary = "Retrieve 20 Guardian Remains"
+		Summary = "Collect 20 Guardian's Remnants"
 	},
 	[11639] = {
-		Title = "Ultimate Scrap Metal Collecting",
+		Title = "Ultimate Scrap Collection",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"A Daily quest. It can be repeated after its cooldown. Accept it through <NAVI>[Tamarin]<INFO>ba_maison,70,145,0,101,0</INFO></NAVI>."
+			"This is a daily quest and can be accepted again from <NAVI>[Tamarin]<INFO>ba_maison,70,145,0,101,0</INFO></NAVI> once the waiting period expires."
 		},
-		Summary = "Resets at 4:00 a.m.",
-		CoolTimeQuest = 1
+		Summary = "Resets at 04:00"
 	},
 	[11650] = {
 		Title = "Jakk and Weird Jakk's Little Weird Story",
@@ -36371,7 +36348,7 @@ QuestInfoList = {
 	[12457] = {
 		Title = "The Moment of Ruin",
 		Description = {
-			"You must follow the time dinosaur Oscar back into the past and witness how Glastheim, once the strongest fortress, fell into ruin."
+			"You must follow the time dragon Oscar back into the past and witness how Glastheim, once the strongest fortress, fell into ruin."
 		},
 		Summary = "The Moment of Downfall"
 	},
@@ -36754,39 +36731,39 @@ QuestInfoList = {
 		Summary = "Dimensional Contamination Purification"
 	},
 	[12496] = {
-		Title = "Flower Garden Access Permission - Pending",
+		Title = "Suspended Garden Entry Waiting",
 		Description = {
-			"You can enter this Memorial Dungeon again through <NAVI>[Restricted Zone Entry Manager]<INFO>ba_maison,120,321,0,101,0</INFO></NAVI> after the cooldown has been passed."
+			"This Memorial Dungeon can be re-entered through <NAVI>[Security Area Access Officer]<INFO>ba_maison,120,321,0,101,0</INFO></NAVI> once the waiting period expires."
 		},
-		Summary = "Access Permission - Pending"
+		Summary = "Entry Authorization Waiting"
 	},
 	[12497] = {
-		Title = "Restricted Zone Access Permitted",
+		Title = "Security Area Entry Authorized",
 		Description = {
-			"You have been permitted to access the restricted zone."
+			"Access to the Security Area has been granted."
 		},
-		Summary = "Restricted Zone Access Permitted"
+		Summary = "Security Area Entry Authorized"
 	},
 	[12498] = {
-		Title = "Restricted Zone Access Permission - Pending",
+		Title = "Security Area Entry Waiting",
 		Description = {
-			"You can enter this Memorial Dungeon again through <NAVI>[Restricted Zone Entry Manager]<INFO>ba_maison,120,321,0,101,0</INFO></NAVI> after the cooldown has been passed."
+			"This Memorial Dungeon can be re-entered through <NAVI>[Security Area Access Officer]<INFO>ba_maison,120,321,0,101,0</INFO></NAVI> once the waiting period expires."
 		},
-		Summary = "Remaining Cooldown: 1 day"
+		Summary = "Remaining waiting time: 1 day"
 	},
 	[12499] = {
-		Title = "Subdue Red Pepper - Kappa",
+		Title = "Subjugate Red Pepper-Kappa",
 		Description = {
-			"I have to subdue Red Pepper Kappa, one of the 3 restricted zone managers, and steal the administrator permission. He will recover over time, though."
+			"You must subdue Red Pepper Kappa, one of the three Security Area administrators, and seize administrator privileges. Of course, they will eventually recover over time..."
 		},
-		Summary = "Buy time"
+		Summary = "Buy Time"
 	},
 	[12500] = {
-		Title = "Subdue Red Pepper - Lambda",
+		Title = "Subjugate Red Pepper-Ramda",
 		Description = {
-			"I have to subdue Red Pepper Lambda, one of the 3 restricted zone managers, and steal the administrator permission. He will recover over time, though."
+			"You must subdue Red Pepper Ramda, one of the three Security Area administrators, and seize administrator privileges. Of course, they will eventually recover over time..."
 		},
-		Summary = "Buy time"
+		Summary = "Buy Time"
 	},
 	[12501] = {
 		Title = "Eliminate Phantom in Glastheim",
@@ -44495,221 +44472,217 @@ QuestInfoList = {
 		Title = "Poisoned",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Eliumina has been exposed to toxic substances. I should go to the <NAVI>[Mansion]<INFO>ba_maison,169,270,0,101,0</INFO></NAVI> and ask for help."
+			"Eliumina has been exposed to hazardous substances. Head toward <NAVI>[the Estate]<INFO>ba_maison,169,270,0,101,0</INFO></NAVI> and request assistance."
 		},
-		Summary = "Go to the Mansion"
+		Summary = "Move to the Estate"
 	},
 	[16428] = {
-		Title = "Making the Antidote",
+		Title = "Antidote Production",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"The robots shunned Eliumina, so I got the intel myself. I should find the <NAVI>[Ferry]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI> to go to the Floating Garden."
+			"The automatons have shunned Eliumina, but you obtained information instead. To reach Suspended Garden, head to <NAVI>[the Dock]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Go to the Ferry"
+		Summary = "Move to the Dock"
 	},
 	[16429] = {
 		Title = "Silva Papilia",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"I should hunt a Silva Papilia to get the antidote ingredient and return to <NAVI>[Sayhue]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>."
+			"To create the antidote, hunt Silva Papilia and return to <NAVI>[Seiyu]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Silva Papilia Hunt"
+		Summary = "Hunt Silva Papilia"
 	},
 	[16430] = {
-		Title = "Finished Antidote",
+		Title = "Antidote Completed",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"I should give the antidote Sayhue made for us to <NAVI>[Eliumina]<INFO>ba_maison,234,51,0,101,0</INFO></NAVI>."
+			"Ask Seiyu to prepare the antidote and deliver it to <NAVI>[Eliumina]<INFO>ba_maison,234,51,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Talk to Eliumina"
+		Summary = "Speak with Eliumina"
 	},
 	[16431] = {
-		Title = "Silva Papilia Hunt",
+		Title = "Hunt Silva Papilia",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"I should hunt a Silva Papilia in the Floating Garden and return to <NAVI>[Sayhue]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>."
+			"After hunting Silva Papilia in Suspended Garden, return to <NAVI>[Seiyu]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Silva Papilia Hunt"
+		Summary = "Hunt Silva Papilia"
 	},
 	[16432] = {
-		Title = "Silva Papilia Hunt - Pending",
+		Title = "Hunt Silva Papilia - Waiting",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"A Daily quest. It can be repeated after its cooldown. Accept it through <NAVI>[Sayhue]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>."
+			"This is a daily quest and can be accepted again once the waiting period expires through <NAVI>[Seiyu]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Resets at 4:00 a.m.",
-		CoolTimeQuest = 1
+		Summary = "Resets at 04:00"
 	},
 	[16433] = {
-		Title = "Grand Papilia Hunt",
+		Title = "Hunt Gran Papilia",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"I should hunt a Grand Papilia in the Floating Garden and return to <NAVI>[Sayhue]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>."
+			"After hunting Gran Papilia in Suspended Garden, return to <NAVI>[Seiyu]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Grand Papilia Hunt"
+		Summary = "Hunt Gran Papilia"
 	},
 	[16434] = {
-		Title = "Grand Papilia Hunt - Pending",
+		Title = "Hunt Gran Papilia - Waiting",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"A Daily quest. It can be repeated after its cooldown. Accept it through <NAVI>[Sayhue]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>."
+			"This is a daily quest and can be accepted again once the waiting period expires through <NAVI>[Seiyu]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Resets at 4:00 a.m.",
-		CoolTimeQuest = 1
+		Summary = "Resets at 04:00"
 	},
 	[16435] = {
-		Title = "Where are the Gardeners?",
+		Title = "Search for Gardener",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Some gardeners have not come out from the Maze Garden yet. I should look for them, see if they're safe, and report to <NAVI>[Sayhue]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>."
+			"It is said that a Gardener has not returned from the Maze Garden. Find them, confirm their safety, and report to <NAVI>[Seiyu]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>."
 		},
 		Summary = ""
 	},
 	[16436] = {
-		Title = "Where are the Gardeners? - Pending",
+		Title = "Search for Gardener - Waiting",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"A Daily quest. It can be repeated after its cooldown. Accept it through <NAVI>[Sayhue]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>."
+			"This is a daily quest and can be accepted again once the waiting period expires through <NAVI>[Seiyu]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Resets at 4:00 a.m.",
-		CoolTimeQuest = 1
+		Summary = "Resets at 04:00"
 	},
 	[16437] = {
-		Title = "Floating Garden",
+		Title = "Suspended Garden",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"I challenged to Floating Garden Normal mode."
+			"Challenged Suspended Garden on Normal difficulty."
 		},
-		Summary = "Floating Garden Normal Mode"
+		Summary = "Suspended Garden Normal"
 	},
 	[16438] = {
-		Title = "Floating Garden Hard Mode",
+		Title = "Suspended Garden Hard",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"I challenged to Floating Garden Hard mode."
+			"Challenged Suspended Garden on Hard difficulty."
 		},
-		Summary = "Floating Garden Hard Mode"
+		Summary = "Suspended Garden Hard"
 	},
 	[16439] = {
-		Title = "Floating Garden - Pending",
-		IconName = "ico_ep.bmp",
+		Title = "Suspended Garden - Waiting",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"A Daily quest. It can be repeated after its cooldown. Accept it through <NAVI>[Sayhue]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>."
+			"This is a daily quest and can be accepted again once the waiting period expires through <NAVI>[Seiyu]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Resets at 4:00 a.m.",
-		CoolTimeQuest = 1
+		Summary = "Resets at 04:00"
 	},
 	[16440] = {
-		Title = "That Is the Question",
+		Title = "I Want to Know the Truth",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"I should talk to <NAVI>[Dien]<INFO>ba_in01,203,103,0,101,0</INFO></NAVI> to hear why the elders are opposing Philofontes."
+			"Speak with <NAVI>[Dien]<INFO>ba_in01,203,103,0,101,0</INFO></NAVI> to hear why the elders oppose Philopontes."
 		},
-		Summary = "Talk to Dien"
+		Summary = "Speak with Dien"
 	},
 	[16441] = {
-		Title = "That Is the Question",
+		Title = "I Want to Know the Truth",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Let's listen to various mansion managers, and then return to the <NAVI>[Teahouse]<INFO>ba_in01,202,108,0,101,0</INFO></NAVI> and report."
+			"After hearing various stories from the estate administrators, return to <NAVI>[the Teahouse]<INFO>ba_in01,202,108,0,101,0</INFO></NAVI> and report."
 		},
-		Summary = "Talk to the Manager"
+		Summary = "Speak with the administrators"
 	},
 	[16442] = {
-		Title = "The Story of a Manager",
+		Title = "That Administrator’s Story",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Let's listen to the story of a Mansion <NAVI>[Manager]<INFO>ba_maison,189,56,0,101,0</INFO></NAVI>."
+			"Speak with the estate <NAVI>[Administrator]<INFO>ba_maison,189,56,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Talk to the Manager"
+		Summary = "Speak with the Administrator"
 	},
 	[16443] = {
-		Title = "The Story of a Manager",
+		Title = "That Administrator’s Story",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Let's listen to the story of a Mansion <NAVI>[Manager]<INFO>ba_maison,318,169,0,101,0</INFO></NAVI>."
+			"Speak with the estate <NAVI>[Administrator]<INFO>ba_maison,318,169,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Talk to the Manager"
+		Summary = "Speak with the Administrator"
 	},
 	[16444] = {
-		Title = "The Story of a Manager",
+		Title = "That Administrator’s Story",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Let's listen to the story of a Mansion <NAVI>[Manager]<INFO>ba_maison,249,161,0,101,0</INFO></NAVI>."
+			"Speak with the estate <NAVI>[Administrator]<INFO>ba_maison,249,161,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Talk to the Manager"
+		Summary = "Speak with the Administrator"
 	},
 	[16445] = {
-		Title = "The Story of a Manager",
+		Title = "That Administrator’s Story",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Let's listen to the story of a Mansion <NAVI>[Manager]<INFO>ba_maison,232,310,0,101,0</INFO></NAVI>."
+			"Speak with the estate <NAVI>[Administrator]<INFO>ba_maison,232,310,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Talk to the Manager"
+		Summary = "Speak with the Administrator"
 	},
 	[16446] = {
-		Title = "That Is the Question",
+		Title = "I Want to Know the Truth",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"The secret keeps getting revealed. I should talk to <NAVI>[Ridsh]<INFO>ba_in01,208,110,0,101,0</INFO></NAVI> to hear the rest of the story."
+			"The long-hidden story continues. Speak with <NAVI>[Lidsh]<INFO>ba_in01,208,110,0,101,0</INFO></NAVI> to hear the rest."
 		},
-		Summary = "Talk to Ridsh"
+		Summary = "Speak with Lidsh"
 	},
 	[16447] = {
-		Title = "That Is the Question",
+		Title = "I Want to Know the Truth",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"The corporation's secret keeps getting revealed. I should talk to <NAVI>[Kaya Tos]<INFO>ba_in01,207,102,0,101,0</INFO></NAVI> to hear the rest of the story."
+			"The story the corporation tried to conceal continues. Speak with <NAVI>[Kaya Tos]<INFO>ba_in01,207,102,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Talk to Kaya"
+		Summary = "Speak with Kaya"
 	},
 	[16448] = {
-		Title = "That Is the Question",
+		Title = "I Want to Know the Truth",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Rookie spoke to me after Kaya left. Let's hear what <NAVI>[Rookie]<INFO>ba_in01,202,108,0,101,0</INFO></NAVI> says."
+			"As Kaya steps away, Rookie approaches. Hear what <NAVI>[Rookie]<INFO>ba_in01,202,108,0,101,0</INFO></NAVI> has to say."
 		},
-		Summary = "Talk to Rookie"
+		Summary = "Speak with Rookie"
 	},
 	[16449] = {
-		Title = "That Is the Question",
+		Title = "I Want to Know the Truth",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Kaya Tos is out in the garden alone. Wait, is he really by himself? I should approach <NAVI>[Kaya Tos]<INFO>ba_maison,103,92,0,101,0</INFO></NAVI>."
+			"Kaya Tos is alone in the garden. Or perhaps not? Approach <NAVI>[Kaya Tos]<INFO>ba_maison,103,92,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Talk to Kaya"
+		Summary = "Speak with Kaya"
 	},
 	[16450] = {
-		Title = "That Is the Question",
+		Title = "I Want to Know the Truth",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Maybe Dien has changed her mind a little? I should listen to <NAVI>[Dien]<INFO>ba_maison,100,90,0,101,0</INFO></NAVI>."
+			"Dien may have changed his mind. Hear what <NAVI>[Dien]<INFO>ba_maison,100,90,0,101,0</INFO></NAVI> has to say."
 		},
-		Summary = "Talk to Dien"
+		Summary = "Speak with Dien"
 	},
 	[16451] = {
-		Title = "That Is the Question",
+		Title = "I Want to Know the Truth",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Kaya wants to make a progress as quickly as possible. I should listen to <NAVI>[Kaya]<INFO>ba_maison,103,92,0,101,0</INFO></NAVI>."
+			"Kaya intends to push matters forward as quickly as possible. Hear what <NAVI>[Kaya]<INFO>ba_maison,103,92,0,101,0</INFO></NAVI> has to say."
 		},
-		Summary = "Talk to Kaya"
+		Summary = "Speak with Kaya"
 	},
 	[16452] = {
-		Title = "That Is the Question",
+		Title = "I Want to Know the Truth",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"<NAVI>[Tatio]<INFO>ba_in01,205,109,0,101,0</INFO></NAVI> has arrived. Let's hear what he says about the future of the corporation."
+			"<NAVI>[Tatio]<INFO>ba_in01,205,109,0,101,0</INFO></NAVI> has arrived. Listen to what he has to say about the corporation’s future."
 		},
-		Summary = "Talk to Tatio"
+		Summary = "Speak with Tatio"
 	},
 	[16453] = {
-		Title = "That Is the Question",
+		Title = "I Want to Know the Truth",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"I should go to the <NAVI>[spot]<INFO>ba_maison,357,291,0,101,0</INFO></NAVI> where Eich was talking with a stranger and investigate the area."
+			"Follow the <NAVI>[Guide]<INFO>ba_maison,357,291,0,101,0</INFO></NAVI> and investigate the place where H was speaking with a stranger."
 		},
-		Summary = "Follow the guidance to the destination"
+		Summary = "Move as guided"
 	},
 	[16454] = {
 		Title = "Path of the Inquisitor",
@@ -46325,401 +46298,396 @@ Talk to Kar=],
 		Summary = "Hat exchange done"
 	},
 	[17333] = {
-		Title = "Guest of the Mansion",
+		Title = "Guest of the Estate",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"It seems there's a problem sharing the guest list through the Mansion's internal network. I should ask <NAVI>[Mansion Manager Alpha]<INFO>ba_maison,74,150,0,101,0</INFO></NAVI> what the problem is."
+			"There seems to be an issue while sharing the guest list over the estate network. Check with <NAVI>[Mansion Manager α]<INFO>ba_maison,74,150,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Mansion Manager Alpha"
+		Summary = "Mansion Manager α"
 	},
 	[17334] = {
-		Title = "Repeater Check: Dining Area",
+		Title = "Check Relay Device: Dining Hall",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"I assume it's best to head to the <NAVI>[Dining Area]<INFO>ba_maison,146,109,0,101,0</INFO></NAVI> first. Deliver the message to a robot near the broken repeater, and it will take care of the rest."
+			"It would be best to head toward the nearest <NAVI>[Dining Hall]<INFO>ba_maison,146,109,0,101,0</INFO></NAVI>. Inform the automaton near the malfunctioning Relay Device, and it will handle the issue."
 		},
-		Summary = "Go to the Dining Area"
+		Summary = "Head to the Dining Hall"
 	},
 	[17335] = {
-		Title = "Repeater Component",
+		Title = "Relay Device Component",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Deal with the broken Betas and bring me 1 Robot Communication Chip. Hurry up so I can fix the repeater quickly. - <NAVI>[Tasty]<INFO>ba_maison,146,109,0,101,0</INFO></NAVI>"
+			"After dealing with the malfunctioning Beta, bring back one Automaton Communication Chip. We must repair the Relay Device immediately. - <NAVI>[Matzzang]<INFO>ba_maison,146,109,0,101,0</INFO></NAVI>"
 		},
 		Summary = "1 Component"
 	},
 	[17336] = {
-		Title = "Repeater Check: Gazebo",
+		Title = "Check Relay Device: Pavilion",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"This way will lead straight to the <NAVI>[Gazebo]<INFO>ba_maison,334,143,0,101,0</INFO></NAVI>. Don't touch the broken repeater. Just tell some nearby robots about it."
+			"Follow this path straight to reach the <NAVI>[Pavilion]<INFO>ba_maison,334,143,0,101,0</INFO></NAVI>. Do not tamper with the malfunctioning Relay Device—inform the nearby automata instead."
 		},
-		Summary = "Go to the Gazebo"
+		Summary = "Head to the Pavilion"
 	},
 	[17337] = {
-		Title = "Repeater Check: Central Garden",
+		Title = "Check Relay Device: Central Garden",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"To go to the <NAVI>[Central Garden]<INFO>ba_maison,245,206,0,101,0</INFO></NAVI>, go upward from the Gazebo and turn left."
+			"To reach the estate’s <NAVI>[Central Garden]<INFO>ba_maison,245,206,0,101,0</INFO></NAVI>, proceed upward from the Pavilion and turn left."
 		},
-		Summary = "To the central garden"
+		Summary = "Head to the Central Garden"
 	},
 	[17338] = {
-		Title = "Repeaters Checked",
+		Title = "Relay Device Check Complete",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"I checked the broken repeaters and told the robots about them. I should return to <NAVI>[Mansion Manager Alpha]<INFO>ba_maison,74,150,0,101,0</INFO></NAVI> and report."
+			"After inspecting the malfunctioning Relay Device, you informed the automaton of the issue. Return to <NAVI>[Mansion Manager α]<INFO>ba_maison,74,150,0,101,0</INFO></NAVI> and report."
 		},
-		Summary = "Go to Mansion Manager Alpha"
+		Summary = "Return to Mansion Manager α"
 	},
 	[17339] = {
-		Title = "Securing Spare Parts",
+		Title = "Procure Spare Parts",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Alpha asked me to get her some spare parts."
+			"You have been asked to bring spare parts."
 		},
-		Summary = "Collect parts"
+		Summary = "Procure Parts"
 	},
 	[17340] = {
-		Title = "Securing Spare Parts",
+		Title = "Procure Spare Parts",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Please deal with broken Betas and bring me 10 Robot Communication Chips for the repeaters. That should be enough for the day. - <NAVI>[Mansion Manager Alpha]<INFO>ba_maison,74,150,0,101,0</INFO></NAVI>"
+			"Deal with the malfunctioning Betas and bring 10 parts to be used for the Relay Device. That is the daily reserve amount. - <NAVI>[Mansion Manager α]<INFO>ba_maison,74,150,0,101,0</INFO></NAVI>"
 		},
 		Summary = "10 Components"
 	},
 	[17341] = {
-		Title = "Pending: No Signal",
+		Title = "Waiting: No Signal",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"If you have time, please consider helping me again after dawn tomorrow. I hope you rest well. - <NAVI>[Mansion Manager Alpha]<INFO>ba_maison,74,150,0,101,0</INFO></NAVI>"
+			"If circumstances permit, I would like to ask for your assistance again after dawn tomorrow. Please rest well for now. - <NAVI>[Mansion Manager α]<INFO>ba_maison,74,150,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Resets at 4:00 a.m.",
-		CoolTimeQuest = 1
+		Summary = "Resets at 04:00"
 	},
 	[17342] = {
-		Title = "Actually, I Don't Really Like It",
+		Title = "It’s Not That I Like It",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"In that case, I guess I can ask you to do it. Please dispose of 5 Broken Cleaner Robots. I hope you enjoy yourself in there. - <NAVI>[Tweet]<INFO>ba_2whs01,150,51,0,101,0</INFO></NAVI>"
+			"Then I shall trouble you. Please dispose of about 5 malfunctioning Cleaning Robots. Enjoy your leisure afterward. - <NAVI>[Jjack]<INFO>ba_2whs01,150,51,0,101,0</INFO></NAVI>"
 		},
-		Summary = "5 Broken Cleaner Robots"
+		Summary = "5 Malfunctioning Cleaning Robots"
 	},
 	[17343] = {
-		Title = "This is Scary...",
+		Title = "Scary...",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Go down the <NAVI>[Stairs]<INFO>ba_2whs01,276,290,0,101,0</INFO></NAVI> and see what's going on in the basement."
+			"Go down the <NAVI>[Stairs]<INFO>ba_2whs01,276,290,0,101,0</INFO></NAVI> and check the situation in the basement."
 		},
-		Summary = "Check the situation in the basement"
+		Summary = "Check the basement situation"
 	},
 	[17344] = {
-		Title = "I Don't Have the Key",
+		Title = "No Key",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"The door to the stairs is locked tight. I should get the key from <NAVI>[Tweet]<INFO>ba_2whs01,150,51,0,101,0</INFO></NAVI>."
+			"The door leading to the stairs is firmly locked. You must obtain the key from <NAVI>[Jjack]<INFO>ba_2whs01,150,51,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Go to Tweet"
+		Summary = "Speak with Jjack"
 	},
 	[17345] = {
-		Title = "The First Key",
+		Title = "Stairwell Key 1",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"He said every truth is hidden under the <NAVI>[rotating world]<INFO>ba_2whs01,110,218,0,101,0</INFO></NAVI>."
+			"<NAVI>[The Turning World]<INFO>ba_2whs01,110,218,0,101,0</INFO></NAVI>. Beneath it lies all truth, so they said."
 		},
-		Summary = "Find the emergency key"
+		Summary = "Find the Emergency Key"
 	},
 	[17346] = {
-		Title = "The Second Key",
+		Title = "Stairwell Key 2",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"He said everything retains its original form forever at the place <NAVI>[where even breath freezes up]<INFO>ba_2whs01,14,282,0,101,0</INFO></NAVI>."
+			"In the <NAVI>[Place]<INFO>ba_2whs01,14,282,0,101,0</INFO></NAVI> where even breath freezes, all things remain forever unchanged, they said."
 		},
-		Summary = "Find the emergency key"
+		Summary = "Find the Emergency Key"
 	},
 	[17347] = {
-		Title = "The Third Key",
+		Title = "Stairwell Key 3",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"He said that air must flow, and a huge amount of energy is used for that. I don't even have a clue about <NAVI>[what place that might be]<INFO>ba_2whs01,222,257,0,101,0</INFO></NAVI>."
+			"They said all air must flow, and that immense energy is used there. I cannot even imagine where <NAVI>[such a place]<INFO>ba_2whs01,222,257,0,101,0</INFO></NAVI> might be."
 		},
-		Summary = "Find the emergency key"
+		Summary = "Find the Emergency Key"
 	},
 	[17348] = {
 		Title = "Keys Secured",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Now that I've got all the emergency keys, I should be able to open the <NAVI>[locked door]<INFO>ba_2whs01,276,290,0,101,0</INFO></NAVI>."
+			"Now that all Emergency Key have been found, let us open the <NAVI>[Locked Door]<INFO>ba_2whs01,276,290,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Go to the locked door"
+		Summary = "Head to the stairwell door"
 	},
 	[17349] = {
-		Title = "The Door Is Open",
+		Title = "The door has opened.",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"I opened the door to the basement. I should go down and check the place <NAVI>[where the sound comes from]<INFO>ba_2whs02,37,312,0,101,0</INFO></NAVI>."
+			"The door leading underground has opened. Hurry down and check the <NAVI>[source of the noise]<INFO>ba_2whs02,37,312,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Go to the basement"
+		Summary = "Head underground"
 	},
 	[17350] = {
-		Title = "Head, Body, Arms, and Legs",
+		Title = "Head Body, Arms, Legs",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"<NAVI>[The room with the body]<INFO>ba_2whs02,31,50,0,101,0</INFO></NAVI> is the closest, so check there first. I'm scared, so please hurry."
+			"The <NAVI>[body’s location]<INFO>ba_2whs02,31,50,0,101,0</INFO></NAVI> is the closest. Go there first and bring it quickly. I’m scared."
 		},
-		Summary = "Find a body"
+		Summary = "Go find the body"
 	},
 	[17351] = {
-		Title = "Head, Body, Arms, and Legs",
+		Title = "Head Body, Arms, Legs",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"I found a body. I should look for <NAVI>[arms]<INFO>ba_2whs02,129,82,0,101,0</INFO></NAVI> next."
+			"Now that the body has been found, next is the <NAVI>[arms]<INFO>ba_2whs02,129,82,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Find arms"
+		Summary = "Go find the arms"
 	},
 	[17352] = {
-		Title = "Head, Body, Arms, and Legs",
+		Title = "Head Body, Arms, Legs",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"I found arms. I should look for <NAVI>[legs]<INFO>ba_2whs02,239,124,0,101,0</INFO></NAVI> next."
+			"The arms are found, so now it’s time to look for the <NAVI>[legs]<INFO>ba_2whs02,239,124,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Find legs"
+		Summary = "Go find the legs"
 	},
 	[17353] = {
-		Title = "Head, Body, Arms, and Legs",
+		Title = "Head Body, Arms, Legs",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"I've found a body, arms, and legs. I should go back to the <NAVI>[Head]<INFO>ba_2whs02,37,312,0,101,0</INFO></NAVI>."
+			"Now that suitable parts for the body, arms, and legs have been found, return to <NAVI>[Head]<INFO>ba_2whs02,37,312,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Go to Head"
+		Summary = "Return to Head"
 	},
 	[17354] = {
-		Title = "Head, Body, Arms, and Legs",
+		Title = "Head Body, Arms, Legs",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"I assembled a cool little robot."
+			"It has been assembled into an impressive form."
 		},
-		Summary = "Assembling complete"
+		Summary = "Assembly Complete"
 	},
 	[17355] = {
-		Title = "Head, Body, Arms, and Legs",
+		Title = "Head Body, Arms, Legs",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"I assembled a cool little robot."
+			"It has been assembled into an impressive form."
 		},
-		Summary = "Assembling complete"
+		Summary = "Assembly Complete"
 	},
 	[17356] = {
-		Title = "Head, Body, Arms, and Legs",
+		Title = "Head Body, Arms, Legs",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"I assembled a cool little robot."
+			"It has been assembled into an impressive form."
 		},
-		Summary = "Assembling complete"
+		Summary = "Assembly Complete"
 	},
 	[17357] = {
-		Title = "Head, Body, Arms, and Legs",
+		Title = "Head Body, Arms, Legs",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"I assembled a cool little robot."
+			"It has been assembled into an impressive form."
 		},
-		Summary = "Assembling complete"
+		Summary = "Assembly Complete"
 	},
 	[17358] = {
-		Title = "Basement Situation Checked",
+		Title = "Basement Situation Confirmed",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"I can defend myself now! You said you have to go up and report to another <NAVI>[robot]<INFO>ba_2whs01,150,51,0,101,0</INFO></NAVI>, right? Goodbye!"
+			"This should be enough to protect me! You said I should report to the other <NAVI>[Automata]<INFO>ba_2whs01,150,51,0,101,0</INFO></NAVI> upstairs, right? Hurry."
 		},
-		Summary = "Go to Tweet"
+		Summary = "Return to Jjack"
 	},
 	[17359] = {
-		Title = "Cleaning the Storage (Street Level)",
+		Title = "Organize the Ground Warehouse",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"You really love battles. Please dispose of 20 Heart Hunter Scouts at the street level. - <NAVI>[Tweet]<INFO>ba_2whs01,150,51,0,101,0</INFO></NAVI>"
+			"You truly enjoy combat. Then please eliminate 20 Heart Hunter on the ground floor. - <NAVI>[Jjack]<INFO>ba_2whs01,150,51,0,101,0</INFO></NAVI>"
 		},
-		Summary = "20 Heart Hunter Scouts"
+		Summary = "20 Heart Hunter"
 	},
 	[17360] = {
-		Title = "Pending: Cleaning the Storage (Street Level)",
+		Title = "Waiting: Organize the Ground Warehouse",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"I can sense that their number has decreased. I can start doing my task now. Thank you. Please come back after dawn. - <NAVI>[Tweet]<INFO>ba_2whs01,150,51,0,101,0</INFO></NAVI>"
+			"The reduced numbers have been confirmed. I may now begin my work. Thank you. Please visit again after dawn. - <NAVI>[Jjack]<INFO>ba_2whs01,150,51,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Resets at 4:00 a.m.",
-		CoolTimeQuest = 1
+		Summary = "Resets at 04:00"
 	},
 	[17361] = {
-		Title = "Cleaning the Storage (Basement)",
+		Title = "Organize the Underground Warehouse",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"You really like battles. Please dispose of 20 Broken Security Betas in the basement. - <NAVI>[Tweet]<INFO>ba_2whs01,150,51,0,101,0</INFO></NAVI>"
+			"You truly enjoy combat. Then please eliminate 20 Broken Beta Guard in the basement. - <NAVI>[Jjack]<INFO>ba_2whs01,150,51,0,101,0</INFO></NAVI>"
 		},
-		Summary = "20 Broken Security Betas in the basement"
+		Summary = "20 Basement Units"
 	},
 	[17362] = {
-		Title = "Pending: Cleaning the Storage (Basement)",
+		Title = "Waiting: Organize the Underground Warehouse",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"I can sense that their number has decreased. I can start doing my task now. Thank you. Please come back after dawn. - <NAVI>[Tweet]<INFO>ba_2whs01,150,51,0,101,0</INFO></NAVI>"
+			"The reduced numbers have been confirmed. I may now begin my work. Thank you. Please visit again after dawn. - <NAVI>[Jjack]<INFO>ba_2whs01,150,51,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Resets at 4:00 a.m.",
-		CoolTimeQuest = 1
+		Summary = "Resets at 04:00"
 	},
 	[17363] = {
-		Title = "Searching the Bathhouse",
+		Title = "Explore the Bathhouse",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"We'll start searching as soon as we get <NAVI>[into]<INFO>ba_bath,165,43,0,101,0</INFO></NAVI> the bathhouse."
+			"Once you enter <NAVI>[inside the bathhouse]<INFO>ba_bath,165,43,0,101,0</INFO></NAVI>, the investigation will begin immediately."
 		},
-		Summary = "Go into the bathhouse"
+		Summary = "Enter the bathhouse"
 	},
 	[17364] = {
-		Title = "Turn Off the Boiler",
+		Title = "Request to Stop Boiler",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Please go to the <NAVI>[Boiler Room]<INFO>ba_bath,286,68,0,101,0</INFO></NAVI> and ask the robot there to turn off the boiler. I'll be after you soon."
+			"Adventurer, please go to the <NAVI>[Boiler Room]<INFO>ba_bath,286,68,0,101,0</INFO></NAVI> and request that Boiler cease operation. I will follow shortly."
 		},
-		Summary = "Go to the boiler room"
+		Summary = "Head to the Boiler Room"
 	},
 	[17365] = {
-		Title = "It's Already Turned Off",
+		Title = "Already Stopped?",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"The boiler had already turned off. Let's return to <NAVI>[Rookie] and report<INFO>ba_bath,270,94,0,101,0</INFO></NAVI>."
+			"Boiler says it has already ceased operation. Return to <NAVI>[Rookie]<INFO>ba_bath,270,94,0,101,0</INFO></NAVI> and report."
 		},
-		Summary = "Go to Rookie"
+		Summary = "Return to Rookie"
 	},
 	[17366] = {
-		Title = "Wait, now? Really?",
+		Title = "So Suddenly?",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"If you misstep on an open drainage during the cleaning, you get ejected to the lake instead of the Sewage Treatment Plant. That's why I'm sending you <NAVI>[there]<INFO>ba_bath,165,43,0,101,0</INFO></NAVI>."
+			"If you step on the drain incorrectly while cleaning, you may fall into the lake instead of the Sewage Treatment Plant. There may be something there. Please investigate <NAVI>[that place]<INFO>ba_bath,165,43,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Investigate the lake"
 	},
 	[17367] = {
-		Title = "Countermeasure",
+		Title = "Formulate a Plan",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Anyway, we should wrap this up before the situation gets any more troublesome. You should go to the <NAVI>[Lounge]<INFO>ba_bath,203,58,0,101,0</INFO></NAVI> too, adventurer."
+			"Whatever it is, we must contain it before greater chaos ensues. Adventurer, head to the <NAVI>[Lounge]<INFO>ba_bath,203,58,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Go to the lounge"
+		Summary = "Head to the Lounge"
 	},
 	[17368] = {
-		Title = "Set the Traps 1",
+		Title = "Trap Installation 1",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Adventurer, please set these on the <NAVI>[corner]<INFO>ba_bath,55,55,0,101,0</INFO></NAVI> of the bathhouse. Just lay it on the spot and fasten it so it doesn't shake."
+			"Adventurer, please install this in the <NAVI>[corner]<INFO>ba_bath,55,55,0,101,0</INFO></NAVI> of the bathhouse. Just place it securely so it doesn’t move."
 		},
-		Summary = "Go to the marked spot"
+		Summary = "Move to the designated location"
 	},
 	[17369] = {
-		Title = "Set the Traps 2",
+		Title = "Trap Installation 2",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"As I set the trap, it starts to emit cold air. I should move on to the <NAVI>[next spot]<INFO>ba_bath,306,121,0,101,0</INFO></NAVI>."
+			"As the trap was secured, a chill spread outward. Move to the <NAVI>[next location]<INFO>ba_bath,306,121,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Go to the next spot"
+		Summary = "Move to the next location"
 	},
 	[17370] = {
-		Title = "Set the Traps 3",
+		Title = "Trap Installation 3",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"I fixed a trap on the spot that Rookie told me about. Moving on to the <NAVI>[next spot]<INFO>ba_bath,21,276,0,101,0</INFO></NAVI>."
+			"The trap has been secured where Rookie instructed. Move to the <NAVI>[next location]<INFO>ba_bath,21,276,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Go to the next spot"
+		Summary = "Move to the next location"
 	},
 	[17371] = {
-		Title = "Set the Traps 4",
+		Title = "Trap Installation 4",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"I laid a trap on the marked spot and fixed it firmly. Onto the <NAVI>[next spot]<INFO>ba_bath,155,305,0,101,0</INFO></NAVI>."
+			"The trap was placed firmly at the marked spot. Move to the <NAVI>[next location]<INFO>ba_bath,155,305,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Go to the next spot"
+		Summary = "Move to the next location"
 	},
 	[17372] = {
-		Title = "All Traps Set",
+		Title = "Trap Installation Complete",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Did you set all the traps? We're already started. Let's hurry to the <NAVI>[spot for operation]<INFO>ba_bath,286,298,0,101,0</INFO></NAVI>."
+			"Are all traps installed? It’s already begun here. Hurry to the <NAVI>[operation site]<INFO>ba_bath,286,298,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Go to the field of operation"
+		Summary = "Move to the operation site"
 	},
 	[17373] = {
-		Title = "Let's Talk Anyway",
+		Title = "Let’s Try Talking First",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"The mysterious <NAVI>[person]<INFO>ba_bath,286,298,0,101,0</INFO></NAVI> disguised as Goni seems to be choosing their words. I should talk to them again."
+			"The mysterious <NAVI>[person]<INFO>ba_bath,286,298,0,101,0</INFO></NAVI> who resembles Goni seemed to be choosing their words. Attempt to speak again."
 		},
-		Summary = "Talk to Fake Goni"
+		Summary = "Talk to the fake Goni"
 	},
 	[17374] = {
-		Title = "Why Did You Do That?",
+		Title = "Why Did You Do It?",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Looks like Rookie is going to start a serious conversation with the <NAVI>[mermaid]<INFO>ba_bath,286,298,0,101,0</INFO></NAVI>."
+			"It seems Rookie is about to begin a full conversation with the <NAVI>[Mermaid]<INFO>ba_bath,286,298,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Talk to the mermaid"
+		Summary = "Talk to the Mermaid"
 	},
 	[17375] = {
-		Title = "Boiler's Request",
+		Title = "Request from Boiler",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Take care of 20 Broken Cleaners and bring me 5 Broken Robot Parts, please. - <NAVI>[Boiler]<INFO>ba_bath,286,68,0,101,0</INFO></NAVI>"
+			"Please eliminate about 20 Broken masseur and bring around 5 broken automaton parts. - <NAVI>[Boiler]<INFO>ba_bath,286,68,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Accepted Boiler's request"
+		Summary = "Heard Boiler’s request"
 	},
 	[17376] = {
-		Title = "Between Hot and Cold Bath",
+		Title = "Between the Hot and Cold Baths",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Take care of 20 Broken Cleaners and bring me 5 Broken Robot Parts, please. - <NAVI>[Boiler]<INFO>ba_bath,286,68,0,101,0</INFO></NAVI>"
+			"Please eliminate about 20 Broken masseur and bring around 5 broken automaton parts. - <NAVI>[Boiler]<INFO>ba_bath,286,68,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Get rid of the broken robots"
+		Summary = "Dispose of broken automata"
 	},
 	[17377] = {
-		Title = "Pending: Between Hot and Cold Bath",
+		Title = "Waiting: Between the Hot and Cold Baths",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Rest up, and I'd appreciate it if you'd come back after dawn tomorrow. - <NAVI>[Boiler]<INFO>ba_bath,286,68,0,101,0</INFO></NAVI>"
+			"Please rest for today, and return after dawn. - <NAVI>[Boiler]<INFO>ba_bath,286,68,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Resets at 4:00 a.m.",
-		CoolTimeQuest = 1
+		Summary = "Resets at 04:00"
 	},
 	[17378] = {
-		Title = "Sweeper's Request",
+		Title = "Request from Saksseuri",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Please eradicate 15 Boiling Marcs and 15 Boiling Piranhas. They're all in there. - <NAVI>[Sweeper]<INFO>ba_bath,288,68,0,101,0</INFO></NAVI>"
+			"Please eliminate 15 Hot-water Mark and 15 Hot-water Piranha. Handle them all within this area. - <NAVI>[Saksseuri]<INFO>ba_bath,288,68,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Accepted Sweeper's request"
+		Summary = "Heard Saksseuri’s request"
 	},
 	[17379] = {
-		Title = "Bathhouse Is Under Cleaning",
+		Title = "Bathhouse Cleaning in Progress",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Please eradicate 15 Boiling Marcs and 15 Boiling Piranhas. They're all in there. - <NAVI>[Sweeper]<INFO>ba_bath,288,68,0,101,0</INFO></NAVI>"
+			"Please eliminate 15 Hot-water Mark and 15 Hot-water Piranha. Handle them all within this area. - <NAVI>[Saksseuri]<INFO>ba_bath,288,68,0,101,0</INFO></NAVI>"
 		},
-		Summary = "30 fish"
+		Summary = "30 Fish"
 	},
 	[17380] = {
-		Title = "Pending: Bathhouse Is Under Cleaning",
+		Title = "Waiting: Bathhouse Cleaning in Progress",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"You should come back after dawn. There will still be plenty of fish here. - <NAVI>[Sweeper]<INFO>ba_bath,288,68,0,101,0</INFO></NAVI>"
+			"It would be best to return after dawn. The fish will still be plentiful then. - <NAVI>[Saksseuri]<INFO>ba_bath,288,68,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Resets at 4:00 a.m.",
-		CoolTimeQuest = 1
+		Summary = "Resets at 04:00"
 	},
 	[17381] = {
-		Title = "Joining with the Party",
+		Title = "Regroup with the Party",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"The companions who arrived first are at the <NAVI>[Teahouse]<INFO>ba_in01,206,106,0,101,0</INFO></NAVI>. Take a look around there and have a chat with them."
+			"The members who arrived earlier are currently staying at the <NAVI>[Teahouse]<INFO>ba_in01,206,106,0,101,0</INFO></NAVI>. Feel free to stop by and converse with them."
 		},
-		Summary = "Go to the Teahouse"
+		Summary = "Head to the Teahouse"
 	},
 	[17382] = {
 		Title = "Creating Snowmen",
@@ -47756,122 +47724,122 @@ Talk to Kar=],
 		Summary = ""
 	},
 	[18000] = {
-		Title = "Getting Ready",
+		Title = "Prepare to Enter",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Rebellion finally unlocked the sewer pipe. Rookie told me to talk to him again when I was ready to go in."
+			"Rebellion has finally succeeded in unlocking the sewer passage. Rookie asked that you speak to him again once you are ready to enter."
 		},
 		Summary = "Talk to Rookie"
 	},
 	[18001] = {
-		Title = "A Tiny Hole in the Mansion",
+		Title = "A Hole in the Estate Wall",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Rookie of Cor told me to infiltrate through the sewer pipe. He also said that if I find a companion who got lost in there, I should move together with them."
+			"Rookie of Cor says to enter through the sewer conduit. If you find any comrades lost inside, move together with them."
 		},
 		Summary = "Talk to Durian"
 	},
 	[18002] = {
-		Title = "Retrieve Broken Cores",
+		Title = "Retrieve the Damaged Cores",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Rookie and I decided to retrieve the cores of the robots attacked by Heart Hunters. Let's retrieve the cores while heading to the rendezvous point."
+			"Together with Rookie, you decided to recover the cores of automata attacked by Heart Hunter. Collect the cores and head to the designated meeting point promised to Rookie."
 		},
-		Summary = "Retrieve at least 5 Broken Cores"
+		Summary = "Collect at least 5 Damaged Cores"
 	},
 	[18003] = {
-		Title = "Broken Core 01",
+		Title = "Damaged Core 01",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Check the core from the body of a broken manager."
+			"You check the core from the broken administrator unit."
 		},
 		Summary = ""
 	},
 	[18004] = {
-		Title = "Broken Core 02",
+		Title = "Damaged Core 02",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Check the core from the body of a broken manager."
+			"You check the core from the broken administrator unit."
 		},
 		Summary = ""
 	},
 	[18005] = {
-		Title = "Broken Core 03",
+		Title = "Damaged Core 03",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Check the core from the body of a broken manager."
+			"You check the core from the broken administrator unit."
 		},
 		Summary = ""
 	},
 	[18006] = {
-		Title = "Broken Core 04",
+		Title = "Damaged Core 04",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Check the core from the body of a broken manager."
+			"You check the core from the broken administrator unit."
 		},
 		Summary = ""
 	},
 	[18007] = {
-		Title = "Broken Core 05",
+		Title = "Damaged Core 05",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Check the core from the body of a broken manager."
+			"You check the core from the broken administrator unit."
 		},
 		Summary = ""
 	},
 	[18008] = {
-		Title = "Broken Core 06",
+		Title = "Damaged Core 06",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Check the core from the body of a broken manager."
+			"You check the core from the broken administrator unit."
 		},
 		Summary = ""
 	},
 	[18009] = {
-		Title = "Broken Core 07",
+		Title = "Damaged Core 07",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Check the core from the body of a broken manager."
+			"You check the core from the broken administrator unit."
 		},
 		Summary = ""
 	},
 	[18010] = {
-		Title = "Broken Core 08",
+		Title = "Damaged Core 08",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Check the core from the body of a broken manager."
+			"You check the core from the broken administrator unit."
 		},
 		Summary = ""
 	},
 	[18011] = {
-		Title = "Broken Core 09",
+		Title = "Damaged Core 09",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Check the core from the body of a broken manager."
+			"You check the core from the broken administrator unit."
 		},
 		Summary = ""
 	},
 	[18012] = {
-		Title = "Broken Core 10",
+		Title = "Damaged Core 10",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Check the core from the body of a broken manager."
+			"You check the core from the broken administrator unit."
 		},
 		Summary = ""
 	},
 	[18013] = {
-		Title = "To the Rendezvous Spot",
+		Title = "To the Designated Point",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"I retrieved some cores from broken managers. I should join Rookie at the promised rendezvous <NAVI>[spot]<INFO>ba_maison,303,141,0,101,0</INFO></NAVI>."
+			"You have recovered some of the damaged administrator cores. Regroup at the <NAVI>[designated point]<INFO>ba_maison,303,141,0,101,0</INFO></NAVI> where you agreed to meet Rookie."
 		},
 		Summary = "Talk to Elena Volkova"
 	},
 	[18014] = {
-		Title = "Unexpected Luck",
+		Title = "An Unexpected Big Catch",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"We caught Eisen Werner alive thanks to Elena's wits. Elena took Eisen Werner to <NAVI>[Servant's Quarters]<INFO>ba_maison,100,320,0,101,0</INFO></NAVI> where Eliumina was detained. I should join them and interrogate Eisen."
+			"Thanks to Elena’s quick thinking, Eisen Werner has been captured. Elena heads to the <NAVI>[Servants’ Quarters]<INFO>ba_maison,100,320,0,101,0</INFO></NAVI>, where Eliumina is being detained, escorting Aizen Werner. Join them and interrogate Aizen."
 		},
 		Summary = "Talk to Rookie"
 	},
@@ -47879,91 +47847,89 @@ Talk to Kar=],
 		Title = "Illusion Tracker",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Eliumina said he'd make a tracker that tracks Illusion for me. I need 10 <ITEM>[Fluorescent Liquids]<INFO>7326</INFO></ITEM> 10, <ITEM>[Broken Sword]<INFO>7110</INFO></ITEM> for that."
+			"Eliumina says she can create a Tracker capable of tracking Illusion. The materials required are 10 <ITEM>[Fluorescent Liquids]<INFO>7326</INFO></ITEM> and 10 <ITEM>[Broken Swords]<INFO>7110</INFO></ITEM>."
 		},
-		Summary = "Deliver Fluorescent Liquids and Broken Swords to Eliumina"
+		Summary = "Deliver Fluorescent Liquid and Broken Swords to Eliumina"
 	},
 	[18016] = {
-		Title = "Strategic Meeting",
+		Title = "Operation Meeting",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Let's plan an operation with Est to search Barmund Mansion and find out hiding Heart Hunters and Illusion."
+			"Together with Est, devise a plan to search the Varmundt Estate and uncover the hidden Heart Hunter and Illusion."
 		},
 		Summary = "Talk to Est"
 	},
 	[18017] = {
-		Title = "Operation Pest Control",
+		Title = "Pest Extermination Operation",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Let's search the garden after sunset to pressure Illusion. Hunting is all about driving the prey into the corner."
+			"Search the estate garden at dusk and pressure Illusion. Hunting is best done by driving the prey into a corner."
 		},
-		Summary = "Defeat Sweetie"
+		Summary = "Defeat Sweety"
 	},
 	[18018] = {
 		Title = "To the Airship Depot",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Perhaps we can get some information out of Sweetie. Let's go to the airship depot."
+			"You may be able to extract information from the captured Sweety. Head to the Airship Depot."
 		},
 		Summary = "Talk to Alpha"
 	},
 	[18019] = {
-		Title = "Talk to Sweetie",
+		Title = "Talk to Sweety",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Almond fixed Sweetie at the airship depot. She told me to talk to him as he woke up."
+			"Almond kernels, who was repairing Sweety at the Airship Depot, says that Sweety has awakened and suggests you speak with it."
 		},
-		Summary = "Talk to Sweetie"
+		Summary = "Talk to Sweety"
 	},
 	[18020] = {
-		Title = "Salutations",
+		Title = "Greeting",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"I talked briefly with Nihil."
+			"You had a brief conversation with Nyhill."
 		},
-		Summary = "Talk to Nihil"
+		Summary = "Talk to Nyhill"
 	},
 	[18021] = {
-		Title = "A Guest From the Capital",
+		Title = "An Unexpected Guest",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Prontera Palace sent Crux to me. He said he was here to take me to the palace. I should talk to him in Servant's Quarters."
+			"Crux has arrived from the Prontera Royal Palace. Claiming to have come to escort someone to the palace, speak with Crux in the Servants’ Quarters lounge."
 		},
 		Summary = "Talk to Crux"
 	},
 	[18022] = {
-		Title = "Hey, Sweetie!",
+		Title = "Hey! Sweety",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"I should take care of Sweetie if he starts to run amok at the airship depot."
+			"If Sweety, currently maintained at the Airship Depot, begins rampaging violently, deal with it appropriately."
 		},
-		Summary = "Fight Sweetie"
+		Summary = "Battle Sweety"
 	},
 	[18023] = {
-		Title = "Hey, Sweetie! - Pending",
+		Title = "Hey! Sweety - Waiting",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Sweetie's body needs repair and relax after the bucking. You can accept this quest again from <NAVI>[Sweetie]<INFO>ba_in01,32,250,0,101,0</INFO></NAVI> at the airship depot after its cooldown."
+			"After rampaging, Sweety requires stabilization and repairs. This quest can be accepted again after the waiting period from <NAVI>[Sweety]<INFO>ba_in01,32,250,0,101,0</INFO></NAVI> at the Airship Depot."
 		},
-		Summary = "Resets at 4:00 a.m.",
-		CoolTimeQuest = 1
+		Summary = "Resets at 04:00"
 	},
 	[18024] = {
-		Title = "Collecting Cores",
+		Title = "Core Collection",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Almond at the airship depot asked me to patrol the garden at night and get her some Broken Robot Cores if I could spare more time."
+			"Almond kernels at the Airship Depot asks that, while sparring with Sweety, you patrol the estate garden at night and collect 'Broken Doll Core' when time permits."
 		},
-		Summary = "Retrieve at least 10 Broken Cores"
+		Summary = "Collect at least 10 Damaged Cores"
 	},
 	[18025] = {
-		Title = "Collecting Cores - Pending",
+		Title = "Core Collection - Waiting",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"You can accept this quest again from <NAVI>[Almond]<INFO>ba_in01,28,255,0,101,0</INFO></NAVI> at the airship depot after its cooldown."
+			"This quest can be accepted again after the waiting period from <NAVI>[Almond kernels]<INFO>ba_in01,28,255,0,101,0</INFO></NAVI> at the Airship Depot."
 		},
-		Summary = "Resets at 4:00 a.m.",
-		CoolTimeQuest = 1
+		Summary = "Resets at 04:00"
 	},
 	[18026] = {
 		Title = "Memory of Thanatos",
@@ -48002,214 +47968,267 @@ Talk to Kar=],
 		NpcPosY = 367
 	},
 	[18029] = {
-		Title = "Invisible Quest",
+		Title = "[Booster]  Fabre Hunt",
+		IconName = "ico_nq.bmp",
 		Description = {
-			"Place Holder"
+			"Hunt monsters in the field near Prontera to complete the beginner's hunting quest. You can receive rewards and items through the quest window."
 		},
-		Summary = "Place Holder"
+		Summary = "Beginner Hunting"
 	},
 	[18030] = {
-		Title = "Invisible Quest",
+		Title = "[Wait] Fabre Hunt",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Place Holder"
+			"You can accept this quest again through the repeat quest NPC in the main city if you wish to complete the 'Hunt Request' once more."
 		},
-		Summary = "Place Holder"
+		Summary = "Resets 4 A.M.",
+		CoolTimeQuest = 1
 	},
 	[18031] = {
-		Title = "Invisible Quest",
+		Title = "[Booster]  Explore Payon Forest",
+		IconName = "ico_nq.bmp",
 		Description = {
-			"Place Holder"
+			"Complete the quest by hunting the Rogue monsters. You can receive rewards and items through the quest window."
 		},
-		Summary = "Place Holder"
+		Summary = "Explore Payon Forest Contract"
 	},
 	[18032] = {
-		Title = "Invisible Quest",
+		Title = "[Wait] Explore Payon Forest",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Place Holder"
+			"You can accept this quest again through the repeat quest NPC in the main city if you wish to complete the 'Hunt Request' once more."
 		},
-		Summary = "Place Holder"
+		Summary = "Resets 4 A.M.",
+		CoolTimeQuest = 1
 	},
 	[18033] = {
-		Title = "Invisible Quest",
+		Title = "[Booster]  Explore Prontera Culvert",
+		IconName = "ico_nq.bmp",
 		Description = {
-			"Place Holder"
+			"Complete the quest by hunting Prontera Culvert monsters. To have access, you can go to <NAVI>[Knight Guild]<INFO>prt_in,88,105,0,101,0</INFO></NAVI>. You can receive rewards and items through the quest window."
 		},
-		Summary = "Place Holder"
+		Summary = "Prontera Culvert Contract"
 	},
 	[18034] = {
-		Title = "Invisible Quest",
+		Title = "[Wait] Explore Prontera Culvert",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Place Holder"
+			"You can accept this quest again through the repeat quest NPC in the main city if you wish to complete the 'Hunt Request' once more."
 		},
-		Summary = "Place Holder"
+		Summary = "Resets 4 A.M.",
+		CoolTimeQuest = 1
 	},
 	[18035] = {
-		Title = "Invisible Quest",
+		Title = "[Booster]  Exploring Mjolnir",
+		IconName = "ico_nq.bmp",
 		Description = {
-			"Place Holder"
+			"Hunt the monsters in <NAVI>[Mjolnir Dungeon]<INFO>mjo_dun01,52,23,0,101,0</INFO></NAVI>. Yoy can use the <NAVI>[Kafra Teleport]<INFO>geffen,119,72,0,101,0</INFO></NAVI>. Be careful as they move in groups and are strong. You can receive rewards and items through this quest window."
 		},
-		Summary = "Place Holder"
+		Summary = "Exploring Mjolnir"
 	},
 	[18036] = {
-		Title = "Invisible Quest",
+		Title = "[Wait] Exploring Mjolnir",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Place Holder"
+			"You can accept this quest again through the repeat quest NPC in the main city if you wish to complete the 'Hunt Request' once more."
 		},
-		Summary = "Place Holder"
+		Summary = "Resets 4 A.M.",
+		CoolTimeQuest = 1
 	},
 	[18037] = {
-		Title = "Invisible Quest",
+		Title = "[Booster]  Exploring Byalan",
+		IconName = "ico_nq.bmp",
 		Description = {
-			"Place Holder"
+			"Complete the quest by hunting in <NAVI>[Byalan Dungeon]<INFO>iz_dun02,236,208,0,101,0</INFO></NAVI>. You can get a <NAVI>[boat]<INFO>izlude,197,205,0,101,0</INFO></NAVI> to Byalan. You can receive rewards and items through this quest window."
 		},
-		Summary = "Place Holder"
+		Summary = "Exploring Byalan Contract"
 	},
 	[18038] = {
-		Title = "Invisible Quest",
+		Title = "[Wait] Exploring Byalan",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Place Holder"
+			"You can accept this quest again through the repeat quest NPC in the main city if you wish to complete the 'Hunt Request' once more."
 		},
-		Summary = "Place Holder"
+		Summary = "Resets 4 A.M.",
+		CoolTimeQuest = 1
 	},
 	[18039] = {
-		Title = "Invisible Quest",
+		Title = "[Booster]  Explore Payon Cave",
+		IconName = "ico_nq.bmp",
 		Description = {
-			"Place Holder"
+			"Complete the quest by hunting in <NAVI>[Payon Cave]<INFO>pay_dun03,155,156,0,101,0</INFO></NAVI>. You can receive rewards and items through the quest window."
 		},
-		Summary = "Place Holder"
+		Summary = "Explore Payon Cave Contract"
 	},
 	[18040] = {
-		Title = "Invisible Quest",
+		Title = "[Wait] Explore Payon Cave",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Place Holder"
+			"You can accept this quest again through the repeat quest NPC in the main city if you wish to complete the 'Hunt Request' once more."
 		},
-		Summary = "Place Holder"
+		Summary = "Resets 4 A.M.",
+		CoolTimeQuest = 1
 	},
 	[18041] = {
-		Title = "Invisible Quest",
+		Title = "[Booster]  Explore Clock Tower",
+		IconName = "ico_nq.bmp",
 		Description = {
-			"Place Holder"
+			"Complete the quest by hunting in <NAVI>[Clock Tower]<INFO>c_tower1,199,163,0,101,0</INFO></NAVI>. You can receive rewards and items through the quest window."
 		},
-		Summary = "Place Holder"
+		Summary = "Explore Clock Tower Contract"
 	},
 	[18042] = {
-		Title = "Invisible Quest",
+		Title = "[Wait] Explore Clock Tower",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Place Holder"
+			"You can accept this quest again through the repeat quest NPC in the main city if you wish to complete the 'Hunt Request' once more."
 		},
-		Summary = "Place Holder"
+		Summary = "Resets 4 A.M.",
+		CoolTimeQuest = 1
 	},
 	[18043] = {
-		Title = "Invisible Quest",
+		Title = "[Booster] Explore Turtle Island",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Place Holder"
+			"Complete the quest by hunting in <NAVI>[Turtle Island]<INFO>tur_dun02,148,261,0,101,0</INFO></NAVI>. You can receive rewards and items through the quest window."
 		},
-		Summary = "Place Holder"
+		Summary = ""
 	},
 	[18044] = {
-		Title = "Invisible Quest",
+		Title = "[Wait] Explore Turtle Island",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Place Holder"
+			"You can accept this quest again through the repeat quest NPC in the main city if you wish to complete the 'Hunt Request' once more."
 		},
-		Summary = "Place Holder"
+		Summary = "Resets 4 A.M.",
+		CoolTimeQuest = 1
 	},
 	[18045] = {
-		Title = "Invisible Quest",
+		Title = "[Booster] Beginner Hunt",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Place Holder"
+			"An official request from the Adventure Association. Randomly select and hunt monster contracts of levels 99~115. You can receive rewards and items through this quest window."
 		},
-		Summary = "Place Holder"
+		Summary = ""
 	},
 	[18046] = {
-		Title = "Invisible Quest",
+		Title = "[Wait] Beginner Hunt",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Place Holder"
+			"You can accept this quest again through the repeat quest NPC in the main city if you wish to complete the 'Hunt Request' once more."
 		},
-		Summary = "Place Holder"
+		Summary = "Resets 4 A.M.",
+		CoolTimeQuest = 1
 	},
 	[18047] = {
-		Title = "Invisible Quest",
+		Title = "[Booster] Intermediate Hunt",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Place Holder"
+			"Congratulations! Randomly select and hunt monster contracts of levels 115~130. You can receive rewards and items through this quest window."
 		},
-		Summary = "Place Holder"
+		Summary = ""
 	},
 	[18048] = {
-		Title = "Invisible Quest",
+		Title = "[Wait] Intermediate Hunt",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Place Holder"
+			"You can accept this quest again through the repeat quest NPC in the main city if you wish to complete the 'Hunt Request' once more."
 		},
-		Summary = "Place Holder"
+		Summary = "Resets 4 A.M.",
+		CoolTimeQuest = 1
 	},
 	[18049] = {
-		Title = "Invisible Quest",
+		Title = "[Booster] Advanced Hunt",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Place Holder"
+			"Congratulations! Randomly select and hunt monster contracts of levels 130~145. You can receive rewards and items through this quest window."
 		},
-		Summary = "Place Holder"
+		Summary = ""
 	},
 	[18050] = {
-		Title = "Invisible Quest",
+		Title = "[Wait] Advanced Hunt",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Place Holder"
+			"You can accept this quest again through the repeat quest NPC in the main city if you wish to complete the 'Hunt Request' once more."
 		},
-		Summary = "Place Holder"
+		Summary = "Resets 4 A.M.",
+		CoolTimeQuest = 1
 	},
 	[18051] = {
-		Title = "Invisible Quest",
+		Title = "[Booster] Professional Hunt",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Place Holder"
+			"Congratulations! Randomly select and hunt monster contracts of levels 145~160. You can receive rewards and items through this quest window."
 		},
-		Summary = "Place Holder"
+		Summary = ""
 	},
 	[18052] = {
-		Title = "Invisible Quest",
+		Title = "[Wait] Professional Hunt",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Place Holder"
+			"You can accept this quest again through the repeat quest NPC in the main city if you wish to complete the 'Hunt Request' once more."
 		},
-		Summary = "Place Holder"
+		Summary = "Resets 4 A.M.",
+		CoolTimeQuest = 1
 	},
 	[18053] = {
-		Title = "Invisible Quest",
+		Title = "[Booster] Explore Nightmare Clock Tower",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Place Holder"
+			"There are rumors that Mimics in the Clock Tower are hurting people. To acess the Nightmare Clock Tower, visit <NAVI>[Hergem Geist]<INFO>c_tower1,232,222,0,101,0</INFO></NAVI>. You can receive rewards and items through this quest window."
 		},
-		Summary = "Place Holder"
+		Summary = "",
+		NpcSpr = "4_M_RUSMAN2",
+		NpcNavi = "c_tower1",
+		NpcPosX = 232,
+		NpcPosY = 222
 	},
 	[18054] = {
-		Title = "Invisible Quest",
+		Title = "[Wait] Explore Nightmare Clock Tower",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Place Holder"
+			"You can accept this quest again through the repeat quest NPC in the main city if you wish to complete the 'Hunt Request' once more."
 		},
-		Summary = "Place Holder"
+		Summary = "Resets 4 A.M.",
+		CoolTimeQuest = 1
 	},
 	[18055] = {
-		Title = "Invisible Quest",
+		Title = "[Booster] Explore Glastheim Castle",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Place Holder"
+			"Recover the historical records of Glastheim. To acces the Castle, visit <NAVI>[Cronus]<INFO>glast_01,191,273,0,101,0</INFO></NAVI>. You can receive rewards and items through this quest window."
 		},
-		Summary = "Place Holder"
+		Summary = "",
+		NpcSpr = "4_M_JOB_WIZARD",
+		NpcNavi = "glast_01",
+		NpcPosX = 191,
+		NpcPosY = 273
 	},
 	[18056] = {
-		Title = "Invisible Quest",
+		Title = "[Wait] Explore Glastheim Castle",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Place Holder"
+			"You can accept this quest again through the repeat quest NPC in the main city if you wish to complete the 'Hunt Request' once more."
 		},
-		Summary = "Place Holder"
+		Summary = "Resets 4 A.M.",
+		CoolTimeQuest = 1
 	},
 	[18057] = {
-		Title = "Invisible Quest",
+		Title = "[Booster] Explore Einbech Mine",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Place Holder"
+			"Complete the quest by finding the hidden <NAVI>[Einbech Mine 3]<INFO>ein_dun03,268,279,0,101,0</INFO></NAVI>. You can receive rewards and items through the quest window."
 		},
-		Summary = "Place Holder"
+		Summary = ""
 	},
 	[18058] = {
-		Title = "Invisible Quest",
+		Title = "[Wait] Explore Einbech Mine",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Place Holder"
+			"You can accept this quest again through the repeat quest NPC in the main city if you wish to complete the 'Hunt Request' once more."
 		},
-		Summary = "Place Holder"
+		Summary = "Resets 4 A.M.",
+		CoolTimeQuest = 1
 	},
 	[18059] = {
 		Title = "Shadow's Call",
@@ -48615,7 +48634,7 @@ Talk to Kar=],
 		IconName = "ico_ev.bmp",
 		Description = {
 			"I listened to Investigator Rudolf's story.",
-			"Now I can have quests from Juno Monster Society",
+			"Now I can have quests from the Juno Monster Society that came out for a buisness trip at the Event sites.",
 			"who came out for a buisness trip at Event sites."
 		},
 		Summary = ""
@@ -54652,7 +54671,7 @@ Talk to Kar=],
 		Description = {
 			"There is an academy and guild in Izlude to support adventurers. Meet <NAVI>[Sprakki]<INFO>iz_ac01,102,44,000,0</INFO></NAVI> at the Criatura Academy in northern Izlude."
 		},
-		Summary = "Talk to the Sprakki"
+		Summary = "Talk to Sprakki"
 	},
 	[21901] = {
 		Title = "Must-Know Services",
@@ -55404,6 +55423,268 @@ Talk to Kar=],
 			"Explore Prontera Field with Tuffnut. If you get lost, look for the ^4d4dfftree^000000 to the ^4d4dffnorthwest^000000 from the <NAVI>[starting point]<INFO>prt_fild10,322,272,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Talk to Tuffnut"
+	},
+	[24118] = {
+		Title = "Visitor from Another World",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"An investigation team has been formed to look into the rift that suddenly appeared in Morroc. To get information about the rift, talk to the <NAVI>[Citizen of Morroc]<INFO>morocc,248,178,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Talk to Morroc Resident"
+	},
+	[24119] = {
+		Title = "Visitor from Another World",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You have heard the story about what the Citizen of Morroc saw in the rift. Now go hear the story of the <NAVI>[Resident]<INFO>morocc,202,101,0,101,0</INFO></NAVI> who works at the shop in southern Morocc."
+		},
+		Summary = "Talk to Citizen"
+	},
+	[24120] = {
+		Title = "Visitor from Another World",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You have heard the villager's story. Now go hear the story of a <NAVI>[Friend]<INFO>morocc,259,65,0,101,0</INFO></NAVI>, who works near the weapon shop in southeastern Morocc."
+		},
+		Summary = "Talk to the Weapon Deliveryman"
+	},
+	[24121] = {
+		Title = "Visitor from Another World",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"It seems there are more witnesses to the rift than expected. Now go hear the story of a <NAVI>[Friend]<INFO>morocc,170,139,0,101,0</INFO></NAVI>, who works near the center of Morocc."
+		},
+		Summary = "Talk to Water Quality Manager"
+	},
+	[24122] = {
+		Title = "Visitor from Another World",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"The Water Quality Manager says they saw <NAVI>[A Suspiciously Dressed Person]<INFO>morocc,129,270,0,101,0</INFO></NAVI>, near the north gate of Morroc. They might still be there, so let's go check it out."
+		},
+		Summary = "Find Suspiciously Dressed Person"
+	},
+	[24123] = {
+		Title = "Visitor from Another World",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Jinpei seems very hungry. Let's move to a <NAVI>[place]<INFO>morocc,56,252,0,101,0</INFO></NAVI>, somewhere we can buy some food and get him something to eat."
+		},
+		Summary = "Searching for Food"
+	},
+	[24124] = {
+		Title = "Visitor from Another World",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Ryu has obtained information that they saw a person dressed in white clothes exiting the south gate of Morroc. Let's check <NAVI>[Outside the South Gate]<INFO>moc_fild12,164,366,0,101,0</INFO></NAVI>"
+		},
+		Summary = "Outside the South Gate"
+	},
+	[24125] = {
+		Title = "Visitor from Another World",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Ryu and Jinpei have discovered a suspicious monster outside the south gate of Morroc. Let's go together and check out the <NAVI>[Suspicious Monster]<INFO>moc_fild12,177,361,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Investigate the Suspicious Monster"
+	},
+	[24126] = {
+		Title = "Visitor from Another World",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"It seems that monsters from Galactor have spread around Morroc. Defeat about 3 Galarings and 3 Squid Bombs in the vicinity and then <NAVI>[return].<INFO>moc_fild12,177,361,0,101,0</INFO></NAVI>"
+		},
+		Summary = "Defeat Galaring and Squid Bomb"
+	},
+	[24127] = {
+		Title = "Visitors from Another World",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Ken, having confirmed the Galactor monster, suggests returning to Morroc to assess the situation. Let's go back to <NAVI>[Morocc].<INFO>morocc,170,36,0,101,0</INFO></NAVI>"
+		},
+		Summary = "In Morroc"
+	},
+	[24128] = {
+		Title = "Visitor from Another World",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Ken wants to obtain information about the situation in Midgard. Let's go get talk to the <NAVI>Anomaly Fissure Investigation Team<INFO>morocc,196,261,0,101,0</INFO></NAVI>."
+		},
+		Summary = "To the Receptionist"
+	},
+	[24129] = {
+		Title = "Visitors from Another World",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"The Anomaly Fissures Investigation Team says they are managing the fissures that have occurred. Let's check the <NAVI>[fissures].<INFO>morocc,296,175,0,101,0</INFO></NAVI>"
+		},
+		Summary = "Talk to the Guard"
+	},
+	[24130] = {
+		Title = "Visitors from Another World",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Although no information was obtained from the rift, you saw a spy of Galactor. Let's follow the <NAVI>[Galactor Soldier]<INFO>morocc,28,188,0,101,0</INFO></NAVI>, who disappeared somewhere."
+		},
+		Summary = "Follow the Soldier"
+	},
+	[24131] = {
+		Title = "Visitors from Another World",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Upon completing the rescue, a new request from Armonia arrives. Go to <NAVI>[the Captured Person]<INFO>morocc,22,188,0,101,0</INFO></NAVI> and receive the quest."
+		},
+		Summary = "Verify Fissures"
+	},
+	[24132] = {
+		Title = "Visitors from Another World",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"If what Berg Katse says is true, it seems we cannot just leave the fissure alone. Let's stabilize the fissure and check inside the <NAVI>[fissure].<INFO>morocc,22,188,0,101,0</INFO></NAVI>.",
+			"*Navigation may not function smoothly inside the memorial dungeon."
+		},
+		Summary = "Investigate the Inner Fissure"
+	},
+	[24133] = {
+		Title = "Visitors from Another World",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You have investigated the interior of the rift. Talk to <NAVI>[Ken]<INFO>morocc,29,193,0,101,0</INFO></NAVI>, in Morroc.",
+			"* Navigation may not function smoothly inside the memorial dungeon."
+		},
+		Summary = "Investigate the Inner Fissure"
+	},
+	[24134] = {
+		Title = "Visitors from Another World",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Help the G-Force team with the Midga Missile <NAVI>[creation]<INFO>morocc,33,187,0,101,0</INFO></NAVI>, so they can return to Earth. Defeat 5 Galarings and 5 Squid Bombs and bring back 5 Midga Powders to be used as missile materials.",
+			"* Navigation may not function smoothly inside the memorial dungeon."
+		},
+		Summary = "Hunt for Materials"
+	},
+	[24135] = {
+		Title = "Get ready! Berg Katse!",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Berg Katse seems to be repairing the <NAVI>[rift]<INFO>morocc,22,188,0,101,0</INFO></NAVI>, away from prying eyes. Let's smash it again.",
+			"* Navigation may not function smoothly inside the memorial dungeon."
+		},
+		Summary = "Investigate the Inner Fissure"
+	},
+	[24136] = {
+		Title = "Get ready! Berg Katse!",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"The Galactor gang has been driven out and the rift has been cleared. Perhaps it will be safe until they repair it again?"
+		},
+		Summary = "Resets 4 A.M.",
+		CoolTimeQuest = 1
+	},
+	[24137] = {
+		Title = "Prepare yourself! Berg Katse!",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Collect about 10 Midga Powder needed to manufacture the Midga Missile <NAVI>[and bring them back]<INFO>morocc,32,194,0,101,0</INFO></NAVI>. Midga Powder can be obtained by defeating Galarings and Squid Bombs.",
+			"* Navigation may not function smoothly inside the memorial dungeon."
+		},
+		Summary = "10x Midga Powder"
+	},
+	[24138] = {
+		Title = "Alright! I'll smash them all.",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"To stop Galactor, defeat about 10 Galarings in the fields near Morroc and then <NAVI>[return]<INFO>morocc,32,194,0,101,0</INFO></NAVI>.",
+			"* Navigation may not function smoothly inside the memorial dungeon."
+		},
+		Summary = "Defeat Galarings"
+	},
+	[24139] = {
+		Title = "The Galactor monster won't be able to return to base.",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"To stop Galactor , defeat about 10 Squid Bombs in the fields near Morroc and then <NAVI>[return]<INFO>morocc,32,194,0,101,0</INFO></NAVI>.",
+			"* Navigation may not function smoothly inside the memorial dungeon."
+		},
+		Summary = "Defeat Squid Bombs"
+	},
+	[24140] = {
+		Title = "Alright! I'll smash them all.",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You have collected Midga Powder. Let's come back tomorrow."
+		},
+		Summary = "Resets 4 A.M.",
+		CoolTimeQuest = 1
+	},
+	[24141] = {
+		Title = "Alright! I'll smash them all.",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You have defeated Galarings. Let's come back tomorrow."
+		},
+		Summary = "Resets 4 A.M.",
+		CoolTimeQuest = 1
+	},
+	[24142] = {
+		Title = "The Galactor monster won't be able to return to base.",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You have defeated Squid Bombs. Let's come back tomorrow."
+		},
+		Summary = "Resets 4 A.M.",
+		CoolTimeQuest = 1
+	},
+	[24143] = {
+		Title = "Visitors from Another World",
+		IconName = "ico_ev.bmp",
+		Description = {""},
+		Summary = ""
+	},
+	[24144] = {
+		Title = "Please, I beg you",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Joe suddenly disappeared. It seems he went out toward the <NAVI>[West Gate]<INFO>moc_fild19,149,133,0,101,0</INFO></NAVI>, so let's go look for him.",
+			"* Navigation may not function smoothly inside the memorial dungeon."
+		},
+		Summary = "Finding Joe"
+	},
+	[24145] = {
+		Title = "Please, I beg you",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Joe suddenly disappeared. It seems he went out toward the <NAVI>[West Gate]<INFO>moc_fild19,149,133,0,101,0</INFO></NAVI>, so let's go look for him.",
+			"* Navigation may not function smoothly inside the memorial dungeon."
+		},
+		Summary = "Finding Joe"
+	},
+	[24146] = {
+		Title = "Please, I beg you",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Joe suddenly disappeared. It seems he went out toward the <NAVI>[South Gate]<INFO>moc_fild12,161,365,0,101,0</INFO></NAVI>, so let's look for him.",
+			"* Navigation may not function smoothly inside the memorial dungeon."
+		},
+		Summary = "Finding Joe"
+	},
+	[24147] = {
+		Title = "Please, I beg you",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Joe suddenly disappeared. It seems he went out toward the <NAVI>[South Gate]<INFO>moc_fild12,161,365,0,101,0</INFO></NAVI>, so let's look for him.",
+			"* Navigation may not function smoothly inside the memorial dungeon."
+		},
+		Summary = "Finding Joe"
+	},
+	[24148] = {
+		Title = "Please, I beg you",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Joe is safe and sound."
+		},
+		Summary = "Finding Joe",
+		CoolTimeQuest = 1
 	},
 	[40000] = {
 		Title = "Lighthalzen Pickpocket",
@@ -71776,248 +72057,270 @@ Talk to Kar=],
 		Summary = "Resets 4 am."
 	},
 	[291494] = {
-		Title = "카�_x008b__x0088_�_x009c_ �벤�_x008a_� �_x008b__x009c_�_x009e__x0091_",
+		Title = "Carnaval",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"카�_x008b__x0088_�_x009c_ �벤�_x008a_�를 참�_x0080_�_x0095__x0098_기 �_x009c__x0084_�_x0095_��_x0084_  �_x008c__x0080_�_x009e_�_x0097_��_x0098_ �_x0097__x0088_�� �_x0095__x0084_�_x009a__x0094_�_x0095_��_x008b__x0088_�_x008b_�. �_x0095_��_x0080_�_x009c_��_x009c_ �_x0080_�_x0084__x009c_ 4�_x0080_�_x0080_ �_x009b_�_x0086__x008c_�_x0084_�_x0097_�_x008c_ ��_x0085_�_x0084_ �_x009b_�  <NAVI>[�벤�_x008a_� 주�_x009c_�_x009e_]<INFO>brasilis,246,323,0,101,0</INFO></NAVI>�_x0097_�_x008c_ �_x008c_�_x0095__x0084_�_x0098_��_x0084_��_x009a__x0094_."
+			"To participate in the Carnival,",
+			"you need permission from Mother Nature!",
+			"Find the 4 Elements on the beach of Brasilis",
+			"and return to the <NAVI>[Event Manager]<INFO>brasilis,246,323,0,101,0</INFO></NAVI>."
 		},
-		Summary = "�_x009b_�_x0086__x008c_�_x0084_�_x0097_�_x008c_ ��_x0085_�_x009b_기"
+		Summary = "Brasilis Beach"
 	},
 	[291495] = {
-		Title = "�_x0088_�_x0098_ �_x009b_�_x0086__x008c_�_x0084_�_x0097_�_x008c_ ��_x0085_�_x0099__x0084_�_x008c_",
+		Title = "Carnival: Fire Stone",
 		IconName = "ico_ev.bmp",
 		Description = {""},
 		Summary = ""
 	},
 	[291496] = {
-		Title = "물�_x0098_ �_x009b_�_x0086__x008c_�_x0084_�_x0097_�_x008c_ ��_x0085_�_x0099__x0084_�_x008c_",
+		Title = "Carnival: Water Stone",
 		IconName = "ico_ev.bmp",
 		Description = {""},
 		Summary = ""
 	},
 	[291497] = {
-		Title = "�_x0094_�_x009e__x008c_�_x0098_ �_x009b_�_x0086__x008c_�_x0084_�_x0097_�_x008c_ ��_x0085_�_x0099__x0084_�_x008c_",
+		Title = "Carnival: Wind Stone",
 		IconName = "ico_ev.bmp",
 		Description = {""},
 		Summary = ""
 	},
 	[291498] = {
-		Title = "�_x0095__x0085_�_x0098_ �_x009b_�_x0086__x008c_�_x0084_�_x0097_�_x008c_ ��_x0085_�_x0099__x0084_�_x008c_",
+		Title = "Carnival: Earth Stone",
 		IconName = "ico_ev.bmp",
 		Description = {""},
 		Summary = ""
 	},
 	[291499] = {
-		Title = "�_x008e__x0098_르�_x0082__x009c_�_x0093__x009c_�_x0098_ �_x0080_�_x0083_",
+		Title = "Carnival: Costume!",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"카�_x008b__x0088_�_x009c_ ��� 3�_x0088_리를 �_x0098_�_x0098_�_x0095__x0098_�  <NAVI>[�_x008e__x0098_르�_x0082__x009c_�_x0093__x009c_]<INFO>brasilis,111,330,0,101,0</INFO></NAVI>�_x0097_�_x008c_ �_x008c_�_x0095__x0084_�_x0080_�_x0084_��_x009a__x0094_."
+			"\"I cannot miss the costume contest because of him!\"",
+			"<NAVI>[Fernando]<INFO>brasilis,111,330,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Kill the monster"
 	},
 	[291500] = {
-		Title = "�_x008e__x0098_르�_x0082__x009c_�_x0093__x009c_�_x0098_ �_x0080_�_x0083_: Cooldown",
+		Title = "[Wait] Costume!]",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"� �벤�_x008a_� �_x0080__x0098_�_x008a_��_x008a_��_x008a__x0094_ �_x0095__x0098_루�_x0097_ �_x0095__x009c_�_x0088_ �_x0080_�_x008a_��_x0095__x0098_�_x0080_�_x008c_, �_x0083_��_x008b_��_x009e__x0098_�_x0097_�매를 �_x0082_��_x009a_��_x0095__x0098_면 �_x0098_복 �_x0080_�_x008a_��_x0095_��_x008b__x0088_�_x008b_�. �_x0098_�� _x0084_ 4�_x008b__x009c_ ��_x009b__x0084_�_x0097_ <NAVI>[�_x008e__x0098_르�_x0082__x009c_�_x0093__x009c_]<INFO>brasilis,111,330,0,101,0</INFO></NAVI>�_x0097_�_x008c_ �_x008b_��_x008b__x009c_ �_x0080__x0098_�_x008a_��_x008a_�를 �_x009b_�_x0084_ �_x0088__x0098_ �_x009e__x0088_�_x008a_��_x008b__x0088_�_x008b_�."
+			"You have completed today's Carnival mission. Return tomorrow to <NAVI>[Fernando]<INFO>brasilis,112,335,0,101,0</INFO></NAVI>."
 		},
-		Summary = "�_x0098_�� _x0084_ 4�_x008b__x009c_�_x0097_ 리�_x0085__x008b_"
+		Summary = "Resets at 4 AM."
 	},
 	[291501] = {
-		Title = "�_x008c__x0084_�_x008b_��_x0080_��_x0098_ �_x0080_�_x0083_",
+		Title = "Carnival: Lost Music",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"카�_x008b__x0088_�_x009c_ ���� �_x009b__x0094_�_x009c_ �_x008c_�_x0095__x0085_ �_x009e_��_x0083_ 목��_x0093_��_x0084_ 2�_x009c_�_x0094_� 찾�_x0095__x0084_주�_x0084_��_x009a__x0094_. ^FF0000^nItemID^6340^000000 x 2, ^FF0000^nItemID^6341^000000 x 2, ^FF0000^nItemID^6342^000000 x 2, ^FF0000^nItemID^6343^000000 x 2. 모�_x0091_ 찾�_x0095__x0098_�_x008b_�면<NAVI>[�_x008c__x0084_�_x008b_��_x0080_�]<INFO>brasilis,201,145,0,101,0</INFO></NAVI>�_x0097_�_x008c_ �_x008c_�_x0095__x0084_�_x0080_�_x0084_��_x009a__x0094_."
+			"Carnival Porings ate the dance instructions!",
+			"Collect the following items:",
+			"2x ^FF0000^nItemID^6340^000000",
+			"2x ^FF0000^nItemID^6341^000000",
+			"2x ^FF0000^nItemID^6342^000000",
+			"2x ^FF0000^nItemID^6343^000000",
+			"And return to the",
+			"<NAVI>[Dancing Queen]<INFO>brasilis,201,145,0,101,0</INFO></NAVI>."
 		},
-		Summary = "�_x008c_�_x0095__x0085_�_x009e_��_x0083_목� 찾기"
+		Summary = "Collect the items"
 	},
 	[291502] = {
-		Title = "�_x008c__x0084_�_x008b_��_x0080_��_x0098_ �_x0080_�_x0083_: Cooldown",
+		Title = "[Wait] Lost Music]",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"� �벤�_x008a_� �_x0080__x0098_�_x008a_��_x008a_��_x008a__x0094_ �_x0095__x0098_루�_x0097_ �_x0095__x009c_�_x0088_ �_x0080_�_x008a_��_x0095__x0098_�_x0080_�_x008c_, �_x0083_��_x008b_��_x009e__x0098_�_x0097_�매를 �_x0082_��_x009a_��_x0095__x0098_면 �_x0098_복 �_x0080_�_x008a_��_x0095_��_x008b__x0088_�_x008b_�. �_x0098_�� _x0084_ 4�_x008b__x009c_ ��_x009b__x0084_�_x0097_ <NAVI>[�_x008c__x0084_�_x008b_��_x0080_�]<INFO>brasilis,201,145,0,101,0</INFO></NAVI>�_x0097_�_x008c_ �_x008b_��_x008b__x009c_ �_x0080__x0098_�_x008a_��_x008a_�를 �_x009b_�_x0084_ �_x0088__x0098_ �_x009e__x0088_�_x008a_��_x008b__x0088_�_x008b_�."
+			"You have completed today's Carnival mission. Return tomorrow to <NAVI>[Dancing Queen]<INFO>brasilis,201,145,0,101,0</INFO></NAVI>."
 		},
-		Summary = "�_x0098_�� _x0084_ 4�_x008b__x009c_�_x0097_ 리�_x0085__x008b_"
+		Summary = "Resets at 4 AM."
 	},
 	[291503] = {
-		Title = "조�_x0088_�_x0098_ �_x0080_�_x0083_",
+		Title = "Carnival: Broken Violin",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"<NAVI>[�_x0084_�_x008b__x0088_�_x008b__x009c_�_x009a_��_x008a_�]<INFO>bra_in01,163,131,0,101,0</INFO></NAVI>�_x0097_�_x008c_ �_x0080_�_x0084__x009c_ 조�_x0088_�_x0098_ �_x0094_��_x0098_�린�_x0084_ �_x0088__x0098_리�_x0095__x0098_�_x0084_��_x009a__x0094_. �_x0094_��_x0098_�린� �_x0088__x0098_리�_x0098_면 <NAVI>[조�_x0088_]<INFO>brasilis,198,145,0,101,0</INFO></NAVI>�_x0097_�_x008c_ �_x008c_�_x0095__x0084_�_x0080_�_x0084_��_x009a__x0094_."
+			"Go to <NAVI>[Vinicius]'s house<INFO>bra_in01,163,131,0,101,0</INFO></NAVI>!",
+			"He should fix the Violin if you bring",
+			"3x ^FF0000^nItemID^1002^000000",
+			"Then, bring the Violin back",
+			"to the young man",
+			"<NAVI>[Jobim]<INFO>brasilis,198,145,0,101,0</INFO></NAVI>."
 		},
-		Summary = "조�_x0088_�_x0098_ �_x0094_��_x0098_�린 �_x0088__x0098_리"
+		Summary = "Jobim's Violin Repair"
 	},
 	[291504] = {
-		Title = "조�_x0088_�_x0098_ �_x0080_�_x0083_: Cooldown",
+		Title = "[Wait] Broken Violin",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"� �벤�_x008a_� �_x0080__x0098_�_x008a_��_x008a_��_x008a__x0094_ �_x0095__x0098_루�_x0097_ �_x0095__x009c_�_x0088_ �_x0080_�_x008a_��_x0095__x0098_�_x0080_�_x008c_, �_x0083_��_x008b_��_x009e__x0098_�_x0097_�매를 �_x0082_��_x009a_��_x0095__x0098_면 �_x0098_복 �_x0080_�_x008a_��_x0095_��_x008b__x0088_�_x008b_�. �_x0098_�� _x0084_ 4�_x008b__x009c_ ��_x009b__x0084_�_x0097_ <NAVI>[조�_x0088_]<INFO>brasilis,198,145,0,101,0</INFO></NAVI>�_x0097_�_x008c_ �_x008b_��_x008b__x009c_ �_x0080__x0098_�_x008a_��_x008a_�를 �_x009b_�_x0084_ �_x0088__x0098_ �_x009e__x0088_�_x008a_��_x008b__x0088_�_x008b_�."
+			"You have completed today's Carnival mission. Return tomorrow to <NAVI>[Jobim]<INFO>brasilis,198,145,0,101,0</INFO></NAVI>."
 		},
-		Summary = "�_x0098_�� _x0084_ 4�_x008b__x009c_�_x0097_ 리�_x0085__x008b_"
+		Summary = "Resets at 4 AM."
 	},
 	[291505] = {
-		Title = "조�_x0088_�_x0098_ �_x0094_��_x0098_�린 �_x0088__x0098_리�_x0099__x0084_�_x008c_",
+		Title = "Carnival: Broken Violin",
 		IconName = "ico_ev.bmp",
 		Description = {""},
 		Summary = ""
 	},
 	[291506] = {
-		Title = "�_x009b_���_x008a_�리�_x008a_��_x0098_ �_x0080_�_x0083_",
+		Title = "Carnival: Restaurant",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"�_x0085__x008c_��_x0094_�_x0097_ �_x009e__x0088_�_x008a__x0094_ �_x0086_�_x008b__x0098_ �_x0084_��_x0085_�_x0098_ 주문�_x0084_ �_x009b_�_x0095__x0084_주�_x0084_��_x009a__x0094_. 모�_x0093_  주문�_x0084_ �_x0099__x0084_�_x008c_�_x0095__x009c_ �_x0092_� <NAVI>[�_x009b_���_x008a_�리�_x008a_�]<INFO>brasilis,338,228,0,101,0</INFO></NAVI>�_x0097_�_x008c_ �_x008c_�_x0095__x0084_�_x0080_�_x0084_��_x009a__x0094_."
+			"Help the poor <NAVI>[Waitress]<INFO>brasilis,338,228,0,101,0</INFO></NAVI>.",
+			"Accept the customers' orders and",
+			"bring them plates of food."
 		},
 		Summary = "Take Orders"
 	},
 	[291507] = {
-		Title = "�_x009b_���_x008a_�리�_x008a_��_x0098_ �_x0080_�_x0083_: Cooldown",
+		Title = "[Wait] Restaurant",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"� �벤�_x008a_� �_x0080__x0098_�_x008a_��_x008a_��_x008a__x0094_ �_x0095__x0098_루�_x0097_ �_x0095__x009c_�_x0088_ �_x0080_�_x008a_��_x0095__x0098_�_x0080_�_x008c_, �_x0083_��_x008b_��_x009e__x0098_�_x0097_�매를 �_x0082_��_x009a_��_x0095__x0098_면 �_x0098_복 �_x0080_�_x008a_��_x0095_��_x008b__x0088_�_x008b_�. �_x0098_�� _x0084_ 4�_x008b__x009c_ ��_x009b__x0084_�_x0097_ <NAVI>[�_x009b_���_x008a_�리�_x008a_�]<INFO>brasilis,338,228,0,101,0</INFO></NAVI>�_x0097_�_x008c_ �_x008b_��_x008b__x009c_ �_x0080__x0098_�_x008a_��_x008a_�를 �_x009b_�_x0084_ �_x0088__x0098_ �_x009e__x0088_�_x008a_��_x008b__x0088_�_x008b_�."
+			"You have completed today's Carnival mission. Return tomorrow to the <NAVI>[Waitress]<INFO>brasilis,338,228,0,101,0</INFO></NAVI>."
 		},
-		Summary = "�_x0098_�� _x0084_ 4�_x008b__x009c_�_x0097_ 리�_x0085__x008b_"
+		Summary = "Resets at 4 AM."
 	},
 	[291508] = {
-		Title = "�_x0086_�_x008b__x0098_�_x0098_ 주문1",
+		Title = "Carnival: Table 1",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"주문�_x0084_ �_x009b_�_x0095__x0098_�_x008a_��_x008b__x0088_�_x008b_�. ^FF0000^nItemID^12044^000000 를 <NAVI>[�_x0086_�_x008b__x0098_]<INFO>brasilis,348,231,0,101,0</INFO></NAVI>�_x0097_�_x008c_ �_x0080_� ��_x0098_��_x0084_��_x009a__x0094_."
+			"Bring ^FF0000^nItemID^12044^000000 to the <NAVI>[Customer]<INFO>brasilis,348,231,0,101,0</INFO></NAVI>."
 		},
 		Summary = "1x Marinated Steak with Herbs"
 	},
 	[291509] = {
-		Title = "�_x0086_�_x008b__x0098_�_x0098_ 주문1",
+		Title = "Carnival: Table 1",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"주문�_x0084_ �_x009b_�_x0095__x0098_�_x008a_��_x008b__x0088_�_x008b_�. ^FF0000^nItemID^12060^000000 를 <NAVI>[�_x0086_�_x008b__x0098_]<INFO>brasilis,348,231,0,101,0</INFO></NAVI>�_x0097_�_x008c_ �_x0080_� ��_x0098_��_x0084_��_x009a__x0094_."
+			"Bring ^FF0000^nItemID^12060^000000 to the <NAVI>[Customer]<INFO>brasilis,348,231,0,101,0</INFO></NAVI>."
 		},
 		Summary = "1x Bat in a Pumpkin"
 	},
 	[291510] = {
-		Title = "�_x0086_�_x008b__x0098_�_x0098_ 주문2",
+		Title = "Carnival: Table 2",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"주문�_x0084_ �_x009b_�_x0095__x0098_�_x008a_��_x008b__x0088_�_x008b_�. ^FF0000^nItemID^12055^000000 를 <NAVI>[�_x0086_�_x008b__x0098_]<INFO>brasilis,329,224,0,101,0</INFO></NAVI>�_x0097_�_x008c_ �_x0080_� ��_x0098_��_x0084_��_x009a__x0094_."
+			"Bring ^FF0000^nItemID^12055^000000 to the <NAVI>[Customer]<INFO>brasilis,329,224,0,101,0</INFO></NAVI>."
 		},
 		Summary = "1x Spicy Meat Bread"
 	},
 	[291511] = {
-		Title = "�_x0086_�_x008b__x0098_�_x0098_ 주문2",
+		Title = "Carnival: Table 2",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"주문�_x0084_ �_x009b_�_x0095__x0098_�_x008a_��_x008b__x0088_�_x008b_�. ^FF0000^nItemID^12050^000000 를 <NAVI>[�_x0086_�_x008b__x0098_]<INFO>brasilis,329,224,0,101,0</INFO></NAVI>�_x0097_�_x008c_ �_x0080_� ��_x0098_��_x0084_��_x009a__x0094_."
+			"Bring ^FF0000^nItemID^12050^000000 to the <NAVI>[Customer]<INFO>brasilis,329,224,0,101,0</INFO></NAVI>."
 		},
 		Summary = "1x Mastela Wine"
 	},
 	[291512] = {
-		Title = "�_x0086_�_x008b__x0098_�_x0098_ 주문3",
+		Title = "Carnival: Table 3",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"주문�_x0084_ �_x009b_�_x0095__x0098_�_x008a_��_x008b__x0088_�_x008b_�. ^FF0000^nItemID^12065^000000 를 <NAVI>[�_x0086_�_x008b__x0098_]<INFO>brasilis,339,217,0,101,0</INFO></NAVI>�_x0097_�_x008c_ �_x0080_� ��_x0098_��_x0084_��_x009a__x0094_."
+			"Bring ^FF0000^nItemID^12065^000000 to the <NAVI>[Customer]<INFO>brasilis,339,217,0,101,0</INFO></NAVI>."
 		},
 		Summary = "1x Green Salad"
 	},
 	[291513] = {
-		Title = "�_x0086_�_x008b__x0098_�_x0098_ 주문3",
+		Title = "Carnival: Table 3",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"주문�_x0084_ �_x009b_�_x0095__x0098_�_x008a_��_x008b__x0088_�_x008b_�. ^FF0000^nItemID^12068^000000 를 <NAVI>[�_x0086_�_x008b__x0098_]<INFO>brasilis,339,217,0,101,0</INFO></NAVI>�_x0097_�_x008c_ �_x0080_� ��_x0098_��_x0084_��_x009a__x0094_."
+			"Bring ^FF0000^nItemID^12068^000000 to the <NAVI>[Customer]<INFO>brasilis,339,217,0,101,0</INFO></NAVI>."
 		},
 		Summary = "1x Fried Sweet Potato"
 	},
 	[291514] = {
-		Title = "모�_x0093_  주문 �_x0099__x0084_�_x008c_",
+		Title = "Carnival: Complete!",
 		IconName = "ico_ev.bmp",
 		Description = {""},
 		Summary = ""
 	},
 	[291515] = {
-		Title = "민�_x0086_�_x0095__x0099_�_x009e_�_x0098_ �_x0080_�_x0083_: Cooldown",
+		Title = "[Wait] Daily Pass",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"� �벤�_x008a_� �_x0080__x0098_�_x008a_��_x008a_��_x008a__x0094_ �_x0095__x0098_루�_x0097_ �_x0095__x009c_�_x0088_ �_x0080_�_x008a_��_x0095_��_x008b__x0088_�_x008b_�. �_x0098_�� _x0084_ 4�_x008b__x009c_ ��_x009b__x0084_�_x0097_ <NAVI>[민�_x0086_�_x0095__x0099_�_x009e_]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>�_x0097_�_x008c_ �_x008b_��_x008b__x009c_ �_x0080__x0098_�_x008a_��_x008a_�를 �_x009b_�_x0084_ �_x0088__x0098_ �_x009e__x0088_�_x008a_��_x008b__x0088_�_x008b_�."
+			"You have completed today's mission!",
+			"Return tomorrow after the reset time to",
+			"continue collecting Stamps!",
+			"",
+			"<NAVI>[Folklorist]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>"
 		},
-		Summary = "�_x0098_�� _x0084_ 4�_x008b__x009c_�_x0097_ 리�_x0085__x008b_"
+		Summary = "Resets at 4 AM."
 	},
 	[291516] = {
-		Title = "민�_x0086_�_x0095__x0099_�_x009e_�_x0098_ �_x0080_�_x0083_ 1",
+		Title = "Daily Pass: Day 1",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Amatsu �_x0080_�_x0097_��_x0097_�_x0084__x009c_ 몬�_x008a_��_x0084_� 30 �_x0088_리 �_x0098_�_x0098_를 �_x0098_�_x0098_�_x0095__x0098_�  <NAVI>[민�_x0086_�_x0095__x0099_�_x009e_]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>�_x0097_�_x008c_ �_x008c_�_x0095__x0084_�_x0080_�_x0084_��_x009a__x0094_."
+			"Kill 30 monsters in the fields of Amatsu (ama_fild01) and return to the <NAVI>[Folklorist]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>."
 		},
-		Summary = "ama_fild01 맵 몬�_x008a_��_x0084_� �_x0098_�_x0098_"
+		Summary = "Hunt in Amatsu"
 	},
 	[291517] = {
-		Title = "민�_x0086_�_x0095__x0099_�_x009e_�_x0098_ �_x0080_�_x0083_ 2",
+		Title = "Daily Pass: Day 2",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Gonryun �_x0080_�_x0097_��_x0097_�_x0084__x009c_ 몬�_x008a_��_x0084_� 30 �_x0088_리 �_x0098_�_x0098_를 �_x0098_�_x0098_�_x0095__x0098_�  <NAVI>[민�_x0086_�_x0095__x0099_�_x009e_]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>�_x0097_�_x008c_ �_x008c_�_x0095__x0084_�_x0080_�_x0084_��_x009a__x0094_."
+			"Kill 30 monsters in the fields of Kunlun (gon_fild01) and return to the <NAVI>[Folklorist]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>."
 		},
-		Summary = "gon_fild01 맵 몬�_x008a_��_x0084_� �_x0098_�_x0098_"
+		Summary = "Hunt in Kunlun"
 	},
 	[291518] = {
-		Title = "민�_x0086_�_x0095__x0099_�_x009e_�_x0098_ �_x0080_�_x0083_ 3",
+		Title = "Daily Pass: Day 3",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Ayothaya �_x0080_�_x0097_��_x0097_�_x0084__x009c_ 몬�_x008a_��_x0084_� 30 �_x0088_리 �_x0098_�_x0098_를 �_x0098_�_x0098_�_x0095__x0098_�  <NAVI>[민�_x0086_�_x0095__x0099_�_x009e_]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>�_x0097_�_x008c_ �_x008c_�_x0095__x0084_�_x0080_�_x0084_��_x009a__x0094_."
+			"Kill 30 monsters in the fields of Ayothaya (ayo_fild02) and return to the <NAVI>[Folklorist]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>."
 		},
-		Summary = "ayo_fild02 맵 몬�_x008a_��_x0084_� �_x0098_�_x0098_"
+		Summary = "Hunt in Ayothaya"
 	},
 	[291519] = {
-		Title = "민�_x0086_�_x0095__x0099_�_x009e_�_x0098_ �_x0080_�_x0083_ 4",
+		Title = "Daily Pass: Day 4",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Louyang �_x0080_�_x0097_��_x0097_�_x0084__x009c_ 몬�_x008a_��_x0084_� 30 �_x0088_리 �_x0098_�_x0098_를 �_x0098_�_x0098_�_x0095__x0098_�  <NAVI>[민�_x0086_�_x0095__x0099_�_x009e_]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>�_x0097_�_x008c_ �_x008c_�_x0095__x0084_�_x0080_�_x0084_��_x009a__x0094_."
+			"Kill 30 monsters in the Louyang Dungeon (lou_dun02) and return to the <NAVI>[Folklorist]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>."
 		},
-		Summary = "lou_dun02 맵 몬�_x008a_��_x0084_� �_x0098_�_x0098_"
+		Summary = "Louyang Dungeon"
 	},
 	[291520] = {
-		Title = "민�_x0086_�_x0095__x0099_�_x009e_�_x0098_ �_x0080_�_x0083_ 5",
+		Title = "Daily Pass: Day 4",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Moskovia �_x0080_�_x0097_��_x0097_�_x0084__x009c_ 몬�_x008a_��_x0084_� 30 �_x0088_리 �_x0098_�_x0098_를 �_x0098_�_x0098_�_x0095__x0098_�  <NAVI>[민�_x0086_�_x0095__x0099_�_x009e_]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>�_x0097_�_x008c_ �_x008c_�_x0095__x0084_�_x0080_�_x0084_��_x009a__x0094_."
+			"Kill 30 monsters in the Moscovia Dungeon (mosk_dun02) and return to the <NAVI>[Folklorist]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>."
 		},
-		Summary = "mosk_dun02 맵 몬�_x008a_��_x0084_� �_x0098_�_x0098_"
+		Summary = "Enchanted Forest"
 	},
 	[291521] = {
-		Title = "민�_x0086_�_x0095__x0099_�_x009e_�_x0098_ �_x0080_�_x0083_ 6",
+		Title = "Daily Pass: Day 6",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Dewata �_x0080_�_x0097_��_x0097_�_x0084__x009c_ 몬�_x008a_��_x0084_� 30 �_x0088_리 �_x0098_�_x0098_를 �_x0098_�_x0098_�_x0095__x0098_�  <NAVI>[민�_x0086_�_x0095__x0099_�_x009e_]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>�_x0097_�_x008c_ �_x008c_�_x0095__x0084_�_x0080_�_x0084_��_x009a__x0094_."
+			"Kill 30 monsters in the Dewata Dungeon (dew_dun02) and return to the <NAVI>[Folklorist]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>."
 		},
-		Summary = "dew_dun02 맵 몬�_x008a_��_x0084_� �_x0098_�_x0098_"
+		Summary = "Istana Dungeon"
 	},
 	[291522] = {
-		Title = "민�_x0086_�_x0095__x0099_�_x009e_�_x0098_ �_x0080_�_x0083_ 7",
+		Title = "Daily Pass: Day 7",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Brasilis �_x0095__x0084_�_x0093__x009c_�_x0097_�_x0084__x009c_ 몬�_x008a_��_x0084_� 30 �_x0088_리 �_x0098_�_x0098_를 �_x0098_�_x0098_�_x0095__x0098_�  <NAVI>[민�_x0086_�_x0095__x0099_�_x009e_]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>�_x0097_�_x008c_ �_x008c_�_x0095__x0084_�_x0080_�_x0084_��_x009a__x0094_."
+			"Kill 30 monsters in the fields of Brasilis (bra_fild01) and return to the <NAVI>[Folklorist]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>."
 		},
-		Summary = "bra_fild01 맵 몬�_x008a_��_x0084_� �_x0098_�_x0098_"
+		Summary = "Brasilis Fields"
 	},
 	[291523] = {
-		Title = "민�_x0086_�_x0095__x0099_�_x009e_�_x0098_ �_x0080_�_x0083_ 8",
+		Title = "Daily Pass: Day 8",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Brasilis �_x0098_� _x0084_�_x0097_�_x0084__x009c_ 몬�_x008a_��_x0084_� 30 �_x0088_리 �_x0098_�_x0098_를 �_x0098_�_x0098_�_x0095__x0098_�  <NAVI>[민�_x0086_�_x0095__x0099_�_x009e_]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>�_x0097_�_x008c_ �_x008c_�_x0095__x0084_�_x0080_�_x0084_��_x009a__x0094_."
+			"Kill 30 monsters in the Brasilis Dungeon (bra_dun01) and return to the <NAVI>[Folklorist]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>."
 		},
-		Summary = "bra_dun01 맵 몬�_x008a_��_x0084_� �_x0098_�_x0098_"
+		Summary = "Brasilis Dungeon"
 	},
 	[291524] = {
-		Title = "민�_x0086_�_x0095__x0099_�_x009e_�_x0098_ �_x0080_�_x0083_ 9",
+		Title = "Daily Pass: Day 9",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Malangdo �_x0080_�_x0097_��_x0097_�_x0084__x009c_ 몬�_x008a_��_x0084_� 30 �_x0088_리 �_x0098_�_x0098_를 �_x0098_�_x0098_�_x0095__x0098_�  <NAVI>[민�_x0086_�_x0095__x0099_�_x009e_]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>�_x0097_�_x008c_ �_x008c_�_x0095__x0084_�_x0080_�_x0084_��_x009a__x0094_."
+			"Kill 30 monsters in the Malangdo Dungeon (mal_dun01) and return to the <NAVI>[Folklorist]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>."
 		},
-		Summary = "mal_dun01 맵 몬�_x008a_��_x0084_� �_x0098_�_x0098_"
+		Summary = "Malangdo Dungeon"
 	},
 	[291525] = {
-		Title = "민�_x0086_�_x0095__x0099_�_x009e_�_x0098_ �_x0080_�_x0083_ 10",
+		Title = "Daily Pass: Day 10",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Malaya �_x0080_�_x0097_��_x0097_�_x0084__x009c_ 몬�_x008a_��_x0084_� 30 �_x0088_리 �_x0098_�_x0098_를 �_x0098_�_x0098_�_x0095__x0098_�  <NAVI>[민�_x0086_�_x0095__x0099_�_x009e_]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>�_x0097_�_x008c_ �_x008c_�_x0095__x0084_�_x0080_�_x0084_��_x009a__x0094_."
+			"Kill 30 monsters in the Port Malaya Dungeon (ma_dun01) and return to the <NAVI>[Folklorist]<INFO>brasilis,191,219,0,101,0</INFO></NAVI>."
 		},
-		Summary = "ma_ dun01 맵 몬�_x008a_��_x0084_� �_x0098_�_x0098_"
+		Summary = "Malaya Dungeon"
 	},
 	[293428] = {
 		Title = "Trip to Another World",
@@ -72142,70 +72445,70 @@ Talk to Kar=],
 	[295259] = {
 		Title = "Battle Pass Daily1",
 		Description = {
-			"Defeat 5 Shining Plant"
+			"Defeat 200 Hydras"
 		},
-		Summary = "Defeat 5 Shining Plant"
+		Summary = "Defeat 200 Hydras"
 	},
 	[295260] = {
 		Title = "Battle Pass Daily1",
 		Description = {
-			"Defeat Shining Plant / Once per day, resets at 04:00"
+			"Defeat Hydras / Once per day, resets at 04:00"
 		},
 		Summary = "Resets at 04:00"
 	},
 	[295261] = {
 		Title = "Battle Pass Daily2",
 		Description = {
-			"Defeat 4 Gold Scaraba"
+			"Defeat 20 Menblatts, 20 Petals."
 		},
-		Summary = "Defeat 4 Gold Scaraba"
+		Summary = "Defeat 20 Menblatts, 20 Petals"
 	},
 	[295262] = {
 		Title = "Battle Pass Daily2",
 		Description = {
-			"Defeat Gold Scaraba / Once per day, resets at 04:00"
+			"Defeat Menblatts, Petals/ Once per day, resets at 04:00"
 		},
 		Summary = "Resets at 04:00"
 	},
 	[295263] = {
 		Title = "Battle Pass Daily3",
 		Description = {
-			"Deliver 1,000 Red Potions"
+			"Deliver 15 Hard Feelers"
 		},
-		Summary = "Deliver 1,000 Red Potions"
+		Summary = "Deliver 15 Hard Feelers"
 	},
 	[295264] = {
 		Title = "Battle Pass Daily3",
 		Description = {
-			"Deliver Red Potions / Once per day, resets at 04:00"
+			"Deliver Hard Feelers/ Once per day, resets at 04:00"
 		},
 		Summary = "Resets at 04:00"
 	},
 	[295265] = {
 		Title = "Battle Pass Daily4",
 		Description = {
-			"Deliver 10 Blue Herbs"
+			"Deliver 100 Tentacles"
 		},
-		Summary = "Deliver 10 Blue Herbs"
+		Summary = "Deliver 100 Tentacles"
 	},
 	[295266] = {
 		Title = "Battle Pass Daily4",
 		Description = {
-			"Deliver Blue Herbs / Once per day, resets at 04:00"
+			"Deliver Tentacles/ Once per day, resets at 04:00"
 		},
 		Summary = "Resets at 04:00"
 	},
 	[295267] = {
 		Title = "Battle Pass Daily5",
 		Description = {
-			"Defeat 5 Bijou"
+			"Defeat 5 Heart Hunter Ebels"
 		},
-		Summary = "Defeat 5 Bijou"
+		Summary = "Defeat 5 Heart Hunter Ebels"
 	},
 	[295268] = {
 		Title = "Battle Pass Daily5",
 		Description = {
-			"Defeat Bijou / Once per week, resets at 04:00"
+			"Defeat Heart Hunter Ebels / Once per week, resets at 04:00"
 		},
 		Summary = "Resets at 04:00"
 	},

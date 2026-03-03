@@ -64,7 +64,31 @@
         "pt": "[ze summoner]\nCheck the password again."
     },
     "sExABQ": {
-        "en": "Good job: {}, You Killed the last mob.",
-        "pt": "Good job: {}, You Killed the last mob."
+        "en": "Good job: {0}, You Killed the last mob.",
+        "pt": "Good job: {0}, You Killed the last mob."
+    },
+    "sUxABQ": {
+        "en": "gef_fild04"
+    },
+    "skxABQ": {
+        "en": "moc_fild07"
+    },
+    "s0xABQ": {
+        "en": "prt_fild08"
+    },
+    "tExABQ": {
+        "en": "pay_fild01"
+    },
+    "tUxABQ": {
+        "en": "um_fild02"
+    },
+    "tkxABQ": {
+        "en": "ve_fild02"
+    },
+    "t0xABQ": {
+        "en": "hu_fild06"
+    },
+    "uExABQ": {
+        "en": "yuno_fild04"
     }
 }

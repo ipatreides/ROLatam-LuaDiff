@@ -1007,15 +1007,6 @@ mapTbl = {
 		},
 		backgroundBmp = "dungeon"
 	},
-	["abyss_04.rsw"] = {
-		displayName = "Hugel Abyss Lake Underground Cave Floor 4",
-		notifyEnter = true,
-		signName = {
-			subTitle = "Hugel Abyss Lake",
-			mainTitle = "Abyss Underground Cave Floor 4"
-		},
-		backgroundBmp = "dungeon"
-	},
 	["airplane.rsw"] = {
 		displayName = "Airship",
 		notifyEnter = true,
@@ -1974,14 +1965,6 @@ mapTbl = {
 		notifyEnter = true,
 		signName = {
 			mainTitle = "Einbech Mine Dungeon Floor 2"
-		},
-		backgroundBmp = "dungeon_s2"
-	},
-	["ein_dun03.rsw"] = {
-		displayName = "Einbech Mine Floor 3",
-		notifyEnter = true,
-		signName = {
-			mainTitle = "Einbech Mine Floor 3"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
@@ -4589,14 +4572,6 @@ mapTbl = {
 			mainTitle = "Ravager's Wound Floor 2"
 		},
 		backgroundBmp = "dungeon_s2"
-	},
-	["odin_past.rsw"] = {
-		displayName = "Ancient Odin's Temple",
-		notifyEnter = true,
-		signName = {
-			mainTitle = "Ancient Odin's Temple"
-		},
-		backgroundBmp = "field2_s2"
 	},
 	["odin_tem01.rsw"] = {
 		displayName = "Hugel Odin's Temple, West Side",
@@ -7861,6 +7836,174 @@ mapTbl = {
 		signName = {
 			subTitle = "Illusion",
 			mainTitle = "Garden of Perception"
+		},
+		backgroundBmp = "dungeon"
+	},
+	["1@gat.rsw"] = {
+		displayName = "Inside the Suspicious Portal",
+		notifyEnter = true,
+		signName = {
+			subTitle = "Eagle Brothers",
+			mainTitle = "Inside the Suspicious Portal"
+		},
+		backgroundBmp = "dungeon"
+	},
+	["ba_maison.rsw"] = {
+		displayName = "Varmundt Mansion Garden",
+		notifyEnter = true,
+		signName = {
+			mainTitle = "Varmundt Mansion Garden"
+		},
+		backgroundBmp = "noname_s2"
+	},
+	["ba_in01.rsw"] = {
+		displayName = "Varmundt Mansion Interior"
+	},
+	["ba_pw01.rsw"] = {
+		displayName = "First Power Plant",
+		notifyEnter = true,
+		signName = {
+			mainTitle = "First Power Plant"
+		},
+		backgroundBmp = "dungeon_s2"
+	},
+	["ba_pw03.rsw"] = {
+		displayName = "Second Power Plant",
+		notifyEnter = true,
+		signName = {
+			mainTitle = "Second Power Plant"
+		},
+		backgroundBmp = "dungeon_s2"
+	},
+	["ba_pw02.rsw"] = {
+		displayName = "Sewage Treatment Plant",
+		notifyEnter = true,
+		signName = {
+			mainTitle = "Sewage Treatment Plant"
+		},
+		backgroundBmp = "dungeon_s2"
+	},
+	["ba_bath.rsw"] = {
+		displayName = "Great Bath Meditatio",
+		notifyEnter = true,
+		signName = {
+			mainTitle = "Great Bath Meditatio"
+		},
+		backgroundBmp = "dungeon_s2"
+	},
+	["ba_2whs01.rsw"] = {
+		displayName = "Vault Tartarus Upper Floor",
+		notifyEnter = true,
+		signName = {
+			mainTitle = "Vault Tartarus Upper Floor"
+		},
+		backgroundBmp = "dungeon_s2"
+	},
+	["ba_2whs02.rsw"] = {
+		displayName = "Vault Tartarus Lower Floor",
+		notifyEnter = true,
+		signName = {
+			mainTitle = "Vault Tartarus Lower Floor"
+		},
+		backgroundBmp = "dungeon_s2"
+	},
+	["ba_lost.rsw"] = {
+		displayName = "Menagerie Lost Valley",
+		notifyEnter = true,
+		signName = {
+			mainTitle = "Menagerie Lost Valley"
+		},
+		backgroundBmp = "dungeon_s2"
+	},
+	["ba_lib.rsw"] = {
+		displayName = "Library Corridor of Memories",
+		notifyEnter = true,
+		signName = {
+			subTitle = "Library",
+			mainTitle = "Corridor of Memories"
+		},
+		backgroundBmp = "dungeon"
+	},
+	["ba_go.rsw"] = {
+		displayName = "Water Battlefield",
+		notifyEnter = true,
+		signName = {
+			mainTitle = "Water Battlefield"
+		},
+		backgroundBmp = "dungeon_s2"
+	},
+	["ba_chess.rsw"] = {
+		displayName = "Chess Garden",
+		notifyEnter = true,
+		signName = {
+			mainTitle = "Chess Garden"
+		},
+		backgroundBmp = "dungeon_s2"
+	},
+	["1@lost.rsw"] = {
+		displayName = "Menagerie Forgotten by Time",
+		notifyEnter = true,
+		signName = {
+			subTitle = "Lost Valley",
+			mainTitle = "Menagerie Forgotten by Time"
+		},
+		backgroundBmp = "dungeon"
+	},
+	["1@herbs.rsw"] = {
+		displayName = "Hidden Garden",
+		notifyEnter = true,
+		signName = {
+			mainTitle = "Hidden Garden"
+		},
+		backgroundBmp = "dungeon_s2"
+	},
+	["1@ghg.rsw"] = {
+		displayName = "Ortus Aqua",
+		notifyEnter = true,
+		signName = {
+			subTitle = "Suspended Garden",
+			mainTitle = "Ortus Aqua"
+		},
+		backgroundBmp = "dungeon"
+	},
+	["1@bamn.rsw"] = {
+		displayName = "Garden at Dusk",
+		notifyEnter = true,
+		signName = {
+			mainTitle = "Garden at Dusk"
+		},
+		backgroundBmp = "dungeon_s2"
+	},
+	["1@bamq.rsw"] = {
+		displayName = "Airship Depot",
+		notifyEnter = true,
+		signName = {
+			mainTitle = "Airship Depot"
+		},
+		backgroundBmp = "dungeon_s2"
+	},
+	["ein_dun03.rsw"] = {
+		displayName = "Einbech Mine Floor 3",
+		notifyEnter = true,
+		signName = {
+			mainTitle = "Einbech Mine Floor 3"
+		},
+		backgroundBmp = "dungeon_s2"
+	},
+	["odin_past.rsw"] = {
+		displayName = "Ancient Odin's Temple",
+		notifyEnter = true,
+		signName = {
+			mainTitle = "Ancient Odin's Temple"
+		},
+		backgroundBmp = "field2_s2"
+	},
+	["abyss_04.rsw"] = {
+		displayName = "Hugel Abyss Lake Underground Cave Floor 4",
+		notifyEnter = true,
+		signName = {
+			subTitle = "Abyss Lake, Hugel",
+			mainTitle = "Hugel Abyss Lake Underground Cave Floor 4"
 		},
 		backgroundBmp = "dungeon"
 	}

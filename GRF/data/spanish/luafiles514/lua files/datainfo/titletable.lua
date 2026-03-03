@@ -34,7 +34,7 @@ title_tbl = {
 	[1032] = "Niños florecientes",
 	[1033] = "Creador de familia",
 	[1034] = "VIP",
-	[1046] = "Fabricante de reyes"
+	[1046] = "Hacedor de reyes"
 }
 function GetTitleString(titleID)
 	if title_tbl[titleID] ~= nil then

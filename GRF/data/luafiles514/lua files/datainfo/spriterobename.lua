@@ -290,7 +290,15 @@ RobeNameTable = {
 	[SPRITE_ROBE_IDs.ROBE_C_Popcorn_Bucket2] = "C_Popcorn_Bucket2",
 	[SPRITE_ROBE_IDs.ROBE_C_Cursed_Serpent] = "C_Cursed_Serpent",
 	[SPRITE_ROBE_IDs.ROBE_C_Tan_Spear] = "C_Tan_Spear",
-	[SPRITE_ROBE_IDs.ROBE_C_Tris_Sword] = "C_Tris_Sword"
+	[SPRITE_ROBE_IDs.ROBE_C_Tris_Sword] = "C_Tris_Sword",
+	[SPRITE_ROBE_IDs.ROBE_Angelwing_move_Test_8F] = "Angelwing_move_Test_8F",
+	[SPRITE_ROBE_IDs.ROBE_Angelwing_move_Test_24F] = "Angelwing_move_Test_24F",
+	[SPRITE_ROBE_IDs.ROBE_C_Scepter_SV] = "C_Scepter_SV",
+	[SPRITE_ROBE_IDs.ROBE_C_Giant_Chained_Bear] = "C_Giant_Chained_Bear",
+	[SPRITE_ROBE_IDs.ROBE_C_Sweet_Folk] = "C_Sweet_Folk",
+	[SPRITE_ROBE_IDs.ROBE_C_Sixth_Sense_Satan] = "C_Sixth_Sense_Satan",
+	[SPRITE_ROBE_IDs.ROBE_C_Knights_Sword_Shield] = "C_Knights_Sword_Shield",
+	[SPRITE_ROBE_IDs.ROBE_C_Doram_Paw_Hammer] = "C_Doram_Paw_Hammer"
 }
 RobeNameTable_Eng = {
 	[SPRITE_ROBE_IDs.ROBE_WINGS] = "ANGEL_WINGS",
@@ -584,7 +592,15 @@ RobeNameTable_Eng = {
 	[SPRITE_ROBE_IDs.ROBE_C_Popcorn_Bucket2] = "C_Popcorn_Bucket2",
 	[SPRITE_ROBE_IDs.ROBE_C_Cursed_Serpent] = "C_Cursed_Serpent",
 	[SPRITE_ROBE_IDs.ROBE_C_Tan_Spear] = "C_Tan_Spear",
-	[SPRITE_ROBE_IDs.ROBE_C_Tris_Sword] = "C_Tris_Sword"
+	[SPRITE_ROBE_IDs.ROBE_C_Tris_Sword] = "C_Tris_Sword",
+	[SPRITE_ROBE_IDs.ROBE_Angelwing_move_Test_8F] = "Angelwing_move_Test_8F",
+	[SPRITE_ROBE_IDs.ROBE_Angelwing_move_Test_24F] = "Angelwing_move_Test_24F",
+	[SPRITE_ROBE_IDs.ROBE_C_Scepter_SV] = "C_Scepter_SV",
+	[SPRITE_ROBE_IDs.ROBE_C_Giant_Chained_Bear] = "C_Giant_Chained_Bear",
+	[SPRITE_ROBE_IDs.ROBE_C_Sweet_Folk] = "C_Sweet_Folk",
+	[SPRITE_ROBE_IDs.ROBE_C_Sixth_Sense_Satan] = "C_Sixth_Sense_Satan",
+	[SPRITE_ROBE_IDs.ROBE_C_Knights_Sword_Shield] = "C_Knights_Sword_Shield",
+	[SPRITE_ROBE_IDs.ROBE_C_Doram_Paw_Hammer] = "C_Doram_Paw_Hammer"
 }
 RobeTopLayer = {
 	SPRITE_ROBE_IDs.ROBE_BAG_OF_ADVENTURER,
@@ -772,5 +788,12 @@ RobeTopLayer = {
 	SPRITE_ROBE_IDs.ROBE_C_Popcorn_Bucket2,
 	SPRITE_ROBE_IDs.ROBE_C_Cursed_Serpent,
 	SPRITE_ROBE_IDs.ROBE_C_Tan_Spear,
-	SPRITE_ROBE_IDs.ROBE_C_Tris_Sword
+	SPRITE_ROBE_IDs.ROBE_C_Tris_Sword,
+	SPRITE_ROBE_IDs.ROBE_Angelwing_move_Test_8F,
+	SPRITE_ROBE_IDs.ROBE_Angelwing_move_Test_24F,
+	SPRITE_ROBE_IDs.ROBE_C_Scepter_SV,
+	SPRITE_ROBE_IDs.ROBE_C_Giant_Chained_Bear,
+	SPRITE_ROBE_IDs.ROBE_C_Sweet_Folk,
+	SPRITE_ROBE_IDs.ROBE_C_Knights_Sword_Shield,
+	SPRITE_ROBE_IDs.ROBE_C_Doram_Paw_Hammer
 }

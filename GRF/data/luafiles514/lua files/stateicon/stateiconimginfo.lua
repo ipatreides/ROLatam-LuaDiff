@@ -239,7 +239,11 @@ StateIconImgList = {
 		[EFST_IDs.EFST_REF_T_POTION] = "ref_t_potion.tga",
 		[EFST_IDs.EFST_ADD_ATK_DAMAGE] = "add_atk_potion.tga",
 		[EFST_IDs.EFST_ADD_MATK_DAMAGE] = "add_matk_potion.tga",
-		[EFST_IDs.EFST_C_BUFF_2] = "SpeedBooster.tga"
+		[EFST_IDs.EFST_C_BUFF_2] = "SpeedBooster.tga",
+		[EFST_IDs.EFST_C_BUFF_3] = "Resist_Elemental_Water.tga",
+		[EFST_IDs.EFST_C_BUFF_4] = "Resist_Elemental_Wind.tga",
+		[EFST_IDs.EFST_C_BUFF_5] = "Resist_Elemental_Saint.tga",
+		[EFST_IDs.EFST_C_BUFF_6] = "Resist_Elemental_Poison.tga"
 	},
 	[PRIORITY_GREEN] = {
 		[EFST_IDs.EFST_SET_NUM_DEF] = "SETDEF.TGA",

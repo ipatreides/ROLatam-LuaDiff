@@ -304,5 +304,23 @@
         "en": "<ITEM>[White Lady Pet Ticket]<INFO>1000456</INFO></ITEM>",
         "pt": "<ITEM>[Ticket de Mascote Lady Branca]<INFO>1000456</INFO></ITEM>",
         "es": "<ITEM>[Ticket de Mascota Dama Blanca]<INFO>1000456</INFO></ITEM>"
+    },
+    "E+OaCw": {
+        "ko": "블루유니콘",
+        "en": "Blue Unicorn",
+        "pt": "Unicórnio Azul",
+        "es": "Unicornio Azul"
+    },
+    "FOOaCw": {
+        "ko": "^999999블루유니콘 (티켓 없음)^000000",
+        "en": "^999999Blue Unicorn Egg (not enough ticket)^000000",
+        "pt": "^999999Unicórnio Azul (ticket insuficiente)^000000",
+        "es": "^999999Unicornio Azul (Ticket insuficiente)^000000"
+    },
+    "FeOaCw": {
+        "ko": "<ITEM>[블루유니콘 큐펫 교환 티켓]<INFO>25275</INFO></ITEM>",
+        "en": "<ITEM>[Blue Unicorn Pet Ticket]<INFO>25275</INFO></ITEM>",
+        "pt": "<ITEM>[Ticket de Mascote Unicórnio Azul]<INFO>25275</INFO></ITEM>",
+        "es": "<ITEM>[Ticket de Mascota Unicornio Azul]<INFO>25275</INFO></ITEM>"
     }
 }

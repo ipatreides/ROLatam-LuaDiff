@@ -1,1226 +1,1484 @@
 {
     "APTRBw": {
-        "en": "Renshiz",
-        "pt": "Renshiz",
-        "es": "Renshiz"
+        "ko": "렌시즈",
+        "en": "Rensiz",
+        "pt": "Rensiz",
+        "es": "Rensiz"
     },
     "AfTRBw": {
-        "en": "[Renshiz]\nUnregistered user detected. Regarding them as an enemy.",
-        "pt": "[Renshiz]\nUsuário não registrado detectado. Considerando-o como inimigo.",
-        "es": "[Renshiz]\nSe ha detectado un usuario no registrado. Usuario marcado como enemigo."
+        "ko": "[렌시즈]\n손님으로 등록되지 않은 사용자 감지. 적으로 간주합니다.",
+        "en": "[Rensiz]\nUnregistered user detected. You will be regarded as an enemy.",
+        "pt": "[Rensiz]\nUsuário não registrado como visitante detectado. Considerado inimigo.",
+        "es": "[Rensiz]\nSe ha detectado un usuario no registrado como visitante. Se le considera un enemigo."
     },
     "AvTRBw": {
-        "en": "- You have to complete the prerequisite quest first. -",
-        "pt": "- Você precisa completar a missão pré-requisito primeiro. -",
-        "es": "-Primero tienes que completar la misión anterior.-"
+        "ko": "- 선행 퀘스트가 존재합니다. -",
+        "en": "- There is a prerequisite quest. -",
+        "pt": "- Existe uma missão pré-requisito. -",
+        "es": "- Existe una misión previa. -"
     },
     "A/TRBw": {
-        "en": "[Renshiz]\nIt seems you're not strong enough to roam freely here.",
-        "pt": "[Renshiz]\nParece que você não é forte o bastante para andar livremente por aqui.",
-        "es": "[Renshiz]\nParece que no eres lo suficientemente fuerte como para deambular libremente por aquí."
+        "ko": "[렌시즈]\n이곳을 자유롭게 돌아다니기에는 아직 위험한 것들이 많으실 듯하군요.",
+        "en": "[Rensiz]\nIt seems there are still many dangers here for you to wander around freely.",
+        "pt": "[Rensiz]\nParece que ainda há muitos perigos aqui para que você possa circular livremente.",
+        "es": "[Rensiz]\nParece que aún hay demasiadas cosas peligrosas como para que pueda deambular libremente por aquí."
     },
     "BPTRBw": {
-        "en": "- This quest requires at least Level 130. -",
-        "pt": "- Esta missão requer pelo menos nível 130. -",
-        "es": "-Esta misión requiere al menos nivel 130.-"
+        "ko": "- 130레벨 이상 수행 가능한 퀘스트입니다 -",
+        "en": "- This quest can be undertaken at Level 130 or higher -",
+        "pt": "- Missão disponível para nível 130 ou superior -",
+        "es": "- Misión disponible a partir del nivel 130 -"
     },
     "BfTRBw": {
-        "en": "[Eliumina]\nI've been thinking wrong the whole time. This Barmund guy is awesome, don't you think?\nSuch beautiful robots. I should've gotten in here sooner.",
-        "pt": "[Elyumina]\nEstive pensando errado o tempo todo. Esse tal de Varmunt é incrível, não acha?\nQue robôs lindos. Eu deveria ter chegado aqui antes.",
-        "es": "[Eliumina]\nEstuve pensando mal todo el tiempo. Este tipo Varmundt es increíble, ¿no crees?\nQué robots tan hermosos. Debería haber venido antes."
+        "ko": "[엘류미나]\n나 그동안 생각을 잘못했던 것 같아. 바르문트라는 사람 굉장하잖니?\n이런 아름다운 자동인형들이라니. 진작 들어와볼 걸 그랬어.",
+        "en": "[Eliumina]\nI think I’ve been thinking about this all wrong. Isn’t this Varmund person incredible?\nSuch beautiful automata. I should have come in sooner.",
+        "pt": "[Eliumina]\nAcho que estive pensando errado todo esse tempo. Essa pessoa chamada Varmundt é impressionante, não é?\nEssas bonecas automáticas são tão belas. Eu deveria ter vindo antes.",
+        "es": "[Eliumina]\nCreo que hasta ahora he estado equivocada. ¿No es increíble esa persona llamada Varmundt?\nQué hermosas muñecas automáticas. Debería haber entrado antes."
     },
     "BvTRBw": {
-        "en": "Eliumina: Then, I didn't have to get collared.",
-        "pt": "Elyumina: Então, não precisei ficar com a coleira.",
-        "es": "Eliumina: Entonces, no me hubieran atrapado."
+        "ko": "엘류미나: 그랬으면 붙잡힐 일도 없었을 텐데.",
+        "en": "Eliumina: If you had, you wouldn’t have gotten caught.",
+        "pt": "Eliumina: Se tivesse vindo, não teria sido capturada.",
+        "es": "Eliumina: Si hubiera sido así, tampoco me habrían atrapado."
     },
     "B/TRBw": {
-        "en": "[Eliumina]\nThis network-based centralized connection allows the core entity to freely control the sub-entities placed everywhere in the mansion. Incredible...!",
-        "pt": "[Elyumina]\nEssa conexão centralizada baseada em rede permite que a entidade central controle livremente as subentidades localizadas em toda a mansão. Incrível...",
-        "es": "[Eliumina]\nEsta conexión centralizada basada en la red permite a la entidad central controlar libremente las subentidades situadas en cualquier lugar de la mansión. ¡Increíble…!"
+        "ko": "[엘류미나]\n네트워크를 사용한 집중제어 방식으로 저택 전역에 배치된 서브 개체를 코어 개체가 자유롭게 통제할 수 있는 이 연결 형태, 아름다워......",
+        "en": "[Eliumina]\nThis connection form, where the core unit can freely control the sub-units deployed throughout the mansion through a network-based centralized control method... it’s beautiful......",
+        "pt": "[Eliumina]\nEssa forma de conexão em que o núcleo pode controlar livremente as entidades secundárias distribuídas por toda a mansão por meio de um sistema de controle centralizado via rede, é linda......",
+        "es": "[Eliumina]\nEsta forma de conexión en la que, mediante un sistema de control centralizado usando la red, el individuo núcleo puede controlar libremente a los subindividuos desplegados por toda la mansión... es hermosa......"
     },
     "CPTRBw": {
-        "en": "[Eliumina]\nAnd it still ensures the individuality of each sub-entity.\nFascinating. I wonder how this system works.",
-        "pt": "[Elyumina]\nE ainda garante a individualidade de cada subentidade.\nFascinante. Eu me pergunto como esse sistema funciona.",
-        "es": "[Eliumina]\nY sigue garantizando la individualidad de cada subentidad.\nFascinante. Me pregunto cómo funciona este sistema."
+        "ko": "[엘류미나]\n그럼에도 서브 개체의 개별성은 뚜렷하게 살리는 방식으로 운용되고 있어.\n이건 재미있는데. 어떤 기제로 작동하는지 궁금해.",
+        "en": "[Eliumina]\nEven so, it’s being operated in a way that clearly preserves the individuality of the sub-units.\nThis is interesting. I’m curious what mechanism it runs on.",
+        "pt": "[Eliumina]\nMesmo assim, cada entidade secundária mantém claramente sua individualidade.\nIsso é interessante. Fico curiosa sobre qual mecanismo permite que funcione.",
+        "es": "[Eliumina]\nAun así, se está operando de una manera que mantiene claramente la individualidad de los subindividuos.\nEsto es interesante. Me pregunto con qué mecanismo funciona."
     },
     "CfTRBw": {
-        "en": "[Rookie]\nLooks like you're having the time of your life. I can't understand any of your words, though.",
-        "pt": "[Novato]\nParece que você está se divertindo. Não consigo entender nada que você diz, no entanto.",
-        "es": "[Principiante]\nParece que te lo estás pasando como nunca. Pero no entiendo nada de lo que dices."
+        "ko": "[루키]\n기뻐 보이네. 무엇 때문에 기뻐하고 있는지는 들어도 잘 모르겠지만.",
+        "en": "[Rookie]\nYou look happy. I don’t really understand what you’re happy about, even if I hear it.",
+        "pt": "[Rookie]\nVocê parece feliz. Embora eu não entenda muito bem o motivo da sua felicidade.",
+        "es": "[Rookie]\nPareces feliz. Aunque, incluso si me dices por qué estás feliz, no creo que lo entienda bien."
     },
     "CvTRBw": {
-        "en": "[Rookie]\nAnd be careful. Deadly poisonous wastewater is flowing right below the thin steel plate.",
-        "pt": "[Novato]\nE tenha cuidado. Águas residuais venenosas e mortais estão fluindo logo abaixo da fina placa de aço.",
-        "es": "[Principiante]\nY ten cuidado. Aguas residuales venenosas y mortales fluyen justo debajo de la delgada placa de acero."
+        "ko": "[루키]\n그나저나 조심해. 얇은 철판 아래로 바로 독극물에 가까운 오수가 흐르고 있어.",
+        "en": "[Rookie]\nAnyway, be careful. Right under that thin iron plate, wastewater that’s practically toxic is flowing.",
+        "pt": "[Rookie]\nAliás, cuidado. Logo abaixo dessa fina placa de ferro corre esgoto quase equivalente a veneno.",
+        "es": "[Rookie]\nDe todos modos, ten cuidado. Justo bajo la fina placa de hierro fluye agua residual casi tan tóxica como un veneno."
     },
     "C/TRBw": {
-        "en": "[Rage]\nHe can't hear you since he's too distracting by all those new machines and robots. Look at him. Mr. Science looks like a kid in a toy store.",
-        "pt": "[Fúria]\nEle não consegue te ouvir, pois está muito distraído com todas essas novas máquinas e robôs. Olhe para ele. O Sr. Ciência parece uma criança em uma loja de brinquedos.",
-        "es": "[Rage]\nNo puede oírte porque está demasiado distraído por todas esas máquinas y robots nuevos. Míralo. El señor Ciencia parece un niño en una juguetería."
+        "ko": "[레이지]\n새 기계와 자동인형에 정신이 팔려서 안 들리는 모양이네. 새 장난감을 받은 어린애 같군, 과학 범죄자 씨.",
+        "en": "[Leizi]\nLooks like you can’t hear because you’re distracted by the new machines and automata. Like a child who got a new toy, Mr. scientific criminal.",
+        "pt": "[Leizi]\nParece que você nem está ouvindo, distraída com as novas máquinas e bonecas automáticas. Parece uma criança que ganhou um brinquedo novo, Srta. Cientista criminosa.",
+        "es": "[Leizi]\nParece que no oye nada porque está absorta con las nuevas máquinas y las muñecas automáticas. Es como un niño al que le han dado un juguete nuevo, señor científico criminal."
     },
     "DPTRBw": {
-        "en": "[Eliumina]\nAre you the robot taking care of this place? Can I talk to you for a moment?\nDon't worry, I'm not a bad guy.",
-        "pt": "[Elyumina]\nVocê é o robô que toma conta desse lugar? Posso falar com você um pouco?\nNão se preocupe, não sou um cara mau.",
-        "es": "[Eliumina]\n¿Eres el robot que cuida este lugar? ¿Puedo hablar contigo un momento?\nNo te preocupes, no soy un tipo malo."
+        "ko": "[엘류미나]\n이곳을 관리하는 자동인형이니? 잠시 이야기해 볼 수 있을까?\n걱정 마, 나 수상한 사람 아냐.",
+        "en": "[Eliumina]\nAre you an automaton that manages this place? Could I talk with you for a moment?\nDon’t worry, I’m not a suspicious person.",
+        "pt": "[Eliumina]\nVocê é a boneca automática que administra este lugar? Podemos conversar por um momento?\nNão se preocupe, eu não sou uma pessoa suspeita.",
+        "es": "[Eliumina]\n¿Eres una muñeca automática que administra este lugar? ¿Podría hablar contigo un momento?\nNo te preocupes, no soy una persona sospechosa."
     },
     "DfTRBw": {
-        "en": "[Rage]\nHe is more cordial to a robot than to people.\nHuh? That robot looks a bit off. Hey, Mr. Science, be ca--",
-        "pt": "[Fúria]\nEle é mais educado com um robô do que com pessoas.\nHã? Aquele robô parece meio estranho. Ei, Sr. Ciência, tome cui...",
-        "es": "[Rage]\nEs más cordial con un robot que con las personas.\n¿Eh? Ese robot se ve un poco raro. Oye, señor Ciencia, ten cuida-"
+        "ko": "[레이지]\n사람한테보다 자동인형에게 더 싹싹하잖아.\n어라? 잠깐, 저 자동인형 기색이 좀 이상한데. 범죄 과학자 씨, 조심ㅎ…",
+        "en": "[Leizi]\nYou’re friendlier to automata than to people.\nHuh? Wait, that automaton seems a bit off. Mr. criminal scientist, be caref...",
+        "pt": "[Leizi]\nVocê é bem mais gentil com bonecas automáticas do que com pessoas.\nHã? Espere, aquela boneca automática está com algo estranho. Srta. Cientista criminosa, cuidado...",
+        "es": "[Leizi]\nEres más amable con las muñecas automáticas que con las personas.\n¿Eh? Espera, esa muñeca automática se ve un poco rara. Señor científico criminal, cuidado..."
     },
     "DvTRBw": {
-        "en": "[Renshiz]\nConfirmed. Regarding as an intruder. Eliminating immediately.",
-        "pt": "[Renshiz]\nConfirmado. Considerando como intruso. Eliminando imediatamente.",
-        "es": "[Renshiz]\nConfirmado. Usuario marcado como intruso. Eliminación inmediata."
+        "ko": "[렌시즈]\n인식하였습니다. 침입자로 인식, 즉시 배제합니다.",
+        "en": "[Rensiz]\nAcknowledged. Intruder identified. Eliminating immediately.",
+        "pt": "[Rensiz]\nReconhecimento concluído. Intruso identificado, eliminando imediatamente.",
+        "es": "[Rensiz]\nReconocido. Reconocido como intruso, se procederá a su eliminación inmediata."
     },
     "D/TRBw": {
-        "en": "[Eliumina]\nWait, hold a second. I'm properly authorized... Waaah!",
-        "pt": "[Elyumina]\nEspere, só um momento. Eu tenho autorização para... Uááá!",
-        "es": "[Eliumina]\nEspera un segundo. Estoy debidamente autorizado… ¡Buaaa!"
+        "ko": "[엘류미나]\n잠깐만, 기다려 봐. 나는 제대로 허가받은… 꺄악!",
+        "en": "[Eliumina]\nWait, hold on. I’m properly authorized... Kyaaah!",
+        "pt": "[Eliumina]\nEspere um momento, aguarde. Eu tenho autorização adequada… Aaah!",
+        "es": "[Eliumina]\nEspera, espera un momento. Yo tengo la debida autorización... ¡Kyaaak!"
     },
     "EPTRBw": {
-        "en": "[Rookie]\nWatch out!",
-        "pt": "[Novato]\nCuidado!",
-        "es": "[Principiante]\n¡Cuidado!"
+        "ko": "[루키]\n으앗, 위험해!",
+        "en": "[Rookie]\nWah—watch out!",
+        "pt": "[Rookie]\nUah, é perigoso!",
+        "es": "[Rookie]\n¡Uah, es peligroso!"
     },
     "EfTRBw": {
-        "en": "[Eliumina]\nOugh! *Cough Cough!*\nAck! What was that!? I almost got killed! How could such a lovely thing do such a thing? I'm all wet!",
-        "pt": "[Elyumina]\nAi! *Cof Cof!*\nArgh! O que foi isso?! Eu quase morri! Como algo tão adorável pôde fazer uma coisa dessas? Me molharam!",
-        "es": "[Eliumina]\n¡Uf! *¡Cof, cof!*\n¡Ay! ¡¿Qué fue eso?! ¡Casi me mata! ¿Cómo una cosa tan encantadora pudo hacer algo así? ¡Estoy todo mojado!"
+        "ko": "[엘류미나]\n으아! 콜록, 콜록콜록!\n아악! 이, 이게 무슨 짓이야. 죽을 뻔 했네! 사랑스러운 모습으로 이런 짓을 저지르다니. 다 젖었잖아!",
+        "en": "[Eliumina]\nAah! Cough, cough-cough!\nAah! W-what is this? I almost died! Doing something like this with such a lovely face. I’m soaked!",
+        "pt": "[Eliumina]\nAh! Cof, cof!\nAaah! O, o que é isso? Eu quase morri! Como pode fazer algo assim com uma aparência tão adorável. Estou toda molhada!",
+        "es": "[Eliumina]\n¡Uah! ¡Cof, cofcof!\n¡Aaah! E-esto, ¿qué estás haciendo? ¡Casi me matas! ¿Cómo puedes hacer algo así con ese aspecto tan adorable? ¡Estoy empapada!"
     },
     "EvTRBw": {
-        "en": "[Eliumina]\nI won't forgive you just because you're pretty! You can't treat people like that, you know! ...Uh, by the way, what is this smell? It's giving me a headache",
-        "pt": "[Elyumina]\nNão vou te perdoar só por causa da sua beleza! Você não pode tratar as pessoas assim! ... Hã, falando disso, que cheiro é esse? Está me dando dor de cabeça.",
-        "es": "[Eliumina]\n¡No te perdonaré solo porque eres lindo! ¡No puedes tratar así a la gente! … Por cierto, ¿qué es este olor? Me está dando dolor de cabeza."
+        "ko": "[엘류미나]\n예쁘다고 그냥 용서받을 줄 알아? 세상 쉬운 거 아니야! …그, 그런데 이게 무슨 머리 아픈 냄새야?",
+        "en": "[Eliumina]\nDo you think you’ll be forgiven just because you’re pretty? The world isn’t that easy! ...B-but what is this Head aching smell?",
+        "pt": "[Eliumina]\nAcha que vai ser perdoada só por ser bonita? Não é assim tão fácil! …M, mas que cheiro é esse de Cabeça doendo?",
+        "es": "[Eliumina]\n¿Crees que por ser bonita te van a perdonar así como así? ¡El mundo no es tan fácil! ...P-pero, ¿qué es este olor que duele la Cabeza?"
     },
     "E/TRBw": {
-        "en": "Rage: Your point is not sound. Are you sure you're not okay?",
-        "pt": "Fúria: Seu argumento não é bom. Tem certeza de que você não está bem?",
-        "es": "Rage: Tu argumento no es sólido. ¿Seguro que no estás bien?"
+        "ko": "레이지: 화내는 내용이 좀 이상한데. 사실 멀쩡한 거 아니야?",
+        "en": "Leizi: That’s a strange thing to be angry about. Are you actually fine?",
+        "pt": "Leizi: O conteúdo da sua reclamação está um pouco estranho. Na verdade você não está bem?",
+        "es": "Leizi: Lo que dices al enfadarte es un poco raro. ¿En realidad estás bien?"
     },
     "FPTRBw": {
-        "en": "[Rookie]\nUgh, that was close.\nThis person is one of us, not an intruder. You said you could communicate with Alpha anytime. Why did you do that?",
-        "pt": "[Novato]\nArgh, essa foi por pouco.\nEssa pessoa é uma de nós, não uma intrusa. Você disse que poderia se comunicar com Alfa a qualquer momento. Por que você fez isso?",
-        "es": "[Principiante]\nUf, eso estuvo cerca.\nEsta persona es uno de los nuestros, no un intruso. Dijiste que podías comunicarte con Alfa en cualquier momento. ¿Por qué hiciste eso?"
+        "ko": "[루키]\n……하마터면 큰일날 뻔했네.\n이 사람은 우리 일행이야. 침입자가 아니라고. 알파와 늘 의사 전달이 가능하다더니 왜 이런 일을 저지른 거야?",
+        "en": "[Rookie]\n...That was almost a disaster.\nThis person is with us. Not an intruder. You said you could always communicate with Alpha, so why did you do something like this?",
+        "pt": "[Rookie]\n……Por pouco não aconteceu algo grave.\nEla faz parte do nosso grupo. Não é uma intrusa. Disseram que sempre era possível se comunicar com Alpha, então por que fez isso?",
+        "es": "[Rookie]\n……Por poco ocurre una desgracia.\nEsta persona es de nuestro grupo. No es un intruso. Se suponía que siempre podías comunicarte con Alpha, ¿por qué hiciste algo así?"
     },
     "FfTRBw": {
-        "en": "[Renshiz]\nChecking network status. Auto-correcting errors. Re-checking packets......\nOh, confirmed.\n...But his behaviors were about 62% similar to those of intruders, so I regarded him as an infiltrator.",
-        "pt": "[Renshiz]\nVerificação do status da rede. Correção automática de erros. Reverificação de pacotes...\nAh, confirmado.\n... Mas os comportamentos dele são 62% semelhantes aos dos intrusos, então o considerei como tal.",
-        "es": "[Renshiz]\nRevisando el estado de la red. Corrigiendo errores automáticamente. Revisando nuevamente los paquetes…\nOh, confirmado.\n…Pero sus comportamientos eran un 62% similares a los de los intrusos, así que lo consideré un infiltrado."
+        "ko": "[렌시즈]\n네트워크 점검, 오류 자동 수정. 패킷 재확인……\n아, 확인했습니다.\n……하지만 침입자들과 62% 이상 흡사한 행동 패턴을 보여서 침입자로 간주했습니다만.",
+        "en": "[Rensiz]\nNetwork inspection, automatic error correction. Rechecking packets...\nAh, confirmed.\n...However, their behavior pattern was over 62% similar to that of intruders, so I classified them as an intruder.",
+        "pt": "[Rensiz]\nVerificação de rede, correção automática de erro. Reconfirmando pacote……\nAh, confirmado.\n……Contudo, apresentou padrão de comportamento com mais de 62% de semelhança com intrusos, portanto foi considerada intrusa.",
+        "es": "[Rensiz]\nInspección de red, corrección automática de errores. Reconfirmando paquetes……\nAh, confirmado.\n……Sin embargo, mostró un patrón de comportamiento similar en más de un 62% al de los intrusos, así que lo consideré un intruso."
     },
     "FvTRBw": {
-        "en": "[Rage]\nOnly 62%? Check again.",
-        "pt": "[Fúria]\nApenas 62%? Verifique novamente.",
-        "es": "[Rage]\n¿Solo el 62%? Vuelve a comprobarlo."
+        "ko": "[레이지]\n38%는 어디 갔담?",
+        "en": "[Leizi]\nWhere did the other 38% go?",
+        "pt": "[Leizi]\nE os outros 38% foram para onde?",
+        "es": "[Leizi]\n¿Y el 38% dónde quedó?"
     },
     "F/TRBw": {
-        "en": "[Rookie]\nDon't tell jokes like that, Rage!\nYou know Mina is not with Illusion anymore.",
-        "pt": "[Novato]\nNão brinque desse jeito, Fúria!\nVocê sabe que Mina não está mais com Ilusão.",
-        "es": "[Principiante]\n¡No cuentes chistes así, Rage!\nSabes que Mina ya no está con Ilusión."
+        "ko": "[루키]\n그런 농담 마세요, 레이지 씨!\n미나는 이제 일루시온이 아닌 거 아시잖아요.",
+        "en": "[Rookie]\nPlease don't joke like that, Leizi!\nYou know Mina isn't Illusion anymore.",
+        "pt": "[Rookie]\nNão faça esse tipo de piada, Srta. Leizi!\nVocê sabe que Mina já não é Ilusión.",
+        "es": "[Rookie]\nNo haga ese tipo de bromas, señor Leizi.\nYa sabe que Mina ya no es Illusion."
     },
     "GPTRBw": {
-        "en": "[Eliumina]\nWait, I'm not feeling right... My head hurts and I feel dizzy and nauseous.",
-        "pt": "[Elyumina]\nEspera, não estou me sentindo bem... Minha cabeça está doendo e eu estou com tontura e enjoo.",
-        "es": "[Eliumina]\nEspera, no me siento bien… Me duele la cabeza y siento mareos y náuseas."
+        "ko": "[엘류미나]\n잠깐, 나 좀 이상해… 머리 아파, 어지럽고 메스꺼워지기 시작했어.",
+        "en": "[Eliumina]\nWait, something's wrong with me... My Head hurts, and I'm starting to feel dizzy and nauseous.",
+        "pt": "[Eliumina]\nEspere, estou estranha… Minha Cabeça dói, estou começando a ficar tonta e enjoada.",
+        "es": "[Eliumina]\nEspera, me siento rara… Me duele la Cabeza, y estoy empezando a marearme y a sentir náuseas."
     },
     "GfTRBw": {
-        "en": "[Rookie]\nOh, my. The wastewater flowing here is deadly poisonous since it's from the experiment lab.\nI didn't expect it to throw him into this.",
-        "pt": "[Novato]\nAh, minha nossa. A água residual que flui aqui é mortalmente venenosa, pois vem do laboratório de experimentos.\nNão achei que isso fosse acontecer.",
-        "es": "[Principiante]\nOh, vaya. Las aguas residuales que fluyen aquí son mortalmente venenosas, ya que proceden del laboratorio de experimentos.\nNo esperaba que lo lanzara a esto."
+        "ko": "[루키]\n어떡하지. 이 부근의 오수는 실험실에서 나오는 거라 거의 독극물에 가깝다면서.\n딱 봐도 몸에 안좋을 것 같은 물에 빠트리다니.",
+        "en": "[Rookie]\nWhat should we do? They said the sewage around here comes from the laboratory, so it's practically a poison.\nJust looking at it, it seems like water that would be bad for you, and she fell into it.",
+        "pt": "[Rookie]\nO que fazemos? Disseram que o esgoto daqui vem do laboratório e é quase como veneno.\nDeixá-la cair numa água que claramente faz mal ao corpo...",
+        "es": "[Rookie]\n¿Qué hacemos? Dicen que las aguas residuales de por aquí salen del laboratorio, así que son casi como veneno.\n¿Cómo pudo caer en un agua que a simple vista se ve que es mala para el cuerpo?"
     },
     "GvTRBw": {
-        "en": "Shouldn't we take him to a doctor?",
-        "pt": "Não seria melhor levá-lo ao médico?",
-        "es": "¿No deberíamos llevarlo a un médico?"
+        "ko": "의사에게 보여야 하지 않을까?",
+        "en": "Shouldn't we show her to a doctor?",
+        "pt": "Não deveríamos levá-la a um médico?",
+        "es": "¿No deberíamos llevarla a un médico?"
     },
     "G/TRBw": {
-        "en": "[Rookie]\nThat's a good idea, adventurer. Could you go ahead to the <NAVI>[mansion]<INFO>ba_maison,169,270,0,101,0</INFO></NAVI> and tell them to prepare some medical facilities?\nRage and I will take Eliumina and follow you.",
-        "pt": "[Novato]\nBoa ideia, viajante. Você pode ir em frente até a <NAVI>[mansão]<INFO>ba_maison,169,270,0,101,0</INFO></NAVI> e pedir que eles preparem instalações médicas?\nEu e Fúria vamos levar Elyumina e seguir você.",
-        "es": "[Principiante]\nBuena idea, trotamundos. ¿Puedes ir a la <NAVI>[mansión]<INFO>ba_maison,169,270,0,101,0</INFO></NAVI> y decirles que preparen instalaciones médicas?\nRage y yo tomaremos a Eliumina y te seguiremos."
+        "ko": "[루키]\n그게 좋은 생각인 것 같아요. 모험가님, <NAVI>[저택 쪽]<INFO>ba_maison,169,270,0,101,0</INFO></NAVI>으로 먼저 가서 의료 시설을 준비해 달라고 전해 주시겠어요?\n저와 레이지 씨는 엘류미나를 데리고 얼른 따라갈게요.",
+        "en": "[Rookie]\nI think that's a good idea. Adventurer, could you go to <NAVI>[the mansion]<INFO>ba_maison,169,270,0,101,0</INFO></NAVI> first and tell them to prepare the medical facilities?\nLeizi and I will bring Eliumina and follow right after you.",
+        "pt": "[Rookie]\nAcho que é uma boa ideia. Aventureiro, poderia ir primeiro para <NAVI>[lado da mansão]<INFO>ba_maison,169,270,0,101,0</INFO></NAVI> e pedir que preparem as instalações médicas?\nEu e a Srta. Leizi levaremos Eliumina e iremos logo atrás.",
+        "es": "[Rookie]\nCreo que es una buena idea. Aventurero, ¿podría ir primero a <NAVI>[hacia la mansión]<INFO>ba_maison,169,270,0,101,0</INFO></NAVI> y pedir que preparen las instalaciones médicas?\nYo y el señor Leizi llevaremos a Eliumina y los seguiremos enseguida."
     },
     "HPTRBw": {
+        "ko": "맡겨 줘!",
         "en": "Leave it to me!",
         "pt": "Deixe comigo!",
         "es": "¡Déjamelo a mí!"
     },
     "HfTRBw": {
-        "en": "Why should I?",
-        "pt": "Por que eu deveria?",
-        "es": "¿Por qué lo haría?"
+        "ko": "거절한다.",
+        "en": "Decline.",
+        "pt": "Recuso.",
+        "es": "Rechazar."
     },
     "HvTRBw": {
-        "en": "[Rookie]\nThank you, Adventurer! We'll follow you shortly.\nOh, gosh, Mina's face is green! Please hurry, adventurer!",
-        "pt": "[Novato]\nEu agradeço, viajante! Logo mais vamos seguir vocês.\nAh, nossa, o rosto de Mina ficou verde! Depressa, viajante!",
-        "es": "[Principiante]\n¡Gracias, trotamundos! Te seguiremos pronto.\n¡Oh no, Mina tiene el rostro verde! ¡Apresúrate, trotamundos!"
+        "ko": "[루키]\n감사합니다, 모험가님! 금방 따라갈 테니까요.\n으아, 미나. 얼굴이 새파랗잖아? 모험가님, 얼른 준비해 달라고 말 전해 주세요!",
+        "en": "[Rookie]\nThank you, Adventurer! We'll be right behind you.\nUgh, Mina. Your face is pale, isn't it? Adventurer, please tell them to get things ready right away!",
+        "pt": "[Rookie]\nMuito obrigado, Aventureiro! Iremos logo em seguida.\nAh, Mina. Seu rosto está pálido? Aventureiro, por favor, peça que se preparem rapidamente!",
+        "es": "[Rookie]\n¡Gracias, aventurero! Los alcanzaremos enseguida.\nAh, Mina. ¿Tienes la cara pálida? Aventurero, ¡dígales que lo preparen rápido!"
     },
     "H/TRBw": {
-        "en": "[Rookie]\nDon't tell me you still think Mina is with Illusion, too.\nHaven't you receive the weapon and module Mina made?",
-        "pt": "[Novato]\nNão me diga que você ainda acha que Mina está com Ilusão também.\nVocê não recebeu a arma e o módulo que Mina fez?",
-        "es": "[Principiante]\nNo me digas que sigues pensando que Mina también está con Ilusión.\n¿No recibiste el arma y el módulo que Mina hizo?"
+        "ko": "[루키]\n설마 모험가님도 미나를 아직 일루시온이라고 생각하시는 거예요?\n미나가 만든 무기랑 모듈 받으셨으면서!",
+        "en": "[Rookie]\nDon't tell me you still think Mina is Illusion, Adventurer?\nEven though you received the weapons and modules Mina made!",
+        "pt": "[Rookie]\nNão me diga que você também ainda acha que Mina é Ilusión?\nMesmo depois de ter recebido as armas e módulos que ela criou!",
+        "es": "[Rookie]\n¿No me diga que usted también sigue pensando que Mina es Illusion?\n¡Si hasta recibió las armas y los módulos que ella hizo!"
     },
     "IPTRBw": {
-        "en": "[Renshiz]\nHello. Welcome to the Sewage Treatment Plant.",
-        "pt": "[Renshiz]\nOlá. Boas-vindas à Planta de Tratamento de Esgoto.",
-        "es": "[Renshiz]\nHola. Te damos la bienvenida a la planta de tratamiento de aguas residuales."
+        "ko": "[렌시즈]\n안녕하세요, 손님. 하수처리장 방문을 환영합니다.",
+        "en": "[Rensiz]\nHello, guest. Welcome to the Sewage Treatment Plant.",
+        "pt": "[Rensiz]\nOlá, visitante. Bem-vindo à Estação de Tratamento de Esgoto.",
+        "es": "[Rensiz]\nHola, visitante. Bienvenido a Planta de Tratamiento de Aguas Residuales."
     },
     "IfTRBw": {
-        "en": "[Renshiz]\nWastewater from the experiment lab flows here. It is fatal to drink it or make contact with it. In an extreme case, you may die if you do so, so I suggest you avoid getting closer.",
-        "pt": "[Renshiz]\nA água residual do laboratório de experimentos flui para cá. Tocá-la ou bebê-la seria fatal. Em um caso extremo, você pode morrer se fizer isso, portanto, sugiro que evite se aproximar.",
-        "es": "[Renshiz]\nLas aguas residuales del laboratorio de experimentos fluyen hasta aquí. Beberla o entrar en contacto con ella puede ser fatal. En un caso extremo, puedes morir si lo haces, así que te sugiero que no te acerques."
+        "ko": "[렌시즈]\n이 구역은 실험실에서 방출되는 오수가 흐르는 곳으로, 피부접촉 또는 섭취 시 매우 위험하여 최대 사망에 이를 수 있으므로 가까이 오지 않으시기를 권합니다.",
+        "en": "[Rensiz]\nThis area is where sewage discharged from the laboratory flows. It is extremely dangerous if it comes into contact with your skin or is ingested, and may result in death, so I recommend that you do not come near.",
+        "pt": "[Rensiz]\nEsta área é onde corre o esgoto liberado pelo laboratório. O contato com a pele ou ingestão é extremamente perigoso e pode levar à morte, portanto recomendamos que não se aproxime.",
+        "es": "[Rensiz]\nEsta zona es por donde fluyen las aguas residuales liberadas por el laboratorio; el contacto con la piel o la ingestión son muy peligrosos y pueden causar incluso la muerte, por lo que le recomendamos no acercarse."
     },
     "IvTRBw": {
-        "en": "[Renshiz]\nI can provide you with poisonous substances if you want.",
-        "pt": "[Renshiz]\nSe quiser, posso lhe fornecer substâncias venenosas.",
-        "es": "[Renshiz]\nPuedo proporcionarte sustancias venenosas si lo deseas."
+        "ko": "[렌시즈]\n독극물이 필요하신 거라면 제공해 드리겠습니다만…….",
+        "en": "[Rensiz]\nIf you require poison... I can provide it, but...",
+        "pt": "[Rensiz]\nCaso necessite de veneno, posso fornecê-lo…….",
+        "es": "[Rensiz]\nSi necesita veneno, se lo proporcionaré, pero……."
     },
     "I/TRBw": {
+        "ko": "엘류미나",
         "en": "Eliumina",
-        "pt": "Elyumina",
+        "pt": "Eliumina",
         "es": "Eliumina"
     },
     "JPTRBw": {
-        "en": "I've been thinking wrong the whole time. This Barmund guy is awesome, don't you think?",
-        "pt": "Estive pensando errado o tempo todo. Esse tal de Varmunt é incrível, não acha?",
-        "es": "Estuve pensando mal todo el tiempo. Este tipo Varmundt es increíble, ¿no crees?"
+        "ko": "엘류미나: 나 그동안 생각을 잘못했던 것 같아. 바르문트라는 사람 굉장하잖아?",
+        "en": "Eliumina: I think I've been thinking about this wrong all this time. That person, Varmundt, is amazing, isn't he?",
+        "pt": "Eliumina: Acho que estive pensando errado todo esse tempo. Essa pessoa chamada Varmundt é impressionante, não é?",
+        "es": "Eliumina: Creo que hasta ahora he estado equivocada. ¿Ese tal Varmundt es increíble, no?"
     },
     "JfTRBw": {
-        "en": "Rage",
-        "pt": "Fúria",
-        "es": "Rage"
+        "ko": "레이지",
+        "en": "Leizi",
+        "pt": "Leizi",
+        "es": "Leizi"
     },
     "JvTRBw": {
-        "en": "Rage: Mmm. It's a little difficult to breathe here.",
-        "pt": "Fúria: Hmm. É meio difícil respirar aqui.",
-        "es": "Rage: Mmm. Cuesta un poco respirar aquí."
+        "ko": "레이지: 으음, 여기는 숨쉬기가 좀 힘든 것 같은데.",
+        "en": "Leizi: Hmm, it feels a bit hard to breathe here.",
+        "pt": "Leizi: Hum, parece que é um pouco difícil respirar aqui.",
+        "es": "Leizi: Mmm, parece que aquí cuesta un poco respirar."
     },
     "J/TRBw": {
+        "ko": "루키",
         "en": "Rookie",
-        "pt": "Novato",
+        "pt": "Rookie",
         "es": "Rookie"
     },
     "KPTRBw": {
-        "en": "Rookie: Ugh. I don't know how I ended up accompanying these two.",
-        "pt": "Novato: Argh. Não sei como acabei acompanhando esses dois.",
-        "es": "Principiante: Uf… No sé cómo acabé acompañando a estos dos."
+        "ko": "루키: 아이고, 어쩌다가 이 두 사람과 함께 다니게 됐는지 모르겠네요.",
+        "en": "Rookie: Oh dear... I don’t even know how I ended up traveling with these two.",
+        "pt": "Rookie: Ai, nem sei como acabei andando junto com essas duas pessoas.",
+        "es": "Rookie: Ay, no sé cómo acabé yendo con estas dos personas."
     },
     "KfTRBw": {
-        "en": "Need",
-        "pt": "Need",
-        "es": "Need"
+        "ko": "니드",
+        "en": "Nid",
+        "pt": "Nid",
+        "es": "Nid"
     },
     "KvTRBw": {
-        "en": "[Need]\nWow! A guest!\nHello! Need has been waiting for you for a long, long time!",
-        "pt": "[Need]\nUau! Um convidado!\nOlá! Need esteve esperando por você por muito, muito tempo.",
-        "es": "[Need]\n¡Guau! ¡Un huésped!\n¡Hola! Need te estuvo esperando desde hace mucho, mucho tiempo"
+        "ko": "[니드]\n와~ 손님이시다!\n안녕하세요. 니드는 지금까지 쭉 손님이 오시길 기다리고 있었어요!",
+        "en": "[Nid]\nWow~ A guest!\nHello. Nid has been waiting all this time for a guest to arrive!",
+        "pt": "[Nid]\nUau~ É um visitante!\nOlá. Nid esteve esperando o tempo todo pela chegada de um visitante!",
+        "es": "[Nid]\n¡Guau~ es un cliente!\nHola. ¡Nid ha estado esperando todo este tiempo a que viniera un cliente!"
     },
     "K/TRBw": {
-        "en": "[Need]\nWhat would you like first? Meal? Rest? Bath?\nI can prepare anything. Just say the word!",
-        "pt": "[Need]\nO que você quer primeiro? Uma refeição? Descansar? Um banho?\nPosso preparar qualquer coisa. Basta dizer!",
-        "es": "[Need]\n¿Qué te gustaría primero? ¿Comida? ¿Descansar? ¿Baño?\nPuedo preparar cualquier cosa. ¡Solo tienes que decirlo!"
+        "ko": "[니드]\n무얼 먼저 하실까요? 식사? 휴식? 목욕?\n뭐든 다 준비해 드릴게요. 말씀만 해 주세요!",
+        "en": "[Nid]\nWhat would you like to do first? A meal? Rest? A bath?\nI’ll prepare anything you want. Just say the word!",
+        "pt": "[Nid]\nO que deseja fazer primeiro? Refeição? Descanso? Banho?\nPrepararei tudo para você. É só dizer!",
+        "es": "[Nid]\n¿Qué hará primero? ¿Comer? ¿Descansar? ¿Bañarse?\n¡Puedo prepararle lo que sea! ¡Solo dígamelo!"
     },
     "LPTRBw": {
-        "en": "I need medical assistance.",
-        "pt": "Preciso de assistência médica.",
-        "es": "Necesito asistencia médica."
+        "ko": "의료시설이 필요하다.",
+        "en": "I need medical facilities.",
+        "pt": "Precisamos de instalações médicas.",
+        "es": "Necesito instalaciones médicas."
     },
     "LfTRBw": {
-        "en": "[Need]\nOh, my! Ooooooooh Myyyyyyyy! Are you hurt? Where? How? How severe!?\nI'll prepare some medical devices and a resting place right away!",
-        "pt": "[Need]\nAh, nossa! Miiiinha nooossa! Você se machucou? Onde? Como? É muito grave?!\nVou preparar alguns dispositivos médicos e um lugar de descanso agora mesmo!",
-        "es": "[Need]\n¡Uyyy! ¡Ooooooooh por todos los dioses! ¿Estás herido? ¿Dónde? ¿Cómo? ¡¿Es muy grave?!\n¡Prepararé algunos dispositivos médicos y un lugar de descanso de inmediato!"
+        "ko": "[니드]\n아앗, 아아아아앗! 손님, 다치셨어요? 어디를? 어떻게? 얼마나?!\n당장 의료기기와 휴식공간을 준비하도록 할게요!",
+        "en": "[Nid]\nAh— Aaaah! Guest, are you hurt? Where? How? How badly?!\nI’ll have medical equipment and a resting area prepared at once!",
+        "pt": "[Nid]\nAhh, aaaah! Visitante, você está ferido? Onde? Como? Quanto?!\nVou preparar imediatamente os equipamentos médicos e a área de descanso!",
+        "es": "[Nid]\n¡Aaah, aaaaah! ¡Cliente, está herido? ¿Dónde? ¿Cómo? ¿Cuánto?!\n¡Haré que preparen de inmediato el equipo médico y un espacio de descanso!"
     },
     "LvTRBw": {
-        "en": "No, not me...",
-        "pt": "Não... Eu não...",
-        "es": "No, yo no…"
+        "ko": "아니, 그게 아니라…….",
+        "en": "No, that’s not it...",
+        "pt": "Não, não é isso…….",
+        "es": "No, no es eso……."
     },
     "L/TRBw": {
-        "en": "[Rookie]\nHe doesn't seem well at all, and his legs are shaking... We should change him into some dry clothes, too.\nThe adventurer should be preparing medical assistance for you, so keep up with us.",
-        "pt": "[Novato]\nEle não parece nada bem, e as pernas dele estão tremendo... A gente deveria dar uma muda de roupas secas para ele também.\nLogo mais você vai receber assistência médica, então fique com a gente.",
-        "es": "[Principiante]\nNo parece estar nada bien, y le tiemblan las piernas… También deberíamos ponerle ropa seca.\nEl trotamundos debería estar preparando asistencia médica para ti, así que sigue con nosotros."
+        "ko": "[루키]\n안색이 흙빛이네. 걸음도 불안정하고… 젖은 옷도 갈아입어야 할 텐데.\n곧바로 진료받을 수 있도록 모험가님이 준비해 두고 계실 테니까. 기운내.",
+        "en": "[Rookie]\nYour face is ashen. Your steps are unsteady... and you should change out of those wet clothes, too.\nThe adventurer will have things ready so you can be treated right away. Hang in there.",
+        "pt": "[Rookie]\nSeu rosto está pálido. Seus passos estão instáveis… E você precisa trocar essas roupas molhadas.\nO Aventureiro já deve estar preparando tudo para que possa ser atendida imediatamente. Anime-se.",
+        "es": "[Rookie]\nTienes el rostro pálido. Y caminas inestable… También deberías cambiarte la ropa mojada.\nEl aventurero ya estará preparando todo para que puedas recibir atención de inmediato. Ánimo."
     },
     "MPTRBw": {
-        "en": "[Eliumina]\nOof... I'm not feeling good. Oh, I see a river of machines and screws...",
-        "pt": "[Elyumina]\nArgh... Não estou me sentindo bem. Ah, estou vendo um rio de máquinas e parafusos...",
-        "es": "[Eliumina]\nUf… No me siento bien. Oh, veo un río de máquinas y tornillos…"
+        "ko": "[엘류미나]\n우욱… 기분 이상해. 아앗, 저기 넘실거리는 기계와 나사로 된 강물이 보여…",
+        "en": "[Eliumina]\nUgh... I feel strange. Ah— I can see a river made of surging machines and screws over there...",
+        "pt": "[Eliumina]\nUgh… Estou me sentindo estranha. Ahh, estou vendo ali um rio ondulante feito de máquinas e parafusos…",
+        "es": "[Eliumina]\nUgh… me siento raro. ¡Aaah, allí veo un río de máquinas ondulantes y tornillos…!"
     },
     "MfTRBw": {
-        "en": "[Rage]\nWhat in the... That doesn't sound good at all. Are you okay, Mr. Science?",
-        "pt": "[Fúria]\nMas o que... Isso não parece nada bom. Você está bem, Sr. Ciência?",
-        "es": "[Rage]\n¿Qué dem- Eso no suena nada bien. ¿Estás bien, señor Ciencia?"
+        "ko": "[레이지]\n뭘 보고 있는 거야. 보통 상태가 아닌 것 같은데. 범죄 과학자 씨, 괜찮아?",
+        "en": "[Leizi]\nWhat are you looking at? You don’t seem normal. Criminal scientist, are you okay?",
+        "pt": "[Leizi]\nO que você está vendo? Não parece estar em estado normal. Srta. Cientista criminosa, está bem?",
+        "es": "[Leizi]\n¿Qué estás mirando? No parece que estés en un estado normal. Señor científico criminal, ¿estás bien?"
     },
     "MvTRBw": {
-        "en": "[Need]\nHuh? Intruder! Intruder!\nDon't worry! I won't let any harm come to you! I'm calling securities now!",
-        "pt": "[Need]\nHã? Intruso! Intruso!\nNão se preocupe! Não vou deixar nada machucar você! Vou chamar a segurança agora!",
-        "es": "[Need]\n¿Eh? ¡Intruso! ¡Intruso!\n¡No te preocupes! ¡No dejaré que te pase nada! ¡Llamaré a seguridad ahora!"
+        "ko": "[니드]\n아니? 침입자예요, 침입자!\n손님께 해가 가지 않도록 할 테니 걱정 마세요. 경비 담당자 지원을 요청하겠습니다!",
+        "en": "[Nid]\nNo? It’s an intruder, an intruder!\nDon’t worry, I’ll make sure no harm comes to the guest. I will request support from the security personnel!",
+        "pt": "[Nid]\nO quê? É um intruso, um intruso!\nNão se preocupe, garantirei que nenhum mal recaia sobre o visitante. Solicitarei apoio do responsável pela segurança!",
+        "es": "[Nid]\n¿No? ¡Es un intruso, un intruso!\nNo se preocupe, me aseguraré de que no le haga daño al cliente. ¡Solicitaré apoyo del personal de seguridad!"
     },
     "M/TRBw": {
-        "en": "[Eliumina]\nOh... Intruder or not, I just want to cross that river. Ah hah hah...",
-        "pt": "[Elyumina]\nAh... Intruso ou não, só quero atravessar aquele rio. Hahaha...",
-        "es": "[Eliumina]\nOh… Intruso o no, solo quiero cruzar ese río. Ah, ha, ha…"
+        "ko": "[엘류미나]\n아… 이제 아무래도 좋아. 침입자건 뭐건. 나는 저 강만 건너면 돼, 아하하…",
+        "en": "[Eliumina]\nAh... I don’t care anymore. Intruder or whatever.\nI just need to cross that river, ahaha...",
+        "pt": "[Eliumina]\nAh… Agora tanto faz. Seja intrusa ou o que for. Basta que eu atravesse aquele rio, ahaha…",
+        "es": "[Eliumina]\nAh… ya me da igual. Intruso o lo que sea. Solo tengo que cruzar ese río, ajajaja…"
     },
     "NPTRBw": {
-        "en": "[Rookie]\nHey, hey, this boy is one of us.\nHe needs an inspection and treatment urgently. Please.",
-        "pt": "[Novato]\nEi, ei, aquele garoto é um de nós.\nEle precisa de inspeção e tratamento urgentemente. Por favor.",
-        "es": "[Principiante]\nOye, oye, este chico es uno de los nuestros.\nNecesita una inspección y tratamiento urgente. Por favor."
+        "ko": "[루키]\n잠깐, 잠깐만. 이쪽은 우리 일행이라고.\n진단과 치료가 필요한 상태거든. 급히 좀 부탁할게.",
+        "en": "[Rookie]\nWait, wait a moment. This one is with our party.\nThey’re in a condition that needs diagnosis and treatment. Please, quickly.",
+        "pt": "[Rookie]\nEspere, espere. Ela é do nosso grupo.\nEstá em condição que requer diagnóstico e tratamento. Peço urgência.",
+        "es": "[Rookie]\nEspera, espera un momento. Este es de nuestro grupo.\nEstá en un estado que requiere diagnóstico y tratamiento. Te lo ruego, deprisa."
     },
     "NfTRBw": {
-        "en": "[Need]\nNo inspection is needed. I received a message about the incident.\nHe carelessly contacted the contaminated wastewater at the Sewage Treatment Plant, didn't he?",
-        "pt": "[Need]\nNão é necessária nenhuma inspeção. Eu recebi uma mensagem sobre o incidente.\nEle entrou em contato com a água residual contaminada na Planta de Tratamento de Esgoto de forma descuidada, não foi?",
-        "es": "[Need]\nNo es necesaria ninguna inspección. Recibí un mensaje sobre el incidente.\nEntró en contacto con las aguas residuales contaminadas de la Planta de tratamiento de aguas residuales por un descuido, ¿no?"
+        "ko": "[니드]\n진단은 필요 없어요. 무슨 일이 있었는지 전달 받았습니다.\n하수처리장에서 특수 배출되는 오염된 폐수에 함부로 접촉하셨죠?",
+        "en": "[Nid]\nThere’s no need for a diagnosis. I have been informed of what happened.\nYou carelessly came into contact with contaminated wastewater specially discharged from the Sewage Treatment Plant, didn’t you?",
+        "pt": "[Nid]\nNão é necessário diagnóstico. Já fui informada do ocorrido.\nVocê teve contato imprudente com as águas residuais contaminadas de descarga especial da Estação de Tratamento de Esgoto, correto?",
+        "es": "[Nid]\nNo hace falta diagnóstico. Me informaron de lo ocurrido.\n¿Tocó imprudentemente las aguas residuales contaminadas que se descargan de forma especial en Planta de Tratamiento de Aguas Residuales?"
     },
     "NvTRBw": {
-        "en": "Eliumina: It wasn't my intention. I swear.",
-        "pt": "Elyumina: Não foi minha intenção. Eu juro.",
-        "es": "Eliumina: No era mi intención. Lo juro."
+        "ko": "엘류미나: 아니, 내가 접촉하고 싶어서 한 건 아닌데. 그건 정말이야.",
+        "en": "Eliumina: No, it’s not like I did it because I wanted to. That’s true.",
+        "pt": "Eliumina: Não foi porque eu quis entrar em contato. Isso é verdade.",
+        "es": "Eliumina: No, no es que yo quisiera tocarlo. Es verdad."
     },
     "N/TRBw": {
-        "en": "[Need]\nOf all things, he contacted the deadly waste chemicals coming from the experiment lab.\nTo describe the situation, he's at death's door right now!",
-        "pt": "[Need]\nEle entrou em contato com os resíduos químicos mortais provenientes do laboratório de experimentos.\nPara descrever a situação, ele está à beira da morte!",
-        "es": "[Need]\nDe todas las cosas, estuvo en contacto con los residuos químicos mortales del laboratorio de experimentos.\nPara describir la situación, ¡está al borde de la muerte ahora mismo!"
+        "ko": "[니드]\n하필 실험실에서 배출되는 위험한 폐기 약품에 접촉하셔서…\n지금 상황을 설명드리자면, 목숨이 경각에 달한 상태!",
+        "en": "[Nid]\nOf all things, you came into contact with dangerous waste chemicals discharged from the laboratory...\nTo explain your current situation, your life is in critical danger!",
+        "pt": "[Nid]\nLogo as substâncias residuais perigosas descartadas pelo laboratório…\nPara explicar a situação atual, sua vida está em perigo iminente!",
+        "es": "[Nid]\nY justo tuvo contacto con los peligrosos químicos de desecho que se descargan del laboratorio…\nPara explicarle la situación actual, ¡su vida está en peligro inminente!"
     },
     "OPTRBw": {
-        "en": "[Need]\nHe is pretty much poisoned with deadly venom.\nWhich is not good.",
-        "pt": "[Need]\nEle basicamente se contaminou com um veneno mortal.\nO que não é nada bom.",
-        "es": "[Need]\nEstá prácticamente intoxicado con un veneno mortal.\nLo cual no es bueno."
+        "ko": "[니드]\n거의 맹독에 중독된 상태라고 이해하시면 됩니다.\n으음, 큰일이네요~",
+        "en": "[Nid]\nYou can understand it as being almost poisoned by a deadly toxin.\nHmm, this is a big problem~",
+        "pt": "[Nid]\nPode entender como um estado de quase envenenamento letal.\nHum, isso é grave~",
+        "es": "[Nid]\nPuede entenderlo como que está casi intoxicado por un veneno letal.\nMmm, esto es grave~"
     },
     "OfTRBw": {
-        "en": "Rage: You sound a little too cheerful. Not exactly appropriate for this situation, isn't it?",
-        "pt": "Fúria: Você está um pouco feliz demais. Isso não é meio inapropriado?",
-        "es": "Rage: Suenas demasiado alegre. No es exactamente apropiado para esta situación, ¿no?"
+        "ko": "레이지: 음, 유쾌하게 이야기하는걸. 전혀 그럴 상황이 아니잖아?",
+        "en": "Leizi: Hmm, you’re talking like it’s amusing. This isn’t the time for that, is it?",
+        "pt": "Leizi: Hum, você fala de forma tão animada. Não é nada apropriado para a situação, não acha?",
+        "es": "Leizi: Mmm, lo dices con alegría. ¿No es en absoluto una situación para eso?"
     },
     "OvTRBw": {
-        "en": "[Rookie]\n'Not good'? Is that all you can say!?\nWhat about how to neutralize the poison?",
-        "pt": "[Novato]",
-        "es": "[Principiante]\n¿“No es bueno”? ¿Es todo lo que puedes decir?\n¿Y que tal algo sobre cómo neutralizar el veneno?"
+        "ko": "[루키]\n'으음, 큰일이네요~' 가 아니잖아!!\n해독할 수 있는 방법이 없을까?",
+        "en": "[Rookie]\nIt’s not 'Hmm, this is a big problem~'!!\nIsn’t there some way to detoxify them?",
+        "pt": "[Rookie]\nNão é hora de dizer ‘Hum, isso é grave~’!!\nNão há nenhuma maneira de desintoxicá-la?",
+        "es": "[Rookie]\n¡No es momento de decir \"Mmm, esto es grave~\"!\n¿No habrá alguna forma de desintoxicarla?"
     },
     "O/TRBw": {
-        "en": "[Need]\nWell, but he is an intruder, not a guest.\nWe can't provide intruders the same benefits as guests.",
-        "pt": "Que tal dizer como neutralizar o veneno?",
-        "es": "[Need]\nBueno, pero es un intruso, no un huésped.\nNo podemos ofrecer a los intrusos los mismos beneficios que a los huéspedes."
+        "ko": "[니드]\n흠, 손님. 하지만 그 사람은 손님이 아닌걸요. 침입자잖아요?\n침입자에게 손님과 같은 혜택을 제공해드릴 수는 없어요.",
+        "en": "[Nid]\nHmm, guest. But that person isn’t a guest. They’re an intruder, aren’t they?\nI can’t provide an intruder with the same benefits as a guest.",
+        "pt": "[Nid]\nHum, visitante. Mas essa pessoa não é uma visitante, é uma intrusa, não é?\nNão posso conceder a um intruso os mesmos benefícios oferecidos a um visitante.",
+        "es": "[Nid]\nMmm, cliente. Pero esa persona no es un cliente. ¿Es un intruso, no?\nNo puedo ofrecerle a un intruso los mismos beneficios que a un cliente."
     },
     "PPTRBw": {
-        "en": "[Eliumina]\nYeah, I guessed as much. Just leave me...\nI'll die soon if you just leave me. Goodbye, my lovely machines. I'll leave now...",
-        "pt": "[Need]\nBom, mas ele é um intruso, não um convidado.\nNão podemos tratar intrusos como tratamos os convidados.",
-        "es": "[Eliumina]\nSí, lo suponía. Solo déjenme…\nMoriré pronto si me dejan. Adiós, mis queridas máquinas. Me iré ahora…"
+        "ko": "[엘류미나]\n그래, 그래. 그렇겠지. 됐어, 그냥 내버려둬…….\n그냥 두면 저절로 죽게 생겼으니까. 안녕, 사랑하는 내 기계들, 나는 먼저 갈게.",
+        "en": "[Eliumina]\nYes, yes. Of course. Fine, just leave it…….\nIf we leave it alone, it looks like it’ll die on its own. Farewell, my beloved machines. I’ll be going on ahead.",
+        "pt": "[Eliumina]\nSim, sim. Deve ser isso mesmo. Está bem, apenas me deixem……\nSe me deixarem assim, acabarei morrendo de qualquer forma. Adeus, minhas amadas máquinas, eu irei primeiro.",
+        "es": "[Eliumina]\nSí, sí. Claro. Ya está, déjalo…\nSi lo dejo así, parece que morirá por sí solo. Adiós, mis queridas máquinas, yo me iré primero."
     },
     "PfTRBw": {
-        "en": "[Rookie]\nThat's too much. Is there really no way?\nJust because he was once with Illusion doesn't mean that he's forever a part of them. He has to pay the price for his crimes, but he's gotta live to do that.",
-        "pt": "[Elyumina]\nBom, isso eu imaginei. Deixe-me em paz...\nVou morrer logo se vocês só me deixarem. Adeus, minhas lindas máquinas. Vou embora agora...",
-        "es": "[Principiante]\nEs demasiado. ¿Realmente no hay ninguna manera?\nQue hace tiempo haya estado con Ilusión no significa que forme parte de ellos para siempre. Debe que pagar por sus crímenes, pero para eso tiene que estar vivo."
+        "ko": "[루키]\n말이 심하잖아. 그러지 말고, 뭔가 방법 없을까?\n한번 일루시온이었다고 해서 영원히 일루시온인 건 아니야. 비록 아직 죗값은 치러야 하지만. 그것도 살아야 하지.",
+        "en": "[Rookie]\nThat’s too harsh. Don’t do that—there has to be some way, right?\nJust because you were once Illusion doesn’t mean you’ll be Illusion forever. Even if you still have to pay for your sins. You have to live to do that.",
+        "pt": "[Rookie]\nIsso é cruel. Não diga isso, não há algum jeito?\nSó porque já foi Ilusión não significa que será Ilusión para sempre. Embora ainda precise pagar por seus crimes. Ainda assim, precisa viver.",
+        "es": "[Rookie]\nEso es demasiado cruel. No digas eso, ¿no habrá alguna manera?\nQue una vez fuera Illusion no significa que lo sea para siempre. Aunque todavía haya que pagar por los pecados. Para eso también hay que vivir."
     },
     "PvTRBw": {
-        "en": "Rage: Yeah. I understand you guys see him as something similar to Illusion, but he is a little different from them. Just a bit, but still different, you know.",
-        "pt": "[Novato]\nIsso já é demais. Não tem jeito mesmo?\nSó porque ele estava com a Ilusão, não significa que sempre vai estar com eles. Ele tem que pagar por seus crimes, mas precisa estar vivo para isso.",
-        "es": "Rage: Sí. Entiendo que lo vean como algo parecido a Ilusión, pero él es un poco distinto. Solo un poco, pero sigue siendo diferente, ¿no?"
+        "ko": "레이지: 그래, 아직 일루시온 비슷한 걸로 보이는 모양이지만 일루시온이랑은 약간 다르거든. 약간.",
+        "en": "Leizi: Yeah. It still looks like something similar to Illusion, but it’s a little different from Illusion. A little.",
+        "pt": "Leizi: Sim, ainda parece um pouco com Ilusión, mas é um pouco diferente de Ilusión. Um pouco.",
+        "es": "Leizi: Sí, parece que todavía es algo parecido a Illusion, pero es un poco diferente de Illusion. Un poco."
     },
     "P/TRBw": {
-        "en": "Eliumina: Just a little, huh... Would you stop considering me the same as those idiots?",
-        "pt": "Fúria: É. Entendo que vocês o veem como algo parte da Ilusão, mas ele é um pouco diferente deles. Só um pouco, mas é diferente.",
-        "es": "Eliumina: Solo un poco, eh… ¿Quieres dejar de considerarme igual que esos idiotas?"
+        "ko": "엘류미나: 약간이라고…… 그런 멍청이들이랑 자꾸 같은 범주로 묶지 말아 줄래?",
+        "en": "Eliumina: “A little”…… Could you stop lumping me in the same category as those idiots?",
+        "pt": "Eliumina: Um pouco…… você pode parar de me colocar na mesma categoria que aqueles idiotas?",
+        "es": "Eliumina: ¿Un poco…? ¿Podrías dejar de meterme una y otra vez en la misma categoría que esos idiotas?"
     },
     "QPTRBw": {
-        "en": "[Need]\nYou won't say that once you know how hard intruders made a mess of our tasks.",
-        "pt": "Elyumina: Só um pouco, né... Podem parar de me igualar àqueles idiotas?",
-        "es": "[Need]\nNo dirás lo mismo cuando sepas cuánto han estropeado nuestro trabajo los intrusos."
+        "ko": "[니드]\n침입자들이 저희의 소중한 일을 얼마나 망쳐 놓았는지 아시면 그렇게 말씀 못하실 걸요.",
+        "en": "[Nid]\nIf you knew how much the intruders ruined our precious work, you wouldn’t be able to say that.",
+        "pt": "[Nid]\nSe soubessem o quanto os intrusos arruinaram o nosso precioso trabalho, não falariam assim.",
+        "es": "[Nid]\nSi supiera cuánto han arruinado los intrusos nuestro valioso trabajo, no podría decir eso."
     },
     "QfTRBw": {
-        "en": "[Rookie]\nI guess this is the only way, then.\nAhem. ^0000CDAs a mercenary who visited this place as Master Barmund's guest, I ask you for help!!^000000\nI want to save this person so tell me how!!",
-        "pt": "[Need]\nVocê não vai dizer isso quando souber como aqueles intrusos dificultaram as nossas tarefas.",
-        "es": "[Principiante]\nSupongo que esta es la única manera, entonces.\nEjem. ^990099Como mercenario que visitó este lugar como huésped del Maestro Varmundt, ¡te pido ayuda!^000000\n¡Quiero salvar a esta persona, así que dime cómo!"
+        "ko": "[루키]\n이 수단을 쓸 수밖에 없나.\n에잇, ^0000CD바르문트 님의 손님 자격으로 이곳에 찾아온 용병으로서 부탁할게!!!^000000\n이 사람을 살리고 싶어. 방법을 말해 줘!!",
+        "en": "[Rookie]\nDo we really have no choice but to use this means?\nHey! As a Mercenary who came here as a guest of ^0000CDVarmundt^000000, I’m asking you!!!^000000\nI want to save this person. Tell me how!!",
+        "pt": "[Rookie]\nNão há outra escolha senão usar este meio.\nEi, como Mercenário que veio aqui na qualidade de visitante do Sr. ^0000CDVarmundt^000000, eu imploro!!!^000000\nQuero salvar essa pessoa. Diga-nos como!!",
+        "es": "[Rookie]\n¿No queda más remedio que usar este método?\n¡Argh, como Mercenario que ha venido aquí con el estatus de invitado de ^0000CDVarmundt 님, se lo ruego!!!^000000\nQuiero salvar a esta persona. ¡Dime cómo!!"
     },
     "QvTRBw": {
-        "en": "[Eliumina]\n...What makes you go that far? Well, yeah, I'm the great Eliumina, but you are...",
-        "pt": "[Novato]\nAcho que essa é a única forma.\nAhem. ^9370DBComo o mercenário que visitou esse lugar como convidado do Mestre Varmunt, eu peço sua ajuda!^000000\nQuero salvar essa pessoa então me diga como!",
-        "es": "[Eliumina]\n…¿Qué te hace ir hasta ese extremo? Bueno, sí, soy la gran Eliumina, pero tú eres…"
+        "ko": "[엘류미나]\n……왜 그렇게까지 하는 거야? 내가 뭐라고? 물론 위대하신 엘류미나 님이지만, 너희는…",
+        "en": "[Eliumina]\n……Why are you going that far? What am I to you? Of course, I am the great Lady Eliumina, but you…",
+        "pt": "[Eliumina]\n……Por que faz isso até esse ponto? Quem eu sou para você? Claro que sou a grandiosa Srta. Eliumina, mas vocês…",
+        "es": "[Eliumina]\n…¿Por qué haces tanto? ¿Qué soy yo para ti? Claro, soy la grandiosa Eliumina, pero ustedes…"
     },
     "Q/TRBw": {
-        "en": "[Need]\nUh... If you say so, well...\nI can make an antidote using ^0000CDSilva Papilia Leaves^000000 you can gather at the Floating Garden. That's why Master planted them there.",
-        "pt": "[Elyumina]\n... Por que você está fazendo tudo isso? Claro, eu sou o grande Elyumina, mas você é...",
-        "es": "[Need]\nUh… Si tú lo dices, bueno…\nPuedo hacer un antídoto usando ^990099Hojas de Silva papilia^000000 que puedes recoger en el Jardín flotante. Por eso el Maestro las plantó allí."
+        "ko": "[니드]\n그… 그렇게까지 말씀하신다면…\n수상정원에서 나오는 재료인 ^0000CD실바 파필리아의 잎^000000으로 해독제를 만들 수 있을 거예요. 주인님이 그 용도로 기르시던 거니까.",
+        "en": "[Nid]\nI-if you insist that much…\nYou can make an antidote with the leaves of ^0000CDSilva Papilia^000000, a material that comes from the Suspended Garden. The master raised it for that purpose.",
+        "pt": "[Nid]\nS-Se você insiste tanto assim…\nCom as folhas de ^0000CDPapilia Violeta^000000, um material que vem do Jardim Suspenso, será possível preparar um antídoto. O Mestre as cultivava para esse propósito.",
+        "es": "[Nid]\nSi… si lo dice hasta ese punto…\nPodrá hacerse un antídoto con las hojas de ^0000CDSilva Papilia^000000, un material que sale del Jardín Suspendido. Como el amo lo cultivaba para ese propósito."
     },
     "RPTRBw": {
-        "en": "[Need]\nBut I'm not sure if the gardeners will let you in.",
-        "pt": "[Need]\nHã... Se você diz...\nPosso fazer um antídoto usando ^9370DBFolhas de Silva Papilia^000000 que você pode obter no Jardim Flutuante. É por isso que o Mestre as plantou lá.",
-        "es": "[Need]\nPero no sé si los jardineros te dejarán entrar."
+        "ko": "[니드]\n하지만 정원사들이 입장하게 해 줄 지는 저도 알 수 없어요.",
+        "en": "[Nid]\nBut I don’t know whether the gardeners will let you in.",
+        "pt": "[Nid]\nMas não sei se os jardineiros permitirão a entrada.",
+        "es": "[Nid]\nPero ni yo sé si los jardineros les permitirán entrar."
     },
     "RfTRBw": {
-        "en": "[Rookie]\nWell, since it's the only way, it's worth a shot. <NAVI>[floating garden]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>, you say?\nLet's go and get the job done.",
-        "pt": "[Need]\nMas não tenho certeza se os jardineiros vão deixar você entrar.",
-        "es": "[Principiante]\nBueno, ya que es la única manera, vale la pena intentarlo. <NAVI>[jardín flotante]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>, ¿qué dices?\nVamos a hacer el trabajo."
+        "ko": "[루키]\n그야 사람 목숨이 걸렸으니까! 그걸로 충분해. <NAVI>[수상정원]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>이라고 했지?\n가죠, 가서 직접 부딪쳐봅시다.",
+        "en": "[Rookie]\nBecause a person’s life is on the line! That’s enough. You said <NAVI>[Suspended Garden]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>, right?\nLet’s go. Let’s go and face it ourselves.",
+        "pt": "[Rookie]\nUma vida está em jogo! Isso basta. Você disse <NAVI>[Jardim Suspenso]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>, certo?\nVamos, iremos até lá e resolveremos isso pessoalmente.",
+        "es": "[Rookie]\n¡Es que hay una vida en juego! Con eso basta. Era <NAVI>[Jardín Suspendido]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>, ¿verdad?\nVamos, vayamos y enfrentémoslo directamente."
     },
     "RvTRBw": {
-        "en": "[Need]\nAn error occurred.\nWould you like a sata andagi?",
-        "pt": "[Novato]\nBom, já que é a única forma, vale a tentativa. <NAVI>[jardim flutuante]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>, é?\nVamos terminar logo com isso.",
-        "es": "[Need]\nSe produjo un error.\n¿Quieres un sata andagi?"
+        "ko": "[니드]\n오류가 발생했습니다.\n사타안다기, 드실래요?",
+        "en": "[Nid]\nAn error has occurred.\nWould you like some sataandagi?",
+        "pt": "[Nid]\nOcorreu um erro.\nSataandagi, deseja?",
+        "es": "[Nid]\nSe ha producido un error.\n¿Quiere comer sataandagi?"
     },
     "R/TRBw": {
-        "en": "[Need]\nI can make an antidote with ^0000CDSilva Papilia Leaves^000000 you can gather at <NAVI>[floating garden]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>. That's why Master have them there.\nBut I'm not sure if the gardeners will let you in.",
-        "pt": "[Need]\nOcorreu um erro.\nVocê gostaria de um sata andagi?",
-        "es": "[Need]\nPuedo hacer un antídoto con ^990099Hojas de Silva papilia^000000 que puedes recoger en <NAVI>[jardín flotante]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>. Por eso el Maestro las tiene allí.\nPero no sé si los jardineros te dejarán entrar."
+        "ko": "[니드]\n<NAVI>[수상정원]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>에서 나오는 재료인 ^0000CD실바 파필리아의 잎^000000으로 해독제를 만들 수 있을 거예요. 주인님이 그 용도로 키우신 거니까요.\n하지만 정원사들이 입장하게 해 줄 지는 저도 알 수 없어요.",
+        "en": "[Nid]\nYou can make an antidote with the leaves of ^0000CDSilva Papilia^000000, a material that comes from <NAVI>[Suspended Garden]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>. The master raised it for that purpose.\nBut I don’t know whether the gardeners will let you in.",
+        "pt": "[Nid]\nCom as folhas de ^0000CDPapilia Violeta^000000, material proveniente do <NAVI>[Jardim Suspenso]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>, será possível preparar um antídoto. O Mestre as cultivou para esse propósito.\nMas não sei se os jardineiros permitirão a entrada.",
+        "es": "[Nid]\nPodrá hacerse un antídoto con las hojas de ^0000CDSilva Papilia^000000, un material que sale de <NAVI>[Jardín Suspendido]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>. Como el amo lo cultivó para ese propósito.\nPero ni yo sé si los jardineros les permitirán entrar."
     },
     "SPTRBw": {
-        "en": "[Need]\nThe hamsters in the garden will happily eat everything you give.\nBut remember not to hit them for any reason.",
-        "pt": "[Need]\nPosso fazer um antídoto com ^9370DBFolhas de Silva Papilia^000000 que você pode obter no <NAVI>[jardim flutuante]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>. É por isso que o Mestre guarda lá.\nMas não tenho certeza se os jardineiros vão deixar você entrar.",
-        "es": "[Need]\nLos hámsteres del jardín comerán encantados todo lo que les des.\nPero recuerda no golpearlos por ningún motivo."
+        "ko": "[니드]\n정원의 햄스터에게는 무슨 먹이든 먹이셔도 잘 먹어요.\n하지만 함부로 때리시면 안 된답니다.",
+        "en": "[Nid]\nThe garden’s hamster will eat any kind of feed you give it.\nBut you mustn’t hit it carelessly.",
+        "pt": "[Nid]\nO hamster do jardim come qualquer tipo de alimento.\nMas não deve bater nele.",
+        "es": "[Nid]\nAl hámster del jardín puede darle cualquier comida, y se la comerá bien.\nPero no debe golpearlo a la ligera."
     },
     "SfTRBw": {
-        "en": "[Need]\nOh, cleaner robots? Well, some managers call them that.\nBut I call them hamsters. I read in a book that a hamster diligently picks up things and stuffs them into its cheeks. Besides, a hamster is cuter than a cleaning robot.",
-        "pt": "[Need]\nOs hamsters no jardim comem qualquer coisa que você der para eles.\nMas lembre-se de não bater neles de jeito nenhum.",
-        "es": "[Need]\nOh, ¿robots limpiadores? Bueno, algunos administradores los llaman así.\nPero yo los llamo hámsteres. Leí en un libro que el hámster recoge cosas con esmero y se las mete en las mejillas. Además, el hámster es más adorable que un robot de limpieza."
+        "ko": "[니드]\n오, 청소 로봇이요? 물론 그렇게 부르는 관리인들도 있습니다만…….\n저는 햄스터라고 불러요. 책에서 읽었거든요. 부지런히 뭘 주워서 볼에 넣고 다니면 햄스터랬어요. 게다가 햄스터가 청소 로봇보다 더 귀엽잖아요?",
+        "en": "[Nid]\nOh, the Cleaning Robot? Of course, there are caretakers who call it that…….\nI call it a hamster. I read it in a book. It said that if it diligently picks things up and carries them around in its cheeks, it’s a hamster. Besides, hamsters are cuter than Cleaning Robot, aren’t they?",
+        "pt": "[Nid]\nAh, Robô de Limpeza? Claro, há administradores que o chamam assim……\nEu o chamo de hamster. Li isso em um livro. Diz que se recolhe diligentemente as coisas e as guarda nas bochechas, é um hamster. Além disso, hamster é mais fofo que Robô de Limpeza, não é?",
+        "es": "[Nid]\nOh, ¿Robot de Limpieza? Claro, también hay administradores que lo llaman así, pero…\nYo lo llamo hámster. Lo leí en un libro. Decía que si recoge cosas con diligencia y se las mete en las mejillas, es un hámster. Además, ¿un hámster no es más lindo que un Robot de Limpieza?"
     },
     "SvTRBw": {
-        "en": "Eliumina: Since I'm being hated by this much, I don't care about anything anymore......",
-        "pt": "[Need]\nAh, robôs de limpeza? Bom, alguns gestores os chamam disso.\nMas eu os chamo de hamsters. Li em um livro que um hamster pega diligentemente as coisas e as coloca em suas bochechas. Além disso, um hamster é mais fofo do que um robô de limpeza.",
-        "es": "Eliumina: Como me odian tanto, ya no me importa nada…"
+        "ko": "엘류미나: 이제 아무래도 좋아. 이렇게 미움받다니, 어떻게 되어도 상관없어…….",
+        "en": "Eliumina: I don’t care anymore. To be hated like this… I don’t care what happens…….",
+        "pt": "Eliumina: Agora tanto faz. Ser odiada assim, não importa o que aconteça……",
+        "es": "Eliumina: Ya me da igual. Que me odien así… no me importa lo que pase…"
     },
     "S/TRBw": {
-        "en": "Rage: This is my first time seeing Mr. Science in the dumps.",
-        "pt": "Elyumina: Já que me odeiam tanto, não me importo mais com nada...",
-        "es": "Rage: Es la primera vez que veo al señor Ciencia decaído."
+        "ko": "레이지: 과학 범죄자 씨가 이렇게 풀죽어하는 건 정말 처음 보네.",
+        "en": "Leizi: This is really the first time I’ve seen the scientific criminal so down in the dumps.",
+        "pt": "Leizi: É realmente a primeira vez que vejo a Srta. Cientista criminosa tão abatida.",
+        "es": "Leizi: Es la primera vez que veo al señor criminal científico tan desanimado."
     },
     "TPTRBw": {
-        "en": "Rookie: Aaah, it's so strange to hear Mina's saying such negative stuff!",
-        "pt": "Fúria: Essa é a minha primeira vez vendo o Sr. Ciência tão mal assim.",
-        "es": "Principiante: ¡Aaah, es tan extraño escuchar a Mina diciendo cosas tan negativas!"
+        "ko": "루키: 아아아, 미나가 이렇게 약한 소리 하는 거, 적응 안 돼~!",
+        "en": "Rookie: Aaaah, I’m not used to Mina talking so weak~!",
+        "pt": "Rookie: Aaah, não consigo me acostumar com Mina falando tão fraco assim~!",
+        "es": "Rookie: Aaaah, ¡no me acostumbro a que Mina diga cosas tan débiles~!"
     },
     "TfTRBw": {
-        "en": "Sayhue",
-        "pt": "Novato: Aah, é tão estranho ouvir Mina dizendo coisas tão negativas!",
-        "es": "Sayhue"
+        "ko": "세이휴",
+        "en": "Seiyu",
+        "pt": "Seiyu",
+        "es": "Seiyu"
     },
     "TvTRBw": {
-        "en": "[Sayhue]\n...................",
-        "pt": "Sayhue",
-        "es": "[Sayhue]\n…"
+        "ko": "[세이휴]\n……………….",
+        "en": "[Seiyu]\n……………….",
+        "pt": "[Seiyu]\n……………….",
+        "es": "[Seiyu]\n………………."
     },
     "T/TRBw": {
-        "en": "[Rage]\nIts eyes are cold.",
-        "pt": "[Sayhue]\n¡¦¡¦¡¦¡¦¡¦¡¦.",
-        "es": "[Rage]\nSus ojos son fríos."
+        "ko": "[레이지]\n어쩐지 눈빛이 싸늘한걸.",
+        "en": "[Leizi]\nSomehow, that gaze is icy.",
+        "pt": "[Leizi]\nDe alguma forma, seu olhar é frio.",
+        "es": "[Leizi]\nPor alguna razón, su mirada es fría."
     },
     "UPTRBw": {
-        "en": "[Sayhue]\nWelcome...\nHow may I help you?",
-        "pt": "[Fúria]\nOs olhos dela são frios.",
-        "es": "[Sayhue]\nTe doy la bienvenida…\n¿En qué puedo ayudarle?"
+        "ko": "[세이휴]\n어서 오세요, 손님…….\n무엇을 도와드릴까요?",
+        "en": "[Seiyu]\nWelcome, customer…….\nHow may I help you?",
+        "pt": "[Seiyu]\nBem-vindo, visitante…….\nComo posso ajudar?",
+        "es": "[Seiyu]\nBienvenido, señor…….\n¿En qué puedo ayudarle?"
     },
     "UfTRBw": {
-        "en": "[Rookie]\nI'd like to receive a permission to get into the Floating Garden.\nWe need to gather some ^0000CDSilva Papilia Leaves^000000 in there.",
-        "pt": "[Sayhue]\nBoas-vindas...\nComo eu posso ajudar?",
-        "es": "[Principiante]\nMe gustaría obtener un permiso para entrar en el Jardín flotante.\nNecesitamos recolectar algunas ^990099Hojas de Silva papilia^000000 de ese lugar."
+        "ko": "[루키]\n수상정원에 들어갈 수 있을까? 안에서 ^0000CD실바 파필리아의 잎^000000을 구해야 해서 말이야.\n허가를 받고 싶은데.",
+        "en": "[Rookie]\nCan I enter Suspended Garden? I need to get ^0000CD ^000000Silva Papilia leaves^000000 inside.\nI’d like to get permission.",
+        "pt": "[Rookie]\nPodemos entrar no Jardim Suspenso? Precisamos obter as folhas de ^0000CDPapilia Violeta^000000 lá dentro.\nGostaria de solicitar autorização.",
+        "es": "[Rookie]\n¿Podría entrar en Jardín Suspendido? Es que necesito conseguir ^0000CDhojas de Silva Papilia^000000 dentro.\nQuisiera obtener permiso."
     },
     "UvTRBw": {
-        "en": "[Sayhue]\nOh, they actually came! And made that request!\nI do NOT want to help that intruder!",
-        "pt": "[Novato]\nGostaria de receber permissão para entrar no Jardim Flutuante.\nPrecisamos coletar algumas ^9370DBFolhas de Silva Papilia^000000 lá.",
-        "es": "[Sayhue]\n¡Oh, realmente vinieron… y mandaron la solicitud!\n¡NO quiero ayudar a ese intruso!"
+        "ko": "[세이휴]\n아~ 역시 와버리셨어! 그 부탁도 해버리셨어!\n저는 그 침입자를 도와주기 싫단 말입니다!",
+        "en": "[Seiyu]\nAh~ So you really came! And you went and asked that favor, too!\nI don’t want to help that intruder!",
+        "pt": "[Seiyu]\nAh~ Então vocês realmente vieram! E ainda fizeram esse pedido!\nEu não quero ajudar aquele intruso!",
+        "es": "[Seiyu]\nAh~ ¡Así que al final viniste! ¡Y también hiciste esa petición!\n¡Te digo que no quiero ayudar a ese intruso!"
     },
     "U/TRBw": {
-        "en": "[Rage]\nI've been wanting to ask this for a while. He is one of us. What's the difference between a guest and an intruder?",
-        "pt": "[Sayhue]\nAh, olha só quem apareceu! E ainda fez esse pedido!\nEu NÃO quero ajudar aquele intruso!",
-        "es": "[Rage]\nHace tiempo que quiero preguntar esto. Él es uno de los nuestros. ¿Cuál es la diferencia entre un huésped y un intruso?"
+        "ko": "[레이지]\n아까부터 궁금했던 건데, 어차피 우리 일행인데 침입자와 손님을 무슨 기준으로 구분하는 거지?",
+        "en": "[Leizi]\nI’ve been wondering for a while, but since we’re a party anyway, what 기준 do you use to distinguish an intruder from a customer?",
+        "pt": "[Leizi]\nDesde antes eu estava curioso, mas já que somos do mesmo grupo, com base em que critério vocês distinguem intruso de visitante?",
+        "es": "[Leizi]\nLlevo un rato con la duda, pero si de todos modos vamos en el mismo grupo, ¿con qué criterio distingues entre intruso y cliente?"
     },
     "VPTRBw": {
-        "en": "[Rage]\nIt's not like he has the word intruder written on his face.",
-        "pt": "[Fúria]\nQueria perguntar isso já tem um tempo. Ele é um de nós. Qual é a diferença entre um convidado e um intruso?",
-        "es": "[Rage]\nNo es que lleve la palabra intruso escrita en el rostro."
+        "ko": "[레이지]\n이 범죄 과학자의 얼굴에 침입자라고 써있는 것도 아닌데 말이야.",
+        "en": "[Leizi]\nIt’s not like this criminal scientist has “intruder” written on his face.",
+        "pt": "[Leizi]\nNão é como se estivesse escrito intruso no rosto dessa cientista criminosa.",
+        "es": "[Leizi]\nNo es como si en la cara de este científico criminal estuviera escrito “intruso”, ¿sabes?"
     },
     "VfTRBw": {
-        "en": "[Sayhue]\nWe cannot judge. We just collect data. We collect everything people say and do and save them into the database.",
-        "pt": "[Fúria]\nNão é como se ele tivesse a palavra",
-        "es": "[Sayhue]\nNo podemos juzgar. Solo recolectamos datos. Recolectamos todo lo que la gente dice y hace y lo guardamos en la base de datos."
+        "ko": "[세이휴]\n저희는 판단하지 못합니다. 그저 데이터를 모을 뿐이지요. 지금까지 하신 말씀과 행동이 전부 저희가 수집하는 데이터가 됩니다.",
+        "en": "[Seiyu]\nWe cannot judge. We only collect data. Everything you have said and done so far becomes data we collect.",
+        "pt": "[Seiyu]\nNós não julgamos. Apenas coletamos dados. Tudo o que vocês dizem e fazem se torna dado que coletamos.",
+        "es": "[Seiyu]\nNosotros no juzgamos. Solo recopilamos datos. Todo lo que han dicho y hecho hasta ahora se convierte en datos que recopilamos."
     },
     "VvTRBw": {
-        "en": "[Sayhue]\nThen, we compare what you say and do with the database and draw the closest conclusion. Upon deciding whether one is an intruder, we proceed with elimination of the intruder. That's the action policy Alpha gave us.",
-        "pt": "[Sayhue]\nNão podemos julgar. Nós apenas coletamos dados. Nós coletamos tudo que as pessoas dizem e fazem e salvamos no banco de dados.",
-        "es": "[Sayhue]\nLuego, comparamos lo que dices y haces con la base de datos y sacamos la conclusión más aproximada. Una vez decidido si se trata de un intruso, se procede a su eliminación. Esa es la política de acción que nos dio Alfa."
+        "ko": "[세이휴]\n그리고 비교해서 가장 가까운 결과를 도출해낼 뿐입니다. 그 다음 침입자는 배제한다, 이것이 알파로부터 받은 저희의 행동 방침입니다.",
+        "en": "[Seiyu]\nAnd we simply compare it and derive the closest result. Then, exclude the intruder—this is our code of conduct received from Alpha.",
+        "pt": "[Seiyu]\nE apenas comparamos para extrair o resultado mais próximo. Em seguida, excluímos o intruso; essa é a diretriz de conduta que recebemos de Alpha.",
+        "es": "[Seiyu]\nY solo los comparamos para obtener el resultado más cercano. Después, se excluye al intruso; esa es nuestra directriz de conducta recibida de Alpha."
     },
     "V/TRBw": {
-        "en": "[Sayhue]\nI want to ask you why you want to save that person.\nHe is harmful to you too, no?",
-        "pt": "[Sayhue]\nDepois, comparamos o que você diz e faz com o banco de dados e traçamos a conclusão mais próxima. Ao decidirmos se alguém é um intruso, prosseguimos com a eliminação dele. Essa é a política de ação passada para nós por Alfa.",
-        "es": "[Sayhue]\nQuiero preguntarte por qué quieres salvar a esa persona.\nÉl también te hace daño, ¿no?"
+        "ko": "[세이휴]\n저야말로 묻고 싶네요. 왜 그 사람을 살리려고 하지요?\n그 자는 여러분께도 해가 되는 사람이지 않습니까.",
+        "en": "[Seiyu]\nI’m the one who wants to ask. Why are you trying to save that person?\nIsn’t he someone who would harm you as well?",
+        "pt": "[Seiyu]\nSou eu quem gostaria de perguntar. Por que tentam salvar essa pessoa?\nEla não é alguém que também lhes causa mal?",
+        "es": "[Seiyu]\nYo también quisiera preguntar. ¿Por qué intentan salvar a esa persona?\n¿Acaso no es alguien que también les perjudica a ustedes?"
     },
     "WPTRBw": {
-        "en": "[Sayhue]\nIs it because you still need him? Is that how humans behave?",
-        "pt": "[Sayhue]\nEu quero te perguntar por que você quer salvar aquela pessoa.\nEle também te prejudica, não?",
-        "es": "[Sayhue]\n¿Es porque aún lo necesitas? ¿Es así como se comportan los humanos?"
+        "ko": "[세이휴]\n아직 필요가 있어서 그런가요? 인간은 그런 건가요?",
+        "en": "[Seiyu]\nIs it because you still need him?\nAre humans like that?",
+        "pt": "[Seiyu]\nAinda precisam dela? É assim que os humanos são?",
+        "es": "[Seiyu]\n¿Es porque aún lo necesitan?\n¿Los humanos son así?"
     },
     "WfTRBw": {
-        "en": "[Rookie]\nWell, that's...",
-        "pt": "[Sayhue]\nÉ porque você ainda precisa dele? É assim que humanoides se comportam?",
-        "es": "[Principiante]\nBueno, eso es…"
+        "ko": "[루키]\n그, 그건…",
+        "en": "[Rookie]\nTh-That is…",
+        "pt": "[Rookie]\nI-Isso é…",
+        "es": "[Rookie]\nE-eso…"
     },
     "WvTRBw": {
+        "ko": "엘류미나는 우리 동료다.",
         "en": "Eliumina is our companion.",
-        "pt": "[Novato]\nBom, isso...",
-        "es": "Eliumina es nuestra compañera."
+        "pt": "Eliumina é nossa companheira.",
+        "es": "Eliumina es nuestro compañero."
     },
     "W/TRBw": {
-        "en": "He helped us, so we help him.",
-        "pt": "Elyumina é nosso companheiro.",
-        "es": "Ella nos ayudó, así que nosotros la ayudamos a ella."
+        "ko": "도움받은 만큼 갚는 것이다.",
+        "en": "You repay what you’ve been helped with.",
+        "pt": "Estamos apenas retribuindo a ajuda recebida.",
+        "es": "Se devuelve lo que se ha recibido."
     },
     "XPTRBw": {
-        "en": "Friend or foe, I don't want to kill him.",
-        "pt": "Ele nos ajudou, então vamos ajudá-lo.",
-        "es": "Amigo o adversario, no quiero matarla."
+        "ko": "적이든 동료든 죽이고 싶지 않다.",
+        "en": "I don’t want to kill anyone, whether enemy or companion.",
+        "pt": "Não queremos matar, seja inimigo ou aliado.",
+        "es": "No quiero matar, sea enemigo o compañero."
     },
     "XfTRBw": {
-        "en": "[Sayhue]\nWhy? I've been learning about this companionship, but do not understand.\nAccording to what I've learned, he is not a companion to you.",
-        "pt": "Amigo ou inimigo, não quero matá-lo.",
-        "es": "[Sayhue]\n¿Por qué? Estuve aprendiendo acerca de este compañerismo, pero no lo entiendo.\nSegún lo que aprendí, ella no es una compañera para ti."
+        "ko": "[세이휴]\n어째서지요? 저는 동료가 뭔지 습득하고 있습니다.\n그 정의에 따르면, 그 자는 동료가 아닙니다.",
+        "en": "[Seiyu]\nWhy is that? I am learning what a companion is.\nBy that definition, he is not a companion.",
+        "pt": "[Seiyu]\nPor quê? Estou aprendendo o que é um companheiro.\nSegundo essa definição, essa pessoa não é uma companheira.",
+        "es": "[Seiyu]\n¿Por qué? Estoy aprendiendo qué es un compañero.\nSegún esa definición, esa persona no es un compañero."
     },
     "XvTRBw": {
-        "en": "[Eliumina]\nBecause humans are foolish. Their flow of thoughts are different from the beautiful mechanism of machines... It's a bit pathetic that I'm talking about me in this case, though.",
-        "pt": "[Sayhue]\nPor quê? Eu estive aprendendo sobre companheirismo, mas não entendo.\nDe acordo com o que eu aprendi, ele não é seu companheiro.",
-        "es": "[Eliumina]\nPorque los humanos son tontos. Su flujo de pensamientos es diferente del bello mecanismo de las máquinas… Aunque es un poco patético que hable de mí en este caso."
+        "ko": "[엘류미나]\n인간은 바보같거든. 그래서 기계의 아름다운 사고와는 좀 다른 걸 하지……. 그게 내 이야기라는 건 좀 비참하군.",
+        "en": "[Eliumina]\nHumans are foolish. That’s why they do things a little different from a machine’s beautiful reasoning…… It’s rather miserable that I’m talking about myself.",
+        "pt": "[Eliumina]\nOs humanos são tolos. Por isso fazem coisas um pouco diferentes do belo raciocínio das máquinas…… Que essa seja a minha história é um tanto miserável.",
+        "es": "[Eliumina]\nLos humanos son tontos. Por eso hacen cosas un poco distintas al hermoso razonamiento de las máquinas……. Que esa sea mi historia es algo miserable."
     },
     "X/TRBw": {
-        "en": "[Eliumina]\nAnyway, a machine that actually has a sense of curiosity...! I want to know more about your way of thinking.",
-        "pt": "[Elyumina]\nPorque humanoides são idiotas. O fluxo de pensamento deles é diferente do belo mecanismo das máquinas... Mas é um pouco patético que eu esteja falando de mim nesse caso.",
-        "es": "[Eliumina]\nEn fin, ¡una máquina que realmente tiene sentido de la curiosidad…! Quiero saber más sobre tu forma de pensar."
+        "ko": "[엘류미나]\n아무튼 그런 궁금증을 품은 기계라니, 너무너무 매력적인걸. 너의 사고방식에 대해 더 알고 싶어.",
+        "en": "[Eliumina]\nAnyway, a machine that holds such curiosity is very, very charming. I want to know more about the way you think.",
+        "pt": "[Eliumina]\nEnfim, uma máquina com tais questionamentos é extremamente encantadora. Quero saber mais sobre a sua forma de pensar.",
+        "es": "[Eliumina]\nEn fin, una máquina con esa curiosidad… es muy, muy atractiva. Quiero saber más sobre tu forma de pensar."
     },
     "YPTRBw": {
-        "en": "[Sayhue]\nI have no obligation to answer your inquiry.\nHuman judgment is hard for me. I thought as much. But thank you for your opinion.",
-        "pt": "[Elyumina]\nEnfim, uma máquina que tem senso de curiosidade! Quero saber mais sobre a sua forma de pensar.",
-        "es": "[Sayhue]\nNo tengo ninguna obligación de responder a tu pregunta.\nEl juicio humano me resulta difícil. Eso pensaba yo. Pero gracias por tu opinión."
+        "ko": "[세이휴]\n저는 당신을 배제합니다.\n인간의 판단, 역시 저로서는 어렵습니다. 하지만 의견을 들려주셔서 감사합니다.",
+        "en": "[Seiyu]\nI will exclude you.\nHuman judgment is difficult for me as well. But thank you for sharing your opinion.",
+        "pt": "[Seiyu]\nEu a excluirei.\nO julgamento humano é realmente difícil para mim. Ainda assim, agradeço por compartilhar sua opinião.",
+        "es": "[Seiyu]\nYo la excluyo.\nEl juicio humano, para mí, sigue siendo difícil. Pero gracias por compartir su opinión."
     },
     "YfTRBw": {
-        "en": "[Sayhue]\nIs that so? If you're saving him because he is of help to you, it means he must continue being of help to you to stay alive, yes?",
-        "pt": "[Sayhue]\nNão tenho obrigação alguma de responder às suas perguntas.\nO julgamento humanoide é difícil para mim. Imaginei. Mas agradeço pela sua opinião.",
-        "es": "[Sayhue]\n¿De verdad? Si lo salvas porque es útil para ti, significa que debe seguir siéndote útil para seguir con vida, ¿no?"
+        "ko": "[세이휴]\n그렇습니까? 도움이 되니까 살린다는 건, 앞으로도 도움이 되지 않으면 안 된다는 의미군요?",
+        "en": "[Seiyu]\nIs that so? Saving someone because they are helpful means they must continue to be helpful in the future, then?",
+        "pt": "[Seiyu]\nÉ assim? Dizer que vai salvá-la porque é útil significa que, se deixar de ser útil no futuro, não precisará mais ser salva?",
+        "es": "[Seiyu]\n¿Ah, sí? Entonces, salvarlo porque es útil significa que, en adelante, también debe seguir siendo útil, ¿no?"
     },
     "YvTRBw": {
-        "en": "[Eliumina]\nHah hah... Similar to robots, isn't it? You guys, too, are operating to be of help to humans. That's why you're the way you are, I guess.",
-        "pt": "[Sayhue]\nÉ mesmo? Se você o está salvando porque ele está te ajudando, isso significa que ele deve continuar com a ajuda para continuar vivo, certo?",
-        "es": "[Eliumina]\nJa, ja… Parecido a los robots, ¿cierto? Ustedes también funcionan para ayudar a los humanos. Por eso es que son como son, quizás."
+        "ko": "[엘류미나]\n하, 하하… 자동인형과 비슷하지? 당신들도 인간에게 도움이 되기 때문에, 도움이 되기 위해서 이렇게 작동하고 있으니까 말이야.",
+        "en": "[Eliumina]\nHa, haha… It’s similar to an automaton, isn’t it? You operate like this because you are helpful to humans, because you exist to be helpful.",
+        "pt": "[Eliumina]\nHa, haha… Não é parecido com as bonecas automáticas? Vocês também funcionam assim porque são úteis aos humanos, porque existem para ser úteis.",
+        "es": "[Eliumina]\nJa, jaja… ¿No es parecido a una muñeca automática? Porque ustedes también funcionan así, ya que son útiles para los humanos, para serles útiles."
     },
     "Y/TRBw": {
-        "en": "[Sayhue]\nDo not compare us to you.\n...But perhaps that can help me understand the human standard for judgment a little. Or not.",
-        "pt": "[Elyumina]\nHaha... Como os robôs, não é? Vocês também estão operando para ajudar humanoides. É por isso que você é do jeito que é, eu acho.",
-        "es": "[Sayhue]\nNo nos compares con ustedes.\n…Pero quizá eso me ayude a entender un poco el criterio humano para juzgar. O no."
+        "ko": "[세이휴]\n저희를 당신과 비교하지 마십시오.\n…하지만 인간의 판단 기준은, 조금 이해할 수 있을 듯 말듯 하군요.",
+        "en": "[Seiyu]\nDo not compare us to you.\n…But humans’ standards of judgment, I feel I can almost understand them, and yet not quite.",
+        "pt": "[Seiyu]\nNão nos compare com você.\n…Ainda assim, talvez eu consiga compreender um pouco os critérios de julgamento humano.",
+        "es": "[Seiyu]\nNo nos compare con usted.\n…Pero el criterio de juicio humano, creo que puedo entenderlo un poco, o quizá no."
     },
     "ZPTRBw": {
-        "en": "[Sayhue]\nI did not expect you to say that.\nI have recognized humans as a race that hurts each other if needed based on the data collected so far.",
-        "pt": "[Sayhue]\nNão nos compare.\n... Mas talvez isso possa me ajudar a compreender um pouco os padrões de julgamento humanoides. Ou não.",
-        "es": "[Sayhue]\nNo esperaba que dijeras eso.\nSegún los datos que he recopilado, reconocí a los humanos como una raza en la se hacen daño unos a otros si es necesario."
+        "ko": "[세이휴]\n그렇게 말하실 줄은 예상하지 못했습니다.\n인간은 필요하다면 서로를 해치는 종족이라고, 지금까지의 데이터를 토대로 인식하고 있었습니다.",
+        "en": "[Seiyu]\nI did not expect you to say that.\nBased on the data so far, I understood humans to be a species that harms one another when necessary.",
+        "pt": "[Seiyu]\nNão esperava que dissesse algo assim.\nCom base nos dados coletados até agora, reconhecíamos os humanos como uma espécie que fere uns aos outros quando necessário.",
+        "es": "[Seiyu]\nNo esperaba que dijera eso.\nSegún los datos recopilados hasta ahora, entendía que los humanos son una especie que, si es necesario, se hace daño entre sí."
     },
     "ZfTRBw": {
-        "en": "[Eliumina]\nI didn't want to kill any of them too, but they were so weak and stupid that they died by themselves.",
-        "pt": "[Sayhue]\nNão esperava que você fosse dizer isso.\nCom base nos dados que coletei até o momento, eu reconheci humanoides como uma raça que machuca uns aos outros se necessário.",
-        "es": "[Eliumina]\nYo tampoco quería matar a nadie, pero eran tan débiles y estúpidos que se murieron solos."
+        "ko": "[엘류미나]\n나도 딱히 죽이고 싶어서 죽인 사람은 없는데. 근데 걔네들이 연약하고 멍청해서 자꾸 알아서 죽더라고.",
+        "en": "[Eliumina]\nIt’s not like I killed anyone because I wanted to. But they were so weak and stupid that they just kept dying on their own.",
+        "pt": "[Eliumina]\nEu também não matei ninguém por querer matar. Só que eles eram frágeis e tolos, e acabavam morrendo por conta própria.",
+        "es": "[Eliumina]\nYo tampoco he matado a nadie porque quisiera. Pero es que ellos son tan débiles y tan tontos que se mueren solos una y otra vez."
     },
     "ZvTRBw": {
-        "en": "[Sayhue]\nI did not ask for your opinion.",
-        "pt": "[Elyumina]\nEu não queria matar nenhum deles também, mas eram tão fracos e burros que morreram sozinhos.",
-        "es": "[Sayhue]\nNo te pedí tu opinión."
+        "ko": "[세이휴]\n배제된 자의 의견은 무가치합니다.",
+        "en": "[Seiyu]\nThe opinion of the excluded is worthless.",
+        "pt": "[Seiyu]\nA opinião de quem foi excluído não tem valor.",
+        "es": "[Seiyu]\nLa opinión de los excluidos no tiene valor."
     },
     "Z/TRBw": {
-        "en": "[Sayhue]\nHumans sure are an enigma.\nI cannot understand your standard of judgment, but I see your point.",
-        "pt": "[Sayhue]\nNão pedi sua opinião.",
-        "es": "[Sayhue]\nLos humanos son un enigma.\nNo puedo entender su criterio, pero entiendo su punto de vista."
+        "ko": "[세이휴]\n…인간이란 정말이지 까다롭군요.\n손님의 판단 기준을, 이해는 할 수 없지만 어쨌든 알아들었습니다.",
+        "en": "[Seiyu]\n…Humans truly are troublesome.\nI cannot understand your criteria for judgment, but in any case, I have understood it.",
+        "pt": "[Seiyu]\n…Os humanos são realmente complicados.\nNão posso compreender seus critérios de julgamento, visitante, mas de qualquer forma entendi o que disse.",
+        "es": "[Seiyu]\n…Los humanos son realmente complicados.\nNo puedo comprender el criterio de juicio del invitado, pero en cualquier caso lo he entendido."
     },
     "aPTRBw": {
-        "en": "[Sayhue]\n...Alright. Then, please do me a favor.\nI will let you into the Floating Garden. In return, help us with our task.",
-        "pt": "[Sayhue]\nHumanoides são mesmo um enigma.\nNão consigo entender seu padrão de julgamento, mas entendo seu ponto de vista.",
-        "es": "[Sayhue]\n…Está bien. Entonces, quiero pedir un favor.\nLos dejaré entrar en el Jardín flotante. A cambio, ayúdennos con nuestra tarea."
+        "ko": "[세이휴]\n…좋습니다. 그렇다면 제 부탁을 좀 들어주세요.\n수상정원에 입장하실 수 있도록 해 드릴 테니, 대신 저희 일을 좀 도와주십시오.",
+        "en": "[Seiyu]\n…Very well. Then please grant me a favor.\nI will allow you to enter Suspended Garden, so in return, please help us with our work.",
+        "pt": "[Seiyu]\n…Muito bem. Então, atenda a um pedido meu.\nPermitirei sua entrada no Jardim Suspenso, mas em troca, ajude-nos com nosso trabalho.",
+        "es": "[Seiyu]\n…De acuerdo. Entonces, por favor, acepte mi petición.\nHaré que pueda entrar en Jardín Suspendido, pero a cambio ayúdenos con nuestro trabajo."
     },
     "afTRBw": {
-        "en": "[Sayhue]\nA few tasks in the Floating Garden have been stalled due to intruders' disturbance.\nIf you promise to help us with that, I will open the Floating Garden for you.",
-        "pt": "[Sayhue]\n... Está bem. Então, por gentileza, me faça um favor.\nVou deixar você entrar no Jardim Flutuante. Em troca, você nos ajuda com a nossa tarefa.",
-        "es": "[Sayhue]\nAlgunas tareas en el Jardín flotante se interrumpieron debido a las molestias de los intrusos.\nSi prometen ayudarnos con eso, abriré el Jardín flotante para ustedes."
+        "ko": "[세이휴]\n침입자들의 방해로, 수상정원의 몇몇 업무가 마비된 상태입니다.\n이것을 도와준다고 약속하시면, 저도 수상정원의 문을 열어드리도록 하지요.",
+        "en": "[Seiyu]\nDue to interference from the intruders, some operations in Suspended Garden are currently paralyzed.\nIf you promise to help with this, then I will open the gates of Suspended Garden for you as well.",
+        "pt": "[Seiyu]\nDevido à interferência dos intrusos, algumas tarefas do Jardim Suspenso estão paralisadas.\nSe prometer ajudar com isso, abrirei as portas do Jardim Suspenso.",
+        "es": "[Seiyu]\nPor la interferencia de los intrusos, algunas tareas de Jardín Suspendido están paralizadas.\nSi promete ayudar con esto, yo también abriré la puerta de Jardín Suspendido."
     },
     "avTRBw": {
-        "en": "Help",
-        "pt": "[Sayhue]\nAlgumas tarefas no Jardim Flutuante foram atrasadas por causa dos intrusos.\nSe prometer nos ajudar com isso, abrirei o Jardim Flutuante para você.",
-        "es": "Ayudar."
+        "ko": "도와준다.",
+        "en": "I’ll help.",
+        "pt": "Ajudarei.",
+        "es": "Ayudaré."
     },
     "a/TRBw": {
-        "en": "Do not help",
-        "pt": "Ajudar",
-        "es": "No ayudar."
+        "ko": "도와주지 않는다.",
+        "en": "I won’t help.",
+        "pt": "Não ajudarei.",
+        "es": "No ayudaré."
     },
     "bPTRBw": {
-        "en": "[Sayhue]\nIt's a deal.\nThis is just a deal. I still acknowledge that it's my duty to eliminate intruders.",
-        "pt": "Não ajudar",
-        "es": "[Sayhue]\nTrato hecho.\nEsto es solo un trato. Sigo reconociendo que es mi deber eliminar a los intrusos."
+        "ko": "[세이휴]\n거래 성립입니다.\n이건 거래일 뿐입니다. 저는 여전히 침입자를 배제해야 한다는 의무를 인지하고 있습니다.",
+        "en": "[Seiyu]\nThe deal is struck.\nThis is merely a deal. I am still aware of my duty to exclude the intruders.",
+        "pt": "[Seiyu]\nAcordo fechado.\nÉ apenas uma transação. Ainda estou ciente do meu dever de excluir o intruso.",
+        "es": "[Seiyu]\nTrato hecho.\nEsto no es más que un trato. Sigo siendo consciente de mi deber de excluir a los intrusos."
     },
     "bfTRBw": {
-        "en": "[Eliumina]\nThat one's starting to get me peeved. I swear I will make that robot fall for me.",
-        "pt": "[Sayhue]\nCombinado.\nIsso é apenas um combinado. Eu ainda reconheço que eliminar intrusos é o meu dever.",
-        "es": "[Eliumina]\nEsa ya me está sacando de quicio. Juro que haré que ese robot se enamore de mí."
+        "ko": "[엘류미나]\n이쯤 되면 오기가 생기는걸. 꼭 내게 반하게 만들고 말겠어.",
+        "en": "[Eliumina]\nAt this point, it’s making me stubborn. I’ll make you fall for me, no matter what.",
+        "pt": "[Eliumina]\nA essa altura, fiquei até motivada. Vou fazer você se apaixonar por mim custe o que custar.",
+        "es": "[Eliumina]\nA estas alturas me entran ganas de llevar la contraria. Haré que te enamores de mí, cueste lo que cueste."
     },
     "bvTRBw": {
-        "en": "[Rage]\nYou talk like a romantic novel's heroine, but the love interest is a little....",
-        "pt": "[Elyumina]\nAquele ali está começando a me irritar. Juro que vou fazer aquele robô se apaixonar por mim.",
-        "es": "[Rage]\nHablas como la heroína de una novela romántica, pero el interés amoroso es un poco…"
+        "ko": "[레이지]\n로맨스 소설 여주인공 같은 소리를 하는데, 상대가 영 애매하군 그래….",
+        "en": "[Leizi]\nYou’re talking like the heroine of a romance novel, but the other party is awfully ambiguous, huh….",
+        "pt": "[Leizi]\nIsso soa como protagonista de romance, mas o alvo é meio duvidoso…",
+        "es": "[Leizi]\nHablas como la protagonista de una novela romántica, pero el otro es bastante ambiguo, ¿eh…?"
     },
     "b/TRBw": {
-        "en": "[Rookie]\nAlright, alright. A revenge play, a romance play, you can pretend anything you want after you drink the antidote.\nCan you move, Mina? It said the garden is dangerous inside.",
-        "pt": "[Fúria]\nVocê fala como se fosse a protagonista de um livro romântico, mas o interesse romântico é meio...",
-        "es": "[Principiante]\nEstá bien, de acuerdo. Una obra de venganza, una obra romántica, puedes fingir lo que quieras después de beber el antídoto.\n¿Puedes moverte, Mina? Dijo que el jardín es peligroso por dentro."
+        "ko": "[루키]\n좋아, 좋아. 복수극이든, 로맨스 소설이든 일단 해독제를 만들어 마시고 나은 뒤에 얘기해.\n미나, 움직일 수 있어? 안은 위험하다는데….",
+        "en": "[Rookie]\nAlright, alright. Whether it’s a revenge drama or a romance novel, first make the antidote, drink it, and get better, then talk.\nMina, can you move? They say it’s dangerous inside….",
+        "pt": "[Rookie]\nTudo bem, tudo bem. Seja vingança ou romance, primeiro faça o antídoto, beba e melhore.\nMina, consegue se mover? Disseram que lá dentro é perigoso…",
+        "es": "[Rookie]\nBien, bien. Sea una historia de venganza o una novela romántica, primero prepara el antídoto, bébetelo, recupérate y luego hablamos.\nMina, ¿puedes moverte? Dicen que dentro es peligroso…."
     },
     "cPTRBw": {
-        "en": "[Eliumina]\n......Sorry, I can't.\nEven just walking is taxing right now.",
-        "pt": "[Novato]\nCerto, certo. Uma peça de vingança, uma peça de romance, você pode fazer o que quiser depois de tomar o antídoto.\nConsegue se mexer, Mina? Ele disse que o jardim é perigoso lá dentro.",
-        "es": "[Eliumina]\n…Lo siento, no puedo.\nIncluso caminar es agotador en este momento."
+        "ko": "[엘류미나]\n……미안, 무리.\n지금 걷는 것만으로도 힘겨워.",
+        "en": "[Eliumina]\n……Sorry, I can’t.\nEven just walking right now is exhausting.",
+        "pt": "[Eliumina]\n……Desculpe, é demais para mim.\nSó de andar já é difícil.",
+        "es": "[Eliumina]\n……Lo siento, no puedo.\nAhora mismo, incluso solo caminar me resulta agotador."
     },
     "cfTRBw": {
-        "en": "[Rookie]\nWell then, I should stay behind to watch Mina.\nAdventurer, could you go inside and get us some Silva Papilia Leaves?",
-        "pt": "[Elyumina]\n... Desculpe, não posso.\nAté andar é muito difícil para mim agora.",
-        "es": "[Principiante]\nBueno, entonces debería quedarme para vigilar a Mina.\nTrotamundos, ¿podrías entrar y traernos unas Hojas de Silva papilia?"
+        "ko": "[루키]\n음, 그렇다면 저도 미나를 감시하기 위해 남아야 할 것 같아요.\n모험가님, 안에 들어가서 실바 파필리아의 잎을 구해다 주실 수 있나요?",
+        "en": "[Rookie]\nHmm, then I think I should stay behind to keep an eye on Mina.\nAdventurer, could you go inside and bring back some leaves of Silva Papilia?",
+        "pt": "[Rookie]\nHm, então acho que também preciso ficar para vigiar Mina.\nAventureiro, poderia entrar e conseguir as folhas de Papilia Violeta?",
+        "es": "[Rookie]\nMmm, entonces creo que yo también debería quedarme para vigilar a Mina.\nAventurero, ¿podría entrar y traernos hojas de Silva Papilia?"
     },
     "cvTRBw": {
-        "en": "[Rage]\nI'm a non-combatant, so I'll stay behind, too. I use my force only to protect myself. As less pain as possible is my creed.",
-        "pt": "[Novato]\nBom, eu deveria ficar para trás para ficar de olho no Mina.\nViajante, você pode ir lá dentro e pegar algumas Folhas de Silva Papilia?",
-        "es": "[Rage]\nNo soy un combatiente, así que también me quedaré atrás. Uso mi fuerza solo para protegerme. Mi credo es el menor dolor posible."
+        "ko": "[레이지]\n나는 비전투요원이니까 밖에 남을래. 내 무력은 나를 지키기 위해 있거든. 아픈 건 최소한도로만 하자는 주의야, 나는.",
+        "en": "[Leizi]\nI’m non-combat personnel, so I’ll stay outside. My strength is for protecting myself. I’m the type who believes in keeping pain to a minimum.",
+        "pt": "[Leizi]\nSou não combatente, então ficarei aqui fora. Minha força é para me proteger. Sou do tipo que prefere minimizar a dor.",
+        "es": "[Leizi]\nComo no soy personal de combate, me quedaré fuera. Mi fuerza es para protegerme. Yo soy de la idea de que lo de sufrir sea lo mínimo posible."
     },
     "c/TRBw": {
-        "en": "I'll go.",
-        "pt": "[Fúria]\nEu não sou combatente, então vou ficar aqui também. Uso minha força apenas para me proteger. Pois meu lema é a menor quantidade de dor possível.",
-        "es": "Iré."
+        "ko": "다녀오겠다.",
+        "en": "I’ll be back.",
+        "pt": "Irei e voltarei.",
+        "es": "Iré y volveré."
     },
     "dPTRBw": {
-        "en": "I'm a non-combatant, too.",
-        "pt": "Eu vou.",
-        "es": "Yo tampoco soy combatiente."
+        "ko": "나도 비전투요원이다.",
+        "en": "I’m non-combat personnel too.",
+        "pt": "Eu também sou não combatente.",
+        "es": "Yo también soy personal no combatiente."
     },
     "dfTRBw": {
-        "en": "[Rookie]\nI'm counting on you, Adventurer.\nTake care.",
-        "pt": "Também sou não combatente.",
-        "es": "[Principiante]\nCuento contigo, trotamundos.\nCuídate."
+        "ko": "[루키]\n모험가님을 믿고 있어요.\n조심해서 다녀오세요.",
+        "en": "[Rookie]\nI trust you, Adventurer.\nPlease be careful out there.",
+        "pt": "[Rookie]\nConfio em você, Aventureiro.\nVá com cuidado.",
+        "es": "[Rookie]\nConfío en usted, aventurero.\nVaya con cuidado."
     },
     "dvTRBw": {
-        "en": "[Rage]\nWhat? ...Adventurer, think of all the battles you've fought.\nPut your hand on your heart and tell me... You're what?",
-        "pt": "[Novato]\nEstou contando com você, viajante.\nCuide-se.",
-        "es": "[Rage]\n¿Qué? …trotamundos, piensa en todas las batallas que has librado.\nPonte la mano en el corazón y dime… ¿Qué eres?"
+        "ko": "[레이지]\n응? 모험가… 지금까지 한 전투를 돌이켜 봐.\n그리고 가슴에 손을 얹고 다시 생각해 보자.",
+        "en": "[Leizi]\nHuh? Adventurer… think back on the fights you’ve had so far.\nAnd let’s put a hand on your chest and think again.",
+        "pt": "[Leizi]\nHm? Aventureiro… reveja todas as batalhas que travou até agora.\nE então, com a mão no peito, pense novamente.",
+        "es": "[Leizi]\n¿Eh? Aventurero… recuerda los combates que has librado hasta ahora.\nY, con la mano en el pecho, volvamos a pensarlo."
     },
     "d/TRBw": {
-        "en": "[Rookie]\nAlright, we'll be waiting here.\nTalk to Sayhue when you come back.",
-        "pt": "[Fúria]\nO quê? ... Viajante, pense nas batalhas que você enfrentou.\nColoque a mão no coração e me diga... Você o quê?",
-        "es": "[Principiante]\nMuy bien, estaremos esperando aquí.\nHabla con Sayhue cuando vuelvas."
+        "ko": "[루키]\n그럼, 저희는 여기서 기다리고 있겠습니다.\n다녀오셔서 세이휴 씨에게 다시 말을 걸어주세요.",
+        "en": "[Rookie]\nThen we will wait here.\nWhen you return, please speak to Seiyu again.",
+        "pt": "[Rookie]\nEntão, ficaremos esperando aqui.\nQuando voltar, fale novamente com o Sr. Seiyu.",
+        "es": "[Rookie]\nEntonces, esperaremos aquí.\nCuando regrese, vuelva a hablar con el señor Seiyu."
     },
     "ePTRBw": {
-        "en": "[Sayhue]\nTalk to <NAVI>[Harad]<INFO>ba_maison,238,44,0,101,0</INFO></NAVI> next to me to enter the Floating Garden.\nIt might be dangerous inside, but you called for it. Be careful.",
-        "pt": "[Novato]\nCerto, vou esperar aqui.\nFale com Sayhue quando voltar.",
-        "es": "[Sayhue]\nHabla con <NAVI>[Harad]<INFO>ba_maison,238,44,0,101,0</INFO></NAVI> que está junto a mí para entrar en el Jardín flotante.\nPuede que sea peligroso por dentro, pero tú lo pediste. Tengan cuidado."
+        "ko": "[세이휴]\n이 옆의 <NAVI>[하라드]<INFO>ba_maison,238,44,0,101,0</INFO></NAVI>에게 말을 걸어, 수상정원으로 입장하실 수 있습니다.\n들어가면 위험할 수도 있지만, 모험가님이 자초한 일이니까, 조심하세요.",
+        "en": "[Seiyu]\nYou can speak to <NAVI>[Harad]<INFO>ba_maison,238,44,0,101,0</INFO></NAVI> next to me to enter the Suspended Garden.\nIt may be dangerous once you go in, but since this is something you brought upon yourself, be careful.",
+        "pt": "[Seiyu]\nFale com <NAVI>[Harad]<INFO>ba_maison,238,44,0,101,0</INFO></NAVI> ao lado para entrar no Jardim Suspenso.\nPode ser perigoso lá dentro, mas foi você quem escolheu isso, então tenha cuidado.",
+        "es": "[Seiyu]\nHabla con <NAVI>[Harad]<INFO>ba_maison,238,44,0,101,0</INFO></NAVI> que está a un lado, y podrás entrar al Jardín Suspendido.\nPuede ser peligroso una vez dentro, pero como es algo que tú mismo provocaste, ten cuidado."
     },
     "efTRBw": {
-        "en": "[Rage]\nI think that robot can't really hide what it thinks.",
-        "pt": "[Sayhue]\nFale com <NAVI>[Harad]<INFO>ba_maison,238,44,0,101,0</INFO></NAVI> ao meu lado para entrar no Jardim Flutuante.\nDeve ser perigoso lá dentro, mas você pediu. Tenha cuidado.",
-        "es": "[Rage]\nCreo que ese robot no puede ocultar lo que piensa."
+        "ko": "[레이지]\n속마음이 들락날락하는 것 같은데, 저 자동인형…….",
+        "en": "[Leizi]\nIt feels like I can hear its inner thoughts coming and going, that automaton…….",
+        "pt": "[Leizi]\nParece que os verdadeiros pensamentos daquela boneca automática ficam indo e vindo…",
+        "es": "[Leizi]\nParece como si sus verdaderos sentimientos entraran y salieran, esa autómata……."
     },
     "evTRBw": {
-        "en": "[Eliumina]\nWell, what do you expect of a robot? And I don't mind that, anyway.",
-        "pt": "[Fúria]\nAcho que aquele robô não consegue esconder o que acha.",
-        "es": "[Eliumina]\nBueno, ¿qué esperas de un robot? Y de todos modos no me importa."
+        "ko": "[엘류미나]\n자동인형은 그래도 괜찮아.",
+        "en": "[Eliumina]\nThe automaton is still fine, though.",
+        "pt": "[Eliumina]\nMesmo assim, uma boneca automática está bem.",
+        "es": "[Eliumina]\nAun así, la autómata está bien."
     },
     "e/TRBw": {
-        "en": "[Sayhue]\nThen, it's no deal.\nAs I said earlier, I acknowledge that my duty is to eliminate that intruder.",
-        "pt": "[Elyumina]\nBom, o que você espera de um robô? E eu não me importo com isso, de qualquer forma.",
-        "es": "[Sayhue]\nEntonces, no hay trato.\nComo dije antes, reconozco que mi deber es eliminar a ese intruso."
+        "ko": "[세이휴]\n그럼 거래는 없습니다.\n아까부터 말했듯이, 저는 그 침입자를 배제해야 하는 의무를 느낍니다.",
+        "en": "[Seiyu]\nThen there will be no deal.\nAs I said earlier, I feel it is my duty to eliminate that intruder.",
+        "pt": "[Seiyu]\nEntão não há acordo.\nComo já disse, sinto o dever de excluir aquele intruso.",
+        "es": "[Seiyu]\nEntonces no habrá trato.\nComo dije hace un momento, siento la obligación de excluir a ese intruso."
     },
     "fPTRBw": {
-        "en": "[Rookie]\nYou're back safe and sound!\nWhat a relief, adventurer!",
-        "pt": "[Sayhue]\nEntão, nada feito.\nComo eu disse antes, eu reconheço que meu dever é eliminar aquele intruso.",
-        "es": "[Principiante]\n¡Has vuelto sano y salvo!\n¡Qué alivio, trotamundos!"
+        "ko": "[루키]\n무사히 다녀오셨군요.\n다행입니다, 모험가님!",
+        "en": "[Rookie]\nYou made it back safely.\nWhat a relief, Adventurer!",
+        "pt": "[Rookie]\nVocê voltou em segurança.\nQue alívio, Aventureiro!",
+        "es": "[Rookie]\nHas regresado sano y salvo.\n¡Qué alivio, aventurero!"
     },
     "ffTRBw": {
-        "en": "[Rage]\nNow that we have Silva Papilia Leaves, it's time to make the antidote.",
-        "pt": "[Novato]\nVocê voltou em segurança!\nQue alívio, viajante!",
-        "es": "[Rage]\nAhora que tenemos Hojas de Silva papilia, es hora de preparar el antídoto."
+        "ko": "[레이지]\n실바 파필리아의 잎이 있으니, 이제 해독제를 부탁하러 가야겠군.",
+        "en": "[Leizi]\nNow that we have Silva Papilia leaves, we should go ask for the antidote.",
+        "pt": "[Leizi]\nJá que temos as folhas de Papilia Violeta, vamos pedir que prepare o antídoto.",
+        "es": "[Leizi]\nComo tenemos hojas de Silva Papilia, ahora habrá que ir a pedir el antídoto."
     },
     "fvTRBw": {
-        "en": "[Sayhue]\nI can make the antidote.\nA Silva Papilia Leave itself is an antidote for various symptoms, so all I have to do is change its form so that guests can digest it easily.",
-        "pt": "[Fúria]\nAgora que conseguimos Folhas de Silva Papilia, é hora de fazer o antídoto.",
-        "es": "[Sayhue]\nPuedo hacer el antídoto.\nUna Hoja de Silva papilia es en sí misma un antídoto para varios síntomas, así que todo lo que tengo que hacer es cambiar su forma para que los huéspedes puedan digerirla fácilmente."
+        "ko": "[세이휴]\n해독제는 제가 만들 수 있습니다.\n애초에 실바 파필리아의 잎사귀 자체가 여러 증상의 해독제라서, 손님들이 먹기 좋게 제형을 바꾸기만 하면 됩니다.",
+        "en": "[Seiyu]\nI can make the antidote.\nTo begin with, Silva Papilia leaves themselves are an antidote for various symptoms, so I only need to change the formulation so customers can take it more easily.",
+        "pt": "[Seiyu]\nPosso preparar o antídoto.\nNa verdade, as folhas de Papilia Violeta já são um antídoto para diversos sintomas; basta ajustar a forma para que os visitantes possam consumi-las.",
+        "es": "[Seiyu]\nYo puedo preparar el antídoto.\nDesde el principio, las hojas de Silva Papilia en sí son un antídoto para varios síntomas, así que solo hay que cambiar la forma para que a los clientes les sea más fácil tomarlo."
     },
     "f/TRBw": {
-        "en": "[Rookie]\nCould you make it for us?",
-        "pt": "[Sayhue]\nPosso fazer o antídoto.\nUma Folha de Silva Papilia por si só é um antídoto para vários sintomas, então tudo que preciso fazer é mudar a forma dela para que convidados possam digeri-la com facilidade.",
-        "es": "[Principiante]\n¿Podrías prepararlo para nosotros?"
+        "ko": "[루키]\n그러면… 부탁해도 될까?",
+        "en": "[Rookie]\nThen... could I ask you?",
+        "pt": "[Rookie]\nEntão… podemos contar com você?",
+        "es": "[Rookie]\nEntonces… ¿podría pedírtelo?"
     },
     "gPTRBw": {
-        "en": "[Sayhue]\nAlright. Give me the Silva Papilia Leaves.",
-        "pt": "[Novato]\nPode fazer isso para a gente?",
-        "es": "[Sayhue]\nDe acuerdo. Dame las Hojas de Silva papilia."
+        "ko": "[세이휴]\n좋습니다. 주시죠, 실바 파필리아의 잎사귀.",
+        "en": "[Seiyu]\nVery well. Please give me the Silva Papilia leaves.",
+        "pt": "[Seiyu]\nMuito bem. Entregue-me as folhas de Papilia Violeta.",
+        "es": "[Seiyu]\nDe acuerdo. Dámelas, las hojas de Silva Papilia."
     },
     "gfTRBw": {
-        "en": "Here.",
-        "pt": "[Sayhue]\nCerto. Me dê as Folhas de Silva Papilia.",
-        "es": "Toma."
+        "ko": "실바 파필리아의 잎을 건넨다.",
+        "en": "Hand over the Silva Papilia leaves.",
+        "pt": "Entregar as folhas de Papilia Violeta.",
+        "es": "Entregas las hojas de Silva Papilia."
     },
     "gvTRBw": {
-        "en": "[Sayhue]\n...................\n...................",
-        "pt": "Aqui está.",
-        "es": "[Sayhue]\n…\n…"
+        "ko": "[세이휴]\n……………….\n……………….",
+        "en": "[Seiyu]\n……………….\n……………….",
+        "pt": "[Seiyu]\n……………….\n……………….",
+        "es": "[Seiyu]\n……………….\n………………."
     },
     "g/TRBw": {
-        "en": "[Sayhue]\n...................\n...................\n...................",
-        "pt": "[Sayhue]\n¡¦¡¦¡¦¡¦¡¦¡¦.\n¡¦¡¦¡¦¡¦¡¦¡¦.",
-        "es": "[Sayhue]\n…\n…\n…"
+        "ko": "[세이휴]\n……………….\n……………….\n……………….",
+        "en": "[Seiyu]\n……………….\n……………….\n……………….",
+        "pt": "[Seiyu]\n……………….\n……………….\n……………….",
+        "es": "[Seiyu]\n……………….\n……………….\n………………."
     },
     "hPTRBw": {
-        "en": "[Eliumina]\nOoh, it's soo good to watch a robot made by another person operate.\nI want to study and analyze them... Once this dizziness goes away, I'll...",
-        "pt": "[Sayhue]\n¡¦¡¦¡¦¡¦¡¦¡¦.\n¡¦¡¦¡¦¡¦¡¦¡¦.\n¡¦¡¦¡¦¡¦¡¦¡¦.",
-        "es": "[Eliumina]\nOh, es gratificante ver funcionar a un robot hecho por otra persona.\nQuiero estudiarlos y analizarlos… Una vez que este mareo desaparezca, yo…"
+        "ko": "[엘류미나]\n남이 만든 똑똑한 자동인형 보는 거, 너무 좋다.\n나도 연구하고 분석하고 싶어… 어서 이 어지럼증만 가시면….",
+        "en": "[Eliumina]\nWatching a smart automaton someone else made is so nice.\nI want to research and analyze it too... if only this dizziness would go away….",
+        "pt": "[Eliumina]\nVer uma boneca automática inteligente feita por outra pessoa é maravilhoso.\nQuero pesquisar e analisar também… assim que essa tontura passar…",
+        "es": "[Eliumina]\nMe encanta ver una autómata inteligente hecha por otra persona.\nYo también quiero investigarla y analizarla… si tan solo se me pasara este mareo…."
     },
     "hfTRBw": {
-        "en": "[Sayhue]\nYour compliment does not make me happy.\n...Here's the antidote.",
-        "pt": "[Elyumina]\nAah, é tão bom ver um robô feito por outra pessoa operando.\nQueria ficar só estudando e analisando eles... Quando essa tontura passar, eu vou...",
-        "es": "[Sayhue]\nTu cumplido no me hace feliz.\n…Aquí está el antídoto."
+        "ko": "[세이휴]\n칭찬하셔도 안 기쁩니다.\n……여기, 해독제입니다.",
+        "en": "[Seiyu]\nYour praise does not make me happy.\n...Here, this is the antidote.",
+        "pt": "[Seiyu]\nElogios não me trazem alegria.\n……Aqui está o antídoto.",
+        "es": "[Seiyu]\nAunque me elogies, no me alegra.\n……Aquí tienes, el antídoto."
     },
     "hvTRBw": {
-        "en": "Thanks.",
-        "pt": "[Sayhue]\nSeus elogios não me deixam feliz.\n... Aqui está o antídoto.",
-        "es": "Gracias."
+        "ko": "해독제를 받는다.",
+        "en": "Receive the antidote.",
+        "pt": "Receber o antídoto.",
+        "es": "Recibes el antídoto."
     },
     "h/TRBw": {
-        "en": "[Sayhue]\nI will tell you about the promised help after you're done with this.\nI trust you to keep your words.",
-        "pt": "Agradeço.",
-        "es": "[Sayhue]\nTe hablaré de la ayuda prometida cuando termines con esto.\nConfío en que cumplas tu palabra."
+        "ko": "[세이휴]\n그럼, 약속한 도움은 지금 하시는 일이 끝난 뒤에 부탁드리겠습니다.\n약속은 꼭 지켜 주시리라 믿습니다.",
+        "en": "[Seiyu]\nThen, I will ask for the help you promised after you finish what you are doing now.\nI trust you will keep your promise.",
+        "pt": "[Seiyu]\nQuanto à ajuda prometida, pedirei após concluir o que está fazendo agora.\nConfio que cumprirá sua palavra.",
+        "es": "[Seiyu]\nEntonces, te pediré la ayuda prometida después de que termines lo que estás haciendo ahora.\nConfío en que cumplirás tu promesa."
     },
     "iPTRBw": {
-        "en": "[Rookie]\nPlease give the antidote to <NAVI>[Mina]<INFO>ba_maison,234,51,0,101,0</INFO></NAVI>.",
-        "pt": "[Sayhue]\nVou te contar sobre a ajuda prometida quando você terminar isso.\nConfio que você vai manter sua palavra.",
-        "es": "[Principiante]\nDale el antídoto a <NAVI>[Mina]<INFO>ba_maison,234,51,0,101,0</INFO></NAVI>."
+        "ko": "[루키]\n해독제는 직접 <NAVI>[미나]<INFO>ba_maison,234,51,0,101,0</INFO></NAVI>에게 전해주세요.",
+        "en": "[Rookie]\nPlease deliver the antidote directly to <NAVI>[Mina]<INFO>ba_maison,234,51,0,101,0</INFO></NAVI>.",
+        "pt": "[Rookie]\nEntregue o antídoto diretamente à <NAVI>[Mina]<INFO>ba_maison,234,51,0,101,0</INFO></NAVI>.",
+        "es": "[Rookie]\nEntrega el antídoto directamente a <NAVI>[Mina]<INFO>ba_maison,234,51,0,101,0</INFO></NAVI>."
     },
     "ifTRBw": {
-        "en": "[Sayhue]\nWelcome, guest.\nAre you here to keep your word? I have another job to ask of you today.",
-        "pt": "[Novato]\nDê o antídoto para <NAVI>[Mina]<INFO>ba_maison,234,51,0,101,0</INFO></NAVI>.",
-        "es": "[Sayhue]\nBienvenido, invitado.\n¿Estás aquí para mantener tu palabra? Tengo otro trabajo que pedirte hoy."
+        "ko": "[세이휴]\n어서 오십시오, 손님.\n약속을 지키러 오셨나요? 오늘도 부탁드릴 일이 좀 있습니다.",
+        "en": "[Seiyu]\nWelcome, customer.\nHave you come to keep your promise? I have something else to ask of you today as well.",
+        "pt": "[Seiyu]\nBem-vindo, visitante.\nVeio cumprir sua promessa? Tenho mais um pedido para hoje.",
+        "es": "[Seiyu]\nBienvenido, cliente.\n¿Has venido a cumplir tu promesa? Hoy también tengo algo que pedirte."
     },
     "ivTRBw": {
-        "en": "Hunt Silva Papilias",
-        "pt": "[Sayhue]\nBoas-vindas, convidado.\nEstá aqui para manter sua palavra? Tenho outra tarefa para você hoje.",
-        "es": "Cazar Silva papilias."
+        "ko": "실바 파필리아 사냥",
+        "en": "Hunt Silva Papilia",
+        "pt": "Caçar Papilia Violeta",
+        "es": "Cazar Silva Papilia"
     },
     "i/TRBw": {
-        "en": "Hunt Grand Papilias",
-        "pt": "Cace Silva Papilias",
-        "es": "Cazar Grand papilias."
+        "ko": "그랑 파필리아 사냥",
+        "en": "Hunt Gran Papilia",
+        "pt": "Caçar Papilia Rubra",
+        "es": "Cazar Gran papilia"
     },
     "jPTRBw": {
-        "en": "Gardeners' Whereabouts",
-        "pt": "Cace Gran Papilias",
-        "es": "Paradero de los jardineros."
+        "ko": "정원사의 행방",
+        "en": "Whereabouts of Gardener",
+        "pt": "Paradeiro de Jardineiro",
+        "es": "El paradero de Jardinero"
     },
     "jfTRBw": {
-        "en": "I can't help you.",
-        "pt": "Paradeiro dos Jardineiros",
-        "es": "No puedo ayudarte."
+        "ko": "[세이휴]\n좀 쉬어야 합니다. 아, 손님도 쉬셔야겠지만 수상정원도 말입니다.\n정원사들이 정한 식물 배양 계획이 있으니 오늘 일은 여기까지입니다.",
+        "en": "[Seiyu]\nYou should get some rest. Ah, and you should rest as well, but so should the Suspended Garden.\nThe gardeners have a plant cultivation plan in place, so that will be all for today.",
+        "pt": "[Seiyu]\nPrecisamos descansar. Ah, você também deve descansar, visitante, mas o Jardim Suspenso também.\nHá um plano de cultivo definido pelos jardineiros, então o trabalho de hoje termina aqui.",
+        "es": "[Seiyu]\nDebo descansar un poco. Ah, aunque usted también debería descansar, Jardín Suspendido también.\nHay un plan de cultivo de plantas establecido por los jardineros, así que el trabajo de hoy termina aquí."
     },
     "jvTRBw": {
-        "en": "[Sayhue]\nBoth you and the Floating Garden need a break.\nWe have to follow the plant cultivation plan the gardeners made, so we're done for today.",
-        "pt": "Não posso te ajudar.",
-        "es": "[Sayhue]\nTanto tú como el Jardín flotante necesitan un descanso.\nTenemos que seguir el plan de cultivo de plantas que hicieron los jardineros, así que hemos terminado por hoy."
+        "ko": "[세이휴]\n푹 쉬시고 새벽이 지나면 찾아와 주십시오.\n그때 다시 기쁘게 일을 부탁드리겠습니다.",
+        "en": "[Seiyu]\nGet plenty of rest, and please come back after dawn has passed.\nThen, I will gladly ask for your help again.",
+        "pt": "[Seiyu]\nDescanse bem e volte após o amanhecer.\nEntão pedirei ajuda novamente com satisfação.",
+        "es": "[Seiyu]\nDescanse bien y, cuando pase el amanecer, venga a verme.\nEntonces volveré a pedirle el trabajo con gusto."
     },
     "j/TRBw": {
-        "en": "[Sayhue]\nRest up, and please come back after dawn.\nI will gladly ask you a favor then.",
-        "pt": "[Sayhue]\nVocê e o Jardim Flutuante precisam de uma pausa.\nTemos que seguir o plano de cultivo de plantas que os jardineiros fizeram, então encerramos por hoje.",
-        "es": "[Sayhue]\nDescansa y vuelve después del amanecer.\nAhí con mucho gusto te pediré un favor."
+        "ko": "[세이휴]\n침입자들의 방해를 받아, 지금은 실바 파필리아를 저희 정원사들만으로는 다룰 수가 없습니다.",
+        "en": "[Seiyu]\nWith the intruders interfering, we gardeners alone cannot handle Silva Papilia right now.",
+        "pt": "[Seiyu]\nDevido à interferência dos intrusos, atualmente nós, jardineiros, não conseguimos lidar sozinhos com Papilia Violeta.",
+        "es": "[Seiyu]\nPor la interferencia de los intrusos, ahora mismo nosotros, los jardineros, no podemos encargarnos de Silva Papilia por nuestra cuenta."
     },
     "kPTRBw": {
-        "en": "[Sayhue]\nDue to the disturbance caused by the intruders, our gardeners can't deal with Silva Papilias now.",
-        "pt": "[Sayhue]\nDescanse e volte depois do amanhecer.\nEntão, terei prazer em lhe pedir um favor.",
-        "es": "[Sayhue]\nDebido a las molestias causadas por los intrusos, nuestros jardineros no pueden ocuparse ahora de las Silva papilias."
+        "ko": "[세이휴]\n수상정원에 들어가셔서 ^0000CD실바 파필리아^000000가 나타나면 ^0000CD한 개체^000000, 사냥하여 확보해 주실 수 있을까요?",
+        "en": "[Seiyu]\nCould you enter the Suspended Garden and, when ^0000CDSilva Papilia^000000 appears, hunt and secure ^0000CDone specimen^000000 for us?",
+        "pt": "[Seiyu]\nAo entrar no Jardim Suspenso, quando ^0000CDPapilia Violeta^000000 aparecer, poderia derrotar e garantir ^0000CDuma unidade^000000?",
+        "es": "[Seiyu]\n¿Podría entrar en Jardín Suspendido y, cuando aparezca ^0000CDSilva Papilia^000000, cazar y asegurar ^0000CDun ejemplar^000000?"
     },
     "kfTRBw": {
-        "en": "[Sayhue]\nCould you go into the Floating Garden and secure ^0000CD1 Silver Papilia^000000?",
-        "pt": "[Sayhue]\nDevido à perturbação causada pelos intrusos, nossos jardineiros não podem lidar com as Silva Papilias agora.",
-        "es": "[Sayhue]\n¿Podrías entrar en el Jardín flotante y conseguir ^9900991Silva papilia^000000?"
+        "ko": "[알림]\n - 인벤토리에 여유공간이 없거나 동일한 아이템을 한계치에 가깝게 소지하고 있습니다. 정리 후 다시 말을 걸어 주세요. -",
+        "en": "[Notice]\n - There is not enough space in your inventory, or you are carrying the same item close to its limit. Please organize your inventory and speak to me again. -",
+        "pt": "[Aviso]\n - Não há espaço disponível no inventário ou você está próximo do limite para o mesmo item. Organize e fale novamente. -",
+        "es": "[Aviso]\n - No tiene espacio libre en el inventario o lleva el mismo objeto cerca del límite máximo. Ordénelo y vuelva a hablar conmigo. -"
     },
     "kvTRBw": {
-        "en": "[Notice]\n- Your bag is full. Please check your weight and carrying item quantity, and then talk to me again. -",
-        "pt": "[Sayhue]\nPode ir até o Jardim Flutuante e obter ^9370DB1 Silva Papilia^000000?",
-        "es": "[Aviso]\n-Tu bolsa está llena. Por favor, comprueba tu peso y la cantidad de artículos que llevas, y luego vuelve a hablar conmigo.-"
+        "ko": "[세이휴]\n실바 파필리아를 확보해 주셨군요. 안의 정원사들에게서 확인했습니다.",
+        "en": "[Seiyu]\nSo you have secured Silva Papilia. I confirmed it with the gardeners inside.",
+        "pt": "[Seiyu]\nVocê garantiu Papilia Violeta. Confirmei com os jardineiros lá dentro.",
+        "es": "[Seiyu]\nAsí que ha asegurado Silva Papilia. Lo confirmé con los jardineros de dentro."
     },
     "k/TRBw": {
-        "en": "[Sayhue]\nYou have secured a Silva Papilia. The gardeners inside sent me the message.",
-        "pt": "[Aviso]\n- Sua bolsa está lotada. Verifique o seu peso e a quantidade de itens que você está carregando e fale comigo depois. -",
-        "es": "[Sayhue]\nHas conseguido una Silva papilia. Los jardineros en el interior me enviaron el mensaje."
+        "ko": "[세이휴]\n정원사들의 일손을 덜어 주셔서 감사합니다.\n시간이 나시면 다음에도 도와주시기를 부탁드립니다.",
+        "en": "[Seiyu]\nThank you for easing the gardeners' workload.\nIf you have time, I ask that you help again next time.",
+        "pt": "[Seiyu]\nObrigado por aliviar o trabalho dos jardineiros.\nSe tiver tempo, peço que ajude novamente.",
+        "es": "[Seiyu]\nGracias por aligerar el trabajo de los jardineros.\nSi tiene tiempo, le ruego que nos ayude también la próxima vez."
     },
     "lPTRBw": {
-        "en": "[Sayhue]\nThank you for helping our gardeners.\nPlease help us again when you have time.",
-        "pt": "[Sayhue]\nVocê obteve uma Silva Papilia. Os jardineiros lá dentro me enviaram a mensagem.",
-        "es": "[Sayhue]\nGracias por ayudar a nuestros jardineros.\nAyúdanos de nuevo cuando tengas tiempo."
+        "ko": "[세이휴]\n일손을 보태 주신 보답으로 식권을 약간 드리겠습니다. 식당에서 자유롭게 이용하실 수 있습니다.",
+        "en": "[Seiyu]\nAs thanks for lending a hand, I will give you a few meal vouchers. You may use them freely at the cafeteria.",
+        "pt": "[Seiyu]\nComo recompensa por ajudar, darei alguns vales-refeição. Pode usá-los livremente no refeitório.",
+        "es": "[Seiyu]\nComo recompensa por echarnos una mano, le daré unos vales de comida. Puede usarlos libremente en el comedor."
     },
     "lfTRBw": {
-        "en": "[Sayhue]\nHere are some meal tickets for your help. You can use them in the dining area.",
-        "pt": "[Sayhue]\nAgradeço por ajudar nossos jardineiros.\nAjude-nos novamente quando você tiver tempo.",
-        "es": "[Sayhue]\nAquí tienes algunos vales de comida por tu ayuda. Puedes utilizarlos en el comedor."
+        "ko": "[세이휴]\n이미 만나셨겠지만, 수상정원 가장 깊은 곳에는 실바 파필리아라는 식물이 살고 있습니다.\n수많은 나비를 조종할 줄 아는 매우 지혜롭고 예민한 식물입니다.",
+        "en": "[Seiyu]\nYou may have already encountered it, but in the deepest part of the Suspended Garden, there lives a plant called Silva Papilia.\nIt is a very wise and sensitive plant that can control countless butterflies.",
+        "pt": "[Seiyu]\nComo talvez já tenha visto, nas partes mais profundas do Jardim Suspenso vive uma planta chamada Silva Papilia.\nÉ uma planta muito sábia e sensível, capaz de controlar inúmeras borboletas.",
+        "es": "[Seiyu]\nQuizá ya lo haya visto, pero en lo más profundo de Jardín Suspendido vive una planta llamada silva papilia.\nEs una planta muy sabia y sensible, capaz de controlar innumerables mariposas."
     },
     "lvTRBw": {
-        "en": "[Sayhue]\nI'm sure you've already encountered it, but there is a plant called Silva Papilia at the deepest part of the Floating Garden.\nIt is a very intelligent and edgy plant that can control numerous butterflies.",
-        "pt": "[Sayhue]\nAqui estão alguns bilhetes de comida como pagamento. Você pode utilizá-los na sala de jantar.",
-        "es": "[Sayhue]\nSeguro que ya te la has encontrado, pero hay una planta llamada Silva papilia en la parte más profunda del Jardín flotante.\nEs una planta muy inteligente y temeraria que puede controlar un gran número de mariposas."
+        "ko": "[세이휴]\n침입자들의 방해를 받아 인원이 적어져서, 지금은 그 까다로운 식물을 저희 정원사들만으로는 다룰 수가 없습니다.",
+        "en": "[Seiyu]\nWith the intruders interfering and our numbers reduced, we gardeners alone cannot handle that finicky plant right now.",
+        "pt": "[Seiyu]\nCom a interferência dos intrusos, nosso número diminuiu, e agora não conseguimos lidar sozinhos com essa planta exigente.",
+        "es": "[Seiyu]\nPor la interferencia de los intrusos, hemos quedado con menos personal, y ahora mismo nosotros, los jardineros, no podemos encargarnos de esa planta tan exigente por nuestra cuenta."
     },
     "l/TRBw": {
-        "en": "[Sayhue]\nAs our number dwindled due to the disturbance caused by the intruders, our gardeners are unable to deal with that problematic plant right now.",
-        "pt": "[Sayhue]\nTenho certeza de que você já viu, mas tem uma planta chamada Silva Papilia na parte mais profunda do Jardim Flutuante.\nÉ uma planta muito inteligente que consegue controlar um número de borboletas.",
-        "es": "[Sayhue]\nComo nuestro número ha disminuido debido a las molestias causadas por los intrusos, nuestros jardineros no pueden ocuparse de esa planta problemática en este momento."
-    },
-    "mPTRBw": {
-        "en": "[Sayhue]\nCould you go into the Floating Garden and secure ^0000CD1 Silva Papilia^000000?",
-        "pt": "[Sayhue]\nComo os nossos números continuam diminuindo por causa dos invasores, nossos jardineiros não conseguem lidar com a planta problemática no momento.",
-        "es": "[Sayhue]\n¿Podrías entrar en el Jardín flotante y conseguir ^9900991Silva papilia^000000?"
-    },
-    "mfTRBw": {
-        "en": "I'll help you.",
-        "pt": "Ajudarei você.",
+        "ko": "도움을 주겠다.",
+        "en": "I'll help.",
+        "pt": "Ajudarei.",
         "es": "Te ayudaré."
     },
+    "mPTRBw": {
+        "ko": "도움을 주지 않겠다.",
+        "en": "I won't help.",
+        "pt": "Não ajudarei.",
+        "es": "No te ayudaré."
+    },
+    "mfTRBw": {
+        "ko": "[세이휴]\n감사합니다. 사냥해 두시면 그 뒤는 정원사들이 해결할 수 있습니다.\n수상정원까지는 <NAVI>[하라드]<INFO>ba_maison,238,44,0,101,0</INFO></NAVI>의 안내를 받아 가시면 됩니다.",
+        "en": "[Seiyu]\nThank you. If you hunt it down, the gardeners can take care of the rest.\nTo reach the Suspended Garden, you can go with guidance from <NAVI>[Harad]<INFO>ba_maison,238,44,0,101,0</INFO></NAVI>.",
+        "pt": "[Seiyu]\nObrigado. Se a derrotar, os jardineiros cuidarão do restante.\nPara chegar ao Jardim Suspenso, siga a orientação de <NAVI>[Harad]<INFO>ba_maison,238,44,0,101,0</INFO></NAVI>.",
+        "es": "[Seiyu]\nGracias. Si la caza, después los jardineros podremos encargarnos.\nPara llegar hasta Jardín Suspendido, puede ir con la guía de <NAVI>[Harad]<INFO>ba_maison,238,44,0,101,0</INFO></NAVI>."
+    },
     "mvTRBw": {
-        "en": "Sorry.",
-        "pt": "Desculpe.",
-        "es": "Lo siento."
+        "ko": "[세이휴]\n잠시 사정이 있으신가요? 일손을 도와주시는 일은 언제든 좋습니다.\n저는 이 자리에 있을 테니, 여유가 나시면 불러주세요.",
+        "en": "[Seiyu]\nDo you have something to attend to for the moment? Any time you can lend a hand is fine.\nI will be here, so please call on me when you have some time.",
+        "pt": "[Seiyu]\nEstá com alguma dificuldade no momento? A ajuda é sempre bem-vinda.\nEstarei aqui, então chame-me quando puder.",
+        "es": "[Seiyu]\n¿Tiene algún inconveniente por el momento? Cualquier momento es bueno para ayudarnos con la mano de obra.\nYo estaré aquí, así que llámeme cuando tenga un rato."
     },
     "m/TRBw": {
-        "en": "[Sayhue]\nThank you. Hunt it, and the gardeners will take care of the rest.\n<NAVI>[Harad]<INFO>ba_maison,238,44,0,101,0</INFO></NAVI> will take you to the Floating Garden.",
-        "pt": "[Sayhue]\nAgradeço. Cace as plantas e os jardineiros cuidarão do resto.\n<NAVI>[Harad]<INFO>ba_maison,238,44,0,101,0</INFO></NAVI> vai levar você até o Jardim Flutuante.",
-        "es": "[Sayhue]\nGracias. Cázala y los jardineros se encargarán del resto.\n<NAVI>[Harad]<INFO>ba_maison,238,44,0,101,0</INFO></NAVI> te llevará al Jardín flotante."
+        "ko": "[세이휴]\n이 부탁을 지금 드리기에는, 손님께서 위험해지실까봐 마음에 걸립니다.",
+        "en": "[Seiyu]\nI hesitate to ask you for this right now, because I worry you may be put in danger.",
+        "pt": "[Seiyu]\nSinto receio de fazer esse pedido agora, pois pode colocá-lo em perigo.",
+        "es": "[Seiyu]\nMe preocupa pedirle esto ahora, por si usted corre peligro."
     },
     "nPTRBw": {
-        "en": "[Sayhue]\nDo you have other businesses to take care of? I'm always happy for extra help.\nI'll be here. Call me when you have time.",
-        "pt": "[Sayhue]\nVocê tem outros assuntos para tratar? Qualquer ajuda extra é bem-vinda.\nEstarei aqui. Quando tiver um tempo, fale comigo.",
-        "es": "[Sayhue]\n¿Tienes otros asuntos de los que ocuparte? Siempre me alegra recibir una ayuda extra.\nEstaré aquí. Llámame cuando tengas tiempo."
+        "ko": "[세이휴]\n아무래도 수상정원 안쪽은 지금 여러 모로 험하니 말입니다.\n좀더 수상정원에 익숙해지신 뒤에 부탁드리고 싶습니다.",
+        "en": "[Seiyu]\nAfter all, the inside of the Suspended Garden is quite perilous in many ways right now.\nI would like to ask after you have become more familiar with the Suspended Garden.",
+        "pt": "[Seiyu]\nNo momento, o interior do Jardim Suspenso está particularmente perigoso.\nPrefiro pedir após estar mais familiarizado com o Jardim Suspenso.",
+        "es": "[Seiyu]\nDespués de todo, el interior de Jardín Suspendido está bastante peligroso en muchos sentidos.\nQuisiera pedírselo después de que se familiarice un poco más con Jardín Suspendido."
     },
     "nfTRBw": {
-        "en": "[Sayhue]\nI'm afraid I can't ask you to do this due to the risk factor.",
-        "pt": "[Sayhue]\nReceio que não posso pedir para você fazer isso, é muito arriscado.",
-        "es": "[Sayhue]\nMe temo que no puedo pedirte que lo hagas debido al factor de riesgo."
+        "ko": "- 180레벨 이상 수행 가능한 퀘스트입니다 -",
+        "en": "- This quest can be undertaken at level 180 or higher -",
+        "pt": "- Missão disponível para nível 180 ou superior -",
+        "es": "- Es una misión que puede realizarse a partir del nivel 180 -"
     },
     "nvTRBw": {
-        "en": "[Sayhue]\nThe deeper part of the Floating Garden is dangerous right now.\nI will ask you once you get more accustomed to the Floating Garden.",
-        "pt": "[Sayhue]\nA parte mais profunda do Jardim Flutuante está perigosa agora.\nVou pedir quando você se acostumar mais com o Jardim Flutuante.",
-        "es": "[Sayhue]\nLa parte más profunda del Jardín flotante es peligrosa en este momento.\nTe lo preguntaré cuando te hayas acostumbrado al Jardín flotante."
+        "ko": "[세이휴]\n침입자들이 나타난 후, 그 까다로운 식물은 억지로 불러내야 겨우 모습을 드러내게 되었습니다.",
+        "en": "[Seiyu]\nAfter the intruders appeared, that finicky plant would only show itself when we forced it out.",
+        "pt": "[Seiyu]\nApós o surgimento dos intrusos, essa planta exigente só passou a aparecer quando forçada a emergir.",
+        "es": "[Seiyu]\nDespués de que aparecieron los intrusos, esa planta tan exigente solo ha mostrado su forma cuando la obligamos a salir."
     },
     "n/TRBw": {
-        "en": "- This quest requires at least Level 180. -",
-        "pt": "- Esta missão requer pelo menos nível 180. -",
-        "es": "-Esta búsqueda requiere al menos el nivel 180.-"
+        "ko": "[세이휴]\n수상정원에 들어가셔서 ^0000CD그랑 파필리아^000000 가 나타나면 ^0000CD한 개체^000000, 사냥하여 확보해 주실 수 있을까요?",
+        "en": "[Seiyu]\nCould you enter the Suspended Garden and, when ^0000CDGran Papilia^000000 appears, hunt and secure ^0000CDone specimen^000000 for us?",
+        "pt": "[Seiyu]\nAo entrar no Jardim Suspenso, quando ^0000CDPapilia Rubra^000000 aparecer, poderia derrotar e garantir ^0000CDuma unidade^000000?",
+        "es": "[Seiyu]\n¿Podría entrar en Jardín Suspendido y, cuando aparezca ^0000CDGran papilia^000000, cazar y asegurar ^0000CDun ejemplar^000000?"
     },
     "oPTRBw": {
-        "en": "[Sayhue]\nSince the intruders started to show up, the problematic plant does not show itself unless we call it by force.",
-        "pt": "[Sayhue]\nDesde que os intrusos começaram a surgir, a planta problemática não aparece a menos que seja à força.",
-        "es": "[Sayhue]\nDesde que empezaron a aparecer los intrusos, la planta problemática no se deja ver a menos que la llamemos a la fuerza."
+        "ko": "[세이휴]\n그랑 파필리아를 확보해 주셨군요. 안의 정원사들에게서 확인했습니다.",
+        "en": "[Seiyu]\nSo you have secured Gran Papilia. I confirmed it with the gardeners inside.",
+        "pt": "[Seiyu]\nVocê garantiu Papilia Rubra. Confirmei com os jardineiros lá dentro.",
+        "es": "[Seiyu]\nAsí que has conseguido Gran papilia. Lo confirmé con los jardineros de dentro."
     },
     "ofTRBw": {
-        "en": "[Sayhue]\nCould you go into the Floating Garden and secure ^0000CD1 Grand Papilia^000000?",
-        "pt": "[Sayhue]\nVocê pode ir até o Jardim Flutuante e obter ^9370DB1 Gran Papilia^000000?",
-        "es": "[Sayhue]\n¿Podrías entrar en el Jardín flotante y conseguir ^9900991Grand papilia^000000?"
+        "ko": "[세이휴]\n수상정원 깊은 곳에는 실바 파필리아보다도 더 드물게 나타나는 그랑 파필리아라는 식물이 살고 있습니다.\n더 강하고, 더 지혜롭고, 더 예민하지요.",
+        "en": "[Seiyu]\nDeep within Suspended Garden, there is a plant called Gran Papilia that appears even more rarely than Silva Papilia.\nIt is stronger, wiser, and more sensitive.",
+        "pt": "[Seiyu]\nNas profundezas do Jardim Suspenso vive uma planta chamada Gran Papilia, que aparece ainda mais raramente que Papilia Violeta.\nÉ mais forte, mais sábia e mais sensível.",
+        "es": "[Seiyu]\nEn lo más profundo del Jardín Suspendido vive una planta llamada Gran Papilia, que aparece incluso con más rareza que la Silva Papilia.\nEs más fuerte, más sabia y más sensible."
     },
     "ovTRBw": {
-        "en": "[Sayhue]\nYou have secured a Grand Papilia. The gardeners inside sent me the message confirming that.",
-        "pt": "[Sayhue]\nVocê pegou a Gran Papilia. Os jardineiros lá dentro me enviaram uma mensagem confirmando.",
-        "es": "[Sayhue]\nHas conseguido una Grand papilia. Los jardineros en el interior me enviaron el mensaje confirmándolo."
+        "ko": "[세이휴]\n침입자들이 나타난 후, 그 까다로운 식물은 향기를 피워 억지로 불러내야 겨우 모습을 드러내게 되었습니다.",
+        "en": "[Seiyu]\nAfter the intruders appeared, that finicky plant would only reveal itself when we forced it out by releasing its fragrance.",
+        "pt": "[Seiyu]\nApós o surgimento dos intrusos, essa planta exigente passou a revelar-se apenas quando forçada a emergir por meio de fragrância.",
+        "es": "[Seiyu]\nDespués de que aparecieran los intrusos, esa planta tan exigente solo mostró su figura cuando se la obligó a salir haciendo que liberara su fragancia."
     },
     "o/TRBw": {
-        "en": "[Sayhue]\nDeep in the Floating Garden, there is a plant called Grand Papilia, which is even rarer than Silva Papilia.\nIt's stronger, edgier, and more intelligent.",
-        "pt": "[Sayhue]\nTem uma planta nas profundezas do Jardim Flutuante que se chama Gran Papilia, ainda mais rara do que a Silva Papilia.\nÉ mais forte, mais perigosa e mais inteligente.",
-        "es": "[Sayhue]\nEn las profundidades del Jardín flotante, hay una planta llamada Grand papilia, que es aún más rara que la Silva papilia.\nEs más fuerte, provocadora e inteligente."
+        "ko": "도와주겠다.",
+        "en": "I'll help.",
+        "pt": "Ajudarei.",
+        "es": "Te ayudaré."
     },
     "pPTRBw": {
-        "en": "[Sayhue]\nSince the intruders started to show up, the problematic plant does not show itself unless we call it with a certain scent.",
-        "pt": "[Sayhue]\nDesde que os intrusos começaram a aparecer, a planta problemática não aparece, a menos que seja atraída por um odor em particular.",
-        "es": "[Sayhue]\nDesde que empezaron a aparecer los intrusos, la planta problemática no se deja ver a menos que la llamemos con un olor específico."
+        "ko": "도와주지 않겠다.",
+        "en": "I won't help.",
+        "pt": "Não ajudarei.",
+        "es": "No te ayudaré."
     },
     "pfTRBw": {
-        "en": "[Sayhue]\nRest up, and please come back after dawn.\nI will gladly ask you a favor, then.",
-        "pt": "[Sayhue]\nOs jardineiros são desconectados com mais frequência perto do Jardim do Labirinto.\nVocê pode ir até lá e ver se eles estão bem?",
-        "es": "[Sayhue]\nDescansa y vuelve después del amanecer.\nAhí con mucho gusto te pediré un favor."
+        "ko": "[세이휴]\n정원사들의 연락이 끊기는 지점은 주로 미로 정원 주변이었습니다.\n안에 들어가서 정원사들이 무사히 있는지 찾아봐 주시겠습니까?",
+        "en": "[Seiyu]\nThe point where we most often lost contact with the gardeners was around the maze garden.\nCould you go inside and check whether the gardeners are safe?",
+        "pt": "[Seiyu]\nOs pontos onde o contato com os jardineiros foi interrompido ficam principalmente ao redor do jardim labirinto.\nPoderia entrar e verificar se estão bem?",
+        "es": "[Seiyu]\nLos puntos donde se cortaba el contacto con los jardineros eran, sobre todo, alrededor del jardín laberíntico.\n¿Podrías entrar y buscar si los jardineros están a salvo?"
     },
     "pvTRBw": {
-        "en": "[Sayhue]\nThe gardeners got disconnected near the Maze Garden most often.\nCould you go in there and see if the gardeners are safe?",
-        "pt": "[Sayhue]\nVocê voltou. Como estão os jardineiros?\nRecebi uma mensagem dizendo que estão bem. Acho que só esqueceram de me avisar.",
-        "es": "[Sayhue]\nLos jardineros se desconectan cerca del Jardín del laberinto con más frecuencia.\n¿Podrías entrar y ver si los jardineros están a salvo?"
+        "ko": "[세이휴]\n다녀오셨습니까? 정원사들은 잘 있던가요?\n이쪽에서도 무사하다는 연락을 받았습니다. 단순히 연락을 잊고 있었던 모양입니다.",
+        "en": "[Seiyu]\nYou're back? Were the gardeners doing well?\nWe received word from them as well that they are safe. It seems they simply forgot to check in.",
+        "pt": "[Seiyu]\nRetornou? Os jardineiros estavam bem?\nRecebemos confirmação de que estão seguros. Parece que apenas esqueceram de se comunicar.",
+        "es": "[Seiyu]\n¿Has regresado? ¿Los jardineros estaban bien?\nTambién aquí recibimos aviso de que están a salvo. Parece que simplemente se les olvidó comunicarse."
     },
     "p/TRBw": {
-        "en": "[Sayhue]\nYou're back. How are the gardeners?\nI got a message saying they were safe. I guess they just forgot to notify me.",
-        "pt": "[Sayhue]\nQuantas vezes isso já aconteceu? Talvez eu deva inspecionar cada gerente responsável por essa área.\nOu talvez os intrusos estejam interferindo com o sinal de alguma forma. No momento, acho que não existe outra forma de verificar os números toda a vez.",
-        "es": "[Sayhue]\nVolviste. ¿Cómo están los jardineros?\nRecibí un mensaje que decía que estaban a salvo. Supongo que se olvidaron de notificármelo."
+        "ko": "[세이휴]\n매번 연락을 잊다니 이 구역 담당자들의 전체 점검이라도 들어가야 할 것 같습니다만.\n아니면 침입자들이 뭔가 교란을 하고 있는지도. 일단은, 매번 인원을 확인하는 방법밖에는 없는 듯합니다.",
+        "en": "[Seiyu]\nForgetting to check in every time... We may need to conduct a full inspection of the staff in charge of this area.\nOr perhaps the intruders are causing some kind of interference. For now, it seems the only way is to verify the headcount each time.",
+        "pt": "[Seiyu]\nEsquecer de se comunicar repetidamente… talvez seja necessário uma inspeção geral nos responsáveis desta área.\nOu talvez os intrusos estejam causando alguma interferência. Por ora, parece que só nos resta verificar o pessoal sempre.",
+        "es": "[Seiyu]\nQue se les olvide comunicarse cada vez... Parece que habrá que hacer una inspección completa de los responsables de esta zona.\nO quizá los intrusos estén causando alguna interferencia. Por ahora, parece que no queda más que comprobar el personal cada vez."
     },
     "qPTRBw": {
-        "en": "[Sayhue]\nHow many times is this? Maybe I should inspect every manager in charge of this area.\nOr perhaps the intruders are jamming the signals somehow. Right now, I think there is no other way but to check the number every time.",
-        "pt": "Aqui, pegue isto.",
-        "es": "[Sayhue]\n¿Cuántas veces sucede esto? Tal vez debería inspeccionar a cada administrador a cargo de esta zona.\nO tal vez los intrusos están interfiriendo las señales. Ahora mismo, creo que no hay más remedio que comprobar el número cada vez."
+        "ko": "받은 쿠키를 건넨다.",
+        "en": "Hand over the cookie you received.",
+        "pt": "Entregar o cookie recebido.",
+        "es": "Entrego la galleta que recibí."
     },
     "qfTRBw": {
-        "en": "Here, take this.",
-        "pt": "[Sayhue]\n... Um biscoito?\nEles deram isso para você? Bom, apenas os jardineiros têm isso, então acho que vai bastar.",
-        "es": "Toma esto."
+        "ko": "[세이휴]\n……………쿠키?\n이걸 받아 오신 건가요? 물론 정원사들만 지니고 있는 과자니까 잘 있다는 확인으로 쓸 수는 있겠습니다만.",
+        "en": "[Seiyu]\n...................A cookie?\nYou brought this back? Of course, since it's a snack only the gardeners carry, we can use it as confirmation that they're doing well, but...",
+        "pt": "[Seiyu]\n……………Cookie?\nTrouxe isto? Como é um doce que apenas os jardineiros possuem, pode servir como confirmação de que estão bem.",
+        "es": "[Seiyu]\n……………¿Una galleta?\n¿Has traído esto? Desde luego, como es un dulce que solo llevan los jardineros, puede servir para confirmar que están bien, pero..."
     },
     "qvTRBw": {
-        "en": "[Sayhue]\n......A cookie?\nThey gave you this? Well, only the gardeners have this, so I guess this will suffice.",
-        "pt": "[Sayhue]\nDe qualquer forma, agradeço a ajuda. Pode ficar com o biscoito. Deve estar bom.\nNós o usamos para fornecer substâncias nutritivas para os animais e as plantas do jardim, mas os convidados humanoides também gostam dele.",
-        "es": "[Sayhue]\n…¿Una galleta?\n¿Te dieron esto? Bueno, esto solo lo tienen los jardineros, así que supongo que bastará."
+        "ko": "[세이휴]\n아무튼, 확인해 주셔서 감사합니다. 쿠키는 드세요. 맛있다고 합니다.\n원래 정원의 동식물에게 영양을 공급하는 쿠키입니다만 손님들도 드리면 좋아하시더군요.",
+        "en": "[Seiyu]\nIn any case, thank you for checking. Eat the cookie. I hear it's delicious.\nThey're cookies meant to provide nutrition to the plants and animals in the garden, but guests seem to enjoy them as well.",
+        "pt": "[Seiyu]\nDe qualquer forma, obrigado por verificar. Pode ficar com o cookie. Dizem que é saboroso.\nOriginalmente é um cookie que fornece nutrientes à flora e fauna do jardim, mas os visitantes também parecem gostar.",
+        "es": "[Seiyu]\nEn fin, gracias por comprobarlo. Cómete la galleta. Dicen que está rica.\nOriginalmente es una galleta que aporta nutrientes a la flora y fauna del jardín, pero a los visitantes también les gusta cuando se la damos."
     },
     "q/TRBw": {
-        "en": "[Sayhue]\nAnyway, thank you for checking them. You can have the cookie. It should taste good.\nWe use it to supply nutrient substances to the animals and plants in the garden, but human guests liked it, too.",
-        "pt": "[Sayhue]\nAtualmente, os jardineiros são trocados com frequência devido a intrusos e plantas mutantes.\nAlguns deles vão muito longe no Jardim Flutuante e são desconectados.",
-        "es": "[Sayhue]\nDe todos modos, gracias por revisarlos. Puedes quedarte con la galleta. Debería saber bien.\nLas usamos para dar sustancias nutritivas a los animales y las plantas del jardín, aunque a los huéspedes humanos también les gusta."
+        "ko": "[세이휴]\n최근 침입자들의 방해와 식물들의 변이로 정원사들의 교체가 잦은 편입니다.\n그 와중 수상정원 안에 들어가서 연락이 끊기는 정원사들이 있어요.",
+        "en": "[Seiyu]\nLately, with the intruders' interference and the plants' mutations, the gardeners have been replaced quite often.\nIn the midst of that, there are gardeners who go into Suspended Garden and then we lose contact with them.",
+        "pt": "[Seiyu]\nRecentemente, devido à interferência dos intrusos e à mutação das plantas, a substituição de jardineiros tem sido frequente.\nNesse meio-tempo, há jardineiros que entram no Jardim Suspenso e perdem contato.",
+        "es": "[Seiyu]\nÚltimamente, por las interferencias de los intrusos y las mutaciones de las plantas, los jardineros se reemplazan con frecuencia.\nY, en medio de todo eso, hay jardineros que entran en el Jardín Suspendido y se pierde el contacto con ellos."
     },
     "rPTRBw": {
-        "en": "[Sayhue]\nGardeners are changed frequently these days due to intruders and mutated plants.\nSome of them go deep into the Floating Garden and get disconnected.",
-        "pt": "[Sayhue]\nEssas desconexões ocorrem com mais frequência perto do Jardim do Labirinto. Parece que há um problema lá.",
-        "es": "[Sayhue]\nHoy en día, los jardineros se renuevan con frecuencia debido a los intrusos y las plantas mutantes.\nAlgunos se adentran en el Jardín flotante y se desconectan."
+        "ko": "[세이휴]\n아무래도 미로 정원 쪽에서 무언가 문제가 있는지, 연락이 자주 끊기는 듯하더군요.",
+        "en": "[Seiyu]\nIt seems that something is wrong on the maze garden side, as we lose contact frequently.",
+        "pt": "[Seiyu]\nParece que há algum problema na área do jardim labirinto, pois o contato é frequentemente interrompido.",
+        "es": "[Seiyu]\nSea como sea, parece que por el lado del jardín laberíntico hay algún problema, porque el contacto se corta a menudo."
     },
     "rfTRBw": {
-        "en": "[Sayhue]\nSuch disconnections occur most often near the Maze Garden. It seems there's a problem there.",
-        "pt": "[Sayhue]\nVocê pode ir até lá e ver se eles estão bem? Se for o caso, verifique se há um problema de rede ou se eles simplesmente se esqueceram de se comunicar.",
-        "es": "[Sayhue]\nEstas desconexiones se producen con mayor frecuencia cerca del Jardín del laberinto. Parece que hay un problema allí."
+        "ko": "[세이휴]\n네트워크 문제인지, 아니면 교신을 잊고 있는 것인지, 정원사들이 무사한지 들어가서 확인해 봐 주시겠어요?",
+        "en": "[Seiyu]\nWhether it's a network issue, or they simply forgot to check in, could you go inside and confirm that the gardeners are safe?",
+        "pt": "[Seiyu]\nNão sabemos se é problema de rede ou simples esquecimento de comunicação. Poderia entrar e verificar se os jardineiros estão seguros?",
+        "es": "[Seiyu]\nYa sea un problema de red o que se les olvide comunicarse, ¿podrías entrar y comprobar si los jardineros están a salvo?"
     },
     "rvTRBw": {
-        "en": "[Sayhue]\nCould you go in there and see if the gardeners are safe? If so, please see whether there is a network problem or if they just forgot to communicate.",
-        "pt": "Vou verificar.",
-        "es": "[Sayhue]\n¿Podrías entrar y ver si los jardineros están a salvo? Si es así, comprueba si hay un problema de red o si simplemente olvidaron comunicarse con nosotros."
+        "ko": "가서 찾아보겠다.",
+        "en": "I'll go and look for them.",
+        "pt": "Irei verificar.",
+        "es": "Iré a buscarlos."
     },
     "r/TRBw": {
-        "en": "I'll look into it.",
-        "pt": "Agora não.",
-        "es": "Lo investigaré."
+        "ko": "지금은 거절한다.",
+        "en": "I'll refuse for now.",
+        "pt": "Recuso por agora.",
+        "es": "Por ahora, lo rechazo."
     },
     "sPTRBw": {
-        "en": "Not now.",
-        "pt": "[Sayhue]\nAgradeço. Se eles se esqueceram de enviar sinais para mim, diga a eles para fazerem isso imediatamente.",
-        "es": "Ahora no."
+        "ko": "[세이휴]\n감사합니다. 혹시 연락을 잊고 있다면 연락해달라고 전해주세요.",
+        "en": "[Seiyu]\nThank you. If they simply forgot to check in, please tell them to contact us.",
+        "pt": "[Seiyu]\nObrigado. Se apenas esqueceram de se comunicar, peça que entrem em contato.",
+        "es": "[Seiyu]\nGracias. Si se les ha olvidado comunicarse, diles que se pongan en contacto."
     },
     "sfTRBw": {
-        "en": "[Sayhue]\nThank you. If they forgot to send signals to me, please tell them to do it right away.",
-        "pt": "[Sayhue]\nNão quero que isso aconteça, mas se eles tiverem o núcleo danificado e não conseguirem entrar em contato comigo, desmonte-os e traga-os para cá.",
-        "es": "[Sayhue]\nGracias. Si se olvidaron de enviarme señales, diles que lo hagan de inmediato."
+        "ko": "[세이휴]\n그런 일이 일어나지 않기를 바라지만, 코어에 손상을 입어서 연락할 수 없는 상태라면 분해해서 가지고 나와 주십시오.",
+        "en": "[Seiyu]\nI hope it doesn't come to that, but if they are unable to contact us due to damage to their core, please dismantle them and bring them out.",
+        "pt": "[Seiyu]\nEspero que não seja o caso, mas se estiverem incapazes de se comunicar devido a danos no núcleo, desmonte-os e traga-os consigo.",
+        "es": "[Seiyu]\nEspero que no ocurra, pero si su núcleo ha sufrido daños y no pueden comunicarse, desmóntalos y tráelos contigo."
     },
     "svTRBw": {
-        "en": "[Sayhue]\nI don't want it to happen, but if they got their core damaged and are unable to contact me, please dismantle them and bring them here.",
-        "pt": "[Sayhue]\nOlá.\nEsta é uma balsa, mas atualmente não operamos nenhum barco.",
-        "es": "[Sayhue]\nNo quiero que ocurra, pero si se les estropeó el núcleo y no pueden ponerse en contacto conmigo, desmóntalos y tráelos aquí."
+        "ko": "[세이휴]\n안녕하세요, 손님.\n이곳은 선착장입니다만, 현재는 아무 배도 운행하지 않고 있습니다.",
+        "en": "[Seiyu]\nHello, guest.\nThis is the dock, but currently no ships are in service.",
+        "pt": "[Seiyu]\nOlá, visitante.\nEste é o cais, mas atualmente não há embarcações em operação.",
+        "es": "[Seiyu]\nHola, visitante.\nEste es el muelle, pero ahora mismo no hay ningún barco en servicio."
     },
     "s/TRBw": {
-        "en": "[Sayhue]\nHello.\nThis is a ferry, but currently, we don't operate any boats.",
-        "pt": "Harad",
-        "es": "[Sayhue]\nHola.\nEsto es un ferry, pero en este momento no estamos operando ningún barco."
-    },
-    "tPTRBw": {
+        "ko": "하라드",
         "en": "Harad",
-        "pt": "[Harad]\nSe quiser entrar no Jardim Flutuante, fale comigo.\nMas não posso te deixar entrar agora. É perigoso lá.",
+        "pt": "Harad",
         "es": "Harad"
     },
+    "tPTRBw": {
+        "ko": "[하라드]\n수상정원에 입장하시려면 제게 말씀해주시면 됩니다.\n하지만 안은 위험합니다. 지금은 입장하실 수 없습니다.",
+        "en": "[Harad]\nIf you wish to enter Suspended Garden, just speak to me.\nHowever, it is dangerous inside. You cannot enter right now.",
+        "pt": "[Harad]\nSe desejar entrar no Jardim Suspenso, fale comigo.\nMas lá dentro é perigoso. No momento, não é possível entrar.",
+        "es": "[Harad]\nSi desea entrar a Jardín Suspendido, solo tiene que decírmelo.\nPero adentro es peligroso. Ahora no puede entrar."
+    },
     "tfTRBw": {
-        "en": "[Harad]\nTell me if you want to enter the Floating Garden.\nBut I can't let you in now. It's dangerous in there.",
-        "pt": "- Este CM requer pelo menos nível 130. -",
-        "es": "[Harad]\nDime si quieres entrar en el Jardín flotante.\nPero no puedo dejarte entrar ahora. Es peligroso ahí dentro."
+        "ko": "- 130레벨 이상 입장 가능한 MD입니다 -",
+        "en": "- This is an MD that can be entered at Level 130 or higher -",
+        "pt": "- MD disponível para nível 130 ou superior -",
+        "es": "- MD disponible para entrar a partir del nivel 130 -"
     },
     "tvTRBw": {
-        "en": "- This MD requires at least Level 130. -",
-        "pt": "[Harad]\nOlá! Você é convidado, não?\nIsso é uma balsa.",
-        "es": "-Esta mazmorra requiere al menos nivel 130.-"
+        "ko": "[하라드]\n안녕하세요! 손님이시군요?\n이곳은 선착장입니다.",
+        "en": "[Harad]\nHello! Are you a visitor?\nThis is the pier.",
+        "pt": "[Harad]\nOlá! Você é um visitante?\nEste é o cais.",
+        "es": "[Harad]\n¡Hola! ¿Es usted un visitante?\nEste es el muelle."
     },
     "t/TRBw": {
-        "en": "[Harad]\nHello! You're a guest, right?\nThis is a ferry.",
-        "pt": "[Harad]\nAtualmente não operamos nenhum barco.\nMas você pode dar uma olhada na linda vista aqui!",
-        "es": "[Harad]\n¡Hola! Eres huésped, ¿verdad?\nEsto es un ferry."
+        "ko": "[하라드]\n지금은 운행하고 있는 배가 없습니다.\n하지만 경치가 좋으니, 잠시 둘러보고 가세요!",
+        "en": "[Harad]\nThere are no ships in service right now.\nBut the view is lovely, so please look around for a while before you go!",
+        "pt": "[Harad]\nNo momento, não há embarcações em operação.\nMas a vista é bela, então dê uma olhada!",
+        "es": "[Harad]\nAhora no hay barcos en servicio.\nPero el paisaje es hermoso, así que ¡dé una vuelta un momento antes de irse!"
     },
     "uPTRBw": {
-        "en": "[Harad]\nCurrently, we don't operate any boats.\nBut you can take a look at the lovely view here!",
-        "pt": "[Harad]\nPara seguir os planos de cultivo e remoção de ervas daninhas dos jardineiros, só posso deixar você entrar no Jardim Flutuante uma vez por dia, independentemente da dificuldade.",
-        "es": "[Harad]\nActualmente, no operamos ningún barco.\n¡Pero puedes echar un vistazo a la hermosa vista aquí!"
+        "ko": "[하라드]\n정원사들의 식물 재배 및 제초 계획에 따라, 수상정원 입장은 수상정원과 수상정원 어려움을 합해 총 하루 한 번으로 제한하고 있습니다.",
+        "en": "[Harad]\nAccording to the gardeners' plant cultivation and weeding plans, entry to Suspended Garden is limited to once per day total, combining Suspended Garden and Suspended Garden Hard.",
+        "pt": "[Harad]\nDe acordo com o plano de cultivo e remoção de ervas daninhas dos jardineiros, a entrada no Jardim Suspenso e no Jardim Suspenso Difícil é limitada a uma vez por dia no total.",
+        "es": "[Harad]\nSegún el plan de cultivo y deshierbe de los jardineros, la entrada a Jardín Suspendido está limitada a un total de una vez al día, sumando Jardín Suspendido y Jardín Suspendido dificultad."
     },
     "ufTRBw": {
-        "en": "[Harad]\nTo follow the gardeners' cultivation and weeding plans, I can only let you into the Floating Garden once a day, regardless of the difficulty.",
-        "pt": "[Harad]\nEspero que você entenda isso.\nDescanse e, por favor, volte depois do amanhecer!",
-        "es": "[Harad]\nPara seguir los planes de cultivo y desmalezado de los jardineros, solo puedo dejarte entrar en el Jardín flotante una vez al día, independientemente de la dificultad."
+        "ko": "[하라드]\n모쪼록 이해 부탁드립니다.\n충분한 휴식을 취하시고 새벽이 지난 뒤에 다시 찾아와 주세요!",
+        "en": "[Harad]\nWe ask for your understanding.\nPlease get plenty of rest and come back again after dawn has passed!",
+        "pt": "[Harad]\nPedimos sua compreensão.\nDescanse o suficiente e volte após o amanhecer!",
+        "es": "[Harad]\nLe rogamos su comprensión.\nDescanse lo suficiente y vuelva a visitarnos después de que pase el amanecer."
     },
     "uvTRBw": {
-        "en": "[Harad]\nI hope you understand that.\nRest up, and please come back after dawn!",
-        "pt": "[Harad]\nVocê gostaria de embarcar no barco para o Jardim Flutuante?\nEle funciona apenas uma vez por dia!",
-        "es": "[Harad]\nEspero que comprendas.\n¡Descansa y vuelve después del amanecer!"
+        "ko": "[하라드]\n수상정원으로 향하는 배를 타시겠습니까?\n배는 하루 한 번만 운행합니다!",
+        "en": "[Harad]\nWould you like to board the ship bound for Suspended Garden?\nThe ship runs only once per day!",
+        "pt": "[Harad]\nDeseja embarcar no navio rumo ao Jardim Suspenso?\nO navio opera apenas uma vez por dia!",
+        "es": "[Harad]\n¿Desea tomar el barco hacia Jardín Suspendido?\n¡El barco solo opera una vez al día!"
     },
     "u/TRBw": {
-        "en": "[Harad]\nWould you like to board the boat to the Floating Garden?\nIt operates only once a day!",
-        "pt": "^FF0000Observe que você não conseguirá sair dessa masmorra se tentar domar monstros ou realizar qualquer outra atividade irrelevante relacionada a monstros.^000000",
-        "es": "[Harad]\n¿Te gustaría embarcarte hacia el Jardín flotante?\nSolo funciona una vez al día"
+        "ko": "^FF0000던전 안에서 몬스터 테이밍 등 임의로 몬스터 처리를 할 경우 정상 진행으로 간주하지 않습니다. 이 점 유의해 주시기 바랍니다.^000000",
+        "en": "^FF0000If you handle monsters arbitrarily, such as taming monsters inside the dungeon, it will not be considered normal progress. Please keep this in mind.^000000",
+        "pt": "^FF0000Caso realize ações arbitrárias como domar monstros dentro da masmorra, não será considerado progresso válido. Por favor, tenha isso em mente.^000000",
+        "es": "^FF0000Si dentro de la mazmorra se realiza un manejo arbitrario de monstruos, como domarlos, no se considerará como un progreso normal. Tenga esto en cuenta.^000000"
     },
     "vPTRBw": {
-        "en": "^FF0000Please note that you can't clear this dungeon if you try to tame monsters or perform any other irrelevant monster-related activities.^000000",
-        "pt": "^FF0000O líder do grupo deve entrar na masmorra para prosseguir com a missão",
-        "es": "^660000Ten en cuenta que no podrás superar esta mazmorra si intentas domar monstruos o realizar cualquier otra actividad irrelevante relacionada con monstruos.^000000"
+        "ko": "^FF0000던전 진행용 퀘스트 '수상정원' 또는 '수상정원 어려움'을 받은 파티장이 던전에 입장해야 진행 가능합니다. 파티장이 바뀔 경우, 던전이 진행되지 않을 수 있습니다.^000000",
+        "en": "^FF0000Progress is only possible if the party leader who accepted the dungeon progress quest 'Suspended Garden' or 'Suspended Garden Hard' enters the dungeon. If the party leader changes, the dungeon may not progress.^000000",
+        "pt": "^FF0000Para prosseguir, o líder do grupo que aceitou a missão da masmorra 'Jardim Suspenso' ou 'Jardim Suspenso Difícil' deve entrar na masmorra. Se o líder mudar, o progresso pode não ocorrer.^000000",
+        "es": "^FF0000Para poder avanzar, el líder del grupo que haya aceptado la misión para avanzar en la mazmorra 'Jardín Suspendido' o 'Jardín Suspendido dificultad' debe entrar a la mazmorra. Si cambia el líder del grupo, es posible que la mazmorra no avance.^000000"
     },
     "vfTRBw": {
-        "en": "^FF0000The party leader must enter the dungeon in order to proceed with the dungeon quest ''Floating Garden'' or ''Floating Garden Hard Mode.'' You may not be able to clear the dungeon if the party leader is changed inside.^000000",
-        "pt": "Criar Jardim Flutuante",
-        "es": "^660000El líder del grupo debe entrar en la mazmorra para poder continuar con la misión “Jardín flotante” o “Jardín flotante en modo difícil”. Es posible que no puedas superar la mazmorra si cambia el líder del grupo una vez dentro.^000000"
+        "ko": "수상정원 생성",
+        "en": "Create Suspended Garden",
+        "pt": "Criar Jardim Suspenso",
+        "es": "Crear Jardín Suspendido"
     },
     "vvTRBw": {
-        "en": "Create Floating Garden",
-        "pt": "^9370DBEntrar no Jardim Flutuante^000000",
-        "es": "Crear Jardín flotante."
+        "ko": "^0000CD수상정원 입장^000000",
+        "en": "^0000CDEnter Suspended Garden^000000",
+        "pt": "^0000CDEntrar em Jardim Suspenso^000000",
+        "es": "^0000CDEntrar a Jardín Suspendido^000000"
     },
     "v/TRBw": {
-        "en": "^0000CDEnter Floating Garden^000000",
-        "pt": "[Harad]\nVocê gostaria de embarcar no barco para o Jardim Flutuante?\nFunciona apenas uma vez por dia, independentemente da dificuldade da masmorra.",
-        "es": "^990099Entrar en el Jardín flotante^000000."
+        "ko": "[하라드]\n수상정원으로 향하는 배를 타시겠습니까?\n수상정원과 수상정원 어려움을 통틀어, 하루 한 번만 운행합니다.",
+        "en": "[Harad]\nWould you like to board the ship bound for Suspended Garden?\nIncluding both Suspended Garden and Suspended Garden Hard, it runs only once per day.",
+        "pt": "[Harad]\nDeseja embarcar no navio rumo ao Jardim Suspenso?\nConsiderando Jardim Suspenso e Jardim Suspenso Difícil, opera apenas uma vez por dia.",
+        "es": "[Harad]\n¿Desea tomar el barco hacia Jardín Suspendido?\nSumando Jardín Suspendido y Jardín Suspendido dificultad, solo opera una vez al día."
     },
     "wPTRBw": {
-        "en": "[Harad]\nWould you like to board the boat to the Floating Garden?\nIt operates only once a day, regardless of the dungeon's difficulty.",
-        "pt": "Criar Jardim Flutuante Normal",
-        "es": "[Harad]\n¿Te gustaría embarcarte hacia el Jardín flotante?\nSolo funciona una vez al día, independientemente de la dificultad de la mazmorra."
+        "ko": "수상정원 일반 생성",
+        "en": "Create Suspended Garden (Normal)",
+        "pt": "Criar Jardim Suspenso Normal",
+        "es": "Crear Jardín Suspendido normal"
     },
     "wfTRBw": {
-        "en": "Create Floating Garden Normal",
-        "pt": "Criar Jardim Flutuante Difícil",
-        "es": "Crear Jardín flotante en modo normal."
+        "ko": "수상정원 어려움 생성",
+        "en": "Create Suspended Garden (Hard)",
+        "pt": "Criar Jardim Suspenso Difícil",
+        "es": "Crear Jardín Suspendido dificultad"
     },
     "wvTRBw": {
-        "en": "Create Floating Garden Hard",
-        "pt": "- Este CM requer pelo menos nível 180. -",
-        "es": "Crear Jardín flotante en modo difícil."
+        "ko": "- 180레벨 이상 입장 가능한 MD입니다 -",
+        "en": "- This is an MD that can be entered at Level 180 or higher -",
+        "pt": "- MD disponível para nível 180 ou superior -",
+        "es": "- MD disponible para entrar a partir del nivel 180 -"
     },
     "w/TRBw": {
-        "en": "- This MD requires at least Level 180. -",
-        "pt": "[Harad]",
-        "es": "-Esta mazmorra requiere al menos nivel 180.-"
-    },
-    "xPTRBw": {
+        "ko": "[하라드]",
         "en": "[Harad]",
-        "pt": "Entrando no modo ^FF0000Normal do Jardim Flutuante^000000.",
+        "pt": "[Harad]",
         "es": "[Harad]"
     },
+    "xPTRBw": {
+        "ko": "^FF0000수상정원 일반^000000 모드에 입장합니다.",
+        "en": "^FF0000Entering Suspended Garden Normal^000000 mode.",
+        "pt": "^FF0000Entrar no modo Jardim Suspenso Normal.^000000",
+        "es": "^FF0000Entrará en el modo ^000000Jardín Suspendido normal."
+    },
     "xfTRBw": {
-        "en": "Entering the ^FF0000Floating Garden Normal^000000 mode.",
-        "pt": "Entrando no modo ^FF0000Difícil do Jardim Flutuante^000000.",
-        "es": "Entrando en el ^660000Jardín flotante en modo normal^000000."
+        "ko": "^FF0000수상정원 어려움^000000 모드에 입장합니다.",
+        "en": "^FF0000Entering Suspended Garden Hard^000000 mode.",
+        "pt": "^FF0000Entrar no modo Jardim Suspenso Difícil.^000000",
+        "es": "^FF0000Entrará en el modo ^000000Jardín Suspendido dificultad."
     },
     "xvTRBw": {
-        "en": "Entering the ^FF0000Floating Garden Hard^000000 mode.",
-        "pt": "É isso que eu quero.",
-        "es": "Entrando en el ^660000Jardín flotante en modo difícil^000000."
+        "ko": "입장하려는 모드가 맞다.",
+        "en": "This is the mode I want to enter.",
+        "pt": "O modo que deseja acessar está correto.",
+        "es": "El modo al que intenta entrar es el correcto."
     },
     "x/TRBw": {
-        "en": "That's what I want.",
-        "pt": "Escolhi o modo errado.",
-        "es": "Eso es lo que quiero."
+        "ko": "입장하려는 모드가 잘못되었다.",
+        "en": "This is not the mode I want to enter.",
+        "pt": "O modo que deseja acessar está incorreto.",
+        "es": "El modo al que intenta entrar es incorrecto."
     },
     "yPTRBw": {
-        "en": "I chose the wrong mode.",
-        "pt": "[Harad]\nVerifique seu modo antes de entrar.",
-        "es": "Elegí el modo equivocado."
+        "ko": "[하라드]\n모드를 확인 후 입장해주시기 바랍니다.",
+        "en": "[Harad]\nPlease check the mode, then enter.",
+        "pt": "[Harad]\nPor favor, verifique o modo antes de entrar.",
+        "es": "[Harad]\nPor favor, comprueba el modo y luego entra."
     },
     "yfTRBw": {
-        "en": "[Harad]\nPlease check your mode before entering.",
-        "pt": "[Harad]\nOcorreu um erro.\nVerifique novamente antes de entrar.",
-        "es": "[Harad]\nComprueba el modo antes de entrar."
+        "ko": "숨겨진 화원",
+        "en": "Hidden Garden",
+        "pt": "Jardim Oculto",
+        "es": "Jardín Oculto"
     },
     "yvTRBw": {
-        "en": "[Harad]\nAn error occurred.\nPlease check again before entering.",
-        "pt": "[Harad]\nQuando o CM do Jardim Flutuante abrir, fale comigo novamente e selecione ^9370DBEntrar no Jardim Flutuante^000000 para entrar.",
-        "es": "[Harad]\nSe produjo un error.\nVuelve a comprobarlo antes de entrar."
+        "ko": "[하라드]\n오류가 발생하였습니다.\n입장 전 다시 확인해주시기 바랍니다.",
+        "en": "[Harad]\nAn error has occurred.\nPlease check again before entering.",
+        "pt": "[Harad]\nOcorreu um erro.\nPor favor, verifique novamente antes de entrar.",
+        "es": "[Harad]\nSe ha producido un error.\nPor favor, vuelve a comprobarlo antes de entrar."
     },
     "y/TRBw": {
-        "en": "[Harad]\nWhen the Floating Garden MD opens, talk to me again and select ^0000CDEnter Floating Garden^000000 to get inside.",
-        "pt": "Um membro do",
-        "es": "[Harad]\nCuando se abra la mazmorra del Jardín flotante, vuelve a hablar conmigo y selecciona ^990099Entrar en el Jardín flotante^000000 para ingresar."
+        "ko": "[하라드]\n수상정원 MD가 열리면 다시 말을 걸어 ^0000CD수상정원 입장^000000을 선택하여 입장해주시기 바랍니다.",
+        "en": "[Harad]\nWhen the Suspended Garden MD opens, please speak to me again and select ^0000CDEnter Suspended Garden^000000 to enter.",
+        "pt": "[Harad]\nQuando o MD Jardim Suspenso estiver aberto, fale comigo novamente e selecione ^0000CDEntrar em Jardim Suspenso^000000.",
+        "es": "[Harad]\nCuando se abra el MD de Jardín Suspendido, vuelve a hablar conmigo y selecciona ^0000CDEntrar a Jardín Suspendido^000000 para entrar."
     },
     "zPTRBw": {
-        "en": "A member of the",
-        "pt": "[Harad]\nO líder do grupo não criou a masmorra ainda.\nVá verificar.",
-        "es": "Un miembro de"
+        "ko": "{0} 파티의 모험가가 수상정원을 탐사합니다.",
+        "en": "An adventurer from the {0} party is exploring Suspended Garden.",
+        "pt": "O aventureiro do grupo {0} explora Jardim Suspenso.",
+        "es": "El aventurero del grupo {0} explora Jardín Suspendido."
     },
     "zfTRBw": {
-        "en": "[Harad]\nThe party leader has not created the dungeon yet.\nPlease check it out.",
-        "pt": "[Harad]\nA masmorra ainda não foi criada.\nVá verificar.",
-        "es": "[Harad]\nEl líder del grupo aún no ha creado la mazmorra.\nPor favor revísalo."
+        "ko": "[하라드]\n파티장이신 손님께서 던전을 생성하지 않으셨습니다.\n확인 바랍니다.",
+        "en": "[Harad]\nThe party leader has not created the dungeon.\nPlease check.",
+        "pt": "[Harad]\nO visitante que é líder do grupo não criou a masmorra.\nPor favor, verifique.",
+        "es": "[Harad]\nEl líder del grupo no ha creado la mazmorra.\nPor favor, compruébalo."
     },
     "zvTRBw": {
-        "en": "[Harad]\nThe dungeon has not been created.\nPlease check it out.",
-        "pt": "[Harad]\nOcorreu um erro.\nVá verificar.",
-        "es": "[Harad]\nLa mazmorra se creó.\nPor favor revísalo."
+        "ko": "[하라드]\n던전이 생성되지 않았습니다.\n확인 바랍니다.",
+        "en": "[Harad]\nThe dungeon has not been created.\nPlease check.",
+        "pt": "[Harad]\nA masmorra não foi criada.\nPor favor, verifique.",
+        "es": "[Harad]\nNo se ha creado la mazmorra.\nPor favor, compruébalo."
     },
     "z/TRBw": {
-        "en": "[Harad]\nAn error occurred.\nPlease check it out.",
-        "pt": "[Harad]\nOcorreu um erro desconhecido.\nVá verificar.",
-        "es": "[Harad]\nSe produjo un error.\nPor favor revísalo."
+        "ko": "[하라드]\n오류가 발생했습니다.\n확인 바랍니다.",
+        "en": "[Harad]\nAn error has occurred.\nPlease check.",
+        "pt": "[Harad]\nOcorreu um erro.\nPor favor, verifique.",
+        "es": "[Harad]\nSe ha producido un error.\nPor favor, compruébalo."
     },
     "0PTRBw": {
-        "en": "[Harad]\nAn unknown error occurred.\nPlease check it out.",
-        "pt": "[Harad]\nVocê não pode entrar se não estiver em um grupo. Volte depois de formar um grupo.",
-        "es": "[Harad]\nSe produjo un error desconocido.\nPor favor revísalo."
+        "ko": "[하라드]\n알 수 없는 오류가 발생했습니다.\n확인 바랍니다.",
+        "en": "[Harad]\nAn unknown error has occurred.\nPlease check.",
+        "pt": "[Harad]\nOcorreu um erro desconhecido.\nPor favor, verifique.",
+        "es": "[Harad]\nSe ha producido un error desconocido.\nPor favor, compruébalo."
     },
     "0fTRBw": {
-        "en": "[Harad]\nYou cannot enter unless you are in a party. Please come back after forming a party.",
-        "pt": "[Elyumina]\nXiu, silêncio! Eu não deveria estar aqui sem ninguém!",
-        "es": "[Harad]\nNo puedes entrar a menos que estés en un grupo. Vuelve luego de formar un grupo."
+        "ko": "[하라드]\n오류가 발생하였습니다.\n확인해주시기 바랍니다.",
+        "en": "[Harad]\nAn error has occurred.\nPlease check.",
+        "pt": "[Harad]\nOcorreu um erro.\nPor favor, verifique.",
+        "es": "[Harad]\nSe ha producido un error.\nPor favor, compruébalo."
     },
     "0vTRBw": {
-        "en": "[Eliumina]\nShh, be quiet! I'm not supposed to be here alone!",
-        "pt": "[Elyumina]\nNão se atreva a pensar em me privar dessa rara oportunidade de conversar com os robôs de Varmunt!",
-        "es": "[Eliumina]\n¡Shh, silencio! ¡Se supone que no debo estar aquí solo!"
+        "ko": "[하라드]\n파티를 맺지 않은 상태로는 입장하실 수 없습니다. 파티를 맺고 다시 와 주시기 바랍니다.",
+        "en": "[Harad]\nYou cannot enter while not in a party. Please form a party and come back.",
+        "pt": "[Harad]\nNão é possível entrar sem estar em um grupo. Forme um grupo e volte novamente.",
+        "es": "[Harad]\nNo puedes entrar si no estás en un grupo. Por favor, forma un grupo y vuelve."
     },
     "0/TRBw": {
-        "en": "[Eliumina]\nDon't you dare think about depriving me of this rare opportunity to talk with Barmund's robots!",
-        "pt": "[Elyumina]\n..................",
-        "es": "[Eliumina]\n¡No se te ocurra privarme de esta rara oportunidad de hablar con los robots de Varmundt!"
+        "ko": "[엘류미나]\n쉿, 조용히 해! 지금 여기 나 혼자 있는 거 들키면 안 된단 말이야!",
+        "en": "[Eliumina]\nShh, be quiet! I can't let anyone find out I'm here alone right now!",
+        "pt": "[Eliumina]\nShh, silêncio! Não posso deixar que descubram que estou sozinha aqui!",
+        "es": "[Eliumina]\n¡Shh, silencio! ¡No puedo dejar que se den cuenta de que estoy aquí sola!"
     },
     "1PTRBw": {
-        "en": "[Eliumina]\n..................",
-        "pt": "[Elyumina]\nDroga, não posso morrer assim!\nArgh, parece que essas roupas molhadas não vão secar tão cedo.",
-        "es": "[Eliumina]\n…"
+        "ko": "[엘류미나]\n너, 바르문트의 자동인형들과 대화를 나눠 볼 귀한 기회를 빼앗을 생각이라면 가만 안 둔다!",
+        "en": "[Eliumina]\nIf you think you're going to take away this precious chance to talk with Varmundt's automatons, I won't let it slide!",
+        "pt": "[Eliumina]\nSe está pensando em me tirar a rara oportunidade de conversar com as bonecas automáticas de Varmundt, não deixarei barato!",
+        "es": "[Eliumina]\nSi piensas arrebatarme esta valiosa oportunidad de hablar con los autómatas de Varmundt, ¡no te lo perdonaré!"
     },
     "1fTRBw": {
-        "en": "[Eliumina]\nDang it, I can't die like this!\nUgh, looks like these wet clothes won't dry up anytime soon.",
-        "pt": "[Elyumina]\nAh, o mundo está girando... Não me chacoalhe.\nNão posso ir, mesmo que você me force. Só vou causar problemas lá.",
-        "es": "[Eliumina]\n¡Maldita sea, no puedo morir así!\nUf, parece que esta ropa mojada no se va a secar pronto."
+        "ko": "[엘류미나]\n…………………….",
+        "en": "[Eliumina]\n…………………….",
+        "pt": "[Eliumina]\n…………………….",
+        "es": "[Eliumina]\n……………………."
     },
     "1vTRBw": {
-        "en": "[Eliumina]\nOh, the world is spinning... Don't shake me.\nI can't go, even if you force me to. I'll only cause trouble there.",
-        "pt": "[Fúria]\nProblemas? Você pensou nisso? Foi bastante surpreendente.",
-        "es": "[Eliumina]\nOh, el mundo da vueltas… No me sacudas.\nNo me puedo ir, aunque me obligues. Solo causaré problemas allí."
+        "ko": "[엘류미나]\n젠장… 이렇게 죽을까 보냐!\n흥, 젖어서 축축한 건 잘 마르지도 않네.",
+        "en": "[Eliumina]\nDamn it... Like I'd die like this!\nHmph, when it's wet and damp, it doesn't dry well either.",
+        "pt": "[Eliumina]\nDroga… Acha que vou morrer assim?!\nHmph, ficar encharcada não seca tão fácil.",
+        "es": "[Eliumina]\nMaldición… ¡No creas que voy a morir así!\nHmph, cuando está mojado y húmedo, ni siquiera se seca bien."
     },
     "1/TRBw": {
-        "en": "[Rage]\nTrouble? You thought of that? I'm quite surprised.",
-        "pt": "[Elyumina]\nCale a boca! É por isso que odeio trabalhar com idiotas!\nEnfim, vou fazer uma pausa aqui. Acabei me cansando.",
-        "es": "[Rage]\n¿Problemas? ¿Pensaste en eso? Me sorprende bastante."
+        "ko": "[엘류미나]\n어지러워… 흔들지 마.\n난 못 가, 가자고 등을 떠밀어도 못 가. 가서 폐만 끼치겠지.",
+        "en": "[Eliumina]\nI'm dizzy... Don't shake me.\nI can't go. Even if you push me from behind to make me go, I can't. I'd just be a burden if I went.",
+        "pt": "[Eliumina]\nEstou tonta… Não me sacuda.\nNão consigo ir, mesmo que me empurre não consigo. Só vou atrapalhar se for.",
+        "es": "[Eliumina]\nMe mareo… no me sacudas.\nNo puedo ir, aunque me empujes por la espalda para que vaya, no puedo. Si voy, solo estorbaré."
     },
     "2PTRBw": {
-        "en": "[Eliumina]\nShut up! This is why I hate working with idiots!\nAnyway, I'll take a break here. I'm dead tired.",
-        "pt": "[Novato]\nEu deveria ficar aqui também, já que alguém tem que ficar de olho no Mina.",
-        "es": "[Eliumina]\n¡Cállate! ¡Por eso odio trabajar con idiotas!\nDe todos modos, me tomaré un descanso aquí. Me muero de cansancio."
+        "ko": "[레이지]\n…폐라니, 그런 걸 신경쓰고 있었어? 과학 범죄자 씨, 이거 놀랐는데.",
+        "en": "[Leizi]\n...A burden? You were worried about that? Scientist criminal, that's surprising.",
+        "pt": "[Leizi]\n…Atrapalhar? Você estava preocupada com isso? Srta. Cientista criminosa, isso me surpreende.",
+        "es": "[Leizi]\n…¿Estabas preocupándote por estorbar? Señor criminal científico, esto sí que me sorprende."
     },
     "2fTRBw": {
-        "en": "[Rookie]\nI should stay here too since someone has to watch Mina.",
-        "pt": "[Fúria]\nEu não sou combatente, então vou ficar aqui também. Só resta você então, viajante. Boa sorte!",
-        "es": "[Principiante]\nDebería quedarme aquí también ya que alguien tiene que vigilar a Mina."
+        "ko": "[엘류미나]\n시끄러워! 멍청이들에겐 배려라는 게 필요 없다니까!\n아무튼 나는 여기서 쉬고 있는다. 한 발짝도 못 움직이겠어.",
+        "en": "[Eliumina]\nShut up! Idiots don't need consideration!\nAnyway, I'm resting here. I can't move a single step.",
+        "pt": "[Eliumina]\nCale-se! Não é preciso consideração com idiotas!\nEnfim, vou descansar aqui. Não consigo dar nem um passo.",
+        "es": "[Eliumina]\n¡Cállate! ¡Los idiotas no necesitan consideración!\nEn fin, voy a descansar aquí. No puedo moverme ni un paso."
     },
     "2vTRBw": {
-        "en": "[Rage]\nI'm a non-combatant, so I'll stay, too. And that leaves you, adventurer. Good luck!",
-        "pt": "Parece que eu tenho que ir para o Jardim Flutuante sem ninguém...",
-        "es": "[Rage]\nNo soy un combatiente, así que también me quedaré. Y eso te deja a ti como última opción, trotamundos. ¡Buena suerte!"
+        "ko": "[루키]\n미나를 감시할 사람이 필요하니 저도 여기 남아야겠어요, 모험가님.",
+        "en": "[Rookie]\nWe need someone to keep an eye on Mina, so I should stay here too, Adventurer.",
+        "pt": "[Rookie]\nAlguém precisa vigiar Mina, então também ficarei aqui, Aventureiro.",
+        "es": "[Rookie]\nNecesitamos a alguien que vigile a Mina, así que yo también debo quedarme aquí, aventurero."
     },
     "2/TRBw": {
-        "en": "Looks like I have to go to the Floating Garden alone...",
-        "pt": "[Novato]\nSinto muito, viajante. Por que não forma um grupo com outros viajantes?",
-        "es": "Parece que tengo que ir solo al Jardín flotante…"
+        "ko": "[레이지]\n나는 전투 담당이 아니니까. 그럼 모험가님, 잘 부탁해?",
+        "en": "[Leizi]\nI'm not in charge of combat. Then, Adventurer, I'm counting on you?",
+        "pt": "[Leizi]\nEu não sou responsável por combate. Então, Aventureiro, conto com você, certo?",
+        "es": "[Leizi]\nYo no me encargo del combate. Entonces, aventurero, ¿cuento contigo?"
     },
     "3PTRBw": {
-        "en": "[Rookie]\nI'm sorry, Adventurer. Why don't you form a party with other adventurers?",
-        "pt": "[Elyumina]\n.........\n.........\n.........",
-        "es": "[Principiante]\nLo siento, trotamundos. ¿Por qué no formas un grupo con otros trotamundos?"
+        "ko": "수상정원에는 혼자 갈 운명인가….",
+        "en": "Am I fated to go to Suspended Garden alone...",
+        "pt": "Parece que estou destinado a ir sozinho ao Jardim Suspenso…",
+        "es": "¿Estoy destinada a ir sola a Jardín Suspendido…?"
     },
     "3fTRBw": {
-        "en": "[Eliumina]\n.........\n.........\n.........",
-        "pt": "[Elyumina]\n*Aaah*! Eu queria fazer uma pausa, mas acabei quase morrendo agora!\nIsso é enlouquecedor. Ei, o antídoto está pronto?",
-        "es": "[Eliumina]\n…\n…\n…"
+        "ko": "[루키]\n죄송합니다, 모험가님. 다른 모험가님과 파티를 맺는 건 어떠실까요?",
+        "en": "[Rookie]\nI’m sorry, Adventurer. Would you like to form a party with another Adventurer?",
+        "pt": "[Rookie]\nDesculpe, Aventureiro. Que tal formar um grupo com outro aventureiro?",
+        "es": "[Rookie]\nLo siento, aventurero. ¿Qué le parece formar un grupo con otros aventureros?"
     },
     "3vTRBw": {
-        "en": "[Eliumina]\n*Gasp*! I meant to take a break, but I almost crossed the Styx just now!\nOh, this is maddening. Hey, is the antidote done yet?",
-        "pt": "Aqui está o antídoto.",
-        "es": "[Eliumina]\n*Jadea* Quería tomarme un descanso, ¡pero ya casi cruzo el Estigia!\nOh, esto es una locura. Oye, ¿ya está listo el antídoto?"
+        "ko": "[엘류미나]\n……….\n……….\n……….",
+        "en": "[Eliumina]\n.........\n.........\n.........",
+        "pt": "[Eliumina]\n……….\n……….\n……….",
+        "es": "[Eliumina]\n……….\n……….\n………."
     },
     "3/TRBw": {
-        "en": "Here's the antidote.",
-        "pt": "[Elyumina]\n... O que é isso?\nAh, deve ser o antídoto.",
-        "es": "Aquí está el antídoto."
+        "ko": "[엘류미나]\n헉, 잠깐 정신 놓았다가 저승 끄트머리 보고 온 거 같은데!\n아, 진짜 미치겠네. 저기, 해독제는 언제쯤?",
+        "en": "[Eliumina]\nGah, I must’ve blanked out for a moment and seen the edge of the afterlife!\nAh, this is driving me crazy. Hey, when will the antidote be ready?",
+        "pt": "[Eliumina]\nHah, por um momento apaguei e parecia que tinha visto a beira do além!\nAh, isso é insuportável. Ei, quando chega o antídoto?",
+        "es": "[Eliumina]\nUf, ¡por un momento perdí el sentido y creo que vi el borde del más allá!\nAh, de verdad, esto me vuelve loca. Oye, ¿para cuándo el antídoto?"
     },
     "4PTRBw": {
-        "en": "[Eliumina]\n...What is that?\nOh, this must be that antidote.",
-        "pt": "[Novato]\nSinto muito por você ter feito tudo sem ajuda. A gente deveria ter ido com você.",
-        "es": "[Eliumina]\n…¿Qué es eso?\nOh, esto debe ser el antídoto."
+        "ko": "해독제를 건네준다.",
+        "en": "Hands over the antidote.",
+        "pt": "Entregar o antídoto.",
+        "es": "Te entrega el antídoto."
     },
     "4fTRBw": {
-        "en": "[Rookie]\nI'm sorry we made you work alone. We should've gone in there with you.",
-        "pt": "[Elyumina]\n... Ei, hã... eu agradeço.",
-        "es": "[Principiante]\nLamento que te hayamos hecho trabajar sola. Deberíamos haber entrado contigo."
+        "ko": "[엘류미나]\n……뭐야, 이거?\n아…, 그거인가. 해독제.",
+        "en": "[Eliumina]\n...What is this?\nAh... Is that it? The antidote.",
+        "pt": "[Eliumina]\n……O que é isso?\nAh…, é isso. O antídoto.",
+        "es": "[Eliumina]\n……¿Qué es esto?\nAh…, ¿eso? El antídoto."
     },
     "4vTRBw": {
-        "en": "[Eliumina]\n......Hey, uh, thanks.",
-        "pt": "[Fúria]\nO quê? Não consigo ouvir você. Fale mais alto, por favor.",
-        "es": "[Eliumina]\n…Oye, uh, gracias."
+        "ko": "[루키]\n혼자 고생하게 해드려서 죄송합니다. 저희도 갔어야 하는데.",
+        "en": "[Rookie]\nI’m sorry we made you suffer alone. We should have gone with you.",
+        "pt": "[Rookie]\nDesculpe por deixá-lo passar por isso sozinho. Nós deveríamos ter ido também.",
+        "es": "[Rookie]\nPerdón por hacerle pasar por esto a solas. Nosotros también deberíamos haber ido."
     },
     "4/TRBw": {
-        "en": "[Rage]\nWhat? I can't hear you. Speak loudly, please.",
-        "pt": "[Elyumina]\nNão falei para você!",
-        "es": "[Rage]\n¿Qué? No te escucho. Habla más fuerte."
+        "ko": "[엘류미나]\n……저기, 고맙다.",
+        "en": "[Eliumina]\n...Hey, thanks.",
+        "pt": "[Eliumina]\n……Ei, obrigada.",
+        "es": "[Eliumina]\n……Oye, gracias."
     },
     "5PTRBw": {
-        "en": "[Eliumina]\nI didn't say it to you!",
-        "pt": "[Fúria]\nCerto, certo. Pode beber isso logo? Não quero mais ver você desfalecido ao meu lado.",
-        "es": "[Eliumina]\n¡No te lo dije a ti!"
+        "ko": "[레이지]\n응? 잘 안 들리는데. 큰 소리로 말해 줘.",
+        "en": "[Leizi]\nHuh? I can’t hear you well. Say it louder.",
+        "pt": "[Leizi]\nHm? Não ouvi direito. Fale mais alto.",
+        "es": "[Leizi]\n¿Eh? No te oigo bien. Habla más alto."
     },
     "5fTRBw": {
-        "en": "[Rage]\nAlright, alright. Would you drink it already? I don't want to see you jellying next to me anymore.",
-        "pt": "[Elyumina]\nAh, minha cabeça...\nEnfim, agradeço pelo antídoto, {}.",
-        "es": "[Rage]\nEstá bien, de acuerdo. ¿Vas a beberlo ya? No quiero que estés gelatinosa a mi lado."
+        "ko": "[엘류미나]\n네게 한 말이 아니니 신경 끄시지!",
+        "en": "[Eliumina]\nI wasn’t talking to you, so mind your own business!",
+        "pt": "[Eliumina]\nNão estava falando com você, então não se meta!",
+        "es": "[Eliumina]\n¡No te lo decía a ti, así que no te metas!"
     },
     "5vTRBw": {
-        "en": "[Eliumina]\nOh, my head...\nAnyway, thanks for the antidote, {}.",
-        "pt": "[Elyumina]\nE você... Rocky? Lucky? Que seja. Valeu pelo esforço, Rebelião.",
-        "es": "[Eliumina]\nOh, mi cabeza…\nEn fin, gracias por el antídoto, {}."
+        "ko": "[레이지]\n그래그래, 그러면 어서어서 마셔 보지? 과학 범죄자 씨가 옆에서 흐늘흐늘하는 거 영 보기 힘들었거든.",
+        "en": "[Leizi]\nSure, sure. Then go on and drink it already. It was hard to watch you wobbling around next to me, Ms. Scientific Criminal.",
+        "pt": "[Leizi]\nCerto, certo, então vá logo e beba? Foi difícil ver a Srta. Cientista criminosa toda cambaleante ao meu lado.",
+        "es": "[Leizi]\nSí, sí. Entonces, ¿por qué no te lo bebes ya? Me costaba mucho ver a la criminal científica tambaleándose al lado."
     },
     "5/TRBw": {
-        "en": "[Eliumina]\nAnd you... Rocky? Lucky? Whatever. Thanks for your legwork, Rebellion.",
-        "pt": "... Novato. É Novato.",
-        "es": "[Eliumina]\nY tú… ¿Rocky? ¿Lucky? Lo que sea. Gracias por tu trabajo, Rebelión."
+        "ko": "[엘류미나]\n아, 골 땡겨….\n아무튼 너, {0}. 약을 구해 줘서 고맙다.",
+        "en": "[Eliumina]\nAh, my head is pounding...\nAnyway, you, {0}. Thanks for getting the medicine.",
+        "pt": "[Eliumina]\nAh, minha cabeça…\nDe qualquer forma, você, {0}. Obrigada por conseguir o remédio.",
+        "es": "[Eliumina]\nAh, me late la cabeza….\nEn fin, tú, {0}. Gracias por conseguir la medicina."
     },
     "6PTRBw": {
-        "en": "...Rookie. It's Rookie.",
-        "pt": "E eu?",
-        "es": "…Principiante Es Principiante."
+        "ko": "[엘류미나]\n그리고 너… 로키였나? 럭키? 아무튼 리벨리온, 너도 여기저기 뛰어다녀줘서 고맙고.",
+        "en": "[Eliumina]\nAnd you... was it Loki? Lucky? Anyway, Rebellion, thanks for running around here and there, too.",
+        "pt": "[Eliumina]\nE você… era Roki? Lucky? Enfim, Rebellion, obrigada por correr de um lado para o outro também.",
+        "es": "[Eliumina]\nY tú… ¿era Loki? ¿Lucky? En fin, Rebellion, gracias también por correr de un lado a otro."
     },
     "6fTRBw": {
-        "en": "What about me?",
-        "pt": "[Elyumina]\nComo vocês disseram, não estou mais com a Ilusão.\nEu não pertencia àquele grupo, de qualquer forma. Fiquei com eles só porque me deram os fundos que eu precisava para minha pesquisa.",
-        "es": "¿Y qué hay de mí?"
+        "ko": "……루키, 루키인데.",
+        "en": "...It’s Rookie. Rookie.",
+        "pt": "……É Rookie, Rookie.",
+        "es": "……Rookie, es Rookie."
     },
     "6vTRBw": {
-        "en": "[Eliumina]\nAs you guys said, I'm not with Illusion anymore.\nDidn't have any sense of belonging, anyway. I stayed with them just because they gave me research funds.",
-        "pt": "[Elyumina]\nMas ganhar reconhecimento como parte do grupo é muito diferente de quando estava sozinho.",
-        "es": "[Eliumina]\nComo dijeron, ya no estoy con Ilusión.\nDe todas formas, no tenía ningún sentido de pertenencia. Me quedé con ellos solo porque me daban fondos para mi investigación."
+        "ko": "나는? 나는 안 고마운가?",
+        "en": "What about me? Am I not worth thanking?",
+        "pt": "E eu? Não mereço agradecimento?",
+        "es": "¿Y yo? ¿A mí no me das las gracias?"
     },
     "6/TRBw": {
-        "en": "[Eliumina]\nBut getting acknowledged as it is so different from insisting on it alone.",
-        "pt": "[Elyumina]\nSer odiado por robôs lindos e inteligentes... Isso machuca...",
-        "es": "[Eliumina]\nPero ser reconocida y recibir ayuda es muy distinto a hacer el trabajo sola."
+        "ko": "[엘류미나]\n너희들 말대로 난 이미 일루시온이 아냐.\n어차피 소속감 같은 것도 없었고. 그냥 내 연구를 지원해주니까 머물렀던 거지.",
+        "en": "[Eliumina]\nLike you said, I’m not Illusion anymore.\nI didn’t have any sense of belonging anyway. I just stayed because they supported my research.",
+        "pt": "[Eliumina]\nComo vocês disseram, eu já não sou Ilusión.\nDe qualquer forma, nunca tive senso de pertencimento. Só fiquei porque apoiavam minha pesquisa.",
+        "es": "[Eliumina]\nComo ustedes dicen, yo ya no soy de Illusion.\nDe todos modos, tampoco tenía sentido de pertenencia. Solo me quedé porque apoyaban mi investigación."
     },
     "7PTRBw": {
-        "en": "[Eliumina]\nTo be hated by cute and smart robots... That really hurts...",
-        "pt": "[Fúria]\nAposto que é por isso que você está reclamando, não é?",
-        "es": "[Eliumina]\nSer odiada por robots adorables e inteligentes… Eso sí que me duele…"
+        "ko": "[엘류미나]\n하지만 그걸 내가 우기는 거랑 남이 인정하는 게 이렇게 다르구나.",
+        "en": "[Eliumina]\nBut it’s so different when I insist on it versus when others acknowledge it.",
+        "pt": "[Eliumina]\nMas é tão diferente quando eu insisto nisso e quando os outros reconhecem.",
+        "es": "[Eliumina]\nPero qué distinto es que yo lo sostenga a que los demás lo reconozcan así."
     },
     "7fTRBw": {
-        "en": "[Rage]\nBet that's what you actually want to whine about, isn't it?",
-        "pt": "[Elyumina]\nEnfim, não vou mais me envolver com aqueles idiotas. Eu prometo.",
-        "es": "[Rage]\nApuesto a que eso es sobre lo que te quieres quejar, ¿no?"
+        "ko": "[엘류미나]\n귀엽고 똑똑한 자동인형들에게 미움받는 거… 아쉽더라…",
+        "en": "[Eliumina]\nBeing hated by cute, smart automata... that was disappointing...",
+        "pt": "[Eliumina]\nSer odiada pelas bonecas automáticas fofas e inteligentes… é decepcionante…",
+        "es": "[Eliumina]\nQue esos autómatas lindos e inteligentes me odien… fue una lástima…"
     },
     "7vTRBw": {
-        "en": "[Eliumina]\nAnyway, I won't get involved with those idiots anymore. I promise.",
-        "pt": "[Elyumina]\nE vou fazer qualquer coisa para ajudar vocês a pegá-los.",
-        "es": "[Eliumina]\nEn fin, no me involucraré más con esos idiotas. Lo prometo."
+        "ko": "[레이지]\n그게 하고 싶은 말의 핵심인 것 같다…?",
+        "en": "[Leizi]\nThat seems to be the main point of what you wanted to say...?",
+        "pt": "[Leizi]\nParece que esse é o ponto principal do que queria dizer…?",
+        "es": "[Leizi]\n¿Ese parece ser el punto central de lo que quieres decir…?"
     },
     "7/TRBw": {
-        "en": "[Eliumina]\nAnd I'll do anything I can to help you guys catch them.",
-        "pt": "[Novato]\nErm, bom, isso é meio constrangedor...\nMas eu agradeço.",
-        "es": "[Eliumina]\nY haré todo lo que pueda para ayudarlos a atraparlos."
+        "ko": "[엘류미나]\n아무튼 앞으로도 그 멍청이들이랑 엮이는 일은 없을 거야. 약속할게.",
+        "en": "[Eliumina]\nAnyway, I won’t get involved with those idiots anymore. I promise.",
+        "pt": "[Eliumina]\nDe qualquer forma, não voltarei a me envolver com aqueles idiotas. Prometo.",
+        "es": "[Eliumina]\nEn fin, a partir de ahora no volveré a enredarme con esos idiotas. Lo prometo."
     },
     "8PTRBw": {
-        "en": "[Rookie]\nUh, well, this feels a little awkward...\nBut thanks.",
-        "pt": "[Novato]\nAh, e agradeço também pelo seu empenho no Jardim Flutuante, viajante.\nNão é muita coisa, mas eu vou te dar alguns dos meus bilhetes de comida.",
-        "es": "[Principiante]\nUh, bueno, esto se siente un poco incómodo…\nPero gracias."
+        "ko": "[엘류미나]\n그리고 내가 할 수 있는 일이라면 그 녀석들을 잡는데 협조한다.",
+        "en": "[Eliumina]\nAnd if there’s anything I can do, I’ll help you take those guys down.",
+        "pt": "[Eliumina]\nE, no que eu puder ajudar, cooperarei para capturá-los.",
+        "es": "[Eliumina]\nY si es algo que puedo hacer, cooperaré para atrapar a esos tipos."
     },
     "8fTRBw": {
-        "en": "[Rookie]\nOh, and thanks for your hard work in the Floating Garden, adventurer.\nIt's not much, but I'll give you some of my meal tickets.",
-        "pt": "[Novato]\nAjude Sayhue de agora em diante. Vou vir também sempre que eu tiver tempo!",
-        "es": "[Principiante]\nOh, y gracias por tu duro trabajo en el Jardín flotante, trotamundos.\nNo es mucho, pero te daré algunos de mis vales de comida."
+        "ko": "[루키]\n아아, 응. 이런 대화 좀 어색하네…\n하지만 고맙다.",
+        "en": "[Rookie]\nAh, yeah. This kind of conversation is a bit awkward...\nBut thank you.",
+        "pt": "[Rookie]\nAh, sim. Essa conversa é meio estranha…\nMas obrigada.",
+        "es": "[Rookie]\nAh... sí. Esta clase de conversación es un poco incómoda...\nPero gracias."
     },
     "8vTRBw": {
-        "en": "[Rookie]\nPlease help Sayhue from now on. I'll come too whenever I have time!",
-        "pt": "Eu não sou combatente, então vou ficar aqui também. Conto com você, viajante.",
-        "es": "[Principiante]\nAyuda a Sayhue a partir de ahora. ¡Yo también iré cuando tenga tiempo!"
+        "ko": "[루키]\n참, 모험가님도 수상정원에 다녀오시느라 정말 고생하셨어요.\n많지는 않지만 제 식권을 조금 나눠드릴게요. 받아 주시겠어요?",
+        "en": "[Rookie]\nOh, and you really worked hard going to Suspended Garden, Adventurer.\nIt’s not much, but I’ll share some of my meal vouchers with you. Will you take them?",
+        "pt": "[Rookie]\nAh, Aventureiro, você também se esforçou muito indo ao Jardim Suspenso.\nNão é muito, mas vou dividir um pouco dos meus vales-refeição. Pode aceitar?",
+        "es": "[Rookie]\nAh, cierto, aventurero, de verdad te esforzaste mucho al ir y volver del Jardín Suspendido.\nNo es mucho, pero compartiré contigo un poco de mis vales de comida. ¿Los aceptarías?"
     },
     "8/TRBw": {
-        "en": "I'm a non-combatant, so I'll stay, too. Be counting on you, adventurer.",
-        "pt": "Sinto muito por você ter feito tudo sem ajuda. A gente deveria ter ido com você.",
-        "es": "No soy un combatiente, así que también me quedaré. Cuento contigo, trotamundos."
+        "ko": "[루키]\n앞으로 세이휴 씨의 일을 돕는 것도 잘 부탁드려요. 저도 생각날 때 와서 도울 테니까요!",
+        "en": "[Rookie]\nPlease take good care of helping Seiyu from here on out, too. I’ll come by and help when I think of it!",
+        "pt": "[Rookie]\nE, por favor, continue ajudando o Sr. Seiyu. Eu também virei ajudar quando puder!",
+        "es": "[Rookie]\nDe ahora en adelante, te pido que también ayudes bien con el trabajo del señor Seiyu. ¡Yo también vendré a ayudar cuando me acuerde!"
     },
     "9PTRBw": {
-        "en": "I'm sorry we made you work alone. We should've gone in there with you.",
-        "es": "Lamento que te hayamos hecho trabajar sola. Deberíamos haber entrado contigo."
+        "ko": "[엘류미나]\n바르문트의 자동인형들과 대화를 나눠 볼 귀한 기회를 빼앗을 생각이라면 가만 안 둔다!",
+        "en": "[Eliumina]\nIf you mean to take away this precious chance to talk with Varmundt’s automatons, I won’t let you!",
+        "pt": "[Eliumina]\nSe está pensando em me tirar a rara oportunidade de conversar com as bonecas automáticas de Varmundt, não deixarei barato!",
+        "es": "[Eliumina]\n¡Si piensas arrebatarme la valiosa oportunidad de conversar con los autómatas de Varmundt, no me quedaré de brazos cruzados!"
+    },
+    "9fTRBw": {
+        "ko": "레이지: 나는 전투 담당이 아니니까. 그럼 모험가님, 잘 부탁해?",
+        "en": "Leizi: I’m not in charge of combat. Then, Adventurer, I’m counting on you, okay?",
+        "pt": "Leizi: Eu não sou responsável por combate. Então, Aventureiro, conto com você, certo?",
+        "es": "Leizi: Como no estoy a cargo del combate. Entonces, aventurero, ¿cuento contigo?"
+    },
+    "9vTRBw": {
+        "ko": "루키: 혼자 고생하게 해드려서 죄송합니다. 저희도 갔어야 하는데.",
+        "en": "Rookie: I’m sorry for making you struggle on your own. We should have gone too.",
+        "pt": "Rookie: Desculpe por deixá-lo passar por isso sozinho. Nós deveríamos ter ido também.",
+        "es": "Rookie: Lo siento por dejarte sufrir solo. Nosotros también deberíamos haber ido."
     }
 }

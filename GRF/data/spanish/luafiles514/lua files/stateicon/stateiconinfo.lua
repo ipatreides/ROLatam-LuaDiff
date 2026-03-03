@@ -4236,15 +4236,15 @@ StateIconList[EFST_IDs.EFST_AROMA_OIL] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Aceite de aromaterapia",
+			"Aceite Aromático",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Daño físico/mágico -10 %"
+			"Reduce en un 10% el daño físico/mágico recibido de"
 		},
 		{
-			"de monstruos grandes de la mazmorra del Baño de meditación"
+			"los monstruos de la mazmorra Gran Baño Meditatio"
 		}
 	}
 }
@@ -4681,15 +4681,15 @@ StateIconList[EFST_IDs.EFST_BATH_FOAM_C] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Sal de baño C",
+			"Aditivo de Baño C",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Daño físico/mágico +15 %"
+			"Aumenta en un 15% el daño físico/mágico infligido"
 		},
 		{
-			"sobre los monstruos grandes de la mazmorra del Baño de meditación"
+			"a los monstruos de la mazmorra Gran Baño Meditatio"
 		}
 	}
 }
@@ -4698,15 +4698,15 @@ StateIconList[EFST_IDs.EFST_BATH_FOAM_B] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Sal de baño B",
+			"Aditivo de Baño B",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Daño físico/mágico +10 %"
+			"Aumenta en un 10% el daño físico/mágico infligido"
 		},
 		{
-			"sobre los monstruos grandes de la mazmorra del Baño de meditación"
+			"a los monstruos de la mazmorra Gran Baño Meditatio"
 		}
 	}
 }
@@ -4918,15 +4918,15 @@ StateIconList[EFST_IDs.EFST_BATH_FOAM_A] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Sal de baño A",
+			"Aditivo de Baño A",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Daño físico/mágico +5 %"
+			"Aumenta en un 5% el daño físico/mágico infligido"
 		},
 		{
-			"sobre los monstruos grandes de la mazmorra del Baño de meditación"
+			"a los monstruos de la mazmorra Gran Baño Meditatio"
 		}
 	}
 }
@@ -5187,11 +5187,11 @@ StateIconList[EFST_IDs.EFST_GIANTGROWTH] = {
 StateIconList[EFST_IDs.EFST_LOCKON_LASER] = {
 	descript = {
 		{
-			"Selecciona la ubicación del bombardeo",
+			"Configurar punto de bombardeo",
 			COLOR_TITLE_DEBUFF
 		},
 		{
-			"Selecciona periódicamente un lugar de bombardeo."
+			"Crea un punto de ataque de bombardeo a intervalos regulares"
 		}
 	}
 }
@@ -7858,6 +7858,90 @@ StateIconList[EFST_IDs.EFST_OVERSEA_BUFF_31] = {
 		},
 		{
 			"Reduce el Enfriamiento Global"
+		}
+	}
+}
+StateIconList[EFST_IDs.EFST_C_BUFF_3] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 4,
+	descript = {
+		{
+			"Pluma Resistente",
+			COLOR_TITLE_BUFF
+		},
+		{
+			"HP máx. +5%"
+		},
+		{
+			"SP máx. +5%"
+		},
+		{"%s", COLOR_TIME}
+	}
+}
+StateIconList[EFST_IDs.EFST_C_BUFF_4] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 4,
+	descript = {
+		{
+			"Pluma Ligera",
+			COLOR_TITLE_BUFF
+		},
+		{
+			"Evasión +25"
+		},
+		{
+			"Precisión +25"
+		},
+		{"%s", COLOR_TIME}
+	}
+}
+StateIconList[EFST_IDs.EFST_C_BUFF_5] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 4,
+	descript = {
+		{
+			"Pluma Glamurosa",
+			COLOR_TITLE_BUFF
+		},
+		{"CRÍT + 10"},
+		{"VelA + 1"},
+		{"%s", COLOR_TIME}
+	}
+}
+StateIconList[EFST_IDs.EFST_C_BUFF_6] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 4,
+	descript = {
+		{
+			"Pluma Maciza",
+			COLOR_TITLE_BUFF
+		},
+		{
+			"ATQ del arma +7%"
+		},
+		{
+			"Daño Mágico +7%"
+		},
+		{"%s", COLOR_TIME}
+	}
+}
+StateIconList[EFST_IDs.EFST_OVERLAPEXPUP2] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{
+			"Lata de conserva de la Isla Malang2",
+			COLOR_TITLE_BUFF
+		},
+		{"%s", COLOR_TIME},
+		{
+			"Al cazar monstruos"
+		},
+		{
+			"Aumento de EXP, EXP de clase"
+		},
+		{
+			"Aumento de la caída de objetos"
 		}
 	}
 }

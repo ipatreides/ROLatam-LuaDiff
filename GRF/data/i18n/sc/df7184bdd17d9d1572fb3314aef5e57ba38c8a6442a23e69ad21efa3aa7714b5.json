@@ -1863,5 +1863,285 @@
         "en": "[Join the First Season of the Battle Pass]",
         "pt": "[Participe da Primeira Temporada do Passe de Batalha]",
         "es": "[Únete a la Primera Temporada del Pase de Batalla]"
+    },
+    "uyg": {
+        "en": "[Daily Check-In Event - Day 1]",
+        "pt": "[Evento de Login Diário - Dia 1]",
+        "es": "[Evento de Registro Diario - 1 día]"
+    },
+    "vCg": {
+        "en": "[Daily Check-In Event - Day 2]",
+        "pt": "[Evento de Login Diário - Dia 2]",
+        "es": "[Evento de Registro Diario - 2 día]"
+    },
+    "vSg": {
+        "en": "[Daily Check-In Event - Day 3]",
+        "pt": "[Evento de Login Diário - Dia 3]",
+        "es": "[Evento de Registro Diario - 3 día]"
+    },
+    "vig": {
+        "en": "[Daily Check-In Event - Day 4]",
+        "pt": "[Evento de Login Diário - Dia 4]",
+        "es": "[Evento de Registro Diario - 4 día]"
+    },
+    "vyg": {
+        "en": "[Daily Check-In Event - Day 5]",
+        "pt": "[Evento de Login Diário - Dia 5]",
+        "es": "[Evento de Registro Diario - 5 día]"
+    },
+    "wCg": {
+        "en": "[Daily Check-In Event - Day 6]",
+        "pt": "[Evento de Login Diário - Dia 6]",
+        "es": "[Evento de Registro Diario - 6 día]"
+    },
+    "wSg": {
+        "en": "[Daily Check-In Event - Day 7]",
+        "pt": "[Evento de Login Diário - Dia 7]",
+        "es": "[Evento de Registro Diario - 7 día]"
+    },
+    "wig": {
+        "en": "[Daily Check-In Event - Day 8]",
+        "pt": "[Evento de Login Diário - Dia 8]",
+        "es": "[Evento de Registro Diario - 8 día]"
+    },
+    "wyg": {
+        "en": "[Daily Check-In Event - Day 9]",
+        "pt": "[Evento de Login Diário - Dia 9]",
+        "es": "[Evento de Registro Diario - 9 día]"
+    },
+    "xCg": {
+        "en": "[Daily Check-In Event - Day 10]",
+        "pt": "[Evento de Login Diário - Dia 10]",
+        "es": "[Evento de Registro Diario - 10 día]"
+    },
+    "xSg": {
+        "en": "[Daily Check-In Event - Day 11]",
+        "pt": "[Evento de Login Diário - Dia 11]",
+        "es": "[Evento de Registro Diario - 11 día]"
+    },
+    "xig": {
+        "en": "[Daily Check-In Event - Day 12]",
+        "pt": "[Evento de Login Diário - Dia 12]",
+        "es": "[Evento de Registro Diario - 12 día]"
+    },
+    "xyg": {
+        "en": "[Daily Check-In Event - Day 13]",
+        "pt": "[Evento de Login Diário - Dia 13]",
+        "es": "[Evento de Registro Diario - 13 día]"
+    },
+    "yCg": {
+        "en": "[Daily Check-In Event - Day 14]",
+        "pt": "[Evento de Login Diário - Dia 14]",
+        "es": "[Evento de Registro Diario - 14 día]"
+    },
+    "ySg": {
+        "en": "[Daily Check-In Event - Day 15]",
+        "pt": "[Evento de Login Diário - Dia 15]",
+        "es": "[Evento de Registro Diario - 15 día]"
+    },
+    "yig": {
+        "en": "[Daily Check-In Event - Day 16]",
+        "pt": "[Evento de Login Diário - Dia 16]",
+        "es": "[Evento de Registro Diario - 16 día]"
+    },
+    "yyg": {
+        "en": "[Daily Check-In Event - Day 17]",
+        "pt": "[Evento de Login Diário - Dia 17]",
+        "es": "[Evento de Registro Diario - 17 día]"
+    },
+    "zCg": {
+        "en": "[Daily Check-In Event - Day 18]",
+        "pt": "[Evento de Login Diário - Dia 18]",
+        "es": "[Evento de Registro Diario - 18 día]"
+    },
+    "zSg": {
+        "en": "[Daily Check-In Event - Day 19]",
+        "pt": "[Evento de Login Diário - Dia 19]",
+        "es": "[Evento de Registro Diario - 19 día]"
+    },
+    "zig": {
+        "en": "[Daily Check-In Event - Day 20]",
+        "pt": "[Evento de Login Diário - Dia 20]",
+        "es": "[Evento de Registro Diario - 20 día]"
+    },
+    "zyg": {
+        "en": "[Daily Check-In Event - Day 21]",
+        "pt": "[Evento de Login Diário - Dia 21]",
+        "es": "[Evento de Registro Diario - 21 día]"
+    },
+    "0Cg": {
+        "en": "[Daily Check-In Event - Day 22]",
+        "pt": "[Evento de Login Diário - Dia 22]",
+        "es": "[Evento de Registro Diario - 22 día]"
+    },
+    "0Sg": {
+        "en": "[Daily Check-In Event - Day 23]",
+        "pt": "[Evento de Login Diário - Dia 23]",
+        "es": "[Evento de Registro Diario - 23 día]"
+    },
+    "0ig": {
+        "en": "[Daily Check-In Event - Day 24]",
+        "pt": "[Evento de Login Diário - Dia 24]",
+        "es": "[Evento de Registro Diario - 24 día]"
+    },
+    "0yg": {
+        "en": "[Daily Check-In Event - Day 25]",
+        "pt": "[Evento de Login Diário - Dia 25]",
+        "es": "[Evento de Registro Diario - 25 día]"
+    },
+    "1Cg": {
+        "en": "[Daily Check-In Event - Day 26]",
+        "pt": "[Evento de Login Diário - Dia 26]",
+        "es": "[Evento de Registro Diario - 26 día]"
+    },
+    "1Sg": {
+        "en": "[Daily Check-In Event - Day 27]",
+        "pt": "[Evento de Login Diário - Dia 27]",
+        "es": "[Evento de Registro Diario - 27 día]"
+    },
+    "1ig": {
+        "en": "[Daily Check-In Event - Day 28]",
+        "pt": "[Evento de Login Diário - Dia 28]",
+        "es": "[Evento de Registro Diario - 28 día]"
+    },
+    "nyg": {
+        "en": "[Here is the prize for 1 day login on the official web site.]",
+        "pt": "[Segue a premiação pelo login de 1 dia no site oficial.]",
+        "es": "[Aquí está el premio por 1 día de inicio de sesión en el sitio.]"
+    },
+    "oCg": {
+        "en": "[Here is the prize for 2 day login on the official web site.]",
+        "pt": "[Segue a premiação pelo login de 2 dia no site oficial.]",
+        "es": "[Aquí está el premio por 2 día de inicio de sesión en el sitio.]"
+    },
+    "oSg": {
+        "en": "[Here is the prize for 3 day login on the official web site.]",
+        "pt": "[Segue a premiação pelo login de 3 dia no site oficial.]",
+        "es": "[Aquí está el premio por 3 día de inicio de sesión en el sitio.]"
+    },
+    "oig": {
+        "en": "[Here is the prize for 4 day login on the official web site.]",
+        "pt": "[Segue a premiação pelo login de 4 dia no site oficial.]",
+        "es": "[Aquí está el premio por 4 día de inicio de sesión en el sitio.]"
+    },
+    "oyg": {
+        "en": "[Here is the prize for 5 day login on the official web site.]",
+        "pt": "[Segue a premiação pelo login de 5 dia no site oficial.]",
+        "es": "[Aquí está el premio por 5 día de inicio de sesión en el sitio.]"
+    },
+    "pCg": {
+        "en": "[Here is the prize for 6 day login on the official web site.]",
+        "pt": "[Segue a premiação pelo login de 6 dia no site oficial.]",
+        "es": "[Aquí está el premio por 6 día de inicio de sesión en el sitio.]"
+    },
+    "pSg": {
+        "en": "[Here is the prize for 7 day login on the official web site.]",
+        "pt": "[Segue a premiação pelo login de 7 dia no site oficial.]",
+        "es": "[Aquí está el premio por 7 día de inicio de sesión en el sitio.]"
+    },
+    "pig": {
+        "en": "[Here is the prize for 8 day login on the official web site.]",
+        "pt": "[Segue a premiação pelo login de 8 dia no site oficial.]",
+        "es": "[Aquí está el premio por 8 día de inicio de sesión en el sitio.]"
+    },
+    "pyg": {
+        "en": "[Here is the prize for 9 day login on the official web site.]",
+        "pt": "[Segue a premiação pelo login de 9 dia no site oficial.]",
+        "es": "[Aquí está el premio por 9 día de inicio de sesión en el sitio.]"
+    },
+    "qCg": {
+        "en": "[Here is the prize for 10 day login on the official web site.]",
+        "pt": "[Segue a premiação pelo login de 10 dia no site oficial.]",
+        "es": "[Aquí está el premio por 10 día de inicio de sesión en el sitio.]"
+    },
+    "qSg": {
+        "en": "[Here is the prize for 11 day login on the official web site.]",
+        "pt": "[Segue a premiação pelo login de 11 dia no site oficial.]",
+        "es": "[Aquí está el premio por 11 día de inicio de sesión en el sitio.]"
+    },
+    "qig": {
+        "en": "[Here is the prize for 12 day login on the official web site.]",
+        "pt": "[Segue a premiação pelo login de 12 dia no site oficial.]",
+        "es": "[Aquí está el premio por 12 día de inicio de sesión en el sitio.]"
+    },
+    "qyg": {
+        "en": "[Here is the prize for 13 day login on the official web site.]",
+        "pt": "[Segue a premiação pelo login de 13 dia no site oficial.]",
+        "es": "[Aquí está el premio por 13 día de inicio de sesión en el sitio.]"
+    },
+    "rCg": {
+        "en": "[Here is the prize for 14 day login on the official web site.]",
+        "pt": "[Segue a premiação pelo login de 14 dia no site oficial.]",
+        "es": "[Aquí está el premio por 14 día de inicio de sesión en el sitio.]"
+    },
+    "rSg": {
+        "en": "[Here is the prize for 15 day login on the official web site.]",
+        "pt": "[Segue a premiação pelo login de 15 dia no site oficial.]",
+        "es": "[Aquí está el premio por 15 día de inicio de sesión en el sitio.]"
+    },
+    "rig": {
+        "en": "[Here is the prize for 16 day login on the official web site.]",
+        "pt": "[Segue a premiação pelo login de 16 dia no site oficial.]",
+        "es": "[Aquí está el premio por 16 día de inicio de sesión en el sitio.]"
+    },
+    "ryg": {
+        "en": "[Here is the prize for 17 day login on the official web site.]",
+        "pt": "[Segue a premiação pelo login de 17 dia no site oficial.]",
+        "es": "[Aquí está el premio por 17 día de inicio de sesión en el sitio.]"
+    },
+    "sCg": {
+        "en": "[Here is the prize for 18 day login on the official web site.]",
+        "pt": "[Segue a premiação pelo login de 18 dia no site oficial.]",
+        "es": "[Aquí está el premio por 18 día de inicio de sesión en el sitio.]"
+    },
+    "sSg": {
+        "en": "[Here is the prize for 19 day login on the official web site.]",
+        "pt": "[Segue a premiação pelo login de 19 dia no site oficial.]",
+        "es": "[Aquí está el premio por 19 día de inicio de sesión en el sitio.]"
+    },
+    "sig": {
+        "en": "[Here is the prize for 20 day login on the official web site.]",
+        "pt": "[Segue a premiação pelo login de 20 dia no site oficial.]",
+        "es": "[Aquí está el premio por 20 día de inicio de sesión en el sitio.]"
+    },
+    "syg": {
+        "en": "[Here is the prize for 21 day login on the official web site.]",
+        "pt": "[Segue a premiação pelo login de 21 dia no site oficial.]",
+        "es": "[Aquí está el premio por 21 día de inicio de sesión en el sitio.]"
+    },
+    "tCg": {
+        "en": "[Here is the prize for 22 day login on the official web site.]",
+        "pt": "[Segue a premiação pelo login de 22 dia no site oficial.]",
+        "es": "[Aquí está el premio por 22 día de inicio de sesión en el sitio.]"
+    },
+    "tSg": {
+        "en": "[Here is the prize for 23 day login on the official web site.]",
+        "pt": "[Segue a premiação pelo login de 23 dia no site oficial.]",
+        "es": "[Aquí está el premio por 23 día de inicio de sesión en el sitio.]"
+    },
+    "tig": {
+        "en": "[Here is the prize for 24 day login on the official web site.]",
+        "pt": "[Segue a premiação pelo login de 24 dia no site oficial.]",
+        "es": "[Aquí está el premio por 24 día de inicio de sesión en el sitio.]"
+    },
+    "tyg": {
+        "en": "[Here is the prize for 25 day login on the official web site.]",
+        "pt": "[Segue a premiação pelo login de 25 dia no site oficial.]",
+        "es": "[Aquí está el premio por 25 día de inicio de sesión en el sitio.]"
+    },
+    "uCg": {
+        "en": "[Here is the prize for 26 day login on the official web site.]",
+        "pt": "[Segue a premiação pelo login de 26 dia no site oficial.]",
+        "es": "[Aquí está el premio por 26 día de inicio de sesión en el sitio.]"
+    },
+    "uSg": {
+        "en": "[Here is the prize for 27 day login on the official web site.]",
+        "pt": "[Segue a premiação pelo login de 27 dia no site oficial.]",
+        "es": "[Aquí está el premio por 27 día de inicio de sesión en el sitio.]"
+    },
+    "uig": {
+        "en": "[Here is the prize for 28 day login on the official web site.]",
+        "pt": "[Segue a premiação pelo login de 28 dia no site oficial.]",
+        "es": "[Aquí está el premio por 28 día de inicio de sesión en el sitio.]"
     }
 }

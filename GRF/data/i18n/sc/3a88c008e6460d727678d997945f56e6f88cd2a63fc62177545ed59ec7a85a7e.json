@@ -1,0 +1,200 @@
+{
+    "oM28DA": {
+        "ko": "초기화 서비스",
+        "en": "Initialization Service",
+        "pt": "Rezy Tah Dora",
+        "es": "Servicio de Inicialización"
+    },
+    "oc28DA": {
+        "ko": "<부스터 프로모션>",
+        "en": "<Booster Promotion>",
+        "pt": "<Evento de Apoio>",
+        "es": "<Promoción Booster>"
+    },
+    "os28DA": {
+        "ko": "[초기화 서비스]\n안녕하세요, 모험가님.\n부스터 프로모션 대상 모험가님께 초기화 서비스를 해드리고 있습니다.\n아쉽게도 모험가님께서는 부스터 프로모션 대상이 아니시군요.",
+        "en": "[Initialization Service]\nHello, Adventurer.\nWe are providing an initialization service for adventurers who are eligible for the Booster Promotion.\nUnfortunately, you are not eligible for the Booster Promotion.",
+        "pt": "[Rezy Tah Dora]\nOlá, viajante.\nEstamos oferecendo um serviço de reset para participantes do Evento de Apoio.\nInfelizmente, você não está elegível para a Evento de Apoio.",
+        "es": "[Servicio de Inicialización]\nHola, Trotamundos.\nEstamos ofreciendo un servicio de inicialización para Trotamundoss elegibles para la Promoción Booster.\nLamentablemente, no eres elegible para la Promoción Booster."
+    },
+    "o828DA": {
+        "ko": "[초기화 서비스]\n안녕하세요, 모험가님.\n능력치 초기화가 필요하신가요?\n처음 한 번은 무료, 이후로 사용 횟수에 따라 초기화 비용을 받고 있습니다.",
+        "en": "[Initialization Service]\nHello, Adventurer.\nDo you need your stats reset?\nThe first time is free, and subsequent resets require a fee based on the number of uses.",
+        "pt": "[Rezy Tah Dora]\nOlá, viajante.\nVocê precisa resetar seus atributos?\nA primeira vez é gratuita, e os resets subsequentes exigem uma taxa com base no número de usos.",
+        "es": "[Servicio de Inicialización]\nHola, Trotamundos.\n¿Necesitas reiniciar tus estadísticas?\nLa primera vez es gratis, y los reinicios siguientes requieren un costo basado en el número de usos."
+    },
+    "pM28DA": {
+        "ko": "[초기화 서비스]\n안정적인 초기화 진행을 위해서는 ^4D4DFF소지품 무게 500 이하, 탈 것, 팔콘, 카트가 없어야 합니다.^000000\n준비 되셨습니까?",
+        "en": "[Initialization Service]\nTo perform a stable initialization, you must have ^4D4DFFinventory weight below 500, and no mount, falcon, or cart equipped.^000000\nAre you ready?",
+        "pt": "[Rezy Tah Dora]\nPara resetar, você deve ter ^4D4DFFpeso no inventário abaixo de 500, e nenhuma montaria, ave de rapina ou carrinho equipado.^000000\nO que você quer?",
+        "es": "[Servicio de Inicialización]\nPara realizar una inicialización estable, debes tener ^4D4DFFpeso de inventario por debajo de 500, y ninguna montura, halcón o carro equipado.^000000\n¿Estás listo?"
+    },
+    "pc28DA": {
+        "ko": "스태이터스 초기화",
+        "en": "Status Reset",
+        "pt": "Resetar de Atributos",
+        "es": "Reinicio de Estadísticas"
+    },
+    "ps28DA": {
+        "ko": "스킬 초기화",
+        "en": "Skill Reset",
+        "pt": "Resetar de Habilidades",
+        "es": "Reinicio de Habilidades"
+    },
+    "p828DA": {
+        "ko": "정리를 하고 오겠다.",
+        "en": "I'll come back after preparing.",
+        "pt": "Voltarei depois de me preparar.",
+        "es": "Regresaré después de prepararme."
+    },
+    "qM28DA": {
+        "ko": "[초기화 서비스]\n초기화 서비스를 처음 이용하시는군요?\n처음 한 번은 무료로 해드리고 있답니다.",
+        "en": "[Initialization Service]\nIs this your first time using the initialization service?\nThe first time is free of charge.",
+        "pt": "[Rezy Tah Dora]\nÉ a sua primeira vez usando meu serviço?\nA primeira vez é gratuita.",
+        "es": "[Servicio de Inicialización]\n¿Es tu primera vez usando el servicio de inicialización?\nLa primera vez es sin costo."
+    },
+    "qc28DA": {
+        "ko": "[초기화 서비스]\n초기화를 {0}회 받으셨군요?\n이번에 이용하시면 초기화 비용으로 ^4D4DFF{1}^000000 제니를 소모합니다.",
+        "en": "[Initialization Service]\nYou have received a stat reset {0} time(s)?\nIf you use it now, the reset fee will be ^4D4DFF{1}^000000 Zeny.",
+        "pt": "[Rezy Tah Dora]\nVocê já resetou seus atributos {0} vezes.\nSe usar agora, a taxa será de ^4D4DFF{1}^000000 zeny.",
+        "es": "[Servicio de Inicialización]\n¿Has recibido un reinicio de estadísticas {0} vez/veces?\nSi lo usas ahora, el costo de reinicio será de ^4D4DFF{1}^000000 Zeny."
+    },
+    "qs28DA": {
+        "ko": "[초기화 서비스]\n초기화 서비스를 8회 이상 받으셨네요.\n지금부터 횟수에 상관없이 초기화 비용으로 ^4D4DFF{0}^000000 제니를 소모합니다.",
+        "en": "[Initialization Service]\nYou have received the initialization service 8 times or more.\nFrom now on, regardless of the number of times, the reset fee will be ^4D4DFF{0}^000000 Zeny.",
+        "pt": "[Rezy Tah Dora]\nVocê já resetou 8 vezes ou mais.\nA partir de agora, independentemente do número de vezes, a taxa cobrada será de ^4D4DFF{0}^000000 zeny.",
+        "es": "[Servicio de Inicialización]\nHas recibido el servicio de inicialización 8 veces o más.\nDesde ahora, sin importar el número de veces, el costo de reinicio será de ^4D4DFF{0}^000000 Zeny."
+    },
+    "q828DA": {
+        "ko": "능력치(스태이터스)를 초기화 하시겠어요?",
+        "en": "Would you like to reset your status?",
+        "pt": "Resetar seus atributos?",
+        "es": "¿Deseas reiniciar tus estadísticas?"
+    },
+    "rM28DA": {
+        "ko": "스태이터스 초기화를 이용한다.",
+        "en": "Use Status Reset.",
+        "pt": "Resetar Atributos.",
+        "es": "Usar Reinicio de Estadísticas."
+    },
+    "rc28DA": {
+        "ko": "하지 않는다.",
+        "en": "Don't do it.",
+        "pt": "Não fazer nada.",
+        "es": "No hacerlo."
+    },
+    "rs28DA": {
+        "ko": "[초기화 서비스]\n소지품의 무게가 500 을 넘었군요.\n안정적인 초기화 진행을 위해 소지품을 창고에 맡기고 와주세요.",
+        "en": "[Initialization Service]\nYour inventory weight exceeds 500.\nPlease store your items in the warehouse and come back for a stable initialization.",
+        "pt": "[Rezy Tah Dora]\nSeu peso no inventário é maior que 500.\nPor favor, guarde seus itens no armazém e volte para um reset estável.",
+        "es": "[Servicio de Inicialización]\nTu peso de inventario excede 500.\nPor favor, guarda tus artículos en el almacén y regresa para una inicialización estable."
+    },
+    "r828DA": {
+        "ko": "[초기화 서비스]\n탑승 상태로는 초기화를 진행할 수 없답니다.\n탈것에서 내린 다음에 다시 말을 걸어주시겠어요?",
+        "en": "[Initialization Service]\nYou cannot perform initialization while mounted.\nPlease dismount from your mount and speak to me again.",
+        "pt": "[Rezy Tah Dora]\nVocê não pode resetar em uma montaria.\nPor favor, desmonte da sua montaria e fale comigo novamente.",
+        "es": "[Servicio de Inicialización]\nNo puedes realizar la inicialización mientras estés montado.\nPor favor, desmonta de tu montura y háblame nuevamente."
+    },
+    "sM28DA": {
+        "ko": "[초기화 서비스]\n탑승 상태거나, 마도기어, 카트 사용 또는 팔콘 등을 소환한 상태에서는 초기화를 진행할 수 없습니다.\n모두 정리하고 와주세요.",
+        "en": "[Initialization Service]\nInitialization cannot be performed while mounted, using a Mage Gear, using a Cart, or having a Falcon summoned.\nPlease dismiss everything and come back.",
+        "pt": "[Rezy Tah Dora]\nO reset não pode ser feito enquanto estiver em uma montaria, piloando um M.E.C.H.A, usando um Carrinho ou com uma Ave de Rapina invocada.\nPor favor, dispense tudo e volte.",
+        "es": "[Servicio de Inicialización]\nNo se puede realizar la inicialización mientras estés montado, usando un Equipo de Mago, usando un Carro, o teniendo un Halcón invocado.\nPor favor, retíralo todo y regresa."
+    },
+    "sc28DA": {
+        "ko": "[초기화 서비스]\n처음이니 특별히 무료로 해드리겠습니다.\n얍!",
+        "en": "[Initialization Service]\nSince it's your first time, I'll do it for free, as a special service.\nYap!",
+        "pt": "[Rezy Tah Dora]\nComo é a sua primeira vez, farei de graça, como um serviço especial.\nRá!",
+        "es": "[Servicio de Inicialización]\nYa que es tu primera vez, lo haré gratis, como un servicio especial.\n¡Yap!"
+    },
+    "ss28DA": {
+        "ko": "[초기화 서비스]\n다음부터는 비용이 추가되니 능력치를 신중하게 올려주세요.",
+        "en": "[Initialization Service]\nFrom next time onwards, there will be a fee, so please raise your stats carefully.",
+        "pt": "[Rezy Tah Dora]\nA partir da próxima vez, haverá uma taxa, então por favor, escolha seus atributos com cuidado.",
+        "es": "[Servicio de Inicialización]\nA partir de la próxima vez habrá un costo, así que por favor aumenta tus estadísticas con cuidado."
+    },
+    "s828DA": {
+        "ko": "[초기화 서비스]\n모험가님은 초기화 비용으로 {0}z가 필요해요.\n지금 제니가 살짝 부족한 것 같네요.",
+        "en": "[Initialization Service]\nAdventurer, the reset fee is {0} Zeny.\nIt seems you don't have enough Zeny right now.",
+        "pt": "[Rezy Tah Dora]\nViajante, a taxa para resetar é de {0} zeny.\nParece que você não tem zeny suficiente no momento.",
+        "es": "[Servicio de Inicialización]\nTrotamundos, el costo de reinicio es de {0} Zeny.\nParece que no tienes suficiente Zeny en este momento."
+    },
+    "tM28DA": {
+        "ko": "[초기화 서비스]\n그럼 모험가님의 스태이터스를 초기화할게요.\n얍!",
+        "en": "[Initialization Service]\nThen I will reset your status.\nYap!",
+        "pt": "[Rezy Tah Dora]\nEntão vou resetar seus atributos.\nRá!",
+        "es": "[Servicio de Inicialización]\nEntonces reiniciaré tus estadísticas.\n¡Yap!"
+    },
+    "tc28DA": {
+        "ko": "[초기화 서비스]\n초기화가 잘 되었습니다~",
+        "en": "[Initialization Service]\nYour status has been reset successfully~",
+        "pt": "[Rezy Tah Dora]\nSeus atributos foram resetados com sucesso~",
+        "es": "[Servicio de Inicialización]\n¡Tus estadísticas han sido reiniciadas exitosamente~"
+    },
+    "ts28DA": {
+        "ko": "[초기화 서비스]\n그래요. 다음에 필요하면 그때 다시 찾아주세요.",
+        "en": "[Initialization Service]\nOkay. Please come back when you need it next time.",
+        "pt": "[Rezy Tah Dora]\nOk. Por favor, volte quando precisar da próxima vez.",
+        "es": "[Servicio de Inicialización]\nEstá bien. Por favor regresa cuando lo necesites la próxima vez."
+    },
+    "t828DA": {
+        "ko": "[초기화 서비스]\n스킬 초기화 서비스를 처음 이용하시는군요?\n처음 한 번은 무료로 해드리고 있답니다.",
+        "en": "[Initialization Service]\nIs this your first time using the skill reset service?\nThe first time is free of charge.",
+        "pt": "[Rezy Tah Dora]\nÉ a sua primeira vez resetando habilidades?\nA primeira vez é gratuita.",
+        "es": "[Servicio de Inicialización]\n¿Es tu primera vez usando el servicio de reinicio de habilidades?\nLa primera vez es sin costo."
+    },
+    "uM28DA": {
+        "ko": "[초기화 서비스]\n스킬 초기화를 {0}회 받으셨군요?\n이번에 이용하시면 초기화 비용으로 ^4D4DFF{1}^000000 제니를 소모합니다.",
+        "en": "[Initialization Service]\nYou have received a skill reset {0} time(s)?\nIf you use it now, the reset fee will be ^4D4DFF{1}^000000 Zeny.",
+        "pt": "[Rezy Tah Dora]\nVocê já resetou suas habilidades {0} vezes.\nSe usar agora, a taxa será de ^4D4DFF{1}^000000 zeny.",
+        "es": "[Servicio de Inicialización]\n¿Has recibido un reinicio de habilidades {0} vez/veces?\nSi lo usas ahora, el costo de reinicio será de ^4D4DFF{1}^000000 Zeny."
+    },
+    "uc28DA": {
+        "ko": "[초기화 서비스]\n스킬 초기화 서비스를 8회 이상 받으셨네요.\n지금부터 횟수에 상관없이 초기화 비용으로 ^4D4DFF{0}^000000 제니를 소모합니다.",
+        "en": "[Initialization Service]\nYou have received the skill reset service 8 times or more.\nFrom now on, regardless of the number of times, the reset fee will be ^4D4DFF{0}^000000 Zeny.",
+        "pt": "[Rezy Tah Dora]\nVocê já resetou suas habilidades 8 vezes ou mais.\nA partir de agora, independentemente do número de vezes, a taxa será de ^4D4DFF{0}^000000 zeny.",
+        "es": "[Servicio de Inicialización]\nHas recibido el servicio de reinicio de habilidades 8 veces o más.\nDesde ahora, sin importar el número de veces, el costo de reinicio será de ^4D4DFF{0}^000000 Zeny."
+    },
+    "us28DA": {
+        "ko": "스킬을 초기화 하시겠어요?",
+        "en": "Would you like to reset your skills?",
+        "pt": "Resetar suas habilidades?",
+        "es": "¿Deseas reiniciar tus habilidades?"
+    },
+    "u828DA": {
+        "ko": "스킬 초기화를 이용한다.",
+        "en": "Use Skill Reset.",
+        "pt": "Resetar Habilidades.",
+        "es": "Usar Reinicio de Habilidades."
+    },
+    "vM28DA": {
+        "ko": "[초기화 서비스]\n다음부터는 비용이 추가되니 스킬을 신중하게 배워주세요.",
+        "en": "[Initialization Service]\nFrom next time onwards, there will be a fee, so please learn your skills carefully.",
+        "pt": "[Rezy Tah Dora]\nA partir da próxima vez, haverá uma taxa, então por favor, invista nas suas habilidades com cuidado.",
+        "es": "[Servicio de Inicialización]\nA partir de la próxima vez habrá un costo, así que por favor aprende tus habilidades con cuidado."
+    },
+    "vc28DA": {
+        "ko": "[초기화 서비스]\n모험가님은 초기화 비용으로 {0}z가 필요해요.\n지금 제니가 살짝 부족한 것 같네요.",
+        "en": "[Initialization Service]\nAdventurer, the reset fee is {0} Zeny.\nIt seems you don't have enough Zeny right now.",
+        "pt": "[Rezy Tah Dora]\nViajante, a taxa é de {0} zeny.\nParece que você não tem zeny suficiente no momento.",
+        "es": "[Servicio de Inicialización]\nTrotamundos, el costo de reinicio es de {0} Zeny.\nParece que no tienes suficiente Zeny en este momento."
+    },
+    "vs28DA": {
+        "ko": "[초기화 서비스]\n그럼 모험가님의 스킬을 초기화할게요.\n얍!",
+        "en": "[Initialization Service]\nThen I will reset your skills.\nYap!",
+        "pt": "[Rezy Tah Dora]\nEntão vou resetar suas habilidades.\nRá!",
+        "es": "[Servicio de Inicialización]\nEntonces reiniciaré tus habilidades.\n¡Yap!"
+    },
+    "v828DA": {
+        "ko": "[초기화 서비스]\n스킬 초기화가 잘 되었습니다~",
+        "en": "[Initialization Service]\nYour skills have been reset successfully~",
+        "pt": "[Rezy Tah Dora]\nSuas habilidades foram resetadas com sucesso~",
+        "es": "[Servicio de Inicialización]\n¡Tus habilidades han sido reiniciadas exitosamente~"
+    },
+    "wM28DA": {
+        "ko": "[초기화 서비스]\n소지무게, 탈것, 소환수, 카트 등을 정리하고 이용해 주세요.",
+        "en": "[Initialization Service]\nPlease clear your inventory weight, mount, summon, cart, etc. and then use the service.",
+        "pt": "[Rezy Tah Dora]\nPor favor, libere o peso do inventário, montaria, invocação, carrinho, etc. e então venha usar o serviço.",
+        "es": "[Servicio de Inicialización]\nPor favor, libera el peso de tu inventario, montura, invocación, carro, etc. y entonces usa el servicio."
+    }
+}
