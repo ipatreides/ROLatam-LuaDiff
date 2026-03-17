@@ -1,1552 +1,1856 @@
 {
     "YNfoBw": {
-        "en": "Snake",
-        "pt": "Cobra",
-        "es": "Snake"
+        "ko": "여기는 뱀.",
+        "en": "This is Snake.",
+        "pt": "Aqui é a cobra.",
+        "es": "Aquí hay una serpiente."
     },
     "YdfoBw": {
-        "en": "This is snake.",
-        "pt": "Isso é uma cobra.",
-        "es": "Esto es serpiente."
-    },
-    "YtfoBw": {
+        "ko": "실크6",
         "en": "Silk 6",
-        "pt": "Silk 6",
+        "pt": "Seda 6",
         "es": "Seda 6"
     },
+    "YtfoBw": {
+        "ko": "왼쪽 야옹이",
+        "en": "Left Cat",
+        "pt": "Esquerda Gato",
+        "es": "Izquierda Gato"
+    },
     "Y9foBw": {
-        "en": "Left Meow",
-        "pt": "Miau Esquerdo",
-        "es": "Miau izquierdo"
+        "ko": "오른쪽 야옹이",
+        "en": "Right Cat",
+        "pt": "Direita Gato",
+        "es": "Derecha Gato"
     },
     "ZNfoBw": {
-        "en": "Right Meow",
-        "pt": "Miau Direito",
-        "es": "Miau derecho"
+        "ko": "보스 야옹이",
+        "en": "Pitaya Cat",
+        "pt": "Árvore de Pitaya",
+        "es": "Gato Pitaya"
     },
     "ZdfoBw": {
-        "en": "Boss Meow",
-        "pt": "Miau Chefe",
-        "es": "Miau jefe"
+        "ko": "아!! 손님! 여기요!!",
+        "en": "Ah!! Customer! Over here!!",
+        "pt": "Ah!! Cliente! Aqui!!",
+        "es": "¡¡Ah!! ¡Cliente! ¡Por aquí!!"
     },
     "ZtfoBw": {
-        "en": "Ah!! Hey! Over here!!",
-        "pt": "Ah! Ei! Aqui!",
-        "es": "¡Ah! ¡Oye! ¡Por aquí!"
+        "ko": "나무 상자",
+        "en": "Wooden Box",
+        "pt": "Caixa de madeira",
+        "es": "Caja de madera"
     },
     "Z9foBw": {
-        "en": "Wooden Box",
-        "pt": "Caixa de Madeira",
-        "es": "Wooden Box"
+        "ko": "[실크]\n사육장에 오신 것을 환영합니다!\n루이난에게 연락 들었어요!\n저는 수집 담당 실크고요!",
+        "en": "[Silk]\nWelcome to the breeding grounds!\nI heard from Luynan!\nI'm Silk, in charge of collecting!",
+        "pt": "[Seda]\nBem-vindo ao criadouro!\nOuvi falar por Luynan!\nEu sou a Seda, responsável pela coleta!",
+        "es": "[Seda]\n¡Bienvenido al criadero!\n¡Recibí noticias de Luynan!\n¡Soy Seda, encargada de la recolección!"
     },
     "aNfoBw": {
-        "en": "[Silk]\nWelcome to the farm!\nRuinan told me about you!\nI'm Silk, and I'm in charge of collecting!",
-        "pt": "[Silk]\nBoas-vindas à fazenda!\nRuinan me contou sobre você!\nEu sou Silk, e sou responsável pela colheita!",
-        "es": "[Seda]\n¡Bienvenido a la granja!\n¡Ruinan me habló de ti!\nSoy Seda, ¡y me encargo de la recaudación!"
+        "ko": "실크: 사육장에 오신 것을 환영합니다! 저는 수집 담당 실크고요!",
+        "en": "Silk: Welcome to the breeding grounds! I'm Silk, in charge of collecting!",
+        "pt": "Seda: Bem-vindo ao criadouro! Eu sou a Seda, responsável pela coleta!",
+        "es": "Seda: ¡Bienvenido al criadero! ¡Soy Seda, encargada de la recolección!"
     },
     "adfoBw": {
-        "en": "Silk: Welcome to the farm! I'm Silk, and I'm in charge of collecting!",
-        "pt": "Silk: Boas-vindas à fazenda! Eu sou Silk, e sou responsável pela colheita!",
-        "es": "Seda: ¡Bienvenido a la granja! Soy Seda, ¡y me encargo de la recaudación!"
+        "ko": "[실크]\n살려줘요!",
+        "en": "[Silk]\nHelp me!",
+        "pt": "[Seda]\nMe ajude!",
+        "es": "[Seda]\n¡Sálvame!"
     },
     "atfoBw": {
-        "en": "[Silk]\nHelp!",
-        "pt": "[Silk]\nSocorro!",
-        "es": "[Seda]\n¡Ayuda!"
+        "ko": "실크: 살려줘요!",
+        "en": "Silk: Help me!",
+        "pt": "Seda: Me ajude!",
+        "es": "Seda: ¡Sálvame!"
     },
     "a9foBw": {
-        "en": "Silk: Anybody! Help!",
-        "pt": "Silk: Alguém! Socorro!",
-        "es": "Seda: ¡Alguien! ¡Ayuda!"
+        "ko": "[실크]\n손님들 중 대장님하고 이야기할게요!\n모셔와 주세요!",
+        "en": "[Silk]\nI'll talk to the boss among the customers!\nPlease bring them here!",
+        "pt": "[Seda]\nVou falar com o chefe entre os clientes!\nTraga-o até aqui!",
+        "es": "[Seda]\n¡Hablaré con el jefe entre los clientes!\n¡Tráiganlo, por favor!"
     },
     "bNfoBw": {
-        "en": "[Silk]\nI want to talk to the leader of you all!\nPlease let me talk to them!",
-        "pt": "[Silk]\nEu quero falar com o seu líder!\nPor favor, me deixe falar com ele!",
-        "es": "[Seda]\n¡Quiero hablar con el líder de todos ustedes!\n¡Permítanme hablar con él!"
+        "ko": "실크: 피타야들을 진정시켜 주세요!",
+        "en": "Silk: Please calm the Pitayas down!",
+        "pt": "Seda: Por favor, acalme as pitayas!",
+        "es": "Seda: ¡Por favor, tranquilicen a las pitayas!"
     },
     "bdfoBw": {
-        "en": "Silk: Please calm the Pitayas down!",
-        "pt": "Silk: Por favor, acalme as Pitaias!",
-        "es": "Seda: ¡Calma a las Pitayas!"
+        "ko": "손님! 여기요, 여기!!",
+        "en": "Customer! Over here, here!!",
+        "pt": "Cliente! Aqui, aqui!!",
+        "es": "¡Cliente! ¡Por aquí, por aquí!"
     },
     "btfoBw": {
-        "en": "Hey! Over here! Here!!",
-        "pt": "Ei! Aqui! Aqui!",
-        "es": "¡Oye! ¡Por aquí! ¡Aquí!"
+        "ko": "실크",
+        "en": "Silk",
+        "pt": "Seda",
+        "es": "Seda"
     },
     "b9foBw": {
-        "en": "Silk",
-        "pt": "Silk",
-        "es": "Silk"
+        "ko": "[실크]\n헉... 헉...\n살려주셔서 감사해요!\n루이난이 공유한 사항으로는 피타야들은 얌전하다고 했는데!",
+        "en": "[Silk]\nHuff... huff...\nThank you for saving me!\nFrom what Luynan shared, the Pitayas were supposed to be gentle!",
+        "pt": "[Seda]\nOfeg... ofeg...\nObrigada por me salvar!\nPelo que Luynan compartilhou, disseram que as pitayas eram dóceis!",
+        "es": "[Seda]\n¡Jadeo... jadeo...\n¡Gracias por salvarme!\n¡Según lo que compartió Luynan, las pitayas eran dóciles!"
     },
     "cNfoBw": {
-        "en": "[Silk]\nHuff... Huff...\nThank you for saving me!\nAccording to Ruinan, Pitayas were supposed to be docile!",
-        "pt": "[Silk]\nUff... Uff...\nObrigado por me salvar!\nDe acordo com Ruinan, Pitaias deviam ser dóceis!",
-        "es": "[Seda]\nUf... Uf...\n¡Gracias por salvarme!\n¡Según Ruinan, se suponía que las Pitayas eran dóciles!"
+        "ko": "실크: 살려주셔서 감사해요! 루이난이 공유한 사항으로는 피타야들은 얌전하다고 했는데!",
+        "en": "Silk: Thank you for saving me! From what Luynan shared, the Pitayas were supposed to be gentle!",
+        "pt": "Seda: Obrigada por me salvar! Pelo que Luynan compartilhou, disseram que as pitayas eram dóceis!",
+        "es": "Seda: ¡Gracias por salvarme! ¡Según lo que compartió Luynan, las pitayas eran dóciles!"
     },
     "cdfoBw": {
-        "en": "Silk: Thank you for saving me! According to Ruinan, Pitayas were supposed to be docile!",
-        "pt": "Silk: Obrigado por me salvar! De acordo com Ruinan, Pitaias deviam ser dóceis!",
-        "es": "Seda: ¡Gracias por salvarme! ¡Según Ruinan, se suponía que las Pitayas eran dóciles!"
+        "ko": "[실크]\n지금 보셨죠!\n무서워!",
+        "en": "[Silk]\nYou saw it just now!\nI'm scared!",
+        "pt": "[Seda]\nVocê viu agora, não viu!\nQue medo!",
+        "es": "[Seda]\n¡Ya lo vieron, ¿verdad?!\n¡Qué miedo!"
     },
     "ctfoBw": {
-        "en": "[Silk]\nYou saw them, right!?\nThey're mean!",
-        "pt": "[Silk]\nVocê as viu, não é?\nElas são malvadas!",
-        "es": "[Seda]\n¿Las viste, verdad?\n¡Son malvadas!"
+        "ko": "실크: 지금 보셨죠! 무서워!",
+        "en": "Silk: You saw it just now! I'm scared!",
+        "pt": "Seda: Você viu agora, não viu! Que medo!",
+        "es": "Seda: ¡Ya lo vieron, ¿verdad?! ¡Qué miedo!"
     },
     "c9foBw": {
-        "en": "Silk: You saw them, right!? They're mean!",
-        "pt": "Silk: Você as viu, não é? Elas são malvadas!",
-        "es": "Seda: ¿Las viste, verdad? ¡Son malvadas!"
+        "ko": "[실크]\n먹이 주고 안고 5분씩 쓰다듬으라고?\n이부터 드러내고 다가오는데 쟤들을 어떻게 쓰다듬어!",
+        "en": "[Silk]\nFeed them and hold them, and pet them for 5 minutes each?\nThey come at me baring their teeth—how am I supposed to pet them!",
+        "pt": "[Seda]\nDar comida e abraçar, e fazer carinho por 5 minutos?\nEles vêm se aproximando mostrando os dentes, como é que eu vou fazer carinho neles!",
+        "es": "[Seda]\n¿Que les dé de comer, las abrace y las acaricie 5 minutos cada una?\n¡Se me acercan mostrando los colmillos! ¿Cómo se supone que las acaricie?"
     },
     "dNfoBw": {
-        "en": "[Silk]\nI'm supposed to feed, hug, and pet them for 5 minutes?\nHow should I pet them when they bare teeth and charge at me!?",
-        "pt": "[Silk]\nEu tenho que alimentar, abraçar e fazer carinho nelas por 5 minutos?\nComo eu posso fazer carinho se elas rosnam para mim e me atacam?!",
-        "es": "[Seda]\n¿Debo darles de comer, abrazarlos y acariciarlos durante 5 minutos?\n¿Cómo puedo acariciarlos cuando enseñan los dientes y arremeten contra mí?"
+        "ko": "실크: 먹이 주고 안고 5분씩 쓰다듬으라고? 이부터 드러내고 다가오는데 쟤들을 어떻게 쓰다듬어!",
+        "en": "Silk: Feed them, hold them, and pet them for 5 minutes each? They bare their teeth and come at me—how am I supposed to pet them!",
+        "pt": "Seda: Quer que eu dê comida, abrace e faça carinho por 5 minutos? Eles já vêm mostrando os dentes; como é que eu vou fazer carinho neles!",
+        "es": "Seda: ¿Que les dé de comer, los abrace y los acaricie durante 5 minutos? ¡Se acercan mostrando los dientes! ¿Cómo se supone que los acaricie!"
     },
     "ddfoBw": {
-        "en": "Silk: I'm supposed to feed, hug, and pet them for 5 minutes? How should I pet them when they bare teeth and charge at me!?",
-        "pt": "Silk: Eu tenho que alimentar, abraçar e fazer carinho nelas por 5 minutos? Como eu posso fazer carinho se elas rosnam para mim e me atacam?!",
-        "es": "Seda: ¿Debo darles de comer, abrazarlos y acariciarlos durante 5 minutos? ¿Cómo puedo acariciarlos cuando enseñan los dientes y arremeten contra mí?"
+        "ko": "[실크]\n5분은 또 뭐야!",
+        "en": "[Silk]\nWhat is this 5 minutes thing, anyway!",
+        "pt": "[Seda]\nE esses 5 minutos, o que é isso?!",
+        "es": "[Seda]\n¡¿Y qué es eso de 5 minutos?!"
     },
     "dtfoBw": {
-        "en": "[Silk]\nAnd 5 minutes are too long!",
-        "pt": "[Silk]\nE 5 minutos é tempo demais!",
-        "es": "[Seda]\n¡Y 5 minutos son demasiado tiempo!"
+        "ko": "실크: 5분은 또 뭐야!",
+        "en": "Silk: What is this 5 minutes thing, anyway!",
+        "pt": "Seda: E esses 5 minutos, o que é isso?!",
+        "es": "Seda: ¡¿Y qué es eso de 5 minutos?!"
     },
     "d9foBw": {
-        "en": "Silk: And 5 minutes are too long!",
-        "pt": "Silk: E 5 minutos é tempo demais!",
-        "es": "Seda: ¡Y 5 minutos son demasiado tiempo!"
+        "ko": "[실크]\n...",
+        "en": "[Silk]\n...",
+        "pt": "[Seda]\n...",
+        "es": "[Seda]\n..."
     },
     "eNfoBw": {
-        "en": "[Silk]\n...",
-        "pt": "[Silk]\n...",
-        "es": "[Seda]\n…"
-    },
-    "edfoBw": {
+        "ko": "실크: ...",
         "en": "Silk: ...",
-        "pt": "Silk: ...",
+        "pt": "Seda: ...",
         "es": "Seda: ..."
     },
+    "edfoBw": {
+        "ko": "[실크]\n손니임...",
+        "en": "[Silk]\nMaaaster...",
+        "pt": "[Seda]\nSe-se-nhor...",
+        "es": "[Seda]\nSeñoorr..."
+    },
     "etfoBw": {
-        "en": "[Silk]\nErm...",
-        "pt": "[Silk]\nHum...",
-        "es": "[Seda]\nMmm…"
+        "ko": "실크: 손니임...",
+        "en": "Silk: Maaaster...",
+        "pt": "Seda: Se-se-nhor...",
+        "es": "Seda: Señoorr..."
     },
     "e9foBw": {
-        "en": "Silk: Erm...",
-        "pt": "Silk: Hum...",
-        "es": "Seda: Mmm…"
+        "ko": "[실크]\n루이난이 수확을 빨리 못 한다고 일손을 늘려 달라고 요청한 이유는 알았네요.",
+        "en": "[Silk]\nNow I understand why Luynan asked for more hands, saying the harvest is too slow.",
+        "pt": "[Seda]\nAgora entendi por que Luynan pediu para aumentar a mão de obra, dizendo que não consegue colher rápido.",
+        "es": "[Seda]\nAhora entiendo por qué Luynan pidió que aumentaran la mano de obra, diciendo que no podía cosechar rápido."
     },
     "fNfoBw": {
-        "en": "[Silk]\nI now know why Ruinan requested more hands for harvesting.",
-        "pt": "[Silk]\nAgora eu sei por que o Ruinan pediu mais pessoas para a colheita.",
-        "es": "[Seda]\nAhora sé por qué Ruinan pidió más manos para la cosecha."
+        "ko": "실크: 루이난이 수확을 빨리 못 한다고 일손을 늘려 달라고 요청한 이유는 알았네요.",
+        "en": "Silk: Now I understand why Luynan asked for more hands, saying the harvest is too slow.",
+        "pt": "Seda: Agora entendi por que Luynan pediu para aumentar a mão de obra, dizendo que não consegue colher rápido.",
+        "es": "Seda: Ahora entiendo por qué Luynan pidió que aumentaran la mano de obra, diciendo que no podía cosechar rápido."
     },
     "fdfoBw": {
-        "en": "Silk: I now know why Ruinan requested more hands for harvesting.",
-        "pt": "Silk: Agora eu sei por que o Ruinan pediu mais pessoas para a colheita.",
-        "es": "Seda: Ahora sé por qué Ruinan pidió más manos para la cosecha."
+        "ko": "[실크]\n하지만 어떻게든 붙잡아서 5분씩 쓰다듬어 주는 것보다 방금처럼 놀아주는 게 더 빠를 것 같아요.",
+        "en": "[Silk]\nBut rather than somehow grabbing them and petting them for 5 minutes each, I think playing with them like just now will be faster.",
+        "pt": "[Seda]\nMas acho que brincar com eles, como agora, vai ser mais rápido do que tentar segurá-los de algum jeito e fazer carinho por 5 minutos.",
+        "es": "[Seda]\nPero creo que será más rápido jugar con ellos como recién, que intentar sujetarlos y acariciarlos durante 5 minutos."
     },
     "ftfoBw": {
-        "en": "[Silk]\nI guess playing with them as we did just now would be faster than trying to catch and pet each of them for 5 minutes.",
-        "pt": "[Silk]\nEu acho que brincar com elas como a gente acabou de fazer seria mais rápido que tentar pegar e fazer carinho em cada uma delas por 5 minutos.",
-        "es": "[Seda]\nSupongo que jugar con ellos como acabamos de hacer sería más rápido que intentar coger y acariciar a cada uno de ellos durante 5 minutos."
+        "ko": "실크: 하지만 어떻게든 붙잡아서 5분씩 쓰다듬어 주는 것보다 방금처럼 놀아주는 게 더 빠를 것 같아요.",
+        "en": "Silk: But rather than somehow grabbing them and petting them for 5 minutes each, I think playing with them like just now will be faster.",
+        "pt": "Seda: Mas acho que brincar com eles, como agora, vai ser mais rápido do que tentar segurá-los de algum jeito e fazer carinho por 5 minutos.",
+        "es": "Seda: Pero creo que será más rápido jugar con ellos como recién, que intentar sujetarlos y acariciarlos durante 5 minutos."
     },
     "f9foBw": {
-        "en": "Silk: I guess playing with them as we did just now would be faster than trying to catch and pet each of them for 5 minutes.",
-        "pt": "Silk: Eu acho que brincar com elas como a gente acabou de fazer seria mais rápido que tentar pegar e fazer carinho em cada uma delas por 5 minutos.",
-        "es": "Seda: Supongo que jugar con ellos como acabamos de hacer sería más rápido que intentar coger y acariciar a cada uno de ellos durante 5 minutos."
+        "ko": "[실크]\n...붙잡을 수도 없지만.",
+        "en": "[Silk]\n...Not that I can even grab them.",
+        "pt": "[Seda]\n...Embora eu nem consiga segurá-los.",
+        "es": "[Seda]\n...aunque tampoco puedo sujetarlos."
     },
     "gNfoBw": {
-        "en": "[Silk]\nThey don't seem catchable anyway.",
-        "pt": "[Silk]\nDe qualquer maneira, elas não parecem fáceis de pegar.",
-        "es": "[Seda]\nDe todos modos, no parece que se puedan atrapar."
+        "ko": "실크: ...붙잡을 수도 없지만.",
+        "en": "Silk: ...Not that I can even grab them.",
+        "pt": "Seda: ...Embora eu nem consiga segurá-los.",
+        "es": "Seda: ...aunque tampoco puedo sujetarlos."
     },
     "gdfoBw": {
-        "en": "Silk: They don't seem catchable anyway.",
-        "pt": "Silk: De qualquer maneira, elas não parecem fáceis de pegar.",
-        "es": "Seda: De todos modos, no parece que se puedan atrapar."
+        "ko": "[실크]\n여기서 이럴 게 아니라 일단 다음 서식지로 이동하기로 해요.\n준비되셨죠? 갑니다!",
+        "en": "[Silk]\nInstead of doing this here, let's move to the next habitat first.\nYou're ready, right? Here we go!",
+        "pt": "[Seda]\nEm vez de ficar fazendo isso aqui, vamos primeiro nos mover para o próximo habitat.\nEstá pronto? Vamos!",
+        "es": "[Seda]\nEn vez de hacer esto aquí, primero decidamos movernos al siguiente hábitat.\n¿Están listos? ¡Vamos!"
     },
     "gtfoBw": {
-        "en": "[Silk]\nNo time to lose here! Let's move on to the next habitat.\nAre you ready? Here we go!",
-        "pt": "[Silk]\nNão temos tempo a perder! Vamos seguir para o próximo habitat.\nVocê está pronto? Aqui vamos nós!",
-        "es": "[Seda]\n¡No hay tiempo que perder! Pasemos al siguiente háabitat.\n¿Tienes todo listo? ¡Allá vamos!"
+        "ko": "실크: 여기서 이럴 게 아니라 일단 다음 서식지로 이동하기로 해요. 준비되셨죠? 갑니다!",
+        "en": "Silk: Instead of doing this here, let's move to the next habitat first. You're ready, right? Here we go!",
+        "pt": "Seda: Em vez de ficar fazendo isso aqui, vamos primeiro nos mover para o próximo habitat. Está pronto? Vamos!",
+        "es": "Seda: En vez de hacer esto aquí, primero decidamos movernos al siguiente hábitat. ¿Están listos? ¡Vamos!"
     },
     "g9foBw": {
-        "en": "Silk: No time to lose here! Let's move on to the next habitat. Are you ready? Here we go!",
-        "pt": "Silk: Não temos tempo a perder! Vamos seguir para o próximo habitat. Você está pronto? Aqui vamos nós!",
-        "es": "Seda: ¡No hay tiempo que perder! Pasemos al siguiente háabitat. ¿Tienes todo listo? ¡Allá vamos!"
-    },
-    "hNfoBw": {
+        "ko": "해피",
         "en": "Happy",
         "pt": "Happy",
         "es": "Happy"
     },
-    "hdfoBw": {
-        "en": "Bigeye",
-        "pt": "Bigeye",
-        "es": "Bigeye"
+    "hNfoBw": {
+        "ko": "왕눈이",
+        "en": "Peeping",
+        "pt": "Olhudo",
+        "es": "Curioso"
     },
-    "htfoBw": {
+    "hdfoBw": {
+        "ko": "토토",
         "en": "Toto",
         "pt": "Toto",
         "es": "Toto"
     },
-    "h9foBw": {
-        "en": "Lightning",
-        "pt": "Lightning",
-        "es": "Lightning"
+    "htfoBw": {
+        "ko": "번개",
+        "en": "Thunder",
+        "pt": "Trovão",
+        "es": "Trueno"
     },
-    "iNfoBw": {
+    "h9foBw": {
+        "ko": "깜찍이",
         "en": "Cutie",
         "pt": "Cutie",
         "es": "Cutie"
     },
+    "iNfoBw": {
+        "ko": "우디",
+        "en": "Woody",
+        "pt": "Woody",
+        "es": "Woody"
+    },
     "idfoBw": {
-        "en": "Woodie",
-        "pt": "Woodie",
-        "es": "Woodie"
+        "ko": "러스크",
+        "en": "Lusk",
+        "pt": "Lusk",
+        "es": "Lusk"
     },
     "itfoBw": {
-        "en": "Rusk",
-        "pt": "Rusk",
-        "es": "Rusk"
+        "ko": "실크: !!",
+        "en": "Silk: !!",
+        "pt": "Seda: !!",
+        "es": "Seda: !!"
     },
     "i9foBw": {
-        "en": "Silk: !!",
-        "pt": "Silk: !!",
-        "es": "Seda:¡¡ !!"
+        "ko": "[실크]\n이 시설은... 보시는 바와 같이 피부가 비늘로 된 친구들이 살기 편한 사육장이에요.",
+        "en": "[Silk]\nThis facility is... as you can see, a breeding pen where friends with scaly skin can live comfortably.",
+        "pt": "[Seda]\nEsta instalação é... como pode ver, um criadouro onde os amigos de pele escamosa conseguem viver com mais conforto.",
+        "es": "[Seda]\nEstas instalaciones son... como puedes ver, un criadero en el que los amigos de piel escamosa pueden vivir cómodamente."
     },
     "jNfoBw": {
-        "en": "[Silk]\nAs you can see, this facility is a farm for scaly buddies.",
-        "pt": "[Silk]\nComo pode ver, esta instalação é uma fazenda para amigos escamosos.",
-        "es": "[Seda]\nComo puede ver, esta instalación es una granja de compañeros escamosos."
+        "ko": "실크: 이 시설은... 보시는 바와 같이 피부가 비늘로 된 친구들이 살기 편한 사육장이에요.",
+        "en": "Silk: This facility is... as you can see, a breeding pen where friends with scaly skin can live comfortably.",
+        "pt": "Seda: Esta instalação é... como pode ver, um criadouro onde os amigos de pele escamosa conseguem viver com mais conforto.",
+        "es": "Seda: Estas instalaciones son... como puedes ver, un criadero en el que los amigos de piel escamosa pueden vivir cómodamente."
     },
     "jdfoBw": {
-        "en": "Silk: As you can see, this facility is a farm for scaly buddies.",
-        "pt": "Silk: Como pode ver, esta instalação é uma fazenda para amigos escamosos.",
-        "es": "Seda: Como puede ver, esta instalación es una granja de compañeros escamosos."
+        "ko": "[실크]\n식물이건 동물이건 말이죠.\n온도와 습도가 항상 일정하게 유지되고 있어요.",
+        "en": "[Silk]\nWhether plant or animal.\nThe temperature and humidity are always kept constant.",
+        "pt": "[Seda]\nSeja planta ou animal.\nA temperatura e a umidade são sempre mantidas constantes.",
+        "es": "[Seda]\nYa sean plantas o animales.\nLa temperatura y la humedad se mantienen siempre constantes."
     },
     "jtfoBw": {
-        "en": "[Silk]\nPlants and animals can live here as long as they're scaly.\nThe temperature and humidity here are always kept constant.",
-        "pt": "[Silk]\nPlantas e animais podem viver aqui contanto que tenham escamas.\nA temperatura e a umidade aqui são sempre constantes.",
-        "es": "[Seda]\nPlantas y animales pueden vivir aquí siempre que sean escamosos.\nAquí la temperatura y la humedad se mantienen siempre constantes."
+        "ko": "실크: 식물이건 동물이건 말이죠. 온도와 습도가 항상 일정하게 유지되고 있어요.",
+        "en": "Silk: Whether plant or animal. The temperature and humidity are always kept constant.",
+        "pt": "Seda: Seja planta ou animal. A temperatura e a umidade são sempre mantidas constantes.",
+        "es": "Seda: Ya sean plantas o animales. La temperatura y la humedad se mantienen siempre constantes."
     },
     "j9foBw": {
-        "en": "Silk: Plants and animals can live here as long as they're scaly. The temperature and humidity here are always kept constant.",
-        "pt": "Silk: Plantas e animais podem viver aqui contanto que tenham escamas. A temperatura e a umidade aqui são sempre constantes.",
-        "es": "Seda: Plantas y animales pueden vivir aquí siempre que sean escamosos. Aquí la temperatura y la humedad se mantienen siempre constantes."
+        "ko": "[실크]\n사람에게는 쾌적하지 못하다고 들었는데 숨쉬기는 좀 어떠세요?",
+        "en": "[Silk]\nI heard it is not comfortable for humans, but how is it to breathe?",
+        "pt": "[Seda]\nOuvi dizer que não é confortável para humanos, mas como está para respirar?",
+        "es": "[Seda]\nHe oído que para los humanos no es muy agradable, pero ¿qué tal te va para respirar?"
     },
     "kNfoBw": {
-        "en": "[Silk]\nI heard this place isn't very pleasant for humans. Can you breathe well?",
-        "pt": "[Silk]\nEu ouvi que esse lugar não é muito agradável para humanos. Você consegue respirar bem?",
-        "es": "[Seda]\nHe oído que este lugar no es muy agradable para los humanos. ¿Puedes respirar bien?"
+        "ko": "실크: 사람에게는 쾌적하지 못하다고 들었는데 숨쉬기는 좀 어떠세요?",
+        "en": "Silk: I heard it is not comfortable for humans, but how is it to breathe?",
+        "pt": "Seda: Ouvi dizer que não é confortável para humanos, mas como está para respirar?",
+        "es": "Seda: He oído que para los humanos no es muy agradable, pero ¿qué tal te va para respirar?"
     },
     "kdfoBw": {
-        "en": "Silk: I heard this place isn't very pleasant for humans. Can you breathe well?",
-        "pt": "Silk: Eu ouvi que esse lugar não é muito agradável para humanos. Você consegue respirar bem?",
-        "es": "Seda: He oído que este lugar no es muy agradable para los humanos. ¿Puedes respirar bien?"
+        "ko": "[실크]\n그럼 이제 여기도 먹이를 뿌려 볼게요. 빨리 끝내고... 나가자구요.",
+        "en": "[Silk]\nThen I will scatter feed here as well. Let us finish quickly... and get out.",
+        "pt": "[Seda]\nEntão agora vou espalhar comida aqui também. Vamos terminar logo... e sair daqui.",
+        "es": "[Seda]\nEntonces, ahora también voy a esparcir comida aquí. Terminemos rápido... y salgamos."
     },
     "ktfoBw": {
-        "en": "[Silk]\nI'll scatter the food now. Let's get this over with and get out.",
-        "pt": "[Silk]\nEu vou jogar a comida agora. Vamos acabar logo com isso e sair daqui.",
-        "es": "[Seda]\nVoy a esparcir la comida ahora. Acabemos con esto de una vez."
+        "ko": "실크: 그럼 이제 여기도 먹이를 뿌려 볼게요. 빨리 끝내고... 나가자구요.",
+        "en": "Silk: Then I will scatter feed here as well. Let us finish quickly... and get out.",
+        "pt": "Seda: Então agora vou espalhar comida aqui também. Vamos terminar logo... e sair daqui.",
+        "es": "Seda: Entonces, ahora también voy a esparcir comida aquí. Terminemos rápido... y salgamos."
     },
     "k9foBw": {
-        "en": "Silk: I'll scatter the food now. Let's get this over with and get out.",
-        "pt": "Silk: Eu vou jogar a comida agora. Vamos acabar logo com isso e sair daqui.",
-        "es": "Seda: Voy a esparcir la comida ahora. Acabemos con esto de una vez."
+        "ko": "[실크]\n네? 자동인형도 공포를 느끼냐고요? 소멸에 대한 공포는 사고를 할 수 있는 존재라면 누구나 가지지 않을까요?",
+        "en": "[Silk]\nWhat? You are asking if automata can feel fear? Would not anyone capable of thought have a fear of being erased?",
+        "pt": "[Seda]\nHã? Se até bonecos automáticos sentem medo? O medo da aniquilação não é algo que qualquer ser capaz de pensar teria?",
+        "es": "[Seda]\n¿Qué? ¿Que si los autómatas también sienten miedo? El miedo a la desaparición, si uno es un ser capaz de pensar, ¿no lo tiene cualquiera?"
     },
     "lNfoBw": {
-        "en": "[Silk]\nWhat? Are you curious if robots feel fear too? I assume every being fears extinction as long as they can think.",
-        "pt": "[Silk]\nO quê? Você quer saber se robôs sentem medo também? Eu acho que todos seres temem a extinção, contanto que consigam pensar.",
-        "es": "[Seda]\n¿Qué? ¿Tiene curiosidad por saber si los robots también sienten miedo? Supongo que todo ser teme la extinción mientras pueda pensar."
+        "ko": "[실크]\n얘... 얘들아, 바, 밥 시간이다아~",
+        "en": "[Silk]\nH-Hey... you guys, i-it is mealtime~",
+        "pt": "[Seda]\nEi... ei, pessoal, é, é hora da comidinhaa~",
+        "es": "[Seda]\nE-eh... chicos, e-es la hora de comeeer~"
     },
     "ldfoBw": {
-        "en": "[Silk]\nH-hey, g-guys? M-meal time!",
-        "pt": "[Silk]\nE-Ei, p-pessoal? H-Hora de comer!",
-        "es": "[Seda]\n¡Ey, chicos! ¡Hora de comer!"
+        "ko": "실크: 얘... 얘들아, 바, 밥 시간이다아~",
+        "en": "Silk: H-Hey... you guys, i-it is mealtime~",
+        "pt": "Seda: Ei... ei, pessoal, é, é hora da comidinhaa~",
+        "es": "Seda: E-eh... chicos, e-es la hora de comeeer~"
     },
     "ltfoBw": {
-        "en": "Silk: H-hey, g-guys? M-meal time!",
-        "pt": "Silk: E-Ei, p-pessoal? H-Hora de comer!",
-        "es": "Seda: ¡Ey, chicos! ¡Hora de comer!"
+        "ko": "[실크]\n하아, 하아...\n너무 무서웠어요...",
+        "en": "[Silk]\nHuff, huff...\nThat was so scary...",
+        "pt": "[Seda]\nHaa, haa...\nFoi assustador demais...",
+        "es": "[Seda]\nJadeo, jadeo...\nMe dio muchísimo miedo..."
     },
     "l9foBw": {
-        "en": "[Silk]\nHuff... Huff...\nIt was horrifying...",
-        "pt": "[Silk]\nUff... Uff...\nFoi horrível...",
-        "es": "[Seda]\nUf... Uf...\nFue horrible..."
+        "ko": "실크: 하아, 하아... 너무 무서웠어요...",
+        "en": "Silk: Huff, huff... That was so scary...",
+        "pt": "Seda: Haa, haa... Foi assustador demais...",
+        "es": "Seda: Jadeo, jadeo... Me dio muchísimo miedo..."
     },
     "mNfoBw": {
-        "en": "Silk: Huff... Huff... It was horrifying...",
-        "pt": "Silk: Uff... Uff... Foi horrível...",
-        "es": "Seda: Uf... Uf... Fue horrible..."
+        "ko": "[{0}]\n지금 제대로 놀아주고 있는 게 맞아?",
+        "en": "[{0}]\nAre we really playing with them properly?",
+        "pt": "[{0}]\nEu estou mesmo brincando direito com eles agora?",
+        "es": "[{0}]\n¿De verdad es esto jugar bien con ellos?"
     },
     "mdfoBw": {
-        "en": "[{}]\nIs this the correct way to play with them?",
-        "pt": "[{}]\nEsse é o jeito certo de brincar com elas?",
-        "es": "[{}]\n¿Es ésta la forma correcta de jugar con ellos?"
+        "ko": "지금 제대로 놀아주고 있는 게 맞아?",
+        "en": "Are we really playing with them properly?",
+        "pt": "Eu estou mesmo brincando direito com eles agora?",
+        "es": "¿De verdad es esto jugar bien con ellos?"
     },
     "mtfoBw": {
-        "en": "Is this the correct way to play with them?",
-        "pt": "Esse é o jeito certo de brincar com elas?",
-        "es": "¿Es ésta la forma correcta de jugar con ellos?"
+        "ko": "[실크]\n쟤네들에게는 맞는 것 같아요.\n기분이 좋아야 꼬리를 나눠준다고 그랬으니까...",
+        "en": "[Silk]\nI think it works for them.\nThey said they will only share their tails if they are in a good mood...",
+        "pt": "[Seda]\nAcho que para eles está certo.\nDisseram que só dividem a cauda quando estão de bom humor...",
+        "es": "[Seda]\nParece que para ellos sí.\nDijeron que solo comparten sus colas si están de buen humor..."
     },
     "m9foBw": {
-        "en": "[Silk]\nIt seems so, at least to them.\nRuinan said they give out their tails only when they feel good.",
-        "pt": "[Silk]\nParece que sim, pelo menos para elas.\nRuinan disse que elas só dão suas caudas quando estão se sentindo bem.",
-        "es": "[Seda]\nEso parece, al menos para ellos.\nRuinan dijo que solo sueltan la cola cuando se sienten bien."
+        "ko": "실크: 쟤네들에게는 맞는 것 같아요. 기분이 좋아야 꼬리를 나눠준다고 그랬으니까...",
+        "en": "Silk: I think it works for them. They said they will only share their tails if they are in a good mood...",
+        "pt": "Seda: Acho que para eles está certo. Disseram que só dividem a cauda quando estão de bom humor...",
+        "es": "Seda: Parece que para ellos sí. Dijeron que solo comparten sus colas si están de buen humor..."
     },
     "nNfoBw": {
-        "en": "Silk: It seems so, at least to them. Ruinan said they give out their tails only when they feel good.",
-        "pt": "Silk: Parece que sim, pelo menos para elas. Ruinan disse que elas só dão suas caudas quando estão se sentindo bem.",
-        "es": "Seda: Eso parece, al menos para ellos. Ruinan dijo que solo sueltan la cola cuando se sienten bien."
+        "ko": "[실크]\n그나저나 다음 장소로 이동을 하실까요...? 일이 아직 끝나지 않아서...",
+        "en": "[Silk]\nShall we move on to the next place...? The work still isn't finished...",
+        "pt": "[Seda]\nA propósito, vamos nos mover para o próximo lugar...? O trabalho ainda não acabou...",
+        "es": "[Seda]\nPor cierto, ¿nos trasladamos al siguiente lugar...? Aún no hemos terminado el trabajo..."
     },
     "ndfoBw": {
-        "en": "[Silk]\nSo, shall we move on to the next spot? The task is not finished yet...",
-        "pt": "[Silk]\nEntão, devemos ir para o próximo local? Ainda não terminamos a tarefa...",
-        "es": "[Seda]\nEntonces, ¿pasamos al siguiente punto? La tarea aún no ha terminado..."
+        "ko": "실크: 그나저나 다음 장소로 이동을 하실까요...? 일이 아직 끝나지 않아서...",
+        "en": "Silk: Shall we move on to the next place...? The work still isn't finished...",
+        "pt": "Seda: A propósito, vamos nos mover para o próximo lugar...? O trabalho ainda não acabou...",
+        "es": "Seda: Por cierto, ¿nos trasladamos al siguiente lugar...? Aún no hemos terminado el trabajo..."
     },
     "ntfoBw": {
-        "en": "Silk: So, shall we move on to the next spot? The task is not finished yet...",
-        "pt": "Silk: Então, devemos ir para o próximo local? Ainda não terminamos a tarefa...",
-        "es": "Seda: Entonces, ¿pasamos al siguiente punto? La tarea aún no ha terminado..."
+        "ko": "[실크]\n다음은 바위랑 모래가 있는 놀이터예요. 수확하면 모래부터 털어야겠네요...",
+        "en": "[Silk]\nNext is a playground with rocks and sand. If we harvest, we should dust off the sand first...",
+        "pt": "[Seda]\nO próximo é um parquinho com pedras e areia. Quando colhermos, vamos ter que tirar a areia primeiro...",
+        "es": "[Seda]\nLo siguiente es un patio de juegos con rocas y arena. Cuando recojamos, habrá que sacudir primero la arena..."
     },
     "n9foBw": {
-        "en": "[Silk]\nNext is a playground with rocks and sand. The first thing we should do after harvesting is to dust off the sand...",
-        "pt": "[Silk]\nO próximo playground é com pedras e areia. A primeira coisa que devemos fazer depois da colheita é limpar a areia...",
-        "es": "[Seda]\nA continuación hay un parque infantil con rocas y arena. Lo primero que debemos hacer tras la cosecha es quitar el polvo de la arena..."
+        "ko": "실크: 다음은 바위랑 모래가 있는 놀이터예요. 수확하면 모래부터 털어야겠네요...",
+        "en": "Silk: Next is a playground with rocks and sand. If we harvest, we should dust off the sand first...",
+        "pt": "Seda: O próximo é um parquinho com pedras e areia. Quando colhermos, vamos ter que tirar a areia primeiro...",
+        "es": "Seda: Lo siguiente es un patio de juegos con rocas y arena. Cuando recojamos, habrá que sacudir primero la arena..."
     },
     "oNfoBw": {
-        "en": "Silk: Next is a playground with rocks and sand. The first thing we should do after harvesting is to dust off the sand...",
-        "pt": "Silk: O próximo playground é com pedras e areia. A primeira coisa que devemos fazer depois da colheita é limpar a areia...",
-        "es": "Seda: A continuación hay un parque infantil con rocas y arena. Lo primero que debemos hacer tras la cosecha es quitar el polvo de la arena..."
-    },
-    "odfoBw": {
+        "ko": "루시",
         "en": "Lucy",
         "pt": "Lucy",
         "es": "Lucy"
     },
-    "otfoBw": {
+    "odfoBw": {
+        "ko": "엘리자베스",
         "en": "Elizabeth",
         "pt": "Elizabeth",
         "es": "Elizabeth"
     },
-    "o9foBw": {
+    "otfoBw": {
+        "ko": "도로시",
         "en": "Dorothy",
         "pt": "Dorothy",
         "es": "Dorothy"
     },
-    "pNfoBw": {
+    "o9foBw": {
+        "ko": "클라라",
         "en": "Clara",
         "pt": "Clara",
         "es": "Clara"
     },
+    "pNfoBw": {
+        "ko": "코코",
+        "en": "Coco",
+        "pt": "Belinha",
+        "es": "Coco"
+    },
     "pdfoBw": {
-        "en": "Koko",
-        "pt": "Koko",
-        "es": "Koko"
+        "ko": "구름",
+        "en": "Cloud",
+        "pt": "Nuvem",
+        "es": "Nube"
     },
     "ptfoBw": {
-        "en": "Cloud",
-        "pt": "Cloud",
-        "es": "Cloud"
-    },
-    "p9foBw": {
+        "ko": "하모니",
         "en": "Harmony",
         "pt": "Harmony",
         "es": "Harmony"
     },
+    "p9foBw": {
+        "ko": "실크: ...끝났어요?",
+        "en": "Silk: ...Is it over?",
+        "pt": "Seda: ...Terminou?",
+        "es": "Seda: ...¿Ya terminó?"
+    },
     "qNfoBw": {
-        "en": "Silk: Is it done...?",
-        "pt": "Silk: Terminou?",
-        "es": "Seda: ¿Listo?"
+        "ko": "실크: 아직 {0}마리 남았어요!",
+        "en": "Silk: There are still {0} left!",
+        "pt": "Seda: Ainda faltam {0}!",
+        "es": "Seda: ¡Aún quedan {0} monstruos!"
     },
     "qdfoBw": {
-        "en": "Silk: Still {} of them left!",
-        "pt": "Silk: Ainda faltam {}!",
-        "es": "Seda: ¡Aún quedan {}!"
+        "ko": "실크: 먹이를 뿌렸으니 곧 나타날 거예요!",
+        "en": "Silk: I scattered the feed, so they should show up soon!",
+        "pt": "Seda: Já espalhei a ração, então logo vão aparecer!",
+        "es": "Seda: ¡Ya esparcí el cebo, así que aparecerán pronto!"
     },
     "qtfoBw": {
-        "en": "Silk: I spread the food, so they'll come up soon!",
-        "pt": "Silk: Vou espalhar a comida para elas virem logo!",
-        "es": "Seda: He esparcido la comida, ¡así que aparecerán pronto!"
+        "ko": "실크: 사, 살려어~~~~",
+        "en": "Silk: S-save me~~~~",
+        "pt": "Seda: S-socorro~~~~",
+        "es": "Seda: S-Sálvame~~~~"
     },
     "q9foBw": {
-        "en": "Silk: H-heeeeeeeeelp!",
-        "pt": "Silk: S-Socorroooooo!",
-        "es": "Seda: ¡Ayuda!"
+        "ko": "실크: 자동인형 살려어어~~~~~",
+        "en": "Silk: Save the automaton~~~~~",
+        "pt": "Seda: Socorro, boneco automático~~~~~",
+        "es": "Seda: ¡Sálvame, autómataaaaa~~~~~"
     },
     "rNfoBw": {
-        "en": "Silk: Somebody help meeeeeee!",
-        "pt": "Silk: Alguém me ajudaaaaa!",
-        "es": "Seda: ¡Que alguien me ayudeeeeeee!"
+        "ko": "실크: 살려줘요! 피타야에게 잡아먹힌다!",
+        "en": "Silk: Help me! I'm going to get eaten by Pitaya!",
+        "pt": "Seda: Me ajude! Vou ser devorada por Pitaya!",
+        "es": "Seda: ¡Ayúdame! ¡Pitaya me va a devorar!"
     },
     "rdfoBw": {
-        "en": "Silk: Help! I'm gonna get devoured by Pitayas!",
-        "pt": "Silk: Socorro! Eu vou ser devorada pelas Pitaias!",
-        "es": "Seda: ¡Ayuda! ¡Voy a ser devorado por Pitayas!"
+        "ko": "[실크]\n제 위치는 신경쓰지 마시고......",
+        "en": "[Silk]\nDon't worry about my position......",
+        "pt": "[Seda]\nNão se preocupe com a minha posição......",
+        "es": "[Seda]\nNo se preocupe por mi ubicación......"
     },
     "rtfoBw": {
-        "en": "[Silk]\nPlease don't mind where I am...",
-        "pt": "[Silk]\nPor favor, não se importem comigo...",
-        "es": "[Seda]\nPor favor, no te preocupes por donde estoy..."
+        "ko": "실크: 제 위치는 신경쓰지 마시고......",
+        "en": "Silk: Don't worry about my position......",
+        "pt": "Seda: Não se preocupe com a minha posição......",
+        "es": "Seda: No se preocupe por mi ubicación......"
     },
     "r9foBw": {
-        "en": "Silk: Please don't mind where I am...",
-        "pt": "Silk: Por favor, não se importem comigo...",
-        "es": "Seda:"
+        "ko": "[실크]\n놀자고 다가오는 게 맞다고 해도 최소한 저랑은 아닌 것 같아요.",
+        "en": "[Silk]\nEven if it's true they're coming over to play, at the very least, it doesn't seem like it's with me.",
+        "pt": "[Seda]\nMesmo que seja verdade que estão se aproximando para brincar, acho que pelo menos não é comigo.",
+        "es": "[Seda]\nAunque sea cierto que se acercan para jugar, creo que al menos conmigo no es."
     },
     "sNfoBw": {
-        "en": "[Silk]\nEven if they're approaching us with the intention to play, I don't think I can grant their wish.",
-        "pt": "[Silk]\nMesmo que estejam se aproximando com a intenção de brincar, acho que não consigo realizar o desejo delas.",
-        "es": "[Seda]\nAunque se acerquen a nosotros con la intención de jugar, no creo que pueda concederles su deseo."
+        "ko": "실크: 놀자고 다가오는 게 맞다고 해도 최소한 저랑은 아닌 것 같아요.",
+        "en": "Silk: Even if it is true that it comes up to you to play, I do not think it should be with me, at the very least.",
+        "pt": "Seda: Mesmo que seja verdade que ele se aproxime querendo brincar, acho que pelo menos comigo não é assim.",
+        "es": "Seda: Aunque sea cierto que se acerque para jugar, creo que al menos conmigo no es."
     },
     "sdfoBw": {
-        "en": "Silk: Even if they're approaching us with the intention to play, I don't think I can grant their wish.",
-        "pt": "Silk: Mesmo que estejam se aproximando com a intenção de brincar, acho que não consigo realizar o desejo delas.",
-        "es": "Seda:"
+        "ko": "[실크]\n하지만 손님하고는 놀고 있는 것 같아요! 그쵸!",
+        "en": "[Silk]\nBut it seems like you are playing with the guest! Right?",
+        "pt": "[Seda]\nMas parece que ele está brincando com o visitante! Não é?",
+        "es": "[Seda]\n¡Pero parece que está jugando con el invitado! ¿Verdad?"
     },
     "stfoBw": {
-        "en": "[Silk]\nBut it seems they're playing with you just fine! Right?",
-        "pt": "[Silk]\nMas parece que elas estão brincando muito bem com você! Não é?",
-        "es": "[Seda]\n¡Pero parece que están jugando muy bien contigo! ¿Verdad?"
+        "ko": "실크: 하지만 손님하고는 놀고 있는 것 같아요! 그쵸!",
+        "en": "Silk: But it seems like you are playing with the guest! Right?",
+        "pt": "Seda: Mas parece que ele está brincando com o visitante! Não é?",
+        "es": "Seda: ¡Pero parece que está jugando con el invitado! ¿Verdad?"
     },
     "s9foBw": {
-        "en": "Silk: But it seems they're playing with you just fine! Right?",
-        "pt": "Silk: Mas parece que elas estão brincando muito bem com você! Não é?",
-        "es": "Seda:  ¿Verdad?"
+        "ko": "[실크]\n어쨌든 다음 수확도 좀 도와주세요! 얘, 얘들아아~ 밥 먹을 시간이다아~~",
+        "en": "[Silk]\nAnyway, please help a bit with the next harvest, too! Hey, heeey, you guyyys~ It is time to eat~~",
+        "pt": "[Seda]\nDe qualquer forma, por favor ajude um pouco na próxima colheita também! Ei, ei, pessoal~ Está na hora de comer~~",
+        "es": "[Seda]\nEn fin, ¡por favor ayude un poco también con la próxima cosecha! ¡Eh, chicos~ ya es hora de comer~~"
     },
     "tNfoBw": {
-        "en": "[Silk]\nAnyway, please help me with the next harvest too! G-guuuys! It's time for your fooood!",
-        "pt": "[Silk]\nDe qualquer maneira, por favor, me ajude com a próxima colheita também! P-Pessoaaaal! É hora de comeeeer!",
-        "es": "[Seda]\nDe todos modos, ¡ayúdame también con la próxima cosecha! ¡Chicos! ¡Es hora de comer!"
+        "ko": "실크: 어쨌든 다음 수확도 좀 도와주세요! 얘, 얘들아아~ 밥 먹을 시간이다아~~",
+        "en": "Silk: Anyway, please help a bit with the next harvest, too! Hey, heeey, you guyyys~ It is time to eat~~",
+        "pt": "Seda: De qualquer forma, por favor ajude um pouco na próxima colheita também! Ei, ei, pessoal~ Está na hora de comer~~",
+        "es": "Seda: En fin, ¡por favor ayude un poco también con la próxima cosecha! ¡Eh, chicos~ ya es hora de comer~~"
     },
     "tdfoBw": {
-        "en": "Silk: Anyway, please help me with the next harvest too! G-guuuys! It's time for your fooood!",
-        "pt": "Silk: De qualquer maneira, por favor, me ajude com a próxima colheita também! P-Pessoaaaal! É hora de comeeeer!",
-        "es": "Seda:"
+        "ko": "[실크]\n하아...",
+        "en": "[Silk]\n*sigh*",
+        "pt": "[Seda]\nHaa...",
+        "es": "[Seda]\nHaa..."
     },
     "ttfoBw": {
-        "en": "[Silk]\n*Sigh*...",
-        "pt": "[Silk]\n*Suspiro*...",
-        "es": "[Seda]\n*Suspiro*..."
+        "ko": "실크: 하아...",
+        "en": "Silk: *sigh*",
+        "pt": "Seda: Haa...",
+        "es": "Seda: Haa..."
     },
     "t9foBw": {
-        "en": "Silk: *Sigh*...",
-        "pt": "Silk: *Suspiro*...",
-        "es": "Seda: *Suspiro*..."
+        "ko": "[실크]\n모래투성이가 되었네요... 손님도 저도...",
+        "en": "[Silk]\nWe are covered in sand... both you and I...",
+        "pt": "[Seda]\nFicamos cheios de areia... tanto o visitante quanto eu...",
+        "es": "[Seda]\nNos hemos llenado de arena... tanto usted como yo..."
     },
     "uNfoBw": {
-        "en": "[Silk]\nYou and I are both covered in sand...",
-        "pt": "[Silk]\nEu e você estamos cobertos de areia...",
-        "es": "[Seda]\nTú y yo estamos cubiertos de arena..."
+        "ko": "실크: 모래투성이가 되었네요... 손님도 저도...",
+        "en": "Silk: We are covered in sand... both you and I...",
+        "pt": "Seda: Ficamos cheios de areia... tanto o visitante quanto eu...",
+        "es": "Seda: Nos hemos llenado de arena... tanto usted como yo..."
     },
     "udfoBw": {
-        "en": "Silk: You and I are both covered in sand...",
-        "pt": "Silk: Eu e você estamos cobertos de areia...",
-        "es": "Seda:"
+        "ko": "[실크]\n아, 방수는 물론 방진처리도 되어 있어서 제 코어는 괜찮아요.",
+        "en": "[Silk]\nAh, it is waterproof, of course, and also dustproof, so my core is fine.",
+        "pt": "[Seda]\nAh, além de ser à prova d'água, também tem tratamento contra poeira, então meu núcleo está bem.",
+        "es": "[Seda]\nAh, además de ser impermeable, también tiene tratamiento antipolvo, así que mi núcleo está bien."
     },
     "utfoBw": {
-        "en": "[Silk]\nAh, don't worry about my core. I'm waterproof and dustproof.",
-        "pt": "[Silk]\nAh, não se preocupe comigo. Eu sou à prova d'água e à prova de poeira.",
-        "es": "[Seda]\nAh, no te preocupes por mi núcleo. Soy resistente al agua y al polvo."
+        "ko": "실크: 아, 방수는 물론 방진처리도 되어 있어서 제 코어는 괜찮아요.",
+        "en": "Silk: Ah, it is waterproof, of course, and also dustproof, so my core is fine.",
+        "pt": "Seda: Ah, além de ser à prova d'água, também tem tratamento contra poeira, então meu núcleo está bem.",
+        "es": "Seda: Ah, además de ser impermeable, también tiene tratamiento antipolvo, así que mi núcleo está bien."
     },
     "u9foBw": {
-        "en": "Silk: Ah, don't worry about my core. I'm waterproof and dustproof.",
-        "pt": "Silk: Ah, não se preocupe comigo. Eu sou à prova d'água e à prova de poeira.",
-        "es": "Seda:"
+        "ko": "[실크]\n화가 났냐고요? 손님한테요? 설마요...",
+        "en": "[Silk]\nAre you asking if I am angry? At you, guest? Of course not...",
+        "pt": "[Seda]\nSe eu estou com raiva? Do visitante? Claro que não...",
+        "es": "[Seda]\n¿Que si estoy enfadada? ¿Con usted? Claro que no..."
     },
     "vNfoBw": {
-        "en": "[Silk]\nAm I mad? At you? Absolutely not...",
-        "pt": "[Silk]\nEstou chateada? Com você? É claro que não...",
-        "es": "[Seda]\n¿Estoy enojado? ¿Contigo? ¡Claro que no!"
+        "ko": "실크: 화가 났냐고요? 손님한테요? 설마요...",
+        "en": "Silk: Are you asking if I am angry? At you, guest? Of course not...",
+        "pt": "Seda: Se eu estou com raiva? Do visitante? Claro que não...",
+        "es": "Seda: ¿Que si estoy enfadada? ¿Con usted? Claro que no..."
     },
     "vdfoBw": {
-        "en": "Silk: Am I mad? At you? Absolutely not...",
-        "pt": "Silk: Estou chateada? Com você? É claro que não...",
-        "es": "Seda:  Gritándote?! ¡Claro que no!"
+        "ko": "[실크]\n자동인형이... 화를 낼 수 있을까요? ...후후후...",
+        "en": "[Silk]\nCan an automaton... get angry? ...Heeheehee...",
+        "pt": "[Seda]\nUma boneca automática... consegue ficar com raiva? ...huhuhu...",
+        "es": "[Seda]\n¿Podrá una muñeca automática... enfadarse? ...jajaja..."
     },
     "vtfoBw": {
-        "en": "[Silk]\nA robot is not supposed to get mad... Right? ...Heh heh heh...",
-        "pt": "[Silk]\nUm robô não pode ficar chateado... Não é? ... Hehehehe...",
-        "es": "[Seda]\nSe supone que un robot no debe enfadarse... ¿No? Je, je, je."
+        "ko": "실크: 자동인형이... 화를 낼 수 있을까요? ...후후후...",
+        "en": "Silk: Can an automaton... get angry? ...Heeheehee...",
+        "pt": "Seda: Uma boneca automática... consegue ficar com raiva? ...huhuhu...",
+        "es": "Seda: ¿Podrá una muñeca automática... enfadarse? ...jajaja..."
     },
     "v9foBw": {
-        "en": "Silk: A robot is not supposed to get mad... Right? ...Heh heh heh...",
-        "pt": "Silk: Um robô não pode ficar chateado... Não é? ... Hehehehe...",
-        "es": "Seda:  Je, je, je."
+        "ko": "[실크]\n...지금은 아니지만 그럴 수 있을 것 같은 기분이 들어요... 후후후.",
+        "en": "[Silk]\n...Not right now, but I feel like I could... Heeheehee.",
+        "pt": "[Seda]\n...Agora não, mas sinto que talvez eu consiga... huhuhu.",
+        "es": "[Seda]\n...Ahora no, pero siento que podría ser posible... jajaja."
     },
     "wNfoBw": {
-        "en": "[Silk]\nI'm not mad right now, but I feel like I can be for some reason... Heh heh heh.",
-        "pt": "[Silk]\nEu não estou chateada agora, mas sinto que posso ficar por qualquer razão... Hehehehe.",
-        "es": "[Seda]\nNo estoy enfadado ahora mismo, pero siento que puedo estarlo por alguna razón... Je, je, je."
+        "ko": "실크: ...지금은 아니지만 그럴 수 있을 것 같은 기분이 들어요... 후후후.",
+        "en": "Silk: ...Not right now, but I feel like I could... Heeheehee.",
+        "pt": "Seda: ...Agora não, mas sinto que talvez eu consiga... huhuhu.",
+        "es": "Seda: ...Ahora no, pero siento que podría ser posible... jajaja."
     },
     "wdfoBw": {
-        "en": "Silk: I'm not mad right now, but I feel like I can be for some reason... Heh heh heh.",
-        "pt": "Silk: Eu não estou chateada agora, mas sinto que posso ficar por qualquer razão... Hehehehe.",
-        "es": "Seda:  Je, je, je."
+        "ko": "[실크]\n다음은 오아시스 풍의 웅덩이가 있는 놀이터예요. 자, 갑니다...",
+        "en": "[Silk]\nNext is a playground with an oasis-like pool. Now, here we go...",
+        "pt": "[Seda]\nO próximo é um parquinho com uma poça em estilo oásis. Vamos lá...",
+        "es": "[Seda]\nLo siguiente es un parque infantil con un estanque de estilo oasis. Bien, allá vamos..."
     },
     "wtfoBw": {
-        "en": "[Silk]\nNext is a playground with an oasis-lookalike pool. Here we go...",
-        "pt": "[Silk]\nO próximo playground é um com uma piscina que parece um oásis. Lá vamos nós.",
-        "es": "[Seda]\nA continuación hay un parque infantil con una piscina parecida a un oasis. Aquí vamos…"
+        "ko": "실크: 다음은 오아시스 풍의 웅덩이가 있는 놀이터예요. 자, 갑니다...",
+        "en": "Silk: Next is a playground with an oasis-like pool. Now, here we go...",
+        "pt": "Seda: O próximo é um parquinho com uma poça em estilo oásis. Vamos lá...",
+        "es": "Seda: Lo siguiente es un parque infantil con un estanque de estilo oasis. Bien, allá vamos..."
     },
     "w9foBw": {
-        "en": "Silk: Next is a playground with an oasis-lookalike pool. Here we go...",
-        "pt": "Silk: O próximo playground é um com uma piscina que parece um oásis. Lá vamos nós.",
-        "es": "Seda:  Aquí vamos…"
+        "ko": "로티",
+        "en": "Loti",
+        "pt": "Loti",
+        "es": "Loti"
     },
     "xNfoBw": {
-        "en": "Roti",
-        "pt": "Roti",
-        "es": "Roti"
-    },
-    "xdfoBw": {
+        "ko": "샐리",
         "en": "Sally",
         "pt": "Sally",
         "es": "Sally"
     },
-    "xtfoBw": {
+    "xdfoBw": {
+        "ko": "글로리",
         "en": "Glory",
-        "pt": "Glory",
+        "pt": "Glória",
         "es": "Glory"
     },
-    "x9foBw": {
-        "en": "Connie",
-        "pt": "Connie",
-        "es": "Connie"
+    "xtfoBw": {
+        "ko": "코니",
+        "en": "Cony",
+        "pt": "Cony",
+        "es": "Cony"
     },
-    "yNfoBw": {
+    "x9foBw": {
+        "ko": "보리스",
         "en": "Boris",
         "pt": "Boris",
         "es": "Boris"
     },
-    "ydfoBw": {
-        "en": "Rooney",
-        "pt": "Rooney",
-        "es": "Rooney"
+    "yNfoBw": {
+        "ko": "루니",
+        "en": "Runi",
+        "pt": "Runi",
+        "es": "Runi"
     },
-    "ytfoBw": {
+    "ydfoBw": {
+        "ko": "마이키",
         "en": "Mikey",
         "pt": "Mikey",
         "es": "Mikey"
     },
+    "ytfoBw": {
+        "ko": "실크: 오, 오지 마~~~",
+        "en": "Silk: Oh, don't come~~~",
+        "pt": "Seda: Ah, não venha~~~",
+        "es": "Seda: Oh, no te acerques~~~"
+    },
     "y9foBw": {
-        "en": "Silk: D-don't come at meeeeeee!",
-        "pt": "Silk: N-Não venham atrás de miiiiiim!",
-        "es": "Seda: ¡N-no te acerques!"
+        "ko": "실크: 나 말고오, 나 아니야아아~~~",
+        "en": "Silk: Not me, not meee~~~",
+        "pt": "Seda: Não eu, não sou euuu~~~",
+        "es": "Seda: ¡No yo, no soy yooo~~~"
     },
     "zNfoBw": {
-        "en": "Silk: Not me! Not meeeeeeeeee!",
-        "pt": "Silk: Eu não! Eu nãããããão!",
-        "es": "Seda: ¡Yo no! ¡Yo no!"
+        "ko": "실크: 꺄악!",
+        "en": "Silk: Kyaaah!",
+        "pt": "Seda: Kyaah!",
+        "es": "Seda: ¡Kyaaa!"
     },
     "zdfoBw": {
-        "en": "Silk: Waaaah!",
-        "pt": "Silk: Buáááá!",
-        "es": "Seda: ¡Ahhhhh!"
+        "ko": "[실크]\n다시 말씀드리지만 제 위치는 신경쓰지 마시고...",
+        "en": "[Silk]\nAs I said, please don't mind my position...",
+        "pt": "[Seda]\nComo já disse, não se preocupe com a minha posição...",
+        "es": "[Seda]\nSe lo repito, no se preocupe por mi posición..."
     },
     "ztfoBw": {
-        "en": "[Silk]\nAgain, please don't mind where I am...",
-        "pt": "[Silk]\nDe novo, por favor, não se importem comigo...",
-        "es": "[Seda]\nRepito, no te preocupes por donde estoy..."
+        "ko": "실크: 다시 말씀드리지만 제 위치는 신경쓰지 마시고......",
+        "en": "Silk: As I said, please don't mind my position......",
+        "pt": "Seda: Como já disse, não se preocupe com a minha posição......",
+        "es": "Seda: Se lo repito, no se preocupe por mi posición......"
     },
     "z9foBw": {
-        "en": "Silk: Again, please don't mind where I am...",
-        "pt": "Silk: De novo, por favor, não se importem comigo...",
-        "es": "Seda:"
+        "ko": "[실크]\n어때요? 제가 보기에는 처음보다는 훨씬 잘 하고 계신 것 같은데.",
+        "en": "[Silk]\nHow is it? From what I can see, you're doing much better than at first.",
+        "pt": "[Seda]\nE então? Pelo que vejo, você está se saindo muito melhor do que no começo.",
+        "es": "[Seda]\n¿Qué tal? Por lo que veo, lo está haciendo mucho mejor que al principio."
     },
     "0NfoBw": {
-        "en": "[Silk]\nHow do you feel? I think you're doing a lot better than the first time.",
-        "pt": "[Silk]\nComo está se sentindo? Acho que você já está bem melhor do que a primeira vez.",
-        "es": "[Seda]\nEntonces, ¿cómo te sientes? Creo que lo estás haciendo mucho mejor que la primera vez."
+        "ko": "실크: 어때요? 제가 보기에는 처음보다는 훨씬 잘 하고 계신 것 같은데.",
+        "en": "Silk: How is it? From what I can see, you're doing much better than at first.",
+        "pt": "Seda: E então? Pelo que vejo, você está se saindo muito melhor do que no começo.",
+        "es": "Seda: ¿Qué tal? Por lo que veo, lo está haciendo mucho mejor que al principio."
     },
     "0dfoBw": {
-        "en": "Silk: How do you feel? I think you're doing a lot better than the first time.",
-        "pt": "Silk: Como está se sentindo? Acho que você já está bem melhor do que a primeira vez.",
-        "es": "Seda: Entonces, ¿cómo te sientes?"
+        "ko": "[실크]\n역시 손님은 재능이 있으신 것 같아요! 그쵸!",
+        "en": "[Silk]\nI knew it—you must have talent! Right?!",
+        "pt": "[Seda]\nComo eu imaginava, parece que você tem talento! Não é mesmo!",
+        "es": "[Seda]\n¡Como pensaba, parece que usted tiene talento! ¿Verdad?"
     },
     "0tfoBw": {
-        "en": "[Silk]\nYou must be talented in this job! I'm sure of it!",
-        "pt": "[Silk]\nVocê deve ser muito talentoso nesse trabalho! Eu tenho certeza!",
-        "es": "[Seda]\n¡Debes tener talento para este trabajo! ¡No tengo dudas!"
+        "ko": "실크: 역시 손님은 재능이 있으신 것 같아요! 그쵸!",
+        "en": "Silk: I knew it—you must have talent! Right?!",
+        "pt": "Seda: Como eu imaginava, parece que você tem talento! Não é mesmo!",
+        "es": "Seda: ¡Como pensaba, parece que usted tiene talento! ¿Verdad?"
     },
     "09foBw": {
-        "en": "Silk: You must be talented in this job! I'm sure of it!",
-        "pt": "Silk: Você deve ser muito talentoso nesse trabalho! Eu tenho certeza!",
-        "es": "Seda:  ¡No tengo dudas!"
+        "ko": "[실크]\n자동인형도 아부를 할 줄 아냐고요? 저는 진실만을 말했어요.",
+        "en": "[Silk]\nYou're asking if an automaton can flatter you? I only spoke the truth.",
+        "pt": "[Seda]\nUma boneca automática também sabe bajular? Eu só disse a verdade.",
+        "es": "[Seda]\n¿Que si una muñeca automática también sabe adular? Yo solo dije la verdad."
     },
     "1NfoBw": {
-        "en": "[Silk]\nCan a robot butter a human up, you say? I only spoke the truth.",
-        "pt": "[Silk]\nVocê quer saber se um robô pode bajular um humano? Eu só falei a verdade.",
-        "es": "[Seda]\n¿Puede un robot hacerle la pelota a un humano? Solo dije la verdad."
+        "ko": "실크: 자동인형도 아부를 할 줄 아냐고요? 저는 진실만을 말했어요.",
+        "en": "Silk: You're asking if an automaton can flatter you? I only spoke the truth.",
+        "pt": "Seda: Uma boneca automática também sabe bajular? Eu só disse a verdade.",
+        "es": "Seda: ¿Que si una muñeca automática también sabe adular? Yo solo dije la verdad."
     },
     "1dfoBw": {
-        "en": "Silk: Can a robot butter a human up, you say? I only spoke the truth.",
-        "pt": "Silk: Você quer saber se um robô pode bajular um humano? Eu só falei a verdade.",
-        "es": "Seda:"
+        "ko": "[실크]\n그럼 손님의 재능을 봐서 다음 먹이도 뿌려볼게요! 얘들아~~ 밥이다~~~~",
+        "en": "[Silk]\nThen, since you have such talent, I'll scatter the next feed, too! Everyone~~ It's mealtime~~~~",
+        "pt": "[Seda]\nEntão, vendo o seu talento, vou espalhar a próxima comida também! Pessoal~~ É hora de comer~~~~",
+        "es": "[Seda]\nEntonces, viendo su talento, ¡también esparciré el siguiente alimento! ¡Chicos~~, es la comida~~~~"
     },
     "1tfoBw": {
-        "en": "[Silk]\nSince you're so talented, I'll scatter the food right away! Guuuys! Foooood time!",
-        "pt": "[Silk]\nJá que você é tão talentoso, eu vou jogar a comida agora mesmo! Pessoaaaaaal! Hora de comeeeer!",
-        "es": "[Seda]\n¡Ya que tienes tanto talento, esparciré la comida enseguida! ¡Chicos! ¡Hora de comer!"
+        "ko": "실크: 그럼 손님의 재능을 봐서 다음 먹이도 뿌려볼게요! 얘들아~~ 밥이다~~~~",
+        "en": "Silk: Then, since you have such talent, I'll scatter the next feed, too! Everyone~~ It's mealtime~~~~",
+        "pt": "Seda: Então, vendo o seu talento, vou espalhar a próxima comida também! Pessoal~~ É hora de comer~~~~",
+        "es": "Seda: Entonces, viendo su talento, ¡también esparciré el siguiente alimento! ¡Chicos~~, es la comida~~~~"
     },
     "19foBw": {
-        "en": "Silk: Since you're so talented, I'll scatter the food right away! Guuuys! Foooood time!",
-        "pt": "Silk: Já que você é tão talentoso, eu vou jogar a comida agora mesmo! Pessoaaaaaal! Hora de comeeeer!",
-        "es": "Seda:"
+        "ko": "[{0}]\n괜찮아?",
+        "en": "[{0}]\nAre you okay?",
+        "pt": "[{0}]\nTudo bem?",
+        "es": "[{0}]\n¿Estás bien?"
     },
     "2NfoBw": {
-        "en": "[{}]\nAre you okay?",
-        "pt": "[{}]\nVocê está bem?",
-        "es": "[{}]\n¿Estás bien?"
-    },
-    "2dfoBw": {
+        "ko": "괜찮아?",
         "en": "Are you okay?",
-        "pt": "Você está bem?",
+        "pt": "Tudo bem?",
         "es": "¿Estás bien?"
     },
+    "2dfoBw": {
+        "ko": "[실크]\n손님이 익숙해지는 거랑 제가 익숙해지는 거는 조금 다른 것 같네요.",
+        "en": "[Silk]\nIt seems getting used to it for you and getting used to it for me are a little different.",
+        "pt": "[Seda]\nParece que o senhor se acostumar e eu me acostumar são coisas um pouco diferentes.",
+        "es": "[Seda]\nParece que acostumbrarse para el cliente y acostumbrarme yo son cosas un poco distintas."
+    },
     "2tfoBw": {
-        "en": "[Silk]\nIt seems there's a slight difference between your ''getting accustomed'' and my ''getting accustomed.''",
-        "pt": "[Silk]\nParece que tem uma pequena diferença entre o seu ''se acostumando'’ para o meu ''se acostumando''.",
-        "es": "[Seda]\nParece que hay una pequeña diferencia entre tu 'acostumbramiento' y mi 'acostumbramiento'"
+        "ko": "실크: 손님이 익숙해지는 거랑 제가 익숙해지는 거는 조금 다른 것 같네요.",
+        "en": "Silk: It seems getting used to it for you and getting used to it for me are a little different.",
+        "pt": "Seda: Parece que o senhor se acostumar e eu me acostumar são coisas um pouco diferentes.",
+        "es": "Seda: Parece que acostumbrarse para el cliente y acostumbrarme yo son cosas un poco distintas."
     },
     "29foBw": {
-        "en": "Silk: It seems there's a slight difference between your ''getting accustomed'' and my ''getting accustomed.''",
-        "pt": "Silk: Parece que tem uma pequena diferença entre o seu ''se acostumando'’ para o meu ''se acostumando''.",
-        "es": "Seda:"
+        "ko": "[실크]\n슬슬 다음 장소로 이동하실까요!",
+        "en": "[Silk]\nShall we head to the next place soon!",
+        "pt": "[Seda]\nVamos, aos poucos, nos deslocar para o próximo lugar!",
+        "es": "[Seda]\n¿Vamos yendo al siguiente lugar?"
     },
     "3NfoBw": {
-        "en": "[Silk]\nNow, let's move on to the next spot!",
-        "pt": "[Silk]\nAgora, vamos seguir para o próximo local!",
-        "es": "[Seda]\n¡Vamos al siguiente punto!"
+        "ko": "실크: 슬슬 다음 장소로 이동하실까요!",
+        "en": "Silk: Shall we head to the next place soon!",
+        "pt": "Seda: Vamos, aos poucos, nos deslocar para o próximo lugar!",
+        "es": "Seda: ¿Vamos yendo al siguiente lugar?"
     },
     "3dfoBw": {
-        "en": "Silk: Now, let's move on to the next spot!",
-        "pt": "Silk: Agora, vamos seguir para o próximo local!",
-        "es": "Seda: Ahora pasemos a las siguientes historias."
+        "ko": "[{0}]\n또 있어?",
+        "en": "[{0}]\nIs there more?",
+        "pt": "[{0}]\nTem mais?",
+        "es": "[{0}]\n¿Hay más?"
     },
     "3tfoBw": {
-        "en": "[{}]\nThere's another?",
-        "pt": "[{}]\nTem mais um?",
-        "es": "[{}]\n¿Hay otro?"
+        "ko": "또 있어?",
+        "en": "Is there more?",
+        "pt": "Tem mais?",
+        "es": "¿Hay más?"
     },
     "39foBw": {
-        "en": "There's another?",
-        "pt": "Tem mais um?",
-        "es": "¡Aquí hay otra"
+        "ko": "[실크]\n밖에서 보기에는 작은 온실이었겠지만 눈의 착각이에요. 천장을 보세요... 엄청 높죠?",
+        "en": "[Silk]\nIt may have looked like a small greenhouse from outside, but that was an illusion. Look at the ceiling... It's incredibly high, isn't it?",
+        "pt": "[Seda]\nPor fora, pode ter parecido uma estufa pequena, mas é uma ilusão de ótica. Olhe para o teto... é bem alto, não é?",
+        "es": "[Seda]\nDesde fuera parecería un invernadero pequeño, pero es una ilusión. Mira el techo... Es altísimo, ¿verdad?"
     },
     "4NfoBw": {
-        "en": "[Silk]\nIt might look like a small greenhouse from the outside, but that's an optical illusion. Look at the ceiling. Seems quite high, isn't it?",
-        "pt": "[Silk]\nPode parecer uma pequena estufa do lado de fora, mas é uma ilusão de ótica. Olhe para o teto. Parece muito alto, não é?",
-        "es": "[Seda]\nDesde fuera puede parecer un pequeño invernadero, pero es una ilusión óptica. Mira al techo. Parece bastante alto, ¿no?"
+        "ko": "실크: 밖에서 보기에는 작은 온실이었겠지만 눈의 착각이에요. 천장을 보세요... 엄청 높죠?",
+        "en": "Silk: It may have looked like a small greenhouse from outside, but that was an illusion. Look at the ceiling... It's incredibly high, isn't it?",
+        "pt": "Seda: Por fora, pode ter parecido uma estufa pequena, mas é uma ilusão de ótica. Olhe para o teto... é bem alto, não é?",
+        "es": "Seda: Desde fuera parecería un invernadero pequeño, pero es una ilusión. Mira el techo... Es altísimo, ¿verdad?"
     },
     "4dfoBw": {
-        "en": "Silk: It might look like a small greenhouse from the outside, but that's an optical illusion. Look at the ceiling. Seems quite high, isn't it?",
-        "pt": "Silk: Pode parecer uma pequena estufa do lado de fora, mas é uma ilusão de ótica. Olhe para o teto. Parece muito alto, não é?",
-        "es": "Seda:"
+        "ko": "[실크]\n제가 굳이 손님들을 안내하는 데는 다 이유가 있답니다.",
+        "en": "[Silk]\nThere is a reason I go out of my way to guide guests around.",
+        "pt": "[Seda]\nHá um motivo para eu fazer questão de guiar os visitantes.",
+        "es": "[Seda]\nQue yo me tome la molestia de guiar a los clientes tiene su razón."
     },
     "4tfoBw": {
-        "en": "[Silk]\nThere's a reason why you all need me as a guide.",
-        "pt": "[Silk]\nTem um motivo pelo qual vocês precisam de mim como guia.",
-        "es": "[Seda]\nHay una razón por la que todos ustedes me necesitan como guía."
+        "ko": "실크: 제가 굳이 손님들을 안내하는 데는 다 이유가 있답니다.",
+        "en": "Silk: There is a reason I go out of my way to guide guests around.",
+        "pt": "Seda: Há um motivo para eu fazer questão de guiar os visitantes.",
+        "es": "Seda: Que yo me tome la molestia de guiar a los clientes tiene su razón."
     },
     "49foBw": {
-        "en": "Silk: There's a reason why you all need me as a guide.",
-        "pt": "Silk: Tem um motivo pelo qual vocês precisam de mim como guia.",
-        "es": "Seda:"
+        "ko": "[실크]\n다음은 입구에서는 가깝지만 루이난의 정보에 의하면 잠꾸러기들이 많은 구역이에요. 슬슬 깼으려나?",
+        "en": "[Silk]\nNext is close to the entrance, but according to Luynan's information, it's an area with lots of sleepyheads. I wonder if they've woken up by now?",
+        "pt": "[Seda]\nO próximo fica perto da entrada, mas, segundo as informações de Luynan, é uma área com muitos dorminhocos. Será que já acordaram?",
+        "es": "[Seda]\nLo siguiente está cerca de la entrada, pero según la información de Luynan, es una zona con muchos dormilones. ¿Ya se habrán despertado?"
     },
     "5NfoBw": {
-        "en": "[Silk]\nThe next one is close to the entrance. According to Ruinan, there are lots of sleepyheads there. I wonder if they're awake now.",
-        "pt": "[Silk]\nO próximo é perto da entrada. De acordo com Rauian, tem muitos dorminhocos aqui. Será que eles estão acordados?",
-        "es": "[Seda]\nEl siguiente está cerca de la entrada. Según Ruinan, allí hay muchos dormilones. Me pregunto si estarán despiertos ahora."
+        "ko": "실크: 다음은 입구에서는 가깝지만 루이난의 정보에 의하면 잠꾸러기들이 많은 구역이에요. 슬슬 깼으려나?",
+        "en": "Silk: Next is close to the entrance, but according to Luynan's information, it's an area with lots of sleepyheads. I wonder if they've woken up by now?",
+        "pt": "Seda: O próximo fica perto da entrada, mas, segundo as informações de Luynan, é uma área com muitos dorminhocos. Será que já acordaram?",
+        "es": "Seda: Lo siguiente está cerca de la entrada, pero según la información de Luynan, es una zona con muchos dormilones. ¿Ya se habrán despertado?"
     },
     "5dfoBw": {
-        "en": "Silk: The next one is close to the entrance. According to Ruinan, there are lots of sleepyheads there. I wonder if they're awake now.",
-        "pt": "Silk: O próximo é perto da entrada. De acordo com Rauian, tem muitos dorminhocos aqui. Será que eles estão acordados?",
-        "es": "Seda:"
+        "ko": "루돌프",
+        "en": "Rudolf",
+        "pt": "Rudolf",
+        "es": "Rudolf"
     },
     "5tfoBw": {
-        "en": "Rudolph",
-        "pt": "Rudolph",
-        "es": "Rudolph"
-    },
-    "59foBw": {
+        "ko": "데이지",
         "en": "Daisy",
         "pt": "Daisy",
         "es": "Daisy"
     },
-    "6NfoBw": {
+    "59foBw": {
+        "ko": "아도니스",
         "en": "Adonis",
         "pt": "Adonis",
         "es": "Adonis"
     },
-    "6dfoBw": {
+    "6NfoBw": {
+        "ko": "빙고",
         "en": "Bingo",
         "pt": "Bingo",
         "es": "Bingo"
     },
-    "6tfoBw": {
+    "6dfoBw": {
+        "ko": "몰리",
         "en": "Molly",
         "pt": "Molly",
         "es": "Molly"
     },
+    "6tfoBw": {
+        "ko": "새미",
+        "en": "Advanced Papila Kai",
+        "pt": "Papila Kai Avançada",
+        "es": "Senior Papila Kai"
+    },
     "69foBw": {
-        "en": "Sammy",
-        "pt": "Sammy",
-        "es": "Sammy"
+        "ko": "조이",
+        "en": "Joy",
+        "pt": "Joy",
+        "es": "Joy"
     },
     "7NfoBw": {
-        "en": "Zoey",
-        "pt": "Zoey",
-        "es": "Zoey"
+        "ko": "실크: ...아이구...",
+        "en": "Silk: ...Oh, dear...",
+        "pt": "Seda: ...Ai, ai...",
+        "es": "Seda: ...Ay, ay..."
     },
     "7dfoBw": {
-        "en": "Silk: Ugh...",
-        "pt": "Silk: Ugh...",
-        "es": "Seda: Uf…"
+        "ko": "실크: 얘, 얘들아~~~ 나 말구~",
+        "en": "Silk: H-Hey, everyone~~~ Not me~",
+        "pt": "Seda: Ei, pessoal~~~ Não é pra mim~",
+        "es": "Seda: Oye, chicos~~~ ¡no a mí~!"
     },
     "7tfoBw": {
-        "en": "Silk: G-guys! Not meeeee!",
-        "pt": "Silk: P-Pessoal! Eu nãããão!",
-        "es": "Seda: ¡Chicos! ¡Yo no!"
+        "ko": "실크: 오지마! 오지마아아!",
+        "en": "Silk: Don’t come! Don’t cooome!",
+        "pt": "Seda: Não venha! Não venhaaah!",
+        "es": "Seda: ¡No vengas! ¡No vengaaaan!"
     },
     "79foBw": {
-        "en": "Silk: Don't come at me! Nooooooooo!",
-        "pt": "Silk: Não venham atrás de mim! Nããããããão!",
-        "es": "Seda: ¡No vengas a mí! ¡¡¡Nooo!!!"
+        "ko": "실크: 이쪽으로 오지 마아아아아아아",
+        "en": "Silk: Don’t come this waaaay!",
+        "pt": "Seda: Não venha para cááááááá",
+        "es": "Seda: ¡No vengas por aquíiiiiii!"
     },
     "8NfoBw": {
-        "en": "Silk: Don't come at meeeeeeeeeeeee!",
-        "pt": "Silk: Não venham atrás de miiiiiiim!",
-        "es": "Seda: ¡N-no te acerques!"
+        "ko": "실크: 실크 살려요!",
+        "en": "Silk: Silk, help!",
+        "pt": "Seda: Seda Socorro!",
+        "es": "Seda: ¡Seda socorro!"
     },
     "8dfoBw": {
-        "en": "Silk: Somebody save poor Silk!",
-        "pt": "Silk: Alguém salva a pobre Silk!",
-        "es": "Seda: ¡Que alguien salve a la pobre Seda!"
+        "ko": "[실크]\n심호흡... 심호흡...",
+        "en": "[Silk]\nDeep breaths... deep breaths...",
+        "pt": "[Seda]\nRespiração profunda... respiração profunda...",
+        "es": "[Seda]\nRespira hondo... respira hondo..."
     },
     "8tfoBw": {
-        "en": "[Silk]\nDeep breath... Deep breath...",
-        "pt": "[Silk]\nRespire fundo... Respire fundo...",
-        "es": "[Seda]\nRespira hondo..."
+        "ko": "실크: 심호흡... 심호흡...",
+        "en": "Silk: Deep breaths... deep breaths...",
+        "pt": "Seda: Respiração profunda... respiração profunda...",
+        "es": "Seda: Respira hondo... respira hondo..."
     },
     "89foBw": {
-        "en": "Silk: Deep breath... Deep breath...",
-        "pt": "Silk: Respire fundo... Respire fundo...",
-        "es": "Seda:"
+        "ko": "[실크]\n네? 자동인형도 심호흡을 하냐고요? 마인드컨트롤이 안 되면 지푸라기라도 잡고 싶지 않을까요?",
+        "en": "[Silk]\nHuh? You’re asking if an automaton doll takes deep breaths? If Mind Control doesn’t work, wouldn’t you want to cling to even a straw?",
+        "pt": "[Seda]\nHã? Você está perguntando se uma boneca automática também faz respiração profunda? Se o controle mental não funciona, não dá vontade de se agarrar até a um fio de palha?",
+        "es": "[Seda]\n¿Qué? ¿Que incluso las muñecas automáticas respiran hondo? Si no funciona el control mental, ¿no querrías agarrarte aunque fuera a un clavo ardiendo?"
     },
     "9NfoBw": {
-        "en": "[Silk]\nWhat? 'Can a robot take a deep breath?' You gotta try anything if you can't control your mind!",
-        "pt": "[Silk]\nO quê?",
-        "es": "[Seda]\n¿Qué? ¿Puede un robot respirar hondo? ¡Tienes que intentar cualquier cosa si no puedes controlar tu mente!"
+        "ko": "실크: 네? 자동인형도 심호흡을 하냐고요? 마인드컨트롤이 안 되면 지푸라기라도 잡고 싶지 않을까요?",
+        "en": "Silk: Huh? You’re asking if an automaton doll takes deep breaths? If Mind Control doesn’t work, wouldn’t you want to cling to even a straw?",
+        "pt": "Seda: Hã? Você está perguntando se uma boneca automática também faz respiração profunda? Se o controle mental não funciona, não dá vontade de se agarrar até a um fio de palha?",
+        "es": "Seda: ¿Qué? ¿Que incluso las muñecas automáticas respiran hondo? Si no funciona el control mental, ¿no querrías agarrarte aunque fuera a un clavo ardiendo?"
     },
     "9dfoBw": {
-        "en": "Silk: What? 'Can a robot take a deep breath?' You gotta try anything if you can't control your mind!",
-        "pt": "Silk: O quê?",
-        "es": "Seda: ¿Qué?"
+        "ko": "[실크]\n폐가 있는 것은 아니지만요... 그러고보니 피타야는 어떻게 소리를 내는 걸까요?",
+        "en": "[Silk]\nIt’s not like I have lungs, though... Come to think of it, how does Pitaya make sounds?",
+        "pt": "[Seda]\nNão é que eu tenha pulmões, mas... Pensando bem, como será que Pitaya faz som?",
+        "es": "[Seda]\nNo es que tenga pulmones, pero... Ahora que lo pienso, ¿cómo hará Pitaya para emitir sonidos?"
     },
     "9tfoBw": {
-        "en": "[Silk]\nWell, I don't have lungs, though. How do Pitayas make sounds, by the way?",
-        "pt": "[Silk]\nBem, mas eu não tenho pulmão. Aliás, como as Pitaias fazem barulho?",
-        "es": "[Seda]\nPero no tengo pulmones. Por cierto, ¿cómo emiten sonidos las pitayas?"
+        "ko": "실크: 폐가 있는 것은 아니지만요... 그러고보니 피타야는 어떻게 소리를 내는 걸까요?",
+        "en": "Silk: It’s not like I have lungs, though... Come to think of it, how does Pitaya make sounds?",
+        "pt": "Seda: Não é que eu tenha pulmões, mas... Pensando bem, como será que Pitaya faz som?",
+        "es": "Seda: No es que tenga pulmones, pero... Ahora que lo pienso, ¿cómo hará Pitaya para emitir sonidos?"
     },
     "99foBw": {
-        "en": "Silk: Well, I don't have lungs, though. How do Pitayas make sounds, by the way?",
-        "pt": "Silk: Bem, mas eu não tenho pulmão. Aliás, como as Pitaias fazem barulho?",
-        "es": "Seda:"
+        "ko": "[실크]\n...무서운 생각은 하지 않을래요.",
+        "en": "[Silk]\n...I won’t think scary thoughts.",
+        "pt": "[Seda]\n...Não vou ter pensamentos assustadores.",
+        "es": "[Seda]\n...No voy a pensar cosas aterradoras."
     },
     "+NfoBw": {
-        "en": "[Silk]\n...I'll stop. I don't want to get myself spooky.",
-        "pt": "[Silk]\n... Vou parar. Eu não quero me assustar.",
-        "es": "[Seda]\n...me detendré. No quiero asustarme."
+        "ko": "실크: ...무서운 생각은 하지 않을래요.",
+        "en": "Silk: ...I won’t think scary thoughts.",
+        "pt": "Seda: ...Não vou ter pensamentos assustadores.",
+        "es": "Seda: ...No voy a pensar cosas aterradoras."
     },
     "+dfoBw": {
-        "en": "Silk: ...I'll stop. I don't want to get myself spooky.",
-        "pt": "Silk: ... Vou parar. Eu não quero me assustar.",
-        "es": "Seda: Me detendré."
+        "ko": "[실크]\n그럼 다음 가 보실까요... 여기 있는 피타야들은 잠꾸러기라 조금 반응이 다를지도 몰라요. 자, 얘들아...이리 오렴...",
+        "en": "[Silk]\nShall we move on to the next one... The Pitayas here are sleepyheads, so they might react a little differently. Now, everyone... come here...",
+        "pt": "[Seda]\nEntão, vamos para o próximo... As pitayas daqui são sonolentas, então talvez reajam um pouco diferente. Vamos, pessoal... venham para cá...",
+        "es": "[Seda]\nEntonces, ¿vamos al siguiente...? Los pitayas de aquí son dormilones, así que quizá reaccionen un poco distinto. Vamos, chicos... venid aquí..."
     },
     "+tfoBw": {
-        "en": "[Silk]\nMoving on... The Pitayas here are sleepyheads, so they might react a bit differently. Now, guys... Come here...",
-        "pt": "[Silk]\nSeguindo em frente... As Pitaias aqui são dorminhocas, então elas devem reagir um pouco diferente. Agora, pessoal... Venham aqui...",
-        "es": "[Seda]\nSigamos... Los Pitayas de aquí son dormilones, así que puede que reaccionen un poco diferente. Ahora, chicos... Ven aquí…"
+        "ko": "실크: 그럼 다음 가 보실까요... 여기 있는 피타야들은 잠꾸러기라 조금 반응이 다를지도 몰라요. 자, 얘들아...이리 오렴...",
+        "en": "Silk: Shall we move on to the next one... The Pitayas here are sleepyheads, so they might react a little differently. Now, everyone... come here...",
+        "pt": "Seda: Então, vamos para o próximo... As pitayas daqui são sonolentas, então talvez reajam um pouco diferente. Vamos, pessoal... venham para cá...",
+        "es": "Seda: Entonces, ¿vamos al siguiente...? Los pitayas de aquí son dormilones, así que quizá reaccionen un poco distinto. Vamos, chicos... venid aquí..."
     },
     "+9foBw": {
-        "en": "Silk: Moving on... The Pitayas here are sleepyheads, so they might react a bit differently. Now, guys... Come here...",
-        "pt": "Silk: Seguindo em frente... As Pitaias aqui são dorminhocas, então elas devem reagir um pouco diferente. Agora, pessoal... Venham aqui...",
-        "es": "Seda:    Ven aquí…"
+        "ko": "[실크]\n히유...",
+        "en": "[Silk]\nPhew...",
+        "pt": "[Seda]\nUfa...",
+        "es": "[Seda]\nHiyu..."
     },
     "/NfoBw": {
-        "en": "[Silk]\nMeep...",
-        "pt": "[Silk]\nMeep...",
-        "es": "[Seda]\nMiip..."
+        "ko": "실크: 히유...",
+        "en": "Silk: Phew...",
+        "pt": "Seda: Ufa...",
+        "es": "Seda: Hiyu..."
     },
     "/dfoBw": {
-        "en": "Silk: Meep...",
-        "pt": "Silk: Meep...",
-        "es": "Seda: Miip."
+        "ko": "[실크]\n'야옹이'도 막 물고 그러나요?",
+        "en": "[Silk]\nDoes 'Cat' bite a lot, too?",
+        "pt": "[Seda]\nE o 'Gato' também morde assim, do nada?",
+        "es": "[Seda]\n¿'Gato' también muerde así sin más?"
     },
     "/tfoBw": {
-        "en": "[Silk]\nDoes 'Meow' bite too?",
-        "pt": "[Silk]\nMiau também morde?",
-        "es": "[Seda]\n¿Miau también muerde?"
+        "ko": "실크: '야옹이'도 막 물고 그러나요?",
+        "en": "Silk: Does 'Cat' bite a lot, too?",
+        "pt": "Seda: E o 'Gato' também morde assim, do nada?",
+        "es": "Seda: ¿'Gato' también muerde así sin más?"
     },
     "/9foBw": {
-        "en": "Silk: Does 'Meow' bite too?",
-        "pt": "Silk: Miau também morde?",
-        "es": "Seda:"
+        "ko": "[{0}]\n그런 것 같아.",
+        "en": "[{0}]\nI think so.",
+        "pt": "[{0}]\nAcho que sim.",
+        "es": "[{0}]\nEso parece."
     },
     "ANjoBw": {
-        "en": "[{}]\nI guess so.",
-        "pt": "[{}]\nAcho que sim.",
-        "es": "[{}]\nQuién sabe…"
+        "ko": "그런 것 같아.",
+        "en": "I think so.",
+        "pt": "Parece que sim.",
+        "es": "Eso parece."
     },
     "AdjoBw": {
-        "en": "I guess so.",
-        "pt": "Acho que sim.",
-        "es": "Quién sabe…"
+        "ko": "[실크]\n귀여운 것의 조건은 잘 무는 건가요?",
+        "en": "[Silk]\nIs the requirement for something cute that it bites well?",
+        "pt": "[Seda]\nA condição para algo ser fofo é morder bem?",
+        "es": "[Seda]\n¿La condición para que algo sea adorable es que muerda bien?"
     },
     "AtjoBw": {
-        "en": "[Silk]\nDoes everything cute bite often?",
-        "pt": "[Silk]\nPor que tudo fofinho morde?",
-        "es": "[Seda]\n¿Todo lo lindo suele morder?"
+        "ko": "실크: 귀여운 것의 조건은 잘 무는 건가요?",
+        "en": "Silk: Is the requirement for something cute that it bites well?",
+        "pt": "Seda: A condição para algo ser fofo é morder bem?",
+        "es": "Seda: ¿La condición para que algo sea adorable es que muerda bien?"
     },
     "A9joBw": {
-        "en": "Silk: Does everything cute bite often?",
-        "pt": "Silk: Por que tudo fofinho morde?",
-        "es": "Seda:"
+        "ko": "[실크]\n역시... 즐거움에는 댓가가 따르는 법이군요.",
+        "en": "[Silk]\nAs expected... There is always a price for enjoyment.",
+        "pt": "[Seda]\nComo eu pensava... a diversão sempre tem um preço.",
+        "es": "[Seda]\nComo era de esperar... la diversión tiene un precio."
     },
     "BNjoBw": {
-        "en": "[Silk]\nWell... Fun comes with a price, I guess.",
-        "pt": "[Silk]\nBem... Toda diversão tem um preço, eu acho.",
-        "es": "[Seda]\nBueno… La diversión tiene un precio, supongo."
+        "ko": "실크: 역시... 즐거움에는 댓가가 따르는 법이군요.",
+        "en": "Silk: As expected... There is always a price for enjoyment.",
+        "pt": "Seda: Como eu pensava... a diversão sempre tem um preço.",
+        "es": "Seda: Como era de esperar... la diversión tiene un precio."
     },
     "BdjoBw": {
-        "en": "Silk: Well... Fun comes with a price, I guess.",
-        "pt": "Silk: Bem... Toda diversão tem um preço, eu acho.",
-        "es": "Seda: Bueno…"
+        "ko": "[실크]\n귀여움을 만끽하기 위해서는 팔다리 정도 언제든지 내어 줄 각오...!",
+        "en": "[Silk]\nTo fully enjoy cuteness, you must be prepared to give up an arm or a leg at any time...!",
+        "pt": "[Seda]\nPara aproveitar a fofura ao máximo, é preciso estar preparado para oferecer braços e pernas a qualquer momento...!",
+        "es": "[Seda]\nPara disfrutar al máximo de lo adorable, la determinación de ofrecer brazos y piernas en cualquier momento..."
     },
     "BtjoBw": {
-        "en": "[Silk]\nYou're prepared to give up your limbs to be with cute things...!",
-        "pt": "[Silk]\nVocê está preparado para abrir mão dos seus membros para ficar com coisinhas fofinhas...",
-        "es": "[Seda]\n¡Estás dispuesto a renunciar a tus extremidades para estar con cosas bonitas...!"
+        "ko": "실크: 귀여움을 만끽하기 위해서는 팔다리 정도 언제든지 내어 줄 각오...!",
+        "en": "Silk: To fully enjoy cuteness, you must be prepared to give up an arm or a leg at any time...!",
+        "pt": "Seda: Para aproveitar a fofura ao máximo, é preciso estar preparado para oferecer braços e pernas a qualquer momento...!",
+        "es": "Seda: Para disfrutar al máximo de lo adorable, la determinación de ofrecer brazos y piernas en cualquier momento..."
     },
     "B9joBw": {
-        "en": "Silk: You're prepared to give up your limbs to be with cute things...!",
-        "pt": "Silk: Você está preparado para abrir mão dos seus membros para ficar com coisinhas fofinhas...",
-        "es": "Seda:"
+        "ko": "[실크]\n손님들 다시 봤어요. 존경스러워요. 아, 물론 처음부터 존경스러웠지만요.",
+        "en": "[Silk]\nI see you guests in a new light. I respect you. Ah, of course, I respected you from the beginning.",
+        "pt": "[Seda]\nPassei a ver vocês, clientes, de outra forma. Eu os respeito. Ah, claro, eu já os respeitava desde o começo.",
+        "es": "[Seda]\nLos he vuelto a ver con otros ojos. Los admiro. Ah, aunque, por supuesto, ya los admiraba desde el principio."
     },
     "CNjoBw": {
-        "en": "[Silk]\nSo impressive. I admire you all. Uh, that came out wrong. Of course I've admired you from the start.",
-        "pt": "[Silk]\nImpressionante. Eu admiro vocês. Ah, isso soou estranho. É claro que te admirei desde o começo.",
-        "es": "[Seda]\nImpresionante. Los admiro a todos. Uy, eso salió mal. Por supuesto que los he admirado desde el principio."
+        "ko": "실크: 손님들 다시 봤어요. 존경스러워요. 아, 물론 처음부터 존경스러웠지만요.",
+        "en": "Silk: I see you guests in a new light. I respect you. Ah, of course, I respected you from the beginning.",
+        "pt": "Seda: Passei a ver vocês, clientes, de outra forma. Eu os respeito. Ah, claro, eu já os respeitava desde o começo.",
+        "es": "Seda: Los he vuelto a ver con otros ojos. Los admiro. Ah, aunque, por supuesto, ya los admiraba desde el principio."
     },
     "CdjoBw": {
-        "en": "Silk: So impressive. I admire you all. Uh, that came out wrong. Of course I've admired you from the start.",
-        "pt": "Silk: Impressionante. Eu admiro vocês. Ah, isso soou estranho. É claro que te admirei desde o começo.",
-        "es": "Seda:"
+        "ko": "[실크]\n자동인형이 농담도 하냐구요? 에이, 농담도 잘 하시네. 저는 항상 진심이에요.",
+        "en": "[Silk]\nYou ask if an automaton can tell jokes? Oh, you are quite the joker. I am always serious.",
+        "pt": "[Seda]\nVocê está perguntando se uma boneca automática também faz piadas? Ora, você também é bom em piadas. Eu sempre falo sério.",
+        "es": "[Seda]\n¿Que si una muñeca automática también bromea? Vaya, qué bien bromean. Yo siempre hablo en serio."
     },
     "CtjoBw": {
-        "en": "[Silk]\nCan a robot joke, you say? You jest. I always speak sincerely.",
-        "pt": "[Silk]\nQuer saber se um robô pode fazer piada? Você está brincando. Eu sempre sou sincera.",
-        "es": "[Seda]\n¿Puede un robot bromear, dices? Bromeas. Siempre hablo con sinceridad."
+        "ko": "실크: 자동인형이 농담도 하냐구요? 에이, 농담도 잘 하시네. 저는 항상 진심이에요.",
+        "en": "Silk: You ask if an automaton can tell jokes? Oh, you are quite the joker. I am always serious.",
+        "pt": "Seda: Você está perguntando se uma boneca automática também faz piadas? Ora, você também é bom em piadas. Eu sempre falo sério.",
+        "es": "Seda: ¿Que si una muñeca automática también bromea? Vaya, qué bien bromean. Yo siempre hablo en serio."
     },
     "C9joBw": {
-        "en": "Silk: Can a robot joke, you say? You jest. I always speak sincerely.",
-        "pt": "Silk: Quer saber se um robô pode fazer piada? Você está brincando. Eu sempre sou sincera.",
-        "es": "Seda:"
+        "ko": "[실크]\n아직 수확할 게 남았냐고요? 저도 그게 안타까워요... 다음 구역으로 이동하시죠.",
+        "en": "[Silk]\nYou ask if there is still more to harvest? I regret that, too... Let us move to the next area.",
+        "pt": "[Seda]\nVocê está perguntando se ainda resta algo para colher? Eu também acho isso lamentável... Vamos nos mover para a próxima área.",
+        "es": "[Seda]\n¿Que aún queda algo por cosechar? A mí también me apena... vayamos a la siguiente zona."
     },
     "DNjoBw": {
-        "en": "[Silk]\nYes, there's still more to harvest. What a shame... Let's move on to the next spot.",
-        "pt": "[Silk]\nSim, ainda tem mais para coletar. Que pena... Vamos em frente para o próximo local.",
-        "es": "[Seda]\nSí, aún queda más por cosechar. ¡Qué lástima! Vamos al siguiente punto."
+        "ko": "실크: 아직 수확할 게 남았냐고요? 저도 그게 안타까워요... 다음 구역으로 이동하시죠.",
+        "en": "Silk: You ask if there is still more to harvest? I regret that, too... Let us move to the next area.",
+        "pt": "Seda: Você está perguntando se ainda resta algo para colher? Eu também acho isso lamentável... Vamos nos mover para a próxima área.",
+        "es": "Seda: ¿Que aún queda algo por cosechar? A mí también me apena... vayamos a la siguiente zona."
     },
     "DdjoBw": {
-        "en": "Silk: Yes, there's still more to harvest. What a shame... Let's move on to the next spot.",
-        "pt": "Silk: Sim, ainda tem mais para coletar. Que pena... Vamos em frente para o próximo local.",
-        "es": "Seda:  ¡Qué lástima! Pasemos al siguiente háabitat."
-    },
-    "DtjoBw": {
+        "ko": "디오",
         "en": "Dio",
         "pt": "Dio",
         "es": "Dio"
     },
-    "D9joBw": {
+    "DtjoBw": {
+        "ko": "로로",
         "en": "Roro",
         "pt": "Roro",
         "es": "Roro"
     },
-    "ENjoBw": {
+    "D9joBw": {
+        "ko": "자스민",
         "en": "Jasmine",
-        "pt": "Jasmine",
-        "es": "Jasmine"
+        "pt": "Jasmim",
+        "es": "Jazmín"
     },
-    "EdjoBw": {
+    "ENjoBw": {
+        "ko": "멜로디",
         "en": "Melody",
         "pt": "Melody",
         "es": "Melody"
     },
-    "EtjoBw": {
+    "EdjoBw": {
+        "ko": "미스티",
         "en": "Misty",
         "pt": "Misty",
         "es": "Misty"
     },
-    "E9joBw": {
-        "en": "Sandy",
-        "pt": "Sandy",
-        "es": "Sandy"
+    "EtjoBw": {
+        "ko": "샌디",
+        "en": "Advanced Papila Kai Card",
+        "pt": "Papila Anil",
+        "es": "Carta Senior Papila Kai"
     },
-    "FNjoBw": {
+    "E9joBw": {
+        "ko": "보니",
         "en": "Bonnie",
         "pt": "Bonnie",
         "es": "Bonnie"
     },
+    "FNjoBw": {
+        "ko": "실크: 끝났나요!?",
+        "en": "Silk: Is it finished!?",
+        "pt": "Seda: Terminou!?",
+        "es": "Seda: ¿Ya terminó!?"
+    },
     "FdjoBw": {
-        "en": "Silk: Are you done!?",
-        "pt": "Silk: Já terminou?!",
-        "es": "Seda: ¿Ya terminaste?"
+        "ko": "실크: ......",
+        "en": "Silk: ......",
+        "pt": "Seda: ......",
+        "es": "Seda: ......"
     },
     "FtjoBw": {
-        "en": "Silk: ......",
-        "pt": "Silk: ......",
-        "es": "Seda: ..."
+        "ko": "실크: ............다르긴 뭐가 달라!",
+        "en": "Silk: ............What do you mean, different!",
+        "pt": "Seda: ............Diferente em quê?!",
+        "es": "Seda: ............¡Qué va a ser diferente!"
     },
     "F9joBw": {
-        "en": "Silk: This is not different at all!",
-        "pt": "Silk: Não tem diferença nenhuma!",
-        "es": "Seda: ¡Esto no es diferente en absoluto!"
+        "ko": "실크: 자동인형 살려요!",
+        "en": "Silk: Save the automaton!",
+        "pt": "Seda: Salvem o autômato!",
+        "es": "Seda: ¡Salven a la muñeca automática!"
     },
     "GNjoBw": {
-        "en": "Silk: Somebody help this poor robot!",
-        "pt": "Silk: Alguém ajude essa pobre robô!",
-        "es": "Seda: ¡Que alguien ayude a este pobre robot!"
+        "ko": "[실크]\n걱정이 많아요...",
+        "en": "[Silk]\nI'm so worried...",
+        "pt": "[Seda]\nEstou muito preocupada...",
+        "es": "[Seda]\nMe preocupo mucho..."
     },
     "GdjoBw": {
-        "en": "[Silk]\nI'm worried...",
-        "pt": "[Silk]\nEstou preocupada...",
-        "es": "[Seda]\nEstoy preocupada..."
+        "ko": "실크: 걱정이 많아요...",
+        "en": "Silk: I'm so worried...",
+        "pt": "Seda: Estou muito preocupada...",
+        "es": "Seda: Me preocupo mucho..."
     },
     "GtjoBw": {
-        "en": "Silk: I'm worried...",
-        "pt": "Silk: Estou preocupada...",
-        "es": "Seda: Estoy preocupada..."
+        "ko": "[실크]\n우리끼리는 구분이 없는데 얘들은 우릴 구분한단 말이에요?",
+        "en": "[Silk]\nWe don't distinguish among ourselves, but they can tell us apart?",
+        "pt": "[Seda]\nEntre nós não há distinção, mas eles dizem que conseguem nos distinguir?",
+        "es": "[Seda]\nEntre nosotros no hay distinción, ¿pero ellos dicen que sí nos distinguen?"
     },
     "G9joBw": {
-        "en": "[Silk]\nWe don't really distinguish every one of us, but they do.",
-        "pt": "[Silk]\nNós não distinguimos cada um de nós, mas elas sim.",
-        "es": "[Seda]\nEn realidad no distinguimos a cada uno de nosotros, pero ellos sí."
+        "ko": "실크: 우리끼리는 구분이 없는데 얘들은 우릴 구분한단 말이에요?",
+        "en": "Silk: We don't distinguish among ourselves, but they can tell us apart?",
+        "pt": "Seda: Entre nós não há distinção, mas eles dizem que conseguem nos distinguir?",
+        "es": "Seda: Entre nosotros no hay distinción, ¿pero ellos dicen que sí nos distinguen?"
     },
     "HNjoBw": {
-        "en": "Silk: We don't really distinguish every one of us, but they do.",
-        "pt": "Silk: Nós não distinguimos cada um de nós, mas elas sim.",
-        "es": "Seda:"
+        "ko": "[실크]\n냄새가 나나...? 킁킁.",
+        "en": "[Silk]\nDo I smell...? Sniff sniff.",
+        "pt": "[Seda]\nSerá que tem cheiro...? Snif snif.",
+        "es": "[Seda]\n¿Será que huelo...? Snif, snif."
     },
     "HdjoBw": {
-        "en": "[Silk]\nIs it because of the smell? *Sniff*",
-        "pt": "[Silk]\nÉ por causa do cheiro? *Sniff*",
-        "es": "[Seda]\n¿Es por el olor? *Sollozo*"
+        "ko": "실크: 냄새가 나나...? 킁킁.",
+        "en": "Silk: Do I smell...? Sniff sniff.",
+        "pt": "Seda: Será que tem cheiro...? Snif snif.",
+        "es": "Seda: ¿Será que huelo...? Snif, snif."
     },
     "HtjoBw": {
-        "en": "Silk: Is it because of the smell? *Sniff*",
-        "pt": "Silk: É por causa do cheiro? *Sniff*",
-        "es": "Seda:"
+        "ko": "[실크]\n그나저나... 오늘 할당량은 드디어 절반을 넘었어요.",
+        "en": "[Silk]\nAnyway... today's quota has finally passed the halfway point.",
+        "pt": "[Seda]\nDe qualquer forma... a cota de hoje finalmente passou da metade.",
+        "es": "[Seda]\nPor cierto... por fin, la cuota de hoy ya superó la mitad."
     },
     "H9joBw": {
-        "en": "[Silk]\nSo, we've finally filled about half of today's quota.",
-        "pt": "[Silk]\nEntão, finalmente atingimos metade da cota de hoje.",
-        "es": "[Seda]\nPor fin hemos cubierto la mitad de la cuota de hoy."
+        "ko": "실크: 그나저나... 오늘 할당량은 드디어 절반을 넘었어요.",
+        "en": "Silk: Anyway... today's quota has finally passed the halfway point.",
+        "pt": "Seda: De qualquer forma... a cota de hoje finalmente passou da metade.",
+        "es": "Seda: Por cierto... por fin, la cuota de hoy ya superó la mitad."
     },
     "INjoBw": {
-        "en": "Silk: So, we've finally filled about half of today's quota.",
-        "pt": "Silk: Então, finalmente atingimos metade da cota de hoje.",
-        "es": "Seda:"
+        "ko": "[실크]\n이게 다 손님들이 도와 주신 덕분이에요... 너무 감사해요.",
+        "en": "[Silk]\nIt's all thanks to the customers helping me... Thank you so much.",
+        "pt": "[Seda]\nTudo isso é graças à ajuda dos clientes... Muito obrigada.",
+        "es": "[Seda]\nTodo es gracias a que los clientes me ayudaron... Muchas gracias."
     },
     "IdjoBw": {
-        "en": "[Silk]\nThis is all thanks to you all. Thank you so much.",
-        "pt": "[Silk]\nFoi tudo graças a vocês. Você tem minha gratidão.",
-        "es": "[Seda]\nTodo esto es gracias a ti. Muchas gracias."
+        "ko": "실크: 이게 다 손님들이 도와 주신 덕분이에요... 너무 감사해요.",
+        "en": "Silk: It's all thanks to the customers helping me... Thank you so much.",
+        "pt": "Seda: Tudo isso é graças à ajuda dos clientes... Muito obrigada.",
+        "es": "Seda: Todo es gracias a que los clientes me ayudaron... Muchas gracias."
     },
     "ItjoBw": {
-        "en": "Silk: This is all thanks to you all. Thank you so much.",
-        "pt": "Silk: Foi tudo graças a vocês. Você tem minha gratidão.",
-        "es": "Seda: ¡Todo esto es gracias a ti! Muchas gracias."
+        "ko": "[실크]\n그럼 여기 근처의 피타야들을 불러 볼게요...",
+        "en": "[Silk]\nThen I'll call the Pitayas nearby...",
+        "pt": "[Seda]\nEntão vou chamar as Pitayas aqui por perto...",
+        "es": "[Seda]\nEntonces, llamaré a las Pitayas de por aquí..."
     },
     "I9joBw": {
-        "en": "[Silk]\nI'll call the Pitayas now.",
-        "pt": "[Silk]\nEu vou chamar as Pitaias agora.",
-        "es": "[Seda]\nLlamaré a los Pitayas ahora."
+        "ko": "실크: 그럼 여기 근처의 피타야들을 불러 볼게요...",
+        "en": "Silk: Then I'll call the Pitayas nearby...",
+        "pt": "Seda: Então vou chamar as Pitayas aqui por perto...",
+        "es": "Seda: Entonces, llamaré a las Pitayas de por aquí..."
     },
     "JNjoBw": {
-        "en": "Silk: I'll call the Pitayas now.",
-        "pt": "Silk: Eu vou chamar as Pitaias agora.",
-        "es": "Seda:"
+        "ko": "[실크]\n루이난의 지시대로라면 이제 남은 건...",
+        "en": "[Silk]\nIf I follow Luynan's instructions, all that's left now is...",
+        "pt": "[Seda]\nSe for como Luynan ordenou, agora só falta...",
+        "es": "[Seda]\nSegún las instrucciones de Luynan, ahora lo único que queda es..."
     },
     "JdjoBw": {
-        "en": "[Silk]\nAccording to Ruinan's instructions, only one thing remains now.",
-        "pt": "[Silk]\nDe acordo com as instruções do Ruinan, só falta uma coisa agora.",
-        "es": "[Seda]\nSegún las instrucciones de Ruinan, ahora sólo queda una cosa."
+        "ko": "실크: 루이난의 지시대로라면 이제 남은 건...",
+        "en": "Silk: If I follow Luynan's instructions, all that's left now is...",
+        "pt": "Seda: Se for como Luynan ordenou, agora só falta...",
+        "es": "Seda: Según las instrucciones de Luynan, ahora lo único que queda es..."
     },
     "JtjoBw": {
-        "en": "Silk: According to Ruinan's instructions, only one thing remains now.",
-        "pt": "Silk: De acordo com as instruções do Ruinan, só falta uma coisa agora.",
-        "es": "Seda:"
+        "ko": "[실크]\n보스 야옹이 뿐...",
+        "en": "[Silk]\nOnly Pitaya Cat...",
+        "pt": "[Seda]\nSó Árvore de Pitaya...",
+        "es": "[Seda]\nSolo Gato Pitaya..."
     },
     "J9joBw": {
-        "en": "[Silk]\nThe Boss Meow.",
-        "pt": "[Silk]\nO Miau Chefe.",
-        "es": "[Seda]\nEl Jefe Miau."
+        "ko": "실크: 보스 야옹이 뿐...",
+        "en": "Silk: Only Pitaya Cat...",
+        "pt": "Seda: Só Árvore de Pitaya...",
+        "es": "Seda: Solo Gato Pitaya..."
     },
     "KNjoBw": {
-        "en": "Silk: The Boss Meow.",
-        "pt": "Silk: O Miau Chefe.",
-        "es": "Seda:"
+        "ko": "[{0}]\n보스 야옹이?",
+        "en": "[{0}]\nPitaya Cat?",
+        "pt": "[{0}]\nÁrvore de Pitaya?",
+        "es": "[{0}]\n¿Gato Pitaya?"
     },
     "KdjoBw": {
-        "en": "[{}]\nBoss Meow?",
-        "pt": "[{}]\nMiau Chefe?",
-        "es": "[{}]\n¿Jefe Meow?"
+        "ko": "보스 야옹이?",
+        "en": "Pitaya Cat?",
+        "pt": "Árvore de Pitaya?",
+        "es": "¿Gato Pitaya?"
     },
     "KtjoBw": {
-        "en": "Boss Meow?",
-        "pt": "Miau Chefe?",
-        "es": "¿Jefe Meow?"
+        "ko": "[실크]\n귀여움의 조건이 잘 무는 거라면 보스 야옹이는 보스인 만큼 더 귀엽고 더 잘 물겠죠...",
+        "en": "[Silk]\nIf the condition for being cute is biting well, then since Pitaya Cat is a boss, it must be even cuter and bite even better...",
+        "pt": "[Seda]\nSe a condição para ser fofo é morder bem, então, por ser um chefe, Árvore de Pitaya deve ser ainda mais fofo e morder ainda melhor...",
+        "es": "[Seda]\nSi la condición para ser adorable es morder bien, entonces Gato Pitaya, al ser un jefe, será más adorable y morderá mejor..."
     },
     "K9joBw": {
-        "en": "[Silk]\nAll cute things bite, and Boss Meow is the boss of cute things. Therefore, it should be cuter and bite more often...",
-        "pt": "[Silk]\nTodas as coisas fofinhas mordem, e o Miau Chefe é o chefe de coisas fofinhas. Por isso, deve ser mais fofo e morder mais vezes...",
-        "es": "[Seda]\nTodas las cosas bonitas muerden, y el Jefe Miau es el jefe de las cosas bonitas. Por lo tanto, debería ser más mono y morder más a menudo..."
+        "ko": "실크: 귀여움의 조건이 잘 무는 거라면 보스 야옹이는 보스인 만큼 더 귀엽고 더 잘 물겠죠...",
+        "en": "Silk: If the condition for being cute is biting well, then since Pitaya Cat is a boss, it must be even cuter and bite even better...",
+        "pt": "Seda: Se a condição para ser fofo é morder bem, então, por ser um chefe, Árvore de Pitaya deve ser ainda mais fofo e morder ainda melhor...",
+        "es": "Seda: Si la condición para ser adorable es morder bien, entonces Gato Pitaya, al ser un jefe, será más adorable y morderá mejor..."
     },
     "LNjoBw": {
-        "en": "Silk: All cute things bite, and Boss Meow is the boss of cute things. Therefore, it should be cuter and bite more often...",
-        "pt": "Silk: Todas as coisas fofinhas mordem, e o Miau Chefe é o chefe de coisas fofinhas. Por isso, deve ser mais fofo e morder mais vezes...",
-        "es": "Seda:"
+        "ko": "[실크]\n...잘 물겠죠...?",
+        "en": "[Silk]\n...It bites well... right...?",
+        "pt": "[Seda]\n...deve morder bem... né...?",
+        "es": "[Seda]\n...¿morderá bien... ?"
     },
     "LdjoBw": {
-        "en": "[Silk]\n...I guess...?",
-        "pt": "[Silk]\nAcho que sim...",
-        "es": "[Seda]\nsupongo."
+        "ko": "실크: ...잘 물겠죠...?",
+        "en": "Silk: ...It bites well... right...?",
+        "pt": "Seda: ...deve morder bem... né...?",
+        "es": "Seda: ...¿morderá bien... ?"
     },
     "LtjoBw": {
-        "en": "Silk: ...I guess...?",
-        "pt": "Silk: Acho que sim...",
-        "es": "Seda: Supongo..."
+        "ko": "[실크]\n귀여움을 만끽하기 위해서는 팔다리 뿐만 아니라 동료도 언제든지 내어 줄 각오...!",
+        "en": "[Silk]\nTo fully enjoy the cuteness, you must be prepared to offer up not only your limbs, but your companions at any time...!",
+        "pt": "[Seda]\nPara aproveitar ao máximo a fofura, é preciso estar preparado para oferecer não só os braços e as pernas, mas também os companheiros, a qualquer momento...!",
+        "es": "[Seda]\nPara disfrutar al máximo de lo adorable, hay que estar preparado para ofrecer no solo brazos y piernas, ¡sino también a los compañeros en cualquier momento...!"
     },
     "L9joBw": {
-        "en": "[Silk]\nPrepare yourself, Silk! Prepare to give up your limbs and even companions to be with cute things!",
-        "pt": "[Silk]\nSe prepare, Silk! Prepare-se para abrir mão de seus membros e até de companheiros para ficar com coisinhas fofinhas!",
-        "es": "[Seda]\n¡Prepárate, Seda! ¡Prepárate para renunciar a tus miembros e incluso a tus compañeros para estar con cosas monas!"
+        "ko": "실크: 귀여움을 만끽하기 위해서는 팔다리 뿐만 아니라 동료도 언제든지 내어 줄 각오...!",
+        "en": "Silk: To fully enjoy the cuteness, you must be prepared to offer up not only your limbs, but your companions at any time...!",
+        "pt": "Seda: Para aproveitar ao máximo a fofura, é preciso estar preparado para oferecer não só os braços e as pernas, mas também os companheiros, a qualquer momento...!",
+        "es": "Seda: Para disfrutar al máximo de lo adorable, hay que estar preparado para ofrecer no solo brazos y piernas, ¡sino también a los compañeros en cualquier momento...!"
     },
     "MNjoBw": {
-        "en": "Silk: Prepare yourself, Silk! Prepare to give up your limbs and even companions to be with cute things!",
-        "pt": "Silk: Se prepare, Silk! Prepare-se para abrir mão de seus membros e até de companheiros para ficar com coisinhas fofinhas!",
-        "es": "Seda:"
+        "ko": "[실크]\n존경스러운... 손님들?",
+        "en": "[Silk]\nAdmirable... guests?",
+        "pt": "[Seda]\nRespeitáveis... visitantes?",
+        "es": "[Seda]\n¿Estimados... clientes?"
     },
     "MdjoBw": {
-        "en": "[Silk]\nThose admirable Companions who are... Erm...",
-        "pt": "[Silk]\nEsses admiráveis Companheiros que são... Hum...",
-        "es": "[Seda]\nEsos compañeros admirables que son... Mmm…"
+        "ko": "실크: 존경스러운... 손님들?",
+        "en": "Silk: Admirable... guests?",
+        "pt": "Seda: Respeitáveis... visitantes?",
+        "es": "Seda: ¿Estimados... clientes?"
     },
     "MtjoBw": {
-        "en": "Silk: Those admirable Companions who are... Erm...",
-        "pt": "Silk: Esses admiráveis Companheiros que são... Hum...",
-        "es": "Seda:  Mmm…"
+        "ko": "[실크]\n가실까요?",
+        "en": "[Silk]\nShall we go?",
+        "pt": "[Seda]\nVamos?",
+        "es": "[Seda]\n¿Nos vamos?"
     },
     "M9joBw": {
-        "en": "[Silk]\nShall we?",
-        "pt": "[Silk]\nVamos?",
-        "es": "[Seda]\n¿Vamos?"
+        "ko": "실크: 가실까요?",
+        "en": "Silk: Shall we go?",
+        "pt": "Seda: Vamos?",
+        "es": "Seda: ¿Nos vamos?"
     },
     "NNjoBw": {
-        "en": "Silk: Shall we?",
-        "pt": "Silk: Vamos?",
-        "es": "Seda: ¿Vamos?"
+        "ko": "[실크]\n지도에 표시된 위치 중 한 쪽을 골라서 가시면 돼요.",
+        "en": "[Silk]\nJust choose one of the locations marked on the map and go there.",
+        "pt": "[Seda]\nBasta escolher um dos locais marcados no mapa e ir até lá.",
+        "es": "[Seda]\nSolo tienes que elegir uno de los lugares marcados en el mapa e ir allí."
     },
     "NdjoBw": {
-        "en": "[Silk]\nPick one of the spots marked on the map and go there.",
-        "pt": "[Silk]\nEscolha um dos locais marcados no mapa e vá até lá.",
-        "es": "[Seda]\nElige uno de los puntos marcados en el mapa y ve allí."
-    },
-    "NtjoBw": {
+        "ko": "베리",
         "en": "Berry",
         "pt": "Berry",
         "es": "Berry"
     },
-    "N9joBw": {
+    "NtjoBw": {
+        "ko": "레인",
         "en": "Rain",
         "pt": "Rain",
         "es": "Rain"
     },
-    "ONjoBw": {
+    "N9joBw": {
+        "ko": "윈디",
         "en": "Windy",
         "pt": "Windy",
         "es": "Windy"
     },
-    "OdjoBw": {
+    "ONjoBw": {
+        "ko": "뽀삐",
         "en": "Poppy",
         "pt": "Poppy",
-        "es": "Poppy"
+        "es": "Estanterías desordenadas"
     },
-    "OtjoBw": {
+    "OdjoBw": {
+        "ko": "라라",
         "en": "Lara",
         "pt": "Lara",
         "es": "Lara"
     },
-    "O9joBw": {
+    "OtjoBw": {
+        "ko": "사샤",
         "en": "Sasha",
         "pt": "Sasha",
         "es": "Sasha"
     },
-    "PNjoBw": {
+    "O9joBw": {
+        "ko": "에메랄드",
         "en": "Emerald",
-        "pt": "Emerald",
-        "es": "Emerald"
+        "pt": "Esmeralda",
+        "es": "Esmeralda"
+    },
+    "PNjoBw": {
+        "ko": "실크: 보스 야옹이가 평소에 자고 있는 장미 정원은 2층에 있어요.",
+        "en": "Silk: The Rose Garden where Pitaya Cat usually sleeps is on the 2nd floor.",
+        "pt": "Seda: O jardim de rosas onde a Árvore de Pitaya costuma dormir fica no 2º andar.",
+        "es": "Seda: El jardín de rosas donde Gato Pitaya suele dormir está en el 2.º piso."
     },
     "PdjoBw": {
-        "en": "Silk: The Rose Garden, where Boss Meow sleeps, is on the second floor.",
-        "pt": "Silk: O Jardim das Rosas, onde o Miau Chefe dorme, fica no segundo andar.",
-        "es": "Seda: La Rosaleda, donde duerme el Jefe Meow, está en la segunda planta."
+        "ko": "실크: 어디 보자, 루이난의 기록은... 거기까지 가려면 큰 야옹이를 깨워야 하는데...",
+        "en": "Silk: Let’s see, Luynan’s record is... To get there, you’ll have to wake the big Cat...",
+        "pt": "Seda: Deixe-me ver, os registros de Luynan... Para chegar lá, você vai ter que acordar um Gato grande...",
+        "es": "Seda: A ver, los registros de Luynan... Para llegar hasta allí, hay que despertar al gran Gato..."
     },
     "PtjoBw": {
-        "en": "Silk: Let's see what Ruinan said... To go there, we must wake up the Big Meow...",
-        "pt": "Silk: Vamos ver o que Ruinan disse... Para chegar lá, temos que acordar o Miau Chefe...",
-        "es": "Seda: Veamos de qué eres capaz. Para ir allí, debemos despertar al Gran Miau..."
+        "ko": "실크: ...그러니까, 큰 야옹이가 두 마리... 보스 야옹이랑 큰 야옹이들은 서열이 있어서 식사 시간에 낮잠 자는 위치가 정해져 있고...",
+        "en": "Silk: ...So, there are two big Cats... Pitaya Cat and the big meow-meows have a pecking order, so their nap spots are decided at mealtime...",
+        "pt": "Seda: ...Então, dois Gato grandes... A Árvore de Pitaya e os grandes gatinhos têm uma hierarquia, então o lugar onde tiram uma soneca na hora da refeição já está definido...",
+        "es": "Seda: ...O sea, hay dos grandes Gato... Gato Pitaya y los grandes miau tienen una jerarquía, así que en la hora de comer tienen fijado el lugar donde echan la siesta..."
     },
     "P9joBw": {
-        "en": "Silk: ...So, there are two Big Meows... There's a pecking order between Boss Meow and Big Meows, so each of them has a designated napping spot...",
-        "pt": "Silk: ... Então, tem dois Grandes Miaus... Há uma hierarquia entre o Miau Chefe e o Grande Miau, então cada um deles tem um local designado para cochilar...",
-        "es": "Seda: ...Entonces, hay dos Big Meows... Hay un orden jerárquico entre el Jefe Miau y el Gran Miau, así que cada uno de ellos tiene un lugar designado para dormir la siesta..."
+        "ko": "실크: 그 중 하나만 달래서 길을 비키게 만들면 되는 모양이네요. 그럼, 한 쪽을 정해서 가시면 반대쪽은 제가 가서.... 밥을 줄게요...",
+        "en": "Silk: It looks like you only need to coax one of them to move out of the way. Then, choose one side and go, and I’ll go to the other side and.... feed them...",
+        "pt": "Seda: Parece que basta acalmar só um deles para que ele saia do caminho. Então, se você escolher um lado e for, eu vou para o outro lado e.... vou dar comida...",
+        "es": "Seda: Parece que basta con calmar a uno de ellos para que se aparte del camino. Entonces, elija un lado y vaya; yo iré al lado contrario y... le daré de comer..."
     },
     "QNjoBw": {
-        "en": "Silk: What we have to do is coax one of them to make way for us. So, if you pick one Big Meow, I'll take the other one and... feed it...",
-        "pt": "Silk: O que temos que fazer é convencer um deles a abrir caminho para nós. Então, se você escolher um Grande Miau, eu vou enfrentar o outro e... alimentá-lo...",
-        "es": "Seda: Lo que tenemos que hacer es convencer a uno de ellos para que nos deje paso. Así que, si eliges un Gran Miau, yo cogeré el otro y... lo alimentaré..."
+        "ko": "실크: 괜찮아요, 저는 시력이 좋으니까 도착해서 신호를 보내시면 알아서 할게요! 자, 그럼 가까이 계신 분들께는 좌표를 지도에 표시해 드릴게요...",
+        "en": "Silk: It’s okay, my eyesight is good, so if you send a signal when you arrive, I’ll take care of it! Now then, for those nearby, I’ll mark the coordinates on your map...",
+        "pt": "Seda: Tudo bem, eu tenho boa visão, então quando você chegar e mandar um sinal, eu vou saber o que fazer! Certo, então vou marcar as coordenadas no mapa para quem estiver mais perto...",
+        "es": "Seda: No pasa nada, tengo buena vista, así que cuando llegue y envíe una señal, ¡me encargaré yo sola! Bien, entonces a quienes estén cerca les marcaré las coordenadas en el mapa..."
     },
     "QdjoBw": {
-        "en": "Silk: I can do this! I have good sights. Give me a signal when you're there, and I'll take care from there! Now, let me mark the coordinates on your maps...",
-        "pt": "Silk: Deixa comigo! Eu tenho uma boa visão. Me dê um sinal quando vocês chegarem lá, e eu cuido disso! Agora, deixe-me marcar as coordenadas nos seus mapas...",
-        "es": "Seda: ¡Puedo hacer esto! Tengo buenas miras. Hazme una señal cuando estés allí, ¡y yo me encargaré a partir de ahí! Ahora, déjame marcar las coordenadas en sus mapas..."
+        "ko": "실크: 저느은~~~",
+        "en": "Silk: I’m fiiiine~~~",
+        "pt": "Seda: Euuuuu~~~",
+        "es": "Seda: Yoo~~~"
     },
     "QtjoBw": {
-        "en": "Silk: I... am...",
-        "pt": "Silk: Eu... estou...",
-        "es": "Seda: Estoy..."
+        "ko": "실크: ...괜찮아요~~~",
+        "en": "Silk: ...It’s okay~~~",
+        "pt": "Seda: ...Tudo beeem~~~",
+        "es": "Seda: ...No pasa nada~~~"
     },
     "Q9joBw": {
-        "en": "Silk: ...fi--ine!",
-        "pt": "Silk: ... be... m!",
-        "es": "Seda: ¡bien!"
+        "ko": "실크: 저, 정말이에요~~~~~~~ 꺄악!",
+        "en": "Silk: I-I really am~~~~~~~ Eek!",
+        "pt": "Seda: Eu, é sério~~~~~~~ Aaaah!",
+        "es": "Seda: Yo, de verdad~~~~~~~ ¡Aaaah!"
     },
     "RNjoBw": {
-        "en": "Silk: I, r-really aaaam--! Waaaaaaah!",
-        "pt": "Silk: Eu e-estou meeeesmo... Buáááá!",
-        "es": "Seda: En verdad estoy... ¡¡¡¡Waaa-!!!!"
+        "ko": "실크: 도망치면 안돼! 도망치면 안돼!",
+        "en": "Silk: Don’t run away! Don’t run away!",
+        "pt": "Seda: Não pode fugir! Não pode fugir!",
+        "es": "Seda: ¡No huyas! ¡No huyas!"
     },
     "RdjoBw": {
-        "en": "Silk: No running away! No running away!",
-        "pt": "Silk: Sem fugir! Sem fugir!",
-        "es": "Seda: ¿Huir?"
+        "ko": "큰 야옹이",
+        "en": "Big Cat",
+        "pt": "Grande Gato",
+        "es": "Gran Gato"
     },
     "RtjoBw": {
-        "en": "Big Meow",
-        "pt": "Grande Miau",
-        "es": "Big Meow"
+        "ko": "[큰 야옹이]\n꾸룩.",
+        "en": "[Big Cat]\nGrrk.",
+        "pt": "[Grande Gato]\nGrruk.",
+        "es": "[Gran Gato]\nGrrk."
     },
     "R9joBw": {
-        "en": "[Big Meow]\nGrr.",
-        "pt": "[Grande Miau]\nGrr.",
-        "es": "[Gran Miau]\n¡Grr!"
+        "ko": "-- 야옹이는 코를 훌쩍거리고 있다. --",
+        "en": "-- Cat is sniffing. --",
+        "pt": "-- Gato está fungando. --",
+        "es": "-- Gato está olfateando. --"
     },
     "SNjoBw": {
-        "en": "-- Big Meow is sniffling. --",
-        "pt": "-- Grande Miau está farejando. --",
-        "es": "-- Gran Miau está moqueando. --"
+        "ko": "[큰 야옹이]\n고릉. 고릉.",
+        "en": "[Big Cat]\nGrrr. Grrr.",
+        "pt": "[Grande Gato]\nGrrr. Grrr.",
+        "es": "[Gran Gato]\nGrrr. Grrr."
     },
     "SdjoBw": {
-        "en": "[Big Meow]\nPrrrr. Prrrr.",
-        "pt": "[Grande Miau]\nPrrrr. Prrrr.",
-        "es": "[Gran Miau]\nPrrrrr. Prrrrr."
+        "ko": "-- 야옹이는 낮잠을 자고 있다. --",
+        "en": "-- Cat is taking a nap. --",
+        "pt": "-- Gato está tirando uma soneca. --",
+        "es": "-- Gato está echando una siesta. --"
     },
     "StjoBw": {
-        "en": "-- Meow is taking a nap. --",
-        "pt": "-- Miau está cochilando. --",
-        "es": "-- Miau está durmiendo la siesta. --"
+        "ko": "실크: 꺄아아아! 자동인형 살려!!",
+        "en": "Silk: Aaaah! Save me, automaton!!",
+        "pt": "Seda: Aaaah! Autômato, me salva!!",
+        "es": "Seda: ¡Aaaah! ¡Autómata, sálvame!!"
     },
     "S9joBw": {
-        "en": "Silk: Waaaaaah! Somebody help me!!",
-        "pt": "Silk: Buáááá! Alguém me ajuda!",
-        "es": "Seda: ¡¡¡¡Waaa!!!! ¡¡Que alguien me ayude!!"
+        "ko": "실크: 저는 성공했어요!!!!!!",
+        "en": "Silk: I did it!!!!!!",
+        "pt": "Seda: Eu consegui!!!!!!",
+        "es": "Seda: ¡¡¡¡¡¡Lo logré!!!!!!"
     },
     "TNjoBw": {
-        "en": "Silk: I've done it!!!!!!",
-        "pt": "Silk: Eu consegui!",
-        "es": "Seda: ¡Lo hice!"
+        "ko": "실크: 보스 야옹이 앞에서 기다릴게요!",
+        "en": "Silk: I’ll be waiting in front of Pitaya Cat!",
+        "pt": "Seda: Vou esperar na frente da Árvore de Pitaya!",
+        "es": "Seda: ¡Esperaré frente a Gato Pitaya!"
     },
     "TdjoBw": {
-        "en": "Silk: I'll be waiting for you before Boss Meow!",
-        "pt": "Silk: Eu vou te esperar antes do Miau Chefe!",
-        "es": "Seda: Bien, te estaré esperando."
+        "ko": "큰 야옹이",
+        "en": "Big Cat",
+        "pt": "Grande Gato",
+        "es": "Gran Gato"
     },
     "TtjoBw": {
-        "en": "Big Meow",
-        "pt": "Grande Miau",
-        "es": "Big Meow"
+        "ko": "큰 야옹이: 그르릉.",
+        "en": "Big Cat: Grrrr.",
+        "pt": "Grande Gato: Grrr.",
+        "es": "Gran Gato: Grrr."
     },
     "T9joBw": {
-        "en": "Big Meow: Grrrr.",
-        "pt": "Grande Miau: Grrrr.",
-        "es": "Gran Miau: ¡Grrr!"
+        "ko": "큰 야옹이: 엣취.",
+        "en": "Big Cat: Achoo.",
+        "pt": "Grande Gato: Atchim.",
+        "es": "Gran Gato: ¡Achís."
     },
     "UNjoBw": {
-        "en": "Big Meow: Achoo.",
-        "pt": "Grande Miau: Atchim.",
-        "es": "¡Achús!"
-    },
-    "UdjoBw": {
+        "ko": "펄",
         "en": "Pearl",
         "pt": "Pérola",
         "es": "Pearl"
     },
-    "UtjoBw": {
+    "UdjoBw": {
+        "ko": "사파이어",
         "en": "Sapphire",
         "pt": "Safira",
-        "es": "Sapphire"
+        "es": "Zafiro"
     },
-    "U9joBw": {
+    "UtjoBw": {
+        "ko": "루비",
         "en": "Ruby",
         "pt": "Rubi",
-        "es": "Ruby"
+        "es": "Rubí"
     },
-    "VNjoBw": {
+    "U9joBw": {
+        "ko": "다이아몬드",
         "en": "Diamond",
         "pt": "Diamante",
-        "es": "Diamond"
+        "es": "Diamante"
+    },
+    "VNjoBw": {
+        "ko": "사드오닉스",
+        "en": "Sardonyx",
+        "pt": "Peridoto",
+        "es": "Sardónice"
     },
     "VdjoBw": {
-        "en": "Sardonyx",
-        "pt": "Esmeralda",
-        "es": "Sardonyx"
+        "ko": "오팔",
+        "en": "Opal",
+        "pt": "Opala",
+        "es": "Ópalo"
     },
     "VtjoBw": {
-        "en": "Opal",
-        "pt": "Sardonyx",
-        "es": "Opal"
+        "ko": "토파즈",
+        "en": "Topaz",
+        "pt": "Topázio",
+        "es": "Topacio"
     },
     "V9joBw": {
-        "en": "Topaz",
-        "pt": "Opal",
-        "es": "Topaz"
+        "ko": "질콘",
+        "en": "Zircon",
+        "pt": "Zircônio",
+        "es": "Zircón"
     },
     "WNjoBw": {
-        "en": "Zircon",
-        "pt": "Topaz",
-        "es": "Zircon"
+        "ko": "아메디스트",
+        "en": "Amethyst",
+        "pt": "Ametista",
+        "es": "Amatista"
     },
     "WdjoBw": {
-        "en": "Amethyst",
-        "pt": "Zirconita",
-        "es": "Amethyst"
+        "ko": "아쿠아마린",
+        "en": "Aquamarine",
+        "pt": "Aquamarina",
+        "es": "Aguamarina"
     },
     "WtjoBw": {
-        "en": "Aquamarine",
-        "pt": "Ametista",
-        "es": "Aquamarine"
+        "ko": "가넷",
+        "en": "Garnet",
+        "pt": "Granada",
+        "es": "Granate"
     },
     "W9joBw": {
-        "en": "Garnet",
-        "pt": "Água Marinha",
-        "es": "Garnet"
+        "ko": "아이올라이트",
+        "en": "Iolite",
+        "pt": "Iolita",
+        "es": "Iolita"
     },
     "XNjoBw": {
-        "en": "Iolite",
-        "pt": "Granada",
-        "es": "Iolite"
+        "ko": "시트린",
+        "en": "Citrine",
+        "pt": "Citrino",
+        "es": "Citrino"
     },
     "XdjoBw": {
-        "en": "Citrine",
-        "pt": "Iolite",
-        "es": "Citrine"
+        "ko": "페리도트",
+        "en": "Peridot",
+        "pt": "Peridoto",
+        "es": "Peridoto"
     },
     "XtjoBw": {
-        "en": "Peridot",
-        "pt": "Citrina",
-        "es": "Peridot"
+        "ko": "루틸",
+        "en": "Rutile",
+        "pt": "Rutilo",
+        "es": "Rutilo"
     },
     "X9joBw": {
-        "en": "Rutile",
-        "pt": "Peridoto",
-        "es": "Rutile"
+        "ko": "아라고나이트",
+        "en": "Aragonite",
+        "pt": "Aragonita",
+        "es": "Aragonito"
     },
     "YNjoBw": {
-        "en": "Aragonite",
-        "pt": "Rutilo",
-        "es": "Aragonite"
+        "ko": "앰버",
+        "en": "Amber",
+        "pt": "Âmbar",
+        "es": "Ámbar"
     },
     "YdjoBw": {
-        "en": "Amber",
-        "pt": "Aragonita",
-        "es": "Amber"
+        "ko": "조이사이트",
+        "en": "Joysite",
+        "pt": "Joysite",
+        "es": "Joysite"
     },
     "YtjoBw": {
-        "en": "Zoisite",
-        "pt": "Âmbar",
-        "es": "Zoisite"
+        "ko": "옵시디언",
+        "en": "Obsidian",
+        "pt": "Obsidiana",
+        "es": "Obsidiana"
     },
     "Y9joBw": {
-        "en": "Obsidian",
-        "pt": "Zoisite",
-        "es": "Obsidian"
+        "ko": "오닉스",
+        "en": "Onyx",
+        "pt": "Ônix",
+        "es": "Ónix"
     },
     "ZNjoBw": {
-        "en": "Onyx",
-        "pt": "Obsidiana",
-        "es": "Onyx"
+        "ko": "탄자나이트",
+        "en": "Tanzanite",
+        "pt": "Tanzanita",
+        "es": "Tanzanita"
     },
     "ZdjoBw": {
-        "en": "Tanzanite",
-        "pt": "Ônix",
-        "es": "Tanzanite"
-    },
-    "ZtjoBw": {
+        "ko": "재스퍼",
         "en": "Jasper",
-        "pt": "Tanzanita",
+        "pt": "Jasper",
         "es": "Jasper"
     },
-    "Z9joBw": {
+    "ZtjoBw": {
+        "ko": "로도나이트",
         "en": "Rhodonite",
-        "pt": "Jaspe",
-        "es": "Rhodonite"
+        "pt": "Rodonita",
+        "es": "Rodonita"
+    },
+    "Z9joBw": {
+        "ko": "제트",
+        "en": "Jett",
+        "pt": "Jett",
+        "es": "Jett"
     },
     "aNjoBw": {
-        "en": "Jet",
-        "pt": "Rodonita",
-        "es": "Jet"
+        "ko": "실크: ...쉿.",
+        "en": "Silk: ...Shh.",
+        "pt": "Seda: ...Shh.",
+        "es": "Seda: ...Shh."
     },
     "adjoBw": {
-        "en": "Silk: Shh.",
-        "pt": "Azeviche",
-        "es": "Seda: Sh..."
+        "ko": "실크: 여기까지 오시는 길의 모든 피타야와 놀아주셔야 돼요!!",
+        "en": "Silk: You have to play with every Pitaya on the way here!!",
+        "pt": "Seda: Você tem que brincar com todos os Pitaya no caminho até aqui!!",
+        "es": "Seda: ¡Tienes que jugar con todos los Pitaya del camino hasta aquí!!"
     },
     "atjoBw": {
-        "en": "Silk: You have to play with all the Pitayas on the way here!!",
-        "pt": "Silk: Shh.",
-        "es": "Seda: ¡¡Tienes que jugar con todas las Pitayas de camino aquí!!"
+        "ko": "[실크]\n....이쪽으로 와요.",
+        "en": "[Silk]\n....Come this way.",
+        "pt": "[Seda]\n....Venha por aqui.",
+        "es": "[Seda]\n....Ven por aquí."
     },
     "a9joBw": {
-        "en": "[Silk]\n...Over here.",
-        "pt": "Silk: Você tem que brincar com todas as Pitaias até aqui!",
-        "es": "[Seda]\nPor aquí."
+        "ko": "실크: ....이쪽으로 와요.",
+        "en": "Silk: ....Come this way.",
+        "pt": "Seda: ....Venha por aqui.",
+        "es": "Seda: ....Ven por aquí."
     },
     "bNjoBw": {
-        "en": "Silk: ...Over here.",
-        "pt": "[Silk]\n... Aqui.",
-        "es": "Seda: Por aquí."
+        "ko": "[실크]\n보스 야옹이가...!",
+        "en": "[Silk]\nThe Pitaya Cat...!",
+        "pt": "[Seda]\nÁrvore de Pitaya está...!",
+        "es": "[Seda]\n¡El Gato Pitaya...!"
     },
     "bdjoBw": {
-        "en": "[Silk]\nThe Boss Meow...!",
-        "pt": "Silk: ... Aqui.",
-        "es": "[Seda]\n¡El Jefe Miau!"
+        "ko": "실크: 보스 야옹이가...!",
+        "en": "Silk: The Pitaya Cat...!",
+        "pt": "Seda: Árvore de Pitaya está...!",
+        "es": "Seda: ¡El Gato Pitaya...!"
     },
     "btjoBw": {
-        "en": "Silk: The Boss Meow...!",
-        "pt": "[Silk]\nO Miau Chefe!",
-        "es": "Seda: Miau jefe"
+        "ko": "[실크]\n손니임... 엉엉...",
+        "en": "[Silk]\nM-Master... *sob*...",
+        "pt": "[Seda]\nSe-se-nhor... buáá...",
+        "es": "[Seda]\nSeñoorr... buaa..."
     },
     "b9joBw": {
-        "en": "[Silk]\nAhhhh... *Sniff Sniff*...",
-        "pt": "Silk: O Miau Chefe!",
-        "es": "[Seda]\nAhhhh... *Sollozos*..."
+        "ko": "실크: 손니임... 엉엉...",
+        "en": "Silk: M-Master... *sob*...",
+        "pt": "Seda: Se-se-nhor... buáá...",
+        "es": "Seda: Señoorr... buaa..."
     },
     "cNjoBw": {
-        "en": "Silk: Ahhhh... *Sniff Sniff*...",
-        "pt": "[Silk]\nAaaaah... *Sniff, sniff*...",
-        "es": "Seda: *Sollozos*"
+        "ko": "[실크]\n이건... 공포가 아니라 억울함 같아요오오...",
+        "en": "[Silk]\nThis is... not fear, it feels like it's unfairrr...",
+        "pt": "[Seda]\nIsto... não parece medo, parece injustiçaaa...",
+        "es": "[Seda]\nEsto... no parece miedo, sino injusticiaaa..."
     },
     "cdjoBw": {
-        "en": "[Silk]\nThis is not fear... This is depression...",
-        "pt": "Silk: Aaaaah... *Sniff, sniff*...",
-        "es": "[Seda]\nEsto no es miedo... Esto es depresión..."
+        "ko": "실크: 이건... 공포가 아니라 억울함 같아요오오...",
+        "en": "Silk: This is... not fear, it feels like it's unfairrr...",
+        "pt": "Seda: Isto... não parece medo, parece injustiçaaa...",
+        "es": "Seda: Esto... no parece miedo, sino injusticiaaa..."
     },
     "ctjoBw": {
-        "en": "Silk: This is not fear... This is depression...",
-        "pt": "[Silk]\nIsso não é medo... Isso é depressão...",
-        "es": "Seda:"
+        "ko": "[실크]\n왜 우린 다 똑같은데 루이난은 되고 나는 안 되는 거야...",
+        "en": "[Silk]\nWhy are we all the same, but Luynan can do it and I can't...",
+        "pt": "[Seda]\nPor que nós somos todos iguais, mas o Luynan pode e eu não...",
+        "es": "[Seda]\n¿Por qué si todos somos iguales, Luynan sí puede y yo no...?"
     },
     "c9joBw": {
-        "en": "[Silk]\nWhy is this possible for Ruinan but not me? Aren't we all the same!?",
-        "pt": "Silk: Isso não é medo... Isso é depressão...",
-        "es": "[Seda]\n¿Por qué es posible para Ruinan pero no para mí? ¿No somos todos iguales?"
+        "ko": "실크: 왜 우린 다 똑같은데 루이난은 되고 나는 안 되는 거야...",
+        "en": "Silk: Why are we all the same, but Luynan can do it and I can't...",
+        "pt": "Seda: Por que nós somos todos iguais, mas o Luynan pode e eu não...",
+        "es": "Seda: ¿Por qué si todos somos iguales, Luynan sí puede y yo no...?"
     },
     "dNjoBw": {
-        "en": "Silk: Why is this possible for Ruinan but not me? Aren't we all the same!?",
-        "pt": "[Silk]\nPor que é possível para o Ruinan, mas não pra mim? Não somos todos iguais?!",
-        "es": "Seda:"
+        "ko": "[{0}]\n일단 나와.",
+        "en": "[{0}]\nCome out for now.",
+        "pt": "[{0}]\nSaia primeiro.",
+        "es": "[{0}]\nSal primero."
     },
     "ddjoBw": {
-        "en": "[{}]\nGet out of there.",
-        "pt": "Silk: Por que é possível para o Ruinan, mas não pra mim? Não somos todos iguais?!",
-        "es": "[{}]\n¡Largo de aquí!"
+        "ko": "일단 나와.",
+        "en": "Come out for now.",
+        "pt": "Saia primeiro.",
+        "es": "Sal primero."
     },
     "dtjoBw": {
-        "en": "Get out of there.",
-        "pt": "[{}]\nSaia daqui.",
-        "es": "¡Largo de aquí!"
+        "ko": "실크: 꺅!",
+        "en": "Silk: Eek!",
+        "pt": "Seda: Aaaah!",
+        "es": "Seda: ¡Aaah!"
     },
     "d9joBw": {
-        "en": "Silk: Waah!",
-        "pt": "Saia daqui.",
-        "es": "Seda: ¡Ahhh!"
+        "ko": "보스 야옹이",
+        "en": "Pitaya Cat",
+        "pt": "Árvore de Pitaya",
+        "es": "Gato Pitaya"
     },
     "eNjoBw": {
-        "en": "Boss Meow",
-        "pt": "Miau Chefe",
-        "es": "Boss Meow"
+        "ko": "실크: 끝났다아아!!",
+        "en": "Silk: It’s dooone!!",
+        "pt": "Seda: Terminoooou!!",
+        "es": "Seda: ¡¡Se terminóééé!!"
     },
     "edjoBw": {
-        "en": "Silk: It's dooooooone!!",
-        "pt": "Silk: Está feeeeeeito!",
-        "es": "Seda: ¡Listo!"
-    },
-    "etjoBw": {
+        "ko": "모라",
         "en": "Mora",
         "pt": "Mora",
         "es": "Mora"
     },
-    "e9joBw": {
+    "etjoBw": {
+        "ko": "맥스",
         "en": "Max",
         "pt": "Max",
         "es": "Max"
     },
+    "e9joBw": {
+        "ko": "캐시",
+        "en": "Cash",
+        "pt": "Cash",
+        "es": "Cash"
+    },
     "fNjoBw": {
-        "en": "Cathy",
-        "pt": "Cathy",
-        "es": "Cathy"
+        "ko": "실크: 보스 야옹이를 쓰다듬쓰다듬해주세요!",
+        "en": "Silk: Please pet pet Pitaya Cat!",
+        "pt": "Seda: Faça carinho na Árvore de Pitaya!",
+        "es": "Seda: ¡Por favor, acaricien a Gato Pitaya!"
     },
     "fdjoBw": {
-        "en": "Silk: Please pet Boss Meow!",
-        "pt": "Silk: Por favor, faça carinho no Miau Chefe!",
-        "es": "Seda: El Jefe Miau."
+        "ko": "소지하고 계시는 아이템의 갯수가 많아 퀘스트를 진행 할 수 없습니다.\n아이템을 정리한 뒤 다시 시도해 주시기 바랍니다.",
+        "en": "You cannot proceed with the quest because you are carrying too many items.\nPlease organize your items and try again.",
+        "pt": "Você está com muitos itens no inventário e não pode prosseguir com a missão.\nPor favor, organize seus itens e tente novamente.",
+        "es": "No puede continuar la misión porque tiene demasiados objetos en su inventario.\nPor favor, organice sus objetos e inténtelo de nuevo."
     },
     "ftjoBw": {
-        "en": "[Silk]\nIs it because each one of us use different parts?",
-        "pt": "Tanzante",
-        "es": "[Seda]\n¿Es porque cada uno de nosotros utiliza piezas diferentes?"
+        "ko": "[실크]\n각자를 구성하는 부품 자체는 다르니까 어쩔 수 없는 걸까요...?",
+        "en": "[Silk]\nIs it unavoidable because the parts that make each one up are different...?",
+        "pt": "[Seda]\nComo as peças que compõem cada um são diferentes, não tem jeito...?",
+        "es": "[Seda]\nComo las piezas que componen a cada uno son diferentes, ¿no se puede evitar...?"
     },
     "f9joBw": {
-        "en": "Silk: Is it because each one of us use different parts?",
-        "pt": "Rondonita",
-        "es": "Seda:"
+        "ko": "실크: 각자를 구성하는 부품 자체는 다르니까 어쩔 수 없는 걸까요...?",
+        "en": "Silk: Is it unavoidable because the parts that make each one up are different...?",
+        "pt": "Seda: Como as peças que compõem cada um são diferentes, não tem jeito...?",
+        "es": "Seda: Como las piezas que componen a cada uno son diferentes, ¿no se puede evitar...?"
     },
     "gNjoBw": {
-        "en": "[Silk]\nIs this how I have to harvest the tails in the future?",
-        "pt": "[Silk]\nÉ porque cada um de nós usa peças diferentes?",
-        "es": "[Seda]\n¿Es así como tengo que cosechar las colas en el futuro?"
+        "ko": "[실크]\n그럼 앞으로도 수확은 이렇게 할 수밖에 없는 건가...?",
+        "en": "[Silk]\nThen does that mean we have no choice but to harvest like this from now on...?",
+        "pt": "[Seda]\nEntão, daqui pra frente, a colheita vai ter que ser assim mesmo...?",
+        "es": "[Seda]\nEntonces, ¿de ahora en adelante no nos queda más remedio que cosechar así...?"
     },
     "gdjoBw": {
-        "en": "Silk: Is this how I have to harvest the tails in the future?",
-        "pt": "Silk: É porque cada um de nós usa peças diferentes?",
-        "es": "Seda:"
+        "ko": "실크: 그럼 앞으로도 수확은 이렇게 할 수밖에 없는 건가...?",
+        "en": "Silk: Then does that mean we have no choice but to harvest like this from now on...?",
+        "pt": "Seda: Então, daqui pra frente, a colheita vai ter que ser assim mesmo...?",
+        "es": "Seda: Entonces, ¿de ahora en adelante no nos queda más remedio que cosechar así...?"
     },
     "gtjoBw": {
-        "en": "[Silk]\nOh, well! You had fun too, right?",
-        "pt": "[Silk]\nÉ assim que eu tenho que coletar caules no futuro?",
-        "es": "[Seda]\nAh, bueno, Tú también te divertiste, ¿verdad?"
+        "ko": "[실크]\n어쩔 수 없죠 뭐! 손님들도 즐거우셨죠?",
+        "en": "[Silk]\nIt can’t be helped! You had fun too, didn’t you?",
+        "pt": "[Seda]\nNão tem jeito! E os clientes também se divertiram, não foi?",
+        "es": "[Seda]\nBueno, ¡no se puede evitar! ¿Los clientes también se divirtieron, verdad?"
     },
     "g9joBw": {
-        "en": "Silk: Oh, well! You had fun too, right?",
-        "pt": "Silk: É assim que eu tenho que coletar caules no futuro?",
-        "es": "Seda: Ah, bueno,"
+        "ko": "실크: 어쩔 수 없죠 뭐! 손님들도 즐거우셨죠?",
+        "en": "Silk: It can’t be helped! You had fun too, didn’t you?",
+        "pt": "Seda: Não tem jeito! E os clientes também se divertiram, não foi?",
+        "es": "Seda: Bueno, ¡no se puede evitar! ¿Los clientes también se divirtieron, verdad?"
     },
     "hNjoBw": {
-        "en": "[{}]\nDid you have fun?",
-        "pt": "[Silk]\nAh, bem! Você se divertiu também, não é?",
-        "es": "[{}]\n¿Tienes alguna"
+        "ko": "[{0}]\n즐거웠어?",
+        "en": "[{0}]\nDid you have fun?",
+        "pt": "[{0}]\nFoi divertido?",
+        "es": "[{0}]\n¿Te divertiste?"
     },
     "hdjoBw": {
+        "ko": "즐거웠어?",
         "en": "Did you have fun?",
-        "pt": "Silk: Ah, bem! Você se divertiu também, não é?",
-        "es": "¿Tienes alguna"
+        "pt": "Foi divertido?",
+        "es": "¿Te divertiste?"
     },
     "htjoBw": {
-        "en": "[Silk]\nYes! It's finished anyway! Work is fun once it's finished, is it not?",
-        "pt": "[{}]\nVocê se divertiu?",
-        "es": "[Seda]\n¡Sí! De todas formas, ¡está terminado! El trabajo es divertido una vez terminado, ¿no?"
+        "ko": "[실크]\n네! 끝났으니까요! 일은 원래 끝나면 즐거운 것 아닌가요?",
+        "en": "[Silk]\nYes! Because it’s over! Isn’t work always fun once it’s finished?",
+        "pt": "[Seda]\nSim! Porque acabou! O trabalho não é divertido justamente quando termina?",
+        "es": "[Seda]\n¡Sí! ¡Porque ya terminó! ¿No se supone que el trabajo es divertido cuando se termina?"
     },
     "h9joBw": {
-        "en": "Silk: Yes! It's finished anyway! Work is fun once it's finished, is it not?",
-        "pt": "Você se divertiu?",
-        "es": "Seda: ¡Sí!"
+        "ko": "실크: 네! 끝났으니까요! 일은 원래 끝나면 즐거운 것 아닌가요?",
+        "en": "Silk: Yes! Because it’s over! Isn’t work always fun once it’s finished?",
+        "pt": "Seda: Sim! Porque acabou! O trabalho não é divertido justamente quando termina?",
+        "es": "Seda: ¡Sí! ¡Porque ya terminó! ¿No se supone que el trabajo es divertido cuando se termina?"
     },
     "iNjoBw": {
-        "en": "[Silk]\nGive me the Pitaya Tails you've collected, and today's farm experience is done! All of them please!",
-        "pt": "[Silk]\nSim! De qualquer maneira, acabamos! O trabalho é divertido depois que acaba, não é mesmo?",
-        "es": "[Seda]\nDame las colas de pitaya que has recogido, ¡y la experiencia de granja de hoy habrá terminado! ¡Todos ellos!"
+        "ko": "[실크]\n그럼 각자 수집해 오신 피타야 꼬리를 주시면 오늘의 농장 체험은 끝이랍니다! 자자, 걷을게요!",
+        "en": "[Silk]\nThen, if each of you hands over the Pitaya tails you collected, today’s farm experience will be over! Come on, I’ll take them!",
+        "pt": "[Seda]\nEntão, se cada um me entregar a cauda de Pitaya que coletou, a experiência na fazenda de hoje termina! Vamos, vou recolher!",
+        "es": "[Seda]\nEntonces, si me dan las colas de Pitaya que cada uno recolectó, ¡la experiencia de granja de hoy habrá terminado! Vamos, las recogeré."
     },
     "idjoBw": {
-        "en": "Silk: Give me the Pitaya Tails you've collected, and today's farm experience is done! All of them please!",
-        "pt": "Silk: Sim! De qualquer maneira, acabamos! O trabalho é divertido depois que acaba, não é mesmo?",
-        "es": "Seda:  Todos ellos…"
+        "ko": "실크: 그럼 각자 수집해 오신 피타야 꼬리를 주시면 오늘의 농장 체험은 끝이랍니다! 자자, 걷을게요!",
+        "en": "Silk: Then, if each of you hands over the Pitaya tails you collected, today’s farm experience will be over! Come on, I’ll take them!",
+        "pt": "Seda: Então, se cada um me entregar a cauda de Pitaya que coletou, a experiência na fazenda de hoje termina! Vamos, vou recolher!",
+        "es": "Seda: Entonces, si me dan las colas de Pitaya que cada uno recolectó, ¡la experiencia de granja de hoy habrá terminado! Vamos, las recogeré."
     },
     "itjoBw": {
-        "en": "- You're carrying too many items to proceed with this quest. -",
-        "pt": "[Silk]\nMe dê os Caules de Pitaias que você coletou, e a experiência de hoje na fazenda estará terminada! Todas, por favor!",
-        "es": "-Llevas demasiados objetos para continuar con esta misión.-"
+        "ko": "[실크]\n어디... 피타야 꼬리는 얼마나 모으셨나요?",
+        "en": "[Silk]\nLet’s see... How many Pitaya tails did you gather?",
+        "pt": "[Seda]\nVamos ver... quantas caudas de Pitaya vocês juntaram?",
+        "es": "[Seda]\nA ver... ¿cuántas colas de Pitaya reunieron?"
     },
     "i9joBw": {
-        "en": "[Silk]\nSo, how many Pitaya Tails have you collected?",
-        "pt": "Silk: Me dê os Caules de Pitaias que você coletou, e a experiência de hoje na fazenda estará terminada! Todas, por favor!",
-        "es": "[Seda]\n¿Cuántas colas de Pitaya has recogido?"
+        "ko": "[실크]\n총 {0}개로군요.\n노고에 감사드립니다!",
+        "en": "[Silk]\nA total of {0}.\nThank you for your hard work!",
+        "pt": "[Seda]\nEntão, no total, {0} unidades.\nAgradeço pelo esforço!",
+        "es": "[Seda]\nEn total, {0}.\n¡Gracias por su esfuerzo!"
     },
     "jNjoBw": {
-        "en": "[Silk]\nYou've collected {} tails in total.\nThank you for your hard work!",
-        "pt": "- Você está carregando itens demais para continuar com essa missão. -",
-        "es": "[Seda]\nHas recogido {} colas en total.\nGracias por tu esfuerzo."
+        "ko": "[실크]\n이런! 꼬리가 한개도... 없네요. 놀아주느라 바쁘셨나?\n하지만 수고해 주셨으니 이걸 드릴게요!",
+        "en": "[Silk]\nOh no! There isn't even a single tail... Were you too busy playing?\nStill, you worked hard, so I'll give you this!",
+        "pt": "[Seda]\nOra! Não tem nem um rabo... Você estava ocupado brincando?\nMas, já que você se esforçou, vou lhe dar isto!",
+        "es": "[Seda]\n¡Vaya! No hay ni una sola... cola. ¿Estuviste ocupado jugando con ellos?\nPero como te has esforzado, ¡te daré esto!"
     },
     "jdjoBw": {
-        "en": "[Silk]\nOh, my! You don't have any tails, not even one! Were you too busy playing with them?\nBut since you worked hard, take this!",
-        "pt": "[Silk]\nEntão, quantos Caules de Pitaias você coletou?",
-        "es": "[Seda]\nAy, Dios. ¡No tienes ni una sola cola! ¿Estabas demasiado ocupado jugando con ellas?\nPero ya que trabajaste duro, ¡toma esto!"
+        "ko": "[실크]\n그럼... 나가시겠어요?",
+        "en": "[Silk]\nThen... will you be leaving?",
+        "pt": "[Seda]\nEntão... você vai sair?",
+        "es": "[Seda]\nEntonces... ¿vas a salir?"
     },
     "jtjoBw": {
-        "en": "[Silk]\nNow, do you want to go out?",
-        "pt": "[Silk]\nVocê coletou {} caules no total.\nObrigada pelo seu esforço!",
-        "es": "[Seda]\nAhora, ¿quieres salir?"
+        "ko": "나간다.",
+        "en": "Leave.",
+        "pt": "Vou sair.",
+        "es": "Salgo."
     },
     "j9joBw": {
-        "en": "Go out.",
-        "pt": "[Silk]\nOh, poxa! Você não tem nenhum caule! Estava muito ocupado brincando com elas?\nMas já que você se esforçou, pegue isso!",
-        "es": "Fuera."
+        "ko": "나가지 않는다.",
+        "en": "Don't leave.",
+        "pt": "Não vou sair.",
+        "es": "No salgo."
     },
     "kNjoBw": {
-        "en": "Don't go out.",
-        "pt": "[Silk]\nAgora, você quer ir sair?",
-        "es": "No salgas."
+        "ko": "[실크]\n루이난한테는... 내선 보고도 마쳤지만, 손님도 한 마디 뭐라고 해 주세요!\n저 고생 많았다고... 크흑.\n그럼 다음에 뵐게요!",
+        "en": "[Silk]\nAs for Luynan... I've already reported it to him, but please say a word to the guest, too!\nThat I worked really hard... *sob*.\nThen I'll see you next time!",
+        "pt": "[Seda]\nPara o Luynan... eu já dei o meu relatório, mas você também poderia dizer uma palavra ao cliente!\nDiga que eu trabalhei muito... cof.\nEntão, até a próxima!",
+        "es": "[Seda]\nA Luynan... ya le he informado, pero tú también dile algo al cliente.\nQue he pasado por mucho... snif.\nEntonces, ¡nos vemos la próxima vez!"
     },
     "kdjoBw": {
-        "en": "[Silk]\nI reported to Ruinan through the internal network, but please put in a word for me!\nTell Ruinan I worked so, SO hard! *Sniff*\nSee you next time!",
-        "pt": "Sair.",
-        "es": "[Seda]\nInformé a Ruinan a través de la red interna, ¡pero por favor, habla por mí!\n¡Dile a Ruinan que trabajé muy, muy duro! *Sollozo*\nHasta la próxima."
+        "ko": "[실크]\n그럼 다음에 뵐게요!",
+        "en": "[Silk]\nThen I'll see you next time!",
+        "pt": "[Seda]\nEntão, até a próxima!",
+        "es": "[Seda]\nEntonces, ¡nos vemos la próxima vez!"
     },
     "ktjoBw": {
-        "en": "[Silk]\nSee you next time!",
-        "pt": "Ficar.",
-        "es": "[Seda]\nHasta la próxima."
+        "ko": "[실크]\n동료분을 기다리세요?\n각자 따로 내보내 드릴 테니 다시 말씀 주세요~.",
+        "en": "[Silk]\nAre you waiting for your companion?\nI'll send each of you out separately, so please tell me again~.",
+        "pt": "[Seda]\nVocê está esperando seu companheiro?\nVou deixar cada um sair separadamente, então fale comigo de novo~.",
+        "es": "[Seda]\n¿Estás esperando a tu compañero?\nLos dejaré salir por separado, así que vuelve a decírmelo~."
     },
     "k9joBw": {
-        "en": "[Silk]\nAre you waiting for your companion?\nI will let them out separately, so speak to me again!",
-        "pt": "[Silk]\nEu falei com o Ruinan através da rede interna, mas, por favor, fale bem de mim para ele!\nDiga a Ruinan que eu trabalhei muito, MUITO duro! *Sniff*\nAté a próxima!",
-        "es": "[Seda]\n¿Está esperando a su compañero?\nLos dejaré salir por separado, ¡así que háblame de nuevo!"
+        "ko": "[큰 야옹이]\n삐룩.",
+        "en": "[Big Cat]\nPiirook.",
+        "pt": "[Gato grande]\nPiiiruk.",
+        "es": "[Gato grande]\nPiirok."
     },
     "lNjoBw": {
-        "en": "[Big Meow]\nMeep.",
-        "pt": "[Silk]\nAté a próxima!",
-        "es": "[Gran Miau]\nMiip."
-    },
-    "ldjoBw": {
-        "en": "[Big Meow]\nPurrrr.",
-        "pt": "[Silk]\nVocê está esperando pelo seu companheiro?\nEu vou deixar eles saírem separadamente, então fale comigo de novo!",
-        "es": "[Gran Miau]\nPurrrr."
+        "ko": "[큰 야옹이]\n고르릉.",
+        "en": "[Big Cat]\nGrrrrowl.",
+        "pt": "[Gato grande]\nGrrr.",
+        "es": "[Gato grande]\nGororong."
     }
 }

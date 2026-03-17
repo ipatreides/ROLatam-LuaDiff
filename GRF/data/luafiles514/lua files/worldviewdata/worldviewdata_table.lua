@@ -220,6 +220,16 @@ worldtable_main = {
 		"130"
 	},
 	{
+		5,
+		"abyss_04.rsw",
+		945,
+		10,
+		1024,
+		44,
+		WORLD_MSGID.MSI_5_ABYSS_04,
+		"130"
+	},
+	{
 		6,
 		"juperos_01.rsw",
 		984,
@@ -407,6 +417,16 @@ worldtable_main = {
 		645,
 		394,
 		WORLD_MSGID.MSI_9_EIN_DUN02,
+		"100"
+	},
+	{
+		9,
+		"ein_dun03.rsw",
+		579,
+		360,
+		645,
+		394,
+		WORLD_MSGID.MSI_9_EIN_DUN03,
 		"100"
 	},
 	{
@@ -1218,6 +1238,16 @@ worldtable_main = {
 		548,
 		WORLD_MSGID.MSI_43_MAL_DUN01,
 		"90"
+	},
+	{
+		45,
+		"odin_past.rsw",
+		1146,
+		109,
+		1236,
+		145,
+		WORLD_MSGID.MSI_45_ODIN_PAST,
+		"180"
 	},
 	{
 		47,

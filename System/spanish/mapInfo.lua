@@ -1318,8 +1318,11 @@ mapTbl = {
 		backgroundBmp = "village_s2"
 	},
 	["auction_02.rsw"] = {
-		displayName = "Salón de subastas",
+		displayName = "Liga de los Exploradores",
 		notifyEnter = true,
+		signName = {
+			mainTitle = "Liga de los Exploradores"
+		},
 		backgroundBmp = "village_s2"
 	},
 	["ayo_dun01.rsw"] = {

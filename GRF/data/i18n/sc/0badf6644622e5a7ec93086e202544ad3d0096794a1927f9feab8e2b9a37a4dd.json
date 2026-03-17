@@ -185,9 +185,9 @@
         "es": "[Ilusionista]\nCada encantamiento requiere 5 Piedras Ilusionarias. Una pieza de equipo solo puede encantarse con 2 encantamientos."
     },
     "pT3NCw": {
-        "en": "[Illusionist]\nEnchanting is 100% safe, but resetting enchantments has a chance of failure... Unfortunately.",
+        "en": "[Illusionist]\nEnchanting is 100% safe, but resetting enchantments has a chance of failure... Unfortunately. So keep in mind that equipments might break.",
         "pt": "[Ilusionista]\nEncantar é 100% seguro, mas resetar os encantos possuem chances de falha... Infelizmente.",
-        "es": "[Ilusionista]\nEncantar es 100% seguro, pero reiniciarlo puede fallar... Desafortunadamente."
+        "es": "[Ilusionista]\nEncantar es 100% seguro, pero resetear los encantamientos tiene probabilidades de fallo... desafortunadamente. \nAsí que ten en cuenta que el equipo puede romperse."
     },
     "pj3NCw": {
         "en": "[Illusionist]\nIf you want to reset safely, consider investing more money in my research.",

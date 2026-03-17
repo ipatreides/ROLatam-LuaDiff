@@ -2288,5 +2288,8 @@
         "en": "Grrrr...\nAll monsters in the monk job chance place have been reset.\nTimer's activated.",
         "pt": "Grrrr...\nTodos os monstros no local de chance de trabalho do monge foram reiniciados.\nO cronômetro está ativado.",
         "es": "Grrrr…\nSe restablecieron todos los monstruos en el lugar de cambio de clase a Monje.\nEl temporizador está activado."
+    },
+    "aoSuBg": {
+        "en": "[Sensei Moohae]\nI sense a fighting spirit, do you wish to become a monk?"
     }
 }

@@ -20,7 +20,7 @@
     "I5XZBw": {
         "ko": "[루키]\n저택 내부의 침입자 말이에요.\n하트헌터들에게 피해를 입은 관리자들이 또 발생한 것 같아요.",
         "en": "[Rookie]\nI mean the intruders inside the mansion.\nIt seems more administrators have been harmed by the Heart Hunters again.",
-        "pt": "[Rookie]\nÉ sobre os invasores dentro da mansão.\nParece que surgiram mais administradores que sofreram danos causados pelos Heart Hunters.",
+        "pt": "[Rookie]\nÉ sobre os invasores dentro da mansão.\nParece que surgiram mais administradores que sofreram danos causados pelos Caça-Corações.",
         "es": "[Rookie]\nMe refiero al intruso dentro de la mansión.\nParece que han vuelto a aparecer administradores que han sufrido daños a manos de los Heart Hunters."
     },
     "JJXZBw": {
@@ -68,7 +68,7 @@
     "K5XZBw": {
         "ko": "[루키]\n도대체 하트헌터 놈들은 언제 활동하는 걸까요?\n어찌나 꽁꽁 숨었는지 일루시온의 머리털 하나 발견하지 못하고 있으니 좀 답답하기도 하네요.",
         "en": "[Rookie]\nWhen on earth do those Heart Hunter bastards operate?\nThey’re so thoroughly hidden that we can’t even find a single hair of Illusion, so it’s a bit frustrating.",
-        "pt": "[Rookie]\nAfinal, quando esses malditos Heart Hunter agem?\nEstão tão bem escondidos que não conseguimos encontrar nem um fio de cabelo de Ilusión, o que é bem frustrante.",
+        "pt": "[Rookie]\nAfinal, quando esses malditos Caça-Corações agem?\nEstão tão bem escondidos que não conseguimos encontrar nem um fio de cabelo de Ilusión, o que é bem frustrante.",
         "es": "[Rookie]\n¿En qué momento se ponen en actividad esos Heart Hunter?\nSe esconden tan bien que ni un solo cabello de Illusion hemos podido encontrar, así que resulta un poco frustrante."
     },
     "LJXZBw": {
@@ -98,7 +98,7 @@
     "MJXZBw": {
         "ko": "[엘류미나]\n아 그 미친놈들이 진짜아으아! 도대체 나한테 왜 그러는 거야? 배신자? 배신자아?\n즤드릐 즈금 느흔트 브애쉰즈아 운운흘 땐그아?",
         "en": "[Eliumina]\nAh, those crazy bastards, seriously—aaagh! Why are they doing this to me? Traitor? Traitorrr?\nWhen they go on about me being a traitor and all that?",
-        "pt": "[Eliumina]\nAh, aqueles desgraçados enlouqueceram de vez! Por que fazem isso comigo? Traidora? Traidora?!\nEles ficam dizendo agora que eu sou uma traidora?!",
+        "pt": "[Elyumina]\nAh, aqueles desgraçados enlouqueceram de vez! Por que fazem isso comigo? Traidora? Traidora?!\nEles ficam dizendo agora que eu sou uma traidora?!",
         "es": "[Eliumina]\nAh, esos malditos locos, de verdad, ¡aaah! ¿Por qué demonios me hacen esto? ¿Traidora? ¿Traidoraaa?\n¿Y cuando se ponen a decir que yo soy una traidora y no sé qué más?"
     },
     "MZXZBw": {
@@ -110,7 +110,7 @@
     "MpXZBw": {
         "ko": "[엘류미나]\n하-! 이게 미쳤나?\n야, 너 왜 자꾸 나 혼자 내버려 두는 건데?\n치사하고 빈정 상하지만 날 혼자 두지 말란 말야! 알아 들었어?",
         "en": "[Eliumina]\nHa—! Are you out of your mind?\nHey, why do you keep leaving me all by myself?\nIt’s petty and it ticks me off, but I’m telling you not to leave me alone! Got it?",
-        "pt": "[Eliumina]\nHã! Ficou maluco?\nEi, por que você vive me deixando sozinha?\nÉ injusto e me deixa chateada, então não me deixe sozinha! Entendeu?",
+        "pt": "[Elyumina]\nHã! Ficou maluco?\nEi, por que você vive me deixando sozinha?\nÉ injusto e me deixa chateada, então não me deixe sozinha! Entendeu?",
         "es": "[Eliumina]\n¡Ja-! ¿Se volvió loco?\nOye, ¿por qué sigues dejándome sola?\n¡Me parece ruin y me ofende, pero te digo que no me dejes sola! ¿Entendiste?"
     },
     "M5XZBw": {
@@ -122,7 +122,7 @@
     "NJXZBw": {
         "ko": "[리벨리온]\n식사를 가져온 관리자가 갑자기 돌변해서 엘류미나를 공격했지 뭡니까.\n다행이 저도 감시차 곁에 있었기에 바로 수습은 가능했는데,",
         "en": "[Rebellion]\nThe manager who brought the meal suddenly turned on us and attacked Eliumina.\nFortunately, I was nearby on watch, so I was able to handle it right away,",
-        "pt": "[Rebellion]\nO administrador que trouxe a refeição de repente mudou de comportamento e atacou Eliumina.\nPor sorte, eu estava ao lado vigiando e consegui conter a situação imediatamente,",
+        "pt": "[Rebellion]\nO administrador que trouxe a refeição de repente mudou de comportamento e atacou Elyumina.\nPor sorte, eu estava ao lado vigiando e consegui conter a situação imediatamente,",
         "es": "[Rebellion]\nEl administrador que trajo la comida cambió de repente y atacó a Eliumina.\nPor suerte, yo también estaba cerca vigilando, así que pude controlarlo de inmediato,"
     },
     "NZXZBw": {
@@ -146,7 +146,7 @@
     "OJXZBw": {
         "ko": "[엘류미나]\n다행? 다아해앵? 그게 끝이 아니었어! 이 무정한 자식아!\n그 다음엔 정원의 낙엽을 쓸고 있던 관리자가 내게 달려들었다고! 나보고 배신자는 처단해야 한다며!",
         "en": "[Eliumina]\nGlad? Glaaad? That wasn't the end! You heartless bastard!\nThen a manager who was sweeping fallen leaves in the garden rushed at me! Saying traitors must be punished!",
-        "pt": "[Eliumina]\nAinda bem? AINDA BEM? Não acabou aí, seu insensível!\nDepois, o administrador que estava varrendo as folhas do jardim veio correndo para cima de mim! Disse que traidores devem ser eliminados!",
+        "pt": "[Elyumina]\nAinda bem? AINDA BEM? Não acabou aí, seu insensível!\nDepois, o administrador que estava varrendo as folhas do jardim veio correndo para cima de mim! Disse que traidores devem ser eliminados!",
         "es": "[Eliumina]\n¿Menos mal? ¿Meeenos maaal? ¡Eso no fue todo! ¡Desalmado!\n¡Después, el administrador que estaba barriendo las hojas del jardín se me echó encima! ¡Dijo que había que ejecutar a los traidores!"
     },
     "OZXZBw": {
@@ -176,7 +176,7 @@
     "PZXZBw": {
         "ko": "[엘류미나]\n너, 내가 지금은 그냥 가 준다.\n빈 손으로 오면 절대 안돼! 내 안전 꼭 찾아와야 해!",
         "en": "[Eliumina]\nYou, I'll let you go for now.\nDon't you dare come back empty-handed! You must find my safety!",
-        "pt": "[Eliumina]\nVocê... desta vez eu vou deixar passar.\nMas não volte de mãos vazias! Traga minha segurança de volta!",
+        "pt": "[Elyumina]\nVocê... desta vez eu vou deixar passar.\nMas não volte de mãos vazias! Traga minha segurança de volta!",
         "es": "[Eliumina]\nTú... por ahora te dejaré ir.\n¡No vuelvas con las manos vacías! ¡Debes recuperar mi seguridad, pase lo que pase!"
     },
     "PpXZBw": {
@@ -212,7 +212,7 @@
     "Q5XZBw": {
         "ko": "엘류미나",
         "en": "Eliumina",
-        "pt": "Eliumina",
+        "pt": "Elyumina",
         "es": "Eliumina"
     },
     "RJXZBw": {
@@ -260,7 +260,7 @@
     "S5XZBw": {
         "ko": "엘레나 볼코바",
         "en": "Elena Volkova",
-        "pt": "Elena Volkova",
+        "pt": "Elena Bolkova",
         "es": "Elena Volkova"
     },
     "TJXZBw": {
@@ -278,7 +278,7 @@
     "TpXZBw": {
         "ko": "[엘레나]\n루키에게 부탁 받았어. 그새 엘류미나가 또 공격받은 모양이더라고.\n마침 근처에 있던 내가 대신 왔다 이거야.",
         "en": "[Elena]\nRookie asked me to. Looks like Eliumina got attacked again.\nI happened to be nearby, so I came in their place.",
-        "pt": "[Elena]\nRookie me pediu um favor. Parece que Eliumina foi atacada de novo.\nEu estava por perto, então vim no lugar dele.",
+        "pt": "[Elena]\nRookie me pediu um favor. Parece que Elyumina foi atacada de novo.\nEu estava por perto, então vim no lugar dele.",
         "es": "[Elena]\nRookie me lo pidió. Parece que Eliumina ha vuelto a ser atacada.\nComo justo estaba cerca, vine yo en su lugar."
     },
     "T5XZBw": {
@@ -356,7 +356,7 @@
     "W5XZBw": {
         "ko": "[엘레나]\n이게 이게 뚫린 입이라고 말 막 하네?\n햐, 이 엘레나 볼코바 님 성격 많이 죽으셨어. 이딴 놈도, 어, 포로라고, 어, 멀쩡하게 살려두고.",
         "en": "[Elena]\nSo that mouth of yours can just say whatever it wants?\nHah, I, Elena Volkova, have really gotten soft. Even a piece of trash like this, uh, as a prisoner, uh, I’m letting live in one piece.",
-        "pt": "[Elena]\nOlha a boca, hein?\nHeh, esta Elena Volkova já amansou bastante o temperamento. Até um sujeito desses está, ah, como prisioneiro, ah, mantido vivo.",
+        "pt": "[Elena]\nOlha a boca, hein?\nHeh, esta Elena Bolkova já amansou bastante o temperamento. Até um sujeito desses está, ah, como prisioneiro, ah, mantido vivo.",
         "es": "[Elena]\n¿Con esa boca abierta vas a soltar cualquier cosa?\nJa, yo, Elena Volkova, me he ablandado mucho. Hasta a un tipo como este, eh, por ser prisionero, eh, lo dejo vivir tan campante."
     },
     "XJXZBw": {
@@ -428,7 +428,7 @@
     "Z5XZBw": {
         "ko": "[엘레나]\n너, 표정이 아주 오만불손하구나?\n무슨 꿍꿍이인지는 모르겠다만 이 엘레나 볼코바 님이 손수 연행해주마.",
         "en": "[Elena]\nYou, that expression is terribly arrogant and insolent.\nI don’t know what you’re plotting, but I, Elena Volkova, will personally escort you.",
-        "pt": "[Elena]\nVocê está com uma expressão bem arrogante, não?\nNão sei qual é o seu plano, mas esta Elena Volkova irá escoltá-lo pessoalmente.",
+        "pt": "[Elena]\nVocê está com uma expressão bem arrogante, não?\nNão sei qual é o seu plano, mas esta Elena Bolkova irá escoltá-lo pessoalmente.",
         "es": "[Elena]\nTú, tienes una expresión muy insolente, ¿no?\nNo sé qué tramas, pero esta Elena Volkova te escoltará personalmente."
     },
     "aJXZBw": {
@@ -548,13 +548,13 @@
     "e5XZBw": {
         "ko": "[엘류미나]\n너야말로 얼마나 잘난 위인이길래 사람을 무시해?!\n꼰대같은 그 놈들이랑 한 패냐?",
         "en": "[Eliumina]\nAnd just who do you think you are to look down on people?!\nAre you in the same gang as those old fogeys?",
-        "pt": "[Eliumina]\nQuem você pensa que é para menosprezar os outros?!\nEstá do lado daqueles velhos rabugentos?",
+        "pt": "[Elyumina]\nQuem você pensa que é para menosprezar os outros?!\nEstá do lado daqueles velhos rabugentos?",
         "es": "[Eliumina]\n¿Y tú quién te crees para despreciar a la gente?!\n¿Eres del mismo bando que esos tipos tan carcas?"
     },
     "fJXZBw": {
         "ko": "[엘류미나]\n배신은 자기들이 먼저 해놓고 나더러 배신자 운운한 그 놈들이랑 한 패니?\n그럼 너 잘 걸렸다.",
         "en": "[Eliumina]\nThe ones who betrayed first, then called me a traitor—are you with them?\nThen you picked the wrong person to mess with.",
-        "pt": "[Eliumina]\nForam eles que traíram primeiro e ainda me chamaram de traidora!\nEntão você está do lado deles?\nÓtimo, então você caiu na minha mão.",
+        "pt": "[Elyumina]\nForam eles que traíram primeiro e ainda me chamaram de traidora!\nEntão você está do lado deles?\nÓtimo, então você caiu na minha mão.",
         "es": "[Eliumina]\n¿Eres del mismo bando que esos tipos que primero traicionaron y luego me llamaron traidora?\nEntonces, te han pillado bien."
     },
     "fZXZBw": {
@@ -566,7 +566,7 @@
     "fpXZBw": {
         "ko": "[엘류미나]\n이게 아까부터 뭐라는 거야?! 그럼 내가 일루시온도 아닌데 여기 왜 잡혀 있겠어!\n이 몸이 어떻게 해야 아 제가 미쳐 위대한 엘류미나 님을 못 알아 봤네요. 하고 머리 박을래?",
         "en": "[Eliumina]\nWhat have you been going on about this whole time?! If I weren't Illusion, why would I be captured here!\nWhat, do I have to bash my Head and say, \"Ah, I've gone mad—I failed to recognize the great Lady Eliumina\"?!",
-        "pt": "[Eliumina]\nDo que você está falando desde agora há pouco?! Se eu não fosse da Ilusión, por que estaria presa aqui?!\nQuer que eu faça o quê para você dizer Ah, não reconheci a grandiosa Eliumina\" e bater a Cabeça no chão?!\"",
+        "pt": "[Elyumina]\nDo que você está falando desde agora há pouco?! Se eu não fosse da Ilusión, por que estaria presa aqui?!\nQuer que eu faça o quê para você dizer Ah, não reconheci a grandiosa Elyumina\" e bater a Cabeça no chão?!\"",
         "es": "[Eliumina]\n¿Pero qué estás diciendo desde hace rato?! ¡Entonces, si no fuera de Illusion, por qué estaría atrapada aquí!\n¿Qué tengo que hacer yo para que digas: Ah, me he vuelto loco, no reconocí a la gran señora Eliumina. ¿Y vas a inclinarte ante Cabeza?"
     },
     "f5XZBw": {
@@ -578,7 +578,7 @@
     "gJXZBw": {
         "ko": "[엘류미나]\n아니 이게 이젠 사람을 사이비 취급하네?\n야! 내가 일루시온 멤버가 아니라고 아까부터 확정적으로 말하는데 내가 코르연구 몇년차인지 알고 하는 말이니?",
         "en": "[Eliumina]\nWhat, now you're treating me like some kind of fraud?\nHey! I've been telling you for a while, definitively, that I'm not a Illusion member—do you even know how many years I've worked in Cor research before you say that?",
-        "pt": "[Eliumina]\nAgora você está me chamando de impostora?\nEi! Desde agora há pouco você afirma que eu não sou membro da Ilusión, mas sabe há quantos anos eu pesquiso em Cor antes de falar isso?",
+        "pt": "[Elyumina]\nAgora você está me chamando de impostora?\nEi! Desde agora há pouco você afirma que eu não sou membro da Ilusión, mas sabe há quantos anos eu pesquiso em Cor antes de falar isso?",
         "es": "[Eliumina]\n¿No me digas que ahora me tratas como a una farsante?\n¡Oye! Desde hace rato afirmas con total seguridad que no soy miembro de Illusion. ¿Dices eso sabiendo cuántos años llevo investigando Cor?"
     },
     "gZXZBw": {
@@ -614,7 +614,7 @@
     "hpXZBw": {
         "ko": "[엘류미나]\n호오? 루키 들었어? '칩'이래.\n이 멍청한 것이 제 입으로 다 불었네? 치사한 녀석들. 어쩐지 나만 두고 내빼더라.\n중간에 껴들어 온 나도 자기들이 쓰고 버릴 패였다 이거지?",
         "en": "[Eliumina]\nOh? Rookie, did you hear? A 'chip,' he says.\nThis idiot spilled it all with his own mouth? Despicable bastards. No wonder they ran off and left only me behind.\nSo even I, who got wedged in halfway, was just a card they meant to use and throw away, is that it?",
-        "pt": "[Eliumina]\nOh? Rookie, ouviu? Um 'Chip'.\nEsse idiota contou tudo com a própria boca. Que patéticos. Agora entendo por que me deixaram para trás.\nEntão eu, que entrei no meio do caminho, era só uma peça descartável para eles?",
+        "pt": "[Elyumina]\nOh? Rookie, ouviu? Um 'Chip'.\nEsse idiota contou tudo com a própria boca. Que patéticos. Agora entendo por que me deixaram para trás.\nEntão eu, que entrei no meio do caminho, era só uma peça descartável para eles?",
         "es": "[Eliumina]\n¿Oh? Rookie, ¿lo oíste? Dice que es un 'chip'.\n¿Este idiota lo soltó todo con su propia boca? Qué miserables. Con razón me dejaron atrás y salieron corriendo.\n¿Así que incluso yo, que me metí en medio, era una carta que pensaban usar y tirar?"
     },
     "h5XZBw": {
@@ -626,13 +626,13 @@
     "iJXZBw": {
         "ko": "[엘류미나]\n이제와서 멍청한 표정 지어봤자 늦었다? 자칭 타칭 엘리트 일루시온 나리야?\n루키! 내가 이녀석 목덜미를 뜯어서 '칩'이라는 걸 추적할 수 있도록 추적기를 만들어 줄게!",
         "en": "[Eliumina]\nIt is too late to make that stupid face now, is it? The self-proclaimed and so-called elite Illusion sir?\nRookie! I will tear into this bastard's nape and make you a Tracker so you can track down this thing called a 'chip'!",
-        "pt": "[Eliumina]\nAgora é tarde para fazer essa cara de idiota, seu autoproclamado membro de elite da Ilusión.\nRookie! Vou arrancar a nuca desse sujeito e criar um Rastreador para localizar esse tal de 'Chip'!",
+        "pt": "[Elyumina]\nAgora é tarde para fazer essa cara de idiota, seu autoproclamado membro de elite da Ilusión.\nRookie! Vou arrancar a nuca desse sujeito e criar um Rastreador para localizar esse tal de 'Chip'!",
         "es": "[Eliumina]\n¿Ya es tarde aunque pongas esa cara de idiota?\n¿El autoproclamado y reconocido élite de Illusion?\n¡Rookie! ¡Le arrancaré la nuca a este y te haré un Rastreador para que puedas rastrear eso llamado 'chip'!"
     },
     "iZXZBw": {
         "ko": "[엘류미나]\n그래! 그러자! 배신자에게 복수를!\n혼돈! 파괴! 복수! 멸망!",
         "en": "[Eliumina]\nYes! Let's do it! Revenge on the traitor!\nChaos! Destruction! Revenge! Ruin!",
-        "pt": "[Eliumina]\nIsso! Vamos fazer assim! Vingança contra os traidores!\nCaos! Destruição! Vingança! Ruína!",
+        "pt": "[Elyumina]\nIsso! Vamos fazer assim! Vingança contra os traidores!\nCaos! Destruição! Vingança! Ruína!",
         "es": "[Eliumina]\n¡Sí! ¡Hagámoslo! ¡Venganza contra el traidor!\n¡Caos! ¡Destrucción! ¡Venganza! ¡Ruina!"
     },
     "ipXZBw": {
@@ -662,7 +662,7 @@
     "jpXZBw": {
         "ko": "[엘류미나]\n어디서 깝치고 있어?\n감히 이 엘류미나 님을 무시하다니, 명줄이 아주 짧구나?",
         "en": "[Eliumina]\nWhere do you think you're showing off?\nHow dare you ignore Lady Eliumina—your life is very short, isn't it?",
-        "pt": "[Eliumina]\nDe onde você pensa que está tirando essa ousadia?\nComo ousa menosprezar esta Eliumina? Sua vida é bem curta, não?",
+        "pt": "[Elyumina]\nDe onde você pensa que está tirando essa ousadia?\nComo ousa menosprezar esta Elyumina? Sua vida é bem curta, não?",
         "es": "[Eliumina]\n¿De dónde sacas tanta insolencia?\n¿Te atreves a ignorar a esta señorita Eliumina? ¿Tu vida es tan corta?"
     },
     "j5XZBw": {
@@ -680,19 +680,19 @@
     "kZXZBw": {
         "ko": "[엘류미나]\n내 연구권리 보장을 위해 너희들이 좋아할 만한 걸 하나 만들어주려고.\n아니, 배신자라고 나만 괴롭힘 당할 수는 없잖아?",
         "en": "[Eliumina]\nTo guarantee my research rights, I am going to make something you will like.\nNo, it is not like I am the only one who should get bullied for being a traitor, right?",
-        "pt": "[Eliumina]\nVou criar algo que vocês vão gostar, em troca da garantia dos meus direitos de pesquisa.\nAfinal, não posso ser a única a sofrer sendo chamada de traidora.",
+        "pt": "[Elyumina]\nVou criar algo que vocês vão gostar, em troca da garantia dos meus direitos de pesquisa.\nAfinal, não posso ser a única a sofrer sendo chamada de traidora.",
         "es": "[Eliumina]\nPara garantizar mis derechos de investigación, voy a hacerles algo que les gustará.\nNo, tampoco es que solo yo tenga que sufrir por ser una traidora, ¿no?"
     },
     "kpXZBw": {
         "ko": "[엘류미나]\n이녀석 몸에 심긴 '칩'이라는걸 해석해서 이 '칩'에 반응하는 추적기를 만들어 줄게.\n안그래도 하트헌터인지 하는 녀석들때문에 나도 짜증나서 만들던게 있었어.",
         "en": "[Eliumina]\nI will interpret this thing called a 'chip' implanted in this guy's body and make a Tracker that reacts to this 'chip'.\nThose guys called Heart Hunters were getting on my nerves anyway, so I was already working on making something.",
-        "pt": "[Eliumina]\nVou analisar esse tal 'Chip' implantado no corpo dele e criar um Rastreador que reaja a esse 'Chip'.\nNa verdade, eu já estava desenvolvendo algo assim por causa desses tais Heart Hunters.",
+        "pt": "[Elyumina]\nVou analisar esse tal 'Chip' implantado no corpo dele e criar um Rastreador que reaja a esse 'Chip'.\nNa verdade, eu já estava desenvolvendo algo assim por causa desses tais Caça-Corações.",
         "es": "[Eliumina]\nInterpretaré eso llamado 'chip' implantado en el cuerpo de este y haré un Rastreador que reaccione a este 'chip'.\nDe todos modos, esos tipos que se hacen llamar Cazadores de Corazones también me tenían harta, así que ya estaba haciendo algo."
     },
     "k5XZBw": {
         "ko": "[엘류미나]\n내 목숨만 안 노렸어도 여기까진 안 했어. 나도.\n그럼 얘, 아이젠? 이 녀석을 좀 뜯어볼 동안 부족한 재료 좀 갖다 줘.",
         "en": "[Eliumina]\nIf you had not been after my life, I would not have gone this far. Me, either.\nThen you there, Aizen? Bring me some materials I am short on while I tear into this guy a bit.",
-        "pt": "[Eliumina]\nSe eles não tivessem atentado contra minha vida, eu também não teria ido tão longe.\nEntão, ei, Aizen? Enquanto eu examino esse sujeito, tragam os materiais que faltam.",
+        "pt": "[Elyumina]\nSe eles não tivessem atentado contra minha vida, eu também não teria ido tão longe.\nEntão, ei, Aizen? Enquanto eu examino esse sujeito, tragam os materiais que faltam.",
         "es": "[Eliumina]\nSi no hubieran intentado quitarme la vida, no habría llegado hasta aquí. Yo tampoco.\nEntonces, oye, Aizen; mientras desarmo a este, tráeme algunos materiales que faltan."
     },
     "lJXZBw": {
@@ -704,7 +704,7 @@
     "lZXZBw": {
         "ko": "[엘류미나]\n형광색의 액체 10개, 깨진 검 10개, 모듈 몇 가지 ….",
         "en": "[Eliumina]\n10 fluorescent liquids, 10 broken swords, a few modules ….",
-        "pt": "[Eliumina]\n10 unidades de Líquido Fluorescente, 10 Espadas Quebradas, alguns Módulos...",
+        "pt": "[Elyumina]\n10 unidades de Líquido Fluorescente, 10 Espadas Quebradas, alguns Módulos...",
         "es": "[Eliumina]\n10 líquidos fluorescentes, 10 espadas rotas, algunos módulos...."
     },
     "lpXZBw": {
@@ -746,7 +746,7 @@
     "nJXZBw": {
         "ko": "[엘레나]\n그리고 어딘가에 수감되어서 평생을 보내겠지.\n엘류미나 저 녀석도 그 꼴이 될 수 있었는데 운이 좋았지?",
         "en": "[Elena]\nAnd he’ll probably spend the rest of his life imprisoned somewhere.\nEliumina could’ve ended up like that too, but she got lucky, didn’t she?",
-        "pt": "[Elena]\nE depois deve passar o resto da vida preso em algum lugar.\nEliumina também poderia ter acabado assim, mas teve sorte.",
+        "pt": "[Elena]\nE depois deve passar o resto da vida preso em algum lugar.\nElyumina também poderia ter acabado assim, mas teve sorte.",
         "es": "[Elena]\nY luego lo encerrarán en algún lugar y pasará allí el resto de su vida.\nEliumina ese también podría haber acabado así, pero tuvo suerte, ¿no?"
     },
     "nZXZBw": {
@@ -758,19 +758,19 @@
     "npXZBw": {
         "ko": "[엘류미나]\n좋아 좋아~ 흥흥\n이것만 여길 이렇게 요렇게 하면",
         "en": "[Eliumina]\nGood, good~ Heh heh.\nIf I just do this here, like this and like that,",
-        "pt": "[Eliumina]\nCerto, certo~ hum hum\nSe eu ajustar isso aqui assim...",
+        "pt": "[Elyumina]\nCerto, certo~ hum hum\nSe eu ajustar isso aqui assim...",
         "es": "[Eliumina]\nBien, bien~ je, je\nSi solo hago esto aquí así y asá"
     },
     "n5XZBw": {
         "ko": "[엘류미나]\n천하의 역작이 탄생하지!\n신호를 보내면 수신인은~",
         "en": "[Eliumina]\nthen a masterpiece for the ages is born!\nIf I send a signal, the receiver is~",
-        "pt": "[Eliumina]\nNasce uma obra-prima!\nSe enviar o sinal, o receptor...",
+        "pt": "[Elyumina]\nNasce uma obra-prima!\nSe enviar o sinal, o receptor...",
         "es": "[Eliumina]\n¡nacerá una obra maestra sin igual!\nSi envío la señal, el receptor~"
     },
     "oJXZBw": {
         "ko": "[엘류미나]\n아주 잘 잡네!\n자, 이걸로 숨은 하트헌터 잔당과 배신자 놈들을 쫓아가.",
         "en": "[Eliumina]\nIt’s picking it up very well!\nNow, with this, go after the hidden Heart Hunter remnants and those traitors.",
-        "pt": "[Eliumina]\nCapta muito bem!\nPronto, com isso persiga os remanescentes escondidos de Heart Hunter e os traidores.",
+        "pt": "[Elyumina]\nCapta muito bem!\nPronto, com isso persiga os remanescentes escondidos de Caça-Corações e os traidores.",
         "es": "[Eliumina]\n¡La capta muy bien!\nBien, con esto persigue a los remanentes ocultos de Heart Hunter y a esos traidores."
     },
     "oZXZBw": {
@@ -782,7 +782,7 @@
     "opXZBw": {
         "ko": "[엘류미나]\n이 몸이 친히 추적기까지 손에 쥐어주는데 혼자 못하니?\n내가 저런 녀석에게 잡혔다니. 엘류미나 일생의 수치다. 쯧.",
         "en": "[Eliumina]\nI’m personally putting a Tracker into your hands, and you can’t do it alone?\nTo think I got caught by someone like that. A lifelong disgrace for Eliumina. Tsk.",
-        "pt": "[Eliumina]\nEstou colocando pessoalmente um Rastreador nas suas mãos e ainda não consegue ir sozinho?\nTer sido capturada por alguém assim é a vergonha da vida de Eliumina. Tsc.",
+        "pt": "[Elyumina]\nEstou colocando pessoalmente um Rastreador nas suas mãos e ainda não consegue ir sozinho?\nTer sido capturada por alguém assim é a vergonha da vida de Elyumina. Tsc.",
         "es": "[Eliumina]\n¿No puedes hacerlo solo cuando yo mismo te pongo en las manos hasta el Rastreador?\nQue me atrapara un tipo como ese... Es una vergüenza de por vida para Eliumina. Tsk."
     },
     "o5XZBw": {
@@ -812,37 +812,37 @@
     "p5XZBw": {
         "ko": "[엘류미나]\n내 분신같은 아이야.\n소중하게 다루도록 해.",
         "en": "[Eliumina]\nIt’s like my own other self.\nHandle it with care.",
-        "pt": "[Eliumina]\nÉ como se fosse meu próprio alter ego.\nTrate-o com cuidado.",
+        "pt": "[Elyumina]\nÉ como se fosse meu próprio alter ego.\nTrate-o com cuidado.",
         "es": "[Eliumina]\nEs como mi propio alter ego.\nTrátalo con cuidado."
     },
     "qJXZBw": {
         "ko": "[엘류미나]\n흥흥~ 모듈 모듈~ 흥흥~\n코어 코어~ 흥흥~\n뭐해? 내가 말한 재료를 어서 대령하지 않고?",
         "en": "[Eliumina]\nHeh heh~ Module, module~ Heh heh~\nCore, core~ Heh heh~\nWhat are you doing? Why aren’t you hurrying up and presenting the materials I told you to bring?",
-        "pt": "[Eliumina]\nHum hum~ Módulo, módulo~ hum hum~\nCore, Core~ hum hum~\nO que está esperando? Traga logo os materiais que eu pedi!",
+        "pt": "[Elyumina]\nHum hum~ Módulo, módulo~ hum hum~\nCore, Core~ hum hum~\nO que está esperando? Traga logo os materiais que eu pedi!",
         "es": "[Eliumina]\nJe, je~ módulo, módulo~ je, je~\nNúcleo, núcleo~ je, je~\n¿Qué haces? ¿Por qué no presentas de una vez los materiales que te dije?"
     },
     "qZXZBw": {
         "ko": "[엘류미나]\n크크크큭. 배신자들을 자알 부탁한다. 모험가 크크크큭.",
         "en": "[Eliumina]\nKekekekek. I’m counting on you to take care of the traitors. Adventurer, kekekekek.",
-        "pt": "[Eliumina]\nHehehe. Cuide bem dos traidores, aventureiro. Hehehe.",
+        "pt": "[Elyumina]\nHehehe. Cuide bem dos traidores, aventureiro. Hehehe.",
         "es": "[Eliumina]\nJejejeje. Te encargo bien a los traidores. Aventurero, jejejeje."
     },
     "qpXZBw": {
         "ko": "[엘류미나]\n소식 들었다. 멋진 자식.\n그런데 중요한 일루시온 놈들은 다 도망쳤다며?",
         "en": "[Eliumina]\nI heard the news. Impressive.\nBut I hear all the important Illusion ones got away?",
-        "pt": "[Eliumina]\nSoube das notícias. Muito bem.\nMas ouvi dizer que os membros importantes da Ilusión fugiram todos?",
+        "pt": "[Elyumina]\nSoube das notícias. Muito bem.\nMas ouvi dizer que os membros importantes da Ilusión fugiram todos?",
         "es": "[Eliumina]\nHe oído las noticias. Buen trabajo.\nPero dicen que todos los importantes de Illusion escaparon, ¿no?"
     },
     "q5XZBw": {
         "ko": "[엘류미나]\n쥐새끼처럼 숨어서 뭘 하나 했더니 밤에 몰래 비공정 조작이나 했다 이거지?\n어디까지 도망치나 한번 보자고.",
         "en": "[Eliumina]\nI wondered what they were doing, hiding like rats, and it turns out they were secretly operating the Airship at night?\nLet’s see just how far they run.",
-        "pt": "[Eliumina]\nEntão ficaram se escondendo como ratos e, à noite, manipularam a Placa do Aeroplano às escondidas?\nVamos ver até onde conseguem fugir.",
+        "pt": "[Elyumina]\nEntão ficaram se escondendo como ratos e, à noite, manipularam a Placa do Aeroplano às escondidas?\nVamos ver até onde conseguem fugir.",
         "es": "[Eliumina]\nMe preguntaba qué hacían escondidos como ratas, y resulta que por la noche manipulaban a escondidas el Dirigible libre, ¿eh?\nVeamos hasta dónde huyen."
     },
     "rJXZBw": {
         "ko": "[엘류미나]\n이제 안전도 챙겼고, 그 배신자 놈들을 끝까지 추격하는 일만 남았잖아.\n아하하하하하하!!!\n마지막까지 살아남은 내가 승자 아니겠어?!",
         "en": "[Eliumina]\nNow that we’ve secured our safety, all that’s left is to chase those traitorous bastards to the very end.\nAhahahahahaha!!!\nIsn’t the one who survives to the end the winner?!",
-        "pt": "[Eliumina]\nAgora que garanti minha segurança, só resta perseguir aqueles traidores até o fim.\nAhahahahahaha!!!\nNo final, não sou eu quem sobreviveu e venceu?!",
+        "pt": "[Elyumina]\nAgora que garanti minha segurança, só resta perseguir aqueles traidores até o fim.\nAhahahahahaha!!!\nNo final, não sou eu quem sobreviveu e venceu?!",
         "es": "[Eliumina]\nAhora ya me aseguré de estar a salvo, y solo queda perseguir a esos traidores hasta el final.\n¡Ajajajajajaja!\n¿No soy yo el vencedor, el que sobrevivió hasta el final?"
     },
     "rZXZBw": {
@@ -866,7 +866,7 @@
     "sJXZBw": {
         "ko": "[에스트]\n호오 …. 그게 일루시온과 하트헌터의 위치를 알 수 있는 추적기라고?\n그건 좀 구미가 당기는군.",
         "en": "[Est]\nHoh... You’re saying that’s a tracker that can pinpoint the location of Illusion and Heart Hunter?\nThat does pique my interest.",
-        "pt": "[Est]\nOh... então isso é um rastreador capaz de localizar Ilusión e Heart Hunter?\nIsso desperta meu interesse.",
+        "pt": "[Est]\nOh... então isso é um rastreador capaz de localizar Ilusión e Caça-Corações?\nIsso desperta meu interesse.",
         "es": "[Est]\nOh… ¿Dices que eso es un rastreador con el que se puede saber la ubicación de Illusion y Heart Hunter?\nEso sí que me interesa."
     },
     "sZXZBw": {

@@ -1,15 +1,15 @@
 {
     "4IfWBw": {
         "ko": "저택 관리자α",
-        "en": "Mansion Manager α",
-        "pt": "Gerente da Mansão α",
-        "es": "Administrador de la mansión α"
+        "en": "Mansion Manager Alpha",
+        "pt": "Gerente da Mansão Alpha",
+        "es": "Administrador de la mansión Alpha"
     },
     "4YfWBw": {
         "ko": "[저택 관리자α]\n침입자를 처리하러 오신 손님이라기엔 경험이 다소 부족해 보입니다. 차후에 다시 찾아주십시오.",
-        "en": "[Mansion Manager α]\nYou seem somewhat lacking in experience to be a guest who has come to deal with intruders. Please come back again at a later time.",
-        "pt": "[Gerente da Mansão α]\nPara alguém que veio lidar com os intrusos, parece ter experiência um pouco insuficiente. Por favor, retorne mais tarde.",
-        "es": "[Administrador de la mansión α]\nNo parece tener suficiente experiencia como para ser un invitado que ha venido a encargarse de los intrusos. Por favor, vuelva más adelante."
+        "en": "[Mansion Manager Alpha]\nYou seem somewhat lacking in experience to be a guest who has come to deal with intruders. Please come back again at a later time.",
+        "pt": "[Gerente da Mansão Alpha]\nPara alguém que veio lidar com os intrusos, parece ter experiência um pouco insuficiente. Por favor, retorne mais tarde.",
+        "es": "[Administrador de la mansión Alpha]\nNo parece tener suficiente experiencia como para ser un invitado que ha venido a encargarse de los intrusos. Por favor, vuelva más adelante."
     },
     "4ofWBw": {
         "ko": "- 130레벨부터 수행 가능한 퀘스트입니다. -",
@@ -25,39 +25,39 @@
     },
     "5IfWBw": {
         "ko": "[저택 관리자α]\n어서오십시오. 잘 찾아오셨습니다. 저택이 넓어 헤매지 않으실까 걱정했습니다.",
-        "en": "[Mansion Manager α]\nWelcome. You have come to the right place. The mansion is large, so I was concerned you might lose your way.",
-        "pt": "[Gerente da Mansão α]\nSeja bem-vindo. Veio ao lugar certo. Estava preocupado que pudesse se perder, pois a mansão é ampla.",
-        "es": "[Administrador de la mansión α]\nBienvenido. Ha llegado al lugar correcto. Me preocupaba que pudiera perderse, ya que la mansión es grande."
+        "en": "[Mansion Manager Alpha]\nWelcome. You have come to the right place. The mansion is large, so I was concerned you might lose your way.",
+        "pt": "[Gerente da Mansão Alpha]\nSeja bem-vindo. Veio ao lugar certo. Estava preocupado que pudesse se perder, pois a mansão é ampla.",
+        "es": "[Administrador de la mansión Alpha]\nBienvenido. Ha llegado al lugar correcto. Me preocupaba que pudiera perderse, ya que la mansión es grande."
     },
     "5YfWBw": {
         "ko": "[저택 관리자α]\n귀하께는 임시로 손님 자격을 발급하였습니다. 이는 바르문트님의 정식 초대로 방문하신 손님자격이라기 보다는 임시 방문증에 가깝습니다.",
-        "en": "[Mansion Manager α]\nWe have temporarily issued you guest status. This is less like the status of a guest visiting by Lord Varmundt's formal invitation, and closer to a temporary visitor's pass.",
-        "pt": "[Gerente da Mansão α]\nEmitimos temporariamente a você o status de visitante. Trata-se mais de um passe provisório do que de um convite oficial do Sr. Varmundt.",
-        "es": "[Administrador de la mansión α]\nSe le ha expedido temporalmente la condición de invitado. Esto es más parecido a un pase de visita temporal que a la condición de invitado que visita por una invitación formal del señor Varmundt."
+        "en": "[Mansion Manager Alpha]\nWe have temporarily issued you guest status. This is less like the status of a guest visiting by Lord Varmundt's formal invitation, and closer to a temporary visitor's pass.",
+        "pt": "[Gerente da Mansão Alpha]\nEmitimos temporariamente a você o status de visitante. Trata-se mais de um passe provisório do que de um convite oficial do Sr. Varmundt.",
+        "es": "[Administrador de la mansión Alpha]\nSe le ha expedido temporalmente la condición de invitado. Esto es más parecido a un pase de visita temporal que a la condición de invitado que visita por una invitación formal del señor Varmundt."
     },
     "5ofWBw": {
         "ko": "[저택 관리자α]\n저택에 무단 침입을 한 상태이나 여타 다른 침입자들처럼 기물 파손이나 절도 등의 위해를 가하지 않았기에 즉시 추방하는 대신 조사를 위해 발급한 임시 신분입니다.",
-        "en": "[Mansion Manager α]\nYou have trespassed into the mansion, but since you have not caused harm such as damaging property or theft like other intruders, we have issued this temporary identification for investigation instead of expelling you immediately.",
-        "pt": "[Gerente da Mansão α]\nEmbora tenha entrado na mansão sem autorização, como não causou danos ou furtos como outros intrusos, concedemos uma identificação temporária para fins de investigação, em vez de expulsá-lo imediatamente.",
-        "es": "[Administrador de la mansión α]\nAunque ha entrado en la mansión sin autorización, como no ha causado daños como destrucción de bienes o robo, en lugar de expulsarle de inmediato, se trata de una identificación temporal emitida para la investigación."
+        "en": "[Mansion Manager Alpha]\nYou have trespassed into the mansion, but since you have not caused harm such as damaging property or theft like other intruders, we have issued this temporary identification for investigation instead of expelling you immediately.",
+        "pt": "[Gerente da Mansão Alpha]\nEmbora tenha entrado na mansão sem autorização, como não causou danos ou furtos como outros intrusos, concedemos uma identificação temporária para fins de investigação, em vez de expulsá-lo imediatamente.",
+        "es": "[Administrador de la mansión Alpha]\nAunque ha entrado en la mansión sin autorización, como no ha causado daños como destrucción de bienes o robo, en lugar de expulsarle de inmediato, se trata de una identificación temporal emitida para la investigación."
     },
     "54fWBw": {
         "ko": "[저택 관리자α]\n조사 전에 자격 없이 저택을 배회하다 발생할지 모르는 불미스러운 일을 방지하고자 취한 조처입니다.",
-        "en": "[Mansion Manager α]\nThis measure was taken to prevent any unfortunate incidents that might occur if you were to wander the mansion without authorization before the investigation.",
-        "pt": "[Gerente da Mansão α]\nÉ uma medida para evitar incidentes indesejados antes da verificação, caso circule pela mansão sem credenciais.",
-        "es": "[Administrador de la mansión α]\nEs una medida tomada para prevenir cualquier incidente desafortunado que pudiera ocurrir si deambula por la mansión sin autorización antes de la investigación."
+        "en": "[Mansion Manager Alpha]\nThis measure was taken to prevent any unfortunate incidents that might occur if you were to wander the mansion without authorization before the investigation.",
+        "pt": "[Gerente da Mansão Alpha]\nÉ uma medida para evitar incidentes indesejados antes da verificação, caso circule pela mansão sem credenciais.",
+        "es": "[Administrador de la mansión Alpha]\nEs una medida tomada para prevenir cualquier incidente desafortunado que pudiera ocurrir si deambula por la mansión sin autorización antes de la investigación."
     },
     "6IfWBw": {
         "ko": "[저택 관리자α]\n양해해 주시길 부탁드립니다. 저택의 방문 목적과 방문 방법, 신분을 확인 후에 저택 밖으로 돌려보내드리겠습니다.",
-        "en": "[Mansion Manager α]\nWe ask for your understanding. After confirming your purpose for visiting the mansion, how you came to visit, and your identity, we will send you back outside the mansion.",
-        "pt": "[Gerente da Mansão α]\nPedimos sua compreensão. Após confirmarmos seu propósito de visita, forma de entrada e identidade, providenciaremos seu retorno para fora da mansão.",
-        "es": "[Administrador de la mansión α]\nLe rogamos su comprensión. Tras confirmar el propósito de su visita, el método de entrada y su identidad, le devolveremos al exterior de la mansión."
+        "en": "[Mansion Manager Alpha]\nWe ask for your understanding. After confirming your purpose for visiting the mansion, how you came to visit, and your identity, we will send you back outside the mansion.",
+        "pt": "[Gerente da Mansão Alpha]\nPedimos sua compreensão. Após confirmarmos seu propósito de visita, forma de entrada e identidade, providenciaremos seu retorno para fora da mansão.",
+        "es": "[Administrador de la mansión Alpha]\nLe rogamos su comprensión. Tras confirmar el propósito de su visita, el método de entrada y su identidad, le devolveremos al exterior de la mansión."
     },
     "6YfWBw": {
         "ko": "[저택 관리자α]\n먼저 성함을 말씀해주십시오.",
-        "en": "[Mansion Manager α]\nFirst, please tell me your name.",
-        "pt": "[Gerente da Mansão α]\nPrimeiramente, informe seu nome.",
-        "es": "[Administrador de la mansión α]\nPrimero, por favor dígame su nombre."
+        "en": "[Mansion Manager Alpha]\nFirst, please tell me your name.",
+        "pt": "[Gerente da Mansão Alpha]\nPrimeiramente, informe seu nome.",
+        "es": "[Administrador de la mansión Alpha]\nPrimero, por favor dígame su nombre."
     },
     "6ofWBw": {
         "ko": "저는 {0}입니다.",
@@ -67,9 +67,9 @@
     },
     "64fWBw": {
         "ko": "[저택 관리자α]\n{0}님. 저택의 방문 목적은 무엇입니까?",
-        "en": "[Mansion Manager α]\n{0}. What is your purpose for visiting the mansion?",
-        "pt": "[Gerente da Mansão α]\nSr(a). {0}. Qual é o propósito de sua visita à mansão?",
-        "es": "[Administrador de la mansión α]\n{0}. ¿Cuál es el propósito de su visita a la mansión?"
+        "en": "[Mansion Manager Alpha]\n{0}. What is your purpose for visiting the mansion?",
+        "pt": "[Gerente da Mansão Alpha]\nSr(a). {0}. Qual é o propósito de sua visita à mansão?",
+        "es": "[Administrador de la mansión Alpha]\n{0}. ¿Cuál es el propósito de su visita a la mansión?"
     },
     "7IfWBw": {
         "ko": "저는...",
@@ -85,9 +85,9 @@
     },
     "7ofWBw": {
         "ko": "[저택 관리자α]\n......\n잠시만 기다려주십시오..",
-        "en": "[Mansion Manager α]\n......\nPlease wait a moment..",
-        "pt": "[Gerente da Mansão α]\n......\nAguarde um momento, por favor..",
-        "es": "[Administrador de la mansión α]\n......\nPor favor, espere un momento.."
+        "en": "[Mansion Manager Alpha]\n......\nPlease wait a moment..",
+        "pt": "[Gerente da Mansão Alpha]\n......\nAguarde um momento, por favor..",
+        "es": "[Administrador de la mansión Alpha]\n......\nPor favor, espere un momento.."
     },
     "74fWBw": {
         "ko": "......",
@@ -109,9 +109,9 @@
     },
     "8ofWBw": {
         "ko": "[저택 관리자α]\n...혹시 일행분이 있으십니까?.",
-        "en": "[Mansion Manager α]\n...Do you perhaps have any companions?.",
-        "pt": "[Gerente da Mansão α]\n...Por acaso há acompanhantes com o(a) senhor(a)?",
-        "es": "[Administrador de la mansión α]\n...¿Acaso viene con algún acompañante?."
+        "en": "[Mansion Manager Alpha]\n...Do you perhaps have any companions?.",
+        "pt": "[Gerente da Mansão Alpha]\n...Por acaso há acompanhantes com o(a) senhor(a)?",
+        "es": "[Administrador de la mansión Alpha]\n...¿Acaso viene con algún acompañante?."
     },
     "84fWBw": {
         "ko": "리벨리온과 정부측 인사들과 왔어요.",
@@ -127,9 +127,9 @@
     },
     "9YfWBw": {
         "ko": "[저택 관리자α]\n실례가 많았습니다. {0}님. 지금 바로 정식 손님 자격을 발급해드리겠습니다.",
-        "en": "[Mansion Manager α]\nMy apologies for the discourtesy, {0}. I will issue you formal guest status right away.",
-        "pt": "[Gerente da Mansão α]\nPeço desculpas pela inconveniência, Sr(a). {0}. Emitirei agora seu status oficial de visitante.",
-        "es": "[Administrador de la mansión α]\nDisculpe las molestias, {0}.\nAhora mismo le emitiré la acreditación oficial de invitado."
+        "en": "[Mansion Manager Alpha]\nMy apologies for the discourtesy, {0}. I will issue you formal guest status right away.",
+        "pt": "[Gerente da Mansão Alpha]\nPeço desculpas pela inconveniência, Sr(a). {0}. Emitirei agora seu status oficial de visitante.",
+        "es": "[Administrador de la mansión Alpha]\nDisculpe las molestias, {0}.\nAhora mismo le emitiré la acreditación oficial de invitado."
     },
     "9ofWBw": {
         "ko": "네? 갑자기요?",
@@ -139,51 +139,51 @@
     },
     "94fWBw": {
         "ko": "[저택 관리자α]\n저택 내 다른 곳에서 함께 오신 일행분들의 신분과 방문 목적을 확인 후 등록하였습니다.",
-        "en": "[Mansion Manager α]\nI have confirmed and registered the identities and purpose of visit of the party members who came with you elsewhere in the mansion.",
-        "pt": "[Gerente da Mansão α]\nConfirmamos e registramos a identidade e o propósito de visita de seus acompanhantes em outra área da mansão.",
-        "es": "[Administrador de la mansión α]\nTras confirmar y registrar la identidad y el propósito de la visita de los acompañantes que vinieron con usted en otra parte de la mansión."
+        "en": "[Mansion Manager Alpha]\nI have confirmed and registered the identities and purpose of visit of the party members who came with you elsewhere in the mansion.",
+        "pt": "[Gerente da Mansão Alpha]\nConfirmamos e registramos a identidade e o propósito de visita de seus acompanhantes em outra área da mansão.",
+        "es": "[Administrador de la mansión Alpha]\nTras confirmar y registrar la identidad y el propósito de la visita de los acompañantes que vinieron con usted en otra parte de la mansión."
     },
     "+IfWBw": {
         "ko": "[저택 관리자α]\n^0000CD일행^000000분들께선 일전에 이 저택에 방문하셨던 ^0000CD옛손님들의 유지를 이어 받으신 분^000000들이라 자동으로 정식 손님 자격을 부여받으셨습니다.",
-        "en": "[Mansion Manager α]\nThe ^0000CDmembers of your party^000000 have automatically been granted formal guest status, as they are those who have inherited the will of the ^0000CDformer guests who previously visited this mansion^000000.",
-        "pt": "[Gerente da Mansão α]\nSeus ^0000CDcompanheiros^000000 são ^0000CDherdeiros da vontade dos antigos visitantes^000000 que estiveram nesta mansão anteriormente, portanto receberam automaticamente o status oficial de visitante.",
-        "es": "[Administrador de la mansión α]\nLos ^0000CDmiembros^000000 de su grupo heredaron la voluntad de los ^0000CDantiguos invitados^000000 que visitaron esta mansión anteriormente, por lo que se les otorgó automáticamente la acreditación oficial de invitado."
+        "en": "[Mansion Manager Alpha]\nThe ^0000CDmembers of your party^000000 have automatically been granted formal guest status, as they are those who have inherited the will of the ^0000CDformer guests who previously visited this mansion^000000.",
+        "pt": "[Gerente da Mansão Alpha]\nSeus ^0000CDcompanheiros^000000 são ^0000CDherdeiros da vontade dos antigos visitantes^000000 que estiveram nesta mansão anteriormente, portanto receberam automaticamente o status oficial de visitante.",
+        "es": "[Administrador de la mansión Alpha]\nLos ^0000CDmiembros^000000 de su grupo heredaron la voluntad de los ^0000CDantiguos invitados^000000 que visitaron esta mansión anteriormente, por lo que se les otorgó automáticamente la acreditación oficial de invitado."
     },
     "+YfWBw": {
         "ko": "[저택 관리자α]\n또한 손님들께서는 이 저택에 침입해 난동을 부리고 있는 ^0000CD침입자들의 해결을 위해 방문하셨다고 목적^000000을 밝히셨습니다.",
-        "en": "[Mansion Manager α]\nIn addition, the guests stated their purpose^000000 as visiting to deal with the ^0000CDintruders causing a disturbance after breaking into this mansion^000000.",
-        "pt": "[Gerente da Mansão α]\nAlém disso, declararam como ^0000CDobjetivo^000000 da visita resolver a situação dos ^0000CDintrusos que invadiram e estão causando tumulto na mansão.",
-        "es": "[Administrador de la mansión α]\nAdemás, los invitados declararon como ^0000CDpropósito^000000 de su visita resolver a los ^0000CDintrusos^000000 que han irrumpido en esta mansión y están causando disturbios."
+        "en": "[Mansion Manager Alpha]\nIn addition, the guests stated their purpose^000000 as visiting to deal with the ^0000CDintruders causing a disturbance after breaking into this mansion^000000.",
+        "pt": "[Gerente da Mansão Alpha]\nAlém disso, declararam como ^0000CDobjetivo^000000 da visita resolver a situação dos ^0000CDintrusos que invadiram e estão causando tumulto na mansão.",
+        "es": "[Administrador de la mansión Alpha]\nAdemás, los invitados declararon como ^0000CDpropósito^000000 de su visita resolver a los ^0000CDintrusos^000000 que han irrumpido en esta mansión y están causando disturbios."
     },
     "+ofWBw": {
         "ko": "[저택 관리자α]\n따라서 일행이신 {0}님께도 바르문트 저택의 정식 손님 자격을 발급해드리겠습니다.",
-        "en": "[Mansion Manager α]\nTherefore, I will also issue formal guest status of the Varmundt Mansion to you, {0}, as a member of the party.",
-        "pt": "[Gerente da Mansão α]\nAssim, também concederei ao(à) Sr(a). {0} o status oficial de visitante da Mansão Varmundt.",
-        "es": "[Administrador de la mansión α]\nPor lo tanto, también le emitiré a usted, {0}, la acreditación oficial de invitado de la mansión Varmundt."
+        "en": "[Mansion Manager Alpha]\nTherefore, I will also issue formal guest status of the Varmundt Mansion to you, {0}, as a member of the party.",
+        "pt": "[Gerente da Mansão Alpha]\nAssim, também concederei ao(à) Sr(a). {0} o status oficial de visitante da Mansão Varmundt.",
+        "es": "[Administrador de la mansión Alpha]\nPor lo tanto, también le emitiré a usted, {0}, la acreditación oficial de invitado de la mansión Varmundt."
     },
     "+4fWBw": {
         "ko": "[저택 관리자α]\n잠시만 기다려주십시오.",
-        "en": "[Mansion Manager α]\nPlease wait a moment.",
-        "pt": "[Gerente da Mansão α]\nAguarde um momento, por favor.",
-        "es": "[Administrador de la mansión α]\nPor favor, espere un momento."
+        "en": "[Mansion Manager Alpha]\nPlease wait a moment.",
+        "pt": "[Gerente da Mansão Alpha]\nAguarde um momento, por favor.",
+        "es": "[Administrador de la mansión Alpha]\nPor favor, espere un momento."
     },
     "/IfWBw": {
         "ko": "[저택 관리자α]\n{0}님. 어서 오십시오. 반갑습니다. 바르문트 저택에 방문하신 것을 환영합니다. 저는 이 저택의 관리인 저택 관리자α입니다.",
-        "en": "[Mansion Manager α]\nWelcome, {0}. It is a pleasure to meet you. Welcome to the Varmundt Mansion. I am this mansion's caretaker, Mansion Manager α.",
-        "pt": "[Gerente da Mansão α]\nSr(a). {0}, seja bem-vindo(a). É um prazer. Seja bem-vindo(a) à Mansão Varmundt. Sou o administrador desta mansão, Gerente da Mansão α.",
-        "es": "[Administrador de la mansión α]\n{0}. Bienvenido. Es un placer. Bienvenido a la mansión Varmundt. Soy el administrador de esta mansión, Administrador de la mansión α."
+        "en": "[Mansion Manager Alpha]\nWelcome, {0}. It is a pleasure to meet you. Welcome to the Varmundt Mansion. I am this mansion's caretaker, Mansion Manager Alpha.",
+        "pt": "[Gerente da Mansão Alpha]\nSr(a). {0}, seja bem-vindo(a). É um prazer. Seja bem-vindo(a) à Mansão Varmundt. Sou o administrador desta mansão, Gerente da Mansão Alpha.",
+        "es": "[Administrador de la mansión Alpha]\n{0}. Bienvenido. Es un placer. Bienvenido a la mansión Varmundt. Soy el administrador de esta mansión, Administrador de la mansión Alpha."
     },
     "/YfWBw": {
         "ko": "[저택 관리자α]\n지금부터 {0}님께서는 바르문트님의 귀빈으로서 이 저택 내의 시설을 자유롭게 이용하실 수 있으십니다. 이용 중 불편하신 점이 있으시면 언제든지 가까운 자동인형들에게 말씀해주십시오.",
-        "en": "[Mansion Manager α]\nFrom this moment on, as Lord Varmundt's honored guest, you may freely use the facilities within this mansion. If you experience any inconvenience during use, please speak to the nearest automaton at any time.",
-        "pt": "[Gerente da Mansão α]\nA partir de agora, como convidado(a) do Sr. Varmundt, poderá utilizar livremente as instalações desta mansão. Caso tenha qualquer inconveniente, informe às bonecas automáticas mais próximas.",
-        "es": "[Administrador de la mansión α]\nA partir de ahora, como invitado distinguido del señor Varmundt, {0} podrá utilizar libremente las instalaciones de esta mansión. Si durante su uso tiene alguna incomodidad, por favor dígaselo en cualquier momento a los autómatas cercanos."
+        "en": "[Mansion Manager Alpha]\nFrom this moment on, as Lord Varmundt's honored guest, you may freely use the facilities within this mansion. If you experience any inconvenience during use, please speak to the nearest automaton at any time.",
+        "pt": "[Gerente da Mansão Alpha]\nA partir de agora, como convidado(a) do Sr. Varmundt, poderá utilizar livremente as instalações desta mansão. Caso tenha qualquer inconveniente, informe às bonecas automáticas mais próximas.",
+        "es": "[Administrador de la mansión Alpha]\nA partir de ahora, como invitado distinguido del señor Varmundt, {0} podrá utilizar libremente las instalaciones de esta mansión. Si durante su uso tiene alguna incomodidad, por favor dígaselo en cualquier momento a los autómatas cercanos."
     },
     "/ofWBw": {
         "ko": "[저택 관리자α]\n또한 저택 내의 침입자들의 소탕이나 정보 공유에 도움이 필요하시다면 적극 협조하겠습니다.\n이를 위해 통상적으로 일반 손님들께 개방되는 구역 외 저택 전역을 개방해드렸습니다.",
-        "en": "[Mansion Manager α]\nAlso, if you require assistance with purging the intruders within the mansion or sharing information, I will cooperate actively.\nFor this purpose, I have opened the entire mansion to you, beyond the areas normally accessible to ordinary guests.",
-        "pt": "[Gerente da Mansão α]\nTambém cooperaremos ativamente caso necessite de ajuda para eliminar os intrusos ou compartilhar informações.\nPara isso, abrimos toda a mansão, inclusive áreas normalmente não acessíveis aos visitantes comuns.",
-        "es": "[Administrador de la mansión α]\nAdemás, si necesita ayuda para eliminar a los intrusos dentro de la mansión o para compartir información, cooperaremos activamente.\nPara ello, hemos abierto toda la mansión, además de las zonas que normalmente se abren a los invitados comunes."
+        "en": "[Mansion Manager Alpha]\nAlso, if you require assistance with purging the intruders within the mansion or sharing information, I will cooperate actively.\nFor this purpose, I have opened the entire mansion to you, beyond the areas normally accessible to ordinary guests.",
+        "pt": "[Gerente da Mansão Alpha]\nTambém cooperaremos ativamente caso necessite de ajuda para eliminar os intrusos ou compartilhar informações.\nPara isso, abrimos toda a mansão, inclusive áreas normalmente não acessíveis aos visitantes comuns.",
+        "es": "[Administrador de la mansión Alpha]\nAdemás, si necesita ayuda para eliminar a los intrusos dentro de la mansión o para compartir información, cooperaremos activamente.\nPara ello, hemos abierto toda la mansión, además de las zonas que normalmente se abren a los invitados comunes."
     },
     "/4fWBw": {
         "ko": "감사합니다.",
@@ -193,27 +193,27 @@
     },
     "AIjWBw": {
         "ko": "[저택 관리자α]\n저택 내의 다른 자동인형에게 {0}님이 새로이 등록된 손님 리스트를 공유하겠습니다.",
-        "en": "[Mansion Manager α]\nI will share the newly registered guest list including you, {0}, with the other automatons in the mansion.",
-        "pt": "[Gerente da Mansão α]\nCompartilharei com as demais bonecas automáticas da mansão que o(a) Sr(a). {0} foi registrado(a) como novo(a) visitante.",
-        "es": "[Administrador de la mansión α]\nCompartiré con los demás autómatas de la mansión la lista de invitados en la que {0} ha sido registrado recientemente."
+        "en": "[Mansion Manager Alpha]\nI will share the newly registered guest list including you, {0}, with the other automatons in the mansion.",
+        "pt": "[Gerente da Mansão Alpha]\nCompartilharei com as demais bonecas automáticas da mansão que o(a) Sr(a). {0} foi registrado(a) como novo(a) visitante.",
+        "es": "[Administrador de la mansión Alpha]\nCompartiré con los demás autómatas de la mansión la lista de invitados en la que {0} ha sido registrado recientemente."
     },
     "AYjWBw": {
         "ko": "[저택 관리자α]\n바르문트 저택 내의 모든 자동인형들이 정식 손님이신 {0}님께... 아...",
-        "en": "[Mansion Manager α]\nAll automatons within the Varmundt Mansion will recognize you, {0}, as a formal guest... Ah...",
-        "pt": "[Gerente da Mansão α]\nQue todas as bonecas automáticas da Mansão Varmundt reconheçam o(a) Sr(a). {0} como visitante oficial... Ah...",
-        "es": "[Administrador de la mansión α]\nTodos los autómatas dentro de la mansión Varmundt a {0}, que es un invitado oficial... Ah..."
+        "en": "[Mansion Manager Alpha]\nAll automatons within the Varmundt Mansion will recognize you, {0}, as a formal guest... Ah...",
+        "pt": "[Gerente da Mansão Alpha]\nQue todas as bonecas automáticas da Mansão Varmundt reconheçam o(a) Sr(a). {0} como visitante oficial... Ah...",
+        "es": "[Administrador de la mansión Alpha]\nTodos los autómatas dentro de la mansión Varmundt a {0}, que es un invitado oficial... Ah..."
     },
     "AojWBw": {
         "ko": "[저택 관리자α]\n죄송합니다만 잠시만 기다려주십시오.",
-        "en": "[Mansion Manager α]\nI apologize, but please wait a moment.",
-        "pt": "[Gerente da Mansão α]\nPeço desculpas, aguarde um instante.",
-        "es": "[Administrador de la mansión α]\nLo siento, pero por favor espere un momento."
+        "en": "[Mansion Manager Alpha]\nI apologize, but please wait a moment.",
+        "pt": "[Gerente da Mansão Alpha]\nPeço desculpas, aguarde um instante.",
+        "es": "[Administrador de la mansión Alpha]\nLo siento, pero por favor espere un momento."
     },
     "A4jWBw": {
         "ko": "[저택 관리자α]\n또... 말썽...",
-        "en": "[Mansion Manager α]\nAgain... trouble...",
-        "pt": "[Gerente da Mansão α]\nOutro... problema...",
-        "es": "[Administrador de la mansión α]\nY... problemas..."
+        "en": "[Mansion Manager Alpha]\nAgain... trouble...",
+        "pt": "[Gerente da Mansão Alpha]\nOutro... problema...",
+        "es": "[Administrador de la mansión Alpha]\nY... problemas..."
     },
     "BIjWBw": {
         "ko": "무슨 문제라도 생겼나요?",
@@ -223,9 +223,9 @@
     },
     "BYjWBw": {
         "ko": "[저택 관리자α]\n아무래도 일부 구역의 ^0000CD중계기에 문제^000000가 있는 것 같습니다. 신호가 송수신되지 않습니다.",
-        "en": "[Mansion Manager α]\nIt seems there is an issue^000000 with the ^0000CDRelay Device in some areas^000000. The signal is not being transmitted or received.",
-        "pt": "[Gerente da Mansão α]\nParece que há ^0000CDum problema em alguns Dispositivo de Retransmissão^000000 de certas áreas. O sinal não está sendo transmitido nem recebido.",
-        "es": "[Administrador de la mansión α]\nParece que hay un problema con el ^0000CDDispositivo de Retransmisión^000000 de algunas zonas. La señal no se transmite ni se recibe."
+        "en": "[Mansion Manager Alpha]\nIt seems there is an issue^000000 with the ^0000CDRelay Device in some areas^000000. The signal is not being transmitted or received.",
+        "pt": "[Gerente da Mansão Alpha]\nParece que há ^0000CDum problema em alguns Dispositivo de Retransmissão^000000 de certas áreas. O sinal não está sendo transmitido nem recebido.",
+        "es": "[Administrador de la mansión Alpha]\nParece que hay un problema con el ^0000CDDispositivo de Retransmisión^000000 de algunas zonas. La señal no se transmite ni se recibe."
     },
     "BojWBw": {
         "ko": "중계기요?",
@@ -235,33 +235,33 @@
     },
     "B4jWBw": {
         "ko": "[저택 관리자α]\n저택 내의 모든 자동인형들은 무선 신호를 이용하는 네트워크로 연결되어 있습니다.\n필요한 사항에 대해서 네트워크를 이용하여 순시간에 저택 내의 모든 자동인형들에게 내용을 공유할 수 있습니다.",
-        "en": "[Mansion Manager α]\nAll automatons within the mansion are connected through a network that uses wireless signals.\nWhen necessary, the network can be used to share information with all automatons in the mansion in an instant.",
-        "pt": "[Gerente da Mansão α]\nTodas as bonecas automáticas da mansão estão conectadas por uma rede sem fio.\nPor meio dessa rede, podemos compartilhar instantaneamente qualquer informação com todas as unidades.",
-        "es": "[Administrador de la mansión α]\nTodos los autómatas dentro de la mansión están conectados por una red que utiliza señales inalámbricas.\nPara los asuntos necesarios, se puede usar la red para compartir el contenido con todos los autómatas de la mansión en un instante."
+        "en": "[Mansion Manager Alpha]\nAll automatons within the mansion are connected through a network that uses wireless signals.\nWhen necessary, the network can be used to share information with all automatons in the mansion in an instant.",
+        "pt": "[Gerente da Mansão Alpha]\nTodas as bonecas automáticas da mansão estão conectadas por uma rede sem fio.\nPor meio dessa rede, podemos compartilhar instantaneamente qualquer informação com todas as unidades.",
+        "es": "[Administrador de la mansión Alpha]\nTodos los autómatas dentro de la mansión están conectados por una red que utiliza señales inalámbricas.\nPara los asuntos necesarios, se puede usar la red para compartir el contenido con todos los autómatas de la mansión en un instante."
     },
     "CIjWBw": {
         "ko": "[저택 관리자α]\n특히 지금처럼 손님 리스트나 일정 공유 같은 것들이 그러합니다.",
-        "en": "[Mansion Manager α]\nThis is especially true of things like sharing the guest list or schedules, as we are doing now.",
-        "pt": "[Gerente da Mansão α]\nEspecialmente informações como a lista de visitantes ou cronogramas, como agora.",
-        "es": "[Administrador de la mansión α]\nEspecialmente cosas como compartir la lista de invitados o el horario, como ahora."
+        "en": "[Mansion Manager Alpha]\nThis is especially true of things like sharing the guest list or schedules, as we are doing now.",
+        "pt": "[Gerente da Mansão Alpha]\nEspecialmente informações como a lista de visitantes ou cronogramas, como agora.",
+        "es": "[Administrador de la mansión Alpha]\nEspecialmente cosas como compartir la lista de invitados o el horario, como ahora."
     },
     "CYjWBw": {
         "ko": "[저택 관리자α]\n저택의 어디에 있어도 공유할 내용을 송신하면 중계기를 거쳐 저택 내의 모든 자동인형들에게 공유가 되는 것이지요.",
-        "en": "[Mansion Manager α]\nNo matter where you are in the mansion, if you transmit something to share, it will pass through the Relay Device and be shared with all the automata in the mansion.",
-        "pt": "[Gerente da Mansão α]\nIndependentemente de onde esteja na mansão, ao transmitir o conteúdo, ele passa pelo Dispositivo de Retransmissão e é compartilhado com todas as bonecas automáticas.",
-        "es": "[Administrador de la mansión α]\nSi envías el contenido a compartir desde cualquier lugar de la mansión, pasará por el Dispositivo de Retransmisión y se compartirá con todas las muñecas automáticas dentro de la mansión."
+        "en": "[Mansion Manager Alpha]\nNo matter where you are in the mansion, if you transmit something to share, it will pass through the Relay Device and be shared with all the automata in the mansion.",
+        "pt": "[Gerente da Mansão Alpha]\nIndependentemente de onde esteja na mansão, ao transmitir o conteúdo, ele passa pelo Dispositivo de Retransmissão e é compartilhado com todas as bonecas automáticas.",
+        "es": "[Administrador de la mansión Alpha]\nSi envías el contenido a compartir desde cualquier lugar de la mansión, pasará por el Dispositivo de Retransmisión y se compartirá con todas las muñecas automáticas dentro de la mansión."
     },
     "CojWBw": {
         "ko": "[저택 관리자α]\n저는 지금 갱신된 손님 리스트를 공유했습니다만 모든 구역에서 리스트를 받았다고 신호를 보내오진 않았습니다.",
-        "en": "[Mansion Manager α]\nI have just shared the updated guest list, but I have not received signals confirming that every area has received the list.",
-        "pt": "[Gerente da Mansão α]\nCompartilhei a lista atualizada de visitantes, mas nem todas as áreas enviaram confirmação de recebimento.",
-        "es": "[Administrador de la mansión α]\nAhora he compartido la lista de invitados actualizada, pero no he recibido señales de confirmación de que la lista se haya recibido en todas las áreas."
+        "en": "[Mansion Manager Alpha]\nI have just shared the updated guest list, but I have not received signals confirming that every area has received the list.",
+        "pt": "[Gerente da Mansão Alpha]\nCompartilhei a lista atualizada de visitantes, mas nem todas as áreas enviaram confirmação de recebimento.",
+        "es": "[Administrador de la mansión Alpha]\nAhora he compartido la lista de invitados actualizada, pero no he recibido señales de confirmación de que la lista se haya recibido en todas las áreas."
     },
     "C4jWBw": {
         "ko": "[저택 관리자α]\n수신 신호를 보내지 않은 구역의 중계기가 고장난 것입니다.",
-        "en": "[Mansion Manager α]\nThe Relay Device in the area that did not send a reception signal must be broken.",
-        "pt": "[Gerente da Mansão α]\nO Dispositivo de Retransmissão das áreas que não enviaram sinal de confirmação está com defeito.",
-        "es": "[Administrador de la mansión α]\nEl Dispositivo de Retransmisión del área que no envió la señal de recepción está averiado."
+        "en": "[Mansion Manager Alpha]\nThe Relay Device in the area that did not send a reception signal must be broken.",
+        "pt": "[Gerente da Mansão Alpha]\nO Dispositivo de Retransmissão das áreas que não enviaram sinal de confirmação está com defeito.",
+        "es": "[Administrador de la mansión Alpha]\nEl Dispositivo de Retransmisión del área que no envió la señal de recepción está averiado."
     },
     "DIjWBw": {
         "ko": "고장이 잦나봐요?",
@@ -271,27 +271,27 @@
     },
     "DYjWBw": {
         "ko": "[저택 관리자α]\n유지 보수를 꼼꼼히 하기 때문에 고장이 빈번한 것은 아닙니다.\n다만 일전에 저택에 들이닥친 ^0000CD침입자^000000들이 저택 내의 시설을 마구잡이로 분해하고 갈취해갈 때 함께 고장난 것들입니다.",
-        "en": "[Mansion Manager α]\nBecause we perform thorough maintenance, breakdowns are not frequent.\nHowever, these are ones that broke when the ^0000CDintruders^000000 who stormed the mansion some time ago indiscriminately dismantled and looted the facilities within the mansion.",
-        "pt": "[Gerente da Mansão α]\nNão ocorre com frequência, pois realizamos manutenção rigorosa.\nContudo, foram danificados quando os ^0000CDintrusos^000000 que invadiram anteriormente desmontaram e saquearam as instalações da mansão.",
-        "es": "[Administrador de la mansión α]\nComo realizamos un mantenimiento minucioso, no es que las averías sean frecuentes.\nSin embargo, son cosas que se averiaron cuando aquellos ^0000CDintrusos^000000 que irrumpieron en la mansión hace un tiempo desmantelaron y saquearon sin control las instalaciones de la mansión."
+        "en": "[Mansion Manager Alpha]\nBecause we perform thorough maintenance, breakdowns are not frequent.\nHowever, these are ones that broke when the ^0000CDintruders^000000 who stormed the mansion some time ago indiscriminately dismantled and looted the facilities within the mansion.",
+        "pt": "[Gerente da Mansão Alpha]\nNão ocorre com frequência, pois realizamos manutenção rigorosa.\nContudo, foram danificados quando os ^0000CDintrusos^000000 que invadiram anteriormente desmontaram e saquearam as instalações da mansão.",
+        "es": "[Administrador de la mansión Alpha]\nComo realizamos un mantenimiento minucioso, no es que las averías sean frecuentes.\nSin embargo, son cosas que se averiaron cuando aquellos ^0000CDintrusos^000000 que irrumpieron en la mansión hace un tiempo desmantelaron y saquearon sin control las instalaciones de la mansión."
     },
     "DojWBw": {
         "ko": "[저택 관리자α]\n일부는 침입자들에 의해 망가진 자동인형들이 부순 것들입니다.",
-        "en": "[Mansion Manager α]\nSome were broken by automata that were damaged by the intruders.",
-        "pt": "[Gerente da Mansão α]\nAlguns também foram destruídos por bonecas automáticas danificadas pelos intrusos.",
-        "es": "[Administrador de la mansión α]\nAlgunas son cosas que rompieron las muñecas automáticas que fueron dañadas por los intrusos."
+        "en": "[Mansion Manager Alpha]\nSome were broken by automata that were damaged by the intruders.",
+        "pt": "[Gerente da Mansão Alpha]\nAlguns também foram destruídos por bonecas automáticas danificadas pelos intrusos.",
+        "es": "[Administrador de la mansión Alpha]\nAlgunas son cosas que rompieron las muñecas automáticas que fueron dañadas por los intrusos."
     },
     "D4jWBw": {
         "ko": "[저택 관리자α]\n일단 어느 구역의 중계기가 문제인지 확인해 봐야겠습니다.",
-        "en": "[Mansion Manager α]\nFirst, I should check which area's Relay Device is the problem.",
-        "pt": "[Gerente da Mansão α]\nPrimeiro, preciso verificar em quais áreas o Dispositivo de Retransmissão apresenta problema.",
-        "es": "[Administrador de la mansión α]\nPrimero tendré que comprobar en qué área está el problema del Dispositivo de Retransmisión."
+        "en": "[Mansion Manager Alpha]\nFirst, I should check which area's Relay Device is the problem.",
+        "pt": "[Gerente da Mansão Alpha]\nPrimeiro, preciso verificar em quais áreas o Dispositivo de Retransmissão apresenta problema.",
+        "es": "[Administrador de la mansión Alpha]\nPrimero tendré que comprobar en qué área está el problema del Dispositivo de Retransmisión."
     },
     "EIjWBw": {
         "ko": "[저택 관리자α]\n죄송합니다만 잠시만 더 기다려주시겠습니까? 어느 구역의 문제인지 확인하고 수동으로 손님 리스트를 전달해야겠습니다.",
-        "en": "[Mansion Manager α]\nI am sorry, but could you please wait a little longer? I need to confirm which area is having the problem, and then manually deliver the guest list.",
-        "pt": "[Gerente da Mansão α]\nPeço desculpas, poderia aguardar mais um momento? Confirmarei as áreas afetadas e transmitirei manualmente a lista de visitantes.",
-        "es": "[Administrador de la mansión α]\nDisculpe, pero ¿podría esperar un poco más? Debo confirmar qué área tiene el problema y entregar manualmente la lista de invitados."
+        "en": "[Mansion Manager Alpha]\nI am sorry, but could you please wait a little longer? I need to confirm which area is having the problem, and then manually deliver the guest list.",
+        "pt": "[Gerente da Mansão Alpha]\nPeço desculpas, poderia aguardar mais um momento? Confirmarei as áreas afetadas e transmitirei manualmente a lista de visitantes.",
+        "es": "[Administrador de la mansión Alpha]\nDisculpe, pero ¿podría esperar un poco más? Debo confirmar qué área tiene el problema y entregar manualmente la lista de invitados."
     },
     "EYjWBw": {
         "ko": "숙소... 수신 완료...",
@@ -343,9 +343,9 @@
     },
     "GYjWBw": {
         "ko": "[저택 관리자α]\n총 20개의 중계기 중 응답이 없는 곳은 3곳뿐입니다. 수가 적어 다행입니다. 연결되지 않는 곳으로 가서 수동으로 손님 리스트를 전달하고 중계기를 살펴보겠...",
-        "en": "[Mansion Manager α]\nOut of a total of 20 Relay Device, only 3 places are not responding. It is fortunate that the number is small. I will go to the places that are not connected to manually deliver the guest list and check the Relay Device...",
-        "pt": "[Gerente da Mansão α]\nDos 20 Dispositivo de Retransmissão, apenas 3 não responderam. Felizmente são poucos. Irei às áreas desconectadas para transmitir manualmente a lista de visitantes e verificar o Dispositivo de Retransmissão...",
-        "es": "[Administrador de la mansión α]\nDe un total de 20 Dispositivo de Retransmisión, solo hay 3 lugares sin respuesta. Menos mal que son pocos. Iré a los lugares sin conexión para entregar manualmente la lista de invitados y revisar el Dispositivo de Retransmisión..."
+        "en": "[Mansion Manager Alpha]\nOut of a total of 20 Relay Device, only 3 places are not responding. It is fortunate that the number is small. I will go to the places that are not connected to manually deliver the guest list and check the Relay Device...",
+        "pt": "[Gerente da Mansão Alpha]\nDos 20 Dispositivo de Retransmissão, apenas 3 não responderam. Felizmente são poucos. Irei às áreas desconectadas para transmitir manualmente a lista de visitantes e verificar o Dispositivo de Retransmissão...",
+        "es": "[Administrador de la mansión Alpha]\nDe un total de 20 Dispositivo de Retransmisión, solo hay 3 lugares sin respuesta. Menos mal que son pocos. Iré a los lugares sin conexión para entregar manualmente la lista de invitados y revisar el Dispositivo de Retransmisión..."
     },
     "GojWBw": {
         "ko": "[토미]\n여긴가??",
@@ -373,9 +373,9 @@
     },
     "HojWBw": {
         "ko": "[저택 관리자α]\n또 다른 분이시군요. 일행이십니까?",
-        "en": "[Mansion Manager α]\nAnother guest, I see. Are you with them?",
-        "pt": "[Gerente da Mansão α]\nVejo que há mais pessoas. São seus acompanhantes?",
-        "es": "[Administrador de la mansión α]\nAsí que es otra persona. ¿Viene con el grupo?"
+        "en": "[Mansion Manager Alpha]\nAnother guest, I see. Are you with them?",
+        "pt": "[Gerente da Mansão Alpha]\nVejo que há mais pessoas. São seus acompanhantes?",
+        "es": "[Administrador de la mansión Alpha]\nAsí que es otra persona. ¿Viene con el grupo?"
     },
     "H4jWBw": {
         "ko": "네. 일행입니다.",
@@ -409,15 +409,15 @@
     },
     "JIjWBw": {
         "ko": "[저택 관리자α]\n새로 오신 분들은 이쪽으로 와주십시오. 저택의 손님으로 정식 등록을 하겠습니다.",
-        "en": "[Mansion Manager α]\nNew arrivals, please come this way. I will officially register you as guests of the mansion.",
-        "pt": "[Gerente da Mansão α]\nOs recém-chegados, por favor, venham por aqui. Farei o registro oficial como visitantes da mansão.",
-        "es": "[Administrador de la mansión α]\nLos recién llegados, por favor vengan por aquí. Los registraré oficialmente como huéspedes de la mansión."
+        "en": "[Mansion Manager Alpha]\nNew arrivals, please come this way. I will officially register you as guests of the mansion.",
+        "pt": "[Gerente da Mansão Alpha]\nOs recém-chegados, por favor, venham por aqui. Farei o registro oficial como visitantes da mansão.",
+        "es": "[Administrador de la mansión Alpha]\nLos recién llegados, por favor vengan por aquí. Los registraré oficialmente como huéspedes de la mansión."
     },
     "JYjWBw": {
         "ko": "[저택 관리자α]\n아, 그 전에 잠시... {0}님 혹시 저택은 둘러보셨습니까?",
-        "en": "[Mansion Manager α]\nAh, but before that... {0} have you looked around the mansion yet?",
-        "pt": "[Gerente da Mansão α]\nAh, antes disso... Sr(a). {0}, já explorou a mansão?",
-        "es": "[Administrador de la mansión α]\nAh, antes de eso, un momento... {0}, ¿acaso ya ha recorrido la mansión?"
+        "en": "[Mansion Manager Alpha]\nAh, but before that... {0} have you looked around the mansion yet?",
+        "pt": "[Gerente da Mansão Alpha]\nAh, antes disso... Sr(a). {0}, já explorou a mansão?",
+        "es": "[Administrador de la mansión Alpha]\nAh, antes de eso, un momento... {0}, ¿acaso ya ha recorrido la mansión?"
     },
     "JojWBw": {
         "ko": "아직요.",
@@ -427,27 +427,27 @@
     },
     "J4jWBw": {
         "ko": "[저택 관리자α]\n그럼, 실례를 무릅쓰고 부탁을 좀 드려도 되겠습니까? 이야기를 엿들으려 한 것은 아니지만 저택의 구조를 파악하셔야 하신다고 하셨습니다.",
-        "en": "[Mansion Manager α]\nThen, if you will excuse me, may I ask you a favor? I wasn’t trying to eavesdrop, but I heard you say you need to understand the mansion’s layout.",
-        "pt": "[Gerente da Mansão α]\nEntão, perdoe a ousadia, mas poderia lhe fazer um pedido? Não foi minha intenção ouvir a conversa, mas mencionaram que precisam compreender a estrutura da mansão.",
-        "es": "[Administrador de la mansión α]\nEntonces, ¿me permitiría, aun a riesgo de ser descortés, pedirle un favor? No es que intentara escuchar a escondidas, pero dijo que necesitaba comprender la estructura de la mansión."
+        "en": "[Mansion Manager Alpha]\nThen, if you will excuse me, may I ask you a favor? I wasn’t trying to eavesdrop, but I heard you say you need to understand the mansion’s layout.",
+        "pt": "[Gerente da Mansão Alpha]\nEntão, perdoe a ousadia, mas poderia lhe fazer um pedido? Não foi minha intenção ouvir a conversa, mas mencionaram que precisam compreender a estrutura da mansão.",
+        "es": "[Administrador de la mansión Alpha]\nEntonces, ¿me permitiría, aun a riesgo de ser descortés, pedirle un favor? No es que intentara escuchar a escondidas, pero dijo que necesitaba comprender la estructura de la mansión."
     },
     "KIjWBw": {
         "ko": "[저택 관리자α]\n저택을 둘러보실 겸 고장난 중계기 주변의 자동인형들에게 중계기 고장 사실을 전해주고 확인해 보라고 전달해주시지 않으시곘습니까?",
-        "en": "[Mansion Manager α]\nWhile you look around the mansion, would you please inform the automata near the broken Relay Device that the Relay Device is malfunctioning, and tell them to check it?",
-        "pt": "[Gerente da Mansão α]\nAo explorar a mansão, poderia informar às bonecas automáticas próximas aos Dispositivo de Retransmissão com defeito sobre a falha e pedir que verifiquem?",
-        "es": "[Administrador de la mansión α]\nYa que va a recorrer la mansión, ¿podría informar a los autómatas que están cerca del Dispositivo de Retransmisión averiado de que el Dispositivo de Retransmisión está averiado y pedirles que lo verifiquen?"
+        "en": "[Mansion Manager Alpha]\nWhile you look around the mansion, would you please inform the automata near the broken Relay Device that the Relay Device is malfunctioning, and tell them to check it?",
+        "pt": "[Gerente da Mansão Alpha]\nAo explorar a mansão, poderia informar às bonecas automáticas próximas aos Dispositivo de Retransmissão com defeito sobre a falha e pedir que verifiquem?",
+        "es": "[Administrador de la mansión Alpha]\nYa que va a recorrer la mansión, ¿podría informar a los autómatas que están cerca del Dispositivo de Retransmisión averiado de que el Dispositivo de Retransmisión está averiado y pedirles que lo verifiquen?"
     },
     "KYjWBw": {
         "ko": "[저택 관리자α]\n마침 저택을 한 바퀴 둘러보기 좋은 코스입니다.",
-        "en": "[Mansion Manager α]\nIt happens to be a good route for making a full circuit of the mansion.",
-        "pt": "[Gerente da Mansão α]\nÉ, por coincidência, um bom percurso para dar a volta pela mansão.",
-        "es": "[Administrador de la mansión α]\nJusto es una ruta buena para dar una vuelta por la mansión."
+        "en": "[Mansion Manager Alpha]\nIt happens to be a good route for making a full circuit of the mansion.",
+        "pt": "[Gerente da Mansão Alpha]\nÉ, por coincidência, um bom percurso para dar a volta pela mansão.",
+        "es": "[Administrador de la mansión Alpha]\nJusto es una ruta buena para dar una vuelta por la mansión."
     },
     "KojWBw": {
         "ko": "[저택 관리자α]\n제가 해야 할 일이지만 지금도 이렇게 손님들이 오고 계신 상황이라 손님을 등록하고 리스트를 갱신하고 공유하는 데만도 할애할 시간이 부족합니다.",
-        "en": "[Mansion Manager α]\nIt is something I should do, but even now guests keep arriving like this, and I don’t have enough time just to register guests and update, and share the list.",
-        "pt": "[Gerente da Mansão α]\nEmbora seja minha responsabilidade, com a chegada constante de visitantes, mal tenho tempo suficiente para registrá-los, atualizar e compartilhar a lista.",
-        "es": "[Administrador de la mansión α]\nEs algo que debería hacer yo, pero incluso ahora están llegando huéspedes así, y no me alcanza el tiempo ni para registrar a los huéspedes, actualizar la lista y compartirla."
+        "en": "[Mansion Manager Alpha]\nIt is something I should do, but even now guests keep arriving like this, and I don’t have enough time just to register guests and update, and share the list.",
+        "pt": "[Gerente da Mansão Alpha]\nEmbora seja minha responsabilidade, com a chegada constante de visitantes, mal tenho tempo suficiente para registrá-los, atualizar e compartilhar a lista.",
+        "es": "[Administrador de la mansión Alpha]\nEs algo que debería hacer yo, pero incluso ahora están llegando huéspedes así, y no me alcanza el tiempo ni para registrar a los huéspedes, actualizar la lista y compartirla."
     },
     "K4jWBw": {
         "ko": "하겠습니다.",
@@ -463,57 +463,57 @@
     },
     "LYjWBw": {
         "ko": "[저택 관리자α]\n그러십니까. 바쁜 일정에 무리한 부탁을 드려 죄송합니다. 그럼 자유롭게 저택을 둘러보십시오.",
-        "en": "[Mansion Manager α]\nIs that so. I’m sorry to trouble you with an unreasonable request when you are busy. Then please feel free to look around the mansion.",
-        "pt": "[Gerente da Mansão α]\nCompreendo. Peço desculpas pelo pedido em meio à sua agenda ocupada. Então, explore a mansão livremente.",
-        "es": "[Administrador de la mansión α]\n¿De veras? Lamento haberle hecho una petición excesiva en una agenda tan ocupada. Entonces, recorra la mansión libremente."
+        "en": "[Mansion Manager Alpha]\nIs that so. I’m sorry to trouble you with an unreasonable request when you are busy. Then please feel free to look around the mansion.",
+        "pt": "[Gerente da Mansão Alpha]\nCompreendo. Peço desculpas pelo pedido em meio à sua agenda ocupada. Então, explore a mansão livremente.",
+        "es": "[Administrador de la mansión Alpha]\n¿De veras? Lamento haberle hecho una petición excesiva en una agenda tan ocupada. Entonces, recorra la mansión libremente."
     },
     "LojWBw": {
         "ko": "[저택 관리자α]\n무리한 부탁에 흔쾌히 수락을 해주셔서 감사합니다. 일부 공유되지 않은 자동인형이 있지만 {0}님께 정식으로 손님 자격 부여해드렸으니 가까이 다가가면 인식을 할 것입니다.",
-        "en": "[Mansion Manager α]\nThank you for readily accepting an unreasonable request. There are some automata that do not share the list, but I have officially granted you guest status, {0}, so they will recognize you if you approach.",
-        "pt": "[Gerente da Mansão α]\nAgradeço por aceitar prontamente. Algumas unidades ainda não receberam a atualização, mas como concedi oficialmente o status de visitante ao(à) Sr(a). {0}, elas o(a) reconhecerão ao se aproximar.",
-        "es": "[Administrador de la mansión α]\nGracias por aceptar de buen grado una petición excesiva. Hay algunos autómatas con los que no se ha compartido la lista, pero como le he otorgado oficialmente la condición de huésped, {0}, lo reconocerán si se acerca."
+        "en": "[Mansion Manager Alpha]\nThank you for readily accepting an unreasonable request. There are some automata that do not share the list, but I have officially granted you guest status, {0}, so they will recognize you if you approach.",
+        "pt": "[Gerente da Mansão Alpha]\nAgradeço por aceitar prontamente. Algumas unidades ainda não receberam a atualização, mas como concedi oficialmente o status de visitante ao(à) Sr(a). {0}, elas o(a) reconhecerão ao se aproximar.",
+        "es": "[Administrador de la mansión Alpha]\nGracias por aceptar de buen grado una petición excesiva. Hay algunos autómatas con los que no se ha compartido la lista, pero como le he otorgado oficialmente la condición de huésped, {0}, lo reconocerán si se acerca."
     },
     "L4jWBw": {
         "ko": "[저택 관리자α]\n그 외 모두 리스트를 공유했으니 저택 이용엔 불편이 없으실 것입니다. 도움이 필요하시다면 언제든 가까운 자동인형에 요청하십시오.",
-        "en": "[Mansion Manager α]\nOther than that, they all share the list, so you should have no trouble using the mansion. If you need help, request it from the nearest automaton at any time.",
-        "pt": "[Gerente da Mansão α]\nAs demais já receberam a lista, então não haverá inconvenientes ao utilizar a mansão. Caso precise de ajuda, solicite a qualquer boneca automática próxima.",
-        "es": "[Administrador de la mansión α]\nAdemás, he compartido la lista con todos, así que no tendrá inconvenientes para usar la mansión. Si necesita ayuda, solicítela en cualquier momento al autómata más cercano."
+        "en": "[Mansion Manager Alpha]\nOther than that, they all share the list, so you should have no trouble using the mansion. If you need help, request it from the nearest automaton at any time.",
+        "pt": "[Gerente da Mansão Alpha]\nAs demais já receberam a lista, então não haverá inconvenientes ao utilizar a mansão. Caso precise de ajuda, solicite a qualquer boneca automática próxima.",
+        "es": "[Administrador de la mansión Alpha]\nAdemás, he compartido la lista con todos, así que no tendrá inconvenientes para usar la mansión. Si necesita ayuda, solicítela en cualquier momento al autómata más cercano."
     },
     "MIjWBw": {
         "ko": "[저택 관리자α]\n그럼 우선 가장 가까운 <NAVI>[식당]<INFO>ba_maison,146,109,0,101,0</INFO></NAVI>쪽으로 가보시는 것이 좋을 것 같습니다. 고장난 중계기 주변의 자동인형에게 고장 사항을 전달하면 알아서 처리할 것입니다.",
-        "en": "[Mansion Manager α]\nThen I think it would be best for you to head first toward the nearest <NAVI>[Dining Hall]<INFO>ba_maison,146,109,0,101,0</INFO></NAVI>. If you report the malfunction details to the automaton near the broken Relay Device, it will take care of it on its own.",
-        "pt": "[Gerente da Mansão α]\nSugiro começar pelo <NAVI>[Refeitório]<INFO>ba_maison,146,109,0,101,0</INFO></NAVI>. Informe às bonecas automáticas próximas ao Dispositivo de Retransmissão com defeito sobre a falha, e elas cuidarão do restante.",
-        "es": "[Administrador de la mansión α]\nEntonces, primero creo que sería buena idea que se dirija hacia el <NAVI>[Comedor]<INFO>ba_maison,146,109,0,101,0</INFO></NAVI>, que es el más cercano. Si le comunica la avería al autómata que está cerca del Dispositivo de Retransmisión averiado, se encargará de ello por su cuenta."
+        "en": "[Mansion Manager Alpha]\nThen I think it would be best for you to head first toward the nearest <NAVI>[Dining Hall]<INFO>ba_maison,146,109,0,101,0</INFO></NAVI>. If you report the malfunction details to the automaton near the broken Relay Device, it will take care of it on its own.",
+        "pt": "[Gerente da Mansão Alpha]\nSugiro começar pelo <NAVI>[Refeitório]<INFO>ba_maison,146,109,0,101,0</INFO></NAVI>. Informe às bonecas automáticas próximas ao Dispositivo de Retransmissão com defeito sobre a falha, e elas cuidarão do restante.",
+        "es": "[Administrador de la mansión Alpha]\nEntonces, primero creo que sería buena idea que se dirija hacia el <NAVI>[Comedor]<INFO>ba_maison,146,109,0,101,0</INFO></NAVI>, que es el más cercano. Si le comunica la avería al autómata que está cerca del Dispositivo de Retransmisión averiado, se encargará de ello por su cuenta."
     },
     "MYjWBw": {
         "ko": "[저택 관리자α]\n그럼 부탁드리겠습니다.",
-        "en": "[Mansion Manager α]\nThen I will leave it to you.",
-        "pt": "[Gerente da Mansão α]\nAgradeço antecipadamente.",
-        "es": "[Administrador de la mansión α]\nEntonces, se lo ruego."
+        "en": "[Mansion Manager Alpha]\nThen I will leave it to you.",
+        "pt": "[Gerente da Mansão Alpha]\nAgradeço antecipadamente.",
+        "es": "[Administrador de la mansión Alpha]\nEntonces, se lo ruego."
     },
     "MojWBw": {
         "ko": "[저택 관리자α]\n가장 가까운 <NAVI>[식당]<INFO>ba_maison,146,109,0,101,0</INFO></NAVI>쪽으로 가보시는 것이 좋을 것 같습니다. 고장난 중계기 주변의 자동인형에게 고장 사항을 전달하면 알아서 처리할 것입니다.",
-        "en": "[Mansion Manager α]\nI think it would be best for you to head toward the nearest <NAVI>[Dining Hall]<INFO>ba_maison,146,109,0,101,0</INFO></NAVI>. If you report the malfunction details to the automaton near the broken Relay Device, it will take care of it on its own.",
-        "pt": "[Gerente da Mansão α]\nSugiro começar pelo <NAVI>[Refeitório]<INFO>ba_maison,146,109,0,101,0</INFO></NAVI>. Informe às bonecas automáticas próximas ao Dispositivo de Retransmissão com defeito sobre a falha, e elas cuidarão do restante.",
-        "es": "[Administrador de la mansión α]\nCreo que sería buena idea que se dirija hacia el <NAVI>[Comedor]<INFO>ba_maison,146,109,0,101,0</INFO></NAVI>, que es el más cercano. Si le comunica la avería al autómata que está cerca del Dispositivo de Retransmisión averiado, se encargará de ello por su cuenta."
+        "en": "[Mansion Manager Alpha]\nI think it would be best for you to head toward the nearest <NAVI>[Dining Hall]<INFO>ba_maison,146,109,0,101,0</INFO></NAVI>. If you report the malfunction details to the automaton near the broken Relay Device, it will take care of it on its own.",
+        "pt": "[Gerente da Mansão Alpha]\nSugiro começar pelo <NAVI>[Refeitório]<INFO>ba_maison,146,109,0,101,0</INFO></NAVI>. Informe às bonecas automáticas próximas ao Dispositivo de Retransmissão com defeito sobre a falha, e elas cuidarão do restante.",
+        "es": "[Administrador de la mansión Alpha]\nCreo que sería buena idea que se dirija hacia el <NAVI>[Comedor]<INFO>ba_maison,146,109,0,101,0</INFO></NAVI>, que es el más cercano. Si le comunica la avería al autómata que está cerca del Dispositivo de Retransmisión averiado, se encargará de ello por su cuenta."
     },
     "M4jWBw": {
         "ko": "[저택 관리자α]\n<NAVI>[정자]<INFO>ba_maison,334,143,0,101,0</INFO></NAVI>쪽으로 가보십시오. 고장난 중계기 주변의 자동인형에게 고장 사항을 전달하면 알아서 처리할 것입니다.",
-        "en": "[Mansion Manager α]\nPlease head toward <NAVI>[Pavilion]<INFO>ba_maison,334,143,0,101,0</INFO></NAVI>. If you report the malfunction details to the automaton near the broken Relay Device, it will take care of it on its own.",
-        "pt": "[Gerente da Mansão α]\nDirija-se ao <NAVI>[Pavilhão]<INFO>ba_maison,334,143,0,101,0</INFO></NAVI>. Informe às bonecas automáticas próximas ao Dispositivo de Retransmissão com defeito sobre a falha, e elas cuidarão do restante.",
-        "es": "[Administrador de la mansión α]\nDiríjase hacia el <NAVI>[Pabellón]<INFO>ba_maison,334,143,0,101,0</INFO></NAVI>. Si le comunica la avería al autómata que está cerca del Dispositivo de Retransmisión averiado, se encargará de ello por su cuenta."
+        "en": "[Mansion Manager Alpha]\nPlease head toward <NAVI>[Pavilion]<INFO>ba_maison,334,143,0,101,0</INFO></NAVI>. If you report the malfunction details to the automaton near the broken Relay Device, it will take care of it on its own.",
+        "pt": "[Gerente da Mansão Alpha]\nDirija-se ao <NAVI>[Pavilhão]<INFO>ba_maison,334,143,0,101,0</INFO></NAVI>. Informe às bonecas automáticas próximas ao Dispositivo de Retransmissão com defeito sobre a falha, e elas cuidarão do restante.",
+        "es": "[Administrador de la mansión Alpha]\nDiríjase hacia el <NAVI>[Pabellón]<INFO>ba_maison,334,143,0,101,0</INFO></NAVI>. Si le comunica la avería al autómata que está cerca del Dispositivo de Retransmisión averiado, se encargará de ello por su cuenta."
     },
     "NIjWBw": {
         "ko": "[저택 관리자α]\n<NAVI>[중앙 정원]<INFO>ba_maison,245,206,0,101,0</INFO></NAVI>쪽의 고장난 중계기 주변에 있는 자동인형에게 고장 사항을 전달하면 알아서 처리할 것입니다.",
-        "en": "[Mansion Manager α]\nIf you report the malfunction details to the automaton near the broken Relay Device by the <NAVI>[Central Garden]<INFO>ba_maison,245,206,0,101,0</INFO></NAVI>, it will take care of it on its own.",
-        "pt": "[Gerente da Mansão α]\nNo <NAVI>[Jardim Central]<INFO>ba_maison,245,206,0,101,0</INFO></NAVI>, informe às bonecas automáticas próximas ao Dispositivo de Retransmissão com defeito sobre a falha, e elas cuidarão do restante.",
-        "es": "[Administrador de la mansión α]\nSi le comunica la avería al autómata que está cerca del Dispositivo de Retransmisión averiado en dirección al <NAVI>[Jardín central]<INFO>ba_maison,245,206,0,101,0</INFO></NAVI>, se encargará de ello por su cuenta."
+        "en": "[Mansion Manager Alpha]\nIf you report the malfunction details to the automaton near the broken Relay Device by the <NAVI>[Central Garden]<INFO>ba_maison,245,206,0,101,0</INFO></NAVI>, it will take care of it on its own.",
+        "pt": "[Gerente da Mansão Alpha]\nNo <NAVI>[Jardim Central]<INFO>ba_maison,245,206,0,101,0</INFO></NAVI>, informe às bonecas automáticas próximas ao Dispositivo de Retransmissão com defeito sobre a falha, e elas cuidarão do restante.",
+        "es": "[Administrador de la mansión Alpha]\nSi le comunica la avería al autómata que está cerca del Dispositivo de Retransmisión averiado en dirección al <NAVI>[Jardín central]<INFO>ba_maison,245,206,0,101,0</INFO></NAVI>, se encargará de ello por su cuenta."
     },
     "NYjWBw": {
         "ko": "[저택 관리자α]\n{0}님 어서 오십시오. 저택은 둘러보셨습니까? 중계기 주변의 자동인형에게 고장 사항을 전달하셨습니까?",
-        "en": "[Mansion Manager α]\nWelcome, {0}. Have you looked around the mansion? Did you report the malfunction details to the automaton near the Relay Device?",
-        "pt": "[Gerente da Mansão α]\nSr(a). {0}, seja bem-vindo(a). Já explorou a mansão? Informou às bonecas automáticas próximas ao Dispositivo de Retransmissão sobre a falha?",
-        "es": "[Administrador de la mansión α]\n{0}, bienvenido. ¿Ya ha recorrido la mansión? ¿Le comunicó la avería al autómata que está cerca del Dispositivo de Retransmisión?"
+        "en": "[Mansion Manager Alpha]\nWelcome, {0}. Have you looked around the mansion? Did you report the malfunction details to the automaton near the Relay Device?",
+        "pt": "[Gerente da Mansão Alpha]\nSr(a). {0}, seja bem-vindo(a). Já explorou a mansão? Informou às bonecas automáticas próximas ao Dispositivo de Retransmissão sobre a falha?",
+        "es": "[Administrador de la mansión Alpha]\n{0}, bienvenido. ¿Ya ha recorrido la mansión? ¿Le comunicó la avería al autómata que está cerca del Dispositivo de Retransmisión?"
     },
     "NojWBw": {
         "ko": "모두 전달했어요.",
@@ -523,9 +523,9 @@
     },
     "N4jWBw": {
         "ko": "[저택 관리자α]\n노고에 정말 감사드립니다. 잠시 네트워크 현황을 확인해보겠습니다.",
-        "en": "[Mansion Manager α]\nThank you very much for your hard work. I will check the network status for a moment.",
-        "pt": "[Gerente da Mansão α]\nAgradeço imensamente pelo esforço. Verificarei o status da rede.",
-        "es": "[Administrador de la mansión α]\nLe agradezco sinceramente su esfuerzo. Permítame comprobar por un momento el estado de la red."
+        "en": "[Mansion Manager Alpha]\nThank you very much for your hard work. I will check the network status for a moment.",
+        "pt": "[Gerente da Mansão Alpha]\nAgradeço imensamente pelo esforço. Verificarei o status da rede.",
+        "es": "[Administrador de la mansión Alpha]\nLe agradezco sinceramente su esfuerzo. Permítame comprobar por un momento el estado de la red."
     },
     "OIjWBw": {
         "ko": "식당... 수신 완료...",
@@ -547,45 +547,45 @@
     },
     "O4jWBw": {
         "ko": "[저택 관리자α]\n저택의 네트워크가 복구되어 전 구역의 신호가 원활히 송수신 되고 있습니다. 이제 저택의 어느 구역을 가더라도 불편함 없이 정식 손님으로서 이용하실 수 있습니다.",
-        "en": "[Mansion Manager α]\nThe mansion's network has been restored, and signals are being transmitted and received smoothly throughout all areas. Now, no matter which area of the mansion you go to, you may use it as an official guest without inconvenience.",
-        "pt": "[Gerente da Mansão α]\nA rede da mansão foi restaurada e os sinais estão sendo transmitidos e recebidos normalmente em todas as áreas. Agora poderá utilizar qualquer setor da mansão como visitante oficial, sem inconvenientes.",
-        "es": "[Administrador de la mansión α]\nLa red de la mansión se ha restaurado y las señales se están transmitiendo y recibiendo sin problemas en todas las zonas. Ahora, vaya a la zona de la mansión que vaya, podrá utilizarla como un huésped oficial sin inconvenientes."
+        "en": "[Mansion Manager Alpha]\nThe mansion's network has been restored, and signals are being transmitted and received smoothly throughout all areas. Now, no matter which area of the mansion you go to, you may use it as an official guest without inconvenience.",
+        "pt": "[Gerente da Mansão Alpha]\nA rede da mansão foi restaurada e os sinais estão sendo transmitidos e recebidos normalmente em todas as áreas. Agora poderá utilizar qualquer setor da mansão como visitante oficial, sem inconvenientes.",
+        "es": "[Administrador de la mansión Alpha]\nLa red de la mansión se ha restaurado y las señales se están transmitiendo y recibiendo sin problemas en todas las zonas. Ahora, vaya a la zona de la mansión que vaya, podrá utilizarla como un huésped oficial sin inconvenientes."
     },
     "PIjWBw": {
         "ko": "[저택 관리자α]\n정말 감사드립니다. 골치 아픈 침입자의 흔적을 아주 말끔하게 처리하시는 {0}님에게서 온갖 상황에 능숙하게 대처하는 숙련된 모험가라는 인상을 받았습니다.",
-        "en": "[Mansion Manager α]\nThank you very much. Seeing you so neatly deal with the traces of those troublesome intruders, {0}, I got the impression that you are a seasoned adventurer who handles all kinds of situations with skill.",
-        "pt": "[Gerente da Mansão α]\nSou imensamente grato. Ao ver como o(a) Sr(a). {0} lida de forma tão limpa com os vestígios problemáticos deixados pelos intrusos, tive a impressão de estar diante de um(a) aventureiro(a) experiente, capaz de agir com destreza em qualquer situação.",
-        "es": "[Administrador de la mansión α]\nSe lo agradezco de verdad. Al ver cómo {0} ha eliminado de forma impecable las molestas huellas del intruso, me ha dado la impresión de ser un aventurero veterano que sabe desenvolverse con soltura en toda clase de situaciones."
+        "en": "[Mansion Manager Alpha]\nThank you very much. Seeing you so neatly deal with the traces of those troublesome intruders, {0}, I got the impression that you are a seasoned adventurer who handles all kinds of situations with skill.",
+        "pt": "[Gerente da Mansão Alpha]\nSou imensamente grato. Ao ver como o(a) Sr(a). {0} lida de forma tão limpa com os vestígios problemáticos deixados pelos intrusos, tive a impressão de estar diante de um(a) aventureiro(a) experiente, capaz de agir com destreza em qualquer situação.",
+        "es": "[Administrador de la mansión Alpha]\nSe lo agradezco de verdad. Al ver cómo {0} ha eliminado de forma impecable las molestas huellas del intruso, me ha dado la impresión de ser un aventurero veterano que sabe desenvolverse con soltura en toda clase de situaciones."
     },
     "PYjWBw": {
         "ko": "[저택 관리자α]\n저택의 지리도 금세 익히셨고 낯이 설 자동인형들에도 빠르게 익숙해지시는 모습 또한 마찬가지로 인상적이었습니다.",
-        "en": "[Mansion Manager α]\nYou also learned the mansion's layout in no time, and it was equally impressive how quickly you became accustomed to the unfamiliar automatons.",
-        "pt": "[Gerente da Mansão α]\nO fato de ter se familiarizado rapidamente com a estrutura da mansão e com as bonecas automáticas que lhe eram estranhas também foi igualmente impressionante.",
-        "es": "[Administrador de la mansión α]\nTambién fue impresionante ver cómo aprendió enseguida la geografía de la mansión y cómo se acostumbró rápidamente a los autómatas, que le resultarían desconocidos."
+        "en": "[Mansion Manager Alpha]\nYou also learned the mansion's layout in no time, and it was equally impressive how quickly you became accustomed to the unfamiliar automatons.",
+        "pt": "[Gerente da Mansão Alpha]\nO fato de ter se familiarizado rapidamente com a estrutura da mansão e com as bonecas automáticas que lhe eram estranhas também foi igualmente impressionante.",
+        "es": "[Administrador de la mansión Alpha]\nTambién fue impresionante ver cómo aprendió enseguida la geografía de la mansión y cómo se acostumbró rápidamente a los autómatas, que le resultarían desconocidos."
     },
     "PojWBw": {
         "ko": "[저택 관리자α]\n저택을 살펴보시다 다른 문제도 혹시 발견하게 된다면 도움을 주십시오. 부탁드립니다.",
-        "en": "[Mansion Manager α]\nIf you happen to discover any other problems while looking around the mansion, please help us. I ask you.",
-        "pt": "[Gerente da Mansão α]\nSe, ao inspecionar a mansão, encontrar outros problemas, peço que nos ajude. Por favor.",
-        "es": "[Administrador de la mansión α]\nSi mientras inspecciona la mansión llega a encontrar algún otro problema, por favor ayúdenos. Se lo ruego."
+        "en": "[Mansion Manager Alpha]\nIf you happen to discover any other problems while looking around the mansion, please help us. I ask you.",
+        "pt": "[Gerente da Mansão Alpha]\nSe, ao inspecionar a mansão, encontrar outros problemas, peço que nos ajude. Por favor.",
+        "es": "[Administrador de la mansión Alpha]\nSi mientras inspecciona la mansión llega a encontrar algún otro problema, por favor ayúdenos. Se lo ruego."
     },
     "P4jWBw": {
         "ko": "[저택 관리자α]\n저희는 저택의 사용인인 자동인형으로서 인간 손님들을 시중 드는데에는 익숙하지만 그 외의 문제에는 정보와 대처가 미흡할 수 밖에 없습니다.",
-        "en": "[Mansion Manager α]\nAs automatons who serve as the mansion's staff, we are accustomed to attending to human guests, but when it comes to other matters, we cannot help but be lacking in information and response.",
-        "pt": "[Gerente da Mansão α]\nNós, como bonecas automáticas a serviço da mansão, estamos acostumadas a atender visitantes humanos, mas carecemos de informações e capacidade de resposta para outros tipos de problemas.",
-        "es": "[Administrador de la mansión α]\nNosotros, como autómatas sirvientes de la mansión, estamos acostumbrados a atender a los huéspedes humanos, pero en otros problemas es inevitable que nos falte información y capacidad de respuesta."
+        "en": "[Mansion Manager Alpha]\nAs automatons who serve as the mansion's staff, we are accustomed to attending to human guests, but when it comes to other matters, we cannot help but be lacking in information and response.",
+        "pt": "[Gerente da Mansão Alpha]\nNós, como bonecas automáticas a serviço da mansão, estamos acostumadas a atender visitantes humanos, mas carecemos de informações e capacidade de resposta para outros tipos de problemas.",
+        "es": "[Administrador de la mansión Alpha]\nNosotros, como autómatas sirvientes de la mansión, estamos acostumbrados a atender a los huéspedes humanos, pero en otros problemas es inevitable que nos falte información y capacidad de respuesta."
     },
     "QIjWBw": {
         "ko": "[저택 관리자α]\n아직도 대규모의 침입자로 인한 문제는 완벽히 해결을 하지 못했습니다. 아무래도 인간의 시선이 아니다 보니 놓치는 부분이 많아 해결이 어려운 것 같습니다.",
-        "en": "[Mansion Manager α]\nWe still have not been able to completely resolve the problems caused by the large-scale intruders. It seems difficult to solve because there are many parts we miss, as we do not have a human perspective, Bonnie.",
-        "pt": "[Gerente da Mansão α]\nOs problemas causados pela invasão em larga escala ainda não foram completamente resolvidos. Como não possuímos uma perspectiva humana, há muitos pontos que acabamos deixando passar, o que dificulta a solução.",
-        "es": "[Administrador de la mansión α]\nTodavía no hemos podido resolver por completo los problemas causados por la invasión a gran escala. Parece que, al no ser una perspectiva humana, Bonnie se nos escapan muchas cosas y resulta difícil solucionarlo."
+        "en": "[Mansion Manager Alpha]\nWe still have not been able to completely resolve the problems caused by the large-scale intruders. It seems difficult to solve because there are many parts we miss, as we do not have a human perspective, Bonnie.",
+        "pt": "[Gerente da Mansão Alpha]\nOs problemas causados pela invasão em larga escala ainda não foram completamente resolvidos. Como não possuímos uma perspectiva humana, há muitos pontos que acabamos deixando passar, o que dificulta a solução.",
+        "es": "[Administrador de la mansión Alpha]\nTodavía no hemos podido resolver por completo los problemas causados por la invasión a gran escala. Parece que, al no ser una perspectiva humana, Bonnie se nos escapan muchas cosas y resulta difícil solucionarlo."
     },
     "QYjWBw": {
         "ko": "[저택 관리자α]\n침입자들로부터 발생한 문제를 해결하는 {0}님을 통해 관련 데이터를 수집하면 앞으로의 대처에 큰 도움이 될 것 같습니다.",
-        "en": "[Mansion Manager α]\nIf we collect related data through you, {0}, as you resolve the problems caused by the intruders, it will be a great help for our future response.",
-        "pt": "[Gerente da Mansão α]\nSe pudermos coletar dados por meio do(a) Sr(a). {0}, que resolve os problemas causados pelos intrusos, isso será de grande ajuda para nossas futuras respostas.",
-        "es": "[Administrador de la mansión α]\nSi recopilamos datos relacionados a través de {0}, que está resolviendo los problemas causados por los intrusos, creo que será de gran ayuda para nuestra respuesta en el futuro."
+        "en": "[Mansion Manager Alpha]\nIf we collect related data through you, {0}, as you resolve the problems caused by the intruders, it will be a great help for our future response.",
+        "pt": "[Gerente da Mansão Alpha]\nSe pudermos coletar dados por meio do(a) Sr(a). {0}, que resolve os problemas causados pelos intrusos, isso será de grande ajuda para nossas futuras respostas.",
+        "es": "[Administrador de la mansión Alpha]\nSi recopilamos datos relacionados a través de {0}, que está resolviendo los problemas causados por los intrusos, creo que será de gran ayuda para nuestra respuesta en el futuro."
     },
     "QojWBw": {
         "ko": "알겠습니다.",
@@ -595,15 +595,15 @@
     },
     "Q4jWBw": {
         "ko": "[저택 관리자α]\n감사의 뜻으로는 작지만 이것을 드리겠습니다. 저택 내 마련된 식당을 이용하실 수 있는 ^0000CD식권^000000입니다. 무엇이든 자유롭게 취식하실 수 있사오니 편히 이용해주십시오.",
-        "en": "[Mansion Manager α]\nAs a token of our gratitude, small though it is, I will give you this. It is a ^0000CDmeal ticket^000000 that allows you to use the dining hall prepared within the mansion. You may freely partake of anything, so please use it at your ease.",
-        "pt": "[Gerente da Mansão α]\nComo forma de agradecimento, embora modesta, ofereço isto. É um ^0000CDvale-refeição^000000 que pode ser utilizado no restaurante da mansão. Sinta-se à vontade para consumir o que desejar.",
-        "es": "[Administrador de la mansión α]\nComo muestra de agradecimiento, aunque sea poco, le daré esto. Son ^0000CDvales de comida^000000 que puede usar en el comedor preparado dentro de la mansión. Puede comer libremente lo que desee, así que por favor úselo con comodidad."
+        "en": "[Mansion Manager Alpha]\nAs a token of our gratitude, small though it is, I will give you this. It is a ^0000CDmeal ticket^000000 that allows you to use the dining hall prepared within the mansion. You may freely partake of anything, so please use it at your ease.",
+        "pt": "[Gerente da Mansão Alpha]\nComo forma de agradecimento, embora modesta, ofereço isto. É um ^0000CDvale-refeição^000000 que pode ser utilizado no restaurante da mansão. Sinta-se à vontade para consumir o que desejar.",
+        "es": "[Administrador de la mansión Alpha]\nComo muestra de agradecimiento, aunque sea poco, le daré esto. Son ^0000CDvales de comida^000000 que puede usar en el comedor preparado dentro de la mansión. Puede comer libremente lo que desee, así que por favor úselo con comodidad."
     },
     "RIjWBw": {
         "ko": "[저택 관리자α]\n<NAVI>[식당]<INFO>ba_maison,136,108,0,101,0</INFO></NAVI>은 좀 전에 안내해드렸다시피 아래쪽에 위치하고 있습니다.",
-        "en": "[Mansion Manager α]\nAs I mentioned earlier, <NAVI>[Dining Hall]<INFO>ba_maison,136,108,0,101,0</INFO></NAVI> is located downstairs.",
-        "pt": "[Gerente da Mansão α]\nConforme informado anteriormente, o <NAVI>[Restaurante]<INFO>ba_maison,136,108,0,101,0</INFO></NAVI> está localizado na parte inferior.",
-        "es": "[Administrador de la mansión α]\nComo le indiqué hace un momento, <NAVI>[Comedor]<INFO>ba_maison,136,108,0,101,0</INFO></NAVI> se encuentra en la parte inferior."
+        "en": "[Mansion Manager Alpha]\nAs I mentioned earlier, <NAVI>[Dining Hall]<INFO>ba_maison,136,108,0,101,0</INFO></NAVI> is located downstairs.",
+        "pt": "[Gerente da Mansão Alpha]\nConforme informado anteriormente, o <NAVI>[Restaurante]<INFO>ba_maison,136,108,0,101,0</INFO></NAVI> está localizado na parte inferior.",
+        "es": "[Administrador de la mansión Alpha]\nComo le indiqué hace un momento, <NAVI>[Comedor]<INFO>ba_maison,136,108,0,101,0</INFO></NAVI> se encuentra en la parte inferior."
     },
     "RYjWBw": {
         "ko": "저희 일행은 지금 어디에 있나요?",
@@ -613,57 +613,57 @@
     },
     "RojWBw": {
         "ko": "[저택 관리자α]\n먼저 오신 일행분들은 현재 <NAVI>[찻집]<INFO>ba_in01,206,106,0,101,0</INFO></NAVI>에 머물고 계시니 한 번 둘러 보시며 담소 나누십시오.",
-        "en": "[Mansion Manager α]\nThe companions who arrived earlier are currently staying at <NAVI>[Tea House]<INFO>ba_in01,206,106,0,101,0</INFO></NAVI>, so please take a look around and enjoy a chat.",
-        "pt": "[Gerente da Mansão α]\nOs acompanhantes que chegaram primeiro estão atualmente na <NAVI>[Casa de Chá]<INFO>ba_in01,206,106,0,101,0</INFO></NAVI>. Dê uma passada por lá e conversem um pouco.",
-        "es": "[Administrador de la mansión α]\nEl grupo que llegó antes se está quedando actualmente en <NAVI>[Tetería]<INFO>ba_in01,206,106,0,101,0</INFO></NAVI>, así que eche un vistazo y converse un rato."
+        "en": "[Mansion Manager Alpha]\nThe companions who arrived earlier are currently staying at <NAVI>[Tea House]<INFO>ba_in01,206,106,0,101,0</INFO></NAVI>, so please take a look around and enjoy a chat.",
+        "pt": "[Gerente da Mansão Alpha]\nOs acompanhantes que chegaram primeiro estão atualmente na <NAVI>[Casa de Chá]<INFO>ba_in01,206,106,0,101,0</INFO></NAVI>. Dê uma passada por lá e conversem um pouco.",
+        "es": "[Administrador de la mansión Alpha]\nEl grupo que llegó antes se está quedando actualmente en <NAVI>[Tetería]<INFO>ba_in01,206,106,0,101,0</INFO></NAVI>, así que eche un vistazo y converse un rato."
     },
     "R4jWBw": {
         "ko": "[저택 관리자α]\n또한 이용 중 불편하신 점이 있으면 언제든, 누구에게든 말씀해주십시오. 이 바르밀 티켓을 가지고 가십시오. 저택 내에서 유용하게 사용하실 수 있습니다. 노고에 감사드립니다.",
-        "en": "[Mansion Manager α]\nAlso, if you experience any inconvenience while using the facilities, please tell anyone at any time. Please take this Varmeal Ticket. You can use it usefully within the mansion. Thank you for your hard work.",
-        "pt": "[Gerente da Mansão α]\nSe houver qualquer inconveniente durante sua estadia, informe a qualquer unidade. Leve este Ticket Varmeal consigo. Poderá utilizá-lo de forma útil dentro da mansão. Agradeço por seus esforços.",
-        "es": "[Administrador de la mansión α]\nAdemás, si tiene alguna incomodidad durante el uso, en cualquier momento, a quien sea, por favor dígalo. Llévese este Varmeal Ticket. Podrá usarlo de forma útil dentro de la mansión. Gracias por su esfuerzo."
+        "en": "[Mansion Manager Alpha]\nAlso, if you experience any inconvenience while using the facilities, please tell anyone at any time. Please take this Varmeal Ticket. You can use it usefully within the mansion. Thank you for your hard work.",
+        "pt": "[Gerente da Mansão Alpha]\nSe houver qualquer inconveniente durante sua estadia, informe a qualquer unidade. Leve este Ticket Varmeal consigo. Poderá utilizá-lo de forma útil dentro da mansão. Agradeço por seus esforços.",
+        "es": "[Administrador de la mansión Alpha]\nAdemás, si tiene alguna incomodidad durante el uso, en cualquier momento, a quien sea, por favor dígalo. Llévese este Varmeal Ticket. Podrá usarlo de forma útil dentro de la mansión. Gracias por su esfuerzo."
     },
     "SIjWBw": {
         "ko": "[저택 관리자α]\n{0}님 어서 오십시오.",
-        "en": "[Mansion Manager α]\nWelcome, {0}.",
-        "pt": "[Gerente da Mansão α]\nSr(a). {0}, seja bem-vindo(a).",
-        "es": "[Administrador de la mansión α]\n{0}님, bienvenido."
+        "en": "[Mansion Manager Alpha]\nWelcome, {0}.",
+        "pt": "[Gerente da Mansão Alpha]\nSr(a). {0}, seja bem-vindo(a).",
+        "es": "[Administrador de la mansión Alpha]\n{0}님, bienvenido."
     },
     "SYjWBw": {
         "ko": "[저택 관리자α]\n부탁드린 자동인형 통신칩은 가지고 오셨습니까?",
-        "en": "[Mansion Manager α]\nDid you bring the automaton communication chips I asked for?",
-        "pt": "[Gerente da Mansão α]\nTrouxe o chip de comunicação das bonecas automáticas que solicitei?",
-        "es": "[Administrador de la mansión α]\n¿Ha traído el chip de comunicación del autómata que le pedí?"
+        "en": "[Mansion Manager Alpha]\nDid you bring the automaton communication chips I asked for?",
+        "pt": "[Gerente da Mansão Alpha]\nTrouxe o chip de comunicação das bonecas automáticas que solicitei?",
+        "es": "[Administrador de la mansión Alpha]\n¿Ha traído el chip de comunicación del autómata que le pedí?"
     },
     "SojWBw": {
         "ko": "[저택 관리자α]\n이 정도면 충분합니다. 고생하셨습니다. 시간이 괜찮으시다면 내일 ^0000CD새벽이 지난 후^000000에 또 부탁을 드리고 싶습니다만, 괜찮으시다면 방문 해주십시오.",
-        "en": "[Mansion Manager α]\nThis is enough. Good work. If you have time, I would like to ask another favor after ^0000CDdawn has passed^000000 tomorrow, so please visit if you are able.",
-        "pt": "[Gerente da Mansão α]\nIsso é suficiente. Bom trabalho. Se tiver disponibilidade, gostaria de fazer outro pedido ^0000CDapós o amanhecer de amanhã^000000. Se for possível, por favor, venha nos visitar.",
-        "es": "[Administrador de la mansión α]\nCon esto es suficiente. Buen trabajo. Si le viene bien el tiempo, me gustaría pedirle otra cosa mañana después de que pase ^0000CDel amanecer^000000, así que si le parece bien, por favor venga a visitarnos."
+        "en": "[Mansion Manager Alpha]\nThis is enough. Good work. If you have time, I would like to ask another favor after ^0000CDdawn has passed^000000 tomorrow, so please visit if you are able.",
+        "pt": "[Gerente da Mansão Alpha]\nIsso é suficiente. Bom trabalho. Se tiver disponibilidade, gostaria de fazer outro pedido ^0000CDapós o amanhecer de amanhã^000000. Se for possível, por favor, venha nos visitar.",
+        "es": "[Administrador de la mansión Alpha]\nCon esto es suficiente. Buen trabajo. Si le viene bien el tiempo, me gustaría pedirle otra cosa mañana después de que pase ^0000CDel amanecer^000000, así que si le parece bien, por favor venga a visitarnos."
     },
     "S4jWBw": {
         "ko": "[저택 관리자α]\n이것을 가지고 가십시오. 감사합니다.",
-        "en": "[Mansion Manager α]\nPlease take this with you. Thank you.",
-        "pt": "[Gerente da Mansão α]\nLeve isto consigo. Muito obrigado.",
-        "es": "[Administrador de la mansión α]\nLlévese esto. Gracias."
+        "en": "[Mansion Manager Alpha]\nPlease take this with you. Thank you.",
+        "pt": "[Gerente da Mansão Alpha]\nLeve isto consigo. Muito obrigado.",
+        "es": "[Administrador de la mansión Alpha]\nLlévese esto. Gracias."
     },
     "TIjWBw": {
         "ko": "[저택 관리자α]\n조금 모자랍니다. 중계기에 사용할 ^0000CD자동인형 통신칩을 10개^000000만 가져다 주십시오. 하루치의 예비분량이 그 정도입니다.",
-        "en": "[Mansion Manager α]\nIt is a little short. Please bring only ^0000CD10 automaton communication chips^000000 to use for the Relay Device. That is about a day's worth of reserves.",
-        "pt": "[Gerente da Mansão α]\nAinda é insuficiente. Por favor, traga ^0000CD10 chips de comunicação de boneca automática^000000 para uso no Dispositivo de Retransmissão. Essa é a quantidade necessária como reserva diária.",
-        "es": "[Administrador de la mansión α]\nFalta un poco. Para usar en Dispositivo de Retransmisión, tráigame solo ^0000CD10 chips de comunicación del autómata^000000. Esa es la cantidad de reserva para un día."
+        "en": "[Mansion Manager Alpha]\nIt is a little short. Please bring only ^0000CD10 automaton communication chips^000000 to use for the Relay Device. That is about a day's worth of reserves.",
+        "pt": "[Gerente da Mansão Alpha]\nAinda é insuficiente. Por favor, traga ^0000CD10 chips de comunicação de boneca automática^000000 para uso no Dispositivo de Retransmissão. Essa é a quantidade necessária como reserva diária.",
+        "es": "[Administrador de la mansión Alpha]\nFalta un poco. Para usar en Dispositivo de Retransmisión, tráigame solo ^0000CD10 chips de comunicación del autómata^000000. Esa es la cantidad de reserva para un día."
     },
     "TYjWBw": {
         "ko": "[저택 관리자α]\n고장난 자동인형 문제도 해결할 겸, 통신칩은 저택 내를 배회하는 고장난 베타들을 처리하시고 발생하는 걸로 가지고 오시면 됩니다.",
-        "en": "[Mansion Manager α]\nTo help resolve the issue with the broken automatons as well, you may obtain the communication chips by dealing with the broken Betas that wander around inside the mansion.",
-        "pt": "[Gerente da Mansão α]\nAproveitando para resolver também o problema das bonecas automáticas defeituosas, poderá obter os chips ao lidar com as Betas defeituosas que vagam pela mansão.",
-        "es": "[Administrador de la mansión α]\nPara solucionar también el problema de los autómatas averiados, puede traer los chips de comunicación obteniéndolos al eliminar a los Betas averiados que deambulan por la mansión."
+        "en": "[Mansion Manager Alpha]\nTo help resolve the issue with the broken automatons as well, you may obtain the communication chips by dealing with the broken Betas that wander around inside the mansion.",
+        "pt": "[Gerente da Mansão Alpha]\nAproveitando para resolver também o problema das bonecas automáticas defeituosas, poderá obter os chips ao lidar com as Betas defeituosas que vagam pela mansão.",
+        "es": "[Administrador de la mansión Alpha]\nPara solucionar también el problema de los autómatas averiados, puede traer los chips de comunicación obteniéndolos al eliminar a los Betas averiados que deambulan por la mansión."
     },
     "TojWBw": {
         "ko": "[저택 관리자α]\n오늘도 중계기의 예비 통신칩을 가져다 주러 찾아 오셨습니까?",
-        "en": "[Mansion Manager α]\nHave you come again today to bring reserve communication chips for the Relay Device?",
-        "pt": "[Gerente da Mansão α]\nVeio hoje trazer os chips de comunicação de reserva para o Dispositivo de Retransmissão?",
-        "es": "[Administrador de la mansión α]\n¿Ha venido hoy también a traer chips de comunicación de reserva para Dispositivo de Retransmisión?"
+        "en": "[Mansion Manager Alpha]\nHave you come again today to bring reserve communication chips for the Relay Device?",
+        "pt": "[Gerente da Mansão Alpha]\nVeio hoje trazer os chips de comunicação de reserva para o Dispositivo de Retransmissão?",
+        "es": "[Administrador de la mansión Alpha]\n¿Ha venido hoy también a traer chips de comunicación de reserva para Dispositivo de Retransmisión?"
     },
     "T4jWBw": {
         "ko": "네.",
@@ -679,39 +679,39 @@
     },
     "UYjWBw": {
         "ko": "[저택 관리자α]\n오늘도 도움을 주셔서 정말 감사드립니다.",
-        "en": "[Mansion Manager α]\nThank you very much for your help again today.",
-        "pt": "[Gerente da Mansão α]\nAgradeço sinceramente por sua ajuda hoje também.",
-        "es": "[Administrador de la mansión α]\nDe verdad, muchas gracias por su ayuda hoy también."
+        "en": "[Mansion Manager Alpha]\nThank you very much for your help again today.",
+        "pt": "[Gerente da Mansão Alpha]\nAgradeço sinceramente por sua ajuda hoje também.",
+        "es": "[Administrador de la mansión Alpha]\nDe verdad, muchas gracias por su ayuda hoy también."
     },
     "UojWBw": {
         "ko": "[저택 관리자α]\n중계기에 사용할 ^0000CD자동인형 통신칩을 10개^000000만 가져다 주십시오. 하루치의 예비분량이 그 정도입니다.",
-        "en": "[Mansion Manager α]\nPlease bring only ^0000CD10 automaton communication chips^000000 to use for the Relay Device. That is about a day's worth of reserves.",
-        "pt": "[Gerente da Mansão α]\nPor favor, traga ^0000CD10 chips de comunicação de boneca automática^000000 para uso no Dispositivo de Retransmissão. Essa é a quantidade necessária como reserva diária.",
-        "es": "[Administrador de la mansión α]\nPara usar en Dispositivo de Retransmisión, tráigame solo ^0000CD10 chips de comunicación del autómata^000000. Esa es la cantidad de reserva para un día."
+        "en": "[Mansion Manager Alpha]\nPlease bring only ^0000CD10 automaton communication chips^000000 to use for the Relay Device. That is about a day's worth of reserves.",
+        "pt": "[Gerente da Mansão Alpha]\nPor favor, traga ^0000CD10 chips de comunicação de boneca automática^000000 para uso no Dispositivo de Retransmissão. Essa é a quantidade necessária como reserva diária.",
+        "es": "[Administrador de la mansión Alpha]\nPara usar en Dispositivo de Retransmisión, tráigame solo ^0000CD10 chips de comunicación del autómata^000000. Esa es la cantidad de reserva para un día."
     },
     "U4jWBw": {
         "ko": "[저택 관리자α]\n그러시다면 혹시 저택 이용에 불편함이 있어 찾아오셨습니까? 가까운 자동인형에게 말씀하시면 즉시 해결해드리도록 하겠습니다.",
-        "en": "[Mansion Manager α]\nIf so, have you come because you are experiencing any inconvenience while using the mansion? If you tell a nearby automaton, I will have it resolved immediately.",
-        "pt": "[Gerente da Mansão α]\nNesse caso, veio porque encontrou algum inconveniente ao utilizar a mansão? Se informar a uma unidade próxima, resolveremos imediatamente.",
-        "es": "[Administrador de la mansión α]\nSi es así, ¿quizá ha venido porque hay alguna incomodidad al usar la mansión? Si se lo dice al autómata más cercano, lo resolveremos de inmediato."
+        "en": "[Mansion Manager Alpha]\nIf so, have you come because you are experiencing any inconvenience while using the mansion? If you tell a nearby automaton, I will have it resolved immediately.",
+        "pt": "[Gerente da Mansão Alpha]\nNesse caso, veio porque encontrou algum inconveniente ao utilizar a mansão? Se informar a uma unidade próxima, resolveremos imediatamente.",
+        "es": "[Administrador de la mansión Alpha]\nSi es así, ¿quizá ha venido porque hay alguna incomodidad al usar la mansión? Si se lo dice al autómata más cercano, lo resolveremos de inmediato."
     },
     "VIjWBw": {
         "ko": "[저택 관리자α]\n불편하시거나 필요하신 것이 있어 오셨습니까? 아, 혹시 중계기의 예비 통신칩을 가져다 주러 찾아 오셨습니까?",
-        "en": "[Mansion Manager α]\nHave you come because you are inconvenienced or need something? Ah, have you come to bring reserve communication chips for the Relay Device?",
-        "pt": "[Gerente da Mansão α]\nHá algo de que precise ou que esteja causando desconforto? Ou talvez tenha vindo trazer os chips de comunicação de reserva para o Dispositivo de Retransmissão?",
-        "es": "[Administrador de la mansión α]\n¿Ha venido porque tiene alguna incomodidad o necesita algo? Ah, ¿o quizá ha venido a traer chips de comunicación de reserva para Dispositivo de Retransmisión?"
+        "en": "[Mansion Manager Alpha]\nHave you come because you are inconvenienced or need something? Ah, have you come to bring reserve communication chips for the Relay Device?",
+        "pt": "[Gerente da Mansão Alpha]\nHá algo de que precise ou que esteja causando desconforto? Ou talvez tenha vindo trazer os chips de comunicação de reserva para o Dispositivo de Retransmissão?",
+        "es": "[Administrador de la mansión Alpha]\n¿Ha venido porque tiene alguna incomodidad o necesita algo? Ah, ¿o quizá ha venido a traer chips de comunicación de reserva para Dispositivo de Retransmisión?"
     },
     "VYjWBw": {
         "ko": "[저택 관리자α]\n중계기의 예비 통신칩의 수량은 아직 여유롭습니다. 중계기는 염려하지 마시고 오늘은 푹 쉬시는 것이 좋겠습니다. ^0000CD새벽이 지난 후^000000에 다시 찾아 주십시오.",
-        "en": "[Mansion Manager α]\nThere is still plenty of reserve communication chips for the Relay Device. Please do not worry about the Relay Device, and it would be best for you to rest well today. Please come again after ^0000CDdawn has passed^000000.",
-        "pt": "[Gerente da Mansão α]\nA quantidade de chips de reserva do Dispositivo de Retransmissão ainda é suficiente. Não precisa se preocupar com o Dispositivo de Retransmissão hoje; é melhor descansar. Por favor, retorne ^0000CDapós o amanhecer^000000.",
-        "es": "[Administrador de la mansión α]\nLa cantidad de chips de comunicación de reserva para Dispositivo de Retransmisión aún es suficiente. No se preocupe por Dispositivo de Retransmisión y hoy será mejor que descanse bien. Vuelva a visitarnos después de que pase ^0000CDel amanecer^000000."
+        "en": "[Mansion Manager Alpha]\nThere is still plenty of reserve communication chips for the Relay Device. Please do not worry about the Relay Device, and it would be best for you to rest well today. Please come again after ^0000CDdawn has passed^000000.",
+        "pt": "[Gerente da Mansão Alpha]\nA quantidade de chips de reserva do Dispositivo de Retransmissão ainda é suficiente. Não precisa se preocupar com o Dispositivo de Retransmissão hoje; é melhor descansar. Por favor, retorne ^0000CDapós o amanhecer^000000.",
+        "es": "[Administrador de la mansión Alpha]\nLa cantidad de chips de comunicación de reserva para Dispositivo de Retransmisión aún es suficiente. No se preocupe por Dispositivo de Retransmisión y hoy será mejor que descanse bien. Vuelva a visitarnos después de que pase ^0000CDel amanecer^000000."
     },
     "VojWBw": {
         "ko": "[저택 관리자α]\n불편하시거나 필요하신 점이 있으십니까?",
-        "en": "[Mansion Manager α]\nAre you experiencing any inconvenience, or is there anything you need?",
-        "pt": "[Gerente da Mansão α]\nHá algo que o(a) esteja incomodando ou de que precise?",
-        "es": "[Administrador de la mansión α]\n¿Tiene alguna incomodidad o algo que necesite?"
+        "en": "[Mansion Manager Alpha]\nAre you experiencing any inconvenience, or is there anything you need?",
+        "pt": "[Gerente da Mansão Alpha]\nHá algo que o(a) esteja incomodando ou de que precise?",
+        "es": "[Administrador de la mansión Alpha]\n¿Tiene alguna incomodidad o algo que necesite?"
     },
     "V4jWBw": {
         "ko": "네트워크는 잘 작동 되나요?",
@@ -721,27 +721,27 @@
     },
     "WIjWBw": {
         "ko": "[저택 관리자α]\n그 문제 때문에 찾아오셨습니까. 신경을 써주셔서 감사합니다.",
-        "en": "[Mansion Manager α]\nDid you come because of that problem? Thank you for your concern.",
-        "pt": "[Gerente da Mansão α]\nVeio por causa desse problema? Agradeço por sua preocupação.",
-        "es": "[Administrador de la mansión α]\n¿Ha venido por ese problema? Gracias por preocuparse."
+        "en": "[Mansion Manager Alpha]\nDid you come because of that problem? Thank you for your concern.",
+        "pt": "[Gerente da Mansão Alpha]\nVeio por causa desse problema? Agradeço por sua preocupação.",
+        "es": "[Administrador de la mansión Alpha]\n¿Ha venido por ese problema? Gracias por preocuparse."
     },
     "WYjWBw": {
         "ko": "[저택 관리자α]\n저택 내의 네트워크는 일전 상황과 마찬가지로 연결이 끊기는 구역이 발생하고 있습니다.",
-        "en": "[Mansion Manager α]\nInside the mansion, the network is experiencing areas where the connection is cut off, just like the last situation.",
-        "pt": "[Gerente da Mansão α]\nA rede da mansão continua apresentando áreas com interrupção de conexão, como ocorreu anteriormente.",
-        "es": "[Administrador de la mansión α]\nLa red dentro de la mansión, al igual que la vez anterior, está presentando zonas donde se corta la conexión."
+        "en": "[Mansion Manager Alpha]\nInside the mansion, the network is experiencing areas where the connection is cut off, just like the last situation.",
+        "pt": "[Gerente da Mansão Alpha]\nA rede da mansão continua apresentando áreas com interrupção de conexão, como ocorreu anteriormente.",
+        "es": "[Administrador de la mansión Alpha]\nLa red dentro de la mansión, al igual que la vez anterior, está presentando zonas donde se corta la conexión."
     },
     "WojWBw": {
         "ko": "[저택 관리자α]\n발견 즉시 복구를 하고 있지만 아무래도 지속적으로 발생하는 문제다 보니 수리에 필요한 통신칩 수급이 가장 어렵습니다.",
-        "en": "[Mansion Manager α]\nWe restore it as soon as we find it, but since it keeps happening, the hardest part is securing the communication chips needed for Bonnie repairs.",
-        "pt": "[Gerente da Mansão α]\nReparamos assim que detectamos, mas como é um problema recorrente, o maior desafio é obter os chips de comunicação necessários para os reparos.",
-        "es": "[Administrador de la mansión α]\nEn cuanto lo detectamos, lo reparamos, pero parece ser un problema que ocurre de forma continua. Bonnie Lo más difícil es conseguir los chips de comunicación necesarios para la reparación."
+        "en": "[Mansion Manager Alpha]\nWe restore it as soon as we find it, but since it keeps happening, the hardest part is securing the communication chips needed for Bonnie repairs.",
+        "pt": "[Gerente da Mansão Alpha]\nReparamos assim que detectamos, mas como é um problema recorrente, o maior desafio é obter os chips de comunicação necessários para os reparos.",
+        "es": "[Administrador de la mansión Alpha]\nEn cuanto lo detectamos, lo reparamos, pero parece ser un problema que ocurre de forma continua. Bonnie Lo más difícil es conseguir los chips de comunicación necesarios para la reparación."
     },
     "W4jWBw": {
         "ko": "[저택 관리자α]\n게다가 고장난 자동인형이 돌아다니며 중계기를 계속해서 파괴하다보니 이중고가 큽니다.",
-        "en": "[Mansion Manager α]\nOn top of that, broken automata are roaming around and continuously destroying the Relay Device, making the situation even worse.",
-        "pt": "[Gerente da Mansão α]\nAlém disso, bonecas automáticas defeituosas continuam circulando e destruindo o Dispositivo de Retransmissão, o que agrava ainda mais a situação.",
-        "es": "[Administrador de la mansión α]\nAdemás, como las muñecas automáticas averiadas andan deambulando y siguen destruyendo el Dispositivo de Retransmisión, el problema se agrava aún más."
+        "en": "[Mansion Manager Alpha]\nOn top of that, broken automata are roaming around and continuously destroying the Relay Device, making the situation even worse.",
+        "pt": "[Gerente da Mansão Alpha]\nAlém disso, bonecas automáticas defeituosas continuam circulando e destruindo o Dispositivo de Retransmissão, o que agrava ainda mais a situação.",
+        "es": "[Administrador de la mansión Alpha]\nAdemás, como las muñecas automáticas averiadas andan deambulando y siguen destruyendo el Dispositivo de Retransmisión, el problema se agrava aún más."
     },
     "XIjWBw": {
         "ko": "도와드릴까요?",
@@ -757,27 +757,27 @@
     },
     "XojWBw": {
         "ko": "[저택 관리자α]\n어려움을 헤아려주셔서 감사합니다. 이용하시는데 불편함이 없으시도록 중계기는 최대한 신경 써서 관리하겠습니다.",
-        "en": "[Mansion Manager α]\nThank you for understanding our difficulties. We will manage the Relay Device with the utmost care so you will not be inconvenienced while using it.",
-        "pt": "[Gerente da Mansão α]\nAgradeço por compreender nossa dificuldade. Faremos o possível para manter o Dispositivo de Retransmissão sob controle, para que não haja inconvenientes durante sua estadia.",
-        "es": "[Administrador de la mansión α]\nGracias por comprender la dificultad. Para que no tenga inconvenientes al usarlo, me encargaré de gestionar el Dispositivo de Retransmisión con el mayor cuidado posible."
+        "en": "[Mansion Manager Alpha]\nThank you for understanding our difficulties. We will manage the Relay Device with the utmost care so you will not be inconvenienced while using it.",
+        "pt": "[Gerente da Mansão Alpha]\nAgradeço por compreender nossa dificuldade. Faremos o possível para manter o Dispositivo de Retransmissão sob controle, para que não haja inconvenientes durante sua estadia.",
+        "es": "[Administrador de la mansión Alpha]\nGracias por comprender la dificultad. Para que no tenga inconvenientes al usarlo, me encargaré de gestionar el Dispositivo de Retransmisión con el mayor cuidado posible."
     },
     "X4jWBw": {
         "ko": "[저택 관리자α]\n말씀 정말 감사합니다. 하지만 {0}님의 시간을 빼앗는 것이 아닌지 걱정이 됩니다만... 혹시 그렇지 않다면 염치불고하고 부탁을 드리겠습니다.",
-        "en": "[Mansion Manager α]\nThank you very much for saying so. However, I worry that I may be taking up {0}'s time... but if not, I will shamelessly ask for your help.",
-        "pt": "[Gerente da Mansão α]\nAgradeço sinceramente por suas palavras. No entanto, temo estar tomando seu tempo... mas, se não for um incômodo, peço humildemente sua ajuda.",
-        "es": "[Administrador de la mansión α]\nMuchas gracias por sus palabras. Pero me preocupa estar quitándole tiempo a {0}... Si no es así, entonces, sin más remedio, me gustaría pedirle un favor."
+        "en": "[Mansion Manager Alpha]\nThank you very much for saying so. However, I worry that I may be taking up {0}'s time... but if not, I will shamelessly ask for your help.",
+        "pt": "[Gerente da Mansão Alpha]\nAgradeço sinceramente por suas palavras. No entanto, temo estar tomando seu tempo... mas, se não for um incômodo, peço humildemente sua ajuda.",
+        "es": "[Administrador de la mansión Alpha]\nMuchas gracias por sus palabras. Pero me preocupa estar quitándole tiempo a {0}... Si no es así, entonces, sin más remedio, me gustaría pedirle un favor."
     },
     "YIjWBw": {
         "ko": "[저택 관리자α]\n중계기에 사용할 ^0000CD자동인형 통신칩을 10개^000000만 가져다 주십시오. 그 정도만 있으면 하루치의 예비분량이 될 것 같습니다.",
-        "en": "[Mansion Manager α]\nPlease bring me 10 ^0000CDAutomaton Communication Chips^000000 to use for the Relay Device. That should be enough for a day's worth of spares.",
-        "pt": "[Gerente da Mansão α]\nPor favor, traga ^0000CD10 chips de comunicação de boneca automática^000000 para uso no Dispositivo de Retransmissão. Essa quantidade será suficiente como reserva diária.",
-        "es": "[Administrador de la mansión α]\nPor favor, tráigame solo 10^0000CD de los ^000000chips de comunicación de muñeca automática para usar en el Dispositivo de Retransmisión. Con eso, creo que será una reserva para un día."
+        "en": "[Mansion Manager Alpha]\nPlease bring me 10 ^0000CDAutomaton Communication Chips^000000 to use for the Relay Device. That should be enough for a day's worth of spares.",
+        "pt": "[Gerente da Mansão Alpha]\nPor favor, traga ^0000CD10 chips de comunicação de boneca automática^000000 para uso no Dispositivo de Retransmissão. Essa quantidade será suficiente como reserva diária.",
+        "es": "[Administrador de la mansión Alpha]\nPor favor, tráigame solo 10^0000CD de los ^000000chips de comunicación de muñeca automática para usar en el Dispositivo de Retransmisión. Con eso, creo que será una reserva para un día."
     },
     "YYjWBw": {
         "ko": "[저택 관리자α]\n저택의 손님이시라면 손님 등록을 먼저 하십시오. 침입자로 오인해 일어나는 불상사에 대해선 책임을 질 수 없습니다. 양해 부탁드립니다.",
-        "en": "[Mansion Manager α]\nIf you are a guest of the mansion, please register as a guest first. We cannot take responsibility for any unfortunate incidents that occur due to being mistaken for an intruder. We ask for your understanding.",
-        "pt": "[Gerente da Mansão α]\nSe é visitante da mansão, registre-se primeiro. Não nos responsabilizamos por incidentes decorrentes de ser confundido com intruso. Pedimos sua compreensão.",
-        "es": "[Administrador de la mansión α]\nSi es un invitado de la mansión, primero registre su visita. No podemos hacernos responsables de cualquier incidente desafortunado que ocurra por confundirlo con un intruso. Le rogamos su comprensión."
+        "en": "[Mansion Manager Alpha]\nIf you are a guest of the mansion, please register as a guest first. We cannot take responsibility for any unfortunate incidents that occur due to being mistaken for an intruder. We ask for your understanding.",
+        "pt": "[Gerente da Mansão Alpha]\nSe é visitante da mansão, registre-se primeiro. Não nos responsabilizamos por incidentes decorrentes de ser confundido com intruso. Pedimos sua compreensão.",
+        "es": "[Administrador de la mansión Alpha]\nSi es un invitado de la mansión, primero registre su visita. No podemos hacernos responsables de cualquier incidente desafortunado que ocurra por confundirlo con un intruso. Le rogamos su comprensión."
     },
     "YojWBw": {
         "ko": "토미",

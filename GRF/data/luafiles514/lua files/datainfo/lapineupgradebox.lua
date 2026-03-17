@@ -15142,7 +15142,7 @@ tblLapineUpgradeBox = {
 		Thanos_Refine_Cube_LT = {
 			ItemID = 106429,
 			NeedRefineMin = 0,
-			NeedRefineMax = 7,
+			NeedRefineMax = 6,
 			NeedOptionNumMin = 0,
 			NotSocketEnchantItem = false,
 			TargetItems = {
@@ -15200,6 +15200,30 @@ tblLapineUpgradeBox = {
 				{
 					"Thanos_Violin",
 					1933
+				},
+				{
+					"Thanos_Hat_TF_LT",
+					401251
+				},
+				{
+					"Thanos_Hat_MG_LT",
+					401252
+				},
+				{
+					"Thanos_Hat_AL_LT",
+					401253
+				},
+				{
+					"Thanos_Hat_MC_LT",
+					401254
+				},
+				{
+					"Thanos_Hat_SW_LT",
+					401255
+				},
+				{
+					"Thanos_Hat_AC_LT",
+					401256
 				}
 			},
 			NeedSource_String = "Ghost Palace"
@@ -15364,7 +15388,7 @@ tblLapineUpgradeBox = {
 		Hero_Refine_Cube_LT = {
 			ItemID = 106431,
 			NeedRefineMin = 0,
-			NeedRefineMax = 8,
+			NeedRefineMax = 7,
 			NeedOptionNumMin = 0,
 			NotSocketEnchantItem = false,
 			TargetItems = {
@@ -15655,6 +15679,7 @@ tblLapineUpgradeBox = {
 				{"AC_B_Club", 590009},
 				{"HS_T_Sword", 500016},
 				{"RC_B_Katar", 610013},
+				{"CA_B_Katar", 610028},
 				{
 					"CA_B_Dagger",
 					510017
@@ -15711,6 +15736,7 @@ tblLapineUpgradeBox = {
 				{"AC_B_Club", 590009},
 				{"HS_T_Sword", 500016},
 				{"RC_B_Katar", 610013},
+				{"CA_B_Katar", 610028},
 				{
 					"CA_B_Dagger",
 					510017
@@ -15767,6 +15793,7 @@ tblLapineUpgradeBox = {
 				{"AC_B_Club", 590009},
 				{"HS_T_Sword", 500016},
 				{"RC_B_Katar", 610013},
+				{"CA_B_Katar", 610028},
 				{
 					"CA_B_Dagger",
 					510017
@@ -16832,6 +16859,65 @@ tblLapineUpgradeBox = {
 				{"Auto_Leg_B", 470023}
 			},
 			NeedSource_String = "Armadura Automático (Refino +4 ou superior)"
+		},
+		OS_Weapon_Refine_Cube = {
+			ItemID = 100321,
+			NeedRefineMin = 0,
+			NeedRefineMax = 10,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = false,
+			TargetItems = {
+				{
+					"Beam_Claymore_OS",
+					21047
+				},
+				{
+					"Meuchler_OS",
+					28038
+				},
+				{"Blasti_OS", 28136},
+				{
+					"Virtual_Bow_OS",
+					18178
+				},
+				{"MH_P89_OS", 18179},
+				{"AC_B44_OS", 18180},
+				{"HR_S55_OS", 28253},
+				{
+					"Burning_Knuckle_OS",
+					1862
+				},
+				{
+					"Cannon_Rapier_OS",
+					13493
+				},
+				{
+					"Saphir_Hall_OS",
+					16088
+				},
+				{
+					"Ultio_Spes_OS",
+					16089
+				},
+				{
+					"Rutilus_Stick_OS",
+					26151
+				},
+				{
+					"ElectricFox_OS",
+					26164
+				},
+				{
+					"Circuit_Board_OS",
+					28629
+				},
+				{"Kuroiro_OS", 28755},
+				{
+					"Boost_Lance_OS",
+					32019
+				}
+			},
+			NeedSource_String = "Armas da Série OS"
 		}
 	},
 	get_lapine_box = function(in_box_id)

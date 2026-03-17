@@ -1028,5 +1028,80 @@
     },
     "Mw4D": {
         "en": "Poing!"
+    },
+    "NA4D": {
+        "en": "[CatPaw Storage]\nThis is the CatPaw Storage Summoning Service, nya.",
+        "pt": "[Sansan]\nA Corporação Pata de Gato orgulhosamente apresenta o Cartão Pata de Gato.",
+        "es": "[Almacén Pata de Gato]\nEste es el servicio de invocación del almacén de Pata de Gato, nya."
+    },
+    "NQ4D": {
+        "en": "CatPaw Storage1",
+        "pt": "CatPaw Storage1",
+        "es": "CatPaw Storage1"
+    },
+    "Ng4D": {
+        "en": "CatPaw Storage2",
+        "pt": "CatPaw Storage2",
+        "es": "CatPaw Storage2"
+    },
+    "Nw4D": {
+        "en": "[CatPaw Storage]\nAs requested, I'll open the storage, nya.",
+        "pt": "A qualquer hora ou lugar, com esse cartão você pode usar o nosso armazém!",
+        "es": "Tal como lo pediste, abriré el almacén, nya."
+    },
+    "OA4D": {
+        "en": "CatPaw Storage1",
+        "pt": "CatPaw Storage1",
+        "es": "CatPaw Storage1"
+    },
+    "OQ4D": {
+        "en": "CatPaw Storage2",
+        "pt": "CatPaw Storage2",
+        "es": "CatPaw Storage2"
+    },
+    "Og4D": {
+        "en": "[CatPaw Storage]\nThis is the CatPaw Storage Summoning Service, nya.",
+        "pt": "[Sansan]\nA Corporação Pata de Gato orgulhosamente apresenta o Cartão Pata de Gato.",
+        "es": "[Almacén Pata de Gato]\nEste es el servicio de invocación del almacén de Pata de Gato, nya."
+    },
+    "Ow4D": {
+        "en": "CatPaw Storage1",
+        "pt": "CatPaw Storage1",
+        "es": "CatPaw Storage1"
+    },
+    "PA4D": {
+        "en": "CatPaw Storage2",
+        "pt": "CatPaw Storage2",
+        "es": "CatPaw Storage2"
+    },
+    "PQ4D": {
+        "en": "[CatPaw Storage]\nAs requested, I'll open the storage, nya.",
+        "pt": "A qualquer hora ou lugar, com esse cartão você pode usar o nosso armazém!",
+        "es": "Tal como lo pediste, abriré el almacén, nya."
+    },
+    "Pg4D": {
+        "en": "CatPaw Storage1",
+        "pt": "CatPaw Storage1",
+        "es": "CatPaw Storage1"
+    },
+    "Pw4D": {
+        "en": "CatPaw Storage2",
+        "pt": "CatPaw Storage2",
+        "es": "CatPaw Storage2"
+    },
+    "QA4D": {
+        "en": "As requested, I'll open the storage, nya.",
+        "pt": "A qualquer hora ou lugar, com esse cartão você pode usar o nosso armazém!",
+        "es": "Tal como lo pediste, abriré el almacén, nya."
+    },
+    "QQ4D": {
+        "en": "As requested, I'll open the storage, nya.",
+        "pt": "A qualquer hora ou lugar, com esse cartão você pode usar o nosso armazém!",
+        "es": "Tal como lo pediste, abriré el almacén, nya."
+    },
+    "Qg4D": {
+        "en": "{0} yells: {1}",
+        "pt": "{0} diz: {1}",
+        "es": "{0} grita: {1}"
     }
 }

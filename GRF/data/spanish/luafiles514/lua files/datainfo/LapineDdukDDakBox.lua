@@ -7494,6 +7494,90 @@ tblLapineDdukddakBox = {
 				}
 			},
 			NeedSource_String = "+7 Sombra de Gemstone"
+		},
+		EnchantStone_Recipe_LT = {
+			ItemID = 106622,
+			NeedCount = 1,
+			NeedRefineMin = 0,
+			NeedRefineMax = 0,
+			SourceItems = {
+				{
+					"C_Piamette_Hood",
+					1,
+					19883
+				},
+				{
+					"C_Decoration_bluerose",
+					1,
+					20046
+				},
+				{
+					"C_Looking",
+					1,
+					31176
+				},
+				{
+					"C_Mono_Gothic_Bonnet",
+					1,
+					31188
+				},
+				{
+					"C_Black_Magenta_Ribbon",
+					1,
+					31302
+				},
+				{
+					"C_FallenAngelWingEar",
+					1,
+					31313
+				},
+				{
+					"C_Fallen_Angel_Valletta",
+					1,
+					31330
+				},
+				{
+					"C_Miyabi_Long_Hair",
+					1,
+					31670
+				},
+				{
+					"C_Gothic_Heart_Wing_V",
+					1,
+					400254
+				},
+				{
+					"C_Satanic_Crown",
+					1,
+					400793
+				},
+				{
+					"C_B_Shiba_Inu_TW",
+					1,
+					410108
+				},
+				{
+					"C_Dark_Night_Veil_V",
+					1,
+					410396
+				},
+				{
+					"C_Feather_Hair_TT",
+					1,
+					420570
+				},
+				{
+					"C_Blue_Rose_Garden",
+					1,
+					480176
+				},
+				{
+					"C_Rose_Gothic_Ribbon",
+					1,
+					480460
+				}
+			},
+			NeedSource_String = "Disfraz Malangdo de Marzo"
 		}
 	},
 	get_lapine_box = function(in_box_id)

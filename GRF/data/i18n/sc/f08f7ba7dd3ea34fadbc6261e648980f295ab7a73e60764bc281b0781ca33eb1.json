@@ -1,477 +1,596 @@
 {
     "AF7qBw": {
-        "en": "- Players under Level 180 may not enter. -",
-        "pt": "- Jogadores abaixo do nível 180 não podem entrar. -",
-        "es": "- Los jugadores por debajo del nivel 180 no pueden participar. -"
+        "ko": "- 180레벨 미만은 입장할 수 없습니다. -",
+        "en": "- Characters below level 180 cannot enter. -",
+        "pt": "- Não é possível entrar abaixo do nível 180. -",
+        "es": "- No se puede entrar por debajo del nivel 180. -"
     },
     "AV7qBw": {
-        "en": "- You can enter the Floating Garden after the party leader enters the MD. -",
-        "pt": "- Você pode entrar no Jardim Flutuante depois que o líder do grupo entrar no CM. -",
-        "es": "- Puedes entrar en el Jardín Flotante después de que el líder del grupo entre en el DM. -"
+        "ko": "- 파티장이 MD에 입장한 뒤 수상정원 입장이 가능합니다. -",
+        "en": "- After the party leader enters the MD, you may enter Suspended Garden. -",
+        "pt": "- Após o líder do grupo entrar na MD, será possível entrar em Jardim Suspenso. -",
+        "es": "- Tras la entrada del líder del grupo al MD, se podrá entrar a Jardín Suspendido. -"
     },
     "Al7qBw": {
-        "en": "normal",
+        "ko": "normal",
+        "en": "Normal",
         "pt": "normal",
         "es": "normal"
     },
     "A17qBw": {
-        "en": "hard",
+        "ko": "hard",
+        "en": "Hard",
         "pt": "difícil",
-        "es": "duro"
+        "es": "difícil"
     },
     "BF7qBw": {
+        "ko": "정원사",
         "en": "Gardener",
         "pt": "Jardineiro",
-        "es": "Gardener"
+        "es": "Jardinero"
     },
     "BV7qBw": {
-        "en": "I will talk to the representative of your party first.",
-        "pt": "Eu vou falar com o representante do seu grupo antes.",
-        "es": "Hablaré primero con el representante de su partido."
+        "ko": "손님들 중 파티의 대표이신 분과 먼저 대화하겠습니다.",
+        "en": "I will speak first with the party representative among the guests.",
+        "pt": "Falarei primeiro com o representante do grupo entre os convidados.",
+        "es": "Hablaré primero con la persona que representa al grupo entre los invitados."
     },
     "Bl7qBw": {
-        "en": "Be careful of Papila's hallucinogenic substances.",
-        "pt": "Cuidado com as substâncias alucinógenas das Papilas.",
-        "es": "Cuidado con las sustancias alucinógenas de Papilia."
+        "ko": "파필라의 환각물질을 주의해주세요.",
+        "en": "Please beware of the hallucinogenic substance from Papila.",
+        "pt": "Tenha cuidado com as substâncias alucinógenas de Papila.",
+        "es": "Tenga cuidado con las sustancias alucinógenas de Papila."
     },
     "B17qBw": {
-        "en": "Please move on to the next area of the garden.",
-        "pt": "Siga para a próxima área do jardim.",
-        "es": "Pasa a la siguiente zona del jardín."
+        "ko": "정원의 다음 지역으로 이동해주시면 됩니다, 손님.",
+        "en": "Please proceed to the next area of the garden, guest.",
+        "pt": "Basta se deslocar para a próxima área do jardim, convidado.",
+        "es": "Debe desplazarse a la siguiente zona del jardín, invitado."
     },
     "CF7qBw": {
-        "en": "I'm talking with another visitor. Please wait a moment.",
-        "pt": "Estou falando com outro visitante. Aguarde um pouco.",
-        "es": "Estoy hablando con otro visitante. Espera un momento."
+        "ko": "다른 손님과 대화중입니다. 잠시만 기다주세요.",
+        "en": "I am speaking with another guest. Please wait a moment.",
+        "pt": "Estou conversando com outro convidado. Por favor, aguarde um momento.",
+        "es": "Estoy hablando con otro invitado. Por favor, espere un momento."
     },
     "CV7qBw": {
-        "en": "[Hetila]\nWelcome to the Floating Garden.\nYou're going to see Papilia? Papilia's been feeling on edge these days because of all the intruders...",
-        "pt": "[Hetila]\nBoas-vindas ao Jardim Flutuante.\nVocê vai ver a Papilia? Papilia tem se sentido nervosa ultimamente por causa de todos os intrusos...",
-        "es": "[Hetila]\nBienvenido al Jardín Flotante.\n¿Vas a ver a Papilia? Papilia se ha sentido nerviosa estos días por culpa de todos los intrusos..."
+        "ko": "[헤틸라]\n수상정원에 오신 손님을 환영합니다.\n파필리아를 만나러 가신다고요? 파필리아가 요즘 침입자들 때문에 많이 예민한데…",
+        "en": "[Hetila]\nWelcome, guests, to Suspended Garden.\nYou are going to meet Papila? Papila has been quite sensitive lately because of the intruders...",
+        "pt": "[Hetila]\nBem-vindo ao Jardim Suspenso.\nVai encontrar Papila? Papila anda muito sensível ultimamente por causa dos invasores…",
+        "es": "[Hetila]\nLe damos la bienvenida a Jardín Suspendido.\n¿Dice que va a ver a Papila? Últimamente Papila está muy sensible por culpa de los intrusos…"
     },
     "Cl7qBw": {
-        "en": "Welcome to the Floating Garden. You're going to see Papilia? Papilia's been feeling on edge these days because of all the intruders...",
-        "pt": "Boas-vindas ao Jardim Flutuante. Você vai ver a Papilia? Papilia tem se sentido nervosa ultimamente por causa de todos os intrusos...",
-        "es": "Bienvenido al Jardín Flotante. ¿Vas a ver a Papilia? Papilia se ha sentido nerviosa estos días por culpa de todos los intrusos..."
+        "ko": "수상정원에 오신 손님을 환영합니다. 파필리아를 만나러 가신다고요? 파필리아가 요즘 침입자들 때문에 많이 예민한데…",
+        "en": "Welcome, guests, to Suspended Garden. You are going to meet Papila? Papila has been quite sensitive lately because of the intruders...",
+        "pt": "Bem-vindo ao Jardim Suspenso. Vai encontrar Papila? Papila anda muito sensível ultimamente por causa dos invasores…",
+        "es": "Le damos la bienvenida a Jardín Suspendido. ¿Dice que va a ver a Papila? Últimamente Papila está muy sensible por culpa de los intrusos…"
     },
     "C17qBw": {
-        "en": "[\tHetila]\nPapilas are playing pranks everywhere.\nThey make you move on your own using the hallucinogenic substances generated from their wings and cast dangerous magic upon you!",
-        "pt": "[\tHetila]\nPapilas estão pregando peças por todos os lugares.\nElas fazem você se mover sozinho usando substâncias alucinógenas geradas por suas asas e lançam magias perigosas em você!",
-        "es": "[\tHetila]\nLos papilas hacen bromas por todas partes.\nHacen que te muevas por tu cuenta utilizando las sustancias alucinógenas que generan sus alas y te lanzan peligrosas magias"
+        "ko": "[\t헤틸라]\n여기저기서 파필라가 장난을 치고 있어요.\n날개에서 발생하는 환각 물질을 사용해 단거리 이동을 시키거나 그 위로 위험한 마법을 쓰거나 하거든요!",
+        "en": "[ Hetila]\nPapila is playing tricks all over the place.\nUsing the hallucinogenic substance produced from the wings, it makes you move a short distance, or casts dangerous magic on top of that!",
+        "pt": "[ Hetila]\nPapila está aprontando por toda parte.\nEla usa uma substância alucinógena gerada nas asas para fazer deslocamentos de curta distância, ou lança magia perigosa por cima disso!",
+        "es": "[ Hetila]\nPor todas partes, Papila está haciendo travesuras.\n¡Usa una sustancia alucinógena que se genera en sus alas para hacer desplazamientos de corta distancia, o lanza magia peligrosa sobre ello!"
     },
     "DF7qBw": {
-        "en": "Papilas are everywhere! They make you move on your own using the hallucinogenic substances generated from their wings and cast dangerous magic upon you!",
-        "pt": "Papilas estão por toda parte! Elas fazem você se mover sozinho usando substâncias alucinógenas geradas por suas asas e lançam magias perigosas em você!",
-        "es": "¡Los papilas hacen bromas por todas partes! Hacen que te muevas por tu cuenta utilizando las sustancias alucinógenas que generan sus alas y te lanzan peligrosas magias"
+        "ko": "여기저기서 파필라가 날개에서 발생하는 환각 물질을 사용해 단거리 이동을 시키거나 그 위로 위험한 마법을 쓰거나 하거든요!",
+        "en": "Papila is using the hallucinogenic substance produced from the wings all over the place to make you move a short distance, or casts dangerous magic on top of that!",
+        "pt": "Papila usa uma substância alucinógena gerada nas asas para fazer deslocamentos de curta distância, ou lança magia perigosa por cima disso!",
+        "es": "Por todas partes, Papila usa una sustancia alucinógena que se genera en sus alas para hacer desplazamientos de corta distancia, o lanza magia peligrosa sobre ello!"
     },
     "DV7qBw": {
-        "en": "[Hetila]\nThe gardeners make warning announcements, but do be careful.\nOnce you deal with all the overgrown flora and fauna, the door to the next area will open at three o'clock.",
-        "pt": "[Hetila]\nOs jardineiros dão avisos, mas tenha cuidado.\nDepois de lidar com a flora e a fauna desenfreadas, a porta para a próxima área se abrirá às três horas.",
-        "es": "[Hetila]\nLos jardineros anuncian advertencias, pero ten cuidado.\nUna vez que te ocupes de toda la flora y fauna crecida, la puerta de la siguiente zona se abrirá a las tres en punto."
+        "ko": "[헤틸라]\n정원사들이 방송으로 경고의 말씀을 드리기는 하지만, 그래도 조심하세요.\n지나치게 자란 동식물을 모두 가지치기하시면 3시 방향에 다음 구역으로 가는 문이 열립니다.",
+        "en": "[Hetila]\nThe gardeners do issue warnings over the broadcast, but still, be careful.\nIf you prune all the overgrown plants and animals, the door to the next area will open at the 3 o'clock direction.",
+        "pt": "[Hetila]\nOs jardineiros fazem avisos pelo sistema de transmissão, mas mesmo assim, tenha cuidado.\nSe podar todas as plantas e animais que cresceram demais, a porta para a próxima área se abrirá na direção das 3 horas.",
+        "es": "[Hetila]\nLos jardineros dan advertencias por megafonía, pero aun así tenga cuidado.\nSi poda todas las plantas y animales que han crecido en exceso, se abrirá la puerta hacia la siguiente zona en la dirección de las 3 en punto."
     },
     "Dl7qBw": {
-        "en": "The gardeners make warning announcements, but do be careful. Once you deal with all the overgrown flora and fauna, the door to the next area will open at three o'clock.",
-        "pt": "Os jardineiros dão avisos, mas tenha cuidado. Depois de lidar com a flora e a fauna desenfreadas, a porta para a próxima área se abrirá às três horas.",
-        "es": "Los jardineros anuncian advertencias, pero ten cuidado. Una vez que te ocupes de toda la flora y fauna crecida, la puerta de la siguiente zona se abrirá a las tres en punto."
+        "ko": "정원사들이 방송으로 경고의 말씀을 드리기는 하지만, 그래도 조심하세요. 지나치게 자란 동식물을 모두 가지치기하시면 3시 방향에 다음 구역으로 가는 문이 열립니다.",
+        "en": "The gardeners do issue warnings over the broadcast, but still, be careful. If you prune all the overgrown plants and animals, the door to the next area will open at the 3 o'clock direction.",
+        "pt": "Os jardineiros fazem avisos pelo sistema de transmissão, mas mesmo assim, tenha cuidado. Se podar todas as plantas e animais que cresceram demais, a porta para a próxima área se abrirá na direção das 3 horas.",
+        "es": "Los jardineros dan advertencias por megafonía, pero aun así tenga cuidado. Si poda todas las plantas y animales que han crecido en exceso, se abrirá la puerta hacia la siguiente zona en la dirección de las 3 en punto."
     },
     "D17qBw": {
-        "en": "on",
+        "ko": "on",
+        "en": "On",
         "pt": "on",
-        "es": "en"
+        "es": "on"
     },
     "EF7qBw": {
+        "ko": "아리에스",
         "en": "Aries",
-        "pt": "Áries",
+        "pt": "Fada das Águas",
         "es": "Aries"
     },
     "EV7qBw": {
+        "ko": "파필라",
         "en": "Papila",
         "pt": "Papila",
         "es": "Papila"
     },
     "El7qBw": {
-        "en": "off",
+        "ko": "off",
+        "en": "Off",
         "pt": "off",
-        "es": "fuera de"
+        "es": "off"
     },
     "E17qBw": {
-        "en": "This area has been organized. Please move on to the next area.",
-        "pt": "Essa área foi organizada. Siga para a próxima área.",
-        "es": "Se ha organizado esta zona. Pasa a la siguiente zona."
+        "ko": "정리가 완료되었습니다. 다음 구역으로 이동해 주십시오.",
+        "en": "Cleanup is complete. Please proceed to the next area.",
+        "pt": "A organização foi concluída. Por favor, desloque-se para a próxima área.",
+        "es": "La limpieza se ha completado. Por favor, desplácese a la siguiente zona."
     },
     "FF7qBw": {
+        "ko": "gmck1",
         "en": "gmck1",
         "pt": "gmck1",
         "es": "gmck1"
     },
     "FV7qBw": {
-        "en": "Papila is about to cast magic. Be careful!",
-        "pt": "Papila está prestes a lançar uma magia. Cuidado!",
-        "es": "Papila está a punto de hacer magia. ¡Ten cuidado!"
+        "ko": "파필라의 마법이 발동합니다. 조심하세요!",
+        "en": "Papila's magic is activating. Be careful!",
+        "pt": "A magia de Papila foi ativada. Cuidado!",
+        "es": "La magia de Papila se activa. ¡Tenga cuidado!"
     },
     "Fl7qBw": {
-        "en": "Be cautious when Papila shows up.",
-        "pt": "Cuidado quando as Papilas aparecerem.",
-        "es": "Ten cuidado cuando aparezca Papila."
+        "ko": "파필라가 나타날 때 주의해서 봐 주세요.",
+        "en": "Please watch carefully when Papila appears.",
+        "pt": "Quando Papila aparecer, por favor, observe com atenção.",
+        "es": "Por favor, observe con atención cuando aparezca Papila."
     },
     "F17qBw": {
-        "en": "Please move on to the next garden!",
-        "pt": "Siga para o próximo jardim!",
-        "es": "¡Pasa al siguiente jardín!"
+        "ko": "다음 정원으로 이동해 주세요, 손님!",
+        "en": "Please move to the next garden, guest!",
+        "pt": "Por favor, siga para o próximo jardim, visitante!",
+        "es": "Por favor, diríjase al siguiente jardín, cliente."
     },
     "GF7qBw": {
-        "en": "[Juvece]\nIt seems Papilas that fell out of Papilia are wandering around. Be careful.",
-        "pt": "[Juvece]\nParece que as Papilas que caíram da Papilia estão vagando por aí. Tenha cuidado.",
-        "es": "[Juvece]\nParece que los Papilas que se cayeron de Papilia vagan por ahí. Ten cuidado."
+        "ko": "다른 손님과 대화중입니다. 잠시 기다려 주세요.",
+        "en": "They are talking with another guest. Please wait a moment.",
+        "pt": "Estou conversando com outro visitante. Por favor, aguarde um momento.",
+        "es": "Está conversando con otro cliente. Por favor, espere un momento."
     },
     "GV7qBw": {
-        "en": "It seems Papilas that fell out of Papilia are wandering around. Be careful.",
-        "pt": "Parece que as Papilas que caíram da Papilia estão vagando por aí. Tenha cuidado.",
-        "es": "Parece que los Papilas que se cayeron de Papilia vagan por ahí. Ten cuidado."
+        "ko": "[유베체]\n파필리아와 떨어진 파필라가 주변에 돌아다니는 모양이니 주의하세요.",
+        "en": "[Yubetch]\nIt seems Papila and the separated Papila are wandering around nearby, so be careful.",
+        "pt": "[Yubetch]\nParece que Papila e a Papila separada estão vagando por perto, então tenha cuidado.",
+        "es": "[Yubetch]\nTenga cuidado, parece que Papila y Papila separada andan rondando por los alrededores."
     },
     "Gl7qBw": {
-        "en": "[Juvece]\nPapilas have a different attack range, depending on their colors.",
-        "pt": "[Juvece]\nAs Papilas têm um alcance de ataque diferente, dependendo de suas cores.",
-        "es": "[Juvece]\nLas Papilas tienen un rango de ataque diferente, dependiendo de sus colores."
+        "ko": "파필리아와 떨어진 파필라가 주변에 돌아다니는 모양이니 주의하세요.",
+        "en": "It seems Papila and the separated Papila are wandering around nearby, so be careful.",
+        "pt": "Parece que Papila e a Papila separada estão vagando por perto, então tenha cuidado.",
+        "es": "Tenga cuidado, parece que Papila y Papila separada andan rondando por los alrededores."
     },
     "G17qBw": {
-        "en": "Papilas have a different attack range, depending on their colors.",
-        "pt": "As Papilas têm um alcance de ataque diferente, dependendo de suas cores.",
-        "es": "Las Papilas tienen un rango de ataque diferente, dependiendo de sus colores."
+        "ko": "[유베체]\n파필라의 색깔에 따라 공격 범위가 달라요.",
+        "en": "[Yubetch]\nDepending on Papila's color, the attack range changes.",
+        "pt": "[Yubetch]\nAlém disso, o alcance do ataque muda conforme a cor de Papila.",
+        "es": "[Yubetch]\nEl alcance de ataque cambia según el color de Papila."
     },
     "HF7qBw": {
-        "en": "[Juvece]\nAnd some of the gardeners working in the garden got broken by intruders.",
-        "pt": "[Juvece]\nE alguns dos jardineiros que trabalhavam no jardim foram quebrados por intrusos.",
-        "es": "[Juvece]\nY algunos de los jardineros que trabajaban en el jardín fueron destrozados por intrusos."
+        "ko": "파필라의 색깔에 따라 공격 범위가 달라요.",
+        "en": "Depending on Papila's color, the attack range changes.",
+        "pt": "Além disso, o alcance do ataque muda conforme a cor de Papila.",
+        "es": "El alcance de ataque cambia según el color de Papila."
     },
     "HV7qBw": {
-        "en": "And some of the gardeners working in the garden got broken by intruders.",
-        "pt": "E alguns dos jardineiros que trabalhavam no jardim foram quebrados por intrusos.",
-        "es": "Y algunos de los jardineros que trabajaban en el jardín fueron destrozados por intrusos."
+        "ko": "[유베체]\n게다가 정원을 가꾸던 정원사 중 일부가 침입자들에 의해 망가진 모양이더군요.",
+        "en": "[Yubetch]\nMoreover, it seems some of the Gardener who tended the garden were damaged by the intruders.",
+        "pt": "[Yubetch]\nAlém disso, parece que alguns Jardineiro que cuidavam do jardim foram danificados pelos invasores.",
+        "es": "[Yubetch]\nAdemás, parece que algunos Jardinero que cuidaban el jardín fueron dañados por los invasores."
     },
     "Hl7qBw": {
-        "en": "[Juvece]\nAll the gardeners that attack you are broken and defective, so please defeat them.",
-        "pt": "[Juvece]\nTodos os jardineiros que atacam você estão quebrados e com defeito, então, por favor, derrote-os.",
-        "es": "[Juvece]\nTodos los jardineros que te atacan están rotos y defectuosos, así que derrótalos."
+        "ko": "게다가 정원을 가꾸던 정원사들 일부가 침입자들에 의해 망가진 모양이더군요.",
+        "en": "Moreover, it seems some of the gardeners who tended the garden were damaged by the intruders.",
+        "pt": "Além disso, parece que alguns jardineiros que cuidavam do jardim foram danificados pelos invasores.",
+        "es": "Además, parece que algunos jardineros que cuidaban el jardín fueron dañados por los invasores."
     },
     "H17qBw": {
-        "en": "All the gardeners that attack you are broken and defective, so please defeat them.",
-        "pt": "Todos os jardineiros que atacam você estão quebrados e com defeito, então, por favor, derrote-os.",
-        "es": "Todos los jardineros que te atacan están rotos y defectuosos, así que derrótalos."
+        "ko": "[유베체]\n손님들을 공격하려 한다면 전부 고장난 정원사들이니 쓰러트려 주세요.",
+        "en": "[Yubetch]\nIf they try to attack the guests, they are all broken gardeners, so please defeat them.",
+        "pt": "[Yubetch]\nSe tentarem atacar os visitantes, todos serão jardineiros com defeito, então por favor, derrote-os.",
+        "es": "[Yubetch]\nSi intentan atacar a los clientes, todos son jardineros averiados, así que derrótelos."
     },
     "IF7qBw": {
-        "en": "Broken Gardener",
-        "pt": "Jardineiro Quebrado",
-        "es": "Broken Gardener"
+        "ko": "손님들을 공격하려 한다면 전부 고장난 정원사들이니 쓰러트려 주세요.",
+        "en": "If they try to attack the guests, they are all broken gardeners, so please defeat them.",
+        "pt": "Se tentarem atacar os visitantes, todos serão jardineiros com defeito, então por favor, derrote-os.",
+        "es": "Si intentan atacar a los clientes, todos son jardineros averiados, así que derrótelos."
     },
     "IV7qBw": {
-        "en": "Verporte",
-        "pt": "Verporte",
-        "es": "Verporte"
+        "ko": "고장난 정원사",
+        "en": "Broken Gardener",
+        "pt": "Jardineiro com defeito",
+        "es": "Jardinero averiado"
     },
     "Il7qBw": {
-        "en": "All obstacles have been defeated. Please move on to the next area.",
-        "pt": "Todos os obstáculos foram derrotados. Siga para a próxima área.",
-        "es": "Todos los obstáculos han sido derrotados. Por favor, pase a la siguiente zona."
+        "ko": "베라포르테",
+        "en": "Veraforte",
+        "pt": "Veraforte",
+        "es": "Veraforte"
     },
     "I17qBw": {
+        "ko": "모든 방해자를 처치하였습니다. 다음 구역으로 이동해 주십시오.",
+        "en": "All obstacles have been eliminated. Please move to the next area.",
+        "pt": "Todos os obstáculos foram eliminados. Por favor, siga para a próxima área.",
+        "es": "Ha eliminado a todos los obstáculos. Por favor, diríjase a la siguiente zona."
+    },
+    "JF7qBw": {
+        "ko": "gmck2",
         "en": "gmck2",
         "pt": "gmck2",
         "es": "gmck2"
     },
-    "JF7qBw": {
-        "en": "Papilas are here!",
-        "pt": "As Papilas estão aqui!",
-        "es": "¡Los Papilas están aquí!"
-    },
     "JV7qBw": {
-        "en": "[Aditura]\nRose Garden is gorgeous, but groups of plants and animals are causing trouble in the area these days.",
-        "pt": "[Aditura]\nO Jardim das Rosas é lindo, mas grupos de plantas e animais estão causando problemas na área ultimamente.",
-        "es": "[Aditura]\nLa Rosaleda es preciosa, pero grupos de plantas y animales están causando problemas en la zona estos días."
+        "ko": "파필라가 나타났어요!",
+        "en": "Papila has appeared!",
+        "pt": "Papila apareceu!",
+        "es": "¡Ha aparecido Papila!"
     },
     "Jl7qBw": {
-        "en": "Rose Garden is gorgeous, but groups of plants and animals are causing trouble in the area these days.",
-        "pt": "O Jardim das Rosas é lindo, mas grupos de plantas e animais estão causando problemas na área ultimamente.",
-        "es": "La Rosaleda es preciosa, pero grupos de plantas y animales están causando problemas en la zona estos días."
+        "ko": "[아디투라]\n장미 정원은 아름답게 꾸며진 곳입니다만, 요즘 여러 동식물이 무리를 지어 나타나 곤란을 겪고 있습니다.",
+        "en": "[Aditura]\nThe Rose Garden is a beautifully decorated place, but lately various plants and animals have been appearing in groups, causing trouble.",
+        "pt": "[Aditura]\nO Jardim de Rosas é um lugar belamente decorado, mas ultimamente vários animais e plantas têm aparecido em bandos, causando problemas.",
+        "es": "[Aditura]\nEl Jardín de Rosas es un lugar bellamente decorado, pero últimamente estamos teniendo problemas porque varias plantas y animales aparecen en grupos."
     },
     "J17qBw": {
-        "en": "[Aditura]\nPlease deal with them.",
-        "pt": "[Aditura]\nPor favor, lide com eles.",
-        "es": "[Aditura]\nPor favor, ocúpate de ellos."
+        "ko": "장미 정원은 아름답게 꾸며진 곳입니다만, 요즘 여러 동식물이 무리를 지어 나타나 곤란을 겪고 있습니다.",
+        "en": "The Rose Garden is a beautifully decorated place, but lately various plants and animals have been appearing in groups, causing trouble.",
+        "pt": "O Jardim de Rosas é um lugar belamente decorado, mas ultimamente vários animais e plantas têm aparecido em bandos, causando problemas.",
+        "es": "El Jardín de Rosas es un lugar bellamente decorado, pero últimamente estamos teniendo problemas porque varias plantas y animales aparecen en grupos."
     },
     "KF7qBw": {
-        "en": "Please deal with them.",
-        "pt": "Por favor, lide com eles.",
-        "es": "Por favor, ocúpese de ellos."
+        "ko": "[아디투라]\n손님, 부디 그 동식물들의 가지치기를 부탁드릴게요.",
+        "en": "[Aditura]\nPlease, could you prune those plants and animals?",
+        "pt": "[Aditura]\nSenhor(a), por favor, peço que faça a poda dessas plantas e animais.",
+        "es": "[Aditura]\nCliente, por favor, le ruego que pode esas plantas y animales."
     },
     "KV7qBw": {
-        "en": "[Aditura]\nWhen you're done, talk to the manager at the end of the garden to open the door to the next area.",
-        "pt": "[Aditura]\nQuando terminar, fale com o gestor no final do jardim para abrir a porta para a próxima área.",
-        "es": "[Aditura]\nCuando hayas terminado, habla con el encargado al final del jardín para abrir la puerta a la siguiente zona."
+        "ko": "손님, 부디 그 동식물들의 가지치기를 부탁드릴게요.",
+        "en": "Please, could you prune those plants and animals?",
+        "pt": "Senhor(a), por favor, peço que faça a poda dessas plantas e animais.",
+        "es": "Cliente, por favor, le ruego que pode esas plantas y animales."
     },
     "Kl7qBw": {
-        "en": "When you're done, talk to the manager at the end of the garden to open the door to the next area.",
-        "pt": "Quando terminar, fale com o gestor no final do jardim para abrir a porta para a próxima área.",
-        "es": "Cuando hayas terminado, habla con el encargado al final del jardín para abrir la puerta a la siguiente zona."
+        "ko": "[아디투라]\n정원 끝에서는 다음 문을 여는 관리자가 기다리고 있으니 그 관리자에게 말을 걸어 주세요.",
+        "en": "[Aditura]\nAt the end of the garden, an attendant who opens the next door is waiting, so please speak to that attendant.",
+        "pt": "[Aditura]\nNo fim do jardim, há um administrador esperando para abrir a próxima porta, então por favor fale com ele.",
+        "es": "[Aditura]\nAl final del jardín, le espera el encargado que abre la siguiente puerta, así que por favor hable con ese encargado."
     },
     "K17qBw": {
-        "en": "[Aditura]\nThat one's a little slow, so you might wait for a bit. Still, it'll open the door for you.",
-        "pt": "[Aditura]\nÉ meio devagar, então você pode ter que esperar um pouco. Ainda assim, vou abrir a porta para você.",
-        "es": "[Aditura]\nEse es un poco lento, así que podrías esperar un poco. Aun así, te abrirá la puerta."
+        "ko": "정원 끝에서는 다음 문을 여는 관리자가 기다리고 있으니 그 관리자에게 말을 걸어 주세요.",
+        "en": "At the end of the garden, an attendant who opens the next door is waiting, so please speak to that attendant.",
+        "pt": "No fim do jardim, há um administrador esperando para abrir a próxima porta, então por favor fale com ele.",
+        "es": "Al final del jardín, le espera el encargado que abre la siguiente puerta, así que por favor hable con ese encargado."
     },
     "LF7qBw": {
-        "en": "That one's a little slow, so you might wait for a bit. Still, it'll open the door for you.",
-        "pt": "É meio devagar, então você pode ter que esperar um pouco. Ainda assim, vou abrir a porta para você.",
-        "es": "Ese es un poco lento, así que podrías esperar un poco. Aun así, te abrirá la puerta."
+        "ko": "[아디투라]\n좀 느릿느릿한 성격이라 기다리셔야 할 지도 모르지만… 문은 확실히 열어 줄 거랍니다.",
+        "en": "[Aditura]\nThey may be a bit slow, so you might have to wait... but they will definitely open the door.",
+        "pt": "[Aditura]\nEle tem um jeito um pouco lento, então talvez você tenha que esperar... mas ele certamente abrirá a porta.",
+        "es": "[Aditura]\nPuede que tenga que esperar porque es un poco lento de carácter… pero sin duda abrirá la puerta."
     },
     "LV7qBw": {
+        "ko": "좀 느릿느릿한 성격이라 기다리셔야 할 지도 모르지만… 문은 확실히 열어 줄 거랍니다.",
+        "en": "They may be a bit slow, so you might have to wait... but they will definitely open the door.",
+        "pt": "Ele tem um jeito um pouco lento, então talvez você tenha que esperar... mas ele certamente abrirá a porta.",
+        "es": "Puede que tenga que esperar porque es un poco lento de carácter… pero sin duda abrirá la puerta."
+    },
+    "Ll7qBw": {
+        "ko": "베르포르타",
         "en": "Verporta",
         "pt": "Verporta",
         "es": "Verporta"
     },
-    "Ll7qBw": {
-        "en": "[Higel]\nPortal to... the next garden... created. Move toward... 12 o'clock...\nThank you... for coming...",
-        "pt": "Portal para... o próximo jardim... criado. Siga em direção...",
-        "es": "[Higel]\nPortal hacia... el próximo jardín... creado. Muévete hacia... las 12 en punto...\nGracias por venir..."
-    },
     "L17qBw": {
-        "en": "Portal to... the next garden... created. Move toward... 12 o'clock... Thank you... for coming...",
-        "pt": "[Higel]\nPortal para... o próximo jardim... criado. Siga em direção... Norte...\nAgradeço... por vir...",
-        "es": "Portal hacia... el próximo jardín... creado. Muévete hacia... a las 12 en punto... Gracias... por venir..."
+        "ko": "포탈 생성... 완료...... 이용하시면 됩니다.",
+        "en": "Portal creation... complete...... You may use it.",
+        "pt": "Criação do portal... concluída...... Pode usar.",
+        "es": "Creación de portal... completada...... Puede usarlo."
     },
     "MF7qBw": {
-        "en": "[Higel]\nPlease deal with... every Papila... in the Maze Garden... please...",
-        "pt": "Portal para... o próximo jardim... criado. Siga em direção... Norte... Agradeço... por vir...",
-        "es": "[Higel]\nPor favor, ocúpate de... cada Papila... en el Jardín del Laberinto... por favor..."
+        "ko": "다른 손님과... 대화중입니다. 잠시 기다려 주세요.",
+        "en": "I am... speaking with another guest. Please wait a moment.",
+        "pt": "Estou... conversando com outro cliente. Por favor, aguarde um momento.",
+        "es": "Estoy... conversando con otro cliente. Por favor, espere un momento."
     },
     "MV7qBw": {
-        "en": "Please deal with... every Papila... in the Maze Garden... please...",
-        "pt": "[Higel]\nPor favor, lide com... todas as Papilas... no Jardim do Labirinto... por favor...",
-        "es": "Por favor, ocúpate de... cada Papila... en el Jardín del Laberinto... por favor..."
+        "ko": "[히겔]\n다음 정원… 포탈 생성 완료… 12시 방향으로 이동하세요…\n이용… 감사합니다…",
+        "en": "[Hugel]\nNext garden... portal creation complete... Move to the 12 o'clock direction...\nThank you... for using it...",
+        "pt": "[Hugel]\nPróximo jardim... criação do portal concluída... mova-se para a direção das 12 horas...\nUso... obrigado...",
+        "es": "[Hugel]\nSiguiente jardín… creación de portal completada… muévase hacia las 12 en punto…\nUso… gracias…"
     },
     "Ml7qBw": {
-        "en": "An error... occurred.",
-        "pt": "Por favor, lide com... todas as Papilas... no Jardim do Labirinto... por favor...",
-        "es": "Se produjo un error..."
+        "ko": "다음 정원… 포탈 생성 완료… 12시 방향으로 이동하세요… 이용… 감사합니다…",
+        "en": "Next garden... portal creation complete... Move to the 12 o'clock direction... Thank you... for using it...",
+        "pt": "Próximo jardim... criação do portal concluída... mova-se para a direção das 12 horas... uso... obrigado...",
+        "es": "Siguiente jardín… creación de portal completada… muévase hacia las 12 en punto… uso… gracias…"
     },
     "M17qBw": {
-        "en": "Oh, I forgot to contact! I'll send it now. Since you've come all the way here, how about a cookie break?",
-        "pt": "Ocorreu... algum erro.",
-        "es": "¡Oh, olvidé contactar! Lo enviaré ahora. Ya que has venido hasta aquí, ¿qué tal un descanso para galletas?"
+        "ko": "[히겔]\n이동 후… 미로 정원의 파필라… 모두 가지치기… 부탁드립니다.",
+        "en": "[Hugel]\nAfter moving... the maze garden's Papila... please prune... all of them...",
+        "pt": "[Hugel]\nApós se mover... no jardim do labirinto, Papila... pode todos... por favor.",
+        "es": "[Hugel]\nDespués de moverse… en el jardín laberinto, Papila… pode todos… se lo ruego."
     },
     "NF7qBw": {
-        "en": "I contacted Alpha, so don't worry. Heheh.",
-        "pt": "Ah, eu esqueci de entrar em contato! Vou enviar agora. Já que você veio até aqui, que tal uma pausa para um biscoito?",
-        "es": "Contacté con Alfa, así que no te preocupes. Je, je."
+        "ko": "이동 후… 미로 정원의 파필라… 모두 가지치기… 부탁드립니다.",
+        "en": "After moving... the maze garden's Papila... please prune... all of them...",
+        "pt": "Após se mover... no jardim do labirinto, Papila... pode todos... por favor.",
+        "es": "Después de moverse… en el jardín laberinto, Papila… pode todos… se lo ruego."
     },
     "NV7qBw": {
-        "en": "I forgot to send him the signal. Why do I keep forgetting that?",
-        "pt": "Eu entrei em contato com Alfa, então não se preocupe. Hehehe.",
-        "es": "Olvidé enviarle la señal. ¿Por qué sigo olvidándolo?"
+        "ko": "오류가… 발생했습니다.",
+        "en": "An error... has occurred.",
+        "pt": "Ocorreu... um erro.",
+        "es": "Se ha… producido un error."
     },
     "Nl7qBw": {
-        "en": "Oh, right, the signal! I'm safe and sound! Here, a cookie for you since you've come all the way here.",
-        "pt": "Eu esqueci de mandar o sinal para ele. Por que eu continuo esquecendo disso?",
-        "es": "Oh, claro, ¡la señal! ¡Estoy sano y salvo! Toma, una galleta para ti, ya que has venido hasta aquí."
+        "ko": "아, 정기 연락하는 걸 잊어버렸어요! 제가 연락할게요. 여기까지 오신 김에 쿠키 하나 드실래요?",
+        "en": "Ah, I forgot to check in regularly! I'll contact them. Since you've come all this way, would you like a cookie?",
+        "pt": "Ah, eu esqueci de fazer o contato regular! Eu vou entrar em contato. Já que você veio até aqui, quer comer um cookie?",
+        "es": "¡Ah, olvidé hacer el contacto periódico! Me pondré en contacto. Ya que ha venido hasta aquí, ¿quiere comerse una galleta?"
     },
     "N17qBw": {
-        "en": "I sent a message saying I'm safe, so don't worry.",
-        "pt": "Ah, é, o sinal! Estou são e salvo! Aqui, um biscoito para você já que veio até aqui.",
-        "es": "Envié un mensaje diciendo que estoy a salvo, así que no te preocupes."
+        "ko": "제가 알파에게 연락했으니 걱정 마세요, 헤헤.",
+        "en": "I contacted Alpha, so don't worry, hehe.",
+        "pt": "Eu já entrei em contato com Alpha, então não se preocupe, hehe.",
+        "es": "Ya me puse en contacto con Alpha, así que no se preocupe, jeje."
     },
     "OF7qBw": {
-        "en": "Strange. I forgot that yesterday too.",
-        "pt": "Eu mandei a mensagem avisando que estou bem, então não se preocupe.",
-        "es": "Qué extraño. Yo también lo olvidé ayer."
+        "ko": "연락하는 걸 그만 잊고 있었지 뭐예요. 왜 이렇게 자꾸 잊어버리지?",
+        "en": "I kept forgetting to contact them. Why do I keep forgetting like this?",
+        "pt": "Eu estava esquecendo de entrar em contato de novo. Por que eu continuo esquecendo assim?",
+        "es": "No paraba de olvidarme de ponerme en contacto. ¿Por qué sigo olvidándolo?"
     },
     "OV7qBw": {
-        "en": "You reminded me of having to send the signal! Here's a cookie as a token of my thanks!",
-        "pt": "Estranho. Eu esqueci isso ontem também.",
-        "es": "¡Me has recordado que tenía que enviar la señal! ¡Aquí tienes una galleta como muestra de mi agradecimiento!"
+        "ko": "앗, 정기 연락 까먹었다! 저는 무사해요! 여기까지 와주셨으니 쿠키 하나 드릴게요.",
+        "en": "Ah, I forgot the regular check-in! I'm safe! Since you've come all this way, I'll give you a cookie.",
+        "pt": "Ah, esqueci do contato regular! Eu estou bem! Já que você veio até aqui, vou te dar um cookie.",
+        "es": "¡Ah, se me olvidó el contacto periódico! ¡Estoy a salvo! Ya que ha venido hasta aquí, le daré una galleta."
     },
     "Ol7qBw": {
-        "en": "Tastes good, right? It's for supplying nutrient substances to flora and fauna. Oh, it's good! I eat it too!",
-        "pt": "Você me lembrou de enviar o sinal! Aqui está um biscoito como uma amostra da minha gratidão!",
-        "es": "Sabe bien, ¿verdad? Sirve para suministrar sustancias nutritivas a la flora y la fauna. ¡Oh, está buena! ¡Yo también la comeré!"
+        "ko": "저는 잘 있으니 걱정하지 말라고 제가 연락했어요~",
+        "en": "I contacted them to tell them I'm doing well, so don't worry~",
+        "pt": "Eu entrei em contato dizendo para não se preocupar, porque eu estou bem~",
+        "es": "Me puse en contacto para decir que estoy bien, así que que no se preocupe~"
     },
     "O17qBw": {
-        "en": "For some reason, my memory gets foggy whenever I come to the Maze Garden.",
-        "pt": "É gostoso, não é? Serve para fornecer substâncias nutritivas à flora e à fauna. Ah, é bom! Eu como também!",
-        "es": "Por alguna razón, mi memoria se nubla cada vez que vengo al Jardín del Laberinto."
+        "ko": "이상하다, 어제도 까먹었는데 오늘도 까먹었네.",
+        "en": "That's strange, I forgot yesterday too, and I forgot again today.",
+        "pt": "Que estranho, ontem eu também esqueci, e hoje esqueci de novo.",
+        "es": "Qué raro, ayer también se me olvidó, y hoy también se me olvidó."
     },
     "PF7qBw": {
-        "en": "I forget to send the signal every time I get here. You reminded me to do that. Here's a cookie for you!",
-        "pt": "Por alguma razão, a minha memória fica confusa sempre que venho ao Jardim do Labirinto.",
-        "es": "Me olvido de enviar la señal cada vez que llego aquí. Me lo has recordado. ¡Aquí tienes una galleta!"
+        "ko": "손님을 보니까 생각났어요, 정기 연락 안한 거! 제 기억을 일깨워주신 보답으로 쿠키 하나 드릴까요?",
+        "en": "Seeing you reminded me—I forgot to check in regularly! As thanks for jogging my memory, would you like a cookie?",
+        "pt": "Ao ver o senhor, eu me lembrei: eu não fiz o contato regular! Como recompensa por me fazer lembrar, quer um biscoito?",
+        "es": "Al verle, me he acordado de algo: ¡no hice el contacto periódico! Como recompensa por refrescarme la memoria, ¿quiere que le dé una galleta?"
     },
     "PV7qBw": {
-        "en": "A portable, delicious, and nutritious cookie!",
-        "pt": "Eu esqueço de enviar o sinal toda vez que venho aqui. Você me lembrou disso. Aqui, um biscoito para você!",
-        "es": "¡Una galleta portátil, deliciosa y nutritiva!"
+        "ko": "쿠키 맛있지요? 원래 동식물 영양 공급용이에요. 아, 맛있어요! 저도 먹어요!",
+        "en": "Cookies are tasty, aren’t they? They’re originally for providing nutrition to animals and plants. Ah, they’re delicious! I eat them too!",
+        "pt": "O biscoito é gostoso, não é? Na verdade, é para fornecer nutrientes a animais e plantas. Ah, é gostoso! Eu também como!",
+        "es": "¿La galleta está rica, verdad? En realidad es para aportar nutrientes a animales y plantas. Ah, ¡está rica! ¡Yo también la como!"
     },
     "Pl7qBw": {
-        "en": "I forget to send the periodic signal every time I get here. Weird.",
-        "pt": "Um biscoito portátil, delicioso e nutritivo!",
-        "es": "Me olvido de enviar la señal periódica cada vez que llego aquí. Qué raro."
+        "ko": "이상하게 미로 정원에만 오면 기억이 가물가물해져요.",
+        "en": "Strangely, whenever I come to the Maze Garden, my memory gets all hazy.",
+        "pt": "É estranho, sempre que venho ao Jardim do Labirinto, minha memória fica meio nebulosa.",
+        "es": "Qué raro, cada vez que vengo al Jardín del Laberinto se me nubla la memoria."
     },
     "P17qBw": {
-        "en": "gmck4",
-        "pt": "Eu esqueço de enviar o sinal toda vez que venho aqui. Estranho.",
-        "es": "gmck4"
+        "ko": "여기 있으면 어쩐지 정기 연락을 깜박한다니까. 손님이 오셔서 생각났어요, 여기 쿠키 하나 드세요!",
+        "en": "Whenever I’m here, I somehow forget to check in regularly. You coming here reminded me—here, please take a cookie!",
+        "pt": "Quando estou aqui, acabo esquecendo o contato regular. O senhor veio e eu me lembrei. Aqui, pegue um biscoito!",
+        "es": "Cuando estoy aquí, por alguna razón se me olvida el contacto periódico. Al venir usted, me he acordado. Tome, ¡una galleta!"
     },
     "QF7qBw": {
-        "en": "gmck4_m",
-        "pt": "gmck4",
-        "es": "gmck4_m"
+        "ko": "휴대하기 편하고 맛도 좋은데 영양도 넘치는 쿠키입니다!",
+        "en": "These cookies are easy to carry, taste great, and are packed with nutrition!",
+        "pt": "É um biscoito fácil de levar, gostoso e cheio de nutrientes!",
+        "es": "¡Es una galleta fácil de llevar, rica y además llena de nutrientes!"
     },
     "QV7qBw": {
-        "en": "Waah, it's here! Please take care of that!",
-        "pt": "gmck4_m",
-        "es": "¡Ya está aquí! ¡Por favor, ocúpate de eso!"
+        "ko": "여기만 와 있으면 자꾸 연락을 깜박깜박한단 말이지요. 이상하게.",
+        "en": "Whenever I’m here, I keep forgetting to check in, over and over. It’s strange.",
+        "pt": "Sempre que venho aqui, acabo esquecendo de entrar em contato, de novo e de novo. É estranho.",
+        "es": "Cuando estoy aquí, se me olvida contactar una y otra vez. Qué raro."
     },
     "Ql7qBw": {
-        "en": "Thank you for your hard work.",
-        "pt": "Ah, está aqui! Por favor, cuide daquilo!",
-        "es": "Gracias por su duro trabajo."
+        "ko": "gmck4",
+        "en": "gmck4",
+        "pt": "gmck4",
+        "es": "gmck4"
     },
     "Q17qBw": {
-        "en": "I'm talking with another guest. Please wait a moment.",
-        "pt": "Agradeço por seu trabalho duro.",
-        "es": "Estoy hablando con otro invitado. Espera un momento."
+        "ko": "gmck4_m",
+        "en": "gmck4_m",
+        "pt": "gmck4_m",
+        "es": "gmck4_m"
     },
     "RF7qBw": {
-        "en": "[Berkina]\nIf Papilas show up during the battle, lead them to the pillar that glows the same color as them.",
-        "pt": "[Berkina]\nSe Papilas aparecerem durante a batalha, leve-as até o pilar que brilha na mesma cor que elas.",
-        "es": "[Berkina]\nSi aparecen Papilas durante la batalla, llévalos al pilar que brilla del mismo color que ellos."
+        "ko": "우와아아, 나왔다! 잘 부탁드립니다, 손님!",
+        "en": "Woooahhh, there you are! I look forward to working with you, adventurer!",
+        "pt": "Uwaaa, apareceu! Conto com o senhor, cliente!",
+        "es": "¡Uwaaa, ha salido! ¡Encantado de conocerle, cliente!"
     },
     "RV7qBw": {
-        "en": "If Papilas show up during the battle, lead them to the pillar that glows the same color as them.",
-        "pt": "Se Papilas aparecerem durante a batalha, leve-as até o pilar que brilha na mesma cor que elas.",
-        "es": "Si aparecen Papilas durante la batalla, llévalos al pilar que brilla del mismo color que ellos."
+        "ko": "수고해 주셔서 감사합니다, 손님.",
+        "en": "Thank you for your hard work, adventurer.",
+        "pt": "Obrigado pelo seu esforço, cliente.",
+        "es": "Gracias por su esfuerzo, cliente."
     },
     "Rl7qBw": {
-        "en": "[Berkina]\nPapilas will get damaged and die out when they touch the glow.",
-        "pt": "[Berkina]\nAs papilas vão ser danificadas e morrerão quando entrarem em contato com o brilho.",
-        "es": "[Berkina]\nLos papilas se dañarán y morirán cuando toquen el resplandor."
+        "ko": "다른 손님과 대화중입니다. 조금만 기다려 주세요.",
+        "en": "I am speaking with another adventurer. Please wait a moment.",
+        "pt": "Estou conversando com outro cliente. Por favor, aguarde um pouco.",
+        "es": "Estoy conversando con otro cliente. Por favor, espere un momento."
     },
     "R17qBw": {
-        "en": "Papilas will get damaged and die out when they touch the glow.",
-        "pt": "As papilas vão ser danificadas e morrerão quando entrarem em contato com o brilho.",
-        "es": "Las papilas se dañarán y morirán cuando toquen el resplandor."
+        "ko": "[베르키나]\n전투 중 파필라가 나타나면 같은 색깔의 빛무리가 나타난 기둥으로 이동시켜 주세요.",
+        "en": "[Verkina]\nDuring the battle, when Papila appears, please move it to the pillar where an orb of light of the same color has appeared.",
+        "pt": "[Verkina]\nDurante a batalha, quando Papila aparecer, por favor, leve-a até o pilar onde surgiu o aglomerado de luz da mesma cor.",
+        "es": "[Verkina]\nDurante el combate, cuando aparezca Papila, por favor llévela al pilar donde haya aparecido un halo de luz del mismo color."
     },
     "SF7qBw": {
-        "en": "[Berkina]\nPlease neutralize Silva Papilia. We will take care of the rest!",
-        "pt": "[Berkina]\nPor favor, neutralize Silva Papilia. Nós cuidaremos do resto!",
-        "es": "[Berkina]\nPor favor, neutraliza a Silva Papilia. ¡Nosotros nos encargaremos del resto!"
+        "ko": "전투 중 파필라가 나타나면 같은 색깔의 빛무리가 나타난 기둥으로 이동시켜 주세요.",
+        "en": "During the battle, when Papila appears, please move it to the pillar where an orb of light of the same color has appeared.",
+        "pt": "Durante a batalha, quando Papila aparecer, por favor, leve-a até o pilar onde surgiu o aglomerado de luz da mesma cor.",
+        "es": "Durante el combate, cuando aparezca Papila, por favor llévela al pilar donde haya aparecido un halo de luz del mismo color."
     },
     "SV7qBw": {
-        "en": "Please neutralize Silva Papilia. We will take care of the rest!",
-        "pt": "Por favor, neutralize Silva Papilia. Nós cuidaremos do resto!",
-        "es": "Por favor, neutraliza a Silva Papilia. Nosotros nos encargamos del resto"
+        "ko": "[베르키나]\n파필라가 빛무리에 닿으면 대미지를 입고 사망합니다.",
+        "en": "[Verkina]\nIf Papila touches the orb of light, it will take damage and die.",
+        "pt": "[Verkina]\nQuando Papila tocar o aglomerado de luz, ela sofrerá dano e morrerá.",
+        "es": "[Verkina]\nSi Papila toca el halo de luz, recibirá daño y morirá."
     },
     "Sl7qBw": {
-        "en": "[Berkina]\nNow, I will burn the incense to lure Silva Papilia...",
-        "pt": "[Berkina]\nAgora, vou acender um incenso para atrair Silva Papilia...",
-        "es": "[Berkina]\nAhora, quemaré el incienso para atraer a Silva Papilia..."
+        "ko": "파필라가 빛무리에 닿으면 대미지를 입고 사망합니다.",
+        "en": "If Papila touches the orb of light, it will take damage and die.",
+        "pt": "Quando Papila tocar o aglomerado de luz, ela sofrerá dano e morrerá.",
+        "es": "Si Papila toca el halo de luz, recibirá daño y morirá."
     },
     "S17qBw": {
-        "en": "Now, I will burn the incense to lure Silva Papilia...",
-        "pt": "Agora, vou acender um incenso para atrair Silva Papilia...",
-        "es": "Ahora, quemaré el incienso para atraer a Silva Papilia..."
+        "ko": "[베르키나]\n무사히 실바 파필리아를 무력화시켜 주시면 그 뒤에는 저희가 책임지겠습니다!",
+        "en": "[Verkina]\nIf you safely neutralize Silva Papilia, we will take responsibility after that!",
+        "pt": "[Verkina]\nSe conseguirem neutralizar Papilia Violeta em segurança, depois disso nós assumiremos a responsabilidade!",
+        "es": "[Verkina]\nSi logra neutralizar a Silva Papilia sin problemas, ¡después nos encargaremos nosotros!"
     },
     "TF7qBw": {
-        "en": "[Berkina]\nPlease neutralize Grand Papilia. We will take care of the rest!",
-        "pt": "[Berkina]\nPor favor, neutralize Gran Papilia. Nós cuidaremos do resto!",
-        "es": "[Berkina]\nPor favor, neutraliza a Grand Papilia. Nosotros nos encargamos del resto"
+        "ko": "무사히 실바 파필리아를 무력화시켜 주시면 그 뒤에는 저희가 책임지겠습니다!",
+        "en": "If you safely neutralize Silva Papilia, we will take responsibility after that!",
+        "pt": "Se conseguirem neutralizar Papilia Violeta em segurança, depois disso nós assumiremos a responsabilidade!",
+        "es": "Si logra neutralizar a Silva Papilia sin problemas, ¡después nos encargaremos nosotros!"
     },
     "TV7qBw": {
-        "en": "Please neutralize Grand Papilia. We will take care of the rest!",
-        "pt": "Por favor, neutralize Gran Papilia. Nós cuidaremos do resto!",
-        "es": "Por favor, neutraliza a Grand Papilia. Nosotros nos encargamos del resto"
+        "ko": "[베르키나]\n그럼, 실바 파필리아를 불러내는 향을 피우겠습니다…",
+        "en": "[Verkina]\nThen, I will burn the incense that summons Silva Papilia…",
+        "pt": "[Verkina]\nEntão, vou acender o incenso que invoca Papilia Violeta…",
+        "es": "[Verkina]\nEntonces, encenderé el incienso que invoca a Silva Papilia…"
     },
     "Tl7qBw": {
-        "en": "[Berkina]\nNow, I will burn the incense to lure Grand Papilia...",
-        "pt": "[Berkina]\nAgora, vou acender um incenso para atrair Gran Papilia...",
-        "es": "[Berkina]\nAhora, quemaré el incienso para atraer a Grand Papilia..."
+        "ko": "그럼, 실바 파필리아를 불러내는 향을 피우겠습니다…",
+        "en": "Then, I will burn the incense that summons Silva Papilia…",
+        "pt": "Então, vou acender o incenso que invoca Papilia Violeta…",
+        "es": "Entonces, encenderé el incienso que invoca a Silva Papilia…"
     },
     "T17qBw": {
-        "en": "Now, I will burn the incense to lure Grand Papilia...",
-        "pt": "Agora, vou acender um incenso para atrair Gran Papilia...",
-        "es": "Ahora, quemaré el incienso para atraer a Grand Papilia..."
+        "ko": "[베르키나]\n무사히 그랑 파필리아를 무력화시켜 주시면 그 뒤에는 저희가 책임지겠습니다!",
+        "en": "[Verkina]\nIf you safely neutralize Gran Papilia, we will take responsibility after that!",
+        "pt": "[Verkina]\nSe conseguirem neutralizar Papilia Rubra em segurança, depois disso nós assumiremos a responsabilidade!",
+        "es": "[Verkina]\nSi logra neutralizar a Gran papilia sin problemas, ¡después nos encargaremos nosotros!"
     },
     "UF7qBw": {
-        "en": "Silva Papilia",
-        "pt": "Silva Papilia",
-        "es": "Silva Papilia"
+        "ko": "무사히 그랑 파필리아를 무력화시켜 주시면 그 뒤에는 저희가 책임지겠습니다!",
+        "en": "If you safely neutralize Gran Papilia, we will take responsibility for everything after that!",
+        "pt": "Se conseguir neutralizar Papilia Rubra em segurança, depois disso nós assumiremos a responsabilidade!",
+        "es": "Si neutralizas a Gran papilia sin contratiempos, ¡nosotros nos encargaremos del resto!"
     },
     "UV7qBw": {
-        "en": "Grand Papilia",
-        "pt": "Gran Papilia",
-        "es": "Grand Papilia"
+        "ko": "[베르키나]\n그럼, 그랑 파필리아를 불러내는 향을 피우겠습니다…",
+        "en": "[Verkina]\nThen, I will light the incense that summons Gran Papilia…",
+        "pt": "[Verkina]\nEntão, vou acender o incenso que chama Papilia Rubra…",
+        "es": "[Verkina]\nEntonces, encenderé el incienso que invoca a Gran papilia…"
     },
     "Ul7qBw": {
+        "ko": "그럼, 그랑 파필리아를 불러내는 향을 피우겠습니다…",
+        "en": "Then, I will light the incense that summons Gran Papilia…",
+        "pt": "Então, vou acender o incenso que chama Papilia Rubra…",
+        "es": "Entonces, encenderé el incienso que invoca a Gran papilia…"
+    },
+    "U17qBw": {
+        "ko": "실바 파필리아",
+        "en": "Silva Papilia",
+        "pt": "Papilia Violeta",
+        "es": "Silva Papilia"
+    },
+    "VF7qBw": {
+        "ko": "그랑 파필리아",
+        "en": "Gran Papilia",
+        "pt": "Papilia Rubra",
+        "es": "Gran papilia"
+    },
+    "VV7qBw": {
+        "ko": "gmckb",
         "en": "gmckb",
         "pt": "gmckb",
         "es": "gmckb"
     },
-    "U17qBw": {
+    "Vl7qBw": {
+        "ko": "hard_normal",
         "en": "hard_normal",
-        "pt": "difícil_normal",
-        "es": "difícil_normal"
+        "pt": "hard_normal",
+        "es": "hard_normal"
     },
-    "VF7qBw": {
+    "V17qBw": {
+        "ko": "hard_hard",
         "en": "hard_hard",
-        "pt": "difícil_difícil",
-        "es": "difícil_difícil"
+        "pt": "hard_hard",
+        "es": "hard_hard"
     },
-    "VV7qBw": {
+    "WF7qBw": {
+        "ko": "normal_normal",
         "en": "normal_normal",
         "pt": "normal_normal",
         "es": "normal_normal"
     },
-    "Vl7qBw": {
-        "en": "normal_hard",
-        "pt": "normal_difícil",
-        "es": "normal_difícil"
-    },
-    "V17qBw": {
-        "en": "Papila Ruba",
-        "pt": "Papila Ruba",
-        "es": "Papila Ruba"
-    },
-    "WF7qBw": {
-        "en": "Papila Cae",
-        "pt": "Papila Cae",
-        "es": "Papila Cae"
-    },
     "WV7qBw": {
-        "en": "[Berkina]\nYou didn't forget to accept Sayhue's request, did you?",
-        "pt": "[Berkina]\nVocê não se esqueceu de aceitar o pedido de Sayhue, esqueceu?",
-        "es": "[Berkina]\nNo olvidaste aceptar la petición de Sayhue, ¿verdad?"
+        "ko": "normal_hard",
+        "en": "normal_hard",
+        "pt": "normal_hard",
+        "es": "normal_hard"
     },
     "Wl7qBw": {
-        "en": "[Berkina]\nDon't forget to talk to Sayhue when you get out to receive the ^0000CDreward we prepare for you^000000!",
-        "pt": "[Berkina]\nNão se esqueça de falar com Sayhue quando sair para receber a ^9370DBrecompensa que preparamos para você^000000!",
-        "es": "[Berkina]\n¡No olvides hablar con Sayhue cuando salgas para recibir la recompensa ^990099que preparamos para ti^000000!"
+        "ko": "파필라 루바",
+        "en": "Papila Ruba",
+        "pt": "Papila Vermelha",
+        "es": "Papila Ruba"
     },
     "W17qBw": {
-        "en": "[Berkina]\nLet me take you out of the garden!",
-        "pt": "[Berkina]\nDeixe-me tirar você do jardim!",
-        "es": "[Berkina]\n¡Déjame sacarte del jardín!"
+        "ko": "파필라 카이",
+        "en": "Papila Kai",
+        "pt": "Papila Azul",
+        "es": "Papila Kai"
     },
     "XF7qBw": {
+        "ko": "[베르키나]\n세이휴가 드리는 부탁을 잊지 않고 챙겨 받고 들어오셨지요?",
+        "en": "[Verkina]\nYou did not forget Seiyu's request, and you came prepared, yes?",
+        "pt": "[Verkina]\nVocê não se esqueceu do pedido que Seiyu lhe fez e veio preparado, não é?",
+        "es": "[Verkina]\nNo olvidaste la petición de Seiyu y entraste tras recibirla, ¿verdad?"
+    },
+    "XV7qBw": {
+        "ko": "[베르키나]\n나가셔서 세이휴에게 말을 걸어 ^0000CD저희가 준비한 임무 보상^000000을 잊지 말고 받아 주세요!",
+        "en": "[Verkina]\nPlease go out and speak to Seiyu, and do not forget to receive the ^0000CDmission reward we prepared^000000!",
+        "pt": "[Verkina]\nSaia e fale com Seiyu, e não se esqueça de receber a ^0000CDrecompensa da missão que preparamos^000000!",
+        "es": "[Verkina]\n¡Sal y habla con Seiyu, y no olvides recibir la ^0000CDrecompensa de la misión que preparamos^000000!"
+    },
+    "Xl7qBw": {
+        "ko": "[베르키나]\n그럼, 다시 바깥으로 안내해 드리겠습니다, 손님!",
+        "en": "[Verkina]\nThen, I will guide you back outside, guest!",
+        "pt": "[Verkina]\nEntão, vou guiá-lo para fora novamente, cliente!",
+        "es": "[Verkina]\nEntonces, te guiaré de nuevo hacia el exterior, ¡cliente!"
+    },
+    "X17qBw": {
+        "ko": "say1",
         "en": "say1",
         "pt": "say1",
         "es": "say1"
     },
-    "XV7qBw": {
+    "YF7qBw": {
+        "ko": "say2",
         "en": "say2",
         "pt": "say2",
         "es": "say2"
     },
-    "Xl7qBw": {
-        "en": "sayb",
+    "YV7qBw": {
+        "ko": "say3",
+        "en": "say3",
         "pt": "say3",
+        "es": "say3"
+    },
+    "Yl7qBw": {
+        "ko": "sayb",
+        "en": "sayb",
+        "pt": "sayb",
         "es": "sayb"
     }
 }

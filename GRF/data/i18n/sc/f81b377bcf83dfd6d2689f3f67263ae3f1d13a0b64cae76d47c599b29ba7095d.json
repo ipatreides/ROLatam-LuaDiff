@@ -1,15 +1,15 @@
 {
     "wObOBw": {
         "ko": "신사",
-        "en": "Gentleman",
-        "pt": "Cavalheiro",
-        "es": "Gentleman"
+        "en": "Body scrubber",
+        "pt": "Esfoliador",
+        "es": "Exfoliador"
     },
     "webOBw": {
         "ko": "[신사]\n목욕탕을 이용하시기엔 다소 경험이 부족해 보이십니다. 고온에 자칫 화상을 입을 수 있으니 충분히 견디실 수 있을만큼 경험을 쌓은 뒤 오십시오.",
-        "en": "[Gentleman]\nYou appear to lack sufficient experience to use the bathhouse. You may suffer burns from the high temperatures, so please return after gaining enough experience to endure it.",
-        "pt": "[Cavalheiro]\nParece que ainda não possui experiência suficiente para utilizar o banho. A alta temperatura pode causar queimaduras, portanto retorne após adquirir experiência suficiente para suportá-la.",
-        "es": "[Gentleman]\nParece que le falta algo de experiencia para usar los baños. Podría sufrir quemaduras con el calor, así que vuelva cuando haya acumulado suficiente experiencia para soportarlo."
+        "en": "[Body scrubber]\nYou appear to lack sufficient experience to use the bathhouse. You may suffer burns from the high temperatures, so please return after gaining enough experience to endure it.",
+        "pt": "[Esfoliador]\nParece que ainda não possui experiência suficiente para utilizar o banho. A alta temperatura pode causar queimaduras, portanto retorne após adquirir experiência suficiente para suportá-la.",
+        "es": "[Exfoliador]\nParece que le falta algo de experiencia para usar los baños. Podría sufrir quemaduras con el calor, así que vuelva cuando haya acumulado suficiente experiencia para soportarlo."
     },
     "wubOBw": {
         "ko": "- 130레벨부터 수행 가능한 퀘스트입니다. -",
@@ -19,9 +19,9 @@
     },
     "w+bOBw": {
         "ko": "[신사]\n죄송합니다. 손님을 ^0000CD위험한 상황^000000에서 격리 조치하는 것이 바르문트 저택의 방침입니다. 조금만 더 기다려주십시오.",
-        "en": "[Gentleman]\nWe apologize. It is the policy of the Varmundt Mansion to isolate guests from ^0000CDdangerous situations^000000. Please wait a little longer.",
-        "pt": "[Cavalheiro]\nPedimos desculpas. Isolar os clientes de ^0000CDsituações perigosas^000000 é a política da Mansão Varmundt. Por favor, aguarde um pouco mais.",
-        "es": "[Gentleman]\nLo siento. La política de la mansión Varmundt es aislar a los huéspedes de ^0000CDsituaciones peligrosas^000000. Por favor, espere un poco más."
+        "en": "[Body scrubber]\nWe apologize. It is the policy of the Varmundt Mansion to isolate guests from ^0000CDdangerous situations^000000. Please wait a little longer.",
+        "pt": "[Esfoliador]\nPedimos desculpas. Isolar os clientes de ^0000CDsituações perigosas^000000 é a política da Mansão Varmundt. Por favor, aguarde um pouco mais.",
+        "es": "[Exfoliador]\nLo siento. La política de la mansión Varmundt es aislar a los huéspedes de ^0000CDsituaciones peligrosas^000000. Por favor, espere un poco más."
     },
     "xObOBw": {
         "ko": "수색하는데 왜 이렇게 오래 걸려? 우리를 들여보내 줘. 더 빨리 찾을 수 있으니까.",
@@ -49,9 +49,9 @@
     },
     "yObOBw": {
         "ko": "[신사]\n죄송합니다. 아직 파악되지 않았습니다. 위험 요소 존재 여부의 조사가 이번 수색의 목적 중 하나입니다. 조금만 더 기다려주십시오. 절차이니 부디 양해해 주십시오.",
-        "en": "[Gentleman]\nWe apologize. It has not yet been identified. Determining whether a hazard exists is one of the objectives of this search. Please wait a little longer. We ask for your understanding as this is procedure.",
-        "pt": "[Cavalheiro]\nPedimos desculpas. Ainda não foi identificado. Verificar a existência de elementos perigosos é um dos objetivos desta busca. Por favor, aguarde mais um pouco. Trata-se de um procedimento, pedimos sua compreensão.",
-        "es": "[Gentleman]\nLo siento. Aún no se ha determinado. Uno de los objetivos de esta búsqueda es investigar si existe algún factor de riesgo. Por favor, espere un poco más. Es el procedimiento, así que le ruego que lo comprenda."
+        "en": "[Body scrubber]\nWe apologize. It has not yet been identified. Determining whether a hazard exists is one of the objectives of this search. Please wait a little longer. We ask for your understanding as this is procedure.",
+        "pt": "[Esfoliador]\nPedimos desculpas. Ainda não foi identificado. Verificar a existência de elementos perigosos é um dos objetivos desta busca. Por favor, aguarde mais um pouco. Trata-se de um procedimento, pedimos sua compreensão.",
+        "es": "[Exfoliador]\nLo siento. Aún no se ha determinado. Uno de los objetivos de esta búsqueda es investigar si existe algún factor de riesgo. Por favor, espere un poco más. Es el procedimiento, así que le ruego que lo comprenda."
     },
     "yebOBw": {
         "ko": "이러다 우리 애가 잘못되면 책임을 물을 거야!",
@@ -67,9 +67,9 @@
     },
     "y+bOBw": {
         "ko": "[신사]\n다시 한번 말씀드리지만, 안전이 확인되지 않은 이상 들어가실 수 없습니다. ^0000CD동료분의 소식^000000이 있으면 바로 모시겠습니다.",
-        "en": "[Gentleman]\nAs stated before, you cannot enter until safety has been confirmed. If there is any news regarding your ^0000CDcompanion^000000, we will escort you immediately.",
-        "pt": "[Cavalheiro]\nReitero que, enquanto a segurança não for confirmada, não poderão entrar. Assim que houver ^0000CDnotícias do seu companheiro^000000, iremos informá-los imediatamente.",
-        "es": "[Gentleman]\nSe lo repito una vez más: no puede entrar mientras no se confirme la seguridad. En cuanto tengamos ^0000CDnoticias de su compañero^000000, se lo haré saber de inmediato."
+        "en": "[Body scrubber]\nAs stated before, you cannot enter until safety has been confirmed. If there is any news regarding your ^0000CDcompanion^000000, we will escort you immediately.",
+        "pt": "[Esfoliador]\nReitero que, enquanto a segurança não for confirmada, não poderão entrar. Assim que houver ^0000CDnotícias do seu companheiro^000000, iremos informá-los imediatamente.",
+        "es": "[Exfoliador]\nSe lo repito una vez más: no puede entrar mientras no se confirme la seguridad. En cuanto tengamos ^0000CDnoticias de su compañero^000000, se lo haré saber de inmediato."
     },
     "zObOBw": {
         "ko": "[루키]\n되도록 저택의 자동인형들과 마찰 없이 협력하라고 했지만 끝까지 안 비키면 무력을 행사하는 수밖에 없겠지요?",
@@ -91,9 +91,9 @@
     },
     "z+bOBw": {
         "ko": "[신사]\n그리되면, 저희도 경비를 부를 수 밖에 없습니다.",
-        "en": "[Gentleman]\nIf it comes to that, we will have no choice but to call the guards as well.",
-        "pt": "[Cavalheiro]\nSe assim for, não teremos alternativa senão chamar os guardas.",
-        "es": "[Gentleman]\nSi es así, nosotros también no tendremos más remedio que llamar a los guardias."
+        "en": "[Body scrubber]\nIf it comes to that, we will have no choice but to call the guards as well.",
+        "pt": "[Esfoliador]\nSe assim for, não teremos alternativa senão chamar os guardas.",
+        "es": "[Exfoliador]\nSi es así, nosotros también no tendremos más remedio que llamar a los guardias."
     },
     "0ObOBw": {
         "ko": "[루키]\n흠... 이거 어떻게 하지.",
@@ -199,9 +199,9 @@
     },
     "4ebOBw": {
         "ko": "[신사]\n죄송합니다. 지금 수색 중이니 종료 되면 결과를 듣고 결정하십시오.",
-        "en": "[Gentleman]\nWe apologize. The search is currently underway. Please wait for the results and then make your decision.",
-        "pt": "[Cavalheiro]\nPedimos desculpas. A busca está em andamento; aguardem o término e então decidam após ouvir o resultado.",
-        "es": "[Gentleman]\nLo siento. Ahora estamos registrando, así que cuando termine, escuche el resultado y decida."
+        "en": "[Body scrubber]\nWe apologize. The search is currently underway. Please wait for the results and then make your decision.",
+        "pt": "[Esfoliador]\nPedimos desculpas. A busca está em andamento; aguardem o término e então decidam após ouvir o resultado.",
+        "es": "[Exfoliador]\nLo siento. Ahora estamos registrando, así que cuando termine, escuche el resultado y decida."
     },
     "4ubOBw": {
         "ko": "[루키]\n지금 이 저택에는 위험 요소가 확실하게 있습니다. 그것 뿐만인지 그 외에 더 있는 것인지 우리에게는 매우 중요한 문제예요.",
@@ -217,9 +217,9 @@
     },
     "5ObOBw": {
         "ko": "[신사]\n말씀하시는 바는 충분히 이해합니다. 그러나 절차가...\n아! 마침 수색을 하러 갔던 이들이 온다고 하는군요. 말씀을 나눠 보십시오.",
-        "en": "[Gentleman]\nI fully understand what you are saying. However, procedure...\nAh! It seems those who went to search have returned. Please speak with them.",
-        "pt": "[Cavalheiro]\nCompreendo plenamente o que diz. Contudo, o procedimento...\nAh! Parece que aqueles que foram realizar a busca estão chegando. Conversem com eles.",
-        "es": "[Gentleman]\nEntiendo perfectamente lo que dice. Sin embargo, el procedimiento...\n¡Ah! Justo dicen que vienen los que fueron a registrar. Hable con ellos."
+        "en": "[Body scrubber]\nI fully understand what you are saying. However, procedure...\nAh! It seems those who went to search have returned. Please speak with them.",
+        "pt": "[Esfoliador]\nCompreendo plenamente o que diz. Contudo, o procedimento...\nAh! Parece que aqueles que foram realizar a busca estão chegando. Conversem com eles.",
+        "es": "[Exfoliador]\nEntiendo perfectamente lo que dice. Sin embargo, el procedimiento...\n¡Ah! Justo dicen que vienen los que fueron a registrar. Hable con ellos."
     },
     "5ebOBw": {
         "ko": "[보일러]\n틀렸어, 다 틀렸어. 위험한 것이 어디 있다구.",
@@ -277,15 +277,15 @@
     },
     "7ubOBw": {
         "ko": "[신사]\n말씀하신 것들 중에서는 침입자의 소행이 가장 의심됩니다.",
-        "en": "[Gentleman]\nAmong what you have said, the most suspicious possibility is the act of an intruder.",
-        "pt": "[Cavalheiro]\nEntre as possibilidades mencionadas, a ação de um intruso é a mais suspeita.",
-        "es": "[Gentleman]\nDe lo que ha mencionado, lo más sospechoso parece ser obra de un intruso."
+        "en": "[Body scrubber]\nAmong what you have said, the most suspicious possibility is the act of an intruder.",
+        "pt": "[Esfoliador]\nEntre as possibilidades mencionadas, a ação de um intruso é a mais suspeita.",
+        "es": "[Exfoliador]\nDe lo que ha mencionado, lo más sospechoso parece ser obra de un intruso."
     },
     "7+bOBw": {
         "ko": "[보일러]\n신사, 그거 아닐까? ^0000CD머리카락^000000? 진한 초록색의 아주 기다란 머리카락이여. 아주 오래 전부터 나타난 건데.",
-        "en": "[Boiler]\nGentleman, could it be that? ^0000CDHair^000000? Very long, dark green hair. It has appeared for a very long time.",
-        "pt": "[Caldeira]\nCavalheiro, não seria aquilo? ^0000CDCabelo^000000? Um cabelo muito longo, de verde intenso. Aparece há muito tempo.",
-        "es": "[Caldera]\nGentleman, ¿no será eso? ^0000CDCabello^000000. Un cabello verde oscuro, muy largo. Lleva apareciendo desde hace muchísimo tiempo."
+        "en": "[Boiler]\nBody scrubber, could it be that? ^0000CDHair^000000? Very long, dark green hair. It has appeared for a very long time.",
+        "pt": "[Caldeira]\nEsfoliador, não seria aquilo? ^0000CDCabelo^000000? Um cabelo muito longo, de verde intenso. Aparece há muito tempo.",
+        "es": "[Caldera]\nExfoliador, ¿no será eso? ^0000CDCabello^000000. Un cabello verde oscuro, muy largo. Lleva apareciendo desde hace muchísimo tiempo."
     },
     "8ObOBw": {
         "ko": "머리카락... 그럴 가능성도 있다. 목욕탕 내의 그 어떠한 것과도 일치하지 않는다",
@@ -301,9 +301,9 @@
     },
     "8ubOBw": {
         "ko": "[신사]\n보일러의 말 그대로입니다. 아주 오래전부터 출처를 알 수 없는 머리카락이 종종 발견되었습니다. 아마도 그 머리카락과 이 목욕탕의 위험 요소가 동일한 것이 아닌지 추측됩니다.",
-        "en": "[Gentleman]\nJust as Boiler said. For a long time, hair of unknown origin has occasionally been discovered. It is presumed that this hair may be identical to the hazard within the bathhouse.",
-        "pt": "[Cavalheiro]\nExatamente como disse Caldeira. Há muito tempo, cabelos de origem desconhecida são encontrados ocasionalmente. Supomos que esse cabelo possa ser o mesmo elemento perigoso deste banho.",
-        "es": "[Gentleman]\nTal como dice Caldera. Desde hace muchísimo tiempo, a veces se ha encontrado cabello cuyo origen se desconoce. Se sospecha que ese cabello y el factor de peligro de este baño podrían ser lo mismo."
+        "en": "[Body scrubber]\nJust as Boiler said. For a long time, hair of unknown origin has occasionally been discovered. It is presumed that this hair may be identical to the hazard within the bathhouse.",
+        "pt": "[Esfoliador]\nExatamente como disse Caldeira. Há muito tempo, cabelos de origem desconhecida são encontrados ocasionalmente. Supomos que esse cabelo possa ser o mesmo elemento perigoso deste banho.",
+        "es": "[Exfoliador]\nTal como dice Caldera. Desde hace muchísimo tiempo, a veces se ha encontrado cabello cuyo origen se desconoce. Se sospecha que ese cabello y el factor de peligro de este baño podrían ser lo mismo."
     },
     "8+bOBw": {
         "ko": "그런 얘기를 왜 이제 해?",
@@ -343,21 +343,21 @@
     },
     "+ebOBw": {
         "ko": "[신사]\n......일리있는 말이네요. 알겠습니다.\n지금부터 손님들께 목욕탕을 개방하겠습니다. 미확인 생물체의 존재가 의심되는 정황과 증언이 있사오니 수색 시에 각별한 주의를 기울이시기 바랍니다.",
-        "en": "[Gentleman]\n...That is a reasonable point. Very well.\nWe will now open the bathhouse to the guests. As there are circumstances and testimonies suggesting the presence of an unidentified being, please exercise utmost caution during the search.",
-        "pt": "[Cavalheiro]\n......É um argumento válido. Muito bem.\nA partir de agora, abriremos o banho aos clientes. Há circunstâncias e testemunhos que indicam a possível presença de uma entidade não identificada, portanto tenham extremo cuidado durante a busca.",
-        "es": "[Gentleman]\n......Tiene sentido. De acuerdo.\nA partir de ahora, abriremos el baño a los huéspedes. Hay indicios y testimonios que hacen sospechar la presencia de una criatura no identificada, así que les rogamos extremar las precauciones durante la búsqueda."
+        "en": "[Body scrubber]\n...That is a reasonable point. Very well.\nWe will now open the bathhouse to the guests. As there are circumstances and testimonies suggesting the presence of an unidentified being, please exercise utmost caution during the search.",
+        "pt": "[Esfoliador]\n......É um argumento válido. Muito bem.\nA partir de agora, abriremos o banho aos clientes. Há circunstâncias e testemunhos que indicam a possível presença de uma entidade não identificada, portanto tenham extremo cuidado durante a busca.",
+        "es": "[Exfoliador]\n......Tiene sentido. De acuerdo.\nA partir de ahora, abriremos el baño a los huéspedes. Hay indicios y testimonios que hacen sospechar la presencia de una criatura no identificada, así que les rogamos extremar las precauciones durante la búsqueda."
     },
     "+ubOBw": {
         "ko": "[신사]\n이용하시는 중에 괴생물체를 목격하시면 섣불리 접촉하지 마시고 주변의 사용인에게 말씀해주십시오.  또한 실종자 발견 시 도움이 필요한 경우에도 말씀해주십시오.",
-        "en": "[Gentleman]\nIf you witness a Mutant Creature while using the facility, do not make contact rashly and inform a nearby attendant. Additionally, please notify us if you require assistance upon discovering the missing person.",
-        "pt": "[Cavalheiro]\nSe, durante o uso, avistarem Criatura Mutante, não se aproximem precipitadamente e informem um funcionário próximo. Caso encontrem o desaparecido e precisem de ajuda, também nos informem.",
-        "es": "[Gentleman]\nSi durante el uso llegan a avistar a Criatura Mutante, no entren en contacto a la ligera y avisen al personal cercano. Asimismo, si al encontrar al desaparecido necesitan ayuda, háganlo saber."
+        "en": "[Body scrubber]\nIf you witness a Mutant Creature while using the facility, do not make contact rashly and inform a nearby attendant. Additionally, please notify us if you require assistance upon discovering the missing person.",
+        "pt": "[Esfoliador]\nSe, durante o uso, avistarem Criatura Mutante, não se aproximem precipitadamente e informem um funcionário próximo. Caso encontrem o desaparecido e precisem de ajuda, também nos informem.",
+        "es": "[Exfoliador]\nSi durante el uso llegan a avistar a Criatura Mutante, no entren en contacto a la ligera y avisen al personal cercano. Asimismo, si al encontrar al desaparecido necesitan ayuda, háganlo saber."
     },
     "++bOBw": {
         "ko": "[신사]\n그럼, 안으로 모시겠습니다.",
-        "en": "[Gentleman]\nThen, allow me to escort you inside.",
-        "pt": "[Cavalheiro]\nEntão, por aqui.",
-        "es": "[Gentleman]\nEntonces, les acompañaré al interior."
+        "en": "[Body scrubber]\nThen, allow me to escort you inside.",
+        "pt": "[Esfoliador]\nEntão, por aqui.",
+        "es": "[Exfoliador]\nEntonces, les acompañaré al interior."
     },
     "/ObOBw": {
         "ko": "자기들끼리 싸우더니 갑자기 결정해버리네.",
@@ -367,9 +367,9 @@
     },
     "/ebOBw": {
         "ko": "[신사]\n참, 입장에 앞서 한 가지 당부 말씀 드리겠습니다. 이곳 대욕장 메디타티오에서는 시설 보호 및 관리를 위해 ^EE0000워터볼 및 성수 생성 등^000000 물을 이용하는 스킬이 금지됩니다.\n이점 양해 부탁드립니다.",
-        "en": "[Gentleman]\nBefore you enter, there is one matter to inform you. At Great Bath Meditatio, in order to protect and maintain the facilities, skills that use water, such as ^EE0000Water Ball and Holy Water Creation^000000, are prohibited.\nWe ask for your understanding.",
-        "pt": "[Cavalheiro]\nAh, antes de entrar, um aviso. Aqui em Grande Banho Meditatio, para proteção e manutenção das instalações, são proibidas habilidades que utilizem água, como ^EE0000Water Ball e Criação de Água Benta^000000.\nContamos com sua compreensão.",
-        "es": "[Gentleman]\nAh, antes de entrar, quisiera pedirles algo. En este Gran Baño Meditatio, para proteger y administrar las instalaciones, están prohibidas las habilidades que usan agua, como ^EE0000Water Ball y Creación de Agua Bendita^000000.\nLes pedimos su comprensión."
+        "en": "[Body scrubber]\nBefore you enter, there is one matter to inform you. At Great Bath Meditatio, in order to protect and maintain the facilities, skills that use water, such as ^EE0000Water Ball and Holy Water Creation^000000, are prohibited.\nWe ask for your understanding.",
+        "pt": "[Esfoliador]\nAh, antes de entrar, um aviso. Aqui em Grande Banho Meditatio, para proteção e manutenção das instalações, são proibidas habilidades que utilizem água, como ^EE0000Water Ball e Criação de Água Benta^000000.\nContamos com sua compreensão.",
+        "es": "[Exfoliador]\nAh, antes de entrar, quisiera pedirles algo. En este Gran Baño Meditatio, para proteger y administrar las instalaciones, están prohibidas las habilidades que usan agua, como ^EE0000Water Ball y Creación de Agua Bendita^000000.\nLes pedimos su comprensión."
     },
     "/ubOBw": {
         "ko": "[마젠타]\n저기... 있잖아, 럭키. 음... 음... 내 말 오해하지 말고 들어. 럭키는 여기 남아 있는 게 좋지 않을까?",
@@ -415,33 +415,33 @@
     },
     "BefOBw": {
         "ko": "[신사]\n안녕하십니까. 편히 이용하시면서 하루의 피로를 푸시기 바랍니다.",
-        "en": "[Gentleman]\nWelcome. Please relax and relieve the fatigue of the day.",
-        "pt": "[Cavalheiro]\nBem-vindos. Relaxem e aliviem o cansaço do dia.",
-        "es": "[Gentleman]\nBuenos días. Por favor, úselo con comodidad y alivie el cansancio del día."
+        "en": "[Body scrubber]\nWelcome. Please relax and relieve the fatigue of the day.",
+        "pt": "[Esfoliador]\nBem-vindos. Relaxem e aliviem o cansaço do dia.",
+        "es": "[Exfoliador]\nBuenos días. Por favor, úselo con comodidad y alivie el cansancio del día."
     },
     "BufOBw": {
         "ko": "^EE0000[※주의 사항※]^000000\n이곳 대욕장 메디타티오에서는 시설 보호 및 관리를 위해 ^EE0000워터볼 및 성수 생성 등^000000 물을 이용하는 스킬이 금지됩니다.",
-        "en": "^EE0000[※Notice※]^000000\nAt Great Bath Meditatio, in order to protect and maintain the facilities, skills that use water, such as ^EE0000Water Ball and Holy Water Creation^000000, are prohibited.",
-        "pt": "^EE0000[※Aviso※]^000000\nAqui em Grande Banho Meditatio, para proteção e manutenção das instalações, são proibidas habilidades que utilizem água, como ^EE0000Water Ball e Criação de Água Benta^000000.",
-        "es": "^EE0000[※Precauciones※]^000000\nEn este Gran Baño Meditatio, para proteger y administrar las instalaciones, están prohibidas las habilidades que usan agua, como ^EE0000Water Ball y Creación de Agua Bendita^000000."
+        "en": "^EE0000[*Notice*]^000000\nAt Great Bath Meditatio, in order to protect and maintain the facilities, skills that use water, such as ^EE0000Water Ball and Holy Water Creation^000000, are prohibited.",
+        "pt": "^EE0000[*Aviso*]^000000\nAqui em Grande Banho Meditatio, para proteção e manutenção das instalações, são proibidas habilidades que utilizem água, como ^EE0000Water Ball e Criação de Água Benta^000000.",
+        "es": "^EE0000[*Precauciones*]^000000\nEn este Gran Baño Meditatio, para proteger y administrar las instalaciones, están prohibidas las habilidades que usan agua, como ^EE0000Water Ball y Creación de Agua Bendita^000000."
     },
     "B+fOBw": {
         "ko": "[신사]\n안으로 드셔서 계속해서 이야기를 나누셨으면합니다.",
-        "en": "[Gentleman]\nPlease proceed inside and continue your discussion.",
-        "pt": "[Cavalheiro]\nEntrem e continuem a conversa lá dentro.",
-        "es": "[Gentleman]\nPor favor, entren y continúen conversando."
+        "en": "[Body scrubber]\nPlease proceed inside and continue your discussion.",
+        "pt": "[Esfoliador]\nEntrem e continuem a conversa lá dentro.",
+        "es": "[Exfoliador]\nPor favor, entren y continúen conversando."
     },
     "COfOBw": {
         "ko": "[신사]\n어서 <NAVI>[안으로]<INFO>ba_bath,165,43,0,101,0</INFO></NAVI> 드십시오. 이용하시는 중에 괴생물체를 목격하시면 섣불리 접촉하지 마시고 주변의 사용인에게 말씀해주십시오.",
-        "en": "[Gentleman]\nPlease <NAVI>[Inside]<INFO>ba_bath,165,43,0,101,0</INFO></NAVI>. If you witness a Mutant Creature while using the facility, do not make contact rashly and inform a nearby attendant.",
-        "pt": "[Cavalheiro]\nPor favor, entrem <NAVI>[Para dentro]<INFO>ba_bath,165,43,0,101,0</INFO></NAVI>. Se, durante o uso, avistarem Criatura Mutante, não se aproximem precipitadamente e informem um funcionário próximo.",
-        "es": "[Gentleman]\nPor favor, entren <NAVI>[Adentro]<INFO>ba_bath,165,43,0,101,0</INFO></NAVI>. Si durante su uso llegan a avistar a una Criatura Mutante, no intenten acercarse imprudentemente y avisen al personal cercano."
+        "en": "[Body scrubber]\nPlease <NAVI>[Inside]<INFO>ba_bath,165,43,0,101,0</INFO></NAVI>. If you witness a Mutant Creature while using the facility, do not make contact rashly and inform a nearby attendant.",
+        "pt": "[Esfoliador]\nPor favor, entrem <NAVI>[Para dentro]<INFO>ba_bath,165,43,0,101,0</INFO></NAVI>. Se, durante o uso, avistarem Criatura Mutante, não se aproximem precipitadamente e informem um funcionário próximo.",
+        "es": "[Exfoliador]\nPor favor, entren <NAVI>[Adentro]<INFO>ba_bath,165,43,0,101,0</INFO></NAVI>. Si durante su uso llegan a avistar a una Criatura Mutante, no intenten acercarse imprudentemente y avisen al personal cercano."
     },
     "CefOBw": {
         "ko": "[신사]\n죄송합니다만 현재 목욕탕은 내부 상황으로 폐쇄되었으며 정상화 시각은 기약을 드릴 수가 없습니다. 차후에 다시 찾아주시길 부탁드리겠습니다.\n조용한 목욕을 원하면 객실에 딸린 개인 욕실을 이용하십시오.",
-        "en": "[Gentleman]\nWe apologize, but the bathhouse is currently closed due to internal circumstances, and we cannot provide an estimated time for normalization. We kindly ask that you visit again at a later date.\nIf you desire a quiet bath, please use the private bathroom attached to your room.",
-        "pt": "[Cavalheiro]\nPedimos desculpas, mas o banho está temporariamente fechado devido a circunstâncias internas, e não podemos informar quando será normalizado. Pedimos que retornem em outra ocasião.\nSe desejarem um banho tranquilo, utilizem o banheiro privativo do quarto.",
-        "es": "[Gentleman]\nLo siento, pero actualmente el baño público está cerrado por la situación interna, y no podemos prometer una hora de normalización. Les rogamos que vuelvan más adelante.\nSi desean un baño tranquilo, utilicen el baño privado adjunto a la habitación."
+        "en": "[Body scrubber]\nWe apologize, but the bathhouse is currently closed due to internal circumstances, and we cannot provide an estimated time for normalization. We kindly ask that you visit again at a later date.\nIf you desire a quiet bath, please use the private bathroom attached to your room.",
+        "pt": "[Esfoliador]\nPedimos desculpas, mas o banho está temporariamente fechado devido a circunstâncias internas, e não podemos informar quando será normalizado. Pedimos que retornem em outra ocasião.\nSe desejarem um banho tranquilo, utilizem o banheiro privativo do quarto.",
+        "es": "[Exfoliador]\nLo siento, pero actualmente el baño público está cerrado por la situación interna, y no podemos prometer una hora de normalización. Les rogamos que vuelvan más adelante.\nSi desean un baño tranquilo, utilicen el baño privado adjunto a la habitación."
     },
     "CufOBw": {
         "ko": "보일러",
@@ -505,9 +505,9 @@
     },
     "FOfOBw": {
         "ko": "[신사]\n어서 오십시오. 일행분은 벌써 와계십니다.",
-        "en": "[Gentleman]\nWelcome. Your companions have already arrived.",
-        "pt": "[Cavalheiro]\nSeja bem-vindo. Seu grupo já está aqui.",
-        "es": "[Gentleman]\nBienvenido. Su grupo ya ha llegado."
+        "en": "[Body scrubber]\nWelcome. Your companions have already arrived.",
+        "pt": "[Esfoliador]\nSeja bem-vindo. Seu grupo já está aqui.",
+        "es": "[Exfoliador]\nBienvenido. Su grupo ya ha llegado."
     },
     "FefOBw": {
         "ko": "[루키]\n모두 모였지? 2인 1조로 위험물 탐색 및 실종자 수색 절차를 따르면 돼. 발견 시 신호를 보내고 집결지는 휴게실이야.",
@@ -613,13 +613,13 @@
     },
     "JufOBw": {
         "ko": "[루키]\n그러실래요? 저는 여기서 신사님께 설계도를 받을게요. 모험가님은 <NAVI>[보일러실]<INFO>ba_bath,286,68,0,101,0</INFO></NAVI>로 가셔서 보일러 작동을 중지해달라고 해주세요. 곧 따라갈게요.",
-        "en": "[Rookie]\nWill you? I will receive the blueprints from the gentleman here. Please head to the <NAVI>[Boiler Room]<INFO>ba_bath,286,68,0,101,0</INFO></NAVI> and ask them to stop the Boiler. I will follow shortly.",
+        "en": "[Rookie]\nWill you? I will receive the blueprints from the Body scrubber here. Please head to the <NAVI>[Boiler Room]<INFO>ba_bath,286,68,0,101,0</INFO></NAVI> and ask them to stop the Boiler. I will follow shortly.",
         "pt": "[Rookie]\nVai mesmo? Eu ficarei aqui para receber a planta do senhor. Aventureiro, vá até <NAVI>[Sala da Caldeira]<INFO>ba_bath,286,68,0,101,0</INFO></NAVI> e peça para interromper a operação de Caldeira. Eu irei logo em seguida.",
         "es": "[Rookie]\n¿Lo hará? Yo me quedaré aquí para recibir los planos del caballero. Usted vaya a <NAVI>[sala de calderas]<INFO>ba_bath,286,68,0,101,0</INFO></NAVI> y pida que detengan el funcionamiento de Caldera. Iré enseguida."
     },
     "J+fOBw": {
         "ko": "[루키]\n저는 여기서 신사님께 설계도를 받을게요. 모험가님은 <NAVI>[보일러실]<INFO>ba_bath,286,68,0,101,0</INFO></NAVI>로 가셔서 보일러 작동을 중지해달라고 해주세요. 곧 따라갈게요.",
-        "en": "[Rookie]\nI will receive the blueprints from the gentleman here. Please head to the <NAVI>[Boiler Room]<INFO>ba_bath,286,68,0,101,0</INFO></NAVI> and ask them to stop the Boiler. I will follow shortly.",
+        "en": "[Rookie]\nI will receive the blueprints from the Body scrubber here. Please head to the <NAVI>[Boiler Room]<INFO>ba_bath,286,68,0,101,0</INFO></NAVI> and ask them to stop the Boiler. I will follow shortly.",
         "pt": "[Rookie]\nFicarei aqui para receber a planta do senhor. Aventureiro, vá até <NAVI>[Sala da Caldeira]<INFO>ba_bath,286,68,0,101,0</INFO></NAVI> e peça para interromper a operação de Caldeira. Eu irei logo em seguida.",
         "es": "[Rookie]\nYo me quedaré aquí para recibir los planos del caballero. Usted vaya a <NAVI>[sala de calderas]<INFO>ba_bath,286,68,0,101,0</INFO></NAVI> y pida que detengan el funcionamiento de Caldera. Iré enseguida."
     },
@@ -631,9 +631,9 @@
     },
     "KefOBw": {
         "ko": "[신사]\n그렇게 말씀하셔도 저는 더 드릴 말씀이 없습니다.",
-        "en": "[Gentleman]\nEven if you say that, I have nothing further to add.",
-        "pt": "[Cavalheiro]\nMesmo que diga isso, não tenho mais nada a acrescentar.",
-        "es": "[Gentleman]\nAunque me lo diga así, no tengo nada más que añadir."
+        "en": "[Body scrubber]\nEven if you say that, I have nothing further to add.",
+        "pt": "[Esfoliador]\nMesmo que diga isso, não tenho mais nada a acrescentar.",
+        "es": "[Exfoliador]\nAunque me lo diga así, no tengo nada más que añadir."
     },
     "KufOBw": {
         "ko": "[루키]\n어? 모험가님? 보일러는 중지 된 거 같은데, 어디 가세요?",
@@ -691,39 +691,39 @@
     },
     "M+fOBw": {
         "ko": "[신사]\n일행분은 <NAVI>[휴게실]<INFO>ba_bath,203,58,0,101,0</INFO></NAVI>로 가셨습니다.",
-        "en": "[Gentleman]\nYour companions have gone to the <NAVI>[Lounge]<INFO>ba_bath,203,58,0,101,0</INFO></NAVI>.",
-        "pt": "[Cavalheiro]\nSeu grupo foi para <NAVI>[Sala de Descanso]<INFO>ba_bath,203,58,0,101,0</INFO></NAVI>.",
-        "es": "[Gentleman]\nSu acompañante fue a <NAVI>[sala de descanso]<INFO>ba_bath,203,58,0,101,0</INFO></NAVI>."
+        "en": "[Body scrubber]\nYour companions have gone to the <NAVI>[Lounge]<INFO>ba_bath,203,58,0,101,0</INFO></NAVI>.",
+        "pt": "[Esfoliador]\nSeu grupo foi para <NAVI>[Sala de Descanso]<INFO>ba_bath,203,58,0,101,0</INFO></NAVI>.",
+        "es": "[Exfoliador]\nSu acompañante fue a <NAVI>[sala de descanso]<INFO>ba_bath,203,58,0,101,0</INFO></NAVI>."
     },
     "NOfOBw": {
         "ko": "[신사]\n괴생물체 수색은 잘 되어가고 있습니까?",
-        "en": "[Gentleman]\nIs the search for the Mutant Creature proceeding well?",
-        "pt": "[Cavalheiro]\nA busca por Criatura Mutante está progredindo bem?",
-        "es": "[Gentleman]\n¿La búsqueda de Criatura Mutante va bien?"
+        "en": "[Body scrubber]\nIs the search for the Mutant Creature proceeding well?",
+        "pt": "[Esfoliador]\nA busca por Criatura Mutante está progredindo bem?",
+        "es": "[Exfoliador]\n¿La búsqueda de Criatura Mutante va bien?"
     },
     "NefOBw": {
         "ko": "[신사]\n작전을 수행하는 중 아니십니까?",
-        "en": "[Gentleman]\nAre you not in the midst of carrying out your operation?",
-        "pt": "[Cavalheiro]\nNão está executando a operação?",
-        "es": "[Gentleman]\n¿No está en medio de la operación?"
+        "en": "[Body scrubber]\nAre you not in the midst of carrying out your operation?",
+        "pt": "[Esfoliador]\nNão está executando a operação?",
+        "es": "[Exfoliador]\n¿No está en medio de la operación?"
     },
     "NufOBw": {
         "ko": "[신사]\n지금은 청소 중입니다. 청소 종료 후 다시 찾아 주십시오.",
-        "en": "[Gentleman]\nCleaning is currently in progress. Please return after it has been completed.",
-        "pt": "[Cavalheiro]\nNo momento estamos realizando a limpeza. Retorne após a conclusão.",
-        "es": "[Gentleman]\nAhora estamos limpiando. Vuelva a visitarnos cuando termine la limpieza."
+        "en": "[Body scrubber]\nCleaning is currently in progress. Please return after it has been completed.",
+        "pt": "[Esfoliador]\nNo momento estamos realizando a limpeza. Retorne após a conclusão.",
+        "es": "[Exfoliador]\nAhora estamos limpiando. Vuelva a visitarnos cuando termine la limpieza."
     },
     "N+fOBw": {
         "ko": "[신사]\n청소에 힘쓰셨군요. 입욕제 효과를 드리겠습니다.",
-        "en": "[Gentleman]\nYou have worked hard on the cleaning. I shall grant you the effect of Bath Additive.",
-        "pt": "[Cavalheiro]\nVejo que se dedicou à limpeza. Concederei o efeito de Aditivo de Banho.",
-        "es": "[Gentleman]\nSe ha esforzado en la limpieza. Le concederé el efecto de Aditivo de Baño."
+        "en": "[Body scrubber]\nYou have worked hard on the cleaning. I shall grant you the effect of Bath Additive.",
+        "pt": "[Esfoliador]\nVejo que se dedicou à limpeza. Concederei o efeito de Aditivo de Banho.",
+        "es": "[Exfoliador]\nSe ha esforzado en la limpieza. Le concederé el efecto de Aditivo de Baño."
     },
     "OOfOBw": {
         "ko": "[신사]\n청소에 힘쓰셨군요. 입욕제 효과를 드릴까 하는데 이미 이전 효과가 남아있습니다만, 어떻게 할까요?",
-        "en": "[Gentleman]\nYou have worked hard on the cleaning. I shall grant you the effect of Bath Additive, though the previous effect still remains. What would you like to do?",
-        "pt": "[Cavalheiro]\nVejo que se dedicou à limpeza. Posso conceder o efeito de Aditivo de Banho, mas o efeito anterior ainda está ativo. O que deseja fazer?",
-        "es": "[Gentleman]\nSe ha esmerado en la limpieza. Quisiera darle el efecto de Aditivo de Baño, pero aún le queda el efecto anterior. ¿Qué desea hacer?"
+        "en": "[Body scrubber]\nYou have worked hard on the cleaning. I shall grant you the effect of Bath Additive, though the previous effect still remains. What would you like to do?",
+        "pt": "[Esfoliador]\nVejo que se dedicou à limpeza. Posso conceder o efeito de Aditivo de Banho, mas o efeito anterior ainda está ativo. O que deseja fazer?",
+        "es": "[Exfoliador]\nSe ha esmerado en la limpieza. Quisiera darle el efecto de Aditivo de Baño, pero aún le queda el efecto anterior. ¿Qué desea hacer?"
     },
     "OefOBw": {
         "ko": "잠시 후에 올게요.",
@@ -739,75 +739,75 @@
     },
     "O+fOBw": {
         "ko": "[신사]\n알겠습니다. 입욕제 효과를 드릴 수 있는 시간은 그리 길지 않으니 이용에 참고하십시오.",
-        "en": "[Gentleman]\nVery well. Please note that the duration of the Bath Additive effect is not very long.",
-        "pt": "[Cavalheiro]\nEntendido. O tempo de duração do efeito de Aditivo de Banho não é muito longo, tenha isso em mente.",
-        "es": "[Gentleman]\nEntendido. El tiempo durante el cual puedo darle el efecto de Aditivo de Baño no es muy largo, así que téngalo en cuenta al usarlo."
+        "en": "[Body scrubber]\nVery well. Please note that the duration of the Bath Additive effect is not very long.",
+        "pt": "[Esfoliador]\nEntendido. O tempo de duração do efeito de Aditivo de Banho não é muito longo, tenha isso em mente.",
+        "es": "[Exfoliador]\nEntendido. El tiempo durante el cual puedo darle el efecto de Aditivo de Baño no es muy largo, así que téngalo en cuenta al usarlo."
     },
     "POfOBw": {
         "ko": "[신사]\n알겠습니다. 청소 후에 또 이용해주십시오.",
-        "en": "[Gentleman]\nUnderstood. Please make use of it again after cleaning.",
-        "pt": "[Cavalheiro]\nEntendido. Utilize novamente após a próxima limpeza.",
-        "es": "[Gentleman]\nEntendido. Vuelva a utilizarlo después de la limpieza."
+        "en": "[Body scrubber]\nUnderstood. Please make use of it again after cleaning.",
+        "pt": "[Esfoliador]\nEntendido. Utilize novamente após a próxima limpeza.",
+        "es": "[Exfoliador]\nEntendido. Vuelva a utilizarlo después de la limpieza."
     },
     "PefOBw": {
         "ko": "[신사]\n욕탕 청소에 애를 많이 쓰셨군요. 입욕제 효과를 드리겠습니다.",
-        "en": "[Gentleman]\nYou have put great effort into cleaning the bath. I shall grant you the effect of Bath Additive.",
-        "pt": "[Cavalheiro]\nVocê se empenhou bastante na limpeza do banho. Concederei o efeito de Aditivo de Banho.",
-        "es": "[Gentleman]\nSe ha esforzado mucho en la limpieza del baño. Le daré el efecto de Aditivo de Baño."
+        "en": "[Body scrubber]\nYou have put great effort into cleaning the bath. I shall grant you the effect of Bath Additive.",
+        "pt": "[Esfoliador]\nVocê se empenhou bastante na limpeza do banho. Concederei o efeito de Aditivo de Banho.",
+        "es": "[Exfoliador]\nSe ha esforzado mucho en la limpieza del baño. Le daré el efecto de Aditivo de Baño."
     },
     "PufOBw": {
         "ko": "[신사]\n욕탕 청소에 애를 많이 쓰셨군요. 입욕제 효과를 드릴까 하는데 이미 이전 효과가 남아있습니다만, 어떻게 할까요?",
-        "en": "[Gentleman]\nYou have put great effort into cleaning the bath. I shall grant you the effect of Bath Additive, though the previous effect still remains. What would you like to do?",
-        "pt": "[Cavalheiro]\nVocê se empenhou bastante na limpeza do banho. Posso conceder o efeito de Aditivo de Banho, mas o efeito anterior ainda está ativo. O que deseja fazer?",
-        "es": "[Gentleman]\nSe ha esforzado mucho en la limpieza del baño. Quisiera darle el efecto de Aditivo de Baño, pero aún le queda el efecto anterior. ¿Qué desea hacer?"
+        "en": "[Body scrubber]\nYou have put great effort into cleaning the bath. I shall grant you the effect of Bath Additive, though the previous effect still remains. What would you like to do?",
+        "pt": "[Esfoliador]\nVocê se empenhou bastante na limpeza do banho. Posso conceder o efeito de Aditivo de Banho, mas o efeito anterior ainda está ativo. O que deseja fazer?",
+        "es": "[Exfoliador]\nSe ha esforzado mucho en la limpieza del baño. Quisiera darle el efecto de Aditivo de Baño, pero aún le queda el efecto anterior. ¿Qué desea hacer?"
     },
     "P+fOBw": {
         "ko": "[신사]\n욕탕 청소에 힘을 많이 쓰셨군요. 덕분에 목욕탕이 매우 깨끗해졌습니다. 입욕제 효과를 드리겠습니다.",
-        "en": "[Gentleman]\nYou have exerted much effort in cleaning the bath. Thanks to you, the bathhouse is now very clean. I shall grant you the effect of Bath Additive.",
-        "pt": "[Cavalheiro]\nVocê se esforçou muito na limpeza do banho. Graças a isso, ele está extremamente limpo. Concederei o efeito de Aditivo de Banho.",
-        "es": "[Gentleman]\nSe ha esforzado mucho en la limpieza del baño. Gracias a usted, el baño ha quedado muy limpio. Le daré el efecto de Aditivo de Baño."
+        "en": "[Body scrubber]\nYou have exerted much effort in cleaning the bath. Thanks to you, the bathhouse is now very clean. I shall grant you the effect of Bath Additive.",
+        "pt": "[Esfoliador]\nVocê se esforçou muito na limpeza do banho. Graças a isso, ele está extremamente limpo. Concederei o efeito de Aditivo de Banho.",
+        "es": "[Exfoliador]\nSe ha esforzado mucho en la limpieza del baño. Gracias a usted, el baño ha quedado muy limpio. Le daré el efecto de Aditivo de Baño."
     },
     "QOfOBw": {
         "ko": "[신사]\n욕탕 청소에 힘을 많이 쓰셨군요. 덕분에 목욕탕이 매우 깨끗해졌습니다. 입욕제 효과를 드릴까 하는데 이미 이전 효과가 남아있습니다만, 어떻게 할까요?",
-        "en": "[Gentleman]\nYou have exerted much effort in cleaning the bath. Thanks to you, the bathhouse is now very clean. I shall grant you the effect of Bath Additive, though the previous effect still remains. What would you like to do?",
-        "pt": "[Cavalheiro]\nVocê se esforçou muito na limpeza do banho. Graças a isso, ele está extremamente limpo. Posso conceder o efeito de Aditivo de Banho, mas o efeito anterior ainda está ativo. O que deseja fazer?",
-        "es": "[Gentleman]\nSe ha esforzado mucho en la limpieza del baño. Gracias a usted, el baño ha quedado muy limpio. Quisiera darle el efecto de Aditivo de Baño, pero aún le queda el efecto anterior. ¿Qué desea hacer?"
+        "en": "[Body scrubber]\nYou have exerted much effort in cleaning the bath. Thanks to you, the bathhouse is now very clean. I shall grant you the effect of Bath Additive, though the previous effect still remains. What would you like to do?",
+        "pt": "[Esfoliador]\nVocê se esforçou muito na limpeza do banho. Graças a isso, ele está extremamente limpo. Posso conceder o efeito de Aditivo de Banho, mas o efeito anterior ainda está ativo. O que deseja fazer?",
+        "es": "[Exfoliador]\nSe ha esforzado mucho en la limpieza del baño. Gracias a usted, el baño ha quedado muy limpio. Quisiera darle el efecto de Aditivo de Baño, pero aún le queda el efecto anterior. ¿Qué desea hacer?"
     },
     "QefOBw": {
         "ko": "[신사]\n죄송합니다만 지금은 입욕제 효과를 드릴 수 없습니다. 청소가 끝난 후에 다시 찾아 주십시오. 그밖에 목욕탕 이용에 불편은 없으십니까?",
-        "en": "[Gentleman]\nWe apologize, but we cannot grant the Bath Additive effect at this time. Please return after the cleaning has been completed. Is there any other inconvenience in using the bathhouse?",
-        "pt": "[Cavalheiro]\nLamento, mas no momento não posso conceder o efeito de Aditivo de Banho. Retorne após a conclusão da limpeza. Há algum inconveniente no uso do banho?",
-        "es": "[Gentleman]\nLo siento, pero ahora no puedo darle el efecto de Aditivo de Baño. Vuelva a visitarnos cuando termine la limpieza. ¿Tiene algún inconveniente al usar el baño?"
+        "en": "[Body scrubber]\nWe apologize, but we cannot grant the Bath Additive effect at this time. Please return after the cleaning has been completed. Is there any other inconvenience in using the bathhouse?",
+        "pt": "[Esfoliador]\nLamento, mas no momento não posso conceder o efeito de Aditivo de Banho. Retorne após a conclusão da limpeza. Há algum inconveniente no uso do banho?",
+        "es": "[Exfoliador]\nLo siento, pero ahora no puedo darle el efecto de Aditivo de Baño. Vuelva a visitarnos cuando termine la limpieza. ¿Tiene algún inconveniente al usar el baño?"
     },
     "QufOBw": {
         "ko": "[신사]\n목욕탕 이용에 불편은 없으십니까?",
-        "en": "[Gentleman]\nIs there any inconvenience in using the bathhouse?",
-        "pt": "[Cavalheiro]\nHá algum inconveniente no uso do banho?",
-        "es": "[Gentleman]\n¿Tiene algún inconveniente al usar el baño?"
+        "en": "[Body scrubber]\nIs there any inconvenience in using the bathhouse?",
+        "pt": "[Esfoliador]\nHá algum inconveniente no uso do banho?",
+        "es": "[Exfoliador]\n¿Tiene algún inconveniente al usar el baño?"
     },
     "Q+fOBw": {
         "ko": "[신사]\n바르문트 저택의 이 목욕탕은 오래전부터 아주 유명했습니다. 바르문트님은 고단한 하루의 끝에 휴식을 취하는 것을 무척 중요하게 여기시는 분이었습니다.",
-        "en": "[Gentleman]\nThis bathhouse of Varmundt Mansion has been renowned since long ago. Lord Varmundt greatly valued taking rest at the end of a weary day.",
-        "pt": "[Cavalheiro]\nEste banho da Mansão Varmundt é famoso há muito tempo. O senhor Varmundt valorizava profundamente o descanso ao final de um dia exaustivo.",
-        "es": "[Gentleman]\nEste baño de la mansión Varmundt ha sido muy famoso desde hace mucho tiempo. El señor Varmundt era alguien que consideraba muy importante descansar al final de un día agotador."
+        "en": "[Body scrubber]\nThis bathhouse of Varmundt Mansion has been renowned since long ago. Lord Varmundt greatly valued taking rest at the end of a weary day.",
+        "pt": "[Esfoliador]\nEste banho da Mansão Varmundt é famoso há muito tempo. O senhor Varmundt valorizava profundamente o descanso ao final de um dia exaustivo.",
+        "es": "[Exfoliador]\nEste baño de la mansión Varmundt ha sido muy famoso desde hace mucho tiempo. El señor Varmundt era alguien que consideraba muy importante descansar al final de un día agotador."
     },
     "ROfOBw": {
         "ko": "[신사]\n하루의 피로를 풀고 내일의 에너지를 얻고, 생각을 정리하고, 혈액순환에도 좋고 수분 보충을 하기에도 좋은 목욕 시간을 좋아하셨습니다.",
-        "en": "[Gentleman]\nHe enjoyed bath time to relieve the fatigue of the day, gain energy for tomorrow, organize his thoughts, improve blood circulation, and replenish moisture.",
-        "pt": "[Cavalheiro]\nEle apreciava o momento do banho para aliviar o cansaço do dia, renovar as energias para o amanhã, organizar os pensamentos, melhorar a circulação sanguínea e também para hidratação.",
-        "es": "[Gentleman]\nLe gustaba el tiempo de baño, que sirve para aliviar el cansancio del día y obtener energía para mañana, ordenar los pensamientos, mejorar la circulación sanguínea y también reponer líquidos."
+        "en": "[Body scrubber]\nHe enjoyed bath time to relieve the fatigue of the day, gain energy for tomorrow, organize his thoughts, improve blood circulation, and replenish moisture.",
+        "pt": "[Esfoliador]\nEle apreciava o momento do banho para aliviar o cansaço do dia, renovar as energias para o amanhã, organizar os pensamentos, melhorar a circulação sanguínea e também para hidratação.",
+        "es": "[Exfoliador]\nLe gustaba el tiempo de baño, que sirve para aliviar el cansancio del día y obtener energía para mañana, ordenar los pensamientos, mejorar la circulación sanguínea y también reponer líquidos."
     },
     "RefOBw": {
         "ko": "[신사]\n곳곳의 목욕 방법에도 관심이 많아 욕탕을 증설하다 보니 이런 대규모의 욕장이 되었습니다. 때문에 저택을 방문한 손님들께도 이용해 보시곤 이 목욕탕의 시설에 칭찬을 아끼지 않으셨습니다.",
-        "en": "[Gentleman]\nHe took great interest in bathing methods from various places, and while expanding the baths, it became such a large bathing facility as this, Bonnie. He would often recommend it to guests visiting the mansion and never spared praise for its facilities.",
-        "pt": "[Cavalheiro]\nInteressado em diversos métodos de banho, ampliou as instalações até que Bonnie se tornasse um grande complexo como este. Por isso, ao convidar os visitantes da mansão a utilizarem o banho, não poupava elogios às instalações.",
-        "es": "[Gentleman]\nTambién se interesaba mucho por los métodos de baño de distintos lugares, y al ampliar las bañeras, Bonnie se convirtió en un baño de esta gran escala. Por eso, también hacía que los invitados que visitaban la mansión lo usaran, y no escatimaba elogios para las instalaciones de este baño."
+        "en": "[Body scrubber]\nHe took great interest in bathing methods from various places, and while expanding the baths, it became such a large bathing facility as this, Bonnie. He would often recommend it to guests visiting the mansion and never spared praise for its facilities.",
+        "pt": "[Esfoliador]\nInteressado em diversos métodos de banho, ampliou as instalações até que Bonnie se tornasse um grande complexo como este. Por isso, ao convidar os visitantes da mansão a utilizarem o banho, não poupava elogios às instalações.",
+        "es": "[Exfoliador]\nTambién se interesaba mucho por los métodos de baño de distintos lugares, y al ampliar las bañeras, Bonnie se convirtió en un baño de esta gran escala. Por eso, también hacía que los invitados que visitaban la mansión lo usaran, y no escatimaba elogios para las instalaciones de este baño."
     },
     "RufOBw": {
         "ko": "[신사]\n그 때문에 이 저택의 목욕탕은 굉장히 유명해졌지요. 이 유서 깊은 목욕탕에서 부디 피로를 모두 풀고 가시길 바라겠습니다.",
-        "en": "[Gentleman]\nAs a result, the bathhouse of this mansion became very famous. We hope you will relieve all your fatigue in this historic bathhouse.",
-        "pt": "[Cavalheiro]\nAssim, o banho desta mansão tornou-se extremamente famoso. Esperamos que alivie todo o seu cansaço neste histórico estabelecimento.",
-        "es": "[Gentleman]\nPor eso, el baño de esta mansión se hizo sumamente famoso. Espero que en este baño de tanta historia pueda aliviar por completo su fatiga antes de marcharse."
+        "en": "[Body scrubber]\nAs a result, the bathhouse of this mansion became very famous. We hope you will relieve all your fatigue in this historic bathhouse.",
+        "pt": "[Esfoliador]\nAssim, o banho desta mansão tornou-se extremamente famoso. Esperamos que alivie todo o seu cansaço neste histórico estabelecimento.",
+        "es": "[Exfoliador]\nPor eso, el baño de esta mansión se hizo sumamente famoso. Espero que en este baño de tanta historia pueda aliviar por completo su fatiga antes de marcharse."
     },
     "R+fOBw": {
         "ko": "[보일러]\n어어, 인간 손님들은 여기 함부로 들어 오면 안 되는데. 내구성이 좋지 않던데.",
@@ -1903,8 +1903,8 @@
     },
     "/efOBw": {
         "ko": "[루키]\n나는 계속해서 신사씨와 같이 있었어. 저기 저 모험가님도 그 가짜와 마주쳐서 호수까지 다녀올 뻔했는데.\n여러 상황을 보아 그건 지성이 있는 생명체이고 우리를 해칠 생각은 없어. 우리를 단지 이곳에서 내보내려 하고 있어. 고니가 무사할 가능성도 높아",
-        "en": "[Rookie]\nI was with the gentleman the entire time. That adventurer over there almost followed the fake all the way to the lake.\nJudging by the circumstances, it's an intelligent life-form and doesn't intend to harm us. It's simply trying to drive us out of here. There's a high chance that Goni is safe as well.",
-        "pt": "[Rookie]\nEu estive o tempo todo com o cavalheiro. Até o Aventureiro ali quase foi até o lago depois de encontrar o falso.\nPelas circunstâncias, é um ser inteligente e não pretende nos ferir. Apenas está tentando nos expulsar daqui. Há grande chance de que Goni esteja a salvo.",
+        "en": "[Rookie]\nI was with the masseur the entire time. That adventurer over there almost followed the fake all the way to the lake.\nJudging by the circumstances, it's an intelligent life-form and doesn't intend to harm us. It's simply trying to drive us out of here. There's a high chance that Goni is safe as well.",
+        "pt": "[Rookie]\nEu estive o tempo todo com o Esfoliador. Até o Aventureiro ali quase foi até o lago depois de encontrar o falso.\nPelas circunstâncias, é um ser inteligente e não pretende nos ferir. Apenas está tentando nos expulsar daqui. Há grande chance de que Goni esteja a salvo.",
         "es": "[Rookie]\nYo estuve todo el tiempo con el señor sacerdote. Y ese aventurero de allí también se topó con ese impostor y casi va y vuelve del lago.\nPor varias circunstancias, eso es un ser vivo con inteligencia y no pretende hacernos daño. Solo intenta sacarnos de este lugar. También es muy probable que Goni esté a salvo."
     },
     "/ufOBw": {
@@ -2431,9 +2431,9 @@
     },
     "VejOBw": {
         "ko": "[신사]\n무슨 소란입니까. 혹시 사고라도...\n고니님이 두 분...? 그럼 혹시 {0}님께서 말씀하셨던 것이 이것입니까?",
-        "en": "[Gentleman]\nWhat is all this commotion? Could it be an accident...\nTwo Goni...? Then is this what {0} mentioned?",
-        "pt": "[Cavalheiro]\nQue alvoroço é esse? Aconteceu algum incidente...\nDois senhores Goni...? Então seria isto que {0} mencionou?",
-        "es": "[Gentleman]\n¿Qué alboroto es este? ¿Ha ocurrido algún accidente...?\n¿El señor Goni con dos personas...? Entonces, ¿acaso esto es de lo que habló {0}?"
+        "en": "[Body scrubber]\nWhat is all this commotion? Could it be an accident...\nTwo Goni...? Then is this what {0} mentioned?",
+        "pt": "[Esfoliador]\nQue alvoroço é esse? Aconteceu algum incidente...\nDois senhores Goni...? Então seria isto que {0} mencionou?",
+        "es": "[Exfoliador]\n¿Qué alboroto es este? ¿Ha ocurrido algún accidente...?\n¿El señor Goni con dos personas...? Entonces, ¿acaso esto es de lo que habló {0}?"
     },
     "VujOBw": {
         "ko": "이런... 자동인형까지...",
@@ -2449,9 +2449,9 @@
     },
     "WOjOBw": {
         "ko": "[신사]\n잠시만 기다려주십시오. 제가 상대하겠습니다.\n당신은 누구십니까? 신원을 밝히십시오. 왜 이곳에서 주인님의 손님들을 괴롭히고 있습니까?",
-        "en": "[Gentleman]\nPlease wait a moment. I shall handle this.\nWho are you? State your identity. Why are you harassing my master's guests here?",
-        "pt": "[Cavalheiro]\nAguardem um momento. Eu cuidarei disso.\nQuem é você? Identifique-se. Por que está perturbando os convidados de nosso senhor?",
-        "es": "[Gentleman]\nEspere un momento. Yo me encargaré.\n¿Quién es usted? Identifíquese. ¿Por qué está molestando aquí a los invitados del amo?"
+        "en": "[Body scrubber]\nPlease wait a moment. I shall handle this.\nWho are you? State your identity. Why are you harassing my master's guests here?",
+        "pt": "[Esfoliador]\nAguardem um momento. Eu cuidarei disso.\nQuem é você? Identifique-se. Por que está perturbando os convidados de nosso senhor?",
+        "es": "[Exfoliador]\nEspere un momento. Yo me encargaré.\n¿Quién es usted? Identifíquese. ¿Por qué está molestando aquí a los invitados del amo?"
     },
     "WejOBw": {
         "ko": "[루키]\n잠깐만요, 그런데 계속 그 모습으로 대화하실 겁니까? 헷갈리니까 원래 모습으로 대화하는 편이 좋지 않겠어요?",
@@ -2491,9 +2491,9 @@
     },
     "X+jOBw": {
         "ko": "[신사]\n당신이 정말 주인님, 그러니까 바르문트님의 손님이시라고요? 그렇다면 성함을 알려주십시오.",
-        "en": "[Gentleman]\nYou claim to be our master's guest—Lord Varmundt's guest? If so, please state your name.",
-        "pt": "[Cavalheiro]\nAlega ser realmente convidada de nosso senhor, Varmundt? Então diga seu nome.",
-        "es": "[Gentleman]\n¿De verdad usted es un invitado del amo, es decir, del señor Varmundt? Entonces, dígame su nombre."
+        "en": "[Body scrubber]\nYou claim to be our master's guest—Lord Varmundt's guest? If so, please state your name.",
+        "pt": "[Esfoliador]\nAlega ser realmente convidada de nosso senhor, Varmundt? Então diga seu nome.",
+        "es": "[Exfoliador]\n¿De verdad usted es un invitado del amo, es decir, del señor Varmundt? Entonces, dígame su nombre."
     },
     "YOjOBw": {
         "ko": "[??????]\n자기 소개시간이오? 이곳의 사람들은 친교를 나누기 위해 먼저 자기 소개를 한다고 들었소. 나는 공주라 하오. 청금에서 왔소.",
@@ -2503,9 +2503,9 @@
     },
     "YejOBw": {
         "ko": "[신사]\n잠시만 기다려주십시오. 확인해보겠습니다.",
-        "en": "[Gentleman]\nPlease wait a moment. I shall verify that.",
-        "pt": "[Cavalheiro]\nAguarde um momento. Irei verificar.",
-        "es": "[Gentleman]\nEspere un momento. Lo comprobaré."
+        "en": "[Body scrubber]\nPlease wait a moment. I shall verify that.",
+        "pt": "[Esfoliador]\nAguarde um momento. Irei verificar.",
+        "es": "[Exfoliador]\nEspere un momento. Lo comprobaré."
     },
     "YujOBw": {
         "ko": "그런데 청금이 어디야? 처음 들어 보는데?",
@@ -2533,8 +2533,8 @@
     },
     "ZujOBw": {
         "ko": "하긴 세신사를 신사라고 알고 있는, 아니 아니다.",
-        "en": "Well, someone who mistakes a bath attendant for a gentleman... No, never mind.",
-        "pt": "Bem, considerando que confundem massagista com cavalheiro... não, esqueça.",
+        "en": "Well, someone who mistakes a bath attendant for a Body scrubber... No, never mind.",
+        "pt": "Bem, considerando que confundem massagista com Esfoliador... não, esqueça.",
         "es": "Bueno, si hasta cree que un exfoliador es un caballero... No, nada."
     },
     "Z+jOBw": {
@@ -2563,9 +2563,9 @@
     },
     "a+jOBw": {
         "ko": "[신사]\n죄송합니다만 명단을 재차 확인해 보았지만 검색되지 않습니다. 성함을 다시 한 번 말씀해주시곘습니까?",
-        "en": "[Gentleman]\nMy apologies, but I have checked the registry again and cannot find your name. Would you please state it once more?",
-        "pt": "[Cavalheiro]\nPeço desculpas, mas verifiquei novamente a lista e seu nome não consta. Poderia repetir?",
-        "es": "[Gentleman]\nLo siento, pero he vuelto a comprobar la lista y no aparece. ¿Podría decirme su nombre una vez más?"
+        "en": "[Body scrubber]\nMy apologies, but I have checked the registry again and cannot find your name. Would you please state it once more?",
+        "pt": "[Esfoliador]\nPeço desculpas, mas verifiquei novamente a lista e seu nome não consta. Poderia repetir?",
+        "es": "[Exfoliador]\nLo siento, pero he vuelto a comprobar la lista y no aparece. ¿Podría decirme su nombre una vez más?"
     },
     "bOjOBw": {
         "ko": "[공주]\n아마도 명단엔 없을 걸세. 내가 그리 요청하였네.\n나는 고향을 떠나 정처없이 떠도는 중이었다네. 그런 나의 사정을 안 바르문트가 접촉하는 이 없이 이 저택의 목욕탕을 이용할 수 있도록 해준 것이지.",
@@ -2581,15 +2581,15 @@
     },
     "bujOBw": {
         "ko": "[신사]\n그럼 이 목욕탕에 드나드신지 꽤 오래되셨군요. 하지만 공주님께서 주장하시는대로 정말로 주인님의 손님이신지 확인이 필요합니다.",
-        "en": "[Gentleman]\nThen you have been visiting this bathhouse for quite some time. However, we must confirm whether you are truly our master's guest as you claim.",
-        "pt": "[Cavalheiro]\nEntão frequenta este banho há bastante tempo. Ainda assim, precisamos confirmar se é realmente convidada do senhor.",
-        "es": "[Gentleman]\nEntonces lleva bastante tiempo entrando y saliendo de este baño. Pero debemos confirmar si realmente es una invitada del señor, como usted afirma."
+        "en": "[Body scrubber]\nThen you have been visiting this bathhouse for quite some time. However, we must confirm whether you are truly our master's guest as you claim.",
+        "pt": "[Esfoliador]\nEntão frequenta este banho há bastante tempo. Ainda assim, precisamos confirmar se é realmente convidada do senhor.",
+        "es": "[Exfoliador]\nEntonces lleva bastante tiempo entrando y saliendo de este baño. Pero debemos confirmar si realmente es una invitada del señor, como usted afirma."
     },
     "b+jOBw": {
         "ko": "[신사]\n주인님께서 저희에게 별 다른 언질을 주지 않으신 상태에서 필요한 확인 절차이니 양해 부탁드립니다. 혹시 주인님께서 주신 증표나 전언 같은 것은 없으십니까.",
-        "en": "[Gentleman]\nAs our master left us no specific instructions, we must follow necessary verification procedures. Do you possess any token or message given by him?",
-        "pt": "[Cavalheiro]\nComo o senhor não nos deixou instruções específicas, precisamos seguir o procedimento. Possui algum símbolo ou mensagem deixada por ele?",
-        "es": "[Gentleman]\nComo el señor no nos ha dado ninguna indicación especial, es un procedimiento de verificación necesario; le rogamos que lo comprenda. ¿No tiene algún distintivo o mensaje que el señor le haya dado?"
+        "en": "[Body scrubber]\nAs our master left us no specific instructions, we must follow necessary verification procedures. Do you possess any token or message given by him?",
+        "pt": "[Esfoliador]\nComo o senhor não nos deixou instruções específicas, precisamos seguir o procedimento. Possui algum símbolo ou mensagem deixada por ele?",
+        "es": "[Exfoliador]\nComo el señor no nos ha dado ninguna indicación especial, es un procedimiento de verificación necesario; le rogamos que lo comprenda. ¿No tiene algún distintivo o mensaje que el señor le haya dado?"
     },
     "cOjOBw": {
         "ko": "[공주]\n그런 건 애석하게도 없다네. 애초에 조용히 이용하도록 배려해 준 것이니 말일세.",
@@ -2611,9 +2611,9 @@
     },
     "c+jOBw": {
         "ko": "[신사]\n확실히 보통 방법으로 외부인이 저택에 들어선 순간 경비가 발동했을 겁니다. 알겠습니다. 실례 많았습니다. 그럼 지금 손님으로 등록하여 이용하시는데 불편함이 없도록 하겠습니다.",
-        "en": "[Gentleman]\nIndeed, had an outsider entered by ordinary means, the security would have been triggered. Very well. My apologies for the discourtesy. I shall now register you as a guest so that you may use the facilities without inconvenience.",
-        "pt": "[Cavalheiro]\nDe fato, se tivesse entrado pelos meios comuns, os guardas teriam sido acionados. Entendo. Peço desculpas. Faremos seu registro como convidada para evitar inconvenientes.",
-        "es": "[Gentleman]\nCiertamente, si un forastero entrara en la mansión por el método habitual, la guardia se habría activado. Entiendo. Disculpe las molestias. Entonces, lo registraré ahora como invitada para que no tenga inconvenientes al usarlo."
+        "en": "[Body scrubber]\nIndeed, had an outsider entered by ordinary means, the security would have been triggered. Very well. My apologies for the discourtesy. I shall now register you as a guest so that you may use the facilities without inconvenience.",
+        "pt": "[Esfoliador]\nDe fato, se tivesse entrado pelos meios comuns, os guardas teriam sido acionados. Entendo. Peço desculpas. Faremos seu registro como convidada para evitar inconvenientes.",
+        "es": "[Exfoliador]\nCiertamente, si un forastero entrara en la mansión por el método habitual, la guardia se habría activado. Entiendo. Disculpe las molestias. Entonces, lo registraré ahora como invitada para que no tenga inconvenientes al usarlo."
     },
     "dOjOBw": {
         "ko": "[공주]\n그, 꼭 그래야 하나?",
@@ -2623,9 +2623,9 @@
     },
     "dejOBw": {
         "ko": "[신사]\n이렇게 등록 없이 이용하시다 자칫 다른 사용인들에게 불필요한 오해를 불러일으킬 수 있으니 등록만큼은 해두시는 것이 좋습니다. 지금은 주인님도 계시지 않으니까요.",
-        "en": "[Gentleman]\nIf you continue using it without registration, it may cause unnecessary misunderstandings among the other staff. It would be best to register, especially since our master is not currently present.",
-        "pt": "[Cavalheiro]\nSem registro pode haver mal-entendidos. Como o senhor não está presente, é melhor formalizar.",
-        "es": "[Gentleman]\nSi lo usa así sin registrarse, podría provocar malentendidos innecesarios con otros sirvientes, así que es mejor que al menos quede registrada. Además, ahora el señor no está."
+        "en": "[Body scrubber]\nIf you continue using it without registration, it may cause unnecessary misunderstandings among the other staff. It would be best to register, especially since our master is not currently present.",
+        "pt": "[Esfoliador]\nSem registro pode haver mal-entendidos. Como o senhor não está presente, é melhor formalizar.",
+        "es": "[Exfoliador]\nSi lo usa así sin registrarse, podría provocar malentendidos innecesarios con otros sirvientes, así que es mejor que al menos quede registrada. Además, ahora el señor no está."
     },
     "dujOBw": {
         "ko": "[공주]\n그렇다면... 알겠네.",
@@ -2635,9 +2635,9 @@
     },
     "d+jOBw": {
         "ko": "[신사]\n금방 처리하겠습니다. 성함을 다시 한 번 말씀해주십시오.",
-        "en": "[Gentleman]\nIt will be done shortly. Please state your name once more.",
-        "pt": "[Cavalheiro]\nFarei imediatamente. Diga novamente seu nome.",
-        "es": "[Gentleman]\nLo tramitaré enseguida. Por favor, dígame su nombre una vez más."
+        "en": "[Body scrubber]\nIt will be done shortly. Please state your name once more.",
+        "pt": "[Esfoliador]\nFarei imediatamente. Diga novamente seu nome.",
+        "es": "[Exfoliador]\nLo tramitaré enseguida. Por favor, dígame su nombre una vez más."
     },
     "eOjOBw": {
         "ko": "[공주]\n동쪽 바다, 청금에서 온 공주라 하네.",
@@ -2707,9 +2707,9 @@
     },
     "g+jOBw": {
         "ko": "[신사]\n오래 기다리셨습니다. 청금의 공주님. 바르문트 저택의 손님 등록을 마쳤습니다. 통신이 불안정해서 시간이 다소 걸렸습니다. 죄송합니다.\n공주님께서는 이제 이 저택에 바르문트님의 손님자격으로 머무실 수 있으십니다. 편히 이용해 주십시오.",
-        "en": "[Gentleman]\nThank you for your patience. Princess of Blue Gold. Your registration as a guest of the Varmundt Estate has been completed. Communication was unstable, so it took some time. My apologies.\nYou may now remain in this estate as Lord Varmundt's guest. Please make yourself comfortable.",
-        "pt": "[Cavalheiro]\nAgradeço a espera. Princesa de Cheonggeum, seu registro como convidada da Mansão Varmundt foi concluído. Houve instabilidade na comunicação, desculpe a demora.\nAgora pode permanecer como convidada. Sinta-se à vontade.",
-        "es": "[Gentleman]\nGracias por esperar. Princesa de Cheonggeum. Hemos terminado el registro como invitada de la mansión de Varmundt. La comunicación era inestable, así que tomó algo de tiempo. Lo siento.\nAhora, princesa, puede permanecer en esta mansión como invitada del señor Varmundt. Por favor, úsela con tranquilidad."
+        "en": "[Body scrubber]\nThank you for your patience. Princess of Blue Gold. Your registration as a guest of the Varmundt Estate has been completed. Communication was unstable, so it took some time. My apologies.\nYou may now remain in this estate as Lord Varmundt's guest. Please make yourself comfortable.",
+        "pt": "[Esfoliador]\nAgradeço a espera. Princesa de Cheonggeum, seu registro como convidada da Mansão Varmundt foi concluído. Houve instabilidade na comunicação, desculpe a demora.\nAgora pode permanecer como convidada. Sinta-se à vontade.",
+        "es": "[Exfoliador]\nGracias por esperar. Princesa de Cheonggeum. Hemos terminado el registro como invitada de la mansión de Varmundt. La comunicación era inestable, así que tomó algo de tiempo. Lo siento.\nAhora, princesa, puede permanecer en esta mansión como invitada del señor Varmundt. Por favor, úsela con tranquilidad."
     },
     "hOjOBw": {
         "ko": "[공주]\n궁금한 것이 있네만... 바르문트 말일세. 요즘 많이 바쁜가? 모습을 통 볼 수 없어 내 계속 찾아 왔네만 한참 동안 나타나질 않아서 말일세.\n앞으로도 한동안 바르문트가 나타날 일은 없을 거라 생각해도 되는가?",
@@ -2719,9 +2719,9 @@
     },
     "hejOBw": {
         "ko": "[신사]\n주인님께서는 당장 내일에라도 돌아오실 수 있지만, 한 동안은 그러지 않을 거라 예측됩니다.",
-        "en": "[Gentleman]\nOur master could return as soon as tomorrow, but it is predicted that he will not do so for some time.",
-        "pt": "[Cavalheiro]\nPode retornar a qualquer momento, mas prevê-se que permanecerá ausente por algum tempo.",
-        "es": "[Gentleman]\nEl amo podría regresar incluso mañana mismo, pero se prevé que no lo hará por un tiempo."
+        "en": "[Body scrubber]\nOur master could return as soon as tomorrow, but it is predicted that he will not do so for some time.",
+        "pt": "[Esfoliador]\nPode retornar a qualquer momento, mas prevê-se que permanecerá ausente por algum tempo.",
+        "es": "[Exfoliador]\nEl amo podría regresar incluso mañana mismo, pero se prevé que no lo hará por un tiempo."
     },
     "hujOBw": {
         "ko": "[공주]\n그렇다면 내 이 목욕탕을 나의 거점으로 삼아 나의 세를 만들고 불리는데 사용해도 되겠지?",
@@ -2731,9 +2731,9 @@
     },
     "h+jOBw": {
         "ko": "[신사]\n죄송합니다만 그것이 무슨 말씀이십니까?",
-        "en": "[Gentleman]\nI beg your pardon—what do you mean?",
-        "pt": "[Cavalheiro]\nPerdão, como assim?",
-        "es": "[Gentleman]\nLo siento, pero ¿a qué se refiere con eso?"
+        "en": "[Body scrubber]\nI beg your pardon—what do you mean?",
+        "pt": "[Esfoliador]\nPerdão, como assim?",
+        "es": "[Exfoliador]\nLo siento, pero ¿a qué se refiere con eso?"
     },
     "iOjOBw": {
         "ko": "[공주]\n새로이 내 세력를 만들어 고향의 사람들에게 복수하려고 하네. 그러려면 힘을 모을 거점이 필요하지 않겠는가?\n내 이미 오랜 세월동안 이곳에 드나들었지만 계속 드나들기도 번거롭던 차, 마침 바르문트가 오랜기간 부재중이었으니 내가 대신 소유하겠단 말일세.",
@@ -2779,9 +2779,9 @@
     },
     "j+jOBw": {
         "ko": "[신사]\n주인님께서 공주님께 방문을 허하시기도 하셨고 말씀하신대로 관대하시긴 해도 그것은 어디까지나 손님께 성의와 호의를 보이신 것입니다.\n손님께 정성과 예를 다하는 바르문트님의 호의를 무시하지 않으시길 부탁드리겠습니다.",
-        "en": "[Gentleman]\nOur master permitted your visits, and he is indeed generous, but that was an expression of courtesy and goodwill toward a guest.\nPlease do not disregard Lord Varmundt's sincerity and hospitality.",
-        "pt": "[Cavalheiro]\nO mestre permitiu a visita de Vossa Alteza, e de fato é generoso como disse, mas isso foi, acima de tudo, uma demonstração de sinceridade e boa vontade para com uma convidada.\nPeço que não desconsidere a gentileza do senhor Varmundt, que trata os convidados com dedicação e cortesia.",
-        "es": "[Gentleman]\nEl señor incluso permitió que su alteza nos visitara, y aunque es generoso como usted dice, eso es, hasta el final, una muestra de sinceridad y buena voluntad hacia una invitada.\nLe ruego que no ignore la buena voluntad del señor Varmundt, que le brinda dedicación y cortesía a una invitada."
+        "en": "[Body scrubber]\nOur master permitted your visits, and he is indeed generous, but that was an expression of courtesy and goodwill toward a guest.\nPlease do not disregard Lord Varmundt's sincerity and hospitality.",
+        "pt": "[Esfoliador]\nO mestre permitiu a visita de Vossa Alteza, e de fato é generoso como disse, mas isso foi, acima de tudo, uma demonstração de sinceridade e boa vontade para com uma convidada.\nPeço que não desconsidere a gentileza do senhor Varmundt, que trata os convidados com dedicação e cortesia.",
+        "es": "[Exfoliador]\nEl señor incluso permitió que su alteza nos visitara, y aunque es generoso como usted dice, eso es, hasta el final, una muestra de sinceridad y buena voluntad hacia una invitada.\nLe ruego que no ignore la buena voluntad del señor Varmundt, que le brinda dedicación y cortesía a una invitada."
     },
     "kOjOBw": {
         "ko": "의사를 표할 수 없는 대상의 부동산을 취득하는 행위는 불법 갈취다.",
@@ -2815,9 +2815,9 @@
     },
     "lejOBw": {
         "ko": "[신사]\n이 저택과 목욕탕의 정당한 주인은 바르문트님이시고, 장기 거주자라 하더라도 소유권을 주장할 수는 없습니다.\n그 문제는 차후에 바르문트님께서 돌아오시면 직접 논하시지요. 일개 사용인일 뿐인 저희가 말씀 드릴 문제는 아닙니다.",
-        "en": "[Gentleman]\nThe rightful owner of this estate and bathhouse is Lord Varmundt, and even a long-term resident cannot claim ownership.\nThat matter should be discussed directly with Lord Varmundt upon his return. It is not for us mere servants to decide.",
-        "pt": "[Cavalheiro]\nO legítimo proprietário desta mansão e deste banho é o senhor Varmundt, e mesmo um morador de longa data não pode reivindicar a propriedade.\nEssa questão será discutida diretamente com o senhor Varmundt quando ele retornar. Não cabe a nós, meros empregados, decidir isso.",
-        "es": "[Gentleman]\nEl legítimo dueño de esta mansión y de este baño es el señor Varmundt, y aunque se resida aquí por largo tiempo, no se puede reclamar la propiedad.\nEse asunto se discutirá directamente cuando el señor Varmundt regrese. No es algo sobre lo que debamos hablar nosotros, que no somos más que sirvientes."
+        "en": "[Body scrubber]\nThe rightful owner of this estate and bathhouse is Lord Varmundt, and even a long-term resident cannot claim ownership.\nThat matter should be discussed directly with Lord Varmundt upon his return. It is not for us mere servants to decide.",
+        "pt": "[Esfoliador]\nO legítimo proprietário desta mansão e deste banho é o senhor Varmundt, e mesmo um morador de longa data não pode reivindicar a propriedade.\nEssa questão será discutida diretamente com o senhor Varmundt quando ele retornar. Não cabe a nós, meros empregados, decidir isso.",
+        "es": "[Exfoliador]\nEl legítimo dueño de esta mansión y de este baño es el señor Varmundt, y aunque se resida aquí por largo tiempo, no se puede reclamar la propiedad.\nEse asunto se discutirá directamente cuando el señor Varmundt regrese. No es algo sobre lo que debamos hablar nosotros, que no somos más que sirvientes."
     },
     "lujOBw": {
         "ko": "부동산 그거 무섭도록 탐나지.",
@@ -2863,9 +2863,9 @@
     },
     "nejOBw": {
         "ko": "[신사]\n다시 한 번 말씀드립니다. 모든 결정은 바르문트님께서 직접 하셔야 합니다. 사용인인 저희도, 손님이신 공주님께서도 결정할 문제가 아닙니다.",
-        "en": "[Gentleman]\nI shall say this once more. All decisions must be made by Lord Varmundt himself. Neither we servants nor you, Princess, may decide such matters.",
-        "pt": "[Cavalheiro]\nMais uma vez, digo-lhes. Todas as decisões devem ser tomadas diretamente pelo senhor Varmundt. Não é algo que nós, empregados, nem Vossa Alteza, como convidada, possamos decidir.",
-        "es": "[Gentleman]\nSe lo repito una vez más. Todas las decisiones debe tomarlas el señor Varmundt en persona. No es un asunto que debamos decidir nosotros, sus sirvientes, ni su alteza, que es una invitada."
+        "en": "[Body scrubber]\nI shall say this once more. All decisions must be made by Lord Varmundt himself. Neither we servants nor you, Princess, may decide such matters.",
+        "pt": "[Esfoliador]\nMais uma vez, digo-lhes. Todas as decisões devem ser tomadas diretamente pelo senhor Varmundt. Não é algo que nós, empregados, nem Vossa Alteza, como convidada, possamos decidir.",
+        "es": "[Exfoliador]\nSe lo repito una vez más. Todas las decisiones debe tomarlas el señor Varmundt en persona. No es un asunto que debamos decidir nosotros, sus sirvientes, ni su alteza, que es una invitada."
     },
     "nujOBw": {
         "ko": "세력은 어떻게 모으려고요?",
@@ -2971,9 +2971,9 @@
     },
     "r+jOBw": {
         "ko": "[신사]\n이야기는 다 마치셨습니까? {0}님, 여러모로 도움을 주셔서 정말 감사합니다. 이건 작은 사례입니다.",
-        "en": "[Gentleman]\nHave you concluded your discussion? {0}, thank you sincerely for your assistance. Please accept this small token of appreciation.",
-        "pt": "[Cavalheiro]\nJá terminaram de conversar? Senhor(a) {0}, muito obrigado por toda a ajuda. Isto é uma pequena recompensa.",
-        "es": "[Gentleman]\n¿Ya han terminado de hablar? {0}님, muchas gracias por su ayuda en muchos aspectos. Esto es una pequeña muestra de agradecimiento."
+        "en": "[Body scrubber]\nHave you concluded your discussion? {0}, thank you sincerely for your assistance. Please accept this small token of appreciation.",
+        "pt": "[Esfoliador]\nJá terminaram de conversar? Senhor(a) {0}, muito obrigado por toda a ajuda. Isto é uma pequena recompensa.",
+        "es": "[Exfoliador]\n¿Ya han terminado de hablar? {0}님, muchas gracias por su ayuda en muchos aspectos. Esto es una pequeña muestra de agradecimiento."
     },
     "sOjOBw": {
         "ko": "우리는 왜 안 줘?",
@@ -2995,9 +2995,9 @@
     },
     "s+jOBw": {
         "ko": "[신사]\n그럼 필요하신 것이 있으시다면 언제든 찾아 주십시오. 손님 여러분께도 본의 아니게 실례가 많았습니다.",
-        "en": "[Gentleman]\nIf you require anything, please seek us at any time. And my apologies once more to all of you for the unintended discourtesy.",
-        "pt": "[Cavalheiro]\nSe precisarem de algo, por favor, venham nos procurar a qualquer momento. Também peço desculpas por qualquer falta de cortesia para com os senhores convidados.",
-        "es": "[Gentleman]\nEntonces, si necesita algo, por favor venga cuando quiera. También a ustedes, estimados huéspedes, les he faltado al respeto sin querer en muchas ocasiones."
+        "en": "[Body scrubber]\nIf you require anything, please seek us at any time. And my apologies once more to all of you for the unintended discourtesy.",
+        "pt": "[Esfoliador]\nSe precisarem de algo, por favor, venham nos procurar a qualquer momento. Também peço desculpas por qualquer falta de cortesia para com os senhores convidados.",
+        "es": "[Exfoliador]\nEntonces, si necesita algo, por favor venga cuando quiera. También a ustedes, estimados huéspedes, les he faltado al respeto sin querer en muchas ocasiones."
     },
     "tOjOBw": {
         "ko": "[루키]\n고니도 찾았고, 목욕탕에 위험이 없다는 것도 확인했으니 우리도 이만 가자.\n모험가님 고니 수색에 도움을 주셔서 정말 고맙습니다.",
@@ -3151,9 +3151,9 @@
     },
     "zejOBw": {
         "ko": "신사 : 청소를 마쳤습니다. 저에게 오시면 잠시간 입욕제 효과를 드리겠습니다.",
-        "en": "Gentleman: Cleaning is complete. Come to me and I will grant you the Bath Additive effect for a short time.",
-        "pt": "Cavalheiro: A limpeza foi concluída. Se vier até mim, concederei por um momento o efeito de Aditivo de Banho.",
-        "es": "Gentleman : La limpieza ha terminado. Si venís a verme, os otorgaré por un momento el efecto de Aditivo de Baño."
+        "en": "Body scrubber: Cleaning is complete. Come to me and I will grant you the Bath Additive effect for a short time.",
+        "pt": "Esfoliador: A limpeza foi concluída. Se vier até mim, concederei por um momento o efeito de Aditivo de Banho.",
+        "es": "Exfoliador : La limpieza ha terminado. Si venís a verme, os otorgaré por un momento el efecto de Aditivo de Baño."
     },
     "zujOBw": {
         "ko": "지금 {0}임.\n0 : 청소 가능\n1~50 몹 잡음\n100 청소 로봇 등장\n101 젤 낮은 버프\n102 중간 버프\n103 젤 높은 버프\n105 버프 종료 후 쿨타임 대기",

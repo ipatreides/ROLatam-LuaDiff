@@ -314,13 +314,13 @@
     "FDybDA": {
         "ko": "Defeat Heart Hunter Ebel",
         "en": "Defeat Heart Hunter Ebel",
-        "pt": "Derrotar Heart Hunter Ebel",
+        "pt": "Derrotar Caça-Corações Ebel",
         "es": "Derrotar Heart Hunter Ebel"
     },
     "FTybDA": {
         "ko": "[Mission Board]\nHeart Hunter Ebel 5마리 처치\nEXP Battle Pass 20",
         "en": "[Mission Board]\nDefeat 5 Heart Hunter Ebels.\nEXP Battle Pass 20",
-        "pt": "[Mission Board]\nDerrote 5 Heart Hunter Ebels.\nEXP Battle Pass 20",
+        "pt": "[Mission Board]\nDerrote 5 Caça-Corações Ebels.\nEXP Battle Pass 20",
         "es": "[Mission Board]\nDerrota 5 Heart Hunter Ebels.\nEXP Battle Pass 20"
     },
     "FjybDA": {
@@ -350,7 +350,7 @@
     "GjybDA": {
         "ko": "Heart Hunter Ebel 처치 의뢰",
         "en": "Heart Hunter Ebel Hunting Request",
-        "pt": "Pedido de Caça a Heart Hunter Ebel",
+        "pt": "Pedido de Caça a Caça-Corações Ebel",
         "es": "Solicitud de Caza de Heart Hunter Ebel"
     },
     "GzybDA": {
@@ -376,5 +376,95 @@
         "en": "[Mission Board]\nDeliver 100 Tentacles.\nEXP Battle Pass 3",
         "pt": "[Mission Board]\nEntregue 100 Tentacles.\nEXP Battle Pass 3",
         "es": "[Mission Board]\nEntregar 100 Tentacles.\nEXP Battle Pass 3"
+    },
+    "HzybDA": {
+        "ko": "Sasquatch 처치",
+        "en": "Defeat Sasquatch",
+        "pt": "Derrotar Sasquatch",
+        "es": "Derrotar Sasquatch"
+    },
+    "IDybDA": {
+        "ko": "Fenrir 처치",
+        "en": "Defeat Fenrir",
+        "pt": "Derrotar Fenrir",
+        "es": "Derrotar Fenrir"
+    },
+    "ITybDA": {
+        "ko": "Deliver Window Shopper Catalogue",
+        "en": "Deliver Window Shopper Catalogue",
+        "pt": "Entregar Catálogo Window Shopper",
+        "es": "Entregar Catálogo Window Shopper"
+    },
+    "IjybDA": {
+        "ko": "Submit Zeny",
+        "en": "Submit Zeny",
+        "pt": "Enviar Zeny",
+        "es": "Entregar Zeny"
+    },
+    "IzybDA": {
+        "ko": "[Mission Board]\nSasquatch 3마리 처치\nEXP Battle Pass 3",
+        "en": "[Mission Board]\nDefeat 3 Sasquatchs.\nEXP Battle Pass 3",
+        "pt": "[Quadro de Missões]\nDerrote 3 Sasquatches.\nEXP do Passe de Batalha 3",
+        "es": "[Tablón de Misiones]\nDerrota 3 Sasquatches.\nEXP del Pase de Batalla 3"
+    },
+    "JDybDA": {
+        "ko": "[Mission Board]\nFenrir 처치\nEXP Battle Pass 3",
+        "en": "[Mission Board]\nDefeat Fenrir.\nEXP Battle Pass 3",
+        "pt": "[Quadro de Missões]\nDerrote Fenrir.\nEXP do Passe de Batalha 3",
+        "es": "[Tablón de Misiones]\nDerrota a Fenrir.\nEXP del Pase de Batalla 3"
+    },
+    "JTybDA": {
+        "ko": "[Mission Board]\nWindow Shopper Catalogue 100개를 전달하세요.\nEXP Battle Pass 4",
+        "en": "[Mission Board]\nDeliver 100 Window Shopper Catalogues.\nEXP Battle Pass 4",
+        "pt": "[Quadro de Missões]\nEntregue 100 Catálogos Window Shopper.\nEXP do Passe de Batalha 4",
+        "es": "[Tablón de Misiones]\nEntrega 100 Catálogos Window Shopper.\nEXP del Pase de Batalla 4"
+    },
+    "JjybDA": {
+        "ko": "[Mission Board]\n200000제니를 제출하세요.\nEXP Battle Pass 4",
+        "en": "[Mission Board]\nSubmit 200,000 Zeny.\nEXP Battle Pass 4",
+        "pt": "[Quadro de Missões]\nEnvie 200.000 Zeny.\nEXP do Passe de Batalha 4",
+        "es": "[Tablón de Misiones]\nEntrega 200.000 Zeny.\nEXP del Pase de Batalla 4"
+    },
+    "JzybDA": {
+        "ko": "Defeat Corrupted Wanderer",
+        "en": "Defeat Corrupted Wanderer",
+        "pt": "Derrotar Corrupted Wanderer",
+        "es": "Derrotar Corrupted Wanderer"
+    },
+    "KDybDA": {
+        "ko": "[Mission Board]\nCorrupted Wanderer 50마리 처치\nEXP Battle Pass 20",
+        "en": "[Mission Board]\nDefeat 50 Corrupted Wanderers.\nEXP Battle Pass 20",
+        "pt": "[Quadro de Missões]\nDerrote 50 Corrupted Wanderers.\nEXP do Passe de Batalha 20",
+        "es": "[Tablón de Misiones]\nDerrota 50 Corrupted Wanderers.\nEXP del Pase de Batalla 20"
+    },
+    "KTybDA": {
+        "ko": "Sasquatch 처치 의뢰",
+        "en": "Sasquatch Hunting Request",
+        "pt": "Pedido de Caça ao Sasquatch",
+        "es": "Solicitud de Caza de Sasquatch"
+    },
+    "KjybDA": {
+        "ko": "Fenrir 처치 의뢰",
+        "en": "Fenrir Hunting Request",
+        "pt": "Pedido de Caça ao Fenrir",
+        "es": "Solicitud de Caza de Fenrir"
+    },
+    "KzybDA": {
+        "ko": "Deliver Window Shopper Catalogue 의뢰",
+        "en": "Window Shopper Catalogue Delivery Request",
+        "pt": "Pedido de Entrega de Catálogo Window Shopper",
+        "es": "Solicitud de Entrega de Catálogo Window Shopper"
+    },
+    "LDybDA": {
+        "ko": "Submit Zeny 의뢰",
+        "en": "Submit Zeny Request",
+        "pt": "Pedido de Entrega de Zeny",
+        "es": "Solicitud de Entrega de Zeny"
+    },
+    "LTybDA": {
+        "ko": "Corrupted Wanderer 처치 의뢰",
+        "en": "Corrupted Wanderer Hunting Request",
+        "pt": "Pedido de Caça ao Corrupted Wanderer",
+        "es": "Solicitud de Caza de Corrupted Wanderer"
     }
 }

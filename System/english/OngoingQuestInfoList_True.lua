@@ -194,304 +194,514 @@ QuestInfoList = {
 		Summary = ""
 	},
 	[1017] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "League of Explorers",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"In the Orc Battle, kill 1 Fake Orc."
+		},
+		Summary = "Orc Battle"
 	},
 	[1018] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "[Cooldown] Orc Battle",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Wait for the cooldown period to return to the League of Explorers building!"
+		},
+		Summary = "Come back tomorrow",
+		CoolTimeQuest = 1
 	},
 	[1019] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "League of Explorers",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"In the Magic Tournament, kill 1 Ordre."
+		},
+		Summary = "Magic Tournament"
 	},
 	[1020] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "[Cooldown] Magic Tournament",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Wait for the cooldown period to return to the League of Explorers building!"
+		},
+		Summary = "Come back tomorrow",
+		CoolTimeQuest = 1
 	},
 	[1021] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "League of Explorers",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"In Sarah's Memories, kill 1 Lord Irine."
+		},
+		Summary = "Sarah's Memories"
 	},
 	[1022] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "[Cooldown] Sarah's Memories",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Wait for the cooldown period to return to the League of Explorers building!"
+		},
+		Summary = "Come back tomorrow",
+		CoolTimeQuest = 1
 	},
 	[1023] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "League of Explorers",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"In the Ghost Palace, kill 1 Torturing Anguish."
+		},
+		Summary = "Ghost Palace"
 	},
 	[1024] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "[Cooldown] Ghost Palace",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Wait for the cooldown period to return to the League of Explorers building!"
+		},
+		Summary = "Come back tomorrow",
+		CoolTimeQuest = 1
 	},
 	[1025] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "League of Explorers",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"In Room of Consciouness, kill 1 Bijou."
+		},
+		Summary = "Room of Consciouness"
 	},
 	[1026] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "[Cooldown] Room of Consciouness",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Wait for the cooldown period to return to the League of Explorers building!"
+		},
+		Summary = "Come back tomorrow",
+		CoolTimeQuest = 1
 	},
 	[1027] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "League of Explorers",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"In the Abandoned Hospital, kill 1 Bangungot."
+		},
+		Summary = "Abandoned Hospital"
 	},
 	[1028] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "[Cooldown] Abandoned Hospital",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Wait for the cooldown period to return to the League of Explorers building!"
+		},
+		Summary = "Come back tomorrow",
+		CoolTimeQuest = 1
 	},
 	[1029] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "League of Explorers",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"In the At the King's Heel instance, kill 1 Charleston 03."
+		},
+		Summary = "At the King's Heel"
 	},
 	[1030] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "[Cooldown] At the King's Heel",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Wait for the cooldown period to return to the League of Explorers building!"
+		},
+		Summary = "Come back tomorrow",
+		CoolTimeQuest = 1
 	},
 	[1031] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "League of Explorers",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"In the Horror Toy Factory, kill 1 Antonio."
+		},
+		Summary = "Horror Toy Factory"
 	},
 	[1032] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "[Cooldown] Horror Toy Factory",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Wait for the cooldown period to return to the League of Explorers building!"
+		},
+		Summary = "Come back tomorrow",
+		CoolTimeQuest = 1
 	},
 	[1033] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "League of Explorers",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"In the Shadowed Dream, kill 1 Nightmarish Jitterburg."
+		},
+		Summary = "Shadowed Dream"
 	},
 	[1034] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "[Cooldown] Shadowed Dream",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Wait for the cooldown period to return to the League of Explorers building!"
+		},
+		Summary = "Come back tomorrow",
+		CoolTimeQuest = 1
 	},
 	[1035] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "League of Explorers",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"In the Faceworm Nest, kill 4 Dark Faceworm."
+		},
+		Summary = "Faceworm Nest"
 	},
 	[1036] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "[Cooldown] Faceworm Nest",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Wait for the cooldown period to return to the League of Explorers building!"
+		},
+		Summary = "Come back tomorrow",
+		CoolTimeQuest = 1
 	},
 	[1037] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "League of Explorers",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"In the Final Room, kill 1 T_W_O."
+		},
+		Summary = "Final Room"
 	},
 	[1038] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "[Cooldown] Final Room",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Wait for the cooldown period to return to the League of Explorers building!"
+		},
+		Summary = "Come back tomorrow",
+		CoolTimeQuest = 1
 	},
 	[1039] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "League of Explorers",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"In Nidhogg's Nest, kill 1 Guardian Shadow."
+		},
+		Summary = "Nidhogg's Nest"
 	},
 	[1040] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "[Cooldown] Nidhogg's Nest",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Wait for the cooldown period to return to the League of Explorers building!"
+		},
+		Summary = "Come back tomorrow",
+		CoolTimeQuest = 1
 	},
 	[1041] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "League of Explorers",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"In Bakonawa's Lake, kill 1 Bakonawa's Treasure."
+		},
+		Summary = "Bakonawa's Lake"
 	},
 	[1042] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "[Cooldown] Bakonawa Lake",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Wait for the cooldown period to return to the League of Explorers building!"
+		},
+		Summary = "Come back tomorrow",
+		CoolTimeQuest = 1
 	},
 	[1043] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "League of Explorers",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"In Buwaya's Cave, kill 1 Buwaya."
+		},
+		Summary = "Buwaya's Cave"
 	},
 	[1044] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "[Cooldown] Buwaya Cave",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Wait for the cooldown period to return to the League of Explorers building!"
+		},
+		Summary = "Come back tomorrow",
+		CoolTimeQuest = 1
 	},
 	[1045] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "League of Explorers",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"In Old Glastheim Advanced, kill 1 High Amdarais."
+		},
+		Summary = "Old Glastheim Advanced"
 	},
 	[1046] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "[Cooldown] Old Glastheim Advanced",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Wait for the cooldown period to return to the League of Explorers building!"
+		},
+		Summary = "Come back tomorrow",
+		CoolTimeQuest = 1
 	},
 	[1047] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "League of Explorers",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"In the Sarah vs Fenrir instance, kill 6 Giangantes."
+		},
+		Summary = "Sarah vs Fenrir"
 	},
 	[1048] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "[Cooldown] Sarah vs Fenrir",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Wait for the cooldown period to return to the League of Explorers building!"
+		},
+		Summary = "Come back tomorrow",
+		CoolTimeQuest = 1
 	},
 	[1049] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "League of Explorers",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"In the Devil's Tower, kill the 3 types of Shadows."
+		},
+		Summary = "Devil's Tower"
 	},
 	[1050] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "[Cooldown] Devil's Tower",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Wait for the cooldown period to return to the League of Explorers building!"
+		},
+		Summary = "Come back tomorrow",
+		CoolTimeQuest = 1
 	},
 	[1051] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "League of Explorers",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"On Bios Island, kill 1 Ankou Reaper."
+		},
+		Summary = "Bios Island"
 	},
 	[1052] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "[Cooldown] Bios Island",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Wait for the cooldown period to return to the League of Explorers building!"
+		},
+		Summary = "Come back tomorrow",
+		CoolTimeQuest = 1
 	},
 	[1053] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "League of Explorers",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"In the Temple of Demon God, kill 1 God Morroc."
+		},
+		Summary = "Temple of Demon God"
 	},
 	[1054] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "[Cooldown] Temple of Demon God",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Wait for the cooldown period to return to the League of Explorers building!"
+		},
+		Summary = "Come back tomorrow",
+		CoolTimeQuest = 1
 	},
 	[1055] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "League of Explorers",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"In the Werner Laboratory, kill 1 Cute."
+		},
+		Summary = "Werner Laboratory"
 	},
 	[1056] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "[Cooldown] Werner Laboratory",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Wait for the cooldown period to return to the League of Explorers building!"
+		},
+		Summary = "Come back tomorrow",
+		CoolTimeQuest = 1
 	},
 	[1057] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "League of Explorers",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"In Poring Village, kill 1 Poring King."
+		},
+		Summary = "Poring Village"
 	},
 	[1058] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "[Cooldown] Poring Village",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Wait for the cooldown period to return to the League of Explorers building!"
+		},
+		Summary = "Come back tomorrow",
+		CoolTimeQuest = 1
 	},
 	[1059] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "League of Explorers",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"In the Octopus Cave, kill 1 Giant Octopus."
+		},
+		Summary = "Octopus Cave"
 	},
 	[1060] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "[Cooldown] Octopus Cave",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Wait for the cooldown period to return to the League of Explorers building!"
+		},
+		Summary = "Come back tomorrow",
+		CoolTimeQuest = 1
 	},
 	[1061] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "League of Explorers",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"In the Arunafeltz Edda, kill 1 Ktullanux's Ghost."
+		},
+		Summary = "Arunafeltz Edda"
 	},
 	[1062] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "[Cooldown] Arunafeltz Edda",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Wait for the cooldown period to return to the League of Explorers building!"
+		},
+		Summary = "Come back tomorrow",
+		CoolTimeQuest = 1
 	},
 	[1063] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "League of Explorers",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"In the OS Mission, kill 1 Miguel."
+		},
+		Summary = "OS Mission"
 	},
 	[1064] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "[Cooldown] OS Mission",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Wait for the cooldown period to return to the League of Explorers building!"
+		},
+		Summary = "Come back tomorrow",
+		CoolTimeQuest = 1
 	},
 	[1065] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "League of Explorers",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"In Old Glastheim, kill 1 Root of Corruption and 1 Amdarais."
+		},
+		Summary = "Old Glastheim"
 	},
 	[1066] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "[Cooldown] Old Glastheim",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Wait for the cooldown period to return to the League of Explorers building!"
+		},
+		Summary = "Come back tomorrow",
+		CoolTimeQuest = 1
 	},
 	[1067] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "League of Explorers",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"In the Military Base, kill 1 Evil."
+		},
+		Summary = "Military Base"
 	},
 	[1068] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "[Cooldown] Military Base",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Wait for the cooldown period to return to the League of Explorers building!"
+		},
+		Summary = "Come back tomorrow",
+		CoolTimeQuest = 1
 	},
 	[1069] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "League of Explorers",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"In Wolfchev's Laboratory, kill 5 Hungry Guinea Pigs and 10 Hungry Animals."
+		},
+		Summary = "Wolfchev's Laboratory"
 	},
 	[1070] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "[Cooldown] Wolfchev's Laboratory",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Wait for the cooldown period to return to the League of Explorers building!"
+		},
+		Summary = "Come back tomorrow",
+		CoolTimeQuest = 1
 	},
 	[1071] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "League of Explorers",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"In the COR Memorial, kill 1 EL-A17T."
+		},
+		Summary = "COR Memorial"
 	},
 	[1072] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "[Cooldown] COR Memorial",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Wait for the cooldown period to return to the League of Explorers building!"
+		},
+		Summary = "Come back tomorrow",
+		CoolTimeQuest = 1
 	},
 	[1073] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "League of Explorers",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"In the Sky Fortress, kill 3 Undead of each type."
+		},
+		Summary = "Sky Fortress"
 	},
 	[1074] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "[Cooldown] Sky Fortress",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Wait for the cooldown period to return to the League of Explorers building!"
+		},
+		Summary = "Come back tomorrow",
+		CoolTimeQuest = 1
 	},
 	[1075] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "League of Explorers",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"In Mors Cave, kill 1 Necromancer of Morroc."
+		},
+		Summary = "Mors Cave"
 	},
 	[1076] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "[Cooldown] Mors Cave",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Wait for the cooldown period to return to the League of Explorers building!"
+		},
+		Summary = "Come back tomorrow",
+		CoolTimeQuest = 1
 	},
 	[1100] = {
 		Title = "Solo in the Sphinx Dungeon!",
@@ -13920,18 +14130,18 @@ QuestInfoList = {
 		}
 	},
 	[5892] = {
-		Title = "Cleaning Robot Ω",
+		Title = "Cleaning Robot Omega",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"Cleaning Robot Ω"
+			"Cleaning Robot Omega"
 		},
-		Summary = "Conversation with Cleaning Robot Ω completed"
+		Summary = "Conversation with Cleaning Robot Omega completed"
 	},
 	[5893] = {
 		Title = "Sewage Treatment Plant Cleanup I",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Cleaning Robot Ω]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI> is saddened that it cannot clean.",
+			"<NAVI>[Cleaning Robot Omega]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI> is saddened that it cannot clean.",
 			"Defeat 44 <NAVI>[Sewage Venenum]<INFO>EP17_2_VENENUM3,0,0,3,-222,1</INFO></NAVI>.",
 			"",
 			"Rewards can only be obtained after completing Sewage Treatment Plant Cleanup I, Sewage Treatment Plant Cleanup II, and Sewage Treatment Plant Cleanup III."
@@ -13943,7 +14153,7 @@ QuestInfoList = {
 		Title = "Sewage Treatment Plant Cleanup II",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Cleaning Robot Ω]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI> is saddened that it cannot clean.",
+			"<NAVI>[Cleaning Robot Omega]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI> is saddened that it cannot clean.",
 			"Defeat 44 <NAVI>[Sewage Cramp]<INFO>EP17_2_CRAMP,0,0,3,-222,1</INFO></NAVI>.",
 			"",
 			"Rewards can only be obtained after completing Sewage Treatment Plant Cleanup I, Sewage Treatment Plant Cleanup II, and Sewage Treatment Plant Cleanup III."
@@ -13955,7 +14165,7 @@ QuestInfoList = {
 		Title = "Sewage Treatment Plant Cleanup III",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Cleaning Robot Ω]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI> is saddened that it cannot clean.",
+			"<NAVI>[Cleaning Robot Omega]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI> is saddened that it cannot clean.",
 			"Defeat 44 <NAVI>[Sewage Waterfall]<INFO>EP17_2_WATERFALL,0,0,3,-222,1</INFO></NAVI>.",
 			"",
 			"Rewards can only be obtained after completing Sewage Treatment Plant Cleanup I, Sewage Treatment Plant Cleanup II, and Sewage Treatment Plant Cleanup III."
@@ -13968,7 +14178,7 @@ QuestInfoList = {
 		IconName = "ico_dq.bmp",
 		Description = {
 			"After a certain period of time,",
-			"you may accept the Sewage Treatment Plant Cleanup quest again from <NAVI>[Cleaning Robot Ω]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI>."
+			"you may accept the Sewage Treatment Plant Cleanup quest again from <NAVI>[Cleaning Robot Omega]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Resets at 04:00",
 		NpcSpr = "EP17_2_OMEGA_CLEANER"
@@ -13977,7 +14187,7 @@ QuestInfoList = {
 		Title = "1st Magic Power Plant Cleanup I",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Cleaning Robot Ω]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI> is saddened that it cannot clean.",
+			"<NAVI>[Cleaning Robot Omega]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI> is saddened that it cannot clean.",
 			"Defeat 44 <NAVI>[Elite Bellare]<INFO>EP17_2_BELLARE3,0,0,3,-222,1</INFO></NAVI>.",
 			"",
 			"Rewards can only be obtained after completing 1st Magic Power Plant Cleanup I, 1st Magic Power Plant Cleanup II, and 1st Magic Power Plant Cleanup III."
@@ -13989,7 +14199,7 @@ QuestInfoList = {
 		Title = "1st Magic Power Plant Cleanup II",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Cleaning Robot Ω]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI> is saddened that it cannot clean.",
+			"<NAVI>[Cleaning Robot Omega]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI> is saddened that it cannot clean.",
 			"Defeat 44 <NAVI>[Mana-Addicted Dolor]<INFO>EP17_2_DOLOR3,0,0,3,-222,1</INFO></NAVI>.",
 			"",
 			"Rewards can only be obtained after completing 1st Magic Power Plant Cleanup I, 1st Magic Power Plant Cleanup II, and 1st Magic Power Plant Cleanup III."
@@ -14001,7 +14211,7 @@ QuestInfoList = {
 		Title = "1st Magic Power Plant Cleanup III",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Cleaning Robot Ω]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI> is saddened that it cannot clean.",
+			"<NAVI>[Cleaning Robot Omega]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI> is saddened that it cannot clean.",
 			"Defeat 44 <NAVI>[Unleashed Plasma]<INFO>EP17_2_PLASMA_Y,0,0,3,-222,1</INFO></NAVI>.",
 			"",
 			"Rewards can only be obtained after completing 1st Magic Power Plant Cleanup I, 1st Magic Power Plant Cleanup II, and 1st Magic Power Plant Cleanup III."
@@ -14014,7 +14224,7 @@ QuestInfoList = {
 		IconName = "ico_dq.bmp",
 		Description = {
 			"After a certain period of time,",
-			"you may accept the 1st Magic Power Plant quest again from <NAVI>[Cleaning Robot Ω]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI>."
+			"you may accept the 1st Magic Power Plant quest again from <NAVI>[Cleaning Robot Omega]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Resets at 04:00",
 		NpcSpr = "EP17_2_OMEGA_CLEANER"
@@ -32283,9 +32493,9 @@ QuestInfoList = {
 		Title = "Please be quiet in the Library!",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"You turned off the light attached to the door and entered the Library. Speak with <NAVI>[Library Manager β]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
+			"You turned off the light attached to the door and entered the Library. Speak with <NAVI>[Library Manager Beta]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Speak with Library Manager β"
+		Summary = "Speak with Library Manager Beta"
 	},
 	[11624] = {
 		Title = "Please be quiet in the Library!",
@@ -32331,47 +32541,47 @@ QuestInfoList = {
 		Title = "Please be quiet in the Library!",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"You spoke with Mark. Once you have finished speaking with the others, return to <NAVI>[Library Manager β]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
+			"You spoke with Mark. Once you have finished speaking with the others, return to <NAVI>[Library Manager Beta]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Return to Library Manager β"
+		Summary = "Return to Library Manager Beta"
 	},
 	[11630] = {
 		Title = "Please be quiet in the Library!",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"You spoke with Magi. Once you have finished speaking with the others, return to <NAVI>[Library Manager β]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
+			"You spoke with Magi. Once you have finished speaking with the others, return to <NAVI>[Library Manager Beta]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Return to Library Manager β"
+		Summary = "Return to Library Manager Beta"
 	},
 	[11631] = {
 		Title = "Please be quiet in the Library!",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"You spoke with Alf. Once you have finished speaking with the others, return to <NAVI>[Library Manager β]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
+			"You spoke with Alf. Once you have finished speaking with the others, return to <NAVI>[Library Manager Beta]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Return to Library Manager β"
+		Summary = "Return to Library Manager Beta"
 	},
 	[11632] = {
 		Title = "Please be quiet in the Library!",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"You spoke with Tamarin. Once you have finished speaking with the others, return to <NAVI>[Library Manager β]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
+			"You spoke with Tamarin. Once you have finished speaking with the others, return to <NAVI>[Library Manager Beta]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Return to Library Manager β"
+		Summary = "Return to Library Manager Beta"
 	},
 	[11633] = {
 		Title = "Please be quiet in the Library!",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"You spoke with Oliver. Once you have finished speaking with the others, return to <NAVI>[Library Manager β]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
+			"You spoke with Oliver. Once you have finished speaking with the others, return to <NAVI>[Library Manager Beta]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Return to Library Manager β"
+		Summary = "Return to Library Manager Beta"
 	},
 	[11634] = {
 		Title = "Ultimate Bookworm Hunt",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"The Library seems troubled by Bookworm gnawing on magic books. Defeat Bookworm and return to <NAVI>[Library Manager β]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
+			"The Library seems troubled by Bookworm gnawing on magic books. Defeat Bookworm and return to <NAVI>[Library Manager Beta]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Hunt 20 Bookworm"
 	},
@@ -32379,7 +32589,7 @@ QuestInfoList = {
 		Title = "Ultimate Bookworm Hunt",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"This is a daily quest and can be accepted again from <NAVI>[Library Manager β]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI> once the waiting period expires."
+			"This is a daily quest and can be accepted again from <NAVI>[Library Manager Beta]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI> once the waiting period expires."
 		},
 		Summary = "Resets at 04:00",
 		CoolTimeQuest = 1
@@ -32388,7 +32598,7 @@ QuestInfoList = {
 		Title = "Ultimate Book Organization",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"The shelves are in disarray due to magic books wandering free. Retrieve Roaming Spellbook and return to <NAVI>[Library Manager β]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
+			"The shelves are in disarray due to magic books wandering free. Retrieve Roaming Spellbook and return to <NAVI>[Library Manager Beta]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Collect 20 Roaming Spellbook"
 	},
@@ -32396,7 +32606,7 @@ QuestInfoList = {
 		Title = "Ultimate Book Organization",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"This is a daily quest and can be accepted again from <NAVI>[Library Manager β]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI> once the waiting period expires."
+			"This is a daily quest and can be accepted again from <NAVI>[Library Manager Beta]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI> once the waiting period expires."
 		},
 		Summary = "Resets at 04:00"
 	},
@@ -44589,7 +44799,7 @@ QuestInfoList = {
 		Summary = "Speak with the administrators"
 	},
 	[16442] = {
-		Title = "That Administrator’s Story",
+		Title = "That Administrator's Story",
 		IconName = "ico_ep.bmp",
 		Description = {
 			"Speak with the estate <NAVI>[Administrator]<INFO>ba_maison,189,56,0,101,0</INFO></NAVI>."
@@ -44597,7 +44807,7 @@ QuestInfoList = {
 		Summary = "Speak with the Administrator"
 	},
 	[16443] = {
-		Title = "That Administrator’s Story",
+		Title = "That Administrator's Story",
 		IconName = "ico_ep.bmp",
 		Description = {
 			"Speak with the estate <NAVI>[Administrator]<INFO>ba_maison,318,169,0,101,0</INFO></NAVI>."
@@ -44605,7 +44815,7 @@ QuestInfoList = {
 		Summary = "Speak with the Administrator"
 	},
 	[16444] = {
-		Title = "That Administrator’s Story",
+		Title = "That Administrator's Story",
 		IconName = "ico_ep.bmp",
 		Description = {
 			"Speak with the estate <NAVI>[Administrator]<INFO>ba_maison,249,161,0,101,0</INFO></NAVI>."
@@ -44613,7 +44823,7 @@ QuestInfoList = {
 		Summary = "Speak with the Administrator"
 	},
 	[16445] = {
-		Title = "That Administrator’s Story",
+		Title = "That Administrator's Story",
 		IconName = "ico_ep.bmp",
 		Description = {
 			"Speak with the estate <NAVI>[Administrator]<INFO>ba_maison,232,310,0,101,0</INFO></NAVI>."
@@ -44672,7 +44882,7 @@ QuestInfoList = {
 		Title = "I Want to Know the Truth",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"<NAVI>[Tatio]<INFO>ba_in01,205,109,0,101,0</INFO></NAVI> has arrived. Listen to what he has to say about the corporation’s future."
+			"<NAVI>[Tatio]<INFO>ba_in01,205,109,0,101,0</INFO></NAVI> has arrived. Listen to what he has to say about the corporation's future."
 		},
 		Summary = "Speak with Tatio"
 	},
@@ -46301,9 +46511,9 @@ Talk to Kar=],
 		Title = "Guest of the Estate",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"There seems to be an issue while sharing the guest list over the estate network. Check with <NAVI>[Mansion Manager α]<INFO>ba_maison,74,150,0,101,0</INFO></NAVI>."
+			"There seems to be an issue while sharing the guest list over the estate network. Check with <NAVI>[Mansion Manager Alpha]<INFO>ba_maison,74,150,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Mansion Manager α"
+		Summary = "Mansion Manager Alpha"
 	},
 	[17334] = {
 		Title = "Check Relay Device: Dining Hall",
@@ -46325,7 +46535,7 @@ Talk to Kar=],
 		Title = "Check Relay Device: Pavilion",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Follow this path straight to reach the <NAVI>[Pavilion]<INFO>ba_maison,334,143,0,101,0</INFO></NAVI>. Do not tamper with the malfunctioning Relay Device—inform the nearby automata instead."
+			"Follow this path straight to reach the <NAVI>[Pavilion]<INFO>ba_maison,334,143,0,101,0</INFO></NAVI>. Do not tamper with the malfunctioning Relay Device. Inform the nearby automata instead."
 		},
 		Summary = "Head to the Pavilion"
 	},
@@ -46333,7 +46543,7 @@ Talk to Kar=],
 		Title = "Check Relay Device: Central Garden",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"To reach the estate’s <NAVI>[Central Garden]<INFO>ba_maison,245,206,0,101,0</INFO></NAVI>, proceed upward from the Pavilion and turn left."
+			"To reach the estate's <NAVI>[Central Garden]<INFO>ba_maison,245,206,0,101,0</INFO></NAVI>, proceed upward from the Pavilion and turn left."
 		},
 		Summary = "Head to the Central Garden"
 	},
@@ -46341,9 +46551,9 @@ Talk to Kar=],
 		Title = "Relay Device Check Complete",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"After inspecting the malfunctioning Relay Device, you informed the automaton of the issue. Return to <NAVI>[Mansion Manager α]<INFO>ba_maison,74,150,0,101,0</INFO></NAVI> and report."
+			"After inspecting the malfunctioning Relay Device, you informed the automaton of the issue. Return to <NAVI>[Mansion Manager Alpha]<INFO>ba_maison,74,150,0,101,0</INFO></NAVI> and report."
 		},
-		Summary = "Return to Mansion Manager α"
+		Summary = "Return to Mansion Manager Alpha"
 	},
 	[17339] = {
 		Title = "Procure Spare Parts",
@@ -46357,7 +46567,7 @@ Talk to Kar=],
 		Title = "Procure Spare Parts",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Deal with the malfunctioning Betas and bring 10 parts to be used for the Relay Device. That is the daily reserve amount. - <NAVI>[Mansion Manager α]<INFO>ba_maison,74,150,0,101,0</INFO></NAVI>"
+			"Deal with the malfunctioning Betas and bring 10 parts to be used for the Relay Device. That is the daily reserve amount. - <NAVI>[Mansion Manager Alpha]<INFO>ba_maison,74,150,0,101,0</INFO></NAVI>"
 		},
 		Summary = "10 Components"
 	},
@@ -46365,17 +46575,17 @@ Talk to Kar=],
 		Title = "Waiting: No Signal",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"If circumstances permit, I would like to ask for your assistance again after dawn tomorrow. Please rest well for now. - <NAVI>[Mansion Manager α]<INFO>ba_maison,74,150,0,101,0</INFO></NAVI>"
+			"If circumstances permit, I would like to ask for your assistance again after dawn tomorrow. Please rest well for now. - <NAVI>[Mansion Manager Alpha]<INFO>ba_maison,74,150,0,101,0</INFO></NAVI>"
 		},
 		Summary = "Resets at 04:00"
 	},
 	[17342] = {
-		Title = "It’s Not That I Like It",
+		Title = "It's Not That I Like It",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Then I shall trouble you. Please dispose of about 5 malfunctioning Cleaning Robots. Enjoy your leisure afterward. - <NAVI>[Jjack]<INFO>ba_2whs01,150,51,0,101,0</INFO></NAVI>"
+			"Then I shall trouble you. Please dispose of about 5 Broken Omega Cleaners. Enjoy your leisure afterward. - <NAVI>[Jjack]<INFO>ba_2whs01,150,51,0,101,0</INFO></NAVI>"
 		},
-		Summary = "5 Malfunctioning Cleaning Robots"
+		Summary = "5 Broken Omega Cleaners"
 	},
 	[17343] = {
 		Title = "Scary...",
@@ -46437,7 +46647,7 @@ Talk to Kar=],
 		Title = "Head Body, Arms, Legs",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"The <NAVI>[body’s location]<INFO>ba_2whs02,31,50,0,101,0</INFO></NAVI> is the closest. Go there first and bring it quickly. I’m scared."
+			"The <NAVI>[body's location]<INFO>ba_2whs02,31,50,0,101,0</INFO></NAVI> is the closest. Go there first and bring it quickly. I'm scared."
 		},
 		Summary = "Go find the body"
 	},
@@ -46453,7 +46663,7 @@ Talk to Kar=],
 		Title = "Head Body, Arms, Legs",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"The arms are found, so now it’s time to look for the <NAVI>[legs]<INFO>ba_2whs02,239,124,0,101,0</INFO></NAVI>."
+			"The arms are found, so now it's time to look for the <NAVI>[legs]<INFO>ba_2whs02,239,124,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Go find the legs"
 	},
@@ -46581,7 +46791,7 @@ Talk to Kar=],
 		Title = "Trap Installation 1",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Adventurer, please install this in the <NAVI>[corner]<INFO>ba_bath,55,55,0,101,0</INFO></NAVI> of the bathhouse. Just place it securely so it doesn’t move."
+			"Adventurer, please install this in the <NAVI>[corner]<INFO>ba_bath,55,55,0,101,0</INFO></NAVI> of the bathhouse. Just place it securely so it doesn't move."
 		},
 		Summary = "Move to the designated location"
 	},
@@ -46613,12 +46823,12 @@ Talk to Kar=],
 		Title = "Trap Installation Complete",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Are all traps installed? It’s already begun here. Hurry to the <NAVI>[operation site]<INFO>ba_bath,286,298,0,101,0</INFO></NAVI>."
+			"Are all traps installed? It's already begun here. Hurry to the <NAVI>[operation site]<INFO>ba_bath,286,298,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Move to the operation site"
 	},
 	[17373] = {
-		Title = "Let’s Try Talking First",
+		Title = "Let's Try Talking First",
 		IconName = "ico_ep.bmp",
 		Description = {
 			"The mysterious <NAVI>[person]<INFO>ba_bath,286,298,0,101,0</INFO></NAVI> who resembles Goni seemed to be choosing their words. Attempt to speak again."
@@ -46639,7 +46849,7 @@ Talk to Kar=],
 		Description = {
 			"Please eliminate about 20 Broken masseur and bring around 5 broken automaton parts. - <NAVI>[Boiler]<INFO>ba_bath,286,68,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Heard Boiler’s request"
+		Summary = "Heard Boiler's request"
 	},
 	[17376] = {
 		Title = "Between the Hot and Cold Baths",
@@ -46663,7 +46873,7 @@ Talk to Kar=],
 		Description = {
 			"Please eliminate 15 Hot-water Mark and 15 Hot-water Piranha. Handle them all within this area. - <NAVI>[Saksseuri]<INFO>ba_bath,288,68,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Heard Saksseuri’s request"
+		Summary = "Heard Saksseuri's request"
 	},
 	[17379] = {
 		Title = "Bathhouse Cleaning in Progress",
@@ -47839,7 +48049,7 @@ Talk to Kar=],
 		Title = "An Unexpected Big Catch",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Thanks to Elena’s quick thinking, Eisen Werner has been captured. Elena heads to the <NAVI>[Servants’ Quarters]<INFO>ba_maison,100,320,0,101,0</INFO></NAVI>, where Eliumina is being detained, escorting Aizen Werner. Join them and interrogate Aizen."
+			"Thanks to Elena's quick thinking, Eisen Werner has been captured. Elena heads to the <NAVI>[Servants' Quarters]<INFO>ba_maison,100,320,0,101,0</INFO></NAVI>, where Eliumina is being detained, escorting Aizen Werner. Join them and interrogate Aizen."
 		},
 		Summary = "Talk to Rookie"
 	},
@@ -47895,7 +48105,7 @@ Talk to Kar=],
 		Title = "An Unexpected Guest",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Crux has arrived from the Prontera Royal Palace. Claiming to have come to escort someone to the palace, speak with Crux in the Servants’ Quarters lounge."
+			"Crux has arrived from the Prontera Royal Palace. Claiming to have come to escort someone to the palace, speak with Crux in the Servants' Quarters lounge."
 		},
 		Summary = "Talk to Crux"
 	},
@@ -55564,7 +55774,7 @@ Talk to Kar=],
 		Summary = "Hunt for Materials"
 	},
 	[24135] = {
-		Title = "Get ready! Berg Katse!",
+		Title = "Get ready, Berg Katse!",
 		IconName = "ico_ev.bmp",
 		Description = {
 			"Berg Katse seems to be repairing the <NAVI>[rift]<INFO>morocc,22,188,0,101,0</INFO></NAVI>, away from prying eyes. Let's smash it again.",
@@ -55573,7 +55783,7 @@ Talk to Kar=],
 		Summary = "Investigate the Inner Fissure"
 	},
 	[24136] = {
-		Title = "Get ready! Berg Katse!",
+		Title = "Get ready, Berg Katse!",
 		IconName = "ico_ev.bmp",
 		Description = {
 			"The Galactor gang has been driven out and the rift has been cleared. Perhaps it will be safe until they repair it again?"
@@ -55582,7 +55792,7 @@ Talk to Kar=],
 		CoolTimeQuest = 1
 	},
 	[24137] = {
-		Title = "Prepare yourself! Berg Katse!",
+		Title = "Prepare yourself, Berg Katse!",
 		IconName = "ico_ev.bmp",
 		Description = {
 			"Collect about 10 Midga Powder needed to manufacture the Midga Missile <NAVI>[and bring them back]<INFO>morocc,32,194,0,101,0</INFO></NAVI>. Midga Powder can be obtained by defeating Galarings and Squid Bombs.",
@@ -72445,70 +72655,70 @@ Talk to Kar=],
 	[295259] = {
 		Title = "Battle Pass Daily1",
 		Description = {
-			"Defeat 200 Hydras"
+			"Defeat 3 Sasquatchs"
 		},
-		Summary = "Defeat 200 Hydras"
+		Summary = "Defeat 3 Sasquatchs"
 	},
 	[295260] = {
 		Title = "Battle Pass Daily1",
 		Description = {
-			"Defeat Hydras / Once per day, resets at 04:00"
+			"Defeat Sasquatchs / Once per day, resets at 04:00"
 		},
 		Summary = "Resets at 04:00"
 	},
 	[295261] = {
 		Title = "Battle Pass Daily2",
 		Description = {
-			"Defeat 20 Menblatts, 20 Petals."
+			"Defeat Fenrir."
 		},
-		Summary = "Defeat 20 Menblatts, 20 Petals"
+		Summary = "Defeat Fenrir"
 	},
 	[295262] = {
 		Title = "Battle Pass Daily2",
 		Description = {
-			"Defeat Menblatts, Petals/ Once per day, resets at 04:00"
+			"Defeat Fenrir/ Once per day, resets at 04:00"
 		},
 		Summary = "Resets at 04:00"
 	},
 	[295263] = {
 		Title = "Battle Pass Daily3",
 		Description = {
-			"Deliver 15 Hard Feelers"
+			"Deliver 100 Window Shopper Catalogues"
 		},
-		Summary = "Deliver 15 Hard Feelers"
+		Summary = "Deliver 100 Window Shopper Catalogues"
 	},
 	[295264] = {
 		Title = "Battle Pass Daily3",
 		Description = {
-			"Deliver Hard Feelers/ Once per day, resets at 04:00"
+			"Deliver Window Shopper Catalogues/ Once per day, resets at 04:00"
 		},
 		Summary = "Resets at 04:00"
 	},
 	[295265] = {
 		Title = "Battle Pass Daily4",
 		Description = {
-			"Deliver 100 Tentacles"
+			"Submit 200,000 Zeny"
 		},
-		Summary = "Deliver 100 Tentacles"
+		Summary = "Submit 200,000 Zeny"
 	},
 	[295266] = {
 		Title = "Battle Pass Daily4",
 		Description = {
-			"Deliver Tentacles/ Once per day, resets at 04:00"
+			"Submit Zeny/ Once per day, resets at 04:00"
 		},
 		Summary = "Resets at 04:00"
 	},
 	[295267] = {
 		Title = "Battle Pass Daily5",
 		Description = {
-			"Defeat 5 Heart Hunter Ebels"
+			"Defeat 50 Corrupted Wanderers"
 		},
-		Summary = "Defeat 5 Heart Hunter Ebels"
+		Summary = "Defeat 50 Corrupted Wanderers"
 	},
 	[295268] = {
 		Title = "Battle Pass Daily5",
 		Description = {
-			"Defeat Heart Hunter Ebels / Once per week, resets at 04:00"
+			"Defeat Corrupted Wanderers / Once per week, resets at 04:00"
 		},
 		Summary = "Resets at 04:00"
 	},

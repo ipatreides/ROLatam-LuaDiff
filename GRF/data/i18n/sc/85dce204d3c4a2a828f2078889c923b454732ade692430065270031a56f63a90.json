@@ -1612,5 +1612,551 @@
         "en": "Rate Rang High Payout/Doubles/1st2nd Choice/No Blanks/Success/300 Mysterious Coins/  \n6 Monsters Appearing Daily/  \nFamiliar Poring/Cute Lunatic/Adorable Savage Baby/Loyal Desert Wolf/  \nCutie Deviruchi/Sweet Rascal Baphomet Jr./ × [Doubles] ×  \n24/7 Open Year-Round",
         "pt": "Betigrin†Alto Risco†Escolha do 1º e 2º¢Sem Erros¢SucessoÞ300 Moedas de CorridaÞ  \n6 Monstros aparecem Diariamente€  \nPoring•Lunático•Bebê Selvagem•Filhote de Lobo\nDeviruchi•Bafomé Jr• × [Aposte] ×  \n24/7 Aberto o Ano Todo",
         "es": "Zeny Ya Apuestas Altas/Carrera Doble/Elección del 1.ᵉʳ y 2.⁰ lugar/Sin Vacíos/Éxito/300 Medallas Misteriosas/  \n6 Monstruos Apareciendo Diariamente/  \nPoring/Lunático/Bebé Salvaje/Lobo del Desierto/  \nDeviruchi/Baphomet Jr./ × [Carrera Doble] ×  \nAbierta 24/7, Todo el Año"
+    },
+    "rRThCw": {
+        "ko": "레이싱 캡(권성) 1개 - 400T",
+        "en": "Racing Cap (Taekwon) 1 - 400T",
+        "pt": "Gorra de Carrera (Taekwon) 1 - 400T",
+        "es": "Gorra de Carrera (Taekwon) 1 - 400T"
+    },
+    "rhThCw": {
+        "ko": "레이싱 캡(소울링커) 1개 - 400T",
+        "en": "Racing Cap (Soul Linker) 1 - 400T",
+        "pt": "Gorra de Carrera (Soul Linker) 1 - 400T",
+        "es": "Gorra de Carrera (Soul Linker) 1 - 400T"
+    },
+    "rxThCw": {
+        "ko": "<ITEM>레이싱 캡(권성)<INFO>19396</INFO></ITEM>",
+        "en": "<ITEM>Racing Cap (Taekwon)<INFO>19396</INFO></ITEM>",
+        "pt": "<ITEM>Gorra de Carrera (Taekwon)<INFO>19396</INFO></ITEM>",
+        "es": "<ITEM>Gorra de Carrera (Taekwon)<INFO>19396</INFO></ITEM>"
+    },
+    "sBThCw": {
+        "ko": "<ITEM>레이싱 캡(소울링커)<INFO>19397</INFO></ITEM>",
+        "en": "<ITEM>Racing Cap (Soul Linker)<INFO>19397</INFO></ITEM>",
+        "pt": "<ITEM>Gorra de Carrera (Soul Linker)<INFO>19397</INFO></ITEM>",
+        "es": "<ITEM>Gorra de Carrera (Soul Linker)<INFO>19397</INFO></ITEM>"
+    },
+    "sRThCw": {
+        "ko": "랜덤옵션 체크 기능 추가.",
+        "en": "Random Option Check function added.",
+        "pt": "Funcao de verificacao de Opcao Aleatoria adicionada.",
+        "es": "Funcion de verificacion de Opcion Aleatoria agregada."
+    },
+    "shThCw": {
+        "ko": "^FF0000랜덤옵션이 확인됩니다. 해당 장비는 작업 하실 수 없습니다.^000000",
+        "en": "^FF0000Random option detected. This equipment cannot be processed.^000000",
+        "pt": "^FF0000Opcao aleatoria detectada. Este equipamento nao pode ser processado.^000000",
+        "es": "^FF0000Opcion aleatoria detectada. Este equipo no puede procesarse.^000000"
+    },
+    "sxThCw": {
+        "ko": "운영자모드-모자(DB{0})에 작업하나요?",
+        "en": "GM Mode - Work on Headgear (DB{0})?",
+        "pt": "Modo GM - Trabalhar no Chapeu (DB{0})?",
+        "es": "Modo GM - Trabajar en Sombrero (DB{0})?"
+    },
+    "tBThCw": {
+        "ko": "그냥 진행",
+        "en": "Proceed Anyway",
+        "pt": "Continuar Mesmo Assim",
+        "es": "Continuar de Todos Modos"
+    },
+    "tRThCw": {
+        "ko": "사용",
+        "en": "Use",
+        "pt": "Usar",
+        "es": "Usar"
+    },
+    "thThCw": {
+        "ko": "[운영자모드]\n□□□■\n4번째 슬롯선택",
+        "en": "[GM Mode]\n[---*]\nSelect 4th Slot",
+        "pt": "[Modo GM]\n[---*]\nSelecionar 4º Slot",
+        "es": "[Modo GM]\n[---*]\nSeleccionar 4º Slot"
+    },
+    "txThCw": {
+        "ko": "덱1",
+        "en": "DEX1",
+        "pt": "DES1",
+        "es": "DES1"
+    },
+    "uBThCw": {
+        "ko": "덱2",
+        "en": "DEX2",
+        "pt": "DES2",
+        "es": "DES2"
+    },
+    "uRThCw": {
+        "ko": "덱3",
+        "en": "DEX3",
+        "pt": "DES3",
+        "es": "DES3"
+    },
+    "uhThCw": {
+        "ko": "럭1",
+        "en": "LUK1",
+        "pt": "SOR1",
+        "es": "SUE1"
+    },
+    "uxThCw": {
+        "ko": "럭2",
+        "en": "LUK2",
+        "pt": "SOR2",
+        "es": "SUE2"
+    },
+    "vBThCw": {
+        "ko": "럭3",
+        "en": "LUK3",
+        "pt": "SOR3",
+        "es": "SUE3"
+    },
+    "vRThCw": {
+        "ko": "바탈1",
+        "en": "VIT1",
+        "pt": "VIT1",
+        "es": "VIT1"
+    },
+    "vhThCw": {
+        "ko": "바탈2",
+        "en": "VIT2",
+        "pt": "VIT2",
+        "es": "VIT2"
+    },
+    "vxThCw": {
+        "ko": "바탈3",
+        "en": "VIT3",
+        "pt": "VIT3",
+        "es": "VIT3"
+    },
+    "wBThCw": {
+        "ko": "어질1",
+        "en": "AGI1",
+        "pt": "AGI1",
+        "es": "AGI1"
+    },
+    "wRThCw": {
+        "ko": "어질2",
+        "en": "AGI2",
+        "pt": "AGI2",
+        "es": "AGI2"
+    },
+    "whThCw": {
+        "ko": "어질3",
+        "en": "AGI3",
+        "pt": "AGI3",
+        "es": "AGI3"
+    },
+    "wxThCw": {
+        "ko": "인트1",
+        "en": "INT1",
+        "pt": "INT1",
+        "es": "INT1"
+    },
+    "xBThCw": {
+        "ko": "인트2",
+        "en": "INT2",
+        "pt": "INT2",
+        "es": "INT2"
+    },
+    "xRThCw": {
+        "ko": "인트3",
+        "en": "INT3",
+        "pt": "INT3",
+        "es": "INT3"
+    },
+    "xhThCw": {
+        "ko": "힘1",
+        "en": "STR1",
+        "pt": "FOR1",
+        "es": "FUE1"
+    },
+    "xxThCw": {
+        "ko": "힘2",
+        "en": "STR2",
+        "pt": "FOR2",
+        "es": "FUE2"
+    },
+    "yBThCw": {
+        "ko": "힘3",
+        "en": "STR3",
+        "pt": "FOR3",
+        "es": "FUE3"
+    },
+    "yRThCw": {
+        "ko": "[운영자모드]\n□□■□\n3번째 슬롯선택",
+        "en": "[GM Mode]\n[--*-]\nSelect 3rd Slot",
+        "pt": "[Modo GM]\n[--*-]\nSelecionar 3º Slot",
+        "es": "[Modo GM]\n[--*-]\nSeleccionar 3º Slot"
+    },
+    "yhThCw": {
+        "ko": "덱4",
+        "en": "DEX4",
+        "pt": "DES4",
+        "es": "DES4"
+    },
+    "yxThCw": {
+        "ko": "럭4",
+        "en": "LUK4",
+        "pt": "SOR4",
+        "es": "SUE4"
+    },
+    "zBThCw": {
+        "ko": "바탈4",
+        "en": "VIT4",
+        "pt": "VIT4",
+        "es": "VIT4"
+    },
+    "zRThCw": {
+        "ko": "어질4",
+        "en": "AGI4",
+        "pt": "AGI4",
+        "es": "AGI4"
+    },
+    "zhThCw": {
+        "ko": "인트4",
+        "en": "INT4",
+        "pt": "INT4",
+        "es": "INT4"
+    },
+    "zxThCw": {
+        "ko": "힘4",
+        "en": "STR4",
+        "pt": "FOR4",
+        "es": "FUE4"
+    },
+    "0BThCw": {
+        "ko": "[운영자모드]\n□■□□\n2번째 슬롯선택",
+        "en": "[GM Mode]\n[-*--]\nSelect 2nd Slot",
+        "pt": "[Modo GM]\n[-*--]\nSelecionar 2º Slot",
+        "es": "[Modo GM]\n[-*--]\nSeleccionar 2º Slot"
+    },
+    "0RThCw": {
+        "ko": "공격후딜레이1",
+        "en": "After Attack Delay1",
+        "pt": "Atraso Pos-Ataque1",
+        "es": "Retraso Post-Ataque1"
+    },
+    "0hThCw": {
+        "ko": "공격후딜레이2",
+        "en": "After Attack Delay2",
+        "pt": "Atraso Pos-Ataque2",
+        "es": "Retraso Post-Ataque2"
+    },
+    "0xThCw": {
+        "ko": "마력1",
+        "en": "Magic Power1",
+        "pt": "Poder Magico1",
+        "es": "Poder Magico1"
+    },
+    "1BThCw": {
+        "ko": "마력2",
+        "en": "Magic Power2",
+        "pt": "Poder Magico2",
+        "es": "Poder Magico2"
+    },
+    "1RThCw": {
+        "ko": "명궁1",
+        "en": "Sharpshooter1",
+        "pt": "Tiro Preciso1",
+        "es": "Tiro Preciso1"
+    },
+    "1hThCw": {
+        "ko": "명궁2",
+        "en": "Sharpshooter2",
+        "pt": "Tiro Preciso2",
+        "es": "Tiro Preciso2"
+    },
+    "1xThCw": {
+        "ko": "첨예1",
+        "en": "Precision1",
+        "pt": "Precisao1",
+        "es": "Precision1"
+    },
+    "2BThCw": {
+        "ko": "첨예2",
+        "en": "Precision2",
+        "pt": "Precisao2",
+        "es": "Precision2"
+    },
+    "2RThCw": {
+        "ko": "치명1",
+        "en": "Critical1",
+        "pt": "Critico1",
+        "es": "Critico1"
+    },
+    "2hThCw": {
+        "ko": "치명2",
+        "en": "Critical2",
+        "pt": "Critico2",
+        "es": "Critico2"
+    },
+    "2xThCw": {
+        "ko": "투지1",
+        "en": "Fighting Spirit1",
+        "pt": "Espirito de Luta1",
+        "es": "Espiritu de Lucha1"
+    },
+    "3BThCw": {
+        "ko": "투지2",
+        "en": "Fighting Spirit2",
+        "pt": "Espirito de Luta2",
+        "es": "Espiritu de Lucha2"
+    },
+    "3RThCw": {
+        "ko": "건너1",
+        "en": "Cross1",
+        "pt": "Cross1",
+        "es": "Cross1"
+    },
+    "3hThCw": {
+        "ko": "건너2",
+        "en": "Cross2",
+        "pt": "Cross2",
+        "es": "Cross2"
+    },
+    "3xThCw": {
+        "ko": "권성1",
+        "en": "Taekwon1",
+        "pt": "Taekwon1",
+        "es": "Taekwon1"
+    },
+    "4BThCw": {
+        "ko": "권성2",
+        "en": "Taekwon2",
+        "pt": "Taekwon2",
+        "es": "Taekwon2"
+    },
+    "4RThCw": {
+        "ko": "닌자1",
+        "en": "Ninja1",
+        "pt": "Ninja1",
+        "es": "Ninja1"
+    },
+    "4hThCw": {
+        "ko": "닌자2",
+        "en": "Ninja2",
+        "pt": "Ninja2",
+        "es": "Ninja2"
+    },
+    "4xThCw": {
+        "ko": "도람1",
+        "en": "Doram1",
+        "pt": "Doram1",
+        "es": "Doram1"
+    },
+    "5BThCw": {
+        "ko": "도람2",
+        "en": "Doram2",
+        "pt": "Doram2",
+        "es": "Doram2"
+    },
+    "5RThCw": {
+        "ko": "레인저1",
+        "en": "Ranger1",
+        "pt": "Ranger1",
+        "es": "Ranger1"
+    },
+    "5hThCw": {
+        "ko": "레인저2",
+        "en": "Ranger2",
+        "pt": "Ranger2",
+        "es": "Ranger2"
+    },
+    "5xThCw": {
+        "ko": "로얄가드1",
+        "en": "Royal Guard1",
+        "pt": "Guarda Real1",
+        "es": "Guardia Real1"
+    },
+    "6BThCw": {
+        "ko": "로얄가드2",
+        "en": "Royal Guard2",
+        "pt": "Guarda Real2",
+        "es": "Guardia Real2"
+    },
+    "6RThCw": {
+        "ko": "룬나이트1",
+        "en": "Rune Knight1",
+        "pt": "Cavaleiro Runa1",
+        "es": "Rune Knight1"
+    },
+    "6hThCw": {
+        "ko": "룬나이트2",
+        "en": "Rune Knight2",
+        "pt": "Cavaleiro Runa2",
+        "es": "Rune Knight2"
+    },
+    "6xThCw": {
+        "ko": "미케닉1",
+        "en": "Mechanic1",
+        "pt": "Mecanico1",
+        "es": "Mecanico1"
+    },
+    "7BThCw": {
+        "ko": "미케닉2",
+        "en": "Mechanic2",
+        "pt": "Mecanico2",
+        "es": "Mecanico2"
+    },
+    "7RThCw": {
+        "ko": "비숍1",
+        "en": "Bishop1",
+        "pt": "Bispo1",
+        "es": "Obispo1"
+    },
+    "7hThCw": {
+        "ko": "비숍2",
+        "en": "Bishop2",
+        "pt": "Bispo2",
+        "es": "Obispo2"
+    },
+    "7xThCw": {
+        "ko": "소서러1",
+        "en": "Sorcerer1",
+        "pt": "Feiticeiro1",
+        "es": "Hechicero1"
+    },
+    "8BThCw": {
+        "ko": "소서러2",
+        "en": "Sorcerer2",
+        "pt": "Feiticeiro2",
+        "es": "Hechicero2"
+    },
+    "8RThCw": {
+        "ko": "소울링커1",
+        "en": "Soul Linker1",
+        "pt": "Soul Linker1",
+        "es": "Soul Linker1"
+    },
+    "8hThCw": {
+        "ko": "소울링커2",
+        "en": "Soul Linker2",
+        "pt": "Soul Linker2",
+        "es": "Soul Linker2"
+    },
+    "8xThCw": {
+        "ko": "수라1",
+        "en": "Sura1",
+        "pt": "Sura1",
+        "es": "Sura1"
+    },
+    "9BThCw": {
+        "ko": "수라2",
+        "en": "Sura2",
+        "pt": "Sura2",
+        "es": "Sura2"
+    },
+    "9RThCw": {
+        "ko": "쉐체1",
+        "en": "Shadow Chaser1",
+        "pt": "Arruaceiro das Sombras1",
+        "es": "Shadow Chaser1"
+    },
+    "9hThCw": {
+        "ko": "쉐체2",
+        "en": "Shadow Chaser2",
+        "pt": "Arruaceiro das Sombras2",
+        "es": "Shadow Chaser2"
+    },
+    "9xThCw": {
+        "ko": "슈노1",
+        "en": "Super Novice1",
+        "pt": "Super Aprendiz1",
+        "es": "Super Novice1"
+    },
+    "+BThCw": {
+        "ko": "슈노2",
+        "en": "Super Novice2",
+        "pt": "Super Aprendiz2",
+        "es": "Super Novice2"
+    },
+    "+RThCw": {
+        "ko": "어크1",
+        "en": "Guillotine Cross1",
+        "pt": "Guillotine Cross1",
+        "es": "Guillotine Cross1"
+    },
+    "+hThCw": {
+        "ko": "어크2",
+        "en": "Guillotine Cross2",
+        "pt": "Guillotine Cross2",
+        "es": "Guillotine Cross2"
+    },
+    "+xThCw": {
+        "ko": "워록1",
+        "en": "Warlock1",
+        "pt": "Warlock1",
+        "es": "Warlock1"
+    },
+    "/BThCw": {
+        "ko": "워록2",
+        "en": "Warlock2",
+        "pt": "Warlock2",
+        "es": "Warlock2"
+    },
+    "/RThCw": {
+        "ko": "원더민스1",
+        "en": "Wanderer Minstrel1",
+        "pt": "Menestrel Errante1",
+        "es": "Wanderer Minstrel1"
+    },
+    "/hThCw": {
+        "ko": "원더민스2",
+        "en": "Wanderer Minstrel2",
+        "pt": "Menestrel Errante2",
+        "es": "Wanderer Minstrel2"
+    },
+    "/xThCw": {
+        "ko": "제네릭1",
+        "en": "Genetic1",
+        "pt": "Genetico1",
+        "es": "Genetico1"
+    },
+    "ABXhCw": {
+        "ko": "제네릭2",
+        "en": "Genetic2",
+        "pt": "Genetico2",
+        "es": "Genetico2"
+    },
+    "ARXhCw": {
+        "ko": "[운영자모드]\n작업완료",
+        "en": "[GM Mode]\nProcess Completed",
+        "pt": "[Modo GM]\nProcesso Concluido",
+        "es": "[Modo GM]\nProceso Completado"
+    },
+    "AhXhCw": {
+        "ko": "랜덤값1 {0}-{1} {2}",
+        "en": "Random Value1 {0}-{1} {2}",
+        "pt": "Valor Aleatorio1 {0}-{1} {2}",
+        "es": "Valor Aleatorio1 {0}-{1} {2}"
+    },
+    "AxXhCw": {
+        "ko": "랜덤값2 {0}-{1} {2}",
+        "en": "Random Value2 {0}-{1} {2}",
+        "pt": "Valor Aleatorio2 {0}-{1} {2}",
+        "es": "Valor Aleatorio2 {0}-{1} {2}"
+    },
+    "BBXhCw": {
+        "ko": "랜덤값3 {0}",
+        "en": "Random Value3 {0}",
+        "pt": "Valor Aleatorio3 {0}",
+        "es": "Valor Aleatorio3 {0}"
+    },
+    "BRXhCw": {
+        "ko": "랜덤값4 {0}",
+        "en": "Random Value4 {0}",
+        "pt": "Valor Aleatorio4 {0}",
+        "es": "Valor Aleatorio4 {0}"
+    },
+    "BhXhCw": {
+        "ko": "랜덤값5 {0}",
+        "en": "Random Value5 {0}",
+        "pt": "Valor Aleatorio5 {0}",
+        "es": "Valor Aleatorio5 {0}"
+    },
+    "BxXhCw": {
+        "ko": "운영자모드-캐스팅제거",
+        "en": "GM Mode - Remove Casting",
+        "pt": "Modo GM - Remover Casting",
+        "es": "Modo GM - Eliminar Casting"
     }
 }

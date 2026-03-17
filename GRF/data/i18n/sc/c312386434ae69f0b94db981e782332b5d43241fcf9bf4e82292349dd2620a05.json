@@ -72,12 +72,12 @@
     "LhlHBw": {
         "en": "-- Faceworm's Nest Records --\nBest time belongs to adventurer ^FF0044{0}^000000\nCurrent record time is ^0000FF{1}^000000.",
         "pt": "-- Recordes --\nO menor tempo de caçada no Covil de Vermes foi de \ncom incríveis",
-        "es": "-- Registros del nido del Lombrirrostro --\nEl mejor tiempo le pertenece al viajante ^FF0044{0}^000000.\nEl tiempo récord actual es ^0000FF{1}^000000."
+        "es": "-- Registros del Nido de Lombrirrostro --\nEl mejor tiempo le pertenece al viajante ^FF0044{0}^000000.\nEl tiempo récord actual es ^0000FF{1}^000000."
     },
     "LxlHBw": {
         "en": "-- Faceworm's Nest Records --\nBest time belongs to adventurers ^FF0044{0}^000000 and ^FF0044{1}^000000\nCurrent record time is ^0000FF{2}^000000.",
         "pt": "-- Recordes --\nO menor tempo de caçada no Covil de Vermes foi de \npelos entegrantes do grupo",
-        "es": "-- Registros del nido del Lombrirrostro --\nEl mejor tiempo les pertenece a los viajantes ^FF0044{0}^000000 y ^FF0044{1}^000000.\nEl tiempo récord actual es ^0000FF{2}^000000."
+        "es": "-- Registros del Nido de Lombrirrostro --\nEl mejor tiempo les pertenece a los viajantes ^FF0044{0}^000000 y ^FF0044{1}^000000.\nEl tiempo récord actual es ^0000FF{2}^000000."
     },
     "MBlHBw": {
         "en": "Magic Scholar",
@@ -102,7 +102,7 @@
     "NBlHBw": {
         "en": "Faceworm's Nest",
         "pt": "Covil de Vermes",
-        "es": "Nido del Lombrirrostro"
+        "es": "Nido de Lombrirrostro"
     },
     "NRlHBw": {
         "en": "[Magic Scholar]\nWhat can I do for you?",
@@ -112,7 +112,7 @@
     "NhlHBw": {
         "en": "Reserve Faceworm's Nest",
         "pt": "Por favor, ative as fissuras.",
-        "es": "Nido del Lombrirrostro de reserva"
+        "es": "Reservar Nido de Lombrirrostro"
     },
     "NxlHBw": {
         "en": "What are you doing here?",
@@ -292,7 +292,7 @@
     "WhlHBw": {
         "en": "Show the ring from the Faceworm's Nest.",
         "pt": "Mostrar o anel que encontrou",
-        "es": "Mostrarle el anillo del nido del Lombrirrostro."
+        "es": "Mostrarle el anillo del Nido de Lombrirrostro."
     },
     "WxlHBw": {
         "en": "[Jeum-sun]\nWhat about this ring?",
@@ -407,7 +407,7 @@
     "cRlHBw": {
         "en": "You can talk to sergio again when you pick up a new photo album from the Faceworm's Nest.",
         "pt": "Você pode falar com Sergio quando encontrar outro álbum de fotos.",
-        "es": "Puedes volver a hablar con Sergio si consigues otro álbum de fotos en el nido del Lombrirrostro."
+        "es": "Puedes volver a hablar con Sergio si consigues otro álbum de fotos."
     },
     "chlHBw": {
         "en": "Strong Looking Man",
@@ -492,7 +492,7 @@
     "ghlHBw": {
         "en": "You can talk to Dol-Seoi again if you get another Old Pill from the Faceworm's Nest.",
         "pt": "Você poderá falar com o Servo Infeliz novamente se obtiver outro saco de pílulas.",
-        "es": "Puedes volver a hablar con Dol-Seoi si consigues otra Píldora antigua en el nido del Lombrirrostro."
+        "es": "Puedes volver a hablar con Dol-Seoi si consigues otra Píldora antigua en el Nido de Lombrirrostro."
     },
     "gxlHBw": {
         "en": "A dreary man",
@@ -562,7 +562,7 @@
     "kBlHBw": {
         "en": "Keaton is very sad maybe it is because the rusty bracelet was broken. Bring him any other Rusty Bracelets found in the Faceworm's Nest.",
         "pt": "A alma de Keaton está feliz com o bracelete. É melhor não perguntar por que sua alma não descansa em paz.",
-        "es": "Keaton está muy triste, quizá sea porque la pulsera oxidada se rompió. Tráele cualquier otra Pulsera oxidada que encuentres en el nido del Lombrirrostro."
+        "es": "Keaton está muy triste, quizá sea porque la pulsera oxidada se rompió. Tráele cualquier otra Pulsera oxidada que encuentres en el Nido de Lombrirrostro."
     },
     "kRlHBw": {
         "en": "{0}of party{1}A member of a party{2}yes, enter",

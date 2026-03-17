@@ -1,77 +1,92 @@
 {
     "4PHuBw": {
+        "ko": "낙오자",
         "en": "Straggler",
         "pt": "Retardatário",
-        "es": "Straggler"
+        "es": "Rezagad"
     },
     "4fHuBw": {
-        "en": "It's too late, you fools!",
-        "pt": "Tarde demais, seus tolos!",
-        "es": "¡Es demasiado tarde, tontos!"
+        "ko": "늦었다. 멍청이들아!",
+        "en": "You're late, you idiots!",
+        "pt": "Você demorou. Seus idiotas!",
+        "es": "Llegas tarde. ¡Idiotas!"
     },
     "4vHuBw": {
-        "en": "The airship has been manipulated! Hah hah hah!",
-        "pt": "O aeroplano foi manipulado! Hahaha!",
-        "es": "¡La aeronave ha sido manipulada! ¡Ja, ja, ja!"
+        "ko": "비공정 조작은 끝났어! 하하하!",
+        "en": "I’m done operating the Airship! Hahaha!",
+        "pt": "A manipulação da Placa do Aeroplano acabou! Hahahaha!",
+        "es": "¡Ya terminé de manipular Dirigible libre! ¡Ja, ja, ja!"
     },
     "4/HuBw": {
-        "en": "I, Sweetie, will deal with all the idiots who just came in!",
-        "pt": "Eu, Sweetie, vou dar jeito nos idiotas que acabaram de entrar!",
-        "es": "¡Yo, Sweetie, me encargaré de todos los idiotas que acaban de entrar!"
+        "ko": "지금 들어온 머저리들은 이 스위티 님이 상대해주마!",
+        "en": "I, Sweety, will deal with the fools who just came in!",
+        "pt": "Os imbecis que acabaram de entrar serão enfrentados por mim, o(a) Sweety!",
+        "es": "¡A los imbéciles que acaban de entrar los enfrentaré yo, Sweety!"
     },
     "5PHuBw": {
+        "ko": "스위티",
         "en": "Sweety",
-        "pt": "Sweetie",
+        "pt": "Sweety",
         "es": "Sweety"
     },
     "5fHuBw": {
-        "en": "Only the party leader can proceed with this event.",
-        "pt": "Apenas o líder do grupo pode continuar com este evento.",
-        "es": "Solo el líder del grupo puede proceder a este acto."
+        "ko": "파티 리더가 진행 가능한 이벤트입니다.",
+        "en": "This event can be held by the party leader.",
+        "pt": "Este é um evento que pode ser realizado pelo líder do grupo.",
+        "es": "Este evento solo puede ser realizado por el líder del grupo."
     },
     "5vHuBw": {
-        "en": "Est: I heard a loud noise coming from here.",
-        "pt": "Est: Eu ouvi um barulho alto vindo daqui.",
-        "es": "Est: Oí un fuerte ruido que venía de aquí."
+        "ko": "에스트: 여기에서 큰 소리가 들렸는데?",
+        "en": "Est: I heard a loud noise from here.",
+        "pt": "Est: Ouvi um barulho alto daqui?",
+        "es": "Est: ¿Se oyó un gran ruido aquí?"
     },
     "5/HuBw": {
-        "en": "Broken Sweetie",
-        "pt": "Sweetie Quebrado",
-        "es": "Broken Sweetie"
+        "ko": "고장난 스위티",
+        "en": "Broken Sweety",
+        "pt": "Sweety Quebrado",
+        "es": "Sweety Roto"
     },
     "6PHuBw": {
-        "en": "...I...will...get...you...all...",
-        "pt": "...Eu...vou...pegar...todos...vocês...",
-        "es": "Los... atraparé... a todos..."
+        "ko": "…. 네 … 들 … 가만 … 안 …둘 …",
+        "en": "... Yes... you... I... won’t... let... you...",
+        "pt": "…. Sim … vou … não … deixar …",
+        "es": "…. Sí … us … no … de … ja … ré …"
     },
     "6fHuBw": {
-        "en": "It sparks and stopes moving like a broken machine.\nSeeing that it avoids eye contact, it's not completely broken yet.",
-        "pt": "Solta faíscas e para de se mover como uma máquina quebrada.\nVisto que evita o contato visual, ele ainda não está completamente quebrado.",
-        "es": "Chispea y deja de moverse como una máquina averiada.\nViendo que evita el contacto visual, aún no está completamente roto."
+        "ko": "마치 기계가 고장난 듯 전류가 튀며 움직이지 않는다.\n시선을 피하는 것을 보니 완전히 망가진 건 아닌 듯 하다.",
+        "en": "It crackles with electricity and won’t move, as if the machine has broken down.\nIt avoids eye contact, so Bonnie doesn’t seem to be completely broken.",
+        "pt": "Como se a máquina estivesse quebrada, faíscas elétricas saltam e ela não se move.\nAo evitar o olhar, parece que Bonnie não está completamente quebrada.",
+        "es": "Como si la máquina se hubiera averiado, salta corriente y no se mueve.\nParece que Bonnie, que evita la mirada, no está completamente rota."
     },
     "6vHuBw": {
+        "ko": "에스트",
         "en": "Est",
         "pt": "Est",
         "es": "Est"
     },
     "6/HuBw": {
-        "en": "[Est]\nI'm a little late, but seems like the situation's already handled.\nThat must be the one who made a fuss in the garden to buy time.",
-        "pt": "[Est]\nCheguei meio tarde, mas parece que a situação já está resolvida.\nDeve ser quem que criou uma confusão no jardim para ganhar tempo.",
-        "es": "[Est]\nLlego un poco tarde, pero parece que la situación ya está controlada.\nEse debe ser el que hizo un alboroto en el jardín para ganar tiempo."
+        "ko": "[에스트]\n조금 늦었다만 이미 상황이 끝났군.\n저 녀석이군. 정원을 휘저으면서 시간을 끌던 녀석.",
+        "en": "[Est]\nI’m a bit late, but it seems it’s already over.\nThat’s the one. The one that was stirring up the garden to buy time.",
+        "pt": "[Est]\nFoi um pouco tarde, mas a situação já acabou.\nÉ aquele sujeito. O que estava causando confusão no jardim para ganhar tempo.",
+        "es": "[Est]\nLlegué un poco tarde, pero ya se acabó la situación.\nEs ese. El que estaba alborotando el jardín para ganar tiempo."
     },
     "7PHuBw": {
-        "en": "[Est]\nWas it to buy time to manipulate the airship?\nThe airship is... It's too late now.",
-        "pt": "[Est]\nEra para ganhar tempo para manipular o aeroplano?\nO aeroplano... É tarde demais agora.",
-        "es": "[Est]\n¿Fue para ganar tiempo para poder manipular la aeronave?\nLa aeronave es... Es demasiado tarde ahora."
+        "ko": "[에스트]\n결국 비공정을 조작할 시간을 벌려고 한 짓인가?\n그리고 이미 비공정은 …. 늦어버렸군.",
+        "en": "[Est]\nSo in the end, was this done to buy time to operate the Airship?\nAnd the Airship is already... It’s too late.",
+        "pt": "[Est]\nNo fim, foi isso que ele fez para ganhar tempo para manipular a Placa do Aeroplano?\nE a Placa do Aeroplano já …. Já é tarde demais.",
+        "es": "[Est]\n¿Al final lo hiciste para ganar tiempo y manipular Dirigible libre?\nY Dirigible libre ya …. Llegamos tarde."
     },
     "7fHuBw": {
-        "en": "[Est]\nSo, is that a robot?\nI guess we have to ask the robots at the mansion.",
-        "pt": "[Est]\nEntão, isso é um robô?\nAcho que vamos ter que perguntar para os robôs na mansão.",
-        "es": "[Est]\n¿Es un robot?\nSupongo que tendremos que preguntar a los robots de la mansión."
+        "ko": "[에스트]\n그래서 결국 저건 자동인형?\n저택의 자동인형들에게 물어보는 수 밖에 없나 ….",
+        "en": "[Est]\nSo that thing is an automaton, after all?\nDo we have no choice but to ask the mansion’s automatons...?",
+        "pt": "[Est]\nEntão, no fim, aquilo é uma boneca automática?\nNão temos escolha a não ser perguntar às bonecas automáticas da mansão ….",
+        "es": "[Est]\nEntonces, al final, ¿eso es una muñeca automática?\n¿No nos queda más remedio que preguntarles a las muñecas automáticas de la mansión …?"
     },
     "7vHuBw": {
-        "en": "[Est]\nLet's get out of here.\nI'll wait for you in the lounge. See you there.",
-        "pt": "[Est]\nVamos sair daqui.\nEu vou esperar no lounge. Até logo.",
-        "es": "[Est]\nVámonos de aquí.\nTe espero en el salón. Nos vemos allí."
+        "ko": "[에스트]\n일단 여기에서 나가자고.\n숙소의 휴게실에서 기다리고 있을테니 거기서 보지.",
+        "en": "[Est]\nFor now, let’s get out of here.\nI’ll be waiting in the lounge at the lodgings, so I’ll see you there.",
+        "pt": "[Est]\nPor enquanto, vamos sair daqui.\nVou estar esperando na sala de descanso da hospedaria, então nos vemos lá.",
+        "es": "[Est]\nPor ahora, salgamos de aquí.\nEstaré esperando en la sala de descanso del alojamiento, así que nos vemos allí."
     }
 }

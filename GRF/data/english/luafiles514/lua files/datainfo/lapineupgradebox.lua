@@ -15002,7 +15002,7 @@ tblLapineUpgradeBox = {
 		Thanos_Refine_Cube_LT = {
 			ItemID = 106429,
 			NeedRefineMin = 0,
-			NeedRefineMax = 7,
+			NeedRefineMax = 6,
 			NeedOptionNumMin = 0,
 			NotSocketEnchantItem = false,
 			TargetItems = {
@@ -15060,6 +15060,30 @@ tblLapineUpgradeBox = {
 				{
 					"Thanos_Violin",
 					1933
+				},
+				{
+					"Thanos_Hat_TF_LT",
+					401251
+				},
+				{
+					"Thanos_Hat_MG_LT",
+					401252
+				},
+				{
+					"Thanos_Hat_AL_LT",
+					401253
+				},
+				{
+					"Thanos_Hat_MC_LT",
+					401254
+				},
+				{
+					"Thanos_Hat_SW_LT",
+					401255
+				},
+				{
+					"Thanos_Hat_AC_LT",
+					401256
 				}
 			},
 			NeedSource_String = "Ghost Palace"
@@ -15224,7 +15248,7 @@ tblLapineUpgradeBox = {
 		Hero_Refine_Cube_LT = {
 			ItemID = 106431,
 			NeedRefineMin = 0,
-			NeedRefineMax = 8,
+			NeedRefineMax = 7,
 			NeedOptionNumMin = 0,
 			NotSocketEnchantItem = false,
 			TargetItems = {
@@ -15457,6 +15481,7 @@ tblLapineUpgradeBox = {
 				{"AC_B_Club", 590009},
 				{"HS_T_Sword", 500016},
 				{"RC_B_Katar", 610013},
+				{"CA_B_Katar", 610028},
 				{
 					"CA_B_Dagger",
 					510017
@@ -15513,6 +15538,7 @@ tblLapineUpgradeBox = {
 				{"AC_B_Club", 590009},
 				{"HS_T_Sword", 500016},
 				{"RC_B_Katar", 610013},
+				{"CA_B_Katar", 610028},
 				{
 					"CA_B_Dagger",
 					510017
@@ -15569,6 +15595,7 @@ tblLapineUpgradeBox = {
 				{"AC_B_Club", 590009},
 				{"HS_T_Sword", 500016},
 				{"RC_B_Katar", 610013},
+				{"CA_B_Katar", 610028},
 				{
 					"CA_B_Dagger",
 					510017

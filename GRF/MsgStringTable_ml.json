@@ -23852,9 +23852,9 @@
     },
     "TVNJX0JST0FEQ0FTVElOR19TUEVDSUFMX0lURU1fT0JUQUlOX0FERF9MRVZFTA==": {
         "ko": "[%s]님이 [%s](으)로부터 '+%d %s' 를 획득 했습니다.",
-        "en": "[%s] obtained '+%d %s' from [%s].",
-        "pt": "[%s] obteve '+%d %s' de [%s].",
-        "es": "[%s] obtuvo '+%d %s' de [%s]."
+        "en": "[%s] obtained '+%d %s' from [%d]. Test",
+        "pt": "[%s] obteve '+%d %s' de [%d].",
+        "es": "[%s] obtuvo '+%d %s' de [%d]."
     },
     "TVNJX0ZBSUxFRF9BTExfUk9ERVhfTElTVA==": {
         "ko": "우편함을 다시 열어주세요.",
@@ -26049,39 +26049,39 @@
         "es": "Atrapando"
     },
     "TVNJX0JST0FEQ0FTVElOR19TUEVDSUFMX0lURU1fT0JUQUlOX1dJVEhfSVRFTV9MSU5L": {
-        "ko": "[%s]님이 [%s](으)로부터 %s 를 획득 했습니다.",
-        "en": "[%s] has obtained [%s] from %s.",
-        "pt": "[%s] obteve %s de [%s].",
-        "es": "[%s] obtuvo %s de [%s]."
+        "ko": "[{0}]님이 [{1}](으)로부터 {2} 를 획득 했습니다.",
+        "en": "[{0}] has obtained {2} from [{1}].",
+        "pt": "[{0}] obteve {2} de [{1}].",
+        "es": "[{0}] obtuvo {2} de [{1}]."
     },
     "TVNJX0JST0FEQ0FTVElOR19TUEVDSUFMX0lURU1fT0JUQUlOMl9XSVRIX0lURU1fTElOSw==": {
-        "ko": "%s, 축하드립니다. %s 를 얻으셨습니다!",
-        "en": "Congratulations, %s. You have obtained %s!",
-        "pt": "Parabéns, %s! Você conseguiu conseguiu %s!",
-        "es": "¡Felicidades, %s! ¡Has conseguido %s!"
+        "ko": "{0}, 축하드립니다. {1} 를 얻으셨습니다!",
+        "en": "Congratulations, {0}. You have obtained {1}!",
+        "pt": "Parabéns, {0}! Você conseguiu conseguiu {1}!",
+        "es": "¡Felicidades, {0}! ¡Has conseguido {1}!"
     },
     "TVNJX0JST0FEQ0FTVElOR19SRUZJTklOR19TVUNDRVNTX0xFVkVMXzlfV0lUSF9JVEVNX0xJTks=": {
-        "ko": "[%s] 님이 제련을 성공하여, %s 아이템을 획득하였습니다.",
-        "en": "[%s] successfully refined the item %s.",
-        "pt": "[%s] refinou o item %s.",
-        "es": "[%s] refinó con éxito y adquirió el ítem %s."
+        "ko": "[{0}] 님이 제련을 성공하여, {1} 아이템을 획득하였습니다.",
+        "en": "[{0}] successfully refined the item {1}.",
+        "pt": "[{0}] refinou o item {1}.",
+        "es": "[{0}] refinó con éxito y adquirió el ítem {1}."
     },
     "TVNJX0JST0FEQ0FTVElOR19SRUZJTklOR19GQUlMX0xFVkVMXzlfV0lUSF9JVEVNX0xJTks=": {
-        "ko": "[%s] 님이 %s 아이템의 제련에 실패하였습니다.",
-        "en": "[%s] failed to refine the item %s.",
-        "pt": "[%s] não refinou o item %s.",
-        "es": "[%s] falló al refinar el ítem %s."
+        "ko": "[{0}] 님이 {1} 아이템의 제련에 실패하였습니다.",
+        "en": "[{0}] failed to refine the item {1}.",
+        "pt": "[{0}] não refinou o item {1}.",
+        "es": "[{0}] falló al refinar el ítem {1}."
     },
     "TVNJX0JST0FEQ0FTVElOR19HUkFERV9FTkNIQU5UX1NVQ0NFU1NfV0lUSF9JVEVNX0xJTks=": {
-        "ko": "[%s] 님이 등급강화를 성공하여, %s 아이템을 획득하였습니다.",
-        "en": "[%s] successfully upgraded the item %s.",
-        "pt": "[%s] subiu o rank do item %s.",
-        "es": "[%s] mejoró el grado con éxito y adquirió el ítem %s."
+        "ko": "[{0}] 님이 등급강화를 성공하여, {1} 아이템을 획득하였습니다.",
+        "en": "[{0}] successfully upgraded the item {1}.",
+        "pt": "[{0}] subiu o rank do item {1}.",
+        "es": "[{0}] mejoró el grado con éxito y adquirió el ítem {1}."
     },
     "TVNJX0JST0FEQ0FTVElOR19HUkFERV9FTkNIQU5UX0ZBSUxfV0lUSF9JVEVNX0xJTks=": {
-        "ko": "[%s] 님이 %s 아이템의 등급강화에 실패하였습니다.",
-        "en": "[%s] failed to upgrade the item %s.",
-        "pt": "[%s] não subiu o rank do item %s.",
-        "es": "[%s] falló al mejorar el grado del ítem %s."
+        "ko": "[{0}] 님이 {1} 아이템의 등급강화에 실패하였습니다.",
+        "en": "[{0}] failed to upgrade the item {1}.",
+        "pt": "[{0}] não subiu o rank do item {1}.",
+        "es": "[{0}] falló al mejorar el grado del ítem {1}."
     }
 }

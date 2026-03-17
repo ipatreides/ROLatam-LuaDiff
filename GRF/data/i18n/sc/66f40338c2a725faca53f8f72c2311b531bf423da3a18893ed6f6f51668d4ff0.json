@@ -704,6 +704,9 @@
         "pt": "[Ayealo]\nEu vou começar...\nHmm,Hmm.\n1, 2, 3, 4",
         "es": "[Lalo]\nAllá vamos.\n*Ejem*\n1,2,3,4."
     },
+    "DeKmBg": {
+        "en": "^3377FFBragi, Bragi,z^000000\nForever call the poets name.\nMy songs are his breath,\nMy mind is his will,\nAll wandering poets are his people,\nAnd all praise shall go to him."
+    },
     "DuKmBg": {
         "en": "[Lalo]\nWonderful! Although it was not in one try!\nGood enough to become a good Bard",
         "pt": "[Ayealo]\nMuito bem, ainda que não tenha conseguido na primeira.\nVocê dará um ótimo cantor!",
@@ -783,5 +786,20 @@
         "en": "[Lalo]\nWhee~ whee~ whee~",
         "pt": "[Ayealo]\nHush hush hush",
         "es": "[Lalo]\nWii~, wii~, wiii~."
+    },
+    "HuKmBg": {
+        "en": "[Lalo]\nThe sadness that overcomes my heart..\nIt will not reside..\nIs this the reason behind my troubles,\nis this why I am weak,\nThis must be why I cannot seem to forget you..."
+    },
+    "H+KmBg": {
+        "en": "[Lalo]\nThe deep purple charms a person..\nThank you, I really like this flower."
+    },
+    "IOKmBg": {
+        "en": "[Lalo]\nWonderful! Finished it in one try!\nYou can become a great Bard."
+    },
+    "IeKmBg": {
+        "en": "[Lalo]\nMmm? Seems like you haven't prepared all trunks the yet?\nDo you want to just change jobs anyways?"
+    },
+    "IuKmBg": {
+        "en": "[Lalo]\nOh, and also I have a souvenir for you, too...\nSo bring back some trunks.\nDoesn't matter what kind, just 60 of the same sort..."
     }
 }

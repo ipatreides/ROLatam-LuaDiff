@@ -1,23 +1,19 @@
 tb_cashshop_banner = {
 	[1] = {
 		"01_Cashshop_Banner.bmp",
-		"https://ro.gnjoylatam.com/en/news/notice/260"
+		"https://ro.gnjoylatam.com/en/news/event/57?type=ACTIVE"
 	},
 	[2] = {
 		"02_Cashshop_Banner.bmp",
-		"https://ro.gnjoylatam.com/en/event/feb26roulette"
+		"https://ro.gnjoylatam.com/en/event/march26roulette"
 	},
 	[3] = {
 		"03_Cashshop_Banner.bmp",
-		"https://ro.gnjoylatam.com/en/news/event/52?type=END"
+		"https://ro.gnjoylatam.com/en/news/event/58?type=ACTIVE"
 	},
 	[4] = {
 		"04_Cashshop_Banner.bmp",
-		"https://ro.gnjoylatam.com/en/news/event/54?type=END"
-	},
-	[5] = {
-		"05_Cashshop_Banner.bmp",
-		"https://ro.gnjoylatam.com/en/news/event/51?type=END"
+		"https://ro.gnjoylatam.com/en/news/notice/279"
 	}
 }
 function set_cashshop_banner()

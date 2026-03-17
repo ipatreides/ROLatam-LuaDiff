@@ -1333,10 +1333,10 @@ mapTbl = {
 		backgroundBmp = "village_s2"
 	},
 	["auction_02.rsw"] = {
-		displayName = "Ordem dos Exploradores",
+		displayName = "Liga dos Desbravadores",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Ordem dos Exploradores"
+			mainTitle = "Liga dos Desbravadores"
 		},
 		backgroundBmp = "village_s2"
 	},

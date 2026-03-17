@@ -1,117 +1,140 @@
 {
     "gHjwBw": {
-        "en": "Almond",
-        "pt": "Amêndoa",
+        "ko": "아몬드",
+        "en": "Almond kernels",
+        "pt": "Grão de Amêndoas",
         "es": "Almond"
     },
     "gXjwBw": {
-        "en": "[Almond]\nAlmond don't understand.\nWhy does Sweetie like to drive itself to the absolute limit?",
-        "pt": "[Amêndoa]\nAmêndoa não entende.\nPor que Sweetie gosta de se esforçar além do possível?",
-        "es": "[Almond]\nAlmond no lo entiende.\n¿Por qué a Sweetie le gusta conducirse hasta el límite absoluto?"
+        "ko": "[아몬드]\n아몬드는 이해할 수 없지만요.\n스위티는 몸을 극한까지 몰아붙이는 걸 좋아하네 ….",
+        "en": "[Almond kernels]\nI cannot understand Almond kernels, but...\nSweety sure likes pushing their body to the limit....",
+        "pt": "[Grão de Amêndoas]\nEu não consigo entender Grão de Amêndoas, mas...\nSweety gosta de levar o corpo ao limite extremo....",
+        "es": "[Almond]\nNo puedo entender a Almond, pero...\nA Sweety le gusta llevar el cuerpo al límite...."
     },
     "gnjwBw": {
-        "en": "[Almond]\nAlmond has to fix the broken body.\nPlease don't go too hard on Sweetie for me.",
-        "pt": "[Amêndoa]\nAmêndoa tem que consertar o corpo quebrado.\nPor favor, não seja tão duro com Sweetie por minha causa.",
-        "es": "[Almond]\nAlmond tiene que arreglar el cuerpo roto.\nPor favor, no seas tan duro con Sweetie por mí."
+        "ko": "[아몬드]\n그렇게 바스라진 신체를 고쳐주는 건 아몬드인데 말이에요.\n적당히 기분 풀릴 정도만 상대해 주세요.",
+        "en": "[Almond kernels]\nBut it is almonds that fix a body that has been shattered like that.\nPlease only deal with them enough to loosen up a little.",
+        "pt": "[Grão de Amêndoas]\nMas quem conserta um corpo tão destruído é a amêndoa.\nPor favor, enfrente só o suficiente para aliviar um pouco o estresse.",
+        "es": "[Almond]\nPero quien repara ese cuerpo hecho trizas es Almond.\nPor favor, enfréntate a ella solo lo suficiente como para que se calme."
     },
     "g3jwBw": {
-        "en": "[Almond]\nSweetie's specialty is tracking your position and dropping a laser beam on you.\nIf you get marked, just run away from the spot as fast as you can.",
-        "pt": "[Amêndoa]\nA especialidade de Sweetie é rastrear sua posição e lançar um raio laser em você.\nSe você for marcado, corra para longe o mais rápido que puder.",
-        "es": "[Almond]\nLa especialidad de Sweetie es rastrear tu posición y lanzarte un rayo láser.\nSi te marcan, huye del lugar lo más rápido que puedas."
+        "ko": "[아몬드]\n스위티의 특기는 위치를 추적한 레이저 드랍이라고 하네?\n타겟으로 지정되면 있는 힘껏 그 장소에서 벗어나면 돼요~",
+        "en": "[Almond kernels]\nI hear Sweety's specialty is a laser drop that tracks your location?\nIf you get marked as the target, just use all your strength to get out of that spot~",
+        "pt": "[Grão de Amêndoas]\nDizem que a especialidade de Sweety é um Laser Drop que rastreia a posição, não é?\nSe você for marcado como alvo, é só sair daquele lugar com toda a força~",
+        "es": "[Almond]\n¿Dicen que la especialidad de Sweety es un Laser Drop que rastrea tu posición?\nSi te marca como objetivo, solo tienes que salir de ese lugar con todas tus fuerzas~"
     },
     "hHjwBw": {
-        "en": "[Almond]\nAlmond will take Sweetie after it faints.\nShall we wrap this up now?",
-        "pt": "[Amêndoa]\nAmêndoa levará Sweetie depois dele desmaiar.\nVamos acabar com isso?",
-        "es": "[Almond]\nAlmond se llevará a Sweetie después de que se desmaye.\n¿Podemos terminar con esto ya?"
+        "ko": "[아몬드]\n기절한 스위티는 아몬드가 챙길게요.\n이제 그만 정리할까요?",
+        "en": "[Almond kernels]\nAlmond kernels will take care of the unconscious Sweety.\nShall we wrap things up now?",
+        "pt": "[Grão de Amêndoas]\nEu vou cuidar de Sweety desmaiada.\nAgora, vamos encerrar por aqui?",
+        "es": "[Almond]\nAlmond se encargará de Sweety cuando esté inconsciente.\n¿Terminamos de arreglar esto ya?"
     },
     "hXjwBw": {
-        "en": "Let's.",
-        "pt": "Vamos.",
-        "es": "Hagámoslo."
+        "ko": "정리하자.",
+        "en": "Let's wrap things up.",
+        "pt": "Vamos encerrar.",
+        "es": "Terminemos con esto."
     },
     "hnjwBw": {
-        "en": "I'll explore the garden.",
-        "pt": "Eu vou explorar o jardim.",
-        "es": "Voy a explorar el jardín."
+        "ko": "정원을 탐색하고 올게.",
+        "en": "I'll go explore the garden.",
+        "pt": "Vou explorar o jardim e já volto.",
+        "es": "Iré a explorar el jardín."
     },
     "h3jwBw": {
-        "en": "[Almond]\nWrap up it is.",
-        "pt": "[Amêndoa]\nAssim será.",
-        "es": "[Almond]\nTermínalo."
+        "ko": "[아몬드]\n그럴까요?",
+        "en": "[Almond kernels]\nShall we?",
+        "pt": "[Grão de Amêndoas]\nVamos?",
+        "es": "[Almond]\n¿Te parece?"
     },
     "iHjwBw": {
-        "en": "[Almond]\nIt seems some remnants of the intruders are still there. Be careful.",
-        "pt": "[Amêndoa]\nParece que alguns vestígios dos intrusos ainda estão lá. Tenha cuidado.",
-        "es": "[Almond]\nParece que aún quedan restos de los intrusos. Ten cuidado."
+        "ko": "[아몬드]\n아직도 침입자 잔당이 남은 것 같던데, 조심하세요?",
+        "en": "[Almond kernels]\nIt seems there are still some intruder stragglers left, so be careful.",
+        "pt": "[Grão de Amêndoas]\nParece que ainda restam alguns invasores, então tome cuidado, está bem?",
+        "es": "[Almond]\nParece que aún quedan rezagados de los intrusos, ¿así que ten cuidado?"
     },
     "iXjwBw": {
-        "en": "Sweetie",
-        "pt": "Sweetie",
-        "es": "Sweetie"
+        "ko": "스위티",
+        "en": "Sweety",
+        "pt": "Sweety",
+        "es": "Sweety"
     },
     "injwBw": {
-        "en": "[Sweetie]\nWho are you?",
-        "pt": "[Sweetie]\nQuem é você?",
-        "es": "[Sweetie]\n¿Quién eres?"
+        "ko": "[스위티]\n뭐냐, 넌.",
+        "en": "[Sweety]\nWhat are you.",
+        "pt": "[Sweety]\nO que é você?",
+        "es": "[Sweety]\n¿Qué eres tú?"
     },
     "i3jwBw": {
-        "en": "[Sweetie]\nAre you ready yet?\nCome at me anytime.\nI'll feel better after I make a sandbag out of you.",
-        "pt": "[Sweetie]\nVocê já está com tudo pronto?\nVenha a qualquer hora.\nVou me sentir melhor depois de transformar você em um saco de pancadas.",
-        "es": "[Sweetie]\n¿Estás listo?\nVuelve a mí cuando quieras.\nMe sentiré mejor después de hacerte un saco de arena."
+        "ko": "[스위티]\n어이, 준비는 다 끝났냐?\n언제든 덤비라고.\n너라도 두들겨야 속이 시원하게 풀릴 것 같으니까 말이야.",
+        "en": "[Sweety]\nHey, are you all ready?\nCome at me anytime.\nI think I will feel better if I beat you up, at least.",
+        "pt": "[Sweety]\nEi, já terminou de se preparar?\nPode vir a qualquer hora.\nPorque parece que só vou me sentir melhor depois de te dar uma surra.",
+        "es": "[Sweety]\nOye, ¿ya terminaste de prepararte?\nAtaca cuando quieras.\nPorque siento que solo me quedaré a gusto si te doy una paliza, aunque seas tú."
     },
     "jHjwBw": {
-        "en": "One moment.",
-        "pt": "Um momento.",
-        "es": "Un momento."
+        "ko": "잠시만 기다려.",
+        "en": "Wait a moment.",
+        "pt": "Espere um momento.",
+        "es": "Espera un momento."
     },
     "jXjwBw": {
-        "en": "Bring it on!",
-        "pt": "Pode vir!",
-        "es": "¡Adelante!"
+        "ko": "시작하자!",
+        "en": "Let's begin!",
+        "pt": "Vamos começar!",
+        "es": "¡Empecemos!"
     },
     "jnjwBw": {
-        "en": "[Sweetie]\nWhat, you wanna explore the garden or something?\nI don't care about those Heart Hunter guys anyway.",
-        "pt": "[Sweetie]\nO que, você quer explorar o jardim ou algo assim?\nBem, eu não me importo com esses tais Caça-Corações.",
-        "es": "[Sweetie]\n¿Quieres explorar el jardín o algo así?\nDe todas formas no me importan esos tipos de Cazador de corazones."
+        "ko": "[스위티]\n뭐, 정원 탐색이라도 할 건가?\n하트헌터 놈들 어떻게 되든 내 알 바 아니지만 ….",
+        "en": "[Sweety]\nWhat, are you going to explore the garden or something?\nI do not care what happens to those Heart Hunter bastards, but....",
+        "pt": "[Sweety]\nO quê, vai explorar o jardim ou algo assim?\nO que acontecer com aqueles Heart Hunter não é problema meu, mas....",
+        "es": "[Sweety]\n¿Qué, vas a explorar el jardín o algo así?\nNo es asunto mío lo que les pase a esos tipos de Heart Hunter, pero...."
     },
     "j3jwBw": {
-        "en": "[Sweetie]\nWhat? Why?\nI'm different from them. I'm superior!\nSir said so too!\nAnd unlike me, those were failures!",
-        "pt": "[Sweetie]\nO quê? Por quê?\nEu sou diferente deles. Sou superior!\nO sir também disse isso!\nE diferente de mim, aqueles foram fracassos!",
-        "es": "[Sweetie]\n¿Qué? ¿Por qué?\nSoy diferente a ellos. ¡Soy superior!\n¡El señor también lo dijo!\nY a diferencia de mí, ¡eran unos fracasados!"
+        "ko": "[스위티]\n뭐, 왜?\n난 그 놈들이랑 달라. 우수한 개체라고!\n선생님도 그랬단 말이야.\n저것들은 실패작이라고!",
+        "en": "[Sweety]\nWhat, why?\nI am different from those guys. I am a superior specimen!\nTeacher said so, too.\nThose things are failures!",
+        "pt": "[Sweety]\nO quê, por quê?\nEu não sou como eles. Sou um espécime superior!\nO professor também disse isso.\nAqueles ali são um fracasso!",
+        "es": "[Sweety]\n¿Qué, por qué?\nNo soy como esos tipos. ¡Soy un espécimen superior!\n¡El profesor también lo dijo!\n¡Esos son un fracaso!"
     },
     "kHjwBw": {
-        "en": "I won't lose to you this time!",
-        "pt": "Eu não vou perder para você dessa vez!",
+        "ko": "이번엔 네 녀석에게 지지 않아!",
+        "en": "This time, I will not lose to you!",
+        "pt": "Desta vez, eu não vou perder para você!",
         "es": "¡Esta vez no perderé contra ti!"
     },
     "kXjwBw": {
-        "en": "Sweetie",
-        "pt": "Sweetie",
-        "es": "Sweetie"
+        "ko": "스위티",
+        "en": "Sweety",
+        "pt": "Sweety",
+        "es": "Sweety"
     },
     "knjwBw": {
-        "en": "Almond: Sweetie, be reasonable.",
-        "pt": "Amêndoa: Sweetie, seja razoável.",
-        "es": "Almond: Sweetie, sé razonable."
+        "ko": "아몬드: 스위티~ 적당히 해요~",
+        "en": "Almond kernels: Sweety~ That is enough~",
+        "pt": "Grão de Amêndoas: Sweety~ Vá com calma~",
+        "es": "Almond: Sweety~ No te pases~"
     },
     "k3jwBw": {
-        "en": "Fainted Sweetie",
-        "pt": "Sweetie Desmaiado",
-        "es": "Fainted Sweetie"
+        "ko": "기절한 스위티",
+        "en": "Unconscious Sweety",
+        "pt": "Sweety desmaiada",
+        "es": "Sweety inconsciente"
     },
     "lHjwBw": {
-        "en": "......",
-        "pt": "......",
-        "es": "......"
+        "ko": "… …",
+        "en": "… …",
+        "pt": "… …",
+        "es": "… …"
     },
     "lXjwBw": {
-        "en": "The shock caused it to faint.\nIt's fainted.",
-        "pt": "O choque fez ele desmaiar.\nDesmaiou.",
-        "es": "La conmoción hizo que se desmayara.\nSe ha desmayado."
+        "ko": "충격으로 인해 정신을 잃었다.\n기절한 것 같다.",
+        "en": "I lost consciousness from the shock.\nI think I fainted.",
+        "pt": "Desmaiou devido ao choque.\nParece que está inconsciente.",
+        "es": "Perdió el conocimiento por el impacto.\nParece que se desmayó."
     },
     "lnjwBw": {
-        "en": "Almond: Are you running away? Stay focused!",
-        "pt": "Amêndoa: Você está fugindo? Mantenha o foco!",
-        "es": "Almond: ¿Estás huyendo? ¡Concéntrate!"
+        "ko": "아몬드: 도망치냐? 한 눈 팔지마!",
+        "en": "Almond kernels: Are you running away? Don't get distracted!",
+        "pt": "Grão de Amêndoas: Vai fugir? Não se distraia!",
+        "es": "Almond: ¿Huyes? ¡No te distraigas!"
     }
 }

@@ -133,6 +133,13 @@ Navi_Map = {
 		200
 	},
 	{
+		"abyss_04",
+		"Caverna Subterrânea do Lago do Abismo (4)",
+		5001,
+		340,
+		340
+	},
+	{
 		"airplane",
 		"Aeroplano ",
 		5002,
@@ -470,7 +477,7 @@ Navi_Map = {
 	},
 	{
 		"ba_maison",
-		"Jardim da Mansão Varmunt",
+		"Jardim da Mansão Varmundt",
 		5001,
 		400,
 		400
@@ -484,14 +491,14 @@ Navi_Map = {
 	},
 	{
 		"ba_pw02",
-		"Planta de Tratamento de Esgoto",
+		"Estação de Tratamento de Esgoto",
 		5001,
 		300,
 		300
 	},
 	{
 		"ba_pw03",
-		"Usina Mágica 2",
+		"Segunda Usina de Energia",
 		5001,
 		300,
 		300
@@ -975,6 +982,13 @@ Navi_Map = {
 	{
 		"ein_dun02",
 		"Calabou? da Mina ",
+		5001,
+		300,
+		300
+	},
+	{
+		"ein_dun03",
+		"Calabouço da Mina (3)",
 		5001,
 		300,
 		300
@@ -3084,6 +3098,13 @@ Navi_Map = {
 		"A Grande Ferida ",
 		5001,
 		260,
+		400
+	},
+	{
+		"odin_past",
+		"Templo de Odin",
+		5001,
+		400,
 		400
 	},
 	{

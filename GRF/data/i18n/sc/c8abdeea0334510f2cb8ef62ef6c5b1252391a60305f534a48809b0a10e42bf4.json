@@ -97,12 +97,12 @@
     "80GyCA": {
         "en": "At the King's Heel",
         "pt": "Aos Pés do Rei",
-        "es": "En el Talón del Rey."
+        "es": "A los Pies del Rey"
     },
     "9EGyCA": {
         "en": "^FF0000You must create or join a Party with more than 1 other player to enter.^000000",
         "pt": "^FF0000Por favor, crie um Grupo.^000000",
-        "es": "^FF0000Debes crear o unirte a un grupo con más de 1jugador para participar.^000000"
+        "es": "^FF0000Debes crear o unirte a un grupo con más de 1 jugador para participar.^000000"
     },
     "9UGyCA": {
         "en": "[Dr. Magnatum]\nCollect 50 ^0000FFGolden Cards^000000, and I will trade them for 1 ^0000FFOld Fuel Tank ^000000.",
@@ -152,12 +152,12 @@
     "/kGyCA": {
         "en": "[Dr. Magnatum]\nEhm? You don't seem to be very interested in cards at the moment.\nIf you ever feel the collector's hunger and feel like heading back into the King's Heel again, come find me again,{0}.",
         "pt": "[Dr. Magnatum]\nHm? Não tenho interesse em novas Cartas por agora.\nSe deseja ir na instância, {0}, volte amanhã.",
-        "es": "[Dr.Magnatum]\n¿Eh? No demuestras mucho interés en las cartas por el momento.\nSi alguna vez sientes la sed del coleccionista y quieres volver al Talón del Rey, ven a buscarme de nuevo,{0}."
+        "es": "[Dr.Magnatum]\n¿Eh? No demuestras mucho interés en las cartas por el momento.\nSi deseas entrar a la instancia, {0}, vuelve mañana."
     },
     "/0GyCA": {
         "en": "[Dr. Magnatum]\nAlternatively, if you can bring me 50 ^0000FFGolden Cards^000000, I will exchange them for 1 ^0000FFOld Fuel Tank^000000.",
         "pt": "[Dr. Magnatum]\nParalelamente, se você coletar ^0000FF50 Cartas Douradas^000000 posso te dar ^0000FF1 Tanque Velho^000000.",
-        "es": "[Dr.Magnatum]\nPor otro lado, si puedes traerme 50^0000FFCartas doradas^000000, te las intercambiaré por 1^0000FFTanque de combustible viejo^000000."
+        "es": "[Dr.Magnatum]\nPor otro lado, si puedes traerme 50 ^0000FFCartas doradas^000000, te las intercambiaré por 1^0000FFTanque de combustible viejo^000000."
     },
     "AEKyCA": {
         "en": "^0000FFThough you once hated the sight of cards, all of that has changed now.^000000\n^0000FFDr. Magnatum would also probably like to get his hands on this.^000000",
@@ -172,7 +172,7 @@
     "AkKyCA": {
         "en": "Create King's Heel entrance.",
         "pt": "Gerar instância",
-        "es": "Crear una entrada al Talón del Rey."
+        "es": "Crear una entrada A los Pies del Rey"
     },
     "A0KyCA": {
         "en": "Enter Dungeon.",
@@ -222,7 +222,7 @@
     "DEKyCA": {
         "en": "Entering 'The King's Heel'",
         "pt": "Entrar na instância",
-        "es": "Entrando en el [Talón del Rey]."
+        "es": "Entrando en la instancia."
     },
     "DUKyCA": {
         "en": "Sue Wintergard",
@@ -377,7 +377,7 @@
     "K0KyCA": {
         "en": "[Ingrata A]\nWe are selling ^FF0000Upgrade Part - Gloves^000000 and ^FF0000Strength Amplifying Armor^000000, forged in the virtuous King's Heel.\nFor a mere ^FF00003,999,999^000000 zeny...!",
         "pt": "[Ingrata A]\nEstou vendendo ^FF0000Autopeça - Carburador^000000 e ^FF0000Peça de FOR Suplementar^000000.\nO preço é ^FF00003.999.999^000000 zeny...!",
-        "es": "[IngrataA]\nVendemos la ^FF0000Pieza de mejora: Guantes^000000 y la ^FF0000Armadura amplificadora de fuerza^000000, forjadas en el virtuoso Talón del Rey.\n¡Por tan solo ^FF00003999999^000000zeny!"
+        "es": "[IngrataA]\nEstoy vendiendo ^FF0000Pieza de mejora: Guantes^000000 y la ^FF0000Armadura amplificadora de fuerza^000000.\n¡Por tan solo ^FF00003 999 999^000000zeny!"
     },
     "LEKyCA": {
         "en": "[Ingrata A]\nWe also offer ^FF0000Upgrades^000000for ^FF0000Pile Bunkers^000000!",
@@ -407,7 +407,7 @@
     "MUKyCA": {
         "en": "[Ingrata A]\nThe virtuous King's Heel is a duel house comprising all dimensions.\nIf memory serves me right, I seem to have played card games with some individuals who did not have a pulse...",
         "pt": "[Ingrata A]\nA instância [Aos Pés do Rei] é uma casa de duelos que abrange várias dimensões.\nAcho que já joguei cartas com outras formas de vida lá dentro...",
-        "es": "[IngrataA]\nEl virtuoso Talón del Rey es una casa de duelos que abarca todas las dimensiones.\nSi la memoria no me falla, me parece haber jugado a las cartas con algunos individuos que no tenían pulso…"
+        "es": "[IngrataA]\nEl virtuoso A los Pies del Rey es una casa de duelos que abarca todas las dimensiones.\nSi la memoria no me falla, me parece haber jugado a las cartas con algunos individuos que no tenían pulso…"
     },
     "MkKyCA": {
         "en": "[Ingrata A]\nNothing is left aside from my memories, scattered into tiny, molecular pieces.\nWhen I came to my senses, I found myself here.",

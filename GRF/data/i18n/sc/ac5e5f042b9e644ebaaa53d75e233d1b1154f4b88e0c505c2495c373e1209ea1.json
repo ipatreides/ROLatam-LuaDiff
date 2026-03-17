@@ -1,37 +1,44 @@
 {
     "QGvtBw": {
-        "en": "Heart Hunter Ambush",
-        "pt": "Emboscada do Caça-Corações",
-        "es": "Heart Hunter Ambush"
+        "ko": "하트헌터 기습병",
+        "en": "Heart Hunter Ambusher",
+        "pt": "Emboscador Heart Hunter",
+        "es": "Heart Hunter Ambusher"
     },
     "QWvtBw": {
-        "en": "Heart Hunter Scout",
-        "pt": "Batedor Caça-Corações",
-        "es": "Heart Hunter Scout"
+        "ko": "하트헌터 척후병",
+        "en": "Heart Hunter",
+        "pt": "Intruso",
+        "es": "Cazador de corazones"
     },
     "QmvtBw": {
-        "en": "You're carrying too many items to proceed with the quest.\nPlease make some room in your inventory, and then try again.",
-        "pt": "Você está carregando itens demais para continuar com a missão.\nAbra espaço no seu inventário, e tente novamente.",
-        "es": "Llevas demasiados objetos para realizar esta misión.\nHaz lugar en tu inventario y luego vuelve a intentarlo."
+        "ko": "소지하고 계시는 아이템의 갯수가 많아 퀘스트를 진행 할 수 없습니다.\n아이템을 정리한 뒤 다시 시도해 주시기 바랍니다.",
+        "en": "You cannot proceed with the quest because you are carrying too many items.\nPlease organize your items and try again.",
+        "pt": "Você está com muitos itens no inventário e não pode prosseguir com a missão.\nPor favor, organize seus itens e tente novamente.",
+        "es": "No puede continuar la misión porque tiene demasiados objetos en su inventario.\nPor favor, organice sus objetos e inténtelo de nuevo."
     },
     "Q2vtBw": {
-        "en": "Manager Beta's remains are hidden under the disheveled landscaping plants.",
-        "pt": "Os restos mortais do gestor Beta estão escondidos sob as plantas do jardim desgrenhadas.",
-        "es": "Los restos del administrador Beta están ocultos bajo las plantas frondosas del jardín."
+        "ko": "흐트러진 조경수 아래로 관리자 베타의 소체가 숨겨져 있다.",
+        "en": "The body of Administrator Beta is hidden beneath the scattered landscaping trees.",
+        "pt": "Sob a árvore ornamental desarrumada, o corpo do administrador Beta está escondido.",
+        "es": "Bajo el árbol ornamental desordenado está oculto el cuerpo del administrador Beta."
     },
     "RGvtBw": {
-        "en": "I retrieved the core.\nI should tell Almond later so that the body can be retrieved.",
-        "pt": "Eu recuperei o núcleo.\nDevo contar à Amêndoa mais tarde para que o corpo possa ser recuperado.",
-        "es": "Recuperé el núcleo.\nDebería decírselo a Almond más tarde para que se pueda recuperar el cuerpo."
+        "ko": "코어를 회수 했다.\n나중에 아몬드에게 알려 소체를 수습할 수 있도록 해야겠다.",
+        "en": "I recovered the core.\nLater, I should tell Almond kernels so they can retrieve the body.",
+        "pt": "Recuperei o núcleo.\nMais tarde, devo avisar Grão de Amêndoas para que possa recolher o corpo.",
+        "es": "Recuperé el núcleo.\nMás tarde, debo avisarle a Almond para que pueda recoger el cuerpo."
     },
     "RWvtBw": {
-        "en": "The core part is empty.",
-        "pt": "A parte central está vazia.",
-        "es": "La parte que debe contener el núcleo está vacía."
+        "ko": "코어 부분이 비어있다.",
+        "en": "The core section is empty.",
+        "pt": "A parte do núcleo está vazia.",
+        "es": "La parte del núcleo está vacía."
     },
     "RmvtBw": {
-        "en": "The part where the core is supposed to be is empty.\nI should tell Alpha later so that the body can be retrieved.",
-        "pt": "O lugar onde deveria estar o núcleo está vazio.\nDevo contar para Alfa mais tarde para que o corpo possa ser recuperado.",
-        "es": "La parte donde se supone que está el núcleo está vacía.\nDebería decírselo a Alpha más tarde para que el cuerpo pueda ser recuperado."
+        "ko": "코어가 있어야 할 자리가 비어있다.\n나중에 알파에게 알려 소체를 수습할 수 있도록 해야겠다.",
+        "en": "The place where the core should be is empty.\nLater, I should tell Alpha so they can retrieve the body.",
+        "pt": "O lugar onde o núcleo deveria estar está vazio.\nMais tarde, devo avisar Alpha para que possa recolher o corpo.",
+        "es": "El lugar donde debería estar el núcleo está vacío.\nMás tarde, debo avisarle a Alpha para que pueda recoger el cuerpo."
     }
 }

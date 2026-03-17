@@ -1,207 +1,254 @@
 {
     "IMrlBw": {
-        "en": "[{}]",
-        "pt": "[{}]",
-        "es": "[{}]"
+        "ko": "[{0}]",
+        "en": "[{0}]",
+        "pt": "[{0}]",
+        "es": "[{0}]"
     },
     "IcrlBw": {
-        "en": "[Scenario Controller]\nCurrent FLOW{}",
-        "pt": "[Controle de Cenário]\nCurrent FLOW{}",
-        "es": "[Controlador de escenarios]\nCAUDAL actual{}"
+        "ko": "[시나리오 관리자]\n24.5.9 BarMealTicket 필터\n현재 FLOW {0}",
+        "en": "[Scenario Manager]\n24.5.9 VarmealTicket Filter\nCurrent FLOW {0}",
+        "pt": "[Gerenciador de Cenário]\n24.5.9 Filtro VarmealTicket\nFLOW atual {0}",
+        "es": "[Administrador del escenario]\n24.5.9 Filtro de VarmealTicket\nFLOW actual {0}"
     },
     "IsrlBw": {
-        "en": "Default Name/Setting",
-        "pt": "Nome/Configuração Padrão",
-        "es": "Nombre/configuración por defecto"
+        "ko": "1단계 진행_리셋",
+        "en": "Proceed to Step 1_Reset",
+        "pt": "Progresso da etapa 1_Resetar",
+        "es": "Progreso de la etapa 1_Reset"
     },
     "I8rlBw": {
-        "en": "Phase 2",
-        "pt": "Fase 2",
-        "es": "Fase2"
+        "ko": "2단계 진행",
+        "en": "Proceed to Step 2",
+        "pt": "Progresso da etapa 2",
+        "es": "Progreso de la etapa 2"
     },
     "JMrlBw": {
-        "en": "Phase 3",
-        "pt": "Fase 3",
-        "es": "Fase3"
+        "ko": "3단계 진행",
+        "en": "Proceed to Step 3",
+        "pt": "Progresso da etapa 3",
+        "es": "Progreso de la etapa 3"
     },
     "JcrlBw": {
-        "en": "Phase 4",
-        "pt": "Fase 4",
-        "es": "Fase4"
+        "ko": "4단계 진행",
+        "en": "Proceed to Step 4",
+        "pt": "Progresso da etapa 4",
+        "es": "Progreso de la etapa 4"
     },
     "JsrlBw": {
-        "en": "Boss",
-        "pt": "Chefe",
-        "es": "Jefe"
+        "ko": "보스 진행",
+        "en": "Boss Progress",
+        "pt": "Progresso do chefe",
+        "es": "Progreso del jefe"
     },
     "J8rlBw": {
-        "en": "Mode",
-        "pt": "Modo",
-        "es": "Modo"
+        "ko": "난이도",
+        "en": "Difficulty",
+        "pt": "Dificuldade",
+        "es": "Dificultad"
     },
     "KMrlBw": {
+        "ko": "노멀",
         "en": "Normal",
         "pt": "Normal",
         "es": "Normal"
     },
     "KcrlBw": {
+        "ko": "하드",
         "en": "Hard",
         "pt": "Difícil",
         "es": "Difícil"
     },
     "KsrlBw": {
-        "en": "{}! Master Sigma sent you a message.",
-        "pt": "+ {}! Mestre Sigma te enviou uma mensagem.",
-        "es": "¡{}! El maestro Sigma te envió un mensaje."
+        "ko": "{0}님! 시그마님께서 전해달라셨습니다",
+        "en": "{0}! Sigma asked me to pass this along.",
+        "pt": "{0}! O senhor Sigma pediu para eu lhe transmitir isto.",
+        "es": "¡{0}! Sigma dijo que se lo transmitiera"
     },
     "K8rlBw": {
-        "en": "He said you should go back because the situation is not good today.",
-        "pt": "Ele disse que você deveria voltar porque a situação não está boa hoje.",
-        "es": "Dijo que debías volver porque la situación no es buena hoy."
+        "ko": "상황이 그다지 좋지 못하니 오늘은 일단 돌아가시는게 좋겠다는...",
+        "en": "Things are not looking very good, so it would be best for you to head back for today...",
+        "pt": "A situação não está muito boa, então seria melhor o senhor voltar por hoje, pelo menos...",
+        "es": "Como la situación no es muy buena, dijo que por hoy sería mejor que regresaran primero..."
     },
     "LMrlBw": {
-        "en": "Lambda: I decide whether those outsiders will go back or not.",
-        "pt": "Lambda: Eu decido se esses forasteiros vão voltar ou não.",
-        "es": "Lambda: Yo decido si esos forasteros volverán o no."
+        "ko": "람다 : 그 외부인들이 돌아가고 말고는 내가 결정합니다.",
+        "en": "Ramda : Whether those outsiders leave or not is for me to decide.",
+        "pt": "Ramda : Se esses forasteiros vão embora ou não, sou eu quem decide.",
+        "es": "Ramda : Que esos forasteros se vayan o no, lo decido yo."
     },
     "LcrlBw": {
-        "en": "Lambda: You caused a critical threat to the security of this place. According to the robot management protocol, I will eliminate you.",
-        "pt": "Lambda: Você causou uma ameaça crítica à segurança deste lugar. De acordo com o protocolo de gerenciamento de robôs, vou eliminar você.",
-        "es": "Lambda: Causaste una amenaza crítica a la seguridad de este lugar. De acuerdo con el protocolo de gestión de robots, te eliminaré."
+        "ko": "람다 : 이 지역의 보안에 치명적인 위협을 유발하셨군요. 자동인형 관리 규정에따라 처분하겠습니다.",
+        "en": "Ramda : You have caused a critical threat to this area's security. In accordance with the automaton management regulations, I will dispose of you.",
+        "pt": "Ramda : Vocês causaram uma ameaça fatal à segurança desta área. De acordo com o regulamento de gerenciamento de autômatos, eu os executarei.",
+        "es": "Ramda : Han provocado una amenaza fatal para la seguridad de esta zona. Los eliminaré conforme al reglamento de gestión de autómatas."
     },
     "LsrlBw": {
-        "en": "Lambda: I have to verify something through you lot.",
-        "pt": "Lambda: Tenho que verificar algo com vocês.",
-        "es": "Lambda: Tengo que verificar algo en tu terreno."
+        "ko": "람다 : 마침 당신들에게도 확인 받고 싶은게 있습니다.",
+        "en": "Ramda : There is also something I would like to have you confirm.",
+        "pt": "Ramda : Por coincidência, há algo que eu também gostaria de confirmar com vocês.",
+        "es": "Ramda : Justo hay algo que también quiero que ustedes me confirmen."
     },
     "L8rlBw": {
-        "en": "Lambda: It's been pretty long since the last time I had outsiders here, so I should repeat what other robots said.",
-        "pt": "Lambda: Já faz bastante tempo desde a última vez que recebi forasteiros aqui, então devo repetir o que outros robôs disseram.",
-        "es": "Lambda: Pasó tanto tiempo desde la última vez que tuve forasteros aquí que debo repetir lo que dijeron los robots."
+        "ko": "람다 : 이 보안구역에 외부인이 들어온 것은 꽤 오랜만이니 다른 자동인형이 했던말을 저도 해야겠군요.",
+        "en": "Ramda : It has been quite a long time since an outsider entered this security zone, so I suppose I should say what the other automatons said as well.",
+        "pt": "Ramda : Já faz bastante tempo que um forasteiro entrou nesta área de segurança, então acho que eu também devo dizer o que os outros autômatos disseram.",
+        "es": "Ramda : Hace bastante que no entra un forastero en esta zona de seguridad, así que yo también tendré que decir lo que dijo otro autómata."
     },
     "MMrlBw": {
-        "en": "Lambda: I will use you to ''assess'' our current security system.",
-        "pt": "Lambda: Usarei você para ''avaliar'' nosso sistema de segurança atual.",
-        "es": "Lambda: Te usaré para “evaluar” nuestro sistema de seguridad actual."
+        "ko": "람다 : 당신들을 이용해서 우리의 보안 체계가 어느정도인지 '평가' 해 봐야겠습니다.",
+        "en": "Ramda : Using you, I will have to 'evaluate' just how effective our security system is.",
+        "pt": "Ramda : Vou precisar usar vocês para 'avaliar' até que ponto é o nosso sistema de segurança.",
+        "es": "Ramda : Usándolos a ustedes, tendré que 'evaluar' hasta qué punto llega nuestro sistema de seguridad."
     },
     "McrlBw": {
-        "en": "Garden Watcher#{}",
-        "pt": "Vigia do Jardim#{}",
-        "es": "Vigilante de los jardines#{}"
+        "ko": "화원의 감시자#{0}",
+        "en": "Garden Watcher#{0}",
+        "pt": "Vigia do Jardim#{0}",
+        "es": "Vigilante del invernadero#{0}"
     },
     "MsrlBw": {
-        "en": "Lambda: I can clearly see that our security status is less than stellar.",
-        "pt": "Lambda: Posso ver claramente que nosso status de segurança não é nada bom.",
-        "es": "Lambda: Puedo ver claramente que nuestro estado de seguridad es menos que estelar."
+        "ko": "람다 : 우리 보안상태가 그리 좋지 못하다는건 확실히 알겠어요.",
+        "en": "Ramda : I can certainly tell that our security condition is not very good.",
+        "pt": "Ramda : Agora tenho certeza de que o nosso estado de segurança não é tão bom.",
+        "es": "Ramda : Ya veo con certeza que nuestro estado de seguridad no es muy bueno."
     },
     "M8rlBw": {
-        "en": "Lambda: {}, I want you to [inspect] the next area too.",
-        "pt": "Lambda: {}, quero que você [inspecione] a próxima área também.",
-        "es": "Lambda: {}, quiero que [inspecciones] la zona siguiente también."
+        "ko": "람다 : {0}, 다음구역도 당신이 [점검] 을 해줬으면 좋겠군요.",
+        "en": "Ramda : {0}, I would like you to [inspect] the next area as well.",
+        "pt": "Ramda : {0}, eu gostaria que você também fizesse a [inspeção] da próxima área.",
+        "es": "Ramda : {0}, me gustaría que también [inspeccionaras] la siguiente zona."
     },
     "NMrlBw": {
-        "en": "The portal that links between gardens is activated.",
-        "pt": "O portal que liga os jardins está ativado.",
-        "es": "El portal que une los jardines está activado."
+        "ko": "화원사이를 연결하는 워프가 활성화 됩니다.",
+        "en": "The warp connecting the gardens has been activated.",
+        "pt": "O warp que conecta os jardins de flores é ativado.",
+        "es": "El warp que conecta los jardines se activa."
     },
     "NcrlBw": {
-        "en": "Lambda: Your movements helped me a lot.{}",
-        "pt": "Lambda: Seus movimentos me ajudaram muito.{}",
-        "es": "Lambda: Tus movimientos me ayudaron mucho.{}"
+        "ko": "람다 : 당신의 움직임이 저에게 많은 도움이 되었습니다.{0}",
+        "en": "Ramda : Your movements were a great help to me.{0}",
+        "pt": "Ramda : Seus movimentos me ajudaram muito.{0}",
+        "es": "Ramda : Tus movimientos me han sido de gran ayuda.{0}"
     },
     "NsrlBw": {
-        "en": "Lambda: Now, shall we continue?",
-        "pt": "Lambda: Vamos continuar?",
-        "es": "Lambda: ¿Continuamos?"
+        "ko": "람다 : 그럼 마저 진행해볼까요.",
+        "en": "Ramda : Then shall we continue.",
+        "pt": "Ramda : Então, vamos continuar.",
+        "es": "Ramda : Entonces, ¿continuamos?"
     },
     "N8rlBw": {
-        "en": "Lambda: Perhaps Sigma was right.",
-        "pt": "Lambda: Talvez Sigma estava certo.",
-        "es": "Lambda: Quizás Sigma tenía razón."
+        "ko": "람다 : 시그마가 해준 말이 맞을지도 모르겠군요.",
+        "en": "Ramda : Perhaps what Sigma said was right.",
+        "pt": "Ramda : Talvez o que Sigma disse esteja certo.",
+        "es": "Ramda : Puede que lo que dijo Sigma fuera cierto."
     },
     "OMrlBw": {
-        "en": "Lambda: {}, you and your crew may have really met Master Barmund like he said.",
-        "pt": "Lambda: {}, você e sua equipe podem ter realmente conhecido o Mestre Varmunt, como ele disse.",
-        "es": "Lambda: {}, tú y tu tripulación pueden haber conocido realmente al maestro Barmund como él dijo."
+        "ko": "람다 : 그의 말대로 {0} 당신과 일행들이 정말 바르문트님을 만났던 사람들일지도 모르죠.",
+        "en": "Ramda : As he said, {0} you and your party may truly be the ones who met Lord Varmundt.",
+        "pt": "Ramda : Como ele disse {0} talvez você e seu grupo sejam mesmo as pessoas que encontraram o Senhor Varmundt.",
+        "es": "Ramda : Tal como dijo, {0} quizá tú y tu grupo seáis realmente quienes se encontraron con el señor Varmundt."
     },
     "OcrlBw": {
-        "en": "Lambda: However, I will test you one last time before meeting you face to face.",
-        "pt": "Lambda: No entanto, vou testar você uma última vez antes de encontrar pessoalmente.",
-        "es": "Lambda: Sin embargo, te pondré una vez más a prueba antes de conocerte personalmente."
+        "ko": "람다 : 하지만 여러분을 만나기 전에 마지막으로 한번만 더 테스트를 해봐야겠어요.",
+        "en": "Ramda : But before I meet you, I must test you one last time.",
+        "pt": "Ramda : Mas, antes de encontrar vocês, preciso fazer só mais um último teste.",
+        "es": "Ramda : Pero antes de conocerlos, debo hacer una última prueba, solo una vez más."
     },
     "OsrlBw": {
-        "en": "Lambda: Alright. Since you're this strong, I guess it's worth having a talk with you.",
-        "pt": "Lambda: Certo. Já que você é tão forte, acho que vale a pena conversar com você.",
-        "es": "Lambda: De acuerdo. Ya que eres tan fuerte, supongo que vale la pena tener una charla contigo."
+        "ko": "람다 : 좋아요. 이정도로 강한 존재라면 한번 이야기를 나눠봐도 좋겠어요",
+        "en": "Ramda : Good. If you are this strong, it would be worth speaking with you.",
+        "pt": "Ramda : Certo. Se é uma existência tão forte assim, acho que vale a pena conversar.",
+        "es": "Ramda : Bien. Si eres una existencia tan fuerte, estaría bien hablar un poco."
     },
     "O8rlBw": {
-        "en": "Lambda: I will guide you to my room.",
-        "pt": "Lambda: Vou guiar você até o meu cômodo.",
-        "es": "Lambda: Te llevaré a mi habitación."
+        "ko": "람다 : 내 방으로 안내하도록 하죠.",
+        "en": "Ramda : I will guide you to my room.",
+        "pt": "Ramda : Vou guiá-lo até o meu quarto.",
+        "es": "Ramda : Te guiaré a mi habitación."
     },
     "PMrlBw": {
-        "en": "Kappa: Mmhmm. You're quite strong as Lambda said.{}",
-        "pt": "Kappa: Mmhmm. Você é tão forte quanto Lambda disse.{}",
-        "es": "Kappa: Mmmm. Eres bastante fuerte como dijo Lambda.{}"
+        "ko": "카파 : 과연, 람다의 말대로 그럭저럭 강하군요 {0}",
+        "en": "Kappa : Indeed, as Ramda said, you are fairly strong {0}",
+        "pt": "Kappa : De fato, como Ramda disse, você é razoavelmente forte {0}.",
+        "es": "Kappa : Ya veo, tal como dijo Ramda, eres bastante fuerte, {0}."
     },
     "PcrlBw": {
-        "en": "Kappa: But since you're not strong enough to meet Lambda, I will guide you to my room.",
-        "pt": "Kappa: Mas como você não é forte o suficiente para conhecer Lambda, vou guiar você até meu cômodo.",
-        "es": "Kappa: Pero como no eres lo suficientemente fuerte para conocer a Lambda, te llevaré a mi habitación."
+        "ko": "카파 : 하지만 아직 람다를 만날만큼 강하진 않은듯 하니 제 방으로 안내하죠.",
+        "en": "Kappa : But you do not seem strong enough to meet Ramda yet, so I will guide you to my room.",
+        "pt": "Kappa : Mas parece que ainda não é forte o bastante para encontrar Ramda, então vou guiá-lo até o meu quarto.",
+        "es": "Kappa : Pero parece que aún no eres lo bastante fuerte como para conocer a Ramda, así que te guiaré a mi habitación."
     },
     "PsrlBw": {
-        "en": "The portal that links the garden and the restricted zone is activated.",
-        "pt": "O portal que liga o jardim e a zona restrita está ativado.",
-        "es": "Se activa el portal que une los jardines con la zona restringida."
+        "ko": "화원과 보안구역을 연결하는 워프가 활성화 됩니다.",
+        "en": "The warp connecting the gardens and the security area has been activated.",
+        "pt": "O warp que conecta o jardim de flores e a área de segurança é ativado.",
+        "es": "El warp que conecta los jardines y la zona de seguridad se activa."
     },
     "P8rlBw": {
-        "en": "Sigma: I opened a portal to my zone. Take it and come here.",
-        "pt": "Sigma: Eu abri um portal para a minha zona. Entre nele e venha aqui.",
-        "es": "Sigma: Abrí un portal a mi zona. Tómalo y ven aquí."
+        "ko": "시그마: 내 구역으로 통하는 워프를 열었소. 이쪽으로 건너오시오.",
+        "en": "Sigma: I have opened the warp leading to my area. Come across this way.",
+        "pt": "Sigma: Abri o warp que leva à minha área. Atravesse para cá.",
+        "es": "Sigma: He abierto el warp que conduce a mi zona. Cruza por aquí."
     },
     "QMrlBw": {
-        "en": "^FF0000You're overweight, or carrying too many items. Please lighten your inventory first.^000000",
-        "pt": "^FF0000Você está pesado demais ou carregando itens demais. Alivie a sua carga antes.^000000",
-        "es": "^660000Llevas mucho peso o demasiados objetos. Primero aligera el inventario.^000000"
+        "ko": "^FF0000보유한 물건의 종류나 무게가 너무 많은 것 같습니다. 인벤토리를 정리해주세요.^000000",
+        "en": "^FF0000It seems you have too many items, either in type or weight. Please organize your inventory.^000000",
+        "pt": "^FF0000Parece que você está carregando muitos tipos de itens ou peso demais. Por favor, organize seu inventário.^000000",
+        "es": "^FF0000Parece que tienes demasiados tipos de objetos o demasiado peso. Por favor, organiza tu inventario.^000000"
     },
     "QcrlBw": {
-        "en": "[Sigma]\nIt's fortunate that you made them give in by force, but it doesn't seem like you've been granted administrator authority.",
-        "pt": "[Sigma]\nAinda bem que os forçou a ceder, mas parece que você não recebeu autoridade de administrador.",
-        "es": "[Sigma]\nEs una suerte que los hayas hecho rendirse a la fuerza, pero no parece que hayas recibido autoridad de administrador."
+        "ko": "^FF0000보상아이템을 이미 너무 많이 보유하고 있습니다. 보상아이템을 비운 뒤 다시 진행 해주십시오^000000",
+        "en": "^FF0000You are already holding too many reward items. Please clear out reward items and then proceed again.^000000",
+        "pt": "^FF0000Você já possui itens de recompensa demais. Esvazie os itens de recompensa e tente novamente.^000000",
+        "es": "^FF0000Ya tienes demasiados objetos de recompensa. Vacía los objetos de recompensa y luego vuelve a intentarlo.^000000"
     },
     "QsrlBw": {
-        "en": "[Sigma]\nThey will restore themselves over time, so I suspect we must continue this power game until Master Barmund returns.",
-        "pt": "[Sigma]\nEles vão se restaurar com o tempo, então suspeito que devemos continuar esse jogo de poder até que o Mestre Varmunt volte.",
-        "es": "[Sigma]\nSe restaurarán con el tiempo, así que sospecho que debemos continuar este juego de poder hasta que el maestro Barmund regrese."
+        "ko": "[시그마]\n힘으로 굴복시킨건 좋지만. 딱히 당신에게 관리자 권한이 부여되진 않은것 같군.",
+        "en": "[Sigma]\nIt is good that you subdued them by force, but it does not seem you have been granted administrator authority.",
+        "pt": "[Sigma]\nFoi bom subjugá-los pela força, mas parece que você não recebeu, em particular, privilégios de administrador.",
+        "es": "[Sigma]\nEstá bien que los hayas sometido por la fuerza, pero parece que no se te han otorgado permisos de administrador."
     },
     "Q8rlBw": {
-        "en": "[Sigma]\nOh, right.\nI brought something ancient in hopes of it being of help to you. Take it.",
-        "pt": "[Sigma]\nAh, certo.\nEu trouxe algo antigo esperando que seja útil para você. Pegue.",
-        "es": "[Sigma]\nYa veo.\nHe traído algo antiguo con la esperanza de que te sirva de ayuda. Toma."
+        "ko": "[시그마]\n저들은 시간이 지나면 다시 회복할테니 아마 바르문트님이 돌아오기 전 까지 계속해서 이 힘싸움을 계속해야 할지도 모른다는 예감이 드는구려.",
+        "en": "[Sigma]\nThey will recover again with time, so I have a feeling we may have to keep up this struggle for power until Lord Varmundt returns.",
+        "pt": "[Sigma]\nEles vão se recuperar com o tempo, então tenho a sensação de que talvez tenhamos de continuar essa disputa de forças até o Senhor Varmundt voltar.",
+        "es": "[Sigma]\nEllos se recuperarán con el tiempo, así que tengo el presentimiento de que quizá tengamos que seguir con esta lucha de fuerzas hasta que regrese el señor Varmundt."
     },
     "RMrlBw": {
-        "en": "[Sigma]\nWhy don't you free up some space in your inventory? I can't give you anything right now.",
-        "pt": "[Sigma]\nPorque você não libera espaço no seu inventário? Eu não posso te dar nada no momento.",
-        "es": "[Sigma]\n¿Por qué no liberas algo de espacio en tu inventario? No puedo darte nada en este momento."
+        "ko": "[시그마]\n참.\n혹시 도움이 될지 몰라 과거의 오래된 물건을 들고왔는데, 받으시오.",
+        "en": "[Sigma]\nBy the way.\nI brought an old item from the past, in case it might help. Take it.",
+        "pt": "[Sigma]\nAh.\nTrouxe um objeto antigo do passado, caso ajude. Pegue.",
+        "es": "[Sigma]\nAh.\nPor si acaso te sirve de ayuda, he traído un objeto antiguo del pasado; tómalo."
     },
     "RcrlBw": {
-        "en": "[Sigma]\nI will guide you outside. What say you?",
-        "pt": "[Sigma]\nVou guiar você até lá fora. O que você diz?",
-        "es": "[Sigma]\nTe llevaré al exterior. ¿Qué me dices?"
+        "ko": "[시그마]\n조금만 더 인벤토리를 비우고 오는건 어떻소? 지금 상태론 뭔가 건네주기가 좀...",
+        "en": "[Sigma]\nHow about clearing out your inventory a bit more and coming back? In your current state, it is a bit difficult to hand you something...",
+        "pt": "[Sigma]\nQue tal voltar depois de esvaziar um pouco mais o inventário? Do jeito que está agora, fica meio... difícil te entregar algo.",
+        "es": "[Sigma]\n¿Qué tal si vuelves después de vaciar un poco más el inventario? En tu estado actual, es un poco... para entregarte algo."
     },
     "RsrlBw": {
-        "en": "Stay",
-        "pt": "Ficar",
-        "es": "Quedarte"
+        "ko": "[시그마]\n나가는 길은 내가 안내하지 어떻게 하겠소?",
+        "en": "[Sigma]\nHow else would you do it if I do not guide you on the way out?",
+        "pt": "[Sigma]\nComo assim, eu não vou guiá-lo na saída?",
+        "es": "[Sigma]\n¿Y cómo vas a hacerlo si no te guío yo por el camino de salida?"
     },
     "R8rlBw": {
-        "en": "Leave",
-        "pt": "Ir embora",
-        "es": "Salir"
+        "ko": "더 둘러본다",
+        "en": "Look around more",
+        "pt": "Olhar mais ao redor",
+        "es": "Explorar más"
     },
     "SMrlBw": {
-        "en": "[Sigma]\nAlright. Take your time.",
-        "pt": "[Sigma]\nCerto. Não se apresse.",
-        "es": "[Sigma]\nDe acuerdo. Tómate tu tiempo."
+        "ko": "나간다",
+        "en": "I'm leaving.",
+        "pt": "Vou sair.",
+        "es": "Me voy."
+    },
+    "ScrlBw": {
+        "ko": "[시그마]\n알겠소. 천천히 하시오.",
+        "en": "[Sigma]\nUnderstood. Take it slow.",
+        "pt": "[Sigma]\nEntendido. Vá com calma.",
+        "es": "[Sigma]\nEntendido. Hágalo despacio."
     }
 }

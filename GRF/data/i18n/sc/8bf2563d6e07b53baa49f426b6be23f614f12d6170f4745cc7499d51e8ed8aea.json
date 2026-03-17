@@ -2,91 +2,91 @@
     "4JATCA": {
         "ko": "다음 지역은 좀 더 수련이 필요한 것 같아...",
         "en": "It looks like I need a bit more training before heading to the next area...",
-        "pt": "Acho que a próxima área exige um pouco mais de treino...",
+        "pt": "Não posso entrar aqui...",
         "es": "Parece que en la siguiente zona hace falta un poco más de entrenamiento..."
     },
     "4ZATCA": {
         "ko": "뭐지? 이 빛은..?",
         "en": "What? This light...?",
-        "pt": "O quê? Essa luz...?",
+        "pt": "O que é essa luz...?",
         "es": "¿Qué? ¿Esta luz...?"
     },
     "4pATCA": {
         "ko": "따뜻한 빛이다.\n반짝이는 빛 너머, 무언가가 아른거린다.",
         "en": "It is a warm light.\nBeyond the shimmering glow, something flickers into view.",
-        "pt": "É uma luz quente.\nAlém da luz cintilante, algo tremeluz.",
+        "pt": "É uma luz cálida.\nAlém da luz cintilante, algo brilha.",
         "es": "Es una luz cálida.\nMás allá de la luz brillante, algo se vislumbra."
     },
     "45ATCA": {
         "ko": "빛이 이끄는 곳으로 간다.",
         "en": "I head toward where the light is leading.",
-        "pt": "Vou para onde a luz me guia.",
+        "pt": "Vá em direção à luz.",
         "es": "Voy hacia donde me guía la luz."
     },
     "5JATCA": {
         "ko": "자리를 피한다.",
         "en": "I step aside.",
-        "pt": "Saio daqui.",
+        "pt": "Ficar aqui.",
         "es": "Me aparto."
     },
     "5ZATCA": {
         "ko": "팻말",
         "en": "Sign",
-        "pt": "Placa",
+        "pt": "Aviso",
         "es": "Cartel"
     },
     "5pATCA": {
         "ko": "아래로 향해 있는 밧줄이 보인다.",
         "en": "I can see a rope leading downward.",
-        "pt": "Vejo uma corda que desce.",
+        "pt": "Há uma corda para descer.",
         "es": "Se ve una cuerda que desciende."
     },
     "55ATCA": {
         "ko": "작은 구멍 앞에 서있는 팻말엔 이렇게 적혀 있다.\n- 돌아서 가는 것이 귀찮아 지름길을 만들었지만, 매우 높고 깊어서 다른 사람들에겐 그리 권하지 않음. -\n^4D4DFF권장레벨 190 이상^000000",
         "en": "On the sign standing in front of the small hole, it says:\n- I made a shortcut because I was tired of going around, but it is very high and deep, so I do not really recommend it to others. -\n^4D4DFFRecommended Level 190 or higher^000000",
-        "pt": "Na placa em frente ao pequeno buraco, está escrito:\n- Eu me cansei de dar a volta e fiz um atalho, mas é muito alto e profundo, então não recomendo muito para outras pessoas. -\n^4D4DFFNível recomendado 190 ou acima^000000",
+        "pt": "O aviso diz: \n- Este é um atalho, pois dar a volta é muito cansativo. A descida é longa e perigosa. -\n^4D4DFFRecomendável para nível 190 ou mais.^000000",
         "es": "En el cartel que está frente al pequeño agujero pone lo siguiente:\n- Me daba pereza dar la vuelta, así que hice un atajo, pero es muy alto y profundo, así que no se lo recomiendo mucho a los demás. -\n^4D4DFFNivel recomendado 190 o superior^000000"
     },
     "6JATCA": {
         "ko": "나도 갈 거야!",
         "en": "I'm going too!",
-        "pt": "Eu também vou!",
+        "pt": "Descer pela corda!",
         "es": "¡Yo también voy!"
     },
     "6ZATCA": {
         "ko": "빠지지 않게 조심해야겠다.",
         "en": "I should be careful not to fall in.",
-        "pt": "É melhor eu tomar cuidado para não cair.",
+        "pt": "Melhor deixar pra lá.",
         "es": "Debo tener cuidado de no caerme."
     },
     "6pATCA": {
         "ko": "레벨이 부족합니다.\n^4D4DFF권장레벨 190 이상^000000",
         "en": "Your level is too low.\n^4D4DFFRecommended Level 190 or higher^000000",
-        "pt": "Seu nível é insuficiente.\n^4D4DFFNível recomendado 190 ou acima^000000",
+        "pt": "Nível insuficiente.\n^4D4DFFRecomendável para nível 190 ou mais.^000000",
         "es": "El nivel es insuficiente.\n^4D4DFFNivel recomendado 190 o superior^000000"
     },
     "65ATCA": {
         "ko": "올라갈 수 있는 밧줄이 보인다.",
         "en": "I can see a rope I can climb.",
-        "pt": "Vejo uma corda pela qual dá para subir.",
+        "pt": "Há uma corda para subir.",
         "es": "Se ve una cuerda por la que se puede subir."
     },
     "7JATCA": {
         "ko": "위로 올라갈 수 있는 밧줄이 보인다.",
         "en": "I can see a rope leading upward.",
-        "pt": "Vejo uma corda pela qual dá para subir.",
+        "pt": "Você pode subir por essa corda.",
         "es": "Se ve una cuerda por la que se puede subir."
     },
     "7ZATCA": {
         "ko": "밧줄을 잡고 올라간다.",
         "en": "I grab the rope and climb up.",
-        "pt": "Seguro a corda e subo.",
+        "pt": "Subir pela corda.",
         "es": "Agarro la cuerda y subo."
     },
     "7pATCA": {
         "ko": "좀 더 머문다.",
         "en": "I stay a little longer.",
-        "pt": "Fico mais um pouco.",
+        "pt": "Ficar aqui.",
         "es": "Me quedo un poco más."
     }
 }

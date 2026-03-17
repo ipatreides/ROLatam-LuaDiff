@@ -194,304 +194,514 @@ QuestInfoList = {
 		Summary = ""
 	},
 	[1017] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "Liga de los Exploradores",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"En la Batalla de los Orcos, elimina 1 Héroe Orco Falso."
+		},
+		Summary = "Batalla de los Orcos"
 	},
 	[1018] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "[Espera] Batalla de los Orcos",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"¡Espera el período de descanso para regresar al edificio de la Liga de los Exploradores!"
+		},
+		Summary = "Vuelve mañana",
+		CoolTimeQuest = 1
 	},
 	[1019] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "Liga de los Exploradores",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"En el Torneo de Magia, elimina 1 Ordre."
+		},
+		Summary = "Torneo de Magia"
 	},
 	[1020] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "[Espera] Torneo de Magia",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"¡Espera el período de descanso para regresar al edificio de la Liga de los Exploradores!"
+		},
+		Summary = "Vuelve mañana",
+		CoolTimeQuest = 1
 	},
 	[1021] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "Liga de los Exploradores",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"En los Recuerdos de Sarah, elimina 1 Lord Irine."
+		},
+		Summary = "Recuerdos de Sarah"
 	},
 	[1022] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "[Espera] Recuerdos de Sarah",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"¡Espera el período de descanso para regresar al edificio de la Liga de los Exploradores!"
+		},
+		Summary = "Vuelve mañana",
+		CoolTimeQuest = 1
 	},
 	[1023] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "Liga de los Exploradores",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"En el Palacio Fantasma, elimina 1 Angustia Torturante."
+		},
+		Summary = "Palacio Fantasma"
 	},
 	[1024] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "[Espera] Palacio Fantasma",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"¡Espera el período de descanso para regresar al edificio de la Liga de los Exploradores!"
+		},
+		Summary = "Vuelve mañana",
+		CoolTimeQuest = 1
 	},
 	[1025] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "Liga de los Exploradores",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"En el Salón de Ymir, elimina 1 Bijou."
+		},
+		Summary = "Salón de Ymir"
 	},
 	[1026] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "[Espera] Salón de Ymir",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"¡Espera el período de descanso para regresar al edificio de la Liga de los Exploradores!"
+		},
+		Summary = "Vuelve mañana",
+		CoolTimeQuest = 1
 	},
 	[1027] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "Liga de los Exploradores",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"En el Hospital Abandonado, elimina 1 Bangungot."
+		},
+		Summary = "Hospital Abandonado"
 	},
 	[1028] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "[Espera] Hospital Abandonado",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"¡Espera el período de descanso para regresar al edificio de la Liga de los Exploradores!"
+		},
+		Summary = "Vuelve mañana",
+		CoolTimeQuest = 1
 	},
 	[1029] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "Liga de los Exploradores",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"En la instancia A los Pies del Rey, elimina 1 Charleston 03."
+		},
+		Summary = "A los Pies del Rey"
 	},
 	[1030] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "[Espera] A los Pies del Rey",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"¡Espera el período de descanso para regresar al edificio de la Liga de los Exploradores!"
+		},
+		Summary = "Vuelve mañana",
+		CoolTimeQuest = 1
 	},
 	[1031] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "Liga de los Exploradores",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"En la Fábrica del Terror, elimina 1 Antonio."
+		},
+		Summary = "Fábrica del Terror"
 	},
 	[1032] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "[Espera] Fábrica del Terror",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"¡Espera el período de descanso para regresar al edificio de la Liga de los Exploradores!"
+		},
+		Summary = "Vuelve mañana",
+		CoolTimeQuest = 1
 	},
 	[1033] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "Liga de los Exploradores",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"En el Sueño Sombrío, elimina 1 Réquiem de Marfil."
+		},
+		Summary = "Sueño Sombrío"
 	},
 	[1034] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "[Espera] Sueño Sombrío",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"¡Espera el período de descanso para regresar al edificio de la Liga de los Exploradores!"
+		},
+		Summary = "Vuelve mañana",
+		CoolTimeQuest = 1
 	},
 	[1035] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "Liga de los Exploradores",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"En la Guarida de Gusanos, elimina 4 Gusanos Sombríos con Cara."
+		},
+		Summary = "Guarida de Gusanos"
 	},
 	[1036] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "[Espera] Guarida de Gusanos",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"¡Espera el período de descanso para regresar al edificio de la Liga de los Exploradores!"
+		},
+		Summary = "Vuelve mañana",
+		CoolTimeQuest = 1
 	},
 	[1037] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "Liga de los Exploradores",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"En la Sala Final, elimina 1 T_W_O."
+		},
+		Summary = "Sala Final"
 	},
 	[1038] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "[Espera] Sala Final",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"¡Espera el período de descanso para regresar al edificio de la Liga de los Exploradores!"
+		},
+		Summary = "Vuelve mañana",
+		CoolTimeQuest = 1
 	},
 	[1039] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "Liga de los Exploradores",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"En el Nido de Nidhogg, elimina 1 Sombra del Guardián."
+		},
+		Summary = "Nido de Nidhogg"
 	},
 	[1040] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "[Espera] Nido de Nidhogg",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"¡Espera el período de descanso para regresar al edificio de la Liga de los Exploradores!"
+		},
+		Summary = "Vuelve mañana",
+		CoolTimeQuest = 1
 	},
 	[1041] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "Liga de los Exploradores",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"En el Lago de Bakonawa, elimina 1 Tesoro de Bakonawa."
+		},
+		Summary = "Lago de Bakonawa"
 	},
 	[1042] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "[Espera] Lago Bakonawa",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"¡Espera el período de descanso para regresar al edificio de la Liga de los Exploradores!"
+		},
+		Summary = "Vuelve mañana",
+		CoolTimeQuest = 1
 	},
 	[1043] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "Liga de los Exploradores",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"En la Cueva de Buwaya, elimina 1 Buwaya."
+		},
+		Summary = "Cueva de Buwaya"
 	},
 	[1044] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "[Espera] Cueva Buwaya",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"¡Espera el período de descanso para regresar al edificio de la Liga de los Exploradores!"
+		},
+		Summary = "Vuelve mañana",
+		CoolTimeQuest = 1
 	},
 	[1045] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "Liga de los Exploradores",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"En Glastheim Sombría, elimina 1 Amdarais Sombrío."
+		},
+		Summary = "Glastheim Sombría"
 	},
 	[1046] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "[Espera] Glastheim Sombría",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"¡Espera el período de descanso para regresar al edificio de la Liga de los Exploradores!"
+		},
+		Summary = "Vuelve mañana",
+		CoolTimeQuest = 1
 	},
 	[1047] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "Liga de los Exploradores",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"En la instancia Sarah vs Fenrir, elimina 6 Gigantes Ancestrales."
+		},
+		Summary = "Sarah vs Fenrir"
 	},
 	[1048] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "[Espera] Sarah vs Fenrir",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"¡Espera el período de descanso para regresar al edificio de la Liga de los Exploradores!"
+		},
+		Summary = "Vuelve mañana",
+		CoolTimeQuest = 1
 	},
 	[1049] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "Liga de los Exploradores",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"En la Torre del Demonio, elimina los 3 tipos de Sombras de la Oscuridad."
+		},
+		Summary = "Torre del Demonio"
 	},
 	[1050] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "[Espera] Torre del Demonio",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"¡Espera el período de descanso para regresar al edificio de la Liga de los Exploradores!"
+		},
+		Summary = "Vuelve mañana",
+		CoolTimeQuest = 1
 	},
 	[1051] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "Liga de los Exploradores",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"En la Isla Bios, elimina 1 Segador Ankou."
+		},
+		Summary = "Isla Bios"
 	},
 	[1052] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "[Espera] Isla Bios",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"¡Espera el período de descanso para regresar al edificio de la Liga de los Exploradores!"
+		},
+		Summary = "Vuelve mañana",
+		CoolTimeQuest = 1
 	},
 	[1053] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "Liga de los Exploradores",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"En el Templo del Rey Demonio, elimina 1 Dios Morroc."
+		},
+		Summary = "Templo del Rey Demonio"
 	},
 	[1054] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "[Espera] Templo del Rey Demonio",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"¡Espera el período de descanso para regresar al edificio de la Liga de los Exploradores!"
+		},
+		Summary = "Vuelve mañana",
+		CoolTimeQuest = 1
 	},
 	[1055] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "Liga de los Exploradores",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"En el Laboratorio Werner, elimina 1 Cutie."
+		},
+		Summary = "Laboratorio Werner"
 	},
 	[1056] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "[Espera] Laboratorio Werner",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"¡Espera el período de descanso para regresar al edificio de la Liga de los Exploradores!"
+		},
+		Summary = "Vuelve mañana",
+		CoolTimeQuest = 1
 	},
 	[1057] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "Liga de los Exploradores",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"En la Villa de los Porings, elimina 1 Rey Poring."
+		},
+		Summary = "Villa de los Porings"
 	},
 	[1058] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "[Espera] Villa de los Porings",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"¡Espera el período de descanso para regresar al edificio de la Liga de los Exploradores!"
+		},
+		Summary = "Vuelve mañana",
+		CoolTimeQuest = 1
 	},
 	[1059] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "Liga de los Exploradores",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"En la Cueva del Pulpo, elimina 1 Pulpo Gigante."
+		},
+		Summary = "Cueva del Pulpo"
 	},
 	[1060] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "[Espera] Cueva del Pulpo",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"¡Espera el período de descanso para regresar al edificio de la Liga de los Exploradores!"
+		},
+		Summary = "Vuelve mañana",
+		CoolTimeQuest = 1
 	},
 	[1061] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "Liga de los Exploradores",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"En el Cuarto Creciente, elimina 1 Espectro de Ktullanux."
+		},
+		Summary = "Cuarto Creciente"
 	},
 	[1062] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "[Espera] Cuarto Creciente",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"¡Espera el período de descanso para regresar al edificio de la Liga de los Exploradores!"
+		},
+		Summary = "Vuelve mañana",
+		CoolTimeQuest = 1
 	},
 	[1063] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "Liga de los Exploradores",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"En la Misión OS, elimina 1 Miguel."
+		},
+		Summary = "Misión OS"
 	},
 	[1064] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "[Espera] Misión OS",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"¡Espera el período de descanso para regresar al edificio de la Liga de los Exploradores!"
+		},
+		Summary = "Vuelve mañana",
+		CoolTimeQuest = 1
 	},
 	[1065] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "Liga de los Exploradores",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"En la Maldición de Glastheim, elimina 1 Origen de la Maldición y 1 Amdarais."
+		},
+		Summary = "Maldición de Glastheim"
 	},
 	[1066] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "[Espera] Maldición de Glastheim",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"¡Espera el período de descanso para regresar al edificio de la Liga de los Exploradores!"
+		},
+		Summary = "Vuelve mañana",
+		CoolTimeQuest = 1
 	},
 	[1067] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "Liga de los Exploradores",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"En la Base Militar, elimina 1 Malicia."
+		},
+		Summary = "Hospital Abandonado"
 	},
 	[1068] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "[Espera] Base Militar",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"¡Espera el período de descanso para regresar al edificio de la Liga de los Exploradores!"
+		},
+		Summary = "Vuelve mañana",
+		CoolTimeQuest = 1
 	},
 	[1069] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "Liga de los Exploradores",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"En el Laboratorio de Wolfchev, elimina 5 Cobayas Hambrientas y 10 Animales Hambrientos."
+		},
+		Summary = "Laboratorio de Wolfchev"
 	},
 	[1070] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "[Espera] Laboratorio de Wolfchev",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"¡Espera el período de descanso para regresar al edificio de la Liga de los Exploradores!"
+		},
+		Summary = "Vuelve mañana",
+		CoolTimeQuest = 1
 	},
 	[1071] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "Liga de los Exploradores",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"En el Memorial COR, elimina 1 EL-A17T."
+		},
+		Summary = "Memorial COR"
 	},
 	[1072] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "[Espera] Memorial COR",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"¡Espera el período de descanso para regresar al edificio de la Liga de los Exploradores!"
+		},
+		Summary = "Vuelve mañana",
+		CoolTimeQuest = 1
 	},
 	[1073] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "Liga de los Exploradores",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"En el Susurro Sombrío, elimina 3 Muertos Vivientes de cada tipo."
+		},
+		Summary = "Susurro Sombrío"
 	},
 	[1074] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "[Espera] Susurro Sombrío",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"¡Espera el período de descanso para regresar al edificio de la Liga de los Exploradores!"
+		},
+		Summary = "Vuelve mañana",
+		CoolTimeQuest = 1
 	},
 	[1075] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "Liga de los Exploradores",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"En la Cueva de Mors, elimina 1 Necromante de Morroc."
+		},
+		Summary = "Cueva de Mors"
 	},
 	[1076] = {
-		Title = "",
-		Description = {""},
-		Summary = ""
+		Title = "[Espera] Cueva de Mors",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"¡Espera el período de descanso para regresar al edificio de la Liga de los Exploradores!"
+		},
+		Summary = "Vuelve mañana",
+		CoolTimeQuest = 1
 	},
 	[1100] = {
 		Title = "¡En solitario en la Mazmorra de la Esfinge!",
@@ -11682,7 +11892,7 @@ QuestInfoList = {
 	[5482] = {
 		Title = "[Se busca]",
 		Description = {
-			"Elimina a Amdarais Oscuro en Glastheim Oscuro."
+			"Elimina a Amdarais Sombrío en Glastheim Oscuro."
 		}
 	},
 	[5483] = {
@@ -32037,9 +32247,9 @@ QuestInfoList = {
 		Title = "¡Silencio en la biblioteca!",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Apagamos la luz junto a la puerta y entramos en la biblioteca. Hablemos con <NAVI>[Library Manager ?]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
+			"Apagamos la luz junto a la puerta y entramos en la biblioteca. Hablemos con <NAVI>[Library Manager Beta]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Hablar con Library Manager ?"
+		Summary = "Hablar con Library Manager Beta"
 	},
 	[11624] = {
 		Title = "¡Silencio en la biblioteca!",
@@ -32085,47 +32295,47 @@ QuestInfoList = {
 		Title = "¡Silencio en la biblioteca!",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Hemos hablado con Mark. Cuando termines de hablar con los demás, regresa a <NAVI>[Library Manager ?]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
+			"Hemos hablado con Mark. Cuando termines de hablar con los demás, regresa a <NAVI>[Library Manager Beta]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Ir a Library Manager ?"
+		Summary = "Ir a Library Manager Beta"
 	},
 	[11630] = {
 		Title = "¡Silencio en la biblioteca!",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Hemos hablado con Magi. Cuando termines de hablar con los demás, regresa a <NAVI>[Library Manager ?]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
+			"Hemos hablado con Magi. Cuando termines de hablar con los demás, regresa a <NAVI>[Library Manager Beta]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Ir a Library Manager ?"
+		Summary = "Ir a Library Manager Beta"
 	},
 	[11631] = {
 		Title = "¡Silencio en la biblioteca!",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Hemos hablado con Alf. Cuando termines de hablar con los demás, regresa a <NAVI>[Library Manager ?]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
+			"Hemos hablado con Alf. Cuando termines de hablar con los demás, regresa a <NAVI>[Library Manager Beta]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Ir a Library Manager ?"
+		Summary = "Ir a Library Manager Beta"
 	},
 	[11632] = {
 		Title = "¡Silencio en la biblioteca!",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Hemos hablado con Tamarin. Cuando termines de hablar con los demás, regresa a <NAVI>[Library Manager ?]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
+			"Hemos hablado con Tamarin. Cuando termines de hablar con los demás, regresa a <NAVI>[Library Manager Beta]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Ir a Library Manager ?"
+		Summary = "Ir a Library Manager Beta"
 	},
 	[11633] = {
 		Title = "¡Silencio en la biblioteca!",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Hemos hablado con Oliver. Cuando termines de hablar con los demás, regresa a <NAVI>[Library Manager ?]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
+			"Hemos hablado con Oliver. Cuando termines de hablar con los demás, regresa a <NAVI>[Library Manager Beta]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Ir a Library Manager ?"
+		Summary = "Ir a Library Manager Beta"
 	},
 	[11634] = {
 		Title = "Caza definitiva de Ratón de biblioteca",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Parece que la biblioteca tiene problemas por culpa de Ratón de biblioteca, que roe los grimorios. Derrota a Ratón de biblioteca y regresa con <NAVI>[Library Manager ?]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
+			"Parece que la biblioteca tiene problemas por culpa de Ratón de biblioteca, que roe los grimorios. Derrota a Ratón de biblioteca y regresa con <NAVI>[Library Manager Beta]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Cazar 20 Ratón de biblioteca"
 	},
@@ -32133,7 +32343,7 @@ QuestInfoList = {
 		Title = "Caza definitiva de Ratón de biblioteca",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Esta misión es diaria; una vez finalizado el tiempo de espera, puede volver a aceptarse a través de <NAVI>[Library Manager ?]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
+			"Esta misión es diaria; una vez finalizado el tiempo de espera, puede volver a aceptarse a través de <NAVI>[Library Manager Beta]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Reinicio a las 04:00",
 		CoolTimeQuest = 1
@@ -32142,7 +32352,7 @@ QuestInfoList = {
 		Title = "Orden definitivo de libros",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Parece que los grimorios errantes han salido de las estanterías y todo está hecho un desastre. Recupera Libro de hechizos errante y regresa con <NAVI>[Library Manager ?]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
+			"Parece que los grimorios errantes han salido de las estanterías y todo está hecho un desastre. Recupera Libro de hechizos errante y regresa con <NAVI>[Library Manager Beta]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Recuperar 20 Libro de hechizos errante"
 	},
@@ -32150,7 +32360,7 @@ QuestInfoList = {
 		Title = "Orden definitivo de libros",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Esta misión es diaria; una vez finalizado el tiempo de espera, puede volver a aceptarse a través de <NAVI>[Library Manager ?]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
+			"Esta misión es diaria; una vez finalizado el tiempo de espera, puede volver a aceptarse a través de <NAVI>[Library Manager Beta]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Reinicio a las 04:00"
 	},
@@ -35446,44 +35656,44 @@ QuestInfoList = {
 	[12334] = {
 		Title = "Rastros de la alteración temporal",
 		Description = {
-			"No se permite viajar en el tiempo al antiguo Glastheim por 70 horas."
+			"Regresa después de 3 días"
 		},
-		Summary = "Distorsionado."
+		Summary = "Glastheim Sombría"
 	},
 	[12335] = {
 		Title = "Distorsión espacial",
 		Description = {
-			"Hugin distorcionó el espacio dentro del antiguo Glastheim. Algo extraño puede ocurrir en el castillo."
+			"El tiempo y el espacio han sido distorsionados por Hugin. ¡Ahora podrás ver lo que ocurre en el castillo de Glastheim!"
 		},
-		Summary = "Distorsión espacial"
+		Summary = "Glastheim Sombría"
 	},
 	[12336] = {
-		Title = "Acabando con Raíz de la corrupción",
+		Title = "Acabando con Raíz de la Corrupción",
 		Description = {
-			"Derrota al monstruo Raíz de la corrupción en el primer piso del antiguo Glastheim."
+			"Derrota al Raíz de la Corrupción."
 		},
-		Summary = "Raíz de la corrupción."
+		Summary = "Raíz de la Corrupción"
 	},
 	[12337] = {
-		Title = "Acabando con Amdarais",
+		Title = "Glastheim Sombría",
 		Description = {
-			"Derrota a Amdarais (avanzado) desde el segundo piso del antiguo Glastheim."
+			"¡Himmelmez está a punto de lograr su objetivo!"
 		},
-		Summary = "Amdarais."
+		Summary = "Derrota a Amdarais Sombrío"
 	},
 	[12338] = {
-		Title = "Viajante de tiempo",
+		Title = "Glastheim Sombría",
 		Description = {
-			"El viaje parcial en el tiempo al antiguo Glastheim se completó."
+			"El viaje temporal a la Glastheim Sombría se ha completado parcialmente."
 		},
-		Summary = "Viaje en el tiempo al antiguo Glastheim."
+		Summary = "Reporta el caso a Hugin"
 	},
 	[12339] = {
-		Title = "Conquistador de tiempo",
+		Title = "Glastheim Sombría",
 		Description = {
-			"Se completó todo el viaje en el tiempo al antiguo Glastheim."
+			"Se completó todo el viaje en el tiempo al Glastheim Sombría."
 		},
-		Summary = "Viaje en el tiempo al antiguo Glastheim."
+		Summary = "Reporta el caso a Hugin"
 	},
 	[12340] = {
 		Title = "Cambio de clase a Rebelde",
@@ -46081,9 +46291,9 @@ Talk to Kar=],
 		Title = "Invitados de la mansión",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Parece que hubo un problema al compartir la lista de invitados a través de la red interna de la mansión. Verifícalo con <NAVI>[Administrador de la mansión ?]<INFO>ba_maison,74,150,0,101,0</INFO></NAVI>."
+			"Parece que hubo un problema al compartir la lista de invitados a través de la red interna de la mansión. Verifícalo con <NAVI>[Administrador de la mansión Alpha]<INFO>ba_maison,74,150,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Administrador de la mansión ?"
+		Summary = "Administrador de la mansión Alpha"
 	},
 	[17334] = {
 		Title = "Verificar Dispositivo de Retransmisión: Comedor",
@@ -46121,9 +46331,9 @@ Talk to Kar=],
 		Title = "Verificación de Dispositivo de Retransmisión completada",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Tras revisar el Dispositivo de Retransmisión averiado, informaste del fallo al autómata. Regresa e informa a <NAVI>[Administrador de la mansión ?]<INFO>ba_maison,74,150,0,101,0</INFO></NAVI>."
+			"Tras revisar el Dispositivo de Retransmisión averiado, informaste del fallo al autómata. Regresa e informa a <NAVI>[Administrador de la mansión Alpha]<INFO>ba_maison,74,150,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Volver con Administrador de la mansión ?"
+		Summary = "Volver con Administrador de la mansión Alpha"
 	},
 	[17339] = {
 		Title = "Suministro de piezas de repuesto",
@@ -46137,7 +46347,7 @@ Talk to Kar=],
 		Title = "Suministro de piezas de repuesto",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Encárgate de los Beta averiados y trae 10 piezas para usar en el Dispositivo de Retransmisión. Esa es la cantidad de reserva para un día. - <NAVI>[Administrador de la mansión ?]<INFO>ba_maison,74,150,0,101,0</INFO></NAVI>"
+			"Encárgate de los Beta averiados y trae 10 piezas para usar en el Dispositivo de Retransmisión. Esa es la cantidad de reserva para un día. - <NAVI>[Administrador de la mansión Alpha]<INFO>ba_maison,74,150,0,101,0</INFO></NAVI>"
 		},
 		Summary = "10 piezas"
 	},
@@ -46145,7 +46355,7 @@ Talk to Kar=],
 		Title = "En espera: sin señal",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Si todo está en orden, me gustaría pedirte ayuda de nuevo después del amanecer de mañana. Descansa bien por ahora. - <NAVI>[Administrador de la mansión ?]<INFO>ba_maison,74,150,0,101,0</INFO></NAVI>"
+			"Si todo está en orden, me gustaría pedirte ayuda de nuevo después del amanecer de mañana. Descansa bien por ahora. - <NAVI>[Administrador de la mansión Alpha]<INFO>ba_maison,74,150,0,101,0</INFO></NAVI>"
 		},
 		Summary = "Reinicio a las 04:00"
 	},
@@ -55212,7 +55422,8 @@ Talk to Kar=],
 		Title = "Visitantes de Otro Mundo",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Se ha formado un equipo de investigación para examinar la grieta que apareció repentinamente en Morroc. Para obtener información sobre la grieta, habla con el <NAVI>[Residente de Morroc]<INFO>morocc,248,178,0,101,0</INFO></NAVI>"
+			"Se ha formado un equipo de investigación para examinar la grieta que apareció repentinamente en Morroc.",
+			"Para obtener información sobre la grieta, habla con el <NAVI>[Residente de Morroc]<INFO>morocc,248,178,0,101,0</INFO></NAVI>"
 		},
 		Summary = "Habla con Residente de Morroc"
 	},
@@ -55220,7 +55431,8 @@ Talk to Kar=],
 		Title = "Visitantes de Otro Mundo",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Has escuchado el relato de lo que han visto en la grieta. Ahora ve a escuchar la historia de la <NAVI>[Residente]<INFO>morocc,202,101,0,101,0</INFO></NAVI>, que trabaja en la tienda al sur de Morroc."
+			"Has escuchado el relato de lo que han visto en la grieta.",
+			"Ahora ve a escuchar la historia de la <NAVI>[Residente]<INFO>morocc,202,101,0,101,0</INFO></NAVI>, que trabaja en la tienda al sur de Morroc."
 		},
 		Summary = "Habla con Residente"
 	},
@@ -55228,7 +55440,8 @@ Talk to Kar=],
 		Title = "Visitantes de Otro Mundo",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Has escuchado la historia de la residente. Ahora ve a escuchar la historia de un <NAVI>[Amigo]<INFO>morocc,259,65,0,101,0</INFO></NAVI>, que trabaja cerca de la tienda de armas en el sureste de Morocc."
+			"Has escuchado la historia de la residente.",
+			"Ahora ve a escuchar la historia de un <NAVI>[Amigo]<INFO>morocc,259,65,0,101,0</INFO></NAVI>, que trabaja cerca de la tienda de armas en el sureste de Morocc."
 		},
 		Summary = "Habla con Comerciante de Armas"
 	},
@@ -55236,7 +55449,8 @@ Talk to Kar=],
 		Title = "Visitantes de Otro Mundo",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Parece que hay más testigos de la grieta de lo que se pensaba. Ahora ve a escuchar la historia del <NAVI>[Amigo]<INFO>morocc,170,139,0,101,0</INFO></NAVI>, que trabaja cerca del centro de Morroc."
+			"Parece que hay más testigos de la grieta de lo que se pensaba.",
+			"Ahora ve a escuchar la historia del <NAVI>[Amigo]<INFO>morocc,170,139,0,101,0</INFO></NAVI>, que trabaja cerca del centro de Morroc."
 		},
 		Summary = "Habla con Administrador de Calidad"
 	},
@@ -55244,7 +55458,8 @@ Talk to Kar=],
 		Title = "Visitantes de Otro Mundo",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"El Administrador de Calidad del Agua dice que vio a una <NAVI>[Persona de Vestimenta Sospechosa]<INFO>morocc,129,270,0,101,0</INFO></NAVI>, cerca de la puerta norte de Morroc. Puede que todavía esté allí, así que vamos a echar un vistazo."
+			"El Administrador de Calidad del Agua dice que vio a una <NAVI>[Persona de Vestimenta Sospechosa]<INFO>morocc,129,270,0,101,0</INFO></NAVI>, cerca de la puerta norte de Morroc.",
+			"Puede que todavía esté allí, así que vamos a echar un vistazo."
 		},
 		Summary = "Encuentra Persona de Vestimenta Sospechosa"
 	},
@@ -55260,7 +55475,8 @@ Talk to Kar=],
 		Title = "Visitantes de Otro Mundo",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Ryu obtuvo información de que han visto a una persona vestida con ropa blanca de lino saliendo por la puerta sur de Morroc. Revisemos <NAVI>[Fuera de la Puerta Sur]<INFO>moc_fild12,164,366,0,101,0</INFO></NAVI>."
+			"Ryu obtuvo información de que han visto a una persona vestida con ropa blanca de lino saliendo por la puerta sur de Morroc.",
+			"Revisemos <NAVI>[Fuera de la Puerta Sur]<INFO>moc_fild12,164,366,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Fuera de la Puerta Sur"
 	},
@@ -55268,7 +55484,8 @@ Talk to Kar=],
 		Title = "Visitantes de Otro Mundo",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Ryu y Jinpei han descubierto un monstruo sospechoso fuera de la puerta sur de Morroc. Revisemos juntos al <NAVI>[Monstruo Sospechoso]<INFO>moc_fild12,177,361,0,101,0</INFO></NAVI>."
+			"Ryu y Jinpei han descubierto un monstruo sospechoso fuera de la puerta sur de Morroc.",
+			"Revisemos juntos al <NAVI>[Monstruo Sospechoso]<INFO>moc_fild12,177,361,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Investiga al Monstruo Sospechoso"
 	},
@@ -55276,7 +55493,8 @@ Talk to Kar=],
 		Title = "Visitantes de Otro Mundo",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Parece que los monstruos de Galactor se han extendido alrededor de Morroc. Derrota a 3 Galarings y 3 Calamares Explosivos en los alrededores y luego <NAVI>[regresa].<INFO>moc_fild12,177,361,0,101,0</INFO></NAVI>"
+			"Parece que los monstruos de Galactor se han extendido alrededor de Morroc.",
+			"Derrota a 3 Galarings y 3 Calamares Explosivos en los alrededores y luego <NAVI>[regresa].<INFO>moc_fild12,177,361,0,101,0</INFO></NAVI>"
 		},
 		Summary = "Derrota a Galarings y Calamares Explosivos"
 	},
@@ -55284,7 +55502,8 @@ Talk to Kar=],
 		Title = "Visitantes de Otro Mundo",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Ken, habiendo confirmado al monstruo de Galactor, sugiere regresar a Morroc para evaluar la situación. Regresemos a <NAVI>[Morocc].<INFO>morocc,170,36,0,101,0</INFO></NAVI>"
+			"Ken, habiendo confirmado al monstruo de Galactor, sugiere regresar a Morroc para evaluar la situación.",
+			"Regresemos a <NAVI>[Morocc].<INFO>morocc,170,36,0,101,0</INFO></NAVI>"
 		},
 		Summary = "En Morroc"
 	},
@@ -55292,7 +55511,8 @@ Talk to Kar=],
 		Title = "Visitantes de Otro Mundo",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Ken quiere obtener información sobre la situación en Midgard. Vayamos conseguir información con el <NAVI>Equipo de Investigación de Grietas Anómalas]<INFO>morocc,196,261,0,101,0</INFO></NAVI>."
+			"Ken quiere obtener información sobre la situación en Midgard.",
+			"Vayamos conseguir información con el <NAVI>Equipo de Investigación de Grietas Anómalas]<INFO>morocc,196,261,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Habla con Recepcionista"
 	},
@@ -55300,7 +55520,8 @@ Talk to Kar=],
 		Title = "Visitantes de Otro Mundo",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"El Equipo de Investigación de Grietas Anómalas dice que están gestionando las grietas que han ocurrido. Revisemos la <NAVI>[grieta].<INFO>morocc,296,175,0,101,0</INFO></NAVI>"
+			"El Equipo de Investigación de Grietas Anómalas dice que están gestionando las grietas que han ocurrido.",
+			"Revisemos la <NAVI>[grieta].<INFO>morocc,296,175,0,101,0</INFO></NAVI>"
 		},
 		Summary = "Habla con Guardia"
 	},
@@ -55308,7 +55529,8 @@ Talk to Kar=],
 		Title = "Visitantes de Otro Mundo",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Aunque no se obtuvo información de la grieta, pudiste ver a un soldado de Galactor espiando. Busquemos al <NAVI>[Soldado de Galactor]<INFO>morocc,28,188,0,101,0</INFO></NAVI>, que desapareció."
+			"Aunque no se obtuvo información de la grieta, pudiste ver a un soldado de Galactor espiando.",
+			"Busquemos al <NAVI>[Soldado de Galactor]<INFO>morocc,28,188,0,101,0</INFO></NAVI>, que desapareció."
 		},
 		Summary = "Persigue el Soldado"
 	},
@@ -55316,7 +55538,8 @@ Talk to Kar=],
 		Title = "Visitantes de Otro Mundo",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Al completar el rescate, llega una nueva solicitud de Armonia. Ve hacia <NAVI>[la Persona Capturada]<INFO>morocc,22,188,0,101,0</INFO></NAVI> y recibe la misión."
+			"Al completar el rescate, llega una nueva solicitud de Armonia.",
+			"Ve hacia <NAVI>[la Persona Capturada]<INFO>morocc,22,188,0,101,0</INFO></NAVI> y recibe la misión."
 		},
 		Summary = "Verificación de Grietas"
 	},
@@ -55324,7 +55547,8 @@ Talk to Kar=],
 		Title = "Visitantes de Otro Mundo",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Si lo que dice Berg Katse es cierto, parece que no podemos dejar la grieta así nomás. Estabilicemos la grieta y revisemos el interior de la <NAVI>[grieta].<INFO>morocc,22,188,0,101,0</INFO></NAVI>.",
+			"Si lo que dice Berg Katse es cierto, parece que no podemos dejar la grieta así nomás.",
+			"Estabilicemos la grieta y revisemos el interior de la <NAVI>[grieta].<INFO>morocc,22,188,0,101,0</INFO></NAVI>.",
 			"* La navegación puede no funcionar correctamente dentro de la instancia."
 		},
 		Summary = "Investiga el Interior de la Grieta"
@@ -55333,7 +55557,8 @@ Talk to Kar=],
 		Title = "Visitantes de Otro Mundo",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Has investigado el interior de la grieta. Habla con <NAVI>[Ken]<INFO>morocc,29,193,0,101,0</INFO></NAVI>, en Morroc.",
+			"Has investigado el interior de la grieta.",
+			"Habla con <NAVI>[Ken]<INFO>morocc,29,193,0,101,0</INFO></NAVI>, en Morroc.",
 			"* La navegación puede no funcionar correctamente dentro de la instancia."
 		},
 		Summary = "Investiga el Interior de la Grieta"
@@ -55342,7 +55567,8 @@ Talk to Kar=],
 		Title = "Visitantes de Otro Mundo",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Ayuda la Fuerza G con la creación del <NAVI>[Misil Midga]<INFO>morocc,33,187,0,101,0</INFO></NAVI> para que puedan regresar a la Tierra. Derrota a 5 Galarings y 5 Calamares Explosivos y trae 5 Pólvoras Midga para usar como materiales del misil.",
+			"Ayuda la Fuerza G con la creación del <NAVI>[Misil Midga]<INFO>morocc,33,187,0,101,0</INFO></NAVI> para que puedan regresar a la Tierra.",
+			"Derrota a 5 Galarings y 5 Calamares Explosivos y trae 5 Pólvoras Midga para usar como materiales del misil.",
 			"* La navegación puede no funcionar correctamente dentro de la instancia."
 		},
 		Summary = "Busca de Materiales"
@@ -55369,7 +55595,8 @@ Talk to Kar=],
 		Title = "¡Prepárate! ¡Berg Katse!",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Reúne 10 Pólvoras Midga necesarias para fabricar el Misil Midga <NAVI>[y tráelas de vuelta]<INFO>morocc,32,194,0,101,0</INFO></NAVI>. La Pólvora Midga se puede obtener derrotando a Galarings y Calamares Explosivos.",
+			"Reúne 10 Pólvoras Midga necesarias para fabricar el Misil Midga <NAVI>[y tráelas de vuelta]<INFO>morocc,32,194,0,101,0</INFO></NAVI>.",
+			"La Pólvora Midga se puede obtener derrotando a Galarings y Calamares Explosivos.",
 			"* La navegación puede no funcionar correctamente dentro de la instancia."
 		},
 		Summary = "10 Pólvoras Midga"
@@ -72229,70 +72456,70 @@ Talk to Kar=],
 	[295259] = {
 		Title = "Pase de Batalla Diario 1",
 		Description = {
-			"Derrota a 200 Hydras"
+			"Derrota a 3 Sasquatchs"
 		},
-		Summary = "Derrota a 200 Hydras"
+		Summary = "Derrota a 3 Sasquatchs"
 	},
 	[295260] = {
 		Title = "Pase de Batalla Diario 1",
 		Description = {
-			"Derrota a Hydra / Una vez al día, se reinicia a las 04:00"
+			"Derrota a Sasquatchs / Una vez al día, se reinicia a las 04:00"
 		},
 		Summary = "Se reinicia a las 04:00"
 	},
 	[295261] = {
 		Title = "Pase de Batalla Diario 2",
 		Description = {
-			"Derrota a 20 Menblatts, 20 Petals."
+			"Derrota a Fenrir."
 		},
-		Summary = "Derrota a 20 Menblatts, 20 Petals"
+		Summary = "Derrota a Fenrir"
 	},
 	[295262] = {
 		Title = "Pase de Batalla Diario 2",
 		Description = {
-			"Derrota a Menblatts, Petals / Una vez al día, se reinicia a las 04:00"
+			"Derrota a Fenrir / Una vez al día, se reinicia a las 04:00"
 		},
 		Summary = "Se reinicia a las 04:00"
 	},
 	[295263] = {
 		Title = "Pase de Batalla Diario 3",
 		Description = {
-			"Entrega 15 Hard Feelers."
+			"Entrega 100 Catálogo de escaparate de tiendas."
 		},
-		Summary = "Entrega 15 Hard Feelers."
+		Summary = "Entrega 100 Catálogo de escaparate de tiendas."
 	},
 	[295264] = {
 		Title = "Pase de Batalla Diario 3",
 		Description = {
-			"Entrega Hard Feelers / Una vez al día, se reinicia a las 04:00"
+			"Entrega Catálogo de escaparate de tiendas / Una vez al día, se reinicia a las 04:00"
 		},
 		Summary = "Se reinicia a las 04:00"
 	},
 	[295265] = {
 		Title = "Pase de Batalla Diario 4",
 		Description = {
-			"Entrega 100 Tentacles."
+			"Entregar 200,000 Zeny."
 		},
-		Summary = "Entrega 100 Tentacles."
+		Summary = "Entregar 200,000 Zeny."
 	},
 	[295266] = {
 		Title = "Pase de Batalla Diario 4",
 		Description = {
-			"Entrega Tentacles / Una vez al día, se reinicia a las 04:00"
+			"Entregar Zeny / Una vez al día, se reinicia a las 04:00"
 		},
 		Summary = "Se reinicia a las 04:00"
 	},
 	[295267] = {
 		Title = "Pase de Batalla Diario 5",
 		Description = {
-			"Derrota a 5 Heart Hunter Ebels"
+			"Derrota a 50 Vagabundo contaminados"
 		},
-		Summary = "Derrota a 5 Heart Hunter Ebels"
+		Summary = "Derrota a 50 Vagabundo contaminados"
 	},
 	[295268] = {
 		Title = "Pase de Batalla Diario 5",
 		Description = {
-			"Derrota a Heart Hunter Ebel / Una vez por semana, se reinicia a las 04:00"
+			"Derrota a Vagabundo contaminados / Una vez por semana, se reinicia a las 04:00"
 		},
 		Summary = "Se reinicia a las 04:00"
 	},

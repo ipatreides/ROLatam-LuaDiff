@@ -5805,16 +5805,6 @@ SignBoardList = {
 		CONTENTS = "  Trocas",
 		CHARCOLOR = "#0x00FFFFFF"
 	},
-	[725] = {
-		MAPNAME = "auction_02",
-		CELLX = 31,
-		CELLY = 46,
-		HEIGHT = 10,
-		ICONID = 3,
-		FILEPATH = "item\\gd_chargeshout_flag.bmp",
-		CONTENTS = "  Slot [3] ",
-		CHARCOLOR = "#0x00FFFFFF"
-	},
 	[726] = {
 		MAPNAME = "auction_02",
 		CELLX = 57,
@@ -5822,17 +5812,7 @@ SignBoardList = {
 		HEIGHT = 10,
 		ICONID = 3,
 		FILEPATH = "item\\gd_chargeshout_flag.bmp",
-		CONTENTS = "  Slot [2] ",
-		CHARCOLOR = "#0x00FFFFFF"
-	},
-	[727] = {
-		MAPNAME = "auction_02",
-		CELLX = 43,
-		CELLY = 65,
-		HEIGHT = 10,
-		ICONID = 3,
-		FILEPATH = "item\\gd_chargeshout_flag.bmp",
-		CONTENTS = "  Encantamento",
+		CONTENTS = "  Teleporte",
 		CHARCOLOR = "#0x00FFFFFF"
 	},
 	[728] = {

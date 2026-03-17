@@ -1314,8 +1314,11 @@ mapTbl = {
 		backgroundBmp = "village_s2"
 	},
 	["auction_02.rsw"] = {
-		displayName = "Auction Hall",
+		displayName = "Explorers' League",
 		notifyEnter = true,
+		signName = {
+			mainTitle = "Explorers' League"
+		},
 		backgroundBmp = "village_s2"
 	},
 	["ayo_dun01.rsw"] = {

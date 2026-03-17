@@ -772,12 +772,12 @@
     "OsuWCA": {
         "en": "Geffen Thief",
         "pt": "Ladra de Lojas",
-        "es": "Ladrón de Geffen"
+        "es": "Ladrona de Geffen"
     },
     "O8uWCA": {
         "en": "Geffen Thief: You follow me better than I expected. But thanks for 2,000 Zenies!",
         "pt": "Gatuna de Geffen: Muito bem. Obrigada pelos 2000 Zenys!",
-        "es": "Ladrón de Geffen: Me sigues mejor de lo que esperaba. ¡Pero gracias por los 2000 zeny!"
+        "es": "Ladrona de Geffen: Me sigues mejor de lo que esperaba. ¡Pero gracias por los 2000 zeny!"
     },
     "PMuWCA": {
         "en": "Hey, punk! Stop there! You stole my Zeny!",
@@ -787,7 +787,7 @@
     "PcuWCA": {
         "en": "Geffen Thief: You follow me better than I expected, but bring me some money, okay?",
         "pt": "Gatuna de Geffen: Muito bem. Mas você devia ter trazido dinheiro.",
-        "es": "Ladrón Geffen: Me sigues mejor de lo que esperaba, pero tráeme algo de dinero, ¿sí?"
+        "es": "Ladrona de Geffen: Me sigues mejor de lo que esperaba, pero tráeme algo de dinero, ¿sí?"
     },
     "PsuWCA": {
         "en": "Hey, punk! Stop right there!",
@@ -797,17 +797,17 @@
     "P8uWCA": {
         "en": "Geffen Thief: What?  He stopped chasing me now?",
         "pt": "Gatuna de Geffen: O quê? Desistiu de me seguir?",
-        "es": "Ladrón Geffen: ¿Qué?  ¿Dejó de perseguirme?"
+        "es": "Ladrona de Geffen: ¿Qué?  ¿Dejó de perseguirme?"
     },
     "QMuWCA": {
         "en": "Geffen Thief: You have no guts! I'm going to run away!",
         "pt": "Gatuna de Geffen: Você tem coragem! Mas eu vou fugir.",
-        "es": "Ladrón Geffen: ¡No tienes agallas! ¡Voy a huir!"
+        "es": "Ladrona de Geffen: ¡No tienes agallas! ¡Voy a huir!"
     },
     "QcuWCA": {
         "en": "Geffen Thief: I made a big fat profit today!",
         "pt": "Gatuna de Geffen: Tive bastante lucro por hoje!",
-        "es": "Ladrón Geffen: ¡Hoy gané mucho dinero!"
+        "es": "Ladrona de Geffen: ¡Hoy gané mucho dinero!"
     },
     "QsuWCA": {
         "en": "Geffen Resident: Oh... That's my salary for one month...",
@@ -817,12 +817,12 @@
     "Q8uWCA": {
         "en": "Geffen Thief: Hahaha~ Bye~",
         "pt": "Gatuna de Geffen: Hahaha! Tchau!",
-        "es": "Ladrón Geffen: Ja, ja, ja~. Adiós~."
+        "es": "Ladrona de Geffen: Ja, ja, ja~. Adiós~."
     },
     "RMuWCA": {
         "en": "Geffen Thief: Woo-hoo! Catch me if you can! 4,000 Zenies!",
         "pt": "Gatuna de Geffen: Opa, tente me pegar! 4000 Zenys!",
-        "es": "Ladrón Geffen: ¡Woo-hoo! ¡Atrápame si puedes! ¡4000 zeny!"
+        "es": "Ladrona de Geffen: ¡Woo-hoo! ¡Atrápame si puedes! ¡4000 zeny!"
     },
     "RcuWCA": {
         "en": "I'll kick you when I get you! Hand over everything you stole!",
@@ -832,7 +832,7 @@
     "RsuWCA": {
         "en": "Geffen Thief: Woo-hoo! Catch me if you can! Bring me some Zenies, punk!",
         "pt": "Gatuna de Geffen: Opa, tente me pegar!",
-        "es": "Ladrón Geffen: ¡Woo-hoo! ¡Atrápame si puedes! ¡Tráeme unos zeny, mocoso!"
+        "es": "Ladrona de Geffen: ¡Woo-hoo! ¡Atrápame si puedes! ¡Tráeme unos zeny, mocoso!"
     },
     "R8uWCA": {
         "en": "I'll kick you when I get you.",
@@ -842,12 +842,12 @@
     "SMuWCA": {
         "en": "Geffen Thief: What? He stopped chasing me now?",
         "pt": "Gatuna de Geffen: O quê? Desistiu de me seguir?",
-        "es": "Ladrón Geffen: ¿Qué? ¿Ahora ha dejado de perseguirme?"
+        "es": "Ladrona de Geffen: ¿Qué? ¿Ahora ha dejado de perseguirme?"
     },
     "ScuWCA": {
         "en": "Geffen Thief: Quit following me! You're so annoying! 6,000 Zenies!",
         "pt": "Gatuna de Geffen: Você é irritante! Gostei disso! 6000 Zenys!",
-        "es": "Ladrón Geffen: ¡Deja de seguirme! ¡Eres tan molesto! ¡6000 zeny!"
+        "es": "Ladrona de Geffen: ¡Deja de seguirme! ¡Eres tan molesto! ¡6000 zeny!"
     },
     "SsuWCA": {
         "en": "You rat! Stop right there!",
@@ -857,7 +857,7 @@
     "S8uWCA": {
         "en": "Geffen Thief: Quit following me! By the way, you're totally broke, aren't you?",
         "pt": "Gatuna de Geffen: Você é irritante! Pare de implorar.",
-        "es": "Ladrón Geffen: ¡Deja de seguirme! Por cierto, estás totalmente en la quiebra, ¿no?"
+        "es": "Ladrona de Geffen: ¡Deja de seguirme! Por cierto, estás totalmente en la quiebra, ¿no?"
     },
     "TMuWCA": {
         "en": "You rat!",
@@ -867,12 +867,12 @@
     "TcuWCA": {
         "en": "Geffen Thief: What? He stopped chasing me?",
         "pt": "Gatuna de Geffen: O quê? Desistiu de me seguir?",
-        "es": "Ladrón Geffen: ¿Qué? ¿Dejó de perseguirme?"
+        "es": "Ladrona de Geffen: ¿Qué? ¿Dejó de perseguirme?"
     },
     "TsuWCA": {
         "en": "Geffen Thief: How dare you call me rat! It's a little harsh! 8,000 Zenies!",
         "pt": "Gatuna de Geffen: Como se atreve a me chamar de imprestável?! 8000 Zenys!",
-        "es": "Ladrón Geffen: ¡Cómo te atreves a llamarme rata! ¡Es un poco duro! ¡8000 zeny!"
+        "es": "Ladrona de Geffen: ¡Cómo te atreves a llamarme rata! ¡Es un poco duro! ¡8000 zeny!"
     },
     "T8uWCA": {
         "en": "That's... I'm sorry! But can't you be caught now?",
@@ -882,12 +882,12 @@
     "UMuWCA": {
         "en": "Geffen Thief: How dare you call me rat! It's a little harsh!",
         "pt": "Gatuna de Geffen: Como se atreve a me chamar de imprestável?!",
-        "es": "Ladrón Geffen: ¡Cómo te atreves a llamarme rata! ¡Es un poco duro!"
+        "es": "Ladrona de Geffen: ¡Cómo te atreves a llamarme rata! ¡Es un poco duro!"
     },
     "UcuWCA": {
         "en": "Geffen Thief: He won't quit following me! 10,000 Zenies!",
         "pt": "Gatuna de Geffen: Pare de me seguir. Está me deixando louca! 10000 Zenys!",
-        "es": "Ladrón Geffen: ¡No deja de seguirme! ¡10000 zeny!"
+        "es": "Ladrona de Geffen: ¡No deja de seguirme! ¡10000 zeny!"
     },
     "UsuWCA": {
         "en": "You won't be able to run away anymore! I got you!",
@@ -897,17 +897,17 @@
     "U8uWCA": {
         "en": "Geffen Thief: You're really annoying! You leave me no choice.I'll have to show you what I got!",
         "pt": "Gatuna de Geffen: Você me irrita demais! Vou acabar com você logo!",
-        "es": "Ladrón Geffen: ¡Eres realmente molesto! No me dejas alternativa. ¡Tendré que enseñarte una lección!"
+        "es": "Ladrona de Geffen: ¡Eres realmente molesto! No me dejas alternativa. ¡Tendré que enseñarte una lección!"
     },
     "VMuWCA": {
         "en": "Geffen Thief",
         "pt": "Gatuna de Geffen",
-        "es": "Geffen Thief"
+        "es": "Ladrona de Geffen"
     },
     "VcuWCA": {
         "en": "Geffen Thief: Jeez.. He's so broke, there's nothing to steal from him.",
         "pt": "Gatuna de Geffen: Ah... já me irritei com você me seguindo. Você não pode pegar nada de mim.",
-        "es": "Ladrón Geffen: Cielos… Está tan quebrado que no hay nada que robarle."
+        "es": "Ladrona de Geffen: Cielos… Está tan quebrado que no hay nada que robarle."
     },
     "VsuWCA": {
         "en": "You keep calling me a beggar and that's okay because it's true.",
@@ -922,22 +922,22 @@
     "WMuWCA": {
         "en": "Geffen Thief: You kept following me, so I thought you were super strong.",
         "pt": "Gatuna de Geffen: Achei que fosse forte o bastante para me seguir...",
-        "es": "Ladrón Geffen: No dejabas de seguirme, así que pensé que eras súper fuerte."
+        "es": "Ladrona de Geffen: No dejabas de seguirme, así que pensé que eras súper fuerte."
     },
     "WcuWCA": {
         "en": "Geffen Thief: Justice without power is just incompetence. Tsk tsk...",
         "pt": "Gatuna de Geffen: Não faz sentido querer justiça sem ter poder. Tsc, tsc...",
-        "es": "Ladrón Geffen: La justicia sin poder es solo incompetencia. Tsc, tsc…"
+        "es": "Ladrona de Geffen: La justicia sin poder es solo incompetencia. Tsc, tsc…"
     },
     "WsuWCA": {
         "en": "Geffen Thief: I made a big fat profit today! Thanks for the extra income!",
         "pt": "Gatuna de Geffen: Tive bastante lucro por hoje! Agradeço a sua contribuição!",
-        "es": "Ladrón Geffen: ¡Hoy he ganado mucho dinero! ¡Gracias por el ingreso extra!"
+        "es": "Ladrona de Geffen: ¡Hoy he ganado mucho dinero! ¡Gracias por el ingreso extra!"
     },
     "W8uWCA": {
         "en": "Geffen Thief: Bye guys!",
         "pt": "Gatuna de Geffen: Tchauzinho!",
-        "es": "Ladrón Geffen: ¡Adiós, chicos!"
+        "es": "Ladrona de Geffen: ¡Adiós, chicos!"
     },
     "XMuWCA": {
         "en": "Geffen Resident",
@@ -967,7 +967,7 @@
     "YcuWCA": {
         "en": "Geffen Thief: Oh, no! The head-to-head fight will be a long shot.",
         "pt": "Gatuna de Geffen: Ugh... um confronto direto não é uma boa ideia!",
-        "es": "Ladrón Geffen: ¡Ay, no! La lucha cara a cara será arriesgada."
+        "es": "Ladrona de Geffen: ¡Ay, no! La lucha cara a cara será arriesgada."
     },
     "YsuWCA": {
         "en": "Now, why don't you be caught meeklynow, you thief bastard?",
@@ -977,7 +977,7 @@
     "Y8uWCA": {
         "en": "Geffen Thief: What? Stealing Zeny is my job. I didn't do anything wrong!",
         "pt": "Gatuna de Geffen: Por que eu? Roubar Zenys é meu trabalho! Não fiz nada de errado!",
-        "es": "Ladrón Geffen: ¿Qué? Robar zeny es mi trabajo. ¡No he hecho nada malo!"
+        "es": "Ladrona de Geffen: ¿Qué? Robar zeny es mi trabajo. ¡No he hecho nada malo!"
     },
     "ZMuWCA": {
         "en": "What? That's nonsense...",
@@ -987,7 +987,7 @@
     "ZcuWCA": {
         "en": "Geffen Thief: Thanks for the fun! Now I'm really gonna do my best to get away.",
         "pt": "Gatuna de Geffen: Foi divertido! Vou fugir o mais rápido possível!",
-        "es": "Ladrón Geffen: ¡Gracias por la diversión! Ahora sí haré todo lo posible para escapar."
+        "es": "Ladrona de Geffen: ¡Gracias por la diversión! Ahora sí haré todo lo posible para escapar."
     },
     "ZsuWCA": {
         "en": "Hey! Give me back what you stole, you thief!",
@@ -1032,7 +1032,7 @@
     "bsuWCA": {
         "en": "[Lydia]\n(Could this envelope that I stole\nfrom the Geffen Thief be...)\n....\nMmm... How much\nZenies were in the envelope?",
         "pt": "[Lydia]\n(Esse envelope... roubei de uma menina estranha.)\n...\nQuantos Zeny roubaram de você?",
-        "es": "[Lydia]\n(¿Será que este sobre que le robé\nal Ladrón de Geffen sea…?).\n…\nMmm… ¿Cuántos\nzeny había en el sobre?"
+        "es": "[Lydia]\n(¿Será que este sobre que le robé\nal Ladrona de Geffen sea…?).\n…\nMmm… ¿Cuántos\nzeny había en el sobre?"
     },
     "b8uWCA": {
         "en": "[Geffen Resident]\n1,000,000 Zenies. (Sobbing)\nI worked for Rune-Midgartz'\nas minimum wage, 10 hours a day every day\nand got that first month salary...\nI have to buy gifts for my parents.",
@@ -1042,7 +1042,7 @@
     "cMuWCA": {
         "en": "[Lydia]\n- Oh... I stole it from the Geffen Thief...-\n- The amount is the same...-\n- I feel bad for him...-",
         "pt": "[Lydia]\nPera, é a mesma quantia do envelope que roubei de uma gatuna.",
-        "es": "[Lydia]\n-Oh… Se lo robé al Ladrón de Geffen…-\n-La cantidad es la misma…-\n-Me siento mal por él…-"
+        "es": "[Lydia]\n-Oh… Se lo robé al Ladrona de Geffen…-\n-La cantidad es la misma…-\n-Me siento mal por él…-"
     },
     "ccuWCA": {
         "en": "[Lydia]\nIs this your envelope?\nCheck it.",
@@ -1112,22 +1112,22 @@
     "fsuWCA": {
         "en": "Geffen Thief: Darn... I got caught...",
         "pt": "Gatuna de Geffen: Droga. Me descobriram...",
-        "es": "Ladrón Geffen: Maldición… Me atraparon…"
+        "es": "Ladrona de Geffen: Maldición… Me atraparon…"
     },
     "f8uWCA": {
         "en": "Geffen Thief: Teehee. A very good thieving today as usual!",
         "pt": "Gatuna de Geffen: Hahahaha, eu me dei bem hoje!",
-        "es": "Ladrón Geffen: ¡Yuju! ¡Un robo muy bueno hoy, como siempre!"
+        "es": "Ladrona de Geffen: ¡Yuju! ¡Un robo muy bueno hoy, como siempre!"
     },
     "gMuWCA": {
         "en": "Geffen Thief: Geffen Magic Contest gives a great chance to steal!",
         "pt": "Gatuna de Geffen: O Torneio de magia de Geffen é uma boa época para roubar!",
-        "es": "Ladrón Geffen: ¡El Concurso de magia de Geffen ofrece una gran oportunidad para robar!"
+        "es": "Ladrona de Geffen: ¡El Concurso de magia de Geffen ofrece una gran oportunidad para robar!"
     },
     "gcuWCA": {
         "en": "Geffen Thief: All right. Let's look for the next target!",
         "pt": "Gatuna de Geffen: Beleza, vou procurar o próximo alvo!",
-        "es": "Ladrón Geffen: De acuerdo. ¡Busquemos el próximo objetivo!"
+        "es": "Ladrona de Geffen: De acuerdo. ¡Busquemos el próximo objetivo!"
     },
     "gsuWCA": {
         "en": "Geffen Resident: Waaaaaaah! My Zeny! My salary! Give it back!",
@@ -1152,12 +1152,12 @@
     "hsuWCA": {
         "en": "Geffen Thief: Oh, my! You're so scary! I'm so scared, and I almost peed my pants!",
         "pt": "Gatuna de Geffen: Oh, meu Deus! Está me ameaçando? Nossa, que medo!",
-        "es": "Ladrón Geffen: ¡Caramba! ¡Qué atemorizante eres! ¡Tengo tanto miedo que casi me mojo los pantalones!"
+        "es": "Ladrona de Geffen: ¡Caramba! ¡Qué atemorizante eres! ¡Tengo tanto miedo que casi me mojo los pantalones!"
     },
     "h8uWCA": {
         "en": "Geffen Thief: Catch me if you can. Tease-ya",
         "pt": "Gatuna de Geffen: Tente me pegar se puder!",
-        "es": "Ladrón Geffen: Atrápame si puedes. Te engañé."
+        "es": "Ladrona de Geffen: Atrápame si puedes. Te engañé."
     },
     "iMuWCA": {
         "en": "Geffen Resident: Please find my salary envelope, Warrior! (Sobbing)",
@@ -1172,7 +1172,7 @@
     "isuWCA": {
         "en": "Geffen Thief: What? He stopped to chase me now?",
         "pt": "Gatuna de Geffen: O quê? Desistiu de me seguir?",
-        "es": "Ladrón Geffen: ¿Qué? ¿Ahora se detiene para perseguirme?"
+        "es": "Ladrona de Geffen: ¿Qué? ¿Ahora se detiene para perseguirme?"
     },
     "i8uWCA": {
         "en": "I see the Magic Contest receptionist. I'll have to register.",

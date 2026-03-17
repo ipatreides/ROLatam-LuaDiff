@@ -1358,5 +1358,56 @@
         "en": "Backdancer",
         "pt": "Dançarina",
         "es": "Bailarina de fondo"
+    },
+    "cHarBg": {
+        "en": "[Aile]\nOnce again that's\n^CD688910,000 Zeny^000000,\n^CD68895 Earthworm Peelings^000000 and\n^CD68891 Boots^000000."
+    },
+    "cXarBg": {
+        "en": "[Aile]\nBring...\n^CD688910,000 Zeny^000000,\n^CD68895 Earthworm Peelings^000000 and\n^CD68891 Boots^000000."
+    },
+    "cnarBg": {
+        "en": "Uses Dance skills."
+    },
+    "c3arBg": {
+        "en": "Acting"
+    },
+    "dHarBg": {
+        "en": "Dancing"
+    },
+    "dXarBg": {
+        "en": "Magic"
+    },
+    "dnarBg": {
+        "en": "Kitty Band"
+    },
+    "d3arBg": {
+        "en": "Billie Holiday"
+    },
+    "eHarBg": {
+        "en": "Louis Armstrong"
+    },
+    "eXarBg": {
+        "en": "Bud Powell"
+    },
+    "enarBg": {
+        "en": "Elder Willow"
+    },
+    "e3arBg": {
+        "en": "Hold in place..."
+    },
+    "fHarBg": {
+        "en": "Pay attention!"
+    },
+    "fXarBg": {
+        "en": "Down, then Right~"
+    },
+    "fnarBg": {
+        "en": "Left, Center, Down, Up~!"
+    },
+    "f3arBg": {
+        "en": "Once again~ Left, Center, Down, Up~ !"
+    },
+    "gHarBg": {
+        "en": "Good! Well done!"
     }
 }

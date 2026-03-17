@@ -307,20 +307,524 @@
     },
     "E+OaCw": {
         "ko": "블루유니콘",
-        "en": "Blue Unicorn",
-        "pt": "Unicórnio Azul",
-        "es": "Unicornio Azul"
+        "en": "Unicorn",
+        "pt": "Unicórnio",
+        "es": "Unicornio"
     },
     "FOOaCw": {
         "ko": "^999999블루유니콘 (티켓 없음)^000000",
-        "en": "^999999Blue Unicorn Egg (not enough ticket)^000000",
-        "pt": "^999999Unicórnio Azul (ticket insuficiente)^000000",
-        "es": "^999999Unicornio Azul (Ticket insuficiente)^000000"
+        "en": "^999999Unicorn Egg (not enough ticket)^000000",
+        "pt": "^999999Unicórnio (ticket insuficiente)^000000",
+        "es": "^999999Unicornio (Ticket insuficiente)^000000"
     },
     "FeOaCw": {
         "ko": "<ITEM>[블루유니콘 큐펫 교환 티켓]<INFO>25275</INFO></ITEM>",
-        "en": "<ITEM>[Blue Unicorn Pet Ticket]<INFO>25275</INFO></ITEM>",
-        "pt": "<ITEM>[Ticket de Mascote Unicórnio Azul]<INFO>25275</INFO></ITEM>",
-        "es": "<ITEM>[Ticket de Mascota Unicornio Azul]<INFO>25275</INFO></ITEM>"
+        "en": "<ITEM>[Unicorn Pet Ticket]<INFO>25275</INFO></ITEM>",
+        "pt": "<ITEM>[Ticket de Mascote Unicórnio]<INFO>25275</INFO></ITEM>",
+        "es": "<ITEM>[Ticket de Mascota Unicornio]<INFO>25275</INFO></ITEM>"
+    },
+    "FuOaCw": {
+        "ko": "Succu_Pet_Coupon",
+        "en": "Succubus",
+        "pt": "Ovo de Succubus",
+        "es": "Huevo de Succubus"
+    },
+    "F+OaCw": {
+        "ko": "^999999Succu_Pet_Coupon (티켓 없음)^000000",
+        "en": "^999999Succubus (not enough ticket)^000000",
+        "pt": "^999999Ovo de Succubus (ticket insuficiente)^000000",
+        "es": "^999999Huevo de Succubus (Ticket insuficiente)^000000"
+    },
+    "GOOaCw": {
+        "ko": "Ticket_Nightmare",
+        "en": "Nightmare",
+        "pt": "Ovo de Pesadelo",
+        "es": "Huevo de Nightmare"
+    },
+    "GeOaCw": {
+        "ko": "^999999Ticket_Nightmare (티켓 없음)^000000",
+        "en": "^999999Nightmare (not enough ticket)^000000",
+        "pt": "^999999Ovo de Pesadelo (ticket insuficiente)^000000",
+        "es": "^999999Huevo de Nightmare (Ticket insuficiente)^000000"
+    },
+    "GuOaCw": {
+        "ko": "Ticket_Goblin_Leader",
+        "en": "Goblin Leader",
+        "pt": "Ovo de Líder Goblin",
+        "es": "Huevo de Líder Goblin"
+    },
+    "G+OaCw": {
+        "ko": "^999999Ticket_Goblin_Leader (티켓 없음)^000000",
+        "en": "^999999Goblin Leader (not enough ticket)^000000",
+        "pt": "^999999Ovo de Líder Goblin (ticket insuficiente)^000000",
+        "es": "^999999Huevo de Líder Goblin (Ticket insuficiente)^000000"
+    },
+    "HOOaCw": {
+        "ko": "Ticket_Incubus",
+        "en": "Incubus",
+        "pt": "Ovo de Incubus",
+        "es": "Huevo de Incubus"
+    },
+    "HeOaCw": {
+        "ko": "^999999Ticket_Incubus (티켓 없음)^000000",
+        "en": "^999999Incubus (not enough ticket)^000000",
+        "pt": "^999999Ovo de Incubus (ticket insuficiente)^000000",
+        "es": "^999999Huevo de Incubus (Ticket insuficiente)^000000"
+    },
+    "HuOaCw": {
+        "ko": "Ticket_Dullahan",
+        "en": "Dullahan",
+        "pt": "Ovo de Dullahan",
+        "es": "Huevo de Dullahan"
+    },
+    "H+OaCw": {
+        "ko": "^999999Ticket_Dullahan (티켓 없음)^000000",
+        "en": "^999999Dullahan (not enough ticket)^000000",
+        "pt": "^999999Ovo de Dullahan (ticket insuficiente)^000000",
+        "es": "^999999Huevo de Dullahan (Ticket insuficiente)^000000"
+    },
+    "IOOaCw": {
+        "ko": "Poring_Ticket",
+        "en": "Poring",
+        "pt": "Ovo de Poring",
+        "es": "Huevo de Poring"
+    },
+    "IeOaCw": {
+        "ko": "^999999Poring_Ticket (티켓 없음)^000000",
+        "en": "^999999Poring (not enough ticket)^000000",
+        "pt": "^999999Ovo de Poring (ticket insuficiente)^000000",
+        "es": "^999999Huevo de Poring (Ticket insuficiente)^000000"
+    },
+    "IuOaCw": {
+        "ko": "Pecopeco_Ticket",
+        "en": "PecoPeco",
+        "pt": "Ovo de PecoPeco",
+        "es": "Huevo de PecoPeco"
+    },
+    "I+OaCw": {
+        "ko": "^999999Pecopeco_Ticket (티켓 없음)^000000",
+        "en": "^999999PecoPeco (not enough ticket)^000000",
+        "pt": "^999999Ovo de PecoPeco (ticket insuficiente)^000000",
+        "es": "^999999Huevo de PecoPeco (Ticket insuficiente)^000000"
+    },
+    "JOOaCw": {
+        "ko": "Deviruchi_Ticket",
+        "en": "Deviruchi",
+        "pt": "Ovo de Deviruchi",
+        "es": "Huevo de Deviruchi"
+    },
+    "JeOaCw": {
+        "ko": "^999999Deviruchi_Ticket (티켓 없음)^000000",
+        "en": "^999999Deviruchi (not enough ticket)^000000",
+        "pt": "^999999Ovo de Deviruchi (ticket insuficiente)^000000",
+        "es": "^999999Huevo de Deviruchi (Ticket insuficiente)^000000"
+    },
+    "JuOaCw": {
+        "ko": "Isis_Ticket",
+        "en": "Isis",
+        "pt": "Ovo de Ísis",
+        "es": "Huevo de Isis"
+    },
+    "J+OaCw": {
+        "ko": "^999999Isis_Ticket (티켓 없음)^000000",
+        "en": "^999999Isis (not enough ticket)^000000",
+        "pt": "^999999Ovo de Ísis (ticket insuficiente)^000000",
+        "es": "^999999Huevo de Isis (Ticket insuficiente)^000000"
+    },
+    "KOOaCw": {
+        "ko": "Sohee_Ticket",
+        "en": "Sohee",
+        "pt": "Ovo de Sohee",
+        "es": "Huevo de Sohee"
+    },
+    "KeOaCw": {
+        "ko": "^999999Sohee_Ticket (티켓 없음)^000000",
+        "en": "^999999Sohee (not enough ticket)^000000",
+        "pt": "^999999Ovo de Sohee (ticket insuficiente)^000000",
+        "es": "^999999Huevo de Sohee (Ticket insuficiente)^000000"
+    },
+    "KuOaCw": {
+        "ko": "Hunter_Fly_Ticket",
+        "en": "Hunter Fly",
+        "pt": "Ovo de Mosca Caçadora",
+        "es": "Huevo de Mosca Cazadora"
+    },
+    "K+OaCw": {
+        "ko": "^999999Hunter_Fly_Ticket (티켓 없음)^000000",
+        "en": "^999999Hunter Fly (not enough ticket)^000000",
+        "pt": "^999999Ovo de Mosca Caçadora (ticket insuficiente)^000000",
+        "es": "^999999Huevo de Mosca Cazadora (Ticket insuficiente)^000000"
+    },
+    "LOOaCw": {
+        "ko": "Orc_Warrior_Ticket",
+        "en": "Orc Warrior",
+        "pt": "Ovo de Guerreiro Orc",
+        "es": "Huevo de Guerrero Orco"
+    },
+    "LeOaCw": {
+        "ko": "^999999Orc_Warrior_Ticket (티켓 없음)^000000",
+        "en": "^999999Orc Warrior (not enough ticket)^000000",
+        "pt": "^999999Ovo de Guerreiro Orc (ticket insuficiente)^000000",
+        "es": "^999999Huevo de Guerrero Orco (Ticket insuficiente)^000000"
+    },
+    "LuOaCw": {
+        "ko": "Bongun_Ticket",
+        "en": "Bongun",
+        "pt": "Ovo de Bongun",
+        "es": "Huevo de Bongun"
+    },
+    "L+OaCw": {
+        "ko": "^999999Bongun_Ticket (티켓 없음)^000000",
+        "en": "^999999Bongun (not enough ticket)^000000",
+        "pt": "^999999Ovo de Bongun (ticket insuficiente)^000000",
+        "es": "^999999Huevo de Bongun (Ticket insuficiente)^000000"
+    },
+    "MOOaCw": {
+        "ko": "Zherlthsh_Ticket",
+        "en": "Jirtas",
+        "pt": "Ovo de Jirtas",
+        "es": "Huevo de Jirtas"
+    },
+    "MeOaCw": {
+        "ko": "^999999Zherlthsh_Ticket (티켓 없음)^000000",
+        "en": "^999999Jirtas (not enough ticket)^000000",
+        "pt": "^999999Ovo de Jirtas (ticket insuficiente)^000000",
+        "es": "^999999Huevo de Jirtas (Ticket insuficiente)^000000"
+    },
+    "MuOaCw": {
+        "ko": "Alice_Ticket",
+        "en": "Alice",
+        "pt": "Ovo de Alice",
+        "es": "Huevo de Alice"
+    },
+    "M+OaCw": {
+        "ko": "^999999Alice_Ticket (티켓 없음)^000000",
+        "en": "^999999Alice (not enough ticket)^000000",
+        "pt": "^999999Ovo de Alice (ticket insuficiente)^000000",
+        "es": "^999999Huevo de Alice (Ticket insuficiente)^000000"
+    },
+    "NOOaCw": {
+        "ko": "Pet_Exchange",
+        "en": "Wanderer",
+        "pt": "Ovo de Andarilho",
+        "es": "Huevo de Andarilho"
+    },
+    "NeOaCw": {
+        "ko": "^999999Pet_Exchange (티켓 없음)^000000",
+        "en": "^999999Wanderer (not enough ticket)^000000",
+        "pt": "^999999Ovo de Andarilho (ticket insuficiente)^000000",
+        "es": "^999999Huevo de Andarilho (Ticket insuficiente)^000000"
+    },
+    "NuOaCw": {
+        "ko": "Tikbalang_Ticket",
+        "en": "Tikbalang",
+        "pt": "Ovo de Tikbalang",
+        "es": "Huevo de Tikbalang"
+    },
+    "N+OaCw": {
+        "ko": "^999999Tikbalang_Ticket (티켓 없음)^000000",
+        "en": "^999999Tikbalang (not enough ticket)^000000",
+        "pt": "^999999Ovo de Tikbalang (ticket insuficiente)^000000",
+        "es": "^999999Huevo de Tikbalang (Ticket insuficiente)^000000"
+    },
+    "OOOaCw": {
+        "ko": "Chung_E_Ticket",
+        "en": "Chung E",
+        "pt": "Ovo de Chung E",
+        "es": "Huevo de Chung E"
+    },
+    "OeOaCw": {
+        "ko": "^999999Chung_E_Ticket (티켓 없음)^000000",
+        "en": "^999999Chung E (not enough ticket)^000000",
+        "pt": "^999999Ovo de Chung E (ticket insuficiente)^000000",
+        "es": "^999999Huevo de Chung E (Ticket insuficiente)^000000"
+    },
+    "OuOaCw": {
+        "ko": "Ticket_TEDDY_BEAR",
+        "en": "Little Bear",
+        "pt": "Ovo de Ursinho",
+        "es": "Huevo de Osito"
+    },
+    "O+OaCw": {
+        "ko": "^999999Ticket_TEDDY_BEAR (티켓 없음)^000000",
+        "en": "^999999Little Bear (not enough ticket)^000000",
+        "pt": "^999999Ovo de Ursinho (ticket insuficiente)^000000",
+        "es": "^999999Huevo de Osito (Ticket insuficiente)^000000"
+    },
+    "POOaCw": {
+        "ko": "Ticket_ANGELING",
+        "en": "Angeling",
+        "pt": "Ovo de Angeling",
+        "es": "Huevo de Angeling"
+    },
+    "PeOaCw": {
+        "ko": "^999999Ticket_ANGELING (티켓 없음)^000000",
+        "en": "^999999Angeling (not enough ticket)^000000",
+        "pt": "^999999Ovo de Angeling (ticket insuficiente)^000000",
+        "es": "^999999Huevo de Angeling (Ticket insuficiente)^000000"
+    },
+    "PuOaCw": {
+        "ko": "Ticket_NINE_TAIL",
+        "en": "Nine Tails",
+        "pt": "Ovo de Nove Caudas",
+        "es": "Huevo de Nueve Colas"
+    },
+    "P+OaCw": {
+        "ko": "^999999Ticket_NINE_TAIL (티켓 없음)^000000",
+        "en": "^999999Nine Tails (not enough ticket)^000000",
+        "pt": "^999999Ovo de Nove Caudas (ticket insuficiente)^000000",
+        "es": "^999999Huevo de Nueve Colas (Ticket insuficiente)^000000"
+    },
+    "QOOaCw": {
+        "ko": "Ticket_CAT_O_NINE_TAIL",
+        "en": "Nine Tailed Cat",
+        "pt": "Ovo de Gato de Nove Caudas",
+        "es": "Huevo de Gato de Nueve Colas"
+    },
+    "QeOaCw": {
+        "ko": "^999999Ticket_CAT_O_NINE_TAIL (티켓 없음)^000000",
+        "en": "^999999Nine Tailed Cat (not enough ticket)^000000",
+        "pt": "^999999Ovo de Gato de Nove Caudas (ticket insuficiente)^000000",
+        "es": "^999999Huevo de Gato de Nueve Colas (Ticket insuficiente)^000000"
+    },
+    "QuOaCw": {
+        "ko": "Ticket_SKELION",
+        "en": "Big Bone",
+        "pt": "Ovo de Esqueleão",
+        "es": "Huevo de Esqueleón"
+    },
+    "Q+OaCw": {
+        "ko": "^999999Ticket_SKELION (티켓 없음)^000000",
+        "en": "^999999Big Bone (not enough ticket)^000000",
+        "pt": "^999999Ovo de Esqueleão (ticket insuficiente)^000000",
+        "es": "^999999Huevo de Esqueleón (Ticket insuficiente)^000000"
+    },
+    "ROOaCw": {
+        "ko": "Ticket_ALIOT",
+        "en": "Aliot",
+        "pt": "Ovo de Aliot",
+        "es": "Huevo de Aliot"
+    },
+    "ReOaCw": {
+        "ko": "^999999Ticket_ALIOT (티켓 없음)^000000",
+        "en": "^999999Aliot (not enough ticket)^000000",
+        "pt": "^999999Ovo de Aliot (ticket insuficiente)^000000",
+        "es": "^999999Huevo de Aliot (Ticket insuficiente)^000000"
+    },
+    "RuOaCw": {
+        "ko": "Ticket_ALICEL",
+        "en": "Alicel",
+        "pt": "Ovo de Alicel",
+        "es": "Huevo de Alicel"
+    },
+    "R+OaCw": {
+        "ko": "^999999Ticket_ALICEL (티켓 없음)^000000",
+        "en": "^999999Alicel (not enough ticket)^000000",
+        "pt": "^999999Ovo de Alicel (ticket insuficiente)^000000",
+        "es": "^999999Huevo de Alicel (Ticket insuficiente)^000000"
+    },
+    "SOOaCw": {
+        "ko": "Ticket_WANDER_MAN_H",
+        "en": "Polluted Wanderer",
+        "pt": "Ovo de Andarilho Poluto",
+        "es": "Huevo de Andarilho Contaminado"
+    },
+    "SeOaCw": {
+        "ko": "^999999Ticket_WANDER_MAN_H (티켓 없음)^000000",
+        "en": "^999999Polluted Wanderer (not enough ticket)^000000",
+        "pt": "^999999Ovo de Andarilho Poluto (ticket insuficiente)^000000",
+        "es": "^999999Huevo de Andarilho Contaminado (Ticket insuficiente)^000000"
+    },
+    "SuOaCw": {
+        "ko": "Scatleton_Pet_Coupon",
+        "en": "Zumbichano",
+        "pt": "Ovo de Zumbichano",
+        "es": "Huevo de Zumbichano"
+    },
+    "S+OaCw": {
+        "ko": "^999999Scatleton_Pet_Coupon (티켓 없음)^000000",
+        "en": "^999999Zumbichano (not enough ticket)^000000",
+        "pt": "^999999Ovo de Zumbichano (ticket insuficiente)^000000",
+        "es": "^999999Huevo de Zumbichano (Ticket insuficiente)^000000"
+    },
+    "TOOaCw": {
+        "ko": "Ticket_HODREMLIN",
+        "en": "Hodremlin",
+        "pt": "Ovo de Hodremlin",
+        "es": "Huevo de Hodremlin"
+    },
+    "TeOaCw": {
+        "ko": "^999999Ticket_HODREMLIN (티켓 없음)^000000",
+        "en": "^999999Hodremlin (not enough ticket)^000000",
+        "pt": "^999999Ovo de Hodremlin (ticket insuficiente)^000000",
+        "es": "^999999Huevo de Hodremlin (Ticket insuficiente)^000000"
+    },
+    "TuOaCw": {
+        "ko": "<ITEM>[6116]<INFO>6116</INFO></ITEM>",
+        "en": "<ITEM>[Succubus Pet Ticket]<INFO>6116</INFO></ITEM>",
+        "pt": "<ITEM>[Ticket de Mascote Succubus]<INFO>6116</INFO></ITEM>",
+        "es": "<ITEM>[Ticket de Mascota Succubus]<INFO>6116</INFO></ITEM>"
+    },
+    "T+OaCw": {
+        "ko": "<ITEM>[6129]<INFO>6129</INFO></ITEM>",
+        "en": "<ITEM>[Nightmare Pet Ticket]<INFO>6129</INFO></ITEM>",
+        "pt": "<ITEM>[Ticket de Mascote Pesadelo]<INFO>6129</INFO></ITEM>",
+        "es": "<ITEM>[Ticket de Mascota Nightmare]<INFO>6129</INFO></ITEM>"
+    },
+    "UOOaCw": {
+        "ko": "<ITEM>[6131]<INFO>6131</INFO></ITEM>",
+        "en": "<ITEM>[Goblin Leader Pet Ticket]<INFO>6131</INFO></ITEM>",
+        "pt": "<ITEM>[Ticket de Mascote Líder Goblin]<INFO>6131</INFO></ITEM>",
+        "es": "<ITEM>[Ticket de Mascota Líder Goblin]<INFO>6131</INFO></ITEM>"
+    },
+    "UeOaCw": {
+        "ko": "<ITEM>[6132]<INFO>6132</INFO></ITEM>",
+        "en": "<ITEM>[Incubus Pet Ticket]<INFO>6132</INFO></ITEM>",
+        "pt": "<ITEM>[Ticket de Mascote Incubus]<INFO>6132</INFO></ITEM>",
+        "es": "<ITEM>[Ticket de Mascota Incubus]<INFO>6132</INFO></ITEM>"
+    },
+    "UuOaCw": {
+        "ko": "<ITEM>[6140]<INFO>6140</INFO></ITEM>",
+        "en": "<ITEM>[Dullahan Pet Ticket]<INFO>6140</INFO></ITEM>",
+        "pt": "<ITEM>[Ticket de Mascote Dullahan]<INFO>6140</INFO></ITEM>",
+        "es": "<ITEM>[Ticket de Mascota Dullahan]<INFO>6140</INFO></ITEM>"
+    },
+    "U+OaCw": {
+        "ko": "<ITEM>[6157]<INFO>6157</INFO></ITEM>",
+        "en": "<ITEM>[Poring Pet Ticket]<INFO>6157</INFO></ITEM>",
+        "pt": "<ITEM>[Ticket de Mascote Poring]<INFO>6157</INFO></ITEM>",
+        "es": "<ITEM>[Ticket de Mascota Poring]<INFO>6157</INFO></ITEM>"
+    },
+    "VOOaCw": {
+        "ko": "<ITEM>[6162]<INFO>6162</INFO></ITEM>",
+        "en": "<ITEM>[PecoPeco Pet Ticket]<INFO>6162</INFO></ITEM>",
+        "pt": "<ITEM>[Ticket de Mascote PecoPeco]<INFO>6162</INFO></ITEM>",
+        "es": "<ITEM>[Ticket de Mascota PecoPeco]<INFO>6162</INFO></ITEM>"
+    },
+    "VeOaCw": {
+        "ko": "<ITEM>[6169]<INFO>6169</INFO></ITEM>",
+        "en": "<ITEM>[Deviruchi Pet Ticket]<INFO>6169</INFO></ITEM>",
+        "pt": "<ITEM>[Ticket de Mascote Deviruchi]<INFO>6169</INFO></ITEM>",
+        "es": "<ITEM>[Ticket de Mascota Deviruchi]<INFO>6169</INFO></ITEM>"
+    },
+    "VuOaCw": {
+        "ko": "<ITEM>[6170]<INFO>6170</INFO></ITEM>",
+        "en": "<ITEM>[Isis Pet Ticket]<INFO>6170</INFO></ITEM>",
+        "pt": "<ITEM>[Ticket de Mascote Ísis]<INFO>6170</INFO></ITEM>",
+        "es": "<ITEM>[Ticket de Mascota Isis]<INFO>6170</INFO></ITEM>"
+    },
+    "V+OaCw": {
+        "ko": "<ITEM>[6175]<INFO>6175</INFO></ITEM>",
+        "en": "<ITEM>[Sohee Pet Ticket]<INFO>6175</INFO></ITEM>",
+        "pt": "<ITEM>[Ticket de Mascote Sohee]<INFO>6175</INFO></ITEM>",
+        "es": "<ITEM>[Ticket de Mascota Sohee]<INFO>6175</INFO></ITEM>"
+    },
+    "WOOaCw": {
+        "ko": "<ITEM>[6177]<INFO>6177</INFO></ITEM>",
+        "en": "<ITEM>[Hunter Fly Pet Ticket]<INFO>6177</INFO></ITEM>",
+        "pt": "<ITEM>[Ticket de Mascote Mosca Caçadora]<INFO>6177</INFO></ITEM>",
+        "es": "<ITEM>[Ticket de Mascota Mosca Cazadora]<INFO>6177</INFO></ITEM>"
+    },
+    "WeOaCw": {
+        "ko": "<ITEM>[6178]<INFO>6178</INFO></ITEM>",
+        "en": "<ITEM>[Orc Warrior Pet Ticket]<INFO>6178</INFO></ITEM>",
+        "pt": "<ITEM>[Ticket de Mascote Guerreiro Orc]<INFO>6178</INFO></ITEM>",
+        "es": "<ITEM>[Ticket de Mascota Guerrero Orco]<INFO>6178</INFO></ITEM>"
+    },
+    "WuOaCw": {
+        "ko": "<ITEM>[6181]<INFO>6181</INFO></ITEM>",
+        "en": "<ITEM>[Bongun Pet Ticket]<INFO>6181</INFO></ITEM>",
+        "pt": "<ITEM>[Ticket de Mascote Bongun]<INFO>6181</INFO></ITEM>",
+        "es": "<ITEM>[Ticket de Mascota Bongun]<INFO>6181</INFO></ITEM>"
+    },
+    "W+OaCw": {
+        "ko": "<ITEM>[6184]<INFO>6184</INFO></ITEM>",
+        "en": "<ITEM>[Jirtas Pet Ticket]<INFO>6184</INFO></ITEM>",
+        "pt": "<ITEM>[Ticket de Mascote Jirtas]<INFO>6184</INFO></ITEM>",
+        "es": "<ITEM>[Ticket de Mascota Jirtas]<INFO>6184</INFO></ITEM>"
+    },
+    "XOOaCw": {
+        "ko": "<ITEM>[6185]<INFO>6185</INFO></ITEM>",
+        "en": "<ITEM>[Alice Pet Ticket]<INFO>6185</INFO></ITEM>",
+        "pt": "<ITEM>[Ticket de Mascote Alice]<INFO>6185</INFO></ITEM>",
+        "es": "<ITEM>[Ticket de Mascota Alice]<INFO>6185</INFO></ITEM>"
+    },
+    "XeOaCw": {
+        "ko": "<ITEM>[6416]<INFO>6416</INFO></ITEM>",
+        "en": "<ITEM>[Wanderer Pet Ticket]<INFO>6416</INFO></ITEM>",
+        "pt": "<ITEM>[Ticket de Mascote Andarilho]<INFO>6416</INFO></ITEM>",
+        "es": "<ITEM>[Ticket de Mascota Andarilho]<INFO>6416</INFO></ITEM>"
+    },
+    "XuOaCw": {
+        "ko": "<ITEM>[6884]<INFO>6884</INFO></ITEM>",
+        "en": "<ITEM>[Tikbalang Pet Ticket]<INFO>6884</INFO></ITEM>",
+        "pt": "<ITEM>[Ticket de Mascote Tikbalang]<INFO>6884</INFO></ITEM>",
+        "es": "<ITEM>[Ticket de Mascota Tikbalang]<INFO>6884</INFO></ITEM>"
+    },
+    "X+OaCw": {
+        "ko": "<ITEM>[7774]<INFO>7774</INFO></ITEM>",
+        "en": "<ITEM>[Chung E Pet Ticket]<INFO>7774</INFO></ITEM>",
+        "pt": "<ITEM>[Ticket de Mascote Chung E]<INFO>7774</INFO></ITEM>",
+        "es": "<ITEM>[Ticket de Mascota Chung E]<INFO>7774</INFO></ITEM>"
+    },
+    "YOOaCw": {
+        "ko": "<ITEM>[1000448]<INFO>1000448</INFO></ITEM>",
+        "en": "<ITEM>[Little Bear Pet Ticket]<INFO>1000448</INFO></ITEM>",
+        "pt": "<ITEM>[Ticket de Mascote Ursinho]<INFO>1000448</INFO></ITEM>",
+        "es": "<ITEM>[Ticket de Mascota Osito]<INFO>1000448</INFO></ITEM>"
+    },
+    "YeOaCw": {
+        "ko": "<ITEM>[1000455]<INFO>1000455</INFO></ITEM>",
+        "en": "<ITEM>[Angeling Pet Ticket]<INFO>1000455</INFO></ITEM>",
+        "pt": "<ITEM>[Ticket de Mascote Angeling]<INFO>1000455</INFO></ITEM>",
+        "es": "<ITEM>[Ticket de Mascota Angeling]<INFO>1000455</INFO></ITEM>"
+    },
+    "YuOaCw": {
+        "ko": "<ITEM>[1000457]<INFO>1000457</INFO></ITEM>",
+        "en": "<ITEM>[Nine Tails Pet Ticket]<INFO>1000457</INFO></ITEM>",
+        "pt": "<ITEM>[Ticket de Mascote Nove Caudas]<INFO>1000457</INFO></ITEM>",
+        "es": "<ITEM>[Ticket de Mascota Nueve Colas]<INFO>1000457</INFO></ITEM>"
+    },
+    "Y+OaCw": {
+        "ko": "<ITEM>[1000458]<INFO>1000458</INFO></ITEM>",
+        "en": "<ITEM>[Nine Tailed Cat Pet Ticket]<INFO>1000458</INFO></ITEM>",
+        "pt": "<ITEM>[Ticket de Mascote Gato de Nove Caudas]<INFO>1000458</INFO></ITEM>",
+        "es": "<ITEM>[Ticket de Mascota Gato de Nueve Colas]<INFO>1000458</INFO></ITEM>"
+    },
+    "ZOOaCw": {
+        "ko": "<ITEM>[1000460]<INFO>1000460</INFO></ITEM>",
+        "en": "<ITEM>[Big Bone Pet Ticket]<INFO>1000460</INFO></ITEM>",
+        "pt": "<ITEM>[Ticket de Mascote Esqueleão]<INFO>1000460</INFO></ITEM>",
+        "es": "<ITEM>[Ticket de Mascota Esqueleón]<INFO>1000460</INFO></ITEM>"
+    },
+    "ZeOaCw": {
+        "ko": "<ITEM>[1000628]<INFO>1000628</INFO></ITEM>",
+        "en": "<ITEM>[Aliot Pet Ticket]<INFO>1000628</INFO></ITEM>",
+        "pt": "<ITEM>[Ticket de Mascote Aliot]<INFO>1000628</INFO></ITEM>",
+        "es": "<ITEM>[Ticket de Mascota Aliot]<INFO>1000628</INFO></ITEM>"
+    },
+    "ZuOaCw": {
+        "ko": "<ITEM>[1000629]<INFO>1000629</INFO></ITEM>",
+        "en": "<ITEM>[Alicel Pet Ticket]<INFO>1000629</INFO></ITEM>",
+        "pt": "<ITEM>[Ticket de Mascote Alicel]<INFO>1000629</INFO></ITEM>",
+        "es": "<ITEM>[Ticket de Mascota Alicel]<INFO>1000629</INFO></ITEM>"
+    },
+    "Z+OaCw": {
+        "ko": "<ITEM>[1000632]<INFO>1000632</INFO></ITEM>",
+        "en": "<ITEM>[Polluted Wanderer Pet Ticket]<INFO>1000632</INFO></ITEM>",
+        "pt": "<ITEM>[Ticket de Mascote Andarilho Poluto]<INFO>1000632</INFO></ITEM>",
+        "es": "<ITEM>[Ticket de Mascota Andarilho Contaminado]<INFO>1000632</INFO></ITEM>"
+    },
+    "aOOaCw": {
+        "ko": "<ITEM>[1000815]<INFO>1000815</INFO></ITEM>",
+        "en": "<ITEM>[Zumbichano Pet Ticket]<INFO>1000815</INFO></ITEM>",
+        "pt": "<ITEM>[Ticket de Mascote Zumbichano]<INFO>1000815</INFO></ITEM>",
+        "es": "<ITEM>[Ticket de Mascota Zumbichano]<INFO>1000815</INFO></ITEM>"
+    },
+    "aeOaCw": {
+        "ko": "<ITEM>[1001061]<INFO>1001061</INFO></ITEM>",
+        "en": "<ITEM>[Hodremlin Pet Ticket]<INFO>1001061</INFO></ITEM>",
+        "pt": "<ITEM>[Ticket de Mascote Hodremlin]<INFO>1001061</INFO></ITEM>",
+        "es": "<ITEM>[Ticket de Mascota Hodremlin]<INFO>1001061</INFO></ITEM>"
     }
 }

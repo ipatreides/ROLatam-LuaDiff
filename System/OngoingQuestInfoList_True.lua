@@ -324,7 +324,7 @@ QuestInfoList = {
 		Title = "Liga dos Desbravadores",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"No Sonho Sombrio, elimine 1 Réquiem de Marfim."
+			"No Sonho Sombrio, elimine 1 Grand Pere."
 		},
 		Summary = "Sonho Sombrio"
 	},
@@ -375,7 +375,7 @@ QuestInfoList = {
 		Title = "Liga dos Desbravadores",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"No Ninho de Nidhogg, elimine 1 Sombra do Guardião."
+			"No Ninho de Nidhogg, elimine 1 Sombra de Nidhogg."
 		},
 		Summary = "Ninho de Nidhogg"
 	},
@@ -615,7 +615,7 @@ QuestInfoList = {
 		Description = {
 			"Na Base Militar, elimine 1 Malícia."
 		},
-		Summary = "Hospital Abandonado"
+		Summary = "Base Militar"
 	},
 	[1068] = {
 		Title = "[Espera] LD - Base Militar",
@@ -664,12 +664,12 @@ QuestInfoList = {
 		Title = "Liga dos Desbravadores",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"No Sussurro Sombrio, elimine 3 Mortos-Vivos de cada tipo."
+			"Na Fortaleza Voadora, elimine Habitantes, Espíritos e Convidados Imortais."
 		},
-		Summary = "Sussurro Sombrio"
+		Summary = "Fortaleza Voadora"
 	},
 	[1074] = {
-		Title = "[Espera] LD - Sussurro Sombrio",
+		Title = "[Espera] LD - Fortaleza Voadora",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Aguarde o período de descanso para retornar ao prédio da Liga dos Desbravadores!"
@@ -11924,7 +11924,7 @@ QuestInfoList = {
 	[5490] = {
 		Title = "[Procura-se]",
 		Description = {
-			"Elimine Jack Wolf no Sussurro Sombrio."
+			"Elimine Jack Wolf na Fortaleza Voadora"
 		},
 		Summary = "Moeda Sindical: 200"
 	},
@@ -20561,7 +20561,7 @@ QuestInfoList = {
 		Description = {
 			"Elimine Bellare e Sanare no Distrito OS à pedido de <NAVI>[Yuslan]<INFO>sp_cor,155,94,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Derrote o Heart Hunter",
+		Summary = "Derrote o Caça-Corações",
 		RewardEXP = "200000",
 		RewardJEXP = "200000"
 	},
@@ -20575,264 +20575,264 @@ QuestInfoList = {
 		Summary = "Reseta às 4 da manhã"
 	},
 	[7879] = {
-		Title = "Pesquisa de novo gás venenoso",
+		Title = "Nuvens Prejudiciais",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Perto de Mina de Einbech, a <NAVI>[Pesquisadora Aprendiz Sally]<INFO>einbech,143,244,0,101,0</INFO></NAVI> pediu que você caçasse uma quantidade adequada de Nuvem Nociva e Nuvem Perigosa, dizendo que está pesquisando os que aparecem no 3º andar da masmorra Mina de Einbech."
+			"Elimine os novos gases tóxicos que apareceram no 3º andar da Mina de Einbech para a <NAVI>[Pesquisadora Sally]<INFO>einbech,143,244,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Caçar Nuvem Nociva, Nuvem Perigosa",
+		Summary = "Mina de Einbech 3P",
 		NpcSpr = "4_F_LGTGIRL",
 		NpcNavi = "einbech",
 		NpcPosX = 143,
 		NpcPosY = 244
 	},
 	[7880] = {
-		Title = "Pesquisa de novo gás venenoso - Aguardando",
+		Title = "[Espera] Nuvens Prejudiciais",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Após o término do tempo de espera, você pode aceitar a missão 'Pesquisa de novo gás venenoso' com a <NAVI>[Pesquisadora Aprendiz Sally]<INFO>einbech,143,244,0,101,0</INFO></NAVI> perto de Mina de Einbech."
+			"Volte amanhã para repetir as missões da <NAVI>[Pesquisadora Sally]<INFO>einbech,143,244,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Reinicia às 04h",
+		Summary = "Reseta 4 da manhã.",
 		NpcSpr = "4_F_LGTGIRL",
 		NpcNavi = "einbech",
 		NpcPosX = 143,
 		NpcPosY = 244
 	},
 	[7881] = {
-		Title = "Pesquisa de Mineral peculiar 1",
+		Title = "Neo Minerais 1",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Perto de Mina de Einbech, a <NAVI>[Pesquisadora Aprendiz Sally]<INFO>einbech,143,244,0,101,0</INFO></NAVI> pediu que você caçasse uma quantidade adequada de Mineral de Jade e Mineral de Jaspe, dizendo que está pesquisando os que aparecem no 3º andar da masmorra Mina de Einbech."
+			"Elimine os novos minerais que apareceram no 3º andar da Mina de Einbech para a <NAVI>[Pesquisadora Sally]<INFO>einbech,143,244,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Caçar Mineral de Jade, Mineral de Jaspe",
+		Summary = "Mina de Einbech 3P",
 		NpcSpr = "4_F_LGTGIRL",
 		NpcNavi = "einbech",
 		NpcPosX = 143,
 		NpcPosY = 244
 	},
 	[7882] = {
-		Title = "Pesquisa de Mineral incomum 1 - Aguardando",
+		Title = "[Espera] Neo Minerais 1",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Após o término do tempo de espera, você pode aceitar a missão 'Pesquisa de Mineral incomum 1' com a <NAVI>[Pesquisadora Aprendiz Sally]<INFO>einbech,143,244,0,101,0</INFO></NAVI> perto de Mina de Einbech."
+			"Volte amanhã para repetir as missões da <NAVI>[Pesquisadora Sally]<INFO>einbech,143,244,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Reinicia às 04h",
+		Summary = "Reseta 4 da manhã.",
 		NpcSpr = "4_F_LGTGIRL",
 		NpcNavi = "einbech",
 		NpcPosX = 143,
 		NpcPosY = 244
 	},
 	[7883] = {
-		Title = "Pesquisa de Mineral peculiar 2",
+		Title = "Neo Minerais 2",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Perto de Mina de Einbech, a <NAVI>[Pesquisadora Aprendiz Sally]<INFO>einbech,143,244,0,101,0</INFO></NAVI> pediu que você caçasse uma quantidade adequada de Mineral de Selenita e Mineral de Ametista, dizendo que está pesquisando os que aparecem no 3º andar da masmorra Mina de Einbech."
+			"Elimine os novos minerais que apareceram no 3º andar da Mina de Einbech para a <NAVI>[Pesquisadora Sally]<INFO>einbech,143,244,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Caçar Mineral de Selenita, Mineral de Ametista",
+		Summary = "Mina de Einbech 3P",
 		NpcSpr = "4_F_LGTGIRL",
 		NpcNavi = "einbech",
 		NpcPosX = 143,
 		NpcPosY = 244
 	},
 	[7884] = {
-		Title = "Pesquisa de Mineral incomum 2 - Aguardando",
+		Title = "[Espera] Neo Minerais 2",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Após o término do tempo de espera, você pode aceitar a missão 'Pesquisa de Mineral incomum 2' com a <NAVI>[Pesquisadora Aprendiz Sally]<INFO>einbech,143,244,0,101,0</INFO></NAVI> perto de Mina de Einbech."
+			"Volte amanhã para repetir as missões da <NAVI>[Pesquisadora Sally]<INFO>einbech,143,244,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Reinicia às 04h",
+		Summary = "Reseta 4 da manhã.",
 		NpcSpr = "4_F_LGTGIRL",
 		NpcNavi = "einbech",
 		NpcPosX = 143,
 		NpcPosY = 244
 	},
 	[7885] = {
-		Title = "Pesquisa de Homem do Abismo",
+		Title = "Garimpo",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Perto de Mina de Einbech, a <NAVI>[Pesquisadora Aprendiz Sally]<INFO>einbech,143,244,0,101,0</INFO></NAVI> pediu que você caçasse uma quantidade adequada de Homem do Abismo, dizendo que está pesquisando o que aparece no 3º andar da masmorra Mina de Einbech."
+			"Elimine Garimpeiros que apareceram no 3º andar da Mina de Einbech para a <NAVI>[Pesquisadora Sally]<INFO>einbech,143,244,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Caça ao Homem do Abismo",
+		Summary = "Mina de Einbech 3P",
 		NpcSpr = "4_F_LGTGIRL",
 		NpcNavi = "einbech",
 		NpcPosX = 143,
 		NpcPosY = 244
 	},
 	[7886] = {
-		Title = "Pesquisa do Homem do Abismo - Aguardando",
+		Title = "[Espera] Garimpo",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Após o tempo de espera expirar, você pode receber a missão 'Pesquisa do Homem do Abismo' com <NAVI>[Pesquisadora Aprendiz Sally]<INFO>einbech,143,244,0,101,0</INFO></NAVI> perto de Mina de Einbech."
+			"Volte amanhã para repetir as missões da <NAVI>[Pesquisadora Sally]<INFO>einbech,143,244,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Reinicia às 04h",
+		Summary = "Reseta 4 da manhã.",
 		NpcSpr = "4_F_LGTGIRL",
 		NpcNavi = "einbech",
 		NpcPosX = 143,
 		NpcPosY = 244
 	},
 	[7887] = {
-		Title = "Pesquisa de verme de mina",
+		Title = "Insetos Perolados",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Pesquisadora Aprendiz Sally]<INFO>einbech,143,244,0,101,0</INFO></NAVI> perto de Mina de Einbech disse que está pesquisando Porcellio Albino e Geodoliant, que aparecem no 3º andar da masmorra de Mina de Einbech, e pediu que você os caçasse em uma quantidade adequada."
+			"Elimine os insetos que apareceram no 3º andar da Mina de Einbech para a <NAVI>[Pesquisadora Sally]<INFO>einbech,143,244,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Caça a Porcellio Albino e Geodoliant",
+		Summary = "Mina de Einbech 3P",
 		NpcSpr = "4_F_LGTGIRL",
 		NpcNavi = "einbech",
 		NpcPosX = 143,
 		NpcPosY = 244
 	},
 	[7888] = {
-		Title = "Pesquisa do Inseto da Mina - Aguardando",
+		Title = "[Espera] Insetos Perolados",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Após o tempo de espera expirar, você pode receber a missão 'Pesquisa do Inseto da Mina' com <NAVI>[Pesquisadora Aprendiz Sally]<INFO>einbech,143,244,0,101,0</INFO></NAVI> perto de Mina de Einbech."
+			"Volte amanhã para repetir as missões da <NAVI>[Pesquisadora Sally]<INFO>einbech,143,244,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Reinicia às 04h",
+		Summary = "Reseta 4 da manhã.",
 		NpcSpr = "4_F_LGTGIRL",
 		NpcNavi = "einbech",
 		NpcPosX = 143,
 		NpcPosY = 244
 	},
 	[7889] = {
-		Title = "Século X, XXgolt",
+		Title = "Século Desconhecido",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"No pequeno cais do Templo de Odin, você recebeu de <NAVI>[Folclorista Cinnamon]<INFO>odin_tem01,108,152,0,101,0</INFO></NAVI>, que estava pesquisando o templo, um pedido para caçar dois tipos de Angelgolt para investigar o antigo Templo de Odin."
+			"Elimine monstros que apareceram no passado do Templo de Odin para o <NAVI>[Historiador]<INFO>odin_tem01,108,152,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Caça a dois tipos de Angelgolt",
+		Summary = "Antigo Templo de Odin",
 		NpcSpr = "4_M_SITDOWN",
 		NpcNavi = "odin_tem01",
 		NpcPosX = 108,
 		NpcPosY = 152
 	},
 	[7890] = {
-		Title = "X Século XXgolt - Aguardando",
+		Title = "[Espera] Século Desconhecido",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Após o tempo de espera expirar, você pode receber a missão 'X Século XXgolt' com <NAVI>[Folclorista Cinnamon]<INFO>odin_tem01,108,152,0,101,0</INFO></NAVI> que está aguardando no cais do Templo de Odin."
+			"Volte amanhã para repetir as missões do <NAVI>[Historiador]<INFO>odin_tem01,108,152,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Reinicia às 04h",
+		Summary = "Reseta 4 da manhã.",
 		NpcSpr = "4_M_SITDOWN",
 		NpcNavi = "odin_tem01",
 		NpcPosX = 108,
 		NpcPosY = 152
 	},
 	[7891] = {
-		Title = "O que é uma Valquíria",
+		Title = "O que é um Anjo?",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"No pequeno cais do Templo de Odin, você recebeu de <NAVI>[Folclorista Cinnamon]<INFO>odin_tem01,108,152,0,101,0</INFO></NAVI>, que estava pesquisando o templo, um pedido para caçar Frus Angelical e Skogul Angelical para investigar o antigo Templo de Odin."
+			"Elimine monstros que apareceram no passado do Templo de Odin para o <NAVI>[Historiador]<INFO>odin_tem01,108,152,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Caça a Frus Angelical e Skogul Angelical",
+		Summary = "Antigo Templo de Odin",
 		NpcSpr = "4_M_SITDOWN",
 		NpcNavi = "odin_tem01",
 		NpcPosX = 108,
 		NpcPosY = 152
 	},
 	[7892] = {
-		Title = "O que é uma Valquíria - Aguardando",
+		Title = "[Espera] O que é um Anjo?",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Após o tempo de espera expirar, você pode receber a missão 'O que é uma Valquíria?' com <NAVI>[Folclorista Cinnamon]<INFO>odin_tem01,108,152,0,101,0</INFO></NAVI>, que está aguardando no cais do Templo de Odin."
+			"Volte amanhã para repetir as missões do <NAVI>[Historiador]<INFO>odin_tem01,108,152,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Reinicia às 04h",
+		Summary = "Reseta 4 da manhã.",
 		NpcSpr = "4_M_SITDOWN",
 		NpcNavi = "odin_tem01",
 		NpcPosX = 108,
 		NpcPosY = 152
 	},
 	[7893] = {
-		Title = "Ferus de cor incomum",
+		Title = "Cores Estranhas",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Etnologista Marigold]<INFO>hugel,102,148,0,101,0</INFO></NAVI> da praça de Hugel pediu que você ajudasse na pesquisa do 'Ferus Roxo', que parece ser uma variante elemental, no 4º andar da Masmorra do Abismo."
+			"Elimine monstros no 4º andar da caverna subterrânea do Lago do Abismo para a <NAVI>[Dragonologista]<INFO>hugel,102,148,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Caçar Ferus Roxo",
+		Summary = "Lago do Abismo 4P",
 		NpcSpr = "4_F_HUWOMAN",
 		NpcNavi = "hugel",
 		NpcPosX = 102,
 		NpcPosY = 143
 	},
 	[7894] = {
-		Title = "Ferus de cor incomum - Aguardando",
+		Title = "[Espera] Cores Estranhas",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Após o tempo de espera expirar, você pode receber a missão 'Pesquisa do Ferus Roxo' com <NAVI>[Etnologista Marigold]<INFO>hugel,102,148,0,101,0</INFO></NAVI>, que está aguardando na praça de Hugel."
+			"Volte amanhã para repetir as missões da <NAVI>[Dragonologista]<INFO>hugel,102,148,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Reinicia às 04h",
+		Summary = "Reseta 4 da manhã.",
 		NpcSpr = "4_F_HUWOMAN",
 		NpcNavi = "hugel",
 		NpcPosX = 102,
 		NpcPosY = 143
 	},
 	[7895] = {
-		Title = "Investigação de um novo Mímico",
+		Title = "Tesouro de Mentira",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Etnologista Marigold]<INFO>hugel,102,148,0,101,0</INFO></NAVI> da praça de Hugel solicitou que você caçasse Mímico Precioso, um novo tipo de Mímico, no 4º andar da Masmorra do Abismo e coletasse dados."
+			"Elimine monstros no 4º andar da caverna subterrânea do Lago do Abismo para a <NAVI>[Dragonologista]<INFO>hugel,102,148,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Caçar Mímico Precioso",
+		Summary = "Lago do Abismo 4P",
 		NpcSpr = "4_F_HUWOMAN",
 		NpcNavi = "hugel",
 		NpcPosX = 102,
 		NpcPosY = 143
 	},
 	[7896] = {
-		Title = "Investigação de novo tipo de Mímico - Aguardando",
+		Title = "[Espera] Tesouro de Mentira",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Após o tempo de espera expirar, você pode receber a missão 'Investigação de novo tipo de Mímico' com <NAVI>[Etnologista Marigold]<INFO>hugel,102,148,0,101,0</INFO></NAVI>, que está aguardando na praça de Hugel."
+			"Volte amanhã para repetir as missões da <NAVI>[Dragonologista]<INFO>hugel,102,148,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Reinicia às 04h",
+		Summary = "Reseta 4 da manhã.",
 		NpcSpr = "4_F_HUWOMAN",
 		NpcNavi = "hugel",
 		NpcPosX = 102,
 		NpcPosY = 143
 	},
 	[7897] = {
-		Title = "Pesquisa de atributo do Acidus",
+		Title = "Acidus Elementais",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Etnologista Marigold]<INFO>hugel,102,148,0,101,0</INFO></NAVI> da praça de Hugel pediu que você ajudasse na pesquisa de Acidus Negro e Acidus Prateado no 4º andar da Masmorra do Abismo."
+			"Elimine monstros no 4º andar da caverna subterrânea do Lago do Abismo para a <NAVI>[Dragonologista]<INFO>hugel,102,148,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Caçar Acidus Negro, Acidus Prateado",
+		Summary = "Lago do Abismo 4P",
 		NpcSpr = "4_F_HUWOMAN",
 		NpcNavi = "hugel",
 		NpcPosX = 102,
 		NpcPosY = 143
 	},
 	[7898] = {
-		Title = "Pesquisa elemental de Acidus - Aguardando",
+		Title = "[Espera] Acidus Elementais",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Após o tempo de espera expirar, você pode receber a missão 'Pesquisa elemental de Acidus' com <NAVI>[Etnologista Marigold]<INFO>hugel,102,148,0,101,0</INFO></NAVI>, que está aguardando na praça de Hugel."
+			"Volte amanhã para repetir as missões da <NAVI>[Dragonologista]<INFO>hugel,102,148,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Reinicia às 04h",
+		Summary = "Reseta 4 da manhã.",
 		NpcSpr = "4_F_HUWOMAN",
 		NpcNavi = "hugel",
 		NpcPosX = 102,
 		NpcPosY = 143
 	},
 	[7899] = {
-		Title = "Um ato que desafia a ordem natural",
+		Title = "Ossada Draconiana",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Hugel A etnóloga <NAVI>[Etnologista Marigold]<INFO>hugel,102,148,0,101,0</INFO></NAVI> da praça pediu que você devolvesse à natureza os Ferus Esqueleto e os Acidus Esqueleto que aparecem no 4º andar da Masmorra do Abismo."
+			"Elimine monstros no 4º andar da caverna subterrânea do Lago do Abismo para a <NAVI>[Dragonologista]<INFO>hugel,102,148,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Derrotar Ferus Esqueleto, Acidus Esqueleto",
+		Summary = "Lago do Abismo 4P",
 		NpcSpr = "4_F_HUWOMAN",
 		NpcNavi = "hugel",
 		NpcPosX = 102,
 		NpcPosY = 143
 	},
 	[7900] = {
-		Title = "Ato contra a ordem natural - Aguardar",
+		Title = "[Espera] Ossada Draconiana",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Após o término do tempo de espera, você pode receber a missão 'Ato contra a ordem natural' com a <NAVI>[Etnologista Marigold]<INFO>hugel,102,148,0,101,0</INFO></NAVI> que está aguardando na praça de Hugel."
+			"Volte amanhã para repetir as missões da <NAVI>[Dragonologista]<INFO>hugel,102,148,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Reinicia às 04h",
+		Summary = "Reseta 4 da manhã.",
 		NpcSpr = "4_F_HUWOMAN",
 		NpcNavi = "hugel",
 		NpcPosX = 102,
@@ -24167,7 +24167,7 @@ QuestInfoList = {
 	[8686] = {
 		Title = "Intruso do Templo",
 		Description = {
-			"Sua identidade, que eu já havia visto em algum lugar, era Heart Hunter.",
+			"Sua identidade, que eu já havia visto em algum lugar, era Caça-Corações.",
 			"Acho que ainda não ouvi nenhuma notícia de que aqueles que invadiram a mansão foram derrotados."
 		},
 		Summary = "Fale com o Sacerdote"
@@ -26938,25 +26938,25 @@ QuestInfoList = {
 		Summary = "Volte ao Profeta K"
 	},
 	[9418] = {
-		Title = "Sussurro Sombrio",
+		Title = "Fortaleza Voadora",
 		Description = {
 			"Você precisa entrar na fortaleza e enfrentar o causador de todo esse caos."
 		},
 		Summary = "Entre na instância"
 	},
 	[9419] = {
-		Title = "[Espera] Sussurro Sombrio",
+		Title = "[Espera] Fortaleza Voadora",
 		Description = {
 			"O ^8B4513Cientista Doyeon^000000 diz que precisa de tempo. Você pode esperar 3 dias ou trazer um Ticket de Acesso."
 		},
 		Summary = "Volte após 3 dias."
 	},
 	[9427] = {
-		Title = "Sussurro Sombrio",
+		Title = "Fortaleza Voadora",
 		Description = {
-			"Sussurro Sombrio"
+			"Fortaleza Voadora"
 		},
-		Summary = "Sussurro Sombrio"
+		Summary = "Fortaleza Voadora"
 	},
 	[9432] = {
 		Title = "",
@@ -32177,7 +32177,7 @@ QuestInfoList = {
 		Title = "O Retardatário do Esgoto",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"A pessoa que caiu na água parece estar incapacitada. Vamos usar uma Folha de Yggdrasil para recuperá-la."
+			"A pessoa que caiu na água parece estar incapacitada. Vamos usar uma Folha de Yggdrasil para ajudá-la."
 		},
 		Summary = "1 Folha de Yggdrasil"
 	},
@@ -32185,9 +32185,9 @@ QuestInfoList = {
 		Title = "O Retardatário do Esgoto",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"O grupo de Deu também recebeu um pedido da Rebellion para investigar a mansão. Vamos nos reunir com os outros."
+			"O grupo de Du Lian também recebeu um pedido da Rebellion para investigar a mansão. Vamos nos reunir com os outros."
 		},
-		Summary = "Ir até onde se ouve a voz de Magi"
+		Summary = "Ir até onde se ouve a voz de Maggi"
 	},
 	[11617] = {
 		Title = "O Retardatário do Esgoto",
@@ -32195,7 +32195,7 @@ QuestInfoList = {
 		Description = {
 			"Encontramos a porta que leva para cima. Vamos seguir juntos."
 		},
-		Summary = "Ir até onde está Alf"
+		Summary = "Ir até onde está Alp"
 	},
 	[11618] = {
 		Title = "O Retardatário do Esgoto",
@@ -32217,7 +32217,7 @@ QuestInfoList = {
 		Title = "Silêncio na Biblioteca!",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Deu correu de repente para onde está <NAVI>[Fonte]<INFO>ba_maison,85,111,0,101,0</INFO></NAVI>. Vamos seguir Deu."
+			"Du Lian correu de repente para onde está <NAVI>[Fonte]<INFO>ba_maison,85,111,0,101,0</INFO></NAVI>. Vamos seguí-lo."
 		},
 		Summary = "Verificar Fonte"
 	},
@@ -32233,9 +32233,9 @@ QuestInfoList = {
 		Title = "Silêncio na Biblioteca!",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Apagamos a luz ao lado da porta e entramos na biblioteca. Vamos conversar com <NAVI>[Gerente da Biblioteca ?]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
+			"Apagamos o fogo na frente da porta e entramos na biblioteca. Vamos conversar com <NAVI>[Gerente da Biblioteca Beta]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Conversar com Gerente da Biblioteca ?"
+		Summary = "Conversar com Gerente da Biblioteca Beta"
 	},
 	[11624] = {
 		Title = "Silêncio na Biblioteca!",
@@ -32249,17 +32249,17 @@ QuestInfoList = {
 		Title = "Silêncio na Biblioteca!",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"É necessário um registro adicional para utilizar a biblioteca. Vamos falar com <NAVI>[Magi]<INFO>ba_lib,112,266,0,101,0</INFO></NAVI>."
+			"É necessário um registro adicional para utilizar a biblioteca. Vamos falar com <NAVI>[Maggi]<INFO>ba_lib,112,266,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Conversar com Magi na biblioteca"
+		Summary = "Conversar com Maggi na biblioteca"
 	},
 	[11626] = {
 		Title = "Silêncio na Biblioteca!",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"É necessário um registro adicional para utilizar a biblioteca. Vamos falar com <NAVI>[Alf]<INFO>ba_lib,293,234,0,101,0</INFO></NAVI>."
+			"É necessário um registro adicional para utilizar a biblioteca. Vamos falar com <NAVI>[Alp]<INFO>ba_lib,293,234,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Conversar com Alf na biblioteca"
+		Summary = "Conversar com Alp na biblioteca"
 	},
 	[11627] = {
 		Title = "Silêncio na Biblioteca!",
@@ -32281,47 +32281,47 @@ QuestInfoList = {
 		Title = "Silêncio na Biblioteca!",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Conversamos com Mark. Após falar com os demais membros, retornemos a <NAVI>[Gerente da Biblioteca ?]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
+			"Conversamos com Mark. Após falar com os demais membros, retornemos a <NAVI>[Gerente da Biblioteca Beta]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Ir até Gerente da Biblioteca ?"
+		Summary = "Ir até Gerente da Biblioteca Beta"
 	},
 	[11630] = {
 		Title = "Silêncio na Biblioteca!",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Conversamos com Magi. Após falar com os demais membros, retornemos a <NAVI>[Gerente da Biblioteca ?]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
+			"Conversamos com Magi. Após falar com os demais membros, retornemos a <NAVI>[Gerente da Biblioteca Beta]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Ir até Gerente da Biblioteca ?"
+		Summary = "Ir até Gerente da Biblioteca Beta"
 	},
 	[11631] = {
 		Title = "Silêncio na Biblioteca!",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Conversamos com Alf. Após falar com os demais membros, retornemos a <NAVI>[Gerente da Biblioteca ?]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
+			"Conversamos com Alf. Após falar com os demais membros, retornemos a <NAVI>[Gerente da Biblioteca Beta]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Ir até Gerente da Biblioteca ?"
+		Summary = "Ir até Gerente da Biblioteca Beta"
 	},
 	[11632] = {
 		Title = "Silêncio na Biblioteca!",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Conversamos com Tamarin. Após falar com os demais membros, retornemos a <NAVI>[Gerente da Biblioteca ?]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
+			"Conversamos com Tamarin. Após falar com os demais membros, retornemos a <NAVI>[Gerente da Biblioteca Beta]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Ir até Gerente da Biblioteca ?"
+		Summary = "Ir até Gerente da Biblioteca Beta"
 	},
 	[11633] = {
 		Title = "Silêncio na Biblioteca!",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Conversamos com Oliver. Após falar com os demais membros, retornemos a <NAVI>[Gerente da Biblioteca ?]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
+			"Conversamos com Oliver. Após falar com os demais membros, retornemos a <NAVI>[Gerente da Biblioteca Beta]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Ir até Gerente da Biblioteca ?"
+		Summary = "Ir até Gerente da Biblioteca Beta"
 	},
 	[11634] = {
 		Title = "Caça Suprema à Traça-de-Livro",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Parece que a administração da biblioteca está tendo dificuldades por causa das Traça-de-Livro que roem os grimórios. Derrote as Traça-de-Livro e retorne a <NAVI>[Gerente da Biblioteca ?]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
+			"Parece que a administração da biblioteca está tendo dificuldades por causa das Traça-de-Livro que roem os grimórios. Derrote as Traça-de-Livro e retorne a <NAVI>[Gerente da Biblioteca Beta]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Caçar 20 Traça-de-Livro"
 	},
@@ -32329,7 +32329,7 @@ QuestInfoList = {
 		Title = "Caça Suprema à Traça-de-Livro",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Esta quest é diária e pode ser aceita novamente após o tempo de espera através de <NAVI>[Gerente da Biblioteca ?]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
+			"Esta quest é diária e pode ser aceita novamente após o tempo de espera através de <NAVI>[Gerente da Biblioteca Beta]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Reinício às 04:00",
 		CoolTimeQuest = 1
@@ -32338,7 +32338,7 @@ QuestInfoList = {
 		Title = "Organização Suprema de Livros",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"As estantes estão em desordem por causa dos grimórios errantes que saíram delas. Recupere Grimório Errante e retorne a <NAVI>[Gerente da Biblioteca ?]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
+			"As estantes estão em desordem por causa dos grimórios errantes que saíram delas. Recupere Grimório Errante e retorne a <NAVI>[Gerente da Biblioteca Beta]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Recuperar 20 Grimório Errante"
 	},
@@ -32346,7 +32346,7 @@ QuestInfoList = {
 		Title = "Organização Suprema de Livros",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Esta quest é diária e pode ser aceita novamente após o tempo de espera através de <NAVI>[Gerente da Biblioteca ?]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
+			"Esta quest é diária e pode ser aceita novamente após o tempo de espera através de <NAVI>[Gerente da Biblioteca Beta]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Reinício às 04:00"
 	},
@@ -32698,7 +32698,7 @@ QuestInfoList = {
 	[11698] = {
 		Title = "Solicitação de Niren (3)",
 		Description = {
-			"Niren, que ouviu a palavra Heart Hunter, sugeriu que a conversa fosse levada para outro lugar.",
+			"Niren, que ouviu a palavra Caça-Corações, sugeriu que a conversa fosse levada para outro lugar.",
 			"------------------------",
 			"Vamos conversar com <NAVI>[Niren]<INFO>ra_temin,213,87,0,101,0</INFO></NAVI> no canto do corredor onde as pessoas não costumam ir."
 		},
@@ -44348,7 +44348,7 @@ QuestInfoList = {
 		Title = "Quero Saber a Verdade",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Vamos falar com <NAVI>[Dien]<INFO>ba_in01,203,103,0,101,0</INFO></NAVI> para ouvir por que os anciãos estão em conflito com Philopontes."
+			"Vamos falar com <NAVI>[Dien]<INFO>ba_in01,203,103,0,101,0</INFO></NAVI> para ouvir por que as anciãs estão em conflito com Philopontes."
 		},
 		Summary = "Conversar com Dien"
 	},
@@ -44396,9 +44396,9 @@ QuestInfoList = {
 		Title = "Quero Saber a Verdade",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"A história que esteve oculta até agora continua. Vamos falar com <NAVI>[Lidsh]<INFO>ba_in01,208,110,0,101,0</INFO></NAVI>."
+			"A história que esteve oculta até agora continua. Vamos falar com <NAVI>[Ridsh]<INFO>ba_in01,208,110,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Conversar com Lidsh"
+		Summary = "Conversar com Ridsh"
 	},
 	[16447] = {
 		Title = "Quero Saber a Verdade",
@@ -44412,9 +44412,9 @@ QuestInfoList = {
 		Title = "Quero Saber a Verdade",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Quando Kaya se ausentou, Rookie veio falar conosco. Vamos ouvir o que <NAVI>[Rookie]<INFO>ba_in01,202,108,0,101,0</INFO></NAVI> tem a dizer."
+			"Quando Kaya se ausentou, Lukie veio falar conosco. Vamos ouvir o que <NAVI>[Rookie]<INFO>ba_in01,202,108,0,101,0</INFO></NAVI> tem a dizer."
 		},
-		Summary = "Conversar com Rookie"
+		Summary = "Conversar com Lukie"
 	},
 	[16449] = {
 		Title = "Quero Saber a Verdade",
@@ -45771,9 +45771,9 @@ NpcSpr = [=[4_M_RACHMAN1]]
 		Title = "O Convidado da Mansão",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Parece que houve um problema ao compartilhar a lista de convidados pela rede interna da mansão. Vamos verificar com <NAVI>[Gerente da Mansão ?]<INFO>ba_maison,74,150,0,101,0</INFO></NAVI>."
+			"Parece que houve um problema ao compartilhar a lista de convidados pela rede interna da mansão. Vamos verificar com <NAVI>[Gerente da Mansão Alpha]<INFO>ba_maison,74,150,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Gerente da Mansão ?"
+		Summary = "Gerente da Mansão Alpha"
 	},
 	[17334] = {
 		Title = "Verificar Dispositivo de Retransmissão: Refeitório",
@@ -45811,9 +45811,9 @@ NpcSpr = [=[4_M_RACHMAN1]]
 		Title = "Verificação do Dispositivo de Retransmissão Concluída",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Após verificar o Dispositivo de Retransmissão danificado, informamos o defeito aos autômatos. Vamos reportar a <NAVI>[Gerente da Mansão ?]<INFO>ba_maison,74,150,0,101,0</INFO></NAVI>."
+			"Após verificar o Dispositivo de Retransmissão danificado, informamos o defeito aos autômatos. Vamos reportar a <NAVI>[Gerente da Mansão Alpha]<INFO>ba_maison,74,150,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Ir até Gerente da Mansão ?"
+		Summary = "Ir até Gerente da Mansão Alpha"
 	},
 	[17339] = {
 		Title = "Aquisição de Peças de Reposição",
@@ -45827,7 +45827,7 @@ NpcSpr = [=[4_M_RACHMAN1]]
 		Title = "Aquisição de Peças de Reposição",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Elimine os Betas danificados e traga 10 peças para usar no Dispositivo de Retransmissão. Essa é a quantidade diária necessária. - <NAVI>[Gerente da Mansão ?]<INFO>ba_maison,74,150,0,101,0</INFO></NAVI>"
+			"Elimine os Betas danificados e traga 10 peças para usar no Dispositivo de Retransmissão. Essa é a quantidade diária necessária. - <NAVI>[Gerente da Mansão Alpha]<INFO>ba_maison,74,150,0,101,0</INFO></NAVI>"
 		},
 		Summary = "10 Peças"
 	},
@@ -45835,7 +45835,7 @@ NpcSpr = [=[4_M_RACHMAN1]]
 		Title = "Em Espera: Sem Sinal",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Se possível, gostaria de pedir novamente após o amanhecer de amanhã. Descanse bem. - <NAVI>[Gerente da Mansão ?]<INFO>ba_maison,74,150,0,101,0</INFO></NAVI>"
+			"Se possível, gostaria de pedir novamente após o amanhecer de amanhã. Descanse bem. - <NAVI>[Gerente da Mansão Alpha]<INFO>ba_maison,74,150,0,101,0</INFO></NAVI>"
 		},
 		Summary = "Reinício às 04:00"
 	},
@@ -45979,9 +45979,9 @@ NpcSpr = [=[4_M_RACHMAN1]]
 		Title = "Limpeza do Armazém Superior",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Vejo que realmente gosta de combate. Então elimine 20 Intruso no andar superior. - <NAVI>[Jjack]<INFO>ba_2whs01,150,51,0,101,0</INFO></NAVI>"
+			"Vejo que realmente gosta de combate. Então elimine 20 Caça-Corações no andar superior. - <NAVI>[Jjack]<INFO>ba_2whs01,150,51,0,101,0</INFO></NAVI>"
 		},
-		Summary = "20 Intruso"
+		Summary = "20 Caça-Corações"
 	},
 	[17360] = {
 		Title = "Em Espera: Limpeza do Armazém Superior",
@@ -46806,16 +46806,16 @@ NpcSpr = [=[4_M_RACHMAN1]]
 	[17522] = {
 		Title = "Lobo entre ovelhas (3)",
 		Description = {
-			"As principais forças que se infiltraram no templo escaparam, mas, por favor, limpe os guardas do templo que passaram para os Heart Hunters! - <NAVI>[Sacerdote]<INFO>rachel,169,245,0,101,0</INFO></NAVI>"
+			"As principais forças que se infiltraram no templo escaparam, mas, por favor, limpe os guardas do templo que passaram para os Caça-Coraçõess! - <NAVI>[Sacerdote]<INFO>rachel,169,245,0,101,0</INFO></NAVI>"
 		},
 		Summary = "Derrotar os traidores"
 	},
 	[17523] = {
 		Title = "Purificação do Santuário",
 		Description = {
-			"Os remanescentes dos Heart Hunters ainda permanecem no Sanctuary Sessrumnir Heart Storage. Vamos eliminá-los! - <NAVI>[Sacerdote]<INFO>rachel,169,245,0,101,0</INFO></NAVI>"
+			"Os remanescentes dos Caça-Coraçõess ainda permanecem no Sanctuary Sessrumnir Heart Storage. Vamos eliminá-los! - <NAVI>[Sacerdote]<INFO>rachel,169,245,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Limpar os Heart Hunters"
+		Summary = "Limpar os Caça-Coraçõess"
 	},
 	[17524] = {
 		Title = "[Limpeza de Renegados",
@@ -46834,7 +46834,7 @@ NpcSpr = [=[4_M_RACHMAN1]]
 	[17526] = {
 		Title = "Purificação do Santuário [Completed]",
 		Description = {
-			"A operação para eliminar os Heart Hunters foi concluída. Vamos nos reportar ao <NAVI>[Sacerdote]<INFO>rachel,169,245,0,101,0</INFO></NAVI>."
+			"A operação para eliminar os Caça-Coraçõess foi concluída. Vamos nos reportar ao <NAVI>[Sacerdote]<INFO>rachel,169,245,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Reportar para o sacerdote"
 	},
@@ -47239,7 +47239,7 @@ NpcSpr = [=[4_M_RACHMAN1]]
 		Title = "Entrada Secreta da Mansão",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Rookie de Cor disse para entrar pelo interior através do esgoto. Caso encontre companheiros perdidos dentro do esgoto, mova-se junto com eles."
+			"Rookie da COR disse para entrar pelo interior através do esgoto. Caso encontre companheiros perdidos dentro do esgoto, mova-se junto com eles."
 		},
 		Summary = "Conversar com Durian"
 	},
@@ -47247,7 +47247,7 @@ NpcSpr = [=[4_M_RACHMAN1]]
 		Title = "Recuperar Núcleos Danificados",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Junto com Rookie, decidimos recuperar os núcleos dos autômatos atacados pelos Heart Hunter. Enquanto coleta os núcleos, siga até o {{P:^000000}}[local combinado]{{P:^FFFFFF}} com Rookie."
+			"Junto com Lukie, decidimos recuperar os núcleos dos autômatos atacados pelos Caça-Corações. Enquanto coleta os núcleos, siga até o NAVI>[local combinado]<INFO>ba_maison,303,141,0,101,0</INFO></NAVI>.com Lukie."
 		},
 		Summary = "Recuperar pelo menos 5 Núcleos Danificados"
 	},
@@ -47359,7 +47359,7 @@ NpcSpr = [=[4_M_RACHMAN1]]
 		Title = "Reunião de Estratégia",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Junto com Est, vamos elaborar um plano para vasculhar a Mansão Varmundt e encontrar os Heart Hunter e Ilusión escondidos."
+			"Junto com Est, vamos elaborar um plano para vasculhar a Mansão Varmundt e encontrar os Caça-Corações e Ilusión escondidos."
 		},
 		Summary = "Conversar com Est"
 	},
@@ -47877,7 +47877,7 @@ NpcSpr = [=[4_M_RACHMAN1]]
 	[18083] = {
 		Title = "Vila do Sumo Sacerdote",
 		Description = {
-			"Você decidiu investigar a vila do Sumo Sacerdote Amal para descobrir o paradeiro de Bagot e do Heart Hunter.",
+			"Você decidiu investigar a vila do Sumo Sacerdote Amal para descobrir o paradeiro de Bagot e do Caça-Corações.",
 			"Você espera interferir nos planos de Bagot e do Sumo Sacerdote Amal."
 		},
 		Summary = "Investigar a vila"
@@ -55441,7 +55441,7 @@ NpcSpr = [=[4_M_RACHMAN1]]
 		Summary = "Caça aos Materiais"
 	},
 	[24135] = {
-		Title = "Prepare-se! Berg Katse!",
+		Title = "Prepare-se, Berg Katse!",
 		IconName = "ico_ev.bmp",
 		Description = {
 			"Berg Katse parece estar reparando a <NAVI>[fenda]<INFO>morocc,22,188,0,101,0</INFO></NAVI>, longe de olhares curiosos. Vamos destruí-la novamente.",
@@ -55450,7 +55450,7 @@ NpcSpr = [=[4_M_RACHMAN1]]
 		Summary = "Investigue a Fenda Interna"
 	},
 	[24136] = {
-		Title = "Prepare-se! Berg Katse!",
+		Title = "Prepare-se, Berg Katse!",
 		IconName = "ico_ev.bmp",
 		Description = {
 			"A gangue Galactor foi expulsa e a fenda foi limpa. Talvez esteja segura até que a reparem novamente?"
@@ -55459,7 +55459,7 @@ NpcSpr = [=[4_M_RACHMAN1]]
 		CoolTimeQuest = 1
 	},
 	[24137] = {
-		Title = "Prepare-se! Berg Katse!",
+		Title = "Prepare-se, Berg Katse!",
 		IconName = "ico_ev.bmp",
 		Description = {
 			"Colete 10 Pólvoras Midga necessárias para fabricar o Míssil Midga <NAVI>[e os traga de volta]<INFO>morocc,32,194,0,101,0</INFO></NAVI>. Pólvora Midga pode ser obtida derrotando Galaring e Lulas-explosivas.",
@@ -71035,70 +71035,70 @@ NpcSpr = [=[4_M_RACHMAN1]]
 	[295259] = {
 		Title = "Passe de Batalha Diário 1",
 		Description = {
-			"Derrote 200 Hydras"
+			"Derrote 3 Sasquatchs"
 		},
-		Summary = "Derrote 200 Hydras"
+		Summary = "Derrote 3 Sasquatchs"
 	},
 	[295260] = {
 		Title = "Passe de Batalha Diário 1",
 		Description = {
-			"Derrote Hydras / Uma vez por dia, reinicia às 04:00"
+			"Derrote Sasquatchs / Uma vez por dia, reinicia às 04:00"
 		},
 		Summary = "Reinicia às 04:00"
 	},
 	[295261] = {
 		Title = "Passe de Batalha Diário 2",
 		Description = {
-			"Derrote 20 Menblatts, 20 Petals."
+			"Derrote Fenrir."
 		},
-		Summary = "Derrote 20 Menblatts, 20 Petals"
+		Summary = "Derrote Fenrir"
 	},
 	[295262] = {
 		Title = "Passe de Batalha Diário 2",
 		Description = {
-			"Derrote Menblatts, Petals / Uma vez por dia, reinicia às 04:00"
+			"Derrote Fenrir / Uma vez por dia, reinicia às 04:00"
 		},
 		Summary = "Reinicia às 04:00"
 	},
 	[295263] = {
 		Title = "Passe de Batalha Diário 3",
 		Description = {
-			"Entregue 15 Hard Feelers"
+			"Entregue 100 Catálogo de vendas Pratas"
 		},
-		Summary = "Entregue 15 Hard Feelers"
+		Summary = "Entregue 100 Catálogo de vendas Pratas"
 	},
 	[295264] = {
 		Title = "Passe de Batalha Diário 3",
 		Description = {
-			"Entregue Hard Feelers / Uma vez por dia, reinicia às 04:00"
+			"Entregue Catálogo de vendas Pratas / Uma vez por dia, reinicia às 04:00"
 		},
 		Summary = "Reinicia às 04:00"
 	},
 	[295265] = {
 		Title = "Passe de Batalha Diário 4",
 		Description = {
-			"Entregue 100 Tentacles"
+			"Entregar 200,000 Zeny"
 		},
-		Summary = "Entregue 100 Tentacles"
+		Summary = "Entregar 200,000 Zeny"
 	},
 	[295266] = {
 		Title = "Passe de Batalha Diário 4",
 		Description = {
-			"Entregue Tentacles / Uma vez por dia, reinicia às 04:00"
+			"Entregar Zeny / Uma vez por dia, reinicia às 04:00"
 		},
 		Summary = "Reinicia às 04:00"
 	},
 	[295267] = {
 		Title = "Passe de Batalha Diário 5",
 		Description = {
-			"Derrote 5 Heart Hunter Ebels"
+			"Derrote 50 Andarilho Polutos"
 		},
-		Summary = "Derrote 5 Heart Hunter Ebels"
+		Summary = "Derrote 50 Andarilho Polutos"
 	},
 	[295268] = {
 		Title = "Passe de Batalha Diário 5",
 		Description = {
-			"Derrote Heart Hunter Ebel / Uma vez por semana, reinicia às 04:00"
+			"Derrote Andarilho Polutos / Uma vez por semana, reinicia às 04:00"
 		},
 		Summary = "Reinicia às 04:00"
 	},

@@ -265,7 +265,10 @@ PetIllustNameTable = {
 	[jobtbl.JT_DARK_LORD2] = "pet_DARK_LORD2.bmp",
 	[jobtbl.JT_MISTRESS3] = "Pet_MISTRESS2.bmp",
 	[jobtbl.JT_TIMEHOLDER3] = "pet_TIMEHOLDER2.bmp",
-	[jobtbl.JT_POURING] = "pet_pouring.bmp"
+	[jobtbl.JT_POURING] = "pet_pouring.bmp",
+	[jobtbl.JT_BLUE_UNICORN] = "pet_BLUE_UNICORN.bmp",
+	[jobtbl.JT_EP17_2_CHILD_ADMIN1] = "child_admin_b.bmp",
+	[jobtbl.JT_EP17_2_CHILD_ADMIN2] = "child_admin_a.bmp"
 }
 PetIllustNameTable_Eng = {
 	[jobtbl.JT_BAPHOMET_] = "PET_BAPHOMET.bmp",

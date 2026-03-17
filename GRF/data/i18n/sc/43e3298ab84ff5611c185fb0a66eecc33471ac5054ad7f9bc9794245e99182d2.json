@@ -8,7 +8,7 @@
     "4VLKBw": {
         "ko": "[테스]\n모험가님. 이곳에서 단독으로 행동하시기에는 아직 다소 위험하실지 모릅니다.",
         "en": "[Franz]\nAdventurer. It may still be somewhat dangerous for you to act alone here.",
-        "pt": "[Franz]\nAventureiro. Pode ser um tanto perigoso agir sozinho neste local.",
+        "pt": "[Philopontess]\nAventureiro. Pode ser um tanto perigoso agir sozinho neste local.",
         "es": "[Franz]\nAventurero. Puede que todavía sea algo peligroso actuar en solitario en este lugar."
     },
     "4lLKBw": {
@@ -20,7 +20,7 @@
     "41LKBw": {
         "ko": "[테스]\n먼저 알파를 만나보신 다음 찻집으로 다시 와주시겠습니까?\n이곳에서 활동하려면 가장 먼저 손님 등록이 필요한 모양입니다.",
         "en": "[Franz]\nCould you meet Alpha first, then come back to the teahouse?\nIt seems you need to register as a guest before you can work here.",
-        "pt": "[Franz]\nPoderia encontrar Alpha primeiro e depois retornar à casa de chá?\nParece que, para atuar aqui, é necessário antes registrar-se como cliente.",
+        "pt": "[Philopontess]\nPoderia encontrar Alpha primeiro e depois retornar à casa de chá?\nParece que, para atuar aqui, é necessário antes registrar-se como cliente.",
         "es": "[Franz]\n¿Podría reunirse primero con Alpha y luego regresar a la casa de té?\nParece que para operar aquí primero es necesario registrarse como cliente."
     },
     "5FLKBw": {
@@ -32,8 +32,8 @@
     "5VLKBw": {
         "ko": "[테스]\n디엔 님, 다시 진위 여부 확인을 부탁드립니다.\n정부에서 용병들이 바르문트 저택에 머물던 시기에 대해 재조사한 서류입니다.",
         "en": "[Franz]\nDien, please verify its authenticity again.\nThese are documents from the government’s reinvestigation into the period when the mercenaries stayed at the Varmundt mansion.",
-        "pt": "[Franz]\nSr. Dien, peço que verifique novamente a autenticidade.\nSão documentos reavaliados pelo governo sobre o período em que os mercenários permaneceram na mansão Varmundt.",
-        "es": "[Franz]\nSeñor Dien, le ruego que vuelva a verificar la autenticidad.\nSon documentos que el gobierno ha vuelto a investigar sobre el período en que los mercenarios permanecieron en la mansión Varmundt."
+        "pt": "[Philopontess]\nSra. Dien, peço que verifique novamente a autenticidade.\nSão documentos reavaliados pelo governo sobre o período em que os mercenários permaneceram na mansão Varmundt.",
+        "es": "[Franz]\nSeñora Dien, le ruego que vuelva a verificar la autenticidad.\nSon documentos que el gobierno ha vuelto a investigar sobre el período en que los mercenarios permanecieron en la mansión Varmundt."
     },
     "5lLKBw": {
         "ko": "[디엔]\n글쎄요… 몇 번씩 진위 여부를 확인하라고 해도.\n우리가 대체 어디까지 협조해 주어야 할지 잘 모르겠군요.",
@@ -56,79 +56,79 @@
     "6VLKBw": {
         "ko": "[테스]\n이번 증빙자료는 납득하실 수 있을 겁니다.\n당시 정부에서 용병들과 대화를 시도했지만 용병들이 대화에 응해 주지 않았다는, 또다른 증거입니다.",
         "en": "[Franz]\nYou should be able to accept this supporting material.\nIt is another piece of evidence that the government tried to speak with the mercenaries at the time, but the mercenaries refused to respond.",
-        "pt": "[Franz]\nCreio que desta vez as provas serão convincentes.\nÉ mais uma evidência de que, na época, o governo tentou dialogar com os mercenários, mas eles se recusaram a conversar.",
+        "pt": "[Philopontess]\nCreio que desta vez as provas serão convincentes.\nÉ mais uma evidência de que, na época, o governo tentou dialogar com os mercenários, mas eles se recusaram a conversar.",
         "es": "[Franz]\nCon estas pruebas podrán quedar convencidos.\nEs otra evidencia de que el gobierno intentó dialogar con los mercenarios en aquel entonces, pero ellos se negaron."
     },
     "6lLKBw": {
         "ko": "[리드쉬]\n그런 일 없었어! 대화하러 온 정부 사람이 아예 없었다니까?\n없어서 없다고 했는데 언제까지 앵무새처럼 진위 여부를 파악해달라고 할 거야?",
         "en": "[Lidsh]\nThat never happened! There was no government person who came to talk at all!\nWe said there was no one because there was no one, so how long are you going to keep asking us like a parrot to verify its authenticity?",
-        "pt": "[Lidsh]\nIsso nunca aconteceu! Não houve sequer um representante do governo que viesse conversar!\nDissemos que não houve porque realmente não houve. Até quando vão repetir como papagaios para verificarmos a autenticidade?",
+        "pt": "[Ridsh]\nIsso nunca aconteceu! Não houve sequer um representante do governo que viesse conversar!\nDissemos que não houve porque realmente não houve. Até quando vão repetir como papagaios para verificarmos a autenticidade?",
         "es": "[Lidsh]\n¡Eso no ocurrió! ¿No ves que no vino nadie del gobierno a hablar?\n¡Decimos que no vinieron porque no vinieron! ¿Hasta cuándo seguirán como loros pidiendo que verifiquemos la autenticidad?"
     },
     "61LKBw": {
         "ko": "[리드쉬]\n우리에게 새로운 서류를 들이대 봤자 똑같아. 거짓말이야!\n몇번이고 거짓이라고 대답해 주었잖아!",
         "en": "[Lidsh]\nIt will be the same no matter what new documents you shove at us. It is a lie!\nWe have answered you over and over that it is false!",
-        "pt": "[Lidsh]\nNão adianta trazer novos documentos para nós. É tudo mentira!\nJá respondemos várias vezes que é falso!",
+        "pt": "[Ridsh]\nNão adianta trazer novos documentos para nós. É tudo mentira!\nJá respondemos várias vezes que é falso!",
         "es": "[Lidsh]\nAunque nos pongan delante nuevos documentos será lo mismo. ¡Son mentiras!\n¡Ya hemos dicho una y otra vez que son falsos!"
     },
     "7FLKBw": {
         "ko": "[테스]\n왜 저희가 일부러 거짓 자료를…!\n아, {0} 님, 언제부터 계셨습니까. 부끄러운 모습을 보여드렸습니다.",
         "en": "[Franz]\nWhy would we deliberately provide false materials…!\nAh, {0}, how long have you been here? I have shown you something shameful.",
-        "pt": "[Franz]\nPor que traríamos provas falsas de propósito…!\nAh, Sr(a). {0}, desde quando está aqui? Peço desculpas por presenciar uma cena tão vergonhosa.",
+        "pt": "[Philopontess]\nPor que traríamos provas falsas de propósito…!\nAh, Sr(a). {0}, desde quando está aqui? Peço desculpas por presenciar uma cena tão vergonhosa.",
         "es": "[Franz]\n¿Por qué íbamos a presentar pruebas falsas a propósito…!\nAh, señor {0}, ¿desde cuándo está aquí? Le hemos mostrado un espectáculo vergonzoso."
     },
     "7VLKBw": {
         "ko": "[테스]\n리벨리온 <NAVI>[원로님]<INFO>ba_in01,203,103,0,101,0</INFO></NAVI>들과 이야기 중입니다만, 과거 사건을 증명하기는 어렵군요….",
         "en": "[Franz]\nI am speaking with the Rebellion <NAVI>[Elder]<INFO>ba_in01,203,103,0,101,0</INFO></NAVI>, but it is difficult to prove the incident from the past….",
-        "pt": "[Franz]\nEstou conversando com os <NAVI>[Anciões]<INFO>ba_in01,203,103,0,101,0</INFO></NAVI> da Rebellion, mas é difícil comprovar os acontecimentos do passado…",
+        "pt": "[Philopontess]\nEstou conversando com as <NAVI>[Anciãs]<INFO>ba_in01,203,103,0,101,0</INFO></NAVI> da Rebellion, mas é difícil comprovar os acontecimentos do passado…",
         "es": "[Franz]\nEstoy conversando con los <NAVI>[Ancianos]<INFO>ba_in01,203,103,0,101,0</INFO></NAVI> de Rebellion, pero es difícil demostrar los hechos del pasado…"
     },
     "7lLKBw": {
         "ko": "[테스]\n리벨리온 <NAVI>[원로님]<INFO>ba_in01,203,103,0,101,0</INFO></NAVI>과 이야기 중입니다만, 어르신들이어서인지 완고하시군요.",
         "en": "[Franz]\nI am speaking with the Rebellion <NAVI>[Elder]<INFO>ba_in01,203,103,0,101,0</INFO></NAVI>, but perhaps because they are elders, they are quite stubborn.",
-        "pt": "[Franz]\nEstou conversando com os <NAVI>[Anciões]<INFO>ba_in01,203,103,0,101,0</INFO></NAVI> da Rebellion, porém, talvez pela idade, mostram-se bastante inflexíveis.",
+        "pt": "[Philopontess]\nEstou conversando com as <NAVI>[Anciãs]<INFO>ba_in01,203,103,0,101,0</INFO></NAVI> da Rebellion, porém, talvez pela idade, mostram-se bastante inflexíveis.",
         "es": "[Franz]\nEstoy hablando con los <NAVI>[Ancianos]<INFO>ba_in01,203,103,0,101,0</INFO></NAVI> de Rebellion, aunque tal vez por su edad resultan bastante obstinados."
     },
     "71LKBw": {
         "ko": "[리드쉬]\n야! 누가 어르신들이라 어쩌고 어째?",
         "en": "[Lidsh]\nHey! Who are you calling an elder and whatnot?",
-        "pt": "[Lidsh]\nEi! Quem você está chamando de velho?",
+        "pt": "[Ridsh]\nEi! Quem você está chamando de velha?",
         "es": "[Lidsh]\n¡Eh! ¿A quién llamas anciano?"
     },
     "8FLKBw": {
         "ko": "[테스]\n저택 관리자에게 가서, 용병들이 바르문트 저택에 머물 때 있었던 일 조사를 부탁드립니다.",
         "en": "[Franz]\nGo to the mansion administrator and ask them to investigate what happened when the mercenaries stayed at the Varmundt mansion.",
-        "pt": "[Franz]\nVá até o administrador da mansão e peça que investigue os acontecimentos do período em que os mercenários permaneceram na mansão Varmundt.",
+        "pt": "[Philopontess]\nVá até o administrador da mansão e peça que investigue os acontecimentos do período em que os mercenários permaneceram na mansão Varmundt.",
         "es": "[Franz]\nVaya con el administrador de la mansión y solicite una investigación sobre lo ocurrido cuando los mercenarios se alojaron en la mansión Varmundt."
     },
     "8VLKBw": {
         "ko": "[테스]\n정부에서 용병들과 대화를 시도했지만 응해 주지 않았다는 증거가 필요합니다. 저희가 준비한 문건으로는 원로님을 설득할 수 없군요.",
         "en": "[Franz]\nWe need evidence that the government tried to speak with the mercenaries, but they refused to respond. We cannot persuade the elder with the documents we prepared.",
-        "pt": "[Franz]\nPrecisamos de provas de que o governo tentou dialogar com os mercenários, mas foi recusado. Com os documentos que preparamos, não conseguimos convencer os anciões.",
+        "pt": "[Philopontess]\nPrecisamos de provas de que o governo tentou dialogar com os mercenários, mas foi recusado. Com os documentos que preparamos, não conseguimos convencer os anciões.",
         "es": "[Franz]\nNecesitamos pruebas de que el gobierno intentó dialogar con los mercenarios pero fue rechazado. Con los documentos que hemos preparado no podemos convencer a los ancianos."
     },
     "8lLKBw": {
         "ko": "테스 : 리드쉬 님의 말씀에 주목해 주십시오.",
         "en": "Franz : Please pay attention to what Lidsh has said.",
-        "pt": "Franz : Por favor, atentem às palavras de Lidsh.",
+        "pt": "Philopontess: Por favor, atentem às palavras de Ridsh.",
         "es": "Franz : Por favor, presten atención a las palabras del señor Lidsh."
     },
     "81LKBw": {
         "ko": "테스 : 기업의 카야 토스 님이 하실 말씀이 있으신 모양입니다.",
         "en": "Franz : It seems Kaya Tos of the company has something to say.",
-        "pt": "Franz : Parece que o Sr. Kaya Tos, da corporação, tem algo a dizer.",
+        "pt": "Philopontess: Parece que o Sr. Kaya Tos, da corporação, tem algo a dizer.",
         "es": "Franz : Parece que el señor Kaya Tos de la corporación desea decir algo."
     },
     "9FLKBw": {
         "ko": "테스 : 결국 저희 모두 기업의 손에서 놀아나고 있었군요.",
         "en": "Franz : So in the end, all of us were being played in the palm of the corporations’ hands.",
-        "pt": "Franz : No fim das contas, todos nós estávamos sendo manipulados pela corporação.",
+        "pt": "Philopontess: No fim das contas, todos nós estávamos sendo manipulados pela corporação.",
         "es": "Franz : Al final, todos estábamos siendo manejados por la corporación."
     },
     "9VLKBw": {
         "ko": "테스 : 모험가님, 여러 모로 도움 주셔서 감사드립니다.",
         "en": "Franz : Adventurer, thank you for all your help.",
-        "pt": "Franz : Aventureiro, agradecemos sinceramente por toda a sua ajuda.",
+        "pt": "Philopontess: Aventureiro, agradecemos sinceramente por toda a sua ajuda.",
         "es": "Franz : Aventurero, le agradezco sinceramente toda su ayuda."
     },
     "9lLKBw": {
@@ -164,37 +164,37 @@
     "+1LKBw": {
         "ko": "[테스]\n…다른 방법이라뇨, 기록을 조사해 보고서를 쓰는 일 말고 무슨 다른 방법이 있겠습니까.\n무조건 정부에서 만든 보고서는 믿지 못하겠다 하지 않으십니까.",
         "en": "[Franz]\n…Another way? Other than investigating the records and writing a report, what other way could there be?\nYou insist that we cannot trust any report made by the government.",
-        "pt": "[Franz]\n…Outro método? Além de investigar registros e redigir relatórios, que outro método poderia haver?\nOs senhores não afirmam que não podem confiar em relatórios produzidos pelo governo?",
+        "pt": "[Philopontess]\n…Outro método? Além de investigar registros e redigir relatórios, que outro método poderia haver?\nAs senhoras não afirmam que não podem confiar em relatórios produzidos pelo governo?",
         "es": "[Franz]\n…¿Otro método? Aparte de investigar los registros y redactar informes, ¿qué otra opción hay?\n¿Acaso no dicen que no pueden confiar en ningún informe elaborado por el gobierno?"
     },
     "/FLKBw": {
         "ko": "[루키]\n잠시, 제 이야기를 좀 들어 주시겠어요?",
         "en": "[Rookie]\nWait a moment, could you listen to what I have to say?",
-        "pt": "[Rookie]\nCom licença, poderiam ouvir o que tenho a dizer?",
+        "pt": "[Lukie]\nCom licença, poderiam ouvir o que tenho a dizer?",
         "es": "[Rookie]\nUn momento, ¿podrían escucharme un instante?"
     },
     "/VLKBw": {
         "ko": "[루키]\n요컨데 문제는, 기록 자체의 신빙성 아닌가요?\n거기에서부터 의견이 엇갈리니 그 기록을 아무리 활용해도 합의를 이끌어낼 수 없는 거잖아요.",
         "en": "[Rookie]\nIn short, is the problem not the credibility of the records themselves?\nSince your opinions diverge from that point, no matter how much you use those records, you cannot reach an agreement.",
-        "pt": "[Rookie]\nEm suma, o problema não está na credibilidade dos próprios registros?\nSe já há divergência nesse ponto, não importa o quanto usem esses registros, nunca chegarão a um consenso.",
+        "pt": "[Lukie]\nEm suma, o problema não está na credibilidade dos próprios registros?\nSe já há divergência nesse ponto, não importa o quanto usem esses registros, nunca chegarão a um consenso.",
         "es": "[Rookie]\nEn resumen, el problema no es la fiabilidad de los propios registros?\nSi desde ahí ya hay desacuerdo, por mucho que los utilicen no podrán alcanzar un consenso."
     },
     "/lLKBw": {
         "ko": "[테스]\n…결과적으론 그렇게 되었지요.",
         "en": "[Franz]\n…In the end, that is what happened.",
-        "pt": "[Franz]\n…No fim, foi exatamente isso que aconteceu.",
+        "pt": "[Philopontess]\n…No fim, foi exatamente isso que aconteceu.",
         "es": "[Franz]\n…En efecto, el resultado ha sido ese."
     },
     "/1LKBw": {
         "ko": "[루키]\n그렇다면 정부의 기록에 의지하지 않고, 이곳에서 정말로 일어났던 사건들에 대해 알아보면 어떨까요?",
         "en": "[Rookie]\nThen how about we do not rely on the government’s records, and instead learn about what truly happened here?",
-        "pt": "[Rookie]\nEntão, que tal investigar o que realmente ocorreu aqui, sem depender dos registros do governo?",
+        "pt": "[Lukie]\nEntão, que tal investigar o que realmente ocorreu aqui, sem depender dos registros do governo?",
         "es": "[Rookie]\nEntonces, ¿qué tal si en lugar de depender de los registros del gobierno investigamos los hechos que realmente ocurrieron aquí?"
     },
     "AFPKBw": {
         "ko": "[루키]\n여기야말로 용병전쟁의 근거지인데 직접 발로 뛰어 보면 지금까지 보이지 않던 것들이 보일지도 모르잖아요.",
         "en": "[Rookie]\nThis is the very base of the Mercenary War, so if we investigate in person, we might see things we have not been able to see until now.",
-        "pt": "[Rookie]\nEste é o próprio reduto da Guerra dos Mercenários. Se investigarmos pessoalmente, talvez descubramos o que até agora não foi visto.",
+        "pt": "[Lukie]\nEste é o próprio reduto da Guerra dos Mercenários. Se investigarmos pessoalmente, talvez descubramos o que até agora não foi visto.",
         "es": "[Rookie]\nEste es el bastión de la Guerra de Mercenarios. Si investigamos sobre el terreno, quizá veamos cosas que hasta ahora pasaron desapercibidas."
     },
     "AVPKBw": {
@@ -206,7 +206,7 @@
     "AlPKBw": {
         "ko": "[루키]\n음, 이곳에서 일어난 일을 정확하고 생생하게 기억하고 있을 만한 사람이 누가 있을까요?",
         "en": "[Rookie]\nHmm, who here might remember what happened accurately and vividly?",
-        "pt": "[Rookie]\nHum, quem poderia se lembrar com precisão e vividez do que aconteceu aqui?",
+        "pt": "[Lukie]\nHum, quem poderia se lembrar com precisão e vividez do que aconteceu aqui?",
         "es": "[Rookie]\nHmm, ¿quién podría recordar con exactitud y viveza lo que sucedió aquí?"
     },
     "A1PKBw": {
@@ -224,25 +224,25 @@
     "BVPKBw": {
         "ko": "[루키]\n모험가님, 청소 로봇은 필요한 말만 하잖아요.\n아하, 그렇지. 저택 관리자들이라면 기억하고 있겠어요!",
         "en": "[Rookie]\nAdventurer, Cleaning Robot only says what is necessary.\nAh, right. The mansion administrators would remember!",
-        "pt": "[Rookie]\nAventureiro, o Robô de Limpeza só diz o que é necessário.\nAh, claro. Os administradores da mansão certamente se lembrarão!",
+        "pt": "[Lukie]\nAventureiro, o Robô de Limpeza só diz o que é necessário.\nAh, claro. Os administradores da mansão certamente se lembrarão!",
         "es": "[Rookie]\nAventurero, Robot de Limpieza solo dice lo necesario.\n¡Ah, claro! ¡Los administradores de la mansión lo recordarán!"
     },
     "BlPKBw": {
         "ko": "[루키]\n그래요, 바르문트 저택 관리자들!\n사람이 아니지만, 그러므로 더 중립적인 자료를 가지고 있겠지요.",
         "en": "[Rookie]\nYes, the Varmundt mansion administrators!\nThey are not people, so they would have even more neutral information.",
-        "pt": "[Rookie]\nIsso mesmo, os administradores da mansão Varmundt!\nNão são humanos, portanto devem possuir registros ainda mais neutros.",
+        "pt": "[Lukie]\nIsso mesmo, os administradores da mansão Varmundt!\nNão são humanos, portanto devem possuir registros ainda mais neutros.",
         "es": "[Rookie]\nAsí es, ¡los administradores de la mansión Varmundt!\nNo son humanos, así que seguramente posean información más neutral."
     },
     "B1PKBw": {
         "ko": "[리드쉬]\n루키, 너는 우리 말을 뭘로 듣고 정부 인사 편을 들어?",
         "en": "[Lidsh]\nRookie, what do you take our words for, taking the government’s side?",
-        "pt": "[Lidsh]\nRookie, como ousa ignorar nossas palavras e tomar o partido do governo?",
+        "pt": "[Ridsh]\nLukie, como ousa ignorar nossas palavras e tomar o partido do governo?",
         "es": "[Lidsh]\nRookie, ¿cómo puedes escuchar nuestras palabras y aun así ponerte del lado del gobierno?"
     },
     "CFPKBw": {
         "ko": "[테스]\n일리있는 의견입니다. 하지만… 누가 이 일을 맡을 수 있겠습니까?\n제가 하겠다고 하면, 믿지 않으시겠지요.",
         "en": "[Franz]\nThat is a reasonable point. But... who could take on this task?\nIf I said I would do it, you would not believe me, would you?",
-        "pt": "[Franz]\nÉ uma opinião razoável. Contudo… quem poderia assumir essa tarefa?\nSe eu me oferecesse, não acreditariam em mim.",
+        "pt": "[Philopontess]\nÉ uma opinião razoável. Contudo… quem poderia assumir essa tarefa?\nSe eu me oferecesse, não acreditariam em mim.",
         "es": "[Franz]\nEs una opinión razonable. Pero… ¿quién podría encargarse de esto?\nSi me ofreciera yo, no confiarían en mí."
     },
     "CVPKBw": {
@@ -260,7 +260,7 @@
     "C1PKBw": {
         "ko": "[테스]\n그렇다고 원로님들께서 직접 조사하러 나서지도 않으실 테고….\n모험가님, 맡아 주실 분은 모험가님밖에 없군요.",
         "en": "[Franz]\nEven so, the elders will not go out to investigate in person....\nAdventurer, it seems you are the only one who can take this on.",
-        "pt": "[Franz]\nAinda assim, os anciões não sairão pessoalmente para investigar…\nAventureiro, não há ninguém mais adequado do que você para assumir essa tarefa.",
+        "pt": "[Philopontess]\nAinda assim, as anciãs não sairão pessoalmente para investigar…\nAventureiro, não há ninguém mais adequado do que você para assumir essa tarefa.",
         "es": "[Franz]\nAun así, los ancianos tampoco saldrán a investigar por su cuenta…\nAventurero, no hay nadie más que usted para asumir esta tarea."
     },
     "DFPKBw": {
@@ -278,19 +278,19 @@
     "DlPKBw": {
         "ko": "[테스]\n여러 세력이 움직이고 있는 이곳에서 중립적 존재이신 모험가님의 존재는 무척 귀중하군요.",
         "en": "[Franz]\nIn a place where many factions are in motion, the presence of an Adventurer such as yourself, who is a neutral party, is very valuable.",
-        "pt": "[Franz]\nEm um lugar onde tantas facções se movimentam, a presença de um Aventureiro neutro é extremamente valiosa.",
+        "pt": "[Philopontess]\nEm um lugar onde tantas facções se movimentam, a presença de um Aventureiro neutro é extremamente valiosa.",
         "es": "[Franz]\nEn un lugar donde tantas facciones están en movimiento, la neutralidad de un aventurero es sumamente valiosa."
     },
     "D1PKBw": {
         "ko": "[테스]\n모험가님, 저택 관리자분들께 가서 과거 용병들이 바르문트 저택에 머무르던 시기에 대한 일을 파악해 주시겠습니까.",
         "en": "[Franz]\nAdventurer, could you go to the mansion administrators and find out about the time when the mercenaries stayed at the Varmundt mansion?",
-        "pt": "[Franz]\nAventureiro, poderia ir até os administradores da mansão e verificar os acontecimentos do período em que os mercenários permaneceram na mansão Varmundt?",
+        "pt": "[Philopontess]\nAventureiro, poderia ir até os administradores da mansão e verificar os acontecimentos do período em que os mercenários permaneceram na mansão Varmundt?",
         "es": "[Franz]\nAventurero, ¿podría ir a ver a los administradores de la mansión y averiguar lo ocurrido durante el período en que los mercenarios se alojaron en la mansión Varmundt?"
     },
     "EFPKBw": {
         "ko": "[테스]\n저희가 원하는 증거를 찾아 주신다면 좋겠지만 그게 아니라도 좋습니다.\n무엇이든 이야기를 들어 보시고 의미있는 정보를 가져와 주십시오.",
         "en": "[Franz]\nIt would be good if you could find the evidence we want, but it is fine even if you cannot.\nListen to whatever they have to say, and bring back any meaningful information.",
-        "pt": "[Franz]\nSeria ótimo se encontrasse as provas que buscamos, mas mesmo que não sejam exatamente essas, tudo bem.\nOuça o que tiverem a dizer e traga qualquer informação relevante.",
+        "pt": "[Philopontess]\nSeria ótimo se encontrasse as provas que buscamos, mas mesmo que não sejam exatamente essas, tudo bem.\nOuça o que tiverem a dizer e traga qualquer informação relevante.",
         "es": "[Franz]\nNos gustaría que encontrara la prueba que buscamos, pero incluso si no es así.\nEscuche todo lo que pueda y tráiganos cualquier información significativa."
     },
     "EVPKBw": {
@@ -308,7 +308,7 @@
     "E1PKBw": {
         "ko": "[테스]\n바쁘시거나 사정이 있으십니까? 부탁드린 일이 마음에 안 차시는지요?\n어쩔수 없군요. 의욕은 강제로 만들 수 없으니 말입니다.",
         "en": "[Franz]\nAre you busy, or do you have some circumstances? Are you dissatisfied with what we asked?\nIt cannot be helped. Motivation cannot be forced, after all.",
-        "pt": "[Franz]\nEstá ocupado ou há algum impedimento? Não ficou satisfeito com o pedido?\nNão há o que fazer. Não se pode forçar a vontade de alguém.",
+        "pt": "[Philopontess]\nEstá ocupado ou há algum impedimento? Não ficou satisfeito com o pedido?\nNão há o que fazer. Não se pode forçar a vontade de alguém.",
         "es": "[Franz]\n¿Está ocupado o tiene algún inconveniente? ¿No le satisface la tarea que le pedimos?\nNo se puede forzar la voluntad de nadie."
     },
     "FFPKBw": {
@@ -326,7 +326,7 @@
     "FlPKBw": {
         "ko": "디엔 : 리드쉬의 이야기에 귀를 기울여 주겠어요?",
         "en": "Dien : Will you listen to what Lidsh has to say?",
-        "pt": "Dien : Poderia dar atenção às palavras de Lidsh?",
+        "pt": "Dien : Poderia dar atenção às palavras de Ridsh?",
         "es": "Dien : ¿Podría prestar atención a lo que dice Lidsh?"
     },
     "F1PKBw": {
@@ -350,25 +350,25 @@
     "GlPKBw": {
         "ko": "리드쉬",
         "en": "Lidsh",
-        "pt": "Lidsh",
+        "pt": "Ridsh",
         "es": "Lidsh"
     },
     "G1PKBw": {
         "ko": "[리드쉬]\n우리를 꽉 막혔다고 생각하지는 않길 바라.",
         "en": "[Lidsh]\nI hope you do not think we are completely closed-minded.",
-        "pt": "[Lidsh]\nEspero que não pense que somos teimosos.",
+        "pt": "[Ridsh]\nEspero que não pense que somos teimosos.",
         "es": "[Lidsh]\nEspero que no pienses que somos cerrados de mente."
     },
     "HFPKBw": {
         "ko": "[리드쉬]\n네가 해 온 조사라면 들어 보도록 하지. 정확한 사실만 취합해 오도록 해.",
         "en": "[Lidsh]\nThen I will hear the results of your investigation. Bring me only the exact facts.",
-        "pt": "[Lidsh]\nSe foi você quem investigou, então ouviremos. Traga apenas fatos precisos.",
+        "pt": "[Ridsh]\nSe foi você quem investigou, então ouviremos. Traga apenas fatos precisos.",
         "es": "[Lidsh]\nSi es una investigación realizada por ti, la escucharemos. Reúne únicamente hechos precisos."
     },
     "HVPKBw": {
         "ko": "[리드쉬]\n그 수상한 용병에 대한 다른 내용이 있어?",
         "en": "[Lidsh]\nDo you have any other information about that suspicious Mercenary?",
-        "pt": "[Lidsh]\nHá mais alguma informação sobre aquele Mercenário suspeito?",
+        "pt": "[Ridsh]\nHá mais alguma informação sobre aquele Mercenário suspeito?",
         "es": "[Lidsh]\n¿Hay algo más sobre ese sospechoso Mercenario?"
     },
     "HlPKBw": {
@@ -380,13 +380,13 @@
     "H1PKBw": {
         "ko": "[테스]\n용병 분들이 보기에도 그는 미심쩍은 면이 있었군요.\n그러나 일부 사람들만이 그 사실을 알았고, 기본적으로 서로를 굳게 믿고 있었기 때문에 전체적인 행적이 드러나지 않은 것으로 보입니다.",
         "en": "[Franz]\nEven to the Mercenary, he seemed suspicious.\nHowever, it seems that only a few people knew that fact, and since they basically trusted one another firmly, his overall actions were not revealed.",
-        "pt": "[Franz]\nAo que parece, mesmo entre os Mercenário, ele despertava suspeitas.\nNo entanto, apenas alguns sabiam disso e, como havia confiança mútua, suas ações não vieram totalmente à tona.",
+        "pt": "[Philopontess]\nAo que parece, mesmo entre os Mercenário, ele despertava suspeitas.\nNo entanto, apenas alguns sabiam disso e, como havia confiança mútua, suas ações não vieram totalmente à tona.",
         "es": "[Franz]\nIncluso para los Mercenario, él parecía sospechoso.\nSin embargo, solo unos pocos conocían ese hecho y, como en general confiaban firmemente unos en otros, sus movimientos no salieron a la luz."
     },
     "IFPKBw": {
         "ko": "[리드쉬]\n그건 전적으로 용병들의 실수야.\n좀더 의심하고 파고들었다면 알 수 있었을 텐데.",
         "en": "[Lidsh]\nThat is entirely the mercenaries' mistake.\nIf they had been more suspicious and dug deeper, they would have known.",
-        "pt": "[Lidsh]\nIsso foi inteiramente falha dos mercenários.\nSe tivessem desconfiado e investigado mais a fundo, teriam descoberto.",
+        "pt": "[Ridsh]\nIsso foi inteiramente falha dos mercenários.\nSe tivessem desconfiado e investigado mais a fundo, teriam descoberto.",
         "es": "[Lidsh]\nEso fue totalmente un error de los mercenarios.\nSi hubieran sospechado más y profundizado, lo habrían descubierto."
     },
     "IVPKBw": {
@@ -398,19 +398,19 @@
     "IlPKBw": {
         "ko": "[테스]\n하지만 지금이라도 그 당시의 정황을 알게 되어서 다행입니다.\n그렇군요. 이게 진실이었습니다. 정부에서는 도움의 손길을 보냈지만, 모두 기업에 차단당했습니다…",
         "en": "[Franz]\nStill, I am glad we learned the circumstances from back then, even now.\nI see. This was the truth. The government sent a helping hand, but all of it was blocked by the corporation...",
-        "pt": "[Franz]\nAinda assim, é um alívio conhecer agora as circunstâncias daquele tempo.\nEntão era essa a verdade. O governo enviou ajuda, mas tudo foi bloqueado pela corporação…",
+        "pt": "[Philopontess]\nAinda assim, é um alívio conhecer agora as circunstâncias daquele tempo.\nEntão era essa a verdade. O governo enviou ajuda, mas tudo foi bloqueado pela corporação…",
         "es": "[Franz]\nPero aun así, es una suerte haber conocido ahora las circunstancias de aquel entonces.\nAsí que esta era la verdad. El gobierno envió ayuda, pero fue bloqueada por la corporación…"
     },
     "I1PKBw": {
         "ko": "[디엔]\n여러분이 거짓 증거를 만들어낸 것이 아니었네요. 당신들도 진실을 모르고 있었던 것뿐.\n그동안 여러분의 이야기를 듣지 않으려 했던 것, 사과드리겠습니다.",
         "en": "[Dien]\nSo you were not fabricating false evidence. You simply did not know the truth, either.\nI apologize for having refused to listen to your story all this time.",
-        "pt": "[Dien]\nEntão vocês não forjaram provas. Vocês também não conheciam a verdade.\nPeço desculpas por não termos querido ouvir o que tinham a dizer até agora.",
+        "pt": "[Dien]\nEntão vocês não forjaram provas. Vocês também não conheciam a verdade.\nPeço desculpas por nos recusarmos a ouvir o que tinham a dizer até agora.",
         "es": "[Dien]\nEntonces no fabricaron pruebas falsas. Simplemente ustedes tampoco conocían la verdad.\nMe disculpo por no haber querido escucharles hasta ahora."
     },
     "JFPKBw": {
         "ko": "[테스]\n저희들 역시 원로님들의 이야기를 믿지 않고 저희가 가져온 증거만을 밀어붙인 점에 대해 죄송하게 생각합니다.",
         "en": "[Franz]\nWe also feel sorry that we did not believe the elders' words and only pushed the evidence we brought.",
-        "pt": "[Franz]\nNós também pedimos desculpas por não acreditar nas palavras dos anciões e insistir apenas nas provas que trouxemos.",
+        "pt": "[Philopontess]\nNós também pedimos desculpas por não acreditar nas palavras das anciãs e insistir apenas nas provas que trouxemos.",
         "es": "[Franz]\nNosotros también lamentamos no haber confiado en las palabras de los ancianos y haber insistido solo en las pruebas que trajimos."
     },
     "JVPKBw": {
@@ -446,7 +446,7 @@
     "KlPKBw": {
         "ko": "[카야 토스]\n용병 반란 시절, 긴 출장을 떠났다 돌아온 것으로 기록에 남아 있는 자입니다.\n하지만 어디로 출장을 갔는지에 대해서는 제대로 기록되지 않은 채 얼버무려져 있습니다.",
         "en": "[Kaya Tos]\nDuring the Mercenary rebellion, he is recorded as having gone on a long business trip and returned.\nHowever, where he went on that business trip is glossed over without being properly recorded.",
-        "pt": "[Kaya Tos]\nDurante a rebelião dos Mercenário, consta nos registros que essa pessoa retornou de uma longa viagem de negócios.\nNo entanto, o destino dessa viagem não está devidamente registrado, sendo tratado de forma vaga.",
+        "pt": "[Kaya Tos]\nDurante a rebelião dos Mercenários, consta nos registros que essa pessoa retornou de uma longa viagem de negócios.\nNo entanto, o destino dessa viagem não está devidamente registrado, sendo tratado de forma vaga.",
         "es": "[Kaya Tos]\nDurante la rebelión de Mercenario, consta en los registros que partió en un largo viaje de negocios y luego regresó.\nSin embargo, el destino de ese viaje no quedó claramente registrado y fue tratado de manera ambigua."
     },
     "K1PKBw": {
@@ -476,19 +476,19 @@
     "L1PKBw": {
         "ko": "리드쉬 : 기업 사람이 뭔가 말하는데.",
         "en": "Lidsh : Someone from the corporation is saying something.",
-        "pt": "Lidsh : A pessoa da corporação tem algo a dizer.",
+        "pt": "Ridsh : A pessoa da corporação tem algo a dizer.",
         "es": "Lidsh : El de la corporación parece querer decir algo."
     },
     "MFPKBw": {
         "ko": "리드쉬 : 지금은 할 말 없어.",
         "en": "Lidsh : I have nothing to say right now.",
-        "pt": "Lidsh : No momento, não tenho nada a dizer.",
+        "pt": "Ridsh : No momento, não tenho nada a dizer.",
         "es": "Lidsh : Ahora no tengo nada que decir."
     },
     "MVPKBw": {
         "ko": "리드쉬 : 차 마실래? 원한다면 과자도 있어, 여기.",
         "en": "Lidsh : Would you like some tea? If you want, I have some snacks too, here.",
-        "pt": "Lidsh : Quer chá? Se quiser, também tenho biscoitos aqui.",
+        "pt": "Ridsh : Quer chá? Se quiser, também tenho biscoitos aqui.",
         "es": "Lidsh : ¿Quieres té? Si quieres, también hay galletas aquí."
     },
     "MlPKBw": {
@@ -512,7 +512,7 @@
     "NVPKBw": {
         "ko": "코트네스 : 리드쉬가 할 말이 있는 모양이에요.",
         "en": "Cotnes : It seems Lidsh has something to say.",
-        "pt": "Cotnes : Parece que Lidsh tem algo a dizer.",
+        "pt": "Cotnes : Parece que Ridsh tem algo a dizer.",
         "es": "Cotnes : Parece que Lidsh tiene algo que decir."
     },
     "NlPKBw": {
@@ -542,19 +542,19 @@
     "OlPKBw": {
         "ko": "[루키]\n관리자 분들이라면 용병전쟁의 진실을 알고 있겠지요.\n모두 자동인형이니 잘못 기억하거나 거짓을 말하지도 않을 테고요.",
         "en": "[Rookie]\nIf they are administrators, they must know the truth of the Mercenary War.\nAnd since they are all automatons, they will not misremember or speak falsely, either.",
-        "pt": "[Rookie]\nSe forem os administradores, certamente conhecem a verdade da Guerra dos Mercenários.\nComo são todos autômatos, não podem se enganar nem mentir.",
+        "pt": "[Lukie]\nSe forem os administradores, certamente conhecem a verdade da Guerra dos Mercenários.\nComo são todos autômatos, não podem se enganar nem mentir.",
         "es": "[Rookie]\nSi son los administradores, seguramente conocerán la verdad sobre la Guerra de Mercenarios.\nAl ser autómatas, no recordarán mal ni dirán mentiras."
     },
     "O1PKBw": {
         "ko": "[루키]\n그 당시의 이야기를 듣고 와 주세요, 모험가님.",
         "en": "[Rookie]\nPlease go and hear the story from that time, Adventurer.",
-        "pt": "[Rookie]\nPor favor, vá ouvir o que aconteceu naquela época, Aventureiro.",
+        "pt": "[Lukie]\nPor favor, vá ouvir o que aconteceu naquela época, Aventureiro.",
         "es": "[Rookie]\nPor favor, vaya a escuchar lo que ocurrió en aquel entonces, aventurero."
     },
     "PFPKBw": {
         "ko": "[루키]\n관리자들에게 충분히 이야기를 듣고 오셨나요?\n모험가님이 듣고 오신 사실에 대해, 이제 말씀해 주세요.",
         "en": "[Rookie]\nHave you heard enough from the administrators?\nNow, please tell me about the facts you heard, Adventurer.",
-        "pt": "[Rookie]\nConseguiu ouvir tudo o que os administradores tinham a dizer?\nAgora, conte-nos sobre os fatos que apurou.",
+        "pt": "[Lukie]\nConseguiu ouvir tudo o que os administradores tinham a dizer?\nAgora, conte-nos sobre os fatos que apurou.",
         "es": "[Rookie]\n¿Ha hablado lo suficiente con los administradores?\nAhora cuéntenos lo que ha averiguado, aventurero."
     },
     "PVPKBw": {
@@ -566,7 +566,7 @@
     "PlPKBw": {
         "ko": "[루키]\n갑자기 시신이라니, 그게 무슨 말씀이세요?",
         "en": "[Rookie]\nA corpse, all of a sudden... What do you mean?",
-        "pt": "[Rookie]\nUm cadáver, de repente? O que quer dizer com isso?",
+        "pt": "[Lukie]\nUm cadáver, de repente? O que quer dizer com isso?",
         "es": "[Rookie]\n¿Un cadáver de repente? ¿Qué quiere decir?"
     },
     "P1PKBw": {
@@ -584,19 +584,19 @@
     "QVPKBw": {
         "ko": "[리드쉬]\n정말 용병이 아닌 것 같은데… 이런 사람이 왜 바르문트 저택 가까운 곳까지 와서 살해당한 거지.",
         "en": "[Lidsh]\nIt really does not seem to be Mercenary... Why would someone like this come all the way near the Varmundt mansion, only to be murdered?",
-        "pt": "[Lidsh]\nRealmente não parece ser um Mercenário… Por que alguém assim foi morto tão perto da mansão Varmundt?",
+        "pt": "[Ridsh]\nRealmente não parece ser um Mercenário… Por que alguém assim foi morto tão perto da mansão Varmundt?",
         "es": "[Lidsh]\nRealmente no parece un Mercenario… ¿Por qué alguien así fue asesinado tan cerca de la mansión Varmundt?"
     },
     "QlPKBw": {
         "ko": "[테스]\n잠깐… 저에게도 자료를 좀 보여주십시오.",
         "en": "[Franz]\nWait... Please show me the materials as well.",
-        "pt": "[Franz]\nEspere… mostre-me esses dados também.",
+        "pt": "[Philopontess]\nEspere… mostre-me esses dados também.",
         "es": "[Franz]\nUn momento… Permítame ver esos documentos."
     },
     "Q1PKBw": {
         "ko": "[테스]\n………………\n………………",
         "en": "[Franz]\n………………\n………………",
-        "pt": "[Franz]\n………………\n………………",
+        "pt": "[Philopontess]\n………………\n………………",
         "es": "[Franz]\n………………\n………………"
     },
     "RFPKBw": {
@@ -608,25 +608,25 @@
     "RVPKBw": {
         "ko": "[테스]\n이 사람으로 추정되는 사람을 저희가 알고 있습니다.\n정부에서 대화를 위해 용병들에게 보냈던 위원들 중 한 명입니다.",
         "en": "[Franz]\nWe know who this person is believed to be.\nHe is one of the commissioners the government sent to the mercenaries to talk.",
-        "pt": "[Franz]\nAcreditamos saber quem essa pessoa pode ser.\nÉ um dos membros enviados pelo governo para dialogar com os mercenários.",
+        "pt": "[Philopontess]\nAcreditamos saber quem essa pessoa pode ser.\nÉ um dos membros enviados pelo governo para dialogar com os mercenários.",
         "es": "[Franz]\nConocemos a una persona que se presume es este individuo.\nEra uno de los delegados que el gobierno envió a los mercenarios para dialogar."
     },
     "RlPKBw": {
         "ko": "[테스]\n용병들에게 파견된 뒤 돌아오지 않아, 실종자로 처리되었다고 적혀 있습니다.\n그런데 바르문트 저택에서 시신으로 발견되다니.",
         "en": "[Franz]\nIt says that after being dispatched to the mercenaries, he never returned and was listed as missing.\nBut to be found as a corpse at the Varmundt mansion...",
-        "pt": "[Franz]\nApós ser enviado aos mercenários, consta que não retornou e foi dado como desaparecido.\nMas pensar que foi encontrado como cadáver na mansão Varmundt.",
+        "pt": "[Philopontess]\nApós ser enviado aos mercenários, consta que não retornou e foi dado como desaparecido.\nMas pensar que foi encontrado como cadáver na mansão Varmundt.",
         "es": "[Franz]\nTras ser enviado a los mercenarios no regresó y fue registrado como desaparecido.\nY ahora resulta que fue hallado como cadáver en la mansión Varmundt."
     },
     "R1PKBw": {
         "ko": "[루키]\n이걸… 어떻게 설명해야 하죠?\n용병들을 만나러 간 정부 인사가, 용병들을 채 만나기도 전에 살해당했다…",
         "en": "[Rookie]\nHow... am I supposed to explain this?\nA government official who went to meet the mercenaries was murdered before even meeting them...",
-        "pt": "[Rookie]\nComo… podemos explicar isso?\nUm representante do governo que foi encontrar os mercenários, morto antes mesmo de conseguir falar com eles…",
+        "pt": "[Lukie]\nComo… podemos explicar isso?\nUm representante do governo que foi encontrar os mercenários, morto antes mesmo de conseguir falar com eles…",
         "es": "[Rookie]\nEsto… ¿cómo deberíamos interpretarlo?\nUn funcionario del gobierno que fue a reunirse con los mercenarios, asesinado antes siquiera de encontrarse con ellos…"
     },
     "SFPKBw": {
         "ko": "[루키]\n이건, 누구의 짓일까요.",
         "en": "[Rookie]\nWho could have done this?",
-        "pt": "[Rookie]\nQuem poderia ter feito isso?",
+        "pt": "[Lukie]\nQuem poderia ter feito isso?",
         "es": "[Rookie]\n¿Quién pudo haber hecho algo así?"
     },
     "SVPKBw": {
@@ -650,25 +650,25 @@
     "TFPKBw": {
         "ko": "[루키]\n…증거가 없어요, 모험가님.\n심증 뿐이네요.",
         "en": "[Rookie]\n...There is no evidence, Adventurer.\nIt is only suspicion.",
-        "pt": "[Rookie]\n…Não há provas, Aventureiro.\nApenas suspeitas.",
+        "pt": "[Lukie]\n…Não há provas, Aventureiro.\nApenas suspeitas.",
         "es": "[Rookie]\n…No hay pruebas, aventurero.\nSolo sospechas."
     },
     "TVPKBw": {
         "ko": "[루키]\n좀더 신중하게 이야기해야 할 것 같아요.",
         "en": "[Rookie]\nI think we should speak more carefully.",
-        "pt": "[Rookie]\nPrecisamos falar com mais cautela.",
+        "pt": "[Lukie]\nPrecisamos falar com mais cautela.",
         "es": "[Rookie]\nCreo que debemos hablar con más cautela."
     },
     "TlPKBw": {
         "ko": "[테스]\n정부에서 보낸 사람을 왜 정부에서 죽인단 말입니까?",
         "en": "[Franz]\nWhy would the government kill someone the government sent?",
-        "pt": "[Franz]\nPor que o governo mataria alguém que ele próprio enviou?",
+        "pt": "[Philopontess]\nPor que o governo mataria alguém que ele próprio enviou?",
         "es": "[Franz]\n¿Por qué el propio gobierno mataría a alguien que él mismo envió?"
     },
     "T1PKBw": {
         "ko": "[테스]\n설령 반대파의 짓이라 해도, 용병들의 눈을 피해 하필 바르문트 저택에서 살인을 저지르기는 어려웠을 겁니다.",
         "en": "[Franz]\nEven if it was done by the opposition, it would have been difficult to commit a murder at the Varmundt mansion while avoiding the mercenaries' eyes.",
-        "pt": "[Franz]\nMesmo que fosse obra de uma facção opositora, seria difícil cometer um assassinato na mansão Varmundt sem que os mercenários percebessem.",
+        "pt": "[Philopontess]\nMesmo que fosse obra de uma facção opositora, seria difícil cometer um assassinato na mansão Varmundt sem que os mercenários percebessem.",
         "es": "[Franz]\nIncluso si hubiera sido obra de una facción opositora, habría sido difícil cometer un asesinato en la mansión Varmundt sin que los mercenarios lo notaran."
     },
     "UFPKBw": {
@@ -686,7 +686,7 @@
     "UlPKBw": {
         "ko": "[루키]\n용병들의 눈을 피해 바르문트 저택에서 일을 저지르기는 어려웠을 거예요.\n하지만, 용병들은 범인이 아니겠죠.",
         "en": "[Rookie]\nIt would have been difficult to do it at the Varmundt mansion while avoiding the mercenaries' eyes.\nBut the mercenaries are not the culprit, right?",
-        "pt": "[Rookie]\nSeria difícil agir na mansão Varmundt sem que os mercenários percebessem.\nMas, ainda assim, provavelmente eles não são os culpados.",
+        "pt": "[Lukie]\nSeria difícil agir na mansão Varmundt sem que os mercenários percebessem.\nMas, ainda assim, provavelmente eles não são os culpados.",
         "es": "[Rookie]\nHabría sido difícil actuar en la mansión Varmundt sin que los mercenarios lo notaran.\nPero aun así, ellos no deben de ser los culpables."
     },
     "U1PKBw": {
@@ -728,13 +728,13 @@
     "WVPKBw": {
         "ko": "[루키]\n…하지만 증거가 아무 것도 없네요.\n지금은 심증만 가지고는 이야기할 수 없는 단계네요. 증거가 필요해요, 모험가님.",
         "en": "[Rookie]\n...But there is no evidence at all.\nAt this point, we cannot speak based on suspicion alone. We need evidence, Adventurer.",
-        "pt": "[Rookie]\n…Mas não há prova alguma.\nAinda não é o momento de falar apenas com base em suspeitas. Precisamos de evidências, Aventureiro.",
+        "pt": "[Lukie]\n…Mas não há prova alguma.\nAinda não é o momento de falar apenas com base em suspeitas. Precisamos de evidências, Aventureiro.",
         "es": "[Rookie]\n…Pero no hay ninguna prueba.\nCon meras sospechas no podemos avanzar. Necesitamos pruebas, aventurero."
     },
     "WlPKBw": {
         "ko": "[루키]\n…증거가 아무 것도 없네요.\n지금은 심증만 가지고는 이야기할 수 없는 단계네요. 증거가 필요해요, 모험가님.",
         "en": "[Rookie]\n...There is no evidence at all.\nAt this point, we cannot speak based on suspicion alone. We need evidence, Adventurer.",
-        "pt": "[Rookie]\n…Mas não há prova alguma.\nAinda não é o momento de falar apenas com base em suspeitas. Precisamos de evidências, Aventureiro.",
+        "pt": "[Lukie]\n…Mas não há prova alguma.\nAinda não é o momento de falar apenas com base em suspeitas. Precisamos de evidências, Aventureiro.",
         "es": "[Rookie]\n…Pero no hay ninguna prueba.\nCon meras sospechas no podemos avanzar. Necesitamos pruebas, aventurero."
     },
     "W1PKBw": {
@@ -758,7 +758,7 @@
     "XlPKBw": {
         "ko": "[루키]\n수신자의 서명이 되어 있어요. '에이치 루켄베르그'\n모험가님이 말씀하신 그 배신자의 정체에 대한 증거로군요.",
         "en": "[Rookie]\nIt bears the recipient's signature. 'H Lukenberg'\nThis is evidence of the traitor's identity that you spoke of, Adventurer.",
-        "pt": "[Rookie]\nHá a assinatura do destinatário. 'H Lukenberg'\nÉ a prova da identidade do traidor que o Aventureiro mencionou.",
+        "pt": "[Lukie]\nHá a assinatura do destinatário. 'H Lukenberg'\nÉ a prova da identidade do traidor que o Aventureiro mencionou.",
         "es": "[Rookie]\nHay una firma del destinatario. 'H Lukenberg'\nEs la prueba de la identidad del traidor que mencionó, aventurero."
     },
     "X1PKBw": {
@@ -794,13 +794,13 @@
     "ZFPKBw": {
         "ko": "[루키]\n모험가님, 저기. 카야 씨가 상당히 의기소침한 채 나가셨는데요.\n혹시 모르니까 모험가님이 카야 씨를 좀 주시해 주지 않으시겠어요?",
         "en": "[Rookie]\nAdventurer, over there. Ms. Kaya left looking quite dejected.\nJust in case, could you keep an eye on Ms. Kaya, Adventurer?",
-        "pt": "[Rookie]\nAventureiro, veja. O Sr. Kaya saiu bastante abatido.\nPor precaução, poderia observá-lo de perto?",
+        "pt": "[Lukie]\nAventureiro, veja. O Sr. Kaya saiu bastante abatido.\nPor precaução, poderia observá-lo de perto?",
         "es": "[Rookie]\nAventurero, eh… El señor Kaya se ha marchado con el ánimo bastante decaído.\nPor si acaso, ¿podría vigilarlo un poco?"
     },
     "ZVPKBw": {
         "ko": "[루키]\n이럴 때는 늘 무언가 일이 나기 십상이니까요…\n모험가님이 <NAVI>[곁에서]<INFO>ba_maison,103,92,0,101,0</INFO></NAVI> 봐 주신다면 든든할 것 같아요.",
         "en": "[Rookie]\nAt times like this, something is always bound to happen...\nIf you could watch <NAVI>[nearby]<INFO>ba_maison,103,92,0,101,0</INFO></NAVI>, I think I would feel reassured.",
-        "pt": "[Rookie]\nNessas horas, algo sempre acaba acontecendo…\nSe o Aventureiro pudesse vigiar <NAVI>[ao lado]<INFO>ba_maison,103,92,0,101,0</INFO></NAVI>, seria reconfortante.",
+        "pt": "[Lukie]\nNessas horas, algo sempre acaba acontecendo…\nSe o Aventureiro pudesse vigiar <NAVI>[ao lado]<INFO>ba_maison,103,92,0,101,0</INFO></NAVI>, seria reconfortante.",
         "es": "[Rookie]\nEn momentos así siempre suele ocurrir algo…\nSi pudiera observar <NAVI>[desde cerca]<INFO>ba_maison,103,92,0,101,0</INFO></NAVI>, nos quedaríamos más tranquilos."
     },
     "ZlPKBw": {
@@ -836,7 +836,7 @@
     "a1PKBw": {
         "ko": "카야 토스 : 원로님의 말씀을 들어보시지요.",
         "en": "Kaya Tos : Why not listen to what the Elder has to say.",
-        "pt": "Kaya Tos : Vamos ouvir as palavras do ancião.",
+        "pt": "Kaya Tos : Vamos ouvir as palavras das anciãs.",
         "es": "Kaya Tos : Escuchemos lo que dicen los ancianos."
     },
     "bFPKBw": {
@@ -866,7 +866,7 @@
     "cFPKBw": {
         "ko": "[리드쉬]\n과거? 아니야. 현재야. 여기 이 리벨리온 꼬마들이 현재고, 여전히 코르에서 병든 채 일하고 있는 사람들이 현재야.\n당신이 과거라고 말하는 것들이 현재까지 전부 이어지고 있어.",
         "en": "[Lidsh]\nThe past? No. The present. These Rebellion kids here are the present, and the people still working sick at Cor are the present.\nWhat you call the past is all still continuing into the present.",
-        "pt": "[Lidsh]\nPassado? Não. É o presente. Esses jovens da Rebellion são o presente, e também são o presente aqueles que ainda trabalham doentes em Cor.\nO que você chama de passado continua até hoje.",
+        "pt": "[Ridsh]\nPassado? Não. É o presente. Esses jovens da Rebellion são o presente, e também são o presente aqueles que ainda trabalham doentes em COR.\nO que você chama de passado continua até hoje.",
         "es": "[Lidsh]\n¿El pasado? No. Es el presente. Estos jóvenes de Rebellion son el presente, y también lo son quienes siguen trabajando enfermos en Cor.\nLo que usted llama pasado continúa hasta el día de hoy."
     },
     "cVPKBw": {
@@ -884,7 +884,7 @@
     "c1PKBw": {
         "ko": "[카야 토스]\n하지만, 원로님……!",
         "en": "[Kaya Tos]\nBut, Elder...!",
-        "pt": "[Kaya Tos]\nMas, ancião…!",
+        "pt": "[Kaya Tos]\nMas, anciã…!",
         "es": "[Kaya Tos]\nPero, anciano…!"
     },
     "dFPKBw": {
@@ -950,7 +950,7 @@
     "flPKBw": {
         "ko": "[테스]\n예, 그것은 기업 측에서 배려해 주신 부분입니다.",
         "en": "[Franz]\nYes, that is something the corporation has shown consideration for.",
-        "pt": "[Franz]\nSim, foi uma consideração por parte da corporação.",
+        "pt": "[Philopontess]\nSim, foi uma consideração por parte da corporação.",
         "es": "[Franz]\nSí, fue una consideración por parte de la corporación."
     },
     "f1PKBw": {
@@ -1004,7 +1004,7 @@
     "h1PKBw": {
         "ko": "[루키]\n아… 비서님이 말씀이신가요?",
         "en": "[Rookie]\nAh... Are you speaking of the secretary?",
-        "pt": "[Rookie]\nAh… o senhor é o secretário?",
+        "pt": "[Lukie]\nAh… o senhor é o secretário?",
         "es": "[Rookie]\nAh… ¿Se refiere al secretario?"
     },
     "iFPKBw": {
@@ -1022,7 +1022,7 @@
     "ilPKBw": {
         "ko": "[테스]\n그, 그렇게 회장님께 비서님의 의견을 전하신다는 말씀이시지요?",
         "en": "[Franz]\nS-so, you mean you will convey the secretary's opinion to the chairman, correct?",
-        "pt": "[Franz]\nEntão o senhor transmitirá a opinião do secretário ao presidente?",
+        "pt": "[Philopontess]\nEntão o senhor transmitirá a opinião do secretário ao presidente?",
         "es": "[Franz]\nE-entonces, ¿transmitirá la opinión del secretario al presidente?"
     },
     "i1PKBw": {
@@ -1052,7 +1052,7 @@
     "j1PKBw": {
         "ko": "[테스]\n정부 측에서도 바라는 바입니다. 앞으로 할 이야기가 많겠습니다.",
         "en": "[Franz]\nIt is what the government side desires as well. We will have much to discuss going forward.",
-        "pt": "[Franz]\nÉ também o desejo do governo. Teremos muito a discutir daqui em diante.",
+        "pt": "[Philopontess]\nÉ também o desejo do governo. Teremos muito a discutir daqui em diante.",
         "es": "[Franz]\nTambién es el deseo del gobierno. Tendremos mucho que discutir de ahora en adelante."
     },
     "kFPKBw": {
@@ -1076,7 +1076,7 @@
     "k1PKBw": {
         "ko": "[루키]\n음, 그럼… 모험가님. 이 뒤의 이야기는 여기 대표로 계신 분들이 진행하실 모양이에요.\n우리는 밖으로 나가 볼까요?",
         "en": "[Rookie]\nHmm, then... Adventurer. It seems the people here as representatives will be handling what comes next.\nShall we go outside?",
-        "pt": "[Rookie]\nHum, então… Aventureiro. Parece que os representantes daqui conduzirão o restante da conversa.\nVamos sair um pouco?",
+        "pt": "[Lukie]\nHum, então… Aventureiro. Parece que os representantes daqui conduzirão o restante da conversa.\nVamos sair um pouco?",
         "es": "[Rookie]\nHmm, entonces… Aventurero. Parece que los representantes continuarán la conversación a partir de aquí.\n¿Salimos nosotros?"
     },
     "lFPKBw": {
@@ -1094,13 +1094,13 @@
     "llPKBw": {
         "ko": "[루키]\n모험가님이 좋으신 대로. 저는 밖에서 기다릴게요.\n여기저기 돌아다니느라 정말 수고하셨어요.",
         "en": "[Rookie]\nAs you wish, Adventurer. I will wait outside.\nYou really worked hard, going all over the place.",
-        "pt": "[Rookie]\nComo preferir, Aventureiro. Eu aguardarei lá fora.\nVocê realmente se esforçou muito indo de um lado para outro.",
+        "pt": "[Lukie]\nComo preferir, Aventureiro. Eu aguardarei lá fora.\nVocê realmente se esforçou muito indo de um lado para outro.",
         "es": "[Rookie]\nComo prefiera, aventurero. Lo esperaré fuera.\nHa trabajado muy duro yendo de un lado a otro."
     },
     "l1PKBw": {
         "ko": "[루키]\n여기, 약소하지만 식권을 좀 나눠드릴게요. 이곳의 자동인형들에게 받은 거예요.\n중재를 위해 열심히 뛰어 주신 보답입니다!",
         "en": "[Rookie]\nHere, it is not much, but I will share some meal vouchers with you. I received them from the automatons here.\nThis is a reward for running around so diligently to mediate!",
-        "pt": "[Rookie]\nAqui, é algo simples, mas vou lhe dar alguns vales-refeição. Recebi dos autômatos daqui.\nÉ uma forma de agradecer por seu empenho na mediação!",
+        "pt": "[Lukie]\nAqui, é algo simples, mas vou lhe dar alguns vales-refeição. Recebi dos autômatos daqui.\nÉ uma forma de agradecer por seu empenho na mediação!",
         "es": "[Rookie]\nTome, aunque sea poco, le daré unos vales de comida. Los recibí de los autómatas de aquí.\n¡Es una recompensa por su esfuerzo en la mediación!"
     },
     "mFPKBw": {
@@ -1928,7 +1928,7 @@
     "IVTKBw": {
         "ko": "리드쉬 : 사장 나오라고 해!",
         "en": "Lidsh : Tell the boss to come out!",
-        "pt": "Lidsh : Chamem o presidente!",
+        "pt": "Ridsh : Chamem o presidente!",
         "es": "Lidsh : ¡Que salga el presidente!"
     },
     "IlTKBw": {

@@ -5044,5 +5044,6 @@ JobNameTable = {
 	[jobtbl.JT_GATE_SKYBLUE] = "invisible",
 	[jobtbl.JT_4_EVT_LAMMIR] = "4_evt_lammir",
 	[jobtbl.JT_4_EVT_SULKI] = "4_evt_sulki",
-	[jobtbl.JT_4_EVT_KKAT] = "4_evt_kkat"
+	[jobtbl.JT_4_EVT_KKAT] = "4_evt_kkat",
+	[jobtbl.JT_4_M_NILLEM] = "4_m_nillem"
 }
