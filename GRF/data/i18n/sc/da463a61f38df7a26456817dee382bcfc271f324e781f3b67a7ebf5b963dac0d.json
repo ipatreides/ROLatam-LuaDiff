@@ -15,7 +15,7 @@
         "ko": "<신력의 연구자>",
         "en": "<Researcher of Divine Power>",
         "pt": "< Teóloga >",
-        "es": "<Investigador del poder divino>"
+        "es": "<Teóloga>"
     },
     "I54WCA": {
         "ko": "보유한 물건의 종류나 무게가 너무 많은 것 같습니다. 인벤토리를 정리해주세요.",
@@ -67,9 +67,9 @@
     },
     "K54WCA": {
         "ko": "[수잔 그레이]\n그분들이 가끔 들고 오는 물품중엔 이런것이 있죠.\n[<ITEM>오딘 성물함<INFO>23986</INFO></ITEM>]",
-        "en": "[Susan Gray]\nAmong the items they sometimes bring, there is something like this.\n[<ITEM>Odin Relic Box<INFO>23986</INFO></ITEM>]",
+        "en": "[Susan Gray]\nAmong the items they sometimes bring, there is something like this.\n[<ITEM>Odin's Relics<INFO>23986</INFO></ITEM>]",
         "pt": "[Susan Gray]\nAlguns dos itens que eles trazem incluem este\n[<ITEM>Relicário de Odin<INFO>23986</INFO></ITEM>]",
-        "es": "[Susan Gray]\nEntre los objetos que a veces traen, está esto.\n[<ITEM>Caja de Reliquia de Odin<INFO>23986</INFO></ITEM>]"
+        "es": "[Susan Gray]\nEntre los objetos que a veces traen, está esto.\n[<ITEM>Reliquias de Odín<INFO>23986</INFO></ITEM>]"
     },
     "LJ4WCA": {
         "ko": "[수잔 그레이]\n눈치 채셨겠지만 이 성물함 안에는 여러가지의 장비들이 신력으로 담겨있답니다. 저는 그것을 연구하는 학자예요.",
@@ -91,9 +91,9 @@
     },
     "L54WCA": {
         "ko": "[수잔 그레이]\n[<ITEM>힘의 수단<INFO>15397</INFO></ITEM>]\n[<ITEM>민첩의 수단<INFO>15398</INFO></ITEM>]\n[<ITEM>체력의 수단<INFO>15399</INFO></ITEM>]\n[<ITEM>손재주의 수단<INFO>15400</INFO></ITEM>]\n[<ITEM>지력의 수단<INFO>15401</INFO></ITEM>]\n[<ITEM>행운의 수단<INFO>15402</INFO></ITEM>]\n[<ITEM>신관의 부츠<INFO>22209</INFO></ITEM>]\n[<ITEM>신관의 망토<INFO>20947</INFO></ITEM>]",
-        "en": "[Susan Gray]\n[<ITEM>Emblem of STR<INFO>15397</INFO></ITEM>]\n[<ITEM>Emblem of AGI<INFO>15398</INFO></ITEM>]\n[<ITEM>Emblem of VIT<INFO>15399</INFO></ITEM>]\n[<ITEM>Emblem of DEX<INFO>15400</INFO></ITEM>]\n[<ITEM>Emblem of INT<INFO>15401</INFO></ITEM>]\n[<ITEM>Emblem of LUK<INFO>15402</INFO></ITEM>]\n[<ITEM>Bishop’s Boots<INFO>22209</INFO></ITEM>]\n[<ITEM>Bishop’s Cloak<INFO>20947</INFO></ITEM>]",
+        "en": "[Susan Gray]\n[<ITEM>Angelick Cassock STR<INFO>15397</INFO></ITEM>]\n[<ITEM>Angelick Cassock AGI<INFO>15398</INFO></ITEM>]\n[<ITEM>Angelick Cassock VIT<INFO>15399</INFO></ITEM>]\n[<ITEM>Angelick Cassock DEX<INFO>15400</INFO></ITEM>]\n[<ITEM>Angelick Cassock INT<INFO>15401</INFO></ITEM>]\n[<ITEM>Angelick Cassock LUK<INFO>15402</INFO></ITEM>]\n[<ITEM>Bishop’s Boots<INFO>22209</INFO></ITEM>]\n[<ITEM>Bishop’s Manteau<INFO>20947</INFO></ITEM>]",
         "pt": "[Susan Gray]\n[<ITEM>Batina Angelical FOR<INFO>15397</INFO></ITEM>]\n[<ITEM>Batina Angelical AGI<INFO>15398</INFO></ITEM>]\n[<ITEM>Batina Angelical VIT<INFO>15399</INFO></ITEM>]\n[<ITEM>Batina Angelical DES<INFO>15400</INFO></ITEM>]\n[<ITEM>Batina Angelical INT<INFO>15401</INFO></ITEM>]\n[<ITEM>Batina Angelical SOR<INFO>15402</INFO></ITEM>]\n[<ITEM>Sapato Angelical<INFO>22209</INFO></ITEM>]\n[<ITEM>Manto Angelical<INFO>20947</INFO></ITEM>]",
-        "es": "[Susan Gray]\n[<ITEM>Emblema de STR<INFO>15397</INFO></ITEM>]\n[<ITEM>Emblema de AGI<INFO>15398</INFO></ITEM>]\n[<ITEM>Emblema de VIT<INFO>15399</INFO></ITEM>]\n[<ITEM>Emblema de DEX<INFO>15400</INFO></ITEM>]\n[<ITEM>Emblema de INT<INFO>15401</INFO></ITEM>]\n[<ITEM>Emblema de LUK<INFO>15402</INFO></ITEM>]\n[<ITEM>Botas de Obispo<INFO>22209</INFO></ITEM>]\n[<ITEM>Capa de Obispo<INFO>20947</INFO></ITEM>]"
+        "es": "[Susan Gray]\n[<ITEM>Sotana Angelical de FUE<INFO>15397</INFO></ITEM>]\n[<ITEM>Sotana Angelical de AGI<INFO>15398</INFO></ITEM>]\n[<ITEM>Sotana Angelical de VIT<INFO>15399</INFO></ITEM>]\n[<ITEM>Sotana Angelical de DES<INFO>15400</INFO></ITEM>]\n[<ITEM>Sotana Angelical de INT<INFO>15401</INFO></ITEM>]\n[<ITEM>Sotana Angelical de SUE<INFO>15402</INFO></ITEM>]\n[<ITEM>Botas de Obispo<INFO>22209</INFO></ITEM>]\n[<ITEM>Capa de Obispo<INFO>20947</INFO></ITEM>]"
     },
     "MJ4WCA": {
         "ko": "[수잔 그레이]\n제가 다룰 수 있는 품목은 이정도예요.",
@@ -103,13 +103,13 @@
     },
     "MZ4WCA": {
         "ko": "[수잔 그레이]\n일반적으론\n[<ITEM>천사의 꿈<INFO>25767</INFO></ITEM>] 3개\n그리고 50만제니\n이정도의 재료가 필요해요",
-        "en": "[Susan Gray]\nIn general,\n3 [<ITEM>Angel’s Dream<INFO>25767</INFO></ITEM>]\nand 500,000 zeny\nare the materials you will need.",
+        "en": "[Susan Gray]\nIn general,\n3 [<ITEM>Angelic Dream<INFO>25767</INFO></ITEM>]\nand 500,000 zeny\nare the materials you will need.",
         "pt": "[Susan Gray]\nO preço é de\n3 [<ITEM>Sonho Angelical<INFO>25767</INFO></ITEM>]\ne 500.000 zeny\npara a minha pesquisa",
-        "es": "[Susan Gray]\nPor lo general,\n3 [<ITEM>Sueño del Ángel<INFO>25767</INFO></ITEM>]\ny 500 000 zeny\nson los materiales que se necesitan."
+        "es": "[Susan Gray]\nPor lo general,\n3 [<ITEM>Sueño Angelical<INFO>25767</INFO></ITEM>]\ny 500 000 zeny\nson los materiales que se necesitan."
     },
     "Mp4WCA": {
         "ko": "[수잔 그레이]\n하지만 9제련 이상의 물품이라면\n[<ITEM>냥다래<INFO>6909</INFO></ITEM>] 3개 를 이용해서 강화할 수 있고 당연히 좀 더 나은 옵션을 노려볼 수 있죠.",
-        "en": "[Susan Gray]\nHowever, if the item is refined to +9 or higher,\nyou can enhance it using 3 [<ITEM>Nyangvine<INFO>6909</INFO></ITEM>], and of course you can aim for better options.",
+        "en": "[Susan Gray]\nHowever, if the item is refined to +9 or higher,\nyou can enchant it using 3 [<ITEM>Nyangvine<INFO>6909</INFO></ITEM>], and of course you can aim for better options.",
         "pt": "[Susan Gray]\nMas se o equipamento estiver refinado no +9 ou mais\nvocê pode usar 3 [<ITEM>MiauMiau<INFO>6909</INFO></ITEM>] e ter acesso a melhores encantos.",
         "es": "[Susan Gray]\nPero si es un objeto con refinamiento +9 o superior,\npuedes mejorarlo usando 3 [<ITEM>Miaufruto<INFO>6909</INFO></ITEM>], y por supuesto puedes aspirar a opciones un poco mejores."
     },
@@ -141,7 +141,7 @@
         "ko": "걸칠것",
         "en": "Garment",
         "pt": "Capa",
-        "es": "Prenda"
+        "es": "Capa"
     },
     "OJ4WCA": {
         "ko": "신발",
@@ -163,45 +163,45 @@
     },
     "O54WCA": {
         "ko": "^FF0000랜덤옵션이 확인됩니다. 해당 장비는 작업 하실 수 없습니다.^000000",
-        "en": "^FF0000A random option has been detected. This equipment cannot be worked on.^000000",
+        "en": "^FF0000A random bonus has been detected. This equipment cannot be enchanted.^000000",
         "pt": "^FF0000Não posso encantar esse item, ele possui Bônus Aleatórios.^000000",
         "es": "^FF0000Se ha detectado una opción aleatoria. No se puede trabajar con este equipo.^000000"
     },
     "PJ4WCA": {
         "ko": "힘의 수단",
-        "en": "Emblem of STR",
+        "en": "Angelick Cassock STR",
         "pt": "Batina Angelical FOR",
-        "es": "Emblema de STR"
+        "es": "Sotana Angelical de FUE"
     },
     "PZ4WCA": {
         "ko": "민첩의 수단",
-        "en": "Emblem of AGI",
+        "en": "Angelick Cassock AGI",
         "pt": "Batina Angelical AGI",
-        "es": "Emblema de AGI"
+        "es": "Sotana Angelical de AGI"
     },
     "Pp4WCA": {
         "ko": "체력의 수단",
-        "en": "Emblem of VIT",
+        "en": "Angelick Cassock VIT",
         "pt": "Batina Angelical VIT",
-        "es": "Emblema de VIT"
+        "es": "Sotana Angelical de VIT"
     },
     "P54WCA": {
         "ko": "손재주의 수단",
-        "en": "Emblem of DEX",
+        "en": "Angelick Cassock DEX",
         "pt": "Batina Angelical DES",
-        "es": "Emblema de DEX"
+        "es": "Sotana Angelical de DES"
     },
     "QJ4WCA": {
         "ko": "지력의 수단",
-        "en": "Emblem of INT",
+        "en": "Angelick Cassock INT",
         "pt": "Batina Angelical INT",
-        "es": "Emblema de INT"
+        "es": "Sotana Angelical de INT"
     },
     "QZ4WCA": {
         "ko": "행운의 수단",
-        "en": "Emblem of LUK",
+        "en": "Angelick Cassock LUK",
         "pt": "Batina Angelical SOR",
-        "es": "Emblema de LUK"
+        "es": "Sotana Angelical de SUE"
     },
     "Qp4WCA": {
         "ko": "신관의 부츠",
@@ -211,7 +211,7 @@
     },
     "Q54WCA": {
         "ko": "신관의 망토",
-        "en": "Bishop’s Cloak",
+        "en": "Bishop’s Manteau",
         "pt": "Manto Angelical",
         "es": "Capa de Obispo"
     },
@@ -223,15 +223,15 @@
     },
     "RZ4WCA": {
         "ko": "^FF0000재료대신 냥다래 3개로 강화한다.^000000",
-        "en": "^FF0000Enhance using 3 Nyangvine instead of materials.^000000",
+        "en": "^FF0000Enchant using 3 Nyangvine instead of materials.^000000",
         "pt": "^FF0000Usar 3 MiauMiau ao invés dos materiais^000000",
         "es": "^FF0000En lugar de materiales, se refuerza con 3 Miaufruto.^000000"
     },
     "Rp4WCA": {
         "ko": "[수잔 그레이]\n[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\n=================\n[<ITEM>천사의 꿈<INFO>25767</INFO></ITEM>] 3개\n50만 제니\n정말 이 장비를 강화 하시겠습니까?",
-        "en": "[Susan Gray]\n[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\n=================\n[<ITEM>Angel’s Dream<INFO>25767</INFO></ITEM>] 3\n500,000 Zeny\nDo you really want to enhance this equipment?",
+        "en": "[Susan Gray]\n[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\n=================\n[<ITEM>Angelic Dream<INFO>25767</INFO></ITEM>] 3\n500,000 Zeny\nDo you really want to enchant this equipment?",
         "pt": "[Susan Gray]\n[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\n=================\n3x [<ITEM>Sonho Angelical<INFO>25767</INFO></ITEM>]\n500.000 zeny\nDeseja encantar esse equipamento?",
-        "es": "[Susan Gray]\n[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\n=================\n[<ITEM>Sueño del Ángel<INFO>25767</INFO></ITEM>] 3 unidades\n500.000 zeny\n¿De verdad desea reforzar este equipo?"
+        "es": "[Susan Gray]\n[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\n=================\n[<ITEM>Sueño Angelical<INFO>25767</INFO></ITEM>] 3 unidades\n500.000 zeny\n¿De verdad desea reforzar este equipo?"
     },
     "R54WCA": {
         "ko": "취소한다",
@@ -241,19 +241,19 @@
     },
     "SJ4WCA": {
         "ko": "강화를 진행한다",
-        "en": "Proceed with enhancement.",
+        "en": "Proceed with enchantment.",
         "pt": "Encantar com os materiais",
         "es": "Proceder con el refuerzo"
     },
     "SZ4WCA": {
         "ko": "[수잔 그레이]\n강화를 원하실때 다시 찾아주세요.",
-        "en": "[Susan Gray]\nPlease come back when you wish to enhance.",
+        "en": "[Susan Gray]\nPlease come back when you wish.",
         "pt": "[Susan Gray]\nVolte quando quiser.",
         "es": "[Susan Gray]\nVuelva a visitarme cuando desee reforzar."
     },
     "Sp4WCA": {
         "ko": "[수잔 그레이]\n강화에 적합하지 않은 장비입니다. 장비를 다시 확인 해 주십시오.",
-        "en": "[Susan Gray]\nThis equipment is not suitable for enhancement. Please check the equipment again.",
+        "en": "[Susan Gray]\nThis equipment is not suitable for enchantment. Please check the equipment again.",
         "pt": "[Susan Gray]\nEste item não pode ser encantado. Por favor, escolha outro.",
         "es": "[Susan Gray]\nEste equipo no es adecuado para el refuerzo. Por favor, revise el equipo nuevamente."
     },
@@ -273,60 +273,60 @@
         "ko": "9제련 부츠-걸칠것 2 슬롯 전용 ^FF0000일반 효능^000000",
         "en": "Refine 9 Boots-Garment 2-slot exclusive ^FF0000Normal Effect^000000",
         "pt": "Refino +9 Capa/Bota 2 slots ^FF0000Normal^000000",
-        "es": "Botas-Capa refinadas a 9, exclusivo de 2 ranuras ^FF0000Efecto normal^000000"
+        "es": "Refino +9 Capa/Botas 2 slots ^FF0000Normal^000000"
     },
     "Tp4WCA": {
         "ko": "9제련 갑옷 2 슬롯 전용 ^FF0000일반 효능^000000",
         "en": "Refine 9 Armor 2-slot exclusive ^FF0000Normal Effect^000000",
         "pt": "Refino +9 Armadura 2 slots ^FF0000Normal^000000",
-        "es": "Armadura refinada a 9, exclusivo de 2 ranuras ^FF0000Efecto normal^000000"
+        "es": "Refino +9 Armadura 2 slots ^FF0000Normal^000000"
     },
     "T54WCA": {
         "ko": "9제련 부츠-걸칠것 2 슬롯 전용 ^0000FF냥다래 효능^000000",
         "en": "Refine 9 Boots-Garment 2-slot exclusive ^0000FFNyangvine Effect^000000",
         "pt": "Refino +9 Capa/Bota 2 slots ^0000FFMiauMiau^000000",
-        "es": "Botas-Capa refinadas a 9, exclusivo de 2 ranuras ^0000FFEfecto de Miaufruto^000000"
+        "es": "Refino +9 Capa/Botas 2 slots ^0000FFMiaufruto^000000"
     },
     "UJ4WCA": {
         "ko": "9제련 갑옷 2 슬롯 전용 ^0000FF냥다래 효능^000000",
         "en": "Refine 9 Armor 2-slot exclusive ^0000FFNyangvine Effect^000000",
         "pt": "Refino +9 Armadura 2 slots ^0000FFMiauMiau^000000",
-        "es": "Armadura refinada a 9, exclusivo de 2 ranuras ^0000FFEfecto de Miaufruto^000000"
+        "es": "Refino +9 Armadura 2 slots ^0000FFMiaufruto^000000"
     },
     "UZ4WCA": {
         "ko": "1 - 9제련 미만 공용 인챈트",
         "en": "1 - Shared Enchant for below Refine 9",
         "pt": "1 - Encantos comuns para os refinos 1 a 8",
-        "es": "1 - Encantamiento común por debajo de refinado 9"
+        "es": "1 - Encantamiento común para los refinos 1 a 8"
     },
     "Up4WCA": {
         "ko": "2 - 9 제련 부츠",
         "en": "2 - Refine 9 Boots",
         "pt": "2 - Bota +9",
-        "es": "2 - Botas refinadas a 9"
+        "es": "2 - Botas +9"
     },
     "U54WCA": {
         "ko": "3 - 9 제련 갑옷 인챈트",
-        "en": "3 - Refine 9 Armor Enchant",
+        "en": "3 - Refine 9 Armor",
         "pt": "3 - Armadura +9",
-        "es": "3 - Encantamiento de armadura refinada a 9"
+        "es": "3 - Armadura +9"
     },
     "VJ4WCA": {
         "ko": "4 - 캐시 9 제련 부츠",
-        "en": "4 - Cash Refine 9 Boots",
+        "en": "4 - Nyangvine Refine 9 Boots",
         "pt": "4 - MiauMiau Bota +9",
-        "es": "4 - Botas de Cash refinadas a 9"
+        "es": "4 - Miaufruto Botas +9"
     },
     "VZ4WCA": {
         "ko": "5 - 캐시 9 제련 갑옷 인챈트",
-        "en": "5 - Cash Refine 9 Armor Enchant",
+        "en": "5 - Nyangvine Refine 9 Armor",
         "pt": "5 - MiauMiau Armadura +9",
-        "es": "5 - Encantamiento de armadura de Cash refinada a 9"
+        "es": "5 - Miaufruto Armadura +9"
     },
     "Vp4WCA": {
         "ko": "[수잔 그레이]\n오류가 발생했군요. 이대론 진행이 불가능합니다.",
         "en": "[Susan Gray]\nAn error has occurred. It is impossible to proceed like this.",
-        "pt": "[Susan Gray]\nUm erro errou.",
+        "pt": "[Susan Gray]\nUm erro ocorreu.",
         "es": "[Susan Gray]\nHa ocurrido un error. Así no es posible continuar."
     },
     "V54WCA": {
@@ -337,27 +337,27 @@
     },
     "WJ4WCA": {
         "ko": "[수잔 그레이]\n이 장비는 한계치 까지 강화되어 있어요. 더 이상의 강화는 불가능합니다.",
-        "en": "[Susan Gray]\nThis equipment has been enhanced to its limit. Further enhancement is not possible.",
+        "en": "[Susan Gray]\nThis equipment has been enchanted to its limit.",
         "pt": "[Susan Gray]\nEsse equipamento já foi encantado ao máximo.",
         "es": "[Susan Gray]\nEste equipo ya ha sido reforzado hasta el límite. No es posible reforzarlo más."
     },
     "WZ4WCA": {
         "ko": "[수잔 그레이]\n[<ITEM>냥다래<INFO>6909</INFO></ITEM>] 3개\n를 이용하여 강화하시는게 확실한가요?",
-        "en": "[Susan Gray]\nAre you sure you want to enhance using 3 [<ITEM>Nyangvine<INFO>6909</INFO></ITEM>]?",
+        "en": "[Susan Gray]\nAre you sure you want to enchant using 3 [<ITEM>Nyangvine<INFO>6909</INFO></ITEM>]?",
         "pt": "[Susan Gray]\nDeseja continuar usando 3x [<ITEM>MiauMiau<INFO>6909</INFO></ITEM>]?",
-        "es": "[Susan Gray]\n¿Está seguro de que desea reforzar usando 3\n[<ITEM>Miaufruto<INFO>6909</INFO></ITEM]?"
+        "es": "[Susan Gray]\n¿Está seguro de que desea seguir usando 3x\n[<ITEM>Miaufruto<INFO>6909</INFO></ITEM]?"
     },
     "Wp4WCA": {
         "ko": "^FF0000[경고]^000000\n^FF0000냥다래 열매 3개로 장비 강화를 진행합니다.^000000\n^FF0000위의 교환된 아이템은 청약철회대상에 포함되지 않으며, 냥다래 열매로의 재교환 역시 불가능합니다.^000000",
-        "en": "^FF0000[Warning]^000000\n^FF0000Equipment enhancement will proceed using 3 Nyangvine fruits.^000000\n^FF0000The exchanged item above is not eligible for withdrawal of subscription, and it is also impossible to exchange it back into Nyangvine fruits.^000000",
+        "en": "^FF0000[Warning]^000000\n^FF0000Equipment enchantment will proceed using 3 Nyangvine fruits.^000000\n^FF0000The exchanged item above is not eligible for withdrawal of subscription, and it is also impossible to exchange it back into Nyangvine fruits.^000000",
         "pt": "[^FF0000Aviso^000000]\n^FF0000O encanto usará 3 xMiauMiau.^000000\n^FF0000A escolha não será revertida em caso de arrependimento.^000000",
-        "es": "^FF0000[Advertencia]^000000\n^FF0000Se procederá a reforzar el equipo con 3 frutos de Miaufruto.^000000\n^FF0000Los objetos intercambiados arriba no están incluidos en el derecho de desistimiento, y tampoco es posible volver a intercambiarlos por frutos de Miaufruto.^000000"
+        "es": "^FF0000[Advertencia]^000000\n^FF0000Se procederá a reforzar el equipo con 3x Miaufruto.^000000\n^FF0000La elección no se podrá cambiar en caso de arrepentimiento.^000000"
     },
     "W54WCA": {
         "ko": "이대로 진행해줘요",
         "en": "Please proceed as is.",
         "pt": "Quero continuar",
-        "es": "Por favor, continúe así"
+        "es": "Quiero seguir"
     },
     "XJ4WCA": {
         "ko": "[수잔 그레이]\n거래를 위한 재료가 부족하네요.",
@@ -369,19 +369,19 @@
         "ko": "[<ITEM>천사의 꿈<INFO>25767</INFO></ITEM>] 3개\n50만 제니",
         "en": "[<ITEM>Angel’s Dream<INFO>25767</INFO></ITEM>] 3\n500,000 zeny",
         "pt": "3x [<ITEM>Sonho Angelical<INFO>25767</INFO></ITEM>]\ne 500.000 zeny",
-        "es": "[<ITEM>Sueño del Ángel<INFO>25767</INFO></ITEM>] 3 unidades\n500.000 zeny"
+        "es": "3x [<ITEM>Sueño Angelical<INFO>25767</INFO></ITEM>] y 500.000 zeny"
     },
     "Xp4WCA": {
         "ko": "[<ITEM>냥다래<INFO>6909</INFO></ITEM>] 3개",
         "en": "[<ITEM>Nyangvine<INFO>6909</INFO></ITEM>] 3",
         "pt": "3x [<ITEM>MiauMiau<INFO>6909</INFO></ITEM>]",
-        "es": "[<ITEM>Miaufruto<INFO>6909</INFO></ITEM>] 3 unidades"
+        "es": "3x [<ITEM>Miaufruto<INFO>6909</INFO></ITEM>]"
     },
     "X54WCA": {
         "ko": "를 가지고 계셔야 강화가 가능해요.",
-        "en": "You must have them to refine it.",
+        "en": "You must have them to enchant it.",
         "pt": "Sem isso, não consigo encantar.",
-        "es": "Debes tenerlos para poder refinar."
+        "es": "Debes tenerlos para poder hacer el encantamiento."
     },
     "YJ4WCA": {
         "ko": "[수잔 그레이]",
@@ -391,25 +391,25 @@
     },
     "YZ4WCA": {
         "ko": "^FF0000[<ITEM>{0}<INFO>{1}</INFO></ITEM>] 의 강화가 실패했습니다.^000000",
-        "en": "^FF0000[<ITEM>{0}<INFO>{1}</INFO></ITEM>] refinement failed.^000000",
+        "en": "^FF0000[<ITEM>{0}<INFO>{1}</INFO></ITEM>] enchantment failed.^000000",
         "pt": "^FF0000Falha ao encantar [<ITEM>{0}<INFO>{1}</INFO></ITEM>].^000000",
-        "es": "^FF0000El refinamiento de [<ITEM>{0}<INFO>{1}</INFO></ITEM>] ha fallado.^000000"
+        "es": "^FF0000El encantamiento de [<ITEM>{0}<INFO>{1}</INFO></ITEM>] ha fallado.^000000"
     },
     "Yp4WCA": {
         "ko": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>] 의 강화가 완료되었습니다.",
-        "en": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>] refinement completed.",
+        "en": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>] enchantment completed.",
         "pt": "Sucesso ao encantar [<ITEM>{0}<INFO>{1}</INFO></ITEM>].",
-        "es": "El refinamiento de [<ITEM>{0}<INFO>{1}</INFO></ITEM>] se ha completado."
+        "es": "El encantamiento de [<ITEM>{0}<INFO>{1}</INFO></ITEM>] se ha completado."
     },
     "Y54WCA": {
         "ko": "[수잔 그레이]\n이 장비는 초기화 할 만큼 충분하게 강화되지 않았습니다.",
-        "en": "[Susan Gray]\nThis equipment has not been refined enough to be reset.",
+        "en": "[Susan Gray]\nThis equipment has not been enchanted enough to be reset.",
         "pt": "[Susan Gray]\nEsse equipamento não está totalmente encantado para ser resetado.",
-        "es": "[Susan Gray]\nEste equipo no está lo bastante refinado como para reiniciarlo."
+        "es": "[Susan Gray]\nEste equipo no está lo bastante encantado como para reiniciarlo."
     },
     "ZJ4WCA": {
         "ko": "[수잔 그레이]\n초기화 비용은 어떻게 처리 하시겠습니까?",
-        "en": "[Susan Gray] How would you like to handle the reset cost?",
+        "en": "[Susan Gray]\nHow would you like to handle the reset cost?",
         "pt": "[Susan Gray]\nComo você deseja pagar pelo reset dos encantos?",
         "es": "[Susan Gray]\n¿Cómo desea gestionar el coste del reinicio?"
     },
@@ -445,9 +445,9 @@
     },
     "ap4WCA": {
         "ko": "^FF0000[경고]^000000\n^FF0000냥다래 열매 1개로 초기화를 진행합니다.^000000\n^FF0000위의 교환된 아이템은 청약철회대상에 포함되지 않으며, 냥다래 열매로의 재교환 역시 불가능합니다.^000000",
-        "en": "^FF0000[Warning]^000000 ^FF0000Proceeding with the reset using 1 Nyangvine fruit.^000000 ^FF0000The exchanged items above are not eligible for withdrawal, and re-exchange into Nyangvine fruit is also not possible.^000000",
+        "en": "^FF0000[Warning]^000000\n^FF0000Proceeding with the reset using 3 Nyangvine fruit.^000000\n^FF0000Refund is not possible.^000000",
         "pt": "[^FF0000Aviso^000000]\n^FF0000O reset usará 3 xMiauMiau.^000000\n^FF0000A escolha não será revertida em caso de arrependimento.^000000",
-        "es": "^FF0000[Advertencia]^000000\n^FF0000Se procederá al reinicio con 1 fruto de Miaufruto.^000000\n^FF0000Los objetos intercambiados arriba no están incluidos en el derecho de desistimiento, y tampoco es posible volver a intercambiarlos por un fruto de Miaufruto.^000000"
+        "es": "^FF0000[Advertencia]^000000\n^FF0000El reset usará 3x Miaufruto.^000000\n^FF0000La elección no se podrá cambiar en caso de arrepentimiento.^000000"
     },
     "a54WCA": {
         "ko": "진행한다",
@@ -489,6 +489,6 @@
         "ko": "[수잔 그레이]\n뭐라구요?. 무슨 말씀을 하시는지 모르겠습니다.",
         "en": "[Susan Gray]\nWhat did you say? I do not understand what you mean.",
         "pt": "[Susan Gray]\nOi? Não sei do quê você está falando.",
-        "es": "[Susan Gray]\n¿Qué ha dicho?. No entiendo de qué está hablando."
+        "es": "[Susan Gray]\n¿Qué ha dicho? No entiendo de qué está hablando."
     }
 }

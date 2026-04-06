@@ -1,0 +1,2138 @@
+{
+    "wG7EDA": {
+        "ko": "축제 위원",
+        "en": "Yulata",
+        "pt": "Yulata",
+        "es": "Yulata"
+    },
+    "wW7EDA": {
+        "ko": "행복한 알 축제",
+        "en": "Happy Egg Festival",
+        "pt": "Festival das Mascotes",
+        "es": "Festival de las Mascotas"
+    },
+    "wm7EDA": {
+        "ko": "[율라타]\n아직 경험을 더 쌓아야 하는 모험가로군요.\n좀더 여러 가지를 보고 들은 뒤에 다시 오세요. 그때 함께 행복한 알 축제를 즐겨요!",
+        "en": "[Yulata]\nYou don't have the required level for this event.\nCome back when you're stronger!",
+        "pt": "[Yulata]\nVocê não tem nível suficiente para esse evento.\nVolte quando for mais forte!",
+        "es": "[Yulata]\nNo tienes el nivel suficiente para este evento.\n¡Vuelve cuando seas más fuerte!"
+    },
+    "w27EDA": {
+        "ko": "- 20레벨 이상 참여할 수 있는 이벤트입니다. -",
+        "en": "- Event for base level 20 or higher. -",
+        "pt": "- Evento para nível de base 20 ou maior. -",
+        "es": "- Evento para nivel base 20 o superior. -"
+    },
+    "xG7EDA": {
+        "ko": "[율라타]\n안녕하세요, 올해도 행복한 알 축제가 시작되었습니다.\n저는 진행 위원 율라타입니다.",
+        "en": "[Yulata]\nI welcome you to the Happy Egg Festival.\nMy name is Yulata, nice to meet you.",
+        "pt": "[Yulata]\nLhe dou as boas vindas do Festival das Mascotes.\nMe chamo Yulata, prazer.",
+        "es": "[Yulata]\nTe doy la bienvenida al Festival de las Mascotas.\nMe llamo Yulata, encantada."
+    },
+    "xW7EDA": {
+        "ko": "[율라타]\n축제에 참여하시고 클로버 티켓으로 행복의 큐펫 자판기를 통해 다양한 선물도 받아가세요.\n축제에 대해 안내해 드릴까요?",
+        "en": "[Yulata]\nThis year we'll have contests with various prizes.\nWould you like an explanation?",
+        "pt": "[Yulata]\nEsse ano nós teremos gincanas com premiações diversas.\nGostaria de uma explicação?",
+        "es": "[Yulata]\nEste año tendremos concursos con diversos premios.\n¿Te gustaría una explicación?"
+    },
+    "xm7EDA": {
+        "ko": "안내받는다.",
+        "en": "Yes, please.",
+        "pt": "Sim, por favor.",
+        "es": "Sí, por favor."
+    },
+    "x27EDA": {
+        "ko": "안내받지 않는다.",
+        "en": "No, thanks.",
+        "pt": "Não, valeu.",
+        "es": "No, gracias."
+    },
+    "yG7EDA": {
+        "ko": "[율라타]\n여러 가지 행사가 진행되고 있으니 둘러보시고 축제를 즐기세요.\n저는 이곳에서 행복한 알 찾기 행사를 주최하고 있습니다.\n<NAVI>[축제 장식 플래너]<INFO>yuno.gat,165,153,0,101,0</INFO></NAVI> 루루판트 선생님을 도와드려도 좋을 거예요.",
+        "en": "[Yulata]\nSeveral contests are happening here in Juno.\nI am in charge of the Egg Hunt.\nBut there's also <NAVI>[Luluphant]<INFO>yuno.gat,165,153,0,101,0</INFO></NAVI>.",
+        "pt": "[Yulata]\nVárias gincanas estão acontecendo aqui em Juno.\nEu sou responsável pela caça de Ovos.\nMas também tem o <NAVI>[Lulufante]<INFO>yuno.gat,165,153,0,101,0</INFO></NAVI>.",
+        "es": "[Yulata]\nVarios concursos están sucediendo aquí en Juno.\nYo soy responsable de la caza de Huevos.\nPero también está el <NAVI>[Lulufante]<INFO>yuno.gat,165,153,0,101,0</INFO></NAVI>."
+    },
+    "yW7EDA": {
+        "ko": "[율라타]\n<NAVI>[질리언]<INFO>yuno.gat,142,163,0,101,0</INFO></NAVI> 씨는 대학 분들과 함께 초콜렛 알과 맛있는 쿠키 알을 만들고 계세요.\n대학에서 키우는 큐펫들과 산책하는 행사에 참여하시려면 <NAVI>[세이럼]<INFO>yuno.gat,150,155,0,101,0</INFO></NAVI> 군에게 물어보시면 됩니다.",
+        "en": "[Yulata]\nIf you want to help with sweets, talk to <NAVI>[Gillian]<INFO>yuno.gat,142,163,0,101,0</INFO></NAVI>.\nIf you want to help with pets, talk to <NAVI>[Sarum]<INFO>yuno.gat,150,155,0,101,0</INFO></NAVI>.",
+        "pt": "[Yulata]\nSe deseja ajudar com doces, fale com <NAVI>[Gillian]<INFO>yuno.gat,142,163,0,101,0</INFO></NAVI>.\nSe deseja ajudar com mascotes, fale com <NAVI>[Sarum]<INFO>yuno.gat,150,155,0,101,0</INFO></NAVI>.",
+        "es": "[Yulata]\nSi deseas ayudar con dulces, habla con <NAVI>[Gillian]<INFO>yuno.gat,142,163,0,101,0</INFO></NAVI>.\nSi deseas ayudar con mascotas, habla con <NAVI>[Sarum]<INFO>yuno.gat,150,155,0,101,0</INFO></NAVI>."
+    },
+    "ym7EDA": {
+        "ko": "[율라타]\n축제 행사에 참여하시면 받을 수 있는 <ITEM>[클로버 티켓]<INFO>25294</INFO></ITEM>은 <NAVI>[행복의 큐펫 자판기]<INFO>yuno.gat,176,152,0,101,0</INFO></NAVI>에서 사용하실 수 있습니다.\n행복한 선물이 많이 들어 있으니 가서 확인해 보세요.",
+        "en": "[Yulata]\nThe reward is <ITEM>[Clover Ticket]<INFO>25294</INFO></ITEM>! They can be exchanged at the <NAVI>[Festival Machine]<INFO>yuno.gat,176,152,0,101,0</INFO></NAVI>.\nThere are many cool gifts, so go check it out.",
+        "pt": "[Yulata]\nA recompensa é <ITEM>[Bilhete de Trevo]<INFO>25294</INFO></ITEM>! Eles podem ser trocados na <NAVI>[Máquina do Festival]<INFO>yuno.gat,176,152,0,101,0</INFO></NAVI>.\nHá muitos presentes legais, então vá dar uma olhada.",
+        "es": "[Yulata]\n¡La recompensa es <ITEM>[Boleto de Trébol]<INFO>25294</INFO></ITEM>! Puedes canjearlos en la <NAVI>[Máquina del Festival]<INFO>yuno.gat,176,152,0,101,0</INFO></NAVI>.\nHay muchos regalos geniales, así que ve a echar un vistazo."
+    },
+    "y27EDA": {
+        "ko": "[율라타]\n축제의 유래에 대해 듣거나 축제 행사에 대해 다시 안내받고 싶으실 때는 <NAVI>[축제 박사]<INFO>yuno.gat,158,155,0,101,0</INFO></NAVI> 카세 할아버지가 다시 들려주실 거예요.",
+        "en": "[Yulata]\nIf you want to know more about the origins of the festival, talk to <NAVI>[Doctor Whom]<INFO>yuno.gat,158,155,0,101,0</INFO></NAVI>.",
+        "pt": "[Yulata]\nSe quiser saber mais sobre as origens do festival, fale com <NAVI>[Doutor Quem]<INFO>yuno.gat,158,155,0,101,0</INFO></NAVI>.",
+        "es": "[Yulata]\nSi quieres saber más sobre los orígenes del festival, habla con <NAVI>[Doctor Quién]<INFO>yuno.gat,158,155,0,101,0</INFO></NAVI>."
+    },
+    "zG7EDA": {
+        "ko": "[율라타]\n설명을 듣는 것보다 직접 체험해보고 싶으신 거군요.\n나중에 이야기를 듣고 싶어지시면 <NAVI>[축제 박사]<INFO>yuno.gat,158,155,0,101,0</INFO></NAVI> 카세 할아버지께 들러 보십시오.",
+        "en": "[Yulata]\nNo problem.\nIf you want to know more about the origins of the festival, talk to <NAVI>[Doctor Whom]<INFO>yuno.gat,158,155,0,101,0</INFO></NAVI>.",
+        "pt": "[Yulata]\nSem problemas.\nSe quiser saber mais sobre as origens do festival, fale com <NAVI>[Doutor Quem]<INFO>yuno.gat,158,155,0,101,0</INFO></NAVI>.",
+        "es": "[Yulata]\nSin problema.\nSi quieres saber más sobre los orígenes del festival, habla con <NAVI>[Doctor Quién]<INFO>yuno.gat,158,155,0,101,0</INFO></NAVI>."
+    },
+    "zW7EDA": {
+        "ko": "[율라타]\n알 찾기 행사는 하루 한 번만이랍니다.\n여러 번 상품을 드릴 수 있다면 좋겠지만 다른 분들께도 나눠드려야 하니까요.",
+        "en": "[Yulata]\nThis contest can be repeated once per day.\nIf you want, you can remove this restriction.",
+        "pt": "[Yulata]\nEssa gincana pode ser refeita 1 vez por dia.\nSe você quiser, pode retirar essa restrição.",
+        "es": "[Yulata]\nEste concurso se puede repetir 1 vez al día.\nSi quieres, puedes eliminar esta restricción."
+    },
+    "zm7EDA": {
+        "ko": "돌아가서 쉬겠다.",
+        "en": "I'll come back tomorrow.",
+        "pt": "Voltarei amanhã.",
+        "es": "Volveré mañana."
+    },
+    "z27EDA": {
+        "ko": "또 참가하고 싶다!",
+        "en": "I want to do it again!",
+        "pt": "Quero fazer de novo!",
+        "es": "¡Quiero hacerlo de nuevo!"
+    },
+    "0G7EDA": {
+        "ko": "[율라타]\n새벽이 지난 뒤에 다시 와서 행사에 참가해 주세요.\n{0} 님이 축제를 즐겨 주셔서 기뻐요!",
+        "en": "[Yulata]\nI'll be here tomorrow.\nThanks for your participation, {0}!",
+        "pt": "[Yulata]\nEstarei aqui amanhã.\nObrigada pela sua participação, {0}!",
+        "es": "[Yulata]\nEstaré aquí mañana.\n¡Gracias por tu participación, {0}!"
+    },
+    "0W7EDA": {
+        "ko": "[율라타]\n으음... 모험가님의 간절한 마음, 어쩔 수 없네...\n제가 좋아하는 <ITEM>[냥다래 열매]<INFO>6909</INFO></ITEM> 하나를 주시면 오늘 한 번 더 참가하게 해드릴게요.",
+        "en": "[Yulata]\nHow wonderful!\nTo remove the waiting time, bring 1 <ITEM>[Nyangvine]<INFO>6909</INFO></ITEM>.",
+        "pt": "[Yulata]\nQue felicidade!\nPara remover o tempo de espera, traga 1 <ITEM>[MiauMiau]<INFO>6909</INFO></ITEM>.",
+        "es": "[Yulata]\n¡Qué alegría!\nPara eliminar el tiempo de espera, trae 1 <ITEM>[MiauFruto]<INFO>6909</INFO></ITEM>."
+    },
+    "0m7EDA": {
+        "ko": "사양하겠다.",
+        "en": "Ah... No, thanks.",
+        "pt": "Ah... Então, não.",
+        "es": "Ah... Entonces no."
+    },
+    "027EDA": {
+        "ko": "냥다래 열매를 주겠다!",
+        "en": "Here's the Nyangvine!",
+        "pt": "Aqui está o MiauMiau!",
+        "es": "¡Aquí está el MiauFruto!"
+    },
+    "1G7EDA": {
+        "ko": "[율라타]\n좋아요. 새벽이 지난 뒤에 다시 와서 행사에 참가해 주세요.\n{0} 님이 축제를 즐겨 주셔서 기뻐요!",
+        "en": "[Yulata]\nAlright, I'll be here tomorrow.\nThanks for your participation, {0}!",
+        "pt": "[Yulata]\nTudo bem, estarei aqui amanhã.\nObrigada pela sua participação, {0}!",
+        "es": "[Yulata]\nEstá bien, estaré aquí mañana.\n¡Gracias por tu participación, {0}!"
+    },
+    "1W7EDA": {
+        "ko": "[율라타]\n어, 냥다래 열매를 하나도 가지고 있지 않으십니다...\n새벽이 지난 뒤에 다시 와서 행사에 참가해 주세요.",
+        "en": "[Yulata]\nYou don't have a Nyangvine...\nPlease come back when you have one.",
+        "pt": "[Yulata]\nVocê não tem MiauMiau...\nPor favor, volte quando possuir.",
+        "es": "[Yulata]\nNo tienes MiauFruto...\nPor favor, vuelve cuando tengas uno."
+    },
+    "1m7EDA": {
+        "ko": "[율라타]\n좋아요, 특별히 한 번 더 참가할 수 있게 해드릴게요.\n너무 피로하지는 않으시지요? 제게 다시 말을 걸어 주시면 행사에 참가하게 해 드릴게요!",
+        "en": "[Yulata]\nVery well, I'll let you participate one more time.\nTalk to me again to start!",
+        "pt": "[Yulata]\nMuito bem, vou deixar você participar mais uma vez.\nFale comigo novamente para iniciarmos!",
+        "es": "[Yulata]\nMuy bien, te dejaré participar una vez más.\n¡Habla conmigo de nuevo para empezar!"
+    },
+    "127EDA": {
+        "ko": "[율라타]\n행복한 알은 찾아 보셨어요? 잘 숨겨 두었지요?\n총 3개 찾아서 깨트리고 돌아오시면 기념 상품을 드리겠습니다.",
+        "en": "[Yulata]\nSo? Did you manage it?\nIf you defeat 3 Happy Eggs, I'll give you a reward.",
+        "pt": "[Yulata]\nE aí? Conseguiu?\nSe você eliminar 3 Ovos Felizes eu darei uma recompensa.",
+        "es": "[Yulata]\n¿Y bien? ¿Lo lograste?\nSi eliminas 3 Huevos Decorados te daré una recompensa."
+    },
+    "2G7EDA": {
+        "ko": "[알림]\n - 가방이 가득 찼습니다. 소지 무게와 소지 물품 수량 확인 뒤 다시 말을 걸어 주세요. -",
+        "en": "- Inventory full. Please empty it. -",
+        "pt": "- Inventário cheio. Esvazie-o, por favor. -",
+        "es": "- Inventario lleno. Por favor, vacíalo. -"
+    },
+    "2W7EDA": {
+        "ko": "[율라타]\n오늘의 행복한 알을 전부 찾아 오셨군요. 상품을 증정해 드리겠습니다. <ITEM>[클로버 티켓]<INFO>25294</INFO></ITEM>이에요.\n행운이 아닌, 행복을 상징하는 세잎 클로버가 그려진 티켓이랍니다.",
+        "en": "[Yulata]\nGreat! Here's this <ITEM>[Clover Ticket]<INFO>25294</ITEM>.\nThree-leaf Clovers symbolize Happiness, not Luck.",
+        "pt": "[Yulata]\nMuito bem! Tome esse <ITEM>[Bilhete de Trevo]<INFO>25294</INFO></ITEM>.\nTrevos de 3 folhas simbolizam a Felicidade, não a Sorte.",
+        "es": "[Yulata]\n¡Muy bien! Toma este <ITEM>[Boleto de Trébol]<INFO>25294</INFO></ITEM>.\nLos tréboles de 3 hojas simbolizan la Felicidad, no la Suerte."
+    },
+    "2m7EDA": {
+        "ko": "[율라타]\n이 티켓은 <NAVI>[행복의 큐펫 자판기]<INFO>yuno.gat,176,152,0,101,0</INFO></NAVI>에서 사용하실 수 있어요.\n여러 가지 상품을 드리고 있으니 가서 사용해 보세요!",
+        "en": "[Yulata]\nUse it at the <NAVI>[Festival Machine]<INFO>yuno.gat,176,152,0,101,0</INFO></NAVI>.\nThe rewards are random!",
+        "pt": "[Yulata]\nUse-o na <NAVI>[Máquina do Festival]<INFO>yuno.gat,176,152,0,101,0</INFO></NAVI>.\nAs recompensas são aleatórias!",
+        "es": "[Yulata]\nÚsalo en la <NAVI>[Máquina del Festival]<INFO>yuno.gat,176,152,0,101,0</INFO></NAVI>.\n¡Las recompensas son aleatorias!"
+    },
+    "227EDA": {
+        "ko": "[율라타]\n행사에 참여해 주셔서 감사합니다. 내일도 축제에서 뵙기를 바라요!",
+        "en": "[Yulata]\nI'll see you tomorrow!",
+        "pt": "[Yulata]\nEspero por você amanhã!",
+        "es": "[Yulata]\n¡Te espero mañana!"
+    },
+    "3G7EDA": {
+        "ko": "[율라타]\n행사 준비는 유노 사람들과 슈바이체르빌 대학의 마법 학자분들이 힘을 모아 해 두었습니다.\n마을 밖 여기저기에 숨겨 둔 ^0000CD행복한 알^000000을 찾아서 ^0000CD3개^000000만 깨트리고 오시면 됩니다.",
+        "en": "[Yulata]\nThe Festival was organized by the students of the Schweicherbil Magic Academy.\nMy challenge for you is to ^0000CDdefeat 3 Happy Eggs^000000.",
+        "pt": "[Yulata]\nO Festival foi organizado pelos universitários da Academia de Magia Schweicherbil.\nMinha gincana para você é ^0000CDeliminar 3 Ovos Felizes^000000.",
+        "es": "[Yulata]\nEl Festival fue organizado por los universitarios de la Academia de Magia Schweicherbil.\nMi desafío para ti es ^0000CDeliminar 3 Huevos Decorados^000000."
+    },
+    "3W7EDA": {
+        "ko": "[율라타]\n안에는 맛있고 유용한 것들을 넣어 두었으니 저희의 선물로 받아주시면 됩니다.\n상품으로 <ITEM>[클로버 티켓]<INFO>25294</INFO></ITEM>도 두 장 드립니다.\n축제 행사에 참가하시겠습니까?",
+        "en": "[Yulata]\nThey are scattered in various places.\nThe <ITEM>[Clover Ticket]<INFO>25294</INFO></ITEM> will be given as a prize for the challenge.\nWould you like to participate?",
+        "pt": "[Yulata]\nEles estão espalhados em vários lugares.\nO <ITEM>[Bilhete de Trevo]<INFO>25294</INFO></ITEM> será dado como prêmio pela gincana.\nGostaria de participar?",
+        "es": "[Yulata]\nEstán esparcidos en varios lugares.\nEl <ITEM>[Boleto de Trébol]<INFO>25294</INFO></ITEM> se dará como premio por el concurso.\n¿Te gustaría participar?"
+    },
+    "3m7EDA": {
+        "ko": "참가한다",
+        "en": "Participate",
+        "pt": "Participar",
+        "es": "Participar"
+    },
+    "327EDA": {
+        "ko": "참가하지 않는다",
+        "en": "Not participate",
+        "pt": "Não participar",
+        "es": "No participar"
+    },
+    "4G7EDA": {
+        "ko": "[율라타]\n저희가 열심히 준비한 축제를 즐겨 주신다니 기뻐요.\n마을 밖으로 나가 저희가 숨겨둔 ^0000CD행복한 알^000000을 찾아 보세요!",
+        "en": "[Yulata]\nPerfect.\nCome back here after you ^0000CDdefeat 3 Happy Eggs^000000!",
+        "pt": "[Yulata]\nPerfeito.\nVolte aqui quando ^0000CDeliminar 3 Ovos Felizes^000000!",
+        "es": "[Yulata]\nPerfecto.\n¡Vuelve aquí cuando ^0000CDelimines 3 Huevos Decorados^000000!"
+    },
+    "4W7EDA": {
+        "ko": "[율라타]\n축제 기간은 깁니다. 다음에 행사에 참가하고 싶어지시면 제게 와 주세요.",
+        "en": "[Yulata]\nCome back whenever you feel like participating.",
+        "pt": "[Yulata]\nVolte quando tiver afim de participar.",
+        "es": "[Yulata]\nVuelve cuando tengas ganas de participar."
+    },
+    "4m7EDA": {
+        "ko": "축제 장식 플래너",
+        "en": "Luluphant",
+        "pt": "Lulufante",
+        "es": "Lulufante"
+    },
+    "427EDA": {
+        "ko": "[루루판트]\n안녕, 모험가님. 날씨도 쾌청하고 하늘도 맑아 참 좋은 날이네.",
+        "en": "[Luluphant]\nThe weather is clear and the sky is bright, so it's a very nice day.",
+        "pt": "[Lulufante]\nO tempo está limpo e o céu está claro, então é um dia muito bom.",
+        "es": "[Lulufante]\nEl tiempo está despejado y el cielo está claro, así que es un muy buen día."
+    },
+    "5G7EDA": {
+        "ko": "[루루판트]\n행복한 알 축제에 참여하려면 먼저 <NAVI>[축제 위원]<INFO>yuno,175,162,0,101,0</INFO></NAVI> 율라타 씨에게 가서 설명을 듣고 오도록 해. 무슨 일이든 시작 지점이 중요하잖니?",
+        "en": "[Luluphant]\nTo start your participation in the Happy Egg Festival, talk to <NAVI>[Yulata]<INFO>yuno,175,162,0,101,0</INFO></NAVI>.",
+        "pt": "[Lulufante]\nPara iniciar sua participação no Festival das Mascotes, fale com a <NAVI>[Yulata]<INFO>yuno,175,162,0,101,0</INFO></NAVI>",
+        "es": "[Lulufante]\nPara comenzar tu participación en el Festival de las Mascotas, habla con <NAVI>[Yulata]<INFO>yuno,175,162,0,101,0</INFO></NAVI>."
+    },
+    "5W7EDA": {
+        "ko": "[루루판트]\n축제가 열렸는데 행사라곤 해도 하루 종일 날 도와주기만 하면 재미없지 않겠어?\n화창한 봄날이니 좀더 놀다가 새벽이 지나고 다시 와.",
+        "en": "[Luluphant]\nWouldn't it be nice if you helped me multiple times a day?\nIf you want to participate again, I can remove your daily restriction.",
+        "pt": "[Lulufante]\nNão seria legal se você me ajudasse várias vezes ao dia?\nSe você quiser participar de novo, eu posso retirar sua restrição diária.",
+        "es": "[Lulufante]\n¿No sería genial si me ayudaras varias veces al día?\nSi quieres participar de nuevo, puedo eliminar tu restricción diaria."
+    },
+    "5m7EDA": {
+        "ko": "돌아가서 놀겠다.",
+        "en": "I'll come back tomorrow.",
+        "pt": "Voltarei amanhã.",
+        "es": "Volveré mañana."
+    },
+    "527EDA": {
+        "ko": "또 도와드리고 싶다!",
+        "en": "I want to do it again!",
+        "pt": "Quero fazer de novo!",
+        "es": "¡Quiero hacerlo de nuevo!"
+    },
+    "6G7EDA": {
+        "ko": "[루루판트]\n재미있게 놀렴. 혈기 넘치는 모험가님을 보니 젊을 때가 생각나네. 그때는 봄이면 가랑잎 타고 큰 바다를 건너는 여행을 떠났지.",
+        "en": "[Luluphant]\nToday is a sunny spring day, so play a bit more and come back after dawn.",
+        "pt": "[Lulufante]\nHoje é um dia ensolarado de primavera, então brinque um pouco mais e volte depois do amanhecer.",
+        "es": "[Lulufante]\nHoy es un día soleado de primavera, así que juega un poco más y vuelve después del amanecer."
+    },
+    "6W7EDA": {
+        "ko": "[루루판트]\n으음... 모험가님의 간절한 마음, 어쩔 수 없네...\n내가 좋아하는 <ITEM>[냥다래 열매]<INFO>6909</INFO></ITEM>를 하나 줄래? 그럼 오늘 한 번 더 일거리를 줄게.",
+        "en": "[Luluphant]\nHow wonderful!\nTo remove the waiting time, bring 1 <ITEM>[Nyangvine]<INFO>6909</INFO></ITEM>.",
+        "pt": "[Lulufante]\nQue felicidade!\nPara remover o tempo de espera, traga 1 <ITEM>[MiauMiau]<INFO>6909</INFO></ITEM>.",
+        "es": "[Lulufante]\n¡Qué alegría!\nPara eliminar el tiempo de espera, trae 1 <ITEM>[MiauFruto]<INFO>6909</INFO></ITEM>."
+    },
+    "6m7EDA": {
+        "ko": "냥다래 열매를 드리겠다!",
+        "en": "Here's the Nyangvine!",
+        "pt": "Aqui está o MiauMiau!",
+        "es": "¡Aquí está el MiauFruto!"
+    },
+    "627EDA": {
+        "ko": "[루루판트]\n가서 더 놀다 오련. 혈기 넘치는 모험가님을 보니 젊을 때가 생각나네. 그때는 봄이면 가랑잎 타고 큰 바다를 건너는 여행을 떠났지.",
+        "en": "[Luluphant]\nThen enjoy the blue sky and go play outside.",
+        "pt": "[Lulufante]\nEntão aproveite o céu azul e vá brincar lá fora.",
+        "es": "[Lulufante]\nEntonces disfruta del cielo azul y ve a jugar afuera."
+    },
+    "7G7EDA": {
+        "ko": "[루루판트]\n어머, 냥다래 열매를 하나도 가지고 있지 않잖니.\n가서 더 놀다 오련.",
+        "en": "[Luluphant]\nYou don't have a Nyangvine.\nWhat a pity.",
+        "pt": "[Lulufante]\nVocê não tem a MiauMiau.\nUma pena.",
+        "es": "[Lulufante]\nNo tienes un MiauFruto.\nQué pena."
+    },
+    "7W7EDA": {
+        "ko": "[루루판트]\n좋아, 일거리를 하나 더 줄게.\n너무 피로하지는 않지? 내게 다시 말을 걸어 주렴.",
+        "en": "[Luluphant]\nAlright, let's go back to the contest again.\nTalk to me whenever you want.",
+        "pt": "[Lulufante]\nCerto, vamos voltar para a gincana novamente.\nFale comigo quando quiser.",
+        "es": "[Lulufante]\nBien, volvamos al concurso otra vez.\nHabla conmigo cuando quieras."
+    },
+    "7m7EDA": {
+        "ko": "[루루판트]\n<ITEM>[행복의 세잎 클로버]<INFO>25295</INFO></ITEM>를 3장 부탁할게. 클로버 루나틱도 3마리 사냥하고 오렴.",
+        "en": "[Luluphant]\nI want you to defeat 3 Clover Lunatics and bring me 3 <ITEM>[Clovers of Happiness]<INFO>25295</INFO></ITEM>.",
+        "pt": "[Lulufante]\nQuero que elimine 3 Lunáticos de Trevo e traga 3 <ITEM>[Trevos da Felicidade]<INFO>25295</INFO></ITEM>.",
+        "es": "[Lulufante]\nQuiero que elimines 3 Lunáticos de Trébol y me traigas 3 <ITEM>[Tréboles de la Felicidad]<INFO>25295</INFO></ITEM>."
+    },
+    "727EDA": {
+        "ko": "[루루판트]\n요즘 참 많아졌거든. 찾기는 어렵지 않을 거야.",
+        "en": "[Luluphant]\nClovers of Happiness are easily found on Clover Lunatics.",
+        "pt": "[Lulufante]\nOs Trevos da Felicidade são facilmente encontrados pelos Lunáticos de Trevo.",
+        "es": "[Lulufante]\nLos Tréboles de la Felicidad son encontrados fácilmente por los Lunáticos de Trébol."
+    },
+    "8G7EDA": {
+        "ko": "[루루판트]\n<ITEM>[행복의 세잎 클로버]<INFO>25295</INFO></ITEM>를 3장 부탁할게.",
+        "en": "[Luluphant]\nI still need 3 <ITEM>[Clovers of Happiness]<INFO>25295</INFO></ITEM>.",
+        "pt": "[Lulufante]\nAinda preciso de 3 <ITEM>[Trevos da Felicidade]<INFO>25295</INFO></ITEM>.",
+        "es": "[Lulufante]\nTodavía necesito 3 <ITEM>[Tréboles de la Felicidad]<INFO>25295</INFO></ITEM>."
+    },
+    "8W7EDA": {
+        "ko": "[루루판트]\n요즘 클로버 루나틱이 참 많아졌거든. 클로버 루나틱에게서 얻을 수 있으니 구하기는 어렵지 않을 거야.",
+        "en": "[Luluphant]\nClovers of Happiness are easily found on Clover Lunatics. Just hunt them around.",
+        "pt": "[Lulufante]\nOs Trevos da Felicidade são facilmente encontrados pelos Lunáticos de Trevo. Basta caçá-los por aí.",
+        "es": "[Lulufante]\nLos Tréboles de la Felicidad son encontrados fácilmente por los Lunáticos de Trébol. Solo tienes que cazarlos por ahí."
+    },
+    "8m7EDA": {
+        "ko": "[루루판트]\n행복의 세잎 클로버를 가져왔구나! 네 머리카락에도 하나 꽂아 줄게.\n약속한 <ITEM>[클로버 티켓]<INFO>25294</INFO></ITEM>도 선물할게. <NAVI>[행복의 큐펫 자판기]<INFO>yuno.gat,176,152,0,101,0</INFO></NAVI>에서 사용하면 된단다.",
+        "en": "[Luluphant]\nYou brought the Clovers of Happiness!\nHere is the <ITEM>[Clover Ticket]<INFO>25294</INFO></ITEM>! Use it at the <NAVI>[Festival Machine]<INFO>yuno.gat,176,152,0,101,0</INFO></NAVI>.",
+        "pt": "[Lulufante]\nVocê trouxe os Trevos da Felicidade!\nAqui está o <ITEM>[Bilhete de Trevo]<INFO>25294</INFO></ITEM>! Use-o na <NAVI>[Máquina do Festival]<INFO>yuno.gat,176,152,0,101,0</INFO></NAVI>.",
+        "es": "[Lulufante]\n¡Trajiste los Tréboles de la Felicidad!\n¡Aquí tienes el <ITEM>[Boleto de Trébol]<INFO>25294</INFO></ITEM>! Úsalo en la <NAVI>[Máquina del Festival]<INFO>yuno.gat,176,152,0,101,0</INFO></NAVI>."
+    },
+    "827EDA": {
+        "ko": "[루루판트]\n오늘 하루도 축제를 즐기렴. 그리고 내일 다시 와줘!",
+        "en": "[Luluphant]\nEnjoy the rest of your day and come back tomorrow!",
+        "pt": "[Lulufante]\nAproveite o resto do dia e volte amanhã!",
+        "es": "[Lulufante]\nDisfruta el resto del día y ¡vuelve mañana!"
+    },
+    "9G7EDA": {
+        "ko": "[루루판트]\n안녕, 모험가님. 오늘 날씨도 쾌청하고 하늘도 맑아 좋은걸. 거미줄에서 신나게 그네를 타고 싶을 정도야.",
+        "en": "[Luluphant]\nHello, traveler. Today is a perfect day for lazing in a hammock.",
+        "pt": "[Lulufante]\nOlá, viajante. O dia hoje está propício para se balançar numa rede.",
+        "es": "[Lulufante]\nHola, trotamundos. El día de hoy está propicio para balancearse en una hamaca."
+    },
+    "9W7EDA": {
+        "ko": "[루루판트]\n나와 함께 행복한 알 축제 장식을 하지 않겠어?\n행복'이라는 꽃말을 가진 세잎 클로버를 모아서 여기저기 장식하고 서로 선물하기도 하는 거야. 행복한 알 축제의 묘미지.",
+        "en": "[Luluphant]\nOr, why not participate in the Happy Egg Festival?\nI have a very special challenge for you.",
+        "pt": "[Lulufante]\nOu então, por que não participa do Festival das Mascotes?\nEu tenho uma gincana muito especial para você.",
+        "es": "[Lulufante]\nO también, ¿por qué no participas del Festival de las Mascotas?\nTengo un desafío muy especial para ti."
+    },
+    "9m7EDA": {
+        "ko": "[루루판트]\n클로버 루나틱을 사냥하면 행복의 세잎 클로버를 얻을 수 있어. 가서 클로버 루나틱 3마리를 사냥하고 <ITEM>[행복의 세잎 클로버]<INFO>25295</INFO></ITEM>도 3장 얻어다 주렴.\n나와 함께 해 준다면 작은 보답으로 <ITEM>[클로버 티켓]<INFO>25294</INFO></ITEM>을 두 장 줄게.",
+        "en": "[Luluphant]\nDefeat 3 Clover Lunatics and bring me 3 <ITEM>[Clovers of Happiness]<INFO>25295</INFO></ITEM>.\nIn exchange, I'll give you 2 <ITEM>[Clover Tickets]<INFO>25294</INFO></ITEM>.",
+        "pt": "[Lulufante]\nElimine 3 Lunáticos de Trevo e me traga 3 <ITEM>[Trevos da Felicidade]<INFO>25295</INFO></ITEM>.\nEm troca, lhe darei 2 <ITEM>[Bilhetes de Trevo]<INFO>25294</INFO></ITEM>.",
+        "es": "[Lulufante]\nElimina 3 Lunáticos de Trébol y tráeme 3 <ITEM>[Tréboles de la Felicidad]<INFO>25295</INFO></ITEM>.\nA cambio, te daré 2 <ITEM>[Boletos de Trébol]<INFO>25294</INFO></ITEM>."
+    },
+    "927EDA": {
+        "ko": "함께 한다.",
+        "en": "Participate",
+        "pt": "Participar",
+        "es": "Participar"
+    },
+    "+G7EDA": {
+        "ko": "함께 하지 않는다.",
+        "en": "Not participate",
+        "pt": "Não participar",
+        "es": "No participar"
+    },
+    "+W7EDA": {
+        "ko": "[루루판트]\n도와준다니 기뻐라. 다녀오는 동안 나는 행복한 알 채색을 돕고 있을게!",
+        "en": "[Luluphant]\nI'm glad you accepted!",
+        "pt": "[Lulufante]\nEstou feliz que você topou!",
+        "es": "[Lulufante]\n¡Me alegra que hayas aceptado!"
+    },
+    "+m7EDA": {
+        "ko": "[루루판트]\n이해해. 한창 여기저기 재미있는 게 많을 때니 바쁘지?",
+        "en": "[Luluphant]\nI understand. The best thing really is to laze in the hammock, right?",
+        "pt": "[Lulufante]\nEntendo. O melhor mesmo é se balançar na rede, não é?",
+        "es": "[Lulufante]\nEntiendo. Lo mejor es holgazanear en la hamaca, ¿verdad?"
+    },
+    "+27EDA": {
+        "ko": "[루루판트]\n그래도 나중에 여유시간이 생긴다면 내 부탁을 기억해 줘.",
+        "en": "[Luluphant]\nBut if you have time, come here so we can play.",
+        "pt": "[Lulufante]\nMas se tiver tempo, venha aqui para brincarmos.",
+        "es": "[Lulufante]\nPero si tienes tiempo, ven aquí para que juguemos."
+    },
+    "/G7EDA": {
+        "ko": "질리언",
+        "en": "Gillian",
+        "pt": "Gillian",
+        "es": "Gillian"
+    },
+    "/W7EDA": {
+        "ko": "[질리언]\n오, 손님이에요?\n먼저 <NAVI>[축제 위원]<INFO>yuno,175,162,0,101,0</INFO></NAVI> 율라타 씨에게 가서 설명을 듣고 와 주세요!",
+        "en": "[Gillian]\nDo you want to participate in the Happy Egg Festival?\nTalk to <NAVI>[Yulata]<INFO>yuno,175,162,0,101,0</INFO></NAVI>!",
+        "pt": "[Gillian]\nQuer participar do Festival das Mascotes?\nFale com <NAVI>[Yulata]<INFO>yuno,175,162,0,101,0</INFO></NAVI>!",
+        "es": "[Gillian]\n¿Quieres participar en el Festival de las Mascotas?\n¡Habla con <NAVI>[Yulata]<INFO>yuno,175,162,0,101,0</INFO></NAVI>!"
+    },
+    "/m7EDA": {
+        "ko": "[질리언]\n이쪽은 좀 바빠서 차분하게 설명해 줄 짬이 나지 않네요!\n그러니까 율라타 씨에게. 잘 부탁합니다!",
+        "en": "[Gillian]\nWith your registration, I can delegate a task to you!\nSo go there!",
+        "pt": "[Gillian]\nCom sua inscrição eu poderei delegar alguma tarefa para você!\nEntão vá lá!",
+        "es": "[Gillian]\n¡Con tu inscripción podré delegarte alguna tarea!\n¡Así que ve allá!"
+    },
+    "/27EDA": {
+        "ko": "[질리언]\n오, 한참 마지판을 반죽하던 중이었는데. 마침 잘 오셨어요!\n뭔가 돕고 싶으시다면 이 마지판을 좀…",
+        "en": "[Gillian]\nOh, I didn't see you there, I was busy!\nIsn't it a bit early for you to participate in the contest?",
+        "pt": "[Gillian]\nOh, não vi você aí, estava ocupada!\nNão tá muito cedo para você participar da gincana?",
+        "es": "[Gillian]\nOh, no te vi ahí, ¡estaba ocupada!\n¿No es muy temprano para que participes en el concurso?"
+    },
+    "AG/EDA": {
+        "ko": "[질리언]\n아, 그건 사양이시라고요.\n그러면 새벽이 지나고 나서 와 주세요. 재료 배달을 부탁드릴게요!",
+        "en": "[Gillian]\nUnless you want to remove the daily restriction from the contest.\nThat I can do!",
+        "pt": "[Gillian]\nA menos que você queira tirar a restrição diária da gincana.\nIsso eu consigo fazer!",
+        "es": "[Gillian]\nA menos que quieras eliminar la restricción diaria del concurso.\n¡Eso sí puedo hacerlo!"
+    },
+    "AW/EDA": {
+        "ko": "지금 도와줄 수 있다!",
+        "en": "I want to participate again!",
+        "pt": "Quero participar de novo!",
+        "es": "¡Quiero participar de nuevo!"
+    },
+    "Am/EDA": {
+        "ko": "[질리언]\n새벽이 지난 뒤에 다시 오시면 재료 배달을 부탁드릴게요.\n지금은 가셔서 푹 쉬세요!",
+        "en": "[Gillian]\nSure thing.\nI'll be waiting for you tomorrow!",
+        "pt": "[Gillian]\nTranquilo.\nEstarei esperando por você amanhã!",
+        "es": "[Gillian]\nTranquilo.\n¡Te estaré esperando mañana!"
+    },
+    "A2/EDA": {
+        "ko": "[질리언]\n으음... 모험가님의 간절한 마음, 어쩔 수 없군요...\n제가 좋아하는 <ITEM>[냥다래 열매]<INFO>6909</INFO></ITEM> 하나 주시면 오늘 한 번 더 재료 배달을 부탁드릴게요.",
+        "en": "[Gillian]\nHow wonderful!\nTo remove the waiting time, bring 1 <ITEM>[Nyangvine]<INFO>6909</INFO></ITEM>.",
+        "pt": "[Gillian]\nQue felicidade!\nPara remover o tempo de espera, traga 1 <ITEM>[MiauMiau]<INFO>6909</INFO></ITEM>.",
+        "es": "[Gillian]\n¡Qué alegría!\nPara eliminar el tiempo de espera, trae 1 <ITEM>[MiauFruto]<INFO>6909</INFO></ITEM>."
+    },
+    "BG/EDA": {
+        "ko": "[질리언]\n좋아요. 새벽이 지난 뒤에 다시 오시면 재료 배달을 부탁드릴게요.\n지금은 가셔서 푹 쉬세요!",
+        "en": "[Gillian]\nAlright, you can still repeat the quest tomorrow.",
+        "pt": "[Gillian]\nTudo bem, você ainda pode repetir a missão amanhã.",
+        "es": "[Gillian]\nEstá bien, aún puedes repetir la misión mañana."
+    },
+    "BW/EDA": {
+        "ko": "[질리언]\n어, 냥다래 열매를 하나도 가지고 있지 않으시네요?\n에이, 그냥 가서 쉬세요. 저희도 바쁘지만 괜찮아요.",
+        "en": "[Gillian]\nWell, where is it?\nNo Nyangvine, no reset.",
+        "pt": "[Gillian]\nE cadê?\nSem MiauMiau, sem reset.",
+        "es": "[Gillian]\n¿Y dónde está?\nSin MiauFruto, no hay reinicio."
+    },
+    "Bm/EDA": {
+        "ko": "[질리언]\n좋아요, 특별히 한 번 더 재료 배달을 부탁드릴게요.\n너무 피로하지는 않으시지요? 제게 다시 말을 걸어 주시면 안내해 드릴게요!",
+        "en": "[Gillian]\nCool.\nTalk to me again to restart the contest!",
+        "pt": "[Gillian]\nLegal.\nFale comigo novamente para reiniciarmos a gincana!",
+        "es": "[Gillian]\nGenial.\n¡Habla conmigo de nuevo para reiniciar el concurso!"
+    },
+    "B2/EDA": {
+        "ko": "[질리언]",
+        "en": "[Gillian]",
+        "pt": "[Gillian]",
+        "es": "[Gillian]"
+    },
+    "CG/EDA": {
+        "ko": "고마워요. 받아다 주셔야 하는 재료는 두 가지예요.\n이즈루드의 <NAVI>[농부 쉐란]<INFO>izlude.gat,164,148,0,101,0</INFO></NAVI>씨에게 아몬드 한 자루, 프론테라의 <NAVI>[파티시에 이언]<INFO>prontera.gat,268,156,0,101,0</INFO></NAVI>에게 초콜렛 한 판.",
+        "en": "You need to get 2 ingredients from two colleagues.\nFirst, <NAVI>[Sheran]<INFO>izlude.gat,164,148,0,101,0</INFO></NAVI>. Then, <NAVI>[Yana]<INFO>prontera.gat,268,156,0,101,0</INFO></NAVI>.",
+        "pt": "Você precisa pegar 2 ingredientes com dois colegas.\nPrimeiro, <NAVI>[Sheran]<INFO>izlude.gat,164,148,0,101,0</INFO></NAVI>. Depois, <NAVI>[Yana]<INFO>prontera.gat,268,156,0,101,0</INFO></NAVI>.",
+        "es": "Necesitas conseguir 2 ingredientes con dos colegas.\nPrimero, <NAVI>[Sheran]<INFO>izlude.gat,164,148,0,101,0</INFO></NAVI>. Después, <NAVI>[Yana]<INFO>prontera.gat,268,156,0,101,0</INFO></NAVI>."
+    },
+    "CW/EDA": {
+        "ko": "고마워요. 나머지 한 가지 재료도 부탁드려요.\n이즈루드의 <NAVI>[농부 쉐란]<INFO>izlude.gat,164,148,0,101,0</INFO></NAVI>씨에게 아몬드 한 자루.",
+        "en": "That's it.\nStill need the Almond Grains from <NAVI>[Sheran]<INFO>izlude.gat,164,148,0,101,0</INFO></NAVI>.",
+        "pt": "Isso aí.\nFaltam os Grãos de Amêndoas de <NAVI>[Sheran]<INFO>izlude.gat,164,148,0,101,0</INFO></NAVI>.",
+        "es": "Eso es.\nFaltan los Granos de Almendras de <NAVI>[Sheran]<INFO>izlude.gat,164,148,0,101,0</INFO></NAVI>."
+    },
+    "Cm/EDA": {
+        "ko": "고마워요. 나머지 한 가지 재료도 부탁드려요.\n프론테라의 <NAVI>[파티시에 이언]<INFO>prontera.gat,268,156,0,101,0</INFO></NAVI>에게 초콜렛 한 판.",
+        "en": "That's it.\nStill need the Chocolate Bar from <NAVI>[Yana]<INFO>prontera.gat,268,156,0,101,0</INFO></NAVI>.",
+        "pt": "Isso aí.\nFalta a Barra de Chocolate da <NAVI>[Yana]<INFO>prontera.gat,268,156,0,101,0</INFO></NAVI>.",
+        "es": "Eso es.\nFalta la Barra de Chocolate de <NAVI>[Yana]<INFO>prontera.gat,268,156,0,101,0</INFO></NAVI>."
+    },
+    "C2/EDA": {
+        "ko": "[질리언]\n지금 다녀오시면 시간이 딱 맞을 거예요.\n잘 부탁드려요!",
+        "en": "[Gillian]\nI better hurry up with the ingredient delivery here.\nThanks!",
+        "pt": "[Gillian]\nMelhor eu agilizar aqui com a entrega dos ingredientes.\nObrigada!",
+        "es": "[Gillian]\nMejor me apuro aquí con la entrega de los ingredientes.\n¡Gracias!"
+    },
+    "DG/EDA": {
+        "ko": "[질리언]\n아몬드 한 자루, 초콜렛 한 판. 무사히 가져다주셔서 감사해요!\n정말이지 너무너무 바쁘네요! 괜찮다면 내일도 좀 부탁드려도 될까요?",
+        "en": "[Gillian]\nYou brought everything!\nWould you do the same challenge tomorrow?",
+        "pt": "[Gillian]\nVocê trouxe tudo!\nSerá que amanhã você faria a mesma gincana?",
+        "es": "[Gillian]\n¡Trajiste todo!\n¿Mañana harías el mismo desafío?"
+    },
+    "DW/EDA": {
+        "ko": "[베티나르]\n질리언, 여기 초콜렛 똑 떨어졌어!",
+        "en": "[Audrey]\nGillian, I need you!",
+        "pt": "[Betina]\nGillian, preciso se você!",
+        "es": "[Jazmín]\nGillian, ¡te necesito!"
+    },
+    "Dm/EDA": {
+        "ko": "[질리언]\n지금 막 도착했어! 조금만 기다려, 곧 나눠줄게!",
+        "en": "[Gillian]\nCalm down! The ingredients just arrived!",
+        "pt": "[Gillian]\nCalma! Os ingredientes acabaram de chegar!",
+        "es": "[Gillian]\n¡Calma! ¡Los ingredientes acaban de llegar!"
+    },
+    "D2/EDA": {
+        "ko": "[위스타드]\n……\n……\n……헉, 깜박 졸았다!",
+        "en": "[Wistard]\n...\n...\n... Oops, I fell asleep without realizing it!",
+        "pt": "[Wistard]\n...\n...\n... Eita, adormeci sem perceber!",
+        "es": "[Wistard]\n...\n...\n... ¡Vaya, me quedé dormido sin darme cuenta!"
+    },
+    "EG/EDA": {
+        "ko": "[질리언]\n하하…… 다들 피곤해서 정신이 없네요.\n하지만 축제는 즐거워요! 그렇지요?",
+        "en": "[Gillian]\nHaha... Everyone is so tired.\nBut at least this Festival is worth it, isn't it?",
+        "pt": "[Gillian]\nHaha... Está todo mundo tão cansado.\nMas pelo menos esse Festival vale à pena, não é?",
+        "es": "[Gillian]\nJaja... Todos están tan cansados.\nPero al menos este Festival vale la pena, ¿no?"
+    },
+    "EW/EDA": {
+        "ko": "[질리언]\n참, 감사의 표시를 해야지. 여기 <ITEM>[클로버 티켓]<INFO>25294</INFO></ITEM> 2장 드릴게요.\n<NAVI>[행복의 큐펫 자판기]<INFO>yuno.gat,176,152,0,101,0</INFO></NAVI>에서 사용해 보세요, 안녕!",
+        "en": "[Gillian]\nHere are 2 <ITEM>[Clover Tickets]<INFO>25294</INFO></ITEM>!\nUse them at the <NAVI>[Festival Machine]<INFO>yuno.gat,176,152,0,101,0</INFO></NAVI>!",
+        "pt": "[Gillian]\nFique com 2 <ITEM>[Bilhetes de Trevo]<INFO>25294</INFO></ITEM>!\nUse-os na <NAVI>[Máquina do Festival]<INFO>yuno.gat,176,152,0,101,0</INFO></NAVI>!",
+        "es": "[Gillian]\n¡Quédate con 2 <ITEM>[Boletos de Trébol]<INFO>25294</INFO></ITEM>!\n¡Úsalos en la <NAVI>[Máquina del Festival]<INFO>yuno.gat,176,152,0,101,0</INFO></NAVI>!"
+    },
+    "Em/EDA": {
+        "ko": "오, 학생이잖아? 아니에요? 모험 중이라고. 아쉽네. 일손인 줄 알았더니.",
+        "en": "Ah, someone who graduated as a Sage! Congratulations on your achievement!",
+        "pt": "Ah, alguém que se formou como Sábio! Parabéns pela conquista!",
+        "es": "Ah, ¡alguien que se graduó como Sabio! ¡Felicidades por el logro!"
+    },
+    "E2/EDA": {
+        "ko": "오, 손님이에요? 지금 이쪽은 눈코 뜰 새 없이 바빠요.",
+        "en": "Ah, a customer? We're incredibly busy here right now.",
+        "pt": "Ah, um cliente? Estamos incrivelmente ocupados aqui agora.",
+        "es": "Ah, ¿un cliente? Estamos increíblemente ocupados aquí ahora."
+    },
+    "FG/EDA": {
+        "ko": "혹시 축제 일손 좀 거들 생각 없나요?",
+        "en": "Would you like to participate in the Festival challenges?",
+        "pt": "Você gostaria de participar das gincanas do Festival?",
+        "es": "¿Te gustaría participar en el concurso del Festival?"
+    },
+    "FW/EDA": {
+        "ko": "[질리언]\n저희는 슈바이체르빌 대학 학생들이에요. 행복한 알 제작팀이죠!\n연구와 실험은 평소처럼 하면서 행복한 알 축제 준비까지 하려니 정말 바쁘네요.",
+        "en": "[Gillian]\nI'm the Chemistry professor at the Schweicherbil Magic Academy!\nI'm helping my students at the Happy Egg Festival.",
+        "pt": "[Gillian]\nEu sou a professora de Química da Academia de Magia Schweicherbil!\nEstou ajudando meus alunos no Festival das Mascotes.",
+        "es": "[Gillian]\n¡Soy la profesora de Química de la Academia de Magia Schweicherbil!\nEstoy ayudando a mis alumnos en el Festival de las Mascotas."
+    },
+    "Fm/EDA": {
+        "ko": "[질리언]\n축제 기간에 행복한 알을 만드는 일은 마을 사람들과 우리 대학 학생들이 나눠서 해요. 오랜 전통이죠!",
+        "en": "[Gillian]\nMy task is to make Chocolate Almond Eggs!",
+        "pt": "[Gillian]\nMinha tarefa é fazer Ovos de Chocolate com Amêndoas!",
+        "es": "[Gillian]\n¡Mi tarea es hacer Huevos de Chocolate con Almendras!"
+    },
+    "F2/EDA": {
+        "ko": "[질리언]\n과제와 시험은 평소와 똑같아서 진짜 피곤하기는 한데… 그래도 이렇게 마을 사람들과 어울릴 수 있는 날이 많지 않아서 정말 좋네요.",
+        "en": "[Gillian]\nWork and exams continue as usual, so it's quite tiring... but still, it's not every day we get to mingle with the townspeople, so it's really nice.",
+        "pt": "[Gillian]\nTrabalhos e exames continuam como sempre, então é bem cansativo... mas ainda assim, não é todo dia que a gente pode se misturar com o pessoal da cidade, então é bem legal.",
+        "es": "[Gillian]\nTrabajos y exámenes continúan como siempre, así que es bastante cansado... pero aún así, no todos los días podemos mezclarnos con la gente de la ciudad, así que es muy divertido."
+    },
+    "GG/EDA": {
+        "ko": "[질리언]\n초콜렛 알과 맛있는 쿠키 알을 만들 재료가 떨어져 가는데, 좀 도와주세요.\n이미 주문은 해 놓았으니 가서 재료를 받아 와 주기만 하면 돼요.",
+        "en": "[Gillian]\nThe challenge I'll give you is to get the ingredients.\nJust go to the makers.",
+        "pt": "[Gillian]\nA gincana que darei à você é conseguir os ingredientes.\nBasta ir até os fabricantes.",
+        "es": "[Gillian]\nEl desafío que te daré es conseguir los ingredientes.\nSolo tienes que ir con los fabricantes."
+    },
+    "GW/EDA": {
+        "ko": "도와준다.",
+        "en": "Participate",
+        "pt": "Participar",
+        "es": "Participar"
+    },
+    "Gm/EDA": {
+        "ko": "거절한다.",
+        "en": "Not participate",
+        "pt": "Não participar",
+        "es": "No participar"
+    },
+    "G2/EDA": {
+        "ko": "[질리언]\n고마워요. 받아다 주셔야 하는 재료는 두 가지예요. 여기 전표를 드릴게요.\n이즈루드의 <NAVI>[농부 쉐란]<INFO>izlude.gat,164,148,0,101,0</INFO></NAVI>씨에게 아몬드 한 자루, 프론테라의 <NAVI>[파티시에 이언]<INFO>prontera.gat,268,156,0,101,0</INFO></NAVI>에게 초콜렛 한 판.",
+        "en": "[Gillian]\nBring me 1 Chocolate Bar and 1 Almond Grain.\nTalk to <NAVI>[Sheran]<INFO>izlude.gat,164,148,0,101,0</INFO></NAVI>. Then, to <NAVI>[Yana]<INFO>prontera.gat,268,156,0,101,0</INFO></NAVI>, each of them is responsible for one ingredient.",
+        "pt": "[Gillian]\nMe traga 1 Barra de Chocolate e 1 Grão de Amêndoas.\nFale com <NAVI>[Sheran]<INFO>izlude.gat,164,148,0,101,0</INFO></NAVI>. Depois, com <NAVI>[Yana]<INFO>prontera.gat,268,156,0,101,0</INFO></NAVI>, cada um deles é responsável por um ingrediente.",
+        "es": "[Gillian]\nTráeme 1 Barra de Chocolate y 1 Grano de Almendra.\nHabla con <NAVI>[Sheran]<INFO>izlude.gat,164,148,0,101,0</INFO></NAVI>. Después, con <NAVI>[Yana]<INFO>prontera.gat,268,156,0,101,0</INFO></NAVI>, cada uno de ellos es responsable de un ingrediente."
+    },
+    "HG/EDA": {
+        "ko": "[질리언]\n쉐란 씨는 아몬드 농사 장인이에요, 장인! 진짜 끝내주는 아몬드를 생산하시죠.",
+        "en": "[Gillian]\nSheran will give you the Almond Grains.",
+        "pt": "[Gillian]\nSheran lhe dará os Grãos de Amêndoas.",
+        "es": "[Gillian]\nSheran te dará los Granos de Almendra."
+    },
+    "HW/EDA": {
+        "ko": "[질리언]\n이언 언니는 제 사촌인데 사람 얼굴도 잘 기억 못하고 자뻑도 심해요. 하지만 훌륭한 쇼콜라티에이자 파티시에랍니다.",
+        "en": "[Gillian]\nYana will share a Chocolate Bar with you.",
+        "pt": "[Gillian]\nYana vai dividir uma Barra de Chocolate com você.",
+        "es": "[Gillian]\nYana compartirá una Barra de Chocolate contigo."
+    },
+    "Hm/EDA": {
+        "ko": "[질리언]\n언니 가게에서 쓰는 초콜렛 커버춰가 최고라서 좀 더 납품받아 나눠달라고 부탁했어요.",
+        "en": "[Gillian]\nBringing these two ingredients, I can finish my work.",
+        "pt": "[Gillian]\nTrazendo esses dois ingredientes, posso terminar meus trabalhos.",
+        "es": "[Gillian]\nTrayendo estos dos ingredientes, puedo terminar mis trabajos."
+    },
+    "H2/EDA": {
+        "ko": "[질리언]\n그럼 잘 부탁드려요, 안녕!",
+        "en": "[Gillian]\nThank you!",
+        "pt": "[Gillian]\nObrigada!",
+        "es": "[Gillian]\n¡Gracias!"
+    },
+    "IG/EDA": {
+        "ko": "[질리언]\n모험가도 바쁜가요? 축제를 즐기러 온 거 아니었어요?\n뭐 모험가의 사정이야 많겠죠, 아무튼 그럼 안녕!",
+        "en": "[Gillian]\nAh, do you have other requests?\nUsually, we're all busy at the Festival!",
+        "pt": "[Gillian]\nAh, você tem outros pedidos?\nNormal, estamos todos ocupados no Festival!",
+        "es": "[Gillian]\nAh, ¿tienes otros pedidos?\n¡Normal, todos estamos ocupados en el Festival!"
+    },
+    "IW/EDA": {
+        "ko": "농부 쉐란",
+        "en": "Sheran",
+        "pt": "Sheran",
+        "es": "Sheran"
+    },
+    "Im/EDA": {
+        "ko": "[농부 쉐란]\n약속 시간이 다 돼 가네… 약속에 말없이 늦는 분은 아니시겠지?",
+        "en": "[Sheran]\nYou're way too late. Are you sure you'll make it in time?",
+        "pt": "[Sheran]\nVocê atrasou demais. Tem certeza que vai chegar à tempo?",
+        "es": "[Sheran]\nLlegaste demasiado tarde. ¿Seguro que llegarás a tiempo?"
+    },
+    "I2/EDA": {
+        "ko": "쉐란 씨, 늦어서 죄송합니다!",
+        "en": "Sorry for the delay!",
+        "pt": "Desculpe pelo atraso!",
+        "es": "¡Perdón por la demora!"
+    },
+    "JG/EDA": {
+        "ko": "[농부 쉐란]\n아닙니다, 정확히 맞춰 오셨군요! 허허. 연락은 받았습니다.\n질리언 씨 대신 오신 분 맞지요? 저는 농부 쉐란입니다.",
+        "en": "[Sheran]\nThat's alright, these things happen.\nYou came on behalf of Gillian, right? I'm Sheran.",
+        "pt": "[Sheran]\nTudo bem, essas coisas acontecem.\nVocê veio em nome de Gillian, certo? Sou Sheran.",
+        "es": "[Sheran]\nEstá bien, esas cosas pasan.\nViniste en nombre de Gillian, ¿verdad? Soy Sheran."
+    },
+    "JW/EDA": {
+        "ko": "[농부 쉐란]\n전표도 정확히 가져오셨으니 여기 아몬드 한 자루를 드리겠습니다.",
+        "en": "[Sheran]\nLet me get the correct order.",
+        "pt": "[Sheran]\nDeixe-me pegar a encomenda correta.",
+        "es": "[Sheran]\nDéjame tomar el pedido correcto."
+    },
+    "Jm/EDA": {
+        "ko": "[농부 쉐란]\n작년에 수확해 잘 보관한 아몬드입니다. 알도 굵고 고소하지요.\n앞으로도 저희 농장을 많이 이용해 주십시오!",
+        "en": "[Sheran]\nQuality Almond Grains, only with me!\nCome back anytime!",
+        "pt": "[Sheran]\nGrãos de Amêndoas de qualidade, só comigo!\nVolte sempre!",
+        "es": "[Sheran]\n¡Granos de Almendra de calidad, solo conmigo!\n¡Vuelve cuando quieras!"
+    },
+    "J2/EDA": {
+        "ko": "- 이제 프론테라의 <NAVI>[파티시에 이언]<INFO>prontera.gat,268,156,0,101,0</INFO></NAVI> 씨에게 가 보자. -",
+        "en": "- Still need to talk to <NAVI>[Yana]<INFO>prontera.gat,268,156,0,101,0</INFO></NAVI> -",
+        "pt": "- Falta falar com <NAVI>[Yana]<INFO>prontera.gat,268,156,0,101,0</INFO></NAVI> -",
+        "es": "- Falta hablar con <NAVI>[Yana]<INFO>prontera.gat,268,156,0,101,0</INFO></NAVI> -"
+    },
+    "KG/EDA": {
+        "ko": "- 이제 <NAVI>[질리언]<INFO>yuno,142,163,0,101,0</INFO></NAVI> 씨에게 돌아가자. -",
+        "en": "- Now let's go back to <NAVI>[Gillian]<INFO>yuno,142,163,0,101,0</INFO></NAVI> -",
+        "pt": "- Agora vamos voltar para <NAVI>[Gillian]<INFO>yuno,142,163,0,101,0</INFO></NAVI> -",
+        "es": "- Ahora volvamos con <NAVI>[Gillian]<INFO>yuno,142,163,0,101,0</INFO></NAVI> -"
+    },
+    "KW/EDA": {
+        "ko": "[농부 쉐란]\n저한테서 맛있는 냄새가 난다고요?\n새로 볶아 온 아몬드 냄새겠지요? 아몬드를 좋아하시나 보군요.",
+        "en": "[Sheran]\nSmell that aroma?\nIt's the roasted almond grains coming out of the oven.",
+        "pt": "[Sheran]\nSentiu esse cheirinho?\nSão os grãos de amêndoas torradas saindo do forno.",
+        "es": "[Sheran]\n¿Hueles ese aroma?\nSon los granos de almendra tostados saliendo del horno."
+    },
+    "Km/EDA": {
+        "ko": "파티시에 이언",
+        "en": "Yana",
+        "pt": "Yana",
+        "es": "Yana"
+    },
+    "K2/EDA": {
+        "ko": "[파티시에 이언]\n질리언, 왜 이렇게 안 와?",
+        "en": "[Yana]\nGillian, right?",
+        "pt": "[Yana]\nGillian, certo?",
+        "es": "[Yana]\nGillian, ¿cierto?"
+    },
+    "LG/EDA": {
+        "ko": "혹시 파티시에 이언 씨?",
+        "en": "How do you know?",
+        "pt": "Como sabe?",
+        "es": "¿Cómo sabes?"
+    },
+    "LW/EDA": {
+        "ko": "[파티시에 이언]\n내가 이언 맞는데. 나 알아요?\n아, 내 팬인가? 사인해 줄까요?",
+        "en": "[Yana]\nHow do I know?\nShe just sent me a RODEX talking about you.",
+        "pt": "[Yana]\nComo sei?\nEla acabou de me mandar um RODEX falando de você.",
+        "es": "[Yana]\n¿Cómo sé?\nElla acaba de enviarme un RODEX hablando de ti."
+    },
+    "Lm/EDA": {
+        "ko": "저는 질리언 씨 부탁으로…",
+        "en": "That was fast...",
+        "pt": "Que rápida...",
+        "es": "Qué rápida..."
+    },
+    "L2/EDA": {
+        "ko": "[파티시에 이언]\n그렇군요, 하하…\n질리언, 말도 안 하고 다른 사람을 보내서 날 민망하게 하다니.",
+        "en": "[Yana]\nHahaha.\nGillian is very smart, that's how she got that teaching position at the Republic's biggest university.",
+        "pt": "[Yana]\nHahaha.\nGillian é muito inteligente, por isso conseguiu esse cargo de professora na maior universidade da República.",
+        "es": "[Yana]\nJajaja.\nGillian es muy inteligente, por eso consiguió ese puesto de profesora en la universidad más grande de la República."
+    },
+    "MG/EDA": {
+        "ko": "[파티시에 이언]\n아무튼 전표를 보니 질리언이 보내서 온 분이 맞군요. 여기, 최고급 커버춰 초콜렛이에요.",
+        "en": "[Yana]\nWell, just let me get the order here.",
+        "pt": "[Yana]\nBom, deixa só eu pegar aqui a encomenda.",
+        "es": "[Yana]\nBueno, déjame tomar el pedido."
+    },
+    "MW/EDA": {
+        "ko": "[파티시에 이언]\n내 가게 재료가 가장 좋다나? 후훗, 역시 내 동생. 혀가 제대로란 말이지요.",
+        "en": "[Yana]\nThis bar is dark chocolate, it's ideal for very sweet recipes because it's not cloying.",
+        "pt": "[Yana]\nEssa barra é de chocolate amargo, é ideal para receitas muito doces porque não fica enjoativa.",
+        "es": "[Yana]\nEsta barra es de chocolate amargo, es ideal para recetas muy dulces porque no empalaga."
+    },
+    "Mm/EDA": {
+        "ko": "- 이제 이즈루드의 <NAVI>[농부 쉐란]<INFO>izlude.gat,164,148,0,101,0</INFO></NAVI> 씨에게 가 보자. -",
+        "en": "- Still need to talk to <NAVI>[Sheran]<INFO>izlude.gat,164,148,0,101,0</INFO></NAVI> -",
+        "pt": "- Falta falar com <NAVI>[Sheran]<INFO>izlude.gat,164,148,0,101,0</INFO></NAVI> -",
+        "es": "- Falta hablar con <NAVI>[Sheran]<INFO>izlude.gat,164,148,0,101,0</INFO></NAVI> -"
+    },
+    "M2/EDA": {
+        "ko": "[파티시에 이언]\n사촌 동생이 대학에서 무슨 행사를 한다는데, 내 가게 재료가 가장 좋다고 해서 큰맘 먹고 납품해주고 있어요.",
+        "en": "[Yana]\nNever mix powdered chocolate drink mix with condensed milk to make brigadeiro. It becomes too sweet.",
+        "pt": "[Yana]\nJamais misture achocolatado em pó no leite condensado para fazer brigadeiro. Fica muito doce.",
+        "es": "[Yana]\nNunca mezcles chocolate en polvo con leche condensada para hacer brigadeiro. Queda muy dulce."
+    },
+    "NG/EDA": {
+        "ko": "[파티시에 이언]\n역시 내 동생, 혀가 제대로란 말이지요. 후훗. 그런데 누구시죠?",
+        "en": "[Yana]\nPrefer using cocoa powder or some semi-sweet chocolate powder. Just a tip.",
+        "pt": "[Yana]\nPrefira usar cacau em pó ou algum pó de chocolate meio amargo. Fica a dica.",
+        "es": "[Yana]\nPrefiere usar cacao en polvo o algún chocolate semi amargo en polvo. Queda como consejo."
+    },
+    "NW/EDA": {
+        "ko": "세이럼",
+        "en": "Sarum",
+        "pt": "Sarum",
+        "es": "Sarum"
+    },
+    "Nm/EDA": {
+        "ko": "[세이럼]\n행복한 큐펫들과 산책 행사에 참여하러 오셨나요?\n먼저 <NAVI>[축제 위원]<INFO>yuno,175,162,0,101,0</INFO></NAVI> 율라타 씨와 이야기하고 와 주세요…",
+        "en": "[Sarum]\nAh, you came for the Festival?\nRegister with <NAVI>[Yulata]<INFO>yuno,175,162,0,101,0</INFO></NAVI>, that's the only way your name will be registered to participate.",
+        "pt": "[Sarum]\nAh você veio para o Festival?\nInscreva-se com a <NAVI>[Yulata]<INFO>yuno,175,162,0,101,0</INFO></NAVI>, só assim seu nome ficará registrado para participar.",
+        "es": "[Sarum]\nAh, ¿viniste al Festival?\n¡Regístrate con <NAVI>[Yulata]<INFO>yuno,175,162,0,101,0</INFO></NAVI>, solo así tu nombre quedará registrado para participar."
+    },
+    "N2/EDA": {
+        "ko": "[세이럼]\n아직 큐펫들이 지쳐서 자고 있어요… 우리 큐펫들 정말정말 귀엽죠?",
+        "en": "[Sarum]\nThe little pets are still sleeping.",
+        "pt": "[Sarum]\nOs bichinhos de estimação ainda estão dormindo.",
+        "es": "[Sarum]\nLos animalitos aún están durmiendo."
+    },
+    "OG/EDA": {
+        "ko": "[세이럼]\n다시 행복한 산책 행사에 참가하시려면 새벽이 지난 뒤에 와주세요… 아이들이 푹 자고 일어난 뒤에요!",
+        "en": "[Sarum]\nIf you want to do the challenge again, you have to wait until tomorrow!",
+        "pt": "[Sarum]\nSe você quiser fazer a gincana novamente, tem que esperar até amanhã!",
+        "es": "[Sarum]\nSi quieres hacer el desafío de nuevo, ¡tienes que esperar hasta mañana!"
+    },
+    "OW/EDA": {
+        "ko": "이미 잠에서 깬 모양이다!",
+        "en": "I want to do it again!",
+        "pt": "Quero fazer de novo!",
+        "es": "¡Quiero hacerlo de nuevo!"
+    },
+    "Om/EDA": {
+        "ko": "[세이럼]\n새벽이 지난 뒤에 다시 와서 행사에 참가해 주세요.\n{0} 님이 행복한 산책 행사를 즐겨 주셔서 기뻐요...",
+        "en": "[Sarum]\nYes, yes! Come back tomorrow!\n{0}, you need to rest!",
+        "pt": "[Sarum]\nSim, sim! Volte amanhã!\n{0}, você precisa descansar!",
+        "es": "[Sarum]\n¡Sí, sí! ¡Vuelve mañana!\n{0}, ¡necesitas descansar!"
+    },
+    "O2/EDA": {
+        "ko": "[세이럼]\n으음... 어, 그렇군요. 이 녀석들.\n좋아하는 <ITEM>[냥다래 열매]<INFO>6909</INFO></ITEM> 냄새를 맡은 모양이에요. 하나를 주시면 오늘 한 번 더 산책하게 해드릴게요.",
+        "en": "[Sarum]\nAh, is that so.\nTo remove the waiting time, bring 1 <ITEM>[Nyangvine]<INFO>6909</INFO></ITEM>.",
+        "pt": "[Sarum]\nAh, sendo assim.\nPara remover o tempo de espera, traga 1 <ITEM>[MiauMiau]<INFO>6909</INFO></ITEM>.",
+        "es": "[Sarum]\nAh, siendo así.\nPara eliminar el tiempo de espera, trae 1 <ITEM>[MiauFruto]<INFO>6909</INFO></ITEM>."
+    },
+    "PG/EDA": {
+        "ko": "[세이럼]\n좋아요. 새벽이 지난 뒤에 다시 와서 행사에 참가해 주세요.\n{0} 님이 행복한 산책 행사를 즐겨 주셔서 기뻐요...",
+        "en": "[Sarum]\nNo problem. Please come back tomorrow.\n{0}, you need to rest!",
+        "pt": "[Sarum]\nSem problemas. Por favor, volte amanhã.\n{0}, você precisa descansar!",
+        "es": "[Sarum]\nSin problema. Por favor, vuelve mañana.\n{0}, ¡necesitas descansar!"
+    },
+    "PW/EDA": {
+        "ko": "[세이럼]\n어, 냥다래 열매를 하나도 가지고 있지 않으시네요. 이 애들이 착각했나...\n새벽이 지난 뒤에 다시 와서 행사에 참가해 주세요.",
+        "en": "[Sarum]\nYou don't have a Nyangvine...\nPlease come back when you have 1.",
+        "pt": "[Sarum]\nVocê não tem MiauMiau...\nPor favor, volte quando possuir 1.",
+        "es": "[Sarum]\nNo tienes MiauFruto...\nPor favor, vuelve cuando tengas 1."
+    },
+    "Pm/EDA": {
+        "ko": "[세이럼]\n좋아요, 아이들에게 이렇게 네 조각으로 잘라서 하나씩 쥐여 주면... 이제 쌩쌩하네요!\n모험가님은 너무 피로하지는 않으시지요? 제게 다시 말을 걸어 주시면 함께 산책 가시게 해 드릴게요!",
+        "en": "[Sarum]\nVery well, you can do the challenge again!\nTalk to me once more whenever you want!",
+        "pt": "[Sarum]\nMuito bem, você pode fazer a gincana novamente!\nFale comigo mais uma vez quando quiser!",
+        "es": "[Sarum]\n¡Muy bien, puedes hacer el concurso de nuevo!\n¡Habla conmigo una vez más cuando quieras!"
+    },
+    "P2/EDA": {
+        "ko": "[세이럼]\n우리 큐펫들 정말 귀엽지요! 하루 종일 함께 있어도 하루 종일 즐거워요♪",
+        "en": "[Sarum]\nThese little pets are so cute~!",
+        "pt": "[Sarum]\nEsses bichinhos de estimação são tão fofinhos~!",
+        "es": "[Sarum]\n¡Estos animalitos son tan lindos~!"
+    },
+    "QG/EDA": {
+        "ko": "[세이럼]\n물론 모험가님은 행복한 산책 행사가 끝나면 데리고 돌아오셔야 해요…",
+        "en": "[Sarum]\nI love this festival, it helps the little pets in their recovery.",
+        "pt": "[Sarum]\nEu adoro esse festival, ajuda os bichinhos na sua recuperação.",
+        "es": "[Sarum]\nMe encanta este festival, ayuda a los animalitos en su recuperación."
+    },
+    "QW/EDA": {
+        "ko": "[세이럼]\n더 돌보고 싶다면 모험가님만의 큐펫을 입양해 주세요…\n행복한 알 축제에서는 테이밍 아이템도 많이 얻을 수 있으니 분명 축제 기간동안 모험가님만의 큐펫과 만나실 수 있을 거예요.",
+        "en": "[Sarum]\nIf you liked them, why not adopt one?\nOne of the rewards of this festival are taming items, try to get one.",
+        "pt": "[Sarum]\nSe você gostou deles, porque não adota um?\nUma das recompensas desse festival são iscas de domesticação, tente conseguir alguma.",
+        "es": "[Sarum]\nSi te gustaron, ¿por qué no adoptas uno?\nUna de las recompensas de este festival son carnadas de domesticación, intenta conseguir alguna."
+    },
+    "Qm/EDA": {
+        "ko": "[세이럼]\n오늘의 산책은 즐거우셨나요? 우리 큐펫들 너무 귀엽지요…\n큐펫들도 모험가님과 산책하고 오는 동안 정말 즐거웠던 모양이에요. 저 잔뜩 놀고 나서 설렌 표정이 보이시지요?",
+        "en": "[Sarum]\nHow was the walk?\nSee how the little pets loved taking a stroll? They're so happy!",
+        "pt": "[Sarum]\nComo foi o passeio?\nViu como os bichinhos adoraram dar uma volta? Eles estão tão felizes!",
+        "es": "[Sarum]\n¿Cómo fue el paseo?\n¿Viste cómo los animalitos adoraron dar una vuelta? ¡Están tan felices!"
+    },
+    "Q2/EDA": {
+        "ko": "[세이럼]\n큐펫들과 함께해 주신 데 대한 감사의 표시로 <ITEM>[클로버 티켓]<INFO>25294</INFO></ITEM>을 2장 드릴게요.\n클로버 티켓은 <NAVI>[행복의 큐펫 자판기]<INFO>yuno.gat,176,152,0,101,0</INFO></NAVI>에서 사용해 보세요…",
+        "en": "[Sarum]\nI'll give you 2 <ITEM>[Clover Tickets]<INFO>25294</INFO></ITEM>.\nGo to the <NAVI>[Festival Machine]<INFO>yuno.gat,176,152,0,101,0</INFO></NAVI>.",
+        "pt": "[Sarum]\nVou te dar 2 <ITEM>[Bilhetes de Trevo]<INFO>25294</INFO></ITEM>.\nVá até a <NAVI>[Máquina do Festival]<INFO>yuno.gat,176,152,0,101,0</INFO></NAVI>.",
+        "es": "[Sarum]\nTe daré 2 <ITEM>[Boletos de Trébol]<INFO>25294</INFO></ITEM>.\nVe a la <NAVI>[Máquina del Festival]<INFO>yuno.gat,176,152,0,101,0</INFO></NAVI>."
+    },
+    "RG/EDA": {
+        "ko": "[세이럼]\n내일도 오셔서 큐펫들과 함께 산책해 주세요…\n우리 큐펫들도 매일 모험가님을 기다리고 있답니다… 물론 저도 마찬가지예요!",
+        "en": "[Sarum]\nThen tomorrow you come take another walk with them!!",
+        "pt": "[Sarum]\nDaí amanhã você vem dar mais uma volta com eles!!",
+        "es": "[Sarum]\n¡Y mañana vienes a dar otra vuelta con ellos!"
+    },
+    "RW/EDA": {
+        "ko": "[세이럼]\n모험가님, 괜찮으시다면 잠시 이 아이를 봐 주시겠어요…?\n제 어깨 위에 있는 이 작은 루나틱 말이에요.",
+        "en": "[Sarum]\nTraveler, if you don't mind, could you take care of this pet for a moment…?\nI'm talking about this little Lunatic on my shoulder.",
+        "pt": "[Sarum]\nViajante, se não se importar, poderia cuidar desta mascote por um momento…?\nFalo deste Lunático pequeno no meu ombro.",
+        "es": "[Sarum]\nTrotamundos, si no te importa, ¿podrías cuidar de esta mascota por un momento…?\nHablo de este pequeño Lunático en mi hombro."
+    },
+    "Rm/EDA": {
+        "ko": "[세이럼]\n이 아이는 너무나 작아서 다른 모험가님께는 맡기지 못하고 제가 데리고 다닌답니다…",
+        "en": "[Sarum]\nThis one here is so small that I can't trust him to other adventurers, so he stays with me…",
+        "pt": "[Sarum]\nEste aqui é tão pequeno que não consigo confiar a outros aventureiros, então ele fica comigo…",
+        "es": "[Sarum]\nEste es tan pequeño que no puedo confiarlo a otros aventureros, así que se queda conmigo…"
+    },
+    "R2/EDA": {
+        "ko": "[작은 루나틱]\n안녕 모험가님루~ 헤헤!",
+        "en": "[Little Lunatic]\nHi~! Hehe! :3~",
+        "pt": "[Pequeno Lunático]\nOi~! Hehe!  :3~",
+        "es": "[Pequeño Lunático]\n¡Hola~! ¡Jeje! :3~"
+    },
+    "SG/EDA": {
+        "ko": "[세이럼]\n이 아이가 모험가님이 다른 큐펫들과 산책 다녀온 이야기를 듣고 싶어하는데요, 혹시 산책 이야기를 들려 주실 수 있으신가요?",
+        "en": "[Sarum]\nThis little Lunatic wants to hear stories about your walks with the other little pets. Could you tell him some stories?",
+        "pt": "[Sarum]\nEste pequeno Lunático quer ouvir as histórias dos seus passeios com os outros bichinhos de estimação. Poderia contar algumas histórias para ele?",
+        "es": "[Sarum]\nEste pequeño Lunático quiere escuchar las historias de tus paseos con los otros animalitos. ¿Podrías contarle algunas historias?"
+    },
+    "SW/EDA": {
+        "ko": "산책 이야기를 들려 준다.",
+        "en": "Tell stories.",
+        "pt": "Contar histórias.",
+        "es": "Contar historias."
+    },
+    "Sm/EDA": {
+        "ko": "- 산책하면서 본 유노 풍경, 함께 산책한 큐펫과 나눈 이야기에 대해 작은 루나틱에게 들려 주었다. -",
+        "en": "- You told the little Lunatic about the sights of Juno seen during the walk. -",
+        "pt": "- Você contou ao pequeno Lunático sobre as paisagens de Juno vistas durante o passeio. -",
+        "es": "- Le contaste al pequeño Lunático sobre los paisajes de Juno vistos durante el paseo. -"
+    },
+    "S2/EDA": {
+        "ko": "[세이럼]\n고맙습니다, 모험가님! 이 애의 눈이 반짝반짝하는 게 보이세요?",
+        "en": "[Sarum]\nThank you, traveler! Did you see how his little eyes sparkled?",
+        "pt": "[Sarum]\nObrigado, viajante! Viu como os olhinhos dele brilharam?",
+        "es": "[Sarum]\n¡Gracias, trotamundos! ¿Viste cómo brillaron sus ojitos?"
+    },
+    "TG/EDA": {
+        "ko": "[작은 루나틱]\n재미있겠다~ 루나틱도 모험가님이랑 산책 가고 싶어루!",
+        "en": "[Little Lunatic]\nNyaa~ I want to walk with you too, traveler!",
+        "pt": "[Pequeno Lunático]\nNhaa~ Quero passear com você também, viajante!",
+        "es": "[Pequeño Lunático]\n¡Nyaa~ Quiero pasear contigo también, trotamundos!"
+    },
+    "TW/EDA": {
+        "ko": "[세이럼]\n이 애를 다른 분께 맡기기에는 아직은 제 마음이 안 놓여요. 하지만 내일도 오셔서 꼭 산책 이야기를 들려주셨으면 좋겠어요.",
+        "en": "[Sarum]\nI still don't feel comfortable leaving him with anyone. But I really hope you come back tomorrow to tell more stories.",
+        "pt": "[Sarum]\nAinda não me sinto à vontade deixando ele com ninguém. Mas espero mesmo que você volte amanhã para contar mais histórias.",
+        "es": "[Sarum]\nTodavía no me siento cómodo dejándolo con nadie. Pero espero de verdad que vuelvas mañana para contarle más historias."
+    },
+    "Tm/EDA": {
+        "ko": "[세이럼]\n오늘도 와주셔서 정말 감사드려요.\n물론 제 작은 루나틱도 모험가님을 기다리고 있었답니다.",
+        "en": "[Sarum]\nThank you so much for coming again today.\nOf course, my little Lunatic was also waiting for you, traveler.",
+        "pt": "[Sarum]\nMuito obrigado por vir de novo hoje.\nClaro que o meu pequeno Lunático também estava te esperando, viajante.",
+        "es": "[Sarum]\nMuchas gracias por venir de nuevo hoy.\nClaro que mi pequeño Lunático también te estaba esperando, trotamundos."
+    },
+    "T2/EDA": {
+        "ko": "오늘도 산책 이야기를 들려 준다.",
+        "en": "Tell today's story.",
+        "pt": "Contar a história de hoje.",
+        "es": "Contar la historia de hoy."
+    },
+    "UG/EDA": {
+        "ko": "- 산책하면서 본 유노의 하늘, 함께 산책한 큐펫과 나누어 먹은 간식에 대해 작은 루나틱에게 들려 주었다. -",
+        "en": "- You told the little Lunatic about the snack bars you saw in the city. -",
+        "pt": "- Você contou ao pequeno Lunático sobre as lanchonetes que viu na cidade. -",
+        "es": "- Le contaste al pequeño Lunático sobre las cafeterías que viste en la ciudad. -"
+    },
+    "UW/EDA": {
+        "ko": "[작은 루나틱]\n산책 이야기 정말 좋아! 루나틱도 산책 다녀올래루리~",
+        "en": "[Little Lunatic]\nI really like walk stories! I want to walk too, nyaa :3~",
+        "pt": "[Pequeno Lunático]\nEu gosto muito de histórias de passeio! Quero passear também nhaaa :3~",
+        "es": "[Pequeño Lunático]\n¡Me gustan mucho las historias de paseos! ¡Quiero pasear también nyaa :3~"
+    },
+    "Um/EDA": {
+        "ko": "[세이럼]\n어제 이 애와 이야기를 조금 했는데, 이 애도 멀리 나가 보고 싶은 모양이더군요…\n모험가님과 함께 자유롭게 돌아다닐 수 있는 다른 큐펫들이 부러운가 봐요.",
+        "en": "[Sarum]\nI talked to him a bit yesterday, and it seems he wants to go out…\nI think he's jealous of the other little pets that run freely with you.",
+        "pt": "[Sarum]\nConversei um pouco com ele ontem, e parece que ele quer sair…\nAcho que ele está com inveja dos outros bichinhos de estimação que correm livres com você.",
+        "es": "[Sarum]\nHablé un poco con él ayer, y parece que quiere salir…\nCreo que tiene envidia de los otros animalitos que corren libres contigo."
+    },
+    "U2/EDA": {
+        "ko": "[세이럼]\n오늘도 감사드립니다. 내일도 오셔서 꼭 산책 이야기를 들려주셨으면 좋겠어요…",
+        "en": "[Sarum]\nThanks again for today. I really hope you come back tomorrow to tell him stories…",
+        "pt": "[Sarum]\nObrigado de novo por hoje. Espero mesmo que volte amanhã para contar histórias para ele…",
+        "es": "[Sarum]\nGracias de nuevo por hoy. Espero de verdad que vuelvas mañana para contarle historias…"
+    },
+    "VG/EDA": {
+        "ko": "[세이럼]\n모험가님, 어제 저의 작은 루나틱과 이야기를 해 봤는데요,\n갑작스러울지도 모르지만, 이 아이를 데려가 주시지 않으시겠어요…?",
+        "en": "[Sarum]\nTraveler, I talked to my little Lunatic yesterday.\nIt might be sudden, but… would you take him with you…?",
+        "pt": "[Sarum]\nviajante, eu conversei com o meu pequeno Lunático ontem.\nPode ser de repente, mas... você levaria ele com você…?",
+        "es": "[Sarum]\nTrotamundos, hablé con mi pequeño Lunático ayer.\nPuede ser de repente, pero… ¿lo llevarías contigo…?"
+    },
+    "VW/EDA": {
+        "ko": "[세이럼]\n이 애는 모험가님의 산책 이야기를 들으면서, 그냥 유노를 한 바퀴 산책하는 게 아니라 모험가님과 함께 여행을 떠나고 싶어진 모양이에요.",
+        "en": "[Sarum]\nHearing your stories, he seems to want to travel with you.",
+        "pt": "[Sarum]\nOuvindo suas histórias, ele parece querer viajar com você.",
+        "es": "[Sarum]\nEscuchando tus historias, parece que quiere viajar contigo."
+    },
+    "Vm/EDA": {
+        "ko": "[세이럼]\n저도 그동안 다른 아이들과 좋은 관계를 맺어 주신 모험가님을 보면서 확신을 가질 수 있었어요. 모험가님이라면 믿을 수 있어요. 이 아이와 함께 해주시겠어요?",
+        "en": "[Sarum]\nSeeing how you've bonded with the other pets, I gained confidence. I trust you. Will you take him?",
+        "pt": "[Sarum]\nVendo como você criou laços com os outras mascotes, eu ganhei confiança. Eu confio em você. Vai ficar com ele?",
+        "es": "[Sarum]\nViendo cómo creaste lazos con las otras mascotas, gané confianza. Confío en ti. ¿Te quedarás con él?"
+    },
+    "V2/EDA": {
+        "ko": "그러겠다고 한다.",
+        "en": "Accept the Lunatic.",
+        "pt": "Aceitar o Lunático.",
+        "es": "Aceptar al Lunático."
+    },
+    "WG/EDA": {
+        "ko": "[세이럼]\n정말 감사합니다! 이 아이를 잘 부탁드려요…\n부디 소중하게 대해 주시기를 바랄게요.",
+        "en": "[Sarum]\nThank you so much! Please take good care of him…\nI sincerely hope you cherish him.",
+        "pt": "[Sarum]\nMuito obrigado! Por favor, cuide bem dele…\nEspero sinceramente que você o valorize.",
+        "es": "[Sarum]\n¡Muchas gracias! Por favor, cuídalo bien…\nEspero sinceramente que lo valores."
+    },
+    "WW/EDA": {
+        "ko": "[작은 루나틱]\n함께 가는 거야? 정말 기뻐루리~\n모험가님, 앞으로 잘 부탁해루!",
+        "en": "[Little Lunatic]\nWe're going together? I'm so happy! Nyaaa :3~\nPlease take care of me from now on!",
+        "pt": "[Pequeno Lunático]\nVamos juntos? Estou tão feliz! Nhaaa :3~\nPor favor, cuide de mim de agora em diante!",
+        "es": "[Pequeño Lunático]\n¿Vamos juntos? ¡Estoy tan feliz! Nyaaa :3~\n¡Por favor, cuídame de ahora en adelante!"
+    },
+    "Wm/EDA": {
+        "ko": "[세이럼]\n큐펫과 행복한 산책 코스에 어서 오세요…\n여기 있는 큐펫 아이들 중 한 아이를 골라서 함께 유노를 한 바퀴 돌며 산책하고 오시는 행사랍니다.",
+        "en": "[Sarum]\nHappy Happy Egg Festival, traveler!\nI'll let you take a little pet for a walk around Juno.",
+        "pt": "[Sarum]\nFeliz Festival das Mascotes, viajante!\nEu libero um bichinho de estimação para você passear por Juno.",
+        "es": "[Sarum]\n¡Feliz Festival de las Mascotas, trotamundos!\nTe liberaré una mascota para que pasees por Juno."
+    },
+    "W2/EDA": {
+        "ko": "[세이럼]\n참가하시면 기념으로 <ITEM>[클로버 티켓]<INFO>25294</INFO></ITEM>을 두 장 드려요…\n행사에 참가하시겠어요, 어느 큐펫과 산책하시겠어요?",
+        "en": "[Sarum]\nYour participation yields 2 <ITEM>[Clover Tickets]<INFO>25294</INFO></ITEM>.\nIf you accept, which pet do you want to take for a walk?",
+        "pt": "[Sarum]\nSua participação rende 2 <ITEM>[Bilhetes de Trevo]<INFO>25294</INFO></ITEM>.\nSe aceitar, qual mascote você quer passear?",
+        "es": "[Sarum]\nTu participación da 2 <ITEM>[Boletos de Trébol]<INFO>25294</INFO></ITEM>.\nSi aceptas, ¿qué mascota quieres pasear?"
+    },
+    "XG/EDA": {
+        "ko": "루나틱",
+        "en": "Lunatic",
+        "pt": "Lunático",
+        "es": "Lunático"
+    },
+    "XW/EDA": {
+        "ko": "포링",
+        "en": "Poring",
+        "pt": "Poring",
+        "es": "Poring"
+    },
+    "Xm/EDA": {
+        "ko": "새끼 데저트울프",
+        "en": "Desert Wolf Baby",
+        "pt": "Filhote de Lobo",
+        "es": "Cría de Lobo"
+    },
+    "X2/EDA": {
+        "ko": "데비루치",
+        "en": "Deviruchi",
+        "pt": "Deviruchi",
+        "es": "Deviruchi"
+    },
+    "YG/EDA": {
+        "ko": "참가하지 않는다.",
+        "en": "I don't want to participate",
+        "pt": "Não quero participar",
+        "es": "No quiero participar"
+    },
+    "YW/EDA": {
+        "ko": "[루나틱]\n산책 가냐루? 루나틱 여기 아주 좋아하는 공원 있어루!\n모험가님 루나틱이랑 같이 가자루리~!",
+        "en": "[Lunatic]\nWe're going for a walk? Yippeeee~\nI want to visit the Juno Monster Museum~!",
+        "pt": "[Lunático]\nVamos passear? Obaaaaa~\nQuero conhecer o Museu de Monstros de Juno~!",
+        "es": "[Lunático]\n¿Vamos a pasear? ¡Yujuuuuu~!~\nQuiero conocer el Museo de Monstruos de Juno~!"
+    },
+    "Ym/EDA": {
+        "ko": "[세이럼]\n큐펫들에게 직접 말을 걸어 함께 산책을 시작해 보세요.",
+        "en": "[Sarum]\nTalk to the little pet you chose and have a nice walk.",
+        "pt": "[Sarum]\nFale com o bichinho de estimação que você escolheu e boa caminhada.",
+        "es": "[Sarum]\nHabla con el animalito que elegiste y buen paseo."
+    },
+    "Y2/EDA": {
+        "ko": "아빠",
+        "en": "daddy",
+        "pt": "papai",
+        "es": "papi"
+    },
+    "ZG/EDA": {
+        "ko": "엄마",
+        "en": "mommy",
+        "pt": "mamãe",
+        "es": "mami"
+    },
+    "ZW/EDA": {
+        "ko": "[포링]\n{0}? {0}예요? 헤헤… 같이 산책 가자, 산책! 뽀잉뽀잉!",
+        "en": "[Poring]\nWhere do you want to take me, {0}?",
+        "pt": "[Poring]\nPara onde você quer me levar, {0}?",
+        "es": "[Poring]\n¿A dónde me quieres llevar, {0}?"
+    },
+    "Zm/EDA": {
+        "ko": "[새끼 데저트울프]\n컹! 컹컹! 컹컹!!\n산책! 나 산책 진짜 좋아하는데!!! 지금 당장 가자!!! 같이 가자!!!",
+        "en": "[Desert Wolf Baby]\nWoof! Woof woof! Woof woof!!\nLet's go! Let's walk!!! Let's go together!!! I love walking!!!",
+        "pt": "[Filhote de Lobo]\nAu! AuAu! AuAu!!\nVamos! Vamos andar!!! Vamos juntos!!! Eu adoro passear!!!",
+        "es": "[Cría de Lobo]\n¡Guau! ¡Guau guau! ¡¡Guau guau!!\n¡¡Vamos!! ¡¡A caminar!!! ¡¡Vamos juntos!!! ¡¡Me encanta pasear!!!"
+    },
+    "Z2/EDA": {
+        "ko": "[데비루치]\n킥킥… 이 데비군이 산책 따위로 기뻐할 거라고 생각했다면 오산이야~ 풋내기 모험가랑 놀아 주는 건 신난… 피곤하다구~",
+        "en": "[Deviruchi]\nYou summoned the son of the Lord of the Underworld for a walk? Sounds interesting~",
+        "pt": "[Deviruchi]\nVocê invocou o filho do Lorde do submundo para um passeio? Parece interessante~",
+        "es": "[Deviruchi]\n¿Invocaste al hijo del Señor del Inframundo para un paseo? Parece interesante~"
+    },
+    "aG/EDA": {
+        "ko": "[세이럼]\n돌아가실 때는 큐펫들에게 인사해 주세요.\n인사하지 않으시면 큐펫들은 자기가 거절당했다고 생각하게 된답니다…",
+        "en": "[Sarum]\nAt least take some time to pet them.\nLittle pets love being noticed.",
+        "pt": "[Sarum]\nAo menos dedique um tempo para fazer um carinho neles.\nBichinhos de estimação adoram ser notados.",
+        "es": "[Sarum]\nAl menos dedica un tiempo para acariciarlos.\nA los animalitos les encanta que les presten atención."
+    },
+    "aW/EDA": {
+        "ko": "[세이럼]\n다음에, 저희 큐펫들과 함께하고 싶어지시면 다시 와 주세요.",
+        "en": "[Sarum]\nWhenever you want to walk them, talk to me.",
+        "pt": "[Sarum]\nQuando quiser passear com eles, fale comigo.",
+        "es": "[Sarum]\nCuando quieras pasear con ellos, habla conmigo."
+    },
+    "am/EDA": {
+        "ko": "루나틱",
+        "en": "Lunatic",
+        "pt": "Lunático",
+        "es": "Lunático"
+    },
+    "a2/EDA": {
+        "ko": "[루나틱]\n산책 가는 거야루? 루나틱이 어디로 가면 되는지 알아루! 루나틱만 따라오면 믿음직하지루!",
+        "en": "[Lunatic]\nWe go for walk-walk? Lunatic knows where to go-ru! Just follow Lunatic, I'm trustworthy-ru!",
+        "pt": "[Lunático]\nVamos passear? Lunático sabe para onde ir! É só me seguir, eu sou confiável!",
+        "es": "[Lunático]\n¿Vamos a pasear? Lunático sabe a dónde ir. Solo sigue a Lunático, ¡soy confiable!"
+    },
+    "bG/EDA": {
+        "ko": "[세이럼]\n안전한 산책로를 안내해 드리니 산책로를 따라가시면 됩니다… 아무리 귀여워도 우리 큐펫을 따라가시면 안 돼요.\n첫 번째 <NAVI>[장소]<INFO>yuno,195,302,0,101,0</INFO></NAVI>에 가시면 다른 큐펫들도 모여 있을 겁니다.",
+        "en": "[Sarum]\nWe set up a safe trail for the walk.\nGo where all the other little pets are gathered <NAVI>[at this place]<INFO>yuno,195,302,0,101,0</INFO></NAVI>.",
+        "pt": "[Sarum]\nNós montamos uma trilha segura para o passeio.\nVá onde todos os outros bichinhos estão reunidos <NAVI>[nesse local]<INFO>yuno,195,302,0,101,0</INFO></NAVI>",
+        "es": "[Sarum]\nMontamos una ruta segura para el paseo.\nVe a donde todos los otros animalitos están reunidos <NAVI>[en este lugar]<INFO>yuno,195,302,0,101,0</INFO></NAVI>."
+    },
+    "bW/EDA": {
+        "ko": "[루나틱]\n루나틱은 다른 모험가님하고 산책한다루! 모험가님은 누구랑 산책하지루?",
+        "en": "[Lunatic]\nAhhh! I can't believe I'm going for a walk! Where are you taking me?",
+        "pt": "[Lunático]\nAhhh! Eu não acredito que vou passear! Para onde você vai me levar?",
+        "es": "[Lunático]\n¡Ahhh! ¡No puedo creer que voy a pasear! ¿A dónde me llevarás?"
+    },
+    "bm/EDA": {
+        "ko": "[루나틱]\n하암… 이제 한 숨 자고 싶다루리…\n오늘도 재밌게 놀았다루…",
+        "en": "[Lunatic]\nWow! I need to rest!\nMy fluffy little paws hurt.",
+        "pt": "[Lunático]\nUau! Preciso descansar!\nMinhas patinhas peludas estão doendo.",
+        "es": "[Lunático]\n¡Guau! ¡Necesito descansar!\n¡Me duelen mis patitas peludas!"
+    },
+    "b2/EDA": {
+        "ko": "포링",
+        "en": "Poring",
+        "pt": "Poring",
+        "es": "Poring"
+    },
+    "cG/EDA": {
+        "ko": "[포링]\n뽀잉, 뽀잉… 산책, 많이많이 하고 싶어링! 하루 종일도 할 수 있어링? 열 바퀴씩 열 번 돌고 와도 되는 거야링?",
+        "en": "[Poring]\nPoi, poi! I really want to go for a little walk!",
+        "pt": "[Poring]\nPoi, poi! Quero muito dar uma voltinha!",
+        "es": "[Poring]\nPoi, poi! ¡Quiero dar una vueltecita!"
+    },
+    "cW/EDA": {
+        "ko": "[세이럼]\n안전한 산책로를 안내해 드리니 산책로를 따라가시면 됩니다… 한 바퀴만 돌고 오셔야 해요.\n첫 번째 <NAVI>[장소]<INFO>yuno,195,302,0,101,0</INFO></NAVI>에 가시면 다른 큐펫들도 모여 있을 겁니다.",
+        "en": "[Sarum]\nWe set up a safe trail for the walk.\nGo where all the other little pets are gathered <NAVI>[at this place]<INFO>yuno,195,302,0,101,0</INFO></NAVI>.",
+        "pt": "[Sarum]\nNós montamos uma trilha segura para o passeio.\nVá onde todos os outros bichinhos estão reunidos <NAVI>[nesse local]<INFO>yuno,195,302,0,101,0</INFO></NAVI>",
+        "es": "[Sarum]\nMontamos una ruta segura para el paseo.\nVe a donde todos los otros animalitos están reunidos <NAVI>[en este lugar]<INFO>yuno,195,302,0,101,0</INFO></NAVI>."
+    },
+    "cm/EDA": {
+        "ko": "[포링]\n포링은 아빠랑 산책 간다링. 모험가님도 포링이랑 산책 가고 싶어링?",
+        "en": "[Poring]\nPoring is going for a walk again!",
+        "pt": "[Poring]\nPoring vai passear de novo!",
+        "es": "[Poring]\n¡Poring va a pasear de nuevo!"
+    },
+    "c2/EDA": {
+        "ko": "[포링]\n포링…… 포로링… 퐁! 포링… 포리링…",
+        "en": "[Poring]\nPoring... Poi poi!",
+        "pt": "[Poring]\nPoring... Poi poi!",
+        "es": "[Poring]\nPoring... Poi poi!"
+    },
+    "dG/EDA": {
+        "ko": "- 포링이 꾸벅꾸벅 졸고 있다. -",
+        "en": "- This Poring is so tired it looks like a wilted jelly. -",
+        "pt": "- Esse Poring está tão cansado que parece uma gelatina murcha. -",
+        "es": "- Este Poring está tan cansado que parece una gelatina marchita. -"
+    },
+    "dW/EDA": {
+        "ko": "새끼 데저트울프",
+        "en": "Desert Wolf Baby",
+        "pt": "Filhote de Lobo",
+        "es": "Cría de Lobo"
+    },
+    "dm/EDA": {
+        "ko": "[새끼 데저트울프]\n얼른 나가서 뛰고 싶다!! 얼른 나가자!!\n나 뛰는 거 엄청 좋아하는데!!!!! 진짜 좋아하는데!!! 바람처럼 뛰어서 유노 바깥까지 나갈 수 있는데!!!",
+        "en": "[Desert Wolf Baby]\nI want to run!! I want to go out!!\nI LOVE walking!!!!! LOVE IT!!! Let's go, walk, stroll!!!",
+        "pt": "[Filhote de Lobo]\nQuero correr!! Quero sair!!\nEu AMO caminhar!!!!! AMO!!! Vamos andar, passear, caminhar!!!",
+        "es": "[Cría de Lobo]\n¡Quiero correr!! ¡¡Quiero salir!!\n¡¡ME ENCANTA caminar!!!!! ¡¡ME ENCANTA!! ¡¡Vamos, a andar, pasear, caminar!!"
+    },
+    "d2/EDA": {
+        "ko": "[세이럼]\n안전한 산책로를 안내해 드리니 산책로를 따라가시면 됩니다… 유노 밖으로 나가시면 안돼요.\n첫 번째 <NAVI>[장소]<INFO>yuno,195,302,0,101,0</INFO></NAVI>에 가시면 다른 큐펫들도 모여 있을 겁니다.",
+        "en": "[Sarum]\nWe set up a safe trail for the walk.\nGo where all the other little pets are gathered <NAVI>[at this place]<INFO>yuno,195,302,0,101,0</INFO></NAVI>.",
+        "pt": "[Sarum]\nNós montamos uma trilha segura para o passeio.\nVá onde todos os outros bichinhos estão reunidos <NAVI>[nesse local]<INFO>yuno,195,302,0,101,0</INFO></NAVI>",
+        "es": "[Sarum]\nMontamos una ruta segura para el paseo.\nVe a donde todos los otros animalitos están reunidos <NAVI>[en este lugar]<INFO>yuno,195,302,0,101,0</INFO></NAVI>."
+    },
+    "eG/EDA": {
+        "ko": "[새끼 데저트울프]\n산책! 산책!!! 산책! 산책! 산책!! 산책! 산책!",
+        "en": "[Desert Wolf Baby]\nWoof! Woof!!! Woof! Woof! Woof!! Woof! Woof!",
+        "pt": "[Filhote de Lobo]\nAu! Au!!! Au! Au! Au!! Au! Au!",
+        "es": "[Cría de Lobo]\n¡Guau! ¡¡Guau!!! ¡¡Guau! ¡Guau! ¡¡Guau!! ¡Guau! ¡Guau!"
+    },
+    "eW/EDA": {
+        "ko": "[새끼 데저트울프]\n헥, 헥헥! 산책! 산책!!! 산책! 너무 좋아! 너무 신나!!!!",
+        "en": "[Desert Wolf Baby]\nAuuuuuuuuuuuu! Woof! Woof!!! Woof! Walk! Walk!!!!",
+        "pt": "[Filhote de Lobo]\nAuuuuuuuuuuuu! Au! Au!!! Au! Passear! Passear!!!!",
+        "es": "[Cría de Lobo]\n¡Auuuuuuuuuuuu! ¡Guau! ¡¡Guau!!! ¡Guau! ¡Pasear! ¡¡Pasear!!!!"
+    },
+    "em/EDA": {
+        "ko": "[새끼 데저트울프]\n재밌게 놀았다… 이제 잘거니까 말 걸지 말고 둬어, 낑…\n나 자는 거 진짜 좋아하는데… 그러니까 지금은 잘 건데…",
+        "en": "[Desert Wolf Baby]\nI had fun... I'm going to sleep now, so don't talk to me and leave me alone...\nI really like sleeping... so I'm going to sleep now...",
+        "pt": "[Filhote de Lobo]\nEu me diverti... vou dormir agora, então não fale comigo e me deixe em paz...\nEu realmente gosto de dormir... então eu vou dormir agora...",
+        "es": "[Cría de Lobo]\nMe divertí... voy a dormir ahora, así que no me hables y déjame en paz...\nMe gusta mucho dormir... así que ahora voy a dormir..."
+    },
+    "e2/EDA": {
+        "ko": "데비루치",
+        "en": "Deviruchi",
+        "pt": "Deviruchi",
+        "es": "Deviruchi"
+    },
+    "fG/EDA": {
+        "ko": "[데비루치]\n묻겠다, 네가 이 데비군의 산책 마스터인가아? 후후후, 그럼 일단 이야기를 나눠 볼까~",
+        "en": "[Deviruchi]\nI ask: are you the servant who will take me for a walk?~",
+        "pt": "[Deviruchi]\nEu pergunto: você é o lacaio que me levará à passeio?~",
+        "es": "[Deviruchi]\nPregunto: ¿eres el lacayo que me llevará de paseo?~"
+    },
+    "fW/EDA": {
+        "ko": "[세이럼]\n안전한 산책로를 안내해 드리니 산책로를 따라가시면 됩니다… 데비루치의 말발에 휘둘리시면 안돼요.\n첫 번째 <NAVI>[장소]<INFO>yuno,195,302,0,101,0</INFO></NAVI>에 가시면 다른 큐펫들도 모여 있을 겁니다.",
+        "en": "[Sarum]\nWe set up a safe trail for the walk.\nGo where all the other little pets are gathered <NAVI>[at this place]<INFO>yuno,195,302,0,101,0</INFO></NAVI>.",
+        "pt": "[Sarum]\nNós montamos uma trilha segura para o passeio.\nVá onde todos os outros bichinhos estão reunidos <NAVI>[nesse local]<INFO>yuno,195,302,0,101,0</INFO></NAVI>",
+        "es": "[Sarum]\nMontamos una ruta segura para el paseo.\nVe a donde todos los otros animalitos están reunidos <NAVI>[en este lugar]<INFO>yuno,195,302,0,101,0</INFO></NAVI>."
+    },
+    "fm/EDA": {
+        "ko": "[데비루치]\n나는 걷는 거 싫어하는데에?\n사실 좋아하지만. 그러니까 무슨 뜻이냐면 산책은 혼자 간다는 말이야, 모험가~",
+        "en": "[Deviruchi]\nMy problem with walks is that my legs are very short.\nSo you better carry me on your shoulders~",
+        "pt": "[Deviruchi]\nMeu problema com passeios é que minhas pernas são bem curtinhas.\nEntão é melhor você me levar nos ombros~",
+        "es": "[Deviruchi]\nMi problema con los paseos es que mis piernas son muy cortitas.\nAsí que mejor me llevas en tus hombros~"
+    },
+    "f2/EDA": {
+        "ko": "[데비루치]\n오늘은 실컷 놀았거든~ 더는 모험가를 상대할 체력이 없어. 그러니까 그만 가~",
+        "en": "[Deviruchi]\nToday's walk was so fun that your soul will be spared~",
+        "pt": "[Deviruchi]\nO passeio de hoje foi tão divertido que sua alma será poupada~",
+        "es": "[Deviruchi]\nEl paseo de hoy fue tan divertido que tu alma será perdonada~"
+    },
+    "gG/EDA": {
+        "ko": "[루나틱]\n유노는 떠 있는 섬이래! 높이높이 있는 거야루~\n신기해루리! 재미있어루!",
+        "en": "[Lunatic]\nWow~ A floating island!\nThat's amazing! And dangerous!",
+        "pt": "[Lunático]\nUau~ Uma ilha flutuante!\nQue incrível! E perigoso!",
+        "es": "[Lunático]\n¡Guau~ Una isla flotante!\n¡Qué increíble! ¡Y peligroso!"
+    },
+    "gW/EDA": {
+        "ko": "[루나틱]\n그래서 섬 가장자리에는 가면 안된다는 거예요루.\n루나틱은 착한 루나틱인거예요루리!",
+        "en": "[Lunatic]\nYou better not go near the edge of the island.\nImagine if you fell!",
+        "pt": "[Lunático]\nMelhor você não se aproximar da beira da ilha.\nImagina se você cair!",
+        "es": "[Lunático]\nMejor no te acerques al borde de la isla.\n¡Imagina si te caes!"
+    },
+    "gm/EDA": {
+        "ko": "[헤로이트]\n루나틱과 산책로를 따라 두 번째 <NAVI>[장소]<INFO>yuno,343,257,0,101,0</INFO></NAVI>로 가 주세요.\n다른 큐펫들도 모험가님들과 산책하고 있으니 함께 걸어가다 보면 보이실 겁니다.",
+        "en": "[Helen]\nFollow <NAVI>[this path]<INFO>yuno,343,257,0,101,0</INFO></NAVI>.\nOther adventurers are walking with their little pets on this trail.",
+        "pt": "[Heloísa]\nSiga por <NAVI>[esse caminho]<INFO>yuno,343,257,0,101,0</INFO></NAVI>\nOutros aventureiros estão caminhando com os bichinhos de estimação nessa trilha.",
+        "es": "[Helen]\nSigue por <NAVI>[este camino]<INFO>yuno,343,257,0,101,0</INFO></NAVI>.\nOtros aventureros están caminando con sus animalitos en esta ruta."
+    },
+    "g2/EDA": {
+        "ko": "[루나틱]\n루나틱은 다른 모험가님하고 산책한다루리! 모험가님은 누구랑 산책하지루?",
+        "en": "[Lunatic]\nI'm going to walk with another adventurer, and you?",
+        "pt": "[Lunático]\nEu vou passear com outro aventureiro e você?",
+        "es": "[Lunático]\n¿Voy a pasear con otro aventurero y tú?"
+    },
+    "hG/EDA": {
+        "ko": "[루나틱]\n루나틱은 산책하는 중이에요루!\n모험가님이랑 산책 나왔다루리~",
+        "en": "[Lunatic]\nI'm out for a walk!\nI'm having fun~",
+        "pt": "[Lunático]\nEu estou em um passeio!\nEstou me divertindo~",
+        "es": "[Lunático]\n¡Estoy de paseo!\n¡Me estoy divirtiendo~"
+    },
+    "hW/EDA": {
+        "ko": "[루나틱]\n유노에서는 하늘이 가깝대요루.\n떠 있는 섬이래서 그렇대…",
+        "en": "[Lunatic]\nI feel so close to the clouds here in Juno.\nIt must be because the city floats in the clouds!",
+        "pt": "[Lunático]\nMe sinto tão próximo das nuvens aqui em Juno.\nDeve ser porque a cidade flutua nas nuvens!",
+        "es": "[Lunático]\nMe siento tan cerca de las nubes aquí en Juno.\n¡Debe ser porque la ciudad flota en las nubes!"
+    },
+    "hm/EDA": {
+        "ko": "[루나틱]\n폴짝 뛰면 구름에 닿을 수 있나? 조금만 더 높이 뛰면?\n솜사탕 맛이 날까요루리? 너무너무 궁금해루~",
+        "en": "[Lunatic]\nWhat would a cloud taste like?\nI wonder if it's like cotton candy?~",
+        "pt": "[Lunático]\nQual será o gosto de uma nuvem?\nSerá que é de algodão-doce?~",
+        "es": "[Lunático]\n¿A qué sabrá una nube?\n¿Será a algodón de azúcar?~"
+    },
+    "h2/EDA": {
+        "ko": "[포링]\n뽀잉, 뽀잉… 산책길이 아주 좋아링.\n바닥이 차갑고 매끈매끈하다링… 백 점 만점이야링!",
+        "en": "[Poring]\nPoi poi! I like walking.\nWalking is so important to me!",
+        "pt": "[Poring]\nPoi poi! Eu gosto de caminhar.\nCaminhar é tão importante para mim!",
+        "es": "[Poring]\nPoi poi! Me gusta caminar.\n¡Caminar es tan importante para mí!"
+    },
+    "iG/EDA": {
+        "ko": "[포링]\n산책길은 아주 중요해링!\n포링이 날카로운 걸 밟고 펑 터져버리면 모두들 아주아주 슬플 거 아니야링?",
+        "en": "[Poring]\nThe whole trail is made of rubber!\nIf Poring stepped on something sharp and popped, everyone would be very, very sad...",
+        "pt": "[Poring]\nA trilha toda é feita de borracha!\nSe Poring pisar em algo afiado e explodir, todo mundo ficaria muito, muito triste...",
+        "es": "[Poring]\n¡Toda la ruta es de goma!\nSi Poring pisara algo afilado y explotara, todos estarían muy, muy tristes..."
+    },
+    "iW/EDA": {
+        "ko": "[헤로이트]\n포링과 산책로를 따라 두 번째 <NAVI>[장소]<INFO>yuno,343,257,0,101,0</INFO></NAVI>로 가 주세요.\n다른 큐펫들도 모험가님들과 산책하고 있으니 함께 걸어가다 보면 보이실 겁니다.",
+        "en": "[Helen]\nFollow <NAVI>[this path]<INFO>yuno,343,257,0,101,0</INFO></NAVI>.\nOther adventurers are walking with their little pets on this trail.",
+        "pt": "[Heloísa]\nSiga por <NAVI>[esse caminho]<INFO>yuno,343,257,0,101,0</INFO></NAVI>\nOutros aventureiros estão caminhando com os bichinhos de estimação nessa trilha.",
+        "es": "[Helen]\nSigue por <NAVI>[este camino]<INFO>yuno,343,257,0,101,0</INFO></NAVI>.\nOtros aventureros están caminando con sus animalitos en esta ruta."
+    },
+    "im/EDA": {
+        "ko": "[포링]\n포링 아빠랑 산책 간다링. 모험가님도 포링이랑 산책 가고 싶어링?",
+        "en": "[Poring]\nDo adventurers want to walk with Poring too?",
+        "pt": "[Poring]\nOs aventureiros também querem passear com o Poring?",
+        "es": "[Poring]\n¿Los aventureros también quieren pasear con Poring?"
+    },
+    "i2/EDA": {
+        "ko": "[포링]\n포링은 엄마랑 산책하는 중이에요링…\n모험가님도 같이 갈래?",
+        "en": "[Poring]\nPoi poi is walking!\nAre you coming too?",
+        "pt": "[Poring]\nPoi poi está passeando!\nVocê vem também?",
+        "es": "[Poring]\n¡Poi poi está paseando!\n¿Tú también vienes?"
+    },
+    "jG/EDA": {
+        "ko": "[포링]\n여기는 길도 넓고 매끈매끈해서 산책하기 아주 좋아링!\n바닥이 차갑고 매끈매끈하다링! 기분좋아~",
+        "en": "[Poring]\nThe trail here is very safe!\nSo I don't need to be afraid~",
+        "pt": "[Poring]\nA trilha aqui é bem segura!\nEntão não preciso ter medo~",
+        "es": "[Poring]\n¡La ruta aquí es muy seguro!\nAsí que no necesito tener miedo~"
+    },
+    "jW/EDA": {
+        "ko": "[포링]\n하루 종일 산책할 수도 있겠어링.\n아주 훌륭해링!",
+        "en": "[Poring]\nI could walk all day.\nSo enjoyable!",
+        "pt": "[Poring]\nEu poderia caminhar o dia todo.\nGostoso demais!",
+        "es": "[Poring]\nPodría caminar todo el día.\n¡Muy rico!"
+    },
+    "jm/EDA": {
+        "ko": "[새끼 데저트울프]\n컹컹, 컹! 더 뛰고 싶은데! 나 뛰는 거 완전 좋아하는데!!",
+        "en": "[Desert Wolf Baby]\nAuuuuuu! I want to walk more!!",
+        "pt": "[Filhote de Lobo]\nAuuuuu! Quero andar mais!!",
+        "es": "[Cría de Lobo]\n¡Auuuuu! ¡Quiero caminar más!!"
+    },
+    "j2/EDA": {
+        "ko": "[새끼 데저트울프]\n여기서 기다려? 나, 기다리는 것도 잘해!\n기다리는 거 완전 좋아하는데!!",
+        "en": "[Desert Wolf Baby]\nWait here? I LOVE waiting!\nI can wait all day!!",
+        "pt": "[Filhote de Lobo]\nEsperar aqui? Eu AMO esperar!\nPosso esperar o dia todo!!",
+        "es": "[Cría de Lobo]\n¿Esperar aquí? ¡ME ENCANTA esperar!\n¡¡Puedo esperar todo el día!!"
+    },
+    "kG/EDA": {
+        "ko": "[헤로이트]\n새끼 데저트울프와 산책로를 따라 두 번째 <NAVI>[장소]<INFO>yuno,343,257,0,101,0</INFO></NAVI>로 가 주세요.\n다른 큐펫들도 모험가님들과 산책하고 있으니 함께 걸어가다 보면 보이실 겁니다.",
+        "en": "[Helen]\nFollow <NAVI>[this path]<INFO>yuno,343,257,0,101,0</INFO></NAVI>.\nOther adventurers are walking with their little pets on this trail.",
+        "pt": "[Heloísa]\nSiga por <NAVI>[esse caminho]<INFO>yuno,343,257,0,101,0</INFO></NAVI>\nOutros aventureiros estão caminhando com os bichinhos de estimação nessa trilha.",
+        "es": "[Helen]\nSigue por <NAVI>[este camino]<INFO>yuno,343,257,0,101,0</INFO></NAVI>.\nOtros aventureros están caminando con sus animalitos en esta ruta."
+    },
+    "kW/EDA": {
+        "ko": "[새끼 데저트울프]\n나는 산책하는 중인데!!! 막 뛰어가는 중이거든!!! 완전 신나!!!\n나 산책하는 거 완전 좋아하는데!!!",
+        "en": "[Desert Wolf Baby]\nI'm walking!!! I love walking!!!\nLet's go for a waaaaaaaaalk!!!",
+        "pt": "[Filhote de Lobo]\nEstou caminhando!!! Eu amo caminhar!!!\nVamos passeaaaaaaaaaaaar!!!",
+        "es": "[Cría de Lobo]\n¡¡¡Estoy caminando!!! ¡¡¡Me encanta caminar!!!\n¡¡¡Vamos de paseooooooooooo!!!"
+    },
+    "km/EDA": {
+        "ko": "[새끼 데저트울프]\n모험가님도 같이 뛸래? 같이 뛰면 더 신나는데!!!\n내가 공 물어올까? 공 물어오면 더 재밌는데!!!",
+        "en": "[Desert Wolf Baby]\nLet's play together!!!\nYou throw the ball and I'll fetch it!!!",
+        "pt": "[Filhote de Lobo]\nVamos brincar juntos!!!\nVocê joga a bola e eu pego!!!",
+        "es": "[Cría de Lobo]\n¡¡¡Vamos a jugar juntos!!!\n¡¡¡Tú lanzas la pelota y yo la atrapo!!!"
+    },
+    "k2/EDA": {
+        "ko": "[새끼 데저트울프]\n공 던져 줘, 공 던져 줘!!! 컹컹!!!\n나 공 물어오는 거 완전 좋아하는데!!!",
+        "en": "[Desert Wolf Baby]\nThrow the ball!!! Throw the ball!!!\nI love playing ball!!!",
+        "pt": "[Filhote de Lobo]\nJogue a bola!!! Jogue a bola!!!\nEu amo brincar de bola!!!",
+        "es": "[Cría de Lobo]\n¡¡¡Lanza la pelota!!! ¡¡¡Lanza la pelota!!!\n¡¡¡Me encanta jugar a la pelota!!!"
+    },
+    "lG/EDA": {
+        "ko": "[데비루치]\n데비군이랑 산책을 하려고? 헤에, 용감하네?\n가는 길은 내가 잘 알고 있다네. 데비군을 따라와!",
+        "en": "[Deviruchi]\nIt takes a lot of courage to walk with the son of the lord of the underworld.\nLuckily for you, I'm loving the walk!",
+        "pt": "[Deviruchi]\nMuita coragem de sua parte andar com o filho do lorde do submundo.\nPor sua sorte, estou adorando o passeio!",
+        "es": "[Deviruchi]\nMucho valor de tu parte caminar con el hijo del señor del inframundo.\nPor tu suerte, ¡me encanta el paseo!"
+    },
+    "lW/EDA": {
+        "ko": "[헤로이트]\n데비루치와 산책로를 따라 두 번째 <NAVI>[장소]<INFO>yuno,343,257,0,101,0</INFO></NAVI>로 가 주세요.\n다른 큐펫들도 모험가님들과 산책하고 있으니 함께 걸어가다 보면 보이실 겁니다.",
+        "en": "[Helen]\nFollow <NAVI>[this path]<INFO>yuno,343,257,0,101,0</INFO></NAVI>.\nOther adventurers are walking with their little pets on this trail.",
+        "pt": "[Heloísa]\nSiga por <NAVI>[esse caminho]<INFO>yuno,343,257,0,101,0</INFO></NAVI>\nOutros aventureiros estão caminhando com os bichinhos de estimação nessa trilha.",
+        "es": "[Helen]\nSigue por <NAVI>[este camino]<INFO>yuno,343,257,0,101,0</INFO></NAVI>.\nOtros aventureros están caminando con sus animalitos en esta ruta."
+    },
+    "lm/EDA": {
+        "ko": "[데비루치]\n날씨가 좋지? 이쪽은 산책을 나왔어, 모험가~\n함께 갈래?",
+        "en": "[Deviruchi]\nThe day is too bright for my eyes~\nWhy don't we walk at night?",
+        "pt": "[Deviruchi]\nO dia está muito claro para meus olhos~\nPor que não passeamos de noite?",
+        "es": "[Deviruchi]\nEl día está muy claro para mis ojos~\n¿Por qué no paseamos de noche?"
+    },
+    "l2/EDA": {
+        "ko": "[데비루치]\n이 데비군이 특별히 길을 안내하도록 하지.\n정말 특별한 거라구~",
+        "en": "[Deviruchi]\nI need a parasol for my protection.\nI don't want to become a sun-scorched demon~",
+        "pt": "[Deviruchi]\nEu preciso de um guarda-sol para minha proteção.\nNão quero virar um demônio escaldado~",
+        "es": "[Deviruchi]\nNecesito una sombrilla para mi protección.\nNo quiero convertirme en un demonio escaldado~"
+    },
+    "mG/EDA": {
+        "ko": "[데비루치]\n원래대로라면 데비군은 자유를 찾아 떠났을 텐데 말이야.\n이렇게 모험가를 기다려주고, 대단한 거지~",
+        "en": "[Deviruchi]\nDespite that, the walk is really nice.\nI didn't know this was the true meaning of happiness~",
+        "pt": "[Deviruchi]\nApesar disso, o passeio está muito legal.\nNão sabia que esse era o verdadeiro significado de felicidade~",
+        "es": "[Deviruchi]\nA pesar de eso, el paseo está muy divertido.\nNo sabía que este era el verdadero significado de la felicidad~"
+    },
+    "mW/EDA": {
+        "ko": "[루나틱]\n하늘은 맑고루리~\n간식은 맛있고루리~",
+        "en": "[Lunatic]\nThe sky is so beautiful~\nAnd these snacks are delicious~",
+        "pt": "[Lunático]\nO céu está tão lindo~\nE esses lanches estão deliciosos~",
+        "es": "[Lunático]\n¡El cielo está tan lindo~\nY estos bocadillos están deliciosos~"
+    },
+    "mm/EDA": {
+        "ko": "[루나틱]\n산책은 즐겁고루리~\n하늘은 맑고루리~",
+        "en": "[Lunatic]\nWalking is so fun~\nI feel the breeze in my fluffy fur~",
+        "pt": "[Lunático]\nPassear é tão divertido~\nSinto a brisa nos meus pelos felpudos~",
+        "es": "[Lunático]\n¡Pasear es tan divertido~\nSiento la brisa en mi pelaje esponjoso~"
+    },
+    "m2/EDA": {
+        "ko": "[루나틱]\n루나틱이 지은 노래인데, 루…\n어때? 신나지? 신나지?!",
+        "en": "[Lunatic]\nAnd you?\nAre you enjoying the walk?!",
+        "pt": "[Lunático]\nE você?\nEstá gostando do passeio?!",
+        "es": "[Lunático]\n¿Y tú?\n¡¿Estás disfrutando el paseo?!"
+    },
+    "nG/EDA": {
+        "ko": "[자낫]\n세 번째 <NAVI>[장소]<INFO>yuno,282,102,0,101,0</INFO></NAVI>는 길을 따라 가시면 있는 작은 동상 앞입니다.\n날씨가 좋아서 큐펫들도 즐거워할 거예요.",
+        "en": "[Jane]\nThe last stop on the trail is <NAVI>[right over there]<INFO>yuno,282,102,0,101,0</INFO></NAVI>.\nThe little pets are very excited!",
+        "pt": "[Janaína]\nA última parada da trilha fica <NAVI>[bem ali]<INFO>yuno,282,102,0,101,0</INFO></NAVI>\nOs bichinhos de estimação estão bem animados!",
+        "es": "[Dolores]\nLa última parada de la ruta está <NAVI>[justo ahí]<INFO>yuno,282,102,0,101,0</INFO></NAVI>.\n¡Los animalitos están muy animados!"
+    },
+    "nW/EDA": {
+        "ko": "[루나틱]\n루나틱이 지은 노래인데 따라 부르면 더 신난다루! 같이 불러줘~ 큰 소리로!",
+        "en": "[Lunatic]\nI feel like singing a song!",
+        "pt": "[Lunático]\nSinto vontade de cantar uma música!",
+        "es": "[Lunático]\n¡Tengo ganas de cantar una canción!"
+    },
+    "nm/EDA": {
+        "ko": "[포링]\n포링의 촉촉하고 뽀잉뽀잉한 피부의 비결이 궁금해링?",
+        "en": "[Poring]\nWant to hear a fun fact about Porings?",
+        "pt": "[Poring]\nQuer ouvir uma curiosidade dos Porings?",
+        "es": "[Poring]\n¿Quieres escuchar una curiosidad de los Porings?"
+    },
+    "n2/EDA": {
+        "ko": "[포링]\n그건… 광합성이야링.\n햇빛을 받으면서 이렇게… 가만히 있으면 피부가 반짝반짝해져링!",
+        "en": "[Poring]\nWe do photosynthesis.\nWe're the Plant race, so it's obvious we eat like that!",
+        "pt": "[Poring]\nNós fazemos fotossíntese.\nSomos da raça Planta, então é óbvio que nos alimentamos assim!",
+        "es": "[Poring]\nHacemos fotosíntesis.\nSomos de la raza Planta, así que ¡es obvio que nos alimentamos así!"
+    },
+    "oG/EDA": {
+        "ko": "[포링]\n포링은 그런데… {0}는 아니야링?",
+        "en": "[Poring]\nDid you like it, {0}? Say you liked it, say!",
+        "pt": "[Poring]\nGostou, {0}? Diz que gostou, diz!",
+        "es": "[Poring]\n¿Te gustó, {0}? ¡Di que te gustó, di!"
+    },
+    "oW/EDA": {
+        "ko": "[포링]\n포링 날씨가 좋으면 피부가 더 매끈매끈 촉촉해지는 것 같아링...",
+        "en": "[Poring]\nWhen it's sunny like this, I do photosynthesis...",
+        "pt": "[Poring]\nQuando está sol desse jeito, eu faço fotossíntese...",
+        "es": "[Poring]\nCuando hay sol así, hago fotosíntesis..."
+    },
+    "om/EDA": {
+        "ko": "[포링]\n비결이 뭔지 궁금해링?",
+        "en": "[Poring]\nDidn't you know Porings are the Plant race?",
+        "pt": "[Poring]\nNão sabia que Porings são da raça Planta?",
+        "es": "[Poring]\n¿No sabías que los Porings son de la raza Planta?"
+    },
+    "o2/EDA": {
+        "ko": "[새끼 데저트울프]\n간식 주나? 나 간식 주나? 컹… 나 간식 주나?",
+        "en": "[Desert Wolf Baby]\nGot a treat? I want a treat! Give me a treat?",
+        "pt": "[Filhote de Lobo]\nTem petisco? Eu quero petisco! Me dá um petisco?",
+        "es": "[Cría de Lobo]\n¿Tienes premio? ¡Quiero premio! ¿Me das un premio?"
+    },
+    "pG/EDA": {
+        "ko": "[새끼 데저트울프]\n어!!!",
+        "en": "[Desert Wolf Baby]\nWoof!!",
+        "pt": "[Filhote de Lobo]\nAu!!",
+        "es": "[Cría de Lobo]\n¡¡Guau!!"
+    },
+    "pW/EDA": {
+        "ko": "[새끼 데저트울프]\n혹시 간식 줄 거야? 간식!",
+        "en": "[Desert Wolf Baby]\nI love treats!",
+        "pt": "[Filhote de Lobo]\nEu amo petiscos!",
+        "es": "[Cría de Lobo]\n¡Me encantan los premios!"
+    },
+    "pm/EDA": {
+        "ko": "[새끼 데저트울프]\n산책! 산책! 산책! 산책! 산책! 산책! 산책!",
+        "en": "[Desert Wolf Baby]\nWoof! Woof! Woof! Woof! Woof! Woof! Woof!",
+        "pt": "[Filhote de Lobo]\nAu! Au! Au! Au! Au! Au! Au!",
+        "es": "[Cría de Lobo]\n¡Guau! ¡Guau! ¡Guau! ¡Guau! ¡Guau! ¡Guau! ¡Guau!"
+    },
+    "p2/EDA": {
+        "ko": "[새끼 데저트울프]\n헥, 헥헥! 산책! 산책! 산책!",
+        "en": "[Desert Wolf Baby]\nHehehe! Woof! Woof! Woof!",
+        "pt": "[Filhote de Lobo]\nHehehe! Au! Au! Au!",
+        "es": "[Cría de Lobo]\n¡Jejeje! ¡Guau! ¡Guau! ¡Guau!"
+    },
+    "qG/EDA": {
+        "ko": "[새끼 데저트울프]\n간식! 간식! 산책! 간식! 산책!!!",
+        "en": "[Desert Wolf Baby]\nTreats! Treats! Woof! Treats! Woof!!!",
+        "pt": "[Filhote de Lobo]\nPetiscos! Petiscos! Au! Petiscos! Au!!!",
+        "es": "[Cría de Lobo]\n¡Premios! ¡Premios! ¡Guau! ¡Premios! ¡¡Guau!!!"
+    },
+    "qW/EDA": {
+        "ko": "[데비루치]\n날씨 참 좋다아~\n하늘도 맑고, 바람도 시원하고…",
+        "en": "[Deviruchi]\nThe weather is very nice~\nThe sky is clear, the wind is fresh...",
+        "pt": "[Deviruchi]\nO clima está muito bom~\nO céu está claro, o vento está fresco...",
+        "es": "[Deviruchi]\nEl clima está muy bueno~\nEl cielo está claro, el viento está fresco..."
+    },
+    "qm/EDA": {
+        "ko": "[데비루치]\n너무 느리다고?\n데비군은 데비군의 속도로 걷는 거야.",
+        "en": "[Deviruchi]\nAm I slow?\nMy legs are short, Deviruchis walk slowly indeed.",
+        "pt": "[Deviruchi]\nEstou devagar?\nMinhas pernas são curtinhas, Deviruchis andam lento mesmo.",
+        "es": "[Deviruchi]\n¿Voy lento?\nMis piernas son cortitas, los Deviruchis caminan lento de por sí."
+    },
+    "q2/EDA": {
+        "ko": "[데비루치]\n데비군에게 맞춰 주도록 해~\n그것이 산책 마스터의 숙명.",
+        "en": "[Deviruchi]\nUnless you want to carry me on your back~\nI wouldn't complain.",
+        "pt": "[Deviruchi]\nA menos que queira me levar nas costas~\nEu não iria reclamar.",
+        "es": "[Deviruchi]\nA menos que quieras llevarme en la espalda~\nNo me quejaría."
+    },
+    "rG/EDA": {
+        "ko": "[데비루치]\n나는 걷는 거 싫어하는데에?\n사실 좋아하지만. 그러니까 산책은 혼자 간다는 말이야, 모험가~",
+        "en": "[Deviruchi]\nWalk?\nI prefer being carried on the back~",
+        "pt": "[Deviruchi]\nAndar?\nPrefiro ser carregado nas costas~",
+        "es": "[Deviruchi]\n¿Caminar?\nPrefiero que me lleven en la espalda~"
+    },
+    "rW/EDA": {
+        "ko": "[데비루치]\n날씨가 좋지? 이쪽은 산책을 나왔어, 모험가~",
+        "en": "[Deviruchi]\nThe weather is very good for a walk~",
+        "pt": "[Deviruchi]\nO tempo está muito bom para um passeio~",
+        "es": "[Deviruchi]\nEl clima está muy bueno para pasear~"
+    },
+    "rm/EDA": {
+        "ko": "[데비루치]\n데비군의 산책은 데비군의 속도로~ 모험가가 맞춰 주는 거야~.",
+        "en": "[Deviruchi]\nEven better if the weather were cloudy~.",
+        "pt": "[Deviruchi]\nMelhor ainda se o clima fosse nublado~.",
+        "es": "[Deviruchi]\nMejor aún si el clima estuviera nublado~."
+    },
+    "r2/EDA": {
+        "ko": "[루나틱]\n이제 그만 돌아가루리?\n루나틱, 더 놀 수 있는데루...",
+        "en": "[Lunatic]\nAre we finishing?\nI wanted to play more...",
+        "pt": "[Lunático]\nEstamos terminando?\nEu queria brincar mais...",
+        "es": "[Lunático]\n¿Estamos terminando?\nQuería jugar más..."
+    },
+    "sG/EDA": {
+        "ko": "[루나틱]\n하지만 루나틱은 착한 큐펫이니까루…",
+        "en": "[Lunatic]\nWas I a good little pet?",
+        "pt": "[Lunático]\nEu fui um bom bichinho de estimação?",
+        "es": "[Lunático]\n¿Fui un buen animalito?"
+    },
+    "sW/EDA": {
+        "ko": "[루나틱]\n저기 모퉁이까지만 갔다가 돌아오면 안될까루리?",
+        "en": "[Lunatic]\nI hope you come back tomorrow so we can walk.",
+        "pt": "[Lunático]\nEu espero que você volte amanhã para caminharmos.",
+        "es": "[Lunático]\nEspero que vuelvas mañana para caminar."
+    },
+    "sm/EDA": {
+        "ko": "[니니스]\n충분히 걸었으니 이제 알 축제 <NAVI>[광장]<INFO>yuno,150,155,0,101,0</INFO></NAVI>으로 돌아가기로 해요.\n큐펫들이 아직 힘이 나는 듯이 보이더라도 돌아가면 푹 잠들 겁니다.",
+        "en": "[Nino]\nTo finish the walk, return to the <NAVI>[Central Plaza]<INFO>yuno,150,155,0,101,0</INFO></NAVI>.\nTime for the little pets to rest.",
+        "pt": "[Nino]\nPara finalizar o passeio, volte para a <NAVI>[Praça Central]<INFO>yuno,150,155,0,101,0</INFO></NAVI>\nHora dos bichinhos de estimação descansarem.",
+        "es": "[Nino]\nPara finalizar el paseo, vuelve a la <NAVI>[Plaza Central]<INFO>yuno,150,155,0,101,0</INFO></NAVI>.\nHora de que los animalitos descansen."
+    },
+    "s2/EDA": {
+        "ko": "[포링]\n벌써 돌아가링…?\n벌써……?",
+        "en": "[Poring]\nIt's over?\nBut already...?",
+        "pt": "[Poring]\nAcabou?\nMas já...?",
+        "es": "[Poring]\n¿Terminó?\n¿Pero ya...?"
+    },
+    "tG/EDA": {
+        "ko": "[포링]\n휴… 어쩔 수 없다링.\n포링은 착한 큐펫이야링.",
+        "en": "[Poring]\nAh... alright.\nI'm just a little pet without an owner yet.",
+        "pt": "[Poring]\nAh... tudo bem.\nEu sou apenas um bichinho de estimação sem dono ainda.",
+        "es": "[Poring]\nAh... está bien.\nSolo soy un animalito sin dueño aún."
+    },
+    "tW/EDA": {
+        "ko": "[포링]\n세 바퀴 더 돌고 싶지만 참는다링…",
+        "en": "[Poring]\nI wanted to walk more, but I'm tired from today's walk.",
+        "pt": "[Poring]\nQueria andar mais, mas estou cansado da caminhada de hoje.",
+        "es": "[Poring]\nQuería caminar más, pero estoy cansado del paseo de hoy."
+    },
+    "tm/EDA": {
+        "ko": "[새끼 데저트울프]\n컹! 컹컹! 벌써 돌아가? 벌써? 진짜?\n벌써 산책 끝이야? 벌써? 진짜? 컹, 컹컹!",
+        "en": "[Desert Wolf Baby]\nAuu! Auu Auu! It's over? Really?\nReally really? For real? Auu, Auu Auu!",
+        "pt": "[Filhote de Lobo]\nAuu! Auu Auu! Acabou? Sério?\nSério mesmo? Sériozão? Auu, Auu Auu!",
+        "es": "[Cría de Lobo]\n¡Auu! ¡Auu Auu! ¿Terminó? ¿En serio?\n¿En serio en serio? ¿De veras? ¡Auu, Auu Auu!"
+    },
+    "t2/EDA": {
+        "ko": "[새끼 데저트울프]\n끼잉………",
+        "en": "[Desert Wolf Baby]\nAaa...",
+        "pt": "[Filhote de Lobo]\nAaa...",
+        "es": "[Cría de Lobo]\nAaa..."
+    },
+    "uG/EDA": {
+        "ko": "[새끼 데저트울프]\n그럼… 혹시 돌아가면 간식 주나!\n간식 주나! 나 간식 주나?!?!",
+        "en": "[Desert Wolf Baby]\nIf you come back tomorrow, will you give me treats?!\nTreats! I love treats!!",
+        "pt": "[Filhote de Lobo]\nSe você voltar amanhã, vai me dar petiscos?!\nPetiscos! Eu amo petiscos!!",
+        "es": "[Cría de Lobo]\nSi vuelves mañana, ¿me darás premios?!\n¡Premios! ¡¡Me encantan los premios!!"
+    },
+    "uW/EDA": {
+        "ko": "[데비루치]\n다리가 아프던 참이야. 이제 들어간다니 다행이야.",
+        "en": "[Deviruchi]\nMy little legs were already hurting. Good thing it's over.",
+        "pt": "[Deviruchi]\nMinhas perninhas estavam doloridas já. Ainda bem que acabou.",
+        "es": "[Deviruchi]\nYa me dolían mis piernecitas. Menos mal que terminó."
+    },
+    "um/EDA": {
+        "ko": "[데비루치]\n모험가의 시간도 너무 뺏지 않았지~?\n딱 좋은 산책이었어. 암… 그렇고 말고.",
+        "en": "[Deviruchi]\nDid I like the walk?\nDespite the possible skin cancer from this sun, yes, I did like it.",
+        "pt": "[Deviruchi]\nSe eu gostei do passeio?\nApesar do possível câncer de pele por causa desse sol, eu gostei sim.",
+        "es": "[Deviruchi]\n¿Si me gustó el paseo?\nA pesar del posible cáncer de piel por este sol, sí me gustó."
+    },
+    "u2/EDA": {
+        "ko": "[데비루치]\n한 바퀴만 더 돌아도, 뭐 괜찮지만 말이야…",
+        "en": "[Deviruchi]\nI hope tomorrow is cloudy, milder.",
+        "pt": "[Deviruchi]\nEspero que amanhã faça um clima nublado, mais ameno.",
+        "es": "[Deviruchi]\nEspero que mañana haga un clima nublado, más templado."
+    },
+    "vG/EDA": {
+        "ko": "행복의 큐펫 자판기",
+        "en": "Festival Machine",
+        "pt": "Máquina do Festival",
+        "es": "Máquina del Festival"
+    },
+    "vW/EDA": {
+        "ko": "[알림]\n - 클로버 티켓이 부족합니다. 자판기를 이용하시려면 <ITEM>[클로버 티켓]<INFO>25294</INFO></ITEM>이 최소 1장 필요합니다. -",
+        "en": "- You don't have a <ITEM>[Clover Ticket]<INFO>25294</INFO></ITEM>. -",
+        "pt": "- Você não tem <ITEM>[Bilhete de Trevo]<INFO>25294</INFO></ITEM>. -",
+        "es": "- No tienes <ITEM>[Boleto de Trébol]<INFO>25294</INFO></ITEM>. -"
+    },
+    "vm/EDA": {
+        "ko": "[알림]\n - 행복의 큐펫 자판기를 이용해주셔서 감사합니다.-",
+        "en": "[Festival Machine]\nThank you for participating in the Festival.",
+        "pt": "[Máquina do Festival]\nObrigado por participar do Festival.",
+        "es": "[Máquina del Festival]\nGracias por participar en el Festival."
+    },
+    "v2/EDA": {
+        "ko": "[알림]\n - 자판기에서는 <ITEM>[클로버 티켓]<INFO>25294</INFO></ITEM> 1장을 상품과 교환하실 수 있습니다. -",
+        "en": "[Festival Machine]\nReceive a random reward at the cost of 1 <ITEM>[Clover Ticket]<INFO>25294</INFO></ITEM>.",
+        "pt": "[Máquina do Festival]\nReceba uma recompensa aleatória ao custo de 1 <ITEM>[Bilhete de Trevo]<INFO>25294</INFO></ITEM>",
+        "es": "[Máquina del Festival]\nRecibe una recompensa aleatoria al costo de 1 <ITEM>[Boleto de Trébol]<INFO>25294</INFO></ITEM>."
+    },
+    "wG/EDA": {
+        "ko": "[알림]\n - 클로버 티켓은 행복한 알 축제를 즐기면서 얻으실 수 있습니다. -",
+        "en": "[Festival Machine]\nYou get the tickets from the Happy Egg Festival challenges.",
+        "pt": "[Máquina do Festival]\nVocê consegue os bilhetes nas gincanas do Festival das Mascotes.",
+        "es": "[Máquina del Festival]\nConsigues los boletos en los desafíos del Festival de las Mascotas."
+    },
+    "wW/EDA": {
+        "ko": "[알림]\n - 상품을 교환하시겠습니까?  <ITEM>[클로버 티켓]<INFO>25294</INFO></ITEM> 1장이 소모됩니다. -",
+        "en": "[Festival Machine]\nInsert 1 <ITEM>[Clover Ticket]<INFO>25294</INFO></ITEM>?",
+        "pt": "[Máquina do Festival]\nInserir 1 <ITEM>[Bilhete de Trevo]<INFO>25294</INFO></ITEM>?",
+        "es": "[Máquina del Festival]\n¿Insertar 1 <ITEM>[Boleto de Trébol]<INFO>25294</INFO></ITEM>?"
+    },
+    "wm/EDA": {
+        "ko": "상품 교환",
+        "en": "Insert Ticket",
+        "pt": "Inserir Bilhete",
+        "es": "Insertar Boleto"
+    },
+    "w2/EDA": {
+        "ko": "취소",
+        "en": "Cancel",
+        "pt": "Cancelar",
+        "es": "Cancelar"
+    },
+    "xG/EDA": {
+        "ko": "[알림]\n - 이용해 주셔서 감사합니다. -",
+        "en": "[Festival Machine]\nThank you for using the Machine.",
+        "pt": "[Máquina do Festival]\nObrigado por usar a Máquina.",
+        "es": "[Máquina del Festival]\nGracias por usar la Máquina."
+    },
+    "xW/EDA": {
+        "ko": "[알림]\n - 클로버 티켓이 부족합니다. 상품 교환에는 <ITEM>[클로버 티켓]<INFO>25294</INFO></ITEM>이 1장 필요합니다 -",
+        "en": "[Festival Machine]\nPlease check the number of <ITEM>[Clover Tickets]<INFO>25294</INFO></ITEM>.",
+        "pt": "[Máquina do Festival]\nPor favor, verifique o número de <ITEM>[Bilhete de Trevo]<INFO>25294</INFO></ITEM>.",
+        "es": "[Máquina del Festival]\nPor favor, verifica el número de <ITEM>[Boleto de Trébol]<INFO>25294</INFO></ITEM>."
+    },
+    "xm/EDA": {
+        "ko": "[알림]\n - 상품을 지급해 드렸습니다. 이용해 주셔서 감사합니다. -",
+        "en": "[Festival Machine]\nThis is your reward. Thank you.",
+        "pt": "[Máquina do Festival]\nEsta é a sua recompensa. Obrigado.",
+        "es": "[Máquina del Festival]\nEsta es tu recompensa. Gracias."
+    },
+    "x2/EDA": {
+        "ko": "[알림]\n - 오류가 발생했습니다. 소지량 한계 및 클로버 티켓 소지 개수를 다시 확인해 주시고 이용해 주시기 바랍니다. -",
+        "en": "[Festival Machine]\nPlease check the number of Tickets you have before using it.",
+        "pt": "[Máquina do Festival]\nPor favor, verifique o número de Bilhetes que você tem antes de usá-lo.",
+        "es": "[Máquina del Festival]\nPor favor, verifica el número de Boletos que tienes antes de usarlo."
+    },
+    "yG/EDA": {
+        "ko": "[알림]\n - 한 번 더 상품을 받으시겠습니까? <ITEM>[클로버 티켓]<INFO>25294</INFO></ITEM> 1장이 소모됩니다. -",
+        "en": "[Festival Machine]\nWould you like to continue inserting 1 <ITEM>[Clover Ticket]<INFO>25294</INFO></ITEM>?",
+        "pt": "[Máquina do Festival]\nGostaria de continuar inserindo 1 <ITEM>[Bilhete de Trevo]<INFO>25294</INFO></ITEM>?",
+        "es": "[Máquina del Festival]\n¿Te gustaría continuar insertando 1 <ITEM>[Boleto de Trébol]<INFO>25294</INFO></ITEM>?"
+    },
+    "yW/EDA": {
+        "ko": "YES",
+        "en": "Yes",
+        "pt": "Sim",
+        "es": "Sí"
+    },
+    "ym/EDA": {
+        "ko": "NO",
+        "en": "No",
+        "pt": "Não",
+        "es": "No"
+    },
+    "y2/EDA": {
+        "ko": "축제 안내",
+        "en": "Festival Guide",
+        "pt": "Guia do Festival",
+        "es": "Guía del Festival"
+    },
+    "zG/EDA": {
+        "ko": "[알파노]\n행복한 축제! 유노에서 열리네, 행복한 알 축제!",
+        "en": "[Ostara]\nCome participate in the Happy Egg Festival!",
+        "pt": "[Ostara]\nVenham participar do Festival das Mascotes!",
+        "es": "[Ostara]\n¡Vengan a participar en el Festival de las Mascotas!"
+    },
+    "zW/EDA": {
+        "ko": "[알파소]\n맛있는 초콜렛, 쿠키 알과 행복의 세잎 클로버!\n<ITEM>[행복의 세잎 클로버]<INFO>25295</INFO></ITEM> 한 장 준다면 길을 열리라, 유노로 향하는 길!",
+        "en": "[Eostre]\nI'll teleport you to Juno!\nJust bring me 1 <ITEM>[Clover of Happiness]<INFO>25295</INFO></ITEM>!",
+        "pt": "[Eostre]\nEu teleportarei você para Juno!\nBasta me trazer 1 <ITEM>[Trevo da Felicidade]<INFO>25295</INFO></ITEM>!",
+        "es": "[Eostre]\n¡Te teletransportaré a Juno!\n¡Solo tráeme 1 <ITEM>[Trébol de la Felicidad]<INFO>25295</INFO></ITEM>!"
+    },
+    "zm/EDA": {
+        "ko": "길을 열리라!",
+        "en": "Teleport me!",
+        "pt": "Me teleporte!",
+        "es": "¡Teletranspórtame!"
+    },
+    "z2/EDA": {
+        "ko": "...?",
+        "en": "...?",
+        "pt": "...?",
+        "es": "...?"
+    },
+    "0G/EDA": {
+        "ko": "[알파노]\n훌륭하고 멋진 선택! 눈 감았다 뜨면 유노에 도착할거야!\n그럼 눈을 감아. 행복한 알 축제가 당신을 기다려!",
+        "en": "[Ostara]\nWise decision!\nClose your eyes and when you open them, you'll be in Juno!",
+        "pt": "[Ostara]\nSábia decisão!\nFeche os olhos e quando você abrir, estará em Juno!",
+        "es": "[Ostara]\n¡Sabia decisión!\n¡Cierra los ojos y cuando los abras, estarás en Juno!"
+    },
+    "0W/EDA": {
+        "ko": "[알파소]\n준비물이 부족해, 행복의 세잎 클로버! 축제로 떠날 수 없어!",
+        "en": "[Eostre]\nYou don't have a Clover of Happiness!",
+        "pt": "[Eostre]\nVocê não tem um Trevo da Felicidade!",
+        "es": "[Eostre]\n¡No tienes un Trébol de la Felicidad!"
+    },
+    "0m/EDA": {
+        "ko": "[알파노]\n클로버 루나틱, 행복의 세잎 클로버를 가졌네!",
+        "en": "[Ostara]\nThey are found on Clover Lunatics scattered around!",
+        "pt": "[Ostara]\nEles são encontrados pelos Lunáticos de Trevo espalhados por aí!",
+        "es": "[Ostara]\n¡Los encuentran en los Lunáticos Trébol esparcidos por ahí!"
+    },
+    "02/EDA": {
+        "ko": "[알파노]\n아, 행복한 알 축제!",
+        "en": "[Ostara]\nThe Happy Egg Festival takes place in Juno!",
+        "pt": "[Ostara]\nO Festival das Mascotes acontece em Juno!",
+        "es": "[Ostara]\n¡El Festival de las Mascotas ocurre en Juno!"
+    },
+    "1G/EDA": {
+        "ko": "[알파소]\n아, 행복의 세잎 클로버!",
+        "en": "[Eostre]\nYou should participate!",
+        "pt": "[Eostre]\nVocê deveria participar!",
+        "es": "[Eostre]\n¡Deberías participar!"
+    },
+    "1W/EDA": {
+        "ko": "알파노 : 행복한 축제! 유노에서 열리네, 행복한 알 축제!",
+        "en": "Ostara: Participate in the Happy Egg Festival!",
+        "pt": "Ostara: Participem do Festival das Mascotes!",
+        "es": "Ostara: ¡Participen del Festival de las Mascotas!"
+    },
+    "1m/EDA": {
+        "ko": "알파소 : 맛있는 초콜렛, 쿠키 알과 행복의 세잎 클로버!",
+        "en": "Eostre: Come to Juno!",
+        "pt": "Eostre: Venham para Juno!",
+        "es": "Eostre: ¡Vengan a Juno!"
+    },
+    "12/EDA": {
+        "ko": "축제 박사",
+        "en": "Doctor Whom",
+        "pt": "Doutor Quem",
+        "es": "Doctor Quién"
+    },
+    "2G/EDA": {
+        "ko": "[카세]\n낯선 얼굴인 걸 보니 행복한 알 축제를 즐기러 온 모험가인 모양이지.\n유노 사람이었다면 내가 못 알아볼 리 없으니!",
+        "en": "[Doctor Whom]\nIt seems to me you've come to participate in the Happy Egg Festival.\nAfter all, you don't look like you were born in Juno.",
+        "pt": "[Doutor Quem]\nMe parece que você veio participar do Festival das Mascotes.\nAfinal, você não tem cara de quem nasceu em Juno.",
+        "es": "[Doctor Quién]\nMe parece que viniste a participar del Festival de las Mascotas.\nDespués de todo, no tienes cara de haber nacido en Juno."
+    },
+    "2W/EDA": {
+        "ko": "[카세]\n축제는 즐기고 있나?\n그리고 혹시 이야기 듣기 좋아하나?",
+        "en": "[Doctor Whom]\nAre you enjoying the festival?\nAnd do you like listening to stories?",
+        "pt": "[Doutor Quem]\nVocê está gostando do festival?\nE você gosta de ouvir histórias?",
+        "es": "[Doctor Quién]\n¿Estás disfrutando el festival?\n¿Y te gusta escuchar historias?"
+    },
+    "2m/EDA": {
+        "ko": "[카세]\n좋아한다면 내가 유노에서 행복한 알 축제가 열리게 된 까닭에 대해 이야기해줄까 하네\n관심이 있나?",
+        "en": "[Doctor Whom]\nIf you like, I can tell you the origin of the Happy Egg Festival.\nWant to hear it?",
+        "pt": "[Doutor Quem]\nSe você gostar, posso te contar a origem do Festival das Mascotes.\nQuer ouvir?",
+        "es": "[Doctor Quién]\nSi te gusta, puedo contarte el origen del Festival de las Mascotas.\n¿Quieres escuchar?"
+    },
+    "22/EDA": {
+        "ko": "관심 있습니다.",
+        "en": "Listen to the story.",
+        "pt": "Ouvir história.",
+        "es": "Escuchar historia."
+    },
+    "3G/EDA": {
+        "ko": "관심 없습니다.",
+        "en": "I'm not interested.",
+        "pt": "Não tenho interesse.",
+        "es": "No tengo interés."
+    },
+    "3W/EDA": {
+        "ko": "축제 행사에 대해 궁금합니다.",
+        "en": "Where do I participate in the Festival?",
+        "pt": "Onde participo do Festival?",
+        "es": "¿Dónde participo del Festival?"
+    },
+    "3m/EDA": {
+        "ko": "[카세]\n응, 이건 오래 전 이야기라네. 예전 마법 대학에서 수상한 연구를 한 적이 있다고 해.",
+        "en": "[Doctor Whom]\nA few years ago, irregularities were reported at the Magic Academy.",
+        "pt": "[Doutor Quem]\nUns anos atrás, denunciaram irregularidades na Academia de Magia.",
+        "es": "[Doctor Quién]\nHace unos años, denunciaron irregularidades en la Academia de Magia."
+    },
+    "32/EDA": {
+        "ko": "[카세]\n'일부 모험가만 얻을 수 있다는 귀한 물건인 '행운의 알'을 대량 생산하기 위한 연구지.",
+        "en": "[Doctor Whom]\nThey were researching mass incubation of little pets.",
+        "pt": "[Doutor Quem]\nEstavam pesquisando sobre incubação em massa de bichinhos de estimação.",
+        "es": "[Doctor Quién]\nEstaban investigando sobre incubación masiva de animalitos."
+    },
+    "4G/EDA": {
+        "ko": "[카세]\n하지만 문제가 있었다네. 연구를 위해 대량의 큐펫들을 포획해 실험으로 희생시켰거든.\n이를 보다 못한 대학의 학생들이 큐펫을 구출하기로 결심했네.",
+        "en": "[Doctor Whom]\nThey captured many pets for testing.\nAnd many of them ended up dying during the process.",
+        "pt": "[Doutor Quem]\nEles capturaram muitos mascotes para os testes.\nE muitos deles acabaram morrendo durante o processo.",
+        "es": "[Doctor Quién]\nCapturaron muchas mascotas para las pruebas.\nY muchas de ellas terminaron muriendo durante el proceso."
+    },
+    "4W/EDA": {
+        "ko": "[카세]\n학생들은 연구실의 큐펫을 모두 알로 되돌려 가지고 나왔다네.\n그리고 유노 사람들에게 실험에 대해 알리고 마을에 큐펫 알을 숨겼어.",
+        "en": "[Doctor Whom]\nOutraged, the Academy students decided to rescue the little pets.\nThey put them in Eggs to be able to transport the pets without scaring them.",
+        "pt": "[Doutor Quem]\nIndignados, os alunos da Academia decidiram resgatar os bichinhos.\nEles os colocaram em Ovos para conseguir transportar as mascotes sem assustá-las.",
+        "es": "[Doctor Quién]\nIndignados, los alumnos de la Academia decidieron rescatar a los animalitos.\nLos pusieron en Huevos para poder transportar a las mascotas sin asustarlas."
+    },
+    "4m/EDA": {
+        "ko": "[카세]\n유노 사람들은 깜짝 놀라 학생들을 돕고 큐펫들을 돌보기로 했어.",
+        "en": "[Doctor Whom]\nWhen the professors found out, they started helping the students.",
+        "pt": "[Doutor Quem]\nQuando os professores souberam, passaram a ajudar os alunos.",
+        "es": "[Doctor Quién]\nCuando los profesores se enteraron, comenzaron a ayudar a los alumnos."
+    },
+    "42/EDA": {
+        "ko": "[카세]\n어떤 사람들은 큐펫들을 데려다 부화시켜 소중하게 길렀고, 어떤 사람들은 쿠키와 초콜렛, 마지판으로 묵직한 가짜 알을 만들어 숨겨둔 큐펫 알과 섞었다네.",
+        "en": "[Doctor Whom]\nThey made fake chocolate eggs to throw the researchers off track.",
+        "pt": "[Doutor Quem]\nEles fizeram ovos falsos de chocolate para despistar os pesquisadores.",
+        "es": "[Doctor Quién]\nHicieron huevos falsos de chocolate para despistar a los investigadores."
+    },
+    "5G/EDA": {
+        "ko": "[카세]\n그리고 대학에 비윤리적인 실험을 중단하기를 요구했지.",
+        "en": "[Doctor Whom]\nAnd then, they opened an inquiry against the Academy about unethical animal experimentation.",
+        "pt": "[Doutor Quem]\nE então, abriram um inquérito contra a Academia sobre experimentação animal antiética.",
+        "es": "[Doctor Quién]\nY entonces, abrieron una investigación contra la Academia sobre experimentación animal antiética."
+    },
+    "5W/EDA": {
+        "ko": "[카세]\n대학에서는 이들의 항의를 받아들여 실험 중단을 발표했다네.\n그와 함께 사과의 의미로 유노 사람들이 만든 것과 닮은 가짜 알을 만들었어.",
+        "en": "[Doctor Whom]\nThe Academy accepted the protest and ended the research.\nSending an apology to society.",
+        "pt": "[Doutor Quem]\nA Academia aceitou o protesto e encerrou a pesquisa.\nEnviando um pedido de desculpas à sociedade.",
+        "es": "[Doctor Quién]\nLa Academia aceptó la protesta y terminó la investigación.\nEnviando una disculpa a la sociedad."
+    },
+    "5m/EDA": {
+        "ko": "[카세]\n그리고 거기에 유용한 마법을 걸어 마을 사람들에게 선물했다네.\n권위적인 대학 사람들 답지 않게 재치있는 사과였지.",
+        "en": "[Doctor Whom]\nAnd the apology was sent inside an egg.\nTo symbolize the students and professors who hid the little pets.",
+        "pt": "[Doutor Quem]\nE o pedido de desculpas foi enviado dentro de um ovo.\nPara simbolizar os alunos e professores que esconderam os bichinhos de estimação.",
+        "es": "[Doctor Quién]\nY la disculpa fue enviada dentro de un huevo.\nPara simbolizar a los alumnos y profesores que escondieron a los animalitos."
+    },
+    "52/EDA": {
+        "ko": "[카세]\n유노 사람들은 대학의 선물을 '행복한 알'이라고 불렀어.\n갑작스럽게 찾아오는 행운 대신 다함께 노력해서 얻을 수 있는 행복 말이지.",
+        "en": "[Doctor Whom]\nAnd to remember this day, the students hold this Happy Egg Festival.\nTo take care of little pets and abandoned animals.",
+        "pt": "[Doutor Quem]\nE para lembrar desse dia, os alunos fazem esse Festival das Mascotes.\nPara cuidar dos bichinhos de estimação e dos animais abandonados.",
+        "es": "[Doctor Quién]\nY para recordar este día, los alumnos hacen este Festival de las Mascotas.\nPara cuidar a los animalitos y a los animales abandonados."
+    },
+    "6G/EDA": {
+        "ko": "[카세]\n그리고 매년 이 일이 있었던 3월이 되면 행복한 알을 선물하거나 여기저기 숨겨놓고 찾는 놀이를 즐기게 되었지.",
+        "en": "[Doctor Whom]\nThis event is annual and full of challenges made by freshmen and seniors.",
+        "pt": "[Doutor Quem]\nEsse evento é anual e cheio de gincanas feitas pelos calouros e veteranos.",
+        "es": "[Doctor Quién]\nEste evento es anual y está lleno de competencias hechas por los novatos y veteranos."
+    },
+    "6W/EDA": {
+        "ko": "[카세]\n큐펫을 위한 물건들이나 꽃말이 '행복'인 세잎 클로버를 서로 선물하는 풍습도 생겼다네.",
+        "en": "[Doctor Whom]\nThey used the Three-Leaf Clover as a symbol of happiness for the reward exchanges.",
+        "pt": "[Doutor Quem]\nUsaram o Trevo de Três Folhas com símbolo da felicidade para as trocas de recompensa.",
+        "es": "[Doctor Quién]\nUsaron el Trébol de Tres Hojas como símbolo de la felicidad para los intercambios de recompensa."
+    },
+    "6m/EDA": {
+        "ko": "[카세]\n유노 사람들끼리 작게 기념하던 행사가 어느 새 이렇게 큰 축제로 발전했지.",
+        "en": "[Doctor Whom]\nWhat used to be a small university party ended up involving the entire city.",
+        "pt": "[Doutor Quem]\nO que costumava ser uma pequena festa de universidade, acabou envolvendo a cidade inteira.",
+        "es": "[Doctor Quién]\nLo que solía ser una pequeña fiesta universitaria, terminó involucrando a toda la ciudad."
+    },
+    "62/EDA": {
+        "ko": "[카세]\n나는, 그리고 유노 사람들은 이 축제를 무척 자랑스럽게 여긴다네.\n그래서 난 이 이야기를 모르는 사람들에게 들려 주는 걸 매우 좋아해.",
+        "en": "[Doctor Whom]\nThe people of Juno are very proud of this Festival.\nThat's why I always tell this story.",
+        "pt": "[Doutor Quem]\nO povo de Juno tem muito orgulho desse Festival.\nPor isso sempre conto essa história.",
+        "es": "[Doctor Quién]\nEl pueblo de Juno está muy orgulloso de este Festival.\nPor eso siempre cuento esta historia."
+    },
+    "7G/EDA": {
+        "ko": "[카세]\n매년 새로운 사람들에게 이 이야기를 해줄 수 있다는 게 내 행복이야. 날 행복하게 해 줘서 고맙네, 젊은이.",
+        "en": "[Doctor Whom]\nThank you for listening to me, young one.",
+        "pt": "[Doutor Quem]\nObrigado por me ouvir, jovem.",
+        "es": "[Doctor Quién]\nGracias por escucharme, joven."
+    },
+    "7W/EDA": {
+        "ko": "[카세]\n하하하! 괜찮아, 괜찮아! 미안해할 것 없네.",
+        "en": "[Doctor Whom]\nHaha. That's alright, no need to apologize.",
+        "pt": "[Doutor Quem]\nHaha. Tudo bem, não tem que pedir desculpas.",
+        "es": "[Doctor Quién]\nJaja. Está bien, no tienes que disculparte."
+    },
+    "7m/EDA": {
+        "ko": "[카세]\n매년 3월 유노로 축제를 보러 와주는 것만으로도 충분히 관심 가진 것 아니겠나.",
+        "en": "[Doctor Whom]\nKnowing the origins of the Festival is really only for those who are interested.",
+        "pt": "[Doutor Quem]\nSaber as origens do Festival é realmente só para quem tem interesse.",
+        "es": "[Doctor Quién]\nSaber los orígenes del Festival es realmente solo para quienes tienen interés."
+    },
+    "72/EDA": {
+        "ko": "[카세]\n내년에도 와 주게. 우리는 이 축제를 무척 좋아하니까. 많은 사람들이 보러 와주는 것만으로도 행복하다네.",
+        "en": "[Doctor Whom]\nCome to the Happy Egg Festival whenever you can.",
+        "pt": "[Doutor Quem]\nVenha sempre que puder para o Festival das Mascotes.",
+        "es": "[Doctor Quién]\nVen siempre que puedas al Festival de las Mascotas."
+    },
+    "8G/EDA": {
+        "ko": "[카세]\n여러 가지 행사가 진행되고 있으니 여기저기 둘러보게나.\n<NAVI>[축제 위원]<INFO>yuno.gat,175,162,0,101,0</INFO></NAVI> 율라타 씨가 알 찾기 행사를 주최하고 있네..\n<NAVI>[축제 장식 플래너]<INFO>yuno.gat,165,153,0,101,0</INFO></NAVI> 루루판트 선생을 도와드려도 재미있을 걸세.",
+        "en": "[Doctor Whom]\nThere are several challenges.\n<NAVI>[Yulata]<INFO>yuno.gat,175,162,0,101,0</INFO></NAVI>: egg hunt.\n<NAVI>[Luluphant]<INFO>yuno.gat,165,153,0,101,0</INFO></NAVI>: clover collection.",
+        "pt": "[Doutor Quem]\nTem várias gincanas.\n<NAVI>[Yulata]<INFO>yuno.gat,175,162,0,101,0</INFO></NAVI>: caça ovos.\n<NAVI>[Lulufante]<INFO>yuno.gat,165,153,0,101,0</INFO></NAVI>: coleta trevos.",
+        "es": "[Doctor Quién]\nHay varios desafíos.\n<NAVI>[Yulata]<INFO>yuno.gat,175,162,0,101,0</INFO></NAVI>: caza de huevos.\n<NAVI>[Lulufante]<INFO>yuno.gat,165,153,0,101,0</INFO></NAVI>: recolección de tréboles."
+    },
+    "8W/EDA": {
+        "ko": "[카세]\n<NAVI>[질리언]<INFO>yuno.gat,142,163,0,101,0</INFO></NAVI> 씨는 초콜렛 알과 맛있는 쿠키 알을 만들고 계시지.\n대학에서 키우는 큐펫들과 산책하고 싶으시다면 <NAVI>[세이럼]<INFO>yuno.gat,150,155,0,101,0</INFO></NAVI> 군에게 물어보시게.",
+        "en": "[Doctor Whom]\n<NAVI>[Gillian]<INFO>yuno.gat,142,163,0,101,0</INFO></NAVI>: makes sweets.\n<NAVI>[Sarum]<INFO>yuno.gat,150,155,0,101,0</INFO></NAVI>: walks with Pets.",
+        "pt": "[Doutor Quem]\n<NAVI>[Gillian]<INFO>yuno.gat,142,163,0,101,0</INFO></NAVI>: faz doces.\n<NAVI>[Sarum]<INFO>yuno.gat,150,155,0,101,0</INFO></NAVI>: passeia com Mascotes.",
+        "es": "[Doctor Quién]\n<NAVI>[Gillian]<INFO>yuno.gat,142,163,0,101,0</INFO></NAVI>: hace dulces.\n<NAVI>[Sarum]<INFO>yuno.gat,150,155,0,101,0</INFO></NAVI>: pasea con Mascotas."
+    },
+    "8m/EDA": {
+        "ko": "[카세]\n축제 행사에 참여하시면 받을 수 있는 <ITEM>[클로버 티켓]<INFO>25294</INFO></ITEM>은 <NAVI>[행복의 큐펫 자판기]<INFO>yuno.gat,176,152,0,101,0</INFO></NAVI>에서 사용할 수 있지.\n행복한 선물이 많이 들어 있으니 가서 확인해 보시게.",
+        "en": "[Doctor Whom]\nYou earn <ITEM>[Clover Tickets]<INFO>25294</INFO></ITEM>. Exchange them at the <NAVI>[Festival Machine]<INFO>yuno.gat,176,152,0,101,0</INFO></NAVI>.",
+        "pt": "[Doutor Quem]\nVocê ganha <ITEM>[Bilhetes de Trevo]<INFO>25294</INFO></ITEM>. Troque-os na <NAVI>[Máquina do Festival]<INFO>yuno.gat,176,152,0,101,0</INFO></NAVI>.",
+        "es": "[Doctor Quién]\nGanas <ITEM>[Boletos de Trébol]<INFO>25294</INFO></ITEM>. Cámbialos en la <NAVI>[Máquina del Festival]<INFO>yuno.gat,176,152,0,101,0</INFO></NAVI>."
+    },
+    "82/EDA": {
+        "ko": "유노 방문자",
+        "en": "Joseph",
+        "pt": "Januário",
+        "es": "Pancracio"
+    },
+    "9G/EDA": {
+        "ko": "[정냥]\n오마냥! 떠 있는 섬이라니 너무 멋지네. 대학에 볼일이 있어서 왔는데, 주변을 돌아다니다 넋이 쏙 빠지겠다냐.",
+        "en": "[Joseph]\nI came to take care of some business at the Magic Academy and ended up coming across this beautiful Festival!",
+        "pt": "[Januário]\nVim cuidar de alguns negócios na Academia de Magia e acabei me deparando com esse belíssimo Festival!",
+        "es": "[Pancracio]\nVine a hacer algunos negocios a la Academia de Magia y terminé encontrándome con este hermoso Festival."
+    },
+    "9W/EDA": {
+        "ko": "쿠키 탐색자",
+        "en": "Brad",
+        "pt": "Wandycleysson",
+        "es": "Frumencio"
+    },
+    "9m/EDA": {
+        "ko": "[키쿠]\n행운의 알을 찾아서 깨트리면 맛있는 간식이 나온다구요!",
+        "en": "[Brad]\nMy sister got into Veterinary Medicine and is participating in this Academy festival!",
+        "pt": "[Wandycleysson]\nMinha irmã passou em Veterinária e tá participando desse festival da Academia!",
+        "es": "[Frumencio]\nMi hermana entró en Veterinaria y está participando en este festival de la Academia."
+    },
+    "92/EDA": {
+        "ko": "[키쿠]\n가끔 쿠키보다 더 좋은 선물도 나온대요! 내가 다 찾아서 가져야지!",
+        "en": "[Brad]\nAnd I'm just here trying the Chocolate Eggs! Yam yam!",
+        "pt": "[Wandycleysson]\nE eu estou aqui só experimentando os Ovos de Chocolate! Yam yam!",
+        "es": "[Frumencio]\nY yo solo estoy aquí probando los Huevos de Chocolate. ¡Ñam ñam!"
+    },
+    "+G/EDA": {
+        "ko": "[큐펫 루나틱]\n마프가 해 주는 재미있는 이야기... 두근두근리루!",
+        "en": "[Lunatic]\nWhat a hungry one... I wanted a little carrot!",
+        "pt": "[Lunático]\nQue fominha... queria uma cenourinha!",
+        "es": "[Lunático]\nQué hambriento... ¡quería una zanahoria!"
+    },
+    "+W/EDA": {
+        "ko": "[큐펫 루나틱]\n나중에 루나틱이 주인공인 이야기를 만들어서 마프에게 들려줄 거야... 루!",
+        "en": "[Lunatic]\nOops... it rhymed!",
+        "pt": "[Lunático]\nIh... rimou!",
+        "es": "[Lunático]\nUy..."
+    },
+    "+m/EDA": {
+        "ko": "에드마프",
+        "en": "Edna",
+        "pt": "Edna",
+        "es": "Edna"
+    },
+    "+2/EDA": {
+        "ko": "[에드마프]\n큐펫들도 좋아하는 것, 싫어하는 것, 사랑하는 것, 미워하는 것... 다 가지고 있더라고요.",
+        "en": "[Edna]\nIt's really nice to take care of little pets that were abandoned on the streets.",
+        "pt": "[Edna]\nMuito legal cuidar de bichinhos de estimação que foram abandonados nas ruas.",
+        "es": "[Edna]\nMuy lindo cuidar a los animalitos que fueron abandonados en las calles."
+    },
+    "/G/EDA": {
+        "ko": "[에드마프]\n루나틱처럼 조그만 아이들도, 사람보다 거대한 데다 돌이며 나무처럼 생긴 아이들도 똑같아요. 신기하고 멋진 일이죠.",
+        "en": "[Edna]\nBut it's very sad that there are horrible people who do that. I'm going to put an Asura in the middle of their butts.",
+        "pt": "[Edna]\nMas é muito triste que existam pessoas horríveis que fazem isso. Vou meter um Asura no meio do bumbum deles.",
+        "es": "[Edna]\nPero es muy triste que existan personas horribles que hacen eso. Les voy a meter un Asura en medio del trasero."
+    },
+    "/W/EDA": {
+        "ko": "[큐펫 데비루치]\n큐펫 복지는 아주 중요한 문제야. 슈발츠발드의 큐펫 전문가에 따르면 굶주리다 도주하는 큐펫의 수는 이미 무시할 수 없고 심각한 사회 문제로 대두되어...",
+        "en": "[Deviruchi]\nThe number of people who forget to feed their little pets and they run away has grown in recent years...",
+        "pt": "[Deviruchi]\nO número de pessoas que esquecem de alimentar seus bichinhos e eles fogem cresceu nos últimos anos...",
+        "es": "[Deviruchi]\nEl número de personas que se olvidan de alimentar a sus mascotas y ellas huyen ha crecido en los últimos años..."
+    },
+    "/m/EDA": {
+        "ko": "[큐펫 데비루치]\n중얼중얼... 어쩌구저쩌구... 에잇, 안 듣고 있지? 요 귀여운 내 주인 같으니.",
+        "en": "[Deviruchi]\nAt least that's what the new research presented by the Federal University of Alberta, the FAU, says.",
+        "pt": "[Deviruchi]\nPelo menos é o que diz a nova pesquisa apresentada pela Universidade Federal de Alberta, a UFA.",
+        "es": "[Deviruchi]\nAl menos eso dice la nueva investigación presentada por la Universidad Federal de Alberta, la UFA."
+    },
+    "/2/EDA": {
+        "ko": "큐펫 주인",
+        "en": "Byong",
+        "pt": "Byong",
+        "es": "Byong"
+    },
+    "AHDEDA": {
+        "ko": "[레하]\n응? 응? 어... 응? 아, 미안. 잠깐 졸았어. 밥 먹을래?",
+        "en": "[Byong]\nHuh? Ah... sorry, I fell asleep. Do you want a snack?",
+        "pt": "[Byong]\nHum? Ah... desculpe, eu acabei dormindo. Você quer algum petisco?",
+        "es": "[Byong]\n¿Hmm? Ah... disculpa, me quedé dormido. ¿Quieres algún premio?"
+    },
+    "AXDEDA": {
+        "ko": "헤로이트",
+        "en": "Helen",
+        "pt": "Heloísa",
+        "es": "Helen"
+    },
+    "AnDEDA": {
+        "ko": "[헤로이트]\n산책 행사에 참가중이시라면 산책로를 따라 두 번째 <NAVI>[장소]<INFO>yuno,343,257,0,101,0</INFO></NAVI>로 가시면 돼요.",
+        "en": "[Helen]\nIf you're on the walking challenge, proceed to the next <NAVI>[stop]<INFO>yuno,343,257,0,101,0</INFO></NAVI>.",
+        "pt": "[Heloísa]\nSe você estiver na gincana do passeio, siga até a próxima <NAVI>[parada]<INFO>yuno,343,257,0,101,0</INFO></NAVI>.",
+        "es": "[Helen]\nSi estás en la competencia del paseo, sigue hasta la próxima <NAVI>[parada]<INFO>yuno,343,257,0,101,0</INFO></NAVI>."
+    },
+    "A3DEDA": {
+        "ko": "[헤로이트]\n산책 행사에 참가하지 않으셨다면, 유노 광장에서 열리는 알 축제 행사에 참가해 보세요!",
+        "en": "[Helen]\nIf you're not on any challenge, you should participate!",
+        "pt": "[Heloísa]\nSe não estiver em gincana alguma, você deveria participar!",
+        "es": "[Helen]\nSi no estás en ningun concurso, ¡deberías participar!"
+    },
+    "BHDEDA": {
+        "ko": "자낫",
+        "en": "Jane",
+        "pt": "Janaína",
+        "es": "Dolores"
+    },
+    "BXDEDA": {
+        "ko": "[자낫]\n산책 행사에 참가중이시라면 세 번째 <NAVI>[장소]<INFO>yuno,282,102,0,101,0</INFO></NAVI>는 길을 따라 가시면 있는 작은 동상 앞입니다.",
+        "en": "[Jane]\nIf you're on the walking challenge, the last stop on the trail is <NAVI>[right over there]<INFO>yuno,282,102,0,101,0</INFO></NAVI>.",
+        "pt": "[Janaína]\nSe você estiver na gincana do passeio, A última parada da trilha fica <NAVI>[bem ali]<INFO>yuno,282,102,0,101,0</INFO></NAVI>",
+        "es": "[Dolores]\nSi estás en el concurso del paseo, la última parada de la ruta está <NAVI>[justo ahí]<INFO>yuno,282,102,0,101,0</INFO></NAVI>."
+    },
+    "BnDEDA": {
+        "ko": "[자낫]\n산책 행사에 참가하지 않으셨다면, 유노 광장에서 열리는 알 축제 행사에 참가해 보세요!",
+        "en": "[Jane]\nIf you're not on any challenge, you should participate!",
+        "pt": "[Janaína]\nSe não estiver em gincana alguma, você deveria participar!",
+        "es": "[Dolores]\nSi no estás en ningun concurso, ¡deberías participar!"
+    },
+    "B3DEDA": {
+        "ko": "니니스",
+        "en": "Nino",
+        "pt": "Nino",
+        "es": "Nino"
+    },
+    "CHDEDA": {
+        "ko": "[니니스]\n산책 행사에 참가중이시라면 이제 알 축제 <NAVI>[광장]<INFO>yuno,150,155,0,101,0</INFO></NAVI>으로 돌아가기로 해요.",
+        "en": "[Nino]\nIf you're on the walking challenge, proceed to the <NAVI>[plaza]<INFO>yuno,150,155,0,101,0</INFO></NAVI>.",
+        "pt": "[Nino]\nSe você estiver na gincana do passeio, siga até a <NAVI>[praça]<INFO>yuno,150,155,0,101,0</INFO></NAVI>.",
+        "es": "[Nino]\nSi estás en el concurso del paseo, sigue hasta la <NAVI>[plaza]<INFO>yuno,150,155,0,101,0</INFO></NAVI>."
+    },
+    "CXDEDA": {
+        "ko": "[니니스]\n산책 행사에 참가하지 않으셨다면, 유노 광장에서 열리는 알 축제 행사에 참가해 보세요!",
+        "en": "[Nino]\nIf you're not on any challenge, you should participate!",
+        "pt": "[Nino]\nSe não estiver em gincana alguma, você deveria participar!",
+        "es": "[Nino]\nSi no estás en ningun concurso, ¡deberías participar!"
+    },
+    "CnDEDA": {
+        "ko": "베티나르",
+        "en": "Audrey",
+        "pt": "Betina",
+        "es": "Jazmín"
+    },
+    "C3DEDA": {
+        "ko": "[베티나르]\n이번 판까지 구우면 아이싱 재료 다 떨어져요~ 새로 준비 부탁할게!!",
+        "en": "[Audrey]\nI really want to eat chocolate!!",
+        "pt": "[Betina]\nQue vontade de comer chocolate!!",
+        "es": "[Jazmín]\n¡Qué ganas de comer chocolate!!"
+    },
+    "DHDEDA": {
+        "ko": "[베티나르]\n구워진 건 저 쪽에 마법 부여할 수 있도록 쌓아 두고, 새로 불에 넣어야 하는 건 이 쪽에 줘~!",
+        "en": "[Audrey]\nWhen will the professor finish the eggs?~",
+        "pt": "[Betina]\nQuando será que a professora vai terminar os ovos?~",
+        "es": "[Jazmín]\n¿Cuándo terminará la profesora los huevos?~"
+    },
+    "DXDEDA": {
+        "ko": "모닥불",
+        "en": "Campfire",
+        "pt": "Fogueira",
+        "es": "Hoguera"
+    },
+    "DnDEDA": {
+        "ko": "타닥 타닥",
+        "en": "Psssssss",
+        "pt": "Psssssss",
+        "es": "Psssssss"
+    },
+    "D3DEDA": {
+        "ko": "위스타드",
+        "en": "Wistard",
+        "pt": "Wistard",
+        "es": "Wistard"
+    },
+    "EHDEDA": {
+        "ko": "[위스타드]\n......Zzz... zz...",
+        "en": "[Wistard]\n......Zzz... zz...",
+        "pt": "[Wistard]\n......Zzz... zz...",
+        "es": "[Wistard]\n......Zzz... zz..."
+    },
+    "EXDEDA": {
+        "ko": "[위스타드]\n궁극의 마법! 맛있는 쿠키 알......!!!!!!",
+        "en": "[Wistard]\nTime to use the supreme magic......!!!!!!",
+        "pt": "[Wistard]\nHora de usar a magia suprema......!!!!!!",
+        "es": "[Wistard]\n¡¡Hora de usar la magia suprema......!!!!!!"
+    },
+    "EnDEDA": {
+        "ko": "상자",
+        "en": "Crusher",
+        "pt": "Trituradora",
+        "es": "Trituradora"
+    },
+    "E3DEDA": {
+        "ko": "달그락... 달그락... 부스럭부스럭... 삐약삐약",
+        "en": "Vroom... vrooom... *crunching*...",
+        "pt": "Vrom... vrooom... *triturando*...",
+        "es": "Vrom... vrooom... *triturando*..."
+    },
+    "FHDEDA": {
+        "ko": "한예성",
+        "en": "Anette",
+        "pt": "Lorena",
+        "es": "Lorena"
+    },
+    "FXDEDA": {
+        "ko": "행복한 알 3판 제작 완료했어요! 각지에 풀어놓기만 하면 돼요~",
+        "en": "Neither blonde, nor brunette, just Anette~",
+        "pt": "Nem loira, nem morena, apenas Lorena~",
+        "es": "Ni rubia, ni morena, solo Lorena~"
+    },
+    "FnDEDA": {
+        "ko": "리쥬",
+        "en": "Valentin",
+        "pt": "Valentinenzo",
+        "es": "Saturnino"
+    },
+    "F3DEDA": {
+        "ko": "아하하! 포링 촉촉해서 너무 좋아♡",
+        "en": "Haha! Porings are so cute <3",
+        "pt": "Haha! Porings são tão fofinhos <3",
+        "es": "¡Jaja! Los Porings son tan lindos <3"
+    },
+    "GHDEDA": {
+        "ko": "다루리",
+        "en": "Dudu",
+        "pt": "Dudu",
+        "es": "Dudu"
+    },
+    "GXDEDA": {
+        "ko": "우와, 같이 가! 헥헥, 이게 무슨 운동이람.",
+        "en": "Wow! What kind of exercise is that?",
+        "pt": "Nossa! Que tipo de exercício é esse?",
+        "es": "¡Guau! ¿Qué tipo de ejercicio es ese?"
+    },
+    "GnDEDA": {
+        "ko": "산책 너무 좋아! 모험가님, 빨리 와!",
+        "en": "Woof! I love walking!",
+        "pt": "Au! Amo caminhar!",
+        "es": "¡Guau! ¡Me encanta caminar!"
+    },
+    "G3DEDA": {
+        "ko": "렘즈",
+        "en": "Serena",
+        "pt": "Wanderléia",
+        "es": "Delfina"
+    },
+    "HHDEDA": {
+        "ko": "헤헤, 기분 좋아? 나도 좋아~",
+        "en": "Aren't you feeling healthy today? Hehehe~",
+        "pt": "Você não está se sentindo saudável hoje? Hehehe~",
+        "es": "¿No te sientes saludable hoy? Jejeje~"
+    },
+    "HXDEDA": {
+        "ko": "돌 깔린 바닥이 맨질맨질해~ 기분 좋아♡",
+        "en": "Want it easy? Have a seat on me! <3",
+        "pt": "Quer moleza? Senta em mim! <3",
+        "es": "¿Quieres facilidades? ¡Siéntate en mí! <3"
+    },
+    "HnDEDA": {
+        "ko": "토브나",
+        "en": "Thomas",
+        "pt": "Seu Luís",
+        "es": "Joaquín"
+    },
+    "H3DEDA": {
+        "ko": "아니, 네가 산책을 관장하면 안돼. 어서 이리 와!",
+        "en": "I never thought walking would make me feel so good!",
+        "pt": "Nunca pensei que andar fosse me fazer sentir tão bem!",
+        "es": "¡Nunca pensé que caminar me haría sentir tan bien!"
+    },
+    "IHDEDA": {
+        "ko": "데비군의 산책은 데비군이 관장하지.",
+        "en": "My little legs don't go very far.",
+        "pt": "Minhas perninhas não vão muito longe.",
+        "es": "Mis piernitas no llegan muy lejos."
+    },
+    "IXDEDA": {
+        "ko": "마유린",
+        "en": "Lady Trebine",
+        "pt": "Dona Balbina",
+        "es": "Fiamma"
+    },
+    "InDEDA": {
+        "ko": "루리~ 루루리~ 루리루~",
+        "en": "La~ Lala~ Lala~",
+        "pt": "La~ Lala~ Lala~",
+        "es": "La~ Lala~ Lala~"
+    },
+    "I3DEDA": {
+        "ko": "루리루~ 루리~ 루리루~",
+        "en": "Ho~ Ho~ Ho~",
+        "pt": "Tchururu~ Tchuru~ Tchu~",
+        "es": "Tchururu~ Tchuru~ Tchu~"
+    }
+}

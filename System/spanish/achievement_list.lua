@@ -7339,6 +7339,25 @@ achievement_tbl = {
 		},
 		reward = {},
 		score = 50
+	},
+	[129021] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 5,
+		minor = 0,
+		title = "Modo Desafío de Glast Heim",
+		content = {
+			summary = "Completar Modo Desafío de Glast Heim",
+			details = "Completar la memoria hasta el final"
+		},
+		resource = {
+			[1] = {
+				text = "Número de desafíos completados con éxito",
+				count = 100
+			}
+		},
+		reward = {title = 1045},
+		score = 10
 	}
 }
 function main()

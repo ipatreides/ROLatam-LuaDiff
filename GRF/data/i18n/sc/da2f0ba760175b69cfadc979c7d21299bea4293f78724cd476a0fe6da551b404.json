@@ -2290,6 +2290,8 @@
         "es": "Grrrr…\nSe restablecieron todos los monstruos en el lugar de cambio de clase a Monje.\nEl temporizador está activado."
     },
     "aoSuBg": {
-        "en": "[Sensei Moohae]\nI sense a fighting spirit, do you wish to become a monk?"
+        "en": "[Sensei Moohae]\nI sense a fighting spirit, do you wish to become a monk?",
+        "pt": "[Monge Muhae]\nOlá, jovem, deseja se tornar um de nós?",
+        "es": "[Senséi Moohae]\nPercibo un espíritu de lucha en ti. ¿Quieres ser parte de los Monjes?"
     }
 }

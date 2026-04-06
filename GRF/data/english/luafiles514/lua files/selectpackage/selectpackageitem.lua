@@ -615,6 +615,61 @@ packageitemboxName = {
 		"[Costume] Farewell, G-Force!"
 	},
 	{
+		106920,
+		0,
+		"[Costume] Dumpling Twin Tail (Blue)"
+	},
+	{
+		106920,
+		1,
+		"[Costume] Dumpling Twin Tail (Red)"
+	},
+	{
+		106920,
+		2,
+		"[Costume] Dumpling Twin Tail (Yellow)"
+	},
+	{
+		106920,
+		3,
+		"[Costume] Dumpling Twin Tail (Green)"
+	},
+	{
+		106920,
+		4,
+		"[Costume] Dumpling Twin Tail (Black)"
+	},
+	{
+		106920,
+		5,
+		"[Costume] Dumpling Twin Tail (White)"
+	},
+	{
+		106920,
+		6,
+		"[Costume] Dumpling Twin Tail (Crimson)"
+	},
+	{
+		106920,
+		7,
+		"[Costume] Dumpling Twin Tail (Purple)"
+	},
+	{
+		106930,
+		0,
+		"Draconic Wing"
+	},
+	{
+		106930,
+		1,
+		"Angelic Wing"
+	},
+	{
+		106930,
+		2,
+		"Safety Goggles"
+	},
+	{
 		0,
 		0,
 		"0"
@@ -2227,6 +2282,105 @@ packageitemsetbox = {
 		106302,
 		1,
 		420729,
+		1,
+		0,
+		0,
+		0
+	},
+	{
+		106920,
+		0,
+		400205,
+		1,
+		0,
+		0,
+		0
+	},
+	{
+		106920,
+		1,
+		400206,
+		1,
+		0,
+		0,
+		0
+	},
+	{
+		106920,
+		2,
+		400207,
+		1,
+		0,
+		0,
+		0
+	},
+	{
+		106920,
+		3,
+		400208,
+		1,
+		0,
+		0,
+		0
+	},
+	{
+		106920,
+		4,
+		400209,
+		1,
+		0,
+		0,
+		0
+	},
+	{
+		106920,
+		5,
+		400210,
+		1,
+		0,
+		0,
+		0
+	},
+	{
+		106920,
+		6,
+		400211,
+		1,
+		0,
+		0,
+		0
+	},
+	{
+		106920,
+		7,
+		400212,
+		1,
+		0,
+		0,
+		0
+	},
+	{
+		106930,
+		0,
+		410612,
+		1,
+		0,
+		0,
+		0
+	},
+	{
+		106930,
+		1,
+		410613,
+		1,
+		0,
+		0,
+		0
+	},
+	{
+		106930,
+		2,
+		410614,
 		1,
 		0,
 		0,

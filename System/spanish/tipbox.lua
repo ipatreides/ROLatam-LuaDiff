@@ -1562,6 +1562,1104 @@ A religious kingdom that worships the goddess Freya and has achieved unity of ch
 		Page = {
 			"Derrota a los monstruos en el Túnel Submarino e informa al guardia.\n\t\t\tCaza 100 monstruos en la Ilusión Submarina para demostrar tu fuerza y recibe tu recompensa.\n\t\n\t\t\t<NAVI>[Guardia del Templo]<INFO>iz_d04_i,127,224,0,101,0</INFO></NAVI>\n\t\t\t\n\t\t\t^663399» Nivel 180 o superior^000000\n\n\t<TIPBOX>» Línea de Misiones Principales<INFO>9093</INFO></TIPBOX>\n\t<TIPBOX>» Guía para Principiantes<INFO>1000</INFO></TIPBOX>"
 		}
+	},
+	[8090] = {
+		Title = "Informe de la prueba",
+		Search = 0,
+		Image = "유저인터페이스\\collection\\Tablet_IL",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Está previsto asegurar nuevos sujetos de prueba para la modificación de Núcleo de batalla. Se suspenderán por completo los experimentos de implante en civiles que se venían realizando hasta ahora. \n\t\t\t\n\t\t\tEstá previsto asegurar a los sujetos en un laboratorio disfrazado de sala de espera para audiencias presidenciales, usando gas somnífero para eliminar su consciencia antes de proceder. Debe tenerse especial cuidado de ajustar la cantidad de gas somnífero y otros sedantes para que no afecten al experimento. \n\n\t\t\tLa potencia del prototipo de Núcleo de batalla se ha ajustado a un nivel más alto que el anterior para adaptarse a los nuevos sujetos de prueba, por lo que es necesario verificarlo durante el implante."
+		}
+	},
+	[8091] = {
+		Title = "Informe de la prueba",
+		Search = 0,
+		Image = "유저인터페이스\\collection\\Tablet_IL",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"El objetivo de la fase 1 es observar la evolución tras el implante del núcleo y confirmar la supervivencia del sujeto. Dado que se ha aumentado la potencia de Núcleo de batalla, será necesario hacer ajustes detallados según el sujeto durante el implante. \n\t\t\t\n\t\t\tUna vez lograda la supervivencia durante el tiempo objetivo, se procederá de inmediato a la fase 2."
+		}
+	},
+	[8092] = {
+		Title = "Informe de la prueba",
+		Search = 0,
+		Image = "유저인터페이스\\collection\\Tablet_IL",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"El objetivo de la fase 2 del experimento es llevar el potencial de combate de un ser vivo a su límite para observar la evolución y obtener datos significativos. \n\t\t\t\n\t\t\tPara la fase 2, se proporcionará al sujeto un entorno estimulante que le permita extraer y liberar el poder de Núcleo de batalla, con el fin de medir sus límites. \n\t\t\t\n\t\t\tDado que cada profesión requiere un entorno distinto, debe verificarse el perfil del sujeto y realizarse el experimento por separado en cada laboratorio. Tras finalizar el experimento, se ruega presentar el informe lo antes posible. \n\t\t\t\n\t\t\tDirector del laboratorio Wolfchev"
+		}
+	},
+	[8093] = {
+		Title = "Informe de la prueba",
+		Search = 0,
+		Image = "유저인터페이스\\collection\\Tablet_IL",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Incluso cuando el implante tiene éxito, se producen sujetos que tienen dificultades para usar el poder de Núcleo de batalla. \n\t\t\t\n\t\t\tSe ha confirmado que los sujetos que presentan reacción de sangre negra (nota: fenómeno de vómito de sangre negra. Si empeora, la sangre negra fluye también por los ojos, los oídos y heridas previas o nuevas) son irrecuperables. \n\t\t\t\n\t\t\tTras la aparición de la reacción de sangre negra, la muerte sobreviene como mínimo de inmediato y, en la reacción máxima, en un plazo de 5 horas, pero se ha descubierto un fenómeno singular que ocurre tras la muerte, al que denominamos conversión en espíritu residual\"…\""
+		}
+	},
+	[8094] = {
+		Title = "Informe de la prueba",
+		Search = 0,
+		Image = "유저인터페이스\\collection\\Tablet_IL",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"La aparición de espíritus residuales se produce en un máximo de 2 días tras la muerte. El primer espíritu residual conserva una consciencia relativamente clara, pero presenta la característica de poseer ciegamente un único objetivo. \n\t\t\t\n\t\t\tSe ha planteado la hipótesis de que dicho objetivo está relacionado con el contenido de la situación estimulante experimentada antes de la muerte, pero serán necesarios experimentos adicionales. \n\t\t\t\n\t\t\tEn el caso del primer espíritu residual, se han encontrado casos en los que resulta difícil distinguirlo de su apariencia en vida, y este fenómeno se manifiesta con mayor claridad cuando el sujeto posee una fuerte consciencia de propósito."
+		}
+	},
+	[8095] = {
+		Title = "Informe de la prueba",
+		Search = 0,
+		Image = "유저인터페이스\\collection\\Tablet_IL",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"En el caso del sujeto Egnigem Cenia, denominado fracaso\" por el doctor Wolfchev, director del laboratorio, a medida que avanzaba la conversión en espíritu residual, su antigua consciencia de propósito fue transformándose simplemente en ansia de matar.\n\n\tNo obstante, se produce el fenómeno de que, aplicando cierto lavado de cerebro, dicha ansia de matar puede redirigirse hacia un objetivo concreto. Para la medición detallada de este fenómeno, el doctor Wolfchev se encarga personalmente de su control.\""
+		}
+	},
+	[8096] = {
+		Title = "Informe de la prueba",
+		Search = 0,
+		Image = "유저인터페이스\\collection\\Tablet_IL",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Salvo en casos excepcionales, parece que cuanto más avanza la conversión en espíritu residual y mayor es el número en que se divide, más pierde su objetivo inicial y más se obsesiona simplemente con el asesinato y la destrucción. \n\t\t\t\n\t\t\tDado que es raro encontrar una forma de volver a controlar a un espíritu residual fuera de control, durante el avance de la conversión es necesaria una observación y aislamiento especialmente cuidadosos."
+		}
+	},
+	[8097] = {
+		Title = "Informe de la prueba",
+		Search = 0,
+		Image = "유저인터페이스\\collection\\Tablet_IL",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"¿Es posible implantar en un ser humano un corazón similar a Ymir modificado, es decir, Núcleo de batalla, y convertirlo en un individuo más fuerte que los actuales? La respuesta a esa pregunta ni siquiera necesita plantearse. Es posible. \n\t\t\t\n\t\t\tSin embargo, solo falta una cosa. La voluntad de seguir viviendo. Ira ha teñido a muchos hasta consumirlos. ¡Se necesitan individuos con una voluntad lo bastante fuerte como para no autodestruirse! ¡Más, aún más fuerza mental!"
+		}
+	},
+	[8098] = {
+		Title = "Informe de la prueba",
+		Search = 0,
+		Image = "유저인터페이스\\collection\\Tablet_IL",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Una expedición no oficial que partió en secreto desde el Reino de Rune-Midgarts. Aventureros de élite cuya muerte no dejaría constancia alguna. \n\t\t\t\n\t\t\t¿No son acaso los sujetos de prueba perfectos preparados para mí? Exigió cierto esfuerzo, pero con el poder de Rekenber, uniendo fuerzas con cierta figura de Rune-Midgarts, incluso fue posible desviarlos sin que el propio presidente lo supiera. \n\t\t\t\n\t\t\tBien, el escenario para mis adorables niños es perfecto. Ahora solo queda rendir el mayor de los honores al desenlace que obtendrán mediante el mejor de los experimentos."
+		}
+	},
+	[8099] = {
+		Title = "Informe de la prueba",
+		Search = 0,
+		Image = "유저인터페이스\\collection\\Tablet_IL",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Ah... me muero de sueño. ¿Qué demonios es esto? ¿Cuántos días llevamos ya? Quiero irme a casa. Últimamente, cuando vuelvo a casa después de tanto tiempo, mi gato ni siquiera reconoce mi cara y me bufa. \n\t\t\t\n\t\t\t¿Qué es eso de promover una vida con tardes libres mientras recolectan registros biológicos y además cambian utensilios perfectamente normales por estas porquerías? De verdad, ojalá se arruinara todo, la empresa y todo lo demás… ¿qué es esto? Este no es mi diario… eh… ¿por qué no se borra? &#%&@… \n\t\t\t\n\t\t\t^FF0000Dicho investigador ha sido descartado. Se conserva el texto original para dejar constancia del motivo del descarte.^000000"
+		}
+	},
+	[8100] = {
+		Title = "Informe de la prueba",
+		Search = 0,
+		Image = "유저인터페이스\\collection\\Tablet_IL",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"El objetivo de la fase 1 es sustituir el corazón por el núcleo prototipo, observar la evolución y, una vez lograda la supervivencia durante el tiempo objetivo, proceder de inmediato a la fase 2. \n\t\t\t\n\t\t\tEl objetivo de la fase 2 del experimento es maximizar el potencial de combate de un ser vivo, observar la evolución y obtener datos significativos. \n\t\t\t\n\t\t\tPara la fase 2, se proporcionará al sujeto un entorno estimulante que le permita extraer y liberar el poder de Núcleo de batalla, y se medirán sus límites… \n\t\t\t\n\t\t\tAunque es necesario tener especial cuidado de que no muera por un estímulo excesivo, la tasa de mortalidad actual es del 100%; como alternativa, la voluntad de los espíritus residuales…"
+		}
+	},
+	[10089] = {
+		Title = "Lista de mascotas",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Esta es una lista de mascotas que se pueden obtener mediante objetos de domesticación, cupones o eventos.\n\n\t\t\t•Lista de mascotas\n\t\t\t<TIPBOX>mascota Poringcito<INFO>10090</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Poring<INFO>10091</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Mastering<INFO>10092</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Angeling<INFO>10093</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Gotas<INFO>10094</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Eggring<INFO>10095</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Poporing<INFO>10096</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Cría de Lobo de desierto<INFO>10097</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Lobo del desierto<INFO>10098</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Orco<INFO>10099</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Orc Superior<INFO>10100</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Gólem de llama<INFO>10101</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Petite<INFO>10102</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Deleter Terrestre<INFO>10103</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Terror nocturno rígido<INFO>10104</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Baphomet Jr.<INFO>10105</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Baphomet Jr. caótico<INFO>10106</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Peco Peco<INFO>10107</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Gran Peco<INFO>10108</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Osito de Peluche<INFO>10109</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Osito de peluche abandonado<INFO>10110</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Aliot<INFO>10111</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Alicel<INFO>10112</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Espora<INFO>10113</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Espora Venenosa<INFO>10114</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Isis<INFO>10115</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Pequeña Isis<INFO>10116</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Hombre Errante<INFO>10117</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Vagabundo contaminado<INFO>10118</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Munak<INFO>10119</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Bongun<INFO>10120</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Yao Jun<INFO>10121</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Sohee<INFO>10122</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Ninfa malvada<INFO>10123</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Nueve colas<INFO>10124</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Gato de nueve colas<INFO>10125</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Incubus<INFO>10126</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Súcubo<INFO>10127</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Rockero<INFO>10128</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Metalero<INFO>10129</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Momia<INFO>10130</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Momia antigua<INFO>10131</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Lunático<INFO>10132</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Lunática de hoja<INFO>10133</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Picky<INFO>10134</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Chonchon<INFO>10135</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Chonchon de Acero<INFO>10136</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Mosca Cazadora<INFO>10137</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Cerdito Salvaje<INFO>10138</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Salvaje<INFO>10139</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Smokie<INFO>10140</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Yoyo<INFO>10141</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Choco<INFO>10142</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Dokebi<INFO>10143</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Am Mut<INFO>10144</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Deviruchi<INFO>10145</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Diabólico<INFO>10146</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Alice<INFO>10147</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Aliza<INFO>10148</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Doncella verde<INFO>10149</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Gato hoja<INFO>10150</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Loli Ruri<INFO>10151</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Shinobi<INFO>10152</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Muñeca Miyabi<INFO>10153</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Marioneta<INFO>10154</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Susurro<INFO>10155</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Lanzapiedras<INFO>10157</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Diablillo<INFO>10158</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Tikbalang<INFO>10159</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Gremlins<INFO>10160</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Hodremlin<INFO>10161</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Sacerdote oscuro<INFO>10162</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Sauce Infinito<INFO>10163</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Roween<INFO>10164</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Zealotus<INFO>10165</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Little Manager β<INFO>10166</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Maestro alfa pequeño<INFO>10167</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Drops dulces<INFO>10168</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Duende de Navidad<INFO>10169</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Líder Goblin<INFO>10170</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Mao Guai<INFO>10171</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Conejo de nieve<INFO>10172</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Unicornio azul<INFO>10173</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Huevo de pastel de arroz duro<INFO>10174</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Gato esquelético<INFO>10175</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Skelion<INFO>10176</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Patito<INFO>10177</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Gólem<INFO>10178</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Bacsojin<INFO>10179</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Luz de Luna<INFO>10180</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Phreeoni<INFO>10181</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Héroe Orc<INFO>10182</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Gloom Bajo la Noche<INFO>10183</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Kiel-D-01<INFO>10184</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Dullahan<INFO>10185</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Terror del Pesadilla<INFO>10186</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Baphomet<INFO>10187</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Familiar<INFO>10188</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Ilusión oscura<INFO>10189</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Loli Ruri de la Luna Azul<INFO>10190</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Rosa silvestre<INFO>10191</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Caballero Blanco Mutante<INFO>10192</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Caballero del Abismo<INFO>10193</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Caballero Blanco<INFO>10194</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Eddga<INFO>10195</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Medusa<INFO>10196</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Copo<INFO>10197</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Vientohielo Gris<INFO>10198</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Vientohielo<INFO>10199</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Señor Oscuro<INFO>10200</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10090] = {
+		Title = "mascota Poringcito#Manzana verde#Jugo de manzana",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9062]mascota Poringcito\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[12846]\n\t\t\t\n\t\t\t• Comida\n\t\t\t^i[531]\n\t\t\t\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\t\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10091] = {
+		Title = "mascota Poring#Manzana inmadura#Jugo de manzana",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9001]mascota Poring\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[619]\n\t\t\t\n\t\t\t• Comida\n\t\t\t^i[531]\n\n\t\t\t• Accesorio\n\t\t\t^i[10013]\n\t\t\t\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>▷mascota Mastering<INFO>10092</INFO></TIPBOX>\n\t\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10092] = {
+		Title = "mascota Mastering#Comida para mascotas#Manzana inmadura#Hoja de Yggdrasil",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9069]mascota Mastering\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>▷mascota Poring<INFO>10091</INFO></TIPBOX> Evolución\n\t\t\t▷Materiales de evolución:\n\t\t\t^i[619]x3, ^i[610]x10\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>▷Angeling<INFO>10093</INFO></TIPBOX>\n\t\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10093] = {
+		Title = "mascota Angeling#Comida para mascotas#Manzana inmadura#Anillo del alma",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9088]mascota Angeling\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>▷mascota Mastering<INFO>10092</INFO></TIPBOX> Evolución\n\t\t\t▷Materiales de evolución:\n\t\t\t^i[2282]x1, ^i[509]x50,\n\t\t\t^i[503]x20, ^i[909]x200\n\t\t\t\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\t\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10094] = {
+		Title = "mascota Gotas#Hierba Amarilla#Zumo de naranja",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9002]mascota Gotas\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[620]\n\n\t\t\t• Comida\n\t\t\t^i[508]\n\n\t\t\t• Accesorio\n\t\t\t^i[10013]\n\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>▷mascota Eggring<INFO>10095</INFO></TIPBOX>\n\t\t\t<TIPBOX>▷mascota Drops dulces<INFO>10168</INFO></TIPBOX>\n\t\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10095] = {
+		Title = "mascota Eggring#Comida para mascotas#Trozo de cáscara de huevo#Sartén vieja",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9092]mascota Eggring\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>▷mascota Gotas<INFO>10094</INFO></TIPBOX> Evolución\n\t\t\t▷Materiales de evolución:\n\t\t\t^i[7032]x20, ^i[7031]x10,\n\t\t\t^i[531]x3, ^i[4659]x1\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\t\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10096] = {
+		Title = "mascota Poporing#Hierba verde#Hierba amarga",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9003]mascota Poporing\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[621]\n\n\t\t\t• Comida\n\t\t\t^i[511]\n\n\t\t\t• Accesorio\n\t\t\t^i[10013]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\t\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10097] = {
+		Title = "mascota Cría de Lobo de desierto#Comida para mascotas#Hueso seco",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9010]mascota Cría de Lobo de desierto\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[628]\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t^i[10003]\n\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>▷mascota Lobo del desierto<INFO>10098</INFO></TIPBOX>\n\t\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10098] = {
+		Title = "mascota Lobo del desierto#Comida para mascotas#Hueso seco",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9129]mascota Lobo del desierto\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>▷mascota Cría de Lobo de desierto<INFO>10097</INFO></TIPBOX> Evolución\n\t\t\t▷Materiales de evolución:\n\t\t\t^i[628]x3, ^i[7030]x300,\n\t\t\t^i[919]x20, ^i[4082]x1\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\t\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10099] = {
+		Title = "mascota Orco#Comida para mascotas#Trofeo orco",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9017]mascota Orco\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[635]\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t^i[10009]\n\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>▷Mascota Orc Superior<INFO>10100</INFO></TIPBOX>\n\t\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10100] = {
+		Title = "Mascota Orc Superior#Comida para mascotas#Trofeo orco",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9087]Mascota Orc Superior\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>▷mascota Orco<INFO>10099</INFO></TIPBOX> Evolución\n\t\t\t▷Materiales de evolución:\n\t\t\t^i[635]x3, ^i[1124]x1,\n\t\t\t^i[931]x500, ^i[2267]x1,\n\t\t\t^i[4066]x1\n\t\t\t\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>▷mascota Héroe Orc<INFO>10182</INFO></TIPBOX>\n\t\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10101] = {
+		Title = "mascota Gólem de llama#Comida para mascotas#Corazón de Piedra#Litografía mágica",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9131]mascota Gólem de llama\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>▷mascota Gólem<INFO>10178</INFO></TIPBOX> Evolución\n\t\t\t▷Materiales de evolución:\n\t\t\t^i[953]x500, ^i[12371]x3,\n\t\t\t^i[990]x20, ^i[27029]x1\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\t\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10102] = {
+		Title = "mascota Petite#Comida para mascotas#Piedra Brillante",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9022]mascota Petite\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[640]\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t^i[10011]\n\t\t\t\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>▷mascota Deleter Terrestre<INFO>10103</INFO></TIPBOX>\n\t\t\t\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10103] = {
+		Title = "mascota Deleter Terrestre#Comida para mascotas#Cola Petite#Aloe vera",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9098]mascota Deleter Terrestre\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>▷mascota Petite<INFO>10102</INFO></TIPBOX> Evolución\n\t\t\t▷Materiales de evolución:\n\t\t\t^i[6260]x100, ^i[606]x150,\n\t\t\t^i[640]x3, ^i[4279]x1\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10104] = {
+		Title = "mascota Terror nocturno rígido#Comida para mascotas#Herradura ardiente",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9116]mascota Terror nocturno rígido\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>▷mascota Terror del Pesadilla<INFO>10186</INFO></TIPBOX> Evolución\n\t\t\t▷Materiales de evolución:\n\t\t\t^i[7120]x500, ^i[510]x100,\n\t\t\t^i[935]x100, ^i[4166]x1\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10105] = {
+		Title = "mascota Baphomet Jr.#Comida para mascotas#Libro del diablo",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9024]mascota Baphomet Jr.\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[642]\n\n\t\t\t• Comida\n\t\t\t^i[518]\n\t\t\t\n\t\t\t• Accesorio\n\t\t\t^i[10001]\n\t\t\t\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>▷mascota Baphomet Jr. caótico<INFO>10106</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10106] = {
+		Title = "mascota Baphomet Jr. caótico#Comida para mascotas#Cuerno de Baphomet",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9130]mascota Baphomet Jr. caótico\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>▷mascota Baphomet Jr.<INFO>10105</INFO></TIPBOX> Evolución\n\t\t\t▷Materiales de evolución:\n\t\t\t^i[923]x300, ^i[7054]x300,\n\t\t\t^i[508]x100, ^i[27335]x1\n\t\t\t\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>▷mascota Baphomet<INFO>10187</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10107] = {
+		Title = "mascota Peco Peco#Comida para mascotas#Lombriz de tierra rechoncha",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9014]mascota Peco Peco\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[632]\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t^i[10010]\n\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>▷mascota Gran Peco<INFO>10108</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10108] = {
+		Title = "mascota Gran Peco#Comida para mascotas#Lombriz de tierra rechoncha",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9071]mascota Gran Peco\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>▷mascota Peco Peco<INFO>10107</INFO></TIPBOX> Evolución\n\t\t\t▷Materiales de evolución:\n\t\t\t^i[632]x3, ^i[537]x10,\n\t\t\t^i[7101]x300, ^i[522]x10,\n\t\t\t^i[4031]x1\n\t\t\t\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10109] = {
+		Title = "mascota Osito de Peluche#Pelotitas de Algodón#Aguja pequeña para muñecas",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9099]mascota Osito de Peluche\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[23189]\n\n\t\t\t• Comida\n\t\t\t^i[25233]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>▷mascota Osito de peluche abandonado<INFO>10110</INFO></TIPBOX>\n\t\t\t<TIPBOX>▷mascota Aliot<INFO>10111</INFO></TIPBOX>\n\t\t\t<TIPBOX>▷mascota Alicel<INFO>10112</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10110] = {
+		Title = "mascota Osito de peluche abandonado#Comida para mascotas#Sello maldito",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9108]mascota Osito de peluche abandonado\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>▷mascota Osito de Peluche<INFO>10109</INFO></TIPBOX> Evolución\n\t\t\t▷Materiales de evolución:\n\t\t\t^i[7442]x300, ^i[724]x50,\n\t\t\t^i[23189]x3, ^i[4340]x1\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10111] = {
+		Title = "mascota Aliot#Comida para mascotas#Tornillo Oxidado#Ópalo",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9118]mascota Aliot\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>▷mascota Osito de Peluche<INFO>10109</INFO></TIPBOX> Evolución\n\t\t\t▷Materiales de evolución:\n\t\t\t^i[7317]x500, ^i[518]x100,\n\t\t\t^i[727]x10, ^i[4340]x1\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>▷mascota Kiel-D-01<INFO>10184</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10112] = {
+		Title = "mascota Alicel#Comida para mascotas#Tornillo Oxidado#Página sangrienta",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9119]mascota Alicel\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>▷mascota Osito de Peluche<INFO>10109</INFO></TIPBOX> Evolución\n\t\t\t▷Materiales de evolución:\n\t\t\t^i[7317]x500, ^i[518]x100,\n\t\t\t^i[7449]x50, ^i[4340]x1\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10113] = {
+		Title = "mascota Espora#Comida para mascotas#Musgo Empapado de Rocío",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9012]mascota Espora\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[630]\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t^i[10017]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10114] = {
+		Title = "mascota Espora Venenosa#Comida para mascotas#Hierba nociva mortal",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9013]mascota Espora Venenosa\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[631]\n\t\t\t\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t^i[10017]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10115] = {
+		Title = "mascota Isis#Comida para mascotas#Brazalete de obediencia",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9021]mascota Isis\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[639]\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t^i[10006]\n\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>▷mascota Pequeña Isis<INFO>10116</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10116] = {
+		Title = "mascota Pequeña Isis#Comida para mascotas#Pulsera de obediencia3Adorno de cabeza de reina",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9090]mascota Pequeña Isis\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>▷mascota Isis<INFO>10115</INFO></TIPBOX> Evolución\n\t\t\t▷Materiales de evolución:\n\t\t\t^i[639]x3, ^i[10006]x1,\n\t\t\t^i[954]x300, ^i[732]x6\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10117] = {
+		Title = "mascota Hombre Errante#Licor#Cráneo de vagabundo",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9037]mascota Hombre Errante\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[14574]\n\n\t\t\t• Comida\n\t\t\t^i[7824]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>▷mascota Vagabundo contaminado<INFO>10118</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10118] = {
+		Title = "mascota Vagabundo contaminado#Comida para mascotas#Cráneo",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9117]mascota Vagabundo contaminado\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>▷mascota Hombre Errante<INFO>10117</INFO></TIPBOX> Evolución\n\t\t\t▷Materiales de evolución:\n\t\t\t^i[7005]x500, ^i[1059]x100,\n\t\t\t^i[1009]x50, ^i[4210]x1\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10119] = {
+		Title = "mascota Munak#Comida para mascotas#Sin destinatario",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9018]mascota Munak\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[636]\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t^i[10008]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10120] = {
+		Title = "mascota Bongun#Comida para mascotas#Su corazón",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9025]mascota Bongun\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[659]\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t^i[10020]\n\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>▷mascota Yao Jun<INFO>10121</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10121] = {
+		Title = "mascota Yao Jun#Comida para mascotas#Muñeca de Munak",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9093]mascota Yao Jun\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>▷mascota Bongun<INFO>10120</INFO></TIPBOX> Evolución\n\t\t\t▷Materiales de evolución:\n\t\t\t^i[7277]x100, ^i[7014]x50,\n\t\t\t^i[5367]x1, ^i[4328]x1\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10122] = {
+		Title = "mascota Sohee#Comida para mascotas#Cuchillo de plata de castidad",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9020]mascota Sohee\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[638]\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t^i[10016]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10123] = {
+		Title = "mascota Ninfa malvada#Rocío matinal#Loto encantador",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9047]mascota Ninfa malvada\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[12365]\n\n\t\t\t• Comida\n\t\t\t^i[6105]\n\n\t\t\t• Accesorio\n\t\t\t^i[10029]\n\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>▷mascota Bacsojin<INFO>10179</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10124] = {
+		Title = "mascota Nueve colas#Botella Sospechosa#Jalea de savia",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9095]mascota Nueve colas\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[23187]\n\t\t\t\n\t\t\t• Comida\n\t\t\t^i[25231]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>▷Mascota Gato de nueve colas<INFO>10125</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10125] = {
+		Title = "Mascota Gato de nueve colas#Comida para mascotas#Nueve colas",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9096]Mascota Gato de nueve colas\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>▷mascota Nueve colas<INFO>10124</INFO></TIPBOX> Evolución\n\t\t\t▷Materiales de evolución:\n\t\t\t^i[1022]x999, ^i[23187]x3,\n\t\t\t^i[10008]x1, ^i[4159]x1\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>▷mascota Luz de Luna<INFO>10180</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10126] = {
+		Title = "mascota Incubus#Flor Vital Amarilla#La ingenuidad de una chica",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9052]mascota Incubus\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[12370]\n\n\t\t\t• Comida\n\t\t\t^i[6110]\n\n\t\t\t• Accesorio\n\t\t\t^i[10034]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10127] = {
+		Title = "mascota Súcubo#Flor Vital Amarilla#Corazón puro de chico",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9055]mascota Súcubo\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[12373]\n\n\t\t\t• Comida\n\t\t\t^i[6113]\n\n\t\t\t• Accesorio\n\t\t\t^i[10037]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10128] = {
+		Title = "mascota Rockero#Comida para mascotas#Flor Cantante",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9011]mascota Rockero\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[629]\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t^i[10014]\n\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>▷mascota Metalero<INFO>10129</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10129] = {
+		Title = "mascota Metalero#Comida para mascotas#Pata de Saltamontes",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9106]mascota Metalero\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>▷mascota Rockero<INFO>10128</INFO></TIPBOX> Evolución\n\t\t\t▷Materiales de evolución:\n\t\t\t^i[940]x777, ^i[508]x200,\n\t\t\t^i[707]x3, ^i[4057]x1\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10130] = {
+		Title = "mascota Momia#Recuerdo#Vendaje espiritual",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9102]mascota Momia\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[23256]\n\n\t\t\t• Comida\n\t\t\t^i[934]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>▷mascota Momia antigua<INFO>10131</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10131] = {
+		Title = "mascota Momia antigua#Comida para mascotas#Runa de la Oscuridad",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9107]mascota Momia antigua\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>▷mascota Momia<INFO>10130</INFO></TIPBOX> Evolución\n\t\t\t▷Materiales de evolución:\n\t\t\t^i[7511]x200, ^i[969]x30,\n\t\t\t^i[23256]x3, ^i[4248]x1\n\t\t\t\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10132] = {
+		Title = "mascota Lunático#Jugo de zanahoria#Zanahoria arcoiris",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9004]mascota Lunático\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[622]\n\t\t\t\n\t\t\t• Comida\n\t\t\t^i[534]\n\n\t\t\t• Accesorio\n\t\t\t^i[10007]\n\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>▷mascota Lunática de hoja<INFO>10133</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10133] = {
+		Title = "mascota Lunática de hoja#Comida para mascotas#Trébol",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9094]mascota Lunática de hoja\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>▷mascota Lunático<INFO>10132</INFO></TIPBOX> Evolución\n\t\t\t▷Materiales de evolución:\n\t\t\t^i[705]x250, ^i[706]x30,\n\t\t\t^i[7198]x100, ^i[4663]x1\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10134] = {
+		Title = "mascota Picky#Hierba roja#Lombriz galán",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9005]mascota Picky\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[623]\n\t\t\t\n\t\t\t• Comida\n\t\t\t^i[507]\n\n\t\t\t• Accesorio\n\t\t\t^i[10012]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10135] = {
+		Title = "mascota Chonchon#Comida para mascotas#Pescado podrido",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9006]mascota Chonchon\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[624]\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t^i[10002]\n\t\t\t\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10136] = {
+		Title = "mascota Chonchon de Acero#Mineral de hierro#Hierro oxidado",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9007]mascota Chonchon de Acero\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[625]\n\n\t\t\t• Comida\n\t\t\t^i[1002]\n\n\t\t\t• Accesorio\n\t\t\t^i[10002]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10137] = {
+		Title = "mascota Mosca Cazadora#Gema roja#Zumo monstruoso",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9008]mascota Mosca Cazadora\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[626]\n\t\t\t\n\t\t\t• Comida\n\t\t\t^i[716]\n\t\t\t\n\t\t\t• Accesorio\n\t\t\t^i[10002]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10138] = {
+		Title = "mascota Cerdito Salvaje#Comida para mascotas#Leche dulce",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9009]mascota Cerdito Salvaje\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[627]\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\t\t\t\n\t\t\t• Accesorio\n\t\t\t^i[10015]\n\t\t\t\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>▷mascota Salvaje<INFO>10139</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10139] = {
+		Title = "mascota Salvaje#Comida para mascotas#Leche dulce",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9070]mascota Salvaje\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>▷mascota Cerdito Salvaje<INFO>10138</INFO></TIPBOX> Evolución\n\t\t\t▷Materiales de evolución:\n\t\t\t^i[627]x3, ^i[537]x10,\n\t\t\t^i[517]x100, ^i[949]x50\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10140] = {
+		Title = "mascota Smokie#Comida para mascotas#Batata dulce al horno",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9015]mascota Smokie\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[633]\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t^i[10019]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10141] = {
+		Title = "mascota Yoyo#Zumo de plátano#Banana tropical",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9016]mascota Yoyo\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[634]\n\t\t\t\n\t\t\t• Comida\n\t\t\t^i[532]\n\n\t\t\t• Accesorio\n\t\t\t^i[10018]\n\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>▷mascota Choco<INFO>10142</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10142] = {
+		Title = "mascota Choco#Comida para mascotas#Banana tropical",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9091]mascota Choco\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>▷mascota Yoyo<INFO>10141</INFO></TIPBOX> Evolución\n\t\t\t▷Materiales de evolución:\n\t\t\t^i[634]x3, ^i[753]x2,\n\t\t\t^i[7182]x300, ^i[4051]x1\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10143] = {
+		Title = "mascota Dokebi#Comida para mascotas#Escoba vieja",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9019]mascota Dokebi\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[637]\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t^i[10005]\n\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>▷mascota Am Mut<INFO>10144</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10144] = {
+		Title = "mascota Am Mut#Comida para mascotas#Escoba vieja",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9089]mascota Am Mut\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>▷mascota Dokebi<INFO>10143</INFO></TIPBOX> Evolución\n\t\t\t▷Materiales de evolución:\n\t\t\t^i[637]x3, ^i[981]x3,\n\t\t\t^i[1021]x300, ^i[969]x3\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10145] = {
+		Title = "mascota Deviruchi#Brote#Contrato sombrío",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9023]mascota Deviruchi\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[641]\n\n\t\t\t• Comida\n\t\t\t^i[711]\n\n\t\t\t• Accesorio\n\t\t\t^i[10004]\n\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>▷mascota Diabólico<INFO>10146</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10146] = {
+		Title = "mascota Diabólico#Comida para mascotas#Contrato sombrío",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9097]mascota Diabólico\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>▷mascota Deviruchi<INFO>10145</INFO></TIPBOX> Evolución\n\t\t\t▷Materiales de evolución:\n\t\t\t^i[641]x3, ^i[1039]x250,\n\t\t\t^i[1009]x30, ^i[4122]x1\n\t\t\t\n\t\t\t• Comida\n\t\t\t^i[7823]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10147] = {
+		Title = "mascota Alice#Poción blanca#Delantal suave",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9027]mascota Alice\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[661]\n\n\t\t\t• Comida\n\t\t\t^i[504]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>▷mascota Aliza<INFO>10148</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10148] = {
+		Title = "mascota Aliza#Comida para mascotas#Delantal de Alice",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9120]mascota Aliza\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>▷mascota Alice<INFO>10147</INFO></TIPBOX> Evolución\n\t\t\t▷Materiales de evolución:\n\t\t\t^i[7047]x500, ^i[511]x200,\n\t\t\t^i[985]x30, ^i[4253]x1\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10149] = {
+		Title = "mascota Doncella verde#Bollo#Fideos tantan",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9030]mascota Doncella verde\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[12395]\n\n\t\t\t• Comida\n\t\t\t^i[6115]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10150] = {
+		Title = "mascota Gato hoja#Pez con lomo azul#Planta muy blanda",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9041]mascota Gato hoja\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[12359]\n\n\t\t\t• Comida\n\t\t\t^i[6096]\n\n\t\t\t• Accesorio\n\t\t\t^i[10023]\n\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>▷mascota Rosa silvestre<INFO>10191</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10151] = {
+		Title = "mascota Loli Ruri#Tarta de calabaza#Zumo muy rojo",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9042]mascota Loli Ruri\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[12360]\n\n\t\t\t• Comida\n\t\t\t^i[6097]\n\n\t\t\t• Accesorio\n\t\t\t^i[10024]\n\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>▷mascota Loli Ruri de la Luna Azul<INFO>10190</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10152] = {
+		Title = "mascota Shinobi#Pastel de arroz a la parrilla#Kuloren",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9044]mascota Shinobi\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[12362]\n\n\t\t\t• Comida\n\t\t\t^i[6099]\n\n\t\t\t• Accesorio\n\t\t\t^i[10026]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10153] = {
+		Title = "mascota Muñeca Miyabi#Baya bien recolectada#Muñeca de una niña",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9048]mascota Muñeca Miyabi\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[12366]\n\t\t\t\n\t\t\t• Comida\n\t\t\t^i[6106]\n\n\t\t\t• Accesorio\n\t\t\t^i[10030]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10154] = {
+		Title = "mascota Marioneta#Pequeña flor de nieve#Hielo raspado delicioso",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9043]mascota Marioneta\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[12361]\n\n\t\t\t• Comida\n\t\t\t^i[6098]\n\n\t\t\t• Accesorio\n\t\t\t^i[10025]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10155] = {
+		Title = "mascota Susurro#Oscuridad húmeda#Ataúd fantasma",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9045]mascota Susurro\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[12363]\n\n\t\t\t• Comida\n\t\t\t^i[6100]\n\n\t\t\t• Accesorio\n\t\t\t^i[10027]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10157] = {
+		Title = "mascota Lanzapiedras#Nutriente vegetal#Aceite de palma",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9051]mascota Lanzapiedras\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[12369]\n\n\t\t\t• Comida\n\t\t\t^i[6109]\n\t\t\t\n\t\t\t• Accesorio\n\t\t\t^i[10033]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10158] = {
+		Title = "mascota Diablillo#Gema Llama#Fuegos artificiales de hielo",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9056]mascota Diablillo\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[12374]\n\n\t\t\t• Comida\n\t\t\t^i[6114]\n\n\t\t\t• Accesorio\n\t\t\t^i[10038]\n\t\t\t\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10159] = {
+		Title = "mascota Tikbalang#Comida para monstruos#Arnés de Tikbalang",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9059]mascota Tikbalang\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[12699]\n\n\t\t\t• Comida\n\t\t\t^i[528]\n\t\t\t\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10160] = {
+		Title = "mascota Gremlins#Lubricante Barato#Parte de dirigible",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9100]mascota Gremlins\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[23188]\n\n\t\t\t• Comida\n\t\t\t^i[25232]\n\t\t\t\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>▷mascota Hodremlin<INFO>10161</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10161] = {
+		Title = "mascota Hodremlin#Comida para mascotas#Voluntad de la oscuridad",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9105]mascota Hodremlin\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>▷mascota Gremlins<INFO>10160</INFO></TIPBOX> Evolución\n\t\t\t▷Materiales de evolución:\n\t\t\t^i[7340]x200, ^i[6100]x50,\n\t\t\t^i[23188]x3, ^i[4413]x1\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>▷mascota Gloom Bajo la Noche<INFO>10183</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10162] = {
+		Title = "mascota Sacerdote oscuro#Agua maligna#Biblia Oscura",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9128]mascota Sacerdote oscuro\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[100796]\n\n\t\t\t• Comida\n\t\t\t^i[1000552]\n\t\t\t\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>▷mascota Ilusión oscura<INFO>10189</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10163] = {
+		Title = "mascota Sauce Infinito#Trozo de madera de veta fina#Rocío del árbol viejo",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9103]mascota Sauce Infinito\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[23257]\n\n\t\t\t• Comida\n\t\t\t^i[1066]\n\t\t\t\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10164] = {
+		Title = "mascota Roween#Carne Podrida#Carne podrida apestosa",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9104]mascota Roween\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[23258]\n\n\t\t\t• Comida\n\t\t\t^i[7564]\n\t\t\t\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10165] = {
+		Title = "mascota Zealotus#Corazón inmortal#Vela roja prohibida",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9026]mascota Zealotus\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[660]\n\n\t\t\t• Comida\n\t\t\t^i[929]\n\t\t\t\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10166] = {
+		Title = "mascota Little Manager β#Algodón de nube",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9123]mascota Little Manager β\n\t\t\t• Método de obtención: Intercambio\n\t\t\tObjeto de intercambio:^i[1000103]x30\n\t\t\t<NAVI>[Pequeñín administrador β]<INFO>ba_in01,87,386,0,101,0</INFO></NAVI>\n\n\t\t\t• Comida\n\t\t\t^i[1000227]\n\n\t\t\t• Accesorio\n\t\t\t^i[10043]\n\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>▷mascota Maestro alfa pequeño<INFO>10167</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10167] = {
+		Title = "mascota Maestro alfa pequeño#Comida para mascotas",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9124]mascota Maestro alfa pequeño\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>▷mascota Little Manager β<INFO>10166</INFO></TIPBOX> Evolución\n\t\t\t▷Materiales de evolución:\n\t\t\t^i[1000103]x500, ^i[7095]x50,\n\t\t\t^i[7094]x10\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t^i[10044]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10168] = {
+		Title = "mascota Drops dulces#Dulce",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9109]mascota Drops dulces\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>▷mascota Gotas<INFO>10094</INFO></TIPBOX> Evolución\n\t\t\t▷Materiales de evolución:\n\t\t\t^i[529]x50, ^i[530]x50,\n\t\t\t^i[25290]x500, ^i[4004]x1\n\t\t\t\n\t\t\t• Comida\n\t\t\t^i[529]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10169] = {
+		Title = "mascota Duende de Navidad#Scell#Bastón de dulce",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9029]mascota Duende de Navidad\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[12225]\n\n\t\t\t• Comida\n\t\t\t^i[911]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10170] = {
+		Title = "mascota Líder Goblin#Big Scell#Bastón de dulce",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9046]mascota Líder Goblin\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[12364]\n\n\t\t\t• Comida\n\t\t\t^i[6104]\n\n\t\t\t• Accesorio\n\t\t\t^i[10028]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10171] = {
+		Title = "mascota Mao Guai#Alcohol aromatizado#Abanico de viento",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9040]mascota Mao Guai\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[12358]\n\n\t\t\t• Comida\n\t\t\t^i[6095]\n\n\t\t\t• Accesorio\n\t\t\t^i[10022]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10172] = {
+		Title = "mascota Conejo de nieve#Dulce",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9058]mascota Conejo de nieve\n\t\t\t• Método de obtención\n\t\t\tObtenido durante el evento ^i[9058]\n\n\t\t\t• Comida\n\t\t\t^i[529]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10173] = {
+		Title = "mascota Unicornio azul#Comida para mascotas",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9068]mascota Unicornio azul\n\t\t\t• Método de obtención\n\t\t\tObtenido durante el evento ^i[9068]\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10174] = {
+		Title = "mascota Huevo de pastel de arroz duro#Hierba verde#Polvo de arroz masticable",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9028]mascota Huevo de pastel de arroz duro\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[12340]\n\n\t\t\t• Comida\n\t\t\t^i[511]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10175] = {
+		Title = "mascota Gato esquelético#Pescado fresco",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9101]mascota Gato esquelético\n\t\t\t• Método de obtención\n\t\t\tObtenido por misión durante el evento de Halloween\n\t\t\t<NAVI>[Jack]<INFO>niflheim,172,244,0,101,0</INFO></NAVI>\n\n\t\t\t• Comida\n\t\t\t^i[579]\n\n\t\t\t• Accesorio\n\t\t\t^i[10040]\n\t\t\t\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>▷mascota Skelion<INFO>10176</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10176] = {
+		Title = "mascota Skelion#Carne deliciosa",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9113]mascota Skelion\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>▷mascota Gato esquelético<INFO>10175</INFO></TIPBOX> Evolución\n\t\t\t▷Materiales de evolución:\n\t\t\t^i[25408]x2, ^i[11616]x100,\n\t\t\t^i[11605]x100\n\n\t\t\t• Comida\n\t\t\t^i[11616]\n\n\t\t\t• Accesorio\n\t\t\t^i[10042]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10177] = {
+		Title = "mascota Patito#Pelotitas de Algodón#Botón de muñeco brillante",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9125]mascota Patito\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[9897]\n\n\t\t\t• Comida\n\t\t\t^i[25233]\n\n\t\t\t• Accesorio\n\t\t\t^i[10045]\n\t\t\t\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10178] = {
+		Title = "mascota Gólem#Piedra Mística#Litografía mágica",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9053]mascota Gólem\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[12371]\n\n\t\t\t• Comida\n\t\t\t^i[6111]\n\n\t\t\t• Accesorio\n\t\t\t^i[10035]\n\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>▷mascota Gólem de llama<INFO>10101</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10179] = {
+		Title = "mascota Bacsojin#Lujosa comida para mascotas",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9115]mascota Bacsojin\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>▷mascota Ninfa malvada<INFO>10123</INFO></TIPBOX> Evolución\n\t\t\t▷Materiales de evolución:\n\t\t\t^i[4202]x10, ^i[4265]x10,\n\t\t\t^i[4272]x10, ^i[25375]x30\n\n\t\t\t• Comida\n\t\t\t^i[25377]\n\t\t\t\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10180] = {
+		Title = "mascota Luz de Luna#Lujosa comida para mascotas",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9112]mascota Luz de Luna\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>▷Mascota Gato de nueve colas<INFO>10125</INFO></TIPBOX> Evolución\n\t\t\t▷Materiales de evolución:\n\t\t\t^i[4159]x10, ^i[4090]x10,\n\t\t\t^i[4100]x10, ^i[25375]x30\n\t\t\t\n\t\t\t• Comida\n\t\t\t^i[25377]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10181] = {
+		Title = "mascota Phreeoni#Lujosa comida para mascotas",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9111]mascota Phreeoni\n\t\t\t• Método de obtención: Intercambio\n\t\t\tObjeto de intercambio:^i[25375]x30\n\t\t\t<NAVI>[Gold Hand, siervo del Trascendente]<INFO>prontera,163,304,0,101,0</INFO></NAVI>\n\n\t\t\t• Comida\n\t\t\t^i[25377]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10182] = {
+		Title = "mascota Héroe Orc#Lujosa comida para mascotas",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9121]mascota Héroe Orc\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>▷Mascota Orc Superior<INFO>10100</INFO></TIPBOX> Evolución\n\t\t\t▷Materiales de evolución:\n\t\t\t^i[4066]x10, ^i[4375]x10,\n\t\t\t^i[968]x10, ^i[25375]x30\n\n\t\t\t• Comida\n\t\t\t^i[25377]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10183] = {
+		Title = "mascota Gloom Bajo la Noche#Lujosa comida para mascotas",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9122]mascota Gloom Bajo la Noche\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>▷mascota Hodremlin<INFO>10161</INFO></TIPBOX> Evolución\n\t\t\t▷Materiales de evolución:\n\t\t\t^i[4413]x10, ^i[4409]x10,\n\t\t\t^i[4412]x10, ^i[25375]x30\n\n\t\t\t• Comida\n\t\t\t^i[25377]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10184] = {
+		Title = "mascota Kiel-D-01#Lujosa comida para mascotas",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9126]mascota Kiel-D-01\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>▷mascota Aliot<INFO>10111</INFO></TIPBOX> Evolución\n\t\t\t▷Materiales de evolución:\n\t\t\t^i[4402]x10, ^i[4400]x10,\n\t\t\t^i[4401]x10, ^i[25375]x30\n\n\t\t\t• Comida\n\t\t\t^i[25377]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno] \n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10185] = {
+		Title = "mascota Dullahan#Anillo de la muerte#Botella de whisky de lujo",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9049]mascota Dullahan\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[12367]\n\n\t\t\t• Comida\n\t\t\t^i[6107]\n\n\t\t\t• Accesorio\n\t\t\t^i[10031]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno] \n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10186] = {
+		Title = "mascota Terror del Pesadilla#Ensalada fresca#Contrato infernal",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9054]mascota Terror del Pesadilla\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[12372]\n\n\t\t\t• Comida\n\t\t\t^i[6112]\n\t\t\t\n\t\t\t• Accesorio\n\t\t\t^i[10036]\n\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>▷mascota Terror nocturno rígido<INFO>10104</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10187] = {
+		Title = "mascota Baphomet#Lujosa comida para mascotas",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9137]mascota Baphomet\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>▷mascota Baphomet Jr. caótico<INFO>10106</INFO></TIPBOX> Evolución\n\t\t\t▷Materiales de evolución:\n\t\t\t^i[4129]x15, ^i[27335]x15,\n\t\t\t^i[25375]x30\n\n\t\t\t• Comida\n\t\t\t^i[25377]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno] \n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno] \n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10188] = {
+		Title = "mascota Familiar#Trampa de frutas surtidas#Zumo de frutas mixtas",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9138]mascota Familiar\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[101331]\n\n\t\t\t• Comida\n\t\t\t^i[1000889]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno] \n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10189] = {
+		Title = "mascota Ilusión oscura#Evolución#Sacerdote oscuro",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9139]mascota Ilusión oscura\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>▷mascota Sacerdote oscuro<INFO>10162</INFO></TIPBOX> Evolución\n\t\t\t▷Materiales de evolución:\n\t\t\t^i[7005]x500, ^i[2608]x1,\n\t\t\t^i[1009]x5, ^i[4171]x10\n\t\t\t\n\t\t\t• Comida\n\t\t\t^i[537]\n\t\t\t\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\t\t\t\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>▷mascota Señor Oscuro<INFO>10200</INFO></TIPBOX>\n\t\t\t\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10190] = {
+		Title = "mascota Loli Ruri de la Luna Azul#Evolución",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9140]mascota Loli Ruri de la Luna Azul\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>▷mascota Loli Ruri<INFO>10151</INFO></TIPBOX> Evolución\n\t\t\t▷Materiales de evolución:\n\t\t\t^i[7214]x500, ^i[510]x50,\n\t\t\t^i[7019]x1, ^i[4191]x10\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\t\t\t\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10191] = {
+		Title = "mascota Rosa silvestre#Evolución#Gato hoja",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9141]mascota Rosa silvestre\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>▷mascota Gato hoja<INFO>10150</INFO></TIPBOX> Evolución\n\t\t\t▷Materiales de evolución:\n\t\t\t^i[7198]x500, ^i[7206]x200,\n\t\t\t^i[1023]x200, ^i[4195]x10\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\t\t\t\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>▷mascota Eddga<INFO>10195</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10192] = {
+		Title = "mascota Caballero Blanco Mutante#Evolución",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9133]mascota Caballero Blanco Mutante\n\t\t\t• Método de obtención: Intercambio\n\t\t\tObjeto de intercambio:^i[25375]x10\n\t\t\t<NAVI>[Gold Hand, siervo del Trascendente]<INFO>prontera,163,304,0,101,0</INFO></NAVI>\n\t\t\t\n\t\t\t• Comida\n\t\t\t^i[537]\n\t\t\t\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\t\t\t\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>▷mascota Caballero del Abismo<INFO>10193</INFO></TIPBOX>\n\t\t\t<TIPBOX>▷mascota Caballero Blanco<INFO>10194</INFO></TIPBOX>\n\t\t\t\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10193] = {
+		Title = "mascota Caballero del Abismo#Evolución",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9132]mascota Caballero del Abismo\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>▷mascota Caballero Blanco Mutante<INFO>10192</INFO></TIPBOX> Evolución\n\t\t\t▷Materiales de evolución:\n\t\t\t^i[6089]x100, ^i[7511]x100,\n\t\t\t^i[1000257]x200, ^i[4140]x5\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\t\t\t\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\t\t\t\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\t\t\t\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10194] = {
+		Title = "mascota Caballero Blanco#Evolución",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9134]mascota Caballero Blanco\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>▷mascota Caballero Blanco Mutante<INFO>10192</INFO></TIPBOX> Evolución\n\t\t\t▷Materiales de evolución:\n\t\t\t^i[25509]x100, ^i[1000831]x100,\n\t\t\t^i[1000263]x200, ^i[4608]x2\n\t\t\t\n\t\t\t• Comida\n\t\t\t^i[537]\n\t\t\t\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\t\t\t\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\t\t\t\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10195] = {
+		Title = "mascota Eddga#Evolución",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9142]mascota Eddga\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>▷mascota Rosa silvestre<INFO>10191</INFO></TIPBOX> Evolución\n\t\t\t▷Materiales de evolución:\n\t\t\t^i[4195]x10, ^i[4257]x10,\n\t\t\t^i[27124]x10, ^i[25375]x30\n\t\t\t\n\t\t\t• Comida\n\t\t\t^i[25377]\n\t\t\t\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\t\t\t\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\t\t\t\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10196] = {
+		Title = "mascota Medusa",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9050]mascota Medusa\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[12368]\n\n\t\t\t• Comida\n\t\t\t^i[6108]\n\t\t\t\n\t\t\t• Accesorio\n\t\t\t^i[10032]\n\t\t\t\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\t\t\t\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10197] = {
+		Title = "mascota Copo",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9145]mascota Copo\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[102202]\n\t\t\t\n\t\t\t• Comida\n\t\t\t^i[537]\n\t\t\t\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\t\t\t\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>▷mascota Vientohielo Gris<INFO>10198</INFO></TIPBOX>\n\t\t\t<TIPBOX>▷mascota Vientohielo<INFO>10199</INFO></TIPBOX>\n\t\t\t\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10198] = {
+		Title = "mascota Vientohielo Gris",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9146]mascota Vientohielo Gris\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>▷mascota Copo<INFO>10197</INFO></TIPBOX> Evolución\n\t\t\t▷Materiales de evolución:\n\t\t\t^i[1001244]x200, ^i[1001249]x150,\n\t\t\t^i[1001246]x150, ^i[300457]x1\n\t\t\t\n\t\t\t• Comida\n\t\t\t^i[537]\n\t\t\t\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\t\t\t\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\t\t\t\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10199] = {
+		Title = "mascota Vientohielo",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9147]mascota Vientohielo\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>▷mascota Copo<INFO>10197</INFO></TIPBOX> Evolución\n\t\t\t▷Materiales de evolución:\n\t\t\t^i[1001245]x200, ^i[1001249]x150,\n\t\t\t^i[1001246]x150, ^i[300458]x1\n\t\t\t\n\t\t\t• Comida\n\t\t\t^i[537]\n\t\t\t\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\t\t\t\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\t\t\t\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10200] = {
+		Title = "mascota Señor Oscuro",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9148]mascota Señor Oscuro\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>▷mascota Ilusión oscura<INFO>10189</INFO></TIPBOX> Evolución\n\t\t\t▷Materiales de evolución:\n\t\t\t^i[4169]x10, ^i[4141]x10,\n\t\t\t^i[4171]x10, ^i[25375]x30\n\t\t\t\n\t\t\t• Comida\n\t\t\t^i[25377]\n\t\t\t\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\t\t\t\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\t\t\t\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
 	}
 }
 function main()

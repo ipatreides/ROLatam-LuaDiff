@@ -61,7 +61,7 @@
     },
     "7G2BCA": {
         "en": "[White knight]\nAre you with Varmunt? Commander is waiting for you.",
-        "pt": "[Cavaleiro Branco]\nVocê está com o Sr. Varmund? O comandante está te esperando.",
+        "pt": "[Cavaleiro Branco]\nVocê está com o Sr. Varmunt? O comandante está te esperando.",
         "es": "[Caballero Blanco]\n¿Estás con Varmunt? El comandante te está esperando."
     },
     "7W2BCA": {
@@ -81,7 +81,7 @@
     },
     "8G2BCA": {
         "en": "[White knight]\nHow do you know Varmunt? I heard that he's not really a friendly man...",
-        "pt": "[Cavaleiro Branco]\nComo você conhece o Sr. Varmund? Eu fiquei sabendo que ele não é uma pessoa muito amigável...",
+        "pt": "[Cavaleiro Branco]\nComo você conhece o Sr. Varmunt? Eu fiquei sabendo que ele não é uma pessoa muito amigável...",
         "es": "[Caballero Blanco]\n¿Cómo conoces a Varmunt? Escuché que no es una persona muy amigable…"
     },
     "8W2BCA": {
@@ -121,7 +121,7 @@
     },
     "+G2BCA": {
         "en": "[Khalitzburg Knightage]\nAre you with Varmunt? Commander is waiting for you.",
-        "pt": "[Khalitzburg]\nVocê está com o Sr. Varmund? O comandante está te esperando.",
+        "pt": "[Khalitzburg]\nVocê está com o Sr. Varmunt? O comandante está te esperando.",
         "es": "[Caballera de Khalitzburg]\n¿Estás con Varmunt? El comandante te está esperando."
     },
     "+W2BCA": {
@@ -131,12 +131,12 @@
     },
     "+m2BCA": {
         "en": "Varmunt",
-        "pt": "Varmund",
+        "pt": "Varmunt",
         "es": "Varmunt"
     },
     "+22BCA": {
         "en": "[Varmunt]\nAre you the one ^0000FFHerico^000000 sent to help me?",
-        "pt": "[Varmund]\nFoi você quem o ^0000FFHerico^000000 mandou para me ajudar?",
+        "pt": "[Varmunt]\nFoi você quem o ^0000FFHerico^000000 mandou para me ajudar?",
         "es": "[Varmunt]\n¿Eres la persona que ^0000FFHerico^000000 envió para ayudarme?"
     },
     "/G2BCA": {
@@ -146,7 +146,7 @@
     },
     "/W2BCA": {
         "en": "[Varmunt]\nWhere's your leader? I need his help.",
-        "pt": "[Varmund]\nOnde está o seu líder? Eu preciso da ajuda dele.",
+        "pt": "[Varmunt]\nOnde está o seu líder? Eu preciso da ajuda dele.",
         "es": "[Varmunt]\n¿Dónde está tu líder? Necesito su ayuda."
     },
     "/m2BCA": {
@@ -156,17 +156,17 @@
     },
     "/22BCA": {
         "en": "[{0}]\nAh yes, I am. Herico told me to meet you.",
-        "pt": "[{0}]\nAh sim, sou eu. Herico me disse pra te encontrar, sábio Varmund.",
+        "pt": "[{0}]\nAh sim, sou eu. Herico me disse pra te encontrar, sábio Varmunt.",
         "es": "[{0}]\nAh, sí. Soy yo. Herico me dijo que te buscara."
     },
     "AG6BCA": {
         "en": "Ah yes, I am. Herico told me to meet you.",
-        "pt": "Ah sim, sou eu. Herico me disse pra te encontrar, sábio Varmund.",
+        "pt": "Ah sim, sou eu. Herico me disse pra te encontrar, sábio Varmunt.",
         "es": "Ah, sí. Herico me dijo que te conociera."
     },
     "AW6BCA": {
         "en": "[Varmunt]\nWe don't have much time. We must report to Sir. Heinrich about Himmelmez' invasion.",
-        "pt": "[Varmund]\nNão temos muito tempo. Precisamos relatar para o Sir Heinrich sobre a invasão de Himmelmez.",
+        "pt": "[Varmunt]\nNão temos muito tempo. Precisamos relatar para o Sir Heinrich sobre a invasão de Himmelmez.",
         "es": "[Varmunt]\nNo tenemos mucho tiempo. Debemos informar al Sr.Heinrich sobre la invasión de Himmelmez."
     },
     "Am6BCA": {
@@ -191,7 +191,7 @@
     },
     "Bm6BCA": {
         "en": "[Varmunt]\nHerico didn't tell you?",
-        "pt": "[Varmund]\nHeinrich não te contou nem as coisas básicas?",
+        "pt": "[Varmunt]\nHeinrich não te contou nem as coisas básicas?",
         "es": "[Varmunt]\n¿Herico no te lo dijo?"
     },
     "B26BCA": {
@@ -201,7 +201,7 @@
     },
     "CG6BCA": {
         "en": "[Varmunt]\nShe is the Ruler of Death, Dead man's Valkyrie. Himmelmez is looking to take the heart of Ymir from us.",
-        "pt": "[Varmund]\nSenhora da Morte, Valquíria dos Mortos. Himmelmez quer roubar de nós o coração de Ymir.",
+        "pt": "[Varmunt]\nSenhora da Morte, Valquíria dos Mortos. Himmelmez quer roubar de nós o coração de Ymir.",
         "es": "[Varmunt]\nEs la soberana de la muerte, la valkiria de los muertos. Himmelmez intenta quitarnos el corazón de Ymir."
     },
     "CW6BCA": {
@@ -211,7 +211,7 @@
     },
     "Cm6BCA": {
         "en": "[Varmunt]\nShe might even destroy this whole castle if she wanted to.",
-        "pt": "[Varmund]\nSe for necessário, ela destruirá todo o castelo...",
+        "pt": "[Varmunt]\nSe for necessário, ela destruirá todo o castelo...",
         "es": "[Varmunt]\nPodría incluso destruir todo el castillo si quisiera."
     },
     "C26BCA": {
@@ -221,7 +221,7 @@
     },
     "DG6BCA": {
         "en": "[Varmunt]\nHurry! Report to Sir, Heinrich about Himmelmez. I must check the defense barrier here!",
-        "pt": "[Varmund]\nRápido! Relate para o Sir Heinrich sobre Himmelmez. Eu devo verificar as barreiras de defesa aqui!",
+        "pt": "[Varmunt]\nRápido! Relate para o Sir Heinrich sobre Himmelmez. Eu devo verificar as barreiras de defesa aqui!",
         "es": "[Varmunt]\n¡Date prisa! Informa al señor Heinrich sobre Himmelmez. ¡Debo comprobar la barrera de defensa aquí!"
     },
     "DW6BCA": {
@@ -256,12 +256,12 @@
     },
     "E26BCA": {
         "en": "[Heinrich]\nAren't you the adventurer that came along with Varmunt?",
-        "pt": "[Heinrich]\nVocê não é o aventureiro que veio junto com o Sr. Varmund?",
+        "pt": "[Heinrich]\nVocê não é o aventureiro que veio junto com o Sr. Varmunt?",
         "es": "[Heinrich]\n¿No eres el trotamundos que vino con Varmunt?"
     },
     "FG6BCA": {
         "en": "Heinrich: Aren't you the adventurer that came along with Varmunt?",
-        "pt": "Hennrich: Você não é o aventureiro que veio junto com o Sr. Varmund?",
+        "pt": "Hennrich: Você não é o aventureiro que veio junto com o Sr. Varmunt?",
         "es": "Heinrich: ¿No eres tú el aventurero que vino con Varmunt?"
     },
     "FW6BCA": {
@@ -301,7 +301,7 @@
     },
     "HG6BCA": {
         "en": "[Varmunt]\nI'm not kidding, Sir. Heinrich. If I'm correct, then she will be here very soon.",
-        "pt": "[Varmund]\nNão estou brincando, Senhor Heinrich. Se eu estiver certo, ela estará aqui em breve.",
+        "pt": "[Varmunt]\nNão estou brincando, Senhor Heinrich. Se eu estiver certo, ela estará aqui em breve.",
         "es": "[Varmunt]\nNo estoy bromeando, señor Heinrich. Si no me equivoco, llegará muy pronto."
     },
     "HW6BCA": {
@@ -311,7 +311,7 @@
     },
     "Hm6BCA": {
         "en": "[Varmunt]\nWe must hide the heart piece to a safe place before Himmelmez' attack starts!",
-        "pt": "[Varmund]\nVocê pode confiar nesse homem. Nós precisamos esconder o pedaço do coração em um lugar seguro antes que o ataque da Himmelmez comece!",
+        "pt": "[Varmunt]\nVocê pode confiar nesse homem. Nós precisamos esconder o pedaço do coração em um lugar seguro antes que o ataque da Himmelmez comece!",
         "es": "[Varmunt]\n¡Debemos esconder la pieza del corazón en un lugar seguro antes de que comience el ataque de Himmelmez!"
     },
     "H26BCA": {
@@ -376,7 +376,7 @@
     },
     "K26BCA": {
         "en": "Varmunt: Himmelmez!! Already!",
-        "pt": "Varmund: Himmelmez! Mas já?!",
+        "pt": "Varmunt: Himmelmez! Mas já?!",
         "es": "Varmunt: ¡¡Himmelmez!! ¡Ya!"
     },
     "LG6BCA": {
@@ -571,7 +571,7 @@
     },
     "Um6BCA": {
         "en": "Varmunt: Sir. Heinrich, they're all monsters. You need to give them rest!",
-        "pt": "Varmund: Lorde Heinrich, agora eles são apenas monstros. Tire-os desse sofrimento!",
+        "pt": "Varmunt: Lorde Heinrich, agora eles são apenas monstros. Tire-os desse sofrimento!",
         "es": "Varmunt: Señor. Heinrich, son todos monstruos. ¡Necesita darles un descanso!"
     },
     "U26BCA": {
@@ -601,12 +601,12 @@
     },
     "WG6BCA": {
         "en": "Varmunt : Sir. Heinrich! We don't have much time!",
-        "pt": "Varmund : Lorde Heinrich! Não temos muito tempo!",
+        "pt": "Varmunt : Lorde Heinrich! Não temos muito tempo!",
         "es": "Varmunt: Señor. ¡Heinrich! ¡No tenemos mucho tiempo!"
     },
     "WW6BCA": {
         "en": "Varmunt : If you hurry now, there's a chance!",
-        "pt": "Varmund : Se nos apressarmos, ainda teremos chance de acabar com isso!",
+        "pt": "Varmunt : Se nos apressarmos, ainda teremos chance de acabar com isso!",
         "es": "Varmunt : Si te das prisa ahora, ¡hay una oportunidad!"
     },
     "Wm6BCA": {
@@ -636,17 +636,17 @@
     },
     "X26BCA": {
         "en": "Heinrich : Varmunt and I will chase Himmelmez.",
-        "pt": "Heinrich : Eu e Varmund perseguiremos Himmelmez.",
+        "pt": "Heinrich : Eu e Varmunt perseguiremos Himmelmez.",
         "es": "Heinrich : Varmunt y yo perseguiremos a Himmelmez."
     },
     "YG6BCA": {
         "en": "Varmunt : We need your help. Please don't let us down.",
-        "pt": "Varmund : A ajuda de vocês é essencial. Contamos com vocês.",
+        "pt": "Varmunt : A ajuda de vocês é essencial. Contamos com vocês.",
         "es": "Varmunt : Necesitamos su ayuda. Por favor, no nos fallen."
     },
     "YW6BCA": {
         "en": "Heinrich : Very well, Varmunt. Let's find Himmelmez.",
-        "pt": "Heinrich : Muito bem, Varmund. Vamos atrás de Himmelmez.",
+        "pt": "Heinrich : Muito bem, Varmunt. Vamos atrás de Himmelmez.",
         "es": "Heinrich : Muy bien, Varmunt. Encontremos a Himmelmez."
     },
     "Ym6BCA": {
@@ -966,7 +966,7 @@
     },
     "oW6BCA": {
         "en": "Varmunt: Sir. Heinrich! I sense something strange and strong coming!",
-        "pt": "Varmund: Lorde Heinrich! Tem algo grande e poderoso vindo!",
+        "pt": "Varmunt: Lorde Heinrich! Tem algo grande e poderoso vindo!",
         "es": "Varmunt: Señor. ¡Heinrich! ¡Presiento que se avecina algo extraño y fuerte!"
     },
     "om6BCA": {
@@ -986,7 +986,7 @@
     },
     "pW6BCA": {
         "en": "Heinrich: Sir. Varmunt! Help those adventurers. I will go after Himmelmez!",
-        "pt": "Heinrich: Lorde Varmund! Ajude estes aventureiros. Eu irei atrás de Himmelmez!",
+        "pt": "Heinrich: Lorde Varmunt! Ajude estes aventureiros. Eu irei atrás de Himmelmez!",
         "es": "Heinrich: Señor. ¡Varmunt! Ayuda a esos trotamundos. ¡Iré tras Himmelmez!"
     },
     "pm6BCA": {
@@ -1006,12 +1006,12 @@
     },
     "qW6BCA": {
         "en": "[Varmunt]\nThis item has extraordinary aura with it. Can be very useful for someone special.",
-        "pt": "[Varmund]\nEste item emana uma aura poderosa...",
+        "pt": "[Varmunt]\nEste item emana uma aura poderosa...",
         "es": "[Varmunt]\nEste objeto lleva consigo un aura extraordinaria. Puede ser muy útil para alguien especial."
     },
     "qm6BCA": {
         "en": "[Varmunt]\nI guess this is it. Is it impossible to stop the time traveler's will?!\nA portal seems to have appeared to the north.",
-        "pt": "[Varmund]\nSerá possível deter o Viajante do Tempo?",
+        "pt": "[Varmunt]\nSerá possível deter o Viajante do Tempo?",
         "es": "[Varmunt]\nSupongo que esto es todo. ¡¿Es imposible detener la voluntad del viajante de tiempo?!\nParece que apareció un portal al norte."
     },
     "q26BCA": {
@@ -1036,7 +1036,7 @@
     },
     "r26BCA": {
         "en": "Varmunt: I collected some items dropped from its body. You can take it from me.",
-        "pt": "Varmund: Eu reuni alguns dos itens que o monstro derrubou.",
+        "pt": "Varmunt: Eu reuni alguns dos itens que o monstro derrubou.",
         "es": "Varmunt: Recolecté algunos objetos que cayeron de su cuerpo. Puedes quitármelo."
     },
     "sG6BCA": {

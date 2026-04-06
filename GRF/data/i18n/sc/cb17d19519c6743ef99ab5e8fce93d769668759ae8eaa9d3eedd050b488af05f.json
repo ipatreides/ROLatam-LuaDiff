@@ -36,28 +36,28 @@
     },
     "h+e9Ag": {
         "en": "[Merchant Guild Member]\nIt seems you have come this far due to a special connection.",
-        "pt": "[Chefe Mansur]\nFaz tempo que não nos vemos!\nEi, você não desistiu de seu negócio, não é?",
-        "es": "[Jefe Mahnsoo]\n¡Cuánto tiempo sin verte!\nOye, no abandonaste tu negocio, ¿cierto?"
+        "pt": "[Chefe Mansur]\nParece que você chegou até aqui com uma condição especial.",
+        "es": "[Jefe Mahnsoo]\nParece que has llegado aquí bajo una condición especial"
     },
     "iOe9Ag": {
         "en": "^4D4DFF You can summon a service NPC for job change.\n^4D4DFF Booster promotion eligible players can change jobs through the job change agent.^000000",
-        "pt": "[Chefe Mansur]\nOs seres humanos não podem mudar sua vocação.\nParece que você não pode se juntar aos Mercadores novamente. Vá aprender as Habilidades Básicas primeiro.",
-        "es": "[Jefe Mahnsoo]\nLos humanos no pueden cambiar su vocación.\nParece que no tienes lo necesario aún para ser Comerciante otra vez. Primero, termina de aprender las habilidades básicas de principiante."
+        "pt": "^4D4DFFVocê pode invocar o Oficial de Mudança de Classe.\nPersonagens participantes do Evento de Apoio de Evolução podem mudar de classe através do Oficial.^000000",
+        "es": "^4D4DFFPuedes invocar al Oficial de Cambio de Clase.\nLos personajes que participen en el Evento de Apoyo de Evolución pueden cambiar de clase a través del Oficial.^000000"
     },
     "iee9Ag": {
         "en": "Summon a job change agent for job change.",
-        "pt": "[Chefe Mansur] Não se preocupe, nós sempre teremos uma vaga aberta para você.  Volte assim que você tiver aprendido, certo?",
-        "es": "[Jefe Mahnsoo] No te preocupes, siempre tendremos un puesto de Comerciante disponible para ti. Vuelve cuando tengas todo listo, ¿vale?"
+        "pt": "Invocar Oficial de Mudança de Classe",
+        "es": "Invocar Oficial de Cambio de Clase"
     },
     "iue9Ag": {
         "en": "Decline.",
-        "pt": "[Chefe Mansur] Você nasceu para se juntar aos Mercadores. Essa é a sua vocação!",
-        "es": "[Jefe Mahnsoo] Naciste para ser Comerciante. ¡Es tu vocación!"
+        "pt": "Ignorar",
+        "es": "Ignorar"
     },
     "i+e9Ag": {
         "en": "^4D4DFF Booster promotion eligible players can change jobs through the job change agent.\nThird job change can also be done at each job guild.^000000",
-        "pt": "[Chefe Mansur]\nÓtimo! Agora você parece familiar.\nMuito bem, dê o seu melhor!",
-        "es": "[Jefe Mahnsoo]\n¡Genial! Ahora, me pareces familiar.\nMuy bien, ¡haz tu mejor esfuerzo!"
+        "pt": "^4D4DFFPersonagens participantes do Evento de Apoio de Evolução podem mudar de classe através do Oficial.\nA mudança para Classe 3 também pode ser feita nas Guildas.^000000",
+        "es": "^4D4DFFLos personajes que participen en el Evento de Apoyo de Evolución pueden cambiar de clase a través del Oficial.\nEl cambio a la Clase 3 también se puede realizar en los Gremios.^000000"
     },
     "jOe9Ag": {
         "en": "[Chief Mahnsoo]\nWhile riding a mount\nI can't proceed with the job change.\nPlease come back after getting off the mount.",
@@ -131,7 +131,7 @@
     },
     "mue9Ag": {
         "en": "[Chief Mahnsoo]\nAbsolutely, we need young people who have passion to achieve our great goal for securing 20% of the worldwide currency volume. You get it? Huh? \nWell, I'm just saying... It means let's make lots of money in the end. You guys know that~",
-        "pt": "[Chefe Mansur]\nCom certeza, nós precisamos de pessoas que sejam dedicadas para alcançar nossa grande meta de deter 20% de todas as finanças do mundo. Entendeu? Hã?\nBom, estou falando só por falar. Isso significa que vamos conseguir muita grana no fim dessa história. Vocês sabem disso.",
+        "pt": "[Chefe Mansur]\nCom certeza, nós precisamos de pessoas que sejam dedicadas para alcançar nossa grande meta de deter 20% de todas as finanças do mundo. Entendeu? Hã?\nBom, estou falando só por falar. Isso significa que vamos conseguir muita grana no fim dessa história. Você sabe disso.",
         "es": "[Jefe Mahnsoo]\nTotalmente, necesitamos jóvenes que tengan pasión por alcanzar nuestro gran objetivo: conseguir el 20 % de la riqueza mundial. ¿Entiendes? ¿Eh? \nBueno, solo digo… Al final, significa que haremos mucho dinero. ¡Lo saben bien!"
     },
     "m+e9Ag": {
@@ -141,7 +141,7 @@
     },
     "nOe9Ag": {
         "en": "[Chief Mahnsoo]\nCome to think of it, I received a call from ^4D4DFFEden group^000000.\nI think they have a  ^4D4DFFrequest^000000 for you.",
-        "pt": "[Chefe Mansur]\nPensando bem, recebi um chamado do grupo ^4D4DFFÉden^000000.\nAcho que eles têm um ^4D4DFFpedido^000000 para você.",
+        "pt": "[Chefe Mansur]\nPensando bem, recebi um chamado do ^4D4DFFGrupo do Éden^000000.\nAcho que eles têm um ^4D4DFFpedido^000000 para você.",
         "es": "[Jefe Mahnsoo]\nAhora que lo pienso, recibí una llamada del ^4D4DFFGrupo del Edén^000000.\nCreo que tienen una ^4D4DFFsolicitud^000000 para ti."
     },
     "nee9Ag": {
@@ -151,8 +151,8 @@
     },
     "nue9Ag": {
         "en": "[Chief Mahnsoo]\nAbsolutely, we need young people who have passion to achieve our great goal for securing 20% of the worldwide currency volume. You get it? Huh?\nWell, I'm just saying... It means let's make lots of money in the end. You guys know that~",
-        "pt": "[Chefe Mansur]\nHã?\nQue tal se dedicar à sua Classe original?",
-        "es": "[Jefe Mahnsoo]\n¿Ah? ¿Intentas quedarte con ambos?\n¿Qué tal si te dedicas a tu clase original?"
+        "pt": "[Chefe Mansur]\nPrecisamos de jovens apaixonados para alcançar nosso grande objetivo de garantir 20% do volume mundial de moeda. Entendeu? Hein?\nBem, só estou dizendo... Significa que vamos ganhar muito dinheiro no final. Vocês sabem disso~",
+        "es": "[Jefe Mahnsoo]\nPor supuesto, necesitamos jóvenes apasionados que logren nuestro gran objetivo de controlar el 20% del volumen mundial de divisas. ¿Lo entienden? ¿Eh?\nBueno, solo digo... Significa que al final ganaremos mucho dinero. Ya lo saben~"
     },
     "n+e9Ag": {
         "en": "[Chief Mahnsoo]\nWe have business ethics you know.",
@@ -350,21 +350,33 @@
         "es": "[Mago gremialista]\nMi paquete debería haber llegado ya.\nMm. Supongo que al gremio de Comerciantes se le podría estar haciendo un poco tarde…"
     },
     "xue9Ag": {
-        "en": "[Chief Mahnsoo]\nLong time no see!\nHey, you didn't quit your business, did you?"
+        "en": "[Chief Mahnsoo]\nLong time no see!\nHey, you didn't quit your business, did you?",
+        "pt": "[Chefe Mansur]\nFaz tempo que não nos vemos!\nEi, você não desistiu de seu negócio, não é?",
+        "es": "[Jefe Mahnsoo]\n¡Cuánto tiempo sin verte!\nOye, no dejaste tu negocio, ¿verdad?"
     },
     "x+e9Ag": {
-        "en": "[Chief Mahnsoo]\nHumans cannot change their calling.\nIt seems that you're not ready to become a Merchant again. Go finish learning the Basic Novice Skills first."
+        "en": "[Chief Mahnsoo]\nHumans cannot change their calling.\nIt seems that you're not ready to become a Merchant again. Go finish learning the Basic Novice Skills first.",
+        "pt": "[Chefe Mansur]\nOs seres humanos não podem mudar sua vocação.\nParece que você não pode se juntar aos Mercadores novamente. Vá aprender as Habilidades Básicas primeiro.",
+        "es": "[Jefe Mahnsoo]\nLos humanos no pueden cambiar su vocación.\nParece que no estás listo para volver a ser comerciante. Primero, termina de aprender las Habilidades Básicas de Principiante."
     },
     "yOe9Ag": {
-        "en": "[Chief Mahnsoo]\nDon't worry, we'll always have a Merchant position open for you.\nJust come back when you're ready, okay?"
+        "en": "[Chief Mahnsoo]\nDon't worry, we'll always have a Merchant position open for you.\nJust come back when you're ready, okay?",
+        "pt": "[Chefe Mansur] \nNão se preocupe, nós sempre teremos uma vaga aberta para você.  Volte assim que você tiver aprendido, certo?",
+        "es": "[Jefe Mahnsoo]\nNo te preocupes, siempre tendremos un puesto de comerciante disponible para ti.\nVuelve cuando estés listo, ¿de acuerdo?"
     },
     "yee9Ag": {
-        "en": "[Chief Mahnsoo]\nYou were born to be a merchant.\nThis is your call!"
+        "en": "[Chief Mahnsoo]\nYou were born to be a merchant.\nThis is your call!",
+        "pt": "[Chefe Mansur] \nVocê nasceu para se juntar aos Mercadores. Essa é a sua vocação!",
+        "es": "[Jefe Mahnsoo]\nNaciste para ser comerciante.\n¡Esta es tu vocación!"
     },
     "yue9Ag": {
-        "en": "[Chief Mahnsoo]\nGreat! Now you look familiar.\nAlright, do your best!"
+        "en": "[Chief Mahnsoo]\nGreat! Now you look familiar.\nAlright, do your best!",
+        "pt": "[Chefe Mansur]\nÓtimo! Agora você parece familiar.\nMuito bem, dê o seu melhor!",
+        "es": "[Jefe Mahnsoo]\n¡Genial! Ahora me resultas familiar.\n¡Muy bien, haz tu mejor esfuerzo!"
     },
     "y+e9Ag": {
-        "en": "[Chief Mahnsoo]\nAhh? Are you trying to have both ways?\nHow about just giving yourself over to your original job?"
+        "en": "[Chief Mahnsoo]\nAhh? Are you trying to have both ways?\nHow about just giving yourself over to your original job?",
+        "pt": "[Chefe Mansur]\nHã?\nQue tal se dedicar à sua Classe original?",
+        "es": "[Jefe Mahnsoo]\n¿Ah? ¿Quieres tenerlo todo?\n¿Qué tal si simplemente te dedicas a tu trabajo original?"
     }
 }

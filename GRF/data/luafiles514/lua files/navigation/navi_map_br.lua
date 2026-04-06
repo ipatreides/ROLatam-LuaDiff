@@ -4872,6 +4872,13 @@ Navi_Map = {
 		400
 	},
 	{
+		"1@bamn",
+		"Jardim ao Entardecer",
+		5001,
+		400,
+		400
+	},
+	{
 		"NULL",
 		"",
 		0,

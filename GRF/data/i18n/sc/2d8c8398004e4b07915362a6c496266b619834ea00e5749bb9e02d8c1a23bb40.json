@@ -1937,5 +1937,125 @@
         "en": "Operation Firebird Footprints ({0} left)",
         "pt": "Operation Firebird do Banguela ({0} un)",
         "es": "Operación Fénix de Chimuelo ({0} restantes)"
+    },
+    "RGXDCQ": {
+        "en": "High Wizard Stone II({0}left)",
+        "pt": "Pedra de Arquimago II (Topo) ({0} un)",
+        "es": "Piedra de Gran Hechicero II (Superior) ({0} un)"
+    },
+    "RWXDCQ": {
+        "en": "Paladin Stone II({0}left)",
+        "pt": "Pedra de Paladino II (Topo) ({0} un)",
+        "es": "Piedra de Paladín II (Superior) ({0} un)"
+    },
+    "RmXDCQ": {
+        "en": "Assassin Cross Stone II({0}left)",
+        "pt": "Pedra de Algoz II (Topo) ({0} un)",
+        "es": "Piedra de Asesino Cruzado II (Superior) ({0} un)"
+    },
+    "R2XDCQ": {
+        "en": "High Wizard Stone II({0}left)",
+        "pt": "Pedra de Arquimago II (Meio) ({0} un)",
+        "es": "Piedra de Gran Hechicero II (Centro) ({0} un)"
+    },
+    "SGXDCQ": {
+        "en": "Paladin Stone II({0}left)",
+        "pt": "Pedra de Paladino II (Meio) ({0} un)",
+        "es": "Piedra de Paladín II (Centro) ({0} un)"
+    },
+    "SWXDCQ": {
+        "en": "Assassin Cross Stone II({0}left)",
+        "pt": "Pedra de Algoz II (Meio) ({0} un)",
+        "es": "Piedra de Asesino Cruzado II (Centro) ({0} un)"
+    },
+    "SmXDCQ": {
+        "en": "High Wizard Stone II({0}left)",
+        "pt": "Pedra de Arquimago II (Baixo) ({0} un)",
+        "es": "Piedra de Gran Hechicero II (Inferior) ({0} un)"
+    },
+    "S2XDCQ": {
+        "en": "Paladin Stone II({0}left)",
+        "pt": "Pedra de Paladino II (Baixo) ({0} un)",
+        "es": "Piedra de Paladín II (Inferior) ({0} un)"
+    },
+    "TGXDCQ": {
+        "en": "Assassin Cross Stone II({0}left)",
+        "pt": "Pedra de Algoz II (Baixo) ({0} un)",
+        "es": "Piedra de Asesino Cruzado II (Inferior) ({0} un)"
+    },
+    "TWXDCQ": {
+        "en": "Warlock Stone II({0}left)",
+        "pt": "Pedra de Arcano II (Capa) ({0} un)",
+        "es": "Piedra de Brujo II (Capa) ({0} un)"
+    },
+    "TmXDCQ": {
+        "en": "Royal Guard Stone II({0}left)",
+        "pt": "Pedra de Guardião Real II (Capa) ({0} un)",
+        "es": "Piedra de Guardia Real II (Capa) ({0} un)"
+    },
+    "T2XDCQ": {
+        "en": "Guillotine CrossII Stone({0}left)",
+        "pt": "Pedra de Sicário II (Capa) ({0} un)",
+        "es": "Piedra de Cortador de Cruces II (Capa) ({0} un)"
+    },
+    "UGXDCQ": {
+        "en": "Lord Knight Stone II({0}left)",
+        "pt": "Pedra de Lorde II (Topo) ({0} un)",
+        "es": "Piedra de Señor II (Superior) ({0} un)"
+    },
+    "UWXDCQ": {
+        "en": "Creator Stone II({0}left)",
+        "pt": "Pedra de Criador II (Topo) ({0} un)",
+        "es": "Piedra de Creador II (Superior) ({0} un)"
+    },
+    "UmXDCQ": {
+        "en": "Clown Gypsy Stone II({0}left)",
+        "pt": "Pedra de Artistas II (Topo) ({0} un)",
+        "es": "Piedra de Artistas II (Superior) ({0} un)"
+    },
+    "U2XDCQ": {
+        "en": "Lord Knight Stone II({0}left)",
+        "pt": "Pedra de Lorde II (Meio) ({0} un)",
+        "es": "Piedra de Señor II (Medio) ({0} un)"
+    },
+    "VGXDCQ": {
+        "en": "Creator Stone II({0}left)",
+        "pt": "Pedra de Criador II (Meio) ({0} un)",
+        "es": "Piedra de Creador II (Medio) ({0} un)"
+    },
+    "VWXDCQ": {
+        "en": "Clown Gypsy Stone II({0}left)",
+        "pt": "Pedra de Artistas II (Meio) ({0} un)",
+        "es": "Piedra de Artistas II (Medio) ({0} un)"
+    },
+    "VmXDCQ": {
+        "en": "Lord Knight Stone II({0}left)",
+        "pt": "Pedra de Lorde II (Baixo) ({0} un)",
+        "es": "Piedra de Señor II (Inferior) ({0} un)"
+    },
+    "V2XDCQ": {
+        "en": "Creator Stone II({0}left)",
+        "pt": "Pedra de Criador II (Baixo) ({0} un)",
+        "es": "Piedra de Creador II (Inferior) ({0} un)"
+    },
+    "WGXDCQ": {
+        "en": "Clown Gypsy Stone II({0}left)",
+        "pt": "Pedra de Artistas II (Baixo) ({0} un)",
+        "es": "Piedra de Artistas II (Inferior) ({0} un)"
+    },
+    "WWXDCQ": {
+        "en": "Rune Knight Stone II({0}left)",
+        "pt": "Pedra de Cavaleiro Rúnico II (Capa) ({0} un)",
+        "es": "Piedra de Caballero Rúnico II (Capa) ({0} un)"
+    },
+    "WmXDCQ": {
+        "en": "Genetic Stone II({0}left)",
+        "pt": "Pedra de Bioquímico II (Capa) ({0} un)",
+        "es": "Piedra de Genetista II (Capa) ({0} un)"
+    },
+    "W2XDCQ": {
+        "en": "Wanderer Maestro Stone II({0}left)",
+        "pt": "Pedra de Músicos II (Capa) ({0} un)",
+        "es": "Piedra de Músicos II (Capa) ({0} un)"
     }
 }

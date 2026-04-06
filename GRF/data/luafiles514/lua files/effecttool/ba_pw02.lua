@@ -40,7 +40,13 @@ _ba_pw02_emitterInfo = {
 		srcmode = {5},
 		destmode = {2},
 		maxcount = {20},
-		zenable = {1}
+		zenable = {1},
+		billboard_off = {0},
+		rotate_angle = {
+			0,
+			0,
+			0
+		}
 	},
 	[1] = {
 		dir1 = {
@@ -82,7 +88,13 @@ _ba_pw02_emitterInfo = {
 		srcmode = {5},
 		destmode = {2},
 		maxcount = {20},
-		zenable = {1}
+		zenable = {1},
+		billboard_off = {0},
+		rotate_angle = {
+			0,
+			0,
+			0
+		}
 	},
 	[2] = {
 		dir1 = {
@@ -124,7 +136,13 @@ _ba_pw02_emitterInfo = {
 		srcmode = {5},
 		destmode = {2},
 		maxcount = {20},
-		zenable = {1}
+		zenable = {1},
+		billboard_off = {0},
+		rotate_angle = {
+			0,
+			0,
+			0
+		}
 	},
 	[3] = {
 		dir1 = {
@@ -166,7 +184,13 @@ _ba_pw02_emitterInfo = {
 		srcmode = {5},
 		destmode = {2},
 		maxcount = {20},
-		zenable = {1}
+		zenable = {1},
+		billboard_off = {0},
+		rotate_angle = {
+			0,
+			0,
+			0
+		}
 	},
 	[4] = {
 		dir1 = {
@@ -208,7 +232,13 @@ _ba_pw02_emitterInfo = {
 		srcmode = {5},
 		destmode = {2},
 		maxcount = {20},
-		zenable = {1}
+		zenable = {1},
+		billboard_off = {0},
+		rotate_angle = {
+			0,
+			0,
+			0
+		}
 	},
 	[5] = {
 		dir1 = {
@@ -250,7 +280,13 @@ _ba_pw02_emitterInfo = {
 		srcmode = {5},
 		destmode = {2},
 		maxcount = {20},
-		zenable = {1}
+		zenable = {1},
+		billboard_off = {0},
+		rotate_angle = {
+			0,
+			0,
+			0
+		}
 	},
 	[6] = {
 		dir1 = {
@@ -292,7 +328,13 @@ _ba_pw02_emitterInfo = {
 		srcmode = {5},
 		destmode = {2},
 		maxcount = {20},
-		zenable = {1}
+		zenable = {1},
+		billboard_off = {0},
+		rotate_angle = {
+			0,
+			0,
+			0
+		}
 	},
 	[7] = {
 		dir1 = {
@@ -334,7 +376,13 @@ _ba_pw02_emitterInfo = {
 		srcmode = {5},
 		destmode = {2},
 		maxcount = {20},
-		zenable = {1}
+		zenable = {1},
+		billboard_off = {0},
+		rotate_angle = {
+			0,
+			0,
+			0
+		}
 	},
 	[8] = {
 		dir1 = {
@@ -376,7 +424,13 @@ _ba_pw02_emitterInfo = {
 		srcmode = {9},
 		destmode = {2},
 		maxcount = {20},
-		zenable = {1}
+		zenable = {1},
+		billboard_off = {0},
+		rotate_angle = {
+			0,
+			0,
+			0
+		}
 	},
 	[9] = {
 		dir1 = {
@@ -418,7 +472,13 @@ _ba_pw02_emitterInfo = {
 		srcmode = {9},
 		destmode = {2},
 		maxcount = {20},
-		zenable = {1}
+		zenable = {1},
+		billboard_off = {0},
+		rotate_angle = {
+			0,
+			0,
+			0
+		}
 	},
 	[10] = {
 		dir1 = {
@@ -460,7 +520,13 @@ _ba_pw02_emitterInfo = {
 		srcmode = {9},
 		destmode = {2},
 		maxcount = {20},
-		zenable = {1}
+		zenable = {1},
+		billboard_off = {0},
+		rotate_angle = {
+			0,
+			0,
+			0
+		}
 	},
 	[11] = {
 		dir1 = {
@@ -502,7 +568,13 @@ _ba_pw02_emitterInfo = {
 		srcmode = {9},
 		destmode = {2},
 		maxcount = {20},
-		zenable = {1}
+		zenable = {1},
+		billboard_off = {0},
+		rotate_angle = {
+			0,
+			0,
+			0
+		}
 	},
 	[12] = {
 		dir1 = {
@@ -544,7 +616,13 @@ _ba_pw02_emitterInfo = {
 		srcmode = {9},
 		destmode = {2},
 		maxcount = {20},
-		zenable = {1}
+		zenable = {1},
+		billboard_off = {0},
+		rotate_angle = {
+			0,
+			0,
+			0
+		}
 	},
 	[13] = {
 		dir1 = {
@@ -586,7 +664,13 @@ _ba_pw02_emitterInfo = {
 		srcmode = {9},
 		destmode = {2},
 		maxcount = {20},
-		zenable = {1}
+		zenable = {1},
+		billboard_off = {0},
+		rotate_angle = {
+			0,
+			0,
+			0
+		}
 	},
 	[14] = {
 		dir1 = {
@@ -628,7 +712,13 @@ _ba_pw02_emitterInfo = {
 		srcmode = {9},
 		destmode = {2},
 		maxcount = {20},
-		zenable = {1}
+		zenable = {1},
+		billboard_off = {0},
+		rotate_angle = {
+			0,
+			0,
+			0
+		}
 	},
 	[15] = {
 		dir1 = {
@@ -670,7 +760,13 @@ _ba_pw02_emitterInfo = {
 		srcmode = {9},
 		destmode = {2},
 		maxcount = {20},
-		zenable = {1}
+		zenable = {1},
+		billboard_off = {0},
+		rotate_angle = {
+			0,
+			0,
+			0
+		}
 	},
 	[16] = {
 		dir1 = {
@@ -712,7 +808,13 @@ _ba_pw02_emitterInfo = {
 		srcmode = {9},
 		destmode = {2},
 		maxcount = {20},
-		zenable = {1}
+		zenable = {1},
+		billboard_off = {0},
+		rotate_angle = {
+			0,
+			0,
+			0
+		}
 	},
 	[17] = {
 		dir1 = {
@@ -754,7 +856,13 @@ _ba_pw02_emitterInfo = {
 		srcmode = {9},
 		destmode = {2},
 		maxcount = {20},
-		zenable = {1}
+		zenable = {1},
+		billboard_off = {0},
+		rotate_angle = {
+			0,
+			0,
+			0
+		}
 	},
 	[18] = {
 		dir1 = {
@@ -796,7 +904,13 @@ _ba_pw02_emitterInfo = {
 		srcmode = {9},
 		destmode = {2},
 		maxcount = {20},
-		zenable = {1}
+		zenable = {1},
+		billboard_off = {0},
+		rotate_angle = {
+			0,
+			0,
+			0
+		}
 	},
 	[19] = {
 		dir1 = {
@@ -838,7 +952,13 @@ _ba_pw02_emitterInfo = {
 		srcmode = {9},
 		destmode = {2},
 		maxcount = {20},
-		zenable = {1}
+		zenable = {1},
+		billboard_off = {0},
+		rotate_angle = {
+			0,
+			0,
+			0
+		}
 	},
 	[20] = {
 		dir1 = {
@@ -880,7 +1000,13 @@ _ba_pw02_emitterInfo = {
 		srcmode = {9},
 		destmode = {2},
 		maxcount = {20},
-		zenable = {1}
+		zenable = {1},
+		billboard_off = {0},
+		rotate_angle = {
+			0,
+			0,
+			0
+		}
 	},
 	[21] = {
 		dir1 = {
@@ -922,7 +1048,13 @@ _ba_pw02_emitterInfo = {
 		srcmode = {9},
 		destmode = {2},
 		maxcount = {20},
-		zenable = {1}
+		zenable = {1},
+		billboard_off = {0},
+		rotate_angle = {
+			0,
+			0,
+			0
+		}
 	},
 	[22] = {
 		dir1 = {
@@ -964,7 +1096,13 @@ _ba_pw02_emitterInfo = {
 		srcmode = {6},
 		destmode = {2},
 		maxcount = {10},
-		zenable = {1}
+		zenable = {1},
+		billboard_off = {0},
+		rotate_angle = {
+			0,
+			0,
+			0
+		}
 	},
 	[23] = {
 		dir1 = {
@@ -1006,7 +1144,13 @@ _ba_pw02_emitterInfo = {
 		srcmode = {6},
 		destmode = {2},
 		maxcount = {10},
-		zenable = {1}
+		zenable = {1},
+		billboard_off = {0},
+		rotate_angle = {
+			0,
+			0,
+			0
+		}
 	},
 	[24] = {
 		dir1 = {
@@ -1048,7 +1192,13 @@ _ba_pw02_emitterInfo = {
 		srcmode = {6},
 		destmode = {2},
 		maxcount = {10},
-		zenable = {1}
+		zenable = {1},
+		billboard_off = {0},
+		rotate_angle = {
+			0,
+			0,
+			0
+		}
 	},
 	[25] = {
 		dir1 = {
@@ -1090,7 +1240,13 @@ _ba_pw02_emitterInfo = {
 		srcmode = {6},
 		destmode = {2},
 		maxcount = {10},
-		zenable = {1}
+		zenable = {1},
+		billboard_off = {0},
+		rotate_angle = {
+			0,
+			0,
+			0
+		}
 	},
 	[26] = {
 		dir1 = {
@@ -1132,7 +1288,13 @@ _ba_pw02_emitterInfo = {
 		srcmode = {6},
 		destmode = {2},
 		maxcount = {10},
-		zenable = {1}
+		zenable = {1},
+		billboard_off = {0},
+		rotate_angle = {
+			0,
+			0,
+			0
+		}
 	},
 	[27] = {
 		dir1 = {
@@ -1174,7 +1336,13 @@ _ba_pw02_emitterInfo = {
 		srcmode = {6},
 		destmode = {2},
 		maxcount = {10},
-		zenable = {1}
+		zenable = {1},
+		billboard_off = {0},
+		rotate_angle = {
+			0,
+			0,
+			0
+		}
 	},
 	[28] = {
 		dir1 = {
@@ -1216,7 +1384,13 @@ _ba_pw02_emitterInfo = {
 		srcmode = {6},
 		destmode = {2},
 		maxcount = {10},
-		zenable = {1}
+		zenable = {1},
+		billboard_off = {0},
+		rotate_angle = {
+			0,
+			0,
+			0
+		}
 	},
 	[29] = {
 		dir1 = {
@@ -1258,7 +1432,13 @@ _ba_pw02_emitterInfo = {
 		srcmode = {6},
 		destmode = {2},
 		maxcount = {10},
-		zenable = {1}
+		zenable = {1},
+		billboard_off = {0},
+		rotate_angle = {
+			0,
+			0,
+			0
+		}
 	},
 	[30] = {
 		dir1 = {
@@ -1300,7 +1480,13 @@ _ba_pw02_emitterInfo = {
 		srcmode = {6},
 		destmode = {2},
 		maxcount = {10},
-		zenable = {1}
+		zenable = {1},
+		billboard_off = {0},
+		rotate_angle = {
+			0,
+			0,
+			0
+		}
 	},
 	[31] = {
 		dir1 = {
@@ -1342,7 +1528,13 @@ _ba_pw02_emitterInfo = {
 		srcmode = {6},
 		destmode = {2},
 		maxcount = {10},
-		zenable = {1}
+		zenable = {1},
+		billboard_off = {0},
+		rotate_angle = {
+			0,
+			0,
+			0
+		}
 	},
 	[32] = {
 		dir1 = {
@@ -1384,7 +1576,13 @@ _ba_pw02_emitterInfo = {
 		srcmode = {6},
 		destmode = {2},
 		maxcount = {10},
-		zenable = {1}
+		zenable = {1},
+		billboard_off = {0},
+		rotate_angle = {
+			0,
+			0,
+			0
+		}
 	},
 	[33] = {
 		dir1 = {
@@ -1426,7 +1624,13 @@ _ba_pw02_emitterInfo = {
 		srcmode = {6},
 		destmode = {2},
 		maxcount = {10},
-		zenable = {1}
+		zenable = {1},
+		billboard_off = {0},
+		rotate_angle = {
+			0,
+			0,
+			0
+		}
 	},
 	[34] = {
 		dir1 = {
@@ -1468,7 +1672,13 @@ _ba_pw02_emitterInfo = {
 		srcmode = {6},
 		destmode = {2},
 		maxcount = {10},
-		zenable = {1}
+		zenable = {1},
+		billboard_off = {0},
+		rotate_angle = {
+			0,
+			0,
+			0
+		}
 	},
 	[35] = {
 		dir1 = {
@@ -1510,7 +1720,13 @@ _ba_pw02_emitterInfo = {
 		srcmode = {6},
 		destmode = {2},
 		maxcount = {10},
-		zenable = {1}
+		zenable = {1},
+		billboard_off = {0},
+		rotate_angle = {
+			0,
+			0,
+			0
+		}
 	},
 	[36] = {
 		dir1 = {
@@ -1552,7 +1768,13 @@ _ba_pw02_emitterInfo = {
 		srcmode = {6},
 		destmode = {2},
 		maxcount = {10},
-		zenable = {1}
+		zenable = {1},
+		billboard_off = {0},
+		rotate_angle = {
+			0,
+			0,
+			0
+		}
 	},
 	[37] = {
 		dir1 = {
@@ -1594,7 +1816,13 @@ _ba_pw02_emitterInfo = {
 		srcmode = {5},
 		destmode = {2},
 		maxcount = {20},
-		zenable = {1}
+		zenable = {1},
+		billboard_off = {0},
+		rotate_angle = {
+			0,
+			0,
+			0
+		}
 	},
 	[38] = {
 		dir1 = {
@@ -1636,7 +1864,13 @@ _ba_pw02_emitterInfo = {
 		srcmode = {5},
 		destmode = {2},
 		maxcount = {25},
-		zenable = {1}
+		zenable = {1},
+		billboard_off = {0},
+		rotate_angle = {
+			0,
+			0,
+			0
+		}
 	},
 	[39] = {
 		dir1 = {
@@ -1678,7 +1912,13 @@ _ba_pw02_emitterInfo = {
 		srcmode = {5},
 		destmode = {2},
 		maxcount = {25},
-		zenable = {1}
+		zenable = {1},
+		billboard_off = {0},
+		rotate_angle = {
+			0,
+			0,
+			0
+		}
 	},
 	[40] = {
 		dir1 = {
@@ -1720,7 +1960,13 @@ _ba_pw02_emitterInfo = {
 		srcmode = {5},
 		destmode = {2},
 		maxcount = {25},
-		zenable = {1}
+		zenable = {1},
+		billboard_off = {0},
+		rotate_angle = {
+			0,
+			0,
+			0
+		}
 	},
 	[41] = {
 		dir1 = {
@@ -1762,7 +2008,13 @@ _ba_pw02_emitterInfo = {
 		srcmode = {5},
 		destmode = {2},
 		maxcount = {25},
-		zenable = {1}
+		zenable = {1},
+		billboard_off = {0},
+		rotate_angle = {
+			0,
+			0,
+			0
+		}
 	},
 	[42] = {
 		dir1 = {
@@ -1804,7 +2056,13 @@ _ba_pw02_emitterInfo = {
 		srcmode = {5},
 		destmode = {2},
 		maxcount = {25},
-		zenable = {1}
+		zenable = {1},
+		billboard_off = {0},
+		rotate_angle = {
+			0,
+			0,
+			0
+		}
 	},
 	[43] = {
 		dir1 = {
@@ -1846,7 +2104,13 @@ _ba_pw02_emitterInfo = {
 		srcmode = {5},
 		destmode = {2},
 		maxcount = {25},
-		zenable = {1}
+		zenable = {1},
+		billboard_off = {0},
+		rotate_angle = {
+			0,
+			0,
+			0
+		}
 	},
 	[44] = {
 		dir1 = {
@@ -1888,7 +2152,13 @@ _ba_pw02_emitterInfo = {
 		srcmode = {5},
 		destmode = {2},
 		maxcount = {25},
-		zenable = {1}
+		zenable = {1},
+		billboard_off = {0},
+		rotate_angle = {
+			0,
+			0,
+			0
+		}
 	},
 	[45] = {
 		dir1 = {
@@ -1930,7 +2200,13 @@ _ba_pw02_emitterInfo = {
 		srcmode = {5},
 		destmode = {2},
 		maxcount = {25},
-		zenable = {1}
+		zenable = {1},
+		billboard_off = {0},
+		rotate_angle = {
+			0,
+			0,
+			0
+		}
 	},
 	[46] = {
 		dir1 = {
@@ -1972,7 +2248,13 @@ _ba_pw02_emitterInfo = {
 		srcmode = {5},
 		destmode = {2},
 		maxcount = {25},
-		zenable = {1}
+		zenable = {1},
+		billboard_off = {0},
+		rotate_angle = {
+			0,
+			0,
+			0
+		}
 	}
 }
 _ba_pw02_magicfloorInfo = {
@@ -2426,7 +2708,13 @@ _ba_pw02_animatedEmitterInfo = {
 		srcmode = {5},
 		destmode = {2},
 		maxcount = {3},
-		zenable = {1}
+		zenable = {1},
+		billboard_off = {0},
+		rotate_angle = {
+			0,
+			0,
+			0
+		}
 	},
 	[1] = {
 		dir1 = {
@@ -2468,7 +2756,13 @@ _ba_pw02_animatedEmitterInfo = {
 		srcmode = {5},
 		destmode = {2},
 		maxcount = {3},
-		zenable = {1}
+		zenable = {1},
+		billboard_off = {0},
+		rotate_angle = {
+			0,
+			0,
+			0
+		}
 	},
 	[2] = {
 		dir1 = {
@@ -2510,7 +2804,13 @@ _ba_pw02_animatedEmitterInfo = {
 		srcmode = {5},
 		destmode = {2},
 		maxcount = {3},
-		zenable = {1}
+		zenable = {1},
+		billboard_off = {0},
+		rotate_angle = {
+			0,
+			0,
+			0
+		}
 	},
 	[3] = {
 		dir1 = {
@@ -2552,6 +2852,12 @@ _ba_pw02_animatedEmitterInfo = {
 		srcmode = {5},
 		destmode = {2},
 		maxcount = {3},
-		zenable = {1}
+		zenable = {1},
+		billboard_off = {0},
+		rotate_angle = {
+			0,
+			0,
+			0
+		}
 	}
 }

@@ -281,6 +281,13 @@ HatEFID = {
 	FOOTPRINT_EF_feather = 280,
 	HAT_EF_Solid_State_Recognition = 281,
 	HAT_EF_C_Cursed_Serpent = 282,
+	FOOTPRINT_EF_BASIC = 283,
+	HAT_EF_C_GGH_Anniversary = 284,
+	FOOTPRINT_EF_divine_blue = 285,
+	FOOTPRINT_EF_bluestar = 286,
 	FOOTPRINT_EF_phoenix = 287,
-	HAT_EF_C_CLB_GAT_doc = 288
+	HAT_EF_C_CLB_GAT_doc = 288,
+	HAT_EF_C_EYE_OF_NECROMANCER = 289,
+	HAT_EF_C_JAOW_PIRUN = 290,
+	FOOTPRINT_EF_flower_garden = 291
 }

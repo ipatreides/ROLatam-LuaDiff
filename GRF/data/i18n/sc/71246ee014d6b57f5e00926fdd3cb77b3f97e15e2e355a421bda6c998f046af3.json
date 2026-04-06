@@ -1,0 +1,68 @@
+{
+    "YF/eDA": {
+        "ko": "에휴",
+        "en": "Ehyu",
+        "pt": "Ehyu",
+        "es": "Ehyu"
+    },
+    "YV/eDA": {
+        "ko": "위로하는 자",
+        "en": "Lady Solace",
+        "pt": "Conforto",
+        "es": "Señora Solace"
+    },
+    "Yl/eDA": {
+        "ko": "…. 다 죽어버렸네 …. 그럼 너도 죽어야지 ….",
+        "en": "…. They all died …. Then you must die too ….",
+        "pt": "…. Todos morreram …. Então você também deve morrer ….",
+        "es": "…. Todos han muerto…. Entonces tú también debes morir…."
+    },
+    "Y1/eDA": {
+        "ko": "타나토스의 기억 조각, 슬픔이 북쪽 석상에 등장했습니다.",
+        "en": "Memory of Thanatos Fragment, Sorrow has appeared at the northern statue.",
+        "pt": "Fragmento de Memória de Thanatos, Tristeza, apareceu na estátua do norte.",
+        "es": "El fragmento de Recuerdo de Thanatos, tristeza, ha aparecido en la estatua del norte."
+    },
+    "ZF/eDA": {
+        "ko": "기억의 조각",
+        "en": "Fragment of Memory",
+        "pt": "Fragmento de Memória",
+        "es": "Fragmento de memoria"
+    },
+    "ZV/eDA": {
+        "ko": "기억의 조각이 동쪽 석상을 가동시켰습니다.",
+        "en": "Fragment of Memory has activated the eastern statue.",
+        "pt": "Fragmento de Memória ativou a estátua do leste.",
+        "es": "Fragmento de memoria ha activado la estatua del este."
+    },
+    "Zl/eDA": {
+        "ko": "기억의 조각이 서쪽 석상을 가동시켰습니다.",
+        "en": "Fragment of Memory has activated the western statue.",
+        "pt": "Fragmento de Memória ativou a estátua do oeste.",
+        "es": "Fragmento de memoria ha activado la estatua del oeste."
+    },
+    "Z1/eDA": {
+        "ko": "슬픔의 기억",
+        "en": "Memory of Sorrow",
+        "pt": "Memória da Tristeza",
+        "es": "Recuerdo de tristeza"
+    },
+    "aF/eDA": {
+        "ko": "타나토스의 슬픔",
+        "en": "Sorrow of Memory of Thanatos",
+        "pt": "A tristeza de Memória de Thanatos",
+        "es": "La tristeza de Memoria de Thanatos"
+    },
+    "aV/eDA": {
+        "ko": "소지하고 계시는 아이템의 갯수가 많아 퀘스트를 진행 할 수 없습니다.\n아이템을 정리한 뒤 다시 시도해 주시기 바랍니다.",
+        "en": "You cannot proceed with the quest because you are carrying too many items. Please organize your inventory and try again.",
+        "pt": "Você possui itens demais para prosseguir com a missão. Organize seus itens e tente novamente.",
+        "es": "No puedes continuar la misión porque llevas demasiados objetos. Ordena tus objetos e inténtalo de nuevo."
+    },
+    "al/eDA": {
+        "ko": "슬픔의 기억이 파편으로 형상화합니다. 게이트의 봉인이 해제되었습니다.",
+        "en": "Memory of Sorrow manifests as fragments. The seal of the gate has been released.",
+        "pt": "Memória da Tristeza assume a forma de fragmentos. O selo do portal foi removido.",
+        "es": "Recuerdo de tristeza toma forma como fragmento. El sello de la puerta ha sido liberado."
+    }
+}

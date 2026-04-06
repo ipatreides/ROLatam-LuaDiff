@@ -1,15 +1,15 @@
 {
     "wBvbBw": {
         "ko": "필로폰테스",
-        "en": "Philopontes",
-        "pt": "Philopontes",
-        "es": "Philopontes"
+        "en": "Philopontesss",
+        "pt": "Philopontess",
+        "es": "Philopontess"
     },
     "wRvbBw": {
         "ko": "[필로폰테스]\n마침 잘 만났군요.\n룬-미드가츠에서 크룩스 씨가 오셨습니다.\n뭔가 중요한 소식을 전하러 오신 듯 합니다.",
-        "en": "[Philopontes]\nJust in time.\nCrux has come from Rune-Midgard.\nIt seems he has important news to deliver.",
-        "pt": "[Philopontes]\nQue bom que nos encontramos.\nO Sr. Crux veio de Rune-Midgard.\nParece que ele veio trazer alguma notícia importante.",
-        "es": "[Philopontes]\nQué oportuno encontrarnos.\nDesde Rune-Midgard ha venido el señor Crux.\nParece que ha venido a transmitir una noticia importante."
+        "en": "[Philopontesss]\nJust in time.\nCrux has come from Rune-Midgard.\nIt seems he has important news to deliver.",
+        "pt": "[Tess]\nBom te ver novamente.\nO Sr. Crux veio de Rune-Midgard.\nE trouxe uma notícia importante.",
+        "es": "[Philopontess]\nQué oportuno encontrarnos.\nDesde Rune-Midgard ha venido el señor Crux.\nParece que ha venido a transmitir una noticia importante."
     },
     "whvbBw": {
         "ko": "크룩스",
@@ -20,8 +20,8 @@
     "wxvbBw": {
         "ko": "[크룩스]\n모험가님! 오랜만입니다!\n궁정마법사님을 통해 소식을 간간히 듣긴 했는데 ….",
         "en": "[Crux]\nAdventurer! It has been a long time!\nI did hear bits of news through the Court Mage, but….",
-        "pt": "[Crux]\nAventureiro! Quanto tempo!\nEu até ouvia notícias de vez em quando pelo Mago da Corte, mas….",
-        "es": "[Crux]\n¡Aventurero! ¡Cuánto tiempo!\nHe oído noticias de vez en cuando a través del Mago de la Corte, pero…."
+        "pt": "[Crux]\nViajante! Quanto tempo!\nEu até ouvia notícias de vez em quando pelo Mago da Corte, mas...",
+        "es": "[Crux]\n¡Trotamundos! ¡Cuánto tiempo!\nHe oído noticias de vez en cuando a través del Mago de la Corte, pero…."
     },
     "xBvbBw": {
         "ko": "[크룩스]\n지금 일정이 괜찮으시다면 저와 함께 프론테라 왕궁으로 가지 않겠습니까?",
@@ -38,19 +38,19 @@
     "xhvbBw": {
         "ko": "[크룩스]\n왕좌를 계속 비워둘 순 없으니까요.\n약식으로 축복의식을 치렀습니다.\n지난번에 테라 글로리아를 찾아주신 덕분이죠.",
         "en": "[Crux]\nWe cannot leave the throne vacant forever.\nWe held a simple blessing ceremony.\nIt is thanks to you finding Terra Gloria last time.",
-        "pt": "[Crux]\nNão podemos deixar o trono vazio para sempre.\nRealizamos um rito de bênção simplificado.\nFoi graças a você ter procurado Terra Gloria da última vez.",
+        "pt": "[Crux]\nNão podemos deixar o trono vazio para sempre.\nRealizaremos uma nova cerimônia de coroação.\nFoi graças a você! Por ter procurado a Terra Gloria.",
         "es": "[Crux]\nNo podemos dejar el trono vacío para siempre.\nHemos celebrado una ceremonia de bendición de forma sencilla.\nEs gracias a que la última vez fuiste a buscar Terra Gloria."
     },
     "xxvbBw": {
         "ko": "[크룩스]\n왕가의 분들도 다들 모험가님께 고마움을 전하고 싶어 하세요.\n물론 저희 가문의 아가씨들도.\n지금이라도 출발하면 ….",
         "en": "[Crux]\nThe royal family also wishes to express their gratitude to you.\nOf course, the young ladies of our family as well.\nIf we depart even now….",
-        "pt": "[Crux]\nA família real também quer agradecer ao aventureiro.\nE, claro, as jovens senhoritas da nossa família também.\nSe partirmos agora mesmo….",
-        "es": "[Crux]\nLos miembros de la familia real también quieren expresarle su gratitud, aventurero.\nY, por supuesto, también las jóvenes de nuestra familia.\nSi partimos ahora mismo…."
+        "pt": "[Crux]\nA família real quer lhe agradecer.\nEspecialmente as jovens senhoritas da família Nerius.\nSe partirmos agora mesmo...",
+        "es": "[Crux]\nLos miembros de la familia real también quieren expresarle su gratitud, trotamundos.\nY, por supuesto, también las jóvenes de nuestra familia.\nSi partimos ahora mismo…."
     },
     "yBvbBw": {
         "ko": "[크룩스]\n대관식에 늦지 않게 당도할 거에요.\n직접 모시러 왔습니다.",
         "en": "[Crux]\nWe will arrive in time for the coronation.\nI came to escort you in person.",
-        "pt": "[Crux]\nChegaremos a tempo, sem nos atrasarmos para a coroação.\nVim pessoalmente para acompanhá-lo.",
+        "pt": "[Crux]\nChegaremos a tempo, sem nos atrasarmos para a coroação.\nVim pessoalmente para buscar você.",
         "es": "[Crux]\nLlegaremos a tiempo para la coronación.\nHe venido personalmente a acompañarle."
     },
     "yRvbBw": {
@@ -62,44 +62,44 @@
     "yhvbBw": {
         "ko": "지금 바로 출발",
         "en": "Depart right away",
-        "pt": "Partir agora mesmo",
+        "pt": "Vamos!",
         "es": "Partir ahora mismo"
     },
     "yxvbBw": {
         "ko": "조금 있다가 출발",
         "en": "Depart a little later",
-        "pt": "Partir um pouco mais tarde",
+        "pt": "Espere um pouco!",
         "es": "Partir un poco más tarde"
     },
     "zBvbBw": {
         "ko": "[필로폰테스]\n다른 분들께는 제가 설명해 두겠습니다.\n다녀오십시오.",
-        "en": "[Philopontes]\nI will explain it to the others.\nPlease go.",
-        "pt": "[Philopontes]\nEu explicarei aos outros.\nVá e volte em segurança.",
-        "es": "[Philopontes]\nYo se lo explicaré a los demás.\nVaya y vuelva."
+        "en": "[Philopontesss]\nI will explain it to the others.\nPlease go.",
+        "pt": "[Tess]\nEu explicarei aos outros a sua situação.\nVá e volte em segurança.",
+        "es": "[Philopontess]\nYo se lo explicaré a los demás.\nVaya y vuelva."
     },
     "zRvbBw": {
         "ko": "[크룩스]\n그럼 모시겠습니다.",
         "en": "[Crux]\nThen I will escort you.",
-        "pt": "[Crux]\nEntão, eu o acompanharei.",
+        "pt": "[Crux]\nBem, vou acompanhar você até lá.",
         "es": "[Crux]\nEntonces, le acompañaré."
     },
     "zhvbBw": {
         "ko": "[크룩스]\n그럴까요? 하긴 이쪽 일정이 있으시죠.\n그러면 전 어디에서 기다리면 될까요?",
         "en": "[Crux]\nShall we? Well, you do have matters here.\nThen where should I wait?",
-        "pt": "[Crux]\nCerto? Bem, você tem compromissos por aqui.\nEntão, onde devo esperar?",
+        "pt": "[Crux]\nAh é? Bem, você deve ter compromissos por aqui.\nEntão, onde devo esperar?",
         "es": "[Crux]\n¿Le parece bien? Claro, tiene asuntos aquí.\nEntonces, ¿dónde debería esperarlo?"
     },
     "zxvbBw": {
         "ko": "[필로폰테스]\n바로 위 쪽에 사용인들의 숙소가 있습니다.\n휴게실을 리벨리온 분들이 같이 사용하고 있으니 거기에서 기다리시는게 어떻습니까?",
-        "en": "[Philopontes]\nThere are servants' quarters just up ahead.\nThe lounge is shared with the people of Rebellion, so how about waiting there?",
-        "pt": "[Philopontes]\nLogo acima há os alojamentos dos serviçais.\nComo os membros da Rebellion também usam a sala de descanso, que tal esperar lá?",
-        "es": "[Philopontes]\nJusto arriba están los alojamientos de los sirvientes.\nLa sala de descanso la usan también los de Rebellion, así que ¿qué le parece esperar allí?"
+        "en": "[Philopontesss]\nThere are servants' quarters just up ahead.\nThe lounge is shared with the people of Rebellion, so how about waiting there?",
+        "pt": "[Tess]\nExiste um dormitório para as serventes ao norte daqui.\nComo os membros da Rebelião também usam a sala de descanso, que tal esperar lá?",
+        "es": "[Philopontess]\nJusto arriba están los alojamientos de los sirvientes.\nLa sala de descanso la usan también los de Rebellion, así que ¿qué le parece esperar allí?"
     },
     "0BvbBw": {
         "ko": "[크룩스]\n그럴까요?\n그럼 사용인 숙소의 휴게실에서 기다리고 있겠습니다.\n이따 뵙지요.\n{0} 님.",
-        "en": "[Crux]\nShall we?\nThen I will wait in the lounge of the servants' quarters.\nSee you later.\n{0} 님.",
-        "pt": "[Crux]\nCerto?\nEntão, estarei esperando na sala de descanso do alojamento dos serviçais.\nAté mais.\nSr. {0}.",
-        "es": "[Crux]\n¿Le parece bien?\nEntonces estaré esperando en la sala de descanso de los alojamientos de los sirvientes.\nNos vemos luego.\n{0} 님."
+        "en": "[Crux]\nShall we?\nThen I will wait in the lounge of the servants' quarters.\nSee you later.\n{0}.",
+        "pt": "[Crux]\nAh é?\nEntão, estarei esperando na sala de descanso do dormitório.\nAté mais.\n{0}.",
+        "es": "[Crux]\n¿Le parece bien?\nEntonces estaré esperando en la sala de descanso de los alojamientos de los sirvientes.\nNos vemos luego.\n{0}."
     },
     "0RvbBw": {
         "ko": "저도 이만 물러나겠습니다.",
@@ -110,7 +110,7 @@
     "0hvbBw": {
         "ko": "[크룩스]\n궁으로 지금 모셔도 될까요?",
         "en": "[Crux]\nMay I escort you to the palace now?",
-        "pt": "[Crux]\nPosso acompanhá-lo ao palácio agora?",
+        "pt": "[Crux]\nPosso acompanhar você ao palácio agora?",
         "es": "[Crux]\n¿Puedo acompañarle al palacio ahora?"
     },
     "0xvbBw": {
@@ -122,91 +122,91 @@
     "1BvbBw": {
         "ko": "[크룩스]\n뭐 그건 그거고. 지금 출발 할까요?",
         "en": "[Crux]\nWell, that’s that. Shall we depart now?",
-        "pt": "[Crux]\nBem, isso é isso. Vamos partir agora?",
+        "pt": "[Crux]\nBem, é isso. Vamos partir agora?",
         "es": "[Crux]\nBueno, eso es eso. ¿Partimos ahora?"
     },
     "1RvbBw": {
         "ko": "[크룩스]\n여전히 바쁘시군요.\n기다리겠습니다.",
         "en": "[Crux]\nYou’re still busy, I see.\nI will wait.",
-        "pt": "[Crux]\nVocê continua ocupado.\nVou esperar.",
+        "pt": "[Crux]\nVocê ainda está sem tempo?\nVou esperar.",
         "es": "[Crux]\nSigues ocupado.\nEsperaré."
     },
     "1hvbBw": {
         "ko": "크룩스의 안내로 도착한 프론테라 왕궁은 기묘한 흥분에 사로잡혀 있었다.",
         "en": "With Crux as my guide, the Prontera Royal Palace we arrived at was seized by a strange excitement.",
-        "pt": "O Palácio Real de Prontera, ao qual chegamos guiados por Crux, estava tomado por uma estranha excitação.",
+        "pt": "O Palácio Real de Prontera estava estranhamente animado.",
         "es": "Con la guía de Crux, el palacio real de Prontera al que llegamos estaba envuelto en una extraña excitación."
     },
     "1xvbBw": {
         "ko": "거대한 홀을 메운 인사들은 언젠가 보았던 왕가의 왕족과 귀족.",
         "en": "The people filling the vast hall were royalty and nobles of the royal family I had seen before.",
-        "pt": "As pessoas que enchiam o enorme salão eram membros da realeza e nobres que eu já tinha visto em algum momento.",
+        "pt": "Conhecidos membros da realeza encheram o salão.",
         "es": "Los saludos que llenaban el enorme salón eran miembros de la realeza y nobles de la casa real que había visto alguna vez."
     },
     "2BvbBw": {
         "ko": "길게 뻗은 붉은 길 끝에 언젠가 보았던 청년이, 무릎을 꿇고 머리에 관을 올리고 있었다.",
-        "en": "At the end of the long red path, the young man I had seen before was kneeling, placing a crown upon Head.",
-        "pt": "No fim do longo caminho vermelho, o jovem que eu já tinha visto em algum momento estava ajoelhado e colocando uma coroa sobre Cabeça.",
-        "es": "Al final del largo camino rojo, el joven que había visto alguna vez estaba arrodillado y colocaba una corona sobre Cabeza."
+        "en": "At the end of the long red path, the young man I had seen before was kneeling, being crowned.",
+        "pt": "No fim do caminho vermelho, um jovem familiar estava ajoelhado e recebendo uma coroa sobre a cabeça.",
+        "es": "Al final del largo camino rojo, el joven que había visto alguna vez estaba arrodillado, siendo coronado."
     },
     "2RvbBw": {
         "ko": "잃어버렸던 영광을 되찾아 명예를 회복한 그가",
         "en": "He, who had regained the glory he had lost and restored his honor,",
-        "pt": "Ele, que recuperou a glória que havia perdido e restaurou sua honra,",
+        "pt": "Ele, que recuperou a glória que havia perdido e restaurou sua honra.",
         "es": "Él, que había recuperado la gloria perdida y restaurado su honor,"
     },
     "2hvbBw": {
         "ko": "허무와 불운을 이름으로 가지고 있던 그가",
-        "en": "He, who bore emptiness and misfortune as his name,",
-        "pt": "Ele, que tinha o vazio e o azar como nome,",
-        "es": "Él, que llevaba el vacío y la mala suerte como nombre,"
+        "en": "He, who bore misery and misfortune as his name,",
+        "pt": "Ele, que tinha a miséria como sobrenome.",
+        "es": "Él, que llevaba la miseria y la mala suerte como nombre,"
     },
     "2xvbBw": {
         "ko": "지난 시간 나와 함께 하고서야 겨우 세상을 보았던 그가",
         "en": "He, who only managed to truly see the world after spending time with me,",
-        "pt": "Ele, que só depois de passar o tempo comigo conseguiu enfim ver o mundo,",
+        "pt": "Ele, que conseguiu ver o mundo depois que eu o mostrei.",
         "es": "Él, que solo después de pasar el tiempo conmigo por fin había logrado ver el mundo,"
     },
     "3BvbBw": {
         "ko": "영광이라는 이름의 관을 쓰고 대지를 향해 그 머리를 숙이고 있었다.",
-        "en": "Wearing a crown named glory, he was bowing that Head toward the earth.",
-        "pt": "Usava a coroa chamada glória e inclinava Cabeça em direção à terra.",
-        "es": "Llevaba la corona llamada gloria y inclinaba esa Cabeza hacia la tierra."
+        "en": "Wearing a crown named glory, he was bowing that head toward the earth.",
+        "pt": "Usava a coroa chamada Terra Gloria.",
+        "es": "Llevaba la corona llamada gloria y inclinaba esa cabeza hacia la tierra."
     },
     "3RvbBw": {
         "ko": "새로운 시간이 흐를 것임이 천명되는 순간.",
         "en": "The moment it is proclaimed that a new time will flow.",
-        "pt": "O momento em que se proclama que um novo tempo irá correr.",
+        "pt": "É o momento em que uma nova era começa.",
         "es": "El momento en que se proclama que fluirá un nuevo tiempo."
     },
     "3hvbBw": {
         "ko": "그 시간의 흐름 중앙에 내가 서 있다는 사실에 심장이 거세게 뛰기 시작한다.",
         "en": "At the fact that I am standing at the center of that flow of time, my heart begins to pound fiercely.",
-        "pt": "Ao perceber que estou no centro do fluxo desse tempo, meu coração começa a bater com força.",
+        "pt": "Ao lembrar que fiz parte dessa mudança, meu coração acelera.",
         "es": "Al saber que estoy en el centro del fluir de ese tiempo, mi corazón empieza a latir con fuerza."
     },
     "3xvbBw": {
         "ko": "이제까지 내가 걸어온 길이 틀리지 않았다는 것을 증명받는다.",
         "en": "I am proven that the path I have walked until now was not wrong.",
-        "pt": "Sou confirmado de que o caminho que percorri até agora não estava errado.",
+        "pt": "Alegro-me de pensar que o caminho andei não era o errado.",
         "es": "Se me confirma que el camino que he recorrido hasta ahora no estaba equivocado."
     },
     "4BvbBw": {
         "ko": "긴 모험의 끝에 내 손으로 인도한 왕좌 앞에 선 저 청년은",
         "en": "That young man standing before the throne I led to with my own hands at the end of a long adventure",
-        "pt": "Aquele jovem, que está diante do trono para o qual eu o conduzi com minhas próprias mãos ao fim de uma longa aventura,",
+        "pt": "O fim dessa longa aventura é ver aquele jovem que eu ajudei, diante do trono.",
         "es": "Ese joven que está ante el trono al que guié con mis propias manos al final de una larga aventura"
     },
     "4RvbBw": {
         "ko": "선택받지 못한 자의 슬픔을 알고, 되돌릴 수 없는 과거의 아픔을 안다.",
         "en": "knows the sorrow of one who was not chosen, and knows the pain of an irreversible past.",
-        "pt": "Conhece a tristeza de quem não foi escolhido e conhece a dor de um passado irreversível.",
+        "pt": "Ele carrega consigo a tristeza de não ter sido escolhido pela primeira vez.",
         "es": "Conoce la tristeza de quien no fue elegido, y conoce el dolor de un pasado que no se puede revertir."
     },
     "4hvbBw": {
         "ko": "미래를 향해 일어설 줄 알고, 독단적이지 않고 도움을 구할 줄 안다.",
         "en": "He knows how to rise toward the future, and is not self-willed, and knows how to ask for help.",
-        "pt": "Sabe se erguer em direção ao futuro, não é arbitrário e sabe pedir ajuda.",
+        "pt": "Mas soube se reerguer e caminhar em direção ao futuro, sem medo de pedir ajuda.",
         "es": "Sabe levantarse hacia el futuro, no es arbitrario y sabe pedir ayuda."
     },
     "4xvbBw": {
@@ -218,37 +218,37 @@
     "5BvbBw": {
         "ko": "시종 벨",
         "en": "Attendant Bell",
-        "pt": "Ajudante Bell",
+        "pt": "Camareiro Belle",
         "es": "Attendant Bell"
     },
     "5RvbBw": {
         "ko": "[벨]\n안내를 위해 기다리고 있었습니다.\n어디로 모실까요?",
         "en": "[Bell]\nI have been waiting to guide you.\nWhere shall I escort you?",
-        "pt": "[Bell]\nEu estava esperando para guiá-lo.\nPara onde devo acompanhá-lo?",
+        "pt": "[Belle]\nEu estava esperando por você.\nPara onde devo lhe guiar?",
         "es": "[Campana]\nEstaba esperando para guiarle.\n¿Adónde desea que le acompañe?"
     },
     "5hvbBw": {
         "ko": "집무실로",
         "en": "To the office.",
-        "pt": "Para o gabinete",
+        "pt": "Para meus aposentos.",
         "es": "Al despacho"
     },
     "5xvbBw": {
         "ko": "밖으로",
         "en": "Outside.",
-        "pt": "Para fora",
+        "pt": "Para fora daqui.",
         "es": "Afuera"
     },
     "6BvbBw": {
         "ko": "[벨]\n이쪽입니다.",
         "en": "[Bell]\nThis way.",
-        "pt": "[Bel]\nÉ por aqui.",
+        "pt": "[Belle]\nÉ por aqui.",
         "es": "[Bel]\nEs por aquí."
     },
     "6RvbBw": {
         "ko": "[벨]\n모시겠습니다.",
         "en": "[Bell]\nRight this way.",
-        "pt": "[Bel]\nVou acompanhá-lo.",
+        "pt": "[Belle]\nVou lhe acompanhar.",
         "es": "[Bel]\nLe acompañaré."
     },
     "6hvbBw": {
@@ -260,19 +260,19 @@
     "6xvbBw": {
         "ko": "[니힐]\n반가운 손님이 오셨군!\n이런 모습으로 마주하게 될 줄은 몰랐네.\n바쁜 와중에 와주어서 고마워.",
         "en": "[Nyhill]\nA welcome guest has arrived!\nI never thought we would meet like this.\nThank you for coming even though you are busy.",
-        "pt": "[Nihill]\nEntão um visitante bem-vindo chegou!\nNão imaginei que nos encontraríamos assim.\nObrigado por vir, mesmo estando ocupado.",
+        "pt": "[Nihill]\nOh, veja só quem chegou!\nNão imaginei que nos encontraríamos assim.\nObrigado por vir, mesmo estando sem tempo.",
         "es": "[Nyhill]\n¡Ha llegado un visitante bienvenido!\nNo imaginé que nos encontraríamos en estas circunstancias.\nGracias por venir en medio de tanto ajetreo."
     },
     "7BvbBw": {
         "ko": "보기 좋다.",
         "en": "You look good.",
-        "pt": "Fica bem em você.",
+        "pt": "A coroa fica bem em você.",
         "es": "Te ves bien."
     },
     "7RvbBw": {
         "ko": "[니힐]\n남의 옷을 입은 듯 어색한데 ….\n아직도 이래도 되는 걸까 하는 의문이 속을 채우고 있지.\n정말 괜찮은 걸까? 하고 말이야.",
         "en": "[Nyhill]\nIt feels awkward, like I am wearing someone else’s clothes ….\nI am still filled with doubts about whether it is really all right to do this.\nIs it truly all right? That is what I mean.",
-        "pt": "[Nihill]\nSinto-me estranho, como se estivesse vestindo as roupas de outra pessoa…\nAinda estou cheio da dúvida se isso realmente está certo.\nSerá que está mesmo tudo bem? É o que quero dizer.",
+        "pt": "[Nihill]\nSinto-me estranho, como se estivesse vestindo as roupas de outra pessoa...\nAinda estou cheio da dúvida se isso realmente está certo.\nSerá que está mesmo tudo bem? Não consigo parar de pensar nisso.",
         "es": "[Nyhill]\nMe siento incómodo, como si llevara la ropa de otra persona...\nAún tengo dudas por dentro sobre si de verdad está bien que haga esto.\n¿De verdad está bien? Eso es lo que digo."
     },
     "7hvbBw": {
@@ -283,26 +283,26 @@
     },
     "7xvbBw": {
         "ko": "[니힐]\n그대가 그리 말해준다면 믿어야지.\n그대가 믿는 나를 말이야.\n언젠가 내가 어긋난 길을 가려한다면 말려줄 거지?",
-        "en": "[Nyhill]\nIf you say so, then I should believe it.\nThe me that you believe in.\nIf I ever try to walk a misguided path, you will stop me, will you?",
-        "pt": "[Nihill]\nSe você diz isso, então devo acreditar.\nAcreditar em mim, em quem você confia.\nSe algum dia eu tentar seguir por um caminho errado, você vai me impedir, não vai?",
+        "en": "[Nyhill]\nIf you say so, then I should believe it.\nYou believed in me.\nIf I ever try to walk a misguided path, you will stop me, won't you?",
+        "pt": "[Nihill]\nSe você diz isso, então devo acreditar.\nEu preciso aprender a acreditar mais em mim também.\nSe algum dia eu tentar seguir por um caminho errado, você vai me impedir, não vai?",
         "es": "[Nyhill]\nSi tú lo dices, debo creerlo.\nCreer en mí, en quien tú confías.\nSi algún día intento ir por un camino equivocado, me detendrás, ¿verdad?"
     },
     "8BvbBw": {
         "ko": "[니힐]\n그러리라 믿네.\n그대는 올곧은 자니까.\n그리고",
         "en": "[Nyhill]\nI believe you will.\nBecause you are an upright person.\nAnd",
-        "pt": "[Nihill]\nAcredito que sim.\nPorque você é alguém íntegro.\nE",
+        "pt": "[Nihill]\nEu tenho certeza de que sim.\nPorque você tem dignidade e integridade.\nE muito mais.",
         "es": "[Nyhill]\nCreo que así será.\nPorque eres alguien recto.\nY además"
     },
     "8RvbBw": {
         "ko": "[니힐]\n그대도 언제든 쉬고 싶을땐 쉬어.\n혼자만 있는 게 아니잖나.",
         "en": "[Nyhill]\nYou should rest whenever you want to, too.\nYou are not alone.",
-        "pt": "[Nihill]\nVocê também, quando quiser descansar, descanse.\nVocê não está sozinho.",
+        "pt": "[Nihill]\nVocê deveria descansar quando puder.\nNão se sinta só.",
         "es": "[Nyhill]\nTú también, cuando quieras descansar, descansa.\nNo estás solo."
     },
     "8hvbBw": {
         "ko": "[니힐]\n그대를 볼 수 있는 것도 지금 잠시뿐이라네.\n곧 업무 인계를 받아야 하니까.",
         "en": "[Nyhill]\nI can only see you for a short while right now.\nI will soon have to take over the work.",
-        "pt": "[Nihill]\nSó posso vê-lo por um breve momento agora.\nPorque logo terei de receber a transferência das tarefas.",
+        "pt": "[Nihill]\nAgora, só posso ver você por um breve momento.\nPorque logo terei de receber a transferência das tarefas.",
         "es": "[Nyhill]\nSolo por un momento puedo verte ahora.\nPronto tendré que recibir el relevo del trabajo."
     },
     "8xvbBw": {

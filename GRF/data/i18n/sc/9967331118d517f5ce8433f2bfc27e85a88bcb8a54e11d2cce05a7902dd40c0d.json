@@ -1,15 +1,15 @@
 {
     "oK/fBw": {
         "ko": "짹",
-        "en": "Jjack",
-        "pt": "Jjack",
-        "es": "Jjack"
+        "en": "Twity",
+        "pt": "Sibila",
+        "es": "Silbida"
     },
     "oa/fBw": {
         "ko": "[짹]\n이곳은 위험물이 많은 곳입니다. 몸을 지킬 수 있을 정도가 됐을 때 다시 이용해주십시오.",
-        "en": "[Jjack]\nThis place is full of dangerous items. Please use it again when you are strong enough to protect yourself.",
-        "pt": "[Jjack]\nEste é um local com muitos materiais perigosos. Utilize novamente quando tiver força suficiente para se proteger.",
-        "es": "[Jjack]\nEste lugar está lleno de objetos peligrosos. Por favor, vuelva a utilizarlo cuando sea capaz de protegerse."
+        "en": "[Twity]\nThis place is full of dangerous items. Please use it again when you are strong enough to protect yourself.",
+        "pt": "[Sibila]\nEste é um local com muitos materiais perigosos. Venha quando tiver força suficiente para se proteger.",
+        "es": "[Silbida]\nEste lugar está lleno de objetos peligrosos. Por favor, vuelva a utilizarlo cuando sea capaz de protegerse."
     },
     "oq/fBw": {
         "ko": "- 160레벨부터 수행 가능한 퀘스트입니다. -",
@@ -25,45 +25,45 @@
     },
     "pK/fBw": {
         "ko": "[짹]\n이것이 대체 무슨 난장판이야. 어떻게 여기까지 들어와서 이래. 열쇠도 없는 것들이.",
-        "en": "[Jjack]\nWhat in the world is this mess? How did you get in here and do this? You lot don’t even have a key.",
-        "pt": "[Jjack]\nMas que confusão é essa? Como conseguiram entrar até aqui assim, sem sequer terem a chave.",
-        "es": "[Jjack]\n¿Qué demonios es este desastre? ¿Cómo han entrado hasta aquí para hacer esto? Ni siquiera tienen llave."
+        "en": "[Twity]\nWhat in the world is this mess? How did you get in here and do this? You lot don’t even have a key.",
+        "pt": "[Sibila]\nMas que confusão é essa? Como conseguiu entrar sem sequer ter uma chave?",
+        "es": "[Silbida]\n¿Qué demonios es este desastre? ¿Cómo han entrado hasta aquí para hacer esto? Ni siquiera tienen llave."
     },
     "pa/fBw": {
         "ko": "여긴 뭐하는 곳인가요?",
         "en": "What is this place?",
-        "pt": "O que é este lugar?",
+        "pt": "Que lugar é esse?",
         "es": "¿Qué clase de lugar es este?"
     },
     "pq/fBw": {
         "ko": "귀찮은 일에 휘말릴것 같으니 돌아가자.",
         "en": "It feels like we’ll get dragged into something troublesome, so let’s go back.",
-        "pt": "Parece problemático. Melhor voltar.",
+        "pt": "Eu vou embora.",
         "es": "Parece que me voy a ver envuelto en algo molesto, así que volvamos."
     },
     "p6/fBw": {
         "ko": "[짹]\n그나저나 이를 어쩐다지.",
-        "en": "[Jjack]\nStill, what should I do about this?",
-        "pt": "[Jjack]\nO que devo fazer com isso...",
-        "es": "[Jjack]\nEn fin... ¿qué se supone que haga con esto?"
+        "en": "[Twity]\nStill, what should I do about this?",
+        "pt": "[Sibila]\nMas agora, o que fazer...",
+        "es": "[Silbida]\nEn fin... ¿qué se supone que haga con esto?"
     },
     "qK/fBw": {
         "ko": "[짹]\n인간?\n게다가... 손님?",
-        "en": "[Jjack]\nA human?\nAnd... a guest?",
-        "pt": "[Jjack]\nHumano?\nE ainda por cima... um convidado?",
-        "es": "[Jjack]\n¿Un humano?\nY además... ¿un invitado?"
+        "en": "[Twity]\nA human?\nAnd... a guest?",
+        "pt": "[Sibila]\nHã?\nVocê é... nosso hóspede?",
+        "es": "[Silbida]\n¿Un humano?\nY además... ¿un invitado?"
     },
     "qa/fBw": {
         "ko": "[짹]\n그새를 못참고 저택의 설계도를 찾으러 직접 왔습니까? 기다리고 있으면 가져다 줄 것을. 인간은 참을성이 부족하다는 말이 기억나는군요.",
-        "en": "[Jjack]\nCould you not bear to wait and came in person to find the mansion’s blueprint? If you waited, I would have brought it to you. I recall hearing that humans lack patience.",
-        "pt": "[Jjack]\nNão conseguiu esperar e veio pessoalmente buscar a planta da mansão? Eu teria levado até você se aguardasse. Lembro-me de dizerem que os humanos carecem de paciência.",
-        "es": "[Jjack]\n¿No pudo esperar y vino en persona a buscar los planos de la mansión? Si se hubiera quedado esperando, se los habrían traído. Recuerdo haber oído que los humanos carecen de paciencia."
+        "en": "[Twity]\nCould you not bear to wait and came in person to find the mansion’s blueprint? If you waited, I would have brought it to you. I recall hearing that humans lack patience.",
+        "pt": "[Sibila]\nNão aguentou esperar e veio pessoalmente buscar a planta-baixa da mansão? Eu teria trazido se você esperasse. Dizem que os humanos são impacientes mesmo.",
+        "es": "[Silbida]\n¿No pudo esperar y vino en persona a buscar los planos de la mansión? Si se hubiera quedado esperando, se los habrían traído. Recuerdo haber oído que los humanos carecen de paciencia."
     },
     "qq/fBw": {
         "ko": "[짹]\n이곳은 바르문트 저택의 제 2창고입니다.",
-        "en": "[Jjack]\nThis is the second warehouse of the Varmundt mansion.",
-        "pt": "[Jjack]\nEste é o Segundo Armazém da mansão Varmundt.",
-        "es": "[Jjack]\nEste es el segundo almacén de la mansión de Varmundt."
+        "en": "[Twity]\nThis is the second warehouse of the Varmunt mansion.",
+        "pt": "[Sibila]\nEste é o Armazém da mansão Varmunt.",
+        "es": "[Silbida]\nEste es el segundo almacén de la mansión de Varmunt."
     },
     "q6/fBw": {
         "ko": "창고...?",
@@ -73,9 +73,9 @@
     },
     "rK/fBw": {
         "ko": "[짹]\n아, 혹시 바깥 인간들에겐 창고란 개념이 없습니까? 창고는 지금 당장은 쓰지 않는 물건을 보관하는 곳입니다.",
-        "en": "[Jjack]\nAh, do the humans outside perhaps not have the concept of a warehouse? A warehouse is a place where you store items you are not using right now.",
-        "pt": "[Jjack]\nAh, será que para os humanos de fora o conceito de armazém não existe? Um armazém é o local onde se guardam itens que não são utilizados no momento.",
-        "es": "[Jjack]\nAh, ¿acaso los humanos de fuera no tienen el concepto de almacén? Un almacén es un lugar donde se guardan objetos que no se usan por el momento."
+        "en": "[Twity]\nAh, do the humans outside perhaps not have the concept of a warehouse? A warehouse is a place where you store items you are not using right now.",
+        "pt": "[Sibila]\nAh, será que os humanos não têm o conceito de armazém? Armazém é um lugar onde guardamos coisas que não usamos no momento.",
+        "es": "[Silbida]\nAh, ¿acaso los humanos de fuera no tienen el concepto de almacén? Un almacén es un lugar donde se guardan objetos que no se usan por el momento."
     },
     "ra/fBw": {
         "ko": "그건 알아요!",
@@ -85,69 +85,69 @@
     },
     "rq/fBw": {
         "ko": "[짹]\n손님들께서 요청하신 설계도와 식당에서 쓸 식재료를 가질러 왔습니다만. 제가 못미더워서 직접 오셨습니까? 걱정마십시오.",
-        "en": "[Jjack]\nI came to fetch the blueprint you guests requested, and the ingredients to use in the dining hall. Did you come in person because you do not trust me? Do not worry.",
-        "pt": "[Jjack]\nVim buscar a planta solicitada e os ingredientes que serão usados no refeitório. Veio pessoalmente porque não confia em mim? Não se preocupe.",
-        "es": "[Jjack]\nVine a recoger los planos que solicitaron los invitados y los ingredientes que se usarán en el comedor. ¿Vino en persona porque no confía en mí? No se preocupe."
+        "en": "[Twity]\nI came to fetch the blueprint you guests requested, and the ingredients to use in the dining hall. Did you come in person because you do not trust me? Do not worry.",
+        "pt": "[Sibila]\nVim buscar a planta-baixa que os visitantes solicitaram e os ingredientes para a cozinha. Veio pessoalmente porque não confia em mim? Não se preocupe.",
+        "es": "[Silbida]\nVine a recoger los planos que solicitaron los invitados y los ingredientes que se usarán en el comedor. ¿Vino en persona porque no confía en mí? No se preocupe."
     },
     "r6/fBw": {
         "ko": "[짹]\n저는 아주 오랜기간 창고를 전담하고 있어 보관한지 오래되거나 아주 작은 물건이라도 금세 찾을 수 있습니다. 물론 설계도의 위치도 기억하고 있습니다.",
-        "en": "[Jjack]\nI have been in charge of the warehouse for a very long time, so I can quickly find even items that have been stored for a long time, or very small items. Of course, I also remember where the blueprint is.",
-        "pt": "[Jjack]\nEstou encarregado deste armazém há muito tempo. Mesmo itens guardados há anos ou objetos minúsculos, encontro rapidamente. Naturalmente, também me lembro da localização da planta.",
-        "es": "[Jjack]\nLlevo muchísimo tiempo a cargo del almacén, así que puedo encontrar enseguida incluso objetos guardados hace mucho o muy pequeños. Por supuesto, también recuerdo la ubicación de los planos."
+        "en": "[Twity]\nI have been in charge of the warehouse for a very long time, so I can quickly find even items that have been stored for a long time, or very small items. Of course, I also remember where the blueprint is.",
+        "pt": "[Sibila]\nEstou encarregada do armazém há muito tempo, então posso encontrar rapidamente qualquer coisa. É claro, também me lembro da localização de cada item.",
+        "es": "[Silbida]\nLlevo muchísimo tiempo a cargo del almacén, así que puedo encontrar enseguida incluso objetos guardados hace mucho o muy pequeños. Por supuesto, también recuerdo la ubicación de los planos."
     },
     "sK/fBw": {
         "ko": "[짹]\n저는 자동인형이니까요. 기억의 퇴색 같은 것은 없습니다.",
-        "en": "[Jjack]\nBecause I am an automaton. There is no such thing as fading memory.",
-        "pt": "[Jjack]\nAfinal, sou uma autômata. Não existe algo como deterioração da memória.",
-        "es": "[Jjack]\nPorque soy una muñeca automática. No existe algo como el deterioro de la memoria."
+        "en": "[Twity]\nBecause I am an automatron. There is no such thing as fading memory.",
+        "pt": "[Sibila]\nAfinal, sou uma autômata. Nossa memória não deteriora.",
+        "es": "[Silbida]\nPorque soy una muñeca automática. No existe algo como el deterioro de la memoria."
     },
     "sa/fBw": {
         "ko": "설계도를 찾으러 온 것이 아녜요.",
         "en": "I didn’t come to find the blueprint.",
-        "pt": "Não vim buscar a planta.",
+        "pt": "Não vim buscar planta-baixa.",
         "es": "No he venido a buscar los planos."
     },
     "sq/fBw": {
         "ko": "여기 굉장히 복잡하네요.",
         "en": "This place is very complicated.",
-        "pt": "É bastante complexo aqui.",
+        "pt": "Este lugar é muito confuso.",
         "es": "Esto es bastante complicado aquí."
     },
     "s6/fBw": {
         "ko": "[짹]\n그렇습니까? 오해를 했습니다. 창고를 구경하는 인간이 있을 거라고는 생각하지 못했습니다. 여기까지 오는 인간들은 보통 도둑들이었기 때문에.",
-        "en": "[Jjack]\nIs that so? I misunderstood. I did not think there would be a human who would come to look around the warehouse. Because the humans who came here were usually thieves.",
-        "pt": "[Jjack]\nÉ mesmo? Peço desculpas pelo engano. Não imaginei que um humano viesse apenas para observar o armazém. Os humanos que chegam até aqui normalmente são ladrões.",
-        "es": "[Jjack]\n¿Ah, sí? Me equivoqué. No pensé que hubiera humanos que vinieran a ver el almacén. Porque los humanos que llegaban hasta aquí solían ser ladrones."
+        "en": "[Twity]\nIs that so? I misunderstood. I did not think there would be a human who would come to look around the warehouse. Because the humans who came here were usually thieves.",
+        "pt": "[Sibila]\nÉ mesmo? Peço desculpas pelo engano. Não imaginei que alguém viesse apenas para visitar. Os humanos que chegam até aqui normalmente são ladrões.",
+        "es": "[Silbida]\n¿Ah, sí? Me equivoqué. No pensé que hubiera humanos que vinieran a ver el almacén. Porque los humanos que llegaban hasta aquí solían ser ladrones."
     },
     "tK/fBw": {
         "ko": "[짹]\n그렇다고 손님이 도둑이라는 소리는 아닙니다. 그랬다면 손님 자격을 얻지 못하셨을 테니까요. 바르문트 저택이 아무나 손님으로 초대하지는 않습니다.",
-        "en": "[Jjack]\nI am not saying you are a thief. If you were, you would not have been granted the right to be a guest. The Varmundt estate does not invite just anyone as a guest.",
-        "pt": "[Jjack]\nNão estou dizendo que o senhor seja um ladrão. Se fosse, não teria obtido o status de convidado. A mansão Varmundt não convida qualquer um.",
-        "es": "[Jjack]\nEso no significa que esté diciendo que el cliente sea un ladrón. Si así fuera, no habría obtenido la condición de cliente. La mansión de Varmundt no invita a cualquiera como cliente."
+        "en": "[Twity]\nI am not saying you are a thief. If you were, you would not have been granted the right to be a guest. The Varmunt estate does not invite just anyone as a guest.",
+        "pt": "[Sibila]\nNão estou dizendo que você seja um ladrão. Se fosse, não teria obtido o status de visitante. A mansão Varmunt não convida qualquer um.",
+        "es": "[Silbida]\nEso no significa que esté diciendo que el cliente sea un ladrón. Si así fuera, no habría obtenido la condición de cliente. La mansión de Varmunt no invita a cualquiera como cliente."
     },
     "ta/fBw": {
         "ko": "[짹]\n설사 그런 의도를 가지고 있다 하더라도 어차피 이곳에서 원하는 물건을 찾기란 쉽지 않을 겁니다.",
-        "en": "[Jjack]\nEven if you had such intentions, it would not be easy to find what you want in here anyway.",
-        "pt": "[Jjack]\nMesmo que alguém tivesse tal intenção, não seria fácil encontrar o que procura aqui.",
-        "es": "[Jjack]\nAunque tuviera esa intención, de todos modos no le será fácil encontrar aquí el objeto que desea."
+        "en": "[Twity]\nEven if you had such intentions, it would not be easy to find what you want in here anyway.",
+        "pt": "[Sibila]\nMesmo que alguém tivesse tal intenção, não seria fácil encontrar o que procura aqui.",
+        "es": "[Silbida]\nAunque tuviera esa intención, de todos modos no le será fácil encontrar aquí el objeto que desea."
     },
     "tq/fBw": {
         "ko": "[짹]\n아주 오래된 바르문트님의 창고이니 당연합니다. 대륙 곳곳에서 가지고 온 물건들을 두다 보니 자리가 부족해 증개축을 거듭해서 그렇습니다.",
-        "en": "[Jjack]\nThat is only natural, as this is Lord Varmundt's very old warehouse. It is because we kept storing items brought from all over the continent, and even Bonnie ran out of space, so we repeatedly expanded and remodeled it.",
-        "pt": "[Jjack]\nEste é o antigo armazém do senhor Varmundt. Objetos trazidos de todo o continente foram acumulados aqui, e como faltou espaço até para Bonnie, passaram por diversas ampliações.",
-        "es": "[Jjack]\nEs natural, pues es el almacén de Lord Varmundt, muy antiguo. Se debe a que, al guardar objetos traídos de todo el continente, Bonnie faltaba espacio y se repitieron ampliaciones y remodelaciones."
+        "en": "[Twity]\nThat is only natural, as this is Lord Varmunt's very old warehouse. It is because we kept storing items brought from all over the continent, and even our warehouses ran out of space, so we repeatedly expanded and remodeled it.",
+        "pt": "[Sibila]\nEste é o antigo armazém do Mestre Varmunt. Ao guardar itens trazidos de vários lugares do continente, o espaço ficou insuficiente e passou por expansões.",
+        "es": "[Silbida]\nEs natural, como es un almacén muy antiguo de Lord Varmunt. Es porque seguimos almacenando objetos traídos de todo el continente, e incluso nuestros almacenes se quedaron sin espacio; así que los expandimos y remodelamos repetidamente."
     },
     "t6/fBw": {
         "ko": "[짹]\n보기엔 물건과 선반들이 무질서하게 놓여진 복잡한 구조처럼 보여도 분류에 따라 두기 때문에 실제로 그리 복잡하지는 않습니다.",
-        "en": "[Jjack]\nIt may look like a complex structure with items and shelves placed in disorder, but since everything is stored by category, it is not actually that complicated.",
-        "pt": "[Jjack]\nEmbora pareça uma estrutura caótica, com itens e prateleiras desordenados, tudo é organizado por classificação, portanto não é tão complexo quanto aparenta.",
-        "es": "[Jjack]\nAunque a simple vista parezca una estructura compleja, con objetos y estanterías colocados sin orden, en realidad no es tan complicado porque se guardan según su clasificación."
+        "en": "[Twity]\nIt may look like a complex structure with items and shelves placed in disorder, but since everything is stored by category, it is not actually that complicated.",
+        "pt": "[Sibila]\nPode parecer uma estrutura confusa com itens e prateleiras dispostos desordenadamente, mas como são organizados por categoria, não é tão complicado na verdade.",
+        "es": "[Silbida]\nAunque a simple vista parezca una estructura compleja, con objetos y estanterías colocados sin orden, en realidad no es tan complicado porque se guardan según su clasificación."
     },
     "uK/fBw": {
         "ko": "[짹]\n이곳은 바깥에서 보는 것과는 달리 매우 큰 공간이기 때문에 가능한 일입니다. 그러니 안심하시고 돌아가서 기다리고 계시면 곧 갖다 드리겠... 으면 좋겠습니다만.",
-        "en": "[Jjack]\nThis is possible because, unlike how it looks from outside, this is a very large space. So please rest assured and return to wait, and I will bring it to you soon... I would like to say.",
-        "pt": "[Jjack]\nO espaço é muito maior do que parece visto de fora, o que torna isso possível. Portanto, pode voltar tranquilo e aguardar que logo levarei os itens... assim eu gostaria, porém.",
-        "es": "[Jjack]\nEsto es posible porque, a diferencia de lo que se ve desde fuera, este lugar es un espacio muy grande. Así que, quédese tranquilo, vuelva y espere, y pronto se lo traeré... ojalá."
+        "en": "[Twity]\nThis is possible because, unlike how it looks from outside, this is a very large space. So please rest assured and return to wait, and I will bring it to you soon... I would like to say.",
+        "pt": "[Sibila]\nIsso só é possível porque este lugar é muito mais espaçoso do que aparenta lá fora. Então, espere que eu levarei o item daqui até você ... se eu puder.",
+        "es": "[Silbida]\nEsto es posible porque, a diferencia de lo que se ve desde fuera, este lugar es un espacio muy grande. Así que, quédese tranquilo, vuelva y espere, y pronto se lo traeré... ojalá."
     },
     "ua/fBw": {
         "ko": "그런데요?",
@@ -157,33 +157,33 @@
     },
     "uq/fBw": {
         "ko": "[짹]\n저 고장난 청소로봇때문에 조금 지체될 것 같습니다. 이전의 침입자 인간들에게 당한 자동인형들인데, 저것들을 어떻게 처리해야 할까요.",
-        "en": "[Jjack]\nI think we may be delayed a little because of that broken cleaning robot. They are automata that were harmed by the previous human intruders, but how should we deal with those?",
-        "pt": "[Jjack]\nAquele robô de limpeza defeituoso está causando atraso. São autômatas danificadas pelos invasores humanos anteriores. O que devemos fazer com elas?",
-        "es": "[Jjack]\nParece que se retrasará un poco por ese robot de limpieza averiado. Son autómatas que sufrieron a manos de los anteriores intrusos humanos; ¿qué deberíamos hacer con esos?"
+        "en": "[Twity]\nI think we may be delayed a little because of that broken cleaning robot. They are automata that were harmed by the previous human intruders, but how should we deal with those?",
+        "pt": "[Sibila]\nAlgumas autômatas responsáveis pela limpeza do armazém foram danificadas pelos invasores. O que devemos fazer com elas?",
+        "es": "[Silbida]\nParece que se retrasará un poco por ese robot de limpieza averiado. Son autómatas que sufrieron a manos de los anteriores intrusos humanos; ¿qué deberíamos hacer con esos?"
     },
     "u6/fBw": {
         "ko": "[짹]\n역시 ^EE0000불을 지르는 것^000000이 가장 깔끔하겠습니까?",
-        "en": "[Jjack]\nAs expected, would ^EE0000setting it on fire^000000 be the cleanest solution?",
-        "pt": "[Jjack]\nTalvez ^EE0000incendiar tudo^000000 seja a forma mais limpa de resolver?",
-        "es": "[Jjack]\n¿Acaso lo más limpio sería ^EE0000prenderles fuego^000000?"
+        "en": "[Twity]\nAs expected, would ^EE0000setting it on fire^000000 be the cleanest solution?",
+        "pt": "[Sibila]\nAfinal, será que ^EE0000atear fogo^000000 seria a solução mais simples?",
+        "es": "[Silbida]\n¿Acaso lo más limpio sería ^EE0000prenderles fuego^000000?"
     },
     "vK/fBw": {
         "ko": "네? 물건이 다 탈텐데요?",
         "en": "What? Then everything will burn.",
-        "pt": "O quê? Mas tudo vai queimar!",
+        "pt": "O quê? Mas os itens vão queimar!",
         "es": "¿Qué? Pero se quemará todo."
     },
     "va/fBw": {
         "ko": "[짹]\n괜찮습니다. 모두 방염처리가 되어있습니다. 설사 타더라도 저택의 설계도는 다른 창고에도 있습니다. 좀 멀리 가야하긴 하지만 그 정도는 괜찮습니다. 안심하십시오.",
-        "en": "[Jjack]\nIt is fine. Everything has been flame-retardant treated. Even if it burns, the estate's blueprints are also in another warehouse. It is a bit far to go, but that much is fine. Please rest assured.",
-        "pt": "[Jjack]\nNão há problema. Tudo possui tratamento antichamas. Mesmo que queime, a planta da mansão existe em outro armazém. Fica um pouco distante, mas isso não é problema. Fique tranquilo.",
-        "es": "[Jjack]\nNo hay problema. Todo tiene tratamiento ignífugo. Aunque se queme, los planos de la mansión también están en otro almacén. Hay que ir un poco lejos, pero eso no es problema. Quédese tranquilo."
+        "en": "[Twity]\nIt is fine. Everything has been flame-retardant treated. Even if it burns, the estate's blueprints are also in another warehouse. It is a bit far to go, but that much is fine. Please rest assured.",
+        "pt": "[Sibila]\nNão há problema. Tudo possui tratamento antichamas. Mesmo que queimem, a planta baixa da mansão está em outros armazéns também. Seria um pouco mais longe, mas não há problema.",
+        "es": "[Silbida]\nNo hay problema. Todo tiene tratamiento ignífugo. Aunque se queme, los planos de la mansión también están en otro almacén. Hay que ir un poco lejos, pero eso no es problema. Quédese tranquilo."
     },
     "vq/fBw": {
         "ko": "[짹]\n한번에 모조리 처리하려면 그 편이 가장 빠르고 깔끔합니다.",
-        "en": "[Jjack]\nIf we are to deal with them all at once, that would be the fastest and cleanest way.",
-        "pt": "[Jjack]\nPara resolver tudo de uma vez, essa é a maneira mais rápida e eficiente.",
-        "es": "[Jjack]\nSi quiere encargarse de todos de una vez, esa es la forma más rápida y limpia."
+        "en": "[Twity]\nIf we are to deal with them all at once, that would be the fastest and cleanest way.",
+        "pt": "[Sibila]\nPara resolver tudo de uma vez, essa é a maneira mais rápida e eficiente.",
+        "es": "[Silbida]\nSi quiere encargarse de todos de una vez, esa es la forma más rápida y limpia."
     },
     "v6/fBw": {
         "ko": "그게 문제가 아니라...",
@@ -193,9 +193,9 @@
     },
     "wK/fBw": {
         "ko": "[짹]\n그럼 무엇이 문제입니까?",
-        "en": "[Jjack]\nThen what is the problem?",
-        "pt": "[Jjack]\nEntão qual é o problema?",
-        "es": "[Jjack]\nEntonces, ¿cuál es el problema?"
+        "en": "[Twity]\nThen what is the problem?",
+        "pt": "[Sibila]\nEntão qual é o problema?",
+        "es": "[Silbida]\nEntonces, ¿cuál es el problema?"
     },
     "wa/fBw": {
         "ko": "차라리 경비를 불러요.",
@@ -211,15 +211,15 @@
     },
     "w6/fBw": {
         "ko": "[짹]\n경비를 불러 처리하면 되긴 하겠지만 그러자면 시간이 많이 지체되는데, 괜찮겠습니까? 경비가 투입되고 저것들을 진압하고 처리하는데에만 적어도 하루는 걸릴 것입니다.",
-        "en": "[Jjack]\nWe could call the guards to deal with it, but that would take a long time. Is that acceptable? It will take at least a day just to deploy the guards, subdue them, and dispose of them.",
-        "pt": "[Jjack]\nSe chamarmos a guarda, podem resolver, mas isso causará grande atraso. Levará pelo menos um dia apenas para mobilizá-los, conter e eliminar essas unidades.",
-        "es": "[Jjack]\nPodríamos encargarnos llamando a los guardias, pero entonces se retrasaría mucho; ¿le parece bien? Solo con desplegar a los guardias, someterlos y ocuparse de ellos, tardará al menos un día."
+        "en": "[Twity]\nWe could call the guards to deal with it, but that would take a long time. Is that acceptable? It will take at least a day just to deploy the guards, subdue them, and dispose of them.",
+        "pt": "[Sibila]\nAté daria para chamar a segurança para resolver, mas isso levaria muito tempo. Desde a mobilização da segurança até a contenção e resolução disso, levaria pelo menos um dia.",
+        "es": "[Silbida]\nPodríamos encargarnos llamando a los guardias, pero entonces se retrasaría mucho; ¿le parece bien? Solo con desplegar a los guardias, someterlos y ocuparse de ellos, tardará al menos un día."
     },
     "xK/fBw": {
         "ko": "[짹]\n그러느니 불을 지르고 전소되길 기다리는 것이 빠르지요.",
-        "en": "[Jjack]\nRather than that, setting it on fire and waiting for it to burn down completely is faster.",
-        "pt": "[Jjack]\nNesse caso, incendiar e aguardar que tudo se consuma seria mais rápido.",
-        "es": "[Jjack]\nEn ese caso, es más rápido prender fuego y esperar a que se queme por completo."
+        "en": "[Twity]\nRather than that, setting it on fire and waiting for it to burn down completely is faster.",
+        "pt": "[Sibila]\nNesse caso, incendiar e aguardar que tudo se consuma seria mais rápido.",
+        "es": "[Silbida]\nEn ese caso, es más rápido prender fuego y esperar a que se queme por completo."
     },
     "xa/fBw": {
         "ko": "사람이 왜 그 모양이에요?",
@@ -229,51 +229,51 @@
     },
     "xq/fBw": {
         "ko": "[짹]\n저는 인간이 아닙니다만? 저에게서 무엇을 기대하는지 모르겠습니다.",
-        "en": "[Jjack]\nI am not human, you know? I do not know what you expect from me.",
-        "pt": "[Jjack]\nNão sou humano. Não compreendo o que espera de mim.",
-        "es": "[Jjack]\nPero yo no soy humano. No sé qué espera de mí."
+        "en": "[Twity]\nI am not human, you know? I do not know what you expect from me.",
+        "pt": "[Sibila]\nNão sou humana. Não compreendo o que espera de mim.",
+        "es": "[Silbida]\nPero yo no soy humano. No sé qué espera de mí."
     },
     "x6/fBw": {
         "ko": "차라리 상급자를 불러요.",
         "en": "Just call your superior.",
-        "pt": "Que tal chamar um superior?",
+        "pt": "É melhor chamar um superior.",
         "es": "Mejor llama a un superior."
     },
     "yK/fBw": {
         "ko": "[짹]\n상급자를 불러 무엇을 하라는 겁니까? 상급자에게 이 문제를 해결하라고 떠넘기기라도 하라는 것입니까?",
-        "en": "[Jjack]\nWhy are you telling me to call a superior? Are you saying I should just dump this problem on them and have them deal with it?",
-        "pt": "[Jjack]\nE o que um superior faria? Está sugerindo que eu transfira o problema para ele?",
-        "es": "[Jjack]\n¿Para qué se supone que debo llamar a un superior? ¿Para que le endose este problema y le diga que lo resuelva?"
+        "en": "[Twity]\nWhy are you telling me to call a superior? Are you saying I should just dump this problem on them and have them deal with it?",
+        "pt": "[Sibila]\nE o que um superior faria? Está sugerindo que eu transfira o problema para ele?",
+        "es": "[Silbida]\n¿Para qué se supone que debo llamar a un superior? ¿Para que le endose este problema y le diga que lo resuelva?"
     },
     "ya/fBw": {
         "ko": "[짹]\n제 선에서도 처리할 수 있는 문제를 굳이 시간 낭비를 해가면서까지 넘겨야 할 필요가 있습니까?",
-        "en": "[Jjack]\nIs there any need to waste time handing over a problem that I can handle at my level?",
-        "pt": "[Jjack]\nHá necessidade de desperdiçar tempo passando adiante algo que posso resolver?",
-        "es": "[Jjack]\n¿Es necesario transferir un problema que puedo manejar yo mismo, desperdiciando tiempo a propósito?"
+        "en": "[Twity]\nIs there any need to waste time handing over a problem that I can handle at my level?",
+        "pt": "[Sibila]\nDevo desperdiçar tempo passando adiante algo que posso resolver?",
+        "es": "[Silbida]\n¿Es necesario transferir un problema que puedo manejar yo mismo, desperdiciando tiempo a propósito?"
     },
     "yq/fBw": {
         "ko": "[짹]\n그렇지만 손님의 의견은 최대한 존중하라고 하였으니 그것을 간절히 원하신다면 그렇게 하겠습니다. 잠시만 기다려주십시오.",
-        "en": "[Jjack]\nStill, I was told to respect the customer’s opinion as much as possible, so if you earnestly want that, I will do so. Please wait a moment.",
-        "pt": "[Jjack]\nEntretanto, fui instruído a respeitar ao máximo a opinião dos convidados. Se realmente desejar, farei isso. Aguarde um momento.",
-        "es": "[Jjack]\nPero me dijeron que respetara al máximo la opinión del cliente, así que si lo desea con tanta insistencia, lo haré. Por favor, espere un momento."
+        "en": "[Twity]\nStill, I was told to respect the customer’s opinion as much as possible, so if you earnestly want that, I will do so. Please wait a moment.",
+        "pt": "[Sibila]\nEntretanto, fui instruída a respeitar a opinião dos visitantes. Se realmente desejar, farei isso. Aguarde um momento.",
+        "es": "[Silbida]\nPero me dijeron que respetara al máximo la opinión del cliente, así que si lo desea con tanta insistencia, lo haré. Por favor, espere un momento."
     },
     "y6/fBw": {
         "ko": "간절히...",
         "en": "Earnestly...",
-        "pt": "Realmente...",
+        "pt": "Aguardo...",
         "es": "Con insistencia..."
     },
     "zK/fBw": {
         "ko": "[베타]\n불렀어? 무슨 일이야? 길어? 지금 좀 바쁜데.",
         "en": "[Beta]\nYou called? What is it? Is it going to take long? I’m a bit busy right now.",
-        "pt": "[Beta]\nChamou? O que houve? Vai demorar? Estou ocupado.",
+        "pt": "[Beta]\nChamou? O que houve? Vai demorar? Estou ocupada.",
         "es": "[Beta]\n¿Me llamaste? ¿Qué pasa? ¿Va para largo? Ahora estoy un poco ocupado."
     },
     "za/fBw": {
         "ko": "[짹]\n여기를 좀 봐. 어떻게 생각해? 저 난장판을 만들면서 한껏 신난 청소로봇들을 어떻게 했으면 좋겠어? 좋은 방법 있어?",
-        "en": "[Jjack]\nLook over here. What do you think? What should we do about those cleaning robots that got all excited and made that mess? Do you have a good idea?",
-        "pt": "[Jjack]\nVeja isso. O que acha? O que devemos fazer com esses robôs de limpeza que causaram toda essa desordem? Tem alguma boa ideia?",
-        "es": "[Jjack]\nMira esto. ¿Qué opinas? ¿Qué crees que deberíamos hacer con esos robots de limpieza que, emocionadísimos, armaron semejante desastre? ¿Tienes alguna buena idea?"
+        "en": "[Twity]\nLook over here. What do you think? What should we do about those cleaning robots that got all excited and made that mess? Do you have a good idea?",
+        "pt": "[Sibila]\nVeja isso. O que acha? O que devemos fazer com essas autômatas quebradas? Tem alguma ideia?",
+        "es": "[Silbida]\nMira esto. ¿Qué opinas? ¿Qué crees que deberíamos hacer con esos robots de limpieza que, emocionadísimos, armaron semejante desastre? ¿Tienes alguna buena idea?"
     },
     "zq/fBw": {
         "ko": "[베타]\n저런. 심각하네.",
@@ -283,165 +283,165 @@
     },
     "z6/fBw": {
         "ko": "[짹]\n그렇지? 자, 빨리 해결 방법을 이야기 해봐. 여기 인간 손님도 들을 수 있도록. 여기 이 손님이 너를 불러서 해결하라고 했으니까.",
-        "en": "[Jjack]\nRight? Now hurry and tell me a solution. So the human customer here can hear it, too. This customer called you here to resolve it.",
-        "pt": "[Jjack]\nNão é? Então diga rapidamente uma solução. Para que o convidado humano também ouça. Foi ele quem solicitou sua presença.",
-        "es": "[Jjack]\n¿Verdad? Bien, dime rápido una solución. Para que también pueda oírla el cliente humano. Porque este cliente te llamó para que lo resolvieras."
+        "en": "[Twity]\nRight? Now hurry and tell me a solution. So the human customer here can hear it, too. This customer called you here to resolve it.",
+        "pt": "[Sibila]\nNão é? Então diga uma solução. Para que o visitante também ouça. Foi ele quem solicitou sua presença.",
+        "es": "[Silbida]\n¿Verdad? Bien, dime rápido una solución. Para que también pueda oírla el cliente humano. Porque este cliente te llamó para que lo resolvieras."
     },
     "0K/fBw": {
         "ko": "[베타]\n그런데 여기만 그러는 것도 아니야. 기다려. 지금 보내줄 수 있는 경비가 없어.",
         "en": "[Beta]\nBut it’s not just here. Wait. I don’t have any guards I can send right now.",
-        "pt": "[Beta]\nMas não é só aqui. Espere. Não há guardas disponíveis no momento.",
+        "pt": "[Beta]\nMas não é só aqui que está assim. Espera... Não tenho segurança disponível para enviar agora.",
         "es": "[Beta]\nPero no es solo aquí. Espera. Ahora mismo no tengo guardias que pueda enviar."
     },
     "0a/fBw": {
         "ko": "[짹]\n지금 당장 손님들을 위한 물건을 가져와야 하는데? 내가 지금 저기에 들어가면 저것들이랑 똑같아질텐데? 그래도 괜찮아?",
-        "en": "[Jjack]\nI need to bring items for the customers right away. If I go in there now, I’ll end up just like them. Is that still fine?",
-        "pt": "[Jjack]\nPreciso trazer os itens para os convidados agora. Se eu entrar ali, ficarei igual a eles. Está tudo bem?",
-        "es": "[Jjack]\n¿Pero tengo que traer ahora mismo los objetos para los clientes? Si entro ahí ahora, ¿me convertiré en lo mismo que ellos? ¿Y aun así está bien?"
+        "en": "[Twity]\nI need to bring items for the customers right away. If I go in there now, I’ll end up just like them. Is that still fine?",
+        "pt": "[Sibila]\nMas eu preciso trazer os itens para os visitantes agora mesmo! Se eu entrar lá agora, vou acabar como eles! Não tem problema?",
+        "es": "[Silbida]\n¿Pero tengo que traer ahora mismo los objetos para los clientes? Si entro ahí ahora, ¿me convertiré en lo mismo que ellos? ¿Y aun así está bien?"
     },
     "0q/fBw": {
         "ko": "[베타]\n그건 안 되지만. 어쩔 수 없어. 최대한 빨리 보내줄게. 그래도 내일 이후야.",
         "en": "[Beta]\nThat won’t do, but... it can’t be helped. I’ll send them as quickly as I can. Even so, it’ll be after tomorrow.",
-        "pt": "[Beta]\nNão está, mas não há alternativa. Enviarei reforços o mais rápido possível. Ainda assim, somente a partir de amanhã.",
+        "pt": "[Beta]\nTem, mas não há alternativa. Enviarei reforços o mais rápido possível. Ainda assim, somente a partir de amanhã.",
         "es": "[Beta]\nEso no puede ser, pero... no hay otra opción. Enviaré a alguien lo antes posible. Aun así, será después de mañana."
     },
     "06/fBw": {
         "ko": "[짹]\n그럼 불 질러도 돼?",
-        "en": "[Jjack]\nThen can I set it on fire?",
-        "pt": "[Jjack]\nEntão posso incendiar?",
-        "es": "[Jjack]\nEntonces, ¿puedo prenderle fuego?"
+        "en": "[Twity]\nThen can I set it on fire?",
+        "pt": "[Sibila]\nEntão posso atear fogo?",
+        "es": "[Silbida]\nEntonces, ¿puedo prenderle fuego?"
     },
     "1K/fBw": {
         "ko": "[베타]\n안돼. 기다려. 그러다 다른 곳까지 옮겨 붙을지도 모르니까. 손님들도 계신데 위험을 감수할 수는 없어.",
         "en": "[Beta]\nNo. Wait. It might spread to other places. With customers here, we can’t take that risk.",
-        "pt": "[Beta]\nNão. Espere. Pode se espalhar para outras áreas. Há convidados presentes, não podemos assumir esse risco.",
+        "pt": "[Beta]\nNão. Espere. Pode se espalhar para outras áreas. Há visitantes presentes, não podemos assumir esse risco.",
         "es": "[Beta]\nNo. Espera. Podría propagarse a otros lugares. Además, hay clientes; no podemos asumir ese riesgo."
     },
     "1a/fBw": {
         "ko": "[짹]\n불 번지지 않게 할 자신 있는데.",
-        "en": "[Jjack]\nI’m confident I can keep the fire from spreading.",
-        "pt": "[Jjack]\nTenho confiança de que não deixarei o fogo se espalhar.",
-        "es": "[Jjack]\nEstoy seguro de que puedo evitar que el fuego se propague."
+        "en": "[Twity]\nI’m confident I can keep the fire from spreading.",
+        "pt": "[Sibila]\nTenho confiança de que não deixarei o fogo se espalhar.",
+        "es": "[Silbida]\nEstoy seguro de que puedo evitar que el fuego se propague."
     },
     "1q/fBw": {
         "ko": "[베타]\n그래도 안돼. 네가 이렇게 날 잡을 수록 처리가 더 늦어져. 조금만 기다려. 손님들께 양해 구하고.",
         "en": "[Beta]\nEven so, no. The more you keep me here like this, the more it delays handling it. Just wait a little. And ask the customers for their understanding.",
-        "pt": "[Beta]\nMesmo assim, não. Quanto mais insistir, mais atrasará o processo. Espere um pouco e peça compreensão aos convidados.",
+        "pt": "[Beta]\nMesmo assim, não. Quanto mais insistir, mais atrasará o processo. Espere um pouco e peça compreensão aos visitantes.",
         "es": "[Beta]\nAun así, no. Cuanto más me retengas así, más se retrasa el manejo. Espera un poco. Y pide comprensión a los clientes."
     },
     "16/fBw": {
         "ko": "[짹]\n보셨습니까? 상급자를 불러도 지금 당장 처리할 수 있는 해결 방안이 없습니다. 이젠 불도 지를 수도 없게 됐습니다. 이야기를 안했다면 지를 수도 있었는데.",
-        "en": "[Jjack]\nDid you see? Even if I call a superior, there is no solution that can be handled right away. Now I can’t even set it on fire. If I hadn’t brought it up, I could have set it on fire.",
-        "pt": "[Jjack]\nViu? Mesmo chamando um superior, não há solução imediata. Agora nem mesmo posso incendiar. Se não tivesse comentado, já poderia ter feito.",
-        "es": "[Jjack]\n¿Lo ha visto? Aunque llame a un superior, no hay una solución que pueda aplicarse de inmediato. Ahora ni siquiera puedo prender fuego. Si no lo hubiera mencionado, podría haberlo hecho."
+        "en": "[Twity]\nDid you see? Even if I call a superior, there is no solution that can be handled right away. Now I can’t even set it on fire. If I hadn’t brought it up, I could have set it on fire.",
+        "pt": "[Sibila]\nViu? Mesmo chamando um superior, não há solução imediata. Agora nem mesmo posso incendiar. Se não tivesse comentado, já poderia ter feito.",
+        "es": "[Silbida]\n¿Lo ha visto? Aunque llame a un superior, no hay una solución que pueda aplicarse de inmediato. Ahora ni siquiera puedo prender fuego. Si no lo hubiera mencionado, podría haberlo hecho."
     },
     "2K/fBw": {
         "ko": "[짹]\n제가 이제 어떻게 하면 좋겠습니까. 가지고 와야 할 물건이 저곳에 있는데 제가 저 안으로 뛰어 들면 저는 저들과 똑같아질 겁니다. 저는 전투형이 아니니까요.",
-        "en": "[Jjack]\nWhat am I supposed to do now? The items I need to bring are in there, but if I rush in, I will become just like them. I’m not a combat model.",
-        "pt": "[Jjack]\nO que devo fazer agora? Os itens que preciso estão ali. Se eu entrar, ficarei como eles. Não sou uma unidade de combate.",
-        "es": "[Jjack]\nEntonces, ¿qué se supone que debo hacer ahora? Los objetos que debo traer están ahí, pero si me lanzo dentro, me volveré igual que ellos. No soy de tipo combate."
+        "en": "[Twity]\nWhat am I supposed to do now? The items I need to bring are in there, but if I rush in, I will become just like them. I’m not a combat model.",
+        "pt": "[Sibila]\nO que devo fazer agora? Os itens que preciso estão ali. Se eu entrar, ficarei como eles. Não sou uma unidade de combate.",
+        "es": "[Silbida]\nEntonces, ¿qué se supone que debo hacer ahora? Los objetos que debo traer están ahí, pero si me lanzo dentro, me volveré igual que ellos. No soy de tipo combate."
     },
     "2a/fBw": {
         "ko": "[짹]\n어느 정도는 덤벼들어도 몸을 피할 수는 있겠지만 수가 너무 많아 걱정입니다. 한꺼번에 공격을 하면 아무리 튼튼한 자동인형의 몸이라도 순식간에 망가지고 말 테니까요.",
-        "en": "[Jjack]\nI could avoid them even if they come at me to some extent, but there are so many that I’m worried. If they attack all at once, even a sturdy automaton body will be destroyed in an instant.",
-        "pt": "[Jjack]\nPosso desviar de alguns ataques, mas são numerosos demais. Se atacarem todos de uma vez, até mesmo o corpo resistente de uma autômata será destruído instantaneamente.",
-        "es": "[Jjack]\nPodría esquivarlos aunque se me abalancen hasta cierto punto, pero me preocupa que sean demasiados. Si atacan todos a la vez, por muy resistente que sea el cuerpo de una marioneta automática, se romperá en un instante."
+        "en": "[Twity]\nI could avoid them even if they come at me to some extent, but there are so many that I’m worried. If they attack all at once, even a sturdy automatron body will be destroyed in an instant.",
+        "pt": "[Sibila]\nConsigo esquivar de alguns ataques, mas são numerosos demais. Se atacarem todos de uma vez, estarei destruída.",
+        "es": "[Silbida]\nPodría esquivarlos aunque se me abalancen hasta cierto punto, pero me preocupa que sean demasiados. Si atacan todos a la vez, por muy resistente que sea el cuerpo de una marioneta automática, se romperá en un instante."
     },
     "2q/fBw": {
         "ko": "[짹]\n물론 임무를 위해 이 몸을 버릴 수는 있습니다. 하지만 그게 지금은 아닌 것 같습니다. 제 몸은 좀 더 중요한 일에 버리는 것이 더 가치있겠습니다.",
-        "en": "[Jjack]\nOf course, I can discard this body for the sake of the mission. But it seems this is not the time. It would be more worthwhile to discard my body for something more important.",
-        "pt": "[Jjack]\nClaro, posso sacrificar este corpo pela missão. Mas não creio que seja o momento adequado. Meu corpo será mais valioso em tarefas mais importantes.",
-        "es": "[Jjack]\nPor supuesto, puedo sacrificar este cuerpo por la misión. Pero parece que ahora no es el momento. Sería más valioso sacrificar mi cuerpo por algo más importante."
+        "en": "[Twity]\nOf course, I can discard this body for the sake of the mission. But it seems this is not the time. It would be more worthwhile to discard my body for something more important.",
+        "pt": "[Sibila]\nClaro, posso sacrificar este corpo pela missão. Mas não creio que seja o momento adequado. Meu corpo será mais valioso em tarefas mais importantes.",
+        "es": "[Silbida]\nPor supuesto, puedo sacrificar este cuerpo por la misión. Pero parece que ahora no es el momento. Sería más valioso sacrificar mi cuerpo por algo más importante."
     },
     "26/fBw": {
         "ko": "[짹]\n게다가 제가 아니면 누가 창고의 물건을 다 관리하겠습니까. 어디에 무엇이 있는지도 모를 텐데.",
-        "en": "[Jjack]\nBesides, if not me, who will manage all the items in the warehouse? They won’t even know where anything is.",
-        "pt": "[Jjack]\nAlém disso, se não for eu, quem administrará todos os itens do armazém? Ninguém saberia onde está cada coisa.",
-        "es": "[Jjack]\nAdemás, si no soy yo, ¿quién gestionará todos los objetos del almacén? Ni siquiera sabrían dónde está cada cosa."
+        "en": "[Twity]\nBesides, if not me, who will manage all the items in the warehouse? They won’t even know where anything is.",
+        "pt": "[Sibila]\nAlém disso, se não for eu, quem administrará todos os itens do armazém? Ninguém saberia onde está cada coisa.",
+        "es": "[Silbida]\nAdemás, si no soy yo, ¿quién gestionará todos los objetos del almacén? Ni siquiera sabrían dónde está cada cosa."
     },
     "3K/fBw": {
         "ko": "제가 정리 좀 할까요?",
         "en": "Shall I tidy things up a bit?",
-        "pt": "Quer que eu organize para você?",
+        "pt": "Quer ajuda?",
         "es": "¿Quiere que lo ordene un poco?"
     },
     "3a/fBw": {
         "ko": "[짹]\n{0}님이요? 저 청소로봇들을 정리하신다는 말씀이십니까?",
-        "en": "[Jjack]\n{0}? Are you saying you will take care of those cleaning robots?",
-        "pt": "[Jjack]\nO senhor, {0}? Está dizendo que eliminará aqueles robôs de limpeza?",
-        "es": "[Jjack]\n¿{0}님? ¿Está diciendo que va a encargarse de esos robots de limpieza?"
+        "en": "[Twity]\n{0}? Are you saying you will take care of those cleaning robots?",
+        "pt": "[Sibila]\nEstá dizendo que eliminará aqueles robôs, {0}?",
+        "es": "[Silbida]\n¿{0}? ¿Está diciendo que va a encargarse de esos robots de limpieza?"
     },
     "3q/fBw": {
         "ko": "[짹]\n왜입니까? 인간이 저지른 일에 대한 책임을 지겠다는 겁니까?",
-        "en": "[Jjack]\nWhy? Are you saying you will take responsibility for what humans have done?",
-        "pt": "[Jjack]\nPor quê? Pretende assumir a responsabilidade pelos atos cometidos por outros humanos?",
-        "es": "[Jjack]\n¿Por qué? ¿Dice que asumirá la responsabilidad por lo que hicieron los humanos?"
+        "en": "[Twity]\nWhy? Are you saying you will take responsibility for what humans have done?",
+        "pt": "[Sibila]\nPor quê? Vai assumir a responsabilidade por algo que outros humanos fizeram?",
+        "es": "[Silbida]\n¿Por qué? ¿Dice que asumirá la responsabilidad por lo que hicieron los humanos?"
     },
     "36/fBw": {
         "ko": "저는 다른 사람인데요?",
         "en": "I’m a different person, though.",
-        "pt": "Sou outra pessoa.",
+        "pt": "Não sou como eles.",
         "es": "Pero yo soy otra persona."
     },
     "4K/fBw": {
         "ko": "곤란해 보여서요.",
         "en": "You looked like you were in trouble.",
-        "pt": "Parece estar em dificuldade.",
+        "pt": "Você precisa de ajuda.",
         "es": "Porque parecía estar en apuros."
     },
     "4a/fBw": {
         "ko": "[짹]\n같은 인간이지 않습니까. 한 인간의 잘못은 모든 인간의 잘못 아닙니까?",
-        "en": "[Jjack]\nYou are still human, are you not? Is not one human’s mistake the mistake of all humans?",
-        "pt": "[Jjack]\nNão são todos humanos? O erro de um humano não é o erro de todos?",
-        "es": "[Jjack]\n¿No es usted humano también? ¿El error de un humano no es el error de todos los humanos?"
+        "en": "[Twity]\nYou are still human, are you not? Is not one human’s mistake the mistake of all humans?",
+        "pt": "[Sibila]\nNão é da mesma espécie? A falha de um viajante não é a falha de todos os viajantes?",
+        "es": "[Silbida]\n¿No es usted humano también? ¿El error de un humano no es el error de todos los humanos?"
     },
     "4q/fBw": {
         "ko": "아닌데요.",
         "en": "No, it isn’t.",
-        "pt": "Não.",
+        "pt": "Não é assim.",
         "es": "No lo es."
     },
     "46/fBw": {
         "ko": "[짹]\n그렇습니까? 저희는 그렇기에 오해했습니다. 모두 연결되어 있기 때문에 모든 것을 공유합니다. 잘못도 책임도.",
-        "en": "[Jjack]\nIs that so? Then we misunderstood. Because we are all connected, we share everything. Mistakes and responsibility as well.",
-        "pt": "[Jjack]\nÉ mesmo? Então me enganei. Nós somos conectados e compartilhamos tudo. Erros e responsabilidades também.",
-        "es": "[Jjack]\n¿Ah, sí? Entonces lo malinterpretamos. Como todos estamos conectados, lo compartimos todo. Los errores y la responsabilidad."
+        "en": "[Twity]\nIs that so? Then we misunderstood. Because we are all connected, we share everything. Mistakes and responsibility as well.",
+        "pt": "[Sibila]\nÉ mesmo? Então me enganei. Nós somos conectadas e compartilhamos tudo. Erros e responsabilidades também.",
+        "es": "[Silbida]\n¿Ah, sí? Entonces lo malinterpretamos. Como todos estamos conectados, lo compartimos todo. Los errores y la responsabilidad."
     },
     "5K/fBw": {
         "ko": "[짹]\n창고 안의 자동인형 앞에 한없이 무력해진 저를 불쌍히 여기시는 겁니까? 인간들은 자신이 저지르지 않은 일에도 책임감을 느낍니까?",
-        "en": "[Jjack]\nDo you pity me for becoming utterly helpless before the automaton inside the warehouse? Do humans feel responsible even for things they did not do?",
-        "pt": "[Jjack]\nEstá tendo pena de mim por estar impotente diante das autômatas no armazém? Humanos sentem responsabilidade por atos que não cometeram?",
-        "es": "[Jjack]\n¿Siente lástima de mí, que me he vuelto completamente impotente ante los autómatas del almacén? ¿Los humanos sienten responsabilidad incluso por cosas que no han hecho?"
+        "en": "[Twity]\nDo you pity me for becoming utterly helpless before the automatron inside the warehouse? Do humans feel responsible even for things they did not do?",
+        "pt": "[Sibila]\nTem pena de mim por precisar de ajuda? Qualquer viajante sente vontade de ajudar?",
+        "es": "[Silbida]\n¿Siente lástima de mí, que me he vuelto completamente impotente ante los autómatas del almacén? ¿Los humanos sienten responsabilidad incluso por cosas que no han hecho?"
     },
     "5a/fBw": {
         "ko": "바르문트님도 인간인데요.",
-        "en": "Lord Varmundt is human as well.",
-        "pt": "O senhor Varmundt também é humano.",
-        "es": "Pero el señor Varmundt también es humano."
+        "en": "Lord Varmunt is human as well.",
+        "pt": "Varmunt também é um viajante.",
+        "es": "Pero el señor Varmunt también es humano."
     },
     "5q/fBw": {
         "ko": "[짹]\n그분은 다릅니다. 그분은 현자이십니다. 지금 계셨다면 아마도 진작에 문제를 다 해결하셨을 겁니다. 어쩌면 문제 자체가 생기지 않았을지도 모를 일이지요.",
-        "en": "[Jjack]\nHe is different. He is a sage. If he were here now, he would likely have resolved the problem long ago. Perhaps the problem itself might not even have arisen.",
-        "pt": "[Jjack]\nEle é diferente. Ele é um sábio. Se estivesse aqui, já teria resolvido tudo. Talvez o problema sequer tivesse surgido.",
-        "es": "[Jjack]\nÉl es diferente. Él es un sabio. Si estuviera aquí ahora, probablemente ya habría resuelto todos los problemas. Quizá ni siquiera habría surgido el problema."
+        "en": "[Twity]\nHe is different. He is a sage. If he were here now, he would likely have resolved the problem long ago. Perhaps the problem itself might not even have arisen.",
+        "pt": "[Sibila]\nEle é diferente. Ele é um sábio. Se estivesse aqui, já teria resolvido tudo. Talvez o problema nem existiria.",
+        "es": "[Silbida]\nÉl es diferente. Él es un sabio. Si estuviera aquí ahora, probablemente ya habría resuelto todos los problemas. Quizá ni siquiera habría surgido el problema."
     },
     "56/fBw": {
         "ko": "[짹]\n말씀은 감사합니다만 손님께 폐를 끼치지 말고 최대한 협조하라는 공지가 있었습니다. 다른 방법을 생각해보겠습니다. 뭐든 나오겠지요.",
-        "en": "[Jjack]\nThank you for your words, but there was a notice to cooperate as much as possible without causing trouble for guests. I will think of another way. Something will come to mind.",
-        "pt": "[Jjack]\nAgradeço suas palavras, mas fui instruído a não causar transtornos aos convidados e cooperar ao máximo. Pensarei em outra solução. Algo surgirá.",
-        "es": "[Jjack]\nAgradezco sus palabras, pero hubo un aviso de que debíamos cooperar al máximo sin causar molestias a los clientes. Pensaré en otro método. Algo se me ocurrirá."
+        "en": "[Twity]\nThank you for your words, but there was a notice to cooperate as much as possible without causing trouble for guests. I will think of another way. Something will come to mind.",
+        "pt": "[Sibila]\nAgradeço suas palavras, mas fui instruída a não causar transtornos aos visitantes. Pensarei em outra solução.",
+        "es": "[Silbida]\nAgradezco sus palabras, pero hubo un aviso de que debíamos cooperar al máximo sin causar molestias a los clientes. Pensaré en otro método. Algo se me ocurrirá."
     },
     "6K/fBw": {
         "ko": "제가 전투형 인간입니다.",
         "en": "I am a combat-type human.",
-        "pt": "Sou um humano de combate.",
+        "pt": "Eu sei lutar.",
         "es": "Soy un humano de combate."
     },
     "6a/fBw": {
         "ko": "[짹]\n... 그렇습니까? 전투형 인간이라면 저런 것들을 처리하는 것을 업으로 삼고 있는 말씀이시지요? 그럼 폐를 끼치는 것이 아닙니까?",
-        "en": "[Jjack]\n... Is that so? If you are a combat-type human, you mean it is your profession to deal with things like those, yes? Then is it not causing trouble?",
-        "pt": "[Jjack]\n... É mesmo? Um humano de combate significa que eliminar tais unidades faz parte de sua função? Nesse caso, não seria um incômodo?",
-        "es": "[Jjack]\n... ¿Ah, sí? Si es un humano de combate, quiere decir que se dedica a encargarse de cosas como esas, ¿verdad? Entonces, ¿no estaría causando molestias?"
+        "en": "[Twity]\n... Is that so? If you are a combat-type human, you mean it is your profession to deal with things like those, yes? Then is it not causing trouble?",
+        "pt": "[Sibila]\n...É mesmo? Significa que eliminar monstros faz parte de sua função?",
+        "es": "[Silbida]\n... ¿Ah, sí? Si es un humano de combate, quiere decir que se dedica a encargarse de cosas como esas, ¿verdad? Entonces, ¿no estaría causando molestias?"
     },
     "6q/fBw": {
         "ko": "그렇죠.",
@@ -451,27 +451,27 @@
     },
     "66/fBw": {
         "ko": "[짹]\n저런 것들을 처리하면서 즐거움을 느끼는 인간이군요. 들어본적 있습니다. 그럼 부탁을 드려도 되겠습니다. 아, 물론 그에 따른 보수는 드리겠습니다.",
-        "en": "[Jjack]\nSo you are a human who takes pleasure in dealing with things like those. I have heard of it. Then I may ask you a favor. Ah, of course, I will provide compensation accordingly.",
-        "pt": "[Jjack]\nEntão é um humano que sente prazer ao eliminar tais coisas. Já ouvi falar disso. Nesse caso, posso fazer um pedido. Naturalmente, haverá recompensa.",
-        "es": "[Jjack]\nAsí que es un humano que siente placer al encargarse de cosas como esas. He oído hablar de ello. Entonces podré pedirle un favor. Ah, por supuesto, le daré la recompensa correspondiente."
+        "en": "[Twity]\nSo you are a human who takes pleasure in dealing with things like those. I have heard of it. Then I may ask you a favor. Ah, of course, I will provide compensation accordingly.",
+        "pt": "[Sibila]\nEntão você gosta de matar. Já ouvi falar disso. Nesse caso, posso fazer um pedido. Naturalmente, haverá recompensas.",
+        "es": "[Silbida]\nAsí que es un humano que siente placer al encargarse de cosas como esas. He oído hablar de ello. Entonces podré pedirle un favor. Ah, por supuesto, le daré la recompensa correspondiente."
     },
     "7K/fBw": {
         "ko": "[짹]\n^0000CD5체 정도 처리^000000를 부탁드립니다. 그러면 저도 저 난장판을 뚫고 갈 수 있겠습니다. 그럼, 유희를 즐기시길 바랍니다.",
-        "en": "[Jjack]\nPlease ^0000CDtake care of about 5 of them^000000. Then I will be able to push through that mess as well. Now then, please enjoy your pastime.",
-        "pt": "[Jjack]\nPeço que elimine ^0000CDcerca de 5 unidades^000000. Assim poderei atravessar a desordem. Então, aproveite seu entretenimento.",
-        "es": "[Jjack]\nLe pido que ^0000CDse encargue de unos 5^000000. Entonces yo también podré abrirme paso por ese caos. Bien, disfrute del entretenimiento."
+        "en": "[Twity]\nPlease ^0000CDtake care of about 5 of them^000000. Then I will be able to push through that mess as well. Now then, please enjoy your pastime.",
+        "pt": "[Sibila]\nElimine ^0000CD5x Ômega Quebrada^000000. Assim eu conseguirei organizar essa bagunça. Espero que se divirta.",
+        "es": "[Silbida]\nLe pido que ^0000CDse encargue de unos 5^000000. Entonces yo también podré abrirme paso por ese caos. Bien, disfrute del entretenimiento."
     },
     "7a/fBw": {
         "ko": "[짹]\n충분히 즐기고 오셨습니까? 파괴에서 즐거움을 얻는 것인지 그에 따른 보수에 즐거움을 느끼는 것인지 궁금하지만 굳이 제가 알 필요는 없겠습니다.",
-        "en": "[Jjack]\nHave you enjoyed yourself enough? I wonder whether you take pleasure in destruction or in the compensation that comes with it, but I do not need to know.",
-        "pt": "[Jjack]\nJá se divertiu o suficiente? Não sei se obtém prazer na destruição ou na recompensa, mas não preciso saber.",
-        "es": "[Jjack]\n¿Ha disfrutado lo suficiente? Me intriga si obtiene placer de la destrucción o si lo siente por la recompensa, pero no necesito saberlo."
+        "en": "[Twity]\nHave you enjoyed yourself enough? I wonder whether you take pleasure in destruction or in the compensation that comes with it, but I do not need to know.",
+        "pt": "[Sibila]\nJá se divertiu o suficiente? Não sei se obtém prazer na destruição ou na recompensa, mas não preciso saber.",
+        "es": "[Silbida]\n¿Ha disfrutado lo suficiente? Me intriga si obtiene placer de la destrucción o si lo siente por la recompensa, pero no necesito saberlo."
     },
     "7q/fBw": {
         "ko": "[짹]\n덕분에 제가 들어가서 물건을 가지고 올 수 있게 됐습니다. 저 정도라면 조금 빠르게 움직이면 충분히 몸을 움직일 수 있습니다.",
-        "en": "[Jjack]\nThanks to you, I can go in and retrieve the items. At this level, if I move a little quickly, I can move my body well enough.",
-        "pt": "[Jjack]\nGraças a isso, posso entrar e buscar os itens. Com essa quantidade reduzida, consigo me mover rapidamente.",
-        "es": "[Jjack]\nGracias a usted, he podido entrar y traer los objetos. Con ese nivel, si me muevo un poco rápido, podré mover el cuerpo lo suficiente."
+        "en": "[Twity]\nThanks to you, I can go in and retrieve the items. At this level, if I move a little quickly, I can move my body well enough.",
+        "pt": "[Sibila]\nGraças a você, posso entrar e buscar os itens. Agora consigo me mover rapidamente.",
+        "es": "[Silbida]\nGracias a usted, he podido entrar y traer los objetos. Con ese nivel, si me muevo un poco rápido, podré mover el cuerpo lo suficiente."
     },
     "76/fBw": {
         "ko": "- 덜커덩 -",
@@ -482,26 +482,26 @@
     "8K/fBw": {
         "ko": "- 덜컹덜컹 -",
         "en": "- Clank, clank -",
-        "pt": "- Clang clang -",
+        "pt": "- Clang Clang -",
         "es": "- Clac clac -"
     },
     "8a/fBw": {
         "ko": "[짹]\n방금 들으셨습니까?",
-        "en": "[Jjack]\nDid you hear that just now?",
-        "pt": "[Jjack]\nOuviu agora?",
-        "es": "[Jjack]\n¿Acaba de oírlo?"
+        "en": "[Twity]\nDid you hear that just now?",
+        "pt": "[Sibila]\nOuviu isso agora?",
+        "es": "[Silbida]\n¿Acaba de oírlo?"
     },
     "8q/fBw": {
         "ko": "덜컹거리는 소리요?",
         "en": "That clanking sound?",
-        "pt": "Um som metálico?",
+        "pt": "O som de batidas?",
         "es": "¿Ese ruido de traqueteo?"
     },
     "86/fBw": {
         "ko": "[짹]\n네, 맞습니다. 가만히, 조용히.",
-        "en": "[Jjack]\nYes, that’s right. Stay still, and be quiet.",
-        "pt": "[Jjack]\nSim. Fique parado, em silêncio.",
-        "es": "[Jjack]\nSí, eso es. Quieto, en silencio."
+        "en": "[Twity]\nYes, that’s right. Stay still, and be quiet.",
+        "pt": "[Sibila]\nSim. Fique em silêncio, não se mexa.",
+        "es": "[Silbida]\nSí, eso es. Quieto, en silencio."
     },
     "9K/fBw": {
         "ko": "- 덜컹 -",
@@ -512,20 +512,20 @@
     "9a/fBw": {
         "ko": "[???]\n- ㄴ...구... 어.... -",
         "en": "[???]\n- W...ho... a...re.... -",
-        "pt": "[???]\n- Q... uem... é... -",
+        "pt": "[???]\n- Q... quem... é... -",
         "es": "[???]\n- N...gu... eh.... -"
     },
     "9q/fBw": {
         "ko": "[짹]\n음성 패턴을 보아 자동인형이 내는 소리입니다. 그렇지만 이곳의 자동인형이 내는 소리는 아닙니다. 이 공간에서 들리는 것보다는 조금 더 먼...",
-        "en": "[Jjack]\nJudging by the voice pattern, it is a sound made by an automaton. However, it is not the sound made by the automatons here. It’s a little farther away than what we hear in this space...",
-        "pt": "[Jjack]\nPelo padrão vocal, é o som de uma autômata. Porém, não é o som das unidades deste armazém. Parece vir de um ponto mais distante...",
-        "es": "[Jjack]\nPor el patrón de voz, es un sonido producido por un autómata. Sin embargo, no es el sonido de los autómatas de este lugar. Es un poco más lejano que lo que se oye en este espacio..."
+        "en": "[Twity]\nJudging by the voice pattern, it is a sound made by an automatron. However, it is not the sound made by the automatrons here. It’s a little farther away than what we hear in this space...",
+        "pt": "[Sibila]\nPelo padrão de voz, é um som que um autômato faz. Mas não é como os daqui. É um pouco mais distante...",
+        "es": "[Silbida]\nPor el patrón de voz, es un sonido producido por un autómata. Sin embargo, no es el sonido de los autómatas de este lugar. Es un poco más lejano que lo que se oye en este espacio..."
     },
     "96/fBw": {
         "ko": "[짹]\n아무래도 지하에서 나는 소리인 것 같습니다. 큰일입니다. 저것이 정말로 지하에서 나는 소리라면 진짜로 큰일이 납니다.",
-        "en": "[Jjack]\nIt seems to be coming from underground. This is serious. If that really is a sound coming from underground, then we are truly in trouble.",
-        "pt": "[Jjack]\nProvavelmente do subsolo. Isso é grave. Se realmente vier do subsolo, é extremamente grave.",
-        "es": "[Jjack]\nParece que es un sonido que viene del subsuelo. Es grave. Si de verdad es un sonido que viene del subsuelo, entonces de verdad será un gran problema."
+        "en": "[Twity]\nIt seems to be coming from underground. This is serious. If that really is a sound coming from underground, then we are truly in trouble.",
+        "pt": "[Sibila]\nProvavelmente do subsolo. Isso é grave. Se realmente vier do subsolo, é extremamente grave.",
+        "es": "[Silbida]\nParece que es un sonido que viene del subsuelo. Es grave. Si de verdad es un sonido que viene del subsuelo, entonces de verdad será un gran problema."
     },
     "+K/fBw": {
         "ko": "왜죠?",
@@ -535,87 +535,87 @@
     },
     "+a/fBw": {
         "ko": "[짹]\n지상에 있는 이곳 창고와는 달리 지하층은 바르문트님만 출입이 가능합니다. 비밀스러운 것이 많기도 하거니와 위험한 물건이 많아서 그렇기도 하지요.",
-        "en": "[Jjack]\nUnlike this storage on the surface, only Lord Varmund is permitted to enter the underground floor. That is partly because there are many secrets, and also because there are many dangerous items.",
-        "pt": "[Jjack]\nDiferente deste armazém na superfície, o subsolo só pode ser acessado pelo senhor Varmundt. Há muitos itens secretos e perigosos.",
-        "es": "[Jjack]\nA diferencia de este almacén en la superficie, al piso subterráneo solo puede acceder el señor Varmundt. Es porque hay muchas cosas secretas y también porque hay muchos objetos peligrosos."
+        "en": "[Twity]\nUnlike this storage on the surface, only Lord Varmunt is permitted to enter the underground floor. That is partly because there are many secrets, and also because there are many dangerous items.",
+        "pt": "[Sibila]\nDiferente deste armazém, o subsolo só pode ser acessado pelo senhor Varmunt. Há muitos itens secretos e perigosos lá embaixo.",
+        "es": "[Silbida]\nA diferencia de este almacén en la superficie, al piso subterráneo solo puede acceder el señor Varmunt. Es porque hay muchas cosas secretas y también porque hay muchos objetos peligrosos."
     },
     "+q/fBw": {
         "ko": "[짹]\n주인님 외에 다른 자동인형이나 인간이 드나들다가 위험물을 잘못 건들기라도 하면.\n충분히 예측 가능한 파멸의 결과가 벌어집니다.",
-        "en": "[Jjack]\nIf any other automaton or human besides the master were to come and go and accidentally tamper with hazardous materials.\nA ruinous outcome that is entirely predictable will occur.",
-        "pt": "[Jjack]\nSe qualquer outra autômata ou humano além do mestre manusear indevidamente um item perigoso...\nO resultado será uma destruição previsível.",
-        "es": "[Jjack]\nSi algún otro autómata o un humano, aparte del amo, entra y llega a tocar por error un objeto peligroso.\nSe producirá un resultado de ruina perfectamente predecible."
+        "en": "[Twity]\nIf any other automatron or human besides the master were to come and go and accidentally tamper with hazardous materials.\nA ruinous outcome that is entirely predictable will occur.",
+        "pt": "[Sibila]\nSe qualquer outro ser além do mestre manusear indevidamente um item perigoso...\nO resultado será uma destruição previsível.",
+        "es": "[Silbida]\nSi algún otro autómata o un humano, aparte del amo, entra y llega a tocar por error un objeto peligroso.\nSe producirá un resultado de ruina perfectamente predecible."
     },
     "+6/fBw": {
         "ko": "[짹]\n이 소리가 만약 정말로 지하에서 나는 소리이고, 저 소리가 고장난 자동인형이 내는 소리라면 우리에게 남은 것은 멸망 뿐입니다.",
-        "en": "[Jjack]\nIf this sound truly is coming from underground, and that sound is being made by a broken automaton, then all that remains for us is destruction.",
-        "pt": "[Jjack]\nSe esse som realmente vem do subsolo e é de uma autômata defeituosa, o que nos resta é apenas a ruína.",
-        "es": "[Jjack]\nSi este sonido realmente viene del subsuelo, y ese sonido lo produce un autómata averiado, lo único que nos queda es la destrucción."
+        "en": "[Twity]\nIf this sound truly is coming from underground, and that sound is being made by a broken automatron, then all that remains for us is destruction.",
+        "pt": "[Sibila]\nSe esse som realmente vem do subsolo e é de uma autômata defeituosa, o que nos resta é catastrófico.",
+        "es": "[Silbida]\nSi este sonido realmente viene del subsuelo, y ese sonido lo produce un autómata averiado, lo único que nos queda es la destrucción."
     },
     "/K/fBw": {
         "ko": "[짹]\n대규모 폭발로 이곳이 재가 되는 것은 시간문제입니다. 제가 불을 지르는 것과는 규모가 다릅니다.",
-        "en": "[Jjack]\nIt is only a matter of time before a massive explosion turns this place to ash. It is on a different scale from when I set fires.",
-        "pt": "[Jjack]\nSerá apenas questão de tempo até uma explosão em larga escala reduzir este lugar a cinzas. Não se compara ao simples incêndio que eu pretendia causar.",
-        "es": "[Jjack]\nEs solo cuestión de tiempo que este lugar se convierta en cenizas por una explosión a gran escala. No es comparable a cuando yo prendo fuego."
+        "en": "[Twity]\nIt is only a matter of time before a massive explosion turns this place to ash. It is on a different scale from when I set fires.",
+        "pt": "[Sibila]\nSerá apenas questão de tempo até uma explosão em larga escala reduzir este lugar a cinzas. Nem se compara ao simples incêndio que eu pretendia causar.",
+        "es": "[Silbida]\nEs solo cuestión de tiempo que este lugar se convierta en cenizas por una explosión a gran escala. No es comparable a cuando yo prendo fuego."
     },
     "/a/fBw": {
         "ko": "[짹]\n지하에는 위험이 도사리고 있습니다. 누군가는 확인을 해야합니다. 적어도 무슨 일이 일어났는지 확인이라도 한다면 상급자에게 더 빨리 와 달라고 요청을 할 수도 있습니다. 그러면 안전할 겁니다.",
-        "en": "[Jjack]\nThere is danger lurking underground. Someone must check. If we can at least confirm what happened, we can request that a superior come more quickly. Then it will be safe.",
-        "pt": "[Jjack]\nNo subsolo há perigos à espreita. Alguém precisa verificar. Ao menos se soubermos o que está acontecendo, poderemos solicitar que um superior venha com mais urgência. Assim será mais seguro.",
-        "es": "[Jjack]\nEn el subsuelo acecha el peligro. Alguien debe comprobarlo. Al menos, si confirmamos qué ha ocurrido, también podremos pedir a un superior que venga más rápido. Entonces estaremos a salvo."
+        "en": "[Twity]\nThere is danger lurking underground. Someone must check. If we can at least confirm what happened, we can request that a superior come more quickly. Then it will be safe.",
+        "pt": "[Sibila]\nNo subsolo há perigos à espreita. Alguém precisa verificar. Ao menos se soubermos o que está acontecendo, poderemos solicitar que um superior venha com mais urgência.",
+        "es": "[Silbida]\nEn el subsuelo acecha el peligro. Alguien debe comprobarlo. Al menos, si confirmamos qué ha ocurrido, también podremos pedir a un superior que venga más rápido. Entonces estaremos a salvo."
     },
     "/q/fBw": {
         "ko": "[짹]\n이 파멸을 막기 위해서 어떻게 하면 좋겠습니까.",
-        "en": "[Jjack]\nWhat should we do to prevent this ruin?",
-        "pt": "[Jjack]\nComo devemos proceder para impedir essa ruína?",
-        "es": "[Jjack]\n¿Qué cree que sería bueno hacer para evitar esta ruina?"
+        "en": "[Twity]\nWhat should we do to prevent this ruin?",
+        "pt": "[Sibila]\nComo devemos proceder para impedir um problema maior?",
+        "es": "[Silbida]\n¿Qué cree que sería bueno hacer para evitar esta ruina?"
     },
     "/6/fBw": {
         "ko": "[짹]\n저는 고장난 자동인형이 정리된 틈을 타 설계도와 식재료를 가지러 가야 합니다.",
-        "en": "[Jjack]\nI must take advantage of the moment when the broken automatons have been dealt with and go to retrieve the blueprints and ingredients.",
-        "pt": "[Jjack]\nEu preciso aproveitar a redução das autômatas defeituosas para buscar a planta e os ingredientes.",
-        "es": "[Jjack]\nYo debo aprovechar el momento en que se haya despejado el autómata averiado para ir a por los planos y los ingredientes."
+        "en": "[Twity]\nI must take advantage of the moment when the broken automatrons have been dealt with and go to retrieve the blueprints and ingredients.",
+        "pt": "[Sibila]\nEu preciso aproveitar que as autômatas quebradas foram contidas e buscar os ingredientes.",
+        "es": "[Silbida]\nYo debo aprovechar el momento en que se haya despejado el autómata averiado para ir a por los planos y los ingredientes."
     },
     "ALDfBw": {
         "ko": "[짹]\n{0}님은 전투형 인간입니다. 그렇다면 남은 방법은...",
-        "en": "[Jjack]\n{0} is a combat-type human. In that case, the remaining method is...",
-        "pt": "[Jjack]\n{0}, o senhor é um humano de combate. Sendo assim, o único método restante é...",
-        "es": "[Jjack]\n{0} es un humano de combate. Entonces, el método que queda es..."
+        "en": "[Twity]\n{0} is a combat-type human. In that case, the remaining method is...",
+        "pt": "[Sibila]\n{0} sabe lutar. Sendo assim, o único jeito é...",
+        "es": "[Silbida]\n{0} es un humano de combate. Entonces, el método que queda es..."
     },
     "AbDfBw": {
         "ko": "...제가 확인해야겠군요.",
         "en": "...I should check it myself.",
-        "pt": "...Eu irei verificar.",
+        "pt": "...Suponho que eu tenha que verificar.",
         "es": "...Supongo que debo comprobarlo yo."
     },
     "ArDfBw": {
         "ko": "[짹]\n아, 그러시겠습니까? 의외입니다. 이렇게까지 경비노릇을 하는 걸 좋아하시다니. 앞으로 참고하도록 하겠습니다. 손님의 유희를 챙기는 것도 저희 사용인의 일 중 하나입니다.",
-        "en": "[Jjack]\nAh, will you do so? Unexpected. To think you like playing guard to this extent. I will keep it in mind going forward. Seeing to a guest’s amusements is also one of our servants’ duties.",
-        "pt": "[Jjack]\nAh, irá mesmo? Surpreendente. Gosta tanto assim de desempenhar o papel de guarda. Registrarei isso para referência futura. Garantir o entretenimento do convidado também é uma das funções de nós, servos.",
-        "es": "[Jjack]\nAh, ¿lo hará? Es inesperado. No pensé que le gustara tanto hacer de guardia. Lo tendré en cuenta de ahora en adelante. Atender el entretenimiento del invitado también es una de las tareas de nosotros, los sirvientes."
+        "en": "[Twity]\nAh, will you do so? Unexpected. To think you like playing guard to this extent. I will keep it in mind going forward. Seeing to a guest’s amusements is also one of our servants’ duties.",
+        "pt": "[Sibila]\nAh, vai mesmo? Surpreendente. Gosta tanto assim de batalha? Registrarei isso. Garantir o entretenimento do visitante também é uma das nossas funções.",
+        "es": "[Silbida]\nAh, ¿lo hará? Es inesperado. No pensé que le gustara tanto hacer de guardia. Lo tendré en cuenta de ahora en adelante. Atender el entretenimiento del invitado también es una de las tareas de nosotros, los sirvientes."
     },
     "A7DfBw": {
         "ko": "[짹]\n이곳 ^0000CD가장 안쪽에 지하로 내려가는 계단^000000이 있습니다. 계단을 내려가셔서 지하의 상황이 어떤지 확인하고 오십시오. 절대로 그 무엇도 건드려서는 안됩니다.",
-        "en": "[Jjack]\nDeepest inside this place ^0000CDthere is a staircase leading underground^000000. Go down the stairs and check what the situation is like underground, then return. You must not touch anything, under any circumstances.",
-        "pt": "[Jjack]\nNo ^0000CDponto mais ao fundo há uma escadaria que leva ao subsolo^000000. Desça e verifique a situação. Sob hipótese alguma toque em qualquer coisa.",
-        "es": "[Jjack]\nEn lo más profundo de este lugar ^0000CDhay unas escaleras que bajan al subsuelo^000000. Baje las escaleras y vuelva tras comprobar cómo está la situación en el subsuelo. Bajo ninguna circunstancia debe tocar nada."
+        "en": "[Twity]\nDeepest inside this place ^0000CDthere is a staircase leading underground^000000. Go down the stairs and check what the situation is like underground, then return. You must not touch anything, under any circumstances.",
+        "pt": "[Sibila]\nNos fundos do armazém ^0000CDhá uma escadaria para o subsolo^000000. Desça e verifique a situação. NÃO toque em nada.",
+        "es": "[Silbida]\nEn lo más profundo de este lugar ^0000CDhay unas escaleras que bajan al subsuelo^000000. Baje las escaleras y vuelva tras comprobar cómo está la situación en el subsuelo. Bajo ninguna circunstancia debe tocar nada."
     },
     "BLDfBw": {
         "ko": "[짹]\n그럼 다녀오십시오",
-        "en": "[Jjack]\nThen please be on your way.",
-        "pt": "[Jjack]\nEntão, vá.",
-        "es": "[Jjack]\nEntonces, que le vaya bien."
+        "en": "[Twity]\nThen please be on your way.",
+        "pt": "[Sibila]\nAguardo você aqui.",
+        "es": "[Silbida]\nEntonces, que le vaya bien."
     },
     "BbDfBw": {
         "ko": "[짹]\n오셨습니까? 그런데 아직 저것들의 수가 너무 많습니다. 조금 더 힘써주셔야겠습니다. ^0000CD5체^000000 정도 처리를 부탁드립니다.\n그러면 저도 저 난장판을 뚫고 갈 수 있겠습니다.",
-        "en": "[Jjack]\nYou have returned? But there are still far too many of them. You will need to put in a bit more effort. Please take care of about ^0000CD5^000000 of them.\nThen I will be able to make my way through that chaos as well.",
-        "pt": "[Jjack]\nRetornou? Mas ainda há unidades demais por aqui. Preciso que se esforce um pouco mais. Peço que elimine ^0000CDcerca de 5 unidades^000000.\nAssim poderei atravessar a desordem.",
-        "es": "[Jjack]\n¿Ha regresado? Pero aún hay demasiados de esos. Tendrá que esforzarse un poco más. Le ruego que se encargue de unos ^0000CD5^000000.\nEntonces yo también podré abrirme paso entre ese caos."
+        "en": "[Twity]\nYou have returned? But there are still far too many of them. You will need to put in a bit more effort. Please take care of about ^0000CD5^000000 of them.\nThen I will be able to make my way through that chaos as well.",
+        "pt": "[Sibila]\nRetornou? Mas ainda há faxineiras demais por aqui. Peço que elimine ^0000CD5x Ômega Quebrada^000000.\nAssim poderei atravessar a desordem.",
+        "es": "[Silbida]\n¿Ha regresado? Pero aún hay demasiados de esos. Tendrá que esforzarse un poco más. Le ruego que se encargue de unos ^0000CD5^000000.\nEntonces yo también podré abrirme paso entre ese caos."
     },
     "BrDfBw": {
         "ko": "[짹]\n확인해보셨습니까? 지하의 상황은 어떻습니까?",
-        "en": "[Jjack]\nHave you checked? How are things underground?",
-        "pt": "[Jjack]\nConseguiu verificar? Como está a situação no subsolo?",
-        "es": "[Jjack]\n¿Lo ha comprobado? ¿Cómo está la situación en el sótano?"
+        "en": "[Twity]\nHave you checked? How are things underground?",
+        "pt": "[Sibila]\nConseguiu verificar? Como está a situação no subsolo?",
+        "es": "[Silbida]\n¿Lo ha comprobado? ¿Cómo está la situación en el sótano?"
     },
     "B7DfBw": {
         "ko": "잠겨있었습니다.",
@@ -625,129 +625,129 @@
     },
     "CLDfBw": {
         "ko": "[짹]\n잠겨있었습니까? 그런데 자동인형은 어떻게 들어간 것일까요? 그것 참 더 큰일입니다. 외부의 침입자가 유일한 출입구 외의 통로로 들어간 것이니 저택의 보안에 구멍이 있다는 이야기입니다.",
-        "en": "[Jjack]\nIt was locked? Then how did the automaton get in? This is even more serious. If an intruder from outside entered through a route other than the only entrance, that means there is a hole in the mansion's security.",
-        "pt": "[Jjack]\nEstava trancado? Então como a autômata entrou? Isso é ainda mais grave. Se um invasor externo entrou por outra via que não a entrada oficial, significa que há uma falha na segurança da mansão.",
-        "es": "[Jjack]\n¿Estaba cerrado con llave? Entonces, ¿cómo entraron los autómatas? Eso es aún peor. Si un intruso externo entró por un pasaje distinto a la única entrada, significa que hay una brecha en la seguridad de la mansión."
+        "en": "[Twity]\nIt was locked? Then how did the automatron get in? This is even more serious. If an intruder from outside entered through a route other than the only entrance, that means there is a hole in the mansion's security.",
+        "pt": "[Sibila]\nTrancado? Então como a autômata entrou? Isso é ainda mais grave. Se um invasor entrou por outra via, significa que há uma falha na segurança da mansão.",
+        "es": "[Silbida]\n¿Estaba cerrado con llave? Entonces, ¿cómo entraron los autómatas? Eso es aún peor. Si un intruso externo entró por un pasaje distinto a la única entrada, significa que hay una brecha en la seguridad de la mansión."
     },
     "CbDfBw": {
         "ko": "[짹]\n역시 확인해보는 것이 좋겠습니다...만 문이 잠겨있었다고 했었지요. 억지로 딸 수는 없으니 비상열쇠를 찾아야겠습니다.",
-        "en": "[Jjack]\nWe should check, after all... but you did say the door was locked. We cannot force it open, so we must find the Emergency Key.",
-        "pt": "[Jjack]\nAinda assim, é melhor confirmar... mas disse que a porta estava trancada. Não podemos forçar. Precisaremos encontrar a Chave de Emergência.",
-        "es": "[Jjack]\nSerá mejor comprobarlo... pero dijo que la puerta estaba cerrada con llave. No podemos forzarla, así que tendremos que encontrar la Llave de Emergencia."
+        "en": "[Twity]\nWe should check, after all... but you did say the door was locked. We cannot force it open, so we must find the Emergency Key.",
+        "pt": "[Sibila]\nAinda assim, é melhor confirmar... Precisaremos encontrar a Chave de Emergência.",
+        "es": "[Silbida]\nSerá mejor comprobarlo... pero dijo que la puerta estaba cerrada con llave. No podemos forzarla, así que tendremos que encontrar la Llave de Emergencia."
     },
     "CrDfBw": {
         "ko": "[짹]\n주인님만 출입하던 곳이지만 주인님께서는 지하에 내려가신 뒤 주인님의 신변에 이상이 생길 경우를 대비해서 비상시에만 사용할 수 있는 비상열쇠를 맡기셨습니다.",
-        "en": "[Jjack]\nIt was a place only the master used, but after the master went down underground, the master entrusted the Emergency Key, which can be used only in an emergency, in case something happens to the master's safety.",
-        "pt": "[Jjack]\nEmbora apenas o mestre tivesse acesso ao subsolo, ele confiou uma Chave de Emergência para uso exclusivo em caso de emergência, caso algo lhe acontecesse após descer.",
-        "es": "[Jjack]\nEra un lugar al que solo entraba el amo, pero el amo, por si algo le ocurría tras bajar al sótano, confió una Llave de Emergencia que solo puede usarse en caso de emergencia."
+        "en": "[Twity]\nIt was a place only the master used, but after the master went down underground, the master entrusted the Emergency Key, which can be used only in an emergency, in case something happens to the master's safety.",
+        "pt": "[Sibila]\nEmbora apenas o mestre tivesse acesso ao subsolo, ele confiou uma Chave de Emergência para uso exclusivo em caso de emergência.",
+        "es": "[Silbida]\nEra un lugar al que solo entraba el amo, pero el amo, por si algo le ocurría tras bajar al sótano, confió una Llave de Emergencia que solo puede usarse en caso de emergencia."
     },
     "C7DfBw": {
         "ko": "[짹]\n지금이 바로 그 비상시라는 것이겠지요.",
-        "en": "[Jjack]\nI suppose this is that emergency.",
-        "pt": "[Jjack]\nEste é exatamente esse momento de emergência.",
-        "es": "[Jjack]\nSupongo que ahora es precisamente esa emergencia."
+        "en": "[Twity]\nI suppose this is that emergency.",
+        "pt": "[Sibila]\nEste é exatamente esse momento de emergência.",
+        "es": "[Silbida]\nSupongo que ahora es precisamente esa emergencia."
     },
     "DLDfBw": {
         "ko": "주세요.",
         "en": "Give it to me.",
-        "pt": "Entregue-a.",
+        "pt": "Me dê a Chave de Emergência.",
         "es": "Démela."
     },
     "DbDfBw": {
         "ko": "[짹]\n혹시 보물찾기 좋아하십니까? 아니면 보물찾기에 특출난 재능을 가지고 계십니까? 그렇지 않다면 이제부터라도 가지셨으면 합니다.",
-        "en": "[Jjack]\nDo you happen to like treasure hunts? Or do you have an exceptional talent for treasure hunting? If not, then I hope you will have it from now on.",
-        "pt": "[Jjack]\nGosta de caça ao tesouro? Ou possui talento especial para isso? Caso não, recomendo que desenvolva a partir de agora.",
-        "es": "[Jjack]\n¿Le gusta la búsqueda del tesoro? ¿O acaso tiene un talento excepcional para ello? Si no es así, más le vale tenerlo a partir de ahora."
+        "en": "[Twity]\nDo you happen to like treasure hunts? Or do you have an exceptional talent for treasure hunting? If not, then I hope you will have it from now on.",
+        "pt": "[Sibila]\nPor acaso você gosta de caça ao tesouro? Se não, espero que adquira um a partir de agora.",
+        "es": "[Silbida]\n¿Le gusta la búsqueda del tesoro? ¿O acaso tiene un talento excepcional para ello? Si no es así, más le vale tenerlo a partir de ahora."
     },
     "DrDfBw": {
         "ko": "[짹]\n주인님은 ^0000CD총 3개의 비상열쇠를 창고의 이곳저곳에 숨겨^000000 놓으셨습니다. 그리고 저 안은 아직도 고장난 자동인형이 많습니다.",
-        "en": "[Jjack]\nThe master has ^0000CDhidden a total of 3 Emergency Keys throughout the warehouse^000000. And there are still many broken automatons in there.",
-        "pt": "[Jjack]\nO mestre escondeu ^0000CDum total de 3 Chave de Emergência em diferentes pontos do armazém^000000. E ainda há muitas autômatas defeituosas ali dentro.",
-        "es": "[Jjack]\nEl amo ^0000CDescondió un total de 3 Llave de Emergencia en distintos lugares del almacén^000000. Y ahí dentro todavía hay muchos autómatas averiados."
+        "en": "[Twity]\nThe master has ^0000CDhidden a total of 3 Emergency Keys throughout the warehouse^000000. And there are still many broken automatrons in there.",
+        "pt": "[Sibila]\nO mestre escondeu ^0000CD3 Chaves de Emergência^000000 em pontos distintos no armazém.",
+        "es": "[Silbida]\nEl amo ^0000CDescondió un total de 3 Llave de Emergencia en distintos lugares del almacén^000000. Y ahí dentro todavía hay muchos autómatas averiados."
     },
     "D7DfBw": {
         "ko": "그럼 제가 또...",
         "en": "Then I'll... again...",
-        "pt": "Então eu novamente...",
+        "pt": "Então eu vou...",
         "es": "Entonces yo otra vez..."
     },
     "ELDfBw": {
         "ko": "[짹]\n그렇습니다. 유희를 즐기실 시간입니다. 이렇게 또 손님께 도움을 드려 기쁩니다.",
-        "en": "[Jjack]\nIndeed. It is time to enjoy some amusement. I am glad to be of help to a guest once again.",
-        "pt": "[Jjack]\nExatamente. Hora de aproveitar seu entretenimento. Fico satisfeito em poder ajudá-lo novamente.",
-        "es": "[Jjack]\nAsí es. Es hora de que disfrute del juego. Me alegra poder ayudar de nuevo a un invitado."
+        "en": "[Twity]\nIndeed. It is time to enjoy some amusement. I am glad to be of help to a guest once again.",
+        "pt": "[Sibila]\nVai. Entendi que você ADORA isso. Então, divirta-se.",
+        "es": "[Silbida]\nAsí es. Es hora de que disfrute del juego. Me alegra poder ayudar de nuevo a un invitado."
     },
     "EbDfBw": {
         "ko": "[짹]\n제가 말씀 드리는 장소에서 비상열쇠를 모두 찾아서 지하로 내려가는 문의 잠금장치를 풀면 지하로 내려가실 수 있습니다.",
-        "en": "[Jjack]\nIf you find all of the Emergency Keys in the places I tell you and release the lock mechanism on the door leading underground, you will be able to go down underground.",
-        "pt": "[Jjack]\nEncontre todas as Chave de Emergência nos locais que mencionei e destranque a porta que leva ao subsolo.",
-        "es": "[Jjack]\nSi encuentra todas las Llave de Emergencia en los lugares que le indicaré y desactiva el mecanismo de cierre de la puerta que baja al sótano, podrá descender al sótano."
+        "en": "[Twity]\nIf you find all of the Emergency Keys in the places I tell you and release the lock mechanism on the door leading underground, you will be able to go down underground.",
+        "pt": "[Sibila]\nEncontre todas as Chave de Emergência nos locais destacados e destranque a porta que leva ao subsolo.",
+        "es": "[Silbida]\nSi encuentra todas las Llave de Emergencia en los lugares que le indicaré y desactiva el mecanismo de cierre de la puerta que baja al sótano, podrá descender al sótano."
     },
     "ErDfBw": {
         "ko": "[짹]\n<NAVI>[돌고있는 세상]<INFO>ba_2whs01,110,218,0,101,0</INFO></NAVI>. 그 밑에 모든 진리가 있다 하셨지요. 그런 물건이 있는 곳을 찾아 보십시오.",
-        "en": "[Jjack]\n<NAVI>[The Spinning World]<INFO>ba_2whs01,110,218,0,101,0</INFO></NAVI>. You said that all truth lies beneath it. Try looking for a place where such an object might be.",
-        "pt": "[Jjack]\n<NAVI>[Mundo em Rotação]<INFO>ba_2whs01,110,218,0,101,0</INFO></NAVI>. Disse que abaixo dele reside toda a verdade. Procure onde tal objeto possa estar.",
-        "es": "[Jjack]\n<NAVI>[Mundo en movimiento]<INFO>ba_2whs01,110,218,0,101,0</INFO></NAVI>. Dijo que debajo de eso está toda la verdad. Busque el lugar donde haya algo así."
+        "en": "[Twity]\n<NAVI>[The Spinning World]<INFO>ba_2whs01,110,218,0,101,0</INFO></NAVI>. You said that all truth lies beneath it. Try looking for a place where such an object might be.",
+        "pt": "[Sibila]\nPrimeiro, experimente procurar <NAVI>[nesse lugar]<INFO>ba_2whs01,110,218,0,101,0</INFO></NAVI>.",
+        "es": "[Silbida]\n<NAVI>[Mundo en movimiento]<INFO>ba_2whs01,110,218,0,101,0</INFO></NAVI>. Dijo que debajo de eso está toda la verdad. Busque el lugar donde haya algo así."
     },
     "E7DfBw": {
         "ko": "[짹]\n또한 숨마저 얼어붙는 <NAVI>[곳]<INFO>ba_2whs01,14,282,0,101,0</INFO></NAVI>에서는 모든 것이 영원히 변질되지 않고 그 모습 그대로를 유지한다고 하셨습니다.",
-        "en": "[Jjack]\nAlso, in the <NAVI>[place]<INFO>ba_2whs01,14,282,0,101,0</INFO></NAVI> where even your breath freezes, you said that everything remains forever unspoiled, keeping its form just as it is.",
-        "pt": "[Jjack]\nTambém disse que em um <NAVI>[lugar onde até o fôlego congela]<INFO>ba_2whs01,14,282,0,101,0</INFO></NAVI>, tudo permanece eternamente inalterado.",
-        "es": "[Jjack]\nAdemás, en el <NAVI>[lugar]<INFO>ba_2whs01,14,282,0,101,0</INFO></NAVI> donde hasta el aliento se congela, dijo que todo se conserva para siempre sin alterarse y mantiene su forma tal cual."
+        "en": "[Twity]\nAlso, in the <NAVI>[place]<INFO>ba_2whs01,14,282,0,101,0</INFO></NAVI> where even your breath freezes, you said that everything remains forever unspoiled, keeping its form just as it is.",
+        "pt": "[Sibila]\nDepois, veja se encontra <NAVI>[por aqui]<INFO>ba_2whs01,14,282,0,101,0</INFO></NAVI>.",
+        "es": "[Silbida]\nAdemás, en el <NAVI>[lugar]<INFO>ba_2whs01,14,282,0,101,0</INFO></NAVI> donde hasta el aliento se congela, dijo que todo se conserva para siempre sin alterarse y mantiene su forma tal cual."
     },
     "FLDfBw": {
         "ko": "[짹]\n마지막으로는 모든 공기는 흘러야 한다고 하셨습니다. 거기엔 거대한 에너지도 사용된다고도 하셨지요. <NAVI>[그런 장소]<INFO>ba_2whs01,222,257,0,101,0</INFO></NAVI>가 어딘지 짐작도 가지 않지만요.",
-        "en": "[Jjack]\nLastly, you said that all air must flow. You also said that tremendous energy is used there. I cannot even guess where <NAVI>[such a place]<INFO>ba_2whs01,222,257,0,101,0</INFO></NAVI> might be, though.",
-        "pt": "[Jjack]\nPor fim, afirmou que todo ar deve fluir. Disse ainda que grande energia é utilizada ali. Não faço ideia de onde seja <NAVI>[tal local]<INFO>ba_2whs01,222,257,0,101,0</INFO></NAVI>.",
-        "es": "[Jjack]\nPor último, dijo que todo el aire debe fluir. También dijo que allí se usa una energía enorme. No tengo ni idea de dónde estará <NAVI>[ese lugar]<INFO>ba_2whs01,222,257,0,101,0</INFO></NAVI>, pero..."
+        "en": "[Twity]\nLastly, you said that all air must flow. You also said that tremendous energy is used there. I cannot even guess where <NAVI>[such a place]<INFO>ba_2whs01,222,257,0,101,0</INFO></NAVI> might be, though.",
+        "pt": "[Sibila]\nPor fim, parece que há algo em <NAVI>[tal local]<INFO>ba_2whs01,222,257,0,101,0</INFO></NAVI>.",
+        "es": "[Silbida]\nPor último, dijo que todo el aire debe fluir. También dijo que allí se usa una energía enorme. No tengo ni idea de dónde estará <NAVI>[ese lugar]<INFO>ba_2whs01,222,257,0,101,0</INFO></NAVI>, pero..."
     },
     "FbDfBw": {
         "ko": "[짹]\n모든 힌트가 무엇을 뜻하는지 저로서는 알지 못합니다만, 주인님과 같은 인간인 모험가님께서는 해석하실 수도 있겠지요.",
-        "en": "[Jjack]\nI do not know what all the hints mean, but as an adventurer who is human like the master, you may be able to interpret them.",
-        "pt": "[Jjack]\nNão compreendo o significado das pistas, mas talvez o senhor, sendo humano como o mestre, consiga interpretá-las.",
-        "es": "[Jjack]\nNo sé qué significan todas las pistas, pero usted, aventurero, que es humano como el amo, quizá pueda interpretarlas."
+        "en": "[Twity]\nI do not know what all the hints mean, but as an adventurer who is human like the master, you may be able to interpret them.",
+        "pt": "[Sibila]\nEspero que consiga encontrar as Chaves de Emergência.",
+        "es": "[Silbida]\nNo sé qué significan todas las pistas, pero usted, trotamundos, que es humano como el amo, quizá pueda interpretarlas."
     },
     "FrDfBw": {
         "ko": "[짹]\n위대한 주인님의 뜻을 한 줄이라도 해석하리라고는 기대하지 않지만... 잘 모르시겠다면 전부 뒤져보시면 될겁니다. 그럼 다녀오십시오.",
-        "en": "[Jjack]\nI do not expect you to interpret even a single line of the great master's intent... but if you are unsure, you can search everything. Then please be on your way.",
-        "pt": "[Jjack]\nNão espero que decifre sequer uma linha da vontade do grande mestre... mas se não souber, procure por todos os cantos. Vá.",
-        "es": "[Jjack]\nNo espero que interprete ni una sola línea de la voluntad del gran amo... pero si no lo sabe, puede registrarlo todo. Entonces, que le vaya bien."
+        "en": "[Twity]\nI do not expect you to interpret even a single line of the great master's intent... but if you are unsure, you can search everything. Then please be on your way.",
+        "pt": "[Sibila]\nO Mestre Varmunt soube esconder muito bem nesses locais.",
+        "es": "[Silbida]\nNo espero que interprete ni una sola línea de la voluntad del gran amo... pero si no lo sabe, puede registrarlo todo. Entonces, que le vaya bien."
     },
     "F7DfBw": {
         "ko": "[짹]\n참, 이 말씀을 드리는 것을 잊었습니다. 지하는 굉장히 위험하므로 준비를 단단히 하고 가셔야 합니다. 아시겠지요?",
-        "en": "[Jjack]\nAh, I forgot to tell you this. The underground is extremely dangerous, so you must prepare thoroughly before you go. Understood?",
-        "pt": "[Jjack]\nAh, quase me esqueço. O subsolo é extremamente perigoso, então prepare-se adequadamente antes de descer. Compreendido?",
-        "es": "[Jjack]\nAh, olvidé decirle esto. El sótano es extremadamente peligroso, así que debe ir bien preparado. ¿Entendido?"
+        "en": "[Twity]\nAh, I forgot to tell you this. The underground is extremely dangerous, so you must prepare thoroughly before you go. Understood?",
+        "pt": "[Sibila]\nAh, quase me esqueço. O subsolo é extremamente perigoso, então prepare-se adequadamente antes de descer. Compreendido?",
+        "es": "[Silbida]\nAh, olvidé decirle esto. El sótano es extremadamente peligroso, así que debe ir bien preparado. ¿Entendido?"
     },
     "GLDfBw": {
         "ko": "[짹]\n모든 힌트가 무엇을 뜻하는지 저로서는 알지 못합니다만, 주인님과 같은 인간인 모험가님께서는 해석하실 수도 있겠지요. 그럼 다녀오십시오.",
-        "en": "[Jjack]\nI do not know what all the hints mean, but an adventurer like you, a human like my master, may be able to interpret them. Then, be on your way.",
-        "pt": "[Jjack]\nNão compreendo o significado das pistas, mas talvez o senhor consiga interpretá-las. Vá.",
-        "es": "[Jjack]\nNo sé qué significan todas las pistas, pero un aventurero humano como usted, igual que mi amo, quizá pueda interpretarlas. Entonces, vaya con cuidado."
+        "en": "[Twity]\nI do not know what all the hints mean, but an adventurer like you, a human like my master, may be able to interpret them. Then, be on your way.",
+        "pt": "[Sibila]\nNão compreendo o motivo de tantas chaves, mas não há espaço para questionar o Mestre Varmunt.",
+        "es": "[Silbida]\nNo sé qué significan todas las pistas, pero un trotamundos humano como usted, igual que mi amo, quizá pueda interpretarlas. Entonces, vaya con cuidado."
     },
     "GbDfBw": {
         "ko": "[짹]\n지하의 상황을 확인하고 오셨습니까? 어떻습니까? 흠.. 아직 충분히 살펴보고 오지 못하셨군요. 기다리고 있겠습니다.",
-        "en": "[Jjack]\nHave you gone and checked the situation underground? How is it? Hm... It seems you have not examined it thoroughly yet. I will be waiting.",
-        "pt": "[Jjack]\nVerificou a situação no subsolo? Como está? Hum... ainda não investigou o suficiente. Estarei aguardando.",
-        "es": "[Jjack]\n¿Ha ido a comprobar la situación en el subsuelo? ¿Qué tal? Hmm... Aún no ha podido revisarlo lo suficiente. Estaré esperando."
+        "en": "[Twity]\nHave you gone and checked the situation underground? How is it? Hm... It seems you have not examined it thoroughly yet. I will be waiting.",
+        "pt": "[Sibila]\nVerificou a situação no subsolo? Hm... ainda não investigou o suficiente. Estarei aguardando.",
+        "es": "[Silbida]\n¿Ha ido a comprobar la situación en el subsuelo? ¿Qué tal? Hmm... Aún no ha podido revisarlo lo suficiente. Estaré esperando."
     },
     "GrDfBw": {
         "ko": "[짹]\n지하의 상황을 확인하고 오셨습니까? 어떻습니까? 오랜 시간이 지나도 오시지 않길래 이만 {0}님의 사망 소식을 알려야 하나 고민하던 참입니다.",
-        "en": "[Jjack]\nHave you gone and checked the situation underground? How is it? You did not return even after a long time, so I was just considering whether I should inform you of {0}님의 death.",
-        "pt": "[Jjack]\nVerificou a situação no subsolo? Como está? Como demorou tanto, considerei anunciar a morte de {0}.",
-        "es": "[Jjack]\n¿Ha ido a comprobar la situación en el subsuelo? ¿Qué tal? Como no venía ni después de tanto tiempo, justo estaba pensando si debía informar de la noticia de la muerte de {0}."
+        "en": "[Twity]\nHave you gone and checked the situation underground? How is it? You did not return even after a long time, so I was just considering whether I should inform the others about the death of {0}.",
+        "pt": "[Sibila]\nVerificou a situação no subsolo? Como demorou tanto, considerei anunciar a morte de {0} para todos.",
+        "es": "[Silbida]\n¿Ha ido a comprobar la situación en el subsuelo? ¿Qué tal? Como no venía ni después de tanto tiempo, justo estaba pensando si debía informar de la noticia de la muerte de {0}."
     },
     "G7DfBw": {
         "ko": "[짹]\n저로서도 달갑지 않은 일이었는데 다행입니다. 그런데 왜 이렇게 오랜 시간이 걸렸습니까. 가지고 계신 능력으로는 해결이 벅찬 문제에 맞부닥치셨습니까?",
-        "en": "[Jjack]\nIt was not a welcome matter for me either, so this is a relief. But why did it take so long? Did you run into a problem too difficult to resolve with the abilities you possess?",
-        "pt": "[Jjack]\nTambém não seria agradável para mim. Ainda bem que retornou. Mas por que levou tanto tempo? Encontrou algo além de sua capacidade?",
-        "es": "[Jjack]\nA mí tampoco me agradaba, así que es un alivio. Pero ¿por qué tardó tanto? ¿Se topó con un problema demasiado difícil de resolver con las capacidades que posee?"
+        "en": "[Twity]\nIt was not a welcome matter for me either, so this is a relief. But why did it take so long? Did you run into a problem too difficult to resolve with the abilities you possess?",
+        "pt": "[Sibila]\nMas ainda bem que retornou. Por que levou tanto tempo? Encontrou algo lá?",
+        "es": "[Silbida]\nA mí tampoco me agradaba, así que es un alivio. Pero ¿por qué tardó tanto? ¿Se topó con un problema demasiado difícil de resolver con las capacidades que posee?"
     },
     "HLDfBw": {
         "ko": "[짹]\n가끔 인간은 자신의 능력 이상의 일에 무모할 정도로 도전한다고 들었습니다.",
-        "en": "[Jjack]\nI have heard that humans sometimes challenge things beyond their own abilities, to the point of recklessness.",
-        "pt": "[Jjack]\nOuvi dizer que humanos às vezes desafiam imprudentemente algo além de suas capacidades.",
-        "es": "[Jjack]\nHe oído que, a veces, los humanos desafían de forma temeraria cosas que superan sus propias capacidades."
+        "en": "[Twity]\nI have heard that humans sometimes challenge things beyond their own abilities, to the point of recklessness.",
+        "pt": "[Sibila]\nOuvi dizer que viajantes adoram enrolar para fazer seus deveres.",
+        "es": "[Silbida]\nHe oído que, a veces, los humanos desafían de forma temeraria cosas que superan sus propias capacidades."
     },
     "HbDfBw": {
         "ko": "그게...",
@@ -757,63 +757,63 @@
     },
     "HrDfBw": {
         "ko": "[짹]\n그러니까 {0}님의 말씀을 정리하자면, 굳이 문을 열고 지하에 내려가지 않았더라면 위험할 것 없는 상황이었단 것입니까.\n내버려두면 평화롭고 안전한 상태가 계속 유지됐을 거고요.",
-        "en": "[Jjack]\nSo, to summarize what {0}님 said, if you had not gone out of your way to open the door and go down underground, it would have been a situation with no danger.\nIf left alone, a peaceful and safe state would have continued to be maintained.",
-        "pt": "[Jjack]\nEntão, resumindo suas palavras, se não tivesse aberto a porta e descido ao subsolo, não haveria perigo algum?\nSe deixado como estava, permaneceria em paz e segurança.",
-        "es": "[Jjack]\nEntonces, resumiendo lo que dice {0}, ¿significa que, si no hubiera abierto la puerta y bajado al subsuelo, no habría habido ningún peligro?\nY que, si lo hubiera dejado como estaba, se habría mantenido un estado pacífico y seguro."
+        "en": "[Twity]\nSo, to summarize what {0} said, if you had not gone out of your way to open the door and go down underground, it would have been a situation with no danger.\nIf left alone, a peaceful and safe state would have continued to be maintained.",
+        "pt": "[Sibila]\nEntão, resumindo suas palavras, você abriu a porta e mais autômatos entraram?\nSe não tivesse entrado, o subsolo permaneceria em segurança?",
+        "es": "[Silbida]\nEntonces, resumiendo lo que dice {0}, ¿significa que, si no hubiera abierto la puerta y bajado al subsuelo, no habría habido ningún peligro?\nY que, si lo hubiera dejado como estaba, se habría mantenido un estado pacífico y seguro."
     },
     "H7DfBw": {
         "ko": "[짹]\n그리고 거기서 누군가 새 몸을 얻었습니다.",
-        "en": "[Jjack]\nAnd there, someone obtained a new body.",
-        "pt": "[Jjack]\nE lá alguém obteve um novo corpo.",
-        "es": "[Jjack]\nY allí, alguien obtuvo un nuevo cuerpo."
+        "en": "[Twity]\nAnd there, someone obtained a new body.",
+        "pt": "[Sibila]\nE lá embaixo, um ser vivo obteve um novo corpo?",
+        "es": "[Silbida]\nY allí, alguien obtuvo un nuevo cuerpo."
     },
     "ILDfBw": {
         "ko": "[짹]\n절대로 아무 것도 건들지 말라고 말씀 드렸는데도 불구하고 손님께서 직접 그 몸을 이루는 부품을 얻어다 만들어 주셨습니다. 맞습니까?",
-        "en": "[Jjack]\nEven though I told you never to touch anything, you personally obtained the parts that make up that body and made it for them. Is that correct?",
-        "pt": "[Jjack]\nEmbora eu tenha dito para não tocar em nada, o senhor reuniu as peças e montou esse corpo. Correto?",
-        "es": "[Jjack]\nLe dije que no tocara absolutamente nada, y aun así usted mismo consiguió las piezas que componen ese cuerpo y se lo fabricó. ¿Es correcto?"
+        "en": "[Twity]\nEven though I told you never to touch anything, you personally obtained the parts that make up that body and made it for them. Is that correct?",
+        "pt": "[Sibila]\nEmbora eu tenha pedido para NÃO TOCAR em nada, você foi lá e montou esse corpo. Correto?",
+        "es": "[Silbida]\nLe dije que no tocara absolutamente nada, y aun así usted mismo consiguió las piezas que componen ese cuerpo y se lo fabricó. ¿Es correcto?"
     },
     "IbDfBw": {
         "ko": "네...",
         "en": "Yes...",
-        "pt": "Sim...",
+        "pt": "Er... s-sim.",
         "es": "Sí..."
     },
     "IrDfBw": {
         "ko": "[짹]\n그리고 그게 어떤 성향인지도 모릅니다. 최악의 경우, 그것이 지하에서 올라와 우리를 파멸로 몰아 넣을지도 모르는 일이고요. 맞습니까?",
-        "en": "[Jjack]\nAnd you do not even know what disposition it has. In the worst case, it may come up from underground and drive us to ruin. Is that correct?",
-        "pt": "[Jjack]\nE não sabemos qual é sua natureza. No pior cenário, pode subir do subsolo e nos conduzir à ruína. Correto?",
-        "es": "[Jjack]\nY ni siquiera sabemos qué clase de inclinación tiene. En el peor de los casos, podría subir desde el subsuelo y empujarnos a la ruina. ¿Es correcto?"
+        "en": "[Twity]\nAnd you do not even know what disposition it has. In the worst case, it may come up from underground and drive us to ruin. Is that correct?",
+        "pt": "[Sibila]\nE não sabemos qual é a natureza dele. No pior cenário, pode subir do subsolo e nos aniquilar. Correto?",
+        "es": "[Silbida]\nY ni siquiera sabemos qué clase de inclinación tiene. En el peor de los casos, podría subir desde el subsuelo y empujarnos a la ruina. ¿Es correcto?"
     },
     "I7DfBw": {
         "ko": "그렇지만 떠나지 않는다고...",
         "en": "But it says it will not leave...",
-        "pt": "Mas disse que não sairia...",
+        "pt": "Mas ele disse que não vai sair...",
         "es": "Pero dijo que no se irá..."
     },
     "JLDfBw": {
         "ko": "[짹]\n이렇게 생각해 보십시오. 주인님께서는 위험구역에 왜 굳이 머리만 두었을까.\n위험물이 가득 차있는 곳에 외로이 놓여진 머리 하나. 혹시 그것 또한 위험물이 아닐까.",
-        "en": "[Jjack]\nThink of it this way. Why would my master leave only Head in the danger zone.\nA single Head left all alone in a place filled with hazardous materials. Could it, too, be a hazardous material?",
-        "pt": "[Jjack]\nPense desta forma. Por que o mestre deixou apenas uma Cabeça naquela zona de risco?\nUma única Cabeça isolada em meio a tantos materiais perigosos. E se ela própria for um perigo?",
-        "es": "[Jjack]\nPiénselo de este modo. ¿Por qué mi amo dejó solo Cabeza en la zona de peligro?\nUna sola Cabeza colocada en soledad en un lugar repleto de materiales peligrosos. ¿Y si eso también fuera un material peligroso?"
+        "en": "[Twity]\nThink of it this way. Why would my master leave only a Head in the danger zone.\nA single Head left all alone in a place filled with hazardous materials. Could it, too, be a hazardous material?",
+        "pt": "[Sibila]\nPense nisso: por que o mestre deixaria apenas uma cabeça em uma área perigosa?\nUma cabeça solitária em um lugar cheio de itens perigosos. Será que ela também não é um item perigoso?",
+        "es": "[Silbida]\nPiénselo de este modo. ¿Por qué mi amo dejó solo una Cabeza en la zona de peligro?\nUna sola Cabeza colocada en soledad en un lugar repleto de materiales peligrosos. ¿Y si eso también fuera un material peligroso?"
     },
     "JbDfBw": {
         "ko": "[짹]\n가장 높은 등급의 전투형 자동인형도 지하의 위험물 구역에서 만들지 않습니다. 그것은 어쩌면 차세대 병기일지도 모릅니다.\n시험작이 적과 아군 구분을 할 줄이나 안다면 운이 좋은 겁니다.",
-        "en": "[Jjack]\nEven the highest-grade combat automaton is not made in the underground hazardous materials zone. It may be a next-generation weapon.\nIf the prototype can even distinguish between enemy and ally, you are fortunate.",
-        "pt": "[Jjack]\nNem mesmo autômatas de combate de nível mais alto são criadas na área de risco do subsolo. Talvez seja uma arma da próxima geração.\nSe ao menos o protótipo souber distinguir aliado de inimigo, será sorte.",
-        "es": "[Jjack]\nNi siquiera las marionetas automáticas de combate de mayor rango se fabrican en la zona de materiales peligrosos del subsuelo. Quizá sea un arma de nueva generación.\nSi el prototipo siquiera sabe distinguir entre enemigo y aliado, será que tenemos suerte."
+        "en": "[Twity]\nEven the highest-grade combat automatron is not made in the underground hazardous materials zone. It may be a next-generation weapon.\nIf the prototype can even distinguish between enemy and ally, you are fortunate.",
+        "pt": "[Sibila]\nNem mesmo autômatas de combate do nível mais alto são criadas no subsolo.\nSe a cabeça souber distinguir inimigo de aliado, já teremos sorte.",
+        "es": "[Silbida]\nNi siquiera las marionetas automáticas de combate de mayor rango se fabrican en la zona de materiales peligrosos del subsuelo. Quizá sea un arma de nueva generación.\nSi el prototipo siquiera sabe distinguir entre enemigo y aliado, será que tenemos suerte."
     },
     "JrDfBw": {
         "ko": "[짹]\n자동인형이 불러올 재앙은 이제 걱정거리도 아니게 되었습니다.",
-        "en": "[Jjack]\nThe disaster the automaton may bring is no longer even a concern.",
-        "pt": "[Jjack]\nA catástrofe causada pelas autômatas deixou de ser nossa maior preocupação.",
-        "es": "[Jjack]\nEl desastre que podría traer la marioneta automática ya ni siquiera es una preocupación."
+        "en": "[Twity]\nThe disaster the automatron may bring is no longer even a concern.",
+        "pt": "[Sibila]\nA catástrofe causada pelas autômatas deixou de ser nossa maior preocupação.",
+        "es": "[Silbida]\nEl desastre que podría traer la marioneta automática ya ni siquiera es una preocupación."
     },
     "J7DfBw": {
         "ko": "[짹]\n이제 이 일을 어떻게 해결하면 좋겠습니까. {0}님께서 깊은 생각 없이 선의로 달아준 팔과 다리를 가지고 지상으로 올라와 그 손과 발로 우리를 끝장낼겁니다.",
-        "en": "[Jjack]\nNow, how should we resolve this matter? With the arms and legs that {0}님 attached in goodwill without deep thought, it will come up to the surface and use those hands and feet to finish us off.",
-        "pt": "[Jjack]\nComo resolveremos isso agora? Com os braços e pernas que o senhor adicionou por boa vontade, poderá subir e nos exterminar.",
-        "es": "[Jjack]\nAhora, ¿cómo sería bueno resolver esto? Con los brazos y piernas que {0} le puso de buena fe y sin pensarlo a fondo, subirá a la superficie y con esas manos y pies nos rematará."
+        "en": "[Twity]\nNow, how should we resolve this matter? With the arms and legs that {0} attached in goodwill without deep thought, it will come up to the surface and use those hands and feet to finish us off.",
+        "pt": "[Sibila]\nAgora, como resolver isso? Com a ajuda burra de {0}, aquilo pode sair do subsolo e causar um apocalipse.",
+        "es": "[Silbida]\nAhora, ¿cómo sería bueno resolver esto? Con los brazos y piernas que {0} le puso de buena fe y sin pensarlo a fondo, subirá a la superficie y con esas manos y pies nos rematará."
     },
     "KLDfBw": {
         "ko": "그건 너무 비약...",
@@ -823,9 +823,9 @@
     },
     "KbDfBw": {
         "ko": "[짹]\n어쩌실 겁니까. 전투형 인간인 {0}님, 유희를 즐기러 다시 내려가실 겁니까? 하지만 그것을 직접 처리하실 거라면 애초에 부탁을 들어주지도 않았겠지요.",
-        "en": "[Jjack]\nWhat will you do? {0}님, a combat-type human, will you go down again to enjoy yourself? But if you were going to deal with it yourself, you would not have granted the request in the first place.",
-        "pt": "[Jjack]\nO que fará? {0}, humano de combate, descerá novamente para se divertir? Mas se pretendesse eliminá-la, não teria aceitado o pedido.",
-        "es": "[Jjack]\n¿Qué hará? {0}, humano de combate, ¿bajará de nuevo para disfrutar del juego? Pero si fuera a encargarse de ello usted mismo, desde el principio no habría aceptado la petición."
+        "en": "[Twity]\nWhat will you do? {0}, a combat-type human, will you go down again to enjoy yourself? But if you were going to deal with it yourself, you would not have granted the request in the first place.",
+        "pt": "[Sibila]\nO que fará? Vai descer lá e enfrentá-lo {0}? Mas se pretendesse eliminá-lo, não teria ajudado.",
+        "es": "[Silbida]\n¿Qué hará? {0}, humano de combate, ¿bajará de nuevo para disfrutar del juego? Pero si fuera a encargarse de ello usted mismo, desde el principio no habría aceptado la petición."
     },
     "KrDfBw": {
         "ko": "......",
@@ -835,135 +835,135 @@
     },
     "K7DfBw": {
         "ko": "[짹]\n그럼 방법은 한가지 뿐입니다. 다행히 그것은 밖으로는 나오지 않는다고 말씀하셨습니다.",
-        "en": "[Jjack]\nThen there is only one way. Fortunately, you said it does not come outside.",
-        "pt": "[Jjack]\nEntão resta apenas uma opção. Felizmente, disse que não sairá.",
-        "es": "[Jjack]\nEntonces solo hay una manera. Por suerte, usted dijo que eso no saldrá al exterior."
+        "en": "[Twity]\nThen there is only one way. Fortunately, you said it does not come outside.",
+        "pt": "[Sibila]\nEntão resta apenas uma opção. Felizmente, a cabeça disse que não sairá do subsolo.",
+        "es": "[Silbida]\nEntonces solo hay una manera. Por suerte, usted dijo que eso no saldrá al exterior."
     },
     "LLDfBw": {
         "ko": "[짹]\n^0000CD이 일은 이대로 조용히 덮습니다^000000. 이 저택에서, 아니 이 세상에서 오직 {0}님과 저만이 아는 사실입니다.",
-        "en": "[Jjack]\n^0000CDWe will quietly put this matter to rest^000000. In this mansion—no, in this world—only you, {0} , and I know the truth.",
-        "pt": "[Jjack]\n^0000CDEncobriremos este incidente em silêncio^000000. Nesta mansão, ou melhor, neste mundo, apenas o senhor e eu saberemos.",
-        "es": "[Jjack]\n^0000CDEste asunto quedará silenciado tal como está^000000. En esta mansión, no, en este mundo, es un hecho que solo {0} y yo conocemos."
+        "en": "[Twity]\n^0000CDWe will quietly put this matter to rest^000000. In this mansion—no, in this world—only you, {0} , and I know the truth.",
+        "pt": "[Sibila]\nVamos ^0000CDabafar este caso^000000. Será um fato conhecido apenas por {0} e por mim nesta mansão. Não! Neste mundo.",
+        "es": "[Silbida]\n^0000CDEste asunto quedará silenciado tal como está^000000. En esta mansión, no, en este mundo, es un hecho que solo {0} y yo conocemos."
     },
     "LbDfBw": {
         "ko": "[짹]\n역할을 나누어야 합니다. 저는 계속 이곳에 대기하며 지하로 드나드는 이가 없도록 막을 겁니다. 저것이 지상으로 올라오는지도 감시할 겁니다.",
-        "en": "[Jjack]\nWe must divide our roles. I will remain here and prevent anyone from coming and going underground. I will also keep watch to see whether that thing comes up to the surface.",
-        "pt": "[Jjack]\nDividiremos as funções. Permanecerei aqui, impedindo que alguém desça ao subsolo e monitorando se aquilo tenta subir.",
-        "es": "[Jjack]\nDebemos repartirnos las tareas. Yo seguiré aquí en espera e impediré que alguien entre o salga del sótano. También vigilaré si eso sube a la superficie."
+        "en": "[Twity]\nWe must divide our roles. I will remain here and prevent anyone from coming and going underground. I will also keep watch to see whether that thing comes up to the surface.",
+        "pt": "[Sibila]\nDividiremos as funções. Permanecerei aqui, impedindo que alguém desça ao subsolo e monitorando se aquilo tenta subir.",
+        "es": "[Silbida]\nDebemos repartirnos las tareas. Yo seguiré aquí en espera e impediré que alguien entre o salga del sótano. También vigilaré si eso sube a la superficie."
     },
     "LrDfBw": {
         "ko": "[짹]\n대신 {0}님은 매일 이곳으로 와서 더 이상의 위험이 없도록 ^0000CD지상층과 지하층을 청소^000000하는 겁니다.",
-        "en": "[Jjack]\nIn return, you, {0} , will come here every day and ^0000CDclean the upper floor and the basement^000000 so there is no further danger.",
-        "pt": "[Jjack]\nEm troca, o senhor deverá vir diariamente e ^0000CDlimpar o andar superior e o subsolo^000000, garantindo que não haja novos perigos.",
-        "es": "[Jjack]\nEn cambio, {0} debe venir aquí cada día y ^0000CDlimpiar la planta superior y la planta subterránea^000000 para que no haya más peligro."
+        "en": "[Twity]\nIn return, you, {0} , will come here every day and ^0000CDclean the upper floor and the basement^000000 so there is no further danger.",
+        "pt": "[Sibila]\nEm troca, {0} virá todos os dias para ^0000CDlimpar o armazém e o subsolo^000000 dos perigos.",
+        "es": "[Silbida]\nEn cambio, {0} debe venir aquí cada día y ^0000CDlimpiar la planta superior y la planta subterránea^000000 para que no haya más peligro."
     },
     "L7DfBw": {
         "ko": "지상층도요?",
         "en": "The upper floor too?",
-        "pt": "O andar superior também?",
+        "pt": "Esse andar também?",
         "es": "¿La planta superior también?"
     },
     "MLDfBw": {
         "ko": "[짹]\n고장난 청소로봇 같은 것이 문제가 아니었습니다. 창고를 점검하던 중 잔류한 침입자들이 눈에 띄었습니다. 하트헌터 척후병이라고 하더군요. 말씀드렸다시피 저는 해야 할 일이 많습니다.",
-        "en": "[Jjack]\nA broken cleaning robot was not the problem. While inspecting the storage, I noticed intruders who were still lingering. They called them Heart Hunter. As I said, I have many duties to attend to.",
-        "pt": "[Jjack]\nOs robôs de limpeza defeituosos não eram o único problema. Ao inspecionar o armazém, encontrei invasores remanescentes chamados Intruso. Como já disse, tenho muitas tarefas.",
-        "es": "[Jjack]\nEl problema no era algo como un robot de limpieza averiado. Mientras inspeccionaba el almacén, vi a intrusos rezagados. Decían llamarse Cazador de corazones. Como le dije, tengo muchas cosas que hacer."
+        "en": "[Twity]\nA broken cleaning robot was not the problem. While inspecting the storage, I noticed intruders who were still lingering. They called them Heart Hunter. As I said, I have many duties to attend to.",
+        "pt": "[Sibila]\nAs Ômegas Quebradas não eram o único problema. Ao inspecionar o armazém, encontrei invasores da Caça-Coração.",
+        "es": "[Silbida]\nEl problema no era algo como un robot de limpieza averiado. Mientras inspeccionaba el almacén, vi a intrusos rezagados. Decían llamarse Cazador de corazones. Como le dije, tengo muchas cosas que hacer."
     },
     "MbDfBw": {
         "ko": "[짹]\n그러니 이곳의 물건들을 지킬 수 있도록 지상층의 하트헌터 척후병들을, 그리고 새로 탄생한 병기의 심기를 거스르지 않도록 지하층의 고장난 창고 관리자를 정리해주십시오.",
-        "en": "[Jjack]\nSo, to protect the items here, please deal with the Heart Hunter scouts on the upper floor, and the broken warehouse manager in the basement so as not to offend the newly born weapon.",
-        "pt": "[Jjack]\nPortanto, elimine os batedores Caça-Corações no andar superior e os administradores de armazém defeituosos no subsolo, para não irritar a nova arma.",
-        "es": "[Jjack]\nAsí que, para poder proteger los objetos de este lugar, elimine a los exploradores Heart Hunter de la planta superior y, en la planta subterránea, encarguese del administrador de almacén averiado para no contrariar a la nueva arma nacida."
+        "en": "[Twity]\nSo, to protect the items here, please deal with the Heart Hunter scouts on the upper floor, and the broken warehouse manager in the basement so as not to offend the newly born weapon.",
+        "pt": "[Sibila]\nPortanto, elimine os Caçadores da Caça-Coração nesse andar e as Almoxarifes no subsolo, para não irritar aquela criatura lá embaixo.",
+        "es": "[Silbida]\nAsí que, para poder proteger los objetos de este lugar, elimine a los exploradores Heart Hunter de la planta superior y, en la planta subterránea, encarguese del administrador de almacén averiado para no contrariar a la nueva arma nacida."
     },
     "MrDfBw": {
         "ko": "[짹]\n손해 볼 것은 없지 않습니까. 유희를 즐기는 것이니 말입니다. 물론 그에 따른 보수도 드리겠습니다. 비상열쇠 없이 지하에 드나들 수 있도록 생체 등록도 해드리겠습니다.",
-        "en": "[Jjack]\nThere is nothing for you to lose, is there? You are doing it for amusement, after all. Of course, I will also pay you accordingly. I will also register your biometrics so you can go in and out of the basement without the Emergency Key.",
-        "pt": "[Jjack]\nNão é prejuízo para o senhor. Afinal, aprecia esse entretenimento. Naturalmente, haverá recompensa. Também registrarei seus dados biométricos para que possa acessar o subsolo sem Chave de Emergência.",
-        "es": "[Jjack]\nNo tiene nada que perder, ¿verdad? Se trata de disfrutar del entretenimiento. Por supuesto, también le daré una recompensa acorde. También le haré un registro biométrico para que pueda entrar y salir del sótano sin la Llave de Emergencia."
+        "en": "[Twity]\nThere is nothing for you to lose, is there? You are doing it for amusement, after all. Of course, I will also pay you accordingly. I will also register your biometrics so you can go in and out of the basement without the Emergency Key.",
+        "pt": "[Sibila]\nÉ um bom acordo, já que gosta de se divertir. Claro, lhe darei recompensas. Registrei sua biometria para entrar e sair do subsolo sem a chave de emergência.",
+        "es": "[Silbida]\nNo tiene nada que perder, ¿verdad? Se trata de disfrutar del entretenimiento. Por supuesto, también le daré una recompensa acorde. También le haré un registro biométrico para que pueda entrar y salir del sótano sin la Llave de Emergencia."
     },
     "M7DfBw": {
         "ko": "그러죠.",
         "en": "All right.",
-        "pt": "Certo.",
+        "pt": "Entendido.",
         "es": "De acuerdo."
     },
     "NLDfBw": {
         "ko": "[짹]\n감사합니다. 약속의 증표로 이 식권을 드리겠습니다. 그럼, 비밀을 지키는 것으로 알겠습니다.",
-        "en": "[Jjack]\nThank you. As a token of our promise, I will give you this meal voucher. Then, I will take it that you will keep the secret.",
-        "pt": "[Jjack]\nAgradeço. Como símbolo do acordo, receba este vale-refeição. Considerarei o segredo preservado.",
-        "es": "[Jjack]\nGracias. Como prueba de nuestra promesa, le daré este vale de comida. Entonces, entenderé que guardará el secreto."
+        "en": "[Twity]\nThank you. As a token of our promise, I will give you this Varmeal Ticket. Then, I will take it that you will keep the secret.",
+        "pt": "[Sibila]\nObrigada. Como prova do nosso pacto, lhe darei este Vale Varmida. Então, manteremos o segredo.",
+        "es": "[Silbida]\nGracias. Como prueba de nuestra promesa, le daré este vale de comida. Entonces, entenderé que guardará el secreto."
     },
     "NbDfBw": {
         "ko": "비상열쇠는 도로 가져가겠습니다.",
         "en": "I will take back the Emergency Key.",
-        "pt": "Recuperarei a Chave de Emergência.",
+        "pt": "Ficarei com as chaves de emergência.",
         "es": "Me llevaré de vuelta la Llave de Emergencia."
     },
     "NrDfBw": {
         "ko": "[짹]\n저희의 약속을 지키러 오셨습니까? 지상, 지하 어떤 곳 말씀이십니까?",
-        "en": "[Jjack]\nHave you come to keep our promise? Are you referring to the upper floor or the basement?",
-        "pt": "[Jjack]\nVeio cumprir nosso acordo? Refere-se ao andar superior ou ao subsolo?",
-        "es": "[Jjack]\n¿Ha venido a cumplir nuestra promesa? ¿Se refiere a la superficie o al subsuelo?"
+        "en": "[Twity]\nHave you come to keep our promise? Are you referring to the upper floor or the basement?",
+        "pt": "[Sibila]\nVeio cumprir nosso acordo? Que serviço quer fazer hoje?",
+        "es": "[Silbida]\n¿Ha venido a cumplir nuestra promesa? ¿Se refiere a la superficie o al subsuelo?"
     },
     "N7DfBw": {
         "ko": "지상층이요.",
         "en": "The upper floor.",
-        "pt": "Andar superior.",
+        "pt": "Limpeza do Armazém",
         "es": "La planta superior."
     },
     "OLDfBw": {
         "ko": "^AAAAAA지상층 - 대기중^000000",
         "en": "^AAAAAAUpper Floor - Waiting^000000",
-        "pt": "^AAAAAAAndar superior - Em espera^000000",
+        "pt": "^AAAAAA[Espera] Limpeza do Armazém^000000",
         "es": "^AAAAAAPlanta superior - En espera^000000"
     },
     "ObDfBw": {
         "ko": "지상층을 처리했어요.",
         "en": "I took care of the upper floor.",
-        "pt": "Concluí o andar superior.",
+        "pt": "[Feito] Limpeza do Armazém",
         "es": "Me encargué de la planta superior."
     },
     "OrDfBw": {
         "ko": "^AAAAAA지상층 - 수행중^000000",
         "en": "^AAAAAAUpper Floor - In Progress^000000",
-        "pt": "^AAAAAAAndar superior - Em andamento^000000",
+        "pt": "^AAAAAA[Em Curso] Limpeza do Armazém^000000",
         "es": "^AAAAAAPlanta superior - En curso^000000"
     },
     "O7DfBw": {
         "ko": "지하층이요.",
         "en": "The basement.",
-        "pt": "Subsolo.",
+        "pt": "Vigiar o Subsolo",
         "es": "La planta subterránea."
     },
     "PLDfBw": {
         "ko": "^AAAAAA지하층 - 대기중^000000",
         "en": "^AAAAAABasement - Waiting^000000",
-        "pt": "^AAAAAASubsolo - Em espera^000000",
+        "pt": "^AAAAAA[Espera] Vigiar o Subsolo^000000",
         "es": "^AAAAAAPlanta subterránea - En espera^000000"
     },
     "PbDfBw": {
         "ko": "지하층을 처리했어요.",
         "en": "I took care of the basement.",
-        "pt": "Concluí o subsolo.",
+        "pt": "[Feito] Vigiar o Subsolo",
         "es": "Me encargué de la planta subterránea."
     },
     "PrDfBw": {
         "ko": "^AAAAAA지하층 - 수행중^000000",
         "en": "^AAAAAABasement - In Progress^000000",
-        "pt": "^AAAAAASubsolo - Em andamento^000000",
+        "pt": "^AAAAAA[Em Curso] Vigiar o Subsolo^000000",
         "es": "^AAAAAAPlanta subterránea - En curso^000000"
     },
     "P7DfBw": {
         "ko": "별일 없는지 궁금해서요.",
         "en": "I was wondering if anything was going on.",
-        "pt": "Só estava curioso se está tudo bem.",
+        "pt": "Queria saber se está tudo bem.",
         "es": "Solo quería saber si todo está bien."
     },
     "QLDfBw": {
         "ko": "[짹]\n정말 전투를 좋아하시는군요. 그럼 ^0000CD지상층의 하트헌터 척후병 20명^000000 처리를 부탁드립니다.",
-        "en": "[Jjack]\nYou really do like fighting. Then please take care of 20 Heart Hunter on the ^0000CDGround Floor^000000.",
-        "pt": "[Jjack]\nRealmente aprecia combate. Então elimine ^0000CD20 Intruso no andar superior^000000.",
-        "es": "[Jjack]\nDe verdad le gusta el combate. Entonces, le pido que se encargue de 20 Cazador de corazones en el ^0000CDpiso superior^000000."
+        "en": "[Twity]\nYou really do like fighting. Then please take care of 20 Heart Hunter on the ^0000CDGround Floor^000000.",
+        "pt": "[Sibila]\nVocê realmente aprecia combate. Elimine ^0000CD20x Caçador de Coração^000000.",
+        "es": "[Silbida]\nDe verdad le gusta el combate. Entonces, le pido que se encargue de 20 Cazador de corazones en el ^0000CDpiso superior^000000."
     },
     "QbDfBw": {
         "ko": "알겠어요.",
@@ -974,56 +974,56 @@
     "QrDfBw": {
         "ko": "오늘은 쉬고 싶은데...",
         "en": "I want to take a break today...",
-        "pt": "Hoje prefiro descansar...",
+        "pt": "Prefiro descansar...",
         "es": "Hoy quiero descansar..."
     },
     "Q7DfBw": {
         "ko": "[짹]\n그동안 저도 제 일을 하고 있겠습니다.",
-        "en": "[Jjack]\nIn the meantime, I will be doing my work as well.",
-        "pt": "[Jjack]\nEnquanto isso, cuidarei das minhas tarefas.",
-        "es": "[Jjack]\nMientras tanto, yo también estaré haciendo mi trabajo."
+        "en": "[Twity]\nIn the meantime, I will be doing my work as well.",
+        "pt": "[Sibila]\nEnquanto isso, cuidarei das minhas tarefas.",
+        "es": "[Silbida]\nMientras tanto, yo también estaré haciendo mi trabajo."
     },
     "RLDfBw": {
         "ko": "[짹]\n그렇습니까? 좋아하는 일이라면 매일하고 싶어할 줄 알았는데. 의외입니다.",
-        "en": "[Jjack]\nIs that so? I thought you would want to do what you like every day. How unexpected.",
-        "pt": "[Jjack]\nÉ mesmo? Achei que gostaria de fazer o que gosta todos os dias. Surpreendente.",
-        "es": "[Jjack]\n¿De veras? Pensé que, si era algo que le gustaba, querría hacerlo todos los días. Qué inesperado."
+        "en": "[Twity]\nIs that so? I thought you would want to do what you like every day. How unexpected.",
+        "pt": "[Sibila]\nÉ mesmo? Achei que gostaria de fazer o que gosta todos os dias. Surpreendente.",
+        "es": "[Silbida]\n¿De veras? Pensé que, si era algo que le gustaba, querría hacerlo todos los días. Qué inesperado."
     },
     "RbDfBw": {
         "ko": "[짹]\n하지만 이 이상 시끄럽게 하면 그것이 올라올지 모릅니다. 새벽이 지난 후에 다시 와주십시오.",
-        "en": "[Jjack]\nBut if it gets any louder, it might come up. Please come back after dawn has passed.",
-        "pt": "[Jjack]\nMas se houver agitação excessiva, aquilo pode subir. Retorne após o amanhecer.",
-        "es": "[Jjack]\nPero si hacemos más ruido, puede que eso suba. Por favor, vuelva después del amanecer."
+        "en": "[Twity]\nBut if it gets any louder, it might come up. Please come back after dawn has passed.",
+        "pt": "[Sibila]\nMas se fizer mais barulho que isso, aquele monstro pode subir. Volte depois do amanhecer.",
+        "es": "[Silbida]\nPero si hacemos más ruido, puede que eso suba. Por favor, vuelva después del amanecer."
     },
     "RrDfBw": {
         "ko": "[짹]\n모두 처리하셨습니까?",
-        "en": "[Jjack]\nHave you taken care of them all?",
-        "pt": "[Jjack]\nJá eliminou todos?",
-        "es": "[Jjack]\n¿Se ha encargado de todos?"
+        "en": "[Twity]\nHave you taken care of them all?",
+        "pt": "[Sibila]\nJá eliminou todos?",
+        "es": "[Silbida]\n¿Se ha encargado de todos?"
     },
     "R7DfBw": {
         "ko": "[짹]\n개체수가 줄어든 것이 확인됩니다. 이제 제 일을 시작해도 되겠습니다. 감사합니다. 새벽이 지난 후에 다시 찾아주십시오.",
-        "en": "[Jjack]\nI can confirm their numbers have decreased. Now I can begin my work. Thank you. Please come back after dawn has passed.",
-        "pt": "[Jjack]\nConfirmo a redução das unidades. Posso iniciar meu trabalho. Agradeço. Retorne após o amanhecer.",
-        "es": "[Jjack]\nSe confirma que el número de individuos ha disminuido. Ahora podré empezar mi trabajo. Gracias. Por favor, vuelva después del amanecer."
+        "en": "[Twity]\nI can confirm their numbers have decreased. Now I can begin my work. Thank you. Please come back after dawn has passed.",
+        "pt": "[Sibila]\nConfirmo que o número diminuiu. Agora posso começar meu trabalho. Obrigada. Volte depois do amanhecer.",
+        "es": "[Silbida]\nSe confirma que el número de individuos ha disminuido. Ahora podré empezar mi trabajo. Gracias. Por favor, vuelva después del amanecer."
     },
     "SLDfBw": {
         "ko": "[짹]\n아직도 저것들이 저렇게 활개를 치고 다니는 것이 보이지 않으십니까. ^0000CD지상층의 하트헌터 척후병 20명^000000 처리를 부탁드립니다.",
-        "en": "[Jjack]\nCan you not still see them strutting around like that? Please take care of 20 Heart Hunter on the ^0000CDGround Floor^000000.",
-        "pt": "[Jjack]\nAinda não vê que eles continuam circulando livremente? Elimine ^0000CD20 Intruso no andar superior^000000.",
-        "es": "[Jjack]\n¿Acaso no ve que todavía andan por ahí campando a sus anchas? Le pido que se encargue de 20 Cazador de corazones en el ^0000CDpiso superior^000000."
+        "en": "[Twity]\nCan you not still see them strutting around like that? Please take care of 20 Heart Hunter on the ^0000CDGround Floor^000000.",
+        "pt": "[Sibila]\nNão consegue ver eles andando por aí? Por favor, elimine ^0000CD20x Caçador de Coração^000000.",
+        "es": "[Silbida]\n¿Acaso no ve que todavía andan por ahí campando a sus anchas? Le pido que se encargue de 20 Cazador de corazones en el ^0000CDpiso superior^000000."
     },
     "SbDfBw": {
         "ko": "[짹]\n정말 전투를 좋아하시는군요. 그럼 ^0000CD지상층의 하트헌터 척후병 20명^000000 처리를 부탁드립니다..",
-        "en": "[Jjack]\nYou really do like fighting. Then please take care of 20 Heart Hunter on the ^0000CDGround Floor^000000..",
-        "pt": "[Jjack]\nRealmente aprecia combate. Então elimine ^0000CD20 Intruso no andar superior^000000.",
-        "es": "[Jjack]\nDe verdad le gusta el combate. Entonces, le pido que se encargue de 20 Cazador de corazones en el ^0000CDpiso superior^000000.."
+        "en": "[Twity]\nYou really do like fighting. Then please take care of 20 Heart Hunter on the ^0000CDGround Floor^000000..",
+        "pt": "[Sibila]\nVocê realmente aprecia combate. Elimine ^0000CD20x Caçador de Coração^000000.",
+        "es": "[Silbida]\nDe verdad le gusta el combate. Entonces, le pido que se encargue de 20 Cazador de corazones en el ^0000CDpiso superior^000000.."
     },
     "SrDfBw": {
         "ko": "[짹]\n네? 지하층 말씀이십니까? 말씀드렸다시피 지하층은 굉장히 위험한 곳이라 지금의 상태로는... 힘들어 보입니다. 목숨을 좀 더 가치있는 곳에 쓰는 것이 어떨까요?",
-        "en": "[Jjack]\nPardon? You mean the basement? As I said, the basement is an extremely dangerous place, so in your current condition... it seems difficult. How about using your life for something more worthwhile?",
-        "pt": "[Jjack]\nO quê? Refere-se ao subsolo? Como disse, é extremamente perigoso. No estado atual, parece inviável. Talvez devesse preservar sua vida para algo mais valioso.",
-        "es": "[Jjack]\n¿Qué? ¿Se refiere al piso subterráneo? Como le dije, el piso subterráneo es un lugar extremadamente peligroso, así que en su estado actual... parece difícil. ¿Qué le parece usar su vida en algo más valioso?"
+        "en": "[Twity]\nPardon? You mean the basement? As I said, the basement is an extremely dangerous place, so in your current condition... it seems difficult. How about using your life for something more worthwhile?",
+        "pt": "[Sibila]\nComo dito antes, lá é extremamente perigoso. No estado atual, parece inviável.",
+        "es": "[Silbida]\n¿Qué? ¿Se refiere al piso subterráneo? Como le dije, el piso subterráneo es un lugar extremadamente peligroso, así que en su estado actual... parece difícil. ¿Qué le parece usar su vida en algo más valioso?"
     },
     "S7DfBw": {
         "ko": "- 170레벨부터 수행 가능한 퀘스트입니다. -",
@@ -1033,33 +1033,33 @@
     },
     "TLDfBw": {
         "ko": "[짹]\n정말 전투를 좋아하시는군요. 그럼 ^0000CD지하층의 고장난 창고 관리자 20체^000000 처리를 부탁드립니다..",
-        "en": "[Jjack]\nYou really do like fighting. Then please take care of 20 Broken Warehouse Manager in the ^0000CDBasement^000000..",
-        "pt": "[Jjack]\nRealmente aprecia combate. Então elimine ^0000CD20 Administradores de Armazém Defeituosos no subsolo^000000.",
-        "es": "[Jjack]\nDe verdad le gusta el combate. Entonces, le pido que se encargue de 20 Administradores de almacén averiados en el ^0000CDpiso subterráneo^000000.."
+        "en": "[Twity]\nYou really do like fighting. Then please take care of 20 Broken Warehouse Manager in the ^0000CDBasement^000000..",
+        "pt": "[Sibila]\nVocê realmente aprecia combate. Elimine ^0000CD20x Almoxarife^000000.",
+        "es": "[Silbida]\nDe verdad le gusta el combate. Entonces, le pido que se encargue de 20 Administradores de almacén averiados en el ^0000CDpiso subterráneo^000000.."
     },
     "TbDfBw": {
         "ko": "[짹]\n그동안 저도 제 일을 하고 있겠습니다. 그것의 심기를 거스르지 않도록 주의하십시오.",
-        "en": "[Jjack]\nIn the meantime, I will be doing my work as well. Be careful not to offend it.",
-        "pt": "[Jjack]\nEnquanto isso, cuidarei das minhas tarefas. Tome cuidado para não irritar aquilo.",
-        "es": "[Jjack]\nMientras tanto, yo también estaré haciendo mi trabajo. Tenga cuidado de no contrariar a eso."
+        "en": "[Twity]\nIn the meantime, I will be doing my work as well. Be careful not to offend it.",
+        "pt": "[Sibila]\nEnquanto isso, cuidarei das minhas tarefas. Tome cuidado para não acordar aquele monstro.",
+        "es": "[Silbida]\nMientras tanto, yo también estaré haciendo mi trabajo. Tenga cuidado de no contrariar a eso."
     },
     "TrDfBw": {
         "ko": "[짹]\n아직도 저것들이 저렇게 활개를 치고 다니는 것이 보이지 않으십니까. ^0000CD지하층의 고장난 창고 관리자 20체^000000 처리를 부탁드립니다.",
-        "en": "[Jjack]\nCan you not still see them strutting around like that? Please take care of 20 Broken Warehouse Manager in the ^0000CDBasement^000000.",
-        "pt": "[Jjack]\nAinda não vê que continuam à solta? Elimine ^0000CD20 Administradores de Armazém Defeituosos no subsolo^000000.",
-        "es": "[Jjack]\n¿Acaso no ve que todavía andan por ahí campando a sus anchas? Le pido que se encargue de 20 Administradores de almacén averiados en el ^0000CDpiso subterráneo^000000."
+        "en": "[Twity]\nCan you not still see them strutting around like that? Please take care of 20 Broken Warehouse Manager in the ^0000CDBasement^000000.",
+        "pt": "[Sibila]\nNão consegue ver eles andando por aí? Por favor, elimine ^0000CD20x Almoxarife^000000.",
+        "es": "[Silbida]\n¿Acaso no ve que todavía andan por ahí campando a sus anchas? Le pido que se encargue de 20 Administradores de almacén averiados en el ^0000CDpiso subterráneo^000000."
     },
     "T7DfBw": {
         "ko": "[짹]\n아직은 별일 없습니다. 하지만 언제까지 없을지는 아무도 모르는 일입니다. 경계를 게을리하면 안됩니다.",
-        "en": "[Jjack]\nNothing has happened yet. But no one knows how long that will last. You must not let your guard down.",
-        "pt": "[Jjack]\nAinda não houve incidentes. Mas ninguém sabe até quando. Não podemos baixar a guarda.",
-        "es": "[Jjack]\nPor ahora no pasa nada. Pero nadie sabe hasta cuándo seguirá así. No debe bajar la guardia."
+        "en": "[Twity]\nNothing has happened yet. But no one knows how long that will last. You must not let your guard down.",
+        "pt": "[Sibila]\nAinda não houve incidentes. Mas ninguém sabe até quando. Não podemos baixar a guarda.",
+        "es": "[Silbida]\nPor ahora no pasa nada. Pero nadie sabe hasta cuándo seguirá así. No debe bajar la guardia."
     },
     "ULDfBw": {
         "ko": "[짹]\n특별한 손님께는 모든 곳이 개방되어 있으니 견학을 막을 수는 없겠지요. 하지만 창고를 둘러보실 거라면 이곳에 있는 그 어떤 물건도 함부로 만져서는 안됩니다.",
-        "en": "[Jjack]\nFor a special guest, all places are open, so I cannot stop you from touring. But if you are going to look around the warehouse, you must not carelessly touch any item here.",
-        "pt": "[Jjack]\nPara convidados especiais, todos os locais estão abertos, então não posso impedir sua visita. Contudo, se for explorar o armazém, não toque em nenhum objeto aqui.",
-        "es": "[Jjack]\nComo todo está abierto para un invitado especial, no puedo impedirle la visita. Pero si va a recorrer el almacén, no debe tocar a la ligera ninguno de los objetos que hay aquí."
+        "en": "[Twity]\nFor a special guest, all places are open, so I cannot stop you from touring. But if you are going to look around the warehouse, you must not carelessly touch any item here.",
+        "pt": "[Sibila]\nPara visitantes, todas as áreas estão abertas, não posso impedir. Mas se for dar uma volta no armazém, não toque em absolutamente nada aqui.",
+        "es": "[Silbida]\nComo todo está abierto para un invitado especial, no puedo impedirle la visita. Pero si va a recorrer el almacén, no debe tocar a la ligera ninguno de los objetos que hay aquí."
     },
     "UbDfBw": {
         "ko": "베타",
@@ -1070,37 +1070,37 @@
     "UrDfBw": {
         "ko": "자물쇠",
         "en": "Padlock",
-        "pt": "Cadeado",
+        "pt": "Portão",
         "es": "Candado"
     },
     "U7DfBw": {
         "ko": "- 문은 자물쇠로 굳게 잠겨있다. -",
         "en": "- The door is firmly locked with Padlock. -",
-        "pt": "- A porta está firmemente trancada com Cadeado. -",
+        "pt": "- O portão está trancado. -",
         "es": "- La puerta está firmemente cerrada con Candado. -"
     },
     "VLDfBw": {
         "ko": "[???]\n- 여ㄱ... 누구.. -",
         "en": "[???]\n- Wh... who... -",
-        "pt": "[???]\n- A...qu... é... qu... -",
+        "pt": "[???]\n- E...qu... é... qu... -",
         "es": "[???]\n- ¿A... ahí...? ¿Quién...? -"
     },
     "VbDfBw": {
         "ko": "- 입구에서 들었던 것보다 조금 더 또렷한 목소리가 들린다. 하지만 열쇠가 없으니 내려가서 확인해볼 수가 없다. 짹에게 돌아가서 물어 보자. -",
-        "en": "- A voice comes through, a little clearer than what I heard at the entrance. But without a key, I can’t go down to check. I should go back and ask Jjack. -",
-        "pt": "- A voz soa um pouco mais nítida do que a ouvida na entrada. Porém, sem a chave, não é possível descer para verificar. Vamos voltar e perguntar a Jjack. -",
-        "es": "- Se oye una voz un poco más clara que la que se escuchó en la entrada. Pero como no hay llave, no puedo bajar a comprobarlo. Volvamos con Jjack y preguntémosle. -"
+        "en": "- A voice comes through, a little clearer than what I heard at the entrance. But without a key, I can’t go down to check. I should go back and ask Twity. -",
+        "pt": "- A voz soa um pouco mais nítida. Porém, não é possível descer sem a chave. Vamos voltar a Sibila. -",
+        "es": "- Se oye una voz un poco más clara que la que se escuchó en la entrada. Pero como no hay llave, no puedo bajar a comprobarlo. Volvamos con Silbida y preguntémosle. -"
     },
     "VrDfBw": {
         "ko": "- 짹에게 돌아가 열쇠를 받아 확인해 보자. -",
-        "en": "- Go back to Jjack, get the key, and check. -",
-        "pt": "- Volte até Jjack e pegue a chave para verificar. -",
-        "es": "- Volvamos con Jjack, recibamos la llave y comprobémoslo. -"
+        "en": "- Go back to Twity, get the key, and check. -",
+        "pt": "- Volte até Sibila e pegue a chave. -",
+        "es": "- Volvamos con Silbida, recibamos la llave y comprobémoslo. -"
     },
     "V7DfBw": {
         "ko": "비상열쇠 3개를 자물쇠에 끼워 넣으니 문이 열렸다.",
         "en": "When I inserted 3 Emergency Key into the Padlock, the door opened.",
-        "pt": "Ao inserir as 3 Chave de Emergência em Cadeado, a porta se abriu.",
+        "pt": "Ao inserir as Chaves de Emergência, a porta se abriu.",
         "es": "Al insertar 3 Llave de Emergencia en el Candado, la puerta se abrió."
     },
     "WLDfBw": {
@@ -1130,13 +1130,13 @@
     "XLDfBw": {
         "ko": "비상열쇠가 어디로 갔지?",
         "en": "Where did the Emergency Key go?",
-        "pt": "Para onde foi a Chave de Emergência?",
+        "pt": "Cadê a Chave de Emergência?",
         "es": "¿A dónde fue a parar la Llave de Emergencia?"
     },
     "XbDfBw": {
         "ko": "어서오십시오.",
         "en": "Welcome.",
-        "pt": "Bem-vindo.",
+        "pt": "Boas-vindas.",
         "es": "Bienvenido."
     },
     "XrDfBw": {
@@ -1148,13 +1148,13 @@
     "X7DfBw": {
         "ko": "비상열쇠가 이쯤 있다고 했는데... 지도 밑을 샅샅이 살펴 보자.",
         "en": "They said the Emergency Key should be around here... Let’s search thoroughly under the map.",
-        "pt": "Disseram que a Chave de Emergência estaria por aqui... Vamos examinar cuidadosamente sob o mapa.",
+        "pt": "A Chave de Emergência deve estar aqui... Vou vasculhar debaixo do mapa.",
         "es": "Dijeron que la Llave de Emergencia estaba por aquí... Revisemos a fondo debajo del mapa."
     },
     "YLDfBw": {
         "ko": "찾았다!!!",
         "en": "Found it!!!",
-        "pt": "Encontrei!!!",
+        "pt": "Achei!!!",
         "es": "¡¡¡La encontré!!!"
     },
     "YbDfBw": {
@@ -1166,19 +1166,19 @@
     "YrDfBw": {
         "ko": "다른 비상열쇠를 찾으러 가자.",
         "en": "Let’s go find the other Emergency Key.",
-        "pt": "Vamos procurar as outras Chave de Emergência.",
+        "pt": "Vou procurar as outras Chave de Emergência.",
         "es": "Vayamos a buscar otra Llave de Emergencia."
     },
     "Y7DfBw": {
         "ko": "비상열쇠가 이쯤 있다고 했는데... 어우, 추워...",
         "en": "They said the Emergency Key should be around here... Ugh, it’s cold...",
-        "pt": "Disseram que a Chave de Emergência estaria por aqui... Ugh, que frio...",
+        "pt": "A Chave de Emergência deve estar aqui... Ugh, que frio...",
         "es": "Dijeron que la Llave de Emergencia estaba por aquí... Uf, qué frío..."
     },
     "ZLDfBw": {
         "ko": "비상열쇠가 이쯤 있다고 했는데... 어디 손을 넣어 볼까...",
         "en": "They said the Emergency Key should be around here... Where should I put my hand in...",
-        "pt": "Disseram que a Chave de Emergência estaria por aqui... Vamos tentar colocar a mão em algum lugar...",
+        "pt": "A Chave de Emergência deve estar aqui... Vou enfiar a mão aqui...",
         "es": "Dijeron que la Llave de Emergencia estaba por aquí... ¿Dónde meto la mano...?"
     },
     "ZbDfBw": {
@@ -1202,43 +1202,43 @@
     "aLDfBw": {
         "ko": "[머리]\n주인님? 주인님이야? 어서 와! 왜 이렇게 오래 걸렸어?",
         "en": "[Head]\nMaster? Is that you, Master? You’re here! What took you so long?",
-        "pt": "[Cabeça]\nMestre? É o mestre? Finalmente veio! Por que demorou tanto?",
+        "pt": "[Cabeça]\nMestre? É o mestre? Finalmente! Por que demorou tanto?",
         "es": "[Cabeza]\n¿Amo? ¿Eres tú, amo? ¡Bienvenido! ¿Por qué has tardado tanto?"
     },
     "abDfBw": {
         "ko": "[머리]\n그런데... 얼굴이 많이 변했네? 무슨 일이 있었던 거야? 어디서 뭘 하다 왔어?",
         "en": "[Head]\nBut... your face has changed a lot. What happened? Where have you been, and what were you doing?",
-        "pt": "[Cabeça]\nMas... seu rosto mudou bastante? O que aconteceu? Onde esteve?",
+        "pt": "[Cabeça]\nMas... seu rosto mudou. O que aconteceu?",
         "es": "[Cabeza]\nPero... ¿tu cara ha cambiado mucho? ¿Qué te ha pasado? ¿Dónde has estado y qué has hecho?"
     },
     "arDfBw": {
         "ko": "나는 바르문트가 아닌데.",
-        "en": "I’m not Varmundt.",
-        "pt": "Eu não sou Varmundt.",
-        "es": "Yo no soy Varmundt."
+        "en": "I’m not Varmunt.",
+        "pt": "Eu não sou Varmunt.",
+        "es": "Yo no soy Varmunt."
     },
     "a7DfBw": {
         "ko": "[머리]\n그럼... 누구? 주인님은? 여기엔 어떻게 들어 왔어?",
         "en": "[Head]\nThen... who are you? Where is Master? How did you get in here?",
-        "pt": "[Cabeça]\nEntão... quem é? E o mestre? Como entrou aqui?",
+        "pt": "[Cabeça]\nEntão... quem é? Como entrou aqui?",
         "es": "[Cabeza]\nEntonces... ¿quién eres? ¿Y el amo? ¿Cómo has entrado aquí?"
     },
     "bLDfBw": {
         "ko": "나는 여기 손님인데.",
         "en": "I’m a guest here.",
-        "pt": "Sou um convidado daqui.",
+        "pt": "Sou visitante daqui.",
         "es": "Soy un invitado aquí."
     },
     "bbDfBw": {
         "ko": "[머리]\n손님? 아 그럼 주인님의 초대로 온 거야? 나 손님 처음 봐! 사실 주인님 말고 다른 인간을 보는 것도 처음이야! 반가워. 두번째 인간! 나는 T2WH-0448이야.",
         "en": "[Head]\nA guest? Oh, then you came at Master’s invitation? I’ve never seen a guest before! Actually, it’s my first time seeing a human other than Master, too! Nice to meet you. Second human! I’m T2WH-0448.",
-        "pt": "[Cabeça]\nConvidado? Ah, então veio a convite do mestre? É a primeira vez que vejo um convidado! Na verdade, é a primeira vez que vejo outro humano além do mestre! Prazer, segundo humano! Eu sou T2WH-0448.",
+        "pt": "[Cabeça]\nVisitante? Ah, então veio a convite do mestre? É a primeira vez que vejo alguém além do mestre! Prazer! Eu sou T2WH-0448.",
         "es": "[Cabeza]\n¿Invitado? Ah, entonces has venido por invitación del amo. ¡Es la primera vez que veo a un invitado! De hecho, ¡también es la primera vez que veo a otro humano que no sea el amo! Encantado. ¡Segundo humano! Soy T2WH-0448."
     },
     "brDfBw": {
         "ko": "[T2WH-0448]\n그런데 요즘 바깥은 어때? 시끄러워서 깼는데. 오랫동안 잠들어 있었거든.",
         "en": "[T2WH-0448]\nSo, how is it outside these days? I woke up because it was so noisy. I’d been asleep for a long time.",
-        "pt": "[T2WH-0448]\nComo está o mundo lá fora ultimamente? Acordei por causa do barulho. Estive dormindo por muito tempo.",
+        "pt": "[T2WH-0448]\nComo está o mundo lá fora? Acordei por causa do barulho. Estive dormindo por muito tempo.",
         "es": "[T2WH-0448]\nPor cierto, ¿cómo está el exterior últimamente? Me desperté por el ruido. He estado dormido durante mucho tiempo."
     },
     "b7DfBw": {
@@ -1249,7 +1249,7 @@
     },
     "cLDfBw": {
         "ko": "[T2WH-0448]\n나중에 나를 완성하면 바깥에 데려가 준다고 했는데. 다른 자동인형들이랑도 연결시켜준다고 했었는데. 그래서 주인님이 오기를 계속 기다렸단 말이야.",
-        "en": "[T2WH-0448]\nMaster said that once I was completed, he’d take me outside. He also said he’d connect me with the other automatons. That’s why I kept waiting for Master to come.",
+        "en": "[T2WH-0448]\nMaster said that once I was completed, he’d take me outside. He also said he’d connect me with the other automatrons. That’s why I kept waiting for Master to come.",
         "pt": "[T2WH-0448]\nEle disse que quando me completasse, me levaria para fora. Disse que me conectaria com outras autômatas também. Por isso fiquei esperando o mestre voltar.",
         "es": "[T2WH-0448]\nDijo que cuando me completara me llevaría afuera. También dijo que me conectaría con las otras muñecas automáticas. Por eso he estado esperando a que el amo viniera."
     },
@@ -1262,7 +1262,7 @@
     "crDfBw": {
         "ko": "[T2WH-0448]\n그런데 어떻게 여기까지 들어 왔어? 여기엔 주인님만 들어올 수 있다고 했는데? 비상시만 아니면... 아! 혹시 주인님이 죽었어? 다쳤어? 그래서 못 온 거야?",
         "en": "[T2WH-0448]\nBut how did you get in here? I was told only Master could enter. Unless it’s an emergency... Ah! Did Master die? Was he hurt? Is that why he couldn’t come?",
-        "pt": "[T2WH-0448]\nMas como você conseguiu entrar aqui? Disseram que só o mestre podia entrar. A não ser em caso de emergência... Ah! O mestre morreu? Está ferido? Por isso não veio?",
+        "pt": "[T2WH-0448]\nMas como você conseguiu entrar aqui? Disseram que só o mestre podia entrar. A não ser em caso de emergência... Oh! O mestre morreu? Está ferido? Por isso não veio?",
         "es": "[T2WH-0448]\nPero ¿cómo has entrado hasta aquí? Dijeron que aquí solo podía entrar el amo. A menos que fuera una emergencia... ¡Ah! ¿Acaso el amo ha muerto? ¿Está herido? ¿Por eso no ha venido?"
     },
     "c7DfBw": {
@@ -1274,13 +1274,13 @@
     "dLDfBw": {
         "ko": "[T2WH-0448]\n그래? 오래 전에 방문한 손님들의 후예인데다 침입자들을 처리하러 왔다니? 두번째 인간 좀 멋지다?",
         "en": "[T2WH-0448]\nReally? You’re a descendant of guests who visited long ago, and you came to deal with intruders? Second human, that’s pretty impressive.",
-        "pt": "[T2WH-0448]\nEntendi? Então você é descendente de antigos convidados e veio eliminar os invasores? Segundo humano, você é incrível!",
+        "pt": "[T2WH-0448]\nMesmo? Então você veio eliminar os invasores? Você é incrível!",
         "es": "[T2WH-0448]\n¿Ah, sí? ¿Dices que eres descendiente de los invitados que vinieron hace mucho y que has venido a encargarte de los intrusos? ¿El segundo humano es un poco genial?"
     },
     "dbDfBw": {
         "ko": "[T2WH-0448]\n그런데 주인님이 여기 뿐만 아니라 오랫동안 저택에도 오지 않았다고? 무슨 일이라도 있어?",
         "en": "[T2WH-0448]\nBut you’re saying Master hasn’t come not only here, but to the mansion for a long time, too? Did something happen?",
-        "pt": "[T2WH-0448]\nMas o mestre não aparece nem aqui nem na mansão há muito tempo? Aconteceu algo?",
+        "pt": "[T2WH-0448]\nMas o mestre não aparece há muito tempo? Aconteceu algo?",
         "es": "[T2WH-0448]\n¿Y dices que el amo no solo no ha venido aquí, sino que tampoco ha ido a la mansión en mucho tiempo? ¿Ha pasado algo?"
     },
     "drDfBw": {
@@ -1292,19 +1292,19 @@
     "d7DfBw": {
         "ko": "지하에서 수상한 소리가 나서.",
         "en": "I heard something suspicious underground.",
-        "pt": "Ouvi um som estranho vindo do subsolo.",
+        "pt": "Ouvi um som suspeito vindo do subsolo.",
         "es": "Porque oí un sonido sospechoso en el sótano."
     },
     "eLDfBw": {
         "ko": "[T2WH-0448]\n아, 내가 부르는 소리? 고장난 자동인형으로 착각해서? 그런데 그게 뭐야? 네 뒤에 있는 저런거?",
-        "en": "[T2WH-0448]\nAh, the sound of me calling? You mistook me for a broken automaton? But what is that? That thing behind you?",
-        "pt": "[T2WH-0448]\nAh, era eu chamando? Pensou que fosse uma autômata defeituosa? Mas o que é aquilo atrás de você?",
+        "en": "[T2WH-0448]\nAh, the sound of me calling? You mistook me for a broken automatron? But what is that? That thing behind you?",
+        "pt": "[T2WH-0448]\nAh, era o som que eu estava fazendo? Pensou que fosse uma autômata quebrada? Igual àquilo atrás de você?",
         "es": "[T2WH-0448]\nAh, ¿el sonido de que yo llamaba? ¿Me confundiste con una muñeca automática averiada? Pero ¿qué es eso? ¿Eso que tienes detrás?"
     },
     "ebDfBw": {
         "ko": "[T2WH-0448]\n고장났다면서 왜 안 쓰러지고 번쩍이는 거야? 왜 공격해? 자동인형들은 손님들을 공격하지 않기로 되어 있었는데?",
-        "en": "[T2WH-0448]\nIf it’s broken, why isn’t it collapsing, and why is it flashing? Why is it attacking? Automatons weren’t supposed to attack guests.",
-        "pt": "[T2WH-0448]\nDisse que estavam defeituosas, então por que continuam de pé e brilhando? Por que estão atacando? As autômatas não deveriam atacar convidados.",
+        "en": "[T2WH-0448]\nIf it’s broken, why isn’t it collapsing, and why is it flashing? Why is it attacking? Automatrons weren’t supposed to attack guests.",
+        "pt": "[T2WH-0448]\nSe estão quebradas, por que não caem? Por que atacam? As autômatas deveriam atacar os visitantes?",
         "es": "[T2WH-0448]\nSi dices que está averiada, ¿por qué no se cae y brilla? ¿Por qué ataca? Se suponía que las muñecas automáticas no atacarían a los invitados."
     },
     "erDfBw": {
@@ -1316,31 +1316,31 @@
     "e7DfBw": {
         "ko": "[T2WH-0448]\n그래? 그런데 네가 데리고 온 거야? 왜?",
         "en": "[T2WH-0448]\nReally? But did you bring it with you? Why?",
-        "pt": "[T2WH-0448]\nSério? Mas foi você quem as trouxe? Por quê?",
+        "pt": "[T2WH-0448]\nAh é? Mas você os trouxe? Por quê?",
         "es": "[T2WH-0448]\n¿Ah, sí? Pero ¿tú los trajiste? ¿Por qué?"
     },
     "fLDfBw": {
         "ko": "원래 있던거 아니었어?",
         "en": "Wasn’t it already here?",
-        "pt": "Elas já não estavam aqui?",
+        "pt": "Eles já não estavam aqui?",
         "es": "¿No era algo que ya estaba aquí?"
     },
     "fbDfBw": {
         "ko": "[T2WH-0448]\n아니거든? 여기 아무 것도 없었는데? 완전 청정지역이었거든? 네가 들어 오면서 같이 데리고 들어온 건데?",
         "en": "[T2WH-0448]\nNo, it wasn’t. There was nothing here. It was a completely clean area. You brought it in with you when you came in.",
-        "pt": "[T2WH-0448]\nClaro que não! Aqui não havia nada! Era uma zona completamente limpa! Você as trouxe ao entrar!",
+        "pt": "[T2WH-0448]\nClaro que não! Aqui não havia nada! Era uma zona completamente vazia! Eles entraram quando você entrou!",
         "es": "[T2WH-0448]\n¿Que no? Aquí no había nada. Era una zona completamente limpia. Lo trajiste contigo cuando entraste, ¿no?"
     },
     "frDfBw": {
         "ko": "미안해. 문 열면서 같이 들어왔나봐.",
         "en": "Sorry. I guess it came in when I opened the door.",
-        "pt": "Desculpe. Devem ter entrado quando abri a porta.",
+        "pt": "Devem ter entrado quando abri a porta.",
         "es": "Lo siento. Parece que entró conmigo al abrir la puerta."
     },
     "f7DfBw": {
         "ko": "[T2WH-0448]\n그럼 나는 이제 저런 친구들 사이에서 움직이지도 못하고 이러고 있어야 되는 거야? 저것들이 나를 해치면 방어도 한 번 못하고 꼼짝없이 사라져야 되는 거야?",
         "en": "[T2WH-0448]\nSo now I have to stay like this, unable to move among those things? If they hurt me, I won’t even be able to defend myself, and I’ll just disappear without being able to do anything?",
-        "pt": "[T2WH-0448]\nEntão agora vou ter que ficar presa entre essas coisas, sem poder me mover? Se elas me atacarem, não poderei nem me defender?",
+        "pt": "[T2WH-0448]\nEntão agora vou ter que ficar sem poder me mover? Se elas me atacarem, não poderei nem me defender?",
         "es": "[T2WH-0448]\n¿Entonces ahora tengo que quedarme así, sin poder moverme entre esos tipos? ¿Si esos me hacen daño, ni siquiera podré defenderme una vez y tendré que desaparecer sin poder hacer nada?"
     },
     "gLDfBw": {
@@ -1358,13 +1358,13 @@
     "grDfBw": {
         "ko": "[T2WH-0448]\n그렇지만 저건 다 어떻게 하지. 밖으로 나가보지도 못하고 사라지는 건 싫은데.",
         "en": "[T2WH-0448]\nBut what do I do about all that? I don’t want to disappear without even being able to go outside.",
-        "pt": "[T2WH-0448]\nMas o que faremos com aquilo? Não quero desaparecer sem nunca ter saído daqui.",
+        "pt": "[T2WH-0448]\nMas o que faremos com esses invasores? Não quero morrer sem nunca ter saído daqui.",
         "es": "[T2WH-0448]\nPero ¿qué hago con todo eso? No quiero desaparecer sin ni siquiera poder salir afuera."
     },
     "g7DfBw": {
         "ko": "[T2WH-0448]\n네가 내가 나를 보호하면 되겠다. 그럼 되겠네. 그러니까 몸을 만들 수 있도록 부품 좀 가지고 와 줘.",
         "en": "[T2WH-0448]\nThen you can protect me. That will work. So bring me some parts so I can make a body.",
-        "pt": "[T2WH-0448]\nVocê pode me proteger. Sim, é isso. Então traga peças para que eu possa ter um corpo.",
+        "pt": "[T2WH-0448]\nSe você me proteger, tudo bem. Traga algumas peças para eu poder montar um corpo.",
         "es": "[T2WH-0448]\nSerá mejor que tú me protejas. Con eso basta. Así que tráeme algunas piezas para que pueda hacer un cuerpo."
     },
     "hLDfBw": {
@@ -1382,7 +1382,7 @@
     "hrDfBw": {
         "ko": "[T2WH-0448]\n지금 이 상태로는 안되잖아. 눈 마주치면 어떡해. 나는 너무 작고 연약한데.",
         "en": "[T2WH-0448]\nI can’t do it in this state. What if we make eye contact? I’m too small and fragile.",
-        "pt": "[T2WH-0448]\nNesse estado não dá. E se nossos olhares se cruzarem? Sou pequena e frágil demais.",
+        "pt": "[T2WH-0448]\nDo jeito que estou agora não dá. E se nossos olhares se cruzarem? Sou pequena e frágil demais.",
         "es": "[T2WH-0448]\nEn este estado no se puede. ¿Y si cruzamos miradas? Soy demasiado pequeño y frágil."
     },
     "h7DfBw": {
@@ -1400,7 +1400,7 @@
     "ibDfBw": {
         "ko": "[T2WH-0448]\n네가 가진 비상열쇠로 위험구역까지 들어갈 수 있으니까 꼼꼼히 살펴보면서 최대한 빨리 좋은 물건으로 가져다 줘.",
         "en": "[T2WH-0448]\nWith the Emergency Key you have, you can enter the danger zone, so look carefully and bring me good items as quickly as you can.",
-        "pt": "[T2WH-0448]\nCom a Chave de Emergência que você tem, pode entrar na área de risco. Procure com cuidado e traga algo de boa qualidade o mais rápido possível.",
+        "pt": "[T2WH-0448]\nProcure com cuidado e traga algo de boa qualidade o mais rápido possível.",
         "es": "[T2WH-0448]\nComo tienes la Llave de Emergencia, puedes entrar hasta la zona de peligro, así que revisa con cuidado y tráeme lo mejor lo más rápido posible."
     },
     "irDfBw": {
@@ -1412,19 +1412,19 @@
     "i7DfBw": {
         "ko": "[T2WH-0448]\n몸으로 쓸만한건 바로 아래에 있는 방에 있고, 팔로 쓸만한 건 어디에, 다리로 쓸만한 건 어디에 있을 거야. 주인님이 옮기지 않았다면 말이야.",
         "en": "[T2WH-0448]\nSomething usable as a body will be in the room right below, something usable as arms will be somewhere, and something usable as legs will be somewhere. That is, if my master hasn’t moved them.",
-        "pt": "[T2WH-0448]\nAlgo que sirva como corpo está na sala logo abaixo. Os braços devem estar em algum lugar, e as pernas em outro. Se o mestre não tiver movido.",
+        "pt": "[T2WH-0448]\nAlgo que sirva como corpo está na sala logo abaixo. Os braços devem estar em algum lugar, e as pernas em outro. Se o mestre não tiver as movido.",
         "es": "[T2WH-0448]\nAlgo que sirva como cuerpo está en la habitación justo de abajo; algo que sirva como brazos estará en algún lugar, y algo que sirva como piernas estará en algún lugar. Si el amo no lo ha movido, claro."
     },
     "jLDfBw": {
         "ko": "[T2WH-0448]\n<NAVI>[몸이 있는 곳]<INFO>ba_2whs02,31,50,0,101,0</INFO></NAVI>이 제일 가까우니까 그쪽 먼저 가면 되곘다. 빠르게 갖다 줘. 나 무서워.",
         "en": "[T2WH-0448]\n<NAVI>[Where the body is]<INFO>ba_2whs02,31,50,0,101,0</INFO></NAVI>That’s the closest, so you should go there first. Bring it back quickly. I’m scared.",
-        "pt": "[T2WH-0448]\n<NAVI>[Local do Corpo]<INFO>ba_2whs02,31,50,0,101,0</INFO></NAVI> é o mais próximo. Vá primeiro lá. Traga rápido. Estou com medo.",
+        "pt": "[T2WH-0448]\nO mais perto daqui é o <NAVI>[Corpo]<INFO>ba_2whs02,31,50,0,101,0</INFO></NAVI>. Vá primeiro lá. Traga rápido. Estou com medo.",
         "es": "[T2WH-0448]\n<NAVI>[Lugar donde está el cuerpo]<INFO>ba_2whs02,31,50,0,101,0</INFO></NAVI>es lo más cercano, así que será mejor ir primero allí. Tráelo rápido. Tengo miedo."
     },
     "jbDfBw": {
         "ko": "[T2WH-0448]\n몸이 있는 곳이 제일 가까우니까 그쪽 먼저 가면 되곘다. 빠르게 갖다 줘. 나 무서워.",
-        "en": "[T2WH-0448]\nWhere the body is is the closest, so you should go there first. Bring it back quickly. I’m scared.",
-        "pt": "[T2WH-0448]\nO local do corpo é o mais próximo. Vá primeiro lá. Traga rápido. Estou com medo.",
+        "en": "[T2WH-0448]\nThe body is the closest, so you should go there first. Bring it back quickly. I’m scared.",
+        "pt": "[T2WH-0448]\nO local mais próximo é o <NAVI>[Corpo]<INFO>ba_2whs02,31,50,0,101,0</INFO></NAVI>. Vá primeiro lá. Traga rápido. Estou com medo.",
         "es": "[T2WH-0448]\nComo el lugar donde está el cuerpo es lo más cercano, será mejor ir primero allí. Tráelo rápido. Tengo miedo."
     },
     "jrDfBw": {
@@ -1466,7 +1466,7 @@
     "lLDfBw": {
         "ko": "그, 그모습은...?",
         "en": "Th-that appearance is...?",
-        "pt": "E-essa aparência...?",
+        "pt": "E-essa aparência...!",
         "es": "E-esa apariencia es..."
     },
     "lbDfBw": {
@@ -1490,7 +1490,7 @@
     "mLDfBw": {
         "ko": "무난하네.",
         "en": "Looks fine.",
-        "pt": "Está comum.",
+        "pt": "Está bem simples.",
         "es": "Está bien."
     },
     "mbDfBw": {
@@ -1502,50 +1502,50 @@
     "mrDfBw": {
         "ko": "[T2WH-0448]\n정말 마음에 든다. 고마워. 이제 나도 조금은 안심이 돼.",
         "en": "[T2WH-0448]\nI really like it. Thank you. Now I feel a little more at ease.",
-        "pt": "[T2WH-0448]\nGostei muito. Obrigado. Agora me sinto um pouco mais segura.",
+        "pt": "[T2WH-0448]\nGostei muito. Obrigada. Agora me sinto um pouco mais segura.",
         "es": "[T2WH-0448]\nDe verdad me encanta. Gracias. Ahora yo también me siento un poco más tranquilo."
     },
     "m7DfBw": {
         "ko": "돌아가서 짹에게 보고해야겠다.",
-        "en": "I should go back and report to Jjack.",
-        "pt": "Melhor voltar e reportar a Jjack.",
-        "es": "Debería volver e informar a Jjack."
+        "en": "I should go back and report to Twity.",
+        "pt": "Preciso voltar para relatar a Sibila.",
+        "es": "Debería volver e informar a Silbida."
     },
     "nLDfBw": {
         "ko": "[T2WH-0448]\n갠 뭔데? 이름이 왜 그래? 자동인형이야? 아니면 인간?",
-        "en": "[T2WH-0448]\nWhat is that? Why is the name like that? Are you an automaton? Or a human?",
-        "pt": "[T2WH-0448]\nQuem é ele? Que nome estranho. É uma autômata? Ou humano?",
+        "en": "[T2WH-0448]\nWhat is that? Why is the name like that? Are you an automatron? Or a human?",
+        "pt": "[T2WH-0448]\nQuem é Sibila? Que nome estranho. É uma autômata? Ou humano?",
         "es": "[T2WH-0448]\n¿Qué es “Genn”? ¿Por qué ese nombre? ¿Es una muñeca automática? ¿O un humano?"
     },
     "nbDfBw": {
         "ko": "아, 윗층의...",
         "en": "Ah, the one on the upper floor...",
-        "pt": "Ah, é do andar de cima...",
+        "pt": "Ela fica no andar de cima...",
         "es": "Ah, el del piso de arriba..."
     },
     "nrDfBw": {
         "ko": "[T2WH-0448]\n그래? 바깥의 오래된 자동인형들은 다 그런 이름을 받았단 말이지? 그럼 내 이름도 지어줘. 우리 주인님은 이름을 만들어주지 않았어. 일련 번호 뿐이야.",
-        "en": "[T2WH-0448]\nReally? So all the old automatons outside were given names like that? Then give me a name, too. Our master didn’t make one for me. I only have a serial number.",
-        "pt": "[T2WH-0448]\nEntendi. Então as autômatas antigas lá fora receberam nomes assim? Então dê um nome para mim também. O mestre nunca me deu um nome, só um número de série.",
+        "en": "[T2WH-0448]\nReally? So all the old automatrons outside were given names like that? Then give me a name, too. Our master didn’t make one for me. I only have a serial number.",
+        "pt": "[T2WH-0448]\nEntendi. Então as autômatas recebem nomes? Dê um nome para mim também. O mestre nunca me deu um nome, só um número de série.",
         "es": "[T2WH-0448]\n¿Ah, sí? ¿Dices que a todas las viejas muñecas automáticas de afuera les dieron nombres así? Entonces ponme un nombre también. Nuestro amo no me puso uno. Solo tengo un número de serie."
     },
     "n7DfBw": {
         "ko": "이렇게 갑자기?",
         "en": "All of a sudden?",
-        "pt": "Assim, de repente?",
+        "pt": "Um nome, assim? Do nada?",
         "es": "¿Así, de repente?"
     },
     "oLDfBw": {
         "ko": "[T2WH-0448]\n그런건 못해? 이름을 붙이는 건 특별한 인간만 할 수 있는 거야? 그렇지만 너도 특별한 손님이잖아.",
         "en": "[T2WH-0448]\nYou can’t do that? Is naming something only special humans can do? But you’re a special guest, aren’t you?",
-        "pt": "[T2WH-0448]\nNão pode? Só humanos especiais podem dar nomes? Mas você também é um convidado especial.",
+        "pt": "[T2WH-0448]\nNão pode? Só alguém especial pode dar nomes? Mas você é especial para mim.",
         "es": "[T2WH-0448]\n¿No puedes hacer algo así? ¿Poner un nombre es algo que solo pueden hacer los humanos especiales? Pero tú también eres un invitado especial."
     },
     "obDfBw": {
         "ko": "[T2WH-0448]\n그럼 어쩔 수 없지. 내가 생각해보는 수밖엔. 음... 이건 어때? 바르문트.",
-        "en": "[T2WH-0448]\nThen it can’t be helped. I’ll have to think of one myself. Hmm... How about this? Varmundt.",
-        "pt": "[T2WH-0448]\nEntão não tem jeito. Terei que pensar sozinha. Hum... que tal Varmundt?",
-        "es": "[T2WH-0448]\nEntonces no hay más remedio. Tendré que pensarlo yo. Mmm... ¿Qué te parece este? Varmundt."
+        "en": "[T2WH-0448]\nThen it can’t be helped. I’ll have to think of one myself. Hmm... How about this? Varmunt.",
+        "pt": "[T2WH-0448]\nEntão não tem jeito. Terei que pensar sozinha. Hm... que tal Varmunt?",
+        "es": "[T2WH-0448]\nEntonces no hay más remedio. Tendré que pensarlo yo. Mmm... ¿Qué te parece este? Varmunt."
     },
     "orDfBw": {
         "ko": "네??",
@@ -1556,38 +1556,38 @@
     "o7DfBw": {
         "ko": "[T2WH-0448]\n왜? 이상해? 아는 이름이 없는데. 그럼 지하의 수문장? 흠... 이름은 조금 더 고민해야겠는 걸. 어차피 주인님이 돌아올 때까지 여기서 기다려야 하니까.",
         "en": "[T2WH-0448]\nWhy? Is it strange? I don’t know any names. Then... the underground gatekeeper? Hmm... I’ll have to think more about the name. Either way, I have to wait here until our master returns.",
-        "pt": "[T2WH-0448]\nPor quê? É estranho? Não conheço outros nomes. Então Guardiã do Subsolo? Hm... preciso pensar melhor. De qualquer forma, ficarei aqui até o mestre voltar.",
+        "pt": "[T2WH-0448]\nPor quê? É estranho? Não conheço outros nomes. E Guardiã do Subsolo? Hm... preciso pensar melhor. De qualquer forma, ficarei aqui até o mestre voltar.",
         "es": "[T2WH-0448]\n¿Por qué? ¿Es raro? No conozco ningún nombre. Entonces, ¿el guardián de la compuerta subterránea? Mmm... Tendré que pensarlo un poco más. De todos modos, tengo que esperar aquí hasta que nuestro amo regrese."
     },
     "pLDfBw": {
         "ko": "[T2WH-0448]\n저것들을 피하면서 생각해볼 수 있겠지. 아니면 주인님이 돌아왔을 때 내 이름도 지어달라고 해도 되고.",
         "en": "[T2WH-0448]\nI can think about it while avoiding those things. Or I could ask my master to name me when they come back.",
-        "pt": "[T2WH-0448]\nPosso pensar enquanto desvio deles. Ou pedir ao mestre que me dê um nome quando voltar.",
+        "pt": "[T2WH-0448]\nPosso ir pensando enquanto evito aquelas Almoxarifes. Ou posso pedir ao mestre para me dar um nome quando ele voltar.",
         "es": "[T2WH-0448]\nPodría pensar en ello mientras evito a esos. O también podría pedirle a mi amo que me ponga un nombre cuando regrese."
     },
     "pbDfBw": {
         "ko": "[T2WH-0448]\n올라가서 다른 자동인형에게 보고해야 한다고 했지? 그럼, 안녕! 도와줘서 고마웠어.",
-        "en": "[T2WH-0448]\nYou said you have to go up and report to the other automaton, right? Then, goodbye! Thanks for helping me.",
-        "pt": "[T2WH-0448]\nDisse que vai subir para relatar a outra autômata? Então, até mais! Obrigada por me ajudar.",
+        "en": "[T2WH-0448]\nYou said you have to go up and report to the other automatron, right? Then, goodbye! Thanks for helping me.",
+        "pt": "[T2WH-0448]\nVocê disse que ia subir para relatar aos outras autômatas, não foi? Então, tchau! Obrigada pela ajuda.",
         "es": "[T2WH-0448]\n¿Dijiste que debías subir e informar a otra muñeca automática? Entonces, ¡adiós! Gracias por ayudarme."
     },
     "prDfBw": {
         "ko": "[T2WH-0448]\n올라가서 다른 자동인형에게 보고해야 한다고 하지 않았어? 이러고 있어도 되는 거야?",
-        "en": "[T2WH-0448]\nDidn’t you say you have to go up and report to the other automaton? Is it really okay for you to be doing this?",
-        "pt": "[T2WH-0448]\nVocê não disse que ia subir e relatar? Está tudo bem ficar aí parado?",
+        "en": "[T2WH-0448]\nDidn’t you say you have to go up and report to the other automatron? Is it really okay for you to be doing this?",
+        "pt": "[T2WH-0448]\nVocê não disse que ia subir e relatar? Por que parou aí?",
         "es": "[T2WH-0448]\n¿No dijiste que debías subir e informar a otra muñeca automática? ¿Está bien que estés aquí así?"
     },
     "p7DfBw": {
         "ko": "[T2WH-0448]\n이름을 뭘로 하면 좋을지 아직도 결정을 못했어. 저 친구들은 괜찮아. 나를 건드리지는 않더라구. 이상하게도.",
         "en": "[T2WH-0448]\nI still can’t decide what to name myself. Those friends are fine. They don’t bother me. Strangely enough.",
-        "pt": "[T2WH-0448]\nAinda não consegui decidir meu nome. Aqueles ali não me incomodam. Estranhamente, não me atacam.",
+        "pt": "[T2WH-0448]\nAinda não consegui decidir meu nome. As autômatas daqui não me incomodam. Estranhamente, não me atacam.",
         "es": "[T2WH-0448]\nTodavía no he podido decidir qué nombre sería bueno. Esos amigos están bien. No me tocan. Curiosamente."
     },
     "qLDfBw": {
         "ko": "[T2WH-0448]\n머리, 어깨, 무릎, 발, 무릎, 발. 내가 가진건 머리 뿐이네.",
-        "en": "[T2WH-0448]\nHead, shoulders, knees, feet, knees, feet. All I have is Head.",
-        "pt": "[T2WH-0448]\nCabeça, ombro, joelho e pé, joelho e pé. Tudo que eu tinha era Cabeça.",
-        "es": "[T2WH-0448]\nCabeza, hombros, rodillas, pies, rodillas, pies. Lo único que tengo es Cabeza."
+        "en": "[T2WH-0448]\nHead, shoulders, knees, feet, knees, feet. All I had was a Head.",
+        "pt": "[T2WH-0448]\nCabeça, ombro, joelho e pé, joelho e pé. Tudo que eu tinha era cabeça.",
+        "es": "[T2WH-0448]\nCabeza, hombros, rodillas, pies, rodillas, pies. Lo único que tenía era una Cabeza."
     },
     "qbDfBw": {
         "ko": "잡동사니",
@@ -1598,43 +1598,43 @@
     "qrDfBw": {
         "ko": "어디 보자... 몸으로 쓸만한 것이...",
         "en": "Let’s see... something usable as a body...",
-        "pt": "Vamos ver... algo que sirva como corpo...",
+        "pt": "Vejamos... Algo que possa servir como corpo...",
         "es": "A ver... algo que sirva como cuerpo..."
     },
     "q7DfBw": {
         "ko": "몸으로 쓸만한 것 같은데. 가지고 가자. 다음은 팔을 찾아 봐야지.",
         "en": "This looks like it could work as a body. I’ll take it. Next, I should look for arms.",
-        "pt": "Parece servir como corpo. Vamos levar. Agora preciso procurar braços.",
+        "pt": "Parece que serve para o corpo. Agora preciso encontrar os braços.",
         "es": "Parece que sirve como cuerpo. Llevémoslo. Ahora debo buscar un brazo."
     },
     "rLDfBw": {
         "ko": "적당한게 안보이네. 다시 찾아보자.",
         "en": "I don’t see anything suitable. Let’s search again.",
-        "pt": "Não vejo nada adequado. Vamos procurar novamente.",
+        "pt": "Não vejo nada adequado. Vou procurar de novo.",
         "es": "No veo nada adecuado. Busquemos de nuevo."
     },
     "rbDfBw": {
         "ko": "몸으로 쓸만한 건 찾았다. 이제 팔을 찾으러 가자.",
         "en": "I found something usable as a body. Now let’s go find arms.",
-        "pt": "Já encontrei algo que serve como corpo. Agora vou procurar braços.",
+        "pt": "Já encontrei o corpo. Agora vou procurar os braços.",
         "es": "Encontré algo que sirve como cuerpo. Ahora vayamos a buscar un brazo."
     },
     "rrDfBw": {
         "ko": "잡동사니가 아무렇게나 놓여있다.",
         "en": "Junk is lying around carelessly.",
-        "pt": "Sucata está espalhada aleatoriamente.",
+        "pt": "Há tranqueiras espalhadas.",
         "es": "Chatarra está tirada sin orden."
     },
     "r7DfBw": {
         "ko": "팔... 팔... 적당한 것이 어디 있을까...",
         "en": "Arms... arms... where could something suitable be...",
-        "pt": "Braços... braços... onde haverá algo adequado...",
+        "pt": "Braços... dedos... onde estão...",
         "es": "Brazo... brazo... ¿dónde habrá algo adecuado...?"
     },
     "sLDfBw": {
         "ko": "팔로 이정도면 괜찮을까? 괜찮겠지? 일단 가지고 가자. 이제 다리만 찾으면 된다..",
         "en": "Would this be good enough for arms? It should be, right? I’ll take it for now. Now I just need to find legs..",
-        "pt": "Isso deve servir como braço? Deve servir. Vou levar. Agora faltam as pernas.",
+        "pt": "Será que um braço assim serve? Vou levar. Agora só faltam as pernas.",
         "es": "¿Con esto bastará como brazo? ¿Bastará, verdad? Por ahora, llevémoslo. Ahora solo falta encontrar las piernas.."
     },
     "sbDfBw": {
@@ -1652,19 +1652,19 @@
     "s7DfBw": {
         "ko": "다리만 구하면 되는데... 어디 보자...",
         "en": "I just need to get legs... let’s see...",
-        "pt": "Só faltam as pernas... vamos ver...",
+        "pt": "Só preciso das pernas... Vejamos...",
         "es": "Solo necesito conseguir las piernas... a ver..."
     },
     "tLDfBw": {
         "ko": "이런 다리라면 만족하겠지? 어서 돌아가자.",
         "en": "If they’re legs like these, they’ll be satisfied, right? Let’s hurry back.",
-        "pt": "Essas pernas devem satisfazer. Vamos voltar rápido.",
+        "pt": "Será que ela vai gostar de pernas assim? Vou voltar rápido.",
         "es": "¿Con unas piernas así quedará satisfecho? Volvamos rápido."
     },
     "tbDfBw": {
         "ko": "다리까지 찾았으니 머리에게로 돌아가자.",
         "en": "Now that I’ve found legs too, let’s go back to Head.",
-        "pt": "Já encontrei as pernas. Vamos voltar para Cabeça.",
+        "pt": "Já encontrei as pernas também, vou voltar.",
         "es": "Ya encontré hasta las piernas, así que volvamos con Cabeza."
     },
     "trDfBw": {
@@ -1676,13 +1676,13 @@
     "t7DfBw": {
         "ko": "이 안에서 소리가 난다. 잠겨있는 문을 비상 비상열쇠로 열었다.",
         "en": "I hear a sound from inside. I opened the locked door with the emergency Emergency Key.",
-        "pt": "Há um som vindo de dentro. Abri a porta trancada com a Chave de Emergência.",
+        "pt": "Há um som vindo daqui. Abri a porta trancada com a chave de emergência.",
         "es": "Se oye un sonido desde dentro. Abrí la puerta cerrada con la Llave de Emergencia de emergencia."
     },
     "uLDfBw": {
         "ko": "문이 잠겨있는데? 위험해보이니 다른 곳으로 가자.",
         "en": "The door is locked. It looks dangerous, so let's go somewhere else.",
-        "pt": "A porta está trancada? Parece perigoso. Melhor ir para outro lugar.",
+        "pt": "A porta está trancada. Parece perigoso, vamos para outro lugar.",
         "es": "¿La puerta está cerrada? Parece peligroso, así que vayamos a otro lugar."
     }
 }

@@ -15512,7 +15512,9 @@ tblLapineUpgradeBox = {
 					"MV_B_Violin",
 					570010
 				},
-				{"MV_B_Whip", 580010}
+				{"MV_B_Whip", 580010},
+				{"SP_B_Fox", 550050},
+				{"GB_B_Fox", 550051}
 			},
 			NeedSource_String = "Booster Weapon"
 		},
@@ -15569,7 +15571,9 @@ tblLapineUpgradeBox = {
 					"MV_B_Violin",
 					570010
 				},
-				{"MV_B_Whip", 580010}
+				{"MV_B_Whip", 580010},
+				{"SP_B_Fox", 550050},
+				{"GB_B_Fox", 550051}
 			},
 			NeedSource_String = "Booster Weapon"
 		},
@@ -15626,7 +15630,9 @@ tblLapineUpgradeBox = {
 					"MV_B_Violin",
 					570010
 				},
-				{"MV_B_Whip", 580010}
+				{"MV_B_Whip", 580010},
+				{"SP_B_Fox", 550050},
+				{"GB_B_Fox", 550051}
 			},
 			NeedSource_String = "Booster Weapon"
 		},
@@ -16605,7 +16611,7 @@ tblLapineUpgradeBox = {
 			NeedRefineMin = 4,
 			NeedRefineMax = 6,
 			NeedOptionNumMin = 0,
-			NotSocketEnchantItem = true,
+			NotSocketEnchantItem = false,
 			TargetItems = {
 				{
 					"Illusion_Armor_A",
@@ -16639,7 +16645,7 @@ tblLapineUpgradeBox = {
 			NeedRefineMin = 4,
 			NeedRefineMax = 6,
 			NeedOptionNumMin = 0,
-			NotSocketEnchantItem = true,
+			NotSocketEnchantItem = false,
 			TargetItems = {
 				{
 					"Auto_Armor_A",

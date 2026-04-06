@@ -199,9 +199,9 @@
     },
     "AeOaCw": {
         "ko": "[큐펫 티켓 교환원]\n{0}을 사용하여 큐펫을 교환하시겠습니까?",
-        "en": "[Pet Manager]\nWould you like to purchase a Gloom Under Night Egg using your {0}?",
-        "pt": "[Gerente de Mascotes]\nGostaria de adquirir um Ovo de Pesar Noturno usando o seu {0}?",
-        "es": "[Gerente de Mascota]\n¿Te gustaría comprar un Huevo de Oscuridad Bajo la Noche usando tu {0}?"
+        "en": "[Pet Manager]\nWould you like to purchase a Pet Egg using your {0}?",
+        "pt": "[Gerente de Mascotes]\nGostaria de adquirir um Ovo de Mascote usando o seu {0}?",
+        "es": "[Gerente de Mascota]\n¿Te gustaría comprar un Huevo de Mascota usando tu {0}?"
     },
     "AuOaCw": {
         "ko": "[큐펫 티켓 교환원]\n죄송하지만,\n보유중이신 {0}이 없습니다.",

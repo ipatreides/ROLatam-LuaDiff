@@ -61,7 +61,7 @@
     },
     "bIiHCA": {
         "en": "[White knight]\nAre you with Varmunt? Commander is waiting for you.",
-        "pt": "[Cavaleiro Branco]\nVocê vem em nome de Varmund? O Comandante está aguardando por você.",
+        "pt": "[Cavaleiro Branco]\nVocê vem em nome de Varmunt? O Comandante está aguardando por você.",
         "es": "[Caballero blanco]\n¿Estás con Varmunt? El Comandante le está esperando."
     },
     "bYiHCA": {
@@ -81,7 +81,7 @@
     },
     "cIiHCA": {
         "en": "[White knight]\nHow do you know Varmunt? I heard that he's not really a friendly man...",
-        "pt": "[Cavaleiro Branco]\nComo você conheceu Varmund? Pelo que sei, ele não é uma pessoa exatamente amigável...",
+        "pt": "[Cavaleiro Branco]\nComo você conheceu Varmunt? Pelo que sei, ele não é uma pessoa exatamente amigável...",
         "es": "[Caballero blanco]\n¿Cómo conoces a Varmunt? He oído que no es un hombre muy amistoso..."
     },
     "cYiHCA": {
@@ -121,7 +121,7 @@
     },
     "eIiHCA": {
         "en": "[Khalitzburg Knightage]\nAre you with Varmunt? Commander is waiting for you.",
-        "pt": "[Khalitzburg]\nVocê vem em nome de Varmund? O Comandante está aguardando por você.",
+        "pt": "[Khalitzburg]\nVocê vem em nome de Varmunt? O Comandante está aguardando por você.",
         "es": "[Khalitzburg Knightage]\n¿Estás con Varmunt? El Comandante le está esperando."
     },
     "eYiHCA": {
@@ -131,22 +131,22 @@
     },
     "eoiHCA": {
         "en": "Varmunt",
-        "pt": "Varmund",
+        "pt": "Varmunt",
         "es": "Varmunt"
     },
     "e4iHCA": {
         "en": "[Varmunt]\nAre you the one ^0000FFHerico^000000 sent to help me?",
-        "pt": "[Varmund]\nFoi você quem ^0000FFHerico^000000 trouxe para me ajudar?",
+        "pt": "[Varmunt]\nFoi você quem ^0000FFHerico^000000 trouxe para me ajudar?",
         "es": "[Varmunt]\n¿Eres tú el que ^0000FFHerico^000000 envió para ayudarme?"
     },
     "fIiHCA": {
         "en": "Varmunt: Are you the one Herico sent to help me?",
-        "pt": "Varmund: Foi você quem Herico trouxe para me ajudar?",
+        "pt": "Varmunt: Foi você quem Herico trouxe para me ajudar?",
         "es": "Varmunt: ¿Eres tú el que Herico envió para ayudarme?"
     },
     "fYiHCA": {
         "en": "[Varmunt]\nWhere's your leader? I need his help.",
-        "pt": "[Varmund]\nOnde está o seu líder? Preciso da ajuda dele.",
+        "pt": "[Varmunt]\nOnde está o seu líder? Preciso da ajuda dele.",
         "es": "[Varmunt]\n¿Dónde está tu líder? Necesito su ayuda."
     },
     "foiHCA": {
@@ -166,12 +166,12 @@
     },
     "gYiHCA": {
         "en": "[Varmunt]\nWe don't have much time. We must report to Sir. Heinrich about Himmelmez' invasion.",
-        "pt": "[Varmund]\nNão temos muito tempo. Precisamos avisar o Lorde Heinrich sobre a invasão de Himmelmez.",
+        "pt": "[Varmunt]\nNão temos muito tempo. Precisamos avisar o Lorde Heinrich sobre a invasão de Himmelmez.",
         "es": "[Varmunt]\nNo tenemos mucho tiempo. Debemos informar al Señor. Heinrich sobre la invasión de Himmelmez."
     },
     "goiHCA": {
         "en": "Varmunt: We don't have much time. We must report to Sir. Heinrich about Himmelmez' invasion.",
-        "pt": "Varmund: Não temos muito tempo. Precisamos avisar o Lorde Heinrich sobre a invasão de Himmelmez.",
+        "pt": "Varmunt: Não temos muito tempo. Precisamos avisar o Lorde Heinrich sobre a invasão de Himmelmez.",
         "es": "Varmunt: No tenemos mucho tiempo. Debemos informar al Señor. Heinrich sobre la invasión de Himmelmez."
     },
     "g4iHCA": {
@@ -191,42 +191,42 @@
     },
     "hoiHCA": {
         "en": "[Varmunt]\nHerico didn't tell you?",
-        "pt": "[Varmund]\nUé, Herico não te falou?",
+        "pt": "[Varmunt]\nUé, Herico não te falou?",
         "es": "[Varmunt]\n¿Herico no te lo dijo?"
     },
     "h4iHCA": {
         "en": "Varmunt: Herico didn't tell you?",
-        "pt": "Varmund: Ué, Herico não te falou?",
+        "pt": "Varmunt: Ué, Herico não te falou?",
         "es": "Varmunt: ¿Herico no te lo dijo?"
     },
     "iIiHCA": {
         "en": "[Varmunt]\nShe is the Ruler of Death, Dead man's Valkyrie. Himmelmez is looking to take the heart of Ymir from us.",
-        "pt": "[Varmund]\nEla é a Imperatriz da Destruição, a Valquíria dos Mortos. Himmelmez planeja roubar o fragmento do Coração de Ymir de nós.",
+        "pt": "[Varmunt]\nEla é a Imperatriz da Destruição, a Valquíria dos Mortos. Himmelmez planeja roubar o fragmento do Coração de Ymir de nós.",
         "es": "[Varmunt]\nEs la soberana de la muerte, la Valkiria de los muertos. Himmelmez busca quitarnos el corazón de Ymir."
     },
     "iYiHCA": {
         "en": "Varmunt: She is the Ruler of Death, Dead man's Valkyrie. Himmelmez is looking to take the heart of Ymir from us.",
-        "pt": "Varmund: Ela é a Imperatriz da Destruição, a Valquíria dos Mortos. Himmelmez planeja roubar o fragmento do Coração de Ymir de nós.",
+        "pt": "Varmunt: Ela é a Imperatriz da Destruição, a Valquíria dos Mortos. Himmelmez planeja roubar o fragmento do Coração de Ymir de nós.",
         "es": "Varmunt: Es la soberana de la muerte, la Valkiria de los muertos. Himmelmez busca quitarnos el corazón de Ymir."
     },
     "ioiHCA": {
         "en": "[Varmunt]\nShe might even destroy this whole castle if she wanted to.",
-        "pt": "[Varmund]\nSe ela quiser, ela pode destruir este castelo inteiro.",
+        "pt": "[Varmunt]\nSe ela quiser, ela pode destruir este castelo inteiro.",
         "es": "[Varmunt]\nPodría incluso destruir todo el castillo si quisiera."
     },
     "i4iHCA": {
         "en": "Varmunt: She might even destroy this whole castle if she wanted to.",
-        "pt": "Varmund: Se ela quiser, ela pode destruir este castelo inteiro.",
+        "pt": "Varmunt: Se ela quiser, ela pode destruir este castelo inteiro.",
         "es": "Varmunt: Podría incluso destruir todo el castillo si quisiera."
     },
     "jIiHCA": {
         "en": "[Varmunt]\nHurry! Report to Sir, Heinrich about Himmelmez. I must check the defense barrier here!",
-        "pt": "[Varmund]\nRápido! Avise o Lorde Heinrich sobre a situação. Eu vou me certificar de que nossas defesas estão bem reforçadas!",
+        "pt": "[Varmunt]\nRápido! Avise o Lorde Heinrich sobre a situação. Eu vou me certificar de que nossas defesas estão bem reforçadas!",
         "es": "[Varmunt]\n¡Date prisa! Informe al señor Heinrich sobre Himmelmez. ¡Debo comprobar la barrera de defensa aquí!"
     },
     "jYiHCA": {
         "en": "Varmunt: Hurry! Report to Sir, Heinrich about Himmelmez. I must check the defense barrier here!",
-        "pt": "Varmund: Rápido! Avise o Lorde Heinrich sobre a situação. Eu vou me certificar de que nossas defesas estão bem reforçadas!",
+        "pt": "Varmunt: Rápido! Avise o Lorde Heinrich sobre a situação. Eu vou me certificar de que nossas defesas estão bem reforçadas!",
         "es": "Varmunt: ¡Date prisa! Informe al señor Heinrich sobre Himmelmez. ¡Debo comprobar la barrera de defensa aquí!"
     },
     "joiHCA": {
@@ -256,12 +256,12 @@
     },
     "k4iHCA": {
         "en": "[Heinrich]\nAren't you the adventurer that came along with Varmunt?",
-        "pt": "[Heinrich]\nEi... Você não é o aventureiro que veio em nome de Varmund?",
+        "pt": "[Heinrich]\nEi... Você não é o aventureiro que veio em nome de Varmunt?",
         "es": "[Heinrich]\n¿No eres tú el aventurero que vino con Varmunt?"
     },
     "lIiHCA": {
         "en": "Heinrich: Aren't you the adventurer that came along with Varmunt?",
-        "pt": "Heinrich: Ei... Você não é o aventureiro que veio em nome de Varmund?",
+        "pt": "Heinrich: Ei... Você não é o aventureiro que veio em nome de Varmunt?",
         "es": "Heinrich: ¿No eres tú el aventurero que vino con Varmunt?"
     },
     "lYiHCA": {
@@ -301,22 +301,22 @@
     },
     "nIiHCA": {
         "en": "[Varmunt]\nI'm not kidding, Sir. Heinrich. If I'm correct, then she will be here very soon.",
-        "pt": "[Varmund]\nNão estou brincando, Lorde Heinrich. Se minhas fontes estiverem corretas, ela estará aqui em breve.",
+        "pt": "[Varmunt]\nNão estou brincando, Lorde Heinrich. Se minhas fontes estiverem corretas, ela estará aqui em breve.",
         "es": "[Varmunt]\nNo bromeo, señor. Heinrich. Si no me equivoco, llegará muy pronto."
     },
     "nYiHCA": {
         "en": "Varmunt: I'm not kidding, Sir. Heinrich. If I'm correct, then she will be here very soon.",
-        "pt": "Varmund: Não estou brincando, Lorde Heinrich. Se minhas fontes estiverem corretas, ela estará aqui em breve.",
+        "pt": "Varmunt: Não estou brincando, Lorde Heinrich. Se minhas fontes estiverem corretas, ela estará aqui em breve.",
         "es": "Varmunt: No bromeo, señor. Heinrich. Si no me equivoco, llegará muy pronto."
     },
     "noiHCA": {
         "en": "[Varmunt]\nWe must hide the heart piece to a safe place before Himmelmez' attack starts!",
-        "pt": "[Varmund]\nPrecisamos esconder o fragmento do Coração de Ymir em outro lugar antes que Himmelmez ataque!",
+        "pt": "[Varmunt]\nPrecisamos esconder o fragmento do Coração de Ymir em outro lugar antes que Himmelmez ataque!",
         "es": "[Varmunt]\n¡Debemos esconder el trozo de corazón en un lugar seguro antes de que comience el ataque de Himmelmez!"
     },
     "n4iHCA": {
         "en": "Varmunt: We must hide the heart piece to a safe place before Himmelmez' attack starts!",
-        "pt": "Varmund: Precisamos esconder o fragmento do Coração de Ymir em outro lugar antes que Himmelmez ataque!",
+        "pt": "Varmunt: Precisamos esconder o fragmento do Coração de Ymir em outro lugar antes que Himmelmez ataque!",
         "es": "Varmunt: ¡Debemos esconder el trozo de corazón en un lugar seguro antes de que comience el ataque de Himmelmez!"
     },
     "oIiHCA": {
@@ -376,7 +376,7 @@
     },
     "q4iHCA": {
         "en": "Varmunt: Himmelmez!! Already!",
-        "pt": "Varmund: Himmelmez! Mas já?!",
+        "pt": "Varmunt: Himmelmez! Mas já?!",
         "es": "Varmunt: ¡¡Himmelmez!! ¡Ya!"
     },
     "rIiHCA": {
@@ -571,7 +571,7 @@
     },
     "0oiHCA": {
         "en": "Varmunt: Sir. Heinrich, they're all monsters. You need to give them rest!",
-        "pt": "Varmund: Lorde Heinrich, agora eles são apenas monstros. Tire-os desse sofrimento!",
+        "pt": "Varmunt: Lorde Heinrich, agora eles são apenas monstros. Tire-os desse sofrimento!",
         "es": "Varmunt: Señor. Heinrich, son todos monstruos. ¡Necesitas darles descanso!"
     },
     "04iHCA": {
@@ -601,12 +601,12 @@
     },
     "2IiHCA": {
         "en": "Varmunt : Sir. Heinrich! We don't have much time!",
-        "pt": "Varmund : Lorde Heinrich! Não temos muito tempo!",
+        "pt": "Varmunt : Lorde Heinrich! Não temos muito tempo!",
         "es": "Varmunt : Señor. ¡Heinrich! ¡No tenemos mucho tiempo!"
     },
     "2YiHCA": {
         "en": "Varmunt : If you hurry now, there's a chance!",
-        "pt": "Varmund : Se nos apressarmos, ainda teremos chance de acabar com isso!",
+        "pt": "Varmunt : Se nos apressarmos, ainda teremos chance de acabar com isso!",
         "es": "Varmunt : Si te das prisa ahora, ¡hay una oportunidad!"
     },
     "2oiHCA": {
@@ -636,17 +636,17 @@
     },
     "34iHCA": {
         "en": "Heinrich : Varmunt and I will chase Himmelmez.",
-        "pt": "Heinrich : Eu e Varmund perseguiremos Himmelmez.",
+        "pt": "Heinrich : Eu e Varmunt perseguiremos Himmelmez.",
         "es": "Heinrich : Varmunt y yo perseguiremos a Himmelmez."
     },
     "4IiHCA": {
         "en": "Varmunt : We need your help. Please don't let us down.",
-        "pt": "Varmund : A ajuda de vocês é essencial. Contamos com vocês.",
+        "pt": "Varmunt : A ajuda de vocês é essencial. Contamos com vocês.",
         "es": "Varmunt : Necesitamos tu ayuda. Por favor, no nos defraude."
     },
     "4YiHCA": {
         "en": "Heinrich : Very well, Varmunt. Let's find Himmelmez.",
-        "pt": "Heinrich : Muito bem, Varmund. Vamos atrás de Himmelmez.",
+        "pt": "Heinrich : Muito bem, Varmunt. Vamos atrás de Himmelmez.",
         "es": "Heinrich : Muy bien, Varmunt. Encontremos a Himmelmez."
     },
     "4oiHCA": {
@@ -966,7 +966,7 @@
     },
     "IYmHCA": {
         "en": "Varmunt: Sir. Heinrich! I sense something strange and strong coming!",
-        "pt": "Varmund: Lorde Heinrich! Tem algo grande e poderoso vindo!",
+        "pt": "Varmunt: Lorde Heinrich! Tem algo grande e poderoso vindo!",
         "es": "Varmunt: Señor. ¡Heinrich! ¡Presiento que se avecina algo extraño y fuerte!"
     },
     "IomHCA": {
@@ -986,7 +986,7 @@
     },
     "JYmHCA": {
         "en": "Heinrich: Sir. Varmunt! Help those adventurers. I will go after Himmelmez!",
-        "pt": "Heinrich: Lorde Varmund! Ajude estes aventureiros. Eu irei atrás de Himmelmez!",
+        "pt": "Heinrich: Lorde Varmunt! Ajude estes aventureiros. Eu irei atrás de Himmelmez!",
         "es": "Heinrich: Señor. ¡Varmunt! Ayuda a esos aventureros. ¡Iré tras Himmelmez!"
     },
     "JomHCA": {
@@ -1006,12 +1006,12 @@
     },
     "KYmHCA": {
         "en": "[Varmunt]\nThis item has extraordinary aura with it. Can be very useful for someone special.",
-        "pt": "[Varmund]\nEste item emana uma aura poderosa...",
+        "pt": "[Varmunt]\nEste item emana uma aura poderosa...",
         "es": "[Varmunt]\nEste objeto lleva consigo un aura extraordinaria. Puede ser muy útil para alguien especial."
     },
     "KomHCA": {
         "en": "[Varmunt]\nI guess this is it. Is it impossible to stop the time traveler's will?!",
-        "pt": "[Varmund]\nSerá possível deter o Viajante do Tempo?",
+        "pt": "[Varmunt]\nSerá possível deter o Viajante do Tempo?",
         "es": "[Varmunt]\nSupongo que esto es todo. ¡¿Es imposible detener la voluntad del viajero del tiempo?!"
     },
     "K4mHCA": {
@@ -1036,7 +1036,7 @@
     },
     "L4mHCA": {
         "en": "Varmunt: I collected some items dropped from its body. You can take it from me.",
-        "pt": "Varmund: Eu reuni alguns dos itens que o monstro derrubou.",
+        "pt": "Varmunt: Eu reuni alguns dos itens que o monstro derrubou.",
         "es": "Varmunt: Recogí algunos objetos que cayeron de su cuerpo. Puedes quitármelo."
     },
     "MImHCA": {

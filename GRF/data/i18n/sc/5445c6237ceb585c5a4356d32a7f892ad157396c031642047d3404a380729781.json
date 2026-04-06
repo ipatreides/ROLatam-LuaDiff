@@ -3,7 +3,7 @@
         "ko": "수습연구원 샐리",
         "en": "Trainee Researcher Sally",
         "pt": "Pesquisadora Sally",
-        "es": "Trainee Researcher Sally"
+        "es": "Investigadora Sally"
     },
     "QQoSCA": {
         "ko": "[샐리]\n안녕하세요, 모험가님!\n능력 좋은 모험가님 소개 좀 부탁드려요!\n제 일자리가 걸려있는 아주, 아주 중요한 문제가..!",
@@ -21,31 +21,31 @@
         "ko": "[샐리]\n포이즈너스와 톡시어스의 데이터를 충분히 수집할 수 있었어요!",
         "en": "[Sally]\nI was able to collect enough data on Poisonous and Toxious!",
         "pt": "[Sally]\nConsegui informações importantes sobre as Nuvens Nocivas e as Nuvens Perigosas!",
-        "es": "[Sally]\n¡He podido recopilar suficientes datos de Venenobes y Tóxibes!"
+        "es": "[Sally]\n¡He podido recopilar datos importantes de los Venenobes y los Tóxibes!"
     },
     "RAoSCA": {
         "ko": "[샐리]\n그린 미네랄과 레드 미네랄의 데이터를 충분히 수집했어요!",
         "en": "[Sally]\nI was able to collect enough data on Green Mineral and Red Mineral!",
         "pt": "[Sally]\nConsegui informações importantes sobre os Neo Minerais!",
-        "es": "[Sally]\n¡He recopilado suficientes datos de Mineral verde y Mineral rojo!"
+        "es": "[Sally]\n¡He recopilado datos importantes de los Neo Minerales!"
     },
     "RQoSCA": {
         "ko": "[샐리]\n화이트 미네랄과 퍼플 미네랄의 데이터는 이렇군요. 큰 도움이 되었답니다.",
         "en": "[Sally]\nSo this is the data for White Mineral and Purple Mineral. It was a big help.",
         "pt": "[Sally]\nConsegui informações importantes sobre os Neo Minerais.",
-        "es": "[Sally]\nAsí que estos son los datos de Mineral blanco y Mineral Púrpura. Me han sido de gran ayuda."
+        "es": "[Sally]\nHe recopilado datos importantes de los Neo Minerales."
     },
     "RgoSCA": {
         "ko": "[샐리]\n어비스맨의 데이터는 언제봐도 신기하군요.",
         "en": "[Sally]\nThe data on Abyss Man is fascinating no matter how many times I see it.",
         "pt": "[Sally]\nConsegui informações importantes sobre os Garimpeiros.",
-        "es": "[Sally]\nLos datos de Abyss Man siempre me resultan fascinantes, los vea cuando los vea."
+        "es": "[Sally]\nHe recopilado datos importantes de los Abyss Man."
     },
     "RwoSCA": {
         "ko": "[샐리]\n화이트 폴셀리오, 쥬얼리안트의 데이터를 성공적으로 확보했답니다!",
-        "en": "[Sally]\nI successfully secured the data on White Porcellio and Jewaliant!",
+        "en": "[Sally]\nI successfully secured the data on White Porcellio and Jeweliant!",
         "pt": "[Sally]\nConsegui informações importantes sobre os Porcellios Albinos e os Geodoliants!",
-        "es": "[Sally]\n¡He asegurado con éxito los datos de Porcellio blanco y Jewaliant!"
+        "es": "[Sally]\n¡He recopilado datos importantes de los Porcellios Blancos y los Jungoliants!"
     },
     "SAoSCA": {
         "ko": "[샐리]\n이 불쌍한 수습인생은 언제 끝날까요?",
@@ -79,7 +79,7 @@
     },
     "TQoSCA": {
         "ko": "어비스맨 연구",
-        "en": "Abyss Man Research",
+        "en": "Research on Abyss Man",
         "pt": "Garimpo",
         "es": "Investigación de Abyss Man"
     },
@@ -87,7 +87,7 @@
         "ko": "광산벌레 연구",
         "en": "Mine Bug Research",
         "pt": "Insetos Perolados",
-        "es": "Investigación de gusanos de mina"
+        "es": "Investigación de insectos de la mina"
     },
     "TwoSCA": {
         "ko": "왜 이런 일을 하죠?",
@@ -153,43 +153,43 @@
         "ko": "[샐리]\n그린 미네랄과 레드 미네랄은 여기 아인베흐 광산던전 3층에 나와요.\n위험한 녀석들이니 주의하세요.",
         "en": "[Sally]\nGreen Mineral and Red Mineral appear here on Einbech Mine Dungeon 3F.\nThey’re dangerous, so be careful.",
         "pt": "[Sally]\nMinerais de Jade e de Jaspe aparecem no 3º andar da Mina de Einbech.\nEles são perigosos, então, tome cuidado.",
-        "es": "[Sally]\nMineral verde y Mineral rojo aparecen aquí, en la Mina de Einbech, piso 3.\nSon peligrosos, así que tenga cuidado."
+        "es": "[Sally]\nMineral Verde y Mineral Rojo aparecen aquí, en la Mina de Einbech, piso 3.\nSon peligrosos, así que tenga cuidado."
     },
     "WgoSCA": {
         "ko": "[샐리]\n미네랄은 여러종류가 있죠. 이번에 조사하려는 미네랄은 ^4D4DFF그린 미네랄과 레드 미네랄^000000입니다.\n개체수 조절도 하면서 연구에 필요한 자료도 수집하는거죠!",
         "en": "[Sally]\nThere are many kinds of Mineral. The Mineral we’re investigating this time are ^4D4DFFGreen Mineral and Red Mineral^000000.\nWe’ll control their numbers and collect the data needed for research!",
         "pt": "[Sally]\nExistem muitos tipos de minerais. Os que vamos investigar são ^4D4DFFMineral de Jaspe e Mineral de Jade^000000.\nVocê precisa eliminá-los para controle demográfico!",
-        "es": "[Sally]\nHay varios tipos de Mineral. Los Mineral que vamos a investigar esta vez son ^4D4DFFMineral verde y Mineral rojo^000000.\n¡Así controlamos su número y también reunimos los datos necesarios para la investigación!"
+        "es": "[Sally]\nHay varios tipos de minerales. Los minerales que vamos a investigar esta vez son ^4D4DFFMineral Verde y Mineral Rojo^000000.\n¡Así controlamos su número y también reunimos los datos necesarios para la investigación!"
     },
     "WwoSCA": {
         "ko": "[샐리]\n그럼 ^4D4DFF아인베흐 광산던전 3층^000000에 출몰하는 ^4D4DFF그린 미네랄과 레드 미네랄^000000을 잘 부탁드립니다!",
         "en": "[Sally]\nThen please take care of the ^4D4DFFGreen Mineral and Red Mineral^000000 that appear on ^4D4DFFEinbech Mine Dungeon 3F^000000!",
         "pt": "[Sally]\nEntão, ^4D4DFFno 3º andar da Mina de Einbech^000000 elimine ^4D4DFFMineral de Jaspe e Mineral de Jade^000000 por favor!",
-        "es": "[Sally]\nEntonces, le encargo que se ocupe de ^4D4DFFMineral verde y Mineral rojo^000000 que aparecen en ^4D4DFFla Mina de Einbech, piso 3^000000."
+        "es": "[Sally]\nEntonces, le encargo que se ocupe de ^4D4DFFMineral Verde y Mineral Rojo^000000 que aparecen en ^4D4DFFla Mina de Einbech, piso 3^000000."
     },
     "XAoSCA": {
         "ko": "[샐리]\n화이트 미네랄과 레드 미네랄은 여기 아인베흐 광산던전 3층에 나와요.\n위험한 녀석들이니 주의하세요.",
         "en": "[Sally]\nWhite Mineral and Red Mineral appear here on Einbech Mine Dungeon 3F.\nThey’re dangerous, so be careful.",
         "pt": "[Sally]\nMineral de Selenita e Mineral de Jaspe aparecem aqui, no 3º andar da Mina de Einbech.\nSão criaturas perigosas, então tenha cuidado.",
-        "es": "[Sally]\nMineral blanco y Mineral rojo aparecen aquí, en la Mina de Einbech, piso 3.\nSon peligrosos, así que tenga cuidado."
+        "es": "[Sally]\nMineral Blanco y Mineral Rojo aparecen aquí, en la Mina de Einbech, piso 3.\nSon peligrosos, así que tenga cuidado."
     },
     "XQoSCA": {
         "ko": "[샐리]\n미네랄은 여러종류가 있죠. 이번에 조사하려는 미네랄은 ^4D4DFF화이트 미네랄과 퍼플 미네랄^000000입니다.\n개체수 조절도 하면서 연구에 필요한 자료도 수집하는거죠!",
         "en": "[Sally]\nThere are many kinds of Mineral. The Mineral we’re investigating this time are ^4D4DFFWhite Mineral and Purple Mineral^000000.\nWe’ll control their numbers and collect the data needed for research!",
         "pt": "[Sally]\nHá vários tipos de Mineral. O Mineral que vamos investigar desta vez é ^4D4DFFMineral de Selenita e Mineral de Ametista^000000.\nVamos controlar a população e também coletar os dados necessários para a pesquisa!",
-        "es": "[Sally]\nHay varios tipos de Mineral. Los Mineral que vamos a investigar esta vez son ^4D4DFFMineral blanco y Mineral Púrpura^000000.\n¡Así controlamos su número y también reunimos los datos necesarios para la investigación!"
+        "es": "[Sally]\nHay varios tipos de minerales. Los minerales que vamos a investigar esta vez son ^4D4DFFMineral Blanco y Mineral Púrpura^000000.\n¡Así controlamos su número y también reunimos los datos necesarios para la investigación!"
     },
     "XgoSCA": {
         "ko": "[샐리]\n그럼 ^4D4DFF아인베흐 광산던전 3층^000000에 출몰하는 ^4D4DFF화이트 미네랄과 퍼플 미네랄^000000을 잘 부탁드립니다!",
         "en": "[Sally]\nThen please take care of the ^4D4DFFWhite Mineral and Purple Mineral^000000 that appear on ^4D4DFFEinbech Mine Dungeon 3F^000000!",
         "pt": "[Sally]\nEntão, peço que cuide bem de ^4D4DFFMineral de Selenita e Mineral de Ametista^000000 que aparecem no ^4D4DFF3º andar da Mina de Einbech^000000!",
-        "es": "[Sally]\nEntonces, le encargo que se ocupe de ^4D4DFFMineral blanco y Mineral Púrpura^000000 que aparecen en ^4D4DFFla Mina de Einbech, piso 3^000000."
+        "es": "[Sally]\nEntonces, le encargo que se ocupe de ^4D4DFFMineral Blanco y Mineral Púrpura^000000 que aparecen en ^4D4DFFla Mina de Einbech, piso 3^000000."
     },
     "XwoSCA": {
         "ko": "[샐리]\n어비스맨은 여기 아인베흐 광산던전 3층에 나와요.\n위험한 녀석들이니 주의하세요.",
         "en": "[Sally]\nAbyss Man appears here on Einbech Mine Dungeon 3F.\nIt’s dangerous, so be careful.",
         "pt": "[Sally]\nGarimpeiros aparecem no 3º andar da Mina de Einbech.\nEles são perigosos, então, tome cuidado.",
-        "es": "[Sally]\nAbyss Man aparece aquí, en la Mina de Einbech, piso 3.\nEs peligroso, así que tenga cuidado."
+        "es": "[Sally]\nLos Abyss Man aparecen aquí, en la Mina de Einbech, piso 3.\nSon peligrosos, así que tenga cuidado."
     },
     "YAoSCA": {
         "ko": "[샐리]\n충분히 쉬셨습니까? 모험가님이여.\n정규직 전환으로 몸부림치는 사회 초년생을 위해 힘 좀 써주십시오!",
@@ -201,31 +201,31 @@
         "ko": "[샐리]\n심연을 들여다보면 그 심연이 야옹..이 아니라 심연에 잡아먹힌다고들 하죠.\n통칭 어비스맨도 그런 부류가 아닐까하는데요.\n그래서 ^4D4DFF어비스맨^000000의 데이터가 필요하답니다.",
         "en": "[Sally]\nThey say if you stare into the abyss, the abyss meow... no, not meow—the abyss will swallow you.\nI wonder if the so-called Abyss Man is that kind of creature.\nThat’s why I need data on ^4D4DFFAbyss Man^000000.",
         "pt": "[Sally]\nDizem que eles vão até as últimas consequências para conseguir dinheiro.\nEles estão tirando todo o proveito das minas.\nPrecisamos dar um jeito nos ^4D4DFFGarimpeiros^000000.",
-        "es": "[Sally]\nDicen que, si miras al abismo, el abismo te miau... no, que el abismo te devora.\nCreo que el llamado Abyss Man podría ser de ese tipo.\nPor eso necesito datos de ^4D4DFFAbyss Man^000000."
+        "es": "[Sally]\nDicen que, si miras al abismo, el abismo te miau... no, que el abismo te devora.\nCreo que el \"Hombre del Abismo\" podría ser de ese tipo.\nPor eso necesito datos de los ^4D4DFFAbyss Man^000000."
     },
     "YgoSCA": {
         "ko": "[샐리]\n그럼 ^4D4DFF아인베흐 광산던전 3층^000000에 출몰하는 ^4D4DFF어비스맨^000000을 잘 부탁드립니다!",
         "en": "[Sally]\nThen please take care of the ^4D4DFFAbyss Man^000000 that appears on ^4D4DFFEinbech Mine Dungeon 3F^000000!",
         "pt": "[Sally]\nEntão, ^4D4DFFno 3º andar da Mina de Einbech^000000 elimine ^4D4DFFGarimpeiros^000000 por favor!",
-        "es": "[Sally]\nEntonces, le encargo que se ocupe de ^4D4DFFAbyss Man^000000 que aparece en ^4D4DFFla Mina de Einbech, piso 3^000000."
+        "es": "[Sally]\nEntonces, le encargo que se ocupe de los ^4D4DFFAbyss Man^000000 que aparecen en ^4D4DFFla Mina de Einbech, piso 3^000000."
     },
     "YwoSCA": {
         "ko": "[샐리]\n화이트 폴셀리오와 쥬얼리안트는 여기 아인베흐 광산던전 3층에 나와요.\n위험한 녀석들이니 주의하세요.",
-        "en": "[Sally]\nWhite Porcellio and Jewaliant appear here on Einbech Mine Dungeon 3F.\nThey’re dangerous, so be careful.",
+        "en": "[Sally]\nWhite Porcellio and Jeweliant appear here on Einbech Mine Dungeon 3F.\nThey’re dangerous, so be careful.",
         "pt": "[Sally]\nPorcellios Albinos e Geodoliants aparecem no 3º andar da Mina de Einbech.\nEles são perigosos, então, tome cuidado.",
-        "es": "[Sally]\nPorcellio blanco y Jewaliant aparecen aquí, en la Mina de Einbech, piso 3.\nSon peligrosos, así que tenga cuidado."
+        "es": "[Sally]\nPorcellios Blancos y Jewaliants aparecen aquí, en la Mina de Einbech, piso 3.\nSon peligrosos, así que tenga cuidado."
     },
     "ZAoSCA": {
         "ko": "[샐리]\n대저 던전과 같은 어두운 곳에는 특화된 곤충류가 서식하죠.\n이번에 수집할 데이터는 통칭 광산벌레라 불리는 ^4D4DFF화이트 폴셀리오와 쥬얼리안트^000000입니다.\n일반 폴셀리오랑 많이 다를까요?",
-        "en": "[Sally]\nIn dark places like dungeons, specialized insects tend to live.\nThe data we’ll collect this time is on the so-called mine bugs: ^4D4DFFWhite Porcellio and Jewaliant^000000.\nAre they very different from ordinary Porcellio?",
+        "en": "[Sally]\nIn dark places like dungeons, specialized insects tend to live.\nThe data we’ll collect this time is on the so-called mine bugs: ^4D4DFFWhite Porcellio and Jeweliant^000000.\nAre they very different from ordinary Porcellio?",
         "pt": "[Sally]\nExistem insetos que nunca viram a luz do sol.\nEles são os ^4D4DFFPorcellios Albinos e Geodoliants^000000.\nVocê me ajudaria a investigá-los?",
-        "es": "[Sally]\nEn general, en lugares oscuros como las mazmorras habitan insectos especializados.\nLos datos que recopilaremos esta vez son de ^4D4DFFPorcellio blanco y Jewaliant^000000, conocidos en conjunto como los insectos de la mina.\n¿Serán muy distintos del Porcellio común?"
+        "es": "[Sally]\nEn general, en lugares oscuros como las mazmorras habitan insectos especializados.\nLos datos que recopilaremos esta vez son de ^4D4DFFPorcellios Blanco y Jewaliants^000000, conocidos en conjunto como los insectos de la mina.\n¿Serán muy distintos del Porcellio común?"
     },
     "ZQoSCA": {
         "ko": "[샐리]\n그럼 ^4D4DFF아인베흐 광산던전 3층^000000에 출몰하는 ^4D4DFF화이트 폴셀리오와 쥬얼리안트^000000을 잘 부탁드립니다!",
-        "en": "[Sally]\nThen please take care of the ^4D4DFFWhite Porcellio and Jewaliant^000000 that appear on ^4D4DFFEinbech Mine Dungeon 3F^000000!",
+        "en": "[Sally]\nThen please take care of the ^4D4DFFWhite Porcellio and Jeweliant^000000 that appear on ^4D4DFFEinbech Mine Dungeon 3F^000000!",
         "pt": "[Sally]\nEntão, ^4D4DFFno 3º andar da Mina de Einbech^000000 elimine ^4D4DFFPorcellios Albinos e Geodoliants^000000 por favor!",
-        "es": "[Sally]\nEntonces, le encargo que se ocupe de ^4D4DFFPorcellio blanco y Jewaliant^000000 que aparecen en ^4D4DFFla Mina de Einbech, piso 3^000000."
+        "es": "[Sally]\nEntonces, le encargo que se ocupe de los ^4D4DFFPorcellios Blancos y Jewaliants^000000 que aparecen en ^4D4DFFla Mina de Einbech, piso 3^000000."
     },
     "ZgoSCA": {
         "ko": "[샐리]\n음? 그야 정직원이 되기 위해서죠!\n얼마전에 레겐쉬름 수습연구원으로 입사를 했는데, 하필이면 지명받은 일이 이거라서요.\n광산 몬스터의 데이터를 수집하는 일인데 이번 인사평가가 여기에 달렸거든요.",
@@ -243,7 +243,7 @@
         "ko": "민속학자 시나몬",
         "en": "Folklorist Cinnamon",
         "pt": "Historiador",
-        "es": "Folklorist Cinnamon"
+        "es": "Historiador"
     },
     "aQoSCA": {
         "ko": "[시나몬]\n여기까지 왔다면 실력있는 모험가가 분명한데.\n어, 저의 끝내주는 감에 의하면 당신은 아직 무리군요! 빛 기둥에 튕겨나고 말겁니다.",
@@ -261,7 +261,7 @@
         "ko": "[시나몬]\n홀리 프루스와 홀리 스코글의 존재를 좀 더 알게 되었슴다. 저의 촉은 거짓말을 하지 않슴다.",
         "en": "[Cinnamon]\nI've learned a bit more about the existence of Holy Frus and Holy Skogul. My intuition never lies.",
         "pt": "[Wanderley]\nCom a sua ajuda, consigo provar a existência de Frus e Skogul Angelicais.",
-        "es": "[Cinnamon]\nHe llegado a saber un poco más sobre la existencia de Frus sagrado y Skogul sagrado. Mi instinto no miente."
+        "es": "[Cinnamon]\nHe llegado a saber un poco más sobre la existencia de Frus Sagrado y Skogul Sagrado. Mi instinto no miente."
     },
     "bAoSCA": {
         "ko": "[시나몬]\n제가 좋아서 이곳에 숨어 있는게 아닌데 말임다.",
@@ -277,15 +277,15 @@
     },
     "bgoSCA": {
         "ko": "X세기 XX골트",
-        "en": "X Century XXgolt",
+        "en": "Unknown Century",
         "pt": "Século Desconhecido",
-        "es": "X siglo XXgolt"
+        "es": "Siglo Desconocido"
     },
     "bwoSCA": {
         "ko": "발키리란 무엇인가?",
         "en": "What is a Valkyrie?",
         "pt": "O que é um Anjo?",
-        "es": "¿Qué es una valquiria?"
+        "es": "¿Qué es un Ángel?"
     },
     "cAoSCA": {
         "ko": "왜 이런 곳에?",
@@ -313,7 +313,7 @@
     },
     "dAoSCA": {
         "ko": "[시나몬]\n스케골트의 옛 모습을 볼 수 있는 드문 기횜다.\n두 종류의 '엔젤골트'를 상대해 주시지 않겠슴까? 보답은 경험치로 하겠슴다!\n'엔젤골트'는 고대의 오딘 신전에서 볼 수 있슴다.",
-        "en": "[Cinnamon]\nIt's a rare chance to see Skeggiold's former 모습.\nWould you take on two types of 'Angelgolt'? I'll reward you with EXP!\nYou can find 'Angelgolt' in the ancient Odin Temple.",
+        "en": "[Cinnamon]\nIt's a rare chance to see Skeggiold's former self.\nWould you take on two types of 'Angelgolt'? I'll reward you with EXP!\nYou can find 'Angelgolt' in the ancient Odin Temple.",
         "pt": "[Wanderley]\nÉ uma rara oportunidade de ver a primeira versão dos Skeggiold.\nVocê poderia lidar com os 2 tipos de Angelgolt? Sua recompensa será em EXP!\n'Angelgolt vivem no Templo de Odin do passado.",
         "es": "[Cinnamon]\nEs una oportunidad rara de ver el antiguo aspecto de Skeggiold.\n¿No te enfrentarías a dos tipos de 'Angelgolt'? ¡Te recompensaré con experiencia!\n'Angelgolt' se puede ver en el antiguo templo de Odín."
     },
@@ -333,11 +333,11 @@
         "ko": "[시나몬]\n홀리 프루스와 홀리 스코글은 고대의 오딘신전에 나옴다. 오딘신전 북쪽 어딘가에 고대로 진입할 수 있는 빛기둥이 있다고 들었슴다.\n다만, 이 정보는 정확하지가 않슴다….",
         "en": "[Cinnamon]\nHoly Frus and Holy Skogul appear in the ancient Odin Temple. I heard there's a pillar of light somewhere north of the Odin Temple that lets you enter the ancient area.\nHowever, this information isn't accurate....",
         "pt": "[Wanderley]\nFrus e Skogul Angelicais viviam no Templo de Odin no passado. Eu soube que dá para voltar no tempo por um pilar de luz ao norte.\nContudo, eu nunca vi essa luz.",
-        "es": "[Cinnamon]\nFrus sagrado y Skogul sagrado aparecen en el antiguo templo de Odín. He oído que, en algún lugar al norte del templo de Odín, hay un pilar de luz por el que se puede entrar a la antigüedad.\nPero esta información no es exacta...."
+        "es": "[Cinnamon]\nFrus y Skogul Sagrados aparecen en el antiguo templo de Odín. He oído que, en algún lugar al norte del templo de Odín, hay un pilar de luz por el que se puede entrar a la antigüedad.\nPero esta información no es exacta...."
     },
     "eAoSCA": {
         "ko": "[시나몬]\n프루스와 스코글의 옛 모습을 볼 수 있는 드문 기횜다.\n어째서 신의 종자가 인간에게 적대적인 모습을 보이는지 의문임다만 알 때까지 들이대는게 학자 아니겠슴까?\n부디 '고대의 오딘 신전'에서 홀리 프루스와 홀리 스코글을 상대 해 주십쇼!",
-        "en": "[Cinnamon]\nIt's a rare chance to see Frus and Skogul's former 모습.\nI wonder why the seeds of the gods show hostility toward humans, but isn't it a scholar's job to keep digging until we know?\nPlease take on Holy Frus and Holy Skogul in the 'Ancient Odin Temple'!",
+        "en": "[Cinnamon]\nIt's a rare chance to see Frus and Skogul's former self.\nI wonder why the seeds of the gods show hostility toward humans, but isn't it a scholar's job to keep digging until we know?\nPlease take on Holy Frus and Holy Skogul in the 'Ancient Odin Temple'!",
         "pt": "[Wanderley]\nÉ uma rara oportunidade de ver a primeira versão de Frus e Skogul.\nEu me pergunto: por que as sementes de Odin atacariam os humanos?\nPor favor, elimine Frus e Skogul Angelicais no Templo de Odin do passado!",
         "es": "[Cinnamon]\nEs una oportunidad rara de ver el antiguo aspecto de Frus y Skogul.\nMe pregunto por qué los descendientes de los dioses muestran hostilidad hacia los humanos, pero ¿acaso un erudito no se lanza hasta saberlo?\nPor favor, en el 'antiguo templo de Odín', enfréntate a Frus sagrado y Skogul sagrado!"
     },
@@ -345,7 +345,7 @@
         "ko": "[시나몬]\n이번에 조사할 것은 ^4D4DFF고대 오딘 신전^000000에 출몰하는 ^4D4DFF홀리 프루스와 홀리 스코글^000000임다!",
         "en": "[Cinnamon]\nThis time, what we'll be investigating is the ^4D4DFFHoly Frus and Holy Skogul^000000 that appear in ^4D4DFFAncient Odin's Temple^000000!",
         "pt": "[Wanderley]\nEntão, no ^4D4DFFTempo de Odin do passado^000000 elimine ^4D4DFFFrus e Skogul Angelicais^000000 por favor!",
-        "es": "[Cinnamon]\n¡Esta vez, lo que investigaremos es a ^4D4DFFFrus sagrado y Skogul sagrado^000000 que aparecen en ^4D4DFFAntiguo templo de Odín^000000!"
+        "es": "[Cinnamon]\n¡Esta vez, lo que investigaremos es a ^4D4DFFFrus Sagrado y Skogul Sagrado^000000 que aparecen en ^4D4DFFAntiguo templo de Odín^000000!"
     },
     "egoSCA": {
         "ko": "[시나몬]\n왜 여기 있냐니요.\n당연히 오딘 신전을 연구하기 위함이잖슴까.\n그 중에서도 엄청 강한 모험가는 발키리가 콕 찍어 가듯 영광으로 찬란하던 오딘 신전으로 갈 수 있다니...",
@@ -361,9 +361,9 @@
     },
     "fAoSCA": {
         "ko": "민속학자 마리골드",
-        "en": "Ethnologist Marigold",
+        "en": "Dragonologist Marigold",
         "pt": "Dragonologista",
-        "es": "Ethnologist Marigold"
+        "es": "Dragonólogo Marigold"
     },
     "fQoSCA": {
         "ko": "[마리골드]\n광장은 많은 사람들이 오가죠.\n저는 여기에 앉아서 관찰 중이에요. 아주 중요한 일을 대신 해 줄 사람을요.",
@@ -381,25 +381,25 @@
         "ko": "[마리골드]\n퍼플 페러스는.. 흠, 그랬군요. 아직 조사를 더 필요하지만요. 이번엔 이정도로 할까요?",
         "en": "[Marigold]\nSo, Purple Ferus... Hmm, I see. I still need to investigate further, though. Shall we stop here for now?",
         "pt": "[Calêndula]\nFerus Roxo... Entendi. Será que devemos continuar coletando dados?",
-        "es": "[Marigold]\nFerus morado... Hmm, ya veo. Aún necesito investigar más, pero... ¿lo dejamos así por ahora?"
+        "es": "[Marigold]\nFerus Morado... Hmm, ya veo. Aún necesito investigar más, pero... ¿lo dejamos así por ahora?"
     },
     "gAoSCA": {
         "ko": "[마리골드]\n트레져 미믹은 그런것들을 가지고 다니는군요. 아, 전리품으로 다 가져가셔도 됩니다. 전 종류만 파악하면 되거든요.",
         "en": "[Marigold]\nSo Treasure Mimic carries things like that. Ah, you can take all of it as loot. I just need to identify the types.",
         "pt": "[Calêndula]\nMímicos Preciosos parecem guardar vários tipos de tesouro dentro de si. Cada um tem um tesouro diferente.",
-        "es": "[Marigold]\nAsí que Mímico de tesoro lleva esas cosas consigo. Ah, puedes quedarte con todo como botín. A mí me basta con identificar los tipos."
+        "es": "[Marigold]\nAsí que Mímico de Tesoro lleva esas cosas consigo. Ah, puedes quedarte con todo como botín. A mí me basta con identificar los tipos."
     },
     "gQoSCA": {
         "ko": "[마리골드]\n블랙 어시더스와 실버 어시더스를 상대한 기분이 어떤가요? 저는 물론 흥미로웠지만요!",
         "en": "[Marigold]\nHow did it feel to face Black Acidus and Silver Acidus? Of course, I found it fascinating!",
         "pt": "[Calêndula]\nComo foi enfrentar os Acidus Negro e Prateado? Parecem ter cores interessantes!",
-        "es": "[Marigold]\n¿Cómo te sentiste al enfrentarte a Ácido negro y Ácido de plata? ¡A mí, por supuesto, me pareció fascinante!"
+        "es": "[Marigold]\n¿Cómo te sentiste al enfrentarte a Ácido Negro y Ácido de Plata? ¡A mí, por supuesto, me pareció fascinante!"
     },
     "ggoSCA": {
         "ko": "[마리골드]\n본 페러스와 본 어시더스를 처리해 줘서 고마워요. 왜 그런 현상이 발생하는지는 밝히지 못했지만요.",
         "en": "[Marigold]\nThank you for taking care of Bone Ferus and Bone Acidus. I still haven't figured out why that phenomenon occurs, though.",
         "pt": "[Calêndula]\nObrigada por lidar com os Esqueletos de Acidus e Ferus.",
-        "es": "[Marigold]\nGracias por encargarte de Ferus óseo y Ácido óseo. Aunque no he podido averiguar por qué ocurre ese fenómeno."
+        "es": "[Marigold]\nGracias por encargarte de Ferus Esqueleto y Acidus Esqueleto. Aunque no he podido averiguar por qué ocurre ese fenómeno."
     },
     "gwoSCA": {
         "ko": "[마리골드]\n드래곤들은 왜 그렇게 금붙이를 잔뜩 쌓아 놓을까요?",
@@ -423,7 +423,7 @@
         "ko": "신종 미믹 조사",
         "en": "Investigate the New Mimic",
         "pt": "Tesouro de Mentira",
-        "es": "Investigación de un nuevo mímico"
+        "es": "Investigación de un nuevo Mímico"
     },
     "hwoSCA": {
         "ko": "어시더스 속성연구",
@@ -433,7 +433,7 @@
     },
     "iAoSCA": {
         "ko": "섭리를 거스르는 일",
-        "en": "Defying the Natural Order",
+        "en": "Dragon Archaeology",
         "pt": "Ossada Draconiana",
         "es": "Ir contra el orden natural"
     },
@@ -483,19 +483,19 @@
         "ko": "[마리골드]\n트레져 미믹은 어비스 동굴 4층에서 발견된다고 해요.",
         "en": "[Marigold]\nThey say Treasure Mimic can be found on the 4th floor of the Abyss Cave.",
         "pt": "[Calêndula]\nMímicos Preciosos aparecem no 4º subsolo do Lago do Abismo.",
-        "es": "[Marigold]\nDicen que Mímico de tesoro se encuentra en el piso 4 de la Cueva del Abismo."
+        "es": "[Marigold]\nDicen que Mímico de Tesoro se encuentra en el piso 4 de la Cueva del Abismo."
     },
     "kQoSCA": {
         "ko": "[마리골드]\n어비스 동굴 4층에서 새로운 미믹 종류가 발견되었다고 해요.\n저는 '트레져 미믹'이라 불리는 이 녀석이 어떤 전리품을 줄지 궁금해요.",
         "en": "[Marigold]\nThey say a new type of Mimic has been discovered on the 4th floor of the Abyss Cave.\nI'm curious what kind of loot this creature called 'Treasure Mimic' will drop.",
         "pt": "[Calêndula]\nOuvi relatos que um novo tipo de Mímico apareceu.\nQueria saber se cada Mímico Precioso guarda um tesouro diferente dentro de si.",
-        "es": "[Marigold]\nDicen que en el piso 4 de la Cueva del Abismo se ha descubierto un nuevo tipo de mímico.\nMe pregunto qué botín dejará este sujeto llamado 'Mímico de tesoro'."
+        "es": "[Marigold]\nDicen que en el piso 4 de la Cueva del Abismo se ha descubierto un nuevo tipo de mímico.\nMe pregunto qué botín dejará este sujeto llamado 'Mímico de Tesoro'."
     },
     "kgoSCA": {
         "ko": "[마리골드]\n이번에 조사할 것은 ^4D4DFF어비스 동굴 4층^000000에서 발견된 ^4D4DFF트레져 미믹^000000이에요!\n적당히 상대해 주시면서 획득한 전리품을 보여주세요.",
         "en": "[Marigold]\nThis time, we're investigating the ^4D4DFF4th floor of the Abyss Cave^000000, where ^4D4DFFTreasure Mimic^000000 was found!\nPlease take it on and show me the loot you obtain.",
         "pt": "[Calêndula]\nCerto, vá para o ^4D4DFF4º subsolo do Lago do Abismo^000000 e elimine ^4D4DFFMímicos Preciosos^000000ÀÌ por favor!\nEssa pesquisa é extensa e não vai terminar em um só dia.",
-        "es": "[Marigold]\n¡Esta vez investigaremos al ^4D4DFFMímico de tesoro^000000 encontrado en el ^4D4DFFpiso 4 de la Cueva del Abismo^000000!\nEnfréntate a él con moderación y muéstrame el botín que obtengas."
+        "es": "[Marigold]\n¡Esta vez investigaremos al ^4D4DFFMímico de Tesoro^000000 encontrado en el ^4D4DFFpiso 4 de la Cueva del Abismo^000000!\nEnfréntate a él con moderación y muéstrame el botín que obtengas."
     },
     "kwoSCA": {
         "ko": "[마리골드]\n블랙 어시더스와 실버 어시더스는 어비스 동굴 4층에 서식해요.",
@@ -519,7 +519,7 @@
         "ko": "[마리골드]\n본 페러스와 본 어시더스는 어비스 동굴 4층에서 발견된다고 해요.",
         "en": "[Marigold]\nThey say Bone Ferus and Bone Acidus can be found on the 4th floor of the Abyss Cave.",
         "pt": "[Calêndula]\nFerus Esqueleto e Acidus Esqueleto aparecem no 4º subsolo do Lago do Abismo.",
-        "es": "[Marigold]\nDicen que Ferus óseo y Ácido óseo se encuentran en el piso 4 de la Cueva del Abismo."
+        "es": "[Marigold]\nDicen que Ferus Esqueleto y Acidus Esqueleto se encuentran en el piso 4 de la Cueva del Abismo."
     },
     "lwoSCA": {
         "ko": "[마리골드]\n어비스 동굴 4층엔 어떤 힘이 작용하는 걸까요?\n이미 죽어서 뼈만 남은 페러스와 어시더스가 마치 살아있는 듯 움직여요.\n섭리를 거스르는 일이죠. 그냥 둬서는 안된다고 생각해요.",
@@ -531,7 +531,7 @@
         "ko": "[마리골드]\n^4D4DFF어비스 동굴 4층^000000에서 마물이 되어버린 ^4D4DFF본 페러스와 본 어시더스^000000를 처치해 주세요!\n왜 그런 현상이 발생하는지는 제가 알아서 자료를 수집하겠어요.",
         "en": "[Marigold]\nPlease defeat ^4D4DFFBone Ferus and Bone Acidus^000000 that have become monsters on the ^4D4DFF4th floor of the Abyss Cave^000000!\nI'll collect the data myself to find out why this phenomenon is happening.",
         "pt": "[Calêndula]\nVá para o ^4D4DFF4º subsolo do Lago do Abismo^000000 e elimine ^4D4DFFFerus Esqueleto e Acidus Esqueleto^000000 por favor!\nQuero entender como esse fenômeno ocorre.",
-        "es": "[Marigold]\n¡Por favor, elimina a ^4D4DFFFerus óseo y Ácido óseo^000000, que se han convertido en monstruos en el ^4D4DFFpiso 4 de la Cueva del Abismo^000000!\nYo me encargaré de reunir los datos sobre por qué ocurre ese fenómeno."
+        "es": "[Marigold]\n¡Por favor, elimina a ^4D4DFFFerus Esqueleto y Acidus Esqueleto^000000, que se han convertido en monstruos en el ^4D4DFFpiso 4 de la Cueva del Abismo^000000!\nYo me encargaré de reunir los datos sobre por qué ocurre ese fenómeno."
     },
     "mQoSCA": {
         "ko": "[마리골드]\n이 근처 현상이나 몬스터, 종교에 얽힌 유적이나 물건 등을 연구하고 있어요.\n저 말고도 한 명 더 있는데, 시나몬이라고.",
@@ -541,7 +541,7 @@
     },
     "mgoSCA": {
         "ko": "[마리골드]\n그 친구는 고대의 오딘 신전 연구를 한다더니 오딘 신전이 있는 섬으로 가있죠.\n여기 광장에서도 충분히 실력있는 모험가 섭외가 가능한데도요.",
-        "en": "[Marigold]\nThat friend said they were researching the ancient Odin Shrine, and went to the island where the Odin Shrine is.\nEven though you can recruit capable adventurers right here in the plaza.",
+        "en": "[Marigold]\nThat friend said they were researching the ancient Odin Shrine, and went to the island where the shrine is.\nEven though you can recruit capable adventurers right here in the plaza.",
         "pt": "[Calêndula]\nEle disse que estava pesquisando o antigo Templo de Odin e que está indo para a ilha onde o Templo está localizado.\nÉ possível recrutar aventureiros suficientemente qualificados aqui na praça.",
         "es": "[Marigold]\nEse amigo decía que investigaba el antiguo Santuario de Odín, y se fue a la isla donde está el Santuario de Odín.\nY eso que aquí, en la plaza, también se puede reclutar a aventureros lo bastante capaces."
     },
@@ -567,7 +567,7 @@
         "ko": "현장 관리자 엘멘",
         "en": "Field Manager Elmen",
         "pt": "Elmen, Mestre de Obra",
-        "es": "Field Manager Elmen"
+        "es": "Jefe de Campo Elmen"
     },
     "nwoSCA": {
         "ko": "- 소지하고 계신 아이템이 많아 진행할 수 없습니다. -",
@@ -577,57 +577,57 @@
     },
     "oAoSCA": {
         "ko": "[엘멘]\n안녕하쇼. 모험가 친구.\n디나이트로 채굴 장비를 구매하거나 광석을 디나이트로 정련하러 왔다면, 잘 찾아온 거요.",
-        "en": "[Elmen]\nHello there, adventurer.\nIf you've come to buy mining equipment with Dinight or refine ore into Dinight, you've come to the right place.",
+        "en": "[Elmen]\nHello there, adventurer.\nIf you've come to buy mining equipment with Dynite or refine ore into Dynite, you've come to the right place.",
         "pt": "[Elmen]\nOlá, viajante.\nSe veio comprar minérios especiais, está no lugar certo.",
-        "es": "[Elmen]\nHola. Amigo aventurero.\nSi has venido a comprar equipo de minería con Dinight o a refinar mineral con Dinight, has venido al lugar indicado."
+        "es": "[Elmen]\nHola. Amigo aventurero.\nSi has venido a comprar equipo de minería con Dynite o a refinar mineral con Dynite, has venido al lugar indicado."
     },
     "oQoSCA": {
         "ko": "디나이트 정련",
-        "en": "Refine Dinight",
+        "en": "Refine Dynite",
         "pt": "Refinar Dynite",
-        "es": "Refinar con Dinight"
+        "es": "Refinar con Dynite"
     },
     "ogoSCA": {
         "ko": "디나이트 상점",
         "en": "Dinight Shop",
         "pt": "Trocar Dynite por Itens",
-        "es": "Tienda de Dinight"
+        "es": "Tienda de Dynite"
     },
     "owoSCA": {
         "ko": "디나이트 장비 교환",
-        "en": "Exchange Dinight Equipment",
+        "en": "Exchange Dynite Equipment",
         "pt": "Trocar Dynite por Arma",
-        "es": "Intercambio de equipo de Dinight"
+        "es": "Intercambio de equipo de Dynite"
     },
     "pAoSCA": {
         "ko": "엘멘: 디나이트 정련은 한번에 100개까지 가능하지. 기계가 작아서 말이야.",
-        "en": "Elmen: You can refine up to 100 Dinight at a time. The machine is small, you see.",
+        "en": "Elmen: You can refine up to 100 Dynite at a time. The machine is small, you see.",
         "pt": "Elmen: Apenas 100 por vez, por favor.",
-        "es": "Elmen: La refinación de Dinight se puede hacer hasta 100 unidades de una vez. Es que la máquina es pequeña."
+        "es": "Elmen: La refinación de Dynite se puede hacer hasta 100 unidades de una vez. Es que la máquina es pequeña."
     },
     "pQoSCA": {
         "ko": "[엘멘]\n<ITEM>[디나이트]<INFO>25814</INFO></ITEM> 정련은\n<ITEM>[레디움]<INFO>25809</INFO></ITEM> ^777777(현재 {0}개)^000000\n<ITEM>[린디움]<INFO>25810</INFO></ITEM> ^777777(현재 {1}개)^000000\n<ITEM>[오디움]<INFO>25811</INFO></ITEM> ^777777(현재 {2}개)^000000\n<ITEM>[퍼디움]<INFO>25812</INFO></ITEM> ^777777(현재 {3}개)^000000\n<ITEM>[휘디움]<INFO>25813</INFO></ITEM> ^777777(현재 {4}개)^000000\n다섯 종류의 광석이 1개씩 필요하지.",
-        "en": "[Elmen]\nRefining <ITEM>[Dinight]<INFO>25814</INFO></ITEM> requires\n<ITEM>[Radium]<INFO>25809</INFO></ITEM> ^777777(Currently {0})^000000\n<ITEM>[Rindium]<INFO>25810</INFO></ITEM> ^777777(Currently {1})^000000\n<ITEM>[Odium]<INFO>25811</INFO></ITEM> ^777777(Currently {2})^000000\n<ITEM>[Perdium]<INFO>25812</INFO></ITEM> ^777777(Currently {3})^000000\n<ITEM>[Whydium]<INFO>25813</INFO></ITEM> ^777777(Currently {4})^000000\n1 of each of the five types of ore.",
+        "en": "[Elmen]\nRefining <ITEM>[Dynite]<INFO>25814</INFO></ITEM> requires\n<ITEM>[Radium]<INFO>25809</INFO></ITEM> ^777777(Currently {0})^000000\n<ITEM>[Rindium]<INFO>25810</INFO></ITEM> ^777777(Currently {1})^000000\n<ITEM>[Odium]<INFO>25811</INFO></ITEM> ^777777(Currently {2})^000000\n<ITEM>[Perdium]<INFO>25812</INFO></ITEM> ^777777(Currently {3})^000000\n<ITEM>[Whydium]<INFO>25813</INFO></ITEM> ^777777(Currently {4})^000000\n1 of each of the five types of ore.",
         "pt": "[Elmen]\nPara refinar <ITEM>[Dynite]<INFO>25814</INFO></ITEM>:\n<ITEM>[Vermium]<INFO>25809</INFO></ITEM> ^777777(tem {0} un.)^000000\n<ITEM>[Verdium]<INFO>25810</INFO></ITEM> ^777777(tem {1} un.)^000000\n<ITEM>[Laranium]<INFO>25811</INFO></ITEM> ^777777(tem {2} un.)^000000\n<ITEM>[Roxium]<INFO>25812</INFO></ITEM> ^777777(tem {3} un.)^000000\n<ITEM>[Branium]<INFO>25813</INFO></ITEM> ^777777(tem {4} un.)^000000\nVocê precisa de 1 de cada minério.",
-        "es": "[Elmen]\nLa refinación de <ITEM>[Dinight]<INFO>25814</INFO></ITEM> requiere\n<ITEM>[Radio]<INFO>25809</INFO></ITEM> ^777777(actualmente {0} unidades)^000000\n<ITEM>[Rindium]<INFO>25810</INFO></ITEM> ^777777(actualmente {1} unidades)^000000\n<ITEM>[Odium]<INFO>25811</INFO></ITEM> ^777777(actualmente {2} unidades)^000000\n<ITEM>[Purdium]<INFO>25812</INFO></ITEM> ^777777(actualmente {3} unidades)^000000\n<ITEM>[Whidium]<INFO>25813</INFO></ITEM> ^777777(actualmente {4} unidades)^000000\nuna unidad de cada uno de los cinco tipos de mineral."
+        "es": "[Elmen]\nLa refinación de <ITEM>[Dynite]<INFO>25814</INFO></ITEM> requiere\n<ITEM>[Rodium]<INFO>25809</INFO></ITEM> ^777777(actualmente {0} unidades)^000000\n<ITEM>[Verdium]<INFO>25810</INFO></ITEM> ^777777(actualmente {1} unidades)^000000\n<ITEM>[Odium]<INFO>25811</INFO></ITEM> ^777777(actualmente {2} unidades)^000000\n<ITEM>[Naraium]<INFO>25812</INFO></ITEM> ^777777(actualmente {3} unidades)^000000\n<ITEM>[Blanquim]<INFO>25813</INFO></ITEM> ^777777(actualmente {4} unidades)^000000\nuna unidad de cada uno de los cinco tipos de mineral."
     },
     "pgoSCA": {
         "ko": "[엘멘]\n미안해. 모험가 친구.\n디나이트 정련은 한번에 100개까지만, 정련이 가능하다니까? 기계가 작아서 어쩔 수 없어. 이해해줘.",
-        "en": "[Elmen]\nSorry, adventurer.\nYou can only refine up to 100 Dinight at a time. The machine is small, so it can't be helped. Please understand.",
+        "en": "[Elmen]\nSorry, adventurer.\nYou can only refine up to 100 Dynite at a time. The machine is small, so it can't be helped. Please understand.",
         "pt": "[Elmen]\nPerdões, viajante.\nA máquina de refinamento é pequena e só pode refinar até 100 Dynites por vez.",
-        "es": "[Elmen]\nLo siento, amigo aventurero.\nLa refinación de Dinight solo se puede hacer hasta 100 unidades de una vez, ¿entiendes? No hay más remedio, la máquina es pequeña. Compréndelo."
+        "es": "[Elmen]\nLo siento, amigo aventurero.\nLa refinación de Dynite solo se puede hacer hasta 100 unidades de una vez, ¿entiendes? No hay más remedio, la máquina es pequeña. Compréndelo."
     },
     "pwoSCA": {
         "ko": "[엘멘]\n취소인가?\n디나이트 정련이 필요하면 언제든 찾아달라고. 딱히 나 아니면 할 수 있는 사람도 없을 테니..",
-        "en": "[Elmen]\nCancel?\nIf you need Dinight refining, come by anytime. It's not like anyone else can do it, anyway...",
+        "en": "[Elmen]\nCancel?\nIf you need Dynite refining, come by anytime. It's not like anyone else can do it, anyway...",
         "pt": "[Elmen]\nCancelar?\nOh, bem, se você precisar refinar Dynites, eu sou o único que faz o serviço.",
-        "es": "[Elmen]\n¿Cancelar?\nSi necesitas refinación de Dinight, ven cuando quieras. No es que haya alguien más que pueda hacerlo..."
+        "es": "[Elmen]\n¿Cancelar?\nSi necesitas refinación de Dynite, ven cuando quieras. No es que haya alguien más que pueda hacerlo..."
     },
     "qAoSCA": {
         "ko": "[엘멘]\n정련한 디나이트 {0} 개요. 이거 오늘도 퍼펙트하구만!",
-        "en": "[Elmen]\nThat's {0} refined Dinight. Perfect as always today!",
+        "en": "[Elmen]\nThat's {0} refined Dynite. Perfect as always today!",
         "pt": "[Elmen]\nVocê obteve {0}x Dynite! Tenha um bom dia!",
-        "es": "[Elmen]\nAquí tienes {0} unidades de Dinight refinado. ¡Esto también hoy está perfecto!"
+        "es": "[Elmen]\nAquí tienes {0} unidades de Dynite refinado. ¡Esto también hoy está perfecto!"
     },
     "qQoSCA": {
         "ko": "[엘멘]\n에헤이! 이러면 서로 곤란하지 정련에 필요한 재료가 부족 하잖나? 재료가!",
@@ -643,9 +643,9 @@
     },
     "qwoSCA": {
         "ko": "[엘멘]\n디나이트로 장비를 교환 해 줄 순 있지. 다만 이미 단단히 봉인한 상자에 들어 있어서 말이야.\n^4D4DFF디나이트 50개^000000로 ^4D4DFF무기상자 1개^000000를 ^4D4DFF개봉^000000해 주겠네.",
-        "en": "[Elmen]\nI can exchange equipment for Dinight. But it's already sealed up tight in a box.\nI'll ^4D4DFFopen^000000 ^4D4DFF1 Weapon Box^000000 for ^4D4DFF50 Dinight^000000.",
+        "en": "[Elmen]\nI can exchange equipment for Dynite. But it's already sealed up tight in a box.\nI'll ^4D4DFFopen^000000 ^4D4DFF1 Weapon Box^000000 for ^4D4DFF50 Dynite^000000.",
         "pt": "[Elmen]\nPor ^4D4DFF50 Dynite^000000, posso te dar\n^4D4DFF1 Arma de Segurança aleatória^000000 da minha coleção.",
-        "es": "[Elmen]\nPuedo cambiarte equipo por Dinight. Pero ya está dentro de una caja bien sellada.\nAbriré ^4D4DFF1 caja de armas^000000 por ^4D4DFF50 Dinight^000000."
+        "es": "[Elmen]\nPuedo cambiarte equipo por Dynite. Pero ya está dentro de una caja bien sellada.\nAbriré ^4D4DFF1 caja de armas^000000 por ^4D4DFF50 Dynite^000000."
     },
     "rAoSCA": {
         "ko": "[엘멘]\n뭐가 나올지 모르지만, 품질은 좋아. 어느 상자가 좋으려나. 열어보겠는가?",
@@ -667,13 +667,13 @@
     },
     "rwoSCA": {
         "ko": "[엘멘]\n디나이트가 부족 하잖아 친구.\n뭐가 나올지 몰라서 그렇지 어디 가서 이 가격에 이정도 장비 구하기 힘들다고.",
-        "en": "[Elmen]\nYou're short on Dinight, friend.\nYou never know what you'll get, but it's hard to find gear like this at this price anywhere else.",
+        "en": "[Elmen]\nYou're short on Dynite, friend.\nI need at least 50.",
         "pt": "[Elmen]\nVocê não tem Dynite suficientes.\nEu preciso de, pelo menos, 50 unidades.",
-        "es": "[Elmen]\nTe falta Dinight, amigo.\nNo sabes qué saldrá, pero es difícil conseguir equipo de este nivel a este precio en cualquier otro lugar."
+        "es": "[Elmen]\nTe falta Dynite, amigo.\nNo sabes qué saldrá, pero es difícil conseguir equipo de este nivel a este precio en cualquier otro lugar."
     },
     "sAoSCA": {
         "ko": "엘멘: 필요한 게 나왔는지 모르겠네? 품질은 보증하니까 잘 쓰라고.",
-        "en": "Elmen: Not sure if you got what you needed? The quality is guaranteed, so put it to good use.",
+        "en": "Elmen: I hope you like the weapon.",
         "pt": "Elmen: Espero que goste da arma.",
         "es": "Elmen: No sé si te salió lo que necesitabas. La calidad está garantizada, así que úsalo bien."
     },

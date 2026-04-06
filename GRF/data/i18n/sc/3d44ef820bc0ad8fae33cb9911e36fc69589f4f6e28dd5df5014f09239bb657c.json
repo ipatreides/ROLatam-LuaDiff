@@ -466,5 +466,95 @@
         "en": "Corrupted Wanderer Hunting Request",
         "pt": "Pedido de Caça ao Corrupted Wanderer",
         "es": "Solicitud de Caza de Corrupted Wanderer"
+    },
+    "LjybDA": {
+        "ko": "Green Plant 처치",
+        "en": "Defeat Green Plant",
+        "pt": "Eliminar Planta Verde",
+        "es": "Eliminar Planta Verde"
+    },
+    "LzybDA": {
+        "ko": "Amdarais 처치",
+        "en": "Defeat Amdarais",
+        "pt": "Eliminar Amdarais",
+        "es": "Eliminar Amdarais"
+    },
+    "MDybDA": {
+        "ko": "Mastela Fruit 사용",
+        "en": "Use Mastela Fruit",
+        "pt": "Usar Mastela",
+        "es": "Usar Fruta de Mastela"
+    },
+    "MTybDA": {
+        "ko": "Green Herb 배달",
+        "en": "Deliver Green Herb",
+        "pt": "Entregar Erva Verde",
+        "es": "Entregar Hierba verde"
+    },
+    "MjybDA": {
+        "ko": "[Mission Board]\nGreen Plant 10마리 처치\nEXP Battle Pass 3",
+        "en": "[Mission Board]\nDefeat 10 Green Plant\nEXP Battle Pass 3",
+        "pt": "[Mission Board]\nEliminar 10 Planta Verdes\nEXP Battle Pass 3",
+        "es": "[Mission Board]\nEliminar 10 Planta Verdes\nEXP Battle Pass 3"
+    },
+    "MzybDA": {
+        "ko": "[Mission Board]\nAmdarais 처치\nEXP Battle Pass 3",
+        "en": "[Mission Board]\nDefeat Amdarais\nEXP Battle Pass 3",
+        "pt": "[Mission Board]\nEliminar Amdarais\nEXP Battle Pass 3",
+        "es": "[Mission Board]\nEliminar Amdarais\nEXP Battle Pass 3"
+    },
+    "NDybDA": {
+        "ko": "[Mission Board]\nMastela Fruit 50개를 사용하세요.\nEXP Battle Pass 4",
+        "en": "[Mission Board]\nUse 50 Mastela Fruit.\nEXP Battle Pass 4",
+        "pt": "[Mission Board]\nEntregue 50 Mastelas.\nEXP Battle Pass 4",
+        "es": "[Mission Board]\nEntrega 50 Fruta de Mastelas.\nEXP Battle Pass 4"
+    },
+    "NTybDA": {
+        "ko": "[Mission Board]\nGreen Herb 10개를 배달하세요.\nEXP Battle Pass 4",
+        "en": "[Mission Board]\nDeliver 10 Green Herb.\nEXP Battle Pass 4",
+        "pt": "[Mission Board]\nEntregue 10 Erva Verdes.\nEXP Battle Pass 4",
+        "es": "[Mission Board]\nEntrega 10 Hierba verdes.\nEXP Battle Pass 4"
+    },
+    "NjybDA": {
+        "ko": "Defeat Phantom of Amdarais",
+        "en": "Defeat Phantom of Amdarais",
+        "pt": "Derrotar Amdarais Sombrio",
+        "es": "Derrotar Amdarais Sombrio"
+    },
+    "NzybDA": {
+        "ko": "[Mission Board]\nPhantom of Amdarais 2마리 처치\nEXP Battle Pass 20",
+        "en": "[Mission Board]\nDefeat 2 Phantom of Amdarais\nEXP Battle Pass 20",
+        "pt": "[Mission Board]\nEliminar 2 Amdarais Sombrios\nEXP Battle Pass 20",
+        "es": "[Mission Board]\nEliminar 2 Amdarais Sombrios\nEXP Battle Pass 20"
+    },
+    "ODybDA": {
+        "ko": "Green Plant 처치 의뢰",
+        "en": "Mission: Defeat Green Plant",
+        "pt": "Missão: Eliminar Planta Verde",
+        "es": "Misión: Eliminar Planta Verde"
+    },
+    "OTybDA": {
+        "ko": "Amdarais 처치 의뢰",
+        "en": "Mission: Defeat Amdarais",
+        "pt": "Missão: Eliminar Amdarais",
+        "es": "Misión: Eliminar Amdarais"
+    },
+    "OjybDA": {
+        "ko": "Use Mastela Fruit 의뢰",
+        "en": "Mission: Use Mastela Fruit",
+        "pt": "Missão: Entregar Mastela",
+        "es": "Misión: Entregar Fruta de Mastela"
+    },
+    "OzybDA": {
+        "ko": "Deliver Green Herb 의뢰",
+        "en": "Mission: Deliver Green Herb",
+        "pt": "Missão: Entregar Erva Verde",
+        "es": "Misión: Entregar Hierba verde"
+    },
+    "PDybDA": {
+        "ko": "Phantom of Amdarais 처치 의뢰",
+        "en": "Mission: Defeat Phantom of Amdarais",
+        "pt": "Missão: Eliminar Amdarais Sombrio",
+        "es": "Misión: Eliminar Amdarais Sombrio"
     }
 }

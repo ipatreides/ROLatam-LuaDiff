@@ -998,5 +998,80 @@
         "en": "[Kafra Employee]\nI'll take you to the Payon Market.",
         "pt": "[Funcionária Kafra]\nEnviarei você ao Bazar de Payon.",
         "es": "[Personal de Kafra]\nTe enviaré al Bazar de Payon."
+    },
+    "iGe0AQ": {
+        "en": "[Kafra Employee]\nSelect the storage you wanna use.",
+        "pt": "[Funcionária Kafra]\nSelecione o armazenamento que você deseja usar.",
+        "es": "[Personal de Kafra]\nSelecciona el almacenamiento que deseas usar."
+    },
+    "iWe0AQ": {
+        "en": "Storage 1",
+        "pt": "Armazenamento 1",
+        "es": "Almacenamiento 1"
+    },
+    "ime0AQ": {
+        "en": "Storage 2",
+        "pt": "Armazenamento 2",
+        "es": "Almacenamiento 2"
+    },
+    "i2e0AQ": {
+        "en": "Storage 3",
+        "pt": "Armazenamento 3",
+        "es": "Almacenamiento 3"
+    },
+    "jGe0AQ": {
+        "en": "Storage 4",
+        "pt": "Armazenamento 4",
+        "es": "Almacenamiento 4"
+    },
+    "jWe0AQ": {
+        "en": "Storage 5",
+        "pt": "Armazenamento 5",
+        "es": "Almacenamiento 5"
+    },
+    "jme0AQ": {
+        "en": "Storage 6",
+        "pt": "Armazenamento 6",
+        "es": "Almacenamiento 6"
+    },
+    "j2e0AQ": {
+        "en": "Storage 1",
+        "pt": "Armazenamento 1",
+        "es": "Almacenamiento 1"
+    },
+    "kGe0AQ": {
+        "en": "Storage 2",
+        "pt": "Armazenamento 2",
+        "es": "Almacenamiento 2"
+    },
+    "kWe0AQ": {
+        "en": "Storage 3",
+        "pt": "Armazenamento 3",
+        "es": "Almacenamiento 3"
+    },
+    "kme0AQ": {
+        "en": "Storage 4",
+        "pt": "Armazenamento 4",
+        "es": "Almacenamiento 4"
+    },
+    "k2e0AQ": {
+        "en": "Storage 5",
+        "pt": "Armazenamento 5",
+        "es": "Almacenamiento 5"
+    },
+    "lGe0AQ": {
+        "en": "Storage 6",
+        "pt": "Armazenamento 6",
+        "es": "Almacenamiento 6"
+    },
+    "lWe0AQ": {
+        "en": "Storage 2",
+        "pt": "Armazenamento 2",
+        "es": "Almacenamiento 2"
+    },
+    "lme0AQ": {
+        "en": "Storage 4",
+        "pt": "Armazenamento 4",
+        "es": "Almacenamiento 4"
     }
 }

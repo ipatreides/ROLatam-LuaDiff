@@ -2652,7 +2652,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777750%^000000"
 	},
 	[SKID.RG_RAID] = {
-		"Asalto ^777777(Raid)^000000",
+		"Asalto ^777777(Sightless Mind)^000000",
 		"Nv. máx.: 5",
 		"Habilidad requerida: ^777777Acechar 2, Puñalada por la espalda 2^000000",
 		"Forma de habilidad: ^993300Activa^000000",
@@ -9287,7 +9287,7 @@ SKILL_DESCRIPT = {
 		"[Nv 3]: ^77777750%^000000 l ^7777779x9 células^000000 l ^7777771.200%^000000"
 	},
 	[SKID.NC_COLDSLOWER] = {
-		"Lanzador de Hielo ^777777(Cold Slower)^000000",
+		"Lanzador de Hielo ^777777(Ice Launcher)^000000",
 		"Nv. máx.: 3",
 		"Habilidad requerida: ^777777Brazo vulcano 3^000000",
 		"Forma de habilidad: ^777777Activa/Daño^000000",
@@ -11348,7 +11348,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777714 segundos^000000 l ^77777712.000^000000"
 	},
 	[SKID.GN_CRAZYWEED] = {
-		"Enredaderas Locas ^777777(Crazy Weed)^000000",
+		"Enredaderas Locas ^777777(Crazy Vines)^000000",
 		"Nv. máx.: 10",
 		"Habilidad requerida: ^777777Muro de espinas 3^000000",
 		"Forma de habilidad: ^777777Activa/Daño^000000",
@@ -12115,9 +12115,9 @@ SKILL_DESCRIPT = {
 		"Clase: ^777777Apoyo^000000",
 		"Descripción: ^777777Restablece los efectos de conjunto.^000000",
 		"^777777Restablece los mapas y monstruos seleccionados para Percepción/Oposición solar, lunar y estelar.^000000",
-		"[Nivel 1]: ^777777Restablece los mapas seleccionados \t/Tiempo de recarga de la habilidad: 60 s^000000",
-		"[Nivel 2]: ^777777Restablece los monstruos seleccionados\t/Tiempo de recarga de la habilidad: 60 s^000000",
-		"[Nivel 3]: ^777777Restablece todo \t/Tiempo de recarga de la habilidad: 60 s^000000"
+		"[Nivel 1]: ^777777Restablece los mapas seleccionados         /Tiempo de recarga de la habilidad: 60 s^000000",
+		"[Nivel 2]: ^777777Restablece los monstruos seleccionados        /Tiempo de recarga de la habilidad: 60 s^000000",
+		"[Nivel 3]: ^777777Restablece todo         /Tiempo de recarga de la habilidad: 60 s^000000"
 	},
 	[SKID.SJ_PURIFY] = {
 		"Purificación Solar, Lunar y Estelar ^777777(Purify)^000000",
@@ -12177,7 +12177,7 @@ SKILL_DESCRIPT = {
 		"[Nv. 10]: ^7777773.200%^000000"
 	},
 	[SKID.SJ_PROMINENCEKICK] = {
-		"Patada Abrasadora ^777777(Prominence Kick)^000000",
+		"Patada Abrasadora ^777777(Blaze Kick)^000000",
 		"Nv. máx.: 7",
 		"Habilidad requerida: ^777777Postura solar de nivel 1^000000",
 		"Clase: ^777777Ataque^000000",
@@ -12332,7 +12332,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777725%^000000 l ^7777777 segundos^000000"
 	},
 	[SKID.SP_SWHOO] = {
-		"Eswoo",
+		"Eswhoo",
 		"Nv. máx.: 10",
 		"Habilidad requerida: ^777777Espa de nivel 3^000000",
 		"Clase: ^777777Ataque/Especial^000000",
@@ -12871,17 +12871,21 @@ SKILL_DESCRIPT = {
 		"Nv. máx.: 5",
 		"Habilidad requerida: ^777777Ilusión oscura 5^000000",
 		"Forma de habilidad: ^777777Activa/Daño (Debuff)^000000",
-		"Descripción: ^777777Inflige una herida que causa daño físico",
-		"cuerpo a cuerpo y elimina el efecto de",
-		"reflexión de daño de las habilidades del",
-		"objetivo.",
-		"La herida dura 20 s. El efecto de reflexión",
-		"de daño de las habilidades del objetivo",
-		"permanece desactivado mientras dura la",
-		"herida y recibe más daño de los ataques",
-		"físicos cuerpo a cuerpo.",
-		"Solo la mitad de la amplificación de daño",
-		"se aplica a los monstruos jefes.^000000",
+		"Descripción: ^777777Inflige una herida que aumenta",
+		"el daño físico cuerpo a cuerpo recibido y",
+		"elimina el efecto de reflexión de daño del",
+		"objetivo de las habilidades.",
+		"",
+		"El efecto de la herida dura 20s.",
+		"",
+		"El efecto de reflexión de daño del objetivo",
+		"de las habilidades permanece desactivado",
+		"mientras dura la herida y el objetivo",
+		"recibe más daño de los ataques físicos",
+		"cuerpo a cuerpo.",
+		"",
+		"Solo se aplica la mitad del aumento de daño",
+		"a los monstruos jefes.^000000",
 		"Nivel l ATQ l Herida (Normal) l Herida (Jefe)",
 		"[Nv 1]: ^777777100%^000000 l ^777777+30%^000000 l ^777777+15%^000000",
 		"[Nv 2]: ^777777200%^000000 l ^777777+60%^000000 l ^777777+30%^000000",

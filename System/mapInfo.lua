@@ -664,15 +664,6 @@ mapTbl = {
 		},
 		backgroundBmp = "noname_s2"
 	},
-	["1@thts.rsw"] = {
-		displayName = "Torre de Thanatos",
-		notifyEnter = true,
-		signName = {
-			subTitle = "Memória de Thanatos",
-			mainTitle = "Torre de Thanatos"
-		},
-		backgroundBmp = "dungeon"
-	},
 	["1@tnm1.rsw"] = {
 		displayName = "Torre do Demônio",
 		notifyEnter = true,
@@ -836,15 +827,6 @@ mapTbl = {
 		},
 		backgroundBmp = "dungeon_s2"
 	},
-	["2@thts.rsw"] = {
-		displayName = "Aviso do Anjo",
-		notifyEnter = true,
-		signName = {
-			subTitle = "Memória de Thanatos",
-			mainTitle = "Aviso do Anjo"
-		},
-		backgroundBmp = "dungeon"
-	},
 	["2@tower.rsw"] = {
 		displayName = "Torre sem Fim",
 		notifyEnter = true,
@@ -861,15 +843,6 @@ mapTbl = {
 		},
 		backgroundBmp = "noname_s2"
 	},
-	["3@thts.rsw"] = {
-		displayName = "Quarto do Ódio",
-		notifyEnter = true,
-		signName = {
-			subTitle = "Memória de Thanatos",
-			mainTitle = "Quarto do Ódio"
-		},
-		backgroundBmp = "dungeon"
-	},
 	["3@tower.rsw"] = {
 		displayName = "Torre sem Fim",
 		notifyEnter = true,
@@ -877,15 +850,6 @@ mapTbl = {
 			mainTitle = "Torre sem Fim"
 		},
 		backgroundBmp = "dungeon_s2"
-	},
-	["4@thts.rsw"] = {
-		displayName = "Quarto da Agonia",
-		notifyEnter = true,
-		signName = {
-			subTitle = "Memória de Thanatos",
-			mainTitle = "Quarto da Agonia"
-		},
-		backgroundBmp = "dungeon"
 	},
 	["4@tower.rsw"] = {
 		displayName = "Torre sem Fim",
@@ -895,15 +859,6 @@ mapTbl = {
 		},
 		backgroundBmp = "dungeon_s2"
 	},
-	["5@thts.rsw"] = {
-		displayName = "Quarto da Tristeza",
-		notifyEnter = true,
-		signName = {
-			subTitle = "Memória de Thanatos",
-			mainTitle = "Quarto da Tristeza"
-		},
-		backgroundBmp = "dungeon"
-	},
 	["5@tower.rsw"] = {
 		displayName = "Torre sem Fim",
 		notifyEnter = true,
@@ -912,15 +867,6 @@ mapTbl = {
 		},
 		backgroundBmp = "dungeon_s2"
 	},
-	["6@thts.rsw"] = {
-		displayName = "Quarto do Desespero",
-		notifyEnter = true,
-		signName = {
-			subTitle = "Memória de Thanatos",
-			mainTitle = "Quarto do Desespero"
-		},
-		backgroundBmp = "dungeon"
-	},
 	["6@tower.rsw"] = {
 		displayName = "Topo da Torre sem Fim",
 		notifyEnter = true,
@@ -928,24 +874,6 @@ mapTbl = {
 			mainTitle = "Topo da Torre"
 		},
 		backgroundBmp = "dungeon_s2"
-	},
-	["7@thts.rsw"] = {
-		displayName = "Quarto da Raiva",
-		notifyEnter = true,
-		signName = {
-			subTitle = "Memória de Thanatos",
-			mainTitle = "Quarto da Raiva"
-		},
-		backgroundBmp = "dungeon"
-	},
-	["8@thts.rsw"] = {
-		displayName = "Memória de Thanatos",
-		notifyEnter = true,
-		signName = {
-			subTitle = "Torre de Thanatos",
-			mainTitle = "Topo"
-		},
-		backgroundBmp = "dungeon"
 	},
 	["abbey01.rsw"] = {
 		displayName = "Monastério (1)",
@@ -7960,94 +7888,94 @@ mapTbl = {
 		backgroundBmp = "dungeon"
 	},
 	["ba_maison.rsw"] = {
-		displayName = "Jardim da Mansão Varmundt",
+		displayName = "Jardim da Mansão",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Jardim da Mansão Varmundt"
+			mainTitle = "Jardim da Mansão"
 		},
 		backgroundBmp = "noname_s2"
 	},
 	["ba_in01.rsw"] = {
-		displayName = "Interior da Mansão Varmundt"
+		displayName = "Interior da Mansão"
 	},
 	["ba_pw01.rsw"] = {
-		displayName = "Primeira Usina de Energia",
+		displayName = "Usina Mágica (1)",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Primeira Usina de Energia"
+			mainTitle = "Usina Mágica (1)"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
 	["ba_pw03.rsw"] = {
-		displayName = "Segunda Usina de Energia",
+		displayName = "Usina Mágica (2)",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Segunda Usina de Energia"
+			mainTitle = "Usina Mágica (2)"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
 	["ba_pw02.rsw"] = {
-		displayName = "Estação de Tratamento de Esgoto",
+		displayName = "Estação de Esgoto",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Estação de Tratamento de Esgoto"
+			mainTitle = "Estação de Esgoto"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
 	["ba_bath.rsw"] = {
-		displayName = "Grande Banho Meditatio",
+		displayName = "Sauna Meditatio",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Grande Banho Meditatio"
+			mainTitle = "Sauna Meditatio"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
 	["ba_2whs01.rsw"] = {
-		displayName = "Cofre Tártaro - Andar Superior",
+		displayName = "Armazém Tártaro (1)",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Cofre Tártaro - Andar Superior"
+			mainTitle = "Armazém Tártaro (1)"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
 	["ba_2whs02.rsw"] = {
-		displayName = "Cofre Tártaro - Andar Inferior",
+		displayName = "Armazém Tártaro (2)",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Cofre Tártaro - Andar Inferior"
+			mainTitle = "Armazém Tártaro (2)"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
 	["ba_lost.rsw"] = {
-		displayName = "Menageria do Vale Perdido",
+		displayName = "Estufa de Pitayas",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Menageria do Vale Perdido"
+			mainTitle = "Estufa de Pitayas"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
 	["ba_lib.rsw"] = {
-		displayName = "Corredor da Biblioteca das Memórias",
+		displayName = "Corredor das Memórias",
 		notifyEnter = true,
 		signName = {
 			subTitle = "Biblioteca",
-			mainTitle = "Corredor da Memórias"
+			mainTitle = "Corredor das Memórias"
 		},
 		backgroundBmp = "dungeon"
 	},
 	["ba_go.rsw"] = {
-		displayName = "Campo de Batalha Aquático",
+		displayName = "Jardim de Tabuleiro",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Campo de Batalha Aquático"
+			mainTitle = "Jardim de Tabuleiro"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
 	["ba_chess.rsw"] = {
-		displayName = "Jardim de Xadrez",
+		displayName = "Jardim Xadrez",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Jardim de Xadrez"
+			mainTitle = "Jardim Xadrez"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
@@ -8115,6 +8043,78 @@ mapTbl = {
 		signName = {
 			subTitle = "Lago do Abismo",
 			mainTitle = "Caverna Subterrânea do Lago do Abismo (4)"
+		},
+		backgroundBmp = "dungeon"
+	},
+	["1@thts.rsw"] = {
+		displayName = "Memória de Thanatos",
+		notifyEnter = true,
+		signName = {
+			subTitle = "Memória de Thanatos",
+			mainTitle = "Memória de Thanatos"
+		},
+		backgroundBmp = "dungeon"
+	},
+	["2@thts.rsw"] = {
+		displayName = "Aviso do Anjo",
+		notifyEnter = true,
+		signName = {
+			subTitle = "Memória de Thanatos",
+			mainTitle = "Aviso do Anjo"
+		},
+		backgroundBmp = "dungeon"
+	},
+	["3@thts.rsw"] = {
+		displayName = "Memória do Ódio",
+		notifyEnter = true,
+		signName = {
+			subTitle = "Memória de Thanatos",
+			mainTitle = "Memória do Ódio"
+		},
+		backgroundBmp = "dungeon"
+	},
+	["4@thts.rsw"] = {
+		displayName = "Memória da Angústia",
+		notifyEnter = true,
+		signName = {
+			subTitle = "Memória de Thanatos",
+			mainTitle = "Memória da Angústia"
+		},
+		backgroundBmp = "dungeon"
+	},
+	["5@thts.rsw"] = {
+		displayName = "Memória da Tristeza",
+		notifyEnter = true,
+		signName = {
+			subTitle = "Memória de Thanatos",
+			mainTitle = "Memória da Tristeza"
+		},
+		backgroundBmp = "dungeon"
+	},
+	["6@thts.rsw"] = {
+		displayName = "Memória do Desespero",
+		notifyEnter = true,
+		signName = {
+			subTitle = "Memória de Thanatos",
+			mainTitle = "Memória do Desespero"
+		},
+		backgroundBmp = "dungeon"
+	},
+	["7@thts.rsw"] = {
+		displayName = "Sala da Ira",
+		notifyEnter = true,
+		signName = {
+			subTitle = "Memória de Thanatos",
+			mainTitle = "Sala da Ira"
+		},
+		backgroundBmp = "dungeon"
+	},
+	["8@thts.rsw"] = {
+		displayName = "Memória de Thanatos",
+		notifyEnter = true,
+		signName = {
+			subTitle = "Memória de Thanatos",
+			mainTitle = "Espadachim Demoníaco Memória de Thanatos"
 		},
 		backgroundBmp = "dungeon"
 	}

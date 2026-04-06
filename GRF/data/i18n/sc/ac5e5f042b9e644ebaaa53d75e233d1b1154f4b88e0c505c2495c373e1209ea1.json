@@ -2,7 +2,7 @@
     "QGvtBw": {
         "ko": "하트헌터 기습병",
         "en": "Heart Hunter Ambusher",
-        "pt": "Emboscador Heart Hunter",
+        "pt": "Caça-Coração Emboscador",
         "es": "Heart Hunter Ambusher"
     },
     "QWvtBw": {
@@ -20,14 +20,14 @@
     "Q2vtBw": {
         "ko": "흐트러진 조경수 아래로 관리자 베타의 소체가 숨겨져 있다.",
         "en": "The body of Administrator Beta is hidden beneath the scattered landscaping trees.",
-        "pt": "Sob a árvore ornamental desarrumada, o corpo do administrador Beta está escondido.",
+        "pt": "Há uma carcaça de Guarda Beta escondida.",
         "es": "Bajo el árbol ornamental desordenado está oculto el cuerpo del administrador Beta."
     },
     "RGvtBw": {
         "ko": "코어를 회수 했다.\n나중에 아몬드에게 알려 소체를 수습할 수 있도록 해야겠다.",
-        "en": "I recovered the core.\nLater, I should tell Almond kernels so they can retrieve the body.",
-        "pt": "Recuperei o núcleo.\nMais tarde, devo avisar Grão de Amêndoas para que possa recolher o corpo.",
-        "es": "Recuperé el núcleo.\nMás tarde, debo avisarle a Almond para que pueda recoger el cuerpo."
+        "en": "I recovered the core.\nLater, I should tell Almond so they can retrieve the body.",
+        "pt": "Recuperei o núcleo.\nMais tarde, devo avisar Amêndoa para que possa recolher a carcaça.",
+        "es": "Recuperé el núcleo.\nMás tarde, debo avisarle a Almendra para que pueda recoger el cuerpo."
     },
     "RWvtBw": {
         "ko": "코어 부분이 비어있다.",
@@ -38,7 +38,7 @@
     "RmvtBw": {
         "ko": "코어가 있어야 할 자리가 비어있다.\n나중에 알파에게 알려 소체를 수습할 수 있도록 해야겠다.",
         "en": "The place where the core should be is empty.\nLater, I should tell Alpha so they can retrieve the body.",
-        "pt": "O lugar onde o núcleo deveria estar está vazio.\nMais tarde, devo avisar Alpha para que possa recolher o corpo.",
+        "pt": "O lugar onde o núcleo deveria ficar está vazio.\nMais tarde, devo avisar Alpha para que possa recolher a carcaça.",
         "es": "El lugar donde debería estar el núcleo está vacío.\nMás tarde, debo avisarle a Alpha para que pueda recoger el cuerpo."
     }
 }

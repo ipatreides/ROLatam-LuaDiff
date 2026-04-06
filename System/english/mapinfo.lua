@@ -675,15 +675,6 @@ mapTbl = {
 		},
 		backgroundBmp = "noname_s2"
 	},
-	["1@thts.rsw"] = {
-		displayName = "Thanatos Tower",
-		notifyEnter = true,
-		signName = {
-			subTitle = "Memory of Thanatos",
-			mainTitle = "Thanatos Tower"
-		},
-		backgroundBmp = "dungeon"
-	},
 	["1@tnm1.rsw"] = {
 		displayName = "Devil's Tower Upper Floor",
 		notifyEnter = true,
@@ -845,15 +836,6 @@ mapTbl = {
 		signName = {mainTitle = "Culvert"},
 		backgroundBmp = "dungeon_s2"
 	},
-	["2@thts.rsw"] = {
-		displayName = "Angel's Warning",
-		notifyEnter = true,
-		signName = {
-			subTitle = "Memory of Thanatos",
-			mainTitle = "Angel's Warning"
-		},
-		backgroundBmp = "dungeon"
-	},
 	["2@tower.rsw"] = {
 		displayName = "Endless Tower Lower Floor",
 		notifyEnter = true,
@@ -870,32 +852,6 @@ mapTbl = {
 		},
 		backgroundBmp = "noname_s2"
 	},
-	["3@thts.rsw"] = {
-		displayName = "Memory of Hatred",
-		notifyEnter = true,
-		signName = {
-			subTitle = "Memory of Thanatos",
-			mainTitle = "Memory of Hatred"
-		},
-		backgroundBmp = "dungeon"
-	},
-	["3@tower.rsw"] = {
-		displayName = "Endless Tower Middle Floor",
-		notifyEnter = true,
-		signName = {
-			mainTitle = "Endless Tower Middle Floor"
-		},
-		backgroundBmp = "dungeon_s2"
-	},
-	["4@thts.rsw"] = {
-		displayName = "Memory of Agony",
-		notifyEnter = true,
-		signName = {
-			subTitle = "Memory of Thanatos",
-			mainTitle = "Memory of Agony"
-		},
-		backgroundBmp = "dungeon"
-	},
 	["4@tower.rsw"] = {
 		displayName = "Endless Tower Upper Floor",
 		notifyEnter = true,
@@ -903,15 +859,6 @@ mapTbl = {
 			mainTitle = "Endless Tower Upper Floor"
 		},
 		backgroundBmp = "dungeon_s2"
-	},
-	["5@thts.rsw"] = {
-		displayName = "Memory of Sorrow",
-		notifyEnter = true,
-		signName = {
-			subTitle = "Memory of Thanatos",
-			mainTitle = "Memory of Sorrow"
-		},
-		backgroundBmp = "dungeon"
 	},
 	["5@tower.rsw"] = {
 		displayName = "Endless Tower Top Floor",
@@ -921,37 +868,10 @@ mapTbl = {
 		},
 		backgroundBmp = "dungeon_s2"
 	},
-	["6@thts.rsw"] = {
-		displayName = "Memory of Despair",
-		notifyEnter = true,
-		signName = {
-			subTitle = "Memory of Thanatos",
-			mainTitle = "Memory of Despair"
-		},
-		backgroundBmp = "dungeon"
-	},
 	["6@tower.rsw"] = {
 		displayName = "Endless Tower (Unknown Area)",
 		notifyEnter = true,
 		backgroundBmp = "dungeon_s2"
-	},
-	["7@thts.rsw"] = {
-		displayName = "Memory of Anger",
-		notifyEnter = true,
-		signName = {
-			subTitle = "Memory of Thanatos",
-			mainTitle = "Memory of Anger"
-		},
-		backgroundBmp = "dungeon"
-	},
-	["8@thts.rsw"] = {
-		displayName = "Thanatos Tower",
-		notifyEnter = true,
-		signName = {
-			subTitle = "Memory of Thanatos",
-			mainTitle = "Memory of Thanatos"
-		},
-		backgroundBmp = "dungeon"
 	},
 	["abbey01.rsw"] = {
 		displayName = "Nameless Island Monastery Floor 1",
@@ -7852,29 +7772,29 @@ mapTbl = {
 		backgroundBmp = "dungeon"
 	},
 	["ba_maison.rsw"] = {
-		displayName = "Varmundt Mansion Garden",
+		displayName = "Varmunt Mansion Garden",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Varmundt Mansion Garden"
+			mainTitle = "Varmunt Mansion Garden"
 		},
 		backgroundBmp = "noname_s2"
 	},
 	["ba_in01.rsw"] = {
-		displayName = "Varmundt Mansion Interior"
+		displayName = "Varmunt Mansion Interior"
 	},
 	["ba_pw01.rsw"] = {
-		displayName = "First Power Plant",
+		displayName = "First Magic Power Plant",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "First Power Plant"
+			mainTitle = "First Magic Power Plant"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
 	["ba_pw03.rsw"] = {
-		displayName = "Second Power Plant",
+		displayName = "Second Magic Power Plant",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Second Power Plant"
+			mainTitle = "Second Magic Power Plant"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
@@ -7887,34 +7807,34 @@ mapTbl = {
 		backgroundBmp = "dungeon_s2"
 	},
 	["ba_bath.rsw"] = {
-		displayName = "Great Bath Meditatio",
+		displayName = "Meditatio Bathhouse",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Great Bath Meditatio"
+			mainTitle = "Meditatio Bathhouse"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
 	["ba_2whs01.rsw"] = {
-		displayName = "Vault Tartarus Upper Floor",
+		displayName = "Tartaros Storage Upper Floor",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Vault Tartarus Upper Floor"
+			mainTitle = "Tartaros Storage Upper Floor"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
 	["ba_2whs02.rsw"] = {
-		displayName = "Vault Tartarus Lower Floor",
+		displayName = "Tartaros Storage Lower Floor",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Vault Tartarus Lower Floor"
+			mainTitle = "Tartaros Storage Lower Floor"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
 	["ba_lost.rsw"] = {
-		displayName = "Menagerie Lost Valley",
+		displayName = "Pitaya's Farm",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Menagerie Lost Valley"
+			mainTitle = "Pitaya's Farm"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
@@ -8007,6 +7927,78 @@ mapTbl = {
 		signName = {
 			subTitle = "Abyss Lake, Hugel",
 			mainTitle = "Hugel Abyss Lake Underground Cave Floor 4"
+		},
+		backgroundBmp = "dungeon"
+	},
+	["1@thts.rsw"] = {
+		displayName = "Thanatos Tower",
+		notifyEnter = true,
+		signName = {
+			subTitle = "Memory of Thanatos",
+			mainTitle = "Thanatos Tower"
+		},
+		backgroundBmp = "dungeon"
+	},
+	["2@thts.rsw"] = {
+		displayName = "Angel's Warning",
+		notifyEnter = true,
+		signName = {
+			subTitle = "Memory of Thanatos",
+			mainTitle = "Angel's Warning"
+		},
+		backgroundBmp = "dungeon"
+	},
+	["3@thts.rsw"] = {
+		displayName = "Memory of Hatred",
+		notifyEnter = true,
+		signName = {
+			subTitle = "Memory of Thanatos",
+			mainTitle = "Memory of Hatred"
+		},
+		backgroundBmp = "dungeon"
+	},
+	["4@thts.rsw"] = {
+		displayName = "Memory of Anguish",
+		notifyEnter = true,
+		signName = {
+			subTitle = "Memory of Thanatos",
+			mainTitle = "Memory of Anguish"
+		},
+		backgroundBmp = "dungeon"
+	},
+	["5@thts.rsw"] = {
+		displayName = "Memory of Sorrow",
+		notifyEnter = true,
+		signName = {
+			subTitle = "Memory of Thanatos",
+			mainTitle = "Memory of Sorrow"
+		},
+		backgroundBmp = "dungeon"
+	},
+	["6@thts.rsw"] = {
+		displayName = "Memory of Despair",
+		notifyEnter = true,
+		signName = {
+			subTitle = "Memory of Thanatos",
+			mainTitle = "Memory of Despair"
+		},
+		backgroundBmp = "dungeon"
+	},
+	["7@thts.rsw"] = {
+		displayName = "Memory of Anger",
+		notifyEnter = true,
+		signName = {
+			subTitle = "Memory of Thanatos",
+			mainTitle = "Memory of Anger"
+		},
+		backgroundBmp = "dungeon"
+	},
+	["8@thts.rsw"] = {
+		displayName = "Thanatos Tower",
+		notifyEnter = true,
+		signName = {
+			subTitle = "Memory of Thanatos",
+			mainTitle = "Magic Swordsman Memory of Thanatos"
 		},
 		backgroundBmp = "dungeon"
 	}

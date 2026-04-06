@@ -342,7 +342,7 @@
     "BAphBw": {
         "en": "[Deu]\nHow do you expect me to trust myself to such a shoddy machine?",
         "pt": "[Du Lian]\nComo você espera que eu coloque minha segurança nas mãos de uma máquina tão inferior?",
-        "es": "[Deu]\n¿Cómo esperas que me encomiende a una máquina tan deficiente?"
+        "es": "[Du Lian]\n¿Cómo esperas que me encomiende a una máquina tan deficiente?"
     },
     "BQphBw": {
         "en": "[Mark]\nEnough!\nApologize to the lady!",
@@ -352,7 +352,7 @@
     "BgphBw": {
         "en": "[Deu]\nBut he started it...",
         "pt": "[Du Lian]\nMas foi ele quem começou...",
-        "es": "[Deu]\nPero él empezó…"
+        "es": "[Du Lian]\nPero él empezó…"
     },
     "BwphBw": {
         "en": "[Mark]\n...",
@@ -387,7 +387,7 @@
     "DQphBw": {
         "en": "[Deu]\nWah!\nThe floor rattled!",
         "pt": "[Du Lian]\nWah!\nO piso chacoalhou!",
-        "es": "[Deu]\n¡Ahh!\n¡El suelo se sacudió!"
+        "es": "[Du Lian]\n¡Ahh!\n¡El suelo se sacudió!"
     },
     "DgphBw": {
         "en": "[Scarlet]\nStop!\nEveryone, stay still!\nOr we might plummet to the bottom!",
@@ -422,7 +422,7 @@
     "FAphBw": {
         "en": "[Deu]\nWAH-!\nWe're going to crash to the ground!",
         "pt": "[Du Lian]\nWAH-!\nNós vamos despencar até o chão!",
-        "es": "[Deu]\n*¡AHH…!*\n¡Nos estrellaremos contra el suelo!"
+        "es": "[Du Lian]\n*¡AHH…!*\n¡Nos estrellaremos contra el suelo!"
     },
     "FQphBw": {
         "en": "[Tamarin]\nDon't say that!\nThis is your fault!",
@@ -457,7 +457,7 @@
     "GwphBw": {
         "en": "[Deu]\nThank the gods!\nHere, Magi!\nTake my hand and get down.",
         "pt": "[Du Lian]\nGraças aos deuses!\nAqui, Maggi!\nPega a minha mão e desce.",
-        "es": "[Deu]\n¡Gracias a los dioses!\n¡Ven, Magi!\nToma mi mano y baja."
+        "es": "[Du Lian]\n¡Gracias a los dioses!\n¡Ven, Magi!\nToma mi mano y baja."
     },
     "HAphBw": {
         "en": "[Scarlet]\nWhew...\nI'm glad no one's hurt.\nI'll let this go,\nbut never again!",
@@ -492,7 +492,7 @@
     "IgphBw": {
         "en": "[Deu]\n...Sorry.",
         "pt": "[Du Lian]\n... Desculpa.",
-        "es": "[Deu]\n…Perdón."
+        "es": "[Du Lian]\n…Perdón."
     },
     "IwphBw": {
         "en": "[Tamarin]\nThank you.\nSigh, I don't want to imagine what might have happened if you{0}didn't pass by at that moment.",
@@ -522,7 +522,7 @@
     "KAphBw": {
         "en": "[Deu]\nIt is!\nNo one hasn't figured out when the ruins were built.\nLet's go! I want to be the first to know!",
         "pt": "[Du Lian]\n É sim!\nNinguém descobriu quando as ruínas foram construídas.\nVamos lá! Eu quero ser o primeiro a descobrir!",
-        "es": "[Deu]\n¡Lo es!\nNadie pudo descubrir cuándo se construyeron las ruinas.\n¡Vamos! ¡Quiero ser el primero en saberlo!"
+        "es": "[Du Lian]\n¡Lo es!\nNadie pudo descubrir cuándo se construyeron las ruinas.\n¡Vamos! ¡Quiero ser el primero en saberlo!"
     },
     "KQphBw": {
         "en": "[Mark]\nCalm down!\nHaven't you learned? You almost broke the elevator!",
@@ -567,17 +567,17 @@
     "MQphBw": {
         "en": "[Deu]\nAdventurers,\nlet's go!",
         "pt": "[Du Lian]\nOk,\nvamos lá!",
-        "es": "[Deu]\n¡Aventureros,\nvamos!"
+        "es": "[Du Lian]\n¡Aventureros,\nvamos!"
     },
     "MgphBw": {
         "en": "[Deu]\nWAAAAAHH-!",
         "pt": "[Du Lian]\nWAAAAAHH-!",
-        "es": "[Deu]\n*¡AAAAHHHHH…!*"
+        "es": "[Du Lian]\n*¡AAAAHHHHH…!*"
     },
     "MwphBw": {
         "en": "[Deu]\nSomeone please do something!",
         "pt": "[Du Lian]\nAlguém, por favor, faça alguma coisa!",
-        "es": "[Deu]\n¡Que alguien haga algo, por favor!"
+        "es": "[Du Lian]\n¡Que alguien haga algo, por favor!"
     },
     "NAphBw": {
         "en": "[Scarlet]\nWhat did you do in the elevator?\nI told you not to run or jump inside the elevator!",
@@ -587,7 +587,7 @@
     "NQphBw": {
         "en": "[Deu]\nHm...\nThis place doesn't look as exciting as I thought.",
         "pt": "[Du Lian]\nHum...\nEste lugar não parece tão empolgante quanto eu imaginei.",
-        "es": "[Deu]\nMmm…\nEste lugar no parece tan interesante como pensaba."
+        "es": "[Du Lian]\nMmm…\nEste lugar no parece tan interesante como pensaba."
     },
     "NgphBw": {
         "en": "[Mark]\nWhat did you expect?",
@@ -597,7 +597,7 @@
     "NwphBw": {
         "en": "[Deu]\nYou know,\nI thought it'd be filled with amazing treasures.",
         "pt": "[Du Lian]\nSabe,\nachei que ia estar cheio de tesouros incríveis.",
-        "es": "[Deu]\nBueno,\npensé que estaría repleto de tesoros increíbles."
+        "es": "[Du Lian]\nBueno,\npensé que estaría repleto de tesoros increíbles."
     },
     "OAphBw": {
         "en": "[Mark]\nIt it were, other people probably beat us to it.",
@@ -617,12 +617,12 @@
     "OwphBw": {
         "en": "[Deu]\nWhoa!\nGuys, come look at this fountain!",
         "pt": "[Du Lian]\nNossa!\nGalera, venham ver esta fonte!",
-        "es": "[Deu]\n¡Vaya!\n¡Oigan, vengan a ver esta fuente!"
+        "es": "[Du Lian]\n¡Vaya!\n¡Oigan, vengan a ver esta fuente!"
     },
     "PAphBw": {
         "en": "[Deu]\nAdventuring is all about bravery and curiosity!",
         "pt": "[Du Lian]\nO principal em uma aventura é ter coragem e curiosidade!",
-        "es": "[Deu]\n¡Aventurarse es cuestión de valentía y curiosidad!"
+        "es": "[Du Lian]\n¡Aventurarse es cuestión de valentía y curiosidad!"
     },
     "PQphBw": {
         "en": "Mark",
@@ -792,7 +792,7 @@
     "XgphBw": {
         "en": "[Deu]\nLook, I wiped it, and it sparkles!",
         "pt": "[Du Lian]\nOlhem, eu limpei e ela brilha!",
-        "es": "[Deu]\n¡Mira, la limpié y le saqué brillo!"
+        "es": "[Du Lian]\n¡Mira, la limpié y le saqué brillo!"
     },
     "XwphBw": {
         "en": "[Alf]\nWhy can't you just listen to us?",
@@ -892,7 +892,7 @@
     "cgphBw": {
         "en": "[Deu]\nI've been wondering since we arrived: don't trees need sunlight to grow?",
         "pt": "[Du Lian]\nEstou pensando nisso desde que chegamos: as árvores não precisam de luz solar para crescer?",
-        "es": "[Deu]\nDesde que llegamos, me pregunto: ¿los árboles no necesitan luz solar para crecer?"
+        "es": "[Du Lian]\nDesde que llegamos, me pregunto: ¿los árboles no necesitan luz solar para crecer?"
     },
     "cwphBw": {
         "en": "[Tamarin]\n*Gasp*\nDeu, that's the smartest thing I've ever heard you say.",
@@ -902,7 +902,7 @@
     "dAphBw": {
         "en": "[Deu]\nWhat did you say?",
         "pt": "[Du Lian]\nO que você disse?",
-        "es": "[Deu]\n¿Qué dijiste?"
+        "es": "[Du Lian]\n¿Qué dijiste?"
     },
     "dQphBw": {
         "en": "[Mark]\nHow did this tree grow underground?\nThere's no sunlight.",
@@ -917,7 +917,7 @@
     "dwphBw": {
         "en": "[Deu]\nOh, look here!\nSomething strange is standing in front of the door!",
         "pt": "[Du Lian]\nAh, olhem aqui!\nTem algo estranho bem na frente da porta!",
-        "es": "[Deu]\n¡Ah, mira!\n¡Hay algo extraño delante de la puerta!"
+        "es": "[Du Lian]\n¡Ah, mira!\n¡Hay algo extraño delante de la puerta!"
     },
     "eAphBw": {
         "en": "A tall, verdant tree.\nNothing looks special about it, except that it's growing underground.",
@@ -937,7 +937,7 @@
     "ewphBw": {
         "en": "[Deu]\nAnd I'm not going to let other peopl take all the treasures!",
         "pt": "[Du Lian]\nE não vou deixar as outras pessoas pegarem todos os tesouros!",
-        "es": "[Deu]\n¡Y no dejaré que otros se lleven todos los tesoros!"
+        "es": "[Du Lian]\n¡Y no dejaré que otros se lleven todos los tesoros!"
     },
     "fAphBw": {
         "en": "[Tamarin]\nLast time you said that, you were hospitalized for a month.",
@@ -947,7 +947,7 @@
     "fQphBw": {
         "en": "[Deu]\nThis time, it's different!\nPlus, what doesn't kill me only makes me stronger. It did!",
         "pt": "[Du Lian]\nDesta vez é diferente!\nAlém disso, o que não me mata me deixa mais forte. E deixou!",
-        "es": "[Deu]\n¡Esta vez, es diferente!\nAdemás, lo que no me mata me hace más fuerte. ¡Así fue!"
+        "es": "[Du Lian]\n¡Esta vez, es diferente!\nAdemás, lo que no me mata me hace más fuerte. ¡Así fue!"
     },
     "fgphBw": {
         "en": "[Mark]\nYou're delusional.",
@@ -967,7 +967,7 @@
     "gQphBw": {
         "en": "[Deu]\nI go\nwherever my instinct leads me!\nMwah hah hah!",
         "pt": "[Du Lian]\nEu vou\naonde quer que meus instintos me guiem!\nMuahaha!",
-        "es": "[Deu]\n¡Iré \na donde mi instinto me lleve!\n¡Mua, ja, ja, ja!"
+        "es": "[Du Lian]\n¡Iré \na donde mi instinto me lleve!\n¡Mua, ja, ja, ja!"
     },
     "ggphBw": {
         "en": "[Mark]\nDeu, stop!\nDid you not hear me?!",
@@ -1002,22 +1002,22 @@
     "iAphBw": {
         "en": "[Deu]\nWhoa...\nI thought this place would be the same as the last one, but it's overrun with machines.",
         "pt": "[Du Lian]\nNossa...\nEu pensei que este lugar seria igual ao outro, mas está cheio de máquinas.",
-        "es": "[Deu]\nVaya…\nCreí que este lugar sería igual al anterior, pero está plagado de máquinas."
+        "es": "[Du Lian]\nVaya…\nCreí que este lugar sería igual al anterior, pero está plagado de máquinas."
     },
     "iQphBw": {
         "en": "[Deu]\nAre these the same as those in Juperos?",
         "pt": "[Du Lian]\nSão as mesmas que aquelas em Juperos?",
-        "es": "[Deu]\n¿Son iguales a las de Juperos?"
+        "es": "[Du Lian]\n¿Son iguales a las de Juperos?"
     },
     "igphBw": {
         "en": "[Deu]\nWhat does this place have to do with Juperos?",
         "pt": "[Du Lian]\nO que este lugar tem a ver com Juperos?",
-        "es": "[Deu]\n¿Qué tiene que ver este lugar con Juperos?"
+        "es": "[Du Lian]\n¿Qué tiene que ver este lugar con Juperos?"
     },
     "iwphBw": {
         "en": "[Deu]\nUp there, I saw another fountain looking similar to the last one.\nDo you want to go check it out?",
         "pt": "[Du Lian]\nLá em cima, eu vi outra fonte parecida com a que já achamos.\nQuer ir até lá para dar uma olhada?",
-        "es": "[Deu]\nAllá vi otra fuente similar a la última.\n¿Vamos a investigar?"
+        "es": "[Du Lian]\nAllá vi otra fuente similar a la última.\n¿Vamos a investigar?"
     },
     "jAphBw": {
         "en": "[Alf]\nHm...\nThis place is disturbingly clean.",
@@ -1042,12 +1042,12 @@
     "kAphBw": {
         "en": "[Deu]\nSo the trail of clues went cold.",
         "pt": "[Du Lian]\nEntão não temos mais pistas.",
-        "es": "[Deu]\nAsí que perdimos el rastro."
+        "es": "[Du Lian]\nAsí que perdimos el rastro."
     },
     "kQphBw": {
         "en": "[Deu]\nOuch! Why did you hit me?",
         "pt": "[Du Lian]\nAi! Por que me bateu?",
-        "es": "[Deu]\n¡Auch! ¿Por qué me pegaste?"
+        "es": "[Du Lian]\n¡Auch! ¿Por qué me pegaste?"
     },
     "kgphBw": {
         "en": "[Mark]\nI'll take the path north. Meet me up there later.",
@@ -1112,7 +1112,7 @@
     "ngphBw": {
         "en": "[Deu]\nUm.\nI really don't want to go over there.",
         "pt": "[Du Lian]\nHum.\nEu realmente não quero ir até ali.",
-        "es": "[Deu]\nMmm.\nRealmente, no quiero ir allí."
+        "es": "[Du Lian]\nMmm.\nRealmente, no quiero ir allí."
     },
     "nwphBw": {
         "en": "[Tamarin]\n...!\nThat's a first. You earned the nickname Red-haired Boar because you never stop running.",
@@ -1122,12 +1122,12 @@
     "oAphBw": {
         "en": "[Deu]\nNo one calls me that!",
         "pt": "[Du Lian]\nNinguém me chama assim!",
-        "es": "[Deu]\n¡Nadie me llama así!"
+        "es": "[Du Lian]\n¡Nadie me llama así!"
     },
     "oQphBw": {
         "en": "[Deu]\nI've got cooler nicknames! Call me those!",
         "pt": "[Du Lian]\nEu tenho apelidos mais legais! Me chamem por eles!",
-        "es": "[Deu]\n¡Tengo apodos mejores! ¡Puedes usar esos!"
+        "es": "[Du Lian]\n¡Tengo apodos mejores! ¡Puedes usar esos!"
     },
     "ogphBw": {
         "en": "[Alf]\nDeu.\nDon't insult boars.\nAll their parts, from head to toe, are useful.",
@@ -1142,7 +1142,7 @@
     "pAphBw": {
         "en": "[Deu]\nThat's not the point!",
         "pt": "[Du Lian]\nIsso não é o importante!",
-        "es": "[Deu]\n¡Esa no es la cuestión!"
+        "es": "[Du Lian]\n¡Esa no es la cuestión!"
     },
     "pQphBw": {
         "en": "[Mark]\nDeu's instinct has never betrayed us. We should steer clear of that path.\nRight, Boar?",
@@ -1152,7 +1152,7 @@
     "pgphBw": {
         "en": "[Deu]\nGrr!\nI said\ndon't call me that!",
         "pt": "[Du Lian]\nGrr!\nEu disse\npara não me chamar assim!",
-        "es": "[Deu]\n¡Grr!\n¡Te dije\nque no me llames así!"
+        "es": "[Du Lian]\n¡Grr!\n¡Te dije\nque no me llames así!"
     },
     "pwphBw": {
         "en": "[Alf]\nThe path is blocked, and if the Phantasmagorika Excavation Team hasn't cleared it, then there must be a reason. Let's steer clear of it until we find out more about it.",
@@ -1162,7 +1162,7 @@
     "qAphBw": {
         "en": "[Deu]\nDon't you make fun of me!",
         "pt": "[Du Lian]\nNão brinquem comigo!",
-        "es": "[Deu]\n¡No te burles de mí!"
+        "es": "[Du Lian]\n¡No te burles de mí!"
     },
     "qQphBw": {
         "en": "[Mark]\nI agree.\nLet's check the other places first.",

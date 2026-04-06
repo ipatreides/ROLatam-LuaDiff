@@ -1366,48 +1366,78 @@
         "en": "[Aile]\nBring...\n^CD688910,000 Zeny^000000,\n^CD68895 Earthworm Peelings^000000 and\n^CD68891 Boots^000000."
     },
     "cnarBg": {
-        "en": "Uses Dance skills."
+        "en": "Uses Dance skills.",
+        "pt": "Habilidades de dança",
+        "es": "Usar las habilidades de baile."
     },
     "c3arBg": {
-        "en": "Acting"
+        "en": "Acting",
+        "pt": "Atuação",
+        "es": "Actuación."
     },
     "dHarBg": {
-        "en": "Dancing"
+        "en": "Dancing",
+        "pt": "Dança",
+        "es": "Baile."
     },
     "dXarBg": {
-        "en": "Magic"
+        "en": "Magic",
+        "pt": "Ataques Mágicos",
+        "es": "Magia."
     },
     "dnarBg": {
-        "en": "Kitty Band"
+        "en": "Kitty Band",
+        "pt": "Orelhas de Gato",
+        "es": "Banda de gato."
     },
     "d3arBg": {
-        "en": "Billie Holiday"
+        "en": "Billie Holiday",
+        "pt": "Billie Holiday",
+        "es": "Billie Holiday."
     },
     "eHarBg": {
-        "en": "Louis Armstrong"
+        "en": "Louis Armstrong",
+        "pt": "Louis Daniel Armstrong",
+        "es": "Louis Armstrong."
     },
     "eXarBg": {
-        "en": "Bud Powell"
+        "en": "Bud Powell",
+        "pt": "Bud Powell",
+        "es": "Bud Powell."
     },
     "enarBg": {
-        "en": "Elder Willow"
+        "en": "Elder Willow",
+        "pt": "Salgueiro Ancião",
+        "es": "Sauce anciano."
     },
     "e3arBg": {
-        "en": "Hold in place..."
+        "en": "Hold in place...",
+        "pt": "ATENÇÃO, PREPARE-SE! MANTENHA SUA POSIÇÃO!",
+        "es": "Quédate en el lugar…"
     },
     "fHarBg": {
-        "en": "Pay attention!"
+        "en": "Pay attention!",
+        "pt": "VAMOS LÁ!",
+        "es": "¡Presta atención!"
     },
     "fXarBg": {
-        "en": "Down, then Right~"
+        "en": "Down, then Right~",
+        "pt": "PARA BAIXO, DEPOIS PARA A DIREITA!",
+        "es": "Abajo, luego a la derecha~."
     },
     "fnarBg": {
-        "en": "Left, Center, Down, Up~!"
+        "en": "Left, Center, Down, Up~!",
+        "pt": "ESQUERDA, CENTRO, BAIXO E PRA CIMA!",
+        "es": "¡Izquierda, centro, abajo, arriba~!"
     },
     "f3arBg": {
-        "en": "Once again~ Left, Center, Down, Up~ !"
+        "en": "Once again~ Left, Center, Down, Up~ !",
+        "pt": "MAIS UMA VEZ - PARA ESQUERDA, AO CENTRO, PRA BAIXO E PRA CIMA!",
+        "es": "¡Una vez más~! ¡Izquierda, centro, abajo, arriba~!"
     },
     "gHarBg": {
-        "en": "Good! Well done!"
+        "en": "Good! Well done!",
+        "pt": "ÓTIMO! EXCELENTE! DI-VI-NOOO!",
+        "es": "¡Bien! ¡Bien hecho!"
     }
 }

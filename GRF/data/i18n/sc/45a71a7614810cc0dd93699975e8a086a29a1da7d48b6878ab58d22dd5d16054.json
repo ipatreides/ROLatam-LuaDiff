@@ -14,277 +14,277 @@
     "QjbhBw": {
         "ko": "[???????????????]\n우그르르르르르륵!!!!\n부그륵!!!",
         "en": "[???????????????]\nRuuuuumble!!!!\nBuurble!!!",
-        "pt": "[???????????????]\nUgrrrrrrrrrrk!!!!\nBugruk!!!",
+        "pt": "[???????????????]\nBlrrgggh!!!!\nGlub blgghr!!!",
         "es": "[???????????????]\n¡Ugrrrrrrrrrrk!!!!\n¡Bugruk!!!"
     },
     "QzbhBw": {
         "ko": "- 이상한 소리가 나는 쪽을 살펴보니 어디서 많이 본듯한 사람이 물에 빠져있다. -",
         "en": "- Looking toward the strange sound, you see someone who looks familiar has fallen into the water. -",
-        "pt": "- Ao verificar de onde vinha o som estranho, há uma pessoa que parece familiar caída na água. -",
+        "pt": "- Ao verificar de onde vinha o som estranho, você percebe que há uma pessoa familiar caída na água. -",
         "es": "- Al mirar hacia donde venía el sonido extraño, hay una persona que parece muy conocida caída en el agua. -"
     },
     "RDbhBw": {
         "ko": "도와 준다.",
         "en": "Help.",
-        "pt": "Ajuda.",
+        "pt": "Ajudar.",
         "es": "Ayudar."
     },
     "RTbhBw": {
         "ko": "무시 한다.",
         "en": "Ignore.",
-        "pt": "Ignora.",
+        "pt": "Ignorar.",
         "es": "Ignorar."
     },
     "RjbhBw": {
         "ko": "- 이미 전투불능 상태가 된 것 같다.\n이그드라실의 나뭇잎 1장을 구해오자. -",
         "en": "- They seem to already be unable to fight.\nBring 1 Yggdrasil Leaf. -",
-        "pt": "- Parece que já está em estado incapaz de lutar.\nVamos conseguir 1 Folha de Yggdrasil. -",
+        "pt": "- Parece que está desmaiado.\nTraga 1 Folha de Yggdrasil. -",
         "es": "- Parece que ya está en estado de incapacidad de combate.\nConsigamos 1 Hoja de Yggdrasil. -"
     },
     "RzbhBw": {
         "ko": "[???????????????]\n꼬르르르르르륵…",
         "en": "[???????????????]\nGuuuurrrgle…",
-        "pt": "[???????????????]\nCoorrrrrrrrrrk…",
+        "pt": "[???????????????]\nGlub blgghr…",
         "es": "[???????????????]\nGorororororork…"
     },
     "SDbhBw": {
         "ko": "[듀]\n쿨럭쿨럭!!!!\n우웨에에에엑",
         "en": "[Deu]\nCough, cough!!!!\nBleeearghhh",
-        "pt": "[Du Lian]\nCof cof!!!!\nUweeeeeeec",
-        "es": "[Deu]\n¡Cof cof!!!!\n¡Bueeeej!"
+        "pt": "[Du Lian]\nCof cof!!!!\nAaaahhhff!!",
+        "es": "[Du Lian]\n¡Cof cof!!!!\n¡Bueeeej!"
     },
     "STbhBw": {
         "ko": "[듀]\n우엑!!!!!",
         "en": "[Deu]\nBleeeargh!!!!!",
-        "pt": "[Du Lian]\nUec!!!!!",
-        "es": "[Deu]\n¡Buej!!!!!"
+        "pt": "[Du Lian]\nArrgh!!!!",
+        "es": "[Du Lian]\n¡Buej!!!!!"
     },
     "SjbhBw": {
         "ko": "[듀]\n헉헉…\n죽는 줄 알았네!!!!",
         "en": "[Deu]\nPant, pant…\nI thought I was going to die!!!!",
-        "pt": "[Du Lian]\nOfegante…\nAchei que ia morrer!!!!",
-        "es": "[Deu]\nJadeo jadeo…\n¡¡¡Creí que me moría!!!!"
+        "pt": "[Du Lian]\n*Ofegante*\nAchei que ia morrer!!!!",
+        "es": "[Du Lian]\nJadeo jadeo…\n¡¡¡Creí que me moría!!!!"
     },
     "SzbhBw": {
         "ko": "[듀]\n고마워!!\n덕분에 살았어!\n이 은혜는 절대 잊지…",
         "en": "[Deu]\nThank you!!\nYou saved my life!\nI will never forget this kindne…",
         "pt": "[Du Lian]\nObrigado!!\nGraças a você, eu sobrevivi!\nNunca vou esquecer esta dívida…",
-        "es": "[Deu]\n¡¡Gracias!!\n¡Gracias a ti, me salvé!\nJamás olvidaré este favor…"
+        "es": "[Du Lian]\n¡¡Gracias!!\n¡Gracias a ti, me salvé!\nJamás olvidaré este favor…"
     },
     "TDbhBw": {
         "ko": "[듀]\n…앗!!\n아앗!!!!!!",
         "en": "[Deu]\n…Ah!!\nAah!!!!!!",
         "pt": "[Du Lian]\n…Ah!!\nAah!!!!!!",
-        "es": "[Deu]\n…¡¡Ah!!\n¡¡¡¡Aaaah!!!!!!"
+        "es": "[Du Lian]\n…¡¡Ah!!\n¡¡¡¡Aaaah!!!!!!"
     },
     "TTbhBw": {
         "ko": "[듀]\n이게 누구야!!!\n{0}!!!",
         "en": "[Deu]\nWell, look who it is!!!\n{0}!!!",
-        "pt": "[Du Lian]\nMas quem é!!!\n{0}!!!",
-        "es": "[Deu]\n¡¡¡Pero si eres tú!!!\n¡{0}!!!"
+        "pt": "[Du Lian]\nMas olha só quem é!!!\n{0}!!!",
+        "es": "[Du Lian]\n¡¡¡Pero si eres tú!!!\n¡{0}!!!"
     },
     "TjbhBw": {
         "ko": "[듀]\n이런 곳에서 또 만나다니 이건 정말 운명이야!!!",
         "en": "[Deu]\nTo run into you again in a place like this, it really must be fate!!!",
-        "pt": "[Du Lian]\nNos encontrarmos de novo num lugar desses... isso é mesmo destino!!!",
-        "es": "[Deu]\n¡¡¡Encontrarnos otra vez en un lugar como este, de verdad es el destino!!!"
+        "pt": "[Du Lian]\nNos encontrarmos de novo num lugar desses... isso é o destino!!!",
+        "es": "[Du Lian]\n¡¡¡Encontrarnos otra vez en un lugar como este, de verdad es el destino!!!"
     },
     "TzbhBw": {
         "ko": "[듀]\n네가 아니었으면 이대로 프론테라 성당에서 깨어날 뻔 했다니까!\n잠깐이었지만 수녀님이 묵직한 기부금 주머니를 들고 해맑게 미소 짓는 모습까지 보였다고…",
         "en": "[Deu]\nIf it weren't for you, I would have woken up at the Prontera Church!\nIt was only for a moment, but I even saw a nun smiling brightly while holding a heavy donation pouch…",
-        "pt": "[Du Lian]\nSe não fosse você, eu teria acabado acordando na Catedral de Prontera!\nFoi por pouco, mas eu até vi uma freira sorrindo inocentemente enquanto carregava uma pesada bolsa de doações…",
-        "es": "[Deu]\n¡Si no hubieras sido tú, habría acabado despertando en la catedral de Prontera!\nAunque fue un momento, hasta vi a la hermana sonriendo inocentemente mientras sostenía una pesada bolsa de donativos…"
+        "pt": "[Du Lian]\nSe não fosse você, eu teria acabado em um caixão na Catedral de Prontera!\nFoi por pouco, mas eu cheguei até a ver uma Sacerdotisa sorrindo…",
+        "es": "[Du Lian]\n¡Si no hubieras sido tú, habría acabado despertando en la catedral de Prontera!\nAunque fue un momento, hasta vi a la hermana sonriendo inocentemente mientras sostenía una pesada bolsa de donativos…"
     },
     "UDbhBw": {
         "ko": "[듀]\n그리고 그 뒤엔 마크가…\n…으히익… 다시 생각해도 너무 끔찍해…",
         "en": "[Deu]\nAnd behind her was Mark…\n…Eek… It's too horrible even to think about…",
-        "pt": "[Du Lian]\nE depois disso, o Mark...\n…Uhiik… Só de pensar de novo, é horrível demais…",
-        "es": "[Deu]\nY después de eso, Mark…\n…Uuuh… da demasiado miedo incluso pensarlo otra vez…"
+        "pt": "[Du Lian]\nE também estava lá o Mark...\n…Urgh… Só de pensar na morte de novo, é horrível demais…",
+        "es": "[Du Lian]\nY después de eso, Mark…\n…Uuuh… da demasiado miedo incluso pensarlo otra vez…"
     },
     "UTbhBw": {
         "ko": "[듀]\n그런 무시무시한 얘긴 제쳐두고…\n여기서 날 구해줬다는 건… 혹시 너도 이 위의 저택을 조사하러 온 거야?",
         "en": "[Deu]\nBut enough of that terrifying story…\nSince you saved me here… did you come to investigate the mansion up above, too?",
         "pt": "[Du Lian]\nDeixando essa história assustadora de lado...\nVocê ter me salvado aqui... será que você também veio investigar a mansão lá em cima?",
-        "es": "[Deu]\nDejando de lado esas historias tan aterradoras…\nQue me hayas salvado aquí significa… ¿acaso tú también viniste a investigar la mansión de arriba?"
+        "es": "[Du Lian]\nDejando de lado esas historias tan aterradoras…\nQue me hayas salvado aquí significa… ¿acaso tú también viniste a investigar la mansión de arriba?"
     },
     "UjbhBw": {
         "ko": "[듀]\n후 역시 내가 라이벌로 인정할만한 녀석이라니까!\n여기 정말 끝내주지???\n이 정도의 저택이 지금까지 숨겨져 있었다니…",
         "en": "[Deu]\nHa, I knew it! You're the kind of person I can admit as rival!\nIsn't this place amazing???\nTo think a mansion like this was hidden all this time…",
-        "pt": "[Du Lian]\nHa, claro, eu sabia que você era alguém que eu podia reconhecer como rival!\nEste lugar é incrível, não é???\nUma mansão desse nível ter ficado escondida até agora…",
-        "es": "[Deu]\nJe, claro, ¡eres alguien a quien puedo reconocer como rival!\n¿Aquí es increíble, verdad???\nQue una mansión de este nivel haya estado oculta hasta ahora…"
+        "pt": "[Du Lian]\nHah, claro, eu sabia que você era alguém que eu podia reconhecer como rival!\nEste lugar é incrível, não é???\nUma mansão desse nível ter ficado escondida até agora…",
+        "es": "[Du Lian]\nJe, claro, ¡eres alguien a quien puedo reconocer como rival!\n¿Aquí es increíble, verdad???\nQue una mansión de este nivel haya estado oculta hasta ahora…"
     },
     "UzbhBw": {
         "ko": "[듀]\n이러고 있을 때가 아니지!!\n자!!\n어서 위로 올라가자!!!",
         "en": "[Deu]\nThis is no time to stand around!!\nCome on!!\nLet's hurry up and go up there!!!",
         "pt": "[Du Lian]\nNão é hora de ficar aqui!!\nVamos!!\nDepressa, vamos subir!!!",
-        "es": "[Deu]\n¡¡No es momento de quedarnos así!!\n¡¡Vamos!!\n¡¡¡Subamos arriba cuanto antes!!!"
+        "es": "[Du Lian]\n¡¡No es momento de quedarnos así!!\n¡¡Vamos!!\n¡¡¡Subamos arriba cuanto antes!!!"
     },
     "VDbhBw": {
         "ko": "[듀]\n꾸물거리다 가는 다른 녀석들이 재미있는걸 다 차지해버릴 거라고!!!!",
         "en": "[Deu]\nIf you dawdle, the others will take all the fun!!!!",
         "pt": "[Du Lian]\nSe ficarmos enrolando, aqueles outros sujeitos vão ficar com toda a diversão!!!!",
-        "es": "[Deu]\n¡¡¡Si me entretengo, esos otros tipos se quedarán con todo lo divertido!!!!"
+        "es": "[Du Lian]\n¡¡¡Si me entretengo, esos otros tipos se quedarán con todo lo divertido!!!!"
     },
     "VTbhBw": {
         "ko": "[듀]\n일단 마크랑 다시 합류하는게 좋을 것 같으니…\n흐음…\n흐으으으음!!!!",
         "en": "[Deu]\nFor now, it seems best to rejoin Mark...\nHmm...\nHMMMM!!!!",
         "pt": "[Du Lian]\nAcho melhor nos reunirmos com o Mark de novo…\nHmm…\nHmmm!!!!",
-        "es": "[Deu]\nPor ahora, creo que será mejor reunirme de nuevo con Mark…\nMmm…\n¡¡¡Mmmmm!!!!"
+        "es": "[Du Lian]\nPor ahora, creo que será mejor reunirme de nuevo con Mark…\nMmm…\n¡¡¡Mmmmm!!!!"
     },
     "VjbhBw": {
         "ko": "[듀]\n좋아 저쪽이다!\n저쪽에서 마기의 목소리가 들리는 것 같아!!!",
         "en": "[Deu]\nAlright, over there!\nI think I can hear Magi's voice from over there!!!",
         "pt": "[Du Lian]\nCerto, é por ali!\nAcho que estou ouvindo a voz da Maggi vindo de lá!!!",
-        "es": "[Deu]\n¡Bien, es por allí!\n¡Creo que puedo oír la voz de Magi desde allí!!!"
+        "es": "[Du Lian]\n¡Bien, es por allí!\n¡Creo que puedo oír la voz de Maggi desde allí!!!"
     },
     "VzbhBw": {
         "ko": "- 이미 전투불능 상태가 된 것 같다.\n이그드라실의 잎 1장을 구해오자. -",
         "en": "- It seems they are already incapacitated.\nLet's obtain 1 Yggdrasil Leaf. -",
-        "pt": "- Parece que já está em estado de incapacidade de combate.\nVamos conseguir 1 Folha de Yggdrasil. -",
+        "pt": "- Parece que está desmaiado.\nVolte com 1 Folha de Yggdrasil. -",
         "es": "- Parece que ya está en estado de incapacidad de combate.\nConsigamos 1 Hoja de Yggdrasil. -"
     },
     "WDbhBw": {
         "ko": "[마기]\n꺄아아아아아아악!!!\n가…가까이 오지 말아요!!!!\n더 이상 다가오면 공격해 버릴 거예요!!!",
-        "en": "[Magi]\nKyaaaaaaaaah!!!\nD-Don't come any closer!!!!\nIf you come any closer, I'll attack you!!!",
-        "pt": "[Maggi]\nKyaaaaaaaaah!!!\nN... não chegue perto!!!!\nSe chegar mais perto, eu vou atacar!!!",
-        "es": "[Magi]\n¡¡¡Kyaaaaaaaa!!!\n¡N-no se acerquen!!!!\n¡Si se acercan más, los atacaré!!!"
+        "en": "[Maggi]\nKyaaaaaaaaah!!!\nD-Don't come any closer!!!!\nIf you come any closer, I'll attack you!!!",
+        "pt": "[Maggi]\nAaaaiii!!!\nN... não chegue perto!!!!\nSe chegar mais perto, eu vou atacar!!!",
+        "es": "[Maggi]\n¡¡¡Kyaaaaaaaa!!!\n¡N-no se acerquen!!!!\n¡Si se acercan más, los atacaré!!!"
     },
     "WTbhBw": {
         "ko": "[듀]\n아앗!!!\n마기!!!",
-        "en": "[Deu]\nAhh!!!\nMagi!!!",
+        "en": "[Deu]\nAhh!!!\nMaggi!!!",
         "pt": "[Du Lian]\nAh!!!\nMaggi!!!",
-        "es": "[Deu]\n¡¡¡Ah!!!\n¡¡¡Magi!!!"
+        "es": "[Du Lian]\n¡¡¡Ah!!!\n¡¡¡Magi!!!"
     },
     "WjbhBw": {
         "ko": "[듀]\n이 녀석들~~~\n감히 우리 마기를!!!!",
-        "en": "[Deu]\nYou little punks~~~\nHow dare you do this to our Magi!!!!",
-        "pt": "[Du Lian]\nSeus desgraçados~~~\nComo ousam com a nossa Maggi!!!!",
-        "es": "[Deu]\n¡Estos tipos~~~\n¡¡¡Cómo se atreven con nuestra Magi!!!!"
+        "en": "[Deu]\nYou little punks~~~\nHow dare you do this to our Maggi!!!!",
+        "pt": "[Du Lian]\nSeus desgraçados~~~\nComo ousam aterrorizar nossa Maggi!!!!",
+        "es": "[Du Lian]\n¡Estos tipos~~~\n¡¡¡Cómo se atreven con nuestra Magi!!!!"
     },
     "WzbhBw": {
         "ko": "[듀]\n이그니션 브레이…!!!!",
         "en": "[Deu]\nIgnition Brea...!!!!",
-        "pt": "[Du Lian]\nImpacto Explo…!!!!",
-        "es": "[Deu]\n¡Ignition Brea…!!!!"
+        "pt": "[Du Lian]\nImpacto Flamej…!!!!",
+        "es": "[Du Lian]\n¡Explosión Ígn…!!!!"
     },
     "XDbhBw": {
         "ko": "[라시스]\n마기, 괜찮아?\n어디 다친 곳은?\n후… 하트헌터 녀석들… 또 이런 곳에 매복해 있었다니 위험할 뻔 했잖아.",
-        "en": "[Lasis]\nMagi, are you okay?\nAre you hurt anywhere?\nWhew... those Heart Hunter punks... It was almost dangerous, to think they were lying in ambush in a place like this again.",
-        "pt": "[Larcis]\nMaggi, você está bem?\nSe machucou em algum lugar?\nUff… esses sujeitos da Caça-Corações… por pouco não foi perigoso, estavam emboscados aqui de novo.",
+        "en": "[Larcis]\nMaggi, are you okay?\nAre you hurt anywhere?\nWhew... those Heart Hunter punks... It was almost dangerous, to think they were lying in ambush in a place like this again.",
+        "pt": "[Larcis]\nMaggi, você está bem?\nSe machucou em algum lugar?\nUff… esses sujeitos da Caça-Coração… por pouco não aconteceu algo ruim.",
         "es": "[Lasis]\nMagi, ¿estás bien?\n¿Te has herido en algún sitio?\nUf… esos tipos de Heart Hunter… que estuvieran emboscados otra vez en un lugar como este… casi fue peligroso."
     },
     "XTbhBw": {
         "ko": "[라시스]\n으윽…\n큰 스킬을 썼더니 상처가…",
-        "en": "[Lasis]\nUgh...\nAfter using a big skill, my wound...",
-        "pt": "[Larcis]\nUrgh…\nUsei uma habilidade grande e a ferida…",
+        "en": "[Larcis]\nUgh...\nAfter using a big skill, my wound...",
+        "pt": "[Larcis]\nArgh…\nUsei minha arma mais pesada e a minha ferida se abriu…",
         "es": "[Lasis]\nUgh…\nAl usar una habilidad grande, la herida…"
     },
     "XjbhBw": {
         "ko": "[마기]\n라시스씨 상처가 나은지 얼마 안됐는데 무리하지 말아요.그렇게 무리하면 안돼요!!!\n어서 이쪽으로…",
-        "en": "[Magi]\nLasis, your wound hasn't been healed for long, so don't push yourself. You can't overdo it like that!!!\nHurry, this way...",
-        "pt": "[Maggi]\nSr. Larcis, sua ferida ainda não faz muito tempo que sarou, não se force. Não pode se esforçar assim!!!\nRápido, por aqui…",
-        "es": "[Magi]\nSeñor Lasis, hace poco que se le curó la herida, no se esfuerce. ¡No debe forzarse así!!!\nRápido, por aquí…"
+        "en": "[Maggi]\nLarcis, your wound hasn't been healed for long, so don't push yourself. You can't overdo it like that!!!\nHurry, this way...",
+        "pt": "[Maggi]\nSr. Larcis, sua ferida não sarou direito, não se esforce. Não pode se movimentar rapidamente!!!\nCalma, vou ajudar…",
+        "es": "[Maggi]\nSeñor Lasis, hace poco que se le curó la herida, no se esfuerce. ¡No debe forzarse así!!!\nRápido, por aquí…"
     },
     "XzbhBw": {
         "ko": "[라시스]\n괜찮아 마크의 치유 스킬 덕분에 거의 다 나았으니까.",
-        "en": "[Lasis]\nIt's fine. Thanks to Mark's healing skill, it's almost completely healed.",
-        "pt": "[Larcis]\nEstá tudo bem, graças à habilidade de cura do Mark, já sarou quase tudo.",
+        "en": "[Larcis]\nIt's fine. Thanks to Mark's healing skill, it's almost completely healed.",
+        "pt": "[Larcis]\nEstá tudo bem, graças à cura do Mark, já não está doendo tanto.",
         "es": "[Lasis]\nEstoy bien. Gracias a la habilidad de curación de Mark, ya casi se curó por completo."
     },
     "YDbhBw": {
         "ko": "[듀]\n마기 괜찮아?\n다른 녀석들은 다 어디 간 거야?\n그리고 이 녀석은 누구야?",
-        "en": "[Deu]\nMagi, are you okay?\nWhere did all the others go?\nAnd who is this?",
-        "pt": "[Du Lian]\nMaggi, você está bem?\nOnde foram parar os outros?\nE quem é esse sujeito?",
-        "es": "[Deu]\nMagi, ¿estás bien?\n¿Adónde se fueron los otros?\n¿Y quién es este?"
+        "en": "[Deu]\nMaggi, are you okay?\nWhere did all the others go?\nAnd who is this?",
+        "pt": "[Du Lian]\nMaggi, você está bem?\nCadê os outros?\nE quem é esse doido aí?",
+        "es": "[Du Lian]\nMagi, ¿estás bien?\n¿Adónde se fueron los otros?\n¿Y quién es este?"
     },
     "YTbhBw": {
         "ko": "[마기]\n듀?!\n대체 어디 갔었던 거야!!\n갑자기 사라져버려서 얼마나 걱정한 줄 알아?\n한참을 기다려도 나타나지 않아서 마크씨가 찾으러 가버렸단 말야!",
-        "en": "[Magi]\nDeu?!\nWhere in the world have you been!!\nDo you know how worried I was when you suddenly disappeared?\nYou didn't show up no matter how long we waited, so Mark went off to look for you!",
-        "pt": "[Maggi]\nDu Lian?!\nAfinal, onde você tinha ido?!\nVocê sumiu de repente, sabe o quanto eu fiquei preocupada?\nVocê não apareceu mesmo depois de esperar um bom tempo, e o Sr. Mark foi te procurar!",
-        "es": "[Magi]\n¿¡Deu?!\n¿Dónde habías estado!!\n¿Sabes cuánto me preocupé cuando desapareciste de repente?\n¡Esperamos un buen rato y no aparecías, así que el señor Mark se fue a buscarte!"
+        "en": "[Maggi]\nDeu?!\nWhere in the world have you been!!\nDo you know how worried I was when you suddenly disappeared?\nYou didn't show up no matter how long we waited, so Mark went off to look for you!",
+        "pt": "[Maggi]\nDu?!\nMinha nossa, onde você tava?!\nVocê sumiu de repente, sabe o quanto eu fiquei preocupada?\nFicamos esperando um tempão e aí o Mark foi te procurar!",
+        "es": "[Maggi]\n¿¡Deu?!\n¿Dónde habías estado!!\n¿Sabes cuánto me preocupé cuando desapareciste de repente?\n¡Esperamos un buen rato y no aparecías, así que el señor Mark se fue a buscarte!"
     },
     "YjbhBw": {
         "ko": "[라시스]\n아!\n이 친구가 찾고있다던 그 친구야?",
-        "en": "[Lasis]\nAh!\nSo you're the friend they said they were looking for?",
-        "pt": "[Larcis]\nAh!\nEntão este é o amigo que você disse que estava procurando?",
+        "en": "[Larcis]\nAh!\nSo you're the friend they said they were looking for?",
+        "pt": "[Larcis]\nAh!\nEntão este é o amigo que você estava procurando?",
         "es": "[Lasis]\n¡Ah!\n¿Este es el amigo que decías que estabas buscando?"
     },
     "YzbhBw": {
         "ko": "[라시스]\n반갑다.\n리벨리온의 라시스다.\n네가 듀로군 그리고 그쪽은… 기지에서 봤던…",
-        "en": "[Lasis]\nNice to meet you.\nI'm Lasis of Rebellion.\nSo you're Deu. And over there is... the one I saw at the base...",
-        "pt": "[Larcis]\nPrazer.\nSou Larcis, da Rebellion.\nEntão você é o Du Lian. E aquele ali é… o que eu vi na base…",
-        "es": "[Lasis]\nEncantado.\nSoy Lasis, de Rebellion.\nAsí que tú eres Deu. Y por allí está… el que vi en la base…"
+        "en": "[Larcis]\nNice to meet you.\nI'm Larcis of Rebellion.\nSo you're Deu. And over there is... the one I saw at the base...",
+        "pt": "[Larcis]\nPrazer.\nSou Larcis, da Rebelião.\nEntão você é o Du Lian. E essa pessoa ao seu lado é… ah, é quem me ajuda todo o dia em Clana Nemieri…",
+        "es": "[Lasis]\nEncantado.\nSoy Lasis, de Rebellion.\nAsí que tú eres Deu. Y por allí está… la persona que vi en la base…"
     },
     "ZDbhBw": {
         "ko": "[마기]\n라시스씨는 아까 올라오는 길에 만난 사람이야.\n마크씨랑 둘밖에 없을 때 적들이 갑자기 몰려와서 정말 큰일이었어.",
-        "en": "[Magi]\nLasis is someone I met on the way up earlier.\nWhen it was just Mark and me, the enemies suddenly swarmed in, and it was really a big problem.",
-        "pt": "[Maggi]\nO Sr. Larcis é a pessoa que encontrei no caminho para cá.\nQuando eu estava só com o Sr. Mark, os inimigos apareceram de repente em grande número, foi realmente terrível.",
-        "es": "[Magi]\nEl señor Lasis es alguien que conocí en el camino al subir hace un momento.\nCuando solo estábamos el señor Mark y yo, los enemigos se nos echaron encima de repente, y fue realmente grave."
+        "en": "[Maggi]\nLarcis is someone I met on the way up earlier.\nWhen it was just Mark and me, the enemies suddenly swarmed in, and it was really a big problem.",
+        "pt": "[Maggi]\nEncontrei o Sr. Larcis no caminho para cá.\nQuando eu estava só com Mark, esses monstros apareceram de repente.",
+        "es": "[Maggi]\nEl señor Lasis es alguien que conocí en el camino al subir hace un momento.\nCuando solo estábamos el señor Mark y yo, los enemigos se nos echaron encima de repente, y fue realmente grave."
     },
     "ZTbhBw": {
         "ko": "[듀]\n역시 내가 없으면…",
         "en": "[Deu]\nJust as I thought, without me...",
-        "pt": "[Du Lian]\nComo eu imaginava, sem mim…",
-        "es": "[Deu]\nComo era de esperar, sin mí…"
+        "pt": "[Du Lian]\nComo eu imaginava! Vocês não sobrevivem sem mim…",
+        "es": "[Du Lian]\nComo era de esperar, sin mí…"
     },
     "ZjbhBw": {
         "ko": "쾅!!!!",
         "en": "Bang!!!!",
-        "pt": "Bum!!!!",
+        "pt": "PÁ!!!!",
         "es": "¡¡¡Bam!!!!"
     },
     "ZzbhBw": {
         "ko": "[듀]\n아얏!!!",
         "en": "[Deu]\nOw!!!",
-        "pt": "[Du Lian]\nAi!!!",
-        "es": "[Deu]\n¡¡¡Ay!!!"
+        "pt": "[Du Lian]\nAiii!!!",
+        "es": "[Du Lian]\n¡¡¡Ay!!!"
     },
     "aDbhBw": {
         "ko": "[마크]\n역시는 무슨!!!\n네 녀석은 내 말을 대체 뭐라고 생각하는 거냐!!!\n다른 데로 새지 말라고 그렇게나 말했는데!!!!!",
         "en": "[Mark]\nWhat do you mean, “as expected”?!\nWhat do you think my words even mean, you brat?!\nI told you over and over not to get sidetracked!!!!!",
-        "pt": "[Mark]\nOra essa, como assim?!\nO que você acha que as minhas palavras significam, afinal?!!!\nEu disse tantas vezes para não se desviar!!!!!",
+        "pt": "[Mark]\nOra essa, como assim?!\nPor que você não me escuta quando falo para não ficar longe da gente?!!!\nParece que entra em um ouvido e sai pelo outro!!!!!",
         "es": "[Mark]\n¡¡¿Cómo que “ya lo creo”?!!\n¡¡¡¿Qué demonios crees que significa lo que te digo?!!!\n¡¡¡¡Te dije una y otra vez que no te desviaras!!!!!"
     },
     "aTbhBw": {
         "ko": "[듀]\n아프잖아!!!",
         "en": "[Deu]\nThat hurts!!!",
         "pt": "[Du Lian]\nIsso dói!!!",
-        "es": "[Deu]\n¡¡¡Duele!!!"
+        "es": "[Du Lian]\n¡¡¡Duele!!!"
     },
     "ajbhBw": {
         "ko": "[마크]\n어휴 이 녀석을 정말…\n하아…",
         "en": "[Mark]\nGood grief, this kid, honestly...\nHaa...",
-        "pt": "[Mark]\nAh, esse sujeito, sério...\nHaah...",
+        "pt": "[Mark]\nAh, esse Du, juro por Odin...\nHahah...",
         "es": "[Mark]\nUf, de verdad que este chico…\nHaa…"
     },
     "azbhBw": {
         "ko": "[라시스]\n마크, 그보다 여길 좀 봐.",
-        "en": "[Lasis]\nMark, look over here first.",
+        "en": "[Larcis]\nMark, look over here first.",
         "pt": "[Larcis]\nMark, antes disso, olhe aqui.",
         "es": "[Lasis]\nMark, antes mira esto."
     },
     "bDbhBw": {
         "ko": "[마크]\n이건 설마?",
         "en": "[Mark]\nCould this be...?",
-        "pt": "[Mark]\nIsso não pode ser...?",
+        "pt": "[Mark]\nO que é isso...?",
         "es": "[Mark]\n¿Esto no será…?"
     },
     "bTbhBw": {
         "ko": "[라시스]\n그래 아까 쓰러뜨린 녀석들이 가지고 있던 보석과 같은 보석이야.\n보석이 맞는지도 의문이지만 말이야.",
-        "en": "[Lasis]\nYes, it’s the same gem as the ones those guys we took down earlier had.\nThough I’m not even sure it’s really a gem.",
-        "pt": "[Larcis]\nSim, é a mesma joia que aqueles sujeitos que derrubamos antes estavam carregando.\nEmbora eu até duvide que seja mesmo uma joia.",
+        "en": "[Larcis]\nYes, it’s the same gem as the ones those guys we took down earlier had.\nThough I’m not even sure it’s really a gem.",
+        "pt": "[Larcis]\nÉ o mesmo Selo que aqueles monstros estavam carregando.\nEmbora eu até duvide que seja mesmo um Selo.",
         "es": "[Lasis]\nSí, es la misma gema que llevaban esos tipos a los que derribamos antes.\nAunque ni siquiera estoy segura de que sea una gema."
     },
     "bjbhBw": {
         "ko": "[마크]\n하트헌터 놈들이 소중이 가지고 있던 걸 보면 뭔가 중요한 물건인 게 틀림없어요.\n일단 챙겨두죠.\n나중에 뭔가 알아 낼 수 있을 거에요.",
         "en": "[Mark]\nIf those Heart Hunter bastards were keeping it so carefully, it must be something important.\nLet’s hold onto it for now.\nWe might be able to find out something later.",
-        "pt": "[Mark]\nSe os Caça-Corações guardavam isso com tanto cuidado, com certeza é algo importante.\nVamos guardar por enquanto.\nDepois, talvez a gente consiga descobrir alguma coisa.",
+        "pt": "[Mark]\nSe a Caça-Coração guarda isso com tanto cuidado, com certeza é algo importante.\nVamos guardar por enquanto.\nDepois, talvez a gente consiga descobrir alguma coisa.",
         "es": "[Mark]\nSi los Heart Hunter la guardaban con tanto cuidado, seguro que es algo importante.\nPor ahora, guardémosla.\nMás adelante podremos averiguar algo."
     },
     "bzbhBw": {
         "ko": "[마크]\n아무튼…\n돌아오는 길에 알프씨에게서 문을 찾았다는 연락이 왔으니 더 위험해 지기 전에 어서 올라갑시다.\n이쪽이에요.",
         "en": "[Mark]\nAnyway...\nOn the way back, we got word from Mr. Alf that he found the door, so let’s head up before it gets any more dangerous.\nThis way.",
-        "pt": "[Mark]\nDe qualquer forma...\nNo caminho de volta, o Sr. Alp entrou em contato dizendo que encontrou a porta, então vamos subir logo antes que fique mais perigoso.\nÉ por aqui.",
+        "pt": "[Mark]\nDe qualquer forma...\nNo caminho de volta, o Alp disse que encontrou um portão, então vamos logo antes que fique mais perigoso.\nÉ por aqui.",
         "es": "[Mark]\nEn fin…\nDe camino de vuelta, el señor Alf me avisó de que encontró la puerta, así que subamos antes de que se vuelva más peligroso.\nEs por aquí."
     },
     "cDbhBw": {
@@ -307,7 +307,7 @@
     },
     "czbhBw": {
         "ko": "라시스",
-        "en": "Lasis",
+        "en": "Larcis",
         "pt": "Larcis",
         "es": "Lasis"
     },
@@ -326,49 +326,49 @@
     "djbhBw": {
         "ko": "[알프]\n엄청난 장치들…\n도시… 아니 나라 수준의 규모에 에너지를 공급할 수 있겠군.\n대체 뭘 위해 이렇게 까지…",
         "en": "[Alf]\nIncredible devices...\nThis could supply energy on the scale of a city... no, a whole nation.\nWhat on earth is all this for...?",
-        "pt": "[Alp]\nDispositivos incríveis...\nUma cidade... não, seria capaz de fornecer energia numa escala de país.\nAfinal, para quê ir tão longe assim...?",
+        "pt": "[Alp]\nEsse maquinário é incrível...\nÉ capaz até de fornecer energia para uma cidade... não, para um país inteiro.\nMas, para quê gerar tanto poder assim...?",
         "es": "[Alf]\nUnos dispositivos increíbles…\nPodría suministrar energía a una escala de ciudad… no, de país.\n¿Para qué demonios llegar hasta esto…?"
     },
     "dzbhBw": {
         "ko": "[라시스]\n드디어 도착이군.\n난 기다릴 사람이 있어서 여기서 헤어지는 게 좋을 것 같아.",
-        "en": "[Lasis]\nWe’ve finally arrived.\nI think it’d be best if we part ways here, since I have someone to wait for.",
-        "pt": "[Larcis]\nFinalmente chegamos.\nEu tenho alguém para esperar, então acho melhor nos separarmos aqui.",
+        "en": "[Larcis]\nWe’ve finally arrived.\nI think it’d be best if we part ways here, since I have someone to wait for.",
+        "pt": "[Larcis]\nFinalmente chegamos.\nEu estou esperando por uma pessoa, então acho melhor nos separarmos aqui.",
         "es": "[Lasis]\nPor fin llegamos.\nTengo a alguien a quien esperar, así que creo que será mejor separarnos aquí."
     },
     "eDbhBw": {
         "ko": "[라시스]\n헤어진다고는 해도 이 지역엔 꽤 오랫동안 머물 것 같으니 무슨 일 있으면 연락하라구.",
-        "en": "[Lasis]\nEven if we split up, I’ll probably be staying in this area for quite a while, so contact me if anything comes up.",
-        "pt": "[Larcis]\nMesmo nos separando, acho que vou ficar nesta área por bastante tempo, então, se acontecer alguma coisa, entre em contato.",
+        "en": "[Larcis]\nEven if we split up, I’ll probably be staying in this area for quite a while, so contact me if anything comes up.",
+        "pt": "[Larcis]\nMesmo nos separando, acho que vou ficar nesta área por bastante tempo, então, se acontecer alguma coisa, entre em contato comigo.",
         "es": "[Lasis]\nAunque digamos que nos separamos, creo que me quedaré en esta zona bastante tiempo, así que si pasa algo, contáctame."
     },
     "eTbhBw": {
         "ko": "[마크]\n네, 라시스씨 저흰 먼저 가볼게요.\n고마워요.",
-        "en": "[Mark]\nYes, Ms. Lasis, we’ll be going on ahead.\nThank you.",
+        "en": "[Mark]\nYes, Mr. Larcis, we’ll be going on ahead.\nThank you.",
         "pt": "[Mark]\nSim, Sr. Larcis, nós vamos indo na frente.\nObrigado.",
         "es": "[Mark]\nSí, señorita Lasis, nosotros iremos primero.\nGracias."
     },
     "ejbhBw": {
         "ko": "듀 : 아앗 또 이상한 방이잖아?! 밖으로 나가는게 아니었던 건가?! 앗!!!! 저쪽 창 좀 봐 굉장한 기계들이 잔뜩!!!!",
         "en": "Deu : Ahh, it’s another weird room?! So this wasn’t the way out?! Ah!!!! Look at that window over there—there are tons of amazing machines!!!!",
-        "pt": "Du Lian : Aaah, é mais uma sala estranha?! Não era para sair lá fora?! Ah!!!! Olhe aquela janela ali, tem um monte de máquinas incríveis!!!!",
+        "pt": "Du Lian: Aaah, é mais uma sala?! Olha ali, tem um montão de máquinas!!!!",
         "es": "Deu : ¡¡Ah, otra habitación rara?! ¿¡No era para salir afuera?! ¡¡Ah!! ¡Mira esa ventana de allí, hay un montón de máquinas increíbles!!!!"
     },
     "ezbhBw": {
         "ko": "[마기]\n또 봐요~",
-        "en": "[Magi]\nSee you again~",
+        "en": "[Maggi]\nSee you again~",
         "pt": "[Maggi]\nAté mais~",
-        "es": "[Magi]\n¡Hasta luego~"
+        "es": "[Maggi]\n¡Hasta luego~"
     },
     "fDbhBw": {
         "ko": "[마크]\n그럼 저 안쪽으로 들어가는 문은 잠겨 있으니까 일단 밖으로 나가죠.",
         "en": "[Mark]\nThen the door leading further in is locked, so let’s head outside for now.",
-        "pt": "[Mark]\nEntão, a porta que leva para lá dentro está trancada, então vamos sair primeiro.",
+        "pt": "[Mark]\nCerto, a porta que leva para lá dentro está trancada, então vamos sair primeiro.",
         "es": "[Mark]\nEntonces, como la puerta que lleva hacia el interior está cerrada, salgamos primero afuera."
     },
     "fTbhBw": {
         "ko": "[라시스]\n그나저나 장로님들님은 왜 이렇게 늦으시지?",
-        "en": "[Lasis]\nBy the way, why are the elders so late?",
-        "pt": "[Larcis]\nMas, afinal, por que os anciãos estão demorando tanto?",
+        "en": "[Larcis]\nBy the way, why are the elders so late?",
+        "pt": "[Larcis]\nMas, afinal, por que as veteranas estão demorando tanto?",
         "es": "[Lasis]\nPor cierto, ¿por qué los ancianos están tardando tanto?"
     },
     "fjbhBw": {
@@ -380,7 +380,7 @@
     "fzbhBw": {
         "ko": "- 가지고 계신 아이템이 너무 많거나 한계 소지 개수를 초과할 위험이 있어 대화를 진행할 수 없습니다.\n인벤토리를 정리하고 다시 시도해 주시기 바랍니다. -",
         "en": "- You cannot continue the conversation because you have too many items or are at risk of exceeding the maximum carry limit.\nPlease organize your inventory and try again. -",
-        "pt": "- Não é possível prosseguir com a conversa porque você tem itens demais ou há risco de exceder o limite máximo de itens.\nPor favor, organize o inventário e tente novamente. -",
+        "pt": "- Não é possível prosseguir com a conversa porque você tem itens demais e há risco de exceder o limite máximo de itens.\nPor favor, organize o inventário e tente novamente. -",
         "es": "- No se puede continuar la conversación porque tienes demasiados objetos o existe el riesgo de superar el límite máximo de cantidad que puedes llevar.\nPor favor, organiza tu inventario e inténtalo de nuevo. -"
     },
     "gDbhBw": {
@@ -392,26 +392,26 @@
     "gTbhBw": {
         "ko": "[마크]\n미안~ 듀가 또 사라졌어서.",
         "en": "[Mark]\nSorry~ Deu disappeared again.",
-        "pt": "[Mark]\nDesculpa~ O Deu sumiu de novo.",
+        "pt": "[Mark]\nDesculpa~ O Du sumiu de novo.",
         "es": "[Mark]\nPerdón~ Es que Deu volvió a desaparecer."
     },
     "gjbhBw": {
         "ko": "[듀]\n크하하하하하하핫!!!\n너 옷이 왜그래!!",
         "en": "[Deu]\nKwahahahahahaha!!!\nWhat’s with your clothes!!",
-        "pt": "[Du Lian]\nKahahahahahahaha!!!\nO que houve com a sua roupa!!",
-        "es": "[Deu]\n¡¡¡Kjahahahahahahat!!!\n¡¡¿Qué le pasa a tu ropa?!!"
+        "pt": "[Du Lian]\nHAHAHAH!!!\nO que houve com a sua roupa??",
+        "es": "[Du Lian]\n¡¡¡Kjahahahahahahat!!!\n¡¡¿Qué le pasa a tu ropa?!!"
     },
     "gzbhBw": {
         "ko": "[타마린]\n이 곳에서 돌아다니려면 등록이 필요하다고 하길래 등록했더니 이런 옷으로 갈아 입혀진 것 뿐이라구요!",
         "en": "[Tamarin]\nThey said I needed to register to walk around here, so I registered, and all they did was make me change into these clothes!",
-        "pt": "[Tamarin]\nDisseram que, para andar por aqui, era preciso se registrar, então eu me registrei e só me fizeram trocar para esta roupa!",
+        "pt": "[Tamarin]\nDisseram que, para andar por aqui, era preciso se cadastrar, então eu me registrei e só me fizeram trocar para esta roupa!",
         "es": "[Tamarin]\n¡Dicen que para andar por aquí hace falta registrarse, y cuando me registré solo me cambiaron a esta ropa!"
     },
     "hDbhBw": {
         "ko": "[듀]\n크하하하하하하하하하하하하하하학\n악!!!\n너무 웃었더니 배가!!!!",
-        "en": "[Deu]\nKwahahahahahahahahahahahahahaha\nAck!!!\nI laughed so hard my stomach!!!!",
-        "pt": "[Du Lian]\nKahahahahahahahahahahahahahahahahah\nAh!!!\nEu ri tanto que minha barriga!!!!",
-        "es": "[Deu]\nKjahahahahahahahahahahahahahahahahak\n¡¡Ah!!!\n¡¡¡Me reí tanto que me duele la barriga!!!!"
+        "en": "[Deu]\nKwahahahahahahahahahahahahaha\nAck!!!\nI laughed so hard my stomach hurts!!!!",
+        "pt": "[Du Lian]\nHAHAHAHAHAHAH!!\nAi!!!\nMinha barriga tá doendo de tanto rir!!!!",
+        "es": "[Du Lian]\nKjahahahahahahahahahahahahahahahahak\n¡¡Ah!!!\n¡¡¡Me reí tanto que me duele la barriga!!!!"
     },
     "hTbhBw": {
         "ko": "[타마린]\n그만 웃어요!!",
@@ -422,86 +422,86 @@
     "hjbhBw": {
         "ko": "[타마린]\n그만 웃고 빨리 등록이나 해요.\n옆에 있는 알파님께 말하면 등록해 주실 거예요.",
         "en": "[Tamarin]\nStop laughing and hurry up and register.\nIf you talk to Alpha over there, they’ll register you.",
-        "pt": "[Tamarin]\nPare de rir e vá se registrar logo.\nSe falar com o senhorita Alfa ao lado, ele vai registrar você.",
+        "pt": "[Tamarin]\nParou com essa palhaçada e vá se cadastrar logo.\nSe falar com a Alpha ao lado, ela vai registrar você.",
         "es": "[Tamarin]\nDeja de reírte y regístrate de una vez.\nSi le hablas a la señora Alpha que está al lado, te registrará."
     },
     "hzbhBw": {
         "ko": "[타마린]\n왜 다들 그대로인 거예요…",
         "en": "[Tamarin]\nWhy is everyone still the same…",
-        "pt": "[Tamarin]\nPor que todo mundo está do mesmo jeito…",
+        "pt": "[Tamarin]\nPor que vocês estão me olhando com essa cara…?",
         "es": "[Tamarin]\n¿Por qué todos siguen igual…?"
     },
     "iDbhBw": {
         "ko": "[듀]\n캬하하하하하핰!!!!",
         "en": "[Deu]\nKyahahahahaha!!!!",
-        "pt": "[Du Lian]\nKyahahahahahahak!!!!",
-        "es": "[Deu]\n¡¡¡¡Kyahahahahahak!!!!"
+        "pt": "[Du Lian]\nKKKKKKKKKKKKKKKKKKKKKKKKKKK!!!!",
+        "es": "[Du Lian]\n¡¡¡¡Kyahahahahahak!!!!"
     },
     "iTbhBw": {
         "ko": "[타마린]\n그만 웃어요!!!\n너님이야 말로 갈아입혀 졌어야…\n킁…\n킁킁?",
         "en": "[Tamarin]\nStop laughing!!!\nYou’re the one who should’ve been made to change…\nHmph…\nSniff sniff?",
-        "pt": "[Tamarin]\nPare de rir!!!\nVocê é que devia ter trocado de roupa…\nHmph…\nSnif snif?",
+        "pt": "[Tamarin]\nPare de rir!!!\nEu não deveria ter trocado de roupa…\nHmpf…\n*cheira* *cheira*",
         "es": "[Tamarin]\n¡¡¡Deja de reírte!!!\nTú eres el que debería haberse cambiado…\nHmph…\n¿Snif…\n¿Snif snif?"
     },
     "ijbhBw": {
         "ko": "[타마린]\n크악!!!!\n냄새!!!!!!!!\n이게 무슨 냄새예요!!!!",
         "en": "[Tamarin]\nKraaagh!!!!\nThe smell!!!!!!!!\nWhat is this smell!!!!",
-        "pt": "[Tamarin]\nKraah!!!!\nO cheiro!!!!!!!!\nQue cheiro é esse!!!!",
+        "pt": "[Tamarin]\nUrgh!!!!\nECA!!!!!!!!\nQue cheiro é esse???",
         "es": "[Tamarin]\n¡¡¡Kraak!!!!\n¡¡¡El olor!!!!!!!!\n¡¡¡¡¿Qué es este olor?!!!!"
     },
     "izbhBw": {
         "ko": "[마크]\n그러고보니 너 밝은데서 보니까 왜 이렇게 더러워.\n윽… 냄새도 지독해!!!",
         "en": "[Mark]\nCome to think of it, now that I see you in the light, why are you so filthy?\nUgh… and the smell is awful!!!",
-        "pt": "[Mark]\nAgora que eu reparei, vendo você na claridade, por que você está tão sujo.\nArgh… o cheiro também é terrível!!!",
+        "pt": "[Mark]\nAgora que estamos no claro, reparei que você está sujo, Du.\nArgh… o cheiro também é podre!!!",
         "es": "[Mark]\nAhora que te veo con luz, ¿por qué estás tan sucio?\nUgh… ¡¡¡y el olor es insoportable!!!"
     },
     "jDbhBw": {
         "ko": "[마기]\n듀.\n썩은 냄새…",
-        "en": "[Magi]\nDeu.\nA rotten smell…",
-        "pt": "[Maggi]\nDeu.\nCheiro de podre…",
-        "es": "[Magi]\nDeu.\nOlor a podrido…"
+        "en": "[Maggi]\nDeu.\nA rotten smell…",
+        "pt": "[Maggi]\nDu.\nVocê tá fedendo demais…",
+        "es": "[Maggi]\nDeu.\nOlor a podrido…"
     },
     "jTbhBw": {
         "ko": "[듀]\n응?\n아까 물에 빠졌던 것 때문인가?",
         "en": "[Deu]\nHuh?\nIs it because I fell into the water earlier?",
-        "pt": "[Du Lian]\nHã?\nSerá por causa de eu ter caído na água antes?",
-        "es": "[Deu]\n¿Eh?\n¿Será por lo de haberme caído al agua antes?"
+        "pt": "[Du Lian]\nUé?\nSerá por ter caído na água do esgoto?",
+        "es": "[Du Lian]\n¿Eh?\n¿Será por lo de haberme caído al agua antes?"
     },
     "jjbhBw": {
         "ko": "[듀]\n그래!!\n들어봐 내가 아까 물에 빠져서 정말 위험했는데 말야!\n여기 내 생명의 은인인…",
         "en": "[Deu]\nYeah!!\nListen, I fell into the water earlier and it was really dangerous, you know!\nHere, my lifesaver is…",
-        "pt": "[Du Lian]\nIsso!!\nEscuta, eu caí na água antes e foi realmente perigoso, sabe!\nAqui está o meu salvador…",
-        "es": "[Deu]\n¡¡Sí!!\n¡Escucha, es que antes me caí al agua y estuve en un peligro de verdad!\nAquí está mi salvador…"
+        "pt": "[Du Lian]\nIsso!!\nEscuta, eu quase morri naquele esgoto, sabe!\nE essa pessoa do meu lado me salvou…",
+        "es": "[Du Lian]\n¡¡Sí!!\n¡Escucha, es que antes me caí al agua y estuve en un peligro de verdad!\nAquí está mi salvador…"
     },
     "jzbhBw": {
         "ko": "[마크]\n냄새나 가까이 오지마 멍청아!!!",
         "en": "[Mark]\nYou stink, don’t come near me, idiot!!!",
-        "pt": "[Mark]\nVocê fede, não chegue perto, seu idiota!!!",
+        "pt": "[Mark]\nVocê fede, não chegue perto da gente, seu imundo!!!",
         "es": "[Mark]\nApestas, no te acerques, ¡idiota!!!"
     },
     "kDbhBw": {
         "ko": "[듀]\n에이 무슨 냄새가 그렇게까지 난다고 그래~\n킁…",
         "en": "[Deu]\nOh, come on. It can’t smell that bad~\nSniff…",
-        "pt": "[Du Lian]\nAh, qual é, que cheiro tão forte assim~\nSnif…",
-        "es": "[Deu]\nEh, ¿qué va? ¿De verdad dices que huele tanto así?\nSnif…"
+        "pt": "[Du Lian]\nAh, qual é, o cheiro nem é tão forte assim~\n*cheira*…",
+        "es": "[Du Lian]\nEh, ¿qué va? ¿De verdad dices que huele tanto así?\nSnif…"
     },
     "kTbhBw": {
         "ko": "[듀]\n우에에에엑\n냄새!!!!\n장난아냐!!!!",
         "en": "[Deu]\nUwaaaagh!\nThe smell!!!!\nThis is no joke!!!!",
-        "pt": "[Du Lian]\nUeeeeeec\nCheiro!!!!\nNão é brincadeira!!!!",
-        "es": "[Deu]\nUeeeeegh\n¡¡¡El olor!!!!\n¡¡¡No es broma!!!!"
+        "pt": "[Du Lian]\nBLEEGH\nQUE CHEIRO PODRE!!!!\nNão é brincadeira!!!!",
+        "es": "[Du Lian]\nUeeeeegh\n¡¡¡El olor!!!!\n¡¡¡No es broma!!!!"
     },
     "kjbhBw": {
         "ko": "[듀]\n물!!!\n깨끗한 물!!!!!",
         "en": "[Deu]\nWater!!!\nClean water!!!!!",
-        "pt": "[Du Lian]\nÁgua!!!\nÁgua limpa!!!!!",
-        "es": "[Deu]\n¡¡¡Agua!!!\n¡¡¡Agua limpia!!!!!"
+        "pt": "[Du Lian]\nBanho!!!\nPreciso de um banho com água limpa!!!!!",
+        "es": "[Du Lian]\n¡¡¡Agua!!!\n¡¡¡Agua limpia!!!!!"
     },
     "kzbhBw": {
         "ko": "[듀]\n앗 저기 때마침 딱 좋은 게 있잖아?!",
         "en": "[Deu]\nOh, look! There’s something perfect right there?!",
         "pt": "[Du Lian]\nAh, olha só, bem na hora tem uma coisa perfeita ali?!",
-        "es": "[Deu]\n¡Ah, mira, justo hay algo perfecto ahí!"
+        "es": "[Du Lian]\n¡Ah, mira, justo hay algo perfecto ahí!"
     },
     "lDbhBw": {
         "ko": "[마크]\n어디 가는 거야!!!!",
@@ -511,38 +511,38 @@
     },
     "lTbhBw": {
         "ko": "[마기]\n듀.\n썩은 냄새가 나…",
-        "en": "[Magi]\nDeu.\nIt smells rotten…",
-        "pt": "[Maggi]\nDeu.\nTem um cheiro de podre…",
-        "es": "[Magi]\nDeu.\nHuele a podrido…"
+        "en": "[Maggi]\nDeu.\nIt smells rotten…",
+        "pt": "[Maggi]\nDu.\nVocê tá fedendo demais…",
+        "es": "[Maggi]\nDeu.\nHuele a podrido…"
     },
     "ljbhBw": {
         "ko": "[타마린]\n안녕하세요. {0}님.\n알파님으로부터 임시 임무를 받아서 모험가분들께 의뢰중입니다.",
-        "en": "[Tamarin]\nHello, {0}.\nI received a temporary mission from Alpha and am requesting help from adventurers.",
-        "pt": "[Tamarin]\nOlá, {0}.\nRecebi uma missão temporária da Srta. Alfa e estou fazendo um pedido aos aventureiros.",
-        "es": "[Tamarin]\nHola, {0}.\nHe recibido una misión temporal del Sr. Alpha y estoy haciendo un encargo a los aventureros."
+        "en": "[Tamarin]\nHello, {0}.\nI received a temporary mission from Alpha and I am requesting help from adventurers.",
+        "pt": "[Tamarin]\nOlá, {0}.\nRecebi uma missão temporária da Gerente Alpha e preciso da ajuda de aventureiros.",
+        "es": "[Tamarin]\nHola, {0}.\nHe recibido una misión temporal del Sr. Alpha y estoy haciendo un encargo a los trotamundoss."
     },
     "lzbhBw": {
         "ko": "[타마린]\n흠… {0}님은 이미 의뢰를 수행중이시네요.",
         "en": "[Tamarin]\nHmm… {0}, you are already carrying out the request.",
-        "pt": "[Tamarin]\nHmm… {0}, você já está realizando o pedido.",
+        "pt": "[Tamarin]\nHmm… {0}, você já está fazendo essa missão.",
         "es": "[Tamarin]\nMmm… {0}, ya estás realizando el encargo."
     },
     "mDbhBw": {
         "ko": "[타마린]\n의뢰 완료를 확인 하였습니다.\n감사합니다.",
         "en": "[Tamarin]\nI have confirmed the request is complete.\nThank you.",
-        "pt": "[Tamarin]\nConfirmei a conclusão do pedido.\nObrigado.",
+        "pt": "[Tamarin]\nConfirmei a conclusão da missão.\nObrigado.",
         "es": "[Tamarin]\nHe confirmado la finalización del encargo.\nGracias."
     },
     "mTbhBw": {
         "ko": "[타마린]\n오늘의 작업은 이미 완료 되었습니다.\n감사합니다.",
         "en": "[Tamarin]\nToday’s work has already been completed.\nThank you.",
-        "pt": "[Tamarin]\nO trabalho de hoje já foi concluído.\nObrigado.",
+        "pt": "[Tamarin]\nA missão de hoje já foi concluída.\nObrigado.",
         "es": "[Tamarin]\nEl trabajo de hoy ya se ha completado.\nGracias."
     },
     "mjbhBw": {
         "ko": "[타마린]\n최근 습격을 받은 듯한 가디언의 잔해가 저택의 미관을 해친다는 제보가 있어서 가디언 부품을 수집을 의뢰중 입니다.\n저택 환경 개선을 위해 가디언의 부품을 20개 회수 부탁드립니다.",
-        "en": "[Tamarin]\nI’ve received a report that Guardian's Remnants, which seems to have been attacked recently, is ruining the mansion’s appearance, so I am requesting the collection of Guardian parts.\nFor improving the mansion’s environment, please recover 20 Guardian parts.",
-        "pt": "[Tamarin]\nRecebemos um relato de que os Remanescentes do Guardião, que parecem ter sido atacados recentemente, estão prejudicando a aparência da mansão, então estamos solicitando a coleta de peças de Guardião.\nPara melhorar o ambiente da mansão, por favor recupere 20 peças do Guardião.",
+        "en": "[Tamarin]\nI’ve received a report that Guardian Remnants, which seems to have been attacked recently, are ruining the mansion’s appearance, so I am requesting the collection of Guardian parts.\nFor improving the mansion’s environment, please recover 20 Guardian parts.",
+        "pt": "[Tamarin]\nRecebemos um relato de que há Partes de Guardião espalhadas na mansão. Então, estamos solicitando a coleta delas.\nPor favor, limpe 20 Partes de Guardião.",
         "es": "[Tamarin]\nHemos recibido un informe de que Restos del Guardián, que parece haber sido atacado recientemente, está estropeando la estética de la mansión, así que estamos solicitando la recolección de piezas de Guardián.\nPara mejorar el entorno de la mansión, por favor recupera 20 piezas del Guardián."
     },
     "mzbhBw": {
@@ -566,14 +566,14 @@
     "njbhBw": {
         "ko": "[타마린]\n안전하고 편안한 방문 되시길 바랍니다.",
         "en": "[Tamarin]\nI hope you have a safe and comfortable visit.",
-        "pt": "[Tamarin]\nDesejo que sua visita seja segura e confortável.",
+        "pt": "[Tamarin]\nEspero que sua visita seja segura e confortável.",
         "es": "[Tamarin]\nTe deseo una visita segura y agradable."
     },
     "nzbhBw": {
         "ko": "[타마린]\n바르문트의 저택이라면 용병반란 당시에 불타버렸다고 들었는데… 예전에 본 책에 적혀있는 내용이랑 다른 부분이 많은 것 같아요.",
-        "en": "[Tamarin]\nIf it’s Varmundt's mansion, I heard it burned down during the mercenary rebellion… It seems there are many parts that differ from what was written in a book I read before.",
-        "pt": "[Tamarin]\nSe for a mansão de Varmundt, ouvi dizer que ela queimou durante a rebelião dos mercenários… Parece que há muitas partes diferentes do que está escrito no livro que vi antes.",
-        "es": "[Tamarin]\nSi es la mansión de Varmundt, oí que se quemó durante la rebelión de los mercenarios… Parece que hay muchas partes distintas de lo que estaba escrito en un libro que vi antes."
+        "en": "[Tamarin]\nIf it’s Varmunt's mansion, I heard it burned down during the mercenary rebellion… It seems there are many parts that differ from what was written in a book I read before.",
+        "pt": "[Tamarin]\nOuvi dizer que a Mansão de Varmunt queimou durante a Rebelião Mercenária… Parece haver muitas diferenças em relação ao que estava escrito no livro que li antes.",
+        "es": "[Tamarin]\nSi es la mansión de Varmunt, oí que se quemó durante la rebelión de los mercenarios… Parece que hay muchas partes distintas de lo que estaba escrito en un libro que vi antes."
     },
     "oDbhBw": {
         "ko": "분수대",
@@ -584,56 +584,56 @@
     "oTbhBw": {
         "ko": "[듀]\n어푸! 어푸!\n햐… 이제 좀 살 것 같다.",
         "en": "[Deu]\nPwah! Pwah!\nHah… I think I can live again now.",
-        "pt": "[Du Lian]\nGlub! Glub!\nHã… agora acho que vou sobreviver.",
-        "es": "[Deu]\n¡Puf! ¡Puf!\nHya… Ahora sí que parece que voy a vivir un poco."
+        "pt": "[Du Lian]\n*Chuááá*\nAhhh… que água boa para se banhar.",
+        "es": "[Du Lian]\n¡Puf! ¡Puf!\nHya… Ahora sí que parece que voy a vivir un poco."
     },
     "ojbhBw": {
         "ko": "[마크]\n야!!!\n분수대에서 뭐하는 짓이야!!!!\n빨리 나와!!!",
         "en": "[Mark]\nHey!!!\nWhat are you doing in Fountain!!!!\nGet out, now!!!",
-        "pt": "[Mark]\nEi!!!\nO que você está fazendo na Fonte!!!!\nSaia daí rápido!!!",
+        "pt": "[Mark]\nEi!!!\nO que você está fazendo na Fonte??\nSaia já!!!",
         "es": "[Mark]\n¡¡¡Oye!!!\n¡¡¡¡¿Qué estás haciendo en Fuente?!!!!\n¡¡¡Sal rápido!!!"
     },
     "ozbhBw": {
         "ko": "[저택 관리자β]\n경고 합니다.\n해당 시설은 세척을 위해 준비 된 공간이 아니므로 세척 행위를 금지하고 있습니다.",
         "en": "[Mansion Manager Beta]\nWarning.\nThis facility is not a space prepared for washing, therefore washing is prohibited.",
-        "pt": "[Gerente da Mansão Beta]\nAviso.\nComo esta instalação não é um espaço preparado para lavagem, atos de lavagem são proibidos.",
-        "es": "[Mansion Manager Beta]\nAdvertencia.\nComo esta instalación no es un espacio preparado para el lavado, se prohíbe la acción de lavado."
+        "pt": "[Gerente Beta]\nAviso.\nA fonte não é um espaço propício para banho. É proibido entrar na água.",
+        "es": "[Administrador Beta]\nAdvertencia.\nComo esta instalación no es un espacio preparado para el lavado, se prohíbe la acción de lavado."
     },
     "pDbhBw": {
         "ko": "[듀]\n으허허헉!!!\n누구야!!!!",
         "en": "[Deu]\nUghhh!!!\nWho is it!!!!",
-        "pt": "[Du Lian]\nUhuuugh!!!\nQuem é você!!!!",
-        "es": "[Deu]\n¡¡¡Uuuhhh!!!\n¡¡¡¡¿Quién eres?!!!!"
+        "pt": "[Du Lian]\nHã...??\nQuem é você?!",
+        "es": "[Du Lian]\n¡¡¡Uuuhhh!!!\n¡¡¡¡¿Quién eres?!!!!"
     },
     "pTbhBw": {
         "ko": "[저택 관리자β]\n저는 [대현자 바르문트의 저택]의 저택 관리자β입니다.\n저택의 내의 시설은 모두가 사용하는 공용 시설입니다.\n시설 사용시 안내에 따라 올바르게 사용하여 주시기 바랍니다.",
-        "en": "[Mansion Manager Beta]\nI am Mansion Manager Beta of [Great Sage Varmundt's Mansion].\nAll facilities inside the mansion are shared facilities used by everyone.\nWhen using the facilities, please follow the guidance and use them properly.",
-        "pt": "[Gerente da Mansão Beta]\nEu sou o administrador Beta da [mansão do Varmundt, o Grande Sábio].\nAs instalações internas da mansão são instalações compartilhadas, usadas por todos.\nAo utilizar as instalações, por favor, use-as corretamente conforme as orientações.",
-        "es": "[Mansion Manager Beta]\nSoy el administrador Beta de la [mansión del Gran Sabio Varmundt].\nTodas las instalaciones interiores de la mansión son de uso común.\nAl utilizar las instalaciones, por favor úselas correctamente siguiendo las indicaciones."
+        "en": "[Mansion Manager Beta]\nI am Mansion Manager Beta of [Great Sage Varmunt's Mansion].\nAll facilities inside the mansion are shared facilities used by everyone.\nWhen using the facilities, please follow the guidance and use them properly.",
+        "pt": "[Gerente Beta]\nEu sou a administradora Beta da mansão do Varmunt, o Grande Sábio.\nAs instalações internas da mansão são compartilhadas, usadas por todos.\nPor favor, use nossos espaços corretamente conforme as orientações.",
+        "es": "[Administrador Beta]\nSoy el administrador Beta de la [mansión del Gran Sabio Varmunt].\nTodas las instalaciones interiores de la mansión son de uso común.\nAl utilizar las instalaciones, por favor úselas correctamente siguiendo las indicaciones."
     },
     "pjbhBw": {
         "ko": "[저택 관리자β]\n비 정상적인 사용시 경고가 누적되며 경고가 누적되면 저택에서 퇴장 당할 수 있으니 주의 부탁드립니다.",
         "en": "[Mansion Manager Beta]\nIf you use them improperly, warnings will accumulate, and if warnings accumulate, you may be expelled from the mansion, so please be careful.",
-        "pt": "[Gerente da Mansão Beta]\nEm caso de uso anormal, os avisos serão acumulados, e, se os avisos se acumularem, você poderá ser expulso da mansão, então pedimos atenção.",
-        "es": "[Mansion Manager Beta]\nEn caso de uso anormal, se acumularán advertencias, y si se acumulan, podrían ser expulsados de la mansión, así que les pedimos que tengan cuidado."
+        "pt": "[Gerente Beta]\nEm caso de uso inadequado, um aviso será dado, e, se os avisos se acumularem, você poderá ser expulso da mansão, então pedimos atenção.",
+        "es": "[Administrador Beta]\nEn caso de uso anormal, se acumularán advertencias, y si se acumulan, podrían ser expulsados de la mansión, así que les pedimos que tengan cuidado."
     },
     "pzbhBw": {
         "ko": "[저택 관리자β]\n또, 신체 세척을 위한 시설은 저택 지하에 마련되어 있으니 저택을 방문한 방문자님들은 저택 지하의 대욕장 메디타티오를 방문하여 주시기 바랍니다.",
-        "en": "[Mansion Manager Beta]\nAlso, facilities for washing the body are prepared in the mansion basement, so visitors to the mansion, please visit Great Bath Meditatio in the mansion basement.",
-        "pt": "[Gerente da Mansão Beta]\nAlém disso, as instalações para a limpeza do corpo ficam no subsolo da mansão, portanto, os visitantes que vierem à mansão, por favor, visitem o Grande Banho Meditatio no subsolo da mansão.",
-        "es": "[Mansion Manager Beta]\nAdemás, las instalaciones para el aseo corporal están preparadas en el sótano de la mansión, así que los visitantes que hayan venido a la mansión, por favor visiten Gran Baño Meditatio en el sótano de la mansión."
+        "en": "[Mansion Manager Beta]\nAlso, facilities for washing the body are prepared in the mansion basement, so visitors to the mansion, please visit Meditatio Bathhouse in the mansion basement.",
+        "pt": "[Gerente Beta]\nAlém disso, temos uma área específica para o banho no subsolo, portanto, os visitantes que vierem à mansão, por favor, visitem a Sauna Meditatio.",
+        "es": "[Administrador Beta]\nAdemás, las instalaciones para el aseo corporal están preparadas en el sótano de la mansión, así que los visitantes que hayan venido a la mansión, por favor visiten la Sauna Meditatio en el sótano de la mansión."
     },
     "qDbhBw": {
         "ko": "[저택 관리자β]\n그럼 편안한 방문 되시길 바랍니다.\n감사합니다.",
         "en": "[Mansion Manager Beta]\nThen, we hope you have a comfortable visit.\nThank you.",
-        "pt": "[Gerente da Mansão Beta]\nEntão, desejamos que tenha uma visita confortável.\nObrigado.",
-        "es": "[Mansion Manager Beta]\nEntonces, que tengan una visita agradable.\nGracias."
+        "pt": "[Gerente Beta]\nDito isso, desejamos que tenha uma visita confortável.\nObrigada.",
+        "es": "[Administrador Beta]\nEntonces, que tengan una visita agradable.\nGracias."
     },
     "qTbhBw": {
         "ko": "[듀]\n분수대에서 좀 씻은 정도로 퇴장이라니 너무한거 아냐?",
         "en": "[Deu]\nGetting kicked out just for washing a bit at the Fountain is too much, isn't it?",
         "pt": "[Du Lian]\nSer expulso só por ter me lavado um pouco na Fonte... não é demais?",
-        "es": "[Deu]\n¿Que te echen solo por haberte lavado un poco en Fuente? ¿No es demasiado?"
+        "es": "[Du Lian]\n¿Que te echen solo por haberte lavado un poco en Fuente? ¿No es demasiado?"
     },
     "qjbhBw": {
         "ko": "[마크]\n아니 충분히 정당한 조치라고 생각한다만…",
@@ -643,9 +643,9 @@
     },
     "qzbhBw": {
         "ko": "[마기]\n마크…\n마크…",
-        "en": "[Magi]\nMark...\nMark...",
+        "en": "[Maggi]\nMark...\nMark...",
         "pt": "[Maggi]\nMark…\nMark…",
-        "es": "[Magi]\nMark…\nMark…"
+        "es": "[Maggi]\nMark…\nMark…"
     },
     "rDbhBw": {
         "ko": "[마크]\n응?\n무슨 일이에요?",
@@ -655,9 +655,9 @@
     },
     "rTbhBw": {
         "ko": "[마기]\n저 쪽에 있는 가디언들 좀 봐요.\n전부… 엉망진창으로 부서져 있어요.",
-        "en": "[Magi]\nLook at the guardians over there.\nAll of them... are smashed to pieces.",
+        "en": "[Maggi]\nLook at the guardians over there.\nAll of them... are smashed to pieces.",
         "pt": "[Maggi]\nOlhe aqueles guardiões ali.\nTodos… estão destruídos, em pedaços.",
-        "es": "[Magi]\nMira a esos guardianes de allí.\nTodos… están destrozados, hechos pedazos."
+        "es": "[Maggi]\nMira a esos guardianes de allí.\nTodos… están destrozados, hechos pedazos."
     },
     "rjbhBw": {
         "ko": "[알프]\n여기까지 오는 길에도 꽤 많이 보였지.",
@@ -668,61 +668,61 @@
     "rzbhBw": {
         "ko": "[마크]\n역시 하트헌터가…\n이러고 있을 때가 아니야.\n조사를 서둘러야 겠어요.",
         "en": "[Mark]\nSo the Heart Hunter...\nThis is no time for this.\nWe need to hurry with the investigation.",
-        "pt": "[Mark]\nComo eu suspeitava, o Caça-Corações...\nNão é hora de ficar assim.\nPrecisamos apressar a investigação.",
+        "pt": "[Mark]\nDeve ser obra da Caça-Coração...\nNão é hora de ficar assim.\nPrecisamos apressar a investigação.",
         "es": "[Mark]\nComo era de esperar, los Heart Hunter…\nNo es momento de estar así.\nDebemos apresurar la investigación."
     },
     "sDbhBw": {
         "ko": "[마기]\n그래요!\n이렇게 멋진 곳을 하트헌터들이 망쳐버리게 할 순 없어요!",
-        "en": "[Magi]\nYes!\nWe can't let the Heart Hunters ruin such a wonderful place!",
-        "pt": "[Maggi]\nSim!\nNão podemos deixar os Caça-Corações destruírem um lugar tão maravilhoso assim!",
-        "es": "[Magi]\n¡Sí!\n¡No podemos permitir que los Heart Hunter arruinen un lugar tan maravilloso!"
+        "en": "[Maggi]\nYes!\nWe can't let the Heart Hunters ruin such a wonderful place!",
+        "pt": "[Maggi]\nSim!\nNão podemos deixar a Caça-Coração destruírem um lugar tão lindo assim!",
+        "es": "[Maggi]\n¡Sí!\n¡No podemos permitir que los Heart Hunter arruinen un lugar tan maravilloso!"
     },
     "sTbhBw": {
         "ko": "[마크]\n그럼 일단 어디부터 가보는게 좋으려나…",
         "en": "[Mark]\nThen where should we go first...",
-        "pt": "[Mark]\nEntão, por onde seria melhor começar a ir…",
+        "pt": "[Mark]\nEntão, por onde seria melhor começarmos…?",
         "es": "[Mark]\nEntonces, por ahora, ¿por dónde sería mejor empezar a mirar…?"
     },
     "sjbhBw": {
         "ko": "[올리버]\n역시 도서관이지!!",
         "en": "[Oliver]\nThe library, of course!!",
-        "pt": "[Oliver]\nA biblioteca, é claro!!",
+        "pt": "[Oliver]\nPara a biblioteca, é claro!!",
         "es": "[Oliver]\n¡¡La biblioteca, por supuesto!!"
     },
     "szbhBw": {
         "ko": "[알프]\n오!!\n역시 뭘 좀 아는 군!!! 대현자 바르문트라고!!! 바르문트 이전에도 바르문트 이후에도 그를 능가하는 사람이 없다는 전설의 인물이라고!!!\n그가 쌓은 업적만으로도 도서관을 하나 채울 수 있을걸?",
-        "en": "[Alf]\nOh!!\nYou really know your stuff!!! Great Sage Varmundt!!! Varmundt is a legendary figure, and they say there was no one who could surpass him either before Varmundt or after Varmundt!!!\nJust his achievements alone could fill an entire library, you know?",
-        "pt": "[Alp]\nOh!!\nVocê realmente sabe das coisas!!! O Grande Sábio Varmundt!!! Antes do Varmundt e depois do Varmundt, dizem que não houve ninguém que o superasse, uma figura lendária!!!\nSó com as realizações que ele acumulou, daria para encher uma biblioteca inteira, não acha?",
-        "es": "[Alf]\n¡¡Oh!!\n¡¡¡Sí que sabes!!! ¡¡¡El Gran Sabio Varmundt!!! Varmundt ¡¡¡Una figura legendaria de la que se dice que, ni antes de Varmundt ni después de Varmundt, ha habido nadie que lo supere!!!\n¿Con solo sus logros bastaría para llenar una biblioteca entera, no?"
+        "en": "[Alf]\nOh!!\nYou really know your stuff!!! Great Sage Varmunt!!! Varmunt is a legendary figure, and they say there was no one who could surpass him either before Varmunt or after Varmunt!!!\nJust his achievements alone could fill an entire library, you know?",
+        "pt": "[Alp]\nInteressante.\nO Grande Sábio Varmunt conhece muitas coisas. Dizem que nunca foi superado, uma figura lendária!\nSó com as conquistas dele, daria para encher uma biblioteca inteira, sabiam?",
+        "es": "[Alf]\n¡¡Oh!!\n¡¡¡Sí que sabes!!! ¡¡¡El Gran Sabio Varmunt!!! Varmunt ¡¡¡Una figura legendaria de la que se dice que, ni antes de Varmunt ni después de Varmunt, ha habido nadie que lo supere!!!\n¿Con solo sus logros bastaría para llenar una biblioteca entera, no?"
     },
     "tDbhBw": {
         "ko": "[알프]\n과학기술들도 그가 세운 기초를 토대로 겨우 유지만 하고 있을 뿐 자료가 남아있지 않은 것들은 구현 조차 못하고 있다고 하니까.\n그 사람이 아끼던 장서들이 보관된 도서관 이라니 대체 얼마나 굉장한 책들이 있을지!!! 개인 소유의 도서관 이라고는 하지만 그 어떤 도서관보다 엄청난 규모라고 들었어!!!\n오랜만에 두근거림이 멈추지 않는군!!!",
         "en": "[Alf]\nThey say even the sciences and technologies are barely being maintained based on the foundations he established, and that anything without surviving records can't even be realized.\nA library that stores the collection he treasured—just how incredible must the books be!!! They say it's a privately owned library, but I've heard it's on a scale greater than any other library!!!\nIt's been a long time since I've felt this excited!!!",
-        "pt": "[Alp]\nDizem que até as tecnologias científicas mal conseguem se manter com base nos fundamentos que ele estabeleceu, e que aquilo de que não restaram registros nem sequer conseguem reproduzir.\nUma biblioteca que guarda os livros que ele prezava... que tipo de livros incríveis haverá lá!!! Dizem que, embora seja uma biblioteca particular, tem uma escala maior do que qualquer outra biblioteca!!!\nFazia tempo que meu coração não parava de bater assim!!!",
+        "pt": "[Alp]\nHá rumores que todas as tecnologias atuais usam os conhecimentos dele como base fundamental.\nImagina entrar em uma biblioteca com todos os textos já produzidos por ele?\nUau... fazia tempo que meu coração não acelerava assim!!!",
         "es": "[Alf]\nDicen que incluso las tecnologías científicas apenas se mantienen sobre la base que él estableció, y que las que no dejaron registros ni siquiera pueden reproducirse.\n¡Que sea una biblioteca donde se guardan los libros que él apreciaba...! ¡¡¡¿Qué clase de libros tan increíbles habrá?!!! Aunque sea una biblioteca privada, ¡he oído que es de una escala enorme, mayor que cualquier otra biblioteca!\n¡¡¡Hacía tiempo que no se me detenía el corazón de la emoción!!!"
     },
     "tTbhBw": {
         "ko": "[듀]\n으아…\n나왔다…\n책마니아",
         "en": "[Deu]\nUgh...\nHere it comes...\nA book maniac.",
-        "pt": "[Du Lian]\nUaa…\nLá vem…\nO maníaco por livros.",
-        "es": "[Deu]\nUgh…\nAhí salió…\nEl fanático de los libros."
+        "pt": "[Du Lian]\nIiiiih…\nLá vem…\nO maníaco por livros.",
+        "es": "[Du Lian]\nUgh…\nAhí salió…\nEl fanático de los libros."
     },
     "tjbhBw": {
         "ko": "[마기]\n저도!!!\n얼마나 많은 마법서들이 있을지 너무 궁금해요!",
-        "en": "[Magi]\nMe too!!!\nI'm so curious how many spellbooks there will be!",
-        "pt": "[Maggi]\nEu também!!!\nEstou muito curiosa para saber quantos grimórios de magia haverá!",
-        "es": "[Magi]\n¡¡¡Yo también!!!\n¡Tengo muchísima curiosidad por cuántos grimorios habrá!"
+        "en": "[Maggi]\nMe too!!!\nI'm so curious how many spellbooks there will be!",
+        "pt": "[Maggi]\nEu também gosto!!!\nEstou muito curiosa para saber quantos grimórios de magia haverá!",
+        "es": "[Maggi]\n¡¡¡Yo también!!!\n¡Tengo muchísima curiosidad por cuántos grimorios habrá!"
     },
     "tzbhBw": {
         "ko": "[마크]\n대현자 바르문트는 공격 마법도 치유 마법도 다 굉장했다죠?\n자!! 어서 도서관으로 가요.",
-        "en": "[Mark]\nThey say Great Sage Varmundt was amazing at both offensive magic and healing magic, right?\nAll right!! Let's hurry to the library.",
-        "pt": "[Mark]\nDizem que o Grande Sábio Varmundt era incrível tanto em magia ofensiva quanto em magia de cura, não é?\nVamos!! Rápido, para a biblioteca.",
-        "es": "[Mark]\nDicen que el Gran Sabio Varmundt era increíble tanto con la magia ofensiva como con la magia curativa, ¿verdad?\n¡Vamos! Vayamos rápido a la biblioteca."
+        "en": "[Mark]\nThey say Great Sage Varmunt was amazing at both offensive magic and healing magic, right?\nAll right!! Let's hurry to the library.",
+        "pt": "[Mark]\nDizem que o Grande Sábio Varmunt era incrível tanto em magia ofensiva quanto em magia de cura, não é?\nVamos!! Rápido, para a biblioteca.",
+        "es": "[Mark]\nDicen que el Gran Sabio Varmunt era increíble tanto con la magia ofensiva como con la magia curativa, ¿verdad?\n¡Vamos! Vayamos rápido a la biblioteca."
     },
     "uDbhBw": {
         "ko": "- 듀가 몸을 씻었던 분수대.\n다행히 그 후 깨끗하게 청소 된 듯하다. -",
         "en": "- The Fountain where Deu washed up.\nFortunately, it seems to have been cleaned thoroughly afterward. -",
-        "pt": "- A Fonte onde Deu lavou o corpo.\nFelizmente, parece que depois disso foi limpa direitinho. -",
+        "pt": "- A Fonte onde Du Lian tomou banho.\nFelizmente, ela foi higienizada logo depois disso. -",
         "es": "- La Fuente en la que Deu se lavó el cuerpo.\nPor suerte, parece que después la limpiaron bien. -"
     },
     "uTbhBw": {
@@ -734,67 +734,67 @@
     "ujbhBw": {
         "ko": "저택 관리자β",
         "en": "Mansion Manager Beta",
-        "pt": "Gerente da Mansão Beta",
-        "es": "Mansion Manager Beta"
+        "pt": "Gerente Beta",
+        "es": "Administrador Beta"
     },
     "uzbhBw": {
         "ko": "도서관 관리자α",
         "en": "Library Manager Alpha",
-        "pt": "Gerente da Biblioteca Alpha",
-        "es": "Library Manager Alpha"
+        "pt": "Bibliotecária Alpha",
+        "es": "Bibliotecaria Alpha"
     },
     "vDbhBw": {
         "ko": "[듀]\n여기가 도서관 입구인가?\n입구는 평범… 아니 불!!!\n불이야!!!!",
         "en": "[Deu]\nIs this the library entrance?\nThe entrance is ordinary... no, FIRE!!!\nFire!!!!",
-        "pt": "[Du Lian]\nAqui é a entrada da biblioteca?\nA entrada é normal... não, FOGO!!!\nFogo!!!!",
-        "es": "[Deu]\n¿Aquí es la entrada de la biblioteca?\nLa entrada es normal... ¡¡¡no, fuego!!!\n¡¡¡¡¡Fuego!!!!!"
+        "pt": "[Du Lian]\nAqui é a entrada da biblioteca?\nParece uma porta normal... eita, FOGO!!!\nFOGOOOOOOOOOO!!!!",
+        "es": "[Du Lian]\n¿Aquí es la entrada de la biblioteca?\nLa entrada es normal... ¡¡¡no, fuego!!!\n¡¡¡¡¡Fuego!!!!!"
     },
     "vTbhBw": {
         "ko": "[마기]\n꺄악!!!\n큰일이야!!!\n워...워터볼!!!!!",
-        "en": "[Magi]\nEek!!!\nThis is bad!!!\nW... Water Ball!!!!!",
-        "pt": "[Maggi]\nAaaah!!!\nIsso é grave!!!\nÁ... Água... Water Ball!!!!!",
-        "es": "[Magi]\n¡¡¡Aaaah!!!\n¡¡¡Esto es grave!!!\n¡Ag... ¡¡¡Water Ball!!!!!"
+        "en": "[Maggi]\nEek!!!\nThis is bad!!!\nW... Water Ball!!!!!",
+        "pt": "[Maggi]\nAaaah!!!\nDeixa comigo!!!\nEs... esf... Esfera dÁgua!!!!!",
+        "es": "[Maggi]\n¡¡¡Aaaah!!!\n¡¡¡Esto es grave!!!\n¡Ag... ¡¡¡Bola de Agua!!!!!"
     },
     "vjbhBw": {
         "ko": "[타마린]\n헉헉…\n이게 무슨 일이야.",
         "en": "[Tamarin]\nPant, pant...\nWhat is going on?",
-        "pt": "[Tamarin]\nOfeg... ofeg...\nO que está acontecendo?",
+        "pt": "[Tamarin]\nArf... Arf...\nO que está acontecendo?",
         "es": "[Tamarin]\nJadeo...\n¿Qué está pasando?"
     },
     "vzbhBw": {
         "ko": "찰칵",
         "en": "Click",
-        "pt": "Clique",
+        "pt": "*Click*",
         "es": "Clic"
     },
     "wDbhBw": {
         "ko": "화르륵",
         "en": "Whoosh",
-        "pt": "Fwoosh",
+        "pt": "*Fssss*",
         "es": "Fwoosh"
     },
     "wTbhBw": {
         "ko": "[도서관 관리자α]\n해당 소재는 주인님이 직접 설치하신 설치물로 주인님의 허가 없이 삭제할 수 없습니다.",
         "en": "[Library Manager Alpha]\nThis material is an installation personally set up by the master, and it cannot be removed without the master's permission.",
-        "pt": "[Gerente da Biblioteca Alpha]\nEste material é uma instalação colocada pessoalmente pelo mestre e não pode ser removida sem a permissão dele.",
-        "es": "[Library Manager Alpha]\nEste material es una instalación colocada personalmente por el amo, y no puede eliminarse sin su permiso."
+        "pt": "[Bibliotecária Alpha]\nEsta barreira foi colocada pessoalmente pelo mestre e não pode ser removida sem a permissão dele.",
+        "es": "[Bibliotecaria Alpha]\nEste material es una instalación colocada personalmente por el amo, y no puede eliminarse sin su permiso."
     },
     "wjbhBw": {
         "ko": "[도서관 관리자α]\n따라서 연소 시 치명적인 위험이 될 수 있는 방문객 여러분의 입장은 되도록 삼가하여 주시길 바라며 해당 안내에도 불구하고 입장을 강행하는 경우 부상 또는 사망에 대한 책임을 지지 않습니다.",
-        "en": "[Library Manager α]\nTherefore, we ask that visitors refrain from entering as much as possible, as it may pose a fatal danger in the event of combustion, and despite this notice, if you insist on entering, we do not take responsibility for injury or death.",
-        "pt": "[Gerente da Biblioteca α]\nPortanto, pedimos que os visitantes evitem ao máximo entrar, pois, em caso de combustão, pode haver risco fatal. Ainda assim, caso insistam em entrar apesar deste aviso, não nos responsabilizamos por ferimentos ou morte.",
-        "es": "[Library Manager α]\nPor lo tanto, les rogamos a los visitantes que, en la medida de lo posible, se abstengan de entrar, ya que en caso de combustión podría suponer un peligro mortal, y, pese a este aviso, si insisten en entrar, no nos hacemos responsables de lesiones o muerte."
+        "en": "[Library Manager Alpha]\nTherefore, we ask that visitors refrain from entering as much as possible, as it may pose a fatal danger in the event of combustion, and despite this notice, if you insist on entering, we do not take responsibility for injury or death.",
+        "pt": "[Bibliotecária Alpha]\nPortanto, evitem ultrapassá-la, pois, em caso de queimadura por fogo, pode haver risco fatal. Caso insistam em entrar, não nos responsabilizamos por ferimentos ou morte.",
+        "es": "[Bibliotecaria Alpha]\nPor lo tanto, les rogamos a los visitantes que, en la medida de lo posible, se abstengan de entrar, ya que en caso de combustión podría suponer un peligro mortal, y, pese a este aviso, si insisten en entrar, no nos hacemos responsables de lesiones o muerte."
     },
     "wzbhBw": {
         "ko": "[듀]\n…불이?",
         "en": "[Deu]\n...Fire?",
-        "pt": "[Du Lian]\n...Fogo?",
-        "es": "[Deu]\n... ¿Fuego?"
+        "pt": "[Du Lian]\n...Barreira?",
+        "es": "[Du Lian]\n... ¿Fuego?"
     },
     "xDbhBw": {
         "ko": "[마크]\n아무리 회복 스킬이 있다고 해도 옷이나 머리카락 같은 건 회복이 안되니까…",
         "en": "[Mark]\nNo matter how many healing skills you have, you can't heal things like clothes or hair...",
-        "pt": "[Mark]\nMesmo que existam habilidades de cura, coisas como roupas ou cabelo não se recuperam...",
+        "pt": "[Mark]\nMesmo que eu use minha cura, ela não funciona com roupas ou cabelos chamuscados...",
         "es": "[Mark]\nPor mucho que tengas habilidades de curación, cosas como la ropa o el cabello no se pueden recuperar..."
     },
     "xTbhBw": {
@@ -805,9 +805,9 @@
     },
     "xjbhBw": {
         "ko": "[마기]\n아쉽네요…",
-        "en": "[Magi]\nThat's too bad...",
+        "en": "[Maggi]\nThat's too bad...",
         "pt": "[Maggi]\nQue pena...",
-        "es": "[Magi]\nQué pena..."
+        "es": "[Maggi]\nQué pena..."
     },
     "xzbhBw": {
         "ko": "[알프]\n……",
@@ -817,9 +817,9 @@
     },
     "yDbhBw": {
         "ko": "[도서관 관리자α]\n안전하고 편안한 관람 되시길 바랍니다.",
-        "en": "[Library Manager α]\nWe wish you a safe and comfortable viewing experience.",
-        "pt": "[Gerente da Biblioteca α]\nDesejamos a você uma visita segura e confortável.",
-        "es": "[Library Manager α]\nLes deseamos una visita segura y agradable."
+        "en": "[Library Manager Alpha]\nWe wish you a safe and comfortable viewing experience.",
+        "pt": "[Bibliotecária Alpha]\nDesejamos a você uma visita segura e confortável.",
+        "es": "[Bibliotecaria Alpha]\nLes deseamos una visita segura y agradable."
     },
     "yTbhBw": {
         "ko": "[알프]\n…",
@@ -830,44 +830,44 @@
     "yjbhBw": {
         "ko": "[알프]\n갔군…\n좋아…\n강행 돌파다!",
         "en": "[Alf]\nThey're gone...\nAll right...\nWe'll force our way through!",
-        "pt": "[Alp]\nFoi embora...\nCerto...\nVamos forçar a passagem!",
+        "pt": "[Alp]\nEla foi embora...\nCerto...\nVamos forçar a passagem!",
         "es": "[Alf]\nSe fue...\nBien...\n¡Entramos a la fuerza!"
     },
     "yzbhBw": {
         "ko": "[마크]\n뭐…\n불을 끈 걸로 경고를 받진 않았으니 괜찮겠죠?",
         "en": "[Mark]\nWell...\nWe didn't get a warning for putting out the fire, so it should be fine, right?",
-        "pt": "[Mark]\nBem...\nJá que não recebemos um aviso por ter apagado o fogo, deve estar tudo bem, né?",
+        "pt": "[Mark]\nBem...\nJá que não é proibido apagar o fogo, deve estar tudo bem, né?",
         "es": "[Mark]\nBueno...\nComo no nos han advertido por apagar el fuego, ¿estará bien, no?"
     },
     "zDbhBw": {
         "ko": "[듀]\n다시 부탁해.\n마기!!",
-        "en": "[Deu]\nDo it again.\nMagi!!",
-        "pt": "[Du Lian]\nPeço de novo.\nMagi!!",
-        "es": "[Deu]\nPídemelo otra vez.\n¡¡Magi!!"
+        "en": "[Deu]\nDo it again.\nMaggi!!",
+        "pt": "[Du Lian]\nVamos tentar de novo!\nMaggi!!",
+        "es": "[Du Lian]\nPídemelo otra vez.\n¡¡Magi!!"
     },
     "zTbhBw": {
         "ko": "[마기]\n워터볼!!!!",
-        "en": "[Magi]\nWater Ball!!!!",
-        "pt": "[Maggi]\nWaterball!!!!",
-        "es": "[Magi]\n¡¡¡¡Waterball!!!!"
+        "en": "[Maggi]\nWater Ball!!!!",
+        "pt": "[Maggi]\nEsfera dÁgua!!!!",
+        "es": "[Maggi]\n¡¡¡¡Bola de Agua!!!!"
     },
     "zjbhBw": {
         "ko": "문 앞의 불 때문에 더이상 앞으로 갈 수 없다.",
         "en": "I can't go any farther because of the fire in front of the door.",
-        "pt": "Por causa do fogo diante da porta, não posso mais seguir em frente.",
+        "pt": "Não é possível atravessar a Barreira.",
         "es": "No puedo avanzar más por el fuego frente a la puerta."
     },
     "zzbhBw": {
         "ko": "도서관 관리자β",
         "en": "Library Manager Beta",
-        "pt": "Gerente da Biblioteca Beta",
-        "es": "Library Manager Beta"
+        "pt": "Bibliotecária Beta",
+        "es": "Bibliotecaria Beta"
     },
     "0DbhBw": {
         "ko": "[도서관 관리자β]\n도서관 내부에서는 정숙하여 주시기 바랍니다. 또 이용을 위해서는 추가로 도서관 이용 등록이 필요합니다.\n이용 등록을 하지 않으면 열람이 불가하오니 확인 부탁드립니다.",
         "en": "[Library Manager Beta]\nPlease remain quiet inside the library. Also, to use the facilities, you must additionally register for library use.\nIf you do not register, you will not be able to read, so please check.",
-        "pt": "[Gerente da Biblioteca β]\nPor favor, mantenha silêncio dentro da biblioteca. Além disso, para utilizar, precisa de um registro adicional para uso da biblioteca.\nSe não fizer o registro, não será possível consultar os livros, então pedimos que confirme se deseja se registrar.",
-        "es": "[Library Manager Beta]\nLes rogamos que guarden silencio dentro de la biblioteca. Además, para utilizarla, es necesario registrarse adicionalmente para el uso de la biblioteca.\nSi no se registra, no podrá consultar los libros, así que le rogamos que lo confirme."
+        "pt": "[Bibliotecária Beta]\nPor favor, mantenha silêncio dentro da biblioteca. Além disso, para usar este local, é necessário fazer um registro adicional.\nSe não for feito, não será possível consultar os livros, então pedimos que registrem-se.",
+        "es": "[Bibliotecaria Beta]\nLes rogamos que guarden silencio dentro de la biblioteca. Además, para utilizarla, es necesario registrarse adicionalmente para el uso de la biblioteca.\nSi no se registra, no podrá consultar los libros, así que le rogamos que lo confirme."
     },
     "0TbhBw": {
         "ko": "등록한다.",
@@ -878,187 +878,187 @@
     "0jbhBw": {
         "ko": "[도서관 관리자β]\n등록 되었습니다.\n일행분들의 등록을 확인하시겠습니까?",
         "en": "[Library Manager Beta]\nRegistration complete.\nWould you like to check your party members' registrations?",
-        "pt": "[Gerente da Biblioteca Beta]\nRegistrado.\nDeseja verificar o registro do seu grupo?",
-        "es": "[Library Manager Beta]\nSe ha registrado.\n¿Desea comprobar el registro de su grupo?"
+        "pt": "[Bibliotecária Beta]\nRegistrado.\nDeseja confirmar o registro do seu grupo?",
+        "es": "[Bibliotecaria Beta]\nSe ha registrado.\n¿Desea comprobar el registro de su grupo?"
     },
     "0zbhBw": {
         "ko": "[듀]\n아!\n난 됐어.\n다른 녀석들은 이미 책을 찾아 흩어져 버렸는데… 나한텐 매번 얌전히 좀 있으라고 하더니 말야!",
         "en": "[Deu]\nAh!\nI'm fine.\nThe others already split up to look for books... They always tell me to behave myself, too!",
-        "pt": "[Du Lian]\nAh!\nEu passo.\nOs outros já se espalharam procurando livros… e vivem me dizendo pra eu ficar quietinho, e olha só!",
-        "es": "[Deu]\n¡Ah!\nYo paso.\nLos otros ya se dispersaron buscando libros...\n¡Y eso que siempre me dicen que me quede quieto!"
+        "pt": "[Du Lian]\nAh!\nEu passo.\nOs outros já se espalharam procurando livros… eles vivem me dizendo pra eu ficar quietinho, e olha só!",
+        "es": "[Du Lian]\n¡Ah!\nYo paso.\nLos otros ya se dispersaron buscando libros...\n¡Y eso que siempre me dicen que me quede quieto!"
     },
     "1DbhBw": {
         "ko": "[듀]\n넌 도서관 등록이라니 찾고 있는 책이라도 있는 거야?\n난 책은 관심 없으니까… 둘러보고 와.",
         "en": "[Deu]\nLibrary registration... Are you looking for a book or something?\nI'm not interested in books... Go take a look around.",
-        "pt": "[Du Lian]\nVocê vai se registrar na biblioteca… tem algum livro que está procurando?\nEu não tenho interesse em livros… vá dar uma olhada e volte.",
-        "es": "[Deu]\n¿Vas a registrarte en la biblioteca? ¿Es que buscas algún libro?\nA mí los libros no me interesan...\nVe a echar un vistazo y vuelve."
+        "pt": "[Du Lian]\nJá que você vai se registrar na biblioteca… tem algum livro que está procurando?\nEu não tenho interesse em livros… vá dar uma olhada por aí.",
+        "es": "[Du Lian]\n¿Vas a registrarte en la biblioteca? ¿Es que buscas algún libro?\nA mí los libros no me interesan...\nVe a echar un vistazo y vuelve."
     },
     "1TbhBw": {
         "ko": "[듀]\n간 김에 다른 녀석한테 등록해야 한다고 좀 알려주고… 다녀와~~",
         "en": "[Deu]\nWhile you're at it, tell the others they need to register...\nSee you~~",
-        "pt": "[Du Lian]\nAproveita e avisa os outros que precisam se registrar também… vai lá~~",
-        "es": "[Deu]\nYa que vas, dile a los otros que tienen que registrarse...\n¡Vuelve luego~~!"
+        "pt": "[Du Lian]\nAproveita e avise meus outros amigos que eles precisam se registrar também… vai lá~~",
+        "es": "[Du Lian]\nYa que vas, dile a los otros que tienen que registrarse...\n¡Vuelve luego~~!"
     },
     "1jbhBw": {
         "ko": "[도서관 관리자β]\n일행분들의 등록을 확인하시겠습니까?",
         "en": "[Library Manager Beta]\nWould you like to check your party members' registrations?",
-        "pt": "[Gerente da Biblioteca Beta]\nDeseja verificar o registro do seu grupo?",
-        "es": "[Library Manager Beta]\n¿Desea comprobar el registro de su grupo?"
+        "pt": "[Bibliotecária Beta]\nDeseja confirmar o registro do seu grupo?",
+        "es": "[Bibliotecaria Beta]\n¿Desea comprobar el registro de su grupo?"
     },
     "1zbhBw": {
         "ko": "[도서관 관리자β]\n확인 감사합니다.\n{0}님 외 도서관 등록 희망자 4인… 5인… 4인… 6인... 7인… 4인… 3인…삐익------이 확인 되었습니다.\n이용해 주셔서 감사합니다.",
         "en": "[Library Manager Beta]\nThank you for checking.\nIn addition to {0}, 4 people... 5 people... 4 people... 6 people... 7 people... 4 people... 3 people... Beep------ have been confirmed.\nThank you for using the library.",
-        "pt": "[Gerente da Biblioteca Beta]\nObrigado pela confirmação.\nAlém de {0}, 4 pessoas que desejam registrar o uso da biblioteca… 5 pessoas… 4 pessoas… 6 pessoas... 7 pessoas… 4 pessoas… 3 pessoas… biiip------ foram confirmadas.\nObrigado por utilizar.",
-        "es": "[Library Manager Beta]\nGracias por la confirmación.\nAdemás de {0}, solicitantes de registro de biblioteca: 4... 5... 4... 6... 7... 4... 3... piiip------ confirmado.\nGracias por utilizar nuestros servicios."
+        "pt": "[Bibliotecária Beta]\nObrigada pela confirmação.\nAlém de {0}, temos 4 pessoas que desejam se registrar na biblioteca… 5 pessoas… 4 pessoas… 6 pessoas... 7 pessoas… 4 pessoas… 3 pessoas… biiip------ foram confirmadas.\nAgradecida.",
+        "es": "[Bibliotecaria Beta]\nGracias por la confirmación.\nAdemás de {0}, solicitantes de registro de biblioteca: 4... 5... 4... 6... 7... 4... 3... piiip------ confirmado.\nGracias por utilizar nuestros servicios."
     },
     "2DbhBw": {
         "ko": "^8C8C8C궁극의 책벌레(수행중)^000000",
         "en": "^8C8C8CUltimate Bookworm (In Progress)^000000",
-        "pt": "^8C8C8CCaça à Traça-de-Livro (Em andamento)^000000",
-        "es": "^8C8C8CSupremo Ratón de biblioteca(En curso)^000000"
+        "pt": "^8C8C8C[Em curso] Limpeza da Biblioteca^000000",
+        "es": "^8C8C8CLimpieza de la Biblioteca(En curso)^000000"
     },
     "2TbhBw": {
         "ko": "^8C8C8C궁극의 책벌레(대기중)^000000",
         "en": "^8C8C8CUltimate Bookworm (Waiting)^000000",
-        "pt": "^8C8C8CCaça à Traça-de-Livro (Aguardando)^000000",
-        "es": "^8C8C8CSupremo Ratón de biblioteca(En espera)^000000"
+        "pt": "^8C8C8C[Espera] Limpeza da Biblioteca^000000",
+        "es": "^8C8C8CLimpieza de la Biblioteca(En espera)^000000"
     },
     "2jbhBw": {
         "ko": "궁극의 책벌레 사냥[130]",
         "en": "Hunt Ultimate Bookworm[130]",
-        "pt": "Caça à Traça-de-Livro [130]",
-        "es": "Caza del Supremo Ratón de biblioteca[130]"
+        "pt": "[130] Limpeza da Biblioteca",
+        "es": "Limpieza de la Biblioteca[130]"
     },
     "2zbhBw": {
         "ko": "^8C8C8C궁극의 책정리(수행중)^000000",
         "en": "^8C8C8CUltimate Book Sorting (In Progress)^000000",
-        "pt": "^8C8C8COrganização de livros(Em andamento)^000000",
-        "es": "^8C8C8CSuprema organización de libros(En curso)^000000"
+        "pt": "^8C8C8C[Em curso] Organizando Livros^000000",
+        "es": "^8C8C8COrganización de libros(En curso)^000000"
     },
     "3DbhBw": {
         "ko": "^8C8C8C궁극의 책정리(대기중)^000000",
         "en": "^8C8C8CUltimate Book Sorting (Waiting)^000000",
-        "pt": "^8C8C8COrganização de livros(Aguardando)^000000",
-        "es": "^8C8C8CSuprema organización de libros(En espera)^000000"
+        "pt": "^8C8C8C[Espera] Organizando Livros^000000",
+        "es": "^8C8C8COrganización de libros(En espera)^000000"
     },
     "3TbhBw": {
         "ko": "궁극의 책정리[130]",
         "en": "Ultimate Book Sorting[130]",
-        "pt": "Organização definitiva de livros[130]",
-        "es": "Suprema organización de libros[130]"
+        "pt": "[130] Organizando Livros",
+        "es": "Organización de libros[130]"
     },
     "3jbhBw": {
         "ko": "[도서관 관리자β]\n안녕하세요. {0}님.\n도서관 이용자에 한하여 아래의 의뢰를 진행중이니 많은 지원 부탁드립니다.",
         "en": "[Library Manager Beta]\nHello, {0}.\nThe requests below are currently being carried out for library users only, so we ask for your support.",
-        "pt": "[Gerente da Biblioteca Beta]\nOlá, {0}.\nEstamos realizando os pedidos abaixo apenas para usuários da biblioteca, então pedimos muito a sua participação.",
-        "es": "[Library Manager Beta]\nHola, {0}.\nSolo para usuarios de la biblioteca, estamos llevando a cabo los encargos de abajo, así que les rogamos que participen."
+        "pt": "[Bibliotecária Beta]\nOlá, {0}.\nEstamos oferecendo as missões abaixo apenas para usuários da biblioteca, então pedimos muito a sua colaboração.",
+        "es": "[Bibliotecaria Beta]\nHola, {0}.\nSolo para usuarios de la biblioteca, estamos llevando a cabo los encargos de abajo, así que les rogamos que participen."
     },
     "3zbhBw": {
         "ko": "[도서관 관리자β]\n현재 수행 중인 의뢰입니다.",
         "en": "[Library Manager Beta]\nThis is a request currently in progress.",
-        "pt": "[Gerente da Biblioteca Beta]\nEste é o pedido atualmente em andamento.",
-        "es": "[Library Manager Beta]\nEste es un encargo que está en curso actualmente."
+        "pt": "[Bibliotecária Beta]\nEsta missão está em andamento.",
+        "es": "[Bibliotecaria Beta]\nEste es un encargo que está en curso actualmente."
     },
     "4DbhBw": {
         "ko": "[도서관 관리자β]\n의뢰 완료를 확인 하였습니다.\n감사합니다.",
         "en": "[Library Manager Beta]\nI have confirmed the request has been completed.\nThank you.",
-        "pt": "[Gerente da Biblioteca Beta]\nConfirmamos a conclusão do pedido.\nObrigado.",
-        "es": "[Library Manager Beta]\nHe confirmado la finalización del encargo.\nGracias."
+        "pt": "[Bibliotecária Beta]\nConfirmamos a conclusão da missão.\nObrigada.",
+        "es": "[Bibliotecaria Beta]\nHe confirmado la finalización del encargo.\nGracias."
     },
     "4TbhBw": {
         "ko": "[도서관 관리자β]\n오늘의 작업은 이미 완료 되었습니다.\n감사합니다.",
         "en": "[Library Manager Beta]\nToday's task has already been completed.\nThank you.",
-        "pt": "[Gerente da Biblioteca β]\nA tarefa de hoje já foi concluído.\nObrigado.",
-        "es": "[Library Manager Beta]\nEl trabajo de hoy ya se ha completado.\nGracias."
+        "pt": "[Bibliotecária Beta]\nA missão de hoje já foi concluída.\nObrigada.",
+        "es": "[Bibliotecaria Beta]\nEl trabajo de hoy ya se ha completado.\nGracias."
     },
     "4jbhBw": {
         "ko": "[도서관 관리자β]\n최근 마법서를 갉아먹는 책벌레의 수가 폭증하여 도서관 이용에 불편을 주고 있다는 문의가 접수 되었습니다.\n도서관의 환경 개선을 위해 책벌레 20마리의 처치를 부탁드립니다.",
         "en": "[Library Manager Beta]\nWe have received reports that the number of Bookworm that gnaw on spellbooks has recently surged, causing inconvenience in using the library.\nTo improve the library environment, please eliminate 20 Bookworm.",
-        "pt": "[Gerente da Biblioteca Beta]\nRecebemos uma solicitação informando que, recentemente, o número de Traça-de-Livro que roem grimórios aumentou drasticamente, causando incômodo no uso da biblioteca.\nPara melhorar o ambiente da biblioteca, pedimos que elimine 20 Traça-de-Livro.",
-        "es": "[Library Manager Beta]\nHemos recibido consultas indicando que, recientemente, el número de Ratón de biblioteca que roen los grimorios se ha disparado, causando inconvenientes al usar la biblioteca.\nPara mejorar el entorno de la biblioteca, le pedimos que elimine 20 Ratón de biblioteca."
+        "pt": "[Bibliotecária Beta]\nTraças-de-Livro adoram comer as páginas dos grimórios da nossa biblioteca.\nPara melhorar o ambiente, pedimos que elimine 20x Traça-de-Livro.",
+        "es": "[Bibliotecaria Beta]\nHemos recibido consultas indicando que, recientemente, el número de Ratas de Bibliotecas que roen los grimorios se ha disparado, causando inconvenientes al usar la biblioteca.\nPara mejorar el entorno de la biblioteca, le pedimos que elimine 20 Ratas de Biblioteca."
     },
     "4zbhBw": {
         "ko": "[도서관 관리자β]\n잘 부탁드립니다.",
         "en": "[Library Manager Beta]\nI look forward to working with you.",
-        "pt": "[Gerente da Biblioteca Beta]\nConto com você.",
-        "es": "[Library Manager Beta]\nSe lo encargo."
+        "pt": "[Bibliotecária Beta]\nConto com você.",
+        "es": "[Bibliotecaria Beta]\nSe lo encargo."
     },
     "5DbhBw": {
         "ko": "[도서관 관리자β]\n안전하고 편안한 관람 되시길 바랍니다.",
         "en": "[Library Manager Beta]\nI hope you have a safe and pleasant visit.",
-        "pt": "[Gerente da Biblioteca Beta]\nDesejo que tenha uma visita segura e agradável.",
-        "es": "[Library Manager Beta]\nLe deseo una visita segura y agradable."
+        "pt": "[Bibliotecária Beta]\nEspero que tenha uma visita segura e agradável.",
+        "es": "[Bibliotecaria Beta]\nLe deseo una visita segura y agradable."
     },
     "5TbhBw": {
         "ko": "[도서관 관리자β]\n최근 지정된 자리를 이탈하여 배회하는 마법서들 때문에 도서관의 책장 정리 상태가 엉망이라는 문의가 접수 되었습니다.\n도서관의 환경 개선을 위해 배회하는 마법서 20권의 회수를 부탁드립니다.",
         "en": "[Library Manager Beta]\nWe have received reports that the library shelves are in a mess because spellbooks have recently been leaving their assigned places and wandering around.\nTo improve the library environment, please retrieve 20 Roaming Spellbook.",
-        "pt": "[Gerente da Biblioteca Beta]\nRecebemos uma solicitação informando que, recentemente, devido aos grimórios que saem de seus lugares designados e ficam vagando, a organização das estantes da biblioteca está uma bagunça.\nPara melhorar o ambiente da biblioteca, pedimos que recupere 20 Grimório Errante.",
-        "es": "[Library Manager Beta]\nHemos recibido consultas indicando que, recientemente, debido a los grimorios que se han salido de sus lugares asignados y deambulan, el estado de orden de las estanterías de la biblioteca es un desastre.\nPara mejorar el entorno de la biblioteca, le pedimos que recupere 20 Libro de hechizos errante."
+        "pt": "[Bibliotecária Beta]\nAlguns livros começam a andar por aí, deixando as estantes desorganizadas ou bagunçadas.\nPara deixar tudo arrumado, pedimos que organize 20x Grimório Errante.",
+        "es": "[Bibliotecaria Beta]\nHemos recibido consultas indicando que, recientemente, debido a los grimorios que se han salido de sus lugares asignados y deambulan, el estado de orden de las estanterías de la biblioteca es un desastre.\nPara mejorar el entorno de la biblioteca, le pedimos que recupere 20 Grimorio errante."
     },
     "5jbhBw": {
         "ko": "[도서관 관리자β]\n도서관 내부에서는 정숙하여 주시기 바랍니다.",
         "en": "[Library Manager Beta]\nPlease remain quiet inside the library.",
-        "pt": "[Gerente da Biblioteca Beta]\nPor favor, mantenha o silêncio dentro da biblioteca.",
-        "es": "[Library Manager Beta]\nPor favor, guarde silencio dentro de la biblioteca."
+        "pt": "[Bibliotecária Beta]\nPor favor, mantenha o silêncio dentro da biblioteca.",
+        "es": "[Bibliotecaria Beta]\nPor favor, guarde silencio dentro de la biblioteca."
     },
     "5zbhBw": {
         "ko": "[듀]\n흠… 책은 좀…",
         "en": "[Deu]\nHmm... books are a bit...",
-        "pt": "[Du Lian]\nHmm... livros, não...",
-        "es": "[Deu]\nMmm… los libros, como que…"
+        "pt": "[Du Lian]\nHmm... livros? não...",
+        "es": "[Du Lian]\nMmm… los libros, como que…"
     },
     "6DbhBw": {
         "ko": "[마크]\n이럴수가!!!!!\n프론테라 도서관에서도 찾을 수 없었던 책들이 이렇게 많다니!!!",
         "en": "[Mark]\nThis can't be!!!!!\nTo think there are so many books here that I couldn't even find in the Prontera Library!!!",
-        "pt": "[Mark]\nNão pode ser!!!!!\nTantos livros que nem na Biblioteca de Prontera eu consegui encontrar!!!",
+        "pt": "[Mark]\nCaramba!!!!!\nTem livros que eu não encontro nem na Biblioteca de Prontera!!!",
         "es": "[Mark]\n¡¡¡¡¡No puede ser!!!!!\n¡¡¡Que haya tantos libros que ni siquiera se podían encontrar en la Biblioteca de Prontera!!!"
     },
     "6TbhBw": {
         "ko": "[마크]\n등록이 필요하다구요? 자세히 알아보지도 않고 너무 서둘렀네요.\n어서 가서 등록부터 해야겠어요.",
         "en": "[Mark]\nRegistration is required? I rushed in without even looking into it properly.\nI should hurry and go register first.",
-        "pt": "[Mark]\nPrecisa de registro? Eu me apressei demais sem nem me informar direito.\nVou lá fazer o registro primeiro.",
+        "pt": "[Mark]\nHã? Precisa se registrar? Eu me empolguei tanto que nem reparei.\nVou lá me cadastrar primeiro.",
         "es": "[Mark]\n¿Que hace falta registrarse? Me he apresurado demasiado sin informarme bien.\nDebo ir cuanto antes a registrarme primero."
     },
     "6jbhBw": {
         "ko": "[마기]\n굉장해!!!\n처음 보는 마법 공식들이 잔뜩!!!!!",
-        "en": "[Magi]\nAmazing!!!\nSo many magic formulas I've never seen before!!!!!",
+        "en": "[Maggi]\nAmazing!!!\nSo many magic formulas I've never seen before!!!!!",
         "pt": "[Maggi]\nIncrível!!!\nUm monte de fórmulas mágicas que eu nunca vi!!!!!",
-        "es": "[Magi]\n¡¡¡Increíble!!!\n¡¡¡¡¡Un montón de fórmulas mágicas que nunca había visto!!!!!"
+        "es": "[Maggi]\n¡¡¡Increíble!!!\n¡¡¡¡¡Un montón de fórmulas mágicas que nunca había visto!!!!!"
     },
     "6zbhBw": {
         "ko": "[마기]\n도서관 이용 등록이요?\n그런게 있었어요?",
-        "en": "[Magi]\nLibrary use registration?\nThat was a thing?",
-        "pt": "[Maggi]\nRegistro para usar a biblioteca?\nTinha isso?",
-        "es": "[Magi]\n¿Registro para usar la biblioteca?\n¿Existía algo así?"
+        "en": "[Maggi]\nLibrary use registration?\nThat was a thing?",
+        "pt": "[Maggi]\nAh... registro para usar a biblioteca?\nTinha isso?",
+        "es": "[Maggi]\n¿Registro para usar la biblioteca?\n¿Existía algo así?"
     },
     "7DbhBw": {
         "ko": "[마기]\n잠깐만… 이것만 좀 더 보고 가서 등록 할게요!!!",
-        "en": "[Magi]\nWait a moment... I'll look at just a little more, then go register!!!",
-        "pt": "[Maggi]\nSó um instante... Vou ver só mais um pouco e depois vou fazer o registro!!!",
-        "es": "[Magi]\nEspera un momento… ¡Veré solo un poco más esto y luego iré a registrarme!"
+        "en": "[Maggi]\nWait a moment... I'll look at just a little more, then go register!!!",
+        "pt": "[Maggi]\nSó um instante... Vou dar uma olhadinha primeiro e depois vou fazer o registro!!!",
+        "es": "[Maggi]\nEspera un momento… ¡Veré solo un poco más esto y luego iré a registrarme!"
     },
     "7TbhBw": {
         "ko": "[알프]\n하아하아~",
         "en": "[Alf]\nHuff, huff~",
-        "pt": "[Alp]\nHaa haa~",
+        "pt": "[Alp]\nOooh~",
         "es": "[Alf]\nJadeo jadeo~"
     },
     "7jbhBw": {
         "ko": "- 말을 걸지 않는 게 좋겠다. -",
         "en": "- It would be best not to talk to them. -",
-        "pt": "- É melhor não falar com ele. -",
+        "pt": "- É melhor nem falar com ele. -",
         "es": "- Será mejor no hablarle. -"
     },
     "7zbhBw": {
         "ko": "[타마린]\n도서관 이용 등록이라니... 너무 들떠서 그냥 와 버렸네요.\n읽고 싶은 책이 너무 많은데…\n빨리 가서 등록하고 와야겠어요.",
         "en": "[Tamarin]\nLibrary use registration... I was so excited that I just came right over.\nThere are so many books I want to read...\nI should hurry and go register, then come back.",
-        "pt": "[Tamarin]\nRegistro para usar a biblioteca... Eu vim direto, estava empolgado demais.\nTem tantos livros que eu quero ler...\nIrei rápido fazer o registro e voltar.",
+        "pt": "[Tamarin]\nRegistro para usar a biblioteca...? Nem me toquei disso.\nTem tantos livros que eu quero ler...\nPreciso ir lá rápido e voltar.",
         "es": "[Tamarin]\n¿Registro para usar la biblioteca...? Me emocioné tanto que vine sin más.\nHay demasiados libros que quiero leer…\nDebo ir rápido a registrarme y volver."
     },
     "8DbhBw": {
         "ko": "[????????]\n저기 있잖아~\n[요정의 도시]라는 책 어디 있는지 알려줘~",
         "en": "[????????]\nHey, you know~\nCan you tell me where the book called [Fairy City] is~",
-        "pt": "[????????]\nEi~\nPode me dizer onde está o livro chamado [Cidade das Fadas]?",
+        "pt": "[????????]\nEi~\nPode me dizer onde está o livro chamado Cidade das Fadas?",
         "es": "[????????]\nOye, mira~\nDime dónde está el libro llamado [Ciudad de las Hadas]~"
     },
     "8TbhBw": {
@@ -1070,19 +1070,19 @@
     "8jbhBw": {
         "ko": "[????????]\n엥? 몰라?\n이상하다?\n제대로 입력해 뒀을텐데…",
         "en": "[????????]\nHuh? You don't know?\nThat's strange?\nI'm sure I entered it properly...",
-        "pt": "[????????]\nHein? Não sabe?\nQue estranho?\nEu devia ter registrado direito...",
+        "pt": "[????????]\nHein? Não sabe?\nQue estranho!\nEu devia ter registrado direito...",
         "es": "[????????]\n¿Eh? ¿No lo sabes?\n¿Que raro?\nSeguro que lo había introducido correctamente…"
     },
     "8zbhBw": {
         "ko": "[????????]\n앗!\n자세히 보니까 관리자들이랑 다르게 생겼네?",
         "en": "[????????]\nAh!\nLooking closely, you look different from the managers!",
-        "pt": "[????????]\nAh!\nOlhando melhor, você parece diferente dos administradores, não é?",
+        "pt": "[????????]\nAh!\nOlhando melhor, você não se parece com as outras Autômatas, não é?",
         "es": "[????????]\n¡Ah!\n¡Mirándolo bien, no te pareces a los administradores, ¿verdad?"
     },
     "9DbhBw": {
         "ko": "[타마린]\n자세히 안봐도 완전 다르잖아요!!!",
         "en": "[Tamarin]\nYou can tell at a glance they’re completely different!!!",
-        "pt": "[Tamarin]\nMesmo sem olhar direito, dá pra ver que é totalmente diferente!!!",
+        "pt": "[Tamarin]\nMesmo sem olhar direito, dá pra ver que eu sou totalmente diferente!!!",
         "es": "[Tamarin]\n¡Aunque no lo mires de cerca, es totalmente diferente!!!"
     },
     "9TbhBw": {
@@ -1094,7 +1094,7 @@
     "9jbhBw": {
         "ko": "[타마린]\n그런데 저 정말 여기 관리자 같아 보이나요?\n의심도 안할 정도로?!?!",
         "en": "[Tamarin]\nBut do I really look like the manager here?\nSo much that you wouldn’t even suspect me?!?!",
-        "pt": "[Tamarin]\nMas eu realmente pareço a administradora daqui?\nA ponto de nem desconfiar?!?!",
+        "pt": "[Tamarin]\nMas eu realmente pareço a Autômata que administra aqui?\nA ponto de nem desconfiarem?!?!",
         "es": "[Tamarin]\nPero, ¿de verdad parezco el administrador de aquí?\n¿¡Tanto como para que ni lo dudes?!"
     },
     "9zbhBw": {
@@ -1106,37 +1106,37 @@
     "+DbhBw": {
         "ko": "[올리버]\n흐음…\n이것도…\n저것도…\n다 읽어본 책이네?",
         "en": "[Oliver]\nHmm…\nThis one, too…\nThat one, too…\nThey’re all books I’ve already read?",
-        "pt": "[Oliver]\nHmm…\nEste também…\nAquele também…\nSão livros que eu já li, né?",
+        "pt": "[Oliver]\nHmm…\nEste também…\nAquele também…\nSó tem livros que eu já li...",
         "es": "[Oliver]\nMmm…\nEsto también…\nAquello también…\n¿Son libros que ya he leído?"
     },
     "+TbhBw": {
         "ko": "[올리버]\n새로운 책을 찾을 수 있을 줄 알았는데…\n그런데… 이 책들 어디에서 봤더라…",
         "en": "[Oliver]\nI thought I might be able to find a new book…\nBut… where have I seen these books before…",
-        "pt": "[Oliver]\nAchei que eu conseguiria encontrar um livro novo…\nMas… onde foi que eu vi esses livros…",
+        "pt": "[Oliver]\nAchei que eu encontraria um livro novo…\nMas… onde foi que eu vi novos livros…?",
         "es": "[Oliver]\nPensé que podría encontrar un libro nuevo…\nPero… ¿dónde había visto estos libros…?"
     },
     "+jbhBw": {
         "ko": "[????????]\n이미 읽은 책이라도 다시 읽으면 새로운 부분을 발견 할 수 있을지도 몰라.",
         "en": "[????????]\nEven if it’s a book you’ve already read, if you read it again, you might discover something new.",
-        "pt": "[????????]\nMesmo que seja um livro que você já leu, se ler de novo talvez descubra algo novo.",
+        "pt": "[????????]\nMesmo que seja um livro repetido, se você ler novamente talvez descubra algo novo.",
         "es": "[????????]\nAunque sea un libro que ya leíste, si lo vuelves a leer quizá puedas descubrir algo nuevo."
     },
     "+zbhBw": {
         "ko": "[올리버]\n하지만 한번 읽은 책은 한글자도 틀리지 않고 기억하는 걸?",
         "en": "[Oliver]\nBut once I’ve read a book, I remember it without a single letter wrong, you know?",
-        "pt": "[Oliver]\nMas eu lembro de um livro que eu li uma vez sem errar uma única letra, sabia?",
+        "pt": "[Oliver]\nEu lembro de um livro que eu li uma vez e decorei todas as palavras de cabeça, sabia?",
         "es": "[Oliver]\nPero, ¿recuerdo sin equivocarme ni una sola letra los libros que he leído una vez?"
     },
     "/DbhBw": {
         "ko": "[????????]\n같은 글자라도 읽을 때의 상황에 따라 다른 감정을 느낄 수 있단다.",
         "en": "[????????]\nEven with the same letters, depending on the situation when you read them, you can feel different emotions.",
-        "pt": "[????????]\nMesmo com as mesmas letras, dependendo da situação em que você lê, pode sentir emoções diferentes.",
+        "pt": "[????????]\nMesmo com as mesmas palavras, dependendo da sua situação, você pode sentir emoções diferentes.",
         "es": "[????????]\nAunque sean las mismas letras, según la situación en la que leas puedes sentir emociones distintas."
     },
     "/TbhBw": {
         "ko": "[올리버]\n헤~~ 그렇구나!",
         "en": "[Oliver]\nHeh~~ I see!",
-        "pt": "[Oliver]\nHe~~ Entendi!",
+        "pt": "[Oliver]\nAh~~ Entendi!",
         "es": "[Oliver]\nHe~~ ¡Ya veo!"
     },
     "/jbhBw": {
@@ -1148,13 +1148,13 @@
     "/zbhBw": {
         "ko": "[????????]\n글쎄?\n지금 손에 든 그 책처럼.\n지금은 내가 누군지 모르겠지만 나중에 시간이 흐르고 다시 날 떠올려보면 누군지 알 수 있을거야.",
         "en": "[????????]\nWho knows?\nLike that book you’re holding right now.\nYou may not know who I am right now, but later, when time has passed and you think of me again, you’ll be able to tell who I am.",
-        "pt": "[????????]\nQuem sabe?\nComo esse livro que você está segurando agora.\nAgora você não sabe quem eu sou, mas depois, quando o tempo passar e você se lembrar de mim de novo, vai saber quem eu sou.",
+        "pt": "[????????]\nBem...\nSou igual a esse livro que você está segurando.\nAgora você não sabe quem eu sou, mas depois, quando o tempo passar e você se lembrar de mim, vai saber quem eu sou.",
         "es": "[????????]\n¿Quién sabe?\nComo ese libro que tienes en la mano.\nAhora no sé quién soy, pero más adelante, cuando pase el tiempo y vuelvas a recordarme, podrás saber quién soy."
     },
     "ADfhBw": {
         "ko": "[올리버]\n이상한 형이네…\n그럼 이상한 형이 말한 것처럼 이 책으로 결정!!!",
         "en": "[Oliver]\nWhat a strange mister…\nThen, just like you said, I’ll decide on this book!!!",
-        "pt": "[Oliver]\nQue cara estranho…\nEntão, como você disse, vou decidir por este livro!!!",
+        "pt": "[Oliver]\nQue cara estranho…\nBom, como você disse, vou decidir ler este livro!!!",
         "es": "[Oliver]\nQué hermano tan raro…\n¡Entonces, como dijo el hermano raro, me decido por este libro!!!"
     },
     "ATfhBw": {
@@ -1172,55 +1172,55 @@
     "AzfhBw": {
         "ko": "[꼬마 관리자]\n꼬마 잔뜩 있다예요!",
         "en": "[Little Manager]\nThere are lots of little ones!",
-        "pt": "[Pequeno Administrador]\nTem um monte de pequenos!",
+        "pt": "[Mini Beta]\nEu tenho várias coisinhas pequenininhas para oferecer!",
         "es": "[Administrador pequeño]\n¡Hay un montón de pequeños!"
     },
     "BDfhBw": {
         "ko": "꼬마 관리자",
         "en": "Little Manager",
-        "pt": "Pequeno Administrador",
+        "pt": "Ovo de Mini Beta",
         "es": "Administrador pequeño"
     },
     "BTfhBw": {
         "ko": "꼬마 냠냠이",
         "en": "Little Yum-Yum",
-        "pt": "Pequeno Nhac-Nhac",
+        "pt": "Comida de Mascote",
         "es": "Pequeño ñamñam"
     },
     "BjfhBw": {
         "ko": "꼬마 공주 머리띠",
-        "en": "Little Gongju Headband",
-        "pt": "Tiara de Pequena Gongju",
-        "es": "Diadema de pequeño Gongju"
+        "en": "Little Princess Headband",
+        "pt": "Acessório de Mascote",
+        "es": "Diadema de pequeño Princesa"
     },
     "BzfhBw": {
         "ko": "[꼬마 관리자]\n꼬마 관리자랑 놀고 싶으면 바르밀 티켓 30개입니다예요!",
-        "en": "[Little Manager]\nIf you want to play with the Little Manager, it’s 30 Barmeal Ticket!",
-        "pt": "[Pequeno Administrador]\nSe quiser brincar com o Pequeno Administrador, são 30 Ticket Barmeal!",
-        "es": "[Administrador pequeño]\n¡Si quieres jugar con el administrador pequeño, son 30 Barmeal Ticket!"
+        "en": "[Little Manager]\nIf you want to play with the Little Manager, it’s 30 Varmeal Ticket!",
+        "pt": "[Mini Beta]\nSe quiser brincar com uma Mini Beta, são 30x Vale Varmida!",
+        "es": "[Administrador pequeño]\n¡Si quieres jugar con el administrador pequeño, son 30 Vale Varmida!"
     },
     "CDfhBw": {
         "ko": "교환 한다.",
         "en": "Make an exchange.",
-        "pt": "Fazer troca.",
+        "pt": "Trocar",
         "es": "Se intercambia."
     },
     "CTfhBw": {
         "ko": "[꼬마 관리자]\n친구랑 재밌게 놀아요!",
         "en": "[Little Administrator]\nHave fun playing with your friends!",
-        "pt": "[Pequeno Administrador]\nDivirta-se brincando com seus amigos!",
+        "pt": "[Mini Beta]\nDivirta-se brincando com sua nova mascote!",
         "es": "[Administrador Pequeño]\n¡Diviértete jugando con tus amigos!"
     },
     "CjfhBw": {
         "ko": "[꼬마 관리자]\n꼬마 관리자랑 놀고 싶으면 바르밀 티켓 30개입니다예요!!",
-        "en": "[Little Administrator]\nIf you want to play with the Little Administrator, it costs 30 Barmeal Ticket!!",
-        "pt": "[Pequeno Administrador]\nSe quiser brincar com o Pequeno Administrador, são 30 Ticket Barmeal!!",
-        "es": "[Administrador Pequeño]\nSi quieres jugar con el Administrador Pequeño, ¡son 30 Barmeal Ticket!!"
+        "en": "[Little Administrator]\nIf you want to play with the Little Administrator, it costs 30 Varmeal Ticket!!",
+        "pt": "[Mini Beta]\nVocê precisa de 30 Vale Varmida!!",
+        "es": "[Administrador Pequeño]\nSi quieres jugar con el Administrador Pequeño, ¡son 30 Vale Varmida!!"
     },
     "CzfhBw": {
         "ko": "[꼬마 관리자]\n그럼 이제 노는 시간이에요!",
         "en": "[Little Administrator]\nThen it's time to play now!",
-        "pt": "[Pequeno Administrador]\nEntão, agora é hora de brincar!",
+        "pt": "[Mini Beta]\nOba! agora é hora de brincar!",
         "es": "[Administrador Pequeño]\n¡Entonces, ahora es hora de jugar!"
     }
 }

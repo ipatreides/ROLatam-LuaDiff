@@ -4518,15 +4518,18 @@ StateIconList[EFST_IDs.EFST_AROMA_OIL] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"?leo Arom?tico",
+			"Aromatizante",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Reduz em 10% o dano f?sico/m?gico recebido dos monstros"
+			"Resist. aos monstros"
 		},
 		{
-			"da masmorra Grande Banho Meditatio"
+			"da Sauna Meditatio"
+		},
+		{
+			"aumentada em 10%."
 		}
 	}
 }
@@ -4977,15 +4980,18 @@ StateIconList[EFST_IDs.EFST_BATH_FOAM_C] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Aditivo de Banho C",
+			"Sais de Banho C",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Aumenta em 15% o dano f?sico/m?gico causado aos monstros"
+			"Dano contra monstros"
 		},
 		{
-			"da masmorra Grande Banho Meditatio"
+			"da Sauna Meditatio"
+		},
+		{
+			"aumentado em 15%."
 		}
 	}
 }
@@ -4994,15 +5000,18 @@ StateIconList[EFST_IDs.EFST_BATH_FOAM_B] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Aditivo de Banho B",
+			"Sais de Banho B",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
 		{
-			"umenta em 10% o dano f?sico/m?gico causado aos monstros"
+			"Dano contra monstros"
 		},
 		{
-			"da masmorra Grande Banho Meditatio"
+			"da Sauna Meditatio"
+		},
+		{
+			"aumentado em 10%."
 		}
 	}
 }
@@ -5210,15 +5219,18 @@ StateIconList[EFST_IDs.EFST_BATH_FOAM_A] = {
 	posTimeLimitStr = 2,
 	descript = {
 		{
-			"Aditivo de Banho A",
+			"Sais de Banho A",
 			COLOR_TITLE_BUFF
 		},
 		{"%s", COLOR_TIME},
 		{
-			"Aumenta em 5% o dano f?sico/m?gico causado aos monstros"
+			"Dano contra monstros"
 		},
 		{
-			"da masmorra Grande Banho Meditatio"
+			"da Sauna Meditatio"
+		},
+		{
+			"aumentado em 5%."
 		}
 	}
 }
@@ -5483,11 +5495,17 @@ StateIconList[EFST_IDs.EFST_GIANTGROWTH] = {
 StateIconList[EFST_IDs.EFST_LOCKON_LASER] = {
 	descript = {
 		{
-			"Definir Ponto de Bombardeio",
+			"Marcar em Brasa",
 			COLOR_TITLE_DEBUFF
 		},
 		{
-			"Cria um ponto-alvo de bombardeio em intervalos regulares"
+			"Você é alvo da Execução."
+		},
+		{
+			"Bombas caírão durante"
+		},
+		{
+			"um certo período de tempo."
 		}
 	}
 }

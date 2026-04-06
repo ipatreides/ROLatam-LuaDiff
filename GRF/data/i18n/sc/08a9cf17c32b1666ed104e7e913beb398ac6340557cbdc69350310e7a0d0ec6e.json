@@ -1,17 +1,26 @@
 {
     "wEv9": {
-        "en": "It is blocked by a huge unknown force and can no longer be entered.\nI think my current level is not enough.",
+        "ko": "It is blocked by a huge unknown force and can no longer be entered.\nI think my current level is not enough.",
         "pt": "Você não pode entrar por uma força misteriosa.\nParece que você não tem força o bastante.",
         "es": "Una enorme fuerza desconocida la bloquea y ya no se puede entrar.\nCreo que mi nivel actual no es suficiente."
     },
     "wUv9": {
-        "en": "^4D4DFFThe recommended entry level to the upper level of Thanatos Tower is 95 or higher.^000000",
+        "ko": "^4D4DFFThe recommended entry level to the upper level of Thanatos Tower is 95 or higher.^000000",
         "pt": "^4D4DFFVocê precisa ser nível 95 ou superior.^000000",
         "es": "^4D4DFFSe recomienda un nivel95 o superior para entrar al nivel superior de la Torre de Thanatos.^000000"
     },
     "wkv9": {
-        "en": "^4D4DFFThe recommended entry level to the top floor of Thanatos Tower is 180 or higher.^000000",
+        "ko": "^4D4DFFThe recommended entry level to the top floor of Thanatos Tower is 180 or higher.^000000",
         "pt": "^4D4DFFVocê precisa ser nível 180 ou superior.^000000",
         "es": "^4D4DFFSe recomienda un nivel180 o superior para entrar al último piso de la Torre de Thanatos.^000000"
+    },
+    "w0v9": {
+        "ko": "알 수 없는 거대한 힘에 막혀 더이상 진입할 수 없다.\n아무래도 지금 레벨로는 부족한 것 같다."
+    },
+    "xEv9": {
+        "ko": "^4D4DFF타나토스 타워 상층부 권장 입장 레벨은 95 이상입니다.^000000"
+    },
+    "xUv9": {
+        "ko": "^4D4DFF타나토스 타워 최상층부 권장 입장 레벨은 180 이상입니다.^000000"
     }
 }

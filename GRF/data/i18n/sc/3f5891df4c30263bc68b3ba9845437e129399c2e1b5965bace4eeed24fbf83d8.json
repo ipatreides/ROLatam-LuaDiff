@@ -1263,5 +1263,65 @@
         "en": "I exchange your <ITEM>[Explorer's Coins]<INFO>1002750</INFO></ITEM> for Equipment and Consumables.\nWhat do you say?",
         "pt": "Eu troco suas <ITEM>[Moedas dos Desbravadores]<INFO>1002750</INFO></ITEM> por Equipamentos e Consumíveis.\nO que me diz?",
         "es": "Intercambio tus <ITEM>[Monedas de los Exploradores]<INFO>1002750</INFO></ITEM> por Equipo y Consumibles.\n¿Qué te parece?"
+    },
+    "PSCyDA": {
+        "en": "{0}{1}",
+        "pt": "{0}{1}",
+        "es": "{0}{1}"
+    },
+    "PiCyDA": {
+        "en": "{0}{1}",
+        "pt": "{0}{1}",
+        "es": "{0}{1}"
+    },
+    "PyCyDA": {
+        "en": "{0}{1}",
+        "pt": "{0}{1}",
+        "es": "{0}{1}"
+    },
+    "QCCyDA": {
+        "en": "{0}{1}",
+        "pt": "{0}{1}",
+        "es": "{0}{1}"
+    },
+    "QSCyDA": {
+        "en": "{0}{1}",
+        "pt": "{0}{1}",
+        "es": "{0}{1}"
+    },
+    "QiCyDA": {
+        "en": "{0}{1}",
+        "pt": "{0}{1}",
+        "es": "{0}{1}"
+    },
+    "QyCyDA": {
+        "en": "{0}{1}",
+        "pt": "{0}{1}",
+        "es": "{0}{1}"
+    },
+    "RCCyDA": {
+        "en": "{0}{1}",
+        "pt": "{0}{1}",
+        "es": "{0}{1}"
+    },
+    "RSCyDA": {
+        "en": "{0}{1}",
+        "pt": "{0}{1}",
+        "es": "{0}{1}"
+    },
+    "RiCyDA": {
+        "en": "{0}{1}",
+        "pt": "{0}{1}",
+        "es": "{0}{1}"
+    },
+    "RyCyDA": {
+        "en": "^0000FF",
+        "pt": "^0000FF",
+        "es": "^0000FF"
+    },
+    "SCCyDA": {
+        "en": "^888888",
+        "pt": "^888888",
+        "es": "^888888"
     }
 }

@@ -59,7 +59,7 @@ tblLapineUpgradeBox = {
 				},
 				{"Boots_IL", 22190}
 			},
-			NeedSource_String = "Ilusión del Osito"
+			NeedSource_String = "Ilusi�n del Osito"
 		},
 		S_Teddy_Bear_Box_IL = {
 			ItemID = 100420,
@@ -86,7 +86,7 @@ tblLapineUpgradeBox = {
 				},
 				{"Boots_IL", 22190}
 			},
-			NeedSource_String = "Ilusión del Osito"
+			NeedSource_String = "Ilusi�n del Osito"
 		},
 		Frozen_Box_IL = {
 			ItemID = 9785,
@@ -113,7 +113,7 @@ tblLapineUpgradeBox = {
 					28922
 				}
 			},
-			NeedSource_String = "Ilusión de Congelado"
+			NeedSource_String = "Ilusi�n de Congelado"
 		},
 		S_Frozen_Box_IL = {
 			ItemID = 100416,
@@ -140,7 +140,7 @@ tblLapineUpgradeBox = {
 					28922
 				}
 			},
-			NeedSource_String = "Ilusión de Congelado"
+			NeedSource_String = "Ilusi�n de Congelado"
 		},
 		Moonlight_Box_IL = {
 			ItemID = 100391,
@@ -180,7 +180,7 @@ tblLapineUpgradeBox = {
 					19210
 				}
 			},
-			NeedSource_String = "Ilusión de Luz de Luna"
+			NeedSource_String = "Ilusi�n de Luz de Luna"
 		},
 		S_Moonlight_Box_IL = {
 			ItemID = 100392,
@@ -220,7 +220,7 @@ tblLapineUpgradeBox = {
 					19210
 				}
 			},
-			NeedSource_String = "Ilusión de Luz de Luna"
+			NeedSource_String = "Ilusi�n de Luz de Luna"
 		},
 		Vampire_Box_IL = {
 			ItemID = 100414,
@@ -254,7 +254,7 @@ tblLapineUpgradeBox = {
 					20840
 				}
 			},
-			NeedSource_String = "Ilusión de Vampiro"
+			NeedSource_String = "Ilusi�n de Vampiro"
 		},
 		S_Vampire_Box_IL = {
 			ItemID = 100415,
@@ -288,7 +288,7 @@ tblLapineUpgradeBox = {
 					20840
 				}
 			},
-			NeedSource_String = "Ilusión de Vampiro"
+			NeedSource_String = "Ilusi�n de Vampiro"
 		},
 		Time_Unseal_Key = {
 			ItemID = 9551,
@@ -8725,7 +8725,7 @@ tblLapineUpgradeBox = {
 					18984
 				}
 			},
-			NeedSource_String = "Chapéu Memorável"
+			NeedSource_String = "Chap�u Memor�vel"
 		},
 		Loki_Advice = {
 			ItemID = 102277,
@@ -13424,7 +13424,7 @@ tblLapineUpgradeBox = {
 					420269
 				}
 			},
-			NeedSource_String = "Selo de Bastões"
+			NeedSource_String = "Selo de Bast�es"
 		},
 		UPG_TH_7_Ticket = {
 			ItemID = 104133,
@@ -13590,7 +13590,7 @@ tblLapineUpgradeBox = {
 			TargetItems = {
 				{"Upg_Whip", 580083}
 			},
-			NeedSource_String = "Látigo Mejorado"
+			NeedSource_String = "L�tigo Mejorado"
 		},
 		UPG_VN_7_Ticket = {
 			ItemID = 104709,
@@ -13601,7 +13601,7 @@ tblLapineUpgradeBox = {
 			TargetItems = {
 				{"Upg_Violin", 570083}
 			},
-			NeedSource_String = "Violín Mejorado"
+			NeedSource_String = "Viol�n Mejorado"
 		},
 		Growth_W_Up_1_G = {
 			ItemID = 104087,
@@ -14213,7 +14213,7 @@ tblLapineUpgradeBox = {
 					22192
 				}
 			},
-			NeedSource_String = "Equipo de la Ilusión de Luanda"
+			NeedSource_String = "Equipo de la Ilusi�n de Luanda"
 		},
 		S_Luanda_Box_IL = {
 			ItemID = 100422,
@@ -14244,7 +14244,7 @@ tblLapineUpgradeBox = {
 					22192
 				}
 			},
-			NeedSource_String = "Equipo de la Ilusión de Luanda"
+			NeedSource_String = "Equipo de la Ilusi�n de Luanda"
 		},
 		Old_9Refine_Cube = {
 			ItemID = 105926,
@@ -14307,7 +14307,7 @@ tblLapineUpgradeBox = {
 					18984
 				}
 			},
-			NeedSource_String = "Chapéu Memorável"
+			NeedSource_String = "Chap�u Memor�vel"
 		},
 		Labyrinth_Box_IL = {
 			ItemID = 100423,
@@ -14338,7 +14338,7 @@ tblLapineUpgradeBox = {
 					20948
 				}
 			},
-			NeedSource_String = "Equipo de Ilusión del Laberinto"
+			NeedSource_String = "Equipo de Ilusi�n del Laberinto"
 		},
 		S_Teddy_Labyrinth_IL = {
 			ItemID = 100424,
@@ -14369,7 +14369,7 @@ tblLapineUpgradeBox = {
 					20948
 				}
 			},
-			NeedSource_String = "Equipo de Ilusión del Laberinto"
+			NeedSource_String = "Equipo de Ilusi�n del Laberinto"
 		},
 		Twins_Box_IL = {
 			ItemID = 100699,
@@ -14420,7 +14420,7 @@ tblLapineUpgradeBox = {
 					450182
 				}
 			},
-			NeedSource_String = "Equipo de la Ilusión de los Gemelos"
+			NeedSource_String = "Equipo de la Ilusi�n de los Gemelos"
 		},
 		S_Twins_Box_IL = {
 			ItemID = 100700,
@@ -14467,7 +14467,7 @@ tblLapineUpgradeBox = {
 					450182
 				}
 			},
-			NeedSource_String = "Equipo de la Ilusión de los Gemelos"
+			NeedSource_String = "Equipo de la Ilusi�n de los Gemelos"
 		},
 		EP17_1_SPC05 = {
 			ItemID = 23776,
@@ -14932,7 +14932,7 @@ tblLapineUpgradeBox = {
 					480054
 				}
 			},
-			NeedSource_String = "Ilusión del Equipo Submarino"
+			NeedSource_String = "Ilusi�n del Equipo Submarino"
 		},
 		S_Underwater_Box_IL = {
 			ItemID = 100426,
@@ -14983,7 +14983,7 @@ tblLapineUpgradeBox = {
 					480054
 				}
 			},
-			NeedSource_String = "Ilusión del Equipo Submarino"
+			NeedSource_String = "Ilusi�n del Equipo Submarino"
 		},
 		Dead_Soul_Record_TW = {
 			ItemID = 101304,
@@ -15005,7 +15005,7 @@ tblLapineUpgradeBox = {
 					480024
 				}
 			},
-			NeedSource_String = "Fallen Warrior’s Cloak, Tormented Soul’s Cloak"
+			NeedSource_String = "Fallen Warrior�s Cloak, Tormented Soul�s Cloak"
 		},
 		P_Sungl_Dduck_Box = {
 			ItemID = 101670,
@@ -15534,7 +15534,9 @@ tblLapineUpgradeBox = {
 					"MV_B_Violin",
 					570010
 				},
-				{"MV_B_Whip", 580010}
+				{"MV_B_Whip", 580010},
+				{"SP_B_Fox", 550050},
+				{"GB_B_Fox", 550051}
 			},
 			NeedSource_String = "Arma de Booster"
 		},
@@ -15591,7 +15593,9 @@ tblLapineUpgradeBox = {
 					"MV_B_Violin",
 					570010
 				},
-				{"MV_B_Whip", 580010}
+				{"MV_B_Whip", 580010},
+				{"SP_B_Fox", 550050},
+				{"GB_B_Fox", 550051}
 			},
 			NeedSource_String = "Arma de Booster"
 		},
@@ -15648,7 +15652,9 @@ tblLapineUpgradeBox = {
 					"MV_B_Violin",
 					570010
 				},
-				{"MV_B_Whip", 580010}
+				{"MV_B_Whip", 580010},
+				{"SP_B_Fox", 550050},
+				{"GB_B_Fox", 550051}
 			},
 			NeedSource_String = "Arma de Booster"
 		},
@@ -15784,7 +15790,7 @@ tblLapineUpgradeBox = {
 					550006
 				}
 			},
-			NeedSource_String = "Sistema de modificación física"
+			NeedSource_String = "Sistema de modificaci�n f�sica"
 		},
 		Ein_Ddbox2 = {
 			ItemID = 9529,
@@ -15844,7 +15850,7 @@ tblLapineUpgradeBox = {
 					550006
 				}
 			},
-			NeedSource_String = "Sistema de modificación mágica"
+			NeedSource_String = "Sistema de modificaci�n m�gica"
 		},
 		Abyss_Ddbox = {
 			ItemID = 23981,
@@ -15877,7 +15883,7 @@ tblLapineUpgradeBox = {
 					15396
 				}
 			},
-			NeedSource_String = "Energía del dragón arremolinada"
+			NeedSource_String = "Energ�a del drag�n arremolinada"
 		},
 		Abyss_Ddbox2 = {
 			ItemID = 100142,
@@ -15910,7 +15916,7 @@ tblLapineUpgradeBox = {
 					15396
 				}
 			},
-			NeedSource_String = "Energía del dragón poderosa"
+			NeedSource_String = "Energ�a del drag�n poderosa"
 		},
 		Abyss_Ddbox3 = {
 			ItemID = 100144,
@@ -15923,7 +15929,7 @@ tblLapineUpgradeBox = {
 					20946
 				}
 			},
-			NeedSource_String = "Energía del dragón ardiente"
+			NeedSource_String = "Energ�a del drag�n ardiente"
 		},
 		Abyss_Ddbox4 = {
 			ItemID = 100145,
@@ -15936,7 +15942,7 @@ tblLapineUpgradeBox = {
 					22208
 				}
 			},
-			NeedSource_String = "Energía del dragón caliente"
+			NeedSource_String = "Energ�a del drag�n caliente"
 		},
 		Auto_Imp_Melee_1 = {
 			ItemID = 100164,
@@ -16050,7 +16056,7 @@ tblLapineUpgradeBox = {
 					840000
 				}
 			},
-			NeedSource_String = "Arma objetivo de mejora intermedia (físico)"
+			NeedSource_String = "Arma objetivo de mejora intermedia (f�sico)"
 		},
 		Auto_Imp_Melee_2 = {
 			ItemID = 100165,
@@ -16164,7 +16170,7 @@ tblLapineUpgradeBox = {
 					840000
 				}
 			},
-			NeedSource_String = "Arma objetivo de mejora avanzada (físico)"
+			NeedSource_String = "Arma objetivo de mejora avanzada (f�sico)"
 		},
 		Auto_Imp_Melee_3 = {
 			ItemID = 100166,
@@ -16278,7 +16284,7 @@ tblLapineUpgradeBox = {
 					840000
 				}
 			},
-			NeedSource_String = "Arma objetivo de mejora superior (físico)"
+			NeedSource_String = "Arma objetivo de mejora superior (f�sico)"
 		},
 		Auto_Imp_Magic_1 = {
 			ItemID = 100167,
@@ -16392,7 +16398,7 @@ tblLapineUpgradeBox = {
 					840000
 				}
 			},
-			NeedSource_String = "Arma objetivo de mejora intermedia (mágico)"
+			NeedSource_String = "Arma objetivo de mejora intermedia (m�gico)"
 		},
 		Auto_Imp_Magic_2 = {
 			ItemID = 100168,
@@ -16506,7 +16512,7 @@ tblLapineUpgradeBox = {
 					840000
 				}
 			},
-			NeedSource_String = "Arma objetivo de mejora avanzada (mágico)"
+			NeedSource_String = "Arma objetivo de mejora avanzada (m�gico)"
 		},
 		Auto_Imp_Magic_3 = {
 			ItemID = 100169,
@@ -16620,14 +16626,14 @@ tblLapineUpgradeBox = {
 					840000
 				}
 			},
-			NeedSource_String = "Arma objetivo de mejora superior (mágico)"
+			NeedSource_String = "Arma objetivo de mejora superior (m�gico)"
 		},
 		Illu_Enhance_Cube = {
 			ItemID = 100251,
 			NeedRefineMin = 4,
 			NeedRefineMax = 6,
 			NeedOptionNumMin = 0,
-			NotSocketEnchantItem = true,
+			NotSocketEnchantItem = false,
 			TargetItems = {
 				{
 					"Illusion_Armor_A",
@@ -16661,7 +16667,7 @@ tblLapineUpgradeBox = {
 			NeedRefineMin = 4,
 			NeedRefineMax = 6,
 			NeedOptionNumMin = 0,
-			NotSocketEnchantItem = true,
+			NotSocketEnchantItem = false,
 			TargetItems = {
 				{
 					"Auto_Armor_A",
@@ -16682,7 +16688,7 @@ tblLapineUpgradeBox = {
 				{"Auto_Leg_A", 470022},
 				{"Auto_Leg_B", 470023}
 			},
-			NeedSource_String = "Armadura Automático (refino 4 o superior)"
+			NeedSource_String = "Armadura Autom�tico (refino 4 o superior)"
 		}
 	},
 	get_lapine_box = function(in_box_id)

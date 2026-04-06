@@ -1,0 +1,98 @@
+{
+    "AObfDA": {
+        "ko": "에휴",
+        "en": "Ehyu",
+        "pt": "Ehyu",
+        "es": "Ehyu"
+    },
+    "AebfDA": {
+        "ko": "그 날도 대지가 흔들렸다.",
+        "en": "The earth trembled that day as well.",
+        "pt": "Naquele dia, a terra também tremeu.",
+        "es": "Ese día la tierra también tembló."
+    },
+    "AubfDA": {
+        "ko": "속절없는 흔들림 속에서 자신이 버티고 설 자리가 사라진다는 감각은",
+        "en": "Within the relentless shaking, the feeling that there was no longer any ground left to stand upon",
+        "pt": "Em meio ao tremor inevitável, a sensação de que não havia mais um lugar onde pudesse permanecer de pé",
+        "es": "La sensación de perder el lugar donde sostenerse en medio de una sacudida inevitable"
+    },
+    "A+bfDA": {
+        "ko": "아주 끔찍했을 것이다.",
+        "en": "must have been truly dreadful.",
+        "pt": "deve ter sido terrível.",
+        "es": "debió de ser absolutamente terrible."
+    },
+    "BObfDA": {
+        "ko": "절망은 그렇게 예고없이 다가온다.",
+        "en": "Despair arrives like that without warning.",
+        "pt": "O desespero chega assim, sem aviso.",
+        "es": "La desesperación llega así, sin previo aviso."
+    },
+    "BebfDA": {
+        "ko": "일어설 자리조차 주지않고.",
+        "en": "Without even granting a place to stand again.",
+        "pt": "Sem sequer conceder um lugar para se levantar.",
+        "es": "Sin siquiera conceder un lugar para levantarse."
+    },
+    "BubfDA": {
+        "ko": "지상을 걷는 모든 존재에게서 희망을 앗는다.",
+        "en": "It steals hope from every being that walks the earth.",
+        "pt": "Ele rouba a esperança de todos os seres que caminham sobre a terra.",
+        "es": "Arrebata la esperanza a todos los seres que caminan sobre la tierra."
+    },
+    "B+bfDA": {
+        "ko": "검게 물드는 하늘을 보라. 절망을 목도하지만",
+        "en": "Look at the sky turning black. Even as despair is witnessed,",
+        "pt": "Olhe para o céu tingido de negro. Mesmo testemunhando o desespero,",
+        "es": "Mira el cielo que se tiñe de negro. Aunque presencia la desesperación,"
+    },
+    "CObfDA": {
+        "ko": "그럼에도 대지는 굳건히 두 발을 받치고 있어 희망을 숨쉰다.",
+        "en": "the earth still supports both feet firmly and breathes hope.",
+        "pt": "ainda assim a terra sustenta firmemente os dois pés e respira esperança.",
+        "es": "la tierra sigue sosteniendo firmemente ambos pies y respira esperanza."
+    },
+    "CebfDA": {
+        "ko": "허나 희망이 없다.",
+        "en": "Yet there is no hope.",
+        "pt": "No entanto, não há esperança.",
+        "es": "Pero no hay esperanza."
+    },
+    "CubfDA": {
+        "ko": "신벌의 대행자",
+        "en": "Baroness of Retribution",
+        "pt": "Retribuição",
+        "es": "Baronesa de la Retribución"
+    },
+    "C+bfDA": {
+        "ko": "절망의 기억",
+        "en": "Memory of Despair",
+        "pt": "Memória do Desespero",
+        "es": "Recuerdo de desesperación"
+    },
+    "DObfDA": {
+        "ko": "타나토스의 절망",
+        "en": "Despair of Memory of Thanatos",
+        "pt": "O desespero de Memória de Thanatos",
+        "es": "La desesperación de Memoria de Thanatos"
+    },
+    "DebfDA": {
+        "ko": "타나토스의 기억 파편, 절망이 등장했습니다.",
+        "en": "Memory of Thanatos Fragment, Despair has appeared.",
+        "pt": "O fragmento de Memória de Thanatos, Desespero, apareceu.",
+        "es": "Ha aparecido el fragmento de Recuerdo de Thanatos, desesperación."
+    },
+    "DubfDA": {
+        "ko": "소지하고 계시는 아이템의 갯수가 많아 퀘스트를 진행 할 수 없습니다.\n아이템을 정리한 뒤 다시 시도해 주시기 바랍니다.",
+        "en": "You cannot proceed with the quest because you are carrying too many items. Please organize your inventory and try again.",
+        "pt": "Você possui itens demais para prosseguir com a missão. Organize seus itens e tente novamente.",
+        "es": "No puedes continuar la misión porque llevas demasiados objetos. Ordena tus objetos e inténtalo de nuevo."
+    },
+    "D+bfDA": {
+        "ko": "절망의 기억이 파편으로 형상화합니다. 게이트의 봉인이 해제되었습니다.",
+        "en": "Memory of Despair manifests as fragments. The seal of the gate has been released.",
+        "pt": "Memória do Desespero assume a forma de fragmentos. O selo do portal foi removido.",
+        "es": "Recuerdo de desesperación toma forma como fragmento. El sello de la puerta ha sido liberado."
+    }
+}

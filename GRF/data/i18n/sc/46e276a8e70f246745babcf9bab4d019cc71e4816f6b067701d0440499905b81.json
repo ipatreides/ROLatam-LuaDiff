@@ -32,7 +32,7 @@
     "ZW3QBw": {
         "ko": "[에오르파]\n안녕... 하십니까.\n저는... 제2 마력 발전소를 관리하는.... 지지직",
         "en": "[Eorfa]\nHello... there.\nI am... the one who manages... Bzzzt... the 2nd Magic Power Plant.",
-        "pt": "[Eorfa]\nOlá... como... vai.\nEu... sou.... quem administra a 2ª Usina de Energia Mágica.... zzzzt",
+        "pt": "[Eorfa]\nOlá... como... vai?\nEu... sou.... administradora da Usina de Energia Mágica.... zzzzt",
         "es": "[Eorfa]\nHola... ¿cómo... está.\nYo... soy... quien administra la 2.ª Planta de Energía Mágica.... Bzzzt"
     },
     "Zm3QBw": {
@@ -43,14 +43,14 @@
     },
     "Z23QBw": {
         "ko": "[에오르파]\n이 곳 바르문트 저택에 오신 것을... 환영.... 합니다.. 지지직.",
-        "en": "[Eorfa]\nWelcome... to this Varmundt mansion... Bzzzt.",
-        "pt": "[Eorfa]\nSeja... bem-vindo.... a esta mansão Varmundt.. zzzzt.",
-        "es": "[Eorfa]\nLe doy... la bienvenida.... a esta mansión de Varmundt.. Bzzzt."
+        "en": "[Eorfa]\nWelcome... to this Varmunt mansion... Bzzzt.",
+        "pt": "[Eorfa]\nTe desejo... boas-vindas.... à mansão Varmunt.. zzzzt.",
+        "es": "[Eorfa]\nLe doy... la bienvenida.... a esta mansión de Varmunt.. Bzzzt."
     },
     "aG3QBw": {
         "ko": "상태가 좋지 않아 보이는 걸?",
         "en": "You don't look like you're in good shape.",
-        "pt": "Você não parece estar bem, não é?",
+        "pt": "Você tá bem?",
         "es": "¿No pareces estar en buen estado?"
     },
     "aW3QBw": {
@@ -62,19 +62,19 @@
     "am3QBw": {
         "ko": "[에오르파]\n제 2 마력 발전소에서..., 수거해 온.. 지직.. 전파를 방해하는 칩입니다...",
         "en": "[Eorfa]\nThey are... Bzzzt... chips that interfere with radio waves, collected from the 2nd Magic Power Plant...",
-        "pt": "[Eorfa]\nSão... chips que interferem nas ondas, trazidos de volta... zzzzt.. da 2ª Usina de Energia Mágica...",
+        "pt": "[Eorfa]\nSão... chips que interferem nas ondas, trazidos da... zzzzt.. Usina de Energia Mágica...",
         "es": "[Eorfa]\nSon... chips que interfieren con las ondas... bzzzt.. que recogí de la 2.ª Planta de Energía Mágica..."
     },
     "a23QBw": {
         "ko": "-  에오르파의 앞에는 맛있어 보이는 감자칩들이 수북하게 쌓여 있다. -",
         "en": "- In front of Eorfa, there is a huge pile of delicious-looking potato chips. -",
-        "pt": "- Diante de Eorfa, há uma grande pilha de batatas fritas que parecem deliciosas. -",
+        "pt": "- Diante de Eorfa, há uma grande pilha de Chips de Batata que parecem deliciosos. -",
         "es": "- Frente a Eorfa hay un montón de patatas fritas que se ven deliciosas. -"
     },
     "bG3QBw": {
         "ko": "이것은 아무리 봐도 감자칩인데..??",
         "en": "No matter how you look at it, these are potato chips..??",
-        "pt": "Isso, por mais que eu olhe, são batatas fritas..??",
+        "pt": "Isso são batatas fritas...??",
         "es": "Esto, por más que lo mire, son patatas fritas..??"
     },
     "bW3QBw": {
@@ -86,13 +86,13 @@
     "bm3QBw": {
         "ko": "어떻게 처리를 하면 되는거지??",
         "en": "How am I supposed to dispose of them??",
-        "pt": "Como é que eu devo cuidar disso??",
+        "pt": "E o que eu faço??",
         "es": "¿Y cómo se supone que debo procesarlos??"
     },
     "b23QBw": {
         "ko": "[에오르파]\n생명이 깃들어 있는 자는.. 지직... 해당하는 생체 칩을 처리할 수 있다고 알고 있습니다... 지직.",
         "en": "[Eorfa]\nI understand that those who have life within them... Bzzzt... can dispose of these bio chips... Bzzzt.",
-        "pt": "[Eorfa]\nEu sei que aqueles em quem habita a vida... zzzzt... conseguem lidar com esse chip biológico... zzzzt.",
+        "pt": "[Eorfa]\nEu sei que humanos... zzzzt... conseguem lidar com esse chip biológico... zzzzt.",
         "es": "[Eorfa]\nSé que quien posee vida... bzzzt... puede procesar esos chips biológicos... bzzzt."
     },
     "cG3QBw": {
@@ -104,19 +104,19 @@
     "cW3QBw": {
         "ko": "- 이것은 칩을 먹어 치워 달라는 것이 분명하다! -",
         "en": "- This is clearly asking you to eat up the chips! -",
-        "pt": "- Está claro que ele está pedindo para você devorar os chips! -",
+        "pt": "- Ela está pedindo para você comer! -",
         "es": "- ¡Está claro que te está pidiendo que te los comas! -"
     },
     "cm3QBw": {
         "ko": "- 에오르파 앞에 쌓여있는 감자칩을 먹어 치우시겠습니까? -",
         "en": "- Will you eat up the Potato Chips piled up in front of Eorfa? -",
-        "pt": "- Você vai devorar os Batata Chips empilhados diante de Eorfa? -",
+        "pt": "- Você vai comer os Chips de Batata? -",
         "es": "- ¿Se comerá las Patatas Fritas apiladas frente a Eorfa? -"
     },
     "c23QBw": {
         "ko": "먹어 치운다.",
         "en": "Eat them up.",
-        "pt": "Devorar.",
+        "pt": "Comer.",
         "es": "Se las come."
     },
     "dG3QBw": {
@@ -128,19 +128,19 @@
     "dW3QBw": {
         "ko": "[{0}]\n냠냠냠냠.... 쩝쩝쩝... 우걱우걱........",
         "en": "[{0}]\nNom nom nom nom... *munch munch*... crunch crunch...",
-        "pt": "[{0}]\nNhac nhac nhac nhac.... chomp chomp... nhom nhom........",
+        "pt": "[{0}]\n*Nhac nhac nhac nhac*.... *chomp chomp*... *nhom nhom*........",
         "es": "[{0}]\nÑam ñam ñam ñam.... chomp chomp chomp... cruj cruj........"
     },
     "dm3QBw": {
         "ko": "- 에오르파 앞에 놓여있던 감자칩을 전부 해치웠다!! -",
         "en": "- You devoured all the Potato Chips that had been placed in front of Eorfa!! -",
-        "pt": "- Devorou todos os Batata Chips que estavam na frente de Eorfa!! -",
+        "pt": "- Você comeu todos os Chips de Batata na frente de Eorfa!! -",
         "es": "- ¡Se acabó por completo las Patatas Fritas que estaban colocadas frente a Eorfa!! -"
     },
     "d23QBw": {
         "ko": "[에오르파]\n지직.. 감사합니다. 생체 전파 방해칩의 제거가 확인 완료되었습니다.\n네트워크 상태 양호합니다. 소통 원활 확인 완료.",
         "en": "[Eorfa]\nBzzzt... Thank you. Removal of the bio signal jamming chip has been confirmed.\nNetwork status is good. Communication is stable and confirmed.",
-        "pt": "[Eorfa]\nBzzzt.. Obrigada. A remoção do chip de interferência de transmissão biológica foi confirmada.\nO estado da rede está bom. Comunicação fluindo, confirmação concluída.",
+        "pt": "[Eorfa]\nBzzzt.. Obrigada. A remoção do chip de interferência de transmissão biológica foi confirmada.\nO estado da rede está ok. Comunicação fluindo, confirmação concluída.",
         "es": "[Eorfa]\nBzzzt.. Gracias. Se ha confirmado la eliminación del chip de interferencia de ondas biológicas.\nEl estado de la red es bueno. Se ha confirmado que la comunicación es fluida."
     },
     "eG3QBw": {
@@ -164,31 +164,31 @@
     "e23QBw": {
         "ko": "- 상태가 별로 좋아 보이지 않으니 내버려 두자. -",
         "en": "- It doesn't look to be in very good condition, so let's leave it alone. -",
-        "pt": "- Como não parece estar muito bem, vamos deixá-la em paz. -",
+        "pt": "- Como não ela parece estar muito bem, vamos deixá-la em paz. -",
         "es": "- No parece estar en muy buen estado, así que dejémoslo. -"
     },
     "fG3QBw": {
         "ko": "[에오르파]\n안녕하세요. 생체 전파 방해 칩들을 처리해주셔서 감사합니다. 이제 제대로 소통할 수 있게 되었습니다. 저는 제 2 마력 발전소를 관리하고 있는 에오르파입니다.",
         "en": "[Eorfa]\nHello. Thank you for taking care of the bio signal jamming chips. Now I can communicate properly. I am Eorfa, and I manage the 2nd Magic Power Plant.",
-        "pt": "[Eorfa]\nOlá. Obrigada por lidar com os chips de interferência de transmissão biológica. Agora podemos nos comunicar corretamente. Eu sou Eorfa, responsável por gerenciar a 2ª Usina de Energia Mágica.",
+        "pt": "[Eorfa]\nOlá. Obrigada por lidar com a interferência dos chips de transmissão biológica. Agora podemos nos comunicar corretamente. Eu sou Eorfa, responsável por gerenciar a Usina de Energia Mágica.",
         "es": "[Eorfa]\nHola. Gracias por encargarse de los chips de interferencia de ondas biológicas. Ahora podemos comunicarnos correctamente. Soy Eorfa, quien administra la 2.ª Planta de Energía Mágica."
     },
     "fW3QBw": {
         "ko": "[에오르파]\n방금 처리해 주신 전파 방해 칩들에 대해 말씀드리겠습니다. 해당 칩은 제2 마력 발전소 안에 있는 ^4D4DFF마력중독 사나레^000000 라는 일루시온이 전파 방해를 목적으로 곳곳에 설치한 칩입니다.",
-        "en": "[Eorfa]\nI will tell you about the signal jamming chips you just dealt with. Those chips are ones that an Illusion called ^4D4DFFMagic Power Addict Sanare^000000 installed throughout the 2nd Magic Power Plant for the purpose of signal interference.",
-        "pt": "[Eorfa]\nVou falar sobre os chips de interferência que você acabou de lidar. Esses chips são dispositivos que uma Ilusión chamada ^4D4DFF마력중독 Sanare^000000 instalou por toda parte dentro da 2ª Usina de Energia Mágica com o objetivo de causar interferência de transmissão.",
-        "es": "[Eorfa]\nLe hablaré sobre los chips de interferencia que acaba de manejar. Esos chips son instalados por una Illusion llamada ^4D4DFFadicto a la energía mágica Sanare^000000, dentro de la 2.ª Planta de Energía Mágica, con el propósito de interferir las ondas."
+        "en": "[Eorfa]\nI will tell you about the signal jamming chips you just dealt with. Those chips are ones that an Illusion called ^4D4DFFMana Addicted Sanare^000000 installed throughout the 2nd Magic Power Plant for the purpose of signal interference.",
+        "pt": "[Eorfa]\nVou falar sobre os chips que você acabou de lidar. Esses chips são dispositivos que uma Ilusión chamada ^4D4DFFSanare Viciada^000000 instalou por toda parte dentro da Usina de Energia Mágica com o objetivo de causar interferência de transmissão.",
+        "es": "[Eorfa]\nLe hablaré sobre los chips de interferencia que acaba de manejar. Esos chips son instalados por una Illusion llamada ^4D4DFFSanare adicta al mana^000000, dentro de la 2.ª Planta de Energía Mágica, con el propósito de interferir las ondas."
     },
     "fm3QBw": {
         "ko": "[에오르파]\n자동인형 들에게만 치명적으로 작용하는 칩으로 요즘 이 건 때문에 제2 마력 발전소 관리에 큰 지장이 있는 상태입니다.",
         "en": "[Eorfa]\nThey are chips that act lethally only on automata, and because of this matter lately, management of the 2nd Magic Power Plant has been greatly hindered.",
-        "pt": "[Eorfa]\nSão chips que agem de forma fatal apenas em bonecos automáticos, e ultimamente isso tem causado um grande prejuízo à gestão da 2ª Usina de Energia Mágica.",
+        "pt": "[Eorfa]\nSão chips que agem de forma fatal apenas em Autômatas, e ultimamente isso tem causado um grande prejuízo à gestão da Usina de Energia Mágica.",
         "es": "[Eorfa]\nEs un chip que afecta de forma letal solo a las muñecas automáticas, y últimamente, por esto, la administración de la 2.ª Planta de Energía Mágica se ha visto gravemente obstaculizada."
     },
     "f23QBw": {
         "ko": "[에오르파]\n제가 직접 제 2 마력발전소로 들어가서 칩을 회수해 왔지만 처리할 방법이 없었고, 네트워크 장애까지 와서 곤란한 상황이었습니다.",
         "en": "[Eorfa]\nI went into the Second Power Plant myself and retrieved the chips, but there was no way to dispose of them, and then even a network failure occurred, putting me in a difficult situation.",
-        "pt": "[Eorfa]\nEu mesma entrei na Segunda Usina de Energia e recuperei os chips, mas não havia como lidar com eles, e ainda houve uma falha na rede, então a situação estava complicada.",
+        "pt": "[Eorfa]\nEu mesma entrei na Usina e recuperei os chips, mas não havia como batalhar com elas, e ainda houve uma falha na rede, então a situação estava complicada.",
         "es": "[Eorfa]\nYo mismo entré en la Segunda Planta de Energía y recuperé los chips, pero no había forma de procesarlos, y además se produjo una falla de red, así que era una situación difícil."
     },
     "gG3QBw": {
@@ -211,20 +211,20 @@
     },
     "g23QBw": {
         "ko": "[에오르파]\n^4D4DFF마력중독 사나레^000000라는 일루시온들이 발전소 내에 말씀드렸던 전파 방해 칩을 설치하는 중입니다. 이대로 가면 또 기능 고장에 다다를 것입니다.",
-        "en": "[Eorfa]\nThe Illusions called ^4D4DFFMagic Power Addict Sanare^000000 are in the process of installing the signal jamming chips I mentioned inside the power plant. If this continues, it will reach another malfunction.",
-        "pt": "[Eorfa]\nAs Ilusões chamadas ^4D4DFF마력중독 Sanare^000000 estão instalando dentro da usina os chips de interferência de transmissão de que falei. Se continuar assim, chegaremos novamente a uma falha de funcionamento.",
-        "es": "[Eorfa]\nLas ilusiones llamadas ^4D4DFFadicto a la energía mágica Sanare^000000 están instalando dentro de la planta los chips de interferencia de ondas que le mencioné. Si esto sigue así, volverá a llegar a una avería funcional."
+        "en": "[Eorfa]\nThe Illusions called ^4D4DFFMana Addicted Sanare^000000 are in the process of installing the signal jamming chips I mentioned inside the power plant. If this continues, it will reach another malfunction.",
+        "pt": "[Eorfa]\nA membro da Ilusión chamada ^4D4DFFSanare Viciada^000000 está instalando dentro da usina os chips de interferência de transmissão de que falei. Se continuar assim, chegaremos novamente a uma falha de funcionamento.",
+        "es": "[Eorfa]\nLas ilusiones llamadas ^4D4DFFSanare adicta al mana^000000 están instalando dentro de la planta los chips de interferencia de ondas que le mencioné. Si esto sigue así, volverá a llegar a una avería funcional."
     },
     "hG3QBw": {
         "ko": "[에오르파]\n모험가님이 직접 제2 마력 발전소에 들어가셔서 ^4D4DFF감자칩 10개^000000를 회수해 주실 수 있겠습니까?",
         "en": "[Eorfa]\nCould you go into the 2nd Magic Power Plant yourself and retrieve ^4D4DFF10 Potato Chips^000000?",
-        "pt": "[Eorfa]\nVocê poderia entrar pessoalmente na 2ª Usina de Energia Mágica e recuperar ^4D4DFF10 Batata Chips^000000?",
-        "es": "[Eorfa]\n¿Podría el aventurero entrar directamente en la 2.ª Planta de Energía Mágica y recuperar ^4D4DFF10 Patatas Fritas^000000?"
+        "pt": "[Eorfa]\nVocê poderia entrar pessoalmente na Usina de Energia Mágica e recuperar ^4D4DFF10x Chip de Batata^000000?",
+        "es": "[Eorfa]\n¿Podría el trotamundos entrar directamente en la 2.ª Planta de Energía Mágica y recuperar ^4D4DFF10 Patatas Fritas^000000?"
     },
     "hW3QBw": {
         "ko": "승낙한다.",
         "en": "I accept.",
-        "pt": "Aceito.",
+        "pt": "Aceitar.",
         "es": "Acepto."
     },
     "hm3QBw": {
@@ -235,14 +235,14 @@
     },
     "h23QBw": {
         "ko": "[에오르파]\n^4D4DFF마력중독 사나레^000000들이 감자칩을 뿌리기 전에 처치해서 회수하는 것이 가장 확실한 방법입니다.",
-        "en": "[Eorfa]\nThe surest way is to defeat the ^4D4DFFMagic Power Addict Sanare^000000 before they scatter the Potato Chips, and retrieve them.",
-        "pt": "[Eorfa]\nO método mais seguro é derrotar os ^4D4DFF마력중독 Sanare^000000 antes que espalhem os Batata Chips e recuperá-los.",
-        "es": "[Eorfa]\nLa forma más segura es derrotar a los ^4D4DFFadicto a la energía mágica Sanare^000000 y recuperarlas antes de que esparzan las Patatas Fritas."
+        "en": "[Eorfa]\nThe surest way is to defeat the ^4D4DFFMana Addicted Sanare^000000 before they scatter the Potato Chips, and retrieve them.",
+        "pt": "[Eorfa]\nO método mais seguro é derrotar as ^4D4DFFSanare Viciada^000000 antes que espalhem os Chip de Batata por aí.",
+        "es": "[Eorfa]\nLa forma más segura es derrotar a ^4D4DFFSanare adicta al mana^000000 y recuperarlas antes de que esparzan las Patatas Fritas."
     },
     "iG3QBw": {
         "ko": "[에오르파]\n^4D4DFF감자칩 10개^000000를 회수해 주십시오. 그럼 부탁드리겠습니다.",
         "en": "[Eorfa]\nPlease retrieve 10 ^4D4DFFPotato Chips^000000. Then, I will be counting on you.",
-        "pt": "[Eorfa]\nPor favor, recupere ^4D4DFF10 Batata Chips^000000. Então, conto com você.",
+        "pt": "[Eorfa]\nPor favor, recupere ^4D4DFF10x Chip de Batata^000000. Eu conto com você.",
         "es": "[Eorfa]\nPor favor, recupere ^4D4DFF10 Patatas Fritas^000000. Entonces, se lo encargo."
     },
     "iW3QBw": {
@@ -254,25 +254,25 @@
     "im3QBw": {
         "ko": "[에오르파]\n감자칩 10개 수거 확인하였습니다. 해당 생체 칩의 처리를 부탁드립니다.",
         "en": "[Eorfa]\nI have confirmed the collection of 10 Potato Chips. Please take care of processing those bio chips.",
-        "pt": "[Eorfa]\nConfirmo a coleta de 10 Batata Chips. Peço que cuide do processamento do respectivo chip biológico.",
+        "pt": "[Eorfa]\nConfirmo a coleta de 10x Chip de Batata. Peço que cuide do processamento do respectivo chip biológico.",
         "es": "[Eorfa]\nHe confirmado la recolección de 10 Patatas Fritas. Le ruego que se encargue del procesamiento del chip biológico correspondiente."
     },
     "i23QBw": {
         "ko": "- 감자칩 10개를 남김 없이 먹어 치웠다!! -",
         "en": "- I devoured all 10 Potato Chips without leaving a single one!! -",
-        "pt": "- Comeu sem deixar nada, 10 Batata Chips!! -",
+        "pt": "- Você come os 10 Chips de Batata!! -",
         "es": "- ¡¡Se comió sin dejar nada 10 Patatas Fritas!! -"
     },
     "jG3QBw": {
         "ko": "[에오르파]\n감자칩 처리 확인 완료되었습니다. 감사합니다.",
         "en": "[Eorfa]\nProcessing of Potato Chips has been confirmed complete. Thank you.",
-        "pt": "[Eorfa]\nConfirmação concluída do processamento de Batata Chips. Obrigado.",
+        "pt": "[Eorfa]\nConfirmação concluída do processamento de Chip de Batata. Obrigada.",
         "es": "[Eorfa]\nConfirmación completada del procesamiento de Patatas Fritas. Gracias."
     },
     "jW3QBw": {
         "ko": "[에오르파]\n감자칩 10개를 수거하여 저에게 가져와 주시면 됩니다.",
         "en": "[Eorfa]\nAll you need to do is collect 10 Potato Chips and bring them to me.",
-        "pt": "[Eorfa]\nBasta coletar 10 Batata Chips e trazê-los para mim.",
+        "pt": "[Eorfa]\nBasta coletar 10x Chip de Batata e trazê-los para mim.",
         "es": "[Eorfa]\nSolo tiene que recolectar 10 Patatas Fritas y traérmelas."
     },
     "jm3QBw": {
@@ -290,25 +290,25 @@
     "kG3QBw": {
         "ko": "[에오르파]\n저번과 같이 감자칩 10개를 수거해 주실 수 있겠습니까?",
         "en": "[Eorfa]\nCould you collect 10 Potato Chips again, as before?",
-        "pt": "[Eorfa]\nComo da última vez, poderia coletar 10 Batata Chips?",
+        "pt": "[Eorfa]\nComo da última vez, poderia coletar 10x Chip de Batata?",
         "es": "[Eorfa]\nComo la vez anterior, ¿podría recolectar 10 Patatas Fritas?"
     },
     "kW3QBw": {
         "ko": "[에오르파]\n제 2 마력 발전소 안으로 들어가면 마력중독 사나레를 만날 수 있습니다. 그들로부터 감자칩을 회수해주시면 되겠습니다.",
         "en": "[Eorfa]\nIf you go inside the 2nd Magic Power Plant, you can meet the mana-addicted Sanare. Please retrieve the Potato Chips from them.",
-        "pt": "[Eorfa]\nSe você entrar na 2ª Usina de Energia Mágica, poderá encontrar os Sanare viciados em energia mágica. Você só precisa recuperar Batata Chips deles.",
-        "es": "[Eorfa]\nSi entra en la 2.ª Planta de Energía Mágica, podrá encontrarse con los Sanare adictos a la magia. Le agradecería que recuperara Patatas Fritas de ellos."
+        "pt": "[Eorfa]\nSe você entrar na Usina de Energia Mágica, poderá encontrar a Sanare Viciada. Você só precisa recuperar Chip de Batata delas.",
+        "es": "[Eorfa]\nSi entra en la 2.ª Planta de Energía Mágica, podrá encontrarse con Sanare adictas a la magia. Le agradecería que recuperara Patatas Fritas de ellas."
     },
     "km3QBw": {
         "ko": "[에오르파]\n^4D4DFF감자칩^000000 10개만 부탁드립니다. 그럼 기다리고 있겠습니다.",
         "en": "[Eorfa]\nPlease, just 10 ^4D4DFFPotato Chips^000000. Then, I will be waiting.",
-        "pt": "[Eorfa]\nPor favor, apenas 10 ^4D4DFFBatata Chips^000000. Então, estarei esperando.",
+        "pt": "[Eorfa]\nPor favor, apenas ^4D4DFF10x Chip de Batata^000000. Eu estarei esperando.",
         "es": "[Eorfa]\nSolo le pido 10 ^4D4DFFPatatas Fritas^000000. Entonces, estaré esperando."
     },
     "k23QBw": {
         "ko": "[에오르파]\n감자칩 처리 확인 완료되었습니다. 매번 감사드립니다. 가능하시다면 내일 또 들러주십시오.",
         "en": "[Eorfa]\nProcessing of Potato Chips has been confirmed complete. Thank you every time. If you can, please stop by again tomorrow.",
-        "pt": "[Eorfa]\nConfirmação concluída do processamento de Batata Chips. Agradeço sempre. Se for possível, passe aqui novamente amanhã.",
+        "pt": "[Eorfa]\nConfirmação concluída do processamento de Chip de Batata. Agradeço. Se for possível, passe aqui novamente amanhã.",
         "es": "[Eorfa]\nConfirmación completada del procesamiento de Patatas Fritas. Le agradezco cada vez. Si le es posible, vuelva a pasar mañana."
     }
 }

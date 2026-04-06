@@ -1,5 +1,6 @@
 local PNG = 3
 local STR = 4
+local UGC = 5
 FootPrintEffectTable = {
 	[HatEFID.FOOTPRINT_EF_BASE] = {
 		Type = PNG,
@@ -164,6 +165,71 @@ FootPrintEffectTable = {
 		Scale_Bottom = 0.04,
 		Scale_Top = 0.11
 	},
+	[HatEFID.FOOTPRINT_EF_divine] = {
+		Type = STR,
+		StrFile_Bottom_Left = "footprint_divine\\footprint_divine_bottom\\footprint_divine_bottom.str",
+		StrFile_Bottom_Right = "footprint_divine\\footprint_divine_bottom\\footprint_divine_bottom.str",
+		StrFile_Top_Left = "footprint_divine\\footprint_divine\\footprint_divine.str",
+		StrFile_Top_Right = "footprint_divine\\footprint_divine\\footprint_divine.str",
+		Scale_Bottom = 0.04,
+		Scale_Top = 0.11,
+		IsAdjustAngle = true
+	},
+	[HatEFID.FOOTPRINT_EF_nyar_blue] = {
+		Type = STR,
+		StrFile_Bottom_Left = "footprint_nyar_blue\\footprint_nyar_blue_bottom\\footprint_nyar_blue_bottom.str",
+		StrFile_Bottom_Right = "footprint_nyar_blue\\footprint_nyar_blue_bottom\\footprint_nyar_blue_bottom.str",
+		StrFile_Top_Left = "footprint_nyar_blue\\footprint_nyar_blue\\footprint_nyar_blue.str",
+		StrFile_Top_Right = "footprint_nyar_blue\\footprint_nyar_blue\\footprint_nyar_blue.str",
+		Scale_Bottom = 0.04,
+		Scale_Top = 0.11,
+		IsAdjustAngle = true
+	},
+	[HatEFID.FOOTPRINT_EF_nyar_purple] = {
+		Type = STR,
+		StrFile_Bottom_Left = "footprint_nyar_purple\\footprint_nyar_purple_bottom\\footprint_nyar_purple_bottom.str",
+		StrFile_Bottom_Right = "footprint_nyar_purple\\footprint_nyar_purple_bottom\\footprint_nyar_purple_bottom.str",
+		StrFile_Top_Left = "footprint_nyar_purple\\footprint_nyar_purple\\footprint_nyar_purple.str",
+		StrFile_Top_Right = "footprint_nyar_purple\\footprint_nyar_purple\\footprint_nyar_purple.str",
+		Scale_Bottom = 0.04,
+		Scale_Top = 0.11,
+		IsAdjustAngle = true
+	},
+	[HatEFID.FOOTPRINT_EF_feather] = {
+		Type = STR,
+		StrFile_Bottom_Left = "",
+		StrFile_Bottom_Right = "",
+		StrFile_Top_Left = "footprint_feather\\footprint_feather\\footprint_feather.str",
+		StrFile_Top_Right = "footprint_feather\\footprint_feather\\footprint_feather.str",
+		Scale_Bottom = 0.04,
+		Scale_Top = 0.11
+	},
+	[HatEFID.FOOTPRINT_EF_BASIC] = {
+		Type = STR,
+		StrFile_Bottom_Left = "footprint_basic_bottom\\footprint_basic_bottom.str",
+		StrFile_Bottom_Right = "footprint_basic_bottom\\footprint_basic_bottom.str",
+		StrFile_Top_Left = "footprint_basic\\footprint_basic.str",
+		StrFile_Top_Right = "footprint_basic\\footprint_basic.str"
+	},
+	[HatEFID.FOOTPRINT_EF_divine_blue] = {
+		Type = STR,
+		StrFile_Bottom_Left = "footprint_divine_blue\\footprint_divine_blue_bottom\\footprint_divine_blue_bottom.str",
+		StrFile_Bottom_Right = "footprint_divine_blue\\footprint_divine_blue_bottom\\footprint_divine_blue_bottom.str",
+		StrFile_Top_Left = "footprint_divine_blue\\footprint_divine_blue\\footprint_divine_blue.str",
+		StrFile_Top_Right = "footprint_divine_blue\\footprint_divine_blue\\footprint_divine_blue.str",
+		Scale_Bottom = 0.04,
+		Scale_Top = 0.11,
+		IsAdjustAngle = true
+	},
+	[HatEFID.FOOTPRINT_EF_bluestar] = {
+		Type = STR,
+		StrFile_Bottom_Left = "footprint_bluestar\\footprint_bottom_bluestar\\footprint_bottom_blue.str",
+		StrFile_Bottom_Right = "footprint_bluestar\\footprint_bottom_bluestar\\footprint_bottom_blue.str",
+		StrFile_Top_Left = "footprint_bluestar\\footprint_bluestar\\footprint_blue.str",
+		StrFile_Top_Right = "footprint_bluestar\\footprint_bluestar\\footprint_blue.str",
+		Scale_Bottom = 0.06,
+		Scale_Top = 0.15
+	},
 	[HatEFID.FOOTPRINT_EF_phoenix] = {
 		Type = STR,
 		StrFile_Bottom_Left = "footprint_phoenix\\footprint_bottom_phoenix\\footprint_bottom_phoenix.str",
@@ -172,5 +238,15 @@ FootPrintEffectTable = {
 		StrFile_Top_Right = "footprint_phoenix\\footprint_phoenix\\footprint_phoenix.str",
 		Scale_Bottom = 0.04,
 		Scale_Top = 0.11
+	},
+	[HatEFID.FOOTPRINT_EF_flower_garden] = {
+		Type = STR,
+		StrFile_Bottom_Left = "",
+		StrFile_Bottom_Right = "",
+		StrFile_Top_Left = "footprint_flower_garden\\footprint_flower_garden_left\\footprint_flower_garden_left.str",
+		StrFile_Top_Right = "footprint_flower_garden\\footprint_flower_garden_right\\footprint_flower_garden_right.str",
+		Scale_Top = 0.2,
+		Stride = 60,
+		Gap = 0
 	}
 }

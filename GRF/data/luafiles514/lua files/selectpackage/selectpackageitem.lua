@@ -615,6 +615,61 @@ packageitemboxName = {
 		"[Visual] Adeus, G-Force!"
 	},
 	{
+		106920,
+		0,
+		"[Visual] Coque Lateral Duplo (Azul)"
+	},
+	{
+		106920,
+		1,
+		"[Visual] Coque Lateral Duplo (Ruivo)"
+	},
+	{
+		106920,
+		2,
+		"[Visual] Coque Lateral Duplo (Loiro)"
+	},
+	{
+		106920,
+		3,
+		"[Visual] Coque Lateral Duplo (Verde)"
+	},
+	{
+		106920,
+		4,
+		"[Visual] Coque Lateral Duplo (Moreno)"
+	},
+	{
+		106920,
+		5,
+		"[Visual] Coque Lateral Duplo (Branco)"
+	},
+	{
+		106920,
+		6,
+		"[Visual] Coque Lateral Duplo (Castanho)"
+	},
+	{
+		106920,
+		7,
+		"[Visual] Coque Lateral Duplo (Lilás)"
+	},
+	{
+		106930,
+		0,
+		"Asa Dracônica"
+	},
+	{
+		106930,
+		1,
+		"Asa Angelical"
+	},
+	{
+		106930,
+		2,
+		"Óculos de Segurança"
+	},
+	{
 		0,
 		0,
 		"0"
@@ -2227,6 +2282,105 @@ packageitemsetbox = {
 		106302,
 		1,
 		420729,
+		1,
+		0,
+		0,
+		0
+	},
+	{
+		106920,
+		0,
+		400205,
+		1,
+		0,
+		0,
+		0
+	},
+	{
+		106920,
+		1,
+		400206,
+		1,
+		0,
+		0,
+		0
+	},
+	{
+		106920,
+		2,
+		400207,
+		1,
+		0,
+		0,
+		0
+	},
+	{
+		106920,
+		3,
+		400208,
+		1,
+		0,
+		0,
+		0
+	},
+	{
+		106920,
+		4,
+		400209,
+		1,
+		0,
+		0,
+		0
+	},
+	{
+		106920,
+		5,
+		400210,
+		1,
+		0,
+		0,
+		0
+	},
+	{
+		106920,
+		6,
+		400211,
+		1,
+		0,
+		0,
+		0
+	},
+	{
+		106920,
+		7,
+		400212,
+		1,
+		0,
+		0,
+		0
+	},
+	{
+		106930,
+		0,
+		410612,
+		1,
+		0,
+		0,
+		0
+	},
+	{
+		106930,
+		1,
+		410613,
+		1,
+		0,
+		0,
+		0
+	},
+	{
+		106930,
+		2,
+		410614,
 		1,
 		0,
 		0,

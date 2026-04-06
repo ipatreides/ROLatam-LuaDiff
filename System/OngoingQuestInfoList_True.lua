@@ -6985,36 +6985,36 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[3389] = {
-		Title = "Remoção do Chip de Interferência Bioeletrônica",
+		Title = "Interferência Bioeletrônica",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"A remoção do chip foi bem-sucedida, permitindo uma comunicação fluida com Eorfa."
 		},
-		Summary = "Quando o sistema de Eorfa reiniciar, vamos falar com ela."
+		Summary = "Fale com Eorfa"
 	},
 	[3390] = {
-		Title = "Administradora da 2ª Usina de Energia Mágica Eorfa",
+		Title = "Interferência Bioeletrônica",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Vamos tomar as Batata Chips do ^4d4dffViciado em Magia Sanare^000000!"
+			"Dentro da 2ª Usina Mágica, colete 10 Chip de Batata eliminando a ^4D4DFFSanare Viciada^000000 em Magia!"
 		},
-		Summary = "Recupere 10 Batata Chips."
+		Summary = "Colete 10 Chip de Batata"
 	},
 	[3391] = {
-		Title = "Batata Chips espalhadas por Ilusión - Em Espera",
+		Title = "[Espera] Interferência Bioeletrônica",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Esta quest é diária e poderá ser aceita novamente após o tempo de espera. Disponível através de <NAVI>[Eorfa]<INFO>ba_maison,79,278,0,101,0</INFO></NAVI>."
+			"Essa missão pode ser refeita diariamente falando com a <NAVI>[Eorfa]<INFO>ba_maison,79,278,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Reinício às 04:00"
+		Summary = "Reseta às 4 da manhã."
 	},
 	[3392] = {
-		Title = "Batata Chips espalhadas por Ilusión",
+		Title = "Interferência Bioeletrônica",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Vamos tomar as Batata Chips do ^4d4dffViciado em Magia Sanare^000000!"
+			"Dentro da 2ª Usina Mágica, colete 10 Chip de Batata eliminando a ^4D4DFFSanare Viciada^000000!"
 		},
-		Summary = "Recupere 10 Batata Chips."
+		Summary = "Colete 10 Chip de Batata"
 	},
 	[3393] = {
 		Title = "Caçada Real",
@@ -14096,103 +14096,105 @@ QuestInfoList = {
 		}
 	},
 	[5892] = {
-		Title = "Robô de Limpeza ?",
+		Title = "Faxineira Ømega",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"Robô de Limpeza ?"
+			"Você conversou com a Faxineira Ømega."
 		},
-		Summary = "Conversa concluída com Robô de Limpeza ?"
+		Summary = "Conversa feita."
 	},
 	[5893] = {
-		Title = "Limpeza da Estação de Tratamento de Esgoto I",
+		Title = "Faxina no Esgoto I",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Robô de Limpeza ?]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI> está triste por não conseguir limpar.",
-			"Vamos derrotar 44 <NAVI>[Venenum Poluído]<INFO>EP17_2_VENENUM3,0,0,3,-222,1</INFO></NAVI> com ^0000FF??^000000.",
+			"A <NAVI>[Faxineira Ømega]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI>, que adora limpar, não consegue fazer seu serviço.",
+			"Elimine 44 <NAVI>[Venenum Poluído]<INFO>EP17_2_VENENUM3,0,0,3,-222,1</INFO></NAVI>. Eles são encontrados na ^0000FFEstação de Tratamento de Esgoto^000000.",
 			"",
-			"A recompensa só pode ser recebida após concluir Limpeza da Estação de Tratamento de Esgoto I, II e III."
+			"A recompensa só pode ser recebida após concluir todas as 3 missões da Faxineira."
 		},
-		Summary = "44 Venenum Poluído",
+		Summary = "Estação de Tratamento de Esgoto",
 		NpcSpr = "EP17_2_OMEGA_CLEANER"
 	},
 	[5894] = {
-		Title = "Limpeza da Estação de Tratamento de Esgoto II",
+		Title = "Faxina no Esgoto II",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Robô de Limpeza ?]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI> está triste por não conseguir limpar.",
-			"Vamos derrotar 44 <NAVI>[Cãibra Poluído]<INFO>EP17_2_CRAMP,0,0,3,-222,1</INFO></NAVI> com ^0000FF??^000000.",
+			"A <NAVI>[Faxineira Ømega]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI>, que adora limpar, não consegue fazer seu serviço.",
+			"Elimine 44 <NAVI>[Cãibra Poluído]<INFO>EP17_2_CRAMP,0,0,3,-222,1</INFO></NAVI>. Eles são encontrados na ^0000FFEstação de Tratamento de Esgoto^000000.",
 			"",
-			"A recompensa só pode ser recebida após concluir Limpeza da Estação de Tratamento de Esgoto I, II e III."
+			"A recompensa só pode ser recebida após concluir todas as 3 missões da Faxineira."
 		},
-		Summary = "44 Cãibra Poluído",
+		Summary = "Estação de Tratamento de Esgoto",
 		NpcSpr = "EP17_2_OMEGA_CLEANER"
 	},
 	[5895] = {
-		Title = "Limpeza da Estação de Tratamento de Esgoto III",
+		Title = "Faxina no Esgoto III",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Robô de Limpeza ?]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI> está triste por não conseguir limpar.",
-			"Vamos derrotar 44 <NAVI>[Cachoeira Poluída]<INFO>EP17_2_WATERFALL,0,0,3,-222,1</INFO></NAVI> com ^0000FF??^000000.",
+			"A <NAVI>[Faxineira Ømega]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI>, que adora limpar, não consegue fazer seu serviço.",
+			"Elimine 44 <NAVI>[Cachoeira Poluída]<INFO>EP17_2_WATERFALL,0,0,3,-222,1</INFO></NAVI>. Eles são encontrados na ^0000FFEstação de Tratamento de Esgoto^000000.",
 			"",
-			"A recompensa só pode ser recebida após concluir Limpeza da Estação de Tratamento de Esgoto I, II e III."
+			"A recompensa só pode ser recebida após concluir todas as 3 missões da Faxineira."
 		},
-		Summary = "44 Cachoeira Poluída",
+		Summary = "Estação de Tratamento de Esgoto",
 		NpcSpr = "EP17_2_OMEGA_CLEANER"
 	},
 	[5896] = {
-		Title = "[Em Espera] Limpeza da Estação de Tratamento de Esgoto",
+		Title = "[Espera] Faxina no Esgoto",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Após certo tempo,",
-			"a quest Limpeza da Estação de Tratamento de Esgoto pode ser aceita novamente com <NAVI>[Robô de Limpeza ?]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI>."
+			"Após amanhecer,",
+			"a missão pode ser feita novamente com",
+			"a <NAVI>[Faxineira Ømega]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Reinício às 04:00",
+		Summary = "Reseta às 4 da manhã",
 		NpcSpr = "EP17_2_OMEGA_CLEANER"
 	},
 	[5897] = {
-		Title = "Limpeza da 1ª Usina de Energia Mágica I",
+		Title = "Faxina na Usina I",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Robô de Limpeza ?]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI> está triste por não conseguir limpar.",
-			"Vamos derrotar 44 <NAVI>[Bellare Elite]<INFO>EP17_2_BELLARE3,0,0,3,-222,1</INFO></NAVI> com ^0000FF??^000000.",
+			"A <NAVI>[Faxineira Ømega]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI>, que adora limpar, não consegue fazer seu serviço.",
+			"Elimine 44 <NAVI>[Bellare Elite]<INFO>EP17_2_BELLARE3,0,0,3,-222,1</INFO></NAVI>. Eles são encontrados na ^0000FFUsina Mágica de Energia (1)^000000.",
 			"",
-			"A recompensa só pode ser recebida após concluir Limpeza da 1ª Usina de Energia Mágica I, II e III."
+			"A recompensa só pode ser recebida após concluir todas as 3 missões da Faxineira."
 		},
-		Summary = "44 Bellare Elite",
+		Summary = "Usina Mágica (1)",
 		NpcSpr = "EP17_2_OMEGA_CLEANER"
 	},
 	[5898] = {
-		Title = "Limpeza da 1ª Usina de Energia Mágica II",
+		Title = "Faxina na Usina II",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Robô de Limpeza ?]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI> está triste por não conseguir limpar.",
-			"Vamos derrotar 44 <NAVI>[Viciado em Magia Dolor]<INFO>EP17_2_DOLOR3,0,0,3,-222,1</INFO></NAVI> com ^0000FF??^000000.",
+			"A <NAVI>[Faxineira Ømega]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI>, que adora limpar, não consegue fazer seu serviço.",
+			"Elimine 44 <NAVI>[Dolor Viciada]<INFO>EP17_2_DOLOR3,0,0,3,-222,1</INFO></NAVI>. Eles são encontrados na ^0000FFUsina Mágica de Energia (1)^000000.",
 			"",
-			"A recompensa só pode ser recebida após concluir Limpeza da 1ª Usina de Energia Mágica I, II e III."
+			"A recompensa só pode ser recebida após concluir todas as 3 missões da Faxineira."
 		},
-		Summary = "44 Viciado em Magia Dolor",
+		Summary = "Usina Mágica (1)",
 		NpcSpr = "EP17_2_OMEGA_CLEANER"
 	},
 	[5899] = {
-		Title = "Limpeza da 1ª Usina de Energia Mágica III",
+		Title = "Faxina na Usina III",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Robô de Limpeza ?]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI> está triste por não conseguir limpar.",
-			"Vamos derrotar 44 <NAVI>[Magia Liberta]<INFO>EP17_2_PLASMA_Y,0,0,3,-222,1</INFO></NAVI> com ^0000FF??^000000.",
+			"A <NAVI>[Faxineira Ømega]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI>, que adora limpar, não consegue fazer seu serviço.",
+			"Elimine 44 <NAVI>[Magia Liberta]<INFO>EP17_2_PLASMA_Y,0,0,3,-222,1</INFO></NAVI>. Eles são encontrados na ^0000FFUsina Mágica de Energia (1)^000000.",
 			"",
-			"A recompensa só pode ser recebida após concluir Limpeza da 1ª Usina de Energia Mágica I, II e III."
+			"A recompensa só pode ser recebida após concluir todas as 3 missões da Faxineira."
 		},
-		Summary = "44 Magia Liberta",
+		Summary = "Usina Mágica (1)",
 		NpcSpr = "EP17_2_OMEGA_CLEANER"
 	},
 	[5900] = {
-		Title = "[Em Espera] Limpeza da 1ª Usina de Energia Mágica",
+		Title = "[Espera] Faxina na Usina",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Após certo tempo,",
-			"a quest da 1ª Usina de Energia Mágica pode ser aceita novamente com <NAVI>[Robô de Limpeza ?]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI>."
+			"Após amanhecer,",
+			"a missão pode ser feita novamente com",
+			"a <NAVI>[Faxineira Ømega]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Reinício às 04:00",
+		Summary = "Reseta às 4 da manhã",
 		NpcSpr = "EP17_2_OMEGA_CLEANER"
 	},
 	[5901] = {
@@ -23584,47 +23586,47 @@ QuestInfoList = {
 		Summary = "Entregar 30 Pele de Meloring"
 	},
 	[8586] = {
-		Title = "Guia do Estábulo",
+		Title = "Guia sobre Pitayas",
 		Description = {
 			"Dizem que não é permitido entrar no estábulo sem ouvir as instruções e avisos. Vamos ouvir os detalhes com <NAVI>[Luynan]<INFO>ba_maison,311,205,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Conversar com Luynan"
+		Summary = "Converse com Luynan"
 	},
 	[8587] = {
-		Title = "Experiência Diária na Fazenda - Em Espera",
+		Title = "[Espera] Fazenda de Pitayas",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Luynan]<INFO>ba_maison,311,205,0,101,0</INFO></NAVI> sempre estará esperando por você. Volte amanhã para trabalhar novamente e receber sua recompensa."
+			"Essa missão pode ser refeita diariamente falando com a <NAVI>[Luynan]<INFO>ba_maison,311,205,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Reinício às 04:00"
+		Summary = "Reseta às 4 da manhã."
 	},
 	[8588] = {
-		Title = "Coleta de Caudas",
+		Title = "Colheita de Pitaya",
 		Description = {
-			"Entregue as várias caudas de Pitaya coletadas durante a experiência na fazenda para a autômata Seda, responsável pela verificação final."
+			"Durante sua experiência na Fazenda de Pitayas, você deve ter coletado algumas Caudas por aí. Entregue-as para Silka, responsável pela estufa."
 		},
-		Summary = "Entregar as caudas a Seda no final da dungeon"
+		Summary = "Entregue Caudas de Pitaya"
 	},
 	[8589] = {
 		Title = "Árvore de Pitaya!",
 		Description = {
-			"Seda informou Luynan pelo servidor interno, mas ainda irritada, pediu que, como convidado, você faça uma reclamação diretamente a <NAVI>[Luynan]<INFO>ba_maison,311,205,0,101,0</INFO></NAVI>."
+			"Silka informou que você faça uma reclamação diretamente para <NAVI>[Luynan]<INFO>ba_maison,311,205,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Conversar com Luynan"
+		Summary = "Converse com Luynan"
 	},
 	[8590] = {
 		Title = "Brincar com Pitaya Vermelha",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"A autômata <NAVI>[Algodão]<INFO>ba_maison,306,205,0,101,0</INFO></NAVI> quer cumprir sua cota de trabalho a qualquer custo. Ela não hesita nem em impor trabalho aos convidados. Se brincar com 20 Pitaya Vermelhas, Algodão dará uma recompensa."
+			"A autômata <NAVI>[Macieza]<INFO>ba_maison,306,205,0,101,0</INFO></NAVI>, desejando cumprir sua cota de trabalho a qualquer custo, quer que você brinque com 20 Pitaya Vermelhas que estão no mapa normal da Estufa."
 		},
-		Summary = "Derrotar Pitaya Vermelha"
+		Summary = "Estufa de Pitayas"
 	},
 	[8591] = {
 		Title = "Brincar com Pitaya Amarela",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"A autômata <NAVI>[Algodão]<INFO>ba_maison,306,205,0,101,0</INFO></NAVI> quer cumprir sua cota de trabalho a qualquer custo. Ela não hesita nem em impor trabalho aos convidados. Se brincar com 20 Pitaya Amarelas, Algodão dará uma recompensa."
+			"A autômata <NAVI>[Macieza]<INFO>ba_maison,306,205,0,101,0</INFO></NAVI>, desejando cumprir sua cota de trabalho a qualquer custo, quer que você brinque com 20 Pitaya Amarelas que estão no mapa normal da Estufa."
 		},
 		Summary = "Derrotar Pitaya Amarela"
 	},
@@ -23632,7 +23634,7 @@ QuestInfoList = {
 		Title = "Brincar com Pitaya Azul",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"A autômata <NAVI>[Algodão]<INFO>ba_maison,306,205,0,101,0</INFO></NAVI> quer cumprir sua cota de trabalho a qualquer custo. Ela não hesita nem em impor trabalho aos convidados. Se brincar com 20 Pitaya Azuis, Algodão dará uma recompensa."
+			"A autômata <NAVI>[Macieza]<INFO>ba_maison,306,205,0,101,0</INFO></NAVI>, desejando cumprir sua cota de trabalho a qualquer custo, quer que você brinque com 20 Pitaya Azuis que estão no mapa normal da Estufa."
 		},
 		Summary = "Derrotar Pitaya Azul"
 	},
@@ -23640,7 +23642,7 @@ QuestInfoList = {
 		Title = "Brincar com Pitaya Roxa",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"A autômata <NAVI>[Algodão]<INFO>ba_maison,306,205,0,101,0</INFO></NAVI> quer cumprir sua cota de trabalho a qualquer custo. Ela não hesita nem em impor trabalho aos convidados. Se brincar com 20 Pitaya Roxas, Algodão dará uma recompensa."
+			"A autômata <NAVI>[Macieza]<INFO>ba_maison,306,205,0,101,0</INFO></NAVI>, desejando cumprir sua cota de trabalho a qualquer custo, quer que você brinque com 20 Pitaya Roxas que estão no mapa normal da Estufa."
 		},
 		Summary = "Derrotar Pitaya Roxa"
 	},
@@ -23648,17 +23650,17 @@ QuestInfoList = {
 		Title = "Brincar com Pitaya Verde",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"A autômata <NAVI>[Algodão]<INFO>ba_maison,306,205,0,101,0</INFO></NAVI> quer cumprir sua cota de trabalho a qualquer custo. Ela não hesita nem em impor trabalho aos convidados. Se brincar com 20 Pitaya Verdes, Algodão dará uma recompensa."
+			"A autômata <NAVI>[Macieza]<INFO>ba_maison,306,205,0,101,0</INFO></NAVI>, desejando cumprir sua cota de trabalho a qualquer custo, quer que você brinque com 20 Pitaya Verdes que estão no mapa normal da Estufa."
 		},
 		Summary = "Derrotar Pitaya Verde"
 	},
 	[8595] = {
-		Title = "Brincar com Pitaya - Em Espera",
+		Title = "[Espera] Brincar com Pitayas",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Algodão]<INFO>ba_maison,306,205,0,101,0</INFO></NAVI> sempre estará esperando por você. Volte amanhã para trabalhar novamente e receber sua recompensa."
+			"Essa missão pode ser refeita diariamente falando com a <NAVI>[Macieza]<INFO>ba_maison,306,205,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Reinício às 04:00"
+		Summary = "Reseta às 4 da manhã."
 	},
 	[8604] = {
 		Title = "Solicitação do Departamento de Paisagismo da Verus",
@@ -32174,68 +32176,68 @@ QuestInfoList = {
 		Summary = ""
 	},
 	[11615] = {
-		Title = "O Retardatário do Esgoto",
+		Title = "O Legado do Sábio",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"A pessoa que caiu na água parece estar incapacitada. Vamos usar uma Folha de Yggdrasil para ajudá-la."
+			"A pessoa que caiu na água parece estar incapacitada. Vamos usar uma Folha de Yggdrasil para ajudá-la quando <NAVI>[voltar]<INFO>ba_pw02,93,93,0,101,0</INFO></NAVI>"
 		},
 		Summary = "1 Folha de Yggdrasil"
 	},
 	[11616] = {
-		Title = "O Retardatário do Esgoto",
+		Title = "O Legado do Sábio",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"O grupo de Du Lian também recebeu um pedido da Rebellion para investigar a mansão. Vamos nos reunir com os outros."
+			"O grupo de Du Lian também recebeu um pedido da Rebelião para investigar a mansão. Vamos nos reunir com <NAVI>[os outros]<INFO>ba_pw01,14,115,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Ir até onde se ouve a voz de Maggi"
+		Summary = "Encontre Maggi"
 	},
 	[11617] = {
-		Title = "O Retardatário do Esgoto",
+		Title = "O Legado do Sábio",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Encontramos a porta que leva para cima. Vamos seguir juntos."
+			"Encontramos a porta que leva para cima. Vamos seguir <NAVI>[juntos]<INFO>ba_pw01,87,290,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Ir até onde está Alp"
 	},
 	[11618] = {
-		Title = "O Retardatário do Esgoto",
+		Title = "O Legado do Sábio",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Parece que finalmente chegamos à superfície. Vamos conversar com Lasis."
+			"Parece que finalmente chegamos à superfície. Vamos conversar com <NAVI>[Larcis]<INFO>ba_in01,20,319,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Conversar com Lasis"
+		Summary = "Converse com Larcis"
 	},
 	[11620] = {
-		Title = "O Retardatário do Esgoto",
+		Title = "O Legado do Sábio",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"A porta interna parece estar trancada. Vamos sair e conversar com o grupo."
+			"A porta interna parece estar trancada. Vamos sair e conversar com o <NAVI>[Tamarin]<INFO>ba_maison,70,145,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Conversar com Tamarin"
+		Summary = "Converse com Tamarin"
 	},
 	[11621] = {
 		Title = "Silêncio na Biblioteca!",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Du Lian correu de repente para onde está <NAVI>[Fonte]<INFO>ba_maison,85,111,0,101,0</INFO></NAVI>. Vamos seguí-lo."
+			"Du Lian correu de repente para onde está a <NAVI>[Fonte]<INFO>ba_maison,85,111,0,101,0</INFO></NAVI>. Vamos seguí-lo."
 		},
-		Summary = "Verificar Fonte"
+		Summary = "Vá até a Fonte"
 	},
 	[11622] = {
 		Title = "Silêncio na Biblioteca!",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Vamos investigar a <NAVI>[Biblioteca]<INFO>ba_in01,211,177,0,101,0</INFO></NAVI>, que desperta a curiosidade de todos."
+			"Vamos investigar a <NAVI>[Biblioteca]<INFO>ba_in01,211,177,0,101,0</INFO></NAVI>, que despertou a curiosidade de todos."
 		},
-		Summary = "Entrar na Biblioteca"
+		Summary = "Entre na Biblioteca"
 	},
 	[11623] = {
 		Title = "Silêncio na Biblioteca!",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Apagamos o fogo na frente da porta e entramos na biblioteca. Vamos conversar com <NAVI>[Gerente da Biblioteca Beta]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
+			"Apagamos o fogo na frente da porta e entramos na biblioteca. Vamos conversar com a <NAVI>[Bibliotecária Beta]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Conversar com Gerente da Biblioteca Beta"
+		Summary = "À Bibliotecária Beta"
 	},
 	[11624] = {
 		Title = "Silêncio na Biblioteca!",
@@ -32243,7 +32245,7 @@ QuestInfoList = {
 		Description = {
 			"É necessário um registro adicional para utilizar a biblioteca. Vamos falar com <NAVI>[Mark]<INFO>ba_lib,84,85,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Conversar com Mark na biblioteca"
+		Summary = "Encontre Mark"
 	},
 	[11625] = {
 		Title = "Silêncio na Biblioteca!",
@@ -32251,7 +32253,7 @@ QuestInfoList = {
 		Description = {
 			"É necessário um registro adicional para utilizar a biblioteca. Vamos falar com <NAVI>[Maggi]<INFO>ba_lib,112,266,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Conversar com Maggi na biblioteca"
+		Summary = "Encontre Maggi"
 	},
 	[11626] = {
 		Title = "Silêncio na Biblioteca!",
@@ -32259,7 +32261,7 @@ QuestInfoList = {
 		Description = {
 			"É necessário um registro adicional para utilizar a biblioteca. Vamos falar com <NAVI>[Alp]<INFO>ba_lib,293,234,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Conversar com Alp na biblioteca"
+		Summary = "Encontre Alp"
 	},
 	[11627] = {
 		Title = "Silêncio na Biblioteca!",
@@ -32267,7 +32269,7 @@ QuestInfoList = {
 		Description = {
 			"É necessário um registro adicional para utilizar a biblioteca. Vamos falar com <NAVI>[Tamarin]<INFO>ba_lib,96,208,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Conversar com Tamarin na biblioteca"
+		Summary = "Encontre Tamarin"
 	},
 	[11628] = {
 		Title = "Silêncio na Biblioteca!",
@@ -32275,96 +32277,96 @@ QuestInfoList = {
 		Description = {
 			"É necessário um registro adicional para utilizar a biblioteca. Vamos falar com <NAVI>[Oliver]<INFO>ba_lib,199,233,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Conversar com Oliver na biblioteca"
+		Summary = "Encontre Oliver"
 	},
 	[11629] = {
 		Title = "Silêncio na Biblioteca!",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Conversamos com Mark. Após falar com os demais membros, retornemos a <NAVI>[Gerente da Biblioteca Beta]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
+			"Conversamos com Mark. Após falar com os demais membros, retornemos a <NAVI>[Bibliotecária Beta]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Ir até Gerente da Biblioteca Beta"
+		Summary = "Ir até Bibliotecária Beta"
 	},
 	[11630] = {
 		Title = "Silêncio na Biblioteca!",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Conversamos com Magi. Após falar com os demais membros, retornemos a <NAVI>[Gerente da Biblioteca Beta]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
+			"Conversamos com Magi. Após falar com os demais membros, retornemos a <NAVI>[Bibliotecária Beta]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Ir até Gerente da Biblioteca Beta"
+		Summary = "Ir até Bibliotecária Beta"
 	},
 	[11631] = {
 		Title = "Silêncio na Biblioteca!",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Conversamos com Alf. Após falar com os demais membros, retornemos a <NAVI>[Gerente da Biblioteca Beta]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
+			"Conversamos com Alp. Após falar com os demais membros, retornemos a <NAVI>[Bibliotecária Beta]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Ir até Gerente da Biblioteca Beta"
+		Summary = "Ir até Bibliotecária Beta"
 	},
 	[11632] = {
 		Title = "Silêncio na Biblioteca!",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Conversamos com Tamarin. Após falar com os demais membros, retornemos a <NAVI>[Gerente da Biblioteca Beta]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
+			"Conversamos com Tamarin. Após falar com os demais membros, retornemos a <NAVI>[Bibliotecária Beta]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Ir até Gerente da Biblioteca Beta"
+		Summary = "Ir até Bibliotecária Beta"
 	},
 	[11633] = {
 		Title = "Silêncio na Biblioteca!",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Conversamos com Oliver. Após falar com os demais membros, retornemos a <NAVI>[Gerente da Biblioteca Beta]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
+			"Conversamos com Oliver. Após falar com os demais membros, retornemos a <NAVI>[Bibliotecária Beta]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Ir até Gerente da Biblioteca Beta"
+		Summary = "Ir até Bibliotecária Beta"
 	},
 	[11634] = {
-		Title = "Caça Suprema à Traça-de-Livro",
+		Title = "Limpeza da Biblioteca",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Parece que a administração da biblioteca está tendo dificuldades por causa das Traça-de-Livro que roem os grimórios. Derrote as Traça-de-Livro e retorne a <NAVI>[Gerente da Biblioteca Beta]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
+			"Parece que a administração da biblioteca está tendo dificuldades por causa das Traça-de-Livro que destroem as páginas. Derrote as Traça-de-Livro e retorne a <NAVI>[Bibliotecária Beta]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Caçar 20 Traça-de-Livro"
+		Summary = "Corredor de Memórias"
 	},
 	[11635] = {
-		Title = "Caça Suprema à Traça-de-Livro",
+		Title = "[Espera] Limpeza da Biblioteca",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Esta quest é diária e pode ser aceita novamente após o tempo de espera através de <NAVI>[Gerente da Biblioteca Beta]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
+			"Essa missão pode ser refeita diariamente falando com a <NAVI>[Bibliotecária Beta]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Reinício às 04:00",
+		Summary = "Reseta às 4 da manhã.",
 		CoolTimeQuest = 1
 	},
 	[11636] = {
-		Title = "Organização Suprema de Livros",
+		Title = "Organizando Livros",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"As estantes estão em desordem por causa dos grimórios errantes que saíram delas. Recupere Grimório Errante e retorne a <NAVI>[Gerente da Biblioteca Beta]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
+			"As estantes estão em desordem por causa dos Grimórios Errantes que vagam por aí. Recupere os livros e retorne a <NAVI>[Bibliotecária Beta]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Recuperar 20 Grimório Errante"
+		Summary = "Corredor de Memórias"
 	},
 	[11637] = {
-		Title = "Organização Suprema de Livros",
+		Title = "[Espera] Organizando Livros",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Esta quest é diária e pode ser aceita novamente após o tempo de espera através de <NAVI>[Gerente da Biblioteca Beta]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
+			"Essa missão pode ser refeita diariamente falando com a <NAVI>[Bibliotecária Beta]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Reinício às 04:00"
+		Summary = "Reseta às 4 da manhã."
 	},
 	[11638] = {
-		Title = "Coleta Suprema de Sucata",
+		Title = "Coletando Sucatas",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Dizem que é possível reparar o Guardião recuperando suas peças quebradas. Recupere as peças do Guardião e retorne a Tamarin em frente ao 1º Laboratório."
+			"Dizem que é possível reparar o Guardião recuperando suas peças quebradas. Recupere as peças do Guardião e retorne a <NAVI>[Tamarin]<INFO>ba_maison,70,145,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Recuperar 20 Remanescentes do Guardião"
+		Summary = "Jardim da Mansão"
 	},
 	[11639] = {
-		Title = "Coleta Suprema de Sucata",
+		Title = "[Espera] Coletando Sucatas",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Esta quest é diária e pode ser aceita novamente após o tempo de espera através de <NAVI>[Tamarin]<INFO>ba_maison,70,145,0,101,0</INFO></NAVI>."
+			"Essa missão pode ser refeita diariamente falando com o <NAVI>[Tamarin]<INFO>ba_maison,70,145,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Reinício às 04:00"
+		Summary = "Reseta às 4 da manhã."
 	},
 	[11650] = {
 		Title = "Jakk e a Pequena História Estranha do Jakk Esquisito",
@@ -36603,76 +36605,76 @@ QuestInfoList = {
 		Summary = "Fim da conversa"
 	},
 	[12493] = {
-		Title = "[Espera] Consequências do desafio",
+		Title = "Efeitos colaterais do desafio",
 		Description = {
-			"Uma vez inscrito, você não poderá refazer o desafio do Modo Desafio de Glastheim antes de decorridos 3 dias."
+			"Este efeito colateral é acompanhado por uma profunda sensação de impotência. Após entrar uma vez, não é possível desafiar novamente o Modo Desafio de Glast Heim antes de passarem 3 dias."
 		},
-		Summary = "Reseta em 3 dias às 4 horas da manhã"
+		Summary = "Reinicia às 04:00 após 3 dias"
 	},
 	[12494] = {
-		Title = "Explicação completa",
+		Title = "Explicação concluída",
 		Description = {
-			"Você ouviu sobre o espaço-tempo distorcido do Oscar?"
+			"Você ouviu a explicação sobre o espaço-tempo distorcido de Oscar."
 		},
-		Summary = "Explicação sobre a audiência concluída"
+		Summary = "Não pode ser ouvido novamente"
 	},
 	[12495] = {
-		Title = "Desafio arriscado",
+		Title = "Desafio perigoso",
 		Description = {
-			"Você é a única pessoa que pode impedir que a dimensão contaminada contamine este mundo."
+			"Você é a única pessoa capaz de impedir que a Dimensão Contaminada corrompa este mundo."
 		},
-		Summary = "Purificação de contaminação dimensional"
+		Summary = "Purificar a contaminação dimensional"
 	},
 	[12496] = {
-		Title = "Aguardando Permissão de Entrada no Jardim",
+		Title = "[Espera] Jardim Secreto",
 		Description = {
-			"Esta Memorial Dungeon pode ser acessada novamente após o tempo de espera através de <NAVI>[Responsável pela Entrada na Área de Segurança]<INFO>ba_maison,120,321,0,101,0</INFO></NAVI>."
+			"Essa missão pode ser refeita diariamente falando com a responsável pela entrada na <NAVI>[Zona de Segurança]<INFO>ba_maison,120,321,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Aguardando Permissão de Entrada"
+		Summary = "Volte amanhã"
 	},
 	[12497] = {
-		Title = "Permissão de Entrada na Área de Segurança",
+		Title = "Permissão de Entrada na Zona de Segurança",
 		Description = {
-			"A entrada na Área de Segurança foi autorizada."
+			"A entrada na Zona de Segurança foi autorizada."
 		},
-		Summary = "Permissão de Entrada na Área de Segurança"
+		Summary = "Permissão de Entrada na Zona de Segurança"
 	},
 	[12498] = {
-		Title = "Aguardando Permissão de Entrada na Área de Segurança",
+		Title = "[Espera] Zona de Segurança",
 		Description = {
-			"Esta Memorial Dungeon pode ser acessada novamente após o tempo de espera através de <NAVI>[Responsável pela Entrada na Área de Segurança]<INFO>ba_maison,120,321,0,101,0</INFO></NAVI>."
+			"Essa missão pode ser refeita diariamente falando com a responsável pela entrada na <NAVI>[Zona de Segurança]<INFO>ba_maison,120,321,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Tempo de Espera Restante: 1 dia"
+		Summary = "Retorne após 1 dia."
 	},
 	[12499] = {
-		Title = "Subjugar Pimentinha-Kappa",
+		Title = "Enfrentar Kappa",
 		Description = {
-			"É preciso subjugar Pimentinha Kappa, um dos três administradores da Área de Segurança, e tomar sua autoridade. Claro, com o tempo ele se recuperará..."
+			"É preciso subjugar Pimentinha Kappa, um dos três administradores da Zona de Segurança, e tomar sua autoridade. Claro, com o tempo ele se recuperará..."
 		},
-		Summary = "Ganhar Tempo"
+		Summary = "Zona de Segurança 1"
 	},
 	[12500] = {
-		Title = "Subjugar Pimentinha-Ramda",
+		Title = "Enfrentar Lambda",
 		Description = {
-			"É preciso subjugar Pimentinha Ramda, um dos três administradores da Área de Segurança, e tomar sua autoridade. Claro, com o tempo ele se recuperará..."
+			"É preciso subjugar Pimentinha Lambda, um dos três administradores da Zona de Segurança, e tomar sua autoridade. Claro, com o tempo ele se recuperará..."
 		},
-		Summary = "Ganhar Tempo"
+		Summary = "Zona de Segurança 2"
 	},
 	[12501] = {
-		Title = "Eliminar o Phantom em Glastheim",
+		Title = "Eliminar a ilusão de Glastheim",
 		Description = {
-			"Elimine pelo menos um dos dois Phantoms em Glastheim",
-			"^0000ffVocê pode concluir essa missão mesmo se eliminar apenas um deles^000000"
+			"Você deve eliminar uma das duas ilusões em Glastheim.",
+			"^0000ffEsta missão será concluída para todos ao derrotar apenas uma das duas^000000"
 		},
-		Summary = "Eliminar o Phantom Amdarais"
+		Summary = "Fantasma de Amdarais"
 	},
 	[12502] = {
-		Title = "Eliminar o Phantom em Glastheim",
+		Title = "Eliminar a ilusão de Glastheim",
 		Description = {
-			"Elimine pelo menos um dos dois Phantoms em Glastheim",
-			"^0000ffVocê pode concluir essa missão mesmo se eliminar apenas um deles^000000"
+			"Você deve eliminar uma das duas ilusões em Glastheim.",
+			"^0000ffEsta missão será concluída para todos ao derrotar apenas uma das duas^000000"
 		},
-		Summary = "Eliminar o Phantom Himmelmez"
+		Summary = "Ilusão de Hemelmez"
 	},
 	[12508] = {
 		Title = "Inscreva-se no Dragon's Test",
@@ -43357,7 +43359,7 @@ QuestInfoList = {
 		Summary = "Retorno a Yulata"
 	},
 	[16262] = {
-		Title = "Procura Feliz-Espera",
+		Title = "[Espera] Procura Feliz-Espera",
 		Description = {
 			"Essas missões são diárias e podem ser recebidas após o término do tempo de resfriamento. Você pode receber missões por meio do Membro do Festival das Mascotes."
 		}
@@ -43968,283 +43970,307 @@ QuestInfoList = {
 		Summary = "Reserva de Espaço"
 	},
 	[16388] = {
-		Title = "Primeiro caminho",
+		Title = "Primeira Jornada",
+		IconName = "ico_nq.bmp",
 		Description = {
-			"Participou da tradução do Virtual Record pela primeira vez."
+			"Participou da interpretação do Registro Virtual pela primeira vez."
 		},
-		Summary = "Primeira tradução"
+		Summary = "Primeira participação na interpretação"
 	},
 	[16389] = {
-		Title = "Primeiro caminho - Expedição recusada",
+		Title = "Primeira Jornada - Recusar Exploração",
+		IconName = "ico_nq.bmp",
 		Description = {
-			"Recusou-se a participar da tradução do Registro Virtual."
+			"Recusou participar da interpretação do Registro Virtual."
 		},
-		Summary = "Recusou-se a participar da tradução"
+		Summary = "Recusa de participação"
 	},
 	[16390] = {
-		Title = "[Espera] Caminho da expedição",
+		Title = "Jornada da Expedição - Aguardando",
+		IconName = "ico_nq.bmp",
 		Description = {
-			"Uma missão diária. Pode ser repetida após o tempo de espera."
+			"Esta missão é diária e pode ser aceita novamente após o tempo de espera expirar."
 		},
-		Summary = "Reseta 4 da manhã"
+		Summary = "Reinicia às 04:00"
 	},
 	[16391] = {
-		Title = "?",
-		Description = {"?"},
-		Summary = "?"
+		Title = "???",
+		IconName = "ico_nq.bmp",
+		Description = {"?????"},
+		Summary = "???"
 	},
 	[16392] = {
-		Title = "Caminho da expedição - Recompensa",
+		Title = "Jornada da Expedição - Recompensa",
+		IconName = "ico_nq.bmp",
 		Description = {
-			"Obteve um prêmio de participação em tradução."
+			"Recebeu a recompensa por participar da interpretação."
 		},
-		Summary = "Recompensa obtida"
+		Summary = "Receber recompensa"
 	},
 	[16393] = {
-		Title = "Caminho da expedição - Laboratório do espadachim",
+		Title = "Jornada da Expedição - Laboratório de Espadachins",
+		IconName = "ico_nq.bmp",
 		Description = {
-			"Participou da expedição do Swordsman Lab."
+			"Participou da exploração do Laboratório de Espadachins."
 		},
-		Summary = "Expedição do laboratório Swordsman"
+		Summary = "Exploração do Laboratório de Espadachins"
 	},
 	[16394] = {
-		Title = "Caminho da expedição - Laboratório de acólitos",
+		Title = "Jornada da Expedição - Laboratório de Copistas",
+		IconName = "ico_nq.bmp",
 		Description = {
-			"Participou da expedição do Acolyte Lab."
+			"Participou da exploração do Laboratório de Copistas."
 		},
-		Summary = "Expedição do laboratório de acólitos"
+		Summary = "Exploração do Laboratório de Copistas"
 	},
 	[16395] = {
-		Title = "Caminho da expedição - Laboratório de ladrões",
+		Title = "Jornada da Expedição - Laboratório de Ladrões",
+		IconName = "ico_nq.bmp",
 		Description = {
-			"Participou da expedição do Thief Lab."
+			"Participou da exploração do Laboratório de Ladrões."
 		},
-		Summary = "Expedição do Thief Lab"
+		Summary = "Exploração do Laboratório de Ladrões"
 	},
 	[16396] = {
-		Title = "Caminho da expedição - Laboratório de Magia",
+		Title = "Jornada da Expedição - Laboratório de Magos",
+		IconName = "ico_nq.bmp",
 		Description = {
-			"Participou da expedição do Mage Lab."
+			"Participou da exploração do Laboratório de Magos."
 		},
-		Summary = "Expedição do Laboratório de Magia"
+		Summary = "Exploração do Laboratório de Magos"
 	},
 	[16397] = {
-		Title = "Caminho da expedição - Laboratório do Mercador",
+		Title = "Jornada da Expedição - Laboratório de Mercadores",
+		IconName = "ico_nq.bmp",
 		Description = {
-			"Participou da expedição do Merchant Lab."
+			"Participou da exploração do Laboratório de Mercadores."
 		},
-		Summary = "Expedição do Merchant Lab"
+		Summary = "Exploração do Laboratório de Mercadores"
 	},
 	[16398] = {
-		Title = "Caminho da expedição - Laboratório Archer",
+		Title = "Jornada da Expedição - Laboratório de Arqueiros",
+		IconName = "ico_nq.bmp",
 		Description = {
-			"Participou da expedição do Archer Lab."
+			"Participou da exploração do Laboratório de Arqueiros."
 		},
-		Summary = "Expedição do Laboratório Archer"
+		Summary = "Exploração do Laboratório de Arqueiros"
 	},
 	[16399] = {
-		Title = "Caminho da expedição",
+		Title = "Jornada de Exploração",
+		IconName = "ico_nq.bmp",
 		Description = {
-			"Ingressou na tradução do Registro Virtual no modo Expedição."
+			"Participou da interpretação do Registro Virtual no modo exploração."
 		},
-		Summary = "Entrou no modo Expedição"
+		Summary = "Modo exploração",
+		RewardEXP = "",
+		RewardJEXP = "",
+		RewardItemList = {
+			{ItemID = 25787, ItemNum = 2}
+		}
 	},
 	[16400] = {
-		Title = "Caminho de batalha",
+		Title = "Jornada de Combate",
+		IconName = "ico_nq.bmp",
 		Description = {
-			"Ingressou na tradução do Registro Virtual no modo Batalha."
+			"Participou da interpretação do Registro Virtual no modo combate."
 		},
-		Summary = "Ingressou no modo de batalha"
+		Summary = "Modo combate",
+		RewardEXP = "",
+		RewardJEXP = "",
+		RewardItemList = {
+			{ItemID = 25787, ItemNum = 5},
+			{ItemID = 25786, ItemNum = 3}
+		}
 	},
 	[16404] = {
-		Title = "Exploração feliz dos ovos",
+		Title = "Festival das Mascotes",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"O festival começou. Vamos ouvir sobre ele com <NAVI>[Comitê do Festival]<INFO>yuno.gat,175,162,0,101,0</INFO></NAVI> Yurata."
+			"O Festival das Mascotes começou. Fale com <NAVI>[Yulata]<INFO>yuno.gat,175,162,0,101,0</INFO></NAVI> primeiro."
 		},
-		Summary = "Participe do Egg Fstival"
+		Summary = "Inscreva-se"
 	},
 	[16405] = {
-		Title = "[Espera] Exploração do Happy Egg",
+		Title = "[Espera] Procura Feliz",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Essa é uma missão diária e pode ser recebida novamente amanhã. Você pode iniciar uma missão novamente em <NAVI>[Comitê do Festival]<INFO>yuno.gat,175,162,0,101,0</INFO></NAVI> Yurata."
+			"Esta missão é diária e você pode refazê-la novamente. Quando o tempo de espera expirar, basta falar com <NAVI>[Yulata]<INFO>yuno.gat,175,162,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Reseta 4 da manhã"
+		Summary = "Volte amanhã"
 	},
 	[16406] = {
-		Title = "Exploração feliz dos ovos",
+		Title = "Procura Feliz",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"O festival continua. Quebre 3 ovos felizes escondidos em masmorras e campos e volte para <NAVI>[Comitê do Festival]<INFO>yuno.gat,175,162,0,101,0</INFO></NAVI> Yurata."
+			"Elimine 3 Ovos Decorado espalhados por Midgard e volte a falar com <NAVI>[Yulata]<INFO>yuno.gat,175,162,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Participe do Egg Festival"
+		Summary = "Elimine"
 	},
 	[16407] = {
-		Title = "[Espera] Decoração Happy Clover",
+		Title = "[Espera] Coleta Feliz",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Essa é uma missão diária e pode ser recebida novamente amanhã. Você pode iniciar uma missão novamente em <NAVI>[Festival Decoration Planner]<INFO>yuno.gat,165,153,0,101,0</INFO></NAVI>."
+			"Esta missão é diária e você pode refazê-la novamente. Quando o tempo de espera expirar, basta falar com <NAVI>[Lulufante]<INFO>yuno.gat,165,153,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Reseta 4 da manhã"
+		Summary = "Volte amanhã"
 	},
 	[16408] = {
-		Title = "Decoração Happy Clover",
+		Title = "Coleta Feliz",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"O festival continua. Cace 3 lunáticos escondidos em masmorras e campos e obtenha 3 <ITEM>[Happy three-leaf clover]<INFO>25295</INFO></ITEM> e retorne ao <NAVI>[Festival Decoration Planner]<INFO>yuno.gat,165,153,0,101,0</INFO></NAVI>."
+			"Elimine 3 Lunáticos de Trevo e traga 3 <ITEM>[Trevos da Felicidade]<INFO>25295</INFO></ITEM> para <NAVI>[Lulufante]<INFO>yuno.gat,165,153,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Decoração Join Clover"
+		Summary = "3 Trevos da Felicidade"
 	},
 	[16409] = {
-		Title = "[Espera] Decoração Happy Clover",
+		Title = "[Espera] Doce Feliz",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Essa é uma missão diária e pode ser recebida novamente amanhã. Você pode iniciar uma missão novamente em <NAVI>[Zillean]<INFO>yuno.gat,142,163,0,101,0</INFO></NAVI>."
+			"Esta missão é diária e você pode refazê-la novamente. Quando o tempo de espera expirar, basta falar com <NAVI>[Gillian]<INFO>yuno.gat,142,163,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Reseta 4 da manhã"
+		Summary = "Volte amanhã"
 	},
 	[16410] = {
-		Title = "Entregar Happy Almond",
+		Title = "Doce Feliz 1",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Vamos receber um balde de amêndoas do Ezlude's <NAVI>[Farmer Sheran]<INFO>izlude.gat,164,148,0,101,0</INFO></NAVI>."
+			"Encontre <NAVI>[Sheran]<INFO>izlude.gat,164,148,0,101,0</INFO></NAVI> em Izlude."
 		},
-		Summary = "Receber amêndoas"
+		Summary = "1 Amêndoas"
 	},
 	[16411] = {
-		Title = "Entregue o Happy Chocolate",
+		Title = "Doce Feliz 2",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Vamos receber um pouco de chocolate da Prontera's <NAVI>[Patissier Ian]<INFO>prontera.gat,268,156,0,101,0</INFO></NAVI>."
+			"Encontre <NAVI>[Yana]<INFO>prontera.gat,268,156,0,101,0</INFO></NAVI> em Prontera."
 		},
-		Summary = "Receber chocolate"
+		Summary = "1 Chocolate"
 	},
 	[16412] = {
-		Title = "Entregar Happy Almond",
+		Title = "Doce Feliz",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Acabei de receber um balde de amêndoas do fazendeiro Sheran em Ezlude. Vamos pegar alguns chocolates também e voltar para <NAVI>[Zillean]<INFO>yuno.gat,142,163,0,101,0</INFO></NAVI>."
+			"Já falei com Sheran, em Izlude. Volte para <NAVI>[Gillian]<INFO>yuno.gat,142,163,0,101,0</INFO></NAVI> se já falou com Yana."
 		},
-		Summary = "Entregar amêndoas"
+		Summary = "Entrega de Amêndoas"
 	},
 	[16413] = {
-		Title = "Entregue o Happy Chocolate",
+		Title = "Doce Feliz",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Acabei de receber alguns chocolates do Patissier Ian. Vamos pegar algumas amêndoas e voltar para <NAVI>[Zillean]<INFO>yuno.gat,142,163,0,101,0</INFO></NAVI>."
+			"Já falei com Yana, em Prontera. Volte para <NAVI>[Gillian]<INFO>yuno.gat,142,163,0,101,0</INFO></NAVI> se já falou com Sheran."
 		},
-		Summary = "Entregar chocolates"
+		Summary = "Entrega de Chocolate"
 	},
 	[16414] = {
-		Title = "Happy Cutepet Walk-Hold",
+		Title = "[Espera] Passeio Feliz",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Essa é uma missão diária e pode ser recebida novamente amanhã. Você pode iniciar uma missão novamente em <NAVI>[Seirum]<INFO>yuno.gat,150,155,0,101,0</INFO></NAVI>."
+			"Esta missão é diária e você pode refazê-la novamente. Quando o tempo de espera expirar, basta falar com <NAVI>[Sarum]<INFO>yuno.gat,150,155,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Reseta 4 da manhã"
+		Summary = "Volte amanhã"
 	},
 	[16415] = {
-		Title = "Passeio feliz com o Cutepet",
+		Title = "Passeio Feliz",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Vamos escolher um Cutepet e sair para passear."
+			"Fale com o Bichinho de Estimação que você selecionou e siga a trilha."
 		},
-		Summary = "Passeio com Cutepet"
+		Summary = "Fale com a Mascote"
 	},
 	[16416] = {
-		Title = "Passeio feliz com o Cutepet",
+		Title = "Passeio Feliz 1",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Vamos caminhar com Cutepet até o primeiro <NAVI>[ponto]<INFO>yuno,195,302,0,101,0</INFO></NAVI>."
+			"Vamos passear com o bichinho de estimação até a <NAVI>[primeira parada]<INFO>yuno,195,302,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Caminhe até o primeiro ponto"
+		Summary = "Siga a trilha"
 	},
 	[16417] = {
-		Title = "Passeio feliz com o Cutepet",
+		Title = "Passeio Feliz 2",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Vamos caminhar com Cutepet até o segundo <NAVI>[ponto]<INFO>yuno,342,156,0,101,0</INFO></NAVI>."
+			"Vamos passear com o bichinho de estimação até a <NAVI>[segunda parada]<INFO>yuno,343,257,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Caminhe até o segundo ponto"
+		Summary = "Siga a trilha"
 	},
 	[16418] = {
-		Title = "Passeio feliz com o Cutepet",
+		Title = "Passeio Feliz 3",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Vamos caminhar com Cutepet até o terceiro <NAVI>[ponto]<INFO>yuno,282,102,0,101,0</INFO></NAVI>."
+			"Vamos passear com o bichinho de estimação até a <NAVI>[terceira parada]<INFO>yuno,282,102,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Caminhe até o terceiro ponto"
+		Summary = "Siga a trilha"
 	},
 	[16419] = {
-		Title = "Passeio feliz com o Cutepet",
+		Title = "Passeio Feliz 4",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"A caminhada está concluída. Vamos voltar ao <NAVI>[Square]<INFO>yuno,150,155,0,101,0</INFO></NAVI>."
+			"Vamos terminar o passeio voltando para a <NAVI>[praça central]<INFO>yuno,150,155,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Retornar ao Square"
+		Summary = "Siga a trilha"
 	},
 	[16420] = {
-		Title = "Caminhada Lunática Feliz",
+		Title = "Passeio com Lunático",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Caminhe com o Happy Lunatic!"
+			"Bom passeio com o Lunático!"
 		},
-		Summary = "Caminhada com o Lunatic"
+		Summary = "Caminhando com Lunático"
 	},
 	[16421] = {
-		Title = "Caminhe com Happy Poring",
+		Title = "Passeio com Poring",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Caminhe com o Happy Poring!"
+			"Bom passeio com o Poring!"
 		},
-		Summary = "Caminhada com Poring"
+		Summary = "Caminhando com Poring"
 	},
 	[16422] = {
-		Title = "Caminhada com o Jovem Lobo do Deserto Feliz",
+		Title = "Passeio com Filhote",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Caminhe com o Jovem Lobo do Deserto!"
+			"Bom passeio com o Filhote de Lobo do Deserto!"
 		},
-		Summary = "Caminhada com o jovem lobo do deserto"
+		Summary = "Caminhando com Filhote"
 	},
 	[16423] = {
-		Title = "Caminhada com o Happy Deviruchi",
+		Title = "Passeio com Deviruchi",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Caminhe com a Happy Deviruchi!"
+			"Bom passeio com o Deviruchi!"
 		},
 		Summary = "Caminhada com Deviruchi"
 	},
 	[16424] = {
-		Title = "Máquina de venda automática Happy Cutepet",
+		Title = "Festival das Mascotes",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Ouviu falar sobre como usar a Happy Cutepet Vending Machine."
+			"Experimente os prêmios aleatórios da Máquina do Festival das Mascote em Juno."
 		},
-		Summary = "Máquina de venda automática Happy Cutepet"
+		Summary = "Use a Máquina"
 	},
 	[16425] = {
-		Title = "A primeira Caminhada Feliz",
+		Title = "Passeio Feliz",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"A primeira Caminhada Feliz"
+			"Primeira caminhada feliz"
 		},
-		Summary = "A primeira caminhada"
+		Summary = "Primeiro passeio"
 	},
 	[16426] = {
-		Title = "A segunda caminhada feliz",
+		Title = "Passeio Feliz",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"A segunda caminhada feliz"
+			"Segunda caminhada feliz"
 		},
-		Summary = "A segunda caminhada"
+		Summary = "Segundo passeio"
 	},
 	[16427] = {
 		Title = "Intoxicação",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Eliumina foi exposta a substâncias nocivas. Vamos até <NAVI>[lado da mansão]<INFO>ba_maison,169,270,0,101,0</INFO></NAVI> pedir ajuda."
+			"Elyumina foi exposta a substâncias nocivas. Vamos até <NAVI>[lado da mansão]<INFO>ba_maison,169,270,0,101,0</INFO></NAVI> pedir ajuda."
 		},
 		Summary = "Ir para a Mansão"
 	},
@@ -44252,7 +44278,7 @@ QuestInfoList = {
 		Title = "Produção do Antídoto",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Os autômatos rejeitaram Eliumina, mas obtivemos informações em troca. Para ir ao Jardim Suspenso, vamos até <NAVI>[Cais]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>."
+			"Os autômatos rejeitaram Elyumina, mas obtivemos informações em troca. Para ir ao Jardim Suspenso, vamos até <NAVI>[Cais]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Ir para o Cais"
 	},
@@ -44262,199 +44288,199 @@ QuestInfoList = {
 		Description = {
 			"Para fabricar o antídoto, cace Papilia Violeta e depois retorne a <NAVI>[Seiyu]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Caçar Papilia Violeta"
+		Summary = "Ortus Aqua"
 	},
 	[16430] = {
 		Title = "Antídoto Concluído",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Entregue o antídoto concluído com a ajuda de Seiyu a <NAVI>[Eliumina]<INFO>ba_maison,234,51,0,101,0</INFO></NAVI>."
+			"Entregue o antídoto concluído com a ajuda de Seiyu a <NAVI>[Elyumina]<INFO>ba_maison,234,51,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Conversar com Eliumina"
+		Summary = "Conversar com Elyumina"
 	},
 	[16431] = {
 		Title = "Caçar Papilia Violeta",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Após caçar Papilia Violeta dentro do Jardim Suspenso, retorne a <NAVI>[Seiyu]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>."
+			"Após caçar Papilia Violeta dentro do Ortus Aqua, retorne a <NAVI>[Seiyu]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Caçar Papilia Violeta"
+		Summary = "Ortus Aqua"
 	},
 	[16432] = {
-		Title = "Caçar Papilia Violeta - Em Espera",
+		Title = "[Espera] Caçar Papilia Violeta",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Esta quest é diária e pode ser aceita novamente após o tempo de espera através de <NAVI>[Seiyu]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>."
+			"Essa missão pode ser refeita diariamente falando com a <NAVI>[Seiyu]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Reinício às 04:00"
+		Summary = "Reseta às 4 da manhã."
 	},
 	[16433] = {
 		Title = "Caçar Papilia Rubra",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Após caçar Papilia Rubra dentro do Jardim Suspenso, retorne a <NAVI>[Seiyu]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>."
+			"Após caçar Papilia Rubra dentro do Ortus Aqua, retorne a <NAVI>[Seiyu]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Caçar Papilia Rubra"
+		Summary = "Ortus Aqua"
 	},
 	[16434] = {
-		Title = "Caçar Papilia Rubra - Em Espera",
+		Title = "[Espera] Caçar Papilia Rubra",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Esta quest é diária e pode ser aceita novamente após o tempo de espera através de <NAVI>[Seiyu]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>."
+			"Essa missão pode ser refeita diariamente falando com a <NAVI>[Seiyu]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Reinício às 04:00"
+		Summary = "Reseta às 4 da manhã."
 	},
 	[16435] = {
-		Title = "Procurar Jardineiro",
+		Title = "Encontrar Jardineiras",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Dizem que há um Jardineiro que não saiu do jardim labiríntico. Encontre-o, verifique seu estado e reporte a <NAVI>[Seiyu]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>."
+			"Dizem que há um Jardineiro que não saiu do Ortus Aqua. Encontre-o, verifique seu estado e reporte a <NAVI>[Seiyu]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>."
 		},
-		Summary = ""
+		Summary = "Em Ortus Aqua"
 	},
 	[16436] = {
-		Title = "Procurar Jardineiro - Em Espera",
+		Title = "[Espera] Encontrar Jardineiras",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Esta quest é diária e pode ser aceita novamente após o tempo de espera através de <NAVI>[Seiyu]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>."
+			"Essa missão pode ser refeita diariamente falando com a <NAVI>[Seiyu]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Reinício às 04:00"
+		Summary = "Reseta às 4 da manhã."
 	},
 	[16437] = {
-		Title = "Jardim Suspenso",
+		Title = "Ortus Aqua",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Desafiou a dificuldade Normal de Jardim Suspenso."
+			"Você enfrentou a modalidade normal da instância Ortus Aqua."
 		},
-		Summary = "Jardim Suspenso Normal"
+		Summary = "Modo Normal"
 	},
 	[16438] = {
-		Title = "Jardim Suspenso Difícil",
+		Title = "Ortus Aqua",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Desafiou a dificuldade Difícil de Jardim Suspenso."
+			"Você enfrentou a modalidade difícil da instância Ortus Aqua."
 		},
-		Summary = "Jardim Suspenso Difícil"
+		Summary = "Modo Difícil"
 	},
 	[16439] = {
-		Title = "Jardim Suspenso - Em Espera",
+		Title = "[Espera] Ortus Aqua",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Esta quest é diária e pode ser aceita novamente após o tempo de espera através de <NAVI>[Seiyu]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>."
+			"Essa missão pode ser refeita diariamente falando com a <NAVI>[Seiyu]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Reinício às 04:00"
+		Summary = "Reseta às 4 da manhã."
 	},
 	[16440] = {
-		Title = "Quero Saber a Verdade",
+		Title = "O Legado do Sábio",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Vamos falar com <NAVI>[Dien]<INFO>ba_in01,203,103,0,101,0</INFO></NAVI> para ouvir por que as anciãs estão em conflito com Philopontes."
+			"Vamos falar com <NAVI>[Dien]<INFO>ba_in01,203,103,0,101,0</INFO></NAVI>. As veteranas estão em conflito com Philopontess."
 		},
-		Summary = "Conversar com Dien"
+		Summary = "Converse com Dien"
 	},
 	[16441] = {
-		Title = "Quero Saber a Verdade",
+		Title = "O Legado do Sábio",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Após ouvir diversas histórias dos administradores da mansão, retorne ao <NAVI>[Salão de Chá]<INFO>ba_in01,202,108,0,101,0</INFO></NAVI> e reporte."
+			"Após ouvir diversas histórias das autômatas da mansão, retorne para a <NAVI>[Casa de Chá]<INFO>ba_in01,202,108,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Conversar com o Administrador"
+		Summary = "Colete depoimentos"
 	},
 	[16442] = {
-		Title = "A História do Administrador",
+		Title = "Queremos a Verdade I",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Vamos ouvir a história do <NAVI>[Administrador]<INFO>ba_maison,189,56,0,101,0</INFO></NAVI> da mansão."
+			"Vamos ouvir a história de <NAVI>[Yunas]<INFO>ba_maison,189,56,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Conversar com o Administrador"
+		Summary = "Entreviste Yunas"
 	},
 	[16443] = {
-		Title = "A História do Administrador",
+		Title = "Queremos a Verdade II",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Vamos ouvir a história do <NAVI>[Administrador]<INFO>ba_maison,318,169,0,101,0</INFO></NAVI> da mansão."
+			"Vamos ouvir a história de <NAVI>[Skippy]<INFO>ba_maison,318,169,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Conversar com o Administrador"
+		Summary = "Entreviste Skippy"
 	},
 	[16444] = {
-		Title = "A História do Administrador",
+		Title = "Queremos a Verdade III",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Vamos ouvir a história do <NAVI>[Administrador]<INFO>ba_maison,249,161,0,101,0</INFO></NAVI> da mansão."
+			"Vamos ouvir a história de <NAVI>[Adoren]<INFO>ba_maison,249,161,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Conversar com o Administrador"
+		Summary = "Entreviste Adoren"
 	},
 	[16445] = {
-		Title = "A História do Administrador",
+		Title = "Queremos a Verdade IV",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Vamos ouvir a história do <NAVI>[Administrador]<INFO>ba_maison,232,310,0,101,0</INFO></NAVI> da mansão."
+			"Vamos ouvir a história do <NAVI>[VoaVoa]<INFO>ba_maison,232,310,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Conversar com o Administrador"
+		Summary = "Entreviste VoaVoa"
 	},
 	[16446] = {
-		Title = "Quero Saber a Verdade",
+		Title = "Queremos a Verdade",
 		IconName = "ico_ep.bmp",
 		Description = {
 			"A história que esteve oculta até agora continua. Vamos falar com <NAVI>[Ridsh]<INFO>ba_in01,208,110,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Conversar com Ridsh"
+		Summary = "Converse com Ridsh"
 	},
 	[16447] = {
-		Title = "Quero Saber a Verdade",
+		Title = "Queremos a Verdade",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"A história escondida pela corporação continua. Vamos falar com <NAVI>[Kaya Tos]<INFO>ba_in01,207,102,0,101,0</INFO></NAVI>."
+			"A história escondida pela corporação continua. Vamos falar com <NAVI>[Kaya Toss]<INFO>ba_in01,207,102,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Conversar com Kaya"
+		Summary = "Converse com Kaya Toss"
 	},
 	[16448] = {
-		Title = "Quero Saber a Verdade",
+		Title = "Queremos a Verdade",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Quando Kaya se ausentou, Lukie veio falar conosco. Vamos ouvir o que <NAVI>[Rookie]<INFO>ba_in01,202,108,0,101,0</INFO></NAVI> tem a dizer."
+			"Lukie quer falar. Vamos ouvir o que <NAVI>[ele tem a dizer]<INFO>ba_in01,202,108,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Conversar com Lukie"
+		Summary = "Converse com Lukie"
 	},
 	[16449] = {
-		Title = "Quero Saber a Verdade",
+		Title = "Queremos a Verdade",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Kaya Tos está sozinha no jardim. Ou será que está? Vamos nos aproximar de <NAVI>[Kaya Tos]<INFO>ba_maison,103,92,0,101,0</INFO></NAVI>."
+			"Kaya Toss está sozinho no jardim. Será que está só mesmo? Vamos nos aproximar de <NAVI>[Kaya Toss]<INFO>ba_maison,103,92,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Conversar com Kaya"
+		Summary = "Converse com Kaya"
 	},
 	[16450] = {
-		Title = "Quero Saber a Verdade",
+		Title = "Queremos a Verdade",
 		IconName = "ico_ep.bmp",
 		Description = {
 			"Talvez Dien tenha mudado um pouco de ideia. Vamos ouvir a história de <NAVI>[Dien]<INFO>ba_maison,100,90,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Conversar com Dien"
+		Summary = "Converse com Dien"
 	},
 	[16451] = {
-		Title = "Quero Saber a Verdade",
+		Title = "Queremos a Verdade",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Kaya quer avançar o mais rápido possível. Vamos ouvir o que <NAVI>[Kaya]<INFO>ba_maison,103,92,0,101,0</INFO></NAVI> tem a dizer."
+			"Kaya quer avançar o mais rápido possível. Vamos ouvir <NAVI>[Kaya]<INFO>ba_maison,103,92,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Conversar com Kaya"
+		Summary = "Converse com Kaya"
 	},
 	[16452] = {
-		Title = "Quero Saber a Verdade",
+		Title = "Queremos a Verdade",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"<NAVI>[Tatio]<INFO>ba_in01,205,109,0,101,0</INFO></NAVI> chegou. Vamos ouvir dele sobre o futuro da corporação."
+			"Vamos ouvir sobre o futuro da Corporação Rekenber com <NAVI>[Tatio]<INFO>ba_in01,205,109,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Conversar com Tatio"
+		Summary = "Converse com Tatio"
 	},
 	[16453] = {
-		Title = "Quero Saber a Verdade",
+		Title = "Queremos a Verdade V",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Siga <NAVI>[as instruções]<INFO>ba_maison,357,291,0,101,0</INFO></NAVI> e vá até o local onde H conversava com um estranho para investigar."
+			"Vá até o local onde H conversava com um estranho. Esse lugar fica nessas <NAVI>[coordenadas]<INFO>ba_maison,357,291,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Mover-se conforme instruído"
+		Summary = "Robô de Limpeza"
 	},
 	[16454] = {
 		Title = "Caminho do Inquisidor",
@@ -45080,21 +45106,21 @@ NpcSpr = [=[4_M_RACHMAN1]]
 	[16602] = {
 		Title = "Caminho da Patrulha Noturna",
 		Description = {
-			"Para fazer o exame Night Watch, vamos falar com <NAVI>[Elena Volkova]<INFO>einbech,237,79,0,101,0</INFO></NAVI> que está esperando."
+			"Para fazer o exame Night Watch, vamos falar com <NAVI>[Elena Bolkova]<INFO>einbech,237,79,0,101,0</INFO></NAVI> que está esperando."
 		},
 		Summary = "Fale com Elena"
 	},
 	[16603] = {
 		Title = "Caminho da Patrulha Noturna",
 		Description = {
-			"Fale com <NAVI>[Elena Volkova]<INFO>einbech,237,79,0,101,0</INFO></NAVI> e entre no Night Watch Advancement Test Center para fazer o teste."
+			"Fale com <NAVI>[Elena Bolkova]<INFO>einbech,237,79,0,101,0</INFO></NAVI> e entre no Night Watch Advancement Test Center para fazer o teste."
 		},
 		Summary = "Passar no teste"
 	},
 	[16604] = {
 		Title = "Caminho da Patrulha Noturna",
 		Description = {
-			"Você passou no teste e é hora de mudar de emprego. Vamos falar com <NAVI>[Elena Volkova]<INFO>einbech,237,79,0,101,0</INFO></NAVI> e prosseguir com a mudança."
+			"Você passou no teste e é hora de mudar de emprego. Vamos falar com <NAVI>[Elena Bolkova]<INFO>einbech,237,79,0,101,0</INFO></NAVI> e prosseguir com a mudança."
 		},
 		Summary = "Fale com Elena"
 	},
@@ -45768,175 +45794,175 @@ NpcSpr = [=[4_M_RACHMAN1]]
 		Summary = "Você recebeu o visual desse ano"
 	},
 	[17333] = {
-		Title = "O Convidado da Mansão",
+		Title = "O Legado do Sábio",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Parece que houve um problema ao compartilhar a lista de convidados pela rede interna da mansão. Vamos verificar com <NAVI>[Gerente da Mansão Alpha]<INFO>ba_maison,74,150,0,101,0</INFO></NAVI>."
+			"Parece que houve um problema ao compartilhar a lista de convidados pela rede interna da mansão. Vamos verificar com a <NAVI>[Gerente Alpha]<INFO>ba_maison,74,150,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Gerente da Mansão Alpha"
+		Summary = "Fale com a Gerente Alpha"
 	},
 	[17334] = {
-		Title = "Verificar Dispositivo de Retransmissão: Refeitório",
+		Title = "O Legado do Sábio",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"É melhor ir até o <NAVI>[Refeitório]<INFO>ba_maison,146,109,0,101,0</INFO></NAVI>. Informe o defeito aos autômatos próximos ao Dispositivo de Retransmissão danificado e eles cuidarão do resto."
+			"É melhor ir até o <NAVI>[refeitório]<INFO>ba_maison,146,109,0,101,0</INFO></NAVI>. Informe o defeito para as autômatas próximas ao Transmissor danificado e elas cuidarão do resto."
 		},
-		Summary = "Ir para o Refeitório"
+		Summary = "Ao refeitório"
 	},
 	[17335] = {
-		Title = "Peça do Dispositivo de Retransmissão",
+		Title = "O Legado do Sábio",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Após eliminar o Beta danificado, traga 1 Chip de Comunicação de Autômato. Precisamos consertar o Dispositivo de Retransmissão imediatamente. - <NAVI>[Matzzang]<INFO>ba_maison,146,109,0,101,0</INFO></NAVI>"
+			"Após eliminar a Beta Quebrada, traga 1 Comunicador de Autômato. Precisamos consertar o Transmissor imediatamente. - <NAVI>[Mazang]<INFO>ba_maison,146,109,0,101,0</INFO></NAVI>"
 		},
-		Summary = "1 Peça"
+		Summary = "1 Comunicador de Autômato"
 	},
 	[17336] = {
-		Title = "Verificar Dispositivo de Retransmissão: Pavilhão",
+		Title = "O Legado do Sábio",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"<NAVI>[Pavilhão]<INFO>ba_maison,334,143,0,101,0</INFO></NAVI> fica seguindo este caminho em frente. Não toque no Dispositivo de Retransmissão danificado; apenas informe os autômatos próximos."
+			"Siga este caminho em frente para encontrar o <NAVI>[gazebo]<INFO>ba_maison,334,143,0,101,0</INFO></NAVI>. Não toque no Transmissor danificado; apenas informe às autômatas próximas."
 		},
-		Summary = "Ir para o Pavilhão"
+		Summary = "Ir para o Gazebo"
 	},
 	[17337] = {
-		Title = "Verificar Dispositivo de Retransmissão: Jardim Central",
+		Title = "O Legado do Sábio",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"O <NAVI>[Jardim Central]<INFO>ba_maison,245,206,0,101,0</INFO></NAVI> da mansão fica subindo pelo lado do pavilhão e virando à esquerda."
+			"Subindo pelo lado do gazebo e virando à esquerda, você encontrará o <NAVI>[jardim central]<INFO>ba_maison,245,206,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Ir para o Jardim Central"
 	},
 	[17338] = {
-		Title = "Verificação do Dispositivo de Retransmissão Concluída",
+		Title = "O Legado do Sábio",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Após verificar o Dispositivo de Retransmissão danificado, informamos o defeito aos autômatos. Vamos reportar a <NAVI>[Gerente da Mansão Alpha]<INFO>ba_maison,74,150,0,101,0</INFO></NAVI>."
+			"Após verificar os Transmissores danificados, informamos o defeito às autômatas. Vamos reportar a <NAVI>[Gerente Alpha]<INFO>ba_maison,74,150,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Ir até Gerente da Mansão Alpha"
+		Summary = "Ir até Gerente Alpha"
 	},
 	[17339] = {
-		Title = "Aquisição de Peças de Reposição",
+		Title = "Transmissor sem Sinal",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Recebemos um pedido para trazer peças de reposição."
+			"Recebemos um pedido para trazer peças de Comunicador de Autômato de reposição."
 		},
-		Summary = "Obter Peças"
+		Summary = "10x Comunicador de Autômato"
 	},
 	[17340] = {
-		Title = "Aquisição de Peças de Reposição",
+		Title = "Transmissor sem Sinal",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Elimine os Betas danificados e traga 10 peças para usar no Dispositivo de Retransmissão. Essa é a quantidade diária necessária. - <NAVI>[Gerente da Mansão Alpha]<INFO>ba_maison,74,150,0,101,0</INFO></NAVI>"
+			"Elimine as Betas Quebradas e traga 10 Comunicador de Autômato para usar no Transmissor. Essa é a quantidade diária necessária. - <NAVI>[Gerente Alpha]<INFO>ba_maison,74,150,0,101,0</INFO></NAVI>"
 		},
-		Summary = "10 Peças"
+		Summary = "10x Comunicador de Autômato"
 	},
 	[17341] = {
-		Title = "Em Espera: Sem Sinal",
+		Title = "[Espera] Transmissor sem Sinal",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Se possível, gostaria de pedir novamente após o amanhecer de amanhã. Descanse bem. - <NAVI>[Gerente da Mansão Alpha]<INFO>ba_maison,74,150,0,101,0</INFO></NAVI>"
+			"Se possível, gostaria de pedir novamente após o amanhecer. Descanse bem. - <NAVI>[Gerente Alpha]<INFO>ba_maison,74,150,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Reinício às 04:00"
+		Summary = "Reseta às 4 da manhã."
 	},
 	[17342] = {
-		Title = "Não é que eu goste",
+		Title = "Um Segredo no Armazém",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Então peço que elimine cerca de 5 Robôs de Limpeza danificados. Aproveite sua estadia. - <NAVI>[Jjack]<INFO>ba_2whs01,150,51,0,101,0</INFO></NAVI>"
+			"Então peço que elimine 5x Ômega Quebrada. Aproveite sua estadia. - <NAVI>[Sibila]<INFO>ba_2whs01,150,51,0,101,0</INFO></NAVI>"
 		},
-		Summary = "5 Robôs de Limpeza Danificados"
+		Summary = "Armazém Tártaro"
 	},
 	[17343] = {
-		Title = "Estou com medo...",
+		Title = "Um Segredo no Armazém",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Desça pelas <NAVI>[Escadas]<INFO>ba_2whs01,276,290,0,101,0</INFO></NAVI> e verifique a situação no subsolo."
+			"Verifique a situação no subsolo descendo pelas <NAVI>[escadas]<INFO>ba_2whs01,276,290,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Verificar Situação no Subsolo"
+		Summary = "Verificar o subsolo"
 	},
 	[17344] = {
-		Title = "Sem Chave",
+		Title = "Um Segredo no Armazém",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"A porta que leva às escadas está firmemente trancada. Precisamos pegar a chave com <NAVI>[Jjack]<INFO>ba_2whs01,150,51,0,101,0</INFO></NAVI>."
+			"O portão que leva às escadas está trancado. Precisamos pegar a chave com <NAVI>[Sibila]<INFO>ba_2whs01,150,51,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Ir até Jjack"
+		Summary = "Ir até Sibila"
 	},
 	[17345] = {
-		Title = "Chave da Sala das Escadas 1",
+		Title = "Um Segredo no Armazém",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"<NAVI>[O Mundo em Rotação]<INFO>ba_2whs01,110,218,0,101,0</INFO></NAVI>. Dizem que sob ele reside toda a verdade."
+			"Dizem que 1 das 3 chaves está escondida em um <NAVI>[Globo Terrestre]<INFO>ba_2whs01,110,218,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Procurar a Chave de Emergência"
+		Summary = "Chave de Emergência I"
 	},
 	[17346] = {
-		Title = "Chave da Sala das Escadas 2",
+		Title = "Um Segredo no Armazém",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"No <NAVI>[Lugar onde até a respiração congela]<INFO>ba_2whs01,14,282,0,101,0</INFO></NAVI>, dizem que tudo permanece inalterado eternamente."
+			"Dizem que 1 das 3 chaves está escondida na <NAVI>[Câmara Frigorífica]<INFO>ba_2whs01,14,282,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Procurar a Chave de Emergência"
+		Summary = "Chave de Emergência II"
 	},
 	[17347] = {
-		Title = "Chave da Sala das Escadas 3",
+		Title = "Um Segredo no Armazém",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Dizem que todo o ar deve fluir, e que uma enorme energia é usada ali. Não faço ideia de onde seja <NAVI>[tal lugar]<INFO>ba_2whs01,222,257,0,101,0</INFO></NAVI>."
+			"Dizem que 1 das 3 chaves está escondida no <NAVI>[Duto de Ventilação]<INFO>ba_2whs01,222,257,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Procurar a Chave de Emergência"
+		Summary = "Chave de Emergência III"
 	},
 	[17348] = {
-		Title = "Chave Obtida",
+		Title = "Um Segredo no Armazém",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Como já reunimos todas as Chave de Emergência, vamos abrir a <NAVI>[porta trancada]<INFO>ba_2whs01,276,290,0,101,0</INFO></NAVI>."
+			"Como já reunimos todas as Chaves de Emergência, vamos abrir o <NAVI>[portão]<INFO>ba_2whs01,276,290,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Ir até a Porta da Escadaria"
+		Summary = "Tente abrir o portão"
 	},
 	[17349] = {
-		Title = "A porta foi aberta.",
+		Title = "Um Segredo no Armazém",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"A porta que leva ao subsolo foi aberta. Vamos descer e verificar <NAVI>[o local de onde vem o som]<INFO>ba_2whs02,37,312,0,101,0</INFO></NAVI>."
+			"A porta que leva ao subsolo foi aberta. Vamos descer e verificar o local de <NAVI>[onde vem o som]<INFO>ba_2whs02,37,312,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Ir para o Subsolo"
+		Summary = "Investigue o som"
 	},
 	[17350] = {
-		Title = "Cabeça Corpo Braços Pernas",
+		Title = "Um Segredo no Armazém",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"<NAVI>[O local onde está o corpo]<INFO>ba_2whs02,31,50,0,101,0</INFO></NAVI> é o mais próximo, então vamos primeiro até lá. Traga rápido. Estou com medo."
+			"O mais próximo daqui é o local onde está <NAVI>[o corpo]<INFO>ba_2whs02,31,50,0,101,0</INFO></NAVI>, então vamos primeiro até lá. Traga rápido. Estou com medo."
 		},
-		Summary = "Ir procurar o Corpo"
+		Summary = "Encontre um corpo"
 	},
 	[17351] = {
-		Title = "Cabeça Corpo Braços Pernas",
+		Title = "Um Segredo no Armazém",
 		IconName = "ico_ep.bmp",
 		Description = {
 			"Já encontramos o corpo, agora precisamos procurar <NAVI>[os braços]<INFO>ba_2whs02,129,82,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Ir procurar os Braços"
+		Summary = "Encontre os braços"
 	},
 	[17352] = {
-		Title = "Cabeça Corpo Braços Pernas",
+		Title = "Um Segredo no Armazém",
 		IconName = "ico_ep.bmp",
 		Description = {
 			"Já encontramos os braços, agora precisamos procurar <NAVI>[as pernas]<INFO>ba_2whs02,239,124,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Ir procurar as Pernas"
+		Summary = "Encontre as pernas"
 	},
 	[17353] = {
-		Title = "Cabeça Corpo Braços Pernas",
+		Title = "Um Segredo no Armazém",
 		IconName = "ico_ep.bmp",
 		Description = {
 			"Já encontramos peças adequadas para corpo, braços e pernas. Vamos voltar para <NAVI>[Cabeça]<INFO>ba_2whs02,37,312,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Ir até Cabeça"
+		Summary = "Volte à Cabeça"
 	},
 	[17354] = {
-		Title = "Cabeça Corpo Braços Pernas",
+		Title = "Um Segredo no Armazém",
 		IconName = "ico_ep.bmp",
 		Description = {
 			"Foi montado em uma forma impressionante."
@@ -45944,7 +45970,7 @@ NpcSpr = [=[4_M_RACHMAN1]]
 		Summary = "Montagem Concluída"
 	},
 	[17355] = {
-		Title = "Cabeça Corpo Braços Pernas",
+		Title = "Um Segredo no Armazém",
 		IconName = "ico_ep.bmp",
 		Description = {
 			"Foi montado em uma forma impressionante."
@@ -45952,7 +45978,7 @@ NpcSpr = [=[4_M_RACHMAN1]]
 		Summary = "Montagem Concluída"
 	},
 	[17356] = {
-		Title = "Cabeça Corpo Braços Pernas",
+		Title = "Um Segredo no Armazém",
 		IconName = "ico_ep.bmp",
 		Description = {
 			"Foi montado em uma forma impressionante."
@@ -45960,7 +45986,7 @@ NpcSpr = [=[4_M_RACHMAN1]]
 		Summary = "Montagem Concluída"
 	},
 	[17357] = {
-		Title = "Cabeça Corpo Braços Pernas",
+		Title = "Um Segredo no Armazém",
 		IconName = "ico_ep.bmp",
 		Description = {
 			"Foi montado em uma forma impressionante."
@@ -45968,196 +45994,196 @@ NpcSpr = [=[4_M_RACHMAN1]]
 		Summary = "Montagem Concluída"
 	},
 	[17358] = {
-		Title = "Verificação do Subsolo Concluída",
+		Title = "Um Segredo no Armazém",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Com isso já posso me proteger! Você disse que deveria subir e reportar a outro <NAVI>[Autômato]<INFO>ba_2whs01,150,51,0,101,0</INFO></NAVI>, certo? Vá logo."
+			"Com isso já posso me proteger! Você disse que deveria subir e reportar a outra <NAVI>[Autômata]<INFO>ba_2whs01,150,51,0,101,0</INFO></NAVI>, certo? Vá logo."
 		},
-		Summary = "Ir até Jjack"
+		Summary = "Retorne à Sibila"
 	},
 	[17359] = {
-		Title = "Limpeza do Armazém Superior",
+		Title = "Limpeza do Armazém",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Vejo que realmente gosta de combate. Então elimine 20 Caça-Corações no andar superior. - <NAVI>[Jjack]<INFO>ba_2whs01,150,51,0,101,0</INFO></NAVI>"
+			"Vejo que realmente gosta de combate. Então elimine 20 Caçadores de Corações no andar superior. - <NAVI>[Sibila]<INFO>ba_2whs01,150,51,0,101,0</INFO></NAVI>"
 		},
-		Summary = "20 Caça-Corações"
+		Summary = "Armazém Tártaro (1)"
 	},
 	[17360] = {
-		Title = "Em Espera: Limpeza do Armazém Superior",
+		Title = "[Espera] Limpeza do Armazém",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Confirmamos a redução das unidades. Agora posso começar meu trabalho. Obrigado. Volte após o amanhecer. - <NAVI>[Jjack]<INFO>ba_2whs01,150,51,0,101,0</INFO></NAVI>"
+			"Confirmamos a redução das unidades. Agora posso começar meu trabalho. Obrigada. Volte após o amanhecer. - <NAVI>[Sibila]<INFO>ba_2whs01,150,51,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Reinício às 04:00"
+		Summary = "Reseta às 4 da manhã."
 	},
 	[17361] = {
-		Title = "Limpeza do Armazém Subterrâneo",
+		Title = "Vigiar o Subsolo",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Vejo que realmente gosta de combate. Então elimine 20 Guarda Quebrada no subsolo. - <NAVI>[Jjack]<INFO>ba_2whs01,150,51,0,101,0</INFO></NAVI>"
+			"Vejo que realmente gosta de combate. Então elimine 20 Guarda Quebrada no subsolo. - <NAVI>[Sibila]<INFO>ba_2whs01,150,51,0,101,0</INFO></NAVI>"
 		},
-		Summary = "20 no Subsolo"
+		Summary = "Armazém Tártaro (2)"
 	},
 	[17362] = {
-		Title = "Em Espera: Limpeza do Armazém Subterrâneo",
+		Title = "[Espera] Vigiar o Subsolo",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Confirmamos a redução das unidades. Agora posso começar meu trabalho. Obrigado. Volte após o amanhecer. - <NAVI>[Jjack]<INFO>ba_2whs01,150,51,0,101,0</INFO></NAVI>"
+			"Confirmamos a redução das unidades. Agora posso começar meu trabalho. Obrigada. Volte após o amanhecer. - <NAVI>[Sibila]<INFO>ba_2whs01,150,51,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Reinício às 04:00"
+		Summary = "Reseta às 4 da manhã."
 	},
 	[17363] = {
-		Title = "Explorar a Casa de Banho",
+		Title = "Mistério na Sauna",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Ao entrar <NAVI>[na Casa de Banho]<INFO>ba_bath,165,43,0,101,0</INFO></NAVI>, a exploração começará imediatamente."
+			"Ao entrar na <NAVI>[Sauna Meditatio]<INFO>ba_bath,165,43,0,101,0</INFO></NAVI>, a investigação começará imediatamente."
 		},
-		Summary = "Entrar na Casa de Banho"
+		Summary = "Inicie a investigação"
 	},
 	[17364] = {
-		Title = "Solicitação de Desligamento de Caldeira",
+		Title = "Mistério na Sauna",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Aventureiro, vá até <NAVI>[a Sala da Caldeira]<INFO>ba_bath,286,68,0,101,0</INFO></NAVI> e peça para interromper o funcionamento de Caldeira. Eu irei em seguida."
+			"A sauna está liberando muito vapor. Precisamos desligar a caldeira na <NAVI>[sala da Caldeira]<INFO>ba_bath,286,68,0,101,0</INFO></NAVI>"
 		},
 		Summary = "Ir para a Sala da Caldeira"
 	},
 	[17365] = {
-		Title = "Já foi desligada?",
+		Title = "Mistério na Sauna",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Dizem que Caldeira já foi desligada. Vamos retornar a <NAVI>[Rookie]<INFO>ba_bath,270,94,0,101,0</INFO></NAVI> e reportar."
+			"Caldira e Vahida disseram que a caldeira já foi desligada. Vamos reportar para <NAVI>[Lukie]<INFO>ba_bath,270,94,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Ir até Rookie"
+		Summary = "Avise Lukie"
 	},
 	[17366] = {
-		Title = "Assim, de repente?",
+		Title = "Mistério na Sauna",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Se durante a limpeza você pisar errado no ralo, pode cair no lago em vez da Estação de Tratamento de Esgoto. Talvez haja algo lá. Vá verificar <NAVI>[aquele local]<INFO>ba_bath,165,43,0,101,0</INFO></NAVI>."
+			"Um Lukie com sotaque muito estranho pediu pra você retornar para a <NAVI>[entrada]<INFO>ba_bath,165,43,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Explorar o Lago"
+		Summary = "Volte para a entrada"
 	},
 	[17367] = {
-		Title = "Tomar Medidas",
+		Title = "Mistério na Sauna",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Seja o que for, precisamos resolver antes que a situação piore. Aventureiro, vá também até <NAVI>[a Sala de Descanso]<INFO>ba_bath,203,58,0,101,0</INFO></NAVI>."
+			"Seja o que for, precisamos resolver antes que a situação piore. Encontre-se com Lukie no <NAVI>[vestiário]<INFO>ba_bath,203,58,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Ir para a Sala de Descanso"
+		Summary = "Ao vestiário"
 	},
 	[17368] = {
 		Title = "Instalação da Armadilha 1",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Aventureiro, instale isto <NAVI>[no canto da Casa de Banho]<INFO>ba_bath,55,55,0,101,0</INFO></NAVI>. Basta posicionar e fixar para que não se mova."
+			"Instale uma armadilha congeladora perto de uma <NAVI>[estátua]<INFO>ba_bath,55,55,0,101,0</INFO></NAVI>. Basta posicionar e fixar para que não se mova."
 		},
-		Summary = "Ir para o Local Designado"
+		Summary = "Para o local marcado"
 	},
 	[17369] = {
 		Title = "Instalação da Armadilha 2",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Ao fixar a armadilha, um ar frio começou a fluir. Vamos para <NAVI>[o próximo local]<INFO>ba_bath,306,121,0,101,0</INFO></NAVI>."
+			"Ao fixar a armadilha, um ar frio começou a fluir. Vamos para o próximo <NAVI>[local]<INFO>ba_bath,306,121,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Ir para o Próximo Local"
+		Summary = "Ao próximo local"
 	},
 	[17370] = {
 		Title = "Instalação da Armadilha 3",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Fixamos a armadilha no local indicado por Rookie. Vamos para <NAVI>[o próximo local]<INFO>ba_bath,21,276,0,101,0</INFO></NAVI>."
+			"Fixamos a armadilha no local indicado por Lukie. Vamos para o próximo <NAVI>[destino]<INFO>ba_bath,21,276,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Ir para o Próximo Local"
+		Summary = "Mais um local"
 	},
 	[17371] = {
 		Title = "Instalação da Armadilha 4",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Colocamos e fixamos firmemente a armadilha no local marcado. Vamos para <NAVI>[o próximo local]<INFO>ba_bath,155,305,0,101,0</INFO></NAVI>."
+			"Colocamos e fixamos firmemente a armadilha no local marcado. Vamos para o <NAVI>[último lugar]<INFO>ba_bath,155,305,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Ir para o Próximo Local"
+		Summary = "Ao último local"
 	},
 	[17372] = {
-		Title = "Instalação das Armadilhas Concluída",
+		Title = "Instalação Concluída",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Terminou de instalar as armadilhas? Aqui já começou. Apresse-se e vá para <NAVI>[o local da operação]<INFO>ba_bath,286,298,0,101,0</INFO></NAVI>."
+			"Agora que terminamos de instalar as armadilhas, vamos correndo para a fonte de água à <NAVI>[nordeste daqui]<INFO>ba_bath,286,298,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Ir para o Local da Operação"
+		Summary = "Vamos para a Fonte"
 	},
 	[17373] = {
-		Title = "Vamos conversar de qualquer forma",
+		Title = "Mistério na Sauna",
 		IconName = "ico_ep.bmp",
 		Description = {
 			"A <NAVI>[pessoa]<INFO>ba_bath,286,298,0,101,0</INFO></NAVI> misteriosa com a aparência de Goni parecia escolher as palavras. Vamos tentar conversar novamente."
 		},
-		Summary = "Conversar com o falso Goni"
+		Summary = "Converse com o falso Gonie"
 	},
 	[17374] = {
-		Title = "Por que fez isso?",
+		Title = "Mistério na Sauna",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Parece que Rookie vai iniciar uma conversa séria com a <NAVI>[Sereia]<INFO>ba_bath,286,298,0,101,0</INFO></NAVI>."
+			"Parece que Lukie vai iniciar uma conversa séria com a <NAVI>[Princesa Azure]<INFO>ba_bath,286,298,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Conversar com a Sereia"
+		Summary = "Converse com a Princesa"
 	},
 	[17375] = {
-		Title = "Pedido de Caldeira",
+		Title = "Pedido de Caldira",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Elimine cerca de 20 Massagista Quebrado e traga também 5 Peças de Autômato Danificado. - <NAVI>[Caldeira]<INFO>ba_bath,286,68,0,101,0</INFO></NAVI>"
+			"Elimine cerca de 20 Empregadas Quebradas e traga também 5x Peça de Autômata Quebrada. - <NAVI>[Caldira]<INFO>ba_bath,286,68,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Ouvi o pedido de Caldeira"
+		Summary = "5x Peça de Autômata Quebrada"
 	},
 	[17376] = {
 		Title = "Entre Água Quente e Fria",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Elimine cerca de 20 Massagista Quebrado e traga também 5 Peças de Autômato Danificado. - <NAVI>[Caldeira]<INFO>ba_bath,286,68,0,101,0</INFO></NAVI>"
+			"Elimine cerca de 20 Empregadas Quebradas e traga também 5x Peça de Autômata Quebrada. - <NAVI>[Caldira]<INFO>ba_bath,286,68,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Eliminar Autômatos Danificados"
+		Summary = "5x Peça de Autômata Quebrada"
 	},
 	[17377] = {
-		Title = "Em Espera: Entre Água Quente e Fria",
+		Title = "[Espera] Entre Água Quente e Fria",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Descanse por hoje e volte após o amanhecer. - <NAVI>[Caldeira]<INFO>ba_bath,286,68,0,101,0</INFO></NAVI>"
+			"Descanse por hoje e volte após o amanhecer. - <NAVI>[Caldira]<INFO>ba_bath,286,68,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Reinício às 04:00"
+		Summary = "Reseta às 4 da manhã."
 	},
 	[17378] = {
-		Title = "Pedido de Saksseuri",
+		Title = "Pedido de Vahida",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Elimine 15 Marc Escaldado e 15 Carpa Escaldada. Todos devem ser tratados aqui dentro. - <NAVI>[Saksseuri]<INFO>ba_bath,288,68,0,101,0</INFO></NAVI>"
+			"Elimine 15 Marc Escaldado e 15 Carpa Escaldada. - <NAVI>[Vahida]<INFO>ba_bath,288,68,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Ouvi o pedido de Saksseuri"
+		Summary = "Na Sauna Meditatio"
 	},
 	[17379] = {
-		Title = "Limpando a Casa de Banho",
+		Title = "Peixe de Água Fervida",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Elimine 15 Marc Escaldado e 15 Carpa Escaldada. Todos devem ser tratados aqui dentro. - <NAVI>[Saksseuri]<INFO>ba_bath,288,68,0,101,0</INFO></NAVI>"
+			"Elimine 15 Marc Escaldado e 15 Carpa Escaldada. - <NAVI>[Vahida]<INFO>ba_bath,288,68,0,101,0</INFO></NAVI>"
 		},
-		Summary = "30 Peixes"
+		Summary = "Na Sauna Meditatio"
 	},
 	[17380] = {
-		Title = "Em Espera: Limpando a Casa de Banho",
+		Title = "[Espera] Peixe de Água Fervida",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"É melhor voltar após o amanhecer. Ainda haverá muitos peixes então. - <NAVI>[Saksseuri]<INFO>ba_bath,288,68,0,101,0</INFO></NAVI>"
+			"É melhor voltar após o amanhecer. Ainda há muitos peixes. - <NAVI>[Vahida]<INFO>ba_bath,288,68,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Reinício às 04:00"
+		Summary = "Reseta às 4 da manhã."
 	},
 	[17381] = {
-		Title = "Reunir-se ao Grupo",
+		Title = "O Legado do Sábio",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Os membros que chegaram primeiro estão atualmente no <NAVI>[Salão de Chá]<INFO>ba_in01,206,106,0,101,0</INFO></NAVI>. Vá até lá e converse com eles."
+			"Os membros que chegaram primeiro estão atualmente na <NAVI>[Casa de Chá]<INFO>ba_in01,206,106,0,101,0</INFO></NAVI>. Vá até lá e converse com eles."
 		},
-		Summary = "Ir para o Salão de Chá"
+		Summary = "Ir para a Casa de Chá"
 	},
 	[17382] = {
 		Title = "Festival da Neve",
@@ -46355,135 +46381,152 @@ NpcSpr = [=[4_M_RACHMAN1]]
 		Summary = "Reserva de Espaço"
 	},
 	[17408] = {
-		Title = "Contrato da Torre de Thanatos",
+		Title = "Contrato de Mercen?rio de Mem?ria de Thanatos",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"O contrato de mercenário da Torre de Thanatos foi concluído."
+			"O contrato de mercen?rio de Mem?ria de Thanatos com Rekenber foi conclu?do."
 		},
-		Summary = "Contrato concluído"
+		Summary = "Contrato Conclu?do"
 	},
 	[17409] = {
-		Title = "Sinal da chave vermelha",
+		Title = "Segurando a Chave Vermelha",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"Quando seguro a chave vermelha, ela treme levemente e sinto um poder estranho. Vamos para onde o poder <NAVI>[leva]<INFO>tha_t03,70,70,0,101,0</INFO></NAVI>."
+			"Ao segurar a chave vermelha, ela vibra levemente e uma fraca energia pode ser sentida. Vamos at? <NAVI>[o local para onde a energia guia]<INFO>tha_t03,70,70,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Siga as pistas."
+		Summary = "Para onde a energia guia"
 	},
 	[17410] = {
-		Title = "Sinal da chave amarela",
+		Title = "Segurando a Chave Amarela",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"Quando seguro a chave amarela, ela treme levemente e sinto um poder estranho. Vamos para onde o poder <NAVI>[leva]<INFO>tha_t04,199,199,0,101,0</INFO></NAVI>."
+			"Ao segurar a chave amarela, ela vibra levemente e uma fraca energia pode ser sentida. Vamos at? <NAVI>[o local para onde a energia guia]<INFO>tha_t04,199,199,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Siga as pistas."
+		Summary = "Para onde a energia guia"
 	},
 	[17411] = {
-		Title = "Sinal da Chave Azul",
+		Title = "Segurando a Chave Azul",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"Quando seguro a chave azul, ela treme levemente e sinto um poder estranho. Vamos para onde o poder <NAVI>[leva]<INFO>tha_t05,62,184,0,101,0</INFO></NAVI>."
+			"Ao segurar a chave azul, ela vibra levemente e uma fraca energia pode ser sentida. Vamos at? <NAVI>[o local para onde a energia guia]<INFO>tha_t05,62,184,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Siga as pistas."
+		Summary = "Para onde a energia guia"
 	},
 	[17412] = {
-		Title = "Sinal da Chave Verde",
+		Title = "Segurando a Chave Verde",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"Quando seguro a chave verde, ela treme levemente e sinto um poder estranho. Vamos para onde o poder <NAVI>[leva]<INFO>tha_t06,221,230,0,101,0</INFO></NAVI>."
+			"Ao segurar a chave verde, ela vibra levemente e uma fraca energia pode ser sentida. Vamos at? <NAVI>[o local para onde a energia guia]<INFO>tha_t06,221,230,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Siga as pistas."
+		Summary = "Para onde a energia guia"
 	},
 	[17413] = {
-		Title = "Sinal da Chave Preta",
+		Title = "Segurando a Chave Preta",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"Quando seguro a chave preta, ela treme levemente e sinto um poder estranho. Vamos para onde o poder <NAVI>[leva]<INFO>tha_t06,200,181,0,101,0</INFO></NAVI>."
+			"Ao segurar a chave preta, ela vibra levemente e uma fraca energia pode ser sentida. Vamos at? <NAVI>[o local para onde a energia guia]<INFO>tha_t06,200,181,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Siga as pistas."
+		Summary = "Para onde a energia guia"
 	},
 	[17414] = {
-		Title = "Segredo da Torre de Thanatos",
+		Title = "O Segredo de Mem?ria de Thanatos",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"Vamos mostrar o caderno que você obteve para <NAVI>[Guia de entrada]<INFO>tha_t02,231,161,0,101,0</INFO></NAVI>."
+			"Mostre o caderno obtido a <NAVI>[Guia da Entrada]<INFO>tha_t02,231,161,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Fale com o Guia da Entrada"
+		Summary = "Para Guia da Entrada"
 	},
 	[17415] = {
-		Title = "Solicitação de Solis",
+		Title = "Aceitar Pedido",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Você decidiu aceitar o pedido de Solis."
+			"Voc? aceitou o pedido de Solis."
 		},
-		Summary = "Solicitação aceita."
+		Summary = "Aceita??o Conclu?da"
 	},
 	[17416] = {
-		Title = "[Diário] Monstros do 9º andar",
+		Title = "Monstros do 9? Andar",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Você precisa derrotar 20 Crow Dukes e 20 Crow Barons no 9º andar da Torre de Thanatos. Se você trouxer 10 Fragmento de Desgraça, nós lhe daremos uma recompensa adicional. - <NAVI>[Solis]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
+			"No 9? andar de Mem?ria de Thanatos, enfrente 20 Duque Corvo e 20 Bar?o Corvo. Se trouxer 10 Fragmento de Desgra?a, receber? uma recompensa adicional. - <NAVI>[Solis]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Coleta 10 Fragmento de Desgraça"
+		Summary = "10 Fragmento de Desgra?a"
 	},
 	[17417] = {
-		Title = "[Diário] Monstros do 10º andar",
+		Title = "Monstros do 10? Andar",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Você precisa derrotar 15 Void Mimic, 15 Book of Death e 15 Eldest no 10º andar da Torre de Thanatos. Se você trouxer 10 Fragmento de Desespero, nós lhe daremos uma recompensa adicional. - <NAVI>[Solis]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
+			"No 10? andar de Mem?ria de Thanatos, enfrente 15 M?mico do Vazio, 15 Livro da Morte e 15 Primog?nito. Se trouxer 10 Fragmento de Desespero, receber? uma recompensa adicional. - <NAVI>[Solis]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Colete 10 Fragmento de Desespero"
+		Summary = "10 Fragmento de Desespero"
 	},
 	[17418] = {
-		Title = "[Diário] Monstros do 11º andar I",
+		Title = "Monstros do 11? Andar",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Você precisa derrotar 15 Empathizer e 15 Happiness Giver no 11º andar da Torre de Thanatos. Se você trouxer 10 Fragmento de Ódio, nós lhe daremos uma recompensa adicional. - <NAVI>[Solis]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
+			"No 11? andar de Mem?ria de Thanatos, enfrente 15 Empatizador e 15 Doadores de Felicidade. Se trouxer 10 Fragmento de ?dio, receber? uma recompensa adicional. - <NAVI>[Solis]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Colete 10 Fragmento de Ódio"
+		Summary = "10 Fragmento de ?dio"
 	},
 	[17419] = {
-		Title = "[Diário] Monstros do 11º andar II",
+		Title = "Monstros do 11? Andar",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Você precisa derrotar 15 Pray Giver e 15 Smile Giver no 11º andar da Torre de Thanatos. - <NAVI>[Solis]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
-		}
+			"No 11? andar de Mem?ria de Thanatos, enfrente 15 Doadores de Ora??es e 15 Doadores de Sorrisos. - <NAVI>[Solis]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
+		},
+		Summary = ""
 	},
 	[17420] = {
-		Title = "[Diário] Monstros do 12º andar I",
+		Title = "Monstros do 12? Andar",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Você precisa derrotar 10 Anger of Thanatos e 10 Horror of Thanatos no 12º andar da Torre de Thanatos. Se você trouxer 10 Fragment of Agony, nós lhe daremos uma recompensa adicional. - <NAVI>[Solis]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
+			"No 12? andar de Mem?ria de Thanatos, enfrente 10 Ira de Thanatos e 10 Horror de Thanatos. Se trouxer 10 Fragmento de Agonia, receber? uma recompensa adicional. - <NAVI>[Solis]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Colete 10 Fragmento de Agonia"
+		Summary = "10 Fragmento de Agonia"
 	},
 	[17421] = {
-		Title = "[Diário] Monstros do 12º andar II",
+		Title = "Monstros do 12? Andar",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Você precisa derrotar 10 Regret of Thanatos e 10 Resentment of Thanatos no 12º andar da Torre de Thanatos. - <NAVI>[Solis]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
-		}
+			"No 12? andar de Mem?ria de Thanatos, enfrente 10 Arrependimento de Thanatos e 10 Ressentimento de Thanatos. - <NAVI>[Solis]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
+		},
+		Summary = ""
 	},
 	[17422] = {
-		Title = "[Espera] Monstros do 9º andar",
+		Title = "Espera: Mem?ria de Thanatos 9? Andar",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Precisamos organizar os dados, portanto, volte depois do amanhecer. - <NAVI>[Solis]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
+			"Precisamos organizar os dados, ent?o por favor volte ap?s o amanhecer. - <NAVI>[Solis]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Reinicio às 04:00"
+		Summary = "Reinicia ?s 04h",
+		CoolTimeQuest = 1
 	},
 	[17423] = {
-		Title = "[Espera] Monstros do 10º andar",
+		Title = "Espera: Mem?ria de Thanatos 10? Andar",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Precisamos organizar os dados, portanto, volte depois do amanhecer. - <NAVI>[Solis]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
+			"Precisamos organizar os dados, ent?o por favor volte ap?s o amanhecer. - <NAVI>[Solis]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Reinicio às 04:00"
+		Summary = "Reinicia ?s 04h",
+		CoolTimeQuest = 1
 	},
 	[17424] = {
-		Title = "[Espera] Monstros do 11º andar",
+		Title = "Espera: Mem?ria de Thanatos 11? Andar",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Precisamos organizar os dados, portanto, volte depois do amanhecer. - <NAVI>[Solis]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
+			"Precisamos organizar os dados, ent?o por favor volte ap?s o amanhecer. - <NAVI>[Solis]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Reinicio às 04:00"
+		Summary = "Reinicia ?s 04h",
+		CoolTimeQuest = 1
 	},
 	[17425] = {
-		Title = "[Espera] Monstros do 12º andar",
+		Title = "Espera: Mem?ria de Thanatos 12? Andar",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Precisamos organizar os dados, portanto, volte depois do amanhecer. - <NAVI>[Solis]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
+			"Precisamos organizar os dados, ent?o por favor volte ap?s o amanhecer. - <NAVI>[Solis]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Reinicio às 04:00"
+		Summary = "Reinicia ?s 04h",
+		CoolTimeQuest = 1
 	},
 	[17450] = {
 		Title = "Mudança de 4ª Classe: Uma nova etapa",
@@ -47228,164 +47271,164 @@ NpcSpr = [=[4_M_RACHMAN1]]
 		Summary = ""
 	},
 	[18000] = {
-		Title = "Preparar a Entrada",
+		Title = "O Legado do Sábio",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Finalmente, Rebellion conseguiu desbloquear o mecanismo do esgoto. Rookie pediu para falar com ele novamente quando estiver tudo pronto para entrar."
+			"A Rebelião finalmente conseguiu desbloquear o mecanismo do esgoto. Lukie pediu para falar com ele novamente quando estiver com tudo pronto para entrar."
 		},
-		Summary = "Conversar com Rookie"
+		Summary = "Fale com Lukie"
 	},
 	[18001] = {
 		Title = "Entrada Secreta da Mansão",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Rookie da COR disse para entrar pelo interior através do esgoto. Caso encontre companheiros perdidos dentro do esgoto, mova-se junto com eles."
+			"Lukie da COR disse para entrar pelo interior através do esgoto. Caso encontre companheiros perdidos dentro do esgoto, mova-se junto com eles."
 		},
 		Summary = "Conversar com Durian"
 	},
 	[18002] = {
-		Title = "Recuperar Núcleos Danificados",
+		Title = "O Legado do Sábio",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Junto com Lukie, decidimos recuperar os núcleos dos autômatos atacados pelos Caça-Corações. Enquanto coleta os núcleos, siga até o NAVI>[local combinado]<INFO>ba_maison,303,141,0,101,0</INFO></NAVI>.com Lukie."
+			"Devo recuperar 5 Núcleos de Autômata Quebrada clicando nas Betas Quebradas da mansão. Enquanto coleta os núcleos, siga até o <NAVI>[local combinado]<INFO>ba_maison,303,141,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Recuperar pelo menos 5 Núcleos Danificados"
+		Summary = "5x Núcleo de Autômata Quebrada"
 	},
 	[18003] = {
-		Title = "Núcleo Danificado01",
+		Title = "Núcleo Danificado 01",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Verificando o núcleo no corpo do administrador destruído."
+			"Verificando o núcleo no corpo da autômata destruída."
 		},
 		Summary = ""
 	},
 	[18004] = {
-		Title = "Núcleo Danificado02",
+		Title = "Núcleo Danificado 02",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Verificando o núcleo no corpo do administrador destruído."
+			"Verificando o núcleo no corpo da autômata destruída."
 		},
 		Summary = ""
 	},
 	[18005] = {
-		Title = "Núcleo Danificado03",
+		Title = "Núcleo Danificado 03",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Verificando o núcleo no corpo do administrador destruído."
+			"Verificando o núcleo no corpo da autômata destruída."
 		},
 		Summary = ""
 	},
 	[18006] = {
-		Title = "Núcleo Danificado04",
+		Title = "Núcleo Danificado 04",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Verificando o núcleo no corpo do administrador destruído."
+			"Verificando o núcleo no corpo da autômata destruída."
 		},
 		Summary = ""
 	},
 	[18007] = {
-		Title = "Núcleo Danificado05",
+		Title = "Núcleo Danificado 05",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Verificando o núcleo no corpo do administrador destruído."
+			"Verificando o núcleo no corpo da autômata destruída."
 		},
 		Summary = ""
 	},
 	[18008] = {
-		Title = "Núcleo Danificado06",
+		Title = "Núcleo Danificado 06",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Verificando o núcleo no corpo do administrador destruído."
+			"Verificando o núcleo no corpo da autômata destruída."
 		},
 		Summary = ""
 	},
 	[18009] = {
-		Title = "Núcleo Danificado07",
+		Title = "Núcleo Danificado 07",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Verificando o núcleo no corpo do administrador destruído."
+			"Verificando o núcleo no corpo da autômata destruída."
 		},
 		Summary = ""
 	},
 	[18010] = {
-		Title = "Núcleo Danificado08",
+		Title = "Núcleo Danificado 08",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Verificando o núcleo no corpo do administrador destruído."
+			"Verificando o núcleo no corpo da autômata destruída."
 		},
 		Summary = ""
 	},
 	[18011] = {
-		Title = "Núcleo Danificado09",
+		Title = "Núcleo Danificado 09",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Verificando o núcleo no corpo do administrador destruído."
+			"Verificando o núcleo no corpo da autômata destruída."
 		},
 		Summary = ""
 	},
 	[18012] = {
-		Title = "Núcleo Danificado10",
+		Title = "Núcleo Danificado 10",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Verificando o núcleo no corpo do administrador destruído."
+			"Verificando o núcleo no corpo da autômata destruída."
 		},
 		Summary = ""
 	},
 	[18013] = {
-		Title = "Ir para o Local Designado",
+		Title = "O Legado do Sábio",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Recuperamos parte dos núcleos dos administradores destruídos. Devemos nos reunir com Rookie no <NAVI>[local combinado]<INFO>ba_maison,303,141,0,101,0</INFO></NAVI>."
+			"Recuperamos parte dos Núcleos de Autômata Quebrada. Devemos falar com <NAVI>[Elena Bolkova]<INFO>ba_maison,303,141,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Conversar com Elena Volkova"
+		Summary = "Converse com Elena Bolkova"
 	},
 	[18014] = {
-		Title = "Grande Captura Inesperada",
+		Title = "O Legado do Sábio",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Graças à astúcia de Elena, capturamos Eisen Werner. Elena levou Aizen Werner até o <NAVI>[Alojamento dos Criados]<INFO>ba_maison,100,320,0,101,0</INFO></NAVI>, onde Eliumina está detida. Vamos nos juntar a eles e interrogar Aizen."
+			"Graças à astúcia de Elena, capturamos Eisen Werner. Elena levou ele até o <NAVI>[dormitório]<INFO>ba_maison,100,320,0,101,0</INFO></NAVI>, onde Elyumina está detida. Vamos nos juntar a eles e interrogar Eisen."
 		},
-		Summary = "Conversar com Rookie"
+		Summary = "Para o Dormitório"
 	},
 	[18015] = {
-		Title = "Ilusión Rastreador",
+		Title = "O Legado do Sábio",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Eliumina disse que criará um Rastreador capaz de rastrear Ilusión. Os materiais necessários para fabricar o Rastreador são 10 <ITEM>[Líquido Fluorescente]<INFO>7326</INFO></ITEM> e 10 <ITEM>[Espadas Quebradas]<INFO>7110</INFO></ITEM>."
+			"Elyumina disse que criará um Radar capaz de rastrear membros da Ilusión. Os materiais necessários para fabricar o Rastreador são 10 <ITEM>[Líquidos Fluorescentes]<INFO>7326</INFO></ITEM>... e 10 <ITEM>[Espadas Chanfradas]<INFO>7110</INFO></ITEM>."
 		},
-		Summary = "Entregar Líquido Fluorescente e Espadas Quebradas a Eliumina"
+		Summary = "Colete os itens pedidos"
 	},
 	[18016] = {
-		Title = "Reunião de Estratégia",
+		Title = "O Legado do Sábio",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Junto com Est, vamos elaborar um plano para vasculhar a Mansão Varmundt e encontrar os Caça-Corações e Ilusión escondidos."
+			"Junto com a comandante Est, vamos elaborar um plano para vasculhar a Mansão Varmunt e encontrar os Caça-Corações e membros da Ilusión escondidos."
 		},
-		Summary = "Conversar com Est"
+		Summary = "Converse com Est"
 	},
 	[18017] = {
-		Title = "Operação Extermínio de Pragas",
+		Title = "Entardecer no Jardim",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Vasculhe o jardim da mansão ao anoitecer para pressionar Ilusión. Caçar é melhor quando se encurrala a presa."
+			"Vasculhe o jardim da mansão ao anoitecer para encontrar membros da Ilusión. Caçar é melhor quando se encurrala a presa."
 		},
-		Summary = "Derrotar Sweety"
+		Summary = "Complete a instância"
 	},
 	[18018] = {
-		Title = "Ir para Depósito da Aeronave",
+		Title = "O Legado do Sábio",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Talvez possamos obter informações através de Sweety capturada. Vamos para Depósito da Aeronave."
+			"Talvez possamos obter informações através de Sweety capturada. Vamos para o porto onde está a Aeronave."
 		},
-		Summary = "Conversar com Alpha"
+		Summary = "Para o Aeroplano"
 	},
 	[18019] = {
-		Title = "Conversar com Sweety",
+		Title = "O Legado do Sábio",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Grão de Amêndoas, que estava consertando Sweety no Depósito da Aeronave, disse que ela já despertou, então devemos conversar com ela."
+			"Amêndoa, que estava consertando Sweety no Depósito da Aeronave, disse que ela já despertou, então devemos conversar com ela."
 		},
-		Summary = "Conversar com Sweety"
+		Summary = "Converse com Sweety"
 	},
 	[18020] = {
 		Title = "Saudação",
@@ -47399,62 +47442,78 @@ NpcSpr = [=[4_M_RACHMAN1]]
 		Title = "Visitante Inesperado",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Crux veio do Palácio Real de Prontera. Ele disse que veio para levá-lo ao palácio. Vamos falar com {{P:^000000}}[Crux]{{P:^FFFFFF}} na sala de descanso do alojamento."
+			"Crux veio do Palácio Real de Prontera informando que alguém quer ver você. Caso tenha interesse, você encontrará Crux no <NAVI>[dormitório]<INFO>ba_maison,100,320,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Conversar com Crux"
+		Summary = "Converse com Crux"
 	},
 	[18022] = {
-		Title = "Ei! Sweety",
+		Title = "Duelo com Sweety",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Se Sweety, que está sob manutenção no Depósito da Aeronave, ficar violenta, lide com ela adequadamente."
 		},
-		Summary = "Lutar contra Sweety"
+		Summary = "Finalize a instância"
 	},
 	[18023] = {
-		Title = "Ei! Sweety - Em Espera",
+		Title = "[Espera] Duelo com Sweety",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Após sua agitação, o corpo de Sweety precisa de estabilização e reparos. Esta quest poderá ser aceita novamente após o tempo de espera com <NAVI>[Sweety]<INFO>ba_in01,32,250,0,101,0</INFO></NAVI> no Depósito da Aeronave."
 		},
-		Summary = "Reinício às 04:00"
+		Summary = "Reseta às 4 da manhã."
 	},
 	[18024] = {
 		Title = "Coleta de Núcleos",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Grão de Amêndoas do Depósito da Aeronave pediu que, quando tiver tempo durante o treinamento com Sweety, patrulhe o jardim da mansão à noite e colete 'Núcleo da Boneca Quebrada'."
+			"Amêndoas do Depósito da Aeronave pediu que, quando tiver tempo durante o treinamento com Sweety, patrulhe o jardim da mansão à noite e colete 'Núcleo da Boneca Quebrada'."
 		},
 		Summary = "Recuperar pelo menos 10 Núcleos Danificados"
 	},
 	[18025] = {
-		Title = "Coleta de Núcleos - Em Espera",
+		Title = "[Espera] Coleta de Núcleos",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Esta quest poderá ser aceita novamente após o tempo de espera com <NAVI>[Grão de Amêndoas]<INFO>ba_in01,28,255,0,101,0</INFO></NAVI> no Depósito da Aeronave."
+			"Esta quest poderá ser aceita novamente após o tempo de espera com <NAVI>[Amêndoas]<INFO>ba_in01,28,255,0,101,0</INFO></NAVI> no Depósito da Aeronave."
 		},
-		Summary = "Reinício às 04:00"
+		Summary = "Reseta às 4 da manhã."
 	},
 	[18026] = {
-		Title = "Memória de Thanatos",
+		Title = "Espadachim Demon?aco Mem?ria de Thanatos",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Thanatos, o espadachim que lutou contra Morroc no passado, é visto na torre. Rumin, que veio para verificar a veracidade do boato, pede que você explore a torre."
+			"Dizem que o Espadachim Demon?aco Mem?ria de Thanatos, que no passado enfrentou Morroc, foi avistado na torre. Em nome de Rumin, que veio verificar a veracidade do rumor, explore os andares superiores de Mem?ria de Thanatos e procure pelo Espadachim Demon?aco Mem?ria de Thanatos."
 		},
-		Summary = "Derrotar Thanatos"
+		Summary = "Derrotar Mem?ria de Thanatos",
+		NpcSpr = "4_M_AC_RUMIN",
+		NpcNavi = "thana_step",
+		NpcPosX = 154,
+		NpcPosY = 367
 	},
 	[18027] = {
-		Title = "Memória de Thanatos",
+		Title = "Espadachim Demon?aco Mem?ria de Thanatos",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Thanatos, o espadachim que lutou contra Morroc no passado, é visto na torre. Rumin, que veio para verificar a veracidade do boato, pede que você explore a torre."
+			"Dizem que o Espadachim Demon?aco Mem?ria de Thanatos, que no passado enfrentou Morroc, foi avistado na torre. Em nome de Rumin, que veio verificar a veracidade do rumor, explore os andares superiores de Mem?ria de Thanatos e procure pelo Espadachim Demon?aco Mem?ria de Thanatos."
 		},
-		Summary = "Derrotar Thanatos quebrado"
+		Summary = "Derrotar Mem?ria de Thanatos Destru?da",
+		NpcSpr = "5_M_AC_RUMIN",
+		NpcNavi = "thana_step",
+		NpcPosX = 154,
+		NpcPosY = 367
 	},
 	[18028] = {
-		Title = "[Espera] Memória de Thanatos",
+		Title = "Espadachim Demon?aco Mem?ria de Thanatos-Espera",
+		IconName = "ico_dq.bmp",
 		Description = {
-			"Essa missão pode ser aceita novamente quando o tempo de espera expirar. A missão pode ser aceita por meio de <NAVI>[Rumin]<INFO>thana_step,154,367,0,101,0</INFO></NAVI>."
+			"Esta miss?o poder? ser aceita novamente ap?s o tempo de espera atrav?s de Mem?ria de Thanatos <NAVI>[Rumin]<INFO>thana_step,154,367,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Reinício às 4h"
+		Summary = "Reinicia ?s 04h",
+		CoolTimeQuest = 1,
+		NpcSpr = "6_M_AC_RUMIN",
+		NpcNavi = "thana_step",
+		NpcPosX = 154,
+		NpcPosY = 367
 	},
 	[18029] = {
 		Title = "[Apoio] Caçada de Fabres",
@@ -48105,7 +48164,7 @@ NpcSpr = [=[4_M_RACHMAN1]]
 			"<NAVI>[July Rudolf]<INFO>lasagna,87,206,0,101,0</INFO></NAVI> / <NAVI>[August Rudolf]<INFO>prontera,149,305,0,101,0</INFO></NAVI> / <NAVI>[September Rudolf]<INFO>alberta,131,174,0,101,0</INFO></NAVI>",
 			"<NAVI>[October Rudolf]<INFO>Nifflheim,198,238,0,101,0</INFO></NAVI> / <NAVI>[November Rudolf]<INFO>prt_fild01,108,173,0,101,0</INFO></NAVI> / <NAVI>[December Rudolf]<INFO>aldebaran,171,153,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Reinício às 04:00",
+		Summary = "Reseta às 4 da manhã.",
 		CoolTimeQuest = 1
 	},
 	[19068] = {
@@ -55435,7 +55494,7 @@ NpcSpr = [=[4_M_RACHMAN1]]
 		Title = "Visitantes de Outro Mundo",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Ajude a G-Force com a criação do <NAVI>[Míssil Midga]<INFO>morocc,33,187,0,101,0</INFO></NAVI>, para que possam retornar à Terra. Derrote 5 Galarings e 5 Lulas-explosivas e traga 5 Pólvoras Midga para serem usadas como materiais do míssil.",
+			"Ajude a Equipe Ninja com a criação do <NAVI>[Míssil Midga]<INFO>morocc,33,187,0,101,0</INFO></NAVI>, para que possam retornar à Terra. Derrote 5 Galarings e 5 Lulas-explosivas e traga 5 Pólvoras Midga para serem usadas como materiais do míssil.",
 			"* A navegação pode não funcionar corretamente dentro da instância."
 		},
 		Summary = "Caça aos Materiais"
@@ -71035,70 +71094,70 @@ NpcSpr = [=[4_M_RACHMAN1]]
 	[295259] = {
 		Title = "Passe de Batalha Diário 1",
 		Description = {
-			"Derrote 3 Sasquatchs"
+			"Derrote 10 Planta Verdes"
 		},
-		Summary = "Derrote 3 Sasquatchs"
+		Summary = "Derrote 10 Planta Verdes"
 	},
 	[295260] = {
 		Title = "Passe de Batalha Diário 1",
 		Description = {
-			"Derrote Sasquatchs / Uma vez por dia, reinicia às 04:00"
+			"Derrote Planta Verdes / Uma vez por dia, reinicia às 04:00"
 		},
 		Summary = "Reinicia às 04:00"
 	},
 	[295261] = {
 		Title = "Passe de Batalha Diário 2",
 		Description = {
-			"Derrote Fenrir."
+			"Derrote Amdarais."
 		},
-		Summary = "Derrote Fenrir"
+		Summary = "Derrote Amdarais"
 	},
 	[295262] = {
 		Title = "Passe de Batalha Diário 2",
 		Description = {
-			"Derrote Fenrir / Uma vez por dia, reinicia às 04:00"
+			"Derrote Amdarais / Uma vez por dia, reinicia às 04:00"
 		},
 		Summary = "Reinicia às 04:00"
 	},
 	[295263] = {
 		Title = "Passe de Batalha Diário 3",
 		Description = {
-			"Entregue 100 Catálogo de vendas Pratas"
+			"Entregue 50 Mastelas"
 		},
-		Summary = "Entregue 100 Catálogo de vendas Pratas"
+		Summary = "Entregue 50 Mastelas"
 	},
 	[295264] = {
 		Title = "Passe de Batalha Diário 3",
 		Description = {
-			"Entregue Catálogo de vendas Pratas / Uma vez por dia, reinicia às 04:00"
+			"Entregue Mastelas / Uma vez por dia, reinicia às 04:00"
 		},
 		Summary = "Reinicia às 04:00"
 	},
 	[295265] = {
 		Title = "Passe de Batalha Diário 4",
 		Description = {
-			"Entregar 200,000 Zeny"
+			"Entregue 10 Erva Verdes"
 		},
-		Summary = "Entregar 200,000 Zeny"
+		Summary = "Entregue 10 Erva Verdes"
 	},
 	[295266] = {
 		Title = "Passe de Batalha Diário 4",
 		Description = {
-			"Entregar Zeny / Uma vez por dia, reinicia às 04:00"
+			"Entregue Erva Verdes / Uma vez por dia, reinicia às 04:00"
 		},
 		Summary = "Reinicia às 04:00"
 	},
 	[295267] = {
 		Title = "Passe de Batalha Diário 5",
 		Description = {
-			"Derrote 50 Andarilho Polutos"
+			"Derrote 2 Amdarais Sombrios"
 		},
-		Summary = "Derrote 50 Andarilho Polutos"
+		Summary = "Derrote 2 Amdarais Sombrios"
 	},
 	[295268] = {
 		Title = "Passe de Batalha Diário 5",
 		Description = {
-			"Derrote Andarilho Polutos / Uma vez por semana, reinicia às 04:00"
+			"Derrote Amdarais Sombrios / Uma vez por semana, reinicia às 04:00"
 		},
 		Summary = "Reinicia às 04:00"
 	},

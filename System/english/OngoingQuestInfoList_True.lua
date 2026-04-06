@@ -6965,7 +6965,7 @@ QuestInfoList = {
 		Title = "2nd Magic Power Plant Administrator Eorfa",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Let us take Potato Chips from ^4d4dffMana-Addicted Sanare^000000!"
+			"Let us take Potato Chips from ^4D4DFFMana Addicted Sanare^000000!"
 		},
 		Summary = "Retrieve 10 Potato Chips."
 	},
@@ -6981,7 +6981,7 @@ QuestInfoList = {
 		Title = "Potato Chips Scattered by Illusion",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Let us take Potato Chips from ^4d4dffMana-Addicted Sanare^000000!"
+			"Let us take Potato Chips from ^4D4DFFMana Addicted Sanare^000000!"
 		},
 		Summary = "Retrieve 10 Potato Chips."
 	},
@@ -14130,21 +14130,21 @@ QuestInfoList = {
 		}
 	},
 	[5892] = {
-		Title = "Cleaning Robot Omega",
+		Title = "Cleaning Robot Ømega",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"Cleaning Robot Omega"
+			"Cleaning Robot Ømega"
 		},
-		Summary = "Conversation with Cleaning Robot Omega completed"
+		Summary = "Conversation with Cleaning Robot Ømega completed"
 	},
 	[5893] = {
 		Title = "Sewage Treatment Plant Cleanup I",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Cleaning Robot Omega]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI> is saddened that it cannot clean.",
+			"<NAVI>[Cleaning Robot Ømega]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI> is saddened that it cannot clean.",
 			"Defeat 44 <NAVI>[Sewage Venenum]<INFO>EP17_2_VENENUM3,0,0,3,-222,1</INFO></NAVI>.",
 			"",
-			"Rewards can only be obtained after completing Sewage Treatment Plant Cleanup I, Sewage Treatment Plant Cleanup II, and Sewage Treatment Plant Cleanup III."
+			"Rewards can only be obtained after completing all three Sewage Treatment Plant Cleanup quests."
 		},
 		Summary = "44 Sewage Venenum",
 		NpcSpr = "EP17_2_OMEGA_CLEANER"
@@ -14153,10 +14153,10 @@ QuestInfoList = {
 		Title = "Sewage Treatment Plant Cleanup II",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Cleaning Robot Omega]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI> is saddened that it cannot clean.",
+			"<NAVI>[Cleaning Robot Ømega]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI> is saddened that it cannot clean.",
 			"Defeat 44 <NAVI>[Sewage Cramp]<INFO>EP17_2_CRAMP,0,0,3,-222,1</INFO></NAVI>.",
 			"",
-			"Rewards can only be obtained after completing Sewage Treatment Plant Cleanup I, Sewage Treatment Plant Cleanup II, and Sewage Treatment Plant Cleanup III."
+			"Rewards can only be obtained after completing all three Sewage Treatment Plant Cleanup quests."
 		},
 		Summary = "44 Sewage Cramp",
 		NpcSpr = "EP17_2_OMEGA_CLEANER"
@@ -14165,10 +14165,10 @@ QuestInfoList = {
 		Title = "Sewage Treatment Plant Cleanup III",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Cleaning Robot Omega]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI> is saddened that it cannot clean.",
+			"<NAVI>[Cleaning Robot Ømega]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI> is saddened that it cannot clean.",
 			"Defeat 44 <NAVI>[Sewage Waterfall]<INFO>EP17_2_WATERFALL,0,0,3,-222,1</INFO></NAVI>.",
 			"",
-			"Rewards can only be obtained after completing Sewage Treatment Plant Cleanup I, Sewage Treatment Plant Cleanup II, and Sewage Treatment Plant Cleanup III."
+			"Rewards can only be obtained after completing all three Sewage Treatment Plant Cleanup quests."
 		},
 		Summary = "44 Sewage Waterfall",
 		NpcSpr = "EP17_2_OMEGA_CLEANER"
@@ -14178,7 +14178,7 @@ QuestInfoList = {
 		IconName = "ico_dq.bmp",
 		Description = {
 			"After a certain period of time,",
-			"you may accept the Sewage Treatment Plant Cleanup quest again from <NAVI>[Cleaning Robot Omega]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI>."
+			"you may accept the Sewage Treatment Plant Cleanup quest again from <NAVI>[Cleaning Robot Ømega]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Resets at 04:00",
 		NpcSpr = "EP17_2_OMEGA_CLEANER"
@@ -14187,10 +14187,10 @@ QuestInfoList = {
 		Title = "1st Magic Power Plant Cleanup I",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Cleaning Robot Omega]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI> is saddened that it cannot clean.",
+			"<NAVI>[Cleaning Robot Ømega]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI> is saddened that it cannot clean.",
 			"Defeat 44 <NAVI>[Elite Bellare]<INFO>EP17_2_BELLARE3,0,0,3,-222,1</INFO></NAVI>.",
 			"",
-			"Rewards can only be obtained after completing 1st Magic Power Plant Cleanup I, 1st Magic Power Plant Cleanup II, and 1st Magic Power Plant Cleanup III."
+			"Rewards can only be obtained after completing all three 1st Magic Power Plant Cleanup quests."
 		},
 		Summary = "44 Elite Bellare",
 		NpcSpr = "EP17_2_OMEGA_CLEANER"
@@ -14199,10 +14199,10 @@ QuestInfoList = {
 		Title = "1st Magic Power Plant Cleanup II",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Cleaning Robot Omega]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI> is saddened that it cannot clean.",
+			"<NAVI>[Cleaning Robot Ømega]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI> is saddened that it cannot clean.",
 			"Defeat 44 <NAVI>[Mana-Addicted Dolor]<INFO>EP17_2_DOLOR3,0,0,3,-222,1</INFO></NAVI>.",
 			"",
-			"Rewards can only be obtained after completing 1st Magic Power Plant Cleanup I, 1st Magic Power Plant Cleanup II, and 1st Magic Power Plant Cleanup III."
+			"Rewards can only be obtained after completing all three 1st Magic Power Plant Cleanup quests."
 		},
 		Summary = "44 Mana-Addicted Dolor",
 		NpcSpr = "EP17_2_OMEGA_CLEANER"
@@ -14211,12 +14211,12 @@ QuestInfoList = {
 		Title = "1st Magic Power Plant Cleanup III",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Cleaning Robot Omega]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI> is saddened that it cannot clean.",
-			"Defeat 44 <NAVI>[Unleashed Plasma]<INFO>EP17_2_PLASMA_Y,0,0,3,-222,1</INFO></NAVI>.",
+			"<NAVI>[Cleaning Robot Ømega]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI> is saddened that it cannot clean.",
+			"Defeat 44 <NAVI>[Unleashed Magic]<INFO>EP17_2_PLASMA_Y,0,0,3,-222,1</INFO></NAVI>.",
 			"",
-			"Rewards can only be obtained after completing 1st Magic Power Plant Cleanup I, 1st Magic Power Plant Cleanup II, and 1st Magic Power Plant Cleanup III."
+			"Rewards can only be obtained after completing all three 1st Magic Power Plant Cleanup quests."
 		},
-		Summary = "44 Unleashed Plasma",
+		Summary = "44 Unleashed Magic",
 		NpcSpr = "EP17_2_OMEGA_CLEANER"
 	},
 	[5900] = {
@@ -14224,7 +14224,7 @@ QuestInfoList = {
 		IconName = "ico_dq.bmp",
 		Description = {
 			"After a certain period of time,",
-			"you may accept the 1st Magic Power Plant quest again from <NAVI>[Cleaning Robot Omega]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI>."
+			"you may accept the 1st Magic Power Plant quest again from <NAVI>[Cleaning Robot Ømega]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Resets at 04:00",
 		NpcSpr = "EP17_2_OMEGA_CLEANER"
@@ -20830,7 +20830,7 @@ QuestInfoList = {
 		NpcPosY = 244
 	},
 	[7881] = {
-		Title = "Unusual Mineral Research 1",
+		Title = "Special Mineral Research 1",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Near Einbech Mine, <NAVI>[Trainee Researcher Sally]<INFO>einbech,143,244,0,101,0</INFO></NAVI> said she is researching Green Mineral and Red Mineral that appear on the 3rd floor of the Einbech Mine dungeon, and asked you to hunt an appropriate amount."
@@ -20842,10 +20842,10 @@ QuestInfoList = {
 		NpcPosY = 244
 	},
 	[7882] = {
-		Title = "Unusual Mineral Research 1 - Waiting",
+		Title = "Special Mineral Research 1 - Waiting",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"After the waiting time expires, you can accept the 'Unusual Mineral Research 1' quest from <NAVI>[Trainee Researcher Sally]<INFO>einbech,143,244,0,101,0</INFO></NAVI> near Einbech Mine."
+			"After the waiting time expires, you can accept the 'Special Mineral Research 1' quest from <NAVI>[Trainee Researcher Sally]<INFO>einbech,143,244,0,101,0</INFO></NAVI> near Einbech Mine."
 		},
 		Summary = "Resets at 04:00",
 		NpcSpr = "4_F_LGTGIRL",
@@ -20854,7 +20854,7 @@ QuestInfoList = {
 		NpcPosY = 244
 	},
 	[7883] = {
-		Title = "Unusual Mineral Research 2",
+		Title = "Special Mineral Research 2",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Near Einbech Mine, <NAVI>[Trainee Researcher Sally]<INFO>einbech,143,244,0,101,0</INFO></NAVI> said she is researching White Mineral and Purple Mineral that appear on the 3rd floor of the Einbech Mine dungeon, and asked you to hunt an appropriate amount."
@@ -20866,10 +20866,10 @@ QuestInfoList = {
 		NpcPosY = 244
 	},
 	[7884] = {
-		Title = "Unusual Mineral Research 2 - Waiting",
+		Title = "Special Mineral Research 2 - Waiting",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"After the waiting time expires, you can accept the 'Unusual Mineral Research 2' quest from <NAVI>[Trainee Researcher Sally]<INFO>einbech,143,244,0,101,0</INFO></NAVI> near Einbech Mine."
+			"After the waiting time expires, you can accept the 'Special Mineral Research 2' quest from <NAVI>[Trainee Researcher Sally]<INFO>einbech,143,244,0,101,0</INFO></NAVI> near Einbech Mine."
 		},
 		Summary = "Resets at 04:00",
 		NpcSpr = "4_F_LGTGIRL",
@@ -20926,7 +20926,7 @@ QuestInfoList = {
 		NpcPosY = 244
 	},
 	[7889] = {
-		Title = "X Century XX Golt",
+		Title = "Unknown Century",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"At the small dock of the Odin Temple, you were commissioned by <NAVI>[Folklorist Cinnamon]<INFO>odin_tem01,108,152,0,101,0</INFO></NAVI>, who was researching the temple, to hunt two types of Angelgolt for an investigation of the ancient Odin Temple."
@@ -20938,10 +20938,10 @@ QuestInfoList = {
 		NpcPosY = 152
 	},
 	[7890] = {
-		Title = "X Century XX Golt - Waiting",
+		Title = "Unknown Century - Waiting",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"After the waiting time expires, you can accept the 'X Century XX Golt' quest from <NAVI>[Folklorist Cinnamon]<INFO>odin_tem01,108,152,0,101,0</INFO></NAVI> waiting at the dock of the Odin Temple."
+			"After the waiting time expires, you can accept the 'Unknown Century' quest from <NAVI>[Folklorist Cinnamon]<INFO>odin_tem01,108,152,0,101,0</INFO></NAVI> waiting at the dock of the Odin Temple."
 		},
 		Summary = "Resets at 04:00",
 		NpcSpr = "4_M_SITDOWN",
@@ -20977,7 +20977,7 @@ QuestInfoList = {
 		Title = "Unusually Colored Ferus",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Ethnologist Marigold]<INFO>hugel,102,148,0,101,0</INFO></NAVI> in the Hugel plaza asked you to help research 'Purple Ferus,' which appears to be an elemental variant on the 4th floor of the Abyss Dungeon."
+			"<NAVI>[Dragonologist Marigold]<INFO>hugel,102,148,0,101,0</INFO></NAVI> in the Hugel plaza asked you to help research 'Purple Ferus,' which appears to be an elemental variant on the 4th floor of the Abyss Dungeon."
 		},
 		Summary = "Hunt Purple Ferus",
 		NpcSpr = "4_F_HUWOMAN",
@@ -20989,7 +20989,7 @@ QuestInfoList = {
 		Title = "Unusually Colored Ferus - Waiting",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"After the waiting time expires, you can accept the 'Purple Ferus Research' quest from <NAVI>[Ethnologist Marigold]<INFO>hugel,102,148,0,101,0</INFO></NAVI> waiting in the Hugel plaza."
+			"After the waiting time expires, you can accept the 'Purple Ferus Research' quest from <NAVI>[Dragonologist Marigold]<INFO>hugel,102,148,0,101,0</INFO></NAVI> waiting in the Hugel plaza."
 		},
 		Summary = "Resets at 04:00",
 		NpcSpr = "4_F_HUWOMAN",
@@ -21001,7 +21001,7 @@ QuestInfoList = {
 		Title = "Investigate a New Mimic Species",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Ethnologist Marigold]<INFO>hugel,102,148,0,101,0</INFO></NAVI> in the Hugel plaza requested that you hunt Treasure Mimic, a new type of Mimic, on the 4th floor of the Abyss Dungeon and collect data."
+			"<NAVI>[Dragonologist Marigold]<INFO>hugel,102,148,0,101,0</INFO></NAVI> in the Hugel plaza requested that you hunt Treasure Mimic, a new type of Mimic, on the 4th floor of the Abyss Dungeon and collect data."
 		},
 		Summary = "Hunt Treasure Mimic",
 		NpcSpr = "4_F_HUWOMAN",
@@ -21013,7 +21013,7 @@ QuestInfoList = {
 		Title = "Investigate a New Mimic Species - Waiting",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"After the waiting time expires, you can accept the 'Investigate a New Mimic Species' quest from <NAVI>[Ethnologist Marigold]<INFO>hugel,102,148,0,101,0</INFO></NAVI> waiting in the Hugel plaza."
+			"After the waiting time expires, you can accept the 'Investigate a New Mimic Species' quest from <NAVI>[Dragonologist Marigold]<INFO>hugel,102,148,0,101,0</INFO></NAVI> waiting in the Hugel plaza."
 		},
 		Summary = "Resets at 04:00",
 		NpcSpr = "4_F_HUWOMAN",
@@ -21025,7 +21025,7 @@ QuestInfoList = {
 		Title = "Acidus Element Research",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Ethnologist Marigold]<INFO>hugel,102,148,0,101,0</INFO></NAVI> in the Hugel plaza asked you to help research Black Acidus and Silver Acidus on the 4th floor of the Abyss Dungeon."
+			"<NAVI>[Dragonologist Marigold]<INFO>hugel,102,148,0,101,0</INFO></NAVI> in the Hugel plaza asked you to help research Black Acidus and Silver Acidus on the 4th floor of the Abyss Dungeon."
 		},
 		Summary = "Hunt Black Acidus, Silver Acidus",
 		NpcSpr = "4_F_HUWOMAN",
@@ -21037,7 +21037,7 @@ QuestInfoList = {
 		Title = "Acidus Element Research - Waiting",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"After the waiting time expires, you can accept the 'Acidus Element Research' quest from <NAVI>[Ethnologist Marigold]<INFO>hugel,102,148,0,101,0</INFO></NAVI> waiting in the Hugel plaza."
+			"After the waiting time expires, you can accept the 'Acidus Element Research' quest from <NAVI>[Dragonologist Marigold]<INFO>hugel,102,148,0,101,0</INFO></NAVI> waiting in the Hugel plaza."
 		},
 		Summary = "Resets at 04:00",
 		NpcSpr = "4_F_HUWOMAN",
@@ -21046,10 +21046,10 @@ QuestInfoList = {
 		NpcPosY = 143
 	},
 	[7899] = {
-		Title = "Defying Providence",
+		Title = "Dragon Archaeology",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Ethnologist Marigold]<INFO>hugel,102,148,0,101,0</INFO></NAVI> in Hugel Square asked you to return Bone Ferus and Bone Acidus, which appear on the 4th floor of the Abyss Dungeon, to nature's embrace."
+			"<NAVI>[Dragonologist Marigold]<INFO>hugel,102,148,0,101,0</INFO></NAVI> in Hugel Square asked you to return Bone Ferus and Bone Acidus, which appear on the 4th floor of the Abyss Dungeon, to nature's embrace."
 		},
 		Summary = "Defeat Bone Ferus and Bone Acidus",
 		NpcSpr = "4_F_HUWOMAN",
@@ -21058,10 +21058,10 @@ QuestInfoList = {
 		NpcPosY = 143
 	},
 	[7900] = {
-		Title = "Defying Providence - Waiting",
+		Title = "Dragon Archaeology - Waiting",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"After the waiting time expires, you can accept the 'Defying Providence' quest from <NAVI>[Ethnologist Marigold]<INFO>hugel,102,148,0,101,0</INFO></NAVI>, who is waiting in Hugel Square."
+			"After the waiting time expires, you can accept the 'Dragon Archaeology' quest from <NAVI>[Dragonologist Marigold]<INFO>hugel,102,148,0,101,0</INFO></NAVI>, who is waiting in Hugel Square."
 		},
 		Summary = "Resets at 04:00",
 		NpcSpr = "4_F_HUWOMAN",
@@ -23843,9 +23843,9 @@ QuestInfoList = {
 		Summary = "Deliver 30 Meloring Skins"
 	},
 	[8586] = {
-		Title = "Ranch Guide",
+		Title = "Farm Guide",
 		Description = {
-			"It is said that entry to the ranch will not be permitted without first hearing the facility guide and precautions. Let us speak with <NAVI>[Luynan]<INFO>ba_maison,311,205,0,101,0</INFO></NAVI> for details."
+			"It is said that entry to the farm will not be permitted without first hearing the facility guide and precautions. Let us speak with <NAVI>[Luynan]<INFO>ba_maison,311,205,0,101,0</INFO></NAVI> for details."
 		},
 		Summary = "Speak with Luynan"
 	},
@@ -32437,7 +32437,7 @@ QuestInfoList = {
 		Title = "Straggler in the Sewer",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"The person who fell into the water appears to be incapacitated. Use a Yggdrasil Leaf to revive them."
+			"The person who fell into the water appears to be incapacitated. Use a Yggdrasil Leaf to revive <NAVI>[them]<INFO>ba_pw02,93,93,0,101,0</INFO></NAVI>."
 		},
 		Summary = "1 Yggdrasil Leaf"
 	},
@@ -32445,31 +32445,31 @@ QuestInfoList = {
 		Title = "Straggler in the Sewer",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Deu's party also received a request from Rebellion to investigate the estate. Let us join the others."
+			"Du Lian's party also received a request from Rebellion to investigate the estate. Let us join <NAVI>[the others]<INFO>ba_pw01,14,115,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Head to where Magi's voice can be heard"
+		Summary = "Head to where you can hear Maggi"
 	},
 	[11617] = {
 		Title = "Straggler in the Sewer",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"You found a door leading upward. Let us move together."
+			"You found a door leading upward. Let us move <NAVI>[together]<INFO>ba_pw01,87,290,0,101,0</INFO></NAVI>.."
 		},
-		Summary = "Head to where Alf is"
+		Summary = "Head to where Alp is"
 	},
 	[11618] = {
 		Title = "Straggler in the Sewer",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"It seems you have finally reached the surface. Speak with Lasis."
+			"It seems you have finally reached the surface. Speak with Larcis."
 		},
-		Summary = "Speak with Lasis"
+		Summary = "Speak with Larcis"
 	},
 	[11620] = {
 		Title = "Straggler in the Sewer",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"The inner door appears to be locked. Go outside and speak with the party."
+			"The inner door appears to be locked. Go outside and speak with <NAVI>[Tamarin]<INFO>ba_maison,70,145,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Speak with Tamarin"
 	},
@@ -32477,7 +32477,7 @@ QuestInfoList = {
 		Title = "Please be quiet in the Library!",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Deu suddenly ran toward <NAVI>[Fountain]<INFO>ba_maison,85,111,0,101,0</INFO></NAVI>. Let us follow Deu."
+			"Du Lian suddenly ran toward <NAVI>[Fountain]<INFO>ba_maison,85,111,0,101,0</INFO></NAVI>. Let us follow Du Lian."
 		},
 		Summary = "Check Fountain"
 	},
@@ -32493,7 +32493,7 @@ QuestInfoList = {
 		Title = "Please be quiet in the Library!",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"You turned off the light attached to the door and entered the Library. Speak with <NAVI>[Library Manager Beta]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
+			"You handled the fire at the door and entered the Library. Speak with <NAVI>[Library Manager Beta]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Speak with Library Manager Beta"
 	},
@@ -32509,17 +32509,17 @@ QuestInfoList = {
 		Title = "Please be quiet in the Library!",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Additional registration is required to use the Library. Inform <NAVI>[Magi]<INFO>ba_lib,112,266,0,101,0</INFO></NAVI>."
+			"Additional registration is required to use the Library. Inform <NAVI>[Maggi]<INFO>ba_lib,112,266,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Speak with Magi in the Library"
+		Summary = "Speak with Maggi in the Library"
 	},
 	[11626] = {
 		Title = "Please be quiet in the Library!",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Additional registration is required to use the Library. Inform <NAVI>[Alf]<INFO>ba_lib,293,234,0,101,0</INFO></NAVI>."
+			"Additional registration is required to use the Library. Inform <NAVI>[Alp]<INFO>ba_lib,293,234,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Speak with Alf in the Library"
+		Summary = "Speak with Alp in the Library"
 	},
 	[11627] = {
 		Title = "Please be quiet in the Library!",
@@ -32549,7 +32549,7 @@ QuestInfoList = {
 		Title = "Please be quiet in the Library!",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"You spoke with Magi. Once you have finished speaking with the others, return to <NAVI>[Library Manager Beta]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
+			"You spoke with Maggi. Once you have finished speaking with the others, return to <NAVI>[Library Manager Beta]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Return to Library Manager Beta"
 	},
@@ -32557,7 +32557,7 @@ QuestInfoList = {
 		Title = "Please be quiet in the Library!",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"You spoke with Alf. Once you have finished speaking with the others, return to <NAVI>[Library Manager Beta]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
+			"You spoke with Alp. Once you have finished speaking with the others, return to <NAVI>[Library Manager Beta]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Return to Library Manager Beta"
 	},
@@ -32586,7 +32586,7 @@ QuestInfoList = {
 		Summary = "Hunt 20 Bookworm"
 	},
 	[11635] = {
-		Title = "Ultimate Bookworm Hunt",
+		Title = "[Wait] Ultimate Bookworm Hunt",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"This is a daily quest and can be accepted again from <NAVI>[Library Manager Beta]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI> once the waiting period expires."
@@ -32603,7 +32603,7 @@ QuestInfoList = {
 		Summary = "Collect 20 Roaming Spellbook"
 	},
 	[11637] = {
-		Title = "Ultimate Book Organization",
+		Title = "[Wait] Ultimate Book Organization",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"This is a daily quest and can be accepted again from <NAVI>[Library Manager Beta]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI> once the waiting period expires."
@@ -32619,7 +32619,7 @@ QuestInfoList = {
 		Summary = "Collect 20 Guardian's Remnants"
 	},
 	[11639] = {
-		Title = "Ultimate Scrap Collection",
+		Title = "[Wait] Ultimate Scrap Collection",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"This is a daily quest and can be accepted again from <NAVI>[Tamarin]<INFO>ba_maison,70,145,0,101,0</INFO></NAVI> once the waiting period expires."
@@ -36919,33 +36919,32 @@ QuestInfoList = {
 		Summary = "End of conversation"
 	},
 	[12493] = {
-		Title = "Aftermath of the challenge",
+		Title = "Aftereffects of the Challenge",
 		Description = {
-			"Once entered, you cannot re-challenge the Glastheim Challenge Mode before 3 days have passed."
+			"This aftereffect is accompanied by a deep sense of helplessness. Once you have entered, you cannot challenge Glast Heim Challenge Mode again until 3 days have passed."
 		},
-		Summary = "Reset in 3 days at 4 AM",
-		CoolTimeQuest = 1
+		Summary = "Resets at 04:00 after 3 days"
 	},
 	[12494] = {
-		Title = "Explanation complete",
+		Title = "Explanation Complete",
 		Description = {
-			"Did you hear about the twisted space-time from Oscar?"
+			"You heard the explanation of the Twisted Spacetime from Oscar."
 		},
-		Summary = "Done hearing Explanation"
+		Summary = "Cannot be heard again"
 	},
 	[12495] = {
-		Title = "Risky challenge",
+		Title = "A Dangerous Challenge",
 		Description = {
-			"You are the only one who can stop the tainted dimension from tainting this World."
+			"You are the only one who can prevent Tainted Dimension from corrupting this world."
 		},
-		Summary = "Dimensional Contamination Purification"
+		Summary = "Dimensional Corruption Purification"
 	},
 	[12496] = {
-		Title = "Suspended Garden Entry Waiting",
+		Title = "Floating Garden Entry Waiting",
 		Description = {
 			"This Memorial Dungeon can be re-entered through <NAVI>[Security Area Access Officer]<INFO>ba_maison,120,321,0,101,0</INFO></NAVI> once the waiting period expires."
 		},
-		Summary = "Entry Authorization Waiting"
+		Summary = "Awaiting Entry Authorization"
 	},
 	[12497] = {
 		Title = "Security Area Entry Authorized",
@@ -36969,27 +36968,27 @@ QuestInfoList = {
 		Summary = "Buy Time"
 	},
 	[12500] = {
-		Title = "Subjugate Red Pepper-Ramda",
+		Title = "Subjugate Red Pepper-Lambda",
 		Description = {
-			"You must subdue Red Pepper Ramda, one of the three Security Area administrators, and seize administrator privileges. Of course, they will eventually recover over time..."
+			"You must subdue Red Pepper Lambda, one of the three Security Area administrators, and seize administrator privileges. Of course, they will eventually recover over time..."
 		},
 		Summary = "Buy Time"
 	},
 	[12501] = {
-		Title = "Eliminate Phantom in Glastheim",
+		Title = "Defeat the Illusion of Glastheim",
 		Description = {
-			"Eliminate at least one of two Phantoms in Glastheim",
-			"^0000ffYou can complete this quest even if you eliminate just one of them^000000"
+			"You must defeat one of the two illusions in Glastheim.",
+			"^0000ffCompleting either of the two will complete both quests^000000"
 		},
-		Summary = "Eliminate Phantom Amdarais"
+		Summary = "Phantom of Amdarais"
 	},
 	[12502] = {
-		Title = "Eliminate Phantom in Glastheim",
+		Title = "Defeat the Illusion of Glastheim",
 		Description = {
-			"Eliminate at least one of two Phantoms in Glastheim",
-			"^0000ffYou can complete this quest even if you eliminate just one of them^000000"
+			"You must defeat one of the two illusions in Glastheim.",
+			"^0000ffCompleting either of the two will complete both quests^000000"
 		},
-		Summary = "Eliminate Phantom Himmelmez"
+		Summary = "Illusion of Himmelmez"
 	},
 	[12508] = {
 		Title = "Apply for the Dragon's Test",
@@ -44377,99 +44376,98 @@ QuestInfoList = {
 		Summary = "Place Holder"
 	},
 	[16388] = {
-		Title = "First Path",
+		Title = "First Journey",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"Joined the Virtual Record translation for the first time."
+			"Participated in Virtual Record interpretation for the first time."
 		},
-		Summary = "First translation"
+		Summary = "First Interpretation Participation"
 	},
 	[16389] = {
-		Title = "First Path - Expedition Declined",
+		Title = "First Journey - Exploration Refused",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"Declined to join the Virtual Record translation."
+			"Refused to participate in Virtual Record interpretation."
 		},
-		Summary = "Declined to join the translation"
+		Summary = "Interpretation Participation Refused"
 	},
 	[16390] = {
-		Title = "Expedition Path - Pending",
+		Title = "Expedition Journey - Waiting",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"A Daily quest. It can be repeated after its cooldown."
+			"This quest is a daily quest and can be accepted again after the waiting time expires."
 		},
-		Summary = "Reset at 4:00 a.m.",
-		CoolTimeQuest = 1
+		Summary = "Reset at 04:00"
 	},
 	[16391] = {
-		Title = "?",
+		Title = "???",
 		IconName = "ico_nq.bmp",
-		Description = {"?"},
-		Summary = "?"
+		Description = {"?????"},
+		Summary = "???"
 	},
 	[16392] = {
-		Title = "Expedition Path - Reward",
+		Title = "Expedition Journey - Reward",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"Obtained a translation participation reward."
+			"Obtained a reward for participating in the interpretation."
 		},
-		Summary = "Obtained reward"
+		Summary = "Reward Obtained"
 	},
 	[16393] = {
-		Title = "Expedition Path - Swordsman Lab",
+		Title = "Expedition Journey - Swordsman Laboratory",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"Joined the Swordsman Lab expedition."
+			"Participated in the exploration of Swordsman Laboratory."
 		},
-		Summary = "Swordsman Lab expedition"
+		Summary = "Swordsman Laboratory Exploration"
 	},
 	[16394] = {
-		Title = "Expedition Path - Acolyte Lab",
+		Title = "Expedition Journey - Copy Laboratory",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"Joined the Acolyte Lab expedition."
+			"Participated in the exploration of Copy Laboratory."
 		},
-		Summary = "Acolyte Lab expedition"
+		Summary = "Copy Laboratory Exploration"
 	},
 	[16395] = {
-		Title = "Expedition Path - Thief Lab",
+		Title = "Expedition Journey - Thief Laboratory",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"Joined the Thief Lab expedition."
+			"Participated in the exploration of Thief Laboratory."
 		},
-		Summary = "Thief Lab expedition"
+		Summary = "Thief Laboratory Exploration"
 	},
 	[16396] = {
-		Title = "Expedition Path - Mage Lab",
+		Title = "Expedition Journey - Mage Laboratory",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"Joined the Mage Lab expedition."
+			"Participated in the exploration of Mage Laboratory."
 		},
-		Summary = "Mage Lab expedition"
+		Summary = "Mage Laboratory Exploration"
 	},
 	[16397] = {
-		Title = "Expedition Path - Merchant Lab",
+		Title = "Expedition Journey - Merchant Laboratory",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"Joined the Merchant Lab expedition."
+			"Participated in the exploration of Merchant Laboratory."
 		},
-		Summary = "Merchant Lab expedition"
+		Summary = "Merchant Laboratory Exploration"
 	},
 	[16398] = {
-		Title = "Expedition Path - Archer Lab",
+		Title = "Expedition Journey - Archer Laboratory",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"Joined the Archer Lab expedition."
+			"Participated in the exploration of Archer Laboratory."
 		},
-		Summary = "Archer Lab expedition"
+		Summary = "Archer Laboratory Exploration"
 	},
 	[16399] = {
-		Title = "Expedition Path",
+		Title = "Journey of Exploration",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"Joined the Virtual Record translation in Expedition mode."
+			"Participated in Virtual Record interpretation in Exploration Mode."
 		},
-		Summary = "Joined Expedition mode",
+		Summary = "Exploration Mode Progress",
 		RewardEXP = "",
 		RewardJEXP = "",
 		RewardItemList = {
@@ -44477,12 +44475,12 @@ QuestInfoList = {
 		}
 	},
 	[16400] = {
-		Title = "Battle Path",
+		Title = "Journey of Battle",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"Joined the Virtual Record translation in Battle mode."
+			"Participated in Virtual Record interpretation in Battle Mode."
 		},
-		Summary = "Joined Battle mode",
+		Summary = "Battle Mode Progress",
 		RewardEXP = "",
 		RewardJEXP = "",
 		RewardItemList = {
@@ -44496,10 +44494,10 @@ QuestInfoList = {
 		Description = {
 			"The festival began. Let's hear about it from <NAVI>[Festival Committee]<INFO>yuno.gat,175,162,0,101,0</INFO></NAVI> Yurata."
 		},
-		Summary = "Join Egg Fstival"
+		Summary = "Join Egg Festival"
 	},
 	[16405] = {
-		Title = "Happy Egg Exploration-Hold",
+		Title = "[Wait] Happy Egg Exploration",
 		IconName = "ico_ev.bmp",
 		Description = {
 			"This is a daily quest and can be re-received tomorrow. You can start a quest again from <NAVI>[Festival Committee]<INFO>yuno.gat,175,162,0,101,0</INFO></NAVI> Yurata."
@@ -44545,7 +44543,7 @@ QuestInfoList = {
 		Title = "Deliver Happy Almond",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Let's go receive one bucket of almonds from Ezlude's <NAVI>[Farmer Sheran]<INFO>izlude.gat,164,148,0,101,0</INFO></NAVI>."
+			"Let's go receive one bucket of almonds from Izlude's <NAVI>[Farmer Sheran]<INFO>izlude.gat,164,148,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Receive Almond"
 	},
@@ -44561,7 +44559,7 @@ QuestInfoList = {
 		Title = "Deliver Happy Almond",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Just received one bucket of almonds from Farmer Sheran in Ezlude. Let's get some chocolates as wella nd return to <NAVI>[Zillean]<INFO>yuno.gat,142,163,0,101,0</INFO></NAVI>."
+			"Just received one bucket of almonds from Farmer Sheran in Izlude. Let's get some chocolates as wella nd return to <NAVI>[Zillean]<INFO>yuno.gat,142,163,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Deliver Almonds"
 	},
@@ -44602,7 +44600,7 @@ QuestInfoList = {
 		Title = "Happy Cutepet Walk",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Let's walk with Cutepet till the second <NAVI>[point]<INFO>yuno,342,156,0,101,0</INFO></NAVI>."
+			"Let's walk with Cutepet till the second <NAVI>[point]<INFO>yuno,343,257,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Walk till the second point"
 	},
@@ -44690,7 +44688,7 @@ QuestInfoList = {
 		Title = "Antidote Production",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"The automatons have shunned Eliumina, but you obtained information instead. To reach Suspended Garden, head to <NAVI>[the Dock]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>."
+			"The automatons have shunned Eliumina, but you obtained information instead. To reach Floating Garden, head to <NAVI>[the Dock]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Move to the Dock"
 	},
@@ -44700,7 +44698,7 @@ QuestInfoList = {
 		Description = {
 			"To create the antidote, hunt Silva Papilia and return to <NAVI>[Seiyu]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Hunt Silva Papilia"
+		Summary = "Floating Garden"
 	},
 	[16430] = {
 		Title = "Antidote Completed",
@@ -44714,9 +44712,9 @@ QuestInfoList = {
 		Title = "Hunt Silva Papilia",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"After hunting Silva Papilia in Suspended Garden, return to <NAVI>[Seiyu]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>."
+			"After hunting Silva Papilia in Floating Garden, return to <NAVI>[Seiyu]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Hunt Silva Papilia"
+		Summary = "Floating Garden"
 	},
 	[16432] = {
 		Title = "Hunt Silva Papilia - Waiting",
@@ -44730,9 +44728,9 @@ QuestInfoList = {
 		Title = "Hunt Gran Papilia",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"After hunting Gran Papilia in Suspended Garden, return to <NAVI>[Seiyu]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>."
+			"After hunting Gran Papilia in Floating Garden, return to <NAVI>[Seiyu]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Hunt Gran Papilia"
+		Summary = "Floating Garden"
 	},
 	[16434] = {
 		Title = "Hunt Gran Papilia - Waiting",
@@ -44746,9 +44744,9 @@ QuestInfoList = {
 		Title = "Search for Gardener",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"It is said that a Gardener has not returned from the Maze Garden. Find them, confirm their safety, and report to <NAVI>[Seiyu]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>."
+			"It is said that a Gardener has not returned from the Floating Garden. Find them, confirm their safety, and report to <NAVI>[Seiyu]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>."
 		},
-		Summary = ""
+		Summary = "Floating Garden"
 	},
 	[16436] = {
 		Title = "Search for Gardener - Waiting",
@@ -44759,23 +44757,23 @@ QuestInfoList = {
 		Summary = "Resets at 04:00"
 	},
 	[16437] = {
-		Title = "Suspended Garden",
+		Title = "Floating Garden",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Challenged Suspended Garden on Normal difficulty."
+			"Challenged Floating Garden on Normal difficulty."
 		},
-		Summary = "Suspended Garden Normal"
+		Summary = "Floating Garden Normal"
 	},
 	[16438] = {
-		Title = "Suspended Garden Hard",
+		Title = "Floating Garden Hard",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Challenged Suspended Garden on Hard difficulty."
+			"Challenged Floating Garden on Hard difficulty."
 		},
-		Summary = "Suspended Garden Hard"
+		Summary = "Floating Garden Hard"
 	},
 	[16439] = {
-		Title = "Suspended Garden - Waiting",
+		Title = "Floating Garden - Waiting",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"This is a daily quest and can be accepted again once the waiting period expires through <NAVI>[Seiyu]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>."
@@ -44786,7 +44784,7 @@ QuestInfoList = {
 		Title = "I Want to Know the Truth",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Speak with <NAVI>[Dien]<INFO>ba_in01,203,103,0,101,0</INFO></NAVI> to hear why the elders oppose Philopontes."
+			"Speak with <NAVI>[Dien]<INFO>ba_in01,203,103,0,101,0</INFO></NAVI> to hear why the elders oppose Philopontess."
 		},
 		Summary = "Speak with Dien"
 	},
@@ -44834,9 +44832,9 @@ QuestInfoList = {
 		Title = "I Want to Know the Truth",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"The long-hidden story continues. Speak with <NAVI>[Lidsh]<INFO>ba_in01,208,110,0,101,0</INFO></NAVI> to hear the rest."
+			"The long-hidden story continues. Speak with <NAVI>[Ridsh]<INFO>ba_in01,208,110,0,101,0</INFO></NAVI> to hear the rest."
 		},
-		Summary = "Speak with Lidsh"
+		Summary = "Speak with Ridsh"
 	},
 	[16447] = {
 		Title = "I Want to Know the Truth",
@@ -46583,7 +46581,7 @@ Talk to Kar=],
 		Title = "It's Not That I Like It",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Then I shall trouble you. Please dispose of about 5 Broken Omega Cleaners. Enjoy your leisure afterward. - <NAVI>[Jjack]<INFO>ba_2whs01,150,51,0,101,0</INFO></NAVI>"
+			"Then I shall trouble you. Please dispose of about 5 Broken Omega Cleaners. Enjoy your leisure afterward. - <NAVI>[Twity]<INFO>ba_2whs01,150,51,0,101,0</INFO></NAVI>"
 		},
 		Summary = "5 Broken Omega Cleaners"
 	},
@@ -46599,9 +46597,9 @@ Talk to Kar=],
 		Title = "No Key",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"The door leading to the stairs is firmly locked. You must obtain the key from <NAVI>[Jjack]<INFO>ba_2whs01,150,51,0,101,0</INFO></NAVI>."
+			"The door leading to the stairs is firmly locked. You must obtain the key from <NAVI>[Twity]<INFO>ba_2whs01,150,51,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Speak with Jjack"
+		Summary = "Speak with Twity"
 	},
 	[17345] = {
 		Title = "Stairwell Key 1",
@@ -46713,37 +46711,37 @@ Talk to Kar=],
 		Description = {
 			"This should be enough to protect me! You said I should report to the other <NAVI>[Automata]<INFO>ba_2whs01,150,51,0,101,0</INFO></NAVI> upstairs, right? Hurry."
 		},
-		Summary = "Return to Jjack"
+		Summary = "Return to Twity"
 	},
 	[17359] = {
-		Title = "Organize the Ground Warehouse",
+		Title = "Organize the Ground Storage",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"You truly enjoy combat. Then please eliminate 20 Heart Hunter on the ground floor. - <NAVI>[Jjack]<INFO>ba_2whs01,150,51,0,101,0</INFO></NAVI>"
+			"You truly enjoy combat. Then please eliminate 20 Heart Hunter on the ground floor. - <NAVI>[Twity]<INFO>ba_2whs01,150,51,0,101,0</INFO></NAVI>"
 		},
 		Summary = "20 Heart Hunter"
 	},
 	[17360] = {
-		Title = "Waiting: Organize the Ground Warehouse",
+		Title = "Waiting: Organize the Ground Storage",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"The reduced numbers have been confirmed. I may now begin my work. Thank you. Please visit again after dawn. - <NAVI>[Jjack]<INFO>ba_2whs01,150,51,0,101,0</INFO></NAVI>"
+			"The reduced numbers have been confirmed. I may now begin my work. Thank you. Please visit again after dawn. - <NAVI>[Twity]<INFO>ba_2whs01,150,51,0,101,0</INFO></NAVI>"
 		},
 		Summary = "Resets at 04:00"
 	},
 	[17361] = {
-		Title = "Organize the Underground Warehouse",
+		Title = "Organize the Underground Storage",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"You truly enjoy combat. Then please eliminate 20 Broken Beta Guard in the basement. - <NAVI>[Jjack]<INFO>ba_2whs01,150,51,0,101,0</INFO></NAVI>"
+			"You truly enjoy combat. Then please eliminate 20 Broken Beta in the basement. - <NAVI>[Twity]<INFO>ba_2whs01,150,51,0,101,0</INFO></NAVI>"
 		},
 		Summary = "20 Basement Units"
 	},
 	[17362] = {
-		Title = "Waiting: Organize the Underground Warehouse",
+		Title = "Waiting: Organize the Underground Storage",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"The reduced numbers have been confirmed. I may now begin my work. Thank you. Please visit again after dawn. - <NAVI>[Jjack]<INFO>ba_2whs01,150,51,0,101,0</INFO></NAVI>"
+			"The reduced numbers have been confirmed. I may now begin my work. Thank you. Please visit again after dawn. - <NAVI>[Twity]<INFO>ba_2whs01,150,51,0,101,0</INFO></NAVI>"
 		},
 		Summary = "Resets at 04:00"
 	},
@@ -46847,7 +46845,7 @@ Talk to Kar=],
 		Title = "Request from Boiler",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Please eliminate about 20 Broken masseur and bring around 5 broken automaton parts. - <NAVI>[Boiler]<INFO>ba_bath,286,68,0,101,0</INFO></NAVI>"
+			"Please eliminate about 20 Broken Cleaners and bring around 5 broken automaton parts. - <NAVI>[Boiler]<INFO>ba_bath,286,68,0,101,0</INFO></NAVI>"
 		},
 		Summary = "Heard Boiler's request"
 	},
@@ -46855,7 +46853,7 @@ Talk to Kar=],
 		Title = "Between the Hot and Cold Baths",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Please eliminate about 20 Broken masseur and bring around 5 broken automaton parts. - <NAVI>[Boiler]<INFO>ba_bath,286,68,0,101,0</INFO></NAVI>"
+			"Please eliminate about 20 Broken Cleaners and bring around 5 broken automaton parts. - <NAVI>[Boiler]<INFO>ba_bath,286,68,0,101,0</INFO></NAVI>"
 		},
 		Summary = "Dispose of broken automata"
 	},
@@ -46868,26 +46866,26 @@ Talk to Kar=],
 		Summary = "Resets at 04:00"
 	},
 	[17378] = {
-		Title = "Request from Saksseuri",
+		Title = "Request from Swishie",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Please eliminate 15 Hot-water Mark and 15 Hot-water Piranha. Handle them all within this area. - <NAVI>[Saksseuri]<INFO>ba_bath,288,68,0,101,0</INFO></NAVI>"
+			"Please eliminate 15 Boiling Marc and 15 Boiling Piranha. Handle them all within this area. - <NAVI>[Swishie]<INFO>ba_bath,288,68,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Heard Saksseuri's request"
+		Summary = "Heard Swishie's request"
 	},
 	[17379] = {
 		Title = "Bathhouse Cleaning in Progress",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Please eliminate 15 Hot-water Mark and 15 Hot-water Piranha. Handle them all within this area. - <NAVI>[Saksseuri]<INFO>ba_bath,288,68,0,101,0</INFO></NAVI>"
+			"Please eliminate 15 Boiling Marc and 15 Boiling Piranha. Handle them all within this area. - <NAVI>[Swishie]<INFO>ba_bath,288,68,0,101,0</INFO></NAVI>"
 		},
-		Summary = "30 Fish"
+		Summary = "30 Fishes"
 	},
 	[17380] = {
 		Title = "Waiting: Bathhouse Cleaning in Progress",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"It would be best to return after dawn. The fish will still be plentiful then. - <NAVI>[Saksseuri]<INFO>ba_bath,288,68,0,101,0</INFO></NAVI>"
+			"It would be best to return after dawn. The fish will still be plentiful then. - <NAVI>[Swishie]<INFO>ba_bath,288,68,0,101,0</INFO></NAVI>"
 		},
 		Summary = "Resets at 04:00"
 	},
@@ -47057,151 +47055,151 @@ Talk to Kar=],
 		Summary = "Place Holder"
 	},
 	[17408] = {
-		Title = "Thanatos Tower Contract",
+		Title = "Thanatos Tower Mercenary Contract",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"The Thanatos Tower mercenary contract has been completed."
+			"The Thanatos Tower mercenary contract with Rekenber Corporation has been completed."
 		},
-		Summary = "Contract Completed"
+		Summary = "Contract Complete"
 	},
 	[17409] = {
-		Title = "Sign of Red Key",
+		Title = "Holding the Red Key",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"When I hold the red key, it trembles faintly and I feel a strange power. Let's go where the power <NAVI>[leads]<INFO>tha_t03,70,70,0,101,0</INFO></NAVI>."
+			"When you hold the Red Key, it trembles faintly and a weak power can be felt. Let us go to where the power <NAVI>[leads]<INFO>tha_t03,70,70,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Follow the leads."
+		Summary = "To where the power leads"
 	},
 	[17410] = {
-		Title = "Sign of Yellow Key",
+		Title = "Holding the Yellow Key",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"When I hold the yellow key, it trembles faintly and I feel a strange power. Let's go where the power <NAVI>[leads]<INFO>tha_t04,199,199,0,101,0</INFO></NAVI>."
+			"When you hold the Yellow Key, it trembles faintly and a weak power can be felt. Let us go to where the power <NAVI>[leads]<INFO>tha_t04,199,199,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Follow the leads."
+		Summary = "To where the power leads"
 	},
 	[17411] = {
-		Title = "Sign of Blue Key",
+		Title = "Holding the Blue Key",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"When I hold the blue key, it trembles faintly and I feel a strange power. Let's go where the power <NAVI>[leads]<INFO>tha_t05,62,184,0,101,0</INFO></NAVI>."
+			"When you hold the Blue Key, it trembles faintly and a weak power can be felt. Let us go to where the power <NAVI>[leads]<INFO>tha_t05,62,184,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Follow the leads."
+		Summary = "To where the power leads"
 	},
 	[17412] = {
-		Title = "Sign of Green Key",
+		Title = "Holding the Green Key",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"When I hold the green key, it trembles faintly and I feel a strange power. Let's go where the power <NAVI>[leads]<INFO>tha_t06,221,230,0,101,0</INFO></NAVI>."
+			"When you hold the Green Key, it trembles faintly and a weak power can be felt. Let us go to where the power <NAVI>[leads]<INFO>tha_t06,221,230,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Follow the leads."
+		Summary = "To where the power leads"
 	},
 	[17413] = {
-		Title = "Sign of Black Key",
+		Title = "Holding the Black Key",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"When I hold the black key, it trembles faintly and I feel a strange power. Let's go where the power <NAVI>[leads]<INFO>tha_t06,200,181,0,101,0</INFO></NAVI>."
+			"When you hold the Black Key, it trembles faintly and a weak power can be felt. Let us go to where the power <NAVI>[leads]<INFO>tha_t06,200,181,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Follow the leads."
+		Summary = "To where the power leads"
 	},
 	[17414] = {
-		Title = "Secret of Thanatos Tower",
+		Title = "The Secret of Thanatos Tower",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"Let's show the notebook you obtained to <NAVI>[Entrance Guide]<INFO>tha_t02,231,161,0,101,0</INFO></NAVI>."
+			"Show the notebook you obtained to <NAVI>[Blade Conceed]<INFO>tha_t02,231,161,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Talk to Entrance Guide"
+		Summary = "To Blade Conceed"
 	},
 	[17415] = {
-		Title = "Solis' Request",
+		Title = "Accept Request",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"You decided to accept Solis' request."
+			"You have accepted the request from Solis."
 		},
-		Summary = "Request Accepted."
+		Summary = "Acceptance Complete"
 	},
 	[17416] = {
-		Title = "[Daily] 9th Floor Monsters",
+		Title = "Monsters on the 9th Floor",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"You need to defeat 20 Crow Dukes and 20 Crow Barons on the 9th floor of Thanatos Tower. If you bring 10 Fragment of Misery, we will give you an additional reward. - <NAVI>[Solis]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
+			"On the 9th floor of Thanatos Tower, defeat 20 each of Crow Duke and Crow Baron. If you bring 10 Fragment of Misery, you will receive an additional reward. - <NAVI>[Solis]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Collect 10 Fragment of Misery"
+		Summary = "10 Fragment of Misery"
 	},
 	[17417] = {
-		Title = "[Daily] 10th Floor Monsters",
+		Title = "Monsters on the 10th Floor",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"You need to defeat 15 Void Mimic, 15 Book of Death, and 15 Eldest on the 10th floor of Thanatos Tower. If you bring 10 Fragment of Despair, we will give you an additional reward. - <NAVI>[Solis]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
+			"On the 10th floor of Thanatos Tower, defeat 15 each of Void Mimic, Book of Death, and Eldest. If you bring 10 Fragment of Despair, you will receive an additional reward. - <NAVI>[Solis]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Collect 10 Fragment of Despair"
+		Summary = "10 Fragment of Despair"
 	},
 	[17418] = {
-		Title = "[Daily] 11th Floor Monsters I",
+		Title = "Monsters on the 11th Floor",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"You need to defeat 15 Empathizer and 15 Happiness Giver on the 11th floor of Thanatos Tower. If you bring 10 Fragment of Hatred, we will give you an additional reward. - <NAVI>[Solis]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
+			"On the 11th floor of Thanatos Tower, defeat 15 each of Empathizer and Happiness Giver. If you bring 10 Fragment of Hatred, you will receive an additional reward. - <NAVI>[Solis]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Collect 10 Fragment of Hatred"
+		Summary = "10 Fragment of Hatred"
 	},
 	[17419] = {
-		Title = "[Daily] 11th Floor Monsters II",
+		Title = "Monsters on the 11th Floor",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"You need to defeat 15 Pray Giver and 15 Smile Giver on the 11th floor of Thanatos Tower. - <NAVI>[Solis]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
+			"On the 11th floor of Thanatos Tower, defeat 15 each of Pray Giver and Smile Giver. - <NAVI>[Solis]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
 		},
 		Summary = ""
 	},
 	[17420] = {
-		Title = "[Daily] 12th Floor Monsters I",
+		Title = "Monsters on the 12th Floor",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"You need to defeat 10 Anger of Thanatos and 10 Horror of Thanatos on the 12th floor of Thanatos Tower. If you bring 10 Fragment of Agony, we will give you an additional reward. - <NAVI>[Solis]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
+			"On the 12th floor of Thanatos Tower, defeat 10 each of Anger of Thanatos and Horror of Thanatos. If you bring 10 Fragment of Agony, you will receive an additional reward. - <NAVI>[Solis]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Collect 10 Fragment of Agony"
+		Summary = "10 Fragment of Agony"
 	},
 	[17421] = {
-		Title = "[Daily] 12th Floor Monsters II",
+		Title = "Monsters on the 12th Floor",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"You need to defeat 10 Regret of Thanatos and 10 Resentment of Thanatos on the 12th floor of Thanatos Tower. - <NAVI>[Solis]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
+			"On the 12th floor of Thanatos Tower, defeat 10 each of Regret of Thanatos and Resentment of Thanatos. - <NAVI>[Solis]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
 		},
 		Summary = ""
 	},
 	[17422] = {
-		Title = "[Cooldown] 9th Floor Monsters",
+		Title = "Standby: Thanatos Tower 9th Floor",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"We need to organize the data, so please come back after dawn. - <NAVI>[Solis]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
+			"We need to organize our records, so please return after dawn. - <NAVI>[Solis]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Reset at 04.00",
+		Summary = "Resets at 04:00",
 		CoolTimeQuest = 1
 	},
 	[17423] = {
-		Title = "[Cooldown] 10th Floor Monsters",
+		Title = "Standby: Thanatos Tower 10th Floor",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"We need to organize the data, so please come back after dawn. - <NAVI>[Solis]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
+			"We need to organize our records, so please return after dawn. - <NAVI>[Solis]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Reset at 04.00",
+		Summary = "Resets at 04:00",
 		CoolTimeQuest = 1
 	},
 	[17424] = {
-		Title = "[Cooldown] 11th Floor Monsters",
+		Title = "Standby: Thanatos Tower 11th Floor",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"We need to organize the data, so please come back after dawn. - <NAVI>[Solis]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
+			"We need to organize our records, so please return after dawn. - <NAVI>[Solis]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Reset at 04.00",
+		Summary = "Resets at 04:00",
 		CoolTimeQuest = 1
 	},
 	[17425] = {
-		Title = "[Cooldown] 12th Floor Monsters",
+		Title = "Standby: Thanatos Tower 12th Floor",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"We need to organize the data, so please come back after dawn. - <NAVI>[Solis]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
+			"We need to organize our records, so please return after dawn. - <NAVI>[Solis]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Reset at 04.00",
+		Summary = "Resets at 04:00",
 		CoolTimeQuest = 1
 	},
 	[17450] = {
@@ -47953,7 +47951,7 @@ Talk to Kar=],
 		Title = "Retrieve the Damaged Cores",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Together with Rookie, you decided to recover the cores of automata attacked by Heart Hunter. Collect the cores and head to the designated meeting point promised to Rookie."
+			"Together with Rookie, you decided to recover the cores of automata attacked by Heart Hunter. Collect the cores and head to the designated <NAVI>[meeting point]<INFO>ba_maison,303,141,0,101,0</INFO></NAVI> promised to Rookie."
 		},
 		Summary = "Collect at least 5 Damaged Cores"
 	},
@@ -48049,9 +48047,9 @@ Talk to Kar=],
 		Title = "An Unexpected Big Catch",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Thanks to Elena's quick thinking, Eisen Werner has been captured. Elena heads to the <NAVI>[Servants' Quarters]<INFO>ba_maison,100,320,0,101,0</INFO></NAVI>, where Eliumina is being detained, escorting Aizen Werner. Join them and interrogate Aizen."
+			"Thanks to Elena's quick thinking, Eisen Werner has been captured. Elena heads to the <NAVI>[Servants' Quarters]<INFO>ba_maison,100,320,0,101,0</INFO></NAVI>, where Eliumina is being detained. Join them and interrogate Eisen."
 		},
-		Summary = "Talk to Rookie"
+		Summary = "Talk to Elena Volkova"
 	},
 	[18015] = {
 		Title = "Illusion Tracker",
@@ -48065,7 +48063,7 @@ Talk to Kar=],
 		Title = "Operation Meeting",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Together with Est, devise a plan to search the Varmundt Estate and uncover the hidden Heart Hunter and Illusion."
+			"Together with Est, devise a plan to search the Varmunt Estate and uncover the hidden Heart Hunter and Illusion."
 		},
 		Summary = "Talk to Est"
 	},
@@ -48083,13 +48081,13 @@ Talk to Kar=],
 		Description = {
 			"You may be able to extract information from the captured Sweety. Head to the Airship Depot."
 		},
-		Summary = "Talk to Alpha"
+		Summary = "Talk to Smart Elly"
 	},
 	[18019] = {
 		Title = "Talk to Sweety",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Almond kernels, who was repairing Sweety at the Airship Depot, says that Sweety has awakened and suggests you speak with it."
+			"Almond, who was repairing Sweety at the Airship Depot, says that Sweety has awakened and suggests you speak with it."
 		},
 		Summary = "Talk to Sweety"
 	},
@@ -48129,7 +48127,7 @@ Talk to Kar=],
 		Title = "Core Collection",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Almond kernels at the Airship Depot asks that, while sparring with Sweety, you patrol the estate garden at night and collect 'Broken Doll Core' when time permits."
+			"Almond at the Airship Depot asks that, while sparring with Sweety, you patrol the estate garden at night and collect 'Broken Doll Core' when time permits."
 		},
 		Summary = "Collect at least 10 Damaged Cores"
 	},
@@ -48137,41 +48135,42 @@ Talk to Kar=],
 		Title = "Core Collection - Waiting",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"This quest can be accepted again after the waiting period from <NAVI>[Almond kernels]<INFO>ba_in01,28,255,0,101,0</INFO></NAVI> at the Airship Depot."
+			"This quest can be accepted again after the waiting period from <NAVI>[Almond]<INFO>ba_in01,28,255,0,101,0</INFO></NAVI> at the Airship Depot."
 		},
 		Summary = "Resets at 04:00"
 	},
 	[18026] = {
-		Title = "Memory of Thanatos",
+		Title = "Magic Swordsman Memory of Thanatos",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Thanatos, the swordsman who fought against Morocc in the past, is seen in the tower. Rumin, who has come to check the truth of the rumor, asks you to explore the tower."
+			"It is said that the Magic Swordsman Memory of Thanatos, who once fought against Morroc, has been sighted in the tower. Explore the upper floors of Thanatos Tower in place of Rumin, who came to verify the truth behind the rumor, and find the Magic Swordsman Memory of Thanatos."
 		},
-		Summary = "Defeat Thanatos",
+		Summary = "Defeat Memory of Thanatos",
 		NpcSpr = "4_M_AC_RUMIN",
 		NpcNavi = "thana_step",
 		NpcPosX = 154,
 		NpcPosY = 367
 	},
 	[18027] = {
-		Title = "Memory of Thanatos",
+		Title = "Magic Swordsman Memory of Thanatos",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Thanatos, the swordsman who fought against Morocc in the past, is seen in the tower. Rumin, who has come to check the truth of the rumor, asks you to explore the tower."
+			"It is said that the Magic Swordsman Memory of Thanatos, who once fought against Morroc, has been sighted in the tower. Explore the upper floors of Thanatos Tower in place of Rumin, who came to verify the truth behind the rumor, and find the Magic Swordsman Memory of Thanatos."
 		},
-		Summary = "Defeat Broken Thanatos",
+		Summary = "Defeat Destroyed Memory of Thanatos",
 		NpcSpr = "5_M_AC_RUMIN",
 		NpcNavi = "thana_step",
 		NpcPosX = 154,
 		NpcPosY = 367
 	},
 	[18028] = {
-		Title = "[Cooldown] Memory of Thanatos",
+		Title = "Magic Swordsman Memory of Thanatos-Standby",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"This quest can be accepted again once the cooldown expires. Quest can be accepted through <NAVI>[Rumin]<INFO>thana_step,154,367,0,101,0</INFO></NAVI>."
+			"This quest can be accepted again through Rumin at Thanatos Tower <NAVI>[Rumin]<INFO>thana_step,154,367,0,101,0</INFO></NAVI> after the waiting time has passed."
 		},
-		Summary = "Reset at 4 AM",
+		Summary = "Resets at 04:00",
+		CoolTimeQuest = 1,
 		NpcSpr = "6_M_AC_RUMIN",
 		NpcNavi = "thana_step",
 		NpcPosX = 154,
@@ -55768,7 +55767,7 @@ Talk to Kar=],
 		Title = "Visitors from Another World",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Help the G-Force team with the Midga Missile <NAVI>[creation]<INFO>morocc,33,187,0,101,0</INFO></NAVI>, so they can return to Earth. Defeat 5 Galarings and 5 Squid Bombs and bring back 5 Midga Powders to be used as missile materials.",
+			"Help the Ninja Team with the Midga Missile <NAVI>[creation]<INFO>morocc,33,187,0,101,0</INFO></NAVI>, so they can return to Earth. Defeat 5 Galarings and 5 Squid Bombs and bring back 5 Midga Powders to be used as missile materials.",
 			"* Navigation may not function smoothly inside the memorial dungeon."
 		},
 		Summary = "Hunt for Materials"
@@ -72655,70 +72654,70 @@ Talk to Kar=],
 	[295259] = {
 		Title = "Battle Pass Daily1",
 		Description = {
-			"Defeat 3 Sasquatchs"
+			"Defeat 10 Green Plants"
 		},
-		Summary = "Defeat 3 Sasquatchs"
+		Summary = "Defeat 10 Green Plants"
 	},
 	[295260] = {
 		Title = "Battle Pass Daily1",
 		Description = {
-			"Defeat Sasquatchs / Once per day, resets at 04:00"
+			"Defeat Green Plants / Once per day, resets at 04:00"
 		},
 		Summary = "Resets at 04:00"
 	},
 	[295261] = {
 		Title = "Battle Pass Daily2",
 		Description = {
-			"Defeat Fenrir."
+			"Defeat Amdarais."
 		},
-		Summary = "Defeat Fenrir"
+		Summary = "Defeat Amdarais"
 	},
 	[295262] = {
 		Title = "Battle Pass Daily2",
 		Description = {
-			"Defeat Fenrir/ Once per day, resets at 04:00"
+			"Defeat Amdarais/ Once per day, resets at 04:00"
 		},
 		Summary = "Resets at 04:00"
 	},
 	[295263] = {
 		Title = "Battle Pass Daily3",
 		Description = {
-			"Deliver 100 Window Shopper Catalogues"
+			"Deliver 50 Mastela Fruits"
 		},
-		Summary = "Deliver 100 Window Shopper Catalogues"
+		Summary = "Deliver 50 Mastela Fruits"
 	},
 	[295264] = {
 		Title = "Battle Pass Daily3",
 		Description = {
-			"Deliver Window Shopper Catalogues/ Once per day, resets at 04:00"
+			"Deliver Mastela Fruits / Once per day, resets at 04:00"
 		},
 		Summary = "Resets at 04:00"
 	},
 	[295265] = {
 		Title = "Battle Pass Daily4",
 		Description = {
-			"Submit 200,000 Zeny"
+			"Deliver 10 Green Herbs"
 		},
-		Summary = "Submit 200,000 Zeny"
+		Summary = "Deliver 10 Green Herbs"
 	},
 	[295266] = {
 		Title = "Battle Pass Daily4",
 		Description = {
-			"Submit Zeny/ Once per day, resets at 04:00"
+			"Deliver Green Herbs / Once per day, resets at 04:00"
 		},
 		Summary = "Resets at 04:00"
 	},
 	[295267] = {
 		Title = "Battle Pass Daily5",
 		Description = {
-			"Defeat 50 Corrupted Wanderers"
+			"Defeat 2 Phantom of Amdaraiss"
 		},
-		Summary = "Defeat 50 Corrupted Wanderers"
+		Summary = "Defeat 2 Phantom of Amdaraiss"
 	},
 	[295268] = {
 		Title = "Battle Pass Daily5",
 		Description = {
-			"Defeat Corrupted Wanderers / Once per week, resets at 04:00"
+			"Defeat Phantom of Amdaraiss / Once per week, resets at 04:00"
 		},
 		Summary = "Resets at 04:00"
 	},

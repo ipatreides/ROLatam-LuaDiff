@@ -615,6 +615,61 @@ packageitemboxName = {
 		"[Disfraz] ¡Adiós! ¡Fuerza G!"
 	},
 	{
+		106920,
+		0,
+		"[Disfraz] Coletas de Dumpling (Azul)"
+	},
+	{
+		106920,
+		1,
+		"[Disfraz] Coletas de Dumpling (Rojo)"
+	},
+	{
+		106920,
+		2,
+		"[Disfraz] Coletas de Dumpling (Amarillo)"
+	},
+	{
+		106920,
+		3,
+		"[Disfraz] Coletas de Dumpling (Verde)"
+	},
+	{
+		106920,
+		4,
+		"[Disfraz] Coletas de Dumpling (Negro)"
+	},
+	{
+		106920,
+		5,
+		"[Disfraz] Coletas de Dumpling (Blanco)"
+	},
+	{
+		106920,
+		6,
+		"[Disfraz] Coletas de Dumpling (Carmesí)"
+	},
+	{
+		106920,
+		7,
+		"[Disfraz] Coletas de Dumpling (Morado)"
+	},
+	{
+		106930,
+		0,
+		"Ala Dragónica"
+	},
+	{
+		106930,
+		1,
+		"Ala Angelical"
+	},
+	{
+		106930,
+		2,
+		"Gafas de Seguridad"
+	},
+	{
 		0,
 		0,
 		"0"
@@ -2227,6 +2282,105 @@ packageitemsetbox = {
 		106302,
 		1,
 		420729,
+		1,
+		0,
+		0,
+		0
+	},
+	{
+		106920,
+		0,
+		400205,
+		1,
+		0,
+		0,
+		0
+	},
+	{
+		106920,
+		1,
+		400206,
+		1,
+		0,
+		0,
+		0
+	},
+	{
+		106920,
+		2,
+		400207,
+		1,
+		0,
+		0,
+		0
+	},
+	{
+		106920,
+		3,
+		400208,
+		1,
+		0,
+		0,
+		0
+	},
+	{
+		106920,
+		4,
+		400209,
+		1,
+		0,
+		0,
+		0
+	},
+	{
+		106920,
+		5,
+		400210,
+		1,
+		0,
+		0,
+		0
+	},
+	{
+		106920,
+		6,
+		400211,
+		1,
+		0,
+		0,
+		0
+	},
+	{
+		106920,
+		7,
+		400212,
+		1,
+		0,
+		0,
+		0
+	},
+	{
+		106930,
+		0,
+		410612,
+		1,
+		0,
+		0,
+		0
+	},
+	{
+		106930,
+		1,
+		410613,
+		1,
+		0,
+		0,
+		0
+	},
+	{
+		106930,
+		2,
+		410614,
 		1,
 		0,
 		0,

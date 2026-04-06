@@ -1864,146 +1864,6 @@
         "pt": "[Participe da Primeira Temporada do Passe de Batalha]",
         "es": "[Únete a la Primera Temporada del Pase de Batalla]"
     },
-    "uyg": {
-        "en": "[Daily Check-In Event - Day 1]",
-        "pt": "[Evento de Login Diário - Dia 1]",
-        "es": "[Evento de Registro Diario - 1 día]"
-    },
-    "vCg": {
-        "en": "[Daily Check-In Event - Day 2]",
-        "pt": "[Evento de Login Diário - Dia 2]",
-        "es": "[Evento de Registro Diario - 2 día]"
-    },
-    "vSg": {
-        "en": "[Daily Check-In Event - Day 3]",
-        "pt": "[Evento de Login Diário - Dia 3]",
-        "es": "[Evento de Registro Diario - 3 día]"
-    },
-    "vig": {
-        "en": "[Daily Check-In Event - Day 4]",
-        "pt": "[Evento de Login Diário - Dia 4]",
-        "es": "[Evento de Registro Diario - 4 día]"
-    },
-    "vyg": {
-        "en": "[Daily Check-In Event - Day 5]",
-        "pt": "[Evento de Login Diário - Dia 5]",
-        "es": "[Evento de Registro Diario - 5 día]"
-    },
-    "wCg": {
-        "en": "[Daily Check-In Event - Day 6]",
-        "pt": "[Evento de Login Diário - Dia 6]",
-        "es": "[Evento de Registro Diario - 6 día]"
-    },
-    "wSg": {
-        "en": "[Daily Check-In Event - Day 7]",
-        "pt": "[Evento de Login Diário - Dia 7]",
-        "es": "[Evento de Registro Diario - 7 día]"
-    },
-    "wig": {
-        "en": "[Daily Check-In Event - Day 8]",
-        "pt": "[Evento de Login Diário - Dia 8]",
-        "es": "[Evento de Registro Diario - 8 día]"
-    },
-    "wyg": {
-        "en": "[Daily Check-In Event - Day 9]",
-        "pt": "[Evento de Login Diário - Dia 9]",
-        "es": "[Evento de Registro Diario - 9 día]"
-    },
-    "xCg": {
-        "en": "[Daily Check-In Event - Day 10]",
-        "pt": "[Evento de Login Diário - Dia 10]",
-        "es": "[Evento de Registro Diario - 10 día]"
-    },
-    "xSg": {
-        "en": "[Daily Check-In Event - Day 11]",
-        "pt": "[Evento de Login Diário - Dia 11]",
-        "es": "[Evento de Registro Diario - 11 día]"
-    },
-    "xig": {
-        "en": "[Daily Check-In Event - Day 12]",
-        "pt": "[Evento de Login Diário - Dia 12]",
-        "es": "[Evento de Registro Diario - 12 día]"
-    },
-    "xyg": {
-        "en": "[Daily Check-In Event - Day 13]",
-        "pt": "[Evento de Login Diário - Dia 13]",
-        "es": "[Evento de Registro Diario - 13 día]"
-    },
-    "yCg": {
-        "en": "[Daily Check-In Event - Day 14]",
-        "pt": "[Evento de Login Diário - Dia 14]",
-        "es": "[Evento de Registro Diario - 14 día]"
-    },
-    "ySg": {
-        "en": "[Daily Check-In Event - Day 15]",
-        "pt": "[Evento de Login Diário - Dia 15]",
-        "es": "[Evento de Registro Diario - 15 día]"
-    },
-    "yig": {
-        "en": "[Daily Check-In Event - Day 16]",
-        "pt": "[Evento de Login Diário - Dia 16]",
-        "es": "[Evento de Registro Diario - 16 día]"
-    },
-    "yyg": {
-        "en": "[Daily Check-In Event - Day 17]",
-        "pt": "[Evento de Login Diário - Dia 17]",
-        "es": "[Evento de Registro Diario - 17 día]"
-    },
-    "zCg": {
-        "en": "[Daily Check-In Event - Day 18]",
-        "pt": "[Evento de Login Diário - Dia 18]",
-        "es": "[Evento de Registro Diario - 18 día]"
-    },
-    "zSg": {
-        "en": "[Daily Check-In Event - Day 19]",
-        "pt": "[Evento de Login Diário - Dia 19]",
-        "es": "[Evento de Registro Diario - 19 día]"
-    },
-    "zig": {
-        "en": "[Daily Check-In Event - Day 20]",
-        "pt": "[Evento de Login Diário - Dia 20]",
-        "es": "[Evento de Registro Diario - 20 día]"
-    },
-    "zyg": {
-        "en": "[Daily Check-In Event - Day 21]",
-        "pt": "[Evento de Login Diário - Dia 21]",
-        "es": "[Evento de Registro Diario - 21 día]"
-    },
-    "0Cg": {
-        "en": "[Daily Check-In Event - Day 22]",
-        "pt": "[Evento de Login Diário - Dia 22]",
-        "es": "[Evento de Registro Diario - 22 día]"
-    },
-    "0Sg": {
-        "en": "[Daily Check-In Event - Day 23]",
-        "pt": "[Evento de Login Diário - Dia 23]",
-        "es": "[Evento de Registro Diario - 23 día]"
-    },
-    "0ig": {
-        "en": "[Daily Check-In Event - Day 24]",
-        "pt": "[Evento de Login Diário - Dia 24]",
-        "es": "[Evento de Registro Diario - 24 día]"
-    },
-    "0yg": {
-        "en": "[Daily Check-In Event - Day 25]",
-        "pt": "[Evento de Login Diário - Dia 25]",
-        "es": "[Evento de Registro Diario - 25 día]"
-    },
-    "1Cg": {
-        "en": "[Daily Check-In Event - Day 26]",
-        "pt": "[Evento de Login Diário - Dia 26]",
-        "es": "[Evento de Registro Diario - 26 día]"
-    },
-    "1Sg": {
-        "en": "[Daily Check-In Event - Day 27]",
-        "pt": "[Evento de Login Diário - Dia 27]",
-        "es": "[Evento de Registro Diario - 27 día]"
-    },
-    "1ig": {
-        "en": "[Daily Check-In Event - Day 28]",
-        "pt": "[Evento de Login Diário - Dia 28]",
-        "es": "[Evento de Registro Diario - 28 día]"
-    },
     "nyg": {
         "en": "[Here is the prize for 1 day login on the official web site.]",
         "pt": "[Segue a premiação pelo login de 1 dia no site oficial.]",
@@ -2143,5 +2003,679 @@
         "en": "[Here is the prize for 28 day login on the official web site.]",
         "pt": "[Segue a premiação pelo login de 28 dia no site oficial.]",
         "es": "[Aquí está el premio por 28 día de inicio de sesión en el sitio.]"
+    },
+    "uyg": {
+        "en": "[Jumpstart Event]",
+        "pt": "[Evento de Arrancada]",
+        "es": "[Evento de Arranque]"
+    },
+    "vCg": {
+        "en": "[Event: Welcome Back]",
+        "pt": "[Evento: Bem-vindo(a) de volta]",
+        "es": "[Evento: Bienvenida de Regreso]"
+    },
+    "vSg": {
+        "en": "[Event: Thank you for Playing with Us]",
+        "pt": "[Evento: Obrigado por continuar conosco]",
+        "es": "[Evento: Gracias por estar siempre con nosotros]"
+    },
+    "vig": {
+        "en": "[Daily Check-In Event - Dia 1]"
+    },
+    "vyg": {
+        "en": "[Daily Check-In Event - Dia 2]"
+    },
+    "wCg": {
+        "en": "[Daily Check-In Event - Dia 3]"
+    },
+    "wSg": {
+        "en": "[Daily Check-In Event - Dia 4]"
+    },
+    "wig": {
+        "en": "[Daily Check-In Event - Dia 5]"
+    },
+    "wyg": {
+        "en": "[Daily Check-In Event - Dia 6]"
+    },
+    "xCg": {
+        "en": "[Daily Check-In Event - Dia 7]"
+    },
+    "xSg": {
+        "en": "[Daily Check-In Event - Dia 8]"
+    },
+    "xig": {
+        "en": "[Daily Check-In Event - Dia 9]"
+    },
+    "xyg": {
+        "en": "[Daily Check-In Event - Dia 10]"
+    },
+    "yCg": {
+        "en": "[Daily Check-In Event - Dia 11]"
+    },
+    "ySg": {
+        "en": "[Daily Check-In Event - Dia 12]"
+    },
+    "yig": {
+        "en": "[Daily Check-In Event - Dia 13]"
+    },
+    "yyg": {
+        "en": "[Daily Check-In Event - Dia 14]"
+    },
+    "zCg": {
+        "en": "[Daily Check-In Event - Dia 15]"
+    },
+    "zSg": {
+        "en": "[Daily Check-In Event - Dia 16]"
+    },
+    "zig": {
+        "en": "[Daily Check-In Event - Dia 17]"
+    },
+    "zyg": {
+        "en": "[Daily Check-In Event - Dia 18]"
+    },
+    "0Cg": {
+        "en": "[Daily Check-In Event - Dia 19]"
+    },
+    "0Sg": {
+        "en": "[Daily Check-In Event - Dia 20]"
+    },
+    "0ig": {
+        "en": "[Daily Check-In Event - Dia 21]"
+    },
+    "0yg": {
+        "en": "[Daily Check-In Event - Dia 22]"
+    },
+    "1Cg": {
+        "en": "[Daily Check-In Event - Dia 23]"
+    },
+    "1Sg": {
+        "en": "[Daily Check-In Event - Dia 24]"
+    },
+    "1ig": {
+        "en": "[Daily Check-In Event - Dia 25]"
+    },
+    "1yg": {
+        "en": "[Daily Check-In Event - Dia 26]"
+    },
+    "2Cg": {
+        "en": "[Daily Check-In Event - Dia 27]"
+    },
+    "2Sg": {
+        "en": "[Daily Check-In Event - Dia 28]"
+    },
+    "2ig": {
+        "en": "[1st Square - Midgard Trail]",
+        "pt": "[1ª Casa - Trilha de Midgard]",
+        "es": "[Casilla 1 - Caminos de Midgard]"
+    },
+    "2yg": {
+        "en": "[2nd Square - Midgard Trail]",
+        "pt": "[2ª Casa - Trilha de Midgard]",
+        "es": "[Casilla 2 - Caminos de Midgard]"
+    },
+    "3Cg": {
+        "en": "[3rd Square - Midgard Trail]",
+        "pt": "[3ª Casa - Trilha de Midgard]",
+        "es": "[Casilla 3 - Caminos de Midgard]"
+    },
+    "3Sg": {
+        "en": "[4th Square - Midgard Trail]",
+        "pt": "[4ª Casa - Trilha de Midgard]",
+        "es": "[Casilla 4 - Caminos de Midgard]"
+    },
+    "3ig": {
+        "en": "[6th Square - Midgard Trail]",
+        "pt": "[6ª Casa - Trilha de Midgard]",
+        "es": "[Casilla 6 - Caminos de Midgard]"
+    },
+    "3yg": {
+        "en": "[7th Square - Midgard Trail]",
+        "pt": "[7ª Casa - Trilha de Midgard]",
+        "es": "[Casilla 7 - Caminos de Midgard]"
+    },
+    "4Cg": {
+        "en": "[8th Square - Midgard Trail]",
+        "pt": "[8ª Casa - Trilha de Midgard]",
+        "es": "[Casilla 8 - Caminos de Midgard]"
+    },
+    "4Sg": {
+        "en": "[9th Square - Midgard Trail]",
+        "pt": "[9ª Casa - Trilha de Midgard]",
+        "es": "[Casilla 9 - Caminos de Midgard]"
+    },
+    "4ig": {
+        "en": "[10th Square - Midgard Trail]",
+        "pt": "[10ª Casa - Trilha de Midgard]",
+        "es": "[Casilla 10 - Caminos de Midgard]"
+    },
+    "4yg": {
+        "en": "[12th Square - Midgard Trail]",
+        "pt": "[12ª Casa - Trilha de Midgard]",
+        "es": "[Casilla 12 - Caminos de Midgard]"
+    },
+    "5Cg": {
+        "en": "[13rd Square - Midgard Trail]",
+        "pt": "[13ª Casa - Trilha de Midgard]",
+        "es": "[Casilla 13 - Caminos de Midgard]"
+    },
+    "5Sg": {
+        "en": "[14th Square - Midgard Trail]",
+        "pt": "[14ª Casa - Trilha de Midgard]",
+        "es": "[Casilla 14 - Caminos de Midgard]"
+    },
+    "5ig": {
+        "en": "[16th Square - Midgard Trail]",
+        "pt": "[16ª Casa - Trilha de Midgard]",
+        "es": "[Casilla 16 - Caminos de Midgard]"
+    },
+    "5yg": {
+        "en": "[17th Square - Midgard Trail]",
+        "pt": "[17ª Casa - Trilha de Midgard]",
+        "es": "[Casilla 17 - Caminos de Midgard]"
+    },
+    "6Cg": {
+        "en": "[18th Square - Midgard Trail]",
+        "pt": "[18ª Casa - Trilha de Midgard]",
+        "es": "[Casilla 18 - Caminos de Midgard]"
+    },
+    "6Sg": {
+        "en": "[20th Square - Midgard Trail]",
+        "pt": "[20ª Casa - Trilha de Midgard]",
+        "es": "[Casilla 20 - Caminos de Midgard]"
+    },
+    "6ig": {
+        "en": "[21th Square - Midgard Trail]",
+        "pt": "[21ª Casa - Trilha de Midgard]",
+        "es": "[Casilla 21 - Caminos de Midgard]"
+    },
+    "6yg": {
+        "en": "[23rd Square - Midgard Trail]",
+        "pt": "[23ª Casa - Trilha de Midgard]",
+        "es": "[Casilla 23 - Caminos de Midgard]"
+    },
+    "7Cg": {
+        "en": "[24th Square - Midgard Trail]",
+        "pt": "[24ª Casa - Trilha de Midgard]",
+        "es": "[Casilla 24 - Caminos de Midgard]"
+    },
+    "7Sg": {
+        "en": "[25th Square - Midgard Trail]",
+        "pt": "[25ª Casa - Trilha de Midgard]",
+        "es": "[Casilla 25 - Caminos de Midgard]"
+    },
+    "7ig": {
+        "en": "[27th Square - Midgard Trail]",
+        "pt": "[27ª Casa - Trilha de Midgard]",
+        "es": "[Casilla 27 - Caminos de Midgard]"
+    },
+    "7yg": {
+        "en": "[1st Full Lap - Midgard Trail]",
+        "pt": "[1ª Volta Completa - Trilha de Midgard]",
+        "es": "[1.ª Vuelta Completa - Caminos de Midgard]"
+    },
+    "8Cg": {
+        "en": "[3rd Full Lap - Midgard Trail]",
+        "pt": "[3ª Volta Completa - Trilha de Midgard]",
+        "es": "[3.ª Vuelta Completa - Caminos de Midgard]"
+    },
+    "8Sg": {
+        "en": "[5th Full Lap - Midgard Trail]",
+        "pt": "[5ª Volta Completa - Trilha de Midgard]",
+        "es": "[5.ª Vuelta Completa - Caminos de Midgard]"
+    },
+    "8ig": {
+        "en": "[Here is the item to participate in the Jumpstart Event.]",
+        "pt": "[Segue item para participação no Evento de Arrancada.]",
+        "es": "[Aquí tienes el artículo para participar en el evento de arranque.]"
+    },
+    "8yg": {
+        "en": "[Welcome back! We’ve prepared something special for you to restart your adventure.]",
+        "pt": "[Bem-vindo de volta! Preparamos algo com carinho para você recomeçar sua aventura.]",
+        "es": "[¡Bienvenido de vuelta! Hemos preparado algo especial para que retomes tu aventura.]"
+    },
+    "9Cg": {
+        "en": "[Thank you for being part of our history — we hope this gesture makes your adventure even better!]",
+        "pt": "[Obrigado por fazer parte da nossa história — esperamos que este gesto torne sua aventura ainda melhor!]",
+        "es": "[Gracias por ser parte de nuestra historia — ¡esperamos que este gesto haga tu aventura aún mejor!]"
+    },
+    "9Sg": {
+        "en": "[Here is the prize for 1 day login on the official web site.]",
+        "pt": "[Segue a premiação pelo login de 1 dia no site oficial.]",
+        "es": "[Aquí está el premio por 1 día de inicio de sesión en el sitio.]"
+    },
+    "9ig": {
+        "en": "[Here is the prize for 2 days login on the official web site]",
+        "pt": "[Segue a premiação pelo login de 2 dias no site oficial.]",
+        "es": "[Aquí está el premio por 2 días de inicio de sesión en el sitio.]"
+    },
+    "9yg": {
+        "en": "[Here is the prize for 3 days login on the official web site]",
+        "pt": "[Segue a premiação pelo login de 3 dias no site oficial.]",
+        "es": "[Aquí está el premio por 3 días de inicio de sesión en el sitio.]"
+    },
+    "+Cg": {
+        "en": "[Here is the prize for 4 days login on the official web site]",
+        "pt": "[Segue a premiação pelo login de 4 dias no site oficial.]",
+        "es": "[Aquí está el premio por 4 días de inicio de sesión en el sitio.]"
+    },
+    "+Sg": {
+        "en": "[Here is the prize for 5 days login on the official web site]",
+        "pt": "[Segue a premiação pelo login de 5 dias no site oficial.]",
+        "es": "[Aquí está el premio por 5 días de inicio de sesión en el sitio.]"
+    },
+    "+ig": {
+        "en": "[Here is the prize for 6 days login on the official web site]",
+        "pt": "[Segue a premiação pelo login de 6 dias no site oficial.]",
+        "es": "[Aquí está el premio por 6 días de inicio de sesión en el sitio.]"
+    },
+    "+yg": {
+        "en": "[Here is the prize for 7 days login on the official web site]",
+        "pt": "[Segue a premiação pelo login de 7 dias no site oficial.]",
+        "es": "[Aquí está el premio por 7 días de inicio de sesión en el sitio.]"
+    },
+    "/Cg": {
+        "en": "[Here is the prize for 8 days login on the official web site]",
+        "pt": "[Segue a premiação pelo login de 8 dias no site oficial.]",
+        "es": "[Aquí está el premio por 8 días de inicio de sesión en el sitio.]"
+    },
+    "/Sg": {
+        "en": "[Here is the prize for 9 days login on the official web site]",
+        "pt": "[Segue a premiação pelo login de 9 dias no site oficial.]",
+        "es": "[Aquí está el premio por 9 días de inicio de sesión en el sitio.]"
+    },
+    "/ig": {
+        "en": "[Here is the prize for 10 days login on the official web site]",
+        "pt": "[Segue a premiação pelo login de 10 dias no site oficial.]",
+        "es": "[Aquí está el premio por 10 días de inicio de sesión en el sitio.]"
+    },
+    "/yg": {
+        "en": "[Here is the prize for 11 days login on the official web site]",
+        "pt": "[Segue a premiação pelo login de 11 dias no site oficial.]",
+        "es": "[Aquí está el premio por 11 días de inicio de sesión en el sitio.]"
+    },
+    "ACk": {
+        "en": "[Here is the prize for 12 days login on the official web site]",
+        "pt": "[Segue a premiação pelo login de 12 dias no site oficial.]",
+        "es": "[Aquí está el premio por 12 días de inicio de sesión en el sitio.]"
+    },
+    "ASk": {
+        "en": "[Here is the prize for 13 days login on the official web site]",
+        "pt": "[Segue a premiação pelo login de 13 dias no site oficial.]",
+        "es": "[Aquí está el premio por 13 días de inicio de sesión en el sitio.]"
+    },
+    "Aik": {
+        "en": "[Here is the prize for 14 days login on the official web site]",
+        "pt": "[Segue a premiação pelo login de 14 dias no site oficial.]",
+        "es": "[Aquí está el premio por 14 días de inicio de sesión en el sitio.]"
+    },
+    "Ayk": {
+        "en": "[Here is the prize for 15 days login on the official web site]",
+        "pt": "[Segue a premiação pelo login de 15 dias no site oficial.]",
+        "es": "[Aquí está el premio por 15 días de inicio de sesión en el sitio.]"
+    },
+    "BCk": {
+        "en": "[Here is the prize for 16 days login on the official web site]",
+        "pt": "[Segue a premiação pelo login de 16 dias no site oficial.]",
+        "es": "[Aquí está el premio por 16 días de inicio de sesión en el sitio.]"
+    },
+    "BSk": {
+        "en": "[Here is the prize for 17 days login on the official web site]",
+        "pt": "[Segue a premiação pelo login de 17 dias no site oficial.]",
+        "es": "[Aquí está el premio por 17 días de inicio de sesión en el sitio.]"
+    },
+    "Bik": {
+        "en": "[Here is the prize for 18 days login on the official web site]",
+        "pt": "[Segue a premiação pelo login de 18 dias no site oficial.]",
+        "es": "[Aquí está el premio por 18 días de inicio de sesión en el sitio.]"
+    },
+    "Byk": {
+        "en": "[Here is the prize for 19 days login on the official web site]",
+        "pt": "[Segue a premiação pelo login de 19 dias no site oficial.]",
+        "es": "[Aquí está el premio por 19 días de inicio de sesión en el sitio.]"
+    },
+    "CCk": {
+        "en": "[Here is the prize for 20 days login on the official web site]",
+        "pt": "[Segue a premiação pelo login de 20 dias no site oficial.]",
+        "es": "[Aquí está el premio por 20 días de inicio de sesión en el sitio.]"
+    },
+    "CSk": {
+        "en": "[Here is the prize for 21 days login on the official web site]",
+        "pt": "[Segue a premiação pelo login de 21 dias no site oficial.]",
+        "es": "[Aquí está el premio por 21 días de inicio de sesión en el sitio.]"
+    },
+    "Cik": {
+        "en": "[Here is the prize for 22 days login on the official web site]",
+        "pt": "[Segue a premiação pelo login de 22 dias no site oficial.]",
+        "es": "[Aquí está el premio por 22 días de inicio de sesión en el sitio.]"
+    },
+    "Cyk": {
+        "en": "[Here is the prize for 23 days login on the official web site]",
+        "pt": "[Segue a premiação pelo login de 23 dias no site oficial.]",
+        "es": "[Aquí está el premio por 23 días de inicio de sesión en el sitio.]"
+    },
+    "DCk": {
+        "en": "[Here is the prize for 24 days login on the official web site]",
+        "pt": "[Segue a premiação pelo login de 24 dias no site oficial.]",
+        "es": "[Aquí está el premio por 24 días de inicio de sesión en el sitio.]"
+    },
+    "DSk": {
+        "en": "[Here is the prize for 25 days login on the official web site]",
+        "pt": "[Segue a premiação pelo login de 25 dias no site oficial.]",
+        "es": "[Aquí está el premio por 25 días de inicio de sesión en el sitio.]"
+    },
+    "Dik": {
+        "en": "[Here is the prize for 26 days login on the official web site]",
+        "pt": "[Segue a premiação pelo login de 26 dias no site oficial.]",
+        "es": "[Aquí está el premio por 26 días de inicio de sesión en el sitio.]"
+    },
+    "Dyk": {
+        "en": "[Here is the prize for 27 days login on the official web site]",
+        "pt": "[Segue a premiação pelo login de 27 dias no site oficial.]",
+        "es": "[Aquí está el premio por 27 días de inicio de sesión en el sitio.]"
+    },
+    "ECk": {
+        "en": "[Here is the prize for 28 days login on the official web site]",
+        "pt": "[Segue a premiação pelo login de 28 dias no site oficial.]",
+        "es": "[Aquí está el premio por 28 días de inicio de sesión en el sitio.]"
+    },
+    "ESk": {
+        "en": "[Here is the reward for landing on the 1st Tile of the Midgard Trail.]",
+        "pt": "[Segue premiação referente à 1ª Casa da Trilha de Midgard.]",
+        "es": "[Aquí está la recompensa por caer en la Casilla 1 del Caminos de Midgard.]"
+    },
+    "Eik": {
+        "en": "[Here is the reward for landing on the 2nd Tile of the Midgard Trail.]",
+        "pt": "[Segue premiação referente à 2ª Casa da Trilha de Midgard.]",
+        "es": "[Aquí está la recompensa por caer en la Casilla 2 del Caminos de Midgard.]"
+    },
+    "Eyk": {
+        "en": "[Here is the reward for landing on the 3rd Tile of the Midgard Trail.]",
+        "pt": "[Segue premiação referente à 3ª Casa da Trilha de Midgard.]",
+        "es": "[Aquí está la recompensa por caer en la Casilla 3 del Caminos de Midgard.]"
+    },
+    "FCk": {
+        "en": "[Here is the reward for landing on the 4th Tile of the Midgard Trail.]",
+        "pt": "[Segue premiação referente à 4ª Casa da Trilha de Midgard.]",
+        "es": "[Aquí está la recompensa por caer en la Casilla 4 del Caminos de Midgard.]"
+    },
+    "FSk": {
+        "en": "[Here is the reward for landing on the 6th Tile of the Midgard Trail.]",
+        "pt": "[Segue premiação referente à 6ª Casa da Trilha de Midgard.]",
+        "es": "[Aquí está la recompensa por caer en la Casilla 6 del Caminos de Midgard.]"
+    },
+    "Fik": {
+        "en": "[Here is the reward for landing on the 7th Tile of the Midgard Trail.]",
+        "pt": "[Segue premiação referente à 7ª Casa da Trilha de Midgard.]",
+        "es": "[Aquí está la recompensa por caer en la Casilla 7 del Caminos de Midgard.]"
+    },
+    "Fyk": {
+        "en": "[Here is the reward for landing on the 8th Tile of the Midgard Trail.]",
+        "pt": "[Segue premiação referente à 8ª Casa da Trilha de Midgard.]",
+        "es": "[Aquí está la recompensa por caer en la Casilla 8 del Caminos de Midgard.]"
+    },
+    "GCk": {
+        "en": "[Here is the reward for landing on the 9th Tile of the Midgard Trail.]",
+        "pt": "[Segue premiação referente à 9ª Casa da Trilha de Midgard.]",
+        "es": "[Aquí está la recompensa por caer en la Casilla 9 del Caminos de Midgard.]"
+    },
+    "GSk": {
+        "en": "[Here is the reward for landing on the 10th Tile of the Midgard Trail.]",
+        "pt": "[Segue premiação referente à 10ª Casa da Trilha de Midgard.]",
+        "es": "[Aquí está la recompensa por caer en la Casilla 10 del Caminos de Midgard.]"
+    },
+    "Gik": {
+        "en": "[Here is the reward for landing on the 12th Tile of the Midgard Trail.]",
+        "pt": "[Segue premiação referente à 12ª Casa da Trilha de Midgard.]",
+        "es": "[Aquí está la recompensa por caer en la Casilla 12 del Caminos de Midgard.]"
+    },
+    "Gyk": {
+        "en": "[Here is the reward for landing on the 13rd Tile of the Midgard Trail.]",
+        "pt": "[Segue premiação referente à 13ª Casa da Trilha de Midgard.]",
+        "es": "[Aquí está la recompensa por caer en la Casilla 13 del Caminos de Midgard.]"
+    },
+    "HCk": {
+        "en": "[Here is the reward for landing on the 14th Tile of the Midgard Trail.]",
+        "pt": "[Segue premiação referente à 14ª Casa da Trilha de Midgard.]",
+        "es": "[Aquí está la recompensa por caer en la Casilla 14 del Caminos de Midgard.]"
+    },
+    "HSk": {
+        "en": "[Here is the reward for landing on the 16th Tile of the Midgard Trail.]",
+        "pt": "[Segue premiação referente à 16ª Casa da Trilha de Midgard.]",
+        "es": "[Aquí está la recompensa por caer en la Casilla 16 del Caminos de Midgard.]"
+    },
+    "Hik": {
+        "en": "[Here is the reward for landing on the 17th Tile of the Midgard Trail.]",
+        "pt": "[Segue premiação referente à 17ª Casa da Trilha de Midgard.]",
+        "es": "[Aquí está la recompensa por caer en la Casilla 17 del Caminos de Midgard.]"
+    },
+    "Hyk": {
+        "en": "[Here is the reward for landing on the 18th Tile of the Midgard Trail.]",
+        "pt": "[Segue premiação referente à 18ª Casa da Trilha de Midgard.]",
+        "es": "[Aquí está la recompensa por caer en la Casilla 18 del Caminos de Midgard.]"
+    },
+    "ICk": {
+        "en": "[Here is the reward for landing on the 20th Tile of the Midgard Trail.]",
+        "pt": "[Segue premiação referente à 20ª Casa da Trilha de Midgard.]",
+        "es": "[Aquí está la recompensa por caer en la Casilla 20 del Caminos de Midgard.]"
+    },
+    "ISk": {
+        "en": "[Here is the reward for landing on the 21th Tile of the Midgard Trail.]",
+        "pt": "[Segue premiação referente à 21ª Casa da Trilha de Midgard.]",
+        "es": "[Aquí está la recompensa por caer en la Casilla 21 del Caminos de Midgard.]"
+    },
+    "Iik": {
+        "en": "[Here is the reward for landing on the 23rd Tile of the Midgard Trail.]",
+        "pt": "[Segue premiação referente à 23ª Casa da Trilha de Midgard.]",
+        "es": "[Aquí está la recompensa por caer en la Casilla 23 del Caminos de Midgard.]"
+    },
+    "Iyk": {
+        "en": "[Here is the reward for landing on the 24th Tile of the Midgard Trail.]",
+        "pt": "[Segue premiação referente à 24ª Casa da Trilha de Midgard.]",
+        "es": "[Aquí está la recompensa por caer en la Casilla 24 del Caminos de Midgard.]"
+    },
+    "JCk": {
+        "en": "[Here is the reward for landing on the 25th Tile of the Midgard Trail.]",
+        "pt": "[Segue premiação referente à 25ª Casa da Trilha de Midgard.]",
+        "es": "[Aquí está la recompensa por caer en la Casilla 25 del Caminos de Midgard.]"
+    },
+    "JSk": {
+        "en": "[Here is the reward for landing on the 27th Tile of the Midgard Trail.]",
+        "pt": "[Segue premiação referente à 27ª Casa da Trilha de Midgard.]",
+        "es": "[Aquí está la recompensa por caer en la Casilla 27 del Caminos de Midgard.]"
+    },
+    "Jik": {
+        "en": "[Here is the reward for 1st full lap in the Midgard Trail.]",
+        "pt": "[Segue premiação referente à 1ª volta completa na Trilha de Midgard.]",
+        "es": "[Aquí está la recompensa por la primera vuelta completa del Caminos de Midgard.]"
+    },
+    "Jyk": {
+        "en": "[Here is the reward for 3rd full lap in the Midgard Trail.]",
+        "pt": "[Segue premiação referente à 3ª volta completa na Trilha de Midgard.]",
+        "es": "[Aquí está la recompensa por la tercera vuelta completa del Caminos de Midgard.]"
+    },
+    "KCk": {
+        "en": "[Here is the reward for 5th full lap in the Midgard Trail.]",
+        "pt": "[Segue premiação referente à 5ª volta completa na Trilha de Midgard.]",
+        "es": "[Aquí está la recompensa por la quinta vuelta completa del Caminos de Midgard.]"
+    },
+    "KSk": {
+        "en": "[Daily Check-In Event - Day 1]",
+        "pt": "[Evento de Login Diário - Dia 1]",
+        "es": "[Evento de Registro Diario - 1 día]"
+    },
+    "Kik": {
+        "en": "[Daily Check-In Event - Day 2]",
+        "pt": "[Evento de Login Diário - Dia 2]",
+        "es": "[Evento de Registro Diario - 2 día]"
+    },
+    "Kyk": {
+        "en": "[Daily Check-In Event - Day 3]",
+        "pt": "[Evento de Login Diário - Dia 3]",
+        "es": "[Evento de Registro Diario - 3 día]"
+    },
+    "LCk": {
+        "en": "[Daily Check-In Event - Day 4]",
+        "pt": "[Evento de Login Diário - Dia 4]",
+        "es": "[Evento de Registro Diario - 4 día]"
+    },
+    "LSk": {
+        "en": "[Daily Check-In Event - Day 5]",
+        "pt": "[Evento de Login Diário - Dia 5]",
+        "es": "[Evento de Registro Diario - 5 día]"
+    },
+    "Lik": {
+        "en": "[Daily Check-In Event - Day 6]",
+        "pt": "[Evento de Login Diário - Dia 6]",
+        "es": "[Evento de Registro Diario - 6 día]"
+    },
+    "Lyk": {
+        "en": "[Daily Check-In Event - Day 7]",
+        "pt": "[Evento de Login Diário - Dia 7]",
+        "es": "[Evento de Registro Diario - 7 día]"
+    },
+    "MCk": {
+        "en": "[Daily Check-In Event - Day 8]",
+        "pt": "[Evento de Login Diário - Dia 8]",
+        "es": "[Evento de Registro Diario - 8 día]"
+    },
+    "MSk": {
+        "en": "[Daily Check-In Event - Day 9]",
+        "pt": "[Evento de Login Diário - Dia 9]",
+        "es": "[Evento de Registro Diario - 9 día]"
+    },
+    "Mik": {
+        "en": "[Daily Check-In Event - Day 10]",
+        "pt": "[Evento de Login Diário - Dia 10]",
+        "es": "[Evento de Registro Diario - 10 día]"
+    },
+    "Myk": {
+        "en": "[Daily Check-In Event - Day 11]",
+        "pt": "[Evento de Login Diário - Dia 11]",
+        "es": "[Evento de Registro Diario - 11 día]"
+    },
+    "NCk": {
+        "en": "[Daily Check-In Event - Day 12]",
+        "pt": "[Evento de Login Diário - Dia 12]",
+        "es": "[Evento de Registro Diario - 12 día]"
+    },
+    "NSk": {
+        "en": "[Daily Check-In Event - Day 13]",
+        "pt": "[Evento de Login Diário - Dia 13]",
+        "es": "[Evento de Registro Diario - 13 día]"
+    },
+    "Nik": {
+        "en": "[Daily Check-In Event - Day 14]",
+        "pt": "[Evento de Login Diário - Dia 14]",
+        "es": "[Evento de Registro Diario - 14 día]"
+    },
+    "Nyk": {
+        "en": "[Daily Check-In Event - Day 15]",
+        "pt": "[Evento de Login Diário - Dia 15]",
+        "es": "[Evento de Registro Diario - 15 día]"
+    },
+    "OCk": {
+        "en": "[Daily Check-In Event - Day 16]",
+        "pt": "[Evento de Login Diário - Dia 16]",
+        "es": "[Evento de Registro Diario - 16 día]"
+    },
+    "OSk": {
+        "en": "[Daily Check-In Event - Day 17]",
+        "pt": "[Evento de Login Diário - Dia 17]",
+        "es": "[Evento de Registro Diario - 17 día]"
+    },
+    "Oik": {
+        "en": "[Daily Check-In Event - Day 18]",
+        "pt": "[Evento de Login Diário - Dia 18]",
+        "es": "[Evento de Registro Diario - 18 día]"
+    },
+    "Oyk": {
+        "en": "[Daily Check-In Event - Day 19]",
+        "pt": "[Evento de Login Diário - Dia 19]",
+        "es": "[Evento de Registro Diario - 19 día]"
+    },
+    "PCk": {
+        "en": "[Daily Check-In Event - Day 20]",
+        "pt": "[Evento de Login Diário - Dia 20]",
+        "es": "[Evento de Registro Diario - 20 día]"
+    },
+    "PSk": {
+        "en": "[Daily Check-In Event - Day 21]",
+        "pt": "[Evento de Login Diário - Dia 21]",
+        "es": "[Evento de Registro Diario - 21 día]"
+    },
+    "Pik": {
+        "en": "[Daily Check-In Event - Day 22]",
+        "pt": "[Evento de Login Diário - Dia 22]",
+        "es": "[Evento de Registro Diario - 22 día]"
+    },
+    "Pyk": {
+        "en": "[Daily Check-In Event - Day 23]",
+        "pt": "[Evento de Login Diário - Dia 23]",
+        "es": "[Evento de Registro Diario - 23 día]"
+    },
+    "QCk": {
+        "en": "[Daily Check-In Event - Day 24]",
+        "pt": "[Evento de Login Diário - Dia 24]",
+        "es": "[Evento de Registro Diario - 24 día]"
+    },
+    "QSk": {
+        "en": "[Daily Check-In Event - Day 25]",
+        "pt": "[Evento de Login Diário - Dia 25]",
+        "es": "[Evento de Registro Diario - 25 día]"
+    },
+    "Qik": {
+        "en": "[Daily Check-In Event - Day 26]",
+        "pt": "[Evento de Login Diário - Dia 26]",
+        "es": "[Evento de Registro Diario - 26 día]"
+    },
+    "Qyk": {
+        "en": "[Daily Check-In Event - Day 27]",
+        "pt": "[Evento de Login Diário - Dia 27]",
+        "es": "[Evento de Registro Diario - 27 día]"
+    },
+    "RCk": {
+        "en": "[Daily Check-In Event - Day 28]",
+        "pt": "[Evento de Login Diário - Dia 28]",
+        "es": "[Evento de Registro Diario - 28 día]"
+    },
+    "RSk": {
+        "en": "[Event: Top 5]",
+        "pt": "[Evento: Top 5]",
+        "es": "[Evento: Top 5]"
+    },
+    "Rik": {
+        "en": "[Event: Illustration Coloring]",
+        "pt": "[Evento: Ilustração para Colorir]",
+        "es": "[Evento: Ilustración para Colorear]"
+    },
+    "Ryk": {
+        "en": "[Event: Freehand Illustration]",
+        "pt": "[Evento: Ilustração à mão livre]",
+        "es": "[Evento: Ilustración de Mano Libre]"
+    },
+    "SCk": {
+        "en": "[Event: Share Your Story]",
+        "pt": "[Evento: Compartilhe sua História]",
+        "es": "[Evento: Comparte tu Historia]"
+    },
+    "SSk": {
+        "en": "[Congratulations on being one of the Top 5 players to reach the maximum level. Here is your reward for this extraordinary achievement.]",
+        "pt": "[Parabéns por ser um dos Top 5 jogadores a atingir o level máximo. Segue a sua premiação pelo feito extraordinário.]",
+        "es": "[Felicitaciones por ser uno de los 5 mejores jugadores en alcanzar el nivel máximo. Aquí tienes tu recompensa por este logro extraordinario.]"
+    },
+    "Sik": {
+        "en": "[Here is the reward to participate in the Illustration Coloring Event.]",
+        "pt": "[Segue premiação pela participação no Evento Ilustração para Colorir]",
+        "es": "[Aquí tienes el premio para participar en el evento Ilustración para Colorear.]"
+    },
+    "Syk": {
+        "en": "[Here is the reward to participate in the Freehand Illustration Event.]",
+        "pt": "[Segue premiação pela participação no Evento Ilustração à mão livre]",
+        "es": "[Aquí tienes el premio para participar en el evento Ilustración de Mano Libre.]"
+    },
+    "TCk": {
+        "en": "[Here is your reward for participating in the “Share Your Story” Event.]",
+        "pt": "[Segue premiação pela participação no Evento \"Compartilhe a sua História\".]",
+        "es": "[Aquí tienes tu recompensa por participar en el evento “Comparte tu Historia”.]"
     }
 }

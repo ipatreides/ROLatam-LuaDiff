@@ -2840,7 +2840,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777750%^000000"
 	},
 	[SKID.RG_RAID] = {
-		"Ataque Surpresa ^777777(Raid)^000000",
+		"Ataque Surpresa ^777777(Sightless Mind)^000000",
 		"Nível máximo: ^7777775^000000",
 		"Pré requisitos: ^777777Apunhalar 2, Túnel de Fuga 2^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -9895,7 +9895,7 @@ SKILL_DESCRIPT = {
 		"[Nv 3]: ^77777750%^000000 l ^7777779x9 células^000000 l ^7777771.200%^000000"
 	},
 	[SKID.NC_COLDSLOWER] = {
-		"Gás Criogênico ^777777(Cold Slower)^000000",
+		"Gás Criogênico ^777777(Ice Launcher)^000000",
 		"Nível máximo: ^7777773^000000",
 		"Pré requisitos: ^777777Metralhadora 3^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -12533,7 +12533,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777714 segundos^000000 l ^77777712.000^000000"
 	},
 	[SKID.GN_CRAZYWEED] = {
-		"Erva Daninha ^777777(Crazy Weed)^000000",
+		"Erva Daninha ^777777(Crazy Vines)^000000",
 		"Nível máximo: ^77777710^000000",
 		"Pré requisitos: ^777777Muralha de Espinhos 3^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -13562,7 +13562,7 @@ SKILL_DESCRIPT = {
 		"[Nv. 10]: ^7777773.200%^000000"
 	},
 	[SKID.SJ_PROMINENCEKICK] = {
-		"Chute Solar ^777777(Prominence Kick)^000000",
+		"Chute Solar ^777777(Blaze Kick)^000000",
 		"Nível máximo: ^7777777^000000",
 		"Pré requisitos: ^777777Postura Solar 1^000000",
 		"Tipo: ^777777Ofensiva^000000 / ^CD3278Solar^000000",
@@ -15200,7 +15200,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777760^000000 l ^77777712 segundos^000000"
 	},
 	[SKID.SU_SPIRITOFLAND] = {
-		"\"Invocação da Selva ^777777(Spirit Of Land)^000000",
+		"Invocação da Selva ^777777(Spirit Of Land)^000000",
 		"Nível máximo: ^7777771^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Pré requisitos: ^777777Mato de Gato 5^000000",
@@ -16506,10 +16506,10 @@ SKILL_DESCRIPT = {
 		"Custo: ^FF0000150 AP^000000",
 		"Detalhes: ^777777Uma habilidade de Lança. Requer Postura de Ataque.",
 		"Causa dano Físico Longo em um alvo e outros em células 7x7 ao redor dele.",
-		"Esta habilidade também aumenta o dano de Ponto de Fuga e Lança de Canhão por 300 segundos.",
+		"Esta habilidade também aumenta o dano de Ponto de Fuga e Disparo Perfurante por 300 segundos.",
 		"Causa mais dano em inimigos Plantas e Insetos.",
 		"Esta habilidade também aumenta o dano, dependendo do seu Nível Base e POW.^000000",
-		"^ffffff_^000000",
+		"^FFFFFF_^000000",
 		"[Nível 1]: ^777777750% de ATQ (1.100% em Planta/Inseto)^000000",
 		"[Nível 2]: ^7777771.500% de ATQ (2.200% em Planta/Inseto)^000000",
 		"[Nível 3]: ^7777772.250% de ATQ (3.300% em Planta/Inseto)^000000",

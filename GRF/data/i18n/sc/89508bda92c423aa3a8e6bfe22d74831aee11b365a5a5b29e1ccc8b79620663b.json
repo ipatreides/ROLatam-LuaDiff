@@ -193,9 +193,9 @@
     },
     "AKazDA": {
         "ko": "[켄]\n^0066CC독수리 오형제의 리더 켄^000000이다.\n이곳은 지금 ^0066CC갤랙터의 침략^000000을 받고 있다.\n^0066CC갤랙터 군단을 저지하기 위해서 협력^000000을 받고 싶군.",
-        "en": "[Ken]\nI am ^0066CCKen, leader of the G-Force^000000.\nThis place is currently under ^0066CCinvasion by the Galactor^000000.\nWe want your ^0066CCcooperation to stop the Galactor forces^000000.",
-        "pt": "[Ken]\nEu sou ^0066CCKen, líder da G-Force^000000.\nEste lugar está sob ^0066CCinvasão da Galactor^000000.\nNós gostaríamos de ^0066CCapoiar vocês para deter as forças da Galactor^000000.",
-        "es": "[Ken]\nSoy ^0066CCKen, líder de la Fuerza G^000000.\nEste lugar está bajo ^0066CCla invasión de Galactor^000000.\nNos gustaría ^0066CCayudarte a detener a las fuerzas de Galactor^000000."
+        "en": "[Ken]\nI am ^0066CCKen, leader of the Ninja Team^000000.\nThis place is currently under ^0066CCinvasion by the Galactor^000000.\nWe want your ^0066CCcooperation to stop the Galactor forces^000000.",
+        "pt": "[Ken]\nEu sou ^0066CCKen, líder do Ninja Team^000000.\nEste lugar está sob ^0066CCinvasão da Galactor^000000.\nNós gostaríamos de ^0066CCapoiar vocês para deter as forças da Galactor^000000.",
+        "es": "[Ken]\nSoy ^0066CCKen, líder del Equipo Ninja^000000.\nEste lugar está bajo ^0066CCla invasión de Galactor^000000.\nNos gustaría ^0066CCayudarte a detener a las fuerzas de Galactor^000000."
     },
     "AaazDA": {
         "ko": "[[긴급]변칙 균열 접수원]\n갤랙터?\n^0066CC균열^000000과 관계 있는 건가요?",
@@ -1399,9 +1399,9 @@
     },
     "yaazDA": {
         "ko": "[갤랙터 병사]\n^0066CC마을 북쪽^000000에서 ^0066CC독수리 오형제^000000 놈들을 발견했습니다.",
-        "en": "[Galactor Soldier]\nWe spotted the ^0066CCG-Force^000000 in the ^0066CCnorth part of the village^000000.",
-        "pt": "[Soldado da Galactor]\nNós avistamos a ^0066CCG-Force^000000 na ^0066CCparte norte da cidade^000000.",
-        "es": "[Soldado de Galactor]\nHemos visto a la ^0066CCFuerza G^000000 en ^0066CCla parte norte de la ciudad^000000."
+        "en": "[Galactor Soldier]\nWe spotted the ^0066CCNinja Team^000000 in the ^0066CCnorth part of the village^000000.",
+        "pt": "[Soldado da Galactor]\nNós avistamos a ^0066CCEquipe Ninja^000000 na ^0066CCparte norte da cidade^000000.",
+        "es": "[Soldado de Galactor]\nHemos visto al ^0066CCEquipo Ninja^000000 en ^0066CCla parte norte de la ciudad^000000."
     },
     "yqazDA": {
         "ko": "[베르크 캿셰]\n뭣!\n그 지긋지긋한 놈들 어떻게 여기까지 쫓아온 거지.",

@@ -7343,6 +7343,25 @@ achievement_tbl = {
 		},
 		reward = {},
 		score = 50
+	},
+	[129021] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 5,
+		minor = 0,
+		title = "Modo Desafio de Glast Heim",
+		content = {
+			summary = "Concluiu a estratégia do Modo Desafio de Glast Heim",
+			details = "Avançar até o final da Masmorra Memorial"
+		},
+		resource = {
+			[1] = {
+				text = "Número de sucessos no desafio",
+				count = 100
+			}
+		},
+		reward = {title = 1045},
+		score = 10
 	}
 }
 function main()

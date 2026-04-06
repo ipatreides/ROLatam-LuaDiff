@@ -2,25 +2,25 @@
     "4PHuBw": {
         "ko": "낙오자",
         "en": "Straggler",
-        "pt": "Retardatário",
-        "es": "Rezagad"
+        "pt": "Alguém Atrasado",
+        "es": "Alguien Rezagado"
     },
     "4fHuBw": {
         "ko": "늦었다. 멍청이들아!",
         "en": "You're late, you idiots!",
-        "pt": "Você demorou. Seus idiotas!",
+        "pt": "Tarde demais. Seus idiotas!",
         "es": "Llegas tarde. ¡Idiotas!"
     },
     "4vHuBw": {
         "ko": "비공정 조작은 끝났어! 하하하!",
         "en": "I’m done operating the Airship! Hahaha!",
-        "pt": "A manipulação da Placa do Aeroplano acabou! Hahahaha!",
-        "es": "¡Ya terminé de manipular Dirigible libre! ¡Ja, ja, ja!"
+        "pt": "A manipulação do Aeroplano acabou! Hahahaha!",
+        "es": "¡Ya terminé de manipular Dirigible! ¡Ja, ja, ja!"
     },
     "4/HuBw": {
         "ko": "지금 들어온 머저리들은 이 스위티 님이 상대해주마!",
         "en": "I, Sweety, will deal with the fools who just came in!",
-        "pt": "Os imbecis que acabaram de entrar serão enfrentados por mim, o(a) Sweety!",
+        "pt": "Os imbecis serão enfrentados por mim, Sweety!",
         "es": "¡A los imbéciles que acaban de entrar los enfrentaré yo, Sweety!"
     },
     "5PHuBw": {
@@ -32,61 +32,61 @@
     "5fHuBw": {
         "ko": "파티 리더가 진행 가능한 이벤트입니다.",
         "en": "This event can be held by the party leader.",
-        "pt": "Este é um evento que pode ser realizado pelo líder do grupo.",
+        "pt": "Essa missão pode ser realizada pelo líder do grupo.",
         "es": "Este evento solo puede ser realizado por el líder del grupo."
     },
     "5vHuBw": {
         "ko": "에스트: 여기에서 큰 소리가 들렸는데?",
         "en": "Est: I heard a loud noise from here.",
-        "pt": "Est: Ouvi um barulho alto daqui?",
+        "pt": "Est Loveloy: Ouvi um barulho alto daqui?",
         "es": "Est: ¿Se oyó un gran ruido aquí?"
     },
     "5/HuBw": {
         "ko": "고장난 스위티",
         "en": "Broken Sweety",
-        "pt": "Sweety Quebrado",
+        "pt": "Sweety Quebrada",
         "es": "Sweety Roto"
     },
     "6PHuBw": {
         "ko": "…. 네 … 들 … 가만 … 안 …둘 …",
         "en": "... Yes... you... I... won’t... let... you...",
-        "pt": "…. Sim … vou … não … deixar …",
+        "pt": "... Eu ... não ... vou ... deixar ...",
         "es": "…. Sí … us … no … de … ja … ré …"
     },
     "6fHuBw": {
         "ko": "마치 기계가 고장난 듯 전류가 튀며 움직이지 않는다.\n시선을 피하는 것을 보니 완전히 망가진 건 아닌 듯 하다.",
-        "en": "It crackles with electricity and won’t move, as if the machine has broken down.\nIt avoids eye contact, so Bonnie doesn’t seem to be completely broken.",
-        "pt": "Como se a máquina estivesse quebrada, faíscas elétricas saltam e ela não se move.\nAo evitar o olhar, parece que Bonnie não está completamente quebrada.",
+        "en": "It crackles with electricity and won’t move, as if the machine has broken down.\nIt avoids eye contact, so it doesn’t seem to be completely broken.",
+        "pt": "Não se move e emite sons como se estivesse quebrada.\nA julgar pela forma como evita contato visual, não parece estar completamente quebrada.",
         "es": "Como si la máquina se hubiera averiado, salta corriente y no se mueve.\nParece que Bonnie, que evita la mirada, no está completamente rota."
     },
     "6vHuBw": {
         "ko": "에스트",
         "en": "Est",
-        "pt": "Est",
+        "pt": "Est Loveloy",
         "es": "Est"
     },
     "6/HuBw": {
         "ko": "[에스트]\n조금 늦었다만 이미 상황이 끝났군.\n저 녀석이군. 정원을 휘저으면서 시간을 끌던 녀석.",
         "en": "[Est]\nI’m a bit late, but it seems it’s already over.\nThat’s the one. The one that was stirring up the garden to buy time.",
-        "pt": "[Est]\nFoi um pouco tarde, mas a situação já acabou.\nÉ aquele sujeito. O que estava causando confusão no jardim para ganhar tempo.",
+        "pt": "[Est Loveloy]\nEstou um pouco atrasada, mas já passou.\nÉ ela! A que estava causando confusão no jardim para ganhar tempo.",
         "es": "[Est]\nLlegué un poco tarde, pero ya se acabó la situación.\nEs ese. El que estaba alborotando el jardín para ganar tiempo."
     },
     "7PHuBw": {
         "ko": "[에스트]\n결국 비공정을 조작할 시간을 벌려고 한 짓인가?\n그리고 이미 비공정은 …. 늦어버렸군.",
         "en": "[Est]\nSo in the end, was this done to buy time to operate the Airship?\nAnd the Airship is already... It’s too late.",
-        "pt": "[Est]\nNo fim, foi isso que ele fez para ganhar tempo para manipular a Placa do Aeroplano?\nE a Placa do Aeroplano já …. Já é tarde demais.",
+        "pt": "[Est Loveloy]\nEntão, aquilo era só uma manobra para ganhar tempo para operar o aeroplano?\nE o Aeroplano foi.... já é tarde demais.",
         "es": "[Est]\n¿Al final lo hiciste para ganar tiempo y manipular Dirigible libre?\nY Dirigible libre ya …. Llegamos tarde."
     },
     "7fHuBw": {
         "ko": "[에스트]\n그래서 결국 저건 자동인형?\n저택의 자동인형들에게 물어보는 수 밖에 없나 ….",
-        "en": "[Est]\nSo that thing is an automaton, after all?\nDo we have no choice but to ask the mansion’s automatons...?",
-        "pt": "[Est]\nEntão, no fim, aquilo é uma boneca automática?\nNão temos escolha a não ser perguntar às bonecas automáticas da mansão ….",
+        "en": "[Est]\nSo that thing is an automatron, after all?\nDo we have no choice but to ask the mansion’s automatrons...?",
+        "pt": "[Est Loveloy]\nEntão, no fim das contas, era uma autômata?\nAcho que não tenho escolha a não ser perguntar para as autômatas da mansão...",
         "es": "[Est]\nEntonces, al final, ¿eso es una muñeca automática?\n¿No nos queda más remedio que preguntarles a las muñecas automáticas de la mansión …?"
     },
     "7vHuBw": {
         "ko": "[에스트]\n일단 여기에서 나가자고.\n숙소의 휴게실에서 기다리고 있을테니 거기서 보지.",
         "en": "[Est]\nFor now, let’s get out of here.\nI’ll be waiting in the lounge at the lodgings, so I’ll see you there.",
-        "pt": "[Est]\nPor enquanto, vamos sair daqui.\nVou estar esperando na sala de descanso da hospedaria, então nos vemos lá.",
+        "pt": "[Est Loveloy]\nVamos embora daqui por enquanto.\nVou estar esperando na sala de descanso do alojamento, então nos vemos lá.",
         "es": "[Est]\nPor ahora, salgamos de aquí.\nEstaré esperando en la sala de descanso del alojamiento, así que nos vemos allí."
     }
 }

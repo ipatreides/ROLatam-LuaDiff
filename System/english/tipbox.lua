@@ -1843,6 +1843,1152 @@ Mirko asks you to gather 20 Recognition Shells.
 		Page = {
 			"Defeat the in the Underwater Tunnel and report back to the guard.\n\t\t\tHunt 100 monsters in the Illusion of Underwater to prove your strength and receive your reward.\n\t\n\t\t\t<NAVI>[Temple Guard]<INFO>iz_d04_i,127,224,0,101,0</INFO></NAVI>\n\t\t\t\n\t\t\t^663399» Level 180 or higher^000000\n\n\t<TIPBOX>» Main Quest Line<INFO>9093</INFO></TIPBOX>\n\t<TIPBOX>» Beginner's Guide<INFO>1000</INFO></TIPBOX>"
 		}
+	},
+	[8090] = {
+		Title = "Test Report",
+		Search = 0,
+		Image = "유저인터페이스\\collection\\Tablet_IL",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			[[
+Acquisition of new experimental subjects for Battle Core modification is scheduled. All implantation experiments on ordinary civilians will be completely discontinued.
+
+			The subjects will be secured by removing their consciousness with sleep gas in a laboratory disguised as the presidential reception waiting room.
+
+			Exercise extreme caution so that the sleep gas and other sedatives are adjusted so as not to affect the experiment.
+
+			The output of the proto Battle Core has been increased compared to before to match the new subjects, so confirmation is required during implantation.]]
+		}
+	},
+	[8091] = {
+		Title = "Test Report",
+		Search = 0,
+		Image = "유저인터페이스\\collection\\Tablet_IL",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			[[
+The objective of Phase 1 is observation after core implantation and confirmation of subject survival. As the output of Battle Core has been increased, detailed adjustments must be made to match the subject during implantation.
+
+			Once survival for the target duration is achieved, immediately proceed to Phase 2.]]
+		}
+	},
+	[8092] = {
+		Title = "Test Report",
+		Search = 0,
+		Image = "유저인터페이스\\collection\\Tablet_IL",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			[[
+The objective of the Phase 2 experiment is to draw out the combat potential of the organism to its extreme, observe the results, and obtain meaningful data.
+
+			For the Phase 2 experiment, provide a stimulating environment in which the subject can draw out and release the power of Battle Core, and measure the limit values.
+
+			As each job class requires a different environment, check the subject profile and conduct the experiment separately in each laboratory. After the experiment concludes, please submit the report as soon as possible.
+
+			Research Director Vorseff]]
+		}
+	},
+	[8093] = {
+		Title = "Test Report",
+		Search = 0,
+		Image = "유저인터페이스\\collection\\Tablet_IL",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			[[
+Even when implantation succeeds, subjects occur who have difficulty using the power of Battle Core.
+
+			It has been confirmed that subjects experiencing the Black Blood Reaction (Note: a phenomenon of vomiting black blood. In severe cases, black blood flows from the eyes, ears, and existing or newly formed wounds) cannot be revived.
+
+			After the Black Blood Reaction occurs, death follows from immediately at minimum to within 5 hours at maximum response. However, a peculiar phenomenon occurring after death has been discovered and named 'Thought Entity Transformation'...]]
+		}
+	},
+	[8094] = {
+		Title = "Test Report",
+		Search = 0,
+		Image = "유저인터페이스\\collection\\Tablet_IL",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			[[
+Thought entities appear within up to 2 days after death. The first thought entity possesses relatively clear consciousness, but exhibits the characteristic of blindly pursuing only a single objective.
+
+			A hypothesis has been established that the objective is related to the stimulating circumstances experienced before death, but further experiments are required.
+
+			In the case of the first thought entity, there are cases where it closely resembles its appearance while alive, making it difficult to distinguish. This phenomenon appears more distinctly when the subject possessed a strong sense of purpose.]]
+		}
+	},
+	[8095] = {
+		Title = "Test Report",
+		Search = 0,
+		Image = "유저인터페이스\\collection\\Tablet_IL",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			[[
+In the case of the subject Egnigem Cenia, designated a 'Failure' by Research Director Dr. Vorseff, as thought entity transformation progresses, the original sense of purpose changes into a mere craving for slaughter.
+
+			However, when specific brainwashing is applied, a phenomenon occurs in which the craving for slaughter can be directed toward a designated target. For precise measurement of this phenomenon, Dr. Vorseff personally manages the subject.]]
+		}
+	},
+	[8096] = {
+		Title = "Test Report",
+		Search = 0,
+		Image = "유저인터페이스\\collection\\Tablet_IL",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			[[
+Except for unusual cases, as thought entity transformation progresses and the number of entities increases through division, the initial objective is lost and they appear to become obsessed only with killing and destruction.
+
+			As methods to regain control over thought entities that have escaped control are rare, special observation and isolation are required when thought entity transformation progresses.]]
+		}
+	},
+	[8097] = {
+		Title = "Test Report",
+		Search = 0,
+		Image = "유저인터페이스\\collection\\Tablet_IL",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			[[
+Can the modified pseudo Ymir Heart, namely the Battle Core, be implanted into humans to create entities stronger than before? The answer to this question does not even need to be asked. It is possible.
+
+			However, only one thing is lacking. The will to live. A will strong enough not to burn oneself away after being consumed by Rage! We require individuals with stronger, stronger mental fortitude!]]
+		}
+	},
+	[8098] = {
+		Title = "Test Report",
+		Search = 0,
+		Image = "유저인터페이스\\collection\\Tablet_IL",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			[[
+An unofficial expedition secretly dispatched from the Rune-Midgarts Kingdom. Elite adventurers who will not be recorded even if they never return alive.
+
+			Is this not the perfect experimental subject prepared for me! Though it required some force, with the power of Rekenber it was possible, by joining hands with a certain figure of Rune-Midgarts, to divert them without even the President knowing.
+
+			Now, the stage for my beloved children is perfect. Now it only remains to offer them the highest courtesy for the conclusion they will reach through the finest experiment.]]
+		}
+	},
+	[8099] = {
+		Title = "Test Report",
+		Search = 0,
+		Image = "유저인터페이스\\collection\\Tablet_IL",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Ah... I’m dying of sleepiness. What is this, really, how many days has it been. I want to go home. When I go home after so long these days, my cat doesn’t recognize my face and hisses at me.\n\n\t\t\tThey say they’re promoting a life with evenings, but instead we’re collecting biometric records and replacing perfectly good equipment with this garbage, I wish the whole company would just collapse already... Wait what is this, this isn’t my diary, why won’t this delete &#%&@…\n\n\t\t\t^FF0000This researcher has been disposed of. The original text is preserved for record of the disposal reason.^000000"
+		}
+	},
+	[8100] = {
+		Title = "Test Report",
+		Search = 0,
+		Image = "유저인터페이스\\collection\\Tablet_IL",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			[[
+The objective of Phase 1 is to replace the heart with a proto core and observe the results. Once survival for the target duration is achieved, immediately proceed to Phase 2.
+
+			The objective of the Phase 2 experiment is to maximize the combat potential of the organism, observe the results, and obtain meaningful data.
+
+			For the Phase 2 experiment, provide a stimulating environment in which the subject can draw out and release the power of Battle Core, and measure the limit values...
+
+			Although special caution is required so that excessive stimulation does not result in death, the current mortality rate is 100%. As an alternative, the will of the thought entities...]]
+		}
+	},
+	[10089] = {
+		Title = "CuPet List",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"This is a list of CuPets that can be obtained using Taming Items, coupons, events, and more.\n\n\t\t\t»CuPet List\n\t\t\t<TIPBOX>Pet Young Poring<INFO>10090</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Poring<INFO>10091</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Mastering<INFO>10092</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Angeling<INFO>10093</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Drops<INFO>10094</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Egring<INFO>10095</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Poporing<INFO>10096</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Baby Desert Wolf<INFO>10097</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Desert Wolf<INFO>10098</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Orc Warrior<INFO>10099</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet High Orc<INFO>10100</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Flame Golem<INFO>10101</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Poring<INFO>10102</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Earth Deleter<INFO>10103</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Hardened Nightmare Terror<INFO>10104</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Baphomet Jr.<INFO>10105</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Chaotic Baphomet Jr.<INFO>10106</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Peco Peco<INFO>10107</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Grand Peco<INFO>10108</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Teddy Bear<INFO>10109</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Abandoned Teddy Bear<INFO>10110</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Eliot<INFO>10111</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Alicel<INFO>10112</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Spore<INFO>10113</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Poison Spore<INFO>10114</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Isis<INFO>10115</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Little Isis<INFO>10116</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Wanderer<INFO>10117</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Contaminated Wanderer<INFO>10118</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Munak<INFO>10119</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Bongun<INFO>10120</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Hye-gun<INFO>10121</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Sohee<INFO>10122</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Taoist Fairy<INFO>10123</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Nine-Tailed Fox<INFO>10124</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Cat O' Nine Tails<INFO>10125</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Incubus<INFO>10126</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Succubus<INFO>10127</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Rocker<INFO>10128</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Metaller<INFO>10129</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Mummy<INFO>10130</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Ancient Mummy<INFO>10131</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Lunatic<INFO>10132</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Leaf Lunatic<INFO>10133</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Picky<INFO>10134</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Chonchon<INFO>10135</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Steel Chonchon<INFO>10136</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Hunter Fly<INFO>10137</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Savage Babe<INFO>10138</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Savage<INFO>10139</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Smokie<INFO>10140</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Yoyo<INFO>10141</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Choco<INFO>10142</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Goblin<INFO>10143</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Amon Ra<INFO>10144</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Deviruchi<INFO>10145</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Diabolic<INFO>10146</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Alice<INFO>10147</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Eliza<INFO>10148</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Cheong-i<INFO>10149</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Leaf Cat<INFO>10150</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Loli Ruri<INFO>10151</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Shinobi<INFO>10152</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Miyabi Doll<INFO>10153</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Marionette<INFO>10154</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Whisper<INFO>10155</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Stone Shooter<INFO>10157</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Imp<INFO>10158</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Tick Bering<INFO>10159</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Gremlin<INFO>10160</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Hodremlin<INFO>10161</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Dark Priest<INFO>10162</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Willow<INFO>10163</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Lowin<INFO>10164</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Zherlthsh<INFO>10165</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Little Administrator β<INFO>10166</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Little Administrator α<INFO>10167</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Sweets Drops<INFO>10168</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Christmas Goblin<INFO>10169</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Goblin Leader<INFO>10170</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Myogwe<INFO>10171</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Snow Rabbit<INFO>10172</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Blue Unicorn<INFO>10173</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Hard Rice Cake<INFO>10174</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Skatleton<INFO>10175</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Skelion<INFO>10176</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Wandering Duck Doll<INFO>10177</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Golem<INFO>10178</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Baek Sojin<INFO>10179</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Moonlight Flower<INFO>10180</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Phreeoni<INFO>10181</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Orc Hero<INFO>10182</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Groom Under Night<INFO>10183</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Kiel-D-01<INFO>10184</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Dullahan<INFO>10185</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Nightmare Terror<INFO>10186</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Baphomet<INFO>10187</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Familiar<INFO>10188</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Dark Illusion<INFO>10189</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Blue Moon Loli Ruri<INFO>10190</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Wild Rose<INFO>10191</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Mutating White Knight<INFO>10192</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Abyss Knight<INFO>10193</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet White Knight」<INFO>10194</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Eddga<INFO>10195</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Medusa<INFO>10196</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Kkopo<INFO>10197</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Ash Icewind<INFO>10198</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Icewind<INFO>10199</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pet Dark Lord<INFO>10200</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10090] = {
+		Title = "Pet Young Poring#Green Apple#Apple Juice",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9062]Pet Young Poring\n\t\t\t» Acquisition Method:Taming\n\t\t\tTaming Item:^i[12846]\n\t\t\t\n\t\t\t» Feed\n\t\t\t^i[531]\n\t\t\t\n\t\t\t» Accessory\n\t\t\t[None]\n\n\t\t\t» Evolution Info\n\t\t\t[None]\n\t\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10091] = {
+		Title = "Pet Poring#Unripe Apple#Apple Juice",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9001]Pet Poring\n\t\t\t» Acquisition Method:Taming\n\t\t\tTaming Item:^i[619]\n\t\t\t\n\t\t\t» Feed\n\t\t\t^i[531]\n\n\t\t\t» Accessory\n\t\t\t^i[10013]\n\t\t\t\n\t\t\t» Evolution Info\n\t\t\t<TIPBOX>▷Pet Mastering<INFO>10092</INFO></TIPBOX>\n\t\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10092] = {
+		Title = "Pet Mastering#Pet Food#Unripe Apple#Yggdrasil Leaf",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9069]Pet Mastering\n\t\t\t» Acquisition Method\n\t\t\t<TIPBOX>▷Pet Poring<INFO>10091</INFO></TIPBOX> Evolution\n\t\t\t▷Evolution Materials:\n\t\t\t^i[619]x3, ^i[610]x10\n\n\t\t\t» Feed\n\t\t\t^i[537]\n\n\t\t\t» Accessory\n\t\t\t[None]\n\n\t\t\t» Evolution Info\n\t\t\t<TIPBOX>▷Angeling<INFO>10093</INFO></TIPBOX>\n\t\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10093] = {
+		Title = "Pet Angeling#Pet Food#Unripe Apple#Ring of Souls",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9088]Pet Angeling\n\t\t\t» Acquisition Method\n\t\t\t<TIPBOX>▷Pet Mastering<INFO>10092</INFO></TIPBOX> Evolution\n\t\t\t▷Evolution Materials:\n\t\t\t^i[2282]x1, ^i[509]x50,\n\t\t\t^i[503]x20, ^i[909]x200\n\t\t\t\n\t\t\t» Feed\n\t\t\t^i[537]\n\n\t\t\t» Accessory\n\t\t\t[None]\n\n\t\t\t» Evolution Info\n\t\t\t[None]\n\t\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10094] = {
+		Title = "Pet Drops#Yellow Herb#Orange Juice",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9002]Pet Drops\n\t\t\t» Acquisition Method:Taming\n\t\t\tTaming Item:^i[620]\n\n\t\t\t» Feed\n\t\t\t^i[508]\n\n\t\t\t» Accessory\n\t\t\t^i[10013]\n\n\t\t\t» Evolution Info\n\t\t\t<TIPBOX>▷Pet Egring<INFO>10095</INFO></TIPBOX>\n\t\t\t<TIPBOX>▷Pet Sweets Drops<INFO>10168</INFO></TIPBOX>\n\t\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10095] = {
+		Title = "Pet Egring#Pet Food#Piece of Egg Shell#Old Frying Pan",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9092]Pet Egring\n\t\t\t» Acquisition Method\n\t\t\t<TIPBOX>▷Pet Drops<INFO>10094</INFO></TIPBOX> Evolution\n\t\t\t▷Evolution Materials:\n\t\t\t^i[7032]x20, ^i[7031]x10,\n\t\t\t^i[531]x3, ^i[4659]x1\n\n\t\t\t» Feed\n\t\t\t^i[537]\n\n\t\t\t» Accessory\n\t\t\t[None]\n\n\t\t\t» Evolution Info\n\t\t\t[None]\n\t\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10096] = {
+		Title = "Pet Poporing#Green Herb#Bitter Herb",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9003]Pet Poporing\n\t\t\t» Acquisition Method:Taming\n\t\t\tTaming Item:^i[621]\n\n\t\t\t» Feed\n\t\t\t^i[511]\n\n\t\t\t» Accessory\n\t\t\t^i[10013]\n\n\t\t\t» Evolution Info\n\t\t\t[None]\n\t\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10097] = {
+		Title = "Pet Baby Desert Wolf#Pet Food#Well-Dried Bone",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9010]Pet Baby Desert Wolf\n\t\t\t» Acquisition Method:Taming\n\t\t\tTaming Item:^i[628]\n\n\t\t\t» Feed\n\t\t\t^i[537]\n\n\t\t\t» Accessory\n\t\t\t^i[10003]\n\n\t\t\t» Evolution Info\n\t\t\t<TIPBOX>▷Pet Desert Wolf<INFO>10098</INFO></TIPBOX>\n\t\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10098] = {
+		Title = "Pet Desert Wolf#Pet Food#Well-Dried Bone",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9129]Pet Desert Wolf\n\t\t\t» Acquisition Method\n\t\t\t<TIPBOX>▷Pet Baby Desert Wolf<INFO>10097</INFO></TIPBOX> Evolution\n\t\t\t▷Evolution Materials:\n\t\t\t^i[628]x3, ^i[7030]x300,\n\t\t\t^i[919]x20, ^i[4082]x1\n\n\t\t\t» Feed\n\t\t\t^i[537]\n\n\t\t\t» Accessory\n\t\t\t[None]\n\n\t\t\t» Evolution Info\n\t\t\t[None]\n\t\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10099] = {
+		Title = "Pet Orc Warrior#Pet Food#Orc Trophy",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9017]Pet Orc Warrior\n\t\t\t» Acquisition Method:Taming\n\t\t\tTaming Item:^i[635]\n\n\t\t\t» Feed\n\t\t\t^i[537]\n\n\t\t\t» Accessory\n\t\t\t^i[10009]\n\n\t\t\t» Evolution Info\n\t\t\t<TIPBOX>▷Pet High Orc<INFO>10100</INFO></TIPBOX>\n\t\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10100] = {
+		Title = "Pet High Orc#Pet Food#Orc Trophy",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9087]Pet High Orc\n\t\t\t» Acquisition Method\n\t\t\t<TIPBOX>▷Pet Orc Warrior<INFO>10099</INFO></TIPBOX> Evolution\n\t\t\t▷Evolution Materials:\n\t\t\t^i[635]x3, ^i[1124]x1,\n\t\t\t^i[931]x500, ^i[2267]x1,\n\t\t\t^i[4066]x1\n\t\t\t\n\t\t\t» Feed\n\t\t\t^i[537]\n\n\t\t\t» Accessory\n\t\t\t[None]\n\n\t\t\t» Evolution Info\n\t\t\t<TIPBOX>▷Pet Orc Hero<INFO>10182</INFO></TIPBOX>\n\t\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10101] = {
+		Title = "Pet Flame Golem#Pet Food#Stone Heart#Magical Lithography",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9131]Pet Flame Golem\n\t\t\t» Acquisition Method\n\t\t\t<TIPBOX>▷Pet Golem<INFO>10178</INFO></TIPBOX> Evolution\n\t\t\t▷Evolution Materials:\n\t\t\t^i[953]x500, ^i[12371]x3,\n\t\t\t^i[990]x20, ^i[27029]x1\n\n\t\t\t» Feed\n\t\t\t^i[537]\n\n\t\t\t» Accessory\n\t\t\t[None]\n\n\t\t\t» Evolution Info\n\t\t\t[None]\n\t\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10102] = {
+		Title = "Pet Poring#Pet Food#Shining Stone",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9022]Pet Poring\n\t\t\t» Acquisition Method:Taming\n\t\t\tTaming Item:^i[640]\n\n\t\t\t» Feed\n\t\t\t^i[537]\n\n\t\t\t» Accessory\n\t\t\t^i[10011]\n\t\t\t\n\t\t\t» Evolution Info\n\t\t\t<TIPBOX>▷Pet Earth Deleter<INFO>10103</INFO></TIPBOX>\n\t\t\t\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10103] = {
+		Title = "Pet Earth Deleter#Pet Food#Petite Tail#Aloe Vera",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9098]Pet Earth Deleter\n\t\t\t» Acquisition Method\n\t\t\t<TIPBOX>▷Pet Poring<INFO>10102</INFO></TIPBOX> Evolution\n\t\t\t▷Evolution Materials:\n\t\t\t^i[6260]x100, ^i[606]x150,\n\t\t\t^i[640]x3, ^i[4279]x1\n\n\t\t\t» Feed\n\t\t\t^i[537]\n\n\t\t\t» Accessory\n\t\t\t[None]\n\n\t\t\t» Evolution Info\n\t\t\t[None]\n\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10104] = {
+		Title = "Pet Hardened Nightmare Terror#Pet Food#Burning Horseshoe",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9116]Pet Hardened Nightmare Terror\n\t\t\t» Acquisition Method\n\t\t\t<TIPBOX>▷Pet Nightmare Terror<INFO>10186</INFO></TIPBOX> Evolution\n\t\t\t▷Evolution Materials:\n\t\t\t^i[7120]x500, ^i[510]x100,\n\t\t\t^i[935]x100, ^i[4166]x1\n\n\t\t\t» Feed\n\t\t\t^i[537]\n\n\t\t\t» Accessory\n\t\t\t[None]\n\n\t\t\t» Evolution Info\n\t\t\t[None]\n\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10105] = {
+		Title = "Pet Baphomet Jr.#Pet Food#Book of the Devil",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9024]Pet Baphomet Jr.\n\t\t\t» Acquisition Method:Taming\n\t\t\tTaming Item:^i[642]\n\n\t\t\t» Feed\n\t\t\t^i[518]\n\t\t\t\n\t\t\t» Accessory\n\t\t\t^i[10001]\n\t\t\t\n\t\t\t» Evolution Info\n\t\t\t<TIPBOX>▷Pet Chaotic Baphomet Jr.<INFO>10106</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10106] = {
+		Title = "Pet Chaotic Baphomet Jr.#Pet Food#Baphomet's Horn",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9130]Pet Chaotic Baphomet Jr.\n\t\t\t» Acquisition Method\n\t\t\t<TIPBOX>▷Pet Baphomet Jr.<INFO>10105</INFO></TIPBOX> Evolution\n\t\t\t▷Evolution Materials:\n\t\t\t^i[923]x300, ^i[7054]x300,\n\t\t\t^i[508]x100, ^i[27335]x1\n\t\t\t\n\t\t\t» Feed\n\t\t\t^i[537]\n\n\t\t\t» Accessory\n\t\t\t[None]\n\n\t\t\t» Evolution Info\n\t\t\t<TIPBOX>▷Pet Baphomet<INFO>10187</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10107] = {
+		Title = "Pet Peco Peco#Pet Food#Fatty Chubby Earthworm",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9014]Pet Peco Peco\n\t\t\t» Acquisition Method:Taming\n\t\t\tTaming Item:^i[632]\n\n\t\t\t» Feed\n\t\t\t^i[537]\n\n\t\t\t» Accessory\n\t\t\t^i[10010]\n\n\t\t\t» Evolution Info\n\t\t\t<TIPBOX>▷Pet Grand Peco<INFO>10108</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10108] = {
+		Title = "Pet Grand Peco#Pet Food#Fatty Chubby Earthworm",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9071]Pet Grand Peco\n\t\t\t» Acquisition Method\n\t\t\t<TIPBOX>▷Pet Peco Peco<INFO>10107</INFO></TIPBOX> Evolution\n\t\t\t▷Evolution Materials:\n\t\t\t^i[632]x3, ^i[537]x10,\n\t\t\t^i[7101]x300, ^i[522]x10,\n\t\t\t^i[4031]x1\n\t\t\t\n\t\t\t» Feed\n\t\t\t^i[537]\n\n\t\t\t» Accessory\n\t\t\t[None]\n\n\t\t\t» Evolution Info\n\t\t\t[None]\n\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10109] = {
+		Title = "Pet Teddy Bear#Cotton tuft#Bear reel",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9099]Pet Teddy Bear\n\t\t\t» Acquisition Method:Taming\n\t\t\tTaming Item:^i[23189]\n\n\t\t\t» Feed\n\t\t\t^i[25233]\n\n\t\t\t» Accessory\n\t\t\t[None]\n\n\t\t\t» Evolution Info\n\t\t\t<TIPBOX>▷Pet Abandoned Teddy Bear<INFO>10110</INFO></TIPBOX>\n\t\t\t<TIPBOX>▷Pet Eliot<INFO>10111</INFO></TIPBOX>\n\t\t\t<TIPBOX>▷Pet Alicel<INFO>10112</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10110] = {
+		Title = "Pet Abandoned Teddy Bear#Pet Food#Cursed Seal",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9108]Pet Abandoned Teddy Bear\n\t\t\t» Acquisition Method\n\t\t\t<TIPBOX>▷Pet Teddy Bear<INFO>10109</INFO></TIPBOX> Evolution\n\t\t\t▷Evolution Materials:\n\t\t\t^i[7442]x300, ^i[724]x50,\n\t\t\t^i[23189]x3, ^i[4340]x1\n\n\t\t\t» Feed\n\t\t\t^i[537]\n\n\t\t\t» Accessory\n\t\t\t[None]\n\n\t\t\t» Evolution Info\n\t\t\t[None]\n\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10111] = {
+		Title = "Pet Eliot#Pet Food#Rusty Screw#Opal",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9118]Pet Eliot\n\t\t\t» Acquisition Method\n\t\t\t<TIPBOX>▷Pet Teddy Bear<INFO>10109</INFO></TIPBOX> Evolution\n\t\t\t▷Evolution Materials:\n\t\t\t^i[7317]x500, ^i[518]x100,\n\t\t\t^i[727]x10, ^i[4340]x1\n\n\t\t\t» Feed\n\t\t\t^i[537]\n\n\t\t\t» Accessory\n\t\t\t[None]\n\n\t\t\t» Evolution Info\n\t\t\t<TIPBOX>▷Pet Kiel-D-01<INFO>10184</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10112] = {
+		Title = "Pet Alicel#Pet Food#Rusty Screw#Bloody Page",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9119]Pet Alicel\n\t\t\t» Acquisition Method\n\t\t\t<TIPBOX>▷Pet Teddy Bear<INFO>10109</INFO></TIPBOX> Evolution\n\t\t\t▷Evolution Materials:\n\t\t\t^i[7317]x500, ^i[518]x100,\n\t\t\t^i[7449]x50, ^i[4340]x1\n\n\t\t\t» Feed\n\t\t\t^i[537]\n\n\t\t\t» Accessory\n\t\t\t[None]\n\n\t\t\t» Evolution Info\n\t\t\t[None]\n\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10113] = {
+		Title = "Pet Spore#Pet Food#Dew-Laden Moss",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9012]Pet Spore\n\t\t\t» Acquisition Method:Taming\n\t\t\tTaming Item:^i[630]\n\n\t\t\t» Feed\n\t\t\t^i[537]\n\n\t\t\t» Accessory\n\t\t\t^i[10017]\n\n\t\t\t» Evolution Info\n\t\t\t[None]\n\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10114] = {
+		Title = "Pet Poison Spore#Pet Food#Deadly Noxious Herb",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9013]Pet Poison Spore\n\t\t\t» Acquisition Method:Taming\n\t\t\tTaming Item:^i[631]\n\t\t\t\n\t\t\t» Feed\n\t\t\t^i[537]\n\n\t\t\t» Accessory\n\t\t\t^i[10017]\n\n\t\t\t» Evolution Info\n\t\t\t[None]\n\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10115] = {
+		Title = "Pet Isis#Pet Food#Armlet of Obedience",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9021]Pet Isis\n\t\t\t» Acquisition Method:Taming\n\t\t\tTaming Item:^i[639]\n\n\t\t\t» Feed\n\t\t\t^i[537]\n\n\t\t\t» Accessory\n\t\t\t^i[10006]\n\n\t\t\t» Evolution Info\n\t\t\t<TIPBOX>▷Pet Little Isis<INFO>10116</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10116] = {
+		Title = "Pet Little Isis#Pet Food#Armlet of Obedience3Queen's Headdress",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9090]Pet Little Isis\n\t\t\t» Acquisition Method\n\t\t\t<TIPBOX>▷Pet Isis<INFO>10115</INFO></TIPBOX> Evolution\n\t\t\t▷Evolution Materials:\n\t\t\t^i[639]x3, ^i[10006]x1,\n\t\t\t^i[954]x300, ^i[732]x6\n\n\t\t\t» Feed\n\t\t\t^i[537]\n\n\t\t\t» Accessory\n\t\t\t[None]\n\n\t\t\t» Evolution Info\n\t\t\t[None]\n\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10117] = {
+		Title = "Pet Wanderer#Spirit Liquor#Vagabond's Skull",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9037]Pet Wanderer\n\t\t\t» Acquisition Method:Taming\n\t\t\tTaming Item:^i[14574]\n\n\t\t\t» Feed\n\t\t\t^i[7824]\n\n\t\t\t» Accessory\n\t\t\t[None]\n\n\t\t\t» Evolution Info\n\t\t\t<TIPBOX>▷Pet Contaminated Wanderer<INFO>10118</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10118] = {
+		Title = "Pet Contaminated Wanderer#Pet Food#Skull",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9117]Pet Contaminated Wanderer\n\t\t\t» Acquisition Method\n\t\t\t<TIPBOX>▷Pet Wanderer<INFO>10117</INFO></TIPBOX> Evolution\n\t\t\t▷Evolution Materials:\n\t\t\t^i[7005]x500, ^i[1059]x100,\n\t\t\t^i[1009]x50, ^i[4210]x1\n\n\t\t\t» Feed\n\t\t\t^i[537]\n\n\t\t\t» Accessory\n\t\t\t[None]\n\n\t\t\t» Evolution Info\n\t\t\t[None]\n\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10119] = {
+		Title = "Pet Munak#Pet Food#No Recipient",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9018]Pet Munak\n\t\t\t» Acquisition Method:Taming\n\t\t\tTaming Item:^i[636]\n\n\t\t\t» Feed\n\t\t\t^i[537]\n\n\t\t\t» Accessory\n\t\t\t^i[10008]\n\n\t\t\t» Evolution Info\n\t\t\t[None]\n\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10120] = {
+		Title = "Pet Bongun#Pet Food#Her Heart",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9025]Pet Bongun\n\t\t\t» Acquisition Method:Taming\n\t\t\tTaming Item:^i[659]\n\n\t\t\t» Feed\n\t\t\t^i[537]\n\n\t\t\t» Accessory\n\t\t\t^i[10020]\n\n\t\t\t» Evolution Info\n\t\t\t<TIPBOX>▷Pet Hye-gun<INFO>10121</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10121] = {
+		Title = "Pet Hye-gun#Pet Food#Munak Doll",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9093]Pet Hye-gun\n\t\t\t» Acquisition Method\n\t\t\t<TIPBOX>▷Pet Bongun<INFO>10120</INFO></TIPBOX> Evolution\n\t\t\t▷Evolution Materials:\n\t\t\t^i[7277]x100, ^i[7014]x50,\n\t\t\t^i[5367]x1, ^i[4328]x1\n\n\t\t\t» Feed\n\t\t\t^i[537]\n\n\t\t\t» Accessory\n\t\t\t[None]\n\n\t\t\t» Evolution Info\n\t\t\t[None]\n\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10122] = {
+		Title = "Pet Sohee#Pet Food#Silver Knife of Chastity",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9020]Pet Sohee\n\t\t\t» Acquisition Method:Taming\n\t\t\tTaming Item:^i[638]\n\n\t\t\t» Feed\n\t\t\t^i[537]\n\n\t\t\t» Accessory\n\t\t\t^i[10016]\n\n\t\t\t» Evolution Info\n\t\t\t[None]\n\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10123] = {
+		Title = "Pet Taoist Fairy#Morning Dew#Charming Lotus",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9047]Pet Taoist Fairy\n\t\t\t» Acquisition Method:Taming\n\t\t\tTaming Item:^i[12365]\n\n\t\t\t» Feed\n\t\t\t^i[6105]\n\n\t\t\t» Accessory\n\t\t\t^i[10029]\n\n\t\t\t» Evolution Info\n\t\t\t<TIPBOX>▷Pet Baek Sojin<INFO>10179</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10124] = {
+		Title = "Pet Nine-Tailed Fox#Suspicious bottle#Sap Jelly",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9095]Pet Nine-Tailed Fox\n\t\t\t» Acquisition Method:Taming\n\t\t\tTaming Item:^i[23187]\n\t\t\t\n\t\t\t» Feed\n\t\t\t^i[25231]\n\n\t\t\t» Accessory\n\t\t\t[None]\n\n\t\t\t» Evolution Info\n\t\t\t<TIPBOX>▷Pet Cat O' Nine Tails<INFO>10125</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10125] = {
+		Title = "Pet Cat O' Nine Tails#Pet Food#Nine Tails",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9096]Pet Cat O' Nine Tails\n\t\t\t» Acquisition Method\n\t\t\t<TIPBOX>▷Pet Nine-Tailed Fox<INFO>10124</INFO></TIPBOX> Evolution\n\t\t\t▷Evolution Materials:\n\t\t\t^i[1022]x999, ^i[23187]x3,\n\t\t\t^i[10008]x1, ^i[4159]x1\n\n\t\t\t» Feed\n\t\t\t^i[537]\n\n\t\t\t» Accessory\n\t\t\t[None]\n\n\t\t\t» Evolution Info\n\t\t\t<TIPBOX>▷Pet Moonlight Flower<INFO>10180</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10126] = {
+		Title = "Pet Incubus#Yellow Vital Flower#Girl's Naivety",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9052]Pet Incubus\n\t\t\t» Acquisition Method:Taming\n\t\t\tTaming Item:^i[12370]\n\n\t\t\t» Feed\n\t\t\t^i[6110]\n\n\t\t\t» Accessory\n\t\t\t^i[10034]\n\n\t\t\t» Evolution Info\n\t\t\t[None]\n\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10127] = {
+		Title = "Pet Succubus#Yellow Vital Flower#Boy's Pure Heart",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9055]Pet Succubus\n\t\t\t» Acquisition Method:Taming\n\t\t\tTaming Item:^i[12373]\n\n\t\t\t» Feed\n\t\t\t^i[6113]\n\n\t\t\t» Accessory\n\t\t\t^i[10037]\n\n\t\t\t» Evolution Info\n\t\t\t[None]\n\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10128] = {
+		Title = "Pet Rocker#Pet Food#Singing Flower",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9011]Pet Rocker\n\t\t\t» Acquisition Method:Taming\n\t\t\tTaming Item:^i[629]\n\n\t\t\t» Feed\n\t\t\t^i[537]\n\n\t\t\t» Accessory\n\t\t\t^i[10014]\n\n\t\t\t» Evolution Info\n\t\t\t<TIPBOX>▷Pet Metaller<INFO>10129</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10129] = {
+		Title = "Pet Metaller#Pet Food#Grasshopper's Leg",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9106]Pet Metaller\n\t\t\t» Acquisition Method\n\t\t\t<TIPBOX>▷Pet Rocker<INFO>10128</INFO></TIPBOX> Evolution\n\t\t\t▷Evolution Materials:\n\t\t\t^i[940]x777, ^i[508]x200,\n\t\t\t^i[707]x3, ^i[4057]x1\n\n\t\t\t» Feed\n\t\t\t^i[537]\n\n\t\t\t» Accessory\n\t\t\t[None]\n\n\t\t\t» Evolution Info\n\t\t\t[None]\n\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10130] = {
+		Title = "Pet Mummy#Memento#Magic Gauze",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9102]Pet Mummy\n\t\t\t» Acquisition Method:Taming\n\t\t\tTaming Item:^i[23256]\n\n\t\t\t» Feed\n\t\t\t^i[934]\n\n\t\t\t» Accessory\n\t\t\t[None]\n\n\t\t\t» Evolution Info\n\t\t\t<TIPBOX>▷Pet Ancient Mummy<INFO>10131</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10131] = {
+		Title = "Pet Ancient Mummy#Pet Food#Rune of Darkness",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9107]Pet Ancient Mummy\n\t\t\t» Acquisition Method\n\t\t\t<TIPBOX>▷Pet Mummy<INFO>10130</INFO></TIPBOX> Evolution\n\t\t\t▷Evolution Materials:\n\t\t\t^i[7511]x200, ^i[969]x30,\n\t\t\t^i[23256]x3, ^i[4248]x1\n\t\t\t\n\t\t\t» Feed\n\t\t\t^i[537]\n\n\t\t\t» Accessory\n\t\t\t[None]\n\n\t\t\t» Evolution Info\n\t\t\t[None]\n\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10132] = {
+		Title = "Pet Lunatic#Carrot Juice#Rainbow Carrot",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9004]Pet Lunatic\n\t\t\t» Acquisition Method:Taming\n\t\t\tTaming Item:^i[622]\n\t\t\t\n\t\t\t» Feed\n\t\t\t^i[534]\n\n\t\t\t» Accessory\n\t\t\t^i[10007]\n\n\t\t\t» Evolution Info\n\t\t\t<TIPBOX>▷Pet Leaf Lunatic<INFO>10133</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10133] = {
+		Title = "Pet Leaf Lunatic#Pet Food#Clover",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9094]Pet Leaf Lunatic\n\t\t\t» Acquisition Method\n\t\t\t<TIPBOX>▷Pet Lunatic<INFO>10132</INFO></TIPBOX> Evolution\n\t\t\t▷Evolution Materials:\n\t\t\t^i[705]x250, ^i[706]x30,\n\t\t\t^i[7198]x100, ^i[4663]x1\n\n\t\t\t» Feed\n\t\t\t^i[537]\n\n\t\t\t» Accessory\n\t\t\t[None]\n\n\t\t\t» Evolution Info\n\t\t\t[None]\n\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10134] = {
+		Title = "Pet Picky#Red Herb#Earthworm the Dude",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9005]Pet Picky\n\t\t\t» Acquisition Method:Taming\n\t\t\tTaming Item:^i[623]\n\t\t\t\n\t\t\t» Feed\n\t\t\t^i[507]\n\n\t\t\t» Accessory\n\t\t\t^i[10012]\n\n\t\t\t» Evolution Info\n\t\t\t[None]\n\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10135] = {
+		Title = "Pet Chonchon#Pet Food#Rotten Fish",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9006]Pet Chonchon\n\t\t\t» Acquisition Method:Taming\n\t\t\tTaming Item:^i[624]\n\n\t\t\t» Feed\n\t\t\t^i[537]\n\n\t\t\t» Accessory\n\t\t\t^i[10002]\n\t\t\t\n\t\t\t» Evolution Info\n\t\t\t[None]\n\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10136] = {
+		Title = "Pet Steel Chonchon#Iron Ore#Rusty Iron",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9007]Pet Steel Chonchon\n\t\t\t» Acquisition Method:Taming\n\t\t\tTaming Item:^i[625]\n\n\t\t\t» Feed\n\t\t\t^i[1002]\n\n\t\t\t» Accessory\n\t\t\t^i[10002]\n\n\t\t\t» Evolution Info\n\t\t\t[None]\n\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10137] = {
+		Title = "Pet Hunter Fly#Red Gemstone#Monster Juice",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9008]Pet Hunter Fly\n\t\t\t» Acquisition Method:Taming\n\t\t\tTaming Item:^i[626]\n\t\t\t\n\t\t\t» Feed\n\t\t\t^i[716]\n\t\t\t\n\t\t\t» Accessory\n\t\t\t^i[10002]\n\n\t\t\t» Evolution Info\n\t\t\t[None]\n\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10138] = {
+		Title = "Pet Savage Babe#Pet Food#Sweet Milk",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9009]Pet Savage Babe\n\t\t\t» Acquisition Method:Taming\n\t\t\tTaming Item:^i[627]\n\n\t\t\t» Feed\n\t\t\t^i[537]\n\t\t\t\n\t\t\t» Accessory\n\t\t\t^i[10015]\n\t\t\t\n\t\t\t» Evolution Info\n\t\t\t<TIPBOX>▷Pet Savage<INFO>10139</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10139] = {
+		Title = "Pet Savage#Pet Food#Sweet Milk",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9070]Pet Savage\n\t\t\t» Acquisition Method\n\t\t\t<TIPBOX>▷Pet Savage Babe<INFO>10138</INFO></TIPBOX> Evolution\n\t\t\t▷Evolution Materials:\n\t\t\t^i[627]x3, ^i[537]x10,\n\t\t\t^i[517]x100, ^i[949]x50\n\n\t\t\t» Feed\n\t\t\t^i[537]\n\n\t\t\t» Accessory\n\t\t\t[None]\n\n\t\t\t» Evolution Info\n\t\t\t[None]\n\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10140] = {
+		Title = "Pet Smokie#Pet Food#Baked Sweet Potato",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9015]Pet Smokie\n\t\t\t» Acquisition Method:Taming\n\t\t\tTaming Item:^i[633]\n\n\t\t\t» Feed\n\t\t\t^i[537]\n\n\t\t\t» Accessory\n\t\t\t^i[10019]\n\n\t\t\t» Evolution Info\n\t\t\t[None]\n\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10141] = {
+		Title = "Pet Yoyo#Banana Juice#Tropical Banana",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9016]Pet Yoyo\n\t\t\t» Acquisition Method:Taming\n\t\t\tTaming Item:^i[634]\n\t\t\t\n\t\t\t» Feed\n\t\t\t^i[532]\n\n\t\t\t» Accessory\n\t\t\t^i[10018]\n\n\t\t\t» Evolution Info\n\t\t\t<TIPBOX>▷Pet Choco<INFO>10142</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10142] = {
+		Title = "Pet Choco#Pet Food#Tropical Banana",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9091]Pet Choco\n\t\t\t» Acquisition Method\n\t\t\t<TIPBOX>▷Pet Yoyo<INFO>10141</INFO></TIPBOX> Evolution\n\t\t\t▷Evolution Materials:\n\t\t\t^i[634]x3, ^i[753]x2,\n\t\t\t^i[7182]x300, ^i[4051]x1\n\n\t\t\t» Feed\n\t\t\t^i[537]\n\n\t\t\t» Accessory\n\t\t\t[None]\n\n\t\t\t» Evolution Info\n\t\t\t[None]\n\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10143] = {
+		Title = "Pet Goblin#Pet Food#Old Broom",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9019]Pet Goblin\n\t\t\t» Acquisition Method:Taming\n\t\t\tTaming Item:^i[637]\n\n\t\t\t» Feed\n\t\t\t^i[537]\n\n\t\t\t» Accessory\n\t\t\t^i[10005]\n\n\t\t\t» Evolution Info\n\t\t\t<TIPBOX>▷Pet Amon Ra<INFO>10144</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10144] = {
+		Title = "Pet Amon Ra#Pet Food#Old Broom",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9089]Pet Amon Ra\n\t\t\t» Acquisition Method\n\t\t\t<TIPBOX>▷Pet Goblin<INFO>10143</INFO></TIPBOX> Evolution\n\t\t\t▷Evolution Materials:\n\t\t\t^i[637]x3, ^i[981]x3,\n\t\t\t^i[1021]x300, ^i[969]x3\n\n\t\t\t» Feed\n\t\t\t^i[537]\n\n\t\t\t» Accessory\n\t\t\t[None]\n\n\t\t\t» Evolution Info\n\t\t\t[None]\n\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10145] = {
+		Title = "Pet Deviruchi#Shoot#Contract in Shadow",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9023]Pet Deviruchi\n\t\t\t» Acquisition Method:Taming\n\t\t\tTaming Item:^i[641]\n\n\t\t\t» Feed\n\t\t\t^i[711]\n\n\t\t\t» Accessory\n\t\t\t^i[10004]\n\n\t\t\t» Evolution Info\n\t\t\t<TIPBOX>▷Pet Diabolic<INFO>10146</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10146] = {
+		Title = "Pet Diabolic#Pet Food#Contract in Shadow",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9097]Pet Diabolic\n\t\t\t» Acquisition Method\n\t\t\t<TIPBOX>▷Pet Deviruchi<INFO>10145</INFO></TIPBOX> Evolution\n\t\t\t▷Evolution Materials:\n\t\t\t^i[641]x3, ^i[1039]x250,\n\t\t\t^i[1009]x30, ^i[4122]x1\n\t\t\t\n\t\t\t» Feed\n\t\t\t^i[7823]\n\n\t\t\t» Accessory\n\t\t\t[None]\n\n\t\t\t» Evolution Info\n\t\t\t[None]\n\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10147] = {
+		Title = "Pet Alice#White Potion#Soft Apron",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9027]Pet Alice\n\t\t\t» Acquisition Method:Taming\n\t\t\tTaming Item:^i[661]\n\n\t\t\t» Feed\n\t\t\t^i[504]\n\n\t\t\t» Accessory\n\t\t\t[None]\n\n\t\t\t» Evolution Info\n\t\t\t<TIPBOX>▷Pet Eliza<INFO>10148</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10148] = {
+		Title = "Pet Eliza#Pet Food#Alice's Apron",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9120]Pet Eliza\n\t\t\t» Acquisition Method\n\t\t\t<TIPBOX>▷Pet Alice<INFO>10147</INFO></TIPBOX> Evolution\n\t\t\t▷Evolution Materials:\n\t\t\t^i[7047]x500, ^i[511]x200,\n\t\t\t^i[985]x30, ^i[4253]x1\n\n\t\t\t» Feed\n\t\t\t^i[537]\n\n\t\t\t» Accessory\n\t\t\t[None]\n\n\t\t\t» Evolution Info\n\t\t\t[None]\n\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10149] = {
+		Title = "Pet Cheong-i#Bun#Tantan Noodle",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9030]Pet Cheong-i\n\t\t\t» Acquisition Method:Taming\n\t\t\tTaming Item:^i[12395]\n\n\t\t\t» Feed\n\t\t\t^i[6115]\n\n\t\t\t» Accessory\n\t\t\t[None]\n\n\t\t\t» Evolution Info\n\t\t\t[None]\n\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10150] = {
+		Title = "Pet Leaf Cat#Fish With Blue Back#Very Soft Plant",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9041]Pet Leaf Cat\n\t\t\t» Acquisition Method:Taming\n\t\t\tTaming Item:^i[12359]\n\n\t\t\t» Feed\n\t\t\t^i[6096]\n\n\t\t\t» Accessory\n\t\t\t^i[10023]\n\n\t\t\t» Evolution Info\n\t\t\t<TIPBOX>▷Pet Wild Rose<INFO>10191</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10151] = {
+		Title = "Pet Loli Ruri#Pumpkin Pie#Very Red Juice",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9042]Pet Loli Ruri\n\t\t\t» Acquisition Method:Taming\n\t\t\tTaming Item:^i[12360]\n\n\t\t\t» Feed\n\t\t\t^i[6097]\n\n\t\t\t» Accessory\n\t\t\t^i[10024]\n\n\t\t\t» Evolution Info\n\t\t\t<TIPBOX>▷Pet Blue Moon Loli Ruri<INFO>10190</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10152] = {
+		Title = "Pet Shinobi#Grilled Rice Cake#Kuloren",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9044]Pet Shinobi\n\t\t\t» Acquisition Method:Taming\n\t\t\tTaming Item:^i[12362]\n\n\t\t\t» Feed\n\t\t\t^i[6099]\n\n\t\t\t» Accessory\n\t\t\t^i[10026]\n\n\t\t\t» Evolution Info\n\t\t\t[None]\n\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10153] = {
+		Title = "Pet Miyabi Doll#Well-Ripened Berry#Girl's Doll",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9048]Pet Miyabi Doll\n\t\t\t» Acquisition Method:Taming\n\t\t\tTaming Item:^i[12366]\n\t\t\t\n\t\t\t» Feed\n\t\t\t^i[6106]\n\n\t\t\t» Accessory\n\t\t\t^i[10030]\n\n\t\t\t» Evolution Info\n\t\t\t[None]\n\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10154] = {
+		Title = "Pet Marionette#Small Snow Flower#Delicious Shaved Ice",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9043]Pet Marionette\n\t\t\t» Acquisition Method:Taming\n\t\t\tTaming Item:^i[12361]\n\n\t\t\t» Feed\n\t\t\t^i[6098]\n\n\t\t\t» Accessory\n\t\t\t^i[10025]\n\n\t\t\t» Evolution Info\n\t\t\t[None]\n\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10155] = {
+		Title = "Pet Whisper#Damp Darkness#Ghost Coffin",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9045]Pet Whisper\n\t\t\t» Acquisition Method:Taming\n\t\t\tTaming Item:^i[12363]\n\n\t\t\t» Feed\n\t\t\t^i[6100]\n\n\t\t\t» Accessory\n\t\t\t^i[10027]\n\n\t\t\t» Evolution Info\n\t\t\t[None]\n\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10157] = {
+		Title = "Pet Stone Shooter#Plant Nutrient#Palm Oil Fruit",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9051]Pet Stone Shooter\n\t\t\t» Acquisition Method:Taming\n\t\t\tTaming Item:^i[12369]\n\n\t\t\t» Feed\n\t\t\t^i[6109]\n\t\t\t\n\t\t\t» Accessory\n\t\t\t^i[10033]\n\n\t\t\t» Evolution Info\n\t\t\t[None]\n\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10158] = {
+		Title = "Pet Imp#Flame Gemstone#Ice Fireworks",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9056]Pet Imp\n\t\t\t» Acquisition Method:Taming\n\t\t\tTaming Item:^i[12374]\n\n\t\t\t» Feed\n\t\t\t^i[6114]\n\n\t\t\t» Accessory\n\t\t\t^i[10038]\n\t\t\t\n\t\t\t» Evolution Info\n\t\t\t[None]\n\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10159] = {
+		Title = "Pet Tick Bering#Monster's Feed#Tikbalang Harness",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9059]Pet Tick Bering\n\t\t\t» Acquisition Method:Taming\n\t\t\tTaming Item:^i[12699]\n\n\t\t\t» Feed\n\t\t\t^i[528]\n\t\t\t\n\t\t\t» Accessory\n\t\t\t[None]\n\n\t\t\t» Evolution Info\n\t\t\t[None]\n\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10160] = {
+		Title = "Pet Gremlin#Engine oil#Piece of Aeroplane",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9100]Pet Gremlin\n\t\t\t» Acquisition Method:Taming\n\t\t\tTaming Item:^i[23188]\n\n\t\t\t» Feed\n\t\t\t^i[25232]\n\t\t\t\n\t\t\t» Accessory\n\t\t\t[None]\n\n\t\t\t» Evolution Info\n\t\t\t<TIPBOX>▷Pet Hodremlin<INFO>10161</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10161] = {
+		Title = "Pet Hodremlin#Pet Food#Will of the Darkness",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9105]Pet Hodremlin\n\t\t\t» Acquisition Method\n\t\t\t<TIPBOX>▷Pet Gremlin<INFO>10160</INFO></TIPBOX> Evolution\n\t\t\t▷Evolution Materials:\n\t\t\t^i[7340]x200, ^i[6100]x50,\n\t\t\t^i[23188]x3, ^i[4413]x1\n\n\t\t\t» Feed\n\t\t\t^i[537]\n\n\t\t\t» Accessory\n\t\t\t[None]\n\n\t\t\t» Evolution Info\n\t\t\t<TIPBOX>▷Pet Groom Under Night<INFO>10183</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10162] = {
+		Title = "Pet Dark Priest#Desecrated Water#Dark Bible",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9128]Pet Dark Priest\n\t\t\t» Acquisition Method:Taming\n\t\t\tTaming Item:^i[100796]\n\n\t\t\t» Feed\n\t\t\t^i[1000552]\n\t\t\t\n\t\t\t» Accessory\n\t\t\t[None]\n\n\t\t\t» Evolution Info\n\t\t\t<TIPBOX>▷Pet Dark Illusion<INFO>10189</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10163] = {
+		Title = "Pet Willow#Fine Wood Fragment#Wet Trunk",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9103]Pet Willow\n\t\t\t» Acquisition Method:Taming\n\t\t\tTaming Item:^i[23257]\n\n\t\t\t» Feed\n\t\t\t^i[1066]\n\t\t\t\n\t\t\t» Accessory\n\t\t\t[None]\n\n\t\t\t» Evolution Info\n\t\t\t[None]\n\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10164] = {
+		Title = "Pet Lowin#Rotten Meat#Carrion",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9104]Pet Lowin\n\t\t\t» Acquisition Method:Taming\n\t\t\tTaming Item:^i[23258]\n\n\t\t\t» Feed\n\t\t\t^i[7564]\n\t\t\t\n\t\t\t» Accessory\n\t\t\t[None]\n\n\t\t\t» Evolution Info\n\t\t\t[None]\n\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10165] = {
+		Title = "Pet Zherlthsh#Immortal Heart#Forbidden Red Candle",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9026]Pet Zherlthsh\n\t\t\t» Acquisition Method:Taming\n\t\t\tTaming Item:^i[660]\n\n\t\t\t» Feed\n\t\t\t^i[929]\n\t\t\t\n\t\t\t» Accessory\n\t\t\t[None]\n\n\t\t\t» Evolution Info\n\t\t\t[None]\n\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10166] = {
+		Title = "Pet Little Administrator β#Cloud Cotton",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9123]Pet Little Administrator β\n\t\t\t» Acquisition Method:Exchange\n\t\t\tExchange Item:^i[1000103]x30\n\t\t\t<NAVI>[Kid Administrator β]<INFO>ba_in01,87,386,0,101,0</INFO></NAVI>\n\n\t\t\t» Feed\n\t\t\t^i[1000227]\n\n\t\t\t» Accessory\n\t\t\t^i[10043]\n\n\t\t\t» Evolution Info\n\t\t\t<TIPBOX>▷Pet Little Administrator α<INFO>10167</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10167] = {
+		Title = "Pet Little Administrator α#Pet Food",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9124]Pet Little Administrator α\n\t\t\t» Acquisition Method\n\t\t\t<TIPBOX>▷Pet Little Administrator β<INFO>10166</INFO></TIPBOX> Evolution\n\t\t\t▷Evolution Materials:\n\t\t\t^i[1000103]x500, ^i[7095]x50,\n\t\t\t^i[7094]x10\n\n\t\t\t» Feed\n\t\t\t^i[537]\n\n\t\t\t» Accessory\n\t\t\t^i[10044]\n\n\t\t\t» Evolution Info\n\t\t\t[None]\n\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10168] = {
+		Title = "Pet Sweets Drops#Candy",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9109]Pet Sweets Drops\n\t\t\t» Acquisition Method\n\t\t\t<TIPBOX>▷Pet Drops<INFO>10094</INFO></TIPBOX> Evolution\n\t\t\t▷Evolution Materials:\n\t\t\t^i[529]x50, ^i[530]x50,\n\t\t\t^i[25290]x500, ^i[4004]x1\n\t\t\t\n\t\t\t» Feed\n\t\t\t^i[529]\n\n\t\t\t» Accessory\n\t\t\t[None]\n\n\t\t\t» Evolution Info\n\t\t\t[None]\n\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10169] = {
+		Title = "Pet Christmas Goblin#Cell#Sweet Candy Cane",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9029]Pet Christmas Goblin\n\t\t\t» Acquisition Method:Taming\n\t\t\tTaming Item:^i[12225]\n\n\t\t\t» Feed\n\t\t\t^i[911]\n\n\t\t\t» Accessory\n\t\t\t[None]\n\n\t\t\t» Evolution Info\n\t\t\t[None]\n\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10170] = {
+		Title = "Pet Goblin Leader#Big Scell#Sweet Candy Cane",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9046]Pet Goblin Leader\n\t\t\t» Acquisition Method:Taming\n\t\t\tTaming Item:^i[12364]\n\n\t\t\t» Feed\n\t\t\t^i[6104]\n\n\t\t\t» Accessory\n\t\t\t^i[10028]\n\n\t\t\t» Evolution Info\n\t\t\t[None]\n\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10171] = {
+		Title = "Pet Myogwe#Flavored Alcohol#Fan of Wind",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9040]Pet Myogwe\n\t\t\t» Acquisition Method:Taming\n\t\t\tTaming Item:^i[12358]\n\n\t\t\t» Feed\n\t\t\t^i[6095]\n\n\t\t\t» Accessory\n\t\t\t^i[10022]\n\n\t\t\t» Evolution Info\n\t\t\t[None]\n\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10172] = {
+		Title = "Pet Snow Rabbit#Candy",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9058]Pet Snow Rabbit\n\t\t\t» Acquisition Method\n\t\t\tObtained from ^i[9058] during the event period\n\n\t\t\t» Feed\n\t\t\t^i[529]\n\n\t\t\t» Accessory\n\t\t\t[None]\n\n\t\t\t» Evolution Info\n\t\t\t[None]\n\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10173] = {
+		Title = "Pet Blue Unicorn#Pet Food",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9068]Pet Blue Unicorn\n\t\t\t» Acquisition Method\n\t\t\tObtained from ^i[9068] during the event period\n\n\t\t\t» Feed\n\t\t\t^i[537]\n\n\t\t\t» Accessory\n\t\t\t[None]\n\n\t\t\t» Evolution Info\n\t\t\t[None]\n\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10174] = {
+		Title = "Pet Hard Rice Cake#Green Herb#Chewy Rice Powder",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9028]Pet Hard Rice Cake\n\t\t\t» Acquisition Method:Taming\n\t\t\tTaming Item:^i[12340]\n\n\t\t\t» Feed\n\t\t\t^i[511]\n\n\t\t\t» Accessory\n\t\t\t[None]\n\n\t\t\t» Evolution Info\n\t\t\t[None]\n\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10175] = {
+		Title = "Pet Skatleton#Fresh Fish",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9101]Pet Skatleton\n\t\t\t» Acquisition Method\n\t\t\tObtained through a quest during the Halloween event period\n\t\t\t<NAVI>[Jack]<INFO>niflheim,172,244,0,101,0</INFO></NAVI>\n\n\t\t\t» Feed\n\t\t\t^i[579]\n\n\t\t\t» Accessory\n\t\t\t^i[10040]\n\t\t\t\n\t\t\t» Evolution Info\n\t\t\t<TIPBOX>▷Pet Skelion<INFO>10176</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10176] = {
+		Title = "Pet Skelion#Yummy Meat",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9113]Pet Skelion\n\t\t\t» Acquisition Method\n\t\t\t<TIPBOX>▷Pet Skatleton<INFO>10175</INFO></TIPBOX> Evolution\n\t\t\t▷Evolution Materials:\n\t\t\t^i[25408]x2, ^i[11616]x100,\n\t\t\t^i[11605]x100\n\n\t\t\t» Feed\n\t\t\t^i[11616]\n\n\t\t\t» Accessory\n\t\t\t^i[10042]\n\n\t\t\t» Evolution Info\n\t\t\t[None]\n\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10177] = {
+		Title = "Pet Wandering Duck Doll#Cotton tuft#Toy Button",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9125]Pet Wandering Duck Doll\n\t\t\t» Acquisition Method:Taming\n\t\t\tTaming Item:^i[9897]\n\n\t\t\t» Feed\n\t\t\t^i[25233]\n\n\t\t\t» Accessory\n\t\t\t^i[10045]\n\t\t\t\n\t\t\t» Evolution Info\n\t\t\t[None]\n\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10178] = {
+		Title = "Pet Golem#Mystic Stone#Magical Lithography",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9053]Pet Golem\n\t\t\t» Acquisition Method:Taming\n\t\t\tTaming Item:^i[12371]\n\n\t\t\t» Feed\n\t\t\t^i[6111]\n\n\t\t\t» Accessory\n\t\t\t^i[10035]\n\n\t\t\t» Evolution Info\n\t\t\t<TIPBOX>▷Pet Flame Golem<INFO>10101</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10179] = {
+		Title = "Pet Baek Sojin#Luxury food",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9115]Pet Baek Sojin\n\t\t\t» Acquisition Method\n\t\t\t<TIPBOX>▷Pet Taoist Fairy<INFO>10123</INFO></TIPBOX> Evolution\n\t\t\t▷Evolution Materials:\n\t\t\t^i[4202]x10, ^i[4265]x10,\n\t\t\t^i[4272]x10, ^i[25375]x30\n\n\t\t\t» Feed\n\t\t\t^i[25377]\n\t\t\t\n\t\t\t» Accessory\n\t\t\t[None]\n\n\t\t\t» Evolution Info\n\t\t\t[None]\n\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10180] = {
+		Title = "Pet Moonlight Flower#Luxury food",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9112]Pet Moonlight Flower\n\t\t\t» Acquisition Method\n\t\t\t<TIPBOX>▷Pet Cat O' Nine Tails<INFO>10125</INFO></TIPBOX> Evolution\n\t\t\t▷Evolution Materials:\n\t\t\t^i[4159]x10, ^i[4090]x10,\n\t\t\t^i[4100]x10, ^i[25375]x30\n\t\t\t\n\t\t\t» Feed\n\t\t\t^i[25377]\n\n\t\t\t» Accessory\n\t\t\t[None]\n\n\t\t\t» Evolution Info\n\t\t\t[None]\n\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10181] = {
+		Title = "Pet Phreeoni#Luxury food",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9111]Pet Phreeoni\n\t\t\t» Acquisition Method:Exchange\n\t\t\tExchange Item:^i[25375]x30\n\t\t\t<NAVI>[Servant of Transcendent Gold Hand]<INFO>prontera,163,304,0,101,0</INFO></NAVI>\n\n\t\t\t» Feed\n\t\t\t^i[25377]\n\n\t\t\t» Accessory\n\t\t\t[None]\n\n\t\t\t» Evolution Info\n\t\t\t[None]\n\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10182] = {
+		Title = "Pet Orc Hero#Luxury food",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9121]Pet Orc Hero\n\t\t\t» Acquisition Method\n\t\t\t<TIPBOX>▷Pet High Orc<INFO>10100</INFO></TIPBOX> Evolution\n\t\t\t▷Evolution Materials:\n\t\t\t^i[4066]x10, ^i[4375]x10,\n\t\t\t^i[968]x10, ^i[25375]x30\n\n\t\t\t» Feed\n\t\t\t^i[25377]\n\n\t\t\t» Accessory\n\t\t\t[None]\n\n\t\t\t» Evolution Info\n\t\t\t[None]\n\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10183] = {
+		Title = "Pet Groom Under Night#Luxury food",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9122]Pet Groom Under Night\n\t\t\t» Acquisition Method\n\t\t\t<TIPBOX>▷Pet Hodremlin<INFO>10161</INFO></TIPBOX> Evolution\n\t\t\t▷Evolution Materials:\n\t\t\t^i[4413]x10, ^i[4409]x10,\n\t\t\t^i[4412]x10, ^i[25375]x30\n\n\t\t\t» Feed\n\t\t\t^i[25377]\n\n\t\t\t» Accessory\n\t\t\t[None]\n\n\t\t\t» Evolution Info\n\t\t\t[None]\n\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10184] = {
+		Title = "Pet Kiel-D-01#Luxury food",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9126]Pet Kiel-D-01\n\t\t\t» Acquisition Method\n\t\t\t<TIPBOX>▷Pet Eliot<INFO>10111</INFO></TIPBOX> Evolution\n\t\t\t▷Evolution Materials:\n\t\t\t^i[4402]x10, ^i[4400]x10,\n\t\t\t^i[4401]x10, ^i[25375]x30\n\n\t\t\t» Feed\n\t\t\t^i[25377]\n\n\t\t\t» Accessory\n\t\t\t[None]\n\n\t\t\t» Evolution Info\n\t\t\t[None] \n\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10185] = {
+		Title = "Pet Dullahan#Ring of Death#Luxury Whisky Bottle",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9049]Pet Dullahan\n\t\t\t» Acquisition Method:Taming\n\t\t\tTaming Item:^i[12367]\n\n\t\t\t» Feed\n\t\t\t^i[6107]\n\n\t\t\t» Accessory\n\t\t\t^i[10031]\n\n\t\t\t» Evolution Info\n\t\t\t[None] \n\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10186] = {
+		Title = "Pet Nightmare Terror#Fresh Salad#Hell Contract",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9054]Pet Nightmare Terror\n\t\t\t» Acquisition Method:Taming\n\t\t\tTaming Item:^i[12372]\n\n\t\t\t» Feed\n\t\t\t^i[6112]\n\t\t\t\n\t\t\t» Accessory\n\t\t\t^i[10036]\n\n\t\t\t» Evolution Info\n\t\t\t<TIPBOX>▷Pet Hardened Nightmare Terror<INFO>10104</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10187] = {
+		Title = "Pet Baphomet#Luxury food",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9137]Pet Baphomet\n\t\t\t» Acquisition Method\n\t\t\t<TIPBOX>▷Pet Chaotic Baphomet Jr.<INFO>10106</INFO></TIPBOX> Evolution\n\t\t\t▷Evolution Materials:\n\t\t\t^i[4129]x15, ^i[27335]x15,\n\t\t\t^i[25375]x30\n\n\t\t\t» Feed\n\t\t\t^i[25377]\n\n\t\t\t» Accessory\n\t\t\t[None] \n\n\t\t\t» Evolution Info\n\t\t\t[None] \n\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10188] = {
+		Title = "Pet Familiar#Mixed Fruit Trap#Mixed Fruit Juice",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9138]Pet Familiar\n\t\t\t» Acquisition Method:Taming\n\t\t\tTaming Item:^i[101331]\n\n\t\t\t» Feed\n\t\t\t^i[1000889]\n\n\t\t\t» Accessory\n\t\t\t[None]\n\n\t\t\t» Evolution Info\n\t\t\t[None] \n\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10189] = {
+		Title = "Pet Dark Illusion#Evolution#Dark Priest",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9139]Pet Dark Illusion\n\t\t\t» Acquisition Method\n\t\t\t<TIPBOX>▷Pet Dark Priest<INFO>10162</INFO></TIPBOX> Evolution\n\t\t\t▷Evolution Materials:\n\t\t\t^i[7005]x500, ^i[2608]x1,\n\t\t\t^i[1009]x5, ^i[4171]x10\n\t\t\t\n\t\t\t» Feed\n\t\t\t^i[537]\n\t\t\t\n\t\t\t» Accessory\n\t\t\t[None]\n\t\t\t\n\t\t\t» Evolution Info\n\t\t\t<TIPBOX>▷Pet Dark Lord<INFO>10200</INFO></TIPBOX>\n\t\t\t\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10190] = {
+		Title = "Pet Blue Moon Loli Ruri#Evolution",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9140]Pet Blue Moon Loli Ruri\n\t\t\t» Acquisition Method\n\t\t\t<TIPBOX>▷Pet Loli Ruri<INFO>10151</INFO></TIPBOX> Evolution\n\t\t\t▷Evolution Materials:\n\t\t\t^i[7214]x500, ^i[510]x50,\n\t\t\t^i[7019]x1, ^i[4191]x10\n\n\t\t\t» Feed\n\t\t\t^i[537]\n\n\t\t\t» Accessory\n\t\t\t[None]\n\t\t\t\n\t\t\t» Evolution Info\n\t\t\t[None]\n\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10191] = {
+		Title = "Pet Wild Rose#Evolution#Leaf Cat",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9141]Pet Wild Rose\n\t\t\t» Acquisition Method\n\t\t\t<TIPBOX>▷Pet Leaf Cat<INFO>10150</INFO></TIPBOX> Evolution\n\t\t\t▷Evolution Materials:\n\t\t\t^i[7198]x500, ^i[7206]x200,\n\t\t\t^i[1023]x200, ^i[4195]x10\n\n\t\t\t» Feed\n\t\t\t^i[537]\n\n\t\t\t» Accessory\n\t\t\t[None]\n\t\t\t\n\t\t\t» Evolution Info\n\t\t\t<TIPBOX>▷Pet Eddga<INFO>10195</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10192] = {
+		Title = "Pet Mutating White Knight#Evolution",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9133]Pet Mutating White Knight\n\t\t\t» Acquisition Method:Exchange\n\t\t\tExchange Item:^i[25375]x10\n\t\t\t<NAVI>[Servant of Transcendent Gold Hand]<INFO>prontera,163,304,0,101,0</INFO></NAVI>\n\t\t\t\n\t\t\t» Feed\n\t\t\t^i[537]\n\t\t\t\n\t\t\t» Accessory\n\t\t\t[None]\n\t\t\t\n\t\t\t» Evolution Info\n\t\t\t<TIPBOX>▷Pet Abyss Knight<INFO>10193</INFO></TIPBOX>\n\t\t\t<TIPBOX>▷Pet White Knight<INFO>10194</INFO></TIPBOX>\n\t\t\t\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10193] = {
+		Title = "Pet Abyss Knight#Evolution",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9132]Pet Abyss Knight\n\t\t\t» Acquisition Method\n\t\t\t<TIPBOX>▷Pet Mutating White Knight<INFO>10192</INFO></TIPBOX> Evolution\n\t\t\t▷Evolution Materials:\n\t\t\t^i[6089]x100, ^i[7511]x100,\n\t\t\t^i[1000257]x200, ^i[4140]x5\n\n\t\t\t» Feed\n\t\t\t^i[537]\n\t\t\t\n\t\t\t» Accessory\n\t\t\t[None]\n\t\t\t\n\t\t\t» Evolution Info\n\t\t\t[None]\n\t\t\t\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10194] = {
+		Title = "Pet White Knight#Evolution",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9134]Pet White Knight\n\t\t\t» Acquisition Method\n\t\t\t<TIPBOX>▷Pet Mutating White Knight<INFO>10192</INFO></TIPBOX> Evolution\n\t\t\t▷Evolution Materials:\n\t\t\t^i[25509]x100, ^i[1000831]x100,\n\t\t\t^i[1000263]x200, ^i[4608]x2\n\t\t\t\n\t\t\t» Feed\n\t\t\t^i[537]\n\t\t\t\n\t\t\t» Accessory\n\t\t\t[None]\n\t\t\t\n\t\t\t» Evolution Info\n\t\t\t[None]\n\t\t\t\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10195] = {
+		Title = "Pet Eddga#Evolution",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9142]Pet Eddga\n\t\t\t» Acquisition Method\n\t\t\t<TIPBOX>▷Pet Wild Rose<INFO>10191</INFO></TIPBOX> Evolution\n\t\t\t▷Evolution Materials:\n\t\t\t^i[4195]x10, ^i[4257]x10,\n\t\t\t^i[27124]x10, ^i[25375]x30\n\t\t\t\n\t\t\t» Feed\n\t\t\t^i[25377]\n\t\t\t\n\t\t\t» Accessory\n\t\t\t[None]\n\t\t\t\n\t\t\t» Evolution Info\n\t\t\t[None]\n\t\t\t\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10196] = {
+		Title = "Pet Medusa",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9050]Pet Medusa\n\t\t\t» Acquisition Method:Taming\n\t\t\tTaming Item:^i[12368]\n\n\t\t\t» Feed\n\t\t\t^i[6108]\n\t\t\t\n\t\t\t» Accessory\n\t\t\t^i[10032]\n\t\t\t\n\t\t\t» Evolution Info\n\t\t\t[None]\n\t\t\t\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10197] = {
+		Title = "Pet Kkopo",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9145]Pet Kkopo\n\t\t\t» Acquisition Method:Taming\n\t\t\tTaming Item:^i[102202]\n\t\t\t\n\t\t\t» Feed\n\t\t\t^i[537]\n\t\t\t\n\t\t\t» Accessory\n\t\t\t[None]\n\t\t\t\n\t\t\t» Evolution Info\n\t\t\t<TIPBOX>▷Pet Ash Icewind<INFO>10198</INFO></TIPBOX>\n\t\t\t<TIPBOX>▷Pet Icewind<INFO>10199</INFO></TIPBOX>\n\t\t\t\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10198] = {
+		Title = "Pet Ash Icewind",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9146]Pet Ash Icewind\n\t\t\t» Acquisition Method\n\t\t\t<TIPBOX>▷Pet Kkopo<INFO>10197</INFO></TIPBOX> Evolution\n\t\t\t▷Evolution Materials:\n\t\t\t^i[1001244]x200, ^i[1001249]x150,\n\t\t\t^i[1001246]x150, ^i[300457]x1\n\t\t\t\n\t\t\t» Feed\n\t\t\t^i[537]\n\t\t\t\n\t\t\t» Accessory\n\t\t\t[None]\n\t\t\t\n\t\t\t» Evolution Info\n\t\t\t[None]\n\t\t\t\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10199] = {
+		Title = "Pet Icewind",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9147]Pet Icewind\n\t\t\t» Acquisition Method\n\t\t\t<TIPBOX>▷Pet Kkopo<INFO>10197</INFO></TIPBOX> Evolution\n\t\t\t▷Evolution Materials:\n\t\t\t^i[1001245]x200, ^i[1001249]x150,\n\t\t\t^i[1001246]x150, ^i[300458]x1\n\t\t\t\n\t\t\t» Feed\n\t\t\t^i[537]\n\t\t\t\n\t\t\t» Accessory\n\t\t\t[None]\n\t\t\t\n\t\t\t» Evolution Info\n\t\t\t[None]\n\t\t\t\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[10200] = {
+		Title = "Pet Dark Lord",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip10090",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"^i[9148]Pet Dark Lord\n\t\t\t» Acquisition Method\n\t\t\t<TIPBOX>▷Pet Dark Illusion<INFO>10189</INFO></TIPBOX> Evolution\n\t\t\t▷Evolution Materials:\n\t\t\t^i[4169]x10, ^i[4141]x10,\n\t\t\t^i[4171]x10, ^i[25375]x30\n\t\t\t\n\t\t\t» Feed\n\t\t\t^i[25377]\n\t\t\t\n\t\t\t» Accessory\n\t\t\t[None]\n\t\t\t\n\t\t\t» Evolution Info\n\t\t\t[None]\n\t\t\t\n\t\t\t<TIPBOX>»View CuPet List<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View CuPet System<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+		}
 	}
 }
 function main()

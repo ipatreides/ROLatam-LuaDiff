@@ -41,18 +41,18 @@
     },
     "qFO5Ag": {
         "en": "^4D4DFF You can summon a service NPC for job change.\n^4D4DFF Booster promotion eligible players can change jobs through the job change agent.^000000",
-        "pt": "[Padre Necrus]\nPara fazer parte dos Noviços,\npor favor, aprenda as Habilidades Básicas primeiro.",
-        "es": "[Padre Mareusis]\nLamentablemente, no creo que tengas lo necesario para convertirte en Acólito todavía.\nTermina primero de aprender todas las habilidades básicas."
+        "pt": "^4D4DFFVocê pode invocar o Oficial de Mudança de Classe.\nPersonagens participantes do Evento de Apoio de Evolução podem mudar de classe através do Oficial.^000000",
+        "es": "^4D4DFFPuedes invocar al Oficial de Cambio de Clase.\nLos personajes que participen en el Evento de Apoyo de Evolución pueden cambiar de clase a través del Oficial.^000000"
     },
     "qVO5Ag": {
         "en": "Summon a job change agent for job change.",
-        "pt": "[Padre Necrus] Enquanto isso, esperarei por você aqui. Que Deus esteja contigo.",
-        "es": "[Padre Mareusis] Mientras tanto, esperaré hasta que termines. Que los dioses te acompañen."
+        "pt": "Invocar Oficial de Mudança de Classe",
+        "es": "Invocar Oficial de Cambio de Clase"
     },
     "qlO5Ag": {
         "en": "Decline.",
-        "pt": "[Padre Necrus] Você volta a trilhar a estrada do clero, toda a igreja de Prontera dá as boas-vindas a você.",
-        "es": "[Padre Mareusis] Bueno, te doy la bienvenida en tu regreso del Valhalla y te deseo suerte en el nuevo viaje de tu vida."
+        "pt": "Ignorar",
+        "es": "Ignorar"
     },
     "q1O5Ag": {
         "en": "[Father Mareusis]\nNow, venture forth and seek those who need your help.\nMay God light your path.",
@@ -127,7 +127,7 @@
     "uVO5Ag": {
         "en": "[Father Mareusis]\nOriginally, only those who have trained hard can use\nthe ^4D4DFFHoly Light^000000..",
         "pt": "[Padre Necrus]\nOriginalmente, somente aqueles que treinaram muito podem aprender\na ^4D4DFFLuz Divina^000000.",
-        "es": "[Padre Mareusis]\nOriginalmente, solo quienes han entrenado mucho pueden utilizar\nla ^4D4DFFLuz sagrada^000000…"
+        "es": "[Padre Mareusis]\nOriginalmente, solo quienes han entrenado mucho pueden utilizar\nla ^4D4DFFLuz Sagrada^000000…"
     },
     "ulO5Ag": {
         "en": "[Father Mareusis]\nIt may seem a bit early, but it'll be okay.\nI believe in you.",
@@ -400,14 +400,33 @@
         "es": "[Padre Yosuke]\n¿Tienes algo que decirme? Porque lamentablemente para ti,\nyo no tengo ninguna respuesta."
     },
     "8FO5Ag": {
-        "en": "[Father Mareusis]\nIt seems you have come this far due to a special connection."
+        "en": "[Father Mareusis]\nIt seems you have come this far due to a special connection.",
+        "pt": "[Padre Necrus]\nParece que você chegou até aqui graças a um vínculo especial.",
+        "es": "[Padre Mareusis]\nParece que has llegado hasta aquí gracias a una conexión especial."
     },
     "8VO5Ag": {
-        "en": "^4D4DFF Booster promotion eligible players can change jobs through the job change agent.\nThird job change can also be done at each job guild.^000000"
+        "en": "^4D4DFF Booster promotion eligible players can change jobs through the job change agent.\nThird job change can also be done at each job guild.^000000",
+        "pt": "^4D4DFF Jogadores elegíveis para a promoção Booster podem mudar de classe através do Agente de Mudança de Classe. A terceira mudança de classe também pode ser realizada na guilda de cada profissão.^000000",
+        "es": "^4D4DFF Los jugadores aptos para la promoción Booster pueden cambiar de clase a través del Agente de Cambio de Clase. El tercer cambio de clase también se puede realizar en cada gremio de clase.^000000"
     },
     "8lO5Ag": {
         "en": "[Father Mareusis]\nAh, I sense you have endured a past life experience.\nYou must have learned many things before entering Valhalla.",
         "pt": "[Padre Necrus]\nDepois de muito tempo, você volta a este lugar.\nVocê tem ouvido, visto e experimentado muitas coisas.",
         "es": "[Padre Mareusis]\nAh, siento que sufriste una experiencia de tu vida pasada. \nDebes haber aprendido muchas cosas antes de entrar en el Valhalla."
+    },
+    "81O5Ag": {
+        "en": "[Father Mareusis]\nUnfortunately, I don't think you're ready to become an Acolyte yet.\nPlease finish learning all of the Basic Skills first.",
+        "pt": "[Padre Necrus]\nInfelizmente, acho que você ainda não está pronto para se tornar um Noviço. Por favor, termine de aprender todas as Habilidades Básicas primeiro.",
+        "es": "[Padre Mareusis]\nLamentablemente, no creo que estés listo para convertirte en Acólito todavía. Por favor, termina de aprender todas las Habilidades Básicas primero."
+    },
+    "9FO5Ag": {
+        "en": "[Father Mareusis]\nIn the meantime, I will wait until you are ready.\nMay God be with you.",
+        "pt": "[Padre Necrus]\nEnquanto isso, esperarei até que você esteja pronto. Que Deus esteja com você.",
+        "es": "[Padre Mareusis]\nMientras tanto, esperarei hasta que estés listo. Que Dios esté contigo."
+    },
+    "9VO5Ag": {
+        "en": "[Father Mareusis]\nWell, I welcome you back from Valhalla,\nand wish you luck on your new life's journey.",
+        "pt": "[Padre Necrus]\nBem, dou-lhe as boas-vindas de volta de Valhalla e desejo-lhe sorte na jornada de sua nova vida.",
+        "es": "[Padre Mareusis]\nBien, te doy la bienvenida de vuelta desde Valhalla y te deseo suerte en el viaje de tu nueva vida."
     }
 }

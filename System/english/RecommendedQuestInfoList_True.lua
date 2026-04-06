@@ -22,59 +22,25 @@ RecommendedQuestInfoList = {
 		}
 	},
 	[2] = {
-		Title = "New Job: Star Emperor",
-		IconName = "ico_jq.bmp",
-		Summary = "The sun and the moon... and the stars",
-		BgName = "reco_02.bmp",
-		QuestInfo1 = {
-			"The one who mastered the universe!",
-			"The job change to Star Emperor is here.",
-			"Find <NAVI>[Man in Star Emperor Uniform]<INFO>payon.gat,171,171,0,101,0</INFO></NAVI> and ask about the way to Meteor Forest. Hear his words, understand the force within the Sun and Moon, and feel the force of the Universe."
-		},
-		QuestInfo2 = {
-			"Conditions:",
-			"Taekwon Master",
-			"Lv.99/50"
-		},
-		QuestInfo3 = {
-			"^ff0000* This page is an announcement for new content.^000000"
-		}
-	},
-	[3] = {
-		Title = "New Job: Soul Reaper",
-		IconName = "ico_jq.bmp",
-		Summary = "Soul Eater",
+		Title = "Episode 17.2: The Sage's Legacy",
+		IconName = "ico_ep.bmp",
+		Summary = "Don't fall behind the vanguard team...",
+		NpcSpr = "4_M_ROOKIE",
+		NpcNavi = "sp_cor",
+		NpcPosX = 255,
+		NpcPosY = 285,
 		BgName = "reco_03.bmp",
 		QuestInfo1 = {
-			"The new Soul Reaper job arrived.",
-			"Find the troubled <NAVI>[Banyak]<INFO>pay_fild08.gat,51,82,0,101,0</INFO></NAVI> and help him to solve all his problems to follow the Soul Reaper path.",
-			"Obtaining souls is not something as simple as it seems."
+			"The passage to Varmunt Mansion is finally open!",
+			"Join the Rebellion, the Secret Wing, and Rekenber company to investigate Illusion."
 		},
 		QuestInfo2 = {
-			"Conditions:",
-			"Soul Linker",
-			"Lv.99/50"
+			"Pre-Requisites:",
+			"^990000Episode 17.1^000000 completed",
+			"Level ^990000130 or more^000000"
 		},
 		QuestInfo3 = {
-			"^ff0000* This page is an announcement for new content.^000000"
-		}
-	},
-	[4] = {
-		Title = "Illusion of Underwater",
-		IconName = "ico_sc.bmp",
-		Summary = "Uncover the deep sea cave's secret!",
-		BgName = "reco_94.bmp",
-		QuestInfo1 = {
-			"An incident occurred where Sirud, who was fishing in Izlude, went missing.",
-			"Three months after that, the item he had was found.",
-			"Please go to <NAVI>[Izlude]<INFO>izlude,132,49,0,101,0</INFO></NAVI> and help search for the missing person!"
-		},
-		QuestInfo2 = {
-			"Underwater Tunnel and",
-			"Underwater Temple"
-		},
-		QuestInfo3 = {
-			"^ff0000* This page is an announcement for new content.^000000"
+			"^ff0000* This is a notice for new content.^000000"
 		}
 	}
 }

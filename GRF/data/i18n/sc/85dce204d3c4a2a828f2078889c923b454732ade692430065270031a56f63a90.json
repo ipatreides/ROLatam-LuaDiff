@@ -1615,27 +1615,27 @@
     },
     "rRThCw": {
         "ko": "레이싱 캡(권성) 1개 - 400T",
-        "en": "Racing Cap (Taekwon) 1 - 400T",
-        "pt": "Gorra de Carrera (Taekwon) 1 - 400T",
-        "es": "Gorra de Carrera (Taekwon) 1 - 400T"
+        "en": "1x Racing Cap (Star Emperor) - 400T",
+        "pt": "1x Boné Maratonista Estelar - 400 Bilhetes",
+        "es": "1x Gorra de Carreras (Emperador Estelar) - 400 Tickets"
     },
     "rhThCw": {
         "ko": "레이싱 캡(소울링커) 1개 - 400T",
-        "en": "Racing Cap (Soul Linker) 1 - 400T",
-        "pt": "Gorra de Carrera (Soul Linker) 1 - 400T",
-        "es": "Gorra de Carrera (Soul Linker) 1 - 400T"
+        "en": "1x Racing Cap (Soul Reaper) - 400T",
+        "pt": "1x Boné Maratonista Xamânico - 400 Bilhetes",
+        "es": "1x Gorra de Carreras (Segador de Almas) - 400 Tickets"
     },
     "rxThCw": {
         "ko": "<ITEM>레이싱 캡(권성)<INFO>19396</INFO></ITEM>",
-        "en": "<ITEM>Racing Cap (Taekwon)<INFO>19396</INFO></ITEM>",
-        "pt": "<ITEM>Gorra de Carrera (Taekwon)<INFO>19396</INFO></ITEM>",
-        "es": "<ITEM>Gorra de Carrera (Taekwon)<INFO>19396</INFO></ITEM>"
+        "en": "<ITEM>Racing Cap (Star Emperor)<INFO>19396</INFO></ITEM>",
+        "pt": "<ITEM>Boné Maratonista Estelar<INFO>19396</INFO></ITEM>",
+        "es": "<ITEM>Gorra de Carreras (Emperador Estelar)<INFO>19396</INFO></ITEM>"
     },
     "sBThCw": {
         "ko": "<ITEM>레이싱 캡(소울링커)<INFO>19397</INFO></ITEM>",
-        "en": "<ITEM>Racing Cap (Soul Linker)<INFO>19397</INFO></ITEM>",
-        "pt": "<ITEM>Gorra de Carrera (Soul Linker)<INFO>19397</INFO></ITEM>",
-        "es": "<ITEM>Gorra de Carrera (Soul Linker)<INFO>19397</INFO></ITEM>"
+        "en": "<ITEM>Racing Cap (Soul Reaper)<INFO>19397</INFO></ITEM>",
+        "pt": "<ITEM>Boné Maratonista Xamânico<INFO>19397</INFO></ITEM>",
+        "es": "<ITEM>Gorra de Carreras (Segador de Almas)<INFO>19397</INFO></ITEM>"
     },
     "sRThCw": {
         "ko": "랜덤옵션 체크 기능 추가.",
