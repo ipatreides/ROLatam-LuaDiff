@@ -4,10 +4,10 @@ achievement_tbl = {
 		group = "EAT",
 		major = 4,
 		minor = 0,
-		title = "Ladr√≥n de refrigeradores",
+		title = "LadrÛn de refrigeradores",
 		content = {
 			details = "Entrega un Vino de frutas de Mastela a Pie Grande en el Castillo de Prontera.",
-			summary = "¬øQui√©n nunca ha comido algo a medianoche?"
+			summary = "øQuiÈn nunca ha comido algo a medianoche?"
 		},
 		resource = {
 			{
@@ -24,15 +24,15 @@ achievement_tbl = {
 		minor = 0,
 		title = "Testigo",
 		content = {
-			details = "El pr√≠ncipe Jurger Wigner parece ser muy popular.",
-			summary = "Habla con los seguidores del pr√≠ncipe."
+			details = "El prÌncipe Jurger Wigner parece ser muy popular.",
+			summary = "Habla con los seguidores del prÌncipe."
 		},
 		resource = {
 			{text = "Gyusoo"},
 			{
 				text = "Horda de Mujeres"
 			},
-			{text = "Se√±orita"},
+			{text = "SeÒorita"},
 			{
 				text = "Chica Soltera"
 			},
@@ -54,7 +54,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Exploraci√≥n del campo del norte de Prontera¬†(1)",
+		title = "ExploraciÛn del campo del norte de Prontera†(1)",
 		content = {
 			details = "Descubre un tesoro en los campos del norte de Prontera.",
 			summary = "Descubre un tesoro escondido."
@@ -72,7 +72,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Exploraci√≥n del campo del norte de Prontera¬†(2)",
+		title = "ExploraciÛn del campo del norte de Prontera†(2)",
 		content = {
 			details = "Descubre un tesoro en los campos del norte de Prontera.",
 			summary = "Descubre un tesoro escondido."
@@ -90,7 +90,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Exploraci√≥n del campo del norte de Prontera¬†(3)",
+		title = "ExploraciÛn del campo del norte de Prontera†(3)",
 		content = {
 			details = "Descubre un tesoro en los campos del norte de Prontera.",
 			summary = "Descubre un tesoro escondido."
@@ -108,7 +108,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Exploraci√≥n del campo del oeste de Prontera¬†(1)",
+		title = "ExploraciÛn del campo del oeste de Prontera†(1)",
 		content = {
 			details = "Descubre un tesoro en los campos del oeste de Prontera.",
 			summary = "Descubre un tesoro escondido."
@@ -126,7 +126,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Exploraci√≥n del campo del oeste de Prontera¬†(2)",
+		title = "ExploraciÛn del campo del oeste de Prontera†(2)",
 		content = {
 			details = "Descubre un tesoro en los campos del oeste de Prontera.",
 			summary = "Descubre un tesoro escondido."
@@ -144,7 +144,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Exploraci√≥n del campo del este de Prontera",
+		title = "ExploraciÛn del campo del este de Prontera",
 		content = {
 			details = "Descubre un tesoro en los campos del este de Prontera.",
 			summary = "Descubre un tesoro escondido."
@@ -162,7 +162,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Exploraci√≥n del campo del sur de Prontera¬†(1)",
+		title = "ExploraciÛn del campo del sur de Prontera†(1)",
 		content = {
 			details = "Descubre un tesoro en los campos del sur de Prontera.",
 			summary = "Descubre un tesoro escondido."
@@ -180,7 +180,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Exploraci√≥n del campo del sur de Prontera¬†(2)",
+		title = "ExploraciÛn del campo del sur de Prontera†(2)",
 		content = {
 			details = "Descubre un tesoro en los campos del sur de Prontera.",
 			summary = "Descubre un tesoro escondido."
@@ -198,7 +198,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Exploraci√≥n del campo del sur de Prontera¬†(3)",
+		title = "ExploraciÛn del campo del sur de Prontera†(3)",
 		content = {
 			details = "Descubre un tesoro en los campos del sur de Prontera.",
 			summary = "Descubre un tesoro escondido."
@@ -216,7 +216,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Exploraci√≥n del campo del sur de Prontera¬†(4)",
+		title = "ExploraciÛn del campo del sur de Prontera†(4)",
 		content = {
 			details = "Descubre un tesoro en los campos del sur de Prontera.",
 			summary = "Descubre un tesoro escondido."
@@ -234,7 +234,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Exploraci√≥n del campo del este de Geffen",
+		title = "ExploraciÛn del campo del este de Geffen",
 		content = {
 			details = "Descubre un tesoro en los campos del este de Geffen.",
 			summary = "Descubre un tesoro escondido."
@@ -252,7 +252,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Exploraci√≥n del campo del sudeste de Geffen",
+		title = "ExploraciÛn del campo del sudeste de Geffen",
 		content = {
 			details = "Descubre un tesoro en los campos del sudeste de Geffen.",
 			summary = "Descubre un tesoro escondido."
@@ -270,7 +270,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Exploraci√≥n del campo del noroeste de Geffen¬†(1)",
+		title = "ExploraciÛn del campo del noroeste de Geffen†(1)",
 		content = {
 			details = "Descubre un tesoro en los campos del noroeste de Geffen.",
 			summary = "Descubre un tesoro escondido."
@@ -288,7 +288,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Exploraci√≥n del campo del noroeste de Geffen¬†(2)",
+		title = "ExploraciÛn del campo del noroeste de Geffen†(2)",
 		content = {
 			details = "Descubre un tesoro en los campos del noroeste de Geffen.",
 			summary = "Descubre un tesoro escondido."
@@ -306,7 +306,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Exploraci√≥n del campo del noroeste de Geffen¬†(3)",
+		title = "ExploraciÛn del campo del noroeste de Geffen†(3)",
 		content = {
 			details = "Descubre un tesoro en los campos del noroeste de Geffen.",
 			summary = "Descubre un tesoro escondido."
@@ -324,7 +324,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Exploraci√≥n del campo del sur de Geffen¬†(1)",
+		title = "ExploraciÛn del campo del sur de Geffen†(1)",
 		content = {
 			details = "Descubre un tesoro en los campos del sur de Geffen.",
 			summary = "Descubre un tesoro escondido."
@@ -342,7 +342,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Exploraci√≥n del campo del sur de Geffen¬†(2)",
+		title = "ExploraciÛn del campo del sur de Geffen†(2)",
 		content = {
 			details = "Descubre un tesoro en los campos del sur de Geffen.",
 			summary = "Descubre un tesoro escondido."
@@ -360,7 +360,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Exploraci√≥n del campo del desierto Sograt¬†(1)",
+		title = "ExploraciÛn del campo del desierto Sograt†(1)",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor del desierto Sograt.",
 			summary = "Descubre un tesoro escondido."
@@ -378,7 +378,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Exploraci√≥n del campo del desierto Sograt¬†(2)",
+		title = "ExploraciÛn del campo del desierto Sograt†(2)",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor del desierto Sograt.",
 			summary = "Descubre un tesoro escondido."
@@ -396,7 +396,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Exploraci√≥n del campo del desierto Sograt¬†(3)",
+		title = "ExploraciÛn del campo del desierto Sograt†(3)",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor del desierto Sograt.",
 			summary = "Descubre un tesoro escondido."
@@ -414,7 +414,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Exploraci√≥n del campo del desierto Sograt¬†(4)",
+		title = "ExploraciÛn del campo del desierto Sograt†(4)",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor del desierto Sograt.",
 			summary = "Descubre un tesoro escondido."
@@ -432,7 +432,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Exploraci√≥n del campo del desierto Sograt¬†(5)",
+		title = "ExploraciÛn del campo del desierto Sograt†(5)",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor del desierto Sograt.",
 			summary = "Descubre un tesoro escondido."
@@ -450,7 +450,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Exploraci√≥n del campo del desierto Sograt¬†(6)",
+		title = "ExploraciÛn del campo del desierto Sograt†(6)",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor del desierto Sograt.",
 			summary = "Descubre un tesoro escondido."
@@ -468,7 +468,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Exploraci√≥n del campo del sudoeste de Payon¬†(1)",
+		title = "ExploraciÛn del campo del sudoeste de Payon†(1)",
 		content = {
 			details = "Descubre un tesoro en los campos del suroeste de Payon.",
 			summary = "Descubre un tesoro escondido."
@@ -486,7 +486,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Exploraci√≥n del campo del sudoeste de Payon¬†(2)",
+		title = "ExploraciÛn del campo del sudoeste de Payon†(2)",
 		content = {
 			details = "Descubre un tesoro en los campos del suroeste de Payon.",
 			summary = "Descubre un tesoro escondido."
@@ -504,7 +504,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Exploraci√≥n del campo del sudoeste de Payon¬†(3)",
+		title = "ExploraciÛn del campo del sudoeste de Payon†(3)",
 		content = {
 			details = "Descubre un tesoro en los campos del suroeste de Payon.",
 			summary = "Descubre un tesoro escondido."
@@ -522,7 +522,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Exploraci√≥n del campo del sudoeste de Payon¬†(4)",
+		title = "ExploraciÛn del campo del sudoeste de Payon†(4)",
 		content = {
 			details = "Descubre un tesoro en los campos del suroeste de Payon.",
 			summary = "Descubre un tesoro escondido."
@@ -540,7 +540,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Exploraci√≥n del campo del este de Payon¬†(1)",
+		title = "ExploraciÛn del campo del este de Payon†(1)",
 		content = {
 			details = "Descubre un tesoro en los campos del este de Payon.",
 			summary = "Descubre un tesoro escondido."
@@ -558,7 +558,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Exploraci√≥n del campo del este de Payon¬†(2)",
+		title = "ExploraciÛn del campo del este de Payon†(2)",
 		content = {
 			details = "Descubre un tesoro en los campos del este de Payon.",
 			summary = "Descubre un tesoro escondido."
@@ -576,7 +576,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Exploraci√≥n del campo del este de Payon¬†(3)",
+		title = "ExploraciÛn del campo del este de Payon†(3)",
 		content = {
 			details = "Descubre un tesoro en los campos del este de Payon.",
 			summary = "Descubre un tesoro escondido."
@@ -594,7 +594,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Exploraci√≥n del campo del este de Payon¬†(4)",
+		title = "ExploraciÛn del campo del este de Payon†(4)",
 		content = {
 			details = "Descubre un tesoro en los campos del este de Payon.",
 			summary = "Descubre un tesoro escondido."
@@ -612,7 +612,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Exploraci√≥n del campo del norte de Mjolnir¬†(1)",
+		title = "ExploraciÛn del campo del norte de Mjolnir†(1)",
 		content = {
 			details = "Descubre un tesoro en los campos del norte de Mjolnir.",
 			summary = "Descubre un tesoro escondido."
@@ -630,7 +630,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Exploraci√≥n del campo del norte de Mjolnir¬†(2)",
+		title = "ExploraciÛn del campo del norte de Mjolnir†(2)",
 		content = {
 			details = "Descubre un tesoro en los campos del norte de Mjolnir.",
 			summary = "Descubre un tesoro escondido."
@@ -648,7 +648,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Exploraci√≥n del campo del norte de Mjolnir¬†(3)",
+		title = "ExploraciÛn del campo del norte de Mjolnir†(3)",
 		content = {
 			details = "Descubre un tesoro en los campos del norte de Mjolnir.",
 			summary = "Descubre un tesoro escondido."
@@ -666,7 +666,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Exploraci√≥n del campo del norte de Mjolnir¬†(4)",
+		title = "ExploraciÛn del campo del norte de Mjolnir†(4)",
 		content = {
 			details = "Descubre un tesoro en los campos del norte de Mjolnir.",
 			summary = "Descubre un tesoro escondido."
@@ -684,7 +684,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Exploraci√≥n del campo del norte de Mjolnir¬†(5)",
+		title = "ExploraciÛn del campo del norte de Mjolnir†(5)",
 		content = {
 			details = "Descubre un tesoro en los campos del norte de Mjolnir.",
 			summary = "Descubre un tesoro escondido."
@@ -702,7 +702,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Exploraci√≥n del campo del sur de Mjolnir¬†(1)",
+		title = "ExploraciÛn del campo del sur de Mjolnir†(1)",
 		content = {
 			details = "Descubre un tesoro en los campos del sur de Mjolnir.",
 			summary = "Descubre un tesoro escondido."
@@ -720,7 +720,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Exploraci√≥n del campo del sur de Mjolnir¬†(2)",
+		title = "ExploraciÛn del campo del sur de Mjolnir†(2)",
 		content = {
 			details = "Descubre un tesoro en los campos del sur de Mjolnir.",
 			summary = "Descubre un tesoro escondido."
@@ -738,7 +738,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Exploraci√≥n del campo del sur de Mjolnir¬†(3)",
+		title = "ExploraciÛn del campo del sur de Mjolnir†(3)",
 		content = {
 			details = "Descubre un tesoro en los campos del sur de Mjolnir.",
 			summary = "Descubre un tesoro escondido."
@@ -756,7 +756,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Exploraci√≥n del campo del sur de Mjolnir¬†(4)",
+		title = "ExploraciÛn del campo del sur de Mjolnir†(4)",
 		content = {
 			details = "Descubre un tesoro en los campos del sur de Mjolnir.",
 			summary = "Descubre un tesoro escondido."
@@ -774,7 +774,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Exploraci√≥n del campo del sur de Mjolnir¬†(5)",
+		title = "ExploraciÛn del campo del sur de Mjolnir†(5)",
 		content = {
 			details = "Descubre un tesoro en los campos del sur de Mjolnir.",
 			summary = "Descubre un tesoro escondido."
@@ -792,7 +792,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Exploraci√≥n del campo del sur de Mjolnir¬†(6)",
+		title = "ExploraciÛn del campo del sur de Mjolnir†(6)",
 		content = {
 			details = "Descubre un tesoro en los campos del sur de Mjolnir.",
 			summary = "Descubre un tesoro escondido."
@@ -810,7 +810,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Exploraci√≥n del campo del sureste de Aldebaran",
+		title = "ExploraciÛn del campo del sureste de Aldebaran",
 		content = {
 			details = "Descubre un tesoro en los campos del sur de Aldebaran.",
 			summary = "Descubre un tesoro escondido."
@@ -828,7 +828,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Exploraci√≥n del campo de Comodo¬†(1)",
+		title = "ExploraciÛn del campo de Comodo†(1)",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor de Comodo.",
 			summary = "Descubre un tesoro escondido."
@@ -846,7 +846,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Exploraci√≥n del campo de Comodo¬†(2)",
+		title = "ExploraciÛn del campo de Comodo†(2)",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor de Comodo.",
 			summary = "Descubre un tesoro escondido."
@@ -864,7 +864,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Exploraci√≥n del campo de Comodo¬†(3)",
+		title = "ExploraciÛn del campo de Comodo†(3)",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor de Comodo.",
 			summary = "Descubre un tesoro escondido."
@@ -882,7 +882,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Exploraci√≥n del campo de Comodo¬†(4)",
+		title = "ExploraciÛn del campo de Comodo†(4)",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor de Comodo.",
 			summary = "Descubre un tesoro escondido."
@@ -900,7 +900,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Exploraci√≥n del campo de Comodo¬†(5)",
+		title = "ExploraciÛn del campo de Comodo†(5)",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor de Comodo.",
 			summary = "Descubre un tesoro escondido."
@@ -918,7 +918,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Exploraci√≥n del campo de Comodo¬†(6)",
+		title = "ExploraciÛn del campo de Comodo†(6)",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor de Comodo.",
 			summary = "Descubre un tesoro escondido."
@@ -936,7 +936,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Exploraci√≥n del campo de Comodo¬†(7)",
+		title = "ExploraciÛn del campo de Comodo†(7)",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor de Comodo.",
 			summary = "Descubre un tesoro escondido."
@@ -954,7 +954,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Exploraci√≥n del campo de Comodo¬†(8)",
+		title = "ExploraciÛn del campo de Comodo†(8)",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor de Comodo.",
 			summary = "Descubre un tesoro escondido."
@@ -972,7 +972,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
-		title = "Exploraci√≥n del campo del cuartel fronterizo¬†(1)",
+		title = "ExploraciÛn del campo del cuartel fronterizo†(1)",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor del cuartel fronterizo.",
 			summary = "Descubre un tesoro escondido."
@@ -990,7 +990,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
-		title = "Exploraci√≥n del campo del cuartel fronterizo¬†(2)",
+		title = "ExploraciÛn del campo del cuartel fronterizo†(2)",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor del cuartel fronterizo.",
 			summary = "Descubre un tesoro escondido."
@@ -1008,14 +1008,14 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
-		title = "Exploraci√≥n del campo de la caba√±a de Kiel Hyre",
+		title = "ExploraciÛn del campo de la cabaÒa de Kiel Hyre",
 		content = {
-			details = "Descubre un tesoro en los campos alrededor de la caba√±a de Kiel Hyre.",
+			details = "Descubre un tesoro en los campos alrededor de la cabaÒa de Kiel Hyre.",
 			summary = "Descubre un tesoro escondido."
 		},
 		resource = {
 			{
-				text = "Descubre un tesoro en los campos alrededor de la caba√±a de Kiel Hyre."
+				text = "Descubre un tesoro en los campos alrededor de la cabaÒa de Kiel Hyre."
 			}
 		},
 		reward = {item = 22876},
@@ -1026,7 +1026,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
-		title = "Exploraci√≥n del campo de la meseta de Elmes¬†(1)",
+		title = "ExploraciÛn del campo de la meseta de Elmes†(1)",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor de la meseta de El Mes.",
 			summary = "Descubre un tesoro escondido."
@@ -1044,7 +1044,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
-		title = "Exploraci√≥n del campo de la meseta de Elmes¬†(2)",
+		title = "ExploraciÛn del campo de la meseta de Elmes†(2)",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor de la meseta de El Mes.",
 			summary = "Descubre un tesoro escondido."
@@ -1062,7 +1062,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
-		title = "Exploraci√≥n del campo de la meseta de Elmes¬†(3)",
+		title = "ExploraciÛn del campo de la meseta de Elmes†(3)",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor de la meseta de El Mes.",
 			summary = "Descubre un tesoro escondido."
@@ -1080,14 +1080,14 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
-		title = "Exploraci√≥n del campo del Ca√±√≥n Elmes",
+		title = "ExploraciÛn del campo del CaÒÛn Elmes",
 		content = {
-			details = "Descubre un tesoro en los campos alrededor del Ca√±√≥n El Mes.",
+			details = "Descubre un tesoro en los campos alrededor del CaÒÛn El Mes.",
 			summary = "Descubre un tesoro escondido."
 		},
 		resource = {
 			{
-				text = "Descubre un tesoro en los campos alrededor del Ca√±√≥n El Mes."
+				text = "Descubre un tesoro en los campos alrededor del CaÒÛn El Mes."
 			}
 		},
 		reward = {item = 22876},
@@ -1098,7 +1098,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
-		title = "Exploraci√≥n del campo de la Academia Kiel Hyre",
+		title = "ExploraciÛn del campo de la Academia Kiel Hyre",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor de la Academia Kiel Hyre.",
 			summary = "Descubre un tesoro escondido."
@@ -1116,7 +1116,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
-		title = "Exploraci√≥n del campo del campamento de los guardias",
+		title = "ExploraciÛn del campo del campamento de los guardias",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor del campamento de los guardias.",
 			summary = "Descubre un tesoro escondido."
@@ -1134,7 +1134,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
-		title = "Exploraci√≥n del campo de Juno",
+		title = "ExploraciÛn del campo de Juno",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor de Juno.",
 			summary = "Descubre un tesoro escondido."
@@ -1152,7 +1152,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
-		title = "Exploraci√≥n del campo de la entrada a la Torre de Thanatos",
+		title = "ExploraciÛn del campo de la entrada a la Torre de Thanatos",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor de la entrada a la Torre de Thanatos.",
 			summary = "Descubre un tesoro escondido."
@@ -1170,7 +1170,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
-		title = "Exploraci√≥n del campo de Hugel¬†(1)",
+		title = "ExploraciÛn del campo de Hugel†(1)",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor de Hugel.",
 			summary = "Descubre un tesoro escondido."
@@ -1188,7 +1188,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
-		title = "Exploraci√≥n del campo de Hugel¬†(2)",
+		title = "ExploraciÛn del campo de Hugel†(2)",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor de Hugel.",
 			summary = "Descubre un tesoro escondido."
@@ -1206,7 +1206,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
-		title = "Exploraci√≥n del campo de Hugel¬†(3)",
+		title = "ExploraciÛn del campo de Hugel†(3)",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor de Hugel.",
 			summary = "Descubre un tesoro escondido."
@@ -1224,7 +1224,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
-		title = "Exploraci√≥n del campo del Lago del abismo¬†(1)",
+		title = "ExploraciÛn del campo del Lago del abismo†(1)",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor del Lago del abismo.",
 			summary = "Descubre un tesoro escondido."
@@ -1242,7 +1242,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
-		title = "Exploraci√≥n del campo de Einbroch¬†(1)",
+		title = "ExploraciÛn del campo de Einbroch†(1)",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor de Einbroch.",
 			summary = "Descubre un tesoro escondido."
@@ -1260,7 +1260,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
-		title = "Exploraci√≥n del campo de Einbroch¬†(2)",
+		title = "ExploraciÛn del campo de Einbroch†(2)",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor de Einbroch.",
 			summary = "Descubre un tesoro escondido."
@@ -1278,7 +1278,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
-		title = "Exploraci√≥n del campo de Einbroch¬†(3)",
+		title = "ExploraciÛn del campo de Einbroch†(3)",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor de Einbroch.",
 			summary = "Descubre un tesoro escondido."
@@ -1296,7 +1296,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
-		title = "Exploraci√≥n del campo de Einbroch¬†(4)",
+		title = "ExploraciÛn del campo de Einbroch†(4)",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor de Einbroch.",
 			summary = "Descubre un tesoro escondido."
@@ -1314,7 +1314,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
-		title = "Exploraci√≥n del campo de Einbroch¬†(5)",
+		title = "ExploraciÛn del campo de Einbroch†(5)",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor de Einbroch.",
 			summary = "Descubre un tesoro escondido."
@@ -1332,7 +1332,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
-		title = "Exploraci√≥n del campo de Einbroch¬†(6)",
+		title = "ExploraciÛn del campo de Einbroch†(6)",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor de Einbroch.",
 			summary = "Descubre un tesoro escondido."
@@ -1350,7 +1350,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
-		title = "Exploraci√≥n del campo de Einbroch¬†(7)",
+		title = "ExploraciÛn del campo de Einbroch†(7)",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor de Einbroch.",
 			summary = "Descubre un tesoro escondido."
@@ -1368,7 +1368,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
-		title = "Exploraci√≥n del campo de Einbroch¬†(8)",
+		title = "ExploraciÛn del campo de Einbroch†(8)",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor de Einbroch.",
 			summary = "Descubre un tesoro escondido."
@@ -1386,7 +1386,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
-		title = "Exploraci√≥n del campo de Lighthalzen¬†(1)",
+		title = "ExploraciÛn del campo de Lighthalzen†(1)",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor de Lighthalzen.",
 			summary = "Descubre un tesoro escondido."
@@ -1404,7 +1404,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
-		title = "Exploraci√≥n del campo de Lighthalzen¬†(2)",
+		title = "ExploraciÛn del campo de Lighthalzen†(2)",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor de Lighthalzen.",
 			summary = "Descubre un tesoro escondido."
@@ -1422,7 +1422,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
-		title = "Exploraci√≥n del campo de Lighthalzen¬†(3)",
+		title = "ExploraciÛn del campo de Lighthalzen†(3)",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor de Lighthalzen.",
 			summary = "Descubre un tesoro escondido."
@@ -1440,7 +1440,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 2,
-		title = "Exploraci√≥n del campo de la llanura de Audhumbla¬†(1)",
+		title = "ExploraciÛn del campo de la llanura de Audhumbla†(1)",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor de la llanura de Audhumbla.",
 			summary = "Descubre un tesoro escondido."
@@ -1458,7 +1458,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 2,
-		title = "Exploraci√≥n del campo de la llanura de Ida¬†(1)",
+		title = "ExploraciÛn del campo de la llanura de Ida†(1)",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor de la llanura de Ida.",
 			summary = "Descubre un tesoro escondido."
@@ -1476,7 +1476,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 2,
-		title = "Exploraci√≥n del campo de la llanura de Ida¬†(2)",
+		title = "ExploraciÛn del campo de la llanura de Ida†(2)",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor de la llanura de Ida.",
 			summary = "Descubre un tesoro escondido."
@@ -1494,7 +1494,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 2,
-		title = "Exploraci√≥n del campo de la llanura de Ida¬†(3)",
+		title = "ExploraciÛn del campo de la llanura de Ida†(3)",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor de la llanura de Ida.",
 			summary = "Descubre un tesoro escondido."
@@ -1512,7 +1512,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 2,
-		title = "Exploraci√≥n del campo de la pradera de Audhumbla¬†(1)",
+		title = "ExploraciÛn del campo de la pradera de Audhumbla†(1)",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor de la pradera de Audhumbla.",
 			summary = "Descubre un tesoro escondido."
@@ -1530,7 +1530,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 2,
-		title = "Exploraci√≥n del campo de la pradera de Audhumbla¬†(2)",
+		title = "ExploraciÛn del campo de la pradera de Audhumbla†(2)",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor de la pradera de Audhumbla.",
 			summary = "Descubre un tesoro escondido."
@@ -1548,7 +1548,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 2,
-		title = "Exploraci√≥n del campo de Portus Luna",
+		title = "ExploraciÛn del campo de Portus Luna",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor de Portus Luna.",
 			summary = "Descubre un tesoro escondido."
@@ -1566,7 +1566,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 2,
-		title = "Exploraci√≥n del campo de Veins¬†(1)",
+		title = "ExploraciÛn del campo de Veins†(1)",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor de Veins.",
 			summary = "Descubre un tesoro escondido."
@@ -1584,7 +1584,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 2,
-		title = "Exploraci√≥n del campo de Veins¬†(2)",
+		title = "ExploraciÛn del campo de Veins†(2)",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor de Veins.",
 			summary = "Descubre un tesoro escondido."
@@ -1602,7 +1602,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 2,
-		title = "Exploraci√≥n del campo de Veins¬†(3)",
+		title = "ExploraciÛn del campo de Veins†(3)",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor de Veins.",
 			summary = "Descubre un tesoro escondido."
@@ -1620,7 +1620,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 2,
-		title = "Exploraci√≥n del campo de Veins¬†(4)",
+		title = "ExploraciÛn del campo de Veins†(4)",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor de Veins.",
 			summary = "Descubre un tesoro escondido."
@@ -1638,7 +1638,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 2,
-		title = "Exploraci√≥n del campo de Veins¬†(5)",
+		title = "ExploraciÛn del campo de Veins†(5)",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor de Veins.",
 			summary = "Descubre un tesoro escondido."
@@ -1656,7 +1656,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 3,
-		title = "Exploraci√≥n del campo de Eclage",
+		title = "ExploraciÛn del campo de Eclage",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor de Eclage.",
 			summary = "Descubre un tesoro escondido."
@@ -1674,7 +1674,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 3,
-		title = "Exploraci√≥n del campo del norte de Bifrost¬†(1)",
+		title = "ExploraciÛn del campo del norte de Bifrost†(1)",
 		content = {
 			details = "Descubre un tesoro en los campos del norte de Bifrost.",
 			summary = "Descubre un tesoro escondido."
@@ -1692,7 +1692,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 3,
-		title = "Exploraci√≥n del campo del sur de Bifrost¬†(1)",
+		title = "ExploraciÛn del campo del sur de Bifrost†(1)",
 		content = {
 			details = "Descubre un tesoro en los campos del sur de Bifrost.",
 			summary = "Descubre un tesoro escondido."
@@ -1710,7 +1710,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 3,
-		title = "Exploraci√≥n del campo de Splendide¬†(1)",
+		title = "ExploraciÛn del campo de Splendide†(1)",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor de Splendide.",
 			summary = "Descubre un tesoro escondido."
@@ -1728,7 +1728,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 3,
-		title = "Exploraci√≥n del campo de Splendide¬†(2)",
+		title = "ExploraciÛn del campo de Splendide†(2)",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor de Splendide.",
 			summary = "Descubre un tesoro escondido."
@@ -1746,7 +1746,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 3,
-		title = "Exploraci√≥n del campo de Splendide¬†(3)",
+		title = "ExploraciÛn del campo de Splendide†(3)",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor de Splendide.",
 			summary = "Descubre un tesoro escondido."
@@ -1764,7 +1764,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 3,
-		title = "Exploraci√≥n del campo de Manuk¬†(1)",
+		title = "ExploraciÛn del campo de Manuk†(1)",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor de Manuk.",
 			summary = "Descubre un tesoro escondido."
@@ -1782,7 +1782,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 3,
-		title = "Exploraci√≥n del campo de Manuk¬†(2)",
+		title = "ExploraciÛn del campo de Manuk†(2)",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor de Manuk.",
 			summary = "Descubre un tesoro escondido."
@@ -1800,7 +1800,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 3,
-		title = "Exploraci√≥n del campo de Manuk¬†(3)",
+		title = "ExploraciÛn del campo de Manuk†(3)",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor de Manuk.",
 			summary = "Descubre un tesoro escondido."
@@ -1818,14 +1818,14 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 3,
-		title = "Exploraci√≥n del campo de los alrededores de la monta√±a Kamidal¬†(1)",
+		title = "ExploraciÛn del campo de los alrededores de la montaÒa Kamidal†(1)",
 		content = {
-			details = "Descubre un tesoro en los campos de los alrededores de la monta√±a Kamidal.",
+			details = "Descubre un tesoro en los campos de los alrededores de la montaÒa Kamidal.",
 			summary = "Descubre un tesoro escondido."
 		},
 		resource = {
 			{
-				text = "Descubre un tesoro en los campos de los alrededores de la monta√±a Kamidal."
+				text = "Descubre un tesoro en los campos de los alrededores de la montaÒa Kamidal."
 			}
 		},
 		reward = {item = 22876},
@@ -1836,14 +1836,14 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 3,
-		title = "Exploraci√≥n del campo de los alrededores de la monta√±a Kamidal¬†(2)",
+		title = "ExploraciÛn del campo de los alrededores de la montaÒa Kamidal†(2)",
 		content = {
-			details = "Descubre un tesoro en los campos de los alrededores de la monta√±a Kamidal.",
+			details = "Descubre un tesoro en los campos de los alrededores de la montaÒa Kamidal.",
 			summary = "Descubre un tesoro escondido."
 		},
 		resource = {
 			{
-				text = "Descubre un tesoro en los campos de los alrededores de la monta√±a Kamidal."
+				text = "Descubre un tesoro en los campos de los alrededores de la montaÒa Kamidal."
 			}
 		},
 		reward = {item = 22876},
@@ -1854,7 +1854,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 4,
-		title = "Exploraci√≥n del campo de Amatsu",
+		title = "ExploraciÛn del campo de Amatsu",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor de Amatsu.",
 			summary = "Descubre un tesoro escondido."
@@ -1872,7 +1872,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 4,
-		title = "Exploraci√≥n del campo de Gonryun",
+		title = "ExploraciÛn del campo de Gonryun",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor de Gonryun.",
 			summary = "Descubre un tesoro escondido."
@@ -1890,7 +1890,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 4,
-		title = "Exploraci√≥n del campo de Luoyang",
+		title = "ExploraciÛn del campo de Luoyang",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor de Luoyang.",
 			summary = "Descubre un tesoro escondido."
@@ -1908,7 +1908,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 4,
-		title = "Exploraci√≥n del campo de Ayothaya",
+		title = "ExploraciÛn del campo de Ayothaya",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor de Ayothaya.",
 			summary = "Descubre un tesoro escondido."
@@ -1926,7 +1926,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 4,
-		title = "Exploraci√≥n del campo de Moscovia",
+		title = "ExploraciÛn del campo de Moscovia",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor de Moscovia.",
 			summary = "Descubre un tesoro escondido."
@@ -1944,7 +1944,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 4,
-		title = "Exploraci√≥n del campo de Brasilis",
+		title = "ExploraciÛn del campo de Brasilis",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor de Brasilis.",
 			summary = "Descubre un tesoro escondido."
@@ -1962,7 +1962,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 4,
-		title = "Exploraci√≥n del campo de Dewata",
+		title = "ExploraciÛn del campo de Dewata",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor de Dewata.",
 			summary = "Descubre un tesoro escondido."
@@ -1980,7 +1980,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 4,
-		title = "Exploraci√≥n del campo de Malaya¬†(1)",
+		title = "ExploraciÛn del campo de Malaya†(1)",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor de Malaya.",
 			summary = "Descubre un tesoro escondido."
@@ -1998,7 +1998,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 4,
-		title = "Exploraci√≥n del campo de Malaya¬†(2)",
+		title = "ExploraciÛn del campo de Malaya†(2)",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor de Malaya.",
 			summary = "Descubre un tesoro escondido."
@@ -2016,14 +2016,14 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Exploraci√≥n de la mazmorra de la abad√≠a",
+		title = "ExploraciÛn de la mazmorra de la abadÌa",
 		content = {
-			details = "Descubre un tesoro en los campos alrededor de la mazmorra de la abad√≠a.",
+			details = "Descubre un tesoro en los campos alrededor de la mazmorra de la abadÌa.",
 			summary = "Descubre un tesoro escondido."
 		},
 		resource = {
 			{
-				text = "Descubre un tesoro en los campos alrededor de la mazmorra de la abad√≠a."
+				text = "Descubre un tesoro en los campos alrededor de la mazmorra de la abadÌa."
 			}
 		},
 		reward = {item = 22876},
@@ -2034,7 +2034,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Exploraci√≥n del mapa del abismo de Hugel",
+		title = "ExploraciÛn del mapa del abismo de Hugel",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor del abismo de Hugel.",
 			summary = "Descubre un tesoro escondido."
@@ -2052,7 +2052,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Exploraci√≥n del mapa de la Torre del reloj",
+		title = "ExploraciÛn del mapa de la Torre del reloj",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor de la Torre del reloj.",
 			summary = "Descubre un tesoro escondido."
@@ -2070,7 +2070,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Exploraci√≥n de la mazmorra de Amatsu",
+		title = "ExploraciÛn de la mazmorra de Amatsu",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor de Amatsu.",
 			summary = "Descubre un tesoro escondido."
@@ -2088,7 +2088,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Exploraci√≥n de la mazmorra del Infierno de hormigas",
+		title = "ExploraciÛn de la mazmorra del Infierno de hormigas",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor del Infierno de hormigas.",
 			summary = "Descubre un tesoro escondido."
@@ -2106,7 +2106,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Exploraci√≥n de la mazmorra de Ayothaya",
+		title = "ExploraciÛn de la mazmorra de Ayothaya",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor de Ayothaya.",
 			summary = "Descubre un tesoro escondido."
@@ -2124,7 +2124,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Exploraci√≥n de la mazmorra de Comodo",
+		title = "ExploraciÛn de la mazmorra de Comodo",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor de Comodo.",
 			summary = "Descubre un tesoro escondido."
@@ -2142,7 +2142,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Exploraci√≥n de la mazmorra de Brasilis",
+		title = "ExploraciÛn de la mazmorra de Brasilis",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor de Brasilis.",
 			summary = "Descubre un tesoro escondido."
@@ -2160,7 +2160,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Exploraci√≥n del mapa de la Torre del reloj",
+		title = "ExploraciÛn del mapa de la Torre del reloj",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor de la Torre del reloj.",
 			summary = "Descubre un tesoro escondido."
@@ -2178,7 +2178,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Exploraci√≥n de la mazmorra de Istana",
+		title = "ExploraciÛn de la mazmorra de Istana",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor de Istana.",
 			summary = "Descubre un tesoro escondido."
@@ -2196,14 +2196,14 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Exploraci√≥n de la mazmorra del Sal√≥n de los Scaraba",
+		title = "ExploraciÛn de la mazmorra del SalÛn de los Scaraba",
 		content = {
-			details = "Descubre un tesoro en los campos alrededor del Sal√≥n de los Scaraba.",
+			details = "Descubre un tesoro en los campos alrededor del SalÛn de los Scaraba.",
 			summary = "Descubre un tesoro escondido."
 		},
 		resource = {
 			{
-				text = "Descubre un tesoro en los campos alrededor del Sal√≥n de los Scaraba."
+				text = "Descubre un tesoro en los campos alrededor del SalÛn de los Scaraba."
 			}
 		},
 		reward = {item = 22876},
@@ -2214,7 +2214,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Exploraci√≥n de la mazmorra de Bifrost",
+		title = "ExploraciÛn de la mazmorra de Bifrost",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor de Bifrost.",
 			summary = "Descubre un tesoro escondido."
@@ -2232,7 +2232,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Exploraci√≥n de la mazmorra de Einbech",
+		title = "ExploraciÛn de la mazmorra de Einbech",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor de Einbech.",
 			summary = "Descubre un tesoro escondido."
@@ -2250,7 +2250,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Exploraci√≥n de la mazmorra de Geffen",
+		title = "ExploraciÛn de la mazmorra de Geffen",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor de la mazmorra de Geffen.",
 			summary = "Descubre un tesoro escondido."
@@ -2268,7 +2268,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Exploraci√≥n de la mazmorra de Glastheim¬†(1)",
+		title = "ExploraciÛn de la mazmorra de Glastheim†(1)",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor de Glast Heim.",
 			summary = "Descubre un tesoro escondido."
@@ -2286,7 +2286,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Exploraci√≥n de la mazmorra de Glastheim¬†(2)",
+		title = "ExploraciÛn de la mazmorra de Glastheim†(2)",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor de Glast Heim.",
 			summary = "Descubre un tesoro escondido."
@@ -2304,7 +2304,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Exploraci√≥n de la mazmorra de Glastheim¬†(3)",
+		title = "ExploraciÛn de la mazmorra de Glastheim†(3)",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor de Glast Heim.",
 			summary = "Descubre un tesoro escondido."
@@ -2322,7 +2322,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Exploraci√≥n de la mazmorra de Glastheim¬†(4)",
+		title = "ExploraciÛn de la mazmorra de Glastheim†(4)",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor de Glast Heim.",
 			summary = "Descubre un tesoro escondido."
@@ -2340,7 +2340,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Exploraci√≥n de la mazmorra de Gonryun",
+		title = "ExploraciÛn de la mazmorra de Gonryun",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor de Gonryun.",
 			summary = "Descubre un tesoro escondido."
@@ -2358,7 +2358,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Exploraci√≥n de la mazmorra de Rachel",
+		title = "ExploraciÛn de la mazmorra de Rachel",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor de Rachel.",
 			summary = "Descubre un tesoro escondido."
@@ -2376,7 +2376,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Exploraci√≥n de la mazmorra de la Esfinge",
+		title = "ExploraciÛn de la mazmorra de la Esfinge",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor de la Esfinge.",
 			summary = "Descubre un tesoro escondido."
@@ -2394,7 +2394,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Exploraci√≥n de la mazmorra de Izlude",
+		title = "ExploraciÛn de la mazmorra de Izlude",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor de Izlude.",
 			summary = "Descubre un tesoro escondido."
@@ -2412,14 +2412,14 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Exploraci√≥n de la mazmorra de la F√°brica de robots",
+		title = "ExploraciÛn de la mazmorra de la F·brica de robots",
 		content = {
-			details = "Descubre un tesoro en los campos alrededor de la F√°brica de robots.",
+			details = "Descubre un tesoro en los campos alrededor de la F·brica de robots.",
 			summary = "Descubre un tesoro escondido."
 		},
 		resource = {
 			{
-				text = "Descubre un tesoro en los campos alrededor de la F√°brica de robots."
+				text = "Descubre un tesoro en los campos alrededor de la F·brica de robots."
 			}
 		},
 		reward = {item = 22876},
@@ -2430,7 +2430,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Exploraci√≥n de la mazmorra del laboratorio de Regenschirm",
+		title = "ExploraciÛn de la mazmorra del laboratorio de Regenschirm",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor del laboratorio de Regenschirm.",
 			summary = "Descubre un tesoro escondido."
@@ -2448,7 +2448,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Exploraci√≥n de la mazmorra de Luoyang",
+		title = "ExploraciÛn de la mazmorra de Luoyang",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor de Luoyang.",
 			summary = "Descubre un tesoro escondido."
@@ -2466,7 +2466,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Exploraci√≥n de la mazmorra de la carretera Nogg",
+		title = "ExploraciÛn de la mazmorra de la carretera Nogg",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor de la carretera Nogg.",
 			summary = "Descubre un tesoro escondido."
@@ -2484,7 +2484,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Exploraci√≥n de la mazmorra de la fosa abandonada de Mjolnir",
+		title = "ExploraciÛn de la mazmorra de la fosa abandonada de Mjolnir",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor de la fosa abandonada de Mjolnir.",
 			summary = "Descubre un tesoro escondido."
@@ -2502,14 +2502,14 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Exploraci√≥n de la mazmorra de la pir√°mide",
+		title = "ExploraciÛn de la mazmorra de la pir·mide",
 		content = {
-			details = "Descubre un tesoro en los campos alrededor de la pir√°mide.",
+			details = "Descubre un tesoro en los campos alrededor de la pir·mide.",
 			summary = "Descubre un tesoro escondido."
 		},
 		resource = {
 			{
-				text = "Descubre un tesoro en los campos alrededor de la pir√°mide."
+				text = "Descubre un tesoro en los campos alrededor de la pir·mide."
 			}
 		},
 		reward = {item = 22876},
@@ -2520,7 +2520,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Exploraci√≥n de la mazmorra de los Orcos",
+		title = "ExploraciÛn de la mazmorra de los Orcos",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor de la mazmorra de los Orcos.",
 			summary = "Descubre un tesoro escondido."
@@ -2538,7 +2538,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Exploraci√≥n de la mazmorra de Payon",
+		title = "ExploraciÛn de la mazmorra de Payon",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor de Payon.",
 			summary = "Descubre un tesoro escondido."
@@ -2556,7 +2556,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Exploraci√≥n de la mazmorra del laberinto",
+		title = "ExploraciÛn de la mazmorra del laberinto",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor del laberinto.",
 			summary = "Descubre un tesoro escondido."
@@ -2574,7 +2574,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Exploraci√≥n de la mazmorra de la Alcantarilla",
+		title = "ExploraciÛn de la mazmorra de la Alcantarilla",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor de la Alcantarilla.",
 			summary = "Descubre un tesoro escondido."
@@ -2592,7 +2592,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Exploraci√≥n de la mazmorra de la Torre de Thanatos",
+		title = "ExploraciÛn de la mazmorra de la Torre de Thanatos",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor de la Torre de Thanatos.",
 			summary = "Descubre un tesoro escondido."
@@ -2610,14 +2610,14 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Exploraci√≥n de la mazmorra del volc√°n Thor",
+		title = "ExploraciÛn de la mazmorra del volc·n Thor",
 		content = {
-			details = "Descubre un tesoro en los campos alrededor del volc√°n Thor.",
+			details = "Descubre un tesoro en los campos alrededor del volc·n Thor.",
 			summary = "Descubre un tesoro escondido."
 		},
 		resource = {
 			{
-				text = "Descubre un tesoro en los campos alrededor del volc√°n Thor."
+				text = "Descubre un tesoro en los campos alrededor del volc·n Thor."
 			}
 		},
 		reward = {item = 22876},
@@ -2628,7 +2628,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Exploraci√≥n de la mazmorra del Barco hundido",
+		title = "ExploraciÛn de la mazmorra del Barco hundido",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor del Barco hundido.",
 			summary = "Descubre un tesoro escondido."
@@ -2646,7 +2646,7 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Exploraci√≥n de la mazmorra de la Isla Tortuga",
+		title = "ExploraciÛn de la mazmorra de la Isla Tortuga",
 		content = {
 			details = "Descubre un tesoro en los campos alrededor de la Isla Tortuga.",
 			summary = "Descubre un tesoro escondido."
@@ -2664,14 +2664,14 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 5,
-		title = "Exploraci√≥n de la mazmorra de la f√°brica de juguetes",
+		title = "ExploraciÛn de la mazmorra de la f·brica de juguetes",
 		content = {
-			details = "Descubre un tesoro en los campos alrededor de la f√°brica de juguetes.",
+			details = "Descubre un tesoro en los campos alrededor de la f·brica de juguetes.",
 			summary = "Descubre un tesoro escondido."
 		},
 		resource = {
 			{
-				text = "Descubre un tesoro en los campos alrededor de la f√°brica de juguetes."
+				text = "Descubre un tesoro en los campos alrededor de la f·brica de juguetes."
 			}
 		},
 		reward = {item = 22876},
@@ -2682,7 +2682,7 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 0,
-		title = "Intruso en la f√°brica",
+		title = "Intruso en la f·brica",
 		content = {
 			details = "Concluye la Mazmorra del Recuerdo",
 			summary = "Derrota a Celine Kimi"
@@ -2701,7 +2701,7 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 0,
-		title = "Trabajador de f√°brica",
+		title = "Trabajador de f·brica",
 		content = {
 			details = "Concluye la Mazmorra del Recuerdo",
 			summary = "Derrota a Celine Kimi"
@@ -2722,7 +2722,7 @@ achievement_tbl = {
 		minor = 0,
 		title = "Empleado dElmes",
 		content = {
-			details = "Complete a inst√¢ncia",
+			details = "Complete a inst‚ncia",
 			summary = "Elimine Celine Kimi"
 		},
 		resource = {
@@ -2739,7 +2739,7 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 0,
-		title = "Gerente de f√°brica",
+		title = "Gerente de f·brica",
 		content = {
 			details = "Concluye la Mazmorra del Recuerdo",
 			summary = "Derrota a Celine Kimi"
@@ -2758,7 +2758,7 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 0,
-		title = "Admirador de mu√±ecas",
+		title = "Admirador de muÒecas",
 		content = {
 			details = "Concluye la Mazmorra del Recuerdo",
 			summary = "Derrota a Celine Kimi"
@@ -3005,7 +3005,7 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 1,
-		title = "Salv√≥ el mundo",
+		title = "SalvÛ el mundo",
 		content = {
 			details = "Concluye la Mazmorra del Recuerdo",
 			summary = "Derrota a Dios Morroc"
@@ -3024,7 +3024,7 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 1,
-		title = "¬°Hoy no, Satan√°s!",
+		title = "°Hoy no, Satan·s!",
 		content = {
 			details = "Concluye la Mazmorra del Recuerdo",
 			summary = "Derrota a Dios Morroc"
@@ -3062,7 +3062,7 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 1,
-		title = "Semidi√≥s",
+		title = "SemidiÛs",
 		content = {
 			details = "Concluye la Mazmorra del Recuerdo",
 			summary = "Derrota a Dios Morroc"
@@ -3119,7 +3119,7 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 1,
-		title = "Enemigo imp√≠o",
+		title = "Enemigo impÌo",
 		content = {
 			details = "Concluye la Mazmorra del Recuerdo",
 			summary = "Derrota a Nigromante de Morroc"
@@ -3233,7 +3233,7 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 0,
-		title = "Testigo de la maldici√≥n",
+		title = "Testigo de la maldiciÛn",
 		content = {
 			details = "Concluye la Mazmorra del Recuerdo",
 			summary = "Derrota a Amdarais"
@@ -3290,15 +3290,15 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 0,
-		title = "V√≠ctima de la maldici√≥n",
+		title = "VÌctima de la maldiciÛn",
 		content = {
 			details = "Concluye la Mazmorra del Recuerdo",
-			summary = "Derrota a Amdarais Sombr√≠o"
+			summary = "Derrota a Amdarais SombrÌo"
 		},
 		resource = {
 			{
 				count = 1,
-				text = "Derrota a Amdarais Sombr√≠o una vez"
+				text = "Derrota a Amdarais SombrÌo una vez"
 			}
 		},
 		reward = {},
@@ -3312,12 +3312,12 @@ achievement_tbl = {
 		title = "La esperanza de los caballeros",
 		content = {
 			details = "Concluye la Mazmorra del Recuerdo",
-			summary = "Derrota a Amdarais Sombr√≠o"
+			summary = "Derrota a Amdarais SombrÌo"
 		},
 		resource = {
 			{
 				count = 10,
-				text = "Derrota a Amdarais Sombr√≠o 10 veces"
+				text = "Derrota a Amdarais SombrÌo 10 veces"
 			}
 		},
 		reward = {},
@@ -3331,12 +3331,12 @@ achievement_tbl = {
 		title = "Guardia del Castillo",
 		content = {
 			details = "Concluye la Mazmorra del Recuerdo",
-			summary = "Derrota a Amdarais Sombr√≠o"
+			summary = "Derrota a Amdarais SombrÌo"
 		},
 		resource = {
 			{
 				count = 50,
-				text = "Derrota a Amdarais Sombr√≠o 50 veces"
+				text = "Derrota a Amdarais SombrÌo 50 veces"
 			}
 		},
 		reward = {},
@@ -3404,7 +3404,7 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 0,
-		title = "Campe√≥n del torneo",
+		title = "CampeÛn del torneo",
 		content = {
 			details = "Concluye la Mazmorra del Recuerdo",
 			summary = "Derrota a Fenrir"
@@ -3461,7 +3461,7 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 0,
-		title = "L√≠der de los demonios",
+		title = "LÌder de los demonios",
 		content = {
 			details = "Concluye la Mazmorra del Recuerdo",
 			summary = "Derrota a Naght Sieger"
@@ -3518,51 +3518,51 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Exploraci√≥n de Prontera",
+		title = "ExploraciÛn de Prontera",
 		content = {
 			details = "Complete Prontera exploration",
-			summary = "Completa la exploraci√≥n del campo objetivo."
+			summary = "Completa la exploraciÛn del campo objetivo."
 		},
 		resource = {
 			{
 				shortcut = 120001,
-				text = "Completa la exploraci√≥n del campo del norte de Prontera¬†(1)."
+				text = "Completa la exploraciÛn del campo del norte de Prontera†(1)."
 			},
 			{
 				shortcut = 120002,
-				text = "Completa la exploraci√≥n del campo del norte de Prontera¬†(2)."
+				text = "Completa la exploraciÛn del campo del norte de Prontera†(2)."
 			},
 			{
 				shortcut = 120003,
-				text = "Completa la exploraci√≥n del campo del norte de Prontera¬†(3)."
+				text = "Completa la exploraciÛn del campo del norte de Prontera†(3)."
 			},
 			{
 				shortcut = 120004,
-				text = "Completa la exploraci√≥n del campo del oeste de Prontera¬†(1)."
+				text = "Completa la exploraciÛn del campo del oeste de Prontera†(1)."
 			},
 			{
 				shortcut = 120005,
-				text = "Completa la exploraci√≥n del campo del oeste de Prontera¬†(2)."
+				text = "Completa la exploraciÛn del campo del oeste de Prontera†(2)."
 			},
 			{
 				shortcut = 120006,
-				text = "Completa la exploraci√≥n del campo del este de Prontera¬†(1)."
+				text = "Completa la exploraciÛn del campo del este de Prontera†(1)."
 			},
 			{
 				shortcut = 120007,
-				text = "Completa la exploraci√≥n del campo del sur de Prontera¬†(1)."
+				text = "Completa la exploraciÛn del campo del sur de Prontera†(1)."
 			},
 			{
 				shortcut = 120008,
-				text = "Completa la exploraci√≥n del campo del sur de Prontera¬†(2)."
+				text = "Completa la exploraciÛn del campo del sur de Prontera†(2)."
 			},
 			{
 				shortcut = 120009,
-				text = "Completa la exploraci√≥n del campo del sur de Prontera¬†(3)."
+				text = "Completa la exploraciÛn del campo del sur de Prontera†(3)."
 			},
 			{
 				shortcut = 120010,
-				text = "Completa la exploraci√≥n del campo del sur de Prontera¬†(4)."
+				text = "Completa la exploraciÛn del campo del sur de Prontera†(4)."
 			}
 		},
 		reward = {item = 644},
@@ -3573,39 +3573,39 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Exploraci√≥n de Geffen",
+		title = "ExploraciÛn de Geffen",
 		content = {
 			details = "Complete Geffen exploration",
-			summary = "Completa la exploraci√≥n del campo objetivo."
+			summary = "Completa la exploraciÛn del campo objetivo."
 		},
 		resource = {
 			{
 				shortcut = 120011,
-				text = "Completa la exploraci√≥n del campo del este de Geffen¬†(1)."
+				text = "Completa la exploraciÛn del campo del este de Geffen†(1)."
 			},
 			{
 				shortcut = 120012,
-				text = "Completa la exploraci√≥n del campo del sudeste de Geffen¬†(1)."
+				text = "Completa la exploraciÛn del campo del sudeste de Geffen†(1)."
 			},
 			{
 				shortcut = 120013,
-				text = "Completa la exploraci√≥n del campo del noroeste de Geffen¬†(1)."
+				text = "Completa la exploraciÛn del campo del noroeste de Geffen†(1)."
 			},
 			{
 				shortcut = 120014,
-				text = "Completa la exploraci√≥n del campo del noroeste de Geffen¬†(2)."
+				text = "Completa la exploraciÛn del campo del noroeste de Geffen†(2)."
 			},
 			{
 				shortcut = 120015,
-				text = "Completa la exploraci√≥n del campo del noroeste de Geffen¬†(3)."
+				text = "Completa la exploraciÛn del campo del noroeste de Geffen†(3)."
 			},
 			{
 				shortcut = 120016,
-				text = "Completa la exploraci√≥n del campo del sur de Geffen¬†(1)."
+				text = "Completa la exploraciÛn del campo del sur de Geffen†(1)."
 			},
 			{
 				shortcut = 120017,
-				text = "Completa la exploraci√≥n del campo del sur de Geffen¬†(2)."
+				text = "Completa la exploraciÛn del campo del sur de Geffen†(2)."
 			}
 		},
 		reward = {item = 644},
@@ -3616,35 +3616,35 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Exploraci√≥n del desierto Sograt",
+		title = "ExploraciÛn del desierto Sograt",
 		content = {
 			details = "Complete Sograt Desert exploration",
-			summary = "Completa la exploraci√≥n del campo objetivo."
+			summary = "Completa la exploraciÛn del campo objetivo."
 		},
 		resource = {
 			{
 				shortcut = 120018,
-				text = "Completa la exploraci√≥n del campo del desierto Sograt¬†(1)."
+				text = "Completa la exploraciÛn del campo del desierto Sograt†(1)."
 			},
 			{
 				shortcut = 120019,
-				text = "Completa la exploraci√≥n del campo del desierto Sograt¬†(2)."
+				text = "Completa la exploraciÛn del campo del desierto Sograt†(2)."
 			},
 			{
 				shortcut = 120020,
-				text = "Completa la exploraci√≥n del campo del desierto Sograt¬†(3)."
+				text = "Completa la exploraciÛn del campo del desierto Sograt†(3)."
 			},
 			{
 				shortcut = 120021,
-				text = "Completa la exploraci√≥n del campo del desierto Sograt¬†(4)."
+				text = "Completa la exploraciÛn del campo del desierto Sograt†(4)."
 			},
 			{
 				shortcut = 120022,
-				text = "Completa la exploraci√≥n del campo del desierto Sograt¬†(5)."
+				text = "Completa la exploraciÛn del campo del desierto Sograt†(5)."
 			},
 			{
 				shortcut = 120023,
-				text = "Completa la exploraci√≥n del campo del desierto Sograt¬†(6)."
+				text = "Completa la exploraciÛn del campo del desierto Sograt†(6)."
 			}
 		},
 		reward = {item = 644},
@@ -3655,43 +3655,43 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Exploraci√≥n de Payon",
+		title = "ExploraciÛn de Payon",
 		content = {
 			details = "Complete Payon exploration",
-			summary = "Completa la exploraci√≥n del campo objetivo."
+			summary = "Completa la exploraciÛn del campo objetivo."
 		},
 		resource = {
 			{
 				shortcut = 120024,
-				text = "Completa la exploraci√≥n del campo del sudoeste de Payon¬†(1)."
+				text = "Completa la exploraciÛn del campo del sudoeste de Payon†(1)."
 			},
 			{
 				shortcut = 120025,
-				text = "Completa la exploraci√≥n del campo del sudoeste de Payon¬†(2)."
+				text = "Completa la exploraciÛn del campo del sudoeste de Payon†(2)."
 			},
 			{
 				shortcut = 120026,
-				text = "Completa la exploraci√≥n del campo del sudoeste de Payon¬†(3)."
+				text = "Completa la exploraciÛn del campo del sudoeste de Payon†(3)."
 			},
 			{
 				shortcut = 120027,
-				text = "Completa la exploraci√≥n del campo del sudoeste de Payon¬†(4)."
+				text = "Completa la exploraciÛn del campo del sudoeste de Payon†(4)."
 			},
 			{
 				shortcut = 120028,
-				text = "Completa la exploraci√≥n del campo del este de Payon¬†(1)."
+				text = "Completa la exploraciÛn del campo del este de Payon†(1)."
 			},
 			{
 				shortcut = 120029,
-				text = "Completa la exploraci√≥n del campo del este de Payon¬†(2)."
+				text = "Completa la exploraciÛn del campo del este de Payon†(2)."
 			},
 			{
 				shortcut = 120030,
-				text = "Completa la exploraci√≥n del campo del este de Payon¬†(3)."
+				text = "Completa la exploraciÛn del campo del este de Payon†(3)."
 			},
 			{
 				shortcut = 120031,
-				text = "Completa la exploraci√≥n del campo del este de Payon¬†(4)."
+				text = "Completa la exploraciÛn del campo del este de Payon†(4)."
 			}
 		},
 		reward = {item = 644},
@@ -3702,31 +3702,31 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Exploraci√≥n del Mjolnir del Norte",
+		title = "ExploraciÛn del Mjolnir del Norte",
 		content = {
 			details = "Complete northern Mjolnir exploration",
-			summary = "Completa la exploraci√≥n del campo objetivo."
+			summary = "Completa la exploraciÛn del campo objetivo."
 		},
 		resource = {
 			{
 				shortcut = 120032,
-				text = "Completa la exploraci√≥n del campo del norte de Mjolnir¬†(1)."
+				text = "Completa la exploraciÛn del campo del norte de Mjolnir†(1)."
 			},
 			{
 				shortcut = 120033,
-				text = "Completa la exploraci√≥n del campo del norte de Mjolnir¬†(2)."
+				text = "Completa la exploraciÛn del campo del norte de Mjolnir†(2)."
 			},
 			{
 				shortcut = 120034,
-				text = "Completa la exploraci√≥n del campo del norte de Mjolnir¬†(3)."
+				text = "Completa la exploraciÛn del campo del norte de Mjolnir†(3)."
 			},
 			{
 				shortcut = 120035,
-				text = "Completa la exploraci√≥n del campo del norte de Mjolnir¬†(4)."
+				text = "Completa la exploraciÛn del campo del norte de Mjolnir†(4)."
 			},
 			{
 				shortcut = 120036,
-				text = "Completa la exploraci√≥n del campo del norte de Mjolnir¬†(5)."
+				text = "Completa la exploraciÛn del campo del norte de Mjolnir†(5)."
 			}
 		},
 		reward = {item = 644},
@@ -3737,39 +3737,39 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Exploraci√≥n del sur de Mjolnir",
+		title = "ExploraciÛn del sur de Mjolnir",
 		content = {
 			details = "Complete southern Mjolnir exploration",
-			summary = "Completa la exploraci√≥n del campo objetivo."
+			summary = "Completa la exploraciÛn del campo objetivo."
 		},
 		resource = {
 			{
 				shortcut = 120037,
-				text = "Completa la exploraci√≥n del campo del sur de Mjolnir¬†(1)."
+				text = "Completa la exploraciÛn del campo del sur de Mjolnir†(1)."
 			},
 			{
 				shortcut = 120038,
-				text = "Completa la exploraci√≥n del campo del sur de Mjolnir¬†(2)."
+				text = "Completa la exploraciÛn del campo del sur de Mjolnir†(2)."
 			},
 			{
 				shortcut = 120039,
-				text = "Completa la exploraci√≥n del campo del sur de Mjolnir¬†(3)."
+				text = "Completa la exploraciÛn del campo del sur de Mjolnir†(3)."
 			},
 			{
 				shortcut = 120040,
-				text = "Completa la exploraci√≥n del campo del sur de Mjolnir¬†(4)."
+				text = "Completa la exploraciÛn del campo del sur de Mjolnir†(4)."
 			},
 			{
 				shortcut = 120041,
-				text = "Completa la exploraci√≥n del campo del sur de Mjolnir¬†(5)."
+				text = "Completa la exploraciÛn del campo del sur de Mjolnir†(5)."
 			},
 			{
 				shortcut = 120042,
-				text = "Completa la exploraci√≥n del campo del sur de Mjolnir¬†(6)."
+				text = "Completa la exploraciÛn del campo del sur de Mjolnir†(6)."
 			},
 			{
 				shortcut = 120043,
-				text = "Completa la exploraci√≥n del campo del sur de Aldebaran¬†(1)."
+				text = "Completa la exploraciÛn del campo del sur de Aldebaran†(1)."
 			}
 		},
 		reward = {item = 644},
@@ -3780,43 +3780,43 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Exploraci√≥n de Comodo",
+		title = "ExploraciÛn de Comodo",
 		content = {
 			details = "Complete Comodo exploration",
-			summary = "Completa la exploraci√≥n del campo objetivo."
+			summary = "Completa la exploraciÛn del campo objetivo."
 		},
 		resource = {
 			{
 				shortcut = 120044,
-				text = "Completa la exploraci√≥n del campo de Comodo¬†(1)."
+				text = "Completa la exploraciÛn del campo de Comodo†(1)."
 			},
 			{
 				shortcut = 120045,
-				text = "Completa la exploraci√≥n del campo de Comodo¬†(2)."
+				text = "Completa la exploraciÛn del campo de Comodo†(2)."
 			},
 			{
 				shortcut = 120046,
-				text = "Completa la exploraci√≥n del campo de Comodo¬†(3)."
+				text = "Completa la exploraciÛn del campo de Comodo†(3)."
 			},
 			{
 				shortcut = 120047,
-				text = "Completa la exploraci√≥n del campo de Comodo¬†(4)."
+				text = "Completa la exploraciÛn del campo de Comodo†(4)."
 			},
 			{
 				shortcut = 120048,
-				text = "Completa la exploraci√≥n del campo de Comodo¬†(5)."
+				text = "Completa la exploraciÛn del campo de Comodo†(5)."
 			},
 			{
 				shortcut = 120049,
-				text = "Completa la exploraci√≥n del campo de Comodo¬†(6)."
+				text = "Completa la exploraciÛn del campo de Comodo†(6)."
 			},
 			{
 				shortcut = 120050,
-				text = "Completa la exploraci√≥n del campo de Comodo¬†(7)."
+				text = "Completa la exploraciÛn del campo de Comodo†(7)."
 			},
 			{
 				shortcut = 120051,
-				text = "Completa la exploraci√≥n del campo de Comodo¬†(8)."
+				text = "Completa la exploraciÛn del campo de Comodo†(8)."
 			}
 		},
 		reward = {item = 644},
@@ -3827,39 +3827,39 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 0,
-		title = "Exploraci√≥n de Rune-Midgard",
+		title = "ExploraciÛn de Rune-Midgard",
 		content = {
 			details = "Complete Rune-Midgarts exploration",
-			summary = "Completa la exploraci√≥n del campo objetivo."
+			summary = "Completa la exploraciÛn del campo objetivo."
 		},
 		resource = {
 			{
 				shortcut = 129001,
-				text = "Exploraci√≥n de Prontera"
+				text = "ExploraciÛn de Prontera"
 			},
 			{
 				shortcut = 129002,
-				text = "Exploraci√≥n de Geffen."
+				text = "ExploraciÛn de Geffen."
 			},
 			{
 				shortcut = 129003,
-				text = "Exploraci√≥n del desierto Sograt."
+				text = "ExploraciÛn del desierto Sograt."
 			},
 			{
 				shortcut = 129004,
-				text = "Exploraci√≥n de Payon."
+				text = "ExploraciÛn de Payon."
 			},
 			{
 				shortcut = 129005,
-				text = "Exploraci√≥n del Mjolnir del Norte"
+				text = "ExploraciÛn del Mjolnir del Norte"
 			},
 			{
 				shortcut = 129006,
-				text = "Exploraci√≥n del sur de Mjolnir."
+				text = "ExploraciÛn del sur de Mjolnir."
 			},
 			{
 				shortcut = 129007,
-				text = "Exploraci√≥n de Comodo."
+				text = "ExploraciÛn de Comodo."
 			}
 		},
 		reward = {item = 617},
@@ -3870,51 +3870,51 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
-		title = "Exploraci√≥n de Juno",
+		title = "ExploraciÛn de Juno",
 		content = {
 			details = "Complete Juno exploration",
-			summary = "Completa la exploraci√≥n del campo objetivo."
+			summary = "Completa la exploraciÛn del campo objetivo."
 		},
 		resource = {
 			{
 				shortcut = 120052,
-				text = "Completa la exploraci√≥n del campo del cuartel fronterizo¬†(1)."
+				text = "Completa la exploraciÛn del campo del cuartel fronterizo†(1)."
 			},
 			{
 				shortcut = 120053,
-				text = "Completa la exploraci√≥n del campo del cuartel fronterizo¬†(2)."
+				text = "Completa la exploraciÛn del campo del cuartel fronterizo†(2)."
 			},
 			{
 				shortcut = 120054,
-				text = "Completa la exploraci√≥n del campo de la caba√±a de Kiel Hyre¬†(1)."
+				text = "Completa la exploraciÛn del campo de la cabaÒa de Kiel Hyre†(1)."
 			},
 			{
 				shortcut = 120055,
-				text = "Completa la exploraci√≥n del campo de la meseta de El Mes¬†(1)."
+				text = "Completa la exploraciÛn del campo de la meseta de El Mes†(1)."
 			},
 			{
 				shortcut = 120056,
-				text = "Completa la exploraci√≥n del campo de la meseta de El Mes¬†(2)."
+				text = "Completa la exploraciÛn del campo de la meseta de El Mes†(2)."
 			},
 			{
 				shortcut = 120057,
-				text = "Completa la exploraci√≥n del campo de la meseta de El Mes¬†(3)."
+				text = "Completa la exploraciÛn del campo de la meseta de El Mes†(3)."
 			},
 			{
 				shortcut = 120058,
-				text = "Completa la exploraci√≥n del campo del Ca√±√≥n El Mes¬†(1)."
+				text = "Completa la exploraciÛn del campo del CaÒÛn El Mes†(1)."
 			},
 			{
 				shortcut = 120059,
-				text = "Completa la exploraci√≥n del campo de la Academia Kiel Hyre¬†(1)."
+				text = "Completa la exploraciÛn del campo de la Academia Kiel Hyre†(1)."
 			},
 			{
 				shortcut = 120060,
-				text = "Completa la exploraci√≥n del campo del campamento de los guardias¬†(1)."
+				text = "Completa la exploraciÛn del campo del campamento de los guardias†(1)."
 			},
 			{
 				shortcut = 120061,
-				text = "Completa la exploraci√≥n del campo de Juno¬†(1)."
+				text = "Completa la exploraciÛn del campo de Juno†(1)."
 			}
 		},
 		reward = {item = 644},
@@ -3925,31 +3925,31 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
-		title = "Exploraci√≥n de Hugel",
+		title = "ExploraciÛn de Hugel",
 		content = {
 			details = "Complete Hugel exploration",
-			summary = "Completa la exploraci√≥n del campo objetivo."
+			summary = "Completa la exploraciÛn del campo objetivo."
 		},
 		resource = {
 			{
 				shortcut = 120062,
-				text = "Completa la exploraci√≥n del campo de la entrada a la Torre de Thanatos¬†(1)."
+				text = "Completa la exploraciÛn del campo de la entrada a la Torre de Thanatos†(1)."
 			},
 			{
 				shortcut = 120063,
-				text = "Completa la exploraci√≥n del campo de Hugel¬†(1)."
+				text = "Completa la exploraciÛn del campo de Hugel†(1)."
 			},
 			{
 				shortcut = 120064,
-				text = "Completa la exploraci√≥n del campo de Hugel¬†(2)."
+				text = "Completa la exploraciÛn del campo de Hugel†(2)."
 			},
 			{
 				shortcut = 120065,
-				text = "Completa la exploraci√≥n del campo de Hugel¬†(3)."
+				text = "Completa la exploraciÛn del campo de Hugel†(3)."
 			},
 			{
 				shortcut = 120066,
-				text = "Completa la exploraci√≥n del campo del Lago del abismo¬†(1)."
+				text = "Completa la exploraciÛn del campo del Lago del abismo†(1)."
 			}
 		},
 		reward = {item = 644},
@@ -3960,43 +3960,43 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
-		title = "Exploraci√≥n de Einbroch",
+		title = "ExploraciÛn de Einbroch",
 		content = {
 			details = "Complete Einbroch exploration",
-			summary = "Completa la exploraci√≥n del campo objetivo."
+			summary = "Completa la exploraciÛn del campo objetivo."
 		},
 		resource = {
 			{
 				shortcut = 120067,
-				text = "Completa la exploraci√≥n del campo de Einbroch¬†(1)."
+				text = "Completa la exploraciÛn del campo de Einbroch†(1)."
 			},
 			{
 				shortcut = 120068,
-				text = "Completa la exploraci√≥n del campo de Einbroch¬†(2)."
+				text = "Completa la exploraciÛn del campo de Einbroch†(2)."
 			},
 			{
 				shortcut = 120069,
-				text = "Completa la exploraci√≥n del campo de Einbroch¬†(3)."
+				text = "Completa la exploraciÛn del campo de Einbroch†(3)."
 			},
 			{
 				shortcut = 120070,
-				text = "Completa la exploraci√≥n del campo de Einbroch¬†(4)."
+				text = "Completa la exploraciÛn del campo de Einbroch†(4)."
 			},
 			{
 				shortcut = 120071,
-				text = "Completa la exploraci√≥n del campo de Einbroch¬†(5)."
+				text = "Completa la exploraciÛn del campo de Einbroch†(5)."
 			},
 			{
 				shortcut = 120072,
-				text = "Completa la exploraci√≥n del campo de Einbroch¬†(6)."
+				text = "Completa la exploraciÛn del campo de Einbroch†(6)."
 			},
 			{
 				shortcut = 120073,
-				text = "Completa la exploraci√≥n del campo de Einbroch¬†(7)."
+				text = "Completa la exploraciÛn del campo de Einbroch†(7)."
 			},
 			{
 				shortcut = 120074,
-				text = "Completa la exploraci√≥n del campo de Einbroch¬†(8)."
+				text = "Completa la exploraciÛn del campo de Einbroch†(8)."
 			}
 		},
 		reward = {item = 644},
@@ -4007,23 +4007,23 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
-		title = "Exploraci√≥n de Lighthalzen",
+		title = "ExploraciÛn de Lighthalzen",
 		content = {
 			details = "Complete Lighthalzen exploration",
-			summary = "Completa la exploraci√≥n del campo objetivo."
+			summary = "Completa la exploraciÛn del campo objetivo."
 		},
 		resource = {
 			{
 				shortcut = 120075,
-				text = "Completa la exploraci√≥n del campo de Lighthalzen¬†(1)."
+				text = "Completa la exploraciÛn del campo de Lighthalzen†(1)."
 			},
 			{
 				shortcut = 120076,
-				text = "Completa la exploraci√≥n del campo de Lighthalzen¬†(2)."
+				text = "Completa la exploraciÛn del campo de Lighthalzen†(2)."
 			},
 			{
 				shortcut = 120077,
-				text = "Completa la exploraci√≥n del campo de Lighthalzen¬†(3)."
+				text = "Completa la exploraciÛn del campo de Lighthalzen†(3)."
 			}
 		},
 		reward = {item = 644},
@@ -4034,27 +4034,27 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 1,
-		title = "Exploraci√≥n de Schwarzwald",
+		title = "ExploraciÛn de Schwarzwald",
 		content = {
 			details = "Complete Schwaltzvalt exploration",
-			summary = "Completa la exploraci√≥n del campo objetivo."
+			summary = "Completa la exploraciÛn del campo objetivo."
 		},
 		resource = {
 			{
 				shortcut = 129009,
-				text = "Exploraci√≥n de Juno."
+				text = "ExploraciÛn de Juno."
 			},
 			{
 				shortcut = 129010,
-				text = "Exploraci√≥n de Hugel."
+				text = "ExploraciÛn de Hugel."
 			},
 			{
 				shortcut = 129011,
-				text = "Exploraci√≥n de Einbroch."
+				text = "ExploraciÛn de Einbroch."
 			},
 			{
 				shortcut = 129012,
-				text = "Exploraci√≥n de Lighthalzen."
+				text = "ExploraciÛn de Lighthalzen."
 			}
 		},
 		reward = {item = 617},
@@ -4065,39 +4065,39 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 2,
-		title = "Exploraci√≥n de Rachel",
+		title = "ExploraciÛn de Rachel",
 		content = {
 			details = "Complete Rachel exploration",
-			summary = "Completa la exploraci√≥n del campo objetivo."
+			summary = "Completa la exploraciÛn del campo objetivo."
 		},
 		resource = {
 			{
 				shortcut = 120078,
-				text = "Completa la exploraci√≥n del campo de la llanura de Audhumbla¬†(1)."
+				text = "Completa la exploraciÛn del campo de la llanura de Audhumbla†(1)."
 			},
 			{
 				shortcut = 120079,
-				text = "Completa la exploraci√≥n del campo de la llanura de Ida¬†(1)."
+				text = "Completa la exploraciÛn del campo de la llanura de Ida†(1)."
 			},
 			{
 				shortcut = 120080,
-				text = "Completa la exploraci√≥n del campo de la llanura de Ida¬†(2)."
+				text = "Completa la exploraciÛn del campo de la llanura de Ida†(2)."
 			},
 			{
 				shortcut = 120081,
-				text = "Completa la exploraci√≥n del campo de la llanura de Ida¬†(3)."
+				text = "Completa la exploraciÛn del campo de la llanura de Ida†(3)."
 			},
 			{
 				shortcut = 120082,
-				text = "Completa la exploraci√≥n del campo de la pradera de Audhumbla¬†(1)."
+				text = "Completa la exploraciÛn del campo de la pradera de Audhumbla†(1)."
 			},
 			{
 				shortcut = 120083,
-				text = "Completa la exploraci√≥n del campo de la pradera de Audhumbla¬†(2)."
+				text = "Completa la exploraciÛn del campo de la pradera de Audhumbla†(2)."
 			},
 			{
 				shortcut = 120084,
-				text = "Completa la exploraci√≥n del campo de Portus Luna¬†(1)."
+				text = "Completa la exploraciÛn del campo de Portus Luna†(1)."
 			}
 		},
 		reward = {item = 644},
@@ -4108,31 +4108,31 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 2,
-		title = "Exploraci√≥n de Veins",
+		title = "ExploraciÛn de Veins",
 		content = {
 			details = "Complete Veins exploration",
-			summary = "Completa la exploraci√≥n del campo objetivo."
+			summary = "Completa la exploraciÛn del campo objetivo."
 		},
 		resource = {
 			{
 				shortcut = 120085,
-				text = "Completa la exploraci√≥n del campo de Veins¬†(1)."
+				text = "Completa la exploraciÛn del campo de Veins†(1)."
 			},
 			{
 				shortcut = 120086,
-				text = "Completa la exploraci√≥n del campo de Veins¬†(2)."
+				text = "Completa la exploraciÛn del campo de Veins†(2)."
 			},
 			{
 				shortcut = 120087,
-				text = "Completa la exploraci√≥n del campo de Veins¬†(3)."
+				text = "Completa la exploraciÛn del campo de Veins†(3)."
 			},
 			{
 				shortcut = 120088,
-				text = "Completa la exploraci√≥n del campo de Veins¬†(4)."
+				text = "Completa la exploraciÛn del campo de Veins†(4)."
 			},
 			{
 				shortcut = 120089,
-				text = "Completa la exploraci√≥n del campo de Veins¬†(5)."
+				text = "Completa la exploraciÛn del campo de Veins†(5)."
 			}
 		},
 		reward = {item = 644},
@@ -4143,19 +4143,19 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 2,
-		title = "Exploraci√≥n de Arunafeltz",
+		title = "ExploraciÛn de Arunafeltz",
 		content = {
 			details = "Complete Arunafeltz exploration",
-			summary = "Completa la exploraci√≥n del campo objetivo."
+			summary = "Completa la exploraciÛn del campo objetivo."
 		},
 		resource = {
 			{
 				shortcut = 129014,
-				text = "Exploraci√≥n de Rachel."
+				text = "ExploraciÛn de Rachel."
 			},
 			{
 				shortcut = 129015,
-				text = "Exploraci√≥n de Veins."
+				text = "ExploraciÛn de Veins."
 			}
 		},
 		reward = {item = 617},
@@ -4166,35 +4166,35 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 3,
-		title = "Exploraci√≥n de Rapine",
+		title = "ExploraciÛn de Rapine",
 		content = {
 			details = "Complete Rapine exploration",
-			summary = "Completa la exploraci√≥n del campo objetivo."
+			summary = "Completa la exploraciÛn del campo objetivo."
 		},
 		resource = {
 			{
 				shortcut = 120090,
-				text = "Completa la exploraci√≥n del campo de Eclage¬†(1)."
+				text = "Completa la exploraciÛn del campo de Eclage†(1)."
 			},
 			{
 				shortcut = 120091,
-				text = "Completa la exploraci√≥n del campo del norte de Bifrost¬†(1)."
+				text = "Completa la exploraciÛn del campo del norte de Bifrost†(1)."
 			},
 			{
 				shortcut = 120092,
-				text = "Completa la exploraci√≥n del campo del sur de Bifrost¬†(1)."
+				text = "Completa la exploraciÛn del campo del sur de Bifrost†(1)."
 			},
 			{
 				shortcut = 120093,
-				text = "Completa la exploraci√≥n del campo de Splendide¬†(1)."
+				text = "Completa la exploraciÛn del campo de Splendide†(1)."
 			},
 			{
 				shortcut = 120094,
-				text = "Completa la exploraci√≥n del campo de Splendide¬†(2)."
+				text = "Completa la exploraciÛn del campo de Splendide†(2)."
 			},
 			{
 				shortcut = 120095,
-				text = "Completa la exploraci√≥n del campo de Splendide¬†(3)."
+				text = "Completa la exploraciÛn del campo de Splendide†(3)."
 			}
 		},
 		reward = {item = 644},
@@ -4205,31 +4205,31 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 3,
-		title = "Exploraci√≥n de Manuk",
+		title = "ExploraciÛn de Manuk",
 		content = {
 			details = "Complete Manuk exploration",
-			summary = "Completa la exploraci√≥n del campo objetivo."
+			summary = "Completa la exploraciÛn del campo objetivo."
 		},
 		resource = {
 			{
 				shortcut = 120096,
-				text = "Completa la exploraci√≥n del campo de Manuk¬†(1)."
+				text = "Completa la exploraciÛn del campo de Manuk†(1)."
 			},
 			{
 				shortcut = 120097,
-				text = "Completa la exploraci√≥n del campo de Manuk¬†(2)."
+				text = "Completa la exploraciÛn del campo de Manuk†(2)."
 			},
 			{
 				shortcut = 120098,
-				text = "Completa la exploraci√≥n del campo de Manuk¬†(3)."
+				text = "Completa la exploraciÛn del campo de Manuk†(3)."
 			},
 			{
 				shortcut = 120099,
-				text = "Completa la exploraci√≥n del campo de los alrededores de la monta√±a Kamidal¬†(1)."
+				text = "Completa la exploraciÛn del campo de los alrededores de la montaÒa Kamidal†(1)."
 			},
 			{
 				shortcut = 120100,
-				text = "Completa la exploraci√≥n del campo de los alrededores de la monta√±a Kamidal¬†(2)."
+				text = "Completa la exploraciÛn del campo de los alrededores de la montaÒa Kamidal†(2)."
 			}
 		},
 		reward = {item = 644},
@@ -4240,19 +4240,19 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 3,
-		title = "Exploraci√≥n del otro mundo",
+		title = "ExploraciÛn del otro mundo",
 		content = {
 			details = "Complete Another World exploration",
-			summary = "Completa la exploraci√≥n del campo objetivo."
+			summary = "Completa la exploraciÛn del campo objetivo."
 		},
 		resource = {
 			{
 				shortcut = 129017,
-				text = "Exploraci√≥n de Rapine."
+				text = "ExploraciÛn de Rapine."
 			},
 			{
 				shortcut = 120918,
-				text = "Exploraci√≥n de Manuk."
+				text = "ExploraciÛn de Manuk."
 			}
 		},
 		reward = {item = 617},
@@ -4263,47 +4263,47 @@ achievement_tbl = {
 		group = "ADVENTURE",
 		major = 2,
 		minor = 4,
-		title = "Exploraci√≥n de Latinalis",
+		title = "ExploraciÛn de Latinalis",
 		content = {
 			details = "Complete Localizing Field exploration",
-			summary = "Completa la exploraci√≥n del campo objetivo."
+			summary = "Completa la exploraciÛn del campo objetivo."
 		},
 		resource = {
 			{
 				shortcut = 120101,
-				text = "Completa la exploraci√≥n del campo de Amatsu¬†(1)."
+				text = "Completa la exploraciÛn del campo de Amatsu†(1)."
 			},
 			{
 				shortcut = 120102,
-				text = "Completa la exploraci√≥n del campo de Gonryun¬†(1)."
+				text = "Completa la exploraciÛn del campo de Gonryun†(1)."
 			},
 			{
 				shortcut = 120103,
-				text = "Completa la exploraci√≥n del campo de Luoyang¬†(1)."
+				text = "Completa la exploraciÛn del campo de Luoyang†(1)."
 			},
 			{
 				shortcut = 120104,
-				text = "Completa la exploraci√≥n del campo de Ayothaya¬†(1)."
+				text = "Completa la exploraciÛn del campo de Ayothaya†(1)."
 			},
 			{
 				shortcut = 120105,
-				text = "Completa la exploraci√≥n del campo de Moscovia¬†(1)."
+				text = "Completa la exploraciÛn del campo de Moscovia†(1)."
 			},
 			{
 				shortcut = 120106,
-				text = "Completa la exploraci√≥n del campo de Brasilis¬†(1)."
+				text = "Completa la exploraciÛn del campo de Brasilis†(1)."
 			},
 			{
 				shortcut = 120107,
-				text = "Completa la exploraci√≥n del campo de Dewata¬†(1)."
+				text = "Completa la exploraciÛn del campo de Dewata†(1)."
 			},
 			{
 				shortcut = 120108,
-				text = "Completa la exploraci√≥n del campo de Malaya¬†(1)."
+				text = "Completa la exploraciÛn del campo de Malaya†(1)."
 			},
 			{
 				shortcut = 120109,
-				text = "Completa la exploraci√≥n del campo de Malaya¬†(2)."
+				text = "Completa la exploraciÛn del campo de Malaya†(2)."
 			}
 		},
 		reward = {item = 617},
@@ -4316,7 +4316,7 @@ achievement_tbl = {
 		minor = 0,
 		title = "Parte de la Realeza",
 		content = {
-			details = "Pres√©ntate a las siete Familias Reales.",
+			details = "PresÈntate a las siete Familias Reales.",
 			summary = "Visita las 7 Familias Reales"
 		},
 		resource = {
@@ -4350,14 +4350,14 @@ achievement_tbl = {
 		group = "HEAR",
 		major = 4,
 		minor = 0,
-		title = "M√∫sica armoniosa",
+		title = "M˙sica armoniosa",
 		content = {
-			details = "Escucha una m√∫sica especial de Orint, el m√∫sico de la corte, durante el banquete real.",
-			summary = "Escucha la m√∫sica secreta de Orint"
+			details = "Escucha una m˙sica especial de Orint, el m˙sico de la corte, durante el banquete real.",
+			summary = "Escucha la m˙sica secreta de Orint"
 		},
 		resource = {
 			{
-				text = "Escucha la m√∫sica secreta de Orint"
+				text = "Escucha la m˙sica secreta de Orint"
 			}
 		},
 		reward = {},
@@ -4370,12 +4370,12 @@ achievement_tbl = {
 		minor = 0,
 		title = "Obtenido la primera aura!",
 		content = {
-			details = "Alcanza el nivel de base¬†99.",
-			summary = "¬°Nivel de base¬†99 alcanzado!"
+			details = "Alcanza el nivel de base†99.",
+			summary = "°Nivel de base†99 alcanzado!"
 		},
 		resource = {
 			{
-				text = "Nivel de base¬†99."
+				text = "Nivel de base†99."
 			}
 		},
 		reward = {
@@ -4390,14 +4390,14 @@ achievement_tbl = {
 		group = "GOAL_LEVEL",
 		major = 1,
 		minor = 0,
-		title = "¬°Obtuve la segunda Aura!",
+		title = "°Obtuve la segunda Aura!",
 		content = {
-			details = "Alcanza el nivel de base¬†150.",
-			summary = "¬°Nivel de base¬†150 alcanzado!"
+			details = "Alcanza el nivel de base†150.",
+			summary = "°Nivel de base†150 alcanzado!"
 		},
 		resource = {
 			{
-				text = "Nivel de base¬†150."
+				text = "Nivel de base†150."
 			}
 		},
 		reward = {
@@ -4412,14 +4412,14 @@ achievement_tbl = {
 		group = "GOAL_LEVEL",
 		major = 1,
 		minor = 0,
-		title = "¬°Obtuve la tercera Aura!",
+		title = "°Obtuve la tercera Aura!",
 		content = {
-			details = "Alcanza el nivel de base¬†175.",
-			summary = "¬°Nivel de base¬†175 alcanzado!"
+			details = "Alcanza el nivel de base†175.",
+			summary = "°Nivel de base†175 alcanzado!"
 		},
 		resource = {
 			{
-				text = "Nivel de base¬†175."
+				text = "Nivel de base†175."
 			}
 		},
 		reward = {
@@ -4434,14 +4434,14 @@ achievement_tbl = {
 		group = "GOAL_LEVEL",
 		major = 1,
 		minor = 0,
-		title = "¬°Maestro de nivel de clase!",
+		title = "°Maestro de nivel de clase!",
 		content = {
-			details = "Alcanza el nivel de clase¬†50.",
-			summary = "¬°Nivel de clase¬†50 alcanzado!"
+			details = "Alcanza el nivel de clase†50.",
+			summary = "°Nivel de clase†50 alcanzado!"
 		},
 		resource = {
 			{
-				text = "Nivel de clase¬†50."
+				text = "Nivel de clase†50."
 			}
 		},
 		reward = {
@@ -4456,14 +4456,14 @@ achievement_tbl = {
 		group = "GOAL_LEVEL",
 		major = 1,
 		minor = 0,
-		title = "¬°Nivel de clase Gran Maestro!",
+		title = "°Nivel de clase Gran Maestro!",
 		content = {
-			details = "Alcanza el nivel de clase¬†70.",
-			summary = "¬°Nivel de clase¬†70 alcanzado!"
+			details = "Alcanza el nivel de clase†70.",
+			summary = "°Nivel de clase†70 alcanzado!"
 		},
 		resource = {
 			{
-				text = "Nivel de clase¬†70."
+				text = "Nivel de clase†70."
 			}
 		},
 		reward = {
@@ -4480,12 +4480,12 @@ achievement_tbl = {
 		minor = 0,
 		title = "Aventurero oficial",
 		content = {
-			details = "Convi√©rtete en clase Espadach√≠n, Comerciante, Ladr√≥n, Mago, Ac√≥lito o Arquero.",
-			summary = "Obt√©n la primera clase."
+			details = "ConviÈrtete en clase EspadachÌn, Comerciante, LadrÛn, Mago, AcÛlito o Arquero.",
+			summary = "ObtÈn la primera clase."
 		},
 		resource = {
 			{
-				text = "Obt√©n la primera clase."
+				text = "ObtÈn la primera clase."
 			}
 		},
 		reward = {buff = 12},
@@ -4498,12 +4498,12 @@ achievement_tbl = {
 		minor = 0,
 		title = "First step towards the Transcendent Job Class!",
 		content = {
-			details = "Convi√©rtete en clase Espadach√≠n superior, Comerciante superior, Ladr√≥n superior, Mago superior, Ac√≥lito superior o Arquero superior.",
-			summary = "Obt√©n la primera clase trascendente."
+			details = "ConviÈrtete en clase EspadachÌn superior, Comerciante superior, LadrÛn superior, Mago superior, AcÛlito superior o Arquero superior.",
+			summary = "ObtÈn la primera clase trascendente."
 		},
 		resource = {
 			{
-				text = "Obt√©n la primera clase trascendente."
+				text = "ObtÈn la primera clase trascendente."
 			}
 		},
 		reward = {buff = 12},
@@ -4514,14 +4514,14 @@ achievement_tbl = {
 		group = "JOB_CHANGE",
 		major = 1,
 		minor = 0,
-		title = "¬°Aventurero veterano! (1)",
+		title = "°Aventurero veterano! (1)",
 		content = {
-			details = "Convi√©rtete en clase Caballero, Herrero, Asesino, Hechicero, Sacerdote o Cazador.",
-			summary = "Obt√©n la segunda clase¬†(2-1)."
+			details = "ConviÈrtete en clase Caballero, Herrero, Asesino, Hechicero, Sacerdote o Cazador.",
+			summary = "ObtÈn la segunda clase†(2-1)."
 		},
 		resource = {
 			{
-				text = "Obt√©n la segunda clase¬†(2-1)."
+				text = "ObtÈn la segunda clase†(2-1)."
 			}
 		},
 		reward = {buff = 12},
@@ -4532,14 +4532,14 @@ achievement_tbl = {
 		group = "JOB_CHANGE",
 		major = 1,
 		minor = 0,
-		title = "¬°Aventurero veterano! (2)",
+		title = "°Aventurero veterano! (2)",
 		content = {
-			details = "Convi√©rtete en clase Cruzado, Alquimista, P√≠caro, Sabio, Monje, Bardo o Bailarina.",
-			summary = "Obt√©n la segunda clase¬†(2-2)."
+			details = "ConviÈrtete en clase Cruzado, Alquimista, PÌcaro, Sabio, Monje, Bardo o Bailarina.",
+			summary = "ObtÈn la segunda clase†(2-2)."
 		},
 		resource = {
 			{
-				text = "Obt√©n la segunda clase¬†(2-2)."
+				text = "ObtÈn la segunda clase†(2-2)."
 			}
 		},
 		reward = {buff = 12},
@@ -4550,14 +4550,14 @@ achievement_tbl = {
 		group = "JOB_CHANGE",
 		major = 1,
 		minor = 0,
-		title = "H√©roe (1)",
+		title = "HÈroe (1)",
 		content = {
-			details = "Convi√©rtete en clase Lord Caballero, Maestro herrero, Asesino cruzado, Gran hechicero, Sumo sacerdote o Francotirador.",
-			summary = "Obt√©n la segunda clase trascendente¬†(2-1)."
+			details = "ConviÈrtete en clase Lord Caballero, Maestro herrero, Asesino cruzado, Gran hechicero, Sumo sacerdote o Francotirador.",
+			summary = "ObtÈn la segunda clase trascendente†(2-1)."
 		},
 		resource = {
 			{
-				text = "Obt√©n la segunda clase trascendente¬†(2-1)."
+				text = "ObtÈn la segunda clase trascendente†(2-1)."
 			}
 		},
 		reward = {buff = 12},
@@ -4568,14 +4568,14 @@ achievement_tbl = {
 		group = "JOB_CHANGE",
 		major = 1,
 		minor = 0,
-		title = "H√©roe (2)",
+		title = "HÈroe (2)",
 		content = {
-			details = "Convi√©rtete en clase Palad√≠n, Creador, Perseguidor, Profesor, Campe√≥n, Diva o Juglar.",
-			summary = "Obt√©n la segunda clase trascendente¬†(2-2)."
+			details = "ConviÈrtete en clase PaladÌn, Creador, Perseguidor, Profesor, CampeÛn, Diva o Juglar.",
+			summary = "ObtÈn la segunda clase trascendente†(2-2)."
 		},
 		resource = {
 			{
-				text = "Obt√©n la segunda clase trascendente¬†(2-2)."
+				text = "ObtÈn la segunda clase trascendente†(2-2)."
 			}
 		},
 		reward = {buff = 12},
@@ -4586,14 +4586,14 @@ achievement_tbl = {
 		group = "JOB_CHANGE",
 		major = 1,
 		minor = 0,
-		title = "¬°Aventurero de √©lite!  (1)",
+		title = "°Aventurero de Èlite!  (1)",
 		content = {
-			details = "Convi√©rtete en clase Caballero r√∫nico, Mec√°nico, Cortador de cruces, Brujo, Arzobispo o Errante.",
-			summary = "Obt√©n la tercera clase¬†(3-1)."
+			details = "ConviÈrtete en clase Caballero r˙nico, Mec·nico, Cortador de cruces, Brujo, Arzobispo o Errante.",
+			summary = "ObtÈn la tercera clase†(3-1)."
 		},
 		resource = {
 			{
-				text = "Obt√©n la tercera clase¬†(3-1)."
+				text = "ObtÈn la tercera clase†(3-1)."
 			}
 		},
 		reward = {buff = 12, item = 16483},
@@ -4604,14 +4604,14 @@ achievement_tbl = {
 		group = "JOB_CHANGE",
 		major = 1,
 		minor = 0,
-		title = "¬°Trascendente! (1)",
+		title = "°Trascendente! (1)",
 		content = {
-			details = "Despu√©s de renacer, convi√©rtete en clase Caballero r√∫nico, Mec√°nico, Cortador de cruces, Brujo, Arzobispo o Errante.",
-			summary = "Obt√©n la tercera clase trascendente¬†(3-1)."
+			details = "DespuÈs de renacer, conviÈrtete en clase Caballero r˙nico, Mec·nico, Cortador de cruces, Brujo, Arzobispo o Errante.",
+			summary = "ObtÈn la tercera clase trascendente†(3-1)."
 		},
 		resource = {
 			{
-				text = "Obt√©n la tercera clase trascendente¬†(3-1)."
+				text = "ObtÈn la tercera clase trascendente†(3-1)."
 			}
 		},
 		reward = {buff = 12, item = 16483},
@@ -4622,14 +4622,14 @@ achievement_tbl = {
 		group = "JOB_CHANGE",
 		major = 1,
 		minor = 0,
-		title = "¬°Aventurero de √©lite!  (2)",
+		title = "°Aventurero de Èlite!  (2)",
 		content = {
-			details = "Convi√©rtete en clase Guardia real, Genetista, Perseguidor de sombras, Conjurador, Sura, Maestro o N√≥mada.",
-			summary = "Obt√©n la tercera clase¬†(3-2)."
+			details = "ConviÈrtete en clase Guardia real, Genetista, Perseguidor de sombras, Conjurador, Sura, Maestro o NÛmada.",
+			summary = "ObtÈn la tercera clase†(3-2)."
 		},
 		resource = {
 			{
-				text = "Obt√©n la tercera clase¬†(3-2)."
+				text = "ObtÈn la tercera clase†(3-2)."
 			}
 		},
 		reward = {buff = 12, item = 16483},
@@ -4640,14 +4640,14 @@ achievement_tbl = {
 		group = "JOB_CHANGE",
 		major = 1,
 		minor = 0,
-		title = "¬°Trascendente! (2)",
+		title = "°Trascendente! (2)",
 		content = {
-			details = "Despu√©s de renacer, convi√©rtete en clase Guardia real, Genetista, Perseguidor de sombras, Conjurador, Sura, Maestro o N√≥mada.",
-			summary = "Obt√©n la tercera clase trascendente¬†(3-2)."
+			details = "DespuÈs de renacer, conviÈrtete en clase Guardia real, Genetista, Perseguidor de sombras, Conjurador, Sura, Maestro o NÛmada.",
+			summary = "ObtÈn la tercera clase trascendente†(3-2)."
 		},
 		resource = {
 			{
-				text = "Obt√©n la tercera clase trascendente¬†(3-2)."
+				text = "ObtÈn la tercera clase trascendente†(3-2)."
 			}
 		},
 		reward = {buff = 12, item = 16483},
@@ -4660,12 +4660,12 @@ achievement_tbl = {
 		minor = 0,
 		title = "Alguien que recorre un camino especial",
 		content = {
-			details = "Convi√©rtete en clase Taekwon, Pistolero, Superprincipiante o Ninja.",
-			summary = "Obt√©n una clase ampliada."
+			details = "ConviÈrtete en clase Taekwon, Pistolero, Superprincipiante o Ninja.",
+			summary = "ObtÈn una clase ampliada."
 		},
 		resource = {
 			{
-				text = "Obt√©n una clase ampliada."
+				text = "ObtÈn una clase ampliada."
 			}
 		},
 		reward = {buff = 12},
@@ -4676,14 +4676,14 @@ achievement_tbl = {
 		group = "JOB_CHANGE",
 		major = 1,
 		minor = 0,
-		title = "¬°Este es mi camino!",
+		title = "°Este es mi camino!",
 		content = {
-			details = "Convi√©rtete en clase Vinculador de almas, Maestro de Taekwon, Rebelde, Oboro o Kagerou.",
-			summary = "Obt√©n la segunda clase ampliada."
+			details = "ConviÈrtete en clase Vinculador de almas, Maestro de Taekwon, Rebelde, Oboro o Kagerou.",
+			summary = "ObtÈn la segunda clase ampliada."
 		},
 		resource = {
 			{
-				text = "Obt√©n la segunda clase ampliada."
+				text = "ObtÈn la segunda clase ampliada."
 			}
 		},
 		reward = {buff = 12, item = 16483},
@@ -4694,9 +4694,9 @@ achievement_tbl = {
 		group = "GOAL_STATUS",
 		major = 1,
 		minor = 0,
-		title = "¬°Fuerza de oso!",
+		title = "°Fuerza de oso!",
 		content = {
-			details = "Aumenta la Fuerza de base a¬†90.",
+			details = "Aumenta la Fuerza de base a†90.",
 			summary = "Alcanza 90 de FUE de base."
 		},
 		resource = {
@@ -4712,9 +4712,9 @@ achievement_tbl = {
 		group = "GOAL_STATUS",
 		major = 1,
 		minor = 0,
-		title = "¬°Magia desbordante!",
+		title = "°Magia desbordante!",
 		content = {
-			details = "Aumenta la Inteligencia de base a¬†90.",
+			details = "Aumenta la Inteligencia de base a†90.",
 			summary = "Alcanza 90 de INT de base."
 		},
 		resource = {
@@ -4730,9 +4730,9 @@ achievement_tbl = {
 		group = "GOAL_STATUS",
 		major = 1,
 		minor = 0,
-		title = "¬°Una mente sana en un cuerpo saludable!",
+		title = "°Una mente sana en un cuerpo saludable!",
 		content = {
-			details = "Aumenta la Vitalidad de base a¬†90.",
+			details = "Aumenta la Vitalidad de base a†90.",
 			summary = "Alcanza 90 de VIT de base."
 		},
 		resource = {
@@ -4748,9 +4748,9 @@ achievement_tbl = {
 		group = "GOAL_STATUS",
 		major = 1,
 		minor = 0,
-		title = "Velociman√≠a",
+		title = "VelocimanÌa",
 		content = {
-			details = "Aumenta la Agilidad de base a¬†90.",
+			details = "Aumenta la Agilidad de base a†90.",
 			summary = "Alcanza 90 de AGI de base."
 		},
 		resource = {
@@ -4766,9 +4766,9 @@ achievement_tbl = {
 		group = "GOAL_STATUS",
 		major = 1,
 		minor = 0,
-		title = "Ojos de halc√≥n",
+		title = "Ojos de halcÛn",
 		content = {
-			details = "Aumenta la Destreza de base a¬†90.",
+			details = "Aumenta la Destreza de base a†90.",
 			summary = "Alcanza 90 de DES de base."
 		},
 		resource = {
@@ -4784,9 +4784,9 @@ achievement_tbl = {
 		group = "GOAL_STATUS",
 		major = 1,
 		minor = 0,
-		title = "M√°ximo de suerte",
+		title = "M·ximo de suerte",
 		content = {
-			details = "Aumenta la Suerte de base a¬†90.",
+			details = "Aumenta la Suerte de base a†90.",
 			summary = "Alcanza 90 de SUE de base."
 		},
 		resource = {
@@ -4802,9 +4802,9 @@ achievement_tbl = {
 		group = "GOAL_STATUS",
 		major = 1,
 		minor = 0,
-		title = "¬°Fuerza de drag√≥n!",
+		title = "°Fuerza de dragÛn!",
 		content = {
-			details = "Aumenta la Fuerza de base a¬†125.",
+			details = "Aumenta la Fuerza de base a†125.",
 			summary = "Alcanza 125 de FUE de base."
 		},
 		resource = {
@@ -4822,7 +4822,7 @@ achievement_tbl = {
 		minor = 0,
 		title = "Magia demencial",
 		content = {
-			details = "Aumenta la Inteligencia de base a¬†125.",
+			details = "Aumenta la Inteligencia de base a†125.",
 			summary = "Alcanza 125 de INT de base."
 		},
 		resource = {
@@ -4838,9 +4838,9 @@ achievement_tbl = {
 		group = "GOAL_STATUS",
 		major = 1,
 		minor = 0,
-		title = "Aleaci√≥n de diamante",
+		title = "AleaciÛn de diamante",
 		content = {
-			details = "Aumenta la Vitalidad de base a¬†125.",
+			details = "Aumenta la Vitalidad de base a†125.",
 			summary = "Alcanza 125 de VIT de base."
 		},
 		resource = {
@@ -4858,7 +4858,7 @@ achievement_tbl = {
 		minor = 0,
 		title = "Velocidad de la luz",
 		content = {
-			details = "Aumenta la Agilidad de base a¬†125.",
+			details = "Aumenta la Agilidad de base a†125.",
 			summary = "Alcanza 125 de AGI de base."
 		},
 		resource = {
@@ -4874,9 +4874,9 @@ achievement_tbl = {
 		group = "GOAL_STATUS",
 		major = 1,
 		minor = 0,
-		title = "Ojo de halc√≥n",
+		title = "Ojo de halcÛn",
 		content = {
-			details = "Aumenta la Destreza de base a¬†125.",
+			details = "Aumenta la Destreza de base a†125.",
 			summary = "Alcanza 125 de DES de base."
 		},
 		resource = {
@@ -4894,7 +4894,7 @@ achievement_tbl = {
 		minor = 0,
 		title = "Fiebre de la suerte",
 		content = {
-			details = "Aumenta la Suerte de base a¬†125.",
+			details = "Aumenta la Suerte de base a†125.",
 			summary = "Alcanza 125 de SUE de base."
 		},
 		resource = {
@@ -4912,7 +4912,7 @@ achievement_tbl = {
 		minor = 0,
 		title = "Avatar de amor y odio",
 		content = {
-			details = "Tu personaje es Principiante y alcanza el nivel de base¬†99.",
+			details = "Tu personaje es Principiante y alcanza el nivel de base†99.",
 			summary = "Alcanzar el nivel base 99 como Principiante."
 		},
 		resource = {
@@ -4928,9 +4928,9 @@ achievement_tbl = {
 		group = "GOAL_STATUS",
 		major = 1,
 		minor = 0,
-		title = "¬°Realmente me gustas!",
+		title = "°Realmente me gustas!",
 		content = {
-			details = "Tu personaje obtuvo la primera clase y alcanza el nivel de base¬†99.",
+			details = "Tu personaje obtuvo la primera clase y alcanza el nivel de base†99.",
 			summary = "Alcanzar el nivel base 99 como primera clase."
 		},
 		resource = {
@@ -4946,9 +4946,9 @@ achievement_tbl = {
 		group = "JOB_CHANGE",
 		major = 1,
 		minor = 0,
-		title = "¬°Renacimiento en Valhalla!",
+		title = "°Renacimiento en Valhalla!",
 		content = {
-			details = "Renace como Principiante superior. El renacimiento solo es posible a trav√©s de una Valkiria.",
+			details = "Renace como Principiante superior. El renacimiento solo es posible a travÈs de una Valkiria.",
 			summary = "Renace como Principiante superior."
 		},
 		resource = {
@@ -4964,14 +4964,14 @@ achievement_tbl = {
 		group = "GOAL_LEVEL",
 		major = 1,
 		minor = 0,
-		title = "¬°Con nuevas actitudes!¬†(1)",
+		title = "°Con nuevas actitudes!†(1)",
 		content = {
-			details = "Alcanza el nivel de base¬†170 como clase¬†3-1.",
-			summary = "¬°Nivel de base¬†170 como clase¬†3-1!"
+			details = "Alcanza el nivel de base†170 como clase†3-1.",
+			summary = "°Nivel de base†170 como clase†3-1!"
 		},
 		resource = {
 			{
-				text = "Nivel de base¬†170."
+				text = "Nivel de base†170."
 			}
 		},
 		reward = {item = 6959},
@@ -4982,14 +4982,14 @@ achievement_tbl = {
 		group = "GOAL_LEVEL",
 		major = 1,
 		minor = 0,
-		title = "¬°Con nuevas actitudes!¬†(2)",
+		title = "°Con nuevas actitudes!†(2)",
 		content = {
-			details = "Alcanza el nivel de base¬†170 como clase¬†3-2.",
-			summary = "¬°Nivel de base¬†170 como clase¬†3-2!"
+			details = "Alcanza el nivel de base†170 como clase†3-2.",
+			summary = "°Nivel de base†170 como clase†3-2!"
 		},
 		resource = {
 			{
-				text = "Nivel de base¬†170."
+				text = "Nivel de base†170."
 			}
 		},
 		reward = {item = 6959},
@@ -5018,9 +5018,9 @@ achievement_tbl = {
 		group = "CHATTING_DYING",
 		major = 1,
 		minor = 2,
-		title = "Charla sombr√≠a",
+		title = "Charla sombrÌa",
 		content = {
-			details = "Ni siquiera la muerte puede impedir que hables‚Ä¶ Abre la ventana del chat tras tu muerte. El atajo es ALT + C (predeterminado).",
+			details = "Ni siquiera la muerte puede impedir que hablesÖ Abre la ventana del chat tras tu muerte. El atajo es ALT + C (predeterminado).",
 			summary = "Abre la ventana del chat tras haber muerto."
 		},
 		resource = {
@@ -5038,12 +5038,12 @@ achievement_tbl = {
 		minor = 2,
 		title = "Chatear sin parar",
 		content = {
-			details = "Re√∫nelas a todas para chatear. Abre la ventana del chat y ll√©nala con 20¬†personas.",
-			summary = "Ten a 20¬†personas en la ventana del chat."
+			details = "Re˙nelas a todas para chatear. Abre la ventana del chat y llÈnala con 20†personas.",
+			summary = "Ten a 20†personas en la ventana del chat."
 		},
 		resource = {
 			{
-				text = "Ten a 20¬†personas en la ventana del chat."
+				text = "Ten a 20†personas en la ventana del chat."
 			}
 		},
 		reward = {},
@@ -5054,14 +5054,14 @@ achievement_tbl = {
 		group = "ADD_FRIEND",
 		major = 1,
 		minor = 2,
-		title = "Amigo‚Ä¶ Mi amigo‚Ä¶",
+		title = "AmigoÖ Mi amigoÖ",
 		content = {
-			details = "Busca a un amigo para que se una a tu aventura. Agrega a 1¬†amigo a tu lista de amigos.",
-			summary = "Agrega a 1¬†amigo a tu lista de amigos."
+			details = "Busca a un amigo para que se una a tu aventura. Agrega a 1†amigo a tu lista de amigos.",
+			summary = "Agrega a 1†amigo a tu lista de amigos."
 		},
 		resource = {
 			{
-				text = "Agrega a 1¬†amigo a tu lista de amigos."
+				text = "Agrega a 1†amigo a tu lista de amigos."
 			}
 		},
 		reward = {},
@@ -5074,12 +5074,12 @@ achievement_tbl = {
 		minor = 2,
 		title = "Rompecorazones",
 		content = {
-			details = "Cuantos m√°s amigos, m√°s diversi√≥n. Entabla una amistad con 10¬†personas.",
-			summary = "Agrega a 10¬†amigos a tu lista de amigos."
+			details = "Cuantos m·s amigos, m·s diversiÛn. Entabla una amistad con 10†personas.",
+			summary = "Agrega a 10†amigos a tu lista de amigos."
 		},
 		resource = {
 			{
-				text = "Agrega a 10¬†amigos a tu lista de amigos."
+				text = "Agrega a 10†amigos a tu lista de amigos."
 			}
 		},
 		reward = {},
@@ -5090,9 +5090,9 @@ achievement_tbl = {
 		group = "PARTY",
 		major = 1,
 		minor = 2,
-		title = "Agrup√©monos~",
+		title = "AgrupÈmonos~",
 		content = {
-			details = "¬°Se acabaron las arduas aventuras en soledad! Supera los obst√°culos con tu grupo.",
+			details = "°Se acabaron las arduas aventuras en soledad! Supera los obst·culos con tu grupo.",
 			summary = "Forma un grupo."
 		},
 		resource = {
@@ -5108,14 +5108,14 @@ achievement_tbl = {
 		group = "MARRY",
 		major = 1,
 		minor = 2,
-		title = "¬øYa te casaste‚Ä¶?",
+		title = "øYa te casasteÖ?",
 		content = {
-			details = "En este mundo duro y solitario, solo el amor les permite protegerse mutuamente. C√°sate con alguien para sellar su amor.",
-			summary = "C√°sate con alguien."
+			details = "En este mundo duro y solitario, solo el amor les permite protegerse mutuamente. C·sate con alguien para sellar su amor.",
+			summary = "C·sate con alguien."
 		},
 		resource = {
 			{
-				text = "C√°sate con alguien."
+				text = "C·sate con alguien."
 			}
 		},
 		reward = {title = 1022},
@@ -5126,7 +5126,7 @@ achievement_tbl = {
 		group = "BABY",
 		major = 1,
 		minor = 2,
-		title = "¬øPodr√≠as cuidarme?",
+		title = "øPodrÌas cuidarme?",
 		content = {
 			details = "Explora este mundo duro con la ayuda de tus padres.",
 			summary = "Consigue que alguien te adopte."
@@ -5146,12 +5146,12 @@ achievement_tbl = {
 		minor = 2,
 		title = "Crianza",
 		content = {
-			details = "Los ni√±os son felicidad. Adopta a un ni√±o y forma una familia feliz y cari√±osa.",
-			summary = "Adopta a un ni√±o."
+			details = "Los niÒos son felicidad. Adopta a un niÒo y forma una familia feliz y cariÒosa.",
+			summary = "Adopta a un niÒo."
 		},
 		resource = {
 			{
-				text = "Adopta a un ni√±o."
+				text = "Adopta a un niÒo."
 			}
 		},
 		reward = {title = 1033},
@@ -5162,15 +5162,15 @@ achievement_tbl = {
 		group = "SPEND_ZENY",
 		major = 1,
 		minor = 1,
-		title = "Revitalizaci√≥n de la econom√≠a del mercado¬†(1)",
+		title = "RevitalizaciÛn de la economÌa del mercado†(1)",
 		content = {
-			details = "El dinero va y viene. Gasta 10¬†000¬†zeny en comprar objetos en las tiendas de otros jugadores. ",
-			summary = "Gasta al menos 10¬†000¬†zeny en tiendas."
+			details = "El dinero va y viene. Gasta 10†000†zeny en comprar objetos en las tiendas de otros jugadores. ",
+			summary = "Gasta al menos 10†000†zeny en tiendas."
 		},
 		resource = {
 			{
 				count = 10000,
-				text = "Gasta al menos 10¬†000¬†zeny en tiendas."
+				text = "Gasta al menos 10†000†zeny en tiendas."
 			}
 		},
 		reward = {},
@@ -5181,15 +5181,15 @@ achievement_tbl = {
 		group = "SPEND_ZENY",
 		major = 1,
 		minor = 1,
-		title = "Revitalizaci√≥n de la econom√≠a del mercado¬†(2)",
+		title = "RevitalizaciÛn de la economÌa del mercado†(2)",
 		content = {
-			details = "El dinero va y viene. Gasta 1¬†mill√≥n de zeny en comprar objetos en las tiendas de otros jugadores. ",
-			summary = "Gasta al menos 1¬†mill√≥n de zeny en tiendas."
+			details = "El dinero va y viene. Gasta 1†millÛn de zeny en comprar objetos en las tiendas de otros jugadores. ",
+			summary = "Gasta al menos 1†millÛn de zeny en tiendas."
 		},
 		resource = {
 			{
 				count = 1000000,
-				text = "Gasta al menos 1¬†mill√≥n de zeny en tiendas."
+				text = "Gasta al menos 1†millÛn de zeny en tiendas."
 			}
 		},
 		reward = {},
@@ -5200,15 +5200,15 @@ achievement_tbl = {
 		group = "SPEND_ZENY",
 		major = 1,
 		minor = 1,
-		title = "Revitalizaci√≥n de la econom√≠a del mercado¬†(3)",
+		title = "RevitalizaciÛn de la economÌa del mercado†(3)",
 		content = {
-			details = "El dinero va y viene. Gasta 5¬†millones de zeny en comprar objetos de las tiendas de otros jugadores. ",
-			summary = "Gasta al menos 5¬†millones de zeny en tiendas."
+			details = "El dinero va y viene. Gasta 5†millones de zeny en comprar objetos de las tiendas de otros jugadores. ",
+			summary = "Gasta al menos 5†millones de zeny en tiendas."
 		},
 		resource = {
 			{
 				count = 5000000,
-				text = "Gasta al menos 5¬†millones de zeny en tiendas."
+				text = "Gasta al menos 5†millones de zeny en tiendas."
 			}
 		},
 		reward = {},
@@ -5219,15 +5219,15 @@ achievement_tbl = {
 		group = "SPEND_ZENY",
 		major = 1,
 		minor = 1,
-		title = "Revitalizaci√≥n de la econom√≠a del mercado¬†(4)",
+		title = "RevitalizaciÛn de la economÌa del mercado†(4)",
 		content = {
-			details = "El dinero va y viene. Gasta 100¬†millones de zeny en comprar objetos en las tiendas de otros jugadores. ",
-			summary = "Gasta al menos 100¬†millones de zeny en tiendas."
+			details = "El dinero va y viene. Gasta 100†millones de zeny en comprar objetos en las tiendas de otros jugadores. ",
+			summary = "Gasta al menos 100†millones de zeny en tiendas."
 		},
 		resource = {
 			{
 				count = 100000000,
-				text = "Gasta al menos 100¬†millones de zeny en tiendas."
+				text = "Gasta al menos 100†millones de zeny en tiendas."
 			}
 		},
 		reward = {},
@@ -5238,15 +5238,15 @@ achievement_tbl = {
 		group = "SPEND_ZENY",
 		major = 1,
 		minor = 1,
-		title = "Revitalizaci√≥n de la econom√≠a del mercado¬†(5)",
+		title = "RevitalizaciÛn de la economÌa del mercado†(5)",
 		content = {
-			details = "El dinero va y viene. Gasta 500¬†millones de zeny en comprar objetos en las tiendas de otros jugadores. ",
-			summary = "Gasta al menos 500¬†millones de zeny en tiendas."
+			details = "El dinero va y viene. Gasta 500†millones de zeny en comprar objetos en las tiendas de otros jugadores. ",
+			summary = "Gasta al menos 500†millones de zeny en tiendas."
 		},
 		resource = {
 			{
 				count = 500000000,
-				text = "Gasta al menos 500¬†millones de zeny en tiendas."
+				text = "Gasta al menos 500†millones de zeny en tiendas."
 			}
 		},
 		reward = {},
@@ -5257,14 +5257,14 @@ achievement_tbl = {
 		group = "ENCHANT_SUCCESS",
 		major = 1,
 		minor = 1,
-		title = "¬°No puedo dejar de refinar! (1)",
+		title = "°No puedo dejar de refinar! (1)",
 		content = {
-			details = "¬øHasta d√≥nde puede llevarte la suerte? Refina con √©xito un arma de nivel¬†1 a un refinamiento¬†+7.",
-			summary = "Refina con √©xito un arma de nivel¬†1 a un refinamiento¬†+7."
+			details = "øHasta dÛnde puede llevarte la suerte? Refina con Èxito un arma de nivel†1 a un refinamiento†+7.",
+			summary = "Refina con Èxito un arma de nivel†1 a un refinamiento†+7."
 		},
 		resource = {
 			{
-				text = "Refina con √©xito un arma de nivel¬†1 a un refinamiento¬†+7."
+				text = "Refina con Èxito un arma de nivel†1 a un refinamiento†+7."
 			}
 		},
 		reward = {},
@@ -5275,14 +5275,14 @@ achievement_tbl = {
 		group = "ENCHANT_SUCCESS",
 		major = 1,
 		minor = 1,
-		title = "¬°No puedo dejar de refinar! (2)",
+		title = "°No puedo dejar de refinar! (2)",
 		content = {
-			details = "¬øHasta d√≥nde puede llevarte la suerte? Refina con √©xito un arma de nivel¬†1 a un refinamiento¬†+12.",
-			summary = "Refina con √©xito un arma de nivel¬†1 a un refinamiento¬†+12."
+			details = "øHasta dÛnde puede llevarte la suerte? Refina con Èxito un arma de nivel†1 a un refinamiento†+12.",
+			summary = "Refina con Èxito un arma de nivel†1 a un refinamiento†+12."
 		},
 		resource = {
 			{
-				text = "Refina con √©xito un arma de nivel¬†1 a un refinamiento¬†+12."
+				text = "Refina con Èxito un arma de nivel†1 a un refinamiento†+12."
 			}
 		},
 		reward = {},
@@ -5293,14 +5293,14 @@ achievement_tbl = {
 		group = "ENCHANT_SUCCESS",
 		major = 1,
 		minor = 1,
-		title = "¬°No puedo dejar de refinar! (3)",
+		title = "°No puedo dejar de refinar! (3)",
 		content = {
-			details = "¬øHasta d√≥nde puede llevarte la suerte? Refina con √©xito un arma de nivel¬†2 a un refinamiento¬†+7.",
-			summary = "Refina con √©xito un arma de nivel¬†2 a un refinamiento¬†+7."
+			details = "øHasta dÛnde puede llevarte la suerte? Refina con Èxito un arma de nivel†2 a un refinamiento†+7.",
+			summary = "Refina con Èxito un arma de nivel†2 a un refinamiento†+7."
 		},
 		resource = {
 			{
-				text = "Refina con √©xito un arma de nivel¬†2 a un refinamiento¬†+7."
+				text = "Refina con Èxito un arma de nivel†2 a un refinamiento†+7."
 			}
 		},
 		reward = {},
@@ -5311,14 +5311,14 @@ achievement_tbl = {
 		group = "ENCHANT_SUCCESS",
 		major = 1,
 		minor = 1,
-		title = "¬°No puedo dejar de refinar! (4)",
+		title = "°No puedo dejar de refinar! (4)",
 		content = {
-			details = "¬øHasta d√≥nde puede llevarte la suerte? Refina con √©xito un arma de nivel¬†2 a un refinamiento¬†+12.",
-			summary = "Refina con √©xito un arma de nivel¬†2 a un refinamiento¬†+12."
+			details = "øHasta dÛnde puede llevarte la suerte? Refina con Èxito un arma de nivel†2 a un refinamiento†+12.",
+			summary = "Refina con Èxito un arma de nivel†2 a un refinamiento†+12."
 		},
 		resource = {
 			{
-				text = "Refina con √©xito un arma de nivel¬†2 a un refinamiento¬†+12."
+				text = "Refina con Èxito un arma de nivel†2 a un refinamiento†+12."
 			}
 		},
 		reward = {},
@@ -5329,14 +5329,14 @@ achievement_tbl = {
 		group = "ENCHANT_SUCCESS",
 		major = 1,
 		minor = 1,
-		title = "¬°No puedo dejar de refinar! (5)",
+		title = "°No puedo dejar de refinar! (5)",
 		content = {
-			details = "¬øHasta d√≥nde puede llevarte la suerte? Refina con √©xito un arma de nivel¬†3 a un refinamiento¬†+7.",
-			summary = "Refina con √©xito un arma de nivel¬†3 a un refinamiento¬†+7."
+			details = "øHasta dÛnde puede llevarte la suerte? Refina con Èxito un arma de nivel†3 a un refinamiento†+7.",
+			summary = "Refina con Èxito un arma de nivel†3 a un refinamiento†+7."
 		},
 		resource = {
 			{
-				text = "Refina con √©xito un arma de nivel¬†3 a un refinamiento¬†+7."
+				text = "Refina con Èxito un arma de nivel†3 a un refinamiento†+7."
 			}
 		},
 		reward = {},
@@ -5347,14 +5347,14 @@ achievement_tbl = {
 		group = "ENCHANT_SUCCESS",
 		major = 1,
 		minor = 1,
-		title = "¬°No puedo dejar de refinar! (6)",
+		title = "°No puedo dejar de refinar! (6)",
 		content = {
-			details = "¬øHasta d√≥nde puede llevarte la suerte? Refina con √©xito un arma de nivel¬†3 a un refinamiento¬†+12.",
-			summary = "Refina con √©xito un arma de nivel¬†3 a un refinamiento¬†+12."
+			details = "øHasta dÛnde puede llevarte la suerte? Refina con Èxito un arma de nivel†3 a un refinamiento†+12.",
+			summary = "Refina con Èxito un arma de nivel†3 a un refinamiento†+12."
 		},
 		resource = {
 			{
-				text = "Refina con √©xito un arma de nivel¬†3 a un refinamiento¬†+12."
+				text = "Refina con Èxito un arma de nivel†3 a un refinamiento†+12."
 			}
 		},
 		reward = {},
@@ -5365,14 +5365,14 @@ achievement_tbl = {
 		group = "ENCHANT_SUCCESS",
 		major = 1,
 		minor = 1,
-		title = "¬°No puedo dejar de refinar! (7)",
+		title = "°No puedo dejar de refinar! (7)",
 		content = {
-			details = "¬øHasta d√≥nde puede llevarte la suerte? Refina con √©xito un arma de nivel¬†4 a un refinamiento¬†+7.",
-			summary = "Refina con √©xito un arma de nivel¬†4 a un refinamiento¬†+7."
+			details = "øHasta dÛnde puede llevarte la suerte? Refina con Èxito un arma de nivel†4 a un refinamiento†+7.",
+			summary = "Refina con Èxito un arma de nivel†4 a un refinamiento†+7."
 		},
 		resource = {
 			{
-				text = "Refina con √©xito un arma de nivel¬†4 a un refinamiento¬†+7."
+				text = "Refina con Èxito un arma de nivel†4 a un refinamiento†+7."
 			}
 		},
 		reward = {},
@@ -5383,14 +5383,14 @@ achievement_tbl = {
 		group = "ENCHANT_SUCCESS",
 		major = 1,
 		minor = 1,
-		title = "¬°No puedo dejar de refinar! (8)",
+		title = "°No puedo dejar de refinar! (8)",
 		content = {
-			details = "¬øHasta d√≥nde puede llevarte la suerte? Refina con √©xito un arma de nivel¬†4 a un refinamiento¬†+12.",
-			summary = "Refina con √©xito un arma de nivel¬†4 a un refinamiento¬†+12."
+			details = "øHasta dÛnde puede llevarte la suerte? Refina con Èxito un arma de nivel†4 a un refinamiento†+12.",
+			summary = "Refina con Èxito un arma de nivel†4 a un refinamiento†+12."
 		},
 		resource = {
 			{
-				text = "Refina con √©xito un arma de nivel¬†4 a un refinamiento¬†+12."
+				text = "Refina con Èxito un arma de nivel†4 a un refinamiento†+12."
 			}
 		},
 		reward = {},
@@ -5401,9 +5401,9 @@ achievement_tbl = {
 		group = "ENCHANT_FAIL",
 		major = 1,
 		minor = 1,
-		title = "La codicia del ser humano no tiene l√≠mites‚Ä¶",
+		title = "La codicia del ser humano no tiene lÌmitesÖ",
 		content = {
-			details = "La codicia del ser humano no tiene l√≠mites y comete los mismos errores. Pero tambi√©n crece aprendiendo de esos errores. Experimenta una falla de refinamiento.",
+			details = "La codicia del ser humano no tiene lÌmites y comete los mismos errores. Pero tambiÈn crece aprendiendo de esos errores. Experimenta una falla de refinamiento.",
 			summary = "Y experimenta fallas de refinamiento."
 		},
 		resource = {
@@ -5419,14 +5419,14 @@ achievement_tbl = {
 		group = "GET_ITEM",
 		major = 1,
 		minor = 1,
-		title = "¬°Loter√≠a! (1)",
+		title = "°LoterÌa! (1)",
 		content = {
-			details = "¬°No puedo creer la suerte que tengo! Obt√©n un objeto que valga al menos 100¬†zeny al venderlo a un PNJ.",
-			summary = "Obt√©n un objeto que valga al menos 100¬†zeny."
+			details = "°No puedo creer la suerte que tengo! ObtÈn un objeto que valga al menos 100†zeny al venderlo a un PNJ.",
+			summary = "ObtÈn un objeto que valga al menos 100†zeny."
 		},
 		resource = {
 			{
-				text = "Obt√©n un objeto que valga al menos 100¬†zeny."
+				text = "ObtÈn un objeto que valga al menos 100†zeny."
 			}
 		},
 		reward = {},
@@ -5437,14 +5437,14 @@ achievement_tbl = {
 		group = "GET_ITEM",
 		major = 1,
 		minor = 1,
-		title = "¬°Loter√≠a! (2)",
+		title = "°LoterÌa! (2)",
 		content = {
-			details = "¬°No puedo creer la suerte que tengo! Obt√©n un objeto que valga al menos 1000¬†zeny al venderlo a un PNJ.",
-			summary = "Obt√©n un objeto que valga al menos 1000¬†zeny."
+			details = "°No puedo creer la suerte que tengo! ObtÈn un objeto que valga al menos 1000†zeny al venderlo a un PNJ.",
+			summary = "ObtÈn un objeto que valga al menos 1000†zeny."
 		},
 		resource = {
 			{
-				text = "Obt√©n un objeto que valga al menos 1000¬†zeny."
+				text = "ObtÈn un objeto que valga al menos 1000†zeny."
 			}
 		},
 		reward = {},
@@ -5455,14 +5455,14 @@ achievement_tbl = {
 		group = "GET_ITEM",
 		major = 1,
 		minor = 1,
-		title = "¬°Loter√≠a! (3)",
+		title = "°LoterÌa! (3)",
 		content = {
-			details = "¬°No puedo creer la suerte que tengo! Obt√©n un objeto que valga al menos 5000¬†zeny al venderlo a un PNJ.",
-			summary = "Obt√©n un objeto que valga al menos 5000¬†zeny."
+			details = "°No puedo creer la suerte que tengo! ObtÈn un objeto que valga al menos 5000†zeny al venderlo a un PNJ.",
+			summary = "ObtÈn un objeto que valga al menos 5000†zeny."
 		},
 		resource = {
 			{
-				text = "Obt√©n un objeto que valga al menos 5000¬†zeny."
+				text = "ObtÈn un objeto que valga al menos 5000†zeny."
 			}
 		},
 		reward = {},
@@ -5473,14 +5473,14 @@ achievement_tbl = {
 		group = "GET_ITEM",
 		major = 1,
 		minor = 1,
-		title = "¬°Loter√≠a! (4)",
+		title = "°LoterÌa! (4)",
 		content = {
-			details = "¬°No puedo creer la suerte que tengo! Obt√©n un objeto que valga al menos 10¬†000¬†zeny al venderlo a un PNJ.",
-			summary = "Obt√©n un objeto que valga al menos 10¬†000¬†zeny."
+			details = "°No puedo creer la suerte que tengo! ObtÈn un objeto que valga al menos 10†000†zeny al venderlo a un PNJ.",
+			summary = "ObtÈn un objeto que valga al menos 10†000†zeny."
 		},
 		resource = {
 			{
-				text = "Obt√©n un objeto que valga al menos 10¬†000¬†zeny."
+				text = "ObtÈn un objeto que valga al menos 10†000†zeny."
 			}
 		},
 		reward = {},
@@ -5491,14 +5491,14 @@ achievement_tbl = {
 		group = "GET_ITEM",
 		major = 1,
 		minor = 1,
-		title = "¬°Loter√≠a! (5)",
+		title = "°LoterÌa! (5)",
 		content = {
-			details = "¬°No puedo creer la suerte que tengo! Obt√©n un objeto que valga al menos 50¬†000¬†zeny al venderlo a un PNJ.",
-			summary = "Obt√©n un objeto que valga al menos 50¬†000¬†zeny."
+			details = "°No puedo creer la suerte que tengo! ObtÈn un objeto que valga al menos 50†000†zeny al venderlo a un PNJ.",
+			summary = "ObtÈn un objeto que valga al menos 50†000†zeny."
 		},
 		resource = {
 			{
-				text = "Obt√©n un objeto que valga al menos 50¬†000¬†zeny."
+				text = "ObtÈn un objeto que valga al menos 50†000†zeny."
 			}
 		},
 		reward = {},
@@ -5509,14 +5509,14 @@ achievement_tbl = {
 		group = "GET_ITEM",
 		major = 1,
 		minor = 1,
-		title = "¬°Loter√≠a! (6)",
+		title = "°LoterÌa! (6)",
 		content = {
-			details = "¬°No puedo creer la suerte que tengo! Obt√©n un objeto que valga al menos 100¬†000¬†zeny al venderlo a un PNJ.",
-			summary = "Obt√©n un objeto que valga al menos 100¬†000¬†zeny."
+			details = "°No puedo creer la suerte que tengo! ObtÈn un objeto que valga al menos 100†000†zeny al venderlo a un PNJ.",
+			summary = "ObtÈn un objeto que valga al menos 100†000†zeny."
 		},
 		resource = {
 			{
-				text = "Obt√©n un objeto que valga al menos 100¬†000¬†zeny."
+				text = "ObtÈn un objeto que valga al menos 100†000†zeny."
 			}
 		},
 		reward = {},
@@ -5527,14 +5527,14 @@ achievement_tbl = {
 		group = "GET_ITEM",
 		major = 1,
 		minor = 1,
-		title = "¬°Loter√≠a! (7)",
+		title = "°LoterÌa! (7)",
 		content = {
-			details = "¬°No puedo creer la suerte que tengo! Obt√©n un objeto que valga al menos 150¬†000¬†zeny al venderlo a un PNJ.",
-			summary = "Obt√©n un objeto que valga al menos 150¬†000¬†zeny."
+			details = "°No puedo creer la suerte que tengo! ObtÈn un objeto que valga al menos 150†000†zeny al venderlo a un PNJ.",
+			summary = "ObtÈn un objeto que valga al menos 150†000†zeny."
 		},
 		resource = {
 			{
-				text = "Obt√©n un objeto que valga al menos 150¬†000¬†zeny."
+				text = "ObtÈn un objeto que valga al menos 150†000†zeny."
 			}
 		},
 		reward = {},
@@ -5545,14 +5545,14 @@ achievement_tbl = {
 		group = "GET_ZENY",
 		major = 1,
 		minor = 1,
-		title = "Rey rico¬†(1)",
+		title = "Rey rico†(1)",
 		content = {
-			details = "El dinero no lo es todo, pero no se puede vivir sin √©l. Intenta ahorrar 10¬†000¬†zeny.",
-			summary = "Re√∫ne al menos 10¬†000¬†zeny."
+			details = "El dinero no lo es todo, pero no se puede vivir sin Èl. Intenta ahorrar 10†000†zeny.",
+			summary = "Re˙ne al menos 10†000†zeny."
 		},
 		resource = {
 			{
-				text = "Re√∫ne al menos 10¬†000¬†zeny."
+				text = "Re˙ne al menos 10†000†zeny."
 			}
 		},
 		reward = {},
@@ -5563,14 +5563,14 @@ achievement_tbl = {
 		group = "GET_ZENY",
 		major = 1,
 		minor = 1,
-		title = "Rey rico¬†(2)",
+		title = "Rey rico†(2)",
 		content = {
-			details = "El dinero no lo es todo, pero no se puede vivir sin √©l. Intenta ahorrar 100¬†000¬†zeny.",
-			summary = "Re√∫ne al menos 100¬†000¬†zeny."
+			details = "El dinero no lo es todo, pero no se puede vivir sin Èl. Intenta ahorrar 100†000†zeny.",
+			summary = "Re˙ne al menos 100†000†zeny."
 		},
 		resource = {
 			{
-				text = "Re√∫ne al menos 100¬†000¬†zeny."
+				text = "Re˙ne al menos 100†000†zeny."
 			}
 		},
 		reward = {},
@@ -5581,14 +5581,14 @@ achievement_tbl = {
 		group = "GET_ZENY",
 		major = 1,
 		minor = 1,
-		title = "Rey rico¬†(3)",
+		title = "Rey rico†(3)",
 		content = {
-			details = "El dinero no lo es todo, pero no se puede vivir sin √©l. Intenta ahorrar 1¬†mill√≥n de zeny.",
-			summary = "Re√∫ne al menos 1¬†mill√≥n de zeny."
+			details = "El dinero no lo es todo, pero no se puede vivir sin Èl. Intenta ahorrar 1†millÛn de zeny.",
+			summary = "Re˙ne al menos 1†millÛn de zeny."
 		},
 		resource = {
 			{
-				text = "Re√∫ne al menos 1¬†mill√≥n de zeny."
+				text = "Re˙ne al menos 1†millÛn de zeny."
 			}
 		},
 		reward = {},
@@ -5599,14 +5599,14 @@ achievement_tbl = {
 		group = "GET_ZENY",
 		major = 1,
 		minor = 1,
-		title = "Rey rico¬†(4)",
+		title = "Rey rico†(4)",
 		content = {
-			details = "El dinero no lo es todo, pero no se puede vivir sin √©l. Intenta ahorrar 10¬†millones de zeny.",
-			summary = "Re√∫ne al menos 10¬†millones de zeny."
+			details = "El dinero no lo es todo, pero no se puede vivir sin Èl. Intenta ahorrar 10†millones de zeny.",
+			summary = "Re˙ne al menos 10†millones de zeny."
 		},
 		resource = {
 			{
-				text = "Re√∫ne al menos 10¬†millones de zeny."
+				text = "Re˙ne al menos 10†millones de zeny."
 			}
 		},
 		reward = {},
@@ -5617,14 +5617,14 @@ achievement_tbl = {
 		group = "GET_ZENY",
 		major = 1,
 		minor = 1,
-		title = "Rey rico¬†(5)",
+		title = "Rey rico†(5)",
 		content = {
-			details = "El dinero no lo es todo, pero no se puede vivir sin √©l. Intenta ahorrar 100¬†millones de zeny.",
-			summary = "Re√∫ne al menos 100¬†millones de zeny."
+			details = "El dinero no lo es todo, pero no se puede vivir sin Èl. Intenta ahorrar 100†millones de zeny.",
+			summary = "Re˙ne al menos 100†millones de zeny."
 		},
 		resource = {
 			{
-				text = "Re√∫ne al menos 100¬†millones de zeny."
+				text = "Re˙ne al menos 100†millones de zeny."
 			}
 		},
 		reward = {},
@@ -5635,14 +5635,14 @@ achievement_tbl = {
 		group = "GET_ZENY",
 		major = 1,
 		minor = 1,
-		title = "Rey rico¬†(6)",
+		title = "Rey rico†(6)",
 		content = {
-			details = "El dinero no lo es todo, pero no se puede vivir sin √©l. Intenta ahorrar 1000¬†millones de zeny.",
-			summary = "Re√∫ne al menos 1000¬†millones de zeny."
+			details = "El dinero no lo es todo, pero no se puede vivir sin Èl. Intenta ahorrar 1000†millones de zeny.",
+			summary = "Re˙ne al menos 1000†millones de zeny."
 		},
 		resource = {
 			{
-				text = "Re√∫ne al menos 1000¬†millones de zeny."
+				text = "Re˙ne al menos 1000†millones de zeny."
 			}
 		},
 		reward = {},
@@ -5655,25 +5655,25 @@ achievement_tbl = {
 		minor = 1,
 		title = "Los Poring son amor",
 		content = {
-			details = "¬°Amas tanto a los Poring que incluso sue√±as con ellos!",
+			details = "°Amas tanto a los Poring que incluso sueÒas con ellos!",
 			summary = "Completa todas las tareas objetivo."
 		},
 		resource = {
 			{
 				shortcut = 230101,
-				text = "Completa la tarea ‚ÄúPoring: domesticaci√≥n‚Äù."
+				text = "Completa la tarea ìPoring: domesticaciÛnî."
 			},
 			{
 				shortcut = 230102,
-				text = "Completa la tarea ‚ÄúDrops: domesticaci√≥n‚Äù."
+				text = "Completa la tarea ìDrops: domesticaciÛnî."
 			},
 			{
 				shortcut = 230103,
-				text = "Completa la tarea ‚ÄúPoporing: domesticaci√≥n‚Äù."
+				text = "Completa la tarea ìPoporing: domesticaciÛnî."
 			},
 			{
 				shortcut = 230104,
-				text = "Completa la tarea ‚ÄúPeque√±o Poring: domesticaci√≥n‚Äù."
+				text = "Completa la tarea ìPequeÒo Poring: domesticaciÛnî."
 			}
 		},
 		reward = {buff = 12, title = 1025},
@@ -5684,14 +5684,14 @@ achievement_tbl = {
 		group = "TAMING",
 		major = 3,
 		minor = 1,
-		title = "Poring: domesticaci√≥n",
+		title = "Poring: domesticaciÛn",
 		content = {
-			details = "Domestica a un Poring para que se convierta en tu mascota. Puedes domesticarlo con una ‚ÄúManzana inmadura‚Äù.",
-			summary = "Domestica con √©xito a un Poring."
+			details = "Domestica a un Poring para que se convierta en tu mascota. Puedes domesticarlo con una ìManzana inmaduraî.",
+			summary = "Domestica con Èxito a un Poring."
 		},
 		resource = {
 			{
-				text = "Domestica con √©xito a un Poring."
+				text = "Domestica con Èxito a un Poring."
 			}
 		},
 		reward = {},
@@ -5702,14 +5702,14 @@ achievement_tbl = {
 		group = "TAMING",
 		major = 3,
 		minor = 1,
-		title = "Drops: domesticaci√≥n",
+		title = "Drops: domesticaciÛn",
 		content = {
-			details = "Domestica a un Drops para que se convierta en tu mascota. Puedes domesticarlo con ‚ÄúZumo de naranja‚Äù.",
-			summary = "Domestica con √©xito a un Drops."
+			details = "Domestica a un Drops para que se convierta en tu mascota. Puedes domesticarlo con ìZumo de naranjaî.",
+			summary = "Domestica con Èxito a un Drops."
 		},
 		resource = {
 			{
-				text = "Domestica con √©xito a un Drops."
+				text = "Domestica con Èxito a un Drops."
 			}
 		},
 		reward = {},
@@ -5720,14 +5720,14 @@ achievement_tbl = {
 		group = "TAMING",
 		major = 3,
 		minor = 1,
-		title = "Poporing: domesticaci√≥n",
+		title = "Poporing: domesticaciÛn",
 		content = {
-			details = "Domestica a un Poporing para que se convierta en tu mascota. Puedes domesticarlo con ‚ÄúHierba amarga‚Äù.",
-			summary = "Domestica con √©xito a un Poporing."
+			details = "Domestica a un Poporing para que se convierta en tu mascota. Puedes domesticarlo con ìHierba amargaî.",
+			summary = "Domestica con Èxito a un Poporing."
 		},
 		resource = {
 			{
-				text = "Domestica con √©xito a un Poporing."
+				text = "Domestica con Èxito a un Poporing."
 			}
 		},
 		reward = {},
@@ -5738,14 +5738,14 @@ achievement_tbl = {
 		group = "TAMING",
 		major = 3,
 		minor = 1,
-		title = "Peque√±o Poring: domesticaci√≥n",
+		title = "PequeÒo Poring: domesticaciÛn",
 		content = {
-			details = "Domestica a un Peque√±o Poring para que se convierta en tu mascota. Puedes domesticarlo con una ‚ÄúManzana inmadura‚Äù.",
-			summary = "Domestica con √©xito a un Peque√±o Poring."
+			details = "Domestica a un PequeÒo Poring para que se convierta en tu mascota. Puedes domesticarlo con una ìManzana inmaduraî.",
+			summary = "Domestica con Èxito a un PequeÒo Poring."
 		},
 		resource = {
 			{
-				text = "Domestica con √©xito a un Peque√±o Poring."
+				text = "Domestica con Èxito a un PequeÒo Poring."
 			}
 		},
 		reward = {},
@@ -5756,35 +5756,35 @@ achievement_tbl = {
 		group = "GOAL_LEVEL",
 		major = 3,
 		minor = 1,
-		title = "Entomolog√≠a",
+		title = "EntomologÌa",
 		content = {
-			details = "¬°Te gusta tanto la entomolog√≠a que incluso sue√±as con recolectar insectos!",
+			details = "°Te gusta tanto la entomologÌa que incluso sueÒas con recolectar insectos!",
 			summary = "Completa todas las tareas objetivo."
 		},
 		resource = {
 			{
 				shortcut = 230111,
-				text = "Completa la tarea ‚ÄúChonchon: domesticaci√≥n‚Äù."
+				text = "Completa la tarea ìChonchon: domesticaciÛnî."
 			},
 			{
 				shortcut = 230112,
-				text = "Completa la tarea ‚ÄúChonchon de acero: domesticaci√≥n‚Äù."
+				text = "Completa la tarea ìChonchon de acero: domesticaciÛnî."
 			},
 			{
 				shortcut = 230113,
-				text = "Completa la tarea ‚ÄúMosca cazadora: domesticaci√≥n‚Äù."
+				text = "Completa la tarea ìMosca cazadora: domesticaciÛnî."
 			},
 			{
 				shortcut = 230114,
-				text = "Completa la tarea ‚ÄúRockero: domesticaci√≥n‚Äù."
+				text = "Completa la tarea ìRockero: domesticaciÛnî."
 			},
 			{
 				shortcut = 230115,
-				text = "Completa la tarea ‚ÄúEspora: domesticaci√≥n‚Äù."
+				text = "Completa la tarea ìEspora: domesticaciÛnî."
 			},
 			{
 				shortcut = 230116,
-				text = "Completa la tarea ‚ÄúEspora venenosa: domesticaci√≥n‚Äù."
+				text = "Completa la tarea ìEspora venenosa: domesticaciÛnî."
 			}
 		},
 		reward = {buff = 12, title = 1026},
@@ -5795,14 +5795,14 @@ achievement_tbl = {
 		group = "TAMING",
 		major = 3,
 		minor = 1,
-		title = "Chonchon: domesticaci√≥n",
+		title = "Chonchon: domesticaciÛn",
 		content = {
-			details = "Domestica a un Chonchon para que se convierta en tu mascota. Puedes domesticarlo con ‚ÄúPescado podrido‚Äù.",
-			summary = "Domestica con √©xito a un Chonchon."
+			details = "Domestica a un Chonchon para que se convierta en tu mascota. Puedes domesticarlo con ìPescado podridoî.",
+			summary = "Domestica con Èxito a un Chonchon."
 		},
 		resource = {
 			{
-				text = "Domestica con √©xito a un Chonchon."
+				text = "Domestica con Èxito a un Chonchon."
 			}
 		},
 		reward = {},
@@ -5813,14 +5813,14 @@ achievement_tbl = {
 		group = "TAMING",
 		major = 3,
 		minor = 1,
-		title = "Chonchon de acero: domesticaci√≥n",
+		title = "Chonchon de acero: domesticaciÛn",
 		content = {
-			details = "Domestica a un Chonchon de acero para que se convierta en tu mascota. Puedes domesticarlo con ‚ÄúHierro oxidado‚Äù.",
-			summary = "Domestica con √©xito a un Chonchon de acero."
+			details = "Domestica a un Chonchon de acero para que se convierta en tu mascota. Puedes domesticarlo con ìHierro oxidadoî.",
+			summary = "Domestica con Èxito a un Chonchon de acero."
 		},
 		resource = {
 			{
-				text = "Domestica con √©xito a un Chonchon de acero."
+				text = "Domestica con Èxito a un Chonchon de acero."
 			}
 		},
 		reward = {},
@@ -5831,14 +5831,14 @@ achievement_tbl = {
 		group = "TAMING",
 		major = 3,
 		minor = 1,
-		title = "Mosca cazadora: domesticaci√≥n",
+		title = "Mosca cazadora: domesticaciÛn",
 		content = {
-			details = "Domestica a una Mosca cazadora para que se convierta en tu mascota. Puedes domesticarla con ‚ÄúZumo monstruoso‚Äù.",
-			summary = "Domestica con √©xito a una Mosca cazadora."
+			details = "Domestica a una Mosca cazadora para que se convierta en tu mascota. Puedes domesticarla con ìZumo monstruosoî.",
+			summary = "Domestica con Èxito a una Mosca cazadora."
 		},
 		resource = {
 			{
-				text = "Domestica con √©xito a una Mosca cazadora."
+				text = "Domestica con Èxito a una Mosca cazadora."
 			}
 		},
 		reward = {},
@@ -5849,14 +5849,14 @@ achievement_tbl = {
 		group = "TAMING",
 		major = 3,
 		minor = 1,
-		title = "Rockero: domesticaci√≥n",
+		title = "Rockero: domesticaciÛn",
 		content = {
-			details = "Domestica a un Rockero para que se convierta en tu mascota. Puedes domesticarlo con una ‚ÄúFlor cantante‚Äù.",
-			summary = "Domestica con √©xito a un Rockero."
+			details = "Domestica a un Rockero para que se convierta en tu mascota. Puedes domesticarlo con una ìFlor cantanteî.",
+			summary = "Domestica con Èxito a un Rockero."
 		},
 		resource = {
 			{
-				text = "Domestica con √©xito a un Rockero."
+				text = "Domestica con Èxito a un Rockero."
 			}
 		},
 		reward = {},
@@ -5867,14 +5867,14 @@ achievement_tbl = {
 		group = "TAMING",
 		major = 3,
 		minor = 1,
-		title = "Espora: domesticaci√≥n",
+		title = "Espora: domesticaciÛn",
 		content = {
-			details = "Domestica a una Espora para que se convierta en tu mascota. Puedes domesticarla con ‚ÄúMusgo con roc√≠o‚Äù.",
-			summary = "Domestica con √©xito a una Espora."
+			details = "Domestica a una Espora para que se convierta en tu mascota. Puedes domesticarla con ìMusgo con rocÌoî.",
+			summary = "Domestica con Èxito a una Espora."
 		},
 		resource = {
 			{
-				text = "Domestica con √©xito a una Espora."
+				text = "Domestica con Èxito a una Espora."
 			}
 		},
 		reward = {},
@@ -5885,14 +5885,14 @@ achievement_tbl = {
 		group = "TAMING",
 		major = 3,
 		minor = 1,
-		title = "Espora venenosa: domesticaci√≥n",
+		title = "Espora venenosa: domesticaciÛn",
 		content = {
-			details = "Domestica a una Espora venenosa para que se convierta en tu mascota. Puedes domesticarla con ‚ÄúHierba nociva mortal‚Äù.",
-			summary = "Domestica con √©xito a una Espora venenosa."
+			details = "Domestica a una Espora venenosa para que se convierta en tu mascota. Puedes domesticarla con ìHierba nociva mortalî.",
+			summary = "Domestica con Èxito a una Espora venenosa."
 		},
 		resource = {
 			{
-				text = "Domestica con √©xito a una Espora venenosa."
+				text = "Domestica con Èxito a una Espora venenosa."
 			}
 		},
 		reward = {},
@@ -5903,43 +5903,43 @@ achievement_tbl = {
 		group = "GOAL_LEVEL",
 		major = 3,
 		minor = 1,
-		title = "Los animales tambi√©n son nuestros amigos",
+		title = "Los animales tambiÈn son nuestros amigos",
 		content = {
-			details = "¬°Amas tanto a los animales que incluso sue√±as con tus amigos animales!",
+			details = "°Amas tanto a los animales que incluso sueÒas con tus amigos animales!",
 			summary = "Completa todas las tareas objetivo."
 		},
 		resource = {
 			{
 				shortcut = 230121,
-				text = "Completa la tarea ‚ÄúLun√°tica: domesticaci√≥n‚Äù."
+				text = "Completa la tarea ìLun·tica: domesticaciÛnî."
 			},
 			{
 				shortcut = 230122,
-				text = "Completa la tarea ‚ÄúPicky: domesticaci√≥n‚Äù."
+				text = "Completa la tarea ìPicky: domesticaciÛnî."
 			},
 			{
 				shortcut = 230123,
-				text = "Completa la tarea ‚ÄúCr√≠a de salvaje: domesticaci√≥n‚Äù."
+				text = "Completa la tarea ìCrÌa de salvaje: domesticaciÛnî."
 			},
 			{
 				shortcut = 230124,
-				text = "Completa la tarea ‚ÄúCr√≠a de Lobo de desierto: domesticaci√≥n‚Äù."
+				text = "Completa la tarea ìCrÌa de Lobo de desierto: domesticaciÛnî."
 			},
 			{
 				shortcut = 230125,
-				text = "Completa la tarea ‚ÄúSmokie: domesticaci√≥n‚Äù."
+				text = "Completa la tarea ìSmokie: domesticaciÛnî."
 			},
 			{
 				shortcut = 230126,
-				text = "Completa la tarea ‚ÄúYoyo: domesticaci√≥n‚Äù."
+				text = "Completa la tarea ìYoyo: domesticaciÛnî."
 			},
 			{
 				shortcut = 230127,
-				text = "Completa la tarea ‚ÄúPeco Peco: domesticaci√≥n‚Äù."
+				text = "Completa la tarea ìPeco Peco: domesticaciÛnî."
 			},
 			{
 				shortcut = 230128,
-				text = "Completa la tarea ‚ÄúPetite: domesticaci√≥n‚Äù."
+				text = "Completa la tarea ìPetite: domesticaciÛnî."
 			}
 		},
 		reward = {buff = 12, title = 1027},
@@ -5950,14 +5950,14 @@ achievement_tbl = {
 		group = "TAMING",
 		major = 3,
 		minor = 1,
-		title = "Lun√°tica: domesticaci√≥n",
+		title = "Lun·tica: domesticaciÛn",
 		content = {
-			details = "Domestica a una Lun√°tica para que se convierta en tu mascota. Puedes domesticarla con una ‚ÄúZanahoria arco√≠ris‚Äù.",
-			summary = "Domestica con √©xito a una Lun√°tica."
+			details = "Domestica a una Lun·tica para que se convierta en tu mascota. Puedes domesticarla con una ìZanahoria arcoÌrisî.",
+			summary = "Domestica con Èxito a una Lun·tica."
 		},
 		resource = {
 			{
-				text = "Domestica con √©xito a una Lun√°tica."
+				text = "Domestica con Èxito a una Lun·tica."
 			}
 		},
 		reward = {},
@@ -5968,14 +5968,14 @@ achievement_tbl = {
 		group = "TAMING",
 		major = 3,
 		minor = 1,
-		title = "Picky: domesticaci√≥n",
+		title = "Picky: domesticaciÛn",
 		content = {
-			details = "Domestica a un Picky para que se convierta en tu mascota. Puedes domesticarlo con una ‚ÄúLombriz gal√°n‚Äù.",
-			summary = "Domestica con √©xito a un Picky."
+			details = "Domestica a un Picky para que se convierta en tu mascota. Puedes domesticarlo con una ìLombriz gal·nî.",
+			summary = "Domestica con Èxito a un Picky."
 		},
 		resource = {
 			{
-				text = "Domestica con √©xito a un Picky."
+				text = "Domestica con Èxito a un Picky."
 			}
 		},
 		reward = {},
@@ -5986,14 +5986,14 @@ achievement_tbl = {
 		group = "TAMING",
 		major = 3,
 		minor = 1,
-		title = "Cr√≠a de salvaje: domesticaci√≥n",
+		title = "CrÌa de salvaje: domesticaciÛn",
 		content = {
-			details = "Domestica a una Cr√≠a de salvaje para que se convierta en tu mascota. Puedes domesticarla con ‚ÄúLeche dulce‚Äù.",
-			summary = "Domestica con √©xito a una Cr√≠a de salvaje."
+			details = "Domestica a una CrÌa de salvaje para que se convierta en tu mascota. Puedes domesticarla con ìLeche dulceî.",
+			summary = "Domestica con Èxito a una CrÌa de salvaje."
 		},
 		resource = {
 			{
-				text = "Domestica con √©xito a una Cr√≠a de salvaje."
+				text = "Domestica con Èxito a una CrÌa de salvaje."
 			}
 		},
 		reward = {},
@@ -6004,14 +6004,14 @@ achievement_tbl = {
 		group = "TAMING",
 		major = 3,
 		minor = 1,
-		title = "Cr√≠a de Lobo de desierto: domesticaci√≥n",
+		title = "CrÌa de Lobo de desierto: domesticaciÛn",
 		content = {
-			details = "Domestica a una Cr√≠a de Lobo de desierto para que se convierta en tu mascota. Puedes domesticarla con ‚ÄúHueso seco‚Äù.",
-			summary = "Domestica con √©xito una Cr√≠a de Lobo de desierto."
+			details = "Domestica a una CrÌa de Lobo de desierto para que se convierta en tu mascota. Puedes domesticarla con ìHueso secoî.",
+			summary = "Domestica con Èxito una CrÌa de Lobo de desierto."
 		},
 		resource = {
 			{
-				text = "Domestica con √©xito una Cr√≠a de Lobo de desierto."
+				text = "Domestica con Èxito una CrÌa de Lobo de desierto."
 			}
 		},
 		reward = {},
@@ -6022,14 +6022,14 @@ achievement_tbl = {
 		group = "TAMING",
 		major = 3,
 		minor = 1,
-		title = "Smokie: domesticaci√≥n",
+		title = "Smokie: domesticaciÛn",
 		content = {
-			details = "Domestica a un Smokie para que se convierta en tu mascota. Puedes domesticarlo con una ‚ÄúBatata‚Äù.",
-			summary = "Domestica con √©xito a un Smokie."
+			details = "Domestica a un Smokie para que se convierta en tu mascota. Puedes domesticarlo con una ìBatataî.",
+			summary = "Domestica con Èxito a un Smokie."
 		},
 		resource = {
 			{
-				text = "Domestica con √©xito a un Smokie."
+				text = "Domestica con Èxito a un Smokie."
 			}
 		},
 		reward = {},
@@ -6040,14 +6040,14 @@ achievement_tbl = {
 		group = "TAMING",
 		major = 3,
 		minor = 1,
-		title = "Yoyo: domesticaci√≥n",
+		title = "Yoyo: domesticaciÛn",
 		content = {
-			details = "Domestica a un Yoyo para que se convierta en tu mascota. Puedes domesticarlo con una ‚ÄúBanana tropical‚Äù.",
-			summary = "Domestica con √©xito a un Yoyo."
+			details = "Domestica a un Yoyo para que se convierta en tu mascota. Puedes domesticarlo con una ìBanana tropicalî.",
+			summary = "Domestica con Èxito a un Yoyo."
 		},
 		resource = {
 			{
-				text = "Domestica con √©xito a un Yoyo."
+				text = "Domestica con Èxito a un Yoyo."
 			}
 		},
 		reward = {},
@@ -6058,14 +6058,14 @@ achievement_tbl = {
 		group = "TAMING",
 		major = 3,
 		minor = 1,
-		title = "Peco Peco: domesticaci√≥n",
+		title = "Peco Peco: domesticaciÛn",
 		content = {
-			details = "Domestica a un Peco Peco para que se convierta en tu mascota. Puedes domesticarlo con una ‚ÄúLombriz de tierra rechoncha‚Äù.",
-			summary = "Domestica con √©xito a un Peco Peco."
+			details = "Domestica a un Peco Peco para que se convierta en tu mascota. Puedes domesticarlo con una ìLombriz de tierra rechonchaî.",
+			summary = "Domestica con Èxito a un Peco Peco."
 		},
 		resource = {
 			{
-				text = "Domestica con √©xito a un Peco Peco."
+				text = "Domestica con Èxito a un Peco Peco."
 			}
 		},
 		reward = {},
@@ -6076,14 +6076,14 @@ achievement_tbl = {
 		group = "TAMING",
 		major = 3,
 		minor = 1,
-		title = "Petite: domesticaci√≥n",
+		title = "Petite: domesticaciÛn",
 		content = {
-			details = "Domestica a un Petite para que se convierta en tu mascota. Puedes domesticarlo con una ‚ÄúPiedra brillante‚Äù.",
-			summary = "Domestica con √©xito a un Petite."
+			details = "Domestica a un Petite para que se convierta en tu mascota. Puedes domesticarlo con una ìPiedra brillanteî.",
+			summary = "Domestica con Èxito a un Petite."
 		},
 		resource = {
 			{
-				text = "Domestica con √©xito a un Petite."
+				text = "Domestica con Èxito a un Petite."
 			}
 		},
 		reward = {},
@@ -6094,39 +6094,39 @@ achievement_tbl = {
 		group = "GOAL_LEVEL",
 		major = 3,
 		minor = 1,
-		title = "¬°Somos las Chicas monstruosas!",
+		title = "°Somos las Chicas monstruosas!",
 		content = {
-			details = "¬°Sue√±as con representar a las Chicas monstruosas!",
+			details = "°SueÒas con representar a las Chicas monstruosas!",
 			summary = "Completa todas las tareas objetivo."
 		},
 		resource = {
 			{
 				shortcut = 230141,
-				text = "Completa la tarea ‚ÄúMunak: domesticaci√≥n‚Äù."
+				text = "Completa la tarea ìMunak: domesticaciÛnî."
 			},
 			{
 				shortcut = 230142,
-				text = "Completa la tarea ‚ÄúIsis: domesticaci√≥n‚Äù."
+				text = "Completa la tarea ìIsis: domesticaciÛnî."
 			},
 			{
 				shortcut = 230143,
-				text = "Completa la tarea ‚ÄúSohee: domesticaci√≥n‚Äù."
+				text = "Completa la tarea ìSohee: domesticaciÛnî."
 			},
 			{
 				shortcut = 230144,
-				text = "Completa la tarea ‚ÄúZealotus: domesticaci√≥n‚Äù."
+				text = "Completa la tarea ìZealotus: domesticaciÛnî."
 			},
 			{
 				shortcut = 230145,
-				text = "Completa la tarea ‚ÄúAlice: domesticaci√≥n‚Äù."
+				text = "Completa la tarea ìAlice: domesticaciÛnî."
 			},
 			{
 				shortcut = 230146,
-				text = "Completa la tarea ‚ÄúS√∫cubo: domesticaci√≥n‚Äù."
+				text = "Completa la tarea ìS˙cubo: domesticaciÛnî."
 			},
 			{
 				shortcut = 230147,
-				text = "Completa la tarea ‚ÄúLoli Ruri: domesticaci√≥n‚Äù."
+				text = "Completa la tarea ìLoli Ruri: domesticaciÛnî."
 			}
 		},
 		reward = {item = 19029, title = 1029},
@@ -6137,14 +6137,14 @@ achievement_tbl = {
 		group = "TAMING",
 		major = 3,
 		minor = 1,
-		title = "Munak: domesticaci√≥n",
+		title = "Munak: domesticaciÛn",
 		content = {
-			details = "Domestica a una Munak para que se convierta en tu mascota. Puedes domesticarla con una ‚ÄúSin destinatario‚Äù.",
-			summary = "Domestica con √©xito a una Munak."
+			details = "Domestica a una Munak para que se convierta en tu mascota. Puedes domesticarla con una ìSin destinatarioî.",
+			summary = "Domestica con Èxito a una Munak."
 		},
 		resource = {
 			{
-				text = "Domestica con √©xito a una Munak."
+				text = "Domestica con Èxito a una Munak."
 			}
 		},
 		reward = {},
@@ -6155,14 +6155,14 @@ achievement_tbl = {
 		group = "TAMING",
 		major = 3,
 		minor = 1,
-		title = "Isis: domesticaci√≥n",
+		title = "Isis: domesticaciÛn",
 		content = {
-			details = "Domestica a una Isis para que se convierta en tu mascota. Puedes domesticarla con un ‚ÄúBrazalete de obediencia‚Äù.",
-			summary = "Domestica con √©xito a una Isis."
+			details = "Domestica a una Isis para que se convierta en tu mascota. Puedes domesticarla con un ìBrazalete de obedienciaî.",
+			summary = "Domestica con Èxito a una Isis."
 		},
 		resource = {
 			{
-				text = "Domestica con √©xito a una Isis."
+				text = "Domestica con Èxito a una Isis."
 			}
 		},
 		reward = {},
@@ -6173,14 +6173,14 @@ achievement_tbl = {
 		group = "TAMING",
 		major = 3,
 		minor = 1,
-		title = "Sohee: domesticaci√≥n",
+		title = "Sohee: domesticaciÛn",
 		content = {
-			details = "Domestica a una Sohee para que se convierta en tu mascota. Puedes domesticarla con un ‚ÄúCuchillo de plata de castidad‚Äù.",
-			summary = "Domestica con √©xito a una Sohee."
+			details = "Domestica a una Sohee para que se convierta en tu mascota. Puedes domesticarla con un ìCuchillo de plata de castidadî.",
+			summary = "Domestica con Èxito a una Sohee."
 		},
 		resource = {
 			{
-				text = "Domestica con √©xito a una Sohee."
+				text = "Domestica con Èxito a una Sohee."
 			}
 		},
 		reward = {},
@@ -6191,14 +6191,14 @@ achievement_tbl = {
 		group = "TAMING",
 		major = 3,
 		minor = 1,
-		title = "Zealotus: domesticaci√≥n",
+		title = "Zealotus: domesticaciÛn",
 		content = {
-			details = "Domestica a una Zealotus para que se convierta en tu mascota. Puedes domesticarla con una ‚ÄúVela roja prohibida‚Äù.",
-			summary = "Domestica con √©xito a una Zealotus."
+			details = "Domestica a una Zealotus para que se convierta en tu mascota. Puedes domesticarla con una ìVela roja prohibidaî.",
+			summary = "Domestica con Èxito a una Zealotus."
 		},
 		resource = {
 			{
-				text = "Domestica con √©xito a una Zealotus."
+				text = "Domestica con Èxito a una Zealotus."
 			}
 		},
 		reward = {},
@@ -6209,14 +6209,14 @@ achievement_tbl = {
 		group = "TAMING",
 		major = 3,
 		minor = 1,
-		title = "Alice: domesticaci√≥n",
+		title = "Alice: domesticaciÛn",
 		content = {
-			details = "Domestica a una Alice para que se convierta en tu mascota. Puedes domesticarla con un ‚ÄúDelantal suave‚Äù.",
-			summary = "Domestica con √©xito a una Alice."
+			details = "Domestica a una Alice para que se convierta en tu mascota. Puedes domesticarla con un ìDelantal suaveî.",
+			summary = "Domestica con Èxito a una Alice."
 		},
 		resource = {
 			{
-				text = "Domestica con √©xito a una Alice."
+				text = "Domestica con Èxito a una Alice."
 			}
 		},
 		reward = {},
@@ -6227,14 +6227,14 @@ achievement_tbl = {
 		group = "TAMING",
 		major = 3,
 		minor = 1,
-		title = "S√∫cubo: domesticaci√≥n",
+		title = "S˙cubo: domesticaciÛn",
 		content = {
-			details = "Domestica a una S√∫cubo para que se convierta en tu mascota. Puedes domesticarla con un ‚ÄúCoraz√≥n puro de chico‚Äù.",
-			summary = "Domestica con √©xito a una S√∫cubo."
+			details = "Domestica a una S˙cubo para que se convierta en tu mascota. Puedes domesticarla con un ìCorazÛn puro de chicoî.",
+			summary = "Domestica con Èxito a una S˙cubo."
 		},
 		resource = {
 			{
-				text = "Domestica con √©xito a una S√∫cubo."
+				text = "Domestica con Èxito a una S˙cubo."
 			}
 		},
 		reward = {},
@@ -6245,14 +6245,14 @@ achievement_tbl = {
 		group = "TAMING",
 		major = 3,
 		minor = 1,
-		title = "Loli Ruri: domesticaci√≥n",
+		title = "Loli Ruri: domesticaciÛn",
 		content = {
-			details = "Domestica a una Loli Ruri para que se convierta en tu mascota. Puedes domesticarla con ‚ÄúZumo muy rojo‚Äù.",
-			summary = "Domestica con √©xito a una Loli Ruri."
+			details = "Domestica a una Loli Ruri para que se convierta en tu mascota. Puedes domesticarla con ìZumo muy rojoî.",
+			summary = "Domestica con Èxito a una Loli Ruri."
 		},
 		resource = {
 			{
-				text = "Domestica con √©xito a una Loli Ruri."
+				text = "Domestica con Èxito a una Loli Ruri."
 			}
 		},
 		reward = {},
@@ -6263,23 +6263,23 @@ achievement_tbl = {
 		group = "GOAL_LEVEL",
 		major = 3,
 		minor = 1,
-		title = "L√≠der de la investigaci√≥n sobre los Poring",
+		title = "LÌder de la investigaciÛn sobre los Poring",
 		content = {
-			details = "Los Poring son criaturas enigm√°ticas que no son plantas ni animales. La mejor manera de conocerlos es observarlos en persona y experimentar c√≥mo son.",
+			details = "Los Poring son criaturas enigm·ticas que no son plantas ni animales. La mejor manera de conocerlos es observarlos en persona y experimentar cÛmo son.",
 			summary = "Completa todas las tareas objetivo."
 		},
 		resource = {
 			{
 				shortcut = 230201,
-				text = "Completa la tarea ‚ÄúInvestigaci√≥n sobre los Poring¬†(1)‚Äù."
+				text = "Completa la tarea ìInvestigaciÛn sobre los Poring†(1)î."
 			},
 			{
 				shortcut = 230202,
-				text = "Completa la tarea ‚ÄúInvestigaci√≥n sobre los Poring¬†(2)‚Äù."
+				text = "Completa la tarea ìInvestigaciÛn sobre los Poring†(2)î."
 			},
 			{
 				shortcut = 230203,
-				text = "Completa la tarea ‚ÄúInvestigaci√≥n sobre los Poring¬†(3)‚Äù."
+				text = "Completa la tarea ìInvestigaciÛn sobre los Poring†(3)î."
 			}
 		},
 		reward = {},
@@ -6290,31 +6290,31 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Investigaci√≥n sobre los Poring¬†(1)",
+		title = "InvestigaciÛn sobre los Poring†(1)",
 		content = {
-			details = "Sus caracter√≠sticas var√≠an mucho seg√∫n su h√°bitat. Son objetivos f√°ciles, as√≠ que rel√°jate y ve por ellos.",
+			details = "Sus caracterÌsticas varÌan mucho seg˙n su h·bitat. Son objetivos f·ciles, asÌ que rel·jate y ve por ellos.",
 			summary = "Caza a todos los objetivos."
 		},
 		resource = {
 			{
 				count = 10,
-				text = "Caza Poring 10¬†veces."
+				text = "Caza Poring 10†veces."
 			},
 			{
 				count = 10,
-				text = "Caza Peque√±os Poring 10¬†veces."
+				text = "Caza PequeÒos Poring 10†veces."
 			},
 			{
 				count = 10,
-				text = "Caza Drops 10¬†veces."
+				text = "Caza Drops 10†veces."
 			},
 			{
 				count = 10,
-				text = "Caza Poporing 10¬†veces."
+				text = "Caza Poporing 10†veces."
 			},
 			{
 				count = 10,
-				text = "Caza Marin 10¬†veces."
+				text = "Caza Marin 10†veces."
 			}
 		},
 		reward = {},
@@ -6325,31 +6325,31 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Investigaci√≥n sobre los Poring¬†(2)",
+		title = "InvestigaciÛn sobre los Poring†(2)",
 		content = {
-			details = "Tambi√©n hay Poring fuertes en el mundo. Experimenta qu√© tan fuertes son en realidad.",
+			details = "TambiÈn hay Poring fuertes en el mundo. Experimenta quÈ tan fuertes son en realidad.",
 			summary = "Caza a todos los objetivos."
 		},
 		resource = {
 			{
 				count = 1,
-				text = "Caza Mastering 1¬†vez."
+				text = "Caza Mastering 1†vez."
 			},
 			{
 				count = 1,
-				text = "Caza Deviling 1¬†vez."
+				text = "Caza Deviling 1†vez."
 			},
 			{
 				count = 1,
-				text = "Caza Angeling 1¬†vez."
+				text = "Caza Angeling 1†vez."
 			},
 			{
 				count = 1,
-				text = "Caza Archangeling 1¬†vez."
+				text = "Caza Archangeling 1†vez."
 			},
 			{
 				count = 1,
-				text = "Caza Ghostring 1¬†vez."
+				text = "Caza Ghostring 1†vez."
 			}
 		},
 		reward = {},
@@ -6360,23 +6360,23 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 3,
 		minor = 1,
-		title = "Investigaci√≥n sobre los Poring¬†(3)",
+		title = "InvestigaciÛn sobre los Poring†(3)",
 		content = {
-			details = "Algunos Poring tienen caracter√≠sticas que se desv√≠an significativamente de la norma. Requieren una investigaci√≥n continua.",
+			details = "Algunos Poring tienen caracterÌsticas que se desvÌan significativamente de la norma. Requieren una investigaciÛn continua.",
 			summary = "Caza a todos los objetivos."
 		},
 		resource = {
 			{
 				count = 5,
-				text = "Caza Metaling 5¬†veces."
+				text = "Caza Metaling 5†veces."
 			},
 			{
 				count = 5,
-				text = "Caza Metaling pesado 5¬†veces."
+				text = "Caza Metaling pesado 5†veces."
 			},
 			{
 				count = 5,
-				text = "Caza Magmaring 5¬†veces."
+				text = "Caza Magmaring 5†veces."
 			}
 		},
 		reward = {},
@@ -6387,14 +6387,14 @@ achievement_tbl = {
 		group = "GOAL_LEVEL",
 		major = 6,
 		minor = 0,
-		title = "Primer inicio de sesi√≥n despu√©s de la introducci√≥n de las tareas de logros",
+		title = "Primer inicio de sesiÛn despuÈs de la introducciÛn de las tareas de logros",
 		content = {
-			details = "Conmemora el primer inicio de sesi√≥n despu√©s de la introducci√≥n del sistema de tareas de logros.",
-			summary = "Primer inicio de sesi√≥n despu√©s de la introducci√≥n del sistema de tareas de logros."
+			details = "Conmemora el primer inicio de sesiÛn despuÈs de la introducciÛn del sistema de tareas de logros.",
+			summary = "Primer inicio de sesiÛn despuÈs de la introducciÛn del sistema de tareas de logros."
 		},
 		resource = {
 			{
-				text = "Primer inicio de sesi√≥n despu√©s de la introducci√≥n del sistema de tareas de logros."
+				text = "Primer inicio de sesiÛn despuÈs de la introducciÛn del sistema de tareas de logros."
 			}
 		},
 		reward = {},
@@ -6405,14 +6405,14 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Alcanza el nivel de logro¬†1",
+		title = "Alcanza el nivel de logro†1",
 		content = {
-			details = "Alcanza el nivel de logro¬†1.",
-			summary = "Alcanza el nivel de logro¬†1."
+			details = "Alcanza el nivel de logro†1.",
+			summary = "Alcanza el nivel de logro†1."
 		},
 		resource = {
 			{
-				text = "Alcanza el nivel de logro¬†1."
+				text = "Alcanza el nivel de logro†1."
 			}
 		},
 		reward = {buff = 12, item = 644},
@@ -6423,14 +6423,14 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Alcanza el nivel de logro¬†2",
+		title = "Alcanza el nivel de logro†2",
 		content = {
-			details = "Alcanza el nivel de logro¬†2.",
-			summary = "Alcanza el nivel de logro¬†2."
+			details = "Alcanza el nivel de logro†2.",
+			summary = "Alcanza el nivel de logro†2."
 		},
 		resource = {
 			{
-				text = "Alcanza el nivel de logro¬†2."
+				text = "Alcanza el nivel de logro†2."
 			}
 		},
 		reward = {buff = 12, item = 644},
@@ -6441,14 +6441,14 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Alcanza el nivel de logro¬†3",
+		title = "Alcanza el nivel de logro†3",
 		content = {
-			details = "Alcanza el nivel de logro¬†3.",
-			summary = "Alcanza el nivel de logro¬†3."
+			details = "Alcanza el nivel de logro†3.",
+			summary = "Alcanza el nivel de logro†3."
 		},
 		resource = {
 			{
-				text = "Alcanza el nivel de logro¬†3."
+				text = "Alcanza el nivel de logro†3."
 			}
 		},
 		reward = {buff = 12, item = 644},
@@ -6459,14 +6459,14 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Alcanza el nivel de logro¬†4",
+		title = "Alcanza el nivel de logro†4",
 		content = {
-			details = "Alcanza el nivel de logro¬†4.",
-			summary = "Alcanza el nivel de logro¬†4."
+			details = "Alcanza el nivel de logro†4.",
+			summary = "Alcanza el nivel de logro†4."
 		},
 		resource = {
 			{
-				text = "Alcanza el nivel de logro¬†4."
+				text = "Alcanza el nivel de logro†4."
 			}
 		},
 		reward = {buff = 12, item = 644},
@@ -6477,14 +6477,14 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Alcanza el nivel de logro¬†5",
+		title = "Alcanza el nivel de logro†5",
 		content = {
-			details = "Alcanza el nivel de logro¬†5.",
-			summary = "Alcanza el nivel de logro¬†5."
+			details = "Alcanza el nivel de logro†5.",
+			summary = "Alcanza el nivel de logro†5."
 		},
 		resource = {
 			{
-				text = "Alcanza el nivel de logro¬†5."
+				text = "Alcanza el nivel de logro†5."
 			}
 		},
 		reward = {buff = 12, item = 644},
@@ -6495,14 +6495,14 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Alcanza el nivel de logro¬†6",
+		title = "Alcanza el nivel de logro†6",
 		content = {
-			details = "Alcanza el nivel de logro¬†6.",
-			summary = "Alcanza el nivel de logro¬†6."
+			details = "Alcanza el nivel de logro†6.",
+			summary = "Alcanza el nivel de logro†6."
 		},
 		resource = {
 			{
-				text = "Alcanza el nivel de logro¬†6."
+				text = "Alcanza el nivel de logro†6."
 			}
 		},
 		reward = {buff = 12, item = 644},
@@ -6513,14 +6513,14 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Alcanza el nivel de logro¬†7",
+		title = "Alcanza el nivel de logro†7",
 		content = {
-			details = "Alcanza el nivel de logro¬†7.",
-			summary = "Alcanza el nivel de logro¬†7."
+			details = "Alcanza el nivel de logro†7.",
+			summary = "Alcanza el nivel de logro†7."
 		},
 		resource = {
 			{
-				text = "Alcanza el nivel de logro¬†7."
+				text = "Alcanza el nivel de logro†7."
 			}
 		},
 		reward = {buff = 12, item = 644},
@@ -6531,14 +6531,14 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Alcanza el nivel de logro¬†8",
+		title = "Alcanza el nivel de logro†8",
 		content = {
-			details = "Alcanza el nivel de logro¬†8.",
-			summary = "Alcanza el nivel de logro¬†8."
+			details = "Alcanza el nivel de logro†8.",
+			summary = "Alcanza el nivel de logro†8."
 		},
 		resource = {
 			{
-				text = "Alcanza el nivel de logro¬†8."
+				text = "Alcanza el nivel de logro†8."
 			}
 		},
 		reward = {buff = 12, item = 644},
@@ -6549,14 +6549,14 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Alcanza el nivel de logro¬†9",
+		title = "Alcanza el nivel de logro†9",
 		content = {
-			details = "Alcanza el nivel de logro¬†9.",
-			summary = "Alcanza el nivel de logro¬†9."
+			details = "Alcanza el nivel de logro†9.",
+			summary = "Alcanza el nivel de logro†9."
 		},
 		resource = {
 			{
-				text = "Alcanza el nivel de logro¬†9."
+				text = "Alcanza el nivel de logro†9."
 			}
 		},
 		reward = {buff = 12, item = 644},
@@ -6567,14 +6567,14 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Alcanza el nivel de logro¬†10",
+		title = "Alcanza el nivel de logro†10",
 		content = {
-			details = "Alcanza el nivel de logro¬†10. Puedes recibir un t√≠tulo por tus esfuerzos.",
-			summary = "Alcanza el nivel de logro¬†10."
+			details = "Alcanza el nivel de logro†10. Puedes recibir un tÌtulo por tus esfuerzos.",
+			summary = "Alcanza el nivel de logro†10."
 		},
 		resource = {
 			{
-				text = "Alcanza el nivel de logro¬†10."
+				text = "Alcanza el nivel de logro†10."
 			}
 		},
 		reward = {
@@ -6589,14 +6589,14 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Alcanza el nivel de logro¬†11",
+		title = "Alcanza el nivel de logro†11",
 		content = {
-			details = "Alcanza el nivel de logro¬†11.",
-			summary = "Alcanza el nivel de logro¬†11."
+			details = "Alcanza el nivel de logro†11.",
+			summary = "Alcanza el nivel de logro†11."
 		},
 		resource = {
 			{
-				text = "Alcanza el nivel de logro¬†11."
+				text = "Alcanza el nivel de logro†11."
 			}
 		},
 		reward = {buff = 12, item = 644},
@@ -6607,14 +6607,14 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Alcanza el nivel de logro¬†12",
+		title = "Alcanza el nivel de logro†12",
 		content = {
-			details = "Alcanza el nivel de logro¬†12.",
-			summary = "Alcanza el nivel de logro¬†12."
+			details = "Alcanza el nivel de logro†12.",
+			summary = "Alcanza el nivel de logro†12."
 		},
 		resource = {
 			{
-				text = "Alcanza el nivel de logro¬†12."
+				text = "Alcanza el nivel de logro†12."
 			}
 		},
 		reward = {buff = 12, item = 644},
@@ -6625,14 +6625,14 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Alcanza el nivel de logro¬†13",
+		title = "Alcanza el nivel de logro†13",
 		content = {
-			details = "Alcanza el nivel de logro¬†13.",
-			summary = "Alcanza el nivel de logro¬†13."
+			details = "Alcanza el nivel de logro†13.",
+			summary = "Alcanza el nivel de logro†13."
 		},
 		resource = {
 			{
-				text = "Alcanza el nivel de logro¬†13."
+				text = "Alcanza el nivel de logro†13."
 			}
 		},
 		reward = {buff = 12, item = 644},
@@ -6643,14 +6643,14 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Alcanza el nivel de logro¬†14",
+		title = "Alcanza el nivel de logro†14",
 		content = {
-			details = "Alcanza el nivel de logro¬†14.",
-			summary = "Alcanza el nivel de logro¬†14."
+			details = "Alcanza el nivel de logro†14.",
+			summary = "Alcanza el nivel de logro†14."
 		},
 		resource = {
 			{
-				text = "Alcanza el nivel de logro¬†14."
+				text = "Alcanza el nivel de logro†14."
 			}
 		},
 		reward = {buff = 12, item = 644},
@@ -6661,14 +6661,14 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Alcanza el nivel de logro¬†15",
+		title = "Alcanza el nivel de logro†15",
 		content = {
-			details = "Alcanza el nivel de logro¬†15.",
-			summary = "Alcanza el nivel de logro¬†15."
+			details = "Alcanza el nivel de logro†15.",
+			summary = "Alcanza el nivel de logro†15."
 		},
 		resource = {
 			{
-				text = "Alcanza el nivel de logro¬†15."
+				text = "Alcanza el nivel de logro†15."
 			}
 		},
 		reward = {buff = 12, item = 644},
@@ -6679,14 +6679,14 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Alcanza el nivel de logro¬†16",
+		title = "Alcanza el nivel de logro†16",
 		content = {
-			details = "Alcanza el nivel de logro¬†16.",
-			summary = "Alcanza el nivel de logro¬†16."
+			details = "Alcanza el nivel de logro†16.",
+			summary = "Alcanza el nivel de logro†16."
 		},
 		resource = {
 			{
-				text = "Alcanza el nivel de logro¬†16."
+				text = "Alcanza el nivel de logro†16."
 			}
 		},
 		reward = {buff = 12, item = 644},
@@ -6697,14 +6697,14 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Alcanza el nivel de logro¬†17",
+		title = "Alcanza el nivel de logro†17",
 		content = {
-			details = "Alcanza el nivel de logro¬†17.",
-			summary = "Alcanza el nivel de logro¬†17."
+			details = "Alcanza el nivel de logro†17.",
+			summary = "Alcanza el nivel de logro†17."
 		},
 		resource = {
 			{
-				text = "Alcanza el nivel de logro¬†17."
+				text = "Alcanza el nivel de logro†17."
 			}
 		},
 		reward = {buff = 12, item = 644},
@@ -6715,14 +6715,14 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Alcanza el nivel de logro¬†18",
+		title = "Alcanza el nivel de logro†18",
 		content = {
-			details = "Alcanza el nivel de logro¬†18.",
-			summary = "Alcanza el nivel de logro¬†18."
+			details = "Alcanza el nivel de logro†18.",
+			summary = "Alcanza el nivel de logro†18."
 		},
 		resource = {
 			{
-				text = "Alcanza el nivel de logro¬†18."
+				text = "Alcanza el nivel de logro†18."
 			}
 		},
 		reward = {buff = 12, item = 644},
@@ -6733,14 +6733,14 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Alcanza el nivel de logro¬†19",
+		title = "Alcanza el nivel de logro†19",
 		content = {
-			details = "Alcanza el nivel de logro¬†19.",
-			summary = "Alcanza el nivel de logro¬†19."
+			details = "Alcanza el nivel de logro†19.",
+			summary = "Alcanza el nivel de logro†19."
 		},
 		resource = {
 			{
-				text = "Alcanza el nivel de logro¬†19."
+				text = "Alcanza el nivel de logro†19."
 			}
 		},
 		reward = {buff = 12, item = 644},
@@ -6751,14 +6751,14 @@ achievement_tbl = {
 		group = "GOAL_ACHIEVE",
 		major = 6,
 		minor = 0,
-		title = "Alcanza el nivel de logro¬†20",
+		title = "Alcanza el nivel de logro†20",
 		content = {
-			details = "Alcanza el nivel de logro¬†20. Puedes recibir un t√≠tulo por tus esfuerzos.",
-			summary = "Alcanza el nivel de logro¬†20."
+			details = "Alcanza el nivel de logro†20. Puedes recibir un tÌtulo por tus esfuerzos.",
+			summary = "Alcanza el nivel de logro†20."
 		},
 		resource = {
 			{
-				text = "Alcanza el nivel de logro¬†20."
+				text = "Alcanza el nivel de logro†20."
 			}
 		},
 		reward = {
@@ -6828,7 +6828,7 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 0,
-		title = "Demuestra al Capit√°n Qui√©n Manda",
+		title = "Demuestra al Capit·n QuiÈn Manda",
 		content = {
 			summary = "Derrota a Pherlock",
 			details = "Completa la Mazmorra Conmemorativa hasta el final."
@@ -6847,7 +6847,7 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 0,
-		title = "Demuestra al Capit√°n D√©bil Qui√©n Manda",
+		title = "Demuestra al Capit·n DÈbil QuiÈn Manda",
 		content = {
 			summary = "Derrota a Pherlock",
 			details = "Completa la Mazmorra Conmemorativa hasta el final."
@@ -6866,7 +6866,7 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 0,
-		title = "Mot√≠n a Bordo",
+		title = "MotÌn a Bordo",
 		content = {
 			summary = "Derrota a Pherlock",
 			details = "Completa la Mazmorra Conmemorativa hasta el final."
@@ -6904,7 +6904,7 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 0,
-		title = "Rebeli√≥n a Bordo",
+		title = "RebeliÛn a Bordo",
 		content = {
 			summary = "Derrota a Pherlock",
 			details = "Completa la Mazmorra Conmemorativa hasta el final."
@@ -6923,7 +6923,7 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 0,
-		title = "Mot√≠n como una Rebeli√≥n",
+		title = "MotÌn como una RebeliÛn",
 		content = {
 			summary = "Derrota a Pherlock",
 			details = "Completa la Mazmorra Conmemorativa hasta el final."
@@ -7001,12 +7001,12 @@ achievement_tbl = {
 		minor = 0,
 		title = "El que hizo al rey",
 		content = {
-			summary = "Mi rey, hecho por m√≠",
+			summary = "Mi rey, hecho por mÌ",
 			details = "Recupera la gloria de Terra Gloria y corona al protagonista de esa gloria."
 		},
 		resource = {
 			[1] = {
-				text = "Asiste a la ceremonia de coronaci√≥n en la que nace el nuevo rey de Rune-Midgarts."
+				text = "Asiste a la ceremonia de coronaciÛn en la que nace el nuevo rey de Rune-Midgarts."
 			}
 		},
 		reward = {title = 1046},
@@ -7017,9 +7017,9 @@ achievement_tbl = {
 		group = "GOAL_LEVEL",
 		major = 1,
 		minor = 0,
-		title = "¬°El Comienzo de Otra Aventura!",
+		title = "°El Comienzo de Otra Aventura!",
 		content = {
-			summary = "¬°Alcanza el Nivel Base 100!",
+			summary = "°Alcanza el Nivel Base 100!",
 			details = "Alcanza el Nivel Base 100."
 		},
 		resource = {
@@ -7035,9 +7035,9 @@ achievement_tbl = {
 		group = "GOAL_LEVEL",
 		major = 1,
 		minor = 0,
-		title = "¬°Con una Nueva Mentalidad! (1)",
+		title = "°Con una Nueva Mentalidad! (1)",
 		content = {
-			summary = "¬°Alcanza el Nivel Base 170 como Clase 3-1!",
+			summary = "°Alcanza el Nivel Base 170 como Clase 3-1!",
 			details = "Alcanza el Nivel Base 170 con una Clase 3-1."
 		},
 		resource = {
@@ -7053,9 +7053,9 @@ achievement_tbl = {
 		group = "GOAL_LEVEL",
 		major = 1,
 		minor = 0,
-		title = "¬°Con una Nueva Mentalidad! (2)",
+		title = "°Con una Nueva Mentalidad! (2)",
 		content = {
-			summary = "¬°Alcanza el Nivel Base 170 como Clase 3-2!",
+			summary = "°Alcanza el Nivel Base 170 como Clase 3-2!",
 			details = "Alcanza el Nivel Base 170 con una Clase 3-2."
 		},
 		resource = {
@@ -7071,9 +7071,9 @@ achievement_tbl = {
 		group = "GOAL_LEVEL",
 		major = 1,
 		minor = 0,
-		title = "¬°Alcanza el Nivel 200!",
+		title = "°Alcanza el Nivel 200!",
 		content = {
-			summary = "¬°Alcanza el Nivel Base 200!",
+			summary = "°Alcanza el Nivel Base 200!",
 			details = "Alcanza el Nivel Base 200."
 		},
 		resource = {
@@ -7091,7 +7091,7 @@ achievement_tbl = {
 		minor = 1,
 		title = "Fama en Prontera",
 		content = {
-			summary = "Uni√≥n de las Ciudades",
+			summary = "UniÛn de las Ciudades",
 			details = "Tu Fama en Prontera"
 		},
 		resource = {
@@ -7116,7 +7116,7 @@ achievement_tbl = {
 		minor = 1,
 		title = "Fama en Geffen",
 		content = {
-			summary = "Uni√≥n de las Ciudades",
+			summary = "UniÛn de las Ciudades",
 			details = "Tu Fama en Geffen"
 		},
 		resource = {
@@ -7141,7 +7141,7 @@ achievement_tbl = {
 		minor = 1,
 		title = "Fama en Morroc",
 		content = {
-			summary = "Uni√≥n de las Ciudades",
+			summary = "UniÛn de las Ciudades",
 			details = "Tu Fama en Morroc"
 		},
 		resource = {
@@ -7166,7 +7166,7 @@ achievement_tbl = {
 		minor = 1,
 		title = "Fama en Payon",
 		content = {
-			summary = "Uni√≥n de las Ciudades",
+			summary = "UniÛn de las Ciudades",
 			details = "Tu Fama en Payon"
 		},
 		resource = {
@@ -7191,7 +7191,7 @@ achievement_tbl = {
 		minor = 1,
 		title = "Fama en Juno",
 		content = {
-			summary = "Uni√≥n de las Ciudades",
+			summary = "UniÛn de las Ciudades",
 			details = "Tu Fama en Juno"
 		},
 		resource = {
@@ -7216,7 +7216,7 @@ achievement_tbl = {
 		minor = 1,
 		title = "Fama en Lighthalzen",
 		content = {
-			summary = "Uni√≥n de las Ciudades",
+			summary = "UniÛn de las Ciudades",
 			details = "Tu Fama en Lighthalzen"
 		},
 		resource = {
@@ -7241,7 +7241,7 @@ achievement_tbl = {
 		minor = 1,
 		title = "Fama en Einbroch",
 		content = {
-			summary = "Uni√≥n de las Ciudades",
+			summary = "UniÛn de las Ciudades",
 			details = "Tu Fama en Einbroch"
 		},
 		resource = {
@@ -7266,7 +7266,7 @@ achievement_tbl = {
 		minor = 1,
 		title = "Fama en Rachel",
 		content = {
-			summary = "Uni√≥n de las Ciudades",
+			summary = "UniÛn de las Ciudades",
 			details = "Tu Fama en Rachel"
 		},
 		resource = {
@@ -7291,7 +7291,7 @@ achievement_tbl = {
 		minor = 1,
 		title = "Fama en Veins",
 		content = {
-			summary = "Uni√≥n de las Ciudades",
+			summary = "UniÛn de las Ciudades",
 			details = "Tu Fama en Veins"
 		},
 		resource = {
@@ -7314,10 +7314,10 @@ achievement_tbl = {
 		group = "CHATTING",
 		major = 4,
 		minor = 1,
-		title = "Uni√≥n de las Ciudades",
+		title = "UniÛn de las Ciudades",
 		content = {
-			summary = "Contribuciones al Uni√≥n",
-			details = "¬øQuieres desafiar a todas las ciudades? ¬°Los gremistas trabajan duro! ¬°Trabajar en el Uni√≥n no es tan f√°cil!"
+			summary = "Contribuciones al UniÛn",
+			details = "øQuieres desafiar a todas las ciudades? °Los gremistas trabajan duro! °Trabajar en el UniÛn no es tan f·cil!"
 		},
 		resource = {
 			[1] = {
@@ -7345,14 +7345,14 @@ achievement_tbl = {
 		group = "BATTLE",
 		major = 5,
 		minor = 0,
-		title = "Modo Desaf√≠o de Glast Heim",
+		title = "Modo DesafÌo de Glast Heim",
 		content = {
-			summary = "Completar Modo Desaf√≠o de Glast Heim",
+			summary = "Completar Modo DesafÌo de Glast Heim",
 			details = "Completar la memoria hasta el final"
 		},
 		resource = {
 			[1] = {
-				text = "N√∫mero de desaf√≠os completados con √©xito",
+				text = "N˙mero de desafÌos completados con Èxito",
 				count = 100
 			}
 		},

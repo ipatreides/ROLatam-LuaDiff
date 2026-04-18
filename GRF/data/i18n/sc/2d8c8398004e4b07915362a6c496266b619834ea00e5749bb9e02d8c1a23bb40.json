@@ -2057,5 +2057,20 @@
         "en": "Wanderer Maestro Stone II({0}left)",
         "pt": "Pedra de Músicos II (Capa) ({0} un)",
         "es": "Piedra de Músicos II (Capa) ({0} un)"
+    },
+    "XGXDCQ": {
+        "en": "Range Stone({0}left)"
+    },
+    "XWXDCQ": {
+        "en": "Melee Stone({0}left)"
+    },
+    "XmXDCQ": {
+        "en": "Melee Stone({0}left)"
+    },
+    "X2XDCQ": {
+        "en": "Range Stone({0}left)"
+    },
+    "YGXDCQ": {
+        "en": "Melee Stone({0}left)"
     }
 }

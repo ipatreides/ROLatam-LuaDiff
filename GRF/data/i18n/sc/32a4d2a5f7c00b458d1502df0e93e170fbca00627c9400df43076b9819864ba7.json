@@ -1,0 +1,866 @@
+{
+    "YOyIDA": {
+        "ko": "역사학자",
+        "en": "Historian",
+        "pt": "Historiador",
+        "es": "Historiador"
+    },
+    "YeyIDA": {
+        "ko": "원더러",
+        "en": "Wanderer",
+        "pt": "Wanderer",
+        "es": "Wanderer"
+    },
+    "YuyIDA": {
+        "ko": "민스트럴",
+        "en": "minstrel",
+        "pt": "Minstrel",
+        "es": "Minstrel"
+    },
+    "Y+yIDA": {
+        "ko": "[역사학자]\n후, 어쩐다- 지금이라도 연락을 해서 부르면... 급하다고 아무나 부를 수는 없는데. 어떻게든 한 명이라도...",
+        "en": "[Historian]\nWell, what to do—if I call someone now... I can't just call anyone because it's urgent. Somehow, even if it's just one person...",
+        "pt": "[Historiador]\nUfa, o que fazer... Se eu ligasse agora pra chamar alguém... Não dá pra chamar qualquer um só porque tá urgente. De alguma forma, pelo menos uma pessoa...",
+        "es": "[Historiador]\nUf, ¿qué hago? Si llamo ahora mismo... No puedo llamar a cualquiera porque sea urgente. De alguna manera, aunque sea a uno solo..."
+    },
+    "ZOyIDA": {
+        "ko": "[역사학자]\n어디서 짠! 하고 실력자 안 떨어지나... 는! 없었는데 있었습니다!!!",
+        "en": "[Historian]\nWhere'd they come from?! No skilled person dropped in... Wait! There wasn't one... but there was!!!",
+        "pt": "[Historiador]\nSerá que não aparece um especialista de repente...! Não tinha, mas tinha!!!",
+        "es": "[Historiador]\n¿No aparecerá por algún lado un experto de repente...? ¡No había ninguno, pero sí había uno!!!"
+    },
+    "ZeyIDA": {
+        "ko": "[역사학자]\n거기 {0}님! 저 좀 보세요! 여기까지 어떻게 오셨어요?",
+        "en": "[Historian]\nHey, {0}! Look at me! How did you get all the way here?",
+        "pt": "[Historiador]\nEi, {0}! Olha pra mim! Como você chegou até aqui?",
+        "es": "[Historiador]\n¡Oye, {0}! ¡Mírame! ¿Cómo llegaste hasta aquí?"
+    },
+    "ZuyIDA": {
+        "ko": "신축 공연장 구경하러요.",
+        "en": "To see the new performance hall.",
+        "pt": "Vim dar uma olhada no novo teatro.",
+        "es": "Vine a ver el nuevo teatro."
+    },
+    "Z+yIDA": {
+        "ko": "[역사학자]\n에이, 소문 듣고 오셨구나. 우연이었으면 정말 운명이었을 텐데. 아, 제 이름은 헤렌입니다. 민속 역사학자죠. 수상한 사람 아닙니다. 저기 이러지 말고 일단 들어가시죠.",
+        "en": "[Historian]\nOh, so you heard the rumors and came. If it had been a coincidence, it really would have been fate. Ah, my name is Herren. I'm a folklore historian. I'm not a suspicious person. Stop standing there like that and come inside first.",
+        "pt": "[Historiador]\nAh, você veio por causa dos rumores, né? Se fosse por acaso, teria sido mesmo o destino. Ah, meu nome é Heren. Sou historiador folclórico. Não sou ninguém suspeito. Não fique aí parado, vamos entrar primeiro.",
+        "es": "[Historiador]\nAy, así que viniste por los rumores. Si hubiera sido una coincidencia, habría sido realmente el destino. Ah, me llamo Heren. Soy historiador folclórico. No soy una persona sospechosa. No te quedes ahí así, mejor entramos primero."
+    },
+    "aOyIDA": {
+        "ko": "어, 어딜요?",
+        "en": "Uh, where?",
+        "pt": "Ah, para onde?",
+        "es": "Eh, ¿adónde?"
+    },
+    "aeyIDA": {
+        "ko": "[역사학자]\n공연장 보러 오셨죠? 여기는 위험하니까 일단 지하로 내려가요.",
+        "en": "[Historian]\nYou came to see the performance, right? It's dangerous up here, so let's go down to the basement first.",
+        "pt": "[Historiador]\nVocê veio ver a sala de espetáculos, não é? Aqui é perigoso, então vamos descer para o subsolo primeiro.",
+        "es": "[Historiador]\nHas venido a ver el teatro, ¿no? Esto es peligroso, así que primero bajemos al sótano."
+    },
+    "auyIDA": {
+        "ko": "[역사학자]\n빠른 시간 안에 다 모아오셨군요. 어서 들어가시죠. 급해요.",
+        "en": "[Historian]\nYou gathered everyone quickly. Hurry inside. It's urgent.",
+        "pt": "[Historiador]\nVocê reuniu todo mundo rapidinho, hein? Vamos entrar logo. É urgente.",
+        "es": "[Historiador]\nYa reuniste a todos en poco tiempo. Entra rápido. Es urgente."
+    },
+    "a+yIDA": {
+        "ko": "[역사학자]\n세상의 부식을 막은 영웅을 위한 노래를 만들고 있어요. 크바시르의 함은 재단장을 한 뒤 공개 할 것 같아요.",
+        "en": "[Historian]\nWe're composing a song for the hero who stopped the world's decay. Kvasir's Ark will likely be unveiled after its refurbishment.",
+        "pt": "[Historiadora]\nEstou compondo uma canção para o herói que impediu a deterioração do mundo. A arca de Kvasir deve ser restaurada e depois exibida ao público.",
+        "es": "[Historiador]\nEstoy componiendo una canción para el héroe que detuvo la descomposición del mundo. Creo que el arca de Kvasir se va a renovar y luego se va a exhibir al público."
+    },
+    "bOyIDA": {
+        "ko": "[역사학자]\n일은 다 마치셨어요? 그럼 지하로 내려가요.",
+        "en": "[Historian]\nFinished your work? Then let's head down to the underground.",
+        "pt": "[Historiador]\nJá terminou tudo? Então vamos para o subsolo.",
+        "es": "[Historiador]\n¿Ya terminaste todo? Entonces bajemos al subsuelo."
+    },
+    "beyIDA": {
+        "ko": "[역사학자]\n후, 어쩐다- 지금이라도 연락을 해서 부르면...",
+        "en": "[Historian]\nWell, what should I do—if I contact them now and ask them to come...",
+        "pt": "[Historiador]\nUfa, o que fazer... Se eu ligasse pra ele agora...",
+        "es": "[Historiador]\nUf, qué lío... Si lo llamo ahora mismo..."
+    },
+    "buyIDA": {
+        "ko": "단장",
+        "en": "Team Leader",
+        "pt": "Chefe",
+        "es": "Capitán"
+    },
+    "b+yIDA": {
+        "ko": "[단장]\n첫 삽을 뜨자마자 이게 뭔가! 어떻게 좀 해 보게. 손 놓고 있은지가 대체 얼마야?",
+        "en": "[Team Leader]\nWhat the hell is this right after breaking ground! Do something about it. How long have you been sitting around doing nothing?",
+        "pt": "[Diretor]\nMal dei a primeira pá e já vejo isso! Faz algo a respeito. Há quanto tempo vocês estão de braços cruzados?",
+        "es": "[Jefe de obra]\n¡Qué es esto nada más dar la primera palada! Haz algo al respecto. ¿Cuánto tiempo llevas sin hacer nada?"
+    },
+    "cOyIDA": {
+        "ko": "[일꾼]\n어떻게 하고는 싶어도 우리의 직업이 공연자가 아니고 공연장을 짓는 사람인 이상 뭘 할 수가 없는뎁쇼.",
+        "en": "[Worker]\nEven if we wanted to do something, our job isn't performers—we're the ones building the venue. There's nothing we can do about it.",
+        "pt": "[Trabalhador]\nPor mais que eu queira fazer alguma coisa, já que nosso trabalho não é ser artista, mas sim construir o teatro, não dá pra fazer nada, né?",
+        "es": "[Obrero]\nAunque quisiera hacer algo, como nuestro trabajo no es ser artistas, sino construir el teatro, no hay nada que podamos hacer."
+    },
+    "ceyIDA": {
+        "ko": "[일꾼]\n제가 이제부터라도 원더러를 목표로 연습을 한다쳐도 되겠어요, 그게?",
+        "en": "[Worker]\nEven if I start practicing now with the goal of becoming a Wonderer, is that okay?",
+        "pt": "[Trabalhador]\nE se eu começar a treinar agora com o objetivo de me tornar um Wanderer, tá bom?",
+        "es": "[Obrero]\n¿Podría empezar a practicar para convertirme en un Wanderer a partir de ahora, o qué?"
+    },
+    "cuyIDA": {
+        "ko": "[일꾼]\n먼저 무너진 곳이라도 메우고 다시 재개하면 되잖나.",
+        "en": "[Worker]\nWe can just fill in the collapsed areas first and restart, right?",
+        "pt": "[Trabalhador]\nPodemos pelo menos tapar o que desabou e recomeçar, não é?",
+        "es": "[Obrero]\nPrimero podríamos rellenar las partes que se derrumbaron y volver a empezar, ¿no?"
+    },
+    "c+yIDA": {
+        "ko": "[역사학자]\n내가 이럴 줄 알았어, 내가. 그건 안되죠. 저걸 다시 채우지 않으면 공연장이 무너진 정도는 걱정도 아니게 될 거라고 했잖아요. 세계가 무너진다니까는.",
+        "en": "[Historian]\nI knew this would happen. That won't do. I told you that if we don't fill that gap, the collapse of the theater won't even be the main concern. The world will collapse.",
+        "pt": "[Historiador]\nEu sabia que ia ser assim. Isso não dá. Eu disse que, se não preenchermos aquilo, o colapso do teatro nem vai parecer nada. O mundo vai desabar, eu disse.",
+        "es": "[Historiador]\nMe lo imaginaba, yo. Eso no puede ser. Ya te dije que si no rellenamos eso, el derrumbe del teatro no será nada comparado con lo que vendrá. Dije que el mundo se derrumbará."
+    },
+    "dOyIDA": {
+        "ko": "[단장]\n{0}? 뒤에 계신 그분은 누구신가? 오늘 운세에 빛이 번쩍번쩍 나는 귀인이 나타날 거라더니 우리를 도와주실 귀한 분이신가?",
+        "en": "[Director]\n{0}? Who is that person behind you? Today's fortune said a noble person with a bright, shining aura would appear—could this be the precious person who will help us?",
+        "pt": "[Diretor]\n{0}? Quem é aquela pessoa aí atrás? Diziam que hoje apareceria uma pessoa importante cuja sorte brilharia intensamente. Será que é essa pessoa preciosa que vai nos ajudar?",
+        "es": "[Director]\n¿{0}? ¿Quién es esa persona que está ahí atrás? Decían que hoy aparecería un benefactor con una suerte brillante, ¿es esa persona tan valiosa la que nos va a ayudar?"
+    },
+    "deyIDA": {
+        "ko": "이게 다 무슨 일이죠?",
+        "en": "What on earth is going on?",
+        "pt": "O que está acontecendo aqui?",
+        "es": "¿Qué está pasando aquí?"
+    },
+    "duyIDA": {
+        "ko": "[역사학자]\n아, 공연장 보러 오셨다고 했죠? 보다시피 이렇습니다. 그래서 모험가님의 도움이 좀 필요한 상황입니다.",
+        "en": "[Historian]\nAh, you said you came to see the performance? As you can see, this is the situation. That's why we need the adventurer's help.",
+        "pt": "[Historiador]\nAh, você disse que veio ver o teatro, não é? Como você pode ver, a situação está assim. Por isso, precisamos da ajuda do aventureiro.",
+        "es": "[Historiador]\nAh, ¿dijiste que venías a ver el teatro? Como ves, la situación es esta. Por eso necesitamos un poco de ayuda de tu parte, aventurero."
+    },
+    "d+yIDA": {
+        "ko": "왜... 난데없이 난데요?",
+        "en": "Why... out of nowhere?",
+        "pt": "Por que... de repente, isso?",
+        "es": "¿Por qué... me toca a mí, de repente?"
+    },
+    "eOyIDA": {
+        "ko": "[역사학자]\n당황스러우시죠? 그렇지만 일을 해결할 수 있는 건 숙련된 아티스트인 모험가님뿐입니다. 저희를 도와주세요.",
+        "en": "[Historian]\nYou're flustered, aren't you? But the only one who can resolve this is you, the skilled artist adventurer. Please help us.",
+        "pt": "[Historiador]\nVocê deve estar surpreso, não é? Mas o único que pode resolver isso é você, um artista experiente. Por favor, nos ajude.",
+        "es": "[Historiador]\n¿Te sientes desconcertado? Pero el único que puede resolver esto es un artista experto como tú, aventurero. Ayúdanos, por favor."
+    },
+    "eeyIDA": {
+        "ko": "[단장]\n그건 내가 설명해 주겠네. 이곳은 원래 ^0000CD오딘을 위한 제^000000를 올리던 곳이었다네. 당연히 제에는 뛰어난 예술가들이 거쳐갔지. 나는 그 기록에 착안했네.",
+        "en": "[Captain]\nI'll explain. This place was originally where ^0000CDOdin's ^000000 was offered. Naturally, exceptional artists passed through to create the offerings. I drew inspiration from those records.",
+        "pt": "[Diretor]\nVou te explicar isso. Este lugar era originalmente onde se realizavam ^0000CDrituais em homenagem a Odin. É claro que artistas excepcionais passaram por esses rituais. Eu me inspirei nesses registros.",
+        "es": "[Director]\nYo te lo explicaré. Este lugar era originalmente donde se realizaban los rituales para ^0000CDOdín. Por supuesto, por aquí pasaron artistas excepcionales. Me inspiré en esos registros."
+    },
+    "euyIDA": {
+        "ko": "[단장]\n이곳에 고대와 현대를 이어 시간의 흐름마저 잊게 만드는 공연을 할 수 있는 ^0000CD공연장을 세우기로^000000. 당연히 그에 걸맞는 최고의 예술가를 무대에 세울 예정이었다네.",
+        "en": "[Director]\nWe decided to build a ^0000CDperformance hall here, one capable of staging shows that bridge ancient and modern times, making even the flow of time itself forgotten. Naturally, we planned to put the finest artists worthy of such a stage upon it.",
+        "pt": "[Diretor]\nDecidi construir aqui um ^0000CDteatro capaz de realizar espetáculos que unissem a antiguidade e a modernidade, a ponto de fazer esquecer até mesmo o passar do tempo. É claro que planejava colocar no palco os melhores artistas, à altura desse projeto.",
+        "es": "[Director]\nDecidimos construir aquí un ^0000CDteatro capaz de unir la antigüedad con la modernidad y hacer que el público se olvide del paso del tiempo. Por supuesto, teníamos previsto llevar al escenario a los mejores artistas, a la altura de este lugar."
+    },
+    "e+yIDA": {
+        "ko": "[단장]\n그런데 공연장을 세우려고 첫 삽을 뜨자마자 지반이 무너지며 이런 곳이 나타났지. 여기가 크.. 크르릉함대?",
+        "en": "[Director]\nBut the moment we broke ground to build the performance hall, the ground collapsed, revealing this place. Is this the... Grrrumm Fleet?",
+        "pt": "[Diretor]\nMas, assim que demos a primeira pá para construir o teatro, o solo desabou e este lugar apareceu. Aqui é a... a Frota Grrroooom?",
+        "es": "[Director]\nPero justo cuando dimos la primera palada para construir el teatro, el suelo se derrumbó y apareció este lugar. ¿Aquí está la... ¿Flota Gruñona?"
+    },
+    "fOyIDA": {
+        "ko": "크르릉? 함대?",
+        "en": "Grr? Fleet?",
+        "pt": "Krung? Frota?",
+        "es": "¿Krung? ¿Flota?"
+    },
+    "feyIDA": {
+        "ko": "[역사학자]\n^0000CD<크바시르의 함>^000000이요. 이곳엔 신들의 노래가 담겨져 세계의 마음을 지탱하고 있었다고 해요. 기록 속의 제는 그걸 위한 거였죠.",
+        "en": "[Historian]\n^0000CD<Kvashir's Vessel>^000000. They say this place held the songs of the gods, sustaining the heart of the world. The ritual in the records was for that purpose.",
+        "pt": "[Historiador]\nÉ o ^0000CD<Navio de Kvasir}^000000. Dizem que aqui estavam guardadas as canções dos deuses, que sustentavam o coração do mundo. O ritual registrado nos anais era para isso mesmo.",
+        "es": "[Historiador]\nEs el ^0000CD<Barco de Kvasir}^000000. Dicen que aquí se guardaban los cantos de los dioses que sostenían el corazón del mundo. El ritual que aparece en los registros era para eso."
+    },
+    "fuyIDA": {
+        "ko": "[역사학자]\n성역으로 지정되어 접근을 금지했던 모양이지만 지금 오딘 신전도 이모양이니.. 아마도 아는 사람도 없고 기록도 제대로 남지 않았던 모양입니다.",
+        "en": "[Historian]\nIt seems it was designated a sanctuary and access was forbidden, but given the state of Odin's temple now... likely no one knew about it, and proper records weren't kept either.",
+        "pt": "[Historiador]\nParece que foi designado como santuário e o acesso era proibido, mas como o Templo de Odin também está nessa situação... Provavelmente ninguém sabia disso e não restaram registros adequados.",
+        "es": "[Historiador]\nParece que estaba designado como lugar sagrado y se prohibía el acceso, pero viendo cómo está ahora el templo de Odín... Probablemente nadie lo sabía y tampoco quedaron registros adecuados."
+    },
+    "f+yIDA": {
+        "ko": "[역사학자]\n그러니 공연장을 짓겠다고 공사를 하겠다고 나선 거지...",
+        "en": "[Historian]\nThat's why they stepped forward to build a performance hall and start construction...",
+        "pt": "[Historiador]\nPor isso é que se propuseram a construir um teatro e a iniciar as obras...",
+        "es": "[Historiador]\nPor eso se lanzaron a construir un teatro y a hacer obras..."
+    },
+    "gOyIDA": {
+        "ko": "[단장]\n그래서 자문을 위해 자네를 부른 거 아닌가. 이미 벌어진 일은 어쩔 수 없으니 해결책이나 어서 얘기하게. 시간이 없으니.",
+        "en": "[Director]\nThat's precisely why I summoned you for counsel. What's done is done—just tell me the solution. We're running out of time.",
+        "pt": "[Diretor]\nÉ por isso que te chamaram para dar uma opinião, não é? Já que o que está feito não tem jeito, fala logo qual é a solução. Não temos tempo a perder.",
+        "es": "[Director]\nPor eso te llamamos para que nos asesores, ¿no? Lo que ya pasó, ya pasó, así que mejor nos dices qué se puede hacer. No hay tiempo que perder."
+    },
+    "geyIDA": {
+        "ko": "[역사학자]\n아까도 말씀드렸 듯이 이곳은 세계의 마음을 지탱하는 곳이에요. 바로 이 나무요. 사람으로 치면 심장 같은 곳이요.",
+        "en": "[Historian]\nAs I mentioned earlier, this place holds the heart of the world. This very tree. It's like the heart of a person.",
+        "pt": "[Historiador]\nComo mencionei há pouco, este lugar sustenta o coração do mundo. É exatamente esta árvore. É como o coração de uma pessoa.",
+        "es": "[Historiador]\nComo te dije antes, este es el lugar que sostiene el corazón del mundo. Este árbol, precisamente. Es como el corazón de una persona."
+    },
+    "guyIDA": {
+        "ko": "[역사학자]\n그런데 공사로 인해 지하 공간에 있던 수호석이 파괴되고 그 틈으로 신들의 노래가 모두 빠져나갔어요. 그래서 이 나무는 생명을 잃어가고 있어요.",
+        "en": "[Historian]\nBut due to the construction, the guardian stones in the underground space were destroyed, and the Song of the Gods escaped through the cracks. That's why this tree is losing its life.",
+        "pt": "[Historiador]\nMas, por causa da obra, a pedra guardiã que ficava no espaço subterrâneo foi destruída e, por essa brecha, todas as canções dos deuses escaparam. Por isso, essa árvore está perdendo a vida.",
+        "es": "[Historiador]\nPero, por las obras, la piedra protectora que estaba en el espacio subterráneo se rompió y, por esa grieta, se escaparon todos los cantos de los dioses. Por eso, este árbol está perdiendo la vida."
+    },
+    "g+yIDA": {
+        "ko": "[역사학자]\n원래는 이렇게 쉽게 허물어지지 않아야 정상일 텐데. 아마도 오랜 세월이 지나 그런 것 같아요. 잊혀진 탓에 정기적으로 제를 올리지 않아 힘이 많이 약해진 것도 있을 거고요.",
+        "en": "[Historian]\nIt shouldn't be crumbling this easily under normal circumstances. Perhaps it's due to the passage of time. Being forgotten meant regular offerings weren't made, which likely weakened its power considerably.",
+        "pt": "[Historiador]\nNormalmente, ele não deveria desmoronar tão facilmente assim. Provavelmente, isso aconteceu por causa do tempo que passou. E também porque, por ter sido esquecido, não recebemos oferendas regularmente, o que enfraqueceu bastante sua força.",
+        "es": "[Historiador]\nEn condiciones normales, no debería derrumbarse tan fácilmente. Probablemente sea por el paso de los años. Y como se ha olvidado, ya no se le ofrecen sacrificios regularmente, así que su poder se ha debilitado mucho."
+    },
+    "hOyIDA": {
+        "ko": "[역사학자]\n여하튼! 노래를 채워 수호수를 원상태로 회복시키지 않으면 이 세계는 공허만이 남게 됩니다. 모든 것이 부식되어 파괴될 거예요.",
+        "en": "[Historian]\nAnyway! Unless we restore the protective tree to its original state by filling it with the songs, only emptiness will remain in this world. Everything will corrode and be destroyed.",
+        "pt": "[Historiador]\nDe qualquer forma! Se não encher a árvore de canções e restaurá-la ao seu estado original, só restará o vazio neste mundo. Tudo vai se corroer e ser destruído.",
+        "es": "[Historiador]\n¡En fin! Si no llenamos el árbol con canciones para devolverlo a su estado original, en este mundo solo quedará el vacío. Todo se corroerá y se destruirá."
+    },
+    "heyIDA": {
+        "ko": "제 도움이 필요하다고...?",
+        "en": "You need my help...?",
+        "pt": "Precisas da minha ajuda...?",
+        "es": "¿Necesitas mi ayuda...?"
+    },
+    "huyIDA": {
+        "ko": "[단장]\n사람을 풀어 그 노래라는 것을 회수 하려고 했지만 실패했네.",
+        "en": "[Captain]\nWe tried sending people to retrieve that song, but it failed.",
+        "pt": "[Chefe]\nTentei enviar alguém para recuperar essa tal canção, mas não deu certo.",
+        "es": "[Capitán]\nIntenté enviar a alguien a recuperar esa canción, pero fracasé."
+    },
+    "h+yIDA": {
+        "ko": "[역사학자]\n당연하죠. 그 노래라는 것이 저희 같은 무지렁이들은 느낄 수도 없으니까요. 다행히 이 세계에는 그러한 것들을 따르는 엄청난 예술가들이 있잖아요? 바로 {0}들이요.",
+        "en": "[Historian]\nOf course. We common folk couldn't possibly feel that song anyway. Fortunately, this world has tremendous artists who follow such things, right? That's exactly what {0} are.",
+        "pt": "[Historiador]\nClaro. Afinal, nós, uns ignorantes, nem conseguimos sentir essa tal canção. Felizmente, neste mundo existem artistas incríveis que seguem essas coisas, não é? Exatamente os {0}.",
+        "es": "[Historiador]\nEs lógico. A los ignorantes como nosotros ni siquiera nos llega esa canción. Por suerte, en este mundo hay artistas increíbles que siguen esas cosas, ¿no? Justo los {0}."
+    },
+    "iOyIDA": {
+        "ko": "[역사학자]\n그래서 도움을 좀 받으려고요. 하지만 아무나 붙잡고 도움 요청 드리는 거 아닙니다. 온 대륙에 이름을 떨친 최고의 예술가인 모험가님께 드리는 간절한 부탁입니다.",
+        "en": "[Historian]\nThat's why I'm seeking your help. But I'm not asking just anyone. This is a heartfelt plea to you, the adventurer renowned as the greatest artist across the entire continent.",
+        "pt": "[Historiador]\nÉ por isso que estou pedindo ajuda. Mas não estou pedindo a qualquer um. É um pedido sincero ao aventureiro, o melhor artista cujo nome ressoa por todo o continente.",
+        "es": "[Historiador]\nPor eso quiero pedirte ayuda. Pero no se la pido a cualquiera. Es una petición sincera dirigida a ti, el aventurero, el mejor artista cuyo nombre resuena por todo el continente."
+    },
+    "ieyIDA": {
+        "ko": "저 혼자요?",
+        "en": "Just me?",
+        "pt": "Só eu?",
+        "es": "¿Estoy solo?"
+    },
+    "iuyIDA": {
+        "ko": "[역사학자]\n혼자라니요? 동료분이 오셨잖아요. 저기, 저쪽에 계신 분이요.",
+        "en": "[Historian]\nAlone? Your companion is here. That person over there.",
+        "pt": "[Historiador]\nSozinho? Seu colega já chegou. Aquele aí, do outro lado.",
+        "es": "[Historiador]\n¿Que si estoy solo? Tu compañero ya llegó. Mira, el que está allá."
+    },
+    "i+yIDA": {
+        "ko": "[자연인]\n안녕~ 소문 듣고 왔어요. 여기가 그렇게 맛집이라며? 그런데 우리 죽는 거야? 죽기 전에 해야 할 일 100가지가 담겨 있는 책을 사야겠는걸?",
+        "en": "[Ordinary Person]\nHey~ I heard about this place. They say it's a real hotspot? But are we dying? Guess I should buy that book with the 100 things to do before you die?",
+        "pt": "[Cidadão]\nOi~ Ouvi os boatos e vim até aqui. Dizem que esse lugar é um restaurante famoso, né? Mas a gente vai morrer? Acho que preciso comprar aquele livro com as 100 coisas que preciso fazer antes de morrer...",
+        "es": "[Persona común]\nHola~ Vine porque oí los rumores. ¿Dicen que este es un restaurante tan bueno? Pero, ¿vamos a morir? ¿Debería comprar ese libro que tiene las 100 cosas que hay que hacer antes de morir?"
+    },
+    "jOyIDA": {
+        "ko": "이 몸 등장~",
+        "en": "This body makes an entrance~",
+        "pt": "Aqui estou eu~",
+        "es": "¡Aquí estoy~"
+    },
+    "jeyIDA": {
+        "ko": "누구시죠?!!",
+        "en": "Who are you?!!",
+        "pt": "Quem é você?!!",
+        "es": "¿Quién eres?!!"
+    },
+    "juyIDA": {
+        "ko": "[역사학자]\n자기 소개는 나중에 하시고요. 되도록 많은 인원이 필요한 작업이었는데 한 분이 더 오셔서 정말 다행이에요.",
+        "en": "[Historian]\nSave the introductions for later. This task required as many people as possible, so it's truly fortunate another person has arrived.",
+        "pt": "[Historiador]\nDeixa a apresentação pra depois. Era um trabalho que precisava de bastante gente, então é uma sorte ter mais uma pessoa aqui.",
+        "es": "[Historiador]\nYa te presentarás más tarde. Era un trabajo que necesitaba mucha gente, así que es una suerte que haya venido alguien más."
+    },
+    "j+yIDA": {
+        "ko": "[역사학자]\n두 분, 직업은 서로 다르지만 각각 연주와 춤을 매개로 음악이라는 큰 공통점 아래 따로 떼어 놓을 수 없는 관계이니 협력도 더 잘 되겠죠.",
+        "en": "[Historian]\nThough your professions differ, both of you share an inseparable connection through music—one that unites you through performance and dance. This common ground should make collaboration even smoother.",
+        "pt": "[Historiador]\nVocês dois, embora tenham profissões diferentes, têm a música como grande ponto em comum, sendo a música o elo entre a música e a dança, e essa relação é inseparável; por isso, a cooperação deve fluir melhor.",
+        "es": "[Historiador]\nUstedes dos, aunque tienen profesiones diferentes, tienen una relación inseparable bajo el gran punto en común de la música, con la interpretación y la danza como medios, así que la colaboración será aún mejor."
+    },
+    "kOyIDA": {
+        "ko": "[역사학자]\n한 시가 급하니 바로 설명을 드리겠습니다. 다들 귀 기울여주세요. 그 전에 급한 볼일이 생각나서 바깥에 나가야 하면 단장님께 말씀하시고요.",
+        "en": "[Historian]\nTime is short, so I'll explain right away. Everyone, please listen carefully. Before that, if you have urgent business that requires going outside, please inform the leader.",
+        "pt": "[Historiador]\nComo o tempo é curto, vou explicar logo. Prestem atenção, por favor. Antes disso, se alguém lembrar de algo urgente e precisar sair, avise o diretor.",
+        "es": "[Historiador]\nComo tenemos prisa, te lo voy a explicar ya. Escuchen todos con atención. Antes de eso, si se te ocurre algo urgente y tienes que salir, avísale al director."
+    },
+    "keyIDA": {
+        "ko": "[단장]\n헤렌과 자세한 이야기를 나누기로 하지 않았는가? 아니면 급한 볼일이 생각났나? 그럼, 나갈 텐가?",
+        "en": "[Director]\nDidn't we agree to discuss this in detail with Heren? Or did something urgent come up? Well then, are you leaving?",
+        "pt": "[Diretor]\nNão tínhamos combinado de conversar detalhadamente com Heren? Ou foi que te lembraste de um assunto urgente? Então, vais sair?",
+        "es": "[Director]\n¿No habíamos acordado que Heren y tú iban a hablar en detalle? ¿O es que se te ha ocurrido algo urgente? Bueno, ¿vas a salir?"
+    },
+    "kuyIDA": {
+        "ko": "네, 나가고 싶습니다.",
+        "en": "Yes, I wish to leave.",
+        "pt": "Sim, eu gostaria de sair.",
+        "es": "Sí, quiero salir."
+    },
+    "k+yIDA": {
+        "ko": "아니오.",
+        "en": "No.",
+        "pt": "Não.",
+        "es": "No."
+    },
+    "lOyIDA": {
+        "ko": "[단장]\n그러게. 바로 돌아와야 하네.",
+        "en": "[Captain]\nRight. You should come back soon.",
+        "pt": "[Chefe]\nÉ isso aí. Mas volta logo, tá?",
+        "es": "[Jefe]\nClaro. Tienes que volver enseguida."
+    },
+    "leyIDA": {
+        "ko": "[단장]\n그러게. 어서 이야기를 나눠 보게.",
+        "en": "[Captain]\nExactly. Go ahead and talk it over.",
+        "pt": "[Líder]\nÉ isso aí. Vai lá conversar logo.",
+        "es": "[Jefe]\nExacto. Ve a hablar con él ya."
+    },
+    "luyIDA": {
+        "ko": "[단장]\n회복 의식을 바로 하지 않나? 급한 볼 일이 생각났나? 그럼, 나갈 텐가?",
+        "en": "[Captain]\nAren't we performing the recovery ritual right away? Did something urgent come up? Then, are you leaving?",
+        "pt": "[Chefe]\nNão vamos fazer o ritual de recuperação agora? Lembrou de algo urgente? Então, vai sair?",
+        "es": "[Jefe]\n¿No vas a hacer el ritual de recuperación ya? ¿Se te ocurrió algo urgente? Entonces, ¿vas a salir?"
+    },
+    "l+yIDA": {
+        "ko": "[단장]\n그러게.",
+        "en": "[Captain]\nExactly.",
+        "pt": "[Chefe]\nÉ mesmo.",
+        "es": "[Jefe]\nYa te lo dije."
+    },
+    "mOyIDA": {
+        "ko": "[단장]\n흠, 이곳에서 나갈 텐가?",
+        "en": "[Captain]\nHmm, are you leaving here?",
+        "pt": "[Chefe]\nHum, vais sair daqui?",
+        "es": "[Jefe]\nMmm, ¿vas a salir de aquí?"
+    },
+    "meyIDA": {
+        "ko": "소지하고 계신 아이템의 수량이 많아 대화를 진행 할 수 없습니다.\n아이템을 정리한 뒤 다시 시도해 주시기 바랍니다.",
+        "en": "You have too many items equipped to continue the conversation.\nPlease organize your items and try again.",
+        "pt": "Não é possível prosseguir com a conversa devido ao grande número de itens que você possui.\nPor favor, organize seus itens e tente novamente.",
+        "es": "No puedes continuar la conversación porque tienes demasiados objetos en tu inventario.\nPor favor, ordena tus objetos y vuelve a intentarlo."
+    },
+    "muyIDA": {
+        "ko": "[역사학자]\n단장님이 뭐라고 하는 거죠? 내가 지금 듣고 있는게 사실인가?",
+        "en": "[Historian]\nWhat is the Captain saying? Is what I'm hearing real?",
+        "pt": "[Historiador]\nO que o chefe está dizendo? O que estou ouvindo agora é verdade?",
+        "es": "[Historiador]\n¿Qué estás diciendo, jefe? ¿Es verdad lo que estoy escuchando?"
+    },
+    "m+yIDA": {
+        "ko": "[역사학자]\n자, 두 분. 잘 들어 주세요.",
+        "en": "[Historian]\nNow, both of you. Listen carefully.",
+        "pt": "[Historiador]\nBom, vocês dois. Ouçam com atenção.",
+        "es": "[Historiador]\nBueno, ustedes dos. Escuchen bien."
+    },
+    "nOyIDA": {
+        "ko": "뭘 해야 할까요?",
+        "en": "What should we do?",
+        "pt": "O que devemos fazer?",
+        "es": "¿Qué debemos hacer?"
+    },
+    "neyIDA": {
+        "ko": "[역사학자]\n수호수의 힘을 보존케 하는 ^0000CD수호석은 모두 12개^000000입니다. 파괴된 수호석을 다시 세워야 이곳이 다시 완전해지죠.",
+        "en": "[Historian]\nThere are twelve ^0000CD ^000000Guardian Stones that preserve the power of the Guardian. We must rebuild the destroyed Guardian Stones to restore this place to its former completeness.",
+        "pt": "[Historiador]\nAs ^0000CDpedras guardiãs que preservam o poder dos guardiões são, no total, 12^000000. Só se este lugar voltar a ficar completo se a gente reconstruir as pedras guardiãs que foram destruídas.",
+        "es": "[Historiador]\nHay un total de 12 ^0000CD piedras guardianas que preservan el poder de los árboles guardianes. Para que este lugar vuelva a estar completo, hay que volver a erigir las piedras guardianas que se han destruido."
+    },
+    "nuyIDA": {
+        "ko": "[역사학자]\n그럼 파괴된 수호석을 어떻게 세우느냐? 수호석은 따로 만든 것이 아니에요. 예술가들이 받는 감동과 영감의 결정으로 이루어진 거죠. 그 조각들을 다시 빈 자리에 채워 넣으면 수호석이 복원됩니다.",
+        "en": "[Historian]\nThen how do we rebuild the destroyed Guardian Stones? They weren't crafted separately. They're crystallizations of the inspiration and emotion artists receive. By filling the empty spaces with those fragments, the Guardian Stones will be restored.",
+        "pt": "[Historiador]\nEntão, como reconstruir as Pedras Guardiãs destruídas? As Pedras Guardiãs não são feitas separadamente. Elas são formadas pela cristalização da emoção e da inspiração que os artistas recebem. Se colocarmos esses fragmentos de volta nos lugares vazios, as Pedras Guardiãs serão restauradas.",
+        "es": "[Historiador]\nEntonces, ¿cómo se reconstruyen las piedras guardianas destruidas? Las piedras guardianas no se fabrican por separado. Están formadas por la cristalización de la emoción y la inspiración que reciben los artistas. Si vuelves a colocar esos fragmentos en los huecos, las piedras guardianas se restaurarán."
+    },
+    "n+yIDA": {
+        "ko": "[자연인]\n근거가 있나요? 어떻게 그렇게 잘 아시지? 설계자세요?",
+        "en": "[Naturalist]\nIs there evidence for that? How do you know so well? Are you the designer?",
+        "pt": "[Cidadão]\nTem alguma base pra isso? Como você sabe disso tão bem? Você é o projetista?",
+        "es": "[Persona común]\n¿Tienes alguna prueba? ¿Cómo es que sabes tanto? ¿Eres el diseñador?"
+    },
+    "oOyIDA": {
+        "ko": "[역사학자]\n수호석이 파괴되고 나서 복원을 위해 이곳을 살펴 보았지요. 저 벽에 새겨진 그림들 보이시죠? 그 그림들이 장식이 아니라 다 의미가 있는 거더라고요. 말하자면 매뉴얼이죠.",
+        "en": "[Historian]\nAfter the Guardian Stone was destroyed, I examined this place for restoration. See those images carved into that wall? They aren't mere decorations; they all hold meaning. You could say they're a manual.",
+        "pt": "[Historiador]\nDepois que as Pedras Guardiãs foram destruídas, examinei este lugar para a restauração. Vês as imagens gravadas naquela parede? Descobri que aquelas imagens não são apenas decoração, mas têm um significado. É como se fosse um manual.",
+        "es": "[Historiador]\nDespués de que se destruyeran las piedras guardianas, examiné este lugar para restaurarlas. ¿Ves los dibujos grabados en esa pared? Resultó que esos dibujos no eran solo decoración, sino que todos tenían un significado. Es como un manual."
+    },
+    "oeyIDA": {
+        "ko": "[자연인]\n다는 못하고 아주 일부만 해석을 했지만요. 아무튼 ^0000CD조각을 모두 12개^000000를 찾아 와야 합니다. 그럼 그걸 어디서 구하느냐?",
+        "en": "[Natural Person]\nI couldn't decipher all of it, only a small part. Anyway, we must find all ^0000CD pieces and bring back 12^000000 of them. So where do we get them?",
+        "pt": "[Cidadão]\nNão consegui interpretar tudo, só uma pequena parte. De qualquer forma, precisamos encontrar todas as ^0000CD peças, um total de 12^000000. Mas onde vamos conseguir isso?",
+        "es": "[Persona común]\nNo pude interpretarlas todas, solo una pequeña parte. De todos modos, hay que encontrar las 12 piezas. ¿Y de dónde las sacamos?"
+    },
+    "ouyIDA": {
+        "ko": "[역사학자]\n음악과 춤이란 뭘까요? 그 본질 말이에요. 저는 우리가 주변에서 보고 듣는 모든 것을 표현하는 거라고 생각합니다..",
+        "en": "[Historian]\nWhat is music and dance? Its essence, I mean. I believe it expresses everything we see and hear around us.",
+        "pt": "[Historiador]\nO que são música e dança? A essência delas, quero dizer. Eu acho que são formas de expressar tudo o que vemos e ouvimos ao nosso redor...",
+        "es": "[Historiador]\n¿Qué son la música y la danza? Me refiero a su esencia. Yo creo que son la expresión de todo lo que vemos y oímos a nuestro alrededor..."
+    },
+    "o+yIDA": {
+        "ko": "[역사학자]\n빠져나간 노래들은 아마도 영감과 감동의 원천을 찾아 갔을 겁니다. 원래 그런 곳에서 태어나는 것이니까요.",
+        "en": "[Historian]\nThe songs that slipped away probably went in search of inspiration and emotion. That's where they were born in the first place.",
+        "pt": "[Historiador]\nAs canções que desapareceram provavelmente foram em busca da fonte de inspiração e emoção. Afinal, é desses lugares que elas nascem.",
+        "es": "[Historiador]\nLas canciones que se han perdido probablemente fueron en busca de la fuente de la inspiración y la emoción. Porque, al fin y al cabo, es ahí donde nacen."
+    },
+    "pOyIDA": {
+        "ko": "[자연인]\n거기가 어딜까?",
+        "en": "[Natural Person]\nWhere might that be?",
+        "pt": "[Cidadão]\nOnde seria isso?",
+        "es": "[Persona común]\n¿Y dónde está eso?"
+    },
+    "peyIDA": {
+        "ko": "[역사학자]\n다행히 이 벽에 간략하게나마 기록이 남아 있어요. 어디로 가야 할지 알려줄 단서가 되겠지요.",
+        "en": "[Historian]\nFortunately, a brief record remains on this wall. It should provide a clue as to where we must go.",
+        "pt": "[Historiador]\nFelizmente, ainda há um registro, mesmo que resumido, nesta parede. Deve servir de pista para saber para onde ir.",
+        "es": "[Historiador]\nPor suerte, en esta pared hay un registro, aunque sea breve. Será una pista que nos dirá adónde ir."
+    },
+    "puyIDA": {
+        "ko": "[역사학자]\n^0000CD대지, 불, 바람, 경이로운 생명, 성스러운 것, 어둠의 것들^000000에 대한 기록이 있어요. 이것들은 영감이겠지요.",
+        "en": "[Historian]\nThere are records of ^0000CDEarth, Fire, Wind, Wondrous Life, the Sacred, and the Dark Ones^000000. These must be the inspiration.",
+        "pt": "[Historiador]\n^0000CDHá registros sobre a terra, o fogo, o vento, a vida maravilhosa, o sagrado e as coisas das trevas^000000. Essas devem ser as fontes de inspiração.",
+        "es": "[Historiador]\nHay registros sobre ^0000CDla tierra, el fuego, el viento, la vida maravillosa, lo sagrado y las cosas de la oscuridad^000000. Estas cosas deben ser la inspiración."
+    },
+    "p+yIDA": {
+        "ko": "[역사학자]\n^0000CD태초의 소리, 모든 것을 얼리는 마음, 모든 것을 녹이는 마음, 깊은 굴을 울리는 노래, 파랑 소리, 신을 향한 찬가^000000. 이것들은 감동에 대한 것이겠지요.",
+        "en": "[Historian]\n^0000CDThe sound of the beginning, the heart that freezes all, the heart that melts all, the song that echoes in deep caves, the sound of blue, the hymn to the gods^000000. These must be about emotion.",
+        "pt": "[Historiador]\n^0000CDO som do início dos tempos, a mente que congela tudo, a mente que derrete tudo, a canção que ressoa nas cavernas profundas, o som do azul, o hino dedicado aos deuses^000000. Essas devem ser sobre emoção.",
+        "es": "[Historiador]\n^0000CDEl sonido del principio, el corazón que lo congela todo, el corazón que lo derrite todo, la canción que resuena en las cuevas profundas, el sonido azul, el himno a los dioses^000000. Esto debe ser sobre la emoción."
+    },
+    "qOyIDA": {
+        "ko": "[역사학자]\n이 미약한 단서를 보고 유추해서 가야 할 장소를 알아내면 됩니다.",
+        "en": "[Historian]\nBy observing these faint clues and making inferences, we can determine the place we must go.",
+        "pt": "[Historiador]\nBasta deduzir o lugar aonde devemos ir a partir dessas pistas mínimas.",
+        "es": "[Historiador]\nSolo tienes que deducir el lugar al que debes ir a partir de estas débiles pistas."
+    },
+    "qeyIDA": {
+        "ko": "[자연인]\n그럼 반씩 나눠서 하면 되겠네! 대충 짐작가는 것이 있는데. 내가 성스러운 것, 대지, 바람, 얼리는 마음, 녹이는 마음, 깊은 굴을 울리는 노래를 맡을게!",
+        "en": "[Natural Being]\nThen we can split it evenly! I have a rough idea. I'll take the sacred, the earth, the wind, the freezing heart, the melting heart, and the song echoing through deep caves!",
+        "pt": "[Cidadão]\nEntão vamos dividir pela metade! Tenho uma ideia mais ou menos. Eu fico com o sagrado, a terra, o vento, o coração que congela, o coração que derrete e a canção que ressoa nas cavernas profundas!",
+        "es": "[Persona común]\n¡Entonces lo dividimos a la mitad! Tengo una idea aproximada. ¡Yo me encargo de lo sagrado, la tierra, el viento, el corazón que congela, el corazón que derrite y la canción que resuena en las cuevas profundas!"
+    },
+    "quyIDA": {
+        "ko": "[역사학자]\n아니, 저기!! 잠깐...!! 와... 진짜 빠르네. 성격 급하시다. 매뉴얼을 좀 더 읽어드리려고 했더니. 모험가님은 좀 더 듣는게 좋으세요?",
+        "en": "[Historian]\nNo, wait!! Hold on...!! Wow... you're really fast. You have an impatient nature. I was going to read you more of the manual. Would you prefer to listen a bit more, Adventurer?",
+        "pt": "[Historiador]\nEi, espera aí!! Um momento...!! Nossa... você é rápido mesmo. Você é muito impaciente. Eu ia ler mais um pouco do manual pra você. O aventureiro prefere ouvir mais um pouco?",
+        "es": "[Historiador]\n¡No, oye!! Un momento...!! Vaya... qué rápido. Eres muy impaciente. Iba a leerte un poco más el manual. ¿Prefieres que te explique un poco más, aventurero?"
+    },
+    "q+yIDA": {
+        "ko": "네.",
+        "en": "Yes.",
+        "pt": "Sim.",
+        "es": "Sí."
+    },
+    "rOyIDA": {
+        "ko": "[역사학자]\n모험가님은 ^0000CD불, 경이로운 생명, 어둠의 것들, 태초의 소리, 파랑 소리, 신을 향한 찬가^000000를 찾아 오시면 되겠네요.",
+        "en": "[Historian]\nAdventurer, you should seek ^0000CDFire, Wondrous Life, Things of Darkness, Primordial Sound, Blue Sound, and Hymn to the Gods^000000.",
+        "pt": "[Historiador]\nO aventureiro só precisa procurar ^0000CDFogo, Vida Maravilhosa, Coisas das Trevas, Som do Início, Som Azul e Hino ao Deus^000000.",
+        "es": "[Historiador]\nEl aventurero debe buscar ^0000CDel fuego, la vida maravillosa, las cosas de la oscuridad, el sonido del principio, el sonido azul y el himno a los dioses^000000."
+    },
+    "reyIDA": {
+        "ko": "[역사학자]\n하지만 제가 해석한 건 극히 일부분이지만... 그래도 들어 보세요. 먼저 어둠의 것들 하면 어디가 가장 먼저 떠오르세요?",
+        "en": "[Historian]\nThough my interpretation is only a small part... still, hear me out. When you think of things of darkness, what comes to mind first?",
+        "pt": "[Historiador]\nMas o que eu interpretei é apenas uma pequena parte... Mesmo assim, dá uma ouvida. Primeiro, quando se fala em “Criaturas das Trevas”, o que vem à tua cabeça?",
+        "es": "[Historiador]\nAunque lo que interpreté es solo una pequeña parte... igual escúchalo. Primero, cuando piensas en «las cosas de la oscuridad», ¿qué es lo primero que te viene a la mente?"
+    },
+    "ruyIDA": {
+        "ko": "지옥?",
+        "en": "Hell?",
+        "pt": "O inferno?",
+        "es": "¿El infierno?"
+    },
+    "r+yIDA": {
+        "ko": "[역사학자]\n지옥을 찾을 수는 없으니 죽은 자들이 <NAVI>[가는 곳]<INFO>niflheim,331,267,0,101,0</INFO></NAVI>을 찾아가야 할 것입니다. 모든 죽은 자들은 어둠에 속하지 않지만, 아마도 죽은 자들에 대한 공포와 연민은 다양한 영감을 주었을 것입니다.",
+        "en": "[Historian]\nSince we cannot find Hell, the dead must seek out <NAVI>[the place they go]<INFO>niflheim,331,267,0,101,0</INFO></NAVI>. Not all the dead belong to the darkness, but perhaps fear and pity for the departed have inspired diverse interpretations.",
+        "pt": "[Historiador]\nComo não dá pra encontrar o inferno, os mortos devem ir para <NAVI>[O lugar para onde vão]<INFO>niflheim,331,267,0,101,0</INFO></NAVI>. Nem todos os mortos pertencem às trevas, mas provavelmente o medo e a compaixão pelos mortos devem ter servido de inspiração.",
+        "es": "[Historiador]\nComo no puedes encontrar el infierno, los muertos deben ir a <NAVI>[lugar al que van]<INFO>niflheim,331,267,0,101,0</INFO></NAVI>. No todos los muertos pertenecen a la oscuridad, pero es probable que el miedo y la compasión hacia ellos te hayan dado diversas inspiraciones."
+    },
+    "sOyIDA": {
+        "ko": "[역사학자]\n조각은 아마도 힘이 미약한 상태일 겁니다. 해당 속성의, 그러니까 암속성의 몬스터를 잡아 영감의 조각의 기를 채워 획득하시면 됩니다.",
+        "en": "[Historian]\nThe fragment is likely in a weakened state. Capture monsters of the corresponding attribute—that is, dark attribute monsters—to fill the fragment's energy and obtain it.",
+        "pt": "[Historiador]\nO fragmento provavelmente está com pouca energia. Basta derrotar um monstro do atributo correspondente, ou seja, do atributo das trevas, para recarregar a energia do fragmento de inspiração e obtê-lo.",
+        "es": "[Historiador]\nEl fragmento probablemente esté en un estado de poder débil. Solo tienes que derrotar a un monstruo de ese atributo, es decir, de atributo Oscuro, para recargar la energía del fragmento de inspiración y obtenerlo."
+    },
+    "seyIDA": {
+        "ko": "[역사학자]\n그리고 나머지 영감의 조각에 대한 단서... 이건 아직 해석을 못했어요. 하지만 첫번째 조각을 손에 넣으면 아마 그것이 다음 장소를 알려줄 겁니다. 모든 것은 깊게 얽혀 있거든요.",
+        "en": "[Historian]\nAs for clues about the remaining Inspiration Fragments... I haven't deciphered those yet. But once you obtain the first fragment, it will likely reveal the next location. Everything is deeply intertwined.",
+        "pt": "[Historiador]\nE quanto às pistas sobre os demais Fragmentos de Inspiração... ainda não consegui decifrar isso. Mas, assim que você conseguir o primeiro fragmento, ele provavelmente indicará o próximo local. Tudo está profundamente interligado.",
+        "es": "[Historiador]\nY las pistas sobre los demás fragmentos de inspiración... Todavía no he podido descifrarlas. Pero si consigues el primer fragmento, probablemente te indicará el siguiente lugar. Todo está profundamente entrelazado."
+    },
+    "suyIDA": {
+        "ko": "[역사학자]\n그럼 남은 것이 감동의 조각인 태초의 소리, 파랑 소리, 신을 향한 찬가... 이건 안타깝게도 매뉴얼에 자세히 나오지 않았네요. 사람이 느끼는 감동이라지만 자연과는 다르게 사람은 늘 변하니까요.",
+        "en": "[Historian]\nThen what remains are the fragments of emotion: the Sound of Genesis, the Sound of Blue, the Hymn to the Gods... Unfortunately, the manual doesn't elaborate on these. Though they represent human emotion, unlike nature, people are always changing.",
+        "pt": "[Historiador]\nEntão, o que resta são os fragmentos da emoção: o Som do Princípio, o Som Azul, o Hino ao Deus... Infelizmente, isso não está explicado em detalhes no manual. Dizem que é a emoção que as pessoas sentem, mas, ao contrário da natureza, as pessoas estão sempre mudando.",
+        "es": "[Historiador]\nEntonces, lo que queda son los fragmentos de emoción: el Sonido Primigenio, el Sonido Azul, el Himno a los Dioses... Lamentablemente, esto no aparece detallado en el manual. Aunque se trata de emociones que siente la gente, a diferencia de la naturaleza, las personas siempre cambian."
+    },
+    "s+yIDA": {
+        "ko": "[역사학자]\n그나마 알 수 있는 건 신을 향한 찬가... 이건 이곳이 지어졌을 당시에는 당연히 오딘 신전을 뜻하는 것이었겠죠. 하지만 지금이라면...",
+        "en": "[Historian]\nThe only thing we can be certain of is the hymn to the gods... Back when this place was built, it naturally referred to the Temple of Odin. But now...",
+        "pt": "[Historiador]\nO que dá pra entender é o “Hino ao Deus”… Na época em que este lugar foi construído, isso obviamente se referia ao Templo de Odin. Mas hoje em dia...",
+        "es": "[Historiador]\nLo único que se puede deducir es el himno a los dioses... Cuando se construyó este lugar, seguramente se refería al templo de Odín. Pero hoy en día..."
+    },
+    "tOyIDA": {
+        "ko": "[역사학자]\n신을 향해있는 곳... 늘 신을 찬미하는 곳이라면...",
+        "en": "[Historian]\nA place facing the gods... If it's a place that always praises the gods...",
+        "pt": "[Historiador]\nUm lugar voltado para os deuses... um lugar onde sempre se louva os deuses...",
+        "es": "[Historiador]\nUn lugar dedicado a los dioses... Si es un lugar donde siempre se alaba a los dioses..."
+    },
+    "teyIDA": {
+        "ko": "라헬?",
+        "en": "Rachel?",
+        "pt": "Rahel?",
+        "es": "¿Rahel?"
+    },
+    "tuyIDA": {
+        "ko": "[역사학자]\n글쎄요... 이곳은 오딘을 모시는 신전이고 그곳은 프레이야의 광신도들이 있는 곳 아닙니까. 아마도 오딘을 모시는 곳일 확률이 높겠지요.",
+        "en": "[Historian]\nWell... this is a temple dedicated to Odin, and that place is where Freyja's fanatics gather, isn't it? It's probably more likely to be a place dedicated to Odin.",
+        "pt": "[Historiador]\nBem... este lugar é um templo dedicado a Odin, e aquele é onde ficam os fanáticos de Freyja, não é? Provavelmente, é mais provável que seja um lugar dedicado a Odin.",
+        "es": "[Historiador]\nBueno... este es un templo dedicado a Odín y ese es el lugar donde están los fanáticos de Freyja, ¿no? Probablemente sea un lugar dedicado a Odín."
+    },
+    "t+yIDA": {
+        "ko": "[역사학자]\n대성당이나 교회.. 언뜻 생각나는 곳이 두어군데 있습니다만 가장 <NAVI>[큰 곳]<INFO>prt_church,94,116,0,101,0</INFO></NAVI>에 가보십시오. 큰 소리로 신을 찬미하는 사람의 노래를 듣고 깃들었을 수도 있으니까요.",
+        "en": "[Historian]\nCathedrals or churches... A couple places come to mind, but go to the <NAVI>[largest one]<INFO>prt_church,94,116,0,101,0</INFO></NAVI> first. You might hear someone singing loudly in praise of the gods and find it there.",
+        "pt": "[Historiador]\nCatedrais ou igrejas... me vêm à cabeça alguns lugares, mas vai ao <NAVI>[lugar maior]<INFO>prt_church,94,116,0,101,0</INFO></NAVI>. Pois pode ter se fixado ao ouvir o canto de alguém louvando o deus em voz alta.",
+        "es": "[Historiador]\nCatedrales o iglesias... Se me ocurren un par de lugares, pero ve al <NAVI>[lugar más grande]<INFO>prt_church,94,116,0,101,0</INFO></NAVI>. Quizás se haya quedado ahí al escuchar a alguien alabando a los dioses en voz alta."
+    },
+    "uOyIDA": {
+        "ko": "[역사학자]\n감동의 조각은 아마도 사람의 마음을 움직여야 얻을 수 있을 겁니다. 그곳에서 조각을 얻기 위해 최선을 다해 노력하세요.",
+        "en": "[Historian]\nA fragment of emotion can probably only be obtained by moving someone's heart. Do your best to obtain a fragment there.",
+        "pt": "[Historiador]\nA fragmento da emoção provavelmente só pode ser obtida se você tocar o coração das pessoas. Dá o teu melhor para conseguir o fragmento lá.",
+        "es": "[Historiador]\nLa pieza de la emoción probablemente solo se pueda conseguir si conmueves el corazón de alguien. Haz todo lo posible por conseguirla allí."
+    },
+    "ueyIDA": {
+        "ko": "[역사학자]\n나머지는... 죄송합니다만 매뉴얼을 좀 더 봐야 알겠습니다. 일단 시간이 없으니 출발하세요.",
+        "en": "[Historian]\nAs for the rest... I'm sorry, but I'd need to consult the manual further. For now, time is short—get going.",
+        "pt": "[Historiador]\nQuanto ao resto... Desculpa, mas preciso dar uma olhada melhor no manual pra saber. Por enquanto, não dá tempo, então vai logo.",
+        "es": "[Historiador]\nLo demás... Lo siento, pero tendré que revisar un poco más el manual para saberlo. De todos modos, no hay tiempo, así que ponte en marcha."
+    },
+    "uuyIDA": {
+        "ko": "[자연인]\n그럼 반씩 나눠서 하면 되겠네! 대충 짐작가는 것이 있는데. 내가 불, 경이로운 생명, 어둠의 것들, 태초의 소리, 파랑 소리, 신을 향한 찬가를 맡을게!",
+        "en": "[Natural Being]\nThen we can split it evenly! I have a rough idea. I'll take fire, wondrous life, things of darkness, the primordial sound, the blue sound, and the hymn to the gods!",
+        "pt": "[Cidadão]\nEntão vamos dividir pela metade! Tenho uma ideia de como fazer. Eu fico com o fogo, a vida maravilhosa, as coisas das trevas, o som do início dos tempos, o som azul e o hino em louvor a Deus!",
+        "es": "[Persona común]\n¡Entonces lo dividimos a la mitad! Tengo una idea aproximada. ¡Yo me encargo del fuego, la vida maravillosa, las cosas de la oscuridad, el sonido del principio, el sonido azul y el himno a los dioses!"
+    },
+    "u+yIDA": {
+        "ko": "[역사학자]\n모험가님은 ^0000CD바람, 대지, 성스러운 것, 얼리는 마음, 녹이는 마음, 깊은 굴을 울리는 노래^000000를 찾아 오시면 되겠네요.",
+        "en": "[Historian]\nAdventurer, you should seek out ^0000CDwind, earth, the sacred, the freezing heart, the melting heart, and the song echoing through deep caves^000000.",
+        "pt": "[Historiador]\nEntão, o aventureiro precisa trazer ^0000CDo vento, a terra, o sagrado, o coração que congela, o coração que derrete e a canção que ressoa nas cavernas profundas^000000.",
+        "es": "[Historiador]\nTú, aventurero, tendrás que buscar ^0000CDel viento, la tierra, lo sagrado, el corazón que hiela, el corazón que derrite y la canción que resuena en las profundidades de la cueva^000000."
+    },
+    "vOyIDA": {
+        "ko": "[역사학자]\n하지만 제가 해석한 건 극히 일부분이지만... 그래도 들어 보세요. 먼저 바람. 하면 어디가 가장 먼저 떠오르세요?",
+        "en": "[Historian]\nThough my interpretation is only a fragment... still, hear me out. First, wind. Where does it first bring to mind?",
+        "pt": "[Historiador]\nMas o que eu interpretei é apenas uma pequena parte... Mesmo assim, dá uma ouvida. Primeiro, o vento. Quando pensas nisso, o que te vem à cabeça primeiro?",
+        "es": "[Historiador]\nAunque lo que interpreté es solo una pequeña parte... igual escúchalo. Primero, el viento. ¿Qué es lo primero que te viene a la mente?"
+    },
+    "veyIDA": {
+        "ko": "비공정?",
+        "en": "A flying machine?",
+        "pt": "O Deserto?",
+        "es": "¿El Puerto de Viento?"
+    },
+    "vuyIDA": {
+        "ko": "[역사학자]\n일리있는 말이네요. 그렇지만 그곳으로 가지는 않았을 겁니다. 초원을 지나는 바람은 어디든 간다고 하지요. 넓으니까요.",
+        "en": "[Historian]\nThat's a valid point. But it wouldn't have gone there. They say the wind that crosses the prairie goes everywhere. Because it's vast.",
+        "pt": "[Historiador]\nÉ um argumento válido. Mas você provavelmente não foi para lá. Dizem que o vento que atravessa a pradaria vai para qualquer lugar. Pois ela é vasta.",
+        "es": "[Historiador]\nEs una respuesta lógica. Pero no creo que hayas ido allí. Dicen que el viento que atraviesa la pradera va a todas partes. Porque es muy amplia."
+    },
+    "v+yIDA": {
+        "ko": "[역사학자]\n<NAVI>[아우둠라 초원]<INFO>ra_fild05,50,308,0,101,0</INFO></NAVI> 근처로 가보세요. 바람을 타고 흐르는 풀과 꽃의 움직임을 보며 옛 사람들도 그것을 흉내내려고 했을 겁니다. 그것은 그들에게 영감을 주었겠지요.",
+        "en": "[Historian]\n<NAVI>[Aoudumla Grasslands]<INFO>ra_fild05,50,308,0,101,0</INFO></NAVI> Head near there. Watching the grass and flowers swaying with the wind, the ancients must have tried to imitate that. It must have inspired them.",
+        "pt": "[Historiador]\n<NAVI>[Pradaria de Audumla]<INFO>ra_fild05,50,308,0,101,0</INFO></NAVI> Vai até perto de lá. Ao ver o movimento das ervas e flores levadas pelo vento, os antigos provavelmente tentaram imitar isso. Isso deve ter sido uma inspiração para eles.",
+        "es": "[Historiador]\nVe a las cercanías de <NAVI>[Pradera de Audumla]<INFO>ra_fild05,50,308,0,101,0</INFO></NAVI>. Al ver cómo se mueven la hierba y las flores con el viento, seguro que los antiguos intentaron imitarlo. Eso les habrá inspirado."
+    },
+    "wOyIDA": {
+        "ko": "[역사학자]\n조각은 아마도 힘이 미약한 상태일 겁니다. 해당 속성의, 그러니까 바람의 속성을 지닌 몬스터를 잡아 영감의 조각의 기를 채워 획득하시면 됩니다.",
+        "en": "[Historian]\nThe fragment is likely in a weakened state. Capture a monster possessing the corresponding attribute—that is, the wind attribute—to fill the fragment's energy and obtain it.",
+        "pt": "[Historiador]\nO fragmento provavelmente está com pouca energia. Basta derrotar um monstro com essa característica, ou seja, com a característica do vento, para recarregar a energia do Fragmento da Inspiração e obtê-lo.",
+        "es": "[Historiador]\nProbablemente, el fragmento esté en un estado de energía débil. Solo tienes que cazar un monstruo con ese atributo, es decir, el atributo del viento, para llenar la energía del fragmento de inspiración y obtenerlo."
+    },
+    "weyIDA": {
+        "ko": "[역사학자]\n그럼 남은 것이 감동의 조각인 얼리는 마음, 녹이는 마음, 깊은 굴을 울리는 노래... 이건 안타깝게도 매뉴얼에 자세히 나오지 않았네요. 사람이 느끼는 감동이라지만 자연과는 다르게 사람은 늘 변하니까요.",
+        "en": "[Historian]\nThen what remains are the fragments of emotion: the freezing heart, the melting heart, the song echoing through deep caves... Unfortunately, the manual doesn't elaborate on these. Though they represent human emotion, unlike nature, people are ever-changing.",
+        "pt": "[Historiador]\nEntão, o que resta são os fragmentos de emoção: Coração Gelado, Coração Derretido, Canção que Ressoa nas Cavernas Profundas... Infelizmente, isso não está explicado em detalhes no manual. Dizem que é a emoção que as pessoas sentem, mas, ao contrário da natureza, as pessoas estão sempre mudando.",
+        "es": "[Historiador]\nEntonces lo que queda son los fragmentos de emoción: «Corazón helado», «Corazón derretido», «Canción que resuena en la cueva profunda»... Lamentablemente, esto no aparece detallado en el manual. Aunque se trata de emociones que siente el ser humano, a diferencia de la naturaleza, las personas siempre cambian."
+    },
+    "wuyIDA": {
+        "ko": "[역사학자]\n그나마 알 수 있는 건 얼리는 마음... 이건 아마도... 매우 추운 곳. 늘 눈이 내리는 장소...",
+        "en": "[Historian]\nThe only one we can somewhat grasp is the Freezing Heart... This is likely... a place of extreme cold. A location where snow falls constantly...",
+        "pt": "[Historiador]\nO que dá pra saber é sobre o Coração Congelante... Isso provavelmente... um lugar muito frio. Um lugar onde sempre neva...",
+        "es": "[Historiador]\nLo único que se sabe es «Corazón helado»... Esto probablemente sea... un lugar muy frío. Un lugar donde siempre nieva..."
+    },
+    "w+yIDA": {
+        "ko": "루티에?",
+        "en": "Rutie?",
+        "pt": "Lutie?",
+        "es": "¿Rutie?"
+    },
+    "xOyIDA": {
+        "ko": "[역사학자]\n아마도 <NAVI>[그곳]<INFO>xmas,82,146,0,101,0</INFO></NAVI>이 맞을 겁니다. 추운 곳의 사람들은 특히나 예술가 기질이 잘 발달해 있으니까요.",
+        "en": "[Historian]\nIt's probably <NAVI>[that place]<INFO>xmas,82,146,0,101,0</INFO></NAVI>. People from cold places tend to have particularly well-developed artistic sensibilities.",
+        "pt": "[Historiador]\nProvavelmente <NAVI>[aquele lugar]<INFO>xmas,82,146,0,101,0</INFO></NAVI> está certo. As pessoas de lugares frios têm um talento artístico especialmente desenvolvido.",
+        "es": "[Historiador]\nProbablemente sea <NAVI>[ese lugar]<INFO>xmas,82,146,0,101,0</INFO></NAVI>. La gente de los lugares fríos suele tener un talento artístico especialmente desarrollado."
+    },
+    "xeyIDA": {
+        "ko": "[역사학자]\n아, 마침 오셨군요. 기다리고 있었어요. 벌써 이곳엔 공허가 들어차기 시작했어요. 곧 부식과 침식이 시작될 거예요. 어서 막지 않으면...!",
+        "en": "[Historian]\nAh, you're here just in time. I've been waiting. The void has already begun to fill this place. Corrosion and erosion will start soon. If we don't stop it quickly...!",
+        "pt": "[Historiador]\nAh, que bom que você chegou. Estava esperando por você. O vazio já começou a se espalhar por aqui. Em breve, a corrosão e a erosão vão começar. Se não impedirmos logo...!",
+        "es": "[Historiador]\nAh, qué bien que llegaste. Te estaba esperando. El vacío ya está empezando a invadir este lugar. Pronto empezará la corrosión y la erosión. ¡Si no lo detienes pronto...!"
+    },
+    "xuyIDA": {
+        "ko": "[역사학자]\n그런데, 조각들은 어쩌셨습니까? 잃어버리셨습니까? 그럼 저희는 아무 것도 할 수 없습니다. 어서 찾아 오십시오.",
+        "en": "[Historian]\nBut what about the fragments? Have you lost them? Then there's nothing we can do. Please find them quickly.",
+        "pt": "[Historiador]\nMas e as peças? Você as perdeu? Nesse caso, não há nada que possamos fazer. Por favor, traga-as logo.",
+        "es": "[Historiador]\nPor cierto, ¿qué pasó con las piezas? ¿Las perdiste? Si es así, no podemos hacer nada. Ve a buscarlas ya."
+    },
+    "x+yIDA": {
+        "ko": "[자연인]\n내가 어떻게든 해 보려고 했는데, 잘 안됐지 뭐야. 헤헷. 생각보다 어렵네. 대신 여기 조각들은 다 모아왔으니 부탁해!",
+        "en": "[Natural Person]\nI tried my best, but it didn't work out. Heh. It's harder than I thought. Instead, I gathered all the fragments here—please take care of them!",
+        "pt": "[Cidadão]\nTentei fazer o possível, mas não deu certo. Hehe. É mais difícil do que parecia. Mas trouxe todas as peças que encontrei, então conta comigo!",
+        "es": "[Persona común]\nIntenté hacer algo, pero no me salió bien. Jeje. Es más difícil de lo que pensaba. ¡Pero traje todas las piezas que pude, así que cuídalas!"
+    },
+    "yOyIDA": {
+        "ko": "[역사학자]\n그럼 여기 매뉴얼대로 회복 의식을 준비하겠습니다. 여기 이 수호수에 회복 의식을 시작하는 신호를 보낼 거에요.",
+        "en": "[Historian]\nThen I'll prepare the restoration ritual according to this manual. I'll send the signal to begin the ritual to this guardian tree.",
+        "pt": "[Historiador]\nEntão vou preparar o ritual de restauração seguindo o manual. Vou enviar um sinal para esta árvore guardiã para dar início ao ritual.",
+        "es": "[Historiador]\nEntonces prepararé el ritual de restauración siguiendo este manual. Le enviaré una señal a este árbol guardián para comenzar el ritual."
+    },
+    "yeyIDA": {
+        "ko": "[역사학자]\n과정은 단순해요. 저 ^0000CD벽을 따라서 제단^000000이 있는 자리 보이죠? 그곳이 수호석이 있던 자리에요.",
+        "en": "[Historian]\nThe process is simple. See that spot along the ^0000CDwall where the altar^000000 is? That's where the Guardian Stone used to be.",
+        "pt": "[Historiador]\nO processo é simples. Vê aquele altar ^0000CD ao longo da parede ^000000? Aquele é o local onde ficava a Pedra Guardiã.",
+        "es": "[Historiador]\nEl proceso es sencillo. ¿Ves el altar que está junto a esa pared? Ahí es donde estaba la Piedra Guardiana."
+    },
+    "yuyIDA": {
+        "ko": "[역사학자]\n가지고 계신 ^0000CD영감과 감동의 조각을 그 자리에 두면^000000 수호석이 새로 생길 겁니다.",
+        "en": "[Historian]\nPlace the ^0000CDfragments of inspiration and emotion you hold at that spot, and a new Guardian Stone will form.",
+        "pt": "[Historiador]\nSe colocares os ^0000CDfragmentos de inspiração e emoção que tens nesse local, a Pedra Guardiã surgirá novamente.",
+        "es": "[Historiador]\nSi colocas ahí los ^0000CDfragmentos de inspiración y emoción que tienes,^000000 aparecerá una nueva Piedra Guardián."
+    },
+    "y+yIDA": {
+        "ko": "[역사학자]\n물론 이곳에 들어찬 공허도 물론 다 몰아내야 하고요. 그래야 이곳이 완벽해져요.",
+        "en": "[Historian]\nOf course, you must also expel all the void that has filled this place. Only then will it be complete.",
+        "pt": "[Historiador]\nÉ claro que também precisamos expulsar todo o vazio que se instalou aqui. Só assim este lugar ficará perfeito.",
+        "es": "[Historiador]\nPor supuesto, también hay que expulsar todo el vacío que se ha acumulado aquí. Solo así este lugar será perfecto."
+    },
+    "zOyIDA": {
+        "ko": "[역사학자]\n지금 회복 의식을 준비할까요?",
+        "en": "[Historian]\nShall we prepare the restoration ritual now?",
+        "pt": "[Historiador]\nVamos preparar o ritual de recuperação agora?",
+        "es": "[Historiador]\n¿Preparamos ya el ritual de recuperación?"
+    },
+    "zeyIDA": {
+        "ko": "네, 부탁드려요.",
+        "en": "Yes, please do.",
+        "pt": "Sim, por favor.",
+        "es": "Sí, por favor."
+    },
+    "zuyIDA": {
+        "ko": "시간이 필요해요.",
+        "en": "I need time.",
+        "pt": "Preciso de um tempo.",
+        "es": "Necesito tiempo."
+    },
+    "z+yIDA": {
+        "ko": "[역사학자]\n그렇지만... 그동안 무슨 일이 있으셨어요? 왜 그간의 경험이 보이지 않지요?",
+        "en": "[Historian]\nBut... what happened during that time? Why don't I see the experiences you've had?",
+        "pt": "[Historiador]\nMas... o que aconteceu nesse tempo? Por que não vejo as experiências que você teve até agora?",
+        "es": "[Historiador]\nPero... ¿qué te ha pasado durante todo este tiempo? ¿Por qué no se ven tus experiencias de antes?"
+    },
+    "0OyIDA": {
+        "ko": "^0000CD전직 시험은 베이스 레벨 200 이상부터 진행할 수 있습니다.^000000",
+        "en": "^0000CDYou can accept this Job Change test at Base Level 200 or above.^000000",
+        "pt": "^0000CDO teste de mudança de classe pode ser feito a partir do nível base 200.^000000",
+        "es": "^0000CDLa prueba de cambio de profesión se puede realizar a partir del nivel base 200.^000000"
+    },
+    "0eyIDA": {
+        "ko": "^0000CD전직 시험은 직업 레벨 70 이상부터 진행할 수 있습니다.^000000",
+        "en": "^0000CDYou can accept this Job Change test at Job Level 70 or above.^000000",
+        "pt": "^0000CDO teste de mudança de classe pode ser feito a partir do nível 70 da profissão.^000000",
+        "es": "^0000CDLa prueba de cambio de profesión se puede realizar a partir del nivel de profesión 70.^000000"
+    },
+    "0uyIDA": {
+        "ko": "[역사학자]\n흠... 그렇지만 ^0000CD1인 파티^000000를 결성하고 오셔야 해요...",
+        "en": "[Historian]\nHmm... But you must form a ^0000CDsolo party^000000 and come...",
+        "pt": "[Historiador]\nHum... Mas você precisa formar um ^0000CDgrupo de 1 pessoa^000000 e vir até aqui...",
+        "es": "[Historiador]\nMmm... Pero tienes que formar un ^0000CDgrupo de 1 persona^000000 y venir..."
+    },
+    "0+yIDA": {
+        "ko": "크바시르의 함",
+        "en": "Kvashir's Trap",
+        "pt": "O Navio de Kvasir",
+        "es": "La trampa de Kvasir"
+    },
+    "1OyIDA": {
+        "ko": "[역사학자]\n그럼 시작하겠습니다. 아.. 잠시만요. 뭔가 좀 준비가 덜 되었나 본데요. 잠시 후에 다시 시작할게요.",
+        "en": "[Historian]\nThen let's begin. Ah... Just a moment. Seems something isn't quite ready yet. I'll start again shortly.",
+        "pt": "[Historiador]\nEntão vamos começar. Ah... espera um pouco. Parece que ainda não está tudo pronto. Vamos recomeçar daqui a pouco.",
+        "es": "[Historiador]\nEntonces, vamos a empezar. Ah... un momento. Parece que aún no estoy del todo listo. Volveré a empezar en un momento."
+    },
+    "1eyIDA": {
+        "ko": "[역사학자]\n그럼 시작하겠습니다. 의식 준비가 끝나면 ^0000CD수호수의 태엽에 손^000000을 얹으세요. 그럼 모험가님의 감정에 감응한 수호수가 회복을 시작할 겁니다.",
+        "en": "[Historian]\nAlright, let's begin. Once the ritual preparations are complete, place your hand on the ^0000CDguardian's clockwork mechanism. The guardian, sensing your emotions, will then begin its restoration.",
+        "pt": "[Historiador]\nEntão vamos começar. Quando a preparação do ritual terminar, ^0000CDcoloca a mão^000000 na mola do Guardião. Assim, o Guardião, sensível às tuas emoções, começará a recuperação.",
+        "es": "[Historiador]\nBueno, vamos a empezar. Cuando termine la preparación del ritual, ^0000CDpon la mano sobre el resorte del guardián^000000. Entonces, el guardián, sensible a tus emociones, comenzará a recuperarse."
+    },
+    "1uyIDA": {
+        "ko": "[역사학자]\n그래요. 마음의 준비를 마치면 바로 시작할게요.",
+        "en": "[Historian]\nAlright. Once you're mentally prepared, we'll begin immediately.",
+        "pt": "[Historiador]\nIsso mesmo. Assim que estiveres mentalmente preparado, começaremos imediatamente.",
+        "es": "[Historiador]\nSí. En cuanto estés listo mentalmente, empezaremos de inmediato."
+    },
+    "1+yIDA": {
+        "ko": "[역사학자]\n흠... 그렇지만 1인 파티를 결성하고 오셔야 해요...",
+        "en": "[Historian]\nHmm... However, you must form a party of one and come...",
+        "pt": "[Historiador]\nHum... Mas você precisa formar um grupo de 1 pessoa antes de vir...",
+        "es": "[Historiador]\nMmm... Pero tienes que venir formando un grupo de una sola persona..."
+    },
+    "2OyIDA": {
+        "ko": "[역사학자]\n조각은 아직 수집중인가요? 미안해요. 힌트를 더 드리고 싶지만 아직 해석이 완전치 못해서...",
+        "en": "[Historian]\nAre you still collecting the fragments? I'm sorry. I wish I could give you more hints, but the interpretation isn't complete yet...",
+        "pt": "[Historiador]\nAinda estás coletando as peças? Desculpa. Gostaria de dar mais dicas, mas a interpretação ainda não está completa...",
+        "es": "[Historiador]\n¿Todavía estás juntando las piezas? Lo siento. Me gustaría darte más pistas, pero aún no he podido descifrarlo del todo..."
+    },
+    "2eyIDA": {
+        "ko": "[역사학자]\n이런 곳은 처음이에요. 어디에서도 볼 수 없었던 곳!",
+        "en": "[Historian]\nThis is my first time here. A place unlike any other!",
+        "pt": "[Historiador]\nÉ a primeira vez que vejo um lugar assim. Um lugar que nunca vi em lugar nenhum!",
+        "es": "[Historiador]\nEs la primera vez que estoy en un lugar así. ¡Un lugar que no se ve en ningún otro lado!"
+    },
+    "2uyIDA": {
+        "ko": "자연인",
+        "en": "Natural Person",
+        "pt": "Pessoa da Natureza",
+        "es": "Natural"
+    },
+    "2+yIDA": {
+        "ko": "[자연인]\n정말 짜릿한 경험이야. 안그래?",
+        "en": "[Natural Person]\nThis is such a thrilling experience. Don't you think?",
+        "pt": "[Pessoa Comum]\nÉ uma experiência realmente emocionante. Não é mesmo?",
+        "es": "[Persona común]\nEs una experiencia realmente emocionante. ¿No te parece?"
+    },
+    "3OyIDA": {
+        "ko": "작업 인부",
+        "en": "Worker",
+        "pt": "Trabalhador",
+        "es": "Obrero"
+    },
+    "3eyIDA": {
+        "ko": "[작업 인부]\n작업을 하다 보면 사고야 날 수 있지만, 이런 경우는 처음이네요.",
+        "en": "[Construction Worker]\nAccidents can happen on the job, but this is a first.",
+        "pt": "[Trabalhador]\nAcidentes podem acontecer durante o trabalho, mas é a primeira vez que vejo algo assim.",
+        "es": "[Obrero]\nMientras trabajamos pueden pasar accidentes, pero nunca había visto algo así."
+    },
+    "3uyIDA": {
+        "ko": "[작업 인부]\n작업은 언제부터 시작할 수 있는 건지...",
+        "en": "[Work Crew]\nWhen can we actually start working...",
+        "pt": "[Trabalhador]\nQuando é que vamos poder começar a trabalhar...",
+        "es": "[Obrero]\n¿Cuándo podremos empezar a trabajar...?"
+    },
+    "3+yIDA": {
+        "ko": "수호수의 태엽",
+        "en": "Guardian's Spring",
+        "pt": "A Mola do Guardião",
+        "es": "El resorte del guardián"
+    },
+    "4OyIDA": {
+        "ko": "[역사학자]\n^0000CD1인 파티^000000를 결성하고 오시라니까는요. 모험가님이 ^0000CD마스터인 1인 파티^000000요. 혼자서 해야 하는 외로운 싸움이라구요.",
+        "en": "[Historian]\nThey say to form a ^0000CDsolo party^000000 and come. An adventurer who is the ^0000CDmaster of a solo party^000000. It's a lonely battle you must fight alone.",
+        "pt": "[Historiador]\nDisse para você formar um ^0000CDgrupo de 1 pessoa^000000 e vir até aqui. É um ^0000CDgrupo de 1 pessoa^000000 do qual você, aventureiro, é o ^0000CDmestre^000000. É uma luta solitária que você tem que enfrentar sozinho.",
+        "es": "[Historiador]\nTe dije que formaras un ^0000CDgrupo de 1 persona^000000. Un ^0000CDgrupo de 1 persona^000000 en el que tú, aventurero, eres el ^0000CDlíder. Es una lucha solitaria que debes librar tú solo."
+    },
+    "4eyIDA": {
+        "ko": "[역사학자]\n자 이제 이 수호수의 태엽에 손을 얹으세요. 어때요? 불안하지만 부드러운 힘이 느껴지죠? 이제 시작해도 될까요?",
+        "en": "[Historian]\nNow, place your hand on this Guardian's Spring. How does it feel? Unsettling, yet you sense a gentle power, right? Shall we begin?",
+        "pt": "[Historiador]\nAgora, coloca a mão nessa mola do Guardião. E aí? Dá pra sentir uma força suave, apesar de um pouco inquietante, né? A gente pode começar agora?",
+        "es": "[Historiador]\nBueno, ahora pon la mano sobre el resorte de este árbol guardián. ¿Qué tal? Se siente una fuerza suave, aunque un poco inquietante, ¿verdad? ¿Podemos empezar ya?"
+    },
+    "4uyIDA": {
+        "ko": "회복 의식을 시작할게요.",
+        "en": "I'll begin the recovery ritual.",
+        "pt": "Vou iniciar o ritual de recuperação.",
+        "es": "Voy a iniciar el ritual de recuperación."
+    },
+    "4+yIDA": {
+        "ko": "잠시만요!",
+        "en": "Hold on!",
+        "pt": "Espere um pouco!",
+        "es": "¡Un momento!"
+    },
+    "5OyIDA": {
+        "ko": "[역사학자]\n흐음... 그것 참... 이상하군요? 매뉴얼대로 해도 되질 않으니. 잠시 후에 다시 시도해 보죠.",
+        "en": "[Historian]\nHmm... That's... odd? It's not working even when following the manual. Let's try again in a moment.",
+        "pt": "[Historiador]\nHum... Ora, ora... Que estranho, não é? Não está dando certo mesmo seguindo o manual. Vamos tentar de novo daqui a pouco.",
+        "es": "[Historiador]\nMmm... Vaya... Qué raro, ¿no? No funciona aunque siga el manual. Intentémoslo de nuevo en un rato."
+    },
+    "5eyIDA": {
+        "ko": "[역사학자]\n회복 의식을 시작하려면 제쪽에서 먼저 준비가 필요해요. 저에게 먼저 말씀하세요. 애먼 수호수의 태엽을 쓰다듬지 마시고요.",
+        "en": "[Historian]\nTo begin the recovery ritual, I need to prepare first. Tell me first. Don't go fiddling with the wrong guardian's clockwork.",
+        "pt": "[Historiador]\nPara iniciar o ritual de recuperação, preciso me preparar primeiro. Fala comigo primeiro. E não fique acariciando a mola do Guardião à toa.",
+        "es": "[Historiador]\nPara iniciar el ritual de recuperación, primero tengo que prepararme yo. Avísame antes. Y no le acaricies el resorte al guardián sin más."
+    },
+    "5uyIDA": {
+        "ko": "[역사학자]\n파티에 가입해야 한다고 말씀 드렸는데! ^0000CD1인 파티를 결성^000000하시고 다시 시작하죠.",
+        "en": "[Historian]\nI told you to join a party! ^0000CDForm a party of one^000000 and start over.",
+        "pt": "[Historiador]\nEu disse que precisas entrar no grupo! ^0000CDForma um grupo de 1 pessoa^000000 e vamos recomeçar.",
+        "es": "[Historiador]\n¡Te dije que tenías que unirte a un grupo! ^0000CDForma un grupo de 1 persona^000000 y volvamos a empezar."
+    },
+    "5+yIDA": {
+        "ko": "[역사학자]\n그럼, 이제 회복 의식을 시작하죠! 공허를 모두 없애고 수호석의 자리에 조각들을 채워 넣으면 돼요! 그럼, 저희는 나가있을게요!",
+        "en": "[Historian]\nAlright, let's begin the recovery ritual now! Just eliminate all the void and fill the Guardian Stone's slots with the fragments! We'll be waiting outside!",
+        "pt": "[Historiador]\nEntão, vamos começar o ritual de recuperação! Basta eliminar todo o vazio e preencher o espaço da Pedra Guardiã com os fragmentos! Nós vamos ficar por aqui!",
+        "es": "[Historiador]\n¡Bueno, vamos a empezar el ritual de recuperación! ¡Solo tienes que eliminar todo el vacío y colocar las piezas en el lugar de la piedra guardiana! ¡Nosotros nos quedaremos afuera!"
+    },
+    "6OyIDA": {
+        "ko": "이 세계의 모험가 {0}님이 {1}의 회복 의식을 시작합니다.",
+        "en": "Adventurer {0} of this world begins the restoration ritual for {1}.",
+        "pt": "O aventureiro deste mundo, {0}, inicia o ritual de restauração de {1}.",
+        "es": "El aventurero de este mundo, {0}, inicia el ritual de restauración de {1}."
+    },
+    "6eyIDA": {
+        "ko": "[역사학자]\n너무 긴장하신 것 같아요. 긴장이 풀리면 다시 시작해 보죠.",
+        "en": "[Historian]\nYou seem too tense. Let's try again once you relax.",
+        "pt": "[Historiador]\nParece que você está muito nervoso. Quando relaxar, vamos tentar de novo.",
+        "es": "[Historiador]\nParece que estás muy nervioso. Cuando te relajes, volvamos a empezar."
+    },
+    "6uyIDA": {
+        "ko": "[역사학자]\n1인 파티를 결성하고 오시라니까는요. 모험가님이 ^0000CD마스터인 1인 파티^000000요. 혼자서 해야 하는 외로운 싸움이라구요.",
+        "en": "[Historian]\nI told you to form a party of one. You're the adventurer, the ^0000CDmaster of a one-person party^000000. It's a lonely battle you must fight alone.",
+        "pt": "[Historiador]\nEu disse para você formar um grupo de 1 pessoa e voltar. O aventureiro é o mestre de um grupo de 1 pessoa ^0000CD. É uma luta solitária que você precisa enfrentar sozinho.",
+        "es": "[Historiador]\nTe dije que formaras un grupo de un solo miembro. Eres un grupo de un solo miembro en el que tú, ^0000CD, eres el maestro. Es una lucha solitaria que debes librar tú solo."
+    },
+    "6+yIDA": {
+        "ko": "[역사학자]\n재도전 하시려고요?",
+        "en": "[Historian]\nYou want to try again?",
+        "pt": "[Historiador]\nVais tentar de novo?",
+        "es": "[Historiador]\n¿Vas a volver a intentarlo?"
+    },
+    "7OyIDA": {
+        "ko": "그럼 이거 받으세요. 의식에 실패한 조각들을 회수해 왔어요.",
+        "en": "Then take this. I've recovered the fragments that failed the ritual.",
+        "pt": "Então, toma isto. Recuperei os fragmentos do ritual que falharam.",
+        "es": "Pues toma esto. He recuperado los fragmentos del ritual que fallaron."
+    },
+    "7eyIDA": {
+        "ko": "[역사학자]\n준비는 다 되셨어요? 시작해도 될까요?",
+        "en": "[Historian]\nAre you ready? Shall we begin?",
+        "pt": "[Historiador]\nJá está tudo pronto? Podemos começar?",
+        "es": "[Historiador]\n¿Ya estás listo? ¿Podemos empezar?"
+    },
+    "7uyIDA": {
+        "ko": "[역사학자]\n회복 의식을 시작하려면 제쪽에서 먼저 준비가 필요해요. 저에게 말씀하세요. 애먼 수호수의 태엽을 쓰다듬지 마시고요.",
+        "en": "[Historian]\nI need to prepare first to begin the restoration ritual. Speak to me. And don't go fiddling with the wrong guardian's clockwork.",
+        "pt": "[Historiador]\nPara iniciar o ritual de recuperação, preciso primeiro me preparar. Fala comigo. E não fique acariciando a mola daquele guardião inocente.",
+        "es": "[Historiador]\nPara iniciar el ritual de recuperación, primero tengo que prepararme yo. Dime cuando estés listo. Y no le toques el resorte al guardián, por favor."
+    },
+    "7+yIDA": {
+        "ko": "[역사학자]\n그거 그렇게 함부로 만지면 큰일나요!!",
+        "en": "[Historian]\nTouching that carelessly could cause serious trouble!!",
+        "pt": "[Historiador]\nSe você mexer nisso sem cuidado, vai dar em grande problema!!",
+        "es": "[Historiador]\n¡Si tocas eso sin cuidado, vas a meterte en un lío!!"
+    }
+}

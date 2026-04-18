@@ -14130,18 +14130,18 @@ QuestInfoList = {
 		}
 	},
 	[5892] = {
-		Title = "Cleaning Robot Ømega",
+		Title = "Cleaning Robot ï¿½mega",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"Cleaning Robot Ømega"
+			"Cleaning Robot ï¿½mega"
 		},
-		Summary = "Conversation with Cleaning Robot Ømega completed"
+		Summary = "Conversation with Cleaning Robot ï¿½mega completed"
 	},
 	[5893] = {
 		Title = "Sewage Treatment Plant Cleanup I",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Cleaning Robot Ømega]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI> is saddened that it cannot clean.",
+			"<NAVI>[Cleaning Robot ï¿½mega]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI> is saddened that it cannot clean.",
 			"Defeat 44 <NAVI>[Sewage Venenum]<INFO>EP17_2_VENENUM3,0,0,3,-222,1</INFO></NAVI>.",
 			"",
 			"Rewards can only be obtained after completing all three Sewage Treatment Plant Cleanup quests."
@@ -14153,7 +14153,7 @@ QuestInfoList = {
 		Title = "Sewage Treatment Plant Cleanup II",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Cleaning Robot Ømega]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI> is saddened that it cannot clean.",
+			"<NAVI>[Cleaning Robot ï¿½mega]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI> is saddened that it cannot clean.",
 			"Defeat 44 <NAVI>[Sewage Cramp]<INFO>EP17_2_CRAMP,0,0,3,-222,1</INFO></NAVI>.",
 			"",
 			"Rewards can only be obtained after completing all three Sewage Treatment Plant Cleanup quests."
@@ -14165,7 +14165,7 @@ QuestInfoList = {
 		Title = "Sewage Treatment Plant Cleanup III",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Cleaning Robot Ømega]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI> is saddened that it cannot clean.",
+			"<NAVI>[Cleaning Robot ï¿½mega]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI> is saddened that it cannot clean.",
 			"Defeat 44 <NAVI>[Sewage Waterfall]<INFO>EP17_2_WATERFALL,0,0,3,-222,1</INFO></NAVI>.",
 			"",
 			"Rewards can only be obtained after completing all three Sewage Treatment Plant Cleanup quests."
@@ -14178,7 +14178,7 @@ QuestInfoList = {
 		IconName = "ico_dq.bmp",
 		Description = {
 			"After a certain period of time,",
-			"you may accept the Sewage Treatment Plant Cleanup quest again from <NAVI>[Cleaning Robot Ømega]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI>."
+			"you may accept the Sewage Treatment Plant Cleanup quest again from <NAVI>[Cleaning Robot ï¿½mega]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Resets at 04:00",
 		NpcSpr = "EP17_2_OMEGA_CLEANER"
@@ -14187,7 +14187,7 @@ QuestInfoList = {
 		Title = "1st Magic Power Plant Cleanup I",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Cleaning Robot Ømega]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI> is saddened that it cannot clean.",
+			"<NAVI>[Cleaning Robot ï¿½mega]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI> is saddened that it cannot clean.",
 			"Defeat 44 <NAVI>[Elite Bellare]<INFO>EP17_2_BELLARE3,0,0,3,-222,1</INFO></NAVI>.",
 			"",
 			"Rewards can only be obtained after completing all three 1st Magic Power Plant Cleanup quests."
@@ -14199,7 +14199,7 @@ QuestInfoList = {
 		Title = "1st Magic Power Plant Cleanup II",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Cleaning Robot Ømega]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI> is saddened that it cannot clean.",
+			"<NAVI>[Cleaning Robot ï¿½mega]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI> is saddened that it cannot clean.",
 			"Defeat 44 <NAVI>[Mana-Addicted Dolor]<INFO>EP17_2_DOLOR3,0,0,3,-222,1</INFO></NAVI>.",
 			"",
 			"Rewards can only be obtained after completing all three 1st Magic Power Plant Cleanup quests."
@@ -14211,7 +14211,7 @@ QuestInfoList = {
 		Title = "1st Magic Power Plant Cleanup III",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Cleaning Robot Ømega]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI> is saddened that it cannot clean.",
+			"<NAVI>[Cleaning Robot ï¿½mega]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI> is saddened that it cannot clean.",
 			"Defeat 44 <NAVI>[Unleashed Magic]<INFO>EP17_2_PLASMA_Y,0,0,3,-222,1</INFO></NAVI>.",
 			"",
 			"Rewards can only be obtained after completing all three 1st Magic Power Plant Cleanup quests."
@@ -14224,7 +14224,7 @@ QuestInfoList = {
 		IconName = "ico_dq.bmp",
 		Description = {
 			"After a certain period of time,",
-			"you may accept the 1st Magic Power Plant quest again from <NAVI>[Cleaning Robot Ømega]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI>."
+			"you may accept the 1st Magic Power Plant quest again from <NAVI>[Cleaning Robot ï¿½mega]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Resets at 04:00",
 		NpcSpr = "EP17_2_OMEGA_CLEANER"
@@ -65661,7 +65661,7 @@ Talk to Kar=],
 	[62899] = {
 		Title = "Find Happy Egg",
 		Description = {
-			"Happy Egg Festival began. Come back to member of Egg festival after break 10 of happy eggs."
+			"Happy Egg Festival began. Come back to member of Egg festival after breaking 10 happy eggs."
 		},
 		Summary = "Find 10 Happy Eggs "
 	},
@@ -65670,7 +65670,7 @@ Talk to Kar=],
 		Description = {
 			"Visit later since the festival item can be received once per day."
 		},
-		Summary = "04h Reset",
+		Summary = "Resets at 4:00 a.m.",
 		CoolTimeQuest = 1
 	},
 	[62901] = {
@@ -65685,14 +65685,14 @@ Talk to Kar=],
 		Description = {
 			"To decorate festival, collect 10 Happy Three Leaf Clovers from Clover Poporing or Clover Lunatic and give to Deco Expert."
 		},
-		Summary = "10Happy Three Leaf Clovers "
+		Summary = "10 Happy Three Leaf Clovers "
 	},
 	[62903] = {
 		Title = "Help Festival Decoration - Stand by",
 		Description = {
-			"Doing one thing in a day is waste of time. Come back after midnight."
+			"Doing one thing in a day is waste of time. Come back tomorrow."
 		},
-		Summary = "04h Reset",
+		Summary = "Resets at 4:00 a.m.",
 		CoolTimeQuest = 1
 	},
 	[62904] = {
@@ -65700,10 +65700,10 @@ Talk to Kar=],
 		Description = {
 			"To decorate festival, collect 10 Happy Three Leaf Clovers from Clover Poporing or Clover Lunatic and give to Deco Expert."
 		},
-		Summary = "10Happy Three Leaf Clovers "
+		Summary = "10 Happy Three Leaf Clovers "
 	},
 	[62905] = {
-		Title = "Happy Pet Vending Machine",
+		Title = "Happy Pet Machine",
 		Description = {""},
 		Summary = ""
 	},
@@ -65719,7 +65719,7 @@ Talk to Kar=],
 		Description = {
 			"It is so tiring to catch bugs... somehow want to go back home. Let's catch them again tomorrow."
 		},
-		Summary = "04h Reset",
+		Summary = "Resets at 4:00 a.m.",
 		CoolTimeQuest = 1
 	},
 	[62908] = {
@@ -65748,7 +65748,7 @@ Talk to Kar=],
 		Description = {
 			"I should call it a day today and come back tomorrow to hunt more coyotes."
 		},
-		Summary = "Reset at 4:00 a.m.",
+		Summary = "Resets at 4:00 a.m.",
 		CoolTimeQuest = 1
 	},
 	[62912] = {
@@ -72654,70 +72654,70 @@ Talk to Kar=],
 	[295259] = {
 		Title = "Battle Pass Daily1",
 		Description = {
-			"Defeat 10 Green Plants"
+			"Defeat 50 Orc Zombies"
 		},
-		Summary = "Defeat 10 Green Plants"
+		Summary = "Defeat 50 Orc Zombies"
 	},
 	[295260] = {
 		Title = "Battle Pass Daily1",
 		Description = {
-			"Defeat Green Plants / Once per day, resets at 04:00"
+			"Defeat Orc Zombies / Once per day, resets at 04:00"
 		},
 		Summary = "Resets at 04:00"
 	},
 	[295261] = {
 		Title = "Battle Pass Daily2",
 		Description = {
-			"Defeat Amdarais."
+			"Defeat 100 each: Aliot, Aliza, and Alicel."
 		},
-		Summary = "Defeat Amdarais"
+		Summary = "Defeat 100 each: Aliot, Aliza, and Alicel."
 	},
 	[295262] = {
 		Title = "Battle Pass Daily2",
 		Description = {
-			"Defeat Amdarais/ Once per day, resets at 04:00"
+			"Defeat Aliots, Alizas, Alicels/ Once per day, resets at 04:00"
 		},
 		Summary = "Resets at 04:00"
 	},
 	[295263] = {
 		Title = "Battle Pass Daily3",
 		Description = {
-			"Deliver 50 Mastela Fruits"
+			"Deliver 10 Coagulated Spells"
 		},
-		Summary = "Deliver 50 Mastela Fruits"
+		Summary = "Deliver 10 Coagulated Spells"
 	},
 	[295264] = {
 		Title = "Battle Pass Daily3",
 		Description = {
-			"Deliver Mastela Fruits / Once per day, resets at 04:00"
+			"Deliver Coagulated Spells / Once per day, resets at 04:00"
 		},
 		Summary = "Resets at 04:00"
 	},
 	[295265] = {
 		Title = "Battle Pass Daily4",
 		Description = {
-			"Deliver 10 Green Herbs"
+			"Deliver 50 Orc Claws"
 		},
-		Summary = "Deliver 10 Green Herbs"
+		Summary = "Deliver 50 Orc Claws"
 	},
 	[295266] = {
 		Title = "Battle Pass Daily4",
 		Description = {
-			"Deliver Green Herbs / Once per day, resets at 04:00"
+			"Deliver Orc Claws / Once per day, resets at 04:00"
 		},
 		Summary = "Resets at 04:00"
 	},
 	[295267] = {
 		Title = "Battle Pass Daily5",
 		Description = {
-			"Defeat 2 Phantom of Amdaraiss"
+			"Defeat 5 Cuties"
 		},
-		Summary = "Defeat 2 Phantom of Amdaraiss"
+		Summary = "Defeat 5 Cuties"
 	},
 	[295268] = {
 		Title = "Battle Pass Daily5",
 		Description = {
-			"Defeat Phantom of Amdaraiss / Once per week, resets at 04:00"
+			"Defeat Cuties / Once per week, resets at 04:00"
 		},
 		Summary = "Resets at 04:00"
 	},

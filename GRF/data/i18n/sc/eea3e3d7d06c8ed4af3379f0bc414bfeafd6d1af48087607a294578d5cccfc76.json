@@ -1,0 +1,374 @@
+{
+    "gADmDA": {
+        "ko": "장비개조 홍보요원",
+        "en": "[Equipment Modification Promoter]",
+        "pt": "Promotor de Modificação de Equipamentos",
+        "es": "Promotor de Modificación de Equipamiento"
+    },
+    "gQDmDA": {
+        "ko": "[장비개조 홍보요원]\n안녕하세요, 모험가님!\n지금 장비에 불만이 많으신가요?\n그 어떤 방법보다 새로운 개조공법을 사용해 보고 싶지 않으신가요?\n레겐쉬름 연구소와 함께하세요!",
+        "en": "Hello, Adventurer!\nAre you dissatisfied with your current equipment?\nWouldn't you like to try a brand-new modification method unlike any other?\nJoin the Regenschirm Laboratory!\"",
+        "pt": "[Promotor de Modificação de Equipamentos]\nOlá, Aventureiro!\nVocê está insatisfeito com seu equipamento atual?\nNão gostaria de experimentar um novo método de modificação como nenhum outro?\nJunte-se ao Laboratório Regenschirm!",
+        "es": "[Promotor de Modificación de Equipamiento]\n¡Hola, Aventurero!\n¿Estás insatisfecho con tu equipo actual?\n¿No te gustaría probar un nuevo método de modificación como ningún otro?\n¡Únete al Laboratorio Regenschirm!"
+    },
+    "ggDmDA": {
+        "ko": "일단 가본다.",
+        "en": "I'll check it out.",
+        "pt": "Vou dar uma olhada.",
+        "es": "Voy a revisar."
+    },
+    "gwDmDA": {
+        "ko": "설명을 듣는다.",
+        "en": "Listen to the explanation.",
+        "pt": "Ouvir a explicação.",
+        "es": "Escuchar la explicación."
+    },
+    "hADmDA": {
+        "ko": "지나간다.",
+        "en": "Move on.",
+        "pt": "Passar.",
+        "es": "Pasar."
+    },
+    "hQDmDA": {
+        "ko": "[장비개조 홍보요원]\n좋습니다! 연구소 내 다른 시설은 기밀사항이라 출입금지이므로, 외부인 입장이 가능한 특별한 길로 안내드릴게요!",
+        "en": "[Equipment Modification Promoter]\nGreat! Since other facilities in the laboratory are classified and restricted, I will guide you through a special route accessible to outsiders!",
+        "pt": "[Promotor de Modificação de Equipamentos]\nÓtimo! Como outras instalações do laboratório são confidenciais e de acesso restrito, vou guiá-lo por um caminho especial acessível a visitantes!",
+        "es": "[Promotor de Modificación de Equipamiento]\n¡Excelente! Como otras instalaciones del laboratorio son confidenciales y de acceso restringido, te guiaré por una ruta especial accesible para visitantes!"
+    },
+    "hgDmDA": {
+        "ko": "[장비개조 홍보요원]\n세상의 모든! 무기, 방어구, 액세서리를 비롯한 장비류 아이템들을 개조할 수 있는 연구를 레겐쉬름 연구소에서 진행 중인데요...\n아직은 연구, 개조와 함께 데이터를 수집하는 중이라 많은 모험가님들의 장비 개조 실적이 필요해요.",
+        "en": "[Equipment Modification Promoter]\nAll equipment in the world! Weapons, armor, accessories, and more can be modified through ongoing research at the Regenschirm Laboratory...\nWe are still collecting data alongside research and modifications, so we need many adventurers' modification results.",
+        "pt": "[Promotor de Modificação de Equipamentos]\nTodos os equipamentos do mundo! Armas, armaduras, acessórios e muito mais podem ser modificados através das pesquisas em andamento no Laboratório Regenschirm...\nAinda estamos coletando dados junto com a pesquisa e as modificações, então precisamos dos resultados de muitos aventureiros.",
+        "es": "[Promotor de Modificación de Equipamiento]\n¡Todos los equipos del mundo! Armas, armaduras, accesorios y más pueden ser modificados mediante investigaciones en curso en el Laboratorio Regenschirm...\nAún estamos recopilando datos junto con la investigación y las modificaciones, por lo que necesitamos los resultados de muchos aventureros."
+    },
+    "hwDmDA": {
+        "ko": "[장비개조 홍보요원]\n연구는 계속 진행 중이라, 완료되는 대로 여러 장비가 속속 추가될 예정이니 기대해 주세요!",
+        "en": "[Equipment Modification Promoter]\nResearch is ongoing, and more equipment will be added as it is completed, so please look forward to it!",
+        "pt": "[Promotor de Modificação de Equipamentos]\nA pesquisa continua em andamento, e mais equipamentos serão adicionados assim que estiverem prontos, então aguarde!",
+        "es": "[Promotor de Modificación de Equipamiento]\nLa investigación continúa, y se añadirán más equipos a medida que se completen, ¡así que espéralo con ansias!"
+    },
+    "iADmDA": {
+        "ko": "[장비개조 홍보요원]\n나중에라도 관심이 생기면 다시 오세요!",
+        "en": "[Equipment Modification Promoter]\nIf you become interested later, feel free to come back!",
+        "pt": "[Promotor de Modificação de Equipamentos]\nSe tiver interesse depois, volte novamente!",
+        "es": "[Promotor de Modificación de Equipamiento]\nSi más adelante te interesa, ¡vuelve de nuevo!"
+    },
+    "iQDmDA": {
+        "ko": "출구 경호원",
+        "en": "Exit Guard",
+        "pt": "Guarda de Saída",
+        "es": "Guardia de Salida"
+    },
+    "igDmDA": {
+        "ko": "[출구 경호원]\n용무가 끝나셨는지요?\n^FF0000리히타르젠^000000으로 돌아가시겠습니까?",
+        "en": "[Exit Guard]\nHave you finished your business?\nWould you like to return to ^FF0000Lighthalzen^000000?",
+        "pt": "[Guarda de Saída]\nVocê terminou seus assuntos?\nDeseja retornar para ^FF0000Lighthalzen^000000?",
+        "es": "[Guardia de Salida]\n¿Has terminado tus asuntos?\n¿Deseas regresar a ^FF0000Lighthalzen^000000?"
+    },
+    "iwDmDA": {
+        "ko": "돌아간다.",
+        "en": "Return.",
+        "pt": "Retornar.",
+        "es": "Regresar."
+    },
+    "jADmDA": {
+        "ko": "일이 남았다.",
+        "en": "I still have things to do.",
+        "pt": "Ainda tenho coisas a fazer.",
+        "es": "Aún tengo asuntos pendientes."
+    },
+    "jQDmDA": {
+        "ko": "[출구 경호원]\n돌아가는 길을 안내해 드리겠습니다.",
+        "en": "[Exit Guard]\nI will guide you to the exit.",
+        "pt": "[Guarda de Saída]\nVou guiá-lo até a saída.",
+        "es": "[Guardia de Salida]\nTe guiaré hacia la salida."
+    },
+    "jgDmDA": {
+        "ko": "[출구 경호원]\n용무가 끝나면 언제든지 말씀해 주십시오.",
+        "en": "[Exit Guard]\nPlease let me know whenever you are done.",
+        "pt": "[Guarda de Saída]\nAvise-me quando terminar.",
+        "es": "[Guardia de Salida]\nAvísame cuando termines."
+    },
+    "jwDmDA": {
+        "ko": "[출구 경호원]\n용무가 끝나셨는지요?\n^FF0000아이템 몰^000000로 돌아가시겠습니까?",
+        "en": "[Exit Guard]\nHave you finished your business?\nWould you like to return to ^FF0000Item Mall^000000?",
+        "pt": "[Guarda de Saída]\nVocê terminou seus assuntos?\nDeseja retornar para ^FF0000Loja de Itens^000000?",
+        "es": "[Guardia de Salida]\n¿Has terminado tus asuntos?\n¿Deseas regresar a ^FF0000Tienda de Ítems^000000?"
+    },
+    "kADmDA": {
+        "ko": "연구소장",
+        "en": "Head of Laboratory",
+        "pt": "Chefe do Laboratório",
+        "es": "Jefe del Laboratorio"
+    },
+    "kQDmDA": {
+        "ko": "[연구소장]\n...어서오십시오.\n오실 때 설명을 들었겠지만 간략하게 이 곳을 소개하자면, 아직 갈 길이 멀기는 하지만 가능한 한 많은 무기, 방어구, 액세서리 등을 다른 차원의 무언가로 개조하는 연구를 하고 있습니다.",
+        "en": "[Head of Laboratory]\n...Welcome.\nYou must have heard the explanation on your way here, but to briefly introduce this place, we are conducting research to modify as many weapons, armors, and accessories as possible into something from another dimension, although there is still a long way to go.",
+        "pt": "[Chefe do Laboratório]\n...Bem-vindo.\nVocê já deve ter ouvido a explicação ao chegar, mas para resumir, estamos pesquisando formas de modificar armas, armaduras e acessórios em algo de outra dimensão, embora ainda haja um longo caminho.",
+        "es": "[Jefe del Laboratorio]\n...Bienvenido.\nSeguro ya escuchaste la explicación, pero en resumen, investigamos cómo modificar armas, armaduras y accesorios en algo de otra dimensión, aunque aún queda mucho camino."
+    },
+    "kgDmDA": {
+        "ko": "[연구소장]\n개조할 장비의 제련도를 필수적으로 깎게 되지만, 더 큰 힘을 위한 수고라고 보면 되겠습니다.",
+        "en": "[Head of Laboratory]\nThe refinement level of the equipment will inevitably decrease, but you can consider it as a necessary effort for greater power.",
+        "pt": "[Chefe do Laboratório]\nO nível de refino do equipamento será reduzido, mas considere isso um esforço necessário para um poder maior.",
+        "es": "[Jefe del Laboratorio]\nEl nivel de refinamiento disminuirá, pero considéralo un esfuerzo necesario para mayor poder."
+    },
+    "kwDmDA": {
+        "ko": "[연구소장]\n연구는 계속 진행 중이므로 언제 어떤 것이 갑자기 완료되어 모험가 여러분께 제공될지는 알 수 없습니다.\n그것은... 데이터가 수집되는 대로 어떻게든 되겠지요.",
+        "en": "[Head of Laboratory]\nResearch is still ongoing, so we cannot say when or what will suddenly be completed and provided to adventurers.\nWell... things will work out as data continues to be collected.",
+        "pt": "[Chefe do Laboratório]\nA pesquisa ainda está em andamento, então não sabemos quando ou o que será concluído e disponibilizado aos aventureiros.\nBem... tudo vai se resolver conforme os dados forem coletados.",
+        "es": "[Jefe del Laboratorio]\nLa investigación sigue en curso, así que no sabemos cuándo ni qué estará disponible.\nBueno... todo dependerá de los datos recopilados."
+    },
+    "lADmDA": {
+        "ko": "[연구소장]\n다들 조용한 것을 좋아하니, 큰 소리로 대화하지는 마시길 바랍니다.",
+        "en": "[Head of Laboratory]\nEveryone here prefers quiet, so please refrain from speaking loudly.",
+        "pt": "[Chefe do Laboratório]\nTodos aqui preferem silêncio, então evite falar alto.",
+        "es": "[Jefe del Laboratorio]\nTodos aquí prefieren el silencio, así que evita hablar en voz alta."
+    },
+    "lQDmDA": {
+        "ko": "광석 연구원",
+        "en": "Ore Researcher",
+        "pt": "Pesquisador de Minérios",
+        "es": "Investigador de Minerales"
+    },
+    "lgDmDA": {
+        "ko": "소지하고 계신 아이템의 수량이 많아 대화를 진행 할 수 없습니다.\n아이템을 정리한 뒤 다시 시도해 주시기 바랍니다.",
+        "en": "You have too many items in your inventory to proceed with the conversation.\nPlease organize your items and try again.",
+        "pt": "Você possui muitos itens e não pode prosseguir com o diálogo.\nOrganize seus itens e tente novamente.",
+        "es": "Tienes demasiados objetos para continuar.\nOrganiza tu inventario e inténtalo nuevamente."
+    },
+    "lwDmDA": {
+        "ko": "[격자]\n어서 와요.\n예산이 늘 부족한 연구실이다보니 이런 것까지 차리게 되었구먼.\n이 연구실 내에서 사용하는 원석을 나와 조수들이 정제해요. 수수료 받고.",
+        "en": "[Geffra]\nWelcome.\nSince our lab is always short on budget, we ended up setting up something like this.\nThe ores used in this lab are refined by me and my assistants, for a fee.",
+        "pt": "[Geffra]\nBem-vindo.\nComo nosso laboratório sempre tem pouco orçamento, acabamos montando algo assim.\nOs minérios usados aqui são refinados por mim e meus assistentes, mediante taxa.",
+        "es": "[Geffra]\nBienvenido.\nComo el laboratorio siempre tiene poco presupuesto, instalamos esto.\nLos minerales son refinados por mí y mis asistentes, con tarifa."
+    },
+    "mADmDA": {
+        "ko": "교환목록을 확인한다",
+        "en": "Check exchange list",
+        "pt": "Ver lista de troca",
+        "es": "Ver lista de intercambio"
+    },
+    "mQDmDA": {
+        "ko": "뭘 교환하는 거죠?",
+        "en": "What can I exchange?",
+        "pt": "O que posso trocar?",
+        "es": "¿Qué puedo intercambiar?"
+    },
+    "mgDmDA": {
+        "ko": "그만둔다",
+        "en": "Cancel",
+        "pt": "Cancelar",
+        "es": "Cancelar"
+    },
+    "mwDmDA": {
+        "ko": "[격자]\n어디 보자...\n지금은 이런 것들이 있는데.",
+        "en": "[Geffra]\nLet's see...\nThese are what we currently have.",
+        "pt": "[Geffra]\nDeixe-me ver...\nTemos isto por enquanto.",
+        "es": "[Geffra]\nVeamos...\nEsto es lo que tenemos."
+    },
+    "nADmDA": {
+        "ko": "원석 정제",
+        "en": "Ore Refinement",
+        "pt": "Refino de Minérios",
+        "es": "Refinado de Minerales"
+    },
+    "nQDmDA": {
+        "ko": "상위 광석 교환",
+        "en": "Advanced Ore Exchange",
+        "pt": "Troca de Minérios Avançados",
+        "es": "Intercambio de Minerales Avanzados"
+    },
+    "ngDmDA": {
+        "ko": "추가 광석 구매",
+        "en": "Purchase Additional Ore",
+        "pt": "Comprar Minérios Adicionais",
+        "es": "Comprar Minerales"
+    },
+    "nwDmDA": {
+        "ko": "취소",
+        "en": "Cancel",
+        "pt": "Cancelar",
+        "es": "Cancelar"
+    },
+    "oADmDA": {
+        "ko": "[격자]\n원석 정제 말이죠.",
+        "en": "[Geffra]\nThis is about ore refinement.",
+        "pt": "[Geffra]\nIsto é sobre refino de minérios.",
+        "es": "[Geffra]\nEsto es sobre refinado."
+    },
+    "oQDmDA": {
+        "ko": "[격자]\n상위 광석 교환 말이죠.",
+        "en": "[Geffra]\nThis is about advanced ore exchange.",
+        "pt": "[Geffra]\nIsto é sobre troca de minérios avançados.",
+        "es": "[Geffra]\nEsto es sobre intercambio avanzado."
+    },
+    "ogDmDA": {
+        "ko": "[격자]\n광석이 모자라나요? 그럼 제가 특별히 모으고 있는 것이 있는데...\n쉐도우데오콘을 혹시 가지고 있나요?",
+        "en": "[Geffra]\nAre you short on ores? Then I have something I'm collecting...\nDo you happen to have Shadowdeocon?",
+        "pt": "[Geffra]\nFaltando minérios? Tenho algo que estou coletando...\nVocê tem Shadowdeocon?",
+        "es": "[Geffra]\n¿Faltan minerales? Estoy recolectando algo...\n¿Tienes Shadowdeocon?"
+    },
+    "owDmDA": {
+        "ko": "[격자]\n필요한 게 있으면 또 와요.",
+        "en": "[Geffra]\nCome again if you need anything.",
+        "pt": "[Geffra]\nVolte se precisar de algo.",
+        "es": "[Geffra]\nVuelve si necesitas algo."
+    },
+    "pADmDA": {
+        "ko": "[격자]\n우리 연구는 보다시피 재료들이 매우 희귀해요. 우리 팀원들이 고용한 모험가도 있긴 하지만 필요한 양에 비하면 어림도 없죠.\n그래서 모험가 분들이 직접 재료를 가지고 오면 그에 상응하는 연구값을 제공하기로 했어요.",
+        "en": "[Geffra]\nAs you can see, our research materials are extremely rare. We do hire adventurers, but it's nowhere near enough.\nSo if adventurers bring materials themselves, we provide rewards equivalent to their contribution.",
+        "pt": "[Geffra]\nComo pode ver, os materiais são muito raros. Mesmo contratando aventureiros, não é suficiente.\nPor isso, recompensamos aventureiros que trazem materiais.",
+        "es": "[Geffra]\nComo ves, los materiales son muy raros. Incluso con aventureros contratados, no es suficiente.\nPor eso recompensamos a quienes traen materiales."
+    },
+    "pQDmDA": {
+        "ko": "[격자]\n운이 좋죠. 우리는 연구를 하고, 찾아오시는 모험가 분들은 우리의 연구 기술을 이용하기 위해 재료를 제공하고.\n혹시 개조를 원한다면 제시된 재료들만 가져오면 돼요.",
+        "en": "[Geffra]\nIt's a win-win. We conduct research, and adventurers provide materials to use our technology.\nIf you want modification, just bring the required materials.",
+        "pt": "[Geffra]\nÉ uma troca justa. Nós pesquisamos, e vocês trazem materiais.\nSe quiser modificar, traga apenas os materiais necessários.",
+        "es": "[Geffra]\nEs un intercambio justo. Nosotros investigamos, ustedes traen materiales.\nSi quieres modificar, trae lo necesario."
+    },
+    "pgDmDA": {
+        "ko": "[격자]\n당신도 모험가니까 무슨 의미인지 아시겠죠?",
+        "en": "[Geffra]\nAs an adventurer, you understand what that means, right?",
+        "pt": "[Geffra]\nSendo um aventureiro, você entende, certo?",
+        "es": "[Geffra]\nEres aventurero, sabes lo que significa, ¿verdad?"
+    },
+    "pwDmDA": {
+        "ko": "조수",
+        "en": "Assistant",
+        "pt": "Assistente",
+        "es": "Asistente"
+    },
+    "qADmDA": {
+        "ko": "조수: 만지지마세요... 위험하니까...",
+        "en": "Assistant: Don't touch that... it's dangerous...",
+        "pt": "Assistente: Não toque nisso... é perigoso...",
+        "es": "Asistente: No toques eso... es peligroso..."
+    },
+    "qQDmDA": {
+        "ko": "조수: ...앗..............",
+        "en": "Assistant: ...Ah..............",
+        "pt": "Assistente: ...Ah..............",
+        "es": "Asistente: ...Ah.............."
+    },
+    "qgDmDA": {
+        "ko": "조수: 신경쓰지마세요아무것도아니에요...",
+        "en": "Assistant: Don't worry, it's nothing...",
+        "pt": "Assistente: Não se preocupe, não é nada...",
+        "es": "Asistente: No es nada..."
+    },
+    "qwDmDA": {
+        "ko": "조수: 아니 그거 아니야.... 저거야 저거...",
+        "en": "Assistant: No, not that... that one...",
+        "pt": "Assistente: Não, não é isso... aquilo...",
+        "es": "Asistente: No, no eso... eso otro..."
+    },
+    "rADmDA": {
+        "ko": "조수: 힉... 큰일날뻔했다... 박사님 못보셨지?",
+        "en": "Assistant: Gah... that was close... The professor didn't see that, right?",
+        "pt": "Assistente: Ufa... quase deu problema... O doutor não viu, né?",
+        "es": "Asistente: Uf... casi pasa algo... El doctor no lo vio, ¿verdad?"
+    },
+    "rQDmDA": {
+        "ko": "격자: ?",
+        "en": "Geffra: ?",
+        "pt": "Geffra: ?",
+        "es": "Geffra: ?"
+    },
+    "rgDmDA": {
+        "ko": "조수: ...월급... 주냐고요...? 그런 불필요한 질문을...",
+        "en": "Assistant: ...Salary...? Why ask such unnecessary questions...",
+        "pt": "Assistente: ...Salário...? Que pergunta desnecessária...",
+        "es": "Asistente: ...¿Salario...? Qué pregunta innecesaria..."
+    },
+    "rwDmDA": {
+        "ko": "조수: 당연하죠...",
+        "en": "Assistant: Of course...",
+        "pt": "Assistente: Claro...",
+        "es": "Asistente: Claro..."
+    },
+    "sADmDA": {
+        "ko": "무기 연구원",
+        "en": "Weapon Researcher",
+        "pt": "Pesquisador de Armas",
+        "es": "Investigador de Armas"
+    },
+    "sQDmDA": {
+        "ko": "팀 아트나드",
+        "en": "Team Atnad",
+        "pt": "Equipe Atnad",
+        "es": "Equipo Atnad"
+    },
+    "sgDmDA": {
+        "ko": "[위상]\n어디보자... 손님이군.\n나는 원하는 바가 확실한 사람을 좋아해.\n개조 가능 품목은 <TIPBOX>[리스트]<INFO>9163</INFO></TIPBOX>라도 읽도록.\n그 이외의 일이라면 원하는 걸 대답하게.",
+        "en": "[Phase]\nLet's see... a guest.\nI like people who know what they want.\nCheck the modifiable items in <TIPBOX>[List]<INFO>9163</INFO></TIPBOX>.\nFor anything else, just tell me what you want.",
+        "pt": "[Fase]\nVamos ver... um visitante.\nGosto de pessoas decididas.\nVeja os itens modificáveis em <TIPBOX>[Lista]<INFO>9163</INFO></TIPBOX>.\nCaso contrário, diga o que deseja.",
+        "es": "[Fase]\nVeamos... un visitante.\nMe gustan las personas decididas.\nConsulta los objetos en <TIPBOX>[Lista]<INFO>9163</INFO></TIPBOX>.\nSi no, dime qué necesitas."
+    },
+    "swDmDA": {
+        "ko": "타노스 무기류",
+        "en": "Thanatos Weapons",
+        "pt": "Armas Thanatos",
+        "es": "Armas Thanatos"
+    },
+    "tADmDA": {
+        "ko": "OS 무기류",
+        "en": "OS Weapons",
+        "pt": "Armas OS",
+        "es": "Armas OS"
+    },
+    "tQDmDA": {
+        "ko": "[위상]\n^0000FF타노스 무기^000000라면 개조 방식에 하급과 중급이 있어.",
+        "en": "[Phase]\nFor ^0000FFThanatos Weapons^000000, there are basic and intermediate modification methods.",
+        "pt": "[Fase]\nPara ^0000FFArmas Thanatos^000000, existem modificações básica e intermediária.",
+        "es": "[Fase]\nPara ^0000FFArmas Thanatos^000000, hay modificaciones básica e intermedia."
+    },
+    "tgDmDA": {
+        "ko": "하급 개조",
+        "en": "Basic Modification",
+        "pt": "Modificação Básica",
+        "es": "Modificación Básica"
+    },
+    "twDmDA": {
+        "ko": "중급 개조",
+        "en": "Intermediate Modification",
+        "pt": "Modificação Intermediária",
+        "es": "Modificación Intermedia"
+    },
+    "uADmDA": {
+        "ko": "[위상]\n타노스 무기 하급 개조 말이지.\n^FF0000제련도가 5만큼 감소^000000되지만, 보다 적은 재료가 필요하지.\n그리고 개조를 위해서는 해당 무기는 +9 이상의 제련도가 필요해.",
+        "en": "[Phase]\nBasic modification for Thanatos weapons.\n^FF0000Refinement decreases by 5^000000, but requires fewer materials.\nAlso, the weapon must be refined to +9 or higher.",
+        "pt": "[Fase]\nModificação básica das armas Thanatos.\n^FF0000Refino reduz em 5^000000, mas requer menos materiais.\nÉ necessário refino +9 ou mais.",
+        "es": "[Fase]\nModificación básica de armas Thanatos.\n^FF0000Reduce 5 de refino^000000, pero requiere menos materiales.\nNecesita +9 o más."
+    },
+    "uQDmDA": {
+        "ko": "[위상]\n타노스 무기 중급 개조 말이지.\n^FF0000제련도가 1만큼 감소^000000되지만, 보다 많은 재료가 필요하지.\n그리고 개조를 위해서는 해당 무기는 +9 이상의 제련도가 필요해.",
+        "en": "[Phase]\nIntermediate modification for Thanatos weapons.\n^FF0000Refinement decreases by 1^000000, but requires more materials.\nAlso, the weapon must be refined to +9 or higher.",
+        "pt": "[Fase]\nModificação intermediária das armas Thanatos.\n^FF0000Refino reduz em 1^000000, mas requer mais materiais.\nÉ necessário refino +9 ou mais.",
+        "es": "[Fase]\nModificación intermedia de armas Thanatos.\n^FF0000Reduce 1 de refino^000000, pero requiere más materiales.\nNecesita +9 o más."
+    },
+    "ugDmDA": {
+        "ko": "[위상]\n개조가 필요해지면 다시 오게.\n우리 연구를 도와준다면 언제든지 환영한다.",
+        "en": "[Phase]\nCome back when you need modifications.\nWe always welcome those who support our research.",
+        "pt": "[Fase]\nVolte quando precisar.\nAjudantes da pesquisa são sempre bem-vindos.",
+        "es": "[Fase]\nVuelve cuando lo necesites.\nSiempre damos la bienvenida a quienes ayudan."
+    },
+    "uwDmDA": {
+        "ko": "[위상]\n^0000FFOS 무기^000000라...\n개조를 위해서라면 제련도가 +7 이상이어야 해.\n제련도가 감소하거나 하지는 않아.\n물건은 갖고 왔나?",
+        "en": "[Phase]\nAs for ^0000FFOS Weapons^000000...\nFor modification, refinement must be +7 or higher.\nIt does not decrease.\nDid you bring the item?",
+        "pt": "[Fase]\nQuanto às ^0000FFArmas OS^000000...\nÉ necessário refino +7 ou mais.\nNão há redução.\nTrouxe o item?",
+        "es": "[Fase]\nSobre las ^0000FFArmas OS^000000...\nRequiere refino +7 o más.\nNo se reduce.\n¿Trajiste el objeto?"
+    },
+    "vADmDA": {
+        "ko": "개조한다",
+        "en": "Modify",
+        "pt": "Modificar",
+        "es": "Modificar"
+    },
+    "vQDmDA": {
+        "ko": "[위상]\n어디 한 번 뭘 가져왔는지 보자고.",
+        "en": "[Phase]\nLet's see what you've brought.",
+        "pt": "[Fase]\nVamos ver o que você trouxe.",
+        "es": "[Fase]\nVeamos qué trajiste."
+    }
+}

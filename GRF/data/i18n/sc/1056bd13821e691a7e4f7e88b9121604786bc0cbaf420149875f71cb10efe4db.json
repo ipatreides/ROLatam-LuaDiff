@@ -2062,5 +2062,29 @@
         "en": "[Liza]\nAttempting the ^990000 bonus effect ^000000enchantment of the equipment.",
         "pt": "[Liza]\nTentando melhorar o ^990000efeito^000000 do equipamento.",
         "es": "[Liza]\nIntentando la mejora de ^990000 efecto adicional ^000000del equipo."
+    },
+    "2NrLBw": {
+        "ko": "오토매틱 쉴드",
+        "en": "Automatron Shield",
+        "pt": "Escudo Automatron",
+        "es": "Escudo Automatron"
+    },
+    "2drLBw": {
+        "ko": "오토매틱 쉴드A",
+        "en": "Automatron Shield A",
+        "pt": "Escudo Automatron A",
+        "es": "Escudo Automatron A"
+    },
+    "2trLBw": {
+        "ko": "오토매틱 쉴드B",
+        "en": "Automatron Shield B",
+        "pt": "Escudo Automatron B",
+        "es": "Escudo Automatron B"
+    },
+    "29rLBw": {
+        "ko": "오토매틱 쉴드 강화",
+        "en": "Enchant Automatron Shield",
+        "pt": "Encantar Escudo Automatron",
+        "es": "Encantar Escudo Automatron"
     }
 }

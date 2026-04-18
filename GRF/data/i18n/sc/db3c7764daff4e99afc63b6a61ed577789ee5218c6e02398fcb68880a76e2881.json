@@ -26,7 +26,7 @@
     "xG7EDA": {
         "ko": "[율라타]\n안녕하세요, 올해도 행복한 알 축제가 시작되었습니다.\n저는 진행 위원 율라타입니다.",
         "en": "[Yulata]\nI welcome you to the Happy Egg Festival.\nMy name is Yulata, nice to meet you.",
-        "pt": "[Yulata]\nLhe dou as boas vindas do Festival das Mascotes.\nMe chamo Yulata, prazer.",
+        "pt": "[Yulata]\nBoas-vindas, este é o Festival das Mascotes.\nMe chamo Yulata, prazer.",
         "es": "[Yulata]\nTe doy la bienvenida al Festival de las Mascotas.\nMe llamo Yulata, encantada."
     },
     "xW7EDA": {
@@ -140,7 +140,7 @@
     "127EDA": {
         "ko": "[율라타]\n행복한 알은 찾아 보셨어요? 잘 숨겨 두었지요?\n총 3개 찾아서 깨트리고 돌아오시면 기념 상품을 드리겠습니다.",
         "en": "[Yulata]\nSo? Did you manage it?\nIf you defeat 3 Happy Eggs, I'll give you a reward.",
-        "pt": "[Yulata]\nE aí? Conseguiu?\nSe você eliminar 3 Ovos Felizes eu darei uma recompensa.",
+        "pt": "[Yulata]\nE aí? Conseguiu?\nSe você eliminar 3 Ovos Decorados eu darei uma recompensa.",
         "es": "[Yulata]\n¿Y bien? ¿Lo lograste?\nSi eliminas 3 Huevos Decorados te daré una recompensa."
     },
     "2G7EDA": {
@@ -170,7 +170,7 @@
     "3G7EDA": {
         "ko": "[율라타]\n행사 준비는 유노 사람들과 슈바이체르빌 대학의 마법 학자분들이 힘을 모아 해 두었습니다.\n마을 밖 여기저기에 숨겨 둔 ^0000CD행복한 알^000000을 찾아서 ^0000CD3개^000000만 깨트리고 오시면 됩니다.",
         "en": "[Yulata]\nThe Festival was organized by the students of the Schweicherbil Magic Academy.\nMy challenge for you is to ^0000CDdefeat 3 Happy Eggs^000000.",
-        "pt": "[Yulata]\nO Festival foi organizado pelos universitários da Academia de Magia Schweicherbil.\nMinha gincana para você é ^0000CDeliminar 3 Ovos Felizes^000000.",
+        "pt": "[Yulata]\nO Festival foi organizado pelos universitários da Academia de Magia Schweicherbil.\nMinha gincana para você é ^0000CDeliminar 3 Ovos Decorados^000000.",
         "es": "[Yulata]\nEl Festival fue organizado por los universitarios de la Academia de Magia Schweicherbil.\nMi desafío para ti es ^0000CDeliminar 3 Huevos Decorados^000000."
     },
     "3W7EDA": {
@@ -200,7 +200,7 @@
     "4W7EDA": {
         "ko": "[율라타]\n축제 기간은 깁니다. 다음에 행사에 참가하고 싶어지시면 제게 와 주세요.",
         "en": "[Yulata]\nCome back whenever you feel like participating.",
-        "pt": "[Yulata]\nVolte quando tiver afim de participar.",
+        "pt": "[Yulata]\nVolte quando tiver a fim de participar.",
         "es": "[Yulata]\nVuelve cuando tengas ganas de participar."
     },
     "4m7EDA": {
@@ -890,7 +890,7 @@
     "VG/EDA": {
         "ko": "[세이럼]\n모험가님, 어제 저의 작은 루나틱과 이야기를 해 봤는데요,\n갑작스러울지도 모르지만, 이 아이를 데려가 주시지 않으시겠어요…?",
         "en": "[Sarum]\nTraveler, I talked to my little Lunatic yesterday.\nIt might be sudden, but… would you take him with you…?",
-        "pt": "[Sarum]\nviajante, eu conversei com o meu pequeno Lunático ontem.\nPode ser de repente, mas... você levaria ele com você…?",
+        "pt": "[Sarum]\nViajante, eu conversei com o meu pequeno Lunático ontem.\nTalvez seja muito cedo para pedir, mas... você levaria ele com você…?",
         "es": "[Sarum]\nTrotamundos, hablé con mi pequeño Lunático ayer.\nPuede ser de repente, pero… ¿lo llevarías contigo…?"
     },
     "VW/EDA": {
@@ -1897,7 +1897,7 @@
     },
     "/G/EDA": {
         "ko": "[에드마프]\n루나틱처럼 조그만 아이들도, 사람보다 거대한 데다 돌이며 나무처럼 생긴 아이들도 똑같아요. 신기하고 멋진 일이죠.",
-        "en": "[Edna]\nBut it's very sad that there are horrible people who do that. I'm going to put an Asura in the middle of their butts.",
+        "en": "[Edna]\nBut it's very sad that there are horrible people who do that. I'm going to Asura their asses.",
         "pt": "[Edna]\nMas é muito triste que existam pessoas horríveis que fazem isso. Vou meter um Asura no meio do bumbum deles.",
         "es": "[Edna]\nPero es muy triste que existan personas horribles que hacen eso. Les voy a meter un Asura en medio del trasero."
     },
@@ -1909,7 +1909,7 @@
     },
     "/m/EDA": {
         "ko": "[큐펫 데비루치]\n중얼중얼... 어쩌구저쩌구... 에잇, 안 듣고 있지? 요 귀여운 내 주인 같으니.",
-        "en": "[Deviruchi]\nAt least that's what the new research presented by the Federal University of Alberta, the FAU, says.",
+        "en": "[Deviruchi]\nAt least that's what the new research presented by the Alberta State University, the ASU, says.",
         "pt": "[Deviruchi]\nPelo menos é o que diz a nova pesquisa apresentada pela Universidade Federal de Alberta, a UFA.",
         "es": "[Deviruchi]\nAl menos eso dice la nueva investigación presentada por la Universidad Federal de Alberta, la UFA."
     },
@@ -2011,21 +2011,21 @@
     },
     "D3DEDA": {
         "ko": "위스타드",
-        "en": "Wistard",
-        "pt": "Wistard",
-        "es": "Wistard"
+        "en": "Wistar",
+        "pt": "Wistar",
+        "es": "Wistar"
     },
     "EHDEDA": {
         "ko": "[위스타드]\n......Zzz... zz...",
-        "en": "[Wistard]\n......Zzz... zz...",
-        "pt": "[Wistard]\n......Zzz... zz...",
-        "es": "[Wistard]\n......Zzz... zz..."
+        "en": "[Wistar]\n......Zzz... zz...",
+        "pt": "[Wistar]\n......Zzz... zz...",
+        "es": "[Wistar]\n......Zzz... zz..."
     },
     "EXDEDA": {
         "ko": "[위스타드]\n궁극의 마법! 맛있는 쿠키 알......!!!!!!",
-        "en": "[Wistard]\nTime to use the supreme magic......!!!!!!",
-        "pt": "[Wistard]\nHora de usar a magia suprema......!!!!!!",
-        "es": "[Wistard]\n¡¡Hora de usar la magia suprema......!!!!!!"
+        "en": "[Wistar]\nTime to use the supreme magic......!!!!!!",
+        "pt": "[Wistar]\nHora de usar a magia suprema......!!!!!!",
+        "es": "[Wistar]\n¡¡Hora de usar la magia suprema......!!!!!!"
     },
     "EnDEDA": {
         "ko": "상자",

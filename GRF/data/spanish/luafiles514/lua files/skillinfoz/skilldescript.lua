@@ -9573,7 +9573,7 @@ SKILL_DESCRIPT = {
 		"Forma de habilidad: ^777777Activa/Descartar FAW^000000",
 		"Descripción: ^777777Desactiva 1 FAW activa del suelo. También permite desactivar las FAW de otros jugadores. Consume 1 <Llave inglesa>^000000"
 	},
-	[SKID.SC_STARTMARK] = {
+	[SKID.SC_FATALMENACE] = {
 		"Amenaza Mortal ^777777(Fatal Menace)^000000",
 		"Nv. máx.: 10",
 		"Habilidad requerida: ^777777Intimidación 5^000000",

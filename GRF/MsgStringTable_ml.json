@@ -24794,26 +24794,30 @@
     "TVNJX0dBTUVfU0VUVElOR1NfVEFCX0JBU0lD": {
         "ko": "기본 설정",
         "en": "Default settings",
-        "pt": "Configura??es padr?o",
+        "pt": "Configurações padrão",
+        "unknown_8": "Ajustes predeterminados",
         "es": "Ajustes predeterminados"
     },
     "TVNJX0dBTUVfU0VUVElOR1NfVEFCX0VGRkVDVA==": {
         "ko": "이펙트 설정",
         "en": "Effect settings",
-        "pt": "Configura??es de efeito",
+        "pt": "Configurações de efeito",
+        "unknown_8": "Ajustes de efectos",
         "es": "Ajustes de efectos"
     },
     "TVNJX0dBTUVfU0VUVElOR1NfVEFCX0NPTlRST0w=": {
         "ko": "컨트롤 설정",
         "en": "Control settings",
-        "pt": "Configura??es de controle",
+        "pt": "Configurações de controle",
+        "unknown_8": "Ajustes de control",
         "es": "Ajustes de control"
     },
     "TVNJX0dBTUVfU0VUVElOR1NfVEFCX0dSQVBISUNT": {
         "ko": "그래픽 설정",
         "en": "Graphics settings",
-        "pt": "Configura??es gr?ficas",
-        "es": "Ajustes de gr?ficos"
+        "pt": "Configurações gráficas",
+        "unknown_8": "Ajustes de gráficos",
+        "es": "Ajustes de gráficos"
     },
     "TVNJX0dBTUVfU0VUVElOR1NfRU1CTEVNX0ZSQU1F": {
         "ko": "엠블렘 테두리",
@@ -25268,13 +25272,13 @@
     "TVNJX0dBTUVfU0VUVElOR1NfTE9HSU5PVVQ=": {
         "ko": "로그인 알림",
         "en": "Login notification",
-        "pt": "Notifica??o de login",
-        "es": "Notificaci?n de inicio de sesi?n"
+        "pt": "Notificação de login",
+        "es": "Notificación de inicio de sesión"
     },
     "TVNJX0dBTUVfU0VUVElOR1NfVEFCX0VUQw==": {
         "ko": "기타 설정",
         "en": "Other settings",
-        "pt": "Outras configura??es",
+        "pt": "Outras configurações",
         "es": "Otros ajustes"
     },
     "TVNJX0dBTUVfU0VUVElOR1NfRk9HX09O": {
@@ -25305,24 +25309,24 @@
         "ko": "최적 경로",
         "en": "Optimal route",
         "pt": "Rota ideal",
-        "es": "Ruta ?ptima"
+        "es": "Ruta óptima"
     },
     "TVNJX0FVVE9fQ0hBTkdFX1NJTVBMRV9VSQ==": {
         "ko": "간편 UI로 자동 변경",
         "en": "Automatically change to simple UI",
         "pt": "Alterar automaticamente para IU simples",
-        "es": "Cambiar autom?ticamente a interfaz simple"
+        "es": "Cambiar automáticamente a interfaz simple"
     },
     "TVNJX1NJTVBMRV9OQVZJR0FUSU9O": {
         "ko": "간편 내비게이션",
         "en": "Simple navigation",
-        "pt": "Navega??o simples",
-        "es": "Navegaci?n simple"
+        "pt": "Navegação simples",
+        "es": "Navegación simple"
     },
     "TVNJX0FNRU5JVElFU19TSE9XX0hJREU=": {
         "ko": "편의시설 보임/숨김",
         "en": "Show/hide facilities",
-        "pt": "Mostrar/ocultar instala??es",
+        "pt": "Mostrar/ocultar instalações",
         "es": "Mostrar/ocultar instalaciones"
     },
     "TVNJX0VYUEFOU0lPTl9NSU5JTUFQ": {
@@ -25334,44 +25338,44 @@
     "TVNJX09QVElPTl9FU0M=": {
         "ko": "옵션(ESC)",
         "en": "Options (ESC)",
-        "pt": "Op??es (ESC)",
+        "pt": "Opções (ESC)",
         "es": "Opciones (ESC)"
     },
     "TVNJX1NFTEVDVF9RVUVTVA==": {
         "ko": "퀘스트 선택",
         "en": "Quest selection",
-        "pt": "Sele??o de miss?es",
-        "es": "Selecci?n de misi?n"
+        "pt": "Seleção de missões",
+        "es": "Selección de misión"
     },
     "TVNJX1VJX1NPVU5E": {
         "ko": "UI 상호작용 효과음",
         "en": "UI interaction sound effects",
-        "pt": "Efeitos sonoros de intera??o da IU",
-        "es": "Efectos de sonido de interacci?n de la interfaz"
+        "pt": "Efeitos sonoros de interação da IU",
+        "es": "Efectos de sonido de interacción de la interfaz"
     },
     "TVNJX1VJX1NPVU5EX09O": {
         "ko": "UI 상호작용 효과음 On",
         "en": "UI interaction sound effects On",
-        "pt": "Efeitos sonoros de intera??o da IU Ligados",
-        "es": "Efectos de sonido de interacci?n de la interfaz activados"
+        "pt": "Efeitos sonoros de interação da IU Ligados",
+        "es": "Efectos de sonido de interacción de la interfaz activados"
     },
     "TVNJX1VJX1NPVU5EX09GRg==": {
         "ko": "UI 상호작용 효과음 Off",
         "en": "UI interaction sound effects Off",
-        "pt": "Efeitos sonoros de intera??o da IU Desligados",
-        "es": "Efectos de sonido de interacci?n de la interfaz desactivados"
+        "pt": "Efeitos sonoros de interação da IU Desligados",
+        "es": "Efectos de sonido de interacción de la interfaz desactivados"
     },
     "TVNJX0FMUkVBRFlfU09VTkRfT0ZG": {
         "ko": "효과음이 Off 상태입니다.Off 해제하고 시도해 주세요.",
         "en": "Sound effects are Off. Please turn them Off and try again.",
-        "pt": "Os efeitos sonoros est?o Desligados. Desligue-os e tente novamente.",
-        "es": "Los efectos de sonido est?n desactivados. Desact?valos y vuelve a intentarlo."
+        "pt": "Os efeitos sonoros estão Desligados. Desligue-os e tente novamente.",
+        "es": "Los efectos de sonido están desactivados. Desactívalos y vuelve a intentarlo."
     },
     "TVNJX0VYUExBSU5fVUlfU09VTkQ=": {
         "ko": "/uisound : UI 상호작용 효과음 On Off",
         "en": "/uisound : UI interaction sound effects On Off",
-        "pt": "/uisound : Efeitos sonoros de intera??o da IU Ligados Desligados",
-        "es": "/uisound : Efectos de sonido de interacci?n de la interfaz activados/desactivados"
+        "pt": "/uisound : Efeitos sonoros de interação da IU Ligados Desligados",
+        "es": "/uisound : Efectos de sonido de interacción de la interfaz activados/desactivados"
     },
     "TVNJX1JVTkVTWVNURU1fUlVORVRJVExF": {
         "ko": "%s의 룬 조각",
@@ -25382,19 +25386,19 @@
     "TVNJX01FTU9SSUFMX0RVTl9ERVNUUk9ZX0VYUEVDVEVE": {
         "ko": "%d초 후 메모리얼 던전이 파괴됩니다. 던전 밖으로 이동해 주세요",
         "en": "The Memorial Dungeon will be destroyed in %d seconds. Please move out of the dungeon",
-        "pt": "A Masmorra Memorial ser? destru?da em %d segundos. Saia da masmorra",
-        "es": "La mazmorra conmemorativa ser? destruida en %d segundos. Sal de la mazmorra."
+        "pt": "A Masmorra Memorial será destruída em %d segundos. Saia da masmorra",
+        "es": "La mazmorra conmemorativa será destruida en %d segundos. Sal de la mazmorra."
     },
     "TVNJX0NBTk5PVF9NT1ZFX0lORE9PUl9NQVA=": {
         "ko": "실내 즉시 이동은 지원하지 않습니다.",
         "en": "Indoor immediate movement is not supported.",
-        "pt": "Movimento imediato interno n?o ? suportado.",
+        "pt": "Movimento imediato interno não é suportado.",
         "es": "No se permite el movimiento inmediato en interiores."
     },
     "TVNJX0NBTk5PVF9SRUNFSVZFX1dFQk1BTExfUk9ERVg=": {
         "ko": "*웹몰 구매 상품은 해당서버에서 받을 수 없습니다.",
         "en": "*Products purchased from the web mall cannot be received on the corresponding server.",
-        "pt": "*Produtos comprados no web mall n?o podem ser recebidos no servidor correspondente.",
+        "pt": "*Produtos comprados no web mall não podem ser recebidos no servidor correspondente.",
         "es": "*Los productos comprados en la tienda web no se pueden recibir en el servidor correspondiente."
     },
     "TVNJX1VJX1NBVkU=": {
@@ -25448,7 +25452,7 @@
     "TVNJX0RBTUFHRURfUkFSTQ==": {
         "ko": "오른손 장비가",
         "en": "Right hand equipment",
-        "pt": "Equipamento para a m?o direita",
+        "pt": "Equipamento para a mão direita",
         "es": "Equipo para mano derecha"
     },
     "TVNJX1VJX01FUkNIQU5USVRFTV9QVVJDSEFTRV9CVVk=": {
@@ -25466,37 +25470,37 @@
     "TVNJX1NLSUxMX0RFTEFZX0lORk8=": {
         "ko": "캐스팅 정보",
         "en": "Casting Information",
-        "pt": "Informa??es de conjura??o",
-        "es": "Informaci?n de lanzamiento"
+        "pt": "Informações de conjuração",
+        "es": "Información de lanzamiento"
     },
     "TVNJX1NLSUxMX0RFTEFZX0lORk9fQ0FTVF9GSVhFRA==": {
         "ko": "고정 캐스팅",
         "en": "Fixed Casting",
-        "pt": "Conjura??o fixa",
+        "pt": "Conjuração fixa",
         "es": "Lanzamiento fijo"
     },
     "TVNJX1NLSUxMX0RFTEFZX0lORk9fQ0FTVF9TVEFU": {
         "ko": "변동 캐스팅",
         "en": "Variable Casting",
-        "pt": "Conjura??o vari?vel",
+        "pt": "Conjuração variável",
         "es": "Lanzamiento variable"
     },
     "TVNJX1NLSUxMX0RFTEFZX0lORk9fR0xPQkFMX1BPU1Q=": {
         "ko": "글로벌 쿨타임",
         "en": "Global Cooldown",
-        "pt": "Resfriamento global",
-        "es": "Tiempo de reutilizaci?n global"
+        "pt": "Tempo de recarga global",
+        "es": "Tiempo de reutilización global"
     },
     "TVNJX1NLSUxMX0RFTEFZX0lORk9fU0lOR0xFX1BPU1Q=": {
         "ko": "스킬 쿨타임",
         "en": "Skill Cooldown",
-        "pt": "Resfriamento de habilidade",
-        "es": "Tiempo de reutilizaci?n de habilidad"
+        "pt": "Tempo de recarga de habilidade",
+        "es": "Tiempo de reutilización de habilidad"
     },
     "TVNJX1NLSUxMX0RFTEFZX0lORk9fQ0FTVF9TUEVDSUFM": {
         "ko": "특수 캐스팅",
         "en": "Special Casting",
-        "pt": "Conjura??o especial",
+        "pt": "Conjuração especial",
         "es": "Lanzamiento especial"
     },
     "TVNJX1NLSUxMX0RFTEFZX0lORk9fVElNRQ==": {

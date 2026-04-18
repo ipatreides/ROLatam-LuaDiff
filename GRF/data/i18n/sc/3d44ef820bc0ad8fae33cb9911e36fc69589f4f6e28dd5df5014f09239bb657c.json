@@ -556,5 +556,95 @@
         "en": "Mission: Defeat Phantom of Amdarais",
         "pt": "Missão: Eliminar Amdarais Sombrio",
         "es": "Misión: Eliminar Amdarais Sombrio"
+    },
+    "PTybDA": {
+        "ko": "Orc Zombie처치",
+        "en": "Defeat Orc Zombie",
+        "pt": "Derrotar Orc Zombie",
+        "es": "Derrotar Orc Zombie"
+    },
+    "PjybDA": {
+        "ko": "킬 하이르 학원 정복",
+        "en": "Conquer Kiel Hyre Academy",
+        "pt": "Conquistar a Academia Kiel Hyre",
+        "es": "Conquistar la Academia Kiel Hyre"
+    },
+    "PzybDA": {
+        "ko": "Coagulated Spell 배달",
+        "en": "Deliver Coagulated Spell",
+        "pt": "Entregar Coagulated Spell",
+        "es": "Entregar Coagulated Spell"
+    },
+    "QDybDA": {
+        "ko": "Orc Claw 배달",
+        "en": "Deliver Orc Claw",
+        "pt": "Entregar Orc Claw",
+        "es": "Entregar Orc Claw"
+    },
+    "QTybDA": {
+        "ko": "[Mission Board]\nOrc Zombie 50마리 처치\nEXP Battle Pass 3",
+        "en": "[Mission Board]\nDefeat 50 Orc Zombies\nEXP Battle Pass 3",
+        "pt": "[Mission Board]\nDerrote 50 Orc Zombies\nEXP Battle Pass 3",
+        "es": "[Mission Board]\nDerrota 50 Orc Zombies\nEXP Battle Pass 3"
+    },
+    "QjybDA": {
+        "ko": "[Mission Board]\nALIOT, ALIZA, ALICEL 100마리씩 처치\nEXP Battle Pass 4",
+        "en": "[Mission Board]\nDefeat 100 each of ALIOT, ALIZA, and ALICEL\nEXP Battle Pass 4",
+        "pt": "[Mission Board]\nDerrote 100 de cada: ALIOT, ALIZA e ALICEL\nEXP Battle Pass 4",
+        "es": "[Mission Board]\nDerrota 100 de cada uno: ALIOT, ALIZA y ALICEL\nEXP Battle Pass 4"
+    },
+    "QzybDA": {
+        "ko": "[Mission Board]\nCoagulated Spell 10개를 배달하세요.\nEXP Battle Pass 4",
+        "en": "[Mission Board]\nDeliver 10 Coagulated Spells.\nEXP Battle Pass 4",
+        "pt": "[Mission Board]\nEntregue 10 Coagulated Spells.\nEXP Battle Pass 4",
+        "es": "[Mission Board]\nEntrega 10 Coagulated Spells.\nEXP Battle Pass 4"
+    },
+    "RDybDA": {
+        "ko": "[Mission Board]\nOrc Claw 50개를 배달하세요.\nEXP Battle Pass 3",
+        "en": "[Mission Board]\nDeliver 50 Orc Claws.\nEXP Battle Pass 3",
+        "pt": "[Mission Board]\nEntregue 50 Orc Claws.\nEXP Battle Pass 3",
+        "es": "[Mission Board]\nEntrega 50 Orc Claws.\nEXP Battle Pass 3"
+    },
+    "RTybDA": {
+        "ko": "Defeat CUTIE",
+        "en": "Defeat CUTIE",
+        "pt": "Derrotar CUTIE",
+        "es": "Derrotar CUTIE"
+    },
+    "RjybDA": {
+        "ko": "[Mission Board]\nCUTIE 5마리 처치\nEXP Battle Pass 20",
+        "en": "[Mission Board]\nDefeat 5 CUTIEs\nEXP Battle Pass 20",
+        "pt": "[Mission Board]\nDerrote 5 CUTIEs\nEXP Battle Pass 20",
+        "es": "[Mission Board]\nDerrota 5 CUTIEs\nEXP Battle Pass 20"
+    },
+    "RzybDA": {
+        "ko": "Orc Zombie 처치 의뢰",
+        "en": "Orc Zombie Subjugation Request",
+        "pt": "Pedido para derrotar Orc Zombie",
+        "es": "Solicitud para derrotar Orc Zombie"
+    },
+    "SDybDA": {
+        "ko": "킬 하이르 학원 정복 의뢰",
+        "en": "Kiel Hyre Academy Conquest Request",
+        "pt": "Pedido para conquistar a Academia Kiel Hyre",
+        "es": "Solicitud para conquistar la Academia Kiel Hyre"
+    },
+    "STybDA": {
+        "ko": "Deliver Coagulated Spell 의뢰",
+        "en": "Deliver Coagulated Spell Request",
+        "pt": "Pedido para entregar Coagulated Spell",
+        "es": "Solicitud para entregar Coagulated Spell"
+    },
+    "SjybDA": {
+        "ko": "Deliver Orc Claw 의뢰",
+        "en": "Deliver Orc Claw Request",
+        "pt": "Pedido para entregar Orc Claw",
+        "es": "Solicitud para entregar Orc Claw"
+    },
+    "SzybDA": {
+        "ko": "CUTIE 처치 의뢰",
+        "en": "CUTIE Subjugation Request",
+        "pt": "Pedido para derrotar CUTIE",
+        "es": "Solicitud para derrotar CUTIE"
     }
 }

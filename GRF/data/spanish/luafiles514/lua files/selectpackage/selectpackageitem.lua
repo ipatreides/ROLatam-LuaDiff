@@ -670,6 +670,36 @@ packageitemboxName = {
 		"Gafas de Seguridad"
 	},
 	{
+		107036,
+		0,
+		"Aura de sujeto de prueba decorativa, Documentos de investigación biológica"
+	},
+	{
+		107036,
+		1,
+		"Aura de sujeto de prueba decorativa (roja), Fragmento de experimento biológico"
+	},
+	{
+		107035,
+		0,
+		"[Disfraz] Canasta de Pitaya Amarilla"
+	},
+	{
+		107035,
+		1,
+		"[Disfraz] Canasta de Pitaya Azul"
+	},
+	{
+		107035,
+		2,
+		"[Disfraz] Canasta de Pitaya Verde"
+	},
+	{
+		107035,
+		3,
+		"[Disfraz] Canasta de Pitaya Roja"
+	},
+	{
 		0,
 		0,
 		"0"
@@ -2381,6 +2411,114 @@ packageitemsetbox = {
 		106930,
 		2,
 		410614,
+		1,
+		0,
+		0,
+		0
+	},
+	{
+		107036,
+		0,
+		20132,
+		1,
+		0,
+		0,
+		0
+	},
+	{
+		107036,
+		0,
+		25786,
+		50,
+		0,
+		0,
+		0
+	},
+	{
+		107036,
+		1,
+		20407,
+		1,
+		0,
+		0,
+		0
+	},
+	{
+		107036,
+		1,
+		25787,
+		50,
+		0,
+		0,
+		0
+	},
+	{
+		107035,
+		0,
+		20629,
+		1,
+		0,
+		0,
+		0
+	},
+	{
+		107035,
+		0,
+		102740,
+		1,
+		0,
+		0,
+		0
+	},
+	{
+		107035,
+		1,
+		20628,
+		1,
+		0,
+		0,
+		0
+	},
+	{
+		107035,
+		1,
+		102740,
+		1,
+		0,
+		0,
+		0
+	},
+	{
+		107035,
+		2,
+		480181,
+		1,
+		0,
+		0,
+		0
+	},
+	{
+		107035,
+		2,
+		102740,
+		1,
+		0,
+		0,
+		0
+	},
+	{
+		107035,
+		3,
+		20627,
+		1,
+		0,
+		0,
+		0
+	},
+	{
+		107035,
+		3,
+		102740,
 		1,
 		0,
 		0,

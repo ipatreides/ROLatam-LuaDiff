@@ -25,7 +25,7 @@ tbl = {
 		Image = "유저인터페이스\\tipbox\\tip00002",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"Ingresa /h para ver los comandos útiles que se usan en Ragnarok.\\n^3b488cIngresa los comandos con / en el chat^000000 para usarlos..\n\t\t\t\t\\n<TIPBOX>- Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			"Puedes ver los comandos útiles usados en Ragnarok escribiendo /h.\\nLos comandos con / se pueden usar ^3b488cescribiéndolos en la ventana de chat^000000.\n\t\t\t\\n<TIPBOX>>Lista de Comandos<INFO>83</INFO></TIPBOX>\n\t\t\t<TIPBOX>>Comandos de Juego y Configuración<INFO>166</INFO></TIPBOX>\n\t\t\t<TIPBOX>>Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[3] = {
@@ -265,12 +265,12 @@ tbl = {
 		}
 	},
 	[15] = {
-		Title = "Modo de bloqueo: ataque automático",
+		Title = "Configuración de Control: Modo Lock-on No Ctrl#/nc,Ataque Automático",
 		Search = 1,
 		Image = "유저인터페이스\\tipbox\\tip00014",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"Si presionas la tecla Ctrl mientras atacas a un monstruo, ^3b488catacarás automáticamente^000000 hasta que este muera.\\nAdemás, ^3b488cingresar /noctrl activará este modo sin necesidad de presionar Ctrl.\\nSi vuelves a ingresar /noctrl mientras está activado, se desactivará el ataque automático..\n\t\t\t\t<TIPBOX>- Battle: ATK<INFO>14</INFO></TIPBOX>\n\t\t\t\t\\n<TIPBOX>- Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			"Al atacar a un monstruo mientras mantienes presionada la tecla Ctrl, el personaje ^3b488catacará automáticamente^000000 hasta derrotarlo. Puedes cancelarlo haciendo clic en otro lugar.\\nAdemás, al escribir ^3b488c/noctrl^000000, el ataque automático se activará sin necesidad de presionar Ctrl.\\nSi el ataque automático ya está activo, al escribir /noctrl nuevamente se desactivará.^000000\n\t\t\tTambién puedes usar /nc.\n\t\t\t\n\t\t\t<TIPBOX>>Combate: Ataque<INFO>14</INFO></TIPBOX>\n\t\t\t<TIPBOX>>Configuración de Control<INFO>152</INFO></TIPBOX>\n\t\t\t<TIPBOX>>Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[16] = {
@@ -343,12 +343,12 @@ tbl = {
 		}
 	},
 	[20] = {
-		Title = "Chat: salas de chat",
+		Title = "Chat: Sala de Chat#/q,/chat",
 		Search = 1,
 		Image = "유저인터페이스\\tipbox\\tip00020",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"Use /chat to open a window for making ^3b488cChat Windows^000000. Also, use /q to exit a chatting room.\n\t\t\t\t<TIPBOX>- Chatting: Conversation<INFO>19</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>- Chatting: Saving Chat History<INFO>24</INFO></TIPBOX>\n\t\t\t\t\\n<TIPBOX>- Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			"Puedes abrir la ventana para crear una ^3b488csala de chat^000000 usando /chat. También puedes salir de la sala con el comando /q.\n\t\t<TIPBOX>>Chat: Conversación<INFO>19</INFO></TIPBOX>\n\t\t<TIPBOX>>Chat: Guardar Conversación<INFO>24</INFO></TIPBOX>\n\t\t<TIPBOX>>Comandos de Juego y Configuración<INFO>166</INFO></TIPBOX>\n\t\t\\n<TIPBOX>>Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[21] = {
@@ -434,12 +434,12 @@ Inputting a character name to the input field left of the chat window will allow
 		}
 	},
 	[26] = {
-		Title = "Chat: mostrar contenido",
+		Title = "Chat: Mostrar Mensajes#/notalkmsg,/nm",
 		Search = 1,
 		Image = "유저인터페이스\\tipbox\\tip00026",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"Ingresa /notalkmsg en la ventana de chat para ocultar los mensajes en la ventana de chat. Activado/desactivado\\nSi ingresas /notalkmsg2, también se ocultará el chat del gremio.. On/Off\n\t\t\t\t\\n<TIPBOX>- Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			"Puedes configurar si los mensajes se muestran en la ventana de chat.\n\t\t>Comandos de Chat General\n\t\t/notalkmsg, /nm\n\t\t\n\t\t>Comandos de Chat de Gremio\n\t\t/notalkmsg2, /nm2\n\t\tLos mensajes, incluido el chat de gremio, no se mostrarán en la ventana de chat.\n\t\t\n\t\t<TIPBOX>>Chat<INFO>19</INFO></TIPBOX>\n\t\t<TIPBOX>>Comandos de Juego y Configuración<INFO>166</INFO></TIPBOX>\n\t\t<TIPBOX>>Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[27] = {
@@ -452,21 +452,22 @@ Inputting a character name to the input field left of the chat window will allow
 		}
 	},
 	[28] = {
-		Title = "Bloqueo",
+		Title = "Bloquear#/ex,/inall,/exall/bloquear",
 		Search = 1,
 		Image = "유저인터페이스\\tipbox\\tip00028",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"Usa /ex “nombre del personaje” para bloquear todo lo que diga el personaje, así como sus mensajes privados. Para desbloquearlo, usa /in “nombre del personaje”.\\nAdemás, puedes usar /blockall, /unblockall, /exall y /inall para bloquear o desbloquear todos los chats o mensajes privados.\\nUsa /ex para ver una lista de los personajes que bloqueaste..\\n^ff0000No hay una pregunta de confirmación, así que piénsalo bien antes de usarlo..^000000\n\t\t\t\t\\n<TIPBOX>- Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			"Puedes bloquear los mensajes y susurros de un personaje usando /bloquear NombreDelPersonaje o /ex NombreDelPersonaje. Para desbloquear, usa /desbloquear NombreDelPersonaje o /in NombreDelPersonaje.\\nTambién puedes bloquear o desbloquear todos los mensajes usando /bloquearTodo, /exall, /desbloquearTodo o /inall.\\nPara ver la lista de personajes bloqueados, usa /bloquear o /ex.\\n^ff0000※ No se solicitará confirmación (Y/N), así que elige con cuidado.^000000\n\t\t\n\t\t<TIPBOX>>Comandos de Juego y Configuración<INFO>166</INFO></TIPBOX>\n\t\t<TIPBOX>>Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[29] = {
-		Title = "Sistema de grupos",
+		Title = "Sistema de Grupo#/organize,/leave",
 		Search = 1,
 		Image = "유저인터페이스\\tipbox\\tip00029",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"Usa /organize “nombre del grupo” para crear un grupo.\\nUsa /leave para salir de un grupo..=],\n\t\t\t\t[=[Si formaste un grupo y te convertiste en el líder, puedes invitar a otros personajes. Haz clic con el botón derecho del mouse sobre ellos y, luego, en el menú “Invitar al grupo” o usa /no “nombre del personaje”.\\nSi quieres quitar a un miembro de ^3b488cun grupo que lideras^000000, usa /expel “nombre del personaje”.\\n^ff0000No hay una pregunta de confirmación, así que piénsalo bien antes de usarlo..=],\n\t\t\t\t<TIPBOX>- Chatting: Parties<INFO>22</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>- Party Finder<INFO>70</INFO></TIPBOX>\n\t\t\t\t\\n<TIPBOX>- Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			"Puedes crear un grupo usando /organize NombreDelGrupo.\\nPuedes salir del grupo usando /leave.",
+			"Si eres el líder del grupo, puedes invitar a otros haciendo clic derecho sobre el personaje y seleccionando \"Invitar al Grupo\" o usando /invite NombreDelPersonaje.\\nPara expulsar a un miembro, usa /expel NombreDelPersonaje de ^3b488ctu grupo^000000.\\n^ff0000※ No se solicitará confirmación (Y/N), así que elige con cuidado.^000000\n\t\t\n\t\t<TIPBOX>>Chat: Grupo<INFO>22</INFO></TIPBOX>\n\t\t<TIPBOX>>Agencia de Aventureros<INFO>70</INFO></TIPBOX>\n\t\t<TIPBOX>>Comandos de Juego y Configuración<INFO>166</INFO></TIPBOX>\n\t\t<TIPBOX>>Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[30] = {
@@ -515,12 +516,12 @@ Inputting a character name to the input field left of the chat window will allow
 		}
 	},
 	[41] = {
-		Title = "Opciones del juego: atajos",
+		Title = "Opciones del Juego: Atajos",
 		Search = 1,
 		Image = "",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"See or edit shortcuts.\n\t\t\t\t<TIPBOX>- Shortcuts: Macros<INFO>42</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>- Shortcuts: Skill Bar<INFO>43</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>- Shortcuts: Battle Mode<INFO>44</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>- Shortcuts: F1-F12<INFO>45</INFO></TIPBOX>\n\t\t\t\t\\n<TIPBOX>- Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			"Puedes revisar o modificar las teclas de acceso rápido.\n\t\t<TIPBOX>>Atajos: Macro<INFO>42</INFO></TIPBOX>\n\t\t<TIPBOX>>Atajos: Barra de Habilidades<INFO>43</INFO></TIPBOX>\n\t\t<TIPBOX>>Atajos: Modo de Batalla<INFO>44</INFO></TIPBOX>\n\t\t<TIPBOX>>Atajos: F1~F12<INFO>45</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>>Ventana de Opciones del Juego<INFO>32</INFO></TIPBOX>\n\t\t<TIPBOX>>Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[42] = {
@@ -559,13 +560,170 @@ Inputting a character name to the input field left of the chat window will allow
 			"F1 a F9: usar las habilidades vinculadas con la barra de habilidades.\\nF10: ajustar el tamaño de la ventana de chat.\\nF11: dejar abiertas solo las ventanas de información básica y de conversación, y cerrar el resto..\\nF12: abrir o cerrar la barra de habilidades..\n\t\t\t\t<TIPBOX>- Game Options: Shortcuts<INFO>41</INFO></TIPBOX>\n\t\t\t\t\\n<TIPBOX>- Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 		}
 	},
+	[46] = {
+		Title = "Eliminación de Efecto de Traje#Traje/Cambio,/changedress,/nocosplay,evento,vestido de boda,hanbok,traje de baño",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00046",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Algunos efectos de transformación de traje pueden impedir el combate. En estos casos, puedes eliminarlos usando /changedress o /nocosplay.\n\t\t\n\t\tSi te cuesta recordar los comandos, también puedes eliminar el efecto hablando con el NPC <NAVI>[Servicio de Eliminación de Efecto de Traje]<INFO>prontera,80,106,0,101,0</INFO></NAVI> en Prontera.\n\t\t\n\t\t<TIPBOX>>Comandos de Juego y Configuración<INFO>166</INFO></TIPBOX>\n\t\t<TIPBOX>>Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		},
+		PageEX = {
+			{
+				EffectNum = 3,
+				Twinkle = 1,
+				StartX = 120,
+				StartY = 158,
+				DistX = 120,
+				DistY = 158,
+				MoveTime = 0
+			}
+		}
+	},
+	[47] = {
+		Title = "Sistema de Mascota#Mascota,domar,huevo de mascota,evolución,dar de comer,actuación,eclosión",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00047",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Mascota es un sistema que te permite domar monstruos que aparecen en campos y mazmorras para convertirlos en adorables mascotas monstruo.\n\t\t\tLos monstruos domados siempre siguen a su dueño, muestran diversas actuaciones y, según la habilidad única de cada Mascota, también pueden ser de gran ayuda para su dueño.\n\t\t\t\n\t\t\t<TIPBOX>•Mascota: Domar<INFO>48</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Mascota: NPC relacionados<INFO>49</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Mascota: Precauciones<INFO>50</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Mascota: Evolución<INFO>51</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Lista de Mascota<INFO>10089</INFO></TIPBOX>\n\t\t\t\\n<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[48] = {
+		Title = "Mascota: Domar#huevo de mascota",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00047",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Para domar un monstruo, debes preparar el objeto de domar adecuado para ese monstruo.\n\t\t\tUna vez que hayas preparado toda la información del monstruo que deseas domar y el objeto de domar, haz doble clic en el objeto de domar y selecciona al monstruo objetivo.\n\t\t\tAl seleccionar al monstruo, aparecerá una tragamonedas en el centro de la pantalla, y al hacer clic en ella podrás comprobar si el domado ha tenido éxito o ha fallado.\n\t\t\t\n\t\t\tSi el domado tiene éxito, aparecerá el mensaje Success junto con el mensaje de obtención del huevo del monstruo, y podrás comprobar el huevo del monstruo en el inventario.\n\t\t\t\n\t\t\t<TIPBOX>•Sistema de Mascota<INFO>47</INFO></TIPBOX>\n\t\t\t\\n<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[49] = {
+		Title = "Mascota: NPC relacionados#Comerciante domador,comida para mascotas,incubadora portátil,incubadora portátil de huevos,comida para mascotas,accesorio para mascotas",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00047",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"> Comerciante de intercambio de mascotas\n\t\t\t\tSi tienes un cupón que se puede intercambiar por una Mascota, puedes canjearlo por la Mascota designada a través del comerciante de intercambio de mascotas ubicado en ^3b488cAlberta y Prontera^000000.\n\t\t\t\t<NAVI>[Comerciante de intercambio de mascotas de Alberta]<INFO>alberta,179,141,0,101,0</INFO></NAVI>\n\t\t\t\t<NAVI>[Comerciante de intercambio de mascotas de Prontera]<INFO>prontera,210,209,0,101,0</INFO></NAVI>\n\t\t\t\t\n\t\t\t> Comerciante de domado\n\t\t\t\tEstá ubicado en cada ciudad y pueblo, y vende ^3b488cincubadoras portátiles de huevos, comida para mascotas y accesorios^000000, entre otros.\n\t\t\t\t<NAVI>[Prontera Comerciante domador]<INFO>prontera,218,211,0,101,0</INFO></NAVI>\n\t\t\t\t<NAVI>[Geffen Comerciante domador]<INFO>geffen,193,152,0,101,0</INFO></NAVI>\n\t\t\t\t<NAVI>[Izlude Comerciante domador]<INFO>izlude_in,72,98,0,101,0</INFO></NAVI>\n\t\t\t\t<NAVI>[Morroc Comerciante domador]<INFO>morocc,203,87,0,101,0</INFO></NAVI>\n\t\t\t\t<NAVI>[Ruinas de Morroc Comerciante domador]<INFO>moc_ruins,118,170,0,101,0</INFO></NAVI>\n\t\t\t\t<NAVI>[Payon Comerciante domador]<INFO>payon,177,131,0,101,0</INFO></NAVI>\n\t\t\t\t<NAVI>[Juno Comerciante domador]<INFO>yuno,197,114,0,101,0</INFO></NAVI>\n\t\t\t\t<NAVI>[Lighthalzen Comerciante domador]<INFO>lighthalzen,222,191,0,101,0</INFO></NAVI>\n\t\t\t\t<NAVI>[Brasilis Comerciante domador]<INFO>brasilis,201,309,0,101,0</INFO></NAVI>\n\t\t\t\t<NAVI>[Lasagna Comerciante domador]<INFO>lasagna,179,176,0,101,0</INFO></NAVI>\n\t\t\t\t\n\t\t\t\t<TIPBOX>•Sistema de Mascota<INFO>47</INFO></TIPBOX>\n\t\t\t\t\\n<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[50] = {
+		Title = "Mascota: Precauciones#eclosión,dar de comer,actuación,intimidad,hambruna,huida,huevo de mascota",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00047",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Si haces ^3b488cclic derecho^000000 sobre una mascota en estado eclosionado, podrás ver el menú de la mascota.\n\t\t\t\n\t\t\tVer estado de la mascota: Puedes comprobar el estado y la información de la mascota.\n\t\t\tDar de comer: Das comida a la mascota.\n\t\t\tActuación: Ejecuta la actuación única de la mascota.\n\t\t\tQuitar accesorio: Quita el accesorio que la mascota tiene equipado.\n\t\t\tVolver al huevo: Devuelve a la mascota a su estado previo a la eclosión.\n\t\t\t\n\t\t\t※ Puedes cambiar el nombre de una mascota domada con éxito.\n\t\t\t※ Si das de comer a la mascota, puedes mejorar la intimidad con ella.\n\t\t\t\tSi la relación con la mascota alcanza o supera el nivel de íntima, además de sus habilidades básicas, puede obtener habilidades adicionales.\n\t\t\t\tSin embargo, si le das demasiada comida a la mascota o si no le das de comer y siente hambre,\n\t\t\t\to si el personaje dueño queda incapacitado en combate, la intimidad con la mascota disminuirá, y si ^3b488cla intimidad sigue disminuyendo, la mascota puede desaparecer^000000, así que cuida siempre con atención y cariño a la mascota que hayas domesticado.\n\t\t\t※ La mascota puede volver en cualquier momento a su estado de huevo previo a la eclosión, y puede volver a eclosionar usando el objeto 'incubadora portátil de huevos'.\n\t\t\t\n\t\t\t<TIPBOX>•Sistema de Mascota<INFO>47</INFO></TIPBOX>\n\t\t\t\\n<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[51] = {
+		Title = "Mascota: Evolución#evolución de mascota Q",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00047",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Cuando la intimidad de Mascota alcance ^3b488cLeal^000000, será posible evolucionar.\n\t\t\tPara evolucionar, se necesita un ^3b488chuevo de mascota Q^000000 con intimidad leal y ^3b488cmateriales específicos^000000.\n\t\t\t\n\t\t\tAbre la ventana Pet Info y selecciona el menú ^3b488c'Evolución'^000000 en la parte inferior.\n\t\t\t\n\t\t\t> Después de evolucionar\n\t\t\t- Se añade la función de alimentación automática\n\t\t\t(Con solo activar la función de alimentación automática, se dará comida automáticamente. Sin embargo, debes llevar la comida encima, y si permaneces sin comida, la intimidad disminuirá, así que ten cuidado.)\n\t\t\t- Disminuye la cantidad de aumento de intimidad\n\t\t\t(La intimidad aumenta muy lentamente.)\n\t\t\t- Disminuyen las penalizaciones\n\t\t\t(Cuando no se da comida en estado de hambre, la intimidad disminuye lentamente. También disminuye la pérdida de intimidad cuando el personaje queda incapacitado en combate.)\n\t\t\t- Disminuye el consumo de saciedad\n\t\t\t(La saciedad disminuye más lentamente que en Mascota antes de evolucionar.)\n\t\t\t\n\t\t\t<TIPBOX>•Sistema de Mascota<INFO>47</INFO></TIPBOX>\n\t\t\t\\n<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[66] = {
+		Title = "Ítems: Comparar Equipamiento#ventana de comparación",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00066",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Haz clic derecho en un equipo para compararlo con el que tienes equipado actualmente.\n\t\tLa comparación solo funciona con ^3b488cítems del mismo tipo^000000 y solo se muestra cuando tienes ^3b488cequipamiento de ese tipo equipado^000000.\n\t\tEsta función se puede activar o desactivar haciendo clic en el ícono de lupa en la parte inferior del inventario.\n\t\t\n\t\t<TIPBOX>>Configuración de Control<INFO>152</INFO></TIPBOX>\n\t\t<TIPBOX>>Ventana de Opciones del Juego<INFO>32</INFO></TIPBOX>\n\t\t<TIPBOX>>Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[67] = {
+		Title = "Sistema: Mostrar Tiendas",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00067",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Puedes mostrar u ocultar todas las tiendas escribiendo ^3b488c/showshop^000000 en la ventana de chat.\n\t\tSi hay demasiadas tiendas abiertas y afectan la jugabilidad, puedes ocultarlas mientras juegas y volver a mostrarlas cuando necesites comprar objetos.\n\t\t\\n<TIPBOX>>Configuración de Efectos: Ocultar Jugadores<INFO>115</INFO></TIPBOX>\n\t\t<TIPBOX>>Comandos de Juego y Configuración<INFO>166</INFO></TIPBOX>\n\t\t<TIPBOX>>Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
 	[69] = {
-		Title = "Configurações: Anúncio de mapa",
+		Title = "Configuración de Efectos: Nombre del Mapa#movimiento de área,configuración del juego",
 		Search = 1,
 		Image = "유저인터페이스\\tipbox\\tip00069",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"Ao entrar em um mapa, um indicador exibe o nome do local. Esse anúncio pode ser desligado em\\nTecla ^3b488cESC^000000 > Configurações do jogo > aba Configurações.\n\t\t\t\t<TIPBOX>» Configurações: Opções de jogo<INFO>33</INFO></TIPBOX>\n\t\t\t\t\\n<TIPBOX>» Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
+			"Puedes configurar que el nombre del mapa se muestre en la pantalla al moverte entre mapas principales.\n\t\t(^ff0000※Incluso si la opción está activada, el nombre del mapa puede no mostrarse dependiendo del concepto del mapa.^000000)\n\t\t\n\t\tLa visualización del nombre del mapa se puede activar o desactivar ^ff0000en Opciones del Juego (ESC) → Configuración del Juego → Configuración de Efectos^000000.\n\t\t\n\t\t<TIPBOX>>Configuración de Efectos<INFO>143</INFO></TIPBOX>\n\t\t<TIPBOX>>Ventana de Opciones del Juego<INFO>32</INFO></TIPBOX>\n\t\t<TIPBOX>>Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[83] = {
+		Title = "Lista de Comandos#atajos,ranking,aura,efectos,comandos",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00083",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Puedes consultar la lista de comandos presionando Alt + Y.\n\tPuedes activar o desactivar varias funciones.\n\n\t> Algunos Comandos Útiles\n\t/call : Evita ser invocado por otros jugadores. (On/Off)\n\t/changedress : Regresa a tu apariencia normal desde un estado de transformación.\n\t/q1 : Usa la habilidad guardada en F9 con clic derecho.\n\t/snap : Ajusta el cursor cerca del objetivo de ataque.\n\t/savechat : Guarda los mensajes del chat en un archivo.\n\t/alchemist : Muestra el ranking Top 10 de Alquimistas.\n\t/aura2 : Desactiva completamente tu aura.\n\t/noshift : Permite atacar enemigos con curación sin presionar Shift.\n\t/notalkmsg : Oculta los mensajes del chat.\n\t/mineffect : Simplifica los efectos visuales.\n\t\n\t<TIPBOX>>Comandos de Juego y Configuración<INFO>166</INFO></TIPBOX>\n\t<TIPBOX>>Otros Comandos<INFO>191</INFO></TIPBOX>\n\t<TIPBOX>>Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[85] = {
+		Title = "Configuración de Control: Zoom Out#configuración,zoom,pantalla,expandir,reducir",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00085",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Puedes ampliar el campo de visión más allá del valor predeterminado.\n\n\t>Presiona ESC o haz clic en el botón de Opciones para abrir la Configuración del Juego.\n\t→En la pestaña Configuración de Control, activa Zoom Out para ampliar la visión máxima.\n\t>Usa el comando /zoom en la ventana de chat.\n\n\t<TIPBOX>>Configuración de Control<INFO>152</INFO></TIPBOX>\n\t<TIPBOX>>Opciones del Juego<INFO>32</INFO></TIPBOX>\n\t<TIPBOX>>Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[86] = {
+		Title = "Almacén de Zeny (Banco)#banco",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00086",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"El Almacén de Zeny te permite guardar Zeny en tu cuenta y compartirlo entre personajes de la misma cuenta.\n\tPuedes acceder presionando Ctrl + B o haciendo clic en el botón Banco en el menú.\n\t\\n<TIPBOX>>Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[87] = {
+		Title = "Configuración Básica: Marco del Emblema#guild,woe,marco,Frame",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00087",
+		Imgcoord = {Position = 5, Size = 100},
+		PageEX = {
+			{
+				EffectNum = 0,
+				Twinkle = 1,
+				StartX = 150,
+				StartY = 295,
+				DistX = 0,
+				DistY = 0,
+				MoveTime = 0
+			}
+		},
+		Page = {
+			"Puedes activar el marco externo de los emblemas durante la Guerra del Emperium.\n\n\t>Presiona ESC o haz clic en el botón de Opciones para abrir la Configuración del Juego.\n\t→En la pestaña Configuración Básica, activa Mostrar Marco del Emblema.\n\n\t>Comando\n\t/frame\n\n\t<TIPBOX>>Configuración Básica<INFO>33</INFO></TIPBOX>\n\t<TIPBOX>>Opciones del Juego<INFO>32</INFO></TIPBOX>\n\t<TIPBOX>>Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[88] = {
+		Title = "Configuración de Efectos: Expansión de Visualización de Daño#máximo,visualización,99999999999",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00088",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Puedes ampliar el límite máximo de visualización del daño.\n\t(Configuración predeterminada: los daños superiores a 999999 se muestran como 999999)\n\n\t>Presiona ESC o haz clic en el botón de Opciones para abrir la Configuración del Juego.\n\t→Haz clic en Configuración de Efectos.\n\t→Activa Expansión de Visualización de Daño.\n\n\tPuedes cambiar la fuente de visualización del daño.\n\t<TIPBOX>>Cambiar Fuente de Daño<INFO>192</INFO></TIPBOX>\n\n\t<TIPBOX>>Configuración de Efectos<INFO>143</INFO></TIPBOX>\n\t<TIPBOX>>Opciones del Juego<INFO>32</INFO></TIPBOX>\n\t<TIPBOX>>Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[89] = {
+		Title = "Estado#estado,atributos,str,agi,vit,int,dex,luk,aspd",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00006",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Los Estados determinan la dirección de crecimiento del personaje.\n\tCada vez que subes de nivel, recibes puntos de estado que puedes invertir en los atributos deseados para fortalecer tu personaje.\n\tPresiona Alt + A para revisar la ventana de estado y usa las flechas junto a cada atributo (STR, AGI, VIT, INT, DEX, LUK) para asignar puntos.\n\n\tEn la ventana de chat:\n\t/str+ valor\n\t/agi+ valor\n\t/vit+ valor\n\t/int+ valor\n\t/dex+ valor\n\t/luk+ valor\n\tse pueden usar para asignar puntos rápidamente.\n\tEjemplo: Si introduces /str+ 9 y tu STR actual es 1, tu STR pasará a ser 10.\n\t^ff6677※Los puntos de estado se consumen, por lo que el aumento solo se aplicará dentro del límite disponible.^000000\n\t\\n<TIPBOX>>Estado: STR (Fuerza)<INFO>6</INFO></TIPBOX>\n\t<TIPBOX>>Estado: AGI (Agilidad)<INFO>7</INFO></TIPBOX>\n\t<TIPBOX>>Estado: VIT (Vitalidad)<INFO>8</INFO></TIPBOX>\n\t<TIPBOX>>Estado: INT (Inteligencia)<INFO>9</INFO></TIPBOX>\n\t<TIPBOX>>Estado: DEX (Destreza)<INFO>10</INFO></TIPBOX>\n\t<TIPBOX>>Estado: LUK (Suerte)<INFO>11</INFO></TIPBOX>\n\t<TIPBOX>>Ver Lista de Consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[115] = {
+		Title = "Configuración de Efectos: Ocultar Jugadores#personaje,transparente,usuario,ocultar",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00115",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Muestra a todos los personajes, excepto el tuyo, de forma semitransparente.\n\tEsta función te ayuda a encontrar NPCs fácilmente cuando hay demasiados jugadores en pantalla. No se aplica a NPCs, tiendas, salas de chat ni invocaciones.\n\tEsta opción se desactiva cada vez que inicias sesión.\n\t\n\t>Comando rápido : Ctrl+End\n\t\n\t<TIPBOX>>Configuración de Efectos: Ocultar Invocaciones<INFO>150</INFO></TIPBOX>\n\t<TIPBOX>>Configuración de Efectos<INFO>143</INFO></TIPBOX>\n\t<TIPBOX>>Ventana de Opciones del Juego<INFO>32</INFO></TIPBOX>\n\t<TIPBOX>>Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[1000] = {
@@ -1668,7 +1826,7 @@ A religious kingdom that worships the goddess Freya and has achieved unity of ch
 		Image = "",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"Esta es una lista de mascotas que se pueden obtener mediante objetos de domesticación, cupones o eventos.\n\n\t\t\t•Lista de mascotas\n\t\t\t<TIPBOX>mascota Poringcito<INFO>10090</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Poring<INFO>10091</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Mastering<INFO>10092</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Angeling<INFO>10093</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Gotas<INFO>10094</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Eggring<INFO>10095</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Poporing<INFO>10096</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Cría de Lobo de desierto<INFO>10097</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Lobo del desierto<INFO>10098</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Orco<INFO>10099</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Orc Superior<INFO>10100</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Gólem de llama<INFO>10101</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Petite<INFO>10102</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Deleter Terrestre<INFO>10103</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Terror nocturno rígido<INFO>10104</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Baphomet Jr.<INFO>10105</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Baphomet Jr. caótico<INFO>10106</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Peco Peco<INFO>10107</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Gran Peco<INFO>10108</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Osito de Peluche<INFO>10109</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Osito de peluche abandonado<INFO>10110</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Aliot<INFO>10111</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Alicel<INFO>10112</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Espora<INFO>10113</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Espora Venenosa<INFO>10114</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Isis<INFO>10115</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Pequeña Isis<INFO>10116</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Hombre Errante<INFO>10117</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Vagabundo contaminado<INFO>10118</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Munak<INFO>10119</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Bongun<INFO>10120</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Yao Jun<INFO>10121</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Sohee<INFO>10122</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Ninfa malvada<INFO>10123</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Nueve colas<INFO>10124</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Gato de nueve colas<INFO>10125</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Incubus<INFO>10126</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Súcubo<INFO>10127</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Rockero<INFO>10128</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Metalero<INFO>10129</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Momia<INFO>10130</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Momia antigua<INFO>10131</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Lunático<INFO>10132</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Lunática de hoja<INFO>10133</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Picky<INFO>10134</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Chonchon<INFO>10135</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Chonchon de Acero<INFO>10136</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Mosca Cazadora<INFO>10137</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Cerdito Salvaje<INFO>10138</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Salvaje<INFO>10139</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Smokie<INFO>10140</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Yoyo<INFO>10141</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Choco<INFO>10142</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Dokebi<INFO>10143</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Am Mut<INFO>10144</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Deviruchi<INFO>10145</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Diabólico<INFO>10146</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Alice<INFO>10147</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Aliza<INFO>10148</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Doncella verde<INFO>10149</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Gato hoja<INFO>10150</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Loli Ruri<INFO>10151</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Shinobi<INFO>10152</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Muñeca Miyabi<INFO>10153</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Marioneta<INFO>10154</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Susurro<INFO>10155</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Lanzapiedras<INFO>10157</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Diablillo<INFO>10158</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Tikbalang<INFO>10159</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Gremlins<INFO>10160</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Hodremlin<INFO>10161</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Sacerdote oscuro<INFO>10162</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Sauce Infinito<INFO>10163</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Roween<INFO>10164</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Zealotus<INFO>10165</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Little Manager β<INFO>10166</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Maestro alfa pequeño<INFO>10167</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Drops dulces<INFO>10168</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Duende de Navidad<INFO>10169</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Líder Goblin<INFO>10170</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Mao Guai<INFO>10171</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Conejo de nieve<INFO>10172</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Unicornio azul<INFO>10173</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Huevo de pastel de arroz duro<INFO>10174</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Gato esquelético<INFO>10175</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Skelion<INFO>10176</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Patito<INFO>10177</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Gólem<INFO>10178</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Bacsojin<INFO>10179</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Luz de Luna<INFO>10180</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Phreeoni<INFO>10181</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Héroe Orc<INFO>10182</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Gloom Bajo la Noche<INFO>10183</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Kiel-D-01<INFO>10184</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Dullahan<INFO>10185</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Terror del Pesadilla<INFO>10186</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Baphomet<INFO>10187</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Familiar<INFO>10188</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Ilusión oscura<INFO>10189</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Loli Ruri de la Luna Azul<INFO>10190</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Rosa silvestre<INFO>10191</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Caballero Blanco Mutante<INFO>10192</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Caballero del Abismo<INFO>10193</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Caballero Blanco<INFO>10194</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Eddga<INFO>10195</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Medusa<INFO>10196</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Copo<INFO>10197</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Vientohielo Gris<INFO>10198</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Vientohielo<INFO>10199</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Señor Oscuro<INFO>10200</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			"Esta es una lista de mascotas que se pueden obtener mediante objetos de domesticación, cupones o eventos.\n\n\t\t\t•Lista de mascotas\n\t\t\t<TIPBOX>mascota Poringcito<INFO>10090</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Poring<INFO>10091</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Mastering<INFO>10092</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Angeling<INFO>10093</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Drops<INFO>10094</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Eggring<INFO>10095</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Poporing<INFO>10096</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Cría de Lobo de desierto<INFO>10097</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Lobo del desierto<INFO>10098</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Guerrero Orco<INFO>10099</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Orco Superior<INFO>10100</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Golém de Fuego<INFO>10101</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Petite Terrestre<INFO>10102</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Deleter Terrestre<INFO>10103</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Terror Nocturno Rígido<INFO>10104</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Baphomet Jr.<INFO>10105</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Baphomet Jr. Caótico<INFO>10106</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Peco Peco<INFO>10107</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Gran Peco<INFO>10108</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Osito de Peluche<INFO>10109</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Osito de peluche abandonado<INFO>10110</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Aliot<INFO>10111</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Alicel<INFO>10112</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Espora<INFO>10113</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Espora Venenosa<INFO>10114</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Isis<INFO>10115</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Pequeña Isis<INFO>10116</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Vagabundo<INFO>10117</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Vagabundo Contaminado<INFO>10118</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Munak<INFO>10119</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Bongun<INFO>10120</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Yao Jun<INFO>10121</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Sohee<INFO>10122</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Ninfa Malvada<INFO>10123</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Nueve Colas<INFO>10124</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Gato de Nueve Colas<INFO>10125</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Íncubo<INFO>10126</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Súcubo<INFO>10127</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Rockero<INFO>10128</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Metalero<INFO>10129</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Momia<INFO>10130</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Momia antigua<INFO>10131</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Lunático<INFO>10132</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Lunático de Hoja<INFO>10133</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Picky<INFO>10134</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Chonchon<INFO>10135</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Chonchon de Acero<INFO>10136</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Mosca Cazadora<INFO>10137</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Cría de Salvaje<INFO>10138</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Salvaje<INFO>10139</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Smokie<INFO>10140</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Yoyo<INFO>10141</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Choco<INFO>10142</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Dokebi<INFO>10143</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Am Mut<INFO>10144</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Deviruchi<INFO>10145</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Diabólico<INFO>10146</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Alice<INFO>10147</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Aliza<INFO>10148</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Doncella Verde<INFO>10149</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Gato Hoja<INFO>10150</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Loli Ruri<INFO>10151</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Shinobi<INFO>10152</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Muñeca Miyabi<INFO>10153</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Marioneta<INFO>10154</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Susurro<INFO>10155</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Tirador Pétreo<INFO>10157</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Diablillo<INFO>10158</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Tikbalang<INFO>10159</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Duende<INFO>10160</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Hodremlin<INFO>10161</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Sacerdote Oscuro<INFO>10162</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Sauce<INFO>10163</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Roween<INFO>10164</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Zealotus<INFO>10165</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Mini Beta<INFO>10166</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Mini Alfa<INFO>10167</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Gotas Dulces<INFO>10168</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Jefe Duende<INFO>10170</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Mao Guai<INFO>10171</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Unicornio<INFO>10173</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Gato Esquelético<INFO>10175</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Esqueleón<INFO>10176</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Patito<INFO>10177</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Gólem<INFO>10178</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Dama Blanca<INFO>10179</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Flor Lunar<INFO>10180</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Phreeoni<INFO>10181</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Héroe Orco<INFO>10182</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Oscuridad Bajo la Noche<INFO>10183</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Kiel-D-01<INFO>10184</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Dullahan<INFO>10185</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Terror Nocturno<INFO>10186</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Baphomet<INFO>10187</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Familiar<INFO>10188</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Ilusión Oscura<INFO>10189</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Rosa Silvestre<INFO>10191</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Medusa<INFO>10196</INFO></TIPBOX>\n\t\t\t<TIPBOX>mascota Señor Oscuro<INFO>10200</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10090] = {
@@ -1686,7 +1844,7 @@ A religious kingdom that worships the goddess Freya and has achieved unity of ch
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9001]mascota Poring\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[619]\n\t\t\t\n\t\t\t• Comida\n\t\t\t^i[531]\n\n\t\t\t• Accesorio\n\t\t\t^i[10013]\n\t\t\t\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>▷mascota Mastering<INFO>10092</INFO></TIPBOX>\n\t\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			"^i[9001]mascota Poring\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[619]\n\t\t\t\n\t\t\t• Comida\n\t\t\t^i[531]\n\n\t\t\t• Accesorio\n\t\t\t^i[10013]\n\t\t\t\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>>mascota Mastering<INFO>10092</INFO></TIPBOX>\n\t\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10092] = {
@@ -1695,7 +1853,7 @@ A religious kingdom that worships the goddess Freya and has achieved unity of ch
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9069]mascota Mastering\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>▷mascota Poring<INFO>10091</INFO></TIPBOX> Evolución\n\t\t\t▷Materiales de evolución:\n\t\t\t^i[619]x3, ^i[610]x10\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>▷Angeling<INFO>10093</INFO></TIPBOX>\n\t\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			"^i[9069]mascota Mastering\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>>mascota Poring<INFO>10091</INFO></TIPBOX> Evolución\n\t\t\t>Materiales de evolución:\n\t\t\t^i[619]x3, ^i[610]x10\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>>Angeling<INFO>10093</INFO></TIPBOX>\n\t\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10093] = {
@@ -1704,16 +1862,16 @@ A religious kingdom that worships the goddess Freya and has achieved unity of ch
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9088]mascota Angeling\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>▷mascota Mastering<INFO>10092</INFO></TIPBOX> Evolución\n\t\t\t▷Materiales de evolución:\n\t\t\t^i[2282]x1, ^i[509]x50,\n\t\t\t^i[503]x20, ^i[909]x200\n\t\t\t\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\t\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			"^i[9088]mascota Angeling\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>>mascota Mastering<INFO>10092</INFO></TIPBOX> Evolución\n\t\t\t>Materiales de evolución:\n\t\t\t^i[2282]x1, ^i[509]x50,\n\t\t\t^i[503]x20, ^i[909]x200\n\t\t\t\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\t\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10094] = {
-		Title = "mascota Gotas#Hierba Amarilla#Zumo de naranja",
+		Title = "mascota Drops#Hierba Amarilla#Zumo de naranja",
 		Search = 1,
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9002]mascota Gotas\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[620]\n\n\t\t\t• Comida\n\t\t\t^i[508]\n\n\t\t\t• Accesorio\n\t\t\t^i[10013]\n\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>▷mascota Eggring<INFO>10095</INFO></TIPBOX>\n\t\t\t<TIPBOX>▷mascota Drops dulces<INFO>10168</INFO></TIPBOX>\n\t\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			"^i[9002]mascota Drops\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[620]\n\n\t\t\t• Comida\n\t\t\t^i[508]\n\n\t\t\t• Accesorio\n\t\t\t^i[10013]\n\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>>mascota Eggring<INFO>10095</INFO></TIPBOX>\n\t\t\t<TIPBOX>>mascota Gotas Dulces<INFO>10168</INFO></TIPBOX>\n\t\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10095] = {
@@ -1722,7 +1880,7 @@ A religious kingdom that worships the goddess Freya and has achieved unity of ch
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9092]mascota Eggring\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>▷mascota Gotas<INFO>10094</INFO></TIPBOX> Evolución\n\t\t\t▷Materiales de evolución:\n\t\t\t^i[7032]x20, ^i[7031]x10,\n\t\t\t^i[531]x3, ^i[4659]x1\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\t\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			"^i[9092]mascota Eggring\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>>mascota Drops<INFO>10094</INFO></TIPBOX> Evolución\n\t\t\t>Materiales de evolución:\n\t\t\t^i[7032]x20, ^i[7031]x10,\n\t\t\t^i[531]x3, ^i[4659]x1\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\t\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10096] = {
@@ -1740,7 +1898,7 @@ A religious kingdom that worships the goddess Freya and has achieved unity of ch
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9010]mascota Cría de Lobo de desierto\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[628]\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t^i[10003]\n\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>▷mascota Lobo del desierto<INFO>10098</INFO></TIPBOX>\n\t\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			"^i[9010]mascota Cría de Lobo de desierto\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[628]\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t^i[10003]\n\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>>mascota Lobo del desierto<INFO>10098</INFO></TIPBOX>\n\t\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10098] = {
@@ -1749,43 +1907,43 @@ A religious kingdom that worships the goddess Freya and has achieved unity of ch
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9129]mascota Lobo del desierto\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>▷mascota Cría de Lobo de desierto<INFO>10097</INFO></TIPBOX> Evolución\n\t\t\t▷Materiales de evolución:\n\t\t\t^i[628]x3, ^i[7030]x300,\n\t\t\t^i[919]x20, ^i[4082]x1\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\t\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			"^i[9129]mascota Lobo del desierto\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>>mascota Cría de Lobo de desierto<INFO>10097</INFO></TIPBOX> Evolución\n\t\t\t>Materiales de evolución:\n\t\t\t^i[628]x3, ^i[7030]x300,\n\t\t\t^i[919]x20, ^i[4082]x1\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\t\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10099] = {
-		Title = "mascota Orco#Comida para mascotas#Trofeo orco",
+		Title = "mascota Guerrero Orco#Comida para mascotas#Trofeo orco",
 		Search = 1,
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9017]mascota Orco\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[635]\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t^i[10009]\n\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>▷Mascota Orc Superior<INFO>10100</INFO></TIPBOX>\n\t\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			"^i[9017]mascota Guerrero Orco\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[635]\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t^i[10009]\n\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>>Mascota Orco Superior<INFO>10100</INFO></TIPBOX>\n\t\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10100] = {
-		Title = "Mascota Orc Superior#Comida para mascotas#Trofeo orco",
+		Title = "Mascota Orco Superior#Comida para mascotas#Trofeo orco",
 		Search = 1,
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9087]Mascota Orc Superior\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>▷mascota Orco<INFO>10099</INFO></TIPBOX> Evolución\n\t\t\t▷Materiales de evolución:\n\t\t\t^i[635]x3, ^i[1124]x1,\n\t\t\t^i[931]x500, ^i[2267]x1,\n\t\t\t^i[4066]x1\n\t\t\t\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>▷mascota Héroe Orc<INFO>10182</INFO></TIPBOX>\n\t\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			"^i[9087]Mascota Orco Superior\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>>mascota Guerrero Orco<INFO>10099</INFO></TIPBOX> Evolución\n\t\t\t>Materiales de evolución:\n\t\t\t^i[635]x3, ^i[1124]x1,\n\t\t\t^i[931]x500, ^i[2267]x1,\n\t\t\t^i[4066]x1\n\t\t\t\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>>mascota Héroe Orco<INFO>10182</INFO></TIPBOX>\n\t\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10101] = {
-		Title = "mascota Gólem de llama#Comida para mascotas#Corazón de Piedra#Litografía mágica",
+		Title = "mascota Golém de Fuego#Comida para mascotas#Corazón de Piedra#Litografía mágica",
 		Search = 1,
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9131]mascota Gólem de llama\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>▷mascota Gólem<INFO>10178</INFO></TIPBOX> Evolución\n\t\t\t▷Materiales de evolución:\n\t\t\t^i[953]x500, ^i[12371]x3,\n\t\t\t^i[990]x20, ^i[27029]x1\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\t\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			"^i[9131]mascota Golém de Fuego\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>>mascota Gólem<INFO>10178</INFO></TIPBOX> Evolución\n\t\t\t>Materiales de evolución:\n\t\t\t^i[953]x500, ^i[12371]x3,\n\t\t\t^i[990]x20, ^i[27029]x1\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\t\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10102] = {
-		Title = "mascota Petite#Comida para mascotas#Piedra Brillante",
+		Title = "mascota Petite Terrestre#Comida para mascotas#Piedra Brillante",
 		Search = 1,
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9022]mascota Petite\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[640]\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t^i[10011]\n\t\t\t\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>▷mascota Deleter Terrestre<INFO>10103</INFO></TIPBOX>\n\t\t\t\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			"^i[9022]mascota Petite Terrestre\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[640]\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t^i[10011]\n\t\t\t\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>>mascota Deleter Terrestre<INFO>10103</INFO></TIPBOX>\n\t\t\t\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10103] = {
@@ -1794,16 +1952,16 @@ A religious kingdom that worships the goddess Freya and has achieved unity of ch
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9098]mascota Deleter Terrestre\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>▷mascota Petite<INFO>10102</INFO></TIPBOX> Evolución\n\t\t\t▷Materiales de evolución:\n\t\t\t^i[6260]x100, ^i[606]x150,\n\t\t\t^i[640]x3, ^i[4279]x1\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			"^i[9098]mascota Deleter Terrestre\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>>mascota Petite Terrestre<INFO>10102</INFO></TIPBOX> Evolución\n\t\t\t>Materiales de evolución:\n\t\t\t^i[6260]x100, ^i[606]x150,\n\t\t\t^i[640]x3, ^i[4279]x1\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10104] = {
-		Title = "mascota Terror nocturno rígido#Comida para mascotas#Herradura ardiente",
+		Title = "mascota Terror Nocturno Rígido#Comida para mascotas#Herradura ardiente",
 		Search = 1,
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9116]mascota Terror nocturno rígido\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>▷mascota Terror del Pesadilla<INFO>10186</INFO></TIPBOX> Evolución\n\t\t\t▷Materiales de evolución:\n\t\t\t^i[7120]x500, ^i[510]x100,\n\t\t\t^i[935]x100, ^i[4166]x1\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			"^i[9116]mascota Terror Nocturno Rígido\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>>mascota Terror Nocturno<INFO>10186</INFO></TIPBOX> Evolución\n\t\t\t>Materiales de evolución:\n\t\t\t^i[7120]x500, ^i[510]x100,\n\t\t\t^i[935]x100, ^i[4166]x1\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10105] = {
@@ -1812,16 +1970,16 @@ A religious kingdom that worships the goddess Freya and has achieved unity of ch
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9024]mascota Baphomet Jr.\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[642]\n\n\t\t\t• Comida\n\t\t\t^i[518]\n\t\t\t\n\t\t\t• Accesorio\n\t\t\t^i[10001]\n\t\t\t\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>▷mascota Baphomet Jr. caótico<INFO>10106</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			"^i[9024]mascota Baphomet Jr.\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[642]\n\n\t\t\t• Comida\n\t\t\t^i[518]\n\t\t\t\n\t\t\t• Accesorio\n\t\t\t^i[10001]\n\t\t\t\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>>mascota Baphomet Jr. Caótico<INFO>10106</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10106] = {
-		Title = "mascota Baphomet Jr. caótico#Comida para mascotas#Cuerno de Baphomet",
+		Title = "mascota Baphomet Jr. Caótico#Comida para mascotas#Cuerno de Baphomet",
 		Search = 1,
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9130]mascota Baphomet Jr. caótico\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>▷mascota Baphomet Jr.<INFO>10105</INFO></TIPBOX> Evolución\n\t\t\t▷Materiales de evolución:\n\t\t\t^i[923]x300, ^i[7054]x300,\n\t\t\t^i[508]x100, ^i[27335]x1\n\t\t\t\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>▷mascota Baphomet<INFO>10187</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			"^i[9130]mascota Baphomet Jr. Caótico\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>>mascota Baphomet Jr.<INFO>10105</INFO></TIPBOX> Evolución\n\t\t\t>Materiales de evolución:\n\t\t\t^i[923]x300, ^i[7054]x300,\n\t\t\t^i[508]x100, ^i[27335]x1\n\t\t\t\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>>mascota Baphomet<INFO>10187</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10107] = {
@@ -1830,7 +1988,7 @@ A religious kingdom that worships the goddess Freya and has achieved unity of ch
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9014]mascota Peco Peco\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[632]\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t^i[10010]\n\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>▷mascota Gran Peco<INFO>10108</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			"^i[9014]mascota Peco Peco\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[632]\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t^i[10010]\n\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>>mascota Gran Peco<INFO>10108</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10108] = {
@@ -1839,7 +1997,7 @@ A religious kingdom that worships the goddess Freya and has achieved unity of ch
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9071]mascota Gran Peco\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>▷mascota Peco Peco<INFO>10107</INFO></TIPBOX> Evolución\n\t\t\t▷Materiales de evolución:\n\t\t\t^i[632]x3, ^i[537]x10,\n\t\t\t^i[7101]x300, ^i[522]x10,\n\t\t\t^i[4031]x1\n\t\t\t\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			"^i[9071]mascota Gran Peco\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>>mascota Peco Peco<INFO>10107</INFO></TIPBOX> Evolución\n\t\t\t>Materiales de evolución:\n\t\t\t^i[632]x3, ^i[537]x10,\n\t\t\t^i[7101]x300, ^i[522]x10,\n\t\t\t^i[4031]x1\n\t\t\t\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10109] = {
@@ -1848,7 +2006,7 @@ A religious kingdom that worships the goddess Freya and has achieved unity of ch
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9099]mascota Osito de Peluche\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[23189]\n\n\t\t\t• Comida\n\t\t\t^i[25233]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>▷mascota Osito de peluche abandonado<INFO>10110</INFO></TIPBOX>\n\t\t\t<TIPBOX>▷mascota Aliot<INFO>10111</INFO></TIPBOX>\n\t\t\t<TIPBOX>▷mascota Alicel<INFO>10112</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			"^i[9099]mascota Osito de Peluche\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[23189]\n\n\t\t\t• Comida\n\t\t\t^i[25233]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>>mascota Osito de peluche abandonado<INFO>10110</INFO></TIPBOX>\n\t\t\t<TIPBOX>>mascota Aliot<INFO>10111</INFO></TIPBOX>\n\t\t\t<TIPBOX>>mascota Alicel<INFO>10112</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10110] = {
@@ -1857,7 +2015,7 @@ A religious kingdom that worships the goddess Freya and has achieved unity of ch
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9108]mascota Osito de peluche abandonado\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>▷mascota Osito de Peluche<INFO>10109</INFO></TIPBOX> Evolución\n\t\t\t▷Materiales de evolución:\n\t\t\t^i[7442]x300, ^i[724]x50,\n\t\t\t^i[23189]x3, ^i[4340]x1\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			"^i[9108]mascota Osito de peluche abandonado\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>>mascota Osito de Peluche<INFO>10109</INFO></TIPBOX> Evolución\n\t\t\t>Materiales de evolución:\n\t\t\t^i[7442]x300, ^i[724]x50,\n\t\t\t^i[23189]x3, ^i[4340]x1\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10111] = {
@@ -1866,7 +2024,7 @@ A religious kingdom that worships the goddess Freya and has achieved unity of ch
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9118]mascota Aliot\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>▷mascota Osito de Peluche<INFO>10109</INFO></TIPBOX> Evolución\n\t\t\t▷Materiales de evolución:\n\t\t\t^i[7317]x500, ^i[518]x100,\n\t\t\t^i[727]x10, ^i[4340]x1\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>▷mascota Kiel-D-01<INFO>10184</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			"^i[9118]mascota Aliot\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>>mascota Osito de Peluche<INFO>10109</INFO></TIPBOX> Evolución\n\t\t\t>Materiales de evolución:\n\t\t\t^i[7317]x500, ^i[518]x100,\n\t\t\t^i[727]x10, ^i[4340]x1\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>>mascota Kiel-D-01<INFO>10184</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10112] = {
@@ -1875,7 +2033,7 @@ A religious kingdom that worships the goddess Freya and has achieved unity of ch
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9119]mascota Alicel\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>▷mascota Osito de Peluche<INFO>10109</INFO></TIPBOX> Evolución\n\t\t\t▷Materiales de evolución:\n\t\t\t^i[7317]x500, ^i[518]x100,\n\t\t\t^i[7449]x50, ^i[4340]x1\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			"^i[9119]mascota Alicel\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>>mascota Osito de Peluche<INFO>10109</INFO></TIPBOX> Evolución\n\t\t\t>Materiales de evolución:\n\t\t\t^i[7317]x500, ^i[518]x100,\n\t\t\t^i[7449]x50, ^i[4340]x1\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10113] = {
@@ -1902,7 +2060,7 @@ A religious kingdom that worships the goddess Freya and has achieved unity of ch
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9021]mascota Isis\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[639]\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t^i[10006]\n\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>▷mascota Pequeña Isis<INFO>10116</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			"^i[9021]mascota Isis\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[639]\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t^i[10006]\n\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>>mascota Pequeña Isis<INFO>10116</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10116] = {
@@ -1911,25 +2069,25 @@ A religious kingdom that worships the goddess Freya and has achieved unity of ch
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9090]mascota Pequeña Isis\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>▷mascota Isis<INFO>10115</INFO></TIPBOX> Evolución\n\t\t\t▷Materiales de evolución:\n\t\t\t^i[639]x3, ^i[10006]x1,\n\t\t\t^i[954]x300, ^i[732]x6\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			"^i[9090]mascota Pequeña Isis\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>>mascota Isis<INFO>10115</INFO></TIPBOX> Evolución\n\t\t\t>Materiales de evolución:\n\t\t\t^i[639]x3, ^i[10006]x1,\n\t\t\t^i[954]x300, ^i[732]x6\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10117] = {
-		Title = "mascota Hombre Errante#Licor#Cráneo de vagabundo",
+		Title = "mascota Vagabundo#Licor#Cráneo de vagabundo",
 		Search = 1,
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9037]mascota Hombre Errante\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[14574]\n\n\t\t\t• Comida\n\t\t\t^i[7824]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>▷mascota Vagabundo contaminado<INFO>10118</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			"^i[9037]mascota Vagabundo\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[14574]\n\n\t\t\t• Comida\n\t\t\t^i[7824]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>>mascota Vagabundo Contaminado<INFO>10118</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10118] = {
-		Title = "mascota Vagabundo contaminado#Comida para mascotas#Cráneo",
+		Title = "mascota Vagabundo Contaminado#Comida para mascotas#Cráneo",
 		Search = 1,
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9117]mascota Vagabundo contaminado\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>▷mascota Hombre Errante<INFO>10117</INFO></TIPBOX> Evolución\n\t\t\t▷Materiales de evolución:\n\t\t\t^i[7005]x500, ^i[1059]x100,\n\t\t\t^i[1009]x50, ^i[4210]x1\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			"^i[9117]mascota Vagabundo Contaminado\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>>mascota Vagabundo<INFO>10117</INFO></TIPBOX> Evolución\n\t\t\t>Materiales de evolución:\n\t\t\t^i[7005]x500, ^i[1059]x100,\n\t\t\t^i[1009]x50, ^i[4210]x1\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10119] = {
@@ -1947,7 +2105,7 @@ A religious kingdom that worships the goddess Freya and has achieved unity of ch
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9025]mascota Bongun\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[659]\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t^i[10020]\n\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>▷mascota Yao Jun<INFO>10121</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			"^i[9025]mascota Bongun\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[659]\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t^i[10020]\n\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>>mascota Yao Jun<INFO>10121</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10121] = {
@@ -1956,7 +2114,7 @@ A religious kingdom that worships the goddess Freya and has achieved unity of ch
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9093]mascota Yao Jun\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>▷mascota Bongun<INFO>10120</INFO></TIPBOX> Evolución\n\t\t\t▷Materiales de evolución:\n\t\t\t^i[7277]x100, ^i[7014]x50,\n\t\t\t^i[5367]x1, ^i[4328]x1\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			"^i[9093]mascota Yao Jun\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>>mascota Bongun<INFO>10120</INFO></TIPBOX> Evolución\n\t\t\t>Materiales de evolución:\n\t\t\t^i[7277]x100, ^i[7014]x50,\n\t\t\t^i[5367]x1, ^i[4328]x1\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10122] = {
@@ -1969,39 +2127,39 @@ A religious kingdom that worships the goddess Freya and has achieved unity of ch
 		}
 	},
 	[10123] = {
-		Title = "mascota Ninfa malvada#Rocío matinal#Loto encantador",
+		Title = "mascota Ninfa Malvada#Rocío matinal#Loto encantador",
 		Search = 1,
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9047]mascota Ninfa malvada\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[12365]\n\n\t\t\t• Comida\n\t\t\t^i[6105]\n\n\t\t\t• Accesorio\n\t\t\t^i[10029]\n\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>▷mascota Bacsojin<INFO>10179</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			"^i[9047]mascota Ninfa Malvada\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[12365]\n\n\t\t\t• Comida\n\t\t\t^i[6105]\n\n\t\t\t• Accesorio\n\t\t\t^i[10029]\n\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>>mascota Dama Blanca<INFO>10179</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10124] = {
-		Title = "mascota Nueve colas#Botella Sospechosa#Jalea de savia",
+		Title = "mascota Nueve Colas#Botella Sospechosa#Jalea de savia",
 		Search = 1,
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9095]mascota Nueve colas\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[23187]\n\t\t\t\n\t\t\t• Comida\n\t\t\t^i[25231]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>▷Mascota Gato de nueve colas<INFO>10125</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			"^i[9095]mascota Nueve Colas\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[23187]\n\t\t\t\n\t\t\t• Comida\n\t\t\t^i[25231]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>>Mascota Gato de Nueve Colas<INFO>10125</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10125] = {
-		Title = "Mascota Gato de nueve colas#Comida para mascotas#Nueve colas",
+		Title = "Mascota Gato de Nueve Colas#Comida para mascotas#Nueve Colas",
 		Search = 1,
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9096]Mascota Gato de nueve colas\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>▷mascota Nueve colas<INFO>10124</INFO></TIPBOX> Evolución\n\t\t\t▷Materiales de evolución:\n\t\t\t^i[1022]x999, ^i[23187]x3,\n\t\t\t^i[10008]x1, ^i[4159]x1\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>▷mascota Luz de Luna<INFO>10180</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			"^i[9096]Mascota Gato de Nueve Colas\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>>mascota Nueve Colas<INFO>10124</INFO></TIPBOX> Evolución\n\t\t\t>Materiales de evolución:\n\t\t\t^i[1022]x999, ^i[23187]x3,\n\t\t\t^i[10008]x1, ^i[4159]x1\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>>mascota Flor Lunar<INFO>10180</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10126] = {
-		Title = "mascota Incubus#Flor Vital Amarilla#La ingenuidad de una chica",
+		Title = "mascota Íncubo#Flor Vital Amarilla#La ingenuidad de una chica",
 		Search = 1,
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9052]mascota Incubus\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[12370]\n\n\t\t\t• Comida\n\t\t\t^i[6110]\n\n\t\t\t• Accesorio\n\t\t\t^i[10034]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			"^i[9052]mascota Íncubo\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[12370]\n\n\t\t\t• Comida\n\t\t\t^i[6110]\n\n\t\t\t• Accesorio\n\t\t\t^i[10034]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10127] = {
@@ -2019,7 +2177,7 @@ A religious kingdom that worships the goddess Freya and has achieved unity of ch
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9011]mascota Rockero\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[629]\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t^i[10014]\n\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>▷mascota Metalero<INFO>10129</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			"^i[9011]mascota Rockero\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[629]\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t^i[10014]\n\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>>mascota Metalero<INFO>10129</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10129] = {
@@ -2028,7 +2186,7 @@ A religious kingdom that worships the goddess Freya and has achieved unity of ch
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9106]mascota Metalero\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>▷mascota Rockero<INFO>10128</INFO></TIPBOX> Evolución\n\t\t\t▷Materiales de evolución:\n\t\t\t^i[940]x777, ^i[508]x200,\n\t\t\t^i[707]x3, ^i[4057]x1\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			"^i[9106]mascota Metalero\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>>mascota Rockero<INFO>10128</INFO></TIPBOX> Evolución\n\t\t\t>Materiales de evolución:\n\t\t\t^i[940]x777, ^i[508]x200,\n\t\t\t^i[707]x3, ^i[4057]x1\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10130] = {
@@ -2037,7 +2195,7 @@ A religious kingdom that worships the goddess Freya and has achieved unity of ch
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9102]mascota Momia\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[23256]\n\n\t\t\t• Comida\n\t\t\t^i[934]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>▷mascota Momia antigua<INFO>10131</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			"^i[9102]mascota Momia\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[23256]\n\n\t\t\t• Comida\n\t\t\t^i[934]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>>mascota Momia antigua<INFO>10131</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10131] = {
@@ -2046,7 +2204,7 @@ A religious kingdom that worships the goddess Freya and has achieved unity of ch
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9107]mascota Momia antigua\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>▷mascota Momia<INFO>10130</INFO></TIPBOX> Evolución\n\t\t\t▷Materiales de evolución:\n\t\t\t^i[7511]x200, ^i[969]x30,\n\t\t\t^i[23256]x3, ^i[4248]x1\n\t\t\t\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			"^i[9107]mascota Momia antigua\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>>mascota Momia<INFO>10130</INFO></TIPBOX> Evolución\n\t\t\t>Materiales de evolución:\n\t\t\t^i[7511]x200, ^i[969]x30,\n\t\t\t^i[23256]x3, ^i[4248]x1\n\t\t\t\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10132] = {
@@ -2055,16 +2213,16 @@ A religious kingdom that worships the goddess Freya and has achieved unity of ch
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9004]mascota Lunático\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[622]\n\t\t\t\n\t\t\t• Comida\n\t\t\t^i[534]\n\n\t\t\t• Accesorio\n\t\t\t^i[10007]\n\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>▷mascota Lunática de hoja<INFO>10133</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			"^i[9004]mascota Lunático\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[622]\n\t\t\t\n\t\t\t• Comida\n\t\t\t^i[534]\n\n\t\t\t• Accesorio\n\t\t\t^i[10007]\n\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>>mascota Lunático de Hoja<INFO>10133</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10133] = {
-		Title = "mascota Lunática de hoja#Comida para mascotas#Trébol",
+		Title = "mascota Lunático de Hoja#Comida para mascotas#Trébol",
 		Search = 1,
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9094]mascota Lunática de hoja\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>▷mascota Lunático<INFO>10132</INFO></TIPBOX> Evolución\n\t\t\t▷Materiales de evolución:\n\t\t\t^i[705]x250, ^i[706]x30,\n\t\t\t^i[7198]x100, ^i[4663]x1\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			"^i[9094]mascota Lunático de Hoja\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>>mascota Lunático<INFO>10132</INFO></TIPBOX> Evolución\n\t\t\t>Materiales de evolución:\n\t\t\t^i[705]x250, ^i[706]x30,\n\t\t\t^i[7198]x100, ^i[4663]x1\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10134] = {
@@ -2104,12 +2262,12 @@ A religious kingdom that worships the goddess Freya and has achieved unity of ch
 		}
 	},
 	[10138] = {
-		Title = "mascota Cerdito Salvaje#Comida para mascotas#Leche dulce",
+		Title = "mascota Cría de Salvaje#Comida para mascotas#Leche dulce",
 		Search = 1,
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9009]mascota Cerdito Salvaje\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[627]\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\t\t\t\n\t\t\t• Accesorio\n\t\t\t^i[10015]\n\t\t\t\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>▷mascota Salvaje<INFO>10139</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			"^i[9009]mascota Cría de Salvaje\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[627]\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\t\t\t\n\t\t\t• Accesorio\n\t\t\t^i[10015]\n\t\t\t\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>>mascota Salvaje<INFO>10139</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10139] = {
@@ -2118,7 +2276,7 @@ A religious kingdom that worships the goddess Freya and has achieved unity of ch
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9070]mascota Salvaje\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>▷mascota Cerdito Salvaje<INFO>10138</INFO></TIPBOX> Evolución\n\t\t\t▷Materiales de evolución:\n\t\t\t^i[627]x3, ^i[537]x10,\n\t\t\t^i[517]x100, ^i[949]x50\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			"^i[9070]mascota Salvaje\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>>mascota Cría de Salvaje<INFO>10138</INFO></TIPBOX> Evolución\n\t\t\t>Materiales de evolución:\n\t\t\t^i[627]x3, ^i[537]x10,\n\t\t\t^i[517]x100, ^i[949]x50\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10140] = {
@@ -2136,7 +2294,7 @@ A religious kingdom that worships the goddess Freya and has achieved unity of ch
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9016]mascota Yoyo\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[634]\n\t\t\t\n\t\t\t• Comida\n\t\t\t^i[532]\n\n\t\t\t• Accesorio\n\t\t\t^i[10018]\n\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>▷mascota Choco<INFO>10142</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			"^i[9016]mascota Yoyo\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[634]\n\t\t\t\n\t\t\t• Comida\n\t\t\t^i[532]\n\n\t\t\t• Accesorio\n\t\t\t^i[10018]\n\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>>mascota Choco<INFO>10142</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10142] = {
@@ -2145,7 +2303,7 @@ A religious kingdom that worships the goddess Freya and has achieved unity of ch
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9091]mascota Choco\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>▷mascota Yoyo<INFO>10141</INFO></TIPBOX> Evolución\n\t\t\t▷Materiales de evolución:\n\t\t\t^i[634]x3, ^i[753]x2,\n\t\t\t^i[7182]x300, ^i[4051]x1\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			"^i[9091]mascota Choco\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>>mascota Yoyo<INFO>10141</INFO></TIPBOX> Evolución\n\t\t\t>Materiales de evolución:\n\t\t\t^i[634]x3, ^i[753]x2,\n\t\t\t^i[7182]x300, ^i[4051]x1\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10143] = {
@@ -2154,7 +2312,7 @@ A religious kingdom that worships the goddess Freya and has achieved unity of ch
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9019]mascota Dokebi\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[637]\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t^i[10005]\n\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>▷mascota Am Mut<INFO>10144</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			"^i[9019]mascota Dokebi\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[637]\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t^i[10005]\n\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>>mascota Am Mut<INFO>10144</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10144] = {
@@ -2163,7 +2321,7 @@ A religious kingdom that worships the goddess Freya and has achieved unity of ch
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9089]mascota Am Mut\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>▷mascota Dokebi<INFO>10143</INFO></TIPBOX> Evolución\n\t\t\t▷Materiales de evolución:\n\t\t\t^i[637]x3, ^i[981]x3,\n\t\t\t^i[1021]x300, ^i[969]x3\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			"^i[9089]mascota Am Mut\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>>mascota Dokebi<INFO>10143</INFO></TIPBOX> Evolución\n\t\t\t>Materiales de evolución:\n\t\t\t^i[637]x3, ^i[981]x3,\n\t\t\t^i[1021]x300, ^i[969]x3\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10145] = {
@@ -2172,7 +2330,7 @@ A religious kingdom that worships the goddess Freya and has achieved unity of ch
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9023]mascota Deviruchi\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[641]\n\n\t\t\t• Comida\n\t\t\t^i[711]\n\n\t\t\t• Accesorio\n\t\t\t^i[10004]\n\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>▷mascota Diabólico<INFO>10146</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			"^i[9023]mascota Deviruchi\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[641]\n\n\t\t\t• Comida\n\t\t\t^i[711]\n\n\t\t\t• Accesorio\n\t\t\t^i[10004]\n\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>>mascota Diabólico<INFO>10146</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10146] = {
@@ -2181,7 +2339,7 @@ A religious kingdom that worships the goddess Freya and has achieved unity of ch
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9097]mascota Diabólico\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>▷mascota Deviruchi<INFO>10145</INFO></TIPBOX> Evolución\n\t\t\t▷Materiales de evolución:\n\t\t\t^i[641]x3, ^i[1039]x250,\n\t\t\t^i[1009]x30, ^i[4122]x1\n\t\t\t\n\t\t\t• Comida\n\t\t\t^i[7823]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			"^i[9097]mascota Diabólico\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>>mascota Deviruchi<INFO>10145</INFO></TIPBOX> Evolución\n\t\t\t>Materiales de evolución:\n\t\t\t^i[641]x3, ^i[1039]x250,\n\t\t\t^i[1009]x30, ^i[4122]x1\n\t\t\t\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10147] = {
@@ -2190,7 +2348,7 @@ A religious kingdom that worships the goddess Freya and has achieved unity of ch
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9027]mascota Alice\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[661]\n\n\t\t\t• Comida\n\t\t\t^i[504]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>▷mascota Aliza<INFO>10148</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			"^i[9027]mascota Alice\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[661]\n\n\t\t\t• Comida\n\t\t\t^i[504]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>>mascota Aliza<INFO>10148</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10148] = {
@@ -2199,25 +2357,25 @@ A religious kingdom that worships the goddess Freya and has achieved unity of ch
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9120]mascota Aliza\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>▷mascota Alice<INFO>10147</INFO></TIPBOX> Evolución\n\t\t\t▷Materiales de evolución:\n\t\t\t^i[7047]x500, ^i[511]x200,\n\t\t\t^i[985]x30, ^i[4253]x1\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			"^i[9120]mascota Aliza\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>>mascota Alice<INFO>10147</INFO></TIPBOX> Evolución\n\t\t\t>Materiales de evolución:\n\t\t\t^i[7047]x500, ^i[511]x200,\n\t\t\t^i[985]x30, ^i[4253]x1\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10149] = {
-		Title = "mascota Doncella verde#Bollo#Fideos tantan",
+		Title = "mascota Doncella Verde#Bollo#Fideos tantan",
 		Search = 1,
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9030]mascota Doncella verde\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[12395]\n\n\t\t\t• Comida\n\t\t\t^i[6115]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			"^i[9030]mascota Doncella Verde\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[12395]\n\n\t\t\t• Comida\n\t\t\t^i[6115]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10150] = {
-		Title = "mascota Gato hoja#Pez con lomo azul#Planta muy blanda",
+		Title = "mascota Gato Hoja#Pez con lomo azul#Planta muy blanda",
 		Search = 1,
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9041]mascota Gato hoja\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[12359]\n\n\t\t\t• Comida\n\t\t\t^i[6096]\n\n\t\t\t• Accesorio\n\t\t\t^i[10023]\n\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>▷mascota Rosa silvestre<INFO>10191</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			"^i[9041]mascota Gato Hoja\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[12359]\n\n\t\t\t• Comida\n\t\t\t^i[6096]\n\n\t\t\t• Accesorio\n\t\t\t^i[10023]\n\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>>mascota Rosa Silvestre<INFO>10191</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10151] = {
@@ -2226,7 +2384,7 @@ A religious kingdom that worships the goddess Freya and has achieved unity of ch
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9042]mascota Loli Ruri\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[12360]\n\n\t\t\t• Comida\n\t\t\t^i[6097]\n\n\t\t\t• Accesorio\n\t\t\t^i[10024]\n\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>▷mascota Loli Ruri de la Luna Azul<INFO>10190</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			"^i[9042]mascota Loli Ruri\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[12360]\n\n\t\t\t• Comida\n\t\t\t^i[6097]\n\n\t\t\t• Accesorio\n\t\t\t^i[10024]\n\n\t\t\t• Información de evolución\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10152] = {
@@ -2266,12 +2424,12 @@ A religious kingdom that worships the goddess Freya and has achieved unity of ch
 		}
 	},
 	[10157] = {
-		Title = "mascota Lanzapiedras#Nutriente vegetal#Aceite de palma",
+		Title = "mascota Tirador Pétreo#Nutriente vegetal#Aceite de palma",
 		Search = 1,
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9051]mascota Lanzapiedras\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[12369]\n\n\t\t\t• Comida\n\t\t\t^i[6109]\n\t\t\t\n\t\t\t• Accesorio\n\t\t\t^i[10033]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			"^i[9051]mascota Tirador Pétreo\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[12369]\n\n\t\t\t• Comida\n\t\t\t^i[6109]\n\t\t\t\n\t\t\t• Accesorio\n\t\t\t^i[10033]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10158] = {
@@ -2293,12 +2451,12 @@ A religious kingdom that worships the goddess Freya and has achieved unity of ch
 		}
 	},
 	[10160] = {
-		Title = "mascota Gremlins#Lubricante Barato#Parte de dirigible",
+		Title = "mascota Duende#Lubricante Barato#Parte de dirigible",
 		Search = 1,
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9100]mascota Gremlins\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[23188]\n\n\t\t\t• Comida\n\t\t\t^i[25232]\n\t\t\t\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>▷mascota Hodremlin<INFO>10161</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			"^i[9100]mascota Duende\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[23188]\n\n\t\t\t• Comida\n\t\t\t^i[25232]\n\t\t\t\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>>mascota Hodremlin<INFO>10161</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10161] = {
@@ -2307,25 +2465,25 @@ A religious kingdom that worships the goddess Freya and has achieved unity of ch
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9105]mascota Hodremlin\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>▷mascota Gremlins<INFO>10160</INFO></TIPBOX> Evolución\n\t\t\t▷Materiales de evolución:\n\t\t\t^i[7340]x200, ^i[6100]x50,\n\t\t\t^i[23188]x3, ^i[4413]x1\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>▷mascota Gloom Bajo la Noche<INFO>10183</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			"^i[9105]mascota Hodremlin\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>>mascota Duende<INFO>10160</INFO></TIPBOX> Evolución\n\t\t\t>Materiales de evolución:\n\t\t\t^i[7340]x200, ^i[6100]x50,\n\t\t\t^i[23188]x3, ^i[4413]x1\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>>mascota Oscuridad Bajo la Noche<INFO>10183</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10162] = {
-		Title = "mascota Sacerdote oscuro#Agua maligna#Biblia Oscura",
+		Title = "mascota Sacerdote Oscuro#Agua maligna#Biblia Oscura",
 		Search = 1,
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9128]mascota Sacerdote oscuro\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[100796]\n\n\t\t\t• Comida\n\t\t\t^i[1000552]\n\t\t\t\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>▷mascota Ilusión oscura<INFO>10189</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			"^i[9128]mascota Sacerdote Oscuro\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[100796]\n\n\t\t\t• Comida\n\t\t\t^i[1000552]\n\t\t\t\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>>mascota Ilusión Oscura<INFO>10189</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10163] = {
-		Title = "mascota Sauce Infinito#Trozo de madera de veta fina#Rocío del árbol viejo",
+		Title = "mascota Sauce#Trozo de madera de veta fina#Rocío del árbol viejo",
 		Search = 1,
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9103]mascota Sauce Infinito\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[23257]\n\n\t\t\t• Comida\n\t\t\t^i[1066]\n\t\t\t\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			"^i[9103]mascota Sauce\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[23257]\n\n\t\t\t• Comida\n\t\t\t^i[1066]\n\t\t\t\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10164] = {
@@ -2347,48 +2505,39 @@ A religious kingdom that worships the goddess Freya and has achieved unity of ch
 		}
 	},
 	[10166] = {
-		Title = "mascota Little Manager β#Algodón de nube",
+		Title = "mascota Mini Beta#Algodón de nube",
 		Search = 1,
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9123]mascota Little Manager β\n\t\t\t• Método de obtención: Intercambio\n\t\t\tObjeto de intercambio:^i[1000103]x30\n\t\t\t<NAVI>[Pequeñín administrador β]<INFO>ba_in01,87,386,0,101,0</INFO></NAVI>\n\n\t\t\t• Comida\n\t\t\t^i[1000227]\n\n\t\t\t• Accesorio\n\t\t\t^i[10043]\n\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>▷mascota Maestro alfa pequeño<INFO>10167</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			"^i[9123]mascota Mini Beta\n\t\t\t• Método de obtención: Intercambio\n\t\t\tObjeto de intercambio:^i[1000103]x30\n\t\t\t<NAVI>[Pequeñín administrador β]<INFO>ba_in01,87,386,0,101,0</INFO></NAVI>\n\n\t\t\t• Comida\n\t\t\t^i[1000227]\n\n\t\t\t• Accesorio\n\t\t\t^i[10043]\n\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>>mascota Mini Alfa<INFO>10167</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10167] = {
-		Title = "mascota Maestro alfa pequeño#Comida para mascotas",
+		Title = "mascota Mini Alfa#Comida para mascotas",
 		Search = 1,
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9124]mascota Maestro alfa pequeño\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>▷mascota Little Manager β<INFO>10166</INFO></TIPBOX> Evolución\n\t\t\t▷Materiales de evolución:\n\t\t\t^i[1000103]x500, ^i[7095]x50,\n\t\t\t^i[7094]x10\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t^i[10044]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			"^i[9124]mascota Mini Alfa\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>>mascota Mini Beta<INFO>10166</INFO></TIPBOX> Evolución\n\t\t\t>Materiales de evolución:\n\t\t\t^i[1000103]x500, ^i[7095]x50,\n\t\t\t^i[7094]x10\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t^i[10044]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10168] = {
-		Title = "mascota Drops dulces#Dulce",
+		Title = "mascota Gotas Dulces#Dulce",
 		Search = 1,
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9109]mascota Drops dulces\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>▷mascota Gotas<INFO>10094</INFO></TIPBOX> Evolución\n\t\t\t▷Materiales de evolución:\n\t\t\t^i[529]x50, ^i[530]x50,\n\t\t\t^i[25290]x500, ^i[4004]x1\n\t\t\t\n\t\t\t• Comida\n\t\t\t^i[529]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-		}
-	},
-	[10169] = {
-		Title = "mascota Duende de Navidad#Scell#Bastón de dulce",
-		Search = 1,
-		Image = "유저인터페이스\\tipbox\\tip10090",
-		Imgcoord = {Position = 5, Size = 100},
-		Page = {
-			"^i[9029]mascota Duende de Navidad\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[12225]\n\n\t\t\t• Comida\n\t\t\t^i[911]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			"^i[9109]mascota Gotas Dulces\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>>mascota Drops<INFO>10094</INFO></TIPBOX> Evolución\n\t\t\t>Materiales de evolución:\n\t\t\t^i[529]x50, ^i[530]x50,\n\t\t\t^i[25290]x500, ^i[4004]x1\n\t\t\t\n\t\t\t• Comida\n\t\t\t^i[529]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10170] = {
-		Title = "mascota Líder Goblin#Big Scell#Bastón de dulce",
+		Title = "mascota Jefe Duende#Big Scell#Bastón de dulce",
 		Search = 1,
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9046]mascota Líder Goblin\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[12364]\n\n\t\t\t• Comida\n\t\t\t^i[6104]\n\n\t\t\t• Accesorio\n\t\t\t^i[10028]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			"^i[9046]mascota Jefe Duende\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[12364]\n\n\t\t\t• Comida\n\t\t\t^i[6104]\n\n\t\t\t• Accesorio\n\t\t\t^i[10028]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10171] = {
@@ -2400,49 +2549,31 @@ A religious kingdom that worships the goddess Freya and has achieved unity of ch
 			"^i[9040]mascota Mao Guai\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[12358]\n\n\t\t\t• Comida\n\t\t\t^i[6095]\n\n\t\t\t• Accesorio\n\t\t\t^i[10022]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 		}
 	},
-	[10172] = {
-		Title = "mascota Conejo de nieve#Dulce",
-		Search = 1,
-		Image = "유저인터페이스\\tipbox\\tip10090",
-		Imgcoord = {Position = 5, Size = 100},
-		Page = {
-			"^i[9058]mascota Conejo de nieve\n\t\t\t• Método de obtención\n\t\t\tObtenido durante el evento ^i[9058]\n\n\t\t\t• Comida\n\t\t\t^i[529]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-		}
-	},
 	[10173] = {
-		Title = "mascota Unicornio azul#Comida para mascotas",
+		Title = "mascota Unicornio#Comida para mascotas",
 		Search = 1,
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9068]mascota Unicornio azul\n\t\t\t• Método de obtención\n\t\t\tObtenido durante el evento ^i[9068]\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-		}
-	},
-	[10174] = {
-		Title = "mascota Huevo de pastel de arroz duro#Hierba verde#Polvo de arroz masticable",
-		Search = 1,
-		Image = "유저인터페이스\\tipbox\\tip10090",
-		Imgcoord = {Position = 5, Size = 100},
-		Page = {
-			"^i[9028]mascota Huevo de pastel de arroz duro\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[12340]\n\n\t\t\t• Comida\n\t\t\t^i[511]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			"^i[9068]mascota Unicornio\n\t\t\t• Método de obtención\n\t\t\tObtenido durante el evento ^i[9068]\n\n\t\t\t• Comida\n\t\t\t^i[510]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10175] = {
-		Title = "mascota Gato esquelético#Pescado fresco",
+		Title = "mascota Gato Esquelético#Pescado fresco",
 		Search = 1,
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9101]mascota Gato esquelético\n\t\t\t• Método de obtención\n\t\t\tObtenido por misión durante el evento de Halloween\n\t\t\t<NAVI>[Jack]<INFO>niflheim,172,244,0,101,0</INFO></NAVI>\n\n\t\t\t• Comida\n\t\t\t^i[579]\n\n\t\t\t• Accesorio\n\t\t\t^i[10040]\n\t\t\t\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>▷mascota Skelion<INFO>10176</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			"^i[9101]mascota Gato Esquelético\n\t\t\t• Método de obtención\n\t\t\tObtenido por misión durante el evento de Halloween\n\t\t\t<NAVI>[Jack]<INFO>niflheim,172,244,0,101,0</INFO></NAVI>\n\n\t\t\t• Comida\n\t\t\t^i[579]\n\n\t\t\t• Accesorio\n\t\t\t^i[10040]\n\t\t\t\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>>mascota Esqueleón<INFO>10176</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10176] = {
-		Title = "mascota Skelion#Carne deliciosa",
+		Title = "mascota Esqueleón#Carne deliciosa",
 		Search = 1,
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9113]mascota Skelion\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>▷mascota Gato esquelético<INFO>10175</INFO></TIPBOX> Evolución\n\t\t\t▷Materiales de evolución:\n\t\t\t^i[25408]x2, ^i[11616]x100,\n\t\t\t^i[11605]x100\n\n\t\t\t• Comida\n\t\t\t^i[11616]\n\n\t\t\t• Accesorio\n\t\t\t^i[10042]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			"^i[9113]mascota Esqueleón\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>>mascota Gato Esquelético<INFO>10175</INFO></TIPBOX> Evolución\n\t\t\t>Materiales de evolución:\n\t\t\t^i[25408]x2, ^i[11616]x100,\n\t\t\t^i[11605]x100\n\n\t\t\t• Comida\n\t\t\t^i[11616]\n\n\t\t\t• Accesorio\n\t\t\t^i[10042]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10177] = {
@@ -2460,25 +2591,25 @@ A religious kingdom that worships the goddess Freya and has achieved unity of ch
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9053]mascota Gólem\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[12371]\n\n\t\t\t• Comida\n\t\t\t^i[6111]\n\n\t\t\t• Accesorio\n\t\t\t^i[10035]\n\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>▷mascota Gólem de llama<INFO>10101</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			"^i[9053]mascota Gólem\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[12371]\n\n\t\t\t• Comida\n\t\t\t^i[6111]\n\n\t\t\t• Accesorio\n\t\t\t^i[10035]\n\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>>mascota Golém de Fuego<INFO>10101</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10179] = {
-		Title = "mascota Bacsojin#Lujosa comida para mascotas",
+		Title = "mascota Dama Blanca#Lujosa comida para mascotas",
 		Search = 1,
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9115]mascota Bacsojin\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>▷mascota Ninfa malvada<INFO>10123</INFO></TIPBOX> Evolución\n\t\t\t▷Materiales de evolución:\n\t\t\t^i[4202]x10, ^i[4265]x10,\n\t\t\t^i[4272]x10, ^i[25375]x30\n\n\t\t\t• Comida\n\t\t\t^i[25377]\n\t\t\t\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			"^i[9115]mascota Dama Blanca\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>>mascota Ninfa Malvada<INFO>10123</INFO></TIPBOX> Evolución\n\t\t\t>Materiales de evolución:\n\t\t\t^i[4202]x10, ^i[4265]x10,\n\t\t\t^i[4272]x10, ^i[25375]x30\n\n\t\t\t• Comida\n\t\t\t^i[25377]\n\t\t\t\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10180] = {
-		Title = "mascota Luz de Luna#Lujosa comida para mascotas",
+		Title = "mascota Flor Lunar#Lujosa comida para mascotas",
 		Search = 1,
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9112]mascota Luz de Luna\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>▷Mascota Gato de nueve colas<INFO>10125</INFO></TIPBOX> Evolución\n\t\t\t▷Materiales de evolución:\n\t\t\t^i[4159]x10, ^i[4090]x10,\n\t\t\t^i[4100]x10, ^i[25375]x30\n\t\t\t\n\t\t\t• Comida\n\t\t\t^i[25377]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			"^i[9112]mascota Flor Lunar\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>>Mascota Gato de Nueve Colas<INFO>10125</INFO></TIPBOX> Evolución\n\t\t\t>Materiales de evolución:\n\t\t\t^i[4159]x10, ^i[4090]x10,\n\t\t\t^i[4100]x10, ^i[25375]x30\n\t\t\t\n\t\t\t• Comida\n\t\t\t^i[25377]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10181] = {
@@ -2491,21 +2622,21 @@ A religious kingdom that worships the goddess Freya and has achieved unity of ch
 		}
 	},
 	[10182] = {
-		Title = "mascota Héroe Orc#Lujosa comida para mascotas",
+		Title = "mascota Héroe Orco#Lujosa comida para mascotas",
 		Search = 1,
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9121]mascota Héroe Orc\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>▷Mascota Orc Superior<INFO>10100</INFO></TIPBOX> Evolución\n\t\t\t▷Materiales de evolución:\n\t\t\t^i[4066]x10, ^i[4375]x10,\n\t\t\t^i[968]x10, ^i[25375]x30\n\n\t\t\t• Comida\n\t\t\t^i[25377]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			"^i[9121]mascota Héroe Orco\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>>Mascota Orco Superior<INFO>10100</INFO></TIPBOX> Evolución\n\t\t\t>Materiales de evolución:\n\t\t\t^i[4066]x10, ^i[4375]x10,\n\t\t\t^i[968]x10, ^i[25375]x30\n\n\t\t\t• Comida\n\t\t\t^i[25377]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10183] = {
-		Title = "mascota Gloom Bajo la Noche#Lujosa comida para mascotas",
+		Title = "mascota Oscuridad Bajo la Noche#Lujosa comida para mascotas",
 		Search = 1,
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9122]mascota Gloom Bajo la Noche\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>▷mascota Hodremlin<INFO>10161</INFO></TIPBOX> Evolución\n\t\t\t▷Materiales de evolución:\n\t\t\t^i[4413]x10, ^i[4409]x10,\n\t\t\t^i[4412]x10, ^i[25375]x30\n\n\t\t\t• Comida\n\t\t\t^i[25377]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			"^i[9122]mascota Oscuridad Bajo la Noche\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>>mascota Hodremlin<INFO>10161</INFO></TIPBOX> Evolución\n\t\t\t>Materiales de evolución:\n\t\t\t^i[4413]x10, ^i[4409]x10,\n\t\t\t^i[4412]x10, ^i[25375]x30\n\n\t\t\t• Comida\n\t\t\t^i[25377]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10184] = {
@@ -2514,7 +2645,7 @@ A religious kingdom that worships the goddess Freya and has achieved unity of ch
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9126]mascota Kiel-D-01\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>▷mascota Aliot<INFO>10111</INFO></TIPBOX> Evolución\n\t\t\t▷Materiales de evolución:\n\t\t\t^i[4402]x10, ^i[4400]x10,\n\t\t\t^i[4401]x10, ^i[25375]x30\n\n\t\t\t• Comida\n\t\t\t^i[25377]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno] \n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			"^i[9126]mascota Kiel-D-01\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>>mascota Aliot<INFO>10111</INFO></TIPBOX> Evolución\n\t\t\t>Materiales de evolución:\n\t\t\t^i[4402]x10, ^i[4400]x10,\n\t\t\t^i[4401]x10, ^i[25375]x30\n\n\t\t\t• Comida\n\t\t\t^i[25377]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno] \n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10185] = {
@@ -2527,12 +2658,12 @@ A religious kingdom that worships the goddess Freya and has achieved unity of ch
 		}
 	},
 	[10186] = {
-		Title = "mascota Terror del Pesadilla#Ensalada fresca#Contrato infernal",
+		Title = "mascota Terror Nocturno#Ensalada fresca#Contrato infernal",
 		Search = 1,
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9054]mascota Terror del Pesadilla\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[12372]\n\n\t\t\t• Comida\n\t\t\t^i[6112]\n\t\t\t\n\t\t\t• Accesorio\n\t\t\t^i[10036]\n\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>▷mascota Terror nocturno rígido<INFO>10104</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			"^i[9054]mascota Terror Nocturno\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[12372]\n\n\t\t\t• Comida\n\t\t\t^i[6112]\n\t\t\t\n\t\t\t• Accesorio\n\t\t\t^i[10036]\n\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>>mascota Terror Nocturno Rígido<INFO>10104</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10187] = {
@@ -2541,7 +2672,7 @@ A religious kingdom that worships the goddess Freya and has achieved unity of ch
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9137]mascota Baphomet\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>▷mascota Baphomet Jr. caótico<INFO>10106</INFO></TIPBOX> Evolución\n\t\t\t▷Materiales de evolución:\n\t\t\t^i[4129]x15, ^i[27335]x15,\n\t\t\t^i[25375]x30\n\n\t\t\t• Comida\n\t\t\t^i[25377]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno] \n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno] \n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			"^i[9137]mascota Baphomet\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>>mascota Baphomet Jr. Caótico<INFO>10106</INFO></TIPBOX> Evolución\n\t\t\t>Materiales de evolución:\n\t\t\t^i[4129]x15, ^i[27335]x15,\n\t\t\t^i[25375]x30\n\n\t\t\t• Comida\n\t\t\t^i[25377]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno] \n\n\t\t\t• Información de evolución\n\t\t\t[Ninguno] \n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10188] = {
@@ -2554,66 +2685,21 @@ A religious kingdom that worships the goddess Freya and has achieved unity of ch
 		}
 	},
 	[10189] = {
-		Title = "mascota Ilusión oscura#Evolución#Sacerdote oscuro",
+		Title = "mascota Ilusión Oscura#Evolución#Sacerdote Oscuro",
 		Search = 1,
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9139]mascota Ilusión oscura\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>▷mascota Sacerdote oscuro<INFO>10162</INFO></TIPBOX> Evolución\n\t\t\t▷Materiales de evolución:\n\t\t\t^i[7005]x500, ^i[2608]x1,\n\t\t\t^i[1009]x5, ^i[4171]x10\n\t\t\t\n\t\t\t• Comida\n\t\t\t^i[537]\n\t\t\t\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\t\t\t\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>▷mascota Señor Oscuro<INFO>10200</INFO></TIPBOX>\n\t\t\t\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-		}
-	},
-	[10190] = {
-		Title = "mascota Loli Ruri de la Luna Azul#Evolución",
-		Search = 1,
-		Image = "유저인터페이스\\tipbox\\tip10090",
-		Imgcoord = {Position = 5, Size = 100},
-		Page = {
-			"^i[9140]mascota Loli Ruri de la Luna Azul\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>▷mascota Loli Ruri<INFO>10151</INFO></TIPBOX> Evolución\n\t\t\t▷Materiales de evolución:\n\t\t\t^i[7214]x500, ^i[510]x50,\n\t\t\t^i[7019]x1, ^i[4191]x10\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\t\t\t\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			"^i[9139]mascota Ilusión Oscura\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>>mascota Sacerdote Oscuro<INFO>10162</INFO></TIPBOX> Evolución\n\t\t\t>Materiales de evolución:\n\t\t\t^i[7005]x500, ^i[2608]x1,\n\t\t\t^i[1009]x5, ^i[4171]x10\n\t\t\t\n\t\t\t• Comida\n\t\t\t^i[537]\n\t\t\t\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\t\t\t\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>>mascota Señor Oscuro<INFO>10200</INFO></TIPBOX>\n\t\t\t\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10191] = {
-		Title = "mascota Rosa silvestre#Evolución#Gato hoja",
+		Title = "mascota Rosa Silvestre#Evolución#Gato Hoja",
 		Search = 1,
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9141]mascota Rosa silvestre\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>▷mascota Gato hoja<INFO>10150</INFO></TIPBOX> Evolución\n\t\t\t▷Materiales de evolución:\n\t\t\t^i[7198]x500, ^i[7206]x200,\n\t\t\t^i[1023]x200, ^i[4195]x10\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\t\t\t\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>▷mascota Eddga<INFO>10195</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-		}
-	},
-	[10192] = {
-		Title = "mascota Caballero Blanco Mutante#Evolución",
-		Search = 1,
-		Image = "유저인터페이스\\tipbox\\tip10090",
-		Imgcoord = {Position = 5, Size = 100},
-		Page = {
-			"^i[9133]mascota Caballero Blanco Mutante\n\t\t\t• Método de obtención: Intercambio\n\t\t\tObjeto de intercambio:^i[25375]x10\n\t\t\t<NAVI>[Gold Hand, siervo del Trascendente]<INFO>prontera,163,304,0,101,0</INFO></NAVI>\n\t\t\t\n\t\t\t• Comida\n\t\t\t^i[537]\n\t\t\t\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\t\t\t\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>▷mascota Caballero del Abismo<INFO>10193</INFO></TIPBOX>\n\t\t\t<TIPBOX>▷mascota Caballero Blanco<INFO>10194</INFO></TIPBOX>\n\t\t\t\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-		}
-	},
-	[10193] = {
-		Title = "mascota Caballero del Abismo#Evolución",
-		Search = 1,
-		Image = "유저인터페이스\\tipbox\\tip10090",
-		Imgcoord = {Position = 5, Size = 100},
-		Page = {
-			"^i[9132]mascota Caballero del Abismo\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>▷mascota Caballero Blanco Mutante<INFO>10192</INFO></TIPBOX> Evolución\n\t\t\t▷Materiales de evolución:\n\t\t\t^i[6089]x100, ^i[7511]x100,\n\t\t\t^i[1000257]x200, ^i[4140]x5\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\t\t\t\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\t\t\t\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\t\t\t\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-		}
-	},
-	[10194] = {
-		Title = "mascota Caballero Blanco#Evolución",
-		Search = 1,
-		Image = "유저인터페이스\\tipbox\\tip10090",
-		Imgcoord = {Position = 5, Size = 100},
-		Page = {
-			"^i[9134]mascota Caballero Blanco\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>▷mascota Caballero Blanco Mutante<INFO>10192</INFO></TIPBOX> Evolución\n\t\t\t▷Materiales de evolución:\n\t\t\t^i[25509]x100, ^i[1000831]x100,\n\t\t\t^i[1000263]x200, ^i[4608]x2\n\t\t\t\n\t\t\t• Comida\n\t\t\t^i[537]\n\t\t\t\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\t\t\t\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\t\t\t\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-		}
-	},
-	[10195] = {
-		Title = "mascota Eddga#Evolución",
-		Search = 1,
-		Image = "유저인터페이스\\tipbox\\tip10090",
-		Imgcoord = {Position = 5, Size = 100},
-		Page = {
-			"^i[9142]mascota Eddga\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>▷mascota Rosa silvestre<INFO>10191</INFO></TIPBOX> Evolución\n\t\t\t▷Materiales de evolución:\n\t\t\t^i[4195]x10, ^i[4257]x10,\n\t\t\t^i[27124]x10, ^i[25375]x30\n\t\t\t\n\t\t\t• Comida\n\t\t\t^i[25377]\n\t\t\t\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\t\t\t\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\t\t\t\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			"^i[9141]mascota Rosa Silvestre\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>>mascota Gato Hoja<INFO>10150</INFO></TIPBOX> Evolución\n\t\t\t>Materiales de evolución:\n\t\t\t^i[7198]x500, ^i[7206]x200,\n\t\t\t^i[1023]x200, ^i[4195]x10\n\n\t\t\t• Comida\n\t\t\t^i[537]\n\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\t\t\t\n\t\t\t• Información de evolución\n\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10196] = {
@@ -2625,40 +2711,328 @@ A religious kingdom that worships the goddess Freya and has achieved unity of ch
 			"^i[9050]mascota Medusa\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[12368]\n\n\t\t\t• Comida\n\t\t\t^i[6108]\n\t\t\t\n\t\t\t• Accesorio\n\t\t\t^i[10032]\n\t\t\t\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\t\t\t\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 		}
 	},
-	[10197] = {
-		Title = "mascota Copo",
-		Search = 1,
-		Image = "유저인터페이스\\tipbox\\tip10090",
-		Imgcoord = {Position = 5, Size = 100},
-		Page = {
-			"^i[9145]mascota Copo\n\t\t\t• Método de obtención: Domesticación\n\t\t\tObjeto de domesticación:^i[102202]\n\t\t\t\n\t\t\t• Comida\n\t\t\t^i[537]\n\t\t\t\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\t\t\t\n\t\t\t• Información de evolución\n\t\t\t<TIPBOX>▷mascota Vientohielo Gris<INFO>10198</INFO></TIPBOX>\n\t\t\t<TIPBOX>▷mascota Vientohielo<INFO>10199</INFO></TIPBOX>\n\t\t\t\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-		}
-	},
-	[10198] = {
-		Title = "mascota Vientohielo Gris",
-		Search = 1,
-		Image = "유저인터페이스\\tipbox\\tip10090",
-		Imgcoord = {Position = 5, Size = 100},
-		Page = {
-			"^i[9146]mascota Vientohielo Gris\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>▷mascota Copo<INFO>10197</INFO></TIPBOX> Evolución\n\t\t\t▷Materiales de evolución:\n\t\t\t^i[1001244]x200, ^i[1001249]x150,\n\t\t\t^i[1001246]x150, ^i[300457]x1\n\t\t\t\n\t\t\t• Comida\n\t\t\t^i[537]\n\t\t\t\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\t\t\t\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\t\t\t\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-		}
-	},
-	[10199] = {
-		Title = "mascota Vientohielo",
-		Search = 1,
-		Image = "유저인터페이스\\tipbox\\tip10090",
-		Imgcoord = {Position = 5, Size = 100},
-		Page = {
-			"^i[9147]mascota Vientohielo\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>▷mascota Copo<INFO>10197</INFO></TIPBOX> Evolución\n\t\t\t▷Materiales de evolución:\n\t\t\t^i[1001245]x200, ^i[1001249]x150,\n\t\t\t^i[1001246]x150, ^i[300458]x1\n\t\t\t\n\t\t\t• Comida\n\t\t\t^i[537]\n\t\t\t\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\t\t\t\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\t\t\t\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
-		}
-	},
 	[10200] = {
 		Title = "mascota Señor Oscuro",
 		Search = 1,
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9148]mascota Señor Oscuro\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>▷mascota Ilusión oscura<INFO>10189</INFO></TIPBOX> Evolución\n\t\t\t▷Materiales de evolución:\n\t\t\t^i[4169]x10, ^i[4141]x10,\n\t\t\t^i[4171]x10, ^i[25375]x30\n\t\t\t\n\t\t\t• Comida\n\t\t\t^i[25377]\n\t\t\t\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\t\t\t\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\t\t\t\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			"^i[9148]mascota Señor Oscuro\n\t\t\t• Método de obtención\n\t\t\t<TIPBOX>>mascota Ilusión Oscura<INFO>10189</INFO></TIPBOX> Evolución\n\t\t\t>Materiales de evolución:\n\t\t\t^i[4169]x10, ^i[4141]x10,\n\t\t\t^i[4171]x10, ^i[25375]x30\n\t\t\t\n\t\t\t• Comida\n\t\t\t^i[25377]\n\t\t\t\n\t\t\t• Accesorio\n\t\t\t[Ninguno]\n\t\t\t\n\t\t\t• Información de evolución\n\t\t\t[Ninguno]\n\t\t\t\n\t\t\t<TIPBOX>•Ver lista de mascotas<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver sistema de mascotas<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[96] = {
+		Title = "Estado de Rasgo#stat,status",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00096",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"El Estado de Rasgo es un conjunto adicional de atributos que se desbloquea al cambiar a una clase superior desde el nivel 200.\n\t\tPuedes fortalecer a tu personaje invirtiendo los Puntos de Estado de Rasgo obtenidos al subir de nivel.\n\t\t(Cada 5 niveles, puedes obtener más Puntos de Estado de Rasgo.)\n\t\tPuedes revisar estos valores haciendo clic en Estado de Rasgo en la ventana de estado.\n\n\t\tTambién puedes invertir puntos rápidamente escribiendo los siguientes comandos en la ventana de chat.\n\t\t/pow+ valor\n\t\t/sta+ valor\n\t\t/wis+ valor\n\t\t/spl+ valor\n\t\t/con+ valor\n\t\t/crt+ valor\n\n\t\t<TIPBOX>•Estado de Rasgo: POW (Power)<INFO>97</INFO></TIPBOX>\n\t\t<TIPBOX>•Estado de Rasgo: STA (Stamina)<INFO>98</INFO></TIPBOX>\n\t\t<TIPBOX>•Estado de Rasgo: WIS (Wisdom)<INFO>99</INFO></TIPBOX>\n\t\t<TIPBOX>•Estado de Rasgo: SPL (Spell)<INFO>100</INFO></TIPBOX>\n\t\t<TIPBOX>•Estado de Rasgo: CON (Concentration)<INFO>101</INFO></TIPBOX>\n\t\t<TIPBOX>•Estado de Rasgo: CRT (Creative)<INFO>102</INFO></TIPBOX>\n\t\t<TIPBOX>•Atributos de Rasgo<INFO>103</INFO></TIPBOX>\n\t\t<TIPBOX>•Personaje: Estado<INFO>89</INFO></TIPBOX>\n\t\t<TIPBOX>•Ver Lista de Tips<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[97] = {
+		Title = "Estado de Rasgo: POW (Power)#stat,status",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00096",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Atributo que aumenta el ATK Físico de Estado y el Power ATK (P.ATK)\n\n\t\tAumenta el ATK Físico de Estado en 5 por punto.\n\t\tAumenta el P.ATK en 1 cada 3 puntos.\n\n\t\t<TIPBOX>•Personaje: Estado de Rasgo<INFO>96</INFO></TIPBOX>\n\t\t<TIPBOX>•Ver Lista de Tips<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[98] = {
+		Title = "Estado de Rasgo: STA (Stamina)#stat,status",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00096",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Atributo que aumenta Resist (RES)\n\n\t\tAumenta el RES en 1 por punto.\n\t\tAumenta el RES en 5 cada 3 puntos.\n\n\t\t<TIPBOX>•Personaje: Estado de Rasgo<INFO>96</INFO></TIPBOX>\n\t\t<TIPBOX>•Ver Lista de Tips<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[99] = {
+		Title = "Estado de Rasgo: WIS (Wisdom)#stat,status",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00096",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Atributo que aumenta Magic Resist (MRES)\n\n\t\tAumenta el MRES en 1 por punto.\n\t\tAumenta adicionalmente el MRES en 5 cada 3 puntos.\n\n\t\t<TIPBOX>•Personaje: Estado de Rasgo<INFO>96</INFO></TIPBOX>\n\t\t<TIPBOX>•Ver Lista de Tips<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[100] = {
+		Title = "Estado de Rasgo: SPL (Spell)#stat,status",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00096",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Atributo que aumenta el ATK Mágico de Estado y el Spell MATK (S.MATK)\n\n\t\tAumenta el ATK Mágico de Estado en 5 por punto.\n\t\tAumenta el S.MATK en 1 cada 3 puntos.\n\n\t\t<TIPBOX>•Personaje: Estado de Rasgo<INFO>96</INFO></TIPBOX>\n\t\t<TIPBOX>•Ver Lista de Tips<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[101] = {
+		Title = "Estado de Rasgo: CON (Concentration)#stat,status",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00096",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Atributo que aumenta HIT, FLEE, Power ATK (P.ATK) y Spell MATK (S.MATK)\n\n\t\tAumenta el HIT en 2 y el FLEE en 2 por punto.\n\t\tAumenta el P.ATK en 1 cada 5 puntos.\n\t\tAumenta el S.MATK en 1 cada 5 puntos.\n\n\t\t<TIPBOX>•Personaje: Estado de Rasgo<INFO>96</INFO></TIPBOX>\n\t\t<TIPBOX>•Ver Lista de Tips<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[102] = {
+		Title = "Estado de Rasgo: CRT (Creative)#stat,status",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00096",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Atributo que aumenta Heal Plus (H.PLUS) y Critical Rate (C.RATE)\n\n\t\tAumenta el H.PLUS en 1 por punto.\n\t\tAumenta el C.RATE en 1 cada 3 puntos.\n\n\t\t<TIPBOX>•Personaje: Estado de Rasgo<INFO>96</INFO></TIPBOX>\n\t\t<TIPBOX>•Ver Lista de Tips<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[103] = {
+		Title = "Atributos de Rasgo#status,stat",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00096",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Los Atributos de Rasgo son valores obtenidos al invertir en Estado de Rasgo o mediante efectos de habilidades y objetos.\n\n\t\t<TIPBOX>•Atributo de Rasgo: Power ATK (P.ATK)<INFO>104</INFO></TIPBOX>\n\t\t<TIPBOX>•Atributo de Rasgo: Spell MATK (S.MATK)<INFO>105</INFO></TIPBOX>\n\t\t<TIPBOX>•Atributo de Rasgo: Resist (RES)<INFO>106</INFO></TIPBOX>\n\t\t<TIPBOX>•Atributo de Rasgo: Magic Resist (MRES)<INFO>107</INFO></TIPBOX>\n\t\t<TIPBOX>•Atributo de Rasgo: Heal Plus (H.PLUS)<INFO>108</INFO></TIPBOX>\n\t\t<TIPBOX>•Atributo de Rasgo: Critical Rate (C.RATE)<INFO>109</INFO></TIPBOX>\n\t\t<TIPBOX>•Personaje: Estado de Rasgo<INFO>96</INFO></TIPBOX>\n\t\t<TIPBOX>•Personaje: Estado<INFO>89</INFO></TIPBOX>\n\t\t<TIPBOX>•Ver Lista de Tips<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[104] = {
+		Title = "Atributo de Rasgo: Power ATK (P.ATK)#physical",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00096",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Power ATK\n\n\t\tAumenta en % el ATK Físico final de Estado y el ATK de Arma final.\n\n\t\t<TIPBOX>•Atributos de Rasgo<INFO>103</INFO></TIPBOX>\n\t\t<TIPBOX>•Personaje: Estado de Rasgo<INFO>96</INFO></TIPBOX>\n\t\t<TIPBOX>•Ver Lista de Tips<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[105] = {
+		Title = "Atributo de Rasgo: Spell MATK (S.MATK)#magic",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00096",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Spell MATK\n\n\t\tAumenta en % el ATK Mágico final de Estado y el ATK Mágico final.\n\n\t\t<TIPBOX>•Atributos de Rasgo<INFO>103</INFO></TIPBOX>\n\t\t<TIPBOX>•Personaje: Estado de Rasgo<INFO>96</INFO></TIPBOX>\n\t\t<TIPBOX>•Ver Lista de Tips<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[106] = {
+		Title = "Atributo de Rasgo: Resist (RES)#physical resist",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00096",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Resist\n\n\t\tReduce en % el daño físico general recibido antes de calcular la defensa física.\n\t\t^FF0000※ Los efectos para ignorar Resist se aplican solo hasta un máximo de 50%.^000000\n\n\t\t<TIPBOX>•Atributos de Rasgo<INFO>103</INFO></TIPBOX>\n\t\t<TIPBOX>•Personaje: Estado de Rasgo<INFO>96</INFO></TIPBOX>\n\t\t<TIPBOX>•Ver Lista de Tips<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[107] = {
+		Title = "Atributo de Rasgo: Magic Resist (MRES)#magic resist",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00096",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Magic Resist\n\n\t\tReduce en % el daño mágico general recibido antes de calcular la defensa mágica.\n\t\t^FF0000※ Los efectos para ignorar Magic Resist se aplican solo hasta un máximo de 50%.^000000\n\n\t\t<TIPBOX>•Atributos de Rasgo<INFO>103</INFO></TIPBOX>\n\t\t<TIPBOX>•Personaje: Estado de Rasgo<INFO>96</INFO></TIPBOX>\n\t\t<TIPBOX>•Ver Lista de Tips<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[108] = {
+		Title = "Atributo de Rasgo: Heal Plus (H.PLUS)#healing",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00096",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Heal Plus\n\n\t\tAumenta en % la curación final recibida.\n\t\t^FF0000※ Este aumento en % se aplica después de los efectos generales de aumento de curación.^000000\n\n\t\t<TIPBOX>•Atributos de Rasgo<INFO>103</INFO></TIPBOX>\n\t\t<TIPBOX>•Personaje: Estado de Rasgo<INFO>96</INFO></TIPBOX>\n\t\t<TIPBOX>•Ver Lista de Tips<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[109] = {
+		Title = "Atributo de Rasgo: Critical Rate (C.RATE)#critical",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00096",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Critical Rate\n\n\t\tAumenta el bono base de Daño Crítico, que normalmente es de 140%.\n\t\t^FF0000※ Si C.RATE es 10, el bono base de Daño Crítico aumenta de 140% a 150%.^000000\n\n\t\t<TIPBOX>•Atributos de Rasgo<INFO>103</INFO></TIPBOX>\n\t\t<TIPBOX>•Personaje: Estado de Rasgo<INFO>96</INFO></TIPBOX>\n\t\t<TIPBOX>•Ver Lista de Tips<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[110] = {
+		Title = "Sistema de Activity Point (Sistema AP)#activity",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00110",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Activity Point (AP) es un sistema adicional de puntos que se desbloquea al cambiar a una clase superior desde el nivel 200.\n\n\t\tAP se consume al usar habilidades poderosas, y su valor máximo está limitado a 200 independientemente de la clase.\n\t\tAP solo puede recuperarse mediante habilidades que restauran AP. Algunas clases también pueden restaurar o consumir el AP de otro personaje mediante habilidades.\n\t\t\\n<TIPBOX>•Ver Lista de Tips<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[9135] = {
+		Title = "4ª Clases#4th job",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Cuando los aventureros que completaron el avance a la 3ª Clase Trascendente acumulan suficiente experiencia, pueden avanzar a la 4ª Clase.\n\t\t\tAún más habilidades y grandes aventuras te esperan.\n\n\t\t\t<TIPBOX>•Misión de Cambio a la 4ª Clase<INFO>9136</INFO></TIPBOX>\n\n\t\t\t※Aviso\n\t\t\tSi avanzaste a 3ª Clase en estado no trascendente, <NAVI>[Bakhili]<INFO>prt_in,285,161,0,101,0,</INFO></NAVI> puede ayudarte con la Trascendencia al alcanzar Base Level 200.\n\n\t\t\t<TIPBOX>•Ir a la Página de Clase<INFO>9031</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver Lista de Tips<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[9136] = {
+		Title = "Misión de Cambio a la 4ª Clase#4th job change",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Las 3ª Clases Trascendentes con Base Level 200 y Job Level 70 o superior pueden avanzar a la 4ª Clase.\n\t\t\t<TIPBOX>>Dragon Knight<INFO>9137</INFO></TIPBOX>\n\t\t\t<TIPBOX>>Imperial Guard<INFO>9138</INFO></TIPBOX>\n\t\t\t<TIPBOX>>Arc Mage<INFO>9139</INFO></TIPBOX>\n\t\t\t<TIPBOX>>Elemental Master<INFO>9140</INFO></TIPBOX>\n\t\t\t<TIPBOX>>Meister<INFO>9141</INFO></TIPBOX>\n\t\t\t<TIPBOX>>Biolo<INFO>9142</INFO></TIPBOX>\n\t\t\t<TIPBOX>>Cardinal<INFO>9143</INFO></TIPBOX>\n\t\t\t<TIPBOX>>Inquisitor<INFO>9144</INFO></TIPBOX>\n\t\t\t<TIPBOX>>Shadow Cross<INFO>9145</INFO></TIPBOX>\n\t\t\t<TIPBOX>>Abyss Chaser<INFO>9146</INFO></TIPBOX>\n\t\t\t<TIPBOX>>Wind Hawk<INFO>9147</INFO></TIPBOX>\n\t\t\t<TIPBOX>>Troubadour<INFO>9148</INFO></TIPBOX>\n\t\t\t<TIPBOX>>Trouvere<INFO>9149</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>•Página Anterior<INFO>9135</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver Lista de Tips<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[9137] = {
+		Title = "JQ Cambio de Clase a Dragon Knight",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Dragon Knight, la 4ª Clase que evoluciona de Rune Knight, usa armas de dos manos libremente y controla Servant Weapons, armas que encarnan la voluntad del usuario.\n\t\t\tAdemás de realizar ataques adicionales con Servant Weapons durante ataques básicos, también puede desatar poderosos ataques de área.\n\t\t\t^663399•Base Level 200 o superior^000000\n\t\t\t^663399•Job Level 70 o superior^000000\n\t\t\t^663399•Objetivo: Rune Knight^000000\n\n\t\t\t<NAVI>[Oscar]<INFO>gef_fild08,54,101,0,101,0,</INFO></NAVI>\n\n\t\t\t<TIPBOX>•Página Anterior<INFO>9136</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver Lista de Tips<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[9138] = {
+		Title = "JQ Cambio de Clase a Imperial Guard",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Imperial Guard, la 4ª Clase que evoluciona de Royal Guard, combate con espada y escudo y representa a quienes encontraron convicción en la verdadera fuerza.\n\t\t\tComo puede empuñar de forma natural el poder sagrado, es capaz de realizar ataques sagrados aún más poderosos.\n\t\t\t^663399•Base Level 200 o superior^000000\n\t\t\t^663399•Job Level 70 o superior^000000\n\t\t\t^663399•Objetivo: Royal Guard^000000\n\n\t\t\t<NAVI>[King's Knight]<INFO>prt_cas,181,10,0,101,0,</INFO></NAVI>\n\n\t\t\t<TIPBOX>•Página Anterior<INFO>9136</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver Lista de Tips<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[9139] = {
+		Title = "JQ Cambio de Clase a Arc Mage",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Arc Mage, la 4ª Clase que evoluciona de Warlock, añade belleza a un poder mágico abrumador para crear hechizos verdaderamente fantásticos.\n\t\t\tPuede crear campos de llamas ardientes o hacer caer lluvia con magia de hielo. Cuando comienza Climax, sus hechizos existentes se transforman en magia aún más poderosa.\n\t\t\t^663399•Base Level 200 o superior^000000\n\t\t\t^663399•Job Level 70 o superior^000000\n\t\t\t^663399•Objetivo: Warlock^000000\n\n\t\t\t<NAVI>[Varmundt Mansion Garden]<INFO>ba_maison,200,256,0,101,0,</INFO></NAVI>\n\n\t\t\t<TIPBOX>•Página Anterior<INFO>9136</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver Lista de Tips<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[9140] = {
+		Title = "JQ Cambio de Clase a Elemental Master",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Elemental Master, la 4ª Clase que evoluciona de Sorcerer, se especializa en controlar los elementos de la naturaleza. Puede fortalecer espíritus existentes para invocar nuevos y usar magia elemental.\n\t\t\tTambién utiliza diversas magias de apoyo, como aumentar el poder mágico de los aliados.\n\t\t\t^663399•Base Level 200 o superior^000000\n\t\t\t^663399•Job Level 70 o superior^000000\n\t\t\t^663399•Objetivo: Sorcerer^000000\n\n\t\t\t<NAVI>[Geffen Tower]<INFO>gef_tower,119,29,0,101,0,</INFO></NAVI>\n\n\t\t\t<TIPBOX>•Página Anterior<INFO>9136</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver Lista de Tips<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[9141] = {
+		Title = "JQ Cambio de Clase a Meister",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Meister, la 4ª Clase que evoluciona de Mechanic, es un maestro de la ingeniería mecánica que comanda libremente robots de combate autónomos.\n\t\t\tTambién puede crear diversos dispositivos para proteger o fortalecer aliados, mostrando un excelente desempeño como especialista en apoyo de combate.\n\t\t\t^663399•Base Level 200 o superior^000000\n\t\t\t^663399•Job Level 70 o superior^000000\n\t\t\t^663399•Objetivo: Mechanic^000000\n\n\t\t\t<NAVI>[Lodi]<INFO>yuno,111,208,0,101,0,</INFO></NAVI>\n\t\t\t<NAVI>[Mist]<INFO>yuno,114,208,0,101,0,</INFO></NAVI>\n\n\t\t\t<TIPBOX>•Página Anterior<INFO>9136</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver Lista de Tips<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[9142] = {
+		Title = "JQ Cambio de Clase a Biolo",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Biolo, la 4ª Clase que evoluciona de Genetic, es un especialista en biotecnología que usa bioenergía vegetal en combate.\n\t\t\tTambién crea diversas soluciones para el combate y demuestra un excelente desempeño como especialista en apoyo de batalla.\n\t\t\t^663399•Base Level 200 o superior^000000\n\t\t\t^663399•Job Level 70 o superior^000000\n\t\t\t^663399•Objetivo: Genetic^000000\n\n\t\t\t<NAVI>[Aldina]<INFO>verus04,157,165,0,101,0,</INFO></NAVI>\n\n\t\t\t<TIPBOX>•Página Anterior<INFO>9136</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver Lista de Tips<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[9143] = {
+		Title = "JQ Cambio de Clase a Cardinal",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Cardinal, la 4ª Clase que evoluciona de Archbishop, empuña libremente el poder sagrado como agente de lo divino.\n\t\t\tAunque es una clase de apoyo especializada en curar y fortalecer aliados con un mayor poder sagrado, también puede exorcizar el mal con magia sagrada o imbuir equipo con fuerza divina.\n\t\t\t^663399•Base Level 200 o superior^000000\n\t\t\t^663399•Job Level 70 o superior^000000\n\t\t\t^663399•Objetivo: Archbishop^000000\n\n\t\t\t<NAVI>[Priest Jergus]<INFO>prt_church,184,101,0,101,0,</INFO></NAVI>\n\n\t\t\t<TIPBOX>•Página Anterior<INFO>9136</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver Lista de Tips<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[9144] = {
+		Title = "JQ Cambio de Clase a Inquisitor",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Inquisitor, la 4ª Clase que evoluciona de Sura, es un ejecutor del juicio divino.\n\t\t\tAl pertenecer a la orden religiosa, los Inquisitors se fortalecen gradualmente mediante la fe y desatan una mayor variedad de ataques.\n\t\t\t^663399•Base Level 200 o superior^000000\n\t\t\t^663399•Job Level 70 o superior^000000\n\t\t\t^663399•Objetivo: Sura^000000\n\n\t\t\t<NAVI>[Prontera Inn]<INFO>prt_in,250,129,0,101,0,</INFO></NAVI>\n\n\t\t\t<TIPBOX>•Página Anterior<INFO>9136</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver Lista de Tips<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[9145] = {
+		Title = "JQ Cambio de Clase a Shadow Cross",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Shadow Cross, la 4ª Clase que evoluciona de Guillotine Cross, destaca por emboscar enemigos mientras oculta su presencia.\n\t\t\tAl usar dagas como arma principal, también puede hacer girar cuchillas a su alrededor para herir a los enemigos que se acercan.\n\t\t\t^663399•Base Level 200 o superior^000000\n\t\t\t^663399•Job Level 70 o superior^000000\n\t\t\t^663399•Objetivo: Guillotine Cross^000000\n\n\t\t\t<NAVI>[Lumin]<INFO>job3_guil01,74,92,0,101,0,</INFO></NAVI>\n\n\t\t\t<TIPBOX>•Página Anterior<INFO>9136</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver Lista de Tips<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[9146] = {
+		Title = "JQ Cambio de Clase a Abyss Chaser",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Abyss Chaser, la 4ª Clase que evoluciona de Shadow Chaser, utiliza el poder del abismo para una gran variedad de ataques.\n\t\t\tPuede usar el poder abisal como magia, concentrarlo en la punta de una daga para maximizar el daño, o cargar puntas de flecha con poder para lanzar ataques encadenados.\n\t\t\t^663399•Base Level 200 o superior^000000\n\t\t\t^663399•Job Level 70 o superior^000000\n\t\t\t^663399•Objetivo: Shadow Chaser^000000\n\n\t\t\t<NAVI>[Vicente]<INFO>s_atelier,122,59,0,101,0,</INFO></NAVI>\n\n\t\t\t<TIPBOX>•Página Anterior<INFO>9136</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver Lista de Tips<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[9147] = {
+		Title = "JQ Cambio de Clase a Wind Hawk",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Wind Hawk, la 4ª Clase que evoluciona de Ranger, es un tirador de élite que utiliza la poderosa fuerza del viento.\n\t\t\tArmado con habilidades que imbuyen flechas con el poder del viento, Wind Hawk también obtiene la capacidad de comunicarse con animales, permitiendo el uso simultáneo de Warg y Falcon.\n\t\t\tTambién es una clase todoterreno capaz de usar trampas que infligen varios estados alterados.\n\t\t\t^663399•Base Level 200 o superior^000000\n\t\t\t^663399•Job Level 70 o superior^000000\n\t\t\t^663399•Objetivo: Ranger^000000\n\n\t\t\t<NAVI>[Payon]<INFO>payon,100,177,0,101,0,</INFO></NAVI>\n\n\t\t\t<TIPBOX>•Página Anterior<INFO>9136</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver Lista de Tips<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[9148] = {
+		Title = "JQ Cambio de Clase a Troubadour",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Troubadour, la 4ª Clase que evoluciona de Minstrel, canta hermosas melodías que inspiran a los aliados y elevan la moral.\n\t\t\tPuede combatir a través del poder de la música, fortalecer aliados o debilitar enemigos.\n\t\t\tEs una clase capaz de cambiar el curso de la batalla mediante el canto.\n\t\t\t^663399•Base Level 200 o superior^000000\n\t\t\t^663399•Job Level 70 o superior^000000\n\t\t\t^663399•Objetivo: Minstrel^000000\n\n\t\t\t<NAVI>[Flyer Part-Timer]<INFO>lighthalzen,186,124,0,101,0,</INFO></NAVI>\n\n\t\t\t<TIPBOX>•Página Anterior<INFO>9136</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver Lista de Tips<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[9149] = {
+		Title = "JQ Cambio de Clase a Trouvere",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Trouvere, la 4ª Clase que evoluciona de Wanderer, canta hermosas melodías que inspiran a los aliados y elevan la moral.\n\t\t\tPuede combatir a través del poder de la música, fortalecer aliados o debilitar enemigos.\n\t\t\tEs una clase capaz de cambiar el curso de la batalla mediante el canto.\n\t\t\t^663399•Base Level 200 o superior^000000\n\t\t\t^663399•Job Level 70 o superior^000000\n\t\t\t^663399•Objetivo: Wanderer^000000\n\n\t\t\t<NAVI>[Golden Apple Chief]<INFO>comodo,142,165,0,101,0,</INFO></NAVI>\n\n\t\t\t<TIPBOX>•Página Anterior<INFO>9136</INFO></TIPBOX>\n\t\t\t<TIPBOX>•Ver Lista de Tips<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[111] = {
+		Title = "Mejora de Grado#mejora de grado,arma,armadura,etel stone,etel dust",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00111",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Algunas armas de Nivel 5 o armaduras de Nivel 2 refinadas a +11 o más pueden intentar una Mejora de Grado.\n\t\tPuedes realizar la mejora y cambiar materiales con los NPC de Mejora de Grado indicados abajo.\n\t\t> <NAVI>[Stratos]<INFO>grademk,34,184,0,100,0,0</INFO></NAVI> : Instalación de Mejora de Grado de Prontera\n\t\t> <NAVI>[Shuribel]<INFO>paramk,34,184,0,100,0,0</INFO></NAVI> : Instalación de Mejora de Grado de Paramarket\n\n\t\tEfectos de la Mejora de Grado:\n\t\tLas armas con Mejora de Grado obtienen bonos adicionales de refinamiento en ATK / MATK según su grado.\n\t\tAlgunos equipos también reciben efectos distintos según el grado.\n\n\t\t<TIPBOX>•Materiales de Mejora de Grado<INFO>112</INFO></TIPBOX>\n\t\t<TIPBOX>•Ver Lista de Tips<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[112] = {
+		Title = "Materiales de Mejora de Grado#mejora de grado,arma,armadura,etel stone,etel dust,combinación",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00112",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Puedes fabricar materiales de Mejora de Grado combinando gemas compradas al Comerciante de Joyas con Etel Stone.\n\n\t\tGrado 1 : <ITEM>[Aguamarina]<INFO>720</INFO></ITEM> + <ITEM>[Etel Stone]<INFO>1000323</INFO></ITEM>\n\t\tGrado 2 : <ITEM>[Topacio]<INFO>728</INFO></ITEM> + <ITEM>[Etel Stone]<INFO>1000323</INFO></ITEM>\n\t\tGrado 3 : <ITEM>[Amatista]<INFO>719</INFO></ITEM> + <ITEM>[Etel Stone]<INFO>1000323</INFO></ITEM>\n\t\tGrado 4 : <ITEM>[Ámbar]<INFO>1000321</INFO></ITEM> + <ITEM>[Etel Stone]<INFO>1000323</INFO></ITEM>\n\n\t\t<TIPBOX>•Mineral de Etel<INFO>114</INFO></TIPBOX>\n\t\t<TIPBOX>•Ver Lista de Tips<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[113] = {
+		Title = "Nivel de Arma/Armadura#nivel de arma,nivel de armadura",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00113",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Puedes intercambiar minerales de refinamiento con NPC de herrerías en cada región.\n\t\t><NAVI>[Xenophon]<INFO>alberta_in,21,63,0,100,0,0</INFO></NAVI>\n\t\t><NAVI>[Dietrich]<INFO>prt_in,63,69,0,100,0,0</INFO></NAVI>\n\t\t><NAVI>[Abdullah]<INFO>morocc_in,72,32,0,100,0,0</INFO></NAVI>\n\t\t><NAVI>[Hakim]<INFO>payon,137,178,0,100,0,0</INFO></NAVI>\n\t\t><NAVI>[Delight]<INFO>yuno_in01,164,27,0,100,0,0</INFO></NAVI>\n\t\t><NAVI>[Matistein]<INFO>ein_in01,18,82,0,100,0,0</INFO></NAVI>\n\t\t><NAVI>[Pruil]<INFO>lhz_in02,281,24,0,100,0,0</INFO></NAVI>\n\n\t\t<ITEM>[Etherdeocon]<INFO>1000332</INFO></ITEM>\n\t\t\t: 1 Oridecon + 1 Etel Dust\n\t\t<ITEM>[Ethernium]<INFO>1000331</INFO></ITEM>\n\t\t\t: 1 Elunium + 1 Etel Dust\n\t\t<ITEM>[Etherdeocon Enriquecido]<INFO>1000334</INFO></ITEM>\n\t\t\t: 1 Oridecon Enriquecido + 2 Etel Dust\n\t\t<ITEM>[Ethernium Enriquecido]<INFO>1000333</INFO></ITEM>\n\t\t\t: 1 Elunium Enriquecido + 2 Etel Dust\n\t\t<ITEM>[HD Etherdeocon]<INFO>1000336</INFO></ITEM>\n\t\t\t: 1 Oridecon HD (incluido Limitado) + 3 Etel Dust\n\t\t<ITEM>[HD Ethernium]<INFO>1000335</INFO></ITEM>\n\t\t\t: 1 Elunium HD (incluido Limitado) + 3 Etel Dust\n\t\t<ITEM>[Etel Bradium]<INFO>1000368</INFO></ITEM>\n\t\t\t: 1 Bradium + 3 Etel Dust\n\t\t<ITEM>[Etel Carnium]<INFO>1000370</INFO></ITEM>\n\t\t\t: 1 Carnium + 3 Etel Dust\n\t\t<ITEM>[Etel Bradium de Alta Densidad]<INFO>1000369</INFO></ITEM>\n\t\t\t: 1 Bradium de Alta Densidad (incluido Limitado) + 3 Etel Dust\n\t\t<ITEM>[Etel Carnium de Alta Densidad]<INFO>1000371</INFO></ITEM>\n\t\t\t: 1 Carnium de Alta Densidad (incluido Limitado) + 3 Etel Dust\n\n\t\t<TIPBOX>•Mineral de Etel<INFO>114</INFO></TIPBOX>\n\t\t<TIPBOX>•Ver Lista de Tips<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[114] = {
+		Title = "Mineral de Etel#etel dust,etel stone,grado,refino",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00114",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Etel es un mineral que no puede usarse directamente, pero se utiliza al combinarlo con varias gemas o minerales.\n\t\t<ITEM>[Etel Dust]<INFO>1000322</INFO></ITEM>\n\t\t<ITEM>[Etel Stone]<INFO>1000323</INFO></ITEM>\n\n\t\tLos materiales principales, Etel Dust y Etel Stone, pueden obtenerse en Salón de los Muertos, Ópera en Ruinas, Rudus Piso 4 - Área de Desecho de Experimentos, Laboratorio Abandonado de Amicitia Piso 1 Laboratorio Central y Piso 2 Sala de Cultivo Intensivo de Homúnculos.\n\n\t\t<TIPBOX>•Nivel de Arma/Armadura<INFO>113</INFO></TIPBOX>\n\t\t<TIPBOX>•Sistema de Mejora de Grado<INFO>111</INFO></TIPBOX>\n\t\t<TIPBOX>•Ver Lista de Tips<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[64] = {
+		Title = "Inventario: Objetos#bolsa",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00064",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Los objetos obtenidos se pueden guardar en el inventario. Puedes ver el inventario presionando ALT+E.\n\t\t\t\tPuedes llevar hasta 100 objetos y dentro del límite de Weight (peso).\n\t\t\t\t<TIPBOX>>Ítems<INFO>17</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>>Personaje: Weight (peso)<INFO>13</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>>Inventario: Expansión<INFO>65</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>>Inventario: Mover pestaña personal<INFO>195</INFO></TIPBOX>\n\t\t\t\t\\n<TIPBOX>>Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 		}
 	}
 }

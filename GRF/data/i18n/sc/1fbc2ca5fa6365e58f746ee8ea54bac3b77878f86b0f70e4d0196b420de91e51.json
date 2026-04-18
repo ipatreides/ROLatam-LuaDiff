@@ -1,0 +1,314 @@
+{
+    "4NGCDA": {
+        "ko": "에인하르",
+        "en": "Einhar",
+        "pt": "Einhar",
+        "es": "Einhar"
+    },
+    "4dGCDA": {
+        "ko": "[에인하르]\n지하결계에 무사히 들어오셨군요.\n이제 결계를 구성하고 있는 봉인석에 당신의 존재를 인식시키셔야 합니다.\n봉인석은 이 결계의 11시, 1시, 4시, 8시에 각각 위치해 있습니다.",
+        "en": "[Einhar]\nYou've safely entered the underground ward.\nNow, you must earn the recognition of the sealstones forming this ward.\nThey're located on the northwest, northeast, southeast, and southwest sides of the ward.",
+        "pt": "[Einhar]\nVocê entrou no Barreira Subterrânea sem problemas.\nAgora você precisa fazer com que as Pedras de Selamento que compõem a barreira reconheçam a sua presença.\nAs Pedras de Selamento estão localizadas nas posições 11h, 1h, 4h e 8h desta barreira.",
+        "es": "[Einhar]\nHas entrado sin problemas en el barrier subterráneo.\nAhora debes hacer que las piedras de sellado que forman el barrier reconozcan tu presencia.\nLas piedras de sellado están ubicadas en las posiciones de las 11, la 1, las 4 y las 8 de este barrier."
+    },
+    "4tGCDA": {
+        "ko": "[에인하르]\n11시경에 존재하는 봉인이 니드, 1시가 에흐, 4시가 시겔, 8시가 우윈입니다.\n그림으로 나타내면 아래와 같습니다.\n니드 - 에흐\n |  결계  |\n우윈 - 시겔",
+        "en": "[Einhar]\nThe seals present at 11 o'clock are Nid, 1 o'clock is Eh, 4 o'clock is Siegel, and 8 o'clock is Uwin.\nIllustrated, it looks like this:\nNid - Eh\n |  Barrier  |\nUwin - Siegel",
+        "pt": "[Einhar]\nO selo que existe por volta das 11 horas é o Nid, o das 13 horas é o Eh, o das 16 horas é o Siegel e o das 20 horas é o Uwin.\nSe representarmos em um desenho, fica assim:\nNid - Eh\n |  Barreira  |\nUwin - Siegel",
+        "es": "[Einhar]\nEl sello que se encuentra en la posición de las 11 es Nid, el de la 1 es Eh, el de las 4 es Siegel y el de las 8 es Uwin.\nSi lo representamos en un diagrama, quedaría así:\nNid - Eh\n |  Barrera  |\nUwin - Siegel"
+    },
+    "49GCDA": {
+        "ko": "[에인하르]\n순서대로 봉인석에 존재를 인식시켜야만 봉인 안을 드나들 수 있습니다.\n순서는 일정 시간마다 바뀝니다.",
+        "en": "[Einhar]\nYou must earn their recognition in a specific order to access the ward freely.\nTheir order changes at regular intervals.",
+        "pt": "[Einhar]\nSó dá pra entrar e sair do selo se você for reconhecido pelas pedras de selo na ordem certa.\nA ordem muda a cada certo tempo.",
+        "es": "[Einahar]\nSolo podrás entrar y salir del sello si haces que las piedras de sellado te reconozcan en el orden correcto.\nEl orden cambia cada cierto tiempo."
+    },
+    "5NGCDA": {
+        "ko": "현재 순서는 니드 - 에흐 - 시겔 - 우윈입니다.",
+        "en": "Their current order is Nied, Is, Siegel, and Wyn.",
+        "pt": "A ordem atual é Nid - Eh - Shigel - Uwin.",
+        "es": "El orden actual es Nid - Eh - Siegel - Uwin."
+    },
+    "5dGCDA": {
+        "ko": "현재 순서는 에흐 - 우윈 - 니드 - 시겔입니다.",
+        "en": "Their current order is Is, Wyn, Nied, and Siegel.",
+        "pt": "A ordem atual é Eh - Uwin - Need - Siegel.",
+        "es": "El orden actual es Eh - Uwin - Need - Siegel."
+    },
+    "5tGCDA": {
+        "ko": "현재 순서는 시겔 - 우윈 - 니드 - 에흐입니다.",
+        "en": "Their current order is Siegel, Wyn, Nied, and Is.",
+        "pt": "A ordem atual é Siegel - Uwin - Need - Eh.",
+        "es": "El orden actual es Siegel - Uwin - Need - Eh."
+    },
+    "59GCDA": {
+        "ko": "현재 순서는 우윈 - 시겔 - 에흐 - 니드입니다.",
+        "en": "Their current order is Wyn, Siegel, Is, and Nied.",
+        "pt": "A ordem atual é Uwin - Siegel - Eh - Nid.",
+        "es": "El orden actual es Uwin - Siegel - Eh - Nid."
+    },
+    "6NGCDA": {
+        "ko": "[에인하르]\n봉인 결계에 당신의 존재를 인식시켰습니다.\n이제 결계 안으로 들어가 봉인된 괴물과 싸울 수 있습니다.",
+        "en": "[Einhar]\nYou've earned the recognition of the ward.\nNow, you can enter it and fight the monster sealed inside it.",
+        "pt": "[Einhar]\nA barreira do selo reconheceu a tua presença.\nAgora podes entrar na barreira e lutar contra o monstro selado.",
+        "es": "[Einhar]\nEl sello ha reconocido tu presencia.\nAhora puedes entrar en el sello y luchar contra el monstruo sellado."
+    },
+    "6dGCDA": {
+        "ko": "바로 들어가겠습니다.",
+        "en": "I'll go in right away.",
+        "pt": "Vou entrar agora mesmo.",
+        "es": "Voy a entrar ya."
+    },
+    "6tGCDA": {
+        "ko": "준비가 필요합니다.",
+        "en": "I need to get ready.",
+        "pt": "Precisamos nos preparar.",
+        "es": "Necesito prepararme."
+    },
+    "69GCDA": {
+        "ko": "[에인하르]\n결계 안으로 이동하도록 하겠습니다.\n괴물이 바로 덤벼올 테니 단단히 준비해주십시오.",
+        "en": "[Einhar]\nYou'll enter the ward now.\nThe monster will attack you right away. Please be prepared.",
+        "pt": "[Einhar]\nVou te levar para dentro da barreira.\nO monstro vai atacar imediatamente, então se prepara bem.",
+        "es": "[Einhar]\nTe llevaré al interior del barrier.\nEl monstruo te atacará de inmediato, así que prepárate bien."
+    },
+    "7NGCDA": {
+        "ko": "[에인하르]\n예. 준비를 마친 뒤 다시 말씀해 주십시오. 결계 안으로 안내드리겠습니다.",
+        "en": "[Einhar]\nYes. Let me know when you're ready. I'll guide you into the ward.",
+        "pt": "[Einhar]\nSim. Avise-me quando estiver pronto. Vou te guiar para dentro da barreira.",
+        "es": "[Einhar]\nSí. Cuando estés listo, avísame. Te guiaré al interior del círculo."
+    },
+    "7dGCDA": {
+        "ko": "[에인하르]\n봉인은 아무 반응도 없습니다.",
+        "en": "[Einhar]\nThe seal is not responding.",
+        "pt": "[Einhar]\nO selo não está reagindo.",
+        "es": "[Einhar]\nEl sello no muestra ninguna reacción."
+    },
+    "7tGCDA": {
+        "ko": "봉인 니드",
+        "en": "Seal Need",
+        "pt": "Selamento Nid",
+        "es": "Sello Need"
+    },
+    "79GCDA": {
+        "ko": "[봉인 니드]\n낮게 우웅 하는 소리가 들리며 봉인이 짧게 반짝였다. 인식이 완료된 모양이다. 다음 순서로 향하자.",
+        "en": "[Seal Nied]\nA low buzzing sound echoed as the sealstone flashed briefly. It must have recognized me. I should move on.",
+        "pt": "[Selamento Nid]\nUm zumbido baixo se ouviu e o selamento brilhou brevemente. Parece que o reconhecimento foi concluído. Vamos para a próxima etapa.",
+        "es": "[Nid del Sello]\nSe escuchó un zumbido grave y el sello brilló brevemente. Parece que el reconocimiento se completó. Pasemos al siguiente paso."
+    },
+    "8NGCDA": {
+        "ko": "[봉인 니드]\n봉인석에서는 아무 반응도 없다. 이 순서가 아닌 모양이다…….",
+        "en": "[Seal Nied]\nThe sealstone isn't responding. Maybe I forgot the order.",
+        "pt": "[Selamento Nid]\nA pedra de selamento não está reagindo. Parece que não é esta a etapa...",
+        "es": "[Sello Neid]\nEl sello no da ninguna señal. Parece que no es este el paso correcto..."
+    },
+    "8dGCDA": {
+        "ko": "[봉인 니드]\n낮게 우웅 하는 소리가 들리며 봉인이 짧게 반짝였다. 인식이 완료된 모양이다.",
+        "en": "[Seal Nied]\nA low humming sound was heard, and the seal flashed briefly. It must have recognized me.",
+        "pt": "[Selamento Nid]\nOuviu-se um zumbido baixo e o selamento brilhou brevemente. Parece que o reconhecimento foi concluído.",
+        "es": "[Sello Neid]\nSe escuchó un zumbido bajo y el sello brilló brevemente. Parece que se completó el reconocimiento."
+    },
+    "8tGCDA": {
+        "ko": "[봉인 니드]\n봉인 결계에 당신의 존재를 인식시켰습니다.\n이제 결계 안으로 들어가 봉인된 괴물과 싸울 수 있습니다.",
+        "en": "[Seal Nied]\nYou've earned the recognition of the ward.\nNow, you can enter it and fight the monster sealed inside it.",
+        "pt": "[Need de Selamento]\nA barreira de selamento reconheceu a tua presença.\nAgora podes entrar na barreira e lutar contra o monstro selado.",
+        "es": "[Sello Need]\nLa barrera del sello ha detectado tu presencia.\nAhora puedes entrar en la barrera y luchar contra el monstruo sellado."
+    },
+    "89GCDA": {
+        "ko": "[봉인 니드]\n결계 안으로 이동합니다.",
+        "en": "[Seal Nied]\nYou're moving into the ward.",
+        "pt": "[Nid do Selo]\nEstou me movendo para dentro da barreira.",
+        "es": "[Nido Sellado]\nMe voy a mover al interior del círculo."
+    },
+    "9NGCDA": {
+        "ko": "[봉인 니드]\n준비를 마친 뒤 다시 접촉해 주십시오.",
+        "en": "[Seal Nied]\nPlease try again when you're ready.",
+        "pt": "[Nid do Selo]\nAssim que estiver pronto, entre em contato novamente.",
+        "es": "[Seal Need]\nPrepárate y vuelve a contactarme."
+    },
+    "9dGCDA": {
+        "ko": "[봉인 니드]\n봉인은 아무 반응도 없다.",
+        "en": "[Seal Nied]\nThe seal is not responding.",
+        "pt": "[Nid do Selo]\nO selo não dá nenhuma reação.",
+        "es": "[Sello Need]\nEl sello no muestra ninguna reacción."
+    },
+    "9tGCDA": {
+        "ko": "봉인 에흐",
+        "en": "Seal Eh",
+        "pt": "Selamento Eh",
+        "es": "Sello Eh"
+    },
+    "99GCDA": {
+        "ko": "[봉인 에흐]\n낮게 우웅 하는 소리가 들리며 봉인이 짧게 반짝였다. 인식이 완료된 모양이다. 다음 순서로 향하자.",
+        "en": "[Seal Is]\nA low humming sound echoed as the seal flashed briefly. It must have recognized me. I should move on.",
+        "pt": "[Selamento Eh]\nUm zumbido baixo foi ouvido e o selamento brilhou brevemente. Parece que o reconhecimento foi concluído. Vamos para a próxima etapa.",
+        "es": "[Sello Eh]\nSe escuchó un zumbido grave y el sello brilló brevemente. Parece que el reconocimiento se completó. Pasemos al siguiente paso."
+    },
+    "+NGCDA": {
+        "ko": "[봉인 에흐]\n봉인석에서는 아무 반응도 없다. 이 순서가 아닌 모양이다…….",
+        "en": "[Seal Eh]\nThe sealstone shows no reaction. This must not be the correct sequence…….",
+        "pt": "[Selamento Eh]\nA pedra de selamento não dá sinal. Parece que não é essa a etapa...",
+        "es": "[Sello Eh]\nEl sello no muestra ninguna reacción. Parece que no es este el paso correcto..."
+    },
+    "+dGCDA": {
+        "ko": "[봉인 에흐]\n낮게 우웅 하는 소리가 들리며 봉인이 짧게 반짝였다. 인식이 완료된 모양이다.",
+        "en": "[Seal Is]\nA low humming sound was heard, and the seal flashed briefly. It must have recognized me.",
+        "pt": "[Selamento Eh]\nOuviu-se um zumbido baixo e o selamento brilhou brevemente. Parece que o reconhecimento foi concluído.",
+        "es": "[Sello Eh]\nSe oye un zumbido bajo y el sello brilla brevemente. Parece que el reconocimiento se ha completado."
+    },
+    "+tGCDA": {
+        "ko": "[봉인 에흐]\n봉인 결계에 당신의 존재를 인식시켰습니다.\n이제 결계 안으로 들어가 봉인된 괴물과 싸울 수 있습니다.",
+        "en": "[Seal Eh]\nYou've earned the recognition of the ward.\nNow, you can enter it and fight the monster sealed inside it.",
+        "pt": "[Selo Eh]\nA barreira do selo reconheceu a tua presença.\nAgora podes entrar na barreira e lutar contra o monstro selado.",
+        "es": "[Sello Eh]\nEl sello ha reconocido tu presencia.\nAhora puedes entrar en el sello y luchar contra el monstruo sellado."
+    },
+    "+9GCDA": {
+        "ko": "[봉인 에흐]\n결계 안으로 이동합니다.",
+        "en": "[Seal Eh]\nYou're moving into the ward.",
+        "pt": "[Selamento Eh]\nEstou me movendo para dentro da barreira.",
+        "es": "[Sello Eh]\nMe voy a mover al interior del círculo."
+    },
+    "/NGCDA": {
+        "ko": "[봉인 에흐]\n준비를 마친 뒤 다시 접촉해 주십시오.",
+        "en": "[Seal Is]\nPlease try again when you're ready.",
+        "pt": "[Selamento Eh]\nAssim que estiver pronto, entre em contato novamente.",
+        "es": "[Sello Eh]\nPrepárate y vuelve a contactarme."
+    },
+    "/dGCDA": {
+        "ko": "[봉인 에흐]\n봉인은 아무 반응도 없다.",
+        "en": "[Seal Is]\nThe seal is not responding.",
+        "pt": "[Selamento Eh]\nO selamento não dá nenhuma resposta.",
+        "es": "[Sello Eh]\nEl sello no muestra ninguna reacción."
+    },
+    "/tGCDA": {
+        "ko": "봉인 시겔",
+        "en": "Seal Siegel",
+        "pt": "Siegel do Selo",
+        "es": "Sello Siegel"
+    },
+    "/9GCDA": {
+        "ko": "[봉인 시겔]\n낮게 우웅 하는 소리가 들리며 봉인이 짧게 반짝였다. 인식이 완료된 모양이다. 다음 순서로 향하자.",
+        "en": "[Seal Siegel]\nA low humming sound echoed as the seal flashed briefly. Recognition must be complete. Let's proceed to the next step.",
+        "pt": "[Siegel do Selo]\nUm zumbido baixo foi ouvido e o selo brilhou brevemente. Parece que o reconhecimento foi concluído. Vamos para a próxima etapa.",
+        "es": "[Siegel del Sello]\nSe escuchó un zumbido grave y el sello brilló brevemente. Parece que el reconocimiento se completó. Pasemos al siguiente paso."
+    },
+    "ANKCDA": {
+        "ko": "[봉인 시겔]\n봉인석에서는 아무 반응도 없다. 이 순서가 아닌 모양이다…….",
+        "en": "[Seal Siegel]\nThe sealstone shows no reaction. This must not be the correct sequence…….",
+        "pt": "[Siegel do Selo]\nA pedra do selo não dá sinal de vida. Parece que não é essa a etapa...",
+        "es": "[Siegel del Sello]\nLa piedra del sello no muestra ninguna reacción. Parece que no es este el paso correcto..."
+    },
+    "AdKCDA": {
+        "ko": "[봉인 시겔]\n낮게 우웅 하는 소리가 들리며 봉인이 짧게 반짝였다. 인식이 완료된 모양이다.",
+        "en": "[Seal Siegel]\nA low humming sound was heard, and the seal flashed briefly. It must have recognized me.",
+        "pt": "[Selo Siegel]\nOuviu-se um zumbido baixo e o selo brilhou brevemente. Parece que o reconhecimento foi concluído.",
+        "es": "[Sello Siegel]\nSe oye un zumbido bajo y el sello brilla brevemente. Parece que el reconocimiento se ha completado."
+    },
+    "AtKCDA": {
+        "ko": "[봉인 시겔]\n봉인 결계에 당신의 존재를 인식시켰습니다.\n이제 결계 안으로 들어가 봉인된 괴물과 싸울 수 있습니다.",
+        "en": "[Seal Siegel]\nYou've earned the recognition of the ward.\nNow, you can enter it and fight the monster sealed inside it.",
+        "pt": "[Selo de Selamento]\nA barreira de selamento reconheceu a tua presença.\nAgora podes entrar na barreira e lutar contra o monstro selado.",
+        "es": "[Sello de Sellado]\nHas sido reconocido por el barrier de sellado.\nAhora puedes entrar en el barrier y luchar contra el monstruo sellado."
+    },
+    "A9KCDA": {
+        "ko": "[봉인 시겔]\n결계 안으로 이동합니다.",
+        "en": "[봉인 시겔]\nEnter the ward.",
+        "pt": "[Siegel de Selamento]\nEstou me movendo para dentro da barreira.",
+        "es": "[Siegel de sellado]\nTe trasladaré al interior del sello."
+    },
+    "BNKCDA": {
+        "ko": "[봉인 시겔]\n준비를 마친 뒤 다시 접촉해 주십시오.",
+        "en": "[Seal Siegel]\nPlease try again when you're ready.",
+        "pt": "[Siegel de Selamento]\nPrepare-se e entre em contato novamente.",
+        "es": "[Sello de Sellado]\nPrepárate y vuelve a contactarme."
+    },
+    "BdKCDA": {
+        "ko": "[봉인 시겔]\n봉인은 아무 반응도 없다.",
+        "en": "[Seal Siegel]\nThe seal is not responding.",
+        "pt": "[Siegel do Selo]\nO selo não está reagindo.",
+        "es": "[Siegel del Sello]\nEl sello no muestra ninguna reacción."
+    },
+    "BtKCDA": {
+        "ko": "봉인 우윈",
+        "en": "Seal Wyn",
+        "pt": "Selo Uwin",
+        "es": "Sello Uwin"
+    },
+    "B9KCDA": {
+        "ko": "[봉인 우윈]\n낮게 우웅 하는 소리가 들리며 봉인이 짧게 반짝였다. 인식이 완료된 모양이다.",
+        "en": "[Seal Wyn]\nA low humming sound echoed as the sealstone flashed briefly. It must have recognized me.",
+        "pt": "[Selamento Uwin]\nUm zumbido baixo foi ouvido e o selamento brilhou brevemente. Parece que o reconhecimento foi concluído.",
+        "es": "[Sello Uwin]\nSe escuchó un zumbido grave y el sello brilló brevemente. Parece que el reconocimiento se completó."
+    },
+    "CNKCDA": {
+        "ko": "[봉인 우윈]\n봉인 결계에 당신의 존재를 인식시켰습니다.\n이제 결계 안으로 들어가 봉인된 괴물과 싸울 수 있습니다.",
+        "en": "[Seal Wyn]\nYou've earned the recognition of the ward.\nNow, you can enter it and fight the monster sealed inside it.",
+        "pt": "[Selamento Uwin]\nSua presença foi reconhecida pela barreira de selamento.\nAgora você pode entrar na barreira e lutar contra o monstro selado.",
+        "es": "[Sello Uwin]\nHe hecho que el sello reconozca tu presencia.\nAhora puedes entrar en el perímetro y luchar contra el monstruo sellado."
+    },
+    "CdKCDA": {
+        "ko": "[봉인 우윈]\n결계 안으로 이동합니다.",
+        "en": "[Seal Wyn]\nYou're moving into the ward.",
+        "pt": "[Selamento Uwin]\nEstou me movendo para dentro da barreira.",
+        "es": "[Sello Uwin]\nTe trasladaré al interior del círculo mágico."
+    },
+    "CtKCDA": {
+        "ko": "[봉인 우윈]\n준비를 마친 뒤 다시 접촉해 주십시오.",
+        "en": "[Seal Wyn]\nPlease try again when you're ready.",
+        "pt": "[Selo Uwin]\nAssim que estiver pronto, entra em contato novamente.",
+        "es": "[Sello Uwin]\nPrepárate y vuelve a contactarme."
+    },
+    "C9KCDA": {
+        "ko": "[봉인 우윈]\n봉인석에서는 아무 반응도 없다. 이 순서가 아닌 모양이다…….",
+        "en": "[Seal Wyn]\nThis sealstone isn't responding. Maybe I forgot the order.",
+        "pt": "[Selamento Uwin]\nNão há nenhuma reação na pedra de selamento. Parece que não é essa a ordem...",
+        "es": "[Sello Uwin]\nNo hay ninguna reacción en la piedra del sello. Parece que no es este el orden..."
+    },
+    "DNKCDA": {
+        "ko": "[봉인 우윈]\n낮게 우웅 하는 소리가 들리며 봉인이 짧게 반짝였다. 인식이 완료된 모양이다. 다음 순서로 향하자.",
+        "en": "[Seal Wyn]\nA low humming sound echoed as the seal flashed briefly. It must have recognized me. I should move on.",
+        "pt": "[Uwin Selado]\nUm zumbido baixo soou e o selo brilhou brevemente. Parece que o reconhecimento foi concluído. Vamos para a próxima etapa.",
+        "es": "[Sello Uwin]\nSe oye un zumbido grave y el sello brilla brevemente. Parece que se ha completado el reconocimiento. Pasemos al siguiente paso."
+    },
+    "DdKCDA": {
+        "ko": "[봉인 우윈]\n봉인은 아무 반응도 없다.",
+        "en": "[Seal Wyn]\nThe seal shows no reaction.",
+        "pt": "[Selamento Uwin]\nO selamento não dá sinal algum.",
+        "es": "[Sello Uwin]\nEl sello no da ninguna señal."
+    },
+    "DtKCDA": {
+        "ko": "흉악한 괴물",
+        "en": "Heinous Monster",
+        "pt": "Monstro terrível",
+        "es": "Monstruo atroz"
+    },
+    "D9KCDA": {
+        "ko": "[에인하르]\n무사히 할 일을 마치셨군요.\n결계 바깥으로 돌아가시겠습니까?",
+        "en": "[Einhar]\nYou've completed your task safely.\nWould you like to leave the ward?",
+        "pt": "[Einhar]\nVocê concluiu sua tarefa com sucesso.\nVai voltar para fora do campo de força?",
+        "es": "[Einhar]\nYa terminaste tu tarea sin problemas.\n¿Vas a regresar al exterior del barrier?"
+    },
+    "ENKCDA": {
+        "ko": "돌아간다.",
+        "en": "I'm leaving.",
+        "pt": "Vou voltar.",
+        "es": "Me voy."
+    },
+    "EdKCDA": {
+        "ko": "돌아가지 않는다.",
+        "en": "I won't go back.",
+        "pt": "Não vou voltar.",
+        "es": "No voy a regresar."
+    },
+    "EtKCDA": {
+        "ko": "[에인하르]\n바깥으로 안내하겠습니다.",
+        "en": "[Einhar]\nI will guide you to the outside.",
+        "pt": "[Einhar]\nVou te acompanhar até lá fora.",
+        "es": "[Einhar]\nTe acompaño afuera."
+    },
+    "E9KCDA": {
+        "ko": "[에인하르]\n아직 남은 일이 있다면 마치도록 하십시오.",
+        "en": "[Einhar]\nIf there is anything left to do, please finish it.",
+        "pt": "[Einhar]\nSe ainda houver algo a fazer, conclui-o.",
+        "es": "[Einhar]\nSi te queda algo por hacer, termina de hacerlo."
+    }
+}

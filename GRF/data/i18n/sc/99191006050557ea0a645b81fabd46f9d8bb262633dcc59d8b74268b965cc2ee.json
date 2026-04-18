@@ -1,0 +1,896 @@
+{
+    "AD5+DA": {
+        "ko": "명예로운 기사",
+        "en": "Honorable Knight",
+        "pt": "Cavaleiro Honorável",
+        "es": "Caballero de Honor"
+    },
+    "AT5+DA": {
+        "ko": "[명예로운 기사]\n이 곳은 왕의 기사들이 머물고 있는 기사실입니다.",
+        "en": "[Honorable Knight]\nThis is the Knight's Office, where the King's Knights stay.",
+        "pt": "[Cavaleiro Honorável]\nEste é o quarto dos cavaleiros do rei.",
+        "es": "[Caballero honorable]\nEste es el salón de los caballeros donde se alojan los caballeros del rey."
+    },
+    "Aj5+DA": {
+        "ko": "[명예로운 기사]\n우리는 왕을 지키기 위한 방패, 매우 명예로운 일을 하고 있죠.",
+        "en": "[Honorable Knight]\nWe are the shield that protects the king. We are very proud of what we do.",
+        "pt": "[Cavaleiro Honorável]\nSomos o escudo que protege o rei, estamos fazendo um trabalho muito honroso.",
+        "es": "[Caballero de honor]\nSomos el escudo que protege al rey, hacemos un trabajo muy honorable."
+    },
+    "Az5+DA": {
+        "ko": "[명예로운 기사]\n부디 기사실 안에서는 정숙해주시고 예를 갖춰 주시길 바랍니다.",
+        "en": "[Honorable Knight]\nWe kindly ask that you maintain decorum and observe proper etiquette within the knight's quarters.",
+        "pt": "[Cavaleiro Honorável]\nPor favor, mantém-te calado e respeita as regras de etiqueta dentro da sala dos cavaleiros.",
+        "es": "[Caballero de honor]\nTe pedimos que mantengas el silencio y te comportes con respeto dentro de la sala de los caballeros."
+    },
+    "BD5+DA": {
+        "ko": "충성스러운 기사",
+        "en": "Faithful Knight",
+        "pt": "Cavaleiro Leal",
+        "es": "Caballero leal"
+    },
+    "BT5+DA": {
+        "ko": "[충성스러운 기사]\n왕을 지키기 위해서는 단순히 전투력만 연마해서는 안된다.",
+        "en": "[Faithful Knight]\nTo protect the king, one cannot merely hone their combat prowess.",
+        "pt": "[Cavaleiro Leal]\nPara proteger o rei, não basta apenas aprimorar a capacidade de combate.",
+        "es": "[Caballero leal]\nPara proteger al rey, no basta con solo perfeccionar la destreza en el combate."
+    },
+    "Bj5+DA": {
+        "ko": "[충성스러운 기사]\n왕의 명예를 위해 우리가 존재하는 것이며 그것이 실추되지 않도록 하는 것이 우리의 주 임무다.",
+        "en": "[Faithful Knight]\nWe exist for his honor. It's our duty to protect it at all costs.",
+        "pt": "[Cavaleiro Leal]\nNós existimos para defender a honra do rei, e nossa principal missão é garantir que ela não seja manchada.",
+        "es": "[Caballero leal]\nExistimos para defender el honor del rey, y nuestra principal misión es evitar que se vea mancillado."
+    },
+    "Bz5+DA": {
+        "ko": "[충성스러운 기사]\n그렇기에 가장 중요한 것은 왕에 대한 충성심이다.",
+        "en": "[Faithful Knight]\nTherefore, loyalty to the king is paramount.",
+        "pt": "[Cavaleiro Leal]\nPor isso, o mais importante é a lealdade ao rei.",
+        "es": "[Caballero leal]\nPor eso, lo más importante es la lealtad al rey."
+    },
+    "CD5+DA": {
+        "ko": "[충성스러운 기사]\n정신의 힘은 곧 육체의 힘.",
+        "en": "[충성스러운 기사]\nThe strength of the spirit is the strength of the body.",
+        "pt": "[Cavaleiro Leal]\nA força da mente é a força do corpo.",
+        "es": "[Caballero leal]\nLa fuerza del espíritu es la fuerza del cuerpo."
+    },
+    "CT5+DA": {
+        "ko": "[충성스러운 기사]\n우리들은 언제라도 왕의 명을 받들 준비가 되어 있다.",
+        "en": "[Faithful Knight]\nWe are always ready to obey the king's command.",
+        "pt": "[Cavaleiro Leal]\nEstamos sempre prontos para cumprir as ordens do rei.",
+        "es": "[Caballero leal]\nEstamos siempre listos para cumplir las órdenes del rey."
+    },
+    "Cj5+DA": {
+        "ko": "왕의 기사",
+        "en": "King's Knight",
+        "pt": "Cavaleiro do Rei",
+        "es": "Caballero del Rey"
+    },
+    "Cz5+DA": {
+        "ko": "시험의 대련장",
+        "en": "Tourney Hall of Trials",
+        "pt": "Arena de Treinamento",
+        "es": "Campo de pruebas"
+    },
+    "DD5+DA": {
+        "ko": "[?????]\n얘, 넌 거기서 비비지 말고 나 좀 보자",
+        "en": "Hey, stop messing around over there and look at me.",
+        "pt": "[?????]\nEi, não fique aí se esfregando, olha pra mim",
+        "es": "[?????]\nOye, no te quedes ahí frotándote, ven a verme"
+    },
+    "DT5+DA": {
+        "ko": "^FF0000원활한 진행을 위해 가방 내의 짐을 조금 덜어내주시길 바랍니다.^000000",
+        "en": "^FF0000To ensure a smooth process, please remove some items from your bag.^000000",
+        "pt": "^FF0000Para que tudo corra bem, por favor, tira um pouco da bagagem da tua mochila.^000000",
+        "es": "^FF0000Para que todo vaya bien, te pediría que sacaras un poco de equipaje de tu mochila.^000000"
+    },
+    "Dj5+DA": {
+        "ko": "[왕의 기사]\n최후의 대련에서 승리한 자가 바로 당신이로군.",
+        "en": "[King's Knight]\nYou are the victor of the final duel.",
+        "pt": "[Cavaleiro do Rei]\nEntão foste tu quem venceu no combate final.",
+        "es": "[Caballero del Rey]\nAsí que fuiste tú quien ganó el combate final."
+    },
+    "Dz5+DA": {
+        "ko": "[왕의 기사]\n임페리얼 가드가 될 조건을 만족하였는데 아직 전직을 하지 않았군.",
+        "en": "[King's Knight]\nYou meet the requirements to become an Imperial Guard, yet you haven't changed jobs yet.",
+        "pt": "[Cavaleiro do Rei]\nVocê cumpriu os requisitos para se tornar um Guarda Imperial, mas ainda não mudou de profissão.",
+        "es": "[Caballero del Rey]\nCumples con los requisitos para convertirte en Guardia Imperial, pero aún no has cambiado de profesión."
+    },
+    "ED5+DA": {
+        "ko": "[왕의 기사]\n지금 임페리얼 가드로 전직하겠는가?",
+        "en": "[King's Knight]\nShall you transfer to the Imperial Guard now?",
+        "pt": "[Cavaleiro do Rei]\nQueres mudar agora para a Guarda Imperial?",
+        "es": "[Caballero del Rey]\n¿Quieres cambiar ahora a la Guardia Imperial?"
+    },
+    "ET5+DA": {
+        "ko": "전직한다.",
+        "en": "I'll change jobs.",
+        "pt": "Vou mudar de classe.",
+        "es": "Cambio de profesión."
+    },
+    "Ej5+DA": {
+        "ko": "전직하지 않는다.",
+        "en": "Not changing jobs.",
+        "pt": "Não vou mudar de classe.",
+        "es": "No cambio de profesión."
+    },
+    "Ez5+DA": {
+        "ko": "[왕의 기사]\n이제 당신은 임페리얼 가드가 되었다.",
+        "en": "[King's Knight]\nYou have now become an Imperial Guard.",
+        "pt": "[Cavaleiro do Rei]\nAgora você se tornou um Guarda Imperial.",
+        "es": "[Caballero del Rey]\nAhora te has convertido en un guardia imperial."
+    },
+    "FD5+DA": {
+        "ko": "[왕의 기사]\n칭호에 걸맞는 기사가 되기를 바란다.",
+        "en": "[King's Knight]\nMay you become a knight worthy of the title.",
+        "pt": "[Cavaleiro do Rei]\nEspero que se torne um cavaleiro digno desse título.",
+        "es": "[Caballero del Rey]\nEspero que te conviertas en un caballero digno de ese título."
+    },
+    "FT5+DA": {
+        "ko": "[왕의 기사]\n당신의 스킬 포인트가 아직 남아 있는 것으로 보인다.",
+        "en": "[King's Knight]\nIt appears you still have skill points remaining.",
+        "pt": "[Cavaleiro do Rei]\nParece que você ainda tem pontos de habilidade sobrando.",
+        "es": "[Caballero del Rey]\nParece que aún te quedan puntos de habilidad."
+    },
+    "Fj5+DA": {
+        "ko": "[왕의 기사]\n모두 소모한 후에 다시 시도하기를 바란다.",
+        "en": "[King's Knight]\nPlease try again after using them all.",
+        "pt": "[Cavaleiro do Rei]\nEspero que você tente novamente depois de usar todos eles.",
+        "es": "[Caballero del Rey]\nEspero que lo intentes de nuevo después de gastarlos todos."
+    },
+    "Fz5+DA": {
+        "ko": "[왕의 기사]\n준비를 마치고 나에게 말을 다시 걸어주길 바란다.",
+        "en": "[King's Knight]\nPlease speak to me again after you are ready.",
+        "pt": "[Cavaleiro do Rei]\nQuando estiver pronto, fala comigo de novo.",
+        "es": "[Caballero del Rey]\nEspero que termines de prepararte y me vuelvas a hablar."
+    },
+    "GD5+DA": {
+        "ko": "[왕의 기사]\n영광스러운 칭호를 획득한 자여, 그 명예에 걸맞도록 가진 힘을 이롭게 쓰기를 바라네.",
+        "en": "[King's Knight]\nO bearer of the glorious title, I hope you will use your power wisely, worthy of that honor.",
+        "pt": "[Cavaleiro do Rei]\nÓ tu que conquistaste este glorioso título, espero que uses o poder que possuis de forma benéfica, à altura dessa honra.",
+        "es": "[Caballero del Rey]\nOh, tú que has obtenido este glorioso título, espero que uses tu poder de manera beneficiosa, como corresponde a tal honor."
+    },
+    "GT5+DA": {
+        "ko": "[왕의 기사]\n기사실에는 무슨 용무로 찾아왔는가?",
+        "en": "[King's Knight]\nWhat brings you to the knight's chamber?",
+        "pt": "[Cavaleiro do Rei]\nPor que motivo vieste à sala dos cavaleiros?",
+        "es": "[Caballero del Rey]\n¿Qué te trae por la sala de caballeros?"
+    },
+    "Gj5+DA": {
+        "ko": "[왕의 기사]\n당신에게는 우리와는 다른 종류의 강함이 느껴지는군.",
+        "en": "[King's Knight]\nI sense a different kind of strength in you than ours.",
+        "pt": "[Cavaleiro do Rei]\nSinto que você possui um tipo de força diferente da nossa.",
+        "es": "[Caballero del Rey]\nPercibo en ti un tipo de fortaleza diferente a la nuestra."
+    },
+    "Gz5+DA": {
+        "ko": "[왕의 기사]\n뭐, 딱히 용무가 없다고 해도 이왕 온 김에 조금 쉬었다 가게나.",
+        "en": "[King's Knight]\nWell, even if you have no particular business here, since you've come this far, why not rest a little before you go?",
+        "pt": "[Cavaleiro do Rei]\nBem, mesmo que não tenhas nada específico a fazer, já que vieste até aqui, descansa um pouco antes de ir embora.",
+        "es": "[Caballero del Rey]\nBueno, aunque no tengas ningún asunto en particular, ya que estás aquí, descansa un rato antes de irte."
+    },
+    "HD5+DA": {
+        "ko": "[왕의 기사]\n단 ^0000FF1명^000000으로 이루어진 파티를 이루어야 진행이 가능하다.",
+        "en": "[King's Knight]\nYou must form a party consisting of exactly ^0000FF1 member^000000 to proceed.",
+        "pt": "[Cavaleiro do Rei]\nÉ preciso formar um grupo de ^0000FF1 pessoa^000000 para poder prosseguir.",
+        "es": "[Caballero del Rey]\nSolo puedes avanzar si formas un grupo de ^0000FF1 persona^000000."
+    },
+    "HT5+DA": {
+        "ko": "^0000FF{0}^000000을 요청",
+        "en": "Request ^0000FF{0}^000000",
+        "pt": "Solicitar ^0000FF{0}^000000",
+        "es": "Solicita a ^0000FF{0}^000000"
+    },
+    "Hj5+DA": {
+        "ko": "[왕의 기사]\n^0000FF파티장이 아닐 경우 진행할 수 없다.^000000",
+        "en": "[King's Knight]\n^0000FFCannot proceed unless you are the party leader.^000000",
+        "pt": "[Cavaleiro do Rei]\n^0000FFSe não fores o líder do grupo, não é possível prosseguir.^000000",
+        "es": "[Caballero del Rey]\n^0000FFSi no eres el líder del grupo, no podrás continuar.^000000"
+    },
+    "Hz5+DA": {
+        "ko": "[왕의 기사]\n시험의 대련에 참가하겠는가?",
+        "en": "[King's Knight]\nWill you participate in the trial duel?",
+        "pt": "[Cavaleiro do Rei]\nQueres participar do combate de teste?",
+        "es": "[Caballero del Rey]\n¿Participarás en el combate de prueba?"
+    },
+    "ID5+DA": {
+        "ko": "시험의 대련장으로 입장.",
+        "en": "Entering the Trial Duel Arena.",
+        "pt": "Entrar na arena de duelos de teste.",
+        "es": "Entrar en la arena de la prueba."
+    },
+    "IT5+DA": {
+        "ko": "^FF0000알 수 없는 에러가 발생했습니다.^000000",
+        "en": "^FF0000An unknown error has occurred.^000000",
+        "pt": "^FF0000Ocorreu um erro desconhecido.^000000",
+        "es": "^FF0000Se ha producido un error desconocido.^000000"
+    },
+    "Ij5+DA": {
+        "ko": "^0000FF던전이 생성되지 않았거나 파티장과 다른 던전으로 진입하려는 상태로 확인됩니다^000000",
+        "en": "^0000FFIt appears the dungeon has not been generated, or you are attempting to enter a different dungeon than the party leader.^000000",
+        "pt": "^0000FFParece que a masmorra não foi criada ou que você está tentando entrar em uma masmorra diferente da do líder do grupo^000000",
+        "es": "^0000FFParece que la mazmorra no se ha creado o que intentas entrar en una mazmorra diferente a la del líder del grupo^000000"
+    },
+    "Iz5+DA": {
+        "ko": "^FF0000파티 상태가 아니라면 입장할 수 없습니다.^000000",
+        "en": "^FF0000You cannot enter unless you are in a party.^000000",
+        "pt": "^FF0000Não dá pra entrar se não estiver em um grupo.^000000",
+        "es": "^FF0000No puedes entrar si no estás en un grupo.^000000"
+    },
+    "JD5+DA": {
+        "ko": "{0} 파티의 일원이 {1} 에 응합니다.",
+        "en": "{0} has joined {1}.",
+        "pt": "{0}, membro do grupo, aceita o desafio de {1}.",
+        "es": "{0}, miembro del grupo, responde a {1}."
+    },
+    "JT5+DA": {
+        "ko": "^0000FF파티장이 아니라면 던전의 생성은 불가능합니다.^000000",
+        "en": "^0000FFYou cannot generate a dungeon unless you are the party leader.^000000",
+        "pt": "^0000FFSe você não for o líder do grupo, não é possível criar a masmorra.^000000",
+        "es": "^0000FFSi no eres el líder del grupo, no puedes crear la mazmorra.^000000"
+    },
+    "Jj5+DA": {
+        "ko": "^0000FF{0} ^000000- 예약실패",
+        "en": "^0000FF{0} ^000000 - Reservation Failed",
+        "pt": "^0000FF{0} ^000000 - Falha na reserva",
+        "es": "^0000FF{0} ^000000 - Reserva fallida"
+    },
+    "Jz5+DA": {
+        "ko": "[왕의 기사]\n응???",
+        "en": "[King's Knight]\nHuh???",
+        "pt": "[Cavaleiro do Rei]\nHã???",
+        "es": "[Caballero del Rey]\n¿Eh???"
+    },
+    "KD5+DA": {
+        "ko": "[왕의 기사]\n제대로 대화를 나눴다면 당신이 그렇게 대답했을리가 없을텐데.",
+        "en": "[King's Knight]\nIf we'd had a proper conversation, you wouldn't have answered like that.",
+        "pt": "[Cavaleiro do Rei]\nSe tivéssemos conversado direito, você não teria respondido assim.",
+        "es": "[Caballero del Rey]\nSi hubieras hablado bien, no habrías respondido así."
+    },
+    "KT5+DA": {
+        "ko": "[왕의 기사]\n소신있는 의견을 보이도록 해야하지 않겠나?",
+        "en": "[왕의 기사]\nShouldn't you show some conviction in your opinion?",
+        "pt": "[Cavaleiro do Rei]\nNão achas que devias mostrar uma opinião mais firme?",
+        "es": "[Caballero del Rey]\n¿No deberías mostrar una opinión más firme?"
+    },
+    "Kj5+DA": {
+        "ko": "[왕의 기사]\n안되겠군, 다시 대화를 나누고 올 수 있도록.",
+        "en": "[King's Knight]\nThis won't do. I must return to discuss this further.",
+        "pt": "[Cavaleiro do Rei]\nNão dá, volta aqui depois de ter conversado de novo.",
+        "es": "[Caballero del Rey]\nNo va a funcionar, vuelve a hablar con él."
+    },
+    "Kz5+DA": {
+        "ko": "[왕의 기사]\n과연... 그렇군.",
+        "en": "[King's Knight]\nIndeed... I see.",
+        "pt": "[Cavaleiro do Rei]\nComo era de se esperar... É isso mesmo.",
+        "es": "[Caballero del Rey]\nVaya... así es."
+    },
+    "LD5+DA": {
+        "ko": "[왕의 기사]\n강력한 장비와 뛰어난 검술을 선택하였나.",
+        "en": "[King's Knight]\nYou've chosen powerful equipment and exceptional swordsmanship.",
+        "pt": "[Cavaleiro do Rei]\nEscolheste um equipamento poderoso e uma esgrima excelente.",
+        "es": "[Caballero del Rey]\n¿Has elegido un equipo poderoso y una esgrima excepcional?"
+    },
+    "LT5+DA": {
+        "ko": "[왕의 기사]\n좋다, 어디 한 번 그 힘을 보여주도록 하여라.",
+        "en": "[King's Knight]\nVery well, show us what you've got.",
+        "pt": "[Cavaleiro do Rei]\nÓtimo, então mostra-me essa força.",
+        "es": "[Caballero del Rey]\nBien, demuéstrame ese poder."
+    },
+    "Lj5+DA": {
+        "ko": "[왕의 기사]\n대결에 참가할 준비가 되었다면 다시 나에게 말을 걸도록 하여라.",
+        "en": "[King's Knight]\nIf you're ready to participate in the contest, speak to me again.",
+        "pt": "[Cavaleiro do Rei]\nSe estiveres pronto para o duelo, fala comigo novamente.",
+        "es": "[Caballero del Rey]\nSi estás listo para el duelo, vuelve a hablarme."
+    },
+    "Lz5+DA": {
+        "ko": "[왕의 기사]\n신앙심과 충성심을 선택하였나.",
+        "en": "[King's Knight]\nYou chose faith and loyalty.",
+        "pt": "[Cavaleiro do Rei]\nEscolheste a fé e a lealdade?",
+        "es": "[Caballero del Rey]\n¿Has elegido la fe y la lealtad?"
+    },
+    "MD5+DA": {
+        "ko": "[왕의 기사]\n왕을 위해 존재하는 기사, 그리고 충성심과 신앙심을 인정받아 최고의 기사로 대접받고 있는 자들이 바로 로얄 가드겠지.",
+        "en": "[King's Knight]\nKnights who exist for the king, and those recognized for their loyalty and devotion, treated as the finest knights—that would be the Royal Guard.",
+        "pt": "[Cavaleiro do Rei]\nOs cavaleiros que existem para servir ao rei, e que são tratados como os melhores cavaleiros por terem sua lealdade e fé reconhecidas, são justamente a Guarda Real.",
+        "es": "[Caballero del Rey]\nLos caballeros que existen para el rey, y aquellos a quienes se les reconoce su lealtad y fe y se les trata como los mejores caballeros, son precisamente la Guardia Real."
+    },
+    "MT5+DA": {
+        "ko": "[왕의 기사]\n하지만 시간은 계속 흐르고 있고 계속되는 전투와 고난을 겪어가는 과정에서 로얄 가드들은 스스로의 본질을 잃어가고 있다.",
+        "en": "[King's Knight]\nBut time keeps passing, and through the ongoing battles and hardships they endure, the Royal Guards are gradually losing their very essence.",
+        "pt": "[Cavaleiro do Rei]\nMas o tempo continua passando, e, no decorrer das batalhas e provações incessantes, os Guardas Reais estão perdendo sua essência.",
+        "es": "[Caballero del Rey]\nPero el tiempo sigue pasando y, en medio de las continuas batallas y penurias, los Guardias Reales están perdiendo su esencia."
+    },
+    "Mj5+DA": {
+        "ko": "[왕의 기사]\n그렇기 때문에 한 번의 솎아냄이 필요해.",
+        "en": "[King's Knight]\nThat's why a culling is necessary.",
+        "pt": "[Cavaleiro do Rei]\nÉ por isso que é necessária uma seleção.",
+        "es": "[Caballero del Rey]\nPor eso es necesario hacer una selección."
+    },
+    "Mz5+DA": {
+        "ko": "[왕의 기사]\n명예로운 왕의 기사로 자신의 힘과 정의를 올바르게 관철해나갈 수 있는 자들을 선별하고자 한다.",
+        "en": "[King's Knight]\nWe seek to select those who can properly wield their strength and justice as honorable Knights of the King.",
+        "pt": "[Cavaleiro do Rei]\nPretendemos selecionar aqueles que, como honrados cavaleiros do rei, possam fazer valer corretamente sua força e justiça.",
+        "es": "[El Caballero del Rey]\nQueremos seleccionar a aquellos que, como honorables caballeros del rey, puedan hacer valer su fuerza y su justicia de la manera correcta."
+    },
+    "ND5+DA": {
+        "ko": "[왕의 기사]\n그것을 위해 왕실에서 주최하는 대결의 장을 마련하기로 했다.",
+        "en": "[King's Knight]\nTo that end, the royal court has decided to host a tournament.",
+        "pt": "[Cavaleiro do Rei]\nPara isso, decidimos organizar um torneio promovido pela realeza.",
+        "es": "[Caballero del Rey]\nPara ello, la Casa Real ha decidido organizar un torneo."
+    },
+    "NT5+DA": {
+        "ko": "[왕의 기사]\n당신은 자신의 힘을 올바르게 사용하고 있는가?",
+        "en": "[King's Knight]\nAre you using your power correctly?",
+        "pt": "[Cavaleiro do Rei]\nVocê está usando seu poder da maneira correta?",
+        "es": "[Caballero del Rey]\n¿Estás usando tu poder de la manera correcta?"
+    },
+    "Nj5+DA": {
+        "ko": "[왕의 기사]\n당신의 신념은 흔들림 없이 굳건함을 유지하고 있는가?",
+        "en": "[King's Knight]\nIs your conviction unwavering and steadfast?",
+        "pt": "[Cavaleiro do Rei]\nSuas convicções permanecem inabaláveis e firmes?",
+        "es": "[Caballero del Rey]\n¿Tu convicción se mantiene firme, sin vacilar?"
+    },
+    "Nz5+DA": {
+        "ko": "[왕의 기사]\n그렇다고 한다면 당신도 이번 대결의 장에 참가하는 것이 어떤가?",
+        "en": "[King's Knight]\nIf that's the case, how about you join the arena for this battle?",
+        "pt": "[Cavaleiro do Rei]\nSe sim, que tal participar deste torneio?",
+        "es": "[Caballero del Rey]\nSi es así, ¿qué te parece participar en este torneo?"
+    },
+    "OD5+DA": {
+        "ko": "참가하겠습니다.",
+        "en": "I will participate.",
+        "pt": "Vou participar.",
+        "es": "Participaré."
+    },
+    "OT5+DA": {
+        "ko": "조금만 생각해보겠습니다.",
+        "en": "I'll think about it for a bit.",
+        "pt": "Vou pensar um pouco.",
+        "es": "Lo pensaré un momento."
+    },
+    "Oj5+DA": {
+        "ko": "[왕의 기사]\n내가 한 번의 솎아냄이 필요하다고 말했었지?",
+        "en": "[King's Knight]\nDidn't I tell you I needed to weed out one?",
+        "pt": "[Cavaleiro do Rei]\nEu disse que seria necessária uma seleção, não foi?",
+        "es": "[Caballero del Rey]\n¿Te dije que era necesario hacer una selección?"
+    },
+    "Oz5+DA": {
+        "ko": "예, 그것이 무엇을 뜻하는지 잘 모르겠습니다.",
+        "en": "Yes, I don't quite understand what that means.",
+        "pt": "Sim, mas não sei bem o que isso significa.",
+        "es": "Sí, pero no sé muy bien a qué te refieres."
+    },
+    "PD5+DA": {
+        "ko": "[왕의 기사]\n자네가 직접 겪어보는 것이 더 좋을 것 같아.",
+        "en": "[King's Knight]\nIt would be better for you to experience it yourself.",
+        "pt": "[Cavaleiro do Rei]\nAcho melhor você experimentar por conta própria.",
+        "es": "[Caballero del Rey]\nCreo que será mejor que lo experimentes por ti mismo."
+    },
+    "PT5+DA": {
+        "ko": "[왕의 기사]\n대결 참가에 앞서 내가 알려주는 두 명의 기사들을 만나서 대화를 나누어 보도록 하여라.",
+        "en": "[King's Knight]\nBefore participating in the tournament, go meet and speak with the two knights I will tell you about.",
+        "pt": "[Cavaleiro do Rei]\nAntes de participar do duelo, vai encontrar os dois cavaleiros que eu te indicar e conversa com eles.",
+        "es": "[Caballero del Rey]\nAntes de participar en el duelo, ve a hablar con los dos caballeros que te voy a indicar."
+    },
+    "Pj5+DA": {
+        "ko": "[왕의 기사]\n한 명은 ^4D4DFF헌신의 기사^000000.",
+        "en": "[King's Knight]\nOne is ^4D4DFFKnight of Devotion^000000.",
+        "pt": "[Cavaleiro do Rei]\nUm deles é o ^4D4DFFCavaleiro da Dedicação^000000.",
+        "es": "[Caballero del Rey]\nUno es el ^4D4DFFCaballero de la Devoción^000000."
+    },
+    "Pz5+DA": {
+        "ko": "[왕의 기사]\n<NAVI>[프론테라 북서쪽]<INFO>prontera,58,364,</INFO></NAVI>으로 가면 만나볼 수 있을 것이다.",
+        "en": "[King's Knight]\n<NAVI>[Northwest of Prontera]<INFO>prontera,58,364,</INFO></NAVI> is where you can meet him.",
+        "pt": "[Cavaleiro do Rei]\nSe fores a <NAVI>[Noroeste de Prontera]<INFO>prontera,58,364,</INFO></NAVI>, poderás encontrá-lo.",
+        "es": "[Caballero del Rey]\nSi vas a <NAVI>[Noroeste de Prontera]<INFO>prontera,58,364,</INFO></NAVI>, podrás encontrarlo."
+    },
+    "QD5+DA": {
+        "ko": "[왕의 기사]\n다른 한 명은 ^4D4DFF무장의 기사^000000.",
+        "en": "[King's Knight]\nThe other one is ^4D4DFFKnight of the Armor^000000.",
+        "pt": "[Cavaleiro do Rei]\nO outro é o ^4D4DFFCavaleiro da Arma^000000.",
+        "es": "[Caballero del Rey]\nEl otro es el ^4D4DFFCaballero Armado^000000."
+    },
+    "QT5+DA": {
+        "ko": "[왕의 기사]\n<NAVI>[프론테라 북동쪽]<INFO>prontera,276,355,</INFO></NAVI>으로 가면 만나볼 수 있을 것이다.",
+        "en": "[Knight of the King]\n<NAVI>[Northeast of Prontera]<INFO>prontera,276,355,</INFO></NAVI> is where you can find him.",
+        "pt": "[Cavaleiro do Rei]\nSe fores a <NAVI>[Nordeste de Prontera]<INFO>prontera,276,355,</INFO></NAVI>, vais encontrá-lo.",
+        "es": "[Caballero del Rey]\nSi vas a <NAVI>[Noreste de Prontera]<INFO>prontera,276,355,</INFO></NAVI>, podrás encontrarlo."
+    },
+    "Qj5+DA": {
+        "ko": "[왕의 기사]\n두 기사와의 대화를 통해 본인의 정의는 어느쪽에 위치하고 있는지 스스로 확인해보도록 해라.",
+        "en": "[Knight of the King]\nThrough conversations with the two knights, determine for yourself where your sense of justice lies.",
+        "pt": "[Cavaleiro do Rei]\nConversa com os dois cavaleiros e tenta descobrir por ti mesmo de que lado está a tua justiça.",
+        "es": "[Caballero del Rey]\nA través de la conversación con los dos caballeros, intenta descubrir por ti mismo de qué lado está tu sentido de la justicia."
+    },
+    "Qz5+DA": {
+        "ko": "[왕의 기사]\n그런 다음에 다시 나를 찾아와서 정식으로 대결 참가를 신청하도록.",
+        "en": "[Knight of the King]\nThen come back to me and formally apply to participate in the duel.",
+        "pt": "[Cavaleiro do Rei]\nDepois disso, volta aqui e inscreve-te formalmente para o duelo.",
+        "es": "[Caballero del Rey]\nDespués, vuelve a verme para solicitar formalmente tu participación en el duelo."
+    },
+    "RD5+DA": {
+        "ko": "[왕의 기사]\n그럼 조심히 다녀오게나.",
+        "en": "[Knight of Devotion]\nThen take care on your journey.",
+        "pt": "[Cavaleiro do Rei]\nEntão, vai com cuidado.",
+        "es": "[Caballero del Rey]\nBueno, cuídate en el camino."
+    },
+    "RT5+DA": {
+        "ko": "[왕의 기사]\n망설임이라는 감정은 좋지 않은 감정이야.",
+        "en": "[Knight of Devotion]\nHesitation is not a good emotion.",
+        "pt": "[Cavaleiro do Rei]\nA hesitação não é um sentimento bom.",
+        "es": "[Caballero del Rey]\nLa indecisión no es un buen sentimiento."
+    },
+    "Rj5+DA": {
+        "ko": "[왕의 기사]\n빠르게 결단한 뒤 나에게 다시 찾아오길 바란다.",
+        "en": "[Knight of Devotion]\nMake a swift decision and come back to me.",
+        "pt": "[Cavaleiro do Rei]\nTomo uma decisão rápida e volta aqui me ver.",
+        "es": "[Caballero del Rey]\nEspero que tomes una decisión rápida y vuelvas a verme."
+    },
+    "Rz5+DA": {
+        "ko": "[왕의 기사]\n헌신의 기사와 무장의 기사를 만나서 이야기를 나누고 오도록 하여라.",
+        "en": "[King's Knight]\nGo meet the Knight of Devotion and the Knight of Arms and talk with them.",
+        "pt": "[Cavaleiro do Rei]\nVai encontrar o Cavaleiro da Dedicação e o Cavaleiro do Exército para conversar com eles.",
+        "es": "[Caballero del Rey]\nVe a hablar con el Caballero de la Devoción y el Caballero del Armamento."
+    },
+    "SD5+DA": {
+        "ko": "[왕의 기사]\n곧 로얄 가드 중에서도 진정한 왕의 기사임을 가려내기 위한 대결의 장이 펼쳐지게 될 것이다.",
+        "en": "[King's Knight]\nSoon, a contest will unfold to determine who among the Royal Guards is the true King's Knight.",
+        "pt": "[Cavaleiro do Rei]\nEm breve, terá início o torneio para selecionar, dentre a Guarda Real, quem são os verdadeiros Cavaleiros do Rei.",
+        "es": "[Caballero del Rey]\nPronto se llevará a cabo un duelo para determinar quién es el verdadero Caballero del Rey entre los Guardias Reales."
+    },
+    "ST5+DA": {
+        "ko": "[왕의 기사]\n자네도 참가할 수 있으면 좋겠지만 아직은 수련이 부족해보인다.",
+        "en": "[Knight of Devotion]\nI wish you could participate, but your training still seems insufficient.",
+        "pt": "[Cavaleiro do Rei]\nSeria bom se você pudesse participar, mas ainda parece que te falta treino.",
+        "es": "[Caballero del Rey]\nMe gustaría que tú también pudieras participar, pero parece que aún te falta entrenamiento."
+    },
+    "Sj5+DA": {
+        "ko": "[왕의 기사]\n조금 더 단련하여 자격을 갖춘 뒤에 참가 신청을 하도록 하여라.",
+        "en": "[Knight of Devotion]\nTrain harder until you qualify, then apply to join.",
+        "pt": "[Cavaleiro do Rei]\nTreina um pouco mais até estar qualificado e, então, inscreve-te para participar.",
+        "es": "[Caballero del Rey]\nEntrena un poco más hasta que estés a la altura y luego solicita participar."
+    },
+    "Sz5+DA": {
+        "ko": "- ^4D4DFF베이스 레벨 200 이상이며 전승 상태인 로얄 가드로 해당 퀘스트를 진행할 수 있습니다.^000000 -",
+        "en": "- ^4D4DFFYou must be a Royal Guard with a base level of 200 or higher and in the Succession state to proceed with this quest.^000000 -",
+        "pt": "- ^4D4DFFVocê pode realizar esta missão se for um Guarda Real com nível base 200 ou mais e estiver no estado de herança.^000000 -",
+        "es": "- ^4D4DFFPuedes realizar esta misión si eres un guardia real con un nivel base de 200 o más y estás en estado de sucesión.^000000 -"
+    },
+    "TD5+DA": {
+        "ko": "헌신의 기사",
+        "en": "Knight of Devotion",
+        "pt": "Cavaleiro da Dedicação",
+        "es": "Caballero Devoto"
+    },
+    "TT5+DA": {
+        "ko": "[헌신의 기사]\n저는 왕에게 헌신하는 기사.",
+        "en": "[Knight of Devotion]\nI am a knight devoted to the king.",
+        "pt": "[Cavaleiro Devoto]\nSou um cavaleiro dedicado ao rei.",
+        "es": "[Caballero Devoto]\nSoy un caballero dedicado al rey."
+    },
+    "Tj5+DA": {
+        "ko": "[헌신의 기사]\n오로지 기도로만 헌신하는 것이 가장 이상적이라고 생각하고 있습니다.",
+        "en": "[Knight of Devotion]\nI believe that devotion through prayer alone is the most ideal.",
+        "pt": "[Cavaleiro Devoto]\nAcho que a forma mais ideal de dedicação é apenas através da oração.",
+        "es": "[Caballero Devoto]\nCreo que lo más ideal es dedicarse exclusivamente a la oración."
+    },
+    "Tz5+DA": {
+        "ko": "[헌신의 기사]\n결투의 장에서 만나도록 하죠.",
+        "en": "[Knight of Devotion]\nLet's meet on the battlefield.",
+        "pt": "[Cavaleiro Devoto]\nNos vemos na arena de duelo.",
+        "es": "[Caballero Devoto]\nNos vemos en la arena de duelo."
+    },
+    "UD5+DA": {
+        "ko": "[헌신의 기사]\n좋은 결과 있기를 바랍니다.",
+        "en": "[Knight of Devotion]\nI hope you achieve a favorable outcome.",
+        "pt": "[Cavaleiro Devoto]\nEspero que tudo corra bem.",
+        "es": "[Caballero Devoto]\nEspero que te vaya bien."
+    },
+    "UT5+DA": {
+        "ko": "그게 무슨 뜻이죠?",
+        "en": "What does that mean?",
+        "pt": "O que isso significa?",
+        "es": "¿Qué significa eso?"
+    },
+    "Uj5+DA": {
+        "ko": "[헌신의 기사]\n이 세상의 위험들로부터 왕을 보호하기 위해서는 무력이 필요하다는 현실이 안타깝다는 뜻입니다.",
+        "en": "[Knight of Devotion]\nIt means I regret the reality that force is necessary to protect the king from the dangers of this world.",
+        "pt": "[Cavaleiro Devoto]\nSignifica que lamento a realidade de que a força é necessária para proteger o rei dos perigos deste mundo.",
+        "es": "[Caballero Devoto]\nSignifica que me entristece la realidad de que se necesite la fuerza para proteger al rey de los peligros de este mundo."
+    },
+    "Uz5+DA": {
+        "ko": "[헌신의 기사]\n사실 저는 성직자가 되고 싶었습니다.",
+        "en": "[Knight of Devotion]\nActually, I wanted to become a priest.",
+        "pt": "[Cavaleiro Devoto]\nNa verdade, eu queria ser clérigo.",
+        "es": "[Caballero Devoto]\nLa verdad es que yo quería ser clérigo."
+    },
+    "VD5+DA": {
+        "ko": "[헌신의 기사]\n그런데 저에겐 검술의 재능이 있었죠.",
+        "en": "[Knight of Devotion]\nBut I had a talent for swordsmanship.",
+        "pt": "[Cavaleiro Devoto]\nMas eu tinha talento para a esgrima.",
+        "es": "[Caballero Devoto]\nPero tenía talento para la esgrima."
+    },
+    "VT5+DA": {
+        "ko": "[헌신의 기사]\n제가 가진 능력이 올바르게 쓰임받기를 원했고 그리하여 기사단에 들어가게 되었습니다.",
+        "en": "[Knight of Devotion]\nI wanted my abilities to be put to good use, and so I joined the knight order.",
+        "pt": "[Cavaleiro Devoto]\nEu queria que minhas habilidades fossem usadas da maneira certa e foi por isso que entrei para a ordem dos cavaleiros.",
+        "es": "[Caballero Devoto]\nQuería que mis habilidades se usaran para el bien, y por eso me uní a la orden de caballeros."
+    },
+    "Vj5+DA": {
+        "ko": "[헌신의 기사]\n저는 매일같이 기도를 합니다. 현재의 평화가 계속 유지되기를, 그리고 현재 일어나고 있는 갈등들에 있어서 싸움 없이 해결될 수 있기를 바라면서요.",
+        "en": "[Knight of Devotion]\nI pray every day. I pray for the current peace to endure, and for the conflicts now unfolding to be resolved without fighting.",
+        "pt": "[Cavaleiro Devoto]\nRezo todos os dias. Desejo que a paz atual se mantenha e que os conflitos que estão acontecendo agora possam ser resolvidos sem lutas.",
+        "es": "[Caballero Devoto]\nRezo todos los días. Deseando que la paz actual se mantenga y que los conflictos que están ocurriendo ahora se resuelvan sin lucha."
+    },
+    "Vz5+DA": {
+        "ko": "[헌신의 기사]\n적을 공격하기 위한 검이 아닌, 왕과 시민들을 지키기 위한 방패로서의 역할만 하고 싶었습니다.",
+        "en": "[Knight of Devotion]\nI only wished to serve as a shield to protect the king and citizens, not as a sword to attack enemies.",
+        "pt": "[Cavaleiro da Dedicação]\nEu só queria desempenhar o papel de um escudo para proteger o rei e os cidadãos, e não de uma espada para atacar o inimigo.",
+        "es": "[Caballero de la Devoción]\nNo quería ser una espada para atacar al enemigo, sino solo un escudo para proteger al rey y a los ciudadanos."
+    },
+    "WD5+DA": {
+        "ko": "[헌신의 기사]\n하지만 저와 다른 생각을 가진 기사들이 많습니다.",
+        "en": "[Knight of Devotion]\nBut many knights hold different views than I do.",
+        "pt": "[Cavaleiro da Dedicação]\nMas há muitos cavaleiros que pensam diferente de mim.",
+        "es": "[Caballero de la Devoción]\nPero hay muchos caballeros que piensan diferente a mí."
+    },
+    "WT5+DA": {
+        "ko": "[헌신의 기사]\n그들의 신념에 대해 부정할 생각은 없지만 저는 저의 뜻을 그대로 관철해 나갈 것입니다",
+        "en": "[Knight of Devotion]\nI do not intend to deny their beliefs, but I will carry out my own will.",
+        "pt": "[Cavaleiro da Dedicação]\nNão pretendo negar as convicções deles, mas vou seguir em frente com a minha vontade.",
+        "es": "[Caballero de la Devoción]\nNo pretendo negar sus creencias, pero yo seguiré adelante con mi propósito."
+    },
+    "Wj5+DA": {
+        "ko": "[헌신의 기사]\n곧 명예로운 자리를 놓고 대결의 장이 펼쳐진다고 하는군요.",
+        "en": "[Knight of Devotion]\nSoon, the arena for the contest for that honorable position will be set.",
+        "pt": "[Cavaleiro da Dedicação]\nDizem que em breve terá início uma disputa por um cargo de honra.",
+        "es": "[Caballero de la Devoción]\nDicen que pronto se librará una batalla por un puesto de honor."
+    },
+    "Wz5+DA": {
+        "ko": "[헌신의 기사]\n확실한 것은 왕의 기사로 굳건하게 나아가기 위해서는 강해야 한다는 것입니다.",
+        "en": "[Knight of Devotion]\nWhat is certain is that to stand firm as the King's Knight, one must be strong.",
+        "pt": "[Cavaleiro da Dedicação]\nO que é certo é que, para seguir firme como cavaleiro do rei, preciso ser forte.",
+        "es": "[Caballero de la Devoción]\nLo que sí tengo claro es que, para seguir adelante con firmeza como caballero del rey, tengo que ser fuerte."
+    },
+    "XD5+DA": {
+        "ko": "[헌신의 기사]\n무력에만 치중하고 상대를 때려눕히기 위한 것만이 강함은 아니에요, 저는 그것을 증명해보일 생각입니다.",
+        "en": "[Knight of Devotion]\nStrength isn't just about relying on brute force and knocking down your opponent. I intend to prove that.",
+        "pt": "[Cavaleiro da Dedicação]\nFoco apenas na força bruta e em derrubar o adversário não é o que define a verdadeira força; pretendo provar isso.",
+        "es": "[Caballero de la Devoción]\nLa fuerza no consiste solo en centrarse en la violencia y en derribar al oponente; tengo la intención de demostrarlo."
+    },
+    "XT5+DA": {
+        "ko": "[헌신의 기사]\n적의 공격을 막아냄을 중시할 것이며 최소한의 힘으로만 상대를 쓰러뜨릴 생각입니다.",
+        "en": "[Knight of Devotion]\nI will prioritize blocking enemy attacks and aim to defeat opponents using only the minimum necessary force.",
+        "pt": "[Cavaleiro da Dedicação]\nVou dar prioridade a bloquear os ataques do inimigo e pretendo derrubar o adversário usando o mínimo de força possível.",
+        "es": "[Caballero de la Devoción]\nDaré prioridad a bloquear los ataques del enemigo y pienso derrotar al rival con la mínima fuerza posible."
+    },
+    "Xj5+DA": {
+        "ko": "[헌신의 기사]\n왕의 기사로서 중요한 자질은 무력과 장비에 힘을 쏟는 것보다 신앙심과 충성심으로 비롯되어 생겨나는 힘.",
+        "en": "[Knight of Devotion]\nAs a knight of the king, the most important quality is not physical strength or equipment, but the power born of faith and loyalty.",
+        "pt": "[Cavaleiro da Dedicação]\nA qualidade mais importante para um cavaleiro do rei não é a força que vem da força física e do equipamento, mas sim a força que surge da fé e da lealdade.",
+        "es": "[Caballero de la Devoción]\nLa cualidad más importante de un caballero del rey no es la fuerza que se obtiene al dedicar toda tu energía a la fuerza física y el equipo, sino la que surge de la fe y la lealtad."
+    },
+    "Xz5+DA": {
+        "ko": "[헌신의 기사]\n그것이 왕을 위해 존재하는 기사가 가져야 할 핵심적인 소양이라고 생각합니다.",
+        "en": "[Knight of Devotion]\nI believe that is the core virtue a knight who exists for the king must possess.",
+        "pt": "[Cavaleiro da Dedicação]\nAcho que essa é a qualidade essencial que um cavaleiro que existe para servir ao rei deve possuir.",
+        "es": "[Caballero de la Devoción]\nCreo que esa es la cualidad esencial que debe tener un caballero que existe para el rey."
+    },
+    "YD5+DA": {
+        "ko": "[헌신의 기사]\n그렇다면 당신의 정의는 무엇인가요?",
+        "en": "[Knight of Devotion]\nThen what is your definition?",
+        "pt": "[Cavaleiro da Dedicação]\nEntão, qual é a tua definição de justiça?",
+        "es": "[Caballero de la Devoción]\nEntonces, ¿cuál es tu definición de justicia?"
+    },
+    "YT5+DA": {
+        "ko": "[헌신의 기사]\n강력한 장비와 뛰어난 검술이 우선이십니까, 아니면 신을 섬기는 마음과 왕에 대한 충성심입니까?",
+        "en": "[Knight of Devotion]\nIs powerful equipment and exceptional swordsmanship your priority, or is it a heart devoted to the gods and loyalty to the king?",
+        "pt": "[Cavaleiro Devoto]\nO que vem primeiro: equipamentos poderosos e uma excelente habilidade com a espada, ou o coração dedicado a Deus e a lealdade ao rei?",
+        "es": "[Caballero Devoto]\n¿Son lo primero el equipo poderoso y la excelente esgrima, o el corazón que sirve a Dios y la lealtad al rey?"
+    },
+    "Yj5+DA": {
+        "ko": "강력한 장비와 뛰어난 검술",
+        "en": "Powerful equipment and exceptional swordsmanship",
+        "pt": "Equipamentos poderosos e excelente habilidade com a espada",
+        "es": "Equipo poderoso y destreza con la espada"
+    },
+    "Yz5+DA": {
+        "ko": "신앙심과 충성심",
+        "en": "Faith and Loyalty",
+        "pt": "Fé e lealdade",
+        "es": "Fe y lealtad"
+    },
+    "ZD5+DA": {
+        "ko": "[헌신의 기사]\n신중하게 생각하고 답변하셔야 하는 부분입니다.",
+        "en": "[Knight of Devotion]\nThis is a matter requiring careful consideration and response.",
+        "pt": "[Cavaleiro Devoto]\nÉ algo que você deve pensar com cuidado antes de responder.",
+        "es": "[Caballero de la Devoción]\nEs algo que debes pensar con cuidado antes de responder."
+    },
+    "ZT5+DA": {
+        "ko": "[헌신의 기사]\n말씀하신 뜻이 당신의 정의가 확실합니까?",
+        "en": "[Knight of Devotion]\nAre you certain your justice is what you speak of?",
+        "pt": "[Cavaleiro da Dedicação]\nTens certeza de que o que disseste representa a tua definição de justiça?",
+        "es": "[Caballero de la Devoción]\n¿Estás seguro de que lo que acabas de decir es tu definición de justicia?"
+    },
+    "Zj5+DA": {
+        "ko": "확실하다.",
+        "en": "Certain.",
+        "pt": "Tenho certeza.",
+        "es": "Sí, lo estoy."
+    },
+    "Zz5+DA": {
+        "ko": "생각해보니 아닌 것 같다.",
+        "en": "Come to think of it, I don't think so.",
+        "pt": "Pensando bem, acho que não.",
+        "es": "Ahora que lo pienso, creo que no."
+    },
+    "aD5+DA": {
+        "ko": "[헌신의 기사]\n그렇습니까...",
+        "en": "[Knight of Devotion]\nIs that so...",
+        "pt": "[Cavaleiro da Dedicação]\nÉ mesmo...",
+        "es": "[Caballero de la Devoción]\n¿De verdad...?"
+    },
+    "aT5+DA": {
+        "ko": "[헌신의 기사]\n무력에만 집중하는 방식이 과연 옳은 방식인까요...",
+        "en": "[Knight of Devotion]\nIs focusing solely on force truly the right way...",
+        "pt": "[Cavaleiro da Dedicação]\nSerá que essa abordagem, que se concentra apenas na força, é realmente a correta...",
+        "es": "[Caballero de la Devoción]\n¿Es realmente correcto centrarse solo en la fuerza bruta...?"
+    },
+    "aj5+DA": {
+        "ko": "[헌신의 기사]\n저와는 다른 생각을 가지고 계시지만 그것에 대해서는 존중합니다.",
+        "en": "[Knight of Devotion]\nYou hold different views than I do, but I respect that.",
+        "pt": "[Cavaleiro da Dedicação]\nTu tens uma opinião diferente da minha, mas eu respeito isso.",
+        "es": "[Caballero de la Devoción]\nTienes una opinión diferente a la mía, pero la respeto."
+    },
+    "az5+DA": {
+        "ko": "[헌신의 기사]\n당신도 대결의 장에 참가하시나요? 어쩌면 결투장에서 만날 수 있을지도 모르겠군요.",
+        "en": "[Knight of Devotion]\nAre you joining the arena as well? Perhaps we'll meet in the dueling grounds.",
+        "pt": "[Cavaleiro da Dedicação]\nVocê também vai participar do campo de batalha? Talvez a gente se encontre na arena de duelos.",
+        "es": "[Caballero de la Devoción]\n¿Tú también vas a participar en el campo de batalla? Quizás nos veamos en la arena de duelos."
+    },
+    "bD5+DA": {
+        "ko": "[헌신의 기사]\n어쨌든 잘 알겠습니다, 그럼 조심히 들어가십시오.",
+        "en": "[Knight of Devotion]\nWell, I understand. Be careful going in.",
+        "pt": "[Cavaleiro da Dedicação]\nDe qualquer forma, entendi. Então, vai com cuidado.",
+        "es": "[Caballero de la Devoción]\nDe todos modos, lo entiendo perfectamente. Bueno, entonces, entra con cuidado."
+    },
+    "bT5+DA": {
+        "ko": "[헌신의 기사]\n깊이 생각해 보신 후에 다시 답변을 부탁드립니다.",
+        "en": "[Knight of Devotion]\nPlease think deeply about it and give me your answer later.",
+        "pt": "[Cavaleiro da Dedicação]\nPensa bem e depois me dá uma resposta.",
+        "es": "[Caballero Devoto]\nTe pido que lo pienses bien y me des una respuesta más adelante."
+    },
+    "bj5+DA": {
+        "ko": "[헌신의 기사]\n그렇군요.",
+        "en": "[Knight of Devotion]\nI see.",
+        "pt": "[Cavaleiro da Dedicação]\nEntendo.",
+        "es": "[Caballero de la Devoción]\nYa veo."
+    },
+    "bz5+DA": {
+        "ko": "[헌신의 기사]\n저와 같은 뜻을 가진 자를 만나서 기쁘네요.",
+        "en": "[Knight of Devotion]\nI'm glad to meet someone who shares my purpose.",
+        "pt": "[Cavaleiro da Dedicação]\nFico feliz em encontrar alguém que pensa como eu.",
+        "es": "[Caballero de la Devoción]\nMe alegra encontrar a alguien que piensa como yo."
+    },
+    "cD5+DA": {
+        "ko": "[헌신의 기사]\n당신도 결투에 참가하시는건가요?",
+        "en": "[Knight of Devotion]\nAre you participating in the duel as well?",
+        "pt": "[Cavaleiro da Dedicação]\nVocê também vai participar do duelo?",
+        "es": "[Caballero de la Devoción]\n¿Tú también vas a participar en el duelo?"
+    },
+    "cT5+DA": {
+        "ko": "네, 그렇습니다.",
+        "en": "Yes, I am.",
+        "pt": "Sim, vou participar.",
+        "es": "Sí, así es."
+    },
+    "cj5+DA": {
+        "ko": "[헌신의 기사]\n제가 만약에 마지막까지 승리하지 못한다면 당신이라도 꼭 해내주시길 바랄게요.",
+        "en": "[Knight of Devotion]\nIf I cannot achieve victory until the very end, I hope you will accomplish it for me.",
+        "pt": "[Cavaleiro da Dedicação]\nSe por acaso eu não conseguir vencer até o fim, espero que pelo menos você consiga.",
+        "es": "[Caballero de la Devoción]\nSi por casualidad no consigo ganar hasta el final, espero que al menos tú lo logres."
+    },
+    "cz5+DA": {
+        "ko": "[헌신의 기사]\n부디 우리의 뜻이 관철되었으면 좋겠습니다.",
+        "en": "[Knight of Devotion]\nI sincerely hope our will is fulfilled.",
+        "pt": "[Cavaleiro da Dedicação]\nEspero que nossa causa seja concretizada.",
+        "es": "[Caballero de la Devoción]\nOjalá logremos cumplir con nuestro propósito."
+    },
+    "dD5+DA": {
+        "ko": "[헌신의 기사]\n감사합니다, 조심히 들어가십시오.",
+        "en": "[Knight of Devotion]\nThank you. Please proceed with caution.",
+        "pt": "[Cavaleiro da Dedicação]\nObrigado, vai com cuidado.",
+        "es": "[Caballero de la Devoción]\nGracias, ten cuidado al entrar."
+    },
+    "dT5+DA": {
+        "ko": "무장의 기사",
+        "en": "Knight of Armament",
+        "pt": "Cavaleiro Armado",
+        "es": "Caballero Armado"
+    },
+    "dj5+DA": {
+        "ko": "[무장의 기사]\n여기엔 저와 같이 전장에서 싸우다가 목숨을 잃은 전우의 묘가 있습니다.",
+        "en": "[Knight of Armament]\nHere lies the grave of my comrade-in-arms who lost his life fighting alongside me on the battlefield.",
+        "pt": "[Cavaleiro Armado]\nAqui está o túmulo de um companheiro de armas que perdeu a vida lutando ao meu lado no campo de batalha.",
+        "es": "[Caballero Armado]\nAquí están las tumbas de los compañeros que perdieron la vida luchando a mi lado en el campo de batalla."
+    },
+    "dz5+DA": {
+        "ko": "[무장의 기사]\n그가 좀 더 강했었더라면... 그런 비극은 일어나지 않았을거에요.",
+        "en": "[Knight of Armament]\nIf only he had been stronger... That tragedy wouldn't have happened.",
+        "pt": "[Cavaleiro Armado]\nSe ele tivesse sido um pouco mais forte... essa tragédia não teria acontecido.",
+        "es": "[Caballero Armado]\nSi él hubiera sido un poco más fuerte... esa tragedia no habría ocurrido."
+    },
+    "eD5+DA": {
+        "ko": "[무장의 기사]\n결투의 장에서 만날 수 있게되면 좋겠군요.",
+        "en": "[Knight of Armament]\nI hope we meet again on the battlefield.",
+        "pt": "[Cavaleiro Armado]\nSeria ótimo se pudéssemos nos encontrar no campo de duelo.",
+        "es": "[Caballero Armado]\nOjalá nos podamos encontrar en el campo de duelo."
+    },
+    "eT5+DA": {
+        "ko": "[무장의 기사]\n좋은 결과 있기를 바랍니다.",
+        "en": "[Knight of Armament]\nI hope you achieve a favorable outcome.",
+        "pt": "[Cavaleiro Armado]\nEspero que tudo dê certo.",
+        "es": "[Caballero Armado]\nEspero que te vaya bien."
+    },
+    "ej5+DA": {
+        "ko": "[무장의 기사]\n강해지기 위해서는... 끝없이 단련해야 합니다.",
+        "en": "[Knight of Armament]\nTo become stronger... one must train endlessly.",
+        "pt": "[Cavaleiro Armado]\nPara ficar mais forte... é preciso treinar sem parar.",
+        "es": "[El Caballero Armado]\nPara ser más fuerte... hay que entrenar sin descanso."
+    },
+    "ez5+DA": {
+        "ko": "[무장의 기사]\n보다 좋은 무기와 방어구도 아주 중요하지요.",
+        "en": "[Knight of Armament]\nBetter weapons and armor are also very important.",
+        "pt": "[Cavaleiro Armado]\nArmas e armaduras melhores também são muito importantes.",
+        "es": "[Caballero Armado]\nContar con mejores armas y armaduras también es muy importante."
+    },
+    "fD5+DA": {
+        "ko": "[무장의 기사]\n제가 안타까워 하는 부분은 기품을 갖추기 위해, 사역 활동을 하기 위해 필요 이상의 시간을 보내는 경우가 많다는 것입니다.",
+        "en": "[Knight of Armament]\nWhat saddens me is that many spend excessive time pursuing dignity and performing service activities.",
+        "pt": "[Cavaleiro Armado]\nO que me entristece é que, muitas vezes, gastamos tempo demais apenas para manter a dignidade ou realizar atividades de serviço.",
+        "es": "[Caballero Armado]\nLo que me entristece es que, a menudo, se dedica más tiempo del necesario a mantener la dignidad y a realizar actividades de servicio."
+    },
+    "fT5+DA": {
+        "ko": "[무장의 기사]\n어중간해서는 그 누구도 지킬 수 없어요.",
+        "en": "[The Knight of Arms]\nHalf-heartedness protects no one.",
+        "pt": "[Cavaleiro Armado]\nSe ficarmos na meia-via, não conseguiremos proteger ninguém.",
+        "es": "[Caballero Armado]\nSi te quedas a medio camino, no podrás proteger a nadie."
+    },
+    "fj5+DA": {
+        "ko": "[무장의 기사]\n다른 사람들이 사역 활동을 할 수 있도록, 우리가 희생하는 것이 맞다고 생각합니다.",
+        "en": "[Knight of Armament]\nI believe it's right for us to sacrifice so others can carry out their duties.",
+        "pt": "[Cavaleiro Armado]\nAcho que é certo a gente se sacrificar para que os outros possam fazer suas atividades de serviço.",
+        "es": "[Caballero Armado]\nCreo que es correcto que nosotros nos sacrifiquemos para que otros puedan dedicarse a sus actividades de servicio."
+    },
+    "fz5+DA": {
+        "ko": "[무장의 기사]\n그리하여 이 나라에 영구적인 평화가 찾아오고 전투가 필요없게 되는 날이 오면.. 그 때부터 잃었던 것들을 만회하면 되지 않을까요?",
+        "en": "[Knight of Armament]\nAnd when permanent peace comes to this land, and the day arrives when battle is no longer needed... Wouldn't that be the time to make up for what we've lost?",
+        "pt": "[Cavaleiro Armado]\nAssim, quando a paz duradoura chegar a este país e chegar o dia em que não haja mais necessidade de batalhas... não será que, a partir daí, poderemos recuperar o que perdemos?",
+        "es": "[Caballero Armado]\nY así, cuando llegue el día en que la paz permanente se instale en este país y ya no haya necesidad de luchar... ¿no podríamos recuperar entonces lo que hemos perdido?"
+    },
+    "gD5+DA": {
+        "ko": "[무장의 기사]\n곧 진정한 강자를 판별하기 위한 대결의 장이 마련된다고 합니다.",
+        "en": "[Knight of Armament]\nIt is said that an arena for determining the true strong will soon be prepared.",
+        "pt": "[Cavaleiro Armado]\nDizem que em breve será preparada uma arena de confronto para determinar quem é o verdadeiro forte.",
+        "es": "[Caballero Armado]\nDicen que pronto se preparará un escenario de enfrentamiento para determinar quién es el verdadero fuerte."
+    },
+    "gT5+DA": {
+        "ko": "[무장의 기사]\n저의 의지를 관철시킬 수 있는 좋은 기회입니다.",
+        "en": "[Knight of Arms]\nThis is a good opportunity to assert my will.",
+        "pt": "[Cavaleiro Armado]\nÉ uma ótima oportunidade para mostrar minha determinação.",
+        "es": "[Caballero Armado]\nEs una buena oportunidad para hacer valer mi voluntad."
+    },
+    "gj5+DA": {
+        "ko": "[무장의 기사]\n강력한 괴물들로부터 위협받는 현재의 시점에서는 무엇보다도 물리적인 강함이 우선시되어야 합니다.",
+        "en": "[Knight of Armament]\nAt this moment, threatened by powerful monsters, physical strength must be prioritized above all else.",
+        "pt": "[Cavaleiro Armado]\nNeste momento, em que somos ameaçados por monstros poderosos, a força física deve ser priorizada acima de tudo.",
+        "es": "[Caballero Armado]\nEn este momento, en el que nos amenazan poderosos monstruos, la fuerza física debe ser lo primero."
+    },
+    "gz5+DA": {
+        "ko": "[무장의 기사]\n모두가 보는 앞에서 그것을 보여드릴 생각입니다.",
+        "en": "[Knight of Armament]\nI intend to show it to you in front of everyone.",
+        "pt": "[Cavaleiro Armado]\nPretendo demonstrar isso diante de todos.",
+        "es": "[Caballero Armado]\nPienso demostrarlo ante todos."
+    },
+    "hD5+DA": {
+        "ko": "[무장의 기사]\n그렇다면 당신의 생각은 무엇인가요?",
+        "en": "[Knight of Armament]\nThen what are your thoughts?",
+        "pt": "[Cavaleiro Armado]\nEntão, qual é a tua opinião?",
+        "es": "[Caballero Armado]\nEntonces, ¿qué opinas tú?"
+    },
+    "hT5+DA": {
+        "ko": "[무장의 기사]\n강력한 장비와 뛰어난 검술이 우선이십니까, 아니면 신을 섬기는 마음과 왕에 대한 충성심이 우선이십니까?",
+        "en": "[Knight of Armament]\nIs powerful equipment and exceptional swordsmanship your priority, or is devotion to the gods and loyalty to the king your priority?",
+        "pt": "[Cavaleiro Armado]\nPriorizas equipamentos poderosos e uma esgrima excepcional, ou a devoção a Deus e a lealdade ao rei?",
+        "es": "[El Caballero Armado]\n¿Son más importantes un equipo poderoso y una esgrima excepcional, o el corazón que sirve a los dioses y la lealtad al rey?"
+    },
+    "hj5+DA": {
+        "ko": "[무장의 기사]\n신중하게 생각하고 답변하셔야 하는 부분입니다.",
+        "en": "[Knight of Armament]\nThis is a matter that requires careful consideration and response.",
+        "pt": "[Cavaleiro de Armas]\nÉ algo que você deve pensar com cuidado antes de responder.",
+        "es": "[Caballero Armado]\nEs algo que debes pensar con cuidado antes de responder."
+    },
+    "hz5+DA": {
+        "ko": "[무장의 기사]\n말씀하신 뜻이 당신의 정의가 확실합니까?",
+        "en": "[Knight of Armament]\nAre you certain your definition is correct?",
+        "pt": "[Cavaleiro Armado]\nTens certeza de que o que disseste reflete a tua justiça?",
+        "es": "[Caballero Armado]\n¿Estás seguro de que lo que acabas de decir es tu definición de justicia?"
+    },
+    "iD5+DA": {
+        "ko": "[무장의 기사]\n역시 그렇습니까.",
+        "en": "[Knight of Armament]\nI see.",
+        "pt": "[Cavaleiro de Armas]\nComo eu imaginava.",
+        "es": "[Caballero Armado]\n¿Así es, entonces?"
+    },
+    "iT5+DA": {
+        "ko": "[무장의 기사]\n당신을 처음 봤을 때, 저와 같은 부류의 기사라는 것을 느낄 수 있었습니다.",
+        "en": "[Knight of Armament]\nWhen I first saw you, I could sense you were a knight of the same kind as me.",
+        "pt": "[Cavaleiro Armado]\nQuando te vi pela primeira vez, percebi que eras um cavaleiro do mesmo tipo que eu.",
+        "es": "[Caballero Armado]\nCuando te vi por primera vez, sentí que eras un caballero de mi misma clase."
+    },
+    "ij5+DA": {
+        "ko": "[무장의 기사]\n뜻이 같은 자를 만나서 정말 기쁘군요.",
+        "en": "[Knight of Armament]\nIt truly delights me to meet one who shares my purpose.",
+        "pt": "[Cavaleiro do Exército]\nFico muito feliz por encontrar alguém que pensa como eu.",
+        "es": "[Caballero del Ejército]\nMe alegra mucho encontrar a alguien que piensa igual que yo."
+    },
+    "iz5+DA": {
+        "ko": "[무장의 기사]\n당신도 대결의 장에 참가하시나요? 어쩌면 결투장에서 만날 수 있을지도 모르겠군요.",
+        "en": "[Knight of Armament]\nAre you participating in the combat arena? Perhaps we'll meet as opponents in the combat ring.",
+        "pt": "[Cavaleiro Armado]\nVocê também vai participar do torneio? Talvez a gente se encontre na arena de duelos.",
+        "es": "[Caballero Armado]\n¿También vas a participar en el torneo? Quizás nos veamos en la arena de combate."
+    },
+    "jD5+DA": {
+        "ko": "[무장의 기사]\n반가웠습니다, 그럼 조심히 들어가십시오.",
+        "en": "[Knight of Armament]\nIt was a pleasure. Now, proceed with caution.",
+        "pt": "[Cavaleiro Armado]\nFoi um prazer conhecê-lo. Então, tenha cuidado ao entrar.",
+        "es": "[Caballero Armado]\nHa sido un placer conocerte. Bueno, entra con cuidado."
+    },
+    "jT5+DA": {
+        "ko": "[무장의 기사]\n깊이 생각해 보신 후에 다시 답변을 부탁드립니다.",
+        "en": "[Knight of Armament]\nPlease think deeply and give me your answer again.",
+        "pt": "[Cavaleiro Armado]\nPensa bem e depois me dá uma resposta.",
+        "es": "[Caballero Armado]\nPiensa bien en ello y luego me das tu respuesta."
+    },
+    "jj5+DA": {
+        "ko": "[무장의 기사]\n그렇군요...",
+        "en": "[Knight of Armament]\nI see...",
+        "pt": "[Cavaleiro Armado]\nEntendo...",
+        "es": "[Caballero Armado]\nYa veo..."
+    },
+    "jz5+DA": {
+        "ko": "[무장의 기사]\n당신이라면 저와 뜻이 같을 거라고 생각했는데...",
+        "en": "[Knight of Armament]\nI thought you would share my views...",
+        "pt": "[Cavaleiro Armado]\nAchei que, sendo você, teria a mesma opinião que eu...",
+        "es": "[Caballero Armado]\nPensé que tú compartirías mi opinión..."
+    },
+    "kD5+DA": {
+        "ko": "[무장의 기사]\n당신도 결투에 참가하시는건가요?",
+        "en": "[Knight of the Armor]\nAre you participating in the duel as well?",
+        "pt": "[Cavaleiro Armado]\nVocê também vai participar do duelo?",
+        "es": "[Caballero Armado]\n¿Tú también vas a participar en el duelo?"
+    },
+    "kT5+DA": {
+        "ko": "[무장의 기사]\n어쩌면 결투 상대로 만나게 될 지도 모르겠네요.",
+        "en": "[Knight of Arms]\nPerhaps we'll meet as duel opponents.",
+        "pt": "[Cavaleiro Armado]\nTalvez a gente acabe se encontrando como adversários no duelo.",
+        "es": "[Caballero Armado]\nQuizás nos encontremos como rivales en el duelo."
+    },
+    "kj5+DA": {
+        "ko": "[무장의 기사]\n만나게 된다면 절대로 지지 않겠습니다.",
+        "en": "[Knight of the Armor]\nIf we do meet, I will never lose.",
+        "pt": "[Cavaleiro Armado]\nSe isso acontecer, não vou perder de jeito nenhum.",
+        "es": "[Caballero Armado]\nSi nos encontramos, no voy a perder de ninguna manera."
+    },
+    "kz5+DA": {
+        "ko": "[무장의 기사]\n그럼 조심히 들어가세요.",
+        "en": "[Knight of Arms]\nThen proceed with caution.",
+        "pt": "[Cavaleiro Armado]\nEntão, vai com cuidado.",
+        "es": "[Caballero Armado]\nBueno, entonces, ten cuidado al entrar."
+    },
+    "lD5+DA": {
+        "ko": "[무장의 기사]\n좋은 하루 되시길.",
+        "en": "[Knight of the Armor]\nHave a good day.",
+        "pt": "[Cavaleiro Armado]\nTenha um bom dia.",
+        "es": "[Caballero Armado]\nQue tengas un buen día."
+    }
+}

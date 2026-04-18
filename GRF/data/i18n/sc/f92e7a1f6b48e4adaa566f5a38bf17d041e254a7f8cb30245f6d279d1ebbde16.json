@@ -8,122 +8,122 @@
     "QUhbCA": {
         "ko": "[시에라]\n안녕하세요, 저는 시에라, 시에라 모리스입니다.\n추후 다시 뵐 수 있겠다는 예감이 드는군요.",
         "en": "[Sierra]\nHello, I am Sierra, Sierra Morris.\nI have a feeling we will meet again in the future.",
-        "pt": "[Sierra]\nOlá, eu sou Sierra, Sierra Morris.\nTenho a sensação de que voltaremos a nos encontrar no futuro.",
+        "pt": "[Sierra]\nOlá, eu sou Sierra. Sierra Morris.\nEu tenho a sensação que um dia eu te verei novamente.",
         "es": "[Sierra]\nHola, soy Sierra, Sierra Morris.\nTengo el presentimiento de que volveremos a vernos."
     },
     "QkhbCA": {
         "ko": "- 170레벨 이상 수행 가능한 퀘스트입니다 -",
         "en": "- This quest can be performed at level 170 or above -",
-        "pt": "- Esta é uma missão que pode ser realizada a partir do nível 170 -",
+        "pt": "- Missão para níveis 170 ou mais. -",
         "es": "- Esta es una misión disponible a partir del nivel 170 -"
     },
     "Q0hbCA": {
         "ko": "[시에라]\n생각이 바뀌셨습니까?\n저희와 계약해 버추얼 레코드 해석에 참가하시겠습니까?",
         "en": "[Sierra]\nHave you changed your mind?\nWill you sign a contract with us and participate in the interpretation of Virtual Record?",
-        "pt": "[Sierra]\nMudou de ideia?\nGostaria de firmar um contrato conosco e participar da interpretação de Registro Virtual?",
+        "pt": "[Sierra]\nVocê mudou de ideia?\nDeseja assinar um contrato conosco e se juntar à Expedição Virtual ao Biolaboratório?",
         "es": "[Sierra]\n¿Ha cambiado de idea?\n¿Le gustaría firmar un contrato con nosotros y participar en la interpretación de Registro virtual?"
     },
     "REhbCA": {
         "ko": "계약 하지요 뭐.",
         "en": "I suppose I'll sign the contract.",
-        "pt": "Suponho que sim.",
+        "pt": "Aceito.",
         "es": "Supongo que aceptaré el contrato."
     },
     "RUhbCA": {
         "ko": "영 마음이 찜찜한데.",
         "en": "I have a bad feeling about this.",
-        "pt": "Estou com um pé atrás.",
+        "pt": "Não sei...",
         "es": "No me da muy buena espina."
     },
     "RkhbCA": {
         "ko": "[시에라]\n좋습니다. 그럼 여기 약관 동의서에 서명해 주세요.",
         "en": "[Sierra]\nVery well. Then please sign this terms and conditions agreement.",
-        "pt": "[Sierra]\nÓtimo. Então, por favor, assine este termo de consentimento.",
+        "pt": "[Sierra]\nExcelente! Assine os termos aqui.",
         "es": "[Sierra]\nMuy bien. Entonces, firme aquí este consentimiento de términos y condiciones."
     },
     "R0hbCA": {
         "ko": "글씨가 너무 작은데요?!",
         "en": "The print is too small?!",
-        "pt": "A letra está pequena demais?!",
+        "pt": "Não consigo ler as letras pequeninas!",
         "es": "¡¿La letra es demasiado pequeña?!"
     },
     "SEhbCA": {
         "ko": "[시에라]\n그냥 여기랑 여기 서명하시면 됩니다. ^FF0000음주나 흡연 하시나요? 신체는 건강하시겠지요?^000000",
         "en": "[Sierra]\nJust sign here and here. ^FF0000You do drink or smoke, don't you? And your body is in good health, I trust?^000000",
-        "pt": "[Sierra]\nBasta assinar aqui e aqui. ^FF0000Você bebe ou fuma? Seu corpo está saudável, imagino?^000000",
-        "es": "[Sierra]\nSolo tiene que firmar aquí y aquí. ^FF0000¿Bebe o fuma? Su salud física es buena, ¿verdad?^000000"
+        "pt": "[Sierra]\nSó assine aqui e aqui. ^FF0000Você é usuário de entorpecentes? Você tem alguma comorbidade?^000000",
+        "es": "[Sierra]\nSolo tiene que firmar aquí y aquí. \n^FF0000¿Bebe o fuma? Su salud física es buena, ¿verdad?^000000"
     },
     "SUhbCA": {
         "ko": "무서워, 서명 안 합니다!",
         "en": "This is scary, I'm not signing!",
-        "pt": "Que medo, não vou assinar!",
+        "pt": "Assim você me assusta... não quero mais assinar!",
         "es": "¡Qué miedo, no voy a firmar!"
     },
     "SkhbCA": {
         "ko": "[시에라]\n농담입니다.\n파티를 결성한 뒤 오시면 레코드 해석에 대해 설명해 드리겠습니다.",
         "en": "[Sierra]\nI'm joking.\nCome back after forming a party, and I will explain the record interpretation to you.",
-        "pt": "[Sierra]\nEstou brincando.\nForme um grupo e venha falar comigo, então explicarei sobre a interpretação do registro.",
+        "pt": "[Sierra]\nSó estou brincando.\nPor favor, volte em um grupo formado para eu explicar a Expedição Virtual a você.",
         "es": "[Sierra]\nEra una broma.\nVenga después de formar un grupo y le explicaré cómo funciona la interpretación del registro."
     },
     "S0hbCA": {
         "ko": "나이너: ……어딘가의 평행우주에서는 시에라 씨도 레겐쉬름의 불법 연구자가 되어 있겠어.",
         "en": "Niner: …In some parallel universe somewhere, Ms. Sierra would have become an illegal researcher of Regenschirm too.",
-        "pt": "Niner: ……Em algum universo paralelo, a Srta. Sierra também deve ter virado uma pesquisadora ilegal de Regenschirm.",
+        "pt": "Nina: Não duvido nada que você seja infiltrada da Rekenber, Sierra.",
         "es": "Niner: ……En algún universo paralelo, la señorita Sierra también será una investigadora ilegal de Regenschirm."
     },
     "TEhbCA": {
         "ko": "시에라: 실례의 말씀.",
         "en": "Sierra: How rude.",
-        "pt": "Sierra: Que comentário indelicado.",
+        "pt": "Sierra: Vou tomar isso como uma ofensa.",
         "es": "Sierra: Qué comentario tan improcedente."
     },
     "TUhbCA": {
         "ko": "[시에라]\n마법소녀가 되는 계약이 아니니 위험할 일도 없지 않습니까.",
         "en": "[Sierra]\nIt is not a contract to become a magical girl, so there is nothing dangerous about it.",
-        "pt": "[Sierra]\nNão é um contrato para virar garota mágica, então não há nada de perigoso, não é mesmo?",
+        "pt": "[Sierra]\nQual a sua preocupação? Esse contrato não vai te transformar em nenhuma Garota Mágica. Eu prometo.",
         "es": "[Sierra]\nNo es un contrato para convertirse en chica mágica, así que no hay nada peligroso en ello."
     },
     "TkhbCA": {
         "ko": "아니, 시킬 거라면서요!",
         "en": "No, you said you were going to make me!",
-        "pt": "Não, mas você disse que vai me fazer virar!",
+        "pt": "Mas você disse que iria!",
         "es": "¡Pero acaba de decir que me haría hacerlo!"
     },
     "T0hbCA": {
         "ko": "마법소녀라니 그게 뭐지요?",
         "en": "A magical girl? What is that?",
-        "pt": "Garota mágica? O que é isso?",
+        "pt": "Garota Mágica? Como assim?",
         "es": "¿Chica mágica? ¿Qué es eso?"
     },
     "UEhbCA": {
         "ko": "[시에라]\n당신이라면 할 수 있으리라고 생각하니까요.\n생각이 바뀌어 버추얼 레코드 해석에 지원하고 싶어지면 말씀해 주세요.",
         "en": "[Sierra]\nBecause I believe you can do it.\nIf you change your mind and wish to apply for the interpretation of Virtual Record, please let me know.",
-        "pt": "[Sierra]\nÉ porque acredito que você consegue.\nSe mudar de ideia e quiser se candidatar à interpretação de Registro Virtual, avise-me.",
+        "pt": "[Sierra]\nEu imagino que você consegue.\nSe mudar de ideia e quiser fazer a Expedição Virtual, me avise.",
         "es": "[Sierra]\nPorque creo que usted sería capaz.\nSi cambia de idea y quiere solicitar participar en la interpretación de Registro virtual, dígamelo."
     },
     "UUhbCA": {
         "ko": "[시에라]\n매우 위험한 전설의 계약이라고 합니다.\n생각이 바뀌어 버추얼 레코드 해석에 지원하고 싶어지면 말씀해 주세요.",
         "en": "[Sierra]\nI hear it is a highly dangerous legendary contract.\nIf you change your mind and wish to apply for the interpretation of Virtual Record, please let me know.",
-        "pt": "[Sierra]\nDizem que é um contrato lendário extremamente perigoso.\nSe mudar de ideia e quiser se candidatar à interpretação de Registro Virtual, avise-me.",
+        "pt": "[Sierra]\nA lenda conta que esse é um contrato muito perigoso.\nSe mudar de ideia e quiser fazer a Expedição Virtual, me avise.",
         "es": "[Sierra]\nDicen que es un contrato legendario extremadamente peligroso.\nSi cambia de idea y quiere solicitar participar en la interpretación de Registro virtual, dígamelo."
     },
     "UkhbCA": {
         "ko": "[시에라]\n안녕하세요, 저는 시에라, 시에라 모리스입니다.\n{0} 님. 이야기는 많이 들었습니다.",
         "en": "[Sierra]\nHello, I am Sierra, Sierra Morris.\n{0}. I have heard a great deal about you.",
-        "pt": "[Sierra]\nOlá, eu sou Sierra, Sierra Morris.\nSr. {0}. Ouvi muito a seu respeito.",
+        "pt": "[Sierra]\nOlá, eu sou Sierra. Sierra Morris.\nEu já ouvi falarem muito de você, {0}.",
         "es": "[Sierra]\nHola, soy Sierra, Sierra Morris.\n{0}. He oído hablar mucho de usted."
     },
     "U0hbCA": {
         "ko": "[시에라]\n이쪽은 레켄베르의 통신 담당자 나이너입니다.",
         "en": "[Sierra]\nThis is Niner, the communications officer from Rekenber.",
-        "pt": "[Sierra]\nEste aqui é Niner, o operador de comunicações de Rekenber.",
+        "pt": "[Sierra]\nEssa é Nina, uma porta-voz da Rekenber.",
         "es": "[Sierra]\nEsta es Niner, encargada de comunicaciones de Rekenber."
     },
     "VEhbCA": {
         "ko": "나이너: 안녕하세요, 처음 뵙겠습냐다!",
         "en": "Niner: Hello, pleased to meetcha for the first time!",
-        "pt": "Niner: Olá, é um prazer conhecê-lo pela primeiríssima vez!",
-        "es": "Niner: ¡Hola, encantada de conocerl@!"
+        "pt": "Nina: Olá. Prazer em conhecer.",
+        "es": "Niner: ¡Hola, me alegro de conocerte por primera vez!"
     },
     "VUhbCA": {
         "ko": "저를 알고 계십니까?",
@@ -134,127 +134,127 @@
     "VkhbCA": {
         "ko": "[시에라]\n물론입니다. 레이지와 필로폰테스와 함께 일하셨지요?\n저 역시 ^0000CD비밀의 날개^000000 소속 연구원입니다.",
         "en": "[Sierra]\nOf course. You worked with Rage and Philopontes, did you not?\nI, too, am a researcher affiliated with ^0000CDSecret Wings^000000.",
-        "pt": "[Sierra]\nClaro. Você trabalhou junto com Rage e Philopontes, não foi?\nEu também sou pesquisadora afiliada a ^0000CDAsas Secretas^000000.",
-        "es": "[Sierra]\nPor supuesto. Trabajó junto con Rage y Philopontes, ¿verdad?\nYo también soy investigadora de ^0000CDAlas secretas^000000."
+        "pt": "[Sierra]\nÉ claro. Você trabalhou para o Nalandro e Tess, não é?\nEu sou da ^0000CDVento Secreto^000000 também.",
+        "es": "[Sierra]\nPor supuesto. \nTrabajó junto con Rage y Philopontes, ¿verdad?\nYo también soy investigadora de ^0000CDAlas secretas^000000."
     },
     "V0hbCA": {
         "ko": "시에라: 개성 강한 요원들과 일하느라 고생 많으셨습니다.",
         "en": "Sierra: You must have had quite a hard time working with such strong-willed agents.",
-        "pt": "Sierra: Deve ter passado por muitos apuros trabalhando com agentes de personalidade tão forte.",
+        "pt": "Sierra: Eu imagino a dificuldade de trabalhar Nalandro.",
         "es": "Sierra: Ha debido de ser difícil trabajar con agentes de una personalidad tan fuerte."
     },
     "WEhbCA": {
         "ko": "[시에라]\n둘다 모험가님을 무척 좋게 본 모양이더군요.\n제가 협력자를 찾고 있을 때, 그 두 사람이 같은 인물을 소개해 준 건 처음이거든요.",
         "en": "[Sierra]\nIt seems they both thought very highly of you.\nIt was the first time those two introduced the same person when I was looking for a collaborator.",
-        "pt": "[Sierra]\nPelo visto, os dois tiveram uma impressão muito boa do aventureiro.\nFoi a primeira vez que essas duas pessoas me recomendaram a mesma pessoa quando eu estava procurando um colaborador.",
+        "pt": "[Sierra]\nOs meninos me falaram muito bem de você.\nQuando pedi uma recomendação à eles, ambos citaram seu nome ao mesmo tempo.",
         "es": "[Sierra]\nParece que ambos tenían una opinión muy favorable de usted.\nEs la primera vez que esas dos personas me recomiendan al mismo individuo cuando busco un colaborador."
     },
     "WUhbCA": {
         "ko": "[시에라]\n물론입니다. 레이지를 만나셨지요?\n저 역시 ^0000CD비밀의 날개^000000 소속 연구원입니다.",
         "en": "[Sierra]\nOf course. You met Rage, did you not?\nI, too, am a researcher affiliated with ^0000CDSecret Wings^000000.",
-        "pt": "[Sierra]\nClaro. Você conheceu Rage, não foi?\nEu também sou pesquisadora afiliada a ^0000CDAsas Secretas^000000.",
-        "es": "[Sierra]\nPor supuesto. Se reunió con Rage, ¿verdad?\nYo también soy investigadora de ^0000CDAlas secretas^000000."
+        "pt": "[Sierra]\nÉ claro. Você não é colega de Nalandro?\nEu sou da ^0000CDVento Secreto^000000 também.",
+        "es": "[Sierra]\nPor supuesto. \nSe reunió con Rage, ¿verdad?\nYo también soy investigadora de ^0000CDAlas secretas^000000."
     },
     "WkhbCA": {
         "ko": "시에라: 개성 강한 요원과 일하느라 고생 많으셨습니다.",
         "en": "Sierra: You must have had quite a hard time working with such a strong-willed agent.",
-        "pt": "Sierra: Deve ter passado por muitos apuros trabalhando com um agente de personalidade tão forte.",
+        "pt": "Sierra: Eu imagino a dificuldade de trabalhar Nalandro.",
         "es": "Sierra: Ha debido de ser difícil trabajar con un agente de una personalidad tan fuerte."
     },
     "W0hbCA": {
         "ko": "[시에라]\n레이지가 모험가님을 좋게 본 모양이더군요.\n제게 협력자를 소개하면서 그렇게 칭찬을 한 적은 처음이거든요.",
         "en": "[Sierra]\nIt seems Rage thought highly of you.\nIt was the first time he praised someone so much while introducing a collaborator to me.",
-        "pt": "[Sierra]\nPelo visto, Rage teve uma impressão muito boa do aventureiro.\nFoi a primeira vez que ele elogiou tanto alguém ao me apresentar um colaborador.",
+        "pt": "[Sierra]\nEle parece ter um apreço com você.\nNunca o vi falar tão bem de uma pessoa.",
         "es": "[Sierra]\nParece que Rage tenía una opinión muy favorable de usted.\nEs la primera vez que me recomienda a un colaborador elogiándolo de esa manera."
     },
     "XEhbCA": {
         "ko": "[시에라]\n예전 갈슈타인과 함께 일하신 적이 있으시겠지요.\n저 역시 ^0000CD비밀의 날개^000000 소속 연구원입니다.",
         "en": "[Sierra]\nYou must have worked with Galstein before.\nI, too, am a researcher affiliated with ^0000CDSecret Wings^000000.",
-        "pt": "[Sierra]\nImagino que já tenha trabalhado com Galstein antes.\nEu também sou pesquisadora afiliada a ^0000CDAsas Secretas^000000.",
+        "pt": "[Sierra]\nVocê já trabalhou para Ghalstein, não é?\nEu sou da ^0000CDVento Secreto^000000 também.",
         "es": "[Sierra]\nSupongo que en el pasado trabajó con Galstein.\nYo también soy investigadora de ^0000CDAlas secretas^000000."
     },
     "XUhbCA": {
         "ko": "[시에라]\n여러 가지 일이 있었습니다만 대통령 각하께서는 {0} 님을 좋게 보신 듯합니다.",
         "en": "[Sierra]\nMany things have happened, but it seems His Excellency the President thinks highly of {0}.",
-        "pt": "[Sierra]\nMuita coisa aconteceu, mas parece que Sua Excelência, o Presidente, tem uma boa opinião sobre o Sr. {0}.",
+        "pt": "[Sierra]\nMuitas coisas aconteceram desde então, e o Presidente ficou impressionado com você, {0}.",
         "es": "[Sierra]\nHan ocurrido muchas cosas, pero parece que Su Excelencia el Presidente tiene una buena opinión de {0}."
     },
     "XkhbCA": {
         "ko": "[시에라]\n다양한 곳에서 많은 업적을 쌓아 오시지 않았습니까?\n저 같은 사람이 모르기는 어렵지요.",
         "en": "[Sierra]\nHave you not built up many achievements in various places?\nIt would be difficult for someone like me not to know.",
-        "pt": "[Sierra]\nVocê não conquistou inúmeras realizações nos mais diversos lugares?\nNão é fácil para alguém como eu não saber disso.",
+        "pt": "[Sierra]\nVocê fez coisas extraordinárias que aumentaram sua fama.\nÉ impossível não te reconhecer.",
         "es": "[Sierra]\n¿Acaso no ha acumulado grandes logros en muchos lugares?\nA alguien como yo le sería difícil no saberlo."
     },
     "X0hbCA": {
         "ko": "[시에라]\n저는 슈발츠발드 공화국 대통령 직속 기관 ^0000CD비밀의 날개^000000 소속 연구원입니다.\n이번 일을 위해 많은 사람을 물색했습니다만, 분석 결과 {0} 님만큼 적합한 사람이 없었습니다.",
         "en": "[Sierra]\nI am a researcher affiliated with ^0000CDSecret Wings^000000, an organization directly under the President of the Republic of Schwarzwald.\nWe searched many people for this matter, but the analysis showed that no one was as suitable as {0}.",
-        "pt": "[Sierra]\nSou pesquisadora da ^0000CDAsas Secretas^000000, uma organização subordinada diretamente ao Presidente da República de Schwartzvald.\nProcuramos muitas pessoas para este trabalho, mas os resultados da análise mostraram que ninguém era tão adequado quanto o Sr. {0}.",
+        "pt": "[Sierra]\nEu sou uma pesquisadora da ^0000CDVento Secreto^000000, uma organização comandada pelo Presidente da República de Schwartzwald.\nDe todas as pessoas que entrevistei e pesquisei, você era a melhor escolha, {0}.",
         "es": "[Sierra]\nSoy investigadora de ^0000CDAlas secretas^000000, una agencia subordinada directamente al Presidente de la República de Schwartzvald.\nHe buscado a muchas personas para este asunto, pero según los análisis no hay nadie tan adecuado como {0}."
     },
     "YEhbCA": {
         "ko": "[시에라]\n믿음직한 분이 와 주셔서 기쁩니다.\n의뢰에 대해 설명해 드리지요.",
         "en": "[Sierra]\nI am glad a dependable person has come.\nLet me explain the request.",
-        "pt": "[Sierra]\nFico feliz que alguém tão confiável tenha vindo.\nVou lhe explicar sobre a solicitação.",
+        "pt": "[Sierra]\nEu estou muito feliz que você está aqui.\nDeixe-me explicar o projeto para você.",
         "es": "[Sierra]\nMe alegra que haya venido alguien tan fiable.\nPermítame explicarle el encargo."
     },
     "YUhbCA": {
         "ko": "[시에라]\n비밀의 날개는 대통령을 위해 일하는 ^0000CD비밀 정보기관^000000입니다.\n지금, 정보기관치고 너무 쉽게 정체를 밝히고 있지 않은지 생각하셨지요?",
         "en": "[Sierra]\nSecret Wings is a ^0000CDsecret intelligence agency^000000 that works for the President.\nYou are thinking that, for an intelligence agency, I am revealing my identity rather too easily right now, are you not?",
-        "pt": "[Sierra]\nA Asas Secretas é uma ^0000CDagência secreta de inteligência^000000 que trabalha para o Presidente.\nVocê deve estar pensando que, para uma agência de inteligência, estou revelando minha identidade com facilidade demais, não está?",
+        "pt": "[Sierra]\nA Vento Secreto é uma ^0000CDAgência Secreta de Investigação^000000 que trabalha para o Presidente.\nAgora você deve estar pensando que falar isso abertamente não parece ser tão secreto assim.",
         "es": "[Sierra]\nAlas secretas es una ^0000CDagencia secreta de inteligencia^000000 que trabaja para el Presidente.\nAhora mismo estará pensando que, para ser una agencia de inteligencia, revelamos nuestra identidad con demasiada facilidad, ¿verdad?"
     },
     "YkhbCA": {
         "ko": "[시에라]\n제가 이렇게 모습을 드러내기 전에는 {0} 님 생각보다 많은 고려가 있었답니다.",
         "en": "[Sierra]\nBefore I revealed myself like this, there were more considerations than you might think, {0}.",
-        "pt": "[Sierra]\nAntes de eu me apresentar assim, houve muito mais consideração do que o Sr. {0} imagina.",
+        "pt": "[Sierra]\nMuitas coisas foram levadas em consideração para informar isso para você, {0}.",
         "es": "[Sierra]\nAntes de presentarme así ante usted, hubo más consideraciones de las que imagina, {0}."
     },
     "Y0hbCA": {
         "ko": "[시에라]\n저희는 상상할 수 없는 권력을 휘두르는 기업에 맞서 공화정과 대통령을 지키기 위해 정보를 다루었지요.",
         "en": "[Sierra]\nWe handled information to protect the republic and the President against corporations wielding unimaginable power.",
-        "pt": "[Sierra]\nNós lidávamos com informações para proteger a república e o presidente contra corporações que exerciam um poder inimaginável.",
+        "pt": "[Sierra]\nNós, da Vento Secreto, costumávamos coletar informações da Corporação para proteger o Presidente e a República.",
         "es": "[Sierra]\nNos ocupábamos de la información para proteger la república y al Presidente frente a corporaciones que ejercían un poder inimaginable."
     },
     "ZEhbCA": {
         "ko": "[시에라]\n몇몇 사건으로 인해 그 행보가 변화하기 전까지는 말입니다.",
         "en": "[Sierra]\nThat was before our course changed due to several incidents.",
-        "pt": "[Sierra]\nPelo menos até que alguns incidentes mudassem esse rumo.",
+        "pt": "[Sierra]\nPorém, nossos objetivos mudaram por conta de alguns acontecimentos recentes.",
         "es": "[Sierra]\nAl menos, hasta que varios incidentes cambiaron nuestro rumbo."
     },
     "ZUhbCA": {
         "ko": "[시에라]\n저희는 기업과 협력하여 공동의 적을 쫒고 있습니다.\n기업 부설 연구소인 ^0000CD레겐쉬름^000000에서 ^0000CD불법 연구^000000를 자행하던 자들입니다.",
         "en": "[Sierra]\nWe are cooperating with corporations to pursue a common enemy.\nThey are the ones who carried out ^0000CDillegal research^000000 at the corporate-affiliated laboratory, ^0000CDRegenschirm^000000.",
-        "pt": "[Sierra]\nEstamos cooperando com as corporações para perseguir um inimigo em comum.\nSão aqueles que conduziam ^0000CDpesquisas ilegais^000000 no instituto de pesquisa corporativo ^0000CDRegenschirm^000000.",
+        "pt": "[Sierra]\nAgora, nós estamos trabalhando junto com a Corporação para lutar contra um inimigo em comum.\nSão pessoas que conduziram uma ^0000CDpesquisa ilegal^000000 no laboratório afiliado, ^0000CDRegenschirm^000000.",
         "es": "[Sierra]\nAhora colaboramos con las corporaciones para perseguir a un enemigo común.\nAquellos que llevaban a cabo ^0000CDinvestigaciones ilegales^000000 en ^0000CDRegenschirm^000000, un laboratorio afiliado a una corporación."
     },
     "ZkhbCA": {
         "ko": "[시에라]\n기업과 리벨리온, 정부가 손을 잡다니 예전이라면 상상할 수 없는 일이지요.\n그러나 시대가 변하고 있습니다.",
         "en": "[Sierra]\nA corporation, Rebellion, and the government joining hands would have been unimaginable in the past.\nHowever, times are changing.",
-        "pt": "[Sierra]\nVer corporações, Rebellion e o governo unindo forças seria algo impensável no passado.\nMas os tempos estão mudando.",
+        "pt": "[Sierra]\nA Corporação, a Rebelião e o Governo estão trabalhando juntos agora.\nIsso era algo inimaginável antes, mas agora tudo mudou.",
         "es": "[Sierra]\nQue una corporación, Rebellion y el gobierno unan fuerzas era algo impensable en otros tiempos.\nPero los tiempos están cambiando."
     },
     "Z0hbCA": {
         "ko": "[시에라]\n이 변화의 큰 파도에 {0} 님께서도 큰 힘을 보태셨지요.\n비밀의 날개 일원으로서 존경하고 있습니다.",
         "en": "[Sierra]\nYou, too, have greatly contributed to this great wave of change, {0}.\nAs a member of Secret Wings, I respect you.",
-        "pt": "[Sierra]\nE o Sr. {0} também contribuiu enormemente para essa grande onda de mudanças.\nComo membro de Asas Secretas, eu o respeito por isso.",
+        "pt": "[Sierra]\nVocê é parte importante dessa mudança, {0}.\nComo agente da Vento Secreto, eu admiro você.",
         "es": "[Sierra]\nUsted también ha contribuido enormemente a esta gran ola de cambios, {0}.\nComo miembro de Alas secretas, le profeso mi respeto."
     },
     "aEhbCA": {
         "ko": "[시에라]\n기업의 협력으로 조사단을 꾸린 저희는 기업의 눈을 피해 설립된 불법 연구소들을 파헤치는 중입니다.\n도중, 리히타르젠의 ^0000CD생체실험 연구소^000000에서 새로운 사실을 발견했지요.",
         "en": "[Sierra]\nWith the cooperation of corporations, we formed an investigation team and are uncovering illegal laboratories established beyond the eyes of the corporations.\nDuring that process, we discovered something new in the ^0000CDSomatology Laboratory^000000 of Lighthalzen.",
-        "pt": "[Sierra]\nCom a cooperação das corporações, formamos uma equipe de investigação e estamos desvendando laboratórios ilegais estabelecidos fora do alcance dos olhos corporativos.\nNo processo, descobrimos um novo fato no ^0000CDLaboratório de Experimentos Biológicos^000000, em Lighthalzen.",
+        "pt": "[Sierra]\nCom a ajuda da Corporação, organizamos um grupo de investigação para analisar o laboratório ilegal feito com dinheiro desviado.\nEntão, nós descobrimos um ^0000CDBiolaboratório^000000 em Lighthalzen.",
         "es": "[Sierra]\nCon la cooperación de las corporaciones hemos formado un equipo de investigación y estamos sacando a la luz laboratorios ilegales establecidos al margen de sus ojos.\nEn el proceso, descubrimos un nuevo hecho en el ^0000CDLaboratorio de Investigación Biológica^000000 de Lighthalzen."
     },
     "aUhbCA": {
         "ko": "[시에라]\n생체실험 연구소의 진입 가능 구역 아래, 완전히 매몰되어 진입할 수 없는 지하층의 존재입니다.",
         "en": "[Sierra]\nBeneath the accessible area of Somatology Laboratory, there exists a completely buried underground floor that cannot be entered.",
-        "pt": "[Sierra]\nA existência de um andar subterrâneo abaixo da área acessível de Laboratório de Experimentos Biológicos, completamente soterrado e impossível de acessar.",
+        "pt": "[Sierra]\nUm porão embaixo do Biolaboratório com entrada completamente bloqueada.",
         "es": "[Sierra]\nSe trata de la existencia de una planta subterránea, completamente sepultada e inaccesible, bajo la zona a la que se puede entrar del Laboratorio de Investigación Biológica."
     },
     "akhbCA": {
         "ko": "[시에라]\n비슷한 시기 생체실험 연구소를 탐험하던 모험가가 ^FF0000이것^000000을 발견해 가져왔습니다.",
         "en": "[Sierra]\nAt around the same time, an adventurer exploring Somatology Laboratory found ^FF0000this^000000 and brought it back.",
-        "pt": "[Sierra]\nEm uma época semelhante, um aventureiro que explorava Laboratório de Experimentos Biológicos encontrou ^FF0000isto^000000 e o trouxe.",
+        "pt": "[Sierra]\nUm aventureiro que explorou o Biolaboratório encontrou ^FF0000isso aqui^000000.",
         "es": "[Sierra]\nPor esa misma época, un aventurero que exploraba el Laboratorio de Investigación Biológica encontró ^FF0000esto^000000 y lo trajo consigo."
     },
     "a0hbCA": {
@@ -266,7 +266,7 @@
     "bEhbCA": {
         "ko": "[시에라]\n아직 공식 발표되지 않은 물건입니다. 앞으로도 그렇겠지요.\n조사단은 임시 호칭으로 ^0000CD버추얼 레코드^000000라고 부릅니다.",
         "en": "[Sierra]\nIt is an item that has not yet been officially announced. And likely never will be.\nThe investigation team has given it the provisional name ^0000CDVirtual Record^000000.",
-        "pt": "[Sierra]\nAinda não é um item oficialmente divulgado. E provavelmente continuará assim.\nA equipe de investigação o chama provisoriamente de ^0000CDRegistro Virtual^000000.",
+        "pt": "[Sierra]\nIsso não foi revelado ao público. Eu duvido que um dia vai.\nPor enquanto, estamos chamando de ^0000CDRegistro Virtual^000000.",
         "es": "[Sierra]\nEs un objeto que aún no se ha anunciado oficialmente. Y probablemente siga siendo así.\nEl equipo de investigación lo llama provisionalmente ^0000CDRegistro virtual^000000."
     },
     "bUhbCA": {
@@ -278,85 +278,85 @@
     "bkhbCA": {
         "ko": "낯설지 않은 이름…",
         "en": "A familiar-sounding name...",
-        "pt": "Esse nome não me é estranho…",
+        "pt": "Esse nome soa familiar...",
         "es": "Un nombre que no me resulta desconocido…"
     },
     "b0hbCA": {
         "ko": "[시에라]\n비슷한 이름을 들어보셨겠군요. ^0000CD메모리 레코드^000000라든지.",
         "en": "[Sierra]\nYou must have heard a similar name. Such as ^0000CDMemory Record^000000.",
-        "pt": "[Sierra]\nEntão já ouviu um nome parecido. Algo como ^0000CDMemory Record^000000.",
+        "pt": "[Sierra]\nVocê provavelmente deve ter ouvido algo similar. Os ^0000CDRegistros de Memória^000000, lá de Verus.",
         "es": "[Sierra]\nParece que ha oído un nombre parecido. Como ^0000CDMemory Record^000000, por ejemplo."
     },
     "cEhbCA": {
         "ko": "어, 어떻게 그걸?",
         "en": "H-how did you know that?",
-        "pt": "Co-como você sabe disso?",
+        "pt": "C-como você sabe?",
         "es": "¿C-cómo sabe eso?"
     },
     "cUhbCA": {
         "ko": "[시에라]\n제가 무얼 다루는 기관 소속인지 잊지 않으셨지요?\n이것을 발견한 뒤, 기업에서 ^0000CD판타스마고리카^000000 정보를 받기도 했고요.",
         "en": "[Sierra]\nYou have not forgotten what kind of organization I belong to, have you?\nAfter this was discovered, the corporation also gave us information on ^0000CDPhantasmagorika^000000.",
-        "pt": "[Sierra]\nNão se esqueceu de a que tipo de instituição pertenço, certo?\nDepois que isso foi encontrado, também recebemos da corporação informações sobre ^0000CDPhantasmagorica^000000.",
+        "pt": "[Sierra]\nSe esqueceu da natureza da Vento Secreto?\nApós essa descoberta, a Corporação nos providenciou informações sobre ^0000CDFantasmagórica^000000.",
         "es": "[Sierra]\nNo habrá olvidado a qué clase de organización pertenezco, ¿verdad?\nAdemás, después de descubrir esto, la corporación también nos facilitó información sobre ^0000CDPhantasmagorika^000000."
     },
     "ckhbCA": {
         "ko": "시에라: 쉽게 줄 수 없는 정보라고 엄청나게 튕기기는 했지만.",
         "en": "Sierra: They made quite a fuss about how it was not information they could hand over easily, though.",
-        "pt": "Sierra: Embora tenham feito um enorme alarde dizendo que era informação difícil de conceder.",
+        "pt": "Sierra: Embora, não de boa vontade.",
         "es": "Sierra: Aunque pusieron muchísimas pegas diciendo que no era información que pudieran entregar tan fácilmente."
     },
     "c0hbCA": {
         "ko": "나이너: 기업 법무팀에서는 아직도 못먀땅해하고 있다구요. 잘못하면 소송감이니까요?",
         "en": "Niner: The corporate legal team is still not happy about it. It could become grounds for a lawsuit if things go wrong, you know?",
-        "pt": "Niner: O departamento jurídico da corporação ainda não está nada satisfeito. Se der errado, pode virar processo, sabia?",
+        "pt": "Nina: Nosso jurídico não está feliz com isso. Podemos ser processados, sabe.",
         "es": "Niner: El equipo jurídico de la corporación sigue sin estar muy conforme, ¿sabe? Si algo sale mal, podrían demandarnos."
     },
     "dEhbCA": {
         "ko": "[시에라]\n물론 버추얼 레코드는 메모리 레코드와는 전혀 다른 기술로 만들어졌습니다.",
         "en": "[Sierra]\nOf course, Virtual Record was created with technology completely different from Memory Record.",
-        "pt": "[Sierra]\nClaro, Registro Virtual foi criado com uma tecnologia completamente diferente da de Memory Record.",
+        "pt": "[Sierra]\nEsse Registro Virtual é feito com a tecnologia totalmente diferente dos Registros de Memórias.",
         "es": "[Sierra]\nPor supuesto, Registro virtual fue creado con una tecnología completamente distinta a la de los Memory Records."
     },
     "dUhbCA": {
         "ko": "시에라: 소송감이었나요? 고급 정보를 함부로 발설하다니♡",
         "en": "Sierra: Was it grounds for a lawsuit? To divulge high-level information so carelessly♡",
-        "pt": "Sierra: Então era caso para processo? Revelando informações sigilosas com tanta facilidade assim♡",
+        "pt": "Sierra: Processados? Bom saber.",
         "es": "Sierra: ¿Así que era motivo de demanda? Qué imprudencia andar divulgando información confidencial así sin más♡"
     },
     "dkhbCA": {
         "ko": "나이너: 그, 그, 그렇게 한 건 해냤다☆는 표정 하지 말아요! 이제 우리는 협력 관계자냐요?!",
         "en": "Niner: D-d-don't make that “I pulled it off☆” face! Aren't we partners now?!",
-        "pt": "Niner: N-n-não faça essa cara de “Consegui☆”! Agora estamos em cooperação, né?!",
+        "pt": "Nina: N-não precisa ser por vocês! Somos parceiras agora!!",
         "es": "Niner: ¡N-no ponga esa cara de “lo he conseguido☆”! ¡¿Ahora no se supone que somos colaboradores?!"
     },
     "d0hbCA": {
         "ko": "[시에라]\n아무리 {0} 님이라도 버추얼 레코드에 대한 정보를 얻을 수는 없으셨겠지요. 다른 것을 떠올리신 모양입니다.",
         "en": "[Sierra]\nEven someone like you, {0}, would not have been able to obtain information on Virtual Record. It seems you were thinking of something else.",
-        "pt": "[Sierra]\nMesmo sendo o Sr. {0}, não teria conseguido obter informações sobre Registro Virtual. Pelo visto, pensou em outra coisa.",
+        "pt": "[Sierra]\n{0}, aposto que até você tem alguma informação sobre o Registro Virtual. Você provavelmente se lembrará de algo.",
         "es": "[Sierra]\nPor mucho que sea usted, {0}, no habría podido obtener información sobre Registro virtual. Parece que pensó en otra cosa."
     },
     "eEhbCA": {
         "ko": "[시에라]\n물론 이제 필요한 만큼 설명해 드리겠습니다.",
         "en": "[Sierra]\nOf course, I will now explain as much as necessary.",
-        "pt": "[Sierra]\nClaro, agora explicarei tudo o que for necessário.",
+        "pt": "[Sierra]\nMas eu posso te explicar tanto quanto você quiser.",
         "es": "[Sierra]\nPor supuesto, ahora le explicaré todo lo necesario."
     },
     "eUhbCA": {
         "ko": "시에라: 쉽게 줄 수 없는 정보라고 기업에서 엄청나게 튕기기는 했지만.",
         "en": "Sierra: They made quite a fuss at the corporation about how it was not information they could hand over easily, though.",
-        "pt": "Sierra: Embora a corporação tenha feito um enorme alarde dizendo que era informação difícil de conceder.",
+        "pt": "Sierra: Rekenber compartilhou informações com má vontade.",
         "es": "Sierra: Aunque la corporación puso muchísimas pegas diciendo que no era información que pudieran entregar tan fácilmente."
     },
     "ekhbCA": {
         "ko": "나이너: 법무팀에서는 아직도 못먀땅해하고 있다구요. 잘못하면 소송감이니까요?",
         "en": "Niner: The legal team is still not happy about it. It could become grounds for a lawsuit if things go wrong, you know?",
-        "pt": "Niner: O jurídico ainda não está nada satisfeito. Se der errado, pode virar processo, sabia?",
+        "pt": "Nina: Nosso jurídico não está feliz com isso. Podemos ser processados, sabe.",
         "es": "Niner: El equipo jurídico sigue sin estar muy conforme, ¿sabe? Si algo sale mal, podrían demandarnos."
     },
     "e0hbCA": {
         "ko": "[시에라]\n버추얼 레코드가 생체실험 연구소에서 발견되었으니만큼 아직 해석이 덜 된 부분에 ^FF0000사용해서는 안 되는 기술^000000이 들어가지 않았을지 찜찜하기는 합니다만.",
         "en": "[Sierra]\nSince Virtual Record was found in Somatology Laboratory, I am uneasy that parts not yet fully interpreted may contain ^FF0000technology that should never be used^000000.",
-        "pt": "[Sierra]\nComo Registro Virtual foi encontrado em Laboratório de Experimentos Biológicos, ainda fico desconfortável pensando que as partes que não foram totalmente interpretadas possam conter ^FF0000tecnologias que nunca deveriam ser usadas^000000.",
+        "pt": "[Sierra]\nJá que esse Registro Virtual foi encontrado no Biolaboratório, partes não traduzidas contém ^FF0000tecnologias desconhecidas^000000.",
         "es": "[Sierra]\nPuesto que Registro virtual fue hallado en el Laboratorio de Investigación Biológica, me inquieta pensar que en las partes aún no interpretadas pueda contener alguna ^FF0000tecnología que no debería usarse^000000."
     },
     "fEhbCA": {
@@ -368,31 +368,31 @@
     "fUhbCA": {
         "ko": "[시에라]\n^0000CD인간의 기억과 신체, 존재한다면 영혼까지도^000000 실험 재료로 소모하는 데 거리낌이 없던 자들이니까.",
         "en": "[Sierra]\nThey were people who felt no hesitation in consuming ^0000CDhuman memory, the body, and even the soul, if such a thing exists,^000000 as experimental materials.",
-        "pt": "[Sierra]\nSão pessoas que não hesitavam em consumir ^0000CDmemórias humanas, corpos humanos e até almas, se existirem,^000000 como material de experimento.",
+        "pt": "[Sierra]\nOs criadores não se importaram em sacrificar as ^0000CDmemórias, corpos e até almas^000000 das suas cobaias.",
         "es": "[Sierra]\nPorque se trataba de individuos a quienes no les importaba usar ^0000CDmemorias humanas, cuerpos y, si existiera, incluso el alma^000000 como material experimental."
     },
     "fkhbCA": {
         "ko": "[시에라]\n하지만 그런 실험의 결과물이라도 ^FF0000중요한 진실^000000을 밝히기 위해서라면 사용할 수밖에 없습니다.",
         "en": "[Sierra]\nBut even if it is the result of such experiments, we have no choice but to use it in order to reveal an ^FF0000important truth^000000.",
-        "pt": "[Sierra]\nMas, mesmo sendo o resultado desses experimentos, não temos escolha a não ser usá-lo para revelar uma ^FF0000verdade importante^000000.",
+        "pt": "[Sierra]\nMas devemos usar até mesmo os resultados de pesquisa mais hediondos deles para descobrir a ^FF0000verdade^000000.",
         "es": "[Sierra]\nPero aunque sea el resultado de tales experimentos, no nos queda más remedio que utilizarlo si queremos revelar una ^FF0000verdad importante^000000."
     },
     "f0hbCA": {
         "ko": "중요한 진실?",
         "en": "An important truth?",
-        "pt": "Uma verdade importante?",
+        "pt": "Que verdade?",
         "es": "¿Una verdad importante?"
     },
     "gEhbCA": {
         "ko": "[시에라]\n생체실험 연구소에 존재하는 사념체에 대한 진실입니다.",
         "en": "[Sierra]\nThe truth about the lingering wills that exist in Somatology Laboratory.",
-        "pt": "[Sierra]\nA verdade sobre os espectros que existem em Laboratório de Experimentos Biológicos.",
+        "pt": "[Sierra]\nA verdade sobre os fantasmas que vagam pelo Biolaboratório.",
         "es": "[Sierra]\nLa verdad sobre los espectros que existen en el Laboratorio de Investigación Biológica."
     },
     "gUhbCA": {
         "ko": "[시에라]\n이 레코드에는 ^0000CD세이렌 윈저^000000를 포함한 ^0000CD룬 미드가츠 비공식 원정대^000000의 기억 데이터가 있습니다.\n해석 장치에 넣어 가상현실 형태로 재생하여 아직 알 수 없는 부분을 해석할 수 있습니다.",
         "en": "[Sierra]\nThis record contains the memory data of the ^0000CDunofficial Rune Midgarts expedition^000000, including ^0000CDSeyren Windsor^000000.\nBy placing it into the interpretation device and replaying it in the form of virtual reality, we can interpret the parts that are still unknown.",
-        "pt": "[Sierra]\nEste registro contém dados de memória da ^0000CDexpedição não oficial de Rune-Midgarts^000000, incluindo ^0000CDSeyren Windsor^000000.\nAo inseri-lo em um dispositivo de interpretação e reproduzi-lo em forma de realidade virtual, é possível interpretar as partes ainda desconhecidas.",
+        "pt": "[Sierra]\nEsse registro contém as memórias da ^0000CDExpedição não-oficial de Rune-Midgard^000000, incluindo ^0000CDSeyren Windsor^000000.\nPodemos abrir esse registro usando um dispositivo que criamos para traduzir suas gravações.",
         "es": "[Sierra]\nEste registro contiene datos de memoria de la ^0000CDexpedición no oficial de Rune-Midgarts^000000, incluido ^0000CDSeyren Windsor^000000.\nAl introducirlo en un dispositivo de interpretación y reproducirlo en forma de realidad virtual, podemos interpretar las partes que aún se desconocen."
     },
     "gkhbCA": {
@@ -404,187 +404,187 @@
     "g0hbCA": {
         "ko": "[시에라]\n왕국 비공식 원정대가 어째서 돌아가지 못하고 생체 연구소에 떠도는 사념이 되었는지, 그 진실을 알아낼 수 있습니다.",
         "en": "[Sierra]\nWe can learn the truth of why the kingdom's unofficial expedition could not return and became lingering wills drifting through the Biological Laboratory.",
-        "pt": "[Sierra]\nPodemos descobrir a verdade de por que a expedição não oficial do reino não conseguiu voltar e acabou se tornando pensamentos errantes vagando pelo Laboratório Biológico.",
+        "pt": "[Sierra]\nNós queremos saber o porquê dos membros da Expedição do Reino terminaram no Biolaboratório ao invés de terem voltado para casa.",
         "es": "[Sierra]\nPodemos descubrir la verdad de por qué la expedición no oficial del reino no pudo regresar y terminó convertida en espectros errantes en el laboratorio biológico."
     },
     "hEhbCA": {
         "ko": "[시에라]\n저희도 신경쓰이지만, 룬 미드가츠 왕실 분들께서도 반드시 알아내기를 청하셨습니다.",
         "en": "[Sierra]\nIt concerns us as well, but the Rune Midgarts royal family has also earnestly requested that we uncover it.",
-        "pt": "[Sierra]\nIsso também nos preocupa, claro, mas a família real de Rune-Midgarts também pediu que isso fosse descoberto a qualquer custo.",
+        "pt": "[Sierra]\nE não somos os únicos atrás de respostas. A Família Real de Rune-Midgard também quer saber.",
         "es": "[Sierra]\nA nosotros también nos preocupa, pero los miembros de la familia real de Rune-Midgarts también nos han pedido encarecidamente que lo averigüemos."
     },
     "hUhbCA": {
         "ko": "저는 무슨 일을 하지요?",
         "en": "What am I supposed to do?",
-        "pt": "O que eu terei de fazer?",
+        "pt": "O que você quer que eu faça?",
         "es": "¿Y qué tengo que hacer yo?"
     },
     "hkhbCA": {
         "ko": "[시에라]\n기억을 가상 현실을 통해 해석한다면 결국 그들이 겪었던 위험을 함께 겪어야 합니다.",
         "en": "[Sierra]\nIf memories are interpreted through virtual reality, then in the end, you must share the dangers they experienced.",
-        "pt": "[Sierra]\nSe as memórias forem interpretadas por meio da realidade virtual, no fim das contas você terá de enfrentar junto os perigos que eles enfrentaram.",
+        "pt": "[Sierra]\nAo reproduzir esse registro em uma realidade virtual, nós iremos experienciar a mesma situação que eles passaram.",
         "es": "[Sierra]\nSi interpretamos los recuerdos a través de la realidad virtual, al final tendrá que enfrentarse también a los peligros que ellos vivieron."
     },
     "h0hbCA": {
         "ko": "[시에라]\n그들이 겪은 위험의 결과는 생체 연구소의 ^FF0000저 무수한 사념체^000000입니다.\n몇몇 요원이 버추얼 레코드 해석을 시도했지만 그들도 모두 중도 포기하고 말았습니다.",
         "en": "[Sierra]\nThe result of the dangers they experienced is ^FF0000those countless lingering wills^000000 in the Biological Laboratory.\nSeveral agents attempted to interpret Virtual Record, but all of them gave up partway through.",
-        "pt": "[Sierra]\nO resultado dos perigos que eles enfrentaram são ^FF0000aqueles incontáveis espectros^000000 do Laboratório Biológico.\nAlguns agentes tentaram interpretar Registro Virtual, mas todos desistiram no meio do caminho.",
+        "pt": "[Sierra]\nO perigo de batalhar contra ^FF0000inúmeros fantasmas^000000 dentro do Biolaboratório.\nMuitos agentes tentaram traduzir o registro, mas eles desistiram na metade do caminho.",
         "es": "[Sierra]\nEl resultado de los peligros que ellos vivieron son ^FF0000esos innumerables espectros^000000 del laboratorio biológico.\nAlgunos agentes intentaron interpretar Registro virtual, pero todos abandonaron a mitad del proceso."
     },
     "iEhbCA": {
         "ko": "[나이너]\n제가 레코드의 해석 완료된 부분을 조금 손보기는 했어요. 하지만 냐무 많이 조작해 버리면 그들의 진실을 밝힌다는 목적이 희미해지죠.",
         "en": "[Niner]\nI did tweak the already interpreted sections of the record a little. But if I manipulate too much, the purpose of uncovering their truth becomes blurred.",
-        "pt": "[Niner]\nEu dei uma pequena ajustada nas partes já interpretadas do registro. Mas se eu mexer demaaaais, o propósito de revelar a verdade deles acaba se perdendo.",
+        "pt": "[Nina]\nEu revisei as partes já traduzidas, mas não fui adiante. Não queria arriscar perder a integridade do Registro.",
         "es": "[Niner]\nYo retoqué un poco la parte ya interpretada del registro. Pero si lo manipulamos demyasiado, se desdibuja el propósito de revelar su verdad."
     },
     "iUhbCA": {
         "ko": "위험을 감수할 사람이 필요하군요.",
         "en": "You need someone willing to take the risk.",
-        "pt": "É preciso alguém disposto a correr esse risco.",
+        "pt": "Você precisa de alguém que saiba lidar com o perigo.",
         "es": "Necesitan a alguien dispuesto a asumir el riesgo."
     },
     "ikhbCA": {
         "ko": "[시에라]\n그렇습니다.\n최대한 위험도와 동기화율을 조정한 버추얼 레코드도 여전히 보통 사람에게는 지나친 위험입니다.",
         "en": "[Sierra]\nThat is correct.\nEven a Virtual Record with its danger level and synchronization rate adjusted as much as possible is still too dangerous for an ordinary person.",
-        "pt": "[Sierra]\nExatamente.\nMesmo o Registro Virtual, com o nível de risco e a taxa de sincronização ajustados ao máximo, continua perigoso demais para uma pessoa comum.",
+        "pt": "[Sierra]\nExatamente.\nAté mesmo no menor risco, o Registro Virtual é muito perigoso para pessoas comuns.",
         "es": "[Sierra]\nAsí es.\nIncluso Registro virtual, ajustado al máximo en nivel de riesgo y tasa de sincronización, sigue siendo demasiado peligroso para una persona corriente."
     },
     "i0hbCA": {
         "ko": "[시에라]\n수많은 전투와 역사의 순간을 실제로 겪어낸 {0} 님이라야 무사히 마지막까지 해석할 수 있으리라고 판단했습니다.",
         "en": "[Sierra]\nWe concluded that only someone like {0}, who has truly experienced countless battles and moments of history, could safely interpret it all the way to the end.",
-        "pt": "[Sierra]\nConcluímos que somente o Sr. {0}, que realmente vivenciou inúmeras batalhas e momentos históricos, conseguiria interpretá-lo até o fim em segurança.",
+        "pt": "[Sierra]\nMas você, {0}, venceu inúmeras batalhas e presenciou momentos históricos. Acreditamos que você se sairá bem.",
         "es": "[Sierra]\nHemos concluido que solo alguien como usted, {0}, que ha vivido innumerables combates y momentos históricos en carne propia, podrá interpretarlo hasta el final sin sufrir percances."
     },
     "jEhbCA": {
         "ko": "[시에라]\n물론 {0} 님의 선의에만 기대지는 않습니다.\n버추얼 레코드를 해석하면서 얻은 경험은 앞으로의 모험에 도움이 되겠지요.",
         "en": "[Sierra]\nOf course, we are not relying solely on your goodwill, {0}.\nThe experience you gain while interpreting Virtual Record will surely help you in your future adventures.",
-        "pt": "[Sierra]\nClaro, não estamos contando apenas com a boa vontade do Sr. {0}.\nA experiência adquirida ao interpretar Registro Virtual certamente ajudará em suas futuras aventuras.",
+        "pt": "[Sierra]\nTenha certeza de que você também não fará isso só por nós, {0}.\nIsso lhe dará a experiência necessária para continuar na sua jornada.",
         "es": "[Sierra]\nPor supuesto, no confiamos solo en su buena voluntad, {0}.\nLa experiencia que obtenga al interpretar Registro virtual le será útil en sus futuras aventuras."
     },
     "jUhbCA": {
         "ko": "[나이너]\n참, 동기화율을 조정했으니까 한 번만 끝까지 해석해서는 원하는 만큼의 정보값을 얻어냘 수 없어요.",
         "en": "[Niner]\nOh, right, since I adjusted the synchronization rate, you can't obtain as much information value as you want just by interpreting it all the way through once.",
-        "pt": "[Niner]\nAh, como a taxa de sincronização foi ajustada, não dá para obter o valor de dados desejado interpretando tudo até o fim uma vez só.",
+        "pt": "[Nina]\nAh, é... eu também ajustei a sincronização do Registro. Serão necessários vários replays para obtermos todas as informações de que precisamos.",
         "es": "[Niner]\nAh, y como hemos ajustado la tasa de sincronización, no podrá obtener el volumen de datos que queremos con una sola interpretación completa."
     },
     "jkhbCA": {
         "ko": "[나이너]\n반복해 시도하면서, 레코드 냐부에서 해석을 진행하시면 저희 쪽에서 해석 자료를 얻을 수 있어요. 연구가 끝나면 보상으로 교환하실 수 있도록 자료를 드릴게요!",
         "en": "[Niner]\nIf you keep trying repeatedly and proceed with the interpretation inside the record, we can obtain interpretation data on our side. When the research is complete, we'll give you data you can exchange for rewards!",
-        "pt": "[Niner]\nSe você continuar tentando repetidamente e avançar com a interpretação dentro do registro, nós conseguiremos obter materiais de interpretação. Quando a pesquisa terminar, daremos esses materiais para que você possa trocá-los por recompensas!",
+        "pt": "[Nina]\nPor favor, use o Registro mais de uma vez. Nós coletaremos os dados traduzidos e os daremos a você, para que você possa trocá-los por uma recompensa quando terminar.",
         "es": "[Niner]\nSi lo intenta repetidamente y progresa en la interpretación dentro del registro, nosotros podremos obtener materiales de interpretación. Cuando la investigación termine, le daremos esos materiales para que pueda canjearlos como recompensa."
     },
     "j0hbCA": {
         "ko": "[나이너]\n보상은 레켄베르 독점 기술로 제작한 최신 장비를 준비해 뒀어요! 특별히 맞춤 조정도 해 드릴게요!",
         "en": "[Niner]\nWe've prepared the latest equipment made with Rekenber's exclusive technology as rewards! We'll even specially fine-tune it for you!",
-        "pt": "[Niner]\nQuanto às recompensas, já preparamos os equipamentos mais recentes produzidos com tecnologia exclusiva da Rekenber! Faremos ajustes personalizados especialmente para você!",
+        "pt": "[Nina]\nQuanto ao seu pagamento, preparamos armamentos de ponta feitos com a tecnologia da Rekenber. Também podemos aperfeiçoá-los para você!",
         "es": "[Niner]\n¡Y como recompensa hemos preparado el equipo más moderno, fabricado con tecnología exclusiva de Rekenber! ¡Además, lo ajustaremos especialmente para usted!"
     },
     "kEhbCA": {
         "ko": "[시에라]\n이제 무슨 제안인지 충분히 설명되었겠지요.\n저희와 계약해 버추얼 레코드 해석에 참가하시겠습니까?",
         "en": "[Sierra]\nI believe I have now sufficiently explained what kind of proposal this is.\nWill you sign a contract with us and participate in the interpretation of Virtual Record?",
-        "pt": "[Sierra]\nAgora já deve ter entendido bem a proposta.\nGostaria de firmar um contrato conosco e participar da interpretação de Registro Virtual?",
+        "pt": "[Sierra]\nEspero que seja uma recompensa à altura do nosso pedido.\nDeseja assinar um contrato conosco e se juntar à Expedição Virtual ao Biolaboratório?",
         "es": "[Sierra]\nA estas alturas, ya habrá quedado suficientemente clara la propuesta.\n¿Desea firmar un contrato con nosotros y participar en la interpretación de Registro virtual?"
     },
     "kUhbCA": {
         "ko": "참가한다.",
         "en": "Participate.",
-        "pt": "Participar.",
+        "pt": "Juntar-se.",
         "es": "Participar."
     },
     "kkhbCA": {
         "ko": "참가하지 않는다.",
         "en": "Do not participate.",
-        "pt": "Não participar.",
+        "pt": "Não se juntar.",
         "es": "No participar."
     },
     "k0hbCA": {
         "ko": "[시에라]\n감사합니다.\n행동은 빠를수록 좋지요. ^0000CD파티를 결성^000000하고 오십시오. 레코드 해석 방식을 설명해 드리겠습니다.",
         "en": "[Sierra]\nThank you.\nThe faster we act, the better. Form a ^0000CDparty^000000 and come back. I will explain the record interpretation method.",
-        "pt": "[Sierra]\nAgradeço.\nQuanto mais rápido agirmos, melhor. Forme um ^0000CDgrupo^000000 e venha. Explicarei o método de interpretação do registro.",
+        "pt": "[Sierra]\nObrigada.\nAgora, vamos com tudo. Por favor, volte ^0000CDem um Grupo^000000. Vou ensinar a você como traduzir os Registros.",
         "es": "[Sierra]\nGracias.\nCuanto antes actuemos, mejor. Venga después de ^0000CDformar un grupo^000000. Le explicaré el método de interpretación del registro."
     },
     "lEhbCA": {
         "ko": "[시에라]\n정보 수집이 부족했던 모양이군요.\n당신을 찾아냈듯이 적합한 다른 사람을 찾아낼 수 있을 겁니다. 쉽지는 않겠지만.",
         "en": "[Sierra]\nIt seems our information gathering was insufficient.\nJust as we found you, we should be able to find someone else suitable. Though it will not be easy.",
-        "pt": "[Sierra]\nParece que nossa coleta de informações foi insuficiente.\nAssim como o encontramos, seremos capazes de encontrar outra pessoa adequada. Não será fácil, mas encontraremos.",
+        "pt": "[Sierra]\nParece que não tivemos todas as informações sobre você.\nMas tenho certeza de que podemos encontrar alguém tão bom quanto você. Mas vai ser difícil.",
         "es": "[Sierra]\nParece que la recopilación de información fue insuficiente.\nIgual que le encontramos a usted, podremos encontrar a otra persona adecuada. Aunque no será fácil."
     },
     "lUhbCA": {
         "ko": "[시에라]\n다시 오셨군요. 버추얼 레코드 해석을 시작하시겠습니까?",
         "en": "[Sierra]\nYou have returned. Would you like to begin the interpretation of Virtual Record?",
-        "pt": "[Sierra]\nVoltou. Gostaria de iniciar a interpretação de Registro Virtual?",
+        "pt": "[Sierra]\nVocê voltou. Quer começar a explorar o Registro Virtual?",
         "es": "[Sierra]\nHa vuelto. ¿Desea comenzar la interpretación de Registro virtual?"
     },
     "lkhbCA": {
         "ko": "[나이너]\n냣! 안돼요, 안돼! 전에 버추얼 레코드 해석에 참가하신 지 하루도 안 지났자냐요?\n후유증이 있는 상태에서 또 해석을 시도하면 부작용이 발생할 수 있어요.",
         "en": "[Niner]\nNyaht! No, no! It hasn't even been a day since you last participated in the interpretation of Virtual Record, you know?\nIf you attempt another interpretation while still suffering aftereffects, side effects may occur.",
-        "pt": "[Niner]\nNhá! Não pode, não pode! Ainda nem se passou um dia desde que você participou da interpretação de Registro Virtual da última vez, sabia?\nSe tentar interpretar de novo enquanto ainda sofre os efeitos colaterais, podem surgir reações adversas.",
+        "pt": "[Nina]\nAh, perdão. Não faz nem um dia desde a última expedição.\nVocê deve descansar por pelo menos um dia para evitar efeitos colaterais graves.",
         "es": "[Niner]\n¡Miau! ¡No, no! ¡Todavía no ha pasado ni un día desde que participó en la interpretación de Registro virtual!\nSi vuelve a intentarlo mientras aún sufre secuelas, podrían producirse efectos secundarios."
     },
     "l0hbCA": {
         "ko": "나이너: 어지럼증이냐 메스꺼움, 두통, 관절 약화, 사망 및 사념체화, 치통 및 잇몸 약화, 가벼운 우울감, 약한 복통이냐 구토…",
         "en": "Niner: Dizziness, nausea, headache, weakened joints, death and transformation into a lingering will, toothache and weakened gums, mild depression, slight stomachache or vomiting…",
-        "pt": "Niner: Tontura, náusea, dor de cabeça, enfraquecimento das articulações, morte e transformação em espectro, dor de dente e enfraquecimento das gengivas, leve depressão, dor abdominal leve e vômito…",
+        "pt": "Nina: Tonturas, náuseas, depressão e vômito...",
         "es": "Niner: Mareos, náuseas, dolor de cabeza, debilitamiento de las articulaciones, muerte y conversión en espectro, dolor dental y debilitamiento de las encías, depresión leve, dolor abdominal ligero o vómitos…"
     },
     "mEhbCA": {
         "ko": "시에라: 중간에 그럴 법도 한데 심하게 위험한 게 들어 있지 않아요?",
         "en": "Sierra: There are some plausible things in the middle, but doesn't that include something seriously dangerous?",
-        "pt": "Sierra: Não tem coisa perigosamente séria demais no meio disso?",
+        "pt": "Sierra: Parece grave.",
         "es": "Sierra: ¿No hay algo entre medias que parezca razonable y no tan peligrosísimo?"
     },
     "mUhbCA": {
         "ko": "[나이너]\n하루면 충분히 회복되니까 ^0000CD새벽이 지냐고^000000 다시 오세요!",
         "en": "[Niner]\nOne day is enough to recover, so come back ^0000CDafter dawn has passed^000000!",
-        "pt": "[Niner]\nEm um dia você já estará totalmente recuperado, então volte ^0000CDdepois que amanhecer^000000!",
+        "pt": "[Nina]\nVocê pode evitar todos eles tendo um dia inteiro de descanso. Volte ^0000CDdepois do amanhecer^000000.",
         "es": "[Niner]\nEn un día se recuperará por completo, así que vuelva ^0000CDdespués de que amanezca^000000."
     },
     "mkhbCA": {
         "ko": "[시에라]\n버추얼 레코드 동기화를 진행합니다. 동기화가 끝나면 제게 다시 말을 걸어 해석을 시작해 주십시오.",
         "en": "[Sierra]\nProceeding with Virtual Record synchronization. Once synchronization is complete, please speak to me again to begin interpretation.",
-        "pt": "[Sierra]\nVamos realizar a sincronização de Registro Virtual. Quando a sincronização terminar, fale comigo de novo para iniciar a interpretação.",
+        "pt": "[Sierra]\nSincronizando o registro virtual... Por favor, fale comigo após a conclusão para iniciar a expedição.",
         "es": "[Sierra]\nProcederemos a la sincronización de Registro virtual. Cuando termine, vuelva a hablar conmigo para comenzar la interpretación."
     },
     "m0hbCA": {
         "ko": "나이너: 후훗, 제가 책임지고 잘 조정해드릴게요!",
         "en": "Niner: Hehe, I'll take responsibility and adjust it perfectly for you!",
-        "pt": "Niner: Hehe, vou me responsabilizar por fazer todos os ajustes direitinho!",
+        "pt": "Nina: Hah hah. Vou cuidar de você.",
         "es": "Niner: Je, je, ¡yo me encargaré de ajustarlo todo perfectamente!"
     },
     "nEhbCA": {
         "ko": "설명을 듣는다",
         "en": "Listen to the explanation",
-        "pt": "Ouvir a explicação",
+        "pt": "Informações",
         "es": "Escuchar la explicación"
     },
     "nUhbCA": {
         "ko": "버추얼 레코드 동기화",
         "en": "Virtual Record Synchronization",
-        "pt": "Sincronizar Registro Virtual",
+        "pt": "Gerar instância",
         "es": "Sincronizar Registro virtual"
     },
     "nkhbCA": {
         "ko": "해석 시작",
         "en": "Begin Interpretation",
-        "pt": "Iniciar interpretação",
+        "pt": "Iniciar expedição",
         "es": "Comenzar interpretación"
     },
     "n0hbCA": {
         "ko": "[시에라]\n탐사 모드는 비공식 탐사대가 겪은 사건을 중심으로 해석하실 수 있도록 했어요.\n반대로, 전투 모드는 비공식 탐사대가 겪은 전투를 중심으로 해석하실 수 있어요.",
         "en": "[Sierra]\nExploration Mode has been arranged so that you may interpret the record centering on the events experienced by the unofficial expedition.\nConversely, Battle Mode allows you to interpret the record centering on the battles experienced by the unofficial expedition.",
-        "pt": "[Sierra]\nO Modo de Exploração foi preparado para que você interprete o foco dos eventos vividos pela equipe de exploração não oficial.\nJá o Modo de Combate permite interpretar principalmente as batalhas enfrentadas pela equipe de exploração não oficial.",
+        "pt": "[Sierra]\nNo modo Expedição, você pode traduzir o registro com base nos eventos que a expedição não oficial experimentou.\nNo modo Batalha, você pode fazer isso com base nas batalhas que eles travaram",
         "es": "[Sierra]\nEl modo Exploración está pensado para que pueda interpretar centrándose en los sucesos que vivió la expedición no oficial.\nEn cambio, el modo Combate le permite interpretar centrándose en los combates que vivió la expedición no oficial."
     },
     "oEhbCA": {
         "ko": "[시에라]\n위험도는 전투 모드가 더 높고, 전투 모드는 그만큼 보상도 많이 드려요.\n탐사 모드는 진행이 길고, 전투는 약식으로 진행합니다. ^FF0000탐사 모드의 보상은 매우 적습니다^000000.",
         "en": "[Sierra]\nBattle Mode carries greater danger, and accordingly offers more rewards.\nExploration Mode takes longer to progress, while battles proceed in a simplified manner. ^FF0000The rewards for Exploration Mode are very small.^000000",
-        "pt": "[Sierra]\nO nível de risco é maior no Modo de Combate, e por isso mesmo as recompensas também são maiores.\nO Modo de Exploração é mais longo, e o combate é conduzido de forma simplificada. ^FF0000As recompensas do Modo de Exploração são muito pequenas.^000000",
+        "pt": "[Sierra]\nO modo de Batalha é mais perigoso, mas também mais recompensador.\nO modo Expedição é mais lento que o Batalha ^FF0000e oferece menos premiações^000000.",
         "es": "[Sierra]\nEl nivel de riesgo es mayor en el modo Combate, y por eso mismo también ofrece más recompensas.\nEl modo Exploración es más largo, mientras que el combate se desarrolla de forma abreviada. ^FF0000Las recompensas del modo Exploración son muy escasas^000000."
     },
     "oUhbCA": {
         "ko": "[시에라]\n입장 전까지는 파티장이신 모험가님이 모드 변경을 진행하실 수 있어요.\n하지만 ^FF0000입장하기 직전 마지막으로 정해진 모드는 변경할 수 없으니^000000 신중하게 선택하셔야 합니다.",
         "en": "[Sierra]\nUntil entry, the adventurer serving as party leader may change the mode.\nHowever, ^FF0000the last mode selected immediately before entry cannot be changed,^000000 so you must choose carefully.",
-        "pt": "[Sierra]\nAté antes de entrar, o aventureiro líder do grupo poderá alterar o modo.\nNo entanto, ^FF0000o último modo definido imediatamente antes da entrada não poderá ser alterado,^000000 então será preciso escolher com cuidado.",
+        "pt": "[Sierra]\nO líder do seu grupo pode mudar seu modo antes de entrar na instância.\n^FF0000A liderança não pode ser alterada lá dentro^000000. Por favor, escolha com cuidado.",
         "es": "[Sierra]\nHasta antes de entrar, el aventurero que sea líder del grupo podrá cambiar de modo.\nSin embargo, ^FF0000el último modo fijado justo antes de entrar no podrá cambiarse^000000, así que deberá elegir con cuidado."
     },
     "okhbCA": {
@@ -596,319 +596,319 @@
     "o0hbCA": {
         "ko": "탐사 모드",
         "en": "Exploration Mode",
-        "pt": "Modo de Exploração",
+        "pt": "Modo Expedição",
         "es": "Modo Exploración"
     },
     "pEhbCA": {
         "ko": "전투 모드",
         "en": "Battle Mode",
-        "pt": "Modo de Combate",
+        "pt": "Modo Batalha",
         "es": "Modo Combate"
     },
     "pUhbCA": {
         "ko": "[나이너]\n{0} 님이 참가해 주시기 전에도 시도한 뒤 포기한 모험가분들이 있었어요.\n트라우마로 힘들어하거나, 버추얼 레코드 안에서 겪은 부상에 실제 부상처럼 반응하는 분들도 계셨죠.",
         "en": "[Niner]\nEven before you agreed to participate, {0}, there were adventurers who tried and then gave up.\nSome were troubled by trauma, and some reacted to injuries suffered inside Virtual Record as though they were real injuries.",
-        "pt": "[Niner]\nMesmo antes de o Sr. {0} concordar em participar, houve aventureiros que tentaram e desistiram.\nAlguns sofreram com traumas, e outros reagiram aos ferimentos sofridos dentro de Registro Virtual como se fossem ferimentos reais.",
+        "pt": "[Nina]\nVocê não é a primeira pessoa a tentar isso, {0}, outros desistiram na metade.\nFicaram traumatizados com o que viram. Muitos chegaram a sentir na vida real o que presenciaram no Registro Virtual.",
         "es": "[Niner]\nIncluso antes de que {0} aceptara participar, hubo aventureros que lo intentaron y acabaron abandonando.\nAlgunos quedaron traumatizados y otros reaccionaban a las heridas sufridas dentro de Registro virtual como si fueran lesiones reales."
     },
     "pkhbCA": {
         "ko": "[나이너]\n그런 일을 최대한 방지하기 위해 제 뛰어냔 코딩으로 버추얼 레코드의 해석 모드를 두 개로 나누었답니다.",
         "en": "[Niner]\nTo prevent such things as much as possible, I used my brilliant coding to divide the interpretation modes of Virtual Record into two.",
-        "pt": "[Niner]\nPara evitar esse tipo de situação ao máximo, com a minha brilhante programação eu dividi o modo de interpretação de Registro Virtual em dois.",
+        "pt": "[Nina]\nPara evitar que essas coisas aconteçam com você, usei minhas excelentes habilidades de codificação e criei dois modos diferentes.",
         "es": "[Niner]\nPara evitar ese tipo de cosas en la medida de lo posible, con mi estupendya programación dividí el modo de interpretación de Registro virtual en dos."
     },
     "p0hbCA": {
         "ko": "나이너: 원하는 해석 방법을 직접 결정하실 수 있도록 말이에요!",
         "en": "Niner: So that you can decide the interpretation method you want for yourself!",
-        "pt": "Niner: Para que você possa decidir pessoalmente a forma de interpretação que deseja!",
+        "pt": "Nina: Então, você pode escolher o modo que quiser!",
         "es": "Niner: ¡Para que usted pueda decidir directamente cómo quiere interpretarlo!"
     },
     "qEhbCA": {
         "ko": "시에라: 덕분에 저는 두 배로 귀찮아졌고!",
         "en": "Sierra: Thanks to that, I have twice as much trouble to deal with!",
-        "pt": "Sierra: Graças a isso, eu fiquei duas vezes mais ocupada!",
+        "pt": "Sierra: Isso significa o dobro do trabalho para mim!",
         "es": "Sierra: ¡Y gracias a eso yo tengo el doble de molestias!"
     },
     "qUhbCA": {
         "ko": "[나이너]\n아무튼, 모드는 ^FF0000탐사 모드^000000와 ^FF0000전투 모드^000000 두 종류예요.\n각각 다른 데이터를 얻을 수 있도록 했어요.",
         "en": "[Niner]\nAnyway, there are two kinds of mode: ^FF0000Exploration Mode^000000 and ^FF0000Battle Mode^000000.\nI made them so that each yields different data.",
-        "pt": "[Niner]\nEnfim, existem dois tipos de modo: ^FF0000Modo de Exploração^000000 e ^FF0000Modo de Combate^000000.\nFizemos isso para que cada um permita obter dados diferentes.",
+        "pt": "[Nina]\nEnfim, existem dois modos: ^FF0000Expedição^000000 e ^FF0000Batalha^000000.\nCada um deles cria dados diferentes.",
         "es": "[Niner]\nEn fin, hay dos tipos de modo: el ^FF0000modo Exploración^000000 y el ^FF0000modo Combate^000000.\nHemos hecho que cada uno permita obtener datos distintos."
     },
     "qkhbCA": {
         "ko": "[나이너]\n^FF0000탐사 모드^000000에서는 전투 난이도를 많이 낮추었어요.\n그리고 원정대가 무슨 대화를 하였고, 어떤 상황을 겪었는지에 더 중심을 두어 동기화했어요.",
         "en": "[Niner]\nIn ^FF0000Exploration Mode^000000, I greatly lowered the battle difficulty.\nAnd I synchronized it with more focus on what conversations the expedition had and what situations they experienced.",
-        "pt": "[Niner]\nNo ^FF0000Modo de Exploração^000000, a dificuldade de combate foi bastante reduzida.\nE sincronizamos dando mais foco a quais conversas a expedição teve e por quais situações ela passou.",
+        "pt": "[Nina]\nNo ^FF0000Modo Expedição^000000, eu diminuí significativamente a dificuldade das lutas\ne se concentra mais nas interações dos membros da expedição e nos eventos que eles vivenciaram.",
         "es": "[Niner]\nEn el ^FF0000modo Exploración^000000, hemos reducido mucho la dificultad de combate.\nY lo hemos sincronizado centrándonos más en qué conversaciones tuvo la expedición y qué situaciones vivió."
     },
     "q0hbCA": {
         "ko": "나이너: 시간이 걸리는 편이니 미리 주변을 정리해 주세요.",
         "en": "Niner: It tends to take some time, so please get your surroundings in order beforehand.",
-        "pt": "Niner: Como leva algum tempo, por favor organize tudo ao seu redor com antecedência.",
+        "pt": "Nina: Este modo é demorado. Por favor, termine dentro do tempo.",
         "es": "Niner: Como suele llevar tiempo, por favor deje todo preparado a su alrededor con antelación."
     },
     "rEhbCA": {
         "ko": "[나이너]\n^FF0000전투 모드^000000는 반대로 원정대가 어떤 상태로 어떤 전투를 겪었는지에 대한 데이터를 모을 수 있도록 동기화했어요.\n대신 상황에 대해서는 시에라 씨가 짧게 이야기해 주는 것으로 대신합니다.",
         "en": "[Niner]\nIn ^FF0000Battle Mode^000000, on the other hand, I synchronized it so that data can be gathered on what state the expedition was in and what battles they experienced.\nInstead, Ms. Sierra will briefly explain the situations.",
-        "pt": "[Niner]\nJá o ^FF0000Modo de Combate^000000 foi sincronizado para permitir reunir dados sobre em que estado a expedição estava e que batalhas enfrentou.\nEm vez disso, a respeito da situação, a Srta. Sierra fará apenas um breve resumo.",
+        "pt": "[Nina]\nNo ^FF0000Modo Batalha^000000, sincronizei o registro de forma que ele produza mais dados de combate do que qualquer outra coisa.\nSierra pode lhe dar uma breve informação sobre cada situação.",
         "es": "[Niner]\nEl ^FF0000modo Combate^000000, en cambio, se ha sincronizado para recopilar datos sobre en qué estado se encontraba la expedición y qué combates afrontó.\nEn compensación, la señorita Sierra le resumirá brevemente la situación."
     },
     "rUhbCA": {
         "ko": "나이너: 다양한 전투를 겪으시면서, 댜소 위험을 겪으실 수 있어요.",
         "en": "Niner: As you go through various battles, you may experience some danger.",
-        "pt": "Niner: Ao passar por várias batalhas, você pode acabar correndo um certo risco.",
+        "pt": "Nina: Você pode experimentar batalhas diferentes, mas todas perigosas.",
         "es": "Niner: Mientras atraviesa diversos combates, puede que experimente cierto riesgo."
     },
     "rkhbCA": {
         "ko": "[나이너]\n두 모드를 통틀어 하루 한 번만 해석에 참가할 수 있지만, ^FF0000탐사 모드의 보상은 매우 적습니다^000000.\n전투 모드는 보상이 큰 대신 위험 요소가 훨씬 많지요.",
         "en": "[Niner]\nAcross both modes, you may participate in interpretation only once per day, but ^FF0000the rewards for Exploration Mode are very small.^000000\nBattle Mode offers greater rewards, but it also has far more risk factors.",
-        "pt": "[Niner]\nSomando os dois modos, só é possível participar da interpretação uma vez por dia, mas ^FF0000as recompensas do Modo de Exploração são muito pequenas^000000.\nO Modo de Combate oferece grandes recompensas, mas também apresenta muito mais fatores de risco.",
+        "pt": "[Nina]\nVocê pode traduzir o Registro uma vez por dia, independentemente do modo escolhido. E o modo ^FF0000Modo Expedição dá menos recompensas^000000.\nO modo de batalha é muito mais recompensador, mas também mais perigoso.",
         "es": "[Niner]\nEntre ambos modos, solo podrá participar en la interpretación una vez al día, pero ^FF0000las recompensas del modo Exploración son muy escasas^000000.\nEl modo Combate ofrece grandes recompensas, pero también muchos más factores de riesgo."
     },
     "r0hbCA": {
         "ko": "시에라: 뭐, 위험 수당이군요. 모험가님은 익숙하시지요?",
         "en": "Sierra: Well, hazard pay, I suppose. You are used to that, aren't you, Adventurer?",
-        "pt": "Sierra: Bem, trata-se de um adicional de periculosidade. O aventureiro já está acostumado, não?",
+        "pt": "Sierra: Mais perigo, mais recompensa.",
         "es": "Sierra: Bueno, es una compensación por peligrosidad. A los aventureros eso les resulta familiar, ¿verdad?"
     },
     "sEhbCA": {
         "ko": "[나이너]\n두 모드의 특징이 다르니 파티원들과 잘 의논해서 어느 모드에 동기화할 지 결정해 주세요.\n^FF0000파티장님이 입장할 때 적용된 상태인 모드는 입장 후에는 변경할 수 없으니 신중하게 선택하셔야 해요.^000000",
         "en": "[Niner]\nSince the two modes have different characteristics, please discuss it well with your party members and decide which mode to synchronize with.\n^FF0000The mode applied when the party leader enters cannot be changed after entry, so you must choose carefully.^000000",
-        "pt": "[Niner]\nComo os dois modos têm características diferentes, conversem bem com os membros do grupo para decidir com qual modo sincronizar.\n^FF0000O modo aplicado quando o líder do grupo entrar não poderá ser alterado depois da entrada, então escolham com cuidado.^000000",
+        "pt": "[Nina]\nEsses dois modos são diferentes um do outro. Por favor, discuta com os membros do seu grupo qual modo você deseja.\n^FF0000Você não pode mudar o modo lá dentro. Selecione com cuidado.^000000",
         "es": "[Niner]\nComo las características de ambos modos son distintas, hablen bien con los miembros del grupo antes de decidir con cuál sincronizarse.\n^FF0000El modo que esté aplicado cuando el líder del grupo entre no podrá cambiarse después de entrar, así que deben elegir con cuidado.^000000"
     },
     "sUhbCA": {
         "ko": "[나이너]\n네~에. 탐사 모드 순조롭게 동기화 중입니다!",
         "en": "[Niner]\nYeees. Exploration Mode synchronization is proceeding smoothly!",
-        "pt": "[Niner]\nSiiim~. A sincronização do Modo de Exploração está ocorrendo sem problemas!",
+        "pt": "[Nina]\nCerto, sincronizando Modo Expedição agora!",
         "es": "[Niner]\nSí~í. ¡La sincronización del modo Exploración avanza sin problemas!"
     },
     "skhbCA": {
         "ko": "[나이너]\n네~에. 전투 모드 순조롭게 동기화 중입니다!",
         "en": "[Niner]\nYeees. Battle Mode synchronization is proceeding smoothly!",
-        "pt": "[Niner]\nSiiim~. A sincronização do Modo de Combate está ocorrendo sem problemas!",
+        "pt": "[Nina]\nCerto, sincronizando Modo Batalha agora!",
         "es": "[Niner]\nSí~í. ¡La sincronización del modo Combate avanza sin problemas!"
     },
     "s0hbCA": {
         "ko": "가 아니네?! 왜 안 되지? 잠시 다시 확인해 볼게요.\n조금만 기다려 주세요. 계속 같은 현상이 일어냐면… 음, 그럴 리가 없는데.",
         "en": "But wait, it isn't?! Why isn't it working? Let me check again for a moment.\nPlease wait just a little. If the same thing keeps happening… Hmm, that shouldn't be possible.",
-        "pt": "Mas não é isso?! Por que não está funcionando? Vou verificar de novo por um instante.\nPor favor, espere só um pouco. Se o mesmo fenômeno continuar acontecendo… hum, isso não deveria ser possível.",
+        "pt": "Ué. O que aconteceu? Deixe-me verificar.\nPor favor, me dê um momento. Se isso continuar... Hm, mas não deveria.",
         "es": "¡¿O no?! ¿Por qué no funciona? Espere un momento, voy a revisarlo otra vez.\nEspere solo un poco. Si sigue ocurriendo lo mismo… mmm, no debería pasar."
     },
     "tEhbCA": {
         "ko": "[시에라]\n그럴 리가 없기는. 스크린샷을 찍어서 운영팀에 문의해 주세요.",
         "en": "[Sierra]\nIt shouldn't be possible, indeed. Please take a screenshot and contact the operations team.",
-        "pt": "[Sierra]\nComo assim não deveria ser possível? Tire uma captura de tela e envie uma consulta para a equipe de suporte.",
+        "pt": "[Sierra]\nHouve um erro. Por favor, envie um reporte para a Central de Suporte.",
         "es": "[Sierra]\nPues sí que debería no pasar. Haga una captura de pantalla y póngase en contacto con el equipo de soporte."
     },
     "tUhbCA": {
         "ko": "동기화가 완료되면 ^0000CD시에라 씨에게 댜시 말을 걸어 해석을 시작^000000하시면 돼요!",
         "en": "Once synchronization is complete, ^0000CDspeak to Ms. Sierra again and begin the interpretation^000000!",
-        "pt": "Quando a sincronização terminar, ^0000CDfale novamente com a Srta. Sierra para iniciar a interpretação^000000!",
+        "pt": "Assim que completar a sincronização, por favor ^0000CDfale com Sierra^000000.",
         "es": "Cuando se complete la sincronización, ^0000CDvuelva a hablar con la señorita Sierra para comenzar la interpretación^000000."
     },
     "tkhbCA": {
         "ko": "[시에라]\n탐사 모드로 동기화 완료되었습니다.",
         "en": "[Sierra]\nSynchronization in Exploration Mode has been completed.",
-        "pt": "[Sierra]\nA sincronização do Modo de Exploração foi concluída.",
+        "pt": "[Sierra]\nModo Expedição sincronizado.",
         "es": "[Sierra]\nLa sincronización en modo Exploración se ha completado."
     },
     "t0hbCA": {
         "ko": "[시에라]\n전투 모드로 동기화 완료되었습니다.",
         "en": "[Sierra]\nSynchronization in Battle Mode has been completed.",
-        "pt": "[Sierra]\nA sincronização do Modo de Combate foi concluída.",
+        "pt": "[Sierra]\nModo Batalha sincronizado.",
         "es": "[Sierra]\nLa sincronización en modo Combate se ha completado."
     },
     "uEhbCA": {
         "ko": "[시에라]\n파티장님이 모드를 선택하지 않으면 모든 파티원의 플레이가 불가능해집니다.\n모드를 다시 선택하여 '전투의 여로', '탐사의 여로' 중 한 가지 퀘스트를 받은 뒤 입장해 주세요.",
         "en": "[Sierra]\nIf the party leader does not select a mode, all party members will be unable to play.\nPlease select the mode again, receive either the 'Journey of Battle' or 'Journey of Exploration' quest, and then enter.",
-        "pt": "[Sierra]\nSe o líder do grupo não selecionar um modo, nenhum dos membros do grupo poderá jogar.\nSelecione o modo novamente, receba uma das missões 'Jornada de Combate' ou 'Jornada de Exploração' e depois entre.",
+        "pt": "[Sierra]\nO líder do grupo deve escolher um Modo primeiro.\nPor favor, escolha um Modo para ter a entrada liberada.",
         "es": "[Sierra]\nSi el líder del grupo no selecciona un modo, ningún miembro del grupo podrá jugar.\nSeleccione de nuevo un modo, acepte una de las misiones, 'Camino de combate' o 'Camino de exploración', y después entre."
     },
     "uUhbCA": {
         "ko": "[나이너]\n좋아요! 마지막으로 동기화 안정성을 확인하고…\n자, 됐어요! 이제 버추얼 레코드 해석을 시작합니다!",
         "en": "[Niner]\nAll right! Lastly, let me check the synchronization stability and…\nThere, it's done! Now we begin the interpretation of Virtual Record!",
-        "pt": "[Niner]\nÓtimo! Agora só falta verificar a estabilidade final da sincronização e…\nPronto, agora sim! Vamos iniciar a interpretação de Registro Virtual!",
+        "pt": "[Nina]\nCerto, deixe-me verificar a estabilidade da sincronização...\nPerfeito, está tudo certo. Fique à vontade para iniciar a jornada no Registro Virtual!",
         "es": "[Niner]\n¡Muy bien! Por último, comprobaré la estabilidad de la sincronización y…\n¡Ya está! ¡Ahora comienza la interpretación de Registro virtual!"
     },
     "ukhbCA": {
         "ko": "^FF0000안에서 몬스터 테이밍 등 임의로 몬스터 처리를 할 경우 정상 진행으로 간주하지 않습니다. 이 점 유의해 주시기 바랍니다.^000000",
         "en": "^FF0000Please note that arbitrarily handling monsters inside, such as by taming them, will not be regarded as normal progress.^000000",
-        "pt": "^FF0000Se os monstros forem eliminados arbitrariamente dentro da instância, como por meio de Monster Taming, isso não será considerado progresso normal. Pedimos que tenham isso em mente.^000000",
+        "pt": "^FF0000Não domestique monstros lá dentro.^000000",
         "es": "^FF0000Si dentro usa métodos arbitrarios para tratar con monstruos, como la domesticación de monstruos, no se considerará un progreso válido. Tenga esto en cuenta.^000000"
     },
     "u0hbCA": {
         "ko": "{0} 파티의 모험가가 원정의 여로를 탐사합니다.",
         "en": "An adventurer from the party {0} explores the journey of the expedition.",
-        "pt": "O aventureiro do grupo {0} explora a jornada da expedição.",
+        "pt": "{PcName} entrou na Edda do Biolaboratório.",
         "es": "Un aventurero del grupo {0} explora la travesía de la expedición."
     },
     "vEhbCA": {
         "ko": "[나이너]\n{0} 님, 파티장 모험가님이 던전을 생성하지 않으셨어요.\n던전을 생성해 주세요.",
         "en": "[Niner]\n{0}, the party leader adventurer has not created the dungeon.\nPlease create the dungeon.",
-        "pt": "[Niner]\nSr. {0}, o aventureiro líder do grupo ainda não criou a instância.\nPor favor, crie a instância.",
+        "pt": "[Nina]\n{0}, o líder do seu grupo não gerou a instância ainda.\nPor favor, entre na fila primeiro.",
         "es": "[Niner]\n{0}, el aventurero líder del grupo no ha creado la mazmorra.\nPor favor, cree la mazmorra."
     },
     "vUhbCA": {
         "ko": "[나이너]\n앗, 던전이 생성 안 됐잖아?\n잠시만요. 이게 왜 이러지?",
         "en": "[Niner]\nOh, the dungeon wasn't created?\nJust a moment. Why is this happening?",
-        "pt": "[Niner]\nAh, a instância não foi criada?\nSó um momento. Por que isso está acontecendo?",
+        "pt": "[Nina]\nAh, a instância ainda não foi gerada.\nMe dê um momento. O que está acontecendo?",
         "es": "[Niner]\nAh, ¿la mazmorra no se ha creado?\nEspere un momento. ¿Qué está pasando aquí?"
     },
     "vkhbCA": {
         "ko": "시에라: 모험가님이 불안한 표정이 되셨어요, 나이너 씨.",
         "en": "Sierra: Adventurer, you look anxious, Mr. Niner.",
-        "pt": "Sierra: O aventureiro ficou com uma expressão preocupada, Sr. Niner.",
+        "pt": "Sierra: Nina, o pessoal não parece feliz.",
         "es": "Sierra: Aventurero, se le ha puesto cara de inquietud, señorita Niner."
     },
     "v0hbCA": {
         "ko": "나이너: 금방 돼요! 던전이 생성됐는지 파티장님께 확인해 보세요!",
         "en": "Niner: It'll be ready in no time! Please ask the party leader if the dungeon has been created!",
-        "pt": "Niner: Vai dar certo em um instante! Por favor, confirme com o líder do grupo se a instância foi criada!",
+        "pt": "Nina: Não vai demorar muito. Peça ao líder do seu grupo para gerar a instância.",
         "es": "Niner: ¡Enseguida estará! ¡Pregúntele al líder del grupo si la mazmorra se ha creado!"
     },
     "wEhbCA": {
         "ko": "[나이너]\n이, 이게 무슨 오류지? 잠깐만요. 좀 확인해 볼게요…\n금방 돼요, 정말이에요! 제가 자꾸 이러면 운영팀에 문의해 주세요!",
         "en": "[Niner]\nW-what kind of error is this? Just a moment. Let me check…\nIt'll be ready soon, really! If I keep doing this, please contact the operations team!",
-        "pt": "[Niner]\nQ-que erro é esse? Só um instante. Vou verificar…\nVai dar certo logo, é sério! Se eu continuar assim, por favor entre em contato com a equipe de suporte!",
+        "pt": "[Nina]\nO-o que está acontecendo? Por favor, me dê um momento.\nNão vai demorar muito. Eu prometo! Se o erro persistir, fale com a Central de Suporte.",
         "es": "[Niner]\n¿Q-qué error es este? Espere un momento. Voy a comprobarlo…\n¡Enseguida estará, de verdad! ¡Si sigo teniendo este problema, póngase en contacto con el equipo de soporte!"
     },
     "wUhbCA": {
         "ko": "[나이너]\n이건… 알 수 없는 오류네요!",
         "en": "[Niner]\nThis is… an unknown error!",
-        "pt": "[Niner]\nIsto é… um erro desconhecido!",
+        "pt": "[Nina]\nIsso é... um erro desconhecido!",
         "es": "[Niner]\nEsto es… ¡un error desconocido!"
     },
     "wkhbCA": {
         "ko": "시에라: 당당하게 알 수 없다고 해버리다니.",
         "en": "Sierra: To say so boldly that you do not know.",
-        "pt": "Sierra: Você disse com tanta segurança que é desconhecido.",
+        "pt": "Sierra: Você parece feliz falando isso.",
         "es": "Sierra: Qué seguridad al declarar que es desconocido."
     },
     "w0hbCA": {
         "ko": "나이너: 알 수 없는 오류가 이 오류의 이름이에요!",
         "en": "Niner: Unknown Error is the name of this error!",
-        "pt": "Niner: Erro desconhecido é justamente o nome deste erro!",
+        "pt": "Nina: Por que é isso que é, um erro.",
         "es": "Niner: ¡Es que “error desconocido” es el nombre de este error!"
     },
     "xEhbCA": {
         "ko": "[시에라]\n그러면 이제 어떻게 하면 되지요?",
         "en": "[Sierra]\nThen what should we do now?",
-        "pt": "[Sierra]\nEntão, o que devemos fazer agora?",
+        "pt": "[Sierra]\nCerto, o que nós podemos fazer a respeito?",
         "es": "[Sierra]\nEntonces, ¿qué deberíamos hacer ahora?"
     },
     "xUhbCA": {
         "ko": "[나이너]\n으음… 알 수가 없어요…\n우, 운영팀에 문의?",
         "en": "[Niner]\nHmm… I don't know…\nC-contact the operations team?",
-        "pt": "[Niner]\nHumm… eu não sei…\nT-talvez entrar em contato com a equipe de suporte?",
+        "pt": "[Nina]\nMm... Sei lá...\nFalar com a central de suporte?",
         "es": "[Niner]\nMmm… no lo sé…\n¿P-ponerse en contacto con el equipo de soporte?"
     },
     "xkhbCA": {
         "ko": "[나이너]\n이건… 있으면 안되는 오류로군요.",
         "en": "[Niner]\nThis is… an error that should not exist.",
-        "pt": "[Niner]\nIsto é… um erro que não deveria existir.",
+        "pt": "[Nina]\nIsso é... um erro crítico.",
         "es": "[Niner]\nEsto es… un error que no debería existir."
     },
     "x0hbCA": {
         "ko": "시에라: 당당하게 있으면 안된다고 해버리다니.",
         "en": "Sierra: To say so boldly that it should not exist.",
-        "pt": "Sierra: Você disse com tanta segurança que ele não deveria existir.",
+        "pt": "Sierra: Você parece feliz falando isso.",
         "es": "Sierra: Qué seguridad al afirmar que no debería existir."
     },
     "yEhbCA": {
         "ko": "나이너: 하지만 정말 있으면 안되는 오류예요!",
         "en": "Niner: But it really is an error that should not exist!",
-        "pt": "Niner: Mas realmente é um erro que não deveria existir!",
+        "pt": "Nina: Fazer o quê? É um erro crítico.",
         "es": "Niner: ¡Pero es que de verdad es un error que no debería existir!"
     },
     "yUhbCA": {
         "ko": "[나이너]\n으음… 어떻게 하면 좋을까…\n우, 운영팀에 문의해 보세요.",
         "en": "[Niner]\nHmm… what should we do…\nP-please contact the operations team.",
-        "pt": "[Niner]\nHumm… o que seria melhor fazer…\nT-talvez entrar em contato com a equipe de suporte.",
+        "pt": "[Nina]\nMm... O que faremos...?\nP-por favor fale com a central de suporte...",
         "es": "[Niner]\nMmm… qué podríamos hacer…\nP-póngase en contacto con el equipo de soporte."
     },
     "ykhbCA": {
         "ko": "[시에라]\n파티를 맺고 와 주세요, 모험가님.\n혼자서 탐사하시더라도 저와 나이너 씨와의 연락을 위해서 필요합니다.",
         "en": "[Sierra]\nPlease form a party and come back, Adventurer.\nEven if you explore alone, it is necessary so that you can stay in contact with me and Mr. Niner.",
-        "pt": "[Sierra]\nPor favor, forme um grupo e venha, aventureiro.\nMesmo que vá explorar sozinho, isso é necessário para manter o contato entre mim e o Sr. Niner.",
+        "pt": "[Sierra]\nPor favor, volte em um Grupo.\nMesmo se estiver só, você deve estar em um grupo para falar comigo e com Nina.",
         "es": "[Sierra]\nPor favor, venga después de formar un grupo, aventurero.\nAunque vaya a explorar en solitario, es necesario para mantener el contacto conmigo y con Niner."
     },
     "y0hbCA": {
         "ko": "나이너",
         "en": "Niner",
-        "pt": "Niner",
+        "pt": "Nina",
         "es": "Niner"
     },
     "zEhbCA": {
         "ko": "[나이너]\n시에라 씨는 만냐보셨냐요? 저는 레켄베르에서 파견된 통신 담당자 나이너입니다.",
         "en": "[Niner]\nHave you met Ms. Sierra? I am Niner, the communications officer dispatched from Rekenber.",
-        "pt": "[Niner]\nVocê já conheceu a Srta. Sierra? Eu sou Niner, o operador de comunicações enviado por Rekenber.",
+        "pt": "[Nina]\nVocê conheceu Sierra? Eu sou Nina, uma porta-voz da Rekenber.",
         "es": "[Niner]\n¿Ya conoció a la señorita Sierra? Soy Niner, encargada de comunicaciones enviada por Rekenber."
     },
     "zUhbCA": {
         "ko": "[나이너]\n모험가님이 버추얼 레코드에 접속하셨을 때는 동기화 및 세부 조정을 하느라 바쁘지만, 그 외의 시간에는 모험가님께 장비 강화 안내를 해 드릴 수 있어요.",
         "en": "[Niner]\nWhen you access Virtual Record, Adventurer, I am busy handling synchronization and fine adjustments, but at other times I can guide you regarding equipment enhancement.",
-        "pt": "[Niner]\nQuando o aventureiro se conecta a Registro Virtual, eu fico ocupado com a sincronização e os ajustes detalhados, mas fora isso posso orientá-lo sobre o aprimoramento de equipamentos.",
+        "pt": "[Nina]\nPosso falar sobre os Encantamentos quando você estiver fora do Registro Virtual. Se estiver dentro, eu precisarei me concentrar para sincronizar a expedição.",
         "es": "[Niner]\nCuando el aventurero se conecta a Registro virtual, estoy muy ocupada con la sincronización y los ajustes finos, pero fuera de ese tiempo también puedo orientarle sobre la mejora de equipo."
     },
     "zkhbCA": {
         "ko": "시에라: 마냥 놀지만은 않는다는 어필인가요?",
         "en": "Sierra: Is that your way of appealing that you do not merely idle around?",
-        "pt": "Sierra: Está tentando demonstrar que você não fica só brincando?",
+        "pt": "Sierra: Então, você tem um tempo livre.",
         "es": "Sierra: ¿Está tratando de decir que no se dedica simplemente a holgazanear?"
     },
     "z0hbCA": {
         "ko": "나이너: 워, 원래 놀지 않는댜구요! 레켄베르에 불성실한 사원은 없어요!",
         "en": "Niner: I-I don't idle around in the first place! There are no lazy employees at Rekenber!",
-        "pt": "Niner: E-eu nunca fico brincando! Não existe funcionário relapso na Rekenber!",
+        "pt": "Nina: Não... Quero dizer, sim! Como todo mundo na Rekenber!",
         "es": "Niner: ¡Y-yo no holgazanyeo! ¡En Rekenber no hay empleados negligentes!"
     },
     "0EhbCA": {
         "ko": "[나이너]\n지금은 버추얼 레코드를 준비하느라 좀 바빠요.\n먼저 시에라 씨와 이야기해보시는 건 어떠세요?",
         "en": "[Niner]\nRight now, I am a bit busy preparing Virtual Record.\nWhy don't you speak with Ms. Sierra first?",
-        "pt": "[Niner]\nNo momento estou um pouco ocupado preparando Registro Virtual.\nQue tal conversar primeiro com a Srta. Sierra?",
+        "pt": "[Nina]\nMas agora, estou ocupada preparando o Registro Virtual.\nEnquanto isso, porque não fala com Siera?",
         "es": "[Niner]\nAhora mismo estoy un poco ocupada preparando Registro virtual.\n¿Por qué no habla primero con la señorita Sierra?"
     },
     "0UhbCA": {
         "ko": "시에라: 불성실하다 못해 부도덕하고 반인륜적인 레켄베르 사원들 때문에 우리가 이 고생을 하는 거 아니었나요?",
         "en": "Sierra: Was it not because of the immoral and inhumane employees of Rekenber, beyond merely being lazy, that we are suffering like this?",
-        "pt": "Sierra: Não é por causa de funcionários da Rekenber, que além de relapsos eram imorais e antiéticos, que estamos passando por tudo isso?",
+        "pt": "Sierra: Faz sentido, já que a maioria de vocês são anti-éticos.",
         "es": "Sierra: ¿No es por culpa de los empleados de Rekenber, que no solo son negligentes sino también inmorales y contrarios a toda ética humana, por lo que estamos pasando por todo esto?"
     },
     "0khbCA": {
         "ko": "나이너: 그자들은 우리 사원이 아니에욧! 그리고 성실하기는 했죠. 성실해서는 안 되는 방향으로만…",
         "en": "Niner: They are not our employees! And they were diligent, yes. Only in directions where diligence should never be shown…",
-        "pt": "Niner: Aqueles não são nossos funcionários! E eles até eram diligentes. Só que em uma direção em que não deveriam ser…",
+        "pt": "Nina: Esses funcionários já foram demitidos! Não somos mais assim.",
         "es": "Niner: ¡Ellos no son empleados nuestros! Y además sí que eran diligentes. Solo que en una dirección en la que no deberían haberlo sido…"
     },
     "00hbCA": {
         "ko": "[나이너]\n버추얼 레코드 사용 후 점검이 막 끝난 참이에요. 무엇이 필요하세요? 기왕이면 가서 푹 쉬고 다시 오세요.",
         "en": "[Niner]\nThe inspection after using Virtual Record has just finished. What do you need? Preferably, go and get some proper rest before coming back.",
-        "pt": "[Niner]\nAcabamos de terminar a inspeção após o uso de Registro Virtual. Do que você precisa? Já que está aqui, vá descansar bem e volte depois.",
+        "pt": "[Nina]\nAcabei de terminar o Registro Virtual. O que posso fazer por você? Você deveria ir descansar um pouco agora.",
         "es": "[Niner]\nJusto acabamos de terminar la revisión tras usar Registro virtual. ¿Qué necesita? Mejor vaya a descansar bien y vuelva después."
     },
     "1EhbCA": {
         "ko": "[나이너]\n장비 강화는 저희 뒤에 있는 건물 그늘의 <NAVI>[라비앙]<INFO>yuno,220,352,0,101,0</INFO></NAVI>이 해줄 거예요.",
-        "en": "[Niner]\nFor equipment enhancement, [Rabian]<INFO>yuno,220,352,0,101,0</INFO></NAVI>, in the shade of the building behind us, will handle it.",
-        "pt": "[Niner]\nO aprimoramento de equipamentos será feito por <NAVI>[Rabian]<INFO>yuno,220,352,0,101,0</INFO></NAVI>, na sombra do prédio atrás de nós.",
-        "es": "[Niner]\nLa mejora de equipo la realiza [Rabian]<INFO>yuno,220,352,0,101,0</INFO></NAVI>, que está a la sombra del edificio detrás de nosotros."
+        "en": "[Niner]\nFor equipment enhancement, <NAVI>[Rabian]<INFO>yuno,220,352,0,101,0</INFO></NAVI>, in the shade of the building behind us, will handle it.",
+        "pt": "[Nina]\nNo prédio atrás de nós, você pode encantar Armas com <NAVI>[Lavian]<INFO>yuno,220,352,0,101,0</INFO></NAVI>.",
+        "es": "[Niner]\nLa mejora de equipo la realiza <NAVI>[Rabian]<INFO>yuno,220,352,0,101,0</INFO></NAVI>, que está a la sombra del edificio detrás de nosotros."
     },
     "1UhbCA": {
         "ko": "[나이너]\n왜 저희랑 같이 있지 않고 저 뒤에 있냐면, 수줍음이 많아서 혼자 있고 싶다고…",
         "en": "[Niner]\nAs for why they're back there instead of staying with us, they said they're shy and want to be alone…",
-        "pt": "[Niner]\nQuanto ao motivo de ela não estar conosco e sim lá atrás, é porque ela disse que é muito tímida e quer ficar sozinha…",
+        "pt": "[Nina]\nEla não está conosco porque é tímida. Ela prefere ficar sozinha.",
         "es": "[Niner]\nEn cuanto a por qué no está con nosotros y se encuentra allí atrás… dice que es muy tímid@ y que prefiere estar a solas…"
     },
     "1khbCA": {
         "ko": "시에라: 저는 사실 아직 라비앙 님과 대화를 못 해 봤습니다.",
         "en": "Sierra: In fact, I still have not had a conversation with Rabian myself.",
-        "pt": "Sierra: Na verdade, eu ainda não consegui conversar com a Srta. Rabian.",
+        "pt": "Sierra: Pra falar a verdade, nem eu falei com ela ainda.",
         "es": "Sierra: La verdad es que todavía no he podido hablar con Rabian."
     },
     "10hbCA": {
         "ko": "[나이너]\n아무튼 실력은 확실하니까 믿고 맡겨주세요!",
         "en": "[Niner]\nAnyway, their skills are certain, so please trust them with it!",
-        "pt": "[Niner]\nEnfim, a habilidade dela é garantida, então pode confiar e deixar com ela!",
+        "pt": "[Nina]\nMas ela é uma boa Encantadora. Você pode contar com ela.",
         "es": "[Niner]\nEn cualquier caso, sus habilidades son indiscutibles, ¡así que puede dejarlo en sus manos con total confianza!"
     }
 }

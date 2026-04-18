@@ -1103,5 +1103,15 @@
         "en": "{0} yells: {1}",
         "pt": "{0} diz: {1}",
         "es": "{0} grita: {1}"
+    },
+    "Qw4D": {
+        "en": "Anjo, por favor me ajude!",
+        "pt": "Anjo, por favor me ajude!",
+        "es": "¡Ángel, por favor ayúdame!"
+    },
+    "RA4D": {
+        "en": "Angel, please help me!",
+        "pt": "Anjo, por favor me ajude!",
+        "es": "¡Ángel, por favor ayúdame!"
     }
 }

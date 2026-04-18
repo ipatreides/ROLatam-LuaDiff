@@ -1,0 +1,566 @@
+{
+    "IIfnDA": {
+        "ko": "밝히리",
+        "en": "Skipkyrie",
+        "pt": "Pulalquíria",
+        "es": "Pulalquíria"
+    },
+    "IYfnDA": {
+        "ko": "소지하고 계시는 아이템의 갯수가 많아 퀘스트를 진행 할 수 없습니다.\n아이템을 정리한 뒤 다시 시도해 주시기 바랍니다.",
+        "en": "You have too many items to proceed.\nPlease reorganize your items and try again.",
+        "pt": "Você tem muitos itens para prosseguir.\nPor favor, reorganize seus itens e tente novamente.",
+        "es": "Tienes demasiados artículos para continuar.\nPor favor, reorganiza tus artículos e inténtalo de nuevo."
+    },
+    "IofnDA": {
+        "ko": "에피소드 16 클리어권 사용",
+        "en": "Use Episode 16 Pass",
+        "pt": "Usar Passe do Episódio 16",
+        "es": "Usar Pase del Episodio 16"
+    },
+    "I4fnDA": {
+        "ko": "에피소드 17 클리어권 사용",
+        "en": "Use Episode 17 Pass",
+        "pt": "Usar Passe do Episódio 17",
+        "es": "Usar Pase del Episodio 17"
+    },
+    "JIfnDA": {
+        "ko": "[밝히리]\n...묘하게 시선이 마주치는 느낌인데...\n얘, 너 내가 보이니?\n뭐 내가 보인다니 소원이라도 들어줘?",
+        "en": "[Skipkyrie]\n...Strangely, I feel like our eyes are meeting...\nHey, can you see me?\nIf you say you can see me, I'll grant you a wish!",
+        "pt": "[Pulalquíria]\n...Estranhamente, sinto que nossos olhos estão se encontrando...\nEi, você consegue me ver?\nSe disser que consegue me ver, eu realizo um desejo seu!",
+        "es": "[Pulalquíria]\n...Extrañamente, siento que nuestros ojos se están encontrando...\nOye, ¿puedes verme?\nSi dices que puedes verme, ¡te concederé un deseo!"
+    },
+    "JYfnDA": {
+        "ko": "[밝히리]\n마침 장소도 도서관이네.\n네 모험기에서 부족한 부분을 내가 임의로 채워줄 수 있는데, 해볼래?\n물론 공짜는 아니란다. 나도 먹고 살아야하지 않겠니?",
+        "en": "[Skipkyrie]\nI love stories, that's why I'm in this place.\nIf you want, I can fill in the missing parts of your story, traveler.\nOf course, it's not free. I need to make a living too.",
+        "pt": "[Pulalquíria]\nEu adoro histórias, por isso estou nesse lugar.\nSe quiser, posso preencher as partes que faltam na sua história, viajante.\nClaro, não é de graça. Eu também preciso ganhar a vida.",
+        "es": "[Pulalquíria]\nAmo las historias, por eso estoy en este lugar.\nSi quieres, puedo completar las partes que faltan en tu historia, viajero.\nClaro, no es gratis. También necesito ganarme la vida."
+    },
+    "JofnDA": {
+        "ko": "^4D4DFF밝히리와 거래하여 아직 진행하지 않은 에피소드를 강제로 완료할 수 있습니다.^000000\n이 경우 ^FF0000에피소드 진행으로 획득할 수 있는 보상이나 경험치, 업적은 지급하지 않으며 진행 상태만 완료합니다.^000000",
+        "en": "^4D4DFFYou can skip Episode missions.^000000\nHowever, you will ^FF0000NOT receive rewards, EXP, or achievements^000000. You will only have an episode marked as completed.",
+        "pt": "^4D4DFFVocê pode pular missões de Episódios.^000000\nEntretanto, você ^FF0000NÃO receberá recompensas, EXP ou conquistas^000000. Somente terá o acesso concluído de um episódio.",
+        "es": "^4D4DFFPuedes saltar misiones de Episodios.^000000\nSin embargo, ^FF0000NO recibirás recompensas, EXP o logros^000000. Solo tendrás el acceso completado de un episodio."
+    },
+    "J4fnDA": {
+        "ko": "^4D4DFF다음 에피소드를 진행하기 위해 특정 에피소드에서 진행 가능한 퀘스트를 모두 완료할 수 있습니다.^000000\n^4D4DFF별도의 선행 과정을 요구하지 않거나 단일 수행 퀘스트는 대상이 되지 않습니다.",
+        "en": "^4D4DFFYou can complete all missions of a specific Episode to proceed to the next Episode.^000000\n^4D4DFFUnique missions or those without prerequisites are not eligible.^000000",
+        "pt": "^4D4DFFVocê pode completar todas as missões de um Episódio específico para prosseguir ao próximo Episódio.^000000\n^4D4DFFMissões únicas ou que não exigem pré-requisitos não são elegíveis.^000000",
+        "es": "^4D4DFFPuedes completar todas las misiones de un Episodio específico para continuar al siguiente Episodio.^000000\n^4D4DFFMisiones únicas o que no requieren prerrequisitos no son elegibles.^000000"
+    },
+    "KIfnDA": {
+        "ko": "^4D4DFF이벤트 티켓을 소지하고 있을 경우 이벤트 티켓을 먼저 소모합니다.^000000",
+        "en": "^4D4DFFIf you have Passes in [Event] form, they will be consumed first.^000000",
+        "pt": "^4D4DFFSe você tiver Passes em forma de [Evento], eles serão consumidos primeiro.^000000",
+        "es": "^4D4DFFSi tienes Pases en forma de [Evento], se consumirán primero.^000000"
+    },
+    "KYfnDA": {
+        "ko": "에피소드 클리어권 구매",
+        "en": "Buy Episode Passes",
+        "pt": "Comprar Passes de Episódio",
+        "es": "Comprar Pases de Episodio"
+    },
+    "KofnDA": {
+        "ko": "취소",
+        "en": "Cancel",
+        "pt": "Cancelar",
+        "es": "Cancelar"
+    },
+    "K4fnDA": {
+        "ko": "[밝히리]\n어머, 안됐지만 네가 선택한 에피소드는 베이스 레벨 100 이상이어야 수행할 수 있단다.\n지금 네게 필요한 것은 아니구나.",
+        "en": "[Skipkyrie]\nAh, unfortunately the Episode you selected requires base level 100 or higher.\nThat's not what you need right now.",
+        "pt": "[Pulalquíria]\nAh, infelizmente o Episódio que você selecionou requer nível base 100 ou superior.\nNão é o que você precisa agora.",
+        "es": "[Pulalquíria]\nAh, desafortunadamente el Episodio que seleccionaste requiere nivel base 100 o superior.\nNo es lo que necesitas ahora."
+    },
+    "LIfnDA": {
+        "ko": "[밝히리]\n^4D4DFF에피소드 16^000000?\n테라 글로리아를 둘러싼 이야기구나.\n잠깐 살펴볼게.",
+        "en": "[Skipkyrie]\n^4D4DFFEpisode 16^000000?\nThe story surrounding the Royal Banquet and Terra Gloria.\nLet me take a quick look.",
+        "pt": "[Pulalquíria]\n^4D4DFFEpisódio 16^000000?\nA história em torno do Banquete Real e da Terra Gloria.\nDeixe-me dar uma olhada rápida.",
+        "es": "[Pulalquíria]\n¿^4D4DFFEpisodio 16^000000?\nLa historia alrededor del Banquete Real y la Tierra Gloria.\nDéjame echar un vistazo rápido."
+    },
+    "LYfnDA": {
+        "ko": "[밝히리]",
+        "en": "[Skipkyrie]",
+        "pt": "[Pulalquíria]",
+        "es": "[Pulalquíria]"
+    },
+    "LofnDA": {
+        "ko": "영웅을 위한 연회 미완료",
+        "en": "Royal Banquet - Incomplete",
+        "pt": "Banquete Real - Incompleto",
+        "es": "Banquete Real - Incompleto"
+    },
+    "L4fnDA": {
+        "ko": "영웅을 위한 연회 완료",
+        "en": "Royal Banquet - Complete",
+        "pt": "Banquete Real - Completo",
+        "es": "Banquete Real - Completo"
+    },
+    "MIfnDA": {
+        "ko": "게오보르그가의 이야기 미완료",
+        "en": "The Gaebolg - Incomplete",
+        "pt": "Os Gaebolg - Incompleta",
+        "es": "Los Gaebolg - Incompleta"
+    },
+    "MYfnDA": {
+        "ko": "게오보르그가의 이야기 완료",
+        "en": "The Gaebolg - Complete",
+        "pt": "Os Gaebolg - Completa",
+        "es": "Los Gaebolg - Completa"
+    },
+    "MofnDA": {
+        "ko": "위그너가의 이야기 미완료",
+        "en": "The Wigner - Incomplete",
+        "pt": "Os Wigner - Incompleta",
+        "es": "Los Wigner - Incompleta"
+    },
+    "M4fnDA": {
+        "ko": "위그너가의 이야기 완료",
+        "en": "The Wigner - Complete",
+        "pt": "Os Wigner - Completa",
+        "es": "Los Wigner - Completa"
+    },
+    "NIfnDA": {
+        "ko": "발터가의 이야기 미완료",
+        "en": "The Walter - Incomplete",
+        "pt": "Os Walter - Incompleta",
+        "es": "Los Walter - Incompleta"
+    },
+    "NYfnDA": {
+        "ko": "발터가의 이야기 완료",
+        "en": "The Walter - Complete",
+        "pt": "Os Walter - Completa",
+        "es": "Los Walter - Completa"
+    },
+    "NofnDA": {
+        "ko": "리하르트가의 이야기 미완료",
+        "en": "The Richard - Incomplete",
+        "pt": "Os Richard - Incompleta",
+        "es": "Los Richard - Incompleta"
+    },
+    "N4fnDA": {
+        "ko": "뢰겐부르그가의 이야기 미완료",
+        "en": "The Lugenburg - Incomplete",
+        "pt": "Os Lugenburg - Incompleta",
+        "es": "Los Lugenburg - Incompleta"
+    },
+    "OIfnDA": {
+        "ko": "뢰겐부르그가의 이야기 완료",
+        "en": "The Lugenburg - Complete",
+        "pt": "Os Lugenburg - Completa",
+        "es": "Los Lugenburg - Completa"
+    },
+    "OYfnDA": {
+        "ko": "연회 준비를 내가 왜? 미완료",
+        "en": "Culinary Emergency - Incomplete",
+        "pt": "Emergência Culinária - Incompleto",
+        "es": "Emergencia Culinaria - Incompleto"
+    },
+    "OofnDA": {
+        "ko": "연회 준비를 내가 왜? 완료",
+        "en": "Culinary Emergency - Complete",
+        "pt": "Emergência Culinária - Completo",
+        "es": "Emergencia Culinaria - Completo"
+    },
+    "O4fnDA": {
+        "ko": "테라 글로리아 미완료",
+        "en": "Terra Gloria - Incomplete",
+        "pt": "Terra Gloria - Incompleta",
+        "es": "Tierra Gloria - Incompleta"
+    },
+    "PIfnDA": {
+        "ko": "테라 글로리아 완료",
+        "en": "Terra Gloria - Complete",
+        "pt": "Terra Gloria - Completa",
+        "es": "Tierra Gloria - Completa"
+    },
+    "PYfnDA": {
+        "ko": "협상과 협잡사이 미완료",
+        "en": "Military Base - Incomplete",
+        "pt": "Base Militar - Incompleto",
+        "es": "Base Militar - Incompleto"
+    },
+    "PofnDA": {
+        "ko": "협상과 협잡사이 완료",
+        "en": "Military Base - Complete",
+        "pt": "Base Militar - Completo",
+        "es": "Base Militar - Completo"
+    },
+    "P4fnDA": {
+        "ko": "앙금 미완료",
+        "en": "Last Memories - Incomplete",
+        "pt": "Últimas Memórias - Incompleto",
+        "es": "Últimos Recuerdos - Incompleto"
+    },
+    "QIfnDA": {
+        "ko": "앙금 완료",
+        "en": "Last Memories - Complete",
+        "pt": "Últimas Memórias - Completo",
+        "es": "Últimos Recuerdos - Completo"
+    },
+    "QYfnDA": {
+        "ko": "진행하지 않는다.",
+        "en": "Do not proceed.",
+        "pt": "Não prosseguir.",
+        "es": "No continuar."
+    },
+    "QofnDA": {
+        "ko": "에피소드 클리어를 진행한다.",
+        "en": "Complete this Episode.",
+        "pt": "Conclua esse Episódio.",
+        "es": "Completar este Episodio."
+    },
+    "Q4fnDA": {
+        "ko": "[밝히리]\n필요할 때 또 와~",
+        "en": "[Skipkyrie]\nCome back when you need me~",
+        "pt": "[Pulalquíria]\nVolte quando precisar de mim~",
+        "es": "[Pulalquíria]\n¡Vuelve cuando me necesites~"
+    },
+    "RIfnDA": {
+        "ko": "[밝히리]\n필요한 이야기는 다 알고 있는 것 같은데?\n더 수고를 들일 필요는 없겠구나.",
+        "en": "[Skipkyrie]\nSeems you already know all the stories you need.\nNo need to go through this.",
+        "pt": "[Pulalquíria]\nParece que você já conhece todas as histórias que precisa.\nNão há necessidade de passar por isso.",
+        "es": "[Pulalquíria]\nParece que ya conoces todas las historias que necesitas.\nNo hay necesidad de pasar por esto."
+    },
+    "RYfnDA": {
+        "ko": "[밝히리]\n음 ….\n<ITEM>[(이벤트)에피소드16 클리어 티켓]<INFO>1000283</INFO></ITEM> 이나\n<ITEM>[에피소드16 클리어 티켓]<INFO>1000282</INFO></ITEM>\n한 장을 소모하는데, 가진게 없니?\n내가 바꿔줄 수 있단다.",
+        "en": "[Skipkyrie]\nHmm...\nYou don't have an\n[Event] <ITEM>[Episode 16 Pass]<INFO>1000283</INFO></ITEM>\nor <ITEM>[Episode 16 Pass]<INFO>1000282</INFO></ITEM>?\nI need them to trade with you.",
+        "pt": "[Pulalquíria]\nHmm...\nVocê não tem um\n[Evento] <ITEM>[Passe do Episódio 16]<INFO>1000283</INFO></ITEM>\nou <ITEM>[Passe do Episódio 16]<INFO>1000282</INFO></ITEM>?\nPreciso deles para trocar com você.",
+        "es": "[Pulalquíria]\nHmm...\n¿No tienes un\n[Evento] <ITEM>[Pase del Episodio 16]<INFO>1000283</INFO></ITEM>\no <ITEM>[Pase del Episodio 16]<INFO>1000282</INFO></ITEM>?\nLos necesito para intercambiar contigo."
+    },
+    "RofnDA": {
+        "ko": "[밝히리]\n이야기를 채우는 작업은 시간이 좀 걸린단다.\n천천히 지켜봐주렴.",
+        "en": "[Skipkyrie]\nFilling a story takes time.\nPlease wait patiently.",
+        "pt": "[Pulalquíria]\nPreencher uma história leva um tempo.\nPor favor, aguarde com paciência.",
+        "es": "[Pulalquíria]\nCompletar una historia lleva tiempo.\nPor favor, espera con paciencia."
+    },
+    "R4fnDA": {
+        "ko": "...이야기에 깃발을 꽂는 중...",
+        "en": "... Writing on the timeline ...",
+        "pt": "... Escrevendo na linha do tempo ...",
+        "es": "... Escribiendo en la línea de tiempo ..."
+    },
+    "SIfnDA": {
+        "ko": "..퀘스트 항목을 정리 중...",
+        "en": "... Organizing missions ...",
+        "pt": "... Organizando missões ...",
+        "es": "... Organizando misiones ..."
+    },
+    "SYfnDA": {
+        "ko": "클라나 네미에리의 이야기 추가 중 ….",
+        "en": "... Trying to understand Nalandro ...",
+        "pt": "... Tentando entender Nalandro ...",
+        "es": "... Tratando de entender a Nalandro ..."
+    },
+    "SofnDA": {
+        "ko": "사소한 이야기 제거 중...",
+        "en": "... Removing gossip ...",
+        "pt": "... Removendo fofocas ...",
+        "es": "... Eliminando chismes ..."
+    },
+    "S4fnDA": {
+        "ko": "[밝히리]\n정리가 다 되었단다!\n자, 이제 새로운 이야기를 바로 만나러 갈 수 있을 거야!",
+        "en": "[Skipkyrie]\nAll done!\nNow you can go and find a new story right away!",
+        "pt": "[Pulalquíria]\nTudo pronto!\nAgora você pode ir e encontrar uma nova história imediatamente!",
+        "es": "[Pulalquíria]\n¡Todo listo!\n¡Ahora puedes ir y encontrar una nueva historia de inmediato!"
+    },
+    "TIfnDA": {
+        "ko": "[밝히리]\n흐음, 이건 세부적으로 살펴볼 필요가 있어.\n명확하게 구분해서 다시 보자.\n어떤 이야기를 채워주길 바라니?",
+        "en": "[Skipkyrie]\nHmm, I need to do a more detailed job.\nLet's check separately.\nWhich story would you like me to fill in?",
+        "pt": "[Pulalquíria]\nHmm, preciso fazer um trabalho mais detalhado.\nVamos verificar separadamente.\nQual história você gostaria que eu preenchesse?",
+        "es": "[Pulalquíria]\nHmm, necesito hacer un trabajo más detallado.\nRevisemos por separado.\n¿Qué historia te gustaría que complete?"
+    },
+    "TYfnDA": {
+        "ko": "Ep17.1 태동, 일루시온",
+        "en": "Ep17.1: Ilusión",
+        "pt": "Ep17.1: Ilusión",
+        "es": "Ep17.1: Ilusión"
+    },
+    "TofnDA": {
+        "ko": "Ep17.2 현자의 유산",
+        "en": "Ep17.2: Sage's Legacy",
+        "pt": "Ep17.2: Legado do Sábio",
+        "es": "Ep17.2: Legado del Sabio"
+    },
+    "T4fnDA": {
+        "ko": "다시 생각할게.",
+        "en": "I'll think again.",
+        "pt": "Vou pensar novamente.",
+        "es": "Lo pensaré de nuevo."
+    },
+    "UIfnDA": {
+        "ko": "[밝히리]\n어머, 안됐지만 네가 선택한 에피소드는 베이스 레벨 110 이상이어야 수행할 수 있단다.\n지금 네게 필요한 것은 아니구나.",
+        "en": "[Skipkyrie]\nAh, unfortunately the Episode you selected requires base level 110 or higher.\nThat's not what you need right now.",
+        "pt": "[Pulalquíria]\nAh, infelizmente o episódio que você selecionou requer nível base 110 ou superior.\nNão é o que você precisa agora.",
+        "es": "[Pulalquíria]\nAh, desafortunadamente el Episodio que seleccionaste requiere nivel base 110 o superior.\nNo es lo que necesitas ahora."
+    },
+    "UYfnDA": {
+        "ko": "[밝히리]\n모든 이야기 정리에는 순서가 있는 법이란다.\n그대는 아직 ^4D4DFF테라 글로리아^000000에 얽힌 이야기를 수집하지 않았구나.",
+        "en": "[Skipkyrie]\nEvery story organization has its order.\nYou haven't yet collected the stories surrounding ^4D4DFFTerra Gloria^000000.",
+        "pt": "[Pulalquíria]\nToda organização de história tem sua ordem.\nVocê ainda não coletou as histórias em torno da ^4D4DFFTerra Gloria^000000.",
+        "es": "[Pulalquíria]\nToda organización de historia tiene su orden.\nAún no has recolectado las historias alrededor de ^4D4DFFTierra Gloria^000000."
+    },
+    "UofnDA": {
+        "ko": "[밝히리]\n^4D4DFF에피소드 16을 완료^000000한 다음에 찾아와주겠어?",
+        "en": "[Skipkyrie]\nCome back after you ^4D4DFFcomplete Episode 16^000000?",
+        "pt": "[Pulalquíria]\nVolte depois que você ^4D4DFFcompletar o Episódio 16^000000?",
+        "es": "[Pulalquíria]\n¿Volver después de que ^4D4DFFcompletes el Episodio 16^000000?"
+    },
+    "U4fnDA": {
+        "ko": "[밝히리]\n^4D4DFF에피소드 17.1^000000?\n일루시온과 관련된 이야기구나.\n잠깐 살펴볼게.",
+        "en": "[Skipkyrie]\n^4D4DFFEpisode 17.1^000000?\nThe story related to Ilusión.\nLet me take a quick look.",
+        "pt": "[Pulalquíria]\n^4D4DFFEpisódio 17.1^000000?\nA história relacionada a Ilusión.\nDeixe-me dar uma olhada rápida.",
+        "es": "[Pulalquíria]\n¿^4D4DFFEpisodio 17.1^000000?\nLa historia relacionada con Ilusión.\nDéjame echar un vistazo rápido."
+    },
+    "VIfnDA": {
+        "ko": "새로운 작전지 미완료",
+        "en": "Ilusión - Incomplete",
+        "pt": "Ilusión - Incompleta",
+        "es": "Ilusión - Incompleta"
+    },
+    "VYfnDA": {
+        "ko": "새로운 작전지 완료",
+        "en": "Ilusión - Complete",
+        "pt": "Ilusión - Completa",
+        "es": "Ilusión - Completa"
+    },
+    "VofnDA": {
+        "ko": "팩씨의 취업 로드 미완료",
+        "en": "Investigating Rudus - Incomplete",
+        "pt": "Investigando Rudus - Incompleta",
+        "es": "Investigando a Rudus - Incompleta"
+    },
+    "V4fnDA": {
+        "ko": "팩씨의 취업 로드 완료",
+        "en": "Investigating Rudus - Complete",
+        "pt": "Investigando Rudus - Completa",
+        "es": "Investigando a Rudus - Completa"
+    },
+    "WIfnDA": {
+        "ko": "레겐쉬름 탈환작전 미완료",
+        "en": "Invasion of Regenschirm - Incomplete",
+        "pt": "Invasão na Regenschirm - Incompleta",
+        "es": "Invasión en Regenschirm - Incompleta"
+    },
+    "WYfnDA": {
+        "ko": "레겐쉬름 탈환작전 완료",
+        "en": "Invasion of Regenschirm - Complete",
+        "pt": "Invasão na Regenschirm - Completa",
+        "es": "Invasión en Regenschirm - Completa"
+    },
+    "WofnDA": {
+        "ko": "오래된 추억 미완료",
+        "en": "Like Old Times - Incomplete",
+        "pt": "Como nos velhos tempos - Incompletas",
+        "es": "Como en los viejos tiempos - Incompletas"
+    },
+    "W4fnDA": {
+        "ko": "오래된 추억 완료",
+        "en": "Like Old Times - Complete",
+        "pt": "Como nos velhos tempos - Completas",
+        "es": "Como en los viejos tiempos - Completas"
+    },
+    "XIfnDA": {
+        "ko": "우물에서 바라보는 하늘 미완료",
+        "en": "Capturing Elyumina - Incomplete",
+        "pt": "Capturando Elyumina - Incompleto",
+        "es": "Capturando a Elyumina - Incompleto"
+    },
+    "XYfnDA": {
+        "ko": "우물에서 바라보는 하늘 완료",
+        "en": "Capturing Elyumina - Complete",
+        "pt": "Capturando Elyumina - Completo",
+        "es": "Capturando a Elyumina - Completo"
+    },
+    "XofnDA": {
+        "ko": "순수한 악동 미완료",
+        "en": "COR Memorial - Incomplete",
+        "pt": "Memorial COR - Incompleto",
+        "es": "Memorial COR - Incompleto"
+    },
+    "X4fnDA": {
+        "ko": "순수한 악동 완료",
+        "en": "COR Memorial - Complete",
+        "pt": "Memorial COR - Completo",
+        "es": "Memorial COR - Completo"
+    },
+    "YIfnDA": {
+        "ko": "팩씨의 취업로드2 미완료",
+        "en": "Searching for Patrick - Incomplete",
+        "pt": "Procurando Patrick - Incompleta",
+        "es": "Buscando a Patrick - Incompleta"
+    },
+    "YYfnDA": {
+        "ko": "팩씨의 취업로드2 완료",
+        "en": "Searching for Patrick - Complete",
+        "pt": "Procurando Patrick - Completa",
+        "es": "Buscando a Patrick - Completa"
+    },
+    "YofnDA": {
+        "ko": "[밝히리]\n음 ….\n<ITEM>[에피소드17 클리어 티켓]<INFO>1000287</INFO></ITEM>\n한 장을 소모하는데, 가진게 없니?\n내가 바꿔줄 수 있단다.",
+        "en": "[Skipkyrie]\nHmm...\nYou need an <ITEM>[Episode 17 Pass]<INFO>1000287</INFO></ITEM>.\nAnd it seems you don't have any.",
+        "pt": "[Pulalquíria]\nHmm...\nVocê precisa de um <ITEM>[Passe do Episódio 17]<INFO>1000287</INFO></ITEM>.\nE parece que você não tem nenhum.",
+        "es": "[Pulalquíria]\nHmm...\nNecesitas un <ITEM>[Pase del Episodio 17]<INFO>1000287</INFO></ITEM>.\nY parece que no tienes ninguno."
+    },
+    "Y4fnDA": {
+        "ko": "...어느 청년의 취업 이야기 정리 중...",
+        "en": "... Organizing the Timeline ...",
+        "pt": "... Organizando a Linha do Tempo ...",
+        "es": "... Organizando la Línea de Tiempo ..."
+    },
+    "ZIfnDA": {
+        "ko": "...일루시온 이야기 갈무리 중...",
+        "en": "... Still understanding Nalandro ...",
+        "pt": "... Ainda entendendo Nalandro ...",
+        "es": "... Aún entendiendo a Nalandro ..."
+    },
+    "ZYfnDA": {
+        "ko": "[밝히리]\n어머, 안됐지만 네가 선택한 에피소드는 베이스 레벨 130 이상이어야 수행할 수 있단다.\n지금 네게 필요한 것은 아니구나.",
+        "en": "[Skipkyrie]\nAh, unfortunately the Episode you selected requires base level 130 or higher.\nThat's not what you need right now.",
+        "pt": "[Pulalquíria]\nAh, infelizmente o episódio que você selecionou requer nível base 130 ou superior.\nNão é o que você precisa agora.",
+        "es": "[Pulalquíria]\nAh, desafortunadamente el Episodio que seleccionaste requiere nivel base 130 o superior.\nNo es lo que necesitas ahora."
+    },
+    "ZofnDA": {
+        "ko": "[밝히리]\n모든 이야기 정리에는 순서가 있는 법이란다.\n그대는 아직 ^4D4DFF일루시온^000000에 얽힌 이야기를 수집하지 않았구나.",
+        "en": "[Skipkyrie]\nEvery story organization has its order.\nYou haven't yet collected the stories surrounding ^4D4DFFIlusión^000000.",
+        "pt": "[Pulalquíria]\nToda organização de história tem sua ordem.\nVocê ainda não coletou as histórias em torno de ^4D4DFFIlusión^000000.",
+        "es": "[Pulalquíria]\nToda organización de historia tiene su orden.\nAún no has recolectado las historias alrededor de ^4D4DFFIlusión^000000."
+    },
+    "Z4fnDA": {
+        "ko": "[밝히리]\n^4D4DFF에피소드 17.1을 완료^000000한 다음에 진행할 수 있단다.",
+        "en": "[Skipkyrie]\nYou can proceed after ^4D4DFFcompleting Episode 17.1^000000.",
+        "pt": "[Pulalquíria]\nVocê pode prosseguir depois de ^4D4DFFcompletar o Episódio 17.1^000000.",
+        "es": "[Pulalquíria]\nPuedes continuar después de ^4D4DFFcompletar el Episodio 17.1^000000."
+    },
+    "aIfnDA": {
+        "ko": "[밝히리]\n^4D4DFF에피소드 17.2^000000?\n대현자 바르문트의 저택과 관련된 이야기구나.\n잠깐 살펴볼게.",
+        "en": "[Skipkyrie]\n^4D4DFFEpisode 17.2^000000?\nThe story related to the mansion of the great sage Varmunt.\nLet me take a quick look.",
+        "pt": "[Pulalquíria]\n^4D4DFFEpisódio 17.2^000000?\nA história relacionada à mansão do grande sábio Varmunt.\nDeixe-me dar uma olhada rápida.",
+        "es": "[Pulalquíria]\n¿^4D4DFFEpisodio 17.2^000000?\nLa historia relacionada con la mansión del gran sabio Varmunt.\nDéjame echar un vistazo rápido."
+    },
+    "aYfnDA": {
+        "ko": "저택의 개구멍 미완료",
+        "en": "Sage's Legacy part 1 - Incomplete",
+        "pt": "Legado do Sábio parte 1 - Incompleto",
+        "es": "Legado del Sabio parte 1 - Incompleto"
+    },
+    "aofnDA": {
+        "ko": "저택의 개구멍 완료",
+        "en": "Sage's Legacy part 1 - Complete",
+        "pt": "Legado do Sábio parte 1 - Completo",
+        "es": "Legado del Sabio parte 1 - Completo"
+    },
+    "a4fnDA": {
+        "ko": "하수관의 낙오자 미완료",
+        "en": "Sage's Legacy part 2 - Incomplete",
+        "pt": "Legado do Sábio parte 2 - Incompleto",
+        "es": "Legado del Sabio parte 2 - Incompleto"
+    },
+    "bIfnDA": {
+        "ko": "하수관의 낙오자 완료",
+        "en": "Sage's Legacy part 2 - Complete",
+        "pt": "Legado do Sábio parte 2 - Completo",
+        "es": "Legado del Sabio parte 2 - Completo"
+    },
+    "bYfnDA": {
+        "ko": "네트워크를 찾을 수 없어 미완료",
+        "en": "Sage's Legacy part 3 - Incomplete",
+        "pt": "Legado do Sábio parte 3 - Incompleto",
+        "es": "Legado del Sabio parte 3 - Incompleto"
+    },
+    "bofnDA": {
+        "ko": "네트워크를 찾을 수 없어 완료",
+        "en": "Sage's Legacy part 3 - Complete",
+        "pt": "Legado do Sábio parte 3 - Completo",
+        "es": "Legado del Sabio parte 3 - Completo"
+    },
+    "b4fnDA": {
+        "ko": "그것이 알고싶다 미완료",
+        "en": "Sage's Legacy part 4 - Incomplete",
+        "pt": "Legado do Sábio parte 4 - Incompleto",
+        "es": "Legado del Sabio parte 4 - Incompleto"
+    },
+    "cIfnDA": {
+        "ko": "그것이 알고싶다 완료",
+        "en": "Sage's Legacy part 4 - Complete",
+        "pt": "Legado do Sábio parte 4 - Completo",
+        "es": "Legado del Sabio parte 4 - Completo"
+    },
+    "cYfnDA": {
+        "ko": "해충박멸작전 미완료",
+        "en": "Sage's Legacy part 5 - Incomplete",
+        "pt": "Legado do Sábio parte 5 - Incompleta",
+        "es": "Legado del Sabio parte 5 - Incompleta"
+    },
+    "cofnDA": {
+        "ko": "해충박멸작전 완료",
+        "en": "Sage's Legacy part 5 - Complete",
+        "pt": "Legado do Sábio parte 5 - Completa",
+        "es": "Legado del Sabio parte 5 - Completa"
+    },
+    "c4fnDA": {
+        "ko": "대관식 참관 미완료",
+        "en": "Sage's Legacy part 6 - Incomplete",
+        "pt": "Legado do Sábio parte 6 - Incompleto",
+        "es": "Legado del Sabio parte 6 - Incompleto"
+    },
+    "dIfnDA": {
+        "ko": "대관식 참관 완료",
+        "en": "Sage's Legacy part 6 - Complete",
+        "pt": "Legado do Sábio parte 6 - Completo",
+        "es": "Legado del Sabio parte 6 - Completo"
+    },
+    "dYfnDA": {
+        "ko": "수상정원 미완료",
+        "en": "Restricted Zone - Incomplete",
+        "pt": "Zona Restrita - Incompleto",
+        "es": "Zona Restringida - Incompleto"
+    },
+    "dofnDA": {
+        "ko": "수상정원 완료",
+        "en": "Restricted Zone - Complete",
+        "pt": "Zona Restrita - Completo",
+        "es": "Zona Restringida - Completo"
+    },
+    "d4fnDA": {
+        "ko": "도서관에서는 조용히 미완료",
+        "en": "Silence in the Library - Incomplete",
+        "pt": "Silêncio na Biblioteca - Incompleto",
+        "es": "Silencio en la Biblioteca - Incompleto"
+    },
+    "eIfnDA": {
+        "ko": "도서관에서는 조용히 완료",
+        "en": "Silence in the Library - Complete",
+        "pt": "Silêncio na Biblioteca - Completo",
+        "es": "Silencio en la Biblioteca - Completo"
+    },
+    "eYfnDA": {
+        "ko": "목욕탕과 이상한 생물과 나 미완료",
+        "en": "Mystery in the Sauna - Incomplete",
+        "pt": "Mistério na Sauna - Incompleto",
+        "es": "Misterio en la Sauna - Incompleto"
+    },
+    "eofnDA": {
+        "ko": "목욕탕과 이상한 생물과 나 완료",
+        "en": "Mystery in the Sauna - Complete",
+        "pt": "Mistério na Sauna - Completo",
+        "es": "Misterio en la Sauna - Completo"
+    },
+    "e4fnDA": {
+        "ko": "...현자의 저택을 방문 중...",
+        "en": "... Visiting the sage's mansion ...",
+        "pt": "... Visitando a mansão do sábio ...",
+        "es": "... Visitando la mansión del sabio ..."
+    },
+    "fIfnDA": {
+        "ko": "... 네트워크를 찾는 중...",
+        "en": "... Acquiring Du Lian's rage ...",
+        "pt": "... Adquirindo raiva do Du Lian ...",
+        "es": "... Adquiriendo la ira de Du Lian ..."
+    },
+    "fYfnDA": {
+        "ko": "[밝히리]\n모쪼록 바라는대로.",
+        "en": "[Skipkyrie]\nSo be it, as you wish.",
+        "pt": "[Pulalquíria]\nQue seja como você deseja.",
+        "es": "[Pulalquíria]\nQue así sea como deseas."
+    }
+}

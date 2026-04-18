@@ -9565,7 +9565,7 @@ SKILL_DESCRIPT = {
 		"Skill Type: ^777777Active / Divest FAW ^000000",
 		"Description : ^777777Disarms 1 active FAW from the ground. Also enables a chance to disarm other player's FAWs. Consumes 1 <Wrench>^000000"
 	},
-	[SKID.SC_STARTMARK] = {
+	[SKID.SC_FATALMENACE] = {
 		"Fatal Manace",
 		"Max. Lv: 10",
 		"Skill Requirement: ^777777Intimidate 5 ^000000",

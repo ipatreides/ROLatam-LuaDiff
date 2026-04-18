@@ -1,0 +1,842 @@
+{
+    "QBZ1DA": {
+        "ko": "긴 숲길의 끝자락인가?",
+        "en": "Is that place at the end of a long forest trail?",
+        "pt": "Será que é o fim da longa trilha na floresta?",
+        "es": "¿Es este el final del largo camino por el bosque?"
+    },
+    "QRZ1DA": {
+        "ko": "꽤 오랫동안 아무도 오지 않았나 보군. 손질된 나무가 없어.",
+        "en": "It seems no one has come here for quite a while. There are no trimmed trees.",
+        "pt": "Parece que já faz um bom tempo que ninguém vem por aqui. Não há nenhuma árvore aparada.",
+        "es": "Parece que hace bastante tiempo que no viene nadie. No hay árboles podados."
+    },
+    "QhZ1DA": {
+        "ko": "뭐! 그래서 더 포근한 느낌의 숲인 것 같군. 일단 안으로 들어가 보자.",
+        "en": "Well, that makes it look all the cozier. I'd better go in.",
+        "pt": "O quê! Por isso a floresta parece ainda mais aconchegante. Vamos entrar primeiro.",
+        "es": "¡Vaya! Por eso parece un bosque más acogedor. Entremos de una vez."
+    },
+    "QxZ1DA": {
+        "ko": "응? 기분 탓인가? 숲에서 불어오는 바람의 흐름이 달라진 것 같은데?",
+        "en": "Huh? Is it just me, or has the flow of the breeze from the forest really changed?",
+        "pt": "Hã? Será minha imaginação? Parece que a corrente do vento que sopra da floresta mudou...",
+        "es": "¿Eh? ¿Son mis imaginaciones? Me parece que la corriente del viento que sopla desde el bosque ha cambiado."
+    },
+    "RBZ1DA": {
+        "ko": "어?! 저 팔콘은 뭐지? 가까이 가볼까?",
+        "en": "Err?! What's that falcon? I'd better get close.",
+        "pt": "Eita?! O que é aquele falcão? Vou dar uma olhada de perto?",
+        "es": "¡¿Eh?! ¿Qué es ese halcón? ¿Me acerco?"
+    },
+    "RRZ1DA": {
+        "ko": "저 팔콘도 그렇고 방금 느낀 바람도 그렇고 나를 저 숲 속으로 안내하는 걸까?",
+        "en": "That falcon, and even the breeze I just felt. Are they beaconing me to enter that forest?",
+        "pt": "Será que tanto aquele falcão quanto a brisa que senti agora estão me guiando para dentro da floresta?",
+        "es": "¿Será que tanto ese halcón como el viento que acabo de sentir me están guiando hacia el interior del bosque?"
+    },
+    "RhZ1DA": {
+        "ko": "숲 안쪽으로 갈수록 포근한 바람이 나를 감싸고 있어.",
+        "en": "The deeper I go inside the forest, the warmer the breeze feels.",
+        "pt": "Quanto mais adentro da floresta vou, mais uma brisa aconchegante me envolve.",
+        "es": "Cuanto más me adentro en el bosque, más me envuelve una brisa cálida."
+    },
+    "RxZ1DA": {
+        "ko": "아까 본 팔콘은 보이지도 않는군.",
+        "en": "The falcon I saw earlier is nowhere to be found.",
+        "pt": "O falcão que vi há pouco nem aparece mais.",
+        "es": "Ya ni siquiera veo el halcón que vi antes."
+    },
+    "SBZ1DA": {
+        "ko": "숲 안에 이렇게 넓은 공간이 있다니.",
+        "en": "Who knew there was such a big clearing in the forest?",
+        "pt": "Quem diria que havia um espaço tão amplo aqui dentro da floresta.",
+        "es": "No sabía que hubiera un espacio tan amplio dentro del bosque."
+    },
+    "SRZ1DA": {
+        "ko": "이왕 바람의 안내를 받았으니 이 안을 수색해볼까?",
+        "en": "Since the breeze guided me here, I should look around.",
+        "pt": "Já que fui guiado pelo vento, será que devo dar uma olhada por aqui?",
+        "es": "Ya que el viento me ha guiado hasta aquí, ¿por qué no exploro este lugar?"
+    },
+    "ShZ1DA": {
+        "ko": "자세히 보니 헌터 때 데리고 다니던, 팔콘과 닮았는데?",
+        "en": "Looking closer, this falcon resembles the one I used to carry around as a Hunter.",
+        "pt": "Olhando bem, parece o falcão que eu costumava levar quando era caçador, não é?",
+        "es": "Si lo miro bien, ¿se parece al halcón que solía llevar cuando era cazador?"
+    },
+    "SxZ1DA": {
+        "ko": "어엇?! 사라져버렸다.",
+        "en": "Whoa?! It vanished.",
+        "pt": "Eita?! Ele sumiu.",
+        "es": "¡¿Qué?! Se ha esfumado."
+    },
+    "TBZ1DA": {
+        "ko": "팔콘",
+        "en": "Falcon",
+        "pt": "Falcão",
+        "es": "Halcón"
+    },
+    "TRZ1DA": {
+        "ko": "?!",
+        "en": "?!",
+        "pt": "?!",
+        "es": "?!"
+    },
+    "ThZ1DA": {
+        "ko": "이럴 수가. 들어왔던 길이 완전히 막혀 있잖아?",
+        "en": "Oh, no! The entrance is completely blocked now.",
+        "pt": "Não acredito. O caminho por onde entrei está completamente bloqueado, não está?",
+        "es": "No puede ser. ¿El camino por el que entramos está completamente bloqueado?"
+    },
+    "TxZ1DA": {
+        "ko": "산사태라도 있었던 건가? 나갈 수도 없고 혹시 나..",
+        "en": "Was there a landslide or something? How can I get out of here? Am I...",
+        "pt": "Será que rolou um deslizamento de terra? Não dá pra sair... será que eu...",
+        "es": "¿Acaso hubo un deslizamiento de tierra? No puedo salir... ¿Será que yo..."
+    },
+    "UBZ1DA": {
+        "ko": "조난된 건가?",
+        "en": "Stranded?",
+        "pt": "estou perdido?",
+        "es": "¿estoy perdido?"
+    },
+    "URZ1DA": {
+        "ko": "- 루루카 깊은 숲에서\n- 조난되었습니다. 진행에 관한\n- 설명을 보시겠습니까?",
+        "en": "- You've been stranded in -\n- the Luluka Forest. Would you like to -\n- check how to proceed from here? -",
+        "pt": "- Na floresta profunda de Luluka\n- Estás perdido. Queres ver\n- as instruções sobre como prosseguir?",
+        "es": "- En el bosque profundo de Luluka\n- Te has perdido. ¿Quieres ver\n- las instrucciones para seguir adelante?"
+    },
+    "UhZ1DA": {
+        "ko": "^FF0000※ 이 창을 나간 후에는 게임 진행에 관한 설명을 더 이상 볼 수 없습니다.^000000",
+        "en": "^FF0000※ Once you close this window, you will no longer be able to view the explanation about game progression.^000000",
+        "pt": "^FF0000※ Depois de sair desta janela, você não poderá mais ver as instruções sobre o andamento do jogo.^000000",
+        "es": "^FF0000※ Una vez que salgas de esta ventana, ya no podrás ver las instrucciones sobre cómo avanzar en el juego.^000000"
+    },
+    "UxZ1DA": {
+        "ko": "설명을 본다.",
+        "en": "View description.",
+        "pt": "Ver as instruções.",
+        "es": "Ver las instrucciones."
+    },
+    "VBZ1DA": {
+        "ko": "바로 진행한다.",
+        "en": "Proceed immediately.",
+        "pt": "Continuar agora.",
+        "es": "Continuar directamente."
+    },
+    "VRZ1DA": {
+        "ko": "진행한다.",
+        "en": "Proceed.",
+        "pt": "Continuar.",
+        "es": "Continuar."
+    },
+    "VhZ1DA": {
+        "ko": "루루카 깊은 숲의 하루",
+        "en": "A Day in the Deep Luluka Forest",
+        "pt": "Um dia na Floresta Profunda de Luluka",
+        "es": "Un día en el bosque profundo de Luluka"
+    },
+    "VxZ1DA": {
+        "ko": "식량과 식수 해결",
+        "en": "Food and Water Solutions",
+        "pt": "Resolver a questão de comida e água",
+        "es": "Resolver el problema de comida y agua"
+    },
+    "WBZ1DA": {
+        "ko": "루루카 깊은 숲 실패",
+        "en": "Failing the Deep Luluka Forest",
+        "pt": "Falha na Floresta Profunda de Luluka",
+        "es": "Fracaso en el Bosque Profundo de Luluka"
+    },
+    "WRZ1DA": {
+        "ko": "- 루루카 깊은 숲에서의 하루는\n- 10분입니다. 10분이 지나면,\n- 오두막의 침대 주변에서 다음날을\n- 시작하게 되며, 그날 더 이상\n- 할 일이 없다면, 오두막의\n- 침대에서 바로 다음날로\n- 넘어갈 수도 있습니다.",
+        "en": "- In the Deep Luluka Forest, each day -\n- lasts for 10 minutes. After 10 minutes, -\n- you'll restart near the cabin bed -\n- for a new day. If you have -\n- no more tasks for that day, -\n- you can skip to the next day -\n- directly from the cabin bed.",
+        "pt": "- Um dia na Floresta Profunda de Luluka\n- dura 10 minutos. Passados os 10 minutos,\n- você começa o dia seguinte\n- ao redor da cama da cabana, e se não houver\n- mais nada para fazer naquele dia, você pode\n- passar diretamente para o dia seguinte\n- na cama da cabana.",
+        "es": "- Un día en el Bosque Profundo de Luluka\n- dura 10 minutos. Cuando pasen los 10 minutos,\n- empezarás el día siguiente\n- cerca de la cama de la cabaña, y si ya no\n- tienes nada más que hacer ese día,\n- puedes pasar directamente al día siguiente\n- desde la cama de la cabaña."
+    },
+    "WhZ1DA": {
+        "ko": "- 하루의 시간은 오두막 밖으로\n- 나가야 흐르기 시작합니다.",
+        "en": "- Your day begins when you -\n- go outside the cabin.",
+        "pt": "- O tempo do dia só começa a passar\n- quando você sai da cabana.",
+        "es": "- El tiempo del día empieza a correr\n- cuando sales de la cabaña."
+    },
+    "WxZ1DA": {
+        "ko": "- 하루가 넘어갈 때 일정량의 식량과\n- 식수를 소모합니다. 부족하지 않게\n- 유지해야 하며, 식량과 식수의\n- 보유 량은 오두막에서 확인할 수\n- 있습니다. 식량은 숲에 있는 풀을\n- 캐서 얻고, 작은 샘에서 물을 떠\n- 식수를 얻을 수 있습니다.",
+        "en": "- At the end of each day, you'll consume -\n- a certain amount of food and water. -\n- You must maintain an adequate amount of sustenance -\n- at all times, and you can check your current amount -\n- at the cabin. You can gather food by picking grass -\n- in the forest, and you can get water by scooping it -\n- from the small spring.",
+        "pt": "- Ao passar o dia, você consome uma certa quantidade de comida\n- e água. É preciso manter um estoque\n- suficiente, e a quantidade de comida e água\n- que você tem pode ser verificada\n- na cabana. Você consegue comida colhendo\n- ervas na floresta e água\n- em pequenas fontes.",
+        "es": "- Al pasar el día, se consume una cierta cantidad de comida\n- y agua. Debes asegurarte de que no te falte\n- nada, y puedes consultar\n- las reservas de comida y agua\n- en la cabaña. La comida se obtiene\n- recogiendo hierba del bosque, y el agua\n- se consigue sacándola de un pequeño manantial."
+    },
+    "XBZ1DA": {
+        "ko": "- 루루카 깊은 숲에서 일부 조건을\n- 만족하지 못한 경우 실패 포인트가\n- 쌓이게 되며, 실패 포인트가 일정\n- 이상 누적되면, 루루카 깊은 숲\n- 밖으로 쫓겨납니다. 그런 경우\n- 다시 루루카 깊은 숲에\n- 도전해야 합니다.",
+        "en": "- If you fail to meet certain conditions\n- while in the Deep Luluka Forest, Fail Points\n- will accumulate. When they reach\n- a certain amount, you'll be\n- removed from the forest. In that case,\n- you must challenge the Deep Luluka Forest\n- again.",
+        "pt": "- Se não cumprires algumas condições\n- na Floresta Profunda de Luluka,\n- pontos de falha vão se acumular,\n- e quando atingirem um certo limite,\n- serás expulso da Floresta Profunda de Luluka.\n- Nesse caso,\n- terás que tentar entrar na Floresta Profunda de Luluka\n- de novo.",
+        "es": "- Si no cumples con algunas condiciones\n- en el Bosque Profundo de Luluka,\n- se acumularán puntos de fracaso,\n- y si se acumulan más de un cierto\n- número, te expulsarán\n- del Bosque Profundo de Luluka. En ese caso,\n- tendrás que volver a intentar\n- el Bosque Profundo de Luluka."
+    },
+    "XRZ1DA": {
+        "ko": "좋아! 힘내서 살아보자.",
+        "en": "Alright! I'd better hang in there. I can do this!",
+        "pt": "Ótimo! Vamos dar o nosso melhor para sobreviver.",
+        "es": "¡Bien! Ánimo, intentemos sobrevivir."
+    },
+    "XhZ1DA": {
+        "ko": "산사태 때문에 밖으로 나가는 길은 막혀있다.",
+        "en": "The exit to the outside has been blocked by a landslide.",
+        "pt": "O caminho para sair está bloqueado por um deslizamento de terra.",
+        "es": "El camino de salida está bloqueado por un deslizamiento de tierra."
+    },
+    "XxZ1DA": {
+        "ko": "누군가 꼭 구하러 와 주기를..",
+        "en": "Please, someone come and rescue us...",
+        "pt": "Espero que alguém venha nos resgatar...",
+        "es": "Espero que alguien venga a rescatarnos..."
+    },
+    "YBZ1DA": {
+        "ko": "오두막의 주인",
+        "en": "Cabin Owner",
+        "pt": "O dono da cabana",
+        "es": "El dueño de la cabaña"
+    },
+    "YRZ1DA": {
+        "ko": "[{0}]\n반가워요. 어르신.",
+        "en": "[{0}]\nGood to see you again, sir.",
+        "pt": "[{0}]\nPrazer em conhecê-lo, senhor.",
+        "es": "[{0}]\nHola, señor."
+    },
+    "YhZ1DA": {
+        "ko": "[오두막의 주인]\n으잉? 자네는 누구지? 누군데 내 집에서 나와?",
+        "en": "[Cabin Owner]\nHuh? Who are you? What are you doing in my house?",
+        "pt": "[Dono da cabana]\nHã? Quem é você? Quem é você para estar na minha casa?",
+        "es": "[El dueño de la cabaña]\n¿Eh? ¿Quién eres tú? ¿Quién eres para salir de mi casa?"
+    },
+    "YxZ1DA": {
+        "ko": "- 뭘까? 저번에 만났을 때와는\n- 전혀 다른 느낌인데?\n- 무언가 사람을 끌어당기는 느낌이\n- 있는 그런 어르신이었던 것 같은데.",
+        "en": "- Huh? He doesn't look -\n- like the same person I met. -\n- I don't feel as drawn to him -\n- as I did the last time. -",
+        "pt": "- O que será? É uma sensação\n- totalmente diferente da última vez que nos encontramos?\n- Parecia ser um senhor que\n- tinha algo que atraía as pessoas.",
+        "es": "- ¿Qué pasa? Me das una sensación\n- totalmente diferente a la última vez que nos vimos.\n- Me parece que eras un señor\n- con ese aire que te atrae."
+    },
+    "ZBZ1DA": {
+        "ko": "[오두막의 주인]\n아니니.. 잠깐만 얼굴이 친숙? 한 것 같기도 한데..",
+        "en": "[Cabin Owner]\nWait a minute. I think I've seen you before...",
+        "pt": "[Dono da cabana]\nNão... Espera aí, seu rosto me parece familiar...",
+        "es": "[El dueño de la cabaña]\nNo, no... Espera un momento, ¿tu cara me resulta familiar?"
+    },
+    "ZRZ1DA": {
+        "ko": "[오두막의 주인]\n아! 저번에 코모도에서 돈 꿔준 친구 구만?",
+        "en": "[Cabin Owner]\nAh! You're the friend who lent me money last time in Comodo, right?",
+        "pt": "[Dono da cabana]\nAh! És o amigo que me emprestou dinheiro em Komodo da última vez, não é?",
+        "es": "[El dueño de la cabaña]\n¡Ah! ¿Eres el amigo al que le presté dinero en Komodo la última vez?"
+    },
+    "ZhZ1DA": {
+        "ko": "[오두막의 주인]\n거-어 내가 때가 되면 갚는다니까. 뭘 또 여기까지 찾아오고 그래.",
+        "en": "[Cabin Owner]\nHmph! I said I'd pay you. I can't believe you came all the way here for pocket money like that.",
+        "pt": "[Dono da cabana]\nEi... eu disse que pagaria quando chegasse a hora. Por que vieste até aqui de novo?",
+        "es": "[El dueño de la cabaña]\nOye, te dije que te lo devolvería cuando llegara el momento. ¿Para qué has venido hasta aquí?"
+    },
+    "ZxZ1DA": {
+        "ko": "[오두막의 주인]\n친구가 빌려준 돈은 내가 그 때 10배로 불려서 밥도 먹고 맛있는 어른의 음료수도 마시고 잘 쓰고 있어.",
+        "en": "[Cabin Owner]\nI managed to increase the money I'd borrowed tenfold. I wouldn't have had any money left to feed myself and drink, if it weren't for you.",
+        "pt": "[Dono da cabana]\nO dinheiro que você me emprestou, eu já multipliquei por dez, e estou usando pra comer bem e tomar bebidas gostosas de gente grande.",
+        "es": "[El dueño de la cabaña]\nEl dinero que me prestaste lo multiplicé por diez en ese entonces, y lo estoy usando muy bien: para comer y para tomar unas bebidas ricas de adultos."
+    },
+    "aBZ1DA": {
+        "ko": "[오두막의 주인]\n걱정 말어 갚아, 갚는다고 근데 진짜 여긴 어떻게 들어왔어? 요즘 빚쟁이들 대단하네?",
+        "en": "[Cabin Owner]\nDon't worry. I promise I'll pay you back soon. Anyway, how did you know where I was? Debt collectors nowadays can be pretty scary.",
+        "pt": "[Dono da cabana]\nNão se preocupe, eu vou pagar, vou mesmo. Mas, sério, como você conseguiu entrar aqui? Os cobradores de dívidas estão ficando bons hoje em dia, né?",
+        "es": "[El dueño de la cabaña]\nNo te preocupes, te lo voy a devolver, te lo prometo. Pero, ¿cómo te metiste aquí? Los cobradores están que arden últimamente, ¿no?"
+    },
+    "aRZ1DA": {
+        "ko": "- 어르신에게 페이욘에서 만나\n- 여기까지 오고 그 동안 있던 일에\n- 대해서 설명했다.",
+        "en": "- I met the elder in Payon\n- and explained to him\n- everything that had happened\n- since we met in Payon.",
+        "pt": "- Encontrei o senhor em Payon\n- Expliquei tudo sobre o que aconteceu\n- desde que cheguei até aqui.",
+        "es": "- Le conté al señor que nos conocimos en Payon\n- y le expliqué todo lo que pasó\n- desde que llegué hasta aquí."
+    },
+    "ahZ1DA": {
+        "ko": "[오두막의 주인]\n으잉? 빚쟁이가 아니야? 페이욘에서 만났다고?",
+        "en": "[Cabin Owner]\nHuh? You're not here for your money? We met in Payon?",
+        "pt": "[Dono da cabana]\nHã? Não é um cobrador de dívidas? Você disse que nos encontramos em Payon?",
+        "es": "[El dueño de la cabaña]\n¿Eh? ¿No eres un cobrador? ¿Que nos conocimos en Payon?"
+    },
+    "axZ1DA": {
+        "ko": "[오두막의 주인]\n미안해 친구, 전혀 기억 안 나는데?",
+        "en": "[Cabin Owner]\nSorry, pal. I have no idea what you're talking about.",
+        "pt": "[Dono da cabana]\nDesculpa, amigo, não me lembro de nada...",
+        "es": "[El dueño de la cabaña]\nLo siento, amigo, ¿no me acuerdo para nada?"
+    },
+    "bBZ1DA": {
+        "ko": "[오두막의 주인]\n아! 그래서 술에서 깼을 때 헤어진 동료들에게 갔었나? 이거 참 민망하네, 술만 마시면, 전혀 기억을 못 해서 말이야.",
+        "en": "[Cabin Owner]\nAh! So that's why I went to see my old companions when I woke up the next day? Man, I'm sorry. I completely black out every time I drink.",
+        "pt": "[Dono da cabana]\nAh! Então foi por isso que, quando acordou da bebedeira, foi procurar os colegas de quem se separou? Que vergonha, né? É que, quando bebo, não consigo lembrar de nada.",
+        "es": "[El dueño de la cabaña]\n¡Ah! ¿Por eso, cuando te despertaste de la borrachera, fuiste a buscar a tus compañeros con los que te habías separado? Qué vergüenza, cada vez que bebo, no recuerdo nada."
+    },
+    "bRZ1DA": {
+        "ko": "[오두막의 주인]\n뭐 됐어! 사소한 건 넘어가고 내가 우리 친구가 오두막에서 나오기 전까지 대충 둘러 봤는데, 제법인데?",
+        "en": "[Cabin Owner]\nWhatever! Forget the details. I watched you before you came out of the cabin, and I've got to say, you're pretty impressive.",
+        "pt": "[Dono da cabana]\nDeixa pra lá! Vamos esquecer essas coisinhas. Dei uma olhada rápida na cabana antes do nosso amigo sair, e tá bem legal, né?",
+        "es": "[El dueño de la cabaña]\n¡Da igual! Olvidemos las tonterías. Eché un vistazo rápido a la cabaña antes de que nuestro amigo saliera, ¿y qué tal está?"
+    },
+    "bhZ1DA": {
+        "ko": "[오두막의 주인]\n겉보기와는 다르게 평범한 활 쟁이는 아닌 모양이야.",
+        "en": "[Cabin Owner]\nLooks like you're not your average archer, despite appearances.",
+        "pt": "[Dono da cabana]\nAo contrário do que parece, parece que não é um arqueiro comum.",
+        "es": "[El dueño de la cabaña]\nA pesar de las apariencias, parece que no es un arquero cualquiera."
+    },
+    "bxZ1DA": {
+        "ko": "[오두막의 주인]\n이 숲의 바람이 그렇게 평범한 바람이 아니거든 바람을 다스리고 인정 받지 못하면, 갈갈이 찢어 발기는 그런 바람이거든.",
+        "en": "[Cabin Owner]\nThe wind that blows in this forest isn't normal. If you can't control it and gain its recognition, it rips you apart.",
+        "pt": "[Dono da cabana]\nO vento desta floresta não é um vento qualquer. É um vento que, se você não souber controlá-lo e não for reconhecido, vai te rasgar em pedaços.",
+        "es": "[El dueño de la cabaña]\nEl viento de este bosque no es un viento cualquiera. Si no lo controlas y no te lo ganas, es un viento que te hace pedazos."
+    },
+    "cBZ1DA": {
+        "ko": "[오두막의 주인]\n그런 이곳에서 무려 10일이나 살아남아 있다는 건? 평범한 활 쟁이가 아니라는 이야기지.",
+        "en": "[Cabin Owner]\nSurviving in such a place for ten days means you're no ordinary archer.",
+        "pt": "[Dono da cabana]\nO fato de ter sobrevivido por nada menos que 10 dias num lugar assim? Isso quer dizer que não és um arqueiro comum.",
+        "es": "[El dueño de la cabaña]\n¿Que hayas sobrevivido nada menos que 10 días en un lugar así? Eso significa que no eres un arquero cualquiera."
+    },
+    "cRZ1DA": {
+        "ko": "[오두막의 주인]\n뭐 남은 이야기는 나가서 하자고 내가 길도 뚫어 놨어. 자의도 아니고 타의로 이 심심한 곳에 갇혀 있었으니 얼마나 답답했을 거야?",
+        "en": "[Cabin Owner]\nWell, we can talk some more when we get out of here. I dug a way through the blockage. You must be frustrated, having been locked up in this boring place against your will.",
+        "pt": "[Dono da cabana]\nBom, vamos continuar a conversa lá fora. Eu já abri um caminho. Ficar preso neste lugar monótono, não por vontade própria, mas por força de circunstâncias, deve ter sido bem sufocante, né?",
+        "es": "[El dueño de la cabaña]\nBueno, el resto de la historia lo contamos afuera. Ya te he abierto un camino. No fue por tu voluntad, sino por la de otros, que te quedaste encerrado en este lugar tan aburrido. ¿Te habrás sentido muy agobiado?"
+    },
+    "chZ1DA": {
+        "ko": "[오두막의 주인]\n안 그래?",
+        "en": "[Cabin Owner]\nRight?",
+        "pt": "[Dono da cabana]\nNão é mesmo?",
+        "es": "[El dueño de la cabaña]\n¿No te parece?"
+    },
+    "cxZ1DA": {
+        "ko": "[오두막의 주인]\n자-자 나가자고, 집은 내가 나중에 천천히 정리하면 되니까.",
+        "en": "[Cabin Owner]\nCome on, let's get out of here. I'll clean the house later.",
+        "pt": "[Dono da cabana]\nVá-vá, vamos sair. A casa eu arrumo depois, com calma.",
+        "es": "[El dueño de la cabaña]\nVamos, vamos, salgamos. Ya yo me encargo de ordenar la casa más tarde, sin prisa."
+    },
+    "dBZ1DA": {
+        "ko": "[오두막의 주인]\n뭐하나? 지긋지긋할 텐데 어서 나가자고.",
+        "en": "[Cabin Owner]\nWhat are you doing? Aren't you bored being in here? Come on, let's get out of here.",
+        "pt": "[Dono da cabana]\nO que você tá fazendo? Deve estar de saco cheio, então vamos logo.",
+        "es": "[El dueño de la cabaña]\n¿Qué haces? Ya te habrás hartado, así que vamos, salgamos."
+    },
+    "dRZ1DA": {
+        "ko": "아직 할 일이 남은 것 같다.",
+        "en": "I still have things left to do here.",
+        "pt": "Parece que ainda tem coisas pra fazer.",
+        "es": "Parece que aún nos queda algo por hacer."
+    },
+    "dhZ1DA": {
+        "ko": "- 콰 아 앙 -",
+        "en": "- Kwa Ah Ang -",
+        "pt": "- Kwaa-ang -",
+        "es": "- Kwaa-ang -"
+    },
+    "dxZ1DA": {
+        "ko": "- 우 르 릉 -",
+        "en": "- WRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR",
+        "pt": "- Uuurrrrr -",
+        "es": "- Uuurrrrr -"
+    },
+    "eBZ1DA": {
+        "ko": "<잠시 후 루루카 깊은 숲에서 쫓겨납니다.>",
+        "en": "<You'll be removed from the Deep Luluka Forest shortly.>",
+        "pt": "<Pouco depois, você será expulso da Floresta Profunda de Luluka.>",
+        "es": "<Un rato después, te echan del Bosque Profundo de Luluka.>"
+    },
+    "eRZ1DA": {
+        "ko": "<루루카 깊은 숲 {0}일째>",
+        "en": "<Deep Luluka Forest Day {0}>",
+        "pt": "<Floresta Profunda de Luluka {0}º dia>",
+        "es": "<Bosque profundo de Luluka {0} día}"
+    },
+    "ehZ1DA": {
+        "ko": "<루루카 깊은 숲 위로 태양이 떠올랐습니다.>",
+        "en": "<The sun rose over the Deep Luluka Forest.>",
+        "pt": "<O sol nasceu sobre a Floresta Profunda de Luluka.>",
+        "es": "<El sol ha salido sobre el Bosque Profundo de Luluka.>"
+    },
+    "exZ1DA": {
+        "ko": "<루루카 깊은 숲에 어둠이 찾아옵니다.>",
+        "en": "<Night is falling in the Deep Luluka Forest.>",
+        "pt": "<A escuridão cai sobre a Floresta Profunda de Luluka.>",
+        "es": "<La oscuridad llega al bosque profundo de Luluka.>"
+    },
+    "fBZ1DA": {
+        "ko": "<식수가 떨어졌다.>",
+        "en": "<I ran out of drinking water.>",
+        "pt": "<A água potável acabou.>",
+        "es": "<Se acabó el agua potable.>"
+    },
+    "fRZ1DA": {
+        "ko": "<식량이 떨어졌다.>",
+        "en": "<I ran out of food.>",
+        "pt": "<A comida acabou.>",
+        "es": "<Se acabó la comida.>"
+    },
+    "fhZ1DA": {
+        "ko": "오두막 안을 조금 더 살펴볼까?",
+        "en": "Should I look around the cabin a little longer?",
+        "pt": "Vamos dar uma olhada melhor dentro da cabana?",
+        "es": "¿Echamos un vistazo más a la cabaña?"
+    },
+    "fxZ1DA": {
+        "ko": "밖이 소란스러운 것 같은데? 조금만 기다려 볼까?",
+        "en": "Why is it so noisy outside? I should wait for now.",
+        "pt": "Parece que está agitado lá fora, né? Vamos esperar um pouquinho?",
+        "es": "Parece que hay mucho alboroto afuera. ¿Esperamos un rato?"
+    },
+    "gBZ1DA": {
+        "ko": "침대",
+        "en": "Bed",
+        "pt": "Cama",
+        "es": "Cama"
+    },
+    "gRZ1DA": {
+        "ko": "이 낡은 침대는 오두막의 주인이 사용했겠지?",
+        "en": "This old bed must have been used by the cabin owner.",
+        "pt": "Essa cama velha deve ter sido usada pelo dono da cabana, né?",
+        "es": "¿Esta cama vieja la usaba el dueño de la cabaña?"
+    },
+    "ghZ1DA": {
+        "ko": "응?! 방금 뭐였지? 엄청 커다란 소리가 들렸는데?",
+        "en": "Huh?! What was that? I heard a loud noise.",
+        "pt": "Hã?! O que foi isso agora? Ouvi um barulho enorme...",
+        "es": "¿Eh?! ¿Qué fue eso? ¿No se escuchó un ruido enorme?"
+    },
+    "gxZ1DA": {
+        "ko": "조금 잠잠해 진 것 같은데? 무슨 상황인지 나가서 확인해보자.",
+        "en": "It seems to have quieted down a bit? I'd better go outside and check what's going on.",
+        "pt": "Parece que ficou um pouco mais calmo. Vamos lá fora ver o que está acontecendo.",
+        "es": "Parece que se ha calmado un poco. Vamos a salir a ver qué pasa."
+    },
+    "hBZ1DA": {
+        "ko": "낡은 침대가 놓여있다.",
+        "en": "There's an old bed.",
+        "pt": "Tem uma cama velha aqui.",
+        "es": "Hay una cama vieja aquí."
+    },
+    "hRZ1DA": {
+        "ko": "오늘 더 할 것도 없는 것 같은데 잘까?",
+        "en": "I don't think I have anything else to do today. Should I go to bed?",
+        "pt": "Parece que não tenho mais nada pra fazer hoje, vou dormir?",
+        "es": "Parece que hoy no tengo nada más que hacer, ¿me voy a dormir?"
+    },
+    "hhZ1DA": {
+        "ko": "잠을 잔다.",
+        "en": "Go to bed.",
+        "pt": "Vou dormir.",
+        "es": "Me voy a dormir."
+    },
+    "hxZ1DA": {
+        "ko": "자지 않는다.",
+        "en": "Doesn't sleep.",
+        "pt": "Não vou dormir.",
+        "es": "No duermo."
+    },
+    "iBZ1DA": {
+        "ko": "일과를 마치고 잠자리에 들었다.",
+        "en": "I finished my day and went to bed.",
+        "pt": "Terminei o trabalho e fui para a cama.",
+        "es": "Terminé mis tareas y me acosté."
+    },
+    "iRZ1DA": {
+        "ko": "z..Z..z..Z..",
+        "en": "Zzz...",
+        "pt": "z..Z..z..Z..",
+        "es": "z..Z..z..Z.."
+    },
+    "ihZ1DA": {
+        "ko": "그동안 신세를 진 낡은 침대이다.",
+        "en": "This old bed was where I slept while I was here.",
+        "pt": "É a velha cama que me acolheu todo esse tempo.",
+        "es": "Es la vieja cama a la que le debo tanto."
+    },
+    "ixZ1DA": {
+        "ko": "식량 보관함",
+        "en": "Food Container",
+        "pt": "Caixa de mantimentos",
+        "es": "El armario de provisiones"
+    },
+    "jBZ1DA": {
+        "ko": "식량 보관함은 비어있다.",
+        "en": "The food container is empty.",
+        "pt": "O armário de mantimentos está vazio.",
+        "es": "El alacena está vacía."
+    },
+    "jRZ1DA": {
+        "ko": "식량 보관함은 가득 차 있다.",
+        "en": "The food container is full.",
+        "pt": "O armário de mantimentos está cheio.",
+        "es": "El alacena está llena."
+    },
+    "jhZ1DA": {
+        "ko": "식량 보관함에는 식량이 {0}% 정도 담겨있다.",
+        "en": "The food container is about {0}% full.",
+        "pt": "O armário de mantimentos está com cerca de {0}% de mantimentos.",
+        "es": "El alacena de comida tiene un {0}% de comida."
+    },
+    "jxZ1DA": {
+        "ko": "식수통",
+        "en": "Water Bottle",
+        "pt": "Copo de água",
+        "es": "Cantimplora"
+    },
+    "kBZ1DA": {
+        "ko": "물을 깨끗하게 정화하는 여과기가 달린 식수통이다.",
+        "en": "This water bottle is equipped with a water purifier.",
+        "pt": "É um galão com um filtro que purifica a água.",
+        "es": "Es un bidón de agua con un filtro que purifica el agua."
+    },
+    "kRZ1DA": {
+        "ko": "통이 빈 것을 보니 마실 물이 부족하겠군.",
+        "en": "Seeing the empty container, it seems we're running low on drinking water.",
+        "pt": "Pelo que vejo, o galão está vazio, então deve estar faltando água potável.",
+        "es": "Como el bidón está vacío, parece que nos falta agua para beber."
+    },
+    "khZ1DA": {
+        "ko": "통에 맑은 물이 가득 차 있다.",
+        "en": "The bottle is filled with clean water.",
+        "pt": "O galão está cheio de água limpa.",
+        "es": "El bidón está lleno de agua clara."
+    },
+    "kxZ1DA": {
+        "ko": "물은 {0}% 정도 담겨있는 것 같다.",
+        "en": "The bottle is about {0}% full.",
+        "pt": "Parece que tem cerca de {0}% de água.",
+        "es": "Parece que hay un {0}% de agua."
+    },
+    "lBZ1DA": {
+        "ko": "양동이의 물을 붓는다.",
+        "en": "Pour water into it.",
+        "pt": "Despejo a água do balde.",
+        "es": "Viertes el agua del balde."
+    },
+    "lRZ1DA": {
+        "ko": "그냥 둔다.",
+        "en": "Leave it as it is.",
+        "pt": "Deixo assim.",
+        "es": "Lo dejo así."
+    },
+    "lhZ1DA": {
+        "ko": "양동이로 떠온 물을 부었다.",
+        "en": "I poured the water from the bucket into the bottle.",
+        "pt": "Despejei a água que trouxe no balde.",
+        "es": "Eché el agua que traje en el balde."
+    },
+    "lxZ1DA": {
+        "ko": "물은 {0}% 정도 찬 것 같다.",
+        "en": "The water bottle is about {0}% full.",
+        "pt": "Parece que a água está {0}% cheia.",
+        "es": "Parece que el agua ha subido un {0}%."
+    },
+    "mBZ1DA": {
+        "ko": "물이 가득 찼다.",
+        "en": "The water bottle is full.",
+        "pt": "A água encheu completamente.",
+        "es": "Se llenó de agua."
+    },
+    "mRZ1DA": {
+        "ko": "한동안 물 걱정은 없겠네.",
+        "en": "I won't have to worry about water for a while.",
+        "pt": "Por um tempo, não vou precisar me preocupar com água.",
+        "es": "Por un tiempo no tendré que preocuparme por el agua."
+    },
+    "mhZ1DA": {
+        "ko": "벽난로",
+        "en": "Fireplace",
+        "pt": "Lareira",
+        "es": "La chimenea"
+    },
+    "mxZ1DA": {
+        "ko": "벽난로의 불을 지필까?",
+        "en": "Should I light up the fireplace?",
+        "pt": "Será que acendo a lareira?",
+        "es": "¿Encendemos el fuego de la chimenea?"
+    },
+    "nBZ1DA": {
+        "ko": "불을 지핀다.",
+        "en": "Light it up.",
+        "pt": "Acendo o fogo.",
+        "es": "Enciendo el fuego."
+    },
+    "nRZ1DA": {
+        "ko": "벽난로의 불을 지폈다.",
+        "en": "Lit the fireplace.",
+        "pt": "Acendi a lareira.",
+        "es": "Encendí el fuego de la chimenea."
+    },
+    "nhZ1DA": {
+        "ko": "벽난로의 불을 지피려면 나무가 있어야겠지?",
+        "en": "I need firewood to light it up.",
+        "pt": "Pra acender a lareira, preciso de lenha, né?",
+        "es": "Para encender el fuego de la chimenea, necesitas leña, ¿no?"
+    },
+    "nxZ1DA": {
+        "ko": "타닥- 타닥-",
+        "en": "Crackle, crackle",
+        "pt": "Cri-cri-cri-",
+        "es": "Crujido, crujido..."
+    },
+    "oBZ1DA": {
+        "ko": "벽난로가 활활 불타고 있다.",
+        "en": "The fireplace is burning brightly.",
+        "pt": "A lareira está queimando com força.",
+        "es": "La chimenea está ardiendo con fuerza."
+    },
+    "oRZ1DA": {
+        "ko": "아랫목",
+        "en": "Warm Spot",
+        "pt": "Cama quentinha",
+        "es": "El rincón cálido"
+    },
+    "ohZ1DA": {
+        "ko": "데려온 동물을 아랫목에 넣을까?",
+        "en": "Should I place the captured animal on this warm spot?",
+        "pt": "Será que coloco o animal que trouxe no canto quentinho?",
+        "es": "¿Pongo al animal que traje en el rincón cálido?"
+    },
+    "oxZ1DA": {
+        "ko": "넣는다.",
+        "en": "Place.",
+        "pt": "Coloco.",
+        "es": "Lo pongo."
+    },
+    "pBZ1DA": {
+        "ko": "넣지 않는다.",
+        "en": "Do not place.",
+        "pt": "Não coloco.",
+        "es": "No lo pongo."
+    },
+    "pRZ1DA": {
+        "ko": "함정에서 데려온 동물을 아랫목에 넣어줬다.",
+        "en": "I placed the animal I brought from the trap on the warm spot.",
+        "pt": "Coloquei o animal que trouxe da armadilha no canto quentinho.",
+        "es": "Puse al animal que traje de la trampa en el rincón cálido."
+    },
+    "phZ1DA": {
+        "ko": "불을 지펴 놓았으니 금방 따뜻해지겠지?",
+        "en": "The fire should warm it soon.",
+        "pt": "Já acendi a lareira, então vai esquentar rapidinho, né?",
+        "es": "Ya que encendí el fuego, se calentará enseguida, ¿no?"
+    },
+    "pxZ1DA": {
+        "ko": "따뜻해지도록 불을 지펴주자.",
+        "en": "Let's light the fire to warm it up.",
+        "pt": "Vamos acender a lareira para que ele se aqueça.",
+        "es": "Encendamos el fuego para que se caliente."
+    },
+    "qBZ1DA": {
+        "ko": "그럼 이 동물을 어쩌지?",
+        "en": "Then what do I do with this animal?",
+        "pt": "Então, o que faremos com este bichinho?",
+        "es": "¿Y qué hacemos con este animalito?"
+    },
+    "qRZ1DA": {
+        "ko": "작은 동물이 쉬고 있다. 언제쯤 괜찮아질까?",
+        "en": "The small animal is resting. Will it get better soon?",
+        "pt": "O bichinho está descansando. Quando é que ele vai ficar bem?",
+        "es": "El animalito está descansando. ¿Cuándo se recuperará?"
+    },
+    "qhZ1DA": {
+        "ko": "빨리 괜찮아져야 할 텐데.",
+        "en": "I hope it'll get better soon.",
+        "pt": "Ele precisa melhorar logo.",
+        "es": "Ojalá se recupere pronto."
+    },
+    "qxZ1DA": {
+        "ko": "추울지 모르니 따듯하게 불을 지펴주자.",
+        "en": "It might be cold. I should make a fire.",
+        "pt": "Talvez esteja com frio, então vamos acender a lareira para aquecê-lo.",
+        "es": "No sé si tendrá frío, así que encendamos el fuego para que se caliente."
+    },
+    "rBZ1DA": {
+        "ko": "벽난로의 옆이다.",
+        "en": "This spot is near the fireplace.",
+        "pt": "É ao lado da lareira.",
+        "es": "Está al lado de la chimenea."
+    },
+    "rRZ1DA": {
+        "ko": "이런 곳을 보통 아랫목이라고 하지?",
+        "en": "This spot is usually called the warmest spot, right?",
+        "pt": "Não costumam chamar um lugar assim de “canto quentinho”?",
+        "es": "¿A este tipo de lugares no se les suele llamar «la parte más cálida de la casa»?"
+    },
+    "rhZ1DA": {
+        "ko": "응? 팔콘?",
+        "en": "Huh? A falcon?",
+        "pt": "Hã? Falcão?",
+        "es": "¿Eh? ¿Falcon?"
+    },
+    "rxZ1DA": {
+        "ko": "그리운 걸 헌터 때 헤어진 팔콘이랑 많이 닮았네.",
+        "en": "How adorable! You remind me of my falcon that I had as a Hunter.",
+        "pt": "É estranho, mas ele se parece muito com o Falcon, de quem me separei na época do Hunter.",
+        "es": "Me hace pensar en Falcon, con quien me separé en Hunter."
+    },
+    "sBZ1DA": {
+        "ko": "이곳에 얼마나 더 있을지는 모르겠지만..",
+        "en": "I don't know how long I'll be staying here, but...",
+        "pt": "Não sei por quanto tempo mais ficarei aqui...",
+        "es": "No sé cuánto tiempo más estaré aquí..."
+    },
+    "sRZ1DA": {
+        "ko": "건강하게만 자라다오.",
+        "en": "Please grow up healthy.",
+        "pt": "Cresça saudável.",
+        "es": "Ojalá crezcas sano y fuerte."
+    },
+    "shZ1DA": {
+        "ko": "오잉? 팔콘의 상태가?",
+        "en": "Huh? The falcon's condition?",
+        "pt": "O quê? Como está o Falcon?",
+        "es": "¿Eh? ¿Cómo está Falcon?"
+    },
+    "sxZ1DA": {
+        "ko": "팔콘이 성장했다.",
+        "en": "The falcon has grown.",
+        "pt": "O Falcon cresceu.",
+        "es": "Falcon ha crecido."
+    },
+    "tBZ1DA": {
+        "ko": "팔콘에게 먹이를 먹일까?",
+        "en": "Should I feed the falcon?",
+        "pt": "Vou dar comida para o Falcon?",
+        "es": "¿Le das de comer a Falcon?"
+    },
+    "tRZ1DA": {
+        "ko": "먹인다.",
+        "en": "Feed.",
+        "pt": "Dou comida.",
+        "es": "Le doy de comer."
+    },
+    "thZ1DA": {
+        "ko": "먹이지 않는다.",
+        "en": "Do not feed.",
+        "pt": "Não vou dar.",
+        "es": "No le doy de comer."
+    },
+    "txZ1DA": {
+        "ko": "참! 식량이 없었지. 팔콘에게 먹일 게 없네.",
+        "en": "Oh, right—I've got no food. I have nothing to give this falcon.",
+        "pt": "Ah, é verdade! Não tinha comida. Não tenho nada para dar ao Falcão.",
+        "es": "¡Ah, claro! No tenía comida. No tengo nada para darle de comer al halcón."
+    },
+    "uBZ1DA": {
+        "ko": "흠.. 식량이 팔콘을 먹일 정도로 남아있지 않네. 아쉽지만, 못 주겠다.",
+        "en": "Hmm... I don't have enough food to feed myself, let alone a falcon. Sorry, I can't feed you.",
+        "pt": "Hum... Não sobrou comida suficiente para alimentar o falcão. É uma pena, mas não posso dar.",
+        "es": "Mmm... No me queda comida suficiente para darle al halcón. Lástima, pero no puedo dársela."
+    },
+    "uRZ1DA": {
+        "ko": "잘 먹는구나. 다행이다.",
+        "en": "You're eating well. That's a relief.",
+        "pt": "Ele come bem. Que bom.",
+        "es": "Qué bien come. Menos mal."
+    },
+    "uhZ1DA": {
+        "ko": "그래 당장 내가 먹을 것도 부족한데..",
+        "en": "Yeah, I don't even have enough food for myself right now...",
+        "pt": "É, já que nem pra mim tem o suficiente...",
+        "es": "Sí, y eso que a mí mismo me falta comida..."
+    },
+    "uxZ1DA": {
+        "ko": "팔콘이 빨리 자라는 느낌인데?",
+        "en": "This falcon is growing quickly, isn't it?",
+        "pt": "Parece que o Falcão tá crescendo rápido, né?",
+        "es": "¿Me da la sensación de que el halcón está creciendo rápido?"
+    },
+    "vBZ1DA": {
+        "ko": "외형으로 보면 스나이퍼 때쯤 데리고 다니던 팔콘인가?",
+        "en": "Judging by its appearance, is this the falcon Sniper used to carry around?",
+        "pt": "Pela aparência, será que é o falcão que eu costumava levar comigo na época do Sniper?",
+        "es": "Por su aspecto, ¿es el halcón que llevaba conmigo cuando era francotirador?"
+    },
+    "vRZ1DA": {
+        "ko": "뭐 그래도 이 녀석이라도 쑥쑥 자라주니 좋네.",
+        "en": "Well, I'm glad it's growing so quickly.",
+        "pt": "Bem, mesmo assim, é bom que pelo menos esse aqui esteja crescendo rápido.",
+        "es": "Bueno, de todos modos, me alegra que este chico crezca tan rápido."
+    },
+    "vhZ1DA": {
+        "ko": "정말 쑥쑥 자라는 구나.",
+        "en": "You're really growing fast.",
+        "pt": "Ele tá mesmo crescendo rapidinho.",
+        "es": "De verdad que crece a pasos agigantados."
+    },
+    "vxZ1DA": {
+        "ko": "응? 어디 가니?",
+        "en": "Huh? Where are you going?",
+        "pt": "Hã? Aonde você vai?",
+        "es": "¿Eh? ¿A dónde vas?"
+    },
+    "wBZ1DA": {
+        "ko": "응? 설마.. 도망친 건가? 세상에..",
+        "en": "Huh? No way... Did it run away? Oh my...",
+        "pt": "Hã? Não me diga... ele fugiu? Meu Deus...",
+        "es": "¿Eh? No me digas... ¿Se ha escapado? ¡Ay, Dios mío!"
+    },
+    "wRZ1DA": {
+        "ko": "워그",
+        "en": "Warg",
+        "pt": "Warg",
+        "es": "¿Un"
+    },
+    "whZ1DA": {
+        "ko": "데저트 울프? 아닌가? 다른 종 같기도 하고? 새끼라 그런가?",
+        "en": "Is this a Desert Wolf? Or is it something else? I can't tell... It's still too young.",
+        "pt": "Lobo do deserto? Não é? Parece ser de outra espécie? Será por ser filhote?",
+        "es": "¿Un lobo del desierto? ¿O no? ¿Parece de otra especie? ¿Será porque es un cachorro?"
+    },
+    "wxZ1DA": {
+        "ko": "오잉? 워그의 상태가?",
+        "en": "Huh? The warg's condition?",
+        "pt": "Hã? O estado do Warg?",
+        "es": "¿Eh? ¿Qué le pasa a Warg?"
+    },
+    "xBZ1DA": {
+        "ko": "워그가 성장했다.",
+        "en": "The warg has grown.",
+        "pt": "O Warg cresceu.",
+        "es": "Warg ha crecido."
+    },
+    "xRZ1DA": {
+        "ko": "새끼 워그에게 먹이를 먹일까?",
+        "en": "Should I feed the warg cub?",
+        "pt": "Vou dar comida para o filhote de Warg?",
+        "es": "¿Le doy de comer al Warg cachorro?"
+    },
+    "xhZ1DA": {
+        "ko": "참! 식량이 없었지. 워그에게 먹일 게 없네.",
+        "en": "Oh, right—I've got no food. I have nothing to give this warg.",
+        "pt": "Ah, certo! Não tinha comida. Não tenho nada para dar ao Warg.",
+        "es": "¡Ah, claro! No tengo comida. No tengo nada para darle de comer al Warg."
+    },
+    "xxZ1DA": {
+        "ko": "흠.. 식량이 워그를 먹일 정도로 남아있지 않네. 아쉽지만, 못 주겠다.",
+        "en": "Hm... I don't have enough food to feed myself, let alone a warg. Sorry, I can't feed you.",
+        "pt": "Hum... Não sobrou comida suficiente pra alimentar o Warg. É uma pena, mas não dá pra dar.",
+        "es": "Mmm... No me queda comida suficiente para alimentar al Warg. Lástima, pero no puedo dársela."
+    },
+    "yBZ1DA": {
+        "ko": "워그도 새끼 때는 털 색이 다른 건가?",
+        "en": "Does a warg's fur color change as it grows?",
+        "pt": "Será que o Warg também tem uma cor de pelo diferente quando é filhote?",
+        "es": "¿El color del pelaje del Warg también cambia cuando es cachorro?"
+    },
+    "yRZ1DA": {
+        "ko": "어느 정도 크니 털 색이 바뀌는군.",
+        "en": "At least this one has changed its hair color as it grew.",
+        "pt": "Quando crescem um pouco, a cor do pelo muda mesmo.",
+        "es": "Vaya, el color del pelaje cambia cuando crecen un poco."
+    },
+    "yhZ1DA": {
+        "ko": "근데 좀 빨리 자라는 느낌인걸?",
+        "en": "But it feels like it's growing pretty fast, doesn't it?",
+        "pt": "Mas parece que ele está crescendo rápido, né?",
+        "es": "Pero me parece que crece un poco rápido, ¿no?"
+    },
+    "yxZ1DA": {
+        "ko": "워그에게 먹이를 먹일까?",
+        "en": "Should I feed the warg?",
+        "pt": "Será que dou comida para o Warg?",
+        "es": "¿Le doy de comer al warg?"
+    }
+}

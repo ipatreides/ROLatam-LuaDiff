@@ -1217,5 +1217,13 @@ hatEffectTable = {
 		isAdjustPositionWhenShrinkState = true,
 		isAdjustSizeWhenShrinkState = true,
 		isRenderBeforeCharacter = true
+	},
+	[HatEFID.HAT_EF_Divine_Sky_Invite] = {
+		resourceFileName = "efst_Divine_Sky_Invite\\Midgard2.str",
+		hatEffectPos = -11,
+		hatEffectPosX = 0,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true,
+		isRenderBeforeCharacter = true
 	}
 }

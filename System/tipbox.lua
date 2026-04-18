@@ -25,7 +25,7 @@ tbl = {
 		Image = "유저인터페이스\\tipbox\\tip00002",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"Na janela de bate-papo, digite ​​^3b488c/h^000000.\\nPara exibir uma lista de comandos, ​​^3b488ccomo mostra a imagem ao lado^000000.\n\t\t\t\t\\n<TIPBOX>» Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
+			"Você pode visualizar comandos úteis usados em Ragnarok digitando /h.\\nComandos com / podem ser usados ^3b488cdigitando no chat^000000.\n\t\t\t\\n<TIPBOX>>Lista de Comandos<INFO>83</INFO></TIPBOX>\n\t\t\t<TIPBOX>>Comandos de Jogo e Configuração<INFO>166</INFO></TIPBOX>\n\t\t\t<TIPBOX>>Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[3] = {
@@ -265,12 +265,12 @@ tbl = {
 		}
 	},
 	[15] = {
-		Title = "Combate: Auto-ataque",
+		Title = "Configuração de Controle: Modo Lock-on No Ctrl#/nc,Ataque Automático",
 		Search = 1,
 		Image = "유저인터페이스\\tipbox\\tip00014",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"Se você usar o comando ^3b488c/noctrl^000000, é possível ^3b488catacar automaticamente^000000 um monstro até eliminá-lo.\\nVocê pode ^3b488ccancelar um ataque automático^000000 clicando em qualquer outro lugar fora o monstro.\n\t\t\t\t<TIPBOX>» Combate: Ataque<INFO>14</INFO></TIPBOX>\n\t\t\t\t\\n<TIPBOX>» Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
+			"Ao atacar um monstro enquanto segura a tecla Ctrl, o personagem irá ^3b488catacar automaticamente^000000 até derrotá-lo. Você pode cancelar clicando em outro lugar.\\nAlém disso, ao digitar ^3b488c/noctrl^000000, o ataque automático será ativado sem precisar pressionar Ctrl.\\nSe o ataque automático já estiver ativo, digitar /noctrl novamente irá desativá-lo.^000000\n\t\t\tVocê também pode usar /nc.\n\t\t\t\n\t\t\t<TIPBOX>>Combate: Ataque<INFO>14</INFO></TIPBOX>\n\t\t\t<TIPBOX>>Configuração de Controle<INFO>152</INFO></TIPBOX>\n\t\t\t<TIPBOX>>Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[16] = {
@@ -343,12 +343,12 @@ tbl = {
 		}
 	},
 	[20] = {
-		Title = "Chat: Sala de Bate-Papo",
+		Title = "Chat: Sala de Chat#/q,/chat",
 		Search = 1,
 		Image = "유저인터페이스\\tipbox\\tip00020",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"Para abrir uma sala de bate-papo, digite ^3b488c/chat^000000 e configure pública ou particular. Você também pode sair de uma Sala de Bate-Papo com o comando ^3b488c/q^000000.\n\t\t\t\t<TIPBOX>» Chat: Conversa<INFO>19</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>» Chat: Salvar conversa<INFO>24</INFO></TIPBOX>\n\t\t\t\t\\n<TIPBOX>» Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
+			"Você pode abrir a janela para criar uma ^3b488csala de chat^000000 usando /chat. Também é possível sair da sala usando o comando /q.\n\t\t<TIPBOX>>Chat: Conversa<INFO>19</INFO></TIPBOX>\n\t\t<TIPBOX>>Chat: Salvar Conversa<INFO>24</INFO></TIPBOX>\n\t\t<TIPBOX>>Comandos de Jogo e Configuração<INFO>166</INFO></TIPBOX>\n\t\t\\n<TIPBOX>>Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[21] = {
@@ -430,12 +430,12 @@ tbl = {
 		}
 	},
 	[26] = {
-		Title = "Chat: Mensagens públicas",
+		Title = "Chat: Exibição de Mensagens#/notalkmsg,/nm",
 		Search = 1,
 		Image = "유저인터페이스\\tipbox\\tip00026",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"Se você digitar ^3b488c/notalkmsg^000000 na janela de chat, os diálogos de outros jogadores não serão exibidos na janela de chat.\\nSe você digitar ^3b488c/notalkmsg2^000000 na janela de chat, as conversas dos membros do seu clã não serão exibidas na janela de chat.\n\t\t\t\t\\n<TIPBOX>» Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
+			"Você pode configurar se as mensagens serão exibidas no chat.\n\t\t>Comandos de Chat Geral\n\t\t/notalkmsg, /nm\n\t\t\n\t\t>Comandos de Chat de Guilda\n\t\t/notalkmsg2, /nm2\n\t\tAs mensagens, incluindo o chat de guilda, não serão exibidas no chat.\n\t\t\n\t\t<TIPBOX>>Chat<INFO>19</INFO></TIPBOX>\n\t\t<TIPBOX>>Comandos de Jogo e Configuração<INFO>166</INFO></TIPBOX>\n\t\t<TIPBOX>>Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[27] = {
@@ -448,22 +448,22 @@ tbl = {
 		}
 	},
 	[28] = {
-		Title = "Bloquear mensagens",
+		Title = "Bloquear#/ex,/inall,/exall/bloquear",
 		Search = 1,
 		Image = "유저인터페이스\\tipbox\\tip00028",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"Se algum personagem estiver importunando você, basta digitar ^3b488c/ex Nome do Personagem^000000 para bloquear as mensagens.\\nPara desbloquear, digite ^3b488c/in Nome do Personagem^000000 nome do personagem.\\nPara bloquear todas as mensagens particulares, basta digitar ^3b488c/exall^000000, para desbloquear,  ^3b488c/inall^000000\\nA lista de personagens bloqueados pode ser vista se digitar somente o comando ^3b488c/ex^000000, sem nome de personagens.\n\t\t\t\t\\n<TIPBOX>» Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
+			"Você pode bloquear mensagens e sussurros de um personagem usando /bloquear NomeDoPersonagem ou /ex NomeDoPersonagem. Para desbloquear, use /desbloquear NomeDoPersonagem ou /in NomeDoPersonagem.\\nTambém é possível bloquear ou desbloquear todas as mensagens usando /bloquearTudo, /exall, /desbloquearTudo ou /inall.\\nPara ver a lista de bloqueados, use /bloquear ou /ex.\\n^ff0000※ Não há confirmação (Y/N), então escolha com cuidado.^000000\n\t\t\n\t\t<TIPBOX>>Comandos de Jogo e Configuração<INFO>166</INFO></TIPBOX>\n\t\t<TIPBOX>>Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[29] = {
-		Title = "Sistema de Grupo",
+		Title = "Sistema de Grupo#/organize,/leave",
 		Search = 1,
 		Image = "유저인터페이스\\tipbox\\tip00029",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"Grupos são essenciais para tornar sua aventura em Ragnarök Online mais divertida. Você pode criar um grupo ou ser convidado para um.\\n^ff0000Mais informações na próxima página^000000.",
-			"Comandos de grupo:\\n^3b488c/organize Nome do Grupo^000000 - cria um novo grupo.\\n^3b488c/leave^000000 - sair do grupo.\\n  Se você for líder do grupo:\\n^3b488c  /invite Nome do Personagem^000000 - convida um personagem para o grupo.\\n^3b488c  /expell Nome do Personagem^000000 - expulsa um personagem do grupo.\n\t\t\t\t<TIPBOX>» Chat: Grupo<INFO>22</INFO></TIPBOX>\n\t\t\t\t\\n<TIPBOX>» Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
+			"Você pode criar um grupo usando /organize NomeDoGrupo.\\nVocê pode sair do grupo usando /leave.",
+			"Se você for o líder do grupo, pode convidar outros clicando com o botão direito no personagem e selecionando \"Convidar para o Grupo\" ou usando /invite NomeDoPersonagem.\\nPara expulsar um membro, use /expel NomeDoPersonagem do ^3b488cseu grupo^000000.\\n^ff0000※ Não há confirmação (Y/N), então escolha com cuidado.^000000\n\t\t\n\t\t<TIPBOX>>Chat: Grupo<INFO>22</INFO></TIPBOX>\n\t\t<TIPBOX>>Agência de Aventureros<INFO>70</INFO></TIPBOX>\n\t\t<TIPBOX>>Comandos de Jogo e Configuração<INFO>166</INFO></TIPBOX>\n\t\t<TIPBOX>>Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[30] = {
@@ -513,12 +513,12 @@ tbl = {
 		}
 	},
 	[41] = {
-		Title = "Configurações: Teclas de atalho",
+		Title = "Opções do Jogo: Atalhos",
 		Search = 1,
 		Image = "",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"Os atalhos do jogo podem ser visualizados e alterados conforme as necessidades do jogador.\n\t\t\t\t<TIPBOX>» Teclas de atalho: Macro<INFO>42</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>» Teclas de atalho: Barra de atalhos<INFO>43</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>» Teclas de atalho: Modo Batalha<INFO>44</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>» Teclas de atalho: F1~F12<INFO>45</INFO></TIPBOX>\n\t\t\t\t\\n<TIPBOX>» Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
+			"Você pode verificar ou modificar as teclas de atalho.\n\t\t<TIPBOX>>Atalhos: Macro<INFO>42</INFO></TIPBOX>\n\t\t<TIPBOX>>Atalhos: Barra de Habilidades<INFO>43</INFO></TIPBOX>\n\t\t<TIPBOX>>Atalhos: Modo de Batalha<INFO>44</INFO></TIPBOX>\n\t\t<TIPBOX>>Atalhos: F1~F12<INFO>45</INFO></TIPBOX>\n\t\t\n\t\t<TIPBOX>>Janela de Opções do Jogo<INFO>32</INFO></TIPBOX>\n\t\t<TIPBOX>>Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[42] = {
@@ -545,7 +545,7 @@ tbl = {
 		Image = "",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"Modo batalha bloqueia o chat e permite que você use os atalhos registrados na barra de habilidades. Você pode ligar/desligar com ^3b488c/bm^000000.\\n^ff0000No modo batalha, o chat é bloqueado, mas você pode desbloquear pressionando a tecla Enter.^000000\n\t\t\t\t<TIPBOX>» Configurações: Teclas de atalho<INFO>41</INFO></TIPBOX>\n\t\t\t\t\\n<TIPBOX>» Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
+			"Modo batalha bloqueia o chat e permite que você use os atalhos registrados na barra de habilidades. Você pode ligar/desligar com ^3b488c/bm^000000.\\n^ff0000No modo batalha, o chat é bloqueado, mas você pode desbloquear pressionando a tecla Enter.^000000\n\t\t\t\t<TIPBOX>» Configurações: Teclas de atalho<INFO>41</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>» Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[45] = {
@@ -554,16 +554,173 @@ tbl = {
 		Image = "",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^3b488cF1~F9: Você pode usar as habilidades registradas na barra de habilidades.\\n^3b488cF10^000000: Ajusta o tamanho da janela de chat.\\n^3b488cF11^000000: Fecha todas as janelas da interface, deixando apenas a janela de informações básicas e a janela de chat.\\n^3b488cF12^000000: Abre ou fecha a barra de atalhos.\n\t\t\t\t<TIPBOX>» Configurações: Teclas de atalho<INFO>41</INFO></TIPBOX>\n\t\t\t\t\\n<TIPBOX>» Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
+			"^3b488cF1~F9: Você pode usar as habilidades registradas na barra de habilidades.\\n^3b488cF10^000000: Ajusta o tamanho da janela de chat.\\n^3b488cF11^000000: Fecha todas as janelas da interface, deixando apenas a janela de informações básicas e a janela de chat.\\n^3b488cF12^000000: Abre ou fecha a barra de atalhos.\n\t\t\t\t<TIPBOX>» Configurações: Teclas de atalho<INFO>41</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>» Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[46] = {
+		Title = "Remoção de Efeito de Traje#Traje/Troca,/changedress,/nocosplay,evento,vestido de noiva,hanbok,traje de banho",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00046",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Alguns efeitos de transformação de traje podem impedir o combate. Nesses casos, você pode removê-los usando /changedress ou /nocosplay.\n\t\t\n\t\tCaso seja difícil lembrar os comandos, você também pode remover o efeito conversando com o NPC <NAVI>[Serviço de Remoção de Efeito de Traje]<INFO>prontera,80,106,0,101,0</INFO></NAVI> em Prontera.\n\t\t\n\t\t<TIPBOX>>Comandos de Jogo e Configuração<INFO>166</INFO></TIPBOX>\n\t\t<TIPBOX>>Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+		},
+		PageEX = {
+			{
+				EffectNum = 3,
+				Twinkle = 1,
+				StartX = 120,
+				StartY = 158,
+				DistX = 120,
+				DistY = 158,
+				MoveTime = 0
+			}
+		}
+	},
+	[47] = {
+		Title = "Pet Sistema#Pet,Taming,Ovo de Pet,Evolução,Alimentação,Performance,Chocar",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00047",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Pet é um sistema que permite domar monstros que aparecem em campos e masmorras e transformá-los em seus próprios monstros de Pet adoráveis.\n\t\t\tOs monstros domados sempre acompanham o dono, mostram várias performances e, de acordo com a habilidade exclusiva de cada Pet, também podem ajudar bastante o dono.\n\t\t\t\n\t\t\t<TIPBOX>>Pet: Taming<INFO>48</INFO></TIPBOX>\n\t\t\t<TIPBOX>>Pet: NPCs relacionados<INFO>49</INFO></TIPBOX>\n\t\t\t<TIPBOX>>Pet: Avisos<INFO>50</INFO></TIPBOX>\n\t\t\t<TIPBOX>>Pet: Evolução<INFO>51</INFO></TIPBOX>\n\t\t\t<TIPBOX>>Lista de Pet<INFO>10089</INFO></TIPBOX>\n\t\t\t\\n<TIPBOX>>Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[48] = {
+		Title = "Pet: Taming#Ovo de Pet",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00047",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Para domar um monstro, é necessário preparar o item de taming adequado para o monstro.\n\t\t\tDepois de preparar todas as informações do monstro desejado e o item de taming, dê um clique duplo no item de taming e selecione o monstro desejado como alvo.\n\t\t\tAo selecionar o monstro como alvo, uma máquina caça-níquel aparecerá no centro da tela, e você poderá clicar nela para verificar o sucesso ou a falha do taming.\n\t\t\t\n\t\t\tSe o taming for bem-sucedido, uma mensagem de Success será exibida junto com a mensagem de obtenção do ovo do monstro, e você poderá verificar o ovo do monstro no inventário.\n\t\t\t\n\t\t\t<TIPBOX>>Sistema Pet<INFO>47</INFO></TIPBOX>\n\t\t\t\\n<TIPBOX>>Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[49] = {
+		Title = "Pet: NPCs relacionados#Adestradora,Comida de Pet,Incubadora de Ovos,Incubadora de Ovos,Comida de Pet,Acessório de Pet",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00047",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"§ Comerciante de troca de pets\n\t\t\t\tSe você tiver um cupom que pode ser trocado por Pet, poderá trocá-lo pelo Pet designado por meio do ^3b488cComerciante de troca de pets localizado em Alberta e Prontera^000000.\n\t\t\t\t<NAVI>[Comerciante de troca de pets de Alberta]<INFO>alberta,179,141,0,101,0</INFO></NAVI>\n\t\t\t\t<NAVI>[Comerciante de troca de pets de Prontera]<INFO>prontera,210,209,0,101,0</INFO></NAVI>\n\t\t\t\t\n\t\t\t§ Comerciante de taming\n\t\t\t\tEles estão localizados em cada cidade e vila e vendem ^3b488cIncubadora Portátil de Ovos, comida de pet, acessórios^000000 e outros itens.\n\t\t\t\t<NAVI>[Prontera Adestradora]<INFO>prontera,218,211,0,101,0</INFO></NAVI>\n\t\t\t\t<NAVI>[Geffen Adestradora]<INFO>geffen,193,152,0,101,0</INFO></NAVI>\n\t\t\t\t<NAVI>[Izlude Adestradora]<INFO>izlude_in,72,98,0,101,0</INFO></NAVI>\n\t\t\t\t<NAVI>[Morroc Adestradora]<INFO>morocc,203,87,0,101,0</INFO></NAVI>\n\t\t\t\t<NAVI>[Ruínas de Morroc Adestradora]<INFO>moc_ruins,118,170,0,101,0</INFO></NAVI>\n\t\t\t\t<NAVI>[Payon Adestradora]<INFO>payon,177,131,0,101,0</INFO></NAVI>\n\t\t\t\t<NAVI>[Juno Adestradora]<INFO>yuno,197,114,0,101,0</INFO></NAVI>\n\t\t\t\t<NAVI>[Lighthalzen Adestradora]<INFO>lighthalzen,222,191,0,101,0</INFO></NAVI>\n\t\t\t\t<NAVI>[Brasilis Adestradora]<INFO>brasilis,201,309,0,101,0</INFO></NAVI>\n\t\t\t\t<NAVI>[Lasagna Adestradora]<INFO>lasagna,179,176,0,101,0</INFO></NAVI>\n\t\t\t\t\n\t\t\t\t<TIPBOX>>Sistema Pet<INFO>47</INFO></TIPBOX>\n\t\t\t\t\\n<TIPBOX>>Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[50] = {
+		Title = "Pet: Avisos#Chocar,Alimentação,Performance,Intimidade,Fome,Fugir,Ovo de Pet",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00047",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Se clicar com o botão ^3b488cdireito^000000 do mouse em um pet já chocado, você poderá ver o menu do pet.\n\t\t\t\n\t\t\tVer estado do Pet: você pode verificar o estado e as informações do Pet.\n\t\t\tAlimentação: dá comida ao pet.\n\t\t\tPerformance: executa a performance exclusiva do pet.\n\t\t\tRemover acessório: remove o acessório que o pet está equipando.\n\t\t\tVoltar ao ovo: retorna o pet ao estado anterior ao choco.\n\t\t\t\n\t\t\t※ É possível mudar o nome do pet que teve taming bem-sucedido.\n\t\t\t※ Ao alimentar o pet, é possível aumentar a intimidade com ele.\n\t\t\t\tQuando a relação com o pet atingir o nível de íntimo ou superior, habilidades adicionais podem ser acrescentadas além da habilidade básica.\n\t\t\t\tNo entanto, se você der comida em excesso ao pet ou deixá-lo com fome por não alimentá-lo,\n\t\t\t\tou se o personagem dono ficar incapacitado em combate, a intimidade com o pet cairá, e ^3b488cse a intimidade continuar caindo, o pet poderá desaparecer^000000, então cuide sempre do pet que você domou com atenção e carinho.\n\t\t\t※ O pet pode ser retornado ao estado de ovo antes do choco a qualquer momento, e pode ser chocado novamente usando o item 'Incubadora Portátil de Ovos'.\n\t\t\t\n\t\t\t<TIPBOX>>Sistema Pet<INFO>47</INFO></TIPBOX>\n\t\t\t\\n<TIPBOX>>Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[51] = {
+		Title = "Pet: Evolução#Evolução de QPet",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00047",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Quando a intimidade do Pet chegar a ^3b488cMuito íntimo^000000, será possível evoluir.\n\t\t\tPara evoluir, são necessários o ^3b488cOvo de QPet^000000 com intimidade Muito íntimo e ^3b488cmateriais específicos^000000.\n\t\t\t\n\t\t\tAbra a janela Pet Info e selecione o menu ^3b488c'Evolução'^000000 na parte inferior.\n\t\t\t\n\t\t\t§ Após a evolução\n\t\t\t- Adição da função de alimentação automática\n\t\t\t(Basta deixar a função de alimentação automática ativada para que a comida seja dada automaticamente. No entanto, é necessário ter a comida em posse, e se o estado sem comida for mantido, a intimidade diminuirá, então tome cuidado.)\n\t\t\t- Redução da quantidade de aumento de intimidade\n\t\t\t(A intimidade aumenta muito lentamente.)\n\t\t\t- Redução da penalidade\n\t\t\t(Quando não se dá comida no estado de fome, a intimidade diminui lentamente. A intimidade reduzida quando o personagem fica incapacitado em combate também diminui.)\n\t\t\t- Redução do consumo de saciedade\n\t\t\t(A saciedade diminui mais lentamente em comparação com o Pet antes da evolução.)\n\t\t\t\n\t\t\t<TIPBOX>>Sistema Pet<INFO>47</INFO></TIPBOX>\n\t\t\t\\n<TIPBOX>>Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[66] = {
+		Title = "Itens: Comparar Equipamentos#janela de comparação",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00066",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Clique com o botão direito em um equipamento para compará-lo com o item atualmente equipado.\n\t\tA comparação funciona apenas para ^3b488citens do mesmo tipo^000000 e só é exibida quando você possui ^3b488cequipamento desse tipo equipado^000000.\n\t\tEsse recurso pode ser ativado/desativado clicando no ícone de lupa na parte inferior do inventário.\n\t\t\n\t\t<TIPBOX>>Configuração de Controle<INFO>152</INFO></TIPBOX>\n\t\t<TIPBOX>>Janela de Opções do Jogo<INFO>32</INFO></TIPBOX>\n\t\t<TIPBOX>>Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[67] = {
+		Title = "Sistema: Exibir Lojas",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00067",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Você pode mostrar ou ocultar todas as lojas digitando ^3b488c/showshop^000000 no chat.\n\t\tSe houver muitas lojas abertas atrapalhando o jogo, você pode ocultá-las e exibi-las novamente quando quiser comprar itens.\n\t\t\\n<TIPBOX>>Configuração de Efeitos: Ocultar Jogadores<INFO>115</INFO></TIPBOX>\n\t\t<TIPBOX>>Comandos de Jogo e Configuração<INFO>166</INFO></TIPBOX>\n\t\t<TIPBOX>>Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[69] = {
-		Title = "Configurações: Anúncio de mapa",
+		Title = "Configuração de Efeitos: Nome do Mapa#movimento de área,configurações do jogo",
 		Search = 1,
 		Image = "유저인터페이스\\tipbox\\tip00069",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"Ao entrar em um mapa, um indicador exibe o nome do local. Esse anúncio pode ser desligado em\\nTecla ^3b488cESC^000000 > Configurações do jogo > aba Configurações.\n\t\t\t\t<TIPBOX>» Configurações: Opções de jogo<INFO>33</INFO></TIPBOX>\n\t\t\t\t\\n<TIPBOX>» Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
+			"Você pode configurar para que o nome do mapa seja exibido na tela ao se mover entre mapas principais.\n\t\t(^ff0000※Mesmo com a opção ativada, o nome do mapa pode não aparecer dependendo do conceito do mapa.^000000)\n\t\t\n\t\tA exibição do nome do mapa pode ser ativada/desativada ^ff0000em Opções do Jogo (ESC) → Configurações do Jogo → Configuração de Efeitos^000000.\n\t\t\n\t\t<TIPBOX>>Configuração de Efeitos<INFO>143</INFO></TIPBOX>\n\t\t<TIPBOX>>Janela de Opções do Jogo<INFO>32</INFO></TIPBOX>\n\t\t<TIPBOX>>Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[83] = {
+		Title = "Lista de Comandos#atalhos,ranking,aura,efeitos,comandos",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00083",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Você pode verificar a lista de comandos pressionando Alt + Y.\n\tVocê pode ativar ou desativar várias funções.\n\n\t> Alguns Comandos Úteis\n\t/call : Impede ser invocado por outros jogadores. (On/Off)\n\t/changedress : Retorna à aparência normal ao sair do estado de transformação.\n\t/q1 : Usa a habilidade armazenada no F9 com o clique direito.\n\t/snap : Ajusta o cursor próximo ao alvo de ataque.\n\t/savechat : Salva as mensagens do chat em um arquivo.\n\t/alchemist : Exibe o ranking Top 10 de Alquimistas.\n\t/aura2 : Desativa completamente a aura.\n\t/noshift : Permite atacar inimigos com cura sem pressionar Shift.\n\t/notalkmsg : Oculta as mensagens do chat.\n\t/mineffect : Simplifica os efeitos visuais.\n\t\n\t<TIPBOX>>Comandos de Jogo e Configuração<INFO>166</INFO></TIPBOX>\n\t<TIPBOX>>Outros Comandos<INFO>191</INFO></TIPBOX>\n\t<TIPBOX>>Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[85] = {
+		Title = "Configurações de Controle: Zoom Out#configurações,zoom,tela,expandir,reduzir",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00085",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Você pode expandir o campo de visão além do padrão.\n\n\t>Pressione ESC ou clique no botão de Opções para abrir as Configurações do Jogo.\n\t→Na aba Configurações de Controle, marque Zoom Out para ampliar a visão máxima.\n\t>Use o comando /zoom na janela de chat.\n\n\t<TIPBOX>>Configurações de Controle<INFO>152</INFO></TIPBOX>\n\t<TIPBOX>>Opções do Jogo<INFO>32</INFO></TIPBOX>\n\t<TIPBOX>>Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[86] = {
+		Title = "Armazém de Zeny (Banco)#banco",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00086",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"O Armazém de Zeny permite armazenar Zeny na conta e compartilhá-lo entre personagens da mesma conta.\n\tVocê pode acessá-lo pressionando Ctrl + B ou clicando no botão Banco no menu.\n\t\\n<TIPBOX>>Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[87] = {
+		Title = "Configurações Básicas: Moldura do Emblema#guilda,woe,moldura,Frame",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00087",
+		Imgcoord = {Position = 5, Size = 100},
+		PageEX = {
+			{
+				EffectNum = 0,
+				Twinkle = 1,
+				StartX = 150,
+				StartY = 295,
+				DistX = 0,
+				DistY = 0,
+				MoveTime = 0
+			}
+		},
+		Page = {
+			"Você pode ativar a moldura externa dos emblemas durante a Guerra do Emperium.\n\n\t>Pressione ESC ou clique no botão de Opções para abrir as Configurações do Jogo.\n\t→Na aba Configurações Básicas, marque Mostrar Moldura do Emblema.\n\n\t>Comando\n\t/frame\n\n\t<TIPBOX>>Configurações Básicas<INFO>33</INFO></TIPBOX>\n\t<TIPBOX>>Opções do Jogo<INFO>32</INFO></TIPBOX>\n\t<TIPBOX>>Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[88] = {
+		Title = "Configurações de Efeito: Expansão da Exibição de Dano#máximo,exibição,99999999999",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00088",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Você pode expandir o limite máximo de exibição do dano.\n\t(Configuração padrão: danos acima de 999999 são exibidos como 999999)\n\n\t>Pressione ESC ou clique no botão de Opções para abrir as Configurações do Jogo.\n\t→Clique em Configurações de Efeito.\n\t→Marque Expansão da Exibição de Dano.\n\n\tVocê pode alterar a fonte da exibição de dano.\n\t<TIPBOX>>Alterar Fonte de Dano<INFO>192</INFO></TIPBOX>\n\n\t<TIPBOX>>Configurações de Efeito<INFO>143</INFO></TIPBOX>\n\t<TIPBOX>>Opções do Jogo<INFO>32</INFO></TIPBOX>\n\t<TIPBOX>>Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[89] = {
+		Title = "Status#status,atributos,str,agi,vit,int,dex,luk,aspd",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00006",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Os Status determinam a direção de crescimento do personagem.\n\tA cada nível alcançado, você recebe pontos de status que podem ser investidos nos atributos desejados para fortalecer seu personagem.\n\tPressione Alt + A para verificar a janela de status e use as setas ao lado de cada atributo (STR, AGI, VIT, INT, DEX, LUK) para distribuir pontos.\n\n\tNa janela de chat:\n\t/str+ valor\n\t/agi+ valor\n\t/vit+ valor\n\t/int+ valor\n\t/dex+ valor\n\t/luk+ valor\n\tpodem ser usados para distribuir pontos rapidamente.\n\tExemplo: Se você inserir /str+ 9 e seu STR atual for 1, seu STR se tornará 10.\n\t^ff6677※Os pontos de status são consumidos, então o aumento só será aplicado dentro do limite disponível.^000000\n\t\\n<TIPBOX>>Status: STR (Força)<INFO>6</INFO></TIPBOX>\n\t<TIPBOX>>Status: AGI (Agilidade)<INFO>7</INFO></TIPBOX>\n\t<TIPBOX>>Status: VIT (Vitalidade)<INFO>8</INFO></TIPBOX>\n\t<TIPBOX>>Status: INT (Inteligência)<INFO>9</INFO></TIPBOX>\n\t<TIPBOX>>Status: DEX (Destreza)<INFO>10</INFO></TIPBOX>\n\t<TIPBOX>>Status: LUK (Sorte)<INFO>11</INFO></TIPBOX>\n\t<TIPBOX>>Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[115] = {
+		Title = "Configuração de Efeitos: Ocultar Jogadores#personagem,transparente,usuário,ocultar",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00115",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Exibe todos os personagens, exceto o seu, de forma semitransparente.\n\tEsse recurso ajuda a encontrar NPCs quando há muitos jogadores na tela. Não se aplica a NPCs, lojas, salas de chat ou invocações.\n\tEssa opção é desativada toda vez que você entra no jogo.\n\t\n\t>Comando rápido : Ctrl+End\n\t\n\t<TIPBOX>>Configuração de Efeitos: Ocultar Invocações<INFO>150</INFO></TIPBOX>\n\t<TIPBOX>>Configuração de Efeitos<INFO>143</INFO></TIPBOX>\n\t<TIPBOX>>Janela de Opções do Jogo<INFO>32</INFO></TIPBOX>\n\t<TIPBOX>>Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[1000] = {
@@ -1557,7 +1714,7 @@ tbl = {
 		Image = "",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"Esta é a lista de mascotes que podem ser obtidos usando itens de domesticação, cupons ou eventos.\n\n\t\t\t»Lista de Mascotes\n\t\t\t<TIPBOX>Bebê Poring de Estimação<INFO>10090</INFO></TIPBOX>\n\t\t\t<TIPBOX>Poring de Estimação<INFO>10091</INFO></TIPBOX>\n\t\t\t<TIPBOX>Mastering de Estimação<INFO>10092</INFO></TIPBOX>\n\t\t\t<TIPBOX>Angeling de Estimação<INFO>10093</INFO></TIPBOX>\n\t\t\t<TIPBOX>Drops de Estimação<INFO>10094</INFO></TIPBOX>\n\t\t\t<TIPBOX>Omeleting de Estimação<INFO>10095</INFO></TIPBOX>\n\t\t\t<TIPBOX>Poporing de Estimação<INFO>10096</INFO></TIPBOX>\n\t\t\t<TIPBOX>Filhote de Lobo de Estimação<INFO>10097</INFO></TIPBOX>\n\t\t\t<TIPBOX>Lobo do Deserto de Estimação<INFO>10098</INFO></TIPBOX>\n\t\t\t<TIPBOX>Guerreiro Orc de Estimação<INFO>10099</INFO></TIPBOX>\n\t\t\t<TIPBOX>Grand Orc de Estimação<INFO>10100</INFO></TIPBOX>\n\t\t\t<TIPBOX>Golem de Fogo de Estimação<INFO>10101</INFO></TIPBOX>\n\t\t\t<TIPBOX>Petite de Estimação<INFO>10102</INFO></TIPBOX>\n\t\t\t<TIPBOX>Deletério de Estimação<INFO>10103</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pesadelo Sinistro de Estimação<INFO>10104</INFO></TIPBOX>\n\t\t\t<TIPBOX>Bafomé Jr. de Estimação<INFO>10105</INFO></TIPBOX>\n\t\t\t<TIPBOX>Júnior Caótico de Estimação<INFO>10106</INFO></TIPBOX>\n\t\t\t<TIPBOX>Peco Peco de Estimação<INFO>10107</INFO></TIPBOX>\n\t\t\t<TIPBOX>Grand Peco de Estimação<INFO>10108</INFO></TIPBOX>\n\t\t\t<TIPBOX>Ursinho de Estimação<INFO>10109</INFO></TIPBOX>\n\t\t\t<TIPBOX>Ursinho Abominável de Estimação<INFO>10110</INFO></TIPBOX>\n\t\t\t<TIPBOX>Aliot de Estimação<INFO>10111</INFO></TIPBOX>\n\t\t\t<TIPBOX>Alicel de Estimação<INFO>10112</INFO></TIPBOX>\n\t\t\t<TIPBOX>Esporo de Estimação<INFO>10113</INFO></TIPBOX>\n\t\t\t<TIPBOX>Esporo Venenoso de Estimação<INFO>10114</INFO></TIPBOX>\n\t\t\t<TIPBOX>Ísis de Estimação<INFO>10115</INFO></TIPBOX>\n\t\t\t<TIPBOX>Bebê Ísis de Estimação<INFO>10116</INFO></TIPBOX>\n\t\t\t<TIPBOX>Homem Errante de Estimação<INFO>10117</INFO></TIPBOX>\n\t\t\t<TIPBOX>Andarilho Poluto de Estimação<INFO>10118</INFO></TIPBOX>\n\t\t\t<TIPBOX>Munak de Estimação<INFO>10119</INFO></TIPBOX>\n\t\t\t<TIPBOX>Bongun de Estimação<INFO>10120</INFO></TIPBOX>\n\t\t\t<TIPBOX>Yao Jun de Estimação<INFO>10121</INFO></TIPBOX>\n\t\t\t<TIPBOX>Sohee de Estimação<INFO>10122</INFO></TIPBOX>\n\t\t\t<TIPBOX>Ninfa Perversa de Estimação<INFO>10123</INFO></TIPBOX>\n\t\t\t<TIPBOX>Nove Caudas de Estimação<INFO>10124</INFO></TIPBOX>\n\t\t\t<TIPBOX>Gato de Nove Caudas de Estimação<INFO>10125</INFO></TIPBOX>\n\t\t\t<TIPBOX>Incubus de Estimação<INFO>10126</INFO></TIPBOX>\n\t\t\t<TIPBOX>Succubus de Estimação<INFO>10127</INFO></TIPBOX>\n\t\t\t<TIPBOX>Rocker de Estimação<INFO>10128</INFO></TIPBOX>\n\t\t\t<TIPBOX>Metaller de Estimação<INFO>10129</INFO></TIPBOX>\n\t\t\t<TIPBOX>Múmia de Estimação<INFO>10130</INFO></TIPBOX>\n\t\t\t<TIPBOX>Múmia Anciã de Estimação<INFO>10131</INFO></TIPBOX>\n\t\t\t<TIPBOX>Lunático de Estimação<INFO>10132</INFO></TIPBOX>\n\t\t\t<TIPBOX>Lunático Folhado de Estimação<INFO>10133</INFO></TIPBOX>\n\t\t\t<TIPBOX>Picky de Estimação<INFO>10134</INFO></TIPBOX>\n\t\t\t<TIPBOX>Chonchon de Estimação<INFO>10135</INFO></TIPBOX>\n\t\t\t<TIPBOX>Chonchon de Aço de Estimação<INFO>10136</INFO></TIPBOX>\n\t\t\t<TIPBOX>Mosca Caçadora de Estimação<INFO>10137</INFO></TIPBOX>\n\t\t\t<TIPBOX>Filhote Selvagem de Estimação<INFO>10138</INFO></TIPBOX>\n\t\t\t<TIPBOX>Selvagem de Estimação<INFO>10139</INFO></TIPBOX>\n\t\t\t<TIPBOX>Smokie de Estimação<INFO>10140</INFO></TIPBOX>\n\t\t\t<TIPBOX>Yoyo de Estimação<INFO>10141</INFO></TIPBOX>\n\t\t\t<TIPBOX>Choco de Estimação<INFO>10142</INFO></TIPBOX>\n\t\t\t<TIPBOX>Dokebi de Estimação<INFO>10143</INFO></TIPBOX>\n\t\t\t<TIPBOX>Am Mut de Estimação<INFO>10144</INFO></TIPBOX>\n\t\t\t<TIPBOX>Deviruchi de Estimação<INFO>10145</INFO></TIPBOX>\n\t\t\t<TIPBOX>Diabolik de Estimação<INFO>10146</INFO></TIPBOX>\n\t\t\t<TIPBOX>Alice de Estimação<INFO>10147</INFO></TIPBOX>\n\t\t\t<TIPBOX>Aliza de Estimação<INFO>10148</INFO></TIPBOX>\n\t\t\t<TIPBOX>Chung E de Estimação<INFO>10149</INFO></TIPBOX>\n\t\t\t<TIPBOX>Gato de Folha de Estimação<INFO>10150</INFO></TIPBOX>\n\t\t\t<TIPBOX>Loli Ruri de Estimação<INFO>10151</INFO></TIPBOX>\n\t\t\t<TIPBOX>Shinobi de Estimação<INFO>10152</INFO></TIPBOX>\n\t\t\t<TIPBOX>Miyabi Ningyo de Estimação<INFO>10153</INFO></TIPBOX>\n\t\t\t<TIPBOX>Marionete de Estimação<INFO>10154</INFO></TIPBOX>\n\t\t\t<TIPBOX>Sussurro de Estimação<INFO>10155</INFO></TIPBOX>\n\t\t\t<TIPBOX>Atirador de Pedras de Estimação<INFO>10157</INFO></TIPBOX>\n\t\t\t<TIPBOX>Imp de Estimação<INFO>10158</INFO></TIPBOX>\n\t\t\t<TIPBOX>Tikbalang de Estimação<INFO>10159</INFO></TIPBOX>\n\t\t\t<TIPBOX>Gremlin Invasor de Estimação<INFO>10160</INFO></TIPBOX>\n\t\t\t<TIPBOX>Hodremlin de Estimação<INFO>10161</INFO></TIPBOX>\n\t\t\t<TIPBOX>Sacerdote Maldito de Estimação<INFO>10162</INFO></TIPBOX>\n\t\t\t<TIPBOX>Salgueiro Espacial de Estimação<INFO>10163</INFO></TIPBOX>\n\t\t\t<TIPBOX>Roween de Estimação<INFO>10164</INFO></TIPBOX>\n\t\t\t<TIPBOX>Jirtas de Estimação<INFO>10165</INFO></TIPBOX>\n\t\t\t<TIPBOX>Mini Beta de Estimação<INFO>10166</INFO></TIPBOX>\n\t\t\t<TIPBOX>Mini Alpha de Estimação<INFO>10167</INFO></TIPBOX>\n\t\t\t<TIPBOX>Quinding de Estimação<INFO>10168</INFO></TIPBOX>\n\t\t\t<TIPBOX>Goblin Natalino de Estimação<INFO>10169</INFO></TIPBOX>\n\t\t\t<TIPBOX>Líder Goblin de Estimação<INFO>10170</INFO></TIPBOX>\n\t\t\t<TIPBOX>Mao Guai de Estimação<INFO>10171</INFO></TIPBOX>\n\t\t\t<TIPBOX>Lebre da Neve de Estimação<INFO>10172</INFO></TIPBOX>\n\t\t\t<TIPBOX>Unicórnio de Estimação<INFO>10173</INFO></TIPBOX>\n\t\t\t<TIPBOX>Ovo de Mascote Buzzy Brother de Estimação<INFO>10174</INFO></TIPBOX>\n\t\t\t<TIPBOX>Zumbichano de Estimação<INFO>10175</INFO></TIPBOX>\n\t\t\t<TIPBOX>Esqueleão de Estimação<INFO>10176</INFO></TIPBOX>\n\t\t\t<TIPBOX>Patinho de Estimação<INFO>10177</INFO></TIPBOX>\n\t\t\t<TIPBOX>Golem de Estimação<INFO>10178</INFO></TIPBOX>\n\t\t\t<TIPBOX>Bacsojin de Estimação<INFO>10179</INFO></TIPBOX>\n\t\t\t<TIPBOX>Luar de Estimação<INFO>10180</INFO></TIPBOX>\n\t\t\t<TIPBOX>Phreeoni de Estimação<INFO>10181</INFO></TIPBOX>\n\t\t\t<TIPBOX>Herói Orc de Estimação<INFO>10182</INFO></TIPBOX>\n\t\t\t<TIPBOX>Gloom Sob a Noite de Estimação<INFO>10183</INFO></TIPBOX>\n\t\t\t<TIPBOX>Kiel-D-01 de Estimação<INFO>10184</INFO></TIPBOX>\n\t\t\t<TIPBOX>Dullahan de Estimação<INFO>10185</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pesadelo Sombrio de Estimação<INFO>10186</INFO></TIPBOX>\n\t\t\t<TIPBOX>Bafomé de Estimação<INFO>10187</INFO></TIPBOX>\n\t\t\t<TIPBOX>Farmiliar de Estimação<INFO>10188</INFO></TIPBOX>\n\t\t\t<TIPBOX>Ilusão das Trevas de Estimação<INFO>10189</INFO></TIPBOX>\n\t\t\t<TIPBOX>Loli Ruri da Lua Azul de Estimação<INFO>10190</INFO></TIPBOX>\n\t\t\t<TIPBOX>Rosa Selvagem de Estimação<INFO>10191</INFO></TIPBOX>\n\t\t\t<TIPBOX>Cavaleiro Branco Mutante de Estimação<INFO>10192</INFO></TIPBOX>\n\t\t\t<TIPBOX>Cavaleiro do Abismo de Estimação<INFO>10193</INFO></TIPBOX>\n\t\t\t<TIPBOX>Cavaleiro Branco de Estimação<INFO>10194</INFO></TIPBOX>\n\t\t\t<TIPBOX>Eddga de Estimação<INFO>10195</INFO></TIPBOX>\n\t\t\t<TIPBOX>Medusa de Estimação<INFO>10196</INFO></TIPBOX>\n\t\t\t<TIPBOX>Copo de Estimação<INFO>10197</INFO></TIPBOX>\n\t\t\t<TIPBOX>Ventogelado Cinza de Estimação<INFO>10198</INFO></TIPBOX>\n\t\t\t<TIPBOX>Ventogelado de Estimação<INFO>10199</INFO></TIPBOX>\n\t\t\t<TIPBOX>Senhor das Trevas de Estimação<INFO>10200</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			"Esta é a lista de mascotes que podem ser obtidos usando itens de domesticação, cupons ou eventos.\n\n\t\t\t»Lista de Mascotes\n\t\t\t<TIPBOX>Bebê Poring de Estimação<INFO>10090</INFO></TIPBOX>\n\t\t\t<TIPBOX>Poring de Estimação<INFO>10091</INFO></TIPBOX>\n\t\t\t<TIPBOX>Mastering de Estimação<INFO>10092</INFO></TIPBOX>\n\t\t\t<TIPBOX>Angeling de Estimação<INFO>10093</INFO></TIPBOX>\n\t\t\t<TIPBOX>Drops de Estimação<INFO>10094</INFO></TIPBOX>\n\t\t\t<TIPBOX>Omeleting de Estimação<INFO>10095</INFO></TIPBOX>\n\t\t\t<TIPBOX>Poporing de Estimação<INFO>10096</INFO></TIPBOX>\n\t\t\t<TIPBOX>Filhote de Lobo de Estimação<INFO>10097</INFO></TIPBOX>\n\t\t\t<TIPBOX>Lobo do Deserto de Estimação<INFO>10098</INFO></TIPBOX>\n\t\t\t<TIPBOX>Guerreiro Orc de Estimação<INFO>10099</INFO></TIPBOX>\n\t\t\t<TIPBOX>Grand Orc de Estimação<INFO>10100</INFO></TIPBOX>\n\t\t\t<TIPBOX>Golem de Fogo de Estimação<INFO>10101</INFO></TIPBOX>\n\t\t\t<TIPBOX>Petite de Estimação<INFO>10102</INFO></TIPBOX>\n\t\t\t<TIPBOX>Deletério de Estimação<INFO>10103</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pesadelo Sinistro de Estimação<INFO>10104</INFO></TIPBOX>\n\t\t\t<TIPBOX>Bafomé Jr. de Estimação<INFO>10105</INFO></TIPBOX>\n\t\t\t<TIPBOX>Bafinho Caótico de Estimação<INFO>10106</INFO></TIPBOX>\n\t\t\t<TIPBOX>PecoPeco de Estimação<INFO>10107</INFO></TIPBOX>\n\t\t\t<TIPBOX>Grand Peco de Estimação<INFO>10108</INFO></TIPBOX>\n\t\t\t<TIPBOX>Ursinho de Estimação<INFO>10109</INFO></TIPBOX>\n\t\t\t<TIPBOX>Ursinho Abominável de Estimação<INFO>10110</INFO></TIPBOX>\n\t\t\t<TIPBOX>Aliot de Estimação<INFO>10111</INFO></TIPBOX>\n\t\t\t<TIPBOX>Alicel de Estimação<INFO>10112</INFO></TIPBOX>\n\t\t\t<TIPBOX>Esporo de Estimação<INFO>10113</INFO></TIPBOX>\n\t\t\t<TIPBOX>Esporo Venenoso de Estimação<INFO>10114</INFO></TIPBOX>\n\t\t\t<TIPBOX>Ísis de Estimação<INFO>10115</INFO></TIPBOX>\n\t\t\t<TIPBOX>Bebê Ísis de Estimação<INFO>10116</INFO></TIPBOX>\n\t\t\t<TIPBOX>Andarilho de Estimação<INFO>10117</INFO></TIPBOX>\n\t\t\t<TIPBOX>Andarilho Poluto de Estimação<INFO>10118</INFO></TIPBOX>\n\t\t\t<TIPBOX>Munak de Estimação<INFO>10119</INFO></TIPBOX>\n\t\t\t<TIPBOX>Bongun de Estimação<INFO>10120</INFO></TIPBOX>\n\t\t\t<TIPBOX>Yao Jun de Estimação<INFO>10121</INFO></TIPBOX>\n\t\t\t<TIPBOX>Sohee de Estimação<INFO>10122</INFO></TIPBOX>\n\t\t\t<TIPBOX>Ninfa Perversa de Estimação<INFO>10123</INFO></TIPBOX>\n\t\t\t<TIPBOX>Nove Caudas de Estimação<INFO>10124</INFO></TIPBOX>\n\t\t\t<TIPBOX>Gato de Nove Caudas de Estimação<INFO>10125</INFO></TIPBOX>\n\t\t\t<TIPBOX>Incubus de Estimação<INFO>10126</INFO></TIPBOX>\n\t\t\t<TIPBOX>Succubus de Estimação<INFO>10127</INFO></TIPBOX>\n\t\t\t<TIPBOX>Rocker de Estimação<INFO>10128</INFO></TIPBOX>\n\t\t\t<TIPBOX>Metaller de Estimação<INFO>10129</INFO></TIPBOX>\n\t\t\t<TIPBOX>Múmia de Estimação<INFO>10130</INFO></TIPBOX>\n\t\t\t<TIPBOX>Múmia Anciã de Estimação<INFO>10131</INFO></TIPBOX>\n\t\t\t<TIPBOX>Lunático de Estimação<INFO>10132</INFO></TIPBOX>\n\t\t\t<TIPBOX>Lunático Folhado de Estimação<INFO>10133</INFO></TIPBOX>\n\t\t\t<TIPBOX>Picky de Estimação<INFO>10134</INFO></TIPBOX>\n\t\t\t<TIPBOX>Chonchon de Estimação<INFO>10135</INFO></TIPBOX>\n\t\t\t<TIPBOX>Chonchon de Aço de Estimação<INFO>10136</INFO></TIPBOX>\n\t\t\t<TIPBOX>Mosca Caçadora de Estimação<INFO>10137</INFO></TIPBOX>\n\t\t\t<TIPBOX>Bebê Selvagem de Estimação<INFO>10138</INFO></TIPBOX>\n\t\t\t<TIPBOX>Selvagem de Estimação<INFO>10139</INFO></TIPBOX>\n\t\t\t<TIPBOX>Fumacento de Estimação<INFO>10140</INFO></TIPBOX>\n\t\t\t<TIPBOX>Yoyo de Estimação<INFO>10141</INFO></TIPBOX>\n\t\t\t<TIPBOX>Choco de Estimação<INFO>10142</INFO></TIPBOX>\n\t\t\t<TIPBOX>Dokebi de Estimação<INFO>10143</INFO></TIPBOX>\n\t\t\t<TIPBOX>Am Mut de Estimação<INFO>10144</INFO></TIPBOX>\n\t\t\t<TIPBOX>Deviruchi de Estimação<INFO>10145</INFO></TIPBOX>\n\t\t\t<TIPBOX>Diabolik de Estimação<INFO>10146</INFO></TIPBOX>\n\t\t\t<TIPBOX>Alice de Estimação<INFO>10147</INFO></TIPBOX>\n\t\t\t<TIPBOX>Aliza de Estimação<INFO>10148</INFO></TIPBOX>\n\t\t\t<TIPBOX>Chung E de Estimação<INFO>10149</INFO></TIPBOX>\n\t\t\t<TIPBOX>Gato de Folha de Estimação<INFO>10150</INFO></TIPBOX>\n\t\t\t<TIPBOX>Loli Ruri de Estimação<INFO>10151</INFO></TIPBOX>\n\t\t\t<TIPBOX>Shinobi de Estimação<INFO>10152</INFO></TIPBOX>\n\t\t\t<TIPBOX>Miyabi Ningyo de Estimação<INFO>10153</INFO></TIPBOX>\n\t\t\t<TIPBOX>Marionete de Estimação<INFO>10154</INFO></TIPBOX>\n\t\t\t<TIPBOX>Sussurro de Estimação<INFO>10155</INFO></TIPBOX>\n\t\t\t<TIPBOX>Atirador de Pedras de Estimação<INFO>10157</INFO></TIPBOX>\n\t\t\t<TIPBOX>Imp de Estimação<INFO>10158</INFO></TIPBOX>\n\t\t\t<TIPBOX>Tikbalang de Estimação<INFO>10159</INFO></TIPBOX>\n\t\t\t<TIPBOX>Gremlin de Estimação<INFO>10160</INFO></TIPBOX>\n\t\t\t<TIPBOX>Hodremlin de Estimação<INFO>10161</INFO></TIPBOX>\n\t\t\t<TIPBOX>Sacerdote Maldito de Estimação<INFO>10162</INFO></TIPBOX>\n\t\t\t<TIPBOX>Salgueiro de Estimação<INFO>10163</INFO></TIPBOX>\n\t\t\t<TIPBOX>Roween de Estimação<INFO>10164</INFO></TIPBOX>\n\t\t\t<TIPBOX>Jirtas de Estimação<INFO>10165</INFO></TIPBOX>\n\t\t\t<TIPBOX>Mini Beta de Estimação<INFO>10166</INFO></TIPBOX>\n\t\t\t<TIPBOX>Mini Alpha de Estimação<INFO>10167</INFO></TIPBOX>\n\t\t\t<TIPBOX>Quinding de Estimação<INFO>10168</INFO></TIPBOX>\n\t\t\t<TIPBOX>Líder Goblin de Estimação<INFO>10170</INFO></TIPBOX>\n\t\t\t<TIPBOX>Mao Guai de Estimação<INFO>10171</INFO></TIPBOX>\n\t\t\t<TIPBOX>Unicórnio de Estimação<INFO>10173</INFO></TIPBOX>\n\t\t\t<TIPBOX>Zumbichano de Estimação<INFO>10175</INFO></TIPBOX>\n\t\t\t<TIPBOX>Esqueleão de Estimação<INFO>10176</INFO></TIPBOX>\n\t\t\t<TIPBOX>Patinho de Estimação<INFO>10177</INFO></TIPBOX>\n\t\t\t<TIPBOX>Golem de Estimação<INFO>10178</INFO></TIPBOX>\n\t\t\t<TIPBOX>Lady Branca de Estimação<INFO>10179</INFO></TIPBOX>\n\t\t\t<TIPBOX>Flor do Luar de Estimação<INFO>10180</INFO></TIPBOX>\n\t\t\t<TIPBOX>Freeoni de Estimação<INFO>10181</INFO></TIPBOX>\n\t\t\t<TIPBOX>Orc Herói de Estimação<INFO>10182</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pesar Noturno de Estimação<INFO>10183</INFO></TIPBOX>\n\t\t\t<TIPBOX>Kiel-D-01 de Estimação<INFO>10184</INFO></TIPBOX>\n\t\t\t<TIPBOX>Dullahan de Estimação<INFO>10185</INFO></TIPBOX>\n\t\t\t<TIPBOX>Pesadelo Sombrio de Estimação<INFO>10186</INFO></TIPBOX>\n\t\t\t<TIPBOX>Bafomé de Estimação<INFO>10187</INFO></TIPBOX>\n\t\t\t<TIPBOX>Familiar de Estimação<INFO>10188</INFO></TIPBOX>\n\t\t\t<TIPBOX>Ilusão das Trevas de Estimação<INFO>10189</INFO></TIPBOX>\n\t\t\t<TIPBOX>Rosa Selvagem de Estimação<INFO>10191</INFO></TIPBOX>\n\t\t\t<TIPBOX>Medusa de Estimação<INFO>10196</INFO></TIPBOX>\n\t\t\t<TIPBOX>Senhor das Trevas de Estimação<INFO>10200</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10090] = {
@@ -1575,7 +1732,7 @@ tbl = {
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9001]Poring de Estimação\n\t\t\t» Método de Obtenção:Domesticação\n\t\t\tItem de Domesticação:^i[619]\n\t\t\t\n\t\t\t» Alimento\n\t\t\t^i[531]\n\n\t\t\t» Acessório\n\t\t\t^i[10013]\n\t\t\t\n\t\t\t» Informações de Evolução\n\t\t\t<TIPBOX>▷Mastering de Estimação<INFO>10092</INFO></TIPBOX>\n\t\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			"^i[9001]Poring de Estimação\n\t\t\t» Método de Obtenção:Domesticação\n\t\t\tItem de Domesticação:^i[619]\n\t\t\t\n\t\t\t» Alimento\n\t\t\t^i[531]\n\n\t\t\t» Acessório\n\t\t\t^i[10013]\n\t\t\t\n\t\t\t» Informações de Evolução\n\t\t\t<TIPBOX>§Mastering de Estimação<INFO>10092</INFO></TIPBOX>\n\t\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10092] = {
@@ -1584,7 +1741,7 @@ tbl = {
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9069]Mastering de Estimação\n\t\t\t» Método de Obtenção\n\t\t\t<TIPBOX>▷Poring de Estimação<INFO>10091</INFO></TIPBOX> Evolução\n\t\t\t▷Materiais de Evolução:\n\t\t\t^i[619]x3, ^i[610]x10\n\n\t\t\t» Alimento\n\t\t\t^i[537]\n\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\n\t\t\t» Informações de Evolução\n\t\t\t<TIPBOX>▷Angeling de Estimação<INFO>10093</INFO></TIPBOX>\n\t\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			"^i[9069]Mastering de Estimação\n\t\t\t» Método de Obtenção\n\t\t\t<TIPBOX>§Poring de Estimação<INFO>10091</INFO></TIPBOX> Evolução\n\t\t\t§Materiais de Evolução:\n\t\t\t^i[619]x3, ^i[610]x10\n\n\t\t\t» Alimento\n\t\t\t^i[537]\n\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\n\t\t\t» Informações de Evolução\n\t\t\t<TIPBOX>§Angeling de Estimação<INFO>10093</INFO></TIPBOX>\n\t\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10093] = {
@@ -1593,7 +1750,7 @@ tbl = {
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9088]Angeling de Estimação\n\t\t\t» Método de Obtenção\n\t\t\t<TIPBOX>▷Mastering de Estimação<INFO>10092</INFO></TIPBOX> Evolução\n\t\t\t▷Materiais de Evolução:\n\t\t\t^i[2282]x1, ^i[509]x50,\n\t\t\t^i[503]x20, ^i[909]x200\n\t\t\t\n\t\t\t» Alimento\n\t\t\t^i[537]\n\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\n\t\t\t» Informações de Evolução\n\t\t\t[Nenhum]\n\t\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			"^i[9088]Angeling de Estimação\n\t\t\t» Método de Obtenção\n\t\t\t<TIPBOX>§Mastering de Estimação<INFO>10092</INFO></TIPBOX> Evolução\n\t\t\t§Materiais de Evolução:\n\t\t\t^i[2282]x1, ^i[509]x50,\n\t\t\t^i[503]x20, ^i[909]x200\n\t\t\t\n\t\t\t» Alimento\n\t\t\t^i[537]\n\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\n\t\t\t» Informações de Evolução\n\t\t\t[Nenhum]\n\t\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10094] = {
@@ -1602,7 +1759,7 @@ tbl = {
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9002]Drops de Estimação\n\t\t\t» Método de Obtenção:Domesticação\n\t\t\tItem de Domesticação:^i[620]\n\n\t\t\t» Alimento\n\t\t\t^i[508]\n\n\t\t\t» Acessório\n\t\t\t^i[10013]\n\n\t\t\t» Informações de Evolução\n\t\t\t<TIPBOX>▷Omeleting de Estimação<INFO>10095</INFO></TIPBOX>\n\t\t\t<TIPBOX>▷Quinding de Estimação<INFO>10168</INFO></TIPBOX>\n\t\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			"^i[9002]Drops de Estimação\n\t\t\t» Método de Obtenção:Domesticação\n\t\t\tItem de Domesticação:^i[620]\n\n\t\t\t» Alimento\n\t\t\t^i[508]\n\n\t\t\t» Acessório\n\t\t\t^i[10013]\n\n\t\t\t» Informações de Evolução\n\t\t\t<TIPBOX>§Omeleting de Estimação<INFO>10095</INFO></TIPBOX>\n\t\t\t<TIPBOX>§Quinding de Estimação<INFO>10168</INFO></TIPBOX>\n\t\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10095] = {
@@ -1611,7 +1768,7 @@ tbl = {
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9092]Omeleting de Estimação\n\t\t\t» Método de Obtenção\n\t\t\t<TIPBOX>▷Drops de Estimação<INFO>10094</INFO></TIPBOX> Evolução\n\t\t\t▷Materiais de Evolução:\n\t\t\t^i[7032]x20, ^i[7031]x10,\n\t\t\t^i[531]x3, ^i[4659]x1\n\n\t\t\t» Alimento\n\t\t\t^i[537]\n\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\n\t\t\t» Informações de Evolução\n\t\t\t[Nenhum]\n\t\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			"^i[9092]Omeleting de Estimação\n\t\t\t» Método de Obtenção\n\t\t\t<TIPBOX>§Drops de Estimação<INFO>10094</INFO></TIPBOX> Evolução\n\t\t\t§Materiais de Evolução:\n\t\t\t^i[7032]x20, ^i[7031]x10,\n\t\t\t^i[531]x3, ^i[4659]x1\n\n\t\t\t» Alimento\n\t\t\t^i[537]\n\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\n\t\t\t» Informações de Evolução\n\t\t\t[Nenhum]\n\t\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10096] = {
@@ -1629,7 +1786,7 @@ tbl = {
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9010]Filhote de Lobo de Estimação\n\t\t\t» Método de Obtenção:Domesticação\n\t\t\tItem de Domesticação:^i[628]\n\n\t\t\t» Alimento\n\t\t\t^i[537]\n\n\t\t\t» Acessório\n\t\t\t^i[10003]\n\n\t\t\t» Informações de Evolução\n\t\t\t<TIPBOX>▷Lobo do Deserto de Estimação<INFO>10098</INFO></TIPBOX>\n\t\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			"^i[9010]Filhote de Lobo de Estimação\n\t\t\t» Método de Obtenção:Domesticação\n\t\t\tItem de Domesticação:^i[628]\n\n\t\t\t» Alimento\n\t\t\t^i[537]\n\n\t\t\t» Acessório\n\t\t\t^i[10003]\n\n\t\t\t» Informações de Evolução\n\t\t\t<TIPBOX>§Lobo do Deserto de Estimação<INFO>10098</INFO></TIPBOX>\n\t\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10098] = {
@@ -1638,7 +1795,7 @@ tbl = {
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9129]Lobo do Deserto de Estimação\n\t\t\t» Método de Obtenção\n\t\t\t<TIPBOX>▷Filhote de Lobo de Estimação<INFO>10097</INFO></TIPBOX> Evolução\n\t\t\t▷Materiais de Evolução:\n\t\t\t^i[628]x3, ^i[7030]x300,\n\t\t\t^i[919]x20, ^i[4082]x1\n\n\t\t\t» Alimento\n\t\t\t^i[537]\n\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\n\t\t\t» Informações de Evolução\n\t\t\t[Nenhum]\n\t\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			"^i[9129]Lobo do Deserto de Estimação\n\t\t\t» Método de Obtenção\n\t\t\t<TIPBOX>§Filhote de Lobo de Estimação<INFO>10097</INFO></TIPBOX> Evolução\n\t\t\t§Materiais de Evolução:\n\t\t\t^i[628]x3, ^i[7030]x300,\n\t\t\t^i[919]x20, ^i[4082]x1\n\n\t\t\t» Alimento\n\t\t\t^i[537]\n\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\n\t\t\t» Informações de Evolução\n\t\t\t[Nenhum]\n\t\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10099] = {
@@ -1647,7 +1804,7 @@ tbl = {
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9017]Guerreiro Orc de Estimação\n\t\t\t» Método de Obtenção:Domesticação\n\t\t\tItem de Domesticação:^i[635]\n\n\t\t\t» Alimento\n\t\t\t^i[537]\n\n\t\t\t» Acessório\n\t\t\t^i[10009]\n\n\t\t\t» Informações de Evolução\n\t\t\t<TIPBOX>▷Grand Orc de Estimação<INFO>10100</INFO></TIPBOX>\n\t\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			"^i[9017]Guerreiro Orc de Estimação\n\t\t\t» Método de Obtenção:Domesticação\n\t\t\tItem de Domesticação:^i[635]\n\n\t\t\t» Alimento\n\t\t\t^i[537]\n\n\t\t\t» Acessório\n\t\t\t^i[10009]\n\n\t\t\t» Informações de Evolução\n\t\t\t<TIPBOX>§Grand Orc de Estimação<INFO>10100</INFO></TIPBOX>\n\t\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10100] = {
@@ -1656,7 +1813,7 @@ tbl = {
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9087]Grand Orc de Estimação\n\t\t\t» Método de Obtenção\n\t\t\t<TIPBOX>▷Guerreiro Orc de Estimação<INFO>10099</INFO></TIPBOX> Evolução\n\t\t\t▷Materiais de Evolução:\n\t\t\t^i[635]x3, ^i[1124]x1,\n\t\t\t^i[931]x500, ^i[2267]x1,\n\t\t\t^i[4066]x1\n\t\t\t\n\t\t\t» Alimento\n\t\t\t^i[537]\n\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\n\t\t\t» Informações de Evolução\n\t\t\t<TIPBOX>▷Herói Orc de Estimação<INFO>10182</INFO></TIPBOX>\n\t\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			"^i[9087]Grand Orc de Estimação\n\t\t\t» Método de Obtenção\n\t\t\t<TIPBOX>§Guerreiro Orc de Estimação<INFO>10099</INFO></TIPBOX> Evolução\n\t\t\t§Materiais de Evolução:\n\t\t\t^i[635]x3, ^i[1124]x1,\n\t\t\t^i[931]x500, ^i[2267]x1,\n\t\t\t^i[4066]x1\n\t\t\t\n\t\t\t» Alimento\n\t\t\t^i[537]\n\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\n\t\t\t» Informações de Evolução\n\t\t\t<TIPBOX>§Orc Herói de Estimação<INFO>10182</INFO></TIPBOX>\n\t\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10101] = {
@@ -1665,7 +1822,7 @@ tbl = {
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9131]Golem de Fogo de Estimação\n\t\t\t» Método de Obtenção\n\t\t\t<TIPBOX>▷Golem de Estimação<INFO>10178</INFO></TIPBOX> Evolução\n\t\t\t▷Materiais de Evolução:\n\t\t\t^i[953]x500, ^i[12371]x3,\n\t\t\t^i[990]x20, ^i[27029]x1\n\n\t\t\t» Alimento\n\t\t\t^i[537]\n\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\n\t\t\t» Informações de Evolução\n\t\t\t[Nenhum]\n\t\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			"^i[9131]Golem de Fogo de Estimação\n\t\t\t» Método de Obtenção\n\t\t\t<TIPBOX>§Golem de Estimação<INFO>10178</INFO></TIPBOX> Evolução\n\t\t\t§Materiais de Evolução:\n\t\t\t^i[953]x500, ^i[12371]x3,\n\t\t\t^i[990]x20, ^i[27029]x1\n\n\t\t\t» Alimento\n\t\t\t^i[537]\n\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\n\t\t\t» Informações de Evolução\n\t\t\t[Nenhum]\n\t\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10102] = {
@@ -1674,7 +1831,7 @@ tbl = {
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9022]Petite de Estimação\n\t\t\t» Método de Obtenção:Domesticação\n\t\t\tItem de Domesticação:^i[640]\n\n\t\t\t» Alimento\n\t\t\t^i[537]\n\n\t\t\t» Acessório\n\t\t\t^i[10011]\n\t\t\t\n\t\t\t» Informações de Evolução\n\t\t\t<TIPBOX>▷Deletério de Estimação<INFO>10103</INFO></TIPBOX>\n\t\t\t\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			"^i[9022]Petite de Estimação\n\t\t\t» Método de Obtenção:Domesticação\n\t\t\tItem de Domesticação:^i[640]\n\n\t\t\t» Alimento\n\t\t\t^i[537]\n\n\t\t\t» Acessório\n\t\t\t^i[10011]\n\t\t\t\n\t\t\t» Informações de Evolução\n\t\t\t<TIPBOX>§Deletério de Estimação<INFO>10103</INFO></TIPBOX>\n\t\t\t\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10103] = {
@@ -1683,7 +1840,7 @@ tbl = {
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9098]Deletério de Estimação\n\t\t\t» Método de Obtenção\n\t\t\t<TIPBOX>▷Petite de Estimação<INFO>10102</INFO></TIPBOX> Evolução\n\t\t\t▷Materiais de Evolução:\n\t\t\t^i[6260]x100, ^i[606]x150,\n\t\t\t^i[640]x3, ^i[4279]x1\n\n\t\t\t» Alimento\n\t\t\t^i[537]\n\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\n\t\t\t» Informações de Evolução\n\t\t\t[Nenhum]\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			"^i[9098]Deletério de Estimação\n\t\t\t» Método de Obtenção\n\t\t\t<TIPBOX>§Petite de Estimação<INFO>10102</INFO></TIPBOX> Evolução\n\t\t\t§Materiais de Evolução:\n\t\t\t^i[6260]x100, ^i[606]x150,\n\t\t\t^i[640]x3, ^i[4279]x1\n\n\t\t\t» Alimento\n\t\t\t^i[537]\n\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\n\t\t\t» Informações de Evolução\n\t\t\t[Nenhum]\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10104] = {
@@ -1692,7 +1849,7 @@ tbl = {
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9116]Pesadelo Sinistro de Estimação\n\t\t\t» Método de Obtenção\n\t\t\t<TIPBOX>▷Pesadelo Sombrio de Estimação<INFO>10186</INFO></TIPBOX> Evolução\n\t\t\t▷Materiais de Evolução:\n\t\t\t^i[7120]x500, ^i[510]x100,\n\t\t\t^i[935]x100, ^i[4166]x1\n\n\t\t\t» Alimento\n\t\t\t^i[537]\n\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\n\t\t\t» Informações de Evolução\n\t\t\t[Nenhum]\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			"^i[9116]Pesadelo Sinistro de Estimação\n\t\t\t» Método de Obtenção\n\t\t\t<TIPBOX>§Pesadelo Sombrio de Estimação<INFO>10186</INFO></TIPBOX> Evolução\n\t\t\t§Materiais de Evolução:\n\t\t\t^i[7120]x500, ^i[510]x100,\n\t\t\t^i[935]x100, ^i[4166]x1\n\n\t\t\t» Alimento\n\t\t\t^i[537]\n\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\n\t\t\t» Informações de Evolução\n\t\t\t[Nenhum]\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10105] = {
@@ -1701,25 +1858,25 @@ tbl = {
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9024]Bafomé Jr. de Estimação\n\t\t\t» Método de Obtenção:Domesticação\n\t\t\tItem de Domesticação:^i[642]\n\n\t\t\t» Alimento\n\t\t\t^i[518]\n\t\t\t\n\t\t\t» Acessório\n\t\t\t^i[10001]\n\t\t\t\n\t\t\t» Informações de Evolução\n\t\t\t<TIPBOX>▷Júnior Caótico de Estimação<INFO>10106</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			"^i[9024]Bafomé Jr. de Estimação\n\t\t\t» Método de Obtenção:Domesticação\n\t\t\tItem de Domesticação:^i[642]\n\n\t\t\t» Alimento\n\t\t\t^i[518]\n\t\t\t\n\t\t\t» Acessório\n\t\t\t^i[10001]\n\t\t\t\n\t\t\t» Informações de Evolução\n\t\t\t<TIPBOX>§Bafinho Caótico de Estimação<INFO>10106</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10106] = {
-		Title = "Júnior Caótico de Estimação#Ração para Bichinho#Chifre Diabólico",
+		Title = "Bafinho Caótico de Estimação#Ração para Bichinho#Chifre Diabólico",
 		Search = 1,
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9130]Júnior Caótico de Estimação\n\t\t\t» Método de Obtenção\n\t\t\t<TIPBOX>▷Bafomé Jr. de Estimação<INFO>10105</INFO></TIPBOX> Evolução\n\t\t\t▷Materiais de Evolução:\n\t\t\t^i[923]x300, ^i[7054]x300,\n\t\t\t^i[508]x100, ^i[27335]x1\n\t\t\t\n\t\t\t» Alimento\n\t\t\t^i[537]\n\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\n\t\t\t» Informações de Evolução\n\t\t\t<TIPBOX>▷Bafomé de Estimação<INFO>10187</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			"^i[9130]Bafinho Caótico de Estimação\n\t\t\t» Método de Obtenção\n\t\t\t<TIPBOX>§Bafomé Jr. de Estimação<INFO>10105</INFO></TIPBOX> Evolução\n\t\t\t§Materiais de Evolução:\n\t\t\t^i[923]x300, ^i[7054]x300,\n\t\t\t^i[508]x100, ^i[27335]x1\n\t\t\t\n\t\t\t» Alimento\n\t\t\t^i[537]\n\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\n\t\t\t» Informações de Evolução\n\t\t\t<TIPBOX>§Bafomé de Estimação<INFO>10187</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10107] = {
-		Title = "Peco Peco de Estimação#Ração para Bichinho#Minhoca Gorducha",
+		Title = "PecoPeco de Estimação#Ração para Bichinho#Minhoca Gorducha",
 		Search = 1,
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9014]Peco Peco de Estimação\n\t\t\t» Método de Obtenção:Domesticação\n\t\t\tItem de Domesticação:^i[632]\n\n\t\t\t» Alimento\n\t\t\t^i[537]\n\n\t\t\t» Acessório\n\t\t\t^i[10010]\n\n\t\t\t» Informações de Evolução\n\t\t\t<TIPBOX>▷Grand Peco de Estimação<INFO>10108</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			"^i[9014]PecoPeco de Estimação\n\t\t\t» Método de Obtenção:Domesticação\n\t\t\tItem de Domesticação:^i[632]\n\n\t\t\t» Alimento\n\t\t\t^i[537]\n\n\t\t\t» Acessório\n\t\t\t^i[10010]\n\n\t\t\t» Informações de Evolução\n\t\t\t<TIPBOX>§Grand Peco de Estimação<INFO>10108</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10108] = {
@@ -1728,7 +1885,7 @@ tbl = {
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9071]Grand Peco de Estimação\n\t\t\t» Método de Obtenção\n\t\t\t<TIPBOX>▷Peco Peco de Estimação<INFO>10107</INFO></TIPBOX> Evolução\n\t\t\t▷Materiais de Evolução:\n\t\t\t^i[632]x3, ^i[537]x10,\n\t\t\t^i[7101]x300, ^i[522]x10,\n\t\t\t^i[4031]x1\n\t\t\t\n\t\t\t» Alimento\n\t\t\t^i[537]\n\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\n\t\t\t» Informações de Evolução\n\t\t\t[Nenhum]\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			"^i[9071]Grand Peco de Estimação\n\t\t\t» Método de Obtenção\n\t\t\t<TIPBOX>§PecoPeco de Estimação<INFO>10107</INFO></TIPBOX> Evolução\n\t\t\t§Materiais de Evolução:\n\t\t\t^i[632]x3, ^i[537]x10,\n\t\t\t^i[7101]x300, ^i[522]x10,\n\t\t\t^i[4031]x1\n\t\t\t\n\t\t\t» Alimento\n\t\t\t^i[537]\n\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\n\t\t\t» Informações de Evolução\n\t\t\t[Nenhum]\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10109] = {
@@ -1737,7 +1894,7 @@ tbl = {
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9099]Ursinho de Estimação\n\t\t\t» Método de Obtenção:Domesticação\n\t\t\tItem de Domesticação:^i[23189]\n\n\t\t\t» Alimento\n\t\t\t^i[25233]\n\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\n\t\t\t» Informações de Evolução\n\t\t\t<TIPBOX>▷Ursinho Abominável de Estimação<INFO>10110</INFO></TIPBOX>\n\t\t\t<TIPBOX>▷Aliot de Estimação<INFO>10111</INFO></TIPBOX>\n\t\t\t<TIPBOX>▷Alicel de Estimação<INFO>10112</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			"^i[9099]Ursinho de Estimação\n\t\t\t» Método de Obtenção:Domesticação\n\t\t\tItem de Domesticação:^i[23189]\n\n\t\t\t» Alimento\n\t\t\t^i[25233]\n\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\n\t\t\t» Informações de Evolução\n\t\t\t<TIPBOX>§Ursinho Abominável de Estimação<INFO>10110</INFO></TIPBOX>\n\t\t\t<TIPBOX>§Aliot de Estimação<INFO>10111</INFO></TIPBOX>\n\t\t\t<TIPBOX>§Alicel de Estimação<INFO>10112</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10110] = {
@@ -1746,7 +1903,7 @@ tbl = {
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9108]Ursinho Abominável de Estimação\n\t\t\t» Método de Obtenção\n\t\t\t<TIPBOX>▷Ursinho de Estimação<INFO>10109</INFO></TIPBOX> Evolução\n\t\t\t▷Materiais de Evolução:\n\t\t\t^i[7442]x300, ^i[724]x50,\n\t\t\t^i[23189]x3, ^i[4340]x1\n\n\t\t\t» Alimento\n\t\t\t^i[537]\n\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\n\t\t\t» Informações de Evolução\n\t\t\t[Nenhum]\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			"^i[9108]Ursinho Abominável de Estimação\n\t\t\t» Método de Obtenção\n\t\t\t<TIPBOX>§Ursinho de Estimação<INFO>10109</INFO></TIPBOX> Evolução\n\t\t\t§Materiais de Evolução:\n\t\t\t^i[7442]x300, ^i[724]x50,\n\t\t\t^i[23189]x3, ^i[4340]x1\n\n\t\t\t» Alimento\n\t\t\t^i[537]\n\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\n\t\t\t» Informações de Evolução\n\t\t\t[Nenhum]\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10111] = {
@@ -1755,7 +1912,7 @@ tbl = {
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9118]Aliot de Estimação\n\t\t\t» Método de Obtenção\n\t\t\t<TIPBOX>▷Ursinho de Estimação<INFO>10109</INFO></TIPBOX> Evolução\n\t\t\t▷Materiais de Evolução:\n\t\t\t^i[7317]x500, ^i[518]x100,\n\t\t\t^i[727]x10, ^i[4340]x1\n\n\t\t\t» Alimento\n\t\t\t^i[537]\n\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\n\t\t\t» Informações de Evolução\n\t\t\t<TIPBOX>▷Kiel-D-01 de Estimação<INFO>10184</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			"^i[9118]Aliot de Estimação\n\t\t\t» Método de Obtenção\n\t\t\t<TIPBOX>§Ursinho de Estimação<INFO>10109</INFO></TIPBOX> Evolução\n\t\t\t§Materiais de Evolução:\n\t\t\t^i[7317]x500, ^i[518]x100,\n\t\t\t^i[727]x10, ^i[4340]x1\n\n\t\t\t» Alimento\n\t\t\t^i[537]\n\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\n\t\t\t» Informações de Evolução\n\t\t\t<TIPBOX>§Kiel-D-01 de Estimação<INFO>10184</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10112] = {
@@ -1764,7 +1921,7 @@ tbl = {
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9119]Alicel de Estimação\n\t\t\t» Método de Obtenção\n\t\t\t<TIPBOX>▷Ursinho de Estimação<INFO>10109</INFO></TIPBOX> Evolução\n\t\t\t▷Materiais de Evolução:\n\t\t\t^i[7317]x500, ^i[518]x100,\n\t\t\t^i[7449]x50, ^i[4340]x1\n\n\t\t\t» Alimento\n\t\t\t^i[537]\n\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\n\t\t\t» Informações de Evolução\n\t\t\t[Nenhum]\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			"^i[9119]Alicel de Estimação\n\t\t\t» Método de Obtenção\n\t\t\t<TIPBOX>§Ursinho de Estimação<INFO>10109</INFO></TIPBOX> Evolução\n\t\t\t§Materiais de Evolução:\n\t\t\t^i[7317]x500, ^i[518]x100,\n\t\t\t^i[7449]x50, ^i[4340]x1\n\n\t\t\t» Alimento\n\t\t\t^i[537]\n\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\n\t\t\t» Informações de Evolução\n\t\t\t[Nenhum]\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10113] = {
@@ -1791,7 +1948,7 @@ tbl = {
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9021]Ísis de Estimação\n\t\t\t» Método de Obtenção:Domesticação\n\t\t\tItem de Domesticação:^i[639]\n\n\t\t\t» Alimento\n\t\t\t^i[537]\n\n\t\t\t» Acessório\n\t\t\t^i[10006]\n\n\t\t\t» Informações de Evolução\n\t\t\t<TIPBOX>▷Bebê Ísis de Estimação<INFO>10116</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			"^i[9021]Ísis de Estimação\n\t\t\t» Método de Obtenção:Domesticação\n\t\t\tItem de Domesticação:^i[639]\n\n\t\t\t» Alimento\n\t\t\t^i[537]\n\n\t\t\t» Acessório\n\t\t\t^i[10006]\n\n\t\t\t» Informações de Evolução\n\t\t\t<TIPBOX>§Bebê Ísis de Estimação<INFO>10116</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10116] = {
@@ -1800,16 +1957,16 @@ tbl = {
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9090]Bebê Ísis de Estimação\n\t\t\t» Método de Obtenção\n\t\t\t<TIPBOX>▷Ísis de Estimação<INFO>10115</INFO></TIPBOX> Evolução\n\t\t\t▷Materiais de Evolução:\n\t\t\t^i[639]x3, ^i[10006]x1,\n\t\t\t^i[954]x300, ^i[732]x6\n\n\t\t\t» Alimento\n\t\t\t^i[537]\n\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\n\t\t\t» Informações de Evolução\n\t\t\t[Nenhum]\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			"^i[9090]Bebê Ísis de Estimação\n\t\t\t» Método de Obtenção\n\t\t\t<TIPBOX>§Ísis de Estimação<INFO>10115</INFO></TIPBOX> Evolução\n\t\t\t§Materiais de Evolução:\n\t\t\t^i[639]x3, ^i[10006]x1,\n\t\t\t^i[954]x300, ^i[732]x6\n\n\t\t\t» Alimento\n\t\t\t^i[537]\n\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\n\t\t\t» Informações de Evolução\n\t\t\t[Nenhum]\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10117] = {
-		Title = "Homem Errante de Estimação#Refresco#Crânio do Andarilho",
+		Title = "Andarilho de Estimação#Refresco#Crânio do Andarilho",
 		Search = 1,
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9037]Homem Errante de Estimação\n\t\t\t» Método de Obtenção:Domesticação\n\t\t\tItem de Domesticação:^i[14574]\n\n\t\t\t» Alimento\n\t\t\t^i[7824]\n\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\n\t\t\t» Informações de Evolução\n\t\t\t<TIPBOX>▷Andarilho Poluto de Estimação<INFO>10118</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			"^i[9037]Andarilho de Estimação\n\t\t\t» Método de Obtenção:Domesticação\n\t\t\tItem de Domesticação:^i[14574]\n\n\t\t\t» Alimento\n\t\t\t^i[7824]\n\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\n\t\t\t» Informações de Evolução\n\t\t\t<TIPBOX>§Andarilho Poluto de Estimação<INFO>10118</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10118] = {
@@ -1818,7 +1975,7 @@ tbl = {
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9117]Andarilho Poluto de Estimação\n\t\t\t» Método de Obtenção\n\t\t\t<TIPBOX>▷Homem Errante de Estimação<INFO>10117</INFO></TIPBOX> Evolução\n\t\t\t▷Materiais de Evolução:\n\t\t\t^i[7005]x500, ^i[1059]x100,\n\t\t\t^i[1009]x50, ^i[4210]x1\n\n\t\t\t» Alimento\n\t\t\t^i[537]\n\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\n\t\t\t» Informações de Evolução\n\t\t\t[Nenhum]\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			"^i[9117]Andarilho Poluto de Estimação\n\t\t\t» Método de Obtenção\n\t\t\t<TIPBOX>§Andarilho de Estimação<INFO>10117</INFO></TIPBOX> Evolução\n\t\t\t§Materiais de Evolução:\n\t\t\t^i[7005]x500, ^i[1059]x100,\n\t\t\t^i[1009]x50, ^i[4210]x1\n\n\t\t\t» Alimento\n\t\t\t^i[537]\n\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\n\t\t\t» Informações de Evolução\n\t\t\t[Nenhum]\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10119] = {
@@ -1836,7 +1993,7 @@ tbl = {
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9025]Bongun de Estimação\n\t\t\t» Método de Obtenção:Domesticação\n\t\t\tItem de Domesticação:^i[659]\n\n\t\t\t» Alimento\n\t\t\t^i[537]\n\n\t\t\t» Acessório\n\t\t\t^i[10020]\n\n\t\t\t» Informações de Evolução\n\t\t\t<TIPBOX>▷Yao Jun de Estimação<INFO>10121</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			"^i[9025]Bongun de Estimação\n\t\t\t» Método de Obtenção:Domesticação\n\t\t\tItem de Domesticação:^i[659]\n\n\t\t\t» Alimento\n\t\t\t^i[537]\n\n\t\t\t» Acessório\n\t\t\t^i[10020]\n\n\t\t\t» Informações de Evolução\n\t\t\t<TIPBOX>§Yao Jun de Estimação<INFO>10121</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10121] = {
@@ -1845,7 +2002,7 @@ tbl = {
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9093]Yao Jun de Estimação\n\t\t\t» Método de Obtenção\n\t\t\t<TIPBOX>▷Bongun de Estimação<INFO>10120</INFO></TIPBOX> Evolução\n\t\t\t▷Materiais de Evolução:\n\t\t\t^i[7277]x100, ^i[7014]x50,\n\t\t\t^i[5367]x1, ^i[4328]x1\n\n\t\t\t» Alimento\n\t\t\t^i[537]\n\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\n\t\t\t» Informações de Evolução\n\t\t\t[Nenhum]\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			"^i[9093]Yao Jun de Estimação\n\t\t\t» Método de Obtenção\n\t\t\t<TIPBOX>§Bongun de Estimação<INFO>10120</INFO></TIPBOX> Evolução\n\t\t\t§Materiais de Evolução:\n\t\t\t^i[7277]x100, ^i[7014]x50,\n\t\t\t^i[5367]x1, ^i[4328]x1\n\n\t\t\t» Alimento\n\t\t\t^i[537]\n\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\n\t\t\t» Informações de Evolução\n\t\t\t[Nenhum]\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10122] = {
@@ -1863,7 +2020,7 @@ tbl = {
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9047]Ninfa Perversa de Estimação\n\t\t\t» Método de Obtenção:Domesticação\n\t\t\tItem de Domesticação:^i[12365]\n\n\t\t\t» Alimento\n\t\t\t^i[6105]\n\n\t\t\t» Acessório\n\t\t\t^i[10029]\n\n\t\t\t» Informações de Evolução\n\t\t\t<TIPBOX>▷Bacsojin de Estimação<INFO>10179</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			"^i[9047]Ninfa Perversa de Estimação\n\t\t\t» Método de Obtenção:Domesticação\n\t\t\tItem de Domesticação:^i[12365]\n\n\t\t\t» Alimento\n\t\t\t^i[6105]\n\n\t\t\t» Acessório\n\t\t\t^i[10029]\n\n\t\t\t» Informações de Evolução\n\t\t\t<TIPBOX>§Lady Branca de Estimação<INFO>10179</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10124] = {
@@ -1872,7 +2029,7 @@ tbl = {
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9095]Nove Caudas de Estimação\n\t\t\t» Método de Obtenção:Domesticação\n\t\t\tItem de Domesticação:^i[23187]\n\t\t\t\n\t\t\t» Alimento\n\t\t\t^i[25231]\n\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\n\t\t\t» Informações de Evolução\n\t\t\t<TIPBOX>▷Gato de Nove Caudas de Estimação<INFO>10125</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			"^i[9095]Nove Caudas de Estimação\n\t\t\t» Método de Obtenção:Domesticação\n\t\t\tItem de Domesticação:^i[23187]\n\t\t\t\n\t\t\t» Alimento\n\t\t\t^i[25231]\n\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\n\t\t\t» Informações de Evolução\n\t\t\t<TIPBOX>§Gato de Nove Caudas de Estimação<INFO>10125</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10125] = {
@@ -1881,7 +2038,7 @@ tbl = {
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9096]Gato de Nove Caudas de Estimação\n\t\t\t» Método de Obtenção\n\t\t\t<TIPBOX>▷Nove Caudas de Estimação<INFO>10124</INFO></TIPBOX> Evolução\n\t\t\t▷Materiais de Evolução:\n\t\t\t^i[1022]x999, ^i[23187]x3,\n\t\t\t^i[10008]x1, ^i[4159]x1\n\n\t\t\t» Alimento\n\t\t\t^i[537]\n\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\n\t\t\t» Informações de Evolução\n\t\t\t<TIPBOX>▷Luar de Estimação<INFO>10180</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			"^i[9096]Gato de Nove Caudas de Estimação\n\t\t\t» Método de Obtenção\n\t\t\t<TIPBOX>§Nove Caudas de Estimação<INFO>10124</INFO></TIPBOX> Evolução\n\t\t\t§Materiais de Evolução:\n\t\t\t^i[1022]x999, ^i[23187]x3,\n\t\t\t^i[10008]x1, ^i[4159]x1\n\n\t\t\t» Alimento\n\t\t\t^i[537]\n\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\n\t\t\t» Informações de Evolução\n\t\t\t<TIPBOX>§Flor do Luar de Estimação<INFO>10180</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10126] = {
@@ -1908,7 +2065,7 @@ tbl = {
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9011]Rocker de Estimação\n\t\t\t» Método de Obtenção:Domesticação\n\t\t\tItem de Domesticação:^i[629]\n\n\t\t\t» Alimento\n\t\t\t^i[537]\n\n\t\t\t» Acessório\n\t\t\t^i[10014]\n\n\t\t\t» Informações de Evolução\n\t\t\t<TIPBOX>▷Metaller de Estimação<INFO>10129</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			"^i[9011]Rocker de Estimação\n\t\t\t» Método de Obtenção:Domesticação\n\t\t\tItem de Domesticação:^i[629]\n\n\t\t\t» Alimento\n\t\t\t^i[537]\n\n\t\t\t» Acessório\n\t\t\t^i[10014]\n\n\t\t\t» Informações de Evolução\n\t\t\t<TIPBOX>§Metaller de Estimação<INFO>10129</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10129] = {
@@ -1917,7 +2074,7 @@ tbl = {
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9106]Metaller de Estimação\n\t\t\t» Método de Obtenção\n\t\t\t<TIPBOX>▷Rocker de Estimação<INFO>10128</INFO></TIPBOX> Evolução\n\t\t\t▷Materiais de Evolução:\n\t\t\t^i[940]x777, ^i[508]x200,\n\t\t\t^i[707]x3, ^i[4057]x1\n\n\t\t\t» Alimento\n\t\t\t^i[537]\n\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\n\t\t\t» Informações de Evolução\n\t\t\t[Nenhum]\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			"^i[9106]Metaller de Estimação\n\t\t\t» Método de Obtenção\n\t\t\t<TIPBOX>§Rocker de Estimação<INFO>10128</INFO></TIPBOX> Evolução\n\t\t\t§Materiais de Evolução:\n\t\t\t^i[940]x777, ^i[508]x200,\n\t\t\t^i[707]x3, ^i[4057]x1\n\n\t\t\t» Alimento\n\t\t\t^i[537]\n\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\n\t\t\t» Informações de Evolução\n\t\t\t[Nenhum]\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10130] = {
@@ -1926,7 +2083,7 @@ tbl = {
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9102]Múmia de Estimação\n\t\t\t» Método de Obtenção:Domesticação\n\t\t\tItem de Domesticação:^i[23256]\n\n\t\t\t» Alimento\n\t\t\t^i[934]\n\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\n\t\t\t» Informações de Evolução\n\t\t\t<TIPBOX>▷Múmia Anciã de Estimação<INFO>10131</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			"^i[9102]Múmia de Estimação\n\t\t\t» Método de Obtenção:Domesticação\n\t\t\tItem de Domesticação:^i[23256]\n\n\t\t\t» Alimento\n\t\t\t^i[934]\n\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\n\t\t\t» Informações de Evolução\n\t\t\t<TIPBOX>§Múmia Anciã de Estimação<INFO>10131</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10131] = {
@@ -1935,7 +2092,7 @@ tbl = {
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9107]Múmia Anciã de Estimação\n\t\t\t» Método de Obtenção\n\t\t\t<TIPBOX>▷Múmia de Estimação<INFO>10130</INFO></TIPBOX> Evolução\n\t\t\t▷Materiais de Evolução:\n\t\t\t^i[7511]x200, ^i[969]x30,\n\t\t\t^i[23256]x3, ^i[4248]x1\n\t\t\t\n\t\t\t» Alimento\n\t\t\t^i[537]\n\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\n\t\t\t» Informações de Evolução\n\t\t\t[Nenhum]\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			"^i[9107]Múmia Anciã de Estimação\n\t\t\t» Método de Obtenção\n\t\t\t<TIPBOX>§Múmia de Estimação<INFO>10130</INFO></TIPBOX> Evolução\n\t\t\t§Materiais de Evolução:\n\t\t\t^i[7511]x200, ^i[969]x30,\n\t\t\t^i[23256]x3, ^i[4248]x1\n\t\t\t\n\t\t\t» Alimento\n\t\t\t^i[537]\n\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\n\t\t\t» Informações de Evolução\n\t\t\t[Nenhum]\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10132] = {
@@ -1944,7 +2101,7 @@ tbl = {
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9004]Lunático de Estimação\n\t\t\t» Método de Obtenção:Domesticação\n\t\t\tItem de Domesticação:^i[622]\n\t\t\t\n\t\t\t» Alimento\n\t\t\t^i[534]\n\n\t\t\t» Acessório\n\t\t\t^i[10007]\n\n\t\t\t» Informações de Evolução\n\t\t\t<TIPBOX>▷Lunático Folhado de Estimação<INFO>10133</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			"^i[9004]Lunático de Estimação\n\t\t\t» Método de Obtenção:Domesticação\n\t\t\tItem de Domesticação:^i[622]\n\t\t\t\n\t\t\t» Alimento\n\t\t\t^i[534]\n\n\t\t\t» Acessório\n\t\t\t^i[10007]\n\n\t\t\t» Informações de Evolução\n\t\t\t<TIPBOX>§Lunático Folhado de Estimação<INFO>10133</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10133] = {
@@ -1953,7 +2110,7 @@ tbl = {
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9094]Lunático Folhado de Estimação\n\t\t\t» Método de Obtenção\n\t\t\t<TIPBOX>▷Lunático de Estimação<INFO>10132</INFO></TIPBOX> Evolução\n\t\t\t▷Materiais de Evolução:\n\t\t\t^i[705]x250, ^i[706]x30,\n\t\t\t^i[7198]x100, ^i[4663]x1\n\n\t\t\t» Alimento\n\t\t\t^i[537]\n\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\n\t\t\t» Informações de Evolução\n\t\t\t[Nenhum]\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			"^i[9094]Lunático Folhado de Estimação\n\t\t\t» Método de Obtenção\n\t\t\t<TIPBOX>§Lunático de Estimação<INFO>10132</INFO></TIPBOX> Evolução\n\t\t\t§Materiais de Evolução:\n\t\t\t^i[705]x250, ^i[706]x30,\n\t\t\t^i[7198]x100, ^i[4663]x1\n\n\t\t\t» Alimento\n\t\t\t^i[537]\n\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\n\t\t\t» Informações de Evolução\n\t\t\t[Nenhum]\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10134] = {
@@ -1993,12 +2150,12 @@ tbl = {
 		}
 	},
 	[10138] = {
-		Title = "Filhote Selvagem de Estimação#Ração para Bichinho#Leite Doce",
+		Title = "Bebê Selvagem de Estimação#Ração para Bichinho#Leite Doce",
 		Search = 1,
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9009]Filhote Selvagem de Estimação\n\t\t\t» Método de Obtenção:Domesticação\n\t\t\tItem de Domesticação:^i[627]\n\n\t\t\t» Alimento\n\t\t\t^i[537]\n\t\t\t\n\t\t\t» Acessório\n\t\t\t^i[10015]\n\t\t\t\n\t\t\t» Informações de Evolução\n\t\t\t<TIPBOX>▷Selvagem de Estimação<INFO>10139</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			"^i[9009]Bebê Selvagem de Estimação\n\t\t\t» Método de Obtenção:Domesticação\n\t\t\tItem de Domesticação:^i[627]\n\n\t\t\t» Alimento\n\t\t\t^i[537]\n\t\t\t\n\t\t\t» Acessório\n\t\t\t^i[10015]\n\t\t\t\n\t\t\t» Informações de Evolução\n\t\t\t<TIPBOX>§Selvagem de Estimação<INFO>10139</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10139] = {
@@ -2007,16 +2164,16 @@ tbl = {
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9070]Selvagem de Estimação\n\t\t\t» Método de Obtenção\n\t\t\t<TIPBOX>▷Filhote Selvagem de Estimação<INFO>10138</INFO></TIPBOX> Evolução\n\t\t\t▷Materiais de Evolução:\n\t\t\t^i[627]x3, ^i[537]x10,\n\t\t\t^i[517]x100, ^i[949]x50\n\n\t\t\t» Alimento\n\t\t\t^i[537]\n\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\n\t\t\t» Informações de Evolução\n\t\t\t[Nenhum]\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			"^i[9070]Selvagem de Estimação\n\t\t\t» Método de Obtenção\n\t\t\t<TIPBOX>§Bebê Selvagem de Estimação<INFO>10138</INFO></TIPBOX> Evolução\n\t\t\t§Materiais de Evolução:\n\t\t\t^i[627]x3, ^i[537]x10,\n\t\t\t^i[517]x100, ^i[949]x50\n\n\t\t\t» Alimento\n\t\t\t^i[537]\n\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\n\t\t\t» Informações de Evolução\n\t\t\t[Nenhum]\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10140] = {
-		Title = "Smokie de Estimação#Ração para Bichinho#Batata Assada",
+		Title = "Fumacento de Estimação#Ração para Bichinho#Batata Assada",
 		Search = 1,
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9015]Smokie de Estimação\n\t\t\t» Método de Obtenção:Domesticação\n\t\t\tItem de Domesticação:^i[633]\n\n\t\t\t» Alimento\n\t\t\t^i[537]\n\n\t\t\t» Acessório\n\t\t\t^i[10019]\n\n\t\t\t» Informações de Evolução\n\t\t\t[Nenhum]\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			"^i[9015]Fumacento de Estimação\n\t\t\t» Método de Obtenção:Domesticação\n\t\t\tItem de Domesticação:^i[633]\n\n\t\t\t» Alimento\n\t\t\t^i[537]\n\n\t\t\t» Acessório\n\t\t\t^i[10019]\n\n\t\t\t» Informações de Evolução\n\t\t\t[Nenhum]\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10141] = {
@@ -2025,7 +2182,7 @@ tbl = {
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9016]Yoyo de Estimação\n\t\t\t» Método de Obtenção:Domesticação\n\t\t\tItem de Domesticação:^i[634]\n\t\t\t\n\t\t\t» Alimento\n\t\t\t^i[532]\n\n\t\t\t» Acessório\n\t\t\t^i[10018]\n\n\t\t\t» Informações de Evolução\n\t\t\t<TIPBOX>▷Choco de Estimação<INFO>10142</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			"^i[9016]Yoyo de Estimação\n\t\t\t» Método de Obtenção:Domesticação\n\t\t\tItem de Domesticação:^i[634]\n\t\t\t\n\t\t\t» Alimento\n\t\t\t^i[532]\n\n\t\t\t» Acessório\n\t\t\t^i[10018]\n\n\t\t\t» Informações de Evolução\n\t\t\t<TIPBOX>§Choco de Estimação<INFO>10142</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10142] = {
@@ -2034,7 +2191,7 @@ tbl = {
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9091]Choco de Estimação\n\t\t\t» Método de Obtenção\n\t\t\t<TIPBOX>▷Yoyo de Estimação<INFO>10141</INFO></TIPBOX> Evolução\n\t\t\t▷Materiais de Evolução:\n\t\t\t^i[634]x3, ^i[753]x2,\n\t\t\t^i[7182]x300, ^i[4051]x1\n\n\t\t\t» Alimento\n\t\t\t^i[537]\n\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\n\t\t\t» Informações de Evolução\n\t\t\t[Nenhum]\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			"^i[9091]Choco de Estimação\n\t\t\t» Método de Obtenção\n\t\t\t<TIPBOX>§Yoyo de Estimação<INFO>10141</INFO></TIPBOX> Evolução\n\t\t\t§Materiais de Evolução:\n\t\t\t^i[634]x3, ^i[753]x2,\n\t\t\t^i[7182]x300, ^i[4051]x1\n\n\t\t\t» Alimento\n\t\t\t^i[537]\n\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\n\t\t\t» Informações de Evolução\n\t\t\t[Nenhum]\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10143] = {
@@ -2043,7 +2200,7 @@ tbl = {
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9019]Dokebi de Estimação\n\t\t\t» Método de Obtenção:Domesticação\n\t\t\tItem de Domesticação:^i[637]\n\n\t\t\t» Alimento\n\t\t\t^i[537]\n\n\t\t\t» Acessório\n\t\t\t^i[10005]\n\n\t\t\t» Informações de Evolução\n\t\t\t<TIPBOX>▷Am Mut de Estimação<INFO>10144</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			"^i[9019]Dokebi de Estimação\n\t\t\t» Método de Obtenção:Domesticação\n\t\t\tItem de Domesticação:^i[637]\n\n\t\t\t» Alimento\n\t\t\t^i[537]\n\n\t\t\t» Acessório\n\t\t\t^i[10005]\n\n\t\t\t» Informações de Evolução\n\t\t\t<TIPBOX>§Am Mut de Estimação<INFO>10144</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10144] = {
@@ -2052,7 +2209,7 @@ tbl = {
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9089]Am Mut de Estimação\n\t\t\t» Método de Obtenção\n\t\t\t<TIPBOX>▷Dokebi de Estimação<INFO>10143</INFO></TIPBOX> Evolução\n\t\t\t▷Materiais de Evolução:\n\t\t\t^i[637]x3, ^i[981]x3,\n\t\t\t^i[1021]x300, ^i[969]x3\n\n\t\t\t» Alimento\n\t\t\t^i[537]\n\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\n\t\t\t» Informações de Evolução\n\t\t\t[Nenhum]\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			"^i[9089]Am Mut de Estimação\n\t\t\t» Método de Obtenção\n\t\t\t<TIPBOX>§Dokebi de Estimação<INFO>10143</INFO></TIPBOX> Evolução\n\t\t\t§Materiais de Evolução:\n\t\t\t^i[637]x3, ^i[981]x3,\n\t\t\t^i[1021]x300, ^i[969]x3\n\n\t\t\t» Alimento\n\t\t\t^i[537]\n\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\n\t\t\t» Informações de Evolução\n\t\t\t[Nenhum]\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10145] = {
@@ -2061,7 +2218,7 @@ tbl = {
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9023]Deviruchi de Estimação\n\t\t\t» Método de Obtenção:Domesticação\n\t\t\tItem de Domesticação:^i[641]\n\n\t\t\t» Alimento\n\t\t\t^i[711]\n\n\t\t\t» Acessório\n\t\t\t^i[10004]\n\n\t\t\t» Informações de Evolução\n\t\t\t<TIPBOX>▷Diabolik de Estimação<INFO>10146</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			"^i[9023]Deviruchi de Estimação\n\t\t\t» Método de Obtenção:Domesticação\n\t\t\tItem de Domesticação:^i[641]\n\n\t\t\t» Alimento\n\t\t\t^i[711]\n\n\t\t\t» Acessório\n\t\t\t^i[10004]\n\n\t\t\t» Informações de Evolução\n\t\t\t<TIPBOX>§Diabolik de Estimação<INFO>10146</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10146] = {
@@ -2070,7 +2227,7 @@ tbl = {
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9097]Diabolik de Estimação\n\t\t\t» Método de Obtenção\n\t\t\t<TIPBOX>▷Deviruchi de Estimação<INFO>10145</INFO></TIPBOX> Evolução\n\t\t\t▷Materiais de Evolução:\n\t\t\t^i[641]x3, ^i[1039]x250,\n\t\t\t^i[1009]x30, ^i[4122]x1\n\t\t\t\n\t\t\t» Alimento\n\t\t\t^i[7823]\n\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\n\t\t\t» Informações de Evolução\n\t\t\t[Nenhum]\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			"^i[9097]Diabolik de Estimação\n\t\t\t» Método de Obtenção\n\t\t\t<TIPBOX>§Deviruchi de Estimação<INFO>10145</INFO></TIPBOX> Evolução\n\t\t\t§Materiais de Evolução:\n\t\t\t^i[641]x3, ^i[1039]x250,\n\t\t\t^i[1009]x30, ^i[4122]x1\n\t\t\t\n\t\t\t» Alimento\n\t\t\t^i[537]\n\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\n\t\t\t» Informações de Evolução\n\t\t\t[Nenhum]\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10147] = {
@@ -2079,7 +2236,7 @@ tbl = {
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9027]Alice de Estimação\n\t\t\t» Método de Obtenção:Domesticação\n\t\t\tItem de Domesticação:^i[661]\n\n\t\t\t» Alimento\n\t\t\t^i[504]\n\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\n\t\t\t» Informações de Evolução\n\t\t\t<TIPBOX>▷Aliza de Estimação<INFO>10148</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			"^i[9027]Alice de Estimação\n\t\t\t» Método de Obtenção:Domesticação\n\t\t\tItem de Domesticação:^i[661]\n\n\t\t\t» Alimento\n\t\t\t^i[504]\n\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\n\t\t\t» Informações de Evolução\n\t\t\t<TIPBOX>§Aliza de Estimação<INFO>10148</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10148] = {
@@ -2088,7 +2245,7 @@ tbl = {
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9120]Aliza de Estimação\n\t\t\t» Método de Obtenção\n\t\t\t<TIPBOX>▷Alice de Estimação<INFO>10147</INFO></TIPBOX> Evolução\n\t\t\t▷Materiais de Evolução:\n\t\t\t^i[7047]x500, ^i[511]x200,\n\t\t\t^i[985]x30, ^i[4253]x1\n\n\t\t\t» Alimento\n\t\t\t^i[537]\n\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\n\t\t\t» Informações de Evolução\n\t\t\t[Nenhum]\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			"^i[9120]Aliza de Estimação\n\t\t\t» Método de Obtenção\n\t\t\t<TIPBOX>§Alice de Estimação<INFO>10147</INFO></TIPBOX> Evolução\n\t\t\t§Materiais de Evolução:\n\t\t\t^i[7047]x500, ^i[511]x200,\n\t\t\t^i[985]x30, ^i[4253]x1\n\n\t\t\t» Alimento\n\t\t\t^i[537]\n\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\n\t\t\t» Informações de Evolução\n\t\t\t[Nenhum]\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10149] = {
@@ -2106,7 +2263,7 @@ tbl = {
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9041]Gato de Folha de Estimação\n\t\t\t» Método de Obtenção:Domesticação\n\t\t\tItem de Domesticação:^i[12359]\n\n\t\t\t» Alimento\n\t\t\t^i[6096]\n\n\t\t\t» Acessório\n\t\t\t^i[10023]\n\n\t\t\t» Informações de Evolução\n\t\t\t<TIPBOX>▷Rosa Selvagem de Estimação<INFO>10191</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			"^i[9041]Gato de Folha de Estimação\n\t\t\t» Método de Obtenção:Domesticação\n\t\t\tItem de Domesticação:^i[12359]\n\n\t\t\t» Alimento\n\t\t\t^i[6096]\n\n\t\t\t» Acessório\n\t\t\t^i[10023]\n\n\t\t\t» Informações de Evolução\n\t\t\t<TIPBOX>§Rosa Selvagem de Estimação<INFO>10191</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10151] = {
@@ -2115,7 +2272,7 @@ tbl = {
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9042]Loli Ruri de Estimação\n\t\t\t» Método de Obtenção:Domesticação\n\t\t\tItem de Domesticação:^i[12360]\n\n\t\t\t» Alimento\n\t\t\t^i[6097]\n\n\t\t\t» Acessório\n\t\t\t^i[10024]\n\n\t\t\t» Informações de Evolução\n\t\t\t<TIPBOX>▷Loli Ruri da Lua Azul de Estimação<INFO>10190</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			"^i[9042]Loli Ruri de Estimação\n\t\t\t» Método de Obtenção:Domesticação\n\t\t\tItem de Domesticação:^i[12360]\n\n\t\t\t» Alimento\n\t\t\t^i[6097]\n\n\t\t\t» Acessório\n\t\t\t^i[10024]\n\n\t\t\t» Informações de Evolução\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10152] = {
@@ -2182,12 +2339,12 @@ tbl = {
 		}
 	},
 	[10160] = {
-		Title = "Gremlin Invasor de Estimação#Óleo de Motor#Pedaço de Aeroplano",
+		Title = "Gremlin de Estimação#Óleo de Motor#Pedaço de Aeroplano",
 		Search = 1,
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9100]Gremlin Invasor de Estimação\n\t\t\t» Método de Obtenção:Domesticação\n\t\t\tItem de Domesticação:^i[23188]\n\n\t\t\t» Alimento\n\t\t\t^i[25232]\n\t\t\t\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\n\t\t\t» Informações de Evolução\n\t\t\t<TIPBOX>▷Hodremlin de Estimação<INFO>10161</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			"^i[9100]Gremlin de Estimação\n\t\t\t» Método de Obtenção:Domesticação\n\t\t\tItem de Domesticação:^i[23188]\n\n\t\t\t» Alimento\n\t\t\t^i[25232]\n\t\t\t\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\n\t\t\t» Informações de Evolução\n\t\t\t<TIPBOX>§Hodremlin de Estimação<INFO>10161</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10161] = {
@@ -2196,7 +2353,7 @@ tbl = {
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9105]Hodremlin de Estimação\n\t\t\t» Método de Obtenção\n\t\t\t<TIPBOX>▷Gremlin Invasor de Estimação<INFO>10160</INFO></TIPBOX> Evolução\n\t\t\t▷Materiais de Evolução:\n\t\t\t^i[7340]x200, ^i[6100]x50,\n\t\t\t^i[23188]x3, ^i[4413]x1\n\n\t\t\t» Alimento\n\t\t\t^i[537]\n\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\n\t\t\t» Informações de Evolução\n\t\t\t<TIPBOX>▷Gloom Sob a Noite de Estimação<INFO>10183</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			"^i[9105]Hodremlin de Estimação\n\t\t\t» Método de Obtenção\n\t\t\t<TIPBOX>§Gremlin de Estimação<INFO>10160</INFO></TIPBOX> Evolução\n\t\t\t§Materiais de Evolução:\n\t\t\t^i[7340]x200, ^i[6100]x50,\n\t\t\t^i[23188]x3, ^i[4413]x1\n\n\t\t\t» Alimento\n\t\t\t^i[537]\n\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\n\t\t\t» Informações de Evolução\n\t\t\t<TIPBOX>§Pesar Noturno de Estimação<INFO>10183</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10162] = {
@@ -2205,16 +2362,16 @@ tbl = {
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9128]Sacerdote Maldito de Estimação”\n\t\t\t» Método de Obtenção:Domesticação\n\t\t\tItem de Domesticação:^i[100796]\n\n\t\t\t» Alimento\n\t\t\t^i[1000552]\n\t\t\t\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\n\t\t\t» Informações de Evolução\n\t\t\t<TIPBOX>▷Ilusão das Trevas de Estimação<INFO>10189</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			"^i[9128]Sacerdote Maldito de Estimação”\n\t\t\t» Método de Obtenção:Domesticação\n\t\t\tItem de Domesticação:^i[100796]\n\n\t\t\t» Alimento\n\t\t\t^i[1000552]\n\t\t\t\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\n\t\t\t» Informações de Evolução\n\t\t\t<TIPBOX>§Ilusão das Trevas de Estimação<INFO>10189</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10163] = {
-		Title = "Salgueiro Espacial de Estimação#Lasca de Madeira de Grão Fino#Tronco Úmido",
+		Title = "Salgueiro de Estimação#Lasca de Madeira de Grão Fino#Tronco Úmido",
 		Search = 1,
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9103]Salgueiro Espacial de Estimação\n\t\t\t» Método de Obtenção:Domesticação\n\t\t\tItem de Domesticação:^i[23257]\n\n\t\t\t» Alimento\n\t\t\t^i[1066]\n\t\t\t\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\n\t\t\t» Informações de Evolução\n\t\t\t[Nenhum]\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			"^i[9103]Salgueiro de Estimação\n\t\t\t» Método de Obtenção:Domesticação\n\t\t\tItem de Domesticação:^i[23257]\n\n\t\t\t» Alimento\n\t\t\t^i[1066]\n\t\t\t\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\n\t\t\t» Informações de Evolução\n\t\t\t[Nenhum]\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10164] = {
@@ -2241,7 +2398,7 @@ tbl = {
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9123]Mini Beta de Estimação\n\t\t\t» Método de Obtenção:Troca\n\t\t\tItem de Troca:^i[1000103]x30\n\t\t\t<NAVI>[Garotinho Administradorβ]<INFO>ba_in01,87,386,0,101,0</INFO></NAVI>\n\n\t\t\t» Alimento\n\t\t\t^i[1000227]\n\n\t\t\t» Acessório\n\t\t\t^i[10043]\n\n\t\t\t» Informações de Evolução\n\t\t\t<TIPBOX>▷Mini Alpha de Estimação<INFO>10167</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			"^i[9123]Mini Beta de Estimação\n\t\t\t» Método de Obtenção:Troca\n\t\t\tItem de Troca:^i[1000103]x30\n\t\t\t<NAVI>[Garotinho Administradorβ]<INFO>ba_in01,87,386,0,101,0</INFO></NAVI>\n\n\t\t\t» Alimento\n\t\t\t^i[1000227]\n\n\t\t\t» Acessório\n\t\t\t^i[10043]\n\n\t\t\t» Informações de Evolução\n\t\t\t<TIPBOX>§Mini Alpha de Estimação<INFO>10167</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10167] = {
@@ -2250,7 +2407,7 @@ tbl = {
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9124]Mini Alpha de Estimação\n\t\t\t» Método de Obtenção\n\t\t\t<TIPBOX>▷Mini Beta de Estimação<INFO>10166</INFO></TIPBOX> Evolução\n\t\t\t▷Materiais de Evolução:\n\t\t\t^i[1000103]x500, ^i[7095]x50,\n\t\t\t^i[7094]x10\n\n\t\t\t» Alimento\n\t\t\t^i[537]\n\n\t\t\t» Acessório\n\t\t\t^i[10044]\n\n\t\t\t» Informações de Evolução\n\t\t\t[Nenhum]\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			"^i[9124]Mini Alpha de Estimação\n\t\t\t» Método de Obtenção\n\t\t\t<TIPBOX>§Mini Beta de Estimação<INFO>10166</INFO></TIPBOX> Evolução\n\t\t\t§Materiais de Evolução:\n\t\t\t^i[1000103]x500, ^i[7095]x50,\n\t\t\t^i[7094]x10\n\n\t\t\t» Alimento\n\t\t\t^i[537]\n\n\t\t\t» Acessório\n\t\t\t^i[10044]\n\n\t\t\t» Informações de Evolução\n\t\t\t[Nenhum]\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10168] = {
@@ -2259,16 +2416,7 @@ tbl = {
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9109]Quinding de Estimação\n\t\t\t» Método de Obtenção\n\t\t\t<TIPBOX>▷Drops de Estimação<INFO>10094</INFO></TIPBOX> Evolução\n\t\t\t▷Materiais de Evolução:\n\t\t\t^i[529]x50, ^i[530]x50,\n\t\t\t^i[25290]x500, ^i[4004]x1\n\t\t\t\n\t\t\t» Alimento\n\t\t\t^i[529]\n\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\n\t\t\t» Informações de Evolução\n\t\t\t[Nenhum]\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
-		}
-	},
-	[10169] = {
-		Title = "Goblin Natalino de Estimação#Célula#Bengala Ultra-Doce",
-		Search = 1,
-		Image = "유저인터페이스\\tipbox\\tip10090",
-		Imgcoord = {Position = 5, Size = 100},
-		Page = {
-			"^i[9029]Goblin Natalino de Estimação\n\t\t\t» Método de Obtenção:Domesticação\n\t\t\tItem de Domesticação:^i[12225]\n\n\t\t\t» Alimento\n\t\t\t^i[911]\n\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\n\t\t\t» Informações de Evolução\n\t\t\t[Nenhum]\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			"^i[9109]Quinding de Estimação\n\t\t\t» Método de Obtenção\n\t\t\t<TIPBOX>§Drops de Estimação<INFO>10094</INFO></TIPBOX> Evolução\n\t\t\t§Materiais de Evolução:\n\t\t\t^i[529]x50, ^i[530]x50,\n\t\t\t^i[25290]x500, ^i[4004]x1\n\t\t\t\n\t\t\t» Alimento\n\t\t\t^i[529]\n\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\n\t\t\t» Informações de Evolução\n\t\t\t[Nenhum]\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10170] = {
@@ -2289,31 +2437,13 @@ tbl = {
 			"^i[9040]Mao Guai de Estimação\n\t\t\t» Método de Obtenção:Domesticação\n\t\t\tItem de Domesticação:^i[12358]\n\n\t\t\t» Alimento\n\t\t\t^i[6095]\n\n\t\t\t» Acessório\n\t\t\t^i[10022]\n\n\t\t\t» Informações de Evolução\n\t\t\t[Nenhum]\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
 		}
 	},
-	[10172] = {
-		Title = "Lebre da Neve de Estimação#Bala",
-		Search = 1,
-		Image = "유저인터페이스\\tipbox\\tip10090",
-		Imgcoord = {Position = 5, Size = 100},
-		Page = {
-			"^i[9058]Lebre da Neve de Estimação\n\t\t\t» Método de Obtenção\n\t\t\tObtido durante o evento ^i[9058]\n\n\t\t\t» Alimento\n\t\t\t^i[529]\n\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\n\t\t\t» Informações de Evolução\n\t\t\t[Nenhum]\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
-		}
-	},
 	[10173] = {
 		Title = "Unicórnio de Estimação#Ração para Bichinho",
 		Search = 1,
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9068]Unicórnio de Estimação\n\t\t\t» Método de Obtenção\n\t\t\tObtido durante o evento ^i[9068]\n\n\t\t\t» Alimento\n\t\t\t^i[537]\n\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\n\t\t\t» Informações de Evolução\n\t\t\t[Nenhum]\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
-		}
-	},
-	[10174] = {
-		Title = "Ovo de Mascote Buzzy Brother de Estimação#Erva Verde#Farinha de Arroz Misteriosa",
-		Search = 1,
-		Image = "유저인터페이스\\tipbox\\tip10090",
-		Imgcoord = {Position = 5, Size = 100},
-		Page = {
-			"^i[9028]Ovo de Mascote Buzzy Brother de Estimação\n\t\t\t» Método de Obtenção:Domesticação\n\t\t\tItem de Domesticação:^i[12340]\n\n\t\t\t» Alimento\n\t\t\t^i[511]\n\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\n\t\t\t» Informações de Evolução\n\t\t\t[Nenhum]\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			"^i[9068]Unicórnio de Estimação\n\t\t\t» Método de Obtenção\n\t\t\tObtido durante o evento ^i[9068]\n\n\t\t\t» Alimento\n\t\t\t^i[510]\n\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\n\t\t\t» Informações de Evolução\n\t\t\t[Nenhum]\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10175] = {
@@ -2322,7 +2452,7 @@ tbl = {
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9101]Zumbichano de Estimação\n\t\t\t» Método de Obtenção\n\t\t\tObtido por missão durante o evento de Halloween\n\t\t\t<NAVI>[Jack]<INFO>niflheim,172,244,0,101,0</INFO></NAVI>\n\n\t\t\t» Alimento\n\t\t\t^i[579]\n\n\t\t\t» Acessório\n\t\t\t^i[10040]\n\t\t\t\n\t\t\t» Informações de Evolução\n\t\t\t<TIPBOX>▷Esqueleão de Estimação<INFO>10176</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			"^i[9101]Zumbichano de Estimação\n\t\t\t» Método de Obtenção\n\t\t\tObtido por missão durante o evento de Halloween\n\t\t\t<NAVI>[Jack]<INFO>niflheim,172,244,0,101,0</INFO></NAVI>\n\n\t\t\t» Alimento\n\t\t\t^i[579]\n\n\t\t\t» Acessório\n\t\t\t^i[10040]\n\t\t\t\n\t\t\t» Informações de Evolução\n\t\t\t<TIPBOX>§Esqueleão de Estimação<INFO>10176</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10176] = {
@@ -2331,7 +2461,7 @@ tbl = {
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9113]Esqueleão de Estimação\n\t\t\t» Método de Obtenção\n\t\t\t<TIPBOX>▷Zumbichano de Estimação<INFO>10175</INFO></TIPBOX> Evolução\n\t\t\t▷Materiais de Evolução:\n\t\t\t^i[25408]x2, ^i[11616]x100,\n\t\t\t^i[11605]x100\n\n\t\t\t» Alimento\n\t\t\t^i[11616]\n\n\t\t\t» Acessório\n\t\t\t^i[10042]\n\n\t\t\t» Informações de Evolução\n\t\t\t[Nenhum]\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			"^i[9113]Esqueleão de Estimação\n\t\t\t» Método de Obtenção\n\t\t\t<TIPBOX>§Zumbichano de Estimação<INFO>10175</INFO></TIPBOX> Evolução\n\t\t\t§Materiais de Evolução:\n\t\t\t^i[25408]x2, ^i[11616]x100,\n\t\t\t^i[11605]x100\n\n\t\t\t» Alimento\n\t\t\t^i[11616]\n\n\t\t\t» Acessório\n\t\t\t^i[10042]\n\n\t\t\t» Informações de Evolução\n\t\t\t[Nenhum]\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10177] = {
@@ -2349,52 +2479,52 @@ tbl = {
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9053]Golem de Estimação\n\t\t\t» Método de Obtenção:Domesticação\n\t\t\tItem de Domesticação:^i[12371]\n\n\t\t\t» Alimento\n\t\t\t^i[6111]\n\n\t\t\t» Acessório\n\t\t\t^i[10035]\n\n\t\t\t» Informações de Evolução\n\t\t\t<TIPBOX>▷Golem de Fogo de Estimação<INFO>10101</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			"^i[9053]Golem de Estimação\n\t\t\t» Método de Obtenção:Domesticação\n\t\t\tItem de Domesticação:^i[12371]\n\n\t\t\t» Alimento\n\t\t\t^i[6111]\n\n\t\t\t» Acessório\n\t\t\t^i[10035]\n\n\t\t\t» Informações de Evolução\n\t\t\t<TIPBOX>§Golem de Fogo de Estimação<INFO>10101</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10179] = {
-		Title = "Bacsojin de Estimação#Ração Luxuosa",
+		Title = "Lady Branca de Estimação#Ração Luxuosa",
 		Search = 1,
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9115]Bacsojin de Estimação\n\t\t\t» Método de Obtenção\n\t\t\t<TIPBOX>▷Ninfa Perversa de Estimação<INFO>10123</INFO></TIPBOX> Evolução\n\t\t\t▷Materiais de Evolução:\n\t\t\t^i[4202]x10, ^i[4265]x10,\n\t\t\t^i[4272]x10, ^i[25375]x30\n\n\t\t\t» Alimento\n\t\t\t^i[25377]\n\t\t\t\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\n\t\t\t» Informações de Evolução\n\t\t\t[Nenhum]\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			"^i[9115]Lady Branca de Estimação\n\t\t\t» Método de Obtenção\n\t\t\t<TIPBOX>§Ninfa Perversa de Estimação<INFO>10123</INFO></TIPBOX> Evolução\n\t\t\t§Materiais de Evolução:\n\t\t\t^i[4202]x10, ^i[4265]x10,\n\t\t\t^i[4272]x10, ^i[25375]x30\n\n\t\t\t» Alimento\n\t\t\t^i[25377]\n\t\t\t\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\n\t\t\t» Informações de Evolução\n\t\t\t[Nenhum]\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10180] = {
-		Title = "Luar de Estimação#Ração Luxuosa",
+		Title = "Flor do Luar de Estimação#Ração Luxuosa",
 		Search = 1,
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9112]Luar de Estimação\n\t\t\t» Método de Obtenção\n\t\t\t<TIPBOX>▷Gato de Nove Caudas de Estimação<INFO>10125</INFO></TIPBOX> Evolução\n\t\t\t▷Materiais de Evolução:\n\t\t\t^i[4159]x10, ^i[4090]x10,\n\t\t\t^i[4100]x10, ^i[25375]x30\n\t\t\t\n\t\t\t» Alimento\n\t\t\t^i[25377]\n\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\n\t\t\t» Informações de Evolução\n\t\t\t[Nenhum]\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			"^i[9112]Flor do Luar de Estimação\n\t\t\t» Método de Obtenção\n\t\t\t<TIPBOX>§Gato de Nove Caudas de Estimação<INFO>10125</INFO></TIPBOX> Evolução\n\t\t\t§Materiais de Evolução:\n\t\t\t^i[4159]x10, ^i[4090]x10,\n\t\t\t^i[4100]x10, ^i[25375]x30\n\t\t\t\n\t\t\t» Alimento\n\t\t\t^i[25377]\n\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\n\t\t\t» Informações de Evolução\n\t\t\t[Nenhum]\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10181] = {
-		Title = "Phreeoni de Estimação#Ração Luxuosa",
+		Title = "Freeoni de Estimação#Ração Luxuosa",
 		Search = 1,
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9111]Phreeoni de Estimação\n\t\t\t» Método de Obtenção:Troca\n\t\t\tItem de Troca:^i[25375]x30\n\t\t\t<NAVI>[Servo do Transcendente Goldhand]<INFO>prontera,163,304,0,101,0</INFO></NAVI>\n\n\t\t\t» Alimento\n\t\t\t^i[25377]\n\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\n\t\t\t» Informações de Evolução\n\t\t\t[Nenhum]\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			"^i[9111]Freeoni de Estimação\n\t\t\t» Método de Obtenção:Troca\n\t\t\tItem de Troca:^i[25375]x30\n\t\t\t<NAVI>[Manouro]<INFO>prontera,163,304,0,101,0</INFO></NAVI>\n\n\t\t\t» Alimento\n\t\t\t^i[25377]\n\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\n\t\t\t» Informações de Evolução\n\t\t\t[Nenhum]\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10182] = {
-		Title = "Herói Orc de Estimação#Ração Luxuosa",
+		Title = "Orc Herói de Estimação#Ração Luxuosa",
 		Search = 1,
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9121]Herói Orc de Estimação\n\t\t\t» Método de Obtenção\n\t\t\t<TIPBOX>▷Grand Orc de Estimação<INFO>10100</INFO></TIPBOX> Evolução\n\t\t\t▷Materiais de Evolução:\n\t\t\t^i[4066]x10, ^i[4375]x10,\n\t\t\t^i[968]x10, ^i[25375]x30\n\n\t\t\t» Alimento\n\t\t\t^i[25377]\n\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\n\t\t\t» Informações de Evolução\n\t\t\t[Nenhum]\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			"^i[9121]Orc Herói de Estimação\n\t\t\t» Método de Obtenção\n\t\t\t<TIPBOX>§Grand Orc de Estimação<INFO>10100</INFO></TIPBOX> Evolução\n\t\t\t§Materiais de Evolução:\n\t\t\t^i[4066]x10, ^i[4375]x10,\n\t\t\t^i[968]x10, ^i[25375]x30\n\n\t\t\t» Alimento\n\t\t\t^i[25377]\n\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\n\t\t\t» Informações de Evolução\n\t\t\t[Nenhum]\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10183] = {
-		Title = "Gloom Sob a Noite de Estimação#Ração Luxuosa",
+		Title = "Pesar Noturno de Estimação#Ração Luxuosa",
 		Search = 1,
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9122]Gloom Sob a Noite de Estimação\n\t\t\t» Método de Obtenção\n\t\t\t<TIPBOX>▷Hodremlin de Estimação<INFO>10161</INFO></TIPBOX> Evolução\n\t\t\t▷Materiais de Evolução:\n\t\t\t^i[4413]x10, ^i[4409]x10,\n\t\t\t^i[4412]x10, ^i[25375]x30\n\n\t\t\t» Alimento\n\t\t\t^i[25377]\n\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\n\t\t\t» Informações de Evolução\n\t\t\t[Nenhum]\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			"^i[9122]Pesar Noturno de Estimação\n\t\t\t» Método de Obtenção\n\t\t\t<TIPBOX>§Hodremlin de Estimação<INFO>10161</INFO></TIPBOX> Evolução\n\t\t\t§Materiais de Evolução:\n\t\t\t^i[4413]x10, ^i[4409]x10,\n\t\t\t^i[4412]x10, ^i[25375]x30\n\n\t\t\t» Alimento\n\t\t\t^i[25377]\n\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\n\t\t\t» Informações de Evolução\n\t\t\t[Nenhum]\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10184] = {
@@ -2403,7 +2533,7 @@ tbl = {
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9126]Kiel-D-01 de Estimação\n\t\t\t» Método de Obtenção\n\t\t\t<TIPBOX>▷Aliot de Estimação<INFO>10111</INFO></TIPBOX> Evolução\n\t\t\t▷Materiais de Evolução:\n\t\t\t^i[4402]x10, ^i[4400]x10,\n\t\t\t^i[4401]x10, ^i[25375]x30\n\n\t\t\t» Alimento\n\t\t\t^i[25377]\n\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\n\t\t\t» Informações de Evolução\n\t\t\t[Nenhum] \n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			"^i[9126]Kiel-D-01 de Estimação\n\t\t\t» Método de Obtenção\n\t\t\t<TIPBOX>§Aliot de Estimação<INFO>10111</INFO></TIPBOX> Evolução\n\t\t\t§Materiais de Evolução:\n\t\t\t^i[4402]x10, ^i[4400]x10,\n\t\t\t^i[4401]x10, ^i[25375]x30\n\n\t\t\t» Alimento\n\t\t\t^i[25377]\n\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\n\t\t\t» Informações de Evolução\n\t\t\t[Nenhum] \n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10185] = {
@@ -2421,7 +2551,7 @@ tbl = {
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9054]Pesadelo Sombrio de Estimação\n\t\t\t» Método de Obtenção:Domesticação\n\t\t\tItem de Domesticação:^i[12372]\n\n\t\t\t» Alimento\n\t\t\t^i[6112]\n\t\t\t\n\t\t\t» Acessório\n\t\t\t^i[10036]\n\n\t\t\t» Informações de Evolução\n\t\t\t<TIPBOX>▷Pesadelo Sinistro de Estimação<INFO>10104</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			"^i[9054]Pesadelo Sombrio de Estimação\n\t\t\t» Método de Obtenção:Domesticação\n\t\t\tItem de Domesticação:^i[12372]\n\n\t\t\t» Alimento\n\t\t\t^i[6112]\n\t\t\t\n\t\t\t» Acessório\n\t\t\t^i[10036]\n\n\t\t\t» Informações de Evolução\n\t\t\t<TIPBOX>§Pesadelo Sinistro de Estimação<INFO>10104</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10187] = {
@@ -2430,16 +2560,16 @@ tbl = {
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9137]Bafomé de Estimação\n\t\t\t» Método de Obtenção\n\t\t\t<TIPBOX>▷Júnior Caótico de Estimação<INFO>10106</INFO></TIPBOX> Evolução\n\t\t\t▷Materiais de Evolução:\n\t\t\t^i[4129]x15, ^i[27335]x15,\n\t\t\t^i[25375]x30\n\n\t\t\t» Alimento\n\t\t\t^i[25377]\n\n\t\t\t» Acessório\n\t\t\t[Nenhum] \n\n\t\t\t» Informações de Evolução\n\t\t\t[Nenhum] \n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			"^i[9137]Bafomé de Estimação\n\t\t\t» Método de Obtenção\n\t\t\t<TIPBOX>§Bafinho Caótico de Estimação<INFO>10106</INFO></TIPBOX> Evolução\n\t\t\t§Materiais de Evolução:\n\t\t\t^i[4129]x15, ^i[27335]x15,\n\t\t\t^i[25375]x30\n\n\t\t\t» Alimento\n\t\t\t^i[25377]\n\n\t\t\t» Acessório\n\t\t\t[Nenhum] \n\n\t\t\t» Informações de Evolução\n\t\t\t[Nenhum] \n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10188] = {
-		Title = "Farmiliar de Estimação#Armadilha de Frutas Sortidas#Suco de Frutas Misto",
+		Title = "Familiar de Estimação#Armadilha de Frutas Sortidas#Suco de Frutas Misto",
 		Search = 1,
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9138]Farmiliar de Estimação\n\t\t\t» Método de Obtenção:Domesticação\n\t\t\tItem de Domesticação:^i[101331]\n\n\t\t\t» Alimento\n\t\t\t^i[1000889]\n\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\n\t\t\t» Informações de Evolução\n\t\t\t[Nenhum] \n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			"^i[9138]Familiar de Estimação\n\t\t\t» Método de Obtenção:Domesticação\n\t\t\tItem de Domesticação:^i[101331]\n\n\t\t\t» Alimento\n\t\t\t^i[1000889]\n\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\n\t\t\t» Informações de Evolução\n\t\t\t[Nenhum] \n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10189] = {
@@ -2448,16 +2578,7 @@ tbl = {
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9139]Ilusão das Trevas de Estimação\n\t\t\t» Método de Obtenção\n\t\t\t<TIPBOX>▷Sacerdote Maldito de Estimação<INFO>10162</INFO></TIPBOX> Evolução\n\t\t\t▷Materiais de Evolução:\n\t\t\t^i[7005]x500, ^i[2608]x1,\n\t\t\t^i[1009]x5, ^i[4171]x10\n\t\t\t\n\t\t\t» Alimento\n\t\t\t^i[537]\n\t\t\t\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\t\t\t\n\t\t\t» Informações de Evolução\n\t\t\t<TIPBOX>▷Senhor das Trevas de Estimação<INFO>10200</INFO></TIPBOX>\n\t\t\t\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
-		}
-	},
-	[10190] = {
-		Title = "Loli Ruri da Lua Azul de Estimação#Evolução",
-		Search = 1,
-		Image = "유저인터페이스\\tipbox\\tip10090",
-		Imgcoord = {Position = 5, Size = 100},
-		Page = {
-			"^i[9140]Loli Ruri da Lua Azul de Estimação\n\t\t\t» Método de Obtenção\n\t\t\t<TIPBOX>▷Loli Ruri de Estimação<INFO>10151</INFO></TIPBOX> Evolução\n\t\t\t▷Materiais de Evolução:\n\t\t\t^i[7214]x500, ^i[510]x50,\n\t\t\t^i[7019]x1, ^i[4191]x10\n\n\t\t\t» Alimento\n\t\t\t^i[537]\n\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\t\t\t\n\t\t\t» Informações de Evolução\n\t\t\t[Nenhum]\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			"^i[9139]Ilusão das Trevas de Estimação\n\t\t\t» Método de Obtenção\n\t\t\t<TIPBOX>§Sacerdote Maldito de Estimação<INFO>10162</INFO></TIPBOX> Evolução\n\t\t\t§Materiais de Evolução:\n\t\t\t^i[7005]x500, ^i[2608]x1,\n\t\t\t^i[1009]x5, ^i[4171]x10\n\t\t\t\n\t\t\t» Alimento\n\t\t\t^i[537]\n\t\t\t\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\t\t\t\n\t\t\t» Informações de Evolução\n\t\t\t<TIPBOX>§Senhor das Trevas de Estimação<INFO>10200</INFO></TIPBOX>\n\t\t\t\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10191] = {
@@ -2466,43 +2587,7 @@ tbl = {
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9141]Rosa Selvagem de Estimação”\n\t\t\t» Método de Obtenção\n\t\t\t<TIPBOX>▷Gato de Folha de Estimação<INFO>10150</INFO></TIPBOX> Evolução\n\t\t\t▷Materiais de Evolução:\n\t\t\t^i[7198]x500, ^i[7206]x200,\n\t\t\t^i[1023]x200, ^i[4195]x10\n\n\t\t\t» Alimento\n\t\t\t^i[537]\n\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\t\t\t\n\t\t\t» Informações de Evolução\n\t\t\t<TIPBOX>▷Eddga de Estimação<INFO>10195</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
-		}
-	},
-	[10192] = {
-		Title = "Cavaleiro Branco Mutante de Estimação#Evolução",
-		Search = 1,
-		Image = "유저인터페이스\\tipbox\\tip10090",
-		Imgcoord = {Position = 5, Size = 100},
-		Page = {
-			"^i[9133]Cavaleiro Branco Mutante de Estimação\n\t\t\t» Método de Obtenção:Troca\n\t\t\tItem de Troca:^i[25375]x10\n\t\t\t<NAVI>[Servo do Transcendente Goldhand]<INFO>prontera,163,304,0,101,0</INFO></NAVI>\n\t\t\t\n\t\t\t» Alimento\n\t\t\t^i[537]\n\t\t\t\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\t\t\t\n\t\t\t» Informações de Evolução\n\t\t\t<TIPBOX>▷Cavaleiro do Abismo de Estimação<INFO>10193</INFO></TIPBOX>\n\t\t\t<TIPBOX>▷Cavaleiro Branco de Estimação<INFO>10194</INFO></TIPBOX>\n\t\t\t\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
-		}
-	},
-	[10193] = {
-		Title = "Cavaleiro do Abismo de Estimação#Evolução",
-		Search = 1,
-		Image = "유저인터페이스\\tipbox\\tip10090",
-		Imgcoord = {Position = 5, Size = 100},
-		Page = {
-			"^i[9132]Cavaleiro do Abismo de Estimação\n\t\t\t» Método de Obtenção\n\t\t\t<TIPBOX>▷Cavaleiro Branco Mutante de Estimação<INFO>10192</INFO></TIPBOX> Evolução\n\t\t\t▷Materiais de Evolução:\n\t\t\t^i[6089]x100, ^i[7511]x100,\n\t\t\t^i[1000257]x200, ^i[4140]x5\n\n\t\t\t» Alimento\n\t\t\t^i[537]\n\t\t\t\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\t\t\t\n\t\t\t» Informações de Evolução\n\t\t\t[Nenhum]\n\t\t\t\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
-		}
-	},
-	[10194] = {
-		Title = "Cavaleiro Branco de Estimação#Evolução",
-		Search = 1,
-		Image = "유저인터페이스\\tipbox\\tip10090",
-		Imgcoord = {Position = 5, Size = 100},
-		Page = {
-			"^i[9134]Cavaleiro Branco de Estimação”\n\t\t\t» Método de Obtenção\n\t\t\t<TIPBOX>▷Cavaleiro Branco Mutante de Estimação<INFO>10192</INFO></TIPBOX> Evolução\n\t\t\t▷Materiais de Evolução:\n\t\t\t^i[25509]x100, ^i[1000831]x100,\n\t\t\t^i[1000263]x200, ^i[4608]x2\n\t\t\t\n\t\t\t» Alimento\n\t\t\t^i[537]\n\t\t\t\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\t\t\t\n\t\t\t» Informações de Evolução\n\t\t\t[Nenhum]\n\t\t\t\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
-		}
-	},
-	[10195] = {
-		Title = "Eddga de Estimação#Evolução",
-		Search = 1,
-		Image = "유저인터페이스\\tipbox\\tip10090",
-		Imgcoord = {Position = 5, Size = 100},
-		Page = {
-			"^i[9142]Eddga de Estimação\n\t\t\t» Método de Obtenção\n\t\t\t<TIPBOX>▷Rosa Selvagem de Estimação<INFO>10191</INFO></TIPBOX> Evolução\n\t\t\t▷Materiais de Evolução:\n\t\t\t^i[4195]x10, ^i[4257]x10,\n\t\t\t^i[27124]x10, ^i[25375]x30\n\t\t\t\n\t\t\t» Alimento\n\t\t\t^i[25377]\n\t\t\t\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\t\t\t\n\t\t\t» Informações de Evolução\n\t\t\t[Nenhum]\n\t\t\t\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			"^i[9141]Rosa Selvagem de Estimação”\n\t\t\t» Método de Obtenção\n\t\t\t<TIPBOX>§Gato de Folha de Estimação<INFO>10150</INFO></TIPBOX> Evolução\n\t\t\t§Materiais de Evolução:\n\t\t\t^i[7198]x500, ^i[7206]x200,\n\t\t\t^i[1023]x200, ^i[4195]x10\n\n\t\t\t» Alimento\n\t\t\t^i[537]\n\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\t\t\t\n\t\t\t» Informações de Evolução\n\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[10196] = {
@@ -2514,40 +2599,357 @@ tbl = {
 			"^i[9050]Medusa de Estimação\n\t\t\t» Método de Obtenção:Domesticação\n\t\t\tItem de Domesticação:^i[12368]\n\n\t\t\t» Alimento\n\t\t\t^i[6108]\n\t\t\t\n\t\t\t» Acessório\n\t\t\t^i[10032]\n\t\t\t\n\t\t\t» Informações de Evolução\n\t\t\t[Nenhum]\n\t\t\t\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
 		}
 	},
-	[10197] = {
-		Title = "Copo de Estimação",
-		Search = 1,
-		Image = "유저인터페이스\\tipbox\\tip10090",
-		Imgcoord = {Position = 5, Size = 100},
-		Page = {
-			"^i[9145]Copo de Estimação”\n\t\t\t» Método de Obtenção:Domesticação\n\t\t\tItem de Domesticação:^i[102202]\n\t\t\t\n\t\t\t» Alimento\n\t\t\t^i[537]\n\t\t\t\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\t\t\t\n\t\t\t» Informações de Evolução\n\t\t\t<TIPBOX>▷Ventogelado Cinza de Estimação<INFO>10198</INFO></TIPBOX>\n\t\t\t<TIPBOX>▷Ventogelado de Estimação<INFO>10199</INFO></TIPBOX>\n\t\t\t\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
-		}
-	},
-	[10198] = {
-		Title = "Ventogelado Cinza de Estimação",
-		Search = 1,
-		Image = "유저인터페이스\\tipbox\\tip10090",
-		Imgcoord = {Position = 5, Size = 100},
-		Page = {
-			"^i[9146]Ventogelado Cinza de Estimação”\n\t\t\t» Método de Obtenção\n\t\t\t<TIPBOX>▷Copo de Estimação<INFO>10197</INFO></TIPBOX> Evolução\n\t\t\t▷Materiais de Evolução:\n\t\t\t^i[1001244]x200, ^i[1001249]x150,\n\t\t\t^i[1001246]x150, ^i[300457]x1\n\t\t\t\n\t\t\t» Alimento\n\t\t\t^i[537]\n\t\t\t\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\t\t\t\n\t\t\t» Informações de Evolução\n\t\t\t[Nenhum]\n\t\t\t\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
-		}
-	},
-	[10199] = {
-		Title = "Ventogelado de Estimação",
-		Search = 1,
-		Image = "유저인터페이스\\tipbox\\tip10090",
-		Imgcoord = {Position = 5, Size = 100},
-		Page = {
-			"^i[9147]Ventogelado de Estimação”\n\t\t\t» Método de Obtenção\n\t\t\t<TIPBOX>▷Copo de Estimação<INFO>10197</INFO></TIPBOX> Evolução\n\t\t\t▷Materiais de Evolução:\n\t\t\t^i[1001245]x200, ^i[1001249]x150,\n\t\t\t^i[1001246]x150, ^i[300458]x1\n\t\t\t\n\t\t\t» Alimento\n\t\t\t^i[537]\n\t\t\t\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\t\t\t\n\t\t\t» Informações de Evolução\n\t\t\t[Nenhum]\n\t\t\t\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
-		}
-	},
 	[10200] = {
 		Title = "Senhor das Trevas de Estimação",
 		Search = 1,
 		Image = "유저인터페이스\\tipbox\\tip10090",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"^i[9148]Senhor das Trevas de Estimação”\n\t\t\t» Método de Obtenção\n\t\t\t<TIPBOX>▷Ilusão das Trevas de Estimação<INFO>10189</INFO></TIPBOX> Evolução\n\t\t\t▷Materiais de Evolução:\n\t\t\t^i[4169]x10, ^i[4141]x10,\n\t\t\t^i[4171]x10, ^i[25375]x30\n\t\t\t\n\t\t\t» Alimento\n\t\t\t^i[25377]\n\t\t\t\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\t\t\t\n\t\t\t» Informações de Evolução\n\t\t\t[Nenhum]\n\t\t\t\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+			"^i[9148]Senhor das Trevas de Estimação”\n\t\t\t» Método de Obtenção\n\t\t\t<TIPBOX>§Ilusão das Trevas de Estimação<INFO>10189</INFO></TIPBOX> Evolução\n\t\t\t§Materiais de Evolução:\n\t\t\t^i[4169]x10, ^i[4141]x10,\n\t\t\t^i[4171]x10, ^i[25375]x30\n\t\t\t\n\t\t\t» Alimento\n\t\t\t^i[25377]\n\t\t\t\n\t\t\t» Acessório\n\t\t\t[Nenhum]\n\t\t\t\n\t\t\t» Informações de Evolução\n\t\t\t[Nenhum]\n\t\t\t\n\t\t\t<TIPBOX>»Ver Lista de Mascotes<INFO>10089</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Sistema de Mascotes<INFO>47</INFO></TIPBOX>\n\t\t\t<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[96] = {
+		Title = "Status de Atributo#stat,status",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00096",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"O Status de Atributo é um conjunto adicional de atributos desbloqueado ao avançar para uma classe superior a partir do nível 200.\n\t\tVocê pode fortalecer seu personagem investindo os Pontos de Status de Atributo recebidos ao subir de nível.\n\t\t(A cada 5 níveis, é possível receber mais Pontos de Status de Atributo.)\n\t\tVocê pode conferir esses valores clicando em Status de Atributo na janela de status.\n\n\t\tVocê também pode investir pontos rapidamente digitando os comandos abaixo na janela de chat.\n\t\t/pow+ valor\n\t\t/sta+ valor\n\t\t/wis+ valor\n\t\t/spl+ valor\n\t\t/con+ valor\n\t\t/crt+ valor\n\n\t\t<TIPBOX>>Status de Atributo: POW (Power)<INFO>97</INFO></TIPBOX>\n\t\t<TIPBOX>>Status de Atributo: STA (Stamina)<INFO>98</INFO></TIPBOX>\n\t\t<TIPBOX>>Status de Atributo: WIS (Wisdom)<INFO>99</INFO></TIPBOX>\n\t\t<TIPBOX>>Status de Atributo: SPL (Spell)<INFO>100</INFO></TIPBOX>\n\t\t<TIPBOX>>Status de Atributo: CON (Concentration)<INFO>101</INFO></TIPBOX>\n\t\t<TIPBOX>>Status de Atributo: CRT (Creative)<INFO>102</INFO></TIPBOX>\n\t\t<TIPBOX>>Atributos Especiais<INFO>103</INFO></TIPBOX>\n\t\t<TIPBOX>>Personagem: Status<INFO>89</INFO></TIPBOX>\n\t\t<TIPBOX>>Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[97] = {
+		Title = "Status de Atributo: POW (Power)#stat,status",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00096",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Atributo que aumenta o ATK Físico de Status e o Power ATK (P.ATK)\n\n\t\tAumenta o ATK Físico de Status em 5 por ponto.\n\t\tAumenta o P.ATK em 1 a cada 3 pontos.\n\n\t\t<TIPBOX>>Personagem: Status de Atributo<INFO>96</INFO></TIPBOX>\n\t\t<TIPBOX>>Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[98] = {
+		Title = "Status de Atributo: STA (Stamina)#stat,status",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00096",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			[[
+Atributo que aumenta Resist (RES)
+
+		Aumenta o RES em 1 por ponto.
+		Aumenta o RES em 5 a cada 3 pontos.
+
+		<TIPBOX>>Personagem: Status de Atributo<INFO>96</INFO></TIPBOX>
+		<TIPBOX>>Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>]]
+		}
+	},
+	[99] = {
+		Title = "Status de Atributo: WIS (Wisdom)#stat,status",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00096",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			[[
+Atributo que aumenta Magic Resist (MRES)
+
+		Aumenta o MRES em 1 por ponto.
+		Aumenta adicionalmente o MRES em 5 a cada 3 pontos.
+
+		<TIPBOX>>Personagem: Status de Atributo<INFO>96</INFO></TIPBOX>
+		<TIPBOX>>Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>]]
+		}
+	},
+	[100] = {
+		Title = "Status de Atributo: SPL (Spell)#stat,status",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00096",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Atributo que aumenta o ATK Mágico de Status e o Spell MATK (S.MATK)\n\n\t\tAumenta o ATK Mágico de Status em 5 por ponto.\n\t\tAumenta o S.MATK em 1 a cada 3 pontos.\n\n\t\t<TIPBOX>>Personagem: Status de Atributo<INFO>96</INFO></TIPBOX>\n\t\t<TIPBOX>>Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[101] = {
+		Title = "Status de Atributo: CON (Concentration)#stat,status",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00096",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			[[
+Atributo que aumenta HIT, FLEE, Power ATK (P.ATK) e Spell MATK (S.MATK)
+
+		Aumenta o HIT em 2 e o FLEE em 2 por ponto.
+		Aumenta o P.ATK em 1 a cada 5 pontos.
+		Aumenta o S.MATK em 1 a cada 5 pontos.
+
+		<TIPBOX>>Personagem: Status de Atributo<INFO>96</INFO></TIPBOX>
+		<TIPBOX>>Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>]]
+		}
+	},
+	[102] = {
+		Title = "Status de Atributo: CRT (Creative)#stat,status",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00096",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			[[
+Atributo que aumenta Heal Plus (H.PLUS) e Critical Rate (C.RATE)
+
+		Aumenta o H.PLUS em 1 por ponto.
+		Aumenta o C.RATE em 1 a cada 3 pontos.
+
+		<TIPBOX>>Personagem: Status de Atributo<INFO>96</INFO></TIPBOX>
+		<TIPBOX>>Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>]]
+		}
+	},
+	[103] = {
+		Title = "Atributos Especiais#status,stat",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00096",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Os Atributos Especiais são valores obtidos ao investir em Status de Atributo ou por meio de efeitos de habilidades e itens.\n\n\t\t<TIPBOX>>Atributo Especial: Power ATK (P.ATK)<INFO>104</INFO></TIPBOX>\n\t\t<TIPBOX>>Atributo Especial: Spell MATK (S.MATK)<INFO>105</INFO></TIPBOX>\n\t\t<TIPBOX>>Atributo Especial: Resist (RES)<INFO>106</INFO></TIPBOX>\n\t\t<TIPBOX>>Atributo Especial: Magic Resist (MRES)<INFO>107</INFO></TIPBOX>\n\t\t<TIPBOX>>Atributo Especial: Heal Plus (H.PLUS)<INFO>108</INFO></TIPBOX>\n\t\t<TIPBOX>>Atributo Especial: Critical Rate (C.RATE)<INFO>109</INFO></TIPBOX>\n\t\t<TIPBOX>>Personagem: Status de Atributo<INFO>96</INFO></TIPBOX>\n\t\t<TIPBOX>>Personagem: Status<INFO>89</INFO></TIPBOX>\n\t\t<TIPBOX>>Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[104] = {
+		Title = "Atributo Especial: Power ATK (P.ATK)#physical",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00096",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Power ATK\n\n\t\tAumenta em % o ATK Físico final de Status e o ATK de Arma final.\n\n\t\t<TIPBOX>>Atributos Especiais<INFO>103</INFO></TIPBOX>\n\t\t<TIPBOX>>Personagem: Status de Atributo<INFO>96</INFO></TIPBOX>\n\t\t<TIPBOX>>Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[105] = {
+		Title = "Atributo Especial: Spell MATK (S.MATK)#magic",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00096",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Spell MATK\n\n\t\tAumenta em % o ATK Mágico final de Status e o ATK Mágico final.\n\n\t\t<TIPBOX>>Atributos Especiais<INFO>103</INFO></TIPBOX>\n\t\t<TIPBOX>>Personagem: Status de Atributo<INFO>96</INFO></TIPBOX>\n\t\t<TIPBOX>>Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[106] = {
+		Title = "Atributo Especial: Resist (RES)#physical resist",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00096",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Resist\n\n\t\tReduz em % o dano físico geral recebido antes do cálculo da defesa física.\n\t\t^FF0000※ Efeitos de ignorar Resist são aplicados somente até o limite máximo de 50%.^000000\n\n\t\t<TIPBOX>>Atributos Especiais<INFO>103</INFO></TIPBOX>\n\t\t<TIPBOX>>Personagem: Status de Atributo<INFO>96</INFO></TIPBOX>\n\t\t<TIPBOX>>Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[107] = {
+		Title = "Atributo Especial: Magic Resist (MRES)#magic resist",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00096",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Magic Resist\n\n\t\tReduz em % o dano mágico geral recebido antes do cálculo da defesa mágica.\n\t\t^FF0000※ Efeitos de ignorar Magic Resist são aplicados somente até o limite máximo de 50%.^000000\n\n\t\t<TIPBOX>>Atributos Especiais<INFO>103</INFO></TIPBOX>\n\t\t<TIPBOX>>Personagem: Status de Atributo<INFO>96</INFO></TIPBOX>\n\t\t<TIPBOX>>Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[108] = {
+		Title = "Atributo Especial: Heal Plus (H.PLUS)#healing",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00096",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Heal Plus\n\n\t\tAumenta em % a cura final recebida.\n\t\t^FF0000※ Esse aumento em % é aplicado após os efeitos gerais de aumento de cura.^000000\n\n\t\t<TIPBOX>>Atributos Especiais<INFO>103</INFO></TIPBOX>\n\t\t<TIPBOX>>Personagem: Status de Atributo<INFO>96</INFO></TIPBOX>\n\t\t<TIPBOX>>Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[109] = {
+		Title = "Atributo Especial: Critical Rate (C.RATE)#critical",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00096",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Critical Rate\n\n\t\tAumenta o bônus base de Dano Crítico, que normalmente é de 140%.\n\t\t^FF0000※ Se o C.RATE for 10, o bônus base de Dano Crítico aumenta de 140% para 150%.^000000\n\n\t\t<TIPBOX>>Atributos Especiais<INFO>103</INFO></TIPBOX>\n\t\t<TIPBOX>>Personagem: Status de Atributo<INFO>96</INFO></TIPBOX>\n\t\t<TIPBOX>>Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[110] = {
+		Title = "Sistema de Activity Point (Sistema AP)#activity",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00110",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Activity Point (AP) é um sistema adicional de pontos desbloqueado ao avançar para uma classe superior a partir do nível 200.\n\n\t\tAP é consumido ao usar habilidades poderosas, e seu valor máximo é limitado a 200 independentemente da classe.\n\t\tAP só pode ser recuperado por habilidades que restauram AP. Algumas classes também podem restaurar ou consumir o AP de outro personagem através de habilidades.\n\t\t\\n<TIPBOX>>Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[9135] = {
+		Title = "4ª Classes#4th job",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Quando aventureiros que completaram o avanço para a 3ª Classe Transcendente acumulam experiência suficiente, podem avançar para a 4ª Classe.\n\t\t\tAinda mais habilidades e grandes aventuras aguardam por você.\n\n\t\t\t<TIPBOX>>Missão de Mudança para a 4ª Classe<INFO>9136</INFO></TIPBOX>\n\n\t\t\t※Aviso\n\t\t\tSe você avançou para a 3ª Classe em estado não transcendente, <NAVI>[Bakhili]<INFO>prt_in,285,161,0,101,0,</INFO></NAVI> poderá ajudar com a Transcendência ao alcançar Base Level 200.\n\n\t\t\t<TIPBOX>>Ir para a Página de Classe<INFO>9031</INFO></TIPBOX>\n\t\t\t<TIPBOX>>Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[9136] = {
+		Title = "Missão de Mudança para a 4ª Classe#4th job change",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Classes Transcendentes de 3ª Classe com Base Level 200 e Job Level 70 ou superior podem avançar para a 4ª Classe.\n\t\t\t<TIPBOX>§Dragon Knight<INFO>9137</INFO></TIPBOX>\n\t\t\t<TIPBOX>§Imperial Guard<INFO>9138</INFO></TIPBOX>\n\t\t\t<TIPBOX>§Arc Mage<INFO>9139</INFO></TIPBOX>\n\t\t\t<TIPBOX>§Elemental Master<INFO>9140</INFO></TIPBOX>\n\t\t\t<TIPBOX>§Meister<INFO>9141</INFO></TIPBOX>\n\t\t\t<TIPBOX>§Biolo<INFO>9142</INFO></TIPBOX>\n\t\t\t<TIPBOX>§Cardinal<INFO>9143</INFO></TIPBOX>\n\t\t\t<TIPBOX>§Inquisitor<INFO>9144</INFO></TIPBOX>\n\t\t\t<TIPBOX>§Shadow Cross<INFO>9145</INFO></TIPBOX>\n\t\t\t<TIPBOX>§Abyss Chaser<INFO>9146</INFO></TIPBOX>\n\t\t\t<TIPBOX>§Wind Hawk<INFO>9147</INFO></TIPBOX>\n\t\t\t<TIPBOX>§Troubadour<INFO>9148</INFO></TIPBOX>\n\t\t\t<TIPBOX>§Trouvere<INFO>9149</INFO></TIPBOX>\n\n\t\t\t<TIPBOX>>Página Anterior<INFO>9135</INFO></TIPBOX>\n\t\t\t<TIPBOX>>Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[9137] = {
+		Title = "JQ Mudança de Classe para Dragon Knight",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Dragon Knight, a 4ª Classe que evolui de Rune Knight, usa armas de duas mãos livremente e controla Servant Weapons, armas que incorporam a vontade do usuário.\n\t\t\tAlém de realizar ataques extras com Servant Weapons durante ataques básicos, também pode desferir poderosos ataques em área.\n\t\t\t^663399§Base Level 200 ou superior^000000\n\t\t\t^663399§Job Level 70 ou superior^000000\n\t\t\t^663399§Alvo: Rune Knight^000000\n\n\t\t\t<NAVI>[Oscar]<INFO>gef_fild08,54,101,0,101,0,</INFO></NAVI>\n\n\t\t\t<TIPBOX>>Página Anterior<INFO>9136</INFO></TIPBOX>\n\t\t\t<TIPBOX>>Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[9138] = {
+		Title = "JQ Mudança de Classe para Imperial Guard",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Imperial Guard, a 4ª Classe que evolui de Royal Guard, luta com espada e escudo e representa aqueles que encontraram convicção na verdadeira força.\n\t\t\tComo pode empunhar naturalmente o poder sagrado, é capaz de realizar ataques sagrados ainda mais poderosos.\n\t\t\t^663399§Base Level 200 ou superior^000000\n\t\t\t^663399§Job Level 70 ou superior^000000\n\t\t\t^663399§Alvo: Royal Guard^000000\n\n\t\t\t<NAVI>[King's Knight]<INFO>prt_cas,181,10,0,101,0,</INFO></NAVI>\n\n\t\t\t<TIPBOX>>Página Anterior<INFO>9136</INFO></TIPBOX>\n\t\t\t<TIPBOX>>Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[9139] = {
+		Title = "JQ Mudança de Classe para Arc Mage",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Arc Mage, a 4ª Classe que evolui de Warlock, adiciona beleza a um poder mágico avassalador para criar feitiços verdadeiramente fantásticos.\n\t\t\tPode criar campos de chamas ardentes ou fazer chover com magia de gelo. Quando Climax começa, seus feitiços existentes se transformam em magias ainda mais poderosas.\n\t\t\t^663399§Base Level 200 ou superior^000000\n\t\t\t^663399§Job Level 70 ou superior^000000\n\t\t\t^663399§Alvo: Warlock^000000\n\n\t\t\t<NAVI>[Varmundt Mansion Garden]<INFO>ba_maison,200,256,0,101,0,</INFO></NAVI>\n\n\t\t\t<TIPBOX>>Página Anterior<INFO>9136</INFO></TIPBOX>\n\t\t\t<TIPBOX>>Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[9140] = {
+		Title = "JQ Mudança de Classe para Elemental Master",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Elemental Master, a 4ª Classe que evolui de Sorcerer, é especializada em controlar os elementos da natureza. Pode fortalecer espíritos existentes para invocar novos e usar magia elemental.\n\t\t\tTambém usa diversas magias de suporte, como aumentar o poder mágico dos aliados.\n\t\t\t^663399§Base Level 200 ou superior^000000\n\t\t\t^663399§Job Level 70 ou superior^000000\n\t\t\t^663399§Alvo: Sorcerer^000000\n\n\t\t\t<NAVI>[Geffen Tower]<INFO>gef_tower,119,29,0,101,0,</INFO></NAVI>\n\n\t\t\t<TIPBOX>>Página Anterior<INFO>9136</INFO></TIPBOX>\n\t\t\t<TIPBOX>>Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[9141] = {
+		Title = "JQ Mudança de Classe para Meister",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Meister, a 4ª Classe que evolui de Mechanic, é um mestre da engenharia mecânica que comanda livremente robôs de batalha autônomos.\n\t\t\tTambém pode criar diversos dispositivos para proteger ou fortalecer aliados, demonstrando excelente desempenho como especialista em suporte de combate.\n\t\t\t^663399§Base Level 200 ou superior^000000\n\t\t\t^663399§Job Level 70 ou superior^000000\n\t\t\t^663399§Alvo: Mechanic^000000\n\n\t\t\t<NAVI>[Lodi]<INFO>yuno,111,208,0,101,0,</INFO></NAVI>\n\t\t\t<NAVI>[Mist]<INFO>yuno,114,208,0,101,0,</INFO></NAVI>\n\n\t\t\t<TIPBOX>>Página Anterior<INFO>9136</INFO></TIPBOX>\n\t\t\t<TIPBOX>>Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[9142] = {
+		Title = "JQ Mudança de Classe para Biolo",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Biolo, a 4ª Classe que evolui de Genetic, é um especialista em biotecnologia que usa bioenergia vegetal em combate.\n\t\t\tTambém cria diversas soluções para combate e demonstra excelente desempenho como especialista em suporte de batalha.\n\t\t\t^663399§Base Level 200 ou superior^000000\n\t\t\t^663399§Job Level 70 ou superior^000000\n\t\t\t^663399§Alvo: Genetic^000000\n\n\t\t\t<NAVI>[Aldina]<INFO>verus04,157,165,0,101,0,</INFO></NAVI>\n\n\t\t\t<TIPBOX>>Página Anterior<INFO>9136</INFO></TIPBOX>\n\t\t\t<TIPBOX>>Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[9143] = {
+		Title = "JQ Mudança de Classe para Cardinal",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Cardinal, a 4ª Classe que evolui de Archbishop, empunha livremente o poder sagrado como agente do divino.\n\t\t\tEmbora seja uma classe de suporte especializada em curar e fortalecer aliados com maior poder sagrado, também pode exorcizar o mal com magia sagrada ou imbuir equipamentos com força divina.\n\t\t\t^663399§Base Level 200 ou superior^000000\n\t\t\t^663399§Job Level 70 ou superior^000000\n\t\t\t^663399§Alvo: Archbishop^000000\n\n\t\t\t<NAVI>[Priest Jergus]<INFO>prt_church,184,101,0,101,0,</INFO></NAVI>\n\n\t\t\t<TIPBOX>>Página Anterior<INFO>9136</INFO></TIPBOX>\n\t\t\t<TIPBOX>>Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[9144] = {
+		Title = "JQ Mudança de Classe para Inquisitor",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Inquisitor, a 4ª Classe que evolui de Sura, é um executor do julgamento divino.\n\t\t\tPertencendo à ordem religiosa, os Inquisitors fortalecem gradualmente a si mesmos através da fé e desencadeiam uma variedade maior de ataques.\n\t\t\t^663399§Base Level 200 ou superior^000000\n\t\t\t^663399§Job Level 70 ou superior^000000\n\t\t\t^663399§Alvo: Sura^000000\n\n\t\t\t<NAVI>[Prontera Inn]<INFO>prt_in,250,129,0,101,0,</INFO></NAVI>\n\n\t\t\t<TIPBOX>>Página Anterior<INFO>9136</INFO></TIPBOX>\n\t\t\t<TIPBOX>>Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[9145] = {
+		Title = "JQ Mudança de Classe para Shadow Cross",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Shadow Cross, a 4ª Classe que evolui de Guillotine Cross, se destaca em emboscar inimigos enquanto oculta sua presença.\n\t\t\tAo usar adagas como arma principal, também pode girar lâminas ao redor do corpo para ferir inimigos que se aproximam.\n\t\t\t^663399§Base Level 200 ou superior^000000\n\t\t\t^663399§Job Level 70 ou superior^000000\n\t\t\t^663399§Alvo: Guillotine Cross^000000\n\n\t\t\t<NAVI>[Lumin]<INFO>job3_guil01,74,92,0,101,0,</INFO></NAVI>\n\n\t\t\t<TIPBOX>>Página Anterior<INFO>9136</INFO></TIPBOX>\n\t\t\t<TIPBOX>>Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[9146] = {
+		Title = "JQ Mudança de Classe para Abyss Chaser",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Abyss Chaser, a 4ª Classe que evolui de Shadow Chaser, usa o poder do abismo para uma grande variedade de ataques.\n\t\t\tPode usar o poder abissal como magia, concentrá-lo na ponta de uma adaga para maximizar o dano, ou carregar pontas de flecha com poder para lançar ataques em cadeia.\n\t\t\t^663399§Base Level 200 ou superior^000000\n\t\t\t^663399§Job Level 70 ou superior^000000\n\t\t\t^663399§Alvo: Shadow Chaser^000000\n\n\t\t\t<NAVI>[Vicente]<INFO>s_atelier,122,59,0,101,0,</INFO></NAVI>\n\n\t\t\t<TIPBOX>>Página Anterior<INFO>9136</INFO></TIPBOX>\n\t\t\t<TIPBOX>>Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[9147] = {
+		Title = "JQ Mudança de Classe para Wind Hawk",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Wind Hawk, a 4ª Classe que evolui de Ranger, é um atirador de elite que usa a poderosa força do vento.\n\t\t\tArmado com habilidades que concedem o poder do vento às flechas, Wind Hawk também ganha a habilidade de se comunicar com animais, permitindo o uso simultâneo de Warg e Falcon.\n\t\t\tÉ também uma classe versátil capaz de usar armadilhas que infligem vários efeitos negativos.\n\t\t\t^663399§Base Level 200 ou superior^000000\n\t\t\t^663399§Job Level 70 ou superior^000000\n\t\t\t^663399§Alvo: Ranger^000000\n\n\t\t\t<NAVI>[Payon]<INFO>payon,100,177,0,101,0,</INFO></NAVI>\n\n\t\t\t<TIPBOX>>Página Anterior<INFO>9136</INFO></TIPBOX>\n\t\t\t<TIPBOX>>Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[9148] = {
+		Title = "JQ Mudança de Classe para Troubadour",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Troubadour, a 4ª Classe que evolui de Minstrel, canta belas melodias que inspiram os aliados e elevam o moral.\n\t\t\tPode lutar através do poder da música, fortalecer aliados ou enfraquecer inimigos.\n\t\t\tÉ uma classe capaz de virar o rumo da batalha através da canção.\n\t\t\t^663399§Base Level 200 ou superior^000000\n\t\t\t^663399§Job Level 70 ou superior^000000\n\t\t\t^663399§Alvo: Minstrel^000000\n\n\t\t\t<NAVI>[Flyer Part-Timer]<INFO>lighthalzen,186,124,0,101,0,</INFO></NAVI>\n\n\t\t\t<TIPBOX>>Página Anterior<INFO>9136</INFO></TIPBOX>\n\t\t\t<TIPBOX>>Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[9149] = {
+		Title = "JQ Mudança de Classe para Trouvere",
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Trouvere, a 4ª Classe que evolui de Wanderer, canta belas melodias que inspiram os aliados e elevam o moral.\n\t\t\tPode lutar através do poder da música, fortalecer aliados ou enfraquecer inimigos.\n\t\t\tÉ uma classe capaz de virar o rumo da batalha através da canção.\n\t\t\t^663399§Base Level 200 ou superior^000000\n\t\t\t^663399§Job Level 70 ou superior^000000\n\t\t\t^663399§Alvo: Wanderer^000000\n\n\t\t\t<NAVI>[Golden Apple Chief]<INFO>comodo,142,165,0,101,0,</INFO></NAVI>\n\n\t\t\t<TIPBOX>>Página Anterior<INFO>9136</INFO></TIPBOX>\n\t\t\t<TIPBOX>>Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[111] = {
+		Title = "Aprimoramento de Grau#aprimoramento de grau,arma,armadura,etel stone,etel dust",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00111",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Algumas armas de Nível 5 ou armaduras de Nível 2 refinadas em +11 ou mais podem tentar o Aprimoramento de Grau.\n\t\tVocê pode realizar o aprimoramento e trocar materiais com os NPCs de Aprimoramento de Grau abaixo.\n\t\t§ <NAVI>[Stratos]<INFO>grademk,34,184,0,100,0,0</INFO></NAVI> : Instalação de Aprimoramento de Grau de Prontera\n\t\t§ <NAVI>[Shuribel]<INFO>paramk,34,184,0,100,0,0</INFO></NAVI> : Instalação de Aprimoramento de Grau de Paramarket\n\n\t\tEfeitos do Aprimoramento de Grau:\n\t\tArmas com Aprimoramento de Grau recebem bônus adicionais de refinamento em ATK / MATK de acordo com o grau.\n\t\tAlguns equipamentos também recebem efeitos diferentes conforme o grau.\n\n\t\t<TIPBOX>>Materiais de Aprimoramento de Grau<INFO>112</INFO></TIPBOX>\n\t\t<TIPBOX>>Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[112] = {
+		Title = "Materiais de Aprimoramento de Grau#aprimoramento de grau,arma,armadura,etel stone,etel dust,combinação",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00112",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Você pode fabricar materiais de Aprimoramento de Grau combinando gemas compradas no Comerciante de Joias com Etel Stone.\n\n\t\tGrau 1 : <ITEM>[Água-Marinha]<INFO>720</INFO></ITEM> + <ITEM>[Etel Stone]<INFO>1000323</INFO></ITEM>\n\t\tGrau 2 : <ITEM>[Topázio]<INFO>728</INFO></ITEM> + <ITEM>[Etel Stone]<INFO>1000323</INFO></ITEM>\n\t\tGrau 3 : <ITEM>[Ametista]<INFO>719</INFO></ITEM> + <ITEM>[Etel Stone]<INFO>1000323</INFO></ITEM>\n\t\tGrau 4 : <ITEM>[Âmbar]<INFO>1000321</INFO></ITEM> + <ITEM>[Etel Stone]<INFO>1000323</INFO></ITEM>\n\n\t\t<TIPBOX>>Minério de Etel<INFO>114</INFO></TIPBOX>\n\t\t<TIPBOX>>Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[113] = {
+		Title = "Nível de Arma/Armadura#nível de arma,nível de armadura",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00113",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Você pode trocar minérios de refino com NPCs das forjas em cada região.\n\t\t§<NAVI>[Xenophon]<INFO>alberta_in,21,63,0,100,0,0</INFO></NAVI>\n\t\t§<NAVI>[Dietrich]<INFO>prt_in,63,69,0,100,0,0</INFO></NAVI>\n\t\t§<NAVI>[Abdullah]<INFO>morocc_in,72,32,0,100,0,0</INFO></NAVI>\n\t\t§<NAVI>[Hakim]<INFO>payon,137,178,0,100,0,0</INFO></NAVI>\n\t\t§<NAVI>[Delight]<INFO>yuno_in01,164,27,0,100,0,0</INFO></NAVI>\n\t\t§<NAVI>[Matistein]<INFO>ein_in01,18,82,0,100,0,0</INFO></NAVI>\n\t\t§<NAVI>[Pruil]<INFO>lhz_in02,281,24,0,100,0,0</INFO></NAVI>\n\n\t\t<ITEM>[Etherdeocon]<INFO>1000332</INFO></ITEM>\n\t\t\t: 1 Oridecon + 1 Etel Dust\n\t\t<ITEM>[Ethernium]<INFO>1000331</INFO></ITEM>\n\t\t\t: 1 Elunium + 1 Etel Dust\n\t\t<ITEM>[Etherdeocon Enriquecido]<INFO>1000334</INFO></ITEM>\n\t\t\t: 1 Oridecon Enriquecido + 2 Etel Dust\n\t\t<ITEM>[Ethernium Enriquecido]<INFO>1000333</INFO></ITEM>\n\t\t\t: 1 Elunium Enriquecido + 2 Etel Dust\n\t\t<ITEM>[HD Etherdeocon]<INFO>1000336</INFO></ITEM>\n\t\t\t: 1 Oridecon HD (incluindo Limitado) + 3 Etel Dust\n\t\t<ITEM>[HD Ethernium]<INFO>1000335</INFO></ITEM>\n\t\t\t: 1 Elunium HD (incluindo Limitado) + 3 Etel Dust\n\t\t<ITEM>[Etel Bradium]<INFO>1000368</INFO></ITEM>\n\t\t\t: 1 Bradium + 3 Etel Dust\n\t\t<ITEM>[Etel Carnium]<INFO>1000370</INFO></ITEM>\n\t\t\t: 1 Carnium + 3 Etel Dust\n\t\t<ITEM>[Etel Bradium de Alta Densidade]<INFO>1000369</INFO></ITEM>\n\t\t\t: 1 Bradium de Alta Densidade (incluindo Limitado) + 3 Etel Dust\n\t\t<ITEM>[Etel Carnium de Alta Densidade]<INFO>1000371</INFO></ITEM>\n\t\t\t: 1 Carnium de Alta Densidade (incluindo Limitado) + 3 Etel Dust\n\n\t\t<TIPBOX>>Minério de Etel<INFO>114</INFO></TIPBOX>\n\t\t<TIPBOX>>Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[114] = {
+		Title = "Minério de Etel#etel dust,etel stone,grau,refino",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00114",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Etel é um minério que não pode ser usado diretamente, mas é utilizado em combinação com várias gemas ou minérios.\n\t\t<ITEM>[Etel Dust]<INFO>1000322</INFO></ITEM>\n\t\t<ITEM>[Etel Stone]<INFO>1000323</INFO></ITEM>\n\n\t\tOs principais materiais, Etel Dust e Etel Stone, podem ser obtidos no Salão dos Mortos, na Ópera em Ruínas, no Rudus 4º Andar - Área de Descarte de Experimentos, no Laboratório Abandonado de Amicitia 1º Andar Laboratório Central e no 2º Andar Sala de Cultivo Intensivo de Homúnculos.\n\n\t\t<TIPBOX>>Nível de Arma/Armadura<INFO>113</INFO></TIPBOX>\n\t\t<TIPBOX>>Sistema de Aprimoramento de Grau<INFO>111</INFO></TIPBOX>\n\t\t<TIPBOX>>Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[64] = {
+		Title = "Inventário: Itens#bolsa",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00064",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"Os itens obtidos podem ser armazenados no inventário. Você pode verificar o inventário pressionando ALT+E.\n\t\t\t\tVocê pode carregar até 100 itens dentro do limite de Weight (peso).\n\t\t\t\t<TIPBOX>>Itens<INFO>17</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>>Personagem: Weight (peso)<INFO>13</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>>Inventário: Expansão<INFO>65</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>>Inventário: Mover Aba Pessoal<INFO>195</INFO></TIPBOX>\n\t\t\t\t\\n<TIPBOX>>Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
 		}
 	}
 }

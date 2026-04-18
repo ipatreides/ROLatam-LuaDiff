@@ -28,10 +28,16 @@ CmdOnOffOderList = {
 	"/btg",
 	"/lightmap",
 	"/monsterhp",
+	"/cashshop",
+	"/goldpc",
+	"/roulette",
 	"/quake",
-	"/mable",
 	"/minimap",
-	"/zoom"
+	"/mineffect",
+	"/mable",
+	"/zoom",
+	"/emblem",
+	"/showshop"
 }
 CmdHelpList = {
 	["/battlemode"] = MsgStrID.MSI_BATTLEMODE,
@@ -65,10 +71,13 @@ CmdHelpList = {
 	["/btg"] = MsgStrID.MSI_BTG,
 	["/lightmap"] = MsgStrID.MSI_LIGHTMAP,
 	["/monsterhp"] = MsgStrID.MSI_MONSTERHP,
+	["/cashshop"] = MsgStrID.MSI_CASHSHOP_BTN_ONOFF,
+	["/goldpc"] = MsgStrID.MSI_GOLDPCCAFE_BTN_ONOFF,
+	["/roulette"] = MsgStrID.MSI_ROULETTE_BTN_ONOFF,
 	["/quake"] = MsgStrID.MSI_QUAKE_EFFECT_ONOFF,
 	["/mable"] = MsgStrID.MSI_SPRITEMABLE_ONOFF,
 	["/zoom"] = MsgStrID.MSI_EXPAND_SIGHT,
-	["/minimap"] = MsgStrID.MSI_MINIMAP_BUTTON_ONOFF,
+	["/call"] = MsgStrID.MSI_CALL_COMMAND_ONOFF,
 	["/hi"] = MsgStrID.MSI_HI,
 	["/blacksmith"] = MsgStrID.MSI_BLACKSMITH,
 	["/alchemist"] = MsgStrID.MSI_ALCHEMIST,
@@ -89,5 +98,7 @@ CmdHelpList = {
 	["/inall"] = MsgStrID.MSI_INALL,
 	["/exall"] = MsgStrID.MSI_EXALL,
 	["/pvpinfo"] = MsgStrID.MSI_PVPINFO,
-	["/hunting"] = MsgStrID.MSI_HUNTING
+	["/hunting"] = MsgStrID.MSI_HUNTING,
+	["/minimap"] = MsgStrID.MSI_MINIMAP_BUTTON_ONOFF,
+	["/mineffect"] = MsgStrID.MSI_MINEFFECT_ONOFF
 }

@@ -3,7 +3,7 @@
         "ko": "- 모로크로 돌아갈까? -",
         "en": "- Shall we return to Morroc? -",
         "pt": "- Vamos voltar para Morroc? -",
-        "es": "- ¿Vamos volver a Morroc?"
+        "es": "- ¿Vamos a volver a Morroc?"
     },
     "gSy1DA": {
         "ko": "모로크로!",
@@ -43,9 +43,9 @@
     },
     "hyy1DA": {
         "ko": "[진페이]\n형님.\n괴수들 상태가 이상해.",
-        "en": "[Jinpei]\nBoss.\nSomething's wrong with the monsters.",
-        "pt": "[Jinpei]\nChefe.\nTem alguma coisa errada com os monstros.",
-        "es": "[Jinpei]\nJefe.\nHay algo raro con los monstruos."
+        "en": "[Jinpei]\nBig brother.\nSomething's wrong with the monsters.",
+        "pt": "[Jinpei]\nIrmãozão.\nTem alguma coisa errada com os monstros.",
+        "es": "[Jinpei]\nHermano.\nHay algo raro con los monstruos."
     },
     "iCy1DA": {
         "ko": "[켄]\n오늘도 갤랙터의 괴수들이 바글바글하군.",
@@ -181,9 +181,9 @@
     },
     "niy1DA": {
         "ko": "[진페이]\n갤랙터 군단이 제멋대로 굴게 놔둘 수는 없지!\n어서 없애버리자!",
-        "en": "[Jinpei]\nWe can't let the Galactor Corps do whatever they want!\nLet's get rid of them now!",
-        "pt": "[Jinpei]\nNão podemos deixar a Galactor Corp fazer o que quiser!\nVamos acabar com eles!",
-        "es": "[Jinpei]\n¡No podemos dejar que Galactor Corp haga lo que quiera!\n¡Acabemos con ellos!"
+        "en": "[Jinpei]\nWe can't let Galactor do whatever they want!\nLet's get rid of them now!",
+        "pt": "[Jinpei]\nNão podemos deixar a Galactor fazer o que quiser!\nVamos acabar com eles!",
+        "es": "[Jinpei]\n¡No podemos dejar que Galactor haga lo que quiera!\n¡Acabemos con ellos!"
     },
     "nyy1DA": {
         "ko": "베르크 캇셰",
@@ -195,7 +195,7 @@
         "ko": "[갤랙터 병사]\n베르크 캇셰님!\n괴수들의 상태가 조금 이상한 것 같습니다.",
         "en": "[Galactor Soldier]\nLord Berg Katse!\nThe monsters seem to be acting a bit strange.",
         "pt": "[Soldado da Galactor]\nSr. Berg Katse!\nOs monstros parecem estar se comportando estranhamente.",
-        "es": "[Soldado de Galactor]\n¡Sr. Berg Katse!\nLos monstruos parecen estar comportándose de manera extraña."
+        "es": "[Soldado de Galactor]\n¡Lord Berg Katse!\nLos monstruos parecen estar comportándose de manera extraña."
     },
     "oSy1DA": {
         "ko": "[베르크 캇셰]\n뭐라?!",
@@ -219,7 +219,7 @@
         "ko": "[갤랙터 병사]\n넵!",
         "en": "[Galactor Soldier]\nYes sir!",
         "pt": "[Soldado da Galactor]\nSim, senhor!",
-        "es": "[Soldado de Galactor]\n¡Sí, señor!"
+        "es": "[Soldado de Galactor]\n¡Sí, mi Lord!"
     },
     "pSy1DA": {
         "ko": "[베르크 캇셰]\n흐음 이상하군…\n괴수들이 아무런 신호 없이 밖으로 빠져나가지는 않았을 텐데.\n포탈 장치를 작동해서 문을 일단 닫아둬야겠어.",
@@ -231,7 +231,7 @@
         "ko": "[쥰]\n큰일이야!\n베르크 캇셰가 장치를 사용해 문을 닫아버린다면 우린 여기에 갇혀버릴 거야!",
         "en": "[Jun]\nThis is bad!\nIf Berg Katse uses the device and closes the door, we'll be trapped here!",
         "pt": "[Jun]\nIsso é péssimo!\nSe o Berg Katse usar o dispositivo para fechar a porta, vamos ficar presos aqui!",
-        "es": "[Jun]\n¡Esto es terrible!\nSi Berg Katse usa el dispositivo para cerrar la puerta, ¡nos quedaremos atrapados aquí!"
+        "es": "[Jun]\n¡Esto es terrible!\n¡Si Berg Katse usa el dispositivo para cerrar la puerta, nos quedaremos atrapados aquí!"
     },
     "pyy1DA": {
         "ko": "[켄]\n일단 캇셰를 쫓아가자.\n들키지 않도록 조심해.",
@@ -247,7 +247,7 @@
     },
     "qSy1DA": {
         "ko": "[베르크 캇셰]\n또 그놈들 짓인가?\n포탈 장치를 확인해 봐야겠어.",
-        "en": "[Berg Katse]\nIs it those brats' acting out again?\nI'd better check the portal device.",
+        "en": "[Berg Katse]\nIs it those brats acting out again?\nI'd better check the portal device.",
         "pt": "[Berg Katse]\nAqueles fedelhos continuam me atrapalhando?\nVou ter que verificar o dispositivo do portal.",
         "es": "[Berg Katse]\n¿Esos mocosos siguen molestando?\nTendré que revisar el dispositivo del portal."
     },
@@ -349,9 +349,9 @@
     },
     "uiy1DA": {
         "ko": "[베르크 캇셰]\n아닛!!\n너희들은!!\n독수리 오형제!!!",
-        "en": "[Berg Katse]\nNo!!\nIt's you again!!\nNinja Team!!!",
-        "pt": "[Berg Katse]\nAh, não!\nVocês outra vez?!\nNinja Team?",
-        "es": "[Berg Katse]\n¡Ay, no!\n¿Ustedes otra vez?\n¡¡¡Equipo Ninja!!!"
+        "en": "[Berg Katse]\nNo!!\nIt's you again!!\nThe Science Ninja Team!!!",
+        "pt": "[Berg Katse]\nAh, não!\nVocês outra vez?!\nO Science Ninja Team?",
+        "es": "[Berg Katse]\n¡Ay, no!\n¿Ustedes otra vez?\n¡¡¡EQUIPO NINJA!!!"
     },
     "uyy1DA": {
         "ko": "[베르크 캇셰]\n또 방해할 셈이냐!!!\n아니지 마침 잘됐어.\n이 기회에 이곳에 영원히 가둬주마!!!",
@@ -373,9 +373,9 @@
     },
     "viy1DA": {
         "ko": "[베르크 캇셰]\n안돼!!!\n무슨 짓을 하는 거냐!\n용서 못 해 독수리 오형제!!",
-        "en": "[Berg Katse]\nNo!!!\nWhat do you think you're doing!?\nI won't forgive you for this, Ninja Team!!",
-        "pt": "[Berg Katse]\nAh, não!\nO que você está fazendo?!\nNunca vou perdoar vocês por isso, Ninja Team!",
-        "es": "[Berg Katse]\n¡Ay, no!\n¿Qué estás haciendo?\n¡Nunca los perdonaré por esto, Equipo Ninja!"
+        "en": "[Berg Katse]\n No!!!\n What do you think you're doing!?\n I won't forgive you for this, Gatchaman!!",
+        "pt": "[Berg Katse]\n Ah, não!\n O que você está fazendo?!\n Nunca vou perdoar vocês por isso, Gatchaman!",
+        "es": "[Berg Katse]\n ¡¡Nooo!!\n ¿Qué están haciendo?\n ¡Nunca los perdonaré por esto, Gatchaman!"
     },
     "vyy1DA": {
         "ko": "[베르크 캇셰]\n뭣들 하고 있어!\n다들 공격해라!!!",
@@ -399,7 +399,7 @@
         "ko": "[쥰]\n다들 베르크 캇셰를 잡아!!!",
         "en": "[Jun]\nEveryone, capture Berg Katse!!!",
         "pt": "[Jun]\nVamos juntos capturar o Berg Katse!",
-        "es": "[Jun]\n¡Vamos juntos a capturar al Berg Katse!"
+        "es": "[Jun]\n¡Capturemos a Berg Katse!"
     },
     "wyy1DA": {
         "ko": "[베르크 캇셰]\n크읏!!! 내가 간단히 물러날 줄 아느냐!!",
@@ -495,7 +495,7 @@
         "ko": "[긴급]변칙 균열 조사관",
         "en": "Anomaly Fissure Investigator",
         "pt": "Detetive da Fenda Anômala",
-        "es": "Detective da Fenda Anómala"
+        "es": "Detective de la Grieta Anómala"
     },
     "0yy1DA": {
         "ko": "괴수 갤래링",
@@ -507,7 +507,7 @@
         "ko": "[켄]\n포탈 기계는 고장 냈지만 베르크 캇셰가 지구로 가는 포탈 앞을 거대한 문으로 막아놨어.",
         "en": "[Ken]\nWe broke the portal machine, but Berg Katse blocked the portal to Earth with a massive door.",
         "pt": "[Ken]\nNós quebramos a máquina do portal, mas o Berg Katse bloqueou o portal para a Terra com uma porta imensa.",
-        "es": "[Ken]\nRompimos la máquina del portal, pero Berg Katse bloqueó el portal a la Tierra con una puerta enorme."
+        "es": "[Ken]\nDestruimos la máquina del portal, pero Berg Katse bloqueó el portal a la Tierra con una puerta enorme."
     },
     "1Sy1DA": {
         "ko": "[죠]\n분하다.",
@@ -543,7 +543,7 @@
         "ko": "[죠]\n우리의 전투기 갓 피닉스에 장착된 강력한 미사일이다.\n이런 문쯤은 한방에 박살 낼 수 있을 텐데.",
         "en": "[Joe]\nIt's a powerful missile mounted on our fighter, God Phoenix.\nA door like this would be destroyed in one shot.",
         "pt": "[Joe]\nÉ um supermíssil disparado pelo nosso caça, o Deus Fênix.\nUma porta como essa seria pulverizada com um só tiro.",
-        "es": "[Joe]\nEs un poderoso misil lanzado por nuestro caza, el Dios Fénix.\nUna puerta como esa quedaría pulverizada con un solo disparo."
+        "es": "[Joe]\nEs un poderoso misil lanzado por nuestra nave, el Dios Fénix.\nUna puerta como esa quedaría pulverizada con un solo disparo."
     },
     "2yy1DA": {
         "ko": "[죠]\n지금 우리 힘만으로는 이 문을 부수기 힘들 것 같군.",
@@ -573,7 +573,7 @@
         "ko": "[[긴급]변칙 균열 조사관]\n조금 시간이 걸릴지 모르겠지만 집으로 돌아갈 방법을 같이 생각해 보죠.\n자 그럼 밖으로 나갑니다!",
         "en": "[Anomaly Fissure Investigator]\nIt might take some more time, but we'll think of a way to get you home together.\nAlright then, let's head outside!",
         "pt": "[Detetive da Fenda Anômala]\nTalvez leve algum tempo, mas vamos descobrir um jeito de levar vocês para casa.\nAgora vamos sair!",
-        "es": "[Detective de la Grieta Anómala]\nPor ahí nos lleve algún tiempo, pero encontraremos la manera de llevarlos a casa.\n¡Ahora vamos a salir!"
+        "es": "[Detective de la Grieta Anómala]\nTal vez nos tome algún tiempo, pero encontraremos la manera de llevarlos a casa.\n¡Vamos, salgamos de aquí!"
     },
     "4Cy1DA": {
         "ko": "[켄]\n포탈 기계는 고장 냈지만 지구로 가는 포탈 앞은 여전히 막혀있어.",
@@ -585,6 +585,6 @@
         "ko": "[[긴급]변칙 균열 조사관]\n아!\n시간이… 안정화로 이 던전을 유지할 수 있는 시간이 곧 끝날 거예요.\n자 그럼 밖으로 나갑니다!",
         "en": "[Anomaly Fissure Investigator]\nAh!\nThe time we can maintain this dungeon with Stabilization will end soon.\nAlright then, let's head outside!",
         "pt": "[Detetive da Fenda Anômala]\nTalvez leve algum tempo, mas vamos descobrir um jeito de levar vocês para casa.\nAgora vamos sair daqui!",
-        "es": "[Detective de la Grieta Anómala]\nPor ahí nos lleve algún tiempo, pero encontraremos la manera de llevarlos a casa.\n¡Ahora vamos a salir!"
+        "es": "[Detective de la Grieta Anómala]\nTal vez nos tome algún tiempo, pero encontraremos la manera de llevarlos a casa.\n¡Vamos, salgamos de aquí!"
     }
 }

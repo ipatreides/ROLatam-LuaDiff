@@ -1,0 +1,374 @@
+{
+    "IBSSDA": {
+        "ko": "후레드릭",
+        "en": "Fredrik",
+        "pt": "Frederick",
+        "es": "Fredrik"
+    },
+    "IRSSDA": {
+        "ko": "<대장장이>",
+        "en": "<Blacksmith>",
+        "pt": "<Ferreiro>",
+        "es": "<Herrero>"
+    },
+    "IhSSDA": {
+        "ko": "[후레드릭 헤르만쏜]\n나는 무기 또는 방어구를 제련하는 대장장이로 자네가 장착하고 있는 아이템중에 원하는걸 제련할 수 있다네.\n어느 장비아이템을 제련하고 싶나?",
+        "en": "[Fredrik Hermanthorn]\nI'm a blacksmith specialized in refining weapons and armor. If you want, I can refine the items you're equipped with.\nWhich Equipment item do you want to refine?",
+        "pt": "[Frederick Hermanson]\nSou um ferreiro que refina armas e armaduras, e posso refinar qualquer item que você esteja equipando.\nQual equipamento você quer refinar?",
+        "es": "[Fredrik Hermanson]\nSoy un herrero que refina armas y armaduras, y puedo refinar cualquier objeto que tengas equipado.\n¿Qué objeto de equipo quieres refinar?"
+    },
+    "IxSSDA": {
+        "ko": "제노폰",
+        "en": "Xenophon",
+        "pt": "Xenofonte",
+        "es": "Xenofón"
+    },
+    "JBSSDA": {
+        "ko": "<제련물품 담당>",
+        "en": "<Refining Supply Seller>",
+        "pt": "<Responsável por itens de fundição>",
+        "es": "<Responsable de materiales de fundición>"
+    },
+    "JRSSDA": {
+        "ko": "[제노폰]\n제련에 사용되는 여러가지 제련용 광석을 판매, 교환해드리고 있습니다.",
+        "en": "[Xenophon]\nI sell and exchange various refining ores used in smelting.",
+        "pt": "[Xenofonte]\nVendo e troco vários tipos de minérios usados na fundição.",
+        "es": "[Zenofón]\nVendo y cambio varios minerales que se usan para la fundición."
+    },
+    "JhSSDA": {
+        "ko": "기초 제련용 광석 보기",
+        "en": "Basic Refining Ores",
+        "pt": "Ver minérios básicos para fundição",
+        "es": "Ver minerales básicos para forja"
+    },
+    "JxSSDA": {
+        "ko": "상급 제련용 광석 보기",
+        "en": "Advanced Refining Ores",
+        "pt": "Ver minérios de refinação avançados",
+        "es": "Ver minerales de forja avanzados"
+    },
+    "KBSSDA": {
+        "ko": "에테르 제련용 광석 보기",
+        "en": "View Ether Refining Ores",
+        "pt": "Ver minérios para refinação de éter",
+        "es": "Ver minerales para la fundición de éter"
+    },
+    "KRSSDA": {
+        "ko": "취소",
+        "en": "Cancel",
+        "pt": "Cancelar",
+        "es": "Cancelar"
+    },
+    "KhSSDA": {
+        "ko": "[제노폰]\n낮은 레벨의 무기를 제련할 때 사용하는 프라콘과 엠베르타콘이 준비되어 있습니다.",
+        "en": "[Xenophon]\nPhracons and Emveretarcons, used to refine low-level weapons, are ready.",
+        "pt": "[Zenofon]\nTemos Fracon e Embertacon disponíveis para refinar armas de nível baixo.",
+        "es": "[Zenofon]\nTenemos disponibles pracon y embertacon, que se usan para refinar armas de bajo nivel."
+    },
+    "KxSSDA": {
+        "ko": "[제노폰]\n에르늄 원석이나 오리데오콘 원석을 가공하거나, 브라디움이나 카르늄으로 교환해드리고 있습니다.",
+        "en": "[Xenophon]\nI can process Rough Eluniums and Oridecons or exchange them for Bradiums and Carniums.",
+        "pt": "[Zenofon]\nEstamos processando minérios de Ernium ou Orideocon, ou trocando-os por Bradium ou Carium.",
+        "es": "[Zenofón]\nTe ofrecemos procesar minerales de ernio o orideocón, o cambiarlos por bradio o carnio."
+    },
+    "LBSSDA": {
+        "ko": "[제노폰]\n기존 제련용 광석에 에텔 더스트를 더해, 에테르가 깃든 제련 광석으로 교환해드리고 있습니다.",
+        "en": "[Xenophon]\nI can create Ether refining ores by combining the existing refining ores with Ether Dust.",
+        "pt": "[Zenofon]\nAdicionamos Pó de Éter aos minérios de refinação existentes e trocamos por minérios de refinação imbuídos de Éter.",
+        "es": "[Zenofón]\nTe ofrecemos cambiar los minerales de refinado que ya tienes por minerales de refinado imbuidos de éter, añadiéndoles polvo de éter."
+    },
+    "LRSSDA": {
+        "ko": "[제노폰]\n제련에 사용되는 재료가 부족하면 언제든 오십시오.",
+        "en": "[Xenophon]\nIf you ever run low on refining materials, feel free to come by anytime.",
+        "pt": "[Xenofon]\nSe estiver faltando algum material para a fundição, vem aqui quando quiser.",
+        "es": "[Xenofón]\nSi te faltan materiales para la fundición, ven cuando quieras."
+    },
+    "LhSSDA": {
+        "ko": "홀그렌",
+        "en": "Hollgrehenn",
+        "pt": "Holgren",
+        "es": "Holgren"
+    },
+    "LxSSDA": {
+        "ko": "[홀그렌]\n나는 무기와 방어구를 제련하는 대장장이라네\n자네가 장착하고 있는 아이템중에 원하는걸 제련할 수 있다네.\n어느 장비아이템을 제련하고 싶나?",
+        "en": "[Hollgrehenn]\nI'm a blacksmith specialized in refining weapons and armor.\nIf you want, I can refine the items you're equipped with.\nWhich equipment do you want to refine?",
+        "pt": "[Holgren]\nSou um ferreiro que funde armas e armaduras.\nPosso fundir qualquer item que você esteja equipando.\nQual equipamento você quer fundir?",
+        "es": "[Holgren]\nSoy un herrero que refina armas y armaduras.\nPuedo refinar cualquier objeto que tengas equipado.\n¿Qué objeto de equipo quieres refinar?"
+    },
+    "MBSSDA": {
+        "ko": "디트리히",
+        "en": "Dietrich",
+        "pt": "Dietrich",
+        "es": "Dietrich"
+    },
+    "MRSSDA": {
+        "ko": "[디트리히]\n제련에 사용되는 여러가지 제련용 광석을 판매, 교환해드리고 있습니다.",
+        "en": "[Dietrich]\nI sell and exchange various refining ores used for smelting.",
+        "pt": "[Dietrich]\nEstou vendendo e trocando vários tipos de minérios de refinação usados no processo.",
+        "es": "[Dietrich]\nVendo y cambio varios minerales de refinería que se usan para la refinería."
+    },
+    "MhSSDA": {
+        "ko": "[디트리히]\n낮은 레벨의 무기를 제련할 때 사용하는 프라콘과 엠베르타콘이 준비되어 있습니다.",
+        "en": "[Dietrich]\nI have Phracons and Emveretarcons used to refine low-leveled weapons.",
+        "pt": "[Dietrich]\nTemos Fracon e Embertacon, usados para forjar armas de nível baixo.",
+        "es": "[Dietrich]\nTengo disponibles el Pracon y el Embertacon, que se usan para refinar armas de bajo nivel."
+    },
+    "MxSSDA": {
+        "ko": "[디트리히]\n에르늄 원석이나 오리데오콘 원석을 가공하거나, 브라디움이나 카르늄으로 교환해드리고 있습니다.",
+        "en": "[Dietrich]\nI can process Rough Eluniums and Oridecons or exchange them for Bradiums and Carniums.",
+        "pt": "[Dietrich]\nProcessamos minérios de Ernium ou Orideocon, ou os trocamos por Bradium ou Carium.",
+        "es": "[Dietrich]\nProcesamos minerales de ernio y orideocón, o los cambiamos por bradio y carnio."
+    },
+    "NBSSDA": {
+        "ko": "[디트리히]\n기존 제련용 광석에 에텔 더스트를 더해, 에테르가 깃든 제련 광석으로 교환해드리고 있습니다.",
+        "en": "[Dietrich]\nI can create Ether refining ores by combining existing refining ores with Ether Dust.",
+        "pt": "[Dietrich]\nAdicionamos Pó de Éter aos minérios de fundição existentes e os trocamos por minérios de fundição imbuídos de Éter.",
+        "es": "[Dietrich]\nAñadimos polvo de éter a los minerales de fundición existentes y te los cambiamos por minerales de fundición imbuidos de éter."
+    },
+    "NRSSDA": {
+        "ko": "[디트리히]\n제련에 사용되는 재료가 부족하면 언제든 오십시오.",
+        "en": "[Dietrich]\nIf you ever run low on refining materials, feel free to come by anytime.",
+        "pt": "[Dietrich]\nSe estiver faltando algum material para a fundição, vem aqui quando quiser.",
+        "es": "[Dietrich]\nSi te faltan materiales para la fundición, ven cuando quieras."
+    },
+    "NhSSDA": {
+        "ko": "아라감",
+        "en": "Aragham",
+        "pt": "Aragam",
+        "es": "Aragam"
+    },
+    "NxSSDA": {
+        "ko": "[아라감 쌀레]\n사~ 막의 대장장이~\n아라감 쌀레~ 무엇이든 제련하는 쌀레~\n그대는 무엇을 제련하러 왔을까?",
+        "en": "[Aragham Saleh]\nThe blacksmith of the desert~\nAragham Saleh~ Saleh who refines anything~\nWhat have you come to refine?",
+        "pt": "[Aragam Sale]\nO ferreiro do Sa~ Mak~\nAragam Sale~ O Sale que funde qualquer coisa~\nO que você veio fundir?",
+        "es": "[Aragam Sale]\nEl herrero del desierto~\nAragam Sale~ Sale, que refina cualquier cosa~\n¿Qué has venido a refinar?"
+    },
+    "OBSSDA": {
+        "ko": "압둘라",
+        "en": "Abdullah",
+        "pt": "Abdullah",
+        "es": "Abdullah"
+    },
+    "ORSSDA": {
+        "ko": "[압둘라]\n제련에 사용되는 여러가지 제련용 광석을 판매, 교환해드리고 있습니다.",
+        "en": "[Abdullah]\nI sell and exchange various refining ores used in smelting.",
+        "pt": "[Abdullah]\nEstou vendendo e trocando vários tipos de minério de fundição usados na fundição.",
+        "es": "[Abdullah]\nVendo y cambio varios tipos de minerales de fundición que se usan para fundir."
+    },
+    "OhSSDA": {
+        "ko": "[압둘라]\n낮은 레벨의 무기를 제련할 때 사용하는 프라콘과 엠베르타콘이 준비되어 있습니다.",
+        "en": "[Abdullah]\nI have Phracons and Emveretarcons used to refine low-leveled weapons.",
+        "pt": "[Abdullah]\nTemos 프라콘 e 엠베르타콘, usados para fundir armas de nível baixo.",
+        "es": "[Abdullah]\nTenemos disponibles el pracon y el embertacon, que se usan para forjar armas de bajo nivel."
+    },
+    "OxSSDA": {
+        "ko": "[압둘라]\n에르늄 원석이나 오리데오콘 원석을 가공하거나, 브라디움이나 카르늄으로 교환해드리고 있습니다.",
+        "en": "[Abdullah]\nI can process Rough Eluniums and Oridecons or exchange them for Bradiums and Carniums.",
+        "pt": "[Abdullah]\nProcessamos minérios de Ernium ou Orideocon, ou trocamos por Bradium ou Carium.",
+        "es": "[Abdullah]\nProcesamos minerales de ernio y orideocón, o los cambiamos por bradio y carnio."
+    },
+    "PBSSDA": {
+        "ko": "[압둘라]\n기존 제련용 광석에 에텔 더스트를 더해, 에테르가 깃든 제련 광석으로 교환해드리고 있습니다.",
+        "en": "[Abdullah]\nI can create Ether refining ores by combining existing refining ores with Ether Dust.",
+        "pt": "[Abdullah]\nAdicionamos Pó de Éter aos minérios de fundição existentes e os trocamos por minérios de fundição imbuídos de Éter.",
+        "es": "[Abdullah]\nSi le agregas polvo de éter a los minerales de fundición que ya tienes, te los cambio por minerales de fundición imbuidos de éter."
+    },
+    "PRSSDA": {
+        "ko": "[압둘라]\n제련에 사용되는 재료가 부족하면 언제든 오십시오.",
+        "en": "[Abdullah]\nIf you ever run low on refining materials, feel free to come by anytime.",
+        "pt": "[Abdullah]\nSe estiver faltando algum material para a fundição, vem aqui quando quiser.",
+        "es": "[Abdullah]\nSi te faltan materiales para la fundición, ven cuando quieras."
+    },
+    "PhSSDA": {
+        "ko": "안토니오",
+        "en": "Antonio",
+        "pt": "Antonio",
+        "es": "Antonio"
+    },
+    "PxSSDA": {
+        "ko": "[안토니오]\n왔으면 잔말말고 제련할 장비나 내놓아.",
+        "en": "[Antonio]\nIf you're here, stop talking and just bring out the refining equipment.",
+        "pt": "[Antonio]\nJá que vieste, não enrola e mostra o equipamento de fundição.",
+        "es": "[Antonio]\nYa que viniste, no te andes con rodeos y sacá el equipo de fundición."
+    },
+    "QBSSDA": {
+        "ko": "하킴",
+        "en": "Hakim",
+        "pt": "Hakim",
+        "es": "Hakim"
+    },
+    "QRSSDA": {
+        "ko": "[하킴]\n제련에 사용되는 여러가지 제련용 광석을 판매, 교환해드리고 있습니다.",
+        "en": "[Hakim]\nI sell and exchange various refining ores used in smelting.",
+        "pt": "[Hakim]\nEstou vendendo e trocando vários tipos de minério de fundição usados na fundição.",
+        "es": "[Hakim]\nVendo y cambio varios tipos de minerales de fundición que se usan para fundir."
+    },
+    "QhSSDA": {
+        "ko": "[하킴]\n낮은 레벨의 무기를 제련할 때 사용하는 프라콘과 엠베르타콘이 준비되어 있습니다.",
+        "en": "[Hakim]\nI have Phracons and Emveretarcons used to refine low-leveled weapons.",
+        "pt": "[Hakim]\nTemos Fracon e Embertacon, usados para refinar armas de nível baixo.",
+        "es": "[Hakim]\nTenemos disponibles el Pracon y el Embertacon, que se usan para refinar armas de bajo nivel."
+    },
+    "QxSSDA": {
+        "ko": "[하킴]\n에르늄 원석이나 오리데오콘 원석을 가공하거나, 브라디움이나 카르늄으로 교환해드리고 있습니다.",
+        "en": "[Hakim]\nI can process Rough Eluniums and Oridecons or exchange them for Bradiums and Carniums.",
+        "pt": "[Hakim]\nProcessamos minérios de Ernium ou Orideocon, ou trocamos por Bradium ou Carium.",
+        "es": "[Hakim]\nProcesamos minerales de ernio y orideocón, o los cambiamos por bradio y carnio."
+    },
+    "RBSSDA": {
+        "ko": "[하킴]\n기존 제련용 광석에 에텔 더스트를 더해, 에테르가 깃든 제련 광석으로 교환해드리고 있습니다.",
+        "en": "[Hakim]\nI can create Ether refining ores by combining existing refining ores with Ether Dust.",
+        "pt": "[Hakim]\nAdicionamos Pó de Éter aos minérios de fundição existentes e trocamos por minérios de fundição imbuídos de Éter.",
+        "es": "[Hakim]\nAñadimos polvo de éter a los minerales de fundición existentes para cambiarlos por minerales de fundición imbuidos de éter."
+    },
+    "RRSSDA": {
+        "ko": "[하킴]\n제련에 사용되는 재료가 부족하면 언제든 오십시오.",
+        "en": "[Hakim]\nIf you ever run low on refining materials, feel free to come by anytime.",
+        "pt": "[Hakim]\nSe estiver faltando algum material para a fundição, vem aqui quando quiser.",
+        "es": "[Hakim]\nSi te faltan materiales para la fundición, ven cuando quieras."
+    },
+    "RhSSDA": {
+        "ko": "디스터브",
+        "en": "Disturb",
+        "pt": "Disturb",
+        "es": "Disturb"
+    },
+    "RxSSDA": {
+        "ko": "[디스터브]\n어서... 오세요. 유노... 제일의 대장간...입니다.",
+        "en": "[Disturb]\nCome... in. This is Juno's... finest forge...",
+        "pt": "[Disturb]\nVenha... entre. Esta é a... melhor forja... de Yuno.",
+        "es": "[Disturb]\nAdelante... bienvenido. Esta es... la mejor herrería... de Yuno."
+    },
+    "SBSSDA": {
+        "ko": "딜레잇",
+        "en": "Delight",
+        "pt": "Delight",
+        "es": "Delight"
+    },
+    "SRSSDA": {
+        "ko": "[딜레잇]\n제련에 사용되는 여러가지 제련용 광석을 판매, 교환해드리고 있습니다.",
+        "en": "[Delight]\nI sell and exchange various refining ores used for smelting.",
+        "pt": "[Delight]\nVendo e troco vários tipos de minério de fundição usados na fundição.",
+        "es": "[Delight]\nVendemos y cambiamos varios tipos de minerales de fundición que se usan para la fundición."
+    },
+    "ShSSDA": {
+        "ko": "[딜레잇]\n낮은 레벨의 무기를 제련할 때 사용하는 프라콘과 엠베르타콘이 준비되어 있습니다.",
+        "en": "[Delight]\nI have Phracons and Emveretarcons used to refine low-leveled weapons.",
+        "pt": "[Delight]\nTemos Fracon e Embertacon, usados na fundição de armas de nível baixo.",
+        "es": "[Delight]\nTenemos disponibles el Pracon y el Embertacon, que se usan para refinar armas de bajo nivel."
+    },
+    "SxSSDA": {
+        "ko": "[딜레잇]\n에르늄 원석이나 오리데오콘 원석을 가공하거나, 브라디움이나 카르늄으로 교환해드리고 있습니다.",
+        "en": "[Delight]\nI can process Rough Eluniums and Oridecons or exchange them for Bradiums and Carniums.",
+        "pt": "[Delight]\nProcessamos minérios de Ernium ou Orideocon, ou trocamos por Bradium ou Carium.",
+        "es": "[Delight]\nProcesamos minerales de ernio y orideocón, o los cambiamos por bradio y carnio."
+    },
+    "TBSSDA": {
+        "ko": "[딜레잇]\n기존 제련용 광석에 에텔 더스트를 더해, 에테르가 깃든 제련 광석으로 교환해드리고 있습니다.",
+        "en": "[Dilleit]\nI can create Ether refining ores by combining the existing refining ores with Ether Dust.",
+        "pt": "[Delight]\nAdicionamos Pó de Éter aos minérios de fundição existentes e os trocamos por minérios de fundição imbuídos de Éter.",
+        "es": "[Delight]\nAñadimos polvo de éter a los minerales de fundición existentes y los cambiamos por minerales de fundición imbuidos de éter."
+    },
+    "TRSSDA": {
+        "ko": "[딜레잇]\n제련에 사용되는 재료가 부족하면 언제든 오십시오.",
+        "en": "[Delight]\nIf you ever run low on refining materials, feel free to come by anytime.",
+        "pt": "[Delight]\nSe estiver faltando algum material para a fundição, vem aqui quando quiser.",
+        "es": "[Delight]\nSi te faltan materiales para la fundición, ven cuando quieras."
+    },
+    "ThSSDA": {
+        "ko": "만타스만",
+        "en": "Manthasman",
+        "pt": "Mantasman",
+        "es": "Mantasman"
+    },
+    "TxSSDA": {
+        "ko": "[만타스만 프루하그]\n헷헷헷, 다 알면서 그래, 제련하러 온거라고?\n오늘은 한번 아슬아슬하고 위험한 것에 도전해보자구.",
+        "en": "[Manthasman Pruhag]\nHeh heh heh. You know full well, don't you? You came to refine, didn't you?\nAlright, then let's try something risky and dangerous!",
+        "pt": "[Mantasman Pruhaag]\nHehehe, você sabe muito bem, né? Veio pra fundir?\nHoje vamos tentar algo arriscado e perigoso.",
+        "es": "[Mantasman Fruhag]\nJe, je, je, ya lo sé, ¿viste a fundir?\nHoy vamos a atrevernos con algo emocionante y peligroso."
+    },
+    "UBSSDA": {
+        "ko": "마티슈타인",
+        "en": "Matestein",
+        "pt": "Matishtein",
+        "es": "Matishtein"
+    },
+    "URSSDA": {
+        "ko": "[마티슈타인]\n제련에 사용되는 여러가지 제련용 광석을 판매, 교환해드리고 있습니다.",
+        "en": "[Matestein]\nI sell and exchange various refining ores used for smelting.",
+        "pt": "[Matishtein]\nVendo e troco vários tipos de minérios de fundição usados na fundição.",
+        "es": "[Matishtein]\nVendo y cambio varios tipos de minerales de refinería que se usan para la refinería."
+    },
+    "UhSSDA": {
+        "ko": "[마티슈타인]\n낮은 레벨의 무기를 제련할 때 사용하는 프라콘과 엠베르타콘이 준비되어 있습니다.",
+        "en": "[Matestein]\nI have Phracons and Emveretarcons used to refine low-leveled weapons.",
+        "pt": "[Matishtein]\nTemos Pracon e Embertacon, usados para refinar armas de nível baixo.",
+        "es": "[Matishtein]\nTenemos preparados el Pracon y el Embertacon, que se usan para refinar armas de bajo nivel."
+    },
+    "UxSSDA": {
+        "ko": "[마티슈타인]\n에르늄 원석이나 오리데오콘 원석을 가공하거나, 브라디움이나 카르늄으로 교환해드리고 있습니다.",
+        "en": "[Matistein]\nI can process Rough Eluniums and Oridecons or exchange them for Bradiums and Carniums.",
+        "pt": "[Matishtein]\nProcessamos minérios de Ernium ou Orideocon, ou trocamos por Bradium ou Carium.",
+        "es": "[Matishtein]\nProcesamos minerales de ernio y orideocón, o los cambiamos por bradio y carnio."
+    },
+    "VBSSDA": {
+        "ko": "[마티슈타인]\n기존 제련용 광석에 에텔 더스트를 더해, 에테르가 깃든 제련 광석으로 교환해드리고 있습니다.",
+        "en": "[Matistein]\nI can create Ether refining ores by combining existing refining ores with Ether Dust.",
+        "pt": "[Matishtein]\nAdicionamos Pó de Éter aos minérios de fundição existentes e os trocamos por minérios de fundição imbuídos de Éter.",
+        "es": "[Matishtein]\nAñadimos polvo de éter a los minerales de fundición existentes para cambiarlos por minerales de fundición imbuidos de éter."
+    },
+    "VRSSDA": {
+        "ko": "[마티슈타인]\n제련에 사용되는 재료가 부족하면 언제든 오십시오.",
+        "en": "[Matistein]\nIf you ever run low on refining materials, feel free to come by anytime.",
+        "pt": "[Matishtein]\nSe estiver faltando algum material para a fundição, vem aqui quando quiser.",
+        "es": "[Matishtein]\nSi te faltan materiales para la fundición, ven cuando quieras."
+    },
+    "VhSSDA": {
+        "ko": "풀러",
+        "en": "Fulerr",
+        "pt": "Fuller",
+        "es": "Fuller"
+    },
+    "VxSSDA": {
+        "ko": "[풀러]\n헤헷... 제련하시려구요?\n헤헷.. 뭐든 맡겨만 주십쇼..\n헤헷....",
+        "en": "[Fulerr]\nHeh heh... Do you want to refine something?\nHeh heh.. Just leave it to me..\nHeh heh....",
+        "pt": "[Fuller]\nHehe... Vais fundir?\nHehe... Deixa tudo comigo...\nHehe...",
+        "es": "[Fuller]\nJeje... ¿Vas a fundir?\nJeje... Déjame a mí todo lo que necesites...\nJeje..."
+    },
+    "WBSSDA": {
+        "ko": "프루일",
+        "en": "Fruel",
+        "pt": "Fruil",
+        "es": "Fruil"
+    },
+    "WRSSDA": {
+        "ko": "[프루일]\n제련에 사용되는 여러가지 제련용 광석을 판매, 교환해드리고 있습니다.",
+        "en": "[Fruel]\nI sell and exchange various refining ores used for smelting.",
+        "pt": "[Fruil]\nVendo e troco vários tipos de minério de fundição usados na fundição.",
+        "es": "[Fruil]\nVendo y cambio varios tipos de minerales de fundición que se usan para fundir."
+    },
+    "WhSSDA": {
+        "ko": "[프루일]\n낮은 레벨의 무기를 제련할 때 사용하는 프라콘과 엠베르타콘이 준비되어 있습니다.",
+        "en": "[Fruel]\nI have Phracons and Emveretarcons used to refine low-leveled weapons.",
+        "pt": "[Fruil]\nTemos Fracon e Embertacon, usados para refinar armas de nível baixo.",
+        "es": "[Fruil]\nTenemos disponibles el Pracon y el Embertacon, que se usan para refinar armas de bajo nivel."
+    },
+    "WxSSDA": {
+        "ko": "[프루일]\n에르늄 원석이나 오리데오콘 원석을 가공하거나, 브라디움이나 카르늄으로 교환해드리고 있습니다.",
+        "en": "[Fruel]\nI can process Rough Eluniums and Oridecons or exchange them for Bradiums and Carniums.",
+        "pt": "[Fruil]\nProcessamos minérios de Ernium ou Orideocon, ou trocamos por Bradium ou Carium.",
+        "es": "[Fruil]\nProcesamos minerales de ernio y orideocon, o los cambiamos por bradio y carnio."
+    },
+    "XBSSDA": {
+        "ko": "[프루일]\n기존 제련용 광석에 에텔 더스트를 더해, 에테르가 깃든 제련 광석으로 교환해드리고 있습니다.",
+        "en": "[Fruel]\nI can create Ether refining ores by combining existing refining ores with Ether Dust.",
+        "pt": "[Fruil]\nAdicionamos Pó de Éter aos minérios de fundição existentes e os trocamos por minérios de fundição imbuídos de Éter.",
+        "es": "[Fruil]\nAñadimos polvo de éter a los minerales de fundición existentes para cambiarlos por minerales de fundición imbuidos de éter."
+    },
+    "XRSSDA": {
+        "ko": "[프루일]\n제련에 사용되는 재료가 부족하면 언제든 오십시오.",
+        "en": "[Fruel]\nIf you ever run low on refining materials, feel free to come by anytime.",
+        "pt": "[Fruil]\nSe estiver faltando algum material para a fundição, vem aqui quando quiser.",
+        "es": "[Fruil]\nSi te faltan materiales para la fundición, ven cuando quieras."
+    }
+}

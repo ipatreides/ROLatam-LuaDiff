@@ -1,0 +1,260 @@
+{
+    "oMR/DA": {
+        "ko": "왕의 기사",
+        "en": "King's Knight",
+        "pt": "Cavaleiro do Rei",
+        "es": "Caballero del Rey"
+    },
+    "ocR/DA": {
+        "ko": "^FF0000대련에 참가하기 전에 가지고 있는 짐을 조금 덜어내도록 하여라.^000000",
+        "en": "^FF0000Lighten your load before joining the tourney.^000000",
+        "pt": "^FF0000Antes de participar do treino, tenta aliviar um pouco a carga que estás carregando.^000000",
+        "es": "^FF0000Antes de participar en el combate, aligera un poco tu equipaje.^000000"
+    },
+    "osR/DA": {
+        "ko": "[왕의 기사]\n시험의 대련장으로 온 것을 환영한다.",
+        "en": "[King's Knight]\nWelcome to the Hall of Trials.",
+        "pt": "[Cavaleiro do Rei]\nSeja bem-vindo ao local do duelo de teste.",
+        "es": "[Caballero del Rey]\nTe doy la bienvenida al campo de entrenamiento para la prueba."
+    },
+    "o8R/DA": {
+        "ko": "[왕의 기사]\n대련의 룰은 간단하다.",
+        "en": "[King's Knight]\nThe rules of this tourney are simple.",
+        "pt": "[Cavaleiro do Rei]\nAs regras do duelo são simples.",
+        "es": "[Caballero del Rey]\nLas reglas del combate son sencillas."
+    },
+    "pMR/DA": {
+        "ko": "[왕의 기사]\n일대일 승부이며 상대방을 쓰러뜨리는 쪽이 승리한다.",
+        "en": "[King's Knight]\nIt's a one-on-one battle, and whoever defeats their opponent wins.",
+        "pt": "[Cavaleiro do Rei]\nÉ uma luta um contra um, e quem derrubar o adversário vence.",
+        "es": "[Caballero del Rey]\nEs un combate uno contra uno, y gana quien derribe a su oponente."
+    },
+    "pcR/DA": {
+        "ko": "[왕의 기사]\n당신의 첫 번째 상대는 ^0000FF무장의 기사^000000.",
+        "en": "[King's Knight]\nYour first opponent is the ^0000FFKnight of Armament^000000.",
+        "pt": "[Cavaleiro do Rei]\nSeu primeiro adversário é o ^0000FFCavaleiro do Exército^000000.",
+        "es": "[El Caballero del Rey]\nTu primer rival es ^0000FFEl Caballero del Rey^000000."
+    },
+    "psR/DA": {
+        "ko": "[무장의 기사]\n역시 여기서 만나게 되는군요.",
+        "en": "[Knight of Armament]\nWe meet again, just as I expected.",
+        "pt": "[Cavaleiro do Exército]\nComo era de se esperar, acabamos nos encontrando aqui.",
+        "es": "[Caballero del Ejército]\nComo era de esperarse, nos encontramos aquí."
+    },
+    "p8R/DA": {
+        "ko": "[무장의 기사]\n같은 뜻을 가진 자들끼리 멋진 승부가 되었으면 좋겠습니다.",
+        "en": "[Knight of Armament]\nI hope this becomes a splendid contest between kindred spirits.",
+        "pt": "[Cavaleiro do Exército]\nEspero que seja uma bela batalha entre aqueles que compartilham os mesmos ideais.",
+        "es": "[Caballero del Ejército]\nEspero que sea una gran contienda entre quienes compartimos los mismos ideales."
+    },
+    "qMR/DA": {
+        "ko": "[왕의 기사]\n그럼 시작하도록 하지.",
+        "en": "[King's Knight]\nThen, let's get started.",
+        "pt": "[Cavaleiro do Rei]\nEntão vamos começar.",
+        "es": "[Caballero del Rey]\nEntonces, empecemos."
+    },
+    "qcR/DA": {
+        "ko": "[왕의 기사]\n좋은 승부가 되기를 바란다.",
+        "en": "[King's Knight]\nMay it be a good match.",
+        "pt": "[Cavaleiro do Rei]\nEspero que seja uma boa luta.",
+        "es": "[Caballero del Rey]\nEspero que sea un buen combate."
+    },
+    "qsR/DA": {
+        "ko": "무장의 기사",
+        "en": "Knight of Armament",
+        "pt": "Cavaleiro Armado",
+        "es": "Caballero Armado"
+    },
+    "q8R/DA": {
+        "ko": "[왕의 기사]\n대련을 마저 이어가도록 하지",
+        "en": "[King's Knight]\nLet's resume your match.",
+        "pt": "[Cavaleiro do Rei]\nVamos continuar a luta",
+        "es": "[Caballero del Rey]\nSigamos con el combate"
+    },
+    "rMR/DA": {
+        "ko": "[왕의 기사]\n승부에 집중하도록.",
+        "en": "[King's Knight]\nFocus on the match.",
+        "pt": "[Cavaleiro do Rei]\nConcentra-te na luta.",
+        "es": "[Caballero del Rey]\nConcéntrate en el combate."
+    },
+    "rcR/DA": {
+        "ko": "[왕의 기사]\n멋진 승부였다.",
+        "en": "[King's Knight]\nThat was a good fight.",
+        "pt": "[Cavaleiro do Rei]\nFoi uma bela luta.",
+        "es": "[Caballero del Rey]\nHa sido un combate genial."
+    },
+    "rsR/DA": {
+        "ko": "[왕의 기사]\n다음 상대는 ^0000FF헌신의 기사^000000.",
+        "en": "[King's Knight]\nYour next opponent is the ^0000FFKnight of Devotion^000000.",
+        "pt": "[Cavaleiro do Rei]\nO próximo adversário é o ^0000FFCavaleiro da Dedicação^000000.",
+        "es": "[Caballero del Rey]\nTu próximo rival es ^0000FFEl Caballero de la Devoción^000000."
+    },
+    "r8R/DA": {
+        "ko": "[헌신의 기사]\n여기서 만나게 되는군요.",
+        "en": "[Knight of Devotion]\nWe meet here.",
+        "pt": "[Cavaleiro da Dedicação]\nEntão nos encontramos aqui.",
+        "es": "[Caballero de la Devoción]\nAsí que nos encontramos aquí."
+    },
+    "sMR/DA": {
+        "ko": "[헌신의 기사]\n저의 정의를 위해서라도 절대로 지지 않겠습니다.",
+        "en": "[Knight of Devotion]\nI will not lose, for the sake of my justice.",
+        "pt": "[Cavaleiro da Dedicação]\nMesmo que seja pela minha justiça, não vou perder de jeito nenhum.",
+        "es": "[Caballero de la Devoción]\nPor mi propio sentido de la justicia, no voy a perder bajo ningún concepto."
+    },
+    "scR/DA": {
+        "ko": "[왕의 기사]\n이 대련에서 승리하는 자에게 임페리얼 가드의 칭호를 하사하도록 하겠다.",
+        "en": "[King's Knight]\nWhoever wins this match will earn the title of Imperial Guard.",
+        "pt": "[Cavaleiro do Rei]\nConcederei o título de Guarda Imperial àquele que vencer esta batalha.",
+        "es": "[Caballero del Rey]\nAl que gane este duelo le concederé el título de Guardia Imperial."
+    },
+    "ssR/DA": {
+        "ko": "[왕의 기사]\n그럼 좋은 승부를 보여주도록 하라.",
+        "en": "[King's Knight]\nThen let's see a good fight.",
+        "pt": "[Cavaleiro do Rei]\nEntão, mostrem-nos uma boa luta.",
+        "es": "[Caballero del Rey]\nPues haz que sea un buen combate."
+    },
+    "s8R/DA": {
+        "ko": "헌신의 기사",
+        "en": "Knight of Devotion",
+        "pt": "Cavaleiro da Dedicação",
+        "es": "Caballero Devoto"
+    },
+    "tMR/DA": {
+        "ko": "[왕의 기사]\n당신의 첫 번째 상대는 ^0000FF헌신의 기사^000000.",
+        "en": "[King's Knight]\nYour first opponent is the ^0000FFKnight of Devotion^000000.",
+        "pt": "[Cavaleiro do Rei]\nSeu primeiro adversário é o ^0000FFCavaleiro da Dedicação^000000.",
+        "es": "[Caballero del Rey]\nTu primer rival es ^0000FFCaballero de la Devoción^000000."
+    },
+    "tcR/DA": {
+        "ko": "[헌신의 기사]\n역시 여기서 만나게 되는군요.",
+        "en": "[Knight of Devotion]\nWe meet again, just as I expected.",
+        "pt": "[Cavaleiro da Dedicação]\nComo era de se esperar, acabamos nos encontrando aqui.",
+        "es": "[Caballero de la Devoción]\nComo era de esperarse, nos encontramos aquí."
+    },
+    "tsR/DA": {
+        "ko": "[헌신의 기사]\n같은 뜻을 가진 자들끼리 멋진 승부가 되었으면 좋겠습니다.",
+        "en": "[Knight of Devotion]\nI hope this becomes a splendid contest between kindred spirits.",
+        "pt": "[Cavaleiro da Dedicação]\nEspero que seja uma bela luta entre aqueles que compartilham o mesmo propósito.",
+        "es": "[Caballero de la Devoción]\nEspero que sea un combate emocionante entre quienes compartimos el mismo propósito."
+    },
+    "t8R/DA": {
+        "ko": "[왕의 기사]\n다음 상대는 ^0000FF무장의 기사^000000.",
+        "en": "[King's Knight]\nYour next opponent is the ^0000FFKnight of Armament^000000.",
+        "pt": "[Cavaleiro do Rei]\nO próximo adversário é o ^0000FFCavaleiro do Exército^000000.",
+        "es": "[Caballero del Rey]\nTu siguiente rival es ^0000FFEl Caballero del Ejército^000000."
+    },
+    "uMR/DA": {
+        "ko": "[무장의 기사]\n여기서 만나게 되는군요.",
+        "en": "[Knight of Armament]\nWe meet here.",
+        "pt": "[Cavaleiro do Exército]\nEntão nos encontramos aqui.",
+        "es": "[Caballero Armado]\nAsí que nos encontramos aquí."
+    },
+    "ucR/DA": {
+        "ko": "[무장의 기사]\n무장의 힘이 승부에서 이긴다는 것을 지금 당장 보여드리겠습니다.",
+        "en": "[Knight of Armament]\nI'll show you the power of superior armament.",
+        "pt": "[Cavaleiro da Armadura]\nVou te mostrar agora mesmo que o poder da armadura vence na batalha.",
+        "es": "[Caballero Armado]\nTe demostraré ahora mismo que el poder de las armas es lo que decide el combate."
+    },
+    "usR/DA": {
+        "ko": "[왕의 기사]\n자신의 정의를 잘 증명해내었군.",
+        "en": "[King's Knight]\nYou've proven your sense of justice well.",
+        "pt": "[Cavaleiro do Rei]\nVocê provou muito bem a sua justiça.",
+        "es": "[Caballero del Rey]\nHas demostrado muy bien tu justicia."
+    },
+    "u8R/DA": {
+        "ko": "[왕의 기사]\n정의라는 것은 시대의 흐름에 따라 바뀌기 마련이다.",
+        "en": "[King's Knight]\nThe definition of justice tends to change, depending on the time you live in.",
+        "pt": "[Cavaleiro do Rei]\nA justiça tende a mudar de acordo com o curso dos tempos.",
+        "es": "[Caballero del Rey]\nLa justicia tiende a cambiar según la corriente de la época."
+    },
+    "vMR/DA": {
+        "ko": "[왕의 기사]\n일단 현재의 흐름에 충실하도록 하여라, 그리고 시간이 흘러 시대가 변하면서 또 다시 이와 같은 갈등이 생기지 않도록 힘을 써 주게나.",
+        "en": "[King's Knight]\nFor now, I suggest you go with the flow. Later, maybe you can help prevent the same conflict from happening.",
+        "pt": "[Cavaleiro do Rei]\nPor enquanto, segue fiel à tendência atual e, com o passar do tempo e a mudança dos tempos, faz o possível para que conflitos como este não voltem a surgir.",
+        "es": "[Caballero del Rey]\nPor ahora, sé fiel a la corriente actual, y haz todo lo posible para que, a medida que pase el tiempo y cambie la época, no surja de nuevo un conflicto como este."
+    },
+    "vcR/DA": {
+        "ko": "[왕의 기사]\n승리를 축하한다, 지금 바로 임페리얼 가드의 칭호를 받겠는가?",
+        "en": "[King's Knight]\nCongratulations on your victory. Would you like to accept the title of Imperial Guard now?",
+        "pt": "[Cavaleiro do Rei]\nParabéns pela vitória. Queres receber o título de Guarda Imperial agora mesmo?",
+        "es": "[Caballero del Rey]\nFelicidades por la victoria, ¿quieres recibir el título de Guardia Imperial ahora mismo?"
+    },
+    "vsR/DA": {
+        "ko": "받는다.",
+        "en": "Accept.",
+        "pt": "Aceito.",
+        "es": "Lo acepto."
+    },
+    "v8R/DA": {
+        "ko": "준비가 필요하다.",
+        "en": "I need to get ready first.",
+        "pt": "Preciso me preparar.",
+        "es": "Necesito prepararme."
+    },
+    "wMR/DA": {
+        "ko": "[왕의 기사]\n이제 당신은 임페리얼 가드가 되었다.",
+        "en": "[King's Knight]\nYou have now become an Imperial Guard.",
+        "pt": "[Cavaleiro do Rei]\nAgora você se tornou um Guarda Imperial.",
+        "es": "[Caballero del Rey]\nAhora te has convertido en un guardia imperial."
+    },
+    "wcR/DA": {
+        "ko": "[왕의 기사]\n호칭에 걸맞는 행실을 보일 수 있도록 하여라.",
+        "en": "[King's Knight]\nCarry yourself well to match your title.",
+        "pt": "[Cavaleiro do Rei]\nProcura agir de forma digna desse título.",
+        "es": "[Caballero del Rey]\nAsegúrate de comportarte de manera digna de ese título."
+    },
+    "wsR/DA": {
+        "ko": "[왕의 기사]\n왕의 명예가 늘 함께하기를.",
+        "en": "[King's Knight]\nMay the king's honor always be with you.",
+        "pt": "[Cavaleiro do Rei]\nQue a honra do rei esteja sempre contigo.",
+        "es": "[Caballero del Rey]\nQue el honor del rey te acompañe siempre."
+    },
+    "w8R/DA": {
+        "ko": "[왕의 기사]\n당신의 스킬 포인트가 아직 남아 있는 것으로 보인다.",
+        "en": "[King's Knight]\nIt appears you still have skill points remaining.",
+        "pt": "[Cavaleiro do Rei]\nParece que você ainda tem pontos de habilidade sobrando.",
+        "es": "[Caballero del Rey]\nParece que aún te quedan puntos de habilidad."
+    },
+    "xMR/DA": {
+        "ko": "[왕의 기사]\n모두 소모한 후에 다시 시도하기를 바란다.",
+        "en": "[King's Knight]\nPlease try again after using them all.",
+        "pt": "[Cavaleiro do Rei]\nEspero que você tente novamente depois de usar todos eles.",
+        "es": "[Caballero del Rey]\nEspero que lo intentes de nuevo después de gastarlos todos."
+    },
+    "xcR/DA": {
+        "ko": "[왕의 기사]\n준비를 마치고 나에게 말을 다시 걸어주길 바란다.",
+        "en": "[King's Knight]\nPlease speak to me again after you are ready.",
+        "pt": "[Cavaleiro do Rei]\nQuando estiver pronto, fala comigo de novo.",
+        "es": "[Caballero del Rey]\nEspero que termines de prepararte y me vuelvas a hablar."
+    },
+    "xsR/DA": {
+        "ko": "[왕의 기사]\n앞으로 임페리얼 가드에 걸맞는 행실을 보일 수 있도록 하여라.\n명예가 늘 함께하기를.",
+        "en": "[King's Knight]\nConduct yourself in a manner befitting the Imperial Guard from now on.\nMay honor always be with you.",
+        "pt": "[Cavaleiro do Rei]\nA partir de agora, comporte-te de forma digna da Guarda Imperial.\nQue a honra esteja sempre contigo.",
+        "es": "[Caballero del Rey]\nA partir de ahora, compórtate como corresponde a un miembro de la Guardia Imperial.\nQue el honor te acompañe siempre."
+    },
+    "x8R/DA": {
+        "ko": "헌신의 기사",
+        "en": "Knight of Devotion",
+        "pt": "Cavaleiro da Dedicação",
+        "es": "Caballero Devoto"
+    },
+    "yMR/DA": {
+        "ko": "[헌신의 기사]\n좋은 승부를 해 봅시다.",
+        "en": "[Knight of Devotion]\nLet's have a good fight.",
+        "pt": "[Cavaleiro da Dedicação]\nVamos ter uma boa luta.",
+        "es": "[Caballero de la Devoción]\nTengamos un buen combate."
+    },
+    "ycR/DA": {
+        "ko": "무장의 기사",
+        "en": "Knight of Armament",
+        "pt": "Cavaleiro Armado",
+        "es": "Caballero Armado"
+    },
+    "ysR/DA": {
+        "ko": "[무장의 기사]\n좋은 승부를 해 봅시다.",
+        "en": "[Knight of Armament]\nLet's have a good fight.",
+        "pt": "[Cavaleiro do Exército]\nVamos ter uma boa luta.",
+        "es": "[Caballero de las Armas]\nTengamos un buen combate."
+    }
+}

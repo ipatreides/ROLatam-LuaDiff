@@ -8001,6 +8001,155 @@ mapTbl = {
 			mainTitle = "Magic Swordsman Memory of Thanatos"
 		},
 		backgroundBmp = "dungeon"
+	},
+	["1@4sac.rsw"] = {
+		displayName = "Shadow Mansion",
+		notifyEnter = true,
+		signName = {
+			mainTitle = "Shadow Mansion"
+		},
+		backgroundBmp = "field2_s2"
+	},
+	["1@4drk.rsw"] = {
+		displayName = "Dragon's Trial",
+		notifyEnter = true,
+		signName = {
+			mainTitle = "Dragon's Trial"
+		},
+		backgroundBmp = "field2_s2"
+	},
+	["1@4win.rsw"] = {
+		displayName = "Deep Forest of Luluka",
+		notifyEnter = true,
+		signName = {
+			mainTitle = "Deep Forest of Luluka"
+		},
+		backgroundBmp = "field2_s2"
+	},
+	["1@4tro.rsw"] = {
+		displayName = "Kvasir's Vessel",
+		notifyEnter = true,
+		signName = {
+			mainTitle = "Kvasir's Vessel"
+		},
+		backgroundBmp = "field2_s2"
+	},
+	["job4_tro.rsw"] = {
+		displayName = "Empty Kvasir's Vessel",
+		notifyEnter = true,
+		signName = {
+			mainTitle = "Empty Kvasir's Vessel"
+		},
+		backgroundBmp = "field2_s2"
+	},
+	["1@4inq.rsw"] = {
+		displayName = "Monastery Basement",
+		notifyEnter = true,
+		signName = {
+			mainTitle = "Monastery Basement"
+		},
+		backgroundBmp = "field2_s2"
+	},
+	["job4_bio.rsw"] = {
+		displayName = "Secret Garden",
+		notifyEnter = true,
+		signName = {
+			mainTitle = "Secret Garden"
+		},
+		backgroundBmp = "field2_s2"
+	},
+	["1@4mst.rsw"] = {
+		displayName = "Juperos Core VT",
+		notifyEnter = true,
+		signName = {
+			mainTitle = "Juperos Core VT"
+		},
+		backgroundBmp = "field2_s2"
+	},
+	["1@4cdn.rsw"] = {
+		displayName = "Cave of Illusions of the Final Trial",
+		notifyEnter = true,
+		signName = {
+			mainTitle = "Cave of Illusions of the Final Trial"
+		},
+		backgroundBmp = "field2_s2"
+	},
+	["1@4igd.rsw"] = {
+		displayName = "Training Ground of Justice",
+		notifyEnter = true,
+		signName = {
+			mainTitle = "Training Ground of Justice"
+		},
+		backgroundBmp = "field2_s2"
+	},
+	["1@4mag.rsw"] = {
+		displayName = "Fountain of Magic Power",
+		notifyEnter = true,
+		signName = {
+			mainTitle = "Fountain of Magic Power"
+		},
+		backgroundBmp = "field2_s2"
+	},
+	["job4_mag.rsw"] = {
+		displayName = "Fountain of Magic Power",
+		notifyEnter = true,
+		signName = {
+			mainTitle = "Fountain of Magic Power"
+		},
+		backgroundBmp = "field2_s2"
+	},
+	["sp_rudus4.rsw"] = {
+		displayName = "Rudus 4F - Disposal Site of Failed Experiments",
+		notifyEnter = true,
+		signName = {
+			subTitle = "Disposal Site of Failed Experiments",
+			mainTitle = "Rudus 4F"
+		},
+		backgroundBmp = "dungeon"
+	},
+	["amicitia1.rsw"] = {
+		displayName = "Amicitia Abandoned Laboratory",
+		notifyEnter = true,
+		signName = {
+			subTitle = "Amicitia Abandoned Laboratory",
+			mainTitle = "1F Central Research Lab"
+		},
+		backgroundBmp = "dungeon"
+	},
+	["amicitia2.rsw"] = {
+		displayName = "Amicitia Abandoned Laboratory",
+		notifyEnter = true,
+		signName = {
+			subTitle = "Amicitia Abandoned Laboratory",
+			mainTitle = "2F Intensive Cultivation Lab"
+		},
+		backgroundBmp = "dungeon"
+	},
+	["nif_dun01.rsw"] = {
+		displayName = "Niflheim Dungeon - Banquet Hall of the Dead",
+		notifyEnter = true,
+		signName = {
+			subTitle = "Niflheim Dungeon 1F",
+			mainTitle = "Banquet Hall of the Dead"
+		},
+		backgroundBmp = "dungeon"
+	},
+	["nif_dun02.rsw"] = {
+		displayName = "Niflheim Dungeon - Fallen Opera House",
+		notifyEnter = true,
+		signName = {
+			subTitle = "Niflheim Dungeon 2F",
+			mainTitle = "Fallen Opera House"
+		},
+		backgroundBmp = "dungeon"
+	},
+	["grademk.rsw"] = {
+		displayName = "Grade Enhancement Facility",
+		notifyEnter = true,
+		signName = {
+			subTitle = "Grade Enhancement Facility"
+		},
+		backgroundBmp = "village_s1"
 	}
 }
 function main()

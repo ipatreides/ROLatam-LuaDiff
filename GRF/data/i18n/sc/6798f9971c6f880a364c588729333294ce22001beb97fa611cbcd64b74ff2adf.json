@@ -1,0 +1,1124 @@
+{
+    "IN+FDA": {
+        "ko": "황금사과 수석",
+        "en": "Golden Apple Suseok",
+        "pt": "Maçã Dourada Suseok",
+        "es": "Suseok de Manzana Dorada"
+    },
+    "Id+FDA": {
+        "ko": "탐이 나는 인재가 지나가는데? 나 좀 볼래요?",
+        "en": "A promising talent is passing by? Want to take a look at me?",
+        "pt": "Uma pessoa talentosa está passando? Quer me ver?",
+        "es": "Ha pasado alguien con mucho potencial. ¿Quieres mirarme un momento?"
+    },
+    "It+FDA": {
+        "ko": "[수석]\n가만? 지난번에 우릴 찾아 왔던 그 원더러 아니야? 와, 역시 뭐가 돼도 될 줄 알았다니까. 내 보는 눈을 칭찬해~",
+        "en": "[Suseok]\nHm? Isn't that the Wanderer who came to see us last time? Wow, I knew you'd become something great. Praise my eye for talent~",
+        "pt": "[Suseok]\nOra? Não é a mesma Musa que veio nos procurar da última vez? Uau, eu sabia que você chegaria longe. Elogie meus olhos apurados~",
+        "es": "[Suseok]\n¿Eh? ¿No eres el Nómada que vino a buscarnos la última vez? Vaya, ya sabía que llegarías a ser alguien. De verdad, tengo buen ojo, ¿eh?"
+    },
+    "I9+FDA": {
+        "ko": "[수석]\n시간이 나면 네 이야기를 좀 들려줘.",
+        "en": "[Suseok]\nIf you have time, tell me your story.",
+        "pt": "[Suseok]\nQuando tiver tempo, quero ouvir um pouco da sua história.",
+        "es": "[Suseok]\nCuando tengas tiempo, cuéntame un poco tu historia."
+    },
+    "JN+FDA": {
+        "ko": "[수석]\n흐음... 정말 멋진 원더러인걸? 그런데 발할라엔 다녀오지 않은 거야? 조금 아쉽네. 더 크게 성장할 수도 있었을 텐데.",
+        "en": "[Suseok]\nHmm... You're truly a splendid Wanderer, aren't you? But you haven't been to Valhalla? That's a little disappointing. You could have grown even further.",
+        "pt": "[Suseok]\nHmm... Você é mesmo uma Wanderer incrível, hein? Mas não foi a Valhalla? Que pena. Você poderia ter crescido ainda mais.",
+        "es": "[Suseok]\nMmm... De verdad eres un Wanderer magnífico. Pero ¿no has pasado por Valhalla? Qué lástima. Podrías haber crecido aún más."
+    },
+    "Jd+FDA": {
+        "ko": "[?????]\n......",
+        "en": "[?????]\n......",
+        "pt": "[?????]\n......",
+        "es": "[?????]\n......"
+    },
+    "Jt+FDA": {
+        "ko": "[?????]\n......\n............",
+        "en": "[?????]\n......\n............",
+        "pt": "[?????]\n......\n............",
+        "es": "[?????]\n......\n............"
+    },
+    "J9+FDA": {
+        "ko": "[수석]\n당신은...?",
+        "en": "[Suseok]\nYou are...?",
+        "pt": "[Suseok]\nVocê é...?",
+        "es": "[Suseok]\n¿Usted es...?"
+    },
+    "KN+FDA": {
+        "ko": "[?????]\n얘. 너는 거기서 비비지 말고 나 좀 보자.",
+        "en": "[?????]\nHey. Stop hovering over there and look at me.",
+        "pt": "[?????]\nEi. Você, para de se meter aí e olha para mim.",
+        "es": "[?????]\nOye. Tú no te metas ahí y mírame a mí."
+    },
+    "Kd+FDA": {
+        "ko": "[수석]\n오늘 저녁 공연까진 쉴 거야. 누가 뭐래도 쉴 거야.",
+        "en": "[Suseok]\nI'm going to rest until tonight's performance. No matter what anyone says, I'm resting.",
+        "pt": "[Suseok]\nVou descansar até a apresentação desta noite. Não importa o que digam, vou descansar.",
+        "es": "[Suseok]\nDescansaré hasta la actuación de esta noche. Pase lo que pase, voy a descansar."
+    },
+    "Kt+FDA": {
+        "ko": "[수석]\n막내야, 스케줄 확인 좀 해줄래?",
+        "en": "[Suseok]\nYoungest, could you check the schedule for me?",
+        "pt": "[Suseok]\nCaçula, pode conferir a agenda para mim?",
+        "es": "[Suseok]\nPequeño, ¿puedes revisar el horario?"
+    },
+    "K9+FDA": {
+        "ko": "[단원]\n오늘부터 저녁 1회 공연. 주말에는 낮 공연 1회 추가. 어휴, 사람이 몰리니까 공연 추가한 것 좀 봐.",
+        "en": "[Member]\nStarting today, one evening performance. On weekends, one additional daytime performance. Whew, look at them adding more shows because of the crowd.",
+        "pt": "[Membro]\nA partir de hoje, uma apresentação à noite. Nos fins de semana, mais uma apresentação à tarde. Nossa, olha só como adicionaram mais apresentações porque está lotando.",
+        "es": "[Miembro]\nDesde hoy, una actuación por la noche. Los fines de semana se añade una función por la tarde. Uf, mira cómo han añadido más actuaciones porque se llena de gente."
+    },
+    "LN+FDA": {
+        "ko": "[단원]\n인기 있을 때 열심히 해야지. 아무도 <황금사과>를 찾지 않는다면? 일 없이 집에서 방바닥만 긁는다면?",
+        "en": "[Member]\nYou have to work hard while you're popular. What if no one looks for <Golden Apple>? What if we end up scraping the floor at home with no work?",
+        "pt": "[Membro]\nTem que trabalhar duro enquanto está em alta. E se ninguém mais procurar a <Maçã Dourada>? E se eu ficar em casa sem fazer nada?",
+        "es": "[Miembro]\nHay que esforzarse cuando somos populares. ¿Y si nadie busca a <Manzana Dorada>? ¿Y si nos quedamos en casa sin hacer nada?"
+    },
+    "Ld+FDA": {
+        "ko": "어휴 생각만 해도...",
+        "en": "Just thinking about it is...",
+        "pt": "Só de pensar nisso...",
+        "es": "Uf, solo de pensarlo..."
+    },
+    "Lt+FDA": {
+        "ko": "[단원]\n이제 이 공연도 막바지구나. 그럼 휴가지!",
+        "en": "[Member]\nThis performance is almost at its end now. Then it's vacation time!",
+        "pt": "[Membro]\nEsta apresentação também já está chegando ao fim. Então é férias!",
+        "es": "[Miembro]\nYa casi termina esta temporada de actuaciones. ¡Entonces, vacaciones!"
+    },
+    "L9+FDA": {
+        "ko": "휴가지, 휴가야!",
+        "en": "Vacation, vacation!",
+        "pt": "Férias, férias!",
+        "es": "¡Vacaciones, vacaciones!"
+    },
+    "MN+FDA": {
+        "ko": "[단원]\n난 일을 마치면 고향에 내려가서 어머니를 뵐 거야!",
+        "en": "[Member]\nWhen I'm done with work, I'm going back home to see my mother!",
+        "pt": "[Membro]\nQuando terminar o trabalho, vou voltar para minha terra natal e ver minha mãe!",
+        "es": "[Miembro]\n¡Cuando termine el trabajo, bajaré a mi tierra natal para ver a mi madre!"
+    },
+    "Md+FDA": {
+        "ko": "못 뵌지 너무 오래됐어.",
+        "en": "It's been far too long since I last saw her.",
+        "pt": "Faz tanto tempo que não a vejo.",
+        "es": "Hace demasiado tiempo que no la veo."
+    },
+    "Mt+FDA": {
+        "ko": "[단원]\n불길한 소리 하지 마!",
+        "en": "[Member]\nDon't say ominous things!",
+        "pt": "[Membro]\nNão fala uma coisa dessas!",
+        "es": "[Miembro]\n¡No digas cosas de mal agüero!"
+    },
+    "M9+FDA": {
+        "ko": "진짜 불길하다구!",
+        "en": "That's really ominous!",
+        "pt": "É muito agourento!",
+        "es": "¡De verdad da mal rollo!"
+    },
+    "NN+FDA": {
+        "ko": "[단원]\n뭐? 우리 어머니가 불길해?",
+        "en": "[Member]\nWhat? My mother is ominous?",
+        "pt": "[Membro]\nO quê? Minha mãe é agourenta?",
+        "es": "[Miembro]\n¿Qué? ¿Mi madre da mal agüero?"
+    },
+    "Nd+FDA": {
+        "ko": "우리 어머니가 왜?",
+        "en": "What's wrong with my mother?",
+        "pt": "Por que minha mãe seria?",
+        "es": "¿Qué le pasa a mi madre?"
+    },
+    "Nt+FDA": {
+        "ko": "[단원]\n그거잖아! 그런 말을 하는 사람치고 살아 돌아오는 사람을 못봤어! 네가 죽으면 곤란해! 우리 군무에서 한 명이라도 빠지면 완성되지 않으니까!",
+        "en": "[Member]\nYou know what I mean! I've never seen anyone who says things like that come back alive! It'd be a problem if you died! If even one person is missing from our group choreography, it won't be complete!",
+        "pt": "[Membro]\nÉ isso! Nunca vi ninguém que falasse uma coisa dessas voltar vivo! Não pode morrer! Se faltar nem uma pessoa na nossa coreografia, ela não fica completa!",
+        "es": "[Miembro]\n¡Eso! ¡Nunca he visto volver con vida a nadie que diga esas cosas! ¡No puedes morirte! ¡Si falta uno solo en nuestra coreografía, ya no estará completa!"
+    },
+    "N9+FDA": {
+        "ko": "그게 바로 사망 예고라고!",
+        "en": "That's a death flag right there!",
+        "pt": "Isso sim é presságio de morte!",
+        "es": "¡Eso sí que suena a anuncio de muerte!"
+    },
+    "ON+FDA": {
+        "ko": "[단원]\n마음대로 죽이지 말아줄래?",
+        "en": "[Member]\nCould you not kill me off as you please?",
+        "pt": "[Membro]\nPode parar de me matar por conta própria?",
+        "es": "[Miembro]\n¿Podrías no matarme a tu antojo?"
+    },
+    "Od+FDA": {
+        "ko": "오래오래 살 거거든?",
+        "en": "I'm going to live a long, long time, you know?",
+        "pt": "Porque eu pretendo viver muito, muito tempo.",
+        "es": "¿Sabes? Pienso vivir muchísimos años."
+    },
+    "Ot+FDA": {
+        "ko": "[수석]\n싸우지 말고 다들 저기를 봐. 낯선 사람이 우리를 보고 있어.",
+        "en": "[Suseok]\nDon't fight, everyone, look over there. A stranger is watching us.",
+        "pt": "[Suseok]\nParem de brigar e olhem para lá. Tem um estranho nos observando.",
+        "es": "[Suseok]\nNo discutáis y mirad allí. Un desconocido nos está observando."
+    },
+    "O9+FDA": {
+        "ko": "[단원]\n사인이나 사진 촬영 요청은 곤란해요. 섭외는 매니저를 통해서 하세요.",
+        "en": "[Member]\nWe cannot accept requests for autographs or photos. Please contact the manager for bookings.",
+        "pt": "[Membro]\nPedidos de autógrafo ou foto são complicados. Para convites, fale com o empresário.",
+        "es": "[Miembro]\nNo podemos atender solicitudes de autógrafos ni de fotos. Para contrataciones, hablen con el mánager."
+    },
+    "PN+FDA": {
+        "ko": "티켓은 티켓 창구에서 살 수 있어요.",
+        "en": "Tickets can be purchased at the ticket booth.",
+        "pt": "Os ingressos podem ser comprados na bilheteria.",
+        "es": "Las entradas se compran en la taquilla."
+    },
+    "Pd+FDA": {
+        "ko": "입단 신청을 받고 있나요?",
+        "en": "Are you accepting applications to join?",
+        "pt": "Estão aceitando inscrições para entrar no grupo?",
+        "es": "¿Están aceptando solicitudes para unirse?"
+    },
+    "Pt+FDA": {
+        "ko": "[단원]\n입단? 그야 괜찮은 사람이라면 수시로 받고는 있지만...",
+        "en": "[Member]\nJoin? Well, if it's someone promising, we do accept people at any time...",
+        "pt": "[Membro]\nEntrar no grupo? Bem, se a pessoa for boa, aceitamos de tempos em tempos, mas...",
+        "es": "[Miembro]\n¿Unirse? Bueno, si es alguien decente, aceptamos de vez en cuando, pero..."
+    },
+    "P9+FDA": {
+        "ko": "[수석]\n제법 경험을 쌓은 것 같지만 우리 <황금사과>에 입단하려면 아직 멀었어. 경험을 더 쌓고 나서 찾아 오렴.",
+        "en": "[Suseok]\nYou seem to have built up a fair bit of experience, but you're still far from joining our <Golden Apple>. Gain more experience and then come back.",
+        "pt": "[Suseok]\nParece que você já acumulou bastante experiência, mas ainda está longe de poder entrar para a nossa <Maçã Dourada>. Ganhe mais experiência e volte depois.",
+        "es": "[Suseok]\nParece que has acumulado bastante experiencia, pero todavía te falta mucho para unirte a nuestro <Manzana Dorada>. Gana más experiencia y vuelve después."
+    },
+    "QN+FDA": {
+        "ko": "^0000CD전직 시험은 베이스 레벨 200 이상부터 진행할 수 있습니다.^000000",
+        "en": "^0000CDThe job change test can only be taken from Base Level 200 or higher.^000000",
+        "pt": "^0000CDO teste de mudança de classe pode ser feito a partir do nível de base 200.^000000",
+        "es": "^0000CDLa prueba de cambio de clase solo puede realizarse a partir del nivel base 200.^000000"
+    },
+    "Qd+FDA": {
+        "ko": "^0000CD전직 시험은 직업 레벨 70 이상부터 진행할 수 있습니다.^000000",
+        "en": "^0000CDThe job change test can only be taken from Job Level 70 or higher.^000000",
+        "pt": "^0000CDO teste de mudança de classe pode ser feito a partir do nível de classe 70.^000000",
+        "es": "^0000CDLa prueba de cambio de clase solo puede realizarse a partir del nivel de clase 70.^000000"
+    },
+    "Qt+FDA": {
+        "ko": "[수석]\n함께 할 사람이 필요하니? 내 생각은 좀 다른데?",
+        "en": "[Suseok]\nDo you need someone to be with you? I think differently.",
+        "pt": "[Suseok]\nVocê precisa de alguém para seguir com você? Eu penso um pouco diferente.",
+        "es": "[Suseok]\n¿Necesitas gente con la que estar? Yo no lo veo así."
+    },
+    "Q9+FDA": {
+        "ko": "[단원]\n그렇게 얘기하면 오해 하잖아. 보아하니 꾸준히 단련해서 어느 경지엔 이르렀지만 최근엔 한계에 부딪힌 느낌을 부쩍 받는 것 같은데, 맞니?",
+        "en": "[Member]\nIf you put it like that, it'll cause a misunderstanding. From the looks of it, you've steadily trained and reached a certain level, but lately you've been feeling more and more like you've hit a limit, right?",
+        "pt": "[Membro]\nSe você fala assim, vai dar a impressão errada. Pelo que vejo, você treinou de forma constante e alcançou certo nível, mas ultimamente parece sentir cada vez mais que esbarrou em um limite, não é?",
+        "es": "[Miembro]\nSi lo dices así, se presta a malentendidos. Por lo que veo, has entrenado con constancia y has alcanzado cierto nivel, pero últimamente sientes cada vez más que has chocado con un límite. ¿Me equivoco?"
+    },
+    "RN+FDA": {
+        "ko": "그걸 어떻게...?",
+        "en": "How did you...?",
+        "pt": "Como você sabe disso...?",
+        "es": "¿Cómo lo has...?"
+    },
+    "Rd+FDA": {
+        "ko": "[수석]\n여기 있는 사람들 다 그랬거든. 최고의 댄서들과 함께 하면서 서로 경쟁을 통해 한계를 돌파해보고자 했지. 어느 정도 성과도 있었고... 하지만...",
+        "en": "[Suseok]\nEveryone here was like that. We wanted to break through our limits by competing with one another among the best dancers. We achieved some results too... but...",
+        "pt": "[Suseok]\nPorque todos aqui passaram por isso. Queríamos romper nossos limites competindo entre nós, junto dos melhores dançarinos. Tivemos algum resultado também... Mas...",
+        "es": "[Suseok]\nTodos los que estamos aquí pasamos por lo mismo. Queríamos trabajar junto a los mejores bailarines y romper nuestros límites compitiendo entre nosotros. Obtuvimos ciertos resultados... pero..."
+    },
+    "Rt+FDA": {
+        "ko": "[단원]\n하지만 모두에게 맞는 방법은 아니야. 우리가 보기엔 너는 짜맞춘 춤보다는 자유로운 쪽이 더 어울릴 것 같거든.",
+        "en": "[Member]\nBut it's not a method that suits everyone. From what we can see, you seem better suited to freedom rather than choreographed dance.",
+        "pt": "[Membro]\nMas esse não é um método que sirva para todo mundo. Pelo que vemos, você combina mais com a liberdade do que com uma dança toda ensaiada.",
+        "es": "[Miembro]\nPero no es un método que le sirva a todo el mundo. Desde nuestro punto de vista, te pega más algo libre que un baile perfectamente encajado."
+    },
+    "R9+FDA": {
+        "ko": "[단원]\n자유로운 모험가에게는 그게 더 맞더라고. 뜻이 맞는 서로 다른 모험가들끼리 어울려서 조화를 만들어내는 것도 좋아.",
+        "en": "[Member]\nThat suits a free adventurer better. It's also nice for different adventurers who share the same purpose to come together and create harmony.",
+        "pt": "[Membro]\nPara um aventureiro livre, isso parece se encaixar melhor. Também é bom quando aventureiros diferentes, mas com a mesma vontade, se juntam e criam harmonia.",
+        "es": "[Miembro]\nEso suele ir mejor con los aventureros libres. También es bonito que aventureros distintos, unidos por un mismo propósito, se junten y creen armonía."
+    },
+    "SN+FDA": {
+        "ko": "저 남다른 아우라.",
+        "en": "That extraordinary aura.",
+        "pt": "Essa aura fora do comum.",
+        "es": "Esa aura tan diferente."
+    },
+    "Sd+FDA": {
+        "ko": "[단원]\n차라리 우리보다는 그런 쪽이 더 나을 거야. 우리도 물론 네가 탐이 나지. 그렇지만 너 같은 고민을 안고 있는 사람이 우리와 함께 해도 고민은 계속 될 테니까.",
+        "en": "[Member]\nRather than us, that path would suit you better. Of course we covet your talent too. But even if someone carrying the same concerns as you joins us, those concerns will continue.",
+        "pt": "[Membro]\nSinceramente, isso combina mais com você do que com a gente. Claro que também queremos alguém como você. Mas mesmo que alguém com esse tipo de preocupação venha ficar conosco, a preocupação vai continuar.",
+        "es": "[Miembro]\nSinceramente, eso te iría mejor que estar con nosotros. Claro que también nos interesas. Pero aunque alguien con esas inquietudes se una a nosotros, sus dudas seguirán ahí."
+    },
+    "St+FDA": {
+        "ko": "모험가 기질이 다분하니까.",
+        "en": "You clearly have the temperament of an adventurer.",
+        "pt": "Porque você tem muito de aventureiro em si.",
+        "es": "Porque tienes un claro espíritu de aventurero."
+    },
+    "S9+FDA": {
+        "ko": "[수석]\n우리에게 멘토링을 원하는 거지? 하지만 너에게 필요한 건 조언이 아니야. 그저 선을 뛰어 넘을 하나의 작은 계기가 필요할 뿐이지.",
+        "en": "[Suseok]\nYou want mentoring from us, right? But what you need isn't advice. You simply need one small trigger to cross the line.",
+        "pt": "[Suseok]\nVocê quer mentoring da nossa parte, não é? Mas o que você precisa não é de conselho. Só precisa de um pequeno gatilho para ultrapassar a linha.",
+        "es": "[Suseok]\n¿Quieres que te orientemos? Pero lo que necesitas no es un consejo. Solo te hace falta un pequeño detonante para cruzar esa línea."
+    },
+    "TN+FDA": {
+        "ko": "[단원]\n아, 그렇지! 오딘 신전쪽에 새로운 공연장을 짓는다고 하던데. 그쪽에서 최고의 기량을 가진 사람들을 모집한다니까 그쪽으로 가보는 건 어때?",
+        "en": "[Member]\nAh, right! I heard they're building a new performance hall near Odin Temple. They're recruiting people with top-tier talent there, so how about going there?",
+        "pt": "[Membro]\nAh, é mesmo! Ouvi dizer que estão construindo um novo palco perto do Templo de Odin. Parece que estão recrutando gente com técnica de ponta por lá, então que tal ir dar uma olhada?",
+        "es": "[Miembro]\n¡Ah, claro! Dicen que están construyendo un nuevo escenario por la zona del Templo de Odín. Están reclutando a personas con el mejor talento, ¿por qué no vas a echar un vistazo?"
+    },
+    "Td+FDA": {
+        "ko": "아마 규모있는 공연단들은 다 받았을 걸.",
+        "en": "The large performance troupes have probably all received it.",
+        "pt": "Acho que já chamaram todos os grupos de grande porte.",
+        "es": "Seguro que ya han aceptado a todos los grupos grandes."
+    },
+    "Tt+FDA": {
+        "ko": "[단원]\n그래, 거기라면 다양한 사람들이 모일 테니까 네 고민을 해결할 수 있을지도 몰라.",
+        "en": "[Member]\nYeah, a lot of different people will gather there, so it might help solve your concerns.",
+        "pt": "[Membro]\nÉ, lá deve reunir gente bem diversa, então talvez você consiga resolver sua inquietação.",
+        "es": "[Miembro]\nSí, allí se reunirá gente muy diversa, así que tal vez puedas resolver tus inquietudes."
+    },
+    "T9+FDA": {
+        "ko": "[수석]\n어디 보자... 초청장이 나한테 있었는데. 찾았다. 오딘 신전 북쪽지역에 있다는데. 생각 있어?",
+        "en": "[Suseok]\nLet's see... I had the invitation somewhere. Found it. They say it's in the northern area of Odin Temple. Interested?",
+        "pt": "[Suseok]\nDeixe-me ver... Eu tinha um convite comigo. Achei. Diz que fica na área ao norte do Templo de Odin. Tem interesse?",
+        "es": "[Suseok]\nA ver... Yo tenía una invitación. Aquí está. Dice que está en la zona norte del Templo de Odín. ¿Te interesa?"
+    },
+    "UN+FDA": {
+        "ko": "그거 전에 버리지 않았나.",
+        "en": "Didn't you throw that away before?",
+        "pt": "Você não tinha jogado isso fora antes?",
+        "es": "¿No la tiraste antes?"
+    },
+    "Ud+FDA": {
+        "ko": "가볼게요!",
+        "en": "I'll go!",
+        "pt": "Eu vou!",
+        "es": "¡Iré!"
+    },
+    "Ut+FDA": {
+        "ko": "거기도 제 자리는 아닐 것 같아요.",
+        "en": "I don't think that's my place either.",
+        "pt": "Acho que lá também não é o meu lugar.",
+        "es": "Creo que ese lugar tampoco será para mí."
+    },
+    "U9+FDA": {
+        "ko": "[수석]\n그래? 잘 생각했어. 공연장은 <NAVI>[오딘 신전 북쪽]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI>지역에 있어. 안내하는 대로 따라 가면 될 거야.",
+        "en": "[Suseok]\nReally? Good choice. The performance hall is in the <NAVI>[North of Odin Temple]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI> area. Just follow the directions.",
+        "pt": "[Suseok]\nÉ? Pensou bem. O palco fica na região <NAVI>[Norte do Templo de Odin]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI>. É só seguir a orientação.",
+        "es": "[Suseok]\n¿Sí? Has pensado bien. El escenario está en la zona de <NAVI>[Norte del Templo de Odín]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI>. Solo sigue las indicaciones."
+    },
+    "VN+FDA": {
+        "ko": "[수석]\n잘 되면 좋겠네. 너는 분명 잘 할 수 있을 거야. 그럼 행운을 빌게!",
+        "en": "[Suseok]\nI hope it goes well. You'll definitely do well. Then I wish you good luck!",
+        "pt": "[Suseok]\nTomara que dê certo. Você certamente vai se sair bem. Então, boa sorte!",
+        "es": "[Suseok]\nOjalá te vaya bien. Seguro que lo harás estupendamente. Entonces, ¡buena suerte!"
+    },
+    "Vd+FDA": {
+        "ko": "안녕~",
+        "en": "Bye~",
+        "pt": "Tchau~",
+        "es": "Adiós~"
+    },
+    "Vt+FDA": {
+        "ko": "안녕!!!",
+        "en": "Bye!!!",
+        "pt": "Tchau!!!",
+        "es": "¡¡Adiós!!!"
+    },
+    "V9+FDA": {
+        "ko": "안녕안녕안녕!",
+        "en": "Bye bye bye!",
+        "pt": "Tchau tchau tchau!",
+        "es": "¡Adiós, adiós, adiós!"
+    },
+    "WN+FDA": {
+        "ko": "아안녀엉~",
+        "en": "Byeeee~",
+        "pt": "Tchaaau~",
+        "es": "Aaadióoos~"
+    },
+    "Wd+FDA": {
+        "ko": "[수석]\n그래? 그런 것 같아? 아쉽네. 그럼 돌아다니면서 너에게 맞는 길을 찾아 봐. 시간이 되면 우리 공연도 좀 보고 가고.",
+        "en": "[Suseok]\nReally? You think so? That's a shame. Then keep wandering and try to find the path that suits you. If you have time, watch our performance too.",
+        "pt": "[Suseok]\nÉ? Parece mesmo? Que pena. Então continue andando por aí e procure o caminho que combine com você. E, se tiver tempo, venha assistir à nossa apresentação também.",
+        "es": "[Suseok]\n¿Sí? ¿Eso te parece? Qué pena. Entonces sigue viajando y busca el camino que mejor vaya contigo. Y si tienes tiempo, quédate a ver nuestra actuación."
+    },
+    "Wt+FDA": {
+        "ko": "[수석]\n공연장은 <NAVI>[오딘 신전 북쪽]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI>지역에 있어. 안내하는 대로 따라 가면 될 거야.",
+        "en": "[Suseok]\nThe performance hall is in the <NAVI>[North of Odin Temple]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI> area. Just follow the directions.",
+        "pt": "[Suseok]\nO palco fica na região <NAVI>[Norte do Templo de Odin]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI>. É só seguir a orientação.",
+        "es": "[Suseok]\nEl escenario está en la zona de <NAVI>[Norte del Templo de Odín]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI>. Solo sigue las indicaciones."
+    },
+    "W9+FDA": {
+        "ko": "[수석]\n갔던 일은 잘 됐어? 바빠 보이네?",
+        "en": "[Suseok]\nDid things go well where you went? You look busy.",
+        "pt": "[Suseok]\nE então, foi tudo bem lá onde você foi? Você parece ocupado.",
+        "es": "[Suseok]\n¿Qué tal te fue allí? Pareces ocupado."
+    },
+    "XN+FDA": {
+        "ko": "단원",
+        "en": "Member",
+        "pt": "Membro",
+        "es": "Miembro"
+    },
+    "Xd+FDA": {
+        "ko": "얼음조각사",
+        "en": "Ice Sculptor",
+        "pt": "Escultor de Gelo",
+        "es": "Escultor de hielo"
+    },
+    "Xt+FDA": {
+        "ko": "저 사람에게서 감동의 조각의 기운이 느껴져!",
+        "en": "I can feel the energy of a Piece of Emotion from that person!",
+        "pt": "Estou sentindo a energia de um Fragmento de Emoção vindo daquela pessoa!",
+        "es": "¡Siento la energía del Fragmento de Emoción en esa persona!"
+    },
+    "X9+FDA": {
+        "ko": "소지하고 계신 아이템의 수량이 많아 대화를 진행 할 수 없습니다.\n아이템을 정리한 뒤 다시 시도해 주시기 바랍니다.",
+        "en": "You cannot continue the conversation because you are carrying too many items.\nPlease organize your items and try again.",
+        "pt": "Você não pode prosseguir com o diálogo porque está carregando muitos itens.\nOrganize seus itens e tente novamente.",
+        "es": "No se puede continuar la conversación porque llevas demasiados objetos.\nOrdena tus objetos e inténtalo de nuevo."
+    },
+    "YN+FDA": {
+        "ko": "[얼음조각사]\n어우 추워. 추운 것도 싫고, 꽁꽁 어는 손도 싫고, 귀가 떨어질 것 같은 바람도 싫고. 싫어. 다 싫어.",
+        "en": "[Ice Sculptor]\nUgh, it's cold. I hate the cold, I hate hands that freeze stiff, and I hate the wind that feels like it'll tear my ears off. I hate it. I hate everything.",
+        "pt": "[Escultor de Gelo]\nAh, que frio. Odeio o frio, odeio minhas mãos congelando, odeio esse vento que parece que vai arrancar minhas orelhas. Odeio. Odeio tudo.",
+        "es": "[Escultor de hielo]\nUf, qué frío. Odio el frío, odio estas manos congeladas, odio este viento que parece que me arrancará las orejas. Lo odio. Lo odio todo."
+    },
+    "Yd+FDA": {
+        "ko": "[얼음조각사]\n모두모두 이 눈 밑에 묻혔으면!! 그럼 일을 안해도 되겠지? 아무 것도 하고 싶지 않아.",
+        "en": "[Ice Sculptor]\nI wish everyone would just be buried under this snow!! Then I wouldn't have to work, right? I don't want to do anything.",
+        "pt": "[Escultor de Gelo]\nTomara que todo mundo fique enterrado debaixo desta neve!! Aí eu não precisaria trabalhar, né? Não quero fazer absolutamente nada.",
+        "es": "[Escultor de hielo]\n¡Ojalá todos acabaran enterrados bajo esta nieve! Entonces no tendría que trabajar, ¿verdad? No quiero hacer absolutamente nada."
+    },
+    "Yt+FDA": {
+        "ko": "저기...",
+        "en": "Excuse me...",
+        "pt": "Com licença...",
+        "es": "Perdone..."
+    },
+    "Y9+FDA": {
+        "ko": "[얼음조각사]\n일 맡기러 오셨어요? 안타깝지만 일은 더 받지 않을 거예요. 올해의 일은 끝났어요, 끝!",
+        "en": "[Ice Sculptor]\nDid you come to commission work? Too bad, but I won't take any more jobs. This year's work is over, over!",
+        "pt": "[Escultor de Gelo]\nVeio me pedir trabalho? Que pena, mas eu não vou aceitar mais nada. O trabalho deste ano acabou, acabou!",
+        "es": "[Escultor de hielo]\n¿Ha venido a encargarme trabajo? Qué pena, pero no aceptaré más. El trabajo de este año ya ha terminado, ¡se acabó!"
+    },
+    "ZN+FDA": {
+        "ko": "[얼음조각사]\n추워서 아무 것도 하고 싶지가 않아! 내 손을 봐요. 이게 얼음덩어리지 손이야?",
+        "en": "[Ice Sculptor]\nIt's too cold to want to do anything! Look at my hands. Are these hands or chunks of ice?",
+        "pt": "[Escultor de Gelo]\nEstá tão frio que eu não quero fazer nada! Olha para as minhas mãos. Isso é uma mão ou um bloco de gelo?",
+        "es": "[Escultor de hielo]\n¡Hace tanto frío que no quiero hacer nada! Mire mis manos. ¿Esto son manos o bloques de hielo?"
+    },
+    "Zd+FDA": {
+        "ko": "제가 온 목적은...",
+        "en": "The reason I came is...",
+        "pt": "O motivo de eu ter vindo é...",
+        "es": "A lo que he venido es..."
+    },
+    "Zt+FDA": {
+        "ko": "- 감동의 조각과 고대 신전에 대한 이야기를 한다.",
+        "en": "#NAME?",
+        "pt": "#NAME?",
+        "es": "#NAME?"
+    },
+    "Z9+FDA": {
+        "ko": "[얼음조각사]\n네? 감동의 조각이요? 그런게 저에게 있을리가요? 내 마음 속의 에너지는 모두 고갈됐어요. 오로지 추위를 싫어하는 마음뿐!",
+        "en": "[Ice Sculptor]\nPardon? A Piece of Emotion? How could I possibly have something like that? All the energy in my heart is completely drained. All that's left is my hatred of the cold!",
+        "pt": "[Escultor de Gelo]\nHã? Fragmento de Emoção? Não tem como eu ter algo assim. Toda a energia do meu coração já se esgotou. Só restou meu desgosto pelo frio!",
+        "es": "[Escultor de hielo]\n¿Eh? ¿Un Fragmento de Emoción? ¿Cómo voy a tener yo algo así? Toda la energía de mi corazón está agotada. ¡Solo me queda el sentimiento de odiar el frío!"
+    },
+    "aN+FDA": {
+        "ko": "따뜻한 곳으로 가면 되잖아요.",
+        "en": "Then go somewhere warm.",
+        "pt": "Então é só ir para um lugar quente.",
+        "es": "Entonces vaya a un lugar cálido."
+    },
+    "ad+FDA": {
+        "ko": "[얼음조각사]\n따뜻한 곳에선 일을 못하잖아요! 얼음 조각은 추운 곳에서 해야 한다고요. 얼음으로 생생한 순간을 아름답게 조각해야 하는데...",
+        "en": "[Ice Sculptor]\nYou can't do this work somewhere warm! Ice sculptures have to be made in cold places. I have to beautifully sculpt vivid moments out of ice...",
+        "pt": "[Escultor de Gelo]\nEm um lugar quente eu não consigo trabalhar! Escultura de gelo tem que ser feita em lugar frio. Tenho que esculpir em gelo momentos vívidos e belos, mas...",
+        "es": "[Escultor de hielo]\n¡En un lugar cálido no se puede trabajar! ¡Las esculturas de hielo deben hacerse en lugares fríos! Hay que tallar con hielo esos momentos vívidos y hermosos..."
+    },
+    "at+FDA": {
+        "ko": "[얼음조각사]\n얼음 조각 대신 물놀이나 하라고요?",
+        "en": "[Ice Sculptor]\nAre you telling me to go play in the water instead of making ice sculptures?",
+        "pt": "[Escultor de Gelo]\nEstá me dizendo para largar as esculturas de gelo e ir brincar na água?",
+        "es": "[Escultor de hielo]\n¿Qué? ¿Quiere que, en vez de esculpir hielo, me ponga a jugar en el agua?"
+    },
+    "a9+FDA": {
+        "ko": "그럼 덜 추운 곳으로 가면 되잖아요.",
+        "en": "Then go somewhere less cold.",
+        "pt": "Então é só ir para um lugar menos frio.",
+        "es": "Entonces vaya a un lugar menos frío."
+    },
+    "bN+FDA": {
+        "ko": "[얼음조각사]\n어떻게 그런 말을 하죠? 그럼 이 눈을 포기 해야 하잖아요! 눈 때문에 이곳에 있는 건데. 그 어디에서도 볼 수 없는 저 아름다운 눈!",
+        "en": "[Ice Sculptor]\nHow can you say that? Then I'd have to give up this snow! I'm here because of the snow. That beautiful snow you can't see anywhere else!",
+        "pt": "[Escultor de Gelo]\nComo você pode dizer uma coisa dessas? Isso quer dizer desistir desta neve! Eu estou aqui por causa da neve. Desta neve linda que não existe em nenhum outro lugar!",
+        "es": "[Escultor de hielo]\n¿Cómo puede decir algo así? ¡Eso significaría renunciar a esta nieve! Estoy aquí por la nieve. ¡Esta nieve hermosa que no puede verse en ningún otro lugar!"
+    },
+    "bd+FDA": {
+        "ko": "눈을 좋아하세요?",
+        "en": "Do you like snow?",
+        "pt": "Você gosta de neve?",
+        "es": "¿Le gusta la nieve?"
+    },
+    "bt+FDA": {
+        "ko": "[얼음조각사]\n그 무슨 당연한 소릴? 손에 닿으면 찰나에 물로 변해버리는 꽃이지만 떨어질 때만큼은 너무 아름다운 저 꽃을 어떻게 안 좋아할 수가 있겠어요?",
+        "en": "[Ice Sculptor]\nWhat kind of obvious question is that? How could anyone not love those flowers that turn to water the moment they touch your hand, yet are so beautiful as they fall?",
+        "pt": "[Escultor de Gelo]\nMas é claro! Como eu poderia não gostar daquela flor que vira água no instante em que toca a mão, mas que no momento em que cai é bela demais?",
+        "es": "[Escultor de hielo]\n¿Qué clase de pregunta es esa? Aunque al tocarla se convierta en agua en un instante, ¿cómo no me va a gustar esa flor tan hermosa justo cuando cae?"
+    },
+    "b9+FDA": {
+        "ko": "[얼음조각사]\n처음 눈꽃을 봤을 땐 날이 추운데도 봄이 다시 온 줄 알았어요. 바람을 타고 하늘하늘 떨어지는 저 눈꽃 말이에요.",
+        "en": "[Ice Sculptor]\nWhen I first saw snowflakes, even though it was cold, I thought spring had come again. Those snowflakes drifting softly on the wind.",
+        "pt": "[Escultor de Gelo]\nQuando vi os flocos de neve pela primeira vez, apesar do frio, achei que a primavera tinha voltado de novo. Aqueles flocos de neve caindo suavemente ao vento.",
+        "es": "[Escultor de hielo]\nLa primera vez que vi copos de nieve, aunque hacía frío, pensé que la primavera había vuelto. Esos copos que caen suavemente llevados por el viento."
+    },
+    "cN+FDA": {
+        "ko": "[얼음조각사]\n하늘하늘 떨어지는, 무게감마저 느껴지지 않는 저 눈꽃을 표현하고 싶어서 그렇게 노력했지만...",
+        "en": "[Ice Sculptor]\nI tried so hard because I wanted to express those snowflakes that drift down so softly you can barely even feel their weight...",
+        "pt": "[Escultor de Gelo]\nEu me esforcei tanto porque queria expressar aqueles flocos de neve que caem suavemente, tão leves que nem parecem ter peso...",
+        "es": "[Escultor de hielo]\nHe intentado con todas mis fuerzas expresar esos copos ligeros que caen flotando, sin que se perciba siquiera su peso, pero..."
+    },
+    "cd+FDA": {
+        "ko": "[얼음조각사]\n잘 되지도 않고, 추워서 손마저 얼어 버리고 이젠 정말 포기해야 할 때인가 봐요. 저 눈꽃을 손에 넣고 싶었는데.",
+        "en": "[Ice Sculptor]\nBut it didn't go well, and the cold froze my hands, and now I guess it's really time to give up. I wanted to hold those snowflakes in my hands.",
+        "pt": "[Escultor de Gelo]\nMas não está dando certo, minhas mãos congelam de tanto frio, e acho que agora chegou mesmo a hora de desistir. Eu queria segurar aqueles flocos de neve nas mãos.",
+        "es": "[Escultor de hielo]\nNada me sale bien, el frío me congela las manos, y supongo que de verdad ha llegado el momento de rendirme. Quería tener esos copos de nieve en mis manos."
+    },
+    "ct+FDA": {
+        "ko": "그럼 눈꽃을 가져 봐요. 이렇게요.",
+        "en": "Then try holding the snowflakes. Like this.",
+        "pt": "Então tente pegar os flocos de neve. Assim.",
+        "es": "Entonces intente tomar los copos. Así."
+    },
+    "c9+FDA": {
+        "ko": "[얼음조각사]\n춤을요...? 눈꽃을 흉내내면서...?",
+        "en": "[Ice Sculptor]\nA dance...? While imitating snowflakes...?",
+        "pt": "[Escultor de Gelo]\nUma dança...? Imitando os flocos de neve...?",
+        "es": "[Escultor de hielo]\n¿Bailar...? ¿Imitando a los copos de nieve...?"
+    },
+    "dN+FDA": {
+        "ko": "[얼음조각사]\n아...! 정말 눈꽃이 내리는 것과 같은 모습이에요! 바람을 타고 하늘로 날아가는 눈꽃...!",
+        "en": "[Ice Sculptor]\nAh...! It really looks just like snowflakes falling! Snowflakes riding the wind and drifting into the sky...!",
+        "pt": "[Escultor de Gelo]\nAh...! Parece mesmo neve caindo! Flocos de neve voando para o céu ao sabor do vento...!",
+        "es": "[Escultor de hielo]\n¡Ah...! ¡Es justo como si estuviera nevando de verdad! ¡Copos de nieve que vuelan hacia el cielo llevados por el viento...!"
+    },
+    "dd+FDA": {
+        "ko": "[얼음조각사]\n내가 직접 눈꽃을 표현하는 방법도 있었는데!! 이렇게...! 이렇게...!",
+        "en": "[Ice Sculptor]\nThere was a way for me to express snowflakes myself!! Like this...! Like this...!",
+        "pt": "[Escultor de Gelo]\nTambém havia um jeito de eu mesmo expressar os flocos de neve!! Assim...! Assim...!",
+        "es": "[Escultor de hielo]\n¡También había una forma de expresar yo mismo los copos de nieve! ¡Así...! ¡Así...!"
+    },
+    "dt+FDA": {
+        "ko": "추워야만 볼 수 있는 것도 있지요.",
+        "en": "There are things you can see only when it's cold.",
+        "pt": "Há coisas que só podem ser vistas no frio.",
+        "es": "Hay cosas que solo pueden verse cuando hace frío."
+    },
+    "d9+FDA": {
+        "ko": "[얼음조각사]\n맞아요. 춥다고 짜증낼 것이 아니었어요. 눈꽃은 추워야만 볼 수 있는데..!",
+        "en": "[Ice Sculptor]\nThat's right. I shouldn't have been irritated just because it was cold. You can only see snowflakes when it's cold..!",
+        "pt": "[Escultor de Gelo]\nÉ verdade. Eu não devia ficar irritado por causa do frio. Os flocos de neve só podem ser vistos quando está frio..!",
+        "es": "[Escultor de hielo]\nTiene razón. No debería haberme enfadado por el frío. ¡Los copos de nieve solo pueden verse cuando hace frío...!"
+    },
+    "eN+FDA": {
+        "ko": "[얼음조각사]\n저에게 눈꽃을 주셔서 정말 고마워요.",
+        "en": "[Ice Sculptor]\nThank you so much for giving me snowflakes.",
+        "pt": "[Escultor de Gelo]\nMuito obrigada por me dar os flocos de neve.",
+        "es": "[Escultor de hielo]\nMuchas gracias por darme los copos de nieve."
+    },
+    "ed+FDA": {
+        "ko": "[얼음조각사]\n그런데 아까부터 제 마음이 계속 끓고 있거든요? 그 다른 조각이 아무래도 그런 곳에 있는 것 같아요. <NAVI>[모로크]<INFO>morocc,100,31,0,101,0</INFO></NAVI> 같은...? 어서 가 봐요.",
+        "en": "[Ice Sculptor]\nBut my heart has been boiling this whole time, you know? I think that other piece is probably in a place like that. Somewhere like <NAVI>[Morroc]<INFO>morocc,100,31,0,101,0</INFO></NAVI> perhaps...? Hurry and go.",
+        "pt": "[Escultor de Gelo]\nMas sabe, meu coração não para de ferver desde agora há pouco. Acho que o outro fragmento está em algum lugar assim. Algo como <NAVI>[Morroc]<INFO>morocc,100,31,0,101,0</INFO></NAVI>...? Vá logo.",
+        "es": "[Escultor de hielo]\nPero, ¿sabe? Desde hace un rato siento que mi corazón sigue hirviendo. Creo que ese otro fragmento debe de estar en un lugar como <NAVI>[Morroc]<INFO>morocc,100,31,0,101,0</INFO></NAVI>. Vaya enseguida."
+    },
+    "et+FDA": {
+        "ko": "- 결정을 손에 쥐자 어딘가로 이끄는 힘이 느껴진다.",
+        "en": "#NAME?",
+        "pt": "#NAME?",
+        "es": "#NAME?"
+    },
+    "e9+FDA": {
+        "ko": "힘을 따라 간다.",
+        "en": "Follow the power.",
+        "pt": "Seguir a força.",
+        "es": "Sigo la fuerza."
+    },
+    "fN+FDA": {
+        "ko": "이곳에 남는다.",
+        "en": "Remain here.",
+        "pt": "Ficar aqui.",
+        "es": "Me quedo aquí."
+    },
+    "fd+FDA": {
+        "ko": "[얼음조각사]\n<NAVI>[모로크]<INFO>morocc,100,31,0,101,0</INFO></NAVI> 쪽에서 또다른 조각의 기운이 느껴진다고 하지 않았어요?",
+        "en": "[Ice Sculptor]\nDidn't I tell you that I could feel the energy of another piece from somewhere around <NAVI>[Morroc]<INFO>morocc,100,31,0,101,0</INFO></NAVI>?",
+        "pt": "[Escultor de Gelo]\nEu não disse que sentia a energia de outro fragmento vindo da direção de <NAVI>[Morroc]<INFO>morocc,100,31,0,101,0</INFO></NAVI>?",
+        "es": "[Escultor de hielo]\n¿No dijo que sentía la energía de otro fragmento por la zona de <NAVI>[Morroc]<INFO>morocc,100,31,0,101,0</INFO></NAVI>?"
+    },
+    "ft+FDA": {
+        "ko": "[얼음조각사]\n어? 나에게 눈꽃의 춤을 가르쳐 주었던...! 저 이제는 정말 즐겁게 이 추위를 즐기게 되었어요.",
+        "en": "[Ice Sculptor]\nHuh? The one who taught me the dance of snowflakes...! I really enjoy this cold now.",
+        "pt": "[Escultor de Gelo]\nAh? Você que me ensinou a dança dos flocos de neve...! Agora eu realmente passei a aproveitar este frio com alegria.",
+        "es": "[Escultor de hielo]\n¿Eh? ¡Pero si eres quien me enseñó la danza de los copos de nieve...! Ahora de verdad disfruto de este frío con alegría."
+    },
+    "f9+FDA": {
+        "ko": "구도자",
+        "en": "Seeker",
+        "pt": "Buscador",
+        "es": "Buscador"
+    },
+    "gN+FDA": {
+        "ko": "[구도자]\n휴- 오늘도 덥네. 어쩌면 이렇게 더울까?",
+        "en": "[Seeker]\nWhew- It's hot again today. How can it be this hot?",
+        "pt": "[Buscador]\nUfa- Hoje também está quente. Como pode estar tão quente assim?",
+        "es": "[Buscador]\nUf... Hoy también hace calor. ¿Cómo puede hacer tantísimo calor?"
+    },
+    "gd+FDA": {
+        "ko": "[구도자]\n사람이 어떻게 이렇게 더운데서 살 생각을 했을까? 아, 시원한 그늘에서 명상하고 싶다.",
+        "en": "[Seeker]\nHow could anyone think of living in a place this hot? Ah, I want to meditate in cool shade.",
+        "pt": "[Buscador]\nComo alguém pode pensar em viver num lugar tão quente? Ah, queria meditar em uma sombra fresquinha.",
+        "es": "[Buscador]\n¿Cómo pudo alguien pensar en vivir en un lugar tan caluroso? Ah, quiero meditar a la sombra, en un sitio fresco."
+    },
+    "gt+FDA": {
+        "ko": "[구도자]\n왜 스승님은 이런 곳으로 수련을 보내셨을까. 혹시 내가 밉보인 것은 아닐까. 지금이라도 가서 싹싹 비는 것이 좋지 않을까. 그게 무엇이든.",
+        "en": "[Seeker]\nWhy did Master send me here to train? Could it be that I displeased him? Wouldn't it be better to go back and beg for forgiveness right now? Whatever it may be.",
+        "pt": "[Buscador]\nPor que será que o mestre me mandou treinar num lugar desses? Será que ele pegou birra de mim? Não seria melhor eu ir lá agora mesmo pedir perdão, rastejando, seja pelo que for?",
+        "es": "[Buscador]\n¿Por qué el maestro me enviaría a entrenar a un lugar así? ¿Será que le caí mal? ¿No sería mejor volver ahora mismo y suplicarle? Sea por lo que sea."
+    },
+    "g9+FDA": {
+        "ko": "[구도자]\n그러면 스승님의 마음도 풀리지 않을까. 어찌하여 나는 태어났고 무슨 죄로 이곳에서 말라가는가.",
+        "en": "[Seeker]\nThen perhaps Master's heart would soften. Why was I born, and for what sin am I drying up in this place?",
+        "pt": "[Buscador]\nTalvez assim o coração do mestre se acalme. Por que eu nasci e por qual pecado estou secando neste lugar?",
+        "es": "[Buscador]\nEntonces quizá el corazón del maestro se ablandaría. ¿Por qué nací, y con qué pecado me marchito aquí?"
+    },
+    "hN+FDA": {
+        "ko": "사람이 말라간다!",
+        "en": "A person is drying up!",
+        "pt": "Uma pessoa está secando!",
+        "es": "¡Una persona se está marchitando!"
+    },
+    "hd+FDA": {
+        "ko": "[구도자]\n누구신데 저에게 모욕을 주시는 겁니까. 저는 그저 존재할 따름입니다. 식물이 아닌데 말라 간다니요.",
+        "en": "[Seeker]\nWho are you to insult me like that? I merely exist. I am not a plant, so how could I be drying up?",
+        "pt": "[Buscador]\nQuem é você para me insultar desse jeito? Eu apenas existo. Eu não sou uma planta, então como assim estou secando?",
+        "es": "[Buscador]\n¿Quién es usted para insultarme de esa manera? Yo simplemente existo. No soy una planta como para marchitarme."
+    },
+    "ht+FDA": {
+        "ko": "- 감동의 조각과 고대 신전에 관한 이야기를 한다.",
+        "en": "#NAME?",
+        "pt": "#NAME?",
+        "es": "#NAME?"
+    },
+    "h9+FDA": {
+        "ko": "[구도자]\n흠, 그것 참 이상하군요. 최근에 별다른 느낌은 들지 않았는데? 제가 수련을 하는 사람인데 그런 것이 저에게 생겼으면 기민하게 알아차렸겠죠.",
+        "en": "[Seeker]\nHmm, that is quite strange. I haven't felt anything unusual recently. I'm someone who trains, so if something like that had appeared in me, I would have noticed it keenly.",
+        "pt": "[Buscador]\nHmm, isso é realmente estranho. Ultimamente não senti nada de especial. Sou uma pessoa em treinamento, então se algo assim tivesse surgido em mim, eu teria percebido com sensibilidade.",
+        "es": "[Buscador]\nHmm, eso sí que es extraño. Últimamente no he sentido nada fuera de lo normal. Soy una persona que entrena; si algo así me hubiera pasado, me habría dado cuenta enseguida."
+    },
+    "iN+FDA": {
+        "ko": "[구도자]\n그나저나 큰일이군요. 세계가 멸망할 것이라니, 길을 구하는 자로서 듣고만 있을 수는 없군요. 제가 무엇을 도와드리면 됩니까? 돕게 해주십시오!",
+        "en": "[Seeker]\nStill, this is serious. If the world is going to perish, I cannot simply listen as one who seeks the Way. What can I do to help you? Please let me help!",
+        "pt": "[Buscador]\nDe qualquer forma, isso é grave. Se o mundo vai acabar, como alguém que busca o caminho, não posso apenas ouvir e ficar parado. Como posso ajudá-lo? Por favor, deixe-me ajudar!",
+        "es": "[Buscador]\nEn cualquier caso, esto es grave. Si el mundo va a ser destruido, como alguien que busca el camino no puedo quedarme sin hacer nada. ¿En qué puedo ayudarle? ¡Permítame ayudarle!"
+    },
+    "id+FDA": {
+        "ko": "[구도자]\n아, 아닙니다. 제가 분수도 모르고 설칠 뻔했군요. 저는 수련생일뿐인데. 제가 도움이 될 수 있을 리가 없습니다.",
+        "en": "[Seeker]\nAh, no. I nearly acted out of turn. I'm only a trainee. There's no way I could be of help.",
+        "pt": "[Buscador]\nAh, não. Por pouco eu não me empolguei sem conhecer meu lugar. Sou apenas um aprendiz. Não há como eu poder ser útil.",
+        "es": "[Buscador]\nAh, no, no. Estuve a punto de entrometerme sin saber cuál es mi lugar. No soy más que un aprendiz. No hay forma de que yo pueda ser de ayuda."
+    },
+    "it+FDA": {
+        "ko": "상당한 경지에 이른 것 같은데요?",
+        "en": "You seem to have reached a considerable level.",
+        "pt": "Parece que você alcançou um nível bem alto.",
+        "es": "Parece haber alcanzado un nivel considerable."
+    },
+    "i9+FDA": {
+        "ko": "[구도자]\n저도 그렇게 생각했습니다만... 스승님의 눈엔 그렇게 보이지 않았나 봅니다. 수제자가 되리라 생각했는데 느닷없이 이런 곳으로 보내셔서는...",
+        "en": "[Seeker]\nI thought so too... but I suppose Master did not see it that way. I thought I would become his foremost disciple, but instead he suddenly sent me to a place like this...",
+        "pt": "[Buscador]\nEu também pensei isso... mas acho que, aos olhos do mestre, não era assim. Eu achava que me tornaria o discípulo principal, mas de repente ele me mandou para um lugar desses...",
+        "es": "[Buscador]\nYo también lo pensaba... pero supongo que a los ojos del maestro no era así. Creí que me convertiría en su discípulo principal, y de repente me envió a un lugar como este..."
+    },
+    "jN+FDA": {
+        "ko": "[구도자]\n부끄럽게도 아직 그 뜻조차 헤아리지 못하고 이렇게 시간을 허비하고 있습니다. 스승님은 제가 이곳에서 무엇을 보고 배우길 원하셨을까요?",
+        "en": "[Seeker]\nShamefully, I still haven't even grasped his intent and have been wasting my time here. What did Master want me to see and learn in this place?",
+        "pt": "[Buscador]\nVergonhosamente, ainda nem consegui compreender a intenção dele e estou desperdiçando meu tempo assim. O que será que o mestre queria que eu visse e aprendesse aqui?",
+        "es": "[Buscador]\nMe avergüenza decir que ni siquiera he logrado comprender todavía esa intención y sigo perdiendo el tiempo aquí. ¿Qué querría el maestro que viera y aprendiera en este lugar?"
+    },
+    "jd+FDA": {
+        "ko": "[구도자]\n그러니 그냥 제가 할 수 있는 걸 할 수 밖에요. 만약 나중에 미약한 도움이라도 필요하시다면 말씀해주세요. 기꺼이 도움을 드리겠습니다. 그럼...",
+        "en": "[Seeker]\nSo I have no choice but to do what I can. If later you need even the slightest help, please tell me. I will gladly help you. Then...",
+        "pt": "[Buscador]\nEntão não tenho escolha a não ser fazer o que posso. Se mais tarde você precisar nem que seja de uma pequena ajuda, fale comigo. Terei prazer em ajudar. Então...",
+        "es": "[Buscador]\nAsí que no me queda otra que hacer lo que puedo. Si más adelante necesita aunque sea una pequeña ayuda, dígamelo. Se la ofreceré con gusto. Entonces..."
+    },
+    "jt+FDA": {
+        "ko": "[구도자]\n합! 합!!!",
+        "en": "[Seeker]\nHup! Hup!!!",
+        "pt": "[Buscador]\nHá! Há!!!",
+        "es": "[Buscador]\n¡Ha! ¡Ha!!!"
+    },
+    "j9+FDA": {
+        "ko": "움직임이 단단해 보이네요.",
+        "en": "Your movements look rigid.",
+        "pt": "Seu movimento parece rígido.",
+        "es": "Su movimiento parece rígido."
+    },
+    "kN+FDA": {
+        "ko": "[구도자]\n단단해 보인다는 것이 무슨 뜻입니까? 아, 혹시 기합이 잔뜩 들어가서 몸이 경직되었다는 말씀이십니까?",
+        "en": "[Seeker]\nWhat do you mean, they look rigid? Ah, do you mean my body has stiffened because I am putting too much spirit into it?",
+        "pt": "[Buscador]\nO que quer dizer com parecer rígido? Ah, será que quer dizer que meu corpo está tenso demais porque estou cheio de ímpeto?",
+        "es": "[Buscador]\n¿Qué quiere decir con que parece rígido? Ah, ¿quiere decir que, al concentrarme tanto, mi cuerpo se ha tensado?"
+    },
+    "kd+FDA": {
+        "ko": "[구도자]\n부끄럽지만 수백의 제자들 중에서 유연성에 있어서는 저를 따를 자가 없었습니다만... 다리와 허리, 심지어 발가락 끝까지 세바퀴를 구부릴 수 있는 것은 저 뿐이었습니다만.",
+        "en": "[Seeker]\nIt's embarrassing to say, but among hundreds of disciples, none could match me in flexibility... I alone could bend my legs, waist, and even the tips of my toes three full turns.",
+        "pt": "[Buscador]\nÉ vergonhoso dizer isso, mas entre centenas de discípulos, ninguém podia me igualar em flexibilidade... Só eu conseguia dobrar três voltas as pernas, a cintura e até a ponta dos pés.",
+        "es": "[Buscador]\nAunque me avergüence decirlo, entre cientos de discípulos nadie podía superarme en flexibilidad... Solo yo podía doblar tres vueltas las piernas, la cintura e incluso la punta de los dedos del pie."
+    },
+    "kt+FDA": {
+        "ko": "추운 곳의 무술 같아 보여요.",
+        "en": "It looks like martial arts from a cold place.",
+        "pt": "Parece uma arte marcial de lugar frio.",
+        "es": "Parece un arte marcial de un lugar frío."
+    },
+    "k9+FDA": {
+        "ko": "[구도자]\n추운 곳의 무술이라.., 무슨 뜻일까요, 그것이? 확실히 이곳에서는 제대로 움직일 수가 없습니다만, 이런 극한 기온에서는 당연한 이야기... 어...?",
+        "en": "[Seeker]\nMartial arts from a cold place... what could that mean? Certainly I can't move properly here, but that's only natural in such extreme temperatures... huh...?",
+        "pt": "[Buscador]\nArte marcial de lugar frio..., o que isso significa? De fato, aqui não consigo me mover direito, mas isso é natural numa temperatura extrema dessas... Ah...?",
+        "es": "[Buscador]\n¿Un arte marcial de un lugar frío...? ¿Qué querrá decir eso? Desde luego, aquí no puedo moverme como es debido, pero en una temperatura tan extrema eso es natural... eh...?"
+    },
+    "lN+FDA": {
+        "ko": "[구도자]\n그러고보니 스승님께서도 그 비슷한 말씀을 하신적이 있습니다. 흐름에 몸을 맡기고 좀 더 부드러워져야 한다고...",
+        "en": "[Seeker]\nCome to think of it, Master once said something similar. That I should entrust my body to the flow and become softer...",
+        "pt": "[Buscador]\nAgora que penso nisso, o mestre já disse algo parecido. Que eu deveria confiar o corpo ao fluxo e ficar mais suave...",
+        "es": "[Buscador]\nAhora que lo pienso, el maestro dijo algo parecido una vez. Que debía dejarme llevar por la corriente y volverme más flexible..."
+    },
+    "ld+FDA": {
+        "ko": "[구도자]\n그것이 저를 이곳으로 보내신 까닭과 연관이 있을까요? 그렇지만 그것이 무엇일까요? 부드러운 것은 약하다는 뜻 아닙니까?",
+        "en": "[Seeker]\nCould that be related to why he sent me here? But what could it mean? Doesn't being soft mean being weak?",
+        "pt": "[Buscador]\nSerá que isso tem relação com o motivo de ele ter me enviado para cá? Mas o que seria isso? Ser suave não significa ser fraco?",
+        "es": "[Buscador]\n¿Podría estar relacionado con la razón por la que me envió aquí? Pero ¿qué significa eso? ¿No quiere decir que ser flexible es ser débil?"
+    },
+    "lt+FDA": {
+        "ko": "쇳물은 부드럽지만 약하지는 않죠.",
+        "en": "Molten metal is soft, but not weak.",
+        "pt": "Metal derretido é suave, mas não é fraco.",
+        "es": "El metal fundido es flexible, pero no débil."
+    },
+    "l9+FDA": {
+        "ko": "[구도자]\n쇳물은... 그렇지요! 그것은 무엇이라도 될 수 있을 정도로 부드럽지만 뜨거운 열기로 인해 그 누구도 손을 댈 수 없지요!",
+        "en": "[Seeker]\nMolten metal is... that's right! It is soft enough to become anything, yet because of its scorching heat, no one can touch it!",
+        "pt": "[Buscador]\nMetal derretido... isso mesmo! Ele é suave o bastante para se tornar qualquer coisa, mas ninguém consegue tocá-lo por causa do calor ardente!",
+        "es": "[Buscador]\nEl metal fundido... ¡Es cierto! Puede llegar a convertirse en cualquier cosa por lo flexible que es, pero nadie puede tocarlo por el calor abrasador que desprende."
+    },
+    "mN+FDA": {
+        "ko": "[구도자]\n이제야 알겠습니다! 스승님은 저에게 부족한 것이 무엇인지 알고 저를 이곳으로 보내 그것을 배우길 바라셨던 겁니다!",
+        "en": "[Seeker]\nNow I understand! Master knew what I lacked and sent me here so I could learn it!",
+        "pt": "[Buscador]\nAgora eu entendi! O mestre sabia o que me faltava e me mandou para cá para que eu aprendesse isso!",
+        "es": "[Buscador]\n¡Ahora lo entiendo! ¡El maestro sabía lo que me faltaba y me envió aquí para que lo aprendiera!"
+    },
+    "md+FDA": {
+        "ko": "[구도자]\n저 사막의 아지랑이처럼! 저 사막의 전갈처럼! 모든 것을 녹이고! 모든 것을 굳히고!",
+        "en": "[Seeker]\nLike the mirage in this desert! Like the scorpion in this desert! Melt everything! Harden everything!",
+        "pt": "[Buscador]\nComo aquela miragem do deserto! Como aquele escorpião do deserto! Derretendo tudo! Solidificando tudo!",
+        "es": "[Buscador]\n¡Como ese espejismo del desierto! ¡Como ese escorpión del desierto! ¡Derritiéndolo todo! ¡Solidificándolo todo!"
+    },
+    "mt+FDA": {
+        "ko": "[구도자]\n스텝은 아지랑이처럼 가볍게! 주먹은 저 열기처럼 화끈하게!",
+        "en": "[Seeker]\nSteps as light as a mirage! Fists as blazing as this heat!",
+        "pt": "[Buscador]\nOs passos, leves como uma miragem! Os punhos, ardentes como esse calor!",
+        "es": "[Buscador]\n¡Los pasos, ligeros como un espejismo! ¡Los puños, ardientes como ese calor!"
+    },
+    "m9+FDA": {
+        "ko": "[구도자]\n합~ 합~ 불타오르네~ 합~ 퐈이야~♨",
+        "en": "[Seeker]\nHup~ Hup~ I'm burning up~ Hup~ Fire~♨",
+        "pt": "[Buscador]\nHá~ há~ estou pegando fogo~ há~ faaia~♨",
+        "es": "[Buscador]\n¡Ha~ ha~ me estoy encendiendo~ ha~ fueeego~♨"
+    },
+    "nN+FDA": {
+        "ko": "어이쿠 뜨거워라.",
+        "en": "Oh my, that's hot.",
+        "pt": "Nossa, que quente.",
+        "es": "Ay, qué calor."
+    },
+    "nd+FDA": {
+        "ko": "[구도자]\n저런! 열기에 데이셨나요? 후끈하신가요? 그렇다면 저와 함께 움직여 보세요! 뜨거움은 뜨거움으로 잊는 법!",
+        "en": "[Seeker]\nOh dear! Did the heat burn you? Feeling hot? Then move with me! The way to forget heat is with more heat!",
+        "pt": "[Buscador]\nOra! Você se queimou com o calor? Está sentindo calor? Então mova-se comigo! O calor se esquece com mais calor!",
+        "es": "[Buscador]\n¡Vaya! ¿Se ha quemado con el calor? ¿Se siente sofocado? Entonces, ¡muévase conmigo! ¡El calor se olvida con más calor!"
+    },
+    "nt+FDA": {
+        "ko": "[구도자]\n자, 나를 따라 움직여 봐요! 가슴 속의 뜨거운 열기를 분출해 봐요! 퐈이야!!! 열정을 다해!",
+        "en": "[Seeker]\nNow, follow my movements! Let out the blazing heat in your chest! Fire!!! With all your passion!",
+        "pt": "[Buscador]\nVenha, siga meus movimentos! Libere o calor ardente dentro do seu peito! Faaia!!! Com toda a paixão!",
+        "es": "[Buscador]\n¡Vamos, intente seguir mis movimientos! ¡Expulse el ardor que lleva en el pecho! ¡Fueeego!!! ¡Con toda su pasión!"
+    },
+    "n9+FDA": {
+        "ko": "[구도자]\n이제 알겠어요! 극한은 극으로 통하고, 이곳은 삶 자체가 수행이라는 것을!",
+        "en": "[Seeker]\nNow I understand! Extremes connect to extremes, and this place itself is training!",
+        "pt": "[Buscador]\nAgora eu entendo! O extremo conduz ao extremo, e este lugar mostra que a própria vida é prática!",
+        "es": "[Buscador]\n¡Ahora lo entiendo! ¡Los extremos se comunican entre sí, y este lugar demuestra que la vida misma es disciplina!"
+    },
+    "oN+FDA": {
+        "ko": "[구도자]\n저에게 깨달음을 주셔서 감사합니다. 저는 이제 모든 것을 깨달았으니 유사권을 수련하여 스승님께 부끄럽지 않은 제자가 되겠습니다!",
+        "en": "[Seeker]\nThank you for giving me enlightenment. I have now realized everything, so I will train my Fist of Flame and become a disciple who will not shame Master!",
+        "pt": "[Buscador]\nObrigado por me dar essa iluminação. Agora que compreendi tudo, vou treinar o Punho Pseudo para me tornar um discípulo de que o mestre não precise se envergonhar!",
+        "es": "[Buscador]\nGracias por darme esta iluminación. Ahora que lo he comprendido todo, entrenaré el Yusagwon para convertirme en un discípulo del que mi maestro no tenga que avergonzarse."
+    },
+    "od+FDA": {
+        "ko": "[구도자]\n합~ 합~~ 퐈이야~♨",
+        "en": "[Seeker]\nHup~ Hup~~ Fire~♨",
+        "pt": "[Buscador]\nHá~ há~~ faaia~♨",
+        "es": "[Buscador]\n¡Ha~ ha~~ fueeego~♨"
+    },
+    "ot+FDA": {
+        "ko": "[구도자]\n그런데 말입니다. 아까부터 굴 속에서 울리는 것 같은 소리가 나는데요. 이거, 그거죠? 그럼 <NAVI>[아인베흐 광산]<INFO>ein_dun01,43,271,0,101,0</INFO></NAVI>으로 가 보세요. 자꾸 그곳이 생각나니깐.",
+        "en": "[Seeker]\nBy the way. I've been hearing a sound like it's echoing from inside a cave. This is it, right? Then go to <NAVI>[Einbech Mine]<INFO>ein_dun01,43,271,0,101,0</INFO></NAVI>. I keep thinking about that place.",
+        "pt": "[Buscador]\nMas veja só. Desde agora há pouco, estou ouvindo um som como se ecoasse dentro de uma caverna. É isso, não é? Então vá para <NAVI>[Mina de Einbech]<INFO>ein_dun01,43,271,0,101,0</INFO></NAVI>. Não paro de pensar naquele lugar.",
+        "es": "[Buscador]\nPor cierto, desde hace rato oigo un sonido como resonando dentro de una cueva. Es eso, ¿verdad? Entonces vaya a <NAVI>[Mina de Einbech]<INFO>ein_dun01,43,271,0,101,0</INFO></NAVI>. No dejo de pensar en ese lugar."
+    },
+    "o9+FDA": {
+        "ko": "[구도자]\n<NAVI>[아인베흐 광산]<INFO>ein_dun01,43,271,0,101,0</INFO></NAVI>으로 가셔야 한다고 그러더니, 아직 이곳에 볼일이 남아 있어요?",
+        "en": "[Seeker]\nI told you to go to <NAVI>[Einbech Mine]<INFO>ein_dun01,43,271,0,101,0</INFO></NAVI>, but do you still have business here?",
+        "pt": "[Buscador]\nEu disse que você tinha que ir para <NAVI>[Mina de Einbech]<INFO>ein_dun01,43,271,0,101,0</INFO></NAVI>, mas ainda tem algo para fazer aqui?",
+        "es": "[Buscador]\nLe dije que debía ir a <NAVI>[Mina de Einbech]<INFO>ein_dun01,43,271,0,101,0</INFO></NAVI>, ¿todavía tiene algo que hacer aquí?"
+    },
+    "pN+FDA": {
+        "ko": "[구도자]\n이제 조금만 더 하면 완성할 수 있을 것 같아요! 곧 스승님의 애제자가 될 수 있겠죠?",
+        "en": "[Seeker]\nI think I can complete it with just a little more! Soon, I may become Master's favorite disciple, right?",
+        "pt": "[Buscador]\nAcho que, se eu me esforçar só mais um pouco, vou conseguir completar! Logo poderei me tornar o discípulo favorito do mestre, não é?",
+        "es": "[Buscador]\n¡Creo que con un poco más podré completarlo! ¿Pronto podré convertirme en el discípulo favorito del maestro, verdad?"
+    },
+    "pd+FDA": {
+        "ko": "광부",
+        "en": "Miner",
+        "pt": "Mineiro",
+        "es": "Minero"
+    },
+    "pt+FDA": {
+        "ko": "[광부]\n파고 파고 또 파고, 파고, 파고... 어휴... 허리야. 눈도 침침한 것이. 이러다가 허리 부러지겠네. 안 그러냐?",
+        "en": "[Miner]\nDig and dig and dig some more, dig, dig... whew... my back. And my eyes are getting blurry too. At this rate my back's going to snap. Don't you think?",
+        "pt": "[Mineiro]\nCavar, cavar e cavar de novo, cavar, cavar... Ai... minhas costas. E minha vista está ficando embaçada. Desse jeito minhas costas vão acabar quebrando. Não acha?",
+        "es": "[Minero]\nCavar y cavar, y volver a cavar, cavar, cavar... Uf... cómo me duele la espalda. Y encima ya ni veo bien. Así un día me partiré la espalda. ¿No crees?"
+    },
+    "p9+FDA": {
+        "ko": "[광부]\n......",
+        "en": "[Miner]\n......",
+        "pt": "[Mineiro]\n......",
+        "es": "[Minero]\n......"
+    },
+    "qN+FDA": {
+        "ko": "[광부]\n아, 햇빛 한 줌 들면 얼마나 좋을까. 아니지, 갱에 햇빛이 들면 큰일이지. 그나저나 지금 낮인가? 밤인가? 가만? 하늘을 본 것이 언제가 마지막이지?",
+        "en": "[Miner]\nAh, how nice it would be to get even one ray of sunlight. No, that's not right, it'd be a disaster if sunlight came into the mine. Still, is it daytime now? Or night? Wait? When was the last time I saw the sky?",
+        "pt": "[Mineiro]\nAh, como seria bom se entrasse um raiozinho de sol. Não, espera, seria um desastre se entrasse luz do sol na mina. Mas afinal, agora é dia? É noite? Hmm? Quando foi a última vez que olhei para o céu?",
+        "es": "[Minero]\nAh, cuánto daría por que entrara aunque fuera un rayo de sol. No, espera, sería un desastre si entrara el sol en la mina. Por cierto, ¿ahora es de día o de noche? A ver... ¿cuándo fue la última vez que vi el cielo?"
+    },
+    "qd+FDA": {
+        "ko": "[광부]\n...퇴근시간이 지난 거 아닌가? 다 파기 전인데 집에 갈 수는 있나?",
+        "en": "[Miner]\n...Hasn't it already gone past quitting time? I haven't finished digging yet, so can I even go home?",
+        "pt": "[Mineiro]\n...Já não passou da hora de sair do trabalho? Mas ainda nem terminei de cavar, será que posso ir para casa?",
+        "es": "[Minero]\n...¿No habrá pasado ya la hora de salir del trabajo? Pero todavía no he terminado de cavar. ¿Podré volver a casa?"
+    },
+    "qt+FDA": {
+        "ko": "[광부]\n갔다가 여기까지 오기는 더 귀찮은데. 그나저나 언제 다 하지? 나는 왜 이렇게 일이 더딘 거야? 나한테만 어려워?",
+        "en": "[Miner]\nIt'd be even more annoying to come all the way back here after leaving. Still, when will I ever finish? Why am I so slow at this? Is it only hard for me?",
+        "pt": "[Mineiro]\nÉ mais trabalhoso ainda voltar até aqui depois de ir embora. Mas quando será que eu vou terminar? Por que sou tão lento no trabalho? Só comigo é assim?",
+        "es": "[Minero]\nAunque volver hasta aquí luego da más pereza. Pero, en serio, ¿cuándo terminaré? ¿Por qué soy tan lento trabajando? ¿Solo me pasa a mí?"
+    },
+    "q9+FDA": {
+        "ko": "[광부]\n살려줘요. 일을 해도해도 늘지가 않아!",
+        "en": "[Miner]\nPlease save me. No matter how much I work, I never get any faster!",
+        "pt": "[Mineiro]\nMe ajude. Não importa o quanto eu trabalhe, nunca melhora!",
+        "es": "[Minero]\nAyúdeme. ¡Por más que trabajo, no avanzo nada!"
+    },
+    "rN+FDA": {
+        "ko": "[광부]\n어휴, 나 누구랑 말하니.",
+        "en": "[Miner]\nWhew, who am I even talking to.",
+        "pt": "[Mineiro]\nAi... com quem é que eu estou falando.",
+        "es": "[Minero]\nUf, ¿con quién estoy hablando?"
+    },
+    "rd+FDA": {
+        "ko": "쉬지 않고 일하시네요.",
+        "en": "You work without rest.",
+        "pt": "Você trabalha sem parar.",
+        "es": "No para ni un momento de trabajar."
+    },
+    "rt+FDA": {
+        "ko": "[광부]\n쉬면 뭐 한대. 더 힘들기나 하지.",
+        "en": "[Miner]\nWhat good would resting do. It'd only make it harder.",
+        "pt": "[Mineiro]\nE adianta parar? Só fica mais difícil.",
+        "es": "[Minero]\n¿Y de qué sirve descansar? Solo se hace más duro."
+    },
+    "r9+FDA": {
+        "ko": "[광부]\n...? 어이쿠, 사람이네? 사람 맞지? 가끔 나타나던데. 갱도가 무너져서... 알지? 근데 그런 거라도 나타나면 반갑데...",
+        "en": "[Miner]\n...? Oh! It's a person? A real person, right? They show up sometimes. When the mine collapses... you know? But even something like that is nice to see...",
+        "pt": "[Mineiro]\n...? Eita, é uma pessoa? É uma pessoa mesmo? Às vezes apareciam umas coisas assim. A mina desabava... você sabe, né? Mas mesmo essas coisas, quando apareciam, davam até uma certa alegria...",
+        "es": "[Minero]\n...? Vaya, ¿es una persona? ¿Lo es de verdad? A veces aparece alguien. Ya sabe, cuando se derrumba la galería... Pero hasta ver algo así da alegría..."
+    },
+    "sN+FDA": {
+        "ko": "[광부]\n헌데... 그런 것 같아 보이지는 않고. 여기까진 어쩐 일이래?",
+        "en": "[Miner]\nBut... you don't look like one of those. So what brings you all the way here?",
+        "pt": "[Mineiro]\nMas... não parece ser esse tipo de coisa. O que o traz até aqui?",
+        "es": "[Minero]\nAunque... no parece ser eso. Entonces, ¿qué le trae hasta aquí?"
+    },
+    "sd+FDA": {
+        "ko": "[광부]\n그래? 그런 것이 다 있대? 근데 그게 왜 왔대? 여긴 아무 것도 없는데. 여긴 보다시피 탄 뿐인데. 가끔 다이아가 나온다고는 하는데, 그건 잘 모르겠고.",
+        "en": "[Miner]\nReally? Something like that exists? But why did it come here? There's nothing here. As you can see, it's just coal. They say diamonds come out sometimes, but I don't know about that.",
+        "pt": "[Mineiro]\nÉ mesmo? Existe uma coisa dessas? Mas por que ela veio aqui? Aqui não tem nada. Como pode ver, aqui só tem carvão. Dizem que às vezes sai diamante, mas isso eu não sei.",
+        "es": "[Minero]\n¿Sí? ¿Existe algo así? Pero ¿por qué vendría aquí? Aquí no hay nada. Como ve, aquí solo hay carbón. Dicen que a veces sale algún diamante, pero de eso ya no sé nada."
+    },
+    "st+FDA": {
+        "ko": "일이 힘드세요?",
+        "en": "Is work hard for you?",
+        "pt": "O trabalho é pesado?",
+        "es": "¿Le resulta duro el trabajo?"
+    },
+    "s9+FDA": {
+        "ko": "[광부]\n일이야 당연히 힘들지. 허리를 굽히고 먼지 먹어가면서 굴을 파는 건데.",
+        "en": "[Miner]\nOf course work is hard. I have to bend my back and breathe in dust while digging tunnels.",
+        "pt": "[Mineiro]\nClaro que é pesado. Fico cavando galerias, curvado, respirando poeira.",
+        "es": "[Minero]\nClaro que el trabajo es duro. Hay que cavar túneles encorvado y tragando polvo."
+    },
+    "tN+FDA": {
+        "ko": "[광부]\n먹고 살려면 해야지 어쩌겠어.\n... 사실 일이 나쁘지도 않고, 싫지도 않은데 고된 것이 문제야.",
+        "en": "[Miner]\nYou have to do it to make a living, what choice is there.\n...Actually, work isn't bad, and I don't hate it. The problem is that it's exhausting.",
+        "pt": "[Mineiro]\nTem que fazer para sobreviver, fazer o quê.\n... Na verdade, o trabalho nem é ruim, nem é que eu odeie, o problema é que é puxado.",
+        "es": "[Minero]\nPero hay que hacerlo para ganarse la vida, qué le vamos a hacer.\n...En realidad, el trabajo no me parece malo ni me disgusta; el problema es lo duro que es."
+    },
+    "td+FDA": {
+        "ko": "[광부]\n빛도 없는 어두운 곳에서 굴을 파고 있으니 시간 가는 줄도 모르겠고, 적적하기도 해서 더 힘든 것 같아.",
+        "en": "[Miner]\nDigging in a dark place without any light, I lose all sense of time, and it gets lonely too, so I think that makes it even harder.",
+        "pt": "[Mineiro]\nFicar cavando num lugar escuro sem luz nenhuma faz a gente perder a noção do tempo, e também dá uma solidão... Acho que isso torna tudo ainda mais difícil.",
+        "es": "[Minero]\nSupongo que es aún más duro porque estoy cavando en un lugar oscuro donde no entra la luz, pierdo la noción del tiempo y me siento solo."
+    },
+    "tt+FDA": {
+        "ko": "일할 때 무슨 생각 하세요?",
+        "en": "What do you think about while working?",
+        "pt": "No que você pensa enquanto trabalha?",
+        "es": "¿En qué piensa mientras trabaja?"
+    },
+    "t9+FDA": {
+        "ko": "[광부]\n일할 때 무슨 생각을 해. 그냥 하는 거지. 오늘따라 더 힘드네, 내일은 더 힘들겠지. 하는 거. 내가 요령이 없는 건지 같은 시간을 일해도 허리가 더 아프고 더디더라구. 왜일까?",
+        "en": "[Miner]\nWhat do I think about while working? Nothing, I just do it. Thinking today's harder than usual, tomorrow will probably be even harder. That's it. Maybe I just have no knack for it, but even if I work the same amount of time, my back hurts more and I go slower. Why is that?",
+        "pt": "[Mineiro]\nNo que eu penso enquanto trabalho? Em nada, só trabalho. Hoje está mais difícil. Amanhã vai ser ainda pior. É isso. Será que me falta jeito? Mesmo trabalhando o mesmo tempo que os outros, minhas costas doem mais e eu sou mais lento. Por quê?",
+        "es": "[Minero]\n¿En qué voy a pensar? Solo trabajo. Que hoy cuesta más, que mañana costará todavía más. Eso es todo. Igual es que no tengo maña, porque aunque trabajo el mismo tiempo que los demás, a mí me duele más la espalda y avanzo más lento. ¿Por qué será?"
+    },
+    "uN+FDA": {
+        "ko": "허리를 이렇게 굽혔다 펴보세요.",
+        "en": "Try bending and straightening your back like this.",
+        "pt": "Tente dobrar e esticar as costas assim.",
+        "es": "Pruebe a doblar y enderezar la espalda así."
+    },
+    "ud+FDA": {
+        "ko": "[광부]\n이렇게? 어? 허리가 왜 그냥 펴지지? 힘도 안 줬는데? 이게 무슨 일이야? 어디, 한번 더...",
+        "en": "[Miner]\nLike this? Huh? Why is my back straightening on its own? I'm not even putting any strength into it. What's going on? Let me try that again...",
+        "pt": "[Mineiro]\nAssim? Ué? Como é que minhas costas se esticaram sozinhas? Nem fiz força. O que está acontecendo? Vamos ver, mais uma vez...",
+        "es": "[Minero]\n¿Así? ¿Eh? ¿Por qué se me endereza sola la espalda? ¡Si ni he hecho fuerza! ¿Qué está pasando? A ver, otra vez..."
+    },
+    "ut+FDA": {
+        "ko": "[광부]\n어? 거 참 신기하네? 허리가 하나도 안 아프고 더 빨라. 그런데 이 움직임이 꼭 마치... 마치 춤을 추는 것 같은데? 그 왜 가볍게 털고 일어나는...!",
+        "en": "[Miner]\nHuh? That's really strange. My back doesn't hurt at all, and I'm faster too. But this movement is almost like... like dancing, you know? That light shake and getting back up...!",
+        "pt": "[Mineiro]\nUé? Que curioso? Não dói nada nas costas e ainda é mais rápido. Mas esse movimento é como se... como se eu estivesse dançando, não é? Aquele negócio de sacudir e levantar de leve...!",
+        "es": "[Minero]\n¿Eh? Qué curioso... No me duele nada la espalda y encima voy más rápido. Pero este movimiento es como si... como si estuviera bailando. Ya sabe, eso de sacudirse y levantarse con ligereza...!"
+    },
+    "u9+FDA": {
+        "ko": "[광부]\n그런데 몸만 움직이니까 좀 심심한걸...? 노래가 빠질 수 없지.",
+        "en": "[Miner]\nBut moving the body alone feels a bit dull... You can't leave out a song, right?",
+        "pt": "[Mineiro]\nMas mexer só o corpo fica meio sem graça, não...? Não pode faltar uma música.",
+        "es": "[Minero]\nPero mover solo el cuerpo resulta un poco aburrido, ¿no...? No puede faltar una canción."
+    },
+    "vN+FDA": {
+        "ko": "[광부]\n파고 파고 또 파고♬ 삽질 한 번에 곡괭이질♪ 두 번이면 금이야, 은이야. 금은보화 쏟아진다♩ 소쿠리 들고 어서 온나.♬",
+        "en": "[Miner]\nDig and dig and dig some more♬ One shovel stroke and one pickaxe swing♪ On the second strike it's gold and silver. Gold and treasure come pouring out♩ Grab your basket and come on over.♬",
+        "pt": "[Mineiro]\nCava, cava e cava de novo♬ Uma passada de pá e uma de picareta♪ Com duas já sai ouro, sai prata. Tesouros jorram sem parar♩ Pegue o cesto e venha logo.♬",
+        "es": "[Minero]\nCava y cava, vuelve a cavar♬ un palazo, un golpe de pico♪ dos veces y sale oro, sale plata.♩ ¡Tesoros a montones! Ven deprisa con el cesto.♬"
+    },
+    "vd+FDA": {
+        "ko": "[광부]\n어이쿠! 일이 갑자기 3배는 더 빨라졌네. 고되지도 않고! 일을 하면서 노래를 불러 볼 생각은 못했는데 노래를 부르니까 힘든 것도 다 잊네 그려!",
+        "en": "[Miner]\nOh my! My work suddenly got three times faster. And it's not even tiring! I never thought of singing while working, but singing makes me forget all about how hard it is!",
+        "pt": "[Mineiro]\nEita! De repente o trabalho ficou três vezes mais rápido. E nem está pesado! Nunca pensei em cantar enquanto trabalho, mas agora que canto, até esqueço todo o cansaço!",
+        "es": "[Minero]\n¡Vaya! ¡De repente trabajo tres veces más rápido! ¡Y ni siquiera se siente duro! Nunca pensé en cantar mientras trabajaba, pero ahora que canto se me olvida por completo el cansancio."
+    },
+    "vt+FDA": {
+        "ko": "[광부]\n고마워. 그 결정인가 조각인가, 나는 찾아주지 못했지만, 이런 고운 마음씨라면 금세 찾을 거야.",
+        "en": "[Miner]\nThank you. I couldn't help you find that crystal or piece or whatever, but with such a kind heart, you'll find it in no time.",
+        "pt": "[Mineiro]\nObrigado. Eu não pude encontrar aquela cristalização ou fragmento, mas com um coração tão bondoso assim, você vai encontrá-lo logo.",
+        "es": "[Minero]\nGracias. No he podido encontrar esa decisión o ese fragmento, pero con un corazón tan bondadoso como el tuyo, seguro que lo encontrarás enseguida."
+    },
+    "v9+FDA": {
+        "ko": "벌써 찾았어요.",
+        "en": "I already found it.",
+        "pt": "Eu já encontrei.",
+        "es": "Ya lo he encontrado."
+    },
+    "wN+FDA": {
+        "ko": "[광부]\n그래? 내 눈에는 안 보이는 뭐 그런 건가 보지? 아무튼 고마워. 꼭 천사같네, 그래.",
+        "en": "[Miner]\nReally? Then I guess it's one of those things I can't see. Anyway, thank you. You really seem like an angel.",
+        "pt": "[Mineiro]\nÉ mesmo? Então deve ser alguma coisa que meus olhos não conseguem ver. De qualquer jeito, obrigado. Você parece mesmo um anjo.",
+        "es": "[Minero]\n¿Sí? Entonces debe de ser una de esas cosas que mis ojos no pueden ver. En cualquier caso, gracias. De verdad, parece usted un ángel."
+    },
+    "wd+FDA": {
+        "ko": "[광부]\n보아하니 뭔가 얻을 건 다 얻은 것 같은데? 그럼 이만 가 봐야 하는 거지? 그래. 조심히 가.",
+        "en": "[Miner]\nFrom the looks of it, you've already gotten everything there is to get? Then I suppose you should be off now, right? Alright. Travel safely.",
+        "pt": "[Mineiro]\nPelo que vejo, parece que você já conseguiu tudo o que tinha para conseguir, não é? Então já está na hora de ir, certo? É. Vá com cuidado.",
+        "es": "[Minero]\nPor lo que veo, ya ha conseguido todo lo que tenía que conseguir. Entonces es hora de irse, ¿no? Sí, claro. Vaya con cuidado."
+    },
+    "wt+FDA": {
+        "ko": "감동의 조각을 모두 얻었다.",
+        "en": "Obtained all Pieces of Emotion.",
+        "pt": "Conseguiu todos os Fragmentos de Emoção.",
+        "es": "He obtenido todos los Fragmentos de Emoción."
+    },
+    "w9+FDA": {
+        "ko": "이제 <NAVI>[역사학자]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI>에게 되돌아가야겠다.",
+        "en": "Now I should return to the <NAVI>[Historian]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI>.",
+        "pt": "Agora preciso voltar para o <NAVI>[Historiador]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI>.",
+        "es": "Ahora debo volver junto al <NAVI>[Historiador]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI>."
+    },
+    "xN+FDA": {
+        "ko": "이제 영감의 조각을 마저 얻으러 가야겠다.",
+        "en": "Now I should go obtain the remaining Pieces of Inspiration.",
+        "pt": "Agora preciso ir conseguir o restante dos Fragmentos de Inspiração.",
+        "es": "Ahora debo ir a conseguir los Fragmentos de Inspiración que faltan."
+    },
+    "xd+FDA": {
+        "ko": "[광부]\n아까 <NAVI>[오딘 신전]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI>쪽으로 누굴 만나러 가야 한다고 그러지 않았어?",
+        "en": "[Miner]\nDidn't you say earlier that you had to go meet someone near <NAVI>[Odin Temple]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI>?",
+        "pt": "[Mineiro]\nVocê não disse antes que precisava ir encontrar alguém perto do <NAVI>[Templo de Odin]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI>?",
+        "es": "[Minero]\n¿No dijo antes que tenía que ir hacia el <NAVI>[Templo de Odín]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI> para ver a alguien?"
+    },
+    "xt+FDA": {
+        "ko": "[광부]\n내가 만나는 광부들한테 노동요를 전파하고 있어. 이제 이 굴 곳곳에서 노랫소리가 들린다니까.",
+        "en": "[Miner]\nI've been spreading work songs to the miners I meet. Now you can hear singing all throughout this tunnel.",
+        "pt": "[Mineiro]\nEstou espalhando canções de trabalho entre os mineiros que encontro. Agora dá para ouvir canto por toda esta mina.",
+        "es": "[Minero]\nEstoy enseñando canciones de trabajo a los mineros con los que me cruzo. Ahora se oyen canciones por todas estas galerías."
+    },
+    "x9+FDA": {
+        "ko": "작은 조각",
+        "en": "Small Piece",
+        "pt": "Pequeno Fragmento",
+        "es": "Fragmento pequeño"
+    },
+    "yN+FDA": {
+        "ko": "아직 결정화 되지 못한 조각이다.",
+        "en": "A piece that has not yet been Crystallization.",
+        "pt": "É um fragmento que ainda não foi Cristalização.",
+        "es": "Aún es un fragmento que no ha sido Cristalización."
+    },
+    "yd+FDA": {
+        "ko": "^0000CD105레벨 이상의 바람의 몬스터^000000를 잡아 바람의 기운을 채워 넣어야겠다.",
+        "en": "I should defeat ^0000CDWind monsters of Level 105 or higher^000000 to fill it with the energy of wind.",
+        "pt": "Preciso derrotar ^0000CDmonstros de vento de nível 105 ou superior^000000 e preenchê-lo com energia do vento.",
+        "es": "Debo derrotar a ^0000CDmonstruos de viento de nivel 105 o superior^000000 para llenarlo con la energía del viento."
+    },
+    "yt+FDA": {
+        "ko": "아직 결정화 되지 못한 조각이다.",
+        "en": "A piece that has not yet been Crystallization.",
+        "pt": "É um fragmento que ainda não foi Cristalização.",
+        "es": "Aún es un fragmento que no ha sido Cristalización."
+    },
+    "y9+FDA": {
+        "ko": "105레벨 이상의 바람 속성의 몬스터를 잡아 바람의 기운을 채워 넣어야겠다.",
+        "en": "I should defeat Wind element monsters of Level 105 or higher to fill it with the energy of wind.",
+        "pt": "Preciso derrotar monstros de propriedade vento de nível 105 ou superior e preenchê-lo com energia do vento.",
+        "es": "Debo derrotar a monstruos de atributo viento de nivel 105 o superior para llenarlo con la energía del viento."
+    },
+    "zN+FDA": {
+        "ko": "바람의 기운을 채우자 조각은 결정화 되었다. 결정을 손에 쥐자 <NAVI>[대지]<INFO>lasa_dun02,180,172,0,101,0</INFO></NAVI>를 울리는 소리가 몸을 감싸는 느낌이 든다.",
+        "en": "Once filled with the energy of wind, the piece became Crystallization. When I grasp the crystal in my hand, it feels as though a sound resounding through <NAVI>[Earth]<INFO>lasa_dun02,180,172,0,101,0</INFO></NAVI> wraps around my body.",
+        "pt": "Ao preencher a energia do vento, o fragmento foi Cristalização. Ao segurar o cristal na mão, sinto como se um som vindo de <NAVI>[Terra]<INFO>lasa_dun02,180,172,0,101,0</INFO></NAVI> envolvesse meu corpo.",
+        "es": "Cuando el fragmento se llenó con la energía del viento, quedó Cristalización. Al sostener el cristal en la mano, siento que me envuelve un sonido que resuena desde <NAVI>[Tierra]<INFO>lasa_dun02,180,172,0,101,0</INFO></NAVI>."
+    },
+    "zd+FDA": {
+        "ko": "소리를 따라 간다.",
+        "en": "Follow the sound.",
+        "pt": "Sigo o som.",
+        "es": "Sigo el sonido."
+    },
+    "zt+FDA": {
+        "ko": "알 수 없는 힘에 이끌려 낯선 목소리가 있는 곳으로 향한다.",
+        "en": "Drawn by an unknown power, head toward the place where the unfamiliar voice is.",
+        "pt": "Atraído por uma força desconhecida, sigo em direção ao lugar de onde vem a voz desconhecida.",
+        "es": "Guiado por una fuerza desconocida, me dirijo al lugar del que proviene una voz desconocida."
+    },
+    "z9+FDA": {
+        "ko": "이곳에 좀 더 남아 다른 것을 살펴 보기로 한다.",
+        "en": "Decide to remain here a little longer and look around for other things.",
+        "pt": "Decido ficar mais um pouco aqui e observar outras coisas.",
+        "es": "Decido quedarme un poco más aquí y examinar otras cosas."
+    },
+    "0N+FDA": {
+        "ko": "^0000CD130레벨 이상의 땅의 몬스터^000000를 잡아 불의 기운을 채워 넣어야겠다.",
+        "en": "I should defeat ^0000CDEarth monsters of Level 130 or higher^000000 to fill it with the energy of fire.",
+        "pt": "Preciso derrotar ^0000CDmonstros de terra de nível 130 ou superior^000000 e preenchê-lo com energia do fogo.",
+        "es": "Debo derrotar a ^0000CDmonstruos de tierra de nivel 130 o superior^000000 para llenarlo con la energía del fuego."
+    },
+    "0d+FDA": {
+        "ko": "130레벨 이상의 땅의 몬스터를 잡아 불의 기운을 채워 넣어야겠다.",
+        "en": "I should defeat Earth monsters of Level 130 or higher to fill it with the energy of fire.",
+        "pt": "Preciso derrotar monstros de terra de nível 130 ou superior e preenchê-lo com energia do fogo.",
+        "es": "Debo derrotar a monstruos de atributo tierra de nivel 130 o superior para llenarlo con la energía del fuego."
+    },
+    "0t+FDA": {
+        "ko": "땅의 기운을 채우자 조각은 결정화 되었다. 결정을 손에 쥐자 <NAVI>[천상]<INFO>tha_t11,13,84,0,101,0</INFO></NAVI>의 목소리가 몸을 감싸는 느낌이 든다.",
+        "en": "Once filled with the energy of earth, the piece became Crystallization. When I grasp the crystal in my hand, it feels as though the voice of <NAVI>[Heaven]<INFO>tha_t11,13,84,0,101,0</INFO></NAVI> wraps around my body.",
+        "pt": "Ao preencher a energia da terra, o fragmento foi Cristalização. Ao segurar o cristal na mão, sinto como se a voz de <NAVI>[Céu]<INFO>tha_t11,13,84,0,101,0</INFO></NAVI> envolvesse meu corpo.",
+        "es": "Cuando el fragmento se llenó con la energía de la tierra, quedó Cristalización. Al sostener el cristal en la mano, siento que me envuelve la voz de <NAVI>[Cielo]<INFO>tha_t11,13,84,0,101,0</INFO></NAVI>."
+    },
+    "09+FDA": {
+        "ko": "이곳에선 더 이상 볼 일은 없다. 조각의 기운이 이끄는대로 타나토스 타워로 이동하자.",
+        "en": "There is nothing more to do here. Follow the piece's energy and move to Thanatos Tower.",
+        "pt": "Não há mais nada para fazer aqui. Vamos para Memória de Thanatos conforme a energia do fragmento nos guia.",
+        "es": "Aquí ya no hay nada más que hacer. Siguiendo la energía del fragmento, me dirigiré a Torre de Thanatos."
+    },
+    "1N+FDA": {
+        "ko": "^0000CD180레벨 이상의 천사 몬스터^000000를 잡아 천사의 기운을 채워 넣어야겠다.",
+        "en": "I should defeat ^0000CDAngel monsters of Level 180 or higher^000000 to fill it with the energy of angels.",
+        "pt": "Preciso derrotar ^0000CDmonstros anjo de nível 180 ou superior^000000 e preenchê-lo com energia angelical.",
+        "es": "Debo derrotar a ^0000CDmonstruos ángel de nivel 180 o superior^000000 para llenarlo con la energía angelical."
+    },
+    "1d+FDA": {
+        "ko": "180레벨 이상의 천사 몬스터를 잡아 천사의 기운을 채워 넣어야겠다.",
+        "en": "I should defeat Angel monsters of Level 180 or higher to fill it with the energy of angels.",
+        "pt": "Preciso derrotar monstros anjo de nível 180 ou superior e preenchê-lo com energia angelical.",
+        "es": "Debo derrotar a monstruos de tipo ángel de nivel 180 o superior para llenarlo con la energía angelical."
+    },
+    "1t+FDA": {
+        "ko": "천사의 기운을 채우자 조각은 결정화 되었다.",
+        "en": "Once filled with the energy of angels, the piece became Crystallization.",
+        "pt": "Ao preencher a energia angelical, o fragmento foi Cristalização.",
+        "es": "Cuando el fragmento se llenó con la energía angelical, quedó Cristalización."
+    },
+    "19+FDA": {
+        "ko": "크바시르 함으로 서둘러 돌아가자.",
+        "en": "Let's hurry back to Kvasir Hall.",
+        "pt": "Vamos voltar depressa para Kvasirham.",
+        "es": "Debo volver cuanto antes junto a Kvasir."
+    },
+    "2N+FDA": {
+        "ko": "감동의 조각을 마저 얻으러 가야겠다.",
+        "en": "I should go obtain the remaining Pieces of Emotion.",
+        "pt": "Preciso ir conseguir o restante dos Fragmentos de Emoção.",
+        "es": "Debo ir a conseguir los Fragmentos de Emoción que faltan."
+    },
+    "2d+FDA": {
+        "ko": "이곳에선 더 이상 볼 일은 없다. <NAVI>[역사학자]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI>에게 서둘러 돌아가자.",
+        "en": "There is nothing more to do here. I should hurry back to the <NAVI>[Historian]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI>.",
+        "pt": "Não há mais nada para fazer aqui. Preciso voltar depressa para o <NAVI>[Historiador]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI>.",
+        "es": "Aquí ya no hay nada más que hacer. Debo volver cuanto antes junto al <NAVI>[Historiador]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI>."
+    },
+    "2t+FDA": {
+        "ko": "이곳에선 더 이상 볼 일은 없다. 감동이 조각을 마저 얻으러 가야겠다.",
+        "en": "There is nothing more to do here. I should go obtain the remaining Pieces of Emotion.",
+        "pt": "Não há mais nada para fazer aqui. Preciso ir conseguir o restante dos Fragmentos de Emoção.",
+        "es": "Aquí ya no hay nada más que hacer. Debo ir a conseguir los Fragmentos de Emoción que faltan."
+    }
+}

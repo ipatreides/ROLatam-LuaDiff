@@ -69,13 +69,13 @@
         "ko": "-  에오르파의 앞에는 맛있어 보이는 감자칩들이 수북하게 쌓여 있다. -",
         "en": "- In front of Eorfa, there is a huge pile of delicious-looking potato chips. -",
         "pt": "- Diante de Eorfa, há uma grande pilha de Chips de Batata que parecem deliciosos. -",
-        "es": "- Frente a Eorfa hay un montón de patatas fritas que se ven deliciosas. -"
+        "es": "- Frente a Eorfa hay un montón de chips de papas que se ven deliciosas. -"
     },
     "bG3QBw": {
         "ko": "이것은 아무리 봐도 감자칩인데..??",
         "en": "No matter how you look at it, these are potato chips..??",
         "pt": "Isso são batatas fritas...??",
-        "es": "Esto, por más que lo mire, son patatas fritas..??"
+        "es": "Esto, por más que lo mire, son chips de papas..??"
     },
     "bW3QBw": {
         "ko": "[에오르파]\n이... 생체 전파 방해칩이 저의 네트워크를 뒤흔들어 놓고... 있습니다...지지직...이... 생체 칩의 처리를... 지직... 부탁드려도 되겠습니까...?",
@@ -111,7 +111,7 @@
         "ko": "- 에오르파 앞에 쌓여있는 감자칩을 먹어 치우시겠습니까? -",
         "en": "- Will you eat up the Potato Chips piled up in front of Eorfa? -",
         "pt": "- Você vai comer os Chips de Batata? -",
-        "es": "- ¿Se comerá las Patatas Fritas apiladas frente a Eorfa? -"
+        "es": "- ¿Se comerá las Chips de Papa apiladas frente a Eorfa? -"
     },
     "c23QBw": {
         "ko": "먹어 치운다.",
@@ -135,7 +135,7 @@
         "ko": "- 에오르파 앞에 놓여있던 감자칩을 전부 해치웠다!! -",
         "en": "- You devoured all the Potato Chips that had been placed in front of Eorfa!! -",
         "pt": "- Você comeu todos os Chips de Batata na frente de Eorfa!! -",
-        "es": "- ¡Se acabó por completo las Patatas Fritas que estaban colocadas frente a Eorfa!! -"
+        "es": "- ¡Se acabó por completo las Chips de Papa que estaban colocadas frente a Eorfa!! -"
     },
     "d23QBw": {
         "ko": "[에오르파]\n지직.. 감사합니다. 생체 전파 방해칩의 제거가 확인 완료되었습니다.\n네트워크 상태 양호합니다. 소통 원활 확인 완료.",
@@ -219,7 +219,7 @@
         "ko": "[에오르파]\n모험가님이 직접 제2 마력 발전소에 들어가셔서 ^4D4DFF감자칩 10개^000000를 회수해 주실 수 있겠습니까?",
         "en": "[Eorfa]\nCould you go into the 2nd Magic Power Plant yourself and retrieve ^4D4DFF10 Potato Chips^000000?",
         "pt": "[Eorfa]\nVocê poderia entrar pessoalmente na Usina de Energia Mágica e recuperar ^4D4DFF10x Chip de Batata^000000?",
-        "es": "[Eorfa]\n¿Podría el trotamundos entrar directamente en la 2.ª Planta de Energía Mágica y recuperar ^4D4DFF10 Patatas Fritas^000000?"
+        "es": "[Eorfa]\n¿Podría el trotamundos entrar directamente en la 2.ª Planta de Energía Mágica y recuperar ^4D4DFF10 Chips de Papa^000000?"
     },
     "hW3QBw": {
         "ko": "승낙한다.",
@@ -237,13 +237,13 @@
         "ko": "[에오르파]\n^4D4DFF마력중독 사나레^000000들이 감자칩을 뿌리기 전에 처치해서 회수하는 것이 가장 확실한 방법입니다.",
         "en": "[Eorfa]\nThe surest way is to defeat the ^4D4DFFMana Addicted Sanare^000000 before they scatter the Potato Chips, and retrieve them.",
         "pt": "[Eorfa]\nO método mais seguro é derrotar as ^4D4DFFSanare Viciada^000000 antes que espalhem os Chip de Batata por aí.",
-        "es": "[Eorfa]\nLa forma más segura es derrotar a ^4D4DFFSanare adicta al mana^000000 y recuperarlas antes de que esparzan las Patatas Fritas."
+        "es": "[Eorfa]\nLa forma más segura es derrotar a ^4D4DFFSanare adicta al mana^000000 y recuperarlas antes de que esparzan las Chips de Papa."
     },
     "iG3QBw": {
         "ko": "[에오르파]\n^4D4DFF감자칩 10개^000000를 회수해 주십시오. 그럼 부탁드리겠습니다.",
         "en": "[Eorfa]\nPlease retrieve 10 ^4D4DFFPotato Chips^000000. Then, I will be counting on you.",
         "pt": "[Eorfa]\nPor favor, recupere ^4D4DFF10x Chip de Batata^000000. Eu conto com você.",
-        "es": "[Eorfa]\nPor favor, recupere ^4D4DFF10 Patatas Fritas^000000. Entonces, se lo encargo."
+        "es": "[Eorfa]\nPor favor, recupere ^4D4DFF10 Chips de Papa^000000. Entonces, se lo encargo."
     },
     "iW3QBw": {
         "ko": "[에오르파]\n이대로 시간이 흐르면 또 기능 고장에 다다를 것입니다. 당신의 도움이 필요합니다.",
@@ -255,25 +255,25 @@
         "ko": "[에오르파]\n감자칩 10개 수거 확인하였습니다. 해당 생체 칩의 처리를 부탁드립니다.",
         "en": "[Eorfa]\nI have confirmed the collection of 10 Potato Chips. Please take care of processing those bio chips.",
         "pt": "[Eorfa]\nConfirmo a coleta de 10x Chip de Batata. Peço que cuide do processamento do respectivo chip biológico.",
-        "es": "[Eorfa]\nHe confirmado la recolección de 10 Patatas Fritas. Le ruego que se encargue del procesamiento del chip biológico correspondiente."
+        "es": "[Eorfa]\nHe confirmado la recolección de 10 Chips de Papa. Le ruego que se encargue del procesamiento del chip biológico correspondiente."
     },
     "i23QBw": {
         "ko": "- 감자칩 10개를 남김 없이 먹어 치웠다!! -",
         "en": "- I devoured all 10 Potato Chips without leaving a single one!! -",
         "pt": "- Você come os 10 Chips de Batata!! -",
-        "es": "- ¡¡Se comió sin dejar nada 10 Patatas Fritas!! -"
+        "es": "- ¡¡Se comió sin dejar nada 10 Chips de Papa!! -"
     },
     "jG3QBw": {
         "ko": "[에오르파]\n감자칩 처리 확인 완료되었습니다. 감사합니다.",
         "en": "[Eorfa]\nProcessing of Potato Chips has been confirmed complete. Thank you.",
         "pt": "[Eorfa]\nConfirmação concluída do processamento de Chip de Batata. Obrigada.",
-        "es": "[Eorfa]\nConfirmación completada del procesamiento de Patatas Fritas. Gracias."
+        "es": "[Eorfa]\nConfirmación completada del procesamiento de Chips de Papa. Gracias."
     },
     "jW3QBw": {
         "ko": "[에오르파]\n감자칩 10개를 수거하여 저에게 가져와 주시면 됩니다.",
         "en": "[Eorfa]\nAll you need to do is collect 10 Potato Chips and bring them to me.",
         "pt": "[Eorfa]\nBasta coletar 10x Chip de Batata e trazê-los para mim.",
-        "es": "[Eorfa]\nSolo tiene que recolectar 10 Patatas Fritas y traérmelas."
+        "es": "[Eorfa]\nSolo tiene que recolectar 10 Chips de Papa y traérmelas."
     },
     "jm3QBw": {
         "ko": "[에오르파]\n오늘의 분량은 충분합니다. 하루가 지나고 다시 저를 찾아와 주시겠습니까?",
@@ -291,24 +291,24 @@
         "ko": "[에오르파]\n저번과 같이 감자칩 10개를 수거해 주실 수 있겠습니까?",
         "en": "[Eorfa]\nCould you collect 10 Potato Chips again, as before?",
         "pt": "[Eorfa]\nComo da última vez, poderia coletar 10x Chip de Batata?",
-        "es": "[Eorfa]\nComo la vez anterior, ¿podría recolectar 10 Patatas Fritas?"
+        "es": "[Eorfa]\nComo la vez anterior, ¿podría recolectar 10 Chips de Papa?"
     },
     "kW3QBw": {
         "ko": "[에오르파]\n제 2 마력 발전소 안으로 들어가면 마력중독 사나레를 만날 수 있습니다. 그들로부터 감자칩을 회수해주시면 되겠습니다.",
         "en": "[Eorfa]\nIf you go inside the 2nd Magic Power Plant, you can meet the mana-addicted Sanare. Please retrieve the Potato Chips from them.",
         "pt": "[Eorfa]\nSe você entrar na Usina de Energia Mágica, poderá encontrar a Sanare Viciada. Você só precisa recuperar Chip de Batata delas.",
-        "es": "[Eorfa]\nSi entra en la 2.ª Planta de Energía Mágica, podrá encontrarse con Sanare adictas a la magia. Le agradecería que recuperara Patatas Fritas de ellas."
+        "es": "[Eorfa]\nSi entra en la 2.ª Planta de Energía Mágica, podrá encontrarse con Sanare adictas a la magia. Le agradecería que recuperara Chips de Papa de ellas."
     },
     "km3QBw": {
         "ko": "[에오르파]\n^4D4DFF감자칩^000000 10개만 부탁드립니다. 그럼 기다리고 있겠습니다.",
         "en": "[Eorfa]\nPlease, just 10 ^4D4DFFPotato Chips^000000. Then, I will be waiting.",
         "pt": "[Eorfa]\nPor favor, apenas ^4D4DFF10x Chip de Batata^000000. Eu estarei esperando.",
-        "es": "[Eorfa]\nSolo le pido 10 ^4D4DFFPatatas Fritas^000000. Entonces, estaré esperando."
+        "es": "[Eorfa]\nSolo le pido 10 ^4D4DFFChips de Papa^000000. Entonces, estaré esperando."
     },
     "k23QBw": {
         "ko": "[에오르파]\n감자칩 처리 확인 완료되었습니다. 매번 감사드립니다. 가능하시다면 내일 또 들러주십시오.",
         "en": "[Eorfa]\nProcessing of Potato Chips has been confirmed complete. Thank you every time. If you can, please stop by again tomorrow.",
         "pt": "[Eorfa]\nConfirmação concluída do processamento de Chip de Batata. Agradeço. Se for possível, passe aqui novamente amanhã.",
-        "es": "[Eorfa]\nConfirmación completada del procesamiento de Patatas Fritas. Le agradezco cada vez. Si le es posible, vuelva a pasar mañana."
+        "es": "[Eorfa]\nConfirmación completada del procesamiento de Chips de Papa. Le agradezco cada vez. Si le es posible, vuelva a pasar mañana."
     }
 }

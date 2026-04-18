@@ -1,0 +1,290 @@
+{
+    "wGWHDA": {
+        "ko": "그대, 공허를 몰아내고 세계의 마음을 지탱할 조각들을 제단에 올리라",
+        "en": "Adventurer, drive away the void and place the pieces on the altars that support this world's heart.",
+        "pt": "Tu, afasta o vazio e coloca no altar os fragmentos que sustentam o coração do mundo",
+        "es": "Tú, expulsa el vacío y coloca sobre el altar las piezas que sostienen el corazón del mundo"
+    },
+    "wWWHDA": {
+        "ko": "수호석을 모두 세우고 공허를 몰아내자.",
+        "en": "I should repair all the Guardian Stones and drive away the void.",
+        "pt": "Vamos erguer todas as Pedras Guardiãs e expulsar o Vazio.",
+        "es": "Levantemos todas las piedras guardianas y expulsemos el vacío."
+    },
+    "wmWHDA": {
+        "ko": "공허",
+        "en": "Void",
+        "pt": "Vazio",
+        "es": "El vacío"
+    },
+    "w2WHDA": {
+        "ko": "마음에 공허가 남아있는 한 부식과 침식은 계속되리",
+        "en": "As long as the void remains in the heart, corrosion and erosion will continue.",
+        "pt": "Enquanto houver vazio no coração, a corrosão e a erosão continuarão",
+        "es": "Mientras quede vacío en el corazón, la corrosión y la erosión continuarán"
+    },
+    "xGWHDA": {
+        "ko": "아직 눈을 뜨지 못한 {0}인의 수호자들에게 노래를 바치라",
+        "en": "Dedicate the songs to the {0} guardians who have not yet woken up.",
+        "pt": "Dedica uma canção aos guardiões do povo {0} que ainda não abriram os olhos",
+        "es": "Dedica una canción a los guardianes de {0} que aún no han abierto los ojos"
+    },
+    "xWWHDA": {
+        "ko": "침식은 계속되고...",
+        "en": "The erosion continues...",
+        "pt": "A erosão continua...",
+        "es": "La erosión continúa..."
+    },
+    "xmWHDA": {
+        "ko": "침식",
+        "en": "Erosion",
+        "pt": "A erosão",
+        "es": "La erosión"
+    },
+    "x2WHDA": {
+        "ko": "부식은 계속되고...",
+        "en": "The corrosion continues...",
+        "pt": "A corrosão continua...",
+        "es": "La corrosión continúa..."
+    },
+    "yGWHDA": {
+        "ko": "부식",
+        "en": "Corrosion",
+        "pt": "Corrosão",
+        "es": "La corrosión"
+    },
+    "yWWHDA": {
+        "ko": "수호석",
+        "en": "Guardian Stone",
+        "pt": "Pedra de Proteção",
+        "es": "Piedras de protección"
+    },
+    "ymWHDA": {
+        "ko": "수호석을 모두 세웠으니 수호수 쪽으로 가 보자.",
+        "en": "Now that all the Guardian Stones are set, let's head toward the Guardian Tree.",
+        "pt": "Já que colocamos todas as Pedras Guardiãs, vamos dar uma olhada na Árvore Guardiã.",
+        "es": "Ya que colocamos todas las piedras protectoras, vamos hacia el árbol protector."
+    },
+    "y2WHDA": {
+        "ko": "이곳엔 이미 수호석을 세웠다. 다른 곳을 살펴 보자.",
+        "en": "I've already repaired this Guardian Stone. I should check the others.",
+        "pt": "Já colocamos as Pedras Guardiãs aqui. Vamos dar uma olhada em outros lugares.",
+        "es": "Aquí ya hemos colocado una piedra guardiana. Echemos un vistazo a otros lugares."
+    },
+    "zGWHDA": {
+        "ko": "빈 제단에 영감의 조각을 올려 두자 형태를 갖추며 수호석이 생성되었다.",
+        "en": "When I placed an Inspiration Piece on the empty altar, it took shape and became a Guardian Stone.",
+        "pt": "Vamos colocar o fragmento de inspiração no altar vazio. A pedra guardiã tomou forma e foi criada.",
+        "es": "Coloca un fragmento de inspiración en el altar vacío. La piedra guardiana ha tomado forma."
+    },
+    "zWWHDA": {
+        "ko": "빈 제단에 올릴 영감의 조각이 필요하다.",
+        "en": "I need an Inspiration Piece to place on this altar.",
+        "pt": "Precisamos de um fragmento de inspiração para colocar no altar vazio.",
+        "es": "Necesito un fragmento de inspiración para ponerlo en el altar vacío."
+    },
+    "zmWHDA": {
+        "ko": "빈 제단에 감동의 조각을 올려 두자 형태를 갖추며 수호석이 생성되었다.",
+        "en": "When I placed an Emotion Piece on the empty altar, it took shape and became a Guardian Stone.",
+        "pt": "Coloque um fragmento de emoção no altar vazio, e a Pedra Guardiã tomou forma.",
+        "es": "Coloca un fragmento de emoción en el altar vacío y se ha creado una piedra protectora que ha tomado forma."
+    },
+    "z2WHDA": {
+        "ko": "빈 제단에 올릴 감동의 조각이 필요하다.",
+        "en": "I need an Emotion Piece to place on this altar.",
+        "pt": "Precisamos de um fragmento de emoção para colocar no altar vazio.",
+        "es": "Necesitas un fragmento de emoción para colocarlo en el altar vacío."
+    },
+    "0GWHDA": {
+        "ko": "수호수의 태엽",
+        "en": "Guardian's Spring",
+        "pt": "A Mola do Guardião",
+        "es": "El resorte del guardián"
+    },
+    "0WWHDA": {
+        "ko": "수호석을 모두 세운 그대는 나 수호수의 곁으로 오라",
+        "en": "You have repaired all the Guardian Stones. Now, come to me, the Guardian Tree.",
+        "pt": "Você, que ergueu todas as Pedras Guardiãs, venha para o meu lado, eu, o Guardião",
+        "es": "Ahora que has erigido todas las piedras guardianas, ven a mi lado, yo, el Guardián."
+    },
+    "0mWHDA": {
+        "ko": "[수호수]\n그대, 고대의 노래를 이해하기엔 경험이 부족하다.",
+        "en": "[Guardian Tree]\nYou lack the experience to understand the song of the ancients.",
+        "pt": "[Guardião]\nTu, ainda não tens experiência suficiente para compreender as canções antigas.",
+        "es": "[Guardián]\nTú, te falta experiencia para entender las canciones antiguas."
+    },
+    "02WHDA": {
+        "ko": "^0000CD전직 시험은 베이스 레벨 200 이상부터 진행할 수 있습니다.^000000",
+        "en": "^0000CDYou can accept this Job Change test at Base Level 200 or above.^000000",
+        "pt": "^0000CDO teste de mudança de classe pode ser feito a partir do nível base 200.^000000",
+        "es": "^0000CDLa prueba de cambio de profesión se puede realizar a partir del nivel base 200.^000000"
+    },
+    "1GWHDA": {
+        "ko": "^0000CD전직 시험은 직업 레벨 70 이상부터 진행할 수 있습니다.^000000",
+        "en": "^0000CDYou can accept this Job Change test at Job Level 70 or above.^000000",
+        "pt": "^0000CDO teste de mudança de classe pode ser feito a partir do nível 70 da profissão.^000000",
+        "es": "^0000CDLa prueba de cambio de profesión se puede realizar a partir del nivel de profesión 70.^000000"
+    },
+    "1WWHDA": {
+        "ko": "[수호수]\n그대, 아직 배움이 모자라는 듯 하다.",
+        "en": "[Guardian Tree]\nYou have not learned everything you need.",
+        "pt": "[Guardião]\nParece que ainda te falta aprender.",
+        "es": "[Guardián]\nParece que aún te falta aprender."
+    },
+    "1mWHDA": {
+        "ko": "^0000CD스킬 포인트가 남아있어 전직을 진행할 수 없습니다.^000000",
+        "en": "^0000CDYou cannot change jobs while having remaining Skill Points.^000000",
+        "pt": "^0000CDNão há pontos de habilidade restantes, não é possível prosseguir com a mudança de classe.^000000",
+        "es": "^0000CDNo puedes cambiar de clase porque te faltan puntos de habilidad.^000000"
+    },
+    "12WHDA": {
+        "ko": "[수호수]\n이것은 그대와 나 둘 만의 의식이니.",
+        "en": "[Guardian Tree]\nThis ceremony must be held just between you and me.",
+        "pt": "[Guardião]\nEste é um ritual só entre nós dois.",
+        "es": "[Guardián]\nEste es un ritual solo para ti y para mí."
+    },
+    "2GWHDA": {
+        "ko": "^0000CD탈 것을 탄 채로 전직을 진행할 수 없습니다.^000000",
+        "en": "^0000CDYou cannot change jobs while mounted.^000000",
+        "pt": "^0000CDNão é possível realizar a mudança de classe enquanto estiver montado em um animal de montaria.^000000",
+        "es": "^0000CDNo puedes cambiar de clase mientras estés montado en una montura.^000000"
+    },
+    "2WWHDA": {
+        "ko": "소지하고 계신 아이템의 수량이 많아 대화를 진행 할 수 없습니다.\n아이템을 정리한 뒤 다시 시도해 주시기 바랍니다.",
+        "en": "You have too many items equipped to continue the conversation.\nPlease organize your items and try again.",
+        "pt": "Não é possível prosseguir com a conversa devido ao grande número de itens que você possui.\nPor favor, organize seus itens e tente novamente.",
+        "es": "No puedes continuar la conversación porque tienes demasiados objetos en tu inventario.\nPor favor, ordena tus objetos y vuelve a intentarlo."
+    },
+    "2mWHDA": {
+        "ko": "[수호수]\n그대는 노래의 본질을 깨우치고 이곳에 그 모든 것을 모았다.",
+        "en": "[Guardian Tree]\nYou have understood the essence of the songs and gathered all their essence here.",
+        "pt": "[Guardião]\nTu despertaste para a essência da canção e reuniste tudo isso aqui.",
+        "es": "[Guardián]\nHas comprendido la esencia de la canción y has reunido todo aquí."
+    },
+    "22WHDA": {
+        "ko": "[수호수]\n이 세계는 계속해서 용기를 얻을 것이며 위로를 얻을 것이며 기뻐할 것이다.",
+        "en": "[Guardian Tree]\nThis world will continue to receive the encouragement, comfort, and happiness it needs to exist.",
+        "pt": "[Guardião]\nEste mundo continuará a ganhar coragem, a receber consolo e a se alegrar.",
+        "es": "[Guardián]\nEste mundo seguirá obteniendo valor, recibirá consuelo y se alegrará."
+    },
+    "3GWHDA": {
+        "ko": "[수호수]\n그대에게 고대의 노래 한 소절을 주겠다.",
+        "en": "[Guardian Tree]\nI will give you one verse of the songs of the ancients.",
+        "pt": "[Guardião]\nVou te dar um verso de uma canção antiga.",
+        "es": "[Guardián]\nTe daré un verso de una canción antigua."
+    },
+    "3WWHDA": {
+        "ko": "[수호수]\n그대의 새로운 이름은 ^0000CD트루바두르^000000. 세상의 모든 사람들에게 생명의 노래가 잊히지 않도록 하라.",
+        "en": "[Guardian Tree]\nYour new name is ^0000CDTroubadour^000000. Make sure the songs of life will never again be forgotten from the rest of your world.",
+        "pt": "[Guardião]\nSeu novo nome é ^0000CDTrovador^000000. Faça com que a canção da vida não seja esquecida por todas as pessoas do mundo.",
+        "es": "[Guardián]\nTu nuevo nombre es ^0000CDTrovador^000000. Haz que la canción de la vida no caiga en el olvido para todos los habitantes del mundo."
+    },
+    "3mWHDA": {
+        "ko": "[수호수]\n그대의 새로운 이름은 ^0000CD트루베르^000000. 세상의 모든 사람들에게 생명의 노래가 잊히지 않도록 하라.",
+        "en": "[Guardian Tree]\nYour new name is ^0000CDTrouvere^000000. Make sure the songs of life will never again be forgotten from the rest of your world.",
+        "pt": "[Guardião]\nSeu novo nome é ^0000CDTrubér^000000. Faça com que a canção da vida não seja esquecida por ninguém neste mundo.",
+        "es": "[Guardián]\nTu nuevo nombre es ^0000CDTrubador^000000. Haz que la canción de la vida no caiga en el olvido para todos los habitantes del mundo."
+    },
+    "32WHDA": {
+        "ko": "그대, 그대는 어디에 속한 존재인가?",
+        "en": "You, where do you belong?",
+        "pt": "Tu, a que reino pertences?",
+        "es": "Tú, ¿a qué lugar perteneces?"
+    },
+    "4GWHDA": {
+        "ko": "[역사학자]\n다 끝났나요? 와, 수호수 회복에 성공하셨군요!",
+        "en": "[Historian]\nIs it over? Wow, you've revived the Guardian Tree!",
+        "pt": "[Historiador]\nJá acabou? Uau, você conseguiu recuperar o Guardião!",
+        "es": "[Historiador]\n¿Ya terminó todo? ¡Vaya, lograste recuperar al Guardián!"
+    },
+    "4WWHDA": {
+        "ko": "[자연인]\n그런데 너, 뭐가 된 거야? 그 넘쳐흐르는 힘은...? 무슨 일이 있었어?",
+        "en": "[Nature's Man]\nBy the way, what happened to you? You're overflowing with power now.",
+        "pt": "[Cidadão]\nMas e você, o que aconteceu com você? Esse poder transbordante é...? O que rolou?",
+        "es": "[Persona común]\nOye, ¿en qué te has convertido? ¿Y ese poder desbordante...? ¿Qué ha pasado?"
+    },
+    "4mWHDA": {
+        "ko": "[역사학자]\n회복 의식은 곧 제를 올리는 것과 마찬가지이니... 아마도 고대의 노래를 얻으셨겠군요?",
+        "en": "[Historian]\nThe tree's healing ritual is just as sacred as a religious ceremony. You've acquired a song of the ancients, I presume?",
+        "pt": "[Historiador]\nO ritual de recuperação é praticamente o mesmo que realizar um sacrifício... Então, você deve ter obtido a canção antiga, não é?",
+        "es": "[Historiador]\nEl ritual de recuperación es como ofrecer un sacrificio... ¿Quizás has obtenido la canción ancestral?"
+    },
+    "42WHDA": {
+        "ko": "맞습니다.",
+        "en": "That's correct.",
+        "pt": "Isso mesmo.",
+        "es": "Así es."
+    },
+    "5GWHDA": {
+        "ko": "[역사학자]\n잊히지 않는 생명의 노래라...",
+        "en": "[Historian]\nThe songs of life that we must not forget...",
+        "pt": "[Historiador]\nA canção da vida que não se esquece...",
+        "es": "[Historiador]\nLa canción de la vida que no se olvida..."
+    },
+    "5WWHDA": {
+        "ko": "[단장]\n이곳이 모두 원상복구가 되면 다시 봉인할 생각이었는데 마음이 바뀌었어. 노래가 잊히면 그것은 곧 생명을 다한다는 뜻이니.",
+        "en": "[Captain]\nWhen we restored this place, I was going to seal it back up. But I've changed my mind, now that I know losing these songs means the end of us and our world.",
+        "pt": "[Líder]\nEu pensava em selar tudo de novo assim que este lugar fosse totalmente restaurado, mas mudei de ideia. Se a canção for esquecida, isso significa que a vida chegará ao fim.",
+        "es": "[Capitán]\nPensaba volver a sellarlo todo una vez que este lugar quedara restaurado, pero he cambiado de opinión. Si la canción se olvida, eso significa que la vida llega a su fin."
+    },
+    "5mWHDA": {
+        "ko": "[단장]\n자네, 우리와 함께 하면서 이곳을 널리 알리는 것은 어떤가? 자네라면 고대의 노래가 잊히지 않도록 커다란 역할을 할 수 있을 거라 생각하는데. 어떤가?",
+        "en": "[Captain]\nHow'd you like to join us and promote this place to the rest of the world? We could use your help making sure the rest of the world doesn't forget the songs of the ancients. What do you say?",
+        "pt": "[Líder]\nE aí, que tal se juntar a nós e ajudar a divulgar este lugar? Acho que você pode ter um papel importante pra garantir que a canção antiga não caia no esquecimento. O que você acha?",
+        "es": "[Jefe]\nOye, ¿qué tal si te quedas con nosotros y ayudas a dar a conocer este lugar? Creo que tú podrías desempeñar un papel importante para que la canción antigua no caiga en el olvido. ¿Qué te parece?"
+    },
+    "52WHDA": {
+        "ko": "저는 모험을 계속 할 겁니다.",
+        "en": "I'd like to continue with my journey.",
+        "pt": "Vou continuar minha aventura.",
+        "es": "Yo seguiré con mis aventuras."
+    },
+    "6GWHDA": {
+        "ko": "[단장]\n그런가? 아쉽군. 하긴 자네는 무언가에 묶여 활동하기에는 너무 자유로운 영혼처럼 보이네. 한계를 돌파했으니 더 많은 것을 할 수 있겠지.",
+        "en": "[Captain]\nIs that so? How disappointing. Then again, you seem too much of a free spirit to be tied down to one place. Now that you've broken through your limits, you'll surely accomplish even more.",
+        "pt": "[Líder]\nÉ mesmo? Que pena. Mas, pensando bem, você parece ter uma alma muito livre para ficar preso a algo. Já que ultrapassou os limites, vai poder fazer muito mais, não é?",
+        "es": "[Jefe]\n¿Ah, sí? Qué pena. Aunque, la verdad, pareces un alma demasiado libre como para estar atado a algo. Ya que has superado tus límites, seguro que podrás hacer muchas más cosas."
+    },
+    "6WWHDA": {
+        "ko": "[단장]\n아, 정말 아깝네, 아까워. 그럼 부디 자유로이 떠돌며 노래가 읹히지 않도록 노력해주게. 나도 이곳을 잘 보존할 테니.",
+        "en": "[Captain]\nAh, what a shame, such a shame. Well then, please try to roam freely and make sure the songs aren't forgotten. I'll do my best to protect this place.",
+        "pt": "[Líder]\nAh, é realmente uma pena, uma pena. Então, por favor, vagueia livremente e faz o possível para que as canções não sejam esquecidas. Eu também vou cuidar bem deste lugar.",
+        "es": "[Jefe]\nAh, qué pena, qué lástima. Bueno, entonces por favor, anda libremente por ahí y haz todo lo posible para que las canciones no se pierdan. Yo también me encargaré de cuidar bien este lugar."
+    },
+    "6mWHDA": {
+        "ko": "[역사학자]\n모험가님 어깨가 무거워졌네요. 자, 그럼 우리는 이만 나갑시다.",
+        "en": "[Historian]\nAdventurer, your shoulders bear a heavier burden now. Well, then, we should get out of here.",
+        "pt": "[Historiador]\nSeu fardo ficou mais pesado, aventureiro. Bem, então vamos embora.",
+        "es": "[Historiador]\nEl aventurero tiene ahora una gran responsabilidad sobre sus hombros. Bueno, pues vamos a irnos ya."
+    },
+    "62WHDA": {
+        "ko": "[수호수]\n그대는 이곳에서 더 이상 얻을 것이 없다.",
+        "en": "[Guardian Tree]\nYou have nothing else to gain here.",
+        "pt": "[Guardião]\nVocê não tem mais nada a ganhar aqui.",
+        "es": "[Guardián]\nYa no hay nada más que puedas obtener aquí."
+    },
+    "7GWHDA": {
+        "ko": "아직 수호석을 모두 세우지 못했다.",
+        "en": "I have not yet repaired all the Guardian Stones.",
+        "pt": "Ainda não ergueste todas as Pedras Guardiãs.",
+        "es": "Aún no has erigido todas las piedras guardianas."
+    },
+    "7WWHDA": {
+        "ko": "역사학자",
+        "en": "Historian",
+        "pt": "Historiador",
+        "es": "Historiador"
+    },
+    "7mWHDA": {
+        "ko": "자연인",
+        "en": "Natural Person",
+        "pt": "Pessoa da Natureza",
+        "es": "Natural"
+    },
+    "72WHDA": {
+        "ko": "단장",
+        "en": "Team Leader",
+        "pt": "Chefe",
+        "es": "Capitán"
+    }
+}

@@ -11,7 +11,7 @@ RecommendedQuestInfoList = {
 		BgName = "reco_01.bmp",
 		QuestInfo1 = {
 			"Les damos la bienvenida",
-			"La Academia de criaturas les da informaciÃ³n diversa a los nuevos trotamundos para ayudarlos en sus aventuras. Si eres un trotamundos nuevo y aÃºn no visitaste la Academia de criaturas, asegÃºrate de visitarla para conseguir informaciÃ³n Ãºtil y objetos gratis."
+			"La Academia de criaturas les da información diversa a los nuevos trotamundos para ayudarlos en sus aventuras. Si eres un trotamundos nuevo y aún no visitaste la Academia de criaturas, asegúrate de visitarla para conseguir información útil y objetos gratis."
 		},
 		QuestInfo2 = {
 			"Hola, $$Principiantes$$",
@@ -19,21 +19,21 @@ RecommendedQuestInfoList = {
 			"Consulta sobre &*Cambio de clase*&"
 		},
 		QuestInfo3 = {
-			"^ff0000 Esta no es la pÃ¡gina de misiones en sÃ­, sino una introducciÃ³n a la misma. No se borrarÃ¡, incluso si completas la misiÃ³n.^000000"
+			"^ff0000 Esta no es la página de misiones en sí, sino una introducción a la misma. No se borrará, incluso si completas la misión.^000000"
 		}
 	},
 	[2] = {
 		Title = "Episodio 17.2: El Legado del Sabio",
 		IconName = "ico_ep.bmp",
-		Summary = "Para no quedarte atrÃ¡s del grupo de avanzada...",
+		Summary = "Para no quedarte atrás del grupo de avanzada...",
 		NpcSpr = "4_M_ROOKIE",
 		NpcNavi = "sp_cor",
 		NpcPosX = 255,
 		NpcPosY = 285,
 		BgName = "reco_03.bmp",
 		QuestInfo1 = {
-			"Â¡Por fin se ha abierto el paso a la mansiÃ³n Varmunt!",
-			"Ãšnete a la RebeliÃ³n, Viento Secreto y Rekenber para investigar a IlusiÃ³n."
+			"¡Por fin se ha abierto el paso a la mansión Varmunt!",
+			"Únete a la Rebelión, Viento Secreto y Rekenber para investigar a Ilusión."
 		},
 		QuestInfo2 = {
 			"Requisitos:",
@@ -41,7 +41,7 @@ RecommendedQuestInfoList = {
 			"Nivel ^990000130 o superior^000000"
 		},
 		QuestInfo3 = {
-			"^ff0000Ã— Anuncio de actualizaciÃ³n.^000000"
+			"^ff0000× Anuncio de actualización.^000000"
 		}
 	}
 }

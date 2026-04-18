@@ -16924,6 +16924,92 @@ tblLapineUpgradeBox = {
 				}
 			},
 			NeedSource_String = "Armas da S�rie OS"
+		},
+		Racecap_Refine_Cube = {
+			ItemID = 100322,
+			NeedRefineMin = 0,
+			NeedRefineMax = 10,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = false,
+			TargetItems = {
+				{
+					"Racing_C_Mecha",
+					19189
+				},
+				{
+					"Racing_C_Gene",
+					19190
+				},
+				{
+					"Racing_C_Cross",
+					19191
+				},
+				{
+					"Racing_C_Chaser",
+					19192
+				},
+				{
+					"Racing_C_Warlock",
+					19193
+				},
+				{
+					"Racing_C_Sorcer",
+					19194
+				},
+				{
+					"Racing_C_Rune",
+					19195
+				},
+				{
+					"Racing_C_Royal",
+					19196
+				},
+				{
+					"Racing_C_Bishop",
+					19197
+				},
+				{
+					"Racing_C_Sura",
+					19198
+				},
+				{
+					"Racing_C_Ranger",
+					19199
+				},
+				{
+					"Racing_C_Mins",
+					19200
+				},
+				{
+					"Racing_C_Wander",
+					19201
+				},
+				{
+					"Racing_C_Gunner",
+					19202
+				},
+				{
+					"Racing_C_Ninja",
+					19203
+				},
+				{
+					"Racing_C_Super",
+					19204
+				},
+				{
+					"Racing_C_Doram",
+					19205
+				},
+				{
+					"Racing_C_Star",
+					19396
+				},
+				{
+					"Racing_C_Soul",
+					19397
+				}
+			},
+			NeedSource_String = "Boné de Corrida"
 		}
 	},
 	get_lapine_box = function(in_box_id)

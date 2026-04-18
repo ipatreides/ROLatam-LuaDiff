@@ -171,13 +171,13 @@
         "ko": "다크 로드",
         "en": "Dark Lord Egg",
         "pt": "Ovo de Senhor das Trevas",
-        "es": "Huevo de Lord Oscuro"
+        "es": "Huevo de Señor Oscuro"
     },
     "/eKaCw": {
         "ko": "^999999다크 로드 (티켓 없음)^000000",
         "en": "^999999Dark Lord Egg (not enough ticket)^000000",
         "pt": "^999999Ovo de Senhor das Trevas (ticket insuficiente)^000000",
-        "es": "^999999Huevo de Lord Oscuro (Ticket insuficiente)^000000"
+        "es": "^999999Huevo de Señor Oscuro (Ticket insuficiente)^000000"
     },
     "/uKaCw": {
         "ko": "<ITEM>[월야화 큐펫 교환 티켓]<INFO>1000459</INFO></ITEM>",
@@ -195,7 +195,7 @@
         "ko": "<ITEM>[다크로드 큐펫 교환 티켓]<INFO>1001497</INFO></ITEM>",
         "en": "<ITEM>[Dark Lord Egg Ticket]<INFO>1001497</INFO></ITEM>",
         "pt": "<ITEM>[Ticket de Mascote Senhor das Trevas]<INFO>1001497</INFO></ITEM>",
-        "es": "<ITEM>[Boleto de Mascota Lord Oscuro]<INFO>1001497</INFO></ITEM>"
+        "es": "<ITEM>[Boleto de Mascota Señor Oscuro]<INFO>1001497</INFO></ITEM>"
     },
     "AeOaCw": {
         "ko": "[큐펫 티켓 교환원]\n{0}을 사용하여 큐펫을 교환하시겠습니까?",
@@ -826,5 +826,239 @@
         "en": "<ITEM>[Hodremlin Pet Ticket]<INFO>1001061</INFO></ITEM>",
         "pt": "<ITEM>[Ticket de Mascote Hodremlin]<INFO>1001061</INFO></ITEM>",
         "es": "<ITEM>[Ticket de Mascota Hodremlin]<INFO>1001061</INFO></ITEM>"
+    },
+    "auOaCw": {
+        "ko": "Ticket_Change_W_Knight",
+        "en": "Mutated White Knight",
+        "pt": "Ovo de Cavaleiro Branco Mutado",
+        "es": "Huevo de Caballero Blanco Mutado"
+    },
+    "a+OaCw": {
+        "ko": "^999999Ticket_Change_W_Knight (티켓 없음)^000000",
+        "en": "^999999Mutated White Knight (not enough ticket)^000000",
+        "pt": "^999999Ovo de Cavaleiro Branco Mutado (ticket insuficiente)^000000",
+        "es": "^999999Huevo de Caballero Blanco Mutado (Ticket insuficiente)^000000"
+    },
+    "bOOaCw": {
+        "ko": "<ITEM>[1002824]<INFO>1002824</INFO></ITEM>",
+        "en": "<ITEM>[Mutant Knight Pet Ticket]<INFO>1002824</INFO></ITEM>",
+        "pt": "<ITEM>[Ticket de Mascote Cavaleiro Mutante]<INFO>1002824</INFO></ITEM>",
+        "es": "<ITEM>[Boleto de Mascota Caballero Mutante]<INFO>1002824</INFO></ITEM>"
+    },
+    "beOaCw": {
+        "ko": "Ticket_Stoneshooter",
+        "en": "Stone Shooter Pet Ticket",
+        "pt": "Ticket de Mascote Atirador de Pedras",
+        "es": "Boleto de Mascota Tirapiedras"
+    },
+    "buOaCw": {
+        "ko": "Ticket_Golem",
+        "en": "Golem Pet Ticket",
+        "pt": "Ticket de Mascote Golem",
+        "es": "Boleto de Mascota Golem"
+    },
+    "b+OaCw": {
+        "ko": "Drops_Ticket",
+        "en": "Drops Pet Ticket",
+        "pt": "Ticket de Mascote Drops",
+        "es": "Boleto de Mascota Drops"
+    },
+    "cOOaCw": {
+        "ko": "Lunatic_Ticket",
+        "en": "Lunatic Pet Ticket",
+        "pt": "Ticket de Mascote Lunático",
+        "es": "Boleto de Mascota Lunático"
+    },
+    "ceOaCw": {
+        "ko": "Savage_Baby_Ticket",
+        "en": "Savage Baby Pet Ticket",
+        "pt": "Ticket de Mascote Bebê Selvagem",
+        "es": "Boleto de Mascota Bebé Salvaje"
+    },
+    "cuOaCw": {
+        "ko": "Spore_Ticket",
+        "en": "Spore Pet Ticket",
+        "pt": "Ticket de Mascote Esporo",
+        "es": "Boleto de Mascota Espora"
+    },
+    "c+OaCw": {
+        "ko": "Poison_Spore_Ticket",
+        "en": "Poison Spore Pet Ticket",
+        "pt": "Ticket de Mascote Esporo Venenoso",
+        "es": "Boleto de Mascota Espora Venenosa"
+    },
+    "dOOaCw": {
+        "ko": "Chonchon_Ticket",
+        "en": "Chonchon Pet Ticket",
+        "pt": "Ticket de Mascote Chonchon",
+        "es": "Boleto de Mascota Chonchon"
+    },
+    "deOaCw": {
+        "ko": "Steel_Chonchon_Ticket",
+        "en": "Steel Chonchon Pet Ticket",
+        "pt": "Ticket de Mascote Chonchon de Aço",
+        "es": "Boleto de Mascota Chonchon de Acero"
+    },
+    "duOaCw": {
+        "ko": "Petit_Ticket",
+        "en": "Petite Pet Ticket",
+        "pt": "Ticket de Mascote Petite",
+        "es": "Boleto de Mascota Petite"
+    },
+    "d+OaCw": {
+        "ko": "Dokebi_Ticket",
+        "en": "Dokebi Pet Ticket",
+        "pt": "Ticket de Mascote Dokebi",
+        "es": "Boleto de Mascota Dokebi"
+    },
+    "eOOaCw": {
+        "ko": "Desert_Wolf_B_Ticket",
+        "en": "Desert Wolf Baby Pet Ticket",
+        "pt": "Ticket de Mascote Filhote de Lobo do Deserto",
+        "es": "Boleto de Mascota Cachorro de Lobo del Desierto"
+    },
+    "eeOaCw": {
+        "ko": "Bapho_Jr_Ticket",
+        "en": "Baphomet Jr. Pet Ticket",
+        "pt": "Ticket de Mascote Bafomé Jr.",
+        "es": "Boleto de Mascota Bafomé Jr."
+    },
+    "euOaCw": {
+        "ko": "Ticket_SWEETS_DROPS",
+        "en": "Sweet Drops Pet Ticket",
+        "pt": "Ticket de Mascote Quinding",
+        "es": "Boleto de Mascota Drop Dulce"
+    },
+    "e+OaCw": {
+        "ko": "Ticket_GREMLIN",
+        "en": "Gremlin Pet Ticket",
+        "pt": "Ticket de Mascote Gremlin",
+        "es": "Boleto de Mascota Gremlin"
+    },
+    "fOOaCw": {
+        "ko": "Novice_Poring_Ticket",
+        "en": "Baby Poring Pet Ticket",
+        "pt": "Ticket de Mascote Bebê Poring",
+        "es": "Boleto de Mascota Bebé Poring"
+    },
+    "feOaCw": {
+        "ko": "Farmiliar_Ticket",
+        "en": "Familiar Pet Ticket",
+        "pt": "Ticket de Mascote Familiar",
+        "es": "Boleto de Mascota Familiar"
+    },
+    "fuOaCw": {
+        "ko": "Desert_Wolf_Ticket",
+        "en": "Desert Wolf Pet Ticket",
+        "pt": "Ticket de Mascote Lobo do Deserto",
+        "es": "Boleto de Mascota Lobo del Desierto"
+    },
+    "f+OaCw": {
+        "ko": "<ITEM>[6137]<INFO>6137</INFO></ITEM>",
+        "en": "<ITEM>[Stone Shooter Pet Ticket]<INFO>6137</INFO></ITEM>",
+        "pt": "<ITEM>[Ticket de Mascote Atirador de Pedras]<INFO>6137</INFO></ITEM>",
+        "es": "<ITEM>[Boleto de Mascota Tirapiedras]<INFO>6137</INFO></ITEM>"
+    },
+    "gOOaCw": {
+        "ko": "<ITEM>[6142]<INFO>6142</INFO></ITEM>",
+        "en": "<ITEM>[Golem Pet Ticket]<INFO>6142</INFO></ITEM>",
+        "pt": "<ITEM>[Ticket de Mascote Golem]<INFO>6142</INFO></ITEM>",
+        "es": "<ITEM>[Boleto de Mascota Golem]<INFO>6142</INFO></ITEM>"
+    },
+    "geOaCw": {
+        "ko": "<ITEM>[6158]<INFO>6158</INFO></ITEM>",
+        "en": "<ITEM>[Drops Pet Ticket]<INFO>6158</INFO></ITEM>",
+        "pt": "<ITEM>[Ticket de Mascote Drops]<INFO>6158</INFO></ITEM>",
+        "es": "<ITEM>[Boleto de Mascota Drops]<INFO>6158</INFO></ITEM>"
+    },
+    "guOaCw": {
+        "ko": "<ITEM>[6160]<INFO>6160</INFO></ITEM>",
+        "en": "<ITEM>[Lunatic Pet Ticket]<INFO>6160</INFO></ITEM>",
+        "pt": "<ITEM>[Ticket de Mascote Lunático]<INFO>6160</INFO></ITEM>",
+        "es": "<ITEM>[Boleto de Mascota Lunático]<INFO>6160</INFO></ITEM>"
+    },
+    "g+OaCw": {
+        "ko": "<ITEM>[6163]<INFO>6163</INFO></ITEM>",
+        "en": "<ITEM>[Savage Baby Pet Ticket]<INFO>6163</INFO></ITEM>",
+        "pt": "<ITEM>[Ticket de Mascote Bebê Selvagem]<INFO>6163</INFO></ITEM>",
+        "es": "<ITEM>[Boleto de Mascota Bebé Salvaje]<INFO>6163</INFO></ITEM>"
+    },
+    "hOOaCw": {
+        "ko": "<ITEM>[6164]<INFO>6164</INFO></ITEM>",
+        "en": "<ITEM>[Spore Pet Ticket]<INFO>6164</INFO></ITEM>",
+        "pt": "<ITEM>[Ticket de Mascote Esporo]<INFO>6164</INFO></ITEM>",
+        "es": "<ITEM>[Boleto de Mascota Espora]<INFO>6164</INFO></ITEM>"
+    },
+    "heOaCw": {
+        "ko": "<ITEM>[6165]<INFO>6165</INFO></ITEM>",
+        "en": "<ITEM>[Poison Spore Pet Ticket]<INFO>6165</INFO></ITEM>",
+        "pt": "<ITEM>[Ticket de Mascote Esporo Venenoso]<INFO>6165</INFO></ITEM>",
+        "es": "<ITEM>[Boleto de Mascota Espora Venenosa]<INFO>6165</INFO></ITEM>"
+    },
+    "huOaCw": {
+        "ko": "<ITEM>[6166]<INFO>6166</INFO></ITEM>",
+        "en": "<ITEM>[Chonchon Pet Ticket]<INFO>6166</INFO></ITEM>",
+        "pt": "<ITEM>[Ticket de Mascote Chonchon]<INFO>6166</INFO></ITEM>",
+        "es": "<ITEM>[Boleto de Mascota Chonchon]<INFO>6166</INFO></ITEM>"
+    },
+    "h+OaCw": {
+        "ko": "<ITEM>[6167]<INFO>6167</INFO></ITEM>",
+        "en": "<ITEM>[Steel Chonchon Pet Ticket]<INFO>6167</INFO></ITEM>",
+        "pt": "<ITEM>[Ticket de Mascote Chonchon de Aço]<INFO>6167</INFO></ITEM>",
+        "es": "<ITEM>[Boleto de Mascota Chonchon de Acero]<INFO>6167</INFO></ITEM>"
+    },
+    "iOOaCw": {
+        "ko": "<ITEM>[6168]<INFO>6168</INFO></ITEM>",
+        "en": "<ITEM>[Petite Pet Ticket]<INFO>6168</INFO></ITEM>",
+        "pt": "<ITEM>[Ticket de Mascote Petite]<INFO>6168</INFO></ITEM>",
+        "es": "<ITEM>[Boleto de Mascota Petite]<INFO>6168</INFO></ITEM>"
+    },
+    "ieOaCw": {
+        "ko": "<ITEM>[6172]<INFO>6172</INFO></ITEM>",
+        "en": "<ITEM>[Dokebi Pet Ticket]<INFO>6172</INFO></ITEM>",
+        "pt": "<ITEM>[Ticket de Mascote Dokebi]<INFO>6172</INFO></ITEM>",
+        "es": "<ITEM>[Boleto de Mascota Dokebi]<INFO>6172</INFO></ITEM>"
+    },
+    "iuOaCw": {
+        "ko": "<ITEM>[6173]<INFO>6173</INFO></ITEM>",
+        "en": "<ITEM>[Desert Wolf Baby Pet Ticket]<INFO>6173</INFO></ITEM>",
+        "pt": "<ITEM>[Ticket de Mascote Filhote de Lobo do Deserto]<INFO>6173</INFO></ITEM>",
+        "es": "<ITEM>[Boleto de Mascota Cachorro de Lobo del Desierto]<INFO>6173</INFO></ITEM>"
+    },
+    "i+OaCw": {
+        "ko": "<ITEM>[6179]<INFO>6179</INFO></ITEM>",
+        "en": "<ITEM>[Baphomet Jr. Pet Ticket]<INFO>6179</INFO></ITEM>",
+        "pt": "<ITEM>[Ticket de Mascote Bafomé Jr.]<INFO>6179</INFO></ITEM>",
+        "es": "<ITEM>[Boleto de Mascota Bafomé Jr.]<INFO>6179</INFO></ITEM>"
+    },
+    "jOOaCw": {
+        "ko": "<ITEM>[1000450]<INFO>1000450</INFO></ITEM>",
+        "en": "<ITEM>[Sweet Drops Pet Ticket]<INFO>1000450</INFO></ITEM>",
+        "pt": "<ITEM>[Ticket de Mascote Quinding]<INFO>1000450</INFO></ITEM>",
+        "es": "<ITEM>[Boleto de Mascota Drop Dulce]<INFO>1000450</INFO></ITEM>"
+    },
+    "jeOaCw": {
+        "ko": "<ITEM>[1001062]<INFO>1001062</INFO></ITEM>",
+        "en": "<ITEM>[Gremlin Pet Ticket]<INFO>1001062</INFO></ITEM>",
+        "pt": "<ITEM>[Ticket de Mascote Gremlin]<INFO>1001062</INFO></ITEM>",
+        "es": "<ITEM>[Boleto de Mascota Gremlin]<INFO>1001062</INFO></ITEM>"
+    },
+    "juOaCw": {
+        "ko": "<ITEM>[1002875]<INFO>1002875</INFO></ITEM>",
+        "en": "<ITEM>[Baby Poring Pet Ticket]<INFO>1002875</INFO></ITEM>",
+        "pt": "<ITEM>[Ticket de Mascote Bebê Poring]<INFO>1002875</INFO></ITEM>",
+        "es": "<ITEM>[Boleto de Mascota Bebé Poring]<INFO>1002875</INFO></ITEM>"
+    },
+    "j+OaCw": {
+        "ko": "<ITEM>[1002876]<INFO>1002876</INFO></ITEM>",
+        "en": "<ITEM>[Familiar Pet Ticket]<INFO>1002876</INFO></ITEM>",
+        "pt": "<ITEM>[Ticket de Mascote Familiar]<INFO>1002876</INFO></ITEM>",
+        "es": "<ITEM>[Boleto de Mascota Familiar]<INFO>1002876</INFO></ITEM>"
+    },
+    "kOOaCw": {
+        "ko": "<ITEM>[1002877]<INFO>1002877</INFO></ITEM>",
+        "en": "<ITEM>[Desert Wolf Pet Ticket]<INFO>1002877</INFO></ITEM>",
+        "pt": "<ITEM>[Ticket de Mascote Lobo do Deserto]<INFO>1002877</INFO></ITEM>",
+        "es": "<ITEM>[Boleto de Mascota Lobo del Desierto]<INFO>1002877</INFO></ITEM>"
     }
 }

@@ -20,19 +20,19 @@
     "g1VeCA": {
         "ko": "- 다른 파티원과 대화 중입니다. 잠시 함께 이야기를 들어 주십시오.\n오류로 대화가 종료된 경우, 대화 시작 5분 후 대화할 수 있는 상태로 전환됩니다. -",
         "en": "- Currently in conversation with another party member. Please listen together for a moment.\nIf the conversation ends due to an error, you will be able to talk again 5 minutes after the conversation started. -",
-        "pt": "- Você está conversando com outro membro do grupo. Por favor, aguarde um momento.\nSe a conversa for encerrada por erro, você poderá conversar novamente 5 minutos após o início da conversa. -",
+        "pt": "- Falando com outro membro do grupo. Escute a conversa.\nSe o diálogo foi interrompido, tente novamente após 5 minutos. -",
         "es": "- Estás hablando con otro miembro del grupo. Por favor, escucha la conversación un momento.\nSi la conversación se interrumpe por un error, podrás volver a hablar tras 5 minutos desde el inicio de la conversación. -"
     },
     "hFVeCA": {
         "ko": "[세이렌 윈저]\n소린, 제발 날 봐줘. 어디로 가는 거야?",
         "en": "[Seyren Windsor]\nSorin, please look at me. Where are you going?",
-        "pt": "[Seyren Windsor]\nSorin, por favor, olhe para mim. Para onde você está indo?",
+        "pt": "[Seyren Windsor]\nMargaretha, por favor, olhe para mim. Para onde você está indo?",
         "es": "[Seyren Windsor]\nSorin, por favor, mírame. ¿Adónde vas?"
     },
     "hVVeCA": {
         "ko": "세이렌: 소린, 제발 날 봐줘. 어디로 가는 거야?",
         "en": "Seyren: Sorin, please look at me. Where are you going?",
-        "pt": "Seyren: Sorin, por favor, olhe para mim. Para onde você está indo?",
+        "pt": "Seyren: Margaretha, por favor, olhe para mim. Para onde você está indo?",
         "es": "Seyren: Sorin, por favor, mírame. ¿Adónde vas?"
     },
     "hlVeCA": {
@@ -44,91 +44,91 @@
     "h1VeCA": {
         "ko": "소린: …………",
         "en": "Sorin: …………",
-        "pt": "Sorin: …………",
+        "pt": "Margaretha: ...",
         "es": "Sorin: …………"
     },
     "iFVeCA": {
         "ko": "[세이렌 윈저]\n왜 그런 눈으로 보기만 하는 거야? 대답해줘!",
         "en": "[Seyren Windsor]\nWhy are you only looking at me like that? Answer me!",
-        "pt": "[Seyren Windsor]\nPor que você só fica me olhando com esses olhos? Responda!",
+        "pt": "[Seyren Windsor]\nPor que você está me olhando e não fala nada? Por favor, me responda!",
         "es": "[Seyren Windsor]\n¿Por qué me miras así sin decir nada? ¡Respóndeme!"
     },
     "iVVeCA": {
         "ko": "세이렌: 왜 그런 눈으로 보기만 하는 거야? 대답해줘!",
         "en": "Seyren: Why are you only looking at me like that? Answer me!",
-        "pt": "Seyren: Por que você só fica me olhando com esses olhos? Responda!",
+        "pt": "Seyren: Por que você está me olhando e não fala nada? Por favor, me responda!",
         "es": "Seyren: ¿Por qué me miras así sin decir nada? ¡Respóndeme!"
     },
     "ilVeCA": {
         "ko": "[셰실 디먼]\n…진정해, 세이렌. 낌새가 이상해. 어쩌면 저 사람은 소린이 아닐지도 몰라.",
         "en": "[Cecil Damon]\n…Calm down, Seyren. Something feels off. That person might not be Sorin.",
-        "pt": "[Cecil Damon]\n…Acalme-se, Seyren. Tem algo estranho nisso. Talvez aquela pessoa não seja Sorin.",
+        "pt": "[Cecil Damon]\nCalma, Seyren. Algo está errado. Talvez ela não seja Margaretha.",
         "es": "[Cecil Damon]\n…Cálmate, Seyren. Algo no encaja. Puede que esa persona no sea Sorin."
     },
     "i1VeCA": {
         "ko": "셰실: …진정해, 세이렌. 낌새가 이상해. 어쩌면 저 사람은 소린이 아닐지도 몰라.",
         "en": "Cecil: …Calm down, Seyren. Something feels off. That person might not be Sorin.",
-        "pt": "Cecil: …Acalme-se, Seyren. Tem algo estranho nisso. Talvez aquela pessoa não seja Sorin.",
+        "pt": "Cecil: Calma, Seyren. Algo está errado. Talvez ela não seja Margaretha.",
         "es": "Cecil: …Cálmate, Seyren. Algo no encaja. Puede que esa persona no sea Sorin."
     },
     "jFVeCA": {
         "ko": "[세이렌 윈저]\n어떻게 그런 일이 일어날 수 있겠습니까? 저렇게 제 눈 앞에 서 있는데… 저는 믿고 싶지 않습니다.",
         "en": "[Seyren Windsor]\nHow could such a thing happen? She’s standing right in front of me… I don’t want to believe it.",
-        "pt": "[Seyren Windsor]\nComo algo assim poderia acontecer? Ela está bem diante dos meus olhos… eu não quero acreditar nisso.",
+        "pt": "[Seyren Windsor]\nComo isso é possível? Ela está bem na minha frente. Eu não acredito em você.",
         "es": "[Seyren Windsor]\n¿Cómo podría pasar algo así? Está ahí delante de mis ojos… No quiero creerlo."
     },
     "jVVeCA": {
         "ko": "세이렌: 어떻게 그런 일이 일어날 수 있겠습니까? 저렇게 제 눈 앞에 서 있는데… 저는 믿고 싶지 않습니다.",
         "en": "Seyren: How could such a thing happen? She’s standing right in front of me… I don’t want to believe it.",
-        "pt": "Seyren: Como algo assim poderia acontecer? Ela está bem diante dos meus olhos… eu não quero acreditar nisso.",
+        "pt": "Seyren: Como isso é possível? Ela está bem na minha frente. Eu não acredito em você.",
         "es": "Seyren: ¿Cómo podría pasar algo así? Está ahí delante de mis ojos… No quiero creerlo."
     },
     "jlVeCA": {
         "ko": "[셰실 디먼]\n어쩌면… 이곳에서는, 안타깝지만… 가능할지도 몰라.\n어서 따라가 보자. 진실은 저 곳에 있을 거야.",
         "en": "[Cecil Damon]\nMaybe… in a place like this, sadly… it might be possible.\nLet’s follow her. The truth should be over there.",
-        "pt": "[Cecil Damon]\nTalvez… aqui, infelizmente… isso seja possível.\nVamos segui-la logo. A verdade deve estar naquele lugar.",
+        "pt": "[Cecil Damon]\nEu acho que... talvez isso seja possível aqui.\nVamos segui-la. A resposta deve estar lá.",
         "es": "[Cecil Damon]\nPuede que… en este lugar, por desgracia… sea posible.\nVamos, sigámosla. La verdad estará allí."
     },
     "j1VeCA": {
         "ko": "셰실: 어쩌면… 이곳에서는, 안타깝지만… 가능할지도 몰라. 어서 따라가 보자. 진실은 저 곳에 있을 거야.",
         "en": "Cecil: Maybe… in a place like this, sadly… it might be possible. Let’s follow her. The truth should be over there.",
-        "pt": "Cecil: Talvez… aqui, infelizmente… isso seja possível. Vamos segui-la logo. A verdade deve estar naquele lugar.",
+        "pt": "Cecil: Eu acho que... talvez isso seja possível aqui. Vamos segui-la. A resposta deve estar lá.",
         "es": "Cecil: Puede que… en este lugar, por desgracia… sea posible. Vamos, sigámosla. La verdad estará allí."
     },
     "kFVeCA": {
         "ko": "[하워드 알트아이젠]\n어쩐지 오싹해지는걸… 저만 그래요, 누님?\n누님의 따뜻한 품에 폭 안기고 싶어지… 앗뜨따뜨뜨뜨!!!",
         "en": "[Howard Alt-Eisen]\nThis is giving me chills… Is it just me, sis?\nI kind of want to dive into your warm embrace… Agh, hot hot hot!!!",
-        "pt": "[Howard Alt-Eisen]\nDe algum jeito, isso dá arrepios… sou só eu, mana?\nEstou com vontade de me jogar nos braços quentinhos da mana… aiiiaiaiaiaiai!!!",
+        "pt": "[Howard Alt-Eisen]\nÉ só comigo, ou ficou frio de repente? Cecil?\nVou abraçar você para se sentir quentinha-Arh! Quente demais!",
         "es": "[Howard Alt-Iron]\nEsto da escalofríos… ¿Soy el único, hermana?\nMe están entrando ganas de refugiarme en vuestro cálido abrazo… ¡¡¡aaay, quema, quema, quema!!!"
     },
     "kVVeCA": {
         "ko": "하워드: 어쩐지 오싹해지는걸… 저만 그래요, 누님? 누님의 따뜻한 품에 폭 안기고 싶어지… 앗뜨따뜨뜨뜨!!!",
         "en": "Howard: This is giving me chills… Is it just me, sis? I kind of want to dive into your warm embrace… Agh, hot hot hot!!!",
-        "pt": "Howard: De algum jeito, isso dá arrepios… sou só eu, mana? Estou com vontade de me jogar nos braços quentinhos da mana… aiiiaiaiaiaiai!!!",
+        "pt": "Howard: É só comigo, ou ficou frio de repente? Cecil? Vou abraçar você para se sentir quentinha-Arh! Quente demais!",
         "es": "Howard: Esto da escalofríos… ¿Soy el único, hermana? Me están entrando ganas de refugiarme en vuestro cálido abrazo… ¡¡¡aaay, quema, quema, quema!!!"
     },
     "klVeCA": {
         "ko": "[셰실 디먼]\n이제 후끈하지?\n그럼 가보자.",
         "en": "[Cecil Damon]\nFeeling warmed up now?\nThen let’s go.",
-        "pt": "[Cecil Damon]\nAgora esquentou, não foi?\nEntão vamos.",
+        "pt": "[Cecil Damon]\nPronto, você está quentinho agora.\nVamos prosseguir.",
         "es": "[Cecil Damon]\n¿Ya entraste en calor?\nEntonces vámonos."
     },
     "k1VeCA": {
         "ko": "셰실: 이제 후끈하지? 그럼 가보자.",
         "en": "Cecil: Feeling warmed up now? Then let’s go.",
-        "pt": "Cecil: Agora esquentou, não foi? Então vamos.",
+        "pt": "Cecil: Pronto, você está quentinho agora. Vamos prosseguir.",
         "es": "Cecil: ¿Ya entraste en calor? Entonces vámonos."
     },
     "lFVeCA": {
         "ko": "[하워드 알트아이젠]\n으아아, 누니임~!!",
         "en": "[Howard Alt-Eisen]\nWaaah, siiiis~!!",
-        "pt": "[Howard Alt-Eisen]\nAaaah, maanaa~!!",
+        "pt": "[Howard Alt-Eisen]\nUgh, Cecil!",
         "es": "[Howard Alt-Iron]\n¡¡Aaah, hermaniiiita~!!"
     },
     "lVVeCA": {
         "ko": "하워드: 으아아, 누니임~!!",
         "en": "Howard: Waaah, siiiis~!!",
-        "pt": "Howard: Aaaah, maanaa~!!",
+        "pt": "Howard: Ugh, Cecil!",
         "es": "Howard: ¡¡Aaah, hermaniiiita~!!"
     },
     "llVeCA": {
@@ -140,7 +140,7 @@
     "l1VeCA": {
         "ko": "하워드: 세이렌 녀석이 혼란스러워 하는데. 저 녀석에게 말 좀 걸어줘.",
         "en": "Howard: Seyren looks confused. Try talking to him.",
-        "pt": "Howard: O Seyren está confuso. Vá falar com ele.",
+        "pt": "Howard: Seyren está confuso. Você deveria falar com ele para distrair.",
         "es": "Howard: Ese Seyren está confundido. Ve a hablar con él."
     },
     "mFVeCA": {
@@ -152,7 +152,7 @@
     "mVVeCA": {
         "ko": "셰실: 믿기 힘든 일이라도 앞뒤를 따져 보았을 때 진실이 맞다면 외면해서는 안돼.",
         "en": "Cecil: Even if it’s hard to believe, if examining the facts proves it true, you must not turn away from it.",
-        "pt": "Cecil: Mesmo que seja difícil de acreditar, se a verdade fizer sentido quando se olha tudo ao redor, não devemos virar o rosto.",
+        "pt": "Cecil: Você não deve ignorar a verdade, não importa o quão dura seja.",
         "es": "Cecil: Aunque sea difícil de creer, si al considerar todos los hechos resulta ser la verdad, no debes apartar la vista."
     },
     "mlVeCA": {
@@ -164,19 +164,19 @@
     "m1VeCA": {
         "ko": "소린: ……",
         "en": "Sorin: ……",
-        "pt": "Sorin: ……",
+        "pt": "Margaretha: ...",
         "es": "Sorin: ……"
     },
     "nFVeCA": {
         "ko": "무명의 검사",
-        "en": "Nameless Swordsman",
-        "pt": "Espadachim sem nome",
+        "en": "Nameless Swordman",
+        "pt": "Espadachim Anônima",
         "es": "Espadachín sin nombre"
     },
     "nVVeCA": {
         "ko": "무명의 검사: ……",
-        "en": "Nameless Swordsman: ……",
-        "pt": "Espadachim sem nome: ……",
+        "en": "Nameless Swordman: ……",
+        "pt": "Espadachim Anônima: ...",
         "es": "Espadachín sin nombre: ……"
     },
     "nlVeCA": {
@@ -188,79 +188,79 @@
     "n1VeCA": {
         "ko": "보르세브: 너희의 희생은 미래의 토대란다. 자부심을 가져도 좋아.",
         "en": "Vorseff: Your sacrifice will become the foundation of the future. You may take pride in it.",
-        "pt": "Wolfchev: O sacrifício de vocês será a base do futuro. Podem até se orgulhar disso.",
+        "pt": "Wolfchev: Vocês serão sacrificados por um futuro melhor. Sintam-se orgulhosos.",
         "es": "Wolfchev: Vuestro sacrificio será la base del futuro. Podéis sentiros orgullosos."
     },
     "oFVeCA": {
         "ko": "[세이렌 윈저]\n소린!!! 여기는… 어떻게 된 거야. 대체…\n에레메스, 그리고 케이론까지? 케이론이 숨을 거두는 모습을 내가 이 두 눈으로 보았어!!",
         "en": "[Seyren Windsor]\nSorin!!! What… happened here…?\nEremes, and even Keiron? I saw Keiron draw his last breath with my own eyes!!",
-        "pt": "[Seyren Windsor]\nSorin!!! O que… aconteceu aqui? Como assim…\nEremes, e até Keiron? Eu vi com estes próprios olhos o momento em que Keiron morreu!!",
+        "pt": "[Seyren Windsor]\nMargaretha! Esse lugar... O que houve? Como...?\nEremes! Kathryne, também? Eu a vi morrer na minha frente!",
         "es": "[Seyren Windsor]\n¡¡Sorin!!! ¿Qué… qué ha pasado aquí? Pero entonces…\n¿Eremes, y hasta Keiron? ¡¡Yo vi con estos ojos cómo Keiron exhalaba su último aliento!!"
     },
     "oVVeCA": {
         "ko": "세이렌: 소린!!! 여기는… 어떻게 된 거야. 대체… 에레메스, 그리고 케이론까지? 케이론이 숨을 거두는 모습을 내가 이 두 눈으로 보았어!!",
         "en": "Seyren: Sorin!!! What… happened here…? Eremes, and even Keiron? I saw Keiron draw his last breath with my own eyes!!",
-        "pt": "Seyren: Sorin!!! O que… aconteceu aqui? Como assim… Eremes, e até Keiron? Eu vi com estes próprios olhos o momento em que Keiron morreu!!",
+        "pt": "Seyren: Margaretha! Esse lugar... O que houve? Como...? Eremes! Kathryne, também? Eu a vi morrer na minha frente!",
         "es": "Seyren: ¡¡Sorin!!! ¿Qué… qué ha pasado aquí? Pero entonces… ¿Eremes, y hasta Keiron? ¡¡Yo vi con estos ojos cómo Keiron exhalaba su último aliento!!"
     },
     "olVeCA": {
         "ko": "[셰실 디먼]\n부정하지 마. 너도 봤잖아, 이곳의 수많은 자료들을…\n심장 대신 배틀코어를 이식한 사람들의 반응 경과.",
         "en": "[Cecil Damon]\nDon’t deny it. You saw it too, didn’t you? All the countless records here…\nThe reaction progress of people implanted with a Battle Core instead of a heart.",
-        "pt": "[Cecil Damon]\nNão negue. Você também viu, não viu, os inúmeros registros deste lugar…\nA progressão das reações das pessoas que receberam um Battle Core no lugar do coração.",
+        "pt": "[Cecil Damon]\nNão negue a verdade. Você viu as pilhas de documentos de pesquisa aqui.\nSobre as reações das pessoas com Núcleos de Batalha implementados nos corações.",
         "es": "[Cecil Damon]\nNo lo niegues. Tú también viste los innumerables documentos de este lugar…\nLa evolución de las reacciones de quienes recibieron Núcleo de batalla en lugar del corazón."
     },
     "o1VeCA": {
         "ko": "셰실: 부정하지 마. 너도 봤잖아, 이곳의 수많은 자료들을… 심장 대신 배틀코어를 이식한 사람들의 반응 경과.",
         "en": "Cecil: Don’t deny it. You saw it too, didn’t you? All the countless records here… The reaction progress of people implanted with a Battle Core instead of a heart.",
-        "pt": "Cecil: Não negue. Você também viu, não viu, os inúmeros registros deste lugar… A progressão das reações das pessoas que receberam um Battle Core no lugar do coração.",
+        "pt": "Cecil: Não negue a verdade. Você viu as pilhas de documentos de pesquisa aqui. Sobre as reações das pessoas com Núcleos de Batalha implementados nos corações.",
         "es": "Cecil: No lo niegues. Tú también viste los innumerables documentos de este lugar… La evolución de las reacciones de quienes recibieron Núcleo de batalla en lugar del corazón."
     },
     "pFVeCA": {
         "ko": "[셰실 디먼]\n코어가 몸을 지배하기 시작하면 흑혈 반응이 일어나게 되고… 더 이상 코어의 부하를 몸이 견디지 못하게 되면 사망 후 사념체화가 일어난다.",
         "en": "[Cecil Damon]\nOnce the core begins to dominate the body, a black-blood reaction occurs… and when the body can no longer withstand the core’s burden, after death they become thought entities.",
-        "pt": "[Cecil Damon]\nQuando o núcleo começa a dominar o corpo, ocorre a reação de sangue negro… e, quando o corpo já não consegue mais suportar a carga do núcleo, após a morte ocorre a transformação em entidade de pensamento.",
+        "pt": "[Cecil Damon]\nQuando o núcleo controla seu corpo, seu sangue escurece, seu sentido desaparece, tornando você na forma de espírito.",
         "es": "[Cecil Damon]\nCuando el núcleo empieza a dominar el cuerpo, se produce la reacción de sangre negra… y cuando el cuerpo ya no puede soportar la carga del núcleo, tras la muerte se produce la conversión en espíritu residual."
     },
     "pVVeCA": {
         "ko": "셰실: 코어가 몸을 지배하기 시작하면 흑혈 반응이 일어나게 되고… 더 이상 코어의 부하를 몸이 견디지 못하게 되면 사망 후 사념체화가 일어난다.",
         "en": "Cecil: Once the core begins to dominate the body, a black-blood reaction occurs… and when the body can no longer withstand the core’s burden, after death they become thought entities.",
-        "pt": "Cecil: Quando o núcleo começa a dominar o corpo, ocorre a reação de sangue negro… e, quando o corpo já não consegue mais suportar a carga do núcleo, após a morte ocorre a transformação em entidade de pensamento.",
+        "pt": "Cecil: Quando o núcleo controla seu corpo, seu sangue escurece, seu sentido desaparece, tornando você na forma de espírito.",
         "es": "Cecil: Cuando el núcleo empieza a dominar el cuerpo, se produce la reacción de sangre negra… y cuando el cuerpo ya no puede soportar la carga del núcleo, tras la muerte se produce la conversión en espíritu residual."
     },
     "plVeCA": {
         "ko": "[셰실 디먼]\n똑바로 봐, 세이렌. 저건 소린과 죽은 두 사람의… 사념체야.\n우리도 곧 저렇게 되고 말겠지.",
         "en": "[Cecil Damon]\nLook carefully, Seyren. Those are the thought entities of Sorin and the two who died…\nSoon enough, we’ll become like that too.",
-        "pt": "[Cecil Damon]\nOlhe direito, Seyren. Aquilo é Sorin e os dois mortos… em forma de entidade de pensamento.\nNós também logo acabaremos assim.",
+        "pt": "[Cecil Damon]\nOlha, Seyren. Eles não são Margaretha, Eremes, ou Kathryne. Eles são fantasmas.\nLogo mais, iremos acabar como eles, também.",
         "es": "[Cecil Damon]\nMíralo bien, Seyren. Eso son los… espíritus residuales de Sorin y de los dos fallecidos.\nNosotros pronto acabaremos así también."
     },
     "p1VeCA": {
         "ko": "셰실: 똑바로 봐, 세이렌. 저건 소린과 죽은 두 사람의… 사념체야. 우리도 곧 저렇게 되고 말겠지.",
         "en": "Cecil: Look carefully, Seyren. Those are the thought entities of Sorin and the two who died… Soon enough, we’ll become like that too.",
-        "pt": "Cecil: Olhe direito, Seyren. Aquilo é Sorin e os dois mortos… em forma de entidade de pensamento. Nós também logo acabaremos assim.",
+        "pt": "Cecil: Olha, Seyren. Eles não são Margaretha, Eremes, ou Kathryne. Eles são fantasmas. Logo mais, iremos acabar como eles, também.",
         "es": "Cecil: Míralo bien, Seyren. Eso son los… espíritus residuales de Sorin y de los dos fallecidos. Nosotros pronto acabaremos así también."
     },
     "qFVeCA": {
         "ko": "[하워드 알트아이젠]\n잠깐, 저기, 사념체들이 생성되는 곳에 뭔가 있어.",
         "en": "[Howard Alt-Eisen]\nWait, over there—there’s something where the thought entities are forming.",
-        "pt": "[Howard Alt-Eisen]\nEspere, ali, no lugar onde as entidades de pensamento estão surgindo, tem alguma coisa.",
+        "pt": "[Howard Alt-Eisen]\nEspera aí, tem mais uma coisa onde esses fantasmas apareceram.",
         "es": "[Howard Alt-Iron]\nEsperad, allí, donde se generan los espíritus residuales, hay algo."
     },
     "qVVeCA": {
         "ko": "하워드: 잠깐, 저기, 사념체들이 생성되는 곳에 뭔가 있어.",
         "en": "Howard: Wait, over there—there’s something where the thought entities are forming.",
-        "pt": "Howard: Espere, ali, no lugar onde as entidades de pensamento estão surgindo, tem alguma coisa.",
+        "pt": "Howard: Espera aí, tem mais uma coisa onde esses fantasmas apareceram.",
         "es": "Howard: Esperad, allí, donde se generan los espíritus residuales, hay algo."
     },
     "qlVeCA": {
         "ko": "[셰실 디먼]\n저건… 그렇군. 소린과 에레메스의… 그리고…!?",
         "en": "[Cecil Damon]\nThat is… I see. Sorin’s and Eremes’… and…!?",
-        "pt": "[Cecil Damon]\nAquilo é… entendo. De Sorin e Eremes… e…!?",
+        "pt": "[Cecil Damon]\nIsso é... Entendi. Margaretha, Eremes e...?",
         "es": "[Cecil Damon]\nEso es… ya veo. Los de Sorin y Eremes… ¡¿y además…?!"
     },
     "q1VeCA": {
         "ko": "셰실: 저건… 그렇군. 소린과 에레메스의… 그리고…!?",
         "en": "Cecil: That is… I see. Sorin’s and Eremes’… and…!?",
-        "pt": "Cecil: Aquilo é… entendo. De Sorin e Eremes… e…!?",
+        "pt": "Cecil: Isso é... Entendi. Margaretha, Eremes e...?",
         "es": "Cecil: Eso es… ya veo. Los de Sorin y Eremes… ¡¿y además…?!"
     },
     "rFVeCA": {
@@ -278,319 +278,319 @@
     "rlVeCA": {
         "ko": "[세이렌 윈저]\n예? 저건…!!",
         "en": "[Seyren Windsor]\nWhat? That’s…!!",
-        "pt": "[Seyren Windsor]\nO quê? Aquilo é…!!",
+        "pt": "[Seyren Windsor]\nSim? Isso...!",
         "es": "[Seyren Windsor]\n¿Eh? ¡¡Eso es…!!"
     },
     "r1VeCA": {
         "ko": "세이렌: 예? 저건…!!",
         "en": "Seyren: What? That’s…!!",
-        "pt": "Seyren: O quê? Aquilo é…!!",
+        "pt": "Seyren: Sim? Isso...!",
         "es": "Seyren: ¿Eh? ¡¡Eso es…!!"
     },
     "sFVeCA": {
         "ko": "[세이렌 윈저]\n잠깐, 그러면 저는… 설마 이미……",
         "en": "[Seyren Windsor]\nWait… then does that mean… I’m already……",
-        "pt": "[Seyren Windsor]\nEspere, então isso quer dizer que eu… não me diga que já……",
+        "pt": "[Seyren Windsor]\nEpa, isso... Ai não, eu estou...?",
         "es": "[Seyren Windsor]\nEspera, entonces yo… no me digas que ya……"
     },
     "sVVeCA": {
         "ko": "세이렌: 잠깐, 그러면 저는… 설마 이미……",
         "en": "Seyren: Wait… then does that mean… I’m already……",
-        "pt": "Seyren: Espere, então isso quer dizer que eu… não me diga que já……",
+        "pt": "Seyren: Epa, isso... Ai não, eu estou...?",
         "es": "Seyren: Espera, entonces yo… no me digas que ya……"
     },
     "slVeCA": {
         "ko": "[세이렌 윈저]\n이미… 죽은 몸이었단 말입니까…?\n그 보고서에 나온 대로, 지금은…",
         "en": "[Seyren Windsor]\nAre you saying… I was already dead…?\nJust like the report said, right now I am…",
-        "pt": "[Seyren Windsor]\nEu já… era um corpo morto…?\nComo dizia naquele relatório, agora eu…",
+        "pt": "[Seyren Windsor]\nEu estou... morto?\nNo meu relatório disse que eu...",
         "es": "[Seyren Windsor]\n¿Ya estaba… muerto…?\nTal como decía ese informe, ahora…"
     },
     "s1VeCA": {
         "ko": "세이렌: 이미… 죽은 몸이었단 말입니까…? 그 보고서에 나온 대로, 지금은…",
         "en": "Seyren: Are you saying… I was already dead…? Just like the report said, right now I am…",
-        "pt": "Seyren: Eu já… era um corpo morto…? Como dizia naquele relatório, agora eu…",
+        "pt": "Seyren: Eu estou... morto? No meu relatório disse que eu...",
         "es": "Seyren: ¿Ya estaba… muerto…? Tal como decía ese informe, ahora…"
     },
     "tFVeCA": {
         "ko": "[보르세브]\n그래, 사념체가 되었는데도 그렇게까지 명확한 목적과 의식을 가지고 있는 실험체는 네가 처음이지.",
         "en": "[Vorseff]\nYes. Even after becoming a thought entity, you are the first experimental subject to retain such a clear purpose and awareness.",
-        "pt": "[Wolfchev]\nIsso mesmo. Você foi a primeira cobaia que, mesmo se tornando uma entidade de pensamento, ainda manteve um propósito e uma consciência tão claros.",
+        "pt": "[Wolfchev]\nSim, você é a primeira cobaia que morreu e voltou como um fantasma com uma mente tão clara e um objetivo claro.",
         "es": "[Wolfchev]\nAsí es. Eres el primero entre mis sujetos de prueba que, incluso convertido en espíritu residual, conserva un propósito y una consciencia tan claros."
     },
     "tVVeCA": {
         "ko": "보르세브: 그래, 사념체가 되었는데도 그렇게까지 명확한 목적과 의식을 가지고 있는 실험체는 네가 처음이지.",
         "en": "Vorseff: Yes. Even after becoming a thought entity, you are the first experimental subject to retain such a clear purpose and awareness.",
-        "pt": "Wolfchev: Isso mesmo. Você foi a primeira cobaia que, mesmo se tornando uma entidade de pensamento, ainda manteve um propósito e uma consciência tão claros.",
+        "pt": "Wolfchev: Sim, você é a primeira cobaia que morreu e voltou como um fantasma com uma mente tão clara e um objetivo claro.",
         "es": "Wolfchev: Así es. Eres el primero entre mis sujetos de prueba que, incluso convertido en espíritu residual, conserva un propósito y una consciencia tan claros."
     },
     "tlVeCA": {
         "ko": "[보르세브]\n마치 너의 의지에 반응해 행동하는 것 같은 저 사념체들도… 너만큼이나 명확한 의지를 가지고 있지는 못했어, 세이렌 윈저.",
         "en": "[Vorseff]\nThose thought entities that seem to act in response to your will… none of them possessed as clear a will as you do, Seyren Windsor.",
-        "pt": "[Wolfchev]\nAté aquelas entidades de pensamento que parecem agir em resposta à sua vontade… não possuíam uma vontade tão nítida quanto a sua, Seyren Windsor.",
+        "pt": "[Wolfchev]\nOs outros parecem estar simplesmente reagindo à sua vontade. Eles não são tão conscientes quanto você, Seyren.",
         "es": "[Wolfchev]\nIncluso esos espíritus residuales que parecen moverse respondiendo a tu voluntad… no poseen una voluntad tan definida como la tuya, Seyren Windsor."
     },
     "t1VeCA": {
         "ko": "보르세브: 마치 너의 의지에 반응해 행동하는 것 같은 저 사념체들도… 너만큼이나 명확한 의지를 가지고 있지는 못했어, 세이렌 윈저.",
         "en": "Vorseff: Those thought entities that seem to act in response to your will… none of them possessed as clear a will as you do, Seyren Windsor.",
-        "pt": "Wolfchev: Até aquelas entidades de pensamento que parecem agir em resposta à sua vontade… não possuíam uma vontade tão nítida quanto a sua, Seyren Windsor.",
+        "pt": "Wolfchev: Os outros parecem estar simplesmente reagindo à sua vontade. Eles não são tão conscientes quanto você, Seyren.",
         "es": "Wolfchev: Incluso esos espíritus residuales que parecen moverse respondiendo a tu voluntad… no poseen una voluntad tan definida como la tuya, Seyren Windsor."
     },
     "uFVeCA": {
         "ko": "[셰실 디먼]\n이 자식…! 네놈이 바로!!",
         "en": "[Cecil Damon]\nYou bastard…! So it was you!!",
-        "pt": "[Cecil Damon]\nSeu desgraçado…! Então é você!!",
+        "pt": "[Cecil Damon]\nSeu idiota! Você fez isso com a gente!",
         "es": "[Cecil Damon]\n¡Maldito…! ¡Así que eras tú!!"
     },
     "uVVeCA": {
         "ko": "셰실: 이 자식…! 네놈이 바로!!",
         "en": "Cecil: You bastard…! So it was you!!",
-        "pt": "Cecil: Seu desgraçado…! Então é você!!",
+        "pt": "Cecil: Seu idiota! Você fez isso com a gente!",
         "es": "Cecil: ¡Maldito…! ¡Así que eras tú!!"
     },
     "ulVeCA": {
         "ko": "[보르세브]\n이런, 숙녀가 입이 험하지 않은가. 자네도 꽤 흥미로운 실험체였지, 셰실 디먼.\n흑혈 반응에 대해 읽었으면서도 그렇게 적극적으로 코어의 힘을 실험하려고 들다니.",
         "en": "[Vorseff]\nMy, such foul language from a lady. You were quite an interesting experimental subject yourself, Cecil Damon.\nEven after reading about the black-blood reaction, you still eagerly attempted to test the power of the core.",
-        "pt": "[Wolfchev]\nOra, ora, não acha a boca de uma dama um tanto suja? Você também foi uma cobaia bem interessante, Cecil Damon.\nMesmo tendo lido sobre a reação de sangue negro, tentou testar o poder do núcleo de forma tão ativa.",
+        "pt": "[Wolfchev]\nOh, que deselegante. Mas você também foi uma cobaia interessante, Cecil.\nMesmo que você tenha lido sobre a reação da Hematêmese Negra, você testou ativamente seu núcleo.",
         "es": "[Wolfchev]\nVaya, qué lengua tan afilada tiene la dama. Tú también eras un sujeto de prueba bastante interesante, Cecil Damon.\nLeíste sobre la reacción de sangre negra y aun así intentaste experimentar con el poder del núcleo de una forma tan activa."
     },
     "u1VeCA": {
         "ko": "보르세브: 이런, 숙녀가 입이 험하지 않은가. 자네도 꽤 흥미로운 실험체였지, 셰실 디먼. 흑혈 반응에 대해 읽었으면서도 그렇게 적극적으로 코어의 힘을 실험하려고 들다니.",
         "en": "Vorseff: My, such foul language from a lady. You were quite an interesting experimental subject yourself, Cecil Damon. Even after reading about the black-blood reaction, you still eagerly attempted to test the power of the core.",
-        "pt": "Wolfchev: Ora, ora, não acha a boca de uma dama um tanto suja? Você também foi uma cobaia bem interessante, Cecil Damon. Mesmo tendo lido sobre a reação de sangue negro, tentou testar o poder do núcleo de forma tão ativa.",
+        "pt": "Wolfchev: Oh, que deselegante. Mas você também foi uma cobaia interessante, Cecil. Mesmo que você tenha lido sobre a reação da Hematêmese Negra, você testou ativamente seu núcleo.",
         "es": "Wolfchev: Vaya, qué lengua tan afilada tiene la dama. Tú también eras un sujeto de prueba bastante interesante, Cecil Damon. Leíste sobre la reacción de sangre negra y aun así intentaste experimentar con el poder del núcleo de una forma tan activa."
     },
     "vFVeCA": {
         "ko": "[보르세브]\n하지만 몸이 버텨주지 못하는 것 같구나, 정말이지 안타깝게도. 최고의 실험체라고는 할 수 없겠어… 하하…!!",
         "en": "[Vorseff]\nBut it seems your body cannot endure it, how unfortunate. I suppose you cannot be called the finest specimen… haha…!!",
-        "pt": "[Wolfchev]\nMas parece que seu corpo não está conseguindo suportar, que pena, realmente. Não posso dizer que você seja a melhor cobaia… haha…!!",
+        "pt": "[Wolfchev]\nÉ uma pena que seu corpo não seja tão resistente quanto sua mente. Caso contrário, você poderia ter sido a melhor cobaia que já tive. Hah hah!",
         "es": "[Wolfchev]\nPero parece que tu cuerpo no puede soportarlo, qué verdadera lástima. No puedo llamarte el sujeto perfecto… ¡ja, ja…!!"
     },
     "vVVeCA": {
         "ko": "보르세브: 하지만 몸이 버텨주지 못하는 것 같구나, 정말이지 안타깝게도. 최고의 실험체라고는 할 수 없겠어… 하하…!!",
         "en": "Vorseff: But it seems your body cannot endure it, how unfortunate. I suppose you cannot be called the finest specimen… haha…!!",
-        "pt": "Wolfchev: Mas parece que seu corpo não está conseguindo suportar, que pena, realmente. Não posso dizer que você seja a melhor cobaia… haha…!!",
+        "pt": "Wolfchev: É uma pena que seu corpo não seja tão resistente quanto sua mente. Caso contrário, você poderia ter sido a melhor cobaia que já tive. Hah hah!",
         "es": "Wolfchev: Pero parece que tu cuerpo no puede soportarlo, qué verdadera lástima. No puedo llamarte el sujeto perfecto… ¡ja, ja…!!"
     },
     "vlVeCA": {
         "ko": "[하워드 알트아이젠]\n셰실 님!",
         "en": "[Howard Alt-Eisen]\nCecil!",
-        "pt": "[Howard Alt-Eisen]\nSrta. Cecil!",
+        "pt": "[Howard Alt-Eisen]\nCecil!",
         "es": "[Howard Alt-Iron]\n¡Cecil!"
     },
     "v1VeCA": {
         "ko": "하워드: 셰실 님!",
         "en": "Howard: Cecil!",
-        "pt": "Howard: Srta. Cecil!",
+        "pt": "Howard: Cecil!",
         "es": "Howard: ¡Cecil!"
     },
     "wFVeCA": {
         "ko": "[셰실 디먼]\n그게 사실이야. 아마 우리는 여기서 나갈 수 없어.",
         "en": "[Cecil Damon]\nIt’s true. We probably won’t be able to leave this place.",
-        "pt": "[Cecil Damon]\nÉ verdade. Provavelmente não conseguiremos sair daqui.",
+        "pt": "[Cecil Damon]\nEssa é a verdade. Duvido que possamos sair daqui.",
         "es": "[Cecil Damon]\nEs verdad. Probablemente no podamos salir de aquí."
     },
     "wVVeCA": {
         "ko": "셰실: 그게 사실이야. 아마 우리는 여기서 나갈 수 없어.",
         "en": "Cecil: It’s true. We probably won’t be able to leave this place.",
-        "pt": "Cecil: É verdade. Provavelmente não conseguiremos sair daqui.",
+        "pt": "Cecil: Essa é a verdade. Duvido que possamos sair daqui.",
         "es": "Cecil: Es verdad. Probablemente no podamos salir de aquí."
     },
     "wlVeCA": {
         "ko": "[보르세브]\n후, 후후… 하하하!!\n맞아. 하지만 너희의 죽음은 가치있을 거란다. 이렇게 뛰어난 실험체들은 보기 드물거든.",
         "en": "[Vorseff]\nHeh, hehehe… hahaha!!\nThat’s right. But your deaths will be valuable. Such exceptional specimens are rare.",
-        "pt": "[Wolfchev]\nHu, huhuhu… hahahaha!!\nIsso mesmo. Mas a morte de vocês terá valor. É raro ver cobaias tão excelentes assim.",
+        "pt": "[Wolfchev]\nHah, hah hah... Hah hah hah!\nNão, mas saiba que você não vai morrer em vão. Você ainda está no topo da minha lista de cobaias que já tive.",
         "es": "[Wolfchev]\nJi, ji… ¡ja, ja, ja!!\nAsí es. Pero vuestra muerte tendrá valor. Es raro encontrarse con sujetos de prueba tan extraordinarios."
     },
     "w1VeCA": {
         "ko": "보르세브: 후, 후후… 하하하!! 맞아. 하지만 너희의 죽음은 가치있을 거란다. 이렇게 뛰어난 실험체들은 보기 드물거든.",
         "en": "Vorseff: Heh, hehehe… hahaha!! That’s right. But your deaths will be valuable. Such exceptional specimens are rare.",
-        "pt": "Wolfchev: Hu, huhuhu… hahahaha!! Isso mesmo. Mas a morte de vocês terá valor. É raro ver cobaias tão excelentes assim.",
+        "pt": "Wolfchev: Hah, hah hah... Hah hah hah! Não, mas saiba que você não vai morrer em vão. Você ainda está no topo da minha lista de cobaias que já tive.",
         "es": "Wolfchev: Ji, ji… ¡ja, ja, ja!! Así es. Pero vuestra muerte tendrá valor. Es raro encontrarse con sujetos de prueba tan extraordinarios."
     },
     "xFVeCA": {
         "ko": "[보르세브]\n세이렌 윈저, 너의 뛰어난 적응력과 반응성은 실험체 중에서도 발군이구나.\n이대로라면 배틀 코어의 완성도 눈앞에 있다… 하하…!!",
         "en": "[Vorseff]\nSeyren Windsor, your remarkable adaptability and responsiveness are outstanding even among experimental subjects.\nAt this rate, the completion of the Battle Core is within reach… haha…!!",
-        "pt": "[Wolfchev]\nSeyren Windsor, sua excelente adaptabilidade e capacidade de resposta são excepcionais até mesmo entre as cobaias.\nSe continuar assim, a conclusão do Battle Core estará diante dos meus olhos… haha…!!",
+        "pt": "[Wolfchev]\nSeyren, sua adaptabilidade e reatividade são de longe as melhores de todas.\nAgora, estou tão perto de completar o Núcleo de Batalha. Hah hah!",
         "es": "[Wolfchev]\nSeyren Windsor, tu extraordinaria capacidad de adaptación y respuesta destaca incluso entre los sujetos de prueba.\nA este paso, la finalización de Núcleo de batalla está al alcance de la mano… ¡ja, ja…!!"
     },
     "xVVeCA": {
         "ko": "보르세브: 세이렌 윈저, 너의 뛰어난 적응력과 반응성은 실험체 중에서도 발군이구나. 이대로라면 배틀 코어의 완성도 눈앞에 있다… 하하…!!",
         "en": "Vorseff: Seyren Windsor, your remarkable adaptability and responsiveness are outstanding even among experimental subjects. At this rate, the completion of the Battle Core is within reach… haha…!!",
-        "pt": "Wolfchev: Seyren Windsor, sua excelente adaptabilidade e capacidade de resposta são excepcionais até mesmo entre as cobaias. Se continuar assim, a conclusão do Battle Core estará diante dos meus olhos… haha…!!",
+        "pt": "Wolfchev: Seyren, sua adaptabilidade e reatividade são de longe as melhores de todas. Agora, estou tão perto de completar o Núcleo de Batalha. Hah hah!",
         "es": "Wolfchev: Seyren Windsor, tu extraordinaria capacidad de adaptación y respuesta destaca incluso entre los sujetos de prueba. A este paso, la finalización de Núcleo de batalla está al alcance de la mano… ¡ja, ja…!!"
     },
     "xlVeCA": {
         "ko": "[세이렌 윈저]\n너… 네가!!! 모든 일의 원흉!!!! 절대, 절대 용서하지 않겠다!!",
         "en": "[Seyren Windsor]\nYou… you are!!! The root of all this!!!! I will never, ever forgive you!!",
-        "pt": "[Seyren Windsor]\nVo… você!!! A origem de tudo isso!!!! Jamais, jamais vou perdoá-lo!!",
+        "pt": "[Seyren Windsor]\nVocê! Você é o cérebro por trás de tudo isso! Eu não vou te perdoar!",
         "es": "[Seyren Windsor]\n¡Tú… tú eres!!! ¡¡¡La raíz de todo esto!!!! ¡¡No te perdonaré jamás, jamás!!"
     },
     "x1VeCA": {
         "ko": "세이렌: 너… 네가!!! 모든 일의 원흉!!!! 절대, 절대 용서하지 않겠다!!",
         "en": "Seyren: You… you are!!! The root of all this!!!! I will never, ever forgive you!!",
-        "pt": "Seyren: Vo… você!!! A origem de tudo isso!!!! Jamais, jamais vou perdoá-lo!!",
+        "pt": "Seyren: Você! Você é o cérebro por trás de tudo isso! Eu não vou te perdoar!",
         "es": "Seyren: ¡Tú… tú eres!!! ¡¡¡La raíz de todo esto!!!! ¡¡No te perdonaré jamás, jamás!!"
     },
     "yFVeCA": {
         "ko": "[보르세브]\n아아, 보채지 마렴. 마지막 실험이 남았다.\n이미 아는 얼굴이겠지만 이쪽은 전에 너희가 싸웠던 그 실패작과는 조금 다르지.",
         "en": "[Vorseff]\nNow, now, don’t rush. One final experiment remains.\nYou may recognize this face, though this one is a little different from the failed subject you fought before.",
-        "pt": "[Wolfchev]\nAh, ah, não tenha tanta pressa. Ainda resta o experimento final.\nTalvez já seja um rosto conhecido, mas este aqui é um pouco diferente daquele fracasso contra quem vocês lutaram antes.",
+        "pt": "[Wolfchev]\nAh, não seja impaciente. Ainda temos um último teste para completar.\nVocê já viu esse rosto antes, mas não é o mesmo fracasso que você lutou antes.",
         "es": "[Wolfchev]\nAh, ah, no tengas tanta prisa. Aún queda el experimento final.\nAunque ya os resulte una cara conocida, este de aquí es un poco distinto de aquel fracaso contra el que luchasteis antes."
     },
     "yVVeCA": {
         "ko": "보르세브: 아아, 보채지 마렴. 마지막 실험이 남았다. 이미 아는 얼굴이겠지만 이쪽은 전에 너희가 싸웠던 그 실패작과는 조금 다르지.",
         "en": "Vorseff: Now, now, don’t rush. One final experiment remains. You may recognize this face, though this one is a little different from the failed subject you fought before.",
-        "pt": "Wolfchev: Ah, ah, não tenha tanta pressa. Ainda resta o experimento final. Talvez já seja um rosto conhecido, mas este aqui é um pouco diferente daquele fracasso contra quem vocês lutaram antes.",
+        "pt": "Wolfchev: Ah, não seja impaciente. Ainda temos um último teste para completar. Você já viu esse rosto antes, mas não é o mesmo fracasso que você lutou antes.",
         "es": "Wolfchev: Ah, ah, no tengas tanta prisa. Aún queda el experimento final. Aunque ya os resulte una cara conocida, este de aquí es un poco distinto de aquel fracaso contra el que luchasteis antes."
     },
     "ylVeCA": {
         "ko": "[보르세브]\n지금으로서는 개중 가장 나은 개체란다. 세이렌 네 실험에 최고의 보조를 해낼 수 있도록 조금 더 개조했고 말이다.",
         "en": "[Vorseff]\nFor now, it is the best specimen among them. I enhanced it a little more so it can provide the best support for your experiment, Seyren.",
-        "pt": "[Wolfchev]\nPor enquanto, é o melhor espécime entre eles. Eu o modifiquei um pouco mais para que pudesse dar o melhor suporte possível ao seu experimento, Seyren.",
+        "pt": "[Wolfchev]\nEsta é a melhor de todas as unidades existentes no momento. E eu a modifiquei ainda mais para você testar, Seyren.",
         "es": "[Wolfchev]\nPor ahora es el mejor ejemplar del grupo. Lo he modificado un poco más para que sirva de apoyo perfecto a tu experimento, Seyren."
     },
     "y1VeCA": {
         "ko": "보르세브: 지금으로서는 개중 가장 나은 개체란다. 세이렌 네 실험에 최고의 보조를 해낼 수 있도록 조금 더 개조했고 말이다.",
         "en": "Vorseff: For now, it is the best specimen among them. I enhanced it a little more so it can provide the best support for your experiment, Seyren.",
-        "pt": "Wolfchev: Por enquanto, é o melhor espécime entre eles. Eu o modifiquei um pouco mais para que pudesse dar o melhor suporte possível ao seu experimento, Seyren.",
+        "pt": "Wolfchev: Esta é a melhor de todas as unidades existentes no momento. E eu a modifiquei ainda mais para você testar, Seyren.",
         "es": "Wolfchev: Por ahora es el mejor ejemplar del grupo. Lo he modificado un poco más para que sirva de apoyo perfecto a tu experimento, Seyren."
     },
     "zFVeCA": {
         "ko": "[무명의 검사]\n으…",
-        "en": "[Nameless Swordsman]\nUgh…",
-        "pt": "[Espadachim sem nome]\nUgh…",
+        "en": "[Nameless Swordman]\nUgh…",
+        "pt": "[Espadachim Anônima]\nUgh...",
         "es": "[Espadachín sin nombre]\nUgh…"
     },
     "zVVeCA": {
         "ko": "무명의 검사: 으…",
-        "en": "Nameless Swordsman: Ugh…",
-        "pt": "Espadachim sem nome: Ugh…",
+        "en": "Nameless Swordman: Ugh…",
+        "pt": "Espadachim Anônima: Ugh...",
         "es": "Espadachín sin nombre: Ugh…"
     },
     "zlVeCA": {
         "ko": "[보르세브]\n전투 후에는 힘이 다해 의식조차 남지 않을 정도로 분열하겠지만… 그 정도 소모는 괜찮아. 그때는 세이렌 너를 내 손 안에 넣을 수 있을 테니 말이다.",
         "en": "[Vorseff]\nAfter the battle, it will likely split apart until even its consciousness is gone from exhaustion… but that level of consumption is acceptable. By then, Seyren, you will be in my grasp.",
-        "pt": "[Wolfchev]\nDepois da batalha, ele se fragmentará até perder as forças e não restar sequer consciência… mas esse nível de desgaste não tem problema. Afinal, nesse momento eu terei você em minhas mãos, Seyren.",
+        "pt": "[Wolfchev]\nDepois desta batalha, provavelmente ela ficará exausta demais até mesmo para ficar viva, mas posso viver sem isso. Porque terei você, Seyren.",
         "es": "[Wolfchev]\nTras el combate se fragmentará hasta quedarse sin fuerzas y sin rastro alguno de consciencia… pero ese nivel de consumo no importa. Para entonces, Seyren, tú estarás en mis manos."
     },
     "z1VeCA": {
         "ko": "보르세브: 전투 후에는 힘이 다해 의식조차 남지 않을 정도로 분열하겠지만… 그 정도 소모는 괜찮아. 그때는 세이렌 너를 내 손 안에 넣을 수 있을 테니 말이다.",
         "en": "Vorseff: After the battle, it will likely split apart until even its consciousness is gone from exhaustion… but that level of consumption is acceptable. By then, Seyren, you will be in my grasp.",
-        "pt": "Wolfchev: Depois da batalha, ele se fragmentará até perder as forças e não restar sequer consciência… mas esse nível de desgaste não tem problema. Afinal, nesse momento eu terei você em minhas mãos, Seyren.",
+        "pt": "Wolfchev: Depois desta batalha, provavelmente ela ficará exausta demais até mesmo para ficar viva, mas posso viver sem isso. Porque terei você, Seyren.",
         "es": "Wolfchev: Tras el combate se fragmentará hasta quedarse sin fuerzas y sin rastro alguno de consciencia… pero ese nivel de consumo no importa. Para entonces, Seyren, tú estarás en mis manos."
     },
     "0FVeCA": {
         "ko": "[셰실 디먼]\n……젠장! 저런 소리를 듣고 가만히 있을 수는 없지? 싸우자. 죽더라도 죽을 만큼 두들겨 주겠어!",
         "en": "[Cecil Damon]\n…Damn it! We can’t just stand here after hearing that, can we? Let’s fight. Even if we die, I’ll beat the hell out of him first!",
-        "pt": "[Cecil Damon]\n……Droga! Depois de ouvir algo assim, não dá para ficar parado, não é? Vamos lutar. Mesmo que eu morra, vou espancar até não restar nada!",
+        "pt": "[Cecil Damon]\nVamos, Seyren! Você vai ficar aí parado ouvindo? Vamos lutar. Se eu vou morrer, vou levar Wolfchev comigo para o inferno!",
         "es": "[Cecil Damon]\n……¡Maldita sea! Después de oír eso, ¿cómo vamos a quedarnos quietos? Peleemos. ¡Aunque muramos, lo moleré a golpes hasta dejarlo muerto!"
     },
     "0VVeCA": {
         "ko": "셰실: ……젠장! 저런 소리를 듣고 가만히 있을 수는 없지? 싸우자. 죽더라도 죽을 만큼 두들겨 주겠어!",
         "en": "Cecil: …Damn it! We can’t just stand here after hearing that, can we? Let’s fight. Even if we die, I’ll beat the hell out of him first!",
-        "pt": "Cecil: ……Droga! Depois de ouvir algo assim, não dá para ficar parado, não é? Vamos lutar. Mesmo que eu morra, vou espancar até não restar nada!",
+        "pt": "Cecil: Vamos, Seyren! Você vai ficar aí parado ouvindo? Vamos lutar. Se eu vou morrer, vou levar Wolfchev comigo para o inferno!",
         "es": "Cecil: ……¡Maldita sea! Después de oír eso, ¿cómo vamos a quedarnos quietos? Peleemos. ¡Aunque muramos, lo moleré a golpes hasta dejarlo muerto!"
     },
     "0lVeCA": {
         "ko": "[세이렌 윈저]\n애초에 가만히 있는다는 선택은 없었습니다. 모두를 구하기 위해 여기까지 왔지만… 구할 수 없다면 모두를 위해. 저는 설령 제 자신이 사념체라도, 여기서 끝까지 싸우겠습니다.",
         "en": "[Seyren Windsor]\nStanding still was never an option. We came this far to save everyone… but if we cannot save them, then for everyone’s sake, I will fight to the end here, even if I myself am a thought entity.",
-        "pt": "[Seyren Windsor]\nDesde o princípio, nunca existiu a opção de ficar parado. Chegamos até aqui para salvar todos… mas, se não podemos salvá-los, então será por todos eles. Mesmo que eu próprio seja uma entidade de pensamento, lutarei até o fim aqui.",
+        "pt": "[Seyren Windsor]\nEu não estava planejando ficar aqui ouvindo. Vim até aqui para salvar todo mundo. Não me importo se já estamos mortos. Vou lutar até o fim. Por nós.",
         "es": "[Seyren Windsor]\nNunca existió la opción de quedarnos quietos. Hemos llegado hasta aquí para salvar a todos… pero si no podemos salvarlos, entonces será por todos ellos. Aunque yo mismo sea un espíritu residual, lucharé aquí hasta el final."
     },
     "01VeCA": {
         "ko": "세이렌: 애초에 가만히 있는다는 선택은 없었습니다. 모두를 구하기 위해 여기까지 왔지만… 구할 수 없다면 모두를 위해. 저는 설령 제 자신이 사념체라도, 여기서 끝까지 싸우겠습니다.",
         "en": "Seyren: Standing still was never an option. We came this far to save everyone… but if we cannot save them, then for everyone’s sake, I will fight to the end here, even if I myself am a thought entity.",
-        "pt": "Seyren: Desde o princípio, nunca existiu a opção de ficar parado. Chegamos até aqui para salvar todos… mas, se não podemos salvá-los, então será por todos eles. Mesmo que eu próprio seja uma entidade de pensamento, lutarei até o fim aqui.",
+        "pt": "Seyren: Eu não estava planejando ficar aqui ouvindo. Vim até aqui para salvar todo mundo. Não me importo se já estamos mortos. Vou lutar até o fim. Por nós.",
         "es": "Seyren: Nunca existió la opción de quedarnos quietos. Hemos llegado hasta aquí para salvar a todos… pero si no podemos salvarlos, entonces será por todos ellos. Aunque yo mismo sea un espíritu residual, lucharé aquí hasta el final."
     },
     "1FVeCA": {
         "ko": "[하워드 알트아이젠]\n그렇다면 나도 한 몫 해야겠지! 아무도 알아주지 않더라도 괜찮아! 여기에 하워드 알트아이젠이 있었다!!",
         "en": "[Howard Alt-Eisen]\nThen I’ll do my part too! It’s fine even if no one remembers! Howard Alt-Eisen was here!!",
-        "pt": "[Howard Alt-Eisen]\nNesse caso, eu também tenho que fazer a minha parte! Tudo bem se ninguém reconhecer isso! O importante é que Howard Alt-Eisen esteve aqui!!",
+        "pt": "[Howard Alt-Eisen]\nEstou dentro! Não me importo se formos esquecidos. Eu, Howard Alt-Eisen, ainda estou aqui!!",
         "es": "[Howard Alt-Iron]\n¡Entonces a mí también me toca poner de mi parte! ¡No importa aunque nadie lo reconozca! ¡Howard Alt-Iron estuvo aquí!!"
     },
     "1VVeCA": {
         "ko": "하워드: 그렇다면 나도 한 몫 해야겠지! 아무도 알아주지 않더라도 괜찮아! 여기에 하워드 알트아이젠이 있었다!!",
         "en": "Howard: Then I’ll do my part too! It’s fine even if no one remembers! Howard Alt-Eisen was here!!",
-        "pt": "Howard: Nesse caso, eu também tenho que fazer a minha parte! Tudo bem se ninguém reconhecer isso! O importante é que Howard Alt-Eisen esteve aqui!!",
+        "pt": "Howard: Estou dentro! Não me importo se formos esquecidos. Eu, Howard Alt-Eisen, ainda estou aqui!!",
         "es": "Howard: ¡Entonces a mí también me toca poner de mi parte! ¡No importa aunque nadie lo reconozca! ¡Howard Alt-Iron estuvo aquí!!"
     },
     "1lVeCA": {
         "ko": "[하워드 알트아이젠]\n셰실 누님은 알아주시겠지, 그럼 괜찮아.",
         "en": "[Howard Alt-Eisen]\nAs long as Cecil remembers, that’s enough.",
-        "pt": "[Howard Alt-Eisen]\nA mana Cecil vai reconhecer, não vai? Então está tudo bem.",
+        "pt": "[Howard Alt-Eisen]\nEnquanto Cecil se lembrar de mim, vou ficar bem.",
         "es": "[Howard Alt-Iron]\nSi la hermana Cecil lo reconoce, entonces me basta."
     },
     "11VeCA": {
         "ko": "하워드: 셰실 누님은 알아주시겠지, 그럼 괜찮아.",
         "en": "Howard: As long as Cecil remembers, that’s enough.",
-        "pt": "Howard: A mana Cecil vai reconhecer, não vai? Então está tudo bem.",
+        "pt": "Howard: Enquanto Cecil se lembrar de mim, vou ficar bem.",
         "es": "Howard: Si la hermana Cecil lo reconoce, entonces me basta."
     },
     "2FVeCA": {
         "ko": "[세이렌 윈저]\n{0} 님, 저희는 모두 각오를 다졌습니다.\n이곳에서 마지막까지 싸울 것입니다.",
         "en": "[Seyren Windsor]\n{0}, we have all resolved ourselves.\nWe will fight here until the very end.",
-        "pt": "[Seyren Windsor]\nSr. {0}, todos nós já tomamos nossa decisão.\nVamos lutar até o fim aqui.",
+        "pt": "[Seyren Windsor]\n{0}, nós já decidimos.\nVamos lutar aqui até o fim.",
         "es": "[Seyren Windsor]\n{0}, todos nosotros ya hemos tomado nuestra decisión.\nLucharemos aquí hasta el final."
     },
     "2VVeCA": {
         "ko": "세이렌: 저희는 모두 각오를 다졌습니다. 이곳에서 마지막까지 싸울 것입니다.",
         "en": "Seyren: We have all resolved ourselves. We will fight here until the very end.",
-        "pt": "Seyren: Todos nós já tomamos nossa decisão. Vamos lutar até o fim aqui.",
+        "pt": "Seyren: Nós já decidimos. Vamos lutar aqui até o fim.",
         "es": "Seyren: Todos nosotros ya hemos tomado nuestra decisión. Lucharemos aquí hasta el final."
     },
     "2lVeCA": {
         "ko": "[세이렌 윈저]\n함께 해 주시겠습니까?",
         "en": "[Seyren Windsor]\nWill you stand with us?",
-        "pt": "[Seyren Windsor]\nLutará conosco?",
+        "pt": "[Seyren Windsor]\nVocê se juntaria a nós?",
         "es": "[Seyren Windsor]\n¿Lucharéis a nuestro lado?"
     },
     "21VeCA": {
         "ko": "세이렌: 함께 해 주시겠습니까?",
         "en": "Seyren: Will you stand with us?",
-        "pt": "Seyren: Lutará conosco?",
+        "pt": "Seyren: Você se juntaria a nós?",
         "es": "Seyren: ¿Lucharéis a nuestro lado?"
     },
     "3FVeCA": {
         "ko": "당연하다.",
         "en": "Of course.",
-        "pt": "É claro.",
+        "pt": "Claro que sim.",
         "es": "Por supuesto."
     },
     "3VVeCA": {
         "ko": "함께 싸우겠다.",
         "en": "I will fight with you.",
-        "pt": "Lutarei com vocês.",
+        "pt": "É óbvio.",
         "es": "Lucharé con vosotros."
     },
     "3lVeCA": {
         "ko": "[보르세브]\n데이터는 많을수록 좋지. 그럼 온 힘을 다해 자기 몫을 하도록 해라, 미래를 열자꾸나, 내 가련하고 사랑스러운 실험체들아!",
         "en": "[Vorseff]\nThe more data, the better. Then give it your all and fulfill your role. Let us open the future, my pitiful and beloved experimental subjects!",
-        "pt": "[Wolfchev]\nQuanto mais dados, melhor. Então deem tudo de si e cumpram o papel de vocês, abram o futuro, minhas pobres e adoráveis cobaias!",
+        "pt": "[Wolfchev]\nQuanto mais dados, melhor! Façam a sua parte, minhas adoráveis e lamentáveis cobaias. Por um futuro melhor!",
         "es": "[Wolfchev]\nCuantos más datos, mejor. Entonces cumplid vuestro papel con todas vuestras fuerzas y abrid el futuro, mis pobres y adorables sujetos de prueba."
     },
     "31VeCA": {
         "ko": "보르세브: 데이터는 많을수록 좋지. 그럼 온 힘을 다해 자기 몫을 하도록 해라, 미래를 열자꾸나, 내 가련하고 사랑스러운 실험체들아!",
         "en": "Vorseff: The more data, the better. Then give it your all and fulfill your role. Let us open the future, my pitiful and beloved experimental subjects!",
-        "pt": "Wolfchev: Quanto mais dados, melhor. Então deem tudo de si e cumpram o papel de vocês, abram o futuro, minhas pobres e adoráveis cobaias!",
+        "pt": "Wolfchev: Quanto mais dados, melhor! Façam a sua parte, minhas adoráveis e lamentáveis cobaias. Por um futuro melhor!",
         "es": "Wolfchev: Cuantos más datos, mejor. Entonces cumplid vuestro papel con todas vuestras fuerzas y abrid el futuro, mis pobres y adorables sujetos de prueba."
     },
     "4FVeCA": {
         "ko": "하워드: 여긴 엄청 춥구만. 옷 좀 껴입고 다닐걸.",
         "en": "Howard: It’s freezing here. I should’ve brought more clothes.",
-        "pt": "Howard: Está frio demais aqui. Eu devia ter colocado mais roupa.",
+        "pt": "Howard: Esse lugar está congelando. Queria ter mais roupas.",
         "es": "Howard: Aquí hace un frío terrible. Debería haberme abrigado más."
     },
     "4VVeCA": {
         "ko": "셰실: 우리 바보가 부들부들 떨고 있는데. 설마 무서워서 그런 건 아니겠지?",
         "en": "Cecil: Our fool is shivering. Don’t tell me it’s from fear?",
-        "pt": "Cecil: Nosso idiota está tremendo todo. Não vai me dizer que é de medo, vai?",
+        "pt": "Cecil: Meu bonequinho está tremendo. Será que é medo?",
         "es": "Cecil: Nuestro idiota está temblando. No será porque tenga miedo, ¿verdad?"
     },
     "4lVeCA": {
         "ko": "마가레타 소린의 시신이다.",
         "en": "The corpse of Margaretha Sorin.",
-        "pt": "É o corpo de Margaretha Sorin.",
+        "pt": "Este é o corpo de Margaretha Sorin.",
         "es": "Es el cadáver de Sra. Margaret Sorin."
     },
     "41VeCA": {
@@ -602,7 +602,7 @@
     "5FVeCA": {
         "ko": "에레메스 가일의 시신이다.",
         "en": "The corpse of Eremes Guile.",
-        "pt": "É o corpo de Eremes Guile.",
+        "pt": "Este é o corpo de Eremes Guile.",
         "es": "Es el cadáver de Eremes Guile."
     },
     "5VVeCA": {
@@ -614,13 +614,13 @@
     "5lVeCA": {
         "ko": "카트린느 케이론의 시신이다.",
         "en": "The corpse of Kathryne Keyron.",
-        "pt": "É o corpo de Kathryne Keyron.",
+        "pt": "Este é o corpo de Kathryne Keyron.",
         "es": "Es el cadáver de Kathryne Keyron."
     },
     "51VeCA": {
         "ko": "세이렌 윈저의 시신이다.",
         "en": "The corpse of Seyren Windsor.",
-        "pt": "É o corpo de Seyren Windsor.",
+        "pt": "Este é o corpo de Seyren Windsor.",
         "es": "Es el cadáver de Seyren Windsor."
     },
     "6FVeCA": {
@@ -638,19 +638,19 @@
     "6lVeCA": {
         "ko": "[세이렌 윈저]\n이제 곧 우리도 저렇게…… 구해주지 못해서, 미안하다……",
         "en": "[Seyren Windsor]\nSoon we’ll end up like that too… I’m sorry… that I couldn’t save you…",
-        "pt": "[Seyren Windsor]\nEm breve nós também ficaremos assim…… desculpem por não ter conseguido salvá-los……",
+        "pt": "[Seyren Windsor]\nNós vamos te seguir logo, logo... Perdão por não conseguir te salvar...",
         "es": "[Seyren Windsor]\nPronto nosotros también acabaremos así…… Lo siento por no haber podido salvaros……"
     },
     "61VeCA": {
         "ko": "[셰실 디먼]\n혼자 죽을 줄 알았는데. 나쁘지만은 않은 마지막이군……",
         "en": "[Cecil Damon]\nI thought I would die alone. This isn’t such a bad ending…",
-        "pt": "[Cecil Damon]\nAchei que morreria sozinha. Não é um fim tão ruim assim……",
+        "pt": "[Cecil Damon]\nPelo menos, não morrerei só...",
         "es": "[Cecil Damon]\nPensé que moriría sola. No es un final tan malo……"
     },
     "7FVeCA": {
         "ko": "[하워드 알트아이젠]\n……조금 처지는데. 그래도 모든 기억이 사라지기 전까지는 웃어보일래…",
         "en": "[Howard Alt-Eisen]\n…This is depressing. Still, until all my memories fade away, I’ll try to smile…",
-        "pt": "[Howard Alt-Eisen]\n……Isso dá uma derrubada. Mesmo assim, até que todas as memórias desapareçam, vou tentar sorrir…",
+        "pt": "[Howard Alt-Eisen]\nEu me sinto... fraco... eu queria sorrir para ela, mas não consigo...",
         "es": "[Howard Alt-Iron]\n……Es un poco desalentador. Aun así, sonreiré hasta que se borren todos mis recuerdos…"
     },
     "7VVeCA": {
@@ -662,37 +662,37 @@
     "7lVeCA": {
         "ko": "[보르세브]\n제길… 제길! 이렇게 터무니없이 나가 떨어질 줄이야… 실패작은 실패작인가.\n됐어. 어쨌든 실험 결과는 나왔다. 저것은 어차피 버리는 패였어.",
         "en": "[Vorseff]\nDamn… damn it! To think it would fall apart so absurdly… a failure is a failure after all.\nWhatever. The experiment results are in anyway. That one was disposable from the start.",
-        "pt": "[Wolfchev]\nDroga… droga! Quem diria que seria repelido de forma tão absurda assim… um fracasso continua sendo um fracasso.\nTanto faz. De qualquer forma, os resultados do experimento já apareceram. Aquilo era descartável desde o começo.",
+        "pt": "[Wolfchev]\nDroga! Não acredito na rapidez com que morreu. Uma falha é apenas uma falha, não é?\nBem, pelo menos eu ainda tenho os resultados do teste, e eu iria me livrar deles de qualquer maneira.",
         "es": "[Wolfchev]\nMaldita sea… ¡maldita sea! Jamás pensé que saldría despedido de forma tan absurda… Un fracaso sigue siendo un fracaso.\nDa igual. De todos modos, ya tengo los resultados del experimento. Ese ya estaba destinado a ser descartado."
     },
     "71VeCA": {
         "ko": "보르세브: 제길… 제길! 이렇게 터무니없이 나가 떨어질 줄이야… 실패작은 실패작인가. 됐어. 어쨌든 실험 결과는 나왔다. 저것은 어차피 버리는 패였어.",
         "en": "Vorseff: Damn… damn it! To think it would fall apart so absurdly… a failure is a failure after all. Whatever. The experiment results are in anyway. That one was disposable from the start.",
-        "pt": "Wolfchev: Droga… droga! Quem diria que seria repelido de forma tão absurda assim… um fracasso continua sendo um fracasso. Tanto faz. De qualquer forma, os resultados do experimento já apareceram. Aquilo era descartável desde o começo.",
+        "pt": "Wolfchev: Droga! Não acredito na rapidez com que morreu. Uma falha é apenas uma falha, não é? Bem, pelo menos eu ainda tenho os resultados do teste, e eu iria me livrar deles de qualquer maneira.",
         "es": "Wolfchev: Maldita sea… ¡maldita sea! Jamás pensé que saldría despedido de forma tan absurda… Un fracaso sigue siendo un fracaso. Da igual. De todos modos, ya tengo los resultados del experimento. Ese ya estaba destinado a ser descartado."
     },
     "8FVeCA": {
         "ko": "[하워드 알트아이젠]\n저 자식이? 이대로 도망칠 생각 마라!",
         "en": "[Howard Alt-Eisen]\nThat bastard? Don’t think you’re getting away!",
-        "pt": "[Howard Alt-Eisen]\nAquele desgraçado? Nem pense em fugir assim!",
+        "pt": "[Howard Alt-Eisen]\nSeu idiota, nem pense em fugir!",
         "es": "[Howard Alt-Iron]\n¿Ese malnacido? ¡Ni se te ocurra huir así sin más!"
     },
     "8VVeCA": {
         "ko": "하워드: 저 자식이? 이대로 도망칠 생각 마라!",
         "en": "Howard: That bastard? Don’t think you’re getting away!",
-        "pt": "Howard: Aquele desgraçado? Nem pense em fugir assim!",
+        "pt": "Howard: Seu idiota, nem pense em fugir!",
         "es": "Howard: ¿Ese malnacido? ¡Ni se te ocurra huir así sin más!"
     },
     "8lVeCA": {
         "ko": "[셰실 디먼]\n놓치면 안돼! 저 자가 이 실험을 계속하도록 둬서는 안돼!",
         "en": "[Cecil Damon]\nDon’t let him escape! We can’t allow him to continue this experiment!",
-        "pt": "[Cecil Damon]\nNão podemos deixá-lo escapar! Não podemos permitir que esse homem continue esse experimento!",
+        "pt": "[Cecil Damon]\nNão o deixe escapar! Não podemos deixá-lo continuar com este experimento!",
         "es": "[Cecil Damon]\n¡No podemos dejar que escape! ¡No podemos permitir que siga con este experimento!"
     },
     "81VeCA": {
         "ko": "셰실: 놓치면 안돼! 저 자가 이 실험을 계속하도록 둬서는 안돼!",
         "en": "Cecil: Don’t let him escape! We can’t allow him to continue this experiment!",
-        "pt": "Cecil: Não podemos deixá-lo escapar! Não podemos permitir que esse homem continue esse experimento!",
+        "pt": "Cecil: Não o deixe escapar! Não podemos deixá-lo continuar com este experimento!",
         "es": "Cecil: ¡No podemos dejar que escape! ¡No podemos permitir que siga con este experimento!"
     },
     "9FVeCA": {
@@ -704,7 +704,7 @@
     "9VVeCA": {
         "ko": "케이론: ……",
         "en": "Keiron: ……",
-        "pt": "Keiron: ……",
+        "pt": "Kathryne: ...",
         "es": "Keiron: ……"
     },
     "9lVeCA": {
@@ -722,25 +722,25 @@
     "+FVeCA": {
         "ko": "[보르세브]\n크… 윽, 어떻게… 사념체들은… 이성을 잃었을… 텐데…",
         "en": "[Vorseff]\nKgh… how…? The thought entities… should have… lost their reason…",
-        "pt": "[Wolfchev]\nKh… ngh, como… as entidades de pensamento… deveriam ter… perdido a razão…",
+        "pt": "[Wolfchev]\nUgh...! C-como...? Você deveria ser apenas um fantasma irracional...",
         "es": "[Wolfchev]\nKh… ugh, cómo es posible… los espíritus residuales… deberían haber… perdido la razón…"
     },
     "+VVeCA": {
         "ko": "보르세브: 크… 윽, 어떻게… 사념체들은… 이성을 잃었을… 텐데…",
         "en": "Vorseff: Kgh… how…? The thought entities… should have… lost their reason…",
-        "pt": "Wolfchev: Kh… ngh, como… as entidades de pensamento… deveriam ter… perdido a razão…",
+        "pt": "Wolfchev: Ugh...! C-como...? Você deveria ser apenas um fantasma irracional...",
         "es": "Wolfchev: Kh… ugh, cómo es posible… los espíritus residuales… deberían haber… perdido la razón…"
     },
     "+lVeCA": {
         "ko": "[하워드 알트아이젠]\n막아! 나비의 날개다!",
         "en": "[Howard Alt-Eisen]\nStop him! It’s a Butterfly Wing!",
-        "pt": "[Howard Alt-Eisen]\nImpeçam-no! É Asa de Borboleta!",
+        "pt": "[Howard Alt-Eisen]\nAsas de Borboleta? Detenha-o!",
         "es": "[Howard Alt-Iron]\n¡Detenedlo! ¡Es un Ala de Mariposa!"
     },
     "+1VeCA": {
         "ko": "하워드: 막아! 나비의 날개다!",
         "en": "Howard: Stop him! It’s a Butterfly Wing!",
-        "pt": "Howard: Impeçam-no! É Asa de Borboleta!",
+        "pt": "Howard: Asas de Borboleta? Detenha-o!",
         "es": "Howard: ¡Detenedlo! ¡Es un Ala de Mariposa!"
     },
     "/FVeCA": {
@@ -758,25 +758,25 @@
     "/lVeCA": {
         "ko": "[세이렌 윈저]\n소린… 케이론…\n에레메스… 님.",
         "en": "[Seyren Windsor]\nSorin… Keiron…\nEremes… sir.",
-        "pt": "[Seyren Windsor]\nSorin… Keiron…\nSr. Eremes…",
+        "pt": "[Seyren Windsor]\nMargaretha... Kathryne...\nEremes...",
         "es": "[Seyren Windsor]\nSorin… Keiron…\nSeñor… Eremes."
     },
     "/1VeCA": {
         "ko": "세이렌: 소린… 케이론… 에레메스… 님.",
         "en": "Seyren: Sorin… Keiron… Eremes… sir.",
-        "pt": "Seyren: Sorin… Keiron… Sr. Eremes…",
+        "pt": "Seyren: Margaretha... Kathryne... Eremes...",
         "es": "Seyren: Sorin… Keiron… Señor… Eremes."
     },
     "AFZeCA": {
         "ko": "[세이렌 윈저]\n저를… 알아보십니까? 함께… 싸워 주신 겁니까?",
         "en": "[Seyren Windsor]\nDo you… recognize me? Did you… fight with us?",
-        "pt": "[Seyren Windsor]\nVocês… me reconhecem? Lutaram… ao meu lado?",
+        "pt": "[Seyren Windsor]\nVocê... me reconhece? Você... lutou ao nosso lado?",
         "es": "[Seyren Windsor]\n¿Me… reconocéis? ¿Habéis… luchado a nuestro lado?"
     },
     "AVZeCA": {
         "ko": "세이렌: 저를… 알아보십니까? 함께… 싸워 주신 겁니까?",
         "en": "Seyren: Do you… recognize me? Did you… fight with us?",
-        "pt": "Seyren: Vocês… me reconhecem? Lutaram… ao meu lado?",
+        "pt": "Seyren: Você... me reconhece? Você... lutou ao nosso lado?",
         "es": "Seyren: ¿Me… reconocéis? ¿Habéis… luchado a nuestro lado?"
     },
     "AlZeCA": {
@@ -794,211 +794,211 @@
     "BFZeCA": {
         "ko": "[하워드 알트아이젠]\n음, 그럴 거라고 생각했지만 출구는 없군. 전부 봉쇄됐어.\n그리고… 이제 슬슬 한계인 것 같다, 우리도.",
         "en": "[Howard Alt-Eisen]\nHmm, I expected as much, but there’s no exit. Everything’s sealed.\nAnd… we’re reaching our limit too.",
-        "pt": "[Howard Alt-Eisen]\nHum, como eu imaginava, não há saída. Está tudo bloqueado.\nE… parece que nós também estamos chegando ao nosso limite.",
+        "pt": "[Howard Alt-Eisen]\nMm, não há saída. Este lugar está completamente fechado.\nEu acho... que cheguei ao meu limite.",
         "es": "[Howard Alt-Iron]\nMmm, ya me lo imaginaba, pero no hay salida. Todo está sellado.\nY además… me parece que nosotros también estamos ya llegando al límite."
     },
     "BVZeCA": {
         "ko": "하워드: 음, 그럴 거라고 생각했지만 출구는 없군. 전부 봉쇄됐어. 그리고… 이제 슬슬 한계인 것 같다, 우리도.",
         "en": "Howard: Hmm, I expected as much, but there’s no exit. Everything’s sealed. And… we’re reaching our limit too.",
-        "pt": "Howard: Hum, como eu imaginava, não há saída. Está tudo bloqueado. E… parece que nós também estamos chegando ao nosso limite.",
+        "pt": "Howard: Mm, não há saída. Este lugar está completamente fechado. Eu acho... que cheguei ao meu limite.",
         "es": "Howard: Mmm, ya me lo imaginaba, pero no hay salida. Todo está sellado. Y además… me parece que nosotros también estamos ya llegando al límite."
     },
     "BlZeCA": {
         "ko": "[세이렌 윈저]\n예. 안타깝습니다. 우리는… 이렇게 사라지고 말겠군요.\n모두를 구하지 못하고… 진실을 바깥에 알리지도 못한 채.",
         "en": "[Seyren Windsor]\nYes. It is unfortunate. We will… disappear like this.\nWithout saving everyone… and without revealing the truth to the outside.",
-        "pt": "[Seyren Windsor]\nSim. É lamentável. Nós… vamos desaparecer assim.\nSem conseguir salvar todos… e sem sequer levar a verdade para fora.",
+        "pt": "[Seyren Windsor]\nNão... É uma pena que vamos sumir assim.\nEu não poderia salvar nenhum de vocês... ou expor a verdade para todos lá fora.",
         "es": "[Seyren Windsor]\nSí. Qué lamentable. Parece que… desapareceremos aquí.\nSin haber podido salvar a todos… ni tampoco revelar al exterior la verdad."
     },
     "B1ZeCA": {
         "ko": "세이렌: 예. 안타깝습니다. 우리는… 이렇게 사라지고 말겠군요. 모두를 구하지 못하고… 진실을 바깥에 알리지도 못한 채.",
         "en": "Seyren: Yes. It is unfortunate. We will… disappear like this. Without saving everyone… and without revealing the truth to the outside.",
-        "pt": "Seyren: Sim. É lamentável. Nós… vamos desaparecer assim. Sem conseguir salvar todos… e sem sequer levar a verdade para fora.",
+        "pt": "Seyren: Não... É uma pena que vamos sumir assim. Eu não poderia salvar nenhum de vocês... ou expor a verdade para todos lá fora.",
         "es": "Seyren: Sí. Qué lamentable. Parece que… desapareceremos aquí. Sin haber podido salvar a todos… ni tampoco revelar al exterior la verdad."
     },
     "CFZeCA": {
         "ko": "그렇지 않다.",
         "en": "That’s not true.",
-        "pt": "Não é verdade.",
+        "pt": "Isso não é verdade.",
         "es": "No es así."
     },
     "CVZeCA": {
         "ko": "자신을 가리킨다.",
         "en": "Points to oneself.",
-        "pt": "Aponta para si mesmo.",
+        "pt": "Você ainda tem a mim.",
         "es": "Se señala a sí mismo."
     },
     "ClZeCA": {
         "ko": "시에라: 말하지 않는 편이 좋습니다, 참가자님.",
         "en": "Sierra: It would be better if you did not say anything, Participant.",
-        "pt": "Sierra: É melhor não dizer nada, participante.",
+        "pt": "Sierra: Sugiro que você não conte a eles, viajante.",
         "es": "Sierra: Será mejor que no se lo digáis, participante."
     },
     "C1ZeCA": {
         "ko": "[하워드 알트아이젠]\n{0}? 무슨 의미야?",
         "en": "[Howard Alt-Eisen]\n{0}? What do you mean?",
-        "pt": "[Howard Alt-Eisen]\n{0}? O que isso quer dizer?",
+        "pt": "[Howard Alt-Eisen]\n{0}? O que você quer dizer?",
         "es": "[Howard Alt-Iron]\n¿{0}? ¿Qué quieres decir?"
     },
     "DFZeCA": {
         "ko": "하워드: 무슨 의미야?",
         "en": "Howard: What do you mean?",
-        "pt": "Howard: O que isso quer dizer?",
+        "pt": "Howard: O que você quer dizer?",
         "es": "Howard: ¿Qué quieres decir?"
     },
     "DVZeCA": {
         "ko": "자신이 여기에 있는 이유를 밝힌다.",
         "en": "Explain why you are here.",
-        "pt": "Revela o motivo de estar aqui.",
+        "pt": "Estou aqui porque...",
         "es": "Revela la razón por la que está aquí."
     },
     "DlZeCA": {
         "ko": "시에라: 지금까지 쌓은 데이터가 전부 오염될 겁니다.",
         "en": "Sierra: All the data collected so far will be contaminated.",
-        "pt": "Sierra: Todos os dados acumulados até agora serão contaminados.",
+        "pt": "Sierra: Você vai contaminar todos os dados que juntamos até agora.",
         "es": "Sierra: Todos los datos acumulados hasta ahora quedarán contaminados."
     },
     "D1ZeCA": {
         "ko": "[세이렌 윈저]\n……믿기 어려운 이야기군요.\n하지만 어느 정도 짐작이 가기도 했습니다.",
         "en": "[Seyren Windsor]\n…That is hard to believe.\nBut I did have some suspicions.",
-        "pt": "[Seyren Windsor]\n……É difícil de acreditar.\nMas, de certa forma, eu já desconfiava.",
+        "pt": "[Seyren Windsor]\nIsso é... difícil de acreditar.\nMas, de certa forma, eu acho que sabia.",
         "es": "[Seyren Windsor]\n……Es difícil de creer.\nPero en cierto modo, ya me lo imaginaba."
     },
     "EFZeCA": {
         "ko": "세이렌: ……믿기 어려운 이야기군요. 하지만 어느 정도 짐작이 가기도 했습니다.",
         "en": "Seyren: …That is hard to believe. But I did have some suspicions.",
-        "pt": "Seyren: ……É difícil de acreditar. Mas, de certa forma, eu já desconfiava.",
+        "pt": "Seyren: Isso é... difícil de acreditar. Mas, de certa forma, eu acho que sabia.",
         "es": "Seyren: ……Es difícil de creer. Pero en cierto modo, ya me lo imaginaba."
     },
     "EVZeCA": {
         "ko": "[하워드 알트아이젠]\n전투하는 모습을 보고 생각했는데, 코어 이식 안 받았지? 다들 혼란스럽게 할까봐 말은 안 했지만, 혹시 스파이 같은 건가 조금 의심했다고.",
         "en": "[Howard Alt-Eisen]\nWatching you fight made me think—you never received a core implant, right? I didn’t say anything because it might confuse everyone, but I did wonder if you might be some kind of spy.",
-        "pt": "[Howard Alt-Eisen]\nEu pensei nisso vendo você lutar, sabe? Você não recebeu uma implantação de núcleo, recebeu? Não falei nada para não confundir mais todo mundo, mas suspeitei um pouco que talvez fosse algum tipo de espião.",
+        "pt": "[Howard Alt-Eisen]\nEu sabia só pela sua maneira de lutar. Você não tem o Núcleo. Não quis falar nada para evitar confusões, mas pensei que você poderia ser algum tipo de espião.",
         "es": "[Howard Alt-Iron]\nLo pensé al verte luchar: no te implantaron el núcleo, ¿verdad? No dije nada para no confundir a todos, pero llegué a sospechar un poco que podías ser una especie de espía."
     },
     "ElZeCA": {
         "ko": "하워드: 전투하는 모습을 보고 생각했는데, 코어 이식 안 받았지? 다들 혼란스럽게 할까봐 말은 안 했지만, 혹시 스파이 같은 건가 조금 의심했다고.",
         "en": "Howard: Watching you fight made me think—you never received a core implant, right? I didn’t say anything because it might confuse everyone, but I did wonder if you might be some kind of spy.",
-        "pt": "Howard: Eu pensei nisso vendo você lutar, sabe? Você não recebeu uma implantação de núcleo, recebeu? Não falei nada para não confundir mais todo mundo, mas suspeitei um pouco que talvez fosse algum tipo de espião.",
+        "pt": "Howard: Eu sabia só pela sua maneira de lutar. Você não tem o Núcleo. Não quis falar nada para evitar confusões, mas pensei que você poderia ser algum tipo de espião.",
         "es": "Howard: Lo pensé al verte luchar: no te implantaron el núcleo, ¿verdad? No dije nada para no confundir a todos, pero llegué a sospechar un poco que podías ser una especie de espía."
     },
     "E1ZeCA": {
         "ko": "[셰실 디먼]\n코어를 이식받은 우리보다 더 많이 분노하며 싸웠으면서, 가장 멀쩡했지. 그것도 당신이 말한 그 레코드인가 때문인가?",
         "en": "[Cecil Damon]\nYou fought with more anger than those of us implanted with cores, yet you were the most stable. Is that because of that record you mentioned?",
-        "pt": "[Cecil Damon]\nVocê lutou com mais fúria do que nós, que recebemos o núcleo, e ainda assim foi quem ficou mais inteiro. Isso também foi por causa daquele registro de que falou?",
+        "pt": "[Cecil Damon]\nIsso explica você não se afetar pelas batalhas que travamos. É por causa do registro, certo?",
         "es": "[Cecil Damon]\nLuchaste con más rabia que nosotros, a quienes sí nos implantaron el núcleo, y aun así eras quien estaba en mejor estado. ¿También era por ese registro del que hablabas?"
     },
     "FFZeCA": {
         "ko": "셰실: 코어를 이식받은 우리보다 더 많이 분노하며 싸웠으면서, 가장 멀쩡했지. 그것도 당신이 말한 그 레코드인가 때문인가?",
         "en": "Cecil: You fought with more anger than those of us implanted with cores, yet you were the most stable. Is that because of that record you mentioned?",
-        "pt": "Cecil: Você lutou com mais fúria do que nós, que recebemos o núcleo, e ainda assim foi quem ficou mais inteiro. Isso também foi por causa daquele registro de que falou?",
+        "pt": "Cecil: Isso explica você não se afetar pelas batalhas que travamos. É por causa do registro, certo?",
         "es": "Cecil: Luchaste con más rabia que nosotros, a quienes sí nos implantaron el núcleo, y aun así eras quien estaba en mejor estado. ¿También era por ese registro del que hablabas?"
     },
     "FVZeCA": {
         "ko": "[세이렌 윈저]\n이따금 도저히 나타날 수 없는 곳이나 잠깐 시선을 뗀 곳에서 모습을 드러내기도 하셨지요. 하하… 믿을 수밖에 없겠습니다만, 사실 믿고 싶지 않군요.",
         "en": "[Seyren Windsor]\nAt times you appeared in places where it should have been impossible, or where we had only briefly looked away. Haha… I suppose I must believe it, though I wish I didn’t.",
-        "pt": "[Seyren Windsor]\nÀs vezes, você aparecia em lugares onde jamais poderia estar ou surgia logo depois que desviávamos os olhos por um instante. Haha… acho que não nos resta escolha senão acreditar, mas, para ser sincero, eu não queria acreditar.",
+        "pt": "[Seyren Windsor]\nAlgumas vezes você aparecia do nada. Hah hah. Eu sei que deveria acreditar em você, mas não quero.",
         "es": "[Seyren Windsor]\nA veces aparecíais en lugares donde era imposible que estuvierais, o cuando apartábamos la vista solo un instante. Ja, ja… no me queda más remedio que creerlo, aunque la verdad es que no quiero hacerlo."
     },
     "FlZeCA": {
         "ko": "세이렌: 이따금 도저히 나타날 수 없는 곳이나 잠깐 시선을 뗀 곳에서 모습을 드러내기도 하셨지요. 하하… 믿을 수밖에 없겠습니다만, 사실 믿고 싶지 않군요.",
         "en": "Seyren: At times you appeared in places where it should have been impossible, or where we had only briefly looked away. Haha… I suppose I must believe it, though I wish I didn’t.",
-        "pt": "Seyren: Às vezes, você aparecia em lugares onde jamais poderia estar ou surgia logo depois que desviávamos os olhos por um instante. Haha… acho que não nos resta escolha senão acreditar, mas, para ser sincero, eu não queria acreditar.",
+        "pt": "Seyren: Algumas vezes você aparecia do nada. Hah hah. Eu sei que deveria acreditar em você, mas não quero.",
         "es": "Seyren: A veces aparecíais en lugares donde era imposible que estuvierais, o cuando apartábamos la vista solo un instante. Ja, ja… no me queda más remedio que creerlo, aunque la verdad es que no quiero hacerlo."
     },
     "F1ZeCA": {
         "ko": "[세이렌 윈저]\n…이해해 주십시오. 자신이 그저 과거의 기록일 뿐이라는 사실을 받아들일 기회가 자주 있지는 않잖습니까.",
         "en": "[Seyren Windsor]\n…Please understand. One rarely gets the chance to accept that they are merely a record of the past.",
-        "pt": "[Seyren Windsor]\n…Por favor, compreenda. Não é sempre que alguém tem a chance de aceitar que não passa de um registro do passado.",
+        "pt": "[Seyren Windsor]\nNem todo mundo gostaria de saber que são apenas um registro do passado.",
         "es": "[Seyren Windsor]\n…Comprendedlo. No es algo que ocurra a menudo, eso de tener que aceptar que uno no es más que un registro del pasado."
     },
     "GFZeCA": {
         "ko": "세이렌: …이해해 주십시오. 자신이 그저 과거의 기록일 뿐이라는 사실을 받아들일 기회가 자주 있지는 않잖습니까.",
         "en": "Seyren: …Please understand. One rarely gets the chance to accept that they are merely a record of the past.",
-        "pt": "Seyren: …Por favor, compreenda. Não é sempre que alguém tem a chance de aceitar que não passa de um registro do passado.",
+        "pt": "Seyren: Nem todo mundo gostaria de saber que são apenas um registro do passado.",
         "es": "Seyren: …Comprendedlo. No es algo que ocurra a menudo, eso de tener que aceptar que uno no es más que un registro del pasado."
     },
     "GVZeCA": {
         "ko": "시에라: 그들이 받아들이지 못하면 이번 해석은 전부 폐기해야 합니다.",
         "en": "Sierra: If they fail to accept it, this entire interpretation must be discarded.",
-        "pt": "Sierra: Se eles não aceitarem, toda esta interpretação terá de ser descartada.",
+        "pt": "Sierra: Se eles não aceitarem a verdade, os dados que você traduziu terão que ser destruídos.",
         "es": "Sierra: Si no lo aceptan, tendremos que descartar por completo esta interpretación."
     },
     "GlZeCA": {
         "ko": "그래도 진실은 진실이다.",
         "en": "Even so, the truth is the truth.",
-        "pt": "Ainda assim, a verdade é a verdade.",
+        "pt": "Essa é a verdade.",
         "es": "Aun así, la verdad sigue siendo la verdad."
     },
     "G1ZeCA": {
         "ko": "사실은 거짓말이었다고 둘러댄다.",
         "en": "Pretend it was all a lie.",
-        "pt": "Diz que tudo aquilo era mentira.",
+        "pt": "Eu só estava zoando.",
         "es": "Finge que todo era mentira."
     },
     "HFZeCA": {
         "ko": "[세이렌 윈저]\n믿기지 않지만… 간절히 믿고 싶습니다.\n당신이 저희가 겪은 일을, 이 끔찍한 진실을… 밖에 전해줄 수 있다는 사실을요.",
         "en": "[Seyren Windsor]\nI can hardly believe it… yet I desperately want to.\nThat you can deliver what happened to us, this terrible truth… to the outside world.",
-        "pt": "[Seyren Windsor]\nNão consigo acreditar… mas quero acreditar desesperadamente.\nQue você pode levar para fora o que nós vivemos, esta verdade terrível…",
+        "pt": "[Seyren Windsor]\nÉ difícil de acreditar, mas... eu só preciso que você me prometa.\nDeixe o mundo saber dessa coisa terrível que aconteceu conosco.",
         "es": "[Seyren Windsor]\nNo puedo creerlo… pero quiero creerlo con todas mis fuerzas.\nQue vosotros podéis transmitir al exterior lo que nos ocurrió, esta horrible verdad…"
     },
     "HVZeCA": {
         "ko": "세이렌: 믿기지 않지만… 간절히 믿고 싶습니다. 당신이 저희가 겪은 일을, 이 끔찍한 진실을… 밖에 전해줄 수 있다는 사실을요.",
         "en": "Seyren: I can hardly believe it… yet I desperately want to. That you can deliver what happened to us, this terrible truth… to the outside world.",
-        "pt": "Seyren: Não consigo acreditar… mas quero acreditar desesperadamente. Que você pode levar para fora o que nós vivemos, esta verdade terrível…",
+        "pt": "Seyren: É difícil de acreditar, mas... eu só preciso que você me prometa. Deixe o mundo saber dessa coisa terrível que aconteceu conosco.",
         "es": "Seyren: No puedo creerlo… pero quiero creerlo con todas mis fuerzas. Que vosotros podéis transmitir al exterior lo que nos ocurrió, esta horrible verdad…"
     },
     "HlZeCA": {
         "ko": "전해주겠다고 다짐한다.",
         "en": "Promise that you will deliver it.",
-        "pt": "Promete que levará.",
+        "pt": "Eu prometo.",
         "es": "Promete que lo hará."
     },
     "H1ZeCA": {
         "ko": "[셰실 디먼]\n그래. 그렇다면 적어도… 우리의 죽음은 그냥 개죽음이 아니야.\n이 연구가 어떻게 시작되고 어떻게 끝났는지 너는 전부 봤으니까…",
         "en": "[Cecil Damon]\nRight. Then at least… our deaths won’t be meaningless.\nYou saw everything—how this research began and how it ended…",
-        "pt": "[Cecil Damon]\nÉ. Nesse caso, pelo menos… nossas mortes não terão sido em vão.\nVocê viu tudo, desde como esta pesquisa começou até como terminou…",
+        "pt": "[Cecil Damon]\nSim, assim, não morremos em vão.\nVocê viu ao longo deste experimento.",
         "es": "[Cecil Damon]\nBien. Entonces, al menos… nuestras muertes no habrán sido en vano.\nTú viste por completo cómo comenzó esta investigación y cómo terminó…"
     },
     "IFZeCA": {
         "ko": "셰실: 그래. 그렇다면 적어도… 우리의 죽음은 그냥 개죽음이 아니야. 이 연구가 어떻게 시작되고 어떻게 끝났는지 너는 전부 봤으니까…",
         "en": "Cecil: Right. Then at least… our deaths won’t be meaningless. You saw everything—how this research began and how it ended…",
-        "pt": "Cecil: É. Nesse caso, pelo menos… nossas mortes não terão sido em vão. Você viu tudo, desde como esta pesquisa começou até como terminou…",
+        "pt": "Cecil: Sim, assim, não morremos em vão. Você viu ao longo deste experimento.",
         "es": "Cecil: Bien. Entonces, al menos… nuestras muertes no habrán sido en vano. Tú viste por completo cómo comenzó esta investigación y cómo terminó…"
     },
     "IVZeCA": {
         "ko": "[하워드 알트아이젠]\n그거 다행이네. 안심하고 눈감을 수… 있겠어.",
         "en": "[Howard Alt-Eisen]\nThat’s good to hear. I can… close my eyes in peace.",
-        "pt": "[Howard Alt-Eisen]\nAinda bem. Assim vou poder fechar os olhos… em paz.",
+        "pt": "[Howard Alt-Eisen]\nÓtimo. Agora, posso morrer sem arrependimentos.",
         "es": "[Howard Alt-Iron]\nMenos mal. Así podré cerrar los ojos… tranquilo."
     },
     "IlZeCA": {
         "ko": "하워드: 그거 다행이네. 안심하고 눈감을 수… 있겠어.",
         "en": "Howard: That’s good to hear. I can… close my eyes in peace.",
-        "pt": "Howard: Ainda bem. Assim vou poder fechar os olhos… em paz.",
+        "pt": "Howard: Ótimo. Agora, posso morrer sem arrependimentos.",
         "es": "Howard: Menos mal. Así podré cerrar los ojos… tranquilo."
     },
     "I1ZeCA": {
         "ko": "[세이렌 윈저]\n부탁드립니다, 이 모든 일을 미래에 전해 주십시오.\n시작부터 끝까지. 저희는 임무를 마치지 못했지만, 당신이 계시기 때문에 이 실패의 끝에 희망 한 줄기가 이어질 수 있습니다.",
         "en": "[Seyren Windsor]\nPlease, deliver all of this to the future.\nFrom beginning to end. We failed in our mission, but because you are here, a thread of hope may continue beyond the end of this failure.",
-        "pt": "[Seyren Windsor]\nPor favor, leve tudo isso para o futuro.\nDo começo ao fim. Nós não conseguimos concluir nossa missão, mas, porque você está aqui, ao final deste fracasso ainda pode haver um fio de esperança.",
+        "pt": "[Seyren Windsor]\nPor favor, deixe todos no futuro saberem o que aconteceu conosco.\nNós falhamos em nossa missão, mas por sua causa, ainda temos esperança.",
         "es": "[Seyren Windsor]\nOs lo suplico, transmitid todo esto al futuro.\nDesde el principio hasta el final. Nosotros no pudimos completar la misión, pero porque estáis aquí, al final de este fracaso todavía puede quedar un rayo de esperanza."
     },
     "JFZeCA": {
         "ko": "세이렌: 부탁드립니다, 이 모든 일을 미래에 전해 주십시오. 시작부터 끝까지. 저희는 임무를 마치지 못했지만, 당신이 계시기 때문에 이 실패의 끝에 희망 한 줄기가 이어질 수 있습니다.",
         "en": "Seyren: Please, deliver all of this to the future. From beginning to end. We failed in our mission, but because you are here, a thread of hope may continue beyond the end of this failure.",
-        "pt": "Seyren: Por favor, leve tudo isso para o futuro. Do começo ao fim. Nós não conseguimos concluir nossa missão, mas, porque você está aqui, ao final deste fracasso ainda pode haver um fio de esperança.",
+        "pt": "Seyren: Por favor, deixe todos no futuro saberem o que aconteceu conosco. Nós falhamos em nossa missão, mas por sua causa, ainda temos esperança.",
         "es": "Seyren: Os lo suplico, transmitid todo esto al futuro. Desde el principio hasta el final. Nosotros no pudimos completar la misión, pero porque estáis aquí, al final de este fracaso todavía puede quedar un rayo de esperanza."
     },
     "JVZeCA": {
         "ko": "[세이렌 윈저]\n부디 부탁드리겠습니다.",
         "en": "[Seyren Windsor]\nI beg of you.",
-        "pt": "[Seyren Windsor]\nEu imploro.",
+        "pt": "[Seyren Windsor]\nEstaremos contando com você.",
         "es": "[Seyren Windsor]\nOs lo ruego."
     },
     "JlZeCA": {
         "ko": "세이렌: 부디 부탁드리겠습니다.",
         "en": "Seyren: I beg of you.",
-        "pt": "Seyren: Eu imploro.",
+        "pt": "Seyren: Estaremos contando com você.",
         "es": "Seyren: Os lo ruego."
     },
     "J1ZeCA": {
@@ -1016,157 +1016,157 @@
     "KVZeCA": {
         "ko": "[세이렌 윈저]\n…이런 때 왜 굳이 그런 거짓말을 하셨는지 이해하기 어렵습니다.\n저희는 이미 충분히 절망했는데, 왜 가짜 절망을 더 만들어내십니까…",
         "en": "[Seyren Windsor]\n…I cannot understand why you would tell such a lie at a time like this.\nWe were already in enough despair, so why create false despair as well…",
-        "pt": "[Seyren Windsor]\n…É difícil entender por que mentiria sobre isso justamente num momento como este.\nNós já estamos desesperados o suficiente, então por que criar mais um desespero falso…",
+        "pt": "[Seyren Windsor]\nPor que você inventou isso em um momento como este?\nJá estamos em uma situação desesperadora. Por que você quer piorar as coisas?",
         "es": "[Seyren Windsor]\n…Me cuesta entender por qué habéis dicho una mentira así precisamente en un momento como este.\nYa estábamos sumidos en la desesperación, ¿por qué añadir una desesperación falsa…?"
     },
     "KlZeCA": {
         "ko": "세이렌: …이런 때 왜 굳이 그런 거짓말을 하셨는지 이해하기 어렵습니다. 저희는 이미 충분히 절망했는데, 왜 가짜 절망을 더 만들어내십니까…",
         "en": "Seyren: …I cannot understand why you would tell such a lie at a time like this. We were already in enough despair, so why create false despair as well…",
-        "pt": "Seyren: …É difícil entender por que mentiria sobre isso justamente num momento como este. Nós já estamos desesperados o suficiente, então por que criar mais um desespero falso…",
+        "pt": "Seyren: Por que você inventou isso em um momento como este? Já estamos em uma situação desesperadora. Por que você quer piorar as coisas?",
         "es": "Seyren: …Me cuesta entender por qué habéis dicho una mentira así precisamente en un momento como este. Ya estábamos sumidos en la desesperación, ¿por qué añadir una desesperación falsa…?"
     },
     "K1ZeCA": {
         "ko": "[세이렌 윈저]\n뭐, 괜찮습니다. 어차피 모든 진실은 저희와 함께 여기에 묻힐… 테니…",
         "en": "[Seyren Windsor]\nWell, it doesn’t matter. All the truth will be buried here with us… anyway…",
-        "pt": "[Seyren Windsor]\nBem, tudo bem. De qualquer forma, toda a verdade será enterrada aqui conosco…",
+        "pt": "[Seyren Windsor]\nBem, não importa. A verdade será enterrada aqui conosco, de qualquer maneira.",
         "es": "[Seyren Windsor]\nBueno, da igual. De todos modos, toda la verdad quedará enterrada aquí con nosotros…"
     },
     "LFZeCA": {
         "ko": "세이렌: 뭐, 괜찮습니다. 어차피 모든 진실은 저희와 함께 여기에 묻힐… 테니…",
         "en": "Seyren: Well, it doesn’t matter. All the truth will be buried here with us… anyway…",
-        "pt": "Seyren: Bem, tudo bem. De qualquer forma, toda a verdade será enterrada aqui conosco…",
+        "pt": "Seyren: Bem, não importa. A verdade será enterrada aqui conosco, de qualquer maneira.",
         "es": "Seyren: Bueno, da igual. De todos modos, toda la verdad quedará enterrada aquí con nosotros…"
     },
     "LVZeCA": {
         "ko": "[세이렌 윈저]\n이제… 더 이상, 버틸 수 없겠군요…",
         "en": "[Seyren Windsor]\nNow… I can’t hold on any longer…",
-        "pt": "[Seyren Windsor]\nAgora… eu não vou mais conseguir… aguentar…",
+        "pt": "[Seyren Windsor]\nNão posso... não aguento mais...",
         "es": "[Seyren Windsor]\nYa… no podremos aguantar mucho más…"
     },
     "LlZeCA": {
         "ko": "세이렌: 이제… 더 이상, 버틸 수 없겠군요…",
         "en": "Seyren: Now… I can’t hold on any longer…",
-        "pt": "Seyren: Agora… eu não vou mais conseguir… aguentar…",
+        "pt": "Seyren: Não posso... não aguento mais...",
         "es": "Seyren: Ya… no podremos aguantar mucho más…"
     },
     "L1ZeCA": {
         "ko": "[하워드 알트아이젠]\n하… 하하. 죽는다면 좀더 멋진 곳에서 눈물짓는 누님 품에 안겨 죽고 싶었는데.",
         "en": "[Howard Alt-Eisen]\nHa… haha. If I were going to die, I wanted to die somewhere nicer, in my sister’s tearful embrace.",
-        "pt": "[Howard Alt-Eisen]\nHa… haha. Se eu fosse morrer, queria morrer num lugar mais bonito, nos braços da mana chorando por mim.",
+        "pt": "[Howard Alt-Eisen]\nHah... hah hah. Eu sempre quis morrer em seus braços, com você chorando por mim, Cecil.",
         "es": "[Howard Alt-Iron]\nJa… ja, ja. Si voy a morir, me habría gustado hacerlo en un lugar más bonito, entre los brazos de la hermana mientras lloraba."
     },
     "MFZeCA": {
         "ko": "하워드: 하… 하하. 죽는다면 좀더 멋진 곳에서 눈물짓는 누님 품에 안겨 죽고 싶었는데.",
         "en": "Howard: Ha… haha. If I were going to die, I wanted to die somewhere nicer, in my sister’s tearful embrace.",
-        "pt": "Howard: Ha… haha. Se eu fosse morrer, queria morrer num lugar mais bonito, nos braços da mana chorando por mim.",
+        "pt": "Howard: Hah... hah hah. Eu sempre quis morrer em seus braços, com você chorando por mim, Cecil.",
         "es": "Howard: Ja… ja, ja. Si voy a morir, me habría gustado hacerlo en un lugar más bonito, entre los brazos de la hermana mientras lloraba."
     },
     "MVZeCA": {
         "ko": "[셰실 디먼]\n이 바보가… 지금 그런 소리가 나와?",
         "en": "[Cecil Damon]\nYou idiot… is that really the time to say that?",
-        "pt": "[Cecil Damon]\nSeu idiota… numa hora dessas ainda consegue dizer uma coisa dessas?",
+        "pt": "[Cecil Damon]\nSeu idiota... Isso não é nada engraçado.",
         "es": "[Cecil Damon]\n…Idiota, ¿de verdad estás diciendo eso ahora?"
     },
     "MlZeCA": {
         "ko": "셰실: 이 바보가… 지금 그런 소리가 나와?",
         "en": "Cecil: You idiot… is that really the time to say that?",
-        "pt": "Cecil: Seu idiota… numa hora dessas ainda consegue dizer uma coisa dessas?",
+        "pt": "Cecil: Seu idiota... Isso não é nada engraçado.",
         "es": "Cecil: …Idiota, ¿de verdad estás diciendo eso ahora?"
     },
     "M1ZeCA": {
         "ko": "[하워드 알트아이젠]\n마지막이니까… 이런 농담이라도 하게 해주세요… 안아… 주지는… 않으, 시… 겠지만…",
         "en": "[Howard Alt-Eisen]\nSince it’s the end… please let me make a joke like this… Even though you… probably… won’t hug me…",
-        "pt": "[Howard Alt-Eisen]\nJá que é o fim… me deixe ao menos fazer uma piada dessas… abraçar… você não vai… querer… mas…",
+        "pt": "[Howard Alt-Eisen]\nVocê não pode odiar um homem por tentar... Você não precisa... me ab-abraçar...",
         "es": "[Howard Alt-Iron]\nComo es el final… dejadme al menos hacer una broma así… Aunque no vayáis… a abrazar… me…"
     },
     "NFZeCA": {
         "ko": "하워드: 마지막이니까… 이런 농담이라도 하게 해주세요… 안아… 주지는… 않으, 시… 겠지만…",
         "en": "Howard: Since it’s the end… please let me make a joke like this… Even though you… probably… won’t hug me…",
-        "pt": "Howard: Já que é o fim… me deixe ao menos fazer uma piada dessas… abraçar… você não vai… querer… mas…",
+        "pt": "Howard: Você não pode odiar um homem por tentar... Você não precisa... me ab-abraçar...",
         "es": "Howard: Como es el final… dejadme al menos hacer una broma así… Aunque no vayáis… a abrazar… me…"
     },
     "NVZeCA": {
         "ko": "[셰실 디먼]\n…바보, 이 바보가…! 눈 떠! 눈 뜨라고!! 얼마든지 해줄 테니까… 젠장.",
         "en": "[Cecil Damon]\n…Idiot, you idiot…! Open your eyes! Open them!! I’ll give you as many as you want… damn it.",
-        "pt": "[Cecil Damon]\n…Idiota, seu idiota…! Abra os olhos! Abra os olhos, eu disse!! Eu faço quantas vezes você quiser… droga.",
+        "pt": "[Cecil Damon]\nSeu idiota! Acorda! Vamos, vou te abraçar!",
         "es": "[Cecil Damon]\n…Idiota, pedazo de idiota… ¡Abre los ojos! ¡Que los abras!! Te daré todos los abrazos que quieras… maldita sea."
     },
     "NlZeCA": {
         "ko": "셰실: …바보, 이 바보가…! 눈 떠! 눈 뜨라고!! 얼마든지 해줄 테니까… 젠장.",
         "en": "Cecil: …Idiot, you idiot…! Open your eyes! Open them!! I’ll give you as many as you want… damn it.",
-        "pt": "Cecil: …Idiota, seu idiota…! Abra os olhos! Abra os olhos, eu disse!! Eu faço quantas vezes você quiser… droga.",
+        "pt": "Cecil: Seu idiota! Acorda! Vamos, vou te abraçar!",
         "es": "Cecil: …Idiota, pedazo de idiota… ¡Abre los ojos! ¡Que los abras!! Te daré todos los abrazos que quieras… maldita sea."
     },
     "N1ZeCA": {
         "ko": "[하워드 알트아이젠]\n이게 무슨 소리지? 윽, 아프다고, 흔들어 대면!!!",
         "en": "[Howard Alt-Eisen]\nWhat’s that sound? Ugh, it hurts if you shake me like that!!!",
-        "pt": "[Howard Alt-Eisen]\nO que é esse barulho? Ugh, dói, não me sacuda assim!!!",
+        "pt": "[Howard Alt-Eisen]\nQue barulho é esse? Ugh, isso dói... Faça parar de tremer!",
         "es": "[Howard Alt-Iron]\n¿Qué es ese ruido? ¡Ugh, me duele, no me sacudas así!!!"
     },
     "OFZeCA": {
         "ko": "하워드: 이게 무슨 소리지? 윽, 아프다고, 흔들어 대면!!!",
         "en": "Howard: What’s that sound? Ugh, it hurts if you shake me like that!!!",
-        "pt": "Howard: O que é esse barulho? Ugh, dói, não me sacuda assim!!!",
+        "pt": "Howard: Que barulho é esse? Ugh, isso dói... Faça parar de tremer!",
         "es": "Howard: ¿Qué es ese ruido? ¡Ugh, me duele, no me sacudas así!!!"
     },
     "OVZeCA": {
         "ko": "여기는 곧 무너질 것이다.",
         "en": "This place will soon collapse.",
-        "pt": "Este lugar logo vai desabar.",
+        "pt": "Este lugar vai desabar em breve.",
         "es": "Este lugar va a derrumbarse pronto."
     },
     "OlZeCA": {
         "ko": "보르세브가 결국…",
         "en": "Vorseff has finally…",
-        "pt": "Wolfchev, no fim…",
+        "pt": "Wolfchev, seu maldito!",
         "es": "Al final, Wolfchev…"
     },
     "O1ZeCA": {
         "ko": "[셰실 디먼]\n제길, 우리를 묻어버리려고? 우리의 시체와 이곳의 끔찍한 실험까지 전부!!",
         "en": "[Cecil Damon]\nDamn it, he’s going to bury us? Our bodies and all the horrific experiments here!!",
-        "pt": "[Cecil Damon]\nDroga, então ele quer nos enterrar? Nossos corpos e todos os experimentos horríveis deste lugar também!!",
+        "pt": "[Cecil Damon]\nDroga, ele está tentando nos enterrar junto com as provas desse experimento!",
         "es": "[Cecil Damon]\n¡Maldita sea, pretende enterrarnos aquí! ¡A nosotros, nuestros cadáveres y todos los horribles experimentos de este lugar!"
     },
     "PFZeCA": {
         "ko": "셰실: 제길, 우리를 묻어버리려고? 우리의 시체와 이곳의 끔찍한 실험까지 전부!!",
         "en": "Cecil: Damn it, he’s going to bury us? Our bodies and all the horrific experiments here!!",
-        "pt": "Cecil: Droga, então ele quer nos enterrar? Nossos corpos e todos os experimentos horríveis deste lugar também!!",
+        "pt": "Cecil: Droga, ele está tentando nos enterrar junto com as provas desse experimento!",
         "es": "Cecil: ¡Maldita sea, pretende enterrarnos aquí! ¡A nosotros, nuestros cadáveres y todos los horribles experimentos de este lugar!"
     },
     "PVZeCA": {
         "ko": "[세이렌 윈저]\n처음부터 전부 은폐할 생각이었을까요, 그가 도망치자마자 이렇게 빨리 붕괴가 진행되다니!",
         "en": "[Seyren Windsor]\nDid he intend to cover everything up from the start? The collapse began so quickly the moment he fled!",
-        "pt": "[Seyren Windsor]\nSerá que ele pretendia encobrir tudo desde o começo? Assim que fugiu, o colapso começou tão rapidamente!",
+        "pt": "[Seyren Windsor]\nEle planejou isso desde o início? Começou a desmoronar logo depois que ele saiu!",
         "es": "[Seyren Windsor]\n¿Acaso pensaba encubrirlo todo desde el principio? ¡En cuanto huyó, el derrumbe empezó a avanzar a una velocidad increíble!"
     },
     "PlZeCA": {
         "ko": "세이렌: 처음부터 전부 은폐할 생각이었을까요, 그가 도망치자마자 이렇게 빨리 붕괴가 진행되다니!",
         "en": "Seyren: Did he intend to cover everything up from the start? The collapse began so quickly the moment he fled!",
-        "pt": "Seyren: Será que ele pretendia encobrir tudo desde o começo? Assim que fugiu, o colapso começou tão rapidamente!",
+        "pt": "Seyren: Ele planejou isso desde o início? Começou a desmoronar logo depois que ele saiu!",
         "es": "Seyren: ¿Acaso pensaba encubrirlo todo desde el principio? ¡En cuanto huyó, el derrumbe empezó a avanzar a una velocidad increíble!"
     },
     "P1ZeCA": {
         "ko": "[세이렌 윈저]\n…이제, 정말로… 끝인 것 같습니다.",
         "en": "[Seyren Windsor]\n…Now, it truly seems to be the end.",
-        "pt": "[Seyren Windsor]\n…Agora, realmente… parece ser o fim.",
+        "pt": "[Seyren Windsor]\nIsso... acabou agora.",
         "es": "[Seyren Windsor]\n…Ahora sí que… parece que es el final."
     },
     "QFZeCA": {
         "ko": "세이렌: …이제, 정말로… 끝인 것 같습니다.",
         "en": "Seyren: …Now, it truly seems to be the end.",
-        "pt": "Seyren: …Agora, realmente… parece ser o fim.",
+        "pt": "Seyren: Isso... acabou agora.",
         "es": "Seyren: …Ahora sí que… parece que es el final."
     },
     "QVZeCA": {
         "ko": "[세이렌 윈저]\n……저희는, 다시………",
         "en": "[Seyren Windsor]\n……We will, once again………",
-        "pt": "[Seyren Windsor]\n……Nós, outra vez………",
+        "pt": "[Seyren Windsor]\nEstamos... de volta para...",
         "es": "[Seyren Windsor]\n……Nosotros, otra vez………"
     },
     "QlZeCA": {
         "ko": "세이렌: ……저희는, 다시………",
         "en": "Seyren: ……We will, once again………",
-        "pt": "Seyren: ……Nós, outra vez………",
+        "pt": "Seyren: Estamos... de volta para...",
         "es": "Seyren: ……Nosotros, otra vez………"
     },
     "Q1ZeCA": {
@@ -1178,31 +1178,31 @@
     "RFZeCA": {
         "ko": "[알림]\n - 가방이 가득 찼습니다. 소지 무게와 소지 물품 수량 확인 뒤 다시 말을 걸어 주세요. -",
         "en": "[Notice]\n - Your inventory is full. Please check your weight and item count, then speak again. -",
-        "pt": "[Aviso]\n - Sua mochila está cheia. Verifique o peso e a quantidade de itens carregados e fale comigo novamente. -",
+        "pt": "[Alerta]\n- Reorganize seu inventário e tente novamente. -",
         "es": "[Aviso]\n - La bolsa está llena. Comprueba el peso y la cantidad de objetos que llevas y vuelve a hablarme. -"
     },
     "RVZeCA": {
         "ko": "[시에라]\n말렸는데, 안 들으셨군요. 데이터가 오염된다고 말씀드리지 않았습니까.",
         "en": "[Sierra]\nI tried to stop you, but you didn’t listen. Didn’t I say the data would be contaminated?",
-        "pt": "[Sierra]\nEu avisei, mas você não ouviu. Não falei que os dados seriam contaminados?",
+        "pt": "[Sierra]\nVocê não me ouviu. Eu disse que você contaminaria os dados.",
         "es": "[Sierra]\nIntenté impedíroslo, pero no me escuchasteis. ¿No os dije que los datos se contaminarían?"
     },
     "RlZeCA": {
         "ko": "[시에라]\n하지만 조금 홀가분한 느낌도 드네요. 그 점은 감사합니다. 저는 그들에게 어떤 의미로, 부채감을 좀 가지고 있었던 것 같습니다.",
         "en": "[Sierra]\nStill, I feel a little relieved. Thank you for that. In a way, I suppose I carried a sense of debt toward them.",
-        "pt": "[Sierra]\nMas, de algum modo, também me sinto um pouco mais aliviada. Por isso, agradeço. Acho que eu carregava uma certa dívida com eles, em algum sentido.",
+        "pt": "[Sierra]\nMas, de certa forma, sinto-me aliviada, obrigada. Me sinto menos culpada pelo que aconteceu com eles.",
         "es": "[Sierra]\nAunque, en cierto modo, también me siento un poco aliviada. Por eso os doy las gracias. Creo que, de alguna manera, arrastraba cierta deuda hacia ellos."
     },
     "R1ZeCA": {
         "ko": "[시에라]\n말렸는데, 결국 많은 이야기를 해 버리셨군요. 데이터가 오염된다고 말씀드리지 않았습니까.",
         "en": "[Sierra]\nI tried to stop you, yet you ended up telling them so much. Didn’t I say the data would be contaminated?",
-        "pt": "[Sierra]\nEu avisei, mas no fim você contou muita coisa. Não falei que os dados seriam contaminados?",
+        "pt": "[Sierra]\nVocê contou tudo a eles, apesar de discordar. Eu disse que você contaminaria os dados.",
         "es": "[Sierra]\nIntenté impedíroslo, pero al final les habéis contado muchas cosas. ¿No os dije que los datos se contaminarían?"
     },
     "SFZeCA": {
         "ko": "[시에라]\n그들이 실제가 아니라고 그렇게나 말씀드렸는데. ...하지만 그 기분은 저도 조금 알 것 같습니다. 많은 일을 함께 겪으셨지요.",
         "en": "[Sierra]\nI told you many times they were not real. ...Still, I think I understand the feeling a little. You went through a lot together.",
-        "pt": "[Sierra]\nEu disse tantas vezes que eles não eram reais. ...Mas acho que até eu entendo um pouco esse sentimento. Vocês passaram por muita coisa juntos.",
+        "pt": "[Sierra]\nE, muitas vezes, eu disse a você que eles não eram reais. Mas eu entendo como você se sente. Você passou por muita coisa com eles.",
         "es": "[Sierra]\nOs dije una y otra vez que ellos no eran reales. ...Pero creo que yo también comprendo un poco ese sentimiento. Habéis pasado por muchas cosas juntos."
     },
     "SVZeCA": {
@@ -1214,7 +1214,7 @@
     "SlZeCA": {
         "ko": "탐사 중 획득하신 물품을 지급해 드리겠습니다.",
         "en": "I will distribute the items you obtained during the exploration.",
-        "pt": "Vou lhe entregar os itens obtidos durante a exploração.",
+        "pt": "Esses são os itens que você encontrou nessa expedição.",
         "es": "Os entregaré los objetos obtenidos durante la exploración."
     },
     "S1ZeCA": {
@@ -1226,31 +1226,31 @@
     "TFZeCA": {
         "ko": "앞으로도 잘 부탁드립니다. 그럼 유노로 보내드리겠습니다.",
         "en": "I look forward to working with you again. I will send you to Juno now.",
-        "pt": "Agradeço desde já pela sua ajuda contínua. Então, vou enviá-lo para Juno.",
+        "pt": "Obrigada por seu apoio. Agora, vou enviar você para Juno.",
         "es": "Seguid contando con nosotros. Entonces os enviaré a Juno."
     },
     "TVZeCA": {
         "ko": "바로 이동한다.",
         "en": "Move immediately.",
-        "pt": "Mover imediatamente.",
+        "pt": "Ir agora.",
         "es": "Ir ahora mismo."
     },
     "TlZeCA": {
         "ko": "바로 이동하지 않는다.",
         "en": "Do not move immediately.",
-        "pt": "Não mover imediatamente.",
+        "pt": "Não ir.",
         "es": "No ir ahora mismo."
     },
     "T1ZeCA": {
         "ko": "[시에라]\n유노에서 다시 뵙겠습니다.",
         "en": "[Sierra]\nI will see you again in Juno.",
-        "pt": "[Sierra]\nNos vemos novamente em Juno.",
+        "pt": "[Sierra]\nVejo você em Juno.",
         "es": "[Sierra]\nNos volveremos a ver en Juno."
     },
     "UFZeCA": {
         "ko": "[시에라]\n유노로 돌아가고 싶으실 때 다시 말씀해 주십시오.",
         "en": "[Sierra]\nPlease speak to me again when you wish to return to Juno.",
-        "pt": "[Sierra]\nQuando quiser voltar para Juno, fale comigo novamente.",
+        "pt": "[Sierra]\nMe avise quando quiser voltar para Juno.",
         "es": "[Sierra]\nDecídmelo de nuevo cuando queráis regresar a Juno."
     },
     "UVZeCA": {
@@ -1261,62 +1261,62 @@
     },
     "UlZeCA": {
         "ko": "무명의 검사",
-        "en": "Nameless Swordsman",
-        "pt": "Espadachim sem nome",
+        "en": "Nameless Swordman",
+        "pt": "Espadachim Anônima",
         "es": "Espadachín sin nombre"
     },
     "U1ZeCA": {
         "ko": "세이렌: 헉, 허억. 끝… 났다. 이겼어…",
         "en": "Seyren: Hah, huff. It’s… over. We won…",
-        "pt": "Seyren: Hah, hah. Acabou… acabou. Nós vencemos…",
+        "pt": "Seyren: Huff, huff...  Acabou... Nós vencemos...",
         "es": "Seyren: Hah, haa. Se… acabó. Ganamos…"
     },
     "VFZeCA": {
         "ko": "하워드: 반드시이이… 이긴다아아아아앗!!!",
         "en": "Howard: We will definitely… wiiiiiiin!!!",
-        "pt": "Howard: Vamos vencer com ceeertezaaa… venceraaaaaaa!!!",
+        "pt": "Howard: Nós vamos... ganhar!",
         "es": "Howard: ¡¡¡Ganareeeemos sí o sííííí!!!"
     },
     "VVZeCA": {
         "ko": "세이렌: 모두를 구할 것입니다!!",
         "en": "Seyren: We will save everyone!!",
-        "pt": "Seyren: Vamos salvar todos!!",
+        "pt": "Seyren: Salvarei todos nós!",
         "es": "Seyren: ¡¡Salvaré a todos!!"
     },
     "VlZeCA": {
         "ko": "셰실: 쓰러지지 마!! 절대로!!",
         "en": "Cecil: Don’t fall!! Never!!",
-        "pt": "Cecil: Não caiam!! De jeito nenhum!!",
+        "pt": "Cecil: Não perderemos! Nunca!",
         "es": "Cecil: ¡¡No caigas!! ¡¡Bajo ningún concepto!!"
     },
     "V1ZeCA": {
         "ko": "[시에라]\n시체 보관소… 이곳에서 그들은 보르세브의 실험체였던 한 검사와 마지막 전투를 치릅니다.",
         "en": "[Sierra]\nMorgue… Here they fight their final battle against a swordsman who was an experimental subject of Vorseff.",
-        "pt": "[Sierra]\nEdda do Biolaboratório… aqui eles travam a batalha final contra um espadachim que era cobaia dos experimentos de Wolfchev.",
+        "pt": "[Sierra]\nFoi neste necrotério que eles travaram uma batalha com a cobaia de uma Espadachim do Wolfchev.",
         "es": "[Sierra]\nMorgue… aquí librarán su batalla final contra un espadachín que fue sujeto de prueba de Wolfchev."
     },
     "WFZeCA": {
         "ko": "[시에라]\n보르세브는 이 모든 과정을 그저 실험이라고 생각했지만, 전투 결과에 따라 생각이 바뀌게 되겠지요.",
         "en": "[Sierra]\nVorseff considered this entire process merely an experiment, but depending on the outcome of the battle, his thoughts may change.",
-        "pt": "[Sierra]\nWolfchev via todo esse processo apenas como um experimento, mas sua forma de pensar certamente mudará conforme o resultado da batalha.",
+        "pt": "[Sierra]\nWolfchev pensou que todo esse processo era apenas um experimento, mas os resultados da batalha mudariam isso.",
         "es": "[Sierra]\nWolfchev consideraba todo este proceso un simple experimento, pero según el resultado del combate, acabará cambiando de idea."
     },
     "WVZeCA": {
         "ko": "[시에라]\n자, 복도를 따라 12시 방향으로 올라오십시오. 먼저 가서 기다리고 있을 테니 그곳에서 제게 말을 걸어 주십시오.",
         "en": "[Sierra]\nNow, follow the corridor north to the 12 o’clock direction. I will go ahead and wait there, so speak to me when you arrive.",
-        "pt": "[Sierra]\nSigam agora pelo corredor na direção das 12 horas. Eu irei antes e esperarei lá, então falem comigo quando chegarem.",
+        "pt": "[Sierra]\nAgora, por favor, siga pelo corredor ao norte. Eu esperarei por você lá. Por favor, fale comigo quando chegar.",
         "es": "[Sierra]\nBien, subid por el pasillo hacia las 12. Yo iré primero y os esperaré allí, así que hablad conmigo cuando lleguéis."
     },
     "WlZeCA": {
         "ko": "[시에라]\n참가자 분들이 ^FF0000모두 시체 보관소 안으로 들어오셨습니까^000000?\n전투 결과의 보존을 위해, ^FF0000전투가 시작되면 출입이 제한됩니다^000000.",
         "en": "[Sierra]\nHave all participants ^FF0000entered Morgue^000000?\nTo preserve the battle results, ^FF0000entry will be restricted once the battle begins^000000.",
-        "pt": "[Sierra]\nTodos os participantes ^FF0000já entraram em Edda do Biolaboratório^000000?\nPara preservar o resultado da batalha, ^FF0000a entrada será restrita assim que o combate começar^000000.",
+        "pt": "[Sierra]\nViajante, ^FF0000todos do grupo entraram nesse mapa^000000?\nPara preservar os resultados da batalha, ^FF0000a porta será fechada assim que a batalha começar^000000.",
         "es": "[Sierra]\n¿Han entrado ya ^FF0000todos^000000 los participantes en Morgue?\nPara preservar el resultado del combate, ^FF0000una vez comience la batalla se restringirá el acceso^000000."
     },
     "W1ZeCA": {
         "ko": "전부 도착했습니다.",
         "en": "Everyone has arrived.",
-        "pt": "Todos chegaram.",
+        "pt": "Estão todos aqui.",
         "es": "Ya han llegado todos."
     },
     "XFZeCA": {
@@ -1327,26 +1327,26 @@
     },
     "XVZeCA": {
         "ko": "[시에라]\n무명 검사의 사념체 데이터 로드를 시작합니다. 잠시만 기다려 주십시오.\n완료되었습니다. 이 층에 있는 모든 파티원이 중앙으로 이동하며 전투가 시작됩니다.",
-        "en": "[Sierra]\nBeginning to load thought entity data of the Nameless Swordsman. Please wait a moment.\nComplete. All party members on this floor will move to the center and the battle will begin.",
-        "pt": "[Sierra]\nVou iniciar o carregamento dos dados da entidade de pensamento do Espadachim sem Nome. Aguarde um instante.\nConcluído. Todos os membros do grupo neste andar serão movidos para o centro e o combate começará.",
+        "en": "[Sierra]\nBeginning to load thought entity data of the Nameless Swordman. Please wait a moment.\nComplete. All party members on this floor will move to the center and the battle will begin.",
+        "pt": "[Sierra]\nCarregando dados da Espadachim Anônima... Aguarde.\nConcluído. Todos deverão se dirigir ao centro para a batalha.",
         "es": "[Sierra]\nComenzando la carga de datos del espíritu residual del espadachín sin nombre. Esperad un momento, por favor.\nCompletado. Todos los miembros del grupo que estén en esta planta serán trasladados al centro y comenzará el combate."
     },
     "XlZeCA": {
         "ko": "[시에라]\n모든 파티원이 시체 보관소 안으로 들어오시면 저와 다시 대화해 주십시오.\n전투 데이터를 로드하도록 하겠습니다.",
         "en": "[Sierra]\nOnce all party members have entered Morgue, please speak with me again.\nI will load the battle data.",
-        "pt": "[Sierra]\nQuando todos os membros do grupo tiverem entrado em Edda do Biolaboratório, falem comigo novamente.\nEntão carregarei os dados de combate.",
+        "pt": "[Sierra]\nPor favor, me avise quando todos do seu grupo estiverem no necrotério.\nAssim, posso carregar os dados da batalha.",
         "es": "[Sierra]\nCuando todos los miembros del grupo hayan entrado en Morgue, volved a hablar conmigo.\nCargaré los datos de combate."
     },
     "X1ZeCA": {
         "ko": "전투 데이터를 무사히 추출했습니다.",
         "en": "The battle data has been successfully extracted.",
-        "pt": "Os dados de combate foram extraídos com segurança.",
+        "pt": "Dados de batalha extraídos com segurança.",
         "es": "Los datos de combate se han extraído sin problemas."
     },
     "YFZeCA": {
         "ko": "시에라: 보라색 불꽃으로 생성되는 벽 안에서 사념 반응이 감지됩니다!",
         "en": "Sierra: A thought reaction has been detected inside the wall formed by purple flames!",
-        "pt": "Sierra: Uma reação de pensamento foi detectada dentro da parede criada pelas chamas roxas!",
+        "pt": "Sierra: Há alterações espirituais na Barreira Púrpura!",
         "es": "Sierra: ¡Se detecta una reacción espiritual dentro del muro creado por las llamas moradas!"
     },
     "YVZeCA": {
@@ -1369,14 +1369,14 @@
     },
     "ZFZeCA": {
         "ko": "무명의 복사",
-        "en": "Nameless Acolyte",
-        "pt": "Copista sem nome",
+        "en": "Unknown Acolyte",
+        "pt": "Noviço Anônimo",
         "es": "Sacerdote sin nombre"
     },
     "ZVZeCA": {
         "ko": "무명의 상인",
-        "en": "Nameless Merchant",
-        "pt": "Mercador sem nome",
+        "en": "Unknown Merchant",
+        "pt": "Mercadora Anônima",
         "es": "Mercader sin nombre"
     },
     "ZlZeCA": {
@@ -1388,7 +1388,7 @@
     "Z1ZeCA": {
         "ko": "- 상자를 여시겠습니까? -",
         "en": "- Open the chest? -",
-        "pt": "- Deseja abrir a caixa? -",
+        "pt": "- Deseja abrir? -",
         "es": "- ¿Deseas abrir el cofre? -"
     },
     "aFZeCA": {
@@ -1406,61 +1406,61 @@
     "alZeCA": {
         "ko": "- 상자를 도로 닫았다. -",
         "en": "- The chest was closed again. -",
-        "pt": "- A caixa foi fechada novamente. -",
+        "pt": "- Decidi não abrir. -",
         "es": "- Volviste a cerrar el cofre. -"
     },
     "a1ZeCA": {
         "ko": "- 상자 안에 희귀해 보이는 물건이 들어 있다. -",
         "en": "- There is a rare-looking item inside the chest. -",
-        "pt": "- Há um objeto que parece raro dentro da caixa. -",
+        "pt": "- Tem algo raro dentro. -",
         "es": "- Dentro del cofre hay un objeto que parece raro. -"
     },
     "bFZeCA": {
         "ko": "- 문제가 발생하였다. 가방을 정리하고 다시 시도해 볼까? -",
         "en": "- An error occurred. Should you reorganize your inventory and try again? -",
-        "pt": "- Ocorreu um problema. Que tal organizar a mochila e tentar novamente? -",
+        "pt": "- Estou sem espaço no inventário. -",
         "es": "- Ha surgido un problema. ¿Debería ordenar la bolsa y volver a intentarlo? -"
     },
     "bVZeCA": {
         "ko": "- 상자 안에 아주 희귀해 보이는 물건이 들어 있다! -",
         "en": "- There is a very rare-looking item inside the chest! -",
-        "pt": "- Há um objeto que parece muito raro dentro da caixa! -",
+        "pt": "- Tem algo MUITO raro dentro! -",
         "es": "- ¡Dentro del cofre hay un objeto que parece muy raro! -"
     },
     "blZeCA": {
         "ko": "- 상자 안에 조금 희귀해 보이는 물건이 들어 있다. -",
         "en": "- There is a somewhat rare-looking item inside the chest. -",
-        "pt": "- Há um objeto que parece um pouco raro dentro da caixa. -",
+        "pt": "- Tem algo comum dentro. -",
         "es": "- Dentro del cofre hay un objeto que parece algo raro. -"
     },
     "b1ZeCA": {
         "ko": "- 빈 상자만 남아있다. -",
         "en": "- Only an empty chest remains. -",
-        "pt": "- Restou apenas uma caixa vazia. -",
+        "pt": "- Apenas uma caixa vazia. -",
         "es": "- Solo queda un cofre vacío. -"
     },
     "cFZeCA": {
         "ko": "- 빈 상자가 놓여있다. -",
         "en": "- An empty chest is placed here. -",
-        "pt": "- Há uma caixa vazia aqui. -",
+        "pt": "- Uma caixa vazia. -",
         "es": "- Hay un cofre vacío. -"
     },
     "cVZeCA": {
         "ko": "[시에라]\n양질의 데이터 추출의 대가로 추가 보상 상자가 있으니 꼭 추가 보상을 획득하시기 바랍니다.",
         "en": "[Sierra]\nAs a reward for extracting high-quality data, there is an additional reward chest. Please be sure to claim your additional reward.",
-        "pt": "[Sierra]\nHá uma caixa de recompensa adicional como retorno pela extração de dados de alta qualidade, então não deixe de obter sua recompensa extra.",
+        "pt": "[Sierra]\nVocê ganhou uma recompensa adicional pela sua batalha excepcional. Não se esqueça de pegar seu prêmio.",
         "es": "[Sierra]\nComo recompensa adicional por extraer datos de alta calidad, hay cofres extra, así que aseguraos de conseguir la recompensa adicional."
     },
     "clZeCA": {
         "ko": "[시에라]\n전투 중 획득한 물품을 지급해 드리겠습니다. 앞으로도 잘 부탁드립니다. 조금 쉬시고 내일 다시 와 주세요.",
         "en": "[Sierra]\nI will distribute the items obtained during battle. Thank you for your continued cooperation. Please get some rest and come again tomorrow.",
-        "pt": "[Sierra]\nVou lhe entregar os itens obtidos durante o combate. Agradeço desde já pela sua ajuda contínua. Descanse um pouco e volte amanhã.",
+        "pt": "[Sierra]\nEssas são as suas recompensas. Vejo você amanhã. Obrigada.",
         "es": "[Sierra]\nOs entregaré los objetos obtenidos en combate. Seguid contando con nosotros. Descansad un poco y volved mañana."
     },
     "c1ZeCA": {
         "ko": "[시에라]\n무사히 다녀오셔서 다행입니다. 양질의 전투 데이터를 수집했어요. 그럼 유노로 보내드리겠습니다.",
         "en": "[Sierra]\nI’m glad you returned safely. We collected high-quality battle data. I will send you to Juno now.",
-        "pt": "[Sierra]\nAinda bem que voltou em segurança. Reunimos dados de combate de alta qualidade. Então, vou enviá-lo para Juno.",
+        "pt": "[Sierra]\nOlá de novo. Belo trabalho você fez aqui. Agora, vamos voltar para Juno.",
         "es": "[Sierra]\nMe alegra que hayáis regresado sanos y salvos. Hemos reunido datos de combate de gran calidad. Entonces os enviaré a Juno."
     },
     "dFZeCA": {
@@ -1480,5 +1480,41 @@
         "en": "on",
         "pt": "on",
         "es": "on"
+    },
+    "d1ZeCA": {
+        "ko": "test",
+        "en": "test",
+        "pt": "test",
+        "es": "test"
+    },
+    "eFZeCA": {
+        "ko": "boss test",
+        "en": "boss test",
+        "pt": "boss test",
+        "es": "boss test"
+    },
+    "eVZeCA": {
+        "ko": "battle",
+        "en": "battle",
+        "pt": "battle",
+        "es": "battle"
+    },
+    "elZeCA": {
+        "ko": "bonus test",
+        "en": "bonus test",
+        "pt": "bonus test",
+        "es": "bonus test"
+    },
+    "e1ZeCA": {
+        "ko": "!!",
+        "en": "!!",
+        "pt": "!!",
+        "es": "!!"
+    },
+    "fFZeCA": {
+        "ko": "!!!",
+        "en": "!!!",
+        "pt": "!!!",
+        "es": "!!!"
     }
 }

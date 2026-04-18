@@ -1889,7 +1889,8 @@ TB_Layer_Priority = {
 			Default = 304,
 			Direction = {}
 		},
-		[ACCESSORY_IDs.ACCESSORY_Bear_Candy_Cart] = {Default = 304, isIgnoreRiding = true}
+		[ACCESSORY_IDs.ACCESSORY_Bear_Candy_Cart] = {Default = 304, isIgnoreRiding = true},
+		[ACCESSORY_IDs.ACCESSORY_C_Luna_On_Shoulder] = {Default = 171}
 	},
 	IsIgnoredRidingState = function(acc_id)
 		local Items_List = TB_Layer_Priority.Items_List

@@ -38199,5 +38199,74 @@ SKILL_INFO_LIST = {
 			20,
 			25
 		}
+	},
+	[SKID.NPC_GROUNDDRIVE] = {
+		"NPC_GROUNDDRIVE",
+		SkillName = "GROUND DRIVE",
+		MaxLv = 5,
+		SpAmount = {
+			0,
+			0,
+			0,
+			0,
+			0
+		},
+		bSeperateLv = false,
+		AttackRange = {
+			9,
+			9,
+			9,
+			9,
+			9
+		},
+		SkillScale = {
+			[1] = {x = 5, y = 5},
+			[2] = {x = 5, y = 5},
+			[3] = {x = 5, y = 5},
+			[4] = {x = 5, y = 5},
+			[5] = {x = 5, y = 5}
+		}
+	},
+	[SKID.NPC_RAINOFMETEOR] = {
+		"NPC_RAINOFMETEOR",
+		SkillName = "RAIN OF METEOR",
+		MaxLv = 10,
+		SpAmount = {
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0
+		},
+		bSeperateLv = false,
+		AttackRange = {
+			9,
+			9,
+			9,
+			9,
+			9,
+			9,
+			9,
+			9,
+			9,
+			9
+		},
+		SkillScale = {
+			[1] = {x = 3, y = 3},
+			[2] = {x = 3, y = 3},
+			[3] = {x = 5, y = 5},
+			[4] = {x = 5, y = 5},
+			[5] = {x = 7, y = 7},
+			[6] = {x = 7, y = 7},
+			[7] = {x = 9, y = 9},
+			[8] = {x = 9, y = 9},
+			[9] = {x = 11, y = 11},
+			[10] = {x = 11, y = 11}
+		}
 	}
 }

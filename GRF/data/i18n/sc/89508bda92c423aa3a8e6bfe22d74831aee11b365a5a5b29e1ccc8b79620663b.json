@@ -193,8 +193,8 @@
     },
     "AKazDA": {
         "ko": "[켄]\n^0066CC독수리 오형제의 리더 켄^000000이다.\n이곳은 지금 ^0066CC갤랙터의 침략^000000을 받고 있다.\n^0066CC갤랙터 군단을 저지하기 위해서 협력^000000을 받고 싶군.",
-        "en": "[Ken]\nI am ^0066CCKen, leader of the Ninja Team^000000.\nThis place is currently under ^0066CCinvasion by the Galactor^000000.\nWe want your ^0066CCcooperation to stop the Galactor forces^000000.",
-        "pt": "[Ken]\nEu sou ^0066CCKen, líder do Ninja Team^000000.\nEste lugar está sob ^0066CCinvasão da Galactor^000000.\nNós gostaríamos de ^0066CCapoiar vocês para deter as forças da Galactor^000000.",
+        "en": "[Ken]\nI am ^0066CCG-1, Ken, the Eagle^000000. Also known as ^0066CCGatchaman^000000.\nLeader of the ^0066CCScience Ninja Team!^000000.\nThis place is currently under ^0066CCinvasion by the Galactor^000000.\nWe want your ^0066CCcooperation to stop the Galactor forces^000000.",
+        "pt": "[Ken]\nEu sou ^0066CCKen, líder do Science Ninja Team^000000.\nEste lugar está sob ^0066CCinvasão da Galactor^000000.\nNós gostaríamos de ^0066CCapoiar vocês para deter as forças da Galactor^000000.",
         "es": "[Ken]\nSoy ^0066CCKen, líder del Equipo Ninja^000000.\nEste lugar está bajo ^0066CCla invasión de Galactor^000000.\nNos gustaría ^0066CCayudarte a detener a las fuerzas de Galactor^000000."
     },
     "AaazDA": {
@@ -351,7 +351,7 @@
         "ko": "[모로크 주민]\n거기서 ^0066CC몬스터^000000 같이 생긴 것이 머리만 불쑥 나왔다가 다시 들어가는 거야!",
         "en": "[Morroc Resident]\nSomething that looked like a ^0066CCmonster^000000 stuck its head out from there and then went back in!",
         "pt": "[Habitante de Morroc]\nParecia ser um tipo de ^0066CCmonstro^000000 que estava botando a cabeça para ver o que tinha ao redor, depois voltou atrás!",
-        "es": "[Residente de Morroc]\n¡Parecía ser una especie de ^0066CCmonstruo^000000 que asomaba la cabeza para ver lo que había alrededor¡ Y luego retrocedió."
+        "es": "[Residente de Morroc]\n¡Parecía ser una especie de ^0066CCmonstruo^000000 que asomaba la cabeza para ver lo que había alrededor, y luego retrocedió!"
     },
     "G6azDA": {
         "ko": "[모로크 주민]\n너무 놀라서 자리에 주저앉아 있었더니 이번에는 그것이 완전히 빠져나와서 두리번거리지 뭔가!",
@@ -639,7 +639,7 @@
         "ko": "[수상한 꼬마]\n갤랙터 군단을 혼내 주려면 형님들을 만나야 할 텐데,\n나도 자세한 건 잘 몰라서 형님을 만나야 지금 이 상황이 어떻게 된 건지 알 수 있을 것 같아.",
         "en": "[Suspicious Kid]\nTo teach the Galactor forces a lesson, I need to find my brothers.\nI don't know the details either, so I think I need to talk to them to understand what's happening now.",
         "pt": "[Criança Suspeita]\nMas pra vencer as forças da Galactor, eu preciso encontrar meus irmãos.\nNão sei exatamente o que aconteceu, então eu preciso conversar com eles pra entender melhor.",
-        "es": "[Joven bajo sospecha]\nPara vencer a las fuerzas de Galactor, necesito encontrar a mis hermanos.\nNo sé exactamente qué ha pasado, así que necesito hablar con ellos para entenderlo mejor."
+        "es": "[Joven bajo sospecha]\nPara vencer a las fuerzas de Galactor, necesito encontrar a mis hermanos.\nNo sé exactamente qué ha pasado, así que necesito hablar con ellos para entender mejor la situación."
     },
     "S6azDA": {
         "ko": "[수상한 꼬마]\n이곳을 위한 것이기도 하니까 ^0066CC형님들 찾는 것 좀 도와^000000주라.",
@@ -721,9 +721,9 @@
     },
     "WKazDA": {
         "ko": "[진페이]\n역시 류도 혼자 떨어진 거야?\n대체 무슨 일이 일어난 거지?\n다들 무사 하겠지?",
-        "en": "[Jinpei]\nSo Ryu also got separated alone?\nWhat on earth happened?\nIs everyone safe?",
-        "pt": "[Jinpei]\nEntão o Ryu se separou dos outros?\nMas o que está acontecendo?\nSerá que estão todos seguros?",
-        "es": "[Jinpei]\n¿Entonces Ryu se separó de los demás?\nPero ¿qué está pasando?\n¿Estarán todos bien?"
+        "en": "[Jinpei]\nSo you also got separated from the others?\nWhat on earth happened?\nIs everyone safe?",
+        "pt": "[Jinpei]\nEntão você se separou dos outros?\nMas o que está acontecendo?\nSerá que estão todos seguros?",
+        "es": "[Jinpei]\n¿Entonces te has separado de los demás?\nPero ¿qué está pasando?\n¿Estarán todos bien?"
     },
     "WaazDA": {
         "ko": "[류]\n너무 걱정하지 마.\n그렇지 않아도 아까 길에서 ^0066CC하얀새 옷을 입은 사람^000000에 대한 이야기를 들었거든.\n아마 ^0066CC켄^000000일 거야.",
@@ -807,13 +807,13 @@
         "ko": "[류]\n뭐 이름이야 아무래도 좋잖아?",
         "en": "[Ryu]\nWell, the name doesn't really matter, right?",
         "pt": "[Ryu]\nBom, o nome em si não importa, né?",
-        "es": "[Ryu]\nBueno, el nombre en sí no importa, ¿no?"
+        "es": "[Ryu]\nBueno, el nombre en sí no importa, ¿verdad?"
     },
     "Z6azDA": {
         "ko": "[류]\n그것보다 일단 먼저 ^0066CC켄^000000부터 찾고 어떻게 할지 정해보자.\n^0066CC길^000000에서 들은 걸로는 아마 ^0066CC남쪽 문^000000으로 나간 것 같아.",
         "en": "[Ryu]\nMore importantly, let's find ^0066CCKen^000000 first and decide what to do.\nFrom what I heard on the ^0066CCstreet^000000, he probably went out the ^0066CCSouth Gate^000000.",
         "pt": "[Ryu]\nO mais importante é encontrarmos o ^0066CCKen^000000 e depois decidimos o que fazer.\nPelos boatos que ouvi na ^0066CCrua^000000, ele provavelmente saiu pelo ^0066CCPortão Sul^000000.",
-        "es": "[Ryu]\nLo más importante es encontrar a ^0066CCKen^000000 y luego decidir qué hacer.\nPor los rumores que he oído en ^0066CCla calle^000000, debe saber salido por ^0066CCla Puerta Sur^000000."
+        "es": "[Ryu]\nLo más importante es encontrar a ^0066CCKen^000000 y luego decidir qué hacer.\nPor los rumores que he oído en ^0066CCla calle^000000, debe haber salido por ^0066CCla Puerta Sur^000000."
     },
     "aKazDA": {
         "ko": "[류]\n일단 먼저 ^0066CC켄^000000부터 찾고 어떻게 할지 정해보자.\n^0066CC길^000000에서 들은 걸로는 아마 ^0066CC남쪽 문^000000으로 나간 것 같아.",
@@ -837,13 +837,13 @@
         "ko": "[류]\n아니 이 흉측하게 생긴 건 뭐지?",
         "en": "[Ryu]\nWhat is this ugly thing?",
         "pt": "[Ryu]\nQue coisa horrível é essa?",
-        "es": "[Ryu]\n¿Qué cosa horrible es esa?"
+        "es": "[Ryu]\n¿Qué es esa cosa horrible?"
     },
     "bKazDA": {
         "ko": "[진페이]\n이런 끔찍한 짓을 할 만한 건 ^0066CC갤랙터^000000 밖에 없어!\n크읏!\n비열한 갤랙터 놈들!!!\n이런 외진 곳까지 침략의 마수를 뻗다니!",
         "en": "[Jinpei]\nOnly ^0066CCGalactor^000000 could do such a terrible thing!\nGah!\nThose despicable Galactor guys!!!\nStretching their claws to invade even this remote place!",
         "pt": "[Jinpei]\nSó a ^0066CCGalactor^000000 seria capaz de fazer uma coisa tão terrível!\nArgh!\nTinha que ter as mãos sujas da Galactor!\nQuerem levar o que existe de pior até pra lugares remotos!",
-        "es": "[Jinpei]\n¡Solo ^0066CCGalactor^000000 sería capaz de hacer algo tan terrible!\n¡Argh!\n¡Por supuesto, esto tiene sus manos sucias!\n¡Quieren llevar lo que hay de más despreciable incluso a lugares remotos!"
+        "es": "[Jinpei]\n¡Solo ^0066CCGalactor^000000 sería capaz de hacer algo tan terrible!\n¡Argh!\n¡Galactor y sus sirvientes nefastos!\n¡Quieren poner sus sucias garras incluso hasta en este lugar tan remoto!"
     },
     "baazDA": {
         "ko": "[류]\n괴수도 괴수지만, 이 넓은 사막에서 ^0066CC켄^000000을 어떻게 찾는담?\n괴수를 처치하면서 온 사막을 찾아다니는 수밖에 없나?",
@@ -885,7 +885,7 @@
         "ko": "[진페이]\n정말 다행이야.",
         "en": "[Jinpei]\nThat's a real relief.",
         "pt": "[Jinpei]\nUfa, ainda bem mesmo.",
-        "es": "[Jinpei]\nUf, menos mal."
+        "es": "[Jinpei]\nSí, menos mal."
     },
     "dKazDA": {
         "ko": "[켄]\n그나저나 그 괴수는…",
@@ -903,7 +903,7 @@
         "ko": "[켄]\n그래.\n이 ^0066CC초록색의 괴수^000000.\n갤랙터의 짓이 분명하겠지.",
         "en": "[Ken]\nRight.\nThis ^0066CCgreen monster^000000.\nIt must be the work of Galactor.",
         "pt": "[Ken]\nÉ mesmo.\nEsse ^0066CCmonstro verde^000000.\nTem cara de coisa da Galactor.",
-        "es": "[Ken]\nEs verdad.\nEse ^0066CCmonstruo verde^000000.\nParece algo de Galactor."
+        "es": "[Ken]\nEs verdad.\nEse ^0066CCmonstruo verde^000000.\nGalactor debe estar involucrado."
     },
     "d6azDA": {
         "ko": "[켄]\n그리고 아까 사막을 돌아다니다가 ^0066CC폭탄이 설치된 오징어^000000도 발견했어.",
@@ -921,7 +921,7 @@
         "ko": "[진페이]\n그거 큰일이잖아?!\n사람들이 다치면 어떡해!",
         "en": "[Jinpei]\nThat's a big deal!\nWhat if people get hurt!?",
         "pt": "[Jinpei]\nNossa, isso é perigoso!\nAs pessoas podem se ferir!",
-        "es": "[Jinpei]\n¡Vaya, eso es peligroso!\n¡La gente puede resultar herida!"
+        "es": "[Jinpei]\n¡Vaya, eso es peligroso!\n¡Alguien puede resultar herido!"
     },
     "eqazDA": {
         "ko": "[켄]\n그런데 생각보다 ^0066CC약한 위력^000000이어서 사람들이 다칠 것 같지는 않아.\n먹물이 조금 튀고 비린내가 조금 나는 정도랄까?",
@@ -1093,7 +1093,7 @@
     },
     "lqazDA": {
         "ko": "[류]\n그럼 여긴 대체 어디야?",
-        "en": "[Ryu]\nThen where on earth is this?",
+        "en": "[Ryu]\nThen where on Earth is this?",
         "pt": "[Ryu]\nEntão em que terra estamos?",
         "es": "[Ryu]\nEntonces, ¿en qué tierra estamos?"
     },
@@ -1185,7 +1185,7 @@
         "ko": "[켄]\n아무래도 그럴 확률이 높을 거라고 생각해.\n일단 ^0066CC괴수들을 없애는 것에 집중^000000하자.\n잡다 보면 뭔가 ^0066CC정보^000000를 얻을 수 있을 거야.",
         "en": "[Ken]\nI think that's the most likely explanation.\nFor now, ^0066CClet's focus on eliminating the monsters^000000.\nAs we fight them, we might ^0066CCgather some information^000000.",
         "pt": "[Ken]\nEssa me parece ser a explicação mais lógica.\nPor enquanto, ^0066CCvamos nos concentrar em eliminar os monstros^000000.\nQuem sabe lutando com eles, consigamos ^0066CCdescobrir mais informações^000000.",
-        "es": "[Ken]\nEsa me parece la explicación más lógica.\nPor ahora, ^0066CCvamos a concentrarnos en eliminar a los monstruos^000000.\nSi luchamos contra ellos, por ahí podamos ^0066CCobtener más información^000000."
+        "es": "[Ken]\nEsa me parece la explicación más lógica.\nPor ahora, ^0066CCvamos a concentrarnos en eliminar a los monstruos^000000.\nSi luchamos contra ellos, tal vez podamos ^0066CCobtener más información^000000."
     },
     "pqazDA": {
         "ko": "[진페이]\n^0066CC죠^000000 형님이랑 ^0066CC쥰^000000 누나는?",
@@ -1299,19 +1299,19 @@
         "ko": "[진페이]\n아니 ^0066CC조사^000000는 어떡…",
         "en": "[Jinpei]\nBut what about the ^0066CCinvestigation^000000…",
         "pt": "[Jinpei]\nMas e a ^0066CCinvestigação^000000...",
-        "es": "[Jinpei]\nPero ¿y la ^0066CCinvestigación^000000..."
+        "es": "[Jinpei]\nPero ¿y la ^0066CCinvestigación^000000...?"
     },
     "uaazDA": {
         "ko": "[켄]\n쉿.\n조용히 날 따라와.\n방금 저 집 뒤에서 ^0066CC갤랙터의 병사^000000가 우릴 지켜보고 있었어.",
         "en": "[Ken]\nShh.\nFollow me quietly.\nJust now, a ^0066CCGalactor soldier^000000 was watching us from behind that house.",
-        "pt": "[Ken]\nShh.\nSilêncio, me siga.\nEu vi um ^0066CCsoldado da Galactor^000000 nos observando detrás daquela casa.",
-        "es": "[Ken]\nShh.\nSilencio, sígueme.\nHe visto a un ^0066CCsoldado de Galactor^000000 observándonos detrás de esa casa."
+        "pt": "[Ken]\nShh.\nSilêncio, me sigam.\nEu vi um ^0066CCsoldado da Galactor^000000 nos observando detrás daquela casa.",
+        "es": "[Ken]\nShh.\nSilencio, síganme.\nHe visto a un ^0066CCsoldado de Galactor^000000 observándonos detrás de esa casa."
     },
     "uqazDA": {
         "ko": "[진페이]\n뭣!",
         "en": "[Jinpei]\nWhat!",
         "pt": "[Jinpei]\nO quê?!",
-        "es": "[Jinpei]\n¿¡Qué!"
+        "es": "[Jinpei]\n¿¡Qué!?"
     },
     "u6azDA": {
         "ko": "[켄]\n쉿!",
@@ -1323,13 +1323,13 @@
         "ko": "[진페이]\n갤랙터 놈들이 있으면 바로 잡아야지.",
         "en": "[Jinpei]\nIf there are Galactor guys, we should capture them right away.",
         "pt": "[Jinpei]\nSe encontrarmos caras da Galactor, devemos capturar eles imediatamente.",
-        "es": "[Jinpei]\nSi vemos a los de Galactor, tenemos que capturarlos inmediatamente."
+        "es": "[Jinpei]\nSi son miembros de Galactor, tenemos que capturarlos de inmediato."
     },
     "vaazDA": {
         "ko": "[켄]\n지금은 병사 하나를 잡는 것보다 그 병사가 ^0066CC우리의 정보를 가지고 어디로 가는지^000000 알아내는 게 더 중요할 거야.",
         "en": "[Ken]\nRight now, rather than capturing one soldier, it's more important to find out ^0066CCwhere that soldier goes with our information^000000.",
         "pt": "[Ken]\nPor enquanto, em vez de capturar um soldado, o mais importante seria ^0066CCdescobrir aonde aquele soldado pretende levar nossas informações^000000.",
-        "es": "[Ken]\nPor ahora, en lugar de capturar a un soldado, lo más importante sería ^0066CCdescubrir a dónde pretende llevar esa información ese soldado^000000."
+        "es": "[Ken]\nPor ahora, en lugar de capturar a un soldado, lo más importante sería ^0066CCdescubrir a dónde pretende llevar esa información^000000."
     },
     "vqazDA": {
         "ko": "[진페이]\n아!\n그렇구나!\n역시 형님이야!",
@@ -1389,7 +1389,7 @@
         "ko": "[갤랙터 병사]\n^0066CC베르크 캇셰^000000님!",
         "en": "[Galactor Soldier]\n^0066CCLord Berg Katse^000000!",
         "pt": "[Soldado da Galactor]\n^0066CCSr. Berg Katse^000000!",
-        "es": "[Soldado de Galactor]\n¡Sr. Berg Katse!"
+        "es": "[Soldado de Galactor]\n¡Lord Berg Katse!"
     },
     "yKazDA": {
         "ko": "[베르크 캿셰]\n뭐지?",
@@ -1400,14 +1400,14 @@
     "yaazDA": {
         "ko": "[갤랙터 병사]\n^0066CC마을 북쪽^000000에서 ^0066CC독수리 오형제^000000 놈들을 발견했습니다.",
         "en": "[Galactor Soldier]\nWe spotted the ^0066CCNinja Team^000000 in the ^0066CCnorth part of the village^000000.",
-        "pt": "[Soldado da Galactor]\nNós avistamos a ^0066CCEquipe Ninja^000000 na ^0066CCparte norte da cidade^000000.",
+        "pt": "[Soldado da Galactor]\nNós avistamos a ^0066CCNinja Team^000000 na ^0066CCparte norte da cidade^000000.",
         "es": "[Soldado de Galactor]\nHemos visto al ^0066CCEquipo Ninja^000000 en ^0066CCla parte norte de la ciudad^000000."
     },
     "yqazDA": {
         "ko": "[베르크 캿셰]\n뭣!\n그 지긋지긋한 놈들 어떻게 여기까지 쫓아온 거지.",
         "en": "[Berg Katse]\nWhat!?\nHow did those pesky guys chase us all the way here?",
         "pt": "[Berg Katse]\nO quê?!\nComo esses fedelhos nos seguiram até aqui?",
-        "es": "[Berg Katse]\n¿Qué?\n¿Cómo te han seguido hasta aquí esos mocosos?"
+        "es": "[Berg Katse]\n¿Qué?\n¿Cómo nos han seguido hasta aquí esos mocosos?"
     },
     "y6azDA": {
         "ko": "[갤랙터 병사]\n^0066CC더미로 만들어둔 포탈^000000 앞에서 어쩌지도 못하고 있는 것 같았습니다.\n이곳의 주민들과 대화를 나누더니 포기하고 음료나 마시러 간다고 했습니다.",
@@ -1419,13 +1419,13 @@
         "ko": "[베르크 캿셰]\n그렇군.\n놈들이 아직 이 ^0066CC포탈^000000을 찾아내지 못한 것 같으니 ^0066CC계획대로 침략^000000을 진행하도록!",
         "en": "[Berg Katse]\nI see.\nIt seems they haven't found this ^0066CCportal^000000 yet.\nProceed with the ^0066CCinvasion as planned^000000!",
         "pt": "[Berg Katse]\nCerto.\nParece que eles ainda não encontraram este ^0066CCportal^000000.\nProssigam com o ^0066CCplano da invasão^000000!",
-        "es": "[Berg Katse]\nDe acuerdo.\nParece que aún no han encontrado este ^0066CCportal^000000.\n¡Sigan adelante con el ^0066CCplan de invasión^000000!"
+        "es": "[Berg Katse]\nYa veo.\nParece que aún no han encontrado este ^0066CCportal^000000.\n¡Sigan adelante con el ^0066CCplan de invasión^000000!"
     },
     "zaazDA": {
         "ko": "[베르크 캿셰]\n^0066CC지구를 침략하려던 계획은 실패^000000했지만, 이곳이라도 점령하면 ^0066CC총재X님^000000께서도 기뻐하실 거다!",
         "en": "[Berg Katse]\nThe plan to ^0066CCinvade Earth may have failed^000000, but if we at least conquer  this place, ^0066CCLeader X^000000 will be pleased!",
         "pt": "[Berg Katse]\nO plano de ^0066CCinvadir a Terra pode ter falhado^000000, mas se conquistarmos pelo menos esse lugar, ^0066CCLíder X^000000 ficará contente!",
-        "es": "[Berg Katse]\nPuede que el plan de ^0066CCinvadir la Tierra haya fracasado^000000, pero si conquistamos al menos este lugar, ^0066CCLíder X^000000 estará contento."
+        "es": "[Berg Katse]\nPuede que ^0066CChaya fracasado el plan de invadir la Tierra^000000, pero si conquistamos al menos este lugar, ^0066CCel Líder X^000000 estará contento."
     },
     "zqazDA": {
         "ko": "[베르크 캿셰]\n지금은 ^0066CC약해 빠진 괴수^000000들 밖에 데려오지 못하지만, 곧 ^0066CC강력한 괴수^000000를 불러내 ^0066CC미드가르드^000000를 엉망진창으로 만들어 주겠다!\n음핫핫핫핫핫!",
@@ -1461,7 +1461,7 @@
         "ko": "[켄]\n지금 무작정 달려들었다가 ^0066CC포탈이 닫혀 버리기라도 한다면 일을 다 망쳐^000000버리게 될 거야.",
         "en": "[Ken]\nIf we rush in recklessly now, we might ^0066CCruin everything if the portal closes^000000.",
         "pt": "[Ken]\nSe avançarmos de qualquer jeito agora, ^0066CCo portal pode se fechar e estragar tudo^000000.",
-        "es": "[Ken]\nSi avanzamos ahora sin más, ^0066CCel portal podría cerrarse y arruinarlo todo^000000."
+        "es": "[Ken]\nSi nos lanzamos a ciegas ahora, ^0066CCel portal podría cerrarse y lo arruinaríamos todo^000000."
     },
     "1KazDA": {
         "ko": "[진페이]\n크읏!",
@@ -1587,7 +1587,7 @@
         "ko": "[진페이]\n형님!\n^0066CC쥰^000000 누나랑 ^0066CC죠^000000 형님은 어쩌고.",
         "en": "[Jinpei]\nBrother!\nWhat about ^0066CCJun^000000 and ^0066CCJoe^000000?",
         "pt": "[Jinpei]\nIrmão!\nMas e a ^0066CCJun^000000 e o ^0066CCJoe^000000?",
-        "es": "[Jinpei]\n¡Hermano!\n¿Pero qué pasa con ^0066CCJun^000000 y ^0066CCJoe^000000?"
+        "es": "[Jinpei]\n¡Hermano!\n¿Pero qué pasará con ^0066CCJun^000000 y ^0066CCJoe^000000?"
     },
     "6aazDA": {
         "ko": "[켄]\n아까 ^0066CC베르크 캇셰^000000가 한 말을 생각해 봐.\n지금 이곳에 와있는 괴수들은 매우 약하지만 곧 ^0066CC강력한 괴수^000000를 불러들일 생각인 거야.",
@@ -1605,7 +1605,7 @@
         "ko": "[켄]\n그리고 우릴 찾아올 수 있도록 여기 조사단분들에게 맡겨 두자고.",
         "en": "[Ken]\nAnd let's leave it to the investigators here so they can find us.",
         "pt": "[Ken]\nVamos deixar para os detetives investigarem e ajudarem eles a nos encontrar.",
-        "es": "[Ken]\nDejemos que los detectives investiguen y ayuden a encontrarnos."
+        "es": "[Ken]\nDejemos que los detectives investiguen. Así Jun y Joe podrán encontrarnos."
     },
     "7KazDA": {
         "ko": "[[긴급]변칙 균열 조사관]\n아!\n^0066CC비슷한 복장^000000의 분들이 오면 말을 전해 달라는 거죠?\n조사단에 전해둘게요.",
@@ -1701,7 +1701,7 @@
         "ko": "[켄]\n포탈 기계는 고장 냈지만 베르크 캇셰가 지구로 가는 포탈 앞을 거대한 문으로 막아놨어.",
         "en": "[Ken]\nWe broke the portal machine, but Berg Katse blocked the front of the portal to Earth with a huge door.",
         "pt": "[Ken]\nNós quebramos a máquina do portal, mas o Berg Katse bloqueou a conexão com a Terra com uma porta imensa.",
-        "es": "[Ken]\nHemos roto la máquina del portal, pero Berg Katse ha bloqueado la conexión con la Tierra con una puerta enorme."
+        "es": "[Ken]\nHemos destruido la máquina del portal, pero Berg Katse ha bloqueado la conexión con la Tierra con una puerta enorme."
     },
     "/KazDA": {
         "ko": "[죠]\n분하다.",
@@ -1743,7 +1743,7 @@
         "ko": "[죠]\n지금 우리 힘만으로는 문을 부수기 힘들 것 같군.",
         "en": "[Joe]\nWith just our strength now, breaking the door seems difficult.",
         "pt": "[Joe]\nSó com nossa força vai ser difícil quebrar a porta.",
-        "es": "[Joe]\nParece que va a ser difícil romper esa puerta solo con nuestra fuerza."
+        "es": "[Joe]\nParece que va a ser difícil destruir esa puerta solo con nuestra fuerza."
     },
     "A6ezDA": {
         "ko": "[진페이]\n그럼 우린 지구로 영영 못 돌아가는 거야?",
@@ -1773,7 +1773,7 @@
         "ko": "[[긴급]변칙 균열 조사관]\n아 그거 말인데요.\n실내에서 강력한 미사일을 쏠 수는 없으니 위험하지 않을 정도의 ^0066CC폭약^000000을 만들면 문을 부술 수 있지 않을까요?",
         "en": "[Anomaly Fissure Investigator]\nAh, speaking of that.\nWe can't fire a powerful missile indoors, but if we make an ^0066CCexplosive^000000 that isn't too dangerous, couldn't we break the door?",
         "pt": "[Detetive da Fenda Anômala]\nAh, falando nisso.\nNão podemos disparar um míssil tão poderoso dentro do local, mas e se fizermos um ^0066CCexplosivo^000000 que não seja tão perigoso, mas seja capaz de quebrar a porta?",
-        "es": "[Detective de la Grieta Anómala]\nAh, por cierto.\nNo podemos disparar un misil tan potente dentro de ese lugar, pero ¿y si fabricamos un ^0066CCexplosivo^000000 que no sea tan peligroso y que sea capaz de romper la puerta?"
+        "es": "[Detective de la Grieta Anómala]\nAh, por cierto.\nNo podemos disparar un misil tan potente dentro de ese lugar, pero ¿y si fabricamos un ^0066CCexplosivo^000000 que no sea tan peligroso y que sea capaz de destruir la puerta?"
     },
     "CKezDA": {
         "ko": "[죠]\n폭약을 만들 수 있나?",
@@ -1797,7 +1797,7 @@
         "ko": "[[긴급]변칙 균열 조사관]\n그 문을 부술 정도로 폭약을 준비하려면 꽤 오랜 시간이 걸릴지도 몰라요.",
         "en": "[Anomaly Fissure Investigator]\nPreparing enough explosive to break that door might take quite a long time.",
         "pt": "[Detetive da Fenda Anômala]\nPreparar explosivos para quebrar aquela porta pode levar um bom tempo.",
-        "es": "[Detective de la Grieta Anómala]\nPreparar explosivos para romper esa puerta puede llevar bastante tiempo."
+        "es": "[Detective de la Grieta Anómala]\nPreparar explosivos para destruir esa puerta puede llevar bastante tiempo."
     },
     "DKezDA": {
         "ko": "[죠]\n돌아갈 수 있다면 그런 건 문제 없다.",
@@ -1815,7 +1815,7 @@
         "ko": "[진페이]\n이름 짓는 센스 너무 없는 거 아니야?",
         "en": "[Jinpei]\nIsn't that just a terrible name?",
         "pt": "[Jinpei]\nMas esse nome não é horrível?",
-        "es": "[Jinpei]\n¿Pero no es horrible ese nombre?"
+        "es": "[Jinpei]\n¡Qué nombre tan ridículo!"
     },
     "D6ezDA": {
         "ko": "[[긴급]변칙 균열 조사관]\n아무튼 ^0066CC갤래링^000000과 ^0066CC오징어 폭탄^000000을 ^0066CC5마리^000000 정도씩 잡아서 ^0066CC미드 파우더^000000를 ^0066CC5개^000000 가져오시면 ^0066CC미드 미사일^000000 만들기를 시도해 보죠.\n폭약 기술자는 조사단에 얘기해서 수배해 놓을게요.",
@@ -1851,7 +1851,7 @@
         "ko": "[켄]\n베르크 캇셰를 혼내주러 가자.\n또 포탈 장치를 야금야금 고치고 있는 모양이야.",
         "en": "[Ken]\nLet's go teach Berg Katse a lesson.\nHe seems to be secretly fixing the portal device again.",
         "pt": "[Ken]\nVamos dar uma lição no Berg Katse.\nParece que ele voltou a consertar o dispositivo do portal secretamente.",
-        "es": "[Ken]\nVamos a preparar una lección para Berg Katse.\nParece que ha vuelto a reparar el dispositivo del portal en secreto."
+        "es": "[Ken]\nVamos a darle una lección a Berg Katse.\nParece que ha vuelto a reparar el dispositivo del portal en secreto."
     },
     "FaezDA": {
         "ko": "[켄]\n왔군.\n안정화 해둔 그 포탈 말인데,",
@@ -1863,7 +1863,7 @@
         "ko": "[켄]\n문이 닫히지 않는다는 걸 눈치챘는지 오히려 여기저기에 작은 포탈을 연결해서 괴수를 마구 내보내고 있는 모양이야.",
         "en": "[Ken]\nIt seems he noticed the door won't close. Instead, he's connecting small portals everywhere and spewing out monsters like crazy.",
         "pt": "[Ken]\nParece que ele percebeu que a porta não vai mais fechar. Então decidiu conectar pequenos portais por todo lugar e enviar monstros freneticamente.",
-        "es": "[Ken]\nParece que se ha dado cuenta de que la puerta ya no se cerrará. Así que ha decidido conectar pequeños portales por todas partes y enviar monstruos frenéticamente."
+        "es": "[Ken]\nParece que se ha dado cuenta de que la puerta ya no se cerrará. Así que ha decidido conectar pequeños portales por todas partes y enviar monstruos sin parar."
     },
     "F6ezDA": {
         "ko": "[켄]\n우리가 포탈 안에 들어가지 못하는 틈을 타서 포탈 장치도 몰래 조금씩 고치고 것 같으니 완전히 수리하기 전에 또 망가뜨려 두는 게 좋겠어.",
@@ -2037,7 +2037,7 @@
         "ko": "좋아! 다 박살내 줄 테다.",
         "en": "Alright! I'll smash them all to pieces.",
         "pt": "Agora sim vou destroçar tudo em pedacinhos.",
-        "es": "Ahora sí que voy a destrozarlo todo en pedacitos."
+        "es": "¡Muy bien! Los haré añicos a todos."
     },
     "NKezDA": {
         "ko": "갤랙터의 괴수는 돌아가지 못할 거다.",
@@ -2241,7 +2241,7 @@
         "ko": "[죠]\n큿!\n날 어떻게 찾은 거지?\n가까이 오지 마!",
         "en": "[Joe]\nTsk!\nHow did you find me?\nDon't come close!",
         "pt": "[Joe]\nTsc!\nComo me encontraram?\nNão se aproximem!",
-        "es": "[Joe]\n¡Tsk!\n¿Cómo me han encontrado?\n¡No se acerquen!"
+        "es": "[Joe]\n¡Tsk!\n¿Cómo me encontraron?\n¡No se acerquen!"
     },
     "VqezDA": {
         "ko": "돌아가자.",
@@ -2253,7 +2253,7 @@
         "ko": "[죠]\n다들 너무 느긋한 거 아냐?\n이런 식으로 느긋하게 준비해서 언제 지구로 돌아가겠다는 거야!\n나 혼자서라도 갤랙터의 문을 쳐부숴 보이겠어!",
         "en": "[Joe]\nAren't you all too relaxed?\nPreparing leisurely like this, how do you plan to return to Earth?\nI'll break down Galactor's door myself, even if I have to do it alone!",
         "pt": "[Joe]\nNão estamos pegando leve demais?\nÉ desse jeito que pretendemos voltar pra Terra?\nEu vou quebrar essa porta do Galactor com minhas mãos, sozinho se for preciso!",
-        "es": "[Joe]\n¿No estamos yendo demasiado despacio?\nAsí, ¿cómo pretenden volver a la Tierra?\n¡Voy a romper esa puerta de Galactor con mis propias manos, si necesario!"
+        "es": "[Joe]\n¿No estamos yendo demasiado despacio?\nAsí, ¿cómo pretenden volver a la Tierra?\n¡Voy a destruir esa puerta de Galactor con mis propias manos, si es necesario!"
     },
     "WKezDA": {
         "ko": "위험하다.",
@@ -2295,6 +2295,6 @@
         "ko": "[죠]\n미안했다.\n우리가 자릴 비운 사이에 지구에 무슨 일이 일어나고 있을지 걱정이 돼서 그만 못난 모습을 보이고 말았군.\n부끄러운 모습은 빨리 잊어줘.",
         "en": "[Joe]\nI'm sorry.\nI was worried about what might be happening on Earth while we're away, and ended up showing an unsightly side.\nPlease quickly forget this embarrassing sight.",
         "pt": "[Joe]\nMe desculpa.\nEu fiquei tão preocupado com o que poderia estar acontecendo na Terra que acabei deixando minha raiva falar mais alto.\nPor favor, peço que perdoe o meu vexame.",
-        "es": "[Joe]\nLo siento.\nEstaba tan preocupado por lo que podría estar pasando en la Tierra que dejé que mi ira se impusiera.\nPor favor, perdona mi vergüenza."
+        "es": "[Joe]\nLo siento.\nEstaba tan preocupado por lo que pudiera estar pasando en la Tierra que dejé que mi rabia hablara por mí.\nPor favor, olvida mi arrebato."
     }
 }
