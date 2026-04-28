@@ -14,13 +14,13 @@
     "gpbNDA": {
         "ko": "파티장이 오염단계를 결정하고나면 바로 이곳의 정화작업을 시작할 거예요. 그 전까지 전투에 필요한 준비를 해두세요.",
         "en": "Once the party leader decides the contamination stage, we will immediately begin the purification work here. Until then, please prepare what you need for the battle.",
-        "pt": "Assim que o líder do grupo decidir o nível de contaminação, começaremos imediatamente o processo de purificação aqui. Até lá, preparem-se para a batalha.",
+        "pt": "Assim que o líder decidir o nível, iniciaremos a purificação. Até lá, preparem-se.",
         "es": "Una vez que el líder del grupo decida el nivel de contaminación, comenzaremos inmediatamente el trabajo de purificación aquí. Hasta entonces, preparen todo lo necesario para el combate."
     },
     "g5bNDA": {
         "ko": "[오스카]\n휴~ 여긴 확실히 많이 뒤틀려있군요, 공기에 퍼진 마력의 밀도가 달라요.",
         "en": "[Oscar]\nPhew~ This place is certainly heavily twisted. The density of magical power in the air feels different.",
-        "pt": "[Oscar]\nUfa~ Este lugar realmente está muito distorcido. A densidade da magia espalhada no ar é diferente.",
+        "pt": "[Oscar]\nUau~ Este lugar está muito distorcido. A densidade da magia espalhada no ar é diferente.",
         "es": "[Oscar]\nUf~ Este lugar está realmente muy distorsionado. La densidad de la magia en el aire es diferente."
     },
     "hJbNDA": {
@@ -32,19 +32,19 @@
     "hZbNDA": {
         "ko": "자 이제부터 잘 들으세요. {0}씨가 얼마나 많은 경험을 이곳에서 했느냐에 따라 제가 공개할 수 있는 차원의 갯수가 달라질거예요.",
         "en": "Now listen carefully. Depending on how much experience {0} has gained here, the number of dimensions I can reveal will vary.",
-        "pt": "Agora escutem com atenção. Dependendo de quanta experiência o Sr./Sra. {0} adquiriu neste lugar, o número de dimensões que posso revelar será diferente.",
+        "pt": "Atenção! O nível de contaminação depende do número de vezes que {0} esteve aqui.",
         "es": "Ahora escuchen bien. La cantidad de dimensiones que puedo revelar dependerá de cuánta experiencia tenga {0} en este lugar."
     },
     "hpbNDA": {
         "ko": "자 이제부터 잘 들으세요. {0}씨가 속한 {1} 파티의 파티장이 얼마나 많은 경험을 이곳에서 했느냐에 따라 제가 공개할 수 있는 차원의 갯수가 달라질거예요.",
         "en": "Now listen carefully. Depending on how much experience the party leader of the {1} party that {0} belongs to has gained here, the number of dimensions I can reveal will vary.",
-        "pt": "Agora escutem com atenção. Dependendo de quanta experiência o líder do grupo {1}, ao qual o Sr./Sra. {0} pertence, adquiriu neste lugar, o número de dimensões que posso revelar será diferente.",
+        "pt": "Atenção! O nível de contaminação depende do número de vezes que {0}, líder do grupo {1}, esteve aqui.",
         "es": "Ahora escuchen bien. La cantidad de dimensiones que puedo revelar dependerá de cuánta experiencia tenga el líder del grupo {1} al que pertenece {0} en este lugar."
     },
     "h5bNDA": {
         "ko": "[오스카]\n많은 횟수를 경험한 파티장일수록 좀더 오염된 심도의 차원에 감응할 수 있죠. 이 점을 먼저 이해해줬으면 해요.",
         "en": "[Oscar]\nThe more times a party leader has experienced this place, the deeper contaminated dimensions they can resonate with. I hope you understand this first.",
-        "pt": "[Oscar]\nQuanto mais experiências o líder do grupo tiver, mais ele poderá ressoar com dimensões de contaminação mais profundas. Espero que compreendam isso primeiro.",
+        "pt": "[Oscar]\nQuanto mais vivências o líder do grupo tiver, mais profundo será o nível de contaminação liberado. Espero que compreendam isso.",
         "es": "[Oscar]\nCuantas más veces lo haya experimentado el líder del grupo, más profundas y contaminadas serán las dimensiones a las que podrá resonar. Me gustaría que entendieran esto primero."
     },
     "iJbNDA": {
@@ -110,7 +110,7 @@
     "kpbNDA": {
         "ko": "[오스카]\n{0}씨가 갈 수 있는 오염심도의 리스트예요. 오염도가 심할수록 난이도가 어려워지니 신중하게 고르셔야해요. 물론 제가 드리는 보상의 가치도 달라지겠지만요.",
         "en": "[Oscar]\nThis is the list of contamination depths that {0} can access. The higher the contamination level, the harder the difficulty becomes, so choose carefully. Of course, the value of the rewards I provide will also change.",
-        "pt": "[Oscar]\nEsta é a lista de níveis de contaminação que o Sr./Sra. {0} pode acessar. Quanto maior a contaminação, maior será a dificuldade, então escolha com cuidado. Claro, o valor das recompensas que ofereço também será diferente.",
+        "pt": "[Oscar]\nEsta é a lista de níveis de contaminação que {0} pode acessar. Quanto maior a contaminação, maior será a dificuldade, então escolha com cuidado. Claro, o valor das recompensas que ofereço também será diferente.",
         "es": "[Oscar]\nEsta es la lista de profundidades de contaminación a las que {0} puede acceder. Cuanto mayor sea la contaminación, mayor será la dificultad, así que elige con cuidado. Por supuesto, el valor de las recompensas que otorgo también cambiará."
     },
     "k5bNDA": {
@@ -122,13 +122,13 @@
     "lJbNDA": {
         "ko": "[오스카]\n아, 아직 준비가 안되셨군요.",
         "en": "[Oscar]\nAh, it seems you are not ready yet.",
-        "pt": "[Oscar]\nAh, ainda não estão prontos.",
+        "pt": "[Oscar]\nAh, ainda não estão prontos?",
         "es": "[Oscar]\nAh, parece que aún no están preparados."
     },
     "lZbNDA": {
         "ko": "[오스카]\n^0000FF{0}명^000000의 파티원으로 진행하는게 맞나요? ^FF0000 모두가 입장하기 전에 진행해버린다면 큰 문제가 생길 수 있어요.^000000",
         "en": "[Oscar]\nIs it correct that you will proceed with ^0000FF{0} party members^000000? ^FF0000If you proceed before everyone has entered, serious problems may occur.^000000",
-        "pt": "[Oscar]\nEstá correto prosseguir com um grupo de ^0000FF{0} membros^000000? ^FF0000Se começarmos antes de todos entrarem, pode causar um grande problema.^000000",
+        "pt": "[Oscar]\nSeu grupo tem ^0000FF{0} membros^000000 nesta área? ^FF0000Se começarmos antes de todos entrarem, pode causar um grande problema.^000000",
         "es": "[Oscar]\n¿Es correcto que procederán con un grupo de ^0000FF{0} miembros^000000? ^FF0000Si comienzan antes de que todos hayan entrado, podría ocurrir un gran problema.^000000"
     },
     "lpbNDA": {
@@ -152,13 +152,13 @@
     "mZbNDA": {
         "ko": "[오스카]\n차원 여행자 ^0000FF{0}명^000000 등록 완료했습니다. 전투중에 차원 여행자 인원이 변동되면 큰 사고가 날 수 있으니 조심하세요.",
         "en": "[Oscar]\nRegistration of ^0000FF{0} dimensional travelers^000000 is complete. If the number of dimensional travelers changes during battle, a serious accident may occur, so please be careful.",
-        "pt": "[Oscar]\nRegistro concluído para ^0000FF{0} viajantes dimensionais^000000. Tenham cuidado, pois se o número de viajantes dimensionais mudar durante a batalha, poderá causar um grande acidente.",
+        "pt": "[Oscar]\nRegistrei um grupo de ^0000FF{0}^000000. Cuidado, pois se o número de pessoas mudar durante a batalha, poderá causar um grande acidente.",
         "es": "[Oscar]\nSe han registrado ^0000FF{0} viajeros dimensionales^000000. Si el número de viajeros cambia durante el combate, podría ocurrir un gran accidente, así que tengan cuidado."
     },
     "mpbNDA": {
         "ko": "처치 완료",
         "en": "Defeat Complete",
-        "pt": "Eliminação Concluída",
+        "pt": "Descontaminação Concluída",
         "es": "Eliminación completada"
     },
     "m5bNDA": {
@@ -176,13 +176,13 @@
     "nZbNDA": {
         "ko": "좀 더 둘러본다",
         "en": "Look around a bit more",
-        "pt": "Quero olhar um pouco mais",
+        "pt": "Quero olhar um pouco mais.",
         "es": "Explorar un poco más"
     },
     "npbNDA": {
         "ko": "내보내줘요",
         "en": "Please send me out",
-        "pt": "Por favor, nos envie para fora",
+        "pt": "Por favor, nos envie para fora.",
         "es": "Sácanos de aquí"
     },
     "n5bNDA": {
@@ -212,127 +212,127 @@
     "o5bNDA": {
         "ko": "[오스카]\n정말 엄청나게 이곳을 드나드셨네요. 하지만 100회출입 이후로는 딱히 제가 기록을 해두진 않는답니다.",
         "en": "[Oscar]\nYou have truly come and gone from this place countless times. However, after 100 entries, I no longer keep records.",
-        "pt": "[Oscar]\nVocês realmente visitaram este lugar inúmeras vezes. No entanto, depois de 100 entradas eu não registro mais.",
+        "pt": "[Oscar]\nVocês realmente visitaram este lugar inúmeras vezes. No entanto, depois de 100 entradas eu não registro mais os sucessos.",
         "es": "[Oscar]\nRealmente han visitado este lugar muchísimas veces. Pero después de 100 entradas ya no llevo más registros."
     },
     "pJbNDA": {
         "ko": "상급 보스 히멜메즈",
         "en": "Advanced Boss Himmelmez",
-        "pt": "Chefe Superior Himmelmez",
+        "pt": "Miragem de Himmelmez",
         "es": "Jefe superior Himmelmez"
     },
     "pZbNDA": {
         "ko": "암다라이스",
         "en": "Amdarais",
-        "pt": "Amdarais",
+        "pt": "Miragem de Amdarais",
         "es": "Amdarais"
     },
     "ppbNDA": {
         "ko": "[관리자모드]\n환영 처치 - {0}\n타락한 뿌리 - {1}\n광폭화 횟수 - {2}\n초기화 횟수 - {3}\n성역발동 횟수 - {4}\n오스카를 짜증나게 만듬 - {5}\n사신충돌 - {6}",
         "en": "[Administrator Mode]\nIllusions Defeated - {0}\nCorrupted Roots - {1}\nBerserk Count - {2}\nReset Count - {3}\nSanctuary Activation Count - {4}\nAnnoyed Oscar - {5}\nReaper Collision - {6}",
-        "pt": "[Modo Administrador]\nIlusões eliminadas - {0}\nRaízes Corrompidas - {1}\nVezes em Fúria - {2}\nReinicializações - {3}\nAtivações do Santuário - {4}\nIrritou Oscar - {5}\nColisões com Ceifador - {6}",
+        "pt": "[Modo Administrador]\nMonstros eliminadas - {0}\nOrigens da Corrupção - {1}\nVezes Enlouquecido - {2}\nRecomeço de batalha - {3}\nAtivações do círculo - {4}\nIrritou Oscar - {5}\nColisões com Ceifeiro - {6}",
         "es": "[Modo Administrador]\nIlusiones eliminadas - {0}\nRaíces corruptas - {1}\nVeces en frenesí - {2}\nVeces reiniciado - {3}\nActivaciones de santuario - {4}\nMolestar a Oscar - {5}\nColisiones con la Parca - {6}"
     },
     "p5bNDA": {
         "ko": "[오스카]\n이 오염된 차원을 소멸시키는데 힘을 보탠 모험가분들에게 공적치 결산을 해드릴 시간이군요~",
         "en": "[Oscar]\nIt is time to calculate the merit score for the adventurers who helped eliminate this Tainted Dimension~",
-        "pt": "[Oscar]\nAgora é hora de calcular os méritos dos aventureiros que ajudaram a destruir esta Dimensão Contaminada~",
+        "pt": "[Oscar]\nAgora é hora de calcular os méritos daqueles que ajudaram a destruir esta Dimensão Infernal~",
         "es": "[Oscar]\nEs hora de calcular los méritos de los aventureros que ayudaron a eliminar esta Dimensión contaminada~"
     },
     "qJbNDA": {
         "ko": "[오스카]\n으음...{0} 등급 난이도로 {1}를 잘 처치하셨군요 그외의 가산점이 될만한걸 보도록하죠.",
         "en": "[Oscar]\nHmm... You have successfully defeated {1} at difficulty level {0}. Let us see what additional bonus points may apply.",
-        "pt": "[Oscar]\nHmm... vocês derrotaram bem {1} na dificuldade de nível {0}. Agora vamos verificar os possíveis bônus adicionais.",
+        "pt": "[Oscar]\nHmm... vocês derrotaram a {1} na dificuldade {0}. Agora vamos verificar os possíveis bônus adicionais.",
         "es": "[Oscar]\nHmm... han derrotado correctamente a {1} en dificultad de nivel {0}. Veamos qué otros puntos adicionales pueden obtener."
     },
     "qZbNDA": {
         "ko": "[오스카]\n{0} 인의 환영을 보스 공략중에 성불시켰네요. 가산점이 추가되어야겠죠.",
         "en": "[Oscar]\nYou have laid {0} illusions to rest during the boss battle. Bonus points should be added.",
-        "pt": "[Oscar]\nDurante a batalha contra o chefe, vocês libertaram {0} ilusões. Isso merece um bônus.",
+        "pt": "[Oscar]\nDurante a batalha contra a miragem, vocês libertaram {0} monstros. Isso merece um bônus.",
         "es": "[Oscar]\nHan liberado a {0} ilusiones durante el combate contra el jefe. Eso merece puntos adicionales."
     },
     "qpbNDA": {
         "ko": "[오스카]\n환영을 한명도 성불시키지 않았군요. 이건 다른의미로 대단하지만 가산점은 드리기 힘들겠네요.",
         "en": "[Oscar]\nYou did not lay a single illusion to rest. That is impressive in another sense, but it will be difficult to grant bonus points.",
-        "pt": "[Oscar]\nVocês não libertaram nenhuma ilusão. Isso é impressionante de outra forma, mas não posso conceder bônus.",
+        "pt": "[Oscar]\nVocês não libertaram nenhum monstro. Isso é impressionante, mas não posso conceder bônus.",
         "es": "[Oscar]\nNo liberaron ni una sola ilusión. Es impresionante en otro sentido, pero será difícil otorgar puntos adicionales."
     },
     "q5bNDA": {
         "ko": "[오스카]\n {0} 인의 환영을 보스 공략중에 성불시켰네요. 딱히 가산점을 드릴만 한 기록은 아닌것 같고요...",
         "en": "[Oscar]\nYou laid {0} illusions to rest during the boss battle. It does not seem like a record worthy of bonus points...",
-        "pt": "[Oscar]\nVocês libertaram {0} ilusões durante a batalha contra o chefe. Não parece ser um registro digno de bônus...",
+        "pt": "[Oscar]\nVocês libertaram {0} monstros durante a batalha contra a miragem. Não parece ser um registro digno de bônus...",
         "es": "[Oscar]\nHan liberado a {0} ilusiones durante el combate contra el jefe. No parece un registro que merezca puntos adicionales..."
     },
     "rJbNDA": {
         "ko": "[오스카]\n그리고 타락한뿌리 {0} 마리를 자결하기전에 처리하셨군요. 이곳 차원이 상당히 정화되었습니다. 이 부분 가산점 추가됩니다.",
         "en": "[Oscar]\nAnd you dealt with {0} Corrupted Roots before they self-destructed. This dimension has been significantly purified. Bonus points will be added for this.",
-        "pt": "[Oscar]\nAlém disso, vocês eliminaram {0} Raízes Corrompidas antes que se autodestruíssem. Esta dimensão foi bastante purificada. Este ponto receberá bônus.",
+        "pt": "[Oscar]\nAlém disso, vocês eliminaram {0}x Origem da Corrupção antes que se autodestruíssem. Esta dimensão foi bastante purificada. Este ponto receberá bônus.",
         "es": "[Oscar]\nAdemás, eliminaron {0} raíces corruptas antes de que se autodestruyeran. Esta dimensión ha sido bastante purificada. Se otorgarán puntos adicionales por ello."
     },
     "rZbNDA": {
         "ko": "[오스카]\n타락한 뿌리는 제가 다 처치했으니 따로 가산점을 드릴 부분이 없을것 같고...",
         "en": "[Oscar]\nI handled all of the Corrupted Roots myself, so there is nothing to grant bonus points for...",
-        "pt": "[Oscar]\nComo fui eu quem eliminou todas as Raízes Corrompidas, não há motivo para bônus nessa parte...",
+        "pt": "[Oscar]\nComo fui eu quem eliminou todas as Origens da Corrupção, não há motivo para bônus nessa parte...",
         "es": "[Oscar]\nComo yo mismo eliminé todas las raíces corruptas, no habrá puntos adicionales en esa parte..."
     },
     "rpbNDA": {
         "ko": "[오스카]\n광폭화와 전투 초기화를 단 한번도 보지않고 전투를 마무리하셨네요. 이건 가산점을 드릴만 합니다.",
         "en": "[Oscar]\nYou finished the battle without encountering Berserk or a battle reset even once. This deserves bonus points.",
-        "pt": "[Oscar]\nVocês concluíram a batalha sem presenciar sequer uma vez a fúria ou reinicialização da batalha. Isso merece um bônus.",
+        "pt": "[Oscar]\nVocês concluíram a batalha sem Enlouquecer ou Recomeçar a Batalha. Isso merece um bônus.",
         "es": "[Oscar]\nHan terminado el combate sin ver ni una sola vez el frenesí ni el reinicio de combate. Esto merece puntos adicionales."
     },
     "r5bNDA": {
         "ko": "[오스카]\n광폭화 {0} 회에 전투 초기화 {1} 회의 기록이 있네요. 이건 뭐 딱히 가산점을 드리기는 어렵겠군요",
         "en": "[Oscar]\nThere are records of {0} Berserk occurrences and {1} battle resets. It would be difficult to grant bonus points for this.",
-        "pt": "[Oscar]\nHá registros de {0} vezes em fúria e {1} reinicializações da batalha. Não parece algo digno de bônus.",
+        "pt": "[Oscar]\nHá registros de {0}x vezes Enlouquecido e {1}x Recomeços de Batalha. Não parece algo digno de bônus.",
         "es": "[Oscar]\nHay registros de {0} veces de frenesí y {1} reinicios de combate. En este caso, será difícil otorgar puntos adicionales."
     },
     "sJbNDA": {
         "ko": "[오스카]\n어지간한 차원여행자들은 ^FF0000{0} 레벨의 오염도^000000 를 버티기 힘들죠. 그럼에도 불구하고 살아 남았으니 이 부분에 대해선 조금 특별한 가산점을 추가하도록 하죠.",
         "en": "[Oscar]\nMost dimensional travelers cannot withstand contamination level ^FF0000{0}^000000. Yet you survived, so I will add a special bonus for this.",
-        "pt": "[Oscar]\nA maioria dos viajantes dimensionais não consegue suportar o nível de contaminação ^FF0000{0}^000000. Mesmo assim vocês sobreviveram, então concederei um pequeno bônus especial.",
+        "pt": "[Oscar]\nA maioria dos membros não consegue suportar o nível de contaminação ^FF0000{0}^000000. Mesmo assim vocês sobreviveram, então concederei um pequeno bônus especial.",
         "es": "[Oscar]\nLa mayoría de los viajeros dimensionales no pueden soportar un nivel de contaminación de ^FF0000{0}^000000. Aun así, ustedes sobrevivieron, así que otorgaré un pequeño bono especial."
     },
     "sZbNDA": {
         "ko": "[오스카]\n이렇게 해서 나오는 총 보상은... 기본 평가 점수 ^0000FF{0}^000000 점과 가산점 ^0000FF{1}^000000 점을 더해 총 ^0000FF{2}^000000 점입니다.",
         "en": "[Oscar]\nThus, the total reward comes to... a base evaluation score of ^0000FF{0}^000000 points plus bonus points of ^0000FF{1}^000000, totaling ^0000FF{2}^000000 points.",
-        "pt": "[Oscar]\nAssim, a recompensa total será... pontuação base de avaliação ^0000FF{0}^000000 pontos mais bônus ^0000FF{1}^000000 pontos, totalizando ^0000FF{2}^000000 pontos.",
+        "pt": "[Oscar]\nAssim, a recompensa total será... pontuação base de avaliação ^0000FF{0}^000000 pontos, mais bônus de ^0000FF{1}^000000 pontos, totalizando ^0000FF{2}^000000 pontos.",
         "es": "[Oscar]\nLa recompensa total resultante es... puntuación base ^0000FF{0}^000000 puntos más bonificación ^0000FF{1}^000000, para un total de ^0000FF{2}^000000 puntos."
     },
     "spbNDA": {
         "ko": "거기에 특별 가산점 ^0000FF{0}^000000 점이 추가될거예요",
         "en": "Additionally, a special bonus of ^0000FF{0}^000000 points will be added.",
-        "pt": "Além disso, um bônus especial de ^0000FF{0}^000000 pontos será adicionado",
+        "pt": "E adicionei um especial de ^0000FF{0}^000000 pontos!",
         "es": "Además se añadirá un bono especial de ^0000FF{0}^000000 puntos."
     },
     "s5bNDA": {
         "ko": "[오스카]\n[<ITEM>봉인된 시간의 서클릿<INFO>25864</INFO></ITEM>] {0} 개",
         "en": "[Oscar]\n[<ITEM>Sealed Circlet of Time<INFO>25864</INFO></ITEM>] {0}",
-        "pt": "[Oscar]\n[<ITEM>Diadema do Tempo Selada<INFO>25864</INFO></ITEM>] {0} unidades",
+        "pt": "[Oscar]\n{0}x [<ITEM>Diadema Temporal Selada<INFO>25864</INFO></ITEM>]",
         "es": "[Oscar]\n[<ITEM>Circlet del Tiempo sellado<INFO>25864</INFO></ITEM>] {0}"
     },
     "tJbNDA": {
         "ko": "[<ITEM>시간의 마력<INFO>25866</INFO></ITEM>] 1 개",
         "en": "[<ITEM>Power of Time<INFO>25866</INFO></ITEM>] 1",
-        "pt": "[<ITEM>Poder Temporal<INFO>25866</INFO></ITEM>] 1 unidade",
+        "pt": "1x [<ITEM>Poder Temporal<INFO>25866</INFO></ITEM>]",
         "es": "[<ITEM>Poder mágico del tiempo<INFO>25866</INFO></ITEM>] 1"
     },
     "tZbNDA": {
         "ko": "점수와 상응하는 수량이예요. 수고 많았어요.",
         "en": "This is the quantity corresponding to your score. Well done.",
-        "pt": "Essa é a quantidade correspondente à pontuação. Bom trabalho.",
+        "pt": "A pontuação lhe rendeu esses itens. Bom trabalho.",
         "es": "Esta es la cantidad correspondiente a la puntuación obtenida. Buen trabajo."
     },
     "tpbNDA": {
         "ko": "[오스카]\n[<ITEM>봉인된 시간의 서클릿<INFO>25864</INFO></ITEM>]은 이곳 오염된 차원을 소멸시키는 과정에서 제가 수거한 환영의 흔적들이예요.",
         "en": "[Oscar]\n[<ITEM>Sealed Circlet of Time<INFO>25864</INFO></ITEM>] are traces of illusions that I collected while eliminating this Tainted Dimension.",
-        "pt": "[Oscar]\n[<ITEM>Diadema do Tempo Selada<INFO>25864</INFO></ITEM>] são vestígios de ilusões que recolhi durante o processo de destruição desta Dimensão Contaminada.",
+        "pt": "[Oscar]\n[<ITEM>Diadema Temporal Selada<INFO>25864</INFO></ITEM>] são vestígios de contaminações que recolhi durante o processo de destruição desta Dimensão Contaminada.",
         "es": "[Oscar]\n[<ITEM>Circlet del Tiempo sellado<INFO>25864</INFO></ITEM>] son rastros de las ilusiones que recolecté durante el proceso de eliminar esta Dimensión contaminada."
     },
     "t5bNDA": {
         "ko": "[오스카]\n이 자체로는 아무런 쓸모가 없지만 현실세계에 소환해둔 저의 종자들을 통해 정화한뒤 {0}씨에게 필요한 물건으로 바꿀 수 있을거예요.",
         "en": "[Oscar]\nBy themselves they are useless, but after purifying them through my familiars summoned in the real world, they can be converted into items that {0} needs.",
-        "pt": "[Oscar]\nPor si só não tem utilidade, mas após serem purificados pelos meus servos invocados no mundo real, poderão ser trocados por algo útil para o Sr./Sra. {0}.",
+        "pt": "[Oscar]\nPor si só não tem utilidade, mas após serem purificadas pelos meus servos invocados no mundo real, poderão ser trocados por algo útil para você, {0}.",
         "es": "[Oscar]\nPor sí solos no tienen utilidad, pero después de purificarlos a través de mis sirvientes invocados en el mundo real, podrás convertirlos en objetos que necesites."
     },
     "uJbNDA": {

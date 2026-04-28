@@ -1,9 +1,9 @@
 RecommendedQuestInfoList = {}
 RecommendedQuestInfoList = {
 	[1] = {
-		Title = "Bem vindo ao mundo de Ragnarök!",
+		Title = "Bem vindo ao mundo de RagnarÃ¶k!",
 		IconName = "ico_gq.bmp",
-		Summary = "Introdução ao jogo.",
+		Summary = "IntroduÃ§Ã£o ao jogo.",
 		NpcSpr = "4_F_01",
 		NpcNavi = "iz_ac01",
 		NpcPosX = 102,
@@ -11,14 +11,14 @@ RecommendedQuestInfoList = {
 		BgName = "reco_01.bmp",
 		QuestInfo1 = {
 			"[Bem vindo!]",
-			"Se você está iniciando suas aventuras em Ragnarök Online, não deixe de visitar o Instituto do Aprendiz para conseguir ajuda, informações e itens especiais!"
+			"Se vocÃª estÃ¡ iniciando suas aventuras em RagnarÃ¶k Online, nÃ£o deixe de visitar o Instituto do Aprendiz para conseguir ajuda, informaÃ§Ãµes e itens especiais!"
 		},
 		QuestInfo2 = {
 			"Seja sempre gentil",
 			"com jogadores novos!"
 		},
 		QuestInfo3 = {
-			"^ff0000Esta é uma página permanente de boas vindas.^000000"
+			"^ff0000Esta Ã© uma pÃ¡gina permanente de boas vindas.^000000"
 		}
 	},
 	[2] = {
@@ -28,16 +28,16 @@ RecommendedQuestInfoList = {
 		BgName = "reco_02.bmp",
 		QuestInfo1 = {
 			"Aos Dominadores do Universo!!",
-			"Mestres Taekwons finalmente poderão se tornar Mestres Estelares.",
-			"Vá para <NAVI>[Payon]<INFO>payon.gat,171,171,0,101,0</INFO></NAVI> para começar."
+			"Mestres Taekwons finalmente poderÃ£o se tornar Mestres Estelares.",
+			"VÃ¡ para <NAVI>[Payon]<INFO>payon.gat,171,171,0,101,0</INFO></NAVI> para comeÃ§ar."
 		},
 		QuestInfo2 = {
-			"Condição",
+			"CondiÃ§Ã£o",
 			"Mestre Taekwon",
 			"Nv.99/50"
 		},
 		QuestInfo3 = {
-			"^ff0000Página de anúncio.^000000"
+			"^ff0000PÃ¡gina de anÃºncio.^000000"
 		}
 	},
 	[3] = {
@@ -46,35 +46,35 @@ RecommendedQuestInfoList = {
 		Summary = "O Guia das Almas",
 		BgName = "reco_03.bmp",
 		QuestInfo1 = {
-			"Aos Guardiões do Submundo!!",
+			"Aos GuardiÃµes do Submundo!!",
 			"Espiritualistas podem virar Ceifadores de Almas.",
-			"Vá para a <NAVI>[Floresta de Payon]<INFO>pay_fild08.gat,51,82,0,101,0</INFO></NAVI> para começar."
+			"VÃ¡ para a <NAVI>[Floresta de Payon]<INFO>pay_fild08.gat,51,82,0,101,0</INFO></NAVI> para comeÃ§ar."
 		},
 		QuestInfo2 = {
-			"Condição",
+			"CondiÃ§Ã£o",
 			"Espiritualista",
 			"Nv.99/50"
 		},
 		QuestInfo3 = {
-			"^ff0000Página de anúncio.^000000"
+			"^ff0000PÃ¡gina de anÃºncio.^000000"
 		}
 	},
 	[4] = {
-		Title = "Ilusão do Mar",
+		Title = "IlusÃ£o do Mar",
 		IconName = "ico_sc.bmp",
 		Summary = "Descubra o segredo da fossa submarina!",
 		BgName = "reco_94.bmp",
 		QuestInfo1 = {
 			"Ocorreu um incidente em que Sirud desapareceu enquanto pescava em Izlude.",
-			"Três meses depois, encontraram um objeto dele.",
-			"Vá até <NAVI>[Izlude]<INFO>izlude,132,49,0,101,0</INFO></NAVI>  e ajude os amigos dele!"
+			"TrÃªs meses depois, encontraram um objeto dele.",
+			"VÃ¡ atÃ© <NAVI>[Izlude]<INFO>izlude,132,49,0,101,0</INFO></NAVI>  e ajude os amigos dele!"
 		},
 		QuestInfo2 = {
-			"Túnel Submarino e",
+			"TÃºnel Submarino e",
 			"o Templo Submarino"
 		},
 		QuestInfo3 = {
-			"^ff0000* Esta é uma guia de divulgação do conteúdo.^000000"
+			"^ff0000* Esta Ã© uma guia de divulgaÃ§Ã£o do conteÃºdo.^000000"
 		}
 	}
 }

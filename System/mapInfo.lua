@@ -16,18 +16,18 @@ mapTbl = {
 		backgroundBmp = "field2_s2"
 	},
 	["1@4igd.rsw"] = {
-		displayName = "Arena da JustiÁa",
+		displayName = "Arena da Justi√ßa",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Arena da JustiÁa"
+			mainTitle = "Arena da Justi√ßa"
 		},
 		backgroundBmp = "field2_s2"
 	},
 	["1@4inq.rsw"] = {
-		displayName = "Por„o da Abadia",
+		displayName = "Por√£o da Abadia",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Por„o da Abadia"
+			mainTitle = "Por√£o da Abadia"
 		},
 		backgroundBmp = "field2_s2"
 	},
@@ -40,26 +40,26 @@ mapTbl = {
 		backgroundBmp = "field2_s2"
 	},
 	["1@4mst.rsw"] = {
-		displayName = "CoraÁ„o de Juperos",
+		displayName = "Cora√ß√£o de Juperos",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "CoraÁ„o de Juperos"
+			mainTitle = "Cora√ß√£o de Juperos"
 		},
 		backgroundBmp = "field2_s2"
 	},
 	["1@4sac.rsw"] = {
-		displayName = "Mans„o Sombria",
+		displayName = "Mans√£o Sombria",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Mans„o Sombria"
+			mainTitle = "Mans√£o Sombria"
 		},
 		backgroundBmp = "field2_s2"
 	},
 	["1@4tro.rsw"] = {
-		displayName = "Ba˙ de Kvasir",
+		displayName = "Ba√∫ de Kvasir",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Ba˙ de Kvasir"
+			mainTitle = "Ba√∫ de Kvasir"
 		},
 		backgroundBmp = "field2_s2"
 	},
@@ -72,10 +72,10 @@ mapTbl = {
 		backgroundBmp = "field2_s2"
 	},
 	["1@adv.rsw"] = {
-		displayName = "Aposento do ClÈrigo",
+		displayName = "Aposento do Cl√©rigo",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Aposento do ClÈrigo"
+			mainTitle = "Aposento do Cl√©rigo"
 		},
 		backgroundBmp = "noname_s2"
 	},
@@ -122,10 +122,10 @@ mapTbl = {
 		backgroundBmp = "dungeon_s2"
 	},
 	["1@ch_t.rsw"] = {
-		displayName = "Torre da ConstelaÁ„o",
+		displayName = "Torre da Constela√ß√£o",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Torre da ConstelaÁ„o"
+			mainTitle = "Torre da Constela√ß√£o"
 		},
 		backgroundBmp = "noname_s2"
 	},
@@ -145,10 +145,10 @@ mapTbl = {
 		backgroundBmp = "dungeon_s2"
 	},
 	["1@crd.rsw"] = {
-		displayName = "Vulc„o de Comodo",
+		displayName = "Vulc√£o de Comodo",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Vulc„o de Comodo"
+			mainTitle = "Vulc√£o de Comodo"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
@@ -162,11 +162,11 @@ mapTbl = {
 		backgroundBmp = "dungeon"
 	},
 	["1@def02.rsw"] = {
-		displayName = "Memorial das Ondas - CÈu",
+		displayName = "Memorial das Ondas - C√©u",
 		notifyEnter = true,
 		signName = {
 			subTitle = "Memorial das Ondas",
-			mainTitle = "CÈu"
+			mainTitle = "C√©u"
 		},
 		backgroundBmp = "dungeon"
 	},
@@ -186,7 +186,7 @@ mapTbl = {
 		backgroundBmp = "dungeon_s2"
 	},
 	["1@dth1.rsw"] = {
-		displayName = "Ilha Bios (Manh„)",
+		displayName = "Ilha Bios (Manh√£)",
 		notifyEnter = true,
 		signName = {mainTitle = "Ilha Bios"},
 		backgroundBmp = "field_s2"
@@ -207,10 +207,10 @@ mapTbl = {
 		displayName = "Orbe de Eclage"
 	},
 	["1@eom.rsw"] = {
-		displayName = "Templo do DemÙnio Rei",
+		displayName = "Templo do Dem√¥nio Rei",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Templo do DemÙnio Rei"
+			mainTitle = "Templo do Dem√¥nio Rei"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
@@ -223,10 +223,10 @@ mapTbl = {
 		backgroundBmp = "field2_s2"
 	},
 	["1@exhn.rsw"] = {
-		displayName = "MemÛrias de Aprendiz",
+		displayName = "Mem√≥rias de Aprendiz",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "MemÛrias de Aprendiz"
+			mainTitle = "Mem√≥rias de Aprendiz"
 		},
 		backgroundBmp = "field2_s2"
 	},
@@ -239,10 +239,10 @@ mapTbl = {
 		backgroundBmp = "field2_s2"
 	},
 	["1@exse.rsw"] = {
-		displayName = "EscritÛrio do Cosmos",
+		displayName = "Escrit√≥rio do Cosmos",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "EscritÛrio do Cosmos"
+			mainTitle = "Escrit√≥rio do Cosmos"
 		},
 		backgroundBmp = "field2_s2"
 	},
@@ -304,10 +304,10 @@ mapTbl = {
 		displayName = "Interior de Geffen"
 	},
 	["1@gl_he.rsw"] = {
-		displayName = "Dimens„o Contaminada",
+		displayName = "Dimens√£o Contaminada",
 		notifyEnter = true,
 		signName = {
-			subTitle = "Dimens„o Contaminada",
+			subTitle = "Dimens√£o Contaminada",
 			mainTitle = "Glastheim"
 		},
 		backgroundBmp = "dungeon"
@@ -316,7 +316,7 @@ mapTbl = {
 		displayName = "Cavalaria de Glastheim (1)",
 		notifyEnter = true,
 		signName = {
-			subTitle = "MaldiÁ„o de Glastheim",
+			subTitle = "Maldi√ß√£o de Glastheim",
 			mainTitle = "Cavalaria (1)"
 		},
 		backgroundBmp = "dungeon"
@@ -325,7 +325,7 @@ mapTbl = {
 		displayName = "Cavalaria de Glastheim (1)",
 		notifyEnter = true,
 		signName = {
-			subTitle = "MaldiÁ„o de Glastheim",
+			subTitle = "Maldi√ß√£o de Glastheim",
 			mainTitle = "Cavalaria (1)"
 		},
 		backgroundBmp = "dungeon"
@@ -346,28 +346,28 @@ mapTbl = {
 		backgroundBmp = "dungeon_s2"
 	},
 	["1@glast.rsw"] = {
-		displayName = "RuÌnas Antigas",
+		displayName = "Ru√≠nas Antigas",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "RuÌnas Antigas"
+			mainTitle = "Ru√≠nas Antigas"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
 	["1@gol1.rsw"] = {
-		displayName = "Edda do BiolaboratÛrio",
+		displayName = "Edda do Biolaborat√≥rio",
 		notifyEnter = true,
 		signName = {
-			subTitle = "Edda do BiolaboratÛrio",
+			subTitle = "Edda do Biolaborat√≥rio",
 			mainTitle = "Registro Virtual"
 		},
 		backgroundBmp = "dungeon"
 	},
 	["1@gol2.rsw"] = {
-		displayName = "Edda do BiolaboratÛrio",
+		displayName = "Edda do Biolaborat√≥rio",
 		notifyEnter = true,
 		signName = {
-			subTitle = "Edda do BiolaboratÛrio",
-			mainTitle = "NecrotÈrio"
+			subTitle = "Edda do Biolaborat√≥rio",
+			mainTitle = "Necrot√©rio"
 		},
 		backgroundBmp = "dungeon"
 	},
@@ -380,10 +380,10 @@ mapTbl = {
 		backgroundBmp = "noname_s2"
 	},
 	["1@infi.rsw"] = {
-		displayName = "EspaÁo Infinito",
+		displayName = "Espa√ßo Infinito",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "EspaÁo Infinito"
+			mainTitle = "Espa√ßo Infinito"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
@@ -396,18 +396,18 @@ mapTbl = {
 		backgroundBmp = "dungeon_s2"
 	},
 	["1@lab.rsw"] = {
-		displayName = "LaboratÛrio Central",
+		displayName = "Laborat√≥rio Central",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "LaboratÛrio Central"
+			mainTitle = "Laborat√≥rio Central"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
 	["1@lhz.rsw"] = {
-		displayName = "LaboratÛrio de Wolfchev",
+		displayName = "Laborat√≥rio de Wolfchev",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "LaboratÛrio de Wolfchev"
+			mainTitle = "Laborat√≥rio de Wolfchev"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
@@ -437,18 +437,18 @@ mapTbl = {
 		backgroundBmp = "dungeon"
 	},
 	["1@mcd.rsw"] = {
-		displayName = "Aos PÈs do Rei",
+		displayName = "Aos P√©s do Rei",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Aos PÈs do Rei"
+			mainTitle = "Aos P√©s do Rei"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
 	["1@md_gef.rsw"] = {
-		displayName = "T˙mulo do Monarca",
+		displayName = "T√∫mulo do Monarca",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "T˙mulo do Monarca"
+			mainTitle = "T√∫mulo do Monarca"
 		},
 		backgroundBmp = "dungeon"
 	},
@@ -459,10 +459,10 @@ mapTbl = {
 		backgroundBmp = "dungeon_s2"
 	},
 	["1@mir.rsw"] = {
-		displayName = "Sal„o de Ymir",
+		displayName = "Sal√£o de Ymir",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Sal„o de Ymir"
+			mainTitle = "Sal√£o de Ymir"
 		},
 		backgroundBmp = "noname_s2"
 	},
@@ -517,10 +517,10 @@ mapTbl = {
 		backgroundBmp = "dungeon_s2"
 	},
 	["1@os_a.rsw"] = {
-		displayName = "Miss„o de OcupaÁ„o OS",
+		displayName = "Miss√£o de Ocupa√ß√£o OS",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Miss„o de OcupaÁ„o OS"
+			mainTitle = "Miss√£o de Ocupa√ß√£o OS"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
@@ -545,7 +545,7 @@ mapTbl = {
 		notifyEnter = true,
 		signName = {
 			subTitle = "Sessrumnir",
-			mainTitle = "EscritÛrio da Papisa"
+			mainTitle = "Escrit√≥rio da Papisa"
 		},
 		backgroundBmp = "dungeon"
 	},
@@ -587,7 +587,7 @@ mapTbl = {
 		displayName = "Regenschirm",
 		notifyEnter = true,
 		signName = {
-			subTitle = "LaboratÛrio da CorporaÁ„o",
+			subTitle = "Laborat√≥rio da Corpora√ß√£o",
 			mainTitle = "Regenschirm"
 		},
 		backgroundBmp = "dungeon"
@@ -599,28 +599,28 @@ mapTbl = {
 		backgroundBmp = "dungeon_s2"
 	},
 	["1@slw.rsw"] = {
-		displayName = "LaboratÛrio Werner",
+		displayName = "Laborat√≥rio Werner",
 		notifyEnter = true,
 		signName = {
-			subTitle = "LaboratÛrio Werner",
-			mainTitle = "Sal„o Central"
+			subTitle = "Laborat√≥rio Werner",
+			mainTitle = "Sal√£o Central"
 		},
 		backgroundBmp = "dungeon"
 	},
 	["1@soul.rsw"] = {displayName = "Limbo"},
 	["1@spa.rsw"] = {
-		displayName = "Pal·cio das M·goas",
+		displayName = "Pal√°cio das M√°goas",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Pal·cio das M·goas"
+			mainTitle = "Pal√°cio das M√°goas"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
 	["1@spa2.rsw"] = {
-		displayName = "MausolÈu Maldito",
+		displayName = "Mausol√©u Maldito",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "MausolÈu Maldito"
+			mainTitle = "Mausol√©u Maldito"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
@@ -657,7 +657,7 @@ mapTbl = {
 		backgroundBmp = "dungeon_s2"
 	},
 	["1@tcamp.rsw"] = {
-		displayName = "Campo Militar do Vulc„o",
+		displayName = "Campo Militar do Vulc√£o",
 		notifyEnter = true,
 		signName = {
 			mainTitle = "Campo Militar"
@@ -665,18 +665,18 @@ mapTbl = {
 		backgroundBmp = "noname_s2"
 	},
 	["1@tnm1.rsw"] = {
-		displayName = "Torre do DemÙnio",
+		displayName = "Torre do Dem√¥nio",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Torre do DemÙnio"
+			mainTitle = "Torre do Dem√¥nio"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
 	["1@tnm2.rsw"] = {
-		displayName = "Torre do DemÙnio",
+		displayName = "Torre do Dem√¥nio",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Torre do DemÙnio"
+			mainTitle = "Torre do Dem√¥nio"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
@@ -714,24 +714,24 @@ mapTbl = {
 		displayName = "Base Secreta do Dr. Eggman",
 		notifyEnter = true,
 		signName = {
-			subTitle = "Livros Fant·sticos - Sonic",
+			subTitle = "Livros Fant√°sticos - Sonic",
 			mainTitle = "Base Secreta"
 		},
 		backgroundBmp = "noname"
 	},
 	["1@xm_d.rsw"] = {
-		displayName = "F·brica do Terror",
+		displayName = "F√°brica do Terror",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "F·brica de Brinquedos"
+			mainTitle = "F√°brica de Brinquedos"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
 	["1@xm_d2.rsw"] = {
-		displayName = "F·brica de Brinquedos",
+		displayName = "F√°brica de Brinquedos",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "F·brica de Brinquedos"
+			mainTitle = "F√°brica de Brinquedos"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
@@ -744,10 +744,10 @@ mapTbl = {
 		backgroundBmp = "dungeon_s2"
 	},
 	["2@ch_t.rsw"] = {
-		displayName = "Torre da ConstelaÁ„o",
+		displayName = "Torre da Constela√ß√£o",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Torre da ConstelaÁ„o"
+			mainTitle = "Torre da Constela√ß√£o"
 		},
 		backgroundBmp = "noname_s2"
 	},
@@ -763,7 +763,7 @@ mapTbl = {
 		displayName = "Cavalaria de Glastheim (2)",
 		notifyEnter = true,
 		signName = {
-			subTitle = "MaldiÁ„o de Glastheim",
+			subTitle = "Maldi√ß√£o de Glastheim",
 			mainTitle = "Cavalaria (2)"
 		},
 		backgroundBmp = "dungeon"
@@ -772,7 +772,7 @@ mapTbl = {
 		displayName = "Cavalaria de Glastheim (2)",
 		notifyEnter = true,
 		signName = {
-			subTitle = "MaldiÁ„o de Glastheim",
+			subTitle = "Maldi√ß√£o de Glastheim",
 			mainTitle = "Cavalaria (2)"
 		},
 		backgroundBmp = "dungeon"
@@ -787,10 +787,10 @@ mapTbl = {
 		backgroundBmp = "dungeon"
 	},
 	["2@mir.rsw"] = {
-		displayName = "Sal„o de Ymir",
+		displayName = "Sal√£o de Ymir",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Sal„o de Ymir"
+			mainTitle = "Sal√£o de Ymir"
 		},
 		backgroundBmp = "noname"
 	},
@@ -803,11 +803,11 @@ mapTbl = {
 		backgroundBmp = "dungeon_s2"
 	},
 	["2@nyr.rsw"] = {
-		displayName = "ArmazÈm de CoraÁıes do Santu·rio",
+		displayName = "Armaz√©m de Cora√ß√µes do Santu√°rio",
 		notifyEnter = true,
 		signName = {
-			subTitle = "Santu·rio de Rachel",
-			mainTitle = "ArmazÈm de CoraÁıes"
+			subTitle = "Santu√°rio de Rachel",
+			mainTitle = "Armaz√©m de Cora√ß√µes"
 		},
 		backgroundBmp = "noname"
 	},
@@ -836,10 +836,10 @@ mapTbl = {
 		backgroundBmp = "dungeon_s2"
 	},
 	["3@ch_t.rsw"] = {
-		displayName = "Torre da ConstelaÁ„o",
+		displayName = "Torre da Constela√ß√£o",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Torre da ConstelaÁ„o"
+			mainTitle = "Torre da Constela√ß√£o"
 		},
 		backgroundBmp = "noname_s2"
 	},
@@ -876,56 +876,56 @@ mapTbl = {
 		backgroundBmp = "dungeon_s2"
 	},
 	["abbey01.rsw"] = {
-		displayName = "MonastÈrio (1)",
+		displayName = "Monast√©rio (1)",
 		notifyEnter = true,
 		signName = {
 			subTitle = "Ilha Esquecida",
-			mainTitle = "MonastÈrio (1)"
+			mainTitle = "Monast√©rio (1)"
 		},
 		backgroundBmp = "dungeon"
 	},
 	["abbey02.rsw"] = {
-		displayName = "MonastÈrio (2)",
+		displayName = "Monast√©rio (2)",
 		notifyEnter = true,
 		signName = {
 			subTitle = "Ilha Esquecida",
-			mainTitle = "MonastÈrio (2)"
+			mainTitle = "Monast√©rio (2)"
 		},
 		backgroundBmp = "dungeon"
 	},
 	["abbey03.rsw"] = {
-		displayName = "MonastÈrio (3)",
+		displayName = "Monast√©rio (3)",
 		notifyEnter = true,
 		signName = {
 			subTitle = "Ilha Esquecida",
-			mainTitle = "MonastÈrio (3)"
+			mainTitle = "Monast√©rio (3)"
 		},
 		backgroundBmp = "dungeon"
 	},
 	["abyss_01.rsw"] = {
-		displayName = "Caverna Subterr‚nea do Lago do Abismo (1)",
+		displayName = "Caverna Subterr√¢nea do Lago do Abismo (1)",
 		notifyEnter = true,
 		signName = {
 			subTitle = "Lago do Abismo",
-			mainTitle = "Caverna Subterr‚nea (1)"
+			mainTitle = "Caverna Subterr√¢nea (1)"
 		},
 		backgroundBmp = "dungeon"
 	},
 	["abyss_02.rsw"] = {
-		displayName = "Caverna Subterr‚nea do Lago do Abismo (2)",
+		displayName = "Caverna Subterr√¢nea do Lago do Abismo (2)",
 		notifyEnter = true,
 		signName = {
 			subTitle = "Lago do Abismo",
-			mainTitle = "Caverna Subterr‚nea (2)"
+			mainTitle = "Caverna Subterr√¢nea (2)"
 		},
 		backgroundBmp = "dungeon"
 	},
 	["abyss_03.rsw"] = {
-		displayName = "Caverna Subterr‚nea do Lago do Abismo (3)",
+		displayName = "Caverna Subterr√¢nea do Lago do Abismo (3)",
 		notifyEnter = true,
 		signName = {
 			subTitle = "Lago do Abismo",
-			mainTitle = "Caverna Subterr‚nea (3)"
+			mainTitle = "Caverna Subterr√¢nea (3)"
 		},
 		backgroundBmp = "dungeon"
 	},
@@ -962,7 +962,7 @@ mapTbl = {
 		displayName = "Alberta",
 		notifyEnter = true,
 		signName = {
-			subTitle = "A Cidade Portu·ria",
+			subTitle = "A Cidade Portu√°ria",
 			mainTitle = "Alberta"
 		},
 		backgroundBmp = "village"
@@ -974,37 +974,37 @@ mapTbl = {
 		displayName = "Guilda dos Alquimistas"
 	},
 	["alde_dun01.rsw"] = {
-		displayName = "Subsolo da Torre do RelÛgio (1)",
+		displayName = "Subsolo da Torre do Rel√≥gio (1)",
 		notifyEnter = true,
 		signName = {
-			subTitle = "Torre do RelÛgio",
+			subTitle = "Torre do Rel√≥gio",
 			mainTitle = "Subsolo (1)"
 		},
 		backgroundBmp = "dungeon"
 	},
 	["alde_dun02.rsw"] = {
-		displayName = "Subsolo da Torre do RelÛgio (2)",
+		displayName = "Subsolo da Torre do Rel√≥gio (2)",
 		notifyEnter = true,
 		signName = {
-			subTitle = "Torre do RelÛgio",
+			subTitle = "Torre do Rel√≥gio",
 			mainTitle = "Subsolo (2)"
 		},
 		backgroundBmp = "dungeon"
 	},
 	["alde_dun03.rsw"] = {
-		displayName = "Subsolo da Torre do RelÛgio (3)",
+		displayName = "Subsolo da Torre do Rel√≥gio (3)",
 		notifyEnter = true,
 		signName = {
-			subTitle = "Torre do RelÛgio",
+			subTitle = "Torre do Rel√≥gio",
 			mainTitle = "Subsolo (3)"
 		},
 		backgroundBmp = "dungeon"
 	},
 	["alde_dun04.rsw"] = {
-		displayName = "Subsolo da Torre do RelÛgio (4)",
+		displayName = "Subsolo da Torre do Rel√≥gio (4)",
 		notifyEnter = true,
 		signName = {
-			subTitle = "Torre do RelÛgio",
+			subTitle = "Torre do Rel√≥gio",
 			mainTitle = "Subsolo (4)"
 		},
 		backgroundBmp = "dungeon"
@@ -1084,18 +1084,18 @@ mapTbl = {
 		backgroundBmp = "dungeon_s2"
 	},
 	["ama_dun02.rsw"] = {
-		displayName = "Floresta Subterr‚nea",
+		displayName = "Floresta Subterr√¢nea",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Floresta Subterr‚nea"
+			mainTitle = "Floresta Subterr√¢nea"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
 	["ama_dun03.rsw"] = {
-		displayName = "Templo Subterr‚neo",
+		displayName = "Templo Subterr√¢neo",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Templo Subterr‚neo"
+			mainTitle = "Templo Subterr√¢neo"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
@@ -1114,10 +1114,10 @@ mapTbl = {
 		displayName = "Castelo TenguGak"
 	},
 	["ama_test.rsw"] = {
-		displayName = "HistÛria de Momotaro",
+		displayName = "Hist√≥ria de Momotaro",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "A HistÛria de Momotaro"
+			mainTitle = "A Hist√≥ria de Momotaro"
 		},
 		backgroundBmp = "noname_s2"
 	},
@@ -1131,19 +1131,19 @@ mapTbl = {
 		backgroundBmp = "village"
 	},
 	["amicitia1.rsw"] = {
-		displayName = "LaboratÛrio Abandonado Amicitia (1)",
+		displayName = "Laborat√≥rio Abandonado Amicitia (1)",
 		notifyEnter = true,
 		signName = {
-			subTitle = "LaboratÛrio Amicitia",
+			subTitle = "Laborat√≥rio Amicitia",
 			mainTitle = "Centro de Pesquisa"
 		},
 		backgroundBmp = "dungeon"
 	},
 	["amicitia2.rsw"] = {
-		displayName = "LaboratÛrio Abandonado Amicitia (2)",
+		displayName = "Laborat√≥rio Abandonado Amicitia (2)",
 		notifyEnter = true,
 		signName = {
-			subTitle = "LaboratÛrio Amicitia",
+			subTitle = "Laborat√≥rio Amicitia",
 			mainTitle = "Estufa de Cultivo"
 		},
 		backgroundBmp = "dungeon"
@@ -1236,11 +1236,11 @@ mapTbl = {
 		backgroundBmp = "siege"
 	},
 	["arug_dun01.rsw"] = {
-		displayName = "CalabouÁo de Valfreyja",
+		displayName = "Calabou√ßo de Valfreyja",
 		notifyEnter = true,
 		signName = {
 			subTitle = "Feudo de Valfreyja",
-			mainTitle = "CalabouÁo de Castelo"
+			mainTitle = "Calabou√ßo de Castelo"
 		},
 		backgroundBmp = "dungeon"
 	},
@@ -1277,10 +1277,10 @@ mapTbl = {
 		backgroundBmp = "dungeon_s2"
 	},
 	["ayo_dun02.rsw"] = {
-		displayName = "Santu·rio Ancestral",
+		displayName = "Santu√°rio Ancestral",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Santu·rio Ancestral"
+			mainTitle = "Santu√°rio Ancestral"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
@@ -1392,27 +1392,27 @@ mapTbl = {
 		backgroundBmp = "dungeon"
 	},
 	["bif_fild01.rsw"] = {
-		displayName = "Sul de Bifrˆst",
+		displayName = "Sul de Bifr√∂st",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Sul de Bifrˆst"
+			mainTitle = "Sul de Bifr√∂st"
 		},
 		backgroundBmp = "field_s2"
 	},
 	["bif_fild02.rsw"] = {
-		displayName = "Norte de Bifrˆst",
+		displayName = "Norte de Bifr√∂st",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Norte de Bifrˆst"
+			mainTitle = "Norte de Bifr√∂st"
 		},
 		backgroundBmp = "field_s2"
 	},
 	["bl_death.rsw"] = {
-		displayName = "Biosfera - CemitÈrio",
+		displayName = "Biosfera - Cemit√©rio",
 		notifyEnter = true,
 		signName = {
 			subTitle = "Bioesfera de Varmunt",
-			mainTitle = "CemitÈrio"
+			mainTitle = "Cemit√©rio"
 		},
 		backgroundBmp = "dungeon"
 	},
@@ -1444,27 +1444,27 @@ mapTbl = {
 		backgroundBmp = "dungeon"
 	},
 	["bossnia_01.rsw"] = {
-		displayName = "CheffÍnia (1)",
+		displayName = "Cheff√™nia (1)",
 		notifyEnter = true,
-		signName = {mainTitle = "CheffÍnia"},
+		signName = {mainTitle = "Cheff√™nia"},
 		backgroundBmp = "dungeon_s2"
 	},
 	["bossnia_02.rsw"] = {
-		displayName = "CheffÍnia (2)",
+		displayName = "Cheff√™nia (2)",
 		notifyEnter = true,
-		signName = {mainTitle = "CheffÍnia"},
+		signName = {mainTitle = "Cheff√™nia"},
 		backgroundBmp = "dungeon_s2"
 	},
 	["bossnia_03.rsw"] = {
-		displayName = "CheffÍnia (3)",
+		displayName = "Cheff√™nia (3)",
 		notifyEnter = true,
-		signName = {mainTitle = "CheffÍnia"},
+		signName = {mainTitle = "Cheff√™nia"},
 		backgroundBmp = "dungeon_s2"
 	},
 	["bossnia_04.rsw"] = {
-		displayName = "CheffÍnia (4)",
+		displayName = "Cheff√™nia (4)",
 		notifyEnter = true,
-		signName = {mainTitle = "CheffÍnia"},
+		signName = {mainTitle = "Cheff√™nia"},
 		backgroundBmp = "dungeon_s2"
 	},
 	["bra_dun01.rsw"] = {
@@ -1504,10 +1504,10 @@ mapTbl = {
 		backgroundBmp = "village"
 	},
 	["brz_gld.rsw"] = {
-		displayName = "Pal·cio do MilÍnio",
+		displayName = "Pal√°cio do Mil√™nio",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Pal·cio do MilÍnio"
+			mainTitle = "Pal√°cio do Mil√™nio"
 		},
 		backgroundBmp = "siege_s2"
 	},
@@ -1526,20 +1526,20 @@ mapTbl = {
 		backgroundBmp = "village_s2"
 	},
 	["c_tower1.rsw"] = {
-		displayName = "Torre do RelÛgio (1)",
+		displayName = "Torre do Rel√≥gio (1)",
 		notifyEnter = true,
 		signName = {
-			subTitle = "Torre do RelÛgio (1)",
-			mainTitle = "TÈrreo"
+			subTitle = "Torre do Rel√≥gio (1)",
+			mainTitle = "T√©rreo"
 		},
 		backgroundBmp = "dungeon"
 	},
 	["c_tower2.rsw"] = {
-		displayName = "Torre do RelÛgio (2)",
+		displayName = "Torre do Rel√≥gio (2)",
 		notifyEnter = true,
 		signName = {
-			subTitle = "Torre do RelÛgio (2)",
-			mainTitle = "Sala do PÍndulo"
+			subTitle = "Torre do Rel√≥gio (2)",
+			mainTitle = "Sala do P√™ndulo"
 		},
 		backgroundBmp = "dungeon"
 	},
@@ -1547,16 +1547,16 @@ mapTbl = {
 		displayName = "Torre Distorcida (2)",
 		notifyEnter = true,
 		signName = {
-			subTitle = "Torre do RelÛgio (2)",
+			subTitle = "Torre do Rel√≥gio (2)",
 			mainTitle = "Modo Pesadelo"
 		},
 		backgroundBmp = "dungeon"
 	},
 	["c_tower3.rsw"] = {
-		displayName = "Torre do RelÛgio (3)",
+		displayName = "Torre do Rel√≥gio (3)",
 		notifyEnter = true,
 		signName = {
-			subTitle = "Torre do RelÛgio (3)",
+			subTitle = "Torre do Rel√≥gio (3)",
 			mainTitle = "Andar Superior"
 		},
 		backgroundBmp = "dungeon"
@@ -1565,16 +1565,16 @@ mapTbl = {
 		displayName = "Torre Distorcida (3)",
 		notifyEnter = true,
 		signName = {
-			subTitle = "Torre do RelÛgio (3)",
+			subTitle = "Torre do Rel√≥gio (3)",
 			mainTitle = "Modo Pesadelo"
 		},
 		backgroundBmp = "dungeon"
 	},
 	["c_tower4.rsw"] = {
-		displayName = "Torre do RelÛgio (4)",
+		displayName = "Torre do Rel√≥gio (4)",
 		notifyEnter = true,
 		signName = {
-			subTitle = "Torre do RelÛgio (4)",
+			subTitle = "Torre do Rel√≥gio (4)",
 			mainTitle = "Topo da Torre"
 		},
 		backgroundBmp = "dungeon"
@@ -1586,11 +1586,11 @@ mapTbl = {
 		backgroundBmp = "noname_s2"
 	},
 	["clock_01.rsw"] = {
-		displayName = "C‚mara Desconhecida da Torre do RelÛgio",
+		displayName = "C√¢mara Desconhecida da Torre do Rel√≥gio",
 		notifyEnter = true,
 		signName = {
-			subTitle = "Torre do RelÛgio",
-			mainTitle = "C‚mara Desconhecida"
+			subTitle = "Torre do Rel√≥gio",
+			mainTitle = "C√¢mara Desconhecida"
 		},
 		backgroundBmp = "dungeon"
 	},
@@ -1673,10 +1673,10 @@ mapTbl = {
 		displayName = "Interior de Comodo (2)"
 	},
 	["com_d02_i.rsw"] = {
-		displayName = "Ilus„o de Luanda",
+		displayName = "Ilus√£o de Luanda",
 		notifyEnter = true,
 		signName = {
-			subTitle = "Ilus„o de Luanda",
+			subTitle = "Ilus√£o de Luanda",
 			mainTitle = "Caverna de Luanda"
 		},
 		backgroundBmp = "dungeon"
@@ -1685,7 +1685,7 @@ mapTbl = {
 		displayName = "Comodo",
 		notifyEnter = true,
 		signName = {
-			subTitle = "A Caverna Litor‚nea",
+			subTitle = "A Caverna Litor√¢nea",
 			mainTitle = "Comodo"
 		},
 		backgroundBmp = "village"
@@ -1700,26 +1700,26 @@ mapTbl = {
 		backgroundBmp = "village"
 	},
 	["dali.rsw"] = {
-		displayName = "EspaÁo Dimensional",
+		displayName = "Espa√ßo Dimensional",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "EspaÁo Dimensional"
+			mainTitle = "Espa√ßo Dimensional"
 		},
 		backgroundBmp = "noname_s2"
 	},
 	["dali02.rsw"] = {
-		displayName = "EspaÁo Dimensional (2)",
+		displayName = "Espa√ßo Dimensional (2)",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "EspaÁo Dimensional"
+			mainTitle = "Espa√ßo Dimensional"
 		},
 		backgroundBmp = "noname_s2"
 	},
 	["dew_dun01.rsw"] = {
-		displayName = "Vulc„o Krakatau",
+		displayName = "Vulc√£o Krakatau",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Vulc„o Krakatau"
+			mainTitle = "Vulc√£o Krakatau"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
@@ -1747,16 +1747,16 @@ mapTbl = {
 		displayName = "Dewata",
 		notifyEnter = true,
 		signName = {
-			subTitle = "A Ilha ParadisÌaca",
+			subTitle = "A Ilha Paradis√≠aca",
 			mainTitle = "Dewata"
 		},
 		backgroundBmp = "village"
 	},
 	["dic_dun01.rsw"] = {
-		displayName = "T˙nel Kamidal",
+		displayName = "T√∫nel Kamidal",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "T˙nel Kamidal"
+			mainTitle = "T√∫nel Kamidal"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
@@ -1839,10 +1839,10 @@ mapTbl = {
 		backgroundBmp = "field2_s2"
 	},
 	["ecl_hub01.rsw"] = {
-		displayName = "PerÌmetros de Eclage"
+		displayName = "Per√≠metros de Eclage"
 	},
 	["ecl_in01.rsw"] = {
-		displayName = "PraÁa de Eclage"
+		displayName = "Pra√ßa de Eclage"
 	},
 	["ecl_in02.rsw"] = {
 		displayName = "Interior de Eclage (2)"
@@ -1854,34 +1854,34 @@ mapTbl = {
 		displayName = "Interior de Eclage (4)"
 	},
 	["ecl_tdun01.rsw"] = {
-		displayName = "Torre de Bifrˆst (1)",
+		displayName = "Torre de Bifr√∂st (1)",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Torre de Bifrˆst (1)"
+			mainTitle = "Torre de Bifr√∂st (1)"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
 	["ecl_tdun02.rsw"] = {
-		displayName = "Torre de Bifrˆst (2)",
+		displayName = "Torre de Bifr√∂st (2)",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Torre de Bifrˆst (2)"
+			mainTitle = "Torre de Bifr√∂st (2)"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
 	["ecl_tdun03.rsw"] = {
-		displayName = "Torre de Bifrˆst (3)",
+		displayName = "Torre de Bifr√∂st (3)",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Torre de Bifrˆst (3)"
+			mainTitle = "Torre de Bifr√∂st (3)"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
 	["ecl_tdun04.rsw"] = {
-		displayName = "Torre de Bifrˆst (4)",
+		displayName = "Torre de Bifr√∂st (4)",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Torre de Bifrˆst (4)"
+			mainTitle = "Torre de Bifr√∂st (4)"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
@@ -1889,33 +1889,33 @@ mapTbl = {
 		displayName = "Eclage",
 		notifyEnter = true,
 		signName = {
-			subTitle = "A Capital de ¡lfheim",
+			subTitle = "A Capital de √Ålfheim",
 			mainTitle = "Eclage"
 		},
 		backgroundBmp = "village"
 	},
 	["ein_d02_i.rsw"] = {
-		displayName = "Ilus„o do Ursinho",
+		displayName = "Ilus√£o do Ursinho",
 		notifyEnter = true,
 		signName = {
-			subTitle = "Ilus„o do Ursinho",
-			mainTitle = "ImpÈrio Nasariano"
+			subTitle = "Ilus√£o do Ursinho",
+			mainTitle = "Imp√©rio Nasariano"
 		},
 		backgroundBmp = "dungeon"
 	},
 	["ein_dun01.rsw"] = {
-		displayName = "CalabouÁo da Mina (1)",
+		displayName = "Calabou√ßo da Mina (1)",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "CalabouÁo da Mina (1)"
+			mainTitle = "Calabou√ßo da Mina (1)"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
 	["ein_dun02.rsw"] = {
-		displayName = "CalabouÁo da Mina (2)",
+		displayName = "Calabou√ßo da Mina (2)",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "CalabouÁo da Mina (2)"
+			mainTitle = "Calabou√ßo da Mina (2)"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
@@ -1999,7 +1999,7 @@ mapTbl = {
 		displayName = "Einbroch",
 		notifyEnter = true,
 		signName = {
-			subTitle = "A Cidade de AÁo",
+			subTitle = "A Cidade de A√ßo",
 			mainTitle = "Einbroch"
 		},
 		backgroundBmp = "village"
@@ -2035,70 +2035,70 @@ mapTbl = {
 		displayName = "Arena de Izlude"
 	},
 	["force_map1.rsw"] = {
-		displayName = "Labirinto das ValquÌrias",
+		displayName = "Labirinto das Valqu√≠rias",
 		notifyEnter = true,
 		signName = {
-			subTitle = "Labirinto das ValquÌrias",
+			subTitle = "Labirinto das Valqu√≠rias",
 			mainTitle = "Urd"
 		},
 		backgroundBmp = "noname"
 	},
 	["force_map2.rsw"] = {
-		displayName = "Labirinto das ValquÌrias",
+		displayName = "Labirinto das Valqu√≠rias",
 		notifyEnter = true,
 		signName = {
-			subTitle = "Labirinto das ValquÌrias",
+			subTitle = "Labirinto das Valqu√≠rias",
 			mainTitle = "Verdandi"
 		},
 		backgroundBmp = "noname"
 	},
 	["force_map3.rsw"] = {
-		displayName = "Labirinto das ValquÌrias",
+		displayName = "Labirinto das Valqu√≠rias",
 		notifyEnter = true,
 		signName = {
-			subTitle = "Labirinto das ValquÌrias",
+			subTitle = "Labirinto das Valqu√≠rias",
 			mainTitle = "Skuld"
 		},
 		backgroundBmp = "noname"
 	},
 	["gef_d01_i.rsw"] = {
-		displayName = "Ilus„o do Vampiro",
+		displayName = "Ilus√£o do Vampiro",
 		notifyEnter = true,
 		signName = {
-			subTitle = "Ilus„o do Vampiro",
-			mainTitle = "P·gina 250"
+			subTitle = "Ilus√£o do Vampiro",
+			mainTitle = "P√°gina 250"
 		},
 		backgroundBmp = "dungeon"
 	},
 	["gef_dun00.rsw"] = {
-		displayName = "CalabouÁo de Geffen (0)",
+		displayName = "Calabou√ßo de Geffen (0)",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "CalabouÁo de Geffen"
+			mainTitle = "Calabou√ßo de Geffen"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
 	["gef_dun01.rsw"] = {
-		displayName = "CalabouÁo de Geffen (1)",
+		displayName = "Calabou√ßo de Geffen (1)",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "CalabouÁo de Geffen (1)"
+			mainTitle = "Calabou√ßo de Geffen (1)"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
 	["gef_dun02.rsw"] = {
-		displayName = "CalabouÁo de Geffen (2)",
+		displayName = "Calabou√ßo de Geffen (2)",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "CalabouÁo de Geffen (2)"
+			mainTitle = "Calabou√ßo de Geffen (2)"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
 	["gef_dun03.rsw"] = {
-		displayName = "CalabouÁo de Geffen (3)",
+		displayName = "Calabou√ßo de Geffen (3)",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "CalabouÁo de Geffen (3)"
+			mainTitle = "Calabou√ßo de Geffen (3)"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
@@ -2319,11 +2319,11 @@ mapTbl = {
 		backgroundBmp = "dungeon"
 	},
 	["gl_cas01_.rsw"] = {
-		displayName = "Por„o de Glastheim",
+		displayName = "Por√£o de Glastheim",
 		notifyEnter = true,
 		signName = {
 			subTitle = "Glastheim",
-			mainTitle = "Por„o do Castelo"
+			mainTitle = "Por√£o do Castelo"
 		},
 		backgroundBmp = "dungeon"
 	},
@@ -2337,7 +2337,7 @@ mapTbl = {
 		backgroundBmp = "dungeon"
 	},
 	["gl_cas02_.rsw"] = {
-		displayName = "Castelo AmaldiÁoado",
+		displayName = "Castelo Amaldi√ßoado",
 		notifyEnter = true,
 		signName = {
 			subTitle = "Castelo de Glastheim",
@@ -2352,16 +2352,16 @@ mapTbl = {
 		backgroundBmp = "dungeon"
 	},
 	["gl_chyard.rsw"] = {
-		displayName = "CemitÈrio de Glastheim",
+		displayName = "Cemit√©rio de Glastheim",
 		notifyEnter = true,
-		signName = {subTitle = "Glastheim", mainTitle = "CemitÈrio"},
+		signName = {subTitle = "Glastheim", mainTitle = "Cemit√©rio"},
 		backgroundBmp = "dungeon"
 	},
 	["gl_chyard_.rsw"] = {
-		displayName = "CemitÈrio AmaldiÁoado",
+		displayName = "Cemit√©rio Amaldi√ßoado",
 		notifyEnter = true,
 		signName = {
-			subTitle = "CemitÈrio de Glastheim",
+			subTitle = "Cemit√©rio de Glastheim",
 			mainTitle = "Modo Pesadelo"
 		},
 		backgroundBmp = "dungeon"
@@ -2409,13 +2409,13 @@ mapTbl = {
 		backgroundBmp = "dungeon"
 	},
 	["gl_prison.rsw"] = {
-		displayName = "Pris„o de Glastheim (1)",
+		displayName = "Pris√£o de Glastheim (1)",
 		notifyEnter = true,
-		signName = {subTitle = "Glastheim", mainTitle = "Pris„o"},
+		signName = {subTitle = "Glastheim", mainTitle = "Pris√£o"},
 		backgroundBmp = "dungeon"
 	},
 	["gl_prison1.rsw"] = {
-		displayName = "Pris„o de Glastheim (2)",
+		displayName = "Pris√£o de Glastheim (2)",
 		notifyEnter = true,
 		signName = {
 			subTitle = "Glastheim",
@@ -2475,11 +2475,11 @@ mapTbl = {
 		backgroundBmp = "field2"
 	},
 	["gld2_ald.rsw"] = {
-		displayName = "L·grimas do HerÛi",
+		displayName = "L√°grimas do Her√≥i",
 		notifyEnter = true,
 		signName = {
 			subTitle = "Feudo de Luina",
-			mainTitle = "L·grimas do HerÛi"
+			mainTitle = "L√°grimas do Her√≥i"
 		},
 		backgroundBmp = "dungeon"
 	},
@@ -2505,87 +2505,87 @@ mapTbl = {
 		displayName = "Caminho do Guerreiro",
 		notifyEnter = true,
 		signName = {
-			subTitle = "Feudo das ValquÌrias",
+			subTitle = "Feudo das Valqu√≠rias",
 			mainTitle = "Caminho do Guerreiro"
 		},
 		backgroundBmp = "dungeon"
 	},
 	["gld_dun01.rsw"] = {
-		displayName = "CalabouÁo do Bosque Celestial (1)",
+		displayName = "Calabou√ßo do Bosque Celestial (1)",
 		notifyEnter = true,
 		signName = {
 			subTitle = "Feudo do Bosque Celestial",
-			mainTitle = "CalabouÁo de Castelo (1)"
+			mainTitle = "Calabou√ßo de Castelo (1)"
 		},
 		backgroundBmp = "dungeon"
 	},
 	["gld_dun01_2.rsw"] = {
-		displayName = "CalabouÁo do Bosque Celestial (2)",
+		displayName = "Calabou√ßo do Bosque Celestial (2)",
 		notifyEnter = true,
 		signName = {
 			subTitle = "Feudo do Bosque Celestial",
-			mainTitle = "CalabouÁo de Castelo (2)"
+			mainTitle = "Calabou√ßo de Castelo (2)"
 		},
 		backgroundBmp = "dungeon"
 	},
 	["gld_dun02.rsw"] = {
-		displayName = "CalabouÁo de Luina (1)",
+		displayName = "Calabou√ßo de Luina (1)",
 		notifyEnter = true,
 		signName = {
 			subTitle = "Feudo de Luina",
-			mainTitle = "CalabouÁo de Castelo (1)"
+			mainTitle = "Calabou√ßo de Castelo (1)"
 		},
 		backgroundBmp = "dungeon"
 	},
 	["gld_dun02_2.rsw"] = {
-		displayName = "CalabouÁo de Luina (2)",
+		displayName = "Calabou√ßo de Luina (2)",
 		notifyEnter = true,
 		signName = {
 			subTitle = "Feudo de Luina",
-			mainTitle = "CalabouÁo de Castelo (2)"
+			mainTitle = "Calabou√ßo de Castelo (2)"
 		},
 		backgroundBmp = "dungeon"
 	},
 	["gld_dun03.rsw"] = {
-		displayName = "CalabouÁo das ValquÌrias (1)",
+		displayName = "Calabou√ßo das Valqu√≠rias (1)",
 		notifyEnter = true,
 		signName = {
-			subTitle = "Feudo das ValquÌrias",
-			mainTitle = "CalabouÁo de Castelo (1)"
+			subTitle = "Feudo das Valqu√≠rias",
+			mainTitle = "Calabou√ßo de Castelo (1)"
 		},
 		backgroundBmp = "dungeon"
 	},
 	["gld_dun03_2.rsw"] = {
-		displayName = "CalabouÁo das ValquÌrias (2)",
+		displayName = "Calabou√ßo das Valqu√≠rias (2)",
 		notifyEnter = true,
 		signName = {
-			subTitle = "Feudo das ValquÌrias",
-			mainTitle = "CalabouÁo de Castelo (2)"
+			subTitle = "Feudo das Valqu√≠rias",
+			mainTitle = "Calabou√ßo de Castelo (2)"
 		},
 		backgroundBmp = "dungeon"
 	},
 	["gld_dun04.rsw"] = {
-		displayName = "CalabouÁo de Britoniah (1)",
+		displayName = "Calabou√ßo de Britoniah (1)",
 		notifyEnter = true,
 		signName = {
 			subTitle = "Feudo de Britoniah",
-			mainTitle = "CalabouÁo de Castelo (1)"
+			mainTitle = "Calabou√ßo de Castelo (1)"
 		},
 		backgroundBmp = "dungeon"
 	},
 	["gld_dun04_2.rsw"] = {
-		displayName = "CalabouÁo de Britoniah (2)",
+		displayName = "Calabou√ßo de Britoniah (2)",
 		notifyEnter = true,
 		signName = {
 			subTitle = "Feudo de Britoniah",
-			mainTitle = "CalabouÁo de Castelo (2)"
+			mainTitle = "Calabou√ßo de Castelo (2)"
 		},
 		backgroundBmp = "dungeon"
 	},
 	["gon_dun01.rsw"] = {
-		displayName = "Santu·rio de Xi Wang Mu",
+		displayName = "Santu√°rio de Xi Wang Mu",
 		notifyEnter = true,
-		signName = {subTitle = "Santu·rio", mainTitle = "Xi Wang Mu"},
+		signName = {subTitle = "Santu√°rio", mainTitle = "Xi Wang Mu"},
 		backgroundBmp = "dungeon"
 	},
 	["gon_dun02.rsw"] = {
@@ -2617,10 +2617,10 @@ mapTbl = {
 		displayName = "Interior de Kunlun"
 	},
 	["gon_test.rsw"] = {
-		displayName = "Sal„o de Batalhas",
+		displayName = "Sal√£o de Batalhas",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Sal„o de Batalhas"
+			mainTitle = "Sal√£o de Batalhas"
 		},
 		backgroundBmp = "village_s2"
 	},
@@ -2727,7 +2727,7 @@ mapTbl = {
 		displayName = "Himinn",
 		notifyEnter = true,
 		signName = {
-			subTitle = "Hall das ValquÌrias",
+			subTitle = "Hall das Valqu√≠rias",
 			mainTitle = "Himinn"
 		},
 		backgroundBmp = "noname"
@@ -2737,7 +2737,7 @@ mapTbl = {
 		notifyEnter = true,
 		signName = {
 			subTitle = "Arredores de Hugel (1)",
-			mainTitle = "PrecipÌcio"
+			mainTitle = "Precip√≠cio"
 		},
 		backgroundBmp = "field2"
 	},
@@ -2750,10 +2750,10 @@ mapTbl = {
 		backgroundBmp = "field_s2"
 	},
 	["hu_fild03.rsw"] = {
-		displayName = "Campo de CaÁa",
+		displayName = "Campo de Ca√ßa",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Campo de CaÁa"
+			mainTitle = "Campo de Ca√ßa"
 		},
 		backgroundBmp = "field_s2"
 	},
@@ -2789,25 +2789,25 @@ mapTbl = {
 		displayName = "Hugel",
 		notifyEnter = true,
 		signName = {
-			subTitle = "A Vila do Jardim Fant·stico",
+			subTitle = "A Vila do Jardim Fant√°stico",
 			mainTitle = "Hugel"
 		},
 		backgroundBmp = "village"
 	},
 	["hunter_1-1.rsw"] = {
-		displayName = "Guilda dos CaÁadores"
+		displayName = "Guilda dos Ca√ßadores"
 	},
 	["hunter_2-1.rsw"] = {
-		displayName = "Guilda dos CaÁadores"
+		displayName = "Guilda dos Ca√ßadores"
 	},
 	["hunter_3-1.rsw"] = {
-		displayName = "Guilda dos CaÁadores"
+		displayName = "Guilda dos Ca√ßadores"
 	},
 	["ice_d03_i.rsw"] = {
-		displayName = "Ilus„o do Gelo",
+		displayName = "Ilus√£o do Gelo",
 		notifyEnter = true,
 		signName = {
-			subTitle = "Ilus„o do Gelo",
+			subTitle = "Ilus√£o do Gelo",
 			mainTitle = "Caverna de Gelo"
 		},
 		backgroundBmp = "dungeon"
@@ -2840,23 +2840,23 @@ mapTbl = {
 		displayName = "Caverna de Gelo (4)",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "EspaÁo Selado"
+			mainTitle = "Espa√ßo Selado"
 		},
 		backgroundBmp = "noname_s2"
 	},
 	["in_hunter.rsw"] = {
-		displayName = "Guilda dos CaÁadores",
+		displayName = "Guilda dos Ca√ßadores",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Guilda dos CaÁadores"
+			mainTitle = "Guilda dos Ca√ßadores"
 		},
 		backgroundBmp = "noname_s2"
 	},
 	["in_moc_16.rsw"] = {
-		displayName = "Guilda dos Mercen·rios",
+		displayName = "Guilda dos Mercen√°rios",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Guilda dos Mercen·rios"
+			mainTitle = "Guilda dos Mercen√°rios"
 		},
 		backgroundBmp = "noname_s2"
 	},
@@ -2941,7 +2941,7 @@ mapTbl = {
 		displayName = "Academia Criatura (1)",
 		notifyEnter = true,
 		signName = {
-			subTitle = "TÈrreo",
+			subTitle = "T√©rreo",
 			mainTitle = "Academia Criatura"
 		},
 		backgroundBmp = "village"
@@ -3020,103 +3020,103 @@ mapTbl = {
 		backgroundBmp = "village"
 	},
 	["iz_d04_i.rsw"] = {
-		displayName = "Ilus„o Submarina (1)",
+		displayName = "Ilus√£o Submarina (1)",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Ilus„o Submarina (1)"
+			mainTitle = "Ilus√£o Submarina (1)"
 		},
 		backgroundBmp = "dungeon"
 	},
 	["iz_d05_i.rsw"] = {
-		displayName = "Ilus„o Submarina (2)",
+		displayName = "Ilus√£o Submarina (2)",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Ilus„o Submarina (2)"
+			mainTitle = "Ilus√£o Submarina (2)"
 		},
 		backgroundBmp = "dungeon"
 	},
 	["iz_dun00.rsw"] = {
-		displayName = "T˙nel Submarino (0)",
+		displayName = "T√∫nel Submarino (0)",
 		notifyEnter = true,
 		signName = {
 			subTitle = "Ilha Byalan",
-			mainTitle = "T˙nel Submarino"
+			mainTitle = "T√∫nel Submarino"
 		},
 		backgroundBmp = "dungeon"
 	},
 	["iz_dun01.rsw"] = {
-		displayName = "T˙nel Submarino (1)",
+		displayName = "T√∫nel Submarino (1)",
 		notifyEnter = true,
 		signName = {
 			subTitle = "Ilha Byalan",
-			mainTitle = "T˙nel Submarino (1)"
+			mainTitle = "T√∫nel Submarino (1)"
 		},
 		backgroundBmp = "dungeon"
 	},
 	["iz_dun02.rsw"] = {
-		displayName = "T˙nel Submarino (2)",
+		displayName = "T√∫nel Submarino (2)",
 		notifyEnter = true,
 		signName = {
 			subTitle = "Ilha Byalan",
-			mainTitle = "T˙nel Submarino (2)"
+			mainTitle = "T√∫nel Submarino (2)"
 		},
 		backgroundBmp = "dungeon"
 	},
 	["iz_dun03.rsw"] = {
-		displayName = "T˙nel Submarino (3)",
+		displayName = "T√∫nel Submarino (3)",
 		notifyEnter = true,
 		signName = {
 			subTitle = "Ilha Byalan",
-			mainTitle = "T˙nel Submarino (3)"
+			mainTitle = "T√∫nel Submarino (3)"
 		},
 		backgroundBmp = "dungeon"
 	},
 	["iz_dun04.rsw"] = {
-		displayName = "T˙nel Submarino (4)",
+		displayName = "T√∫nel Submarino (4)",
 		notifyEnter = true,
 		signName = {
 			subTitle = "Ilha Byalan",
-			mainTitle = "T˙nel Submarino (4)"
+			mainTitle = "T√∫nel Submarino (4)"
 		},
 		backgroundBmp = "dungeon"
 	},
 	["iz_dun05.rsw"] = {
-		displayName = "T˙nel Submarino (5)",
+		displayName = "T√∫nel Submarino (5)",
 		notifyEnter = true,
 		signName = {
 			subTitle = "Ilha Byalan",
-			mainTitle = "T˙nel Submarino (5)"
+			mainTitle = "T√∫nel Submarino (5)"
 		},
 		backgroundBmp = "dungeon"
 	},
 	["iz_int.rsw"] = {
 		displayName = "Navio Naufragado",
 		notifyEnter = true,
-		signName = {mainTitle = "IntroduÁ„o"},
+		signName = {mainTitle = "Introdu√ß√£o"},
 		backgroundBmp = "noname_s2"
 	},
 	["iz_int01.rsw"] = {
 		displayName = "Navio Naufragado",
 		notifyEnter = true,
-		signName = {mainTitle = "IntroduÁ„o"},
+		signName = {mainTitle = "Introdu√ß√£o"},
 		backgroundBmp = "noname_s2"
 	},
 	["iz_int02.rsw"] = {
 		displayName = "Navio Naufragado",
 		notifyEnter = true,
-		signName = {mainTitle = "IntroduÁ„o"},
+		signName = {mainTitle = "Introdu√ß√£o"},
 		backgroundBmp = "noname_s2"
 	},
 	["iz_int03.rsw"] = {
 		displayName = "Navio Naufragado",
 		notifyEnter = true,
-		signName = {mainTitle = "IntroduÁ„o"},
+		signName = {mainTitle = "Introdu√ß√£o"},
 		backgroundBmp = "noname_s2"
 	},
 	["iz_int04.rsw"] = {
 		displayName = "Navio Naufragado",
 		notifyEnter = true,
-		signName = {mainTitle = "IntroduÁ„o"},
+		signName = {mainTitle = "Introdu√ß√£o"},
 		backgroundBmp = "noname_s2"
 	},
 	["iz_ng01.rsw"] = {
@@ -3135,7 +3135,7 @@ mapTbl = {
 		displayName = "Izlude",
 		notifyEnter = true,
 		signName = {
-			subTitle = "A Cidade-satÈlite",
+			subTitle = "A Cidade-sat√©lite",
 			mainTitle = "Izlude"
 		},
 		backgroundBmp = "village"
@@ -3144,7 +3144,7 @@ mapTbl = {
 		displayName = "Izlude",
 		notifyEnter = true,
 		signName = {
-			subTitle = "A Cidade-satÈlite",
+			subTitle = "A Cidade-sat√©lite",
 			mainTitle = "Izlude"
 		},
 		backgroundBmp = "village"
@@ -3153,7 +3153,7 @@ mapTbl = {
 		displayName = "Izlude",
 		notifyEnter = true,
 		signName = {
-			subTitle = "A Cidade-satÈlite",
+			subTitle = "A Cidade-sat√©lite",
 			mainTitle = "Izlude"
 		},
 		backgroundBmp = "village"
@@ -3162,7 +3162,7 @@ mapTbl = {
 		displayName = "Izlude",
 		notifyEnter = true,
 		signName = {
-			subTitle = "A Cidade-satÈlite",
+			subTitle = "A Cidade-sat√©lite",
 			mainTitle = "Izlude"
 		},
 		backgroundBmp = "village"
@@ -3171,7 +3171,7 @@ mapTbl = {
 		displayName = "Izlude",
 		notifyEnter = true,
 		signName = {
-			subTitle = "A Cidade-satÈlite",
+			subTitle = "A Cidade-sat√©lite",
 			mainTitle = "Izlude"
 		},
 		backgroundBmp = "village"
@@ -3201,10 +3201,10 @@ mapTbl = {
 		displayName = "Teste dos Arcebispos"
 	},
 	["job3_gen01.rsw"] = {
-		displayName = "Guilda dos BioquÌmicos",
+		displayName = "Guilda dos Bioqu√≠micos",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Guilda dos BioquÌmicos"
+			mainTitle = "Guilda dos Bioqu√≠micos"
 		},
 		backgroundBmp = "village_s2"
 	},
@@ -3215,7 +3215,7 @@ mapTbl = {
 		displayName = "Dentro da Casa"
 	},
 	["job3_guil03.rsw"] = {
-		displayName = "Mans„o Escondida"
+		displayName = "Mans√£o Escondida"
 	},
 	["job3_rang01.rsw"] = {
 		displayName = "Teste dos Sentinelas"
@@ -3224,13 +3224,13 @@ mapTbl = {
 		displayName = "Teste dos Sentinelas"
 	},
 	["job3_rune01.rsw"] = {
-		displayName = "Guilda dos Cavaleiros R˙nicos"
+		displayName = "Guilda dos Cavaleiros R√∫nicos"
 	},
 	["job3_rune02.rsw"] = {
-		displayName = "Teste dos Cavaleiros R˙nicos"
+		displayName = "Teste dos Cavaleiros R√∫nicos"
 	},
 	["job3_rune03.rsw"] = {
-		displayName = "Teste dos Cavaleiros R˙nicos"
+		displayName = "Teste dos Cavaleiros R√∫nicos"
 	},
 	["job3_war01.rsw"] = {
 		displayName = "Guilda dos Arcanos"
@@ -3255,15 +3255,15 @@ mapTbl = {
 		backgroundBmp = "field2_s2"
 	},
 	["job4_tro.rsw"] = {
-		displayName = "Ba˙ Vazio de Kvasir",
+		displayName = "Ba√∫ Vazio de Kvasir",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Ba˙ Vazio de Kvasir"
+			mainTitle = "Ba√∫ Vazio de Kvasir"
 		},
 		backgroundBmp = "field2_s2"
 	},
 	["job_cru.rsw"] = {
-		displayName = "Teste dos Templ·rios"
+		displayName = "Teste dos Templ√°rios"
 	},
 	["job_duncer.rsw"] = {
 		displayName = "Teatro de Comodo"
@@ -3277,7 +3277,7 @@ mapTbl = {
 		backgroundBmp = "noname_s2"
 	},
 	["job_hunte.rsw"] = {
-		displayName = "Teste dos CaÁadores"
+		displayName = "Teste dos Ca√ßadores"
 	},
 	["job_knt.rsw"] = {
 		displayName = "Teste dos Cavaleiros"
@@ -3292,10 +3292,10 @@ mapTbl = {
 		displayName = "Teste dos Sacerdotes"
 	},
 	["job_sage.rsw"] = {
-		displayName = "Teste dos S·bios"
+		displayName = "Teste dos S√°bios"
 	},
 	["job_soul.rsw"] = {
-		displayName = "Seu CoraÁ„o"
+		displayName = "Seu Cora√ß√£o"
 	},
 	["job_star.rsw"] = {
 		displayName = "O Sol, a Lua e as Estrelas"
@@ -3367,36 +3367,36 @@ mapTbl = {
 		backgroundBmp = "noname_s2"
 	},
 	["juperos_01.rsw"] = {
-		displayName = "RuÌnas de Juperos (1)",
+		displayName = "Ru√≠nas de Juperos (1)",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "RuÌnas de Juperos"
+			mainTitle = "Ru√≠nas de Juperos"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
 	["juperos_02.rsw"] = {
-		displayName = "RuÌnas de Juperos (2)",
+		displayName = "Ru√≠nas de Juperos (2)",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Dentro das RuÌnas"
+			mainTitle = "Dentro das Ru√≠nas"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
 	["kh_dun01.rsw"] = {
-		displayName = "F·brica de RobÙs (1)",
+		displayName = "F√°brica de Rob√¥s (1)",
 		notifyEnter = true,
 		signName = {
 			subTitle = "Academia Kiel Hyre",
-			mainTitle = "F·brica de RobÙs (1)"
+			mainTitle = "F√°brica de Rob√¥s (1)"
 		},
 		backgroundBmp = "dungeon"
 	},
 	["kh_dun02.rsw"] = {
-		displayName = "F·brica de RobÙs (2)",
+		displayName = "F√°brica de Rob√¥s (2)",
 		notifyEnter = true,
 		signName = {
 			subTitle = "Academia Kiel Hyre",
-			mainTitle = "F·brica de RobÙs (2)"
+			mainTitle = "F√°brica de Rob√¥s (2)"
 		},
 		backgroundBmp = "dungeon"
 	},
@@ -3407,18 +3407,18 @@ mapTbl = {
 		displayName = "Sala de Kiehl"
 	},
 	["kh_mansion.rsw"] = {
-		displayName = "Mans„o de Kiel Hyre",
+		displayName = "Mans√£o de Kiel Hyre",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Mans„o de Kiel Hyre"
+			mainTitle = "Mans√£o de Kiel Hyre"
 		},
 		backgroundBmp = "village_s2"
 	},
 	["kh_rossi.rsw"] = {
-		displayName = "Mans„o Rosimier",
+		displayName = "Mans√£o Rosimier",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Mans„o Rosimier"
+			mainTitle = "Mans√£o Rosimier"
 		},
 		backgroundBmp = "noname_s2"
 	},
@@ -3442,43 +3442,43 @@ mapTbl = {
 	["knight_2-1.rsw"] = {displayName = "Cavalaria"},
 	["knight_3-1.rsw"] = {displayName = "Cavalaria"},
 	["lasa_dun01.rsw"] = {
-		displayName = "Ninho do Drag„o (1)",
+		displayName = "Ninho do Drag√£o (1)",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Ninho do Drag„o (1)"
+			mainTitle = "Ninho do Drag√£o (1)"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
 	["lasa_dun02.rsw"] = {
-		displayName = "Ninho do Drag„o (2)",
+		displayName = "Ninho do Drag√£o (2)",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Ninho do Drag„o (2)"
+			mainTitle = "Ninho do Drag√£o (2)"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
 	["lasa_dun03.rsw"] = {
-		displayName = "Ninho do Drag„o (3)",
+		displayName = "Ninho do Drag√£o (3)",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Ninho do Drag„o (3)"
+			mainTitle = "Ninho do Drag√£o (3)"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
 	["lasa_dun_q.rsw"] = {
-		displayName = "Ninho do Drag„o",
+		displayName = "Ninho do Drag√£o",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Ninho do Drag„o"
+			mainTitle = "Ninho do Drag√£o"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
 	["lasa_fild01.rsw"] = {
-		displayName = "PlanÌcies Ravioli",
+		displayName = "Plan√≠cies Ravioli",
 		notifyEnter = true,
 		signName = {
 			subTitle = "Arredores de Lasagna (1)",
-			mainTitle = "PlanÌcies Ravioli"
+			mainTitle = "Plan√≠cies Ravioli"
 		},
 		backgroundBmp = "field"
 	},
@@ -3520,7 +3520,7 @@ mapTbl = {
 		backgroundBmp = "village_s2"
 	},
 	["lhz_cube.rsw"] = {
-		displayName = "Sala C˙bica"
+		displayName = "Sala C√∫bica"
 	},
 	["lhz_d_n2.rsw"] = {
 		displayName = "Zona Segura da Tumba",
@@ -3532,42 +3532,42 @@ mapTbl = {
 		backgroundBmp = "noname"
 	},
 	["lhz_dun01.rsw"] = {
-		displayName = "BiolaboratÛrio (1)",
+		displayName = "Biolaborat√≥rio (1)",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "BiolaboratÛrio (1)"
+			mainTitle = "Biolaborat√≥rio (1)"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
 	["lhz_dun02.rsw"] = {
-		displayName = "BiolaboratÛrio (2)",
+		displayName = "Biolaborat√≥rio (2)",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "BiolaboratÛrio (2)"
+			mainTitle = "Biolaborat√≥rio (2)"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
 	["lhz_dun03.rsw"] = {
-		displayName = "BiolaboratÛrio (3)",
+		displayName = "Biolaborat√≥rio (3)",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "BiolaboratÛrio (3)"
+			mainTitle = "Biolaborat√≥rio (3)"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
 	["lhz_dun04.rsw"] = {
-		displayName = "BiolaboratÛrio (4)",
+		displayName = "Biolaborat√≥rio (4)",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "BiolaboratÛrio (4)"
+			mainTitle = "Biolaborat√≥rio (4)"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
 	["lhz_dun_n.rsw"] = {
-		displayName = "BiolaboratÛrio (Pesadelo)",
+		displayName = "Biolaborat√≥rio (Pesadelo)",
 		notifyEnter = true,
 		signName = {
-			subTitle = "BiolaboratÛrio",
+			subTitle = "Biolaborat√≥rio",
 			mainTitle = "Tumba da Honra"
 		},
 		backgroundBmp = "dungeon"
@@ -3598,10 +3598,10 @@ mapTbl = {
 		backgroundBmp = "field_s2"
 	},
 	["lhz_in01.rsw"] = {
-		displayName = "CorporaÁ„o Rekenber",
+		displayName = "Corpora√ß√£o Rekenber",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "CorporaÁ„o Rekenber"
+			mainTitle = "Corpora√ß√£o Rekenber"
 		},
 		backgroundBmp = "village_s2"
 	},
@@ -3788,10 +3788,10 @@ mapTbl = {
 		backgroundBmp = "dungeon"
 	},
 	["mal_dun01.rsw"] = {
-		displayName = "¡rea de Coral Estrelado",
+		displayName = "√Årea de Coral Estrelado",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "¡rea de Coral Estrelado"
+			mainTitle = "√Årea de Coral Estrelado"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
@@ -3862,10 +3862,10 @@ mapTbl = {
 		backgroundBmp = "village"
 	},
 	["mid_camp.rsw"] = {
-		displayName = "Acampamento da ExpediÁ„o da AlianÁa",
+		displayName = "Acampamento da Expedi√ß√£o da Alian√ßa",
 		notifyEnter = true,
 		signName = {
-			subTitle = "O Acampamento da AlianÁa",
+			subTitle = "O Acampamento da Alian√ßa",
 			mainTitle = "Ash Vacuum"
 		},
 		backgroundBmp = "village"
@@ -4090,7 +4090,7 @@ mapTbl = {
 		displayName = "Deserto de Sograt (19)",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "SÌtio ArqueolÛgico"
+			mainTitle = "S√≠tio Arqueol√≥gico"
 		},
 		backgroundBmp = "field_s2"
 	},
@@ -4131,58 +4131,58 @@ mapTbl = {
 		backgroundBmp = "field2"
 	},
 	["moc_para01.rsw"] = {
-		displayName = "Grupo do …den",
+		displayName = "Grupo do √âden",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Grupo do …den"
+			mainTitle = "Grupo do √âden"
 		},
 		backgroundBmp = "village_s2"
 	},
 	["moc_pryd01.rsw"] = {
-		displayName = "Pir‚mide (1)",
+		displayName = "Pir√¢mide (1)",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Pir‚mide (1)"
+			mainTitle = "Pir√¢mide (1)"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
 	["moc_pryd02.rsw"] = {
-		displayName = "Pir‚mide (2)",
+		displayName = "Pir√¢mide (2)",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Pir‚mide (2)"
+			mainTitle = "Pir√¢mide (2)"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
 	["moc_pryd03.rsw"] = {
-		displayName = "Pir‚mide (3)",
+		displayName = "Pir√¢mide (3)",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Pir‚mide (3)"
+			mainTitle = "Pir√¢mide (3)"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
 	["moc_pryd04.rsw"] = {
-		displayName = "Pir‚mide (4)",
+		displayName = "Pir√¢mide (4)",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Pir‚mide (4)"
+			mainTitle = "Pir√¢mide (4)"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
 	["moc_pryd05.rsw"] = {
-		displayName = "Subsolo da Pir‚mide (1)",
+		displayName = "Subsolo da Pir√¢mide (1)",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Subsolo da Pir‚mide (1)"
+			mainTitle = "Subsolo da Pir√¢mide (1)"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
 	["moc_pryd06.rsw"] = {
-		displayName = "Subsolo da Pir‚mide (2)",
+		displayName = "Subsolo da Pir√¢mide (2)",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Subsolo da Pir‚mide (2)"
+			mainTitle = "Subsolo da Pir√¢mide (2)"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
@@ -4196,28 +4196,28 @@ mapTbl = {
 		backgroundBmp = "noname"
 	},
 	["moc_prydn1.rsw"] = {
-		displayName = "Subsolo da Pir‚mide (1) - Pesadelo",
+		displayName = "Subsolo da Pir√¢mide (1) - Pesadelo",
 		notifyEnter = true,
 		signName = {
-			subTitle = "Subsolo da Pir‚mide (1)",
+			subTitle = "Subsolo da Pir√¢mide (1)",
 			mainTitle = "Modo Pesadelo"
 		},
 		backgroundBmp = "dungeon"
 	},
 	["moc_prydn2.rsw"] = {
-		displayName = "Subsolo da Pir‚mide (2) - Pesadelo",
+		displayName = "Subsolo da Pir√¢mide (2) - Pesadelo",
 		notifyEnter = true,
 		signName = {
-			subTitle = "Subsolo da Pir‚mide (2)",
+			subTitle = "Subsolo da Pir√¢mide (2)",
 			mainTitle = "Modo Pesadelo"
 		},
 		backgroundBmp = "dungeon"
 	},
 	["moc_ruins.rsw"] = {
-		displayName = "RuÌnas de Morroc",
+		displayName = "Ru√≠nas de Morroc",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "RuÌnas de Morroc"
+			mainTitle = "Ru√≠nas de Morroc"
 		},
 		backgroundBmp = "village_s2"
 	},
@@ -4245,10 +4245,10 @@ mapTbl = {
 		backgroundBmp = "noname_s2"
 	},
 	["moro_vol.rsw"] = {
-		displayName = "CÌrculo de Fogo",
+		displayName = "C√≠rculo de Fogo",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "CÌrculo de Fogo"
+			mainTitle = "C√≠rculo de Fogo"
 		},
 		backgroundBmp = "field_s2"
 	},
@@ -4265,11 +4265,11 @@ mapTbl = {
 		displayName = "Interior de Morroc"
 	},
 	["moscovia.rsw"] = {
-		displayName = "MoscÛvia",
+		displayName = "Mosc√≥via",
 		notifyEnter = true,
 		signName = {
 			subTitle = "A Vila Encantada",
-			mainTitle = "MoscÛvia"
+			mainTitle = "Mosc√≥via"
 		},
 		backgroundBmp = "village"
 	},
@@ -4306,18 +4306,18 @@ mapTbl = {
 		backgroundBmp = "field_s2"
 	},
 	["mosk_fild02.rsw"] = {
-		displayName = "Arredores de MoscÛvia",
+		displayName = "Arredores de Mosc√≥via",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Arredores de MoscÛvia"
+			mainTitle = "Arredores de Mosc√≥via"
 		},
 		backgroundBmp = "field_s2"
 	},
 	["mosk_in.rsw"] = {
-		displayName = "Interior de MoscÛvia"
+		displayName = "Interior de Mosc√≥via"
 	},
 	["mosk_ship.rsw"] = {
-		displayName = "Navio de MoscÛvia"
+		displayName = "Navio de Mosc√≥via"
 	},
 	["nameless_i.rsw"] = {
 		displayName = "Ilha Esquecida",
@@ -4486,19 +4486,19 @@ mapTbl = {
 		backgroundBmp = "field_s2"
 	},
 	["nif_dun01.rsw"] = {
-		displayName = "CalabouÁo de Nifflheim (1)",
+		displayName = "Calabou√ßo de Nifflheim (1)",
 		notifyEnter = true,
 		signName = {
-			subTitle = "CalabouÁo de Nifflheim",
-			mainTitle = "Sal„o de Banquetes"
+			subTitle = "Calabou√ßo de Nifflheim",
+			mainTitle = "Sal√£o de Banquetes"
 		},
 		backgroundBmp = "dungeon"
 	},
 	["nif_dun02.rsw"] = {
-		displayName = "CalabouÁo de Nifflheim (2)",
+		displayName = "Calabou√ßo de Nifflheim (2)",
 		notifyEnter = true,
 		signName = {
-			subTitle = "CalabouÁo de Nifflheim",
+			subTitle = "Calabou√ßo de Nifflheim",
 			mainTitle = "Teatro Colapsado"
 		},
 		backgroundBmp = "dungeon"
@@ -4507,7 +4507,7 @@ mapTbl = {
 		displayName = "Skellington",
 		notifyEnter = true,
 		signName = {
-			subTitle = "Vilarejo Solit·rio",
+			subTitle = "Vilarejo Solit√°rio",
 			mainTitle = "Skellington"
 		},
 		backgroundBmp = "field2"
@@ -4592,40 +4592,40 @@ mapTbl = {
 		backgroundBmp = "dungeon"
 	},
 	["ordeal_1-1.rsw"] = {
-		displayName = "Batalha de ProvaÁ„o"
+		displayName = "Batalha de Prova√ß√£o"
 	},
 	["ordeal_1-2.rsw"] = {
-		displayName = "Batalha de ProvaÁ„o"
+		displayName = "Batalha de Prova√ß√£o"
 	},
 	["ordeal_1-3.rsw"] = {
-		displayName = "Batalha de ProvaÁ„o"
+		displayName = "Batalha de Prova√ß√£o"
 	},
 	["ordeal_1-4.rsw"] = {
-		displayName = "Batalha de ProvaÁ„o"
+		displayName = "Batalha de Prova√ß√£o"
 	},
 	["ordeal_2-1.rsw"] = {
-		displayName = "Batalha de ProvaÁ„o"
+		displayName = "Batalha de Prova√ß√£o"
 	},
 	["ordeal_2-2.rsw"] = {
-		displayName = "Batalha de ProvaÁ„o"
+		displayName = "Batalha de Prova√ß√£o"
 	},
 	["ordeal_2-3.rsw"] = {
-		displayName = "Batalha de ProvaÁ„o"
+		displayName = "Batalha de Prova√ß√£o"
 	},
 	["ordeal_2-4.rsw"] = {
-		displayName = "Batalha de ProvaÁ„o"
+		displayName = "Batalha de Prova√ß√£o"
 	},
 	["ordeal_3-1.rsw"] = {
-		displayName = "Batalha de ProvaÁ„o"
+		displayName = "Batalha de Prova√ß√£o"
 	},
 	["ordeal_3-2.rsw"] = {
-		displayName = "Batalha de ProvaÁ„o"
+		displayName = "Batalha de Prova√ß√£o"
 	},
 	["ordeal_3-3.rsw"] = {
-		displayName = "Batalha de ProvaÁ„o"
+		displayName = "Batalha de Prova√ß√£o"
 	},
 	["ordeal_3-4.rsw"] = {
-		displayName = "Batalha de ProvaÁ„o"
+		displayName = "Batalha de Prova√ß√£o"
 	},
 	["oz_dun01.rsw"] = {
 		displayName = "Labirinto Oz (1)",
@@ -4660,7 +4660,7 @@ mapTbl = {
 		backgroundBmp = "village_s2"
 	},
 	["paramk.rsw"] = {
-		displayName = "Mercado Paralelo do …den",
+		displayName = "Mercado Paralelo do √âden",
 		notifyEnter = true,
 		signName = {
 			mainTitle = "Paramercado"
@@ -4677,10 +4677,10 @@ mapTbl = {
 		backgroundBmp = "village"
 	},
 	["pay_d03_i.rsw"] = {
-		displayName = "Ilus„o da Lua",
+		displayName = "Ilus√£o da Lua",
 		notifyEnter = true,
 		signName = {
-			subTitle = "Ilus„o da Lua",
+			subTitle = "Ilus√£o da Lua",
 			mainTitle = "Vilarejo Abandonado"
 		},
 		backgroundBmp = "dungeon"
@@ -4812,47 +4812,47 @@ mapTbl = {
 		backgroundBmp = "siege"
 	},
 	["payg_cas01.rsw"] = {
-		displayName = "Pal·cio do Sol (BC1)",
+		displayName = "Pal√°cio do Sol (BC1)",
 		notifyEnter = true,
 		signName = {
 			subTitle = "Feudo do Bosque Celestial",
-			mainTitle = "Pal·cio do Sol"
+			mainTitle = "Pal√°cio do Sol"
 		},
 		backgroundBmp = "siege"
 	},
 	["payg_cas02.rsw"] = {
-		displayName = "Pal·cio do Lago Sagrado (BC2)",
+		displayName = "Pal√°cio do Lago Sagrado (BC2)",
 		notifyEnter = true,
 		signName = {
 			subTitle = "Feudo do Bosque Celestial",
-			mainTitle = "Pal·cio do Lago Sagrado"
+			mainTitle = "Pal√°cio do Lago Sagrado"
 		},
 		backgroundBmp = "siege"
 	},
 	["payg_cas03.rsw"] = {
-		displayName = "Pal·cio da Sombra (BC3)",
+		displayName = "Pal√°cio da Sombra (BC3)",
 		notifyEnter = true,
 		signName = {
 			subTitle = "Feudo do Bosque Celestial",
-			mainTitle = "Pal·cio da Sombra"
+			mainTitle = "Pal√°cio da Sombra"
 		},
 		backgroundBmp = "siege"
 	},
 	["payg_cas04.rsw"] = {
-		displayName = "Pal·cio Escarlate (BC4)",
+		displayName = "Pal√°cio Escarlate (BC4)",
 		notifyEnter = true,
 		signName = {
 			subTitle = "Feudo do Bosque Celestial",
-			mainTitle = "Pal·cio Escarlate"
+			mainTitle = "Pal√°cio Escarlate"
 		},
 		backgroundBmp = "siege"
 	},
 	["payg_cas05.rsw"] = {
-		displayName = "Pal·cio da Colina (BC5)",
+		displayName = "Pal√°cio da Colina (BC5)",
 		notifyEnter = true,
 		signName = {
 			subTitle = "Feudo do Bosque Celestial",
-			mainTitle = "Pal·cio da Colina"
+			mainTitle = "Pal√°cio da Colina"
 		},
 		backgroundBmp = "siege"
 	},
@@ -4922,11 +4922,11 @@ mapTbl = {
 		backgroundBmp = "noname_s2"
 	},
 	["prt_cas.rsw"] = {
-		displayName = "Pal·cio de Prontera",
+		displayName = "Pal√°cio de Prontera",
 		notifyEnter = true,
 		signName = {
-			subTitle = "Lar das FamÌlias Reais",
-			mainTitle = "Pal·cio de Prontera"
+			subTitle = "Lar das Fam√≠lias Reais",
+			mainTitle = "Pal√°cio de Prontera"
 		},
 		backgroundBmp = "village"
 	},
@@ -4934,7 +4934,7 @@ mapTbl = {
 		displayName = "Aposentos dos Nobres",
 		notifyEnter = true,
 		signName = {
-			subTitle = "Pal·cio de Prontera",
+			subTitle = "Pal√°cio de Prontera",
 			mainTitle = "Aposentos dos Nobres"
 		},
 		backgroundBmp = "village"
@@ -5081,11 +5081,11 @@ mapTbl = {
 		backgroundBmp = "field_s2"
 	},
 	["prt_gld.rsw"] = {
-		displayName = "Feudo das ValquÌrias",
+		displayName = "Feudo das Valqu√≠rias",
 		notifyEnter = true,
 		signName = {
 			subTitle = "Prontera",
-			mainTitle = "Feudo das ValquÌrias"
+			mainTitle = "Feudo das Valqu√≠rias"
 		},
 		backgroundBmp = "siege"
 	},
@@ -5093,16 +5093,16 @@ mapTbl = {
 		displayName = "Interior de Prontera"
 	},
 	["prt_lib.rsw"] = {
-		displayName = "Memorial das FamÌlias Reais (Presente)",
+		displayName = "Memorial das Fam√≠lias Reais (Presente)",
 		notifyEnter = true,
 		signName = {
-			subTitle = "Memorial das FamÌlias Reais (Presente)",
+			subTitle = "Memorial das Fam√≠lias Reais (Presente)",
 			mainTitle = "Presente"
 		},
 		backgroundBmp = "noname"
 	},
 	["prt_lib_q.rsw"] = {
-		displayName = "Memorial das FamÌlias Reais (Passado)"
+		displayName = "Memorial das Fam√≠lias Reais (Passado)"
 	},
 	["prt_maze01.rsw"] = {
 		displayName = "Labirinto da Floresta (1)",
@@ -5153,10 +5153,10 @@ mapTbl = {
 		backgroundBmp = "village"
 	},
 	["prt_mz03_i.rsw"] = {
-		displayName = "Ilus„o do Labirinto",
+		displayName = "Ilus√£o do Labirinto",
 		notifyEnter = true,
 		signName = {
-			subTitle = "Ilus„o do Labirinto",
+			subTitle = "Ilus√£o do Labirinto",
 			mainTitle = "Labirinto da Floresta"
 		},
 		backgroundBmp = "dungeon"
@@ -5165,19 +5165,19 @@ mapTbl = {
 		displayName = "Carceragem de Prontera"
 	},
 	["prt_prison.rsw"] = {
-		displayName = "Pris„o de Prontera",
+		displayName = "Pris√£o de Prontera",
 		notifyEnter = true,
 		signName = {
-			subTitle = "Pal·cio de Prontera",
-			mainTitle = "Pris„o Subterr‚nea"
+			subTitle = "Pal√°cio de Prontera",
+			mainTitle = "Pris√£o Subterr√¢nea"
 		},
 		backgroundBmp = "dungeon"
 	},
 	["prt_q.rsw"] = {
-		displayName = "Prontera DestruÌda",
+		displayName = "Prontera Destru√≠da",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Prontera DestruÌda"
+			mainTitle = "Prontera Destru√≠da"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
@@ -5217,7 +5217,7 @@ mapTbl = {
 		displayName = "Kriemhild (V1)",
 		notifyEnter = true,
 		signName = {
-			subTitle = "Feudo das ValquÌrias",
+			subTitle = "Feudo das Valqu√≠rias",
 			mainTitle = "Kriemhild"
 		},
 		backgroundBmp = "siege"
@@ -5226,7 +5226,7 @@ mapTbl = {
 		displayName = "Hrist (V2)",
 		notifyEnter = true,
 		signName = {
-			subTitle = "Feudo das ValquÌrias",
+			subTitle = "Feudo das Valqu√≠rias",
 			mainTitle = "Hrist"
 		},
 		backgroundBmp = "siege"
@@ -5235,7 +5235,7 @@ mapTbl = {
 		displayName = "Brynhildr (V3)",
 		notifyEnter = true,
 		signName = {
-			subTitle = "Feudo das ValquÌrias",
+			subTitle = "Feudo das Valqu√≠rias",
 			mainTitle = "Brynhildr"
 		},
 		backgroundBmp = "siege"
@@ -5244,7 +5244,7 @@ mapTbl = {
 		displayName = "Skoegul (V4)",
 		notifyEnter = true,
 		signName = {
-			subTitle = "Feudo das ValquÌrias",
+			subTitle = "Feudo das Valqu√≠rias",
 			mainTitle = "Skoegul"
 		},
 		backgroundBmp = "siege"
@@ -5253,7 +5253,7 @@ mapTbl = {
 		displayName = "Gondul (V5)",
 		notifyEnter = true,
 		signName = {
-			subTitle = "Feudo das ValquÌrias",
+			subTitle = "Feudo das Valqu√≠rias",
 			mainTitle = "Gondul"
 		},
 		backgroundBmp = "siege"
@@ -5284,10 +5284,10 @@ mapTbl = {
 		backgroundBmp = "noname_s2"
 	},
 	["pvp_n_1-1.rsw"] = {
-		displayName = "PvP : Sala SanduÌche",
+		displayName = "PvP : Sala Sandu√≠che",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "PvP Sala SanduÌche"
+			mainTitle = "PvP Sala Sandu√≠che"
 		},
 		backgroundBmp = "noname_s2"
 	},
@@ -5316,18 +5316,18 @@ mapTbl = {
 		backgroundBmp = "noname_s2"
 	},
 	["pvp_n_1-5.rsw"] = {
-		displayName = "PvP : Sala B˙ssola",
+		displayName = "PvP : Sala B√∫ssola",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "PvP Sala B˙ssola"
+			mainTitle = "PvP Sala B√∫ssola"
 		},
 		backgroundBmp = "noname_s2"
 	},
 	["pvp_n_2-1.rsw"] = {
-		displayName = "PvP : Sala SanduÌche",
+		displayName = "PvP : Sala Sandu√≠che",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "PvP Sala SanduÌche"
+			mainTitle = "PvP Sala Sandu√≠che"
 		},
 		backgroundBmp = "noname_s2"
 	},
@@ -5356,18 +5356,18 @@ mapTbl = {
 		backgroundBmp = "noname_s2"
 	},
 	["pvp_n_2-5.rsw"] = {
-		displayName = "PvP : Sala B˙ssola",
+		displayName = "PvP : Sala B√∫ssola",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "PvP Sala B˙ssola"
+			mainTitle = "PvP Sala B√∫ssola"
 		},
 		backgroundBmp = "noname_s2"
 	},
 	["pvp_n_3-1.rsw"] = {
-		displayName = "PvP : Sala SanduÌche",
+		displayName = "PvP : Sala Sandu√≠che",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "PvP Sala SanduÌche"
+			mainTitle = "PvP Sala Sandu√≠che"
 		},
 		backgroundBmp = "noname_s2"
 	},
@@ -5396,18 +5396,18 @@ mapTbl = {
 		backgroundBmp = "noname_s2"
 	},
 	["pvp_n_3-5.rsw"] = {
-		displayName = "PvP : Sala B˙ssola",
+		displayName = "PvP : Sala B√∫ssola",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "PvP Sala B˙ssola"
+			mainTitle = "PvP Sala B√∫ssola"
 		},
 		backgroundBmp = "noname_s2"
 	},
 	["pvp_n_4-1.rsw"] = {
-		displayName = "PvP : Sala SanduÌche",
+		displayName = "PvP : Sala Sandu√≠che",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "PvP Sala SanduÌche"
+			mainTitle = "PvP Sala Sandu√≠che"
 		},
 		backgroundBmp = "noname_s2"
 	},
@@ -5436,18 +5436,18 @@ mapTbl = {
 		backgroundBmp = "noname_s2"
 	},
 	["pvp_n_4-5.rsw"] = {
-		displayName = "PvP : Sala B˙ssola",
+		displayName = "PvP : Sala B√∫ssola",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "PvP Sala B˙ssola"
+			mainTitle = "PvP Sala B√∫ssola"
 		},
 		backgroundBmp = "noname_s2"
 	},
 	["pvp_n_5-1.rsw"] = {
-		displayName = "PvP : Sala SanduÌche",
+		displayName = "PvP : Sala Sandu√≠che",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "PvP Sala SanduÌche"
+			mainTitle = "PvP Sala Sandu√≠che"
 		},
 		backgroundBmp = "noname_s2"
 	},
@@ -5476,18 +5476,18 @@ mapTbl = {
 		backgroundBmp = "noname_s2"
 	},
 	["pvp_n_5-5.rsw"] = {
-		displayName = "PvP : Sala B˙ssola",
+		displayName = "PvP : Sala B√∫ssola",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "PvP Sala B˙ssola"
+			mainTitle = "PvP Sala B√∫ssola"
 		},
 		backgroundBmp = "noname_s2"
 	},
 	["pvp_n_6-1.rsw"] = {
-		displayName = "PvP : Sala SanduÌche",
+		displayName = "PvP : Sala Sandu√≠che",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "PvP Sala SanduÌche"
+			mainTitle = "PvP Sala Sandu√≠che"
 		},
 		backgroundBmp = "noname_s2"
 	},
@@ -5516,18 +5516,18 @@ mapTbl = {
 		backgroundBmp = "noname_s2"
 	},
 	["pvp_n_6-5.rsw"] = {
-		displayName = "PvP : Sala B˙ssola",
+		displayName = "PvP : Sala B√∫ssola",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "PvP Sala B˙ssola"
+			mainTitle = "PvP Sala B√∫ssola"
 		},
 		backgroundBmp = "noname_s2"
 	},
 	["pvp_n_7-1.rsw"] = {
-		displayName = "PvP : Sala SanduÌche",
+		displayName = "PvP : Sala Sandu√≠che",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "PvP Sala SanduÌche"
+			mainTitle = "PvP Sala Sandu√≠che"
 		},
 		backgroundBmp = "noname_s2"
 	},
@@ -5556,18 +5556,18 @@ mapTbl = {
 		backgroundBmp = "noname_s2"
 	},
 	["pvp_n_7-5.rsw"] = {
-		displayName = "PvP : Sala B˙ssola",
+		displayName = "PvP : Sala B√∫ssola",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "PvP Sala B˙ssola"
+			mainTitle = "PvP Sala B√∫ssola"
 		},
 		backgroundBmp = "noname_s2"
 	},
 	["pvp_n_8-1.rsw"] = {
-		displayName = "PvP : Sala SanduÌche",
+		displayName = "PvP : Sala Sandu√≠che",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "PvP Sala SanduÌche"
+			mainTitle = "PvP Sala Sandu√≠che"
 		},
 		backgroundBmp = "noname_s2"
 	},
@@ -5596,10 +5596,10 @@ mapTbl = {
 		backgroundBmp = "noname_s2"
 	},
 	["pvp_n_8-5.rsw"] = {
-		displayName = "PvP : Sala B˙ssola",
+		displayName = "PvP : Sala B√∫ssola",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "PvP Sala B˙ssola"
+			mainTitle = "PvP Sala B√∫ssola"
 		},
 		backgroundBmp = "noname_s2"
 	},
@@ -5892,7 +5892,7 @@ mapTbl = {
 		backgroundBmp = "noname_s2"
 	},
 	["que_avan01.rsw"] = {
-		displayName = "PerÌmetros de Eclage"
+		displayName = "Per√≠metros de Eclage"
 	},
 	["que_bingo.rsw"] = {
 		displayName = "Casa de Bingo"
@@ -5929,105 +5929,105 @@ mapTbl = {
 		backgroundBmp = "noname_s2"
 	},
 	["que_lhz.rsw"] = {
-		displayName = "BiolaboratÛrio",
+		displayName = "Biolaborat√≥rio",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "BiolaboratÛrio"
+			mainTitle = "Biolaborat√≥rio"
 		},
 		backgroundBmp = "noname_s2"
 	},
 	["que_ng.rsw"] = {displayName = "Guilda"},
 	["que_qaru01.rsw"] = {
-		displayName = "Vis„o de Okolnir",
+		displayName = "Vis√£o de Okolnir",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Vis„o de Okolnir"
+			mainTitle = "Vis√£o de Okolnir"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
 	["que_qaru02.rsw"] = {
-		displayName = "Vis„o de Okolnir",
+		displayName = "Vis√£o de Okolnir",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Vis„o de Okolnir"
+			mainTitle = "Vis√£o de Okolnir"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
 	["que_qaru03.rsw"] = {
-		displayName = "Vis„o de Okolnir",
+		displayName = "Vis√£o de Okolnir",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Vis„o de Okolnir"
+			mainTitle = "Vis√£o de Okolnir"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
 	["que_qaru04.rsw"] = {
-		displayName = "Vis„o de Okolnir",
+		displayName = "Vis√£o de Okolnir",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Vis„o de Okolnir"
+			mainTitle = "Vis√£o de Okolnir"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
 	["que_qaru05.rsw"] = {
-		displayName = "Vis„o de Okolnir",
+		displayName = "Vis√£o de Okolnir",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Vis„o de Okolnir"
+			mainTitle = "Vis√£o de Okolnir"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
 	["que_qsch01.rsw"] = {
-		displayName = "Vis„o de Okolnir",
+		displayName = "Vis√£o de Okolnir",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Vis„o de Okolnir"
+			mainTitle = "Vis√£o de Okolnir"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
 	["que_qsch02.rsw"] = {
-		displayName = "Vis„o de Okolnir",
+		displayName = "Vis√£o de Okolnir",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Vis„o de Okolnir"
+			mainTitle = "Vis√£o de Okolnir"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
 	["que_qsch03.rsw"] = {
-		displayName = "Vis„o de Okolnir",
+		displayName = "Vis√£o de Okolnir",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Vis„o de Okolnir"
+			mainTitle = "Vis√£o de Okolnir"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
 	["que_qsch04.rsw"] = {
-		displayName = "Vis„o de Okolnir",
+		displayName = "Vis√£o de Okolnir",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Vis„o de Okolnir"
+			mainTitle = "Vis√£o de Okolnir"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
 	["que_qsch05.rsw"] = {
-		displayName = "Vis„o de Okolnir",
+		displayName = "Vis√£o de Okolnir",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Vis„o de Okolnir"
+			mainTitle = "Vis√£o de Okolnir"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
 	["que_rachel.rsw"] = {
-		displayName = "Interior do Santu·rio"
+		displayName = "Interior do Santu√°rio"
 	},
 	["que_san04.rsw"] = {
-		displayName = "Interior do Santu·rio"
+		displayName = "Interior do Santu√°rio"
 	},
 	["que_swat.rsw"] = {
-		displayName = "Base Militar da CaÁa-CoraÁ„o",
+		displayName = "Base Militar da Ca√ßa-Cora√ß√£o",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Base Militar da CaÁa-CoraÁ„o"
+			mainTitle = "Base Militar da Ca√ßa-Cora√ß√£o"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
@@ -6035,24 +6035,24 @@ mapTbl = {
 		displayName = "Jardins Sagrados",
 		notifyEnter = true,
 		signName = {
-			subTitle = "EscritÛrio da Papisa",
+			subTitle = "Escrit√≥rio da Papisa",
 			mainTitle = "Jardins Sagrados"
 		},
 		backgroundBmp = "village"
 	},
 	["que_thor.rsw"] = {
-		displayName = "Interior do Vulc„o",
+		displayName = "Interior do Vulc√£o",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Interior do Vulc„o"
+			mainTitle = "Interior do Vulc√£o"
 		},
 		backgroundBmp = "noname_s2"
 	},
 	["que_thr.rsw"] = {
-		displayName = "Interior do Vulc„o de Thor",
+		displayName = "Interior do Vulc√£o de Thor",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Interior do Vulc„o de Thor"
+			mainTitle = "Interior do Vulc√£o de Thor"
 		},
 		backgroundBmp = "noname_s2"
 	},
@@ -6088,19 +6088,19 @@ mapTbl = {
 		backgroundBmp = "field2"
 	},
 	["ra_fild02.rsw"] = {
-		displayName = "C‚nion de Oz",
+		displayName = "C√¢nion de Oz",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "C‚nion de Oz"
+			mainTitle = "C√¢nion de Oz"
 		},
 		backgroundBmp = "field_s2"
 	},
 	["ra_fild03.rsw"] = {
-		displayName = "PlanÌcie de Ida",
+		displayName = "Plan√≠cie de Ida",
 		notifyEnter = true,
 		signName = {
 			subTitle = "Arredores de Rachel (3)",
-			mainTitle = "PlanÌcie de Ida"
+			mainTitle = "Plan√≠cie de Ida"
 		},
 		backgroundBmp = "field2"
 	},
@@ -6132,19 +6132,19 @@ mapTbl = {
 		backgroundBmp = "field2"
 	},
 	["ra_fild07.rsw"] = {
-		displayName = "C‚nion de Oz",
+		displayName = "C√¢nion de Oz",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "C‚nion de Oz"
+			mainTitle = "C√¢nion de Oz"
 		},
 		backgroundBmp = "field_s2"
 	},
 	["ra_fild08.rsw"] = {
-		displayName = "PlanÌcie de Ida",
+		displayName = "Plan√≠cie de Ida",
 		notifyEnter = true,
 		signName = {
 			subTitle = "Arredores de Rachel (8)",
-			mainTitle = "PlanÌcie de Ida"
+			mainTitle = "Plan√≠cie de Ida"
 		},
 		backgroundBmp = "field"
 	},
@@ -6157,37 +6157,37 @@ mapTbl = {
 		backgroundBmp = "field_s2"
 	},
 	["ra_fild10.rsw"] = {
-		displayName = "C‚nion de Oz",
+		displayName = "C√¢nion de Oz",
 		notifyEnter = true,
 		signName = {
 			subTitle = "Arredores de Rachel (10)",
-			mainTitle = "C‚nion de Oz"
+			mainTitle = "C√¢nion de Oz"
 		},
 		backgroundBmp = "field"
 	},
 	["ra_fild11.rsw"] = {
-		displayName = "PlanÌcie de Ida",
+		displayName = "Plan√≠cie de Ida",
 		notifyEnter = true,
 		signName = {
 			subTitle = "Arredores de Rachel (11)",
-			mainTitle = "PlanÌcie de Ida"
+			mainTitle = "Plan√≠cie de Ida"
 		},
 		backgroundBmp = "field"
 	},
 	["ra_fild12.rsw"] = {
-		displayName = "PlanÌcie de Ida",
+		displayName = "Plan√≠cie de Ida",
 		notifyEnter = true,
 		signName = {
 			subTitle = "Arredores de Rachel (12)",
-			mainTitle = "PlanÌcie de Ida"
+			mainTitle = "Plan√≠cie de Ida"
 		},
 		backgroundBmp = "field"
 	},
 	["ra_fild13.rsw"] = {
-		displayName = "Costa das L·grimas",
+		displayName = "Costa das L√°grimas",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Costa das L·grimas"
+			mainTitle = "Costa das L√°grimas"
 		},
 		backgroundBmp = "field_s2"
 	},
@@ -6195,58 +6195,58 @@ mapTbl = {
 		displayName = "Interior de Rachel"
 	},
 	["ra_san01.rsw"] = {
-		displayName = "Santu·rio de Freya (1)",
+		displayName = "Santu√°rio de Freya (1)",
 		notifyEnter = true,
 		signName = {
-			subTitle = "Santu·rio de Freya (1)",
+			subTitle = "Santu√°rio de Freya (1)",
 			mainTitle = "Sessrumnir"
 		},
 		backgroundBmp = "dungeon"
 	},
 	["ra_san02.rsw"] = {
-		displayName = "Santu·rio de Freya (2)",
+		displayName = "Santu√°rio de Freya (2)",
 		notifyEnter = true,
 		signName = {
-			subTitle = "Santu·rio de Freya (2)",
+			subTitle = "Santu√°rio de Freya (2)",
 			mainTitle = "Sessrumnir - Oeste"
 		},
 		backgroundBmp = "dungeon"
 	},
 	["ra_san03.rsw"] = {
-		displayName = "Santu·rio de Freya (3)",
+		displayName = "Santu√°rio de Freya (3)",
 		notifyEnter = true,
 		signName = {
-			subTitle = "Santu·rio de Freya (3)",
+			subTitle = "Santu√°rio de Freya (3)",
 			mainTitle = "Sessrumnir - Leste"
 		},
 		backgroundBmp = "dungeon"
 	},
 	["ra_san04.rsw"] = {
-		displayName = "Santu·rio de Freya (4)",
+		displayName = "Santu√°rio de Freya (4)",
 		notifyEnter = true,
 		signName = {
-			subTitle = "Santu·rio de Freya (4)",
+			subTitle = "Santu√°rio de Freya (4)",
 			mainTitle = "Sessrumnir"
 		},
 		backgroundBmp = "dungeon"
 	},
 	["ra_san05.rsw"] = {
-		displayName = "Santu·rio de Freya (5)",
+		displayName = "Santu√°rio de Freya (5)",
 		notifyEnter = true,
 		signName = {
-			subTitle = "Santu·rio de Freya (5)",
+			subTitle = "Santu√°rio de Freya (5)",
 			mainTitle = "Sessrumnir"
 		},
 		backgroundBmp = "dungeon"
 	},
 	["ra_temin.rsw"] = {
-		displayName = "Interior do Santu·rio"
+		displayName = "Interior do Santu√°rio"
 	},
 	["ra_temple.rsw"] = {
-		displayName = "Santu·rio de Freya (Sessrumnir)",
+		displayName = "Santu√°rio de Freya (Sessrumnir)",
 		notifyEnter = true,
 		signName = {
-			subTitle = "O Santu·rio de Freya",
+			subTitle = "O Santu√°rio de Freya",
 			mainTitle = "Sessrumnir"
 		},
 		backgroundBmp = "village"
@@ -6255,7 +6255,7 @@ mapTbl = {
 		displayName = "Jardins Sagrados",
 		notifyEnter = true,
 		signName = {
-			subTitle = "EscritÛrio da Papisa",
+			subTitle = "Escrit√≥rio da Papisa",
 			mainTitle = "Jardins Sagrados"
 		},
 		backgroundBmp = "village"
@@ -6320,9 +6320,9 @@ mapTbl = {
 		backgroundBmp = "field"
 	},
 	["s_atelier.rsw"] = {
-		displayName = "AteliÍ",
+		displayName = "Ateli√™",
 		notifyEnter = true,
-		signName = {mainTitle = "AteliÍ"},
+		signName = {mainTitle = "Ateli√™"},
 		backgroundBmp = "village_s2"
 	},
 	["sch_gld.rsw"] = {
@@ -6380,11 +6380,11 @@ mapTbl = {
 		backgroundBmp = "siege"
 	},
 	["schg_dun01.rsw"] = {
-		displayName = "CalabouÁo de Nithafjoll",
+		displayName = "Calabou√ßo de Nithafjoll",
 		notifyEnter = true,
 		signName = {
 			subTitle = "Feudo de Nithafjoll",
-			mainTitle = "CalabouÁo de Castelo"
+			mainTitle = "Calabou√ßo de Castelo"
 		},
 		backgroundBmp = "dungeon"
 	},
@@ -6397,28 +6397,28 @@ mapTbl = {
 		backgroundBmp = "siege_s2"
 	},
 	["sec_in01.rsw"] = {
-		displayName = "AdministraÁ„o (1)"
+		displayName = "Administra√ß√£o (1)"
 	},
 	["sec_in02.rsw"] = {
-		displayName = "AdministraÁ„o (2)",
+		displayName = "Administra√ß√£o (2)",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "AdministraÁ„o"
+			mainTitle = "Administra√ß√£o"
 		},
 		backgroundBmp = "village_s2"
 	},
 	["sec_pri.rsw"] = {
-		displayName = "AdministraÁ„o (3)"
+		displayName = "Administra√ß√£o (3)"
 	},
 	["silk_lair.rsw"] = {
 		displayName = "Esconderijo do Polvo",
 		notifyEnter = true
 	},
 	["slabw01.rsw"] = {
-		displayName = "LaboratÛrio Werner",
+		displayName = "Laborat√≥rio Werner",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "LaboratÛrio Werner"
+			mainTitle = "Laborat√≥rio Werner"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
@@ -6426,7 +6426,7 @@ mapTbl = {
 		displayName = "Distrito COR",
 		notifyEnter = true,
 		signName = {
-			subTitle = "Fronteira de SeguranÁa",
+			subTitle = "Fronteira de Seguran√ßa",
 			mainTitle = "COR"
 		},
 		backgroundBmp = "field"
@@ -6435,43 +6435,43 @@ mapTbl = {
 		displayName = "Distrito OS",
 		notifyEnter = true,
 		signName = {
-			subTitle = "Fronteira de SeguranÁa",
+			subTitle = "Fronteira de Seguran√ßa",
 			mainTitle = "OS"
 		},
 		backgroundBmp = "dungeon"
 	},
 	["sp_rudus.rsw"] = {
-		displayName = "Rudus, depÛsito de rejeitos (1)",
+		displayName = "Rudus, dep√≥sito de rejeitos (1)",
 		notifyEnter = true,
 		signName = {
-			subTitle = "DepÛsito de Rejeitos",
+			subTitle = "Dep√≥sito de Rejeitos",
 			mainTitle = "Rudus (1)"
 		},
 		backgroundBmp = "dungeon"
 	},
 	["sp_rudus2.rsw"] = {
-		displayName = "Rudus, depÛsito de rejeitos (2)",
+		displayName = "Rudus, dep√≥sito de rejeitos (2)",
 		notifyEnter = true,
 		signName = {
-			subTitle = "DepÛsito de Rejeitos",
+			subTitle = "Dep√≥sito de Rejeitos",
 			mainTitle = "Rudus (2)"
 		},
 		backgroundBmp = "dungeon"
 	},
 	["sp_rudus3.rsw"] = {
-		displayName = "Rudus, depÛsito de rejeitos (3)",
+		displayName = "Rudus, dep√≥sito de rejeitos (3)",
 		notifyEnter = true,
 		signName = {
-			subTitle = "DepÛsito de Rejeitos",
+			subTitle = "Dep√≥sito de Rejeitos",
 			mainTitle = "Rudus (3)"
 		},
 		backgroundBmp = "dungeon"
 	},
 	["sp_rudus4.rsw"] = {
-		displayName = "Rudus, depÛsito de rejeitos (4)",
+		displayName = "Rudus, dep√≥sito de rejeitos (4)",
 		notifyEnter = true,
 		signName = {
-			subTitle = "DepÛsito de Rejeitos",
+			subTitle = "Dep√≥sito de Rejeitos",
 			mainTitle = "Rudus (4)"
 		},
 		backgroundBmp = "dungeon"
@@ -6510,7 +6510,7 @@ mapTbl = {
 		displayName = "Esplendor",
 		notifyEnter = true,
 		signName = {
-			subTitle = "Base dos EsplÍndidos",
+			subTitle = "Base dos Espl√™ndidos",
 			mainTitle = "Esplendor"
 		},
 		backgroundBmp = "village"
@@ -6683,20 +6683,20 @@ mapTbl = {
 		backgroundBmp = "siege"
 	},
 	["teg_dun01.rsw"] = {
-		displayName = "CalabouÁo de Gloria",
+		displayName = "Calabou√ßo de Gloria",
 		notifyEnter = true,
 		signName = {
 			subTitle = "Feudo de Gloria",
-			mainTitle = "CalabouÁo de Castelo"
+			mainTitle = "Calabou√ßo de Castelo"
 		},
 		backgroundBmp = "dungeon"
 	},
 	["teg_dun02.rsw"] = {
-		displayName = "CalabouÁo de Kafragarten",
+		displayName = "Calabou√ßo de Kafragarten",
 		notifyEnter = true,
 		signName = {
 			subTitle = "Kafragarten",
-			mainTitle = "CalabouÁo de Castelo"
+			mainTitle = "Calabou√ßo de Castelo"
 		},
 		backgroundBmp = "dungeon"
 	},
@@ -6723,7 +6723,7 @@ mapTbl = {
 		notifyEnter = true,
 		signName = {
 			subTitle = "Torre de Thanatos (3)",
-			mainTitle = "Andar em RestauraÁ„o"
+			mainTitle = "Andar em Restaura√ß√£o"
 		},
 		backgroundBmp = "dungeon"
 	},
@@ -6784,7 +6784,7 @@ mapTbl = {
 		notifyEnter = true,
 		signName = {
 			subTitle = "Torre de Thanatos (10)",
-			mainTitle = "Sala da DesgraÁa"
+			mainTitle = "Sala da Desgra√ßa"
 		},
 		backgroundBmp = "dungeon"
 	},
@@ -6802,7 +6802,7 @@ mapTbl = {
 		notifyEnter = true,
 		signName = {
 			subTitle = "Torre de Thanatos (12)",
-			mainTitle = "Sala do ”dio"
+			mainTitle = "Sala do √ìdio"
 		},
 		backgroundBmp = "dungeon"
 	},
@@ -6811,7 +6811,7 @@ mapTbl = {
 		notifyEnter = true,
 		signName = {
 			subTitle = "Torre de Thanatos",
-			mainTitle = "O ⁄ltimo Andar"
+			mainTitle = "O √öltimo Andar"
 		},
 		backgroundBmp = "dungeon"
 	},
@@ -6841,26 +6841,26 @@ mapTbl = {
 		backgroundBmp = "noname_s2"
 	},
 	["thor_v01.rsw"] = {
-		displayName = "Vulc„o de Thor (1)",
+		displayName = "Vulc√£o de Thor (1)",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Vulc„o de Thor (1)"
+			mainTitle = "Vulc√£o de Thor (1)"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
 	["thor_v02.rsw"] = {
-		displayName = "Vulc„o de Thor (2)",
+		displayName = "Vulc√£o de Thor (2)",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Vulc„o de Thor (2)"
+			mainTitle = "Vulc√£o de Thor (2)"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
 	["thor_v03.rsw"] = {
-		displayName = "Vulc„o de Thor (3)",
+		displayName = "Vulc√£o de Thor (3)",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Vulc„o de Thor (3)"
+			mainTitle = "Vulc√£o de Thor (3)"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
@@ -6909,20 +6909,20 @@ mapTbl = {
 		backgroundBmp = "dungeon"
 	},
 	["tur_d03_i.rsw"] = {
-		displayName = "Ilus„o da Tartaruga (1)",
+		displayName = "Ilus√£o da Tartaruga (1)",
 		notifyEnter = true,
 		signName = {
-			subTitle = "Ilus„o da Tartaruga",
+			subTitle = "Ilus√£o da Tartaruga",
 			mainTitle = "Vila das Boas Tartarugas"
 		},
 		backgroundBmp = "dungeon"
 	},
 	["tur_d04_i.rsw"] = {
-		displayName = "Ilus„o da Tartaruga (2)",
+		displayName = "Ilus√£o da Tartaruga (2)",
 		notifyEnter = true,
 		signName = {
-			subTitle = "Ilus„o da Tartaruga",
-			mainTitle = "Pal·cio Tartaruga"
+			subTitle = "Ilus√£o da Tartaruga",
+			mainTitle = "Pal√°cio Tartaruga"
 		},
 		backgroundBmp = "dungeon"
 	},
@@ -6951,26 +6951,26 @@ mapTbl = {
 		backgroundBmp = "dungeon_s2"
 	},
 	["tur_dun04.rsw"] = {
-		displayName = "Pal·cio Tartaruga",
+		displayName = "Pal√°cio Tartaruga",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Pal·cio Tartaruga"
+			mainTitle = "Pal√°cio Tartaruga"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
 	["tur_dun05.rsw"] = {
-		displayName = "P‚ntano Subterr‚neo",
+		displayName = "P√¢ntano Subterr√¢neo",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "P‚ntano Subterr‚neo"
+			mainTitle = "P√¢ntano Subterr√¢neo"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
 	["tur_dun06.rsw"] = {
-		displayName = "P‚ntano Subterr‚neo",
+		displayName = "P√¢ntano Subterr√¢neo",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "P‚ntano Subterr‚neo"
+			mainTitle = "P√¢ntano Subterr√¢neo"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
@@ -6996,10 +6996,10 @@ mapTbl = {
 		displayName = "Maratona Turbo Track"
 	},
 	["turbo_room.rsw"] = {
-		displayName = "Est·dio Turbo Track",
+		displayName = "Est√°dio Turbo Track",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Est·dio Turbo Track"
+			mainTitle = "Est√°dio Turbo Track"
 		},
 		backgroundBmp = "village_s2"
 	},
@@ -7013,11 +7013,11 @@ mapTbl = {
 		backgroundBmp = "dungeon"
 	},
 	["um_dun02.rsw"] = {
-		displayName = "Estrada para o AlÈm",
+		displayName = "Estrada para o Al√©m",
 		notifyEnter = true,
 		signName = {
 			subTitle = "Umbala",
-			mainTitle = "Estrada para o AlÈm"
+			mainTitle = "Estrada para o Al√©m"
 		},
 		backgroundBmp = "dungeon"
 	},
@@ -7040,11 +7040,11 @@ mapTbl = {
 		backgroundBmp = "field"
 	},
 	["um_fild03.rsw"] = {
-		displayName = "P‚ntano de Kalala",
+		displayName = "P√¢ntano de Kalala",
 		notifyEnter = true,
 		signName = {
 			subTitle = "Arredores de Umbala (3)",
-			mainTitle = "P‚ntano de Kalala"
+			mainTitle = "P√¢ntano de Kalala"
 		},
 		backgroundBmp = "field"
 	},
@@ -7070,35 +7070,35 @@ mapTbl = {
 		backgroundBmp = "village"
 	},
 	["un_bk_q.rsw"] = {
-		displayName = "Abrigo Subterr‚neo",
+		displayName = "Abrigo Subterr√¢neo",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Abrigo Subterr‚neo"
+			mainTitle = "Abrigo Subterr√¢neo"
 		},
 		backgroundBmp = "noname_s2"
 	},
 	["un_bunker.rsw"] = {
-		displayName = "Abrigo Subterr‚neo",
+		displayName = "Abrigo Subterr√¢neo",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Abrigo Subterr‚neo"
+			mainTitle = "Abrigo Subterr√¢neo"
 		},
 		backgroundBmp = "noname_s2"
 	},
 	["un_myst.rsw"] = {
-		displayName = "T˙nel do Abrigo",
+		displayName = "T√∫nel do Abrigo",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "T˙nel do Abrigo"
+			mainTitle = "T√∫nel do Abrigo"
 		},
 		backgroundBmp = "noname_s2"
 	},
 	["valkyrie.rsw"] = {
-		displayName = "Templo das ValquÌrias",
+		displayName = "Templo das Valqu√≠rias",
 		notifyEnter = true,
 		signName = {
 			subTitle = "Hall dos Grandes Guerreiros",
-			mainTitle = "Templo das ValquÌrias"
+			mainTitle = "Templo das Valqu√≠rias"
 		},
 		backgroundBmp = "noname"
 	},
@@ -7123,7 +7123,7 @@ mapTbl = {
 		notifyEnter = true,
 		signName = {
 			subTitle = "Arredores de Veins (3)",
-			mainTitle = "Entrada do Vulc„o"
+			mainTitle = "Entrada do Vulc√£o"
 		},
 		backgroundBmp = "field2"
 	},
@@ -7163,7 +7163,7 @@ mapTbl = {
 		displayName = "Interior de Veins"
 	},
 	["ve_in02.rsw"] = {
-		displayName = "F·brica de Veins"
+		displayName = "F√°brica de Veins"
 	},
 	["veins.rsw"] = {
 		displayName = "Veins",
@@ -7175,28 +7175,28 @@ mapTbl = {
 		backgroundBmp = "village"
 	},
 	["ver_eju.rsw"] = {
-		displayName = "RuÌna Oeste de Juperos",
+		displayName = "Ru√≠na Oeste de Juperos",
 		notifyEnter = true,
 		signName = {
 			subTitle = "Lado Oeste",
-			mainTitle = "RuÌnas de Juperos"
+			mainTitle = "Ru√≠nas de Juperos"
 		},
 		backgroundBmp = "dungeon"
 	},
 	["ver_tunn.rsw"] = {
-		displayName = "T˙nel de Verus",
+		displayName = "T√∫nel de Verus",
 		notifyEnter = true,
 		signName = {
 			subTitle = "Verus",
-			mainTitle = "T˙nel de Verus"
+			mainTitle = "T√∫nel de Verus"
 		},
 		backgroundBmp = "dungeon"
 	},
 	["verus01.rsw"] = {
-		displayName = "LaboratÛrio OPTATIO de Experimentos",
+		displayName = "Laborat√≥rio OPTATIO de Experimentos",
 		notifyEnter = true,
 		signName = {
-			subTitle = "LaboratÛrio de Experimentos",
+			subTitle = "Laborat√≥rio de Experimentos",
 			mainTitle = "OPTATIO"
 		},
 		backgroundBmp = "dungeon"
@@ -7211,11 +7211,11 @@ mapTbl = {
 		backgroundBmp = "dungeon"
 	},
 	["verus03.rsw"] = {
-		displayName = "PraÁa Central de Verus",
+		displayName = "Pra√ßa Central de Verus",
 		notifyEnter = true,
 		signName = {
 			subTitle = "Verus",
-			mainTitle = "PraÁa Central"
+			mainTitle = "Pra√ßa Central"
 		},
 		backgroundBmp = "dungeon"
 	},
@@ -7223,7 +7223,7 @@ mapTbl = {
 		displayName = "Centro de Verus",
 		notifyEnter = true,
 		signName = {
-			subTitle = "SÌtio ArqueolÛgico",
+			subTitle = "S√≠tio Arqueol√≥gico",
 			mainTitle = "Verus"
 		},
 		backgroundBmp = "noname"
@@ -7282,7 +7282,7 @@ mapTbl = {
 		displayName = "Lighthalzen Dimensional",
 		notifyEnter = true,
 		signName = {
-			subTitle = "Dimens„o Paralela",
+			subTitle = "Dimens√£o Paralela",
 			mainTitle = "Lighthalzen"
 		},
 		backgroundBmp = "noname"
@@ -7291,7 +7291,7 @@ mapTbl = {
 		displayName = "Prontera Dimensional",
 		notifyEnter = true,
 		signName = {
-			subTitle = "Dimens„o Paralela",
+			subTitle = "Dimens√£o Paralela",
 			mainTitle = "Prontera"
 		},
 		backgroundBmp = "noname"
@@ -7300,7 +7300,7 @@ mapTbl = {
 		displayName = "Rachel Dimensional",
 		notifyEnter = true,
 		signName = {
-			subTitle = "Dimens„o Paralela",
+			subTitle = "Dimens√£o Paralela",
 			mainTitle = "Rachel"
 		},
 		backgroundBmp = "noname"
@@ -7315,20 +7315,20 @@ mapTbl = {
 		backgroundBmp = "village"
 	},
 	["xmas_dun01.rsw"] = {
-		displayName = "F·brica de Brinquedos (1)",
+		displayName = "F√°brica de Brinquedos (1)",
 		notifyEnter = true,
 		signName = {
-			subTitle = "F·brica de Brinquedos (1)",
-			mainTitle = "DepÛsito"
+			subTitle = "F√°brica de Brinquedos (1)",
+			mainTitle = "Dep√≥sito"
 		},
 		backgroundBmp = "dungeon"
 	},
 	["xmas_dun02.rsw"] = {
-		displayName = "F·brica de Brinquedos (2)",
+		displayName = "F√°brica de Brinquedos (2)",
 		notifyEnter = true,
 		signName = {
-			subTitle = "F·brica de Brinquedos (2)",
-			mainTitle = "Sala de CriaÁ„o"
+			subTitle = "F√°brica de Brinquedos (2)",
+			mainTitle = "Sala de Cria√ß√£o"
 		},
 		backgroundBmp = "dungeon"
 	},
@@ -7363,7 +7363,7 @@ mapTbl = {
 		displayName = "Juno",
 		notifyEnter = true,
 		signName = {
-			subTitle = "Capital da Rep˙blica de Schwartzwald",
+			subTitle = "Capital da Rep√∫blica de Schwartzwald",
 			mainTitle = "Juno"
 		},
 		backgroundBmp = "village"
@@ -7451,10 +7451,10 @@ mapTbl = {
 		displayName = "Interior de Juno"
 	},
 	["yuno_in02.rsw"] = {
-		displayName = "Castelo dos S·bios",
+		displayName = "Castelo dos S√°bios",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Castelo dos S·bios"
+			mainTitle = "Castelo dos S√°bios"
 		},
 		backgroundBmp = "village_s2"
 	},
@@ -7494,26 +7494,26 @@ mapTbl = {
 		backgroundBmp = "noname_s2"
 	},
 	["moc_para0a.rsw"] = {
-		displayName = "Grupo do …den",
+		displayName = "Grupo do √âden",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Grupo do …den"
+			mainTitle = "Grupo do √âden"
 		},
 		backgroundBmp = "village_s2"
 	},
 	["moc_para0b.rsw"] = {
-		displayName = "Grupo do …den",
+		displayName = "Grupo do √âden",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Grupo do …den"
+			mainTitle = "Grupo do √âden"
 		},
 		backgroundBmp = "village_s2"
 	},
 	["moc_para0c.rsw"] = {
-		displayName = "Grupo do …den",
+		displayName = "Grupo do √âden",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Grupo do …den"
+			mainTitle = "Grupo do √âden"
 		},
 		backgroundBmp = "village_s2"
 	},
@@ -7599,20 +7599,20 @@ mapTbl = {
 		backgroundBmp = "dungeon"
 	},
 	["abbey03a.rsw"] = {
-		displayName = "MonastÈrio (3)",
+		displayName = "Monast√©rio (3)",
 		notifyEnter = true,
 		signName = {
 			subTitle = "Ilha Esquecida",
-			mainTitle = "MonastÈrio (3)"
+			mainTitle = "Monast√©rio (3)"
 		},
 		backgroundBmp = "dungeon"
 	},
 	["abbey03b.rsw"] = {
-		displayName = "MonastÈrio (3)",
+		displayName = "Monast√©rio (3)",
 		notifyEnter = true,
 		signName = {
 			subTitle = "Ilha Esquecida",
-			mainTitle = "MonastÈrio (3)"
+			mainTitle = "Monast√©rio (3)"
 		},
 		backgroundBmp = "dungeon"
 	},
@@ -7779,18 +7779,18 @@ mapTbl = {
 		backgroundBmp = "dungeon"
 	},
 	["thor_v03a.rsw"] = {
-		displayName = "Vulc„o de Thor (3)",
+		displayName = "Vulc√£o de Thor (3)",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Vulc„o de Thor (3)"
+			mainTitle = "Vulc√£o de Thor (3)"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
 	["thor_v03b.rsw"] = {
-		displayName = "Vulc„o de Thor (3)",
+		displayName = "Vulc√£o de Thor (3)",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Vulc„o de Thor (3)"
+			mainTitle = "Vulc√£o de Thor (3)"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
@@ -7848,7 +7848,7 @@ mapTbl = {
 		displayName = "Lago do Abismo (Evento)",
 		notifyEnter = true,
 		signName = {
-			subTitle = "Como Treinar seu Drag„o",
+			subTitle = "Como Treinar seu Drag√£o",
 			mainTitle = "Lago do Abismo"
 		},
 		backgroundBmp = "field_s2"
@@ -7857,7 +7857,7 @@ mapTbl = {
 		displayName = "Caverna do Lago do Abismo (Evento)",
 		notifyEnter = true,
 		signName = {
-			subTitle = "Como Treinar seu Drag„o",
+			subTitle = "Como Treinar seu Drag√£o",
 			mainTitle = "Caverna do Abismo"
 		},
 		backgroundBmp = "dungeon"
@@ -7888,37 +7888,37 @@ mapTbl = {
 		backgroundBmp = "dungeon"
 	},
 	["ba_maison.rsw"] = {
-		displayName = "Jardim da Mans„o",
+		displayName = "Jardim da Mans√£o",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Jardim da Mans„o"
+			mainTitle = "Jardim da Mans√£o"
 		},
 		backgroundBmp = "noname_s2"
 	},
 	["ba_in01.rsw"] = {
-		displayName = "Interior da Mans„o"
+		displayName = "Interior da Mans√£o"
 	},
 	["ba_pw01.rsw"] = {
-		displayName = "Usina M·gica (1)",
+		displayName = "Usina M√°gica (1)",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Usina M·gica (1)"
+			mainTitle = "Usina M√°gica (1)"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
 	["ba_pw03.rsw"] = {
-		displayName = "Usina M·gica (2)",
+		displayName = "Usina M√°gica (2)",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Usina M·gica (2)"
+			mainTitle = "Usina M√°gica (2)"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
 	["ba_pw02.rsw"] = {
-		displayName = "EstaÁ„o de Esgoto",
+		displayName = "Esta√ß√£o de Esgoto",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "EstaÁ„o de Esgoto"
+			mainTitle = "Esta√ß√£o de Esgoto"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
@@ -7931,18 +7931,18 @@ mapTbl = {
 		backgroundBmp = "dungeon_s2"
 	},
 	["ba_2whs01.rsw"] = {
-		displayName = "ArmazÈm T·rtaro (1)",
+		displayName = "Armaz√©m T√°rtaro (1)",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "ArmazÈm T·rtaro (1)"
+			mainTitle = "Armaz√©m T√°rtaro (1)"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
 	["ba_2whs02.rsw"] = {
-		displayName = "ArmazÈm T·rtaro (2)",
+		displayName = "Armaz√©m T√°rtaro (2)",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "ArmazÈm T·rtaro (2)"
+			mainTitle = "Armaz√©m T√°rtaro (2)"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
@@ -7955,11 +7955,11 @@ mapTbl = {
 		backgroundBmp = "dungeon_s2"
 	},
 	["ba_lib.rsw"] = {
-		displayName = "Corredor das MemÛrias",
+		displayName = "Corredor das Mem√≥rias",
 		notifyEnter = true,
 		signName = {
 			subTitle = "Biblioteca",
-			mainTitle = "Corredor das MemÛrias"
+			mainTitle = "Corredor das Mem√≥rias"
 		},
 		backgroundBmp = "dungeon"
 	},
@@ -8014,18 +8014,18 @@ mapTbl = {
 		backgroundBmp = "dungeon_s2"
 	},
 	["1@bamq.rsw"] = {
-		displayName = "DepÛsito da Aeronave",
+		displayName = "Dep√≥sito da Aeronave",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "DepÛsito da Aeronave"
+			mainTitle = "Dep√≥sito da Aeronave"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
 	["ein_dun03.rsw"] = {
-		displayName = "CalabouÁo da Mina (3)",
+		displayName = "Calabou√ßo da Mina (3)",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "CalabouÁo da Mina (3)"
+			mainTitle = "Calabou√ßo da Mina (3)"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
@@ -8038,20 +8038,20 @@ mapTbl = {
 		backgroundBmp = "field2_s2"
 	},
 	["abyss_04.rsw"] = {
-		displayName = "Caverna Subterr‚nea do Lago do Abismo (4)",
+		displayName = "Caverna Subterr√¢nea do Lago do Abismo (4)",
 		notifyEnter = true,
 		signName = {
 			subTitle = "Lago do Abismo",
-			mainTitle = "Caverna Subterr‚nea do Lago do Abismo (4)"
+			mainTitle = "Caverna Subterr√¢nea do Lago do Abismo (4)"
 		},
 		backgroundBmp = "dungeon"
 	},
 	["1@thts.rsw"] = {
-		displayName = "MemÛria de Thanatos",
+		displayName = "Mem√≥ria de Thanatos",
 		notifyEnter = true,
 		signName = {
-			subTitle = "MemÛria de Thanatos",
-			mainTitle = "MemÛria de Thanatos"
+			subTitle = "Mem√≥ria de Thanatos",
+			mainTitle = "Mem√≥ria de Thanatos"
 		},
 		backgroundBmp = "dungeon"
 	},
@@ -8059,44 +8059,44 @@ mapTbl = {
 		displayName = "Aviso do Anjo",
 		notifyEnter = true,
 		signName = {
-			subTitle = "MemÛria de Thanatos",
+			subTitle = "Mem√≥ria de Thanatos",
 			mainTitle = "Aviso do Anjo"
 		},
 		backgroundBmp = "dungeon"
 	},
 	["3@thts.rsw"] = {
-		displayName = "MemÛria do ”dio",
+		displayName = "Mem√≥ria do √ìdio",
 		notifyEnter = true,
 		signName = {
-			subTitle = "MemÛria de Thanatos",
-			mainTitle = "MemÛria do ”dio"
+			subTitle = "Mem√≥ria de Thanatos",
+			mainTitle = "Mem√≥ria do √ìdio"
 		},
 		backgroundBmp = "dungeon"
 	},
 	["4@thts.rsw"] = {
-		displayName = "MemÛria da Ang˙stia",
+		displayName = "Mem√≥ria da Ang√∫stia",
 		notifyEnter = true,
 		signName = {
-			subTitle = "MemÛria de Thanatos",
-			mainTitle = "MemÛria da Ang˙stia"
+			subTitle = "Mem√≥ria de Thanatos",
+			mainTitle = "Mem√≥ria da Ang√∫stia"
 		},
 		backgroundBmp = "dungeon"
 	},
 	["5@thts.rsw"] = {
-		displayName = "MemÛria da Tristeza",
+		displayName = "Mem√≥ria da Tristeza",
 		notifyEnter = true,
 		signName = {
-			subTitle = "MemÛria de Thanatos",
-			mainTitle = "MemÛria da Tristeza"
+			subTitle = "Mem√≥ria de Thanatos",
+			mainTitle = "Mem√≥ria da Tristeza"
 		},
 		backgroundBmp = "dungeon"
 	},
 	["6@thts.rsw"] = {
-		displayName = "MemÛria do Desespero",
+		displayName = "Mem√≥ria do Desespero",
 		notifyEnter = true,
 		signName = {
-			subTitle = "MemÛria de Thanatos",
-			mainTitle = "MemÛria do Desespero"
+			subTitle = "Mem√≥ria de Thanatos",
+			mainTitle = "Mem√≥ria do Desespero"
 		},
 		backgroundBmp = "dungeon"
 	},
@@ -8104,33 +8104,33 @@ mapTbl = {
 		displayName = "Sala da Ira",
 		notifyEnter = true,
 		signName = {
-			subTitle = "MemÛria de Thanatos",
+			subTitle = "Mem√≥ria de Thanatos",
 			mainTitle = "Sala da Ira"
 		},
 		backgroundBmp = "dungeon"
 	},
 	["8@thts.rsw"] = {
-		displayName = "MemÛria de Thanatos",
+		displayName = "Mem√≥ria de Thanatos",
 		notifyEnter = true,
 		signName = {
-			subTitle = "MemÛria de Thanatos",
-			mainTitle = "Espadachim DemonÌaco MemÛria de Thanatos"
+			subTitle = "Mem√≥ria de Thanatos",
+			mainTitle = "Espadachim Demon√≠aco Mem√≥ria de Thanatos"
 		},
 		backgroundBmp = "dungeon"
 	},
 	["1@4sac.rsw"] = {
-		displayName = "Mans„o das Sombras",
+		displayName = "Mans√£o das Sombras",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Mans„o das Sombras"
+			mainTitle = "Mans√£o das Sombras"
 		},
 		backgroundBmp = "field2_s2"
 	},
 	["1@4drk.rsw"] = {
-		displayName = "ProvaÁ„o do Drag„o",
+		displayName = "Prova√ß√£o do Drag√£o",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "ProvaÁ„o do Drag„o"
+			mainTitle = "Prova√ß√£o do Drag√£o"
 		},
 		backgroundBmp = "field2_s2"
 	},
@@ -8143,18 +8143,18 @@ mapTbl = {
 		backgroundBmp = "field2_s2"
 	},
 	["1@4tro.rsw"] = {
-		displayName = "EmbarcaÁ„o de Kvasir",
+		displayName = "Embarca√ß√£o de Kvasir",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "EmbarcaÁ„o de Kvasir"
+			mainTitle = "Embarca√ß√£o de Kvasir"
 		},
 		backgroundBmp = "field2_s2"
 	},
 	["job4_tro.rsw"] = {
-		displayName = "EmbarcaÁ„o Vazia de Kvasir",
+		displayName = "Embarca√ß√£o Vazia de Kvasir",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "EmbarcaÁ„o Vazia de Kvasir"
+			mainTitle = "Embarca√ß√£o Vazia de Kvasir"
 		},
 		backgroundBmp = "field2_s2"
 	},
@@ -8175,102 +8175,102 @@ mapTbl = {
 		backgroundBmp = "field2_s2"
 	},
 	["1@4mst.rsw"] = {
-		displayName = "N˙cleo de Juperos VT",
+		displayName = "N√∫cleo de Juperos VT",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "N˙cleo de Juperos VT"
+			mainTitle = "N√∫cleo de Juperos VT"
 		},
 		backgroundBmp = "field2_s2"
 	},
 	["1@4cdn.rsw"] = {
-		displayName = "Caverna IlusÛria da ProvaÁ„o Final",
+		displayName = "Caverna Ilus√≥ria da Prova√ß√£o Final",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Caverna IlusÛria da ProvaÁ„o Final"
+			mainTitle = "Caverna Ilus√≥ria da Prova√ß√£o Final"
 		},
 		backgroundBmp = "field2_s2"
 	},
 	["1@4igd.rsw"] = {
-		displayName = "Arena de Treinamento da JustiÁa",
+		displayName = "Arena de Treinamento da Justi√ßa",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Arena de Treinamento da JustiÁa"
+			mainTitle = "Arena de Treinamento da Justi√ßa"
 		},
 		backgroundBmp = "field2_s2"
 	},
 	["1@4mag.rsw"] = {
-		displayName = "Fonte do Poder M·gico",
+		displayName = "Fonte do Poder M√°gico",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Fonte do Poder M·gico"
+			mainTitle = "Fonte do Poder M√°gico"
 		},
 		backgroundBmp = "field2_s2"
 	},
 	["job4_mag.rsw"] = {
-		displayName = "Fonte do Poder M·gico",
+		displayName = "Fonte do Poder M√°gico",
 		notifyEnter = true,
 		signName = {
-			mainTitle = "Fonte do Poder M·gico"
+			mainTitle = "Fonte do Poder M√°gico"
 		},
 		backgroundBmp = "field2_s2"
 	},
 	["sp_rudus4.rsw"] = {
-		displayName = "Rudus 4∫ Andar - ¡rea de Descarte de Experimentos",
+		displayName = "Rudus 4¬∫ Andar - √Årea de Descarte de Experimentos",
 		notifyEnter = true,
 		signName = {
-			subTitle = "¡rea de Descarte de Experimentos",
-			mainTitle = "Rudus 4∫ Andar"
+			subTitle = "√Årea de Descarte de Experimentos",
+			mainTitle = "Rudus 4¬∫ Andar"
 		},
 		backgroundBmp = "dungeon"
 	},
 	["amicitia1.rsw"] = {
-		displayName = "LaboratÛrio Abandonado de Amicitia",
+		displayName = "Laborat√≥rio Abandonado de Amicitia",
 		notifyEnter = true,
 		signName = {
-			subTitle = "LaboratÛrio Abandonado de Amicitia",
-			mainTitle = "1∫ Andar LaboratÛrio Central"
+			subTitle = "Laborat√≥rio Abandonado de Amicitia",
+			mainTitle = "1¬∫ Andar Laborat√≥rio Central"
 		},
 		backgroundBmp = "dungeon"
 	},
 	["amicitia2.rsw"] = {
-		displayName = "LaboratÛrio Abandonado de Amicitia",
+		displayName = "Laborat√≥rio Abandonado de Amicitia",
 		notifyEnter = true,
 		signName = {
-			subTitle = "LaboratÛrio Abandonado de Amicitia",
-			mainTitle = "2∫ Andar Sala de Cultivo Intensivo"
+			subTitle = "Laborat√≥rio Abandonado de Amicitia",
+			mainTitle = "2¬∫ Andar Sala de Cultivo Intensivo"
 		},
 		backgroundBmp = "dungeon"
 	},
 	["nif_dun01.rsw"] = {
-		displayName = "CalabouÁo de Niflheim - Sal„o dos Mortos",
+		displayName = "Calabou√ßo de Niflheim - Sal√£o dos Mortos",
 		notifyEnter = true,
 		signName = {
-			subTitle = "CalabouÁo de Niflheim 1∫ Andar",
-			mainTitle = "Sal„o dos Mortos"
+			subTitle = "Calabou√ßo de Niflheim 1¬∫ Andar",
+			mainTitle = "Sal√£o dos Mortos"
 		},
 		backgroundBmp = "dungeon"
 	},
 	["nif_dun02.rsw"] = {
-		displayName = "CalabouÁo de Niflheim - ”pera em RuÌnas",
+		displayName = "Calabou√ßo de Niflheim - √ìpera em Ru√≠nas",
 		notifyEnter = true,
 		signName = {
-			subTitle = "CalabouÁo de Niflheim 2∫ Andar",
-			mainTitle = "”pera em RuÌnas"
+			subTitle = "Calabou√ßo de Niflheim 2¬∫ Andar",
+			mainTitle = "√ìpera em Ru√≠nas"
 		},
 		backgroundBmp = "dungeon"
 	},
 	["grademk.rsw"] = {
-		displayName = "InstalaÁ„o de Aprimoramento de Grau",
+		displayName = "Instala√ß√£o de Aprimoramento de Grau",
 		notifyEnter = true,
 		signName = {
-			subTitle = "InstalaÁ„o de Aprimoramento de Grau"
+			subTitle = "Instala√ß√£o de Aprimoramento de Grau"
 		},
 		backgroundBmp = "village_s1"
 	}
 }
 function main()
 	for name, info in pairs(mapTbl) do
-		displayName = "¡rea desconhecida"
+		displayName = "√Årea desconhecida"
 		if nil ~= info.displayName then
 			displayName = info.displayName
 		end

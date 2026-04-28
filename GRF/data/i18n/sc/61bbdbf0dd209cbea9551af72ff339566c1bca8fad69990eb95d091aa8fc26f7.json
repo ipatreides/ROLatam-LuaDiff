@@ -3,85 +3,85 @@
         "ko": "봉인된 기억",
         "en": "Sealed Memory",
         "pt": "Memória Selada",
-        "es": "Memoria sellada"
+        "es": "Memoria Sellada"
     },
     "QfPiDA": {
         "ko": "알 수 없는 존재가 슬픔의 파편에 반응했다.",
         "en": "An unknown presence reacted to Fragment of Misery.",
-        "pt": "Uma entidade desconhecida reagiu a Fragmento de Desgraça.",
-        "es": "Una entidad desconocida reaccionó a Fragmento de la miseria."
+        "pt": "Uma entidade desconhecida reagiu ao Fragmento de Desgraça.",
+        "es": "Una entidad desconocida reaccionó al Fragmento de Desgracia."
     },
     "QvPiDA": {
         "ko": "마검사 타나토스의 기억 일부가 해방되었습니다.",
         "en": "Part of the Magic Swordsman Memory of Thanatos has been released.",
-        "pt": "Parte do Espadachim Demoníaco Memória de Thanatos foi libertada.",
-        "es": "Parte del maestro espadachín Recuerdo de Thanatos ha sido liberada."
+        "pt": "Partes dos sentimentosde Thanatos foram libertados.",
+        "es": "Partes de los sentimientos de Thanatos fueron liberados."
     },
     "Q/PiDA": {
         "ko": "알 수 없는 존재가 고뇌의 파편에 반응했다.",
         "en": "An unknown presence reacted to Fragment of Agony.",
-        "pt": "Uma entidade desconhecida reagiu a Fragmento de Agonia.",
-        "es": "Una entidad desconocida reaccionó a Fragmento de la agonía."
+        "pt": "Uma entidade desconhecida reagiu ao Fragmento de Agonia.",
+        "es": "Una entidad desconocida reaccionó al Fragmento de Agonía."
     },
     "RPPiDA": {
         "ko": "알 수 없는 존재가 절망의 파편에 반응했다.",
         "en": "An unknown presence reacted to Fragment of Despair.",
-        "pt": "Uma entidade desconhecida reagiu a Fragmento de Desespero.",
-        "es": "Una entidad desconocida reaccionó a Fragmento de la desesperación."
+        "pt": "Uma entidade desconhecida reagiu ao Fragmento de Desespero.",
+        "es": "Una entidad desconocida reaccionó al Fragmento de Desesperación."
     },
     "RfPiDA": {
         "ko": "알 수 없는 존재가 증오의 파편에 반응했다.",
         "en": "An unknown presence reacted to Fragment of Hatred.",
-        "pt": "Uma entidade desconhecida reagiu a Fragmento de Ódio.",
-        "es": "Una entidad desconocida reaccionó a Fragmento del odio."
+        "pt": "Uma entidade desconhecida reagiu ao Fragmento de Ódio.",
+        "es": "Una entidad desconocida reaccionó al Fragmento de Odio."
     },
     "RvPiDA": {
         "ko": "...나는.. ... 타나토스! .. 마족을... 멸할 자다!!!",
         "en": "...I am.. ... Memory of Thanatos! .. the one who shall... destroy the demon race!!!",
-        "pt": "...Eu.. ... Memória de Thanatos! .. aquele que... exterminará... os demônios!!!",
-        "es": "...Yo... ...¡Memoria de Thanatos!... ¡...quien destruirá... a la raza demoníaca!!!"
+        "pt": "...Eu.. ... Thanatos! ... irei... exterminar... os demônios!!!",
+        "es": "...Yo... ... ¡Thanatos! ... voy... a exterminar... ¡¡¡a los demonios!!!"
     },
     "R/PiDA": {
         "ko": "타나토스의 기억",
         "en": "Memory of Thanatos",
-        "pt": "Memória de Thanatos",
-        "es": "Recuerdo de Thanatos"
+        "pt": "Thanatos",
+        "es": "Thanatos"
     },
     "SPPiDA": {
         "ko": "분노의 수호를 받습니다.",
         "en": "Receives the protection of Rage.",
-        "pt": "Recebe a proteção de Fúria.",
-        "es": "Está bajo la protección de Ira."
+        "pt": "Um Totem está aumentando a raiva de Thanatos.",
+        "es": "Un Tótem está aumentando la ira de Thanatos."
     },
     "SfPiDA": {
         "ko": "증오의 수호를 받습니다.",
         "en": "Receives the protection of Hatred.",
-        "pt": "Recebe a proteção do Ódio.",
-        "es": "Está bajo la protección del odio."
+        "pt": "Um Totem está aumentando o ódio de Thanatos.",
+        "es": "Un Tótem está aumentando el odio de Thanatos."
     },
     "SvPiDA": {
         "ko": "고뇌의 수호를 받습니다.",
         "en": "Receives the protection of Anguish.",
-        "pt": "Recebe a proteção da Angústia.",
-        "es": "Está bajo la protección de la angustia."
+        "pt": "Um Totem está aumentando a agonia de Thanatos.",
+        "es": "Un Tótem está aumentando la agonía de Thanatos."
     },
     "S/PiDA": {
         "ko": "분노의 수호가 파괴되어 타나토스의 기억이 가진 분노가 제거됩니다.",
         "en": "The protection of Rage has been destroyed and Rage possessed by Memory of Thanatos is removed.",
-        "pt": "A proteção de Fúria foi destruída e a Fúria possuída por Memória de Thanatos foi removida.",
-        "es": "La protección de Ira ha sido destruida y Ira de Recuerdo de Thanatos es eliminada."
+        "pt": "O Totem da Raiva foi destruído e Thanatos está enfraquecido.",
+        "es": "El Tótem de la Ira fue destruido y Thanatos está debilitado."
     },
     "TPPiDA": {
         "ko": "증오의 수호가 파괴되어 타나토스의 기억이 가진 분노가 제거됩니다.",
         "en": "The protection of Hatred has been destroyed and Rage possessed by Memory of Thanatos is removed.",
-        "pt": "A proteção do Ódio foi destruída e a Fúria possuída por Memória de Thanatos foi removida.",
-        "es": "La protección del odio ha sido destruida y Ira de Recuerdo de Thanatos es eliminada."
+        "pt": "O Totem do Ódio foi destruído e Thanatos está enfraquecido.",
+        "es": "El Tótem del Odio fue destruido y Thanatos está debilitado."
     },
     "TfPiDA": {
         "ko": "고뇌의 수호가 파괴되어 타나토스의 기억이 가진 분노가 제거됩니다.",
         "en": "The protection of Anguish has been destroyed and Rage possessed by Memory of Thanatos is removed.",
-        "pt": "A proteção da Angústia foi destruída e a Fúria possuída por Memória de Thanatos foi removida.",
-        "es": "La protección de la angustia ha sido destruida y Ira de Recuerdo de Thanatos es eliminada."
+        "pt": "O Totem da Agonia foi destruído e Thanatos está enfraquecido.",
+        "es": "El Tótem de la Agonía fue destruido y Thanatos está debilitado."
     },
     "TvPiDA": {
         "ko": "#thanatos1",
@@ -99,31 +99,31 @@
         "ko": "내가 지켜야 할 곳을 벗어날 수 없어!!!",
         "en": "I cannot leave the place I must protect!!!",
         "pt": "Não posso abandonar o lugar que devo proteger!!!",
-        "es": "¡¡¡No puedo abandonar el lugar que debo proteger!!!"
+        "es": "¡No puedo abandonar el lugar que debo proteger!!!"
     },
     "UfPiDA": {
         "ko": "파괴된 타나토스의 기억",
         "en": "Destroyed Memory of Thanatos",
-        "pt": "Memória de Thanatos Destruída",
-        "es": "Recuerdo de Thanatos destruido"
+        "pt": "Fragmento de Thanatos",
+        "es": "Fragmento de Thanatos"
     },
     "UvPiDA": {
         "ko": "… 큭 …. 날 이렇게까지 몰아붙이다니 ….",
         "en": "… Ghk …. To push me this far ….",
-        "pt": "… Kgh …. me forçar até este ponto ….",
-        "es": "… Grr… … llevarme hasta este extremo…."
+        "pt": "... Grrr .... preciso aumentar o meu poder ....",
+        "es": "... Grrr .... necesito aumentar mi poder ...."
     },
     "U/PiDA": {
         "ko": "절대 굴복하지 않아!!!!",
         "en": "I will never submit!!!!",
         "pt": "Eu nunca me renderei!!!!",
-        "es": "¡¡¡¡Jamás me rendiré!!!!"
+        "es": "¡¡¡Jamás me rendiré!!!!"
     },
     "VPPiDA": {
         "ko": "...아.. 안돼.. 여길.. 지켜야... 하.. 는...........",
         "en": "...N.. No.. I must.. protect.. this.. pla...........",
-        "pt": "...Ah.. não.. preciso.. proteger.. este.. lugar...........",
-        "es": "...N-no… debo… proteger… este lugar…..........."
+        "pt": "... N-não.... Eu... preciso... proteger... este... lugar......",
+        "es": "... N-no.... Yo... debo... proteger... este... lugar......"
     },
     "VfPiDA": {
         "ko": "루실",
@@ -134,104 +134,104 @@
     "VvPiDA": {
         "ko": "[루실]\n …. 그 분의 실재는 아니라 하여도 소멸하는 광경을 보는 것은 썩 기분이 좋지 않군요.\n그 분을 대신해 감사 인사 올리옵니다.",
         "en": "[Lucile]\n …. Even if it was not his true existence, witnessing his disappearance does not feel pleasant. I offer thanks in his stead.",
-        "pt": "[Lucile]\n …. Mesmo não sendo sua verdadeira existência, não é uma sensação agradável testemunhar seu desaparecimento. Em nome dele, agradeço.",
-        "es": "[Lucile]\n…. Aunque no sea su verdadera existencia, presenciar cómo desaparece no resulta agradable. Permítame expresar mi gratitud en su nombre."
+        "pt": "[Lucile]\n.... Mesmo não sendo o verdadeiro Thanatos, não é uma sensação agradável testemunhar seu fim. Em nome das memórias dele, eu agradeço você.",
+        "es": "[Lucile]  \n.... Aunque no sea el verdadero Thanatos, no es una sensación agradable presenciar su fin. \nEn nombre de sus recuerdos, te lo agradezco."
     },
     "V/PiDA": {
         "ko": "[루실]\n실재하지 않는 시간의 흐름에 얽매인 것은 소녀 또한 마찬가지.\n소녀도 아마 과거의 기억이 남은 한 조각일 것이옵니다.\n허나 당신들은 돌아갈 곳이 있지요.",
         "en": "[Lucile]\nBeing bound to a flow of time that does not truly exist is the same for me. I too may be nothing more than a fragment of memory from the past. Yet you have a place to return to.",
-        "pt": "[Lucile]\nAssim como ele esteve preso a um fluxo de tempo que não existe, talvez eu também seja apenas um fragmento de memória do passado. Mas vocês têm um lugar para onde retornar.",
-        "es": "[Lucile]\nEstar atada al flujo de un tiempo que no existe es algo que también me ocurre a mí. Probablemente yo también sea solo un fragmento de un recuerdo del pasado. Pero ustedes tienen un lugar al que regresar."
+        "pt": "[Lucile]\nAssim como Thanatos esteve preso a um tempo que não existe mais, talvez eu também seja apenas um fragmento de memória do passado. Mas você tem um lugar para onde retornar.",
+        "es": "[Lucile]  \nAsí como Thanatos estuvo atrapado en un tiempo que ya no existe, quizá yo también sea solo un fragmento de memoria del pasado. \nPero tú tienes un lugar al cual regresar."
     },
     "WPPiDA": {
         "ko": "[루실]\n이제 모두 현실로 돌아갈 때가 온 듯 하옵니다. 안내해 드리리까?",
         "en": "[Lucile]\nIt seems it is now time for everyone to return to reality. Shall I guide you?",
-        "pt": "[Lucile]\nParece que chegou a hora de todos voltarem à realidade. Gostariam que eu os guiasse?",
-        "es": "[Lucile]\nParece que ha llegado el momento de que todos regresen a la realidad. ¿Desean que los guíe?"
+        "pt": "[Lucile]\nParece que chegou a hora de todos voltarem ao seu tempo original. Posso levar você?",
+        "es": "[Lucile]  \nParece que ha llegado la hora de que todos vuelvan a su tiempo original. ¿Puedo llevarte?"
     },
     "WfPiDA": {
         "ko": "부탁한다.",
         "en": "Please.",
         "pt": "Por favor.",
-        "es": "Te lo ruego."
+        "es": "Por favor."
     },
     "WvPiDA": {
         "ko": "잠시만",
         "en": "Just a moment.",
-        "pt": "Espere um momento",
-        "es": "Espera un momento"
+        "pt": "Espere um momento.",
+        "es": "Espera un momento."
     },
     "W/PiDA": {
         "ko": "[루실]\n그럼 안녕히.",
         "en": "[Lucile]\nThen farewell.",
         "pt": "[Lucile]\nEntão, adeus.",
-        "es": "[Lucile]\nEntonces, adiós."
+        "es": "[Lucile]  \nEntonces, adiós."
     },
     "XPPiDA": {
         "ko": "[루실]\n …. 이 시절의 하늘을 보는 것은 드문 일이지요.",
         "en": "[Lucile]\n …. It is rare to see the sky of this era.",
-        "pt": "[Lucile]\n …. Não é comum ver o céu desta era.",
-        "es": "[Lucile]\n…. Es raro contemplar el cielo de esta época."
+        "pt": "[Lucile]\n.... Não é comum ver o céu desta era.",
+        "es": "[Lucile]  \n.... No es común ver el cielo de esta era."
     },
     "XfPiDA": {
         "ko": "...깨지고.. 부서지고.. 흩어져.. 한 방울의 눈물이 되어 돌아오고...",
         "en": "...Shattered.. broken.. scattered.. returning as a single drop of tears...",
-        "pt": "...quebrado.. despedaçado.. disperso.. retorna como uma única lágrima...",
-        "es": "...rompiéndose… destrozándose… dispersándose… y regresando como una sola lágrima…"
+        "pt": "... Meus sentimentos foram... fragmentados... e dispersos... sem derramar uma lágrima...",
+        "es": "... Mis sentimientos fueron... fragmentados... y dispersos... sin derramar una lágrima..."
     },
     "XvPiDA": {
         "ko": "...산산조각나고 유린당해..... 깊이 있는 한숨으로 되돌아오고...",
         "en": "...Torn apart and trampled..... returning as a deep sigh...",
-        "pt": "...reduzido a estilhaços e profanado..... retorna como um profundo suspiro...",
-        "es": "...hecho pedazos y pisoteado… regresando como un profundo suspiro…"
+        "pt": "... Fui reduzido a estilhaços e profanado..... retorno como um suspiro...",
+        "es": "... Fui reducido a añicos y profanado..... regreso como un suspiro..."
     },
     "X/PiDA": {
         "ko": "...짙은 혈향을 풍기며... 비수가 되어 가슴에 박히는구나.....",
         "en": "...Reeking of thick blood... becoming a dagger that pierces the heart.....",
-        "pt": "...exalando um denso cheiro de sangue... torna-se uma lâmina que se crava no peito.....",
-        "es": "...emanando un denso olor a sangre… y convirtiéndose en una daga que se clava en el pecho…"
+        "pt": "... Exalo um cheiro de sangue... como uma lâmina cravada no peito.....",
+        "es": "... Exhalo un olor a sangre... como una hoja clavada en el pecho....."
     },
     "YPPiDA": {
         "ko": ".....또 다시 이 땅을 침범하려는 자들을.... 멸살..하리라.....!!!",
         "en": ".....Those who seek to invade this land once more.... shall be annihilated.....!!!",
-        "pt": ".....aqueles que tentarem invadir esta terra novamente.... serão.. exterminados.....!!!",
-        "es": ".....A quienes intenten invadir nuevamente esta tierra… los… aniquilaré…!!!"
+        "pt": "... Quem invadir este lugar.... será... exterminado.....!!!",
+        "es": "... Quien invada este lugar.... será... exterminado.....!!!"
     },
     "YfPiDA": {
         "ko": "분노",
         "en": "Rage",
-        "pt": "Fúria",
-        "es": "Ira"
+        "pt": "Totem da Raiva",
+        "es": "Tótem de la Ira"
     },
     "YvPiDA": {
         "ko": "기억의 수호 일부가 파괴되어 나머지 수호가 자취를 감춥니다. 수호력 일부가 잔존합니다.",
         "en": "Part of the guardians of memory has been destroyed, and the remaining guardians vanish. Some guardian power remains.",
-        "pt": "Parte da proteção das memórias foi destruída e as proteções restantes desapareceram. Parte do poder protetor permanece.",
-        "es": "Parte de la protección de los recuerdos ha sido destruida y las demás protecciones han desaparecido. Parte del poder protector permanece."
+        "pt": "Os sentimentos foram destruídos e os totens desapareceram.",
+        "es": "Los sentimientos fueron destruidos y los tótems desaparecieron."
     },
     "Y/PiDA": {
         "ko": "증오",
         "en": "Hatred",
-        "pt": "Ódio",
-        "es": "Odio"
+        "pt": "Totem do Ódio",
+        "es": "Tótem del Odio"
     },
     "ZPPiDA": {
         "ko": "고뇌",
         "en": "Anguish",
-        "pt": "Angústia",
-        "es": "Angustia"
+        "pt": "Totem da Angonia",
+        "es": "Tótem de la Agonía"
     },
     "ZfPiDA": {
         "ko": "슬픔",
         "en": "Sorrow",
-        "pt": "Tristeza",
-        "es": "Tristeza"
+        "pt": "Totem da Tristeza",
+        "es": "Tótem de la Tristeza"
     },
     "ZvPiDA": {
         "ko": "절망",
         "en": "Despair",
-        "pt": "Desespero",
-        "es": "Desesperación"
+        "pt": "Totem do Desespero",
+        "es": "Tótem de la Desesperación"
     },
     "Z/PiDA": {
         "ko": "타나토스의 분노",
@@ -248,13 +248,13 @@
     "afPiDA": {
         "ko": "타나토스의 원망",
         "en": "Resentment of Thanatos",
-        "pt": "Ressentimento de Thanatos",
+        "pt": "Rancor de Thanatos",
         "es": "Rencor de Thanatos"
     },
     "avPiDA": {
         "ko": "타나토스의 후회",
         "en": "Regret of Thanatos",
-        "pt": "Arrependimento de Thanatos",
-        "es": "Arrepentimiento de Thanatos"
+        "pt": "Lamento de Thanatos",
+        "es": "Lamento de Thanatos"
     }
 }

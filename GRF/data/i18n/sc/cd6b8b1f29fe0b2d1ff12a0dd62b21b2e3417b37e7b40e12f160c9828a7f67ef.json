@@ -1,0 +1,1046 @@
+{
+    "IIL9BQ": {
+        "ko": "라벤더",
+        "en": "Lavender",
+        "pt": "Lavanda",
+        "es": "Lavanda"
+    },
+    "IYL9BQ": {
+        "ko": "<멜론 축제>",
+        "en": "<Melon Festival>",
+        "pt": "<Festival do Melão>",
+        "es": "<Festival del Melón>"
+    },
+    "IoL9BQ": {
+        "ko": "[라벤더]\n멜론 수확 기념 축제에 오신 것을 환영합니다!\n모험가 분들을 위한 이벤트도 마련되어 있습니다.\n많은 참여 부탁드립니다!",
+        "en": "[Lavender]\nWelcome to the Melon Festa!\nWe also have events prepared for adventurers.\nWe hope for your enthusiastic participation!",
+        "pt": "[Lavanda]\nBem-vindo ao Festival da Colheita do Melão!\nTambém temos eventos preparados para os viajantes.\nPor favor, participe bastante!",
+        "es": "[Lavanda]\n¡Bienvenido al Festival de la Cosecha del Melón!\nTambién tenemos eventos preparados para los trotamundos.\n¡Participen mucho!"
+    },
+    "I4L9BQ": {
+        "ko": "[라벤더]\n어, 모험가님은 아직 레벨이 조금 낮으시네요.\n다음에 부탁드릴게요.",
+        "en": "[Lavender]\nOh, adventurer, your level is still a bit low.\nPlease come back another time.",
+        "pt": "[Lavanda]\nViajante, seu nível ainda está um pouco baixo.\nDeixa para a próxima, está bem?",
+        "es": "[Lavanda]\nOh, trotamundos, todavía tienes un nivel algo bajo.\nDéjalo para la próxima, ¿sí?"
+    },
+    "JIL9BQ": {
+        "ko": "==20레벨 이상 퀘스트입니다==",
+        "en": "==This is a quest for level 20 or above.==",
+        "pt": "==Isso é uma missão de nível 20 ou superior.==",
+        "es": "==Esta es una misión de nivel 20 o superior.=="
+    },
+    "JYL9BQ": {
+        "ko": "- 소지하고 계신 아이템이 많아 퀘스트를 진행할 수 없습니다. -",
+        "en": "- You have too many items in your possession and cannot proceed with the quest. -",
+        "pt": "- Você está com muitos itens e não pode prosseguir com a missão. -",
+        "es": "- Tienes demasiados objetos y no puedes continuar con la misión. -"
+    },
+    "JoL9BQ": {
+        "ko": "[라벤더]\n멜론 수확 기념 축제에 오신 것을 환영합니다!\n모험가 분들을 위한 이벤트도 마련되어 있으니 많은 참여 부탁드립니다!!",
+        "en": "[Lavender]\nWelcome to the Melon Festa!\nWe have events prepared for adventurers as well, so please participate enthusiastically!!",
+        "pt": "[Lavanda]\nBem-vindo ao Festival da Colheita do Melão!\nTambém temos eventos para os viajantes, então participe bastante!!",
+        "es": "[Lavanda]\n¡Bienvenido al Festival de la Cosecha del Melón!\nTambién tenemos eventos para los trotamundos, ¡así que participen mucho!!"
+    },
+    "J4L9BQ": {
+        "ko": "[라벤더]\n...올해는 변종 멜론...\n아니... 신품종이...\n탈출... 아니, 유출...",
+        "en": "[Lavender]\n...This year, a mutant melon...\nNo... a new breed...\nEscaped... no, leaked...",
+        "pt": "[Lavanda]\n...Este ano, um melão mutante...\nNão... uma nova espécie...\nFugiu... quer dizer, vazou...",
+        "es": "[Lavanda]\n...Este año, un melón mutante...\nNo... una nueva variedad...\nSe escapó... digo, se filtró..."
+    },
+    "KIL9BQ": {
+        "ko": "딜포어 : 죄송합니다...",
+        "en": "Vanilla: I'm so sorry...",
+        "pt": "Dália: Me desculpa...",
+        "es": "Tulipa: Lo siento..."
+    },
+    "KYL9BQ": {
+        "ko": "[라벤더]\n아니... 어...",
+        "en": "[Lavender]\nNo... uh...",
+        "pt": "[Lavanda]\nNão... uh...",
+        "es": "[Lavanda]\nNo... uh..."
+    },
+    "KoL9BQ": {
+        "ko": "-- 라벤더는 손바닥에 감춘 메모를 곁눈질했다. --",
+        "en": "-- Lavender glanced at the note hidden in her palm. --",
+        "pt": "-- Lavanda deu uma olhada de relance no bilhete escondido na palma da mão. --",
+        "es": "-- Lavanda le echó un vistazo de reojo al papel escondido en su palma. --"
+    },
+    "K4L9BQ": {
+        "ko": "딜포어 : 정말 죄송합니다...",
+        "en": "Vanilla: I'm truly sorry...",
+        "pt": "Dália: Me desculpa mesmo...",
+        "es": "Tulipa: Lo siento muchísimo..."
+    },
+    "LIL9BQ": {
+        "ko": "[라벤더]\n...크흠 크흠.\n올해는 신품종이 개발되었어요!\n달콤한 멜론은 물론, 새콤한 멜론도 풍작이랍니다!\n아하하.",
+        "en": "[Lavender]\n...Ahem, ahem.\nA new breed has been developed this year!\nNot only Sweet Melons, but also Dark Melons are having a bountiful harvest!\nAhaha.",
+        "pt": "[Lavanda]\n...Hum, hum.\nUma nova espécie foi desenvolvida este ano!\nNão só Melões Amarelos, mas também Melões Sombrios estão com uma colheita farta!\nAhaha.",
+        "es": "[Lavanda]\n...Cof, cof.\n¡Este año se desarrolló una nueva variedad!\nNo solo Melones Dulces, sino también Melones Sombríos tienen una cosecha abundante.\n¡Jajaja!"
+    },
+    "LYL9BQ": {
+        "ko": "딜포어 : 아하하하...",
+        "en": "Vanilla: Ahahaha...",
+        "pt": "Dália: Ahahaha...",
+        "es": "Tulipa: Jajajaja..."
+    },
+    "LoL9BQ": {
+        "ko": "[라벤더]\n달콤한 멜론은 작년에 이어 저희 릴리유 농장의 일가친척이 총동원되어 충분한 수확이 이미 이루어졌지만, 게펜 농장 연합은 모험가 분들께 아낌없는 축제 지원을 약속드립니다.",
+        "en": "[Lavender]\nRegarding Sweet Melons, following last year, all the relatives of our Lotus Farm have been mobilized and sufficient harvest has already been achieved, but the Geffen Farm Alliance promises to provide generous festival support to adventurers.",
+        "pt": "[Lavanda]\nSobre os Melões Amarelos, seguindo o ano passado, todos os parentes da nossa Fazenda Lírio foram mobilizados e já conseguimos uma colheita suficiente, mas a Aliança das Fazendas de Geffen promete dar um suporte generoso ao festival para os viajantes.",
+        "es": "[Lavanda]\nEn cuanto a los Melones Dulces, igual que el año pasado, movilizamos a todos los parientes de nuestra Granja Lotus y ya logramos una cosecha suficiente, pero la Alianza de Granjas de Geffen promete dar un apoyo generoso al festival para los trotamundos."
+    },
+    "L4L9BQ": {
+        "ko": "가족 경영은 그런 게 좋은 것 같아",
+        "en": "Family-run operations are nice that way.",
+        "pt": "Negócio de família é bom para isso.",
+        "es": "Lo bueno de ser negocio familiar."
+    },
+    "MIL9BQ": {
+        "ko": "[라벤더]\n맞아요. 지금의 게펜 멜론 수확은 조금 무력에 기대는 면이 있어서, 식구가 많은 저희 가족이 수확 작전을 짜기가 좀 쉬워요.\n아... 저희 집 말고도 멜론을 재배하고 수확하는 농가도 많긴 하지만요.",
+        "en": "[Lavender]\nThat's right. Current Geffen melon harvesting relies a bit on brute force, so our large family makes it a bit easier to plan the harvest operations.\nAh... although there are many other farms that grow and harvest melons besides ours.",
+        "pt": "[Lavanda]\nPois é. A colheita de melão de Geffen atual depende um pouco da força bruta, então a minha família, que é grande, consegue planejar a colheita mais facilmente.\nAh... mas tem muitas outras fazendas que cultivam e colhem melão além da minha, claro.",
+        "es": "[Lavanda]\nAsí es. La cosecha de melón de Geffen actual depende un poco de la fuerza bruta, así que mi familia, que somos muchos, podemos planificar la cosecha más fácilmente.\nAh... aunque además de la nuestra, hay muchas granjas que cultivan y cosechan melón."
+    },
+    "MYL9BQ": {
+        "ko": "[라벤더]\n수확이 어느 정도였냐고요?\n작년보다 수확량은 조금 적지만, 축제로선 충분해요! 아버지, 어머니는 오랜만에 두 분이서 휘겔로 휴양을 떠났어요.",
+        "en": "[Lavender]\nHow much was the harvest, you ask?\nThe yield is a bit lower than last year, but it's enough for the festival! Father and Mother went on a vacation to Hugel together for the first time in a while.",
+        "pt": "[Lavanda]\nQuanto foi a colheita, você pergunta?\nO volume foi um pouco menor do que no ano passado, mas suficiente pro festival! Meu pai e minha mãe foram tirar férias em Hugel juntos depois de muito tempo.",
+        "es": "[Lavanda]\n¿Que cuánto fue la cosecha?\nEl volumen es un poco menor que el año pasado, ¡pero es suficiente para el festival! Mi papá y mi mamá se fueron de vacaciones a Hugel juntos después de mucho tiempo."
+    },
+    "MoL9BQ": {
+        "ko": "[라벤더]\n그래서 예년과 마찬가지로 올해도 물자는 많을수록 좋으니까요...\n<ITEM>[달콤한 멜론]<INFO>11610</INFO></ITEM>을 가져오시면 디저트를 만들어 드릴게요.",
+        "en": "[Lavender]\nSo, as always, the more supplies the better this year too...\nIf you bring me <ITEM>Sweet Melon<INFO>11610</INFO></ITEM>, I'll make you a dessert.",
+        "pt": "[Lavanda]\nComo sempre, este ano, quanto mais suprimentos, melhor...\nSe você me trouxer <ITEM>Melão Amarelo<INFO>11610</INFO></ITEM>, eu faço uma sobremesa pra você.",
+        "es": "[Lavanda]\nAsí que, como siempre, este año también mientras más suministros mejor...\nSi me traes [<ITEM>Melón Dulce<INFO>11610</INFO></ITEM>], te prepararé un postre."
+    },
+    "M4L9BQ": {
+        "ko": "의뢰야?",
+        "en": "A quest?",
+        "pt": "É missão?",
+        "es": "¿Es misión?"
+    },
+    "NIL9BQ": {
+        "ko": "귀찮은데",
+        "en": "Sounds like a hassle.",
+        "pt": "Que preguiça.",
+        "es": "Qué flojera."
+    },
+    "NYL9BQ": {
+        "ko": "[라벤더]\n네. 도시 바깥으로 나가시면 야생 멜론을 주워먹고\n멜론화된 포포링을 보실 수 있어요.\n^4D4DFF달콤이^000000라고 해요.",
+        "en": "[Lavender]\nYes. If you go outside the city, you can see wild melons being eaten\nand melonized Poporings.\nThey're called ^4D4DFFMeloring^000000.",
+        "pt": "[Lavanda]\nÉ. Se você sair da cidade, pode ver melões selvagens sendo comidos\ne Poporings melonizados.\nEles são chamados de ^4D4DFFMeloring^000000.",
+        "es": "[Lavanda]\nSí. Si sales fuera de la ciudad, podrás ver melones salvajes siendo comidos\ny Poporings melonizados.\nSe llaman ^4D4DFFMeloring^000000."
+    },
+    "NoL9BQ": {
+        "ko": "[라벤더]\n아시다시피 포링 종족은 식물형이라...\n멜론을 먹은 포포링이 변화를 일으킨 걸 수확해 보니 맛있는 거예요!",
+        "en": "[Lavender]\nAs you know, the Poporing race is plant-type...\nWhen we harvested Poporings that had eaten melons and undergone a change, they turned out delicious!",
+        "pt": "[Lavanda]\nComo você sabe, a raça do Poporing é do tipo planta...\nQuando a gente colheu os Poporings que comeram melão e mudaram, ficaram uma delícia!",
+        "es": "[Lavanda]\nComo sabes, la raza del Poporing es de tipo planta...\n¡Cuando cosechamos los Poporings que comieron melón y cambiaron, resultaron deliciosos!"
+    },
+    "N4L9BQ": {
+        "ko": "[라벤더]\n그게 바로 <ITEM>[달콤한 멜론]<INFO>11610</INFO></ITEM>이랍니다.\n10개만 가져다 주시면 디저트를 만들어 드릴게요.",
+        "en": "[Lavender]\nThat is exactly <ITEM>Sweet Melon<INFO>11610</INFO></ITEM>.\nIf you bring me just 10, I'll make you a dessert.",
+        "pt": "[Lavanda]\nIsso é exatamente o <ITEM>Melão Amarelo<INFO>11610</INFO></ITEM>.\nSe você me trouxer só 10, eu faço uma sobremesa pra você.",
+        "es": "[Lavanda]\nEso es exactamente el [<ITEM>Melón Dulce<INFO>11610</INFO></ITEM>].\nSi me traes solo 10, te prepararé un postre."
+    },
+    "OIL9BQ": {
+        "ko": "[라벤더]\n별 수 없죠...\n부디 멜론 축제를 마음껏 즐겨 주세요.",
+        "en": "[Lavender]\nI suppose there's no helping it...\nPlease enjoy the Melon Festival to your heart's content.",
+        "pt": "[Lavanda]\nNão tem jeito...\nPor favor, aproveite o Festival do Melão à vontade.",
+        "es": "[Lavanda]\nNo hay de otra...\nPor favor, disfruta el Festival del Melón a gusto."
+    },
+    "OYL9BQ": {
+        "ko": "[라벤더]\n도시 바깥으로 나가시면 야생 멜론을 주워먹고\n멜론화된 포포링을 보실 수 있어요.\n^4D4DFF달콤이^000000라고 해요.",
+        "en": "[Lavender]\nIf you go outside the city, you can see wild melons being eaten\nand melonized Poporings.\nThey're called ^4D4DFFMeloring^000000.",
+        "pt": "[Lavanda]\nSe você sair da cidade, pode ver melões selvagens sendo comidos\ne Poporings melonizados.\nEles são chamados de ^4D4DFFMeloring^000000.",
+        "es": "[Lavanda]\nSi sales fuera de la ciudad, podrás ver melones salvajes siendo comidos\ny Poporings melonizados.\nSe llaman ^4D4DFFMeloring^000000."
+    },
+    "OoL9BQ": {
+        "ko": "[라벤더]\n앗, 달콤한 멜론!\n우와... 보는 눈이 있으시네요.\n약간 끈적한 껍질, 신선한 향기, 그리고 묘하게 살아있는 이 느낌하며...",
+        "en": "[Lavender]\nAh, Sweet Melons!\nWow... you have a good eye.\nThat slightly sticky skin, fresh fragrance, and that strangely alive feeling...",
+        "pt": "[Lavanda]\nAh, Melão Amarelo!\nUau... você tem bom gosto.\nEssa casca meio grudenta, o aroma fresco, e aquela sensação estranhamente viva...",
+        "es": "[Lavanda]\n¡Ah, Melón Dulce!\nGuau... tienes buen ojo.\nEsa cáscara algo pegajosa, el aroma fresco, y esa sensación extrañamente viva..."
+    },
+    "O4L9BQ": {
+        "ko": "...",
+        "en": "...",
+        "pt": "...",
+        "es": "..."
+    },
+    "PIL9BQ": {
+        "ko": "[라벤더]\n...",
+        "en": "[Lavender]\n...",
+        "pt": "[Lavanda]\n...",
+        "es": "[Lavanda]\n..."
+    },
+    "PYL9BQ": {
+        "ko": "[라벤더]\n나도 참. 또 이런 이야기를...",
+        "en": "[Lavender]\nThere I go again. Telling stories like this...",
+        "pt": "[Lavanda]\nLá vou eu de novo. Contando essas histórias...",
+        "es": "[Lavanda]\nAllá voy otra vez. Contando estas historias..."
+    },
+    "PoL9BQ": {
+        "ko": "[라벤더]\n약속한 사례입니다.\n<ITEM>[달콤한 멜론 쥬스]<INFO>23321</INFO></ITEM> 5개예요.",
+        "en": "[Lavender]\nHere is your promised reward.\nIt's 5 <ITEM>Melon Soda<INFO>23321</INFO></ITEM>.",
+        "pt": "[Lavanda]\nAqui está a sua recompensa prometida.\nSão 5 <ITEM>Refrigerante de Melão<INFO>23321</INFO></ITEM>.",
+        "es": "[Lavanda]\nAquí está tu recompensa prometida.\nSon 5 [<ITEM>Jugo de Melón Dulce<INFO>23321</INFO></ITEM>]."
+    },
+    "P4L9BQ": {
+        "ko": "[라벤더]\n어라?\n달콤한 멜론 가져오시지 않았어요?",
+        "en": "[Lavender]\nOh?\nDidn't you bring the Sweet Melons?",
+        "pt": "[Lavanda]\nOpa?\nVocê não trouxe os Melões Amarelos?",
+        "es": "[Lavanda]\n¿Oye?\n¿No trajiste los Melones Dulces?"
+    },
+    "QIL9BQ": {
+        "ko": "[라벤더]\n음...\n...모험가님.\n하는 김에, 한 가지 더 부탁하고 싶은데요...",
+        "en": "[Lavender]\nHmm...\n...Adventurer.\nSince you're here, I'd like to ask one more favor...",
+        "pt": "[Lavanda]\nHmm...\n...Viajante.\nJá que você está aqui, queria pedir mais um favor...",
+        "es": "[Lavanda]\nMmm...\n...Trotamundos.\nYa que estás aquí, quería pedirte un favor más..."
+    },
+    "QYL9BQ": {
+        "ko": "[라벤더]\n의뢰하고 싶은 게 생겼어요.\n관심이 있으시면 다시 제게 말을 걸어 주세요.",
+        "en": "[Lavender]\nI have another request.\nIf you're interested, please speak to me again.",
+        "pt": "[Lavanda]\nSurgiu uma missão pra você.\nSe tiver interesse, fala comigo de novo.",
+        "es": "[Lavanda]\nMe surgió una misión.\nSi te interesa, vuelve a hablarme."
+    },
+    "QoL9BQ": {
+        "ko": "[라벤더]\n아, 오셨어요?",
+        "en": "[Lavender]\nAh, you came?",
+        "pt": "[Lavanda]\nAh, você veio?",
+        "es": "[Lavanda]\nAh, ¿viniste?"
+    },
+    "Q4L9BQ": {
+        "ko": "의뢰를 물어본다",
+        "en": "Ask about the request.",
+        "pt": "Perguntar sobre a missão.",
+        "es": "Preguntar por la misión."
+    },
+    "RIL9BQ": {
+        "ko": "그만둔다",
+        "en": "Stop.",
+        "pt": "Desistir.",
+        "es": "Dejar para después."
+    },
+    "RYL9BQ": {
+        "ko": "[라벤더]\n작년에는 새 메뉴를 개발해서 온가족 깜짝 파티에 성공했지만, 올해는 신품종 멜론 때문에 뒷수습하느라 바빠서 그럴 틈이 없었어요.",
+        "en": "[Lavender]\nLast year, I succeeded in surprising the whole family by developing a new menu, but this year I've been busy cleaning up after the new melon breed and haven't had time for that.",
+        "pt": "[Lavanda]\nAno passado eu desenvolvi um novo cardápio e consegui fazer uma festa surpresa pra família toda, mas este ano estou ocupada limpando a bagunça do novo melão e não tive tempo.",
+        "es": "[Lavanda]\nEl año pasado desarrollé un nuevo menú y logré hacer una fiesta sorpresa para toda la familia, pero este año he estado ocupada limpiando el desastre del nuevo melón y no he tenido tiempo."
+    },
+    "RoL9BQ": {
+        "ko": "딜포어 : 죄송합니다아아아...",
+        "en": "Vanilla: I'm sooooo sorry...",
+        "pt": "Dália: Me desculpaaa...",
+        "es": "Tulipa: ¡Lo sientoooo!"
+    },
+    "R4L9BQ": {
+        "ko": "[라벤더]\n그래서 언니, 오빠들에게 물어보니 예전에 아버지가 농사 좀 도우라고 압박할 겸 해서 파르페를 보낸 적이 있었다고 해서...",
+        "en": "[Lavender]\nSo I asked my older sisters and brothers, and they said that Father once sent a parfait to pressure them into helping with the farming...",
+        "pt": "[Lavanda]\nAí perguntei pras minhas irmãs e irmãos mais velhos, e eles disseram que antigamente o pai mandou um sorvete pra pressioná-los a ajudar na fazenda...",
+        "es": "[Lavanda]\nAsí que les pregunté a mis hermanas y hermanos mayores, y me dijeron que antes papá mandó un helado para presionarlos a ayudar en la granja..."
+    },
+    "SIL9BQ": {
+        "ko": "딜포어 : ...이야기 조금 다르지 않아?",
+        "en": "Vanilla: ...Isn't that story a bit different?",
+        "pt": "Dália: ...Essa história não é um pouco diferente?",
+        "es": "Tulipa: ...¿Esa historia no es un poco diferente?"
+    },
+    "SYL9BQ": {
+        "ko": "라벤더 : 나한테는 안 보낸 걸 보면 일하러 오라고 한 거 맞아.",
+        "en": "Lavender: Considering he didn't send one to me, it was definitely a clear message for me to come work.",
+        "pt": "Lavanda: O fato de ele não ter mandado um pra mim com certeza foi um recado pra que eu fosse trabalhar.",
+        "es": "Lavanda: Por el hecho de que no me mandó uno a mí, seguro fue para que fuera a trabajar."
+    },
+    "SoL9BQ": {
+        "ko": "[라벤더]\n저희 부모님이 휴양을 가셨다고 했잖아요?\n거기로 파르페를 좀 보낼까 하거든요.",
+        "en": "[Lavender]\nI told you my parents went on vacation, right?\nI'm thinking of sending them a parfait there.",
+        "pt": "[Lavanda]\nFalei que meus pais foram viajar, né?\nTô pensando em mandar um sorvete pra lá.",
+        "es": "[Lavanda]\nTe dije que mis papás se fueron de vacaciones, ¿no?\nEstoy pensando en mandarles un helado allá."
+    },
+    "S4L9BQ": {
+        "ko": "[라벤더]\n휴양지인 휘겔에 계시는 저희 부모님 앞으로 이 <ITEM>[차가운 상자]<INFO>25319</INFO></ITEM>를 배달해 주셨으면 해요.",
+        "en": "[Lavender]\nI'd like you to deliver this [<ITEM>Ice Cream Box<INFO>25319</INFO></ITEM>] to my parents, who are in Hugel, a vacation spot.",
+        "pt": "[Lavanda]\nEu queria que você entregasse esta [<ITEM>Caixa Geladinha<INFO>25319</INFO></ITEM>] para os meus pais, que estão em Hugel, o local de férias.",
+        "es": "[Lavanda]\nQuisiera que entregaras esta [<ITEM>Caja Fría<INFO>25319</INFO></ITEM>] a mis padres, que están en Hugel, el lugar de vacaciones."
+    },
+    "TIL9BQ": {
+        "ko": "그래",
+        "en": "Okay.",
+        "pt": "Está bem.",
+        "es": "Está bien."
+    },
+    "TYL9BQ": {
+        "ko": "싫어",
+        "en": "No.",
+        "pt": "Não quero.",
+        "es": "No quiero."
+    },
+    "ToL9BQ": {
+        "ko": "[라벤더]\n감사합니다!\n아마 바닷가를 거닐고 계시지 않을까요...?\n부탁드릴게요.",
+        "en": "[Lavender]\nThank you!\nI think they're probably strolling along the beach...?\nI'll leave it to you.",
+        "pt": "[Lavanda]\nValeu!\nAcho que eles devem estar passeando pela praia.\nDeixo tudo nas suas mãos.",
+        "es": "[Lavanda]\n¡Gracias!\nSeguro andan paseando por la playa, ¿no?\nTe lo encargo."
+    },
+    "T4L9BQ": {
+        "ko": "[라벤더]\n어쩔 수 없죠...",
+        "en": "[Lavender]\nI suppose there's no helping it...",
+        "pt": "[Lavanda]\nNão tem jeito...",
+        "es": "[Lavanda]\nNo hay de otra..."
+    },
+    "UIL9BQ": {
+        "ko": "[라벤더]\n부디 멜론 축제를 즐겨 주세요~",
+        "en": "[Lavender]\nPlease enjoy the Melon Festival~",
+        "pt": "[Lavanda]\nPor favor, aproveite o Festival do Melão~",
+        "es": "[Lavanda]\n¡Por favor, disfruta el Festival del Melón~"
+    },
+    "UYL9BQ": {
+        "ko": "[라벤더]\n아, 모험가님. 오셨어요?",
+        "en": "[Lavender]\nAh, adventurer. You're here?",
+        "pt": "[Lavanda]\nAh, viajante. Você veio?",
+        "es": "[Lavanda]\nAh, trotamundos. ¿Viniste?"
+    },
+    "UoL9BQ": {
+        "ko": "의뢰에 대해 다시 물어본다",
+        "en": "Ask about the request again.",
+        "pt": "Perguntar sobre a missão de novo.",
+        "es": "Preguntar de nuevo sobre la misión."
+    },
+    "U4L9BQ": {
+        "ko": "[라벤더]\n차가운 상자를 잃어버리셨다고요?!\n아아... 모험가님의 일이란 바쁘고 힘드시긴 하니까 어떤 사고가 생길지 알 수 없긴 하죠...\n다시 드릴 테니 이번엔 잃어버리지 마세요.",
+        "en": "[Lavender]\nYou lost the Ice Cream Box?!\nOh dear... Your work as an adventurer is busy and hard, so I suppose any accident can happen...\nI'll give you another one, so please don't lose it this time.",
+        "pt": "[Lavanda]\nVocê perdeu a Caixa Geladinha?!\nAh... O trabalho de viajante é corrido e puxado, então pode acontecer qualquer acidente...\nVou te dar outra, então não perde dessa vez.",
+        "es": "[Lavanda]\n¿¡Perdiste la Caja Fría!?\nAy... El trabajo de trotamundos es ajetreado y duro, así que puede pasar cualquier accidente...\nTe daré otra, así que no la pierdas esta vez."
+    },
+    "VIL9BQ": {
+        "ko": "[라벤더]\n다음 번에는 조심해 주세요.",
+        "en": "[Lavender]\nPlease be careful next time.",
+        "pt": "[Lavanda]\nToma cuidado na próxima.",
+        "es": "[Lavanda]\nTen cuidado la próxima vez."
+    },
+    "VYL9BQ": {
+        "ko": "[라벤더]\n휘겔에 휴양을 가신 저희 부모님께 <ITEM>[차가운 상자]<INFO>25319</INFO></ITEM>를 배달해 주셨으면 해요.\n아마 바닷가를 거닐고 계실 거예요.",
+        "en": "[Lavender]\nPlease deliver the [<ITEM>Ice Cream Box<INFO>25319</INFO></ITEM>] to my parents who are on vacation in Hugel.\nThey're probably strolling along the beach.",
+        "pt": "[Lavanda]\nQueria que você entregasse a [<ITEM>Caixa Geladinha<INFO>25319</INFO></ITEM>] para os meus pais que estão de férias em Hugel.\nAcho que eles devem estar passeando pela praia.",
+        "es": "[Lavanda]\nQuisiera que entregaras la [<ITEM>Caja Fría<INFO>25319</INFO></ITEM>] a mis padres que están de vacaciones en Hugel.\nSeguro andan paseando por la playa."
+    },
+    "VoL9BQ": {
+        "ko": "[라벤더]\n아, 모험가님. 오셨군요!\n먼 길 다녀오시느라 힘드셨죠...\n...네? 아버지한테서 전언이?",
+        "en": "[Lavender]\nAh, adventurer. You're back!\nIt must have been tiring coming from so far away...\n...Yes? A message from my father?",
+        "pt": "[Lavanda]\nAh, viajante. Você voltou!\nDeve estar cansado de vir de tão longe...\n...Como é? Um recado do meu pai?",
+        "es": "[Lavanda]\n¡Ah, trotamundos! ¡Regresaste!\nDebes estar cansado de venir desde tan lejos...\n...¿Cómo? ¿Un recado de mi papá?"
+    },
+    "V4L9BQ": {
+        "ko": "-- 빈 상자와 함께 받은 쪽지를 라벤더에게 건네주자, 라벤더는 급하게 내용을 읽고 웃음을 터뜨렸다. --",
+        "en": "-- As you handed Lavender the note received along with the empty box, Lavender quickly read the contents and burst into laughter. --",
+        "pt": "-- Ao entregar o bilhete recebido junto com a caixa vazia para Lavanda, ela leu o conteúdo rapidamente e caiu na risada. --",
+        "es": "-- Al entregarle a Lavanda el papel que recibiste junto con la caja vacía, ella lo leyó rápidamente y soltó una carcajada. --"
+    },
+    "WIL9BQ": {
+        "ko": "[라벤더]\n쉬시라고 보내드렸더니 거기서 다음 일 기획을 하고 계시다니!\n절 걱정하신 건지 일거리를 늘려주시는 건지 모르겠지만...",
+        "en": "[Lavender]\nI sent them so they could rest, and now he's planning his next job there!\nI don't know if he's worried about me or just giving me more work...",
+        "pt": "[Lavanda]\nMandei eles descansarem, e ele está planejando o próximo trabalho lá!\nNão sei se ele está preocupado comigo ou só me dando mais trabalho...",
+        "es": "[Lavanda]\n¡Los mandé a descansar y resulta que está planeando el próximo trabajo allá!\nNo sé si está preocupado por mí o solo dándome más trabajo..."
+    },
+    "WYL9BQ": {
+        "ko": "[라벤더]\n구상에 오래 걸릴 것 같으니 올해는 힘들겠지만 내년엔 기대하셔도 되겠어요.\n그나저나 모험가님이 휘겔에 다녀오시는 사이에 멜론빵을 준비했어요!\n부디 사례를 받아 주세요.",
+        "en": "[Lavender]\nIt seems the planning will take a while, so it might be tough this year, but you can look forward to next year.\nBy the way, while you were away in Hugel, I prepared some melon bread!\nPlease accept this reward.",
+        "pt": "[Lavanda]\nParece que o planejamento vai demorar, então este ano vai ser difícil, mas ano que vem vocês podem esperar.\nAliás, enquanto você estava indo e vindo de Hugel, eu preparei pão de melão!\nPor favor, aceite essa recompensa.",
+        "es": "[Lavanda]\nParece que la planeación va a tardar, así que este año estará difícil, pero el próximo pueden esperar algo.\nPor cierto, mientras tú ibas y venías de Hugel, ¡preparé pan de melón!\nPor favor, acepta esta recompensa."
+    },
+    "WoL9BQ": {
+        "ko": "[라벤더]\n아직 딜포어의 고민은 해결이 안 됐지만...\n혹시 시간이 있으시면 도와 주시면 어떨까요?",
+        "en": "[Lavender]\nVanilla's problem still isn't solved, but...\nIf you have time, how about helping out?",
+        "pt": "[Lavanda]\nO problema da Dália ainda não foi resolvido, mas...\nSe você tiver tempo, que tal dar uma força?",
+        "es": "[Lavanda]\nEl problema de Tulipa todavía no se resuelve, pero...\nSi tienes tiempo, ¿qué tal si le echas una mano?"
+    },
+    "W4L9BQ": {
+        "ko": "딜포어 : 모험가님 제발 자비를... 십시일반이라고... 아흑.",
+        "en": "Vanilla: Adventurer, please have mercy... Many hands make light work... Ugh.",
+        "pt": "Dália: Viajante, pelo amor de Deus... Muitas mãos tornam o trabalho leve... Uh.",
+        "es": "Tulipa: Trotamundos, por favor ten piedad... Muchas manos hacen el trabajo ligero... Ugh."
+    },
+    "XIL9BQ": {
+        "ko": "[라벤더]\n아직 딜포어의 고민은...\n...해결중인 것 같지만요.",
+        "en": "[Lavender]\nVanilla's problem is still...\n...being resolved, I suppose.",
+        "pt": "[Lavanda]\nO problema da Dália ainda está...\n...sendo resolvido, acho.",
+        "es": "[Lavanda]\nEl problema de Tulipa todavía...\n...está en proceso de resolverse, parece."
+    },
+    "XYL9BQ": {
+        "ko": "딜포어 : 내가 하려고 해도 한계가 있다고... 가능한 한 많은 사람에게 부탁해야지.",
+        "en": "Vanilla: Even if I want to do it, I have my limits... I need to ask as many people as possible.",
+        "pt": "Dália: Mesmo que eu queira fazer, tenho meus limites... Tenho que pedir ajuda ao maior número possível de pessoas.",
+        "es": "Tulipa: Aunque yo quiera hacerlo, tengo mis límites... Tengo que pedirle ayuda a la mayor cantidad de gente posible."
+    },
+    "XoL9BQ": {
+        "ko": "[라벤더]\n딜포어도 이래저래 민폐를 끼쳤고...\n정말 모험가님 아니었으면 큰일날 뻔 했어요.\n도와주셔서 정말 감사드립니다.",
+        "en": "[Lavender]\nVanilla has caused a lot of trouble in various ways...\nReally, if it weren't for you, adventurer, it would have been a disaster.\nThank you so much for your help.",
+        "pt": "[Lavanda]\nA Dália causou um monte de problemas de vários jeitos...\nSério, se não fosse por você, viajante, teria sido um desastre.\nMuito obrigado pela ajuda.",
+        "es": "[Lavanda]\nTulipa ha causado un montón de problemas de varias maneras...\nDe verdad, si no hubiera sido por ti, trotamundos, habría sido un desastre.\nMuchas gracias por tu ayuda."
+    },
+    "X4L9BQ": {
+        "ko": "딜포어 : 두 번 다시 이런 일 없게... 조심할게요.",
+        "en": "Vanilla: I'll make sure something like this never happens again... I'll be careful.",
+        "pt": "Dália: Pra que isso não aconteça nunca mais... Vou tomar cuidado.",
+        "es": "Tulipa: Para que esto no vuelva a pasar... Tendré cuidado."
+    },
+    "YIL9BQ": {
+        "ko": "[라벤더]\n아참, 분수대 근처에는 가 보셨어요?\n큰 멜론 경진대회를 하고 있어요.\n그리고 제 사촌인 난나비가 기념 모자를 만들고 있는데,\n한 번 만들어 달라고 해 보시면 어떨까요?\n축제 기분을 만끽할 수 있을 거예요.",
+        "en": "[Lavender]\nOh, by the way, have you been near the fountain?\nThey're holding a Big Melon Contest.\nAnd my cousin Jasmine is making commemorative hats.\nWhy don't you ask her to make you one?\nIt'll help you get into the festival spirit.",
+        "pt": "[Lavanda]\nAh, sim, você já foi perto do chafariz?\nEstá acontecendo o Concurso do Melão.\nE a minha prima Jasmin está fazendo chapéus comemorativos.\nQue tal pedir pra ela fazer um pra você?\nDá pra sentir bem o clima do festival.",
+        "es": "[Lavanda]\nAh, sí, ¿ya fuiste cerca de la fuente?\nEstán haciendo el Concurso del Gran Melón.\nY mi prima Jazmín está haciendo sombreros conmemorativos.\n¿Qué tal si le pides que te haga uno?\nTe ayudará a sentir el ambiente del festival."
+    },
+    "YYL9BQ": {
+        "ko": "[라벤더]\n멜론 가공품이 더 필요하시면 자동판매기를 이용해 주세요!",
+        "en": "[Lavender]\nIf you need more melon processed goods, please use the vending machine!",
+        "pt": "[Lavanda]\nSe precisar de mais produtos processados de melão, use a máquina de venda automática!",
+        "es": "[Lavanda]\n¡Si necesitas más productos procesados de melón, usa la máquina expendedora!"
+    },
+    "YoL9BQ": {
+        "ko": "[라벤더]\n모험가님, 어서오세요!\n무슨 일 있으신가요?",
+        "en": "[Lavender]\nAdventurer, welcome!\nWhat can I do for you?",
+        "pt": "[Lavanda]\nViajante, bem-vindo!\nDo que você precisa?",
+        "es": "[Lavanda]\n¡Trotamundos, bienvenido!\n¿En qué te puedo ayudar?"
+    },
+    "Y4L9BQ": {
+        "ko": "[라벤더]\n아하... 이번에는 비법 가루를 섞는 이벤트는 하지 않느냐고요?\n그건 기업 비밀인데...",
+        "en": "[Lavender]\nAhaha... You're asking if there's no event where you mix secret powder this time?\nThat's a company secret...",
+        "pt": "[Lavanda]\nAhá... Você está perguntando se não vai ter evento de misturar pó secreto dessa vez?\nIsso é segredo da empresa...",
+        "es": "[Lavanda]\nAjá... ¿Me preguntas que por qué no hay evento de mezclar polvo secreto esta vez?\nEso es secreto de la empresa..."
+    },
+    "ZIL9BQ": {
+        "ko": "[라벤더]\n모험가님께만 특별히 알려드릴게요.",
+        "en": "[Lavender]\nI'll let you in on it, just this once, as a special favor.",
+        "pt": "[Lavanda]\nVou contar, em segredo, só pra você.",
+        "es": "[Lavanda]\nTe lo contaré en secreto, solo a ti."
+    },
+    "ZYL9BQ": {
+        "ko": "[라벤더]\n비밀은... 소곤소곤.\n특제 비법으로 만든 레몬 설탕이랍니다.",
+        "en": "[Lavender]\nThe secret is... *whisper whisper*.\nIt's lemon sugar made with a special secret recipe.",
+        "pt": "[Lavanda]\nO segredo é... *sussurro sussurro*.\nÉ açúcar de limão feito com uma receita secreta especial.",
+        "es": "[Lavanda]\nEl secreto es... *susurro susurro*.\nEs azúcar de limón hecha con una receta secreta especial."
+    },
+    "ZoL9BQ": {
+        "ko": "[라벤더]\n결국 비법 아니냐고요? 그럼요. 아하하!",
+        "en": "[Lavender]\nYou're saying that's still a secret? Of course it is. Ahaha!",
+        "pt": "[Lavanda]\nVocê vai dizer que ainda é segredo? Claro que é. Ahaha!",
+        "es": "[Lavanda]\n¿Que si sigue siendo secreto? Claro que sí. ¡Jajaja!"
+    },
+    "Z4L9BQ": {
+        "ko": "난나비",
+        "en": "Jasmine",
+        "pt": "Jasmin",
+        "es": "Jazmín"
+    },
+    "aIL9BQ": {
+        "ko": "난나비 : 달콤이 껍질 모아요~",
+        "en": "Jasmine: Collecting Meloring Skins~",
+        "pt": "Jasmin: Juntando Peles de Meloring~",
+        "es": "Jazmín: Juntando Pieles de Meloring~"
+    },
+    "aYL9BQ": {
+        "ko": "[난나비]\n어서오세요~\n즐거운 멜론 축제에 오신 것을\n환영합니다!",
+        "en": "[Jasmine]\nWelcome~\nWelcome to the joyful Melon Festival!",
+        "pt": "[Jasmin]\nBem-vindo~\nBem-vindo ao alegre Festival do Melão!",
+        "es": "[Jazmín]\n¡Bienvenido~\nBienvenido al alegre Festival del Melón!"
+    },
+    "aoL9BQ": {
+        "ko": "[난나비]\n아, 손님! 죄송해요.\n지금은 재고가 다 떨어져서~\n기념 모자를 판매할 수가 없네요.\n하지만 <ITEM>[달콤한 멜론 쥬스]<INFO>23321</INFO></ITEM>는 상시 판매중이랍니다.",
+        "en": "[Jasmine]\nAh, customer! I'm sorry.\nI'm completely out of stock right now~\nSo I can't sell any commemorative hats.\nBut [<ITEM>Melon Soda<INFO>23321</INFO></ITEM>] is always in stock.",
+        "pt": "[Jasmin]\nAh, freguês! Desculpa.\nMeu estoque acabou agora~\nNão posso vender os chapéus comemorativos.\nMas o [<ITEM>Refrigerante de Melão<INFO>23321</INFO></ITEM>] está sempre à venda.",
+        "es": "[Jazmín]\nAh, ¡cliente! Lo siento.\nSe me acabó el inventario~\nNo puedo vender los sombreros conmemorativos.\nPero el [<ITEM>Jugo de Melón Dulce<INFO>23321</INFO></ITEM>] siempre está a la venta."
+    },
+    "a4L9BQ": {
+        "ko": "[난나비]\n<ITEM>[달콤이 껍질]<INFO>25318</INFO></ITEM> 10개를 모아 오시면\n<ITEM>[달콤한 멜론 쥬스]<INFO>23321</INFO></ITEM> 1개로 바꿔 드려요.\n관심 있으신가요?",
+        "en": "[Jasmine]\nIf you bring me 10 [<ITEM>Meloring Skin<INFO>25318</INFO></ITEM>],\nI'll trade them for 1 [<ITEM>Melon Soda<INFO>23321</INFO></ITEM>].\nAre you interested?",
+        "pt": "[Jasmin]\nSe você juntar 10 [<ITEM>Pele de Meloring<INFO>25318</INFO></ITEM>],\neu troco por 1 [<ITEM>Refrigerante de Melão<INFO>23321</INFO></ITEM>].\nTem interesse?",
+        "es": "[Jazmín]\nSi juntas 10 [<ITEM>Piel de Meloring<INFO>25318</INFO></ITEM>],\nte lo cambio por 1 [<ITEM>Jugo de Melón Dulce<INFO>23321</INFO></ITEM>].\n¿Te interesa?"
+    },
+    "bIL9BQ": {
+        "ko": "바꿔 주세요",
+        "en": "Please trade.",
+        "pt": "Quero trocar.",
+        "es": "Quiero cambiar."
+    },
+    "bYL9BQ": {
+        "ko": "됐어요",
+        "en": "No thanks.",
+        "pt": "Não, obrigado.",
+        "es": "No, gracias."
+    },
+    "boL9BQ": {
+        "ko": "[난나비]\n좋아요!\n잠시만 기다리세요...",
+        "en": "[Jasmine]\nOkay!\nJust a moment, please...",
+        "pt": "[Jasmin]\nBeleza!\nSó um momentinho...",
+        "es": "[Jazmín]\n¡Bien!\nEspera un momentito..."
+    },
+    "b4L9BQ": {
+        "ko": "[난나비]\n다음에는 수거반을\n적극적으로 이용해 주세요~",
+        "en": "[Jasmine]\nNext time, please make use of the collection bin~",
+        "pt": "[Jasmin]\nDa próxima vez, use a lixeira de coleta ativamente~",
+        "es": "[Jazmín]\n¡La próxima vez usa activamente el contenedor de recolección~"
+    },
+    "cIL9BQ": {
+        "ko": "[난나비]\n아이쿠, 어서 오세요!\n이제 척 보면 알죠, 모험가님이 왜 이리 오셨는지!",
+        "en": "[Jasmine]\nOh my, welcome!\nNow I can tell at a glance why you, adventurer, are here!",
+        "pt": "[Jasmin]\nBem-vindo!\nAgora eu já sei de cara por que você, viajante, veio aqui!",
+        "es": "[Jazmín]\n¡Ay, bienvenido!\n¡Ya a simple vista sé por qué viniste, trotamundos!"
+    },
+    "cYL9BQ": {
+        "ko": "[난나비]\n저는 난나비라고 해요. 식물성 가죽 공예가랍니다.\n식물성 가죽... 뭘 말하는지 아실 거예요.\n달콤이 껍질로 온갖 모자를 만들고 있지요.",
+        "en": "[Jasmine]\nMy name is Jasmine. I'm a plant-based leather craftsman.\nPlant-based leather... you know what I mean.\nI make all sorts of hats from Meloring Skins.",
+        "pt": "[Jasmin]\nMeu nome é Jasmin. Sou artesã de couro vegetal.\nCouro vegetal... Você sabe do que eu tô falando.\nFaço todo tipo de chapéu com Pele de Meloring.",
+        "es": "[Jazmín]\nMe llamo Jazmín. Soy artesana de cuero vegetal.\nCuero vegetal... ya sabes de qué hablo.\nHago todo tipo de sombreros con Piel de Meloring."
+    },
+    "coL9BQ": {
+        "ko": "[난나비]\n올해도 멜론 축제를 맞이해서 신상품을 만들었어요.\n바로 제가 쓰고 있는 이것!\n<ITEM>[의상 멜론 헤드폰]<INFO>31974</INFO></ITEM>!",
+        "en": "[Jasmine]\nI made a new product for this year's Melon Festival as well.\nIt's this one I'm wearing!\n<ITEM>[Costume] Melophones<INFO>31974</INFO></ITEM>!",
+        "pt": "[Jasmin]\nTambém fiz um produto novo para o Festival do Melão deste ano.\nÉ exatamente este que estou usando!\n<ITEM>[Visual] Melofone<INFO>31974</INFO></ITEM>!",
+        "es": "[Jazmín]\nTambién hice un producto nuevo para el Festival del Melón de este año.\n¡Es justo este que estoy usando!\n[<ITEM>[Disfraz] Melófono<INFO>31974</INFO></ITEM>]!"
+    },
+    "c4L9BQ": {
+        "ko": "[난나비]\n달콤한 멜론 납품하시면서 모은 부산물이 많지 않으세요?\n열심히 만들고는 있는데 재료랑 생산이 판매량을 따라가지 못해서...",
+        "en": "[Jasmine]\nDon't you have a lot of byproducts from delivering Sweet Melons?\nI'm working hard to make them, but materials and production can't keep up with sales...",
+        "pt": "[Jasmin]\nVocê não tem bastante subproduto de quando entregou os Melões Amarelos?\nEu tô fazendo de montão, mas os materiais e a produção não conseguem acompanhar as vendas...",
+        "es": "[Jazmín]\n¿No tienes muchos subproductos de cuando entregaste Melones Dulces?\nLos estoy haciendo un montón, pero los materiales y la producción no dan abasto con las ventas..."
+    },
+    "dIL9BQ": {
+        "ko": "[난나비]\n그러니까... 질 좋은 달콤이 껍질요.\n혹시 모험가님, 도와주실 수 있을까요?",
+        "en": "[Jasmine]\nSo... high-quality Meloring Skins.\nAdventurer, could you possibly help me out?",
+        "pt": "[Jasmin]\nEntão... Pele de Meloring de boa qualidade.\nViajante, será que você pode me ajudar?",
+        "es": "[Jazmín]\nAsí que... Piel de Meloring de buena calidad.\nTrotamundos, ¿podrías ayudarme?"
+    },
+    "dYL9BQ": {
+        "ko": "[난나비]\n<ITEM>[달콤이 껍질]<INFO>25318</INFO></ITEM> 30개를 모아 오시면\n<ITEM>[의상 멜론 헤드폰]<INFO>31974</INFO></ITEM>을 드릴게요.\n잘 부탁드립니다!",
+        "en": "[Jasmine]\nIf you bring me 30 <ITEM>Meloring Skin<INFO>25318</INFO></ITEM>,\nI'll give you <ITEM>[Costume] Melophones<INFO>31974</INFO></ITEM>.\nI look forward to working with you!",
+        "pt": "[Jasmin]\nSe você juntar 30 <ITEM>Pele de Meloring<INFO>25318</INFO></ITEM>,\neu te dou um <ITEM>[Visual] Melofone<INFO>31974</INFO></ITEM>.\nDeixo tudo nas suas mãos!",
+        "es": "[Jazmín]\nSi juntas 30 [<ITEM>Piel de Meloring<INFO>25318</INFO></ITEM>],\nte daré un [<ITEM>[Disfraz] Melófono<INFO>31974</INFO></ITEM>].\n¡Te encargo!"
+    },
+    "doL9BQ": {
+        "ko": "[난나비]\n어서오세요~\n아, 모험가님!\n<ITEM>[의상 멜론 헤드폰]<INFO>31974</INFO></ITEM>과 교환할 <ITEM>[달콤이 껍질]<INFO>25318</INFO></ITEM> 30개는 준비되셨나요?\n아니면, <ITEM>[달콤한 멜론 쥬스]<INFO>23321</INFO></ITEM>가 필요하신가요? 이건 달콤이 껍질 10개를 주시면 만들어 드려요.",
+        "en": "[Jasmine]\nWelcome~\nAh, adventurer!\nDo you have the 30 [<ITEM>Meloring Skins<INFO>25318</INFO></ITEM]>] ready to exchange for <ITEM>[Costume] Melophone<INFO>31974</INFO></ITEM>?\nOr do you need [<ITEM>Melon Soda<INFO>23321</INFO></ITEM>]? I can make that if you give me 10 Meloring Skins.",
+        "pt": "[Jasmin]\nBem-vindo~\nAh, viajante!\nVocê já separou as 30 [<ITEM>Peles de Meloring<INFO>25318</INFO></ITEM>] para trocar pelo <ITEM>[Visual] Melofone<INFO>31974</INFO></ITEM>?\nOu você precisa de [<ITEM>Refrigerante de Melão<INFO>23321</INFO></ITEM>]? Esse eu faço se você me der 10 Peles de Meloring.",
+        "es": "[Jazmín]\nBienvenido~\n¡Ah, trotamundos!\n¿Ya tienes las 30 [<ITEM>Pieles de Meloring<INFO>25318</INFO></ITEM>] para cambiar por el [<ITEM>[Disfraz] Melófono<INFO>31974</INFO></ITEM>]?\n¿O necesitas [<ITEM>Jugo de Melón Dulce<INFO>23321</INFO></ITEM>]? Ese lo hago si me das 10 Pieles de Meloring."
+    },
+    "d4L9BQ": {
+        "ko": "의상 멜론 헤드폰을 주세요",
+        "en": "Give me the [Costume] Melophone.",
+        "pt": "Me dê o [Visual] Melofone.",
+        "es": "Dame el [Disfraz] Melófono."
+    },
+    "eIL9BQ": {
+        "ko": "달콤한 멜론 쥬스를 주세요",
+        "en": "Give me Melon Soda.",
+        "pt": "Me dê o Refrigerante de Melão.",
+        "es": "Dame el Jugo de Melón Dulce."
+    },
+    "eYL9BQ": {
+        "ko": "괜찮아요",
+        "en": "I'm fine.",
+        "pt": "Não, obrigado.",
+        "es": "No, gracias."
+    },
+    "eoL9BQ": {
+        "ko": "[난나비]\n아아, 감사드립니다!\n그럼 자... 여기,\n<ITEM>[의상 멜론 헤드폰]<INFO>31974</INFO></ITEM>!\n감사합니다. 이거면 당분간은 괜찮을 것 같아요.\n멜론 파르페도 한 개 드릴게요!",
+        "en": "[Jasmine]\nAh, thank you so much!\nThen here... <ITEM>[Costume] Melophone<INFO>31974</INFO></ITEM>!\nThank you. This should be enough for a while.\nI'll also give you a Melon Parfait!",
+        "pt": "[Jasmin]\nAh, muito obrigada!\nEntão... aqui está,\n<ITEM>[Visual] Melofone<INFO>31974</INFO></ITEM>!\nObrigada. Com isso acho que fico tranquila por um tempo.\nTambém vou te dar um Sorvete de Melão!",
+        "es": "[Jazmín]\n¡Ah, muchísimas gracias!\nEntonces, toma... aquí tienes,\n¡[<ITEM>[Disfraz] Melófono<INFO>31974</INFO></ITEM>]!\nGracias. Con esto creo que estaré bien por un tiempo.\n¡También te daré un Helado de Melón!"
+    },
+    "e4L9BQ": {
+        "ko": "[난나비]\n멜론 축제를 부디 즐겨 주세요!",
+        "en": "[Jasmine]\nPlease enjoy the Melon Festival!",
+        "pt": "[Jasmin]\nPor favor, aproveite o Festival do Melão!",
+        "es": "[Jazmín]\n¡Por favor, disfruta el Festival del Melón!"
+    },
+    "fIL9BQ": {
+        "ko": "[난나비]\n갖고 계신 달콤이 껍질은 30개가 안 되는 것 같은데요...\n다시 확인해 주시겠어요?",
+        "en": "[Jasmine]\nIt seems you don't have 30 Meloring Skins...\nCould you check again?",
+        "pt": "[Jasmin]\nParece que você não tem 30 Peles de Meloring...\nPoderia verificar de novo?",
+        "es": "[Jazmín]\nParece que no tienes 30 Pieles de Meloring...\n¿Podrías revisar de nuevo?"
+    },
+    "fYL9BQ": {
+        "ko": "[난나비]\n아, 좋아요.\n그럼 잠시만요...",
+        "en": "[Jasmine]\nAh, okay.\nThen just a moment...",
+        "pt": "[Jasmin]\nAh, está bem.\nEntão só um instante...",
+        "es": "[Jazmín]\nAh, está bien.\nEntonces, espera un momento..."
+    },
+    "foL9BQ": {
+        "ko": "[난나비]\n어서오세요~\n멜론 축제는 즐거우신가요?\n<ITEM>[달콤이 껍질]<INFO>25318</INFO></ITEM> 10개를 모아 오시면\n<ITEM>[달콤한 멜론 쥬스]<INFO>23321</INFO></ITEM> 1개로 바꿔 드려요.",
+        "en": "[Jasmine]\nWelcome~\nAre you enjoying the Melon Festival?\nIf you bring me 10 <ITEM>Meloring Skin<INFO>25318</INFO></ITEM>,\nI'll trade them for 1 <ITEM>Melon Soda<INFO>23321</INFO></ITEM>.",
+        "pt": "[Jasmin]\nBem-vindo~\nVocê está gostando do Festival do Melão?\nSe você juntar 10 <ITEM>Pele de Meloring<INFO>25318</INFO></ITEM>,\neu troco por 1 <ITEM>Refrigerante de Melão<INFO>23321</INFO></ITEM>.",
+        "es": "[Jazmín]\nBienvenido~\n¿Estás disfrutando el Festival del Melón?\nSi juntas 10 [<ITEM>Piel de Meloring<INFO>25318</INFO></ITEM>],\nte lo cambio por 1 [<ITEM>Jugo de Melón Dulce<INFO>23321</INFO></ITEM>]."
+    },
+    "f4L9BQ": {
+        "ko": "[난나비]\n관심 있으신가요?",
+        "en": "[Jasmine]\nAre you interested?",
+        "pt": "[Jasmin]\nTem interesse?",
+        "es": "[Jazmín]\n¿Te interesa?"
+    },
+    "gIL9BQ": {
+        "ko": "딜포어",
+        "en": "Vanilla",
+        "pt": "Dália",
+        "es": "Tulipa"
+    },
+    "gYL9BQ": {
+        "ko": "[딜포어]\n히익!\n저는 아직 아무 말도 안했어요!",
+        "en": "[Vanilla]\nEep!\nI haven't said anything yet!",
+        "pt": "[Dália]\nEep!\nEu ainda não falei nada!",
+        "es": "[Tulipa]\n¡Eep!\n¡Todavía no he dicho nada!"
+    },
+    "goL9BQ": {
+        "ko": "라벤더 : 정신차려! 할 수 있어!",
+        "en": "Lavender: Pull yourself together! You can do it!",
+        "pt": "Lavanda: Cai na real! Você consegue!",
+        "es": "Lavanda: ¡Reacciona! ¡Tú puedes!"
+    },
+    "g4L9BQ": {
+        "ko": "[딜포어]\n모, 모험가님...\n이번 달콤이 사냥 이벤트 참여 감사드립니다.\n그런데 저기 혹시 괜찮으시면 제 부탁을 좀... 들어주실 수 있을까요?",
+        "en": "[Vanilla]\nA-Adventurer...\nThank you for participating in this Meloring hunting event.\nBut, um, if it's okay with you... could you possibly... listen to my request?",
+        "pt": "[Dália]\nViajante...\nObrigado por participar do evento de caça ao Meloring.\nMas, hum, se você não se importa, será que poderia... atender a um pedido meu?",
+        "es": "[Tulipa]\nTrotamundos...\nGracias por participar en este evento de caza al Meloring.\nPero, oye, si no te importa, ¿podrías... escuchar un pedido mío?"
+    },
+    "hIL9BQ": {
+        "ko": "[딜포어]\n저는 육종가 딜포어라고 합니다.\n다름이 아니라... 사고를 좀 쳤는데...\n그.... 저기.",
+        "en": "[Vanilla]\nMy name is Vanilla, and I'm a breeder.\nThe thing is... I caused a bit of an accident...\nWell... um.",
+        "pt": "[Dália]\nMeu nome é Dália, sou criadora.\nÉ o seguinte... eu causei um acidente...\nBem... é...",
+        "es": "[Tulipa]\nMe llamo Tulipa, y soy criadora.\nEl caso es que... tuve un accidente...\nBueno... esto..."
+    },
+    "hYL9BQ": {
+        "ko": "사고 수습은 사양할래",
+        "en": "I'd rather not clean up accidents.",
+        "pt": "Não quero ajudar a limpar a bagunça.",
+        "es": "No quiero ayudar a limpiar el desastre."
+    },
+    "hoL9BQ": {
+        "ko": "사람이 사고도 좀 칠 수 있지",
+        "en": "Everyone makes mistakes sometimes.",
+        "pt": "Todo mundo comete erros de vez em quando.",
+        "es": "Todos cometen errores a veces."
+    },
+    "h4L9BQ": {
+        "ko": "[딜포어]\n아......",
+        "en": "[Vanilla]\nAh......",
+        "pt": "[Dália]\nAh......",
+        "es": "[Tulipa]\nAh......"
+    },
+    "iIL9BQ": {
+        "ko": "라벤더 : 아아...",
+        "en": "Lavender: Oh dear...",
+        "pt": "Lavanda: Ah, céus...",
+        "es": "Lavanda: Ay, cielos..."
+    },
+    "iYL9BQ": {
+        "ko": "[딜포어]\n여기까지 오시는 길에 달콤이 말고도 새콤이를 보셨을 거예요.\n그러니까 저기... 원래대로라면 품종개량된 마린에게 여러 가지 맛이 나는 포도를 먹일 참이었는데.\n연구소를 탈출해서...",
+        "en": "[Vanilla]\nOn your way here, you probably saw not only Meloring but also Dark Meloring.\nSo, um... originally, I was going to feed various flavored grapes to improved Marins.\nBut they escaped from the lab...",
+        "pt": "[Dália]\nNo caminho até aqui, você deve ter visto não só Melorings, mas também Melorings Sombrios.\nEntão, é... originalmente, eu ia alimentar Marins melhorados com uvas de vários sabores.\nMas escaparam do laboratório...",
+        "es": "[Tulipa]\nEn el camino hasta aquí, debiste haber visto no solo Melorings, sino también Melorings Sombríos.\nEntonces, esto... originalmente, iba a alimentar a Marins mejorados con uvas de varios sabores.\nSe escaparon del laboratorio..."
+    },
+    "ioL9BQ": {
+        "ko": "[딜포어]\n포포링이 먹으면 달콤한 멜론이 되는 그......\n그걸 먹어버린 거예요.",
+        "en": "[Vanilla]\nThe thing that Poporings eat to become Sweet Melons...\nThey ate that.",
+        "pt": "[Dália]\nAquilo que os Poporings comem e viram Melão Amarelo...\nComeram aquilo.",
+        "es": "[Tulipa]\nEso que los Poporings comen y se convierten en Melón Dulce...\nSe lo comieron."
+    },
+    "i4L9BQ": {
+        "ko": "라벤더 : 그렇게 문 잘 잠그라고 했는데...",
+        "en": "Lavender: I told you to lock the door properly...",
+        "pt": "Lavanda: Eu falei pra trancar a porta direito...",
+        "es": "Lavanda: Te dije que cerraras bien la puerta..."
+    },
+    "jIL9BQ": {
+        "ko": "[딜포어]\n다행히 큰 사고는 없었는데... 저 혼자 수습할 수 없을 만큼 많은 새콤이가 생겨나 버렸어요.\n아직 농장 연합에 등록된 품종이 아니었어서 급하게 서류를 만드는 사이에 수확이 늦어져버려서...",
+        "en": "[Vanilla]\nFortunately, there was no major accident... but so many Dark Melorings have appeared that I can't clean them up alone.\nThe breed wasn't yet registered with the Farm Alliance, so while I was hurriedly preparing the paperwork, the harvest got delayed...",
+        "pt": "[Dália]\nFelizmente, não houve um acidente grande... mas surgiram tantos Melorings Sombrios que não consigo limpar sozinha.\nA espécie ainda não estava registrada na Aliança das Fazendas, então enquanto eu corria com os papéis, a colheita atrasou...",
+        "es": "[Tulipa]\nPor suerte no hubo un accidente grave... pero aparecieron tantos Melorings Sombríos que no puedo limpiarlos sola.\nComo la variedad aún no estaba registrada en la Alianza de Granjas, mientras corría con los papeles, la cosecha se atrasó..."
+    },
+    "jYL9BQ": {
+        "ko": "수확을 할 정신이 있었구나",
+        "en": "You had the presence of mind to think about harvesting.",
+        "pt": "Você teve presença de espírito pra pensar em colher, hein.",
+        "es": "Tuviste presencia de ánimo para pensar en cosechar, eh."
+    },
+    "joL9BQ": {
+        "ko": "[딜포어]\n이래봬도... 농가 집안이니까요.",
+        "en": "[Vanilla]\nEven if I say so myself... I come from a farming family.",
+        "pt": "[Dália]\nMesmo com essa cara... venho de uma família de fazendeiros.",
+        "es": "[Tulipa]\nAunque parezca... vengo de una familia de agricultores."
+    },
+    "j4L9BQ": {
+        "ko": "라벤더 : 제 팔촌이에요.",
+        "en": "Lavender: He's my eighth cousin.",
+        "pt": "Lavanda: Ela é minha prima de oitavo grau.",
+        "es": "Lavanda: Es mi prima octava."
+    },
+    "kIL9BQ": {
+        "ko": "딜포어 : 칭찬인지 욕인지 모르겠네.",
+        "en": "Vanilla: I can't tell if that's a compliment or an insult.",
+        "pt": "Dália: Não sei se isso é elogio ou xingamento.",
+        "es": "Tulipa: No sé si eso es un halago o un insulto."
+    },
+    "kYL9BQ": {
+        "ko": "[딜포어]\n그래서 저기... 수확 허가가 떨어져서 이제 수확 장려 행사 홍보를 하러 나왔는데...\n생각보다 어렵네요.\n이렇게 처음 뵙는 모험가 분들께 부탁을 드리는 게...",
+        "en": "[Vanilla]\nSo, um... I've now received harvest permission and came out to promote the harvest encouragement event...\nBut it's harder than I thought.\nAsking adventurers I've just met for favors like this...",
+        "pt": "[Dália]\nEntão, é... a permissão de colheita saiu, e eu vim aqui divulgar o evento de incentivo à colheita...\nMas é mais difícil do que eu pensava.\nPedir um favor pra viajantes que acabei de conhecer...",
+        "es": "[Tulipa]\nAsí que, bueno... ya tengo el permiso de cosecha y salí a promocionar el evento de incentivo a la cosecha...\nPero es más difícil de lo que pensaba.\nPedirle un favor a trotamundos que acabo de conocer..."
+    },
+    "koL9BQ": {
+        "ko": "[딜포어]\n하지만 제 잘못이니까...!\n끝까지 책임을 지려고요!",
+        "en": "[Vanilla]\nBut it's my fault...!\nI'll see it through to the end!",
+        "pt": "[Dália]\nMas a culpa é minha...!\nVou assumir a responsabilidade até o fim!",
+        "es": "[Tulipa]\n¡Pero la culpa es mía...!\n¡Voy a asumir la responsabilidad hasta el final!"
+    },
+    "k4L9BQ": {
+        "ko": "도와준다",
+        "en": "I'll help.",
+        "pt": "Vou ajudar.",
+        "es": "Te ayudo."
+    },
+    "lIL9BQ": {
+        "ko": "도와주지 않는다",
+        "en": "I won't help.",
+        "pt": "Não vou ajudar.",
+        "es": "No te ayudo."
+    },
+    "lYL9BQ": {
+        "ko": "[딜포어]\n아아~ 이제 와서~!\n모험가님, 그러지 말고 부디 저를 좀! 제발!",
+        "en": "[Vanilla]\nAh~ After all this~!\nAdventurer, please don't be like that! Help me! Please!",
+        "pt": "[Dália]\nAh~ Agora que chegamos nesse ponto~!\nViajante, não faz isso, por favor! Por favor!",
+        "es": "[Tulipa]\n¡Ah~ Ya que llegamos a este punto~!\n¡Trotamundos, no seas así, por favor! ¡Te lo ruego!"
+    },
+    "loL9BQ": {
+        "ko": "라벤더 : 그냥... 불쌍한 육종가 하나 구한다고 생각해 주시고...",
+        "en": "Lavender: Just think of it as... saving one poor breeder...",
+        "pt": "Lavanda: Apenas... pense que está salvando uma pobre criadora...",
+        "es": "Lavanda: Solo... piensa que estás salvando a una pobre criadora..."
+    },
+    "l4L9BQ": {
+        "ko": "[딜포어]\n감사합니다!\n라벤더가 설명한 것처럼... 역시 야생 멜론을 주워먹고 멜론화된 마린을 보실 수 있을 거예요.\n들으셨다시피 ^4D4DFF새콤이^000000라고 해요.",
+        "en": "[Vanilla]\nThank you!\nAs Lavender explained... you'll probably see wild melons being eaten and melonized Marins.\nAs you heard, they're called ^4D4DFFDark Melorings^000000.",
+        "pt": "[Dália]\nObrigado!\nComo a Lavanda explicou... você provavelmente vai ver melões selvagens sendo comidos e Marins melonizados.\nComo ouviu, eles são chamados de ^4D4DFFMeloring Sombrio^000000.",
+        "es": "[Tulipa]\n¡Gracias!\nComo explicó Lavanda... probablemente verás melones salvajes siendo comidos y Marins melonizados.\nComo oíste, les dicen ^4D4DFFMeloring Sombrío^000000."
+    },
+    "mIL9BQ": {
+        "ko": "[딜포어]\n원래대로라면 맞춰서 개발한 신품종의 포도를 먹였어야 했는데 멋대로 멜론을 먹어버린 바람에 새콤한 멜론이 나와버렸어요...",
+        "en": "[Vanilla]\nOriginally, they were supposed to eat custom-developed new breed grapes, but because they ate melons on their own, Dark Melons ended up appearing...",
+        "pt": "[Dália]\nOriginalmente, eles deveriam comer uvas de uma nova espécie desenvolvida sob medida, mas como comeram melão por conta própria, acabaram aparecendo Melões Sombrios...",
+        "es": "[Tulipa]\nOriginalmente, debieron comer uvas de una nueva variedad desarrollada a medida, pero como comieron melón por su cuenta, terminaron saliendo Melones Sombríos..."
+    },
+    "mYL9BQ": {
+        "ko": "[딜포어]\n맛이 없는 건 아닌데 인지부조화가 일어나는 품종이라고 연합 설득에 좀 애를 먹었어요.\n일단 새콤이의 껍질이 달콤이보다 얇은 것도...",
+        "en": "[Vanilla]\nIt's not that they taste bad, but I had a hard time convincing the Alliance about a breed that causes cognitive dissonance.\nFor one thing, Dark Meloring's skin is thinner than Meloring's...",
+        "pt": "[Dália]\nNão é que não sejam gostosos, mas eu tive um trabalho danado pra convencer a Aliança sobre uma espécie que causa dissonância cognitiva.\nPrimeiro, a casca do Sombrio é mais fina que a do Meloring...",
+        "es": "[Tulipa]\nNo es que no sean ricos, pero me costó un montón convencer a la Alianza sobre una variedad que causa disonancia cognitiva.\nPrimero, la cáscara del Sombrío es más fina que la del Meloring..."
+    },
+    "moL9BQ": {
+        "ko": "라벤더 : 너무 징그러운 이야기 길게 하지 말자...",
+        "en": "Lavender: Let's not make such a gross story too long...",
+        "pt": "Lavanda: Não vamos prolongar uma história tão nojenta...",
+        "es": "Lavanda: No alarguemos una historia tan asquerosa..."
+    },
+    "m4L9BQ": {
+        "ko": "딜포어 : 맛있거든?",
+        "en": "Vanilla: It's delicious, okay?",
+        "pt": "Dália: É gostoso, tá?",
+        "es": "Tulipa: Oye, es muy rico."
+    },
+    "nIL9BQ": {
+        "ko": "[딜포어]\n맛은 인정을 받아서 판매도 할 수 있게 되었고... 약간 착잡하지만요.\n그런데 지금 판매용 재고도 재고지만 제가 연구할 샘플이 부족한 형편이에요.",
+        "en": "[Vanilla]\nThe taste has been recognized, and they can now be sold... though I feel a bit conflicted.\nBut aside from the inventory for sale, I'm short on samples for my research.",
+        "pt": "[Dália]\nO sabor foi reconhecido, e agora podem ser vendidos... meio que me sinto dividida.\nMas além do estoque pra venda, estou sem amostras suficientes pra minha pesquisa.",
+        "es": "[Tulipa]\nEl sabor fue reconocido, y ahora se pueden vender... aunque me siento medio rara.\nPero además del inventario para la venta, ando escaso de muestras para mi investigación."
+    },
+    "nYL9BQ": {
+        "ko": "[딜포어]\n<ITEM>[새콤한 멜론]<INFO>7685</INFO></ITEM>을 10개 수확해다 주시면, 사례를 드릴게요.",
+        "en": "[Vanilla]\nIf you harvest 10 [<ITEM>Dark Melon<INFO>7685</INFO></ITEM>] for me, I'll give you a reward.",
+        "pt": "[Dália]\nSe você colher 10 [<ITEM>Melão Sombrio<INFO>7685</INFO></ITEM>] pra mim, eu te dou uma recompensa.",
+        "es": "[Tulipa]\nSi cosechas 10 [<ITEM>Melón Sombrío<INFO>7685</INFO></ITEM>] para mí, te daré una recompensa."
+    },
+    "noL9BQ": {
+        "ko": "[딜포어]\n안녕하세요, 모험가님...",
+        "en": "[Vanilla]\nHello, adventurer...",
+        "pt": "[Dália]\nOlá, viajante...",
+        "es": "[Tulipa]\nHola, trotamundos..."
+    },
+    "n4L9BQ": {
+        "ko": "새콤한 멜론을 가져왔어",
+        "en": "I brought Dark Melons.",
+        "pt": "Trouxe os Melões Sombrios.",
+        "es": "Traje Melones Sombríos."
+    },
+    "oIL9BQ": {
+        "ko": "딜포어의 푸념을 듣는다",
+        "en": "Listen to Vanilla's lament.",
+        "pt": "Ouvir o lamento do Dália.",
+        "es": "Escuchar el lamento de Tulipa."
+    },
+    "oYL9BQ": {
+        "ko": "[딜포어]\n처음부터 잘하는 사람이 어디 있겠어요... 다 노력하는 거지.",
+        "en": "[Vanilla]\nWho does things perfectly from the start? ...Everyone has to try.",
+        "pt": "[Dália]\nQuem faz tudo certo desde o começo? ...Todo mundo se esforça.",
+        "es": "[Tulipa]\n¿Quién hace todo bien desde el principio? ...Todo el mundo se esfuerza."
+    },
+    "ooL9BQ": {
+        "ko": "[딜포어]\n원래는 제가 포도를 좋아해서 육종을 시도했던 건데... 만약에 포도로 성공을 했다면 어디에 재배 허가를 받았어야 했을까요?",
+        "en": "[Vanilla]\nOriginally, I tried breeding because I liked grapes... If I had succeeded with grapes, where would I have applied for cultivation permission?",
+        "pt": "[Dália]\nOriginalmente, eu tentei fazer o cruzamento porque gosto de uvas... Se eu tivesse conseguido com uvas, onde será que eu teria que pedir permissão de cultivo?",
+        "es": "[Tulipa]\nOriginalmente, intenté el cruce porque me gustan las uvas... Si hubiera tenido éxito con uvas, ¿dónde tendría que haber pedido permiso de cultivo?"
+    },
+    "o4L9BQ": {
+        "ko": "라벤더 : 생각 안 했던 거야??",
+        "en": "Lavender: You didn't think about that??",
+        "pt": "Lavanda: Você não pensou nisso??",
+        "es": "Lavanda: ¿¡No pensaste en eso!?"
+    },
+    "pIL9BQ": {
+        "ko": "딜포어 : 학자 근성이 저지른 일이라...",
+        "en": "Vanilla: It's the scholar's nature...",
+        "pt": "Dália: É a natureza de estudioso...",
+        "es": "Tulipa: Es la naturaleza de estudioso..."
+    },
+    "pYL9BQ": {
+        "ko": "[딜포어]\n탈출한 마린이 멜론을 먹은 게 다행이었다고 생각해요. 제가 바랐던 바는 아니지만...",
+        "en": "[Vanilla]\nI think it was fortunate that the escaped Marins ate melons. It wasn't what I wanted, but...",
+        "pt": "[Dália]\nAcho que foi sorte os Marins fugidos terem comido melão. Não era o que eu queria, mas...",
+        "es": "[Tulipa]\nCreo que fue una suerte que los Marins fugados comieran melón. No era lo que quería, pero..."
+    },
+    "poL9BQ": {
+        "ko": "[딜포어]\n실패가 오히려 좋은 결말이었던 건지...",
+        "en": "[Vanilla]\nWhether failure actually led to a good outcome...",
+        "pt": "[Dália]\nSerá que o fracasso acabou tendo um bom desfecho...",
+        "es": "[Tulipa]\nSi el fracaso tuvo un buen final después de todo..."
+    },
+    "p4L9BQ": {
+        "ko": "[딜포어]\n아!\n이렇게 빨리 오실 거라곤 생각을 못 해서... 어디...\n우와, 금방 처치... 아니, 딴 새콤한 멜론은 저도 처음 봐요.",
+        "en": "[Vanilla]\nAh!\nI didn't expect you to come so quickly... um...\nWow, I've never seen such a quickly disposed of... I mean, harvested Dark Melon either.",
+        "pt": "[Dália]\nAh!\nNão imaginei que você viria tão rápido... hã...\nNossa, esse Melão Sombrio abatido... digo, colhido rapidinho, eu também nunca vi.",
+        "es": "[Tulipa]\n¡Ah!\nNo imaginé que vendrías tan rápido... eh...\nGuau, ese Melón Sombrío abatido... digo, cosechado rapidito, yo tampoco lo había visto."
+    },
+    "qIL9BQ": {
+        "ko": "[딜포어]\n달콤한 멜론과는 조금 다른 이... 손질하기 쉬운 얇은 껍질, 풍부한 향,\n하지만 그러면서도 마찬가지로 묘하게 살아있는 느낌이...",
+        "en": "[Vanilla]\nThis is a bit different from Sweet Melons... the thin skin that's easy to handle, the rich fragrance,\nbut yet, that strangely alive feeling all the same...",
+        "pt": "[Dália]\nUm pouco diferente do Melão Amarelo... essa casca fina fácil de preparar, o aroma rico,\nmas ainda assim, aquela sensação estranhamente viva...",
+        "es": "[Tulipa]\nUn poco diferente del Melón Dulce... esa cáscara fina fácil de preparar, el aroma rico,\npero aún así, esa sensación extrañamente viva..."
+    },
+    "qYL9BQ": {
+        "ko": "[딜포어]\n...",
+        "en": "[Vanilla]\n...",
+        "pt": "[Dália]\n...",
+        "es": "[Tulipa]\n..."
+    },
+    "qoL9BQ": {
+        "ko": "[{0}]\n가족은 가족이네...",
+        "en": "[{0}]\nFamily is family after all...",
+        "pt": "[{0}]\nFamília é família mesmo...",
+        "es": "[{0}]\nFamilia es familia, al final..."
+    },
+    "q4L9BQ": {
+        "ko": "딜포어 : 그러니까요...",
+        "en": "Vanilla: Exactly...",
+        "pt": "Dália: Pois é...",
+        "es": "Tulipa: Exacto..."
+    },
+    "rIL9BQ": {
+        "ko": "라벤더 : 그러게요...",
+        "en": "Lavender: I know...",
+        "pt": "Lavanda: Pois é...",
+        "es": "Lavanda: Lo mismo digo..."
+    },
+    "rYL9BQ": {
+        "ko": "[딜포어]\n어쨌든 약속한 사례입니다.\n<ITEM>[달콤한 멜론 쥬스]<INFO>23321</INFO></ITEM> 5개예요.",
+        "en": "[Vanilla]\nAnyway, here is your promised reward.\nIt's 5 <ITEM>Melon Soda<INFO>23321</INFO></ITEM>.",
+        "pt": "[Dália]\nEnfim, aqui está a recompensa prometida.\nSão 5 <ITEM>Refrigerante de Melão<INFO>23321</INFO></ITEM>.",
+        "es": "[Tulipa]\nEn fin, aquí está tu recompensa prometida.\nSon 5 [<ITEM>Jugo de Melón Dulce<INFO>23321</INFO></ITEM>]."
+    },
+    "roL9BQ": {
+        "ko": "[딜포어]\n어라?\n새콤한 멜론 가져오시지 않았어요?",
+        "en": "[Vanilla]\nOh?\nDidn't you bring the Dark Melons?",
+        "pt": "[Dália]\nOpa?\nVocê não trouxe os Melões Sombrios?",
+        "es": "[Tulipa]\n¿Oye?\n¿No trajiste los Melones Sombríos?"
+    },
+    "r4L9BQ": {
+        "ko": "[딜포어]\n아참, 모험가님. 혹시 괜찮으시면 내일도 좀 의뢰를 드릴 수 있을까요?\n오늘은 이걸로 충분하겠지만 앞으로 축제 기간 동안 저도 연구를 좀 해야겠어요.",
+        "en": "[Vanilla]\nOh, adventurer. If it's okay with you, could I ask for your help again tomorrow?\nToday's batch is enough for now, but I need to do some research for the rest of the festival period.",
+        "pt": "[Dália]\nAh, sim, viajante. Se você não se importar, posso te pedir um favor de novo amanhã?\nCom isso de hoje já está bom, mas pro resto do período do festival eu preciso pesquisar um pouco.",
+        "es": "[Tulipa]\nAh, sí, trotamundos. Si no te importa, ¿podría pedirte otro favor mañana?\nCon lo de hoy es suficiente, pero para el resto del período del festival necesito investigar un poco."
+    },
+    "sIL9BQ": {
+        "ko": "[딜포어]\n내일도 잘 부탁드립니다.",
+        "en": "[Vanilla]\nI look forward to working with you again tomorrow.",
+        "pt": "[Dália]\nConto com você de novo amanhã.",
+        "es": "[Tulipa]\nTe encargo de nuevo mañana."
+    },
+    "sYL9BQ": {
+        "ko": "[딜포어]\n모험가님 말씀이 맞아요.\n처음부터 잘하는 사람이 어디 있겠어요... 다 노력하는 거지.",
+        "en": "[Vanilla]\nYou're right, adventurer.\nWho does things perfectly from the start? ...Everyone has to try.",
+        "pt": "[Dália]\nVocê tem razão, viajante.\nQuem faz tudo certo desde o começo? ...Todo mundo se esforça.",
+        "es": "[Tulipa]\nTienes razón, trotamundos.\n¿Quién hace todo bien desde el principio? ...Todo el mundo se esfuerza."
+    },
+    "soL9BQ": {
+        "ko": "[딜포어]\n오늘은 감사했어요.\n내일 또 도와주시면 감사하겠습니다.",
+        "en": "[Vanilla]\nThank you for today.\nI'd appreciate it if you helped again tomorrow.",
+        "pt": "[Dália]\nObrigada por hoje.\nSe puder ajudar de novo amanhã, eu agradeço.",
+        "es": "[Tulipa]\nGracias por hoy.\nSi pudieras ayudar de nuevo mañana, te lo agradecería."
+    },
+    "s4L9BQ": {
+        "ko": "[딜포어]\n오늘은 감사했어요.\n내일 또 도와주시면 정말 감사하겠습니다.",
+        "en": "[Vanilla]\nThank you for today.\nI'd really appreciate it if you helped again tomorrow.",
+        "pt": "[Dália]\nObrigada por hoje.\nSe puder ajudar de novo amanhã, eu agradeço muito.",
+        "es": "[Tulipa]\nGracias por hoy.\nSi pudieras ayudar de nuevo mañana, te lo agradecería muchísimo."
+    },
+    "tIL9BQ": {
+        "ko": "[딜포어]\n모험가님, 다시 오셨군요.\n그럼 오늘도 잘 부탁드릴게요. 필드 여기저기서 출몰하는 새콤이를 쓰러뜨리고 <ITEM>[새콤한 멜론]<INFO>7685</INFO></ITEM>을 10개 수확해다 주시면, 사례를 드릴게요.",
+        "en": "[Vanilla]\nAdventurer, you're back.\nThen, I'll be counting on you again today. Defeat the Dark Meloring appearing here and there on the fields and harvest 10 [<ITEM>Dark Melon<INFO>7685</INFO></ITEM>] for me, and I'll give you a reward.",
+        "pt": "[Dália]\nViajante, você voltou.\nEntão, deixo com você hoje também. Derrote os Melorings Sombrios que aparecem por aí nos campos e colha 10 [<ITEM>Melão Sombrio<INFO>7685</INFO></ITEM>] pra mim, que eu te dou a recompensa.",
+        "es": "[Tulipa]\nTrotamundos, has vuelto.\nEntonces, te encargo de nuevo hoy. Derrota a los Melorings Sombríos que aparecen por aquí y allá en el campo y cosecha 10 [<ITEM>Melón Sombrío<INFO>7685</INFO></ITEM>] para mí, que te daré la recompensa."
+    },
+    "tYL9BQ": {
+        "ko": "의뢰를 받아들인다",
+        "en": "Accept the request.",
+        "pt": "Aceitar a missão.",
+        "es": "Aceptar la misión."
+    },
+    "toL9BQ": {
+        "ko": "거절한다",
+        "en": "Refuse.",
+        "pt": "Recusar.",
+        "es": "Rechazar."
+    },
+    "t4L9BQ": {
+        "ko": "[딜포어]\n수락 감사합니다! 이 연구를 바탕으로 높으신 분들을 더더욱 설득해 아무도 본 적 없는 멜론을 만들어 보이겠어요!",
+        "en": "[Vanilla]\nThank you for accepting! Based on this research, I'll further persuade the higher-ups and show them a melon no one has ever seen!",
+        "pt": "[Dália]\nObrigado por aceitar! Com base nessa pesquisa, vou convencer ainda mais as autoridades e mostrar um melão que ninguém nunca viu!",
+        "es": "[Tulipa]\n¡Gracias por aceptar! Con esta investigación, voy a convencer aún más a las autoridades y ¡les mostraré un melón que nadie ha visto nunca!"
+    },
+    "uIL9BQ": {
+        "ko": "라벤더 : 너무 이상한 건 하지 말자...",
+        "en": "Lavender: Let's not do anything too weird...",
+        "pt": "Lavanda: Não vamos fazer nada muito esquisito...",
+        "es": "Lavanda: No hagamos nada muy raro..."
+    },
+    "uYL9BQ": {
+        "ko": "[딜포어]\n바... 바쁘시면 어쩔 수 없죠...\n다 제 실수로 이렇게 된 일인데...\n하아...",
+        "en": "[Vanilla]\nIf... if you're too busy, I suppose it can't be helped...\nThis is all because of my mistake...\nSigh...",
+        "pt": "[Dália]\nSe... se você estiver ocupado, fazer o quê...\nTudo isso aconteceu por minha causa...\nAi...",
+        "es": "[Tulipa]\nSi... si estás ocupado, ni modo...\nTodo esto pasó por mi culpa...\nAy..."
+    },
+    "uoL9BQ": {
+        "ko": "[딜포어]\n모험가님 오셨어요? 혹시 부탁드렸던 <ITEM>[새콤한 멜론]<INFO>7685</INFO></ITEM> 10개는...",
+        "en": "[Vanilla]\nYou're here, adventurer? By any chance, those 10 [<ITEM>Dark Melons<INFO>7685</INFO></ITEM>] I asked for...",
+        "pt": "[Dália]\nViajante, você veio? Por acaso, aqueles 10 [<ITEM>Melões Sombrios<INFO>7685</INFO></ITEM>] que eu pedi...",
+        "es": "[Tulipa]\n¿Llegaste, trotamundos? Por casualidad, ¿esos 10 [<ITEM>Melones Sombríos<INFO>7685</INFO></ITEM>] que te pedí..."
+    },
+    "u4L9BQ": {
+        "ko": "딜포어의 푸념을 들어준다",
+        "en": "Listen to Vanilla's lament.",
+        "pt": "Ouvir o lamento do Dália.",
+        "es": "Escuchar el lamento de Tulipa."
+    },
+    "vIL9BQ": {
+        "ko": "[딜포어]\n빨리 오셨네요! 감사해요.\n약속한 사례, <ITEM>[달콤한 멜론 쥬스]<INFO>23321</INFO></ITEM> 5개예요.",
+        "en": "[Vanilla]\nYou came quickly! Thank you.\nHere's your promised reward: 5 <ITEM>Melon Soda<INFO>23321</INFO></ITEM>.",
+        "pt": "[Dália]\nVocê veio rápido! Obrigada.\nA recompensa prometida: 5 <ITEM>Refrigerante de Melão<INFO>23321</INFO></ITEM>.",
+        "es": "[Tulipa]\n¡Llegaste rápido! Gracias.\nLa recompensa prometida: 5 [<ITEM>Jugo de Melón Dulce<INFO>23321</INFO></ITEM>]."
+    },
+    "vYL9BQ": {
+        "ko": "[딜포어]\n괜찮으시면 내일도 부탁드릴게요.",
+        "en": "[Vanilla]\nIf it's okay with you, I'd like to ask again tomorrow.",
+        "pt": "[Dália]\nSe não se importar, peço de novo amanhã.",
+        "es": "[Tulipa]\nSi no te importa, te pido de nuevo mañana."
+    },
+    "voL9BQ": {
+        "ko": "[딜포어]\n이렇게 된 이상 방침을 바꾸려고요.",
+        "en": "[Vanilla]\nAt this point, I'm thinking of changing my approach.",
+        "pt": "[Dália]\nJá que chegamos a esse ponto, vou mudar minha abordagem.",
+        "es": "[Tulipa]\nYa que llegamos a este punto, voy a cambiar mi enfoque."
+    },
+    "v4L9BQ": {
+        "ko": "[딜포어]\n새콤한 멜론을 먹어보면 먹어볼수록 넘쳐나는 죄책감과 동시에 불어나기만 하는 새로운 품종 개량에 대한 욕구...",
+        "en": "[Vanilla]\nThe more I eat Dark Melons, the more I feel overwhelming guilt, but at the same time, the desire to develop new breeds just keeps growing...",
+        "pt": "[Dália]\nQuanto mais como Melão Sombrio, mais a culpa transborda e, ao mesmo tempo, só aumenta o desejo por desenvolver novas espécies...",
+        "es": "[Tulipa]\nCuanto más como Melón Sombrío, más se desborda la culpa y al mismo tiempo, no para de crecer el deseo de desarrollar nuevas variedades..."
+    },
+    "wIL9BQ": {
+        "ko": "라벤더 : 너 정말 이 직업 아니었음 어쩔 뻔했어?",
+        "en": "Lavender: What would you have done if this wasn't your job?",
+        "pt": "Lavanda: O que seria de você se não fosse por essa profissão?",
+        "es": "Lavanda: ¿Qué sería de ti si no fuera por esta profesión?"
+    },
+    "wYL9BQ": {
+        "ko": "딜포어 : 그러게 말이다...",
+        "en": "Vanilla: I know, right...",
+        "pt": "Dália: Pois é, né...",
+        "es": "Tulipa: Lo mismo digo..."
+    },
+    "woL9BQ": {
+        "ko": "[딜포어]\n다음 목표는 뭘로 할지 고민이 되네요.",
+        "en": "[Vanilla]\nI'm thinking about what the next goal should be.",
+        "pt": "[Dália]\nTô pensando qual vai ser o próximo objetivo.",
+        "es": "[Tulipa]\nEstoy pensando en cuál será el próximo objetivo."
+    },
+    "w4L9BQ": {
+        "ko": "[딜포어]\n<ITEM>[새콤한 멜론]<INFO>7685</INFO></ITEM> 10개, 수집을 부탁드릴게요.\n필드에서 지금 볼 수 있는 새콤이를 가르면... 이 아니라 처치하면 수확하실 수 있을 거예요.",
+        "en": "[Vanilla]\nI'll ask you to collect 10 <ITEM>Dark Melons<INFO>7685</INFO></ITEM>.\nIf you split... I mean, defeat the Dark Meloring you can see on the fields, you should be able to harvest them.",
+        "pt": "[Dália]\nPeço que colete 10 <ITEM>Melão Sombrio<INFO>7685</INFO></ITEM>.\nSe você cortar... quer dizer, derrotar os Sombrios que estão nos campos agora, deve conseguir colher.",
+        "es": "[Tulipa]\nTe encargo que recolectes 10 [<ITEM>Melón Sombrío<INFO>7685</INFO></ITEM>].\nSi partes... digo, derrotas a los Agrión que están ahora en el campo, deberías poder cosecharlos."
+    },
+    "xIL9BQ": {
+        "ko": "릴리유",
+        "en": "Lotus",
+        "pt": "Lírio",
+        "es": "Lotus"
+    },
+    "xYL9BQ": {
+        "ko": "[{0}]\n안녕하세요, 릴리유 씨.\n라벤더 씨로부터 배달품이 있어요.",
+        "en": "[{0}]\nHello, Mr. Lotus.\nI have a delivery from Lavender.",
+        "pt": "[{0}]\nOlá, senhor Lírio.\nTenho uma entrega da Lavanda.",
+        "es": "[{0}]\nHola, señor Lotus.\nTengo una entrega de parte de Lavanda."
+    },
+    "xoL9BQ": {
+        "ko": "-- 아직 차가운 특제 상자를 릴리유에게 내밀었다. --",
+        "en": "-- You handed the still-chilled special box to Lotus. --",
+        "pt": "-- Você estendeu a caixa especial ainda gelada para Lírio. --",
+        "es": "-- Le extendiste la caja especial aún fría a Lotus. --"
+    },
+    "x4L9BQ": {
+        "ko": "[릴리유]\n...응?\n이런, 이런. 멀리까지 고맙소.\n우리 애가 힘든 부탁을 했구먼...\n아니, 나도 예전에 애들 생각에 모험가 선생들에게 대륙횡단을 시켰었지.",
+        "en": "[Lotus]\n...Huh?\nOh my, oh my. Thank you for coming all this way.\nOur child asked you for a troublesome favor...\nNo, I myself used to make adventurers cross the continent back in the day, thinking of my own kids.",
+        "pt": "[Lírio]\n...Hã?\nOra, ora. Obrigada por vir de tão longe.\nNossa filha te pediu um favor trabalhoso, hein...\nNão, eu também antigamente, pensando nos meus filhos, fazia os professores viajantes viajarem pelo continente.",
+        "es": "[Lotus]\n...¿Eh?\nVaya, vaya. Gracias por venir desde tan lejos.\nNuestra hija te pidió un favor trabajoso, ¿eh...\nNo, yo también antes, pensando en mis hijos, hacía que los profesores trotamundos cruzaran el continente."
+    },
+    "yIL9BQ": {
+        "ko": "[릴리유]\n이거 마침 애들 엄마가 호수에 용을 보러 간 사이에 오다니...\n같이 받았으면 더 좋았겠지만 이번엔 내가 놀라게 해 줘야겠군.",
+        "en": "[Lotus]\nTo think that you'd arrive while their mother is away seeing a dragon at the lake...\nIt would have been nicer if she were here to receive it with me, but this time I'll be the one to surprise her.",
+        "pt": "[Lírio]\nIsso aqui chega bem na hora em que a mãe deles foi ver um dragão no lago...\nSeria melhor se ela estivesse aqui pra receber junto, mas desta vez vou ser eu a dar a surpresa.",
+        "es": "[Lotus]\nEsto llega justo cuando su mamá fue a ver un dragón al lago...\nSería mejor si ella estuviera aquí para recibirlo juntos, pero esta vez seré yo quien le dé la sorpresa."
+    },
+    "yYL9BQ": {
+        "ko": "[릴리유]\n고맙소. 이건 멜론 축제를 즐겨 주는 모험가 선생께 주는 내 선물이오.\n그리고 전언이 있는데... 라벤더에게 가져다 주겠소?",
+        "en": "[Lotus]\nThank you. This is my gift to you, adventurer, for enjoying the Melon Festival.\nAnd I have a message... will you take it to Lavender?",
+        "pt": "[Lírio]\nValeu. Isto é um presente meu para você, professor viajante, que está aproveitando o Festival do Melão.\nE tem um recado... você leva pra Lavanda?",
+        "es": "[Lotus]\nGracias. Esto es un regalo mío para ti, profesor trotamundos, que estás disfrutando el Festival del Melón.\nY hay un recado... ¿se lo llevarías a Lavanda?"
+    },
+    "yoL9BQ": {
+        "ko": "-- 릴리유는 빈 상자와 함께 쪽지를 건네주었다. --",
+        "en": "-- Lotus handed you a note along with the empty box. --",
+        "pt": "-- Lírio entregou um bilhete junto com a caixa vazia. --",
+        "es": "-- Lotus entregó un papel junto con la caja vacía. --"
+    },
+    "y4L9BQ": {
+        "ko": "[릴리유]\n살펴 가시오.",
+        "en": "[Lotus]\nTake care.",
+        "pt": "[Lírio]\nSe cuide.",
+        "es": "[Lotus]\nCuídate."
+    },
+    "zIL9BQ": {
+        "ko": "-- 배달품이 없다. --\n-- 게펜의 라벤더에게 다시 받아와야 할까? --",
+        "en": "-- There is no delivery item. --\n-- Should I go back to Lavender in Geffen to get another one? --",
+        "pt": "-- Não há item de entrega. --\n-- Será que eu deveria voltar pra Lavanda em Geffen pra pegar outro? --",
+        "es": "-- No hay objeto para entregar. --\n-- ¿Debería volver con Lavanda en Geffen para pedirle otro? --"
+    },
+    "zYL9BQ": {
+        "ko": "[릴리유]\n올해는 막내에게 행사를 맡겨 두었지만, 내년에는 다시 본업으로 돌아가야지.\n허허, 사람이 쉬니까 오히려 불안해진다니까.",
+        "en": "[Lotus]\nI've left this year's event to the youngest, but I need to get back to my main work next year.\nHeh heh, relaxing actually makes me anxious.",
+        "pt": "[Lírio]\nEste ano deixei o evento com a caçula, mas ano que vem tenho que voltar ao meu trabalho principal.\nHe he, a gente fica ansioso quando descansa, sabia?",
+        "es": "[Lotus]\nEste año le dejé el evento a la más chica, pero el año próximo tengo que volver a mi trabajo principal.\nJe, uno se inquieta cuando descansa, ¿sabes?"
+    }
+}

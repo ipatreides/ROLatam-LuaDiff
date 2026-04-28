@@ -379,9 +379,9 @@
     },
     "H89cCA": {
         "ko": "[에레메스 가일]\n나는 네 동료가 아니다. 대통령과도 관계없어.\n내 임무는 케이론의 호위다. 호위가 어떻게 무기를 놓나.",
-        "en": "[Eremes Guile]\nI am not your companion. Nor do I have anything to do with the President.\nMy mission is to guard Keiron. What kind of guard puts down his weapon?",
+        "en": "[Eremes Guile]\nI am not your companion. Nor do I have anything to do with the President.\nMy mission is to guard Keyron. What kind of guard puts down his weapon?",
         "pt": "[Eremes Guile]\nNão sou seu amigo. Também não tenho nada a ver com o presidente.\nEstou aqui para proteger Keyron. Não tenho medo de usar minha arma contra você.",
-        "es": "[Eremes Guile]\nNo soy tu compañero. Tampoco tengo relación con el presidente.\nMi misión es escoltar a Keiron. ¿Cómo iba un escolta a soltar su arma?"
+        "es": "[Eremes Guile]\nNo soy tu compañero. Tampoco tengo relación con el presidente.\nMi misión es escoltar a Keyron. ¿Cómo iba un escolta a soltar su arma?"
     },
     "IM9cCA": {
         "ko": "[에레메스 가일]\n제길, 독을 다루는 어쌔신 크로스인 나조차 아득해질 정도로 퍼붓는군…",
@@ -397,15 +397,15 @@
     },
     "Is9cCA": {
         "ko": "[에레메스 가일]\n그런 건 상관없어. 네가 카트린느 케이론이든 그냥 케이론이든 너를 지키는 게 내 임무다.",
-        "en": "[Eremes Guile]\nThat does not matter. Whether you are Kathryne Keyron or simply Keiron, my duty is to protect you.",
+        "en": "[Eremes Guile]\nThat does not matter. Whether you are Kathryne Keyron or simply Keyron, my duty is to protect you.",
         "pt": "[Eremes Guile]\nNão importa. Meu trabalho é proteger você.",
-        "es": "[Eremes Guile]\nEso no importa. Seas Kathryne Keyron o simplemente Keiron, mi misión es protegerte."
+        "es": "[Eremes Guile]\nEso no importa. Seas Kathryne Keyron o simplemente Keyron, mi misión es protegerte."
     },
     "I89cCA": {
         "ko": "케이론: 에레메스 오빠, 정말 재미 없어.",
-        "en": "Keiron: Eremes brother, you are really no fun.",
+        "en": "Keyron: Eremes brother, you are really no fun.",
         "pt": "Kathryne: Eremes, você é um estraga-prazeres.",
-        "es": "Keiron: Hermano Eremes, no tienes ninguna gracia."
+        "es": "Keyron: Hermano Eremes, no tienes ninguna gracia."
     },
     "JM9cCA": {
         "ko": "카트린느 케이론",
@@ -451,9 +451,9 @@
     },
     "K89cCA": {
         "ko": "케이론: 바보 오빠한테 저런 아부는 누가 가르친 거람?",
-        "en": "Keiron: Who taught that foolish brother to flatter like that?",
+        "en": "Keyron: Who taught that foolish brother to flatter like that?",
         "pt": "Kathryne: Você fala tão bem, irmãozinho.",
-        "es": "Keiron: ¿Quién le habrá enseñado semejante adulación a ese hermano tonto?"
+        "es": "Keyron: ¿Quién le habrá enseñado semejante adulación a ese hermano tonto?"
     },
     "LM9cCA": {
         "ko": "하워드 알트아이젠",
@@ -619,9 +619,9 @@
     },
     "R89cCA": {
         "ko": "케이론: …불안해서 그러는 거 아니거든?",
-        "en": "Keiron: ...It's not because I'm uneasy, you know?",
+        "en": "Keyron: ...It's not because I'm uneasy, you know?",
         "pt": "Kathryne: Quem disse que estou ansiosa?",
-        "es": "Keiron: …No es porque esté inquieta, ¿sabes?"
+        "es": "Keyron: …No es porque esté inquieta, ¿sabes?"
     },
     "SM9cCA": {
         "ko": "대통령 경호차장",
@@ -685,15 +685,15 @@
     },
     "Us9cCA": {
         "ko": "케이론: 이, 이상해… 왜 이렇게… 졸립… 지?",
-        "en": "Keiron: Th-this is strange... Why am I so... sleepy...?",
+        "en": "Keyron: Th-this is strange... Why am I so... sleepy...?",
         "pt": "Kathryne: E-eu não entendo... Por que estou com tanto sono...?",
-        "es": "Keiron: Q-qué raro… ¿por qué estoy tan… somno… lienta?"
+        "es": "Keyron: Q-qué raro… ¿por qué estoy tan… somno… lienta?"
     },
     "U89cCA": {
         "ko": "케이론: 이, 이상해… 왜 이렇게… 졸립… 지?",
-        "en": "Keiron: Th-this is strange... Why am I so... sleepy...?",
+        "en": "Keyron: Th-this is strange... Why am I so... sleepy...?",
         "pt": "Kathryne: E-eu não entendo... Por que estou com tanto sono...?",
-        "es": "Keiron: Q-qué raro… ¿por qué estoy tan… somno… lienta?"
+        "es": "Keyron: Q-qué raro… ¿por qué estoy tan… somno… lienta?"
     },
     "VM9cCA": {
         "ko": "레켄베르 가드: 전부 잠들었겠지? 끌고 가라!",
@@ -1027,7 +1027,7 @@
     },
     "i89cCA": {
         "ko": "복사 실험실",
-        "en": "Copy Laboratory",
+        "en": "Acolyte Laboratory",
         "pt": "Sala dos Noviços",
         "es": "Laboratorio de Acólitos"
     },
@@ -2191,7 +2191,7 @@
     },
     "TdBcCA": {
         "ko": "레켄베르 가드: 하, 하지만 보르세브 박사가…!!",
-        "en": "Rekenber Guard: B-but Dr. Vorseff...!!",
+        "en": "Rekenber Guard: B-but Dr. Wolfchev...!!",
         "pt": "Guarda da Rekenber: M-mas Doutor Wolfchev...!",
         "es": "Guardia de Rekenber: ¡P-pero el doctor Wolfchev…!!"
     },
@@ -2251,9 +2251,9 @@
     },
     "V9BcCA": {
         "ko": "에레메스 님! 그리고 케이론… 님?",
-        "en": "Mr. Eremes! And Keiron... Ms.?",
+        "en": "Mr. Eremes! And Keyron... Ms.?",
         "pt": "Eremes! E Kathryne...?",
-        "es": "¡Señor Eremes! Y Keiron… ¿señorita?"
+        "es": "¡Señor Eremes! Y Keyron… ¿señorita?"
     },
     "WNBcCA": {
         "ko": "[카트린느 케이론]\n……",
@@ -2263,33 +2263,33 @@
     },
     "WdBcCA": {
         "ko": "케이론: ……",
-        "en": "Keiron: ......",
+        "en": "Keyron: ......",
         "pt": "Kathryne: ...",
-        "es": "Keiron: ……"
+        "es": "Keyron: ……"
     },
     "WtBcCA": {
         "ko": "[에레메스 가일]\n케이론은 침묵에 당했어. 가장 먼저 마법사에게 침묵과 독이라니, 멍청이들은 아니군.",
-        "en": "[Eremes Guile]\nKeiron has been silenced. Silence and poison against the mage first. They're not fools.",
+        "en": "[Eremes Guile]\nKeyron has been silenced. Silence and poison against the mage first. They're not fools.",
         "pt": "[Eremes Guile]\nEles a silenciaram. Eles são espertos, silenciando e envenenando a Arquimaga antes dos outros.",
-        "es": "[Eremes Guile]\nA Keiron le han aplicado Silencio. No son unos imbéciles si lo primero que hacen es lanzar Silencio y veneno a una maga."
+        "es": "[Eremes Guile]\nA Keyron le han aplicado Silencio. No son unos imbéciles si lo primero que hacen es lanzar Silencio y veneno a una maga."
     },
     "W9BcCA": {
         "ko": "에레메스: 케이론은 침묵에 당했어. 가장 먼저 마법사에게 침묵과 독이라니, 멍청이들은 아니군.",
-        "en": "Eremes: Keiron has been silenced. Silence and poison against the mage first. They're not fools.",
+        "en": "Eremes: Keyron has been silenced. Silence and poison against the mage first. They're not fools.",
         "pt": "Eremes: Eles a silenciaram. Eles são espertos, silenciando e envenenando a Arquimaga antes dos outros.",
-        "es": "Eremes: A Keiron le han aplicado Silencio. No son unos imbéciles si lo primero que hacen es lanzar Silencio y veneno a una maga."
+        "es": "Eremes: A Keyron le han aplicado Silencio. No son unos imbéciles si lo primero que hacen es lanzar Silencio y veneno a una maga."
     },
     "XNBcCA": {
         "ko": "[에레메스 가일]\n…그런 눈으로 보지 마라, 케이론. 내 말실수다. 미안하다.",
-        "en": "[Eremes Guile]\n...Do not look at me like that, Keiron. That was a slip of the tongue. My apologies.",
+        "en": "[Eremes Guile]\n...Do not look at me like that, Keyron. That was a slip of the tongue. My apologies.",
         "pt": "[Eremes Guile]\nNão olhe para mim desse jeito, Kathryne. Me desculpe por ter dito isso.",
-        "es": "[Eremes Guile]\n…No me mires así, Keiron. Ha sido un lapsus. Lo siento."
+        "es": "[Eremes Guile]\n…No me mires así, Keyron. Ha sido un lapsus. Lo siento."
     },
     "XdBcCA": {
         "ko": "에레메스: …그런 눈으로 보지 마라, 케이론. 내 말실수다. 미안하다.",
-        "en": "Eremes: ...Do not look at me like that, Keiron. That was a slip of the tongue. My apologies.",
+        "en": "Eremes: ...Do not look at me like that, Keyron. That was a slip of the tongue. My apologies.",
         "pt": "Eremes: Não olhe para mim desse jeito, Kathryne. Me desculpe por ter dito isso.",
-        "es": "Eremes: …No me mires así, Keiron. Ha sido un lapsus. Lo siento."
+        "es": "Eremes: …No me mires así, Keyron. Ha sido un lapsus. Lo siento."
     },
     "XtBcCA": {
         "ko": "[에레메스 가일]\n쉿, 조용히. 누가 온다.",
@@ -2347,9 +2347,9 @@
     },
     "Z9BcCA": {
         "ko": "[에레메스 가일]\n케이론은 침묵에 걸렸어. 독은 내가 해독해 주었지만 이건 시간밖에 방법이 없다.",
-        "en": "[Eremes Guile]\nKeiron has been silenced. I cured the poison, but for this there is no remedy but time.",
+        "en": "[Eremes Guile]\nKeyron has been silenced. I cured the poison, but for this there is no remedy but time.",
         "pt": "[Eremes Guile]\nKathryne está muda. Eu poderia curar seu veneno, mas não posso. Isso leva tempo.",
-        "es": "[Eremes Guile]\nA Keiron le han aplicado Silencio. Del veneno ya la he desintoxicado, pero con esto no hay más remedio que esperar."
+        "es": "[Eremes Guile]\nA Keyron le han aplicado Silencio. Del veneno ya la he desintoxicado, pero con esto no hay más remedio que esperar."
     },
     "aNBcCA": {
         "ko": "[에레메스 가일]\n면목없게도 부끄러운 모습을 보이는군.\n막다른 곳으로 완전히 몰려 버리다니…",
@@ -2383,21 +2383,21 @@
     },
     "bdBcCA": {
         "ko": "(케이론은 무사합니까?)",
-        "en": "(Is Keiron safe?)",
+        "en": "(Is Keyron safe?)",
         "pt": "(Kathryne está segura?)",
-        "es": "(¿Keiron está a salvo?)"
+        "es": "(¿Keyron está a salvo?)"
     },
     "btBcCA": {
         "ko": "[에레메스 가일]\n(케이론은 잘 숨겨 두었다. 걱정 마라)",
-        "en": "[Eremes Guile]\n(Keiron is hidden safely. Do not worry.)",
+        "en": "[Eremes Guile]\n(Keyron is hidden safely. Do not worry.)",
         "pt": "[Eremes Guile]\n(Ela está escondida em algum lugar seguro. Não se preocupe.)",
-        "es": "[Eremes Guile]\n(He escondido bien a Keiron. No te preocupes.)"
+        "es": "[Eremes Guile]\n(He escondido bien a Keyron. No te preocupes.)"
     },
     "b9BcCA": {
         "ko": "에레메스: (케이론은 잘 숨겨 두었다. 걱정 마라)",
-        "en": "Eremes: (Keiron is hidden safely. Do not worry.)",
+        "en": "Eremes: (Keyron is hidden safely. Do not worry.)",
         "pt": "Eremes: (Ela está escondida em algum lugar seguro. Não se preocupe.)",
-        "es": "Eremes: (Keiron está bien escondida. No te preocupes)"
+        "es": "Eremes: (Keyron está bien escondida. No te preocupes)"
     },
     "cNBcCA": {
         "ko": "[에레메스 가일]\n그럼 가자!! 함께 저 녀석들을 전부 처치하고 무사히 탈출하자!",
@@ -2449,9 +2449,9 @@
     },
     "eNBcCA": {
         "ko": "에레메스: 오래는 못 숨어 있겠군. 케이론을 안전한 곳에 두고 오겠다. 실험실 아래의 복도에서 만나자.",
-        "en": "Eremes: We cannot hide for long. I will take Keiron somewhere safe. Meet me in the corridor below the laboratory.",
+        "en": "Eremes: We cannot hide for long. I will take Keyron somewhere safe. Meet me in the corridor below the laboratory.",
         "pt": "Eremes: Não devemos ficar aqui. Vou esconder Kathryne em um lugar seguro. Encontro você novamente no corredor ao sul do laboratório.",
-        "es": "Eremes: No podremos escondernos mucho tiempo. Llevaré a Keiron a un lugar seguro. Nos vemos en el pasillo bajo el laboratorio."
+        "es": "Eremes: No podremos escondernos mucho tiempo. Llevaré a Keyron a un lugar seguro. Nos vemos en el pasillo bajo el laboratorio."
     },
     "edBcCA": {
         "ko": "레켄베르 가드: 에잇!!!!",
@@ -2521,9 +2521,9 @@
     },
     "hNBcCA": {
         "ko": "케이론: …",
-        "en": "Keiron: ...",
+        "en": "Keyron: ...",
         "pt": "Kathryne: ...",
-        "es": "Keiron: …"
+        "es": "Keyron: …"
     },
     "hdBcCA": {
         "ko": "여기는 비교적 안전해 보이지만…",
@@ -2545,9 +2545,9 @@
     },
     "iNBcCA": {
         "ko": "케이론은 고개를 저었다.",
-        "en": "Keiron shook her head.",
+        "en": "Keyron shook her head.",
         "pt": "Kathryne balança a cabeça.",
-        "es": "Keiron negó con la cabeza."
+        "es": "Keyron negó con la cabeza."
     },
     "idBcCA": {
         "ko": "[카트린느 케이론]\n……\n - 고개를 끄덕인다. -",
@@ -2557,9 +2557,9 @@
     },
     "itBcCA": {
         "ko": "케이론은 고개를 끄덕였다.",
-        "en": "Keiron nodded.",
+        "en": "Keyron nodded.",
         "pt": "Kathryne acena com a cabeça.",
-        "es": "Keiron asintió."
+        "es": "Keyron asintió."
     },
     "i9BcCA": {
         "ko": "적이 나타나기 전에 일행을 찾으러 움직입시다.",
@@ -2575,9 +2575,9 @@
     },
     "jdBcCA": {
         "ko": "케이론은 8시 방향을 가리켰다.",
-        "en": "Keiron pointed toward 8 o'clock.",
+        "en": "Keyron pointed toward 8 o'clock.",
         "pt": "- Kathryne aponta para o sul. -",
-        "es": "Keiron señaló hacia las 8 en punto."
+        "es": "Keyron señaló hacia las 8 en punto."
     },
     "jtBcCA": {
         "ko": "[카트린느 케이론]\n……\n - 분한 표정을 짓고 있다. -",
@@ -2587,9 +2587,9 @@
     },
     "j9BcCA": {
         "ko": "케이론은 분한 표정이다.",
-        "en": "Keiron looks frustrated.",
+        "en": "Keyron looks frustrated.",
         "pt": "Kathryne parece zangada.",
-        "es": "Keiron muestra una expresión frustrada."
+        "es": "Keyron muestra una expresión frustrada."
     },
     "kNBcCA": {
         "ko": "제가 싸우겠습니다.",
@@ -2605,9 +2605,9 @@
     },
     "ktBcCA": {
         "ko": "케이론: …………",
-        "en": "Keiron: ................",
+        "en": "Keyron: ................",
         "pt": "Kathryne: ...",
-        "es": "Keiron: …………"
+        "es": "Keyron: …………"
     },
     "k9BcCA": {
         "ko": "지금까지 많이 신세졌으니까.",
@@ -2629,21 +2629,21 @@
     },
     "ltBcCA": {
         "ko": "케이론: …………!!!!!",
-        "en": "Keiron: …………!!!!!",
+        "en": "Keyron: …………!!!!!",
         "pt": "Kathryne: ...!",
-        "es": "Keiron: …………!!!!!"
+        "es": "Keyron: …………!!!!!"
     },
     "l9BcCA": {
         "ko": "[에레메스 가일]\n……늦어서 미안하다, 케이론.",
-        "en": "[Eremes Guile]\n......I am sorry I am late, Keiron.",
+        "en": "[Eremes Guile]\n......I am sorry I am late, Keyron.",
         "pt": "[Eremes Guile]\nDesculpe o atraso, Kathryne.",
-        "es": "[Eremes Guile]\n……Perdona por llegar tarde, Keiron."
+        "es": "[Eremes Guile]\n……Perdona por llegar tarde, Keyron."
     },
     "mNBcCA": {
         "ko": "에레메스: ……늦어서 미안하다, 케이론.",
-        "en": "Eremes: ......I am sorry I am late, Keiron.",
+        "en": "Eremes: ......I am sorry I am late, Keyron.",
         "pt": "Eremes: Desculpe o atraso, Kathryne.",
-        "es": "Eremes: ……Perdona por llegar tarde, Keiron."
+        "es": "Eremes: ……Perdona por llegar tarde, Keyron."
     },
     "mdBcCA": {
         "ko": "[카트린느 케이론]\n…………!!!",
@@ -2653,9 +2653,9 @@
     },
     "mtBcCA": {
         "ko": "케이론: …………!!!",
-        "en": "Keiron: …………!!!",
+        "en": "Keyron: …………!!!",
         "pt": "Kathryne: ... ... ...!",
-        "es": "Keiron: …………!!!"
+        "es": "Keyron: …………!!!"
     },
     "m9BcCA": {
         "ko": "혼자서는 힘에 부칩니다.",
@@ -2719,9 +2719,9 @@
     },
     "pdBcCA": {
         "ko": "케이론: …………!!!!!",
-        "en": "Keiron: …………!!!!!",
+        "en": "Keyron: …………!!!!!",
         "pt": "Kathryne: ...!",
-        "es": "Keiron: …………!!!!!"
+        "es": "Keyron: …………!!!!!"
     },
     "ptBcCA": {
         "ko": "에레메스: 이제야 끝인가?",
@@ -2743,9 +2743,9 @@
     },
     "qdBcCA": {
         "ko": "에레메스: ……미안하다, 케이론. 여기까지인 모양이군.",
-        "en": "Eremes: ......I am sorry, Keiron. It seems this is as far as we go.",
+        "en": "Eremes: ......I am sorry, Keyron. It seems this is as far as we go.",
         "pt": "Eremes: Desculpe, Kathryne. Isso é o mais longe que posso ir.",
-        "es": "Eremes: ……Lo siento, Keiron. Parece que hasta aquí hemos llegado."
+        "es": "Eremes: ……Lo siento, Keyron. Parece que hasta aquí hemos llegado."
     },
     "qtBcCA": {
         "ko": "에레메스: 그러나 설령 여기서 죽더라도… 너를 지킨다는 의무를 다시 한 번 끝까지 다하겠다!",
@@ -3817,27 +3817,27 @@
     },
     "XNFcCA": {
         "ko": "[에레메스 가일]\n세이렌, 이럴 때가 아니었다.\n케이론이… 네 여동생이 위험해!",
-        "en": "[Eremes Guile]\nSeyren, this is no time for this.\nKeiron... your younger sister is in danger!",
+        "en": "[Eremes Guile]\nSeyren, this is no time for this.\nKeyron... your younger sister is in danger!",
         "pt": "[Eremes Guile]\nSeyren, não temos tempo para isso.\nSua irmã... Kathryne está em perigo!",
-        "es": "[Eremes Guile]\nSeyren, no era momento para esto.\n¡Keiron… tu hermana pequeña está en peligro!"
+        "es": "[Eremes Guile]\nSeyren, no era momento para esto.\n¡Keyron… tu hermana pequeña está en peligro!"
     },
     "XdFcCA": {
         "ko": "에레메스: 세이렌, 이럴 때가 아니었다. 케이론이… 네 여동생이 위험해!",
-        "en": "Eremes: Seyren, this is no time for this. Keiron... your younger sister is in danger!",
+        "en": "Eremes: Seyren, this is no time for this. Keyron... your younger sister is in danger!",
         "pt": "Eremes: Seyren, não temos tempo para isso. Sua irmã... Kathryne está em perigo!",
-        "es": "Eremes: Seyren, no era momento para esto. ¡Keiron… tu hermana pequeña está en peligro!"
+        "es": "Eremes: Seyren, no era momento para esto. ¡Keyron… tu hermana pequeña está en peligro!"
     },
     "XtFcCA": {
         "ko": "[세이렌 윈저]\n케이론이 말입니까?\n설마… 그 애를 실험체로!",
-        "en": "[Seyren Windsor]\nYou mean Keiron?\nSurely not... they've made her a test subject!",
+        "en": "[Seyren Windsor]\nYou mean Keyron?\nSurely not... they've made her a test subject!",
         "pt": "[Seyren Windsor]\nKathryne?\nOh não, eles também fizeram experiências com ela?",
-        "es": "[Seyren Windsor]\n¿Keiron?\nNo me digáis que… ¡la han convertido en sujeto de pruebas!"
+        "es": "[Seyren Windsor]\n¿Keyron?\nNo me digáis que… ¡la han convertido en sujeto de pruebas!"
     },
     "X9FcCA": {
         "ko": "세이렌: 케이론이 말입니까? 설마… 그 애를 실험체로!",
-        "en": "Seyren: You mean Keiron? Surely not... they've made her a test subject!",
+        "en": "Seyren: You mean Keyron? Surely not... they've made her a test subject!",
         "pt": "Seyren: Kathryne? Oh não, eles também fizeram experiências com ela?",
-        "es": "Seyren: ¿Keiron? No me digáis que… ¡la han convertido en sujeto de pruebas!"
+        "es": "Seyren: ¿Keyron? No me digáis que… ¡la han convertido en sujeto de pruebas!"
     },
     "YNFcCA": {
         "ko": "[세이렌 윈저]\n제가 있던 실험실에 프로토 배틀 코어에 대한 기록이 있었습니다.\n생명체의 전투 잠재력을 극한으로 끌어낼 수 있게… 한다고...",
@@ -3853,27 +3853,27 @@
     },
     "YtFcCA": {
         "ko": "[에레메스 가일]\n너도 나름대로 조사했나 보군. 레켄베르 쯤 되는 기업이 뒤에서 이런 짓을.\n케이론 뿐만 아니야. 내 몸에도 시술이 되어 있다. 아마 네 몸에도 마찬가지일 거다.",
-        "en": "[Eremes Guile]\nSo you've been investigating in your own way as well. For a corporation on the level of Rekenber to be doing such things behind the scenes.\nIt isn't only Keiron. My body has undergone the procedure as well. Yours is likely the same.",
+        "en": "[Eremes Guile]\nSo you've been investigating in your own way as well. For a corporation on the level of Rekenber to be doing such things behind the scenes.\nIt isn't only Keyron. My body has undergone the procedure as well. Yours is likely the same.",
         "pt": "[Eremes Guile]\nEntão, você fez sua própria pesquisa. Não acredito que uma corporação tão grande como a Rekenber esteja fazendo isso.\nKathryne não é a única vítima. Não acho que você seja uma exceção, também.",
-        "es": "[Eremes Guile]\nParece que tú también investigaste a tu manera. Que una empresa del nivel de Rekenber esté detrás de algo así.\nNo es solo Keiron. A mí también me implantaron algo. Y probablemente a ti también."
+        "es": "[Eremes Guile]\nParece que tú también investigaste a tu manera. Que una empresa del nivel de Rekenber esté detrás de algo así.\nNo es solo Keyron. A mí también me implantaron algo. Y probablemente a ti también."
     },
     "Y9FcCA": {
         "ko": "에레메스: 너도 나름대로 조사했나 보군. 레켄베르 쯤 되는 기업이 뒤에서 이런 짓을. 케이론 뿐만 아니야. 내 몸에도 시술이 되어 있다. 아마 네 몸에도 마찬가지일 거다.",
-        "en": "Eremes: So you've been investigating in your own way as well. For a corporation on the level of Rekenber to be doing such things behind the scenes. It isn't only Keiron. My body has undergone the procedure as well. Yours is likely the same.",
+        "en": "Eremes: So you've been investigating in your own way as well. For a corporation on the level of Rekenber to be doing such things behind the scenes. It isn't only Keyron. My body has undergone the procedure as well. Yours is likely the same.",
         "pt": "Eremes: Kathryne não é a única vítima. Não acho que você seja uma exceção.",
-        "es": "Eremes: Parece que tú también investigaste a tu manera. Que una empresa del nivel de Rekenber esté detrás de algo así. No es solo Keiron. A mí también me implantaron algo. Y probablemente a ti también."
+        "es": "Eremes: Parece que tú también investigaste a tu manera. Que una empresa del nivel de Rekenber esté detrás de algo así. No es solo Keyron. A mí también me implantaron algo. Y probablemente a ti también."
     },
     "ZNFcCA": {
         "ko": "[에레메스 가일]\n케이론을 지키려고 했지만… 미안하다, 세이렌.\n한시라도 빨리 그 아이를 찾아야 해!",
-        "en": "[Eremes Guile]\nI tried to protect Keiron... I'm sorry, Seyren.\nWe must find her as quickly as possible!",
+        "en": "[Eremes Guile]\nI tried to protect Keyron... I'm sorry, Seyren.\nWe must find her as quickly as possible!",
         "pt": "[Eremes Guile]\nEu tentei protegê-la, mas... me desculpe, Seyren.\nVamos, precisamos encontrá-la!",
-        "es": "[Eremes Guile]\nIntenté proteger a Keiron… Lo siento, Seyren.\n¡Tenemos que encontrar a esa niña cuanto antes!"
+        "es": "[Eremes Guile]\nIntenté proteger a Keyron… Lo siento, Seyren.\n¡Tenemos que encontrar a esa niña cuanto antes!"
     },
     "ZdFcCA": {
         "ko": "에레메스: 케이론을 지키려고 했지만… 미안하다, 세이렌. 한시라도 빨리 그 아이를 찾아야 해!",
-        "en": "Eremes: I tried to protect Keiron... I'm sorry, Seyren. We must find her as quickly as possible!",
+        "en": "Eremes: I tried to protect Keyron... I'm sorry, Seyren. We must find her as quickly as possible!",
         "pt": "Eremes: Eu tentei protegê-la, mas... me desculpe, Seyren. Vamos, precisamos encontrá-la!",
-        "es": "Eremes: Intenté proteger a Keiron… Lo siento, Seyren. ¡Tenemos que encontrar a esa niña cuanto antes!"
+        "es": "Eremes: Intenté proteger a Keyron… Lo siento, Seyren. ¡Tenemos que encontrar a esa niña cuanto antes!"
     },
     "ZtFcCA": {
         "ko": "[에레메스 가일]\n여기서 나가 6시 방향으로 내려가 문을 통과해라.\n실험실 근처에서 합류한다!",
@@ -3997,7 +3997,7 @@
     },
     "etFcCA": {
         "ko": "레겐쉬름 연구원: 쟤가 안 깨어나면 우리는 다 보르세브 박사 손에 죽어!",
-        "en": "Regenschirm Researcher: If she doesn't wake up, we'll all die at Dr. Vorseff's hands!",
+        "en": "Regenschirm Researcher: If she doesn't wake up, we'll all die at Dr. Wolfchev's hands!",
         "pt": "Cientista da Regenschirm: Não vamos morrer se ela não acordar. O doutor Wolfchev se certificará disso.",
         "es": "Regenschirm investigador: ¡Si no despierta, el doctor Wolfchev nos matará a todos!"
     },
@@ -4009,9 +4009,9 @@
     },
     "fNFcCA": {
         "ko": "세이렌: 문 앞을 정리했습니다, 바로 진입하겠습니다!! 케이론을 구하러!!",
-        "en": "Seyren: The area in front of the door has been cleared. We will move in at once!! To save Keiron!!",
+        "en": "Seyren: The area in front of the door has been cleared. We will move in at once!! To save Keyron!!",
         "pt": "Seyren: Eu cuido dos guardas na porta. Entre agora para pegar Kathryne!",
-        "es": "Seyren: ¡Hemos despejado la entrada, vamos a entrar de inmediato! ¡¡A rescatar a Keiron!!"
+        "es": "Seyren: ¡Hemos despejado la entrada, vamos a entrar de inmediato! ¡¡A rescatar a Keyron!!"
     },
     "fdFcCA": {
         "ko": "세이렌: 당장 진입하겠습니다!!",
@@ -4027,21 +4027,21 @@
     },
     "f9FcCA": {
         "ko": "세이렌: 케이론, 케이론!!",
-        "en": "Seyren: Keiron, Keiron!!",
+        "en": "Seyren: Keyron, Keyron!!",
         "pt": "Seyren: Kathryne! Kathryne!",
-        "es": "Seyren: Keiron, ¡Keiron!"
+        "es": "Seyren: Keyron, ¡Keyron!"
     },
     "gNFcCA": {
         "ko": "[세이렌 윈저]\n케이론, 들려? 나다! 세이렌이야!!",
-        "en": "[Seyren Windsor]\nKeiron, can you hear me? It's me! Seyren!!",
+        "en": "[Seyren Windsor]\nKeyron, can you hear me? It's me! Seyren!!",
         "pt": "[Seyren Windsor]\nKathryne, você pode me ouvir? Sou eu, Seyren!",
-        "es": "[Seyren Windsor]\nKeiron, ¿me oyes? ¡Soy yo! ¡¡Seyren!!"
+        "es": "[Seyren Windsor]\nKeyron, ¿me oyes? ¡Soy yo! ¡¡Seyren!!"
     },
     "gdFcCA": {
         "ko": "세이렌: 케이론, 들려? 나다! 세이렌이야!!",
-        "en": "Seyren: Keiron, can you hear me? It's me! Seyren!!",
+        "en": "Seyren: Keyron, can you hear me? It's me! Seyren!!",
         "pt": "Seyren: Kathryne, você pode me ouvir? Sou eu, Seyren!",
-        "es": "Seyren: Keiron, ¿me oyes? ¡Soy yo! ¡¡Seyren!!"
+        "es": "Seyren: Keyron, ¿me oyes? ¡Soy yo! ¡¡Seyren!!"
     },
     "gtFcCA": {
         "ko": "[에레메스 가일]\n이 기계… 어떻게 해제하는 거지?\n화이트스미스 녀석이 있었다면 금방 해제했을 텐데…",
@@ -4075,21 +4075,21 @@
     },
     "h9FcCA": {
         "ko": "케이론: 오, 빠…? 읏… 그럴 리가, 없는데…",
-        "en": "Keiron: B-bro...? Ugh... that can't be... possible...",
+        "en": "Keyron: B-bro...? Ugh... that can't be... possible...",
         "pt": "Kathryne: Sey...ren? Ugh... Não pode ser...",
-        "es": "Keiron: ¿Her… mano…? Ugh… no puede… ser…"
+        "es": "Keyron: ¿Her… mano…? Ugh… no puede… ser…"
     },
     "iNFcCA": {
         "ko": "[세이렌 윈저]\n케이론, 정신이 들어?",
-        "en": "[Seyren Windsor]\nKeiron, are you coming to your senses?",
+        "en": "[Seyren Windsor]\nKeyron, are you coming to your senses?",
         "pt": "[Seyren Windsor]\nKathryne, você pode me ver?",
-        "es": "[Seyren Windsor]\nKeiron, ¿estás volviendo en ti?"
+        "es": "[Seyren Windsor]\nKeyron, ¿estás volviendo en ti?"
     },
     "idFcCA": {
         "ko": "세이렌: 케이론, 정신이 들어?",
-        "en": "Seyren: Keiron, are you coming to your senses?",
+        "en": "Seyren: Keyron, are you coming to your senses?",
         "pt": "Seyren: Kathryne, você pode me ver?",
-        "es": "Seyren: Keiron, ¿estás volviendo en ti?"
+        "es": "Seyren: Keyron, ¿estás volviendo en ti?"
     },
     "itFcCA": {
         "ko": "[카트린느 케이론]\n꿈이었을까? 그날… 나 세 살때 있었던 일들… 다시 봤어.\n나 때문에 엄마가… 오빠가… 날 감싸고…",
@@ -4099,21 +4099,21 @@
     },
     "i9FcCA": {
         "ko": "케이론: 꿈이었을까? 그날… 나 세 살때 있었던 일들… 봤어. 나 때문에 엄마가… 오빠가… 날 감싸고…",
-        "en": "Keiron: Was it a dream? That day... the things that happened when I was three... I saw them again. Because of me, Mother... and you... shielding me...",
+        "en": "Keyron: Was it a dream? That day... the things that happened when I was three... I saw them again. Because of me, Mother... and you... shielding me...",
         "pt": "Kathryne: Foi um sonho? Eu vi o que aconteceu naquele dia... quando eu tinha 3 anos. Por minha causa, a mamãe... Você me protegeu...",
-        "es": "Keiron: ¿Fue un sueño? Aquel día… volví a ver lo que pasó cuando tenía tres años. Por mi culpa mamá… y mi hermano… me protegían…"
+        "es": "Keyron: ¿Fue un sueño? Aquel día… volví a ver lo que pasó cuando tenía tres años. Por mi culpa mamá… y mi hermano… me protegían…"
     },
     "jNFcCA": {
         "ko": "[세이렌 윈저]\n무슨… 케이론, 그건 네 잘못이 아니었어.\n돌아가자. 어서 꺼내 줄게. 잠시만 기다려…!!",
-        "en": "[Seyren Windsor]\nWhat... Keiron, that wasn't your fault.\nLet's go back. I'll get you out right away. Just wait a moment...!!",
+        "en": "[Seyren Windsor]\nWhat... Keyron, that wasn't your fault.\nLet's go back. I'll get you out right away. Just wait a moment...!!",
         "pt": "[Seyren Windsor]\nO quê? Kathryne, não foi sua culpa.\nVamos para casa. Vou tirar você daí. Espere.",
-        "es": "[Seyren Windsor]\n¿Qué…? Keiron, no fue tu culpa.\nVolvamos. Voy a sacarte de ahí. Espera un momento…!!"
+        "es": "[Seyren Windsor]\n¿Qué…? Keyron, no fue tu culpa.\nVolvamos. Voy a sacarte de ahí. Espera un momento…!!"
     },
     "jdFcCA": {
         "ko": "세이렌: 무슨… 케이론, 그건 네 잘못이 아니었어. 돌아가자. 어서 꺼내 줄게. 잠시만 기다려…!!",
-        "en": "Seyren: What... Keiron, that wasn't your fault. Let's go back. I'll get you out right away. Just wait a moment...!!",
+        "en": "Seyren: What... Keyron, that wasn't your fault. Let's go back. I'll get you out right away. Just wait a moment...!!",
         "pt": "Seyren: O quê? Kathryne, não foi sua culpa. Vamos para casa. Vou tirar você daí. Espere.",
-        "es": "Seyren: ¿Qué…? Keiron, no fue tu culpa. Volvamos. Voy a sacarte de ahí. Espera un momento…!!"
+        "es": "Seyren: ¿Qué…? Keyron, no fue tu culpa. Volvamos. Voy a sacarte de ahí. Espera un momento…!!"
     },
     "jtFcCA": {
         "ko": "[카트린느 케이론]\n이번에는 잘 해내고 싶엇는데…\n오빠 뒤에만 숨어 있던 어린애가 아니라고, 증명하고 싶었는데…",
@@ -4123,9 +4123,9 @@
     },
     "j9FcCA": {
         "ko": "케이론: 이번에는 잘 해내고 싶엇는데… 오빠 뒤에만 숨어 있던 어린애가 아니라고, 증명하고 싶었는데…",
-        "en": "Keiron: This time, I wanted to do well... I wanted to prove I wasn't just a child hiding behind my brother anymore...",
+        "en": "Keyron: This time, I wanted to do well... I wanted to prove I wasn't just a child hiding behind my brother anymore...",
         "pt": "Kathryne: Eu realmente queria me sair bem desta vez... eu queria provar que você não precisa mais me proteger...",
-        "es": "Keiron: Esta vez quería hacerlo bien… Quería demostrar que ya no era una niña que se escondía detrás de su hermano…"
+        "es": "Keyron: Esta vez quería hacerlo bien… Quería demostrar que ya no era una niña que se escondía detrás de su hermano…"
     },
     "kNFcCA": {
         "ko": "[카트린느 케이론]\n흥… 바보, 오빠…",
@@ -4135,9 +4135,9 @@
     },
     "kdFcCA": {
         "ko": "케이론: 흥… 바보, 오빠…",
-        "en": "Keiron: Hmph... idiot, brother...",
+        "en": "Keyron: Hmph... idiot, brother...",
         "pt": "Kathryne: Pffft... Seyren... Seu idiota...",
-        "es": "Keiron: Hmph… tonto, hermano…"
+        "es": "Keyron: Hmph… tonto, hermano…"
     },
     "ktFcCA": {
         "ko": "[카트린느 케이론]\n아니, 바보는… 나였어… 미안해.",
@@ -4147,9 +4147,9 @@
     },
     "k9FcCA": {
         "ko": "케이론: 아니, 바보는… 나였어… 미안해.",
-        "en": "Keiron: No, the idiot was... me... I'm sorry.",
+        "en": "Keyron: No, the idiot was... me... I'm sorry.",
         "pt": "Kathryne: Na verdade, eu sou a idiota... Desculpe.",
-        "es": "Keiron: No, la tonta… fui yo… lo siento."
+        "es": "Keyron: No, la tonta… fui yo… lo siento."
     },
     "lNFcCA": {
         "ko": "카트린느 케이론",
@@ -4159,15 +4159,15 @@
     },
     "ldFcCA": {
         "ko": "[세이렌 윈저]\n케이론… 케이론!!!\n안돼!!! 케이론!!!",
-        "en": "[Seyren Windsor]\nKeiron... Keiron!!!\nNo!!! Keiron!!!",
+        "en": "[Seyren Windsor]\nKeyron... Keyron!!!\nNo!!! Keyron!!!",
         "pt": "[Seyren Windsor]\nKathryne! Kathryne!\nNããão! Kathryne!",
-        "es": "[Seyren Windsor]\nKeiron… ¡Keiron!!!\n¡¡No!! ¡¡Keiron!!"
+        "es": "[Seyren Windsor]\nKeyron… ¡Keyron!!!\n¡¡No!! ¡¡Keyron!!"
     },
     "ltFcCA": {
         "ko": "세이렌: 케이론… 케이론!!! 안돼!!! 케이론!!!",
-        "en": "Seyren: Keiron... Keiron!!! No!!! Keiron!!!",
+        "en": "Seyren: Keyron... Keyron!!! No!!! Keyron!!!",
         "pt": "Seyren: Kathryne! Kathryne! Nããão! Kathryne!",
-        "es": "Seyren: Keiron… ¡Keiron!!! ¡¡No!! ¡¡Keiron!!"
+        "es": "Seyren: Keyron… ¡Keyron!!! ¡¡No!! ¡¡Keyron!!"
     },
     "l9FcCA": {
         "ko": "[에레메스 가일]\n…………",
@@ -4189,9 +4189,9 @@
     },
     "mtFcCA": {
         "ko": "세이렌: 케이론……",
-        "en": "Seyren: Keiron......",
+        "en": "Seyren: Keyron......",
         "pt": "Seyren: Irmãzinha...",
-        "es": "Seyren: Keiron……"
+        "es": "Seyren: Keyron……"
     },
     "m9FcCA": {
         "ko": "에레메스: 미안하다. 전투에 집중하지.",
@@ -4231,15 +4231,15 @@
     },
     "odFcCA": {
         "ko": "[에레메스 가일]\n나는 케이론의 시신을 안전한 곳에 두고 따라가겠다.\n더는 이런 실험 따위에 이용당하지 않도록.",
-        "en": "[Eremes Guile]\nI will place Keiron's body somewhere safe and follow after you.\nSo that she will never again be used for experiments like this.",
+        "en": "[Eremes Guile]\nI will place Keyron's body somewhere safe and follow after you.\nSo that she will never again be used for experiments like this.",
         "pt": "[Eremes Guile]\nEu vou seguir vocês depois de colocar o corpo dela em algum lugar seguro.\nDe jeito nenhum vou deixar que usem o corpo dela, mesmo depois de morta.",
-        "es": "[Eremes Guile]\nDejaré el cuerpo de Keiron en un lugar seguro y luego os seguiré.\nPara que no vuelvan a usarlo jamás en un experimento como este."
+        "es": "[Eremes Guile]\nDejaré el cuerpo de Keyron en un lugar seguro y luego os seguiré.\nPara que no vuelvan a usarlo jamás en un experimento como este."
     },
     "otFcCA": {
         "ko": "에레메스: 나는 케이론의 시신을 안전한 곳에 두고 따라가겠다. 더는 이런 실험 따위에 이용당하지 않도록.",
-        "en": "Eremes: I will place Keiron's body somewhere safe and follow after you. So that she will never again be used for experiments like this.",
+        "en": "Eremes: I will place Keyron's body somewhere safe and follow after you. So that she will never again be used for experiments like this.",
         "pt": "Eremes: Eu vou seguir vocês depois de colocar o corpo dela em algum lugar seguro.",
-        "es": "Eremes: Dejaré el cuerpo de Keiron en un lugar seguro y luego os seguiré. Para que no vuelvan a usarlo jamás en un experimento como este."
+        "es": "Eremes: Dejaré el cuerpo de Keyron en un lugar seguro y luego os seguiré. Para que no vuelvan a usarlo jamás en un experimento como este."
     },
     "o9FcCA": {
         "ko": "[세이렌 윈저]\n알겠습니다, 에레메스 님……\n저는 다른 이들을 찾으러 먼저 가겠습니다.",
@@ -4315,15 +4315,15 @@
     },
     "r9FcCA": {
         "ko": "[에레메스 가일]\n나는… 오래 버티지 못한다.\n케이론이 눈앞에서 살해당한 지금 내 죽음까지 마주치면 세이렌은 버티지 못할 지도 몰라.",
-        "en": "[Eremes Guile]\nI... cannot hold out much longer.\nWith Keiron murdered right before his eyes, if Seyren were to face my death as well, he might not endure it.",
+        "en": "[Eremes Guile]\nI... cannot hold out much longer.\nWith Keyron murdered right before his eyes, if Seyren were to face my death as well, he might not endure it.",
         "pt": "[Eremes Guile]\nEu não vou durar muito.\nSeyren viu Kathryne sendo assassinada. Também não posso deixar que ele me veja morrer.",
-        "es": "[Eremes Guile]\nYo… no aguantaré mucho más.\nSi Seyren presencia también mi muerte justo después de ver cómo asesinan a Keiron delante de sus ojos, puede que no lo soporte."
+        "es": "[Eremes Guile]\nYo… no aguantaré mucho más.\nSi Seyren presencia también mi muerte justo después de ver cómo asesinan a Keyron delante de sus ojos, puede que no lo soporte."
     },
     "sNFcCA": {
         "ko": "에레메스: 나는… 오래 버티지 못한다. 케이론이 눈앞에서 살해당한 지금 내 죽음까지 마주치면 세이렌은 버티지 못할 지도 몰라.",
-        "en": "Eremes: I... cannot hold out much longer. With Keiron murdered right before his eyes, if Seyren were to face my death as well, he might not endure it.",
+        "en": "Eremes: I... cannot hold out much longer. With Keyron murdered right before his eyes, if Seyren were to face my death as well, he might not endure it.",
         "pt": "Eremes: Não vou durar muito. Seyren viu Kathryne sendo assassinada. Também não posso deixar que ele me veja morrer.",
-        "es": "Eremes: Yo… no aguantaré mucho más. Si Seyren presencia también mi muerte justo después de ver cómo asesinan a Keiron delante de sus ojos, puede que no lo soporte."
+        "es": "Eremes: Yo… no aguantaré mucho más. Si Seyren presencia también mi muerte justo después de ver cómo asesinan a Keyron delante de sus ojos, puede que no lo soporte."
     },
     "sdFcCA": {
         "ko": "[에레메스 가일]\n네게 부탁이… 있다. 세이렌을… 따라가 다오.\n다음 실험실은 문 밖으로 나가 12시 방향이다. 우리의 희망을… 잘 부탁한다…",
@@ -4345,9 +4345,9 @@
     },
     "tNFcCA": {
         "ko": "케이론: ……",
-        "en": "Keiron: ......",
+        "en": "Keyron: ......",
         "pt": "Kathryne: ...",
-        "es": "Keiron: ……"
+        "es": "Keyron: ……"
     },
     "tdFcCA": {
         "ko": "[카트린느 케이론]\n오빠들… 많이 보고 싶었… 는데.",
@@ -4537,27 +4537,27 @@
     },
     "1NFcCA": {
         "ko": "[하워드 알트아이젠]\n좋아! 이제 이 하워드 형님이 함께 있으니까 안심해라!\n케이론이… 돌아올 수 없게 된 건 정말… 유감이다.",
-        "en": "[Howard Alt-Eisen]\nAll right! Now that big brother Howard is with you, rest easy!\nIt truly is... regrettable that Keiron... can no longer return.",
+        "en": "[Howard Alt-Eisen]\nAll right! Now that big brother Howard is with you, rest easy!\nIt truly is... regrettable that Keyron... can no longer return.",
         "pt": "[Howard Alt-Eisen]\nBem, não se preocupe. Você está com Howard!\nMas Seyren... sinto muito por sua perda.",
-        "es": "[Howard Alt-Iron]\n¡Bien! ¡Ahora que este hermano mayor Howard está con vosotros, podéis estar tranquilos!\nQue Keiron… ya no pueda volver es realmente… una pena."
+        "es": "[Howard Alt-Iron]\n¡Bien! ¡Ahora que este hermano mayor Howard está con vosotros, podéis estar tranquilos!\nQue Keyron… ya no pueda volver es realmente… una pena."
     },
     "1dFcCA": {
         "ko": "하워드: 좋아! 이제 이 하워드 형님이 함께 있으니까 안심해라! 케이론이… 돌아올 수 없게 된 건 정말… 유감이다.",
-        "en": "Howard: All right! Now that big brother Howard is with you, rest easy! It truly is... regrettable that Keiron... can no longer return.",
+        "en": "Howard: All right! Now that big brother Howard is with you, rest easy! It truly is... regrettable that Keyron... can no longer return.",
         "pt": "Howard: Bem, não se preocupe. Você está com Howard! Mas Seyren... sinto muito por sua perda.",
-        "es": "Howard: ¡Bien! ¡Ahora que este hermano mayor Howard está con vosotros, podéis estar tranquilos! Que Keiron… ya no pueda volver es realmente… una pena."
+        "es": "Howard: ¡Bien! ¡Ahora que este hermano mayor Howard está con vosotros, podéis estar tranquilos! Que Keyron… ya no pueda volver es realmente… una pena."
     },
     "1tFcCA": {
         "ko": "[하워드 알트아이젠]\n그러니 이제 가서 케이론을 그렇게 만든 녀석들을 다 때려잡아 버리자고!\n셰실 누님이랑, 네 약혼자도 얼른 찾고.",
-        "en": "[Howard Alt-Eisen]\nSo now let's go beat down every last one of the bastards who made Keiron like that!\nAnd quickly find sis Cecil and your fiancée too.",
+        "en": "[Howard Alt-Eisen]\nSo now let's go beat down every last one of the bastards who made Keyron like that!\nAnd quickly find sis Cecil and your fiancée too.",
         "pt": "[Howard Alt-Eisen]\nVamos punir aqueles que a mataram.\nEncontraremos Cecil e sua noiva também.",
-        "es": "[Howard Alt-Iron]\nAsí que ahora vamos a destrozar a todos los que le hicieron eso a Keiron!\nY también encontraremos cuanto antes a la hermana Cecil y a tu prometida."
+        "es": "[Howard Alt-Iron]\nAsí que ahora vamos a destrozar a todos los que le hicieron eso a Keyron!\nY también encontraremos cuanto antes a la hermana Cecil y a tu prometida."
     },
     "19FcCA": {
         "ko": "하워드: 그러니 이제 가서 케이론을 그렇게 만든 녀석들을 다 때려잡아 버리자고! 셰실 누님이랑, 네 약혼자도 얼른 찾고.",
-        "en": "Howard: So now let's go beat down every last one of the bastards who made Keiron like that! And quickly find sis Cecil and your fiancée too.",
+        "en": "Howard: So now let's go beat down every last one of the bastards who made Keyron like that! And quickly find sis Cecil and your fiancée too.",
         "pt": "Howard: Vamos punir aqueles que a mataram. Vamos encontrar Cecil e sua noiva também.",
-        "es": "Howard: Así que ahora vamos a destrozar a todos los que le hicieron eso a Keiron! Y también encontraremos cuanto antes a la hermana Cecil y a tu prometida."
+        "es": "Howard: Así que ahora vamos a destrozar a todos los que le hicieron eso a Keyron! Y también encontraremos cuanto antes a la hermana Cecil y a tu prometida."
     },
     "2NFcCA": {
         "ko": "[하워드 알트아이젠]\n그 다음 밖으로 나가서 배틀 코어인지 뭔지도 해결하는 거다!\n이 몸은 어둠의 제련장 하워드 알트아이젠이잖냐. 우리한테 무슨 짓을 했든 해결할 수 있어!",
@@ -4705,25 +4705,25 @@
     },
     "8NFcCA": {
         "ko": "[보르세브]\n하하… 하하하!\n기특하기도 하지. 둘다 정답이다.",
-        "en": "[Vorseff]\nHa ha... hahaha!\nHow admirable. Both are correct.",
+        "en": "[Wolfchev]\nHa ha... hahaha!\nHow admirable. Both are correct.",
         "pt": "[Wolfchev]\nHah hah... Hah hah hah!\nVocê é inteligente. Nós somos os dois.",
         "es": "[Wolfchev]\nJa, ja… ¡ja, ja, ja!\nQué aplicados sois. Las dos respuestas son correctas."
     },
     "8dFcCA": {
         "ko": "보르세브: 하하… 하하하! 기특하기도 하지. 둘다 정답이다.",
-        "en": "Vorseff: Ha ha... hahaha! How admirable. Both are correct.",
+        "en": "Wolfchev: Ha ha... hahaha! How admirable. Both are correct.",
         "pt": "Wolfchev: Você é esperto. Nós somos os dois.",
         "es": "Wolfchev: Ja, ja… ¡ja, ja, ja! Qué aplicados sois. Las dos respuestas son correctas."
     },
     "8tFcCA": {
         "ko": "[보르세브]\n인사하지. 이쪽은 내 실패작이란다.\n그리고 저쪽은… 내 귀여운 아이야. 내 최고의 작품이지.",
-        "en": "[Vorseff]\nAllow me to introduce you. This one here is my failure.\nAnd that one there is... my lovely child. My finest work.",
+        "en": "[Wolfchev]\nAllow me to introduce you. This one here is my failure.\nAnd that one there is... my lovely child. My finest work.",
         "pt": "[Wolfchev]\nVamos nos apresentar. Esta é a minha cobaia reprovada.\nE aquele ali é... minha linda criação. Minha maior obra-prima.",
         "es": "[Wolfchev]\nPermitidme presentaros. Este de aquí es uno de mis fracasos.\nY aquella de allí… es mi niña adorable. Mi obra maestra."
     },
     "89FcCA": {
         "ko": "보르세브: 인사하지. 이쪽은 내 실패작이란다. 그리고 저쪽은… 내 귀여운 아이야. 내 최고의 작품이지.",
-        "en": "Vorseff: Allow me to introduce you. This one here is my failure. And that one there is... my lovely child. My finest work.",
+        "en": "Wolfchev: Allow me to introduce you. This one here is my failure. And that one there is... my lovely child. My finest work.",
         "pt": "Wolfchev: Vamos nos apresentar. Esta é minha cobaia reprovada. E aquela ali é... minha linda criação. Minha maior obra-prima.",
         "es": "Wolfchev: Permitidme presentaros. Este de aquí es uno de mis fracasos. Y aquella de allí… es mi niña adorable. Mi obra maestra."
     },
@@ -4753,37 +4753,37 @@
     },
     "+NFcCA": {
         "ko": "[보르세브]\n오… 아니야, 아니야. 일단 최고의 작품은 네가 아니야, 너도 꽤 우수하기는 했지만.\n안 그런가? 세이렌 윈저. 내 최고의 예술품.",
-        "en": "[Vorseff]\nOh... no, no. First of all, you are not my finest work, though you were quite excellent.\nWouldn't you agree? Seyren Windsor. My finest artwork.",
+        "en": "[Wolfchev]\nOh... no, no. First of all, you are not my finest work, though you were quite excellent.\nWouldn't you agree? Seyren Windsor. My finest artwork.",
         "pt": "[Wolfchev]\nBem, pelo menos não você. Você é excelente à sua maneira.\nMas estou falando de Seyren Windsor. Certo, Seyren?",
         "es": "[Wolfchev]\nOh… no, no. Para empezar, tú no eres la obra maestra, aunque también fuiste bastante excelente.\n¿No es así? Seyren Windsor. Mi obra de arte suprema."
     },
     "+dFcCA": {
         "ko": "보르세브: 오… 아니야, 아니야. 일단 최고의 작품은 네가 아니야, 너도 꽤 우수하기는 했지만. 안 그런가? 세이렌 윈저. 내 최고의 예술품.",
-        "en": "Vorseff: Oh... no, no. First of all, you are not my finest work, though you were quite excellent. Wouldn't you agree? Seyren Windsor. My finest artwork.",
+        "en": "Wolfchev: Oh... no, no. First of all, you are not my finest work, though you were quite excellent. Wouldn't you agree? Seyren Windsor. My finest artwork.",
         "pt": "Wolfchev: Bem, pelo menos não você. Você é excelente à sua maneira, mas estou falando de Seyren Windsor. Certo, Seyren?",
         "es": "Wolfchev: Oh… no, no. Para empezar, tú no eres la obra maestra, aunque también fuiste bastante excelente. ¿No es así? Seyren Windsor. Mi obra de arte suprema."
     },
     "+tFcCA": {
         "ko": "[보르세브]\n나에게 닿으려면 좀더 힘내야 할 거야. 그 전에 시험삼아 실패작을 상대하는 경험을 제공해 줄까 하고 찾아왔단다.",
-        "en": "[Vorseff]\nIf you wish to reach me, you will have to try harder. Before that, I thought I would come and provide you with the experience of testing yourself against a failure.",
+        "en": "[Wolfchev]\nIf you wish to reach me, you will have to try harder. Before that, I thought I would come and provide you with the experience of testing yourself against a failure.",
         "pt": "[Wolfchev]\nÉ melhor você se esforçar mais se quiser me alcançar. Eu vim para ajudá-lo a experimentar como é lutar contra uma cobaia reprovada.",
         "es": "[Wolfchev]\nSi queréis alcanzarme, tendréis que esforzaros un poco más. Antes de eso, he venido a ofreceros la experiencia de enfrentaros a un fracaso como prueba."
     },
     "+9FcCA": {
         "ko": "보르세브: 나에게 닿으려면 좀더 힘내야 할 거야. 그 전에 시험삼아 실패작을 상대하는 경험을 제공해 줄까 하고 찾아왔단다.",
-        "en": "Vorseff: If you wish to reach me, you will have to try harder. Before that, I thought I would come and provide you with the experience of testing yourself against a failure.",
+        "en": "Wolfchev: If you wish to reach me, you will have to try harder. Before that, I thought I would come and provide you with the experience of testing yourself against a failure.",
         "pt": "Wolfchev: É melhor você se esforçar mais se quiser me alcançar. Eu vim para ajudá-lo a experimentar como é lutar contra uma cobaia reprovada.",
         "es": "Wolfchev: Si queréis alcanzarme, tendréis que esforzaros un poco más. Antes de eso, he venido a ofreceros la experiencia de enfrentaros a un fracaso como prueba."
     },
     "/NFcCA": {
         "ko": "[보르세브]\n큭큭큭… 그리고 경험을 통해 너는 완벽한 작품으로 거듭나겠지.\n자, 무척 기대되는군… 그러면 완벽한 작품을 위해 힘내 보도록 해라. 내 실패한 아이야.",
-        "en": "[Vorseff]\nHeh heh heh... And through that experience, you shall be reborn as a perfect work.\nNow then, I look forward to it immensely... so do your best for the sake of becoming a perfect work, my failed child.",
+        "en": "[Wolfchev]\nHeh heh heh... And through that experience, you shall be reborn as a perfect work.\nNow then, I look forward to it immensely... so do your best for the sake of becoming a perfect work, my failed child.",
         "pt": "[Wolfchev]\nE... para refinar ainda mais minha obra-prima. Hah hah hah!\nMal posso esperar para ver como vai ser essa luta. Agora, minha filha rejeitada, vá ajudar seu irmão a praticar.",
         "es": "[Wolfchev]\nJe, je, je… y a través de esa experiencia renacerás como una obra perfecta.\nBien, esto promete ser muy interesante… así que esfuérzate por convertirte en una obra perfecta. Mi niño fracasado."
     },
     "/dFcCA": {
         "ko": "보르세브: 큭큭큭… 그리고 경험을 통해 너는 완벽한 작품으로 거듭나겠지. 자, 무척 기대되는군… 그러면 완벽한 작품을 위해 힘내 보도록 해라. 내 실패한 아이야.",
-        "en": "Vorseff: Heh heh heh... And through that experience, you shall be reborn as a perfect work. Now then, I look forward to it immensely... so do your best for the sake of becoming a perfect work, my failed child.",
+        "en": "Wolfchev: Heh heh heh... And through that experience, you shall be reborn as a perfect work. Now then, I look forward to it immensely... so do your best for the sake of becoming a perfect work, my failed child.",
         "pt": "Wolfchev: Agora, minha filha rejeitada, vá ajudar seu irmão a praticar.",
         "es": "Wolfchev: Je, je, je… y a través de esa experiencia renacerás como una obra perfecta. Bien, esto promete ser muy interesante… así que esfuérzate por convertirte en una obra perfecta. Mi niño fracasado."
     },
@@ -5059,13 +5059,13 @@
     },
     "K9JcCA": {
         "ko": "보르세브",
-        "en": "Vorseff",
+        "en": "Wolfchev",
         "pt": "Wolfchev",
         "es": "Wolfchev"
     },
     "LNJcCA": {
         "ko": "보르세브: 나는 지금 창조적인 흥분에 휩싸여 한껏 고양돼 있네. 날 방해하지 말게.",
-        "en": "Vorseff: I am presently swept up in creative excitement and thoroughly exhilarated. Do not disturb me.",
+        "en": "Wolfchev: I am presently swept up in creative excitement and thoroughly exhilarated. Do not disturb me.",
         "pt": "Wolfchev: Estou no meio de um processo criativo. Por favor, não estrague minha empolgação.",
         "es": "Wolfchev: Ahora mismo me encuentro en un estado de exaltación creativa. No me interrumpáis."
     },
@@ -5251,15 +5251,15 @@
     },
     "S9JcCA": {
         "ko": "세이렌: 케이론!! 나야, 세이렌이다!!",
-        "en": "Seyren: Keiron!! It's me, Seyren!!",
+        "en": "Seyren: Keyron!! It's me, Seyren!!",
         "pt": "Seyren: Kathryne! Sou eu, Seyren!",
-        "es": "Seyren: ¡Keiron!! ¡Soy yo, Seyren!!"
+        "es": "Seyren: ¡Keyron!! ¡Soy yo, Seyren!!"
     },
     "TNJcCA": {
         "ko": "세이렌: 케이론!! 나야, 세이렌이다!!",
-        "en": "Seyren: Keiron!! It's me, Seyren!!",
+        "en": "Seyren: Keyron!! It's me, Seyren!!",
         "pt": "Seyren: Kathryne! Sou eu, Seyren!",
-        "es": "Seyren: ¡Keiron!! ¡Soy yo, Seyren!!"
+        "es": "Seyren: ¡Keyron!! ¡Soy yo, Seyren!!"
     },
     "TdJcCA": {
         "ko": "redcell1",

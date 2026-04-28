@@ -62,13 +62,13 @@
     "CrHTDA": {
         "ko": "<타나토스 타워 강화사>",
         "en": "<Thanatos Tower Enchanter>",
-        "pt": "<Encantadora de Memória de Thanatos>",
+        "pt": "< Encantadora >",
         "es": "<Encantadora de Torre de Thanatos>"
     },
     "C7HTDA": {
         "ko": "보유한 물건의 종류나 무게가 너무 많은 것 같습니다. 인벤토리를 정리해주세요.",
         "en": "You seem to be carrying too many types of items or exceeding the weight limit. Please organize your inventory.",
-        "pt": "Parece que você possui muitos tipos de itens ou o peso total está muito alto. Por favor, organize seu inventário.",
+        "pt": "Por favor, reorganize seu inventário e volte a falar comigo.",
         "es": "Parece que llevas demasiados tipos de objetos o demasiado peso. Por favor, organiza tu inventario."
     },
     "DLHTDA": {
@@ -98,13 +98,13 @@
     "ELHTDA": {
         "ko": "[타밀라]\n어서오세요. 뭔가 뚝딱거릴만 한걸 들고 오셨나요?",
         "en": "[Tamila]\nWelcome. Did you bring something that needs a bit of tinkering?",
-        "pt": "[Tamila]\nBem-vindo. Trouxe algo interessante para trabalharmos?",
+        "pt": "[Tamila]\nBoas-vindas. Trouxe algo interessante para eu trabalhar?",
         "es": "[Tamila]\nBienvenido. ¿Has traído algo interesante para trabajar?"
     },
     "EbHTDA": {
         "ko": "이용안내",
         "en": "Service Guide",
-        "pt": "Guia de uso",
+        "pt": "Como funciona?",
         "es": "Guía de uso"
     },
     "ErHTDA": {
@@ -116,43 +116,43 @@
     "E7HTDA": {
         "ko": "인챈트 초기화",
         "en": "Reset Enchant",
-        "pt": "Redefinir encantamento",
+        "pt": "Resetar encantamento",
         "es": "Restablecer encantamiento"
     },
     "FLHTDA": {
         "ko": "[타밀라]\n어떤 장비를 강화할 수 있는지 먼저 안내를 해드려야겠군요.",
         "en": "[Tamila]\nFirst, I should explain which equipment can be enhanced.",
-        "pt": "[Tamila]\nPrimeiro preciso explicar quais equipamentos podem ser aprimorados.",
+        "pt": "[Tamila]\nPrimeiro preciso explicar quais acessórios podem ser encantados.",
         "es": "[Tamila]\nPrimero debo explicarte qué equipos pueden reforzarse."
     },
     "FbHTDA": {
         "ko": "[타밀라]\n[<ITEM>죄악으로 물든 루비 반지<INFO>490044</INFO></ITEM>]\n[<ITEM>죄악으로 물든 에메랄드 반지<INFO>490046</INFO></ITEM>]\n[<ITEM>죄악으로 물든 토파즈 반지<INFO>490048</INFO></ITEM>]\n[<ITEM>죄악으로 물든 아메디스트 반지<INFO>490050</INFO></ITEM>]\n[<ITEM>죄악으로 물든 사파이어 반지<INFO>490052</INFO></ITEM>]\n[<ITEM>죄악으로 물든 오팔 반지<INFO>490054</INFO></ITEM>]\n[<ITEM>죄악으로 물든 루비 목걸이<INFO>490045</INFO></ITEM>]\n[<ITEM>죄악으로 물든 에메랄드 목걸이<INFO>490047</INFO></ITEM>]\n[<ITEM>죄악으로 물든 토파즈 목걸이<INFO>490049</INFO></ITEM>]\n[<ITEM>죄악으로 물든 아메디스트 목걸이<INFO>490051</INFO></ITEM>]\n[<ITEM>죄악으로 물든 사파이어 목걸이<INFO>490053</INFO></ITEM>]\n[<ITEM>죄악으로 물든 오팔 목걸이<INFO>490055</INFO></ITEM>]",
         "en": "[Tamila]\n[<ITEM>Ruby Ring Tainted by Sin<INFO>490044</INFO></ITEM>]\n[<ITEM>Emerald Ring Tainted by Sin<INFO>490046</INFO></ITEM>]\n[<ITEM>Topaz Ring Tainted by Sin<INFO>490048</INFO></ITEM>]\n[<ITEM>Amethyst Ring Tainted by Sin<INFO>490050</INFO></ITEM>]\n[<ITEM>Sapphire Ring Tainted by Sin<INFO>490052</INFO></ITEM>]\n[<ITEM>Opal Ring Tainted by Sin<INFO>490054</INFO></ITEM>]\n[<ITEM>Ruby Necklace Tainted by Sin<INFO>490045</INFO></ITEM>]\n[<ITEM>Emerald Necklace Tainted by Sin<INFO>490047</INFO></ITEM>]\n[<ITEM>Topaz Necklace Tainted by Sin<INFO>490049</INFO></ITEM>]\n[<ITEM>Amethyst Necklace Tainted by Sin<INFO>490051</INFO></ITEM>]\n[<ITEM>Sapphire Necklace Tainted by Sin<INFO>490053</INFO></ITEM>]\n[<ITEM>Opal Necklace Tainted by Sin<INFO>490055</INFO></ITEM>]",
-        "pt": "[Tamila]\n[<ITEM>Anel de Rubi do Pecado<INFO>490044</INFO></ITEM>]\n[<ITEM>Anel de Esmeralda do Pecado<INFO>490046</INFO></ITEM>]\n[<ITEM>Anel de Topázio do Pecado<INFO>490048</INFO></ITEM>]\n[<ITEM>Anel de Ametista do Pecado<INFO>490050</INFO></ITEM>]\n[<ITEM>Anel de Safira do Pecado<INFO>490052</INFO></ITEM>]\n[<ITEM>Anel de Opala do Pecado<INFO>490054</INFO></ITEM>]\n[<ITEM>Colar de Rubi do Pecado<INFO>490045</INFO></ITEM>]\n[<ITEM>Colar de Esmeralda do Pecado<INFO>490047</INFO></ITEM>]\n[<ITEM>Colar de Topázio do Pecado<INFO>490049</INFO></ITEM>]\n[<ITEM>Colar de Ametista do Pecado<INFO>490051</INFO></ITEM>]\n[<ITEM>Colar de Safira do Pecado<INFO>490053</INFO></ITEM>]\n[<ITEM>Colar de Opala do Pecado<INFO>490055</INFO></ITEM>]",
+        "pt": "[Tamila]\n[<ITEM>Anel Profano Rubi<INFO>490044</INFO></ITEM>]\n[<ITEM>Anel Profano Esmeralda<INFO>490046</INFO></ITEM>]\n[<ITEM>Anel Profano Topázio<INFO>490048</INFO></ITEM>]\n[<ITEM>Anel Profano Ametista<INFO>490050</INFO></ITEM>]\n[<ITEM>Anel Profano Safira<INFO>490052</INFO></ITEM>]\n[<ITEM>Anel Profano Opala<INFO>490054</INFO></ITEM>]\n[<ITEM>Colar Profano Rubi<INFO>490045</INFO></ITEM>]\n[<ITEM>Colar Profano Esmeralda<INFO>490047</INFO></ITEM>]\n[<ITEM>Colar Profano Topázio<INFO>490049</INFO></ITEM>]\n[<ITEM>Colar Profano Ametista<INFO>490051</INFO></ITEM>]\n[<ITEM>Colar Profano Safira<INFO>490053</INFO></ITEM>]\n[<ITEM>Colar Profano Opala<INFO>490055</INFO></ITEM>]",
         "es": "[Tamila]\n[<ITEM>Anillo de rubí manchado por el pecado<INFO>490044</INFO></ITEM>]\n[<ITEM>Anillo de esmeralda manchado por el pecado<INFO>490046</INFO></ITEM>]\n[<ITEM>Anillo de topacio manchado por el pecado<INFO>490048</INFO></ITEM>]\n[<ITEM>Anillo de amatista manchado por el pecado<INFO>490050</INFO></ITEM>]\n[<ITEM>Anillo de zafiro manchado por el pecado<INFO>490052</INFO></ITEM>]\n[<ITEM>Anillo de ópalo manchado por el pecado<INFO>490054</INFO></ITEM>]\n[<ITEM>Collar de rubí manchado por el pecado<INFO>490045</INFO></ITEM>]\n[<ITEM>Collar de esmeralda manchado por el pecado<INFO>490047</INFO></ITEM>]\n[<ITEM>Collar de topacio manchado por el pecado<INFO>490049</INFO></ITEM>]\n[<ITEM>Collar de amatista manchado por el pecado<INFO>490051</INFO></ITEM>]\n[<ITEM>Collar de zafiro manchado por el pecado<INFO>490053</INFO></ITEM>]\n[<ITEM>Collar de ópalo manchado por el pecado<INFO>490055</INFO></ITEM>]"
     },
     "FrHTDA": {
         "ko": "[타밀라]\n[<ITEM>찬란한 빛의 루비 반지<INFO>490056</INFO></ITEM>]\n[<ITEM>찬란한 빛의 아메디스트 반지<INFO>490058</INFO></ITEM>]\n[<ITEM>찬란한 빛의 에메랄드 반지<INFO>490060</INFO></ITEM>]\n[<ITEM>찬란한 빛의 지르콘 반지<INFO>490062</INFO></ITEM>]\n[<ITEM>찬란한 빛의 사파이어 반지<INFO>490064</INFO></ITEM>]\n[<ITEM>찬란한 빛의 아쿠아마린 반지<INFO>490066</INFO></ITEM>]\n[<ITEM>찬란한 빛의 루비 목걸이<INFO>490057</INFO></ITEM>]\n[<ITEM>찬란한 빛의 아메디스트 목걸이<INFO>490059</INFO></ITEM>]\n[<ITEM>찬란한 빛의 에메랄드 목걸이<INFO>490061</INFO></ITEM>]\n[<ITEM>찬란한 빛의 지르콘 목걸이<INFO>490063</INFO></ITEM>]\n[<ITEM>찬란한 빛의 사파이어 목걸이<INFO>490065</INFO></ITEM>]\n[<ITEM>찬란한 빛의 아쿠아마린 목걸이<INFO>490067</INFO></ITEM>]",
         "en": "[Tamila]\n[<ITEM>Brilliant Light Ruby Ring<INFO>490056</INFO></ITEM>]\n[<ITEM>Brilliant Light Amethyst Ring<INFO>490058</INFO></ITEM>]\n[<ITEM>Brilliant Light Emerald Ring<INFO>490060</INFO></ITEM>]\n[<ITEM>Brilliant Light Zircon Ring<INFO>490062</INFO></ITEM>]\n[<ITEM>Brilliant Light Sapphire Ring<INFO>490064</INFO></ITEM>]\n[<ITEM>Brilliant Light Aquamarine Ring<INFO>490066</INFO></ITEM>]\n[<ITEM>Brilliant Light Ruby Necklace<INFO>490057</INFO></ITEM>]\n[<ITEM>Brilliant Light Amethyst Necklace<INFO>490059</INFO></ITEM>]\n[<ITEM>Brilliant Light Emerald Necklace<INFO>490061</INFO></ITEM>]\n[<ITEM>Brilliant Light Zircon Necklace<INFO>490063</INFO></ITEM>]\n[<ITEM>Brilliant Light Sapphire Necklace<INFO>490065</INFO></ITEM>]\n[<ITEM>Brilliant Light Aquamarine Necklace<INFO>490067</INFO></ITEM>]",
-        "pt": "[Tamila]\n[<ITEM>Anel Rubi Radiante<INFO>490056</INFO></ITEM>]\n[<ITEM>Anel Ametista Radiante<INFO>490058</INFO></ITEM>]\n[<ITEM>Anel Esmeralda Radiante<INFO>490060</INFO></ITEM>]\n[<ITEM>Anel Zircão Radiante<INFO>490062</INFO></ITEM>]\n[<ITEM>Anel Safira Radiante<INFO>490064</INFO></ITEM>]\n[<ITEM>Anel Água-Marinha Radiante<INFO>490066</INFO></ITEM>]\n[<ITEM>Colar Rubi Radiante<INFO>490057</INFO></ITEM>]\n[<ITEM>Colar Ametista Radiante<INFO>490059</INFO></ITEM>]\n[<ITEM>Colar Esmeralda Radiante<INFO>490061</INFO></ITEM>]\n[<ITEM>Colar Zircão Radiante<INFO>490063</INFO></ITEM>]\n[<ITEM>Colar Safira Radiante<INFO>490065</INFO></ITEM>]\n[<ITEM>Colar Água-Marinha Radiante<INFO>490067</INFO></ITEM>]",
+        "pt": "[Tamila]\n[<ITEM>Anel Radiante Rubi<INFO>490056</INFO></ITEM>]\n[<ITEM>Anel Radiante Ametista<INFO>490058</INFO></ITEM>]\n[<ITEM>Anel Radiante Esmeralda<INFO>490060</INFO></ITEM>]\n[<ITEM>Anel Radiante Zircônio<INFO>490062</INFO></ITEM>]\n[<ITEM>Anel Radiante Safira<INFO>490064</INFO></ITEM>]\n[<ITEM>Anel Radiante Aquamarina<INFO>490066</INFO></ITEM>]\n[<ITEM>Colar Radiante Rubi<INFO>490057</INFO></ITEM>]\n[<ITEM>Colar Radiante Ametista<INFO>490059</INFO></ITEM>]\n[<ITEM>Colar Radiante Esmeralda<INFO>490061</INFO></ITEM>]\n[<ITEM>Colar Radiante Zircônio<INFO>490063</INFO></ITEM>]\n[<ITEM>Colar Radiante Safira<INFO>490065</INFO></ITEM>]\n[<ITEM>Colar Radiante Aquamarina<INFO>490067</INFO></ITEM>]",
         "es": "[Tamila]\n[<ITEM>Anillo de rubí de luz resplandeciente<INFO>490056</INFO></ITEM>]\n[<ITEM>Anillo de amatista de luz resplandeciente<INFO>490058</INFO></ITEM>]\n[<ITEM>Anillo de esmeralda de luz resplandeciente<INFO>490060</INFO></ITEM>]\n[<ITEM>Anillo de circón de luz resplandeciente<INFO>490062</INFO></ITEM>]\n[<ITEM>Anillo de zafiro de luz resplandeciente<INFO>490064</INFO></ITEM>]\n[<ITEM>Anillo de aguamarina de luz resplandeciente<INFO>490066</INFO></ITEM>]\n[<ITEM>Collar de rubí de luz resplandeciente<INFO>490057</INFO></ITEM>]\n[<ITEM>Collar de amatista de luz resplandeciente<INFO>490059</INFO></ITEM>]\n[<ITEM>Collar de esmeralda de luz resplandeciente<INFO>490061</INFO></ITEM>]\n[<ITEM>Collar de circón de luz resplandeciente<INFO>490063</INFO></ITEM>]\n[<ITEM>Collar de zafiro de luz resplandeciente<INFO>490065</INFO></ITEM>]\n[<ITEM>Collar de aguamarina de luz resplandeciente<INFO>490067</INFO></ITEM>]"
     },
     "F7HTDA": {
         "ko": "[타밀라]\n앞서 설명드린 장비들을 3-4소켓까지 강화가 가능하고 강화 방식에 따라 필요 요금이 달라져요. 강화를 시도하실때 방식에 맞는 요금을 알려드리도록 하죠.",
         "en": "[Tamila]\nThe equipment mentioned earlier can be enhanced up to 3–4 sockets, and the required cost will vary depending on the enhancement method. When you attempt an enhancement, I will inform you of the appropriate fee.",
-        "pt": "[Tamila]\nOs equipamentos explicados anteriormente podem ser aprimorados até 3–4 slots, e o custo varia conforme o método de aprimoramento. Quando tentar aprimorar, informarei o custo correspondente.",
+        "pt": "[Tamila]\nEsses acessórios podem ser encantados nos 3º e 4º slots. O custo varia conforme o método. Quando tentar encantar, informarei o preço de acordo com a dificuldade.",
         "es": "[Tamila]\nLos equipos mencionados pueden reforzarse hasta 3–4 ranuras, y el costo varía según el método de mejora. Cuando intentes reforzar, te indicaré el costo correspondiente."
     },
     "GLHTDA": {
         "ko": "[타밀라]\n초기화 기능도 존재하니 효능이 맘에 들지않으면 언제든 재도전 할 수 있어요.",
         "en": "[Tamila]\nThere is also a reset function, so if you are not satisfied with the effect, you can try again at any time.",
-        "pt": "[Tamila]\nTambém existe a função de redefinição, então se não gostar do efeito poderá tentar novamente a qualquer momento.",
+        "pt": "[Tamila]\nTambém existe a função de reset, então se não gostar do efeito poderá tentar novamente a qualquer momento.",
         "es": "[Tamila]\nTambién existe la función de reinicio, así que si no te gusta el resultado puedes volver a intentarlo cuando quieras."
     },
     "GbHTDA": {
         "ko": "[타밀라]\n설명보단 역시 직접해보는게 최고겠죠? 강화대상 장비를 구하시면 절 찾아주세요.",
         "en": "[Tamila]\nRather than explanations, trying it yourself is best, right? Once you obtain equipment for enhancement, come find me.",
-        "pt": "[Tamila]\nMas é claro, nada melhor do que experimentar na prática. Quando conseguir um equipamento adequado, venha me procurar.",
+        "pt": "[Tamila]\nMas é claro, nada melhor do que experimentar na prática. Quando conseguir um acessório adequado, venha me procurar.",
         "es": "[Tamila]\nAunque es mejor probarlo directamente que explicarlo. Cuando consigas el equipo adecuado para reforzar, ven a verme."
     },
     "GrHTDA": {
@@ -170,13 +170,13 @@
     "HLHTDA": {
         "ko": "오른쪽",
         "en": "Right",
-        "pt": "Direita",
+        "pt": "Lado direito",
         "es": "Derecha"
     },
     "HbHTDA": {
         "ko": "왼쪽",
         "en": "Left",
-        "pt": "Esquerda",
+        "pt": "Lado esquerdo",
         "es": "Izquierda"
     },
     "HrHTDA": {
@@ -188,7 +188,7 @@
     "H7HTDA": {
         "ko": "[타밀라]\n장비를 벗고 계신건 아닌가요?",
         "en": "[Tamila]\nAre you not wearing your equipment?",
-        "pt": "[Tamila]\nVocê não está sem o equipamento equipado, está?",
+        "pt": "[Tamila]\nE cadê o acessório equipado no lado correto?",
         "es": "[Tamila]\n¿No estarás sin el equipo puesto?"
     },
     "ILHTDA": {
@@ -200,229 +200,229 @@
     "IbHTDA": {
         "ko": "죄악으로 물든 루비 반지",
         "en": "Ruby Ring Tainted by Sin",
-        "pt": "Anel de Rubi do Pecado",
+        "pt": "Anel Profano Rubi",
         "es": "Anillo de rubí manchado por el pecado"
     },
     "IrHTDA": {
         "ko": "죄악으로 물든 에메랄드 반지",
         "en": "Emerald Ring Tainted by Sin",
-        "pt": "Anel de Esmeralda do Pecado",
+        "pt": "Anel Profano Esmeralda",
         "es": "Anillo de esmeralda manchado por el pecado"
     },
     "I7HTDA": {
         "ko": "죄악으로 물든 토파즈 반지",
         "en": "Topaz Ring Tainted by Sin",
-        "pt": "Anel de Topázio do Pecado",
+        "pt": "Anel Profano Topázio",
         "es": "Anillo de topacio manchado por el pecado"
     },
     "JLHTDA": {
         "ko": "죄악으로 물든 아메디스트 반지",
         "en": "Amethyst Ring Tainted by Sin",
-        "pt": "Anel de Ametista do Pecado",
+        "pt": "Anel Profano Ametista",
         "es": "Anillo de amatista manchado por el pecado"
     },
     "JbHTDA": {
         "ko": "죄악으로 물든 사파이어 반지",
         "en": "Sapphire Ring Tainted by Sin",
-        "pt": "Anel de Safira do Pecado",
+        "pt": "Anel Profano Safira",
         "es": "Anillo de zafiro manchado por el pecado"
     },
     "JrHTDA": {
         "ko": "죄악으로 물든 오팔 반지",
         "en": "Opal Ring Tainted by Sin",
-        "pt": "Anel de Opala do Pecado",
+        "pt": "Anel Profano Opala",
         "es": "Anillo de ópalo manchado por el pecado"
     },
     "J7HTDA": {
         "ko": "죄악으로 물든 루비 목걸이",
         "en": "Ruby Necklace Tainted by Sin",
-        "pt": "Colar de Rubi do Pecado",
+        "pt": "Colar Profano Rubi",
         "es": "Collar de rubí manchado por el pecado"
     },
     "KLHTDA": {
         "ko": "죄악으로 물든 에메랄드 목걸이",
         "en": "Emerald Necklace Tainted by Sin",
-        "pt": "Colar de Esmeralda do Pecado",
+        "pt": "Colar Profano Esmeralda",
         "es": "Collar de esmeralda manchado por el pecado"
     },
     "KbHTDA": {
         "ko": "죄악으로 물든 토파즈 목걸이",
         "en": "Topaz Necklace Tainted by Sin",
-        "pt": "Colar de Topázio do Pecado",
+        "pt": "Colar Profano Topázio",
         "es": "Collar de topacio manchado por el pecado"
     },
     "KrHTDA": {
         "ko": "죄악으로 물든 아메디스트 목걸이",
         "en": "Amethyst Necklace Tainted by Sin",
-        "pt": "Colar de Ametista do Pecado",
+        "pt": "Colar Profano Ametista",
         "es": "Collar de amatista manchado por el pecado"
     },
     "K7HTDA": {
         "ko": "죄악으로 물든 사파이어 목걸이",
         "en": "Sapphire Necklace Tainted by Sin",
-        "pt": "Colar de Safira do Pecado",
+        "pt": "Colar Profano Safira",
         "es": "Collar de zafiro manchado por el pecado"
     },
     "LLHTDA": {
         "ko": "죄악으로 물든 오팔 목걸이",
         "en": "Opal Necklace Tainted by Sin",
-        "pt": "Colar de Opala do Pecado",
+        "pt": "Colar Profano Opala",
         "es": "Collar de ópalo manchado por el pecado"
     },
     "LbHTDA": {
         "ko": "찬란한 빛의 루비 반지",
         "en": "Brilliant Light Ruby Ring",
-        "pt": "Anel Rubi Radiante",
+        "pt": "Anel Radiante Rubi",
         "es": "Anillo de rubí de luz resplandeciente"
     },
     "LrHTDA": {
         "ko": "찬란한 빛의 아메디스트 반지",
         "en": "Brilliant Light Amethyst Ring",
-        "pt": "Anel Ametista Radiante",
+        "pt": "Anel Radiante Ametista",
         "es": "Anillo de amatista de luz resplandeciente"
     },
     "L7HTDA": {
         "ko": "찬란한 빛의 에메랄드 반지",
         "en": "Brilliant Light Emerald Ring",
-        "pt": "Anel Esmeralda Radiante",
+        "pt": "Anel Radiante Esmeralda",
         "es": "Anillo de esmeralda de luz resplandeciente"
     },
     "MLHTDA": {
         "ko": "찬란한 빛의 지르콘 반지",
         "en": "Brilliant Light Zircon Ring",
-        "pt": "Anel Zircão Radiante",
+        "pt": "Anel Radiante Zircônio",
         "es": "Anillo de circón de luz resplandeciente"
     },
     "MbHTDA": {
         "ko": "찬란한 빛의 사파이어 반지",
         "en": "Brilliant Light Sapphire Ring",
-        "pt": "Anel Safira Radiante",
+        "pt": "Anel Radiante Safira",
         "es": "Anillo de zafiro de luz resplandeciente"
     },
     "MrHTDA": {
         "ko": "찬란한 빛의 아쿠아마린 반지",
         "en": "Brilliant Light Aquamarine Ring",
-        "pt": "Anel Água-Marinha Radiante",
+        "pt": "Anel Radiante Aquamarina",
         "es": "Anillo de aguamarina de luz resplandeciente"
     },
     "M7HTDA": {
         "ko": "찬란한 빛의 루비 목걸이",
         "en": "Brilliant Light Ruby Necklace",
-        "pt": "Colar Rubi Radiante",
+        "pt": "Colar Radiante Rubi",
         "es": "Collar de rubí de luz resplandeciente"
     },
     "NLHTDA": {
         "ko": "찬란한 빛의 아메디스트 목걸이",
         "en": "Brilliant Light Amethyst Necklace",
-        "pt": "Colar Ametista Radiante",
+        "pt": "Colar Radiante Ametista",
         "es": "Collar de amatista de luz resplandeciente"
     },
     "NbHTDA": {
         "ko": "찬란한 빛의 에메랄드 목걸이",
         "en": "Brilliant Light Emerald Necklace",
-        "pt": "Colar Esmeralda Radiante",
+        "pt": "Colar Radiante Esmeralda",
         "es": "Collar de esmeralda de luz resplandeciente"
     },
     "NrHTDA": {
         "ko": "찬란한 빛의 지르콘 목걸이",
         "en": "Brilliant Light Zircon Necklace",
-        "pt": "Colar Zircão Radiante",
+        "pt": "Colar Radiante Zircônio",
         "es": "Collar de circón de luz resplandeciente"
     },
     "N7HTDA": {
         "ko": "찬란한 빛의 사파이어 목걸이",
         "en": "Brilliant Light Sapphire Necklace",
-        "pt": "Colar Safira Radiante",
+        "pt": "Colar Radiante Safira",
         "es": "Collar de zafiro de luz resplandeciente"
     },
     "OLHTDA": {
         "ko": "찬란한 빛의 아쿠아마린 목걸이",
         "en": "Brilliant Light Aquamarine Necklace",
-        "pt": "Colar Água-Marinha Radiante",
+        "pt": "Colar Radiante Aquamarina",
         "es": "Collar de aguamarina de luz resplandeciente"
     },
     "ObHTDA": {
         "ko": "[타밀라]\n이 장비는 저희 지부에서 처리 가능한 품목이 아닙니다.",
         "en": "[Tamila]\nThis equipment is not an item that our branch can process.",
-        "pt": "[Tamila]\nEste equipamento não pode ser processado em nossa filial.",
+        "pt": "[Tamila]\nEu não trabalho com esse acessório aí não.",
         "es": "[Tamila]\nEste equipo no puede procesarse en nuestra sucursal."
     },
     "OrHTDA": {
         "ko": "[타밀라]\n이 장비는 이미 한계까지 강화된 것 같은데요?",
         "en": "[Tamila]\nThis equipment seems to have already been enhanced to its limit.",
-        "pt": "[Tamila]\nEste equipamento já parece ter sido aprimorado até o limite.",
+        "pt": "[Tamila]\nEsse acessório já foi encantado até o limite.",
         "es": "[Tamila]\n¿No estará ya reforzado al máximo?"
     },
     "O7HTDA": {
         "ko": "[타밀라]\n효능 카테고리를 선택해서 슬롯 하나씩 강화하는 방법과 한번에 3.4 슬롯 모두에 강화하는 방법이 있습니다. ^FF0000한번에 강화하는 방법은 효능 선택을 할 수 없어요.^000000 어느쪽을 선택하시겠어요?",
         "en": "[Tamila]\nYou may enhance one slot at a time by selecting an effect category, or enhance all 3–4 slots at once. ^FF0000If you choose the all-at-once method, you cannot select the effects.^000000 Which will you choose?",
-        "pt": "[Tamila]\nVocê pode escolher aprimorar um slot por vez selecionando a categoria de efeito, ou aprimorar todos os slots 3 e 4 de uma vez. ^FF0000No método de aprimoramento completo não é possível escolher o efeito.^000000 Qual deseja?",
+        "pt": "[Tamila]\nVocê pode escolher encantar um slot por vez selecionando a categoria, ou encantar todos os dois slots de uma só vez. ^FF0000Nesse segundo método, não é possível escolher a categoria.^000000 Qual deseja?",
         "es": "[Tamila]\nPuedes reforzar seleccionando cada categoría de efecto ranura por ranura, o reforzar todas las ranuras 3 y 4 de una vez. ^FF0000Si eliges reforzar todo de una vez no podrás elegir los efectos.^000000 ¿Cuál prefieres?"
     },
     "PLHTDA": {
         "ko": "효능을 직접 하나하나 고르겠다",
         "en": "I will select each effect individually",
-        "pt": "Escolher os efeitos manualmente",
+        "pt": "Escolher os encantos.",
         "es": "Elegir los efectos uno por uno"
     },
     "PbHTDA": {
         "ko": "한방에 모두 내 운에 맡긴다!!",
         "en": "I will leave everything to my luck at once!!",
-        "pt": "Deixar tudo para a sorte!!",
+        "pt": "Quero tudo aleatório!!!",
         "es": "¡¡Dejar todo a mi suerte de una vez!!"
     },
     "PrHTDA": {
         "ko": "[타밀라]\n강화 효능을 선택해주세요.",
         "en": "[Tamila]\nPlease select the enhancement effect.",
-        "pt": "[Tamila]\nSelecione o efeito de aprimoramento.",
+        "pt": "[Tamila]\nSelecione o encanto.",
         "es": "[Tamila]\nElige el efecto de mejora."
     },
     "P7HTDA": {
         "ko": "역린",
         "en": "Reverse Scale",
-        "pt": "Escama Reversa",
+        "pt": "Maldade",
         "es": "Escama inversa"
     },
     "QLHTDA": {
         "ko": "용린",
         "en": "Dragon Scale",
-        "pt": "Escama de Dragão",
+        "pt": "Crueldade",
         "es": "Escama de dragón"
     },
     "QbHTDA": {
         "ko": "신마",
         "en": "Shinma",
-        "pt": "Shinma",
+        "pt": "Bondade",
         "es": "Dios demoníaco"
     },
     "QrHTDA": {
         "ko": "멸마",
         "en": "Demon Bane",
-        "pt": "Exorcismo Demoníaco",
+        "pt": "Generosidade",
         "es": "Aniquilademonios"
     },
     "Q7HTDA": {
         "ko": "분노",
         "en": "Rage",
-        "pt": "Fúria",
+        "pt": "Ira",
         "es": "Ira"
     },
     "RLHTDA": {
         "ko": "공포",
         "en": "Fear",
-        "pt": "Medo",
+        "pt": "Horror",
         "es": "Miedo"
     },
     "RbHTDA": {
         "ko": "원망",
         "en": "Grudge",
-        "pt": "Ressentimento",
+        "pt": "Rancor",
         "es": "Resentimiento"
     },
     "RrHTDA": {
         "ko": "후회",
         "en": "Regret",
-        "pt": "Arrependimento",
+        "pt": "Lamento",
         "es": "Arrepentimiento"
     },
     "R7HTDA": {
@@ -434,37 +434,37 @@
     "SLHTDA": {
         "ko": "행복",
         "en": "Happiness",
-        "pt": "Felicidade",
+        "pt": "Alegria",
         "es": "Felicidad"
     },
     "SbHTDA": {
         "ko": "안식",
         "en": "Vaporize",
-        "pt": "Vaporizar",
+        "pt": "Abrigo",
         "es": "Evaporización"
     },
     "SrHTDA": {
         "ko": "위로",
         "en": "Comfort",
-        "pt": "Consolo",
+        "pt": "Conforto",
         "es": "Consuelo"
     },
     "S7HTDA": {
         "ko": "[타밀라]\n이전에 선택강화를 하셨는데요. 이 상태론 한방에 강화하는건 불가능해요. 강화한 적 없는 장비를 들고오세요.",
         "en": "[Tamila]\nYou previously used selective enhancement. In this state, all-at-once enhancement is not possible. Please bring equipment that has never been enhanced.",
-        "pt": "[Tamila]\nVocê já realizou aprimoramento seletivo antes. Nesse estado não é possível usar o método de aprimoramento total. Traga um equipamento sem aprimoramentos.",
+        "pt": "[Tamila]\nVocê já realizou um encantamento seletivo antes. Nesse estado não é possível usar o método aleatório. Traga um acessório sem encantos.",
         "es": "[Tamila]\nYa realizaste una mejora selectiva antes. En este estado no puedes usar el refuerzo total. Trae un equipo que no haya sido reforzado."
     },
     "TLHTDA": {
         "ko": "죄악의 조각",
         "en": "Fragment of Sin",
-        "pt": "Fragmento do Pecado",
+        "pt": "Cristal do Pecado",
         "es": "Fragmento de pecado"
     },
     "TbHTDA": {
         "ko": "선의의 조각",
         "en": "Fragment of Goodwill",
-        "pt": "Fragmento de Benevolência",
+        "pt": "Cristal da Virtude",
         "es": "Fragmento de buena voluntad"
     },
     "TrHTDA": {
@@ -476,19 +476,19 @@
     "T7HTDA": {
         "ko": "[타밀라]\n[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\n===============\n[강화재료]\n[<ITEM>{2}<INFO>{3}</INFO></ITEM>] {4}개",
         "en": "[Tamila]\n[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\n===============\n[Enhancement Materials]\n[<ITEM>{2}<INFO>{3}</INFO></ITEM>] {4}",
-        "pt": "[Tamila]\n[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\n===============\n[Materiais de Aprimoramento]\n[<ITEM>{2}<INFO>{3}</INFO></ITEM>] {4}",
+        "pt": "[Tamila]\n[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\n===============\n[Materiais]\n{4}x [<ITEM>{2}<INFO>{3}</INFO></ITEM>]",
         "es": "[Tamila]\n[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\n===============\n[Material de mejora]\n[<ITEM>{2}<INFO>{3}</INFO></ITEM>] {4}"
     },
     "ULHTDA": {
         "ko": "^0000FF{0}^000000 제니",
         "en": "^0000FF{0}^000000 Zeny",
-        "pt": "^0000FF{0}^000000 Zeny",
+        "pt": "^0000FF{0}^000000 zeny",
         "es": "^0000FF{0}^000000 zeny"
     },
     "UbHTDA": {
         "ko": "===============\n정말 이 장비를 이 재료로 강화 하시겠습니까?",
         "en": "===============\nAre you sure you want to enhance this equipment with these materials?",
-        "pt": "===============\nDeseja realmente aprimorar este equipamento com estes materiais?",
+        "pt": "===============\nDeseja continuar?",
         "es": "===============\n¿Deseas reforzar este equipo con estos materiales?"
     },
     "UrHTDA": {
@@ -500,301 +500,301 @@
     "U7HTDA": {
         "ko": "강화를 진행한다",
         "en": "Proceed with Enhancement",
-        "pt": "Realizar aprimoramento",
+        "pt": "Encantar",
         "es": "Proceder con la mejora"
     },
     "VLHTDA": {
         "ko": "[타밀라]\n강화를 원하실때 다시 찾아주세요.",
         "en": "[Tamila]\nPlease come back when you wish to enhance.",
-        "pt": "[Tamila]\nVolte quando desejar aprimorar.",
+        "pt": "[Tamila]\nVolte quando desejar encantar.",
         "es": "[Tamila]\nVuelve cuando quieras reforzar."
     },
     "VbHTDA": {
         "ko": "1 역린",
         "en": "1 Reverse Scale",
-        "pt": "1 Escama Reversa",
+        "pt": "1 Maldade",
         "es": "1 Escama inversa"
     },
     "VrHTDA": {
         "ko": "역린 Lv1",
         "en": "Reverse Scale Lv1",
-        "pt": "Escama Reversa Lv1",
+        "pt": "Maldade 1",
         "es": "Escama inversa Lv1"
     },
     "V7HTDA": {
         "ko": "역린 Lv2",
         "en": "Reverse Scale Lv2",
-        "pt": "Escama Reversa Lv2",
+        "pt": "Maldade 2",
         "es": "Escama inversa Lv2"
     },
     "WLHTDA": {
         "ko": "역린 Lv3",
         "en": "Reverse Scale Lv3",
-        "pt": "Escama Reversa Lv3",
+        "pt": "Maldade 3",
         "es": "Escama inversa Lv3"
     },
     "WbHTDA": {
         "ko": "역린 Lv4",
         "en": "Reverse Scale Lv4",
-        "pt": "Escama Reversa Lv4",
+        "pt": "Maldade 4",
         "es": "Escama inversa Lv4"
     },
     "WrHTDA": {
         "ko": "역린 Lv5",
         "en": "Reverse Scale Lv5",
-        "pt": "Escama Reversa Lv5",
+        "pt": "Maldade 5",
         "es": "Escama inversa Lv5"
     },
     "W7HTDA": {
         "ko": "2 용린",
         "en": "2 Dragon Scale",
-        "pt": "2 Escama de Dragão",
+        "pt": "2 Crueldade",
         "es": "2 Escama de dragón"
     },
     "XLHTDA": {
         "ko": "용린 Lv1",
         "en": "Dragon Scale Lv1",
-        "pt": "Escama de Dragão Lv1",
+        "pt": "Crueldade 1",
         "es": "Escama de dragón Lv1"
     },
     "XbHTDA": {
         "ko": "용린 Lv2",
         "en": "Dragon Scale Lv2",
-        "pt": "Escama de Dragão Lv2",
+        "pt": "Crueldade 2",
         "es": "Escama de dragón Lv2"
     },
     "XrHTDA": {
         "ko": "용린 Lv3",
         "en": "Dragon Scale Lv3",
-        "pt": "Escama de Dragão Lv3",
+        "pt": "Crueldade 3",
         "es": "Escama de dragón Lv3"
     },
     "X7HTDA": {
         "ko": "용린 Lv4",
         "en": "Dragon Scale Lv4",
-        "pt": "Escama de Dragão Lv4",
+        "pt": "Crueldade 4",
         "es": "Escama de dragón Lv4"
     },
     "YLHTDA": {
         "ko": "용린 Lv5",
         "en": "Dragon Scale Lv5",
-        "pt": "Escama de Dragão Lv5",
+        "pt": "Crueldade 5",
         "es": "Escama de dragón Lv5"
     },
     "YbHTDA": {
         "ko": "3 분노",
         "en": "3 Rage",
-        "pt": "3 Fúria",
+        "pt": "3 Ira",
         "es": "3 Ira"
     },
     "YrHTDA": {
         "ko": "분노 Lv1",
         "en": "Rage Lv1",
-        "pt": "Fúria Lv1",
+        "pt": "Ira 1",
         "es": "Ira Lv1"
     },
     "Y7HTDA": {
         "ko": "분노 Lv2",
         "en": "Rage Lv2",
-        "pt": "Fúria Lv2",
+        "pt": "Ira 2",
         "es": "Ira Lv2"
     },
     "ZLHTDA": {
         "ko": "분노 Lv3",
         "en": "Rage Lv3",
-        "pt": "Fúria Lv3",
+        "pt": "Ira 3",
         "es": "Ira Lv3"
     },
     "ZbHTDA": {
         "ko": "분노 Lv4",
         "en": "Rage Lv4",
-        "pt": "Fúria Lv4",
+        "pt": "Ira 4",
         "es": "Ira Lv4"
     },
     "ZrHTDA": {
         "ko": "분노 Lv5",
         "en": "Rage Lv5",
-        "pt": "Fúria Lv5",
+        "pt": "Ira 5",
         "es": "Ira Lv5"
     },
     "Z7HTDA": {
         "ko": "4 공포",
         "en": "4 Fear",
-        "pt": "4 Medo",
+        "pt": "4 Horror",
         "es": "4 Miedo"
     },
     "aLHTDA": {
         "ko": "공포 Lv1",
         "en": "Fear Lv1",
-        "pt": "Medo Lv1",
+        "pt": "Horror 1",
         "es": "Miedo Lv1"
     },
     "abHTDA": {
         "ko": "공포 Lv2",
         "en": "Fear Lv2",
-        "pt": "Medo Lv2",
+        "pt": "Horror 2",
         "es": "Miedo Lv2"
     },
     "arHTDA": {
         "ko": "공포 Lv3",
         "en": "Fear Lv3",
-        "pt": "Medo Lv3",
+        "pt": "Horror 3",
         "es": "Miedo Lv3"
     },
     "a7HTDA": {
         "ko": "공포 Lv4",
         "en": "Fear Lv4",
-        "pt": "Medo Lv4",
+        "pt": "Horror 4",
         "es": "Miedo Lv4"
     },
     "bLHTDA": {
         "ko": "공포 Lv5",
         "en": "Fear Lv5",
-        "pt": "Medo Lv5",
+        "pt": "Horror 5",
         "es": "Miedo Lv5"
     },
     "bbHTDA": {
         "ko": "5 원망",
         "en": "5 Grudge",
-        "pt": "5 Ressentimento",
+        "pt": "5 Rancor",
         "es": "5 Resentimiento"
     },
     "brHTDA": {
         "ko": "원망 Lv1",
         "en": "Grudge Lv1",
-        "pt": "Ressentimento Lv1",
+        "pt": "Rancor 1",
         "es": "Resentimiento Lv1"
     },
     "b7HTDA": {
         "ko": "원망 Lv2",
         "en": "Grudge Lv2",
-        "pt": "Ressentimento Lv2",
+        "pt": "Rancor 2",
         "es": "Resentimiento Lv2"
     },
     "cLHTDA": {
         "ko": "원망 Lv3",
         "en": "Grudge Lv3",
-        "pt": "Ressentimento Lv3",
+        "pt": "Rancor 3",
         "es": "Resentimiento Lv3"
     },
     "cbHTDA": {
         "ko": "원망 Lv4",
         "en": "Grudge Lv4",
-        "pt": "Ressentimento Lv4",
+        "pt": "Rancor 4",
         "es": "Resentimiento Lv4"
     },
     "crHTDA": {
         "ko": "원망 Lv5",
         "en": "Grudge Lv5",
-        "pt": "Ressentimento Lv5",
+        "pt": "Rancor 5",
         "es": "Resentimiento Lv5"
     },
     "c7HTDA": {
         "ko": "6 후회",
         "en": "6 Regret",
-        "pt": "6 Arrependimento",
+        "pt": "6 Lamento",
         "es": "6 Arrepentimiento"
     },
     "dLHTDA": {
         "ko": "후회 Lv1",
         "en": "Regret Lv1",
-        "pt": "Arrependimento Lv1",
+        "pt": "Lamento 1",
         "es": "Arrepentimiento Lv1"
     },
     "dbHTDA": {
         "ko": "후회 Lv2",
         "en": "Regret Lv2",
-        "pt": "Arrependimento Lv2",
+        "pt": "Lamento 2",
         "es": "Arrepentimiento Lv2"
     },
     "drHTDA": {
         "ko": "후회 Lv3",
         "en": "Regret Lv3",
-        "pt": "Arrependimento Lv3",
+        "pt": "Lamento 3",
         "es": "Arrepentimiento Lv3"
     },
     "d7HTDA": {
         "ko": "후회 Lv4",
         "en": "Regret Lv4",
-        "pt": "Arrependimento Lv4",
+        "pt": "Lamento 4",
         "es": "Arrepentimiento Lv4"
     },
     "eLHTDA": {
         "ko": "후회 Lv5",
         "en": "Regret Lv5",
-        "pt": "Arrependimento Lv5",
+        "pt": "Lamento 5",
         "es": "Arrepentimiento Lv5"
     },
     "ebHTDA": {
         "ko": "11 신마",
         "en": "11 Shinma",
-        "pt": "11 Shinma",
+        "pt": "11 Bondade",
         "es": "11 Dios demoníaco"
     },
     "erHTDA": {
         "ko": "신마 Lv1",
         "en": "Shinma Lv1",
-        "pt": "Shinma Lv1",
+        "pt": "Bondade 1",
         "es": "Dios demoníaco Lv1"
     },
     "e7HTDA": {
         "ko": "신마 Lv2",
         "en": "Shinma Lv2",
-        "pt": "Shinma Lv2",
+        "pt": "Bondade 2",
         "es": "Dios demoníaco Lv2"
     },
     "fLHTDA": {
         "ko": "신마 Lv3",
         "en": "Shinma Lv3",
-        "pt": "Shinma Lv3",
+        "pt": "Bondade 3",
         "es": "Dios demoníaco Lv3"
     },
     "fbHTDA": {
         "ko": "신마 Lv4",
         "en": "Shinma Lv4",
-        "pt": "Shinma Lv4",
+        "pt": "Bondade 4",
         "es": "Dios demoníaco Lv4"
     },
     "frHTDA": {
         "ko": "신마 Lv5",
         "en": "Shinma Lv5",
-        "pt": "Shinma Lv5",
+        "pt": "Bondade 5",
         "es": "Dios demoníaco Lv5"
     },
     "f7HTDA": {
         "ko": "12 멸마",
         "en": "12 Demon Bane",
-        "pt": "12 Exorcismo Demoníaco",
+        "pt": "12 Generosidade",
         "es": "12 Aniquilademonios"
     },
     "gLHTDA": {
         "ko": "멸마 Lv1",
         "en": "Demon Bane Lv1",
-        "pt": "Exorcismo Demoníaco Lv1",
+        "pt": "Generosidade 1",
         "es": "Aniquilademonios Lv1"
     },
     "gbHTDA": {
         "ko": "멸마 Lv2",
         "en": "Demon Bane Lv2",
-        "pt": "Exorcismo Demoníaco Lv2",
+        "pt": "Generosidade 2",
         "es": "Aniquilademonios Lv2"
     },
     "grHTDA": {
         "ko": "멸마 Lv3",
         "en": "Demon Bane Lv3",
-        "pt": "Exorcismo Demoníaco Lv3",
+        "pt": "Generosidade 3",
         "es": "Aniquilademonios Lv3"
     },
     "g7HTDA": {
         "ko": "멸마 Lv4",
         "en": "Demon Bane Lv4",
-        "pt": "Exorcismo Demoníaco Lv4",
+        "pt": "Generosidade 4",
         "es": "Aniquilademonios Lv4"
     },
     "hLHTDA": {
         "ko": "멸마 Lv5",
         "en": "Demon Bane Lv5",
-        "pt": "Exorcismo Demoníaco Lv5",
+        "pt": "Generosidade 5",
         "es": "Aniquilademonios Lv5"
     },
     "hbHTDA": {
@@ -806,139 +806,139 @@
     "hrHTDA": {
         "ko": "공감 Lv1",
         "en": "Empathy Lv1",
-        "pt": "Empatia Lv1",
+        "pt": "Empatia 1",
         "es": "Empatía Lv1"
     },
     "h7HTDA": {
         "ko": "공감 Lv2",
         "en": "Empathy Lv2",
-        "pt": "Empatia Lv2",
+        "pt": "Empatia 2",
         "es": "Empatía Lv2"
     },
     "iLHTDA": {
         "ko": "공감 Lv3",
         "en": "Empathy Lv3",
-        "pt": "Empatia Lv3",
+        "pt": "Empatia 3",
         "es": "Empatía Lv3"
     },
     "ibHTDA": {
         "ko": "공감 Lv4",
         "en": "Empathy Lv4",
-        "pt": "Empatia Lv4",
+        "pt": "Empatia 4",
         "es": "Empatía Lv4"
     },
     "irHTDA": {
         "ko": "공감 Lv5",
         "en": "Empathy Lv5",
-        "pt": "Empatia Lv5",
+        "pt": "Empatia 5",
         "es": "Empatía Lv5"
     },
     "i7HTDA": {
         "ko": "14 행복",
         "en": "14 Happiness",
-        "pt": "14 Felicidade",
+        "pt": "14 Alegria",
         "es": "14 Felicidad"
     },
     "jLHTDA": {
         "ko": "행복 Lv1",
         "en": "Happiness Lv1",
-        "pt": "Felicidade Lv1",
+        "pt": "Alegria 1",
         "es": "Felicidad Lv1"
     },
     "jbHTDA": {
         "ko": "행복 Lv2",
         "en": "Happiness Lv2",
-        "pt": "Felicidade Lv2",
+        "pt": "Alegria 2",
         "es": "Felicidad Lv2"
     },
     "jrHTDA": {
         "ko": "행복 Lv3",
         "en": "Happiness Lv3",
-        "pt": "Felicidade Lv3",
+        "pt": "Alegria 3",
         "es": "Felicidad Lv3"
     },
     "j7HTDA": {
         "ko": "행복 Lv4",
         "en": "Happiness Lv4",
-        "pt": "Felicidade Lv4",
+        "pt": "Alegria 4",
         "es": "Felicidad Lv4"
     },
     "kLHTDA": {
         "ko": "행복 Lv5",
         "en": "Happiness Lv5",
-        "pt": "Felicidade Lv5",
+        "pt": "Alegria 5",
         "es": "Felicidad Lv5"
     },
     "kbHTDA": {
         "ko": "15 안식",
         "en": "15 Vaporize",
-        "pt": "15 Vaporizar",
+        "pt": "15 Abrigo",
         "es": "15 Evaporización"
     },
     "krHTDA": {
         "ko": "안식 Lv1",
         "en": "Vaporize Lv1",
-        "pt": "Vaporizar Lv1",
+        "pt": "Abrigo 1",
         "es": "Evaporización Lv1"
     },
     "k7HTDA": {
         "ko": "안식 Lv2",
         "en": "Vaporize Lv2",
-        "pt": "Vaporizar Lv2",
+        "pt": "Abrigo 2",
         "es": "Evaporización Lv2"
     },
     "lLHTDA": {
         "ko": "안식 Lv3",
         "en": "Vaporize Lv3",
-        "pt": "Vaporizar Lv3",
+        "pt": "Abrigo 3",
         "es": "Evaporización Lv3"
     },
     "lbHTDA": {
         "ko": "안식 Lv4",
         "en": "Vaporize Lv4",
-        "pt": "Vaporizar Lv4",
+        "pt": "Abrigo 4",
         "es": "Evaporización Lv4"
     },
     "lrHTDA": {
         "ko": "안식 Lv5",
         "en": "Vaporize Lv5",
-        "pt": "Vaporizar Lv5",
+        "pt": "Abrigo 5",
         "es": "Evaporización Lv5"
     },
     "l7HTDA": {
         "ko": "16 위로",
         "en": "16 Comfort",
-        "pt": "16 Consolo",
+        "pt": "16 Conforto",
         "es": "16 Consuelo"
     },
     "mLHTDA": {
         "ko": "위로 Lv1",
         "en": "Comfort Lv1",
-        "pt": "Consolo Lv1",
+        "pt": "Conforto 1",
         "es": "Consuelo Lv1"
     },
     "mbHTDA": {
         "ko": "위로 Lv2",
         "en": "Comfort Lv2",
-        "pt": "Consolo Lv2",
+        "pt": "Conforto 2",
         "es": "Consuelo Lv2"
     },
     "mrHTDA": {
         "ko": "위로 Lv3",
         "en": "Comfort Lv3",
-        "pt": "Consolo Lv3",
+        "pt": "Conforto 3",
         "es": "Consuelo Lv3"
     },
     "m7HTDA": {
         "ko": "위로 Lv4",
         "en": "Comfort Lv4",
-        "pt": "Consolo Lv4",
+        "pt": "Conforto 4",
         "es": "Consuelo Lv4"
     },
     "nLHTDA": {
         "ko": "위로 Lv5",
         "en": "Comfort Lv5",
-        "pt": "Consolo Lv5",
+        "pt": "Conforto 5",
         "es": "Consuelo Lv5"
     },
     "nbHTDA": {
@@ -956,13 +956,13 @@
     "n7HTDA": {
         "ko": "21 선의 랜덤 1",
         "en": "21 Goodwill Random 1",
-        "pt": "21 Benevolência aleatória 1",
+        "pt": "21 Virtude aleatória 1",
         "es": "21 Buena voluntad aleatoria 1"
     },
     "oLHTDA": {
         "ko": "21 선의 랜덤 2",
         "en": "21 Goodwill Random 2",
-        "pt": "21 Benevolência aleatória 2",
+        "pt": "21 Virtude aleatória 2",
         "es": "21 Buena voluntad aleatoria 2"
     },
     "obHTDA": {
@@ -974,7 +974,7 @@
     "orHTDA": {
         "ko": "--{0}번째 인챈트",
         "en": "--{0}th Enchant",
-        "pt": "--Encantamento nº {0}",
+        "pt": "-- Encanto nº {0}",
         "es": "--Encantamiento n.º {0}"
     },
     "o7HTDA": {
@@ -986,7 +986,7 @@
     "pLHTDA": {
         "ko": "[타밀라]\n거래를 위한 재료가 부족하네요. 필요한 품목을 알려드릴테니 다시 한번 천천히 확인해보세요",
         "en": "[Tamila]\nYou do not have enough materials for the transaction. I will list the required items, so please check carefully again.",
-        "pt": "[Tamila]\nFaltam materiais para a transação. Vou informar o que é necessário, então verifique novamente com calma.",
+        "pt": "[Tamila]\nFaltam materiais. Vou informar o que é necessário, então verifique novamente com calma.",
         "es": "[Tamila]\nNo tienes suficientes materiales para la transacción. Te diré lo que necesitas, así que revisa todo con calma."
     },
     "pbHTDA": {
@@ -998,13 +998,13 @@
     "prHTDA": {
         "ko": "^FF0000[<ITEM>{0}<INFO>{1}</INFO></ITEM>] 의 강화가 실패했습니다.^000000",
         "en": "^FF0000[<ITEM>{0}<INFO>{1}</INFO></ITEM>] enhancement failed.^000000",
-        "pt": "^FF0000[<ITEM>{0}<INFO>{1}</INFO></ITEM>] falhou no aprimoramento.^000000",
+        "pt": "^FF0000Falha ao encantar [<ITEM>{0}<INFO>{1}</INFO></ITEM>].^000000",
         "es": "^FF0000[<ITEM>{0}<INFO>{1}</INFO></ITEM>] ha fallado al reforzarse.^000000"
     },
     "p7HTDA": {
         "ko": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>] 의 강화가 완료되었습니다.",
         "en": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>] enhancement completed.",
-        "pt": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>] foi aprimorado com sucesso.",
+        "pt": "Sucesso ao encantar [<ITEM>{0}<INFO>{1}</INFO></ITEM>]!",
         "es": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>] se ha reforzado correctamente."
     },
     "qLHTDA": {
@@ -1016,55 +1016,55 @@
     "qbHTDA": {
         "ko": "[타밀라]\n이 장비는 초기화 할 만큼 충분하게 강화되지 않았습니다.",
         "en": "[Tamila]\nThis equipment has not been enhanced enough to be reset.",
-        "pt": "[Tamila]\nEste equipamento ainda não foi aprimorado o suficiente para ser redefinido.",
+        "pt": "[Tamila]\nEste acessório ainda não foi encantado o suficiente para ser resetado.",
         "es": "[Tamila]\nEste equipo no está lo suficientemente reforzado como para reiniciarlo."
     },
     "qrHTDA": {
         "ko": "[타밀라]\n초기화 비용은 어떻게 처리 하시겠습니까?",
         "en": "[Tamila]\nHow would you like to handle the reset cost?",
-        "pt": "[Tamila]\nComo deseja pagar o custo da redefinição?",
+        "pt": "[Tamila]\nComo deseja pagar o reset?",
         "es": "[Tamila]\n¿Cómo deseas pagar el costo de reinicio?"
     },
     "q7HTDA": {
         "ko": "100만 제니",
         "en": "1,000,000 Zeny",
-        "pt": "1.000.000 Zeny",
+        "pt": "1.000.000 zeny",
         "es": "1 000 000 zeny"
     },
     "rLHTDA": {
         "ko": "냥다래 열매 3개",
         "en": "3 Nyangvine",
-        "pt": "3 MiauMiau",
+        "pt": "3x MiauMiau",
         "es": "Miaufruto x3"
     },
     "rbHTDA": {
         "ko": "[타밀라]\n원하실 때 다시 이용해 주십시오.",
         "en": "[Tamila]\nPlease use this service again whenever you wish.",
-        "pt": "[Tamila]\nVolte quando desejar utilizar novamente.",
+        "pt": "[Tamila]\nVolte quando quiser.",
         "es": "[Tamila]\nVuelve cuando quieras."
     },
     "rrHTDA": {
         "ko": "제니를 이용한 초기화시 성공률은 70% 이며 실패시 ^FF0000장비가 파괴됩니다.^000000 정말 진행하시겠습니까?",
         "en": "The reset success rate using Zeny is 70%, and if it fails ^FF0000the equipment will be destroyed.^000000 Do you wish to proceed?",
-        "pt": "A redefinição usando Zeny tem 70% de chance de sucesso e, em caso de falha, ^FF0000o equipamento será destruído.^000000 Deseja continuar?",
+        "pt": "O reset via Zeny tem 70% de chance de sucesso. Em caso de falha, ^FF0000o acessório será perdido.^000000 Deseja continuar?",
         "es": "La probabilidad de éxito al reiniciar con zeny es del 70%, y si falla ^FF0000el equipo será destruido.^000000 ¿Deseas continuar?"
     },
     "r7HTDA": {
         "ko": "냥다래열매를 이용하여 초기화시 100% 성공합니다. 이대로 진행하시겠습니까?",
         "en": "Reset using Nyangvine Fruit will succeed 100%. Proceed?",
-        "pt": "A redefinição usando Fruto Nyangdara terá 100% de sucesso. Deseja continuar?",
+        "pt": "O reset via MiauMiau tem 100% de sucesso. Deseja continuar?",
         "es": "Si usas Miaufrutos el reinicio tendrá 100% de éxito. ¿Deseas continuar?"
     },
     "sLHTDA": {
         "ko": "진행한다",
         "en": "Proceed",
-        "pt": "Prosseguir",
+        "pt": "Continuar",
         "es": "Continuar"
     },
     "sbHTDA": {
         "ko": "[타밀라]\n초기화 비용 100만 제니가 부족하군요. 소지금을 다시 확인해 주시기 바랍니다.",
         "en": "[Tamila]\nYou do not have enough Zeny for the reset cost of 1,000,000. Please check your funds again.",
-        "pt": "[Tamila]\nVocê não possui os 1.000.000 Zeny necessários para a redefinição. Verifique seu dinheiro.",
+        "pt": "[Tamila]\nVocê não possui os 1.000.000 zeny necessários para o reset. Verifique seu dinheiro.",
         "es": "[Tamila]\nNo tienes suficientes 1 000 000 zeny para el reinicio. Revisa tu dinero."
     },
     "srHTDA": {
@@ -1076,7 +1076,7 @@
     "s7HTDA": {
         "ko": "^FF0000[경고]^000000\n^FF0000냥다래 열매 3개로 초기화를 진행합니다.^000000\n^FF0000위의 교환된 아이템은 청약철회대상에 포함되지 않으며, 냥다래 열매로의 재교환 역시 불가능합니다.^000000",
         "en": "^FF0000[Warning]^000000\n^FF0000Reset will be performed with 3 Nyangvine.^000000\n^FF0000The exchanged item above is not eligible for withdrawal and cannot be exchanged back into Nyangvine.^000000",
-        "pt": "^FF0000[Aviso]^000000\n^FF0000A redefinição será realizada usando 3 MiauMiau.^000000\n^FF0000Os itens trocados acima não estão sujeitos a cancelamento e também não podem ser trocados novamente por MiauMiau.^000000",
+        "pt": "^FF0000[Aviso]^000000\n^FF0000O reset será realizado usando 3 MiauMiau.^000000\n^FF0000Essa opção não poderá ser desfeita e os MiauMiau não serão reembolsados.^000000",
         "es": "^FF0000[Advertencia]^000000\n^FF0000Se procederá con el reinicio usando 3 Miaufruto.^000000\n^FF0000Los objetos intercambiados no están sujetos a cancelación ni pueden volver a cambiarse por Miaufruto.^000000"
     },
     "tLHTDA": {
@@ -1094,13 +1094,13 @@
     "trHTDA": {
         "ko": "^FF0000[<ITEM>{0}<INFO>{1}</INFO></ITEM>] 의 초기화가 실패했습니다.^000000",
         "en": "^FF0000[<ITEM>{0}<INFO>{1}</INFO></ITEM>] reset failed.^000000",
-        "pt": "^FF0000[<ITEM>{0}<INFO>{1}</INFO></ITEM>] falhou na redefinição.^000000",
+        "pt": "^FF0000Falha ao resetar [<ITEM>{0}<INFO>{1}</INFO></ITEM>].^000000",
         "es": "^FF0000El reinicio de [<ITEM>{0}<INFO>{1}</INFO></ITEM>] ha fallado.^000000"
     },
     "t7HTDA": {
         "ko": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>] 의 초기화가 완료되었습니다.",
         "en": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>] reset completed.",
-        "pt": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>] redefinição concluída.",
+        "pt": "Sucesso ao resetar [<ITEM>{0}<INFO>{1}</INFO></ITEM>].",
         "es": "El reinicio de [<ITEM>{0}<INFO>{1}</INFO></ITEM>] se ha completado."
     },
     "uLHTDA": {

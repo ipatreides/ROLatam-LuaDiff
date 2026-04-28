@@ -21,17 +21,17 @@
     },
     "ZNL+": {
         "en": "^3355FFYou carefully place a\nDragon Canine into one of\nthe grooves, and then you\nhear a powerful rumbling\nfrom within the column.^000000",
-        "pt": "^3355FFVocê coloca cuidadosamente um\nCanino de Dragão em uma\ndas ranhuras, e então\nescuta um estrondo potente\nvindo de dentro da coluna.^000000",
+        "pt": "^3355FFVocê coloca cuidadosamente um\nCanino de Dragão em um\ndos buracos, e então\nescuta um estrondo potente\nvindo de dentro da coluna.^000000",
         "es": "^3355FFColocas con cuidado\nun Colmillo de Dragón en una de\nlas ranuras, y luego\nescuchas un gran estruendo\nque proviene del interior de la columna.^000000"
     },
     "ZdL+": {
         "en": "^3355FFYou slowly insert a\nDragon Scale into another\nof the column's grooves,\ntriggering another small\ntremor from the column.^000000",
-        "pt": "^3355FFVocê cuidadosamente coloca uma\nEscama de Dragão em outra\ndas ranhuras da coluna,\ncausando mais outro\ntremor nela.^000000",
+        "pt": "^3355FFVocê cuidadosamente coloca uma\nEscama de Dragão em outro\nburaco da coluna,\ncausando mais outro\ntremor nela.^000000",
         "es": "^3355FFIntroduces lentamente\nuna Escama de Dragón en otra\nde las ranuras de la columna,\nlo que provoca otro pequeño\ntemblor en la columna.^000000"
     },
     "ZtL+": {
         "en": "^3355FFYou cautiously insert\na Dragon Tail into the\nfinal groove. Lights shine\nforth from cracks in the\ncolumn's surface...^000000",
-        "pt": "^3355FFVocê cuidadosamente coloca\numa Cauda de Dragão na\núltima ranhura. As luzes se acendem\nvindas das rachaduras na\nsuperfície da coluna...^000000",
+        "pt": "^3355FFVocê cuidadosamente coloca\numa Cauda de Dragão no\núltimo buraco. As luzes se acendem\nvindas das rachaduras na\nsuperfície da coluna...^000000",
         "es": "^3355FFIntroduces con cuidado\nuna Cola de Dragón en la\núltima ranura. Unas luces brillan\na través las grietas de la\nsuperficie de la columna…^000000"
     },
     "Z9L+": {
@@ -96,7 +96,7 @@
     },
     "c9L+": {
         "en": "^3355FFThe light emanating from\nthe groove distorts and\nthe column starts to shake.\nThe tremors in the ground\nmake it difficult to stand\nsteadily, but suddently you\nare warped somewhere else...^000000",
-        "pt": "^3355FFA luz que emana da\nranhura se distorce e\na coluna começa a tremer.\nOs tremores no chão\nfazem com que fique difícil para você \nse manter em pé com firmeza, mas de repente, você \né teletransportado para outro lugar...^000000",
+        "pt": "^3355FFA luz que emana do\nburaco se distorce e\na coluna começa a tremer.\nOs tremores no chão\nfazem com que fique difícil para você \nse manter em pé com firmeza, mas de repente, você \nvai para outro lugar...^000000",
         "es": "^3355FFLa luz que emana de\nla ranura se distorsiona, y\nla columna empieza a temblar.\nLos temblores del suelo\ndificultan mantenerse en pie\npero, de repente,\nte teletransportas a otro lugar…^000000"
     }
 }

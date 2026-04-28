@@ -4270,6 +4270,34 @@ Navi_Map = {
 		200
 	},
 	{
+		"tha_t09",
+		"Torre de Thanatos ?Andar Superior ",
+		5001,
+		180,
+		180
+	},
+	{
+		"tha_t10",
+		"Torre de Thanatos ?Andar Superior ",
+		5001,
+		180,
+		180
+	},
+	{
+		"tha_t11",
+		"Torre de Thanatos ?Andar Superior ",
+		5001,
+		180,
+		180
+	},
+	{
+		"tha_t12",
+		"Torre de Thanatos ?Andar Superior ",
+		5001,
+		180,
+		180
+	},
+	{
 		"thana_boss",
 		"Torre de Thanatos ?Área Desconhecida ",
 		5001,

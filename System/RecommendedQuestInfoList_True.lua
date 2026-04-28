@@ -1,9 +1,9 @@
 RecommendedQuestInfoList = {}
 RecommendedQuestInfoList = {
 	[1] = {
-		Title = "Bem vindo ao mundo de Ragnarök!",
+		Title = "Bem vindo ao mundo de RagnarÃ¶k!",
 		IconName = "ico_gq.bmp",
-		Summary = "Introdução ao jogo.",
+		Summary = "IntroduÃ§Ã£o ao jogo.",
 		NpcSpr = "4_F_01",
 		NpcNavi = "iz_ac01",
 		NpcPosX = 102,
@@ -11,36 +11,36 @@ RecommendedQuestInfoList = {
 		BgName = "reco_01.bmp",
 		QuestInfo1 = {
 			"[Bem vindo!]",
-			"Se você está iniciando suas aventuras em Ragnarök Online, não deixe de visitar o Instituto do Aprendiz para conseguir ajuda, informações e itens especiais!"
+			"Se vocÃª estÃ¡ iniciando suas aventuras em RagnarÃ¶k Online, nÃ£o deixe de visitar o Instituto do Aprendiz para conseguir ajuda, informaÃ§Ãµes e itens especiais!"
 		},
 		QuestInfo2 = {
 			"Seja sempre gentil",
 			"com jogadores novos!"
 		},
 		QuestInfo3 = {
-			"^ff0000Esta é uma página permanente de boas vindas.^000000"
+			"^ff0000Esta Ã© uma pÃ¡gina permanente de boas vindas.^000000"
 		}
 	},
 	[2] = {
-		Title = "Episódio 17.2: O Legado do Sábio",
+		Title = "EpisÃ³dio 17.2: O Legado do SÃ¡bio",
 		IconName = "ico_ep.bmp",
-		Summary = "Para não ficar para trás da equipe de vanguarda...",
+		Summary = "Para nÃ£o ficar para trÃ¡s da equipe de vanguarda...",
 		NpcSpr = "4_M_ROOKIE",
 		NpcNavi = "sp_cor",
 		NpcPosX = 255,
 		NpcPosY = 285,
 		BgName = "reco_03.bmp",
 		QuestInfo1 = {
-			"A passagem para a Mansão de Varmunt finalmente foi aberta!",
-			"Junte-se à Rebelião, Vento Secreto e Rekenber para investigar a Ilusión."
+			"A passagem para a MansÃ£o de Varmunt finalmente foi aberta!",
+			"Junte-se Ã  RebeliÃ£o, Vento Secreto e Rekenber para investigar a IlusiÃ³n."
 		},
 		QuestInfo2 = {
-			"Pré-requisitos:",
-			"Concluir o ^990000Episódio 17.1^000000",
-			"Nível ^990000130 ou mais^000000"
+			"PrÃ©-requisitos:",
+			"Concluir o ^990000EpisÃ³dio 17.1^000000",
+			"NÃ­vel ^990000130 ou mais^000000"
 		},
 		QuestInfo3 = {
-			"^ff0000× Anúncio de atualização.^000000"
+			"^ff0000Ã— AnÃºncio de atualizaÃ§Ã£o.^000000"
 		}
 	}
 }

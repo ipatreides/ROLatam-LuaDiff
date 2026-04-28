@@ -1827,7 +1827,7 @@ QuestInfoList = {
 		Description = {
 			"Gast says you only need to defeat the Gasters once a day, right before his patrol. Wait until 4 AM when <NAVI>[Gast's]<INFO>rockrdg2,295,328,0,101,0</INFO></NAVI> workday begins."
 		},
-		Summary = "Resets at 04:00",
+		Summary = "Resets at 4 AM.",
 		CoolTimeQuest = 1
 	},
 	[1300] = {
@@ -2047,7 +2047,7 @@ QuestInfoList = {
 		Description = {
 			"Baduki has run around enough and doesn't seem to want to go out anymore today. After 4 AM, go see if <NAVI>[Miz Macphee]<INFO>harboro1,347,65,0,101,0</INFO></NAVI> might need help again."
 		},
-		Summary = "Resets at 04:00",
+		Summary = "Resets at 4 AM.",
 		CoolTimeQuest = 1
 	},
 	[1330] = {
@@ -2075,7 +2075,7 @@ QuestInfoList = {
 		Description = {
 			"Mister Macphee seems to want to teach the Sojek Dan more of a lesson. After 4 AM, go find <NAVI>[Mister Macphee]<INFO>harboro1,344,61,0,101,0</INFO></NAVI> in the village again."
 		},
-		Summary = "Resets at 04:00",
+		Summary = "Resets at 4 AM.",
 		CoolTimeQuest = 1
 	},
 	[1333] = {
@@ -6975,7 +6975,7 @@ QuestInfoList = {
 		Description = {
 			"This quest is a daily quest and can be accepted again once the waiting period expires. The quest can be accepted through <NAVI>[Eorfa]<INFO>ba_maison,79,278,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Resets at 04:00"
+		Summary = "Resets at 4 AM."
 	},
 	[3392] = {
 		Title = "Potato Chips Scattered by Illusion",
@@ -10602,7 +10602,7 @@ QuestInfoList = {
 		Description = {
 			"<Wave Mode - Forest> can only be used once per day."
 		},
-		Summary = "Resets at 04:00",
+		Summary = "Resets at 4 AM.",
 		CoolTimeQuest = 1
 	},
 	[5251] = {
@@ -10785,7 +10785,7 @@ QuestInfoList = {
 		Description = {
 			"<Wave Mode - Sky> can only be used once per day."
 		},
-		Summary = "Resets at 04:00",
+		Summary = "Resets at 4 AM.",
 		CoolTimeQuest = 1
 	},
 	[5304] = {
@@ -14180,7 +14180,7 @@ QuestInfoList = {
 			"After a certain period of time,",
 			"you may accept the Sewage Treatment Plant Cleanup quest again from <NAVI>[Cleaning Robot �mega]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Resets at 04:00",
+		Summary = "Resets at 4 AM.",
 		NpcSpr = "EP17_2_OMEGA_CLEANER"
 	},
 	[5897] = {
@@ -14226,7 +14226,7 @@ QuestInfoList = {
 			"After a certain period of time,",
 			"you may accept the 1st Magic Power Plant quest again from <NAVI>[Cleaning Robot �mega]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Resets at 04:00",
+		Summary = "Resets at 4 AM.",
 		NpcSpr = "EP17_2_OMEGA_CLEANER"
 	},
 	[5901] = {
@@ -20761,9 +20761,9 @@ QuestInfoList = {
 		Title = "A Change of Air",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"While Tes analyzes the data, I've decided to help Leizi. I should look for him in the pub."
+			"While Tes analyzes the data, I've decided to help Lazy. I should look for him in the pub."
 		},
-		Summary = "Talk to Leizi"
+		Summary = "Talk to Lazy"
 	},
 	[7865] = {
 		Title = "Second Operation",
@@ -20823,7 +20823,7 @@ QuestInfoList = {
 		Description = {
 			"After the waiting time expires, you can accept the 'New Poison Gas Research' quest from <NAVI>[Trainee Researcher Sally]<INFO>einbech,143,244,0,101,0</INFO></NAVI> near Einbech Mine."
 		},
-		Summary = "Resets at 04:00",
+		Summary = "Resets at 4 AM.",
 		NpcSpr = "4_F_LGTGIRL",
 		NpcNavi = "einbech",
 		NpcPosX = 143,
@@ -20847,7 +20847,7 @@ QuestInfoList = {
 		Description = {
 			"After the waiting time expires, you can accept the 'Special Mineral Research 1' quest from <NAVI>[Trainee Researcher Sally]<INFO>einbech,143,244,0,101,0</INFO></NAVI> near Einbech Mine."
 		},
-		Summary = "Resets at 04:00",
+		Summary = "Resets at 4 AM.",
 		NpcSpr = "4_F_LGTGIRL",
 		NpcNavi = "einbech",
 		NpcPosX = 143,
@@ -20871,7 +20871,7 @@ QuestInfoList = {
 		Description = {
 			"After the waiting time expires, you can accept the 'Special Mineral Research 2' quest from <NAVI>[Trainee Researcher Sally]<INFO>einbech,143,244,0,101,0</INFO></NAVI> near Einbech Mine."
 		},
-		Summary = "Resets at 04:00",
+		Summary = "Resets at 4 AM.",
 		NpcSpr = "4_F_LGTGIRL",
 		NpcNavi = "einbech",
 		NpcPosX = 143,
@@ -20895,7 +20895,7 @@ QuestInfoList = {
 		Description = {
 			"After the waiting time expires, you can accept the 'Abyss Man Research' quest from <NAVI>[Trainee Researcher Sally]<INFO>einbech,143,244,0,101,0</INFO></NAVI> near Einbech Mine."
 		},
-		Summary = "Resets at 04:00",
+		Summary = "Resets at 4 AM.",
 		NpcSpr = "4_F_LGTGIRL",
 		NpcNavi = "einbech",
 		NpcPosX = 143,
@@ -20919,7 +20919,7 @@ QuestInfoList = {
 		Description = {
 			"After the waiting time expires, you can accept the 'Mine Bug Research' quest from <NAVI>[Trainee Researcher Sally]<INFO>einbech,143,244,0,101,0</INFO></NAVI> near Einbech Mine."
 		},
-		Summary = "Resets at 04:00",
+		Summary = "Resets at 4 AM.",
 		NpcSpr = "4_F_LGTGIRL",
 		NpcNavi = "einbech",
 		NpcPosX = 143,
@@ -20943,7 +20943,7 @@ QuestInfoList = {
 		Description = {
 			"After the waiting time expires, you can accept the 'Unknown Century' quest from <NAVI>[Folklorist Cinnamon]<INFO>odin_tem01,108,152,0,101,0</INFO></NAVI> waiting at the dock of the Odin Temple."
 		},
-		Summary = "Resets at 04:00",
+		Summary = "Resets at 4 AM.",
 		NpcSpr = "4_M_SITDOWN",
 		NpcNavi = "odin_tem01",
 		NpcPosX = 108,
@@ -20967,7 +20967,7 @@ QuestInfoList = {
 		Description = {
 			"After the waiting time expires, you can accept the 'What Is a Valkyrie' quest from <NAVI>[Folklorist Cinnamon]<INFO>odin_tem01,108,152,0,101,0</INFO></NAVI> waiting at the pier of Odin Temple."
 		},
-		Summary = "Resets at 04:00",
+		Summary = "Resets at 4 AM.",
 		NpcSpr = "4_M_SITDOWN",
 		NpcNavi = "odin_tem01",
 		NpcPosX = 108,
@@ -20991,7 +20991,7 @@ QuestInfoList = {
 		Description = {
 			"After the waiting time expires, you can accept the 'Purple Ferus Research' quest from <NAVI>[Dragonologist Marigold]<INFO>hugel,102,148,0,101,0</INFO></NAVI> waiting in the Hugel plaza."
 		},
-		Summary = "Resets at 04:00",
+		Summary = "Resets at 4 AM.",
 		NpcSpr = "4_F_HUWOMAN",
 		NpcNavi = "hugel",
 		NpcPosX = 102,
@@ -21015,7 +21015,7 @@ QuestInfoList = {
 		Description = {
 			"After the waiting time expires, you can accept the 'Investigate a New Mimic Species' quest from <NAVI>[Dragonologist Marigold]<INFO>hugel,102,148,0,101,0</INFO></NAVI> waiting in the Hugel plaza."
 		},
-		Summary = "Resets at 04:00",
+		Summary = "Resets at 4 AM.",
 		NpcSpr = "4_F_HUWOMAN",
 		NpcNavi = "hugel",
 		NpcPosX = 102,
@@ -21039,7 +21039,7 @@ QuestInfoList = {
 		Description = {
 			"After the waiting time expires, you can accept the 'Acidus Element Research' quest from <NAVI>[Dragonologist Marigold]<INFO>hugel,102,148,0,101,0</INFO></NAVI> waiting in the Hugel plaza."
 		},
-		Summary = "Resets at 04:00",
+		Summary = "Resets at 4 AM.",
 		NpcSpr = "4_F_HUWOMAN",
 		NpcNavi = "hugel",
 		NpcPosX = 102,
@@ -21063,7 +21063,7 @@ QuestInfoList = {
 		Description = {
 			"After the waiting time expires, you can accept the 'Dragon Archaeology' quest from <NAVI>[Dragonologist Marigold]<INFO>hugel,102,148,0,101,0</INFO></NAVI>, who is waiting in Hugel Square."
 		},
-		Summary = "Resets at 04:00",
+		Summary = "Resets at 4 AM.",
 		NpcSpr = "4_F_HUWOMAN",
 		NpcNavi = "hugel",
 		NpcPosX = 102,
@@ -23103,14 +23103,14 @@ QuestInfoList = {
 	[8311] = {
 		Title = "We are hosting a big Melon Contest",
 		Description = {
-			"Have you heard about Suspicious Melon."
+			"Have you heard about Suspicious Melon?"
 		},
 		Summary = ""
 	},
 	[8312] = {
 		Title = "We are hosting a big Melon Contest-Stand by",
 		Description = {
-			"Suspicious melong size has been measured. We should try tomorrow again."
+			"Suspicious Melon size has been measured. We should try tomorrow again."
 		},
 		Summary = ""
 	},
@@ -23250,7 +23250,7 @@ QuestInfoList = {
 	[8342] = {
 		Title = "Collection from Morroc Sphinx",
 		Description = {
-			"An Adventurer named Elbury is currently at the Sphinx B3F fulfilling a quest for the Merchant Union. You need to retrieve the ^4d4dffSlightly Aged Antique Box^000000 from him."
+			"An Adventurer named Elbury is currently at the Sphinx B3F fulfilling a quest for the Merchant Union. You need to retrieve the ^4D4DFFSlightly Aged Antique Box^000000 from him and take it to Masha."
 		},
 		Summary = "Box Retrieved"
 	},
@@ -23348,7 +23348,7 @@ QuestInfoList = {
 		Description = {
 			"Tomorrow, go back to <NAVI>[Dr. Magnatum]<INFO>verus04,79,114,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Resets at 4 am",
+		Summary = "Resets at 4 AM.",
 		CoolTimeQuest = 1
 	},
 	[8500] = {
@@ -23552,7 +23552,7 @@ QuestInfoList = {
 		Description = {
 			"Delay Insurance re-registration cannot be instantly processed. Please wait and try again."
 		},
-		Summary = "Resets at 4 am",
+		Summary = "Resets at 4 AM.",
 		CoolTimeQuest = 1
 	},
 	[8529] = {
@@ -23562,14 +23562,14 @@ QuestInfoList = {
 	[8530] = {
 		Title = "I will grind melons for you.",
 		Description = {
-			"Sweet Melon Juice will be provided if Lavender brings 10 of Sweet Melons to Dalcom."
+			"Lavender will provide Sweet Melon Juice if you bring 10 Sweet Melons obtained from Melorings."
 		},
 		Summary = "Bring 10 Sweet Melons"
 	},
 	[8531] = {
 		Title = "Go to Al De Baran to find Flour",
 		Description = {
-			"Lavender asked for organic flour, milk, and sweet melon. There is a man who is ready to sell organic flour in Aldeberan."
+			"Lavender asked for organic flour, milk, and sweet melon. There is a man who is ready to sell organic flour in Al De Baran."
 		},
 		Summary = "Chat with mysterious merchant"
 	},
@@ -23581,25 +23581,25 @@ QuestInfoList = {
 		Summary = "Deliver flour to Lavender"
 	},
 	[8533] = {
-		Title = "Melon Festival Hat(1)",
+		Title = "Melon Festival Hat",
 		Description = {
-			"Lavender's cousin 'Nannabi' is collecting Dalcom Skin. According to Lavender, probably we can make a special hat."
+			"Lavender's cousin 'Jasmine' is collecting Meloring Skin. According to Lavender, probably we can make a special hat."
 		},
-		Summary = "Chat with Nannabi"
+		Summary = "Chat with Jasmine"
 	},
 	[8534] = {
-		Title = "Melon Festival Hat(2)",
+		Title = "Melon Festival Hat",
 		Description = {
-			"Geffen's Nannabi is having a problem with making a hat since there is not enough Dalcom skins. Let's bring 30 skins to him."
+			"Vanilla is having a problem with making a hat since there is not enough Meloring skins. Let's bring 30 skins to him."
 		},
-		Summary = "Deliver 30 Dalcom Skins"
+		Summary = "Deliver 30 Meloring Skins"
 	},
 	[8538] = {
 		Title = "Tomorrow at the King's Heel",
 		Description = {
 			"I never want to see another card again... But maybe I'll feel differently tomorrow! Let's go talk to Dr. Magnatum again tomorrow."
 		},
-		Summary = "Resets at 4 am",
+		Summary = "Resets at 4 AM.",
 		CoolTimeQuest = 1
 	},
 	[8541] = {
@@ -23771,10 +23771,10 @@ QuestInfoList = {
 		Summary = "Defeat Rigid Explosion and Stiff Blazer."
 	},
 	[8577] = {
-		Title = "Will grind a melon for you.",
+		Title = "Will grind some melons for you.",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"<NAVI>[Lavender]<INFO>geffen,88,35,0,101,0</INFO></NAVI> is saying that she would make Sweet Melon Juice for you. Let's bring 10 Sweet Melons to her. Melons can be obtained from Dalcoms."
+			"[<NAVI>Lavender<INFO>geffen,88,35,0,101,0</INFO></NAVI>] is saying that she would make Sweet Melon Juice for you. Let's bring 10 Sweet Melons to her. Melons can be obtained from Melorings."
 		},
 		Summary = "Deliver 10 Sweet Melons"
 	},
@@ -23784,13 +23784,13 @@ QuestInfoList = {
 		Description = {
 			"Lavender is asking to deliver a present to her <NAVI>[Parents]<INFO>hugel,218,228,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Delivery to Lilliu"
+		Summary = "Delivery to Lotus"
 	},
 	[8579] = {
 		Title = "Present to a daughter",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Lilyu is implementing a new menu for his daughter who is in charge of Melon Festival. Let's deliver to <NAVI>[Lavender]<INFO>geffen,88,35,0,101,0</INFO></NAVI>."
+			"Lotus is implementing a new menu for his daughter who is in charge of Melon Festival. Let's deliver to <NAVI>[Lavender]<INFO>geffen,88,35,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Speak to Lavender"
 	},
@@ -23798,7 +23798,7 @@ QuestInfoList = {
 		Title = "Delicious Dark Melon",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Lavender's Cousin, <NAVI>[Dilpore]<INFO>geffen,90,35,0,101,0</INFO></NAVI> is asking for assistance with gathering melons. Dark Melon can be obtained from Dark Meloring."
+			"Lavender's Cousin, [<NAVI>Vanilla<INFO>geffen,90,35,0,101,0</INFO></NAVI>] is asking for assistance with gathering melons. Dark Melon can be obtained from Dark Meloring."
 		},
 		Summary = "Deliver 10 Dark Melon"
 	},
@@ -23806,7 +23806,7 @@ QuestInfoList = {
 		Title = "Delicious Dark Melon - Hold",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"<NAVI>[Dilfore]<INFO>geffen,90,35,0,101,0</INFO></NAVI> asked me to help him again tomorrow."
+			"[<NAVI>Vanilla<INFO>geffen,90,35,0,101,0</INFO></NAVI>] asked me to help him again tomorrow."
 		},
 		Summary = "Resets at 4am",
 		CoolTimeQuest = 1
@@ -23815,7 +23815,7 @@ QuestInfoList = {
 		Title = "Analysis on Dark Meloring",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"<NAVI>[Dilfore]<INFO>geffen,90,35,0,101,0</INFO></NAVI> in Geffen is asking for assistance with gathering melons for his research. Dark Melons can be obtained from Dark Meloring."
+			"[<NAVI>Vanilla<INFO>geffen,90,35,0,101,0</INFO></NAVI>] in Geffen is asking for assistance with gathering melons for her research. Dark Melons can be obtained from Dark Meloring."
 		},
 		Summary = "Deliver 10 Dark Melon"
 	},
@@ -23823,22 +23823,22 @@ QuestInfoList = {
 		Title = "Analysis on Dark Meloring - Hold",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"<NAVI>[Dilfore]<INFO>geffen,90,35,0,101,0</INFO></NAVI> asked me to help him again tomorrow."
+			"[<NAVI>Vanilla<INFO>geffen,90,35,0,101,0</INFO></NAVI>] asked me to help her again tomorrow."
 		},
 		Summary = "Resets at 4am",
 		CoolTimeQuest = 1
 	},
 	[8584] = {
-		Title = "Melon Festival Celebration Hat (1)",
+		Title = "Melon Festival Celebration Hat",
 		Description = {
-			"Lavender's Cousin, <NAVI>[Nannavi]<INFO>geffen,106,63,0,101,0</INFO></NAVI> is collecting Meloring Skins. As Lavender said, I think I can make a special hat."
+			"Lavender's Cousin, [<NAVI>Jasmine<INFO>geffen,106,63,0,101,0</INFO></NAVI>] is collecting Meloring Skins. As Lavender said, I think I can make a special hat."
 		},
-		Summary = "Speak to Nannavi"
+		Summary = "Speak to Jasmine"
 	},
 	[8585] = {
-		Title = "Melon Festival Celebration Hat (2)",
+		Title = "Melon Festival Celebration Hat",
 		Description = {
-			"<NAVI>[Nannavi]<INFO>geffen,106,63,0,101,0</INFO></NAVI> in Geffen, is struggling on making a celebration hat, because she doesn't have enough skins. Let's bring 30 Meloring skins to her."
+			"[<NAVI>Jasmine<INFO>geffen,106,63,0,101,0</INFO></NAVI>] in Geffen, is struggling on making a celebration hat, because she doesn't have enough skins. Let's bring 30 Meloring skins to her."
 		},
 		Summary = "Deliver 30 Meloring Skins"
 	},
@@ -23855,7 +23855,7 @@ QuestInfoList = {
 		Description = {
 			"<NAVI>[Luynan]<INFO>ba_maison,311,205,0,101,0</INFO></NAVI> is always waiting for you. Let us return tomorrow to work and claim our reward."
 		},
-		Summary = "Resets at 04:00"
+		Summary = "Resets at 4 AM."
 	},
 	[8588] = {
 		Title = "Collect Tails",
@@ -23917,7 +23917,7 @@ QuestInfoList = {
 		Description = {
 			"<NAVI>[Cotton]<INFO>ba_maison,306,205,0,101,0</INFO></NAVI> is always waiting for you. Let us return tomorrow to work and claim our reward."
 		},
-		Summary = "Resets at 04:00"
+		Summary = "Resets at 4 AM."
 	},
 	[8604] = {
 		Title = "Verus Landscaping Department's Request",
@@ -27410,7 +27410,7 @@ QuestInfoList = {
 		Description = {
 			"They say not many Sea Anemones have grown yet. After some time has passed, find <NAVI>[Donovan]<INFO>harboro1,138,157,0,101,0</INFO></NAVI> and clean the pipes again."
 		},
-		Summary = "Resets at 04:00",
+		Summary = "Resets at 4 AM.",
 		CoolTimeQuest = 1
 	},
 	[9460] = {
@@ -27429,7 +27429,7 @@ QuestInfoList = {
 		Description = {
 			"The <NAVI>[Crouching Horse]<INFO>rockrdg1,262,90,0,101,0</INFO></NAVI> says it doesn't need ore for now. Visit it again at dawn."
 		},
-		Summary = "Resets at 04:00",
+		Summary = "Resets at 4 AM.",
 		CoolTimeQuest = 1
 	},
 	[10000] = {
@@ -31138,7 +31138,7 @@ QuestInfoList = {
 		Description = {
 			"You have completed making the sauce for today. Come back again tomorrow."
 		},
-		Summary = "Resets at 4 O'clock"
+		Summary = "Resets at 4 AM."
 	},
 	[11423] = {
 		Title = "Banquet: Griffin Barbecue",
@@ -31162,7 +31162,7 @@ QuestInfoList = {
 		Description = {
 			"You have completed making the grilled griffin for today. Come back again tomorrow."
 		},
-		Summary = "Resets at 4 O'clock"
+		Summary = "Resets at 4 AM."
 	},
 	[11426] = {
 		Title = "Banquet: Washing 15 Dishes",
@@ -31178,7 +31178,7 @@ QuestInfoList = {
 		Description = {
 			"You have completed collecting the dishes for today. Come back again tomorrow."
 		},
-		Summary = "Resets at 4 O'clock"
+		Summary = "Resets at 4 AM."
 	},
 	[11428] = {
 		Title = "Ingredient for the Sauce",
@@ -32465,6 +32465,11 @@ QuestInfoList = {
 		},
 		Summary = "Speak with Larcis"
 	},
+	[11619] = {
+		Title = "Bluff",
+		Description = {"Turtle"},
+		Summary = "Shell"
+	},
 	[11620] = {
 		Title = "Straggler in the Sewer",
 		IconName = "ico_ep.bmp",
@@ -32591,7 +32596,7 @@ QuestInfoList = {
 		Description = {
 			"This is a daily quest and can be accepted again from <NAVI>[Library Manager Beta]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI> once the waiting period expires."
 		},
-		Summary = "Resets at 04:00",
+		Summary = "Resets at 4 AM.",
 		CoolTimeQuest = 1
 	},
 	[11636] = {
@@ -32608,7 +32613,7 @@ QuestInfoList = {
 		Description = {
 			"This is a daily quest and can be accepted again from <NAVI>[Library Manager Beta]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI> once the waiting period expires."
 		},
-		Summary = "Resets at 04:00"
+		Summary = "Resets at 4 AM."
 	},
 	[11638] = {
 		Title = "Ultimate Scrap Collection",
@@ -32624,7 +32629,7 @@ QuestInfoList = {
 		Description = {
 			"This is a daily quest and can be accepted again from <NAVI>[Tamarin]<INFO>ba_maison,70,145,0,101,0</INFO></NAVI> once the waiting period expires."
 		},
-		Summary = "Resets at 04:00"
+		Summary = "Resets at 4 AM."
 	},
 	[11650] = {
 		Title = "Jakk and Weird Jakk's Little Weird Story",
@@ -36124,7 +36129,7 @@ QuestInfoList = {
 		Description = {
 			"The gathered materials seem to have lifted the worries of the <NAVI>[Meal Supervisor]<INFO>harboro1,357,163,0,101,0</INFO></NAVI>. There shouldn't be any disruption to the meals provided to people for a while."
 		},
-		Summary = "Resets at 04:00",
+		Summary = "Resets at 4 AM.",
 		CoolTimeQuest = 1
 	},
 	[12383] = {
@@ -36188,7 +36193,7 @@ QuestInfoList = {
 		Description = {
 			"The monsters around the settlement should be subdued by now. There shouldn't be any attacks for a while. Let's go check with the <NAVI>[Steel Vigilante]<INFO>harboro1,357,155,0,101,0</INFO></NAVI> again at dawn."
 		},
-		Summary = "Resets at 04:00",
+		Summary = "Resets at 4 AM.",
 		CoolTimeQuest = 1
 	},
 	[12391] = {
@@ -36251,7 +36256,7 @@ QuestInfoList = {
 		Description = {
 			"You successfully handled a fairly difficult request. You should rest well for a while. After a certain amount of time, you can receive requests from the <NAVI>[Steel Vigilante]<INFO>harboro1,357,152,0,101,0</INFO></NAVI> again."
 		},
-		Summary = "Resets at 04:00",
+		Summary = "Resets at 4 AM.",
 		CoolTimeQuest = 1
 	},
 	[12399] = {
@@ -36303,7 +36308,7 @@ QuestInfoList = {
 		Description = {
 			"All the pipes in the Rock Ridge underground have been maintained. There shouldn't be any major problems with the freshwater treatment facility for a while. After dawn, visit the <NAVI>[Freshwater Facility Manager]<INFO>harboro1,334,135,0,101,0</INFO></NAVI> and check if the facility is okay."
 		},
-		Summary = "Resets at 04:00",
+		Summary = "Resets at 4 AM.",
 		CoolTimeQuest = 1
 	},
 	[12405] = {
@@ -36359,7 +36364,7 @@ QuestInfoList = {
 		Description = {
 			"It seems they won't accept any more trades today. Let's meet the <NAVI>[Foreign Merchant]<INFO>harboro1,231,254,0,101,0</INFO></NAVI> again tomorrow."
 		},
-		Summary = "Resets at 04:00",
+		Summary = "Resets at 4 AM.",
 		CoolTimeQuest = 1
 	},
 	[12412] = {
@@ -36594,7 +36599,7 @@ QuestInfoList = {
 		Description = {
 			"This aftereffect comes with the aftereffect of Collapse. For the remaining time, the menu related to ^ff0000Glastheim Purification(Advanced)^000000 will not appear, and it cannot be used."
 		},
-		Summary = "Resets at 4 AM in 3 days."
+		Summary = "Resets at 4 AM. in 3 days."
 	},
 	[12462] = {
 		Title = "Rest for the King's Thoughts (Advanced)",
@@ -36923,7 +36928,7 @@ QuestInfoList = {
 		Description = {
 			"This aftereffect is accompanied by a deep sense of helplessness. Once you have entered, you cannot challenge Glast Heim Challenge Mode again until 3 days have passed."
 		},
-		Summary = "Resets at 04:00 after 3 days"
+		Summary = "Resets at 4 AM. after 3 days"
 	},
 	[12494] = {
 		Title = "Explanation Complete",
@@ -37811,12 +37816,12 @@ QuestInfoList = {
 	[13101] = {
 		Title = "The way of Taekwon",
 		Description = {
-			"Go to the Taekwon trainer to the north of Payon. <NAVI>[Inside a house]<INFO>payon_in02,64,71,0,100,0,0</INFO></NAVI>"
+			"Go to the Taekwon trainer to the north of Payon. <NAVI>[Inside a house]<INFO>payon_in01,62,10,0,100,0,0</INFO></NAVI>"
 		},
 		Summary = "Travel to Payon"
 	},
 	[13102] = {
-		Title = "Spinning kick",
+		Title = "Class Change: Taekwon",
 		Description = {""},
 		Summary = ""
 	},
@@ -40721,7 +40726,7 @@ QuestInfoList = {
 		Description = {
 			"The effect of the amulet wears off over time. Later, let's go back to <NAVI>[Shaman meow]<INFO>lasagna,85,93,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Resets at 4 O'clock"
+		Summary = "Resets at 4 AM."
 	},
 	[14560] = {
 		Title = "New Ingredient",
@@ -41315,7 +41320,7 @@ QuestInfoList = {
 			"I'll work all night making stuff with what you brought. Kid, get some good rest and come back after dawn. That's a good time to move.",
 			"-<NAVI>[Demon]<INFO>harboro2,164,80,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Resets at 04:00",
+		Summary = "Resets at 4 AM.",
 		CoolTimeQuest = 1
 	},
 	[14674] = {
@@ -42871,7 +42876,7 @@ QuestInfoList = {
 		Description = {
 			"This quest is a daily quest. You can accept and perform it again when the cooldown expires. You can accept the quest through <NAVI>[Kacteron]<INFO>rockrdg1,341,133,0,101,0</INFO></NAVI> in the Kiwawa Desert."
 		},
-		Summary = "Resets at 04:00",
+		Summary = "Resets at 4 AM.",
 		CoolTimeQuest = 1
 	},
 	[16080] = {
@@ -43577,7 +43582,7 @@ QuestInfoList = {
 		Description = {
 			"This is a daily quest, and you can re-take it when the cooldown resets. Speak to <NAVI>[Eugenie]<INFO>dali02.gat,111,95,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Resets at 4 am",
+		Summary = "Resets at 4 AM.",
 		CoolTimeQuest = 1
 	},
 	[16218] = {
@@ -44376,28 +44381,28 @@ QuestInfoList = {
 		Summary = "Place Holder"
 	},
 	[16388] = {
-		Title = "First Journey",
+		Title = "Edda Biolab",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"Participated in Virtual Record interpretation for the first time."
+			"Participated in Virtual interpretation for the first time."
 		},
-		Summary = "First Interpretation Participation"
+		Summary = "First Interpretation"
 	},
 	[16389] = {
-		Title = "First Journey - Exploration Refused",
+		Title = "Edda Biolab",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"Refused to participate in Virtual Record interpretation."
+			"Refused to participate in Virtual interpretation."
 		},
-		Summary = "Interpretation Participation Refused"
+		Summary = "Interpretation Refused"
 	},
 	[16390] = {
-		Title = "Expedition Journey - Waiting",
+		Title = "[Wait] Edda Biolab",
 		IconName = "ico_nq.bmp",
 		Description = {
 			"This quest is a daily quest and can be accepted again after the waiting time expires."
 		},
-		Summary = "Reset at 04:00"
+		Summary = "Resets at 4 AM."
 	},
 	[16391] = {
 		Title = "???",
@@ -44406,68 +44411,68 @@ QuestInfoList = {
 		Summary = "???"
 	},
 	[16392] = {
-		Title = "Expedition Journey - Reward",
+		Title = "Edda Biolab",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"Obtained a reward for participating in the interpretation."
+			"Obtained a reward for participating in the Expedition."
 		},
-		Summary = "Reward Obtained"
+		Summary = "Reward"
 	},
 	[16393] = {
-		Title = "Expedition Journey - Swordsman Laboratory",
+		Title = "Edda Biolab",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"Participated in the exploration of Swordsman Laboratory."
+			"Participated in the expedition to the Swordsman Laboratory."
 		},
-		Summary = "Swordsman Laboratory Exploration"
+		Summary = "Swordsman Laboratory"
 	},
 	[16394] = {
-		Title = "Expedition Journey - Copy Laboratory",
+		Title = "Edda Biolab",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"Participated in the exploration of Copy Laboratory."
+			"Participated in the expedition to the Acolyte Laboratory."
 		},
-		Summary = "Copy Laboratory Exploration"
+		Summary = "Acolyte Laboratory"
 	},
 	[16395] = {
-		Title = "Expedition Journey - Thief Laboratory",
+		Title = "Edda Biolab",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"Participated in the exploration of Thief Laboratory."
+			"Participated in the expedition to the Thief Laboratory."
 		},
-		Summary = "Thief Laboratory Exploration"
+		Summary = "Thief Laboratory"
 	},
 	[16396] = {
-		Title = "Expedition Journey - Mage Laboratory",
+		Title = "Edda Biolab",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"Participated in the exploration of Mage Laboratory."
+			"Participated in the expedition to the Mage Laboratory."
 		},
-		Summary = "Mage Laboratory Exploration"
+		Summary = "Mage Laboratory"
 	},
 	[16397] = {
-		Title = "Expedition Journey - Merchant Laboratory",
+		Title = "Edda Biolab",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"Participated in the exploration of Merchant Laboratory."
+			"Participated in the expedition to the Merchant Laboratory."
 		},
-		Summary = "Merchant Laboratory Exploration"
+		Summary = "Merchant Laboratory"
 	},
 	[16398] = {
-		Title = "Expedition Journey - Archer Laboratory",
+		Title = "Edda Biolab",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"Participated in the exploration of Archer Laboratory."
+			"Participated in the expedition to the Archer Laboratory."
 		},
-		Summary = "Archer Laboratory Exploration"
+		Summary = "Archer Laboratory"
 	},
 	[16399] = {
-		Title = "Journey of Exploration",
+		Title = "Edda Biolab",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"Participated in Virtual Record interpretation in Exploration Mode."
+			"Joined the Expedition Mode."
 		},
-		Summary = "Exploration Mode Progress",
+		Summary = "Expedition Mode",
 		RewardEXP = "",
 		RewardJEXP = "",
 		RewardItemList = {
@@ -44475,12 +44480,12 @@ QuestInfoList = {
 		}
 	},
 	[16400] = {
-		Title = "Journey of Battle",
+		Title = "Edda Biolab",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"Participated in Virtual Record interpretation in Battle Mode."
+			"Joined the Battle Mode in Edda Biolab."
 		},
-		Summary = "Battle Mode Progress",
+		Summary = "Battle Mode",
 		RewardEXP = "",
 		RewardJEXP = "",
 		RewardItemList = {
@@ -44722,7 +44727,7 @@ QuestInfoList = {
 		Description = {
 			"This is a daily quest and can be accepted again once the waiting period expires through <NAVI>[Seiyu]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Resets at 04:00"
+		Summary = "Resets at 4 AM."
 	},
 	[16433] = {
 		Title = "Hunt Gran Papilia",
@@ -44738,7 +44743,7 @@ QuestInfoList = {
 		Description = {
 			"This is a daily quest and can be accepted again once the waiting period expires through <NAVI>[Seiyu]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Resets at 04:00"
+		Summary = "Resets at 4 AM."
 	},
 	[16435] = {
 		Title = "Search for Gardener",
@@ -44754,7 +44759,7 @@ QuestInfoList = {
 		Description = {
 			"This is a daily quest and can be accepted again once the waiting period expires through <NAVI>[Seiyu]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Resets at 04:00"
+		Summary = "Resets at 4 AM."
 	},
 	[16437] = {
 		Title = "Floating Garden",
@@ -44778,7 +44783,7 @@ QuestInfoList = {
 		Description = {
 			"This is a daily quest and can be accepted again once the waiting period expires through <NAVI>[Seiyu]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Resets at 04:00"
+		Summary = "Resets at 4 AM."
 	},
 	[16440] = {
 		Title = "I Want to Know the Truth",
@@ -45833,15 +45838,15 @@ Talk to Kar=],
 		Title = "Refusal to Talk",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"<NAVI>[Leizi]<INFO>pub_cat,105,58,0,101,0</INFO></NAVI> refuses to talk to Vice President Kaya Tos any longer. Find out why."
+			"<NAVI>[Lazy]<INFO>pub_cat,105,58,0,101,0</INFO></NAVI> refuses to talk to Vice President Kaya Tos any longer. Find out why."
 		},
-		Summary = "Talk to Leizi"
+		Summary = "Talk to Lazy"
 	},
 	[17001] = {
 		Title = "I'll Go with You",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Leizi and Vice President Kaya Tos don't believe each other. I should offer to go with <NAVI>[Kaya Tos]<INFO>pub_cat,109,71,0,101,0</INFO></NAVI>."
+			"Lazy and Vice President Kaya Tos don't believe each other. I should offer to go with <NAVI>[Kaya Tos]<INFO>pub_cat,109,71,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Talk to Kaya Tos"
 	},
@@ -45849,9 +45854,9 @@ Talk to Kar=],
 		Title = "Time to Think",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Kaya Tos needs time to think. I should go back to <NAVI>[Leizi]<INFO>pub_cat,105,58,0,101,0</INFO></NAVI> and talk to him about him."
+			"Kaya Tos needs time to think. I should go back to <NAVI>[Lazy]<INFO>pub_cat,105,58,0,101,0</INFO></NAVI> and talk to him about him."
 		},
-		Summary = "Talk to Leizi",
+		Summary = "Talk to Lazy",
 		RewardEXP = 300000,
 		RewardJEXP = 300000
 	},
@@ -46575,7 +46580,7 @@ Talk to Kar=],
 		Description = {
 			"If circumstances permit, I would like to ask for your assistance again after dawn tomorrow. Please rest well for now. - <NAVI>[Mansion Manager Alpha]<INFO>ba_maison,74,150,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Resets at 04:00"
+		Summary = "Resets at 4 AM."
 	},
 	[17342] = {
 		Title = "It's Not That I Like It",
@@ -46727,7 +46732,7 @@ Talk to Kar=],
 		Description = {
 			"The reduced numbers have been confirmed. I may now begin my work. Thank you. Please visit again after dawn. - <NAVI>[Twity]<INFO>ba_2whs01,150,51,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Resets at 04:00"
+		Summary = "Resets at 4 AM."
 	},
 	[17361] = {
 		Title = "Organize the Underground Storage",
@@ -46743,7 +46748,7 @@ Talk to Kar=],
 		Description = {
 			"The reduced numbers have been confirmed. I may now begin my work. Thank you. Please visit again after dawn. - <NAVI>[Twity]<INFO>ba_2whs01,150,51,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Resets at 04:00"
+		Summary = "Resets at 4 AM."
 	},
 	[17363] = {
 		Title = "Explore the Bathhouse",
@@ -46863,7 +46868,7 @@ Talk to Kar=],
 		Description = {
 			"Please rest for today, and return after dawn. - <NAVI>[Boiler]<INFO>ba_bath,286,68,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Resets at 04:00"
+		Summary = "Resets at 4 AM."
 	},
 	[17378] = {
 		Title = "Request from Swishie",
@@ -46887,7 +46892,7 @@ Talk to Kar=],
 		Description = {
 			"It would be best to return after dawn. The fish will still be plentiful then. - <NAVI>[Swishie]<INFO>ba_bath,288,68,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Resets at 04:00"
+		Summary = "Resets at 4 AM."
 	},
 	[17381] = {
 		Title = "Regroup with the Party",
@@ -47172,7 +47177,7 @@ Talk to Kar=],
 		Description = {
 			"We need to organize our records, so please return after dawn. - <NAVI>[Solis]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Resets at 04:00",
+		Summary = "Resets at 4 AM.",
 		CoolTimeQuest = 1
 	},
 	[17423] = {
@@ -47181,7 +47186,7 @@ Talk to Kar=],
 		Description = {
 			"We need to organize our records, so please return after dawn. - <NAVI>[Solis]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Resets at 04:00",
+		Summary = "Resets at 4 AM.",
 		CoolTimeQuest = 1
 	},
 	[17424] = {
@@ -47190,7 +47195,7 @@ Talk to Kar=],
 		Description = {
 			"We need to organize our records, so please return after dawn. - <NAVI>[Solis]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Resets at 04:00",
+		Summary = "Resets at 4 AM.",
 		CoolTimeQuest = 1
 	},
 	[17425] = {
@@ -47199,7 +47204,7 @@ Talk to Kar=],
 		Description = {
 			"We need to organize our records, so please return after dawn. - <NAVI>[Solis]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Resets at 04:00",
+		Summary = "Resets at 4 AM.",
 		CoolTimeQuest = 1
 	},
 	[17450] = {
@@ -48121,7 +48126,7 @@ Talk to Kar=],
 		Description = {
 			"After rampaging, Sweety requires stabilization and repairs. This quest can be accepted again after the waiting period from <NAVI>[Sweety]<INFO>ba_in01,32,250,0,101,0</INFO></NAVI> at the Airship Depot."
 		},
-		Summary = "Resets at 04:00"
+		Summary = "Resets at 4 AM."
 	},
 	[18024] = {
 		Title = "Core Collection",
@@ -48137,7 +48142,7 @@ Talk to Kar=],
 		Description = {
 			"This quest can be accepted again after the waiting period from <NAVI>[Almond]<INFO>ba_in01,28,255,0,101,0</INFO></NAVI> at the Airship Depot."
 		},
-		Summary = "Resets at 04:00"
+		Summary = "Resets at 4 AM."
 	},
 	[18026] = {
 		Title = "Magic Swordsman Memory of Thanatos",
@@ -48169,7 +48174,7 @@ Talk to Kar=],
 		Description = {
 			"This quest can be accepted again through Rumin at Thanatos Tower <NAVI>[Rumin]<INFO>thana_step,154,367,0,101,0</INFO></NAVI> after the waiting time has passed."
 		},
-		Summary = "Resets at 04:00",
+		Summary = "Resets at 4 AM.",
 		CoolTimeQuest = 1,
 		NpcSpr = "6_M_AC_RUMIN",
 		NpcNavi = "thana_step",
@@ -55342,7 +55347,7 @@ Talk to Kar=],
 		Description = {
 			"This is a daily quest. After the cooldown expires, you can accept it again. The quest can be accepted from Hiccup at Serene Abyss Lake."
 		},
-		Summary = "Resets at 4 AM",
+		Summary = "Resets at 4 AM.",
 		CoolTimeQuest = 1
 	},
 	[23333] = {
@@ -55366,7 +55371,7 @@ Talk to Kar=],
 		Description = {
 			"This is a daily quest. After the cooldown expires, you can accept it again. The quest can be accepted from Toothless at Serene Abyss Lake."
 		},
-		Summary = "Resets at 4 AM",
+		Summary = "Resets at 4 AM.",
 		CoolTimeQuest = 1
 	},
 	[23336] = {
@@ -55410,7 +55415,7 @@ Talk to Kar=],
 		Description = {
 			"This is a daily quest. After the cooldown expires, you can accept it again. The quest can be accepted from Astrid at Serene Abyss Lake."
 		},
-		Summary = "Resets at 4 AM",
+		Summary = "Resets at 4 AM.",
 		CoolTimeQuest = 1
 	},
 	[23342] = {
@@ -55454,7 +55459,7 @@ Talk to Kar=],
 		Description = {
 			"This is a daily quest. After the cooldown expires, you can accept it again. The quest can be accepted from Ruffnut at Serene Abyss Lake."
 		},
-		Summary = "Resets at 4 AM",
+		Summary = "Resets at 4 AM.",
 		CoolTimeQuest = 1
 	},
 	[23348] = {
@@ -55470,7 +55475,7 @@ Talk to Kar=],
 		Description = {
 			"This is a daily quest. After the cooldown expires, you can accept it again. The quest can be accepted from Tuffnut at Serene Abyss Lake."
 		},
-		Summary = "Resets at 4 AM",
+		Summary = "Resets at 4 AM.",
 		CoolTimeQuest = 1
 	},
 	[23350] = {
@@ -55782,7 +55787,7 @@ Talk to Kar=],
 		Summary = "Investigate the Inner Fissure"
 	},
 	[24136] = {
-		Title = "Get ready, Berg Katse!",
+		Title = "[Wait] Get ready, Berg Katse!",
 		IconName = "ico_ev.bmp",
 		Description = {
 			"The Galactor gang has been driven out and the rift has been cleared. Perhaps it will be safe until they repair it again?"
@@ -55818,7 +55823,7 @@ Talk to Kar=],
 		Summary = "Defeat Squid Bombs"
 	},
 	[24140] = {
-		Title = "Alright! I'll smash them all.",
+		Title = "[Wait] Alright! I'll smash them all.",
 		IconName = "ico_ev.bmp",
 		Description = {
 			"You have collected Midga Powder. Let's come back tomorrow."
@@ -55827,7 +55832,7 @@ Talk to Kar=],
 		CoolTimeQuest = 1
 	},
 	[24141] = {
-		Title = "Alright! I'll smash them all.",
+		Title = "[Wait] Alright! I'll smash them all.",
 		IconName = "ico_ev.bmp",
 		Description = {
 			"You have defeated Galarings. Let's come back tomorrow."
@@ -55836,7 +55841,7 @@ Talk to Kar=],
 		CoolTimeQuest = 1
 	},
 	[24142] = {
-		Title = "The Galactor monster won't be able to return to base.",
+		Title = "[Wait] The Galactor monster won't be able to return to base.",
 		IconName = "ico_ev.bmp",
 		Description = {
 			"You have defeated Squid Bombs. Let's come back tomorrow."
@@ -55887,7 +55892,7 @@ Talk to Kar=],
 		Summary = "Finding Joe"
 	},
 	[24148] = {
-		Title = "Please, I beg you",
+		Title = "[Wait] Please, I beg you",
 		IconName = "ico_ev.bmp",
 		Description = {
 			"Joe is safe and sound."
@@ -72654,72 +72659,72 @@ Talk to Kar=],
 	[295259] = {
 		Title = "Battle Pass Daily1",
 		Description = {
-			"Defeat 50 Orc Zombies"
+			"Defeat 5 Stiff Deleter(Sky)s"
 		},
-		Summary = "Defeat 50 Orc Zombies"
+		Summary = "Defeat 5 Stiff Deleter(Sky)s"
 	},
 	[295260] = {
 		Title = "Battle Pass Daily1",
 		Description = {
-			"Defeat Orc Zombies / Once per day, resets at 04:00"
+			"Defeat Green Plants / Once per day, Resets at 4 AM."
 		},
-		Summary = "Resets at 04:00"
+		Summary = "Resets at 4 AM."
 	},
 	[295261] = {
 		Title = "Battle Pass Daily2",
 		Description = {
-			"Defeat 100 each: Aliot, Aliza, and Alicel."
+			"Defeat 5 Stiff Deleter(Ground)s"
 		},
-		Summary = "Defeat 100 each: Aliot, Aliza, and Alicel."
+		Summary = "Defeat 5 Stiff Deleter(Ground)s"
 	},
 	[295262] = {
 		Title = "Battle Pass Daily2",
 		Description = {
-			"Defeat Aliots, Alizas, Alicels/ Once per day, resets at 04:00"
+			"Defeat Amdarais/ Once per day, Resets at 4 AM."
 		},
-		Summary = "Resets at 04:00"
+		Summary = "Resets at 4 AM."
 	},
 	[295263] = {
 		Title = "Battle Pass Daily3",
 		Description = {
-			"Deliver 10 Coagulated Spells"
+			"Defeat 5 Ice Ghosts"
 		},
-		Summary = "Deliver 10 Coagulated Spells"
+		Summary = "Defeat 5 Ice Ghosts"
 	},
 	[295264] = {
 		Title = "Battle Pass Daily3",
 		Description = {
-			"Deliver Coagulated Spells / Once per day, resets at 04:00"
+			"Deliver Mastela Fruits / Once per day, Resets at 4 AM."
 		},
-		Summary = "Resets at 04:00"
+		Summary = "Resets at 4 AM."
 	},
 	[295265] = {
 		Title = "Battle Pass Daily4",
 		Description = {
-			"Deliver 50 Orc Claws"
+			"Defeat 5 Flame Ghosts"
 		},
-		Summary = "Deliver 50 Orc Claws"
+		Summary = "Defeat 5 Flame Ghosts"
 	},
 	[295266] = {
 		Title = "Battle Pass Daily4",
 		Description = {
-			"Deliver Orc Claws / Once per day, resets at 04:00"
+			"Deliver Green Herbs / Once per day, Resets at 4 AM."
 		},
-		Summary = "Resets at 04:00"
+		Summary = "Resets at 4 AM."
 	},
 	[295267] = {
 		Title = "Battle Pass Daily5",
 		Description = {
-			"Defeat 5 Cuties"
+			"Defeat 2 Stefan Jack Ernest Wolf"
 		},
-		Summary = "Defeat 5 Cuties"
+		Summary = "Defeat 2 Stefan Jack Ernest Wolf"
 	},
 	[295268] = {
 		Title = "Battle Pass Daily5",
 		Description = {
-			"Defeat Cuties / Once per week, resets at 04:00"
+			"Defeat Phantom of Amdaraiss / Once per week, Resets at 4 AM."
 		},
-		Summary = "Resets at 04:00"
+		Summary = "Resets at 4 AM."
 	},
 	[295269] = {
 		Title = "Battle Pass Alltime",
@@ -72731,7 +72736,7 @@ Talk to Kar=],
 	[295270] = {
 		Title = "Battle Pass Alltime",
 		Description = {
-			"Level up your character once / Once per week, resets at 04:00"
+			"Level up your character once / Once per week, Resets at 4 AM."
 		},
 		Summary = "Battle Pass Season 1 Mission Complete"
 	},

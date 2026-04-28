@@ -298,5 +298,11 @@ SPRITE_ROBE_IDs = {
 	ROBE_C_Sweet_Folk = 298,
 	ROBE_C_Sixth_Sense_Satan = 299,
 	ROBE_C_Knights_Sword_Shield = 300,
-	ROBE_C_Doram_Paw_Hammer = 301
+	ROBE_C_Doram_Paw_Hammer = 301,
+	ROBE_C_Angel_Gift = 302,
+	ROBE_C_Sakura_Rod_PK = 303,
+	ROBE_C_B_Ninetail_Tail = 304,
+	ROBE_C_Darklord_Aura = 305,
+	ROBE_C_Garmbebe_Bag = 306,
+	ROBE_Magnus_Dominus = 307
 }

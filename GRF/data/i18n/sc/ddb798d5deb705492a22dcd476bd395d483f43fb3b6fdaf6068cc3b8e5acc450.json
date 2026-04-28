@@ -195,7 +195,7 @@
         "es": "[Lukie]\n¿Lo llamaste “Bonitito”?\nParece que le están dejando ese individuo al trotamundos."
     },
     "Zy2kBw": {
-        "en": "[Rookie]\nIf you want, do not hesitate to tell me any time.\nI will give you a mission to kill the pet child.",
+        "en": "[Rookie]\nIf you want, do not hesitate to tell me any time.\nI will give you a mission to kill the Cutie.",
         "pt": "[Lukie]\nSe quiser, pode me dizer a qualquer momento.\nEu lhe darei uma missão para matar o Fofinho.",
         "es": "[Lukie]\nSi lo quieres, no dudes en decírmelo en cualquier momento.\nTe daré una misión para matar al Bonitito."
     },
@@ -215,12 +215,12 @@
         "es": "[Lukie]\nDe todas formas, gracias por tu apoyo.\nVolveremos a contar contigo la próxima vez."
     },
     "ay2kBw": {
-        "en": "[Rookie]\nWelcome.\nWithout any further ado,\nWe would like to hunt the ^4D4DFFpet child^000000 guy. Will you join us?",
+        "en": "[Rookie]\nWelcome.\nWithout any further ado,\nWe would like to hunt the ^4D4DFFCutie^000000 guy. Will you join us?",
         "pt": "[Lukie]\nBoas-vindas.\nIndo direto ao ponto,\ngostaríamos de caçar o ^4D4DFFFofinho^000000. Quer nos acompanhar?",
         "es": "[Lukie]\nBienvenido.\nSin más preámbulos,\nNos gustaría cazar a ese ^4D4DFFBonitito^000000. ¿Nos acompañas?"
     },
     "bC2kBw": {
-        "en": "I am the pet child hunter!",
+        "en": "I am the Cutie hunter!",
         "pt": "Quero!",
         "es": "¡Quiero!"
     },
@@ -285,7 +285,7 @@
         "es": "Skia"
     },
     "eS2kBw": {
-        "en": "Philopontesss",
+        "en": "Philopontess",
         "pt": "Philopontess",
         "es": "Philopontesss"
     },
@@ -650,7 +650,7 @@
         "es": "^4D4DFFMazmorra del recuerdo: solo el líder del grupo puede entrar a la [sala central] ahora.^000000"
     },
     "wi2kBw": {
-        "en": "[Rookie]\nBut let's call it a day.\nLet's go there once the pet child is found.",
+        "en": "[Rookie]\nBut let's call it a day.\nLet's go there once the Cutie is found.",
         "pt": "[Lukie]\nMas vamos encerrar por hoje.\nVamos para lá assim que o Fofinho for encontrado.",
         "es": "[Lukie]\nPero dejémoslo aquí por hoy.\nVayamos allí cuando aparezca el Bonitito."
     },

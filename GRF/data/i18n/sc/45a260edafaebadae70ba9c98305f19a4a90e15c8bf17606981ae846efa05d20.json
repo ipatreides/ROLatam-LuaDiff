@@ -515,7 +515,7 @@
         "es": "Región de Al De Baran."
     },
     "ZxkoCg": {
-        "en": "[Eden Group Teleport Service]\nThese are the clients in Geffen region:\nThere is a quest from <NAVI>[Petite Boy]<INFO>geffen,40,113,000,0</INFO></NAVI>.\nIf you head northeast from Geffen, you'll find ^4D4DFFGlast Heim castle^000000.",
+        "en": "[Eden Group Teleport Service]\nThese are the clients in Geffen region:\nThere is a quest from <NAVI>[Petite Boy]<INFO>geffen,40,113,000,0</INFO></NAVI>.\nIf you head northeast from Geffen, you'll find ^4D4DFFGlastheim castle^000000.",
         "pt": "[Oficial do Éden]\nEsses são os clientes na região de Geffen:\nHá uma missão de <NAVI>[Petito]<INFO>geffen,40,113,000,0</INFO></NAVI>.\nSe você seguir para nordeste de Geffen, encontrará o castelo ^4D4DFFGlastheim^000000.",
         "es": "[Oficial de Teletransporte del Edén]\nEstos son los clientes de la región de Geffen:\nHay una quest de <NAVI>[Petite Boy]<INFO>geffen,40,113,000,0</INFO></NAVI>.\nSi te diriges al noreste de Geffen, encontrarás el ^4D4DFFCastillo de Glastheim^000000."
     },
@@ -570,7 +570,7 @@
         "es": "[Oficial de Teletransporte del Edén]\nTambién hay algunos clientes cerca de ^4D4DFFArunafeltz^000000:\nHay solicitudes de <NAVI>[Guardia del Aeropuerto de Rachel]<INFO>ra_fild12,296,200,000,0</INFO></NAVI>,\n<NAVI>[Leonard en Rachel]<INFO>rachel,192,138,000,0</INFO></NAVI>,\ny <NAVI>[Kraven en Veins]<INFO>veins,182,130,000,0</INFO></NAVI>."
     },
     "chkoCg": {
-        "en": "[Eden Group Teleport Service]\nYou can also go to other places, too, since you are an experienced Adventurer.\nPlaces like the ^4D4DFFOld Castle of Glast Heim^000000 or the Underground Cemetery of the monastery.",
+        "en": "[Eden Group Teleport Service]\nYou can also go to other places, too, since you are an experienced Adventurer.\nPlaces like the ^4D4DFFOld Castle of Glastheim^000000 or the Underground Cemetery of the monastery.",
         "pt": "[Oficial do Éden]\nVocê também pode ir a outros lugares, já que é um Aventureiro Experiente.\nLugares como o ^4D4DFFCastelo Amaldiçoado de Glastheim^000000 ou o Cemitério de Glastheim.",
         "es": "[Oficial de Teletransporte del Edén]\nTambién puedes ir a otros lugares, ya que eres un Aventurero experimentado.\nLugares como el ^4D4DFFAntiguo Castillo de Glastheim^000000 o el Cementerio Subterráneo del monasterio."
     },
@@ -585,7 +585,7 @@
         "es": "[Oficial de Teletransporte del Edén]\n¿Quizás se refiere a la Isla Tortuga de Alberta?\nIsla Tortuga ... Es un lugar interesante."
     },
     "dRkoCg": {
-        "en": "[Eden Group Teleport Service]\nHmm, clients at this level ...\nThere's a man called <NAVI>[Darkess]<INFO>glast_01,213,294,000,0</INFO></NAVI> somewhere.\nAh, he must be at the Old Castle of Glast Heim.\nIt's an ancient castle located northeast of Geffen.",
+        "en": "[Eden Group Teleport Service]\nHmm, clients at this level ...\nThere's a man called <NAVI>[Darkess]<INFO>glast_01,213,294,000,0</INFO></NAVI> somewhere.\nAh, he must be at the Old Castle of Glastheim.\nIt's an ancient castle located northeast of Geffen.",
         "pt": "[Oficial do Éden]\nHmm, clientes nesse nível ...\nHá um homem chamado <NAVI>[Padre Lúcifer]<INFO>glast_01,213,294,000,0</INFO></NAVI> em algum lugar.\nAh, ele deve estar no Castelo Antigo de Glastheim.\nÉ um castelo antigo localizado a nordeste de Geffen.",
         "es": "[Oficial de Teletransporte del Edén]\nHmm, los clientes a este nivel ...\nHay un hombre llamado <NAVI>[Darkess]<INFO>glast_01,213,294,000,0</INFO></NAVI> en alguna parte.\nAh, debe estar en el Viejo Castillo de Glastheim.\nEs un antiguo castillo situado al noreste de Geffen."
     },

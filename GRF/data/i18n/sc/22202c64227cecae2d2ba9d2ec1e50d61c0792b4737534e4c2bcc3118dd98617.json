@@ -8,79 +8,79 @@
     "oQLJDA": {
         "ko": "^FF0000보유한 물건의 종류나 무게가 너무 많은 것 같습니다. 인벤토리를 정리해주세요.^000000",
         "en": "^FF0000You seem to be carrying too many types of items or exceeding the weight limit. Please organize your inventory.^000000",
-        "pt": "^FF0000Parece que você possui muitos tipos de itens ou o peso total está muito alto. Por favor, organize seu inventário.^000000",
+        "pt": "^FF0000Por favor, reorganize seu inventário.^000000",
         "es": "^FF0000Parece que el número de tipos de objetos o el peso que llevas es demasiado alto. Por favor, ordena tu inventario.^000000"
     },
     "ogLJDA": {
         "ko": "[HUGINN2001]\n지금 이벤트를 맞아 ^0000FF시간의 마력과 시간의 보석 원석 등장확률 2배 진행중^000000입니다. 저를 후긴이라 불러주십시오.",
         "en": "[HUGINN2001]\nAs part of the current event, the appearance rate of ^0000FFPower of Time and Raw Gemstone of Time is doubled^000000. Please call me Huginn.",
-        "pt": "[HUGINN2001]\nNo momento, devido ao evento, a taxa de obtenção de ^0000FFPoder Temporal e Minério da Jóia Temporal está em dobro^000000. Por favor, chame-me de Hugin.",
+        "pt": "[HUGINN2001]\nNo momento, devido ao evento, a chance de conseguir Poder Temporal e Minério da Jóia Temporal ^0000FFfoi dobrada^000000. Por favor, chame-me de Hugin.",
         "es": "[HUGINN2001]\nCon motivo del evento actual, ^0000FFPoder mágico del tiempo y Gema en bruto del Tiempo tienen una probabilidad de aparición duplicada^000000. Llámame Hugin."
     },
     "owLJDA": {
         "ko": "[HUGINN2001]\n지능형 자동 상품 분류기 HUGINN2001 입니다. 후긴이라 불러주십시오.",
         "en": "[HUGINN2001]\nThis is the intelligent automatic merchandise sorter HUGINN2001. Please call me Huginn.",
-        "pt": "[HUGINN2001]\nSou o classificador automático inteligente de produtos HUGINN2001. Por favor, chame-me de Hugin.",
+        "pt": "[HUGINN2001]\nSou a Máquina de Vendas, HUGINN2001. Por favor, chame-me de Hugin.",
         "es": "[HUGINN2001]\nSoy el clasificador automático inteligente de mercancías HUGINN2001. Llámame Hugin."
     },
     "pALJDA": {
         "ko": "^0000FF-관리자모드-^000000\n확률상태 {0}",
         "en": "^0000FF-Administrator Mode-^000000\nProbability Status {0}",
-        "pt": "^0000FF-Modo Administrador-^000000\nEstado de probabilidade {0}",
+        "pt": "^0000FF-Modo Administrador-^000000\nChance: {0}",
         "es": "^0000FF-Modo Administrador-^000000\nEstado de probabilidad {0}"
     },
     "pQLJDA": {
         "ko": "[HUGINN2001]\n[<ITEM>봉인된 시간의 서클릿<INFO>25864</INFO></ITEM>]을 정화하여 장비로 교체하거나. 다른 자원으로 변환하는 일, 그외에 초상화 관리를 하고있습니다. 무얼 도와드릴까요.",
         "en": "[HUGINN2001]\nI purify [<ITEM>Sealed Circlet of Time<INFO>25864</INFO></ITEM>] to exchange it for equipment, convert it into other resources, and manage portraits. How may I assist you?",
-        "pt": "[HUGINN2001]\nGerencio a purificação de [<ITEM>Diadema do Tempo Selada<INFO>25864</INFO></ITEM>] para troca por equipamentos, conversão em outros recursos e também o gerenciamento de retratos. Em que posso ajudar?",
+        "pt": "[HUGINN2001]\nFui programado para trocar Cartas, criar Diademas Temporais e converter [<ITEM>Diadema Temporal Selado<INFO>25864</INFO></ITEM>]. Em que posso ajudar?",
         "es": "[HUGINN2001]\nPurifico [<ITEM>Circlet del Tiempo sellado<INFO>25864</INFO></ITEM>] para convertirlo en equipo, transformarlo en otros recursos o gestionar retratos. ¿En qué puedo ayudarte?"
     },
     "pgLJDA": {
         "ko": "정화된 장비로 교환한다",
         "en": "Exchange for Purified Equipment",
-        "pt": "Trocar por equipamento purificado",
+        "pt": "Criar Diadema Temporal",
         "es": "Intercambiar por equipo purificado"
     },
     "pwLJDA": {
         "ko": "정화하여 자원으로 만든다",
         "en": "Purify and Convert into Resources",
-        "pt": "Purificar e converter em recursos",
+        "pt": "Converter Diadema Selado",
         "es": "Purificar y convertir en recursos"
     },
     "qALJDA": {
         "ko": "초상화 둘러보기",
         "en": "Browse Portraits",
-        "pt": "Ver retratos",
+        "pt": "Comprar Cartas",
         "es": "Ver retratos"
     },
     "qQLJDA": {
         "ko": "[HUGINN2001]\n[<ITEM>봉인된 시간의 서클릿<INFO>25864</INFO></ITEM>]를 각각의 에너지 보유량에 맞는 물질로 바꿔드립니다.",
         "en": "[HUGINN2001]\nI will convert [<ITEM>Sealed Circlet of Time<INFO>25864</INFO></ITEM>] into materials according to its respective energy amount.",
-        "pt": "[HUGINN2001]\nVou converter [<ITEM>Diadema do Tempo Selada<INFO>25864</INFO></ITEM>] em materiais correspondentes à quantidade de energia que possui.",
+        "pt": "[HUGINN2001]\nEu retiro TODOS os [<ITEM>Diademas Temporais Selados<INFO>25864</INFO></ITEM>] do seu inventário. Ele será convertido em materiais temporais.",
         "es": "[HUGINN2001]\nConvertiré [<ITEM>Circlet del Tiempo sellado<INFO>25864</INFO></ITEM>] en materiales según la cantidad de energía que posea."
     },
     "qgLJDA": {
         "ko": "[HUGINN2001]\n똑같은 봉인된 시간의 서클릿이라도 보유한 에너지량이 다른 관계로 교환되는 수량과 종류에는 차이가 있을 수 있습니다.",
         "en": "[HUGINN2001]\nEven identical Sealed Circlet of Time may contain different amounts of energy, so the quantity and type received in exchange may vary.",
-        "pt": "[HUGINN2001]\nMesmo que sejam Diadema do Tempo Selada, a quantidade e o tipo obtidos na troca podem variar dependendo da quantidade de energia que cada um possui.",
+        "pt": "[HUGINN2001]\nA quantidade e o item obtido na conversão podem variar dependendo da quantidade de energia mística que cada Diadema Temporal Selado possui.",
         "es": "[HUGINN2001]\nIncluso siendo el mismo Circlet del Tiempo sellado, la cantidad y tipo obtenidos pueden variar dependiendo de la energía que contenga."
     },
     "qwLJDA": {
         "ko": "[HUGINN2001]\n[<ITEM>봉인된 시간의 서클릿<INFO>25864</INFO></ITEM>]을 사용할 곳이 마땅치 않거나 다른 자원으로 변환하기 원하실때 애용해주시기 바랍니다.",
         "en": "[HUGINN2001]\nIf you have no particular use for [<ITEM>Sealed Circlet of Time<INFO>25864</INFO></ITEM>] or wish to convert it into other resources, please feel free to use this service.",
-        "pt": "[HUGINN2001]\nCaso não tenha utilidade para [<ITEM>Diadema do Tempo Selada<INFO>25864</INFO></ITEM>] ou deseje convertê-lo em outros recursos, utilize este serviço.",
+        "pt": "[HUGINN2001]\nEste serviço é útil caso você não queira usar o [<ITEM>Diadema Temporal Selado<INFO>25864</INFO></ITEM>].",
         "es": "[HUGINN2001]\nSi no tienes un uso claro para [<ITEM>Circlet del Tiempo sellado<INFO>25864</INFO></ITEM>] o deseas transformarlo en otros recursos, por favor utilízame."
     },
     "rALJDA": {
         "ko": "[HUGINN2001]\n[<ITEM>봉인된 시간의 서클릿<INFO>25864</INFO></ITEM>]을 다른 자원으로 변환하시겠습니까?",
         "en": "[HUGINN2001]\nWould you like to convert [<ITEM>Sealed Circlet of Time<INFO>25864</INFO></ITEM>] into other resources?",
-        "pt": "[HUGINN2001]\nDeseja converter [<ITEM>Diadema do Tempo Selada<INFO>25864</INFO></ITEM>] em outros recursos?",
+        "pt": "[HUGINN2001]\nDeseja converter [<ITEM>Diadema Temporal Selado<INFO>25864</INFO></ITEM>]?",
         "es": "[HUGINN2001]\n¿Deseas convertir [<ITEM>Circlet del Tiempo sellado<INFO>25864</INFO></ITEM>] en otros recursos?"
     },
     "rQLJDA": {
         "ko": "[HUGINN2001]\n남아있는 분량도 계속 변환 하시겠습니까?",
         "en": "[HUGINN2001]\nWould you like to continue converting the remaining amount as well?",
-        "pt": "[HUGINN2001]\nDeseja continuar convertendo a quantidade restante?",
+        "pt": "[HUGINN2001]\nDeseja continuar convertendo os Diademas Temporais Selados restantes?",
         "es": "[HUGINN2001]\n¿Deseas seguir convirtiendo la cantidad restante?"
     },
     "rgLJDA": {
@@ -98,19 +98,19 @@
     "sALJDA": {
         "ko": "[HUGINN2001]\n이용해주셔서 감사합니다.",
         "en": "[HUGINN2001]\nThank you for using our service.",
-        "pt": "[HUGINN2001]\nObrigado por utilizar.",
+        "pt": "[HUGINN2001]\nVolte sempre.",
         "es": "[HUGINN2001]\nGracias por utilizar el servicio."
     },
     "sQLJDA": {
         "ko": "[HUGINN2001]\n[<ITEM>봉인된 시간의 서클릿<INFO>25864</INFO></ITEM>]의 잔량이 부족합니다. 인벤토리를 확인해보세요.",
         "en": "[HUGINN2001]\nThe remaining amount of [<ITEM>Sealed Circlet of Time<INFO>25864</INFO></ITEM>] is insufficient. Please check your inventory.",
-        "pt": "[HUGINN2001]\nA quantidade restante de [<ITEM>Diadema do Tempo Selada<INFO>25864</INFO></ITEM>] é insuficiente. Verifique seu inventário.",
+        "pt": "[HUGINN2001]\nRealizei a conversão de todos os [<ITEM>Diademas Temporais Selados<INFO>25864</INFO></ITEM>]. Verifique seu inventário.",
         "es": "[HUGINN2001]\nLa cantidad restante de [<ITEM>Circlet del Tiempo sellado<INFO>25864</INFO></ITEM>] es insuficiente. Revisa tu inventario."
     },
     "sgLJDA": {
         "ko": "--{0}번째 정화 결과--",
         "en": "--{0}th Purification Result--",
-        "pt": "--Resultado da purificação nº {0}--",
+        "pt": "-- Resultado nº {0} da Conversão --",
         "es": "--Resultado de purificación nº {0}--"
     },
     "swLJDA": {
@@ -140,19 +140,19 @@
     "twLJDA": {
         "ko": "[MUNNIN2003]\n저는 여러가지 무기를 갖고 있습니다. 한번 구경해 보시겠습니까?",
         "en": "[MUNNIN2003]\nI possess various weapons. Would you like to take a look?",
-        "pt": "[MUNNIN2003]\nPossuo várias armas. Gostaria de dar uma olhada?",
+        "pt": "[MUNNIN2003]\nPossuo várias Armas Reais. Gostaria de dar uma olhada?",
         "es": "[MUNNIN2003]\nDispongo de varias armas. ¿Te gustaría echarles un vistazo?"
     },
     "uALJDA": {
         "ko": "무기 교환",
         "en": "Weapon Exchange",
-        "pt": "Troca de armas",
+        "pt": "Escolher Arma Real",
         "es": "Intercambiar arma"
     },
     "uQLJDA": {
         "ko": "무작위 무기 교환",
         "en": "Random Weapon Exchange",
-        "pt": "Troca de arma aleatória",
+        "pt": "Trocar por Arma aleatória",
         "es": "Intercambio de arma aleatoria"
     },
     "ugLJDA": {
@@ -163,8 +163,8 @@
     },
     "uwLJDA": {
         "ko": "[MUNNIN2003]\n[<ITEM>시간의 보석 원석<INFO>25865</INFO></ITEM>] {0}개\n[<ITEM>시간의 파편<INFO>25867</INFO></ITEM>] {1}개\n로 무작위 무기를 교환하실 수 있습니다. ^FF0000반품은 불가능하니 신중히 결정해 주십시오.^000000",
-        "en": "[MUNNIN2003]\nWith [<ITEM>Raw Gemstone of Time<INFO>25865</INFO></ITEM>] {0}\nand [<ITEM>Fragment of Time<INFO>25867</INFO></ITEM>] {1}\nyou may exchange for a random weapon. ^FF0000Refunds are not possible, so please decide carefully.^000000",
-        "pt": "[MUNNIN2003]\nCom {0} [<ITEM>Minério da Jóia Temporal<INFO>25865</INFO></ITEM>]\ne {1} [<ITEM>Fragmento do Tempo<INFO>25867</INFO></ITEM>]\nvocê pode trocar por uma arma aleatória. ^FF0000Devoluções não são possíveis, então decida com cuidado.^000000",
+        "en": "[MUNNIN2003]\nWith [<ITEM>Temporal Gemstone<INFO>25865</INFO></ITEM>] {0}\nand [<ITEM>Fragment of Time<INFO>25867</INFO></ITEM>] {1}\nyou may exchange for a random weapon. ^FF0000Refunds are not possible, so please decide carefully.^000000",
+        "pt": "[MUNNIN2003]\nCom {0}x [<ITEM>Gema Temporal<INFO>25865</INFO></ITEM>]\ne {1}x [<ITEM>Fragmento Temporal<INFO>25867</INFO></ITEM>]\nvocê pode trocar por uma arma aleatória. ^FF0000Devoluções não são possíveis, então decida com cuidado.^000000",
         "es": "[MUNNIN2003]\nCon [<ITEM>Gema en bruto del Tiempo<INFO>25865</INFO></ITEM>] {0}\ny [<ITEM>Fragmento del tiempo<INFO>25867</INFO></ITEM>] {1}\npuedes intercambiar un arma aleatoria. ^FF0000No se aceptan devoluciones, así que decide con cuidado.^000000"
     },
     "vALJDA": {
@@ -181,14 +181,14 @@
     },
     "vgLJDA": {
         "ko": "[MUNNIN2003]\n[<ITEM>시간의 보석 원석<INFO>25865</INFO></ITEM>] {0}개\n[<ITEM>시간의 파편<INFO>25867</INFO></ITEM>] {1}개\n가 필요합니다. 재료를 확인후 다시 도전해주세요.",
-        "en": "[MUNNIN2003]\nYou need [<ITEM>Raw Gemstone of Time<INFO>25865</INFO></ITEM>] {0}\nand [<ITEM>Fragment of Time<INFO>25867</INFO></ITEM>] {1}.\nPlease check your materials and try again.",
-        "pt": "[MUNNIN2003]\nSão necessários {0} [<ITEM>Minério da Jóia Temporal<INFO>25865</INFO></ITEM>]\ne {1} [<ITEM>Fragmento do Tempo<INFO>25867</INFO></ITEM>].\nVerifique os materiais e tente novamente.",
+        "en": "[MUNNIN2003]\nYou need [<ITEM>Temporal Gemstone<INFO>25865</INFO></ITEM>] {0}\nand [<ITEM>Fragment of Time<INFO>25867</INFO></ITEM>] {1}.\nPlease check your materials and try again.",
+        "pt": "[MUNNIN2003]\nSão necessários {0}x [<ITEM>Gema Temporal<INFO>25865</INFO></ITEM>]\ne {1}x [<ITEM>Fragmento Temporal<INFO>25867</INFO></ITEM>].\nVerifique os materiais e tente novamente.",
         "es": "[MUNNIN2003]\nSe requieren [<ITEM>Gema en bruto del Tiempo<INFO>25865</INFO></ITEM>] {0}\ny [<ITEM>Fragmento del tiempo<INFO>25867</INFO></ITEM>] {1}.\nRevisa los materiales e inténtalo de nuevo."
     },
     "vwLJDA": {
         "ko": "--{0}번째 교환 결과--",
         "en": "--{0}th Exchange Result--",
-        "pt": "--Resultado da troca nº {0}--",
+        "pt": "-- Resultado nº {0} da Troca --",
         "es": "--Resultado de intercambio nº {0}--"
     },
     "wALJDA": {

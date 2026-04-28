@@ -1468,150 +1468,6 @@ tblLapineUpgradeBox = {
 			},
 			NeedSource_String = "Itens do Torneio"
 		},
-		Refine_Hero_Weapon = {
-			ItemID = 100271,
-			NeedRefineMin = 0,
-			NeedRefineMax = 8,
-			NeedOptionNumMin = 0,
-			NotSocketEnchantItem = false,
-			TargetItems = {
-				{
-					"Royal_Bow_K",
-					18164
-				},
-				{"Narcis_Bow", 18170},
-				{
-					"Shadow_Staff_K",
-					26118
-				},
-				{
-					"Iron_Nail_K",
-					1847
-				},
-				{
-					"Magic_Sword",
-					28744
-				},
-				{
-					"Sword_Of_Bluefire",
-					13485
-				},
-				{"Avenger", 28130},
-				{"Iron_Staff", 2048},
-				{
-					"Oriental_Sword",
-					21038
-				},
-				{
-					"Undine_Spear_K",
-					32018
-				},
-				{
-					"Demon_Hunting_Bible_K",
-					28630
-				},
-				{
-					"Shiver_Katar_K",
-					28039
-				},
-				{
-					"OneSkyOneSun",
-					28631
-				},
-				{"SoulWeight", 26154},
-				{
-					"MeawFoxtail",
-					26155
-				},
-				{
-					"Crimson_Rose",
-					32302
-				},
-				{
-					"Master_Soul_Rifle",
-					28255
-				},
-				{
-					"Demon_S_Shot",
-					28256
-				},
-				{
-					"Golden_L_Launcher",
-					28257
-				},
-				{
-					"The_Black_Gatling",
-					28258
-				},
-				{
-					"Sharp_Wind_Sword",
-					28763
-				},
-				{
-					"Fog_Dew_Sword",
-					28764
-				},
-				{
-					"Humma_Clear",
-					13345
-				},
-				{
-					"Dragonic_Slayer",
-					600004
-				},
-				{
-					"Light_Blade",
-					500003
-				},
-				{
-					"Slate_Sword",
-					500004
-				},
-				{
-					"Trumpet_Shell_K",
-					570002
-				},
-				{
-					"Barb_Wire_K",
-					580002
-				},
-				{
-					"Meteor_Striker",
-					590002
-				},
-				{
-					"Blade_Katar",
-					610003
-				},
-				{
-					"Scalet_Dragon_L_Bow",
-					700003
-				},
-				{"Fatalist", 510006},
-				{
-					"Ray_Knuckle",
-					560002
-				},
-				{"Saint_Hall", 590003},
-				{
-					"Blue_Crystal_Staff",
-					640004
-				},
-				{
-					"Freezing_Rod",
-					550007
-				},
-				{
-					"Freedom_Stick",
-					550080
-				},
-				{
-					"Blessed_Knife",
-					510070
-				}
-			},
-			NeedSource_String = "Arma Ancestral"
-		},
 		Refine_Hero_Boots = {
 			ItemID = 100272,
 			NeedRefineMin = 0,
@@ -14968,7 +14824,7 @@ tblLapineUpgradeBox = {
 		God_Favor_TW = {
 			ItemID = 101484,
 			NeedRefineMin = 0,
-			NeedRefineMax = 0,
+			NeedRefineMax = 20,
 			NeedOptionNumMin = 0,
 			NotSocketEnchantItem = true,
 			TargetItems = {
@@ -17010,6 +16866,226 @@ tblLapineUpgradeBox = {
 				}
 			},
 			NeedSource_String = "Boné de Corrida"
+		},
+		Refine_Hero_Weapon = {
+			ItemID = 100271,
+			NeedRefineMin = 0,
+			NeedRefineMax = 8,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = false,
+			TargetItems = {
+				{
+					"Royal_Bow_K",
+					18164
+				},
+				{"Narcis_Bow", 18170},
+				{
+					"Shadow_Staff_K",
+					26118
+				},
+				{
+					"Iron_Nail_K",
+					1847
+				},
+				{
+					"Magic_Sword",
+					28744
+				},
+				{
+					"Sword_Of_Bluefire",
+					13485
+				},
+				{"Avenger", 28130},
+				{"Iron_Staff", 2048},
+				{
+					"Oriental_Sword",
+					21038
+				},
+				{
+					"Undine_Spear_K",
+					32018
+				},
+				{
+					"Demon_Hunting_Bible_K",
+					28630
+				},
+				{
+					"Shiver_Katar_K",
+					28039
+				},
+				{
+					"OneSkyOneSun",
+					28631
+				},
+				{"SoulWeight", 26154},
+				{
+					"MeawFoxtail",
+					26155
+				},
+				{
+					"Crimson_Rose",
+					32302
+				},
+				{
+					"Master_Soul_Rifle",
+					28255
+				},
+				{
+					"Demon_S_Shot",
+					28256
+				},
+				{
+					"Golden_L_Launcher",
+					28257
+				},
+				{
+					"The_Black_Gatling",
+					28258
+				},
+				{
+					"Sharp_Wind_Sword",
+					28763
+				},
+				{
+					"Fog_Dew_Sword",
+					28764
+				},
+				{
+					"Humma_Clear",
+					13345
+				},
+				{
+					"Dragonic_Slayer",
+					600004
+				},
+				{
+					"Light_Blade",
+					500003
+				},
+				{
+					"Slate_Sword",
+					500004
+				},
+				{
+					"Trumpet_Shell_K",
+					570002
+				},
+				{
+					"Barb_Wire_K",
+					580002
+				},
+				{
+					"Meteor_Striker",
+					590002
+				},
+				{
+					"Blade_Katar",
+					610003
+				},
+				{
+					"Scalet_Dragon_L_Bow",
+					700003
+				},
+				{"Fatalist", 510006},
+				{
+					"Ray_Knuckle",
+					560002
+				},
+				{"Saint_Hall", 590003},
+				{
+					"Blue_Crystal_Staff",
+					640004
+				},
+				{
+					"Freezing_Rod",
+					550007
+				},
+				{
+					"Freedom_Stick",
+					550080
+				},
+				{
+					"Blessed_Knife",
+					510070
+				}
+			},
+			NeedSource_String = "Arma Ancestral"
+		},
+		Bio_Helm_Refine_Cube = {
+			ItemID = 100684,
+			NeedRefineMin = 0,
+			NeedRefineMax = 10,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = false,
+			TargetItems = {
+				{
+					"BioWeapon_Helm_RK",
+					400078
+				},
+				{
+					"BioWeapon_Helm_LG",
+					400079
+				},
+				{
+					"BioWeapon_Helm_WL",
+					400094
+				},
+				{
+					"BioWeapon_Helm_SO",
+					400095
+				},
+				{
+					"BioWeapon_Helm_NC",
+					400098
+				},
+				{
+					"BioWeapon_Helm_GN",
+					400099
+				},
+				{
+					"BioWeapon_Helm_RA",
+					400116
+				},
+				{
+					"BioWeapon_Helm_WM",
+					400117
+				},
+				{
+					"BioWeapon_Helm_AB",
+					400118
+				},
+				{
+					"BioWeapon_Helm_SR",
+					400119
+				},
+				{
+					"BioWeapon_Helm_SC",
+					400120
+				},
+				{
+					"BioWeapon_Helm_GC",
+					400121
+				}
+			},
+			NeedSource_String = "Bioelmos"
+		},
+		Timeoverload_Power_LT = {
+			ItemID = 107226,
+			NeedRefineMin = 0,
+			NeedRefineMax = 20,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = false,
+			TargetItems = {
+				{
+					"WM_Physical_LT",
+					480812
+				},
+				{
+					"WM_Magical_LT",
+					480813
+				}
+			},
+			NeedSource_String = "Manto dos Cavaleiros Brancos"
 		}
 	},
 	get_lapine_box = function(in_box_id)

@@ -416,7 +416,7 @@
     },
     "szdiBg": {
         "en": "[Megrez]\nInvest under Hohenschwangau's{0}guild name.\nThere are 2 ways to invest, either by Zeny or the Investment Certificate given out by the Cat Paw Merchant Guild.\nWhich way would you like to make your investment?",
-        "pt": "[Megrez]\nVocê vai investir em nome do clã que ocupa o castelo Astrum,{0}.\nHá duas maneiras de investir: com Zenys ou com o Certificado de Investimento emitido pela Corporação Pata de Gato.\nComo quer fazer seu investimento?",
+        "pt": "[Megrez]\nVocê vai investir em nome do clã que ocupa o castelo Astrum, {0}.\nHá duas maneiras de investir: com Zenys ou com o Certificado de Investimento emitido pela Corporação Pata de Gato.\nComo quer fazer seu investimento?",
         "es": "[Megrez]\nInvierte bajo el nombre del gremio de {0} de Hohenschwangau.\nHay dos formas de invertir, ya sea con zeny o el Certificado de inversión que otorga el gremio de Comerciantes Pata de Gato.\n¿De qué forma te gustaría invertir?"
     },
     "tDdiBg": {
@@ -431,7 +431,7 @@
     },
     "tjdiBg": {
         "en": "[Megrez]\nThe guild that is occupying Hohenschwangau is{0}.\nDoesn't look like your guild.",
-        "pt": "[Megrez]\nA guilda que ocupa o Astrum é a{0}.\nNão parece ser a sua guilda.",
+        "pt": "[Megrez]\nA guilda que ocupa o Astrum é  {0}.\nNão parece ser a sua guilda.",
         "es": "[Megrez]\nEl gremio que ocupa Hohenschwangau es {0}.\nNo parece tu gremio."
     },
     "tzdiBg": {

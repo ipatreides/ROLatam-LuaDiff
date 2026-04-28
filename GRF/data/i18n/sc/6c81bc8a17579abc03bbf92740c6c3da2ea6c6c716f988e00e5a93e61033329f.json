@@ -20,25 +20,25 @@
     "Ix3PDA": {
         "ko": "히멜메즈의 환영",
         "en": "Illusion of Himmelmez",
-        "pt": "Ilusão de Hemelmez",
+        "pt": "Miragem de Himmelmez",
         "es": "Ilusión de Himmelmez"
     },
     "JB3PDA": {
         "ko": "암다라이스의 환영",
         "en": "Phantom of Amdarais",
-        "pt": "Fantasma de Amdarais",
+        "pt": "Miragem de Amdarais",
         "es": "Fantasma de Amdarais"
     },
     "JR3PDA": {
         "ko": "오스카: (아, 좀 더 신나게 패도 되려나?)",
         "en": "Oscar: (Ah, maybe I can hit it a bit harder?)",
-        "pt": "Oscar: (Ah, será que posso bater com mais entusiasmo?)",
+        "pt": "Oscar: Ah, será que isso bate com mais força?",
         "es": "Oscar: (Ah, ¿podría golpear un poco más fuerte?)"
     },
     "Jh3PDA": {
         "ko": "오스카: (얘, 더 때리면 화낼거같아...)",
         "en": "Oscar: (Hey, I think it might get angry if we hit it any more...)",
-        "pt": "Oscar: (Ei, acho que vai ficar irritado se eu bater mais...)",
+        "pt": "Oscar: Ei, acho que vai piorar se eu bater mais...",
         "es": "Oscar: (Oye, si le pego más parece que se va a enfadar...)"
     },
     "Jx3PDA": {
@@ -140,13 +140,13 @@
     "Nx3PDA": {
         "ko": "오스카: {0}이 불러오는 몬스터를 남겨둬선 안돼요. 우릴 사방으로 날려 보낼거예요",
         "en": "Oscar: We must not leave the monsters summoned by {0}. They will scatter us in every direction.",
-        "pt": "Oscar: Não podemos deixar os monstros invocados por {0}. Eles vão nos lançar para todos os lados",
+        "pt": "Oscar: Não podemos ignorar os monstros da {0}!",
         "es": "Oscar: No deben dejar con vida a los monstruos que invoca {0}. Nos lanzarán por todas partes."
     },
     "OB3PDA": {
         "ko": "과거의 환영#",
         "en": "Illusion of the Past#",
-        "pt": "Ilusão do Passado#",
+        "pt": "Khalitzburg do Passado#",
         "es": "Ilusión del pasado#"
     },
     "OR3PDA": {
@@ -164,19 +164,19 @@
     "Ox3PDA": {
         "ko": "잊혀진 환영#",
         "en": "Forgotten Illusion#",
-        "pt": "Ilusão Esquecida#",
+        "pt": "Cavaleiro Deprimido#",
         "es": "Ilusión olvidada#"
     },
     "PB3PDA": {
         "ko": "나는 잊혀진 자....",
         "en": "I am the forgotten one....",
-        "pt": "Eu sou o esquecido....",
+        "pt": "Eu fui esquecido por todos....",
         "es": "Soy el olvidado..."
     },
     "PR3PDA": {
         "ko": "저주받은 환영#",
         "en": "Cursed Illusion#",
-        "pt": "Amaldiçoado Ilusão#",
+        "pt": "Arqueiro Amaldiçoado#",
         "es": "Ilusión de maldito#"
     },
     "Ph3PDA": {
@@ -184,5 +184,8 @@
         "en": "Die...",
         "pt": "Morra...",
         "es": "¡Muere..."
+    },
+    "Px3PDA": {
+        "ko": "오스카: {0}이 불러오는 몬스터를 남겨둬선 안돼요. 우릴 사방으로 날려 보낼거예요"
     }
 }

@@ -696,7 +696,7 @@
     },
     "64I7": {
         "en": "[Doha]\nDo you know the\nCat Hand Merchants?\nThey are also doing\nbusiness nearby.\nOne of them leaked this\ninformation to me.",
-        "pt": "[Doha]\nConhece o Grupo Cat Hand?\nEles têm uma filial aqui.\nUm dos gatos da filial\nme forneceu informações.",
+        "pt": "[Doha]\nConhece o Grupo Pata de Gato?\nEles têm uma filial aqui.\nUm dos gatos da filial\nme forneceu informações.",
         "es": "[Doha]\n¿Conoces a\nlos comerciantes de Pata de Gato?\nTambién están haciendo\nnegocios en las cercanías.\nUno de ellos me reveló \nesta información."
     },
     "7II7": {
@@ -841,7 +841,7 @@
     },
     "CIM7": {
         "en": "[Doha]\nI will continue on searching and investigating Manuk and Splendide from here.\nI need you to investigate during your journey.",
-        "pt": "[Doha]\nEnquanto isso, continuarei investigando em Manuk e Splendide.\nSeu trabalho é investigar no caminho para El Dicastes e quando estiver lá.",
+        "pt": "[Doha]\nEnquanto isso, continuarei investigando em Manuk e Esplendor.\nSeu trabalho é investigar no caminho para El Dicastes e quando estiver lá.",
         "es": "[Doha]\nSeguiré buscando e investigando en Manuk y Splendide a partir de ahora.\nNecesito que investigues durante tu viaje."
     },
     "CYM7": {
@@ -861,7 +861,7 @@
     },
     "DIM7": {
         "en": "[Doha]\nI will investigate Manuk and Splendide.\nSo you will have to look for clues in El Dicastes.",
-        "pt": "[Doha]\nVou investigar Manuk e Splendide.\nVocê está encarregado de El Dicastes.",
+        "pt": "[Doha]\nVou investigar Manuk e Esplendor.\nVocê está encarregado de El Dicastes.",
         "es": "[Doha]\nYo investigaré en Manuk y Splendide.\nAsí que tú tendrás que buscar pistas en El Dicastes."
     },
     "DYM7": {
@@ -1691,7 +1691,7 @@
     },
     "soM7": {
         "en": "[Shay]\nThere are many Saphas working at the factory, drill hall, square and anywhere else.\nThere are the Cat Merchants outside of the castle, too.",
-        "pt": "[Shai]\nVá perguntar aos Manuks na fábrica, no campo de treinamento ou na praça.\nOs Cat Hands estão do lado de fora do castelo.",
+        "pt": "[Shai]\nVá perguntar aos Manuks na fábrica, no campo de treinamento ou na praça.\nOs gatos comerciantes estão do lado de fora do castelo.",
         "es": "[Shay]\nHay muchos saphas trabajando en la fábrica, en la sala de perforación, en la plaza y en todos lados.\nTambién están los gatos comerciantes fuera del castillo."
     },
     "s4M7": {
@@ -1871,7 +1871,7 @@
     },
     "1oM7": {
         "en": "[Shay]\nThe Cat Merchants are also collecting Sapha Certifications. They want to meet the minister in person so they can negotiate business.",
-        "pt": "[Shai]\nO Grupo Cat Hand está louco para conseguir o máximo de Certificados possíveis, provavelmente para uma negociação comercial com o governo da cidade.",
+        "pt": "[Shai]\nO Grupo Pata de Gato está louco para conseguir o máximo de Certificados possíveis, provavelmente para uma negociação comercial com o governo da cidade.",
         "es": "[Shay]\nLos gatos comerciantes también están recolectando Certificaciones sapha. Quieren conocer al ministro en persona para poder hacer negocios."
     },
     "14M7": {
@@ -2261,7 +2261,7 @@
     },
     "JIQ7": {
         "en": "[Piom]\nHAHAHAHA!!!\nThere are so many asking\nabout that recently.\nIs there any conflict with the Cat Hand Merchants?",
-        "pt": "[Peom]\nHah hah hah!\nHah hah hah!\nVocê não é a primeira pessoa a fazer essa pergunta.\nVocê irritou o Grupo Cat Hand, ou algo assim?",
+        "pt": "[Peom]\nHah hah hah!\nHah hah hah!\nVocê não é a primeira pessoa a fazer essa pergunta.\nVocê irritou o Grupo Pata de Gato, ou algo assim?",
         "es": "[Piom]\n¡JA, JA, JA, JA!\nHan venido muchos a preguntar\neso últimamente.\n¿Hay algún conflicto con los comerciantes de Pata de Gato?"
     },
     "JYQ7": {
@@ -3636,12 +3636,12 @@
     },
     "N4U7": {
         "en": "[BK]\nHa. I'm the information collector of the Cat Merchants.\nAsk me anything...but..\nMeow.. I'm not an easy cat you see.",
-        "pt": "[B. K.]\nHeh, sou o coletor de informações do Grupo Cat Hand.\nPode me perguntar qualquer coisa,\nmas não espere uma resposta. *Miau*",
+        "pt": "[B. K.]\nHeh, sou o coletor de informações do Grupo Pata de Gato.\nPode me perguntar qualquer coisa,\nmas não espere uma resposta. *Miau*",
         "es": "[BK]\nJa. Soy el recolector de información de los gatos comerciantes.\nPregúntame cualquier cosa… pero…\nMiau… No soy un gato muy amistoso, ¿sabes?"
     },
     "OIU7": {
         "en": "[BK]\nHa. I'm the information collector of the Cat Merchants.\n..............\nI don't give out information just to anyone.\nMeow...",
-        "pt": "[B. K.]\nHeh, sou o coletor de informações do Grupo Cat Hand.\n...\nNão dou informações facilmente.\n*Miau*",
+        "pt": "[B. K.]\nHeh, sou o coletor de informações do Grupo Pata de Gato.\n...\nNão dou informações facilmente.\n*Miau*",
         "es": "[BK]\nJa. Soy el recolector de información de los gatos comerciantes.\n……………\nNo doy información a cualquiera.\nMiau…"
     },
     "OYU7": {

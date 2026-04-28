@@ -181,27 +181,27 @@
     },
     "nlVeCA": {
         "ko": "보르세브",
-        "en": "Vorseff",
+        "en": "Wolfchev",
         "pt": "Wolfchev",
         "es": "Wolfchev"
     },
     "n1VeCA": {
         "ko": "보르세브: 너희의 희생은 미래의 토대란다. 자부심을 가져도 좋아.",
-        "en": "Vorseff: Your sacrifice will become the foundation of the future. You may take pride in it.",
+        "en": "Wolfchev: Your sacrifice will become the foundation of the future. You may take pride in it.",
         "pt": "Wolfchev: Vocês serão sacrificados por um futuro melhor. Sintam-se orgulhosos.",
         "es": "Wolfchev: Vuestro sacrificio será la base del futuro. Podéis sentiros orgullosos."
     },
     "oFVeCA": {
         "ko": "[세이렌 윈저]\n소린!!! 여기는… 어떻게 된 거야. 대체…\n에레메스, 그리고 케이론까지? 케이론이 숨을 거두는 모습을 내가 이 두 눈으로 보았어!!",
-        "en": "[Seyren Windsor]\nSorin!!! What… happened here…?\nEremes, and even Keiron? I saw Keiron draw his last breath with my own eyes!!",
+        "en": "[Seyren Windsor]\nSorin!!! What… happened here…?\nEremes, and even Keyron? I saw Keyron draw his last breath with my own eyes!!",
         "pt": "[Seyren Windsor]\nMargaretha! Esse lugar... O que houve? Como...?\nEremes! Kathryne, também? Eu a vi morrer na minha frente!",
-        "es": "[Seyren Windsor]\n¡¡Sorin!!! ¿Qué… qué ha pasado aquí? Pero entonces…\n¿Eremes, y hasta Keiron? ¡¡Yo vi con estos ojos cómo Keiron exhalaba su último aliento!!"
+        "es": "[Seyren Windsor]\n¡¡Sorin!!! ¿Qué… qué ha pasado aquí? Pero entonces…\n¿Eremes, y hasta Keyron? ¡¡Yo vi con estos ojos cómo Keyron exhalaba su último aliento!!"
     },
     "oVVeCA": {
         "ko": "세이렌: 소린!!! 여기는… 어떻게 된 거야. 대체… 에레메스, 그리고 케이론까지? 케이론이 숨을 거두는 모습을 내가 이 두 눈으로 보았어!!",
-        "en": "Seyren: Sorin!!! What… happened here…? Eremes, and even Keiron? I saw Keiron draw his last breath with my own eyes!!",
+        "en": "Seyren: Sorin!!! What… happened here…? Eremes, and even Keyron? I saw Keyron draw his last breath with my own eyes!!",
         "pt": "Seyren: Margaretha! Esse lugar... O que houve? Como...? Eremes! Kathryne, também? Eu a vi morrer na minha frente!",
-        "es": "Seyren: ¡¡Sorin!!! ¿Qué… qué ha pasado aquí? Pero entonces… ¿Eremes, y hasta Keiron? ¡¡Yo vi con estos ojos cómo Keiron exhalaba su último aliento!!"
+        "es": "Seyren: ¡¡Sorin!!! ¿Qué… qué ha pasado aquí? Pero entonces… ¿Eremes, y hasta Keyron? ¡¡Yo vi con estos ojos cómo Keyron exhalaba su último aliento!!"
     },
     "olVeCA": {
         "ko": "[셰실 디먼]\n부정하지 마. 너도 봤잖아, 이곳의 수많은 자료들을…\n심장 대신 배틀코어를 이식한 사람들의 반응 경과.",
@@ -313,25 +313,25 @@
     },
     "tFVeCA": {
         "ko": "[보르세브]\n그래, 사념체가 되었는데도 그렇게까지 명확한 목적과 의식을 가지고 있는 실험체는 네가 처음이지.",
-        "en": "[Vorseff]\nYes. Even after becoming a thought entity, you are the first experimental subject to retain such a clear purpose and awareness.",
+        "en": "[Wolfchev]\nYes. Even after becoming a thought entity, you are the first experimental subject to retain such a clear purpose and awareness.",
         "pt": "[Wolfchev]\nSim, você é a primeira cobaia que morreu e voltou como um fantasma com uma mente tão clara e um objetivo claro.",
         "es": "[Wolfchev]\nAsí es. Eres el primero entre mis sujetos de prueba que, incluso convertido en espíritu residual, conserva un propósito y una consciencia tan claros."
     },
     "tVVeCA": {
         "ko": "보르세브: 그래, 사념체가 되었는데도 그렇게까지 명확한 목적과 의식을 가지고 있는 실험체는 네가 처음이지.",
-        "en": "Vorseff: Yes. Even after becoming a thought entity, you are the first experimental subject to retain such a clear purpose and awareness.",
+        "en": "Wolfchev: Yes. Even after becoming a thought entity, you are the first experimental subject to retain such a clear purpose and awareness.",
         "pt": "Wolfchev: Sim, você é a primeira cobaia que morreu e voltou como um fantasma com uma mente tão clara e um objetivo claro.",
         "es": "Wolfchev: Así es. Eres el primero entre mis sujetos de prueba que, incluso convertido en espíritu residual, conserva un propósito y una consciencia tan claros."
     },
     "tlVeCA": {
         "ko": "[보르세브]\n마치 너의 의지에 반응해 행동하는 것 같은 저 사념체들도… 너만큼이나 명확한 의지를 가지고 있지는 못했어, 세이렌 윈저.",
-        "en": "[Vorseff]\nThose thought entities that seem to act in response to your will… none of them possessed as clear a will as you do, Seyren Windsor.",
+        "en": "[Wolfchev]\nThose thought entities that seem to act in response to your will… none of them possessed as clear a will as you do, Seyren Windsor.",
         "pt": "[Wolfchev]\nOs outros parecem estar simplesmente reagindo à sua vontade. Eles não são tão conscientes quanto você, Seyren.",
         "es": "[Wolfchev]\nIncluso esos espíritus residuales que parecen moverse respondiendo a tu voluntad… no poseen una voluntad tan definida como la tuya, Seyren Windsor."
     },
     "t1VeCA": {
         "ko": "보르세브: 마치 너의 의지에 반응해 행동하는 것 같은 저 사념체들도… 너만큼이나 명확한 의지를 가지고 있지는 못했어, 세이렌 윈저.",
-        "en": "Vorseff: Those thought entities that seem to act in response to your will… none of them possessed as clear a will as you do, Seyren Windsor.",
+        "en": "Wolfchev: Those thought entities that seem to act in response to your will… none of them possessed as clear a will as you do, Seyren Windsor.",
         "pt": "Wolfchev: Os outros parecem estar simplesmente reagindo à sua vontade. Eles não são tão conscientes quanto você, Seyren.",
         "es": "Wolfchev: Incluso esos espíritus residuales que parecen moverse respondiendo a tu voluntad… no poseen una voluntad tan definida como la tuya, Seyren Windsor."
     },
@@ -349,25 +349,25 @@
     },
     "ulVeCA": {
         "ko": "[보르세브]\n이런, 숙녀가 입이 험하지 않은가. 자네도 꽤 흥미로운 실험체였지, 셰실 디먼.\n흑혈 반응에 대해 읽었으면서도 그렇게 적극적으로 코어의 힘을 실험하려고 들다니.",
-        "en": "[Vorseff]\nMy, such foul language from a lady. You were quite an interesting experimental subject yourself, Cecil Damon.\nEven after reading about the black-blood reaction, you still eagerly attempted to test the power of the core.",
+        "en": "[Wolfchev]\nMy, such foul language from a lady. You were quite an interesting experimental subject yourself, Cecil Damon.\nEven after reading about the black-blood reaction, you still eagerly attempted to test the power of the core.",
         "pt": "[Wolfchev]\nOh, que deselegante. Mas você também foi uma cobaia interessante, Cecil.\nMesmo que você tenha lido sobre a reação da Hematêmese Negra, você testou ativamente seu núcleo.",
         "es": "[Wolfchev]\nVaya, qué lengua tan afilada tiene la dama. Tú también eras un sujeto de prueba bastante interesante, Cecil Damon.\nLeíste sobre la reacción de sangre negra y aun así intentaste experimentar con el poder del núcleo de una forma tan activa."
     },
     "u1VeCA": {
         "ko": "보르세브: 이런, 숙녀가 입이 험하지 않은가. 자네도 꽤 흥미로운 실험체였지, 셰실 디먼. 흑혈 반응에 대해 읽었으면서도 그렇게 적극적으로 코어의 힘을 실험하려고 들다니.",
-        "en": "Vorseff: My, such foul language from a lady. You were quite an interesting experimental subject yourself, Cecil Damon. Even after reading about the black-blood reaction, you still eagerly attempted to test the power of the core.",
+        "en": "Wolfchev: My, such foul language from a lady. You were quite an interesting experimental subject yourself, Cecil Damon. Even after reading about the black-blood reaction, you still eagerly attempted to test the power of the core.",
         "pt": "Wolfchev: Oh, que deselegante. Mas você também foi uma cobaia interessante, Cecil. Mesmo que você tenha lido sobre a reação da Hematêmese Negra, você testou ativamente seu núcleo.",
         "es": "Wolfchev: Vaya, qué lengua tan afilada tiene la dama. Tú también eras un sujeto de prueba bastante interesante, Cecil Damon. Leíste sobre la reacción de sangre negra y aun así intentaste experimentar con el poder del núcleo de una forma tan activa."
     },
     "vFVeCA": {
         "ko": "[보르세브]\n하지만 몸이 버텨주지 못하는 것 같구나, 정말이지 안타깝게도. 최고의 실험체라고는 할 수 없겠어… 하하…!!",
-        "en": "[Vorseff]\nBut it seems your body cannot endure it, how unfortunate. I suppose you cannot be called the finest specimen… haha…!!",
+        "en": "[Wolfchev]\nBut it seems your body cannot endure it, how unfortunate. I suppose you cannot be called the finest specimen… haha…!!",
         "pt": "[Wolfchev]\nÉ uma pena que seu corpo não seja tão resistente quanto sua mente. Caso contrário, você poderia ter sido a melhor cobaia que já tive. Hah hah!",
         "es": "[Wolfchev]\nPero parece que tu cuerpo no puede soportarlo, qué verdadera lástima. No puedo llamarte el sujeto perfecto… ¡ja, ja…!!"
     },
     "vVVeCA": {
         "ko": "보르세브: 하지만 몸이 버텨주지 못하는 것 같구나, 정말이지 안타깝게도. 최고의 실험체라고는 할 수 없겠어… 하하…!!",
-        "en": "Vorseff: But it seems your body cannot endure it, how unfortunate. I suppose you cannot be called the finest specimen… haha…!!",
+        "en": "Wolfchev: But it seems your body cannot endure it, how unfortunate. I suppose you cannot be called the finest specimen… haha…!!",
         "pt": "Wolfchev: É uma pena que seu corpo não seja tão resistente quanto sua mente. Caso contrário, você poderia ter sido a melhor cobaia que já tive. Hah hah!",
         "es": "Wolfchev: Pero parece que tu cuerpo no puede soportarlo, qué verdadera lástima. No puedo llamarte el sujeto perfecto… ¡ja, ja…!!"
     },
@@ -397,25 +397,25 @@
     },
     "wlVeCA": {
         "ko": "[보르세브]\n후, 후후… 하하하!!\n맞아. 하지만 너희의 죽음은 가치있을 거란다. 이렇게 뛰어난 실험체들은 보기 드물거든.",
-        "en": "[Vorseff]\nHeh, hehehe… hahaha!!\nThat’s right. But your deaths will be valuable. Such exceptional specimens are rare.",
+        "en": "[Wolfchev]\nHeh, hehehe… hahaha!!\nThat’s right. But your deaths will be valuable. Such exceptional specimens are rare.",
         "pt": "[Wolfchev]\nHah, hah hah... Hah hah hah!\nNão, mas saiba que você não vai morrer em vão. Você ainda está no topo da minha lista de cobaias que já tive.",
         "es": "[Wolfchev]\nJi, ji… ¡ja, ja, ja!!\nAsí es. Pero vuestra muerte tendrá valor. Es raro encontrarse con sujetos de prueba tan extraordinarios."
     },
     "w1VeCA": {
         "ko": "보르세브: 후, 후후… 하하하!! 맞아. 하지만 너희의 죽음은 가치있을 거란다. 이렇게 뛰어난 실험체들은 보기 드물거든.",
-        "en": "Vorseff: Heh, hehehe… hahaha!! That’s right. But your deaths will be valuable. Such exceptional specimens are rare.",
+        "en": "Wolfchev: Heh, hehehe… hahaha!! That’s right. But your deaths will be valuable. Such exceptional specimens are rare.",
         "pt": "Wolfchev: Hah, hah hah... Hah hah hah! Não, mas saiba que você não vai morrer em vão. Você ainda está no topo da minha lista de cobaias que já tive.",
         "es": "Wolfchev: Ji, ji… ¡ja, ja, ja!! Así es. Pero vuestra muerte tendrá valor. Es raro encontrarse con sujetos de prueba tan extraordinarios."
     },
     "xFVeCA": {
         "ko": "[보르세브]\n세이렌 윈저, 너의 뛰어난 적응력과 반응성은 실험체 중에서도 발군이구나.\n이대로라면 배틀 코어의 완성도 눈앞에 있다… 하하…!!",
-        "en": "[Vorseff]\nSeyren Windsor, your remarkable adaptability and responsiveness are outstanding even among experimental subjects.\nAt this rate, the completion of the Battle Core is within reach… haha…!!",
+        "en": "[Wolfchev]\nSeyren Windsor, your remarkable adaptability and responsiveness are outstanding even among experimental subjects.\nAt this rate, the completion of the Battle Core is within reach… haha…!!",
         "pt": "[Wolfchev]\nSeyren, sua adaptabilidade e reatividade são de longe as melhores de todas.\nAgora, estou tão perto de completar o Núcleo de Batalha. Hah hah!",
         "es": "[Wolfchev]\nSeyren Windsor, tu extraordinaria capacidad de adaptación y respuesta destaca incluso entre los sujetos de prueba.\nA este paso, la finalización de Núcleo de batalla está al alcance de la mano… ¡ja, ja…!!"
     },
     "xVVeCA": {
         "ko": "보르세브: 세이렌 윈저, 너의 뛰어난 적응력과 반응성은 실험체 중에서도 발군이구나. 이대로라면 배틀 코어의 완성도 눈앞에 있다… 하하…!!",
-        "en": "Vorseff: Seyren Windsor, your remarkable adaptability and responsiveness are outstanding even among experimental subjects. At this rate, the completion of the Battle Core is within reach… haha…!!",
+        "en": "Wolfchev: Seyren Windsor, your remarkable adaptability and responsiveness are outstanding even among experimental subjects. At this rate, the completion of the Battle Core is within reach… haha…!!",
         "pt": "Wolfchev: Seyren, sua adaptabilidade e reatividade são de longe as melhores de todas. Agora, estou tão perto de completar o Núcleo de Batalha. Hah hah!",
         "es": "Wolfchev: Seyren Windsor, tu extraordinaria capacidad de adaptación y respuesta destaca incluso entre los sujetos de prueba. A este paso, la finalización de Núcleo de batalla está al alcance de la mano… ¡ja, ja…!!"
     },
@@ -433,25 +433,25 @@
     },
     "yFVeCA": {
         "ko": "[보르세브]\n아아, 보채지 마렴. 마지막 실험이 남았다.\n이미 아는 얼굴이겠지만 이쪽은 전에 너희가 싸웠던 그 실패작과는 조금 다르지.",
-        "en": "[Vorseff]\nNow, now, don’t rush. One final experiment remains.\nYou may recognize this face, though this one is a little different from the failed subject you fought before.",
+        "en": "[Wolfchev]\nNow, now, don’t rush. One final experiment remains.\nYou may recognize this face, though this one is a little different from the failed subject you fought before.",
         "pt": "[Wolfchev]\nAh, não seja impaciente. Ainda temos um último teste para completar.\nVocê já viu esse rosto antes, mas não é o mesmo fracasso que você lutou antes.",
         "es": "[Wolfchev]\nAh, ah, no tengas tanta prisa. Aún queda el experimento final.\nAunque ya os resulte una cara conocida, este de aquí es un poco distinto de aquel fracaso contra el que luchasteis antes."
     },
     "yVVeCA": {
         "ko": "보르세브: 아아, 보채지 마렴. 마지막 실험이 남았다. 이미 아는 얼굴이겠지만 이쪽은 전에 너희가 싸웠던 그 실패작과는 조금 다르지.",
-        "en": "Vorseff: Now, now, don’t rush. One final experiment remains. You may recognize this face, though this one is a little different from the failed subject you fought before.",
+        "en": "Wolfchev: Now, now, don’t rush. One final experiment remains. You may recognize this face, though this one is a little different from the failed subject you fought before.",
         "pt": "Wolfchev: Ah, não seja impaciente. Ainda temos um último teste para completar. Você já viu esse rosto antes, mas não é o mesmo fracasso que você lutou antes.",
         "es": "Wolfchev: Ah, ah, no tengas tanta prisa. Aún queda el experimento final. Aunque ya os resulte una cara conocida, este de aquí es un poco distinto de aquel fracaso contra el que luchasteis antes."
     },
     "ylVeCA": {
         "ko": "[보르세브]\n지금으로서는 개중 가장 나은 개체란다. 세이렌 네 실험에 최고의 보조를 해낼 수 있도록 조금 더 개조했고 말이다.",
-        "en": "[Vorseff]\nFor now, it is the best specimen among them. I enhanced it a little more so it can provide the best support for your experiment, Seyren.",
+        "en": "[Wolfchev]\nFor now, it is the best specimen among them. I enhanced it a little more so it can provide the best support for your experiment, Seyren.",
         "pt": "[Wolfchev]\nEsta é a melhor de todas as unidades existentes no momento. E eu a modifiquei ainda mais para você testar, Seyren.",
         "es": "[Wolfchev]\nPor ahora es el mejor ejemplar del grupo. Lo he modificado un poco más para que sirva de apoyo perfecto a tu experimento, Seyren."
     },
     "y1VeCA": {
         "ko": "보르세브: 지금으로서는 개중 가장 나은 개체란다. 세이렌 네 실험에 최고의 보조를 해낼 수 있도록 조금 더 개조했고 말이다.",
-        "en": "Vorseff: For now, it is the best specimen among them. I enhanced it a little more so it can provide the best support for your experiment, Seyren.",
+        "en": "Wolfchev: For now, it is the best specimen among them. I enhanced it a little more so it can provide the best support for your experiment, Seyren.",
         "pt": "Wolfchev: Esta é a melhor de todas as unidades existentes no momento. E eu a modifiquei ainda mais para você testar, Seyren.",
         "es": "Wolfchev: Por ahora es el mejor ejemplar del grupo. Lo he modificado un poco más para que sirva de apoyo perfecto a tu experimento, Seyren."
     },
@@ -469,13 +469,13 @@
     },
     "zlVeCA": {
         "ko": "[보르세브]\n전투 후에는 힘이 다해 의식조차 남지 않을 정도로 분열하겠지만… 그 정도 소모는 괜찮아. 그때는 세이렌 너를 내 손 안에 넣을 수 있을 테니 말이다.",
-        "en": "[Vorseff]\nAfter the battle, it will likely split apart until even its consciousness is gone from exhaustion… but that level of consumption is acceptable. By then, Seyren, you will be in my grasp.",
+        "en": "[Wolfchev]\nAfter the battle, it will likely split apart until even its consciousness is gone from exhaustion… but that level of consumption is acceptable. By then, Seyren, you will be in my grasp.",
         "pt": "[Wolfchev]\nDepois desta batalha, provavelmente ela ficará exausta demais até mesmo para ficar viva, mas posso viver sem isso. Porque terei você, Seyren.",
         "es": "[Wolfchev]\nTras el combate se fragmentará hasta quedarse sin fuerzas y sin rastro alguno de consciencia… pero ese nivel de consumo no importa. Para entonces, Seyren, tú estarás en mis manos."
     },
     "z1VeCA": {
         "ko": "보르세브: 전투 후에는 힘이 다해 의식조차 남지 않을 정도로 분열하겠지만… 그 정도 소모는 괜찮아. 그때는 세이렌 너를 내 손 안에 넣을 수 있을 테니 말이다.",
-        "en": "Vorseff: After the battle, it will likely split apart until even its consciousness is gone from exhaustion… but that level of consumption is acceptable. By then, Seyren, you will be in my grasp.",
+        "en": "Wolfchev: After the battle, it will likely split apart until even its consciousness is gone from exhaustion… but that level of consumption is acceptable. By then, Seyren, you will be in my grasp.",
         "pt": "Wolfchev: Depois desta batalha, provavelmente ela ficará exausta demais até mesmo para ficar viva, mas posso viver sem isso. Porque terei você, Seyren.",
         "es": "Wolfchev: Tras el combate se fragmentará hasta quedarse sin fuerzas y sin rastro alguno de consciencia… pero ese nivel de consumo no importa. Para entonces, Seyren, tú estarás en mis manos."
     },
@@ -565,13 +565,13 @@
     },
     "3lVeCA": {
         "ko": "[보르세브]\n데이터는 많을수록 좋지. 그럼 온 힘을 다해 자기 몫을 하도록 해라, 미래를 열자꾸나, 내 가련하고 사랑스러운 실험체들아!",
-        "en": "[Vorseff]\nThe more data, the better. Then give it your all and fulfill your role. Let us open the future, my pitiful and beloved experimental subjects!",
+        "en": "[Wolfchev]\nThe more data, the better. Then give it your all and fulfill your role. Let us open the future, my pitiful and beloved experimental subjects!",
         "pt": "[Wolfchev]\nQuanto mais dados, melhor! Façam a sua parte, minhas adoráveis e lamentáveis cobaias. Por um futuro melhor!",
         "es": "[Wolfchev]\nCuantos más datos, mejor. Entonces cumplid vuestro papel con todas vuestras fuerzas y abrid el futuro, mis pobres y adorables sujetos de prueba."
     },
     "31VeCA": {
         "ko": "보르세브: 데이터는 많을수록 좋지. 그럼 온 힘을 다해 자기 몫을 하도록 해라, 미래를 열자꾸나, 내 가련하고 사랑스러운 실험체들아!",
-        "en": "Vorseff: The more data, the better. Then give it your all and fulfill your role. Let us open the future, my pitiful and beloved experimental subjects!",
+        "en": "Wolfchev: The more data, the better. Then give it your all and fulfill your role. Let us open the future, my pitiful and beloved experimental subjects!",
         "pt": "Wolfchev: Quanto mais dados, melhor! Façam a sua parte, minhas adoráveis e lamentáveis cobaias. Por um futuro melhor!",
         "es": "Wolfchev: Cuantos más datos, mejor. Entonces cumplid vuestro papel con todas vuestras fuerzas y abrid el futuro, mis pobres y adorables sujetos de prueba."
     },
@@ -661,13 +661,13 @@
     },
     "7lVeCA": {
         "ko": "[보르세브]\n제길… 제길! 이렇게 터무니없이 나가 떨어질 줄이야… 실패작은 실패작인가.\n됐어. 어쨌든 실험 결과는 나왔다. 저것은 어차피 버리는 패였어.",
-        "en": "[Vorseff]\nDamn… damn it! To think it would fall apart so absurdly… a failure is a failure after all.\nWhatever. The experiment results are in anyway. That one was disposable from the start.",
+        "en": "[Wolfchev]\nDamn… damn it! To think it would fall apart so absurdly… a failure is a failure after all.\nWhatever. The experiment results are in anyway. That one was disposable from the start.",
         "pt": "[Wolfchev]\nDroga! Não acredito na rapidez com que morreu. Uma falha é apenas uma falha, não é?\nBem, pelo menos eu ainda tenho os resultados do teste, e eu iria me livrar deles de qualquer maneira.",
         "es": "[Wolfchev]\nMaldita sea… ¡maldita sea! Jamás pensé que saldría despedido de forma tan absurda… Un fracaso sigue siendo un fracaso.\nDa igual. De todos modos, ya tengo los resultados del experimento. Ese ya estaba destinado a ser descartado."
     },
     "71VeCA": {
         "ko": "보르세브: 제길… 제길! 이렇게 터무니없이 나가 떨어질 줄이야… 실패작은 실패작인가. 됐어. 어쨌든 실험 결과는 나왔다. 저것은 어차피 버리는 패였어.",
-        "en": "Vorseff: Damn… damn it! To think it would fall apart so absurdly… a failure is a failure after all. Whatever. The experiment results are in anyway. That one was disposable from the start.",
+        "en": "Wolfchev: Damn… damn it! To think it would fall apart so absurdly… a failure is a failure after all. Whatever. The experiment results are in anyway. That one was disposable from the start.",
         "pt": "Wolfchev: Droga! Não acredito na rapidez com que morreu. Uma falha é apenas uma falha, não é? Bem, pelo menos eu ainda tenho os resultados do teste, e eu iria me livrar deles de qualquer maneira.",
         "es": "Wolfchev: Maldita sea… ¡maldita sea! Jamás pensé que saldría despedido de forma tan absurda… Un fracaso sigue siendo un fracaso. Da igual. De todos modos, ya tengo los resultados del experimento. Ese ya estaba destinado a ser descartado."
     },
@@ -703,9 +703,9 @@
     },
     "9VVeCA": {
         "ko": "케이론: ……",
-        "en": "Keiron: ……",
+        "en": "Keyron: ……",
         "pt": "Kathryne: ...",
-        "es": "Keiron: ……"
+        "es": "Keyron: ……"
     },
     "9lVeCA": {
         "ko": "[에레메스 가일]\n……!!",
@@ -721,13 +721,13 @@
     },
     "+FVeCA": {
         "ko": "[보르세브]\n크… 윽, 어떻게… 사념체들은… 이성을 잃었을… 텐데…",
-        "en": "[Vorseff]\nKgh… how…? The thought entities… should have… lost their reason…",
+        "en": "[Wolfchev]\nKgh… how…? The thought entities… should have… lost their reason…",
         "pt": "[Wolfchev]\nUgh...! C-como...? Você deveria ser apenas um fantasma irracional...",
         "es": "[Wolfchev]\nKh… ugh, cómo es posible… los espíritus residuales… deberían haber… perdido la razón…"
     },
     "+VVeCA": {
         "ko": "보르세브: 크… 윽, 어떻게… 사념체들은… 이성을 잃었을… 텐데…",
-        "en": "Vorseff: Kgh… how…? The thought entities… should have… lost their reason…",
+        "en": "Wolfchev: Kgh… how…? The thought entities… should have… lost their reason…",
         "pt": "Wolfchev: Ugh...! C-como...? Você deveria ser apenas um fantasma irracional...",
         "es": "Wolfchev: Kh… ugh, cómo es posible… los espíritus residuales… deberían haber… perdido la razón…"
     },
@@ -757,15 +757,15 @@
     },
     "/lVeCA": {
         "ko": "[세이렌 윈저]\n소린… 케이론…\n에레메스… 님.",
-        "en": "[Seyren Windsor]\nSorin… Keiron…\nEremes… sir.",
+        "en": "[Seyren Windsor]\nSorin… Keyron…\nEremes… sir.",
         "pt": "[Seyren Windsor]\nMargaretha... Kathryne...\nEremes...",
-        "es": "[Seyren Windsor]\nSorin… Keiron…\nSeñor… Eremes."
+        "es": "[Seyren Windsor]\nSorin… Keyron…\nSeñor… Eremes."
     },
     "/1VeCA": {
         "ko": "세이렌: 소린… 케이론… 에레메스… 님.",
-        "en": "Seyren: Sorin… Keiron… Eremes… sir.",
+        "en": "Seyren: Sorin… Keyron… Eremes… sir.",
         "pt": "Seyren: Margaretha... Kathryne... Eremes...",
-        "es": "Seyren: Sorin… Keiron… Señor… Eremes."
+        "es": "Seyren: Sorin… Keyron… Señor… Eremes."
     },
     "AFZeCA": {
         "ko": "[세이렌 윈저]\n저를… 알아보십니까? 함께… 싸워 주신 겁니까?",
@@ -1117,7 +1117,7 @@
     },
     "OlZeCA": {
         "ko": "보르세브가 결국…",
-        "en": "Vorseff has finally…",
+        "en": "Wolfchev has finally…",
         "pt": "Wolfchev, seu maldito!",
         "es": "Al final, Wolfchev…"
     },
@@ -1213,7 +1213,7 @@
     },
     "SlZeCA": {
         "ko": "탐사 중 획득하신 물품을 지급해 드리겠습니다.",
-        "en": "I will distribute the items you obtained during the exploration.",
+        "en": "I will distribute the items you obtained during the expedition.",
         "pt": "Esses são os itens que você encontrou nessa expedição.",
         "es": "Os entregaré los objetos obtenidos durante la exploración."
     },
@@ -1291,13 +1291,13 @@
     },
     "V1ZeCA": {
         "ko": "[시에라]\n시체 보관소… 이곳에서 그들은 보르세브의 실험체였던 한 검사와 마지막 전투를 치릅니다.",
-        "en": "[Sierra]\nMorgue… Here they fight their final battle against a swordsman who was an experimental subject of Vorseff.",
+        "en": "[Sierra]\nMorgue… Here they fight their final battle against a swordsman who was an experimental subject of Wolfchev.",
         "pt": "[Sierra]\nFoi neste necrotério que eles travaram uma batalha com a cobaia de uma Espadachim do Wolfchev.",
         "es": "[Sierra]\nMorgue… aquí librarán su batalla final contra un espadachín que fue sujeto de prueba de Wolfchev."
     },
     "WFZeCA": {
         "ko": "[시에라]\n보르세브는 이 모든 과정을 그저 실험이라고 생각했지만, 전투 결과에 따라 생각이 바뀌게 되겠지요.",
-        "en": "[Sierra]\nVorseff considered this entire process merely an experiment, but depending on the outcome of the battle, his thoughts may change.",
+        "en": "[Sierra]\nWolfchev considered this entire process merely an experiment, but depending on the outcome of the battle, his thoughts may change.",
         "pt": "[Sierra]\nWolfchev pensou que todo esse processo era apenas um experimento, mas os resultados da batalha mudariam isso.",
         "es": "[Sierra]\nWolfchev consideraba todo este proceso un simple experimento, pero según el resultado del combate, acabará cambiando de idea."
     },

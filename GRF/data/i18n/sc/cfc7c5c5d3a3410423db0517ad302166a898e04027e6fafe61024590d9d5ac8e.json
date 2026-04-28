@@ -8,67 +8,67 @@
     "IVLbDA": {
         "ko": "회수하지 않은 마력석이 게이트 활성을 방해하고 있습니다.",
         "en": "Unrecovered magic stones are interfering with the gate activation.",
-        "pt": "A Pedra de Mana não recuperada está interferindo na ativação do portal.",
-        "es": "Las piedras mágicas que no se han recuperado están interfiriendo con la activación de la puerta."
+        "pt": "Você não possui um Pedra Encantada e por isso não consigo abrir o Portal.",
+        "es": "No posees una Piedra Encantada y por eso no puedo abrir el Portal."
     },
     "IlLbDA": {
         "ko": "공감하는 자",
         "en": "Empathizer",
-        "pt": "Empatizador",
-        "es": "Empatizador"
+        "pt": "Empatia",
+        "es": "Empatía"
     },
     "I1LbDA": {
         "ko": "행복을 주는 자",
         "en": "Happiness Giver",
-        "pt": "Doadores de Felicidade",
-        "es": "Dador de Felicidad"
+        "pt": "Alegria",
+        "es": "Alegría"
     },
     "JFLbDA": {
         "ko": "중앙 구속 장치가 해제되었습니다. 오브에 마력이 깃들었습니다.",
         "en": "The central restraint device has been released. Magic power has infused the orb.",
-        "pt": "O dispositivo de contenção central foi liberado. O orbe foi imbuído com poder mágico.",
-        "es": "El dispositivo de restricción central ha sido desactivado. El orbe ha sido imbuidο con poder mágico."
+        "pt": "O Ódio foi libertado. Os Cristais Brilhantes apareceram.",
+        "es": "El Odio fue liberado. Los Cristales Brillantes aparecieron."
     },
     "JVLbDA": {
         "ko": "구속된 증오",
         "en": "Bound Hatred",
         "pt": "Ódio Aprisionado",
-        "es": "Odio contenido"
+        "es": "Odio Aprisionado"
     },
     "JlLbDA": {
         "ko": "타나토스의 증오",
         "en": "Hatred of Memory of Thanatos",
-        "pt": "O ódio de Memória de Thanatos",
-        "es": "El odio de Memoria de Thanatos"
+        "pt": "Ódio de Thanatos",
+        "es": "Odio de Thanatos"
     },
     "J1LbDA": {
         "ko": "증오의 기억이 생성되었습니다.",
         "en": "Memory of Hatred has been created.",
-        "pt": "Memória do Ódio foi gerada.",
-        "es": "Se ha generado Recuerdo de odio."
+        "pt": "Uma Energia de Ódio apareceu no centro.",
+        "es": "Una Energía de Odio apareció en el centro."
     },
     "KFLbDA": {
         "ko": "증오의 기억",
         "en": "Memory of Hatred",
-        "pt": "Memória do Ódio",
-        "es": "Recuerdo de odio"
+        "pt": "Energia de Ódio",
+        "es": "Energía de Odio"
     },
     "KVLbDA": {
         "ko": "소지하고 계시는 아이템의 갯수가 많아 퀘스트를 진행 할 수 없습니다.\n아이템을 정리한 뒤 다시 시도해 주시기 바랍니다.",
         "en": "You cannot proceed with the quest because you are carrying too many items. Please organize your inventory and try again.",
         "pt": "Você possui itens demais para prosseguir com a missão. Organize seus itens e tente novamente.",
-        "es": "No puedes continuar la misión porque llevas demasiados objetos. Ordena tus objetos e inténtalo de nuevo."
+        "es": "Tienes demasiados objetos para continuar con la misión. Organiza tu inventario e inténtalo de nuevo."
     },
     "KlLbDA": {
         "ko": "증오의 기억이 파편으로 형상화합니다. 게이트의 봉인이 해제되었습니다.",
         "en": "Memory of Hatred manifests as fragments. The seal of the gate has been released.",
-        "pt": "Memória do Ódio assume a forma de fragmentos. O selo do portal foi removido.",
-        "es": "Recuerdo de odio toma forma como fragmento. El sello de la puerta ha sido liberado."
+        "pt": "O ódio acumulou em um fragmento. O selo foi removido e um portal se abriu.",
+        "es": "El odio se acumuló en un fragmento. El sello fue removido y un portal se abrió."
     },
     "K1LbDA": {
         "ko": "빛나는수정",
         "en": "Glittering Crystal",
         "pt": "Cristal Brilhante",
-        "es": "Cristal brillante"
+        "es": "Cristal Brillante"
     }
 }

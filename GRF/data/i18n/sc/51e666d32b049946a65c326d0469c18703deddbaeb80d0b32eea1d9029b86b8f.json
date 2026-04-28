@@ -8,43 +8,43 @@
     "wdjcDA": {
         "ko": "안식을 주는 자",
         "en": "Mistress of Shelter",
-        "pt": "Senhora do Abrigo",
-        "es": "Maestra del Refugio"
+        "pt": "Anjo do Abrigo",
+        "es": "Ángel del Refugio"
     },
     "wtjcDA": {
         "ko": "타나토스의 기억 파편, 고뇌가 등장했습니다.",
         "en": "Memory of Thanatos Fragment, Anguish has appeared.",
-        "pt": "O fragmento de Memória de Thanatos, Angústia, apareceu.",
-        "es": "Ha aparecido el fragmento de Recuerdo de Thanatos, angustia."
+        "pt": "Um fragmento de Thanatos, a Agonia, apareceu no centro.",
+        "es": "Un fragmento de Thanatos, la Agonía, apareció en el centro."
     },
     "w9jcDA": {
         "ko": "고뇌의 기억",
         "en": "Memory of Anguish",
-        "pt": "Memória da Angústia",
-        "es": "Recuerdo de Angustia"
+        "pt": "Agonia de Thanatos",
+        "es": "Agonía de Thanatos"
     },
     "xNjcDA": {
         "ko": "타나토스의 고뇌",
         "en": "Anguish of Memory of Thanatos",
-        "pt": "A angústia de Memória de Thanatos",
-        "es": "La angustia de Memoria de Thanatos"
+        "pt": "Energia da Agonia",
+        "es": "Energía de la Agonía"
     },
     "xdjcDA": {
         "ko": "소지하고 계시는 아이템의 갯수가 많아 퀘스트를 진행 할 수 없습니다.\n아이템을 정리한 뒤 다시 시도해 주시기 바랍니다.",
         "en": "You cannot proceed with the quest because you are carrying too many items. Please organize your inventory and try again.",
         "pt": "Você possui itens demais para prosseguir com a missão. Organize seus itens e tente novamente.",
-        "es": "No puedes continuar la misión porque llevas demasiados objetos. Ordena tus objetos e inténtalo de nuevo."
+        "es": "Tienes demasiados objetos para continuar con la misión. Organiza tu inventario e inténtalo de nuevo."
     },
     "xtjcDA": {
         "ko": "고뇌의 기억이 파편으로 형상화합니다. 게이트의 봉인이 해제되었습니다.",
         "en": "Memory of Anguish manifests as fragments. The seal of the gate has been released.",
-        "pt": "Memória da Angústia assume a forma de fragmentos. O selo do portal foi removido.",
-        "es": "Recuerdo de Angustia toma forma como fragmento. El sello de la puerta ha sido liberado."
+        "pt": "A agonia acumulou em um fragmento. O selo foi removido e um portal se abriu.",
+        "es": "La agonía se acumuló en un fragmento. El sello fue removido y un portal se abrió."
     },
     "x9jcDA": {
         "ko": "석상이 화염을 부릅니다..",
         "en": "The stone statue calls forth flames..",
-        "pt": "A estátua invoca chamas..",
-        "es": "La estatua llama a las llamas."
+        "pt": "As estátuas começaram a lançar chamas.",
+        "es": "Las estatuas comenzaron a lanzar llamas."
     }
 }

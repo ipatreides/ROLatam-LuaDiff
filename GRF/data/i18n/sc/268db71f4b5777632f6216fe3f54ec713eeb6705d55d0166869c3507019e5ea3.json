@@ -1552,7 +1552,7 @@
     "1ocB": {
         "en": "Owl Duke",
         "pt": "Duque Coruja",
-        "es": "Duque búho"
+        "es": "Duque Búho"
     },
     "14cB": {
         "en": "Dragon Tail",
@@ -7137,72 +7137,72 @@
     "M4wB": {
         "en": "Geffen Mage1",
         "pt": "Alphard",
-        "es": "Mago de Geffen1"
+        "es": "Archi"
     },
     "NIwB": {
         "en": "Geffen Mage2",
         "pt": "Sirius",
-        "es": "Mago de Geffen2"
+        "es": "Dio Anemos"
     },
     "NYwB": {
         "en": "Geffen Mage3_1",
         "pt": "Gatuna de Geffen",
-        "es": "Mago de Geffen3_1"
+        "es": "Ladrona de Geffen"
     },
     "NowB": {
         "en": "Geffen Mage3_2",
         "pt": "Valentão de Geffen",
-        "es": "Mago de Geffen3_2"
+        "es": "Matón de Geffen"
     },
     "N4wB": {
         "en": "Geffen Mage3_3",
         "pt": "Bandido de Geffen",
-        "es": "Mago de Geffen3_3"
+        "es": "Gánster de Geffen"
     },
     "OIwB": {
         "en": "Geffen Mage4",
         "pt": "Mirzam",
-        "es": "Mago de Geffen4"
+        "es": "Monja Pa"
     },
     "OYwB": {
         "en": "Geffen Mage5",
         "pt": "Muliphen",
-        "es": "Mago de Geffen5"
+        "es": "Ordre"
     },
     "OowB": {
         "en": "Geffen Mage6",
         "pt": "Wezen",
-        "es": "Mago de Geffen6"
+        "es": "Blut Hase"
     },
     "O4wB": {
         "en": "Geffen Mage7",
         "pt": "Wei",
-        "es": "Mago de Geffen7"
+        "es": "Kuro Akuma"
     },
     "PIwB": {
         "en": "Geffen Mage8",
         "pt": "Sargas",
-        "es": "Mago de Geffen8"
+        "es": "Hipermuerte"
     },
     "PYwB": {
         "en": "Geffen Mage9",
         "pt": "Shaula",
-        "es": "Mago de Geffen9"
+        "es": "Rechenier"
     },
     "PowB": {
         "en": "Geffen Mage10",
         "pt": "Ahdara",
-        "es": "Mago de Geffen10"
+        "es": "Odorico"
     },
     "P4wB": {
         "en": "Geffen Mage11",
         "pt": "Procyon",
-        "es": "Mago de Geffen11"
+        "es": "Juu"
     },
     "QIwB": {
         "en": "Geffen Mage12",
         "pt": "Atria",
-        "es": "Mago de Geffen12"
+        "es": "Dy"
     },
     "QYwB": {
         "en": "Fei Kanabian",
@@ -7227,17 +7227,17 @@
     "RYwB": {
         "en": "Geffen Mage3_1",
         "pt": "Gatuna de Geffen",
-        "es": "Mago de Geffen3_1"
+        "es": "Ladrona de Geffen"
     },
     "RowB": {
         "en": "Geffen Mage3_2",
         "pt": "Valentão de Geffen",
-        "es": "Mago de Geffen3_2"
+        "es": "Matón de Geffen"
     },
     "R4wB": {
         "en": "Geffen Mage3_3",
         "pt": "Bandido de Geffen",
-        "es": "Mago de Geffen3_3"
+        "es": "Gánster de Geffen"
     },
     "SIwB": {
         "en": "Loki's Shadow",
@@ -9667,7 +9667,7 @@
     "LY4B": {
         "en": "Fallen Orc Hero",
         "pt": "Orc Falso",
-        "es": "Héroe orco caído"
+        "es": "Héroe Orco Falso"
     },
     "Lo4B": {
         "en": "Fallen Orc Lord",
@@ -10416,7 +10416,7 @@
     },
     "w44B": {
         "en": "Clover Lunatic",
-        "pt": "Lunático de Trevo",
+        "pt": "Lunático Feliz",
         "es": "Lunático de Trébol"
     },
     "xI4B": {
@@ -10507,7 +10507,7 @@
     "1Y4B": {
         "en": "Dark Meloring",
         "pt": "Meloring Sombrio",
-        "es": "Meloring Oscuro"
+        "es": "Meloring Sombrío"
     },
     "1o4B": {
         "en": "Gloom Under Night",
@@ -11722,7 +11722,7 @@
     "yI8B": {
         "en": "Tails",
         "pt": "Tails",
-        "es": "Colas"
+        "es": "Tails"
     },
     "yY8B": {
         "en": "Chao",
@@ -12336,12 +12336,12 @@
     },
     "Q5AB": {
         "en": "Angelgolt",
-        "pt": "Angelgolt",
+        "pt": "Angelgolt Azul",
         "es": "Angelgolt"
     },
     "RJAB": {
         "en": "Angelgolt",
-        "pt": "Angelgolt",
+        "pt": "Angelgolt Rosa",
         "es": "Angelgolt"
     },
     "RZAB": {
@@ -13295,13 +13295,16 @@
         "es": "Poring de Carnaval"
     },
     "A5EB": {
-        "en": "Galarin"
+        "en": "Galarin",
+        "es": "Galaring"
     },
     "BJEB": {
-        "en": "Enhanced Galarin"
+        "en": "Enhanced Galarin",
+        "es": "Galaring Mejorado"
     },
     "BZEB": {
-        "en": "Beast Galarin"
+        "en": "Beast Galarin",
+        "es": "Galaring Bestial"
     },
     "BpEB": {
         "en": "Squid Bomb",
@@ -13355,13 +13358,13 @@
     },
     "EJEB": {
         "en": "Empathizer",
-        "pt": "Empatizador",
-        "es": "Empatizador"
+        "pt": "Empatia",
+        "es": "Empatía"
     },
     "EZEB": {
         "en": "Joy Giver",
-        "pt": "Doador de Alegria",
-        "es": "Dador de Alegría"
+        "pt": "Alegria",
+        "es": "Alegría"
     },
     "EpEB": {
         "en": "Thanatos's Anger",
@@ -13375,13 +13378,13 @@
     },
     "FJEB": {
         "en": "Thanatos's Resentment",
-        "pt": "Ressentimento de Thanatos",
-        "es": "Resentimiento de Thanatos"
+        "pt": "Rancor de Thanatos",
+        "es": "Rencor de Thanatos"
     },
     "FZEB": {
         "en": "Thanatos's Regret",
-        "pt": "Arrependimento de Thanatos",
-        "es": "Arrepentimiento de Thanatos"
+        "pt": "Lamento de Thanatos",
+        "es": "Lamento de Thanatos"
     },
     "FpEB": {
         "en": "Void Mimic",
@@ -13390,13 +13393,13 @@
     },
     "F5EB": {
         "en": "Book of Death",
-        "pt": "Livro da Morte",
-        "es": "Libro de la Muerte"
+        "pt": "Livro Morto",
+        "es": "Libro Muerto"
     },
     "GJEB": {
         "en": "Eldest",
-        "pt": "Ancião",
-        "es": "Anciano"
+        "pt": "Ancião Primitivo",
+        "es": "Anciano Primitivo"
     },
     "GZEB": {
         "en": "Crow Duke",
@@ -13415,8 +13418,8 @@
     },
     "HJEB": {
         "en": "Fragment of Broken Thanatos",
-        "pt": "Fragmento do Thanatos Quebrado",
-        "es": "Fragmento de Thanatos Roto"
+        "pt": "Fragmento de Thanatos",
+        "es": "Fragmento de Thanatos"
     },
     "HZEB": {
         "en": "Thanatos's Soul",
@@ -13425,28 +13428,28 @@
     },
     "HpEB": {
         "en": "Empathizer",
-        "pt": "Empatizador",
-        "es": "Empatizador"
+        "pt": "Empatia",
+        "es": "Empatía"
     },
     "H5EB": {
         "en": "Joy Giver",
-        "pt": "Doador de Alegria",
-        "es": "Dador de Alegría"
+        "pt": "Alegria",
+        "es": "Alegría"
     },
     "IJEB": {
         "en": "Agent of Retribution",
-        "pt": "Agente da Retribuição",
-        "es": "Agente de Retribución"
+        "pt": "Retribuição",
+        "es": "Retribución"
     },
     "IZEB": {
         "en": "Shelter Giver",
-        "pt": "Provedor de Abrigo",
-        "es": "Proveedor de Refugio"
+        "pt": "Abrigo",
+        "es": "Abrigo"
     },
     "IpEB": {
         "en": "Solace Giver",
-        "pt": "Provedor de Consolo",
-        "es": "Proveedor de Consuelo"
+        "pt": "Conforto",
+        "es": "Confort"
     },
     "I5EB": {
         "en": "Thanatos's Anger",
@@ -13460,58 +13463,58 @@
     },
     "JZEB": {
         "en": "Thanatos's Resentment",
-        "pt": "Ressentimento de Thanatos",
-        "es": "Resentimiento de Thanatos"
+        "pt": "Rancor de Thanatos",
+        "es": "Rencor de Thanatos"
     },
     "JpEB": {
         "en": "Thanatos's Regret",
-        "pt": "Arrependimento de Thanatos",
-        "es": "Arrepentimiento de Thanatos"
+        "pt": "Lamento de Thanatos",
+        "es": "Lamento de Thanatos"
     },
     "J5EB": {
         "en": "Thanatos's Hatred",
-        "pt": "Ódio de Thanatos",
+        "pt": "Odium de Thanatos",
         "es": "Odio de Thanatos"
     },
     "KJEB": {
         "en": "Thanatos's Despair",
-        "pt": "Desespero de Thanatos",
-        "es": "Desesperación de Thanatos"
+        "pt": "Despero de Thanatos",
+        "es": "Despero de Thanatos"
     },
     "KZEB": {
         "en": "Thanatos's Sorrow",
-        "pt": "Tristeza de Thanatos",
-        "es": "Tristeza de Thanatos"
+        "pt": "Maero de Thanatos",
+        "es": "Maero de Thanatos"
     },
     "KpEB": {
         "en": "Thanatos's Agony",
-        "pt": "Agonia de Thanatos",
-        "es": "Agonía de Thanatos"
+        "pt": "Pesar de Thanatos",
+        "es": "Pesar de Thanatos"
     },
     "K5EB": {
         "en": "Observer",
-        "pt": "Observador",
+        "pt": "Observação",
         "es": "Observador"
     },
     "LJEB": {
         "en": "Prayer Giver",
-        "pt": "Doador de Oração",
-        "es": "Dador de Oración"
+        "pt": "Oração",
+        "es": "Oración"
     },
     "LZEB": {
         "en": "Smile Giver",
-        "pt": "Doador de Sorriso",
-        "es": "Dador de Sonrisa"
+        "pt": "Sorriso",
+        "es": "Sonrisa"
     },
     "LpEB": {
         "en": "Imperfect Illusion of Himmelmez",
-        "pt": "Ilusão Imperfeita de Himmelmez",
-        "es": "Ilusión Imperfecta de Himmelmez"
+        "pt": "Himmelmez Falsa",
+        "es": "Himmelmez Falsa"
     },
     "L5EB": {
         "en": "Imperfect Illusion of Amdarais",
-        "pt": "Ilusão Imperfeita de Amdarais",
-        "es": "Ilusión Imperfecta de Amdarais"
+        "pt": "Amdarais Falso",
+        "es": "Amdarais Falso"
     },
     "MJEB": {
         "en": "Distorted Rift",
@@ -13525,47 +13528,47 @@
     },
     "MpEB": {
         "en": "Himmelmez",
-        "pt": "Himmelmez",
-        "es": "Himmelmez"
+        "pt": "Miragem de Himmelmez",
+        "es": "Espejismo de Himmelmez"
     },
     "M5EB": {
         "en": "Phantom of Amdarais",
-        "pt": "Fantasma de Amdarais",
-        "es": "Fantasma de Amdarais"
+        "pt": "Miragem de Amdarais",
+        "es": "Espejismo de Amdarais"
     },
     "NJEB": {
         "en": "Mutated White Knight",
-        "pt": "Cavaleiro Branco Mutado",
-        "es": "Caballero Blanco Mutado"
+        "pt": "Cavaleiro Mutante",
+        "es": "Caballero Mutante"
     },
     "NZEB": {
         "en": "Corrupted Root",
-        "pt": "Raiz Corrompida",
-        "es": "Raíz Corrupta"
+        "pt": "Origem da Corrupção",
+        "es": "Origen de la Corrupción"
     },
     "NpEB": {
         "en": "Mutated Khalitzburg",
-        "pt": "Khalitzburg Mutado",
+        "pt": "Khalitzburg Mutante",
         "es": "Khalitzburg Mutado"
     },
     "N5EB": {
         "en": "Cursed Raydric",
-        "pt": "Raydric Amaldiçoado",
+        "pt": "Raydric Maldito",
         "es": "Raydric Maldito"
     },
     "OJEB": {
         "en": "Cursed Raydric Archer",
-        "pt": "Arqueiro Raydric Amaldiçoado",
-        "es": "Arquero Raydric Maldito"
+        "pt": "Arqueiro Maldito",
+        "es": "Arquero Maldito"
     },
     "OZEB": {
         "en": "Cursed Servant",
-        "pt": "Servo Amaldiçoado",
+        "pt": "Servo Maldito",
         "es": "Sirviente Maldito"
     },
     "OpEB": {
         "en": "Cursed Butler",
-        "pt": "Mordomo Amaldiçoado",
+        "pt": "Mordomo Maldito",
         "es": "Mayordomo Maldito"
     },
     "O5EB": {
@@ -13580,8 +13583,8 @@
     },
     "PZEB": {
         "en": "Mutated White Knight",
-        "pt": "Cavaleiro Branco Mutado",
-        "es": "Caballero Blanco Mutado"
+        "pt": "Cavaleiro Mutante",
+        "es": "Caballero Mutado"
     },
     "PpEB": {
         "en": "Mutated Khalitzburg",
@@ -13590,13 +13593,13 @@
     },
     "P5EB": {
         "en": "Cursed Raydric Archer",
-        "pt": "Arqueiro Raydric Amaldiçoado",
+        "pt": "Khalitzburg Mutante",
         "es": "Arquero Raydric Maldito"
     },
     "QJEB": {
         "en": "Clover Poporing",
-        "pt": "Poporing Trevo",
-        "es": "Poporing Trébol"
+        "pt": "Poporing Feliz",
+        "es": "Poporing Feliz"
     },
     "QZEB": {
         "en": "Leticia",
@@ -13620,22 +13623,22 @@
     },
     "RZEB": {
         "en": "King's Knight",
-        "pt": "Cavaleiro do Rei",
+        "pt": "Guardião do Rei",
         "es": "Caballero del Rey"
     },
     "RpEB": {
         "en": "Knight of Agony",
-        "pt": "Cavaleiro da Agonia",
+        "pt": "Guardiã da Agonia",
         "es": "Caballero de la Agonía"
     },
     "R5EB": {
         "en": "Knight of Devotion",
-        "pt": "Cavaleiro da Devoção",
+        "pt": "Guardiã da Devoção",
         "es": "Caballero de la Devoción"
     },
     "SJEB": {
         "en": "Armed Knight",
-        "pt": "Cavaleiro Armado",
+        "pt": "Guardião de Armadura",
         "es": "Caballero Armado"
     },
     "SZEB": {
@@ -13645,27 +13648,27 @@
     },
     "SpEB": {
         "en": "Verkhasel",
-        "pt": "Verkhasel",
+        "pt": "Bercasell",
         "es": "Verkhasel"
     },
     "S5EB": {
         "en": "Baphomet",
-        "pt": "Bafomé",
-        "es": "Bafomet"
+        "pt": "Bafomé Primordial",
+        "es": "Bafomé Primordial"
     },
     "TJEB": {
         "en": "Hunter Falcon",
-        "pt": "Falcão do Caçador",
+        "pt": "Falcão",
         "es": "Halcón del Cazador"
     },
     "TZEB": {
         "en": "Sniper Falcon",
-        "pt": "Falcão do Sniper",
+        "pt": "Gavião",
         "es": "Halcón del Francotirador"
     },
     "TpEB": {
         "en": "Ranger Falcon",
-        "pt": "Falcão do Ranger",
+        "pt": "Coruja",
         "es": "Halcón del Ranger"
     },
     "T5EB": {
@@ -13676,7 +13679,7 @@
     "UJEB": {
         "en": "ABR Battle Warrior",
         "pt": "ABR Soldado",
-        "es": "ABR Guerrero de Batalla"
+        "es": "ABR Soldado"
     },
     "UZEB": {
         "en": "ABR Dual Cannon",
@@ -13686,7 +13689,7 @@
     "UpEB": {
         "en": "ABR Mother Net",
         "pt": "ABR Curandeira",
-        "es": "ABR Red Madre"
+        "es": "ABR Curandera"
     },
     "U5EB": {
         "en": "ABR Infinity",
@@ -13740,48 +13743,48 @@
     },
     "XZEB": {
         "en": "Mutated Chimera Lava",
-        "pt": "Quimera Mutada Lava",
-        "es": "Quimera Mutada Lava"
+        "pt": "Quimera Lava",
+        "es": "Quimera Lava"
     },
     "XpEB": {
         "en": "Mutated Chimera Fulgor",
-        "pt": "Quimera Mutada Fulgor",
-        "es": "Quimera Mutada Fulgor"
+        "pt": "Quimera Fulgor",
+        "es": "Quimera Fulgor"
     },
     "X5EB": {
         "en": "Mutated Chimera Napeo",
-        "pt": "Quimera Mutada Napeo",
-        "es": "Quimera Mutada Napeo"
+        "pt": "Quimera Napeo",
+        "es": "Quimera Napeo"
     },
     "YJEB": {
         "en": "Mutated Chimera Galensis",
-        "pt": "Quimera Mutada Galensis",
-        "es": "Quimera Mutada Galensis"
+        "pt": "Quimera Galensis",
+        "es": "Quimera Galensis"
     },
     "YZEB": {
         "en": "Mutated Chimera Amitera",
-        "pt": "Quimera Mutada Amitera",
-        "es": "Quimera Mutada Amitera"
+        "pt": "Quimera Amitera",
+        "es": "Quimera Amitera"
     },
     "YpEB": {
         "en": "Mutated Chimera Litus",
-        "pt": "Quimera Mutada Litus",
-        "es": "Quimera Mutada Litus"
+        "pt": "Quimera Litus",
+        "es": "Quimera Litus"
     },
     "Y5EB": {
         "en": "Mutated Chimera Fillia",
-        "pt": "Quimera Mutada Fillia",
-        "es": "Quimera Mutada Fillia"
+        "pt": "Quimera Fillia",
+        "es": "Quimera Fillia"
     },
     "ZJEB": {
         "en": "Mutated Chimera Vanilaqus",
-        "pt": "Quimera Mutada Vanilaqus",
-        "es": "Quimera Mutada Vanilaqus"
+        "pt": "Quimera Vanilaqus",
+        "es": "Quimera Vanilaqus"
     },
     "ZZEB": {
         "en": "Mutated Chimera The One",
-        "pt": "Quimera Mutada The One",
-        "es": "Quimera Mutada The One"
+        "pt": "Quimera Única",
+        "es": "Quimera Única"
     },
     "ZpEB": {
         "en": "Giant Caput",
@@ -13820,7 +13823,7 @@
     },
     "bZEB": {
         "en": "Disguiser",
-        "pt": "Disfarçador",
+        "pt": "Disfarçado",
         "es": "Disfrazador"
     },
     "bpEB": {
@@ -13830,7 +13833,7 @@
     },
     "b5EB": {
         "en": "Ghost Cube",
-        "pt": "Cubo Fantasma",
+        "pt": "Quve Fantasma",
         "es": "Cubo Fantasma"
     },
     "cJEB": {
@@ -13840,8 +13843,8 @@
     },
     "cZEB": {
         "en": "Blue Moon Loli Ruri",
-        "pt": "Loli Ruri da Lua Azul",
-        "es": "Loli Ruri de la Luna Azul"
+        "pt": "Loli Ruri Azul",
+        "es": "Loli Ruri Azul"
     },
     "cpEB": {
         "en": "Grote",
@@ -13860,33 +13863,33 @@
     },
     "dZEB": {
         "en": "Mutated Chimera Lava",
-        "pt": "Quimera Mutada Lava",
-        "es": "Quimera Mutada Lava"
+        "pt": "Quimera Lava",
+        "es": "Quimera Lava"
     },
     "dpEB": {
         "en": "Mutated Chimera Fulgor",
-        "pt": "Quimera Mutada Fulgor",
-        "es": "Quimera Mutada Fulgor"
+        "pt": "Quimera Fulgor",
+        "es": "Quimera Fulgor"
     },
     "d5EB": {
         "en": "Mutated Chimera Napeo",
-        "pt": "Quimera Mutada Napeo",
-        "es": "Quimera Mutada Napeo"
+        "pt": "Quimera Napeo",
+        "es": "Quimera Napeo"
     },
     "eJEB": {
         "en": "Mutated Chimera Galensis",
-        "pt": "Quimera Mutada Galensis",
-        "es": "Quimera Mutada Galensis"
+        "pt": "Quimera Galensis",
+        "es": "Quimera Galensis"
     },
     "eZEB": {
         "en": "Disguiser",
-        "pt": "Disfarçador",
+        "pt": "Disfarçado",
         "es": "Disfrazador"
     },
     "epEB": {
         "en": "Blue Moon Loli Ruri",
-        "pt": "Loli Ruri da Lua Azul",
-        "es": "Loli Ruri de la Luna Azul"
+        "pt": "Loli Ruri Azul",
+        "es": "Loli Ruri Azul"
     },
     "e5EB": {
         "en": "Grote",
@@ -13925,13 +13928,13 @@
     },
     "gpEB": {
         "en": "Mutated White Knight",
-        "pt": "Cavaleiro Branco Mutado",
+        "pt": "Cavaleiro Mutante",
         "es": "Caballero Blanco Mutado"
     },
     "g5EB": {
         "en": "Blue Moon Loli Loli",
-        "pt": "Blue Moon Loli Loli",
-        "es": "Blue Moon Loli Loli"
+        "pt": "Loli Ruri Azul",
+        "es": "Loli Ruri Azul"
     },
     "hJEB": {
         "en": "Cutie",

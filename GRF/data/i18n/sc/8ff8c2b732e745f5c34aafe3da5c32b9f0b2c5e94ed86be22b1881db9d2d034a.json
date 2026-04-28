@@ -2,37 +2,37 @@
     "gMvZDA": {
         "ko": "감시하는 자",
         "en": "Dame of Sentinel",
-        "pt": "Observação",
-        "es": "Dama del Centinela"
+        "pt": "Anjo da Observação",
+        "es": "Ángel de la Observación"
     },
     "gcvZDA": {
         "ko": "감시하는 자: 돌아가십시오. 당신같은 인간이 접근할 곳이 아닙니다.",
         "en": "Dame of Sentinel: Turn back. This is not a place for a human like you to approach.",
-        "pt": "Observação: Retire-se. Este não é um lugar onde um humano como você deva se aproximar.",
-        "es": "Dama del Centinela: Regrese. Este no es un lugar al que un humano como usted deba acercarse."
+        "pt": "Anjo da Observação: Retire-se. Você não deve adentrar mais.",
+        "es": "Ángel de la Observación: Retírate. No debes entrar más."
     },
     "gsvZDA": {
         "ko": "감시하는 자: 경고를 무시하지 마십시오.",
         "en": "Dame of Sentinel: Do not ignore the warning.",
-        "pt": "Observação: Não ignore o aviso.",
-        "es": "Dama del Centinela: No ignore la advertencia."
+        "pt": "Anjo da Observação: Não ignore o meu aviso!",
+        "es": "Ángel de la Observación: ¡No ignores mi advertencia!"
     },
     "g8vZDA": {
         "ko": "감시하는 자: 후회하실 겁니다. 전력으로 상대하겠습니다.",
         "en": "Dame of Sentinel: You will regret it. I will face you with my full strength.",
-        "pt": "Observação: Você vai se arrepender. Vou enfrentá-lo com toda a minha força.",
-        "es": "Dama del Centinela: Se arrepentirá. Lucharé con todas mis fuerzas."
+        "pt": "Anjo da Observação: Você vai se arrepender. Vou acabar com você!",
+        "es": "Ángel de la Observación: Te arrepentirás. ¡Acabaré contigo!"
     },
     "hMvZDA": {
         "ko": "감시하는 자",
         "en": "Dame of Sentinel",
-        "pt": "Observação",
-        "es": "Dama del Centinela"
+        "pt": "Anjo da Observação",
+        "es": "Ángel de la Observación"
     },
     "hcvZDA": {
         "ko": "게이트의 봉인이 해제되었습니다.",
         "en": "The seal of the gate has been released.",
-        "pt": "O selo do portal foi removido.",
-        "es": "El sello de la puerta ha sido liberado."
+        "pt": "O selo foi removido. Um portal se abriu.",
+        "es": "El sello ha sido removido. Un portal se ha abierto."
     }
 }

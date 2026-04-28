@@ -945,7 +945,7 @@
         "es": "[Leno]\n¿Qué pasa? ¿Sigue Rumin tan enfadado conmigo?\n¿Qué hago?\n¿Debería ir a arrastrarme ante él?"
     },
     "HZMmCg": {
-        "en": "[Leno]\nWe've got some urgent business, too.\nSome suspicious individual has been sighted in Glast Heim,\nand he could be related to that poster fraudster.",
+        "en": "[Leno]\nWe've got some urgent business, too.\nSome suspicious individual has been sighted in Glastheim,\nand he could be related to that poster fraudster.",
         "pt": "[Leno]\nTambém temos alguns assuntos urgentes.\nUm indivíduo suspeito foi avistado em Glastheim,\ne ele pode estar relacionado com o fraudador do pôster.",
         "es": "[Leno]\nTambién tenemos asuntos urgentes.\nUn individuo sospechoso ha sido visto en Glastheim,\ny podría estar relacionado con el estafador del cartel."
     },
@@ -965,12 +965,12 @@
         "es": "[Leno]\nConoces a ese adorador extremo de la diosa, que se aprovechó de nosotros.\nNos causó mucho dolor. Gracias a los dioses, teníamos a Lime."
     },
     "IZMmCg": {
-        "en": "[Leno]\nSome suspicious individual, believed to be a member of the Order of Freyja, has been sighted near Glast Heim.\nThe Prontera Knights contacted the Eden Group, and it put us on this mission:",
+        "en": "[Leno]\nSome suspicious individual, believed to be a member of the Order of Freyja, has been sighted near Glastheim.\nThe Prontera Knights contacted the Eden Group, and it put us on this mission:",
         "pt": "[Leno]\nUm indivíduo suspeito, que se acredita ser um membro da Ordem de Freya, foi avistado perto de Glastheim.\nOs Cavaleiros de Prontera entraram em contato com o Grupo do Éden, que nos colocou nesta missão:",
         "es": "[Leno]\nUn individuo sospechoso, que se cree que es miembro de la Orden de Freyja, ha sido avistado cerca de Glastheim.\nLos Caballeros de Prontera contactaron con el Grupo del Edén, y nos puso en esta misión:"
     },
     "IpMmCg": {
-        "en": "[Leno]\ngo to Glast Heim to find evidence and listen to the people who are stationed there.\nI would have felt much more confident if Rumin was with us, but... this time, it has to be just the two of us.",
+        "en": "[Leno]\ngo to Glastheim to find evidence and listen to the people who are stationed there.\nI would have felt much more confident if Rumin was with us, but... this time, it has to be just the two of us.",
         "pt": "[Leno]\nir a Glastheim para encontrar evidências e ouvir as pessoas que estão estacionadas lá.\nEu teria me sentido muito mais confiante se o Rumin estivesse conosco, mas... desta vez, temos que ser apenas nós dois.",
         "es": "[Leno]\nir a Glastheim para encontrar pruebas y escuchar a la gente que está apostada allí.\nMe habría sentido mucho más seguro si Rumin estuviera con nosotros, pero... esta vez, tenemos que ser sólo nosotros dos."
     },
@@ -980,7 +980,7 @@
         "es": "[Leno]\nVámonos antes de que sus rastros sean destruidos por el tiempo.\nSi sientes que aún necesitas entrenamiento, entonces caza algunos monstruos más alrededor de la Pirámide."
     },
     "JJMmCg": {
-        "en": "[Leno]\nWhere we're going is pretty dangerous. We have to be fully prepared.\nI'll be on the <NAVI>[south side of Glast Heim]<INFO>glast_01,212,126,0,101,1</INFO></NAVI>. See you there.",
+        "en": "[Leno]\nWhere we're going is pretty dangerous. We have to be fully prepared.\nI'll be on the <NAVI>[south side of Glastheim]<INFO>glast_01,212,126,0,101,1</INFO></NAVI>. See you there.",
         "pt": "[Leno]\nO local para onde estamos indo é bastante perigoso. Temos que estar totalmente preparados.\nEstarei no <NAVI>[lado sul de Glastheim]<INFO>glast_01,212,126,0,101,1</INFO></NAVI>. Vejo você lá.",
         "es": "[Leno]\nDonde vamos es bastante peligroso. Tenemos que estar totalmente preparados.\nEstaré en el <NAVI>[lado sur de Glastheim]<INFO>glast_01,212,126,0,101,1</INFO></NAVI>. Nos vemos allí."
     },
@@ -1170,7 +1170,7 @@
         "es": "[Leno]\nA decir verdad, tengo un mensaje del Grupo del Edén... quiero decir, de la Academia Criatura."
     },
     "SpMmCg": {
-        "en": "[Leno]\nSome suspicious individual has been sighted in Glast Heim,\nand he could be related to that poster fraudster from Prontera.",
+        "en": "[Leno]\nSome suspicious individual has been sighted in Glastheim,\nand he could be related to that poster fraudster from Prontera.",
         "pt": "[Leno]\nUm indivíduo suspeito foi avistado em Glastheim,\ne ele pode estar relacionado àquele fraudador de pôsteres de Prontera.",
         "es": "[Leno]\nUn individuo sospechoso ha sido avistado en Glastheim,\ny podría estar relacionado con el estafador del cartel de Prontera."
     },
@@ -1435,7 +1435,7 @@
         "es": "[Rumin]\nHm, ya la has oído. Seré breve.\nSe hicieron pasar por clientes e intentaron aprovecharse de nuestro gremio. Eso no salió bien."
     },
     "f5MmCg": {
-        "en": "[Rumin]\nThen, recently, some old traces were discovered in Prontera, and then here in Glast Heim. Though Prontera was just a misunderstanding.\nBut according to our intel, the source of this mask is Rachel.",
+        "en": "[Rumin]\nThen, recently, some old traces were discovered in Prontera, and then here in Glastheim. Though Prontera was just a misunderstanding.\nBut according to our intel, the source of this mask is Rachel.",
         "pt": "[Rumin]\nEntão, recentemente, alguns rastros antigos foram descobertos em Prontera, e depois aqui em Glastheim. Embora Prontera tenha sido apenas um mal-entendido.\nMas, de acordo com nossas informações, a fonte dessa máscara é Rachel.",
         "es": "[Rumin]\nEntonces, recientemente, algunos viejos rastros fueron descubiertos en Prontera, y luego aquí en Glastheim. Aunque lo de Prontera fue sólo un malentendido.\nPero según nuestra información, la fuente de esta máscara es Rachel."
     },
@@ -1605,7 +1605,7 @@
         "es": "[Rumin]\nHola, {0}.\n¿Quién me iba a decir que te vería aquí? ¡Qué coincidencia!\nLeno y yo hemos decidido encontrarnos aquí y empezar a entrenar juntos."
     },
     "oZMmCg": {
-        "en": "[Leno]\nWe've discovered a trace of the extreme goddess worshippers in Glast Heim. I kind of stepped on it, splitting it in half, though...\nAnyway, we're going to Rachel to investigate it!",
+        "en": "[Leno]\nWe've discovered a trace of the extreme goddess worshippers in Glastheim. I kind of stepped on it, splitting it in half, though...\nAnyway, we're going to Rachel to investigate it!",
         "pt": "[Leno]\nDescobrimos um rastro dos adoradores da deusa extrema em Glastheim. Mas eu meio que pisei nele, partindo-o ao meio...\nDe qualquer forma, estamos indo para Rachel para investigar isso!",
         "es": "[Leno]\nHemos descubierto un rastro de los adoradores de la diosa extrema en Glastheim. Aunque como que lo pisé, partiéndolo por la mitad...\nDe todos modos, ¡vamos a Rachel a investigarlo!"
     },
@@ -1755,7 +1755,7 @@
         "es": "[Leno]\n¡No, no lo es!\nRumin y yo hemos estado viajando juntos. ¡A entrenar!"
     },
     "v5MmCg": {
-        "en": "[Leno]\nWe've discovered a trace of the extreme goddess worshippers in Glast Heim.\nWe're on our way to Rachel to investigate it.",
+        "en": "[Leno]\nWe've discovered a trace of the extreme goddess worshippers in Glastheim.\nWe're on our way to Rachel to investigate it.",
         "pt": "[Leno]\nDescobrimos um rastro dos adoradores da deusa extrema em Glastheim.\nEstamos a caminho de Rachel para investigar isso.",
         "es": "[Leno]\nHemos descubierto un rastro de los adoradores de la diosa extrema en Glastheim.\nEstamos de camino a Rachel para investigarlo."
     },
@@ -2185,7 +2185,7 @@
         "es": "[Rumin]\nY mírate, ya eres un aventurero experimentado.\n¿Quieres unirte a nuestra investigación? Sé que puedo contar contigo."
     },
     "FZQmCg": {
-        "en": "[Leno]\nWe came here to investigate the source of the mask we discovered in Glast Heim.\nI accidentally stepped on it, splitting it in half... Anyway, its design is old and no longer in use.",
+        "en": "[Leno]\nWe came here to investigate the source of the mask we discovered in Glastheim.\nI accidentally stepped on it, splitting it in half... Anyway, its design is old and no longer in use.",
         "pt": "[Leno]\nViemos aqui para investigar a origem da máscara que descobrimos em Glastheim.\nEu acidentalmente pisei nela, partindo-a ao meio... De qualquer forma, seu design é antigo e não está mais em uso.",
         "es": "[Leno]\nVinimos a investigar el origen de la máscara que descubrimos en Glastheim.\nLa pisé accidentalmente, partiéndola por la mitad... De todos modos, su diseño es antiguo y ya no está en uso."
     },
@@ -2225,7 +2225,7 @@
         "es": "Tampoco es viejo.\nDeberíamos encontrar algo rápidamente. Vamos a ver el mercado primero, ¿de acuerdo?"
     },
     "HZQmCg": {
-        "en": "[Rumin]\nAlright, now let's look for the source of this mask, which Leno did a fantastic job breaking it in half in Glast Heim.\nIt may not be popular now, but those extreme goddess worshippers have a reason to use it.",
+        "en": "[Rumin]\nAlright, now let's look for the source of this mask, which Leno did a fantastic job breaking it in half in Glastheim.\nIt may not be popular now, but those extreme goddess worshippers have a reason to use it.",
         "pt": "[Rumin]\nMuito bem, agora vamos procurar a origem dessa máscara, que Leno fez um trabalho fantástico ao parti-la ao meio em Glastheim.\nEla pode não ser popular agora, mas os adoradores extremos da deusa têm um motivo para usá-la.",
         "es": "[Rumin]\nMuy bien, ahora busquemos el origen de esta máscara, que Leno hizo un trabajo fantástico partiéndola por la mitad en Glastheim.\nPuede que no sea popular ahora, pero esos adoradores extremos de la diosa tienen una razón para usarla."
     },
@@ -2515,7 +2515,7 @@
         "es": "Rumin: Mm, Leno. Eso es un poco... Por favor, baja la voz."
     },
     "V5QmCg": {
-        "en": "[Mantova]\nEh-eh-executed? I just wanted to take a look at Glast Heim! I wasn't there to spy!\nI-I left that mask there as a joke. Y-y-you can't kill me for that!",
+        "en": "[Mantova]\nEh-eh-executed? I just wanted to take a look at Glastheim! I wasn't there to spy!\nI-I left that mask there as a joke. Y-y-you can't kill me for that!",
         "pt": "[Mantova]\nE-e-executado? Eu só queria dar uma olhada em Glastheim! Eu não estava lá para espionar!\nD-Deixei a máscara lá como uma piada. V-v-você não pode me matar por isso!",
         "es": "[Mantova]\n¿Eh-eh-ejecutado? ¡Sólo quería echar un vistazo a Glastheim! ¡No estaba allí para espiar!\nDejé esa máscara allí como una broma. ¡No puedes matarme por eso!"
     },

@@ -1940,14 +1940,14 @@
     "o+piCA": {
         "ko": "서문 쪽으로 달아 난다!!! 놓쳐선 안돼!",
         "en": "They're fleeing to the West Gate!!! We mustn't lose them!",
-        "pt": "Crente agressiva",
-        "es": "Creyente Agresiva"
+        "pt": "Eles estão indo pro portão oeste! Sigam!!",
+        "es": "¡¡Van hacia la puerta oeste! ¡¡Síganlos!!"
     },
     "pOpiCA": {
         "ko": "격분한 신도",
         "en": "Furious Follower",
-        "pt": "Eles estão indo pro portão oeste! Sigam!!",
-        "es": "¡¡Van hacia la puerta oeste! ¡¡Síganlos!!"
+        "pt": "Crente Agressiva",
+        "es": "Creyente Agressiva"
     },
     "pepiCA": {
         "ko": "경비병",

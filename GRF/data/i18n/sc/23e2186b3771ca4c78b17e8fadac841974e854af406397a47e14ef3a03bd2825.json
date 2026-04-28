@@ -2,50 +2,50 @@
     "oGzhDA": {
         "ko": "금빛의 수도자상",
         "en": "Golden Monk Statue",
-        "pt": "Estátua do Monge Dourado",
-        "es": "Estatua dorada del monje"
+        "pt": "Estátua Dourada",
+        "es": "Estatua Dorada"
     },
     "oWzhDA": {
         "ko": "타나토스의 원망",
         "en": "Resentment of Thanatos",
-        "pt": "Ressentimento de Thanatos",
+        "pt": "Rancor de Thanatos",
         "es": "Rencor de Thanatos"
     },
     "omzhDA": {
         "ko": "그 운명을 원망하느냐?",
         "en": "Do you resent that fate?",
         "pt": "Você lamenta esse destino?",
-        "es": "¿Guardas rencor contra ese destino?"
+        "es": "¿Lamentas este destino?"
     },
     "o2zhDA": {
         "ko": "암흑의 마신상: 키키키킥 키키키킥 부질없는 몸부림이도다!!!",
         "en": "Dark Demon Statue: Kikikikik Kikikikik What futile struggling!!!",
-        "pt": "Estátua do Deus Demônio das Trevas: Kihihihik Kihihihik! Que luta inútil!!!",
-        "es": "Estatua del dios demoníaco de la oscuridad: ¡Kikikikik! ¡Kikikikik! ¡Qué lucha tan inútil!!!"
+        "pt": "Estátua Sombria: Mwahaha! Que luta inútil!!!",
+        "es": "Estatua Sombría: ¡Mwahaha! ¡Qué lucha tan inútil!!!"
     },
     "pGzhDA": {
         "ko": "청록의 현자상",
         "en": "Turquoise Sage Statue",
-        "pt": "Estátua do Sábio Turquesa",
-        "es": "Estatua del sabio turquesa"
+        "pt": "Estátua Verde",
+        "es": "Estatua Verde"
     },
     "pWzhDA": {
         "ko": "타나토스의 후회",
         "en": "Regret of Thanatos",
-        "pt": "Arrependimento de Thanatos",
-        "es": "Arrepentimiento de Thanatos"
+        "pt": "Lamento de Thanatos",
+        "es": "Lamento de Thanatos"
     },
     "pmzhDA": {
         "ko": "그 선택을 후회하느냐?",
         "en": "Do you regret that choice?",
         "pt": "Você se arrepende dessa escolha?",
-        "es": "¿Te arrepientes de esa elección?"
+        "es": "¿Te arrepientes de esta elección?"
     },
     "p2zhDA": {
         "ko": "창공의 천사상",
         "en": "Angel Statue of the Sky",
-        "pt": "Estátua do Anjo do Céu",
-        "es": "Estatua del ángel del cielo"
+        "pt": "Estátua Angelical",
+        "es": "Estatua Angelical"
     },
     "qGzhDA": {
         "ko": "타나토스의 공포",
@@ -57,13 +57,13 @@
         "ko": "두려우냐?",
         "en": "Are you afraid?",
         "pt": "Você sente medo?",
-        "es": "¿Tienes miedo?"
+        "es": "¿Sientes miedo?"
     },
     "qmzhDA": {
         "ko": "적혈의 기사상",
         "en": "Crimson Knight Statue",
-        "pt": "Estátua do Cavaleiro Escarlate",
-        "es": "Estatua del caballero de sangre escarlata"
+        "pt": "Estátua de Cavaleiro",
+        "es": "Estatua de Caballero"
     },
     "q2zhDA": {
         "ko": "타나토스의 분노",
@@ -74,103 +74,103 @@
     "rGzhDA": {
         "ko": "분노하라, 분노하라 ….",
         "en": "Be angry, be angry ….",
-        "pt": "Enfureça-se, enfureça-se….",
-        "es": "Enfúriate, enfúriate…."
+        "pt": "Deixe que a raiva lhe consuma....",
+        "es": "Deja que la ira te consuma...."
     },
     "rWzhDA": {
         "ko": "암흑의 마신상",
         "en": "Dark Demon Statue",
-        "pt": "Estátua do Deus Demônio das Trevas",
-        "es": "Estatua del dios demoníaco de la oscuridad"
+        "pt": "Estátua Sombria",
+        "es": "Estatua Sombría"
     },
     "rmzhDA": {
         "ko": "소지하고 계시는 아이템의 갯수가 많아 퀘스트를 진행 할 수 없습니다.\n아이템을 정리한 뒤 다시 시도해 주시기 바랍니다.",
         "en": "You cannot proceed with the quest because you are carrying too many items. Please organize your inventory and try again.",
         "pt": "Você possui itens demais para prosseguir com a missão. Organize seus itens e tente novamente.",
-        "es": "No puedes continuar la misión porque llevas demasiados objetos. Ordena tus objetos e inténtalo de nuevo."
+        "es": "Tienes demasiados objetos para continuar con la misión. Organiza tu inventario e inténtalo de nuevo."
     },
     "r2zhDA": {
         "ko": "결계석이 활성화 되었습니다.",
         "en": "Barrier Stone has been activated.",
-        "pt": "Pedra de Barreira foi ativada.",
-        "es": "Piedra de barrera ha sido activada."
+        "pt": "O círculo mágico central foi desbloqueado.",
+        "es": "El círculo mágico central fue desbloqueado."
     },
     "sGzhDA": {
         "ko": "결계석",
         "en": "Barrier Stone",
-        "pt": "Pedra de Barreira",
-        "es": "Piedra de barrera"
+        "pt": "Selo",
+        "es": "Sello"
     },
     "sWzhDA": {
         "ko": "봉인진 일부가 해금되었습니다.",
         "en": "Part of the sealing circle has been unlocked.",
-        "pt": "Parte do selo foi liberada.",
-        "es": "Parte del círculo de sellado ha sido desbloqueado."
+        "pt": "Uma parte do selo foi liberada.",
+        "es": "Una parte del sello fue liberada."
     },
     "smzhDA": {
         "ko": "비어있는 공간 아래로 옅은 금빛이 어려있다.",
         "en": "A faint golden light lingers beneath the empty space.",
         "pt": "Sob o espaço vazio há um leve brilho dourado.",
-        "es": "Un tenue brillo dorado se percibe bajo el espacio vacío."
+        "es": "Bajo el espacio vacío hay un leve brillo dorado."
     },
     "s2zhDA": {
         "ko": "노란색 마력이 결계석에 녹아들었다.",
         "en": "Yellow magic power has been absorbed into Barrier Stone.",
-        "pt": "O poder mágico amarelo foi absorvido pela Pedra de Barreira.",
-        "es": "El poder mágico amarillo se ha fundido con Piedra de barrera."
+        "pt": "A Pedra Encantada Amarela foi absorvida pela Alma.",
+        "es": "La Piedra Encantada Amarilla fue absorbida por el Alma."
     },
     "tGzhDA": {
         "ko": "게이트의 봉인이 모두 해제되었습니다.",
         "en": "The seal of the gate has been completely released.",
         "pt": "O selo do portal foi completamente removido.",
-        "es": "El sello de la puerta ha sido completamente liberado."
+        "es": "El sello del portal fue completamente removido."
     },
     "tWzhDA": {
         "ko": "비어있는 공간 아래로 옅은 녹색이 어려있다.",
         "en": "A faint green light lingers beneath the empty space.",
         "pt": "Sob o espaço vazio há um leve brilho verde.",
-        "es": "Un tenue brillo verde se percibe bajo el espacio vacío."
+        "es": "Bajo el espacio vacío hay un leve brillo verde."
     },
     "tmzhDA": {
         "ko": "초록색 마력이 결계석에 녹아들었다.",
         "en": "Green magic power has been absorbed into Barrier Stone.",
-        "pt": "O poder mágico verde foi absorvido pela Pedra de Barreira.",
-        "es": "El poder mágico verde se ha fundido con Piedra de barrera."
+        "pt": "A Pedra Encantada Verde foi absorvida pela Alma.",
+        "es": "La Piedra Encantada Verde fue absorbida por el Alma."
     },
     "t2zhDA": {
         "ko": "비어있는 공간 아래로 옅은 청색이 어려있다.",
         "en": "A faint blue light lingers beneath the empty space.",
         "pt": "Sob o espaço vazio há um leve brilho azul.",
-        "es": "Un tenue brillo azul se percibe bajo el espacio vacío."
+        "es": "Bajo el espacio vacío hay un leve brillo azul."
     },
     "uGzhDA": {
         "ko": "파란색 마력이 결계석에 녹아들었다.",
         "en": "Blue magic power has been absorbed into Barrier Stone.",
-        "pt": "O poder mágico azul foi absorvido pela Pedra de Barreira.",
-        "es": "El poder mágico azul se ha fundido con Piedra de barrera."
+        "pt": "A Pedra Encantada Azul foi absorvida pela Alma.",
+        "es": "La Piedra Encantada Azul fue absorbida por el Alma."
     },
     "uWzhDA": {
         "ko": "비어있는 공간 아래로 옅은 붉은색이 어려있다.",
         "en": "A faint red light lingers beneath the empty space.",
         "pt": "Sob o espaço vazio há um leve brilho vermelho.",
-        "es": "Un tenue brillo rojo se percibe bajo el espacio vacío."
+        "es": "Bajo el espacio vacío hay un leve brillo rojo."
     },
     "umzhDA": {
         "ko": "붉은색 마력이 결계석에 녹아들었다.",
         "en": "Red magic power has been absorbed into Barrier Stone.",
-        "pt": "O poder mágico vermelho foi absorvido pela Pedra de Barreira.",
-        "es": "El poder mágico rojo se ha fundido con Piedra de barrera."
+        "pt": "A Pedra Encantada Vermelha foi absorvida pela Alma.",
+        "es": "La Piedra Encantada Roja fue absorbida por el Alma."
     },
     "u2zhDA": {
         "ko": "비어있는 공간 아래로 짙은 어둠이 보인다.",
         "en": "A deep darkness can be seen beneath the empty space.",
         "pt": "Sob o espaço vazio há uma escuridão profunda.",
-        "es": "Una profunda oscuridad se percibe bajo el espacio vacío."
+        "es": "Bajo el espacio vacío hay una oscuridad profunda."
     },
     "vGzhDA": {
         "ko": "검은색 마력이 결계석에 녹아들었다.",
         "en": "Black magic power has been absorbed into Barrier Stone.",
-        "pt": "O poder mágico negro foi absorvido pela Pedra de Barreira.",
-        "es": "El poder mágico negro se ha fundido con Piedra de barrera."
+        "pt": "A Pedra Encantada Preta foi absorvida pela Alma.",
+        "es": "La Piedra Encantada Negra fue absorbida por el Alma."
     }
 }

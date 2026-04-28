@@ -700,6 +700,66 @@ packageitemboxName = {
 		"[Disfraz] Canasta de Pitaya Roja"
 	},
 	{
+		107233,
+		0,
+		"[Disfraz] Yelmo de Khalitzburg Blanco"
+	},
+	{
+		107233,
+		1,
+		"[Disfraz] Yelmo de Khalitzburg Negro"
+	},
+	{
+		107233,
+		2,
+		"[Disfraz] Yelmo de Khalitzburg"
+	},
+	{
+		107233,
+		3,
+		"[Disfraz] Bufanda de Schmidt"
+	},
+	{
+		107234,
+		0,
+		"[Disfraz] Cabello de Marinera Lunar (Azul)"
+	},
+	{
+		107234,
+		1,
+		"[Disfraz] Cabello de Marinera Lunar (Rojizo)"
+	},
+	{
+		107234,
+		2,
+		"[Disfraz] Cabello de Marinera Lunar (Rubio)"
+	},
+	{
+		107234,
+		3,
+		"[Disfraz] Cabello de Marinera Lunar (Verde)"
+	},
+	{
+		107234,
+		4,
+		"[Disfraz] Cabello de Marinera Lunar (Moreno)"
+	},
+	{
+		107234,
+		5,
+		"[Disfraz] Cabello de Marinera Lunar (Blanco)"
+	},
+	{
+		107234,
+		6,
+		"[Disfraz] Cabello de Marinera Lunar (Castaño)"
+	},
+	{
+		107234,
+		7,
+		"[Disfraz] Cabello de Marinera Lunar (Lila)"
+	},
+	{
 		0,
 		0,
 		"0"
@@ -2519,6 +2579,150 @@ packageitemsetbox = {
 		107035,
 		3,
 		102740,
+		1,
+		0,
+		0,
+		0
+	},
+	{
+		107233,
+		0,
+		400656,
+		1,
+		0,
+		0,
+		0
+	},
+	{
+		107233,
+		0,
+		102747,
+		1,
+		0,
+		0,
+		0
+	},
+	{
+		107233,
+		1,
+		31332,
+		1,
+		0,
+		0,
+		0
+	},
+	{
+		107233,
+		1,
+		102747,
+		1,
+		0,
+		0,
+		0
+	},
+	{
+		107233,
+		2,
+		20432,
+		1,
+		0,
+		0,
+		0
+	},
+	{
+		107233,
+		2,
+		102747,
+		1,
+		0,
+		0,
+		0
+	},
+	{
+		107233,
+		3,
+		420069,
+		1,
+		0,
+		0,
+		0
+	},
+	{
+		107233,
+		3,
+		102747,
+		1,
+		0,
+		0,
+		0
+	},
+	{
+		107234,
+		0,
+		31858,
+		1,
+		0,
+		0,
+		0
+	},
+	{
+		107234,
+		1,
+		31859,
+		1,
+		0,
+		0,
+		0
+	},
+	{
+		107234,
+		2,
+		31860,
+		1,
+		0,
+		0,
+		0
+	},
+	{
+		107234,
+		3,
+		31861,
+		1,
+		0,
+		0,
+		0
+	},
+	{
+		107234,
+		4,
+		31862,
+		1,
+		0,
+		0,
+		0
+	},
+	{
+		107234,
+		5,
+		31863,
+		1,
+		0,
+		0,
+		0
+	},
+	{
+		107234,
+		6,
+		31864,
+		1,
+		0,
+		0,
+		0
+	},
+	{
+		107234,
+		7,
+		31865,
 		1,
 		0,
 		0,

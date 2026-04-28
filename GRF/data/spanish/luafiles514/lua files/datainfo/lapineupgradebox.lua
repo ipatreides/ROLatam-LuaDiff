@@ -59,7 +59,7 @@ tblLapineUpgradeBox = {
 				},
 				{"Boots_IL", 22190}
 			},
-			NeedSource_String = "Ilusi�n del Osito"
+			NeedSource_String = "Ilusin del Osito"
 		},
 		S_Teddy_Bear_Box_IL = {
 			ItemID = 100420,
@@ -86,7 +86,7 @@ tblLapineUpgradeBox = {
 				},
 				{"Boots_IL", 22190}
 			},
-			NeedSource_String = "Ilusi�n del Osito"
+			NeedSource_String = "Ilusin del Osito"
 		},
 		Frozen_Box_IL = {
 			ItemID = 9785,
@@ -113,7 +113,7 @@ tblLapineUpgradeBox = {
 					28922
 				}
 			},
-			NeedSource_String = "Ilusi�n de Congelado"
+			NeedSource_String = "Ilusin de Congelado"
 		},
 		S_Frozen_Box_IL = {
 			ItemID = 100416,
@@ -140,7 +140,7 @@ tblLapineUpgradeBox = {
 					28922
 				}
 			},
-			NeedSource_String = "Ilusi�n de Congelado"
+			NeedSource_String = "Ilusin de Congelado"
 		},
 		Moonlight_Box_IL = {
 			ItemID = 100391,
@@ -180,7 +180,7 @@ tblLapineUpgradeBox = {
 					19210
 				}
 			},
-			NeedSource_String = "Ilusi�n de Luz de Luna"
+			NeedSource_String = "Ilusin de Luz de Luna"
 		},
 		S_Moonlight_Box_IL = {
 			ItemID = 100392,
@@ -220,7 +220,7 @@ tblLapineUpgradeBox = {
 					19210
 				}
 			},
-			NeedSource_String = "Ilusi�n de Luz de Luna"
+			NeedSource_String = "Ilusin de Luz de Luna"
 		},
 		Vampire_Box_IL = {
 			ItemID = 100414,
@@ -254,7 +254,7 @@ tblLapineUpgradeBox = {
 					20840
 				}
 			},
-			NeedSource_String = "Ilusi�n de Vampiro"
+			NeedSource_String = "Ilusin de Vampiro"
 		},
 		S_Vampire_Box_IL = {
 			ItemID = 100415,
@@ -288,7 +288,7 @@ tblLapineUpgradeBox = {
 					20840
 				}
 			},
-			NeedSource_String = "Ilusi�n de Vampiro"
+			NeedSource_String = "Ilusin de Vampiro"
 		},
 		Time_Unseal_Key = {
 			ItemID = 9551,
@@ -8725,7 +8725,7 @@ tblLapineUpgradeBox = {
 					18984
 				}
 			},
-			NeedSource_String = "Chap�u Memor�vel"
+			NeedSource_String = "Chapu Memorvel"
 		},
 		Loki_Advice = {
 			ItemID = 102277,
@@ -13424,7 +13424,7 @@ tblLapineUpgradeBox = {
 					420269
 				}
 			},
-			NeedSource_String = "Selo de Bast�es"
+			NeedSource_String = "Selo de Bastes"
 		},
 		UPG_TH_7_Ticket = {
 			ItemID = 104133,
@@ -13590,7 +13590,7 @@ tblLapineUpgradeBox = {
 			TargetItems = {
 				{"Upg_Whip", 580083}
 			},
-			NeedSource_String = "L�tigo Mejorado"
+			NeedSource_String = "Ltigo Mejorado"
 		},
 		UPG_VN_7_Ticket = {
 			ItemID = 104709,
@@ -13601,7 +13601,7 @@ tblLapineUpgradeBox = {
 			TargetItems = {
 				{"Upg_Violin", 570083}
 			},
-			NeedSource_String = "Viol�n Mejorado"
+			NeedSource_String = "Violn Mejorado"
 		},
 		Growth_W_Up_1_G = {
 			ItemID = 104087,
@@ -14213,7 +14213,7 @@ tblLapineUpgradeBox = {
 					22192
 				}
 			},
-			NeedSource_String = "Equipo de la Ilusi�n de Luanda"
+			NeedSource_String = "Equipo de la Ilusin de Luanda"
 		},
 		S_Luanda_Box_IL = {
 			ItemID = 100422,
@@ -14244,7 +14244,7 @@ tblLapineUpgradeBox = {
 					22192
 				}
 			},
-			NeedSource_String = "Equipo de la Ilusi�n de Luanda"
+			NeedSource_String = "Equipo de la Ilusin de Luanda"
 		},
 		Old_9Refine_Cube = {
 			ItemID = 105926,
@@ -14307,7 +14307,7 @@ tblLapineUpgradeBox = {
 					18984
 				}
 			},
-			NeedSource_String = "Chap�u Memor�vel"
+			NeedSource_String = "Chapu Memorvel"
 		},
 		Labyrinth_Box_IL = {
 			ItemID = 100423,
@@ -14338,7 +14338,7 @@ tblLapineUpgradeBox = {
 					20948
 				}
 			},
-			NeedSource_String = "Equipo de Ilusi�n del Laberinto"
+			NeedSource_String = "Equipo de Ilusin del Laberinto"
 		},
 		S_Teddy_Labyrinth_IL = {
 			ItemID = 100424,
@@ -14369,7 +14369,7 @@ tblLapineUpgradeBox = {
 					20948
 				}
 			},
-			NeedSource_String = "Equipo de Ilusi�n del Laberinto"
+			NeedSource_String = "Equipo de Ilusin del Laberinto"
 		},
 		Twins_Box_IL = {
 			ItemID = 100699,
@@ -14420,7 +14420,7 @@ tblLapineUpgradeBox = {
 					450182
 				}
 			},
-			NeedSource_String = "Equipo de la Ilusi�n de los Gemelos"
+			NeedSource_String = "Equipo de la Ilusin de los Gemelos"
 		},
 		S_Twins_Box_IL = {
 			ItemID = 100700,
@@ -14467,7 +14467,7 @@ tblLapineUpgradeBox = {
 					450182
 				}
 			},
-			NeedSource_String = "Equipo de la Ilusi�n de los Gemelos"
+			NeedSource_String = "Equipo de la Ilusin de los Gemelos"
 		},
 		EP17_1_SPC05 = {
 			ItemID = 23776,
@@ -14850,7 +14850,7 @@ tblLapineUpgradeBox = {
 		God_Favor_TW = {
 			ItemID = 101484,
 			NeedRefineMin = 0,
-			NeedRefineMax = 0,
+			NeedRefineMax = 20,
 			NeedOptionNumMin = 0,
 			NotSocketEnchantItem = true,
 			TargetItems = {
@@ -14932,7 +14932,7 @@ tblLapineUpgradeBox = {
 					480054
 				}
 			},
-			NeedSource_String = "Ilusi�n del Equipo Submarino"
+			NeedSource_String = "Ilusin del Equipo Submarino"
 		},
 		S_Underwater_Box_IL = {
 			ItemID = 100426,
@@ -14983,7 +14983,7 @@ tblLapineUpgradeBox = {
 					480054
 				}
 			},
-			NeedSource_String = "Ilusi�n del Equipo Submarino"
+			NeedSource_String = "Ilusin del Equipo Submarino"
 		},
 		Dead_Soul_Record_TW = {
 			ItemID = 101304,
@@ -15005,7 +15005,7 @@ tblLapineUpgradeBox = {
 					480024
 				}
 			},
-			NeedSource_String = "Fallen Warrior�s Cloak, Tormented Soul�s Cloak"
+			NeedSource_String = "Fallen Warriors Cloak, Tormented Souls Cloak"
 		},
 		P_Sungl_Dduck_Box = {
 			ItemID = 101670,
@@ -15790,7 +15790,7 @@ tblLapineUpgradeBox = {
 					550006
 				}
 			},
-			NeedSource_String = "Sistema de modificaci�n f�sica"
+			NeedSource_String = "Sistema de modificacin fsica"
 		},
 		Ein_Ddbox2 = {
 			ItemID = 9529,
@@ -15850,7 +15850,7 @@ tblLapineUpgradeBox = {
 					550006
 				}
 			},
-			NeedSource_String = "Sistema de modificaci�n m�gica"
+			NeedSource_String = "Sistema de modificacin mgica"
 		},
 		Abyss_Ddbox = {
 			ItemID = 23981,
@@ -15883,7 +15883,7 @@ tblLapineUpgradeBox = {
 					15396
 				}
 			},
-			NeedSource_String = "Energ�a del drag�n arremolinada"
+			NeedSource_String = "Energa del dragn arremolinada"
 		},
 		Abyss_Ddbox2 = {
 			ItemID = 100142,
@@ -15916,7 +15916,7 @@ tblLapineUpgradeBox = {
 					15396
 				}
 			},
-			NeedSource_String = "Energ�a del drag�n poderosa"
+			NeedSource_String = "Energa del dragn poderosa"
 		},
 		Abyss_Ddbox3 = {
 			ItemID = 100144,
@@ -15929,7 +15929,7 @@ tblLapineUpgradeBox = {
 					20946
 				}
 			},
-			NeedSource_String = "Energ�a del drag�n ardiente"
+			NeedSource_String = "Energa del dragn ardiente"
 		},
 		Abyss_Ddbox4 = {
 			ItemID = 100145,
@@ -15942,7 +15942,7 @@ tblLapineUpgradeBox = {
 					22208
 				}
 			},
-			NeedSource_String = "Energ�a del drag�n caliente"
+			NeedSource_String = "Energa del dragn caliente"
 		},
 		Auto_Imp_Melee_1 = {
 			ItemID = 100164,
@@ -16056,7 +16056,7 @@ tblLapineUpgradeBox = {
 					840000
 				}
 			},
-			NeedSource_String = "Arma objetivo de mejora intermedia (f�sico)"
+			NeedSource_String = "Arma objetivo de mejora intermedia (fsico)"
 		},
 		Auto_Imp_Melee_2 = {
 			ItemID = 100165,
@@ -16170,7 +16170,7 @@ tblLapineUpgradeBox = {
 					840000
 				}
 			},
-			NeedSource_String = "Arma objetivo de mejora avanzada (f�sico)"
+			NeedSource_String = "Arma objetivo de mejora avanzada (fsico)"
 		},
 		Auto_Imp_Melee_3 = {
 			ItemID = 100166,
@@ -16284,7 +16284,7 @@ tblLapineUpgradeBox = {
 					840000
 				}
 			},
-			NeedSource_String = "Arma objetivo de mejora superior (f�sico)"
+			NeedSource_String = "Arma objetivo de mejora superior (fsico)"
 		},
 		Auto_Imp_Magic_1 = {
 			ItemID = 100167,
@@ -16398,7 +16398,7 @@ tblLapineUpgradeBox = {
 					840000
 				}
 			},
-			NeedSource_String = "Arma objetivo de mejora intermedia (m�gico)"
+			NeedSource_String = "Arma objetivo de mejora intermedia (mgico)"
 		},
 		Auto_Imp_Magic_2 = {
 			ItemID = 100168,
@@ -16512,7 +16512,7 @@ tblLapineUpgradeBox = {
 					840000
 				}
 			},
-			NeedSource_String = "Arma objetivo de mejora avanzada (m�gico)"
+			NeedSource_String = "Arma objetivo de mejora avanzada (mgico)"
 		},
 		Auto_Imp_Magic_3 = {
 			ItemID = 100169,
@@ -16626,7 +16626,7 @@ tblLapineUpgradeBox = {
 					840000
 				}
 			},
-			NeedSource_String = "Arma objetivo de mejora superior (m�gico)"
+			NeedSource_String = "Arma objetivo de mejora superior (mgico)"
 		},
 		Illu_Enhance_Cube = {
 			ItemID = 100251,
@@ -16688,7 +16688,7 @@ tblLapineUpgradeBox = {
 				{"Auto_Leg_A", 470022},
 				{"Auto_Leg_B", 470023}
 			},
-			NeedSource_String = "Armadura Autom�tico (refino 4 o superior)"
+			NeedSource_String = "Armadura Automtico (refino 4 o superior)"
 		},
 		Racecap_Refine_Cube = {
 			ItemID = 100322,
@@ -16775,6 +16775,226 @@ tblLapineUpgradeBox = {
 				}
 			},
 			NeedSource_String = "Gorra de Carrera"
+		},
+		Refine_Hero_Weapon = {
+			ItemID = 100271,
+			NeedRefineMin = 0,
+			NeedRefineMax = 8,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = false,
+			TargetItems = {
+				{
+					"Royal_Bow_K",
+					18164
+				},
+				{"Narcis_Bow", 18170},
+				{
+					"Shadow_Staff_K",
+					26118
+				},
+				{
+					"Iron_Nail_K",
+					1847
+				},
+				{
+					"Magic_Sword",
+					28744
+				},
+				{
+					"Sword_Of_Bluefire",
+					13485
+				},
+				{"Avenger", 28130},
+				{"Iron_Staff", 2048},
+				{
+					"Oriental_Sword",
+					21038
+				},
+				{
+					"Undine_Spear_K",
+					32018
+				},
+				{
+					"Demon_Hunting_Bible_K",
+					28630
+				},
+				{
+					"Shiver_Katar_K",
+					28039
+				},
+				{
+					"OneSkyOneSun",
+					28631
+				},
+				{"SoulWeight", 26154},
+				{
+					"MeawFoxtail",
+					26155
+				},
+				{
+					"Crimson_Rose",
+					32302
+				},
+				{
+					"Master_Soul_Rifle",
+					28255
+				},
+				{
+					"Demon_S_Shot",
+					28256
+				},
+				{
+					"Golden_L_Launcher",
+					28257
+				},
+				{
+					"The_Black_Gatling",
+					28258
+				},
+				{
+					"Sharp_Wind_Sword",
+					28763
+				},
+				{
+					"Fog_Dew_Sword",
+					28764
+				},
+				{
+					"Humma_Clear",
+					13345
+				},
+				{
+					"Dragonic_Slayer",
+					600004
+				},
+				{
+					"Light_Blade",
+					500003
+				},
+				{
+					"Slate_Sword",
+					500004
+				},
+				{
+					"Trumpet_Shell_K",
+					570002
+				},
+				{
+					"Barb_Wire_K",
+					580002
+				},
+				{
+					"Meteor_Striker",
+					590002
+				},
+				{
+					"Blade_Katar",
+					610003
+				},
+				{
+					"Scalet_Dragon_L_Bow",
+					700003
+				},
+				{"Fatalist", 510006},
+				{
+					"Ray_Knuckle",
+					560002
+				},
+				{"Saint_Hall", 590003},
+				{
+					"Blue_Crystal_Staff",
+					640004
+				},
+				{
+					"Freezing_Rod",
+					550007
+				},
+				{
+					"Freedom_Stick",
+					550080
+				},
+				{
+					"Blessed_Knife",
+					510070
+				}
+			},
+			NeedSource_String = "Armas del héroe"
+		},
+		Bio_Helm_Refine_Cube = {
+			ItemID = 100684,
+			NeedRefineMin = 0,
+			NeedRefineMax = 10,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = false,
+			TargetItems = {
+				{
+					"BioWeapon_Helm_RK",
+					400078
+				},
+				{
+					"BioWeapon_Helm_LG",
+					400079
+				},
+				{
+					"BioWeapon_Helm_WL",
+					400094
+				},
+				{
+					"BioWeapon_Helm_SO",
+					400095
+				},
+				{
+					"BioWeapon_Helm_NC",
+					400098
+				},
+				{
+					"BioWeapon_Helm_GN",
+					400099
+				},
+				{
+					"BioWeapon_Helm_RA",
+					400116
+				},
+				{
+					"BioWeapon_Helm_WM",
+					400117
+				},
+				{
+					"BioWeapon_Helm_AB",
+					400118
+				},
+				{
+					"BioWeapon_Helm_SR",
+					400119
+				},
+				{
+					"BioWeapon_Helm_SC",
+					400120
+				},
+				{
+					"BioWeapon_Helm_GC",
+					400121
+				}
+			},
+			NeedSource_String = "Bioelmos"
+		},
+		Timeoverload_Power_LT = {
+			ItemID = 107226,
+			NeedRefineMin = 0,
+			NeedRefineMax = 20,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = false,
+			TargetItems = {
+				{
+					"WM_Physical_LT",
+					480812
+				},
+				{
+					"WM_Magical_LT",
+					480813
+				}
+			},
+			NeedSource_String = "Capa de los Caballeros Blancos"
 		}
 	},
 	get_lapine_box = function(in_box_id)

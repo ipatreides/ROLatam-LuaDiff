@@ -102,7 +102,7 @@
     "lC3iAQ": {
         "en": "Exchange",
         "pt": "Trocar",
-        "es": "Para reemplazar"
+        "es": "Cambiar"
     },
     "lS3iAQ": {
         "en": "Look for something else",
@@ -993,5 +993,80 @@
         "en": "^nItemID^480472",
         "pt": "^nItemID^480472",
         "es": "^nItemID^480472"
+    },
+    "Ry7iAQ": {
+        "en": "^nItemID^19690",
+        "pt": "^nItemID^19690",
+        "es": "^nItemID^19690"
+    },
+    "SC7iAQ": {
+        "en": "^nItemID^19805",
+        "pt": "^nItemID^19805",
+        "es": "^nItemID^19805"
+    },
+    "SS7iAQ": {
+        "en": "^nItemID^19807",
+        "pt": "^nItemID^19807",
+        "es": "^nItemID^19807"
+    },
+    "Si7iAQ": {
+        "en": "^nItemID^31403",
+        "pt": "^nItemID^31403",
+        "es": "^nItemID^31403"
+    },
+    "Sy7iAQ": {
+        "en": "^nItemID^31735",
+        "pt": "^nItemID^31735",
+        "es": "^nItemID^31735"
+    },
+    "TC7iAQ": {
+        "en": "^nItemID^400343",
+        "pt": "^nItemID^400343",
+        "es": "^nItemID^400343"
+    },
+    "TS7iAQ": {
+        "en": "^nItemID^400495",
+        "pt": "^nItemID^400495",
+        "es": "^nItemID^400495"
+    },
+    "Ti7iAQ": {
+        "en": "^nItemID^410194",
+        "pt": "^nItemID^410194",
+        "es": "^nItemID^410194"
+    },
+    "Ty7iAQ": {
+        "en": "^nItemID^410429",
+        "pt": "^nItemID^410429",
+        "es": "^nItemID^410429"
+    },
+    "UC7iAQ": {
+        "en": "^nItemID^420014",
+        "pt": "^nItemID^420014",
+        "es": "^nItemID^420014"
+    },
+    "US7iAQ": {
+        "en": "^nItemID^420016",
+        "pt": "^nItemID^420016",
+        "es": "^nItemID^420016"
+    },
+    "Ui7iAQ": {
+        "en": "^nItemID^480221",
+        "pt": "^nItemID^480221",
+        "es": "^nItemID^480221"
+    },
+    "Uy7iAQ": {
+        "en": "^nItemID^480223",
+        "pt": "^nItemID^480223",
+        "es": "^nItemID^480223"
+    },
+    "VC7iAQ": {
+        "en": "^nItemID^480360",
+        "pt": "^nItemID^480360",
+        "es": "^nItemID^480360"
+    },
+    "VS7iAQ": {
+        "en": "^nItemID^31415",
+        "pt": "^nItemID^31415",
+        "es": "^nItemID^31415"
     }
 }

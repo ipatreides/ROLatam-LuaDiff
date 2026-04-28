@@ -700,6 +700,66 @@ packageitemboxName = {
 		"[Visual] Cesta de Pitaya Vermelha"
 	},
 	{
+		107233,
+		0,
+		"[Visual] Elmo de Khalitzburg Branco"
+	},
+	{
+		107233,
+		1,
+		"[Visual] Elmo de Khalitzburg Negro"
+	},
+	{
+		107233,
+		2,
+		"[Visual] Elmo de Khalitzburg"
+	},
+	{
+		107233,
+		3,
+		"[Visual] Cachecol de Schmidt"
+	},
+	{
+		107234,
+		0,
+		"[Visual] Cabelos de Marinheira Lunar (Azul)"
+	},
+	{
+		107234,
+		1,
+		"[Visual] Cabelos de Marinheira Lunar (Ruivo)"
+	},
+	{
+		107234,
+		2,
+		"[Visual] Cabelos de Marinheira Lunar (Loiro)"
+	},
+	{
+		107234,
+		3,
+		"[Visual] Cabelos de Marinheira Lunar (Verde)"
+	},
+	{
+		107234,
+		4,
+		"[Visual] Cabelos de Marinheira Lunar (Moreno)"
+	},
+	{
+		107234,
+		5,
+		"[Visual] Cabelos de Marinheira Lunar (Branco)"
+	},
+	{
+		107234,
+		6,
+		"[Visual] Cabelos de Marinheira Lunar (Castanho)"
+	},
+	{
+		107234,
+		7,
+		"[Visual] Cabelos de Marinheira Lunar (Lilás)"
+	},
+	{
 		0,
 		0,
 		"0"
@@ -2519,6 +2579,150 @@ packageitemsetbox = {
 		107035,
 		3,
 		102740,
+		1,
+		0,
+		0,
+		0
+	},
+	{
+		107233,
+		0,
+		400656,
+		1,
+		0,
+		0,
+		0
+	},
+	{
+		107233,
+		0,
+		102747,
+		1,
+		0,
+		0,
+		0
+	},
+	{
+		107233,
+		1,
+		31332,
+		1,
+		0,
+		0,
+		0
+	},
+	{
+		107233,
+		1,
+		102747,
+		1,
+		0,
+		0,
+		0
+	},
+	{
+		107233,
+		2,
+		20432,
+		1,
+		0,
+		0,
+		0
+	},
+	{
+		107233,
+		2,
+		102747,
+		1,
+		0,
+		0,
+		0
+	},
+	{
+		107233,
+		3,
+		420069,
+		1,
+		0,
+		0,
+		0
+	},
+	{
+		107233,
+		3,
+		102747,
+		1,
+		0,
+		0,
+		0
+	},
+	{
+		107234,
+		0,
+		31858,
+		1,
+		0,
+		0,
+		0
+	},
+	{
+		107234,
+		1,
+		31859,
+		1,
+		0,
+		0,
+		0
+	},
+	{
+		107234,
+		2,
+		31860,
+		1,
+		0,
+		0,
+		0
+	},
+	{
+		107234,
+		3,
+		31861,
+		1,
+		0,
+		0,
+		0
+	},
+	{
+		107234,
+		4,
+		31862,
+		1,
+		0,
+		0,
+		0
+	},
+	{
+		107234,
+		5,
+		31863,
+		1,
+		0,
+		0,
+		0
+	},
+	{
+		107234,
+		6,
+		31864,
+		1,
+		0,
+		0,
+		0
+	},
+	{
+		107234,
+		7,
+		31865,
 		1,
 		0,
 		0,

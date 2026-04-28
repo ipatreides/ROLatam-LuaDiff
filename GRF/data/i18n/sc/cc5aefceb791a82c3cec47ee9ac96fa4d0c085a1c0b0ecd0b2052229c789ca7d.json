@@ -20,12 +20,18 @@
         "es": "Qué bueno recibir aliados."
     },
     "hMwGAg": {
-        "en": "guildID = {0}\nguild_name = {1}\nGetAgitInvestMsg = {2}\nCheckSiegeTime = {3}"
+        "en": "guildID = {0}\nguild_name = {1}\nGetAgitInvestMsg = {2}\nCheckSiegeTime = {3}",
+        "pt": "guildID = {0}\nguild_name = {1}\nGetAgitInvestMsg = {2}\nCheckSiegeTime = {3}",
+        "es": "guildID = {0}\nguild_name = {1}\nGetAgitInvestMsg = {2}\nCheckSiegeTime = {3}"
     },
     "hcwGAg": {
-        "en": "guild_name_prtg_cas01"
+        "en": "guild_name_prtg_cas01",
+        "pt": "guild_name_prtg_cas01",
+        "es": "guild_name_prtg_cas01"
     },
     "hswGAg": {
-        "en": "guild_id_prtg_cas01 = {0}\nguild_name_prtg_cas01 = {1}\ninvest_prtg_cas01 = {2}"
+        "en": "guild_id_prtg_cas01 = {0}\nguild_name_prtg_cas01 = {1}\ninvest_prtg_cas01 = {2}",
+        "pt": "guild_id_prtg_cas01 = {0}\nguild_name_prtg_cas01 = {1}\ninvest_prtg_cas01 = {2}",
+        "es": "guild_id_prtg_cas01 = {0}\nguild_name_prtg_cas01 = {1}\ninvest_prtg_cas01 = {2}"
     }
 }

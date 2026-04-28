@@ -298,7 +298,13 @@ RobeNameTable = {
 	[SPRITE_ROBE_IDs.ROBE_C_Sweet_Folk] = "C_Sweet_Folk",
 	[SPRITE_ROBE_IDs.ROBE_C_Sixth_Sense_Satan] = "C_Sixth_Sense_Satan",
 	[SPRITE_ROBE_IDs.ROBE_C_Knights_Sword_Shield] = "C_Knights_Sword_Shield",
-	[SPRITE_ROBE_IDs.ROBE_C_Doram_Paw_Hammer] = "C_Doram_Paw_Hammer"
+	[SPRITE_ROBE_IDs.ROBE_C_Doram_Paw_Hammer] = "C_Doram_Paw_Hammer",
+	[SPRITE_ROBE_IDs.ROBE_C_Angel_Gift] = "C_Angel_Gift",
+	[SPRITE_ROBE_IDs.ROBE_C_Sakura_Rod_PK] = "C_Sakura_Rod_PK",
+	[SPRITE_ROBE_IDs.ROBE_C_B_Ninetail_Tail] = "C_B_Ninetail_Tail",
+	[SPRITE_ROBE_IDs.ROBE_C_Darklord_Aura] = "C_Darklord_Aura",
+	[SPRITE_ROBE_IDs.ROBE_C_Garmbebe_Bag] = "C_Garmbebe_Bag",
+	[SPRITE_ROBE_IDs.ROBE_Magnus_Dominus] = "Magnus_Dominus"
 }
 RobeNameTable_Eng = {
 	[SPRITE_ROBE_IDs.ROBE_WINGS] = "ANGEL_WINGS",
@@ -600,7 +606,13 @@ RobeNameTable_Eng = {
 	[SPRITE_ROBE_IDs.ROBE_C_Sweet_Folk] = "C_Sweet_Folk",
 	[SPRITE_ROBE_IDs.ROBE_C_Sixth_Sense_Satan] = "C_Sixth_Sense_Satan",
 	[SPRITE_ROBE_IDs.ROBE_C_Knights_Sword_Shield] = "C_Knights_Sword_Shield",
-	[SPRITE_ROBE_IDs.ROBE_C_Doram_Paw_Hammer] = "C_Doram_Paw_Hammer"
+	[SPRITE_ROBE_IDs.ROBE_C_Doram_Paw_Hammer] = "C_Doram_Paw_Hammer",
+	[SPRITE_ROBE_IDs.ROBE_C_Angel_Gift] = "C_Angel_Gift",
+	[SPRITE_ROBE_IDs.ROBE_C_Sakura_Rod_PK] = "C_Sakura_Rod_PK",
+	[SPRITE_ROBE_IDs.ROBE_C_B_Ninetail_Tail] = "C_B_Ninetail_Tail",
+	[SPRITE_ROBE_IDs.ROBE_C_Darklord_Aura] = "C_Darklord_Aura",
+	[SPRITE_ROBE_IDs.ROBE_C_Garmbebe_Bag] = "C_Garmbebe_Bag",
+	[SPRITE_ROBE_IDs.ROBE_Magnus_Dominus] = "Magnus_Dominus"
 }
 RobeTopLayer = {
 	SPRITE_ROBE_IDs.ROBE_BAG_OF_ADVENTURER,
@@ -795,5 +807,12 @@ RobeTopLayer = {
 	SPRITE_ROBE_IDs.ROBE_C_Giant_Chained_Bear,
 	SPRITE_ROBE_IDs.ROBE_C_Sweet_Folk,
 	SPRITE_ROBE_IDs.ROBE_C_Knights_Sword_Shield,
-	SPRITE_ROBE_IDs.ROBE_C_Doram_Paw_Hammer
+	SPRITE_ROBE_IDs.ROBE_C_Doram_Paw_Hammer,
+	SPRITE_ROBE_IDs.ROBE_C_Angel_Gift,
+	SPRITE_ROBE_IDs.ROBE_C_Sakura_Rod_PK,
+	SPRITE_ROBE_IDs.ROBE_C_B_Ninetail_Tail,
+	SPRITE_ROBE_IDs.ROBE_C_Darklord_Aura,
+	SPRITE_ROBE_IDs.ROBE_C_Garmbebe_Bag,
+	SPRITE_ROBE_IDs.ROBE_Magnus_Dominus,
+	SPRITE_ROBE_IDs.ROBE_C_Pitaya_R_Bag
 }

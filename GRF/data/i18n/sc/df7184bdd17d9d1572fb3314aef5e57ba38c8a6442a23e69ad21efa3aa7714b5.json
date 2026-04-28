@@ -2677,5 +2677,25 @@
         "en": "[Here is your reward for participating in the “Share Your Story” Event.]",
         "pt": "[Segue premiação pela participação no Evento \"Compartilhe a sua História\".]",
         "es": "[Aquí tienes tu recompensa por participar en el evento “Comparte tu Historia”.]"
+    },
+    "TSk": {
+        "en": "[Top 1000 - Midgard Trail]",
+        "pt": "[Top 1000 - Trilha de Midgard]",
+        "es": "[Top 1000 - Caminos de Midgard]"
+    },
+    "Tik": {
+        "en": "[Arrival in Comodo - Midgard Trail]",
+        "pt": "[Chegada em Comodo - Trilha de Midgard]",
+        "es": "[Llegada a Comodo - Caminos de Midgard]"
+    },
+    "Tyk": {
+        "en": "[Here is a reward for being one of the first 1,000 players to reach Comodo.]",
+        "pt": "[Segue premiação por ser um dos 1000 primeiros jogadores a chegar Comodo]",
+        "es": "[Aquí tienes una recompensa por ser uno de los primeros 1,000 jugadores en llegar a Comodo.]"
+    },
+    "UCk": {
+        "en": "[Here is a reward for finally reaching Comodo.]",
+        "pt": "[Segue premiação por ter finalmente chego em Comodo.]",
+        "es": "[Aquí tienes una recompensa por haber llegado finalmente a Comodo.]"
     }
 }

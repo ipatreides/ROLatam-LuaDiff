@@ -205,15 +205,15 @@
     },
     "AslFDA": {
         "ko": "[예언자 K]\n게펜 밖에 있는\n게펜 필드로 가면\n쁘띠를 쉽게 볼 수\n있을 것 이네.",
-        "en": "[Prophet K]\nIf you go to the Geffen Fields\noutside of Geffen,\nyou should easily see\nPoring.",
-        "pt": "[Profeta K]\nSe você for para os Campos de Geffen,\nfora de Geffen,\npoderá ver Porings\nfacilmente.",
-        "es": "[Profeta K]\nSi vas a los campos de Geffen,\nfuera de Geffen,\npodrás ver Poring\nfácilmente."
+        "en": "[Prophet K]\nIf you go to the Geffen Fields\noutside of Geffen,\nyou should easily see\nGround Petite.",
+        "pt": "[Profeta K]\nSe você for para os Campos de Geffen,\nfora de Geffen,\npoderá ver Petite\nfacilmente.",
+        "es": "[Profeta K]\nSi vas a los campos de Geffen,\nfuera de Geffen,\npodrás ver Petite terrestre\nfácilmente."
     },
     "A8lFDA": {
         "ko": "[예언자 K]\n쁘띠을 잡아서\n용의 영혼조각 150개를\n모아오게!",
-        "en": "[Prophet K]\nCatch Porings and\ngather 150 Dragon Soul Fragments!",
-        "pt": "[Profeta K]\nDerrote Porings\ne colete 150 Fragmentos de Alma de Dragão!",
-        "es": "[Profeta K]\n¡Derrota Poring\ny reúne 150\nFragmentos de Alma de Dragón!"
+        "en": "[Prophet K]\nCatch Ground Petite and\ngather 150 Dragon Soul Fragments!",
+        "pt": "[Profeta K]\nDerrote Petite\ne colete 150 Fragmentos de Alma de Dragão!",
+        "es": "[Profeta K]\n¡Derrota Petite terrestre\ny reúne 150\nFragmentos de Alma de Dragón!"
     },
     "BMlFDA": {
         "ko": "[예언자 K]\n그 정도라면 충분히\n용의 기운을 받은 사람을\n찾는 의식에 부족함이 없을거야.",
@@ -247,9 +247,9 @@
     },
     "CclFDA": {
         "ko": "[예언자 K]\n흠.. 하지만 이걸 어쩐다..\n아무래도 쁘띠가 가지고 있는\n용의 기운으로는..\n12지신 중 용의 기운을 받은\n영웅의 위치를 찾는 의식을\n하기 부족한 것 같아..",
-        "en": "[Prophet K]\nHmm.. But what to do about this..\nIt seems the Dragon energy from the Porings\nis insufficient..\nfor the ritual to locate the hero\nblessed by the Dragon,\none of the 12 Zodiac Deities..",
-        "pt": "[Profeta K]\nHmm.. Mas o que fazer com isso..\nParece que a energia do Dragão\nque os Porings possuem..\né insuficiente para o ritual\npara encontrar a localização do herói\nque possui a energia do Dragão entre os 12 Signos Divinos..",
-        "es": "[Profeta K]\nMmm... Pero, ¿qué hago con esto?\nParece que la energía del dragón\nque poseen los Poring...\nes insuficiente para el ritual\npara encontrar la ubicación del héroe\nbendecido por la energía del Dragón\nentre los 12 Signos Zodiacales..."
+        "en": "[Prophet K]\nHmm.. But what to do about this..\nIt seems the Dragon energy from the Ground Petite\nis insufficient..\nfor the ritual to locate the hero\nblessed by the Dragon,\none of the 12 Zodiac Deities..",
+        "pt": "[Profeta K]\nHmm.. Mas o que fazer com isso..\nParece que a energia do Dragão\nque os Petite possuem..\né insuficiente para o ritual\npara encontrar a localização do herói\nque possui a energia do Dragão entre os 12 Signos Divinos..",
+        "es": "[Profeta K]\nMmm... Pero, ¿qué hago con esto?\nParece que la energía del dragón\nque poseen los Petite terrestre...\nes insuficiente para el ritual\npara encontrar la ubicación del héroe\nbendecido por la energía del Dragón\nentre los 12 Signos Zodiacales..."
     },
     "CslFDA": {
         "ko": "[예언자 K]\n아무래도 말이야..\n용의 영혼조각이\n더 필요할 것 같은데 말이야..",

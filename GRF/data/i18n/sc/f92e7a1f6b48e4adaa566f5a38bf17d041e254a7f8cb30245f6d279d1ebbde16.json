@@ -21,7 +21,7 @@
         "ko": "[시에라]\n생각이 바뀌셨습니까?\n저희와 계약해 버추얼 레코드 해석에 참가하시겠습니까?",
         "en": "[Sierra]\nHave you changed your mind?\nWill you sign a contract with us and participate in the interpretation of Virtual Record?",
         "pt": "[Sierra]\nVocê mudou de ideia?\nDeseja assinar um contrato conosco e se juntar à Expedição Virtual ao Biolaboratório?",
-        "es": "[Sierra]\n¿Ha cambiado de idea?\n¿Le gustaría firmar un contrato con nosotros y participar en la interpretación de Registro virtual?"
+        "es": "[Sierra]\n¿Has cambiado de idea?\n¿Quieres firmar un contrato con nosotros y participar en la Expedición Virtual al Biolaboratorio?"
     },
     "REhbCA": {
         "ko": "계약 하지요 뭐.",
@@ -63,7 +63,7 @@
         "ko": "[시에라]\n농담입니다.\n파티를 결성한 뒤 오시면 레코드 해석에 대해 설명해 드리겠습니다.",
         "en": "[Sierra]\nI'm joking.\nCome back after forming a party, and I will explain the record interpretation to you.",
         "pt": "[Sierra]\nSó estou brincando.\nPor favor, volte em um grupo formado para eu explicar a Expedição Virtual a você.",
-        "es": "[Sierra]\nEra una broma.\nVenga después de formar un grupo y le explicaré cómo funciona la interpretación del registro."
+        "es": "[Sierra]\nEra una broma.\nVenga después de formar un grupo y explicaré cómo funciona la Expedición Virtual."
     },
     "S0hbCA": {
         "ko": "나이너: ……어딘가의 평행우주에서는 시에라 씨도 레겐쉬름의 불법 연구자가 되어 있겠어.",
@@ -99,13 +99,13 @@
         "ko": "[시에라]\n당신이라면 할 수 있으리라고 생각하니까요.\n생각이 바뀌어 버추얼 레코드 해석에 지원하고 싶어지면 말씀해 주세요.",
         "en": "[Sierra]\nBecause I believe you can do it.\nIf you change your mind and wish to apply for the interpretation of Virtual Record, please let me know.",
         "pt": "[Sierra]\nEu imagino que você consegue.\nSe mudar de ideia e quiser fazer a Expedição Virtual, me avise.",
-        "es": "[Sierra]\nPorque creo que usted sería capaz.\nSi cambia de idea y quiere solicitar participar en la interpretación de Registro virtual, dígamelo."
+        "es": "[Sierra]\nPorque creo que usted sería capaz.\nSi cambia de idea y quiere solicitar participar en la Expedición Virtual, dígamelo."
     },
     "UUhbCA": {
         "ko": "[시에라]\n매우 위험한 전설의 계약이라고 합니다.\n생각이 바뀌어 버추얼 레코드 해석에 지원하고 싶어지면 말씀해 주세요.",
         "en": "[Sierra]\nI hear it is a highly dangerous legendary contract.\nIf you change your mind and wish to apply for the interpretation of Virtual Record, please let me know.",
         "pt": "[Sierra]\nA lenda conta que esse é um contrato muito perigoso.\nSe mudar de ideia e quiser fazer a Expedição Virtual, me avise.",
-        "es": "[Sierra]\nDicen que es un contrato legendario extremadamente peligroso.\nSi cambia de idea y quiere solicitar participar en la interpretación de Registro virtual, dígamelo."
+        "es": "[Sierra]\nDicen que es un contrato legendario extremadamente peligroso.\nSi cambias de idea y quieres solicitar participar en la Expedición Virtual, dígamelo."
     },
     "UkhbCA": {
         "ko": "[시에라]\n안녕하세요, 저는 시에라, 시에라 모리스입니다.\n{0} 님. 이야기는 많이 들었습니다.",
@@ -133,9 +133,9 @@
     },
     "VkhbCA": {
         "ko": "[시에라]\n물론입니다. 레이지와 필로폰테스와 함께 일하셨지요?\n저 역시 ^0000CD비밀의 날개^000000 소속 연구원입니다.",
-        "en": "[Sierra]\nOf course. You worked with Rage and Philopontes, did you not?\nI, too, am a researcher affiliated with ^0000CDSecret Wings^000000.",
+        "en": "[Sierra]\nOf course. You worked with Lazy and Philopontess, did you not?\nI, too, am a researcher affiliated with ^0000CDSecret Wings^000000.",
         "pt": "[Sierra]\nÉ claro. Você trabalhou para o Nalandro e Tess, não é?\nEu sou da ^0000CDVento Secreto^000000 também.",
-        "es": "[Sierra]\nPor supuesto. \nTrabajó junto con Rage y Philopontes, ¿verdad?\nYo también soy investigadora de ^0000CDAlas secretas^000000."
+        "es": "[Sierra]\nPor supuesto. \nTrabajaste junto con Lazy y Tess, ¿verdad?\nYo también soy investigadora de ^0000CDViento Secreto^000000."
     },
     "V0hbCA": {
         "ko": "시에라: 개성 강한 요원들과 일하느라 고생 많으셨습니다.",
@@ -153,7 +153,7 @@
         "ko": "[시에라]\n물론입니다. 레이지를 만나셨지요?\n저 역시 ^0000CD비밀의 날개^000000 소속 연구원입니다.",
         "en": "[Sierra]\nOf course. You met Rage, did you not?\nI, too, am a researcher affiliated with ^0000CDSecret Wings^000000.",
         "pt": "[Sierra]\nÉ claro. Você não é colega de Nalandro?\nEu sou da ^0000CDVento Secreto^000000 também.",
-        "es": "[Sierra]\nPor supuesto. \nSe reunió con Rage, ¿verdad?\nYo también soy investigadora de ^0000CDAlas secretas^000000."
+        "es": "[Sierra]\nPor supuesto. \nSe reunió con Lazy, ¿verdad?\nYo también soy investigadora de ^0000CDViento Secreto^000000."
     },
     "WkhbCA": {
         "ko": "시에라: 개성 강한 요원과 일하느라 고생 많으셨습니다.",
@@ -163,15 +163,15 @@
     },
     "W0hbCA": {
         "ko": "[시에라]\n레이지가 모험가님을 좋게 본 모양이더군요.\n제게 협력자를 소개하면서 그렇게 칭찬을 한 적은 처음이거든요.",
-        "en": "[Sierra]\nIt seems Rage thought highly of you.\nIt was the first time he praised someone so much while introducing a collaborator to me.",
+        "en": "[Sierra]\nIt seems Lazy thought highly of you.\nIt was the first time he praised someone so much while introducing a collaborator to me.",
         "pt": "[Sierra]\nEle parece ter um apreço com você.\nNunca o vi falar tão bem de uma pessoa.",
-        "es": "[Sierra]\nParece que Rage tenía una opinión muy favorable de usted.\nEs la primera vez que me recomienda a un colaborador elogiándolo de esa manera."
+        "es": "[Sierra]\nParece que Lazy tenía una opinión muy favorable de usted.\nEs la primera vez que me recomienda a un colaborador elogiándolo de esa manera."
     },
     "XEhbCA": {
         "ko": "[시에라]\n예전 갈슈타인과 함께 일하신 적이 있으시겠지요.\n저 역시 ^0000CD비밀의 날개^000000 소속 연구원입니다.",
         "en": "[Sierra]\nYou must have worked with Galstein before.\nI, too, am a researcher affiliated with ^0000CDSecret Wings^000000.",
         "pt": "[Sierra]\nVocê já trabalhou para Ghalstein, não é?\nEu sou da ^0000CDVento Secreto^000000 também.",
-        "es": "[Sierra]\nSupongo que en el pasado trabajó con Galstein.\nYo también soy investigadora de ^0000CDAlas secretas^000000."
+        "es": "[Sierra]\nSupongo que en el pasado trabajó con Galstein.\nYo también soy investigadora de ^0000CDViento Secreto^000000."
     },
     "XUhbCA": {
         "ko": "[시에라]\n여러 가지 일이 있었습니다만 대통령 각하께서는 {0} 님을 좋게 보신 듯합니다.",
@@ -189,7 +189,7 @@
         "ko": "[시에라]\n저는 슈발츠발드 공화국 대통령 직속 기관 ^0000CD비밀의 날개^000000 소속 연구원입니다.\n이번 일을 위해 많은 사람을 물색했습니다만, 분석 결과 {0} 님만큼 적합한 사람이 없었습니다.",
         "en": "[Sierra]\nI am a researcher affiliated with ^0000CDSecret Wings^000000, an organization directly under the President of the Republic of Schwarzwald.\nWe searched many people for this matter, but the analysis showed that no one was as suitable as {0}.",
         "pt": "[Sierra]\nEu sou uma pesquisadora da ^0000CDVento Secreto^000000, uma organização comandada pelo Presidente da República de Schwartzwald.\nDe todas as pessoas que entrevistei e pesquisei, você era a melhor escolha, {0}.",
-        "es": "[Sierra]\nSoy investigadora de ^0000CDAlas secretas^000000, una agencia subordinada directamente al Presidente de la República de Schwartzvald.\nHe buscado a muchas personas para este asunto, pero según los análisis no hay nadie tan adecuado como {0}."
+        "es": "[Sierra]\nSoy investigadora de ^0000CDViento Secreto^000000, una agencia subordinada directamente al Presidente de la República de Schwartzvald.\nHe buscado a muchas personas para este asunto, pero según los análisis no hay nadie tan adecuado como {0}."
     },
     "YEhbCA": {
         "ko": "[시에라]\n믿음직한 분이 와 주셔서 기쁩니다.\n의뢰에 대해 설명해 드리지요.",
@@ -201,7 +201,7 @@
         "ko": "[시에라]\n비밀의 날개는 대통령을 위해 일하는 ^0000CD비밀 정보기관^000000입니다.\n지금, 정보기관치고 너무 쉽게 정체를 밝히고 있지 않은지 생각하셨지요?",
         "en": "[Sierra]\nSecret Wings is a ^0000CDsecret intelligence agency^000000 that works for the President.\nYou are thinking that, for an intelligence agency, I am revealing my identity rather too easily right now, are you not?",
         "pt": "[Sierra]\nA Vento Secreto é uma ^0000CDAgência Secreta de Investigação^000000 que trabalha para o Presidente.\nAgora você deve estar pensando que falar isso abertamente não parece ser tão secreto assim.",
-        "es": "[Sierra]\nAlas secretas es una ^0000CDagencia secreta de inteligencia^000000 que trabaja para el Presidente.\nAhora mismo estará pensando que, para ser una agencia de inteligencia, revelamos nuestra identidad con demasiada facilidad, ¿verdad?"
+        "es": "[Sierra]\nViento Secreto es una ^0000CDagencia secreta de inteligencia^000000 que trabaja para el Presidente.\nAhora mismo estará pensando que, para ser una agencia de inteligencia, revelamos nuestra identidad con demasiada facilidad, ¿verdad?"
     },
     "YkhbCA": {
         "ko": "[시에라]\n제가 이렇게 모습을 드러내기 전에는 {0} 님 생각보다 많은 고려가 있었답니다.",
@@ -231,31 +231,31 @@
         "ko": "[시에라]\n기업과 리벨리온, 정부가 손을 잡다니 예전이라면 상상할 수 없는 일이지요.\n그러나 시대가 변하고 있습니다.",
         "en": "[Sierra]\nA corporation, Rebellion, and the government joining hands would have been unimaginable in the past.\nHowever, times are changing.",
         "pt": "[Sierra]\nA Corporação, a Rebelião e o Governo estão trabalhando juntos agora.\nIsso era algo inimaginável antes, mas agora tudo mudou.",
-        "es": "[Sierra]\nQue una corporación, Rebellion y el gobierno unan fuerzas era algo impensable en otros tiempos.\nPero los tiempos están cambiando."
+        "es": "[Sierra]\nQue una corporación, la Rebelión y el gobierno unan fuerzas era algo impensable en otros tiempos.\nPero los tiempos están cambiando."
     },
     "Z0hbCA": {
         "ko": "[시에라]\n이 변화의 큰 파도에 {0} 님께서도 큰 힘을 보태셨지요.\n비밀의 날개 일원으로서 존경하고 있습니다.",
         "en": "[Sierra]\nYou, too, have greatly contributed to this great wave of change, {0}.\nAs a member of Secret Wings, I respect you.",
         "pt": "[Sierra]\nVocê é parte importante dessa mudança, {0}.\nComo agente da Vento Secreto, eu admiro você.",
-        "es": "[Sierra]\nUsted también ha contribuido enormemente a esta gran ola de cambios, {0}.\nComo miembro de Alas secretas, le profeso mi respeto."
+        "es": "[Sierra]\nUsted también ha contribuido enormemente a esta gran ola de cambios, {0}.\nComo miembro de Viento Secreto, le profeso mi respeto."
     },
     "aEhbCA": {
         "ko": "[시에라]\n기업의 협력으로 조사단을 꾸린 저희는 기업의 눈을 피해 설립된 불법 연구소들을 파헤치는 중입니다.\n도중, 리히타르젠의 ^0000CD생체실험 연구소^000000에서 새로운 사실을 발견했지요.",
         "en": "[Sierra]\nWith the cooperation of corporations, we formed an investigation team and are uncovering illegal laboratories established beyond the eyes of the corporations.\nDuring that process, we discovered something new in the ^0000CDSomatology Laboratory^000000 of Lighthalzen.",
         "pt": "[Sierra]\nCom a ajuda da Corporação, organizamos um grupo de investigação para analisar o laboratório ilegal feito com dinheiro desviado.\nEntão, nós descobrimos um ^0000CDBiolaboratório^000000 em Lighthalzen.",
-        "es": "[Sierra]\nCon la cooperación de las corporaciones hemos formado un equipo de investigación y estamos sacando a la luz laboratorios ilegales establecidos al margen de sus ojos.\nEn el proceso, descubrimos un nuevo hecho en el ^0000CDLaboratorio de Investigación Biológica^000000 de Lighthalzen."
+        "es": "[Sierra]\nCon la cooperación de las corporaciones hemos formado un equipo de investigación y estamos sacando a la luz laboratorios ilegales establecidos al margen de sus ojos.\nEn el proceso, descubrimos un nuevo hecho en el ^0000CDBiolaboratorio^000000 de Lighthalzen."
     },
     "aUhbCA": {
         "ko": "[시에라]\n생체실험 연구소의 진입 가능 구역 아래, 완전히 매몰되어 진입할 수 없는 지하층의 존재입니다.",
         "en": "[Sierra]\nBeneath the accessible area of Somatology Laboratory, there exists a completely buried underground floor that cannot be entered.",
         "pt": "[Sierra]\nUm porão embaixo do Biolaboratório com entrada completamente bloqueada.",
-        "es": "[Sierra]\nSe trata de la existencia de una planta subterránea, completamente sepultada e inaccesible, bajo la zona a la que se puede entrar del Laboratorio de Investigación Biológica."
+        "es": "[Sierra]\nSe trata de la existencia de una planta subterránea, completamente sepultada e inaccesible, bajo la zona a la que se puede entrar del Biolaboratorio."
     },
     "akhbCA": {
         "ko": "[시에라]\n비슷한 시기 생체실험 연구소를 탐험하던 모험가가 ^FF0000이것^000000을 발견해 가져왔습니다.",
         "en": "[Sierra]\nAt around the same time, an adventurer exploring Somatology Laboratory found ^FF0000this^000000 and brought it back.",
         "pt": "[Sierra]\nUm aventureiro que explorou o Biolaboratório encontrou ^FF0000isso aqui^000000.",
-        "es": "[Sierra]\nPor esa misma época, un aventurero que exploraba el Laboratorio de Investigación Biológica encontró ^FF0000esto^000000 y lo trajo consigo."
+        "es": "[Sierra]\nPor esa misma época, un aventurero que exploraba el Biolaboratorio encontró ^FF0000esto^000000 y lo trajo consigo."
     },
     "a0hbCA": {
         "ko": "무엇입니까?",
@@ -321,13 +321,13 @@
         "ko": "시에라: 소송감이었나요? 고급 정보를 함부로 발설하다니♡",
         "en": "Sierra: Was it grounds for a lawsuit? To divulge high-level information so carelessly♡",
         "pt": "Sierra: Processados? Bom saber.",
-        "es": "Sierra: ¿Así que era motivo de demanda? Qué imprudencia andar divulgando información confidencial así sin más♡"
+        "es": "Sierra: ¿Así que era motivo de demanda? Qué imprudencia andar divulgando información confidencial así sin más."
     },
     "dkhbCA": {
         "ko": "나이너: 그, 그, 그렇게 한 건 해냤다☆는 표정 하지 말아요! 이제 우리는 협력 관계자냐요?!",
         "en": "Niner: D-d-don't make that “I pulled it off☆” face! Aren't we partners now?!",
         "pt": "Nina: N-não precisa ser por vocês! Somos parceiras agora!!",
-        "es": "Niner: ¡N-no ponga esa cara de “lo he conseguido☆”! ¡¿Ahora no se supone que somos colaboradores?!"
+        "es": "Niner: ¡N-no ponga esa cara de “lo he conseguido”! ¡¿Ahora no se supone que somos colaboradores?!"
     },
     "d0hbCA": {
         "ko": "[시에라]\n아무리 {0} 님이라도 버추얼 레코드에 대한 정보를 얻을 수는 없으셨겠지요. 다른 것을 떠올리신 모양입니다.",
@@ -357,7 +357,7 @@
         "ko": "[시에라]\n버추얼 레코드가 생체실험 연구소에서 발견되었으니만큼 아직 해석이 덜 된 부분에 ^FF0000사용해서는 안 되는 기술^000000이 들어가지 않았을지 찜찜하기는 합니다만.",
         "en": "[Sierra]\nSince Virtual Record was found in Somatology Laboratory, I am uneasy that parts not yet fully interpreted may contain ^FF0000technology that should never be used^000000.",
         "pt": "[Sierra]\nJá que esse Registro Virtual foi encontrado no Biolaboratório, partes não traduzidas contém ^FF0000tecnologias desconhecidas^000000.",
-        "es": "[Sierra]\nPuesto que Registro virtual fue hallado en el Laboratorio de Investigación Biológica, me inquieta pensar que en las partes aún no interpretadas pueda contener alguna ^FF0000tecnología que no debería usarse^000000."
+        "es": "[Sierra]\nPuesto que Registro virtual fue hallado en el Biolaboratorio, me inquieta pensar que en las partes aún no interpretadas pueda contener alguna ^FF0000tecnología que no debería usarse^000000."
     },
     "fEhbCA": {
         "ko": "어떤 기술입니까?",
@@ -387,13 +387,13 @@
         "ko": "[시에라]\n생체실험 연구소에 존재하는 사념체에 대한 진실입니다.",
         "en": "[Sierra]\nThe truth about the lingering wills that exist in Somatology Laboratory.",
         "pt": "[Sierra]\nA verdade sobre os fantasmas que vagam pelo Biolaboratório.",
-        "es": "[Sierra]\nLa verdad sobre los espectros que existen en el Laboratorio de Investigación Biológica."
+        "es": "[Sierra]\nLa verdad sobre los espectros que existen en el Biolaboratorio."
     },
     "gUhbCA": {
         "ko": "[시에라]\n이 레코드에는 ^0000CD세이렌 윈저^000000를 포함한 ^0000CD룬 미드가츠 비공식 원정대^000000의 기억 데이터가 있습니다.\n해석 장치에 넣어 가상현실 형태로 재생하여 아직 알 수 없는 부분을 해석할 수 있습니다.",
         "en": "[Sierra]\nThis record contains the memory data of the ^0000CDunofficial Rune Midgarts expedition^000000, including ^0000CDSeyren Windsor^000000.\nBy placing it into the interpretation device and replaying it in the form of virtual reality, we can interpret the parts that are still unknown.",
         "pt": "[Sierra]\nEsse registro contém as memórias da ^0000CDExpedição não-oficial de Rune-Midgard^000000, incluindo ^0000CDSeyren Windsor^000000.\nPodemos abrir esse registro usando um dispositivo que criamos para traduzir suas gravações.",
-        "es": "[Sierra]\nEste registro contiene datos de memoria de la ^0000CDexpedición no oficial de Rune-Midgarts^000000, incluido ^0000CDSeyren Windsor^000000.\nAl introducirlo en un dispositivo de interpretación y reproducirlo en forma de realidad virtual, podemos interpretar las partes que aún se desconocen."
+        "es": "[Sierra]\nEste registro contiene datos de memoria de la ^0000CDexpedición no oficial de Rune-Midgard^000000, incluido ^0000CDSeyren Windsor^000000.\nAl introducirlo en un dispositivo de interpretación y reproducirlo en forma de realidad virtual, podemos interpretar las partes que aún se desconocen."
     },
     "gkhbCA": {
         "ko": "그렇다면…",
@@ -411,7 +411,7 @@
         "ko": "[시에라]\n저희도 신경쓰이지만, 룬 미드가츠 왕실 분들께서도 반드시 알아내기를 청하셨습니다.",
         "en": "[Sierra]\nIt concerns us as well, but the Rune Midgarts royal family has also earnestly requested that we uncover it.",
         "pt": "[Sierra]\nE não somos os únicos atrás de respostas. A Família Real de Rune-Midgard também quer saber.",
-        "es": "[Sierra]\nA nosotros también nos preocupa, pero los miembros de la familia real de Rune-Midgarts también nos han pedido encarecidamente que lo averigüemos."
+        "es": "[Sierra]\nA nosotros también nos preocupa, pero los miembros de la familia real de Rune-Midgard también nos han pedido encarecidamente que lo averigüemos."
     },
     "hUhbCA": {
         "ko": "저는 무슨 일을 하지요?",
@@ -483,7 +483,7 @@
         "ko": "[시에라]\n이제 무슨 제안인지 충분히 설명되었겠지요.\n저희와 계약해 버추얼 레코드 해석에 참가하시겠습니까?",
         "en": "[Sierra]\nI believe I have now sufficiently explained what kind of proposal this is.\nWill you sign a contract with us and participate in the interpretation of Virtual Record?",
         "pt": "[Sierra]\nEspero que seja uma recompensa à altura do nosso pedido.\nDeseja assinar um contrato conosco e se juntar à Expedição Virtual ao Biolaboratório?",
-        "es": "[Sierra]\nA estas alturas, ya habrá quedado suficientemente clara la propuesta.\n¿Desea firmar un contrato con nosotros y participar en la interpretación de Registro virtual?"
+        "es": "[Sierra]\nA estas alturas, ya habrá quedado suficientemente clara la propuesta.\n¿Quieres firmar un contrato con nosotros y participar en la Expedición Virtual al Biolaboratorio?"
     },
     "kUhbCA": {
         "ko": "참가한다.",
@@ -571,13 +571,13 @@
     },
     "n0hbCA": {
         "ko": "[시에라]\n탐사 모드는 비공식 탐사대가 겪은 사건을 중심으로 해석하실 수 있도록 했어요.\n반대로, 전투 모드는 비공식 탐사대가 겪은 전투를 중심으로 해석하실 수 있어요.",
-        "en": "[Sierra]\nExploration Mode has been arranged so that you may interpret the record centering on the events experienced by the unofficial expedition.\nConversely, Battle Mode allows you to interpret the record centering on the battles experienced by the unofficial expedition.",
+        "en": "[Sierra]\nExpedition Mode has been arranged so that you may interpret the record centering on the events experienced by the unofficial expedition.\nConversely, Battle Mode allows you to interpret the record centering on the battles experienced by the unofficial expedition.",
         "pt": "[Sierra]\nNo modo Expedição, você pode traduzir o registro com base nos eventos que a expedição não oficial experimentou.\nNo modo Batalha, você pode fazer isso com base nas batalhas que eles travaram",
         "es": "[Sierra]\nEl modo Exploración está pensado para que pueda interpretar centrándose en los sucesos que vivió la expedición no oficial.\nEn cambio, el modo Combate le permite interpretar centrándose en los combates que vivió la expedición no oficial."
     },
     "oEhbCA": {
         "ko": "[시에라]\n위험도는 전투 모드가 더 높고, 전투 모드는 그만큼 보상도 많이 드려요.\n탐사 모드는 진행이 길고, 전투는 약식으로 진행합니다. ^FF0000탐사 모드의 보상은 매우 적습니다^000000.",
-        "en": "[Sierra]\nBattle Mode carries greater danger, and accordingly offers more rewards.\nExploration Mode takes longer to progress, while battles proceed in a simplified manner. ^FF0000The rewards for Exploration Mode are very small.^000000",
+        "en": "[Sierra]\nBattle Mode carries greater danger, and accordingly offers more rewards.\nExpedition Mode takes longer to progress, while battles proceed in a simplified manner. ^FF0000The rewards for Expedition Mode are very small.^000000",
         "pt": "[Sierra]\nO modo de Batalha é mais perigoso, mas também mais recompensador.\nO modo Expedição é mais lento que o Batalha ^FF0000e oferece menos premiações^000000.",
         "es": "[Sierra]\nEl nivel de riesgo es mayor en el modo Combate, y por eso mismo también ofrece más recompensas.\nEl modo Exploración es más largo, mientras que el combate se desarrolla de forma abreviada. ^FF0000Las recompensas del modo Exploración son muy escasas^000000."
     },
@@ -595,7 +595,7 @@
     },
     "o0hbCA": {
         "ko": "탐사 모드",
-        "en": "Exploration Mode",
+        "en": "Expedition Mode",
         "pt": "Modo Expedição",
         "es": "Modo Exploración"
     },
@@ -631,13 +631,13 @@
     },
     "qUhbCA": {
         "ko": "[나이너]\n아무튼, 모드는 ^FF0000탐사 모드^000000와 ^FF0000전투 모드^000000 두 종류예요.\n각각 다른 데이터를 얻을 수 있도록 했어요.",
-        "en": "[Niner]\nAnyway, there are two kinds of mode: ^FF0000Exploration Mode^000000 and ^FF0000Battle Mode^000000.\nI made them so that each yields different data.",
+        "en": "[Niner]\nAnyway, there are two kinds of mode: ^FF0000Expedition Mode^000000 and ^FF0000Battle Mode^000000.\nI made them so that each yields different data.",
         "pt": "[Nina]\nEnfim, existem dois modos: ^FF0000Expedição^000000 e ^FF0000Batalha^000000.\nCada um deles cria dados diferentes.",
         "es": "[Niner]\nEn fin, hay dos tipos de modo: el ^FF0000modo Exploración^000000 y el ^FF0000modo Combate^000000.\nHemos hecho que cada uno permita obtener datos distintos."
     },
     "qkhbCA": {
         "ko": "[나이너]\n^FF0000탐사 모드^000000에서는 전투 난이도를 많이 낮추었어요.\n그리고 원정대가 무슨 대화를 하였고, 어떤 상황을 겪었는지에 더 중심을 두어 동기화했어요.",
-        "en": "[Niner]\nIn ^FF0000Exploration Mode^000000, I greatly lowered the battle difficulty.\nAnd I synchronized it with more focus on what conversations the expedition had and what situations they experienced.",
+        "en": "[Niner]\nIn ^FF0000Expedition Mode^000000, I greatly lowered the battle difficulty.\nAnd I synchronized it with more focus on what conversations the expedition had and what situations they experienced.",
         "pt": "[Nina]\nNo ^FF0000Modo Expedição^000000, eu diminuí significativamente a dificuldade das lutas\ne se concentra mais nas interações dos membros da expedição e nos eventos que eles vivenciaram.",
         "es": "[Niner]\nEn el ^FF0000modo Exploración^000000, hemos reducido mucho la dificultad de combate.\nY lo hemos sincronizado centrándonos más en qué conversaciones tuvo la expedición y qué situaciones vivió."
     },
@@ -661,7 +661,7 @@
     },
     "rkhbCA": {
         "ko": "[나이너]\n두 모드를 통틀어 하루 한 번만 해석에 참가할 수 있지만, ^FF0000탐사 모드의 보상은 매우 적습니다^000000.\n전투 모드는 보상이 큰 대신 위험 요소가 훨씬 많지요.",
-        "en": "[Niner]\nAcross both modes, you may participate in interpretation only once per day, but ^FF0000the rewards for Exploration Mode are very small.^000000\nBattle Mode offers greater rewards, but it also has far more risk factors.",
+        "en": "[Niner]\nAcross both modes, you may participate in interpretation only once per day, but ^FF0000the rewards for Expedition Mode are very small.^000000\nBattle Mode offers greater rewards, but it also has far more risk factors.",
         "pt": "[Nina]\nVocê pode traduzir o Registro uma vez por dia, independentemente do modo escolhido. E o modo ^FF0000Modo Expedição dá menos recompensas^000000.\nO modo de batalha é muito mais recompensador, mas também mais perigoso.",
         "es": "[Niner]\nEntre ambos modos, solo podrá participar en la interpretación una vez al día, pero ^FF0000las recompensas del modo Exploración son muy escasas^000000.\nEl modo Combate ofrece grandes recompensas, pero también muchos más factores de riesgo."
     },
@@ -679,7 +679,7 @@
     },
     "sUhbCA": {
         "ko": "[나이너]\n네~에. 탐사 모드 순조롭게 동기화 중입니다!",
-        "en": "[Niner]\nYeees. Exploration Mode synchronization is proceeding smoothly!",
+        "en": "[Niner]\nYeees. Expedition Mode synchronization is proceeding smoothly!",
         "pt": "[Nina]\nCerto, sincronizando Modo Expedição agora!",
         "es": "[Niner]\nSí~í. ¡La sincronización del modo Exploración avanza sin problemas!"
     },
@@ -709,7 +709,7 @@
     },
     "tkhbCA": {
         "ko": "[시에라]\n탐사 모드로 동기화 완료되었습니다.",
-        "en": "[Sierra]\nSynchronization in Exploration Mode has been completed.",
+        "en": "[Sierra]\nSynchronization in Expedition Mode has been completed.",
         "pt": "[Sierra]\nModo Expedição sincronizado.",
         "es": "[Sierra]\nLa sincronización en modo Exploración se ha completado."
     },
@@ -739,15 +739,15 @@
     },
     "u0hbCA": {
         "ko": "{0} 파티의 모험가가 원정의 여로를 탐사합니다.",
-        "en": "An adventurer from the party {0} explores the journey of the expedition.",
-        "pt": "{PcName} entrou na Edda do Biolaboratório.",
-        "es": "Un aventurero del grupo {0} explora la travesía de la expedición."
+        "en": "An adventurer from the party {0} explores the journey of the Biolab Edda.",
+        "pt": "Viajante do grupo {0} entrou na Edda do Biolaboratório.",
+        "es": "Trotamundos del grupo {0} ha entrado en Edda del Biolaboratorio."
     },
     "vEhbCA": {
         "ko": "[나이너]\n{0} 님, 파티장 모험가님이 던전을 생성하지 않으셨어요.\n던전을 생성해 주세요.",
         "en": "[Niner]\n{0}, the party leader adventurer has not created the dungeon.\nPlease create the dungeon.",
         "pt": "[Nina]\n{0}, o líder do seu grupo não gerou a instância ainda.\nPor favor, entre na fila primeiro.",
-        "es": "[Niner]\n{0}, el aventurero líder del grupo no ha creado la mazmorra.\nPor favor, cree la mazmorra."
+        "es": "[Niner]\n{0}, trotamundos líder del grupo no ha creado la mazmorra.\nPor favor, cree la mazmorra."
     },
     "vUhbCA": {
         "ko": "[나이너]\n앗, 던전이 생성 안 됐잖아?\n잠시만요. 이게 왜 이러지?",
@@ -847,7 +847,7 @@
     },
     "zUhbCA": {
         "ko": "[나이너]\n모험가님이 버추얼 레코드에 접속하셨을 때는 동기화 및 세부 조정을 하느라 바쁘지만, 그 외의 시간에는 모험가님께 장비 강화 안내를 해 드릴 수 있어요.",
-        "en": "[Niner]\nWhen you access Virtual Record, Adventurer, I am busy handling synchronization and fine adjustments, but at other times I can guide you regarding equipment enhancement.",
+        "en": "[Niner]\nWhen you access Virtual Record, Adventurer, I am busy handling synchronization and fine adjustments, but at other times I can guide you regarding equipment enchantment.",
         "pt": "[Nina]\nPosso falar sobre os Encantamentos quando você estiver fora do Registro Virtual. Se estiver dentro, eu precisarei me concentrar para sincronizar a expedição.",
         "es": "[Niner]\nCuando el aventurero se conecta a Registro virtual, estoy muy ocupada con la sincronización y los ajustes finos, pero fuera de ese tiempo también puedo orientarle sobre la mejora de equipo."
     },
@@ -889,7 +889,7 @@
     },
     "1EhbCA": {
         "ko": "[나이너]\n장비 강화는 저희 뒤에 있는 건물 그늘의 <NAVI>[라비앙]<INFO>yuno,220,352,0,101,0</INFO></NAVI>이 해줄 거예요.",
-        "en": "[Niner]\nFor equipment enhancement, <NAVI>[Rabian]<INFO>yuno,220,352,0,101,0</INFO></NAVI>, in the shade of the building behind us, will handle it.",
+        "en": "[Niner]\nFor equipment enchantment, <NAVI>[Rabian]<INFO>yuno,220,352,0,101,0</INFO></NAVI>, in the shade of the building behind us, will handle it.",
         "pt": "[Nina]\nNo prédio atrás de nós, você pode encantar Armas com <NAVI>[Lavian]<INFO>yuno,220,352,0,101,0</INFO></NAVI>.",
         "es": "[Niner]\nLa mejora de equipo la realiza <NAVI>[Rabian]<INFO>yuno,220,352,0,101,0</INFO></NAVI>, que está a la sombra del edificio detrás de nosotros."
     },
@@ -897,7 +897,7 @@
         "ko": "[나이너]\n왜 저희랑 같이 있지 않고 저 뒤에 있냐면, 수줍음이 많아서 혼자 있고 싶다고…",
         "en": "[Niner]\nAs for why they're back there instead of staying with us, they said they're shy and want to be alone…",
         "pt": "[Nina]\nEla não está conosco porque é tímida. Ela prefere ficar sozinha.",
-        "es": "[Niner]\nEn cuanto a por qué no está con nosotros y se encuentra allí atrás… dice que es muy tímid@ y que prefiere estar a solas…"
+        "es": "[Niner]\nEn cuanto a por qué no está con nosotros y se encuentra allí atrás… dice que es muy tímida y que prefiere estar a solas…"
     },
     "1khbCA": {
         "ko": "시에라: 저는 사실 아직 라비앙 님과 대화를 못 해 봤습니다.",
