@@ -1925,6 +1925,27 @@ Navi_Map = {
 		100
 	},
 	{
+		"job4_bio",
+		"Secret Flower Garden",
+		5001,
+		64,
+		60
+	},
+	{
+		"job4_mag",
+		"Mana Spring",
+		5001,
+		240,
+		240
+	},
+	{
+		"job4_tro",
+		"Empty Kvasir's Chest",
+		5001,
+		100,
+		100
+	},
+	{
 		"job_duncer",
 		"Teatro de Comodo ",
 		5001,

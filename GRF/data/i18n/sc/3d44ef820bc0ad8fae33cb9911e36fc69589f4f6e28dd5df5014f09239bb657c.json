@@ -15,25 +15,25 @@
         "ko": "[Mission Board]\n이 Mission Board를 사용하려면 안내서가 필요합니다.",
         "en": "[Mission Board]\nA guide is needed to use this Mission Board.",
         "pt": "[Quadro de Missões]\nÉ necessário um Passe para usar este Quadro de Missões.",
-        "es": "[Tablón de Misiones]\nSe necesita una Guía para usar este Tablero de Misiones."
+        "es": "[Tablero de Misiones]\nSe necesita una Guía para usar este Tablero de Misiones."
     },
     "4zubDA": {
         "ko": "[Mission Board]\n사용 전 Mission Board 이용 규칙을 자세히 읽어 주세요.",
         "en": "[Mission Board]\nPlease read the Mission Board usage rules carefully before use.",
         "pt": "[Quadro de Missões]\nPor favor, leia as regras de uso do Quadro de Missões com atenção antes de usar.",
-        "es": "[Tablón de Misiones]\nPor favor, lea las reglas de uso del Tablero de Misiones con atención antes de usar."
+        "es": "[Tablero de Misiones]\nPor favor, lea las reglas de uso del Tablero de Misiones con atención antes de usar."
     },
     "5DubDA": {
         "ko": "[Mission Board]\n사용 방법\n1. Mission Board에는 Daily, Weekly, Full Time Event 총 3종류의 퀘스트가 있습니다.\n2. Daily 및 Weekly 퀘스트는 매주 변경됩니다.\n3. Daily 퀘스트는 매일 새벽 4시에 초기화됩니다.\n4. 각 퀘스트마다 획득 가능한 Battle Pass EXP가 다르니 퀘스트 창에서 상세 내용을 확인해 주세요.",
         "en": "[Mission Board]\nHow to Use\n1. The Mission Board has three types of quests: Daily, Weekly, and Full Time Event.\n2. Daily and Weekly quests change every week.\n3. Daily quests reset at 4:00 AM every day.\n4. Each quest provides a different amount of obtainable Battle Pass EXP. Please check the details in the quest window.",
         "pt": "[Quadro de Missões]\nComo Usar\n1. O Quadro de Missões tem três tipos de missões: Diárias, Semanais e Integral.\n2. As missões Diárias e Semanais mudam toda semana.\n3. As missões Diárias resetam às 4h da manhã todos os dias.\n4. Cada missão fornece uma quantidade diferente de EXP do Passe de Batalha. Por favor, verifique os detalhes na janela da missão.",
-        "es": "[Tablón de Misiones]\nCómo Usar\n1. El Tablero de Misiones tiene tres tipos de misiones: Diarias, Semanales y de Evento Completo.\n2. Las misiones Diarias y Semanales cambian cada semana.\n3. Las misiones Diarias se reinician a las 4:00 AM todos los días.\n4. Cada misión proporciona una cantidad diferente de EXP del Pase de Batalla. Por favor, verifique los detalles en la ventana de la misión."
+        "es": "[Tablero de Misiones]\nCómo Usar\n1. El Tablero de Misiones tiene tres tipos de misiones: Diarias, Semanales y de Evento Completo.\n2. Las misiones Diarias y Semanales cambian cada semana.\n3. Las misiones Diarias se reinician a las 4:00 AM todos los días.\n4. Cada misión proporciona una cantidad diferente de EXP del Pase de Batalla. Por favor, verifique los detalles en la ventana de la misión."
     },
     "5TubDA": {
         "ko": "[Mission Board]\n진행할 항목을 선택해 주세요.",
         "en": "[Mission Board]\nPlease select the item to proceed with.",
         "pt": "[Quadro de Missões]\nPor favor, selecione uma opção.",
-        "es": "[Tablón de Misiones]\nPor favor, seleccione una opción."
+        "es": "[Tablero de Misiones]\nPor favor, seleccione una opción."
     },
     "5jubDA": {
         "ko": "임무 수락",
@@ -99,37 +99,37 @@
         "ko": "[Mission Board]\n해당 퀘스트는 하루에 1회만 수행할 수 있습니다.",
         "en": "[Mission Board]\nThis quest can only be completed once per day.",
         "pt": "[Quadro de Missões]\nEsta missão só pode ser concluída uma vez por dia.",
-        "es": "[Tablón de Misiones]\nEsta misión solo se puede completar una vez al día."
+        "es": "[Tablero de Misiones]\nEsta misión solo se puede completar una vez al día."
     },
     "8TubDA": {
         "ko": "[Mission Board]\nShining Plant 5마리 처치\nEXP Battle Pass 3",
         "en": "[Mission Board]\nDefeat 5 Shining Plant\nEXP Battle Pass 3",
         "pt": "[Quadro de Missões]\nDerrote 5 Planta Brilhante\nEXP do Passe: 3",
-        "es": "[Tablón de Misiones]\nDerrota 5 Planta brillante\nEXP del Pase: 3"
+        "es": "[Tablero de Misiones]\nDerrota 5 Planta brillante\nEXP del Pase: 3"
     },
     "8jubDA": {
         "ko": "[Mission Board]\n이미 진행 중인 퀘스트입니다.",
         "en": "[Mission Board]\nYou are already progressing on this quest.",
         "pt": "[Quadro de Missões]\nVocê já está fazendo esta missão.",
-        "es": "[Tablón de Misiones]\nYa estás realizando esta misión."
+        "es": "[Tablero de Misiones]\nYa estás realizando esta misión."
     },
     "8zubDA": {
         "ko": "[Mission Board]\nAntler Scaraba (Instance) 2마리 처치\nRake Horn Scaraba (Instance) 2마리 처치\nEXP Battle Pass 4",
         "en": "[Mission Board]\nDefeat 2 Gold Antler Scaraba\nDefeat 2 Gold Rake Horn Scaraba\nEXP Battle Pass 4",
         "pt": "[Quadro de Missões]\nDerrote 2 Scaraba Galhado\nDerrote 2 Scaraba Ancinho\nEXP do Passe: 4",
-        "es": "[Tablón de Misiones]\nDerrota 2 Scaraba de asta dorado\nDerrota 2 Scaraba rastrillo dorado\nEXP del Pase: 4"
+        "es": "[Tablero de Misiones]\nDerrota 2 Scaraba de asta dorado\nDerrota 2 Scaraba rastrillo dorado\nEXP del Pase: 4"
     },
     "9DubDA": {
         "ko": "[Mission Board]\nRed Potion 1000개를 전달하세요.\nEXP Battle Pass 4",
         "en": "[Mission Board]\nDeliver 1,000 Red Potions.\nEXP Battle Pass 4",
         "pt": "[Quadro de Missões]\nEntregue 1.000 Poções Vermelhas.\nEXP do Passe: 4",
-        "es": "[Tablón de Misiones]\nEntrega 1.000 Pociones Rojas.\nEXP del Pase: 4"
+        "es": "[Tablero de Misiones]\nEntrega 1.000 Pociones Rojas.\nEXP del Pase: 4"
     },
     "9TubDA": {
         "ko": "[Mission Board]\nBlue Herb 10개를 전달하세요.\nEXP Battle Pass 4",
         "en": "[Mission Board]\nDeliver 10 Blue Herbs.\nEXP Battle Pass 4",
         "pt": "[Quadro de Missões]\nEntregue 10 Ervas Azuis.\nEXP do Passe: 4",
-        "es": "[Tablón de Misiones]\nEntrega 10 Hierbas Azules.\nEXP del Pase: 4"
+        "es": "[Tablero de Misiones]\nEntrega 10 Hierbas Azules.\nEXP del Pase: 4"
     },
     "9jubDA": {
         "ko": "Defeat Bijou",
@@ -147,49 +147,49 @@
         "ko": "[Mission Board]\n해당 퀘스트는 주 1회만 수행할 수 있습니다.",
         "en": "[Mission Board]\nThis quest can only be completed once per week.",
         "pt": "[Quadro de Missões]\nEsta missão só pode ser concluída uma vez por semana.",
-        "es": "[Tablón de Misiones]\nEsta misión solo se puede completar una vez por semana."
+        "es": "[Tablero de Misiones]\nEsta misión solo se puede completar una vez por semana."
     },
     "+TubDA": {
         "ko": "[Mission Board]\nBijou 5마리 처치\nEXP Battle Pass 20",
         "en": "[Mission Board]\nDefeat 5 Bijou\nEXP Battle Pass 20",
         "pt": "[Quadro de Missões]\nDerrote 5 Bijou\nEXP do Passe: 20",
-        "es": "[Tablón de Misiones]\nDerrota 5 Bijou\nEXP del Pase: 20"
+        "es": "[Tablero de Misiones]\nDerrota 5 Bijou\nEXP del Pase: 20"
     },
     "+jubDA": {
         "ko": "[Mission Board]\n이미 진행 중인 퀘스트입니다.\n이번 주에는 1회만 진행할 수 있습니다!",
         "en": "[Mission Board]\nYou are already progressing on this quest.\nYou can only proceed once this week!",
         "pt": "[Quadro de Missões]\nVocê já está fazendo esta missão.\nVocê só pode prosseguir uma vez esta semana!",
-        "es": "[Tablón de Misiones]\nYa estás realizando esta misión.\n¡Solo puedes proceder una vez esta semana!"
+        "es": "[Tablero de Misiones]\nYa estás realizando esta misión.\n¡Solo puedes proceder una vez esta semana!"
     },
     "+zubDA": {
         "ko": "[Mission Board]\n캐릭터 레벨업 1회\nEXP Battle Pass 15",
         "en": "[Mission Board]\nLevel up a character once\nEXP Battle Pass 15",
         "pt": "[Quadro de Missões]\nSuba de nível um personagem uma vez.\nEXP do Passe: 15",
-        "es": "[Tablón de Misiones]\nSube de nivel un personaje una vez.\nEXP del Pase: 15"
+        "es": "[Tablero de Misiones]\nSube de nivel un personaje una vez.\nEXP del Pase: 15"
     },
     "/DubDA": {
         "ko": "[Mission Board]\n이미 진행 중인 퀘스트입니다.\n이번 주에는 1회만 진행할 수 있습니다.",
         "en": "[Mission Board]\nYou are already progressing on this quest.\nYou can only proceed once this week.",
         "pt": "[Quadro de Missões]\nVocê já está fazendo esta missão.\nVocê só pode prosseguir uma vez esta semana.",
-        "es": "[Tablón de Misiones]\nYa estás realizando esta misión.\nSolo puedes proceder una vez esta semana."
+        "es": "[Tablero de Misiones]\nYa estás realizando esta misión.\nSolo puedes proceder una vez esta semana."
     },
     "/TubDA": {
         "ko": "[Mission Board]\n이미 임무를 완료하여 더 이상 진행할 수 없습니다.",
         "en": "[Mission Board]\nYou have already completed the mission and cannot proceed further.",
         "pt": "[Quadro de Missões]\nVocê já completou a missão e não pode prosseguir mais.",
-        "es": "[Tablón de Misiones]\nYa has completado la misión y no puedes proceder más."
+        "es": "[Tablero de Misiones]\nYa has completado la misión y no puedes proceder más."
     },
     "/jubDA": {
         "ko": "[Mission Board]\n레벨 185 달성\nEXP Battle Pass 150",
         "en": "[Mission Board]\nAchieve Level 185\nEXP Battle Pass 150",
         "pt": "[Quadro de Missões]\nAtinja o Nível 185\nEXP do Passe: 150",
-        "es": "[Tablón de Misiones]\nAlcanza el Nivel 185\nEXP del Pase: 150"
+        "es": "[Tablero de Misiones]\nAlcanza el Nivel 185\nEXP del Pase: 150"
     },
     "/zubDA": {
         "ko": "[Mission Board]\n이미 진행 중인 퀘스트입니다.\n이번 이벤트에서는 1회만 진행할 수 있습니다.",
         "en": "[Mission Board]\nYou are already progressing on this quest.\nYou can only proceed once during this event.",
         "pt": "[Quadro de Missões]\nVocê já está fazendo esta missão.\nVocê só pode prosseguir uma vez durante este evento.",
-        "es": "[Tablón de Misiones]\nYa estás realizando esta misión.\nSolo puedes proceder una vez durante este evento."
+        "es": "[Tablero de Misiones]\nYa estás realizando esta misión.\nSolo puedes proceder una vez durante este evento."
     },
     "ADybDA": {
         "ko": "일일 퀘스트 보고",
@@ -237,25 +237,25 @@
         "ko": "[Mission Board]\n퀘스트 완료\nBattle Pass EXP 3 지급",
         "en": "[Mission Board]\nQuest Complete\nBattle Pass EXP 3 granted",
         "pt": "[Quadro de Missões]\nMissão Concluída\nVocê recebeu 3 de EXP do Passe de Batalha",
-        "es": "[Tablón de Misiones]\nMisión Completada\nHas recibido 3 de EXP del Pase de Batalla"
+        "es": "[Tablero de Misiones]\nMisión Completada\nHas recibido 3 de EXP del Pase de Batalla"
     },
     "CDybDA": {
         "ko": "[Mission Board]\n조건이 맞지 않습니다. 다시 확인해 주세요.",
         "en": "[Mission Board]\nConditions do not match. Please check again.",
         "pt": "[Quadro de Missões]\nAs condições não correspondem. Por favor, verifique novamente.",
-        "es": "[Tablón de Misiones]\nLas condiciones no coinciden. Por favor, verifique nuevamente."
+        "es": "[Tablero de Misiones]\nLas condiciones no coinciden. Por favor, verifique nuevamente."
     },
     "CTybDA": {
         "ko": "[Mission Board]\n퀘스트 완료\nBattle Pass EXP 4 지급",
         "en": "[Mission Board]\nQuest Complete\nBattle Pass EXP 4 granted",
         "pt": "[Quadro de Missões]\nMissão Concluída\nVocê recebeu 4 de EXP do Passe de Batalha",
-        "es": "[Tablón de Misiones]\nMisión Completada\nHas recibido 4 de EXP del Pase de Batalla"
+        "es": "[Tablero de Misiones]\nMisión Completada\nHas recibido 4 de EXP del Pase de Batalla"
     },
     "CjybDA": {
         "ko": "[Mission Board]\n조건이 맞지 않습니다.\n진행할 수 없습니다.",
         "en": "[Mission Board]\nThe requirements are not met.\nYou cannot proceed.",
         "pt": "[Quadro de Missões]\nOs requisitos não foram atendidos.\nNão é possível prosseguir.",
-        "es": "[Tablón de Misiones]\nNo cumples con los requisitos.\nNo se puede continuar."
+        "es": "[Tablero de Misiones]\nNo cumples con los requisitos.\nNo se puede continuar."
     },
     "CzybDA": {
         "ko": "Bijou 처치 의뢰",
@@ -267,19 +267,19 @@
         "ko": "[Mission Board]\n퀘스트 완료\nBattle Pass EXP 20 지급",
         "en": "[Mission Board]\nQuest Complete\nBattle Pass EXP 20 granted",
         "pt": "[Quadro de Missões]\nMissão Concluída\nVocê recebeu 20 de EXP do Passe de Batalha",
-        "es": "[Tablón de Misiones]\nMisión Completada\nHas recibido 20 de EXP del Pase de Batalla"
+        "es": "[Tablero de Misiones]\nMisión Completada\nHas recibido 20 de EXP del Pase de Batalla"
     },
     "DTybDA": {
         "ko": "[Mission Board]\n퀘스트 완료\nBattle Pass EXP 15 지급",
         "en": "[Mission Board]\nQuest Complete\nBattle Pass EXP 15 granted",
         "pt": "[Quadro de Missões]\nMissão Concluída\nVocê recebeu 15 de EXP do Passe de Batalha",
-        "es": "[Tablón de Misiones]\nMisión Completada\nHas recibido 15 de EXP del Pase de Batalla"
+        "es": "[Tablero de Misiones]\nMisión Completada\nHas recibido 15 de EXP del Pase de Batalla"
     },
     "DjybDA": {
         "ko": "[Mission Board]\n퀘스트 완료\nBattle Pass EXP 150 지급",
         "en": "[Mission Board]\nQuest Complete\nBattle Pass EXP 150 granted",
         "pt": "[Quadro de Missões]\nMissão Concluída\nVocê recebeu 150 de EXP do Passe de Batalha",
-        "es": "[Tablón de Misiones]\nMisión Completada\nHas recibido 150 de EXP del Pase de Batalla"
+        "es": "[Tablero de Misiones]\nMisión Completada\nHas recibido 150 de EXP del Pase de Batalla"
     },
     "DzybDA": {
         "ko": "Hydra 처치",
@@ -309,7 +309,7 @@
         "ko": "[Mission Board]\nBlue Herb 10개를 전달하세요.\nEXP Battle Pass 3",
         "en": "[Mission Board]\nDeliver 10 Blue Herbs.\nEXP Battle Pass 3",
         "pt": "[Quadro de Missões]\nEntregue 10 Blue Herbs.\nEXP Battle Pass 3",
-        "es": "[Tablón de Misiones]\nEntregar 10 Blue Herbs.\nEXP Battle Pass 3"
+        "es": "[Tablero de Misiones]\nEntregar 10 Blue Herbs.\nEXP Battle Pass 3"
     },
     "FDybDA": {
         "ko": "Defeat Heart Hunter Ebel",
@@ -321,7 +321,7 @@
         "ko": "[Mission Board]\nHeart Hunter Ebel 5마리 처치\nEXP Battle Pass 20",
         "en": "[Mission Board]\nDefeat 5 Heart Hunter Ebels.\nEXP Battle Pass 20",
         "pt": "[Quadro de Missões]\nDerrote 5 Caça-Corações Ebels.\nEXP Battle Pass 20",
-        "es": "[Tablón de Misiones]\nDerrota 5 Heart Hunter Ebels.\nEXP Battle Pass 20"
+        "es": "[Tablero de Misiones]\nDerrota 5 Heart Hunter Ebels.\nEXP Battle Pass 20"
     },
     "FjybDA": {
         "ko": "Hydra 처치 의뢰",
@@ -357,25 +357,25 @@
         "ko": "[Mission Board]\nHydra 200마리 처치\nEXP Battle Pass 3",
         "en": "[Mission Board]\nDefeat 200 Hydras.\nEXP Battle Pass 3",
         "pt": "[Quadro de Missões]\nDerrote 200 Hydras.\nEXP Battle Pass 3",
-        "es": "[Tablón de Misiones]\nDerrota 200 Hydras.\nEXP Battle Pass 3"
+        "es": "[Tablero de Misiones]\nDerrota 200 Hydras.\nEXP Battle Pass 3"
     },
     "HDybDA": {
         "ko": "[Mission Board]\nMenblatt 20마리 처치\nPetal 20마리 처치\nEXP Battle Pass 4",
         "en": "[Mission Board]\nDefeat 20 Menblatts.\nDefeat 20 Petals.\nEXP Battle Pass 4",
         "pt": "[Quadro de Missões]\nDerrote 20 Menblatts.\nDerrote 20 Petals.\nEXP Battle Pass 4",
-        "es": "[Tablón de Misiones]\nDerrota 20 Menblatts.\nDerrota 20 Petals.\nEXP Battle Pass 4"
+        "es": "[Tablero de Misiones]\nDerrota 20 Menblatts.\nDerrota 20 Petals.\nEXP Battle Pass 4"
     },
     "HTybDA": {
         "ko": "[Mission Board]\nHard Feeler 15개를 전달하세요.\nEXP Battle Pass 4",
         "en": "[Mission Board]\nDeliver 15 Hard Feelers.\nEXP Battle Pass 4",
         "pt": "[Quadro de Missões]\nEntregue 15 Hard Feelers.\nEXP Battle Pass 4",
-        "es": "[Tablón de Misiones]\nEntregar 15 Hard Feelers.\nEXP Battle Pass 4"
+        "es": "[Tablero de Misiones]\nEntregar 15 Hard Feelers.\nEXP Battle Pass 4"
     },
     "HjybDA": {
         "ko": "[Mission Board]\nTentacle 100개를 전달하세요.\nEXP Battle Pass 3",
         "en": "[Mission Board]\nDeliver 100 Tentacles.\nEXP Battle Pass 3",
         "pt": "[Quadro de Missões]\nEntregue 100 Tentacles.\nEXP Battle Pass 3",
-        "es": "[Tablón de Misiones]\nEntregar 100 Tentacles.\nEXP Battle Pass 3"
+        "es": "[Tablero de Misiones]\nEntregar 100 Tentacles.\nEXP Battle Pass 3"
     },
     "HzybDA": {
         "ko": "Sasquatch 처치",
@@ -405,25 +405,25 @@
         "ko": "[Mission Board]\nSasquatch 3마리 처치\nEXP Battle Pass 3",
         "en": "[Mission Board]\nDefeat 3 Sasquatchs.\nEXP Battle Pass 3",
         "pt": "[Quadro de Missões]\nDerrote 3 Sasquatches.\nEXP do Passe de Batalha 3",
-        "es": "[Tablón de Misiones]\nDerrota 3 Sasquatches.\nEXP del Pase de Batalla 3"
+        "es": "[Tablero de Misiones]\nDerrota 3 Sasquatches.\nEXP del Pase de Batalla 3"
     },
     "JDybDA": {
         "ko": "[Mission Board]\nFenrir 처치\nEXP Battle Pass 3",
         "en": "[Mission Board]\nDefeat Fenrir.\nEXP Battle Pass 3",
         "pt": "[Quadro de Missões]\nDerrote Fenrir.\nEXP do Passe de Batalha 3",
-        "es": "[Tablón de Misiones]\nDerrota a Fenrir.\nEXP del Pase de Batalla 3"
+        "es": "[Tablero de Misiones]\nDerrota a Fenrir.\nEXP del Pase de Batalla 3"
     },
     "JTybDA": {
         "ko": "[Mission Board]\nWindow Shopper Catalogue 100개를 전달하세요.\nEXP Battle Pass 4",
         "en": "[Mission Board]\nDeliver 100 Window Shopper Catalogues.\nEXP Battle Pass 4",
         "pt": "[Quadro de Missões]\nEntregue 100 Catálogos Window Shopper.\nEXP do Passe de Batalha 4",
-        "es": "[Tablón de Misiones]\nEntrega 100 Catálogos Window Shopper.\nEXP del Pase de Batalla 4"
+        "es": "[Tablero de Misiones]\nEntrega 100 Catálogos Window Shopper.\nEXP del Pase de Batalla 4"
     },
     "JjybDA": {
         "ko": "[Mission Board]\n200000제니를 제출하세요.\nEXP Battle Pass 4",
         "en": "[Mission Board]\nSubmit 200,000 Zeny.\nEXP Battle Pass 4",
         "pt": "[Quadro de Missões]\nEnvie 200.000 Zeny.\nEXP do Passe de Batalha 4",
-        "es": "[Tablón de Misiones]\nEntrega 200.000 Zeny.\nEXP del Pase de Batalla 4"
+        "es": "[Tablero de Misiones]\nEntrega 200.000 Zeny.\nEXP del Pase de Batalla 4"
     },
     "JzybDA": {
         "ko": "Defeat Corrupted Wanderer",
@@ -435,7 +435,7 @@
         "ko": "[Mission Board]\nCorrupted Wanderer 50마리 처치\nEXP Battle Pass 20",
         "en": "[Mission Board]\nDefeat 50 Corrupted Wanderers.\nEXP Battle Pass 20",
         "pt": "[Quadro de Missões]\nDerrote 50 Corrupted Wanderers.\nEXP do Passe de Batalha 20",
-        "es": "[Tablón de Misiones]\nDerrota 50 Corrupted Wanderers.\nEXP del Pase de Batalla 20"
+        "es": "[Tablero de Misiones]\nDerrota 50 Corrupted Wanderers.\nEXP del Pase de Batalla 20"
     },
     "KTybDA": {
         "ko": "Sasquatch 처치 의뢰",
@@ -495,25 +495,25 @@
         "ko": "[Mission Board]\nGreen Plant 10마리 처치\nEXP Battle Pass 3",
         "en": "[Mission Board]\nDefeat 10 Green Plant\nEXP Battle Pass 3",
         "pt": "[Quadro de Missões]\nEliminar 10 Plantas Verdes\nEXP Battle Pass 3",
-        "es": "[Tablón de Misiones]\nEliminar 10 Plantas Verdes\nEXP Battle Pass 3"
+        "es": "[Tablero de Misiones]\nEliminar 10 Plantas Verdes\nEXP Battle Pass 3"
     },
     "MzybDA": {
         "ko": "[Mission Board]\nAmdarais 처치\nEXP Battle Pass 3",
         "en": "[Mission Board]\nDefeat Amdarais\nEXP Battle Pass 3",
         "pt": "[Quadro de Missões]\nEliminar Amdarais\nEXP Battle Pass 3",
-        "es": "[Tablón de Misiones]\nEliminar Amdarais\nEXP Battle Pass 3"
+        "es": "[Tablero de Misiones]\nEliminar Amdarais\nEXP Battle Pass 3"
     },
     "NDybDA": {
         "ko": "[Mission Board]\nMastela Fruit 50개를 사용하세요.\nEXP Battle Pass 4",
         "en": "[Mission Board]\nUse 50 Mastela Fruit.\nEXP Battle Pass 4",
         "pt": "[Quadro de Missões]\nEntregue 50 Mastelas.\nEXP Battle Pass 4",
-        "es": "[Tablón de Misiones]\nEntrega 50 Fruta de Mastelas.\nEXP Battle Pass 4"
+        "es": "[Tablero de Misiones]\nEntrega 50 Fruta de Mastelas.\nEXP Battle Pass 4"
     },
     "NTybDA": {
         "ko": "[Mission Board]\nGreen Herb 10개를 배달하세요.\nEXP Battle Pass 4",
         "en": "[Mission Board]\nDeliver 10 Green Herb.\nEXP Battle Pass 4",
         "pt": "[Quadro de Missões]\nEntregue 10 Erva Verdes.\nEXP Battle Pass 4",
-        "es": "[Tablón de Misiones]\nEntrega 10 Hierba verdes.\nEXP Battle Pass 4"
+        "es": "[Tablero de Misiones]\nEntrega 10 Hierba verdes.\nEXP Battle Pass 4"
     },
     "NjybDA": {
         "ko": "Defeat Phantom of Amdarais",
@@ -525,7 +525,7 @@
         "ko": "[Mission Board]\nPhantom of Amdarais 2마리 처치\nEXP Battle Pass 20",
         "en": "[Mission Board]\nDefeat 2 Phantom of Amdarais\nEXP Battle Pass 20",
         "pt": "[Quadro de Missões]\nEliminar 2 Amdarais Sombrios\nEXP Battle Pass 20",
-        "es": "[Tablón de Misiones]\nEliminar 2 Amdarais Sombrios\nEXP Battle Pass 20"
+        "es": "[Tablero de Misiones]\nEliminar 2 Amdarais Sombrios\nEXP Battle Pass 20"
     },
     "ODybDA": {
         "ko": "Green Plant 처치 의뢰",
@@ -585,25 +585,25 @@
         "ko": "[Mission Board]\nOrc Zombie 50마리 처치\nEXP Battle Pass 3",
         "en": "[Mission Board]\nDefeat 50 Orc Zombies.\nEXP Battle Pass 3",
         "pt": "[Quadro de Missões]\nDerrote 50 Orcs Zumbis.\nEXP do Passe de Batalha 3",
-        "es": "[Tablón de Misiones]\nDerrota 50 Zombis Orcos.\nEXP del Pase de Batalla 3"
+        "es": "[Tablero de Misiones]\nDerrota 50 Zombis Orcos.\nEXP del Pase de Batalla 3"
     },
     "QjybDA": {
         "ko": "[Mission Board]\nALIOT, ALIZA, ALICEL 100마리씩 처치\nEXP Battle Pass 4",
         "en": "[Mission Board]\nDefeat 100 each of ALIOT, ALIZA, and ALICEL\nEXP Battle Pass 4",
         "pt": "[Quadro de Missões]\nDerrote 100 de cada: ALIOT, ALIZA e ALICEL\nEXP do Passe de Batalha 4",
-        "es": "[Tablón de Misiones]\nDerrota 100 de cada uno: ALIOT, ALIZA y ALICEL\nEXP del Pase de Batalla 4"
+        "es": "[Tablero de Misiones]\nDerrota 100 de cada uno: ALIOT, ALIZA y ALICEL\nEXP del Pase de Batalla 4"
     },
     "QzybDA": {
         "ko": "[Mission Board]\nCoagulated Spell 10개를 배달하세요.\nEXP Battle Pass 4",
         "en": "[Mission Board]\nDeliver 10 Coagulated Spells.\nEXP Battle Pass 4",
         "pt": "[Quadro de Missões]\nEntregue 10 Manas Coaguladas.\nEXP do Passe de Batalha 4",
-        "es": "[Tablón de Misiones]\nEntrega 10 Hechizos Coagulados.\nEXP del Pase de Batalla 4"
+        "es": "[Tablero de Misiones]\nEntrega 10 Hechizos Coagulados.\nEXP del Pase de Batalla 4"
     },
     "RDybDA": {
         "ko": "[Mission Board]\nOrc Claw 50개를 배달하세요.\nEXP Battle Pass 3",
         "en": "[Mission Board]\nDeliver 50 Orc Claws.\nEXP Battle Pass 3",
         "pt": "[Quadro de Missões]\nEntregue 50 Garras de Orc.\nEXP do Passe de Batalha 3",
-        "es": "[Tablón de Misiones]\nEntrega 50 Garras de Orco.\nEXP del Pase de Batalla 3"
+        "es": "[Tablero de Misiones]\nEntrega 50 Garras de Orco.\nEXP del Pase de Batalla 3"
     },
     "RTybDA": {
         "ko": "Defeat CUTIE",
@@ -615,7 +615,7 @@
         "ko": "[Mission Board]\nCUTIE 5마리 처치\nEXP Battle Pass 20",
         "en": "[Mission Board]\nDefeat 5 CUTIEs.\nEXP Battle Pass 20",
         "pt": "[Quadro de Missões]\nDerrote 5 Fofinhos.\nEXP do Passe de Batalha 20",
-        "es": "[Tablón de Misiones]\nDerrota 5 Bonititos.\nEXP del Pase de Batalla 20"
+        "es": "[Tablero de Misiones]\nDerrota 5 Bonititos.\nEXP del Pase de Batalla 20"
     },
     "RzybDA": {
         "ko": "Orc Zombie 처치 의뢰",

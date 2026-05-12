@@ -76,7 +76,8 @@ StateIconImgList = {
 		[EFST_IDs.EFST_NOEQUIPFULL2] = "efst_shadow_trip.tga",
 		[EFST_IDs.EFST_CURSE_R_CUBE] = "EFST_Curse_R_Cube.tga",
 		[EFST_IDs.EFST_CURSE_B_CUBE] = "EFST_Curse_B_Cube.tga",
-		[EFST_IDs.EFST_RUSH_QUAKE1] = "efst_rush_quake1.tga"
+		[EFST_IDs.EFST_RUSH_QUAKE1] = "efst_rush_quake1.tga",
+		[EFST_IDs.EFST_TOXIN_OF_MANDARA] = "MH_Toxin_of_Mandara.TGA"
 	},
 	[PRIORITY_BLUE] = {
 		[EFST_IDs.EFST_ATTHASTE_CASH] = "ASPDCASH.TGA",
@@ -449,6 +450,8 @@ StateIconImgList = {
 		[EFST_IDs.EFST_CHARGINGPIERCE] = "EFST_CHARGINGPIERCE.tga",
 		[EFST_IDs.EFST_DRAGONIC_AURA] = "DRAGONIC_AURA.tga",
 		[EFST_IDs.EFST_VIGOR] = "EFST_VIGOR.tga",
-		[EFST_IDs.EFST_RUSH_QUAKE2] = "efst_rush_quake2.tga"
+		[EFST_IDs.EFST_RUSH_QUAKE2] = "efst_rush_quake2.tga",
+		[EFST_IDs.EFST_TEMPERING] = "MH_Tempering.TGA",
+		[EFST_IDs.EFST_GOLDENE_TONE] = "MH_Godene_Tone.TGA"
 	}
 }

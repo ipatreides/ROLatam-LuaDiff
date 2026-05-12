@@ -1,0 +1,338 @@
+{
+    "ABvsDA": {
+        "ko": "Jumping Event",
+        "en": "Jumpstart Event",
+        "pt": "Evento de Arrancada",
+        "es": "Evento de Arranque"
+    },
+    "ARvsDA": {
+        "ko": "[Jumping Event]\n너... 내가 기다리던 사람인 것 같군.",
+        "en": "[Jumpstart Event]\nYou... I think you're the one I've been waiting for.",
+        "pt": "[Evento de Arrancada]\nVocê... Acho que é quem eu estava esperando.",
+        "es": "[Evento de Arranque]\nTú... Creo que eres a quien estaba esperando."
+    },
+    "AhvsDA": {
+        "ko": "[Jumping Event]\n미안하지만 너는 내가 기다리던 사람이 아니야.",
+        "en": "[Jumpstart Event]\nSorry, but you're not the one I've been waiting for.",
+        "pt": "[Evento de Arrancada]\nDesculpe, mas você não é quem eu estava esperando.",
+        "es": "[Evento de Arranque]\nLo siento, pero no eres a quien estaba esperando."
+    },
+    "AxvsDA": {
+        "ko": "나를 도와 Jumping을 해줘!",
+        "en": "Help me Jump!",
+        "pt": "Ajude-me a dar o Salto!",
+        "es": "¡Ayúdame a dar el Salto!"
+    },
+    "BBvsDA": {
+        "ko": "취소",
+        "en": "Cancel",
+        "pt": "Cancelar",
+        "es": "Cancelar"
+    },
+    "BRvsDA": {
+        "ko": "[Jumping Event]\n이런 좋은 기회는 자주 오는 게 아니라고.",
+        "en": "[Jumpstart Event]\nOpportunities like this don't come often.",
+        "pt": "[Evento de Arrancada]\nOportunidades como esta não aparecem sempre.",
+        "es": "[Evento de Arranque]\nOportunidades como esta no aparecen siempre."
+    },
+    "BhvsDA": {
+        "ko": "[Jumping Event]\n넌 아직 직업을 바꾸기엔 너무 어려.",
+        "en": "[Jumpstart Event]\nYou're still too young to change jobs.",
+        "pt": "[Evento de Arrancada]\nVocê ainda é muito jovem para mudar de classe.",
+        "es": "[Evento de Arranque]\nAún eres muy joven para cambiar de clase."
+    },
+    "BxvsDA": {
+        "ko": "[Jumping Event]\n그걸 계속 타고 있을 생각이냐? 이렇게 올려다보니 목이 아프군. 좀 내려오지 않겠나?",
+        "en": "[Jumpstart Event]\nAre you planning to keep riding that? Looking up at you is giving me a neck ache. Would you mind getting down?",
+        "pt": "[Evento de Arrancada]\nVocê planeja continuar montado nisso? Olhar para cima está me dando dor no pescoço. Importa-se de descer?",
+        "es": "[Evento de Arranque]\n¿Planeas seguir montado en eso? Mirar hacia arriba me está dando dolor de cuello. ¿Te importaría bajar?"
+    },
+    "CBvsDA": {
+        "ko": "[Jumping Event]\n직업을 바꾸려면 먼저 탈것에서 내려야 한다.",
+        "en": "[Jumpstart Event]\nTo change jobs, you must first dismount.",
+        "pt": "[Evento de Arrancada]\nPara mudar de classe, você deve primeiro desmontar.",
+        "es": "[Evento de Arranque]\nPara cambiar de clase, primero debes desmontar."
+    },
+    "CRvsDA": {
+        "ko": "[Jumping Event]\n그 Cart는 가족이 남긴 물건인가? 아니라면 좀 내려놓지 않겠나?",
+        "en": "[Jumpstart Event]\nIs that Cart a family heirloom? If not, how about putting it down?",
+        "pt": "[Evento de Arrancada]\nEsse Carrinho é uma herança de família? Se não, que tal largá-lo?",
+        "es": "[Evento de Arranque]\n¿Ese Carro es una herencia familiar? Si no, ¿qué tal si lo dejas?"
+    },
+    "ChvsDA": {
+        "ko": "[Jumping Event]\n레벨이 이 정도인데 아직도 ^0000CDSkill Point^000000를 다 쓰지 않았나? 미련이 남았나? 남겨둬도 아무 의미 없다.",
+        "en": "[Jumpstart Event]\nYou're at this level and still haven't used all ^0000CDSkill Points^000000? Feeling attached? Leaving them unused means nothing.",
+        "pt": "[Evento de Arrancada]\nVocê está neste nível e ainda não usou todos os ^0000CDPontos de Habilidade^000000? Apegou-se? Deixá-los sem uso não significa nada.",
+        "es": "[Evento de Arranque]\n¿Estás en este nivel y aún no has usado todos los ^0000CDPuntos de Habilidad^000000? ¿Te encariñaste? Dejarlos sin usar no significa nada."
+    },
+    "CxvsDA": {
+        "ko": "[Jumping Event]\nSkill Point가 남아 있으면 직업 변경이 불가능하니 전부 써라.",
+        "en": "[Jumpstart Event]\nYou cannot change jobs if you have unspent Skill Points, so use them all.",
+        "pt": "[Evento de Arrancada]\nVocê não pode mudar de classe se tiver Pontos de Habilidade não gastos, então use todos.",
+        "es": "[Evento de Arranque]\nNo puedes cambiar de clase si tienes Puntos de Habilidad sin gastar, así que úsalos todos."
+    },
+    "DBvsDA": {
+        "ko": "[Jumping Event]\n가방에 물건을 너무 많이 들고 있군. 직업을 바꾸면 그 절반도 못 들게 된다.",
+        "en": "[Jumpstart Event]\nYou're carrying too many items in your bag. After changing jobs, you won't be able to carry even half of that.",
+        "pt": "[Evento de Arrancada]\nVocê está carregando muitos itens na sua mochila. Depois de mudar de classe, você não conseguirá carregar nem metade disso.",
+        "es": "[Evento de Arranque]\nLlevas demasiados artículos en tu mochila. Después de cambiar de clase, no podrás cargar ni la mitad de eso."
+    },
+    "DRvsDA": {
+        "ko": "[Jumping Event]\n괜찮다고 해도 안 된다. ^0000CD500 이하^000000로 줄이고 다시 와라.\n마침 저기 Merchant가 있다. 보이나?",
+        "en": "[Jumpstart Event]\nEven if you say it's okay, it's not. Reduce it to ^0000CD500 or less^000000 and come back.\nLook, there's a Merchant right over there. See them?",
+        "pt": "[Evento de Arrancada]\nMesmo que você diga que está tudo bem, não está. Reduza para ^0000CD500 ou menos^000000 e volte.\nOlhe, tem um Mercador bem ali. Consegue vê-lo?",
+        "es": "[Evento de Arranque]\nAunque digas que está bien, no lo está. Redúcelo a ^0000CD500 o menos^000000 y vuelve.\nMira, hay un Mercader justo allí. ¿Puedes verlo?"
+    },
+    "DhvsDA": {
+        "ko": "[Jumping Event]\n어떤 직업으로 Jumping할지 잘 생각해라. 선택하면 취소할 수 없으니 신중해야 한다.",
+        "en": "[Jumpstart Event]\nThink carefully about which job you want to Jump to. You cannot cancel your choice, so be cautious.",
+        "pt": "[Evento de Arrancada]\nPense cuidadosamente sobre para qual classe você quer dar o Salto. Você não pode cancelar sua escolha, então seja cauteloso.",
+        "es": "[Evento de Arranque]\nPiensa cuidadosamente a qué clase quieres dar el Salto. No puedes cancelar tu elección, así que sé cauteloso."
+    },
+    "DxvsDA": {
+        "ko": "LORD KNIGHT",
+        "en": "LORD KNIGHT",
+        "pt": "LORDE",
+        "es": "LORDE CABALLERO"
+    },
+    "EBvsDA": {
+        "ko": "HIGH PRIEST",
+        "en": "HIGH PRIEST",
+        "pt": "SUMO SACERDOTE",
+        "es": "SUMO SACERDOTE"
+    },
+    "ERvsDA": {
+        "ko": "HIGH WIZARD",
+        "en": "HIGH WIZARD",
+        "pt": "ARQUIMAGO",
+        "es": "GRAN HECHICERO"
+    },
+    "EhvsDA": {
+        "ko": "WHITESMITH",
+        "en": "MASTERSMITH",
+        "pt": "MESTRE FERREIRO",
+        "es": "MAESTRO HERRERO"
+    },
+    "ExvsDA": {
+        "ko": "SNIPER",
+        "en": "SNIPER",
+        "pt": "ATIRADOR DE ELITE",
+        "es": "FRANCOTIRADOR"
+    },
+    "FBvsDA": {
+        "ko": "ASSASIN CROSS",
+        "en": "ASSASSIN CROSS",
+        "pt": "ALGOZ",
+        "es": "ASESINO CRUZADO"
+    },
+    "FRvsDA": {
+        "ko": "PALADIN",
+        "en": "PALADIN",
+        "pt": "PALADINO",
+        "es": "PALADINO"
+    },
+    "FhvsDA": {
+        "ko": "CHAMPION",
+        "en": "CHAMPION",
+        "pt": "MESTRE",
+        "es": "CAMPEÓN"
+    },
+    "FxvsDA": {
+        "ko": "PROFESSOR",
+        "en": "SCHOLAR",
+        "pt": "PROFESSOR",
+        "es": "ERUDITO"
+    },
+    "GBvsDA": {
+        "ko": "CREATOR",
+        "en": "BIOCHEMIST",
+        "pt": "CRIADOR",
+        "es": "BIOQUÍMICO"
+    },
+    "GRvsDA": {
+        "ko": "STALKER",
+        "en": "STALKER",
+        "pt": "DESORDEIRO",
+        "es": "PERSEGUIDOR"
+    },
+    "GhvsDA": {
+        "ko": "CLOWN",
+        "en": "MINSTREL",
+        "pt": "MENESTREL",
+        "es": "MINISTRIL"
+    },
+    "GxvsDA": {
+        "ko": "GYPSY",
+        "en": "DESTINY DANCER",
+        "pt": "CIGANA",
+        "es": "GITANA"
+    },
+    "HBvsDA": {
+        "ko": "[Jumping Event]\nJob : {0}\n마지막으로 묻겠다. 이 직업으로 Jumping할 준비가 되었나?",
+        "en": "[Jumpstart Event]\nJob: {0}\nI'll ask you one last time. Are you ready to Jump to this job?",
+        "pt": "[Evento de Arrancada]\nClasse: {0}\nPerguntarei uma última vez. Você está pronto para dar o Salto para esta classe?",
+        "es": "[Evento de Arranque]\nClase: {0}\nPreguntaré una última vez. ¿Estás listo para dar el Salto a esta clase?"
+    },
+    "HRvsDA": {
+        "ko": "준비됐다",
+        "en": "I'm ready",
+        "pt": "Estou pronto",
+        "es": "Estoy listo"
+    },
+    "HhvsDA": {
+        "ko": "잠깐만",
+        "en": "Wait a moment",
+        "pt": "Aguarde um momento",
+        "es": "Espera un momento"
+    },
+    "HxvsDA": {
+        "ko": "[Jumping Event]\n준비되면 다시 와라.",
+        "en": "[Jumpstart Event]\nCome back when you're ready.",
+        "pt": "[Evento de Arrancada]\nVolte quando estiver pronto.",
+        "es": "[Evento de Arranque]\nVuelve cuando estés listo."
+    },
+    "IBvsDA": {
+        "ko": "[Jumping Event]\n이제 직업을 변경한다. 눈 크게 뜨고 잘 보거라. 직업과 레벨을 동시에 올려주겠다.",
+        "en": "[Jumpstart Event]\nNow I will change your job. Open your eyes wide and watch closely. I will raise your job and base levels simultaneously.",
+        "pt": "[Evento de Arrancada]\nAgora vou mudar sua classe. Abra bem os olhos e observe atentamente. Elevarei seu Nível Base e de Classe simultaneamente.",
+        "es": "[Evento de Arranque]\nAhora cambiaré tu clase. Abre bien los ojos y observa atentamente. Elevaré tu Nivel Base y de Clase simultáneamente."
+    },
+    "IRvsDA": {
+        "ko": "[Jumping Event]\n자, 직업도 바뀌고 레벨도 올랐지? 어때, 꽤 괜찮지 않나?",
+        "en": "[Jumpstart Event]\nSee? Your job and level have increased. How is it? Pretty good, right?",
+        "pt": "[Evento de Arrancada]\nViu? Sua classe e nível aumentaram. Que tal? Muito bom, certo?",
+        "es": "[Evento de Arranque]\n¿Ves? Tu clase y nivel aumentaron. ¿Qué tal? Muy bueno, ¿verdad?"
+    },
+    "IhvsDA": {
+        "ko": "[Jumping Event]\n곧 First Class로 전직해야 한다. Skill Point를 전부 사용하고 다시 와라.",
+        "en": "[Jumpstart Event]\nYou need to change to First Class soon. Use all your Skill Points and come back.",
+        "pt": "[Evento de Arrancada]\nVocê precisa mudar para a Classe 1 em breve. Use todos os seus Pontos de Habilidade e volte.",
+        "es": "[Evento de Arranque]\nNecesitas cambiar a la Clase 1 pronto. Usa todos tus Puntos de Habilidad y vuelve."
+    },
+    "IxvsDA": {
+        "ko": "[Jumping Event]\n딴 데 가지 말고.",
+        "en": "[Jumpstart Event]\nDon't go anywhere else.",
+        "pt": "[Evento de Arrancada]\nNão vá a nenhum outro lugar.",
+        "es": "[Evento de Arranque]\nNo vayas a ningún otro lugar."
+    },
+    "JBvsDA": {
+        "ko": "[Jumping Event]\nJob Level을 올려주지 않았던가? 왜 이렇게 된 거지?",
+        "en": "[Jumpstart Event]\nDidn't I raise your Job Level? How did this happen?",
+        "pt": "[Evento de Arrancada]\nEu não elevei seu Nível de Classe? Como isso aconteceu?",
+        "es": "[Evento de Arranque]\n¿Acaso no elevé tu Nivel de Clase? ¿Cómo sucedió esto?"
+    },
+    "JRvsDA": {
+        "ko": "[Jumping Event]\n이해가 안 되는군. 내가 다시 올려주겠다. 스킬 배우고 다시 와라.",
+        "en": "[Jumpstart Event]\nI don't understand. I'll raise it again. Learn your skills and come back.",
+        "pt": "[Evento de Arrancada]\nNão entendo. Elevarei novamente. Aprenda suas habilidades e volte.",
+        "es": "[Evento de Arranque]\nNo lo entiendo. Lo elevaré de nuevo. Aprende tus habilidades y vuelve."
+    },
+    "JhvsDA": {
+        "ko": "[Jumping Event]\nSkill Point를 모두 사용해야 전직할 수 있다는 걸 잊은 건 아니겠지?",
+        "en": "[Jumpstart Event]\nYou haven't forgotten that you must use all Skill Points to change jobs, have you?",
+        "pt": "[Evento de Arrancada]\nNão se esqueceu de que deve usar todos os Pontos de Habilidade para mudar de classe, não se esqueceu?",
+        "es": "[Evento de Arranque]\nNo te olvidaste de que debes usar todos los Puntos de Habilidad para cambiar de clase, ¿verdad?"
+    },
+    "JxvsDA": {
+        "ko": "[Jumping Event]\n초보라서 고민되나 보군. 10초 줄 테니 결정해라.",
+        "en": "[Jumpstart Event]\nLooks like you're undecided because you're a novice. I'll give you 10 seconds to decide.",
+        "pt": "[Evento de Arrancada]\nParece que você está indeciso porque é um Aprendiz. Darei 10 segundos para decidir.",
+        "es": "[Evento de Arranque]\nParece que estás indeciso porque eres un Aprendiz. Te daré 10 segundos para decidir."
+    },
+    "KBvsDA": {
+        "ko": "[Jumping Event]\n이제 선택한 직업으로 전직시켜주겠다.",
+        "en": "[Jumpstart Event]\nNow I will change you to the job you selected.",
+        "pt": "[Evento de Arrancada]\nAgora vou mudar você para a classe que selecionou.",
+        "es": "[Evento de Arranque]\nAhora te cambiaré a la clase que seleccionaste."
+    },
+    "KRvsDA": {
+        "ko": "[Jumping Event]\n이번에도 눈 크게 뜨고 잘 보거라.",
+        "en": "[Jumpstart Event]\nOpen your eyes wide and watch closely again.",
+        "pt": "[Evento de Arrancada]\nAbra bem os olhos e observe atentamente novamente.",
+        "es": "[Evento de Arranque]\nAbre bien los ojos y observa atentamente otra vez."
+    },
+    "KhvsDA": {
+        "ko": "[Jumping Event]\n어때? 이게 바로 나의 힘이다.",
+        "en": "[Jumpstart Event]\nHow's that? This is my power.",
+        "pt": "[Evento de Arrancada]\nQue tal? Este é o meu poder.",
+        "es": "[Evento de Arranque]\n¿Qué tal? Este es mi poder."
+    },
+    "KxvsDA": {
+        "ko": "[Jumping Event]\n이제 Second Class로 바꿔줄 테니 스킬 배우고 Skill Point를 모두 사용하고 와라.",
+        "en": "[Jumpstart Event]\nNow I'll change you to Second Class. Go learn your skills and use all your Skill Points, then come back.",
+        "pt": "[Evento de Arrancada]\nAgora vou mudar você para a Classe 2. Vá aprender suas habilidades e use todos os seus Pontos de Habilidade, então volte.",
+        "es": "[Evento de Arranque]\nAhora te cambiaré a la Clase 2. Ve a aprender tus habilidades y usa todos tus Puntos de Habilidad, luego vuelve."
+    },
+    "LBvsDA": {
+        "ko": "[Jumping Event]\n누가 공격이라도 한 건가? Job Level이 왜 이렇게 떨어졌지?",
+        "en": "[Jumpstart Event]\nDid someone attack you? Why did your Job Level drop so much?",
+        "pt": "[Evento de Arrancada]\nAlguém atacou você? Por que seu Nível de Classe caiu tanto?",
+        "es": "[Evento de Arranque]\n¿Alguien te atacó? ¿Por qué tu Nivel de Clase bajó tanto?"
+    },
+    "LRvsDA": {
+        "ko": "[Jumping Event]\n어쩔 수 없군. 50까지 올려주겠다. Skill Point 다 쓰고 와라.",
+        "en": "[Jumpstart Event]\nNo choice. I'll raise it to 50. Use all your Skill Points and come back.",
+        "pt": "[Evento de Arrancada]\nNão tenho escolha. Elevarei para 50. Use todos os seus Pontos de Habilidade e volte.",
+        "es": "[Evento de Arranque]\nNo tengo elección. Lo elevaré a 50. Usa todos tus Puntos de Habilidad y vuelve."
+    },
+    "LhvsDA": {
+        "ko": "[Jumping Event]\n전직하려면 Skill Point를 모두 사용해야 한다는 건 알겠지?",
+        "en": "[Jumpstart Event]\nYou do know that you must use all Skill Points to change jobs, right?",
+        "pt": "[Evento de Arrancada]\nVocê sabe que deve usar todos os Pontos de Habilidade para mudar de classe, certo?",
+        "es": "[Evento de Arranque]\nSabes que debes usar todos los Puntos de Habilidad para cambiar de clase, ¿cierto?"
+    },
+    "LxvsDA": {
+        "ko": "[Jumping Event]\n빨리 다 써라. 여기서 기다리겠다.",
+        "en": "[Jumpstart Event]\nUse them quickly. I'll wait here.",
+        "pt": "[Evento de Arrancada]\nUse-os rapidamente. Esperarei aqui.",
+        "es": "[Evento de Arranque]\nÚsalos rápidamente. Esperaré aquí."
+    },
+    "MBvsDA": {
+        "ko": "[Jumping Event]\n이 정도면 눈 감고도 전직할 수 있겠군. 저녁 메뉴나 생각해라.",
+        "en": "[Jumpstart Event]\nAt this rate, I could change your job with my eyes closed. Go think about what's for dinner.",
+        "pt": "[Evento de Arrancada]\nNesse ritmo, poderia mudar sua classe com os olhos fechados. Vá pensar no que vai comer.",
+        "es": "[Evento de Arranque]\nA este ritmo, podría cambiar tu clase con los ojos cerrados. Ve a pensar en qué vas a cenar."
+    },
+    "MRvsDA": {
+        "ko": "[Jumping Event]\n이제 너에게는 발할라의 힘이 깃들었다. 어디든 막을 수 없다. 1년 동안 고마웠다.",
+        "en": "[Jumpstart Event]\nNow the power of Valhalla dwells within you. Nothing can stop you. Thank you for this past year.",
+        "pt": "[Evento de Arrancada]\nAgora o poder de Valhala habita em você. Nada pode te parar. Obrigado por este último ano.",
+        "es": "[Evento de Arranque]\nAhora el poder de Valhala habita en ti. Nada puede detenerte. Gracias por este último año."
+    },
+    "MhvsDA": {
+        "ko": "[Jumping Event]\n...? 뭔가 잘못된 건가? Base Level을 올려줬는데 왜 떨어졌지?",
+        "en": "[Jumpstart Event]\n...? Did something go wrong? I raised your Base Level, so why did it drop?",
+        "pt": "[Evento de Arrancada]\n...? Algo deu errado? Elevei seu Nível Base, então por que caiu?",
+        "es": "[Evento de Arranque]\n¿...? ¿Algo salió mal? Elevé tu Nivel Base, entonces ¿por qué bajó?"
+    },
+    "MxvsDA": {
+        "ko": "[Jumping Event]\n다시 99로 올려주겠다. 하지만 두 번은 없다.",
+        "en": "[Jumpstart Event]\nI'll raise it back to 99. But there won't be a second time.",
+        "pt": "[Evento de Arrancada]\nElevarei de volta para 99. Mas não haverá uma segunda vez.",
+        "es": "[Evento de Arranque]\nLo volveré a subir a 99. Pero no habrá una segunda vez."
+    },
+    "NBvsDA": {
+        "ko": "[Jumping Event]\nJob Level이 왜 이렇지? 몸 관리 좀 해라.",
+        "en": "[Jumpstart Event]\nWhat's wrong with your Job Level? Take better care of yourself.",
+        "pt": "[Evento de Arrancada]\nO que há de errado com seu Nível de Classe? Cuide-se melhor.",
+        "es": "[Evento de Arranque]\n¿Qué pasa con tu Nivel de Clase? Cuídate mejor."
+    },
+    "NRvsDA": {
+        "ko": "[Jumping Event]\n70까지 올려주겠다. Skill Point 다 써라.",
+        "en": "[Jumpstart Event]\nI'll raise it to 70. Use all your Skill Points.",
+        "pt": "[Evento de Arrancada]\nElevarei para 70. Use todos os seus Pontos de Habilidade.",
+        "es": "[Evento de Arranque]\nLo elevaré a 70. Usa todos tus Puntos de Habilidad."
+    },
+    "NhvsDA": {
+        "ko": "[Jumping Event]\n이제 완전히 힘을 얻었다. 어디든 막을 자가 없다. 고생했다.",
+        "en": "[Jumpstart Event]\nNow you have gained full power. No one can stop you. You've worked hard.",
+        "pt": "[Evento de Arrancada]\nAgora você ganhou poder total. Ninguém pode te parar. Você trabalhou duro.",
+        "es": "[Evento de Arranque]\nAhora has ganado poder total. Nadie puede detenerte. Has trabajado duro."
+    },
+    "NxvsDA": {
+        "ko": "[Jumping Event]\n뭐지? 더 해줄 건 없다.",
+        "en": "[Jumpstart Event]\nWhat? There's nothing more I can do for you.",
+        "pt": "[Evento de Arrancada]\nO quê? Não há mais nada que eu possa fazer por você.",
+        "es": "[Evento de Arranque]\n¿Qué? No hay nada más que pueda hacer por ti."
+    }
+}

@@ -7208,44 +7208,44 @@ QuestInfoList = {
 		Summary = "Se reinicia a las 4 de la mañana."
 	},
 	[3421] = {
-		Title = "En busca del Libro de la Ilusión",
+		Title = "En busca del Libro de la Visión",
 		IconName = "ico_jq.bmp",
 		Description = {
-			"El Sacerdote Jergus me pidió que pusiera a prueba mi fe buscando el Libro de la Ilusión en <NAVI>[el piso 1 de la Cueva de Payon]<INFO>pay_arche,39,131,0,101,0</INFO></NAVI>."
+			"El Sacerdote Yergus me pidió que pusiera a prueba mi fe buscando el Libro de la Visión en la <NAVI>[Cueva de Payon]<INFO>pay_arche,39,131,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Busca el Libro de la Ilusión, vol. 1."
+		Summary = "Busca el Libro de la Visión, Tomo 1"
 	},
 	[3422] = {
-		Title = "Libro de la Ilusión, vol. 2",
+		Title = "Libro de la Visión, Tomo 2",
 		IconName = "ico_jq.bmp",
 		Description = {
-			"El primer volumen del Libro de la Ilusión dice que el segundo volumen está en algún lugar del <NAVI>[piso 1 de la mazmorra de Orcos]<INFO>gef_fild10,65,335,0,101,0</INFO></NAVI>."
+			"El primer tomo del Libro de la Visión dice que el segundo tomo está en algún lugar de la <NAVI>[Cueva de Orcos]<INFO>gef_fild10,65,335,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Busca el Libro de la Ilusión, vol. 2."
+		Summary = "Busca el Libro de la Visión, Tomo 2"
 	},
 	[3423] = {
-		Title = "Libro de la Ilusión, vol. 3",
+		Title = "Libro de la Visión, Tomo 3",
 		IconName = "ico_jq.bmp",
 		Description = {
-			"El segundo volumen del Libro de la Ilusión dice que el tercer volumen está en algún lugar del <NAVI>[monasterio de Glastheim]<INFO>glast_01,200,135,0,101,0</INFO></NAVI>."
+			"El segundo volumen del Libro de la Visión dice que el tercer volumen está en algún lugar del <NAVI>[Monasterio de Glastheim]<INFO>glast_01,200,135,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Busca el Libro de la Ilusión, vol. 3."
+		Summary = "Busca el Libro de la Visión, Tomo 3"
 	},
 	[3424] = {
 		Title = "Derrota a los monstruos del monasterio",
 		IconName = "ico_jq.bmp",
 		Description = {
-			"Para seguir leyendo el tercer volumen del Libro de la Ilusión, debo cazar 30 monstruos de cualquier tipo dentro del monasterio."
+			"Para seguir leyendo el tercer tomo del Libro de la Visión, debo cazar 30 monstruos de cualquier tipo dentro del monasterio."
 		},
-		Summary = "Caza 30 monstruos dentro del monasterio."
+		Summary = "Caza 30 monstruos dentro del Monasterio"
 	},
 	[3425] = {
 		Title = "Última prueba",
 		IconName = "ico_jq.bmp",
 		Description = {
-			"Entra en la cueva de las pruebas y derrota a las Ilusiones oscuras."
+			"Entra en la Cueva de las Pruebas y derrota al Fantasma de la Oscuridad"
 		},
-		Summary = "Derrota a las Ilusiones oscuras."
+		Summary = "Derrota al Fantasma de la Oscuridad"
 	},
 	[3429] = {
 		Title = "Derrota a las Ilusiones oscuras",

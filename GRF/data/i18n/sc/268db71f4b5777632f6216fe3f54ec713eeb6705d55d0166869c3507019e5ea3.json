@@ -942,7 +942,7 @@
     "XIcB": {
         "en": "Arclouze",
         "pt": "Arclouse",
-        "es": "Arclouze"
+        "es": "Arclouse"
     },
     "XYcB": {
         "en": "Rideword",
@@ -1197,7 +1197,7 @@
     "j4cB": {
         "en": "Myst Case",
         "pt": "Presente",
-        "es": "Caja de Myst"
+        "es": "Regalo Misterioso"
     },
     "kIcB": {
         "en": "Chepet",
@@ -5647,7 +5647,7 @@
     "CYsB": {
         "en": "Sword Fish",
         "pt": "Peixe Residual",
-        "es": "Pez espada"
+        "es": "Pez Espada"
     },
     "CosB": {
         "en": "Marc",
@@ -7967,7 +7967,7 @@
     "2YwB": {
         "en": "Hunter Desert Wolf",
         "pt": "Filhote de Lobo Caçador",
-        "es": "Lobo del Desierto Cazador"
+        "es": "Cría de Lobo del Desierto Cazador"
     },
     "2owB": {
         "en": "Trance Spore",
@@ -8316,7 +8316,7 @@
     },
     "H40B": {
         "en": "Furious Stalactic Golem",
-        "pt": "Estalactítico Feroz",
+        "pt": "Golem Estalactítico Feroz",
         "es": "Gólem de Estalactita Furioso"
     },
     "II0B": {
@@ -8737,7 +8737,7 @@
     "c40B": {
         "en": "Furious Mystcase",
         "pt": "Presente Feroz",
-        "es": "Caja de Myst Furiosa"
+        "es": "Regalo Misterioso Furiosa"
     },
     "dI0B": {
         "en": "Elusive Muscipular",
@@ -9177,7 +9177,7 @@
     "y40B": {
         "en": "Gargoyle Ringleader",
         "pt": "Gárgula Alfa",
-        "es": "Gárgola Gárgola"
+        "es": "Cabecilla Gárgola"
     },
     "zI0B": {
         "en": "Furious Gargoyle",
@@ -9317,12 +9317,12 @@
     "540B": {
         "en": "Desert Wolf Ringleader",
         "pt": "Filhote de Lobo Alfa",
-        "es": "Cabecilla Lobo del Desierto"
+        "es": "Cabecilla Cría de Lobo del Desierto"
     },
     "6I0B": {
         "en": "Furious Desert Wolf",
         "pt": "Filhote de Lobo Feroz",
-        "es": "Lobo del Desierto Furioso"
+        "es": "Cría de Lobo del Desierto Furioso"
     },
     "6Y0B": {
         "en": "Elusive Deniro",
@@ -10931,8 +10931,8 @@
     },
     "Ko8B": {
         "en": "Ancient Stalactic Golem",
-        "pt": "Golem Ancestral",
-        "es": "Gólem Ancestral"
+        "pt": "Golem Estalactítico Ancestral",
+        "es": "Gólem de Estalactita Ancestral"
     },
     "K48B": {
         "en": "Ancient Megalith",
@@ -13718,7 +13718,7 @@
     },
     "WJEB": {
         "en": "Serpens",
-        "pt": "Serpes",
+        "pt": "Serpens",
         "es": "Serpiente"
     },
     "WZEB": {

@@ -776,7 +776,7 @@ QuestInfoList = {
 		Description = {
 			"Procure as ^0000FFPistas sobre Lope^000000 na floresta e leve-as para Pitt. Trinta devem ser suficientes."
 		},
-		Summary = "30 Pisas de Lope"
+		Summary = "30 Pistas de Lope"
 	},
 	[1112] = {
 		Title = "Lope e Euridi",
@@ -825,7 +825,7 @@ QuestInfoList = {
 		Description = {
 			"Recolha 30 Pistas sobre Lope e volte a falar com o Mestre da Ordem dos Cavaleiros."
 		},
-		Summary = "30 Pisas de Lope"
+		Summary = "30 Pistas de Lope"
 	},
 	[1119] = {
 		Title = "[Espera] Lope e Euridi",
@@ -32461,112 +32461,112 @@ QuestInfoList = {
 		CoolTimeQuest = 1
 	},
 	[11668] = {
-		Title = "Mudança de emprego do Arch Mage",
+		Title = "Mudança de emprego: Magus",
 		Description = {
 			"A Mestre Egnoloria, que conheci para a minha mudança de emprego de mago, está se preparando para o sono profundo, e as fadas têm algumas coisas para fazer antes que ela adormeça. Eu deveria segui-las e encontrar Egnoloria."
 		},
 		Summary = "Verificar planta estranha"
 	},
 	[11669] = {
-		Title = "Mudança de emprego do Arch Mage",
+		Title = "Mudança de emprego: Magus",
 		Description = {
 			"O assistente de Egnoloria, Yoop, desapareceu durante nossa conversa. Devo me juntar a Maggie para ^ff0000caçar 10 monstros e obter 1 Burning Heart no 3º andar do Thor Volcano Dungeon^000000."
 		},
 		Summary = "Um coração ardente para Maggie"
 	},
 	[11670] = {
-		Title = "Mudança de emprego do Arch Mage",
+		Title = "Mudança de emprego: Magus",
 		Description = {
 			"Nosso segundo desafio: ^ff0000Caçar 10 monstros e obter 1 Mermaid's Heart na Casa de Banhos da Mansão Barmund^000000."
 		},
 		Summary = "Um coração de sereia para Maggie"
 	},
 	[11671] = {
-		Title = "Mudança de emprego do Arch Mage",
+		Title = "Mudança de emprego: Magus",
 		Description = {
 			"Nosso terceiro desafio: ^ff0000Colete 1 planta brilhante por 1 semente de Yggdrasil^000000."
 		},
 		Summary = "Uma semente de Yggdrasil para Maggie"
 	},
 	[11672] = {
-		Title = "Mudança de emprego do Arch Mage",
+		Title = "Mudança de emprego: Magus",
 		Description = {
 			"Depois de verificar nossos materiais, Yoop pediu que o seguíssemos. Eu deveria falar com a Maggie e seguir o Yoop."
 		},
 		Summary = "Fale com Maggie"
 	},
 	[11673] = {
-		Title = "Mudança de emprego do Arch Mage",
+		Title = "Mudança de emprego: Magus",
 		Description = {
 			"Fizemos tanto barulho que o Mana Spring acordou. Eu deveria falar com o Mestre Egnoloria no Mana Spring."
 		},
 		Summary = "Fale com Egnoloria"
 	},
 	[11674] = {
-		Title = "Mudança de emprego do Elemental Master",
+		Title = "Mudança de emprego: Elementalista",
 		Description = {
 			"Elma quer saber como convocar elementais maiores. Fale com Kiran."
 		},
 		Summary = "Fale com Kiran"
 	},
 	[11675] = {
-		Title = "Mudança de emprego do Elemental Master",
+		Title = "Mudança de emprego: Elementalista",
 		Description = {
 			"Kiran diz que não há nada a lhe dizer."
 		},
 		Summary = "Fale com Elma"
 	},
 	[11676] = {
-		Title = "Mudança de emprego do Elemental Master",
+		Title = "Mudança de emprego: Elementalista",
 		Description = {
 			"Elma disse que viu Kiran visitando a ^ff0000Barmund Mansion^000000. Primeiro, verifique a ^ff0000Magic Power Plant^000000 na Mansão para obter pistas."
 		},
 		Summary = "Investigar a Usina de Energia Mágica"
 	},
 	[11677] = {
-		Title = "Mudança de emprego do Elemental Master",
+		Title = "Mudança de emprego: Elementalista",
 		Description = {
-			"Elma não pode investigar por causa dos monstros. ^ff0000Hunt Magic-poisoned Dolors e Unleashed Magics, 10 cada^000000."
+			"Elma não pode investigar por causa dos monstros. ^FF0000 Caça Dolor Viciada e Magia Liberta, 10 cada^000000."
 		},
 		Summary = "Caçar monstros incômodos"
 	},
 	[11678] = {
-		Title = "Mudança de emprego do Elemental Master",
+		Title = "Mudança de emprego: Elementalista",
 		Description = {
 			"Não há nenhuma pista sobre elementais maiores na Usina de Energia Mágica. ^ff0000Investigue a Biblioteca de Barmund^000000."
 		},
 		Summary = "Investigar a Biblioteca de Barmund"
 	},
 	[11679] = {
-		Title = "Mudança de emprego do Elemental Master",
+		Title = "Mudança de emprego: Elementalista",
 		Description = {
-			"Os livros continuam fugindo. Pegue ^ff000010 Roaming Spellbooks^000000 e volte para Elma perto da estante."
+			"Os livros continuam fugindo. Pegue ^FF000010 Grimório Errante^000000 e volte para Elma perto da estante."
 		},
 		Summary = "Recuperar livros de feitiços itinerantes"
 	},
 	[11680] = {
-		Title = "Mudança de emprego do Elemental Master",
+		Title = "Mudança de emprego: Elementalista",
 		Description = {
 			"Os livros coletados não contêm nenhuma pista. Verifique a estante novamente."
 		},
 		Summary = "Verifique novamente a estante de livros"
 	},
 	[11681] = {
-		Title = "Mudança de emprego do Elemental Master",
+		Title = "Mudança de emprego: Elementalista",
 		Description = {
 			"Quando abri o livro, uma pequena fada apareceu. Fale com a fada nesse novo local."
 		},
 		Summary = "Fale com Yoop"
 	},
 	[11682] = {
-		Title = "Mudança de emprego do Elemental Master",
+		Title = "Mudança de emprego: Elementalista",
 		Description = {
 			"Yoop me pediu para convocar Shez e Ivane da mesma forma que eu o convoquei. Vá até onde ele disser e convoque Shez e Ivane."
 		},
 		Summary = "Convocar Shez e Ivane"
 	},
 	[11683] = {
-		Title = "Mudança de emprego do Elemental Master",
+		Title = "Mudança de emprego: Elementalista",
 		Description = {
 			"Convoquei os dois como Yoop pediu, mas estávamos fazendo tanto barulho que Egnoloria nos pegou."
 		},
@@ -46386,151 +46386,151 @@ NpcSpr = [=[4_M_RACHMAN1]]
 		Summary = "Reserva de Espaço"
 	},
 	[17408] = {
-		Title = "Contrato de Mercen?rio de Mem?ria de Thanatos",
+		Title = "Entrada de Thanatos",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"O contrato de mercen?rio de Mem?ria de Thanatos com Rekenber foi conclu?do."
+			"O contrato com a Rekenber foi completado."
 		},
-		Summary = "Contrato Conclu?do"
+		Summary = "Contrato feito!"
 	},
 	[17409] = {
-		Title = "Segurando a Chave Vermelha",
+		Title = "Segredo da Torre",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"Ao segurar a chave vermelha, ela vibra levemente e uma fraca energia pode ser sentida. Vamos at? <NAVI>[o local para onde a energia guia]<INFO>tha_t03,70,70,0,101,0</INFO></NAVI>."
+			"Ao segurar a Chave Vermelha, ela magicamente aponta para uma direção a ser seguida. Vamos até o <NAVI>[local indicado]<INFO>tha_t03,70,70,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Para onde a energia guia"
+		Summary = "Chave Vermelha"
 	},
 	[17410] = {
-		Title = "Segurando a Chave Amarela",
+		Title = "Segredo da Torre",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"Ao segurar a chave amarela, ela vibra levemente e uma fraca energia pode ser sentida. Vamos at? <NAVI>[o local para onde a energia guia]<INFO>tha_t04,199,199,0,101,0</INFO></NAVI>."
+			"Ao segurar a Chave Amarela, ela magicamente aponta para uma direção a ser seguida. Vamos até o <NAVI>[local indicado]<INFO>tha_t04,199,199,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Para onde a energia guia"
+		Summary = "Chave Amarela"
 	},
 	[17411] = {
-		Title = "Segurando a Chave Azul",
+		Title = "Segredo da Torre",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"Ao segurar a chave azul, ela vibra levemente e uma fraca energia pode ser sentida. Vamos at? <NAVI>[o local para onde a energia guia]<INFO>tha_t05,62,184,0,101,0</INFO></NAVI>."
+			"Ao segurar a Chave Azul, ela magicamente aponta para uma direção a ser seguida. Vamos até o <NAVI>[local indicado]<INFO>tha_t05,62,184,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Para onde a energia guia"
+		Summary = "Chave Azul"
 	},
 	[17412] = {
-		Title = "Segurando a Chave Verde",
+		Title = "Segredo da Torre",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"Ao segurar a chave verde, ela vibra levemente e uma fraca energia pode ser sentida. Vamos at? <NAVI>[o local para onde a energia guia]<INFO>tha_t06,221,230,0,101,0</INFO></NAVI>."
+			"Ao segurar a Chave Verde, ela magicamente aponta para uma direção a ser seguida. Vamos até o <NAVI>[local indicado]<INFO>tha_t06,221,230,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Para onde a energia guia"
+		Summary = "Chave Verde"
 	},
 	[17413] = {
-		Title = "Segurando a Chave Preta",
+		Title = "Segredo da Torre",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"Ao segurar a chave preta, ela vibra levemente e uma fraca energia pode ser sentida. Vamos at? <NAVI>[o local para onde a energia guia]<INFO>tha_t06,200,181,0,101,0</INFO></NAVI>."
+			"Ao segurar a Chave Preta, ela magicamente aponta para uma direção a ser seguida. Vamos até o <NAVI>[local indicado]<INFO>tha_t06,200,181,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Para onde a energia guia"
+		Summary = "Chave Preta"
 	},
 	[17414] = {
-		Title = "O Segredo de Mem?ria de Thanatos",
+		Title = "Segredo da Torre",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"Mostre o caderno obtido a <NAVI>[Guia da Entrada]<INFO>tha_t02,231,161,0,101,0</INFO></NAVI>."
+			"Mostre o Caderno de Varmunt para Burled, o <NAVI>[Guia da Entrada]<INFO>tha_t02,231,161,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Para Guia da Entrada"
+		Summary = "Ao Guia da Entrada"
 	},
 	[17415] = {
-		Title = "Aceitar Pedido",
+		Title = "Segredo da Torre",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Voc? aceitou o pedido de Solis."
+			"Você aceitou o pedido de Solis."
 		},
-		Summary = "Aceita??o Conclu?da"
+		Summary = "Pedido aceito"
 	},
 	[17416] = {
-		Title = "Monstros do 9? Andar",
+		Title = "9º Andar de Thanatos",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"No 9? andar de Mem?ria de Thanatos, enfrente 20 Duque Corvo e 20 Bar?o Corvo. Se trouxer 10 Fragmento de Desgra?a, receber? uma recompensa adicional. - <NAVI>[Solis]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
+			"No 9º andar da Torre de Thanatos, derrote 20 Duque Corvo e 20 Barão Corvo. Se trouxer 10 Fragmento de Desgraça, receberá uma recompensa adicional. - <NAVI>[Solis]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
 		},
-		Summary = "10 Fragmento de Desgra?a"
+		Summary = "10 Fragmento de Desgraça"
 	},
 	[17417] = {
-		Title = "Monstros do 10? Andar",
+		Title = "10º Andar de Thanatos",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"No 10? andar de Mem?ria de Thanatos, enfrente 15 M?mico do Vazio, 15 Livro da Morte e 15 Primog?nito. Se trouxer 10 Fragmento de Desespero, receber? uma recompensa adicional. - <NAVI>[Solis]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
+			"No 10º andar da Torre de Thanatos, derrote 15 Mímico do Vazio, 15 Livro Morto e 15 Ancião Primitivo. Se trouxer 10 Fragmento de Desespero, receberá uma recompensa adicional. - <NAVI>[Solis]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
 		},
 		Summary = "10 Fragmento de Desespero"
 	},
 	[17418] = {
-		Title = "Monstros do 11? Andar",
+		Title = "11º Andar de Thanatos",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"No 11? andar de Mem?ria de Thanatos, enfrente 15 Empatizador e 15 Doadores de Felicidade. Se trouxer 10 Fragmento de ?dio, receber? uma recompensa adicional. - <NAVI>[Solis]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
+			"No 11º andar da Torre de Thanatos, derrote 15 Empatia e 15 Alegria. Se trouxer 10 Fragmento de Ódio, receberá uma recompensa adicional. - <NAVI>[Solis]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
 		},
-		Summary = "10 Fragmento de ?dio"
+		Summary = "10 Fragmento de Ódio"
 	},
 	[17419] = {
-		Title = "Monstros do 11? Andar",
+		Title = "Anjos em Thanatos",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"No 11? andar de Mem?ria de Thanatos, enfrente 15 Doadores de Ora??es e 15 Doadores de Sorrisos. - <NAVI>[Solis]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
+			"No 11º andar da Torre de Thanatos, derrote 15 Oração e 15 Sorriso. - <NAVI>[Solis]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
 		},
-		Summary = ""
+		Summary = "11º Andar de Thanatos"
 	},
 	[17420] = {
-		Title = "Monstros do 12? Andar",
+		Title = "12º Andar de Thanatos",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"No 12? andar de Mem?ria de Thanatos, enfrente 10 Ira de Thanatos e 10 Horror de Thanatos. Se trouxer 10 Fragmento de Agonia, receber? uma recompensa adicional. - <NAVI>[Solis]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
+			"No 12º andar da Torre de Thanatos, derrote 10 Ira de Thanatos e 10 Horror de Thanatos. Se trouxer 10 Fragmento de Agonia, receberá uma recompensa adicional. - <NAVI>[Solis]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
 		},
 		Summary = "10 Fragmento de Agonia"
 	},
 	[17421] = {
-		Title = "Monstros do 12? Andar",
+		Title = "Sentimentos de Thanatos",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"No 12? andar de Mem?ria de Thanatos, enfrente 10 Arrependimento de Thanatos e 10 Ressentimento de Thanatos. - <NAVI>[Solis]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
+			"No 12º andar da Torre de Thanatos, derrote 10 Rancor de Thanatos e 10 Lamento de Thanatos. - <NAVI>[Solis]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
 		},
-		Summary = ""
+		Summary = "12º Andar de Thanatos"
 	},
 	[17422] = {
-		Title = "Espera: Mem?ria de Thanatos 9? Andar",
+		Title = "[Espera] 9º Andar de Thanatos",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Precisamos organizar os dados, ent?o por favor volte ap?s o amanhecer. - <NAVI>[Solis]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
+			"Precisamos organizar as informações, então, por favor volte amanhã. - <NAVI>[Solis]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Reinicia ?s 04h",
+		Summary = "Reseta 4 da manhã.",
 		CoolTimeQuest = 1
 	},
 	[17423] = {
-		Title = "Espera: Mem?ria de Thanatos 10? Andar",
+		Title = "[Espera] 10º Andar de Thanatos",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Precisamos organizar os dados, ent?o por favor volte ap?s o amanhecer. - <NAVI>[Solis]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
+			"Precisamos organizar as informações, então, por favor volte amanhã. - <NAVI>[Solis]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Reinicia ?s 04h",
+		Summary = "Reseta 4 da manhã.",
 		CoolTimeQuest = 1
 	},
 	[17424] = {
-		Title = "Espera: Mem?ria de Thanatos 11? Andar",
+		Title = "[Espera] 11º Andar de Thanatos",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Precisamos organizar os dados, ent?o por favor volte ap?s o amanhecer. - <NAVI>[Solis]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
+			"Precisamos organizar as informações, então, por favor volte amanhã. - <NAVI>[Solis]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Reinicia ?s 04h",
+		Summary = "Reseta 4 da manhã.",
 		CoolTimeQuest = 1
 	},
 	[17425] = {
-		Title = "Espera: Mem?ria de Thanatos 12? Andar",
+		Title = "[Espera] 12º Andar de Thanatos",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Precisamos organizar os dados, ent?o por favor volte ap?s o amanhecer. - <NAVI>[Solis]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
+			"Precisamos organizar as informações, então, por favor volte amanhã. - <NAVI>[Solis]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Reinicia ?s 04h",
+		Summary = "Reseta 4 da manhã.",
 		CoolTimeQuest = 1
 	},
 	[17450] = {

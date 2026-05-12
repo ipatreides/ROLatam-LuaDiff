@@ -1628,8 +1628,8 @@
     "76azDA": {
         "ko": "[[긴급]변칙 균열 기술자]\n균열로 함께 들어가려면 일단 1인 파티를 만들어 주세요.",
         "en": "[Anomaly Fissure Technician]\nTo enter the fissure together, please form a 1-person party first.",
-        "pt": "[Especialista da Fenda Anômala]\nSe quiser entrar na fenda, crie no mínimo um grupo de 1 pessoa.",
-        "es": "[Especialista de la Grieta Anómala]\nSi quieres entrar en la grieta, crea un grupo de al menos 1 persona."
+        "pt": "[Especialista da Fenda Anômala]\nSe quiser entrar na fenda, crie um grupo de 1 pessoa.",
+        "es": "[Especialista de la Grieta Anómala]\nSi quieres entrar en la grieta, crea un grupo de 1 persona."
     },
     "8KazDA": {
         "ko": "문을 연다.",

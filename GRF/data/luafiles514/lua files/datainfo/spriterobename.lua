@@ -304,7 +304,14 @@ RobeNameTable = {
 	[SPRITE_ROBE_IDs.ROBE_C_B_Ninetail_Tail] = "C_B_Ninetail_Tail",
 	[SPRITE_ROBE_IDs.ROBE_C_Darklord_Aura] = "C_Darklord_Aura",
 	[SPRITE_ROBE_IDs.ROBE_C_Garmbebe_Bag] = "C_Garmbebe_Bag",
-	[SPRITE_ROBE_IDs.ROBE_Magnus_Dominus] = "Magnus_Dominus"
+	[SPRITE_ROBE_IDs.ROBE_Magnus_Dominus] = "Magnus_Dominus",
+	[SPRITE_ROBE_IDs.ROBE_C_CLB_BS_Bag_B] = "C_CLB_BS_Bag_B",
+	[SPRITE_ROBE_IDs.ROBE_C_CLB_BS_Bag_M] = "C_CLB_BS_Bag_M",
+	[SPRITE_ROBE_IDs.ROBE_C_CLB_BS_Bag_F] = "C_CLB_BS_Bag_F",
+	[SPRITE_ROBE_IDs.ROBE_C_CLB_BS_Bag_GM] = "C_CLB_BS_Bag_GM",
+	[SPRITE_ROBE_IDs.ROBE_C_CLB_BS_Bag_GF] = "C_CLB_BS_Bag_GF",
+	[SPRITE_ROBE_IDs.ROBE_C_Stylish_Arch_Quiver] = "C_Stylish_Arch_Quiver",
+	[SPRITE_ROBE_IDs.ROBE_C_Adventures_Backpack] = "C_Adventures_Backpack"
 }
 RobeNameTable_Eng = {
 	[SPRITE_ROBE_IDs.ROBE_WINGS] = "ANGEL_WINGS",
@@ -612,7 +619,14 @@ RobeNameTable_Eng = {
 	[SPRITE_ROBE_IDs.ROBE_C_B_Ninetail_Tail] = "C_B_Ninetail_Tail",
 	[SPRITE_ROBE_IDs.ROBE_C_Darklord_Aura] = "C_Darklord_Aura",
 	[SPRITE_ROBE_IDs.ROBE_C_Garmbebe_Bag] = "C_Garmbebe_Bag",
-	[SPRITE_ROBE_IDs.ROBE_Magnus_Dominus] = "Magnus_Dominus"
+	[SPRITE_ROBE_IDs.ROBE_Magnus_Dominus] = "Magnus_Dominus",
+	[SPRITE_ROBE_IDs.ROBE_C_CLB_BS_Bag_B] = "C_CLB_BS_Bag_B",
+	[SPRITE_ROBE_IDs.ROBE_C_CLB_BS_Bag_M] = "C_CLB_BS_Bag_M",
+	[SPRITE_ROBE_IDs.ROBE_C_CLB_BS_Bag_F] = "C_CLB_BS_Bag_F",
+	[SPRITE_ROBE_IDs.ROBE_C_CLB_BS_Bag_GM] = "C_CLB_BS_Bag_GM",
+	[SPRITE_ROBE_IDs.ROBE_C_CLB_BS_Bag_GF] = "C_CLB_BS_Bag_GF",
+	[SPRITE_ROBE_IDs.ROBE_C_Stylish_Arch_Quiver] = "C_Stylish_Arch_Quiver",
+	[SPRITE_ROBE_IDs.ROBE_C_Adventures_Backpack] = "C_Adventures_Backpack"
 }
 RobeTopLayer = {
 	SPRITE_ROBE_IDs.ROBE_BAG_OF_ADVENTURER,
@@ -757,6 +771,9 @@ RobeTopLayer = {
 	SPRITE_ROBE_IDs.ROBE_C_Alice_Broom,
 	SPRITE_ROBE_IDs.ROBE_C_Bloody_Murderer_Knife,
 	SPRITE_ROBE_IDs.ROBE_C_Popcorn_Bucket,
+	SPRITE_ROBE_IDs.ROBE_C_Pitaya_R_Bag,
+	SPRITE_ROBE_IDs.ROBE_C_Pitaya_B_Bag,
+	SPRITE_ROBE_IDs.ROBE_C_Pitaya_Y_Bag,
 	SPRITE_ROBE_IDs.ROBE_Stellar_Gratia,
 	SPRITE_ROBE_IDs.ROBE_C_ROS2024_Wing_1,
 	SPRITE_ROBE_IDs.ROBE_C_ROS2024_Wing_2,
@@ -814,5 +831,10 @@ RobeTopLayer = {
 	SPRITE_ROBE_IDs.ROBE_C_Darklord_Aura,
 	SPRITE_ROBE_IDs.ROBE_C_Garmbebe_Bag,
 	SPRITE_ROBE_IDs.ROBE_Magnus_Dominus,
-	SPRITE_ROBE_IDs.ROBE_C_Pitaya_R_Bag
+	SPRITE_ROBE_IDs.ROBE_C_CLB_BS_Bag_B,
+	SPRITE_ROBE_IDs.ROBE_C_CLB_BS_Bag_M,
+	SPRITE_ROBE_IDs.ROBE_C_CLB_BS_Bag_GM,
+	SPRITE_ROBE_IDs.ROBE_C_CLB_BS_Bag_GF,
+	SPRITE_ROBE_IDs.ROBE_C_Stylish_Arch_Quiver,
+	SPRITE_ROBE_IDs.ROBE_C_Adventures_Backpack
 }

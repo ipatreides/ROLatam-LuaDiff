@@ -45,7 +45,7 @@
         "ko": "저.. 선생님 여기 있으시면 위험해요.",
         "en": "Erm, sir. You shouldn't be here. It's too dangerous.",
         "pt": "Olha... professor, é perigoso você ficar aqui.",
-        "es": "Oye... profesor, es peligroso que te quedes aquí."
+        "es": "Este... Disculpe, maestro, es peligroso que esté aquí."
     },
     "qI9zDA": {
         "ko": "- 어르신은 무심하게\n- 나를 보았을 뿐이지만, 어르신에게\n- 알 수 없는 끌림이 느껴졌다.",
@@ -69,7 +69,7 @@
         "ko": "[{0}]\n저.. 어르신? 약주도 많이 하신 것 같고, 여기 절벽은 위험하니까 다른 곳으로 가셔서 쉬시는 게 어떨까요?",
         "en": "[{0}]\nErm, sir? It seems you've had too much to drink, and you're standing on a cliff. Why don't we go somewhere else? I mean somewhere safer.",
         "pt": "[{0}]\nOi... senhor? Parece que o senhor bebeu bastante, e como este penhasco é perigoso, que tal ir para outro lugar descansar?",
-        "es": "[{0}]\nOye... ¿señor? Parece que has bebido bastante, y este acantilado es peligroso, ¿qué tal si te vas a otro lugar a descansar?"
+        "es": "[{0}]\nOye... ¿señor? \nParece que has bebido bastante, y este acantilado es peligroso, ¿qué tal si te vas a otro lugar a descansar?"
     },
     "rI9zDA": {
         "ko": "- 노인은 아무런 말없이\n- 나를 그저 바라보았다.\n- 뭐지? 내 밑바닥까지 꿰뚫어\n- 보는 것 같은 기분은?",
@@ -87,13 +87,13 @@
         "ko": "[술 취한 노인]\n젊은 친구가 괜한 오지랖을 부리는 군.",
         "en": "[Drunk Old Man]\nYou're one nosy youngster.",
         "pt": "[Ancião bêbado]\nO jovem está se intrometendo à toa.",
-        "es": "[Anciano borracho]\nJoven, te estás metiendo donde no te incumbe."
+        "es": "[Anciano borracho]\nEres un joven muy metiche."
     },
     "r49zDA": {
         "ko": "[술 취한 노인]\n젊은 친구가 걱정하는 것보다는 괜찮 다네, 그저..",
         "en": "[Drunk Old Man]\nI'm fine. I just...",
         "pt": "[Ancião bêbado]\nTudo bem, não precisa se preocupar, jovem...",
-        "es": "[Anciano borracho]\nNo pasa nada, no te preocupes, joven, solo..."
+        "es": "[Anciano borracho]\nEstoy bien. Es solo que..."
     },
     "sI9zDA": {
         "ko": "[술 취한 노인]\n내가 나고 자란 이 마을의 추억을 되새기기 위해 둘러보고 있었을 뿐이지.",
@@ -105,25 +105,25 @@
         "ko": "주제넘게 죄송합니다.",
         "en": "Sorry for being nosy.",
         "pt": "Desculpa pela intromissão.",
-        "es": "Perdón por meterme donde no me llaman."
+        "es": "Perdón por ser tan metiche."
     },
     "so9zDA": {
         "ko": "[술 취한 노인]\n허허허.. 보아하니 화살 밥 먹고 사는 젊은이 같은데, 바람 같이 자유로운 삶과 뒤따르는 오지랖은 떼낼 수 없는 운명과도 같지.",
         "en": "[Drunk Old Man]\nHah hah hah. You look like an archer. It seems such a carefree life and nosiness go hand in hand.",
         "pt": "[Ancião bêbado]\nHahaha... Pelo que vejo, você parece um jovem que vive de ventos e nuvens; uma vida livre como o vento e a intromissão que vem junto são como um destino inescapável.",
-        "es": "[Anciano borracho]\nJajaja... Por lo que veo, eres de esos jóvenes que viven al día; una vida libre como el viento y la intromisión que la acompaña son como un destino ineludible."
+        "es": "[Anciano borracho]\nJajaja... \nPor lo que veo, eres de esos jóvenes que viven al día; una vida libre como el viento y la intromisión que la acompaña son como un destino ineludible."
     },
     "s49zDA": {
         "ko": "- 말을 마친 노인은\n- 오랫동안 나를 빤히 바라보더니\n- 말을 꺼냈다.",
         "en": "- After finishing his words,\n- the old man stared at me for a long time.\n- He then asked,",
         "pt": "- Depois de terminar de falar, o velho\n- ficou me olhando fixamente por um bom tempo\n- e então começou a falar.",
-        "es": "- Tras terminar de hablar, el anciano\n- me miró fijamente durante un buen rato\n- y luego dijo:"
+        "es": "- Tras dejar de hablar, el anciano\n- me miró fijamente durante un largo rato\n- y luego comenzó a hablar."
     },
     "tI9zDA": {
         "ko": "[술 취한 노인]\n젊은이는 오랫동안 성장이 정체되어 있어 조급해하는 것 같군. 아닌가, 젊은이?",
         "en": "[Drunk Old Man]\nYou seem frustrated because your growth has stagnated for so long. Am I wrong, young man?",
         "pt": "[Ancião bêbado]\nParece que o jovem está impaciente porque seu crescimento está estagnado há muito tempo. Não é, jovem?",
-        "es": "[Anciano borracho]\nParece que estás impaciente porque tu crecimiento se ha estancado hace tiempo, joven. ¿No es así, joven?"
+        "es": "[Anciano borracho]\nParece que estás impaciente porque tu crecimiento se ha estancado hace tiempo.\n¿No es así, joven?"
     },
     "tY9zDA": {
         "ko": "네, 그렇습니다.",
@@ -135,61 +135,61 @@
         "ko": "[{0}]\n네, 그렇습니다. 저는 멈춰 있는데, 다들 저보다 앞서 나가는 것 같고..",
         "en": "[{0}]\nYes, that's right. I feel like I'm stuck, while everyone else is moving ahead of me...",
         "pt": "[{0}]\nSim, é verdade. Eu parei no mesmo lugar, mas parece que todo mundo está indo à minha frente...",
-        "es": "[{0}]\nSí, así es. Yo me siento estancado, mientras que todos parecen irme adelantando..."
+        "es": "[{0}]\nSí, es cierto. \nSiento que me he quedado estancado mientras todos los demás avanzan más rápido que yo..."
     },
     "t49zDA": {
         "ko": "[술 취한 노인]\n조급해하지 말게, 조급해하면 더 뒤처지게 될 뿐.. 아! 그렇지 내 젊을 때 이야기를 해주지. 혹시 아는가? 젊은이가 가야 할 길을 깨닫게 될지?",
         "en": "[Drunk Old Man]\nDon't be impatient. The more impatient you are, the harder it will be to catch up with them. Oh, how about I tell you about myself when I was young? Who knows? Maybe you'll realize the path a young person should take?",
         "pt": "[Ancião bêbado]\nNão fique impaciente, se ficar impaciente só vai ficar ainda mais para trás... Ah! É verdade, vou te contar uma história da minha juventude. Quem sabe? Talvez você perceba o caminho que deve seguir?",
-        "es": "[Anciano borracho]\nNo te impacientes, si te impacientes solo te quedarás más atrás... ¡Ah! Ya sé, te contaré una historia de cuando yo era joven. ¿Quién sabe? ¿Quizás te ayude a darte cuenta del camino que debes seguir?"
+        "es": "[Anciano borracho]\nNo te apresures, si lo haces, solo terminarás quedándote más atrás... \n¡Ah!\nYa sé, te contaré una historia de cuando era joven. \n¿Quién sabe? \nTal vez te ayude a encontrar tu propio camino."
     },
     "uI9zDA": {
         "ko": "[술 취한 노인]\n그래, 그 이야기부터 하는 것이 좋겠군.",
         "en": "[Drunk Old Man]\nYes... I think I know where to start.",
         "pt": "[Ancião bêbado]\nÉ, é melhor começar por essa história.",
-        "es": "[Anciano borracho]\nSí, mejor empiezo por esa historia."
+        "es": "[Anciano borracho]\nSi, seriá mejor que empiece por esa historia."
     },
     "uY9zDA": {
         "ko": "- 너무 노인의 눈동자를 바라보고\n- 있던 걸까? 노인의 눈동자를\n- 스친 슬픔에 나까지 슬퍼지는\n- 기분이다.",
         "en": "- Maybe I was looking into his eyes\n- for too long. The sadness\n- in them was affecting me\n- more than I could bear.",
         "pt": "- Será que fiquei olhando demais\n- nos olhos do velho? A tristeza\n- que passei pelos olhos dele\n- me deixou triste também.",
-        "es": "- ¿Estaba mirando demasiado fijamente\n- a los ojos del anciano? La tristeza\n- que se refleja en sus ojos\n- me hace sentir triste a mí también."
+        "es": "- ¿Habré estado mirando demasiado a los ojos del anciano?\n- Al ver la tristeza que cruzó por su mirada,\n- siento como si yo también\n- me estuviera poniendo triste."
     },
     "uo9zDA": {
         "ko": "[술 취한 노인]\n난 어릴 적 겁쟁이였지만, 페이욘 출신의 대다수가 그렇듯 이끌리듯 자연스럽게 화살 밥을 먹게 되었지.",
         "en": "[Drunk Old Man]\nWhen I was young, I was a coward. But like everyone else who grew up in Payon, I became an archer.",
         "pt": "[Ancião bêbado]\nEu era um covarde quando era jovem, mas, como a maioria dos que vêm de Payon, acabei me tornando um alvo fácil, como se fosse algo natural.",
-        "es": "[Anciano borracho]\nDe joven era un cobarde, pero, como la mayoría de los de Payon, acabé recibiendo flechazos de forma natural, como si me llevaran de la mano."
+        "es": "[Anciano borracho]\nCuando era joven era un cobarde, pero como la mayoría de los que nacen en Payon, terminé viviendo de la arquería de forma natural, como si fuera mi destino."
     },
     "u49zDA": {
         "ko": "[술 취한 노인]\n그래, 확실히 나 스스로 화살 밥을 먹은 건 아니었던 것 같아. 더 강해지려는 의지도 노력도 없이 하루하루 살아갈 뿐인 평범한 겁쟁이였지.",
         "en": "[Drunk Old Man]\nYeah, I definitely didn't choose to become an archer myself. I was just a coward, living day by day without any will or effort to get stronger.",
         "pt": "[Ancião bêbado]\nÉ, com certeza não foi por minha própria escolha que me tornei um arqueiro. Eu era apenas um covarde comum, vivendo um dia após o outro sem vontade nem esforço para me tornar mais forte.",
-        "es": "[Anciano borracho]\nSí, la verdad es que no parece que me haya convertido en arquero por mi propia voluntad. Era un cobarde cualquiera que solo vivía el día a día, sin voluntad ni esfuerzo por ser más fuerte."
+        "es": "[Anciano borracho]\nSí, la verdad es que yo tampoco elegí convertirme en arquero. \nSolo era un cobarde que vivía al día, sin ganas ni ganas de hacer ningún esfuerzo por hacerme más fuerte."
     },
     "vI9zDA": {
         "ko": "[술 취한 노인]\n그래도 경험과 시간이란 존재는 겁쟁이인 나를 바꿔 놓더군. 마음을 나누는 동료도 생겼고 그 친구들에게 명궁이라 인정도 받게 되었지.",
         "en": "[Drunk Old Man]\nBut time and experience can change even the most cowardly of hearts. Eventually, I'd make friends with good people and earned their recognition as a decent archer.",
         "pt": "[Ancião bêbado]\nMesmo assim, a experiência e o tempo acabaram mudando esse covarde que eu era. Ganhei companheiros com quem compartilhava meus sentimentos e passei a ser reconhecido por eles como um arqueiro habilidoso.",
-        "es": "[Anciano borracho]\nPero la experiencia y el tiempo acabaron cambiándome a mí, el cobarde. Hice amigos con quienes compartía mis pensamientos y ellos me reconocieron como un arquero experto."
+        "es": "[Anciano borracho]\nAun así, la experiencia y el tiempo acabaron cambiando al cobarde que yo era. \nGané compañeros con quienes compartía mis sentimientos y pasé a ser reconocido por ellos como un arquero habilidoso."
     },
     "vY9zDA": {
         "ko": "[술 취한 노인]\n겁쟁이였던 내게 웃기게도 자만심이라는 마음이 생겼던 것 같아. 자만심이 끝에 다 달았을 그때 처음 동료를 잃었지. 자만했던 내게는 큰 충격이었어.",
         "en": "[Drunk Old Man]\nFunnily enough, I became arrogant. And when my arrogance reached its peak, I lost a comrade for the first time. It was shocking.",
         "pt": "[Ancião bêbado]\nCuriosamente, parece que surgiu em mim, que era um covarde, um sentimento chamado arrogância. Foi quando a arrogância chegou ao auge que perdi meu primeiro companheiro. Para mim, que estava cheio de arrogância, foi um grande choque.",
-        "es": "[Anciano borracho]\nCuriosamente, a mí, que era un cobarde, se me metió en la cabeza la arrogancia. Justo cuando mi arrogancia estaba por las nubes, perdí a mi primer compañero. Para mí, que estaba tan engreído, fue un golpe muy duro."
+        "es": "[Anciano borracho]\nResulta gracioso que incluso yo, siendo un cobarde, terminara volviéndome engreído. \nFue justo cuando mi arrogancia llegó al límite que perdí a mi primer compañero. \nPara alguien tan soberbio como yo, aquello fue un golpe devastador."
     },
     "vo9zDA": {
         "ko": "[술 취한 노인]\n내 실력이면 어떤 상황에도 동료를 지킬 수 있다고 생각했거든. 내 교만과 실수 때문에 동료를 잃은 것 같아 힘들었지, 하지만 나만 힘든 건 아니었을 거야.",
         "en": "[Drunk Old Man]\nI thought my skills could protect my comrades in any situation. It was hard knowing I lost a comrade because of my arrogance and mistakes, but I wasn't the only one who suffered that day.",
         "pt": "[Ancião bêbado]\nEu achava que, com a minha habilidade, poderia proteger meus companheiros em qualquer situação. Foi difícil perder um companheiro por causa da minha arrogância e do meu erro, mas não devo ter sido o único a sofrer.",
-        "es": "[Anciano borracho]\nPensaba que, con mi habilidad, podría proteger a mis compañeros en cualquier situación. Fue duro perder a un compañero por mi arrogancia y mi error, pero seguro que no fui el único que lo pasó mal."
+        "es": "[Anciano borracho]\nPensaba que con mi habilidad podría proteger a mis compañeros en cualquier situación. \nFue difícil porque sentía que los había perdido debido a mi soberbia y mis errores, pero estoy seguro de que no fui el único que sufrió."
     },
     "v49zDA": {
         "ko": "[술 취한 노인]\n동료는 나만 잃었던 게 아니었지 남은 동료들도 동료를 잃었던 거야. 그 일이 있은 후 나는 다시 겁쟁이가 되어 나만 아는 <B>비밀장소</B>에 은둔했네.",
         "en": "[Drunk Old Man]\nI wasn't the only one who lost a friend that day. The others in my party lost friends too. After that, I became a coward again. I hid in my <B>secret place</B>.",
         "pt": "[O velho bêbado]\nNão fui só eu que perdi um companheiro; os outros também perderam os seus. Depois daquilo, voltei a ser um covarde e me escondi num <B>lugar secreto</B> que só eu conhecia.",
-        "es": "[Anciano borracho]\nNo fui el único que perdió a un compañero; los demás también perdieron a los suyos. Después de eso, volví a ser un cobarde y me escondí en un <B>lugar secreto</B> que solo yo conocía."
+        "es": "[Anciano borracho]\nLos demás también perdieron a un compañero, no fui solo yo. Después de aquello, volví a ser un cobarde y me recluí en un <B>lugar secreto</B> que solo yo conocía."
     },
     "wI9zDA": {
         "ko": "비밀 장소요?",
@@ -201,19 +201,19 @@
         "ko": "[술 취한 노인]\n허허허 젊은 시절 정말 우연한 계기로 발견한 장소였지. 입구에 있는 <B>개구리 모양의 돌</B>을 <B>동쪽</B>으로 돌려야만 그곳으로 갈 수 있는 장소였지..",
         "en": "[Drunk Old Man]\nHah hah hah. Yes. I accidentally discovered that place when I was young. It had a <B>frog-shaped stone</B> by the entrance that must be turned <B>eastward</B> to enter.",
         "pt": "[Ancião bêbado]\nHahaha, foi um lugar que descobri por mero acaso na minha juventude. Era um lugar onde só se podia chegar se girasse a <B>pedra em forma de sapo</B> que fica na entrada para o <B>lado leste</B>...",
-        "es": "[Anciano borracho]\nJe, je, je. Fue un lugar que descubrí por casualidad en mi juventud. Solo se podía llegar allí si girabas la <B>piedra con forma de rana</B> que hay en la entrada hacia el <B>este</B>..."
+        "es": "[Anciano borracho]\nJe, je, je... fue un lugar que descubrí por pura casualidad en mi juventud. \nSolo podías llegar allí girando hacia <B>el este</B> la <B>piedra en forma de rana</B> que estaba en la entrada."
     },
     "wo9zDA": {
         "ko": "[술 취한 노인]\n이런 내가 엉뚱한 말을 꺼냈군.",
         "en": "[Drunk Old Man]\nOops, sorry, I got sidetracked.",
         "pt": "[Ancião bêbado]\nNossa, acabei falando bobagem.",
-        "es": "[Anciano borracho]\nVaya, se me ha escapado una tontería."
+        "es": "[Anciano borracho]\nVaya, parece que me he desviado del tema y he terminado diciendo tonterías."
     },
     "w49zDA": {
         "ko": "[술 취한 노인]\n그 당시의 나는 두려웠고 비겁했지. 오직 나만 생각하고 있었어. 갑작스러운 내 은둔으로 인해 동료들은 그렇게 뿔뿔이 흩어지고 말았네.",
         "en": "[Drunk Old Man]\nBack then, I was scared and cowardly. I only thought about myself. Because of my sudden disappearance, my companions had no choice but to scatter and go their separate ways.",
         "pt": "[Ancião bêbado]\nNaquela época, eu estava com medo e era covarde. Só pensava em mim mesmo. Por causa do meu desaparecimento repentino, meus companheiros acabaram se espalhando por todos os lados.",
-        "es": "[Anciano borracho]\nEn aquel entonces, yo era un cobarde y tenía miedo. Solo pensaba en mí mismo. Mi repentina huida hizo que mis compañeros se dispersaran por todas partes."
+        "es": "[Anciano borracho]\nEn aquel entonces tenía miedo y era un cobarde. \nSolo pensaba en mí mismo. \nDebido a mi repentino retiro, mis compañeros terminaron dispersándose de esa manera."
     },
     "xI9zDA": {
         "ko": "지금 동료들은 어떻게 지내나요?",
@@ -225,7 +225,7 @@
         "ko": "[술 취한 노인]\n연락 끊어진 친구들도 있기는 하지만, 다들 잘 먹고 잘산다네. 나 때문이 아니었대도 다들 사는 데 별문제는 없었을 거야.",
         "en": "[Drunk Old Man]\nI've lost touch with some of them, but I know all of them are doing just fine. It's not like they depended on me for their living.",
         "pt": "[Ancião bêbado]\nEmbora tenha perdido contato com alguns amigos, todos estão bem e vivendo bem. Mesmo que não fosse por minha causa, acho que todos teriam vivido sem grandes problemas.",
-        "es": "[Anciano borracho]\nAunque hay algunos amigos con los que perdí el contacto, todos viven bien y comen bien. Aunque no hubiera sido por mí, supongo que a todos les habría ido bien de todos modos."
+        "es": "[Anciano borracho]\nAunque hay amigos con los que perdí el contacto, a todos les va bien en la vida. \nIncluso si no hubiera sido por mi culpa, probablemente ninguno habría tenido problemas para seguir adelante."
     },
     "xo9zDA": {
         "ko": "[술 취한 노인]\n어디에 내놔도 실력이 떨어지지는 않는 친구들이었으니..",
@@ -243,7 +243,7 @@
         "ko": "[술 취한 노인]\n다 늙어서는 조금 그립기는 하군, 특히 그때 잃은 친구가 가장 그리워. 그래도",
         "en": "[Drunk Old Man]\nI do miss them a little bit in my old age. I missed the friend I lost most of all. Still,",
         "pt": "[Ancião bêbado]\nAgora que estamos todos velhos, sinto um pouco de saudade, principalmente daquele amigo que perdemos naquela época. Mas mesmo assim",
-        "es": "[Anciano borracho]\nAhora que todos estamos viejos, sí que los extraño un poco, sobre todo al amigo que perdí en ese entonces. Aun así"
+        "es": "[Anciano borracho]\nA mi edad, los extraño un poco, especialmente al amigo que perdí en aquel entonces.\nAun así..."
     },
     "yY9zDA": {
         "ko": "[술 취한 노인]\n<B>루루카 숲</B>, 그래 그 포근한 바람 가득한 그 곳에서 수련을 할 때는 그립다는 생각은 하지 못했던 것 같아.",
@@ -255,7 +255,7 @@
         "ko": "[술 취한 노인]\n정말 걱정없이 수련만 했다네. 그때의 수련 덕분에 간질간질하던 바람도 다루게 되었고 다시 일어설 수 있는 용기도 얻게 되었지.",
         "en": "[Drunk Old Man]\nI trained without a single worry. Thanks to that training, I learned to command the wind's power and regained the courage to face the world again.",
         "pt": "[Ancião bêbado]\nEu treinava sem nenhuma preocupação. Graças ao treino daquela época, aprendi a controlar até mesmo a brisa mais leve e ganhei coragem para me levantar de novo.",
-        "es": "[Anciano borracho]\nMe dedicaba solo al entrenamiento, sin preocupaciones. Gracias a ese entrenamiento, aprendí a controlar ese viento que me hacía cosquillas y gané el valor para volver a levantarme."
+        "es": "[Anciano borracho]\nMe dedicaba solo al entrenamiento, sin preocupaciones.\nGracias a ese entrenamiento, aprendí a controlar ese viento que me hacía cosquillas y gané el valor para volver a levantarme."
     },
     "y49zDA": {
         "ko": "[술 취한 노인]\n... ... ... ... ... ...",
@@ -297,7 +297,7 @@
         "ko": "- 방금 무엇인가 본 것 같은데?\n- 잘못 봤겠지?\n- 어르신이 수련했다는 장소에\n- 한번 가볼까? 어디라고 하셨지?",
         "en": "- I think I just saw something?\n- Must have been my imagination.\n- Maybe I should go check out\n- the place he said he used to train. Where did he say it was?",
         "pt": "- Acho que vi alguma coisa agora há pouco?\n- Devo ter visto mal, né?\n- Será que vou dar uma passada\n- no lugar onde o senhor dizia ter treinado? Onde é mesmo que ele disse?",
-        "es": "- ¿Me parece que acabo de ver algo?\n- ¿Me habré equivocado?\n- ¿Vamos a visitar el lugar\n- donde el anciano practicaba? ¿Dónde dijo que era?"
+        "es": "- ¿Me ha parecido ver algo hace un momento?\n- ¿Me habré equivocado?\n- ¿Debería ir al lugar donde dijo el anciano que entrenaba?\n- ¿Dónde dijo que era?"
     },
     "0o9zDA": {
         "ko": "리리카 숲",
@@ -405,7 +405,7 @@
         "ko": "- 그래! 개구리 모양의 돌!!\n- 돌을 무슨 방향으로 움직이면,\n- 가는 길이 열린다고 했지?",
         "en": "- Yes! A frog-shaped stone!!\n- In which direction should I -\n- turn it to open the entrance? -",
         "pt": "- É isso! Uma pedra em forma de sapo!!\n- Disseram que, se a gente mover a pedra pra qual direção,\n- o caminho se abre, né?",
-        "es": "- ¡Sí! ¡Una piedra con forma de rana!!\n- ¿Dijiste que si movías la piedra en cierta dirección,\n- se abriría el camino?"
+        "es": "- ¡Sí! ¡Una piedra con forma de rana!!\n- ¿Dijo que si lo movía la piedra en cierta dirección,\n- se abriría el camino?"
     },
     "5I9zDA": {
         "ko": "동쪽",
@@ -483,7 +483,7 @@
         "ko": "으악! 깜짝이야! 진짜 개구리잖아!",
         "en": "Wah! Geez! It's a real frog!",
         "pt": "Eca! Que susto! É um sapo de verdade!",
-        "es": "¡Ay! ¡Qué susto! ¡Pero si es una rana de verdad!"
+        "es": "¡Aaah! ¡Qué susto! ¡Es una rana de verdad!"
     },
     "8Y9zDA": {
         "ko": "다른 돌인가 본데?",
@@ -561,19 +561,19 @@
         "ko": "서쪽으로 돌린다.",
         "en": "Turn westward.",
         "pt": "Giro para o oeste.",
-        "es": "La giras hacia el oeste."
+        "es": "Giro hacia el oeste."
     },
     "/o9zDA": {
         "ko": "남쪽으로 돌린다.",
         "en": "Turn southward.",
         "pt": "Gira para o sul.",
-        "es": "La giras hacia el sur."
+        "es": "Giro hacia el sur."
     },
     "/49zDA": {
         "ko": "북쪽으로 돌린다.",
         "en": "Turns northward.",
         "pt": "Giro para o norte.",
-        "es": "La giras hacia el norte."
+        "es": "Giro hacia el norte."
     },
     "AJBzDA": {
         "ko": "로빈님이 길이 열리는 방식을 바꿔 둔 걸까? 아무런 일도 일어나지 않는다.",
@@ -651,7 +651,7 @@
         "ko": "아! 야야! 돌에 손톱을 부딪쳤다.",
         "en": "Ah! Ow, ow! I hit my nail on the stone!",
         "pt": "Ah! Ei, ei! Bati a unha na pedra.",
-        "es": "¡Ay! ¡Ay! Me golpeé la uña con la piedra."
+        "es": "¡Ah! ¡Ay, ay! Me pegué con la uña en una piedra."
     },
     "DZBzDA": {
         "ko": "으흠.. 이곳은 혼자 파티를 맺고 도전해야 할 것 같은데?",
@@ -687,121 +687,121 @@
         "ko": "오두막의 주인",
         "en": "Cabin Owner",
         "pt": "O dono da cabana",
-        "es": "El dueño de la cabaña"
+        "es": "El Dueño de la Cabaña"
     },
     "E5BzDA": {
         "ko": "[오두막의 주인]\n이제야 나왔군. 이거 기다리다가 활시위 다 닳아 없어질 뻔 했다고.",
         "en": "[Cabin Owner]\nFinally, you came out. Man, I thought I was going to die waiting for you.",
         "pt": "[Dono da Cabana]\nFinalmente apareceste. Estava quase a ficar sem corda de arco de tanto esperar.",
-        "es": "[El dueño de la cabaña]\nPor fin saliste. Estaba a punto de desgastar la cuerda del arco de tanto esperar."
+        "es": "[El Dueño de la Cabaña]\nPor fin saliste. \nEstaba a punto de desgastar la cuerda del arco de tanto esperar."
     },
     "FJBzDA": {
         "ko": "[오두막의 주인]\n우리가 아까 어디까지 이야기했지?",
         "en": "[Cabin Owner]\nWhere were we?",
         "pt": "[Dono da cabana]\nAté onde a gente tinha conversado mesmo?",
-        "es": "[El dueño de la cabaña]\n¿Hasta dónde habíamos llegado?"
+        "es": "[El Dueño de la Cabaña]\n¿Hasta dónde habíamos llegado?"
     },
     "FZBzDA": {
         "ko": "[오두막의 주인]\n아- 그래, 그래 평범한 활 쟁이가 아니라고 했었지? 이 숲이 그렇게 만만한 숲이 아니야.",
         "en": "[Cabin Owner]\nAh—yes, yes. You said you're no ordinary archer? This forest is not as innocent as it looks.",
         "pt": "[Dono da cabana]\nAh, sim, sim. Eu disse que você não era um arqueiro comum, não é? Esta floresta não é tão fácil assim.",
-        "es": "[El dueño de la cabaña]\nAh, sí, sí, te dije que no eres un arquero cualquiera, ¿no? Este bosque no es tan fácil de lo que parece."
+        "es": "[El Dueño de la Cabaña]\nAh, sí, sí, te dije que no eres un arquero cualquiera, ¿no? \nEste bosque no es tan fácil de lo que parece."
     },
     "FpBzDA": {
         "ko": "[오두막의 주인]\n내가 동물들이나 돌아다니라고 만들어둔 통로였지만, 친구가 그 자리에 대충 만든 함정들에 동물들이 걸렸지? 왜 그런지 알아?",
         "en": "[Cabin Owner]\nI set up those paths for the animals to wander, but you set up traps along the animal trails I'd created. Even though they weren't good, they still managed to catch some animals, right? Do you know why?",
         "pt": "[O dono da cabana]\nEu tinha feito aqueles caminhos para os animais passarem, mas eles acabaram caindo nas armadilhas que o seu amigo montou ali, não é? Sabe por quê?",
-        "es": "[El dueño de la cabaña]\nYo había hecho esos pasillos para que los animales pudieran pasar, pero tus amigos pusieron trampas improvisadas ahí y los animales cayeron en ellas, ¿no? ¿Sabes por qué?"
+        "es": "[El Dueño de la Cabaña]\nYo había hecho esos pasillos para que los animales pudieran pasar, pero tus amigos pusieron trampas improvisadas ahí y los animales cayeron en ellas, ¿no? \n¿Sabes por qué?"
     },
     "F5BzDA": {
         "ko": "[오두막의 주인]\n숲의 바람에게 인정받지 못했기 때문이야. 그 숲에서 숲과 바람에게 인정받지 못한 생명체는 어떻게든 해를 입거든.",
         "en": "[Cabin Owner]\nBecause those animals weren't acknowledged by the forest's wind. Any creature that fails to gain the recognition of that forest and its wind is harmed without exception.",
         "pt": "[Dono da cabana]\nPorque não foram reconhecidos pelo vento da floresta. Naquela floresta, qualquer ser vivo que não seja reconhecido pela floresta e pelo vento acaba sofrendo algum dano.",
-        "es": "[El dueño de la cabaña]\nPorque no lo aceptó el viento del bosque. En ese bosque, cualquier ser vivo que no sea aceptado por el bosque y el viento acaba sufriendo algún daño."
+        "es": "[El Dueño de la Cabaña]\nPorque no lo aceptó el viento del bosque. \nEn ese bosque, cualquier ser vivo que no sea aceptado por el bosque y el viento acaba sufriendo algún daño."
     },
     "GJBzDA": {
         "ko": "[오두막의 주인]\n그런 어마어마한 숲에서 살아남았다는 거는 결코! 평범한 자가 아니라는 거지.",
         "en": "[Cabin Owner]\nIn that sense, you're extraordinary. You've survived in that dreadful forest for so many days!",
         "pt": "[Dono da cabana]\nO fato de ter sobrevivido a uma floresta tão gigantesca significa que você não é, de jeito nenhum, uma pessoa comum.",
-        "es": "[El dueño de la cabaña]\n¡El hecho de que hayas sobrevivido en un bosque tan enorme significa que no eres, de ninguna manera, alguien común y corriente!"
+        "es": "[El Dueño de la Cabaña]\n¡El hecho de que hayas sobrevivido en un bosque tan enorme significa que no eres, de ninguna manera, alguien común y corriente!"
     },
     "GZBzDA": {
         "ko": "[오두막의 주인]\n비록 띨빵하게 남의 집에 와서 사고를 당해 감금당했지만, 살아남은 거에 대해서는 자부심을 가져도 좋아. 그만큼 힘든 일을 해낸 거니까.",
         "en": "[Cabin Owner]\nEven though you got locked up here after sneaking into someone else's house and causing trouble, you should be proud of surviving. It's a tough feat to accomplish.",
         "pt": "[Dono da cabana]\nMesmo que tenhas vindo sem noção para a casa de outra pessoa, sofrido um acidente e sido preso, podes ter orgulho de ter sobrevivido. Afinal, superaste uma situação bem difícil.",
-        "es": "[El dueño de la cabaña]\nAunque hayas venido a la casa de otro como un tonto, hayas tenido un accidente y te hayan encerrado, puedes estar orgulloso de haber sobrevivido. Porque lograste algo muy difícil."
+        "es": "[El Dueño de la Cabaña]\nAunque hayas venido a la casa de otro como un tonto, hayas tenido un accidente y te hayan encerrado, puedes estar orgulloso de haber sobrevivido. \nPorque lograste algo muy difícil."
     },
     "GpBzDA": {
         "ko": "[오두막의 주인]\n따-악! 보니까? 더 강해지지 못하고 정체되어 있는 상태지? 그래서 제안을 하나 할까 하는데.",
         "en": "[Cabin Owner]\nBy the looks of you, you're frustrated because you can't grow as quickly as you'd like, aren't you? I've got a proposition for you.",
         "pt": "[Dono da Cabana]\nTch-tch! Olha só? Você tá estagnado, sem conseguir ficar mais forte, né? Por isso, tô pensando em te fazer uma proposta.",
-        "es": "[El dueño de la cabaña]\n¡Tachán! ¿Lo ves? Estás estancado, sin poder volverte más fuerte, ¿no? Por eso, me gustaría hacerte una propuesta."
+        "es": "[El Dueño de la Cabaña]\n¡Tachán! \n¿Lo ves? \nEstás estancado, sin poder volverte más fuerte, ¿no? \nPor eso, me gustaría hacerte una propuesta."
     },
     "G5BzDA": {
         "ko": "[오두막의 주인]\n나를 따라 윈드 호크가 되어 보는 건 어때? 뭐 이미 벽을 앞에 둔 아슬아슬한 상태라 그리 오래 걸리지도 않을 거 같고.",
         "en": "[Cabin Owner]\nHow'd you like to become a Wind Hawk, just like me? That shouldn't take long since you've already reached the limits of your current job.",
         "pt": "[Dono da Cabana]\nQue tal virar um Wind Hawk comigo? Bom, já que você tá quase batendo no limite, acho que não vai demorar muito.",
-        "es": "[El dueño de la cabaña]\n¿Qué tal si me sigues y te conviertes en un Wind Hawk? Bueno, ya que estás al borde de un precipicio, no creo que te lleve mucho tiempo."
+        "es": "[El Dueño de la Cabaña]\n¿Qué tal si me sigues y te conviertes en un Cazavientos? \nBueno, ya que estás al borde de un precipicio, no creo que te lleve mucho tiempo."
     },
     "HJBzDA": {
         "ko": "[오두막의 주인]\n숲의 인정을 받은 친구니까 내가 약간의 코치만 해주면, 금방 벽을 넘어설 것 같거든.",
         "en": "[Cabin Owner]\nSince you've earned the forest's recognition, I just need to give you a little coaching to help you break through that wall in front of you.",
         "pt": "[Dono da Cabana]\nComo você é um amigo reconhecido pela floresta, acho que, com um pouco de orientação minha, você vai superar esse obstáculo rapidinho.",
-        "es": "[El dueño de la cabaña]\nComo eres un amigo reconocido por el bosque, creo que con un poco de mi ayuda como entrenador, superarás ese obstáculo en un santiamén."
+        "es": "[El Dueño de la Cabaña]\nComo eres un amigo reconocido por el bosque, creo que con un poco de mi ayuda como entrenador, superarás ese obstáculo en un santiamén."
     },
     "HZBzDA": {
         "ko": "[{0}]\n윈드 호크가 더 강해질 수 있는 길이라면, 얼마든 지요.",
         "en": "[{0}]\nIf it's the path for Wind Hawk to become stronger, I'm all for it.",
         "pt": "[{0}]\nSe for o caminho para o Wind Hawk ficar mais forte, claro que sim.",
-        "es": "[{0}]\nSi es el camino para que Wind Hawk se vuelva más fuerte, lo haré sin dudarlo."
+        "es": "[{0}]\nSi es el camino para que cazavientos se vuelva más fuerte, lo haré sin dudarlo."
     },
     "HpBzDA": {
         "ko": "[오두막의 주인]\n좋아, 좋아! 사실 거절하면 어쩌나 걱정을 1그램정도 했거든. 자자 자세부터 잡아볼까?",
         "en": "[Cabin Owner]\nAlright, alright! Truth be told, I was a tiny bit worried you might refuse. Come on, let's start with your stance.",
         "pt": "[Dono da Cabana]\nÓtimo, ótimo! Na verdade, fiquei com um pouquinho de medo de que você fosse recusar. Vamos lá, vamos começar pela postura?",
-        "es": "[El dueño de la cabaña]\n¡Genial, genial! La verdad es que me preocupaba un poquito que me dijeras que no. Vamos, ¿empezamos por la postura?"
+        "es": "[El Dueño de la Cabaña]\n¡Genial, genial! \nLa verdad es que me preocupaba un poquito que me dijeras que no. Vamos, ¿empezamos por la postura?"
     },
     "H5BzDA": {
         "ko": "[오두막의 주인]\n어. 디. 보. 자.",
         "en": "[Cabin Owner]\nLet's see...",
         "pt": "[Dono da Cabana]\nV-e-j-a.",
-        "es": "[El dueño de la cabaña]\nVeamos."
+        "es": "[El Dueño de la Cabaña]\nVeamos."
     },
     "IJBzDA": {
         "ko": "[오두막의 주인]\n그럼 다시 봐 볼까?",
         "en": "[Cabin Owner]\nOkay, let me take a look at you again...",
         "pt": "[Dono da cabana]\nEntão, vamos ver de novo?",
-        "es": "[El dueño de la cabaña]\n¿Lo volvemos a ver?"
+        "es": "[El Dueño de la Cabaña]\n¿Lo volvemos a ver?"
     },
     "IZBzDA": {
         "ko": "[오두막의 주인]\n오늘 이후로 우리가 언제 다시 볼 수 있을지 모르겠지만, 바람처럼 살아가길 바랄게.",
         "en": "[Cabin Owner]\nI don't know if we'll meet again after today. In case we don't, here's my advice for you. Enjoy living as freely as the wind.",
         "pt": "[Dono da cabana]\nNão sei quando nos veremos de novo depois de hoje, mas espero que você viva como o vento.",
-        "es": "[El dueño de la cabaña]\nNo sé cuándo volveremos a vernos después de hoy, pero espero que vivas como el viento."
+        "es": "[El Dueño de la Cabaña]\nNo sé cuándo volveremos a vernos después de hoy, pero espero que vivas como el viento."
     },
     "IpBzDA": {
         "ko": "[오두막의 주인]\n이미 한참 늦었지만, 이름을 알려주실 수 있나요?",
         "en": "[Cabin Owner]\nI know this is a little late, but may I have your name?",
         "pt": "[Dono da Cabana]\nJá tá bem tarde, mas você pode me dizer seu nome?",
-        "es": "[El dueño de la cabaña]\nAunque ya es muy tarde, ¿me podrías decir tu nombre?"
+        "es": "[El Dueño de la Cabaña]\nAunque ya es muy tarde, ¿me podrías decir tu nombre?"
     },
     "I5BzDA": {
         "ko": "[오두막의 주인]\n하하하 다 늙은 늙은이 이름 알아서 뭐하게?",
         "en": "[Cabin Owner]\nHah hah hah. Why do you want to know an old man's name?",
         "pt": "[Dono da cabana]\nHahaha, pra que você quer saber o nome de um velho como eu?",
-        "es": "[El dueño de la cabaña]\nJajaja, ¿para qué te sirve saber el nombre de un viejo como yo?"
+        "es": "[El Dueño de la Cabaña]\nJajaja, ¿para qué te sirve saber el nombre de un viejo como yo?"
     },
     "JJBzDA": {
         "ko": "[오두막의 주인]\n그냥 로빈이라고 불러. 뒤에 이것저것 이름이 더 있긴 한데 로빈이 좋아.",
         "en": "[Cabin Owner]\nJust call me Robin. I have other names too, but Robin is my favorite.",
         "pt": "[Dono da cabana]\nChama-me apenas de Robin. Tenho mais alguns nomes, mas gosto de Robin.",
-        "es": "[El dueño de la cabaña]\nLlámame Robin. Tengo otros nombres, pero me gusta Robin."
+        "es": "[El Dueño de la Cabaña]\nLlámame Robin. \nTengo otros nombres, pero me gusta Robin."
     },
     "JZBzDA": {
         "ko": "[오두막의 주인]\n그럼 볼 수 있으면, 또 보자고.",
         "en": "[Cabin Owner]\nWell then, see you around.",
         "pt": "[O dono da cabana]\nEntão, se der, a gente se vê de novo.",
-        "es": "[El dueño de la cabaña]\nBueno, si nos volvemos a ver, nos vemos."
+        "es": "[El Dueño de la Cabaña]\nEntonces, si es que podemos vernos, hasta la próxima."
     },
     "JpBzDA": {
         "ko": "- 노인은 바람처럼 사라졌다.\n- 또 만날 일이 있을까?",
@@ -813,43 +813,43 @@
         "ko": "[오두막의 주인]\n에이.. 일단 레인저 때 받은 스킬 포인트부터 다 사용하고 자세를 잡아볼까?",
         "en": "[Cabin Owner]\nHmm... Why don't you use all your remaining Skill Points first?",
         "pt": "[Dono da cabana]\nAh... Por enquanto, vou usar todos os pontos de habilidade que ganhei quando era Ranger e ver como fico.",
-        "es": "[El dueño de la cabaña]\nBah... Primero voy a usar todos los puntos de habilidad que gané cuando era Ranger y ver cómo me va."
+        "es": "[El Dueño de la Cabaña]\nBah... \nPrimero voy a usar todos los puntos de habilidad que gané cuando era Errante y ver cómo me va."
     },
     "KJBzDA": {
         "ko": "[오두막의 주인]\n그래 새 부대에는 새 술로 채워야지 레인저 때 받은 스킬 포인트는 다 사용한 것 같고.",
         "en": "[Cabin Owner]\nYeah, new wine should be poured into new wineskins. I confirm you've used all your Skill Points from your Ranger days.",
         "pt": "[Dono da Cabana]\nÉ, garrafa nova precisa de vinho novo. Parece que já usei todos os pontos de habilidade que ganhei quando era Ranger.",
-        "es": "[El dueño de la cabaña]\nSí, hay que llenar el nuevo equipo con cosas nuevas. Parece que ya usé todos los puntos de habilidad que recibí cuando era guardabosques."
+        "es": "[El Dueño de la Cabaña]\nSí, hay que llenar el nuevo equipo con cosas nuevas. \nParece que ya usé todos los puntos de habilidad que recibí cuando era Errante."
     },
     "KZBzDA": {
         "ko": "[오두막의 주인]\n탈것에 타고 뭘 어떻게 자세를 잡을 셈인데? 탈것에서 내려서 자세를 잡아봐.",
         "en": "[Cabin Owner]\nHow are you going to show me how you shoot an arrow while on that mount? Get off it and do it properly.",
         "pt": "[O dono da cabana]\nComo você pretende ajustar a postura montado na montaria? Desça da montaria e tente ajustar a postura.",
-        "es": "[El dueño de la cabaña]\n¿Cómo piensas adoptar la postura montado en el animal? Bájate y prueba a adoptar la postura."
+        "es": "[El Dueño de la Cabaña]\n¿Cómo piensas adoptar la postura montado en el animal?\nBájate y prueba a adoptar la postura."
     },
     "KpBzDA": {
         "ko": "[오두막의 주인]\n그래 활을 쏠 때 다리는 그렇게.. 그렇지 그래야 바람을 느끼기 더 좋아.",
         "en": "[Cabin Owner]\nYes, that's how you should position your feet when you shoot an arrow. You can feel the wind more easily that way.",
         "pt": "[Dono da Cabana]\nÉ isso aí, quando atirar com o arco, as pernas ficam assim... É isso mesmo, assim dá pra sentir melhor o vento.",
-        "es": "[El dueño de la cabaña]\nSí, cuando dispares el arco, las piernas así... Sí, así se siente mejor el viento."
+        "es": "[El Dueño de la Cabaña]\nSí, cuando dispares el arco, las piernas así... \nSí, así se siente mejor el viento."
     },
     "K5BzDA": {
         "ko": "[오두막의 주인]\n지금 같이 있는 그 친구가 소중한 건 나도 알아. 그래도 지금은 잠깐 떨어질 때야 산책이라도 보내둬.",
         "en": "[Cabin Owner]\nI get it you want to stay close to your falcon. But not now. Let it fly for now.",
         "pt": "[Dono da Cabana]\nEu sei que aquele amigo que tá com você agora é importante pra você. Mas agora é hora de se afastar um pouco. Manda ele dar uma volta.",
-        "es": "[El dueño de la cabaña]\nYo también sé que ese amigo que está contigo ahora es muy importante para ti. Pero ahora es el momento de separarse un rato; mándalo a dar un paseo."
+        "es": "[El Dueño de la Cabaña]\nYo también sé que ese amigo que está contigo ahora es muy importante para ti. \nPero ahora es el momento de separarse un rato; mándalo a dar un paseo."
     },
     "LJBzDA": {
         "ko": "[오두막의 주인]\n활시위를 당길 때는 부드럽게 옳지! 그렇게. 역시 기본기가 좋네.",
         "en": "[Cabin Owner]\nWhen you pull the bowstring, pull it smoothly—yes, just like that! You have a strong foundation, just like I thought.",
         "pt": "[Dono da cabana]\nQuando puxar a corda do arco, tem que ser suave, certo! Assim mesmo. Tens mesmo bons fundamentos.",
-        "es": "[El dueño de la cabaña]\n¡Cuando tires de la cuerda del arco, hazlo suavemente, claro! Así. Como siempre, tienes buenos fundamentos."
+        "es": "[El Dueño de la Cabaña]\n¡Cuando tires de la cuerda del arco, hazlo suavemente, claro! \nAsí. \nComo siempre, tienes buenos fundamentos."
     },
     "LZBzDA": {
         "ko": "[오두막의 주인]\n자 이제 숲에서 불어오는 바람을 느껴봐. 바람이 느껴질 때가 있을 거야. 그때 활시위를 놔.",
         "en": "[Cabin Owner]\nNow, try to feel the wind blowing from the forest. You'll feel it at a certain point. When you do, let go of the bowstring.",
         "pt": "[Dono da cabana]\nPronto, agora sente a brisa que vem da floresta. Vai chegar um momento em que sentirás o vento. Nesse momento, solta a corda do arco.",
-        "es": "[El dueño de la cabaña]\nBueno, ahora siente el viento que sopla desde el bosque. Habrá un momento en que lo sientas. En ese momento, suelta la cuerda del arco."
+        "es": "[El Dueño de la Cabaña]\nBueno, ahora siente el viento que sopla desde el bosque. \nHabrá un momento en que lo sientas. \nEn ese momento, suelta la cuerda del arco."
     },
     "LpBzDA": {
         "ko": "활시위를 놓는다.",
@@ -867,12 +867,12 @@
         "ko": "[오두막의 주인]\n아니야. 다시 바람을 느껴봐",
         "en": "[Cabin Owner]\nNo. Try to feel the wind again.",
         "pt": "[Dono da cabana]\nNão. Tenta sentir o vento de novo",
-        "es": "[El dueño de la cabaña]\nNo. Intenta sentir el viento de nuevo"
+        "es": "[El Dueño de la Cabaña]\nNo. \nIntenta sentir el viento de nuevo"
     },
     "MZBzDA": {
         "ko": "[오두막의 주인]\n바람을 다스리며 바람과 함께 싸우는 윈드 호크가 된걸 축하해 친구.",
         "en": "[Cabin Owner]\nCongratulations, buddy. Now, you're a Wind Hawk, who fights enemies alongside the wind.",
         "pt": "[O dono da cabana]\nParabéns, amigo, por teres te tornado um Wind Hawk, que domina o vento e luta junto com ele.",
-        "es": "[El dueño de la cabaña]\nFelicidades, amigo, por convertirte en un Halcón del Viento que domina el viento y lucha junto a él."
+        "es": "[El Dueño de la Cabaña]\nFelicidades, amigo, por convertirte en un Cazavientos que domina el viento y lucha junto a él."
     }
 }

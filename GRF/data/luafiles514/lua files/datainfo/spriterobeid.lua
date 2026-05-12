@@ -304,5 +304,12 @@ SPRITE_ROBE_IDs = {
 	ROBE_C_B_Ninetail_Tail = 304,
 	ROBE_C_Darklord_Aura = 305,
 	ROBE_C_Garmbebe_Bag = 306,
-	ROBE_Magnus_Dominus = 307
+	ROBE_Magnus_Dominus = 307,
+	ROBE_C_CLB_BS_Bag_B = 308,
+	ROBE_C_CLB_BS_Bag_M = 309,
+	ROBE_C_CLB_BS_Bag_F = 310,
+	ROBE_C_CLB_BS_Bag_GM = 311,
+	ROBE_C_CLB_BS_Bag_GF = 312,
+	ROBE_C_Stylish_Arch_Quiver = 313,
+	ROBE_C_Adventures_Backpack = 314
 }
