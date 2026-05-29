@@ -38,8 +38,8 @@
     "pvmLDA": {
         "ko": "[율마]\n아, {0} 씨. 야옹이에는 한잔 하러 온거야?\n마침 용건이 있었는데 잘됐네.",
         "en": "[Julma]\nAh, {0}. Did you come to Meow for a drink?\nYou came at the right time. I wanted to see you.",
-        "pt": "[Yulma]\nAh, {0}. Vieste ao Yao-Yao para tomar um drinque?\nPor sorte, eu tinha um assunto para tratar.",
-        "es": "[Yulma]\nAh, {0}. ¿Viste a Yao-Yao para tomarte una copa?\nJusto tenía algo que hablar contigo, qué bien."
+        "pt": "[Yulma]\nAh, {0}. Vieste ao Miado de Bala para tomar um drinque?\nPor sorte, eu tinha um assunto para tratar.",
+        "es": "[Yulma]\nAh, {0}. ¿Viniste a Maullido de Bala a tomar algo?\nQué bueno que apareces, justo tenía algo que pedirte."
     },
     "p/mLDA": {
         "ko": "무슨 용건?",
@@ -50,14 +50,14 @@
     "qPmLDA": {
         "ko": "[율마]\n비밀의 날개와 우리 리벨리온이 일루시온의 불법 실험 흔적을 계속 추적하고 있던 건 당신도 알지?",
         "en": "[Julma]\nYou know the Secret Wings and our Rebellion have been tracking traces of Illusion's illegal experiments, right?",
-        "pt": "[Yulma]\nVocê sabe que a Asa Secreta e a nossa Rebelião continuam investigando os rastros dos experimentos ilegais da Illusion, né?",
-        "es": "[Yulma]\nYa sabes que «Alas Secretas» y nuestra «Rebelión» seguimos rastreando los rastros de los experimentos ilegales de Ilusion, ¿no?"
+        "pt": "[Yulma]\nVocê sabe que a Vento Secreto e a nossa Rebelião continuam investigando os rastros dos experimentos ilegais da Ilusión, né?",
+        "es": "[Yulma]\nYa sabes que Viento Secreto y nuestra Rebelión seguimos rastreando los rastros de los experimentos ilegales de Ilusión, ¿no?"
     },
     "qfmLDA": {
         "ko": "[율마]\n그 와중에, 루두스 4층으로 가는 길을 발견했어.",
         "en": "[Julma]\nMeanwhile, we found a passage to the fourth floor of Rudus.",
-        "pt": "[Yulma]\nNesse meio tempo, descobrimos o caminho para o 4º andar do Ludus.",
-        "es": "[Yulma]\nEn medio de todo eso, hemos descubierto el camino hacia el cuarto piso de Ludus."
+        "pt": "[Yulma]\nNesse meio tempo, descobrimos o caminho para o 4º andar do Rudus.",
+        "es": "[Yulma]\nEn medio de todo eso, descubrí el camino hacia el cuarto piso de Rudus"
     },
     "qvmLDA": {
         "ko": "그럼, 알지.",
@@ -68,8 +68,8 @@
     "q/mLDA": {
         "ko": "루두스가 어디였더라?",
         "en": "Where was Rudus again?",
-        "pt": "Onde ficava o Ludus mesmo?",
-        "es": "¿Dónde estaba Ludus?"
+        "pt": "Onde ficava Rudus mesmo?",
+        "es": "¿Dónde quedaba Rudus?"
     },
     "rPmLDA": {
         "ko": "[율마]\n흐흥, {0} 씨랑은 대화가 잘 통해서 좋다니까.",
@@ -80,14 +80,14 @@
     "rfmLDA": {
         "ko": "[율마]\n뭐라고, 몇 번이나 다녀왔으면서 잊었어?\n일루시온이 실험을 저지른 뒤 생겨난 실패작들을 유기한 곳이었잖아.",
         "en": "[Julma]\nSay what? You've been there several times. How could you forget it?\nIt's where Illusion dumped all their failed test subjects!",
-        "pt": "[Yulma]\nComo assim? Já foste lá várias vezes e esqueceste?\nEra o lugar onde a Illusion abandonava os produtos defeituosos que surgiam depois dos experimentos, né?",
-        "es": "[Yulma]\n¿Qué dices? ¿Lo olvidaste después de haber ido tantas veces?\nEra el lugar donde Ilusion abandonaba a los seres fallidos que surgían tras sus experimentos."
+        "pt": "[Yulma]\nComo assim? Já foste lá várias vezes e esqueceste?\nEra o lugar onde a Ilusión abandonava os produtos defeituosos que surgiam depois dos experimentos, né?",
+        "es": "[Yulma]\n¿Qué dices? ¿Lo olvidaste después de haber ido tantas veces?\nEra el lugar donde Ilusión abandonaba a los seres fallidos que surgían tras sus experimentos."
     },
     "rvmLDA": {
         "ko": "[율마]\n아침이 기억하지, 아침이? 그 꼬마애가 머무르는 데.\n걔는 1층에 있고 루두스 자체는 2층, 3층까지도 존재하지만.",
         "en": "[Julma]\nYou remember Morning, right? It's where that kid is.\nHe's just on the first floor. Though Rudus itself has second and third floors too.",
-        "pt": "[Yulma]\nA Achim se lembra, né, Achim? O lugar onde aquela garotinha fica.\nEla tá no 1º andar, e o Ludus em si vai até o 2º e o 3º andar, mas...",
-        "es": "[Yulma]\n¿Te acuerdas de Achim, Achim? Donde se queda ese chiquillo.\nÉl está en el primer piso, y Ludus en sí existe hasta el segundo y tercer piso."
+        "pt": "[Yulma]\nVocê se lembra do Morning, né? É lá que aquela criança está.\nEstá no 1º andar, e o Ludus em si vai até o 2º e o 3º andar, mas...",
+        "es": "[Yulma]\n¿Te acuerdas de Morning, verdad? Donde se queda ese chiquillo.\nEstá en el primer piso, aunque Ludus en sí se extiende hasta el segundo y el tercer piso."
     },
     "r/mLDA": {
         "ko": "[율마]\n아무튼, 최근에 4층으로 가는 길을 우리가 운 좋게 찾아냈다는 말씀.",
@@ -98,68 +98,68 @@
     "sPmLDA": {
         "ko": "[율마]\n그런데 루두스 4층, 꽤 대단한 곳이더라….\n아무래도 루두스에 버려진 실험체들 중에서도 특히 강력한 개체들만 모여있나봐.",
         "en": "[Julma]\nBut the fourth floor of Ludus... it's quite something.\nIt seems only the most powerful specimens among the abandoned test subjects in Ludus gather there.",
-        "pt": "[Yulma]\nMas o 4º andar do Ludus... é um lugar e tanto...\nParece que só os indivíduos mais poderosos entre os cobaias abandonados no Ludus estão reunidos lá.",
-        "es": "[Yulma]\nPero la cuarta planta de Ludus... es un lugar bastante impresionante...\nParece que ahí solo se reúnen los sujetos más poderosos de entre todos los que fueron abandonados en Ludus."
+        "pt": "[Yulma]\nMas o 4º andar do Rudus... é um lugar e tanto...\nParece que só os indivíduos mais poderosos entre os cobaias abandonados no Rudus estão reunidos lá.",
+        "es": "[Yulma]\nPero el cuarto piso de Rudus es un lugar bastante impresionante...\nPor lo visto, ahí solo se concentran los especímenes más fuertes de entre todos los que fueron abandonados en Rudus."
     },
     "sfmLDA": {
         "ko": "[율마]\n비밀의 날개의 연구원들은 실험체들끼리 치열한 경쟁을 벌인 끝에 가장 강한 실험체들이 거기에 자리를 잡은 듯하다고 해.",
         "en": "[Julma]\nThe researchers of the Secret Wings suspect that the test subjects in there have pushed out all the weaker ones.",
-        "pt": "[Yulma]\nOs pesquisadores da Asa Secreta dizem que, depois de uma competição acirrada entre os cobaias, os mais fortes acabaram ficando por lá.",
-        "es": "[Yulma]\nLos investigadores de Alas Secretas dicen que, tras una competencia feroz entre los sujetos de experimentación, los más fuertes parecen haberse establecido ahí."
+        "pt": "[Yulma]\nOs pesquisadores do Vento Secreto dizem que, depois de uma competição acirrada entre os cobaias, os mais fortes acabaram ficando por lá.",
+        "es": "[Yulma]\nLos investigadores del Viento Secreto dicen que, tras una competencia feroz entre los sujetos de experimentación, los más fuertes parecen haberse establecido ahí."
     },
     "svmLDA": {
         "ko": "[율마]\n뭐, 사실 복잡한 건 나는 잘 모르겠고!\n비밀의 날개 연구원들이 거기 있는 개체들의 연구가 필요하다는 모양이야.",
         "en": "[Julma]\nWell, honestly, I don't really understand the complicated stuff!\nIt seems the Secret Wings researchers need to study the subjects in there.",
-        "pt": "[Yulma]\nBem, na verdade, não entendo muito bem essas coisas complicadas!\nParece que os pesquisadores da Asa Secreta precisam estudar os indivíduos que estão lá.",
-        "es": "[Yulma]\n¡Bueno, la verdad es que no entiendo muy bien los detalles!\nParece que los investigadores de Alitas Secretas necesitan estudiar a los sujetos que están ahí."
+        "pt": "[Yulma]\nBem, na verdade, não entendo muito bem essas coisas complicadas!\nParece que os pesquisadores do Vento Secreto precisam estudar os indivíduos que estão lá.",
+        "es": "[Yulma]\n¡Bueno, la verdad es que no entiendo muy bien de cosas complicadas!\nParece que los investigadores del Viento Secreto necesitan estudiar a los sujetos que están ahí."
     },
     "s/mLDA": {
         "ko": "[율마]\n그래서 도와줄 사람을 찾고 있었지.\n정확히 지목하자면 바로 {0}, 당신을!",
         "en": "[Julma]\nSo, I've been looking for someone to help.\nTo be precise, I've been looking for you, {0}!",
         "pt": "[Yulma]\nPor isso, estavam procurando alguém para ajudar.\nPara ser mais exata, estou falando de você, {0}!",
-        "es": "[Yulma]\nPor eso estaban buscando a alguien que les ayudara.\nPara ser exactos, ¡te estaban buscando a ti, {0}!"
+        "es": "[Yulma]\nPor eso estaba buscando a alguien que me ayudara.\nPara ser más exactos, ¡te estaba buscando a ti, {0}!"
     },
     "tPmLDA": {
         "ko": "[율마]\n일거리 필요하지? 내가 다 안다니까~\n생각 있으면 루두스 3층으로 가봐.",
         "en": "[Julma]\nNeed a job, don't you? I know you do!\nIf you're interested, go to the 3rd floor of Rudus.",
         "pt": "[Yulma]\nPrecisas de trabalho? Eu sei de tudo, tá?\nSe estiveres interessado, vai até o 3º andar do Rudus.",
-        "es": "[Yulma]\n¿Necesitas trabajo? Yo lo sé todo, ¿sabes?\nSi te interesa, ve al tercer piso de Rudus."
+        "es": "[Yulma]\nNecesitas trabajo, ¿verdad? Yo lo sé todo, ¿sabes?\nSi te interesa, ve al tercer piso de Rudus."
     },
     "tfmLDA": {
         "ko": "[율마]\n<NAVI>[파이언]<INFO>sp_rudus3,380,42,0,101,0</INFO></NAVI>이 4층으로 내려가는 길목의 통제를 맡고 있거든.\n가서 내가 보냈다고 하고, 할만할지 직접 탐색해 보고 와!",
         "en": "[Julma]\n<NAVI>[Paian]<INFO>sp_rudus3,380,42,0,101,0</INFO></NAVI> is manning the entrance to the 4th floor.\nGo tell them I sent you, see if it's manageable, and come back!",
-        "pt": "[Yulma]\n<NAVI>[Pion]<INFO>sp_rudus3,380,42,0,101,0</INFO></NAVI> está encarregado do controle do caminho que leva ao 4º andar.\nVai lá, diz que fui eu quem te mandou e dá uma olhada pra ver se vale a pena!",
-        "es": "[Yulma]\n<NAVI>[Pion]<INFO>sp_rudus3,380,42,0,101,0</INFO></NAVI> está a cargo de controlar el paso hacia el cuarto piso.\nVe y dile que te envié yo, ¡y ve a explorar por tu cuenta para ver si te parece que vale la pena!"
+        "pt": "[Yulma]\n<NAVI>[Paian]<INFO>sp_rudus3,380,42,0,101,0</INFO></NAVI> está encarregado do controle do caminho que leva ao 4º andar.\nVai lá, diz que fui eu quem te mandou e dá uma olhada pra ver se vale a pena!",
+        "es": "[Yulma]\n<NAVI>[Pion]<INFO>sp_rudus3,380,42,0,101,0</INFO></NAVI> está a cargo de controlar el paso hacia el cuarto piso.\nVe y dile que te envié yo y comprueba por ti mismo si vale la pena intentarlo!"
     },
     "tvmLDA": {
         "ko": "[율마]\n오, 루두스 4층에 내려갔다 왔구나. 어땠어?\n파이언은 잘하고 있어? 실험체들은 좀 싸워볼만하다고 느껴졌어?",
         "en": "[Julma]\nOh, you went to the fourth floor of Rudus. So, how was it?\nHow's Paian doing, anyway? Wasn't it difficult to fight the test subjects down there?",
-        "pt": "[Yulma]\nAh, você já foi até o 4º andar do Rudus e voltou. Como foi?\nO Pion está se saindo bem? Você achou que vale a pena lutar contra os cobaias?",
-        "es": "[Yulma]\nAh, ya bajaste a la cuarta planta de Rudus y regresaste. ¿Qué tal estuvo?\n¿Pion lo está haciendo bien? ¿Te parecieron los sujetos de experimentación un buen rival para pelear?"
+        "pt": "[Yulma]\nAh, você já foi até o 4º andar do Rudus e voltou. Como foi?\nO Paian está se saindo bem? Você achou que vale a pena lutar contra os cobaias?",
+        "es": "[Yulma]\nAh, ya fuiste al cuarto piso del Rudus y regresaste. ¿Qué tal te fue?\n¿Qué tal lo está haciendo Pion? ¿Sientes que valió la pena pelear contra los sujetos de prueba?"
     },
     "t/mLDA": {
         "ko": "[율마]\n그랬다면 비밀의 날개 쪽 사람들 연구를 좀 도와줘.\n아무래도 직접 몬스터를 잡아 연구하기는 역부족이라고 해서, 사냥해줄 사람을 찾고 있었거든.",
         "en": "[Julma]\nIf so, then help the Secret Wings' researchers with their study.\nObviously, they can't hunt the monsters on their own. They need someone to do it for them.",
-        "pt": "[Yulma]\nSe sim, dá uma mãozinha na pesquisa do pessoal da Ala Secreta.\nParece que eles não dão conta de capturar e estudar os monstros sozinhos, então estavam procurando alguém pra caçá-los.",
-        "es": "[Yulma]\nSi es así, ayuda un poco a la gente de Alas Secretas con la investigación.\nParece que no les alcanza para cazar monstruos y estudiarlos ellos mismos, así que estaban buscando a alguien que los cazara."
+        "pt": "[Yulma]\nSe sim, dá uma mãozinha na pesquisa do pessoal do Vento Secreto.\nParece que eles não dão conta de capturar e estudar os monstros sozinhos, então estavam procurando alguém pra caçá-los.",
+        "es": "[Yulma]\nSi es así, ayuda un poco a la gente del Viento Secreto con la investigación.\nMe dijeron que les falta personal para cazar y estudiar a los monstruos por su cuenta, así que estaban buscando a alguien que los cazara."
     },
     "uPmLDA": {
         "ko": "사냥만 하면 되는지 묻는다",
         "en": "Just ask if hunting is all that's needed",
         "pt": "Pergunta se basta apenas caçar",
-        "es": "Me preguntan si solo hay que cazar"
+        "es": "Pregunta si solo hay que cazar"
     },
     "ufmLDA": {
         "ko": "[율마]\n아, 잊어버릴 뻔했네.\n이 칩을 몸 어딘가에 착! 붙이고 사냥하면 연구원들이 데이터를 받아볼 수 있대.",
         "en": "[Julma]\nOh, I almost forgot.\nYou have to tick this chip on you before hunting them. It'll send your combat data to the researchers.",
         "pt": "[Yulma]\nAh, quase me esqueci.\nSe você colar esse chip em algum lugar do corpo e sair para caçar, os pesquisadores vão poder receber os dados.",
-        "es": "[Yulma]\nAh, casi se me olvida.\nSi te pegas este chip en algún lado del cuerpo y vas a cazar, los investigadores podrán recibir los datos."
+        "es": "[Yulma]\nAh, casi se me olvida.\nSi te pegas este chip en algún lado del cuerpo y sales a cazar, los investigadores podrán recibir los datos."
     },
     "uvmLDA": {
         "ko": "[율마]\n신소재 친환경 무독성 안심소재니까 걱정하지 않아도 된다나 봐.\n어디다 달아 줄까?",
         "en": "[Julma]\nThey say it's made of a new, eco-friendly, non-toxic material that's safe for the skin.\nWhere do you want me to stick it?",
         "pt": "[Yulma]\nÉ um material novo, ecológico, não tóxico e seguro, então não precisa se preocupar.\nOnde eu coloco pra você?",
-        "es": "[Yulma]\nDicen que es un material nuevo, ecológico, no tóxico y seguro, así que no tienes que preocuparte.\n¿Dónde te lo pongo?"
+        "es": "[Yulma]\nDicen que es un material nuevo, ecológico y no tóxico, así que no hay de qué preocuparse.\n¿Dónde lo colocamos?"
     },
     "u/mLDA": {
         "ko": "귓불",
@@ -177,43 +177,43 @@
         "ko": "손등",
         "en": "Back of the hand",
         "pt": "Dorso da mão",
-        "es": "El dorso de la mano"
+        "es": "Dorso de la mano"
     },
     "vvmLDA": {
         "ko": "이마",
         "en": "Forehead",
         "pt": "Testa",
-        "es": "La frente"
+        "es": "Frente"
     },
     "v/mLDA": {
         "ko": "[율마]\n좋아, 거슬리지 않게 잘 붙여 줄게.",
         "en": "[Julma]\nAlright, I'll stick it where it won't bother you.",
         "pt": "[Yulma]\nTudo bem, vou colar direitinho pra não incomodar.",
-        "es": "[Yulma]\nVale, te lo pondré bien para que no te moleste."
+        "es": "[Yulma]\nBueno, te lo pondré bien para que no te moleste"
     },
     "wPmLDA": {
         "ko": "[율마]\n등 쪽으로 붙여줄까? 머리카락 바로 아래?",
         "en": "[Julma]\nToward the back or right below your hairline?",
         "pt": "[Yulma]\nColoco nas costas? Logo abaixo do cabelo?",
-        "es": "[Yulma]\n¿Te lo pego en la espalda? ¿Justo debajo del pelo?"
+        "es": "[Yulma]\n¿Te lo pego en la espalda? ¿Justo debajo del cabello?"
     },
     "wfmLDA": {
         "ko": "[율마]\n조금 거치적거리지 않을까 싶지만… 연구원들은 괜찮을 거라더라.",
-        "en": "[율마]\nI'd think it'd get in your way, but the researchers said it wouldn't.",
+        "en": "[Julma]\nI'd think it'd get in your way, but the researchers said it wouldn't.",
         "pt": "[Yulma]\nAcho que pode ficar um pouco no caminho... mas os pesquisadores disseram que não vai ser problema.",
-        "es": "[Yulma]\nMe parece que va a molestar un poco, pero… los investigadores dicen que no va a ser problema."
+        "es": "[Yulma]\nMe parece que va a molestar un poco, pero… los investigadores dicen que no habrá problema."
     },
     "wvmLDA": {
         "ko": "[율마]\n음? 어… 어. 정말 이마에 붙인다?",
         "en": "[Julma]\nHm? Er... Huh. Really, on the forehead?",
         "pt": "[Yulma]\nHã? Ah... ah. Vais mesmo colar na testa?",
-        "es": "[Yulma]\n¿Eh? Eh... eh. ¿De verdad lo vas a poner en la frente?"
+        "es": "[Yulma]\n¿Eh? Eh… eh. ¿De verdad te lo vas a pegar en la frente?"
     },
     "w/mLDA": {
         "ko": "자, 다 됐다! 그럼…",
         "en": "Alright, all done! Then...",
         "pt": "Pronto, está feito! Então…",
-        "es": "¡Ya está! Bueno…"
+        "es": "¡Ya está! Entonces…"
     },
     "xPmLDA": {
         "ko": "[율마]\n오늘도 잘 부탁한다!\n그럼, 오늘은 어떤 연구를 도와줄래?",
@@ -225,25 +225,25 @@
         "ko": "심연의 고독",
         "en": "Abyssal Solitude",
         "pt": "A Solidão do Abismo",
-        "es": "La soledad del abismo"
+        "es": "Soledad Abisal"
     },
     "xvmLDA": {
         "ko": "변형과 발전",
         "en": "Modification and Development",
         "pt": "Transformação e evolução",
-        "es": "Transformación y evolución"
+        "es": "Modificación y Evolución"
     },
     "x/mLDA": {
         "ko": "데이터 백업",
         "en": "Data Backup",
         "pt": "Backup de dados",
-        "es": "Copia de seguridad de datos"
+        "es": "Copia de Seguridad de Datos"
     },
     "yPmLDA": {
         "ko": "도와주지 않는다.",
         "en": "It doesn't help.",
         "pt": "Não vou ajudar.",
-        "es": "No te voy a ayudar."
+        "es": "No voy a ayudar."
     },
     "yfmLDA": {
         "ko": "[율마]\n비밀의 날개 연구원들은 휴식을 취하고 있어.\n그러니 {0} 씨도 좀더 쉬다 오는 건 어때?",
@@ -261,31 +261,31 @@
         "ko": "[율마]\n강한 개체만이 살아남아서 더 강한 개체를 물어뜯는 곳...\n마치 깊고 어두운 고독의 구덩이 같지.",
         "en": "[Julma]\nOnly the strongest survive there, tearing apart even stronger prey...\nIt's like a deep, dark pit of solitude.",
         "pt": "[Yulma]\nUm lugar onde apenas os mais fortes sobrevivem e devoram os mais fracos...\nÉ como um poço profundo e escuro de solidão.",
-        "es": "[Yulma]\nUn lugar donde solo los más fuertes sobreviven y se devoran entre sí...\nEs como un pozo de soledad profundo y oscuro."
+        "es": "[Yulma]\nUn lugar donde solo los más fuertes sobreviven y devoran a los más débiles...\nEs como un pozo profundo y oscuro de soledad"
     },
     "zPmLDA": {
         "ko": "[율마]\n뭐, 난 그런거 잘 몰라!\n내가 할 일은 연구원들의 요청을 전달하는 일이니까.",
         "en": "[Julma]\nWell, I don't really know about that!\nMy job is just to relay the researchers' requests.",
         "pt": "[Yulma]\nBem, eu não entendo muito disso!\nO meu trabalho é apenas transmitir os pedidos dos pesquisadores.",
-        "es": "[Yulma]\nBueno, ¡yo no sé mucho de eso!\nMi trabajo es solo transmitir las peticiones de los investigadores."
+        "es": "[Yulma]\nBueno, ¡yo no sé mucho de eso!\nMi trabajo es transmitir las peticiones de los investigadores."
     },
     "zfmLDA": {
         "ko": "[율마]\n연구원들은 루두스의 실험체들 중 4층에 분포해 있는 개체들이 기존 개체들과 얼마나 다른지 알고 싶어해.",
         "en": "[Julma]\nThe researchers want to know how different the subjects on the fourth floor are from the others.",
         "pt": "[Yulma]\nOs pesquisadores querem saber o quanto os indivíduos distribuídos no 4º andar, entre as cobaias de Ludus, são diferentes dos indivíduos existentes.",
-        "es": "[Yulma]\nLos investigadores quieren saber qué tan diferentes son los sujetos de Ludus que están en el cuarto piso de los sujetos originales."
+        "es": "[Yulma]\nLos investigadores quieren saber qué tan diferentes son los especímenes de Rudus que están en el cuarto piso en comparación con las variantes originales."
     },
     "zvmLDA": {
         "ko": "[율마]\n기존의 형태를 얼마나 더 잃어버렸는지, 그게 실험 이후에 자체적으로 변화한 것인지 같은 거 말이야.\n<FONT SIZE = 9>음… 약간 이 연구원들도 위험해 보이지? 연구자라는 게 다 거기서 거기인 거 같아, 나같은 사람이 보기엔.</FONT>",
         "en": "[Julma]\nHow much they've degenerated, if they've mutated on their own after their initial experiment, et cetera.\n<FONT SIZE = 9>Hmm... These researchers sound dangerous themselves, don't they? Researchers are all pretty much the same, in my opinion.</FONT>",
         "pt": "[Yulma]\nQuerem saber o quanto perderam a forma original, se isso foi uma mudança espontânea após o experimento, coisas assim.\n<FONT SIZE = 9>Hum… esses pesquisadores também parecem um pouco perigosos, né? Para mim, todos os pesquisadores parecem iguais.</FONT>",
-        "es": "[Yulma]\nCuánto se han alejado de su forma original, si han cambiado por sí mismos después del experimento, cosas así.\n<FONT SIZE = 9>Mmm… ¿No te parecen un poco peligrosos estos investigadores? Para alguien como yo, todos los investigadores parecen iguales.</FONT>"
+        "es": "[Yulma]\nQuieren saber cuánto se han alejado de su forma original, si han cambiado por sí mismos después del experimento, cosas así.\n<FONT SIZE = 9>Mmm… Estos investigadores también parecen un poco peligrosos, ¿no? En mi opinión, todos los investigadores son más o menos iguales.</FONT>"
     },
     "z/mLDA": {
         "ko": "[율마]\n아무튼 그래서, <FONT COLOR = 0000CD>돌로리안과 플라가리온, 데드레</FONT>의 데이터를 모으고 싶대.\n각각 10개체씩 사냥해 오면 어떨까?",
         "en": "[Julma]\nAnyway, they want to collect data on <FONT COLOR = 0000CD>Dolorians, Plagarions, and Deadres</FONT>.\nHow about hunting 10 of each?",
         "pt": "[Yulma]\nDe qualquer forma, por isso, <FONT COLOR = 0000CD>eles querem coletar dados sobre Dolorian, Plagarião e Deadre</FONT>.\nQue tal caçarmos 10 indivíduos de cada um?",
-        "es": "[Yulma]\nEn fin, por eso, <FONT COLOR = 0000CD>quiere recopilar datos de los Dolorianos, los Plagariones y los Deadre</FONT>.\n¿Qué tal si cazas 10 de cada uno?"
+        "es": "[Yulma]\nEn fin, por eso, <FONT COLOR = 0000CD>quiere recopilar datos sobre Dolorian, Plagarion y Deadre</FONT>.\n¿Qué tal si cazas 10 de cada uno?"
     },
     "0PmLDA": {
         "ko": "사냥해 오겠다.",
@@ -297,7 +297,7 @@
         "ko": "거절한다.",
         "en": "I refuse.",
         "pt": "Recuso.",
-        "es": "Lo rechazo."
+        "es": "Me niego."
     },
     "0vmLDA": {
         "ko": "[율마]\n좋아, 가서 착착 사냥하면 데이터가 착착 모일 거야.\n그리고 내 수당도 착착 쌓이겠지!",
@@ -309,19 +309,19 @@
         "ko": "[율마]\n우리는 이미 한 배를 탄 동지인데~?\n안 그래, 동지? 다시 한 번 생각해봐!",
         "en": "[Julma]\nWe're already in this together, aren't we?\nRight, comrade? Think about it again!",
         "pt": "[Yulma]\nNós já estamos no mesmo barco, né?\nNão é mesmo, companheiro? Pensa de novo!",
-        "es": "[Yulma]\n¿Acaso no somos compañeros de viaje ya?\n¿No es así, compañero? ¡Piénsalo de nuevo!"
+        "es": "[Yulma]\n¿Acaso no somos compañeros de viaje ya?\n¿No es así, compañero? ¡Piénsalo otra vez!"
     },
     "1PmLDA": {
         "ko": "[율마]\n비밀의 날개 연구원들은 <FONT COLOR = 0000CD>돌로리안과 플라가리온, 데드레</FONT>의 데이터를 모으고 싶대.\n각각 10개체씩 사냥해 오면 어떨까?",
         "en": "[Julma]\nThe Secret Wings researchers want to collect data about <FONT COLOR = 0000CD>Dolorians, Plagarions, and Deadres</FONT>.\nHow about hunting 10 of each?",
-        "pt": "[Yulma]\nOs pesquisadores da Asas Secretas querem coletar dados sobre <FONT COLOR = 0000CD>Dolorian, Plagarion e Dredre</FONT>.\nQue tal caçarmos 10 de cada um?",
-        "es": "[Yulma]\nLos investigadores de Alas Secretas quieren recopilar datos de <FONT COLOR = 0000CD>Dolorian, Plagarion y Dedre</FONT>.\n¿Qué tal si cazas 10 de cada uno?"
+        "pt": "[Yulma]\nOs pesquisadores do Vento Secreto querem coletar dados sobre <FONT COLOR = 0000CD>Dolorian, Plagarion e Dredre</FONT>.\nQue tal caçarmos 10 de cada um?",
+        "es": "[Yulma]\nLos investigadores del Viento Secreto quieren recopilar datos de <FONT COLOR = 0000CD>Dolorian, Plagarion y Dedre</FONT>.\n¿Qué tal si cazas 10 de cada uno?"
     },
     "1fmLDA": {
         "ko": "[율마]\n오늘의 사냥은 성공적인가 보네!\n어떻게 알았냐니, {0} 씨에게 붙여 둔 칩이 오늘도 일한 거지.",
         "en": "[Julma]\nLooks like today's hunt was successful!\nHow did I know? The chip attached to {0} worked hard all day today.",
         "pt": "[Yulma]\nParece que a caçada de hoje foi um sucesso!\nComo eu soube? O chip que coloquei no {0} funcionou de novo hoje.",
-        "es": "[Yulma]\n¡Parece que la caza de hoy fue un éxito!\n¿Cómo lo sé? El chip que le puse a {0} volvió a funcionar hoy."
+        "es": "[Yulma]\n¡Parece que la caza de hoy fue un éxito!\n¿Que cómo lo sé? El chip que le puse a {0} volvió a funcionar hoy."
     },
     "1vmLDA": {
         "ko": "[율마]\n매번 보지만 매번 신기하단 말이야, 그 칩이 기동하는 거.\n참, 오늘 일해 준 데 대한 수당을 챙겨줘야지.",
@@ -344,50 +344,50 @@
     "2fmLDA": {
         "ko": "[율마]\n비밀의 날개 연구원들은 일과를 마치고 퇴근했어.\n그러니 {0} 씨도 좀더 쉬다 오는 건 어때?",
         "en": "[Julma]\nThe Secret Wings researchers finished their work for the day and went home.\nSo why don't you go get some rest, too, {0}?",
-        "pt": "[Yulma]\nOs pesquisadores da Asas Secretas já terminaram o expediente e foram embora.\nEntão, que tal você, {0}, descansar um pouco mais antes de voltar?",
-        "es": "[Yulma]\nLos investigadores de Alas Secretas ya terminaron su jornada y se fueron a casa.\n¿Qué tal si tú también, {0}, te quedas descansando un rato más?"
+        "pt": "[Yulma]\nOs pesquisadores do Vento Secreto já terminaram o expediente e foram embora.\nEntão, que tal você, {0}, descansar um pouco mais antes de voltar?",
+        "es": "[Yulma]\nLos investigadores del Viento Secreto ya terminaron su jornada y se han ido.\nEntonces, ¿qué tal si tú, {0}, descansas un poco más antes de volver?"
     },
     "2vmLDA": {
         "ko": "[율마]\n루두스 4층은 쉽게 드나들 수 있을만큼 만만한 곳이 아니잖아.\n너도 푹 쉬고 만반의 준비가 된 상태로 일하자구!",
         "en": "[Julma]\nThe fourth floor of Ludus isn't exactly a walk in the park, you know.\nYou should get plenty of rest too, and come back fully prepared!",
         "pt": "[Yulma]\nO 4º andar do Ludus não é um lugar fácil de entrar e sair, né?\nDescansa bem e vamos trabalhar quando estiveres totalmente preparado!",
-        "es": "[Yulma]\nLa cuarta planta de Ludus no es un lugar fácil de entrar y salir, ¿no?\n¡Descansa bien y trabajemos cuando estés completamente preparado!"
+        "es": "[Yulma]\nEl cuarto piso de Rudus no es precisamente un lugar al que se pueda entrar y salir fácilmente.\n¡Descansa bien y trabajemos cuando estés completamente preparado!"
     },
     "2/mLDA": {
         "ko": "[율마]\n트윈 카푸트와 베네눔도 4층의 개체들은 다른 층의 개체들에서 크게 변형된 모양이야.\n거대해지거나, 좀더 많은 독을 품거나…",
         "en": "[Julma]\nEven the Twin Caputs and Venenums on the fourth floor are significantly different from the others.\nThey're bigger and more poisonous, for example.",
         "pt": "[Yulma]\nOs Twin Kaput e os Benenum do 4º andar parecem ser versões bastante modificadas dos de outros andares.\nFicaram gigantes, ou passaram a ter mais veneno...",
-        "es": "[Yulma]\nParece que los Twin Kaput y los Benenum de la cuarta planta son versiones muy modificadas de los de otras plantas.\nSe han vuelto gigantes, o acumulan más veneno..."
+        "es": "[Yulma]\nParece que los Gemelos Caput y los Venenum de la cuarta planta son versiones muy modificadas de los de otras plantas.\nSe han vuelto gigantes, o acumulan más veneno"
     },
     "3PmLDA": {
         "ko": "[율마]\n연구원들은 이 녀석들에게 관심이 많은가봐.\n그래서 당신에게 사냥을 부탁할까 한대.\n<FONT SIZE = 9>음… 왜 우리가 안해주냐고? 윗선에서 뭔가 복잡한 사정이 있나봐. 나는 잘 모르지만.</FONT>",
-        "en": "[Julma]\nThe researchers seem really interested in these guys.\nSo they'd like you to hunt them for them.\n<FONT SIZE = 9>Mm, why can't us the Rebellion do it? 윗선에서 뭔가 복잡한 사정이 있나봐. I don't really know, though.</FONT>",
+        "en": "[Julma]\nThe researchers seem really interested in these guys.\nSo they'd like you to hunt them for them.\n<FONT SIZE = 9>Mm, why can't us the Rebellion do it? I think there's something complicated going on behind the scenes. I don't really know, though.</FONT>",
         "pt": "[Yulma]\nParece que os pesquisadores estão bem interessados nesses caras.\nPor isso, eles querem pedir pra você caçá-los.\n<FONT SIZE = 9>Hum… Por que não somos nós que fazemos isso? Parece que tem alguma situação complicada lá em cima. Mas eu não sei bem.</FONT>",
-        "es": "[Yulma]\nParece que los investigadores están muy interesados en estos bichos.\nPor eso, me han dicho que te pidan que los caces.\n<FONT SIZE = 9>Mmm… ¿Por qué no lo hacemos nosotros? Parece que hay alguna situación complicada en las altas esferas. Aunque yo no lo sé muy bien.</FONT>"
+        "es": "[Yulma]\nParece que los investigadores están muy interesados en estas criaturas.\nPor eso, quieren que los caces.\n<FONT SIZE = 9>Mmm… ¿Preguntas por qué no lo haremos? Dicen que hay ciertos problemas internos entre los altos mandos. Yo no sé mucho al respecto.</FONT>"
     },
     "3fmLDA": {
         "ko": "[율마]\n<FONT COLOR = 0000CD>자이언트 카푸트와 베네디</FONT>를 각각 15개체씩 사냥해 줄래?\n데이터는 자동으로 모일 테니까 사냥에만 전념해주면 돼.",
         "en": "[Julma]\n<FONT COLOR = 0000CD>Could you hunt 15 Giant Kaputs and 15 Venedis?\nTheir data will automatically accumulate on your chip.",
         "pt": "[Yulma]\n<FONT COLOR = 0000CD>Você caçaria 15 <FONT COLOR = 0000CD>Giant Kaput e 15 <FONT COLOR = 0000CD>Benedict</FONT>?\nOs dados vão ser coletados automaticamente, então você só precisa se concentrar na caçada.",
-        "es": "[Yulma]\n<FONT COLOR = 0000CD>¿Podrías cazar 15 ejemplares de cada uno de <FONT COLOR = 0000CD>Gigante Kaput y Benedi</FONT>?\nLos datos se recopilarán automáticamente, así que solo tienes que concentrarte en cazar."
+        "es": "[Yulma]\n<FONT COLOR = 0000CD>¿Podrías cazar 15 Caput GIgante y 15 Venedi</FONT>?\nLos datos se recopilarán automáticamente, así que solo tienes que concentrarte en cazar."
     },
     "3vmLDA": {
         "ko": "[율마]\n좋아, 가서 힘내서 사냥하고 와!\n당신의 성과가 나의 추가 수당이라구!",
         "en": "[Julma]\nAlright, then enjoy hunting!\nDon't forget what you do affects my bonus pay!",
         "pt": "[Yulma]\nÓtimo, vai lá, dá o teu melhor na caçada e volta!\nO teu desempenho é o meu bônus extra!",
-        "es": "[Yulma]\n¡Bien, ve y caza con ganas!\n¡Tu rendimiento es mi bonificación extra!"
+        "es": "[Yulma]\n¡Muy bien, ve a cazar con todas tus fuerzas y vuelve!\n¡Tu desempeño es mi bonificación extra!"
     },
     "3/mLDA": {
         "ko": "[율마]\n잘 다녀왔어? 무사히 사냥하고 돌아왔구나.\n연구원들이 오늘도 수고했다고 전해달래.",
         "en": "[Julma]\nWelcome back. I'm glad you came back in one piece.\nThe researchers said they thank you for your hard work as always.",
         "pt": "[Yulma]\nTudo bem? Você voltou da caçada sem problemas, né?\nOs pesquisadores mandaram dizer que você trabalhou duro hoje.",
-        "es": "[Yulma]\n¿Te fue bien? Vaya, regresaste sano y salvo de la caza.\nLos investigadores me pidieron que te dijera que hicieron un buen trabajo hoy."
+        "es": "[Yulma]\n¿Te fue bien? Veo que regresaste sano y salvo de la caza.\nos investigadores me pidieron que te dijera que hiciste un gran trabajo."
     },
     "4PmLDA": {
         "ko": "[율마]\n좋은 데이터가 잘 모였다나봐.\n그러면 오늘 일해 준 데 대한 수당을 챙겨줘야지.",
         "en": "[Julma]\nLooks like you gathered some good data.\nWell then, I should pay you for today's work.",
         "pt": "[Yulma]\nParece que conseguimos coletar bons dados.\nEntão, preciso te dar o bônus pelo trabalho de hoje.",
-        "es": "[Yulma]\nParece que se recopilaron buenos datos.\nEntonces, tengo que darte la bonificación por el trabajo de hoy."
+        "es": "[Yulma]\nParece que se han recopilado buenos datos.\nEntonces, tengo que darte la bonificación por el trabajo de hoy."
     },
     "4fmLDA": {
         "ko": "[율마]\n자, 여기 있어!\n오늘도 고생했으니 푹 쉬고 오라고. 내일도 열심히 하자!",
@@ -405,25 +405,25 @@
         "ko": "[율마]\n그쪽 연구원 씨, 지금은 철수했대. 칩 유지보수는 하루 한 번이면 충분하고!\n그러니 {0} 씨도 좀더 쉬다 오는 건 어때?",
         "en": "[Julma]\nThe researcher has left for the day. Also, your chip doesn't need to be maintained more than once a day.\nWhy don't you go get some rest, too, {0}?",
         "pt": "[Yulma]\nO pesquisador de lá já foi embora. A manutenção do chip só precisa ser feita uma vez por dia!\nEntão, que tal você, {0}, descansar um pouco mais?",
-        "es": "[Yulma]\nEl investigador de allá ya se retiró. ¡El mantenimiento del chip solo hace falta una vez al día!\nAsí que, ¿qué tal si tú también, {0}, te quedas descansando un rato más?"
+        "es": "[Yulma]\nEl investigador ya se retiró. ¡Una vez al día es suficiente para el mantenimiento del chip!\nAsí que, {0}, ¿por qué no descansas un poco más?"
     },
     "5PmLDA": {
         "ko": "[율마]\n아참, 그러고 보니 칩은 잘 붙어있어?\n지속시간이 그렇게 길지는 않다는데…",
         "en": "[Julma]\nOh, right—how's your chip doing?\nI've heard it doesn't last long.",
         "pt": "[Yulma]\nAh, falando nisso, o chip tá bem preso?\nDizem que a duração não é tão longa assim...",
-        "es": "[Yulma]\nAh, por cierto, ¿el chip sigue bien pegado?\nDicen que no dura mucho tiempo…"
+        "es": "[Yulma]\nAh, ahora que lo pienso, ¿el chip sigue pegado?\nDicen que no dura mucho tiempo…"
     },
     "5fmLDA": {
         "ko": "[율마]\n그리고 그동안 모은 데이터를 백업하고 포맷도 해서 새 데이터를 받을 수 있는 상태로 만들어야 한다는데, 그것까진 내가 할 재주가 없네…",
         "en": "[Julma]\nAlso, its data needs to be backed up and it has to be reformatted, so it can receive new data. But I don't know how to do all that.",
         "pt": "[Yulma]\nE dizem que é preciso fazer backup dos dados coletados até agora e formatar o chip para deixá-lo pronto para receber novos dados, mas eu não tenho jeito para isso...",
-        "es": "[Yulma]\nY dicen que hay que hacer una copia de seguridad de los datos que has juntado hasta ahora y formatear para que esté listo para recibir datos nuevos, pero eso no lo sé hacer..."
+        "es": "[Yulma]\nY dicen que hay que respaldar los datos que hemos juntado hasta ahora y formatear todo para poder recibir información nueva, pero no se me da bien eso..."
     },
     "5vmLDA": {
         "ko": "[율마]\n지금 현장에 나가있는 연구원을 소개해 줄테니, 직접 가볼래?\n아마 몬스터를 관찰하느라 위장하고 있을 테지만, 위치를 알려줄 테니 한번 가봐!",
         "en": "[Julma]\nI can introduce you to the researcher onsite who can do it. Want to go talk to him?\nHe's probably in disguise to observe monsters in there, but I can tell you where he is.",
         "pt": "[Yulma]\nVou te apresentar um pesquisador que está no local agora, quer dar uma passada lá?\nProvavelmente ele está camuflado pra observar os monstros, mas vou te dar a localização, então dá uma passada lá!",
-        "es": "[Yulma]\nTe voy a presentar a un investigador que está ahora mismo en el terreno, ¿quieres ir a verlo?\nSeguramente estará camuflado para observar a los monstruos, pero te diré dónde está, ¡así que ve a verlo!"
+        "es": "[Yulma]\nTe presentaré a un investigador que está ahora mismo en el campo, ¿quieres ir a verlo?\nProbablemente esté camuflado para observar a los monstruos, pero te diré dónde está, ¡así que ve a verlo!"
     },
     "5/mLDA": {
         "ko": "찾아간다.",
@@ -441,49 +441,49 @@
         "ko": "[율마]\n그래! 만날 나랑만 만나서 일을 전달받는 것도 답답한 점이 있지?",
         "en": "[Julma]\nYeah! It must be frustrating to only meet with me to receive tasks, right?",
         "pt": "[Yulma]\nÉ isso aí! Ficar sempre só comigo pra receber as tarefas também é meio chato, né?",
-        "es": "[Yulma]\n¡Claro! Es un poco frustrante que siempre te reúnas solo conmigo para recibir instrucciones, ¿no?"
+        "es": "[Yulma]\n¡Claro! Me imagino que es un fastidio tener que hablar siempre conmigo solo para que te pase las tareas, ¿no crees?"
     },
     "6vmLDA": {
         "ko": "[율마]\n기왕 만나러 가는 김에 궁금한 게 있으면 직접 물어보기도 하고 그래!\n<NAVI>[연구원]<INFO>sp_rudus4,192,204,0,101,0</INFO></NAVI>은 루두스 4층 중앙부 쯤에 주로 잠복한다고 들었어.",
         "en": "[Julma]\nSince we're meeting anyway, you can ask any questions you have directly!\n<NAVI>[Researcher]<INFO>sp_rudus4,192,204,0,101,0</INFO></NAVI>I heard usually lurks around the central area of Rudus 4th floor.",
         "pt": "[Yulma]\nJá que vais lá, se tiveres alguma dúvida, aproveita para perguntar diretamente!\nO <NAVI>[Pesquisador]<INFO>sp_rudus4,192,204,0,101,0</INFO></NAVI> fica escondido principalmente na parte central do 4º andar de Rudus, pelo que ouvi dizer.",
-        "es": "[Yulma]\nYa que vas a ir a verlo, ¡aprovecha para preguntarle directamente lo que tengas de duda!\nHe oído que <NAVI>[Investigador]<INFO>sp_rudus4,192,204,0,101,0</INFO></NAVI> suele estar al acecho por la zona central del piso 4 de Rudus."
+        "es": "[Yulma]\nYa que vas a ir a verlo, ¡aprovecha para preguntarle directamente si tienes alguna duda!\nEscuché que el <NAVI>[Investigador]<INFO>sp_rudus4,192,204,0,101,0</INFO></NAVI> suele andar encubierto cerca de la zona central del cuarto piso de Rudus."
     },
     "6/mLDA": {
         "ko": "[율마]\n나랑만 일하는 거, 답답하지 않아?\n현장에서 일하는 연구원을 직접 만나보는 일도 나쁘지 않을 텐데…",
         "en": "[Julma]\nDon't you feel frustrated with having many questions you want to ask someone?\nPerhaps meeting the onsite researcher directly wouldn't be a bad idea...",
         "pt": "[Yulma]\nTrabalhar só comigo, não é um pouco chato?\nNão seria nada mal encontrar pessoalmente os pesquisadores que trabalham no local...",
-        "es": "[Yulma]\n¿No te resulta un poco agobiante trabajar solo conmigo?\nNo estaría mal conocer en persona a los investigadores que trabajan en el campo…"
+        "es": "[Yulma]\n¿No te aburre trabajar solo conmigo?\nNo estaría mal conocer en persona a los investigadores que trabajan en el campo…"
     },
     "7PmLDA": {
         "ko": "[율마]\n기왕 비밀의 날개 연구원을 만나러 가는 김에 궁금한 게 있으면 직접 물어보기도 하고 그래!\n<NAVI>[연구원]<INFO>sp_rudus4,192,204,0,101,0</INFO></NAVI>은 루두스 4층 중앙부 쯤에 주로 잠복한다고 들었어.",
         "en": "[Julma]\nSince you're going to meet the Secret Wings researcher anyway, why not ask any questions you have directly!\n<NAVI>[Researcher]<INFO>sp_rudus4,192,204,0,101,0</INFO></NAVI> is said to be lurking around the central area of Rudus 4th Floor.",
-        "pt": "[Yulma]\nJá que vais encontrar o pesquisador da Asa Secreta, aproveita pra perguntar o que quiseres!\nOi, ouvi dizer que o <NAVI>[Pesquisador]<INFO>sp_rudus4,192,204,0,101,0</INFO></NAVI> costuma ficar escondido mais ou menos na parte central do 4º andar de Rudus.",
-        "es": "[Yulma]\nYa que vas a ver al investigador de Alas Secretas, ¡aprovecha para preguntarle lo que tengas de duda!\n<NAVI>[Investigador]<INFO>sp_rudus4,192,204,0,101,0</INFO></NAVI> suele estar escondido por ahí, en la zona central del piso 4 de Rudus."
+        "pt": "[Yulma]\nJá que vais encontrar o pesquisador do Vento Secreto, aproveita pra perguntar o que quiseres!\nOi, ouvi dizer que o <NAVI>[Pesquisador]<INFO>sp_rudus4,192,204,0,101,0</INFO></NAVI> costuma ficar escondido mais ou menos na parte central do 4º andar de Rudus.",
+        "es": "[Yulma]\nYa que vas a ver al investigador del Viento Secreto, ¡aprovecha para preguntarle directamente si tienes alguna duda!\nEscuché que el <NAVI>[Investigador]<INFO>sp_rudus4,192,204,0,101,0</INFO></NAVI> suele estar escondido por ahí, en la zona central del cuarto piso de Rudus."
     },
     "7fmLDA": {
         "ko": "[율마]\n다녀왔어? 이야기는 좀 나눠 봤구?\n연구원이 좀 잘 숨어있었지?",
         "en": "[Julma]\nDid you go? Did you talk to him?\nThe researcher was pretty well hidden, wasn't he?",
         "pt": "[Yulma]\nJá voltaste? Conseguiste conversar um pouco?\nO pesquisador estava bem escondido, não estava?",
-        "es": "[Yulma]\n¿Ya volviste? ¿Pudiste charlar un rato?\n¿El investigador se escondía bien, no?"
+        "es": "[Yulma]\n¿Ya regresaste? ¿Pudiste hablar un poco con él?\nEl investigador se escondió muy bien, ¿verdad?"
     },
     "7vmLDA": {
         "ko": "[율마]\n그 사람이 하이딩 기술이 없는데도 하이딩한 것처럼 잘 숨기로 유명하더라구.\n그래서 현장에 나가있는 거야.",
         "en": "[Julma]\nHe's famous for hiding so well, even though he doesn't know how to hide.\nThat's why he's out there, too.",
         "pt": "[Yulma]\nDizem que ele é famoso por se esconder tão bem que parece que usou a habilidade de camuflagem, mesmo sem ter essa habilidade.\nÉ por isso que ele está em campo.",
-        "es": "[Yulma]\nDicen que es famoso por esconderse tan bien que parece que tiene habilidades de camuflaje, aunque no las tiene.\nPor eso está en el campo."
+        "es": "[Yulma]\nDicen que es famoso por esconderse tan bien que parece que tiene la habilidad de camuflaje, aunque no la tenga.\nPor eso está en el campo."
     },
     "7/mLDA": {
         "ko": "[율마]\n이것도 나름 일이니까… 무사히 교체하고 왔으니 윗분들이 수당을 좀 챙겨드리랍시더라.",
         "en": "[Julma]\nSince this is part of the job... since I replaced it safely, my superiors want to pay you a little extra.",
         "pt": "[Yulma]\nIsso também é um trabalho, né… Como fiz a troca sem problemas, os chefes mandaram dar um bônus pra você.",
-        "es": "[Yulma]\nComo esto también es un trabajo... Como lo cambiaste sin problemas, los jefes dijeron que te dieran una propina."
+        "es": "[Yulma]\nComo esto también es un trabajo... Como hiciste el cambio sin problemas, los altos mandos me encargaron que te entregara una compensación."
     },
     "8PmLDA": {
         "ko": "[율마]\n뭐, 나한테도 좀 돌아오니까 나야 좋지!\n그럼 오늘 하루 잘 보내고 내일 봐!",
         "en": "[Julma]\nWell, I get some back too, so I'm happy!\nAlright, have a good day and see you tomorrow!",
         "pt": "[Yulma]\nBem, como um pouco vai para mim também, claro que fico feliz!\nEntão, tem um ótimo dia hoje e até amanhã!",
-        "es": "[Yulma]\nBueno, a mí también me toca algo, ¡así que me da gusto!\n¡Que tengas un buen día y nos vemos mañana!"
+        "es": "[Yulma]\n¡Bueno, como a mí también me toca algo, por supuesto que me gusta!\n¡Pues que tengas un buen día y nos vemos mañana!"
     },
     "8fmLDA": {
         "ko": "오류 003",
@@ -495,73 +495,73 @@
         "ko": "[율마]\n에엣, 안 하겠다고?\n바로 {0} 씨를 애타게 기다리고 있었다고~!",
         "en": "[Julma]\nSay what? No?\nCome on, {0}! You're the only one who can do this!",
         "pt": "[Yulma]\nEita, não vai fazer?\nEu estava esperando ansiosamente pelo {0}~!",
-        "es": "[Yulma]\n¡¿Qué?! ¿No vas a hacerlo?\n¡Justo estaba esperando ansiosamente a {0}!"
+        "es": "[Yulma]\n¡¿Eeeh?! ¡¿Cómo que no?!\n¡Pero si te estaba esperando con ansias, {0}!"
     },
     "8/mLDA": {
         "ko": "비밀의 날개 연구원",
         "en": "Secret Wing Researcher",
-        "pt": "Pesquisador das Asas Secretas",
-        "es": "Investigador de Alas Secretas"
+        "pt": "Pesquisador do Vento Secreto",
+        "es": "Investigador del VIento Secreto"
     },
     "9PmLDA": {
         "ko": "[비밀의 날개 연구원]\n좋구나. 현장 근무.\n몬스터 관찰 많이 해야지.",
         "en": "[Secret Wing Researcher]\nThis is great. Field work.\nI'll get plenty of monster observation.",
-        "pt": "[Pesquisador das Asas Secretas]\nQue bom. Trabalho de campo.\nTem que observar muitos monstros.",
-        "es": "[Investigador de Alas Secretas]\nQué bien. Trabajo de campo.\nTienes que observar muchos monstruos."
+        "pt": "[Pesquisador do Vento Secreto]\nQue bom. Trabalho de campo.\nVou conseguir observar muitos monstros.",
+        "es": "[Investigador del VIento Secreto]\nQué bien... el trabajo de campo.\nAsí podré pasar más tiempo observando a los monstruos."
     },
     "9fmLDA": {
         "ko": "[비밀의 날개 연구원]\n…헉!\n절 어떻게 알아보신 거예요?",
         "en": "[Secret Wing Researcher]\n...Heek!\nHow did you know I was here?",
-        "pt": "[Pesquisador das Asas Secretas]\n…Uau!\nComo você me reconheceu?",
-        "es": "[Investigador de Alas Secretas]\n…¡Uf!\n¿Cómo me has reconocido?"
+        "pt": "[Pesquisador do Vento Secreto]\n…Uau!\nComo você me reconheceu?",
+        "es": "[Investigador del VIento Secreto]\n...¡Vaya!\n¿Cómo me reconociste?"
     },
     "9vmLDA": {
         "ko": "[비밀의 날개 연구원]\n아, 다시 보니 {0} 씨네.\n연락 받았어요. 칩 갱신하러 오셨죠?",
         "en": "[Secret Wing Researcher]\nOh, it's you, {0}. Whew!\nYes, I've received word. You're here to renew your chip, right?",
-        "pt": "[Pesquisador das Asas Secretas]\nAh, olhando melhor, é o {0}.\nRecebi a notificação. Você veio atualizar o chip, não é?",
-        "es": "[Investigador de Alas Secretas]\nAh, ahora que te veo bien, eres {0}.\nMe avisaron. ¿Vienes a actualizar el chip?"
+        "pt": "[Pesquisador do Vento Secreto]\nAh, olhando melhor, é o {0}.\nRecebi a notificação. Você veio atualizar o chip, não é?",
+        "es": "[Investigador del VIento Secreto]\nAh, ahora que te veo bien, eres {0}.\nMe avisaron. ¿Ha venido a actualizar el chip?"
     },
     "9/mLDA": {
         "ko": "[비밀의 날개 연구원]\n어디보자… 칩 좀 잠깐 떼 볼게요.\n흠흠… 제가 가진 기계와 연결해서… 데이터를 비우고…",
         "en": "[Secret Wing Researcher]\nLet me see... I'll remove your chip for a moment.\nHm, hm... Now, I'm going to connect it to this machine I have to back up the data...",
-        "pt": "[Pesquisador da Asa Secreta]\nDeixa eu dar uma olhada… Vou tirar o chip por um instante.\nHum… Vou conectar ao meu equipamento… Limpar os dados…",
-        "es": "[Investigador de Alas Secretas]\nA ver... Te voy a quitar el chip un momento.\nMmm... Lo conecto a mi máquina... borro los datos..."
+        "pt": "[Pesquisador do Vento Secreto]\nDeixa eu dar uma olhada… Vou tirar o chip por um instante.\nHum… Vou conectar ao meu equipamento… Limpar os dados…",
+        "es": "[Investigador del VIento Secreto]\nA ver... Te voy a quitar el chip un momento.\nMmm... Lo conecto a mi máquina... y borraré los datos..."
     },
     "+PmLDA": {
         "ko": "[비밀의 날개 연구원]\n자, 다 됐습니다! 데이터 깨끗하고 아주 좋네요. 다시 붙여 드릴게요.",
         "en": "[Secret Wing Researcher]\nThere, it's done! All its data seems intact and undamaged. Let me stick it back to you.",
-        "pt": "[Pesquisador da Asa Secreta]\nPronto, já está! Os dados estão limpos, ótimo. Vou recolocá-lo.",
-        "es": "[Investigador de Alas Secretas]\n¡Ya está! Los datos están limpios, perfecto. Te lo vuelvo a poner."
+        "pt": "[Pesquisador do Vento Secreto]\nPronto, já está! Os dados estão limpos, ótimo. Vou recolocá-lo.",
+        "es": "[Investigador del VIento Secreto]\n¡Ya está! Los datos están limpios y en perfecto estado. Te lo vuelvo a poner."
     },
     "+fmLDA": {
         "ko": "[비밀의 날개 연구원]\n이것도 나름 일이니까, <NAVI>[율마]<INFO>pub_cat,94,43,0,101,0</INFO></NAVI> 씨에게 돌아가시면 약간의 수당을 드릴 거예요.\n늘 신세지고 있습니다. 수고하세요!",
         "en": "[Secret Wing Researcher]\nSince this is part of your duties, if you return to <NAVI>[Julma]<INFO>pub_cat,94,43,0,101,0</INFO></NAVI>, I'll provide a small allowance.\nI'm always indebted to you. Keep up the good work!",
-        "pt": "[Pesquisador da Asa Secreta]\nComo isso também dá trabalho, se você voltar e falar com o <NAVI>[Yulma]<INFO>pub_cat,94,43,0,101,0</INFO></NAVI>, vou te dar uma pequena gratificação.\nSempre fico em dívida com você. Bom trabalho!",
-        "es": "[Investigador de Alas Secretas]\nComo esto también es un trabajo, si le dices a <NAVI>[Yulma]<INFO>pub_cat,94,43,0,101,0</INFO></NAVI>, te daré una pequeña propina.\nSiempre te estoy en deuda. ¡Buen trabajo!"
+        "pt": "[Pesquisador do Vento Secreto]\nComo isso também dá trabalho, se você voltar e falar com o <NAVI>[Yulma]<INFO>pub_cat,94,43,0,101,0</INFO></NAVI>, vou te dar uma pequena gratificação.\nSempre fico em dívida com você. Bom trabalho!",
+        "es": "[Investigador del VIento Secreto]\nAl fin y al cabo, esto cuenta como trabajo. Si vuelves con <NAVI>[Yulma]<INFO>pub_cat,94,43,0,101,0</INFO></NAVI>, ella te entregará una pequeña recompensa.\nGracias por la ayuda de siempre. ¡Cuídate!"
     },
     "+vmLDA": {
         "ko": "[비밀의 날개 연구원]\n악! 아는 척 하시면 몬스터가 다가온다구요!\n저리 가세욧!",
         "en": "[Secret Wing Researcher]\nAck! Don't talk to me. I can't have the monsters notice me.\nGo away!",
-        "pt": "[Pesquisador das Asas Secretas]\nEita! Se você fingir que me conhece, os monstros vêm pra cá!\nVai embora daqui!",
-        "es": "[Investigador de Alas Secretas]\n¡Ay! ¡Si te haces el que no me conoces, se acercan los monstruos!\n¡Vete de ahí!"
+        "pt": "[Pesquisador do Vento Secreto]\nEita! Se você fingir que me conhece, os monstros vêm pra cá!\nVai embora daqui!",
+        "es": "[Investigador del VIento Secreto]\n¡Ay! Si actúas como si me conocieras, ¡un monstruo se acercará!\n¡Aléjate de mí!"
     },
     "+/mLDA": {
         "ko": "파이언",
         "en": "Paian",
-        "pt": "Pion",
+        "pt": "Paian",
         "es": "Pion"
     },
     "/PmLDA": {
         "ko": "[파이언]\nZzz… 헉!\n시, 실례했습니다! 근무 중 이상 무!",
         "en": "[Paian]\nZzz... Huh!\nS-Sorry! All clear, sir!",
-        "pt": "[Paiyon]\nZzz… Ufa!\nD, desculpa aí! Tudo normal no trabalho!",
+        "pt": "[Paian]\nZzz… Ufa!\nD, desculpa aí! Tudo normal no trabalho!",
         "es": "[Pion]\nZzz… ¡Uf!\n¡P-perdón! ¡Todo en orden durante el turno!"
     },
     "/fmLDA": {
         "ko": "[파이언]\n스읍, 하암… 이 비탈길 아래는 출입 통제 구역입니다.\n일반인은 들어가실 수 없습니다.",
         "en": "[Paian]\nSshh, hmm... This slope below is a restricted access zone.\nUnauthorized personnel cannot enter.",
-        "pt": "[Pion]\nSnif, hmm… A área abaixo desta ladeira é restrita.\nPessoas comuns não podem entrar.",
-        "es": "[Pion]\nSnif, snif… Más abajo de esta cuesta hay una zona de acceso restringido.\nLos civiles no pueden entrar."
+        "pt": "[Paian]\nSnif, hmm… A área abaixo desta ladeira é restrita.\nPessoas comuns não podem entrar.",
+        "es": "[Pion]\nSnif, snif… Más abajo de esta cuesta hay una zona de acceso restringido.\nNo se permite la entrada a personas no autorizadas."
     },
     "/vmLDA": {
         "ko": "일반인 아닌데.",
@@ -572,73 +572,73 @@
     "//mLDA": {
         "ko": "[파이언]\n네? 아… 아닛! {0} 님!\n그… 그래도, 제 독단으로 들여보내드릴 수는 없습니다.",
         "en": "[Paian]\nHuh? Ah... Ah! {0}!\nBut... I can't let you in on my own authority.",
-        "pt": "[Pion]\nHã? Ah… Ah! {0}!\nBem… mesmo assim, não posso deixar você entrar por conta própria.",
-        "es": "[Pion]\n¿Eh? Ah… ¡Ah! ¡{0}!\nA… aunque sea así, no puedo dejarte pasar por mi cuenta."
+        "pt": "[Paian]\nHã? Ah… Ah! {0}!\nBem… mesmo assim, não posso deixar você entrar por conta própria.",
+        "es": "[Pion]\n¿Eh? Ah… ¡Ah! ¡{0}!\nEs que… aun así, no puedo dejarte pasar por mi cuenta."
     },
     "APqLDA": {
         "ko": "[파이언]\n총알 탄 야옹이에 가셔서 <NAVI>[율마]<INFO>pub_cat,94,43,0,101,0</INFO></NAVI>와 상담해 봐 주세요.\n그녀석이 여기 임무 담당입니다.",
         "en": "[Paian]\nPlease go to Cat on a Bullet and consult with <NAVI>[Julma]<INFO>pub_cat,94,43,0,101,0</INFO></NAVI>.\nShe's in charge of missions here.",
-        "pt": "[Pion]\nVai até o Gatinho com Balas e conversa com a <NAVI>[Yulma]<INFO>pub_cat,94,43,0,101,0</INFO></NAVI>.\nEla é a responsável pela missão aqui.",
-        "es": "[Pion]\nVe con el gatito con balas y habla con <NAVI>[Yulma]<INFO>pub_cat,94,43,0,101,0</INFO></NAVI>.\nÉl es el encargado de las misiones aquí."
+        "pt": "[Paian]\nVai até o Miado de Bala e conversa com a <NAVI>[Yulma]<INFO>pub_cat,94,43,0,101,0</INFO></NAVI>.\nEla é a responsável pela missão aqui.",
+        "es": "[Pion]\nVe a Maullido de Bala y habla con <NAVI>[Yulma]<INFO>pub_cat,94,43,0,101,0</INFO></NAVI>.\nElla es la responsable de la misión aquí."
     },
     "AfqLDA": {
         "ko": "[파이언]\n습… 아, 이건 절대 침이 아닙니다.\n열정과 노력으로 빛나는 땀방울입니다.",
         "en": "[Paian]\nWiping his mouth* Oh, I-I wasn't drooling.\nI'm just trying to wipe off the hard-earned sweat.",
-        "pt": "[Pion]\nSaliva… Ah, isso não é saliva, de jeito nenhum.\nSão gotas de suor que brilham de paixão e esforço.",
-        "es": "[Pion]\nBabeo… Ah, esto no es baba, para nada.\nSon gotas de sudor que brillan por la pasión y el esfuerzo."
+        "pt": "[Paian]\nSaliva… Ah, isso não é saliva, de jeito nenhum.\nSão gotas de suor que brilham de paixão e esforço.",
+        "es": "[Pion]\nUf… Ah, esto no es saliva, en absoluto.\nSon gotas de sudor que brillan con pasión y esfuerzo."
     },
     "AvqLDA": {
         "ko": "[파이언]\n흠, 흠. 이 비탈길 아래는 지금 출입을 통제하고 있습니다만…\n무슨 일이십니까?",
         "en": "[Paian]\nHm, hm. Access is restricted below this slope at the moment...\nHow may I help you?",
-        "pt": "[Pion]\nHum, hum. O acesso à parte de baixo dessa ladeira está restrito no momento, mas...\nO que você precisa?",
-        "es": "[Pion]\nEhm, ehm. Ahora mismo están controlando el acceso al final de esta cuesta...\n¿Qué pasa?"
+        "pt": "[Paian]\nHum, hum. O acesso à parte de baixo dessa ladeira está restrito no momento, mas...\nO que você precisa?",
+        "es": "[Pion]\nCof, cof. El acceso a la parte baja de esta pendiente está restringido por el momento...\n¿A qué se debe su visita?"
     },
     "A/qLDA": {
         "ko": "루두스 4층에 가고 싶다.",
         "en": "I want to enter Rudus Floor 4.",
-        "pt": "Quero ir para o 4º andar do Ludus.",
-        "es": "Quiero ir al cuarto piso de Ludus."
+        "pt": "Quero ir para o 4º andar do Rudus.",
+        "es": "Quiero ir al cuarto piso de Rudus."
     },
     "BPqLDA": {
         "ko": "근무태도를 지적한다.",
         "en": "I'm pointing out your work attitude.",
         "pt": "Vou criticar a atitude dele no trabalho.",
-        "es": "Te voy a llamar la atención por tu actitud en el trabajo."
+        "es": "Voy a criticar su actitud en el trabajo."
     },
     "BfqLDA": {
         "ko": "[파이언]\n4층이요? 제가 바로 거길 통제하고 있습니다만…\n아, 총알 탄 야옹이에서 율마의 의뢰를 받고 보러 오셨다고요?",
         "en": "[Paian]\nThe fourth floor? I'm manning the entrance to that floor right now...\nAh, you came to see me on Julma's request from Cat on a Bullet?",
-        "pt": "[Pion]\n4º andar? Sou eu quem controla essa área...\nAh, você recebeu um pedido da Yulma no “Gatinho com Balas” e veio aqui para dar uma olhada?",
-        "es": "[Pion]\n¿La cuarta planta? Yo soy quien controla el acceso justo ahí...\nAh, ¿has venido a ver esto por encargo de Yulma, que te lo pidió en «Gatito con balas»?"
+        "pt": "[Paian]\n4º andar? Sou eu quem controla essa área...\nAh, você recebeu um pedido da Yulma no “Gatinho com Balas” e veio aqui para dar uma olhada?",
+        "es": "[Pion]\n¿El cuarto piso? Yo soy quien se encarga de ese lugar, pero...\nAh, ¿así que vienes de parte de Yulma en Maullido de Bala y viniste aquí a echar un vistazo??"
     },
     "BvqLDA": {
         "ko": "[파이언]\n그럼 통과시켜드려야지요.\n4층의 실험체들을 살펴보시고, 연구 의뢰를 도와주시려면 <NAVI>[율마]<INFO>pub_cat,94,43,0,101,0</INFO></NAVI>에게 돌아가서 물어보시면 됩니다.",
         "en": "[Paian]\nThen I should let you through.\nFeel free to check out the test subjects on the fourth floor. If you're interested in helping us with our research, then please go back to <NAVI>[Julma]<INFO>pub_cat,94,43,0,101,0</INFO></NAVI> and ask her.",
-        "pt": "[Pion]\nEntão vou ter que deixar você passar.\nDepois de dar uma olhada nas cobaias do 4º andar, se quiser ajudar com o pedido de pesquisa, volte e pergunte a <NAVI>[Yulma]<INFO>pub_cat,94,43,0,101,0</INFO></NAVI>.",
-        "es": "[Pion]\nEntonces tengo que dejarte pasar.\nSi quieres examinar a los sujetos de experimentación de la cuarta planta y ayudar con el encargo de investigación, vuelve y pregúntale a <NAVI>[Yulma]<INFO>pub_cat,94,43,0,101,0</INFO></NAVI>."
+        "pt": "[Paian]\nEntão vou ter que deixar você passar.\nDepois de dar uma olhada nas cobaias do 4º andar, se quiser ajudar com o pedido de pesquisa, volte e pergunte a <NAVI>[Yulma]<INFO>pub_cat,94,43,0,101,0</INFO></NAVI>.",
+        "es": "[Pion]\nEntonces tengo que dejarte pasar.\nDespués de echar un vistazo a los especímenes del cuarto piso y, si deseas colaborar con la investigación, regresa y pregúntale a <NAVI>[Yulma]<INFO>pub_cat,94,43,0,101,0</INFO></NAVI>."
     },
     "B/qLDA": {
         "ko": "[파이언]\n4층으로 이동시켜 드리겠습니다.",
         "en": "[Paian]\nI'll send you to the 4th floor.",
-        "pt": "[Pion]\nVou te levar pro 4º andar.",
+        "pt": "[Paian]\nVou te levar pro 4º andar.",
         "es": "[Pion]\nTe llevaré al cuarto piso."
     },
     "CPqLDA": {
         "ko": "[파이언]\n앗, 근무 태도에 문제가 있다고요?\n사, 사람이 좀 졸 수도 있지!!",
         "en": "[Paian]\nWhat? No, I wasn't!\n...S-so what? I was so tired!",
-        "pt": "[Pion]\nAh, você acha que tenho problemas de atitude no trabalho?\nDá pra cochilar um pouco, né!!",
-        "es": "[Pion]\n¡¿Qué, dices que tengo problemas de actitud en el trabajo?!\n¡Pero, a uno se le puede dar un poco de sueño!!"
+        "pt": "[Paian]\nAh, você acha que tenho problemas de atitude no trabalho?\nDá pra cochilar um pouco, né!!",
+        "es": "[Pion]\n¡¿Qué, dices que tengo problemas de actitud en el trabajo?!\n¡O-Oye, cualquiera puede quedarse un poco dormido de vez en cuando!"
     },
     "CfqLDA": {
         "ko": "[파이언]\n조금밖에 안 졸았다고요!\n정말입니다!",
         "en": "[Paian]\nI only dozed off for a little bit!\nI swear!",
-        "pt": "[Pion]\nEu só cochilei um pouquinho!\nÉ verdade!",
+        "pt": "[Paian]\nEu só cochilei um pouquinho!\nÉ verdade!",
         "es": "[Pion]\n¡Solo me quedé dormido un ratito!\n¡De verdad!"
     },
     "CvqLDA": {
         "ko": "[파이언]\nZzz… 헉! 시, 실례했습니다!\n루두스 4층으로 내려가시겠습니까?",
         "en": "[Paian]\nZzz… Huh! S-sorry!\nWould you like to go down to Rudus Floor 4?",
-        "pt": "[Paiyon]\nZzz… Ufa! D, desculpa aí!\nQueres descer para o 4º andar do Ludus?",
+        "pt": "[Paian]\nZzz… Ufa! D, desculpa aí!\nQueres descer para o 4º andar do Ludus?",
         "es": "[Pion]\nZzz… ¡Uf! ¡P-perdón!\n¿Quieres bajar a la cuarta planta de Ludus?"
     },
     "C/qLDA": {
@@ -656,13 +656,13 @@
     "DfqLDA": {
         "ko": "[파이언]\n이동시켜 드리겠습니다. 몸조심하십시오!",
         "en": "[Paian]\nI'll move you. Please be careful!",
-        "pt": "[Pion]\nVou te levar até lá. Cuida-te!",
+        "pt": "[Paian]\nVou te levar até lá. Cuida-te!",
         "es": "[Pion]\nTe llevaré. ¡Cuídate!"
     },
     "DvqLDA": {
         "ko": "[파이언]\n알겠습니다. 하아암….",
         "en": "[Paian]\nGot it. Hah...",
-        "pt": "[Pion]\nEntendi. Haaaam….",
+        "pt": "[Paian]\nEntendi. Haaaam….",
         "es": "[Pion]\nEntendido. Aaaah..."
     },
     "D/qLDA": {
@@ -675,7 +675,7 @@
         "ko": "[안수리야]\n오, 저번 작전의 영웅님이시군요.\n이런 곳에서 만나게 되어서 영광입니다. 제가 한 잔 사도 될까요?",
         "en": "[Ansuria]\nOh, you're the hero from the last operation.\nIt's an honor to meet you in a place like this. May I buy you a drink?",
         "pt": "[Ansuriya]\nAh, você é o herói da última missão.\nÉ uma honra encontrá-lo aqui. Posso te pagar uma bebida?",
-        "es": "[Ansuriya]\nOh, eres el héroe de la última misión.\nEs un honor encontrarte aquí. ¿Te invito a una copa?"
+        "es": "[Ansuriya]\nOh, eres el héroe de la última operación.\nEs un honor encontrarte aquí. ¿Te invito a una copa?"
     },
     "EfqLDA": {
         "ko": "- 215레벨 이상 수행 가능한 퀘스트입니다 -",
@@ -687,115 +687,115 @@
         "ko": "[거베나]\n와, {0} 님! 사인해주실수 있나요?\n영광이에요! 헤헤~",
         "en": "[Gerbena]\nWow, {0}! Can I get your autograph?\nI'm so honored to meet you! Teehee!",
         "pt": "[Gervena]\nUau, {0}! Você poderia dar um autógrafo?\nÉ uma honra! Hehe~",
-        "es": "[Gervena]\n¡Vaya, {0}! ¿Me das un autógrafo?\n¡Es un honor! Jeje~"
+        "es": "[Gervena]\n¡Vaya, {0}! ¿Me darías un autógrafo?\n¡Es un honor! Jeje~"
     },
     "E/qLDA": {
         "ko": "-에피소드 17.1 '순수한 사실' 완료 후 진행 가능한 퀘스트가 있습니다.-",
         "en": "-There is a quest available after completing Episode 17.1 'Innocent Truth'.-",
         "pt": "-Há uma missão disponível após a conclusão do Episódio 17.1 “A Pura Verdade” -",
-        "es": "-Hay una misión disponible tras completar el episodio 17.1 «La pura verdad».-"
+        "es": "- Hay una misión disponible tras completar el episodio 17.1 'Ilusión'.-"
     },
     "FPqLDA": {
         "ko": "[안수리야]\n여기, 트로피칼 소그라트 한 잔 주세요!\n아, 트로피칼 소그라트로 괜찮으십니까?",
         "en": "[Ansuria]\nHere, give me a glass of Tropical Sograt!\nAh, is Tropical Sograt alright for you?",
-        "pt": "[Ansuriya]\nOlha, me serve um Tropical Sograt!\nAh, está tudo bem com um Tropical Sograt?",
-        "es": "[Ansuriya]\n¡Oye, dame un Tropical Sograt!\nAh, ¿te parece bien un Tropical Sograt?"
+        "pt": "[Ansuriya]\nOlha, me serve um Sograt Tropical!\nAh, está tudo bem com um Sograt Tropical?",
+        "es": "[Ansuriya]\n¡Oye, dame un Sograt Tropical!\nAh, ¿te parece bien un Sograt Tropical?"
     },
     "FfqLDA": {
         "ko": "[거베나]\n저는 초코우유가 좋아요.",
         "en": "[Gerbena]\nI like chocolate milk.",
-        "pt": "[Gevena]\nEu prefiro chocolate com leite.",
-        "es": "[Gevena]\nA mí me gusta la leche con chocolate."
+        "pt": "[Gervena]\nEu prefiro chocolate com leite.",
+        "es": "[Gervena]\nA mí me gusta la leche con chocolate."
     },
     "FvqLDA": {
         "ko": "[안수리야]\n너는 네 돈으로 사마셔.\n그나저나 거베나, 아미키티아 쪽 인선은 어떻게 되어 가고 있어?",
         "en": "[Ansuria]\nYou buy it with your own money.\nBy the way, Gerbena, how's the personnel selection for Amicitia going?",
-        "pt": "[Ansuriya]\nCompra com o teu próprio dinheiro.\nA propósito, Gerbena, como está indo a seleção de pessoal do lado de Amikitia?",
-        "es": "[Ansuriya]\nCómpratelo con tu dinero.\nPor cierto, Gerbena, ¿cómo va la selección de personal para Amikitia?"
+        "pt": "[Ansuriya]\nCompra com o teu próprio dinheiro.\nA propósito, Gervena, como está indo a seleção de pessoal do lado de Amikitia?",
+        "es": "[Ansuriya]\nCómpratelo con tu dinero.\nPor cierto, Gervena, ¿cómo va la selección de personal para Amicitia?"
     },
     "F/qLDA": {
         "ko": "[거베나]\n음, 그게… 일단 편성은 마쳤어요.\n그런데 아무래도 총원이 적다 보니, 투입되는 리벨리온 수가 좀 모자라는 건 사실이에요.",
         "en": "[Gerbena]\nWell... It's done for now.\nBut since we're not a big group, we don't have enough members to send there.",
         "pt": "[Gervena]\nHum, bem... A formação já está pronta.\nMas, como o total de membros é pequeno, é verdade que o número de Rebeliões que podem ser mobilizados está um pouco baixo.",
-        "es": "[Gevena]\nMmm, bueno… Por ahora ya terminamos la organización.\nPero como el total de efectivos es bajo, la verdad es que nos faltan algunos Rebeldes para desplegar."
+        "es": "[Gervena]\nBueno, es que… La formación está completa por ahora.\nPero como no somos un grupo grande, no tenemos suficientes miembros para enviar allí."
     },
     "GPqLDA": {
         "ko": "[안수리야]\n흠, 어떻게 하지? 거베나. 네가 갈래?",
         "en": "[Ansuria]\nHmm, what should we do? Gerbena. Do you want to go?",
-        "pt": "[Ansuriya]\nHum, o que a gente faz? Gebena. Você vai?",
-        "es": "[Ansuriya]\nMmm, ¿qué hacemos? Gebena. ¿Vas tú?"
+        "pt": "[Ansuriya]\nHum, o que a gente faz? Gervena. Você vai?",
+        "es": "[Ansuriya]\nMmm, ¿qué deberíamos hacer? Gerbena, ¿quieres ir?"
     },
     "GfqLDA": {
         "ko": "[거베나]\n아아, 좀 봐주세요. 전 인원 배치만으로도 머리가 빠진다고요.",
         "en": "[Gerbena]\nOh, please. Just the staffing alone is making my hair fall out.",
-        "pt": "[Gevena]\nAh, dá um tempo. Só de distribuir o pessoal já estou ficando louca.",
-        "es": "[Gevena]\nAy, por favor. Solo con la distribución del personal ya se me cae el pelo."
+        "pt": "[Gervena]\nAh, dá um tempo. Só de distribuir o pessoal já estou ficando louca.",
+        "es": "[Gervena]\nAy, por favor. Solo con pensar en la distribución del personal ya se me cae el pelo"
     },
     "GvqLDA": {
         "ko": "[안수리야]\n어떡한다. 한 층당 두 팀은 필요할 텐데…",
         "en": "[Ansuria]\nWhat do we do? We need at least two teams for each floor.",
         "pt": "[Ansuriya]\nO que vamos fazer? Vamos precisar de duas equipes por andar...",
-        "es": "[Ansuriya]\n¿Qué hacemos? Se necesitarán dos equipos por piso..."
+        "es": "[Ansuriya]\n¿Qué hacemos? Necesitaremos dos equipos por piso..."
     },
     "G/qLDA": {
         "ko": "[거베나]\n저, 혹시 영웅님.\n저희를 좀 도와주실 수 있나요?",
         "en": "[Gerbena]\nSir hero.\nCould you help us?",
-        "pt": "[Gevena]\nOi, por acaso, Herói.\nVocê poderia nos ajudar um pouco?",
-        "es": "[Gevena]\nOye, ¿por casualidad, Héroe?\n¿Podrías echarnos una mano?"
+        "pt": "[Gervena]\nOi, por acaso, Herói.\nVocê poderia nos ajudar um pouco?",
+        "es": "[Gervena]\nOye, ¿por casualidad, Héroe?\n¿Podrías ayudarnos un poco?"
     },
     "HPqLDA": {
         "ko": "[안수리야]\n거베나, 갑자기 무슨 소리야!",
         "en": "[Ansuria]\nGerbena, what are you talking about all of a sudden!",
         "pt": "[Ansuriya]\nGervena, do nada, o que é isso!",
-        "es": "[Ansuriya]\n¡Gervena, qué es eso de repente!"
+        "es": "[Ansuriya]\n¡Gervena, ¿de qué estás hablando de repente?!"
     },
     "HfqLDA": {
         "ko": "[거베나]\n아니, 영웅님은 저번 작전에서도 리벨리온과 연합해서 임무를 맡아주셨잖아요.\n그러니까 이번에도 좀 지원해주실수 있나 하고…",
         "en": "[Gerbena]\nNo, Adventurer, you already took on the mission with the Rebellion last time.\nSo I was wondering if you could support us again this time...",
         "pt": "[Gervena]\nNão, o Herói, você já se uniu à Rebelião na última operação e assumiu a missão, não foi?\nEntão, pensei que talvez pudesse nos dar uma força dessa vez também...",
-        "es": "[Gervena]\nNo, el héroe ya se unió a Rebellion en la última operación y nos ayudó con la misión, ¿no?\nAsí que me preguntaba si podría apoyarnos un poco esta vez también…"
+        "es": "[Gervena]\nNo, pero, héroe, en la última operación también se alió con la Rebelión para llevar a cabo la misión.\nPor eso pensaba que tal vez podría echarnos una mano esta vez también…"
     },
     "HvqLDA": {
         "ko": "[안수리야]\n어… 그렇네.\n모험가님. 어떻게 생각하세요?",
         "en": "[Ansuria]\nHm... you're right.\nAdventurer, what do you think?",
-        "pt": "[An Suriya]\nAh... é verdade.\nAventureiro. O que você acha?",
-        "es": "[An Suriya]\nEh… es verdad.\nAventurero. ¿Qué te parece?"
+        "pt": "[Ansuriya]\nAh... é verdade.\nAventureiro. O que você acha?",
+        "es": "[Ansuriya]\nEh… es verdad.\nTrotamundos. ¿Qué te parece?"
     },
     "H/qLDA": {
         "ko": "무슨 일인지 일단 들어보고…",
         "en": "Let me hear what this is about first...",
         "pt": "Vamos ouvir primeiro do que se trata...",
-        "es": "Primero vamos a ver de qué se trata…"
+        "es": "Primero voy a escuchar de qué se trata…"
     },
     "IPqLDA": {
         "ko": "[안수리야]\n아, 그렇지요. 그게 순서지요.\n다름이 아니라, 아인브로크 주변에서 새로운 실험시설을 발견했습니다.",
         "en": "[Ansuria]\nAh, that's right. That's the order of things.\nThe thing is, we've discovered a new testing facility near Einbroch.",
-        "pt": "[Ansuriya]\nAh, é verdade. Essa é a ordem certa.\nO que acontece é que descobrimos uma nova instalação experimental nos arredores de Ainbrock.",
-        "es": "[Ansuriya]\nAh, claro. Ese es el orden.\nEl caso es que hemos descubierto una nueva instalación experimental cerca de Ainbrock."
+        "pt": "[Ansuriya]\nAh, é verdade. Essa é a ordem certa.\nO que acontece é que descobrimos uma nova instalação experimental nos arredores de Einbroch.",
+        "es": "[Ansuriya]\nAh, claro. Ese es el orden.\nEl caso es que hemos descubierto unas nuevas instalaciones experimentales en los alrededores de Einbroch."
     },
     "IfqLDA": {
         "ko": "[안수리야]\n이름은 <FONT COLOR = 0000CD>아미키티아 종합 연구소</FONT>. 레켄베르에서 제공한 자료에 따르면 베르너 연구소의 자매 연구소라고 합니다.",
         "en": "[Ansuria]\nThe name is <FONT COLOR = 0000CD>Amicitia Comprehensive Research Institute</FONT>. According to data provided by Rekenber, it is said to be a sister lab to Werner's lab.",
-        "pt": "[Ansuriya]\nO nome é <FONT COLOR = 0000CD>Instituto de Pesquisa Amikitia</FONT>. Segundo os dados fornecidos por Lekenber, é um instituto irmão do Instituto Werner.",
-        "es": "[Ansuriya]\nSe llama <FONT COLOR = 0000CD>Instituto de Investigación General Amikitia</FONT>. Según los datos que nos dio Lekenber, es un instituto hermano del Instituto Werner."
+        "pt": "[Ansuriya]\nO nome é <FONT COLOR = 0000CD>Instituto de Pesquisa Amicitia</FONT>. Segundo os dados fornecidos por Rekenber, é um instituto irmão do Instituto Werner.",
+        "es": "[Ansuriya]\nSe llama <FONT COLOR = 0000CD>Instituto de Investigación General Amicitia</FONT>. Según los datos proporcionado por Rekenber se trata de un instituto asociado al Instituto Werner."
     },
     "IvqLDA": {
         "ko": "[안수리야]\n그다지 불법 실험을 하지는 않고 호문클루스로 키메라 배양 연구를 중심으로 한 모양이지만, 지하의 마력발전소에서 폭발사고가 일어난 뒤로 버려졌다고 합니다.",
         "en": "[Ansuria]\nIt doesn't seem to conduct illegal experiments, focusing instead on homunculus chimera cultivation research. However, it was abandoned after an explosion at the underground mana power plant.",
         "pt": "[Ansuriya]\nParece que eles não faziam muitos experimentos ilegais, concentrando-se principalmente na pesquisa de cultivo de quimeras com homúnculos, mas dizem que o lugar foi abandonado depois de uma explosão na usina de energia mágica subterrânea.",
-        "es": "[Ansuriya]\nAl parecer, no realizaban experimentos ilegales, sino que se centraban en la investigación del cultivo de quimeras con homúnculos, pero dicen que quedó abandonado tras una explosión en la central de energía mágica subterránea."
+        "es": "[Ansuriya]\nParece que no realizaban experimentos ilegales y centraron su investigación en el cultivo de quimeras utilizando homúnculos, pero dicen que quedó abandonado tras una explosión en la central de energía mágica subterránea."
     },
     "I/qLDA": {
         "ko": "[안수리야]\n그 버려진 연구소의 관리자들 중 하나가 베르너였기 때문에 조사 대상에 올랐습니다.",
         "en": "[Ansuria]\nIt came under investigation because one of the managers of that abandoned research facility was Werner.",
         "pt": "[Ansuriya]\nComo Werner era um dos administradores daquele instituto abandonado, ele acabou entrando na lista de investigados.",
-        "es": "[Ansuriya]\nComo Werner era uno de los administradores de ese laboratorio abandonado, se convirtió en objeto de investigación."
+        "es": "[Ansuriya]\nWerner fue puesto bajo investigación porque era uno de los gerentes de ese instituto de investigación abandonado."
     },
     "JPqLDA": {
         "ko": "[안수리야]\n조사 결과, 배양중이던 키메라들이 폭발 사고로 폭주해서 마물화된 것이 방치되어 있었습니다.",
         "en": "[Ansuria]\nOur investigation revealed that chimeras being cultivated had gone berserk due to an explosion and turned into monsters, which were then left abandoned.",
         "pt": "[Ansuriya]\nA investigação revelou que as quimeras que estavam em cultivo entraram em frenesi devido à explosão e se transformaram em monstros, e foram deixadas à própria sorte.",
-        "es": "[Ansuriya]\nSegún la investigación, las quimeras que estaban en cultivo se descontrolaron por la explosión y se convirtieron en monstruos, y las dejaron ahí abandonadas."
+        "es": "[Ansuriya]\nSegún la investigación, las quimerasque estaban siendo cultivadas se descontrolaron por la explosión y se convirtieron en monstruos, y las dejaron ahí abandonadas."
     },
     "JfqLDA": {
         "ko": "[안수리야]\n그냥 방치된 것인지, 의도적으로 방치한 것인지는 알 수 없었지만요.",
@@ -807,13 +807,13 @@
         "ko": "[안수리야]\n도시에서 멀지 않은 곳이기 때문에 안전을 위해서 리벨리온에서 정리를 맡았는데… 들으셨다시피 인원이 부족해서 곤란을 겪고 있습니다.",
         "en": "[Ansuria]\nSince it's not far from the city, the Rebellion was assigned to handle it for safety reasons... but as you've heard, we're struggling due to a shortage of personnel.",
         "pt": "[Ansuriya]\nComo fica perto da cidade, a Rebelião ficou encarregada da limpeza por motivos de segurança... mas, como você já ouviu, estamos com falta de pessoal e enfrentando dificuldades.",
-        "es": "[Ansuriya]\nComo está cerca de la ciudad, por seguridad, Rebellion se encargó de limpiarlo... pero, como ya oíste, nos falta personal y estamos teniendo problemas."
+        "es": "[Ansuriya]\nComo está cerca de la ciudad, , la Rebelión se ha encargado de la seguridad... pero, como ya oíste, tenemos problemas porque nos falta personal."
     },
     "J/qLDA": {
         "ko": "[거베나]\n영웅님께서 도와주시면 저희 쪽에서도 좀더 수월하게 정리 작업을 할수 있겠어요!",
         "en": "[Gerbena]\nIf you could help us, sir hero, it would make the cleanup much easier for us!",
-        "pt": "[Gevena]\nSe o herói puder nos ajudar, a gente vai conseguir fazer o trabalho de limpeza com muito mais facilidade!",
-        "es": "[Gevena]\n¡Si tú, héroe, nos ayudas, nos resultará mucho más fácil llevar a cabo la limpieza!"
+        "pt": "[Gervena]\nSe o herói puder nos ajudar, a gente vai conseguir fazer o trabalho de limpeza com muito mais facilidade!",
+        "es": "[Gervena]\n¡Si nos ayudas, Héroe, nos resultará mucho más fácil llevar a cabo la limpieza!"
     },
     "KPqLDA": {
         "ko": "[안수리야]\n그렇습니다. 토벌을 좀 도와주시겠습니까?",
@@ -825,13 +825,13 @@
         "ko": "도와준다.",
         "en": "Help.",
         "pt": "Vou ajudar.",
-        "es": "Ayudo."
+        "es": "Voy a ayudar."
     },
     "KvqLDA": {
         "ko": "[거베나]\n영웅님과 함께 일할 수 있다니, 영광입니다!",
         "en": "[Ansuria]\nIt's an honor to work alongside you, Hero!",
-        "pt": "[Gevena]\nÉ uma honra poder trabalhar ao lado de você, herói!",
-        "es": "[Gevena]\n¡Es un honor poder trabajar contigo, héroe!"
+        "pt": "[Gervena]\nÉ uma honra poder trabalhar ao lado de você, herói!",
+        "es": "[Gervena]\n¡Es un honor poder trabajar contigo, héroe!"
     },
     "K/qLDA": {
         "ko": "[안수리야]\n협조해 주시는 거군요. 감사합니다!\n그렇다면 조 편성을 다시…",
@@ -843,7 +843,7 @@
         "ko": "[안수리야]\n임무는 혼자 받으시는 게 편하십니까, 리벨리온의 임무조와 같이 하는 게 편하십니까?",
         "en": "[Ansuria]\nWould you prefer to take the mission alone, or with a Rebellion task force?",
         "pt": "[Ansuriya]\nPrefere receber a missão sozinho ou junto com a equipe de missões da Rebelião?",
-        "es": "[Ansuriya]\n¿Te resulta más cómodo aceptar la misión por tu cuenta o con el equipo de misiones de Rebellion?"
+        "es": "[Ansuriya]\n¿Prefieres realizar las misiones solo o con el equipo de la Rebelión?"
     },
     "LfqLDA": {
         "ko": "혼자가 편하다.",
@@ -854,56 +854,56 @@
     "LvqLDA": {
         "ko": "[안수리야]\n그렇다면 리벨리온 임무조를 하나로 합하고 영웅님 단독 임무를… 중얼중얼.\n앗, 왜 나 혼자 생각하고 있지. 거베나, 너도 해라!",
         "en": "[Ansuria]\nThen we should combine the Rebellion mission teams and put the hero on a solo mission... *Mumble, mumble...*\nAh, why am I thinking about this alone? Gerbena, you help me!",
-        "pt": "[Ansuriya]\nEntão, vamos juntar a equipe de missões da Rebelião e deixar o Herói fazer a missão sozinho... murmura.\nAh, por que estou pensando sozinha? Gerbena, você também pensa!",
-        "es": "[Ansuriya]\nEntonces, uniremos el equipo de misión de Rebellion y la misión individual del héroe... murmurando.\n¡Ay, por qué estoy pensando sola! ¡Gervena, hazlo tú también!"
+        "pt": "[Ansuriya]\nEntão, vamos juntar a equipe de missões da Rebelião e deixar o Herói fazer a missão sozinho... murmura.\nAh, por que estou pensando sozinha? Gervena, você também pensa!",
+        "es": "[Ansuriya]\nEntonces, uniremos el equipo de misión de la Rebelión y la misión individual del héroe... *murmura*\n¡Ay, por qué estoy pensando en esto yo sola! ¡Gervena, hazlo tú también!"
     },
     "L/qLDA": {
         "ko": "[거베나]\n아앗, 알겠습니다!",
         "en": "[Gerbena]\nAh, I understand!",
-        "pt": "[Gevena]\nAh, entendi!",
-        "es": "[Gevena]\n¡Ah, entendido!"
+        "pt": "[Gervena]\nAh, entendi!",
+        "es": "[Gervena]\n¡Ah, de acuerdo!"
     },
     "MPqLDA": {
         "ko": "[안수리야]\n아… 실례했습니다.\n저희 일인데, 영웅님의 도움을 안일하게 바랐군요.",
         "en": "[Ansuria]\nAh... My apologies.\nIt's our business, after all. We shouldn't have taken your help for granted.",
         "pt": "[Ansuriya]\nAh… desculpa aí.\nÉ um trabalho nosso, mas eu esperava a ajuda do Herói sem pensar direito.",
-        "es": "[Ansuriya]\nAh… perdón.\nEs nuestro trabajo, pero esperábamos tu ayuda sin pensarlo dos veces."
+        "es": "[Ansuriya]\nAh… perdón.\nEste es un asunto nuestro, pero he dado por sentado que el héroe nos ayudaría."
     },
     "MfqLDA": {
         "ko": "[안수리야]\n영웅님께는 영웅님의 일이 있으시겠지요!\n이 일은 저희 힘으로 어떻게든 해결해 보겠습니다.",
         "en": "[Ansuria]\nYou must have your own business to attend to, Hero!\nWe'll figure this out on our own somehow.",
         "pt": "[Ansuriya]\nO Herói deve ter seus próprios afazeres!\nVamos tentar resolver isso com nossas próprias forças.",
-        "es": "[Ansuriya]\n¡Seguro que el héroe tiene sus propios asuntos!\nIntentaremos resolver esto por nuestras propias fuerzas."
+        "es": "[Ansuriya]\n¡Seguramente el héroe tiene sus propios asuntos que atender!\nIntentaremos resolver este asunto por nuestros propios medios."
     },
     "MvqLDA": {
         "ko": "[안수리야]\n영웅님, 연구소 아미키티아에서 부탁드리고자 하는 일들입니다.\n이중 어떤 일을 도와주시겠습니까?",
         "en": "[Ansuria]\nSir Hero, we'd like you to help us with these missions in the Amicitia Lab.\nWhich one can you do?",
-        "pt": "[Ansuriya]\nHerói, estas são as tarefas que o Instituto Amikitia gostaria de te pedir.\nEm qual delas você gostaria de ajudar?",
-        "es": "[Ansuriya]\nHéroe, estas son las tareas que nos gustaría pedirte en el laboratorio Amikitia.\n¿En cuál de ellas nos ayudarías?"
+        "pt": "[Ansuriya]\nHerói, estas são as tarefas que o Instituto Amicitia gostaria de te pedir.\nEm qual delas você gostaria de ajudar?",
+        "es": "[Ansuriya]\nHéroe, estas son las tareas que nos gustaría pedirte en el laboratorio Amicitia.\n¿En cuál de ellas nos ayudarías?"
     },
     "M/qLDA": {
         "ko": "땅과 불",
         "en": "Earth and Fire",
         "pt": "Terra e Fogo",
-        "es": "Tierra y fuego"
+        "es": "Tierra y Fuego"
     },
     "NPqLDA": {
         "ko": "물과 바람",
         "en": "Water and Wind",
         "pt": "Água e vento",
-        "es": "Agua y viento"
+        "es": "Agua y Viento"
     },
     "NfqLDA": {
         "ko": "베르너의 흔적",
         "en": "Werner's Traces",
         "pt": "Os rastros de Werner",
-        "es": "El rastro de Werner"
+        "es": "Rastro de Werner"
     },
     "NvqLDA": {
         "ko": "[안수리야]\n지금은 리벨리온 부대가 들어가서 후속 작업중입니다.\n영웅님께서는 좀더 쉬시다 오셔도 괜찮습니다.",
         "en": "[Ansuria]\nFor now, the Rebellion forces are in there, finishing things up.\nYou should go get some more rest, sir hero.",
         "pt": "[Ansuriya]\nNo momento, a tropa da Rebelião está lá realizando os trabalhos de acompanhamento.\nVocê pode descansar um pouco mais antes de vir.",
-        "es": "[Ansuriya]\nAhora mismo, las tropas de Rebellion están dentro realizando tareas de seguimiento.\nNo pasa nada si el héroe descansa un poco más antes de venir."
+        "es": "[Ansuriya]\nAhora mismo, las tropas de la Rebelión están dentro realizando tareas de seguimiento.\nNo hay problema si descansas un poco más antes de venir."
     },
     "N/qLDA": {
         "ko": "[안수리야]\n이렇게 적극적으로 함께해주셔서 감사합니다.\n새벽이 지난 뒤에 다시 와주시겠습니까?",
@@ -915,19 +915,19 @@
         "ko": "[안수리야]\n배양중이던 키메라 중 <FONT COLOR = 0000CD>변이 키메라 아미테라와 변이 키메라 필리아</FONT>의 사냥을 부탁드리고 싶습니다.",
         "en": "[Ansuria]\nI'd like you to hunt <FONT COLOR = 0000CD>those mutated chimeras, Amiteras and Fillias</FONT>.",
         "pt": "[Ansuriya]\nGostaria de pedir que caçasses a <FONT COLOR = 0000CD>quimera mutante Amitera e a quimera mutante Filia</FONT>, que estavam em fase de cultivo.",
-        "es": "[Ansuriya]\nMe gustaría pedirte que caces a <FONT COLOR = 0000CD>la quimera mutante Amitera y la quimera mutante Filia</FONT>, que estaban en proceso de cultivo."
+        "es": "[Ansuriya]\nMe gustaría pedirte que caces a <FONT COLOR = 0000CD> la Quimera Amitera y la Quimera Filia</FONT>, que estaban en proceso de cultivo."
     },
     "OfqLDA": {
         "ko": "[안수리야]\n기존의 개체들보다 땅과 불의 속성적 특징이 훨씬 강하게 나타나 금방 알아보실 수 있을 겁니다.\n사실 이제는 호문클루스라기보다 거의 마물에 가까워졌지요…",
         "en": "[Ansuria]\nThey show more characteristics of Earth and Fire Properties than the others. You won't miss them.\nThey're more like monsters than homunculi now.",
         "pt": "[Ansuriya]\nElas apresentam características dos elementos terra e fogo muito mais fortes do que os indivíduos anteriores, então você vai reconhecê-las rapidamente.\nNa verdade, agora elas estão mais para monstros do que para homúnculos...",
-        "es": "[Ansuriya]\nTienen características de los elementos tierra y fuego mucho más marcadas que los ejemplares anteriores, así que las reconocerás enseguida.\nDe hecho, ya casi no son homúnculos, sino que se parecen más a monstruos…"
+        "es": "[Ansuriya]\nTienen características de los elementos tierra y fuego mucho con mucha más intensidad que en los ejemplares anteriores, así que las reconocerás enseguida.\nDe hecho, ya casi se parecen más a monstruos que a homúnculos..."
     },
     "OvqLDA": {
         "ko": "[안수리야]\n배양 시설이 파손되었는데도 불구하고 계속해서 개체 수가 늘어나고 있다고 하니, 수량은… 각각 15개체 정도씩 부탁드리고 싶습니다.",
         "en": "[Ansuria]\nDespite the destruction of their cultivation facilities, their numbers continue to increase. Please hunt 15 each.",
         "pt": "[Ansuriya]\nApesar de as instalações de cultivo terem sido destruídas, dizem que o número de indivíduos continua aumentando, então, em termos de quantidade... gostaria de pedir cerca de 15 indivíduos de cada.",
-        "es": "[Ansuriya]\nAunque las instalaciones de cultivo han sido destruidas, parece que el número de ejemplares sigue aumentando, así que en cuanto a la cantidad… te pediría unos 15 ejemplares de cada uno."
+        "es": "[Ansuriya]\nAunque las instalaciones de cultivo han sido destruidas, parece que el número de ejemplares sigue aumentando, así que en cuanto a la cantidad… te pediría unos 15 de cada uno."
     },
     "O/qLDA": {
         "ko": "사냥한다.",
@@ -944,8 +944,8 @@
     "PfqLDA": {
         "ko": "[안수리야]\n지원에 큰 감사 드립니다. 그 두 종류의 키메라는 폐쇄된 연구소 아미키티아의 1층을 배회하고 있을 것입니다.",
         "en": "[Ansuria]\nThank you for your support. You can find these two types of chimeras on the 1st floor of the Abandoned Lab, Amicitia.",
-        "pt": "[Ansuriya]\nMuito obrigada pelo apoio. Essas duas espécies de quimeras devem estar vagando pelo primeiro andar do laboratório fechado Amikitia.",
-        "es": "[Ansuriya]\nMuchas gracias por tu apoyo. Esos dos tipos de quimeras estarán merodeando por el primer piso del laboratorio cerrado de Amikitia."
+        "pt": "[Ansuriya]\nMuito obrigada pelo apoio. Essas duas espécies de quimeras devem estar vagando pelo primeiro andar do laboratório fechado Amiticia.",
+        "es": "[Ansuriya]\nMuchas gracias por tu ayuda. Puedes encontrar estos dos tipos de quimeras en el primer piso del Laboratorio Abandonado de Amicitia."
     },
     "PvqLDA": {
         "ko": "[안수리야]\n키메라들이 연구소를 빠져나오지 못하도록 잘 부탁드립니다.",
@@ -963,19 +963,19 @@
         "ko": "[안수리야]\n그, 그럼… 편성을 다시 해야… 으윽.\n영웅님, 차분하게 다시 생각해보시지 않으시겠습니까?",
         "en": "[Ansuria]\nWell, then... I'll have to reassign our teams... Ugh.\nSir hero, could you please reconsider calmly?",
         "pt": "[Ansuriya]\nEntão... vou ter que reorganizar a equipe... Ugh.\nHerói, que tal repensar tudo com calma?",
-        "es": "[Ansuriya]\nBueno, entonces… tendré que reorganizar el equipo… Uf.\n¿Por qué no lo piensas con calma otra vez, héroe?"
+        "es": "[Ansuriya]\nBueno, entonces… tendré que reorganizar el equipo… Uf.\nHéroe, ¿te importaría pensarlo con calma otra vez?"
     },
     "QfqLDA": {
         "ko": "[안수리야]\n<FONT COLOR = 0000CD>변이 키메라 아미테라와 변이 키메라 필리아</FONT>는 폐쇄된 연구소 아미키티아의 1층을 배회하고 있을 것입니다.",
         "en": "[Ansuria]\n<FONT COLOR = 0000CD>The mutated chimeras, Amiteras and Fillias,</FONT> are wandering the 1st floor of the Abandoned Lab.",
-        "pt": "[Ansuriya]\n<FONT COLOR = 0000CD>A quimera mutante Amitera e a quimera mutante Filia</FONT> devem estar vagando pelo primeiro andar do laboratório fechado Amikitia.",
-        "es": "[Ansuriya]\n<FONT COLOR = 0000CD>La quimera mutante Amitera y la quimera mutante Filia</FONT> estarán merodeando por el primer piso del laboratorio cerrado Amikitia."
+        "pt": "[Ansuriya]\n<FONT COLOR = 0000CD>A quimera mutante Amitera e a quimera mutante Filia</FONT> devem estar vagando pelo primeiro andar do laboratório fechado Amiticia.",
+        "es": "[Ansuriya]\n<FONT COLOR = 0000CD>La Quimera Amitera y la Quimera Filia</FONT> deambulan por el primer piso del Laboratorio Abandonado de Amiticia."
     },
     "QvqLDA": {
         "ko": "[안수리야]\n각각 15개체씩, 사냥을 잘 부탁드립니다.",
         "en": "[Ansuria]\nPlease hunt 15 of each.",
         "pt": "[Ansuriya]\nSão 15 de cada, por favor, caça-os bem.",
-        "es": "[Ansuriya]\nHay 15 de cada una, así que te pido que las caces bien."
+        "es": "[Ansuriya]\nSon 15 de cada uno, por favor, cázalos bien."
     },
     "Q/qLDA": {
         "ko": "[안수리야]\n다녀오셨습니까? 말씀드린 임무를 다 마쳐 주신 것이군요.",
@@ -987,13 +987,13 @@
         "ko": "[안수리야]\n리벨리온 부대 역시 임무를 수행하고 있습니다.\n영웅님이 한발 앞서 정리해주신 덕에 수월하게 진입한 모양입니다.",
         "en": "[Ansuria]\nThe Rebellion forces are also carrying out their mission.\nThanks to the groundwork you laid, they seem to have made a smooth entry.",
         "pt": "[Ansuriya]\nA tropa da Rebelião também está cumprindo a missão.\nParece que conseguiram entrar sem dificuldades graças ao trabalho que você, herói, fez antes.",
-        "es": "[Ansuriya]\nLa tropa de Rebellion también está llevando a cabo su misión.\nParece que pudieron entrar sin problemas gracias a que tú, héroe, ya habías despejado el camino."
+        "es": "[Ansuriya]\nLa tropa de Rebelión también está llevando a cabo su misión.\nParece que pudieron entrar sin problemas gracias a que tomaste la iniciativa y despejaste la zona, Héroe."
     },
     "RfqLDA": {
         "ko": "[안수리야]\n역시 영웅님. 리벨리온 바깥 분과 일하면서 이렇게 성실하고 깔끔하게 일처리해주시는 분은 드문데 말입니다.\n내일도 임무에 참가해주시면 감사드리겠습니다.",
         "en": "[Ansuria]\nAs expected of you, Hero. It's rare to find someone outside the Rebellion who works so diligently and efficiently.\nI'd be grateful if you could join us again tomorrow.",
         "pt": "[Ansuriya]\nComo sempre, herói. É raro encontrar alguém que trabalhe de forma tão dedicada e organizada ao colaborar com o pessoal de fora da Rebelião.\nFicaria muito grata se pudesses participar da missão amanhã também.",
-        "es": "[Ansuriya]\nComo siempre, héroe. Es raro encontrar a alguien que trabaje con tanta seriedad y pulcritud cuando se trata de personas ajenas a Rebellion.\nTe agradecería mucho que participaras en la misión de mañana también."
+        "es": "[Ansuriya]\nComo era de esperar de ti, Héroe. Es raro encontrar a alguien fuera de la Rebelión que se encargue de todo con tanta diligencia y precisión.\nTe agradecería mucho que participaras en la misión de mañana también."
     },
     "RvqLDA": {
         "ko": "오류 004",
@@ -1005,49 +1005,49 @@
         "ko": "[안수리야]\n배양중이던 키메라 중 <FONT COLOR = 0000CD>변이 키메라 리투스와 변이 키메라 바닐아쿠스</FONT>의 사냥을 부탁드리고 싶군요.",
         "en": "[Ansuria]\nI'd like you to hunt <FONT COLOR = 0000CD>those mutated chimeras, Lituses and Vanilaquses</FONT>.",
         "pt": "[Ansuriya]\nGostaria de pedir que caçasses a <FONT COLOR = 0000CD>Quimera Mutante Litus e a Quimera Mutante Vanilacus</FONT> que estavam em cultivo.",
-        "es": "[Ansuriya]\nMe gustaría pedirte que caces a dos de las quimeras que estábamos criando: <FONT COLOR = 0000CD>la quimera mutante Litus y la quimera mutante Vanilacus</FONT>."
+        "es": "[Ansuriya]\nMe gustaría pedirte que caces a la <FONT COLOR = 0000CD>Quimera Litus y la Quimera Vanilaqus</FONT> que se encontran en el cultivo."
     },
     "SPqLDA": {
         "ko": "[안수리야]\n바람과 물의 속성이 뚜렷하게 드러나는 외형으로 변이했기 때문에 어렵지 않게 구분하실 수 있을 겁니다.",
         "en": "[Ansuria]\nThey've mutated in such a way that they show more characteristics of Wind and Water Properties than anything else. You shouldn't have a problem recognizing them.",
         "pt": "[Ansuriya]\nComo elas sofreram uma mutação com características físicas que revelam claramente os atributos do vento e da água, você não terá dificuldade em distingui-las.",
-        "es": "[Ansuriya]\nComo su apariencia ha mutado mostrando claramente los atributos del viento y el agua, no te costará distinguirlos."
+        "es": "[Ansuriya]\nDado que han sufrido una mutación con características físicas que revelan claramente los atributos del viento y el agua, no te costará distinguirlas."
     },
     "SfqLDA": {
         "ko": "[안수리야]\n배양 시설의 도움을 받지 않고도 계속해서 개체 수가 늘어나고 있다고 하니, 수량은… 각각 15개체씩 부탁드리겠습니다.",
         "en": "[Ansuria]\nTheir numbers have been increasing without the aid of cultivation facilities. Please hunt 15 of each.",
         "pt": "[Ansuriya]\nComo dizem que o número de indivíduos continua aumentando mesmo sem a ajuda das instalações de cultivo, quanto à quantidade... peço 15 de cada um.",
-        "es": "[Ansuriya]\nDicen que su población sigue creciendo sin necesidad de las instalaciones de cultivo, así que en cuanto a la cantidad… te pediría 15 ejemplares de cada uno."
+        "es": "[Ansuriya]\nDado que dicen que el número de individuos sigue aumentando incluso sin la ayuda de instalaciones de cultivo, en cuanto a la cantidad... pido 15 de cada uno."
     },
     "SvqLDA": {
         "ko": "[안수리야]\n지원에 큰 감사 드립니다. 그 두 종류 키메라는 폐쇄된 연구소 아미키티아의 1층에 머무르고 있습니다.",
         "en": "[Ansuria]\nThank you very much for your support. Those two types of chimeras are staying on the first floor of the closed research facility Amikitia.",
-        "pt": "[Ansuriya]\nMuito obrigada pela ajuda. Essas duas espécies de quimeras estão no primeiro andar do laboratório fechado Amikitia.",
-        "es": "[Ansuriya]\nMuchas gracias por tu apoyo. Esas dos especies de quimeras se encuentran en el primer piso del laboratorio cerrado Amikitia."
+        "pt": "[Ansuriya]\nMuito obrigada pela ajuda. Essas duas espécies de quimeras estão no primeiro andar do laboratório fechado Amicitia.",
+        "es": "[Ansuriya]\nMuchas gracias por tu apoyo. Esas dos especies de quimeras se encuentran en el primer piso del Laboratorio Abandonado de Amicitia."
     },
     "S/qLDA": {
         "ko": "[안수리야]\n<FONT COLOR = 0000CD>변이 키메라 리투스와 변이 키메라 바닐아쿠스</FONT>는 폐쇄된 연구소 아미키티아의 1층에 머무르고 있습니다.",
         "en": "[Ansuria]\n<FONT COLOR = 0000CD>Mutant Chimera Litus and Mutant Chimera Vanillacus</FONT> are residing on the first floor of the sealed research facility Amikitia.",
-        "pt": "[Ansuriya]\n<FONT COLOR = 0000CD>A quimera mutante Litus e a quimera mutante Vanilacus</FONT> estão no primeiro andar do laboratório fechado Amikitia.",
-        "es": "[Ansuriya]\n<FONT COLOR = 0000CD>La quimera mutante Litus y la quimera mutante Vanilacus</FONT> se encuentran en el primer piso del laboratorio cerrado Amikitia."
+        "pt": "[Ansuriya]\n<FONT COLOR = 0000CD>A quimera mutante Litus e a quimera mutante Vanilacus</FONT> estão no primeiro andar do laboratório fechado Amicitia.",
+        "es": "[Ansuriya]\n<FONT COLOR = 0000CD>La Quimera Litus y la Quimera Vanilaqus</FONT> se encuentran en el primer piso del Laboratorio Abandonado de Amicitia."
     },
     "TPqLDA": {
         "ko": "[안수리야]\n임무 완료, 확인했습니다.\n이제 리벨리온 부대를 투입합니다.",
         "en": "[Ansuria]\nMission accomplished, confirmed.\nNow, let me deploy our Rebellion forces.",
-        "pt": "[An Suriya]\nMissão concluída, confirmado.\nAgora vamos enviar as tropas da Rebelião.",
-        "es": "[Ansuriya]\nMisión completada, confirmado.\nAhora vamos a desplegar las tropas de Rebellion."
+        "pt": "[Ansuriya]\nMissão concluída, confirmado.\nAgora vamos enviar as tropas da Rebelião.",
+        "es": "[Ansuriya]\nMisión completada, confirmado.\nAhora desplegaremos las tropas de la Rebelión."
     },
     "TfqLDA": {
         "ko": "[안수리야]\n영웅님이 한발 앞서 정리해주신 덕에 수월하게 진입할 수 있을 테지요.\n무척 감사드립니다.",
         "en": "[Ansuria]\nThanks to the groundwork you laid ahead of us, our entry should be smooth sailing.\nMy deepest gratitude.",
         "pt": "[Ansuriya]\nGraças ao Herói ter limpado o caminho antes, a gente vai conseguir entrar sem problemas, né?\nMuito obrigada.",
-        "es": "[Ansuriya]\nGracias a que el héroe ya se adelantó a preparar el terreno, podremos entrar sin problemas.\nTe lo agradezco mucho."
+        "es": "[Ansuriya]\nGracias a que el Héroe se adelantó y despejó el camino, podremos avanzar sin problemas.\nTe lo agradezco mucho."
     },
     "TvqLDA": {
         "ko": "[안수리야]\n리벨리온 바깥의 분과 함게 일하면서 이렇게 합이 잘 맞는다는 느낌은 처음 받아봅니다.\n영웅님, 내일도 임무에 참가해 주시겠습니까?",
         "en": "[Ansuria]\nWorking alongside someone outside the Rebellion, I've never felt such perfect synergy before.\nSir Hero, could you join us again tomorrow?",
         "pt": "[Ansuriya]\nÉ a primeira vez que sinto que a gente se dá tão bem trabalhando com o pessoal de fora da Rebelião.\nHerói, você vai participar da missão amanhã também?",
-        "es": "[Ansuriya]\nEs la primera vez que siento que nos compenetramos tan bien trabajando con alguien de fuera de Rebellion.\nHéroe, ¿participarás en la misión de mañana también?"
+        "es": "[Ansuriya]\nEs la primera vez que siento que nos llevamos tan bien trabajando con gente de fuera de la Rebelión.\nHéroe, ¿participarás en la misión de mañana también?"
     },
     "T/qLDA": {
         "ko": "오류 005",
@@ -1059,61 +1059,61 @@
         "ko": "[안수리야]\n지금은 리벨리온 부대가 들어가서 자체 작업중입니다.\n영웅님께서는 좀더 쉬시다 오셔도 괜찮습니다.",
         "en": "[Ansuria]\nFor now, the Rebellion forces are inside, carrying out their own missions.\nYou should go get some more rest, sir hero.",
         "pt": "[Ansuriya]\nNo momento, a tropa da Rebelião está lá dentro, trabalhando por conta própria.\nVocê pode descansar um pouco mais antes de vir.",
-        "es": "[Ansuriya]\nAhora mismo, la tropa de Rebellion está dentro y trabajando por su cuenta.\nNo pasa nada si te quedas descansando un rato más, héroe."
+        "es": "[Ansuriya]\nAhora mismo, la tropa de la Rebelión están dentro, llevando a cabo sus propias misiones.\nDeberías ir a descansar un poco más, héroe."
     },
     "UfqLDA": {
         "ko": "[안수리야]\n이것은… 보안 등급이 높은 일이라 영웅님께만 부탁드리고 싶은 일입니다.",
         "en": "[Ansuria]\nThis is... a highly classified matter. I wish to entrust it only to you, Hero.",
         "pt": "[Ansuriya]\nIsso é... uma missão de alto nível de segurança, então gostaria de pedir apenas a você, Herói.",
-        "es": "[Ansuriya]\nEsto es... un asunto de alto nivel de seguridad, así que solo quiero pedírtelo a ti, héroe."
+        "es": "[Ansuriya]\nEsto es... un asunto de alto nivel de seguridad, así que solo quiero pedírtelo a ti, Héroe."
     },
     "UvqLDA": {
         "ko": "[안수리야]\n되도록 여러 사람의 입을 거치게 하고 싶지 않아서, 리벨리온 부대는 이 일에서 제외했지요.",
         "en": "[Ansuria]\nI didn't want it to pass through too many mouths, so I excluded the Rebellion forces from this.",
         "pt": "[Ansuriya]\nComo não quero que isso passe por muitas pessoas, excluí a Tropa Rebelião dessa missão.",
-        "es": "[Ansuriya]\nNo quiero que se corra la voz, así que he dejado a la unidad Rebellion fuera de esto."
+        "es": "[Ansuriya]\nNo quería que se corriera la voz, así que decidí excluir a las tropas de la Rebelión de este asunto."
     },
     "U/qLDA": {
         "ko": "[안수리야]\n다른 것이 아니라, 버려진 연구소 아미키티아 1층에서 <FONT COLOR = 0000CD>베르너의 흔적</FONT>을 찾는 일입니다.",
         "en": "[Ansuria]\nIt's nothing else—we're searching for <FONT COLOR = 0000CD>Werner's traces</FONT> on the first floor of the Abandoned Lab, Amicitia.",
         "pt": "[Ansuriya]\nNão é nada de mais, trata-se de encontrar <FONT COLOR = 0000CD>vestígios de Werner</FONT> no primeiro andar do laboratório abandonado Amikitia.",
-        "es": "[Ansuriya]\nNo es otra cosa que buscar <FONT COLOR = 0000CD>rastros de Werner</FONT> en el primer piso del laboratorio abandonado Amikitia."
+        "es": "[Ansuriya]\nNo es otra cosa sino buscar <FONT COLOR = 0000CD>rastros de Werner</FONT> en el primer piso del Laboratorio Abandonado de Amicitia."
     },
     "VPqLDA": {
         "ko": "[안수리야]\n베르너가 아미키티아의 어떤 부분을 관리하고 있었는지, 어떤 실험을 했는지 등…\n연구소에 영향을 끼친 것이 있다면 무엇이든 좋으니 찾아와 주십시오.",
         "en": "[Ansuria]\nWe want to know what part of Amicitia Werner was responsible for and what kinds of experiments he conducted there.\nPlease bring us anything you can find that might be related to his influence over the lab.",
         "pt": "[Ansuriya]\nQue parte do Amikitia o Werner administrava, que tipo de experimentos ele fazia...\nSe houver qualquer coisa que tenha influenciado o laboratório, por favor, traz pra mim.",
-        "es": "[Ansuriya]\nQué parte de Amikitia administraba Werner, qué experimentos hacía, etc...\nSi hay algo que haya influido en el laboratorio, sea lo que sea, por favor, tráelo."
+        "es": "[Ansuriya]\nQué sección de Amicitia administraba Werner, qué tipo de experimentos realizaba, etc.\nCualquier cosa que demuestre que tuvo un impacto en el laboratorio, lo que sea será de ayuda."
     },
     "VfqLDA": {
         "ko": "[안수리야]\n문서, 파일, 데이터… 무엇이든 좋습니다.\n다녀와 주시겠습니까?",
         "en": "[Ansuria]\nDocuments, files, data... anything.\nCould you do this for us?",
         "pt": "[Ansuriya]\nDocumentos, arquivos, dados... vale qualquer coisa.\nVocê pode dar uma olhada lá?",
-        "es": "[Ansuriya]\nDocumentos, archivos, datos... cualquier cosa vale.\n¿Podrías ir a buscarlo?"
+        "es": "[Ansuriya]\nDocumentos, archivos, datos… cualquier cosa me sirve.\n¿Podrías ir a buscarlo?"
     },
     "VvqLDA": {
         "ko": "다녀오겠다.",
         "en": "I'll go and get it.",
         "pt": "Vou dar uma olhada.",
-        "es": "Voy a ir."
+        "es": "Iré a buscarlo."
     },
     "V/qLDA": {
         "ko": "다녀오지 않겠다",
         "en": "I won't be going.",
         "pt": "Não vou.",
-        "es": "No voy a ir"
+        "es": "No iré a buscarlo."
     },
     "WPqLDA": {
         "ko": "[안수리야]\n좋습니다. 찾기 쉽지는 않으실 테니... 어떤 흔적이든 단 하나만 찾아와 주시기를 부탁드립니다.\n그럼, 잘 부탁드리겠습니다.",
         "en": "[Ansuria]\nVery well. It won't be easy to find, so... I ask that you bring back just one trace, any trace at all.\nWell then, I'll be counting on you.",
         "pt": "[Ansuriya]\nTudo bem. Como não deve ser fácil de encontrar... peço que traga apenas um único vestígio, qualquer que seja.\nEntão, conto com você.",
-        "es": "[Ansuriya]\nMuy bien. No va a ser fácil encontrarlo... así que te pido que me traigas aunque sea un solo indicio.\nBueno, te lo agradezco mucho."
+        "es": "[Ansuriya]\nMuy bien. Como no será fácil encontrarlo... así que te pido que me traigas aunque sea un solo indicio.\nBueno, cuento conmigo."
     },
     "WfqLDA": {
         "ko": "[안수리야]\n그러시군요. 역시 귀찮은 일이기는 하죠…",
         "en": "[Ansuria]\nI see. It's definitely not a pleasant thing to do, is it?",
         "pt": "[Ansuriya]\nEntendo. É realmente um trabalho chato...",
-        "es": "[Ansuriya]\nYa veo. Es un poco molesto, la verdad..."
+        "es": "[Ansuriya]\nYa veo. Es un asunto un poco molesto..."
     },
     "WvqLDA": {
         "ko": "[안수리야]\n이 일을 부탁드린 것은 비밀에 부쳐 주시면 감사하겠습니다.",
@@ -1125,7 +1125,7 @@
         "ko": "[안수리야]\n찾기 쉽지는 않으실 테니... 어떤 흔적이든 단 하나만 찾아와 주시기를 부탁드립니다.\n그럼, 잘 부탁드리겠습니다.",
         "en": "[Ansuria]\nIt won't be easy to find... I'd appreciate it if you could bring back just one trace, any trace at all.\nWell then, I'll be counting on you.",
         "pt": "[Ansuriya]\nComo não deve ser fácil de encontrar... peço que traga apenas um único indício, qualquer que seja.\nEntão, conto com você.",
-        "es": "[Ansuriya]\nNo te va a resultar fácil encontrarlo... así que te pido que me traigas solo una pista, cualquier pista.\nBueno, cuídate."
+        "es": "[Ansuriya]\nComo sé que no será fácil encontrarlo... así que te pido que me traigas aunque sea una sola pista.\nCuento contigo."
     },
     "XPqLDA": {
         "ko": "[안수리야]\n흔적을 찾아내셨습니까?",
@@ -1149,13 +1149,13 @@
         "ko": "이건 뭐죠? 길고 구불거리는 머리… 카락…?",
         "en": "What's this? It's long and curly... hair...?",
         "pt": "O que é isso? Um cabelo comprido e encaracolado... um fio de cabelo...?",
-        "es": "¿Y esto qué es? Un pelo largo y rizado... ¿un mechón...?"
+        "es": "¿Qué es esto? Un pelo largo y ondulado... ¿un mechón...?"
     },
     "YPqLDA": {
         "ko": "명함첩이라, 도움이 될 것 같군요.",
         "en": "A business card holder, huh? That looks helpful.",
         "pt": "Um porta-cartões, parece que vai ser útil.",
-        "es": "Una libreta de tarjetas de visita, parece que me va a servir."
+        "es": "Un tarjetero, parece que me va a servir."
     },
     "YfqLDA": {
         "ko": "맞게 찾아오셨습니다. 이 메모는 베르너의 필체군요.",
@@ -1166,14 +1166,14 @@
     "YvqLDA": {
         "ko": "[안수리야]\n감사합니다. 이것은 비밀의 날개의 정보원들에게 넘겨 조사해보도록 하겠습니다.\n그럼 수고하신 대가를 받으셔야겠지요.",
         "en": "[Ansuria]\nThank you. I'll send this to the Secret Wings for their agents to investigate.\nNow, I should repay you for your hard work.",
-        "pt": "[An Suriya]\nObrigada. Vou passar isso para os informantes da Asa Secreta para que eles investiguem.\nEntão, você deve receber a recompensa pelo seu trabalho.",
-        "es": "[An Suriya]\nGracias. Se lo pasaré a los informantes de Alas Secretas para que lo investiguen.\nEntonces, deberías recibir tu recompensa por el trabajo."
+        "pt": "[Ansuriya]\nObrigada. Vou passar isso para os informantes do Vento Secreto para que eles investiguem.\nEntão, você deve receber a recompensa pelo seu trabalho.",
+        "es": "[Ansuriya]\nGracias. Se lo pasaré a los informantes del Viento Secreto para que lo investiguen.\nEntonces, deberías recibir tu recompensa por el trabajo."
     },
     "Y/qLDA": {
         "ko": "[안수리야]\n내일 다시 와서 함께 일해주시면 감사합니다.\n이런 일은 아무래도 아무에게나 맡길 수 없으니 말입니다.",
         "en": "[Ansuria]\nI hope you can come back and help me again tomorrow.\nAs you know, I can't trust just anyone with this sort of mission.",
-        "pt": "[An Suriya]\nAgradeço se você puder voltar amanhã para trabalhar conosco.\nAfinal, esse tipo de trabalho não pode ser confiado a qualquer um.",
-        "es": "[An Suriya]\nTe agradecería que volvieras mañana para que trabajemos juntos.\nEs que este tipo de cosas no se pueden dejar en manos de cualquiera."
+        "pt": "[Ansuriya]\nAgradeço se você puder voltar amanhã para trabalhar conosco.\nAfinal, esse tipo de trabalho não pode ser confiado a qualquer um.",
+        "es": "[Ansuriya]\nTe agradecería que volvieras mañana para que trabajemos juntos.\nEs que este tipo de cosas no se pueden dejar en manos de cualquiera."
     },
     "ZPqLDA": {
         "ko": "오류 006",
@@ -1197,7 +1197,7 @@
         "ko": "[무언가]\n표지에 써있는 글자를 간신히 알아보았다. 연구일지? 베르너의 것일지도 모른다.",
         "en": "[Something]\nI can barely make out the letters on the cover. Research Journal? Maybe it belongs to Werner.",
         "pt": "[Algo]\nConsegui decifrar as letras escritas na capa. Um diário de pesquisa? Pode ser do Werner.",
-        "es": "[Algo]\nApenas pude distinguir las letras que están escritas en la portada. ¿Un diario de investigación? Quizás sea de Werner."
+        "es": "[Algo]\nApenas pude distinguir las letras escritas en la portada. ¿Un diario de investigación? Quizás sea de Werner."
     },
     "aPqLDA": {
         "ko": "[무언가]\n한번 가져가서 확인해 보자.",
@@ -1215,19 +1215,19 @@
         "ko": "[무언가]\n길고 구불구불한 짙은 색 머리카락. 이거 베르너 게 분명해.",
         "en": "[Something]\nLong, curly, dark hair. This has got to be Werner's!",
         "pt": "[Algo]\nCabelos longos, encaracolados e de cor escura. Isso com certeza é do Werner.",
-        "es": "[Algo]\nUn mechón de pelo largo, rizado y de color oscuro. Sin duda es de Werner."
+        "es": "[Algo]\nCabello largo, ondulado y oscuro. Sin duda es de Werner."
     },
     "a/qLDA": {
         "ko": "[무언가]\n명함첩이다. 물에 젖어서 글씨는 알아보기 힘들지만 베르너의 것일지도 모르지.",
         "en": "[Something]\nIt's a business card holder. I can hardly read the letters on it because it's wet, but perhaps it belongs to Werner.",
         "pt": "[Algo]\nÉ um porta-cartões. Está molhado e a letra está difícil de ler, mas pode ser do Werner.",
-        "es": "[Algo]\nEs una libreta de tarjetas de presentación. Está mojada y cuesta leer la letra, pero podría ser de Werner."
+        "es": "[Algo]\nEs un tarjetero. Está mojado, así que la letra es difícil de leer, pero podría ser de Werner."
     },
     "bPqLDA": {
         "ko": "[무언가]\n단정한 필체의 연구 메모. 베르너의 글씨체가 딱 이럴 것 같다.",
         "en": "[Something]\nA research memo written in neat handwriting. It has to be Werner's.",
         "pt": "[Algo]\nAnotações de pesquisa com uma caligrafia elegante. A letra do Werner deve ser exatamente assim.",
-        "es": "[Algo]\nNotas de investigación escritas con letra pulcra. La letra de Werner debe de ser exactamente así."
+        "es": "[Algo]\nApuntes de investigación escritos con letra legible. La letra de Werner es exactamente así."
     },
     "bfqLDA": {
         "ko": "[무언가]\n바닥에 무언가 떨어져 있다.\n…그냥 쓰레기인 모양이다.",
@@ -1244,26 +1244,26 @@
     "b/qLDA": {
         "ko": "거베나",
         "en": "Gerbena",
-        "pt": "Gerbera",
-        "es": "Gerben"
+        "pt": "Gervena",
+        "es": "Gervena"
     },
     "cPqLDA": {
         "ko": "- 230레벨 이상 수행 가능한 퀘스트입니다 -",
         "en": "- This quest requires at least Level 230. -",
         "pt": "- Missão disponível a partir do nível 230 -",
-        "es": "- Esta misión se puede realizar a partir del nivel 230 -"
+        "es": "- Misión disponible a partir del nivel 230 -"
     },
     "cfqLDA": {
         "ko": "[안수리야]\n이름은 아미키티아 종합 연구소. 레켄베르에서 제공한 자료에 따르면 베르너 연구소의 자매 연구소라고 합니다.",
         "en": "[Ansuria]\nIts name is the Amikitia Research Institute. According to data provided by Lekenberg, it is said to be a sister institute to the Werner Research Institute.",
-        "pt": "[Ansuriya]\nO nome é Instituto de Pesquisa Amikitia. De acordo com os dados fornecidos por Lekenber, é um instituto irmão do Instituto Werner.",
-        "es": "[Ansuriya]\nSe llama Instituto de Investigación Amikitia. Según los datos que nos dio Lekenber, es un instituto hermano del Instituto Werner."
+        "pt": "[Ansuriya]\nO nome é Instituto de Pesquisa Amicitia. De acordo com os dados fornecidos por Rekenber, é um instituto irmão do Instituto Werner.",
+        "es": "[Ansuriya]\nSe llama Instituto de Investigación Amicitia. Según los proporcionada por Rekenber, se trata de un instituto asociado al Instituto Werner."
     },
     "cvqLDA": {
         "ko": "[거베나]\n아… 실례를 저질렀네요.\n저희 일인데, 영웅님의 도움을 안일하게 바랐군요.",
         "en": "[Gerbena]\nAh... My apologies.\nThis is our business, yet we carelessly expected the hero's assistance.",
         "pt": "[Gervena]\nAh… cometi uma gafe.\nÉ um assunto nosso, mas acabei esperando a ajuda do herói de forma um tanto ingênua.",
-        "es": "[Gevena]\nAh… te he ofendido.\nEs asunto nuestro, pero esperábamos tu ayuda de forma un poco ingenua."
+        "es": "[Gervena]\nAh… te he ofendido.\nEs asunto nuestro, pero esperábamos tu ayuda de forma un poco ingenua."
     },
     "c/qLDA": {
         "ko": "[거베나]\n영웅님께는 영웅님의 일이 있으시겠지요?\n이 일은 저희 힘으로 어떻게든 해결해 보겠습니다.",
@@ -1274,32 +1274,32 @@
     "dPqLDA": {
         "ko": "[거베나]\n영웅님, 연구소 아미키티아의 2층에는 호문클루스 집중배양실이 있었어요.\n그곳에서는 더욱 강력한 변이 키메라를 만들어내고 있었답니다.",
         "en": "[Gerbena]\nSir hero, Amicitia had an Intensive Culture Room of homunculi on the second floor.\nThere, the researchers studied how to create more powerful mutant chimeras.",
-        "pt": "[Gervena]\nHerói, no segundo andar do Instituto Amikitia havia uma sala de cultivo intensivo de homúnculos.\nLá, eles estavam criando quimeras mutantes ainda mais poderosas.",
-        "es": "[Gervena]\nHéroe, en el segundo piso del Instituto Amikitia había una sala de cultivo intensivo de homúnculos.\nAllí estaban creando quimeras mutantes aún más poderosas."
+        "pt": "[Gervena]\nHerói, no segundo andar do Instituto Amicitia havia uma sala de cultivo intensivo de homúnculos.\nLá, eles estavam criando quimeras mutantes ainda mais poderosas.",
+        "es": "[Gervena]\nHéroe, en el segundo piso del Instituto Amicitia había una sala de cultivo intensivo de homúnculos.\nAllí estaban creando quimeras aún más poderosas."
     },
     "dfqLDA": {
         "ko": "[거베나]\n불쌍하기는 하지만 연구소에서 풀려나면 상상 이상으로 큰 피해를 끼칠 거예요.\n이 키메라들을 정리하는 일을 도와주시겠어요?",
         "en": "[Gerbena]\nI feel for their victims, but if they escape the lab, they'll cause unimaginable damage.\nCould you help us eliminate these chimeras?",
         "pt": "[Gervena]\nÉ uma pena, mas se elas escaparem do laboratório, vão causar danos muito maiores do que se imagina.\nVocê poderia nos ajudar a eliminar essas quimeras?",
-        "es": "[Gervena]\nAunque dan pena, si se escapan del laboratorio causarán un daño mucho mayor de lo que te imaginas.\n¿Nos ayudarías a acabar con estas quimeras?"
+        "es": "[Gervena]\nAunque dan pena, si se escapan del laboratorio causarán un daño mucho mayor de lo que te imaginas.\n¿Nos ayudarías a eliminar a estas quimeras?"
     },
     "dvqLDA": {
         "ko": "모방과 진짜",
         "en": "Imitation and Authenticity",
         "pt": "Imitacão e realidade",
-        "es": "Imitación y realidad"
+        "es": "Imitación y Realidad"
     },
     "d/qLDA": {
         "ko": "자연스러운 변화",
         "en": "Natural Change",
         "pt": "Mudança natural",
-        "es": "Cambio natural"
+        "es": "Cambio Natural"
     },
     "ePqLDA": {
         "ko": "[거베나]\n오늘은 이미 다녀오셨지요? 그렇다면 좀 쉬시는 게 어떨까요?\n너무 몸을 혹사시키면 될 일도 잘 안 될지도 모릅니다.",
         "en": "[Gerbena]\nYou've already been out today, haven't you? Then why not get some rest?\nIf you push yourself too hard, things that should go well might not.",
-        "pt": "[Gerbena]\nVocê já foi lá hoje, não foi? Se sim, que tal descansar um pouco?\nSe você se esforçar demais, pode ser que nem consiga fazer o que precisa.",
-        "es": "[Gerbenna]\n¿Ya fuiste hoy? Si es así, ¿qué tal si descansas un poco?\nSi te exiges demasiado, puede que ni siquiera consigas lo que te propones."
+        "pt": "[Gervena]\nVocê já foi lá hoje, não foi? Se sim, que tal descansar um pouco?\nSe você se esforçar demais, pode ser que nem consiga fazer o que precisa.",
+        "es": "[Gervena]\n¿Ya fuiste hoy? Si es así, ¿qué tal si descansas un poco?\nSi te exiges demasiado, puede que ni siquiera consigas lo que te propones."
     },
     "efqLDA": {
         "ko": "[거베나]\n새벽이 지난 뒤에 다시 와서 함께 일해 주세요!",
@@ -1311,55 +1311,55 @@
         "ko": "[거베나]\n집중 배양실에서 하던 작업 중에는 변이 키메라를 양산하는 일이 있었죠.",
         "en": "[Gerbena]\nAmong the tasks performed in the Intensive Culture Room was the mass production of mutant chimeras.",
         "pt": "[Gervena]\nEntre as tarefas que fazíamos na sala de cultivo concentrado, havia a produção em massa de quimeras mutantes.",
-        "es": "[Gervena]\nEntre las tareas que hacíamos en la sala de cultivo intensivo estaba la producción en masa de quimeras mutantes."
+        "es": "[Gervena]\nEntre los trabajos que se realizaban en la sala de cultivo intensivo, estaba la producción en masa de quimeras mutantes."
     },
     "e/qLDA": {
         "ko": "[거베나]\n변이한 호문클루스를 재 변이시키고, 공격성도 더욱 강화했습니다.",
         "en": "[Gerbena]\nWe retransmutated the mutated homunculi and further amplified their aggression.",
-        "pt": "[Gerbenna]\nRe-mutamos os homúnculos mutantes e reforçamos ainda mais a agressividade deles.",
-        "es": "[Gerbenna]\nHemos vuelto a mutar a los homúnculos mutantes y hemos reforzado aún más su agresividad."
+        "pt": "[Gervena]\nRe-mutamos os homúnculos mutantes e reforçamos ainda mais a agressividade deles.",
+        "es": "[Gervena]\nHacían mutar de nuevo a los homúnculos que ya habían mutado, y además intensificaban aún más su agresividad."
     },
     "fPqLDA": {
         "ko": "[거베나]\n<FONT COLOR = 0000CD>변이 키메라 나페오와 변이 키메라 갈렌시스</FONT>를 각각 15개체씩 사냥해 주세요.\n둘다 인간의 형태를 모방했지만, 거기에 키메라의 속성을 강력하게 변형해 추가한 생명체들이랍니다.",
         "en": "[Gerbena]\nPlease hunt <FONT COLOR = 0000CD>15 Mutant Chimera Napeo and 15 Mutant Chimera Galensis</FONT>.\nBoth mimic human form, but they are lifeforms that have been powerfully mutated and enhanced with chimera attributes.",
         "pt": "[Gervena]\nCaça 15 exemplares de cada um dos <FONT COLOR = 0000CD>Quimeras Mutantes Napeo e Quimeras Mutantes Galensis</FONT>.\nAmbos imitam a forma humana, mas são seres vivos que incorporam atributos de quimeras, fortemente modificados e adicionados a essa forma.",
-        "es": "[Gervena]\nCaza 15 ejemplares de cada uno de los siguientes: <FONT COLOR = 0000CD>Quimera mutante Napeo y Quimera mutante Galensis</FONT>.\nAmbos imitan la forma humana, pero son seres vivos a los que se les han añadido y transformado poderosamente las características de las quimeras."
+        "es": "[Gervena]\nCaza 15 ejemplares de cada una de las <FONT COLOR = 0000CD>Quimeras Napeo y Quimeras Galensis</FONT>.\nAmbos imitan la forma humana, pero son seres vivos a los que se les alteró e integró a la fuerza el poderoso atributo de una quimera."
     },
     "ffqLDA": {
         "ko": "[거베나]\n이미 연구소가 폐쇄되어 방치된 지 제법 시간이 지났습니다.\n빨리 사냥해 주시는 것이 오히려 편하게 해 주시는 일일 겁니다.",
         "en": "[Gerbena]\nIt's been quite some time since the lab was shut down and abandoned.\nHunting them down quickly would actually be a favor to us.",
         "pt": "[Gervena]\nJá faz um bom tempo que o laboratório foi fechado e está abandonado.\nCaçá-los logo vai ser, na verdade, uma grande ajuda para a gente.",
-        "es": "[Gervena]\nYa ha pasado bastante tiempo desde que el laboratorio fue cerrado y quedó abandonado.\nCazarlos pronto sería, de hecho, un gran favor para mí."
+        "es": "[Gervena]\nYa ha pasado bastante tiempo desde que el laboratorio fue cerrado y quedó abandonado.\nCazarlos pronto sería un favor para nosotros."
     },
     "fvqLDA": {
         "ko": "사냥을 돕는다.",
         "en": "Assist with the hunt.",
         "pt": "Ajudar na caçada.",
-        "es": "Ayudo a cazar."
+        "es": "Ayudar en la caza."
     },
     "f/qLDA": {
         "ko": "[거베나]\n도와주신다니 영광이에요!\n저 영웅님과 같이 참가해도 될까요?",
         "en": "[Gerbena]\nIt's an honor you'd help me!\nMay I join that hero?",
-        "pt": "[Gevena]\nÉ uma honra que você queira ajudar!\nPosso participar junto com você, herói?",
-        "es": "[Gevena]\n¡Es un honor que me ayudes!\n¿Puedo participar junto a ti, héroe?"
+        "pt": "[Gervena]\nÉ uma honra que você queira ajudar!\nPosso participar junto com você, herói?",
+        "es": "[Gervena]\n¡Es un honor contar con tu ayuda!\n¿Puedo participar junto a ti, héroe?"
     },
     "gPqLDA": {
         "ko": "[안수리야]\n아깐 싫대 놓곤. 혼자 하는 게 편하시다잖아, 진정해 거베나.",
         "en": "[Ansuria]\nYou said you didn't want to go in there. Besides, they prefer doing it alone. So, just calm down, Gerbena.",
-        "pt": "[Ansuriya]\nAgora você diz que não, mas antes disse que não queria. Você prefere fazer isso sozinho, né? Calma aí, Gerbena.",
-        "es": "[Ansuriya]\nHace un rato decías que no querías. Dices que te gusta hacerlo sola, así que cálmate, Gerbena."
+        "pt": "[Ansuriya]\nAgora você diz que não, mas antes disse que não queria. Você prefere fazer isso sozinho, né? Calma aí, Gervena.",
+        "es": "[Ansuriya]\nHace un rato decías que no querías. Además, ya dejó claro que prefiere trabajar solo. Cálmate, Gervena."
     },
     "gfqLDA": {
         "ko": "[거베나]\n흐윽… 잘 부탁드립니다!!",
         "en": "[Gerbena]\nHnngg... Please take good care of us!!",
         "pt": "[Gervena]\nUgh... Por favor, conta comigo!!",
-        "es": "[Gervena]\nUf… ¡¡Cuenta conmigo!!"
+        "es": "[Gervena]\nUf… ¡Contamos contigo!"
     },
     "gvqLDA": {
         "ko": "[거베나]\n아앗, 말이 달라지신 영웅님…\n거베나 대 상심!",
         "en": "[Gerbena]\nAh, you've changed your tune, Hero...\nGerbena is heartbroken!",
         "pt": "[Gervena]\nAh, herói, mudaste de ideia...\nGervena está muito triste!",
-        "es": "[Gervena]\n¡Ay, cambiaste de opinión, héroe...\nGervena está muy triste!"
+        "es": "[Gervena]\n¡Ah, Héroe, has cambiado de opinión...!\nGervena está muy triste!"
     },
     "g/qLDA": {
         "ko": "[거베나]\n하지만 저희의 일방적인 부탁이었으니까요.\n거절하신다 해도 저희로선 어쩔 수가 없지요…",
@@ -1370,20 +1370,20 @@
     "hPqLDA": {
         "ko": "[거베나]\n지금은 일루시온 부대가 투입되어 임무를 계속하고 있습니다.\n영웅님 덕분에 수월하게 진입해서 키메라를 진압하고 있다고 합니다.",
         "en": "[Gerbena]\nThe Illusion Unit is currently deployed and continuing the mission.\nThanks to you, they've made a smooth entry and are suppressing the Chimera.",
-        "pt": "[Gevena]\nNo momento, a tropa Ilusion está em ação e continua com a missão.\nGraças a você, herói, eles conseguiram entrar sem dificuldades e estão subjugando a quimera.",
-        "es": "[Gevena]\nAhora mismo, la unidad Ilusion está en acción y sigue con la misión.\nDicen que, gracias a ti, el héroe, han podido entrar sin problemas y están acabando con las quimeras."
+        "pt": "[Gervena]\nNo momento, a tropa Ilusion está em ação e continua com a missão.\nGraças a você, herói, eles conseguiram entrar sem dificuldades e estão subjugando a quimera.",
+        "es": "[Gervena]\nAhora mismo, la unidad Ilusión está en acción y sigue con la misión.\nDicen que gracias a ti, Héroe, han podido entrar sin problemas y están neutralizando a las quimeras."
     },
     "hfqLDA": {
         "ko": "[거베나]\n으으, 저도 직접 영웅님의 멋진 전투를 보고 싶었는데…\n언젠가, 볼 기회가 있겠지요?",
         "en": "[Gerbena]\nUgh, I really wanted to see the hero's amazing battle myself...\nSomeday, I'll get the chance, right?",
         "pt": "[Gervena]\nUgh, eu também queria ver pessoalmente a tua luta incrível, herói...\nAlgum dia, terei a chance de ver, não é?",
-        "es": "[Gervena]\nUf, yo también quería ver en persona tu magnífica batalla, héroe...\nAlgún día tendré la oportunidad de verlo, ¿no?"
+        "es": "[Gervena]\n¡Ay! Tenía muchísimas ganas de ver en persona la magnífica batalla del héroe...\nAlgún día tendré la oportunidad de verlo, ¿no?"
     },
     "hvqLDA": {
         "ko": "[거베나]\n괜찮으시다면 내일 다시 와서 저희와 함께 일해주시지 않겠어요?",
         "en": "[Gerbena]\nIf it's alright with you, would you come back tomorrow and work with us again?",
         "pt": "[Gervena]\nSe você não se importar, que tal voltar amanhã e trabalhar conosco?",
-        "es": "[Gervena]\nSi te parece bien, ¿por qué no vuelves mañana y trabajas con nosotros?"
+        "es": "[Gervena]\nSi no te importa, ¿podrías volver mañana y trabajar con nosotros?"
     },
     "h/qLDA": {
         "ko": "오류 007",
@@ -1395,49 +1395,49 @@
         "ko": "[거베나]\n집중 배양실의 호문클루스 중에는 변이 키메라 라바이터와 변이 키메라 풀고르가 존재합니다.",
         "en": "[Gerbena]\nAmong the homunculi in the intensive cultivation chamber are mutant chimera Ravators and mutant chimera Pulgors.",
         "pt": "[Gervena]\nEntre os homúnculos da sala de cultivo intensivo, existem o quimera mutante Lavater e o quimera mutante Pulgor.",
-        "es": "[Gervena]\nEntre los homúnculos de la sala de cultivo intensivo hay quimeras mutantes de tipo «Lavaitor» y «Pulgor»."
+        "es": "[Gervena]\nEntre los homúnculos de la sala de cultivo intensivo se encuentran la Quimera Lava y la Quimera Fulgor."
     },
     "ifqLDA": {
         "ko": "[거베나]\n기존의 호문클루스 디이터와 호문클루스 바이에리와는 비슷한 듯하지만 많이 다릅니다.\n일단 주인이 없이 홀로 판단해 번식하고 있다는 점에서부터 호문클루스와는 다르지요.",
         "en": "[Gerbena]\nThey appear similar to the original homunculi, Dieters and Bayeris, but they are significantly different.\nFor one thing, these mutant chimeras have no owners and are capable of multiplying themselves on their own.",
-        "pt": "[Gervena]\nEles parecem semelhantes aos homúnculos Dieter e Baier já conhecidos, mas são bem diferentes.\nPara começar, o fato de se reproduzirem por conta própria, sem um dono, já os diferencia dos homúnculos.",
-        "es": "[Gervena]\nParecen similares a los homúnculos Dieter y Baier, pero son muy diferentes.\nPara empezar, se diferencian de los homúnculos en que se reproducen por su cuenta, sin un dueño que los guíe."
+        "pt": "[Gervena]\nEles parecem semelhantes aos homúnculos Dieter e Bayeri já conhecidos, mas são bem diferentes.\nPara começar, o fato de se reproduzirem por conta própria, sem um dono, já os diferencia dos homúnculos.",
+        "es": "[Gervena]\nParecen similares a los homúnculos Dieter y Bayeri, pero son muy diferentes.\nPara empezar, el hecho de que se reproduzcan y tomen decisiones por sí mismos sin necesidad de un dueño ya los distingue de un homúnculo común."
     },
     "ivqLDA": {
         "ko": "[거베나]\n구조하거나 할 수는 없습니다. 전부, 한 마리도 빠짐없이 사살 대상입니다.",
         "en": "[Gerbena]\nThere's no saving them. Every single one is a target for elimination.",
         "pt": "[Gervena]\nNão dá pra resgatá-los. Todos, sem exceção, são alvos a abater.",
-        "es": "[Gervena]\nNo se pueden rescatar ni nada por el estilo. Todos, sin excepción, son objetivos a eliminar."
+        "es": "[Gervena]\nNo podemos rescatarlos. Todos, sin excepción, deben ser eliminados."
     },
     "i/qLDA": {
         "ko": "[거베나]\n그러니 영웅님, 저희를 도와 <FONT COLOR = 0000CD>변이 키메라 라바이터와 변이 키메라 풀고르</FONT>를 각각 15마리씩 사냥해 주시겠어요?",
         "en": "[Gerbena]\nSo, hero, could you hunt <FONT COLOR = 0000CD>mutant chimeras, Lava Eaters and Fulgors</FONT>, 15 each?",
         "pt": "[Gervena]\nEntão, herói, você poderia nos ajudar a caçar 15 <FONT COLOR = 0000CD>Quimeras Mutantes Rabiter e 15 Quimeras Mutantes Pulgor</FONT>?",
-        "es": "[Gervena]\nAsí que, héroe, ¿nos ayudarías a cazar 15 ejemplares de cada uno de los <FONT COLOR = 0000CD>quimeras mutantes Rabiter y quimeras mutantes Pulgor</FONT>?"
+        "es": "[Gervena]\nEntonces, Héroe, ¿podrías ayudarnos a cazar <FONT COLOR = 0000CD>15 Quimeras Lava e 15 Quimeras Fulgor</FONT>?"
     },
     "jPqLDA": {
         "ko": "[안수리야]\n아깐 싫다더니. 혼자 하는 게 편하시다잖아, 진정해 거베나.",
         "en": "[Ansuria]\nYou said you didn't want to earlier. You prefer doing it alone, don't you? Calm down, Gebena.",
-        "pt": "[Ansuriya]\nAgora você disse que não queria. Você prefere fazer isso sozinho, né? Acalma-te, Gerbena.",
-        "es": "[Ansuriya]\nHace un momento decías que no querías. Dices que te gusta hacerlo sola, así que cálmate, Gerbena."
+        "pt": "[Ansuriya]\nAgora você disse que não queria. Você prefere fazer isso sozinho, né? Acalma-te, Gervena.",
+        "es": "[Ansuriya]\nHace un momento decías que no querías. Además, ya dejó claro que prefiere trabajar solo. Cálmate, Gervena."
     },
     "jfqLDA": {
         "ko": "[거베나]\n영웅님, <FONT COLOR = 0000CD>변이 키메라 라바이터와 변이 키메라 풀고르</FONT>를 각각 15마리씩 사냥해 주시겠어요?\n구조하거나 할 수는 없습니다. 전부, 한 마리도 빠짐없이 사살 대상입니다.",
         "en": "[Gerbena]\nHero, would you hunt <FONT COLOR = 0000CD>15 Mutant Chimera Ravagers and 15 Mutant Chimera Pulgors</FONT> each?\nRescue is impossible. All of them, every single one, are targets to be killed.",
         "pt": "[Gervena]\nHerói, você poderia caçar 15 <FONT COLOR = 0000CD>Quimeras Mutantes Rabiter e 15 Quimeras Mutantes Pulgor</FONT>?\nNão dá pra salvar ninguém. Todos, sem exceção, são alvos a abater.",
-        "es": "[Gevena]\nHéroe, ¿podrías cazar 15 <FONT COLOR = 0000CD>quimeras mutantes Rabiter y 15 quimeras mutantes Pulgor</FONT> cada una?\nNo puedes rescatarlas ni nada por el estilo. Todas, sin excepción, son objetivos a eliminar."
+        "es": "[Gervena]\nHéroe, ¿podrías cazar <FONT COLOR = 0000CD>15 Quimeras Lava y 15 Quimeras Fulgor</FONT>?\nNo podemos rescatarlos. Todos, sin excepción, deben ser eliminados."
     },
     "jvqLDA": {
         "ko": "[거베나]\n예! 임무 완료, 확인했습니다. 이제 일루시온 부대를 투입합니다!\n덕분에 수월하게 진입해서 키메라를 진압할 수 있을 듯하다고 합니다.",
         "en": "[Gerbena]\nYes! Mission complete, confirmed. I'm deploying the Illusion forces now!\nThanks to you, they should be able to enter smoothly and subdue the chimeras without difficulty.",
-        "pt": "[Gevena]\nSim! Missão concluída, confirmado. Agora vamos enviar o Esquadrão Ilusion!\nGraças a você, parece que eles vão conseguir entrar facilmente e neutralizar as quimeras.",
-        "es": "[Gevena]\n¡Sí! Misión completada, confirmada. ¡Ahora desplegaremos la tropa Ilusion!\nDicen que gracias a ti podrán entrar sin problemas y sofocar a las quimeras."
+        "pt": "[Gervena]\nSim! Missão concluída, confirmado. Agora vamos enviar o Esquadrão Ilusion!\nGraças a você, parece que eles vão conseguir entrar facilmente e neutralizar as quimeras.",
+        "es": "[Gervena]\n¡Sí! Misión completada, confirmado. ¡Ahora desplegaremos a la unidad Ilusión!\nDicen que gracias a ti podremos entrar fácilmente y neutralizar a las Quimeras."
     },
     "j/qLDA": {
         "ko": "[거베나]\n으으, 저도 직접 영웅님의 아름다운 전투를 보고 싶었는데…\n언젠가, 볼 기회가 있겠지요?",
         "en": "[Gerbena]\nUgh, I wanted to see your beautiful battle in person too...\nSomeday, I'll get the chance, right?",
         "pt": "[Gervena]\nUgh, eu também queria ver pessoalmente a bela batalha do herói...\nAlgum dia, terei a chance de ver, não é?",
-        "es": "[Gervena]\nUf, yo también quería ver en persona la hermosa batalla del héroe...\nAlgún día tendré la oportunidad de verla, ¿no?"
+        "es": "[Gervena]\nUf, quería ver en persona la magnífica batalla del héroe...\nAlgún día tendré la oportunidad de verlo, ¿no?"
     },
     "kPqLDA": {
         "ko": "오류 008",
@@ -1455,7 +1455,7 @@
         "ko": "[라나]\n이 너머는 위험하오니 일정 수준 이상의 모험가분들 이외에는 출입을 통제하고 있습니다.",
         "en": "[Lana]\nBeyond this point is dangerous, so access is restricted to adventurers above a certain level.",
         "pt": "[Lana]\nDeste ponto em diante é perigoso, por isso estamos restringindo o acesso a aventureiros acima de um certo nível.",
-        "es": "[Lana]\nMás allá de aquí es peligroso, por lo que se controla el acceso y solo pueden entrar aventureros de cierto nivel o superior."
+        "es": "[Lana]\nMás allá de este punto es peligroso, por lo que se restringe el acceso a los trotamundos que no alcancen un cierto nivel."
     },
     "k/qLDA": {
         "ko": "- 215레벨 이상 출입 가능한 지역입니다 -",
@@ -1467,7 +1467,7 @@
         "ko": "[라나]\n아미키티아 종합 연구실 1층으로 가시겠습니까?",
         "en": "[Lana]\nWould you like to go to Amicitia Lab Floor 1?",
         "pt": "[Lana]\nQueres ir para o 1º andar do Laboratório Geral de Amikitia?",
-        "es": "[Lana]\n¿Quieres ir al primer piso del Laboratorio General de Amikitia?"
+        "es": "[Lana]\n¿Quieres ir al primer piso del Laboratorio Abandonado de Amicitia?"
     },
     "lfqLDA": {
         "ko": "간다.",
@@ -1485,7 +1485,7 @@
         "ko": "[라나]\n알겠습니다. 아미키티아 종합 연구실로 이동시켜 드리겠습니다.",
         "en": "[Lana]\nUnderstood. I'll transport you to the Amicitia Comprehensive Research Lab.",
         "pt": "[Lana]\nEntendi. Vou te levar até o Laboratório Geral de Amikitia.",
-        "es": "[Lana]\nEntendido. Te llevaré al Laboratorio General de Amikitia."
+        "es": "[Lana]\nEntendido. Te llevaré al Laboratorio Abandonado de Amicitia."
     },
     "mPqLDA": {
         "ko": "[라나]\n알겠습니다. 그럼 좋은 모험 되세요.",
@@ -1497,6 +1497,6 @@
         "ko": "- 230레벨 미만 출입금지! -",
         "en": "- Level 230 or above only! -",
         "pt": "- Proibida a entrada para quem tem menos de nível 230! -",
-        "es": "- ¡Prohibido el paso a quienes tengan menos de nivel 230! -"
+        "es": "- ¡Prohibido el acceso a los menores de nivel 230! -"
     }
 }

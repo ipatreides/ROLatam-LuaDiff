@@ -311,7 +311,9 @@ RobeNameTable = {
 	[SPRITE_ROBE_IDs.ROBE_C_CLB_BS_Bag_GM] = "C_CLB_BS_Bag_GM",
 	[SPRITE_ROBE_IDs.ROBE_C_CLB_BS_Bag_GF] = "C_CLB_BS_Bag_GF",
 	[SPRITE_ROBE_IDs.ROBE_C_Stylish_Arch_Quiver] = "C_Stylish_Arch_Quiver",
-	[SPRITE_ROBE_IDs.ROBE_C_Adventures_Backpack] = "C_Adventures_Backpack"
+	[SPRITE_ROBE_IDs.ROBE_C_Adventures_Backpack] = "C_Adventures_Backpack",
+	[SPRITE_ROBE_IDs.ROBE_C_Mushroom_Umbrella_RD] = "C_Mushroom_Umbrella_RD",
+	[SPRITE_ROBE_IDs.ROBE_C_Eddga_Rest] = "C_Eddga_Rest"
 }
 RobeNameTable_Eng = {
 	[SPRITE_ROBE_IDs.ROBE_WINGS] = "ANGEL_WINGS",
@@ -626,7 +628,9 @@ RobeNameTable_Eng = {
 	[SPRITE_ROBE_IDs.ROBE_C_CLB_BS_Bag_GM] = "C_CLB_BS_Bag_GM",
 	[SPRITE_ROBE_IDs.ROBE_C_CLB_BS_Bag_GF] = "C_CLB_BS_Bag_GF",
 	[SPRITE_ROBE_IDs.ROBE_C_Stylish_Arch_Quiver] = "C_Stylish_Arch_Quiver",
-	[SPRITE_ROBE_IDs.ROBE_C_Adventures_Backpack] = "C_Adventures_Backpack"
+	[SPRITE_ROBE_IDs.ROBE_C_Adventures_Backpack] = "C_Adventures_Backpack",
+	[SPRITE_ROBE_IDs.ROBE_C_Mushroom_Umbrella_RD] = "C_Mushroom_Umbrella_RD",
+	[SPRITE_ROBE_IDs.ROBE_C_Eddga_Rest] = "C_Eddga_Rest"
 }
 RobeTopLayer = {
 	SPRITE_ROBE_IDs.ROBE_BAG_OF_ADVENTURER,
@@ -836,5 +840,7 @@ RobeTopLayer = {
 	SPRITE_ROBE_IDs.ROBE_C_CLB_BS_Bag_GM,
 	SPRITE_ROBE_IDs.ROBE_C_CLB_BS_Bag_GF,
 	SPRITE_ROBE_IDs.ROBE_C_Stylish_Arch_Quiver,
-	SPRITE_ROBE_IDs.ROBE_C_Adventures_Backpack
+	SPRITE_ROBE_IDs.ROBE_C_Adventures_Backpack,
+	SPRITE_ROBE_IDs.ROBE_C_Mushroom_Umbrella_RD,
+	SPRITE_ROBE_IDs.ROBE_C_Eddga_Rest
 }

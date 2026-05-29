@@ -120,6 +120,9 @@
         "es": "^FF0000La conexión no se logró hasta justo antes de que quedaras moribundo. Recupera tu salud y tu SP y vuelve a intentarlo.^000000"
     },
     "tFpnDA": {
-        "ko": "알에 손을 대고 교감을 시작합니다. ^0055FF교감하는 동안 당신의 생명력과 마력이 교감에 성공할때까지 깎여나갑니다.^000000"
+        "ko": "알에 손을 대고 교감을 시작합니다. ^0055FF교감하는 동안 당신의 생명력과 마력이 교감에 성공할때까지 깎여나갑니다.^000000",
+        "en": "Touch the egg and start communing. ^0055FFYour HP and SP will continuously decrease until you succeed.^000000",
+        "pt": "Coloca a mão no ovo e começa a comunhão. ^0055FFEnquanto comunicas, tua vida e tua magia vão diminuindo até que a comunhão seja bem-sucedida.^000000",
+        "es": "Toca el huevo y comienza la conexión. ^0055FFMientras te conectas, tu vida y tu magia se van reduciendo hasta que la conexión sea exitosa.^000000"
     }
 }

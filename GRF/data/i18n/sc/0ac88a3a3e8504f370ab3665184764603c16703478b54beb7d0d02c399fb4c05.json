@@ -1,472 +1,590 @@
 {
     "4HI2Aw": {
+        "ko": "스크롤상인",
+        "en": "Scroll Merchant",
+        "pt": "Mercador de Pergaminhos",
+        "es": "Vendedor de Pergaminos"
+    },
+    "4XI2Aw": {
+        "ko": "미슈나",
         "en": "Mishuna",
         "pt": "Mishuna",
         "es": "Mishuna"
     },
-    "4XI2Aw": {
-        "en": "[Mishuna]\nOh, you must have forgotten what I taught you before. But you learned it once; let me just jog your memories.",
-        "pt": "[Mishuna]\nAh, você deve ter esquecido do que ensinei antes. Mas você aprendeu uma vez — deixe-me refrescar sua memória.",
-        "es": "[Mishuna]\nAh, debes haber olvidado lo que te enseñé antes. Pero ya lo aprendiste una vez. Déjame refrescarte la memoria."
-    },
     "4nI2Aw": {
-        "en": "[Mishuna]\nIn case your current elemental skill is different from before, you must reselect the property of ^FF0000Elemental Change^000000.",
-        "pt": "[Mishuna]\nCaso sua habilidade elemental atual seja diferente da anterior, você deverá selecionar novamente a propriedade de ^FF0000Mudança Elemental^000000.",
-        "es": "[Mishuna]\nEn caso de que tu habilidad elemental actual sea diferente a la anterior, debes volver a elegir la propiedad de ^FF0000Cambio elemental^000000."
+        "ko": "- 소지하고 계신 아이템이 많아 진행할 수 없습니다. -",
+        "en": "- You can’t proceed because you have too many items. -",
+        "pt": "- Não é possível prosseguir porque você tem muitos itens. -",
+        "es": "- No puedes continuar porque llevas demasiados objetos. -"
     },
     "43I2Aw": {
-        "en": "[Mishuna]\nWhich ^FF0000Elemental Change^000000 would you like to learn? Please note you can't change the property once you select it.",
-        "pt": "[Mishuna]\nQual ^FF0000Mudança Elemental^000000 você gostaria de aprender? Observe que não é possível alterar a propriedade depois de selecioná-la.",
-        "es": "[Mishuna]\n¿Qué ^FF0000Cambio elemental^000000 te gustaría aprender? Ten en cuenta que no podrás cambiar la propiedad una vez que la hayas elegido."
+        "ko": "[미슈나]\n안녕하세요. 전 슈바이체르빌 대학 소속인 세이지 미슈나라고 합니다. 무슨 용건으로 오셨나요?",
+        "en": "[Mishuna] \nHello. I am Sage Mishuna, affiliated with the University of Schwerzeirvil. What brings you here?",
+        "pt": "[Mishuna] \nOlá. Eu sou a Sage Mishuna, da Universidade de Schwerzeirvil. Com que objetivo você veio?",
+        "es": "[Mishuna] \nHola. Soy la Sage Mishuna, de la Universidad de Schwerzeirvil. ¿Con qué motivo habéis venido?"
     },
     "5HI2Aw": {
-        "en": "Fire.",
-        "pt": "Fogo.",
-        "es": "Fuego."
+        "ko": "새로운 지식을 얻기 위해 왔습니다.",
+        "en": "I came to obtain new knowledge.",
+        "pt": "Vim para obter novos conhecimentos.",
+        "es": "He venido para obtener nuevos conocimientos."
     },
     "5XI2Aw": {
-        "en": "Earth.",
-        "pt": "Terra.",
-        "es": "Tierra."
+        "ko": "[미슈나]\n아, 세이지 {0}님이시군요. 안 그래도 {0}님을 찾고 있었습니다. 협회에서 과거에 소실되었던 대현자 바르문트님의 새로운 지식을 찾아내 세이지 분들께 전파하고 있는 중이에요.",
+        "en": "[Mishuna] \nAh, so you’re Sage {0}. I was looking for you as it happens. The Association is searching for the new knowledge of Grand Sage Varmunt, who was lost in the past, and spreading it among the sages.",
+        "pt": "[Mishuna] \nAh, então o senhor é o Sage {0}. Eu já estava procurando por você. A Associação está encontrando os novos conhecimentos do Grande Sábio Varmunt, que se perderam no passado, e está transmitindo aos sages.",
+        "es": "[Mishuna] \nAh, así que sois el Sage {0}. Precisamente os estaba buscando. La Asociación está investigando el nuevo conocimiento del Gran Sabio Varmunt, que se perdió en el pasado, y lo está difundiendo entre los sabios."
     },
     "5nI2Aw": {
-        "en": "Wind.",
-        "pt": "Vento.",
-        "es": "Viento."
+        "ko": "[미슈나]\n새로 발견된 지식은 화, 수, 지, 풍의 4대 속성에 관련된 스킬입니다.",
+        "en": "[Mishuna] \nThe newly discovered knowledge consists of skills related to the four great elements: Fire, Water, Earth, and Wind.",
+        "pt": "[Mishuna] \nOs conhecimentos recém-descobertos são habilidades relacionadas aos quatro grandes atributos: Fogo, Água, Terra e Vento.",
+        "es": "[Mishuna] \nEl conocimiento recién descubierto se refiere a habilidades relacionadas con los cuatro atributos principales: Fuego, Agua, Tierra y Viento."
     },
     "53I2Aw": {
-        "en": "Water.",
-        "pt": "Água.",
-        "es": "Agua."
+        "ko": "[미슈나]\n몬스터의 속성을 4대 속성으로 변환시키는 ^FF0000엘레멘탈 체인지^000000 스킬과 ^FF0000엘레멘탈 체인지^000000 스킬을 쓰기 위해 필요한 엘레멘탈 컨버터를 제조하는 ^FF0000컨버터 제조^000000 스킬이 바로 그것입니다.",
+        "en": "[Mishuna] \nIt’s exactly the ^FF0000Elemental Change^000000 skill, which converts a monster’s attribute into one of the four elements, and the ^FF0000Converter Manufacturing^000000 skill, which manufactures the elemental converters needed to use ^FF0000Elemental Change^000000.",
+        "pt": "[Mishuna] \nSão exatamente as habilidades ^FF0000Mudança Elemental^000000, que converte o atributo dos monstros nos quatro atributos, e ^FF0000Fabricação de Conversores^000000, que fabrica os conversores elementais necessários para usar ^FF0000Mudança Elemental^000000.",
+        "es": "[Mishuna] \nSe trata de la habilidad ^FF0000Cambio Elemental^000000, que convierte el atributo del monstruo en los cuatro atributos principales, y de la habilidad ^FF0000Fabricación de Convertidores^000000, que fabrica los convertidores elementales necesarios para usar ^FF0000Cambio Elemental^000000."
     },
     "6HI2Aw": {
-        "en": "[Mishuna]\nYou can't learn ^FF0000Fire Elemental Change^000000 without learning ^FF0000Flame Launcher^000000 first. Please select a different property.",
-        "pt": "[Mishuna]\nVocê não pode aprender ^FF0000Mudança Elemental - Fogo^000000 sem aprender ^FF0000Lançador de Chamas^000000 primeiro. Selecione uma propriedade diferente.",
-        "es": "[Mishuna]\nNo puedes aprender ^FF0000Cambio elemental de fuego^000000 sin aprender primero ^FF0000Lanzallamas^000000. Elige otra propiedad."
+        "ko": "[미슈나]\n과거에 용병반란 사건이 일어나면서 대현자 바르문트님의 저택이 불타버려 많은 지식이 소실됐었는데, 이렇게라도 찾아내 정말 다행이라고 생각해요.",
+        "en": "[Mishuna] \nBack when the mercenary rebellion occurred, Grand Sage Varmunt’s residence burned down, and a great deal of knowledge was lost. I truly think it’s a blessing that we’ve managed to find it—even like this.",
+        "pt": "[Mishuna] \nNo passado, durante a rebelião de mercenários, a residência do Grande Sábio Varmunt se incendiou e muitos conhecimentos se perderam. Acho que é realmente uma sorte ter encontrado algo assim, mesmo que seja desta forma.",
+        "es": "[Mishuna] \nEn el pasado ocurrió la rebelión de mercenarios y la residencia del Gran Sabio Varmunt se incendió, perdiéndose un montón de conocimiento. Pienso que es una gran suerte haberlo encontrado, aunque sea así."
     },
     "6XI2Aw": {
-        "en": "[Mishuna]\nExcellent! Then, let me teach you ^FF0000Fire Elemental Change^000000 and ^FF0000Create Elemental Converter^000000.",
-        "pt": "[Mishuna]\nExcelente! Então, deixe-me ensiná-lo ^FF0000Mudança Elemental - Fogo^000000 e ^FF0000Criar Conversor Elemental^000000.",
-        "es": "[Mishuna]\n¡Excelente! Entonces, déjame enseñarte ^FF0000Cambio elemental de fuego^000000 y ^FF0000Crear convertidor elemental^000000."
+        "ko": "[미슈나]\n자.. 새로운 지식을 배울 준비는 되셨나요?",
+        "en": "[Mishuna] \nSo… are you ready to learn this new knowledge?",
+        "pt": "[Mishuna] \nEntão… você está pronto para aprender esses novos conhecimentos?",
+        "es": "[Mishuna] \nAsí que… ¿estáis listos para aprender este nuevo conocimiento?"
     },
     "6nI2Aw": {
-        "en": "[Mishuna]\nHororeh, chuchu, farero.",
-        "pt": "[Mishuna]\nHororeh, chuchu, farero.",
-        "es": "[Mishuna]\nHororeh, chuchu, farero."
+        "ko": "그냥 다음에 배우겠습니다.",
+        "en": "I’ll learn it later.",
+        "pt": "Vou aprender depois.",
+        "es": "Lo aprenderé más tarde."
     },
     "63I2Aw": {
-        "en": "[Mishuna]\nHiyah!",
-        "pt": "[Mishuna]\nHiyah!",
-        "es": "[Mishuna]\n¡Kiai!"
+        "ko": "네. 새로운 지식을 가르쳐주세요.",
+        "en": "Yes. Please teach me the new knowledge.",
+        "pt": "Sim. Por favor, me ensine os novos conhecimentos.",
+        "es": "Sí. Por favor, enséñame ese nuevo conocimiento."
     },
     "7HI2Aw": {
-        "en": "- He chanted a spell, restoring my memories of the skills. -",
-        "pt": "- Ele entoa um feitiço, restaurando as memórias das habilidades. -",
-        "es": "(Conjuró un hechizo y restauró mis recuerdos de las habilidades)."
+        "ko": "[미슈나]\n아.. 지금은 다른 일로 바쁘신 것 같군요. 네. 그럼 그렇게 하세요. 배울 준비가 되셨다면 언제든지 저에게 말을 걸어주시면 됩니다. 그럼 좋은 하루 되세요.",
+        "en": "[Mishuna] \nAh… I see you seem busy with something else right now. I understand. Then please do so. If and when you’re ready to learn, you can talk to me anytime. Have a good day.",
+        "pt": "[Mishuna] \nAh… parece que você está ocupado com outras coisas agora. Tudo bem. Então faça isso. Quando estiver pronto para aprender, é só me procurar a qualquer momento. Tenha um bom dia.",
+        "es": "[Mishuna] \nAh… veo que ahora mismo estaréis ocupados con otras cosas. Está bien. Entonces hacedlo así. Si os veis listos para aprender, podéis hablar conmigo cuando queráis. Que tengáis un buen día."
     },
     "7XI2Aw": {
-        "en": "[Mishuna]\nSee? I knew you'd remember them quickly. I hope you'll enjoy using them again. Now, farewell!",
-        "pt": "[Mishuna]\nViu só? Eu sabia que você se lembraria rapidamente. Espero que goste de usá-las novamente. Até mais!",
-        "es": "[Mishuna]\n¿Ves? Sabía que lo recordarías rápidamente. Espero que disfrutes usarlas de nuevo. ¡Ahora, adiós!"
+        "ko": "[미슈나]\n우선 배우셔야 할 것은 엘레멘탈 체인지 스킬을 쓰기 위해 필요한 ^FF0000컨버터 제조^000000 스킬입니다. 엘레멘탈 컨버터가 없으면 ^FF0000엘레멘탈 체인지^000000 스킬도 쓸 수 없기 때문에 꼭 필요한 스킬이죠.",
+        "en": "[Mishuna] \nFirst, what you must learn is the ^FF0000Converter Manufacturing^000000 skill, which is needed to use the Elemental Change skill. Without an elemental converter, you can’t use ^FF0000Elemental Change^000000 either—so this is an absolutely necessary skill.",
+        "pt": "[Mishuna] \nPrimeiro, o que você precisa aprender é a habilidade ^FF0000Fabricação de Conversores^000000, necessária para usar a habilidade ^FF0000Mudança Elemental^000000. Sem um conversor elemental, você nem consegue usar ^FF0000Mudança Elemental^000000. Por isso, é uma habilidade indispensável.",
+        "es": "[Mishuna] \nLo primero que debéis aprender es la habilidad ^FF0000Fabricación de Convertidores^000000, necesaria para usar la habilidad ^FF0000Cambio Elemental^000000. Como sin convertidores elementales no podréis usar ^FF0000Cambio Elemental^000000 tampoco, es una habilidad imprescindible."
     },
     "7nI2Aw": {
-        "en": "[Mishuna]\nYou can't learn ^FF0000Earth Elemental Change^000000 without learning ^FF0000Endow Quake^000000 first. Please select a different property.",
-        "pt": "[Mishuna]\nNão é possível aprender ^FF0000Mudança Elemental - Terra^000000 sem antes aprender ^FF0000Arma Sísmica^000000. Selecione uma propriedade diferente.",
-        "es": "[Mishuna]\nNo puedes aprender ^FF0000Cambio elemental de tierra^000000 sin aprender primero ^FF0000Dotar terremoto^000000. Elige otra propiedad."
+        "ko": "[미슈나]\n엘레멘탈 컨버터를 만들기 위해선 다음과 같은 재료들이 필요해요.",
+        "en": "[Mishuna] \nTo make an elemental converter, you’ll need the following materials.",
+        "pt": "[Mishuna] \nPara criar um conversor elemental, você precisa dos seguintes materiais.",
+        "es": "[Mishuna] \nPara fabricar un convertidor elemental, necesitáis estos materiales."
     },
     "73I2Aw": {
-        "en": "[Mishuna]\nExcellent! Then, let me teach you ^FF0000Earth Elemental Change^000000 and ^FF0000Create Elemental Converter^000000.",
-        "pt": "[Mishuna]\nExcelente! Então, deixe-me ensiná-lo ^FF0000Mudança Elemental - Terra^000000 e ^FF0000Criar Conversor Elemental^000000.",
-        "es": "[Mishuna]\n¡Excelente! Entonces, déjame enseñarte el ^FF0000Cambio elemental de tierra^000000 y ^FF0000Crear convertidor elemental^000000."
+        "ko": "[미슈나]\n^FF0000전갈의 꼬리 10개^000000\n^FF0000딱딱한 뿔 7개^000000\n^FF0000알록달록한 등껍질 12개^000000\n^FF0000달팽이 껍질 10개^000000\n^FF0000빈 Scroll 4개^000000",
+        "en": "[Mishuna] \n^FF000010 Scorpion Tails^000000\n^FF00007 Hard Horns^000000\n^FF000012 Multicolored Back Shells^000000\n^FF000010 Snail Shells^000000\n^FF00004 Empty Scrolls^000000",
+        "pt": "[Mishuna] \n^FF000010 Caudas de Escorpião^000000\n^FF00007 Chifres Duros^000000\n^FF000012 Capas/Casquinhas Coloridas das Costas^000000\n^FF000010 Casquilhos de Caracol^000000\n^FF00004 Pergaminhos Vazios^000000",
+        "es": "[Mishuna] \n^FF000010 Colas de Escorpión^000000\n^FF00007 Cuernos Duros^000000\n^FF000012 Caparazones de Espalda Multicolor^000000\n^FF000010 Caparazones de Caracol^000000\n^FF00004 Pergaminos Vacíos^000000"
     },
     "8HI2Aw": {
-        "en": "[Mishuna]\nYou can't learn ^FF0000Wind Elemental Change^000000 without learning ^FF0000Endow Tornado^000000 first. Please select a different property.",
-        "pt": "[Mishuna]\nVocê não pode aprender ^FF0000Mudança Elemental - Vento^000000 sem aprender ^FF0000Encantar com Ventania^000000 primeiro. Selecione uma propriedade diferente.",
-        "es": "[Mishuna]\nNo puedes aprender ^FF0000Cambio elemental de viento^000000 sin aprender primero ^FF0000Dotar tornado^000000. Elige otra propiedad."
+        "ko": "[미슈나]\n우선, 이 재료들을 구해오시면 그것들을 바탕으로 하여 스킬을 가르쳐 드리겠습니다. 컨버터 제조에 꼭 필요한 재료들이라는 점을 잊지 마시구요. 재료를 다 구하신 뒤, 절 찾아오세요.",
+        "en": "[Mishuna] \nFirst, if you can obtain these materials, I’ll teach you the skill based on them. Don’t forget that these are the materials absolutely required for converter manufacturing. Once you’ve gathered everything, come find me.",
+        "pt": "[Mishuna] \nPrimeiro, se você conseguir obter esses materiais, eu vou ensinar a habilidade com base neles. Não se esqueça que são itens indispensáveis para a fabricação dos conversores. Depois de conseguir todos, venha me procurar.",
+        "es": "[Mishuna] \nEn primer lugar, si conseguis estos materiales, os enseñar é la habilidad en base a ellos. No olvidéis que son materiales imprescindibles para la fabricación de convertidores. Cuando tengáis todo, venid a verme."
     },
     "8XI2Aw": {
-        "en": "[Mishuna]\nExcellent! Then, let me teach you ^FF0000Wind Elemental Change^000000 and ^FF0000Create Elemental Converter^000000.",
-        "pt": "[Mishuna]\nExcelente! Então, deixe-me ensiná-lo ^FF0000Mudança Elemental - Vento^000000 e ^FF0000Criar Conversor Elemental^000000.",
-        "es": "[Mishuna]\n¡Excelente! Entonces, déjame enseñarte ^FF0000Cambio elemental de viento^000000 y ^FF0000Crear convertidor elemental^000000."
+        "ko": "[미슈나]\n아직 재료를 다 못 구하신 것 같네요. 다시 한번 필요한 재료들을 알려드릴게요.",
+        "en": "[Mishuna] \nIt seems you still haven’t gathered all the materials. I’ll tell you the required ones once again.",
+        "pt": "[Mishuna] \nParece que você ainda não conseguiu todos os materiais. Vou te avisar novamente quais são os itens necessários.",
+        "es": "[Mishuna] \nParece que aún no habéis conseguido todos los materiales. Os diré otra vez cuáles son los necesarios."
     },
     "8nI2Aw": {
-        "en": "[Mishuna]\nYou can't learn ^FF0000Water Elemental Change^000000 without learning ^FF0000Endow Tsunami^000000 first. Please select a different property.",
-        "pt": "[Mishuna]\nNão é possível aprender ^FF0000Mudança Elemental - Água^000000 sem antes aprender ^FF0000Encantamento de Tsunami^000000. Selecione uma propriedade diferente.",
-        "es": "[Mishuna]\nNo puedes aprender ^FF0000Cambio elemental de agua^000000 sin aprender primero ^FF0000Dotar tsunami^000000. Elige otra propiedad."
+        "ko": "[미슈나]\n이 재료들을 구해 저에게 갖고 오시면, ^FF0000컨버터 제조^000000 스킬을 가르쳐 드리겠습니다.",
+        "en": "[Mishuna] \nIf you obtain these materials and bring them to me, I’ll teach you the ^FF0000Converter Manufacturing^000000 skill.",
+        "pt": "[Mishuna] \nSe você conseguir esses materiais e trouxer até mim, eu vou te ensinar a habilidade ^FF0000Fabricação de Conversores^000000.",
+        "es": "[Mishuna] \nSi conseguís estos materiales y me los traéis, os enseñaré la habilidad ^FF0000Fabricación de Convertidores^000000."
     },
     "83I2Aw": {
-        "en": "[Mishuna]\nExcellent! Then, let me teach you ^FF0000Water Elemental Change^000000 and ^FF0000Create Elemental Converter^000000.",
-        "pt": "[Mishuna]\nExcelente! Então, deixe-me ensinar ^FF0000Mudança Elemental - Água^000000 e ^FF0000Criar Conversor Elemental^000000.",
-        "es": "[Mishuna]\n¡Excelente! Entonces, déjame enseñarte el ^FF0000Cambio elemental de agua^000000 y ^FF0000Crear convertidor elemental^000000."
+        "ko": "[미슈나]\n모두 구해오셨네요. 수고하셨어요. 그럼 이제부터 스킬을 가르쳐 드리겠습니다.",
+        "en": "[Mishuna] \nSo you’ve gathered everything. Thank you for your hard work. Then I’ll teach you the skill from here on out.",
+        "pt": "[Mishuna] \nVocês conseguiram tudo, não é? Obrigado pelo esforço. Agora vou te ensinar a habilidade.",
+        "es": "[Mishuna] \nYa lo habéis conseguido todo. Buen trabajo. Entonces, a partir de ahora os enseñar é la habilidad."
     },
     "9HI2Aw": {
-        "en": "[Mishuna]\nExcellent! Then, let me teach you ^FF0000Fire Elemental Change^000000.",
-        "pt": "[Mishuna]\nExcelente! Então, deixe-me ensinar ^FF0000Mudança Elemental - Fogo^000000.",
-        "es": "[Mishuna]\n¡Excelente! Entonces, déjame enseñarte ^FF0000Cambio elemental de fuego^000000."
+        "ko": "[미슈나]\n앞서 말씀 드렸지만, 엘레멘탈 컨버터는 지금 가지고 오신 재료들을 바탕으로 제조합니다.",
+        "en": "[Mishuna] \nAs I said earlier, the elemental converter is manufactured based on the materials you’ve brought now.",
+        "pt": "[Mishuna] \nComo eu já disse antes, o conversor elemental é fabricado com base nos materiais que você trouxe agora.",
+        "es": "[Mishuna] \nComo os dije antes, el convertidor elemental se fabrica a partir de los materiales que habéis traído."
     },
     "9XI2Aw": {
-        "en": "[Mishuna]\nExcellent! Then, let me teach you ^FF0000Earth Elemental Change^000000.",
-        "pt": "[Mishuna]\nExcelente! Então, deixe-me ensinar ^FF0000Mudança Elemental - Terra^000000.",
-        "es": "[Mishuna]\n¡Excelente! Entonces, déjame enseñarte ^FF0000Cambio elemental de tierra^000000."
+        "ko": "[미슈나]\n하지만 재료만 있다고 만들어진다면 세이지 뿐만 아니라 지나가는 꼬마라도 방법만 안다면 만들 수 있겠죠? 여기서 필요한 것이 세이지 고유의 속성 능력들입니다.",
+        "en": "[Mishuna] \nBut if materials alone were enough to make it, then not only sages—any passing kid could make it if they knew the method, right? What’s needed here are the sage’s unique attribute abilities.",
+        "pt": "[Mishuna] \nMas se fosse só ter os materiais para fabricar, não só sages—até qualquer criança que passa por aqui poderia fazer se soubesse o método, certo? O que é necessário aqui são as habilidades de atributo únicas do sage.",
+        "es": "[Mishuna] \nPero si con solo materiales se pudiera fabricar, no solo los sabios—hasta un niño cualquiera podría hacerlo si supiera el método, ¿no? Lo que se necesita aquí son las habilidades de atributo únicas del sabio."
     },
     "9nI2Aw": {
-        "en": "[Mishuna]\nExcellent! Then, let me teach you ^FF0000Wind Elemental Change^000000.",
-        "pt": "[Mishuna]\nExcelente! Então, deixe-me ensinar ^FF0000Mudança Elemental - Vento^000000.",
-        "es": "[Mishuna]\n¡Excelente! Entonces, déjame enseñarte ^FF0000Cambio elemental de viento^000000."
+        "ko": "[미슈나]\n화속성 컨버터를 만들려면 ^FF0000프레임 런쳐^000000 스킬이 필요하고, 지속성 커버터를 만들려면 ^FF0000사이즈믹 웨폰^000000 스킬이 필요하죠.",
+        "en": "[Mishuna] \nTo make a Fire-element converter, you need the ^FF0000Frame Launcher^000000 skill. And to make a sustaining/continual converter, you need the ^FF0000Siezmic Weapon^000000 skill.",
+        "pt": "[Mishuna] \nPara fabricar um conversor de Fogo, é necessário o ^FF0000Frame Launcher^000000. E para fabricar um conversor de continuidade/persistência, você precisa do ^FF0000Siezmic Weapon^000000.",
+        "es": "[Mishuna] \nPara fabricar un convertidor de Fuego, necesitas la habilidad ^FF0000Frame Launcher^000000. Y para crear un convertidor de persistencia/continuidad, necesitas la habilidad ^FF0000Siezmic Weapon^000000."
     },
     "93I2Aw": {
-        "en": "[Mishuna]\nExcellent! Then, let me teach you ^FF0000Water Elemental Change^000000.",
-        "pt": "[Mishuna]\nExcelente! Então, deixe-me ensinar ^FF0000Mudança Elemental - Água^000000.",
-        "es": "[Mishuna]\n¡Excelente! Entonces, déjame enseñarte ^FF0000Cambio elemental de agua^000000."
+        "ko": "[미슈나]\n마찬가지로 풍속성 컨버터를 만들려면 ^FF0000라이트닝 로더^000000 스킬이, 수속성 컨버터를 만들려면 ^FF0000프로스트 웨폰^000000 스킬이 필요합니다.",
+        "en": "[Mishuna] \nLikewise, to make a Wind-element converter, you need the ^FF0000Lightning Loader^000000 skill; and to make a Water-element converter, you need the ^FF0000Frost Weapon^000000 skill.",
+        "pt": "[Mishuna] \nDo mesmo modo, para fabricar um conversor de Vento, você precisa do ^FF0000Lightning Loader^000000; e para fabricar um conversor de Água, precisa do ^FF0000Frost Weapon^000000.",
+        "es": "[Mishuna] \nDel mismo modo, para un convertidor de Viento necesitas ^FF0000Lightning Loader^000000 y para uno de Agua necesitas ^FF0000Frost Weapon^000000."
     },
     "+HI2Aw": {
-        "en": "[Mishuna]\nLet me chant a spell to help you remember your skills. Please try not to move.",
-        "pt": "[Mishuna]\nDeixe-me entoar um feitiço para ajudar você a se lembrar das habilidades. Tente não se mexer.",
-        "es": "[Mishuna]\nDéjame conjurar un hechizo para ayudarte a recordar tus habilidades. Por favor, intenta no moverte."
+        "ko": "[미슈나]\n그리고 제조 스킬을 사용한다고 무조건 컨버터가 만들어지는 건 아닙니다. 제조에 실패하여 재료만 날릴 수도 있다 이거죠. 그 성공률은 속성 능력들의 레벨과 당신의 능력으로 결정된다는 걸 알아두세요.",
+        "en": "[Mishuna] \nAnd using the manufacturing skill doesn’t guarantee that a converter will be made. You might fail the manufacturing and only waste the materials. Remember that the success rate is determined by the levels of your attribute abilities and your own ability.",
+        "pt": "[Mishuna] \nE usar a habilidade de fabricação não significa que o conversor vai ser criado automaticamente. Você pode falhar na fabricação e acabar só desperdiçando os materiais. Saiba que a taxa de sucesso varia conforme os níveis das suas habilidades de atributo e a sua capacidade.",
+        "es": "[Mishuna] \nY usar una habilidad de fabricación no garantiza que se cree un convertidor. Podéis fallar en la fabricación y desperdiciar solo los materiales. Tened en cuenta que la tasa de éxito se determina por el nivel de las habilidades de atributo y por vuestra capacidad."
     },
     "+XI2Aw": {
-        "en": "- He chanted a spell, restoring my memories of ^FF0000Create Elemental Converter^000000. -",
-        "pt": "- Ele entoa um feitiço, restaurando minhas memórias de ^FF0000Criar Conversor Elemental^000000. -",
-        "es": "(Conjuró un hechizo y restauró mis recuerdos de ^FF0000Crear convertidor elemental^000000)."
+        "ko": "[미슈나]\n자, 이것이 대현자 바르문트님께서 남기신 지식입니다. 이것을 읽고 스킬을 습득하세요.",
+        "en": "[Mishuna] \nNow, this is the knowledge left behind by Grand Sage Varmunt. Read it and learn the skill.",
+        "pt": "[Mishuna] \nAhora, isto es el conocimiento que dejó el Gran Sabio Varmunt. Leiamlo y aprenda la habilidad.",
+        "es": "[Mishuna] \nAhora, este es el conocimiento que dejó el Gran Sabio Varmunt. Leedlo y aprended la habilidad."
     },
     "+nI2Aw": {
-        "en": "[Mishuna]\nIf you know a Sage who's still not aware of this new knowledge, please send them to me. And please enjoy using your skills.",
-        "pt": "[Mishuna]\nSe você conhece um Sábio que ainda não está ciente desse novo conhecimento, mande-o até mim. E aproveite para usar suas habilidades.",
-        "es": "[Mishuna]\nSi conoces a algún Sabio que aún no esté al tanto de estos nuevos conocimientos, envíamelo. Y, por favor, disfruta de tus habilidades."
+        "ko": "- 대현자 바르문트가 남겼다는 두루마리의 사본을 읽어, ^FF0000컨버터 제조^000000 스킬을 알게 됐다. -",
+        "en": "- By reading a copy of the scroll said to have been left by Grand Sage Varmunt, you learned the ^FF0000Converter Manufacturing^000000 skill. -",
+        "pt": "- Ao ler uma cópia do pergaminho que dizem ter sido deixado pelo Grande Sábio Varmunt, você aprendeu a habilidade ^FF0000Fabricação de Conversores^000000. -",
+        "es": "- Al leer una copia del pergamino que se dice que dejó el Gran Sabio Varmunt, conociste la habilidad ^FF0000Fabricación de Convertidores^000000. -"
     },
     "+3I2Aw": {
-        "en": "[Mishuna]\nHello. Welcome to the Schweicherbil Magic Academy. My name is Mishuna, a sage. How may I help you?",
-        "pt": "[Mishuna]\nOlá. Boas-vindas à Academia de Magia de Schweicherbil. Meu nome é Mishuna, sou uma sábia. Como posso ajudar?",
-        "es": "[Mishuna]\nHola. Te doy la bienvenida a la Academia de Magia Schweicherbil. Mi nombre es Mishuna y soy un Sabio. ¿En qué puedo ayudarte?"
+        "ko": "[미슈나]\n정말 빠른 속도로 익히셨군요! 유능하다고 소문난 세이지 {0}님의 실력은 사실이었네요.",
+        "en": "[Mishuna] \nYou learned it at an amazing speed! The skill of Sage {0}, rumored to be talented, really was true.",
+        "pt": "[Mishuna] \nVocê aprendeu em uma velocidade realmente impressionante! Afinal, a capacidade do Sage {0}, que dizem ser muito competente, era real.",
+        "es": "[Mishuna] \n¡Lo habéis aprendido a una velocidad impresionante! La capacidad del Sage {0}, del que se comenta que es muy competente, era verdad."
     },
     "/HI2Aw": {
-        "en": "I came to earn new knowledge.",
-        "pt": "Vim para adquirir novos conhecimentos.",
-        "es": "Vine a adquirir nuevos conocimientos."
+        "ko": "[미슈나]\n이제 남은 스킬은 컨버터를 사용하여 몬스터의 속성을 바꾸는 ^FF0000엘레멘탈 체인지^000000 스킬입니다....만 잠시 식사를 하고 돌아올 테니, 스킬을 익힐 준비가 되셨다면 나중에 다시 말 걸어주세요.",
+        "en": "[Mishuna] \nThe remaining skill now is the ^FF0000Elemental Change^000000 skill, which changes a monster’s attribute using a converter... but I’ll go eat for a moment and come back. If you’re ready to learn the skill, please talk to me again later.",
+        "pt": "[Mishuna] \nAgora, a habilidade restante é a ^FF0000Mudança Elemental^000000, que muda o atributo dos monstros usando um conversor… mas vou comer rapidinho e volto. Se você estiver pronto para aprender a habilidade, fale comigo de novo mais tarde.",
+        "es": "[Mishuna] \nAhora, la habilidad que falta es ^FF0000Cambio Elemental^000000, que cambia el atributo de los monstruos usando el convertidor… pero ahora comeré algo y volveré. Si estáis listos para aprender la habilidad, volved a hablarme más tarde."
     },
     "/XI2Aw": {
-        "en": "[Mishuna]\nAh, Sage {0}! So, you've heard the news. The Academy has discovered a new piece of Great Sage Barmund's knowledge that was thought to have been long lost.",
-        "pt": "[Mishuna]\nAh, {0}, membro dos sábios! Então você já sabe. A Academia descobriu uma nova parte do conhecimento do Grande Sábio Barmund que estava supostamente pedida há muito tempo.",
-        "es": "[Mishuna]\n¡Ah, Sabio {0}! Ya oíste la noticia. La Academia descubrió un nuevo vestigio del conocimiento del Gran sabio Barmund que se creía perdido desde hace tiempo."
+        "ko": "[미슈나]\n스킬 익히시느라 수고하셨습니다~!",
+        "en": "[Mishuna] \nThanks for all your hard work learning the skills~!",
+        "pt": "[Mishuna] \nObrigado pelo esforço de aprender a habilidade~!",
+        "es": "[Mishuna] \n¡Gracias por vuestro esfuerzo aprendiendo la habilidad~!"
     },
     "/nI2Aw": {
-        "en": "[Mishuna]\nIt has to do with a couple of skills related to the four natural elements: fire, water, earth, and wind.",
-        "pt": "[Mishuna]\nTem a ver com algumas habilidades relacionadas aos quatro elementos naturais: fogo, água, terra e vento.",
-        "es": "[Mishuna]\nTiene que ver con un par de habilidades relacionadas con los cuatro elementos naturales: fuego, agua, tierra y viento."
+        "ko": "- 미슈나와의 재회로 잊고 있던 ^FF0000컨버터 제조^000000 스킬을 기억해 냈다! -",
+        "en": "- Upon reuniting with Mishuna, you remembered the ^FF0000Converter Manufacturing^000000 skill you’d forgotten! -",
+        "pt": "- Com o reencontro com Mishuna, você lembrou a habilidade ^FF0000Fabricação de Conversores^000000 que havia esquecido! -",
+        "es": "- Tras reencontraros con Mishuna, recordaste la habilidad ^FF0000Fabricación de Convertidores^000000 que tenías olvidada. -"
     },
     "/3I2Aw": {
-        "en": "[Mishuna]\nThe first one is ^FF0000Elemental Change^000000, which changes monsters' properties. Secondly, there's ^FF0000Create Elemental Converter^000000, which is necessary to create Elemental Converters to use ^FF0000Elemental Change^000000.",
-        "pt": "[Mishuna]\nO primeiro é ^FF0000Mudança Elemental^000000, que altera as propriedades dos monstros. Em segundo lugar, há ^FF0000Criar Conversor Elemental^000000, necessário para criar Conversores Elementais para usar ^FF0000Mudança Elemental^000000.",
-        "es": "[Mishuna]\nLa primera es el ^FF0000Cambio elemental^000000, que cambia las propiedades de los monstruos. La segunda es ^FF0000Crear convertidor elemental^000000, que es necesaria para crear Convertidores elementales para poder usar ^FF0000Cambio elemental^000000."
+        "ko": "[미슈나]\n이번엔 ^FF0000엘레멘탈 체인지^000000 스킬을 익히실 차례네요.",
+        "en": "[Mishuna] \nNow it’s your turn to learn the ^FF0000Elemental Change^000000 skill.",
+        "pt": "[Mishuna] \nAgora é a sua vez de aprender a habilidade ^FF0000Mudança Elemental^000000.",
+        "es": "[Mishuna] \nAhora os toca aprender la habilidad ^FF0000Cambio Elemental^000000."
     },
     "AHM2Aw": {
-        "en": "[Mishuna]\nDuring the Mercenary Rebellion, Barmund's mansion was burned to the ground along with myriad knowledge in it. I'm so glad we've recovered this.",
-        "pt": "[Mishuna]\nDurante a Rebelião Mercenária, a mansão de Barmund foi queimada completamente, junto com a miríade de conhecimentos que havia nela. Estou muito feliz por termos recuperado isso.",
-        "es": "[Mishuna]\nDurante la Rebelión de los Mercenarios, la mansión de Barmund fue reducida a cenizas junto con los innumerables conocimientos que albergaba. Me alegro mucho de que hayamos recuperado esto."
+        "ko": "[미슈나]\n자신에게 해당 속성 능력만 있으면 제조가 가능했던 ^FF0000컨버터 제조^000000 스킬과는 달리, ^FF0000엘레멘탈 체인지^000000 스킬은 딱 한 가지 속성만 익히실 수 있습니다.",
+        "en": "[Mishuna] \nUnlike ^FF0000Converter Manufacturing^000000, which allowed you to manufacture as long as you had the corresponding attribute ability, ^FF0000Elemental Change^000000 lets you learn only one attribute.",
+        "pt": "[Mishuna] \nDiferente de ^FF0000Fabricação de Conversores^000000, que permitia fabricar contanto que você tivesse a habilidade de atributo correspondente, ^FF0000Mudança Elemental^000000 só permite aprender um único atributo.",
+        "es": "[Mishuna] \nA diferencia de ^FF0000Fabricación de Convertidores^000000, en la que podíais fabricar con solo tener la habilidad de atributo correspondiente, ^FF0000Cambio Elemental^000000 solo permite aprender un atributo."
     },
     "AXM2Aw": {
-        "en": "[Mishuna]\nSo, are you ready to learn the new knowledge?",
-        "pt": "[Mishuna]\nEntão, já se preparou para aprender o novo conhecimento?",
-        "es": "[Mishuna]\nEntonces, ¿todo listo para aprender los nuevos conocimientos?"
+        "ko": "[미슈나]\n물론 해당 속성 스킬이 없으면 익히실 수 없고, 한 번 그 속성을 정하면 다른 속성으로 바꾸실 수도 없으니, 이 점을 알아두세요.",
+        "en": "[Mishuna] \nOf course, if you don’t have the corresponding attribute skill, you can’t learn it. And once you choose an attribute, you can’t switch it to another—keep that in mind.",
+        "pt": "[Mishuna] \nClaro: sem a habilidade de atributo correspondente, não dá para aprender. E depois que você escolhe um atributo, não pode trocar por outro. Lembre-se disso.",
+        "es": "[Mishuna] \nPor supuesto: si no tenéis la habilidad de ese atributo, no podéis aprenderla. Y una vez elegís un atributo, no podéis cambiarlo por otro. Tenedlo en cuenta."
     },
     "AnM2Aw": {
-        "en": "Maybe later.",
-        "pt": "Talvez mais tarde.",
-        "es": "Quizá más tarde."
+        "ko": "[미슈나]\n어떤 속성의 ^FF0000엘레멘탈 체인지^000000 스킬을 익히실 건가요? 다시 한번 말씀 드리지만, 한 번 그 속성을 정하면 다시 바꾸실 수 없습니다.",
+        "en": "[Mishuna] \nWhich attribute’s ^FF0000Elemental Change^000000 skill will you learn? I’ll repeat it once again: once you choose that attribute, you can’t change it again.",
+        "pt": "[Mishuna] \nQue atributo da ^FF0000Mudança Elemental^000000 você vai aprender? Repito: uma vez escolhido um atributo, não é possível mudar depois.",
+        "es": "[Mishuna] \n¿Qué atributo de ^FF0000Cambio Elemental^000000 vais a aprender? Os lo repito: una vez elegís un atributo, no se puede cambiar otra vez."
     },
     "A3M2Aw": {
-        "en": "Yes!",
-        "pt": "Sim!",
-        "es": "¡Sí!"
+        "ko": "화속성 엘레멘탈 체인지",
+        "en": "Fire-Elemental Change",
+        "pt": "Mudança Elemental de Fogo",
+        "es": "Cambio Elemental de Fuego"
     },
     "BHM2Aw": {
-        "en": "[Mishuna]\nAh, you must be busy right now. No problem. Please come back whenever you're ready. I'll always be here. Now, have a good day!",
-        "pt": "[Mishuna]\nAh, você deve estar sem tempo agora. Não tem problema. Volte quando estiver se preparado. Estarei sempre aqui. Tenha um bom dia!",
-        "es": "[Mishuna]\nAh, debes tener mucho que hacer ahora. No hay problema. Vuelve cuando tengas todo listo. Siempre estaré aquí. ¡Que tengas un buen día!"
+        "ko": "지속성 엘레멘탈 체인지",
+        "en": "Earth-Elemental Change",
+        "pt": "Mudança Elemental de Terra",
+        "es": "Cambio Elemental de Tierra"
     },
     "BXM2Aw": {
-        "en": "[Mishuna]\nThe first skill you'll learn is ^FF0000Create Elemental Converter^000000 because you can't use ^FF0000Elemental Change^000000 without it.",
-        "pt": "[Mishuna]\nA primeira habilidade que você aprenderá é ^FF0000Criar Conversor Elemental^000000 porque você não pode usar ^FF0000Mudança Elemental^000000 sem ela.",
-        "es": "[Mishuna]\nLa primera habilidad que aprenderás es ^FF0000Crear convertidor elemental^000000 porque no puedes usar ^FF0000Cambio elemental^000000 sin ella."
+        "ko": "풍속성 엘레멘탈 체인지",
+        "en": "Wind-Elemental Change",
+        "pt": "Mudança Elemental de Vento",
+        "es": "Cambio Elemental de Viento"
     },
     "BnM2Aw": {
-        "en": "[Mishuna]\nThe following materials are necessary to create an Elemental Converter.",
-        "pt": "[Mishuna]\nOs seguintes materiais são necessários para criar um Conversor Elemental.",
-        "es": "[Mishuna]\nSe necesitan los siguientes materiales para crear un Convertidor elemental."
+        "ko": "수속성 엘레멘탈 체인지",
+        "en": "Water-Elemental Change",
+        "pt": "Mudança Elemental de Água",
+        "es": "Cambio Elemental de Agua"
     },
     "B3M2Aw": {
-        "en": "[Mishuna]\n^FF000010 Scorpion Tails^000000\n^FF00007 Solid Horns^000000\n^FF000012 Rainbow Shells^000000\n^FF000010 Snail Shells^000000\n^FF00004 Blank Scrolls^000000",
-        "pt": "[Mishuna]\n^FF000010 Caudas de Escorpião^000000\n^FF00007 Chifres Sólidos^000000\n^FF000012 Conchas Arco-Íris^000000\n^FF000010 Conchas de Caracol^000000\n^FF00004 Pergaminhos em Branco^000000",
-        "es": "[Mishuna]\n^FF000010 Colas de escorpión^000000.\n^FF00007 Lucánidos sólidos^000000.\n^FF000012 Caparazones arcoíris^000000.\n^FF000010 Caparazones de caracol^000000.\n^FF00004 Pergaminos en blanco^000000."
+        "ko": "[미슈나]\n해당 속성 스킬인 ^FF0000프레임 런쳐^000000 스킬이 없어서 ^FF0000화속성 엘레멘탈 체인지^000000 스킬은 익히실 수 없습니다. 다른 속성을 선택해주세요.",
+        "en": "[Mishuna] \nSince you don’t have the ^FF0000Frame Launcher^000000 attribute skill, you can’t learn the ^FF0000Fire-Elemental Change^000000 skill. Please choose a different attribute.",
+        "pt": "[Mishuna] \nComo você não tem a habilidade de atributo ^FF0000Frame Launcher^000000, não pode aprender a ^FF0000Mudança Elemental de Fogo^000000. Escolha outro atributo.",
+        "es": "[Mishuna] \nNo tenéis la habilidad de atributo ^FF0000Frame Launcher^000000, así que no podéis aprender el ^FF0000Cambio Elemental de Fuego^000000. Elegid otro atributo."
     },
     "CHM2Aw": {
-        "en": "[Mishuna]\nPlease bring these materials first. I'll teach you the skill. Remember, they're necessary to make an Elemental Converter. I'll wait for you here.",
-        "pt": "[Mishuna]\nTraga esses materiais primeiro e ensinarei a habilidade. Lembre-se, eles são necessários para fazer um Conversor Elemental. Vou esperar por você aqui.",
-        "es": "[Mishuna]\nPrimero, trae estos materiales. Te enseñaré la habilidad. Recuerda, son necesarios para hacer un Convertidor elemental. Te esperaré aquí."
+        "ko": "[미슈나]\n^FF0000화속성 엘레멘탈 체인지^000000 스킬을 선택하셨습니다. 해당 속성의 능력을 각인시키기 위해선 다음과 같은 재료가 필요해요.",
+        "en": "[Mishuna] \nYou’ve chosen the ^FF0000Fire-Elemental Change^000000 skill. To imprint the abilities of that attribute, you’ll need the following materials.",
+        "pt": "[Mishuna] \nVocê escolheu a habilidade ^FF0000Mudança Elemental de Fogo^000000. Para gravar/implantar as capacidades desse atributo, você precisa dos seguintes materiais.",
+        "es": "[Mishuna] \nHabéis elegido el ^FF0000Cambio Elemental de Fuego^000000. Para grabar/implantar la capacidad de ese atributo, necesitáis estos materiales."
     },
     "CXM2Aw": {
-        "en": "[Mishuna]\nIn case you haven't found all the materials you need, let me tell them to you once more time.",
-        "pt": "[Mishuna]\nCaso você não tenha encontrado todos os materiais de que precisa, deixe-me dizer quais são mais uma vez.",
-        "es": "[Mishuna]\nEn caso de que no hayas encontrado todos los materiales que necesitas, deja que te los enumere una vez más."
+        "ko": "[미슈나]\n^FF0000레드 블러드 20개^000000\n^FF0000페이욘 수용액 1개^000000\n^FF0000모로크 수용액 1개^000000",
+        "en": "[Mishuna] \n^FF000020 Red Bloods^000000\n^FF00001 Payon Solution^000000\n^FF00001 Morroc Solution^000000",
+        "pt": "[Mishuna] \n^FF000020 Sangue Vermelho^000000\n^FF00001 Solução de Payon^000000\n^FF00001 Solução de Morroc^000000",
+        "es": "[Mishuna] \n^FF000020 Sangres Rojas^000000\n^FF00001 Solución de Payon^000000\n^FF00001 Solución de Morroc^000000"
     },
     "CnM2Aw": {
-        "en": "[Mishuna]\nPlease bring these materials to me. I'll teach you the ^FF0000Create Elemental Converter^000000 skill.",
-        "pt": "[Mishuna]\nTraga esses materiais para mim. Em seguida, ensinarei a habilidade ^FF0000Criar Conversor Elemental^000000.",
-        "es": "[Mishuna]\nTráeme estos materiales, por favor. Te enseñaré la habilidad ^FF0000Crear convertidor elemental^000000."
+        "ko": "[미슈나]\n이 재료들을 구하신 뒤, 저에게 오시면 ^FF0000화속성 엘레멘탈 체인지^000000 스킬을 알려드리겠습니다. 그럼 기다리고 있을게요~.",
+        "en": "[Mishuna] \nAfter you obtain these materials, come to me and I’ll teach you the ^FF0000Fire-Elemental Change^000000 skill. I’ll be waiting~.",
+        "pt": "[Mishuna] \nDepois de conseguir esses materiais, venha até mim que eu vou te ensinar a ^FF0000Mudança Elemental de Fogo^000000. Estarei esperando~.",
+        "es": "[Mishuna] \nTras conseguir estos materiales, venid a verme y os enseñaré el ^FF0000Cambio Elemental de Fuego^000000. Os esperaré~."
     },
     "C3M2Aw": {
-        "en": "[Mishuna]\nYou've brought them all! Good job! Now, let me teach you the skill.",
-        "pt": "[Mishuna]\nVocê trouxe tudo! Bom trabalho! Agora, ensinarei a habilidade.",
-        "es": "[Mishuna]\n¡Conseguiste todo! ¡Buen trabajo! Ahora, déjame enseñarte la habilidad."
+        "ko": "[미슈나]\n해당 속성 스킬인 ^FF0000사이즈믹 웨폰^000000 스킬이 없어서 ^FF0000지속성 엘레멘탈 체인지^000000 스킬은 익히실 수 없습니다. 다른 속성을 선택해주세요.",
+        "en": "[Mishuna] \nSince you don’t have the ^FF0000Siezmic Weapon^000000 attribute skill, you can’t learn the ^FF0000Earth-Elemental Change^000000 skill. Please choose a different attribute.",
+        "pt": "[Mishuna] \nComo você não tem a habilidade de atributo ^FF0000Siezmic Weapon^000000, não pode aprender a ^FF0000Mudança Elemental de Terra^000000. Escolha outro atributo.",
+        "es": "[Mishuna] \nComo no tenéis la habilidad de atributo ^FF0000Siezmic Weapon^000000, no podéis aprender el ^FF0000Cambio Elemental de Tierra^000000. Elegid otro atributo."
     },
     "DHM2Aw": {
-        "en": "[Mishuna]\nAs I told you earlier, you can make an Elemental Converter with these materials you've brought.",
-        "pt": "[Mishuna]\nComo eu disse antes, você pode fazer um Conversor Elemental com os materiais que trouxe.",
-        "es": "[Mishuna]\nComo te dije antes, puedes hacer un Convertidor elemental con estos materiales que trajiste."
+        "ko": "[미슈나]\n^FF0000지속성 엘레멘탈 체인지^000000 스킬을 선택하셨습니다. 해당 속성의 능력을 각인시키기 위해선 다음과 같은 재료가 필요해요.",
+        "en": "[Mishuna] \nYou’ve chosen the ^FF0000Earth-Elemental Change^000000 skill. To imprint the abilities of that attribute, you’ll need the following materials.",
+        "pt": "[Mishuna] \nVocê escolheu a habilidade ^FF0000Mudança Elemental de Terra^000000. Para gravar/implantar as capacidades desse atributo, você precisa dos seguintes materiais.",
+        "es": "[Mishuna] \nHabéis elegido el ^FF0000Cambio Elemental de Tierra^000000. Para grabar/implantar la capacidad de ese atributo, necesitáis estos materiales."
     },
     "DXM2Aw": {
-        "en": "[Mishuna]\nNow, usually, anybody can create something if they have the right materials, right? This is not the case. To make an Elemental Converter, certain Sage skills are required.",
-        "pt": "[Mishuna]\nAgora, normalmente, qualquer pessoa pode criar algo se tiver os materiais certos, certo? Esse não é o caso. Para fazer um Conversor Elemental, são necessárias certas habilidades de Sábio.",
-        "es": "[Mishuna]\nPor lo general, cualquiera puede crear algo si tiene los materiales adecuados, ¿verdad? Este no es el caso. Para hacer un Convertidor elemental, se requieren ciertas habilidades de Sabio."
+        "ko": "[미슈나]\n^FF0000그린 라이브20개^000000\n^FF0000페이욘 수용액 1개^000000\n^FF0000모로크 수용액 1개^000000",
+        "en": "[Mishuna] \n^FF000020 Green Lives^000000\n^FF00001 Payon Solution^000000\n^FF00001 Morroc Solution^000000",
+        "pt": "[Mishuna] \n^FF000020 Vidas Verdes^000000\n^FF00001 Solução de Payon^000000\n^FF00001 Solução de Morroc^000000",
+        "es": "[Mishuna] \n^FF000020 Vidas Verdes^000000\n^FF00001 Solución de Payon^000000\n^FF00001 Solución de Morroc^000000"
     },
     "DnM2Aw": {
-        "en": "[Mishuna]\nThe Fire Converter requires ^FF0000Flame Launcher^000000; the Earth Converter, ^FF0000Endow Quake^000000.",
-        "pt": "[Mishuna]\nO Conversor de Fogo requer ^FF0000Lançador de Chamas^000000; o Conversor de Terra, ^FF0000Arma Sísmica^000000.",
-        "es": "[Mishuna]\nEl Convertidor de fuego requiere ^FF0000Lanzallamas^000000. El Convertidor de tierra, ^FF0000Dotar terremoto^000000."
+        "ko": "[미슈나]\n이 재료들을 구하신 뒤, 저에게 오시면 ^FF0000지속성 엘레멘탈 체인지^000000 스킬을 알려드리겠습니다. 그럼 기다리고 있을게요~.",
+        "en": "[Mishuna] \nAfter you obtain these materials, come to me and I’ll teach you the ^FF0000Earth-Elemental Change^000000 skill. I’ll be waiting~.",
+        "pt": "[Mishuna] \nDepois de conseguir esses materiais, venha até mim que eu vou te ensinar a ^FF0000Mudança Elemental de Terra^000000. Estarei esperando~.",
+        "es": "[Mishuna] \nTras conseguir estos materiales, venid a verme y os enseñaré el ^FF0000Cambio Elemental de Tierra^000000. Os esperaré~."
     },
     "D3M2Aw": {
-        "en": "[Mishuna]\nThe Wind Converter, ^FF0000Endow Tornado^000000. The Water Converter, ^FF0000Endow Tsunami^000000.",
-        "pt": "[Mishuna]\nO Conversor de Vento, ^FF0000Lançador de Tornado^000000. O Conversor de Água, ^FF0000Lançador de Tsunami^000000.",
-        "es": "[Mishuna]\nEl Convertidor de viento, ^FF0000Dotar tornado^000000. El Convertidor de agua, ^FF0000Dotar tsunami^000000."
+        "ko": "[미슈나]\n해당 속성 스킬인 ^FF0000라이트닝 로더^000000 스킬이 없어서 ^FF0000풍속성 엘레멘탈 체인지^000000 스킬은 익히실 수 없습니다. 다른 속성을 선택해주세요.",
+        "en": "[Mishuna] \nSince you don’t have the ^FF0000Lightning Loader^000000 attribute skill, you can’t learn the ^FF0000Wind-Elemental Change^000000 skill. Please choose a different attribute.",
+        "pt": "[Mishuna] \nComo você não tem a habilidade de atributo ^FF0000Lightning Loader^000000, não pode aprender a ^FF0000Mudança Elemental de Vento^000000. Escolha outro atributo.",
+        "es": "[Mishuna] \nNo tenéis la habilidad de atributo ^FF0000Lightning Loader^000000, así que no podéis aprender el ^FF0000Cambio Elemental de Viento^000000. Elegid otro atributo."
     },
     "EHM2Aw": {
-        "en": "[Mishuna]\nAnd that's not all. Even if you know these skills, you can't always succeed in making the Converters. You can lose your materials without getting a Converter, too.\nNote your chance of success depends on your elemental skill's level and your abilities.",
-        "pt": "[Mishuna]\nE isso não é tudo. Mesmo que você conheça essas habilidades, nem sempre conseguirá fazer os conversores. Você também pode perder seus materiais sem conseguir um Conversor.\nObserve que sua chance de sucesso depende do nível de sua habilidade elemental e de outras habilidades.",
-        "es": "[Mishuna]\nY eso no es todo. Aunque conozcas estas habilidades, no siempre conseguirás crear los Convertidores. También puedes perder los materiales y no obtener un Convertidor.\nTen en cuenta que tus posibilidades de éxito dependen del nivel de tu habilidad elemental y de tus capacidades."
+        "ko": "[미슈나]\n^FF0000풍속성 엘레멘탈 체인지^000000 스킬을 선택하셨습니다. 해당 속성의 능력을 각인시키기 위해선 다음과 같은 재료가 필요해요.",
+        "en": "[Mishuna] \nYou’ve chosen the ^FF0000Wind-Elemental Change^000000 skill. To imprint the abilities of that attribute, you’ll need the following materials.",
+        "pt": "[Mishuna] \nVocê escolheu a habilidade ^FF0000Mudança Elemental de Vento^000000. Para gravar/implantar as capacidades desse atributo, você precisa dos seguintes materiais.",
+        "es": "[Mishuna] \nHabéis elegido el ^FF0000Cambio Elemental de Viento^000000. Para grabar/implantar la capacidad de ese atributo, necesitáis estos materiales."
     },
     "EXM2Aw": {
-        "en": "[Mishuna]\nNow, this is the knowledge left by Great Sage Barmund. Please read it and learn the skill.",
-        "pt": "[Mishuna]\nAgora, esse é o conhecimento deixado pelo Grande Sábio Barmund. Leia tudo e aprenda a habilidade.",
-        "es": "[Mishuna]\nEste es el conocimiento que dejó el Gran sabio Barmund. Léelo y aprende la habilidad."
+        "ko": "[미슈나]\n^FF0000윈드 오브 버듀어 20개^000000\n^FF0000페이욘 수용액 1개^000000\n^FF0000모로크 수용액 1개^000000",
+        "en": "[Mishuna] \n^FF000020 Wind of Budeer^000000\n^FF00001 Payon Solution^000000\n^FF00001 Morroc Solution^000000",
+        "pt": "[Mishuna] \n^FF000020 Vento de Budeer^000000\n^FF00001 Solução de Payon^000000\n^FF00001 Solução de Morroc^000000",
+        "es": "[Mishuna] \n^FF000020 Viento de Budeer^000000\n^FF00001 Solución de Payon^000000\n^FF00001 Solución de Morroc^000000"
     },
     "EnM2Aw": {
-        "en": "- I read a copy of the scroll that Great Sage Barmund left and learned ^FF0000Create Elemental Converter^000000. -",
-        "pt": "- Li uma cópia do pergaminho que o Grande Sábio Barmund deixou e aprendi ^FF0000Criar Conversor Elemental^000000. -",
-        "es": "(Leí una copia del pergamino que dejó el Gran sabio Barmund y aprendí la habilidad ^FF0000Crear convertidor elemental^000000)."
+        "ko": "[미슈나]\n이 재료들을 구하신 뒤, 저에게 오시면 ^FF0000풍속성 엘레멘탈 체인지^000000 스킬을 알려드리겠습니다. 그럼 기다리고 있을게요~.",
+        "en": "[Mishuna] \nAfter you obtain these materials, come to me and I’ll teach you the ^FF0000Wind-Elemental Change^000000 skill. I’ll be waiting~.",
+        "pt": "[Mishuna] \nDepois de conseguir esses materiais, venha até mim que eu vou te ensinar a ^FF0000Mudança Elemental de Vento^000000. Estarei esperando~.",
+        "es": "[Mishuna] \nTras conseguir estos materiales, venid a verme y os enseñaré el ^FF0000Cambio Elemental de Viento^000000. Os esperaré~."
     },
     "E3M2Aw": {
-        "en": "[Mishuna]\nThat was so fast! {0}, you're as great as people say you are!",
-        "pt": "[Mishuna]\nFoi muito rápido! {0}, você manda tão bem no que faz quanto dizem!",
-        "es": "[Mishuna]\n¡Eso fue rapidísimo! ¡{0}, realmente eres tan increíble como dicen!"
+        "ko": "[미슈나]\n해당 속성 스킬인 ^FF0000프로스트 웨폰^000000 스킬이 없어서 ^FF0000수속성 엘레멘탈 체인지^000000 스킬은 익히실 수 없습니다. 다른 속성을 선택해주세요.",
+        "en": "[Mishuna] \nSince you don’t have the ^FF0000Frost Weapon^000000 attribute skill, you can’t learn the ^FF0000Water-Elemental Change^000000 skill. Please choose a different attribute.",
+        "pt": "[Mishuna] \nComo você não tem a habilidade de atributo ^FF0000Frost Weapon^000000, não pode aprender a ^FF0000Mudança Elemental de Água^000000. Escolha outro atributo.",
+        "es": "[Mishuna] \nNo tenéis la habilidad de atributo ^FF0000Frost Weapon^000000, así que no podéis aprender el ^FF0000Cambio Elemental de Agua^000000. Elegid otro atributo."
     },
     "FHM2Aw": {
-        "en": "[Mishuna]\nNow, we can move on to the other skill, ^FF0000Elemental Change^000000, which enables you to change monsters' properties using Elemental Converters.\nBut let me go have a quick lunch first. Please talk to me again later when you're ready to learn that skill.",
-        "pt": "[Mishuna]\nAgora, podemos passar para a outra habilidade, ^FF0000Mudança Elemental^000000, que permite que você altere as propriedades dos monstros usando Conversores Elementais.\nMas, primeiro, preciso almoçar. Fale comigo mais tarde quando chegar a hora de aprender essa habilidade.",
-        "es": "[Mishuna]\nAhora, podemos pasar a la otra habilidad, ^FF0000Cambio elemental^000000, que te permite cambiar las propiedades de los monstruos mediante el uso de los Convertidores elementales.\nPero antes déjame ir a comer algo rápido. Vuelve a hablar conmigo más tarde, cuando tengas todo listo para aprender esa habilidad."
+        "ko": "[미슈나]\n^FF0000수속성 엘레멘탈 체인지^000000 스킬을 선택하셨습니다. 해당 속성의 능력을 각인시키기 위해선 다음과 같은 재료가 필요해요.",
+        "en": "[Mishuna] \nYou’ve chosen the ^FF0000Water-Elemental Change^000000 skill. To imprint the abilities of that attribute, you’ll need the following materials.",
+        "pt": "[Mishuna] \nVocê escolheu a habilidade ^FF0000Mudança Elemental de Água^000000. Para gravar/implantar as capacidades desse atributo, você precisa dos seguintes materiais.",
+        "es": "[Mishuna] \nHabéis elegido el ^FF0000Cambio Elemental de Agua^000000. Para grabar/implantar la capacidad de ese atributo, necesitáis estos materiales."
     },
     "FXM2Aw": {
-        "en": "[Mishuna]\nGood job learning Create Elemental Converter.",
-        "pt": "[Mishuna]\nBom trabalho ao aprender Criar Conversor Elemental.",
-        "es": "[Mishuna]\nHiciste un buen trabajo al aprender Crear convertidor elemental."
+        "ko": "[미슈나]\n^FF0000크리스탈 블루 20개^000000\n^FF0000페이욘 수용액 1개^000000\n^FF0000모로크 수용액 1개^000000",
+        "en": "[Mishuna] \n^FF000020 Crystal Blue^000000\n^FF00001 Payon Solution^000000\n^FF00001 Morroc Solution^000000",
+        "pt": "[Mishuna] \n^FF000020 Cristal Azul^000000\n^FF00001 Solução de Payon^000000\n^FF00001 Solução de Morroc^000000",
+        "es": "[Mishuna] \n^FF000020 Cristal Azul^000000\n^FF00001 Solución de Payon^000000\n^FF00001 Solución de Morroc^000000"
     },
     "FnM2Aw": {
-        "en": "- Meeting Mishuna has brought back my memories of the ^FF0000Create Elemental Converter^000000 skill! -",
-        "pt": "- Conhecer Mishuna trouxe de volta minhas lembranças da habilidade ^FF0000Criar Conversor Elemental^000000! -",
-        "es": "(¡Conocer a Mishuna me trajo recuerdos de la habilidad ^FF0000Crear convertidor elemental^000000!)."
+        "ko": "[미슈나]\n이 재료들을 구하신 뒤, 저에게 오시면 ^FF0000수속성 엘레멘탈 체인지^000000 스킬을 알려드리겠습니다. 그럼 기다리고 있을게요~.",
+        "en": "[Mishuna] \nAfter you obtain these materials, come to me and I’ll teach you the ^FF0000Water-Elemental Change^000000 skill. I’ll be waiting~.",
+        "pt": "[Mishuna] \nDepois de conseguir esses materiais, venha até mim que eu vou te ensinar a ^FF0000Mudança Elemental de Água^000000. Estarei esperando~.",
+        "es": "[Mishuna] \nTras conseguir estos materiales, venid a verme y os enseñaré el ^FF0000Cambio Elemental de Agua^000000. Os esperaré~."
     },
     "F3M2Aw": {
-        "en": "[Mishuna]\nThis time, you'll learn ^FF0000Elemental Change^000000.",
-        "pt": "[Mishuna]\nDesta vez, você aprenderá ^FF0000Mudança Elemental^000000.",
-        "es": "[Mishuna]\nEsta vez, aprenderás ^FF0000Cambio elemental^000000."
+        "ko": "[미슈나]\n아직 재료들을 못 구하신 것 같네요. 다시 한 번 알려드릴게요.",
+        "en": "[Mishuna] \nIt seems you still haven’t gathered all the materials. I’ll tell you again once more.",
+        "pt": "[Mishuna] \nParece que você ainda não conseguiu obter todos os materiais. Vou te avisar mais uma vez.",
+        "es": "[Mishuna] \nParece que aún no habéis conseguido todos los materiales. Os lo volveré a decir."
     },
     "GHM2Aw": {
-        "en": "[Mishuna]\nUnlike ^FF0000Create Elemental Converter^000000, with which you can create any Elemental Converter so long as you know the elemental skill,\nfor ^FF0000Elemental Change^000000, you can only select one property.",
-        "pt": "[Mishuna]\nAo contrário de ^FF0000Criar Conversor Elemental^000000, usado para criar qualquer Conversor Elemental, desde que conheça a habilidade elemental,\npara ^FF0000Mudança Elemental^000000, você só pode selecionar uma propriedade.",
-        "es": "[Mishuna]\nA diferencia de ^FF0000Crear convertidor elemental^000000, con la que puedes crear cualquier Convertidor elemental siempre que conozcas la habilidad elemental,\npara ^FF0000Cambio elemental^000000, solo puedes elegir una propiedad."
+        "ko": "[미슈나]\n재료들을 모두 구해오셨군요! 약속대로 ^FF0000화속성 엘레멘탈 체인지^000000 스킬을 알려드리겠습니다.",
+        "en": "[Mishuna] \nYou’ve gathered all the materials! As promised, I’ll teach you the ^FF0000Fire-Elemental Change^000000 skill.",
+        "pt": "[Mishuna] \nVocê conseguiu todos os materiais! Como prometido, vou te ensinar a habilidade ^FF0000Mudança Elemental de Fogo^000000.",
+        "es": "[Mishuna] \n¡Habéis conseguido todos los materiales! Como prometí, os enseñaré la habilidad ^FF0000Cambio Elemental de Fuego^000000."
     },
     "GXM2Aw": {
-        "en": "[Mishuna]\nYou can't learn it, either, if you don't know the elemental skill, or change your property once you select it.",
-        "pt": "[Mishuna]\nVocê também não pode aprendê-la se não conhecer a habilidade elemental ou mudar sua propriedade depois de selecioná-la.",
-        "es": "[Mishuna]\nTampoco puedes aprenderla si no conoces la habilidad elemental, ni cambiar su propiedad una vez que la elijas."
+        "ko": "[미슈나]\n^FF0000엘레멘탈 체인지^000000 스킬은 엘레멘탈 컨버터와 스킬을 시전하는 자의 속성 능력을 사용하여 타겟 몬스터의 속성을 영구히 바꾸는 기술입니다.",
+        "en": "[Mishuna] \nThe ^FF0000Elemental Change^000000 skill is a technique that permanently changes the target monster’s attribute by using an elemental converter and the caster’s attribute abilities.",
+        "pt": "[Mishuna] \nA habilidade ^FF0000Mudança Elemental^000000 é uma técnica que muda permanentemente o atributo do monstro-alvo usando um conversor elemental e a habilidade de atributo de quem lança a habilidade.",
+        "es": "[Mishuna] \nLa habilidad ^FF0000Cambio Elemental^000000 es una técnica que cambia permanentemente el atributo del monstruo objetivo usando el convertidor elemental y las habilidades de atributo del que lanza la habilidad."
     },
     "GnM2Aw": {
-        "en": "[Mishuna]\nSo, which ^FF0000Elemental Change^000000 do you want to learn? Once again, you can't change your property once you select it.",
-        "pt": "[Mishuna]\nEntão, qual ^FF0000Mudança Elemental^000000 você quer aprender? Mais uma vez, você não pode mudar sua propriedade depois de selecioná-la.",
-        "es": "[Mishuna]\nEntonces, ¿qué ^FF0000Cambio elemental^000000 quieres aprender? Recuerda que no puedes cambiar la propiedad una vez que la elijas."
+        "ko": "[미슈나]\n^FF0000컨버터 제조^000000 스킬과 마찬가지로 시전자의 능력에 따라 성공률이 달라진다는 걸 알아두세요.",
+        "en": "[Mishuna] \nJust like ^FF0000Converter Manufacturing^000000, remember that the success rate depends on the caster’s ability.",
+        "pt": "[Mishuna] \nAssim como em ^FF0000Fabricação de Conversores^000000, lembre-se: a taxa de sucesso varia de acordo com a capacidade do conjurador.",
+        "es": "[Mishuna] \nComo con ^FF0000Fabricación de Convertidores^000000, recordad que la tasa de éxito varía según la capacidad del invocador."
     },
     "G3M2Aw": {
-        "en": "[Mishuna]\nYou've selected ^FF0000Fire Elemental Change^000000. To learn this skill, you need the following materials.",
-        "pt": "[Mishuna]\nVocê selecionou ^FF0000Mudança Elemental - Fogo^000000. Para aprender essa habilidade, você precisa dos seguintes materiais.",
-        "es": "[Mishuna]\nElegiste ^FF0000Cambio elemental de fuego^000000. Para aprender esta habilidad, necesitas los siguientes materiales."
+        "ko": "[미슈나]\n자.. 이제 세이지 {0}님에게 ^FF0000화속성 엘레멘탈 체인지^000000 스킬을 각인시키는 주문을 외우겠습니다. 잠시 동안 몸을 움직이지 마세요.",
+        "en": "[Mishuna] \nAlright… Now I’ll recite the incantation to imprint the ^FF0000Fire-Elemental Change^000000 skill upon Sage {0}. For a moment, don’t move your body.",
+        "pt": "[Mishuna] \nCerto… Agora eu vou recitar a invocação para gravar a habilidade ^FF0000Mudança Elemental de Fogo^000000 em Sage {0}. Por um momento, não mexa o corpo.",
+        "es": "[Mishuna] \nBien… Ahora recitaré el conjuro para grabar la habilidad ^FF0000Cambio Elemental de Fuego^000000 en el Sage {0}. Por un momento, no te muevas."
     },
     "HHM2Aw": {
-        "en": "[Mishuna]\n^FF000020 Red Bloods^000000\n^FF00001 Payon Solution^000000\n^FF00001 Morroc Solution^000000",
-        "pt": "[Mishuna]\n^FF000020 Sangues Escarlates^000000\n^FF00001 Solução de Payon^000000\n^FF00001 Solução de Morroc^000000",
-        "es": "[Mishuna]\n^FF000020 unidades de Sangre roja^000000\n^FF00001 Solución de Payon^000000\n^FF00001 Solución de Morroc^000000"
+        "ko": "미슈나가 주문을 외우자 몸 주변에 신비하고 푸른 빛이 감돌기 시작했다",
+        "en": "As Mishuna began to recite the incantation, a mysterious blue light began to swirl around the body.",
+        "pt": "Assim que Mishuna começou a recitar a invocação, uma luz azul e misteriosa começou a envolver o corpo.",
+        "es": "En cuanto Mishuna empezó a recitar el conjuro, una luz azul y misteriosa comenzó a rodear el cuerpo."
     },
     "HXM2Aw": {
-        "en": "[Mishuna]\nPlease bring these materials to me. I'll teach you ^FF0000Fire Elemental Change^000000. Now, I'll be waiting for you.",
-        "pt": "[Mishuna]\nTraga esses materiais para mim. Ensinarei ^FF0000Mudança Elemental - Fogo^000000. Estou esperando.",
-        "es": "[Mishuna]\nTráeme estos materiales, por favor. Te enseñaré ^FF0000Cambio elemental de fuego^000000. Bien, te estaré esperando."
+        "ko": "[미슈나]\n호로레츄츄파레로~",
+        "en": "[Mishuna] \nHoro-recthu-cthu-parelo~",
+        "pt": "[Mishuna] \nHoro-retchuchu-parelo~",
+        "es": "[Mishuna] \nHoro-rechuchu-parelo~"
     },
     "HnM2Aw": {
-        "en": "[Mishuna]\nYou've selected ^FF0000Earth Elemental Change^000000. To learn this skill, you need the following materials.",
-        "pt": "[Mishuna]\nVocê selecionou ^FF0000Mudança Elemental - Terra^000000. Para aprender essa habilidade, você precisa dos seguintes materiais.",
-        "es": "[Mishuna]\nElegiste ^FF0000Cambio elemental de tierra^000000. Para aprender esta habilidad, necesitas los siguientes materiales."
+        "ko": "- 뭔가 주문이 좀 이상한 것 같지만, 그냥 넘어가자 -",
+        "en": "- The incantation seems a bit weird, but let it be. -",
+        "pt": "- Parece que a invocação é meio estranha, mas vamos deixar pra lá. -",
+        "es": "- Parece que el conjuro suena un poco raro, pero dejémoslo pasar. -"
     },
     "H3M2Aw": {
-        "en": "[Mishuna]\n^FF000020 Green Lives^000000\n^FF00001 Payon Solution^000000\n^FF00001 Morroc Solution^000000",
-        "pt": "[Mishuna]\n^FF000020 Vidas Verdejantes^000000\n^FF00001 Solução de Payon^000000\n^FF00001 Solução de Morroc^000000",
-        "es": "[Mishuna]\n^FF000020 unidades de Vida verde^000000\n^FF00001 Solución de Payon^000000\n^FF00001 Solución de Morroc^000000"
+        "ko": "[미슈나]\n호로리이잇 야압!",
+        "en": "[Mishuna] \nHorori-eit, Yaa-ap!",
+        "pt": "[Mishuna] \nHorori-eit, Yaa-ap!",
+        "es": "[Mishuna] \nHorori-eit, ¡Yaa-ap!"
     },
     "IHM2Aw": {
-        "en": "[Mishuna]\nPlease bring these materials to me. I'll teach you ^FF0000Earth Elemental Change^000000. Now, I'll be waiting for you.",
-        "pt": "[Mishuna]\nTraga esses materiais para mim. Ensinarei ^FF0000Mudança Elemental - Terra^000000. Estou esperando.",
-        "es": "[Mishuna]\nTráeme estos materiales, por favor. Te enseñaré ^FF0000Cambio elemental de tierra^000000. Bien, te estaré esperando."
+        "ko": "[미슈나]\n화속성 엘레멘탈 스킬이 세이지 {0}님에게 각인되었습니다. 앞으로 유용하게 사용하시길 바랄게요. 그럼 안녕히~!",
+        "en": "[Mishuna] \nThe Fire-Elemental skill has been imprinted upon Sage {0}. I hope you’ll use it effectively from now on. Farewell~!",
+        "pt": "[Mishuna] \nA habilidade de elemento Fogo foi gravada em Sage {0}. Espero que a utilize bem no futuro. Até logo~!",
+        "es": "[Mishuna] \nLa habilidad de elemento Fuego ha sido grabada en el Sage {0}. Espero que la aproveches muy bien a partir de ahora. ¡Hasta luego~!"
     },
     "IXM2Aw": {
-        "en": "[Mishuna]\nYou've selected ^FF0000Wind Elemental Change^000000. To learn this skill, you need the following materials.",
-        "pt": "[Mishuna]\nVocê selecionou ^FF0000Mudança Elemental - Vento^000000. Para aprender essa habilidade, você precisa dos seguintes materiais.",
-        "es": "[Mishuna]\nElegiste ^FF0000Cambio elemental de viento^000000. Para aprender esta habilidad, necesitas los siguientes materiales."
+        "ko": "[미슈나]\n^FF0000그린 라이브 20개^000000\n^FF0000페이욘 수용액 1개^000000\n^FF0000모로크 수용액 1개^000000",
+        "en": "[Mishuna] \n^FF000020 Green Lives^000000 \n^FF00001 Payon Solution^000000 \n^FF00001 Morroc Solution^000000",
+        "pt": "[Mishuna] \n^FF000020 Vidas Verdes^000000 \n^FF00001 Solução de Payon^000000 \n^FF00001 Solução de Morroc^000000",
+        "es": "[Mishuna] \n^FF000020 Vidas Verdes^000000 \n^FF00001 Solución de Payon^000000 \n^FF00001 Solución de Morroc^000000"
     },
     "InM2Aw": {
-        "en": "[Mishuna]\n^FF000020 Winds of Verdure^000000\n^FF00001 Payon Solution^000000\n^FF00001 Morroc Solution^000000",
-        "pt": "[Mishuna]\n^FF000020 Frescores do Vento^000000\n^FF00001 Solução de Payon^000000\n^FF00001 Solução de Morroc^000000",
-        "es": "[Mishuna]\n^FF000020 unidades de Viento de verdor^000000\n^FF00001 Solución de Payon^000000\n^FF00001 Solución de Morroc^000000"
+        "ko": "[미슈나]\n재료들을 모두 구해오셨군요! 약속대로 ^FF0000지속성 엘레멘탈 체인지^000000 스킬을 알려드리겠습니다.",
+        "en": "[Mishuna] \nYou’ve gotten all the materials, haven’t you! As promised, I’ll teach you the ^FF0000Earth-Elemental Change^000000 skill.",
+        "pt": "[Mishuna] \nVocê conseguiu todos os materiais! Como prometido, vou te ensinar a habilidade ^FF0000Mudança Elemental de Terra^000000.",
+        "es": "[Mishuna] \n¡Habéis conseguido todos los materiales! Como prometimos, os enseñar é la habilidad ^FF0000Cambio Elemental de Tierra^000000."
     },
     "I3M2Aw": {
-        "en": "[Mishuna]\nPlease bring these materials to me. I'll teach you ^FF0000Wind Elemental Change^000000. Now, I'll be waiting for you.",
-        "pt": "[Mishuna]\nTraga esses materiais para mim. Ensinarei ^FF0000Mudança Elemental - Vento^000000. Estou esperando.",
-        "es": "[Mishuna]\nTráeme estos materiales, por favor. Te enseñaré ^FF0000Cambio elemental de viento^000000. Bien, te estaré esperando."
+        "ko": "[미슈나]\n자.. 이제 세이지 {0}님에게 ^FF0000지속성 엘레멘탈 체인지^000000 스킬을 각인시키는 주문을 외우겠습니다. 잠시 동안 몸을 움직이지 마세요.",
+        "en": "[Mishuna] \nAlright… Now I’ll recite the incantation to imprint the ^FF0000Earth-Elemental Change^000000 skill upon Sage {0}. For a moment, don’t move your body.",
+        "pt": "[Mishuna] \nCerto… Agora eu vou recitar a invocação para gravar a habilidade ^FF0000Mudança Elemental de Terra^000000 em Sage {0}. Por um momento, não mexa o corpo.",
+        "es": "[Mishuna] \nBien… Ahora recitaré el conjuro para grabar la habilidad ^FF0000Cambio Elemental de Tierra^000000 en el Sage {0}. Por un momento, no te muevas."
     },
     "JHM2Aw": {
-        "en": "[Mishuna]\n^FF000020 Crystal Blues^000000\n^FF00001 Payon Solution^000000\n^FF00001 Morroc Solution^000000",
-        "pt": "[Mishuna]\n^FF000020 Cristais Azuis^000000\n^FF00001 Solução de Payon^000000\n^FF00001 Solução Morroc^000000",
-        "es": "[Mishuna]\n^FF000020 unidades de Azul cristal^000000\n^FF00001 Solución de Payon^000000\n^FF00001 Solución de Morroc^000000"
+        "ko": "[미슈나]\n지속성 엘레멘탈 스킬이 세이지 {0}님에게 각인되었습니다. 앞으로 유용하게 사용하시길 바랄게요. 그럼 안녕히~!",
+        "en": "[Mishuna] \nThe Earth-Elemental skill has been imprinted upon Sage {0}. I hope you’ll use it effectively from now on. Farewell~!",
+        "pt": "[Mishuna] \nA habilidade de elemento Terra foi gravada em Sage {0}. Espero que a utilize bem no futuro. Até logo~!",
+        "es": "[Mishuna] \nLa habilidad de elemento Tierra ha sido grabada en el Sage {0}. Espero que la aproveches muy bien a partir de ahora. ¡Hasta luego~!"
     },
     "JXM2Aw": {
-        "en": "[Mishuna]\nPlease bring these materials to me. I'll teach you ^FF0000Water Elemental Change^000000. Now, I'll be waiting for you.",
-        "pt": "[Mishuna]\nTraga esses materiais para mim. Ensinarei ^FF0000Mudança Elemental - Água^000000. Estou esperando.",
-        "es": "[Mishuna]\nTráeme estos materiales, por favor. Te enseñaré ^FF0000Cambio elemental de agua^000000. Bien, te estaré esperando."
+        "ko": "[미슈나]\n재료들을 모두 구해오셨군요! 약속대로 ^FF0000풍속성 엘레멘탈 체인지^000000 스킬을 알려드리겠습니다.",
+        "en": "[Mishuna] \nYou’ve gotten all the materials, haven’t you! As promised, I’ll teach you the ^FF0000Wind-Elemental Change^000000 skill.",
+        "pt": "[Mishuna] \nVocê conseguiu todos os materiais! Como prometido, vou te ensinar a habilidade ^FF0000Mudança Elemental de Vento^000000.",
+        "es": "[Mishuna] \n¡Habéis conseguido todos los materiales! Como prometimos, os enseñar é la habilidad ^FF0000Cambio Elemental de Viento^000000."
     },
     "JnM2Aw": {
-        "en": "[Mishuna]\nIn case you haven't found all the materials you need, let me tell them to you one more time.",
-        "pt": "[Mishuna]\nCaso você não tenha encontrado todos os materiais de que precisa, deixe-me dizer quais são mais uma vez.",
-        "es": "[Mishuna]\nEn caso de que no hayas encontrado todos los materiales que necesitas, deja que te los enumere una vez más."
+        "ko": "[미슈나]\n자.. 이제 세이지 {0}님에게 ^FF0000풍속성 엘레멘탈 체인지^000000 스킬을 각인시키는 주문을 외우겠습니다. 잠시 동안 몸을 움직이지 마세요.",
+        "en": "[Mishuna] \nAlright… Now I’ll recite the incantation to imprint the ^FF0000Wind-Elemental Change^000000 skill upon Sage {0}. For a moment, don’t move your body.",
+        "pt": "[Mishuna] \nCerto… Agora eu vou recitar a invocação para gravar a habilidade ^FF0000Mudança Elemental de Vento^000000 em Sage {0}. Por um momento, não mexa o corpo.",
+        "es": "[Mishuna] \nBien… Ahora recitaré el conjuro para grabar la habilidad ^FF0000Cambio Elemental de Viento^000000 en el Sage {0}. Por un momento, no te muevas."
     },
     "J3M2Aw": {
-        "en": "[Mishuna]\nYou've brought all the materials! Excellent! Now, let me teach you ^FF0000Fire Elemental Change^000000 as I promised.",
-        "pt": "[Mishuna]\nVocê trouxe todos os materiais! Muito bom! Agora, ensinarei ^FF0000Mudança Elemental - Fogo^000000 como prometi.",
-        "es": "[Mishuna]\n¡Trajiste todos los materiales! ¡Excelente! Ahora, déjame enseñarte ^FF0000Cambio elemental de fuego^000000 como te prometí."
+        "ko": "[미슈나]\n풍속성 엘레멘탈 스킬이 세이지 {0}님에게 각인되었습니다. 앞으로 유용하게 사용하시길 바랄게요. 그럼 안녕히~!",
+        "en": "[Mishuna] \nThe Wind-Elemental skill has been imprinted upon Sage {0}. I hope you’ll use it effectively from now on. Farewell~!",
+        "pt": "[Mishuna] \nA habilidade de elemento Vento foi gravada em Sage {0}. Espero que a utilize bem no futuro. Até logo~!",
+        "es": "[Mishuna] \nLa habilidad de elemento Viento ha sido grabada en el Sage {0}. Espero que la aproveches muy bien a partir de ahora. ¡Hasta luego~!"
     },
     "KHM2Aw": {
-        "en": "[Mishuna]\nThis ^FF0000Elemental Change skill^000000 uses an Elemental Converter and your elemental skill to permanently change the target monster's property for you.",
-        "pt": "[Mishuna]\nA habilidade ^FF0000Mudança Elemental^000000 usa um Conversor Elemental e muda permanentemente a propriedade do monstro alvo para você.",
-        "es": "[Mishuna]\nLa habilidad ^FF0000Cambio elemental^000000 usa un Convertidor elemental y tu habilidad elemental para cambiar permanentemente la propiedad del monstruo objetivo."
+        "ko": "[미슈나]\n재료들을 모두 구해오셨군요! 약속대로 ^FF0000수속성 엘레멘탈 체인지^000000 스킬을 알려드리겠습니다.",
+        "en": "[Mishuna] \nYou’ve gotten all the materials, haven’t you! As promised, I’ll teach you the ^FF0000Water-Elemental Change^000000 skill.",
+        "pt": "[Mishuna] \nVocê conseguiu todos os materiais! Como prometido, vou te ensinar a habilidade ^FF0000Mudança Elemental de Água^000000.",
+        "es": "[Mishuna] \n¡Habéis conseguido todos los materiales! Como prometimos, os enseñar é la habilidad ^FF0000Cambio Elemental de Agua^000000."
     },
     "KXM2Aw": {
-        "en": "[Mishuna]\nIt also has a chance of success, just like ^FF0000Create Elemental Converter^000000.",
-        "pt": "[Mishuna]\nEle também tem uma chance de sucesso, assim como ^FF0000Criar Conversor Elemental^000000.",
-        "es": "[Mishuna]\nTambién tiene una probabilidad de éxito, al igual que ^FF0000Crear convertidor elemental^000000."
+        "ko": "[미슈나]\n자.. 이제 세이지 {0}님에게 ^FF0000수속성 엘레멘탈 체인지^000000 스킬을 각인시키는 주문을 외우겠습니다. 잠시 동안 몸을 움직이지 마세요.",
+        "en": "[Mishuna] \nAlright… Now I’ll recite the incantation to imprint the ^FF0000Water-Elemental Change^000000 skill upon Sage {0}. For a moment, don’t move your body.",
+        "pt": "[Mishuna] \nCerto… Agora eu vou recitar a invocação para gravar a habilidade ^FF0000Mudança Elemental de Água^000000 em Sage {0}. Por um momento, não mexa o corpo.",
+        "es": "[Mishuna] \nBien… Ahora recitaré el conjuro para grabar la habilidad ^FF0000Cambio Elemental de Agua^000000 en el Sage {0}. Por un momento, no te muevas."
     },
     "KnM2Aw": {
-        "en": "[Mishuna]\nNow, Sage {0}, I'm going to chant the spell that will forever imprint the ^FF0000Fire Elemental Change skill^000000 on you. Please try not to move for the time being.",
-        "pt": "[Mishuna]\nAgora, {0}, membro dos Sábios, vou entoar o feitiço que gravará para sempre a habilidade ^FF0000Mudança Elemental - Fogo^000000 em você. Tente não se mover.",
-        "es": "[Mishuna]\nPrepárate, Sabio {0}. Voy a conjurar el hechizo que grabará para siempre en ti la habilidad ^FF0000Cambio elemental de fuego^000000. Intenta no moverte, por favor."
+        "ko": "[미슈나]\n수속성 엘레멘탈 스킬이 세이지 {0}님에게 각인되었습니다. 앞으로 유용하게 사용하시길 바랄게요. 그럼 안녕히~!",
+        "en": "[Mishuna] \nThe Water-Elemental skill has been imprinted upon Sage {0}. I hope you’ll use it effectively from now on. Farewell~!",
+        "pt": "[Mishuna] \nA habilidade de elemento Água foi gravada em Sage {0}. Espero que a utilize bem no futuro. Até logo~!",
+        "es": "[Mishuna] \nLa habilidad de elemento Agua ha sido grabada en el Sage {0}. Espero que la aproveches muy bien a partir de ahora. ¡Hasta luego~!"
     },
     "K3M2Aw": {
-        "en": "Mishuna started chanting. A mysterious blue light appeared around me, circling.",
-        "pt": "Mishuna começou a encantar. Uma misteriosa luz azul apareceu ao meu redor.",
-        "es": "(Mishuna empezó a conjurar el hechizo. Una misteriosa luz azul apareció a mi alrededor, dando vueltas)."
+        "ko": "[미슈나]\n아앗, 예전에 가르쳐드린 지식들을 잊어버리신 모양이군요. 그래도 한 번 익히셨던 거라 제가 조금만 알려드리면 금방 생각나실 거에요.",
+        "en": "[Mishuna] \nAhh! Looks like you forgot the knowledge I taught you back then. Still, since you once learned it, if I just remind you a little, it’ll come back to you right away.",
+        "pt": "[Mishuna] \nAhh… Parece que você esqueceu os conhecimentos que eu te ensinei antes. Mas como você já aprendeu uma vez, se eu só te mostrar um pouco, você vai lembrar rapidinho.",
+        "es": "[Mishuna] \nAhh… Parece que habéis olvidado los conocimientos que os enseñé antes. Aunque sea, como ya lo aprendisteis una vez, si os digo un poco, lo recordaréis enseguida."
     },
     "LHM2Aw": {
-        "en": "- The spell didn't sound right, but I decided to ignore it. -",
-        "pt": "- O feitiço não parecia correto, mas decidi ignorá-lo. -",
-        "es": "(El hechizo no sonaba bien, pero decidí ignorarlo)."
+        "ko": "[미슈나]\n다만 지금 익히신 속성 스킬이 예전과 다를 수 있으니, ^FF0000엘레멘탈 체인지^000000 스킬은 다시 속성을 결정해주셔야 합니다.",
+        "en": "[Mishuna] \nThat said, the attribute skill you’re learning now may be different from before, so you must choose the attribute for ^FF0000Elemental Change^000000 again.",
+        "pt": "[Mishuna] \nMas o atributo que você está aprendendo agora pode ser diferente do de antes, então você precisa escolher o atributo novamente para a habilidade ^FF0000Mudança Elemental^000000.",
+        "es": "[Mishuna] \nPero la habilidad de atributo que aprendes ahora puede ser distinta a la de antes, así que tendréis que volver a decidir el atributo para ^FF0000Cambio Elemental^000000."
     },
     "LXM2Aw": {
-        "en": "[Mishuna]\nHororeeeiit... Hiyah!",
-        "pt": "[Mishuna]\nHororeeeiit... Hiyah!",
-        "es": "[Mishuna]\nHororeeeiit… ¡Kiai!"
+        "ko": "[미슈나]\n어떤 속성의 ^FF0000엘레멘탈 체인지^000000 스킬을 익히시겠어요? 한 번 정하면 되돌릴 수 없으니 이 점 참고하세요.",
+        "en": "[Mishuna] \nWhich attribute’s ^FF0000Elemental Change^000000 skill will you learn? Keep in mind: once you decide, you can’t undo it.",
+        "pt": "[Mishuna] \nQual atributo da ^FF0000Mudança Elemental^000000 você vai aprender? Lembre-se: depois de escolher, não dá para voltar atrás.",
+        "es": "[Mishuna] \n¿Qué ^FF0000Cambio Elemental^000000 de qué atributo vais a aprender? Recordad que, si decidís una vez, no podréis volver atrás."
     },
     "LnM2Aw": {
-        "en": "[Mishuna]\nFire Elemental Change has been imprinted on you, Sage {0}. I hope you'll enjoy using it. Now, farewell!",
-        "pt": "[Mishuna]\nA Mudança Elemental - Fogo foi gravada em você, {0}, membro dos Sábios. Espero que goste de usá-la. Até mais!",
-        "es": "[Mishuna]\nEl Cambio elemental de fuego quedó grabado en ti, Sabio {0}. Espero que disfrutes su uso. ¡Ahora, adiós!"
+        "ko": "[미슈나]\n네. 그럼 ^FF0000화속성 엘레멘탈 체인지^000000 스킬과 ^FF0000컨버터 제조^000000 스킬을 알려드리겠습니다.",
+        "en": "[Mishuna] \nYes. Then I’ll teach you the ^FF0000Fire-Elemental Change^000000 skill and the ^FF0000Converter Manufacturing^000000 skill.",
+        "pt": "[Mishuna] \nSim. Então vou te ensinar a habilidade ^FF0000Mudança Elemental de Fogo^000000 e a habilidade ^FF0000Fabricação de Conversores^000000.",
+        "es": "[Mishuna] \nSí. Entonces os enseñaré la habilidad ^FF0000Cambio Elemental de Fuego^000000 y la habilidad ^FF0000Fabricación de Convertidores^000000."
     },
     "L3M2Aw": {
-        "en": "[Mishuna]\nYou've brought all the materials! Excellent! Now, let me teach you ^FF0000Earth Elemental Change^000000 as I promised.",
-        "pt": "[Mishuna]\nVocê trouxe todos os materiais! Muito bom! Agora, ensinarei ^FF0000Mudança Elemental - Terra^000000 como prometi.",
-        "es": "[Mishuna]\n¡Trajiste todos los materiales! ¡Excelente! Ahora, déjame enseñarte ^FF0000Cambio elemental de tierra^000000 como te prometí."
+        "ko": "[미슈나]\n야압!",
+        "en": "[Mishuna] \nYaa-ap!",
+        "pt": "[Mishuna] \nYaa-ap!",
+        "es": "[Mishuna] \n¡Yaa-ap!"
     },
     "MHM2Aw": {
-        "en": "[Mishuna]\nNow, Sage {0}, I'm going to chant the spell that will forever imprint the ^FF0000Earth Elemental Change skill^000000 on you. Please try not to move for the time being.",
-        "pt": "[Mishuna]\nAgora, {0}, membro dos Sábios, vou entoar o feitiço que gravará para sempre a habilidade ^FF0000Mudança Elemental - Terra^000000 em você. Tente não se mover.",
-        "es": "[Mishuna]\nPrepárate, Sabio {0}. Voy a conjurar el hechizo que grabará para siempre en ti la habilidad ^FF0000Cambio elemental de tierra^000000. Intenta no moverte, por favor."
+        "ko": "- 주문이 끝남과 함께 예전에 사용하던 스킬들의 기억이 되돌아왔다. -",
+        "en": "- With the incantation finished, memories of the skills you used back then came flooding back. -",
+        "pt": "- Assim que a invocação terminou, as lembranças das habilidades que você usava antes voltaram. -",
+        "es": "- Cuando terminó el conjuro, volvieron los recuerdos de las habilidades que usabas antes. -"
     },
     "MXM2Aw": {
-        "en": "[Mishuna]\nEarth Elemental Change has been imprinted on you, Sage {0}. I hope you'll enjoy using it. Now, farewell!",
-        "pt": "[Mishuna]\nA Mudança Elemental - Terra foi gravada em você, {0}, membro dos Sábios. Espero que você goste de usá-la. Até mais!",
-        "es": "[Mishuna]\nEl Cambio elemental de tierra quedó grabado en ti, Sabio {0}. Espero que disfrutes su uso. ¡Ahora, adiós!"
+        "ko": "[미슈나]\n역시 금방 기억해내셨네요. 앞으로 유용하게 사용하시길 바랄게요. 그럼 안녕히~!",
+        "en": "[Mishuna] \nAs expected—you remembered it quickly. I hope you’ll use it effectively from now on. Farewell~!",
+        "pt": "[Mishuna] \nComo eu esperava—você lembrou rápido. Espero que a utilize bem no futuro. Até logo~!",
+        "es": "[Mishuna] \nComo era de esperar—lo recordaste rápido. Espero que lo uses bien a partir de ahora. ¡Hasta luego~!"
     },
     "MnM2Aw": {
-        "en": "[Mishuna]\nYou've brought all the materials! Excellent! Now, let me teach you ^FF0000Wind Elemental Change^000000 as I promised.",
-        "pt": "[Mishuna]\nVocê trouxe todos os materiais! Muito bom! Agora, ensinarei ^FF0000Mudança Elemental - Vento^000000 como prometi.",
-        "es": "[Mishuna]\n¡Trajiste todos los materiales! ¡Excelente! Ahora, déjame enseñarte ^FF0000Cambio elemental de viento^000000 como te prometí."
+        "ko": "[미슈나]\n네. 그럼 ^FF0000지속성 엘레멘탈 체인지^000000 스킬과 ^FF0000컨버터 제조^000000 스킬을 알려드리겠습니다.",
+        "en": "[Mishuna] \nYes. Then I’ll teach you the ^FF0000Earth-Elemental Change^000000 skill and the ^FF0000Converter Manufacturing^000000 skill.",
+        "pt": "[Mishuna] \nSim. Então vou te ensinar a habilidade ^FF0000Mudança Elemental de Terra^000000 e a habilidade ^FF0000Fabricação de Conversores^000000.",
+        "es": "[Mishuna] \nSí. Entonces os enseñaré la habilidad ^FF0000Cambio Elemental de Tierra^000000 y la habilidad ^FF0000Fabricación de Convertidores^000000."
     },
     "M3M2Aw": {
-        "en": "[Mishuna]\nNow, Sage {0}, I'm going to chant the spell that will forever imprint the ^FF0000Wind Elemental Change skill^000000 on you. Please try not to move for the time being.",
-        "pt": "[Mishuna]\nAgora, {0}, membro dos Sábios, vou entoar o feitiço que gravará para sempre a habilidade ^FF0000Mudança Elemental - Vento^000000 em você. Tente não se mover.",
-        "es": "[Mishuna]\nPrepárate, Sabio {0}. Voy a conjurar el hechizo que grabará para siempre en ti la habilidad ^FF0000Cambio elemental de viento^000000. Intenta no moverte, por favor."
+        "ko": "[미슈나]\n네. 그럼 ^FF0000풍속성 엘레멘탈 체인지^000000 스킬과 ^FF0000컨버터 제조^000000 스킬을 알려드리겠습니다.",
+        "en": "[Mishuna] \nYes. Then I’ll teach you the ^FF0000Wind-Elemental Change^000000 skill and the ^FF0000Converter Manufacturing^000000 skill.",
+        "pt": "[Mishuna] \nSim. Então vou te ensinar a habilidade ^FF0000Mudança Elemental de Vento^000000 e a habilidade ^FF0000Fabricação de Conversores^000000.",
+        "es": "[Mishuna] \nSí. Entonces os enseñaré la habilidad ^FF0000Cambio Elemental de Viento^000000 y la habilidad ^FF0000Fabricación de Convertidores^000000."
     },
     "NHM2Aw": {
-        "en": "[Mishuna]\nWind Elemental Change has been imprinted on you, Sage {0}. I hope you'll enjoy using it. Now, farewell!",
-        "pt": "[Mishuna]\nA Mudança Elemental - Vento foi gravada em você, {0}, membro dos Sábios. Espero que goste de usá-la. Até mais!",
-        "es": "[Mishuna]\nEl Cambio elemental de viento quedó grabado en ti, Sabio {0}. Espero que disfrutes su uso. ¡Ahora, adiós!"
+        "ko": "[미슈나]\n네. 그럼 ^FF0000수속성 엘레멘탈 체인지^000000 스킬과 ^FF0000컨버터 제조^000000 스킬을 알려드리겠습니다.",
+        "en": "[Mishuna] \nYes. Then I’ll teach you the ^FF0000Water-Elemental Change^000000 skill and the ^FF0000Converter Manufacturing^000000 skill.",
+        "pt": "[Mishuna] \nSim. Então vou te ensinar a habilidade ^FF0000Mudança Elemental de Água^000000 e a habilidade ^FF0000Fabricação de Conversores^000000.",
+        "es": "[Mishuna] \nSí. Entonces os enseñaré la habilidad ^FF0000Cambio Elemental de Agua^000000 y la habilidad ^FF0000Fabricación de Convertidores^000000."
     },
     "NXM2Aw": {
-        "en": "[Mishuna]\nYou've brought all the materials! Excellent! Now, let me teach you ^FF0000Water Elemental Change^000000 as I promised.",
-        "pt": "[Mishuna]\nVocê trouxe todos os materiais! Muito bom! Agora, ensinarei ^FF0000Mudança Elemental - Água^000000 como prometi.",
-        "es": "[Mishuna]\n¡Trajiste todos los materiales! ¡Excelente! Ahora, déjame enseñarte ^FF0000Cambio elemental de agua^000000 como te prometí."
+        "ko": "[미슈나]\n다만 지금 익히신 속성 스킬이 예전과 다를 수 있으니, ^FF0000엘레멘탈 체인지^000000 스킬의 속성을 다시 결정해주셔야 합니다.",
+        "en": "[Mishuna] \nHowever, since the attribute skill you’re learning now may be different from before, you’ll need to decide the attribute of ^FF0000Elemental Change^000000 again.",
+        "pt": "[Mishuna] \nMas como a habilidade de atributo que você está aprendendo agora pode ser diferente da de antes, você precisa escolher o atributo de ^FF0000Mudança Elemental^000000 novamente.",
+        "es": "[Mishuna] \nSin embargo, como la habilidad de atributo que aprendéis ahora puede ser distinta a la de antes, tendréis que volver a decidir el atributo de ^FF0000Cambio Elemental^000000."
     },
     "NnM2Aw": {
-        "en": "[Mishuna]\nNow, Sage {0}, I'm going to chant the spell that will forever imprint the ^FF0000Water Elemental Change skill^000000 on you. Please try not to move for the time being.",
-        "pt": "[Mishuna]\nAgora, {0}, membro dos Sábios, vou entoar o feitiço que gravará para sempre a habilidade ^FF0000Mudança Elemental - Água^000000 em você. Tente não se mover.",
-        "es": "[Mishuna]\nPrepárate, Sabio {0}. Voy a conjurar el hechizo que grabará para siempre en ti la habilidad ^FF0000Cambio elemental de agua^000000. Intenta no moverte, por favor."
+        "ko": "[미슈나]\n네. 그럼 ^FF0000화속성 엘레멘탈 체인지^000000 스킬을 알려드리겠습니다.",
+        "en": "[Mishuna] \nYes. Then I’ll teach you the ^FF0000Fire-Elemental Change^000000 skill.",
+        "pt": "[Mishuna] \nSim. Então vou te ensinar a habilidade ^FF0000Mudança Elemental de Fogo^000000.",
+        "es": "[Mishuna] \nSí. Entonces os enseñaré la habilidad ^FF0000Cambio Elemental de Fuego^000000."
     },
     "N3M2Aw": {
-        "en": "[Mishuna]\nWater Elemental Change has been imprinted on you, Sage {0}. I hope you'll enjoy using it. Now, farewell!",
-        "pt": "[Mishuna]\nA Mudança do Elemental - Água foi gravada em você, {0}, membro dos Sábios. Espero que goste de usá-la. Até mais!",
-        "es": "[Mishuna]\nEl Cambio elemental de agua quedó grabado en ti, Sabio {0}. Espero que disfrutes su uso. ¡Ahora, adiós!"
+        "ko": "[미슈나]\n네. 그럼 ^FF0000지속성 엘레멘탈 체인지^000000 스킬을 알려드리겠습니다.",
+        "en": "[Mishuna] \nYes. Then I’ll teach you the ^FF0000Earth-Elemental Change^000000 skill.",
+        "pt": "[Mishuna] \nSim. Então vou te ensinar a habilidade ^FF0000Mudança Elemental de Terra^000000.",
+        "es": "[Mishuna] \nSí. Entonces os enseñaré la habilidad ^FF0000Cambio Elemental de Tierra^000000."
     },
     "OHM2Aw": {
-        "en": "[Mishuna]\nHello. Welcome to the Schweicherbil Magic Academy. My name is Mishuna, a sage. You're a sage, too, right?",
-        "pt": "[Mishuna]\nOlá. Boas-vindas à Academia de Magia de Schweicherbil. Meu nome é Mishuna, sou uma sábia. Você também é membro dos sábios?",
-        "es": "[Mishuna]\nHola. Te doy la bienvenida a la Academia de Magia Schweicherbil. Mi nombre es Mishuna y soy un Sabio. Tú también eres de clase Sabio, ¿verdad?"
+        "ko": "[미슈나]\n네. 그럼 ^FF0000풍속성 엘레멘탈 체인지^000000 스킬을 알려드리겠습니다.",
+        "en": "[Mishuna] \nYes. Then I’ll teach you the ^FF0000Wind-Elemental Change^000000 skill.",
+        "pt": "[Mishuna] \nSim. Então vou te ensinar a habilidade ^FF0000Mudança Elemental de Vento^000000.",
+        "es": "[Mishuna] \nSí. Entonces os enseñaré la habilidad ^FF0000Cambio Elemental de Viento^000000."
     },
     "OXM2Aw": {
-        "en": "[Mishuna]\n...",
-        "pt": "[Mishuna]\n...",
-        "es": "[Mishuna]\n…"
+        "ko": "[미슈나]\n네. 그럼 ^FF0000수속성 엘레멘탈 체인지^000000 스킬을 알려드리겠습니다.",
+        "en": "[Mishuna] \nYes. Then I’ll teach you the ^FF0000Water-Elemental Change^000000 skill.",
+        "pt": "[Mishuna] \nSim. Então vou te ensinar a habilidade ^FF0000Mudança Elemental de Água^000000.",
+        "es": "[Mishuna] \nSí. Entonces os enseñaré la habilidad ^FF0000Cambio Elemental de Agua^000000."
     },
     "OnM2Aw": {
-        "en": "[Mishuna]\nAh, I must have mistaken you for someone else. My apologies. I only just started working at this place. I'm sorry for the mistake.",
-        "pt": "[Mishuna]\nAh, devo ter confundido você com outra pessoa. Sinto muito. Comecei a trabalhar neste lugar há pouco tempo. Foi um engano.",
-        "es": "[Mishuna]\nAh, debo haberte confundido con otra persona. Lo siento. Acabo de empezar a trabajar en este lugar. Lamento el error."
+        "ko": "[미슈나]\n예전의 지식들이 다시 기억나도록 주문을 외우겠습니다. 몸을 움직이지 마세요.",
+        "en": "[Mishuna] \nNow I’ll recite the incantation so the old knowledge comes back to your memory. Don’t move.",
+        "pt": "[Mishuna] \nAgora eu vou recitar a invocação para que os conhecimentos de antes voltem à memória. Não mexa o corpo.",
+        "es": "[Mishuna] \nAhora recitaré el conjuro para que vuelvan a tu memoria los conocimientos de antes. No te muevas."
     },
     "O3M2Aw": {
-        "en": "[Mishuna]\nBut if you have sage friends, could you tell them their colleague Mishuna is looking for them at the Schweicherbil Magic Academy?",
-        "pt": "[Mishuna]\nMas, se você tem amigos sábios, poderia dizer a eles que a colega Mishuna está procurando-os na Academia de Magia de Schweicherbil?",
-        "es": "[Mishuna]\nPero si tienes amigos Sabios, ¿podrías decirles que su colega Mishuna los está esperando en la Academia de Magia Schweicherbil?"
+        "ko": "- 주문이 끝남과 함께 예전에 사용했던 ^FF0000컨버터 제조^000000 스킬의 기억이 되돌아왔다. -",
+        "en": "- When the incantation ended, the memory of the ^FF0000Converter Manufacturing^000000 skill you used back then returned. -",
+        "pt": "- Assim que o encantamento terminou, a lembrança da habilidade ^FF0000Fabricação de Conversores^000000 que você usava antes voltou. -",
+        "es": "- Al terminar el conjuro, volvió la memoria de la habilidad ^FF0000Fabricación de Convertidores^000000 que usabas antes. -"
     },
     "PHM2Aw": {
-        "en": "[Mishuna]\nThank you. Now, have a good day!",
-        "pt": "[Mishuna]\nAgradeço. Tenha um bom dia!",
-        "es": "[Mishuna]\nGracias. ¡Que tengas un buen día!"
+        "ko": "[미슈나]\n새로운 지식을 아직도 익히지 못하신 세이지 분이 근처에 계시다면 저에게 꼭 방문해달라고 전해주세요. 예전에 가르쳐드린 지식 유용하게 사용하시기 바라구요.",
+        "en": "[Mishuna] \nIf there’s a Sage nearby who still hasn’t learned the new knowledge, please tell them to come visit me. And I hope you’ll make good use of the knowledge I taught you before.",
+        "pt": "[Mishuna] \nSe houver algum Sage por perto que ainda não tenha aprendido os novos conhecimentos, por favor diga para ele(a) me visitar. E espero que você use bem os conhecimentos que te ensinei antes.",
+        "es": "[Mishuna] \nSi hay algún Sage cerca que todavía no haya aprendido el nuevo conocimiento, dadle un recado para que venga a verme. Y deseo que aprovecheis bien los conocimientos que os enseñé antes."
     },
     "PXM2Aw": {
-        "en": "Scroll Merchant",
-        "pt": "Mercador de Pergaminhos",
-        "es": "Mercader de pergaminos"
+        "ko": "[미슈나]\n안녕하세요. 전 슈바이체르빌 대학 소속인 세이지 미슈나라고 합니다. 당신은 혹시 세이지가 아니신가요?",
+        "en": "[Mishuna] \nHello. I’m Sage Mishuna, affiliated with the University of Schwerzeirvil. Are you… not a Sage?",
+        "pt": "[Mishuna] \nOlá. Eu sou a Sage Mishuna, da Universidade de Schwerzeirvil. Você não será… um Sage?",
+        "es": "[Mishuna] \nHola. Soy la Sage Mishuna, de la Universidad de Schwerzeirvil. ¿No serás… un Sage?"
+    },
+    "PnM2Aw": {
+        "ko": "[미슈나]\n......",
+        "en": "[Mishuna] \n......",
+        "pt": "[Mishuna] \n......",
+        "es": "[Mishuna] \n......"
+    },
+    "P3M2Aw": {
+        "ko": "[미슈나]\n앗, 제가 착각을 했군요. 죄송합니다. 이곳에서 일 한지 얼마 안돼서 그런지 자꾸 긴장이 돼서 실수하게 되네요.",
+        "en": "[Mishuna] \nAh! I must have misunderstood. I’m sorry. I guess it’s because I haven’t worked here for long— I keep getting nervous and making mistakes.",
+        "pt": "[Mishuna] \nAh! Acho que eu me enganei. Desculpe. Deve ser porque não trabalho aqui há muito tempo, fico nervosa o tempo todo e acabo cometendo erros.",
+        "es": "[Mishuna] \nAh, me equivoqué. Lo siento. Supongo que como acabo de empezar a trabajar aquí, me pongo nerviosa y acabo cometiendo errores."
+    },
+    "QHM2Aw": {
+        "ko": "[미슈나]\n만약 근처에 세이지인 분이 계신다면 슈바이체르빌 대학 소속의 세이지 미슈나가 찾고 있다고 전해주시겠어요?",
+        "en": "[Mishuna] \nIf there’s a Sage nearby, could you please tell them that Sage Mishuna from the University of Schwerzeirvil is looking for them?",
+        "pt": "[Mishuna] \nSe tiver algum Sage por perto, poderia avisar que a Sage Mishuna, da Universidade de Schwerzeirvil, está à procura?",
+        "es": "[Mishuna] \nSi hay un Sage por aquí cerca, ¿podríais decirle que la Sage Mishuna de la Universidad de Schwerzeirvil lo está buscando?"
+    },
+    "QXM2Aw": {
+        "ko": "[미슈나]\n정말 실례가 많았습니다. 그럼, 좋은 하루 되세요!",
+        "en": "[Mishuna] \nI’m truly sorry for the inconvenience. Then… have a good day!",
+        "pt": "[Mishuna] \nDesculpe de verdade por todo. Então… tenha um bom dia!",
+        "es": "[Mishuna] \nDe verdad, discúlpenme por la molestia. ¡Entonces… que tengáis un buen día!"
     }
 }

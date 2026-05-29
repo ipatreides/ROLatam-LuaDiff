@@ -20642,15 +20642,15 @@ SKILL_INFO_LIST = {
 		MaxLv = 10,
 		SpAmount = {
 			20,
-			20,
-			20,
-			20,
-			20,
-			25,
-			25,
-			25,
-			25,
-			25
+			22,
+			24,
+			26,
+			28,
+			30,
+			32,
+			34,
+			36,
+			38
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -20979,16 +20979,16 @@ SKILL_INFO_LIST = {
 		SkillName = "Rayo Génesis",
 		MaxLv = 10,
 		SpAmount = {
-			30,
-			40,
+			45,
 			50,
+			55,
 			60,
+			65,
 			70,
+			75,
 			80,
-			90,
-			100,
-			110,
-			120
+			85,
+			90
 		},
 		bSeperateLv = true,
 		AttackRange = {
@@ -38267,6 +38267,486 @@ SKILL_INFO_LIST = {
 			[8] = {x = 9, y = 9},
 			[9] = {x = 11, y = 11},
 			[10] = {x = 11, y = 11}
+		}
+	},
+	[SKID.MH_BLAST_FORGE] = {
+		"MH_BLAST_FORGE",
+		SkillName = "Blast Forge",
+		MaxLv = 10,
+		SpAmount = {
+			52,
+			59,
+			66,
+			73,
+			80,
+			87,
+			94,
+			101,
+			108,
+			115
+		},
+		bSeperateLv = true,
+		AttackRange = {
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1
+		}
+	},
+	[SKID.MH_TEMPERING] = {
+		"MH_TEMPERING",
+		SkillName = "Tempering",
+		MaxLv = 10,
+		SpAmount = {
+			83,
+			91,
+			99,
+			107,
+			115,
+			123,
+			131,
+			139,
+			147,
+			155
+		},
+		bSeperateLv = true,
+		AttackRange = {
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1
+		}
+	},
+	[SKID.MH_CLASSY_FLUTTER] = {
+		"MH_CLASSY_FLUTTER",
+		SkillName = "Classy Flutter",
+		MaxLv = 10,
+		SpAmount = {
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0
+		},
+		bSeperateLv = false,
+		AttackRange = {
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1
+		}
+	},
+	[SKID.MH_TWISTER_CUTTER] = {
+		"MH_TWISTER_CUTTER",
+		SkillName = "Twister Cutter",
+		MaxLv = 10,
+		SpAmount = {
+			106,
+			112,
+			118,
+			124,
+			130,
+			136,
+			142,
+			148,
+			154,
+			160
+		},
+		bSeperateLv = true,
+		AttackRange = {
+			7,
+			7,
+			7,
+			7,
+			7,
+			7,
+			7,
+			7,
+			7,
+			7
+		}
+	},
+	[SKID.MH_ABSOLUTE_ZEPHYR] = {
+		"MH_ABSOLUTE_ZEPHYR",
+		SkillName = "Absolute Zephyr",
+		MaxLv = 10,
+		SpAmount = {
+			122,
+			129,
+			136,
+			143,
+			150,
+			157,
+			164,
+			171,
+			178,
+			185
+		},
+		bSeperateLv = true,
+		AttackRange = {
+			7,
+			7,
+			7,
+			7,
+			7,
+			7,
+			7,
+			7,
+			7,
+			7
+		}
+	},
+	[SKID.MH_BRUSHUP_CLAW] = {
+		"MH_BRUSHUP_CLAW",
+		SkillName = "Brushup Claw",
+		MaxLv = 10,
+		SpAmount = {
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0
+		},
+		bSeperateLv = false,
+		AttackRange = {
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1
+		}
+	},
+	[SKID.MH_BLAZING_AND_FURIOUS] = {
+		"MH_BLAZING_AND_FURIOUS",
+		SkillName = "Blazing And Furious",
+		MaxLv = 10,
+		SpAmount = {
+			103,
+			108,
+			113,
+			118,
+			123,
+			128,
+			133,
+			138,
+			143,
+			148
+		},
+		bSeperateLv = true,
+		AttackRange = {
+			7,
+			7,
+			7,
+			7,
+			7,
+			7,
+			7,
+			7,
+			7,
+			7
+		}
+	},
+	[SKID.MH_THE_ONE_FIGHTER_RISES] = {
+		"MH_THE_ONE_FIGHTER_RISES",
+		SkillName = "The One Fighter Rises",
+		MaxLv = 10,
+		SpAmount = {
+			100,
+			106,
+			112,
+			118,
+			124,
+			130,
+			136,
+			142,
+			148,
+			154
+		},
+		bSeperateLv = true,
+		AttackRange = {
+			7,
+			7,
+			7,
+			7,
+			7,
+			7,
+			7,
+			7,
+			7,
+			7
+		}
+	},
+	[SKID.MH_POLISHING_NEEDLE] = {
+		"MH_POLISHING_NEEDLE",
+		SkillName = "Polishing Needle",
+		MaxLv = 10,
+		SpAmount = {
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0
+		},
+		bSeperateLv = false,
+		AttackRange = {
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1
+		}
+	},
+	[SKID.MH_TOXIN_OF_MANDARA] = {
+		"MH_TOXIN_OF_MANDARA",
+		SkillName = "Toxin Of Mandara",
+		MaxLv = 10,
+		SpAmount = {
+			60,
+			65,
+			70,
+			75,
+			80,
+			85,
+			90,
+			95,
+			100,
+			105
+		},
+		bSeperateLv = true,
+		AttackRange = {
+			2,
+			2,
+			2,
+			2,
+			2,
+			2,
+			2,
+			2,
+			2,
+			2
+		}
+	},
+	[SKID.MH_NEEDLE_STINGER] = {
+		"MH_NEEDLE_STINGER",
+		SkillName = "Needle Stinger",
+		MaxLv = 10,
+		SpAmount = {
+			74,
+			82,
+			90,
+			98,
+			106,
+			114,
+			122,
+			130,
+			138,
+			146
+		},
+		bSeperateLv = true,
+		AttackRange = {
+			7,
+			7,
+			7,
+			7,
+			7,
+			7,
+			7,
+			7,
+			7,
+			7
+		}
+	},
+	[SKID.MH_LICHT_GEHORN] = {
+		"MH_LICHT_GEHORN",
+		SkillName = "Licht Gehorn",
+		MaxLv = 10,
+		SpAmount = {
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0
+		},
+		bSeperateLv = false,
+		AttackRange = {
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1
+		}
+	},
+	[SKID.MH_GLANZEN_SPIES] = {
+		"MH_GLANZEN_SPIES",
+		SkillName = "Glanzen Spies",
+		MaxLv = 10,
+		SpAmount = {
+			60,
+			65,
+			70,
+			75,
+			80,
+			85,
+			90,
+			95,
+			100,
+			105
+		},
+		bSeperateLv = true,
+		AttackRange = {
+			3,
+			3,
+			3,
+			3,
+			3,
+			3,
+			3,
+			3,
+			3,
+			3
+		}
+	},
+	[SKID.MH_HEILIGE_PFERD] = {
+		"MH_HEILIGE_PFERD",
+		SkillName = "Heilige Pferd",
+		MaxLv = 10,
+		SpAmount = {
+			122,
+			129,
+			136,
+			143,
+			150,
+			157,
+			164,
+			171,
+			178,
+			185
+		},
+		bSeperateLv = true,
+		AttackRange = {
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1
+		}
+	},
+	[SKID.MH_GOLDENE_TONE] = {
+		"MH_GOLDENE_TONE",
+		SkillName = "Goldene Tone",
+		MaxLv = 10,
+		SpAmount = {
+			124,
+			133,
+			142,
+			151,
+			160,
+			169,
+			178,
+			187,
+			196,
+			205
+		},
+		bSeperateLv = true,
+		AttackRange = {
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1
+		}
+	},
+	[SKID.MH_BLAZING_LAVA] = {
+		"MH_BLAZING_LAVA",
+		SkillName = "Blazing Lava",
+		MaxLv = 10,
+		SpAmount = {
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0
+		},
+		bSeperateLv = false,
+		AttackRange = {
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1
 		}
 	}
 }

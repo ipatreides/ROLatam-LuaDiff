@@ -1,0 +1,776 @@
+{
+    "YJTqDA": {
+        "ko": "전직업 스킬스탯 초기화 NPC의 활성화 기한이 {0}일 미만 남았습니다.\n일단위 이하는 조회할 수 없습니다.",
+        "en": "The activation deadline for the All Jobs Skill/Stat Reset NPC is less than {0} day(s) remaining.\nFractions of a day cannot be displayed.",
+        "pt": "O prazo de ativação do NPC de reset de habilidades e atributos para todas as classes é de menos de {0} dia(s).\nNão é possível exibir frações de dia.",
+        "es": "El plazo de activación del NPC de restablecimiento de habilidades y atributos para todas las clases es de menos de {0} día(s).\nNo es posible mostrar fracciones de día."
+    },
+    "YZTqDA": {
+        "ko": "현재 전직업 스킬스탯 초기화 NPC는 기한 제한 없이 ON입니다.",
+        "en": "The All Jobs Skill/Stat Reset NPC is currently ON without a time limit.",
+        "pt": "O NPC de reset de habilidades e atributos para todas as classes está atualmente LIGADO sem limite de tempo.",
+        "es": "El NPC de restablecimiento de habilidades y atributos para todas las clases está actualmente ACTIVADO sin límite de tiempo."
+    },
+    "YpTqDA": {
+        "ko": "현재 전직업 스킬스탯 초기화 NPC는 OFF입니다.",
+        "en": "The All Jobs Skill/Stat Reset NPC is currently OFF.",
+        "pt": "O NPC de reset de habilidades e atributos para todas as classes está atualmente DESLIGADO.",
+        "es": "El NPC de restablecimiento de habilidades y atributos para todas las clases está actualmente DESACTIVADO."
+    },
+    "Y5TqDA": {
+        "ko": "취소",
+        "en": "Cancel",
+        "pt": "Cancelar",
+        "es": "Cancelar"
+    },
+    "ZJTqDA": {
+        "ko": "초기화1일ON",
+        "en": "1 Day Reset ON",
+        "pt": "Reset de 1 Dia LIGADO",
+        "es": "Restablecimiento de 1 día ACTIVADO"
+    },
+    "ZZTqDA": {
+        "ko": "초기화2일ON",
+        "en": "2 Day Reset ON",
+        "pt": "Reset de 2 Dias LIGADO",
+        "es": "Restablecimiento de 2 días ACTIVADO"
+    },
+    "ZpTqDA": {
+        "ko": "초기화3일ON",
+        "en": "3 Day Reset ON",
+        "pt": "Reset de 3 Dias LIGADO",
+        "es": "Restablecimiento de 3 días ACTIVADO"
+    },
+    "Z5TqDA": {
+        "ko": "초기화4일ON",
+        "en": "4 Day Reset ON",
+        "pt": "Reset de 4 Dias LIGADO",
+        "es": "Restablecimiento de 4 días ACTIVADO"
+    },
+    "aJTqDA": {
+        "ko": "초기화5일ON",
+        "en": "5 Day Reset ON",
+        "pt": "Reset de 5 Dias LIGADO",
+        "es": "Restablecimiento de 5 días ACTIVADO"
+    },
+    "aZTqDA": {
+        "ko": "초기화6일ON",
+        "en": "6 Day Reset ON",
+        "pt": "Reset de 6 Dias LIGADO",
+        "es": "Restablecimiento de 6 días ACTIVADO"
+    },
+    "apTqDA": {
+        "ko": "초기화7일ON",
+        "en": "7 Day Reset ON",
+        "pt": "Reset de 7 Dias LIGADO",
+        "es": "Restablecimiento de 7 días ACTIVADO"
+    },
+    "a5TqDA": {
+        "ko": "초기화 지속ON",
+        "en": "Continuous Reset ON",
+        "pt": "Reset Contínuo LIGADO",
+        "es": "Restablecimiento continuo ACTIVADO"
+    },
+    "bJTqDA": {
+        "ko": "초기화 OFF",
+        "en": "Reset OFF",
+        "pt": "Reset DESLIGADO",
+        "es": "Restablecimiento DESACTIVADO"
+    },
+    "bZTqDA": {
+        "ko": "전직업 스킬스탯 초기화 NPC를 1일 활성화합니다.",
+        "en": "Activate the All Jobs Skill/Stat Reset NPC for 1 day.",
+        "pt": "Ativar o NPC de reset de habilidades e atributos para todas as classes por 1 dia.",
+        "es": "Activar el NPC de restablecimiento de habilidades y atributos para todas las clases por 1 día."
+    },
+    "bpTqDA": {
+        "ko": "네",
+        "en": "Yes",
+        "pt": "Sim",
+        "es": "Sí"
+    },
+    "b5TqDA": {
+        "ko": "아니오",
+        "en": "No",
+        "pt": "Não",
+        "es": "No"
+    },
+    "cJTqDA": {
+        "ko": "복화술사를 1일간 활성화했습니다.",
+        "en": "Ventriloquist has been activated for 1 day.",
+        "pt": "Ventríloquo foi ativado por 1 dia.",
+        "es": "Ventrílocuo ha sido activado por 1 día."
+    },
+    "cZTqDA": {
+        "ko": "전직업 스킬스탯 초기화 NPC는 현재 활성화되어 있습니다.\n유지기간을 변경하려면 먼저 비활성화해야 합니다.",
+        "en": "The All Jobs Skill/Stat Reset NPC is currently active.\nYou must deactivate it first to change the duration.",
+        "pt": "O NPC de reset de habilidades e atributos para todas as classes está atualmente ativo.\nVocê deve desativá-lo primeiro para alterar a duração.",
+        "es": "El NPC de restablecimiento de habilidades y atributos para todas las clases está actualmente activo.\nDebes desactivarlo primero para cambiar la duración."
+    },
+    "cpTqDA": {
+        "ko": "전직업 스킬스탯 초기화 NPC를 2일 활성화합니다.",
+        "en": "Activate the All Jobs Skill/Stat Reset NPC for 2 days.",
+        "pt": "Ativar o NPC de reset de habilidades e atributos para todas as classes por 2 dias.",
+        "es": "Activar el NPC de restablecimiento de habilidades y atributos para todas las clases por 2 días."
+    },
+    "c5TqDA": {
+        "ko": "복화술사를 2일간 활성화했습니다.",
+        "en": "Ventriloquist has been activated for 2 days.",
+        "pt": "Ventríloquo foi ativado por 2 dias.",
+        "es": "Ventrílocuo ha sido activado por 2 días."
+    },
+    "dJTqDA": {
+        "ko": "전직업 스킬스탯 초기화 NPC를 3일 활성화합니다.",
+        "en": "Activate the All Jobs Skill/Stat Reset NPC for 3 days.",
+        "pt": "Ativar o NPC de reset de habilidades e atributos para todas as classes por 3 dias.",
+        "es": "Activar el NPC de restablecimiento de habilidades y atributos para todas las clases por 3 días."
+    },
+    "dZTqDA": {
+        "ko": "복화술사를 3일간 활성화했습니다.",
+        "en": "Ventriloquist has been activated for 3 days.",
+        "pt": "Ventríloquo foi ativado por 3 dias.",
+        "es": "Ventrílocuo ha sido activado por 3 días."
+    },
+    "dpTqDA": {
+        "ko": "전직업 스킬스탯 초기화 NPC를 4일 활성화합니다.",
+        "en": "Activate the All Jobs Skill/Stat Reset NPC for 4 days.",
+        "pt": "Ativar o NPC de reset de habilidades e atributos para todas as classes por 4 dias.",
+        "es": "Activar el NPC de restablecimiento de habilidades y atributos para todas las clases por 4 días."
+    },
+    "d5TqDA": {
+        "ko": "복화술사를 4일간 활성화했습니다.",
+        "en": "Ventriloquist has been activated for 4 days.",
+        "pt": "Ventríloquo foi ativado por 4 dias.",
+        "es": "Ventrílocuo ha sido activado por 4 días."
+    },
+    "eJTqDA": {
+        "ko": "전직업 스킬스탯 초기화 NPC를 5일 활성화합니다.",
+        "en": "Activate the All Jobs Skill/Stat Reset NPC for 5 days.",
+        "pt": "Ativar o NPC de reset de habilidades e atributos para todas as classes por 5 dias.",
+        "es": "Activar el NPC de restablecimiento de habilidades y atributos para todas las clases por 5 días."
+    },
+    "eZTqDA": {
+        "ko": "복화술사를 5일간 활성화했습니다.",
+        "en": "Ventriloquist has been activated for 5 days.",
+        "pt": "Ventríloquo foi ativado por 5 dias.",
+        "es": "Ventrílocuo ha sido activado por 5 días."
+    },
+    "epTqDA": {
+        "ko": "전직업 스킬스탯 초기화 NPC를 6일 활성화합니다.",
+        "en": "Activate the All Jobs Skill/Stat Reset NPC for 6 days.",
+        "pt": "Ativar o NPC de reset de habilidades e atributos para todas as classes por 6 dias.",
+        "es": "Activar el NPC de restablecimiento de habilidades y atributos para todas las clases por 6 días."
+    },
+    "e5TqDA": {
+        "ko": "복화술사를 6일간 활성화했습니다.",
+        "en": "Ventriloquist has been activated for 6 days.",
+        "pt": "Ventríloquo foi ativado por 6 dias.",
+        "es": "Ventrílocuo ha sido activado por 6 días."
+    },
+    "fJTqDA": {
+        "ko": "전직업 스킬스탯 초기화 NPC를 7일 활성화합니다.",
+        "en": "Activate the All Jobs Skill/Stat Reset NPC for 7 days.",
+        "pt": "Ativar o NPC de reset de habilidades e atributos para todas as classes por 7 dias.",
+        "es": "Activar el NPC de restablecimiento de habilidades y atributos para todas las clases por 7 días."
+    },
+    "fZTqDA": {
+        "ko": "복화술사를 7일간 활성화했습니다.",
+        "en": "Ventriloquist has been activated for 7 days.",
+        "pt": "Ventríloquo foi ativado por 7 dias.",
+        "es": "Ventrílocuo ha sido activado por 7 días."
+    },
+    "fpTqDA": {
+        "ko": "전직업 스킬스탯 초기화 NPC를 지속적으로 활성화합니다.",
+        "en": "Activate the All Jobs Skill/Stat Reset NPC continuously.",
+        "pt": "Ativar o NPC de reset de habilidades e atributos para todas as classes continuamente.",
+        "es": "Activar el NPC de restablecimiento de habilidades y atributos para todas las clases continuamente."
+    },
+    "f5TqDA": {
+        "ko": "복화술사를 활성화했습니다.",
+        "en": "Ventriloquist has been activated.",
+        "pt": "Ventríloquo foi ativado.",
+        "es": "Ventrílocuo ha sido activado."
+    },
+    "gJTqDA": {
+        "ko": "전직업 스킬스탯 초기화 NPC를 비활성화합니다.",
+        "en": "Deactivate the All Jobs Skill/Stat Reset NPC.",
+        "pt": "Desativar o NPC de reset de habilidades e atributos para todas as classes.",
+        "es": "Desactivar el NPC de restablecimiento de habilidades y atributos para todas las clases."
+    },
+    "gZTqDA": {
+        "ko": "복화술사를 비활성화했습니다.",
+        "en": "Ventriloquist has been deactivated.",
+        "pt": "Ventríloquo foi desativado.",
+        "es": "Ventrílocuo ha sido desactivado."
+    },
+    "gpTqDA": {
+        "ko": "저는 수동조작이에요.\n패스워드...그런거 몰라요...야옹.\n야옹.",
+        "en": "I am manually operated.\nI don't know about passwords...meow.\nMeow.",
+        "pt": "Eu sou operado manualmente.\nNão sei nada sobre senhas... miau.\nMiau.",
+        "es": "Soy operado manualmente.\nNo sé nada de contraseñas... miau.\nMiau."
+    },
+    "g5TqDA": {
+        "ko": "나이트ON",
+        "en": "Knight ON",
+        "pt": "Cavaleiro LIGADO",
+        "es": "Caballero ACTIVADO"
+    },
+    "hJTqDA": {
+        "ko": "크루세이더ON",
+        "en": "Crusader ON",
+        "pt": "Templário LIGADO",
+        "es": "Cruzado ACTIVADO"
+    },
+    "hZTqDA": {
+        "ko": "프리스트ON",
+        "en": "Priest ON",
+        "pt": "Sacerdote LIGADO",
+        "es": "Sacerdote ACTIVADO"
+    },
+    "hpTqDA": {
+        "ko": "몽크ON",
+        "en": "Monk ON",
+        "pt": "Monge LIGADO",
+        "es": "Monje ACTIVADO"
+    },
+    "h5TqDA": {
+        "ko": "어쌔신ON",
+        "en": "Assassin ON",
+        "pt": "Mercenário LIGADO",
+        "es": "Asesino ACTIVADO"
+    },
+    "iJTqDA": {
+        "ko": "로그ON",
+        "en": "Rogue ON",
+        "pt": "Arruaceiro LIGADO",
+        "es": "Pícaro ACTIVADO"
+    },
+    "iZTqDA": {
+        "ko": "헌터ON",
+        "en": "Hunter ON",
+        "pt": "Caçador LIGADO",
+        "es": "Cazador ACTIVADO"
+    },
+    "ipTqDA": {
+        "ko": "바드ON",
+        "en": "Bard ON",
+        "pt": "Bardo LIGADO",
+        "es": "Bardo ACTIVADO"
+    },
+    "i5TqDA": {
+        "ko": "댄서ON",
+        "en": "Dancer ON",
+        "pt": "Odalisca LIGADO",
+        "es": "Bailarina ACTIVADO"
+    },
+    "jJTqDA": {
+        "ko": "블랙스미스ON",
+        "en": "Blacksmith ON",
+        "pt": "Ferreiro LIGADO",
+        "es": "Herrero ACTIVADO"
+    },
+    "jZTqDA": {
+        "ko": "알케미스트ON",
+        "en": "Alchemist ON",
+        "pt": "Alquimista LIGADO",
+        "es": "Alquimista ACTIVADO"
+    },
+    "jpTqDA": {
+        "ko": "위자드ON",
+        "en": "Wizard ON",
+        "pt": "Bruxo LIGADO",
+        "es": "Hechicero ACTIVADO"
+    },
+    "j5TqDA": {
+        "ko": "세이지ON",
+        "en": "Sage ON",
+        "pt": "Sábio LIGADO",
+        "es": "Sabio ACTIVADO"
+    },
+    "kJTqDA": {
+        "ko": "태권ON",
+        "en": "Taekwon ON",
+        "pt": "Taekwon LIGADO",
+        "es": "Taekwon ACTIVADO"
+    },
+    "kZTqDA": {
+        "ko": "닌자ON",
+        "en": "Ninja ON",
+        "pt": "Ninja LIGADO",
+        "es": "Ninja ACTIVADO"
+    },
+    "kpTqDA": {
+        "ko": "건슬링거ON",
+        "en": "Gunslinger ON",
+        "pt": "Justiceiro LIGADO",
+        "es": "Pistolero ACTIVADO"
+    },
+    "k5TqDA": {
+        "ko": "소환사ON",
+        "en": "Summoner ON",
+        "pt": "Invocador LIGADO",
+        "es": "Invocador ACTIVADO"
+    },
+    "lJTqDA": {
+        "ko": "슈퍼노비스ON",
+        "en": "Super Novice ON",
+        "pt": "Superaprendiz LIGADO",
+        "es": "Superprincipiante ACTIVADO"
+    },
+    "lZTqDA": {
+        "ko": "전부OFF",
+        "en": "All OFF",
+        "pt": "Todos DESLIGADOS",
+        "es": "Todos DESACTIVADOS"
+    },
+    "lpTqDA": {
+        "ko": "나이트계열 스킬스탯 초기화 NPC를 활성화합니다.",
+        "en": "Activate the Knight class Skill/Stat Reset NPC.",
+        "pt": "Ativar o NPC de reset de habilidades e atributos da classe Cavaleiro.",
+        "es": "Activar el NPC de restablecimiento de habilidades y atributos de la clase Caballero."
+    },
+    "l5TqDA": {
+        "ko": "1일",
+        "en": "1 Day",
+        "pt": "1 Dia",
+        "es": "1 Día"
+    },
+    "mJTqDA": {
+        "ko": "지속",
+        "en": "Continuous",
+        "pt": "Contínuo",
+        "es": "Continuo"
+    },
+    "mZTqDA": {
+        "ko": "복화술사를 지속으로 활성화했습니다.",
+        "en": "Ventriloquist has been activated continuously.",
+        "pt": "Ventríloquo foi ativado continuamente.",
+        "es": "Ventrílocuo ha sido activado continuamente."
+    },
+    "mpTqDA": {
+        "ko": "크루세이더계열 스킬스탯 초기화 NPC를 활성화합니다.",
+        "en": "Activate the Crusader class Skill/Stat Reset NPC.",
+        "pt": "Ativar o NPC de reset de habilidades e atributos da classe Templário.",
+        "es": "Activar el NPC de restablecimiento de habilidades y atributos de la clase Cruzado."
+    },
+    "m5TqDA": {
+        "ko": "프리스트계열 스킬스탯 초기화 NPC를 활성화합니다.",
+        "en": "Activate the Priest class Skill/Stat Reset NPC.",
+        "pt": "Ativar o NPC de reset de habilidades e atributos da classe Sacerdote.",
+        "es": "Activar el NPC de restablecimiento de habilidades y atributos de la clase Sacerdote."
+    },
+    "nJTqDA": {
+        "ko": "몽크계열 스킬스탯 초기화 NPC를 활성화합니다.",
+        "en": "Activate the Monk class Skill/Stat Reset NPC.",
+        "pt": "Ativar o NPC de reset de habilidades e atributos da classe Monge.",
+        "es": "Activar el NPC de restablecimiento de habilidades y atributos de la clase Monje."
+    },
+    "nZTqDA": {
+        "ko": "어쌔신계열 스킬스탯 초기화 NPC를 활성화합니다.",
+        "en": "Activate the Assassin class Skill/Stat Reset NPC.",
+        "pt": "Ativar o NPC de reset de habilidades e atributos da classe Mercenário.",
+        "es": "Activar el NPC de restablecimiento de habilidades y atributos de la clase Asesino."
+    },
+    "npTqDA": {
+        "ko": "로그계열 스킬스탯 초기화 NPC를 활성화합니다.",
+        "en": "Activate the Rogue class Skill/Stat Reset NPC.",
+        "pt": "Ativar o NPC de reset de habilidades e atributos da classe Arruaceiro.",
+        "es": "Activar el NPC de restablecimiento de habilidades y atributos de la clase Pícaro."
+    },
+    "n5TqDA": {
+        "ko": "헌터계열 스킬스탯 초기화 NPC를 활성화합니다.",
+        "en": "Activate the Hunter class Skill/Stat Reset NPC.",
+        "pt": "Ativar o NPC de reset de habilidades e atributos da classe Caçador.",
+        "es": "Activar el NPC de restablecimiento de habilidades y atributos de la clase Cazador."
+    },
+    "oJTqDA": {
+        "ko": "바드계열 스킬스탯 초기화 NPC를 활성화합니다.",
+        "en": "Activate the Bard class Skill/Stat Reset NPC.",
+        "pt": "Ativar o NPC de reset de habilidades e atributos da classe Bardo.",
+        "es": "Activar el NPC de restablecimiento de habilidades y atributos de la clase Bardo."
+    },
+    "oZTqDA": {
+        "ko": "댄서계열 스킬스탯 초기화 NPC를 활성화합니다.",
+        "en": "Activate the Dancer class Skill/Stat Reset NPC.",
+        "pt": "Ativar o NPC de reset de habilidades e atributos da classe Odalisca.",
+        "es": "Activar el NPC de restablecimiento de habilidades y atributos de la clase Bailarina."
+    },
+    "opTqDA": {
+        "ko": "블랙스미스계열 스킬스탯 초기화 NPC를 활성화합니다.",
+        "en": "Activate the Blacksmith class Skill/Stat Reset NPC.",
+        "pt": "Ativar o NPC de reset de habilidades e atributos da classe Ferreiro.",
+        "es": "Activar el NPC de restablecimiento de habilidades y atributos de la clase Herrero."
+    },
+    "o5TqDA": {
+        "ko": "알케미스트계열 스킬스탯 초기화 NPC를 활성화합니다.",
+        "en": "Activate the Alchemist class Skill/Stat Reset NPC.",
+        "pt": "Ativar o NPC de reset de habilidades e atributos da classe Alquimista.",
+        "es": "Activar el NPC de restablecimiento de habilidades y atributos de la clase Alquimista."
+    },
+    "pJTqDA": {
+        "ko": "위자드계열 스킬스탯 초기화 NPC를 활성화합니다.",
+        "en": "Activate the Wizard class Skill/Stat Reset NPC.",
+        "pt": "Ativar o NPC de reset de habilidades e atributos da classe Bruxo.",
+        "es": "Activar el NPC de restablecimiento de habilidades y atributos de la clase Hechicero."
+    },
+    "pZTqDA": {
+        "ko": "세이지계열 스킬스탯 초기화 NPC를 활성화합니다.",
+        "en": "Activate the Sage class Skill/Stat Reset NPC.",
+        "pt": "Ativar o NPC de reset de habilidades e atributos da classe Sábio.",
+        "es": "Activar el NPC de restablecimiento de habilidades y atributos de la clase Sabio."
+    },
+    "ppTqDA": {
+        "ko": "태권계열 스킬스탯 초기화 NPC를 활성화합니다.",
+        "en": "Activate the Taekwon class Skill/Stat Reset NPC.",
+        "pt": "Ativar o NPC de reset de habilidades e atributos da classe Taekwon.",
+        "es": "Activar el NPC de restablecimiento de habilidades y atributos de la clase Taekwon."
+    },
+    "p5TqDA": {
+        "ko": "닌자계열 스킬스탯 초기화 NPC를 활성화합니다.",
+        "en": "Activate the Ninja class Skill/Stat Reset NPC.",
+        "pt": "Ativar o NPC de reset de habilidades e atributos da classe Ninja.",
+        "es": "Activar el NPC de restablecimiento de habilidades y atributos de la clase Ninja."
+    },
+    "qJTqDA": {
+        "ko": "건슬링거계열 스킬스탯 초기화 NPC를 활성화합니다.",
+        "en": "Activate the Gunslinger class Skill/Stat Reset NPC.",
+        "pt": "Ativar o NPC de reset de habilidades e atributos da classe Justiceiro.",
+        "es": "Activar el NPC de restablecimiento de habilidades y atributos de la clase Pistolero."
+    },
+    "qZTqDA": {
+        "ko": "소환사계열 스킬스탯 초기화 NPC를 활성화합니다.",
+        "en": "Activate the Summoner class Skill/Stat Reset NPC.",
+        "pt": "Ativar o NPC de reset de habilidades e atributos da classe Invocador.",
+        "es": "Activar el NPC de restablecimiento de habilidades y atributos de la clase Invocador."
+    },
+    "qpTqDA": {
+        "ko": "슈퍼노비스계열 스킬스탯 초기화 NPC를 활성화합니다.",
+        "en": "Activate the Super Novice class Skill/Stat Reset NPC.",
+        "pt": "Ativar o NPC de reset de habilidades e atributos da classe Superaprendiz.",
+        "es": "Activar el NPC de restablecimiento de habilidades y atributos de la clase Superprincipiante."
+    },
+    "q5TqDA": {
+        "ko": "관리관할 내 NPC를 모두 비활성화합니다.",
+        "en": "Deactivate all NPCs within my jurisdiction.",
+        "pt": "Desativar todos os NPCs dentro da minha jurisdição.",
+        "es": "Desactivar todos los NPCs dentro de mi jurisdicción."
+    },
+    "rJTqDA": {
+        "ko": "비활성화",
+        "en": "Deactivate",
+        "pt": "Desativar",
+        "es": "Desactivar"
+    },
+    "rZTqDA": {
+        "ko": "관할 내 총 38명의 NPC를 비활성화했습니다.",
+        "en": "A total of 38 NPCs within the jurisdiction have been deactivated.",
+        "pt": "Um total de 38 NPCs dentro da jurisdição foram desativados.",
+        "es": "Un total de 38 NPCs dentro de la jurisdicción han sido desactivados."
+    },
+    "rpTqDA": {
+        "ko": "복화술사",
+        "en": "Ventriloquist",
+        "pt": "Ventríloquo",
+        "es": "Ventrílocuo"
+    },
+    "r5TqDA": {
+        "ko": "<올마이티>",
+        "en": "<Almighty>",
+        "pt": "<Todo-Poderoso>",
+        "es": "<Todopoderoso>"
+    },
+    "sJTqDA": {
+        "ko": "[고양이]\n스킬과...스테이터스...\n원하시는 것을...\n리셋할 수 있습니다...야옹.",
+        "en": "[Cat]\nSkills...and...status...\nWhatever you desire...\nI can reset them...meow.",
+        "pt": "[Gato]\nHabilidades... e... atributos...\nO que você desejar...\nEu posso resetar... miau.",
+        "es": "[Gato]\nHabilidades... y... atributos...\nLo que desees...\nPuedo restablecerlo... miau."
+    },
+    "sZTqDA": {
+        "ko": "[고양이]\n어느 것을 초기화할까요...야옹?\n복화술로 암시를 걸어 현실이 되게 할 거예요...야옹.",
+        "en": "[Cat]\nWhich one would you like to reset...meow?\nI'll use ventriloquism to suggest it and make it reality...meow.",
+        "pt": "[Gato]\nQual deles você gostaria de resetar... miau?\nUsarei ventriloquismo para sugerir e torná-lo realidade... miau.",
+        "es": "[Gato]\n¿Cuál te gustaría restablecer... miau?\nUsaré ventriloquía para sugerirlo y hacerlo realidad... miau."
+    },
+    "spTqDA": {
+        "ko": "아직 좀 기다려봐",
+        "en": "Wait a moment.",
+        "pt": "Aguarde um momento.",
+        "es": "Espera un momento."
+    },
+    "s5TqDA": {
+        "ko": "스킬을 초기화한다",
+        "en": "Reset Skills.",
+        "pt": "Resetar Habilidades.",
+        "es": "Restablecer habilidades."
+    },
+    "tJTqDA": {
+        "ko": "스테이터스를 초기화한다",
+        "en": "Reset Status.",
+        "pt": "Resetar Atributos.",
+        "es": "Restablecer atributos."
+    },
+    "tZTqDA": {
+        "ko": "[고양이]\n알았어요...야옹.\n준비가 되면 다시 찾아와요...야옹.",
+        "en": "[Cat]\nAlright...meow.\nCome back when you're ready...meow.",
+        "pt": "[Gato]\nCerto... miau.\nVolte quando estiver pronto... miau.",
+        "es": "[Gato]\nBien... miau.\nVuelve cuando estés listo... miau."
+    },
+    "tpTqDA": {
+        "ko": "[고양이]\n아...손님...야옹.\n소지품의 무게가 500 이하가 아니면 초기화를 해 드릴 수 없어요... 야옹.\n안전을 위해...\n매우 중요한 과정이에요... 야옹.",
+        "en": "[Cat]\nAh...customer...meow.\nI can't perform the reset unless your inventory weight is 500 or less...meow.\nFor safety...\nIt's a very important step...meow.",
+        "pt": "[Gato]\nAh... cliente... miau.\nNão posso realizar o reset a menos que o peso do seu inventário seja 500 ou menos... miau.\nPara sua segurança...\nÉ um passo muito importante... miau.",
+        "es": "[Gato]\nAh... cliente... miau.\nNo puedo hacer el restablecimiento a menos que el peso de tu inventario sea 500 o menos... miau.\nPor tu seguridad...\nEs un paso muy importante... miau."
+    },
+    "t5TqDA": {
+        "ko": "[고양이]\n소지품을 정리한 뒤 다시 오세요...야옹.",
+        "en": "[Cat]\nOrganize your belongings and come back later...meow.",
+        "pt": "[Gato]\nOrganize seus pertences e volte mais tarde... miau.",
+        "es": "[Gato]\nOrganiza tus pertenencias y vuelve más tarde... miau."
+    },
+    "uJTqDA": {
+        "ko": "[고양이]\n카트나 페코페코, 팔콘, 워그, 드래곤, 마도기어, 고삐를 이용 중이신 경우 해제 후 초기화를 이용하실 수 있습니다...야옹.",
+        "en": "[Cat]\nIf you are using a Cart, Peco Peco, Falcon, Worg, Dragon, Madogear, or Reins, please dismount first before using the reset...meow.",
+        "pt": "[Gato]\nSe você estiver usando um Carrinho, Peco Peco, Falcão, Worg, Dragão, M.E.C.H.A. ou Rédeas, por favor, desmonte primeiro antes de usar o reset... miau.",
+        "es": "[Gato]\nSi estás usando una Carreta, Peco Peco, Halcón, Worg, Dragón, Meca o Riendas, por favor, desmonta primero antes de usar el restablecimiento... miau."
+    },
+    "uZTqDA": {
+        "ko": "[{0}]\n나는 스킬이 초기화되었어요... 야옹.",
+        "en": "[{0}]\nMy skills have been reset... meow.",
+        "pt": "[{0}]\nMinhas habilidades foram resetadas... miau.",
+        "es": "[{0}]\nMis habilidades han sido restablecidas... miau."
+    },
+    "upTqDA": {
+        "ko": "복화술사 : 참 잘했어요... 야옹. 스킬창을 열어보아요...야옹.",
+        "en": "Ventriloquist: Well done... meow. Open your skill window... meow.",
+        "pt": "Ventríloquo: Muito bem... miau. Abra sua janela de habilidades... miau.",
+        "es": "Ventrílocuo: Muy bien... miau. Abre tu ventana de habilidades... miau."
+    },
+    "u5TqDA": {
+        "ko": "[{0}]\n나는 스테이터스가\n초기화되었어요... 야옹.",
+        "en": "[{0}]\nMy status has been reset... meow.",
+        "pt": "[{0}]\nMeu Atributos foi resetado... miau.",
+        "es": "[{0}]\nMis atributos han sido restablecidos... miau."
+    },
+    "vJTqDA": {
+        "ko": "복화술사 : 참 잘했어요... 야옹. 스테이터스창을 열어보아요...야옹.",
+        "en": "Ventriloquist: Well done... meow. Open your status window... meow.",
+        "pt": "Ventríloquo: Muito bem... miau. Abra sua janela de Atributos... miau.",
+        "es": "Ventrílocuo: Muy bien... miau. Abre tu ventana de atributos... miau."
+    },
+    "vZTqDA": {
+        "ko": "<나이트>",
+        "en": "<Knight>",
+        "pt": "<Cavaleiro>",
+        "es": "<Caballero>"
+    },
+    "vpTqDA": {
+        "ko": "[고양이]\n야옹......\n그쪽은 제가 보기에는 나이트 계열이 아닌 것 같아요... 야옹.\n제가 맡은 일은 나이트 계열인 모험가하고 관련이 있어요... 야옹.",
+        "en": "[Cat]\nMeow......\nFrom what I can see, you don't seem to be a Knight class...meow.\nMy job only concerns adventurers who are of the Knight class...meow.",
+        "pt": "[Gato]\nMiau......\nPelo que posso ver, você não parece ser da classe Cavaleiro... miau.\nMeu trabalho só diz respeito a aventureiros que são da classe Cavaleiro... miau.",
+        "es": "[Gato]\nMiau......\nPor lo que puedo ver, no pareces ser de la clase Caballero... miau.\nMi trabajo solo concierne a aventureros que son de la clase Caballero... miau."
+    },
+    "v5TqDA": {
+        "ko": "<크루세이더>",
+        "en": "<Crusader>",
+        "pt": "<Templário>",
+        "es": "<Cruzado>"
+    },
+    "wJTqDA": {
+        "ko": "[고양이]\n야옹......\n그쪽은 제가 보기에는 크루세이더 계열이 아닌 것 같아요... 야옹.\n제가 맡은 일은 크루세이더 계열인 모험가하고 관련이 있어요... 야옹.",
+        "en": "[Cat]\nMeow......\nFrom what I can see, you don't seem to be a Crusader class...meow.\nMy job only concerns adventurers who are of the Crusader class...meow.",
+        "pt": "[Gato]\nMiau......\nPelo que posso ver, você não parece ser da classe Templário... miau.\nMeu trabalho só diz respeito a aventureiros que são da classe Templário... miau.",
+        "es": "[Gato]\nMiau......\nPor lo que puedo ver, no pareces ser de la clase Cruzado... miau.\nMi trabajo solo concierne a aventureros que son de la clase Cruzado... miau."
+    },
+    "wZTqDA": {
+        "ko": "<프리스트>",
+        "en": "<Priest>",
+        "pt": "<Sacerdote>",
+        "es": "<Sacerdote>"
+    },
+    "wpTqDA": {
+        "ko": "[고양이]\n야옹......\n그쪽은 제가 보기에는 프리스트 계열이 아닌 것 같아요... 야옹.\n제가 맡은 일은 프리스트 계열인 모험가하고 관련이 있어요... 야옹.",
+        "en": "[Cat]\nMeow......\nFrom what I can see, you don't seem to be a Priest class...meow.\nMy job only concerns adventurers who are of the Priest class...meow.",
+        "pt": "[Gato]\nMiau......\nPelo que posso ver, você não parece ser da classe Sacerdote... miau.\nMeu trabalho só diz respeito a aventureiros que são da classe Sacerdote... miau.",
+        "es": "[Gato]\nMiau......\nPor lo que puedo ver, no pareces ser de la clase Sacerdote... miau.\nMi trabajo solo concierne a aventureros que son de la clase Sacerdote... miau."
+    },
+    "w5TqDA": {
+        "ko": "<몽크>",
+        "en": "<Monk>",
+        "pt": "<Monge>",
+        "es": "<Monje>"
+    },
+    "xJTqDA": {
+        "ko": "[고양이]\n야옹......\n그쪽은 제가 보기에는 몽크 계열이 아닌 것 같아요... 야옹.\n제가 맡은 일은 몽크 계열인 모험가하고 관련이 있어요... 야옹.",
+        "en": "[Cat]\nMeow......\nFrom what I can see, you don't seem to be a Monk class...meow.\nMy job only concerns adventurers who are of the Monk class...meow.",
+        "pt": "[Gato]\nMiau......\nPelo que posso ver, você não parece ser da classe Monge... miau.\nMeu trabalho só diz respeito a aventureiros que são da classe Monge... miau.",
+        "es": "[Gato]\nMiau......\nPor lo que puedo ver, no pareces ser de la clase Monje... miau.\nMi trabajo solo concierne a aventureros que son de la clase Monje... miau."
+    },
+    "xZTqDA": {
+        "ko": "<어쌔신>",
+        "en": "<Assassin>",
+        "pt": "<Mercenário>",
+        "es": "<Asesino>"
+    },
+    "xpTqDA": {
+        "ko": "[고양이]\n야옹......\n그쪽은 제가 보기에는 어쌔신 계열이 아닌 것 같아요... 야옹.\n제가 맡은 일은 어쌔신 계열인 모험가하고 관련이 있어요... 야옹.",
+        "en": "[Cat]\nMeow......\nFrom what I can see, you don't seem to be an Assassin class...meow.\nMy job only concerns adventurers who are of the Assassin class...meow.",
+        "pt": "[Gato]\nMiau......\nPelo que posso ver, você não parece ser da classe Mercenário... miau.\nMeu trabalho só diz respeito a aventureiros que são da classe Mercenário... miau.",
+        "es": "[Gato]\nMiau......\nPor lo que puedo ver, no pareces ser de la clase Asesino... miau.\nMi trabajo solo concierne a aventureros que son de la clase Asesino... miau."
+    },
+    "x5TqDA": {
+        "ko": "<로그>",
+        "en": "<Rogue>",
+        "pt": "<Arruaceiro>",
+        "es": "<Ladrón>"
+    },
+    "yJTqDA": {
+        "ko": "[고양이]\n야옹......\n그쪽은 제가 보기에는 로그 계열이 아닌 것 같아요... 야옹.\n제가 맡은 일은 로그 계열인 모험가하고 관련이 있어요... 야옹.",
+        "en": "[Cat]\nMeow......\nFrom what I can see, you don't seem to be a Rogue class...meow.\nMy job only concerns adventurers who are of the Rogue class...meow.",
+        "pt": "[Gato]\nMiau......\nPelo que posso ver, você não parece ser da classe Arruaceiro... miau.\nMeu trabalho só diz respeito a aventureiros que são da classe Arruaceiro... miau.",
+        "es": "[Gato]\nMiau......\nPor lo que puedo ver, no pareces ser de la clase Pícaro... miau.\nMi trabajo solo concierne a aventureros que son de la clase Pícaro... miau."
+    },
+    "yZTqDA": {
+        "ko": "<헌터>",
+        "en": "<Hunter>",
+        "pt": "<Caçador>",
+        "es": "<Cazador>"
+    },
+    "ypTqDA": {
+        "ko": "[고양이]\n야옹......\n그쪽은 제가 보기에는 헌터 계열이 아닌 것 같아요... 야옹.\n제가 맡은 일은 헌터 계열인 모험가하고 관련이 있어요... 야옹.",
+        "en": "[Cat]\nMeow......\nFrom what I can see, you don't seem to be a Hunter class...meow.\nMy job only concerns adventurers who are of the Hunter class...meow.",
+        "pt": "[Gato]\nMiau......\nPelo que posso ver, você não parece ser da classe Caçador... miau.\nMeu trabalho só diz respeito a aventureiros que são da classe Caçador... miau.",
+        "es": "[Gato]\nMiau......\nPor lo que puedo ver, no pareces ser de la clase Cazador... miau.\nMi trabajo solo concierne a aventureros que son de la clase Cazador... miau."
+    },
+    "y5TqDA": {
+        "ko": "<바드>",
+        "en": "<Bard>",
+        "pt": "<Bardo>",
+        "es": "<Bardo>"
+    },
+    "zJTqDA": {
+        "ko": "[고양이]\n야옹......\n그쪽은 제가 보기에는 바드 계열이 아닌 것 같아요... 야옹.\n제가 맡은 일은 바드 계열인 모험가하고 관련이 있어요... 야옹.",
+        "en": "[Cat]\nMeow......\nFrom what I can see, you don't seem to be a Bard class...meow.\nMy job only concerns adventurers who are of the Bard class...meow.",
+        "pt": "[Gato]\nMiau......\nPelo que posso ver, você não parece ser da classe Bardo... miau.\nMeu trabalho só diz respeito a aventureiros que são da classe Bardo... miau.",
+        "es": "[Gato]\nMiau......\nPor lo que puedo ver, no pareces ser de la clase Bardo... miau.\nMi trabajo solo concierne a aventureros que son de la clase Bardo... miau."
+    },
+    "zZTqDA": {
+        "ko": "<댄서>",
+        "en": "<Dancer>",
+        "pt": "<Odalisca>",
+        "es": "<Bailarina>"
+    },
+    "zpTqDA": {
+        "ko": "[고양이]\n야옹......\n그쪽은 제가 보기에는 댄서 계열이 아닌 것 같아요... 야옹.\n제가 맡은 일은 댄서 계열인 모험가하고 관련이 있어요... 야옹.",
+        "en": "[Cat]\nMeow......\nFrom what I can see, you don't seem to be a Dancer class...meow.\nMy job only concerns adventurers who are of the Dancer class...meow.",
+        "pt": "[Gato]\nMiau......\nPelo que posso ver, você não parece ser da classe Odalisca... miau.\nMeu trabalho só diz respeito a aventureiros que são da classe Odalisca... miau.",
+        "es": "[Gato]\nMiau......\nPor lo que puedo ver, no pareces ser de la clase Bailarina... miau.\nMi trabajo solo concierne a aventureros que son de la clase Bailarina... miau."
+    },
+    "z5TqDA": {
+        "ko": "<블랙스미스>",
+        "en": "<Blacksmith>",
+        "pt": "<Ferreiro>",
+        "es": "<Herrero>"
+    },
+    "0JTqDA": {
+        "ko": "[고양이]\n야옹......\n그쪽은 제가 보기에는 블랙스미스 계열이 아닌 것 같아요... 야옹.\n제가 맡은 일은 블랙스미스 계열인 모험가하고 관련이 있어요... 야옹.",
+        "en": "[Cat]\nMeow......\nFrom what I can see, you don't seem to be a Blacksmith class...meow.\nMy job only concerns adventurers who are of the Blacksmith class...meow.",
+        "pt": "[Gato]\nMiau......\nPelo que posso ver, você não parece ser da classe Ferreiro... miau.\nMeu trabalho só diz respeito a aventureiros que são da classe Ferreiro... miau.",
+        "es": "[Gato]\nMiau......\nPor lo que puedo ver, no pareces ser de la clase Herrero... miau.\nMi trabajo solo concierne a aventureros que son de la clase Herrero... miau."
+    },
+    "0ZTqDA": {
+        "ko": "<알케미스트>",
+        "en": "<Alchemist>",
+        "pt": "<Alquimista>",
+        "es": "<Alquimista>"
+    },
+    "0pTqDA": {
+        "ko": "[고양이]\n야옹......\n그쪽은 제가 보기에는 알케미스트 계열이 아닌 것 같아요... 야옹.\n제가 맡은 일은 알케미스트 계열인 모험가하고 관련이 있어요... 야옹.",
+        "en": "[Cat]\nMeow......\nFrom what I can see, you don't seem to be an Alchemist class...meow.\nMy job only concerns adventurers who are of the Alchemist class...meow.",
+        "pt": "[Gato]\nMiau......\nPelo que posso ver, você não parece ser da classe Alquimista... miau.\nMeu trabalho só diz respeito a aventureiros que são da classe Alquimista... miau.",
+        "es": "[Gato]\nMiau......\nPor lo que puedo ver, no pareces ser de la clase Alquimista... miau.\nMi trabajo solo concierne a aventureros que son de la clase Alquimista... miau."
+    },
+    "05TqDA": {
+        "ko": "<위자드>",
+        "en": "<Wizard>",
+        "pt": "<Bruxo>",
+        "es": "<Hechicero>"
+    },
+    "1JTqDA": {
+        "ko": "[고양이]\n야옹......\n그쪽은 제가 보기에는 위자드 계열이 아닌 것 같아요... 야옹.\n제가 맡은 일은 위자드 계열인 모험가하고 관련이 있어요... 야옹.",
+        "en": "[Cat]\nMeow......\nFrom what I can see, you don't seem to be a Wizard class...meow.\nMy job only concerns adventurers who are of the Wizard class...meow.",
+        "pt": "[Gato]\nMiau......\nPelo que posso ver, você não parece ser da classe Bruxo... miau.\nMeu trabalho só diz respeito a aventureiros que são da classe Mago... miau.",
+        "es": "[Gato]\nMiau......\nPor lo que puedo ver, no pareces ser de la clase Hechicero... miau.\nMi trabajo solo concierne a aventureros que son de la clase Hechicero... miau."
+    },
+    "1ZTqDA": {
+        "ko": "<세이지>",
+        "en": "<Sage>",
+        "pt": "<Sábio>",
+        "es": "<Sabio>"
+    },
+    "1pTqDA": {
+        "ko": "[고양이]\n야옹......\n그쪽은 제가 보기에는 세이지 계열이 아닌 것 같아요... 야옹.\n제가 맡은 일은 세이지 계열인 모험가하고 관련이 있어요... 야옹.",
+        "en": "[Cat]\nMeow......\nFrom what I can see, you don't seem to be a Sage class...meow.\nMy job only concerns adventurers who are of the Sage class...meow.",
+        "pt": "[Gato]\nMiau......\nPelo que posso ver, você não parece ser da classe Sábio... miau.\nMeu trabalho só diz respeito a aventureiros que são da classe Sábio... miau.",
+        "es": "[Gato]\nMiau......\nPor lo que puedo ver, no pareces ser de la clase Sabio... miau.\nMi trabajo solo concierne a aventureros que son de la clase Sabio... miau."
+    },
+    "15TqDA": {
+        "ko": "<태권>",
+        "en": "<Taekwon>",
+        "pt": "<Taekwon>",
+        "es": "<Taekwon>"
+    },
+    "2JTqDA": {
+        "ko": "[고양이]\n야옹......\n그쪽은 제가 보기에는 태권 계열이 아닌 것 같아요... 야옹.\n제가 맡은 일은 태권 계열인 모험가하고 관련이 있어요... 야옹.",
+        "en": "[Cat]\nMeow......\nFrom what I can see, you don't seem to be a Taekwon class...meow.\nMy job only concerns adventurers who are of the Taekwon class...meow.",
+        "pt": "[Gato]\nMiau......\nPelo que posso ver, você não parece ser da classe Taekwon... miau.\nMeu trabalho só diz respeito a aventureiros que são da classe Taekwon... miau.",
+        "es": "[Gato]\nMiau......\nPor lo que puedo ver, no pareces ser de la clase Taekwon... miau.\nMi trabajo solo concierne a aventureros que son de la clase Taekwon... miau."
+    },
+    "2ZTqDA": {
+        "ko": "<닌자>",
+        "en": "<Ninja>",
+        "pt": "<Ninja>",
+        "es": "<Ninja>"
+    },
+    "2pTqDA": {
+        "ko": "[고양이]\n야옹......\n그쪽은 제가 보기에는 닌자 계열이 아닌 것 같아요... 야옹.\n제가 맡은 일은 닌자 계열인 모험가하고 관련이 있어요... 야옹.",
+        "en": "[Cat]\nMeow......\nFrom what I can see, you don't seem to be a Ninja class...meow.\nMy job only concerns adventurers who are of the Ninja class...meow.",
+        "pt": "[Gato]\nMiau......\nPelo que posso ver, você não parece ser da classe Ninja... miau.\nMeu trabalho só diz respeito a aventureiros que são da classe Ninja... miau.",
+        "es": "[Gato]\nMiau......\nPor lo que puedo ver, no pareces ser de la clase Ninja... miau.\nMi trabajo solo concierne a aventureros que son de la clase Ninja... miau."
+    },
+    "25TqDA": {
+        "ko": "<건슬링거>",
+        "en": "<Gunslinger>",
+        "pt": "<Justiceiro>",
+        "es": "<Pistolero>"
+    },
+    "3JTqDA": {
+        "ko": "[고양이]\n야옹......\n그쪽은 제가 보기에는 건슬링거 계열이 아닌 것 같아요... 야옹.\n제가 맡은 일은 건슬링거 계열인 모험가하고 관련이 있어요... 야옹.",
+        "en": "[Cat]\nMeow......\nFrom what I can see, you don't seem to be a Gunslinger class...meow.\nMy job only concerns adventurers who are of the Gunslinger class...meow.",
+        "pt": "[Gato]\nMiau......\nPelo que posso ver, você não parece ser da classe Justiceiro... miau.\nMeu trabalho só diz respeito a aventureiros que são da classe Justiceiro... miau.",
+        "es": "[Gato]\nMiau......\nPor lo que puedo ver, no pareces ser de la clase Pistolero... miau.\nMi trabajo solo concierne a aventureros que son de la clase Pistolero... miau."
+    },
+    "3ZTqDA": {
+        "ko": "<소환사>",
+        "en": "<Summoner>",
+        "pt": "<Invocador>",
+        "es": "<Invocador>"
+    },
+    "3pTqDA": {
+        "ko": "[고양이]\n야옹......\n그쪽은 제가 보기에는 소환사 계열이 아닌 것 같아요... 야옹.\n제가 맡은 일은 소환사 계열인 모험가하고 관련이 있어요... 야옹.",
+        "en": "[Cat]\nMeow......\nFrom what I can see, you don't seem to be a Summoner class...meow.\nMy job only concerns adventurers who are of the Summoner class...meow.",
+        "pt": "[Gato]\nMiau......\nPelo que posso ver, você não parece ser da classe Invocador... miau.\nMeu trabalho só diz respeito a aventureiros que são da classe Invocador... miau.",
+        "es": "[Gato]\nMiau......\nPor lo que puedo ver, no pareces ser de la clase Invocador... miau.\nMi trabajo solo concierne a aventureros que son de la clase Invocador... miau."
+    },
+    "35TqDA": {
+        "ko": "<슈퍼노비스>",
+        "en": "<Super Novice>",
+        "pt": "<Superaprendiz>",
+        "es": "<Superprincipiante>"
+    },
+    "4JTqDA": {
+        "ko": "[고양이]\n야옹......\n그쪽은 제가 보기에는 슈퍼노비스 계열이 아닌 것 같아요... 야옹.\n제가 맡은 일은 슈퍼노비스 계열인 모험가하고 관련이 있어요... 야옹.",
+        "en": "[Cat]\nMeow......\nFrom what I can see, you don't seem to be a Super Novice class...meow.\nMy job only concerns adventurers who are of the Super Novice class...meow.",
+        "pt": "[Gato]\nMiau......\nPelo que posso ver, você não parece ser da classe Superaprendiz... miau.\nMeu trabalho só diz respeito a aventureiros que são da classe Superaprendiz... miau.",
+        "es": "[Gato]\nMiau......\nPor lo que puedo ver, no pareces ser de la clase Superprincipiante... miau.\nMi trabajo solo concierne a aventureros que son de la clase Superprincipiante... miau."
+    }
+}

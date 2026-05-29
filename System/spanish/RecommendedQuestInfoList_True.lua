@@ -43,5 +43,24 @@ RecommendedQuestInfoList = {
 		QuestInfo3 = {
 			"^ff0000× Anuncio de actualización.^000000"
 		}
+	},
+	[84] = {
+		Title = "¡Apertura de la 4ª Clase!!!",
+		IconName = "ico_jq.bmp",
+		Summary = "¡Comienza una nueva era!",
+		BgName = "reco_84.bmp",
+		QuestInfo1 = {
+			"¡¡¡Los secretos de la 4ª Clase finalmente han sido revelados!!!",
+			"Con la llegada de nuevas clases, el continente de Midgard comienza a agitarse, y aventureros con distintos objetivos y destinos inician su desafío.\n¡Pruebas y esfuerzo para volverse más fuerte!\nY tu historia comienza ahora.",
+			"\t\t\t<TIPBOX>>Guía de la 4ª Clase<INFO>9136</INFO></TIPBOX>"
+		},
+		QuestInfo2 = {
+			"Objetivo:   ^55bbeeClases 3ª Trascendentes^000000",
+			"BaseLv: ^ffaa66200^000000",
+			"JobLv:  ^ffaa6670^000000"
+		},
+		QuestInfo3 = {
+			"^ff0000× Esta página es una introducción de actualización, no una misión. No se eliminará tras completarla.^000000"
+		}
 	}
 }

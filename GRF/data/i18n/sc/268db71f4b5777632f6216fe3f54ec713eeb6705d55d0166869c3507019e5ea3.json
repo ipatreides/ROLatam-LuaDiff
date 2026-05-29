@@ -10182,7 +10182,7 @@
     "lI4B": {
         "en": "Human Chimera",
         "pt": "Quimera Humana",
-        "es": "Quimera humana"
+        "es": "Quimera Humana"
     },
     "lY4B": {
         "en": "Heart Hunter Ebel",
@@ -10202,7 +10202,7 @@
     "mI4B": {
         "en": "Material Chimera",
         "pt": "Quimera Disforme",
-        "es": "Quimera material"
+        "es": "Quimera Material"
     },
     "mY4B": {
         "en": "Pet child",
@@ -10232,7 +10232,7 @@
     "no4B": {
         "en": "Venomous Chimera",
         "pt": "Quimera Venenosa",
-        "es": "Quimera venenosa"
+        "es": "Quimera Venenosa"
     },
     "n44B": {
         "en": "YSF01 SEYREN",
@@ -12207,7 +12207,7 @@
     "KZAB": {
         "en": "Illusion Venom Enhancement Kimera",
         "pt": "Fantasma da Quimera",
-        "es": "Quimera de encantamiento venenoso ilusoria"
+        "es": "Fantasma de Quimera"
     },
     "KpAB": {
         "en": "Diligend Andre Larva",
@@ -12282,7 +12282,7 @@
     "OJAB": {
         "en": "Unknown Merchant",
         "pt": "Mercadora Anônima",
-        "es": "Comerciante Desconocido"
+        "es": "Comerciante Desconocida"
     },
     "OZAB": {
         "en": "Unknown Swordman",
@@ -12382,7 +12382,7 @@
     "TJAB": {
         "en": "Jewaliant",
         "pt": "Geodoliant",
-        "es": "Jewaliant"
+        "es": "Geodoliant"
     },
     "TZAB": {
         "en": "Green Mineral",
@@ -12432,11 +12432,11 @@
     "VpAB": {
         "en": "Jeweliant",
         "pt": "Geodoliant",
-        "es": "Jeweliant"
+        "es": "Joyaliant"
     },
     "V5AB": {
         "en": "Jungoliant",
-        "pt": "Joialiant",
+        "pt": "Jungoliant",
         "es": "Jungoliant"
     },
     "WJAB": {
@@ -13324,7 +13324,7 @@
     "CZEB": {
         "en": "Jewaliant",
         "pt": "Geodoliant",
-        "es": "Jungoliant"
+        "es": "Geodoliant"
     },
     "CpEB": {
         "en": "Galaring",
@@ -13818,8 +13818,8 @@
     },
     "bJEB": {
         "en": "Ganceann",
-        "pt": "Ganceann",
-        "es": "Ganceann"
+        "pt": "Gan Ceann",
+        "es": "Gan Ceann"
     },
     "bZEB": {
         "en": "Disguiser",
@@ -13834,12 +13834,12 @@
     "b5EB": {
         "en": "Ghost Cube",
         "pt": "Quve Fantasma",
-        "es": "Cubo Fantasma"
+        "es": "Quve Fantasma"
     },
     "cJEB": {
         "en": "Ludegal",
-        "pt": "Ludegal",
-        "es": "Ludegal"
+        "pt": "Lude Gal",
+        "es": "Lude Gal"
     },
     "cZEB": {
         "en": "Blue Moon Loli Ruri",
@@ -13940,5 +13940,10 @@
         "en": "Cutie",
         "pt": "Fofinho",
         "es": "Bonitito"
+    },
+    "hZEB": {
+        "en": "Abysmal Knight",
+        "pt": "Cavaleiro do Abismo",
+        "es": "Caballero Abismal"
     }
 }

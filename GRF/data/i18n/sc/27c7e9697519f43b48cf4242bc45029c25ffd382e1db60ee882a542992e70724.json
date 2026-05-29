@@ -364,5 +364,11 @@
         "en": "[Valkyrja's Whisper]\nI can see your future as a ^4D4DFFTroubadour^000000...\nIf you feel you've hit a wall in your growth,\ncome back here and call me, Valkyrja....",
         "pt": "[Sussurro de Bakkiri]\nTu podes ver o futuro de ^4D4DFFTrubadour^000000...\nSe sentires que atingiste o limite do teu crescimento,\nvolta a este lugar e invoca-me, Bakkiri...",
         "es": "[Susurro de Bakhiri]\nTú ves el futuro de ^4D4DFFTrubadúr^000000...\nSi sientes que has llegado al límite de tu crecimiento,\nvuelve a este lugar y llámame a mí, Bakhiri..."
+    },
+    "faxcDA": {
+        "ko": "[밝히리의 속삭임]\n네게는 ^4D4DFF카디날^000000의 미래가 보인다아...\n만약 성장의 한계를 느낀다면\n이 곳을 다시 찾아와 나 밝히리를 불러내리라아....",
+        "en": "[Valkyrja's Whisper]\nI can see your future as a ^4D4DFFCardinal^000000...\nIf you feel you've hit a wall in your growth,\ncome back here and call me, Valkyrja....",
+        "pt": "[Sussurro de Bakkiri]\nTu podes ver o futuro de ^4D4DFFCardinal^000000...\nSe sentires que atingiste o limite do teu crescimento,\nvolta a este lugar e invoca-me, Bakkiri...",
+        "es": "[Susurro de Bakhiri]\nTú ves el futuro de ^4D4DFFCardenal^000000...\nSi sientes que has llegado al límite de tu crecimiento,\nvuelve a este lugar y llámame a mí, Bakhiri..."
     }
 }

@@ -7778,7 +7778,12 @@ QuestInfoList = {
 		Summary = "Informa a Junok."
 	},
 	[3506] = {
-		Description = {""}
+		Title = "Chocomania",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Para conseguir 1 ^4d4dffGrano de Cacao Maduro^000000, encuentra y elimina a los ^4d4dffQuindings^000000 dispersos en los mapas."
+		},
+		Summary = "1 Grano de Cacao Maduro"
 	},
 	[3507] = {
 		Title = "Seshin de gemelos",
@@ -23877,67 +23882,66 @@ QuestInfoList = {
 		Summary = "Habla con Maura."
 	},
 	[8639] = {
-		Title = "Salón de banquetes en las profundidades del inframundo",
+		Title = "Salón de Banquetes en las profundidades del inframundo",
 		Description = {
-			"El Erudito jubilado, Garim, quiere saber si es cierto que los muertos están celebrando un banquete en las profundidades de Niflheim. Nunca había oído hablar de esto. Debería ir a <NAVI>[Niflheim]<INFO>niflheim,164,102,0,101,0</INFO></NAVI> y buscar a alguien que sepa."
+			"El Erudito jubilado, Garam, quiere saber si es cierto que los muertos están celebrando un banquete en las profundidades de Niflheim. Nunca había oído hablar de esto. Debería ir a <NAVI>[Niflheim]<INFO>niflheim,164,102,0,101,0</INFO></NAVI> y buscar a alguien que sepa."
 		},
-		Summary = "Escucha noticias en Niflheim."
+		Summary = "Escucha noticias en Niflheim"
 	},
 	[8640] = {
-		Title = "Todo el mundo está borracho, vivo o muerto",
-		IconName = "ico_dq.bmp",
+		Title = "Todos están borrachos, vivos o muertos",
 		Description = {
-			"Debo informar a <NAVI>[Garim]<INFO>moc_para01,14,19,0,101,0</INFO></NAVI> lo que oí y vi en Niflheim. Aparte de esto, puedo preguntarle a Milla todos los días qué solicitudes tiene."
+			"Debo informar a <NAVI>[Garam]<INFO>moc_para01,14,19,0,101,0</INFO></NAVI> sobre lo que he visto y oído en Niflheim. Además, puedo informar a Mila diariamente sobre sus solicitudes."
 		},
-		Summary = "Informa a Garim."
+		Summary = "Informa a Garam"
 	},
 	[8641] = {
-		Title = "Atuendos engañosamente adorables",
+		Title = "Aspecto engañosamente adorable",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Milla]<INFO>niflheim,164,102,0,101,0</INFO></NAVI> quiere que les dé una paliza a 15 Quve fantasma y a 15 Lude Gal, y que los envíe a casa para que ella pueda dormir."
+			"<NAVI>[Mila]<INFO>niflheim,164,102,0,101,0</INFO></NAVI> quiere que les dé una paliza a 15 Quves Fantasmas y a 15 Ludes Gals, y que los envíe a casa para que ella pueda dormir."
 		},
-		Summary = "Caza a los monstruos indicados."
+		Summary = "Caza a los monstruos indicados"
 	},
 	[8642] = {
-		Title = "Atuendos engañosamente adorables (en espera)",
+		Title = "[Espera] Aspecto engañosamente adorable",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Una misión diaria. Se puede repetir cuando se acabe el tiempo de espera. Dile a <NAVI>[Milla]<INFO>niflheim,164,102,0,101,0</INFO></NAVI> que aceptas."
+			"Una misión diaria. Se puede repetir cuando se acabe el tiempo de espera. Dile a <NAVI>[Mila]<INFO>niflheim,164,102,0,101,0</INFO></NAVI> que aceptas."
 		},
-		Summary = "Se reinicia a las 4:00.",
+		Summary = "Se reinicia a las 4:00",
 		CoolTimeQuest = 1
 	},
 	[8643] = {
 		Title = "Para nada adorable",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Milla]<INFO>niflheim,164,102,0,101,0</INFO></NAVI> quiere que les dé una paliza a 15 Quve fantasma y a 15 Lude Gal, y que los envíe a casa para que ella pueda dormir."
+			"<NAVI>[Mila]<INFO>niflheim,164,102,0,101,0</INFO></NAVI> quiere que les dé una paliza a 15 Quves Fantasmas y a 15 Ludes Gals, y que los envíe a casa para que ella pueda dormir."
 		},
-		Summary = "Caza a los monstruos indicados."
+		Summary = "Caza a los monstruos indicados"
 	},
 	[8644] = {
 		Title = "No es un instrumento musical",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Milla]<INFO>niflheim,164,102,0,101,0</INFO></NAVI> quiere que les dé una paliza a 10 Asesinos brutales y a 10 Gan Ceann, y que los envíe a casa para que ella pueda dormir."
+			"<NAVI>[Mila]<INFO>niflheim,164,102,0,101,0</INFO></NAVI> quiere que les dé una paliza a 10 Asesinos Brutales y a 10 Gan Ceann, y que los envíe a casa para que ella pueda dormir."
 		},
-		Summary = "Caza a los monstruos indicados."
+		Summary = "Caza a los monstruos indicados"
 	},
 	[8645] = {
-		Title = "No es un instrumento musical (en espera)",
+		Title = "[Espera] No es un instrumento musical",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Una misión diaria. Se puede repetir cuando se acabe el tiempo de espera. Dile a <NAVI>[Milla]<INFO>niflheim,164,102,0,101,0</INFO></NAVI> que aceptas."
+			"Una misión diaria. Se puede repetir cuando se acabe el tiempo de espera. Dile a <NAVI>[Mila]<INFO>niflheim,164,102,0,101,0</INFO></NAVI> que aceptas."
 		},
-		Summary = "Se reinicia a las 4:00.",
+		Summary = "Se reinicia a las 4:00",
 		CoolTimeQuest = 1
 	},
 	[8646] = {
 		Title = "¡Dije que un instrumento musical no!",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Milla]<INFO>niflheim,164,102,0,101,0</INFO></NAVI> quiere que les dé una paliza a 10 Asesinos brutales y a 10 Gan Ceann, y que los envíe a casa para que ella pueda dormir."
+			"<NAVI>[Milla]<INFO>niflheim,164,102,0,101,0</INFO></NAVI> quiere que les dé una paliza a 10 Asesinos Brutales y a 10 Gan Ceann, y que los envíe a casa para que ella pueda dormir."
 		},
 		Summary = "Caza a los monstruos seleccionados."
 	},
@@ -23970,7 +23974,7 @@ QuestInfoList = {
 		Title = "Los que tienen el cabello despeinado",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Milla]<INFO>niflheim,164,102,0,101,0</INFO></NAVI> quiere que les dé una paliza a 15 Disfrazadores y a 15 Loli Ruri luna azul, y que los envíe a casa para que ella pueda dormir."
+			"<NAVI>[Milla]<INFO>niflheim,164,102,0,101,0</INFO></NAVI> quiere que les dé una paliza a 15 Disfrazadores y a 15 Loli Ruri Azul, y que los envíe a casa para que ella pueda dormir."
 		},
 		Summary = "Caza a los monstruos indicados."
 	},
@@ -23987,7 +23991,7 @@ QuestInfoList = {
 		Title = "Los que tienen abundante cabello",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Milla]<INFO>niflheim,164,102,0,101,0</INFO></NAVI> quiere que les dé una paliza a 15 Disfrazadores y a 15 Loli Ruri luna azul, y que los envíe a casa para que ella pueda dormir."
+			"<NAVI>[Milla]<INFO>niflheim,164,102,0,101,0</INFO></NAVI> quiere que les dé una paliza a 15 Disfrazadores y a 15 Loli Ruri Azul, y que los envíe a casa para que ella pueda dormir."
 		},
 		Summary = "Caza a los monstruos indicados."
 	},
@@ -24904,6 +24908,56 @@ QuestInfoList = {
 		},
 		Summary = "Se reinicia a las 4:00.",
 		CoolTimeQuest = 1
+	},
+	[8895] = {
+		Title = "Ruidos entre pisos sin clase (Corto)",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Mila, de Niflheim, no soporta el ruido. Si tienes tiempo, le pide que elimines aproximadamente a 300 muertos ruidosos del <NAVI>[Teatro de Ópera Derrumbado]<INFO>nif_dun02,149,26,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Derrota a 300 enemigos en Niflheim, Piso 2"
+	},
+	[8896] = {
+		Title = "Ruidos entre pisos sin clase (Corto) - Espera",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Esta misión es diaria. Cuando el tiempo de espera expire, podrás aceptarla de nuevo con <NAVI>[Mila]<INFO>niflheim,164,102,0,101,0</INFO></NAVI> para volver a realizarla."
+		},
+		Summary = "Reinicio a las 04:00",
+		CoolTimeQuest = 1
+	},
+	[8897] = {
+		Title = "Ruidos entre pisos sin clase (Corto)",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Mila, de Niflheim, no soporta el ruido. Si tienes tiempo, le pide que elimines aproximadamente a 300 muertos ruidosos del <NAVI>[Teatro de Ópera Derrumbado]<INFO>nif_dun02,149,26,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Derrota a 300 enemigos en Niflheim, Piso 2"
+	},
+	[8898] = {
+		Title = "Ruidos entre pisos sin clase (Largo)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"Mila, de Niflheim, no soporta el ruido. Si tienes tiempo, le pide que elimines aproximadamente a 1500 muertos ruidosos del <NAVI>[Teatro de Ópera Derrumbado]<INFO>nif_dun02,149,26,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Derrota a 1500 enemigos en Niflheim, Piso 2"
+	},
+	[8899] = {
+		Title = "Ruidos entre pisos sin clase (Largo) - Espera",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"Esta misión es semanal. El tiempo de espera vence los viernes a las 04:00. Después de eso, podrás aceptarla de nuevo con <NAVI>[Mila]<INFO>niflheim,164,102,0,101,0</INFO></NAVI> para volver a realizarla."
+		},
+		Summary = "Reinicio el viernes a las 04:00",
+		CoolTimeQuest = 1
+	},
+	[8900] = {
+		Title = "Ruidos entre pisos sin clase (Largo)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"Mila, de Niflheim, no soporta el ruido. Si tienes tiempo, le pide que elimines aproximadamente a 1500 muertos ruidosos del <NAVI>[Teatro de Ópera Derrumbado]<INFO>nif_dun02,149,26,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Derrota a 1500 enemigos en Niflheim, Piso 2"
 	},
 	[8938] = {
 		Title = "Kung Fu Panda",
@@ -33804,6 +33858,7 @@ QuestInfoList = {
 	},
 	[12049] = {
 		Title = "Misión 1 de la clase: Pícaro",
+		IconName = "ico_jq.bmp",
 		Description = {
 			"Entrega la Carta al último hijo de Haijara Greg, Louis Greg."
 		},
@@ -33811,6 +33866,7 @@ QuestInfoList = {
 	},
 	[12050] = {
 		Title = "Misión 2 de la clase: Pícaro",
+		IconName = "ico_jq.bmp",
 		Description = {
 			"Entrega la Carta al segundo hijo de Haijara Greg, Thor Greg. "
 		},
@@ -33818,6 +33874,7 @@ QuestInfoList = {
 	},
 	[12051] = {
 		Title = "Misión 3 de la clase: Pícaro",
+		IconName = "ico_jq.bmp",
 		Description = {
 			"Entrega la Carta al primer hijo de Haijara Greg, Jay Greg. "
 		},
@@ -33825,6 +33882,7 @@ QuestInfoList = {
 	},
 	[12052] = {
 		Title = "Misión 4 de la clase: Pícaro",
+		IconName = "ico_jq.bmp",
 		Description = {
 			"Entrega la Carta al primer hijo de Haijara Greg, Jay Greg."
 		},
@@ -33832,6 +33890,7 @@ QuestInfoList = {
 	},
 	[12053] = {
 		Title = "Misión 5 de clase: Pícaro",
+		IconName = "ico_jq.bmp",
 		Description = {
 			"Thor Greg iniciará la habilidad secreta Pícaro para ti. Debes pasar la prueba de Thor Greg."
 		},
@@ -33839,6 +33898,7 @@ QuestInfoList = {
 	},
 	[12054] = {
 		Title = "Misión 6 de la clase: Pícaro",
+		IconName = "ico_jq.bmp",
 		Description = {
 			"Regresa con Haijara Greg para recibir más información."
 		},
@@ -33846,6 +33906,7 @@ QuestInfoList = {
 	},
 	[12055] = {
 		Title = "Misión de la clase: Asesino",
+		IconName = "ico_jq.bmp",
 		Description = {
 			"Habla con Killtin para aprender la habilidad Cuchillo venenoso."
 		},
@@ -33853,6 +33914,7 @@ QuestInfoList = {
 	},
 	[12056] = {
 		Title = "Misión de la clase: Asesino",
+		IconName = "ico_jq.bmp",
 		Description = {
 			"Escucha con atención lo que Esmille dice sobre el aprendizaje de Aceleración sónica y trae gemas de los lugares que menciona."
 		},
@@ -36753,7 +36815,7 @@ QuestInfoList = {
 		Title = "Solicitar la prueba de Caballero dragón",
 		IconName = "ico_jq.bmp",
 		Description = {
-			"^FF0000“¿En verdad te postularás para la clase Caballero dragón?”^FF0000",
+			"^FF0000“¿En verdad te postularás para la clase Caballero dragón?” ^FF0000",
 			"El dinosaurio espacio-temporal que tienes delante no parece creérselo, pero ¿quién mejor que tú para pertenecer a la clase ^ff0000Caballero dragón^000000? Solicita la prueba y demuestra tu valía."
 		},
 		Summary = "Conviértete en acompañante de dragón."
@@ -49082,104 +49144,6 @@ Talk to Kar=],
 		Description = {
 			"Derrota a 100 monstruos con propiedad Agua de nivel 200 o superior.",
 			"y regresa con el <NAVI>[investigador Rudolf]<INFO>aldebaran,171,153,0,101,0</INFO></NAVI> para recibir tu premio."
-		},
-		Summary = ""
-	},
-	[19116] = {
-		Title = "El ojo de Hellion",
-		Description = {
-			"Encontraste una cuba, que tenía un mensaje: “¿Qué vas a querer? ¿Vino o Zumo de uva? Ah, pero yo realmente prefiero el Vino”. Cuéntale a Grout’he sobre el mensaje."
-		},
-		Summary = ""
-	},
-	[19117] = {
-		Title = "El ojo de Hellion",
-		Description = {
-			"Encontraste un mensaje de Tyus. Regresa con Grout’he y dile lo que había debajo del piso de madera."
-		},
-		Summary = ""
-	},
-	[19118] = {
-		Title = "El ojo de Hellion",
-		Description = {
-			"Le dijiste a Grout’he lo que estaba escrito debajo del piso de madera. Te dice que revises la enorme estatua de piedra al norte de la Aldea de los Arqueros."
-		},
-		Summary = ""
-	},
-	[19119] = {
-		Title = "El ojo de Hellion",
-		Description = {
-			"Obtuviste una Tableta de Payon de la estatua del Buda. Deberías llevarlo de regreso a Chilias’Tyus en Morroc."
-		},
-		Summary = ""
-	},
-	[19120] = {
-		Title = "El ojo de Hellion",
-		Description = {
-			"Recibiste una Tableta de Morroc. Chilias’Tyus dice que debes viajar a Geffen y encontrar a un hombre llamado Welshyun."
-		},
-		Summary = ""
-	},
-	[19121] = {
-		Title = "El ojo de Hellion",
-		Description = {
-			"Welshyun te pidió que encuentres a su estudiante Enoz en la Torre de Geffen. Asegúrate de que tenga el informe titulado “La vida de los monstruos en la zona de Geffen”."
-		},
-		Summary = ""
-	},
-	[19122] = {
-		Title = "El ojo de Hellion",
-		Description = {
-			"Puede que tu insulto no fue la mejor idea. Trata de hacer las paces con Welshyun."
-		},
-		Summary = ""
-	},
-	[19123] = {
-		Title = "El ojo de Hellion",
-		Description = {
-			"Welshyun dice que tiene sed. Tráele una poción para ver si logras saciarle la sed."
-		},
-		Summary = ""
-	},
-	[19124] = {
-		Title = "El ojo de Hellion",
-		Description = {
-			"Parece que Enoz perdió el libro “La vida de los monstruos”. Regresa con Welshyun y cuéntaselo."
-		},
-		Summary = ""
-	},
-	[19125] = {
-		Title = "El ojo de Hellion",
-		Description = {
-			"Welshyun dice que debes entregar el libro a Enoz en la Torre de Geffen y traer 1 Gema azul cuando vuelvas."
-		},
-		Summary = ""
-	},
-	[19126] = {
-		Title = "El ojo de Hellion",
-		Description = {
-			"Regresa con Welshyun y no te olvides de traer 1 Gema azul. Si te pregunta algo extraño, dile “Valaskjalf”."
-		},
-		Summary = ""
-	},
-	[19127] = {
-		Title = "El ojo de Hellion",
-		Description = {
-			"Recibiste una Tableta de Geffen. Lleva todas las Tabletas a sir Chilias’Tyus en Morroc."
-		},
-		Summary = ""
-	},
-	[19128] = {
-		Title = "El ojo de Hellion",
-		Description = {
-			"Chilias’Tyus dice que Welshyun es el único que puede combinar las piezas de tableta para restaurarla a su forma completa."
-		},
-		Summary = ""
-	},
-	[19129] = {
-		Title = "El ojo de Hellion",
-		Description = {
-			"Tienes la Tableta restaurada. Llévasela a Chilias’Tyus para que sepa que la tarea está completa."
 		},
 		Summary = ""
 	},
@@ -73009,5 +72973,508 @@ Talk to Kar=],
 		NpcNavi = "geffen",
 		NpcPosX = 40,
 		NpcPosY = 141
+	},
+	[19116] = {
+		Title = "Investigación de Pisruik (1)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"Si me traes los materiales que necesito, a cambio te diré qué estoy fabricando. Los materiales necesarios ahora son...",
+			"?<ITEM>[Gema amarilla]<INFO>715</INFO></ITEM> x5,",
+			"?<ITEM>[Botella para pociones vacía]<INFO>1093</INFO></ITEM> x4,",
+			"?<ITEM>[Corazón de Obeaune]<INFO>950</INFO></ITEM> x10,",
+			"?<ITEM>[Polvo de polilla]<INFO>1057</INFO></ITEM> x10",
+			"   ",
+			"Cuando tengas todos los materiales, llévaselos a <NAVI>[Pisruik]<INFO>yuno_in04,33,108,0,101,0</INFO></NAVI>."
+		},
+		Summary = "",
+		NpcSpr = "4_M_ALCHE_D",
+		NpcNavi = "yuno_in04",
+		NpcPosX = 33,
+		NpcPosY = 108
+	},
+	[19117] = {
+		Title = "Investigación de Pisruik (2-1)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"Necesito unas 20 <ITEM>[Flor carnívora]<INFO>1032</INFO></ITEM> para probar mi teoría... ¿Podrías encargarte también de esto?",
+			"   ",
+			"Cuando tengas todos los materiales, llévaselos a <NAVI>[Pisruik]<INFO>yuno_in04,33,108,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Flor carnívora x20",
+		NpcSpr = "4_M_ALCHE_D",
+		NpcNavi = "yuno_in04",
+		NpcPosX = 33,
+		NpcPosY = 108
+	},
+	[19118] = {
+		Title = "Investigación de Pisruik (2-2)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"El experimento no está saliendo como esperaba... ¿Podrías conseguirme solo 1 <ITEM>[Flor carnívora]<INFO>1032</INFO></ITEM> más? Por favor.",
+			"   ",
+			"Cuando tengas todos los materiales, llévaselos a <NAVI>[Pisruik]<INFO>yuno_in04,33,108,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Flor carnívora x1",
+		NpcSpr = "4_M_ALCHE_D",
+		NpcNavi = "yuno_in04",
+		NpcPosX = 33,
+		NpcPosY = 108
+	},
+	[19119] = {
+		Title = "Investigación de Pisruik (3)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"Oye... Lo siento, pero ¿podrías conseguirme unas gafas iguales a las que llevaba? No puedo moverme porque no veo nada, así que te agradecería muchísimo que las consiguieras por mí.",
+			"   ",
+			"Consigue <ITEM>[Gafas de friki]<INFO>2243</INFO></ITEM> y llévaselas a <NAVI>[Pisruik]<INFO>yuno_in04,33,108,0,101,0</INFO></NAVI>.",
+			"^FF0000? Asegúrate de no tener en la bolsa otras Gafas de friki equipadas.^000000"
+		},
+		Summary = "Gafas de friki x1",
+		NpcSpr = "4_M_ALCHE_D",
+		NpcNavi = "yuno_in04",
+		NpcPosX = 33,
+		NpcPosY = 108
+	},
+	[19120] = {
+		Title = "Canción del bardo (1)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"Me inquietan las palabras del Joven tímido al que le gustaba",
+			"el {{P:{00}}}[Sograt tropical]{{P:{01}}} que conocí en Prontera. Una maldición de bardo... En este caso, lo mejor para recopilar información será...",
+			"¿empezar por la <NAVI>[taberna de Morroc]<INFO>morocc_in,179,65,0,101,0</INFO></NAVI>?"
+		},
+		Summary = "Recopilar información"
+	},
+	[19121] = {
+		Title = "Canción del bardo (1)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"El bardo <NAVI>[Riot]<INFO>morocc_in,169,72,0,101,0</INFO></NAVI>, al que conocí en la taberna de Morroc,",
+			"dice que no soy amigo de los poetas y no quiere tratar conmigo. ¿Un joven poeta llorando en Geffen? ¿A qué se refiere?",
+			"  ",
+			"? Debes completar la misión del <TIPBOX>[bardo]<INFO>6123</INFO></TIPBOX> de Geffen."
+		},
+		Summary = "",
+		NpcSpr = "2_M_BARD_ORIENT",
+		NpcNavi = "morocc_in",
+		NpcPosX = 169,
+		NpcPosY = 72
+	},
+	[19122] = {
+		Title = "Canción del bardo (2)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"Riot... ¿No piensa enseñármelo fácilmente?",
+			"¿Un lugar al que se llega trepando por enredaderas? ¿Niflhiem?",
+			"¿Quiere que traiga cinco huevos de Yhelle de Niflhiem?",
+			"  ",
+			"Busca a Yhelle en Niflhiem, consigue cinco <ITEM>[huevos]<INFO>574</INFO></ITEM> y llévaselos a <NAVI>[Riot]<INFO>morocc_in,169,72,0,101,0</INFO></NAVI>.",
+			"  ",
+			"?Zonas de aparición de Yhelle",
+			"<NAVI>[Lugar]<INFO>niflheim,239,70,0,101,0</INFO></NAVI>/<NAVI>[Lugar]<INFO>niflheim,185,205,0,101,0</INFO></NAVI>/<NAVI>[Lugar]<INFO>niflheim,85,203,0,101,0</INFO></NAVI>/<NAVI>[Lugar]<INFO>niflheim,149,81,0,101,0</INFO></NAVI>/<NAVI>[Lugar]<INFO>niflheim,209,144,0,101,0</INFO></NAVI>",
+			"^FF0000? En la ciudad de los muertos no hay guía para salir al exterior.^000000"
+		},
+		Summary = "Huevos de Yhelle x5",
+		NpcSpr = "2_M_BARD_ORIENT",
+		NpcNavi = "morocc_in",
+		NpcPosX = 169,
+		NpcPosY = 72
+	},
+	[19123] = {
+		Title = "Canción del bardo (2)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"¡¿Qué raro?! Juraría que conseguí cinco huevos de Yhelle. ¿Si quiero aprender la técnica, debo conseguir 1 muñeca Munak?",
+			"  ",
+			"Consigue 1 <ITEM>[muñeca Munak]<INFO>7277</INFO></ITEM> y llévasela a <NAVI>[Riot]<INFO>morocc_in,169,72,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Muñeca Munak x1",
+		NpcSpr = "2_M_BARD_ORIENT",
+		NpcNavi = "morocc_in",
+		NpcPosX = 169,
+		NpcPosY = 72
+	},
+	[19124] = {
+		Title = "Noticias que no se desgastan (1)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"Ford Leslie, de Geffen, está preocupado porque el soldado enviado a trabajar en Britonia no ha mandado noticias.",
+			"   ",
+			"?Ve a [Britonia] y busca a un caballero llamado ^0000FFSlaty^191240."
+		},
+		Summary = "Buscar al caballero Slaty",
+		NpcSpr = "4_M_CRU",
+		NpcNavi = "gef_fild13",
+		NpcPosX = 297,
+		NpcPosY = 242
+	},
+	[19125] = {
+		Title = "Noticias que no se desgastan (2)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"Para que <NAVI>[Slaty]<INFO>gef_fild13,297,242,0,101,0</INFO></NAVI>, herido e inconsciente, pueda recobrar el sentido...",
+			"   ",
+			"?Consigue 1 <ITEM>[Poción Roja]<INFO>909</INFO></ITEM>."
+		},
+		Summary = "Dar Poción Roja a Slaty...",
+		NpcSpr = "4_M_CRU",
+		NpcNavi = "gef_fild13",
+		NpcPosX = 297,
+		NpcPosY = 242
+	},
+	[19126] = {
+		Title = "Noticias que no se desgastan (3)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"El informe y la solicitud de despliegue de la orden que Slaty intentaba llevar arriesgando su vida...",
+			"   ",
+			"?Llévaselos a <NAVI>[Ford]<INFO>geffen,110,117,0,101,0</INFO></NAVI> en Geffen."
+		},
+		Summary = "A Ford...",
+		NpcSpr = "4_M_CRU_OLD",
+		NpcNavi = "geffen",
+		NpcPosX = 110,
+		NpcPosY = 117
+	},
+	[19127] = {
+		Title = "Noticias que no se desgastan (4)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"Dicen que las heridas causadas por el veneno de Duende con cuchillo no cierran sin un antídoto. Ve a ver al sacerdote de la catedral de Prontera que puede prepararlo.",
+			"   ",
+			"?Ve a <NAVI>[Arthur]<INFO>prt_church,87,125,0,101,0</INFO></NAVI> y consigue el tratamiento."
+		},
+		Summary = "",
+		NpcSpr = "4_M_SAGE_C",
+		NpcNavi = "prt_church",
+		NpcPosX = 87,
+		NpcPosY = 125
+	},
+	[19128] = {
+		Title = "Noticias que no se desgastan (5)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"<NAVI>[Arthur]<INFO>prt_church,87,125,0,101,0</INFO></NAVI> dijo que necesita materiales para preparar el tratamiento contra el veneno de goblin. Consigue los materiales y llévaselos.",
+			"   ",
+			"?Materiales del tratamiento",
+			"<ITEM>[Uva]<INFO>514</INFO></ITEM> x1, <ITEM>[Manzana inmadura]<INFO>619</INFO></ITEM> x1, <ITEM>[Botella vacía]<INFO>713</INFO></ITEM> x3,",
+			"<ITEM>[Jellopy]<INFO>909</INFO></ITEM> x5, <ITEM>[Moco Pegajoso]<INFO>938</INFO></ITEM> x20,",
+			"<ITEM>[Carbón]<INFO>1003</INFO></ITEM> x1, <ITEM>[Cyfar]<INFO>7053</INFO></ITEM> x3"
+		},
+		Summary = "Materiales del tratamiento",
+		NpcSpr = "4_M_SAGE_C",
+		NpcNavi = "prt_church",
+		NpcPosX = 87,
+		NpcPosY = 125
+	},
+	[19129] = {
+		Title = "Noticias que no se desgastan (6)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"<NAVI>[Arthur]<INFO>prt_church,87,125,0,101,0</INFO></NAVI> está fabricando el tratamiento contra el veneno de goblin.",
+			"   ",
+			"?Habla con él para ver si ya lo ha terminado."
+		},
+		Summary = "",
+		NpcSpr = "4_M_SAGE_C",
+		NpcNavi = "prt_church",
+		NpcPosX = 87,
+		NpcPosY = 125
+	},
+	[19130] = {
+		Title = "Noticias que no se desgastan (7)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"El tratamiento contra el veneno de goblin está listo.",
+			"   ",
+			"?Llévaselo a <NAVI>[Slaty]<INFO>gef_fild13,297,242,0,101,0</INFO></NAVI> antes de que pierda su efecto."
+		},
+		Summary = "A Britonia...",
+		NpcSpr = "4_M_CRU",
+		NpcNavi = "gef_fild13",
+		NpcPosX = 297,
+		NpcPosY = 242
+	},
+	[19131] = {
+		Title = "Noticias que no se desgastan (7)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"¿Habré llegado demasiado tarde?",
+			"El tratamiento que le di a Slaty no tiene ningún efecto.",
+			"   ",
+			"?Pídele a <NAVI>[Arthur]<INFO>prt_church,87,125,0,101,0</INFO></NAVI> que prepare otro tratamiento."
+		},
+		Summary = "A Arthur...",
+		NpcSpr = "4_M_SAGE_C",
+		NpcNavi = "prt_church",
+		NpcPosX = 87,
+		NpcPosY = 125
+	},
+	[19132] = {
+		Title = "Bioética (1)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"Hablé con Kellasus, autoridad en la Bioética de homúnculos, pero me ignoró. Dicen que normalmente ni siquiera responde... ¿Quizá?",
+			"   ",
+			"?Sigue hablando con <NAVI>[Kellasus]<INFO>lhz_in01,224,140,0,101,0</INFO></NAVI>."
+		},
+		Summary = "",
+		NpcSpr = "1_M_LIBRARYMASTER",
+		NpcNavi = "lhz_in01",
+		NpcPosX = 224,
+		NpcPosY = 140
+	},
+	[19133] = {
+		Title = "Bioética (2)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"Para recibir de Kellasus la técnica de los homúnculos, parece que primero debo aprender conocimientos sobre ellos.",
+			"   ",
+			"?Pregunta a <NAVI>[Skrajjad]<INFO>lhz_in01,225,122,0,101,0</INFO></NAVI> sobre los homúnculos."
+		},
+		Summary = "",
+		NpcSpr = "4_M_SAGE_A",
+		NpcNavi = "lhz_in01",
+		NpcPosX = 225,
+		NpcPosY = 122
+	},
+	[19134] = {
+		Title = "Bioética (3)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"Skrajjad me presentó a Keshibien, quien conoce en detalle la habilidad ^FF0000Invocar Homúnculo^000000.",
+			"   ",
+			"?Pregunta a <NAVI>[Keshibien]<INFO>lhz_in01,204,138,0,101,0</INFO></NAVI> sobre Invocar Homúnculo."
+		},
+		Summary = "",
+		NpcSpr = "4_M_ALCHE_C",
+		NpcNavi = "lhz_in01",
+		NpcPosX = 204,
+		NpcPosY = 138
+	},
+	[19135] = {
+		Title = "Bioética (4)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"Keshibien me presentó por último a Broncher, quien conoce en detalle la habilidad FF0000Resurrección de Homúnculo^000000.",
+			"   ",
+			"?Pregunta a <NAVI>[Broncher]<INFO>lhz_in02,278,273,0,101,0</INFO></NAVI> sobre Resurrección de Homúnculo."
+		},
+		Summary = "",
+		NpcSpr = "4_M_SEAMAN",
+		NpcNavi = "lhz_in02",
+		NpcPosX = 278,
+		NpcPosY = 273
+	},
+	[19136] = {
+		Title = "Bioética (5)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"He aprendido sobre las habilidades de homúnculo Evaporización, Invocar Homúnculo y Resurrección de Homúnculo.",
+			"   ",
+			"?Pídele a <NAVI>[Kellasus]<INFO>lhz_in01,224,140,0,101,0</INFO></NAVI> que te enseñe Bioética."
+		},
+		Summary = "",
+		NpcSpr = "1_M_LIBRARYMASTER",
+		NpcNavi = "lhz_in01",
+		NpcPosX = 224,
+		NpcPosY = 140
+	},
+	[19137] = {
+		Title = "Bioética (6)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"¿Cómo podré doblegar la terquedad de Kellasus, que insiste en que los homúnculos son una vida y que los humanos no deben decidir sobre ellos?",
+			"   ",
+			"?¿Debería visitar siquiera a la <NAVI>[familia de Kellasus]<INFO>lhz_in03,106,34,0,101,0</INFO></NAVI>?"
+		},
+		Summary = "",
+		NpcSpr = "4_M_KID1",
+		NpcNavi = "lhz_in03",
+		NpcPosX = 106,
+		NpcPosY = 34
+	},
+	[19138] = {
+		Title = "Bioética (7)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"Tras conocer al hijo del señor Kellasus, se me ha ocurrido cómo doblegar su terquedad.",
+			"   ",
+			"?Ve a hablar con <NAVI>[Kellasus]<INFO>lhz_in01,224,140,0,101,0</INFO></NAVI>."
+		},
+		Summary = "",
+		NpcSpr = "1_M_LIBRARYMASTER",
+		NpcNavi = "lhz_in01",
+		NpcPosX = 224,
+		NpcPosY = 140
+	},
+	[19139] = {
+		Title = "Bioética (8)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"Después de escucharme, parece que Kellasus se ha quedado pensando.",
+			"   ",
+			"?Sigue hablando con <NAVI>[Kellasus]<INFO>lhz_in01,224,140,0,101,0</INFO></NAVI>."
+		},
+		Summary = "",
+		NpcSpr = "1_M_LIBRARYMASTER",
+		NpcNavi = "lhz_in01",
+		NpcPosX = 224,
+		NpcPosY = 140
+	},
+	[19140] = {
+		Title = "Bioética (9)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"Parece que Kellasus ha terminado de ordenar sus pensamientos.",
+			"   ",
+			"?Aprende Bioética de <NAVI>[Kellasus]<INFO>lhz_in01,224,140,0,101,0</INFO></NAVI>."
+		},
+		Summary = "",
+		NpcSpr = "1_M_LIBRARYMASTER",
+		NpcNavi = "lhz_in01",
+		NpcPosX = 224,
+		NpcPosY = 140
+	},
+	[19141] = {
+		Title = "Ataque Rápido (1)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"El caballero Aesop, de la 7.ª Orden de Caballeros de Prontera, parece decir que si quiero conocer la realidad de la orden, observe el entrenamiento exterior.",
+			"   ",
+			"?Observa el <NAVI>[entrenamiento de la orden]<INFO>prontera,69,351,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Observar el entrenamiento de la orden"
+	},
+	[19142] = {
+		Title = "Ataque Rápido (2)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"Tal como dijo Aesop, he observado el entrenamiento de la orden.",
+			"   ",
+			"?Vuelve con <NAVI>[Aesop]<INFO>prt_in,85,99,0,101,0</INFO></NAVI>."
+		},
+		Summary = "",
+		NpcSpr = "4_M_JOB_KNIGHT2",
+		NpcNavi = "prt_in",
+		NpcPosX = 85,
+		NpcPosY = 99
+	},
+	[19143] = {
+		Title = "Ataque Rápido (3)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"Parece que Aesop ha perdido toda pasión y motivación. Durante la observación, creo que oí algo sobre la época de novato de Aesop. ¿Decían que un caballero debería poder recolectar unas 5 Bastón de dulce y 3 Rosa Eterna?",
+			"   ",
+			"?Consigue 5 <ITEM>[Bastón de dulce]<INFO>530</INFO></ITEM> y 3 <ITEM>[Rosa Eterna]<INFO>748</INFO></ITEM>,",
+			"?y llévaselos a <NAVI>[Aesop]<INFO>prt_in,85,99,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Por un caballero que ha perdido la motivación",
+		NpcSpr = "4_M_JOB_KNIGHT2",
+		NpcNavi = "prt_in",
+		NpcPosX = 85,
+		NpcPosY = 99
+	},
+	[19144] = {
+		Title = "Ataque Rápido (4)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"Aesop dice que me transmitirá una técnica que desarrolló tras investigar.",
+			"   ",
+			"?Aprende la técnica de <NAVI>[Aesop]<INFO>prt_in,85,99,0,101,0</INFO></NAVI>."
+		},
+		Summary = "",
+		NpcSpr = "4_M_JOB_KNIGHT2",
+		NpcNavi = "prt_in",
+		NpcPosX = 85,
+		NpcPosY = 99
+	},
+	[19145] = {
+		Title = "Técnica del practicante (1)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"¿Dicen que Palma del Dolor, creada por los monjes con todas sus fuerzas, no puede usarse si no se conoce Don Espiritual?",
+			"   ",
+			"?Ve a buscar a <NAVI>[cierto idiota necio]<INFO>prt_monk,270,198,0,101,0</INFO></NAVI> que dicen que puede usar Don Espiritual en solitario."
+		},
+		Summary = "",
+		NpcSpr = "4_M_MONK",
+		NpcNavi = "prt_monk",
+		NpcPosX = 270,
+		NpcPosY = 198
+	},
+	[19146] = {
+		Title = "Técnica del practicante (2)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"¿Que si quiero hacer algo, primero debo abandonar el deseo material? ¿Será...?",
+			"   ",
+			"?Vacía todos los objetos relacionados con el deseo material y ve a ver al <NAVI>[Monje formador]<INFO>prt_monk,270,198,0,101,0</INFO></NAVI>.",
+			"^FF0000?Esta misión solo puede avanzar después de reducir el peso transportado a 0.^000000"
+		},
+		Summary = "",
+		NpcSpr = "4_M_MONK",
+		NpcNavi = "prt_monk",
+		NpcPosX = 270,
+		NpcPosY = 198
+	},
+	[19147] = {
+		Title = "Técnica del practicante (3)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"He aprendido Don Espiritual. Entonces, ¿quizá también pueda aprender Palma del Dolor?",
+			"   ",
+			"?Ve a buscar al <NAVI>[Monje formador]<INFO>monk_test,316,69,0,101,0</INFO></NAVI>."
+		},
+		Summary = "",
+		NpcSpr = "4_M_CHNMONK",
+		NpcNavi = "monk_test",
+		NpcPosX = 316,
+		NpcPosY = 69
+	},
+	[19148] = {
+		Title = "Técnica del practicante (4)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"Demuestra que usas la fuerza correctamente.",
+			"   ",
+			"?Consigue 20 <ITEM>[Tallo]<INFO>905</INFO></ITEM> y 3 <ITEM>[Brote]<INFO>711</INFO></ITEM>,",
+			"?y ve a ver al <NAVI>[Monje formador]<INFO>monk_test,316,69,0,101,0</INFO></NAVI>."
+		},
+		Summary = "",
+		NpcSpr = "4_M_CHNMONK",
+		NpcNavi = "monk_test",
+		NpcPosX = 316,
+		NpcPosY = 69
+	},
+	[19149] = {
+		Title = "Técnica del practicante (5)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"Has demostrado que estás cualificado para usar la fuerza correctamente.",
+			"   ",
+			"?Aprende Palma del Dolor del <NAVI>[Monje formador]<INFO>monk_test,316,69,0,101,0</INFO></NAVI>."
+		},
+		Summary = "",
+		NpcSpr = "4_M_CHNMONK",
+		NpcNavi = "monk_test",
+		NpcPosX = 316,
+		NpcPosY = 69
+	},
+	[19150] = {
+		Title = "Sacrificio",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"¿Conoce la técnica ^3131FFRedención^000000'? ",
+			"Redención es sacrificio, una habilidad de sacrificio. No olvide que ^FF0000salvará a sus compañeros a cambio de que usted quede fuera de combate^000000.",
+			"   ",
+			"? Haber aprendido la habilidad Resurrección al nivel 1 o superior, <ITEM>[gema azul]<INFO>717</INFO></ITEM> x20, <ITEM>[agua bendita]<INFO>523</INFO></ITEM> x30",
+			"? Lleva los materiales a <NAVI>[Hermana Linus]<INFO>prt_church,111,112,0,101,0</INFO></NAVI>."
+		},
+		Summary = "",
+		NpcSpr = "1_F_PRIEST",
+		NpcNavi = "prt_church",
+		NpcPosX = 111,
+		NpcPosY = 112
 	}
 }

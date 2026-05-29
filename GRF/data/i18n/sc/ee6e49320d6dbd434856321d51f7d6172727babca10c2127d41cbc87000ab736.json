@@ -1,862 +1,920 @@
 {
     "IEstAw": {
+        "ko": "포드",
         "en": "Ford",
         "pt": "Ford",
         "es": "Ford"
     },
     "IUstAw": {
-        "en": "[Ford]\nHey,\nlong time, no see!\nMaybe it's because you've Transcended,\nbut you look more impressive than ever!\nLet me teach you the skill\nyou learned before\nin Slati's stead.",
-        "pt": "[Ford]\nOlá,\nfaz tempo que não nos vemos!\nTalvez seja porque você transcendeu,\nmas está mais impressionante do que nunca!\nVou ensinar a você a habilidade\nque você aprendeu antes\ncom Slati.",
-        "es": "[Ford]\nOye,\n¡tanto tiempo sin vernos!\nQuizá sea porque trascendiste,\n¡pero luces más imponente que nunca!\nDéjame enseñarte la habilidad\nque aprendiste antes\nen lugar de Slati."
+        "ko": "- 소지하고 계신 아이템이 많아 진행할 수 없습니다. -",
+        "en": "- You are carrying too many items to proceed. -",
+        "pt": "- Você possui muitos itens e não pode prosseguir. -",
+        "es": "- No puedes continuar porque llevas demasiados objetos. -"
     },
     "IkstAw": {
-        "en": "[Ford]\nHey,\nlong time, no see!\nCome more often to keep me company, will you?\nThe more I see you,\nthe more badly I want you for my unit.",
-        "pt": "[Ford]\nOlá,\nfaz tempo que não nos vemos!\nVenha mais vezes me fazer companhia, está bem?\nQuanto mais eu te vejo,\nmais quero você na minha unidade.",
-        "es": "[Ford]\nOye,\n¡tanto tiempo sin vernos!\nVen más seguido a hacerme compañía, ¿quieres?\nCuanto más te veo,\nmás te quiero para mi unidad."
+        "ko": "- 크루세이더 슈링크 스킬 퀘스트가 개편되었습니다. 확인을 누르시면, 미 습득 캐릭터는 퀘스트를 처음부터 진행 가능하며, 습득 캐릭터는 퀘스트 완료 상태로 세팅됩니다.",
+        "en": "- The Crusader Shrink skill quest has been revamped. When you confirm, characters who have not learned it can proceed with the quest from the beginning, and characters who have learned it will be set to quest complete status.",
+        "pt": "- A missão da habilidade Submissão de Crusader foi reformulada. Ao confirmar, personagens que ainda não aprenderam a habilidade poderão iniciar a missão desde o começo, e personagens que já aprenderam serão definidos como tendo concluído a missão.",
+        "es": "- La misión de la habilidad Encoger de cruzado ha sido renovada. Al confirmar, los personajes que no la hayan aprendido podrán iniciar la misión desde el principio, y los personajes que ya la hayan aprendido quedarán marcados como misión completada."
     },
     "I0stAw": {
-        "en": "[Ford]\nUgh, geez...\nWhat's taking\nthem so long?\n^FF0000Mm?^000000",
-        "pt": "[Ford]\nNossa...\nPor que está demorando\ntanto?\n^FF0000Mm?^000000",
-        "es": "[Ford]\nUf, cielos…\n¿Por qué están tardando\ntanto?\n^FF0000¿Mm?^000000"
+        "ko": "확인",
+        "en": "Confirm",
+        "pt": "Confirmar",
+        "es": "Confirmar"
     },
     "JEstAw": {
-        "en": "[Ford]\nOoh, welcome back!\nSo, where's the ^FF0000letter^000000\nfrom that place?",
-        "pt": "[Ford]\nBoas-vindas de volta!\nEntão, cadê a ^FF0000carta^000000\ndaquele lugar?",
-        "es": "[Ford]\n¡Ohh, hola de nuevo!\nEntonces, ¿dónde está la ^FF0000carta^000000\nde ese lugar?"
+        "ko": "- 퀘스트 진행이 초기화 되었습니다. 협조에 감사드립니다. 잠시 후 퀘스트 시작 지점으로 이동됩니다.",
+        "en": "- Quest progress has been reset. Thank you for your cooperation. You will be moved to the quest starting point shortly.",
+        "pt": "- O progresso da missão foi reiniciado. Agradecemos a cooperação. Você será movido para o ponto inicial da missão em instantes.",
+        "es": "- El progreso de la misión ha sido reiniciado. Gracias por tu colaboración. En breve serás trasladado al punto de inicio de la misión."
     },
     "JUstAw": {
-        "en": "[{0}]\nHuh? Excuse me?\nI've never even seen you before.",
-        "pt": "[{0}]\nHã? Oi?\nEu nunca vi você antes.",
-        "es": "[{0}]\n¿Eh? ¿Disculpa?\nNunca te había visto antes."
+        "ko": "- 완료 처리되었습니다. 협조에 감사드립니다.",
+        "en": "- Completion has been processed. Thank you for your cooperation.",
+        "pt": "- Foi processado como concluído. Agradecemos a cooperação.",
+        "es": "- Se ha procesado como completada. Gracias por tu colaboración."
     },
     "JkstAw": {
-        "en": "[Ford]\nErr, aren't you one of us\nguarding Southern Geffen?",
-        "pt": "[Ford]\nErr, você não é um de nós\nque está guardando Geffen ao sul?",
-        "es": "[Ford]\nEhh, ¿acaso no perteneces a nuestro grupo,\nlos guardianes del sur de Geffen?"
+        "ko": "[포드]\n후우...이런 이런... 왜 이렇게 시간이 걸리는 건지.",
+        "en": "[Ford]\nWhew... my, my... Why is this taking so long?",
+        "pt": "[Ford]\nUfa... Ora, ora... Por que está demorando tanto?",
+        "es": "[Ford]\nUf... vaya, vaya... ¿por qué tarda tanto?"
     },
     "J0stAw": {
-        "en": "[{0}]\nNo...?\n...",
-        "pt": "[{0}]\nNão...?\n...",
-        "es": "[{0}]\n¿No…?\n…"
+        "ko": "[포드]\n오오 왔는가!!!\n그래 그곳에서 보낸 ^0000FF편지^191240는 가지고 온 건가?",
+        "en": "[Ford]\nOh, you're here!!!\nSo, did you bring the ^0000FFletter^191240 sent from there?",
+        "pt": "[Ford]\nOhh, você chegou!!!\nEntão trouxe a ^0000FFcarta^191240 enviada de lá?",
+        "es": "[Ford]\n¡¡¡Oh, has venido!!!\nEntonces, ¿has traído la ^0000FFcarta^191240 que enviaron desde allí?"
     },
     "KEstAw": {
-        "en": "[Ford]\nCome on, you are,\naren't ya?",
-        "pt": "[Ford]\nVamos lá, você é,\nnão é?",
-        "es": "[Ford]\nVamos, sí perteneces,\n¿verdad?"
+        "ko": "[{0}]\n음? 무슨 소리신지...? 저는 아저씨 처음 보는데요?.",
+        "en": "[{0}]\nHm? What do you mean...? This is my first time meeting you, sir.",
+        "pt": "[{0}]\nHã? Do que está falando...? É a primeira vez que vejo o senhor.",
+        "es": "[{0}]\n¿Eh? ¿De qué habla...? Es la primera vez que lo veo, señor."
     },
     "KUstAw": {
-        "en": "[{0}]\nI said, no.",
-        "pt": "[{0}]\nEu disse que não.",
-        "es": "[{0}]\nDije que no."
+        "ko": "[포드]\n헉! 이런, 혹시 게펜 남쪽지역에서 수비를 맡고 있는 기사가 아닌가?",
+        "en": "[Ford]\nHuh! Oh dear, are you not the knight assigned to guard the southern area of Geffen?",
+        "pt": "[Ford]\nAh! Ora, por acaso você não é o cavaleiro encarregado da defesa na região sul de Geffen?",
+        "es": "[Ford]\n¡Ah! Vaya, ¿acaso no eres el caballero encargado de la defensa\nen la zona sur de Geffen?"
     },
     "KkstAw": {
-        "en": "[Ford]\nAre you sure?",
-        "pt": "[Ford]\nTem certeza?",
-        "es": "[Ford]\n¿Lo dices en serio?"
+        "ko": "[{0}]\n아닌데요..",
+        "en": "[{0}]\nNo, I'm not..",
+        "pt": "[{0}]\nNão.",
+        "es": "[{0}]\nNo."
     },
     "K0stAw": {
-        "en": "[{0}]\nYes.\nI'm not one of you.\n...",
-        "pt": "[{0}]\nSim.\nEu não sou um de vocês.\n...",
-        "es": "[{0}]\nSí.\nNo pertenezco a su grupo.\n…"
+        "ko": "[포드]\n에이~~맞는 것 같은데?",
+        "en": "[Ford]\nCome now~~ I think you are.",
+        "pt": "[Ford]\nAh~~ parece que é.",
+        "es": "[Ford]\nVenga~~ parece que sí."
     },
     "LEstAw": {
-        "en": "[Ford]\n...",
-        "pt": "[Ford]\n...",
-        "es": "[Ford]\n…"
+        "ko": "[{0}]\n아니라니까요.",
+        "en": "[{0}]\nI said I'm not.",
+        "pt": "[{0}]\nJá disse que não.",
+        "es": "[{0}]\nLe digo que no."
     },
     "LUstAw": {
-        "en": "[Ford]\nOops, I'm sorry.\nYou're wearing\nthe Crusader uniform, so I automatically\nthough you were whom I'd been waiting for.",
-        "pt": "[Ford]\nOps, desculpe.\nVocê está usando\no uniforme dos Templários, então\nachei que era você que eu estava esperando.",
-        "es": "[Ford]\nUps, lo siento.\nLlevas puesto\nel uniforme de los Cruzados, así que automáticamente\npensé que eras a quien había estado esperando."
+        "ko": "[포드]\n진짜?",
+        "en": "[Ford]\nReally?",
+        "pt": "[Ford]\nSério?",
+        "es": "[Ford]\n¿De verdad?"
     },
     "LkstAw": {
-        "en": "[Ford]\nMan, I'm in big trouble.\nWhat do I do?\nI can't wait any longer...",
-        "pt": "[Ford]\nCara, estou com um grande problema.\nO que eu faço?\nNão posso esperar mais...",
-        "es": "[Ford]\nOye, tengo un gran problema.\n¿Qué hago?\nNo puedo esperar más…"
+        "ko": "[{0}]\n네......",
+        "en": "[{0}]\nYes......",
+        "pt": "[{0}]\nSim......",
+        "es": "[{0}]\nSí......"
     },
     "L0stAw": {
-        "en": "[{0}]\nWhat's the matter?",
-        "pt": "[{0}]\nQual é o problema?",
-        "es": "[{0}]\n¿Qué sucede?"
+        "ko": "[포드]\n........",
+        "en": "[Ford]\n........",
+        "pt": "[Ford]\n........",
+        "es": "[Ford]\n........"
     },
     "MEstAw": {
-        "en": "[Ford]\nMy name is\n^FF0000Ford Lesley^000000,\nand I'm the guard captain of the Prontera Knights.\nMy unit patrols around here\nto make sure no monster\nthreatens travelers\nor the citizens.",
-        "pt": "[Ford]\nMeu nome é\n^FF0000Ford Lesley^000000\ne sou o capitão da guarda dos Cavaleiros de Prontera.\nMinha unidade faz patrulhas por aqui\npara garantir que nenhum monstro\nameace os viajantes\nou os cidadãos.",
-        "es": "[Ford]\nMe llamo\n^FF0000Ford Lesley^000000,\ny soy el capitán de la guardia de los Caballeros de Prontera.\nMi unidad patrulla por aquí \npara asegurarse de que ningún monstruo\namenace a los viajeros\nni a los ciudadanos."
+        "ko": "[포드]\n이런.. 자세히 보니 입은 갑옷이 우리 기사단의 갑옷과는 약간 다르군. 미안하네. 내가 기다리던 사람인 줄 알았어.",
+        "en": "[Ford]\nOh dear.. Now that I look closer, the armor you're wearing is a little different from our order's armor. My apologies. I thought you were the person I was waiting for.",
+        "pt": "[Ford]\nOra... olhando bem, a armadura que você veste é um pouco diferente da armadura da nossa Ordem dos Cavaleiros. Desculpe. Pensei que fosse a pessoa que eu estava esperando.",
+        "es": "[Ford]\nVaya... ahora que te miro bien, la armadura que llevas es algo distinta a la de nuestra orden. Perdona. Pensé que eras la persona a la que esperaba."
     },
     "MUstAw": {
-        "en": "[{0}]\nI see.",
-        "pt": "[{0}]\nEntendo.",
-        "es": "[{0}]\nYa veo."
+        "ko": "[포드]\n하아...정말 큰일이군. 정말 곤란해... 시간이 없는데 말이지...",
+        "en": "[Ford]\nHaa... This is truly a serious matter. Quite troublesome... We have no time...",
+        "pt": "[Ford]\nHaa... isto é realmente grave. Estou em apuros... e não há tempo...",
+        "es": "[Ford]\nAh... esto sí que es un problema. Qué situación tan complicada... y no hay tiempo..."
     },
     "MkstAw": {
-        "en": "[Ford]\nRecently, we've been\nhaving problems with\n^FF0000goblins^000000,\nwho keep springing up\nhere and there.",
-        "pt": "[Ford]\nRecentemente, temos tido\ntendo problemas com\n^FF0000goblins^000000,\nque ficam surgindo\naqui e ali.",
-        "es": "[Ford]\nRecientemente, hemos estado\nteniendo problemas con\nlos ^FF0000duendes^000000,\nque siguen apareciendo\npor todas partes."
+        "ko": "[{0}]\n무슨 걱정이라도 있으세요?",
+        "en": "[{0}]\nIs something worrying you?",
+        "pt": "[{0}]\nO senhor está preocupado com alguma coisa?",
+        "es": "[{0}]\n¿Le preocupa algo?"
     },
     "M0stAw": {
-        "en": "[Ford]\nSo, I've had my people\npatrol this area\nand report to me\ntwice a day.",
-        "pt": "[Ford]\nEntão, mandei meu pessoal\npatrulhar esta área\ne apresentarem-se a mim\nduas vezes por dia.",
-        "es": "[Ford]\nAsí que ordené a mi gente\nque patrulle esta zona\ny me informe\ndos veces al día."
+        "ko": "[포드]\n나는 프론테라 기사단에서 파견 나온 ^0000FF포드 레슬리^191240라고 하네. 주변 순찰구역에서 몬스터가 나타나는 것을 막고 여행자나 마을사람들의 신변을 보호 하는 일을 하고 있지.",
+        "en": "[Ford]\nI am ^0000FFFord Leslie^191240, dispatched from the Prontera Chivalry. My duty is to prevent monsters from appearing in nearby patrol zones and to protect travelers and villagers.",
+        "pt": "[Ford]\nSou ^0000FFFord Leslie^191240, enviado pela Ordem dos Cavaleiros de Prontera. Meu trabalho é impedir que monstros apareçam nas áreas de patrulha ao redor e proteger a segurança de viajantes e moradores.",
+        "es": "[Ford]\nSoy ^0000FFFord Leslie^191240, enviado de la orden de caballeros de Prontera. Me encargo de impedir que aparezcan monstruos en las zonas de patrulla cercanas y de proteger a viajeros y aldeanos."
     },
     "NEstAw": {
-        "en": "[Ford]\nAnd they haven't reported\nto me yet today.\nThey've got to have\na problem.",
-        "pt": "[Ford]\nE ainda não se apresentaram\npara mim hoje.\nEles devem estar com\nalgum problema.",
-        "es": "[Ford]\nPero aún no he tenido noticias\nde ellos hoy.\nAlgo debe andar\nmal."
+        "ko": "[{0}]\n그렇군요...",
+        "en": "[{0}]\nI see...",
+        "pt": "[{0}]\nEntendo...",
+        "es": "[{0}]\nYa veo..."
     },
     "NUstAw": {
-        "en": "[Ford]\nI want to go check,\nbut I can't leave\nmy post unattended.\nI don't know what to do!\nThey should have reported to me\na long time ago.",
-        "pt": "[Ford]\nQuero ir conferir,\nmas não posso deixar\nmeu posto sem supervisão.\nNão sei o que fazer!\nEles deveriam ter se apresentado a mim\nhá muito tempo.",
-        "es": "[Ford]\nQuiero ir a investigar,\npero no puedo\nabandonar mi puesto.\n¡No sé qué hacer!\nYa deberían haberme enviado su informe\nhace mucho."
+        "ko": "[포드]\n최근 주변에서 ^FF0000고블린^191240들이 자주 출몰하여 여간 골치를 썩고 있는 것이 아닐세.",
+        "en": "[Ford]\nRecently, ^FF0000Knife Goblins^191240 have been appearing frequently in the area, and they have been no small source of trouble.",
+        "pt": "[Ford]\nUltimamente, ^FF0000Goblin de Adaga^191240 têm aparecido com frequência nas redondezas, e isso tem nos dado muita dor de cabeça.",
+        "es": "[Ford]\nÚltimamente, los ^FF0000Duende con cuchillo^191240 aparecen con frecuencia por los alrededores, y nos están causando bastantes quebraderos de cabeza."
     },
     "NkstAw": {
-        "en": "[Ford]\nSpeaking of which,\nyou're a Crusader, right?\nMind if I ask you\na favor?",
-        "pt": "[Ford]\nPor falar nisso,\nvocê faz parte dos Templários, certo?\nVocê se importa se eu lhe pedir\num favor?",
-        "es": "[Ford]\nHablando de eso,\neres de la clase Cruzado, ¿verdad?\n¿Te importa si te pido\nun favor?"
+        "ko": "[포드]\n그래서 우리 기사단은 최근에는 하루에 한 번 하던 순찰을 두 번으로 늘려 상황을 예의주시하고 있지.",
+        "en": "[Ford]\nBecause of that, our order has recently increased patrols from once a day to twice, keeping a close watch on the situation.",
+        "pt": "[Ford]\nPor isso, recentemente nossa Ordem dos Cavaleiros aumentou as patrulhas de uma para duas vezes ao dia e está observando a situação com atenção.",
+        "es": "[Ford]\nPor eso nuestra orden ha aumentado las patrullas de una vez al día a dos, y vigilamos la situación muy de cerca."
     },
     "N0stAw": {
-        "en": "[{0}]\nWhat is it?",
-        "pt": "[{0}]\nO que é?",
-        "es": "[{0}]\n¿Qué sucede?"
+        "ko": "[포드]\n그런데 오늘따라 보고가 너무 늦는군. 뭔가 문제가 생긴 게 분명해...",
+        "en": "[Ford]\nBut today's report is far too late. Something must have gone wrong...",
+        "pt": "[Ford]\nMas hoje o relatório está atrasado demais. Com certeza houve algum problema...",
+        "es": "[Ford]\nPero hoy el informe se está retrasando demasiado. Sin duda ha ocurrido algo..."
     },
     "OEstAw": {
-        "en": "[Ford]\nAs I told you earlier,\nI'm waiting\nfor someone.",
-        "pt": "[Ford]\nComo eu disse antes,\nestou esperando\nalguém.",
-        "es": "[Ford]\nComo te comenté antes,\nestoy esperando\na alguien."
+        "ko": "[포드]\n이미 보고하러 올 시간은 한참 지났고 나는 다른 지역 근무자의 보고도 받아야 하기 때문에 자리를 뜰 수도 없고 상황이 정말 난처하게 됐군.",
+        "en": "[Ford]\nThe time for the report has long since passed, and I must also receive reports from personnel in other areas, so I cannot leave my post. This has become quite a difficult situation.",
+        "pt": "[Ford]\nJá passou há muito tempo da hora em que o relatório deveria chegar, e eu não posso sair daqui porque também preciso receber os relatórios dos responsáveis por outras regiões. A situação ficou realmente complicada.",
+        "es": "[Ford]\nLa hora a la que debía llegar el informe ya pasó hace mucho, y yo no puedo abandonar mi puesto porque también debo recibir informes de otros sectores. La situación se ha vuelto realmente delicada."
     },
     "OUstAw": {
-        "en": "[Ford]\nThere's a guard name\nSlati in the post\noutside Geffen.\nI'm waiting\nfor his report,",
-        "pt": "[Ford]\nTem um guarda chamado\nSlati no posto\ndo lado de fora de Geffen.\nEstou esperando\na apresentação dele",
-        "es": "[Ford]\nHay un guardia\nllamado Slati en el puesto\na las afueras de Geffen.\nestoy esperando\nsu informe,"
+        "ko": "[포드]\n그러고 보니 자네? 괜찮다면 내 부탁 하나만 들어줄 수 있겠나?",
+        "en": "[Ford]\nCome to think of it, you there. If it's all right with you, could you do me one favor?",
+        "pt": "[Ford]\nAgora que penso nisso, você. Se não se importar, poderia me fazer um favor?",
+        "es": "[Ford]\nAhora que lo pienso, tú... si no te importa, ¿podrías hacerme un favor?"
     },
     "OkstAw": {
-        "en": "[Ford]\nand it's taking too long.\nIf you don't mind,\ncould you go\ncheck how things are over there?",
-        "pt": "[Ford]\ne está demorando muito.\nSe não for muito incômodo,\nserá que pode ir verificar\ncomo estão as coisas por lá?",
-        "es": "[Ford]\npero está tardando demasiado.\nSi no te importa,\n¿podrías ir\na ver cómo están las cosas por allí?"
+        "ko": "[{0}]\n뭔데요?",
+        "en": "[{0}]\nWhat is it?",
+        "pt": "[{0}]\nO que é?",
+        "es": "[{0}]\n¿De qué se trata?"
     },
     "O0stAw": {
-        "en": "[Ford]\nI'm asking you\nbecause I can't leave\nmy post unattended.",
-        "pt": "[Ford]\nEstou te pedindo\nporque não posso deixar\nmeu posto sem supervisão.",
-        "es": "[Ford]\nTe lo pido a ti\nporque no puedo\nabandonar mi puesto."
+        "ko": "[포드]\n아까도 말했다시피 난 자리를 비울 수 없는 몸이라.. 자네만 괜찮다면, 나 대신 그곳에 가서 상황을 보고 오지 않겠나?",
+        "en": "[Ford]\nAs I said earlier, I cannot leave my post.. If you are willing, would you go there in my stead and report back on the situation?",
+        "pt": "[Ford]\nComo eu disse há pouco, não posso deixar meu posto... Se não se importar, poderia ir até lá em meu lugar e verificar a situação?",
+        "es": "[Ford]\nComo ya he dicho, no puedo dejar mi puesto... Si no tienes inconveniente, ¿podrías ir allí en mi lugar y comprobar la situación?"
     },
     "PEstAw": {
+        "ko": "수락한다",
         "en": "Accept.",
-        "pt": "Aceitar.",
-        "es": "Aceptar."
+        "pt": "Aceitar",
+        "es": "Aceptar"
     },
     "PUstAw": {
-        "en": "Decline.",
+        "ko": "거절한다.",
+        "en": "Refuse.",
         "pt": "Recusar.",
-        "es": "Negarte."
+        "es": "Rechazar."
     },
     "PkstAw": {
-        "en": "[Ford]\nReally?\nThank you so much!\nYou Crusaders are\nso reliable.",
-        "pt": "[Ford]\nÉ mesmo?\nMuito obrigado!\nVocês, Templários, são\nmuito confiáveis.",
-        "es": "[Ford]\n¿De verdad?\n¡Muchas gracias!\nLos Cruzados son\nrealmente dignos de confianza."
+        "ko": "[포드]\n정말인가? 고맙네. 역시 자네도 어려운 자를 돕는 긍지를 아는 자였군.",
+        "en": "[Ford]\nTruly? Thank you. As expected, you too know the pride of helping those in need.",
+        "pt": "[Ford]\nÉ verdade? Obrigado. Como pensei, você também conhece o orgulho de ajudar quem está em dificuldade.",
+        "es": "[Ford]\n¿De verdad? Gracias. Veo que tú también conoces el orgullo de ayudar a quienes lo necesitan."
     },
     "P0stAw": {
-        "en": "[Ford]\nOkay then, please go\nto the post south of Geffen\nand talk to this guy\nnamed ^FF0000Slati^000000.",
-        "pt": "[Ford]\nEntão, por favor, vá\nao posto ao sul de Geffen\ne fale com um cara\nchamado ^FF0000Slati^000000.",
-        "es": "[Ford]\nBien, entonces, por favor, ve\nal puesto al sur de Geffen\ny habla con este tipo\nllamado ^FF0000Slati^000000."
+        "ko": "[포드]\n그렇다면 일단 게펜 남쪽에 위치한 브리토리아로 가서 ^0000FF슬라티^191240라는 이름을 가진 기사를 찾아보게.",
+        "en": "[Ford]\nThen first, go to Britoniah, located south of Geffen, and look for a knight named ^0000FFSlaty^191240.",
+        "pt": "[Ford]\nEntão, primeiro vá ao Feudo de Britoniah, ao sul de Geffen, e procure um cavaleiro chamado ^0000FFSlaty^191240.",
+        "es": "[Ford]\nEntonces ve primero a Britonia, al sur de Geffen, y busca a un caballero llamado ^0000FFSlaty^191240."
     },
     "QEstAw": {
-        "en": "[Ford]\nHe'll give you his report.\nI want yo to bring it to me.\nNow, I'll be counting on you.",
-        "pt": "[Ford]\nEle lhe dará o relatório dele.\nQuero que você o traga para mim.\nAgora, conto com você.",
-        "es": "[Ford]\nTe dará su informe.\nQuiero que me lo traigas.\nCuento contigo."
+        "ko": "[포드]\n그에게 보고서를 받아 나에게 전해주면 되네. 그럼 부탁하네.",
+        "en": "[Ford]\nReceive the report from him and bring it to me. I'm counting on you.",
+        "pt": "[Ford]\nBasta receber o relatório dele e trazê-lo para mim. Conto com você.",
+        "es": "[Ford]\nRecibe su informe y tráemelo. Cuento contigo."
     },
     "QUstAw": {
-        "en": "[Ford]\nHm, I see.\nWell, I understand.\nI should never have asked\nsince you have nothing to do\nwith my group.\nI'm sorry. Now, goodbye.",
-        "pt": "[Ford]\nTudo bem,\neu entendo.\nEu não deveria ter perguntado\njá que você não tem nada a ver\ncom meu grupo.\nDesculpe. Agora, tchau.",
-        "es": "[Ford]\nMmm, ya veo.\nBien, entiendo.\nNo debería habértelo pedido,\nya que no tienes nada que ver\ncon mi grupo.\nLo siento. Bien, adiós."
+        "ko": "[포드]\n흠.. 그런가? 뭐 어쩔 수 없지. 급하다고 해도 이런 일을 우리와 관계없는 자에게 부탁하는 것 자체가 말이 되지 않는 것이었으니.. 알겠네. 그럼 잘 가게.",
+        "en": "[Ford]\nHmm.. Is that so? Well, it cannot be helped. No matter how urgent it is, asking someone unrelated to us to do this was unreasonable to begin with.. Very well. Safe travels.",
+        "pt": "[Ford]\nHmm... é mesmo? Bem, não há o que fazer. Mesmo sendo urgente, pedir algo assim a alguém que não tem relação conosco já não fazia sentido... Entendo. Então vá bem.",
+        "es": "[Ford]\nMmm... ¿ya veo? Bueno, no se puede evitar. Aunque sea urgente, pedir algo así a alguien ajeno a nosotros no tenía mucho sentido... Entiendo. Entonces, cuídate."
     },
     "QkstAw": {
-        "en": "[Ford]\nWhy are you still here?\nPlease go to\nthe post south of Geffen\nas quickly as you can.\nHurry!",
-        "pt": "[Ford]\nPor que ainda está aqui?\nVá para o posto\nao sul de Geffen\no mais rápido possível.\nCorra!",
-        "es": "[Ford]\n¿Por qué sigues aquí?\nDirígete\nal puesto al sur de Geffen\ntan rápido como puedas.\n¡Date prisa!"
+        "ko": "[포드]\n아직 출발하지 않았나? 어서 출발해 주게. 게펜 남쪽에 위치한 브리토리아에서 ^0000FF슬라티^191240라는 이름을 가진 기사를 찾아주게. 한시가 급해.",
+        "en": "[Ford]\nHave you not departed yet? Please set out at once. Find the knight named ^0000FFSlaty^191240 in Britoniah, south of Geffen. Time is of the essence.",
+        "pt": "[Ford]\nAinda não partiu? Por favor, parta logo. Procure um cavaleiro chamado ^0000FFSlaty^191240 no Feudo de Britoniah, ao sul de Geffen. Cada momento conta.",
+        "es": "[Ford]\n¿Aún no has partido? Date prisa, por favor. Busca a un caballero llamado ^0000FFSlaty^191240 en Britonia, al sur de Geffen. Cada segundo cuenta."
     },
     "Q0stAw": {
-        "en": "[Ford]\nI can tell you met Slati,\nbut why did you come back empty-handed?\nCome on, go pick up his report.",
-        "pt": "[Ford]\nSei que você encontrou Slati,\nmas por que voltou de mãos vazias?\nVamos, vá pegar o relatório dele.",
-        "es": "[Ford]\nVeo que conociste a Slati,\npero ¿por qué volviste con las manos vacías?\nVamos, tráeme su informe."
+        "ko": "[포드]\n아니 슬라티만 만나고 보고서는 받아오지 않은 겐가? 어서 가서 받아오게~",
+        "en": "[Ford]\nWhat, you only met Slaty and didn't bring the report? Hurry back and receive it~",
+        "pt": "[Ford]\nOra, você só encontrou Slaty e não trouxe o relatório? Vá logo buscá-lo~",
+        "es": "[Ford]\n¿Has visto a Slaty pero no has traído el informe? Ve enseguida a recogerlo."
     },
     "REstAw": {
-        "en": "[Ford]\nAh, welcome back!\nSo, how's the situation over there?",
-        "pt": "[Ford]\nAh, boas-vindas de volta!\nEntão, como está a situação por lá?",
-        "es": "[Ford]\n¡Ah, hola de nuevo!\nEntonces, ¿cómo está la situación por allí?"
+        "ko": "[포드]\n오오.. 와주었군. 그래 그곳의 상황은?",
+        "en": "[Ford]\nOhh.. You've come. So, what is the situation there?",
+        "pt": "[Ford]\nOhh... você veio. Então, qual é a situação de lá?",
+        "es": "[Ford]\nOh... has vuelto. Entonces, ¿cuál es la situación allí?"
     },
     "RUstAw": {
-        "en": "[{0}]\nHere's his letter.",
-        "pt": "[{0}]\nAqui está a carta dele.",
-        "es": "[{0}]\nAquí está su carta."
+        "ko": "[{0}]\n여기 슬라티 씨가 전해달라는 문서입니다.",
+        "en": "[{0}]\nHere is the document Mr. Slaty asked me to deliver.",
+        "pt": "[{0}]\nEste é o documento que o Sr. Slaty pediu para entregar.",
+        "es": "[{0}]\nEste es el documento que el señor Slaty me pidió entregarle."
     },
     "RkstAw": {
-        "en": "[{0}]\n- I gave Ford -\n- the bloody letter from Slati. -",
-        "pt": "[{0}]\n- Entreguei ao Ford -\n- a carta ensanguentada de Slati. -",
-        "es": "[{0}]\n(Le di a Ford\nla carta ensangrentada de Slati)."
+        "ko": "- 포드에게 슬라티 씨에게 받은 피가 묻은 보고서와 기사단 출정 요청서를 건넸다.",
+        "en": "- You handed Ford the bloodstained report and request for chivalry deployment received from Mr. Slaty.",
+        "pt": "- Você entregou a Ford o relatório manchado de sangue e a solicitação de mobilização da Ordem dos Cavaleiros recebidos do Sr. Slaty.",
+        "es": "- Entregaste a Ford el informe manchado de sangre y la solicitud de despliegue de la orden recibidos del señor Slaty."
     },
     "R0stAw": {
-        "en": "[Ford]\nMm, alright. Let's see...",
-        "pt": "[Ford]\nTudo bem. Vamos ver...",
-        "es": "[Ford]\nMm, bien. Veamos…"
+        "ko": "[포드]\n이 피는...?! 흠... 그럼.. 어디..",
+        "en": "[Ford]\nThis blood is...?! Hmm... Then.. let's see..",
+        "pt": "[Ford]\nEste sangue é...?! Hmm... Então... vejamos...",
+        "es": "[Ford]\n¿Esta sangre...?! Mmm... entonces... veamos..."
     },
     "SEstAw": {
-        "en": "[Ford]\n*Rub, Rub* *Rustle, Rustle*",
-        "pt": "[Ford]\n*Rub, Rub* *Roça, roça*",
-        "es": "[Ford]\n*Frú, frú* *Crac, crac*"
+        "ko": "[포드]\n아닛!! 지금 이런 상황이라니! 큰일이군. 어서 아르가 님께 보고해 기사단을 파견하라고 해야겠군.",
+        "en": "[Ford]\nWhat!! To think the situation is like this now! This is serious. I must report to Lord Arga at once and request that the chivalry be dispatched.",
+        "pt": "[Ford]\nO quê!! A situação está assim agora?! Isto é grave. Preciso informar imediatamente o Sr. Arga e pedir o envio da Ordem dos Cavaleiros.",
+        "es": "[Ford]\n¡¡No puede ser!! ¡Si la situación es esta, es grave! Debo informar al señor Arga de inmediato para que envíe a la orden."
     },
     "SUstAw": {
-        "en": "[Ford]\nOh geez, look at this blood on the envelope!\nNow, it's all over my hands, too!",
-        "pt": "[Ford]\nCaramba, tem sangue no envelope!\nAgora também está nas minhas mãos!",
-        "es": "[Ford]\n¡Oh, cielos, mira esta sangre en el sobre!\n¡Ahora también está en mis manos!"
+        "ko": "[{0}]\n저기 잠시만요. 이걸 전해준 슬라티 씨가..",
+        "en": "[{0}]\nWait a moment. Mr. Slaty, who gave me this...",
+        "pt": "[{0}]\nEspere um pouco. O Sr. Slaty, que me entregou isto...",
+        "es": "[{0}]\nEspere un momento. El señor Slaty, que me entregó esto..."
     },
     "SkstAw": {
-        "en": "[Ford]\nMm, then... let's see...\n- *Rub, Rub* -",
-        "pt": "[Ford]\nHm, então... vamos ver...\n- *Farfalhar de papel* -",
-        "es": "[Ford]\nMm, entonces… veamos…\n*Frú, frú*"
+        "ko": "[포드]\n아! 그렇지. 슬라티는 어찌 된 건가? 왜 혼자 왔지?",
+        "en": "[Ford]\nAh! That's right. What happened to Slaty? Why did you come alone?",
+        "pt": "[Ford]\nAh! Isso mesmo. O que aconteceu com Slaty? Por que veio sozinho?",
+        "es": "[Ford]\n¡Ah! Cierto. ¿Qué ha pasado con Slaty? ¿Por qué has venido solo?"
     },
     "S0stAw": {
-        "en": "[Ford]\nOh, no! I can't believe this is happening!\nThis is bad! I must report to Sir Arga\nand get reinforcements\nto strike at them first!",
-        "pt": "[Ford]\nAh, não! Não acredito que isso está acontecendo!\nIsso é muito ruim! Preciso me apresentar ao Sir Arga\ne conseguir reforços\npara atacá-los primeiro!",
-        "es": "[Ford]\n¡Ay, no! ¡No puedo creer que esto esté pasando!\n¡Esto es malo! Debo informar a sirArga\ny conseguir refuerzos\n¡para atacarlos primero!"
+        "ko": "[{0}]\n고블린에게 습격을 받아서 슬라티 씨의 목숨이 위험해요.",
+        "en": "[{0}]\nHe was attacked by a Knife Goblin, and Mr. Slaty's life is in danger.",
+        "pt": "[{0}]\nEle foi atacado por Goblin de Adaga, e a vida do Sr. Slaty está em perigo.",
+        "es": "[{0}]\nLo atacó un Duende con cuchillo, y su vida corre peligro."
     },
     "TEstAw": {
-        "en": "[{0}]\nWait.\nWhat about Slati?",
-        "pt": "[{0}]\nEspere.\nE o Slati?",
-        "es": "[{0}]\nEspera.\n¿Y Slati?"
+        "ko": "[포드]\n이런.. 큰일이군.. 난 당장 이 편지를 아르가 님에게 보내 기사단 파견을 요청해야 하는데..",
+        "en": "[Ford]\nOh no.. This is serious.. I must send this letter to Lord Arga immediately and request a chivalry deployment..",
+        "pt": "[Ford]\nOra... isto é grave... Preciso enviar esta carta imediatamente ao Sr. Arga e solicitar o envio da Ordem dos Cavaleiros...",
+        "es": "[Ford]\nVaya... esto es grave... Yo debo enviar esta carta al señor Arga de inmediato para solicitar el despliegue de la orden..."
     },
     "TUstAw": {
-        "en": "[Ford]\nOh, yes.\nWhere is he?\nWhy did you come alone?",
-        "pt": "[Ford]\nAh, sim.\nCadê ele?\nPor que você veio só?",
-        "es": "[Ford]\nAh, sí.\n¿Dónde está?\n¿Por qué solo viniste tú?"
+        "ko": "[포드]\n어?! 그럼 자네는 지금 바로 슬라티를 도우러 가주게. 더 늦으면 목숨이 위험 하게 될 걸세.",
+        "en": "[Ford]\nAh?! Then you must go help Slaty right away. If it gets any later, his life will be in danger.",
+        "pt": "[Ford]\nAh?! Então vá agora mesmo ajudar Slaty. Se demorar mais, a vida dele estará em perigo.",
+        "es": "[Ford]\n¡Ah! Entonces ve ahora mismo a ayudar a Slaty. Si tardas más, su vida correrá peligro."
     },
     "TkstAw": {
-        "en": "[{0}]\nHe got attacked by goblins.\nHe's barely alive.",
-        "pt": "[{0}]\nEle foi atacado por goblins.\nEle está por um fio.",
-        "es": "[{0}]\nLo atacaron los duendes.\nApenas sigue con vida."
+        "ko": "[포드]\n하지만 고블린에게 당했다면.. 이미 늦었을지도..",
+        "en": "[Ford]\nBut if he was struck by a Knife Goblin.. it may already be too late..",
+        "pt": "[Ford]\nMas se ele foi ferido por Goblin de Adaga... talvez já seja tarde demais...",
+        "es": "[Ford]\nPero si lo hirió un Duende con cuchillo... quizá ya sea demasiado tarde..."
     },
     "T0stAw": {
-        "en": "[Ford]\nOh, no!\nBut I must send this letter\nto Sir Arga\nand ask for reinforcements.",
-        "pt": "[Ford]\nAh, não!\nMas eu preciso mandar esta carta\npara Sir Arga\ne pedir reforços.",
-        "es": "[Ford]\n¡Ay, no!\nPero debo enviar esta carta\na sirArga\ny pedir refuerzos."
+        "ko": "[{0}]\n왜죠?!?!",
+        "en": "[{0}]\nWhy?!?!",
+        "pt": "[{0}]\nPor quê?!?!",
+        "es": "[{0}]\n¡¿Por qué?!?!"
     },
     "UEstAw": {
-        "en": "[Ford]\nCould you go back to Slati\nand help him? He could die\nif we wait any longer.",
-        "pt": "[Ford]\nVocê pode voltar até Slati\ne ajudá-lo? Ele pode morrer\nse esperarmos mais.",
-        "es": "[Ford]\n¿Podrías volver con Slati\ny ayudarlo? Podría morir\nsi esperamos más."
+        "ko": "[포드]\n고블린은 무기에 독을 발라서 사용하기 때문에 고블린의 무기에 당한 상처는 해독 약이 들어간 치료제를 쓰지 않으면, 상처가 아물지 않지.",
+        "en": "[Ford]\nKnife Goblins coat their weapons with poison, so wounds made by a Knife Goblin's weapon will not heal unless treated with medicine containing an antidote.",
+        "pt": "[Ford]\nComo Goblin de Adaga usa veneno nas armas, os ferimentos causados por suas armas não cicatrizam se não for usado um remédio com antídoto.",
+        "es": "[Ford]\nLos Duende con cuchillo aplican veneno a sus armas, por eso las heridas causadas por sus armas no cierran si no se usa un tratamiento con antídoto."
     },
     "UUstAw": {
-        "en": "[Ford]\nBut then again, if he was attacked by goblins...\nhe can be a lost cause.",
-        "pt": "[Ford]\nMas se ele foi atacado por goblins...\npode ser uma causa perdida.",
-        "es": "[Ford]\nPero, de todos modos, si los duendes lo atacaron…\npuede ser una causa perdida."
+        "ko": "[포드]\n슬라티에게 빨간 포션을 먹였다니 알겠지만, 일반 포션으로도 상처가 잘 아물지 않는 것을 봤을 거야.",
+        "en": "[Ford]\nYou said you gave Slaty a Red Potion, so you must have seen that ordinary potions do not heal the wound properly.",
+        "pt": "[Ford]\nVocê disse que deu Poção Vermelha a Slaty, então deve ter visto que, mesmo com poções comuns, a ferida não cicatrizava direito.",
+        "es": "[Ford]\nDices que le diste una poción roja a Slaty, así que habrás visto que con pociones normales la herida tampoco cierra bien."
     },
     "UkstAw": {
-        "en": "[{0}]\nWhat do you mean?",
-        "pt": "[{0}]\nO que quer dizer com isso?",
-        "es": "[{0}]\n¿Qué quieres decir?"
+        "ko": "[포드]\n이런 보급 치료제가 다 떨어졌었군. 고블린 독 치료제는 프론테라 성당의 아서 사제가 만들 수 있다고 들었는데.. 지금 보급을 요청하기에는 시간이 너무 오래 걸릴 거야..",
+        "en": "[Ford]\nWe have run out of those medical supplies. I heard that the Knife Goblin poison remedy can be made by Priest Arthur at Prontera Church.. but requesting supplies now would take far too long..",
+        "pt": "[Ford]\nNossos medicamentos de suprimento acabaram. Ouvi dizer que o Sacerdote Arthur, da Catedral de Prontera, consegue preparar o antídoto contra o veneno de Goblin de Adaga... mas pedir suprimentos agora levaria tempo demais...",
+        "es": "[Ford]\nVaya, los suministros de tratamiento se han agotado. He oído que el sacerdote Arthur de la catedral de Prontera puede preparar un tratamiento contra el veneno de Duende con cuchillo... pero pedir suministros ahora llevaría demasiado tiempo."
     },
     "U0stAw": {
-        "en": "[Ford]\nGoblins dip their knives in poison.\nYou have to have an antidote\nfor their poison,\nor your injury will\nnever heal.",
-        "pt": "[Ford]\nGoblins mergulham as facas em veneno.\nÉ preciso ter um antídoto\npara o veneno deles\nou o ferimento\nnunca curará.",
-        "es": "[Ford]\nLos duendes mojan sus cuchillos en veneno.\nTienes que tener un antídoto\npara su veneno\no su herida\nnunca se curará."
+        "ko": "[포드]\n시간이 없으니 자네는 이 길로 프론테라 성당의 아서 사제에게 가주게. 사정을 설명하면, 도와줄 거야. 나는 슬라티가 목숨 걸고 알려 온 정보로 기사단 파견을 요청하겠네.",
+        "en": "[Ford]\nThere is no time, so go straight to Priest Arthur at Prontera Church. Explain the circumstances, and he will help you. I will request a chivalry deployment using the information Slaty risked his life to deliver.",
+        "pt": "[Ford]\nNão há tempo, então vá direto até o Sacerdote Arthur da Catedral de Prontera. Se explicar a situação, ele ajudará. Eu solicitarei o envio da Ordem dos Cavaleiros com as informações que Slaty arriscou a vida para trazer.",
+        "es": "[Ford]\nNo hay tiempo, así que ve directamente a la catedral de Prontera y busca al sacerdote Arthur. Si le explicas la situación, te ayudará. Yo solicitaré el despliegue de la orden con la información que Slaty nos trajo arriesgando su vida."
     },
     "VEstAw": {
-        "en": "[Ford]\nI'm sure you know this\nif you already used potions on him\nthat his injuries can't be healed by the usual means.",
-        "pt": "[Ford]\nSe você já usou poções nele,\ntenho certeza de que sabe que\nos ferimentos não podem ser curados por meios comuns.",
-        "es": "[Ford]\nSeguramente sabes\nque, si ya usaste pociones en él,\nsus heridas no pueden curarse por los medios habituales."
+        "ko": "[{0}]\n걱정 마세요. 제가 가보겠습니다.",
+        "en": "[{0}]\nDon't worry. I'll go.",
+        "pt": "[{0}]\nNão se preocupe. Eu irei.",
+        "es": "[{0}]\nNo se preocupe. Iré."
     },
     "VUstAw": {
-        "en": "[Ford]\nFather Arthur\nin Prontera Church\nhas the antidote,\nbut that's\nfar away.",
-        "pt": "[Ford]\nO Padre Arthur\nna Igreja de Prontera\ntem o antídoto,\nmas fica bem\nlonge daqui.",
-        "es": "[Ford]\nEl padre Arthur\nde la iglesia de Prontera\ntiene el antídoto,\npero queda\nmuy lejos."
+        "ko": "프론테라 성당의 아서 사제에게 사정을 설명하고 고블린 독 치료제를 얻자.",
+        "en": "Explain the situation to Priest Arthur at Prontera Church and obtain the Knife Goblin poison remedy.",
+        "pt": "Explique a situação ao Sacerdote Arthur da Catedral de Prontera e obtenha o antídoto contra o veneno de Goblin de Adaga.",
+        "es": "Explica la situación al sacerdote Arthur de la catedral de Prontera y consigue un tratamiento contra el veneno de Duende con cuchillo."
     },
     "VkstAw": {
-        "en": "[Ford]\nYou'd better take off as soon as you can.\nI'll use this letter to dispatch\nsome forces to the goblin village.",
-        "pt": "[Ford]\nÉ melhor você ir o mais rápido possível.\nVou usar esta carta para enviar\nforças para a aldeia dos goblins.",
-        "es": "[Ford]\nSerá mejor que vayas tan pronto como puedas.\nUsaré esta carta para enviar\nalgunas fuerzas a la aldea de los duendes."
+        "ko": "[포드]\n고블린 독 치료제는 프론테라 성당의 아서 사제가 만들 수 있다네.",
+        "en": "[Ford]\nThe Knife Goblin poison remedy can be made by Priest Arthur at Prontera Church.",
+        "pt": "[Ford]\nO Sacerdote Arthur da Catedral de Prontera consegue preparar o antídoto contra o veneno de Goblin de Adaga.",
+        "es": "[Ford]\nEl sacerdote Arthur de la catedral de Prontera puede preparar un tratamiento contra el veneno de Duende con cuchillo."
     },
     "V0stAw": {
-        "en": "[{0}]\nI will.\n- I must go to -\n- Father Arthur in Prontera Church. -",
-        "pt": "[{0}]\nEu vou.\n- Preciso ir até o -\n- Padre Arthur na Igreja de Prontera. -",
-        "es": "[{0}]\nLo haré.\n(Debo ir\na buscar al padre Arthur de la iglesia de Prontera)."
+        "ko": "[포드]\n아서 사제는 만나 본 겐가? 그럼 어서 치료제를 만들어서 슬라티에게 가져다 주게.",
+        "en": "[Ford]\nHave you met Priest Arthur? Then hurry and make the remedy, then bring it to Slaty.",
+        "pt": "[Ford]\nVocê já encontrou o Sacerdote Arthur? Então apresse-se, faça o antídoto e leve-o a Slaty.",
+        "es": "[Ford]\n¿Ya has visto al sacerdote Arthur? Entonces prepara el tratamiento cuanto antes y llévaselo a Slaty."
     },
     "WEstAw": {
-        "en": "[Ford]\nYou can get Slati's treatment\nfrom Father Arthur\nin Prontera Church.\nPlease hurry.",
-        "pt": "[Ford]\nVocê pode obter o tratamento de Slati\ncom o padre Arthur\nna Igreja de Prontera.\nPor favor, apresse-se.",
-        "es": "[Ford]\nPuedes conseguir el tratamiento para Slati\ndel padre Arthur\nen la iglesia de Prontera.\nPor favor, date prisa."
+        "ko": "[포드]\n오랜만일쎄.. 전승을 하고 나서 그런지. 더욱 멋져 보이는군. 슈링크 스킬이라면, 내가 슬라티를 대신해서 다시 알려주지.",
+        "en": "[Ford]\nIt has been a while.. Perhaps because you have transcended, you look even more impressive. If it is the Shrink skill, I will teach it to you again in Slaty's place.",
+        "pt": "[Ford]\nHá quanto tempo... Talvez por ter transcendido, você parece ainda mais impressionante. Quanto à habilidade Submissão, eu a ensinarei novamente no lugar de Slaty.",
+        "es": "[Ford]\nHa pasado mucho tiempo... Tal vez sea por la trascendencia, pero te ves aún más imponente. Si se trata de la habilidad Encoger, yo te la enseñaré de nuevo en lugar de Slaty."
     },
     "WUstAw": {
-        "en": "[Ford]\nHave you talked to Father Arthur?\nPlease get the antidote from him\nfor Slati as soon as you can.",
-        "pt": "[Ford]\nVocê falou com o Padre Arthur?\nPor favor, pegue o antídoto com ele\npara Slati o mais rápido possível.",
-        "es": "[Ford]\n¿Hablaste con el padre Arthur?\nConsigue el antídoto\npara Slati tan pronto como puedas."
+        "ko": "[포드]\n하하하 그럼 또 보세.",
+        "en": "[Ford]\nHahaha, then we shall meet again.",
+        "pt": "[Ford]\nHahaha, então nos vemos de novo.",
+        "es": "[Ford]\nJa, ja, ja. Entonces nos veremos de nuevo."
     },
     "WkstAw": {
-        "en": "[Ford]\nGood job getting the antidote.\nNow, please go\nsave Slati.",
-        "pt": "[Ford]\nVocê conseguiu o antídoto, bom trabalho.\nAgora, por favor, vá\nsalvar o Slati.",
-        "es": "[Ford]\nBuen trabajo consiguiendo el antídoto.\nAhora ve\na salvar a Slati."
+        "ko": "[포드]\n오랜만일세. 바쁘더라도 종종 찾아오게나. 허허 정말 보면 볼수록 탐나는 인재야.",
+        "en": "[Ford]\nIt has been a while. Come visit from time to time, even if you are busy. Hoho, truly, the more I see you, the more promising you seem.",
+        "pt": "[Ford]\nHá quanto tempo. Mesmo que esteja ocupado, venha me visitar de vez em quando. Haha, quanto mais olho para você, mais vejo um talento desejável.",
+        "es": "[Ford]\nHa pasado mucho tiempo. Aunque estés ocupado, ven a visitarnos de vez en cuando. Ja, ja, cuanto más te veo, más valioso me pareces."
     },
     "W0stAw": {
-        "en": "[Ford]\nYou gave the antidote\nto Slati.\nGood job!\nAnd thank you.",
-        "pt": "[Ford]\nVocê deu o antídoto\nao Slati.\nBom trabalho!\nE obrigado.",
-        "es": "[Ford]\nLe diste el antídoto\na Slati.\n¡Buen trabajo!\nY gracias."
+        "ko": "[포드]\n난 지금 중요한 일로 신경이 곤두서 있으니 귀찮게 하지 말아주게.",
+        "en": "[Ford]\nI am on edge due to an important matter right now, so please do not bother me.",
+        "pt": "[Ford]\nEstou tenso por causa de um assunto importante, então por favor não me incomode.",
+        "es": "[Ford]\nAhora mismo estoy muy tenso por un asunto importante, así que no me molestes."
     },
     "XEstAw": {
-        "en": "[Ford]\nIt's a shame\nthat such an honorable warrior\nlike you isn't in my group.",
-        "pt": "[Ford]\nÉ uma pena\nque um guerreiro tão honrado\ncomo você não esteja em meu grupo.",
-        "es": "[Ford]\nEs una pena\nque un guerrero tan honorable\ncomo tú no esté en mi grupo."
+        "ko": "[포드]\n중요한 일로 신경이 곤두서 있으니 방해하지 말아주시겠습니까?",
+        "en": "[Ford]\nI am on edge due to an important matter, so would you please not disturb me?",
+        "pt": "[Ford]\nEstou tenso por causa de um assunto importante, então poderia não me atrapalhar?",
+        "es": "[Ford]\nEstoy muy tenso por un asunto importante, así que le agradecería que no me interrumpiera."
     },
     "XUstAw": {
-        "en": "[Ford]\nIf you're interested\nin joining my group,\ncome to me anytime.\nYou're always welcome to join us.\nNow, see you later.",
-        "pt": "[Ford]\nSe tiver interesse\nem se juntar ao meu grupo,\nfale comigo a qualquer momento.\nVocê é alguém sempre bem-vindo a se juntar a nós.\nA gente se vê.",
-        "es": "[Ford]\nSi te interesa\nunirte a mi grupo,\nacude a mí cuando quieras.\nSiempre tendrás las puertas abiertas.\nHasta luego."
-    },
-    "XkstAw": {
-        "en": "[Ford]\nOh, no!\nBut I must send this letter\nto Sir Arga\nand get reinforcements.",
-        "pt": "[Ford]\nAh, não!\nMas eu preciso mandar esta carta\npara Sir Arga\ne conseguir reforços.",
-        "es": "[Ford]\n¡Ay, no!\nPero debo enviar esta carta\na sirArga\ny conseguir refuerzos."
-    },
-    "X0stAw": {
-        "en": "[Ford]\nPlease stop bothering me.\nI have to focus on\nsomething very important.",
-        "pt": "[Ford]\nPare de me incomodar.\nTenho que me concentrar em\nalgo muito importante.",
-        "es": "[Ford]\nDeja de molestarme.\nTengo que concentrarme en\nalgo muy importante."
-    },
-    "YEstAw": {
+        "ko": "병사",
         "en": "Soldier",
         "pt": "Soldado",
         "es": "Soldado"
     },
+    "XkstAw": {
+        "ko": "[병사]\n으윽... 다리... 다리가...",
+        "en": "[Soldier]\nUgh... my leg... my leg...",
+        "pt": "[Soldado]\nUgh... minha perna... minha perna...",
+        "es": "[Soldado]\nUgh... mi pierna... la pierna..."
+    },
+    "X0stAw": {
+        "ko": "[{0}]\n아니 무슨 일이세요?",
+        "en": "[{0}]\nWhat happened to you?",
+        "pt": "[{0}]\nO que aconteceu com você?",
+        "es": "[{0}]\n¿Pero qué ha ocurrido?"
+    },
+    "YEstAw": {
+        "ko": "[병사]\n게펜으로 보고를 하러 가다가 고블린에게 습격을 받았어. 고블린이 마을로 몰려가고 있는데.. 으윽..",
+        "en": "[Soldier]\nI was on my way to report to Geffen when I was attacked by a Knife Goblin. The Knife Goblins are heading toward the village.. ugh..",
+        "pt": "[Soldado]\nEu estava indo relatar a Geffen quando fui atacado por Goblin de Adaga. Goblin de Adaga está avançando em direção à cidade... Ugh...",
+        "es": "[Soldado]\nIba a informar a Geffen cuando me atacó un Duende con cuchillo. Los Duende con cuchillo se dirigen al pueblo... ugh..."
+    },
     "YUstAw": {
-        "en": "[Soldier]\nUgh...\nMy leg... My leg...",
-        "pt": "[Soldado]\nUgh...\nMinha perna... Minha perna...",
-        "es": "[Recluta]\nUf…\nMi pierna… Mi pierna…"
+        "ko": "[{0}]\n그럼 아저씨가 슬라티 씨?",
+        "en": "[{0}]\nThen are you Mr. Slaty?",
+        "pt": "[{0}]\nEntão o senhor é o Sr. Slaty?",
+        "es": "[{0}]\nEntonces, ¿usted es el señor Slaty?"
     },
     "YkstAw": {
-        "en": "[{0}]\nOh no, what happened?",
-        "pt": "[{0}]\nAh, não, o que aconteceu?",
-        "es": "[{0}]\nOh, no, ¿qué pasó?"
+        "ko": "[슬라티]\n그래 내가 슬라티야. 혹시 날 아나?",
+        "en": "[Slaty]\nYes, I am Slaty. Do you know me?",
+        "pt": "[Slaty]\nSim, eu sou Slaty. Por acaso me conhece?",
+        "es": "[Slaty]\nSí, yo soy Slaty. ¿Acaso me conoces?"
     },
     "Y0stAw": {
-        "en": "[Soldier]\nI got attacked by goblins\nwhile on my way to\nreport to Ford in Geffen.\nThese goblins are flocking\nto our city even as we speak!",
-        "pt": "[Soldado]\nFui atacado por goblins\nquando estava a caminho para me\napresentar a Ford em Geffen.\nEsses goblins estão indo em direção à\nnossa cidade neste exato momento!",
-        "es": "[Recluta]\nLos duendes me atacaron\nmientras me dirigía a\ninformar a Ford en Geffen.\n¡Estos duendes están invadiendo\nnuestra ciudad mientras hablamos!"
+        "ko": "[{0}]\n포드 씨에게 부탁을 받았어요.",
+        "en": "[{0}]\nMr. Ford asked me to find you.",
+        "pt": "[{0}]\nO Sr. Ford me pediu ajuda.",
+        "es": "[{0}]\nEl señor Ford me pidió que viniera."
     },
     "ZEstAw": {
-        "en": "[{0}]\nAre you Slati?",
-        "pt": "[{0}]\nVocê é o Slati?",
-        "es": "[{0}]\n¿Eres Slati?"
+        "ko": "[슬라티]\n한시가 급한데 정말 다행이군. 보고서와 기사단 출정 요청서를 자네에게 맡길 테니 어서 포드에게 전해주게.",
+        "en": "[Slaty]\nTime is of the essence, so this is truly fortunate. I will entrust the report and chivalry deployment request to you, so hurry and deliver them to Ford.",
+        "pt": "[Slaty]\nCada momento conta. Que sorte. Vou confiar a você o relatório e a solicitação de mobilização da Ordem dos Cavaleiros, então leve-os logo a Ford.",
+        "es": "[Slaty]\nCada segundo cuenta, así que es una suerte. Te confiaré el informe y la solicitud de despliegue de la orden; llévaselos enseguida a Ford."
     },
     "ZUstAw": {
-        "en": "[Slati]\nYes, I'm Slati.\nDo I know you?",
-        "pt": "[Slati]\nSim, eu sou o Slati.\nA gente se conhece?",
-        "es": "[Slati]\nSí, soy Slati.\n¿Te conozco?"
+        "ko": "[슬라티]\n이걸 상부에 전하고 기사단을 보내려면 시간이 부족할 거야. 그러니 어서.. 빨리..",
+        "en": "[Slaty]\nThere won't be enough time to send this to headquarters and dispatch the chivalry. So hurry.. quickly..",
+        "pt": "[Slaty]\nNão haverá tempo suficiente para levar isto aos superiores e enviar a Ordem dos Cavaleiros. Então, depressa... rápido...",
+        "es": "[Slaty]\nNo habrá tiempo suficiente para llevar esto a los superiores y enviar a la orden. Así que date prisa... rápido..."
     },
     "ZkstAw": {
-        "en": "[{0}]\nCaptain Ford sent me.",
-        "pt": "[{0}]\nO Capitão Ford me enviou.",
-        "es": "[{0}]\nMe envía el capitán Ford."
+        "ko": "[{0}]\n그러면 슬라티 씨는 지금 이 상태로 어쩌시려고요?",
+        "en": "[{0}]\nThen what are you going to do in this condition, Mr. Slaty?",
+        "pt": "[{0}]\nE o que o Sr. Slaty vai fazer nesse estado?",
+        "es": "[{0}]\nEntonces, señor Slaty, ¿qué piensa hacer usted en este estado?"
     },
     "Z0stAw": {
-        "en": "[Slati]\nDid he? What a relief!\nThen, let me give you my report\nand an army mobilization request.\nPlease bring them to Ford now.",
-        "pt": "[Slati]\nEle fez isso? Que alívio!\nEntão, vou lhe dar meu relatório\ne uma solicitação de mobilização do exército.\nLeve-os para Ford agora mesmo.",
-        "es": "[Slati]\n¿De verdad? ¡Qué alivio!\nEntonces, déjame darte mi informe\ny una solicitud de movilización del ejército.\nLlévaselos a Ford ahora mismo."
+        "ko": "[슬라티]\n난 괜찮아. 으윽윽.. 쿨럭..",
+        "en": "[Slaty]\nI'll be fine. Ughh.. cough..",
+        "pt": "[Slaty]\nEu estou bem. Ugh... cof...",
+        "es": "[Slaty]\nEstoy bien. Ugh... cof..."
     },
     "aEstAw": {
-        "en": "[Slati]\nFord needs time to communicate\nwith his superiors and mobilize\nour forces. So, please hurry...",
-        "pt": "[Slati]\nFord precisa de tempo para se comunicar\ncom os superiores e mobilizar\nnossas forças. Então, por favor, corra...",
-        "es": "[Slati]\nFord necesita tiempo para comunicarse\ncon sus superiores y movilizar\nnuestras fuerzas. Así que date prisa…"
+        "ko": "[{0}]\n정말 괜찮으세요?",
+        "en": "[{0}]\nAre you really all right?",
+        "pt": "[{0}]\nTem certeza de que está bem?",
+        "es": "[{0}]\n¿De verdad está bien?"
     },
     "aUstAw": {
-        "en": "[{0}]\nBut what about you?\nYou can't stay here like this.",
-        "pt": "[{0}]\nMas... e você?\nVocê não pode ficar aqui assim.",
-        "es": "[{0}]\nPero, ¿y tú?\nNo puedes quedarte aquí en este estado."
+        "ko": "[슬라티]\n하하.. 면목이 없군. 쿨럭.. 난 걱정 말고 어서 포드에게 보고서와 기사단 출정 요청서를..",
+        "en": "[Slaty]\nHaha.. I am ashamed. Cough.. Don't worry about me, just hurry and take the report and chivalry deployment request to Ford..",
+        "pt": "[Slaty]\nHaha... que vergonha. Cof... Não se preocupe comigo e leve logo o relatório e a solicitação de mobilização da Ordem dos Cavaleiros a Ford...",
+        "es": "[Slaty]\nJa, ja... qué vergüenza. Cof... No te preocupes por mí y lleva cuanto antes a Ford el informe y la solicitud de despliegue..."
     },
     "akstAw": {
-        "en": "[Slati]\nI'm fine...\nUggh!",
-        "pt": "[Slati]\nEstou bem...\nUggh!",
-        "es": "[Slati]\nEstoy bien…\n¡Uggh!"
+        "ko": "[{0}]\n.........",
+        "en": "[{0}]\n.........",
+        "pt": "[{0}]\n.........",
+        "es": "[{0}]\n........."
     },
     "a0stAw": {
-        "en": "[{0}]\nAre you sure?",
-        "pt": "[{0}]\nTem certeza?",
-        "es": "[{0}]\n¿Lo dices en serio?"
+        "ko": "[슬라티]\n하하.. 걱정 말라니까.. 그거 피가 좀 많이 날 뿐이야..",
+        "en": "[Slaty]\nHaha.. I told you not to worry.. It's just bleeding a bit heavily..",
+        "pt": "[Slaty]\nHaha... eu disse para não se preocupar... é só que está sangrando um pouco demais...",
+        "es": "[Slaty]\nJa, ja... te digo que no te preocupes... Solo sangra un poco más de la cuenta..."
     },
     "bEstAw": {
-        "en": "[Slati]\nHah hah... I'm sure...\nUrrggh... Aaaah... Aaaahh!\nMy leg! Aaah! My leeehhhgggg!",
-        "pt": "[Slati]\nHaha... Tenho certeza...\nUrrggh... Aaaah... Aaaahh!\nMinha perna! Aaah! Minha peeeeehhhrna!",
-        "es": "[Slati]\nJa, ja… De seguro…\nArggh… Ahhhh… ¡Ahhhh!\n¡Mi pierna! ¡Ahhh! ¡Mi pieeerrrnaaaa!"
+        "ko": "[{0}]\n.............",
+        "en": "[{0}]\n.............",
+        "pt": "[{0}]\n.............",
+        "es": "[{0}]\n............."
     },
     "bUstAw": {
-        "en": "[{0}]\n...",
-        "pt": "[{0}]\n...",
-        "es": "[{0}]\n…"
+        "ko": "- 의식을 잃은 것 같다. 상황이 급해 보이지만, 일단 슬라티 씨를 살리고 봐야겠다. 응급조치로 빨간 포션을 구해오자.",
+        "en": "- He seems to have lost consciousness. The situation looks urgent, but first, I must save Mr. Slaty. Let's bring a Red Potion as first aid.",
+        "pt": "- Parece que ele perdeu a consciência. A situação parece urgente, mas antes é preciso salvar o Sr. Slaty. Traga uma Poção Vermelha para primeiros socorros.",
+        "es": "- Parece que ha perdido el conocimiento. La situación parece urgente, pero primero tendré que salvar al señor Slaty. Consigamos una poción roja como primeros auxilios."
     },
     "bkstAw": {
-        "en": "[Slati]\nHah hah. Don't worry--arrgh!\nOWWW!\n*Gurgle*",
-        "pt": "[Slati]\nHaha. Não se preocupe... arrgh!\nAAAAIIII!\n*Gorgolejo*",
-        "es": "[Slati]\nJa, ja. ¡No te preocupes… arggh!\n¡AYYYY!\n*Glug*"
+        "ko": "- 기절한 슬라티 씨 입과 상처에 빨간 포션을 부어줬다.",
+        "en": "- You poured the Red Potion you brought into the unconscious Mr. Slaty's mouth and onto his wound.",
+        "pt": "- Você despejou a Poção Vermelha na boca e no ferimento do Sr. Slaty, que estava desmaiado.",
+        "es": "- Vertiste una poción roja en la boca y la herida del señor Slaty, que estaba inconsciente."
     },
     "b0stAw": {
-        "en": "[Slati]\nBlood? Waah!\nOh, my! Am I dying?\nLook at this blood! Boohoo!",
-        "pt": "[Slati]\nSangue? Aaah!\nAh, meu Deus! Estou morrendo?\nOlhe para esse sangue! Aaaagh!",
-        "es": "[Slati]\n¿Sangre? ¡Buaaa!\n¡Ay, no! ¿Me estoy muriendo?\n¡Mira esta sangre! ¡Búúú!"
+        "ko": "[슬라티]\n으.. 윽..",
+        "en": "[Slaty]\nU.. ugh..",
+        "pt": "[Slaty]\nUgh... ugh...",
+        "es": "[Slaty]\nU... ugh..."
     },
     "cEstAw": {
-        "en": "[{0}]\n... ...",
-        "pt": "[{0}]\n... ...",
-        "es": "[{0}]\n…"
+        "ko": "빨간 포션 때문인지 슬라티 씨의 상태는 좋아졌지만, 출혈은 여전하다. 의식을 차린 건가?",
+        "en": "Perhaps because of the Red Potion, Mr. Slaty's condition has improved, but the bleeding continues. Has he regained consciousness?",
+        "pt": "Talvez por causa da Poção Vermelha, o estado do Sr. Slaty melhorou, mas o sangramento continua. Ele recobrou a consciência?",
+        "es": "Quizá por la poción roja, el estado del señor Slaty ha mejorado, pero sigue sangrando. ¿Ha recuperado el conocimiento?"
     },
     "cUstAw": {
-        "en": "[{0}]\n- I should get some -\n- red potion for him. -",
-        "pt": "[{0}]\n- Eu deveria pegar uma -\n- poção vermelha para ele. -",
-        "es": "[{0}]\n(Debería conseguir\nuna Poción roja para él)."
+        "ko": "[슬라티]\n이제 그만.. 그 포션 덕에 바로 어떻게 되지는 않을 거네.. 어서 내가 시키는 대로 포드에게 보고서와 기사단 출정 요청서를 가져가게.",
+        "en": "[Slaty]\nEnough now.. Thanks to that potion, I won't die right away.. Hurry and do as I said. Take the report and chivalry deployment request to Ford.",
+        "pt": "[Slaty]\nChega... graças a essa poção, não vou morrer imediatamente... Agora vá, como eu mandei, e leve o relatório e a solicitação de mobilização da Ordem dos Cavaleiros a Ford.",
+        "es": "[Slaty]\nYa basta... Gracias a esa poción, no me ocurrirá nada de inmediato... Ve cuanto antes y lleva a Ford el informe y la solicitud de despliegue, tal como te indiqué."
     },
     "ckstAw": {
-        "en": "[{0}]\nHere, I brought some potion for you.\nHere, drink this.",
-        "pt": "[{0}]\nEu trouxe uma poção para você.\nTome, beba isso.",
-        "es": "[{0}]\nToma, te traje una poción.\nToma, bebe esto."
+        "ko": "[{0}]\n그래도..",
+        "en": "[{0}]\nBut still..",
+        "pt": "[{0}]\nMas...",
+        "es": "[{0}]\nPero..."
     },
     "c0stAw": {
-        "en": "[Slati]\nAww... Thanks...\n*Gulp, Gulp!*",
-        "pt": "[Slati]\nAh... Obrigado...\n*Gulp, Gulp!*",
-        "es": "[Slati]\nAyyy… Gracias…\n*¡Glu, glu!*"
+        "ko": "[슬라티]\n어서 가게. 이건 내 목숨 하나를 구한다고 해결되는 문제가 아니야. 더 큰 희생이 발생할 수도 있다고.",
+        "en": "[Slaty]\nGo quickly. This is not a problem that can be solved by saving one life, mine. There may be even greater casualties.",
+        "pt": "[Slaty]\nVá logo. Este não é um problema que se resolve salvando apenas minha vida. Sacrifícios maiores podem ocorrer.",
+        "es": "[Slaty]\nVe. Esto no es un problema que se resuelva salvando una sola vida. Podrían producirse sacrificios mucho mayores."
     },
     "dEstAw": {
-        "en": "[{0}]\n- Colors have returned to his face, -\n- but he's still bleeding. -",
-        "pt": "[{0}]\n- A cor voltou ao rosto dele, -\n- mas ainda está sangrando. -",
-        "es": "[{0}]\n(Su rostro recupera el color,\npero sigue sangrando)."
+        "ko": "[{0}]\n슬라티 씨 제가 꼭 다시 올 테니까. 버티고 계셔야 해요.",
+        "en": "[{0}]\nMr. Slaty, I promise I'll come back. Please hang on.",
+        "pt": "[{0}]\nSr. Slaty, eu voltarei sem falta. Aguente firme.",
+        "es": "[{0}]\nSeñor Slaty, volveré sin falta. Tiene que resistir."
     },
     "dUstAw": {
-        "en": "[Slati]\nForget it.\nIt's too late for me.\nJust take my letter\nand go.",
-        "pt": "[Slati]\nEsqueça.\nÉ tarde demais para mim.\nSó pegue minha carta\ne vá embora.",
-        "es": "[Slati]\nOlvídalo.\nEs demasiado tarde para mí.\nSolo toma mi carta\ny vete."
+        "ko": "[슬라티]\n말만 들어도 고맙군. 그러니 어서 가게. 쿨럭.. 쿨럭..",
+        "en": "[Slaty]\nI am grateful just to hear you say that. So hurry and go. Cough.. cough..",
+        "pt": "[Slaty]\nSó de ouvir isso, já agradeço. Então vá logo. Cof... cof...",
+        "es": "[Slaty]\nSolo oír eso ya me reconforta. Así que ve. Cof... cof..."
     },
     "dkstAw": {
-        "en": "[{0}]\nBut...",
-        "pt": "[{0}]\nMas...",
-        "es": "[{0}]\nPero…"
+        "ko": "- 피가 묻은 보고서와 기사단 출정 요청서 받았다.",
+        "en": "- Received the bloodstained report and chivalry deployment request.",
+        "pt": "- Recebeu o relatório manchado de sangue e a solicitação de mobilização da Ordem dos Cavaleiros.",
+        "es": "- Has recibido el informe manchado de sangre y la solicitud de despliegue de la orden."
     },
     "d0stAw": {
-        "en": "[Slati]\nJust go!\nThat letter is more important\none man's life.\nPlease. Go.",
-        "pt": "[Slati]\nVá embora!\nEsta carta é mais importante\nque a vida de um homem.\nPor favor. Vá embora.",
-        "es": "[Slati]\n¡Vete!\nEsa carta es más importante\nque la vida de un hombre.\nPor favor. Ve."
+        "ko": "- 슬라티 씨는 의식을 잃은 것 같다. 일단 슬라티 씨를 살리고 봐야겠다. 응급조치로 빨간 포션을 구해오자.",
+        "en": "- Mr. Slaty seems to have lost consciousness. First, I must save Mr. Slaty. Let's bring a Red Potion as first aid.",
+        "pt": "- O Sr. Slaty parece ter perdido a consciência. Antes de tudo, é preciso salvar o Sr. Slaty. Traga uma Poção Vermelha para primeiros socorros.",
+        "es": "- El señor Slaty parece haber perdido el conocimiento. Primero tendré que salvarlo. Consigamos una poción roja como primeros auxilios."
     },
     "eEstAw": {
-        "en": "[{0}]\nI'll come back.\nYou just hang in there.",
-        "pt": "[{0}]\nEu voltarei.\nAguente firme.",
-        "es": "[{0}]\nVolveré.\nSolo resiste."
+        "ko": "[슬라티]\n어서 가! 어서 가서 포드에게 전해주게.",
+        "en": "[Slaty]\nGo quickly! Hurry and tell Ford.",
+        "pt": "[Slaty]\nVá logo! Vá logo e entregue a Ford.",
+        "es": "[Slaty]\n¡Ve! Ve enseguida y entrégaselo a Ford."
     },
     "eUstAw": {
-        "en": "[Slati]\nYou're so kind.\nNow, go.\n*Cough, Cough!*",
-        "pt": "[Slati]\nVocê é muito gentil.\nAgora, vá.\n*Cof, cof!*",
-        "es": "[Slati]\nEres muy amable.\nAhora vete.\n*¡Cof, cof!*"
+        "ko": "[슬라티]\n끄으응..",
+        "en": "[Slaty]\nUghhh..",
+        "pt": "[Slaty]\nUrrgh...",
+        "es": "[Slaty]\nUuuugh..."
     },
     "ekstAw": {
-        "en": "[{0}]\n- I received a letter enclosed in a bloody envelope. -",
-        "pt": "[{0}]\n- Recebi uma carta em um envelope sujo de sangue. -",
-        "es": "[{0}]\n(Recibí una carta en un sobre ensangrentado)."
+        "ko": "- 슬라티 씨는 그 사이 고블린 독이 온몸에 퍼졌는지 정신을 차리지 못하고 있다.",
+        "en": "- In the meantime, Mr. Slaty seems unable to regain consciousness, as the Knife Goblin poison has spread throughout his body.",
+        "pt": "- Nesse meio tempo, o veneno de Goblin de Adaga parece ter se espalhado por todo o corpo do Sr. Slaty, e ele não consegue recobrar a consciência.",
+        "es": "- Parece que, mientras tanto, el veneno de Duende con cuchillo se ha extendido por todo el cuerpo del señor Slaty, y no recupera la conciencia."
     },
     "e0stAw": {
-        "en": "[Slati]\nAww... Slati's leg... Ow, oww!\nSlati's legg... *Shiver*\n*Gurgle!*",
-        "pt": "[Slati]\nAah... A perna de Slati... Ou, ouu!\nA perna de Slati... *Brrr*\n*Gorgolejo!*",
-        "es": "[Slati]\nAyyy… La pierna de Slati… ¡Ay, ayyy!\nLa pierna de Slati… *Se estremece*\n*Glug, glug*"
+        "ko": "- 가지고 온 치료제를 슬라티 씨의 입에 조금씩 흘려 넣었다.",
+        "en": "- You slowly poured the remedy you brought into Mr. Slaty's mouth.",
+        "pt": "- Você derramou aos poucos o antídoto trazido na boca do Sr. Slaty.",
+        "es": "- Vertiste poco a poco en la boca del señor Slaty el tratamiento que trajiste."
     },
     "fEstAw": {
-        "en": "[Slati]\nWhat are you still doing here?\nGo!\nTake my letter to\nFord already!",
-        "pt": "[Slati]\nO que você ainda está fazendo aqui?\nVá!\nLeve minha carta para o\nFord!",
-        "es": "[Slati]\n¿Qué haces aquí todavía?\n¡Ve!\nLleva mi carta a\nFord. ¡Ya!"
+        "ko": "[슬라티]\n꿀꺽꿀꺽..",
+        "en": "[Slaty]\nGulp, gulp..",
+        "pt": "[Slaty]\nGlub, glub...",
+        "es": "[Slaty]\nGlup, glup..."
     },
     "fUstAw": {
-        "en": "[Slati]\n*Groan...*\n...",
-        "pt": "[Slati]\n*Groan...*\n...",
-        "es": "[Slati]\n*Grrr…*\n…"
+        "ko": "- 치료제의 효능이 다 하기 전에 도착했는지 슬라티씨의 표정이 점차 편해지는 것이 보인다.",
+        "en": "- It seems you arrived before the remedy lost its effect, as Mr. Slaty's expression gradually relaxes.",
+        "pt": "- Como você chegou antes que o efeito do antídoto acabasse, a expressão do Sr. Slaty parece ficar gradualmente mais tranquila.",
+        "es": "- Parece que llegaste antes de que el efecto del tratamiento se agotara, pues la expresión del señor Slaty se relaja poco a poco."
     },
     "fkstAw": {
-        "en": "[{0}]\n- Slati must have been attacked -\n- by goblins again. -\n- He has more injuries on him, -\n- and he's barely conscious. -",
-        "pt": "[{0}]\n- Slati deve ter sido atacado -\n- por goblins novamente. -\n- Ele tem mais ferimentos -\n- e mal está consciente. -",
-        "es": "[{0}]\n(Slati debe haber sido atacado\npor duendes otra vez.\nTiene más heridas\ny apenas está consciente."
+        "ko": "[슬라티]\n으으음~~\n크으윽...\n어떻게 된 거지...\n내가 살아 있는 건가...?\n!!!!?",
+        "en": "[Slaty]\nUuumm~~\nKrrgh...\nWhat happened...\nAm I alive...?\n!!!!?",
+        "pt": "[Slaty]\nUuuum~~\nUrgh...\nO que aconteceu...\nEstou vivo...?\n!!!!?",
+        "es": "[Slaty]\nMmmmmm~~\nUgh...\n¿Qué ha pasado...\nEstoy vivo...?\n!!!!?"
     },
     "f0stAw": {
-        "en": "[Slati]\nUgh...\n...",
-        "pt": "[Slati]\nUgh...\n...",
-        "es": "[Slati]\nUf…\n…"
+        "ko": "[슬라티]\n아니 자네는?!",
+        "en": "[Slaty]\nWait, is that you?!",
+        "pt": "[Slaty]\nOra, você?!",
+        "es": "[Slaty]\n¡Pero tú eres...?!"
     },
     "gEstAw": {
-        "en": "[{0}]\n- Slati must have been attacked -\n- by goblins again. -\n- He has more injuries on him, -\n- and he's barely conscious. -\n- He needs medicine now! -",
-        "pt": "[{0}]\n- Slati deve ter sido atacado -\n- por goblins novamente. -\n- Ele tem mais ferimentos -\n- e mal está consciente. -\n- Ele precisa de remédios agora! -",
-        "es": "[{0}]\n(Slati debe haber sido atacado\npor duendes otra vez.\nTiene más heridas\ny apenas está consciente.\n¡Necesita medicina ya!"
+        "ko": "[슬라티]\n설마?! 자네가 날 구해준 겐가?",
+        "en": "[Slaty]\nCould it be?! Were you the one who saved me?",
+        "pt": "[Slaty]\nNão me diga?! Foi você que me salvou?",
+        "es": "[Slaty]\n¡¿Acaso...?! ¿Tú me salvaste?"
     },
     "gUstAw": {
-        "en": "[Slati]\n...\n...",
-        "pt": "[Slati]\n...\n...",
-        "es": "[Slati]\n…\n…"
-    },
-    "gkstAw": {
-        "en": "[{0}]\n- Slowly, I pour the medicine I've brought -\n- into his mouth. -",
-        "pt": "[{0}]\n- Lentamente, despejo o remédio que trouxe -\n- na boca dele. -",
-        "es": "[{0}]\nLentamente, le vierto la medicina que traje\nen la boca."
-    },
-    "g0stAw": {
-        "en": "[Slati]\n*Gulp, Gulp!*",
-        "pt": "[Slati]\n*Gulp, Gulp!*",
-        "es": "[Slati]\n*¡Glu, glu!*"
-    },
-    "hEstAw": {
-        "en": "[{0}]\n- Thank the gods, I wasn't late! -\n- Slati's injuries start -\n- healing.-",
-        "pt": "[{0}]\n- Graças aos deuses, não me atrasei! -\n- Os ferimentos de Slati começam a -\n- a cicatrizar. -",
-        "es": "[{0}]\n¡Gracias a los dioses, no llegué tarde!\nLas heridas de Slati comienzan\na curarse)."
-    },
-    "hUstAw": {
-        "en": "[Slati]\nMm...\nUgh...\nWhat happened...?\nAm I... still alive...?\n...?!",
-        "pt": "[Slati]\nMm...\nUgh...\nO que aconteceu...?\nEu... ainda estou vivo...?\n...?!",
-        "es": "[Slati]\nMm…\nUf…\n¿Qué pasó…?\n¿Sigo… con vida…?\n¡¿…?!"
-    },
-    "hkstAw": {
-        "en": "[Slati]\nAh, you!",
-        "pt": "[Slati]\nAh, você!",
-        "es": "[Slati]\n¡Ah, tú!"
-    },
-    "h0stAw": {
-        "en": "[Slati]\nWait,\ndid you save me?",
-        "pt": "[Slati]\nEspere,\nvocê me salvou?",
-        "es": "[Slati]\nEspera,\n¿me salvaste?"
-    },
-    "iEstAw": {
+        "ko": "[{0}]\n네.",
         "en": "[{0}]\nYes.",
         "pt": "[{0}]\nSim.",
         "es": "[{0}]\nSí."
     },
+    "gkstAw": {
+        "ko": "[슬라티]\n이럴수가... 내가 살아 있다니...",
+        "en": "[Slaty]\nI can't believe it... I'm alive...",
+        "pt": "[Slaty]\nNão acredito... Estou vivo...",
+        "es": "[Slaty]\nNo puede ser... sigo con vida..."
+    },
+    "g0stAw": {
+        "ko": "[슬라티]\n자네를 보내고 정신을 잃기 전까지 몹시 두려웠네. 급해서 한 선택이지만, 내 판단이 맞는 건지.. 솔직히 확신할 수 없었거든.",
+        "en": "[Slaty]\nAfter I sent you off, until I lost consciousness, I was terribly afraid. It was a choice made in haste, but honestly, I could not be certain whether my judgment was right.",
+        "pt": "[Slaty]\nDepois de enviar você, até perder a consciência, fiquei terrivelmente assustado. Foi uma escolha urgente, mas, sinceramente, eu não tinha certeza se meu julgamento estava correto.",
+        "es": "[Slaty]\nDespués de enviarte, hasta que perdí el conocimiento, tuve mucho miedo. Fue una decisión tomada con urgencia, pero sinceramente no estaba seguro de que mi juicio fuera correcto."
+    },
+    "hEstAw": {
+        "ko": "[슬라티]\n난 이제는 죽는 줄 알았네. 자네가 이렇게 다시 돌아와서 날 구해줄 줄은 생각도 못했고 말이야.",
+        "en": "[Slaty]\nI thought I was going to die. I never imagined you would return like this and save me.",
+        "pt": "[Slaty]\nAchei que morreria. Nem imaginei que você voltaria assim para me salvar.",
+        "es": "[Slaty]\nPensé que iba a morir. Nunca imaginé que volverías así para salvarme."
+    },
+    "hUstAw": {
+        "ko": "[슬라티]\n아 참. 내가 부탁했던 보고서와 출정 요청서는 무사히 전한 건가?",
+        "en": "[Slaty]\nAh, right. Did you safely deliver the report and deployment request I asked you to take?",
+        "pt": "[Slaty]\nAh, é verdade. O relatório e a solicitação de mobilização que pedi foram entregues em segurança?",
+        "es": "[Slaty]\nAh, cierto. ¿Entregaste sin problemas el informe y la solicitud de despliegue que te pedí?"
+    },
+    "hkstAw": {
+        "ko": "[슬라티]\n정말 다행이군. 급해서 한 선택이었지만, 정말 최고의 선택이었어. 하하하.. 그건 그렇고 내가 자네에게 은혜를 꼭 보답하고 싶은데 말이야.",
+        "en": "[Slaty]\nWhat a relief. It was a choice made in haste, but it truly was the best choice. Hahaha.. In any case, I would like to repay my debt to you somehow.",
+        "pt": "[Slaty]\nQue alívio. Foi uma escolha feita às pressas, mas foi realmente a melhor escolha. Hahaha... De todo modo, eu gostaria muito de retribuir o favor que devo a você.",
+        "es": "[Slaty]\nQué alivio. Fue una decisión apresurada, pero resultó ser la mejor. Ja, ja, ja... Y hablando de eso, quisiera devolverte el favor."
+    },
+    "h0stAw": {
+        "ko": "[슬라티]\n내가 고블린의 습격을 받고 살아 나올 수 있었던.. 지금까지 나를 버티게 해준 기술을 전수해 주고 싶은데.",
+        "en": "[Slaty]\nI would like to pass on the technique that allowed me to survive the Knife Goblin attack.. the technique that helped me endure until now.",
+        "pt": "[Slaty]\nQuero ensinar a técnica que me permitiu sobreviver ao ataque de Goblin de Adaga... a técnica que me sustentou até agora.",
+        "es": "[Slaty]\nQuiero transmitirte la técnica que me permitió sobrevivir al ataque de Duende con cuchillo... la técnica que me ha mantenido con vida hasta ahora."
+    },
+    "iEstAw": {
+        "ko": "[슬라티]\n기술의 이름은 ^FF0000슈링크^191240라네. 발동되어 있을 땐 오토 가드를 사용하여 적의 공격을 막으면 공격한 적을 넉백 시키는 기술이지.",
+        "en": "[Slaty]\nThe technique is called ^FF0000Shrink^191240. While active, when you use Auto Guard to block an enemy's attack, it knocks back the enemy who attacked.",
+        "pt": "[Slaty]\nO nome da técnica é ^FF0000Submissão^191240. Quando está ativa, se você bloquear um ataque inimigo usando Auto Guard, o inimigo que atacou é empurrado para trás.",
+        "es": "[Slaty]\nLa técnica se llama ^FF0000Encoger^191240. Mientras está activa, al usar Auto Guard para bloquear un ataque enemigo, hace retroceder al enemigo que atacó."
+    },
     "iUstAw": {
-        "en": "[Slati]\nOh, gods...\nI'm still alive.",
-        "pt": "[Slati]\nÓ, deuses...\nEu ainda estou vivo.",
-        "es": "[Slati]\nOh, vaya…\nSigo con vida."
+        "ko": "[슬라티]\n분명 자네에게도 도움이 되는 기술이 될 걸세.",
+        "en": "[Slaty]\nI am sure it will be a useful technique for you as well.",
+        "pt": "[Slaty]\nCom certeza será uma técnica útil para você também.",
+        "es": "[Slaty]\nEstoy seguro de que también te será útil."
     },
     "ikstAw": {
-        "en": "[Slati]\nBefore I passed out,\nI tried to get rid of all the goblins\nI saw coming this way.\nI didn't think I'd live.\nOr you'd come back\nto save me.",
-        "pt": "[Slati]\nAntes de desmaiar,\ntentei me livrar de todos os goblins\nque vi vindo nesta direção.\nNão achei que sobreviveria.\nNem que você voltaria\npara me salvar.",
-        "es": "[Slati]\nAntes de desmayarme,\nintenté deshacerme de todos los duendes\nque vi venir hacia aquí.\nNo pensé que viviría.\nNi que volverías\npara salvarme."
+        "ko": "[슬라티]\n가진 것은 이 몸뚱이밖에 없는지라 목숨을 구해준 은인에게 이 정도 보답 밖에 해줄 수 없어서 정말 미안하네.",
+        "en": "[Slaty]\nSince I have nothing but this body to my name, I am truly sorry that this is all I can offer to the benefactor who saved my life.",
+        "pt": "[Slaty]\nComo não tenho nada além deste corpo, sinto muito por só poder retribuir assim à pessoa que salvou minha vida.",
+        "es": "[Slaty]\nComo no poseo más que este cuerpo, lamento de verdad no poder ofrecerte otra recompensa por haberme salvado la vida."
     },
     "i0stAw": {
-        "en": "[Slati]\nOh, right!\nDid you deliver the request safely?",
-        "pt": "[Slati]\nAh, é!\nVocê entregou a solicitação com segurança?",
-        "es": "[Slati]\n¡Ah, cierto!\n¿Entregaste la solicitud de forma segura?"
+        "ko": "[슬라티]\n내가 오늘 알려준 기술을 부디 나를 살렸을 때처럼 사람을 지키고 구하는 일에 사용해 주었으면 좋겠네.",
+        "en": "[Slaty]\nI hope you will use the technique I taught you today to protect and save people, just as you saved me.",
+        "pt": "[Slaty]\nEspero que você use a técnica que ensinei hoje para proteger e salvar pessoas, assim como fez ao me salvar.",
+        "es": "[Slaty]\nEspero que uses la técnica que te he enseñado hoy para proteger y salvar a otros, igual que cuando me salvaste a mí."
     },
     "jEstAw": {
-        "en": "[Slati]\nGood!\nI really want to\nrepay you.\nHow about I teach you a skill of mine?",
-        "pt": "[Slati]\nÓtimo!\nEu quero mesmo\nrecompensar você.\nQue tal eu lhe ensinar uma habilidade minha?",
-        "es": "[Slati]\n¡Bien!\nRealmente, quiero\nretribuirte.\n¿Qué tal si te enseño una de mis habilidades?"
+        "ko": "[슬라티]\n그럼 남은 여행에 몸 건강히 떠나도록 하게.",
+        "en": "[Slaty]\nThen please continue your journey in good health.",
+        "pt": "[Slaty]\nEntão siga saudável pelo restante da sua jornada.",
+        "es": "[Slaty]\nEntonces, cuida tu salud durante el resto de tu viaje."
     },
     "jUstAw": {
-        "en": "[Slati]\nIt's actually the skill\nthat had kept me alive before you came back.\nI call it ^FF0000Shrink^000000.",
-        "pt": "[Slati]\nNa verdade, foi a habilidade\nque me manteve vivo antes de você voltar.\nEu a chamo de ^FF0000Submissão^000000.",
-        "es": "[Slati]\nEn realidad, es la habilidad\nque me ayudó a mantenerme con vida antes de que volvieras.\nLa llamo ^FF0000Encoger^000000."
+        "ko": "- 가지고 온 치료제를 슬라티 씨의 입에 조금씩 흘려 넣었지만, 치료제가 잘못 되었는지 여전히 정신을 차리지 못 하고 있다. 아무래도 치료제를 다시 받아와야 할 것 같다.",
+        "en": "- You slowly poured the remedy you brought into Mr. Slaty's mouth, but perhaps something was wrong with the remedy, as he still has not regained consciousness. It seems you should receive the remedy again.",
+        "pt": "- Você derramou aos poucos o antídoto trazido na boca do Sr. Slaty, mas talvez o antídoto tenha dado errado, pois ele ainda não recupera a consciência. Parece que será preciso receber outro antídoto.",
+        "es": "- Vertiste poco a poco en la boca del señor Slaty el tratamiento que trajiste, pero quizá el remedio no era correcto, porque sigue sin recuperar la conciencia. Parece que tendrás que volver a recibir otro tratamiento."
     },
     "jkstAw": {
-        "en": "[Slati]\n^FF0000Shrink^000000, if you use\nGuard and successfully block an incoming\nattack for its duration, will knock\nyour attacker backward.",
-        "pt": "[Slati]\nSe você usar Guarda e bloquear\ncom sucesso um ataque recebido \nao longo da duração dele, ^FF0000Submissão^000000\nafastará o atacante.",
-        "es": "[Slati]\n^FF0000Encoger^000000, si utilizas\nGuardia y bloqueas un ataque\nmientras está activa, harás retroceder\na tu atacante."
+        "ko": "- 아무래도 치료제를 다시 받아와야 할 것 같다.",
+        "en": "- It seems you should receive the remedy again.",
+        "pt": "- Parece que será preciso receber outro antídoto.",
+        "es": "- Parece que tendrás que volver a recibir otro tratamiento."
     },
     "j0stAw": {
-        "en": "[Slati]\nI guarantee it'll be as useful to you\nas it has been to me.\nNow, let me\nteach it to you.",
-        "pt": "[Slati]\nGaranto que será tão útil para você\ncomo tem sido para mim.\nAgora, vou\nensiná-la a você.",
-        "es": "[Slati]\nTe garantizo que te será tan útil\ncomo lo fue para mí.\nAhora déjame\nenseñártela."
+        "ko": "[슬라티]\n여행은 잘 하고 있나?\n엇?! 그 사이 많은 진전을 이뤘군. 전승을 하며, 슈링크를 잃어버렸겠지?",
+        "en": "[Slaty]\nHow has your journey been?\nOh?! You've made great progress in the meantime. Having transcended, you must have lost Shrink, yes?",
+        "pt": "[Slaty]\nComo vai a jornada?\nOh?! Você fez muitos progressos nesse meio tempo. Ao transcender, deve ter perdido Submissão, não é?",
+        "es": "[Slaty]\n¿Va bien tu viaje?\n¡Oh! Has progresado mucho desde entonces. Al trascender, habrás perdido Encoger, ¿verdad?"
     },
     "kEstAw": {
-        "en": "[Slati]\nI want to give you\neverything I have, but\nthe only thing I have that has any value\nis this skill. I'm sorry.",
-        "pt": "[Slati]\nEu quero lhe dar\ntudo o que tenho, mas\na única coisa que tenho que tem algum valor\né essa habilidade. Desculpe.",
-        "es": "[Slati]\nQuiero darte\ntodo lo que tengo, pero\nlo único que tengo que tiene algún valor\nes esta habilidad. Lo siento."
+        "ko": "[슬라티]\n다시 알려줬네. 그럼 종종 또 보세.",
+        "en": "[Slaty]\nI have taught it to you again. Then come visit from time to time.",
+        "pt": "[Slaty]\nEnsinei novamente. Então nos vemos de vez em quando.",
+        "es": "[Slaty]\nTe la he enseñado de nuevo. Entonces, ven a verme de vez en cuando."
     },
     "kUstAw": {
-        "en": "[Slati]\nBut I promise you\nevery time I develop\na new Crusader skill,\nI'll teach it to you\nbefore everyone else.",
-        "pt": "[Slati]\nMas eu lhe prometo que,\ntoda vez que desenvolver\numa nova habilidade de Templário,\neu a ensinarei a você\nantes de todo mundo.",
-        "es": "[Slati]\nPero te prometo\nque, cada vez que desarrolle\nuna nueva habilidad de Cruzado,\nte la enseñaré \nantes que a los demás."
+        "ko": "[슬라티]\n여행은 잘 하고 있나?\n허허 바쁘지 않다면, 찾아와서 나하고 검술 연습도 같이 해주게나.",
+        "en": "[Slaty]\nHow has your journey been?\nHoho, if you are not busy, come visit and practice swordsmanship with me.",
+        "pt": "[Slaty]\nComo vai a jornada?\nHaha, se não estiver ocupado, venha me visitar e praticar esgrima comigo.",
+        "es": "[Slaty]\n¿Va bien tu viaje?\nJa, ja, si no estás ocupado, ven a visitarme y practiquemos esgrima juntos."
     },
     "kkstAw": {
-        "en": "[Slati]\nPlease use Shrink\nto save others,\njust like you saved\nme today.\nNow, good luck with your journey,\nand be safe.",
-        "pt": "[Slati]\nUse Submissão\npara salvar outras pessoas,\nassim como você\nme salvou hoje.\nAgora, boa sorte em sua jornada\ne fique em segurança.",
-        "es": "[Slati]\nUsa Encoger\npara salvar a otras personas,\nde la misma manera que me salvaste\na mí hoy.\nBuena suerte con tu viaje\ny cuídate."
+        "ko": "[슬라티]\n이곳은 고블린이 자주 출몰하는 지역이니 조심하시기 바랍니다.",
+        "en": "[Slaty]\nThis is an area where Knife Goblins frequently appear, so please be careful.",
+        "pt": "[Slaty]\nEsta é uma região onde Goblin de Adaga aparece com frequência, então tome cuidado.",
+        "es": "[Slaty]\nEsta zona suele ser frecuentada por Duende con cuchillo, así que tenga cuidado."
     },
     "k0stAw": {
-        "en": "[{0}]\n- Slowly, I pour the medicine I've brought -\n- into his mouth. -\n- Perhaps I got the wrong medicine. -\n- His injuries wouldn't heal. -\n- I'd better go pick -\n- the right medicine. -",
-        "pt": "[{0}]\n- Lentamente, despejo o remédio que trouxe -\n- na boca dele. -\n- Talvez eu tenha pegado o remédio errado. -\n- Os ferimentos não melhoram. -\n- É melhor eu buscar -\n- o remédio certo. -",
-        "es": "[{0}]\nLentamente, le vierto la medicina que traje\nen la boca.\n(Quizá me equivoqué de medicina.\nSus heridas no se curaban.\nSerá mejor que vaya a buscar\nla medicina correcta)."
-    },
-    "lEstAw": {
-        "en": "- Slowly, I pour the medicine I've brought -\n- into his mouth. -",
-        "pt": "- Lentamente, despejo o remédio que trouxe -\n- na boca dele. -",
-        "es": "Lentamente, le vierto la medicina que traje\nen la boca."
-    },
-    "lUstAw": {
-        "en": "[Slati]\nOh, right!\nDid you deliver my request safely?",
-        "pt": "[Slati]\nAh, é!\nVocê entregou minha solicitação com segurança?",
-        "es": "[Slati]\n¡Ah, cierto!\n¿Entregaste mi solicitud de manera segura?"
-    },
-    "lkstAw": {
-        "en": "[Slati]\n^FF0000Shrink^000000, if you use\nGuard and successfully block an incoming\nattack for its duration,\nwill knock your attacker\nbackward.",
-        "pt": "[Slati]\nSe você usar Guarda e bloquear\ncom sucesso um ataque recebido \nao longo da duração dele,\n^FF0000Submissão^000000\nafastará o atacante.",
-        "es": "[Slati]\n^FF0000Encoger^000000, si utilizas\nGuardia y bloqueas un ataque\nataque mientras está activa,\nharás retroceder\na tu atacante."
-    },
-    "l0stAw": {
-        "en": "[Slati]\nAh, how are you doing with your journey?\nWhy don't you come more often?\nI'd love to practice sword-fighting with you.\nHah hah.",
-        "pt": "[Slati]\nAh, como está indo em sua jornada?\nPor que não vem com mais frequência?\nEu adoraria praticar a luta de espadas com você.\nHaha.",
-        "es": "[Slati]\nAh, ¿cómo va tu viaje?\n¿Por qué no vienes más seguido?\nMe encantaría practicar mi habilidad con la espada contigo.\nJa, ja."
-    },
-    "mEstAw": {
-        "en": "[{0}]\n- The medicine seems to have -\n- lost its potency on my way here. -\n- I should go back -\n- to Father Arthur -\n- and pick up a new one. -",
-        "pt": "[{0}]\n- O remédio parece ter -\n- perdido a potência no caminho até aqui. -\n- É melhor eu voltar -\n- até o Padre Arthur -\n- e pegar um novo. -",
-        "es": "[{0}]\n(La medicina parece haber\nperdido su eficacia de camino aquí.\nDebería volver\ncon el padre Arthur\ny buscar una nueva)."
-    },
-    "mUstAw": {
-        "en": "[Slati]\nLong time, no see.\nI still haven't fully recovered\nfrom the goblin attack,\nso I'm resting at the moment.\nIf you'd like to learn Shrink,\nFord can help\nyou with that.",
-        "pt": "[Slati]\nFaz muito tempo que não nos vemos.\nAinda não me recuperei totalmente\ndo ataque dos goblins,\npor isso, estou descansando no momento.\nSe quiser aprender Submissão,\no Ford pode ajudar\nvocê com isso.",
-        "es": "[Slati]\nTanto tiempo sin vernos.\nTodavía no me recuperé por completo\ndel ataque de los duendes,\nasí que de momento estoy descansando.\nSi quieres aprender la habilidad Encoger,\nFord puede ayudarte\ncon eso."
-    },
-    "mkstAw": {
-        "en": "[Slati]\nAre you enjoying\nusing the skill I taught you?\nPlease come by more often and keep me company.",
-        "pt": "[Slati]\nVocê está gostando de\nusar a habilidade que lhe ensinei?\nApareça com mais frequência e me faça companhia.",
-        "es": "[Slati]\n¿Estás disfrutando\nde usar la habilidad que te enseñé?\nPor favor, ven más seguido para hacerme compañía."
-    },
-    "m0stAw": {
-        "en": "[Slati]\nThis place is infested with\ngoblins. Please\nbe careful.",
-        "pt": "[Slati]\nEste lugar está infestado de\ngoblins. Tenha\ncuidado.",
-        "es": "[Slati]\nEste lugar está infestado de\nduendes. Por favor,\nten cuidado."
-    },
-    "nEstAw": {
-        "en": "[{0}]\n- Slowly, I pour the medicine I've brought -\n- into his mouth. -\n- Perhaps I got the wrong medicine. -\n- His injuries wouldn't heal. -\n- I'd better go pick -\n- and pick up a new one. -",
-        "pt": "[{0}]\n- Lentamente, despejo o remédio que trouxe -\n- na boca dele. -\n- Talvez eu tenha pegado o remédio errado. -\n- Os ferimentos não melhoram. -\n- É melhor eu buscar -\n- um remédio novo. -",
-        "es": "[{0}]\nLentamente, le vierto la medicina que traje\nen la boca.\n(Quizá me equivoqué de medicina.\nSus heridas no se curaban.\nSerá mejor que vaya a buscar\ny buscar una nueva)."
-    },
-    "nUstAw": {
+        "ko": "사제",
         "en": "Priest",
         "pt": "Sacerdote",
         "es": "Sacerdote"
     },
+    "lEstAw": {
+        "ko": "[아서]\n안녕하세요. 성당 안에서는 정숙해달란 부탁을 드리려 했는데, 어쩐지 다급해 보이시는군요. 무슨 일 있으신가요?",
+        "en": "[Arthur]\nHello. I was about to ask that you remain quiet inside the church, but you seem rather urgent. Has something happened?",
+        "pt": "[Arthur]\nOlá. Eu ia pedir silêncio dentro da catedral, mas você parece estar com pressa. Aconteceu algo?",
+        "es": "[Arthur]\nHola. Iba a pedirte que mantuvieras la compostura dentro de la catedral, pero pareces muy apurado. ¿Ha ocurrido algo?"
+    },
+    "lUstAw": {
+        "ko": "[{0}]\n고블린 독에 당한 사람이 지금 위독합니다. 고블린 독 치료제를 가지고 계신다고 해서 찾아왔습니다.",
+        "en": "[{0}]\nSomeone poisoned by Knife Goblin poison is in critical condition right now. I came because I heard you have the Knife Goblin poison remedy.",
+        "pt": "[{0}]\nUma pessoa envenenada por Goblin de Adaga está em estado crítico. Vim porque ouvi dizer que o senhor tem o antídoto contra o veneno de Goblin de Adaga.",
+        "es": "[{0}]\nHay una persona en estado crítico por el veneno de Duende con cuchillo. He venido porque me dijeron que usted tiene un tratamiento contra ese veneno."
+    },
+    "lkstAw": {
+        "ko": "[아서]\n고블린 독 치료제라.. 제가 만들 수 있습니다만.. 안타깝게도 지금은 치료제를 만드는 재료가 다 떨어진 상태군요.",
+        "en": "[Arthur]\nThe Knife Goblin poison remedy.. I can make it, but unfortunately, we are currently out of the ingredients needed to prepare it.",
+        "pt": "[Arthur]\nAntídoto contra o veneno de Goblin de Adaga... Eu consigo prepará-lo, mas, infelizmente, os materiais para fazer o antídoto acabaram no momento.",
+        "es": "[Arthur]\nUn tratamiento contra el veneno de Duende con cuchillo... Puedo prepararlo, pero lamentablemente ahora mismo se han agotado los ingredientes necesarios."
+    },
+    "l0stAw": {
+        "ko": "[{0}]\n재료가 뭐죠? 제가 구해오겠습니다.",
+        "en": "[{0}]\nWhat are the ingredients? I'll gather them.",
+        "pt": "[{0}]\nQuais são os materiais? Eu vou buscá-los.",
+        "es": "[{0}]\n¿Qué ingredientes son? Yo los conseguiré."
+    },
+    "mEstAw": {
+        "ko": "[아서]\n재료는 끈적끈적한 액체 20개, 빈병 3개, 젤로피 5개, 덜 익은 사과 1개, 포도 1개, 석탄 1개, 사이파 3개가 필요합니다.",
+        "en": "[Arthur]\nThe ingredients are 20 Sticky Mucus, 3 Empty Bottles, 5 Jellopy, 1 Unripe Apple, 1 Grape, 1 Coal, and 3 Cyfar.",
+        "pt": "[Arthur]\nOs materiais necessários são 20 Muco Pegajoso, 3 Garrafas Vazias, 5 Jellopy, 1 Maçã Verde, 1 Uvas, 1 Carvão e 3 Cyfar.",
+        "es": "[Arthur]\nSe necesitan 20 Moco Pegajoso, 3 botellas vacías, 5 Jellopy, 1 Manzana inmadura, 1 Uva, 1 Carbón y 3 Cyfar."
+    },
+    "mUstAw": {
+        "ko": "[아서]\n만약.. 상처를 입으신 분이 시간이 많이 지났다면.. 아닙니다. 그리고 또 한 가지 이 치료제 복용에 주의할 점이 있는데 그것은 재료를 구해 온 후에 말씀드리겠습니다.",
+        "en": "[Arthur]\nIf.. the injured person has been wounded for quite some time.. No, never mind. There is also one important caution regarding taking this remedy, but I will tell you after you bring the ingredients.",
+        "pt": "[Arthur]\nSe... já tiver passado muito tempo desde que a pessoa foi ferida... Não, deixe. E há mais uma coisa importante sobre a administração deste antídoto, mas explicarei depois que trouxer os materiais.",
+        "es": "[Arthur]\nSi... ha pasado mucho tiempo desde que la persona fue herida... No, no importa. Hay además una precaución que debe tenerse en cuenta al administrar este tratamiento, pero se la explicaré cuando traigas los ingredientes."
+    },
+    "mkstAw": {
+        "ko": "[아서]\n서두르는 것이 좋겠군요. 어서 출발하세요. 그동안 저는 준비를 하고 있겠습니다.",
+        "en": "[Arthur]\nIt would be best to hurry. Please depart at once. In the meantime, I will make preparations.",
+        "pt": "[Arthur]\nÉ melhor se apressar. Parta logo. Enquanto isso, prepararei tudo.",
+        "es": "[Arthur]\nSerá mejor que te apresures. Parte cuanto antes. Mientras tanto, yo iré preparándolo todo."
+    },
+    "m0stAw": {
+        "ko": "[아서]\n다시 말씀드리지만, 끈적끈적한 액체 20개, 빈병 3개, 젤로피 5개, 덜 익은 사과 1개, 포도 1개, 석탄 1개, 사이파 3개입니다. 재료는 정확해야 하니 잊지 말아주세요.",
+        "en": "[Arthur]\nI will say it again: 20 Sticky Mucus, 3 Empty Bottles, 5 Jellopy, 1 Unripe Apple, 1 Grape, 1 Coal, and 3 Cyfar. The ingredients must be exact, so please do not forget.",
+        "pt": "[Arthur]\nRepito: são 20 Muco Pegajoso, 3 Garrafas Vazias, 5 Jellopy, 1 Maçã Verde, 1 Uvas, 1 Carvão e 3 Cyfar. Os materiais precisam estar corretos, então não se esqueça.",
+        "es": "[Arthur]\nTe lo repito: 20 Moco Pegajoso, 3 botellas vacías, 5 Jellopy, 1 Manzana inmadura, 1 Uva, 1 Carbón y 3 Cyfar. Los ingredientes deben ser exactos, así que no lo olvides."
+    },
+    "nEstAw": {
+        "ko": "[아서]\n재료는 정확하게 가지고 오셨나요? 어디 한번 보죠..",
+        "en": "[Arthur]\nHave you brought the exact ingredients? Let me see..",
+        "pt": "[Arthur]\nTrouxe os materiais corretamente? Vamos ver...",
+        "es": "[Arthur]\n¿Has traído exactamente los ingredientes? Veamos..."
+    },
+    "nUstAw": {
+        "ko": "[아서]\n정확하군요. 바로 치료제를 조제하겠습니다.",
+        "en": "[Arthur]\nThey are correct. I will prepare the remedy immediately.",
+        "pt": "[Arthur]\nEstão corretos. Vou preparar o antídoto imediatamente.",
+        "es": "[Arthur]\nCorrecto. Prepararé el tratamiento de inmediato."
+    },
     "nkstAw": {
-        "en": "[Arthur]\nMm?\nHow may I help you?",
-        "pt": "[Arthur]\nHm?\nEm que posso ajudar?",
-        "es": "[Arthur]\n¿Mm?\n¿En qué puedo ayudarte?"
+        "ko": "[{0}]\n아! 맞다. 아까 복용에 주의할 점이 있다고..",
+        "en": "[{0}]\nAh! That's right. Earlier, you said there was a caution regarding taking it..",
+        "pt": "[{0}]\nAh! Isso mesmo. O senhor disse antes que havia algo importante sobre a administração...",
+        "es": "[{0}]\n¡Ah! Es cierto. Antes dijo que había una precaución al administrarlo..."
     },
     "n0stAw": {
-        "en": "[{0}]\nSomeone got attacked\nby goblins. I've heard\nyou have an antidote for their poison.",
-        "pt": "[{0}]\nAlguém foi atacado\npor goblins. Ouvi dizer que\nvocê tem um antídoto para o veneno deles.",
-        "es": "[{0}]\nAlguien recibió un ataque\nde duendes. Oí \nque tienes un antídoto para su veneno."
+        "ko": "[아서]\n흠.. 그렇군요. 그 이야기가 있었군요..",
+        "en": "[Arthur]\nHmm.. That is true. There was that matter..",
+        "pt": "[Arthur]\nHmm... é verdade. Havia isso...",
+        "es": "[Arthur]\nMmm... cierto. Había que hablar de eso..."
     },
     "oEstAw": {
-        "en": "[Arthur]\nOh, you need the antidote for the goblin poison.\nSure, I can make it.\nThe problem is, I ran out of the last batch I made.\nI need the ingredients to formulate it again,\nand I ran out of\nthe ingredients as well.",
-        "pt": "[Arthur]\nAh, você precisa do antídoto para o veneno dos goblins.\nClaro, eu posso fazê-lo.\nO problema é que o último lote que fiz acabou.\nPreciso dos ingredientes para formulá-lo novamente\ne também acabei ficando\nsem ingredientes.",
-        "es": "[Arthur]\nOh, necesitas el antídoto para el veneno de los duendes.\nClaro que puedo hacerlo.\nEl problema es que se me terminó el último lote que hice.\nNecesito los ingredientes para volver a formularlo,\npero me quedé sin\ningredientes."
+        "ko": "[아서]\n이 치료제는 완성이 된 순간부터 시간이 길어지면 길어질수록 해독 효과가 떨어져 만들고 빠른 시간 안에 마셔야 효력이 있습니다.",
+        "en": "[Arthur]\nThis remedy loses its detoxifying effect the longer time passes from the moment it is completed, so it must be drunk very soon after it is made to be effective.",
+        "pt": "[Arthur]\nEste antídoto perde o efeito desintoxicante quanto mais tempo passa desde o momento em que fica pronto, então precisa ser bebido logo após ser preparado para fazer efeito.",
+        "es": "[Arthur]\nDesde el momento en que este tratamiento queda terminado, cuanto más tiempo pasa, más disminuye su efecto desintoxicante; por eso debe beberse poco después de prepararlo para que surta efecto."
     },
     "oUstAw": {
-        "en": "[{0}]\nWhat are they? I'll go get them.",
-        "pt": "[{0}]\nQuais são? Eu vou buscá-los.",
-        "es": "[{0}]\n¿Cuáles son? Iré a buscarlos."
+        "ko": "[아서]\n평소 같다면 상처를 입은 환자가 이곳으로 찾아오는데.. 저도 이번 같은 경우는 처음이라 난감하군요.",
+        "en": "[Arthur]\nNormally, the wounded patient comes here.. This is the first time I have encountered a case like this, so I am at a loss as well.",
+        "pt": "[Arthur]\nNormalmente, o paciente ferido viria até aqui... Este caso também é a primeira vez para mim, então é complicado.",
+        "es": "[Arthur]\nNormalmente, el paciente herido viene aquí... Esta situación también es nueva para mí, así que resulta complicada."
     },
     "okstAw": {
-        "en": "[Arthur]\nMm... They're 20 Sticky Mucuses,\n3 Empty Bottles, 5 Jellopies, 1 Unripe Apple,\n1 Grape, 1 Coal, and 3 Cyfars.",
-        "pt": "[Arthur]\nMm... São 20 Mucos Pegajosos,\n3 Garrafas Vazias, 5 Jellopies, 1 Maçã Verde,\n1 Uva, 1 Carvão e 3 Cyfares.",
-        "es": "[Arthur]\nMm… Son 20Mocos pegajosos,\n3Botellas vacías, 5Jellopys, 1Manzana inmadura,\n1Uva, 1unidad de Carbón y 3Cyfars."
+        "ko": "[{0}]\n알겠습니다. 일단 만들어 주세요. 제가 알아서 할게요.",
+        "en": "[{0}]\nI understand. Please make it for now. I'll handle the rest.",
+        "pt": "[{0}]\nEntendi. Por enquanto, prepare-o. Eu cuidarei do resto.",
+        "es": "[{0}]\nEntiendo. Prepárelo de todos modos. Yo me encargaré."
     },
     "o0stAw": {
-        "en": "[Arthur]\nI don't know how much time\nhas passed since your friend\ngot injured, but I suggest\nyou hurry.",
-        "pt": "[Arthur]\nNão sei quanto tempo\nse passou desde que seu amigo\nse machucou, mas sugiro\nque você se apresse.",
-        "es": "[Arthur]\nNo sé cuánto tiempo\npasó desde que tu amigo\nresultó herido, pero sugiero\nque te des prisa."
+        "ko": "[아서]\n치료제는 지금 구해오신 재료로 여러 병 만들 수 있으니 만약 치료제를 복용한 환자가 차도가 없다면, 다시 만들어 드리겠습니다.",
+        "en": "[Arthur]\nThe ingredients you brought can make several bottles of the remedy, so if the patient shows no improvement after taking it, I will make it again.",
+        "pt": "[Arthur]\nCom os materiais que você trouxe agora, posso fazer vários frascos de antídoto. Se o paciente que tomar o antídoto não melhorar, prepararei outro.",
+        "es": "[Arthur]\nCon los ingredientes que has traído puedo preparar varias dosis, así que si el paciente no mejora tras tomar el tratamiento, volveré a prepararlo."
     },
     "pEstAw": {
-        "en": "[Arthur]\nAlso, this medicine\nhas a special\ninstruction to take.\nI'll tell you what it is\nwhen you're back with the ingredients.",
-        "pt": "[Arthur]\nAlém disso, este medicamento\ntem instruções\nespeciais para ser tomado.\nEu lhe direi o que é\nquando você estiver de volta com os ingredientes.",
-        "es": "[Arthur]\nAdemás, esta medicina\ndebe tomarse\nsiguiendo una instrucción especial.\nTe diré cuál es\ncuando vuelvas con los ingredientes."
+        "ko": "[{0}]\n네 알겠습니다.",
+        "en": "[{0}]\nYes, understood.",
+        "pt": "[{0}]\nSim, entendi.",
+        "es": "[{0}]\nSí, entiendo."
     },
     "pUstAw": {
-        "en": "[Arthur]\nNow, off you go.\nIn the meantime, I'll get ready\nto make your antidote.",
-        "pt": "[Arthur]\nAgora, vá.\nEnquanto isso, vou me preparar\npara fazer seu antídoto.",
-        "es": "[Arthur]\nAhora vete.\nMientras tanto, me prepararé \npara hacer tu antídoto."
+        "ko": "[아서]\n그럼 치료제를 만들 테니 잠시만 기다려주세요.",
+        "en": "[Arthur]\nThen please wait a moment while I make the remedy.",
+        "pt": "[Arthur]\nEntão vou preparar o antídoto. Aguarde um momento.",
+        "es": "[Arthur]\nEntonces prepararé el tratamiento. Espera un momento, por favor."
     },
     "pkstAw": {
-        "en": "[Arthur]\nLet me tell you the ingredients again.\n20 Sticky Mucuses,\n3 Empty Bottles, 5 Jellopies, 1 Unripe Apple,\n1 Grape, 1 Coal, and 3 Cyfars.\nPlease remember,\nI need the exact amounts.",
-        "pt": "[Arthur]\nVou lhe dizer os ingredientes novamente.\n20 Mucos Pegajosos,\n3 Garrafas Vazias, 5 Jellopies, 1 Maçã Verde,\n1 Uva, 1 Carvão e 3 Cyfares.\nLembre-se,\npreciso das quantidades exatas.",
-        "es": "[Arthur]\nDéjame decirte los ingredientes una vez más.\n20Mocos pegajosos,\n3Botellas vacías, 5Jellopys, 1Manzana inmadura,\n1Uva, 1unidad de Carbón y 3Cyfars.\nRecuerda que\nnecesito las cantidades exactas."
+        "ko": "[아서]\n치료제를 만들기에는 재료가 부족하군요.",
+        "en": "[Arthur]\nThere are not enough ingredients to make the remedy.",
+        "pt": "[Arthur]\nFaltam materiais para preparar o antídoto.",
+        "es": "[Arthur]\nFaltan ingredientes para preparar el tratamiento."
     },
     "p0stAw": {
-        "en": "[Arthur]\nDid you bring\nall the ingredients?\nGood! Let me take a look.\nLet's see... Mm...",
-        "pt": "[Arthur]\nVocê trouxe\ntodos os ingredientes?\nÓtimo! Deixe-me dar uma olhada.\nVamos ver... Hmm...",
-        "es": "[Arthur]\n¿Trajiste\ntodos los ingredientes?\n¡Bien! Déjame echar un vistazo.\nVeamos… Mm…"
+        "ko": "[아서]\n조금만 더 하면 완성입니다.",
+        "en": "[Arthur]\nJust a little more, and it will be complete.",
+        "pt": "[Arthur]\nMais um pouco e estará pronto.",
+        "es": "[Arthur]\nSolo un poco más y estará listo."
     },
     "qEstAw": {
-        "en": "[Arthur]\n*Rub, Rub*\nYes, you've brought the exact amounts.\nLet me formulate that medicine for you right away.",
-        "pt": "[Arthur]\n*Farfalhar*\nSim, você trouxe as quantidades exatas.\nVou formular o medicamento para você imediatamente.",
-        "es": "[Arthur]\n*Frú, frú*\nSí, trajiste las cantidades exactas.\nDeja que te formule esa medicina de inmediato."
+        "ko": "[아서]\n후.. 다 됐군요. 지금부터 제가 이 시약병 중 하나를 다른 쪽에 넣으면 시간을 되돌릴 수 없습니다. 준비되셨습니까?",
+        "en": "[Arthur]\nWhew.. It is done. From now on, once I pour one of these reagent bottles into the other, there will be no turning back. Are you ready?",
+        "pt": "[Arthur]\nUfa... Está pronto. A partir de agora, quando eu colocar um destes frascos de reagente no outro, não será possível voltar atrás no tempo. Está preparado?",
+        "es": "[Arthur]\nUf... ya está. A partir de ahora, cuando vierta uno de estos frascos de reactivo en el otro, no habrá vuelta atrás. ¿Estás preparado?"
     },
     "qUstAw": {
-        "en": "[{0}]\nOh, right!\nWhat was that special\ninstruction you said\nyou'd tell me?",
-        "pt": "[{0}]\nAh, é!\nQual era a instrução especial\nque você disse\nque iria me contar?",
-        "es": "[{0}]\n¡Ah, cierto!\n¿Cuál era esa\ninstrucción tan especial\nque mencionaste?"
+        "ko": "[{0}]\n준비 됐습니다. 시작 하시죠.",
+        "en": "[{0}]\nI'm ready. Please begin.",
+        "pt": "[{0}]\nEstou preparado. Pode começar.",
+        "es": "[{0}]\nEstoy preparado. Empecemos."
     },
     "qkstAw": {
-        "en": "[Arthur]\nOh, that's right.\nI should tell you that.",
-        "pt": "[Arthur]\nAh, é verdade.\nEu preciso lhe dizer isso.",
-        "es": "[Arthur]\nAh, es verdad.\nDebo decírtelo."
+        "ko": "[아서]\n자 그럼 섞겠습니다. 처음에 이 시약을 섞으면 색이 붉은 색으로 변할 겁니다.",
+        "en": "[Arthur]\nNow then, I will mix them. When I first mix this reagent, the color will turn red.",
+        "pt": "[Arthur]\nEntão vou misturar. Quando eu misturar este reagente primeiro, a cor ficará vermelha.",
+        "es": "[Arthur]\nEntonces lo mezclaré. Al mezclar este reactivo al principio, el color cambiará a rojo."
     },
     "q0stAw": {
-        "en": "[Arthur]\nThis medicine must be\ningested as soon as it's created,\nor it'll lose its potency.",
-        "pt": "[Arthur]\nEste medicamento deve ser\ningerido assim que for criado\nou perderá a potência.",
-        "es": "[Arthur]\nEsta medicina debe\ningerirse en cuanto se crea\no perderá su eficacia."
+        "ko": "- 아서 사제는 오른손에 들고있던 액체를 왼쪽 병 쪽으로 절반을 부었다.",
+        "en": "- Priest Arthur poured half of the liquid he was holding in his right hand into the bottle on the left.",
+        "pt": "- O Sacerdote Arthur despejou metade do líquido que segurava na mão direita no frasco da esquerda.",
+        "es": "- El sacerdote Arthur vertió la mitad del líquido que sostenía en la mano derecha en el frasco de la izquierda."
     },
     "rEstAw": {
-        "en": "[Arthur]\nIt might not even\nwork at all\nif you wait too long.",
-        "pt": "[Arthur]\nPode até não\nfuncionar\nse você esperar muito tempo.",
-        "es": "[Arthur]\nEs posible que\nni siquiera funcione\nsi esperas demasiado."
+        "ko": "[아서]\n...",
+        "en": "[Arthur]\n...",
+        "pt": "[Arthur]\n...",
+        "es": "[Arthur]\n..."
     },
     "rUstAw": {
-        "en": "[Arthur]\nUsually, the patients\nare brought in here,\nso I don't know what to do\nin a special case like this.",
-        "pt": "[Arthur]\nNormalmente, os pacientes\nsão trazidos para cá,\nentão não sei o que fazer\nem um caso especial como este.",
-        "es": "[Arthur]\nPor lo general, los pacientes\nvienen aquí,\nasí que no sé qué hacer\nen un caso especial como este."
+        "ko": "- 색이 붉은 색으로 변했다.",
+        "en": "- The color changed to red.",
+        "pt": "- A cor mudou para vermelho.",
+        "es": "- El color ha cambiado a rojo."
     },
     "rkstAw": {
-        "en": "[{0}]\nI see. Please formulate it for now.\nI'll take care of everything else.",
-        "pt": "[{0}]\nEntendo. Por favor, só formule-o.\nEu cuidarei de todo o resto.",
-        "es": "[{0}]\nYa veo. Por ahora, formúlala.\nYo me ocuparé del resto."
+        "ko": "[아서]\n이 상태에서 시간이 조금 더 지나면.. 녹색..",
+        "en": "[Arthur]\nIf a little more time passes in this state.. green..",
+        "pt": "[Arthur]\nSe passar mais um pouco neste estado... verde...",
+        "es": "[Arthur]\nSi esperamos un poco más en este estado... verde…"
     },
     "r0stAw": {
-        "en": "[Arthur]\nThe ingredients you've brought\nare enough to make multiple batches.\nIf this one doesn't work,\nthen please come back.\nI'll make you another one.",
-        "pt": "[Arthur]\nOs ingredientes que você trouxe\nsão o suficiente para fazer vários lotes.\nSe este não der certo,\nvolte.\nEu farei outro.",
-        "es": "[Arthur]\nLos ingredientes que trajiste\nson suficientes para hacer varios lotes.\nSi esta no funciona,\nvuelve.\nTe haré otra."
+        "ko": "- 병 속의 액체가 녹색으로 변하면서 푸른빛을 냈다.",
+        "en": "- The liquid in the bottle turned green and gave off a blue light.",
+        "pt": "- O líquido dentro do frasco ficou verde e emitiu um brilho azulado.",
+        "es": "- El líquido del frasco ha cambiado a verde y ha emitido una luz azulada."
     },
     "sEstAw": {
-        "en": "[{0}]\nOkay, thank you.\nThen, let me formulate it now.\nPlease wait.",
-        "pt": "[{0}]\nTá, agradeço.\nEntão, vou formular agora.\nAguarde.",
-        "es": "[{0}]\nBien, gracias.\nEntonces, déjame formularla ahora.\nPor favor, espera."
+        "ko": "[아서]\n이 타이밍에 남은 액체를 마저 섞습니다.",
+        "en": "[Arthur]\nAt this timing, I mix in the remaining liquid.",
+        "pt": "[Arthur]\nNeste momento, misturo o restante do líquido.",
+        "es": "[Arthur]\nEn este momento se mezcla el resto del líquido."
     },
     "sUstAw": {
-        "en": "[Arthur]\nYou didn't bring all the ingredients\nI need.\nLet me tell you the ingredients again.\n20 Sticky Mucuses,\n3 Empty Bottles, 5 Jellopies, 1 Unripe Apple,\n1 Grape, 1 Coal, and 3 Cyfars.\nPlease remember,\nI need the exact amounts.",
-        "pt": "[Arthur]\nVocê não trouxe todos os ingredientes\nde que eu preciso.\nVou dizer os ingredientes novamente.\n20 Mucos Pegajosos,\n3 Garrafas Vazias, 5 Jellopies, 1 Maçã Verde,\n1 Uva, 1 Carvão e 3 Cyfares.\nLembre-se,\npreciso das quantidades exatas.",
-        "es": "[Arthur]\nNo trajiste todos los ingredientes\nque necesito.\nDéjame decirte los ingredientes una vez más.\n20Mocos pegajosos,\n3Botellas vacías, 5Jellopys, 1Manzana inmadura,\n1Uva, 1unidad de Carbón y 3Cyfars.\nRecuerda que\nnecesito las cantidades exactas."
+        "ko": "- 오른손에 들고 있던 남은 액체를 전부 왼쪽병으로 부었다.",
+        "en": "- He poured all the remaining liquid in his right hand into the bottle on the left.",
+        "pt": "- Ele despejou todo o líquido restante que segurava na mão direita no frasco da esquerda",
+        "es": "- Vertió todo el líquido restante que sostenía en la mano derecha en el frasco de la izquierda."
     },
     "skstAw": {
-        "en": "[Arthur]\n*Bubble, Bubble... Trickle*",
-        "pt": "[Arthur]\n*Borbulha, borbulha... Goteja*",
-        "es": "[Arthur]\n*Blob, blob… Plin, plin*"
+        "ko": "[아서]\n이제 조금 더 시간이 지나면 색이 투명한 물처럼 변할 겁니다.",
+        "en": "[Arthur]\nNow, after a little more time passes, the color will turn clear like water.",
+        "pt": "[Arthur]\nAgora, depois de um pouco mais de tempo, a cor ficará transparente como água.",
+        "es": "[Arthur]\nAhora, si pasa un poco más de tiempo, el color se volverá transparente como el agua."
     },
     "s0stAw": {
-        "en": "[Arthur]\nAh, there you are.\nI've just finished creating your medicine.",
-        "pt": "[Arthur]\nAh, aí está você.\nAcabei de criar seu medicamento.",
-        "es": "[Arthur]\nAh, ahí estás.\nAcabo de terminar de crear tu medicina."
+        "ko": "- 아서 사제의 말처럼 병 속의 치료제가 투명해졌다. 아서 사제는 그 병을 나에게 조심스럽게 건네주었다.",
+        "en": "- As Priest Arthur said, the remedy in the bottle turned clear. Priest Arthur carefully handed the bottle to me.",
+        "pt": "- Como o Sacerdote Arthur disse, o antídoto dentro do frasco ficou transparente. O Sacerdote Arthur entregou o frasco a você com cuidado.",
+        "es": "- Tal como dijo el sacerdote Arthur, el tratamiento dentro del frasco se volvió transparente. El sacerdote Arthur me entregó el frasco con cuidado."
     },
     "tEstAw": {
-        "en": "[Arthur]\nNow, it'll start losing its potency\nas soon as I mix these two\ntest bottles\nin my hands.",
-        "pt": "[Arthur]\nEle começará a perder a potência\nassim que eu misturar esses dois\ntubos de ensaio\nque tenho nas mãos.",
-        "es": "[Arthur]\nEmpezará a perder su eficacia\ntan pronto como mezcle estas dos\nbotellas de ensayo\nque tengo en las manos."
+        "ko": "[아서]\n^FF0000자! 지금입니다.^191240\n어서 출발하십시오! 행운이 있길 빌겠습니다.",
+        "en": "[Arthur]\n^FF0000Now! This is the moment.^191240\nPlease depart at once! May fortune be with you.",
+        "pt": "[Arthur]\n^FF0000Agora! É agora.^191240\nParta imediatamente! Desejo boa sorte.",
+        "es": "[Arthur]\n^FF0000¡Ahora! Es el momento.^191240\n¡Parta enseguida! Le deseo buena suerte."
     },
     "tUstAw": {
-        "en": "[Arthur]\nOnce the mixing begins,\nthere's no\nturning back.",
-        "pt": "[Arthur]\nQuando a mistura começa,\nnão há como\nvoltar.",
-        "es": "[Arthur]\nUna vez que empiecen a mezclarse,\nno hay\nvuelta atrás."
+        "ko": "[아서]\n이런.. 아직 출발을 안 하셨군요. 시간이 너무 지나면 약효가 약해질 수 있습니다. 어서 출발해주세요.",
+        "en": "[Arthur]\nOh dear.. You have not departed yet. If too much time passes, the medicine's effect may weaken. Please leave at once.",
+        "pt": "[Arthur]\nOra... você ainda não partiu. Se passar tempo demais, o efeito do remédio pode enfraquecer. Por favor, parta logo.",
+        "es": "[Arthur]\nVaya... aún no ha partido. Si pasa demasiado tiempo, el efecto del medicamento podría debilitarse. Parta cuanto antes, por favor."
     },
     "tkstAw": {
-        "en": "[Arthur]\nAlright,\nI'll say\n''now'' as I\nmix the two.\nPlease remember that.",
-        "pt": "[Arthur]\nMuito bem,\nEu vou dizer\n'agora' quando\nmisturar os dois.\nLembre-se disso.",
-        "es": "[Arthur]\nMuy bien,\ndiré \nahora mientras\nlas mezclo.\nPor favor, recuérdalo."
+        "ko": "[아서]\n아무래도 시간이 늦어 치료제의 효능이 불완전했나 봅니다. 다시 만들어 드리겠습니다.",
+        "en": "[Arthur]\nIt seems the remedy's effect was incomplete because too much time had passed. I will make it again.",
+        "pt": "[Arthur]\nParece que, por causa do atraso, a eficácia do antídoto ficou incompleta. Vou prepará-lo novamente.",
+        "es": "[Arthur]\nParece que, al haberse retrasado, el tratamiento no tuvo un efecto completo. Lo prepararé de nuevo."
     },
     "t0stAw": {
-        "en": "[Arthur]\nOkay, then I'll mix them now.\nThese chemicals, when initially\nmixed, turn red.",
-        "pt": "[Arthur]\nCerto, então vou misturá-los agora.\nEsses produtos químicos, quando inicialmente\nmisturados, ficam vermelhos.",
-        "es": "[Arthur]\nBien, entonces, las mezclaré ahora.\nEstas sustancias químicas, al mezclarse inicialmente,\nadquieren un color rojo."
+        "ko": "[아서]\n안녕하세요. 오랜만이군요. 또 다치신 분이 생기면 언제라도 제게 찾아와주세요.",
+        "en": "[Arthur]\nHello. It has been a while. If anyone is injured again, please come to me anytime.",
+        "pt": "[Arthur]\nOlá. Há quanto tempo. Se alguém se ferir novamente, venha me procurar a qualquer momento.",
+        "es": "[Arthur]\nHola. Ha pasado tiempo. Si vuelve a haber alguien herido, venga a verme cuando lo necesite."
     },
     "uEstAw": {
-        "en": "[{0}]\n- Father Arthur pours half-\n- of the liquid in the bottle -\n- in his right hand -\n- into the one in his other hand. -",
-        "pt": "[{0}]\n- O Padre Arthur derrama metade -\n- do líquido na garrafa -\n- na mão direita -\n- na que está na outra mão. -",
-        "es": "[{0}]\n(El padre Arthur vierte la mitad\ndel líquido de la botella\nque tiene en su mano derecha\nen la que tiene en la otra mano)."
-    },
-    "uUstAw": {
-        "en": "[Arthur]\n*Trickle*",
-        "pt": "[Arthur]\n*Goteja*",
-        "es": "[Arthur]\n*Plin*"
-    },
-    "ukstAw": {
-        "en": "[{0}]\n- The mixture turned red. -",
-        "pt": "[{0}]\n- A mistura ficou vermelha. -",
-        "es": "[{0}]\n(La mezcla se volvió roja)."
-    },
-    "u0stAw": {
-        "en": "[Arthur]\nNow, if we just wait for a while,\nit'll turn green.",
-        "pt": "[Arthur]\nAgora, se esperarmos um pouco,\nficará verde.",
-        "es": "[Arthur]\nSi esperamos un poco,\nse pondrá verde."
-    },
-    "vEstAw": {
-        "en": "[{0}]\n- The liquid turned green -\n- and emitted a green light. -",
-        "pt": "[{0}]\n- O líquido ficou verde -\n- e emitiu uma luz verde. -",
-        "es": "[{0}]\n(El líquido se volvió verde\ny emitió una luz verde)."
-    },
-    "vUstAw": {
-        "en": "[Arthur]\nNow, I'm going to mix the rest.",
-        "pt": "[Arthur]\nAgora, vou misturar o resto.",
-        "es": "[Arthur]\nAhora mezclaré el resto."
-    },
-    "vkstAw": {
-        "en": "[Arthur]\nAfter that, we'll wait again\nuntil the mixture turns\ncrystal clear, like water.",
-        "pt": "[Arthur]\nDepois disso, vamos esperar novamente\naté que a mistura fique\ncristalina, como água.",
-        "es": "[Arthur]\nDespués de eso, volveremos a esperar\nhasta que la mezcla se vuelva\ntransparente como el agua."
-    },
-    "v0stAw": {
-        "en": "[{0}]\n- After a few seconds, -\n- the mixture turned crystal clear. -\n- Arthur carefully handed me -\n- the medicine bottle. -",
-        "pt": "[{0}]\n- Após alguns segundos, -\n- a mistura ficou cristalina. -\n- Arthur me entregou cuidadosamente -\n- o frasco do remédio. -",
-        "es": "[{0}]\n(Después de unos segundos,\nla mezcla se volvió transparente.\nArthur me entregó cuidadosamente\nel frasco con la medicina)."
-    },
-    "wEstAw": {
-        "en": "[Arthur]\n^FF0000Okay... ''Now!''^000000\nGo now!\nGood luck!\nGo, go!",
-        "pt": "[Arthur]\n^FF0000Certo... Agora!^000000\nVá agora!\nBoa sorte!\nVá, vá!",
-        "es": "[Arthur]\n^FF0000Bien… ¡Ahora!.^000000\n¡Ahora ve!\n¡Buena suerte!\n¡Ve!"
-    },
-    "wUstAw": {
-        "en": "[Arthur]\nUh-oh, you still\nhaven't left.\nYour antidote\nloses potency\nwith time.\nPlease leave as soon as you can.",
-        "pt": "[Arthur]\nOpa, você ainda\nnão saiu.\nO antídoto\nperde a potência\ncom o tempo.\nSaia o mais rápido possível.",
-        "es": "[Arthur]\nOh, no, aún\nno te fuiste.\nEl antídoto\npierde eficacia\ncon el tiempo.\nVete tan pronto como puedas."
-    },
-    "wkstAw": {
-        "en": "[Arthur]\nDid you save\nyour friend\nwith the antidote I gave you?\nI'm glad to hear that.",
-        "pt": "[Arthur]\nVocê salvou\nseu amigo\ncom o antídoto que lhe dei?\nFico feliz em saber disso.",
-        "es": "[Arthur]\n¿Salvaste a\ntu amigo\ncon el antídoto que te di?\nMe alegra oírlo."
-    },
-    "w0stAw": {
-        "en": "[Arthur]\nPlease don't hesitate\nto come to me\nif you need me again.",
-        "pt": "[Arthur]\nNão deixe de\nme procurar\nse precisar de mim novamente.",
-        "es": "[Arthur]\nNo dudes\nen acudir a mí \nsi me necesitas de nuevo."
-    },
-    "xEstAw": {
-        "en": "[Arthur]\nYour medicine must\nhave completely lost\nits potency.\nLet me make another bottle for you.",
-        "pt": "[Arthur]\nO remédio deve\nter perdido completamente\na potência.\nVou preparar outro frasco para você.",
-        "es": "[Arthur]\nLa medicina debe\nhaber perdido su eficacia\npor completo.\nDéjame prepararte otra botella."
-    },
-    "xUstAw": {
-        "en": "[Arthur]\n*Rub, Rub... Trickle*\n*Trickle*\nThere you go.\nNow... RUN!",
-        "pt": "[Arthur]\n*Borbulha, goteja*\n*Goteja*\nAqui está.\nAgora... CORRA!",
-        "es": "[Arthur]\n*Frú, frú… Plin, plin*\n*Plin*\nAquí tienes.\nAhora… ¡CORRE!"
-    },
-    "xkstAw": {
-        "en": "[Arthur]\nHello.\nLong time, no see.\nPlease don't hesitate\nto come to me\nif you need me again.",
-        "pt": "[Arthur]\nOlá.\nFaz tempo que não nos vemos.\nNão deixe de\nme procurar\nse precisar de mim novamente.",
-        "es": "[Arthur]\nHola.\nTanto tiempo sin vernos.\nNo dudes\nen acudir a mí \nsi me necesitas de nuevo."
-    },
-    "x0stAw": {
-        "en": "[Arthur]\nYou've become a Paladin.\nThank you for\nusing your power\nfor others.",
-        "pt": "[Arthur]\nVocê achou seu lugar entre os Paladinos.\nObrigado por\nusar seu poder\npara os outros.",
-        "es": "[Arthur]\nTe convertiste en Paladín.\nGracias por\nusar tu poder\npara ayudar a los demás."
-    },
-    "yEstAw": {
-        "en": "[Arthur]\nMy name is Arthur,\nand I'm a Priest\nhere at the Prontera Sanctuary.\nPlease be quiet while you're in here.",
-        "pt": "[Arthur]\nMeu nome é Arthur,\ne sou um Sacerdote\naqui na Catedral de Prontera.\nNão faça barulho enquanto estiver aqui.",
-        "es": "[Arthur]\nMe llamo Arthur\ny soy Sacerdote\naquí en el santuario de Prontera.\nPor favor, guarda silencio mientras estés aquí."
-    },
-    "yUstAw": {
-        "en": "[Arthur]\nOh, you need the antidote for the goblin poison.\nSure, I can make it.\nThe problem is, I ran out of the last batch I made.\nI need the ingredients to formulate it again,\nand I ran out of\nthose ingredients as well.",
-        "pt": "[Arthur]\nAh, você precisa do antídoto para o veneno dos goblins.\nClaro, eu posso fazê-lo.\nO problema é que o último lote que fiz acabou.\nPreciso dos ingredientes para formulá-lo novamente\ne também acabei ficando\nsem ingredientes.",
-        "es": "[Arthur]\nOh, necesitas el antídoto para el veneno de los duendes.\nClaro que puedo hacerlo.\nEl problema es que se me terminó el último lote que hice.\nNecesito los ingredientes para volver a formularlo,\npero me quedé sin\nesos ingredientes también."
-    },
-    "ykstAw": {
-        "en": "[Arthur]\nThe ingredients you've brought\nare enough to make multiple batches.\nIf this one doesn't work,\nthen please come back.\nI'll just make you another one.",
-        "pt": "[Arthur]\nOs ingredientes que você trouxe\nsão o suficiente para fazer vários lotes.\nSe este não der certo,\nvolte.\nEu farei outro.",
-        "es": "[Arthur]\nLos ingredientes que trajiste\nson suficientes para hacer varios lotes.\nSi esta no funciona,\nvuelve.\nTe prepararé otra."
-    },
-    "y0stAw": {
-        "en": "[Arthur]\nAlright,\nI'll say ''now''\nas I mix the two.\nPlease remember that.",
-        "pt": "[Arthur]\nMuito bem,\nEu vou dizer agora quando\nmisturar os dois.\nLembre-se disso.",
-        "es": "[Arthur]\nMuy bien,\nDiré ahora\nmientras las mezclo.\nPor favor, recuérdalo."
+        "ko": "[아서]\n안녕하세요. 저는 프론테라 성당의 사제 아서라고 합니다. 성당 안에서는 정숙해 주세요.",
+        "en": "[Arthur]\nHello. I am Arthur, a priest of Prontera Church. Please remain quiet inside the church.",
+        "pt": "[Arthur]\nOlá. Sou o Sacerdote Arthur da Catedral de Prontera. Por favor, mantenha silêncio dentro da catedral.",
+        "es": "[Arthur]\nHola. Soy Arthur, sacerdote de la catedral de Prontera. Por favor, mantenga la compostura dentro de la catedral."
     }
 }

@@ -6746,5 +6746,179 @@ SignBoardList = {
 		FILEPATH = "item\\over_valkyrie_air.bmp",
 		CONTENTS = "  Schwarzwald Domestic Line",
 		CHARCOLOR = "#0x00FFFFFF"
+	},
+	[910] = {
+		MAPNAME = "alberta_in",
+		CELLX = 31,
+		CELLY = 62,
+		HEIGHT = 3,
+		ICONID = 1,
+		FILEPATH = "information\\gradeup.bmp"
+	},
+	[911] = {
+		MAPNAME = "prt_in",
+		CELLX = 55,
+		CELLY = 68,
+		HEIGHT = 3,
+		ICONID = 1,
+		FILEPATH = "information\\gradeup.bmp"
+	},
+	[912] = {
+		MAPNAME = "morocc_in",
+		CELLX = 74,
+		CELLY = 35,
+		HEIGHT = 3,
+		ICONID = 1,
+		FILEPATH = "information\\gradeup.bmp"
+	},
+	[913] = {
+		MAPNAME = "payon",
+		CELLX = 146,
+		CELLY = 179,
+		HEIGHT = 3,
+		ICONID = 1,
+		FILEPATH = "information\\gradeup.bmp"
+	},
+	[914] = {
+		MAPNAME = "yuno_in01",
+		CELLX = 175,
+		CELLY = 22,
+		HEIGHT = 3,
+		ICONID = 1,
+		FILEPATH = "information\\gradeup.bmp"
+	},
+	[915] = {
+		MAPNAME = "ein_in01",
+		CELLX = 18,
+		CELLY = 87,
+		HEIGHT = 3,
+		ICONID = 1,
+		FILEPATH = "information\\gradeup.bmp"
+	},
+	[916] = {
+		MAPNAME = "lhz_in02",
+		CELLX = 18,
+		CELLY = 87,
+		HEIGHT = 3,
+		ICONID = 1,
+		FILEPATH = "information\\gradeup.bmp"
+	},
+	[917] = {
+		MAPNAME = "grademk",
+		CELLX = 34,
+		CELLY = 184,
+		HEIGHT = 3,
+		ICONID = 1,
+		FILEPATH = "information\\gradeup.bmp"
+	},
+	[918] = {
+		MAPNAME = "paramk",
+		CELLX = 34,
+		CELLY = 184,
+		HEIGHT = 3,
+		ICONID = 1,
+		FILEPATH = "information\\gradeup.bmp"
+	},
+	[919] = {
+		MAPNAME = "alberta_in",
+		CELLX = 31,
+		CELLY = 65,
+		HEIGHT = 3,
+		ICONID = 1,
+		FILEPATH = "item\\bs_weaponresearch.bmp"
+	},
+	[920] = {
+		MAPNAME = "moc_ruins",
+		CELLX = 107,
+		CELLY = 94,
+		HEIGHT = 3,
+		ICONID = 1,
+		FILEPATH = "item\\bs_weaponresearch.bmp"
+	},
+	[921] = {
+		MAPNAME = "morocc_in",
+		CELLX = 68,
+		CELLY = 31,
+		HEIGHT = 3,
+		ICONID = 1,
+		FILEPATH = "item\\bs_weaponresearch.bmp"
+	},
+	[922] = {
+		MAPNAME = "payon",
+		CELLX = 143,
+		CELLY = 165,
+		HEIGHT = 3,
+		ICONID = 1,
+		FILEPATH = "item\\bs_weaponresearch.bmp"
+	},
+	[923] = {
+		MAPNAME = "prt_in",
+		CELLX = 63,
+		CELLY = 54,
+		HEIGHT = 3,
+		ICONID = 1,
+		FILEPATH = "item\\bs_weaponresearch.bmp"
+	},
+	[924] = {
+		MAPNAME = "yuno_in01",
+		CELLX = 175,
+		CELLY = 28,
+		HEIGHT = 3,
+		ICONID = 1,
+		FILEPATH = "item\\bs_weaponresearch.bmp"
+	},
+	[925] = {
+		MAPNAME = "lhz_in02",
+		CELLX = 284,
+		CELLY = 14,
+		HEIGHT = 3,
+		ICONID = 1,
+		FILEPATH = "item\\bs_weaponresearch.bmp"
+	},
+	[926] = {
+		MAPNAME = "geffen_in",
+		CELLX = 34,
+		CELLY = 166,
+		HEIGHT = 3,
+		ICONID = 1,
+		FILEPATH = "item\\bs_weaponresearch.bmp"
+	},
+	[927] = {
+		MAPNAME = "aldeba_in",
+		CELLX = 38,
+		CELLY = 60,
+		HEIGHT = 3,
+		ICONID = 1,
+		FILEPATH = "item\\bs_weaponresearch.bmp"
+	},
+	[928] = {
+		MAPNAME = "prontera",
+		CELLX = 50,
+		CELLY = 293,
+		HEIGHT = 10,
+		ICONID = 3,
+		FILEPATH = "information\\ebl_manus.bmp",
+		CONTENTS = "  Grade Up Stone",
+		CHARCOLOR = "#0x00FFFFFF"
+	},
+	[929] = {
+		MAPNAME = "geffen",
+		CELLX = 138,
+		CELLY = 203,
+		HEIGHT = 10,
+		ICONID = 3,
+		FILEPATH = "information\\ebl_manus.bmp",
+		CONTENTS = "  Reset Event",
+		CHARCOLOR = "#0x00FFFFFF"
+	},
+	[930] = {
+		MAPNAME = "izlude",
+		CELLX = 150,
+		CELLY = 197,
+		HEIGHT = 10,
+		ICONID = 3,
+		FILEPATH = "information\\ebl_manus.bmp",
+		CONTENTS = "  Jumpstart Event",
+		CHARCOLOR = "#0x00FFFFFF"
 	}
 }

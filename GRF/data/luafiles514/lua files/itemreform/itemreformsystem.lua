@@ -12,10 +12,10 @@ ReformInfo = {
 		PreserveSocketItem = true,
 		PreserveGrade = true,
 		InformationString = {
-			"<B>Resultado da reforma</B>",
-			"1) Nível de fundição : ^FF0000-5^000000",
-			"2) Opção Aleatória : Mantido",
-			"3) Cartão e encantamento : Mantido"
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
 		}
 	},
 	[13] = {
@@ -31,10 +31,10 @@ ReformInfo = {
 		PreserveSocketItem = true,
 		PreserveGrade = true,
 		InformationString = {
-			"<B>Resultado da reforma</B>",
-			"1) Nível de fundição : ^FF0000-5^000000",
-			"2) Opção Aleatória : Mantido",
-			"3) Cartão e encantamento : Mantido"
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
 		}
 	},
 	[14] = {
@@ -50,10 +50,10 @@ ReformInfo = {
 		PreserveSocketItem = true,
 		PreserveGrade = true,
 		InformationString = {
-			"<B>Resultado da reforma</B>",
-			"1) Nível de fundição : ^FF0000-5^000000",
-			"2) Opção Aleatória : Mantido",
-			"3) Cartão e encantamento : Mantido"
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
 		}
 	},
 	[15] = {
@@ -69,10 +69,10 @@ ReformInfo = {
 		PreserveSocketItem = true,
 		PreserveGrade = true,
 		InformationString = {
-			"<B>Resultado da reforma</B>",
-			"1) Nível de fundição : ^FF0000-5^000000",
-			"2) Opção Aleatória : Mantido",
-			"3) Cartão e encantamento : Mantido"
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
 		}
 	},
 	[16] = {
@@ -88,10 +88,10 @@ ReformInfo = {
 		PreserveSocketItem = true,
 		PreserveGrade = true,
 		InformationString = {
-			"<B>Resultado da reforma</B>",
-			"1) Nível de fundição : ^FF0000-5^000000",
-			"2) Opção Aleatória : Mantido",
-			"3) Cartão e encantamento : Mantido"
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
 		}
 	},
 	[17] = {
@@ -107,10 +107,10 @@ ReformInfo = {
 		PreserveSocketItem = true,
 		PreserveGrade = true,
 		InformationString = {
-			"<B>Resultado da reforma</B>",
-			"1) Nível de fundição : ^FF0000-5^000000",
-			"2) Opção Aleatória : Mantido",
-			"3) Cartão e encantamento : Mantido"
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
 		}
 	},
 	[18] = {
@@ -126,10 +126,10 @@ ReformInfo = {
 		PreserveSocketItem = true,
 		PreserveGrade = true,
 		InformationString = {
-			"<B>Resultado da reforma</B>",
-			"1) Nível de fundição : ^FF0000-5^000000",
-			"2) Opção Aleatória : Mantido",
-			"3) Cartão e encantamento : Mantido"
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
 		}
 	},
 	[19] = {
@@ -145,10 +145,10 @@ ReformInfo = {
 		PreserveSocketItem = true,
 		PreserveGrade = true,
 		InformationString = {
-			"<B>Resultado da reforma</B>",
-			"1) Nível de fundição : ^FF0000-5^000000",
-			"2) Opção Aleatória : Mantido",
-			"3) Cartão e encantamento : Mantido"
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
 		}
 	},
 	[20] = {
@@ -164,10 +164,10 @@ ReformInfo = {
 		PreserveSocketItem = true,
 		PreserveGrade = true,
 		InformationString = {
-			"<B>Resultado da reforma</B>",
-			"1) Nível de fundição : ^FF0000-5^000000",
-			"2) Opção Aleatória : Mantido",
-			"3) Cartão e encantamento : Mantido"
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
 		}
 	},
 	[21] = {
@@ -183,10 +183,10 @@ ReformInfo = {
 		PreserveSocketItem = true,
 		PreserveGrade = true,
 		InformationString = {
-			"<B>Resultado da reforma</B>",
-			"1) Nível de fundição : ^FF0000-5^000000",
-			"2) Opção Aleatória : Mantido",
-			"3) Cartão e encantamento : Mantido"
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
 		}
 	},
 	[22] = {
@@ -202,10 +202,10 @@ ReformInfo = {
 		PreserveSocketItem = true,
 		PreserveGrade = true,
 		InformationString = {
-			"<B>Resultado da reforma</B>",
-			"1) Nível de fundição : ^FF0000-5^000000",
-			"2) Opção Aleatória : Mantido",
-			"3) Cartão e encantamento : Mantido"
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
 		}
 	},
 	[23] = {
@@ -221,10 +221,10 @@ ReformInfo = {
 		PreserveSocketItem = true,
 		PreserveGrade = true,
 		InformationString = {
-			"<B>Resultado da reforma</B>",
-			"1) Nível de fundição : ^FF0000-5^000000",
-			"2) Opção Aleatória : Mantido",
-			"3) Cartão e encantamento : Mantido"
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
 		}
 	},
 	[24] = {
@@ -240,10 +240,10 @@ ReformInfo = {
 		PreserveSocketItem = true,
 		PreserveGrade = true,
 		InformationString = {
-			"<B>Resultado da reforma</B>",
-			"1) Nível de fundição : ^FF0000-5^000000",
-			"2) Opção Aleatória : Mantido",
-			"3) Cartão e encantamento : Mantido"
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-5^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
 		}
 	},
 	[25] = {
@@ -259,10 +259,10 @@ ReformInfo = {
 		PreserveSocketItem = true,
 		PreserveGrade = true,
 		InformationString = {
-			"<B>Resultado da reforma</B>",
-			"1) Nível de fundição : ^FF0000-1^000000",
-			"2) Opção Aleatória : Mantido",
-			"3) Cartão e encantamento : Mantido"
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
 		}
 	},
 	[26] = {
@@ -278,10 +278,10 @@ ReformInfo = {
 		PreserveSocketItem = true,
 		PreserveGrade = true,
 		InformationString = {
-			"<B>Resultado da reforma</B>",
-			"1) Nível de fundição : ^FF0000-1^000000",
-			"2) Opção Aleatória : Mantido",
-			"3) Cartão e encantamento : Mantido"
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
 		}
 	},
 	[27] = {
@@ -297,10 +297,10 @@ ReformInfo = {
 		PreserveSocketItem = true,
 		PreserveGrade = true,
 		InformationString = {
-			"<B>Resultado da reforma</B>",
-			"1) Nível de fundição : ^FF0000-1^000000",
-			"2) Opção Aleatória : Mantido",
-			"3) Cartão e encantamento : Mantido"
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
 		}
 	},
 	[28] = {
@@ -316,10 +316,10 @@ ReformInfo = {
 		PreserveSocketItem = true,
 		PreserveGrade = true,
 		InformationString = {
-			"<B>Resultado da reforma</B>",
-			"1) Nível de fundição : ^FF0000-1^000000",
-			"2) Opção Aleatória : Mantido",
-			"3) Cartão e encantamento : Mantido"
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
 		}
 	},
 	[29] = {
@@ -335,10 +335,10 @@ ReformInfo = {
 		PreserveSocketItem = true,
 		PreserveGrade = true,
 		InformationString = {
-			"<B>Resultado da reforma</B>",
-			"1) Nível de fundição : ^FF0000-1^000000",
-			"2) Opção Aleatória : Mantido",
-			"3) Cartão e encantamento : Mantido"
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
 		}
 	},
 	[30] = {
@@ -354,10 +354,10 @@ ReformInfo = {
 		PreserveSocketItem = true,
 		PreserveGrade = true,
 		InformationString = {
-			"<B>Resultado da reforma</B>",
-			"1) Nível de fundição : ^FF0000-1^000000",
-			"2) Opção Aleatória : Mantido",
-			"3) Cartão e encantamento : Mantido"
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
 		}
 	},
 	[31] = {
@@ -373,10 +373,10 @@ ReformInfo = {
 		PreserveSocketItem = true,
 		PreserveGrade = true,
 		InformationString = {
-			"<B>Resultado da reforma</B>",
-			"1) Nível de fundição : ^FF0000-1^000000",
-			"2) Opção Aleatória : Mantido",
-			"3) Cartão e encantamento : Mantido"
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
 		}
 	},
 	[32] = {
@@ -392,10 +392,10 @@ ReformInfo = {
 		PreserveSocketItem = true,
 		PreserveGrade = true,
 		InformationString = {
-			"<B>Resultado da reforma</B>",
-			"1) Nível de fundição : ^FF0000-1^000000",
-			"2) Opção Aleatória : Mantido",
-			"3) Cartão e encantamento : Mantido"
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
 		}
 	},
 	[33] = {
@@ -411,10 +411,10 @@ ReformInfo = {
 		PreserveSocketItem = true,
 		PreserveGrade = true,
 		InformationString = {
-			"<B>Resultado da reforma</B>",
-			"1) Nível de fundição : ^FF0000-1^000000",
-			"2) Opção Aleatória : Mantido",
-			"3) Cartão e encantamento : Mantido"
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
 		}
 	},
 	[34] = {
@@ -430,10 +430,10 @@ ReformInfo = {
 		PreserveSocketItem = true,
 		PreserveGrade = true,
 		InformationString = {
-			"<B>Resultado da reforma</B>",
-			"1) Nível de fundição : ^FF0000-1^000000",
-			"2) Opção Aleatória : Mantido",
-			"3) Cartão e encantamento : Mantido"
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
 		}
 	},
 	[35] = {
@@ -449,10 +449,10 @@ ReformInfo = {
 		PreserveSocketItem = true,
 		PreserveGrade = true,
 		InformationString = {
-			"<B>Resultado da reforma</B>",
-			"1) Nível de fundição : ^FF0000-1^000000",
-			"2) Opção Aleatória : Mantido",
-			"3) Cartão e encantamento : Mantido"
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
 		}
 	},
 	[36] = {
@@ -468,10 +468,10 @@ ReformInfo = {
 		PreserveSocketItem = true,
 		PreserveGrade = true,
 		InformationString = {
-			"<B>Resultado da reforma</B>",
-			"1) Nível de fundição : ^FF0000-1^000000",
-			"2) Opção Aleatória : Mantido",
-			"3) Cartão e encantamento : Mantido"
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
 		}
 	},
 	[37] = {
@@ -487,10 +487,10 @@ ReformInfo = {
 		PreserveSocketItem = true,
 		PreserveGrade = true,
 		InformationString = {
-			"<B>Resultado da reforma</B>",
-			"1) Nível de fundição : ^FF0000-1^000000",
-			"2) Opção Aleatória : Mantido",
-			"3) Cartão e encantamento : Mantido"
+			"<B>Reform Result Info</B>",
+			"1) Refine Level : ^FF0000-1^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
 		}
 	},
 	[129] = {
@@ -506,10 +506,10 @@ ReformInfo = {
 		PreserveSocketItem = true,
 		PreserveGrade = true,
 		InformationString = {
-			"<B>Resultado da reforma</B>",
-			"1) Nível de fundição :  ^FF0000-2^000000",
-			"2) Opção Aleatória : Mantido",
-			"3) Cartão e encantamento : Mantido"
+			"<B>Reform Result Info</B>",
+			"1) Refine Level :  ^FF0000-2^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
 		}
 	},
 	[130] = {
@@ -525,10 +525,10 @@ ReformInfo = {
 		PreserveSocketItem = true,
 		PreserveGrade = true,
 		InformationString = {
-			"<B>Resultado da reforma</B>",
-			"1) Nível de fundição :  ^FF0000-2^000000",
-			"2) Opção Aleatória : Mantido",
-			"3) Cartão e encantamento : Mantido"
+			"<B>Reform Result Info</B>",
+			"1) Refine Level :  ^FF0000-2^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
 		}
 	},
 	[131] = {
@@ -544,10 +544,10 @@ ReformInfo = {
 		PreserveSocketItem = true,
 		PreserveGrade = true,
 		InformationString = {
-			"<B>Resultado da reforma</B>",
-			"1) Nível de fundição :  ^FF0000-2^000000",
-			"2) Opção Aleatória : Mantido",
-			"3) Cartão e encantamento : Mantido"
+			"<B>Reform Result Info</B>",
+			"1) Refine Level :  ^FF0000-2^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
 		}
 	},
 	[132] = {
@@ -563,10 +563,10 @@ ReformInfo = {
 		PreserveSocketItem = true,
 		PreserveGrade = true,
 		InformationString = {
-			"<B>Resultado da reforma</B>",
-			"1) Nível de fundição :  ^FF0000-2^000000",
-			"2) Opção Aleatória : Mantido",
-			"3) Cartão e encantamento : Mantido"
+			"<B>Reform Result Info</B>",
+			"1) Refine Level :  ^FF0000-2^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
 		}
 	},
 	[133] = {
@@ -582,10 +582,10 @@ ReformInfo = {
 		PreserveSocketItem = true,
 		PreserveGrade = true,
 		InformationString = {
-			"<B>Resultado da reforma</B>",
-			"1) Nível de fundição :  ^FF0000-2^000000",
-			"2) Opção Aleatória : Mantido",
-			"3) Cartão e encantamento : Mantido"
+			"<B>Reform Result Info</B>",
+			"1) Refine Level :  ^FF0000-2^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
 		}
 	},
 	[134] = {
@@ -601,10 +601,10 @@ ReformInfo = {
 		PreserveSocketItem = true,
 		PreserveGrade = true,
 		InformationString = {
-			"<B>Resultado da reforma</B>",
-			"1) Nível de fundição :  ^FF0000-2^000000",
-			"2) Opção Aleatória : Mantido",
-			"3) Cartão e encantamento : Mantido"
+			"<B>Reform Result Info</B>",
+			"1) Refine Level :  ^FF0000-2^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
 		}
 	},
 	[135] = {
@@ -620,10 +620,10 @@ ReformInfo = {
 		PreserveSocketItem = true,
 		PreserveGrade = true,
 		InformationString = {
-			"<B>Resultado da reforma</B>",
-			"1) Nível de fundição :  ^FF0000-2^000000",
-			"2) Opção Aleatória : Mantido",
-			"3) Cartão e encantamento : Mantido"
+			"<B>Reform Result Info</B>",
+			"1) Refine Level :  ^FF0000-2^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
 		}
 	},
 	[136] = {
@@ -639,10 +639,10 @@ ReformInfo = {
 		PreserveSocketItem = true,
 		PreserveGrade = true,
 		InformationString = {
-			"<B>Resultado da reforma</B>",
-			"1) Nível de fundição :  ^FF0000-2^000000",
-			"2) Opção Aleatória : Mantido",
-			"3) Cartão e encantamento : Mantido"
+			"<B>Reform Result Info</B>",
+			"1) Refine Level :  ^FF0000-2^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
 		}
 	},
 	[137] = {
@@ -658,10 +658,10 @@ ReformInfo = {
 		PreserveSocketItem = true,
 		PreserveGrade = true,
 		InformationString = {
-			"<B>Resultado da reforma</B>",
-			"1) Nível de fundição :  ^FF0000-2^000000",
-			"2) Opção Aleatória : Mantido",
-			"3) Cartão e encantamento : Mantido"
+			"<B>Reform Result Info</B>",
+			"1) Refine Level :  ^FF0000-2^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
 		}
 	},
 	[138] = {
@@ -677,10 +677,10 @@ ReformInfo = {
 		PreserveSocketItem = true,
 		PreserveGrade = true,
 		InformationString = {
-			"<B>Resultado da reforma</B>",
-			"1) Nível de fundição :  ^FF0000-2^000000",
-			"2) Opção Aleatória : Mantido",
-			"3) Cartão e encantamento : Mantido"
+			"<B>Reform Result Info</B>",
+			"1) Refine Level :  ^FF0000-2^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
 		}
 	},
 	[139] = {
@@ -696,10 +696,10 @@ ReformInfo = {
 		PreserveSocketItem = true,
 		PreserveGrade = true,
 		InformationString = {
-			"<B>Resultado da reforma</B>",
-			"1) Nível de fundição :  ^FF0000-2^000000",
-			"2) Opção Aleatória : Mantido",
-			"3) Cartão e encantamento : Mantido"
+			"<B>Reform Result Info</B>",
+			"1) Refine Level :  ^FF0000-2^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
 		}
 	},
 	[140] = {
@@ -715,10 +715,10 @@ ReformInfo = {
 		PreserveSocketItem = true,
 		PreserveGrade = true,
 		InformationString = {
-			"<B>Resultado da reforma</B>",
-			"1) Nível de fundição :  ^FF0000-2^000000",
-			"2) Opção Aleatória : Mantido",
-			"3) Cartão e encantamento : Mantido"
+			"<B>Reform Result Info</B>",
+			"1) Refine Level :  ^FF0000-2^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
 		}
 	},
 	[141] = {
@@ -734,10 +734,10 @@ ReformInfo = {
 		PreserveSocketItem = true,
 		PreserveGrade = true,
 		InformationString = {
-			"<B>Resultado da reforma</B>",
-			"1) Nível de fundição :  ^FF0000-2^000000",
-			"2) Opção Aleatória : Mantido",
-			"3) Cartão e encantamento : Mantido"
+			"<B>Reform Result Info</B>",
+			"1) Refine Level :  ^FF0000-2^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
 		}
 	},
 	[142] = {
@@ -753,10 +753,10 @@ ReformInfo = {
 		PreserveSocketItem = true,
 		PreserveGrade = true,
 		InformationString = {
-			"<B>Resultado da reforma</B>",
-			"1) Nível de fundição :  ^FF0000-2^000000",
-			"2) Opção Aleatória : Mantido",
-			"3) Cartão e encantamento : Mantido"
+			"<B>Reform Result Info</B>",
+			"1) Refine Level :  ^FF0000-2^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
 		}
 	},
 	[143] = {
@@ -772,10 +772,10 @@ ReformInfo = {
 		PreserveSocketItem = true,
 		PreserveGrade = true,
 		InformationString = {
-			"<B>Resultado da reforma</B>",
-			"1) Nível de fundição :  ^FF0000-2^000000",
-			"2) Opção Aleatória : Mantido",
-			"3) Cartão e encantamento : Mantido"
+			"<B>Reform Result Info</B>",
+			"1) Refine Level :  ^FF0000-2^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
 		}
 	},
 	[144] = {
@@ -791,10 +791,10 @@ ReformInfo = {
 		PreserveSocketItem = true,
 		PreserveGrade = true,
 		InformationString = {
-			"<B>Resultado da reforma</B>",
-			"1) Nível de fundição :  ^FF0000-2^000000",
-			"2) Opção Aleatória : Mantido",
-			"3) Cartão e encantamento : Mantido"
+			"<B>Reform Result Info</B>",
+			"1) Refine Level :  ^FF0000-2^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
 		}
 	},
 	[145] = {
@@ -810,10 +810,10 @@ ReformInfo = {
 		PreserveSocketItem = true,
 		PreserveGrade = true,
 		InformationString = {
-			"<B>Resultado da reforma</B>",
-			"1) Nível de fundição :  ^FF0000-2^000000",
-			"2) Opção Aleatória : Mantido",
-			"3) Cartão e encantamento : Mantido"
+			"<B>Reform Result Info</B>",
+			"1) Refine Level :  ^FF0000-2^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
 		}
 	},
 	[146] = {
@@ -829,10 +829,10 @@ ReformInfo = {
 		PreserveSocketItem = true,
 		PreserveGrade = true,
 		InformationString = {
-			"<B>Resultado da reforma</B>",
-			"1) Nível de fundição :  ^FF0000-2^000000",
-			"2) Opção Aleatória : Mantido",
-			"3) Cartão e encantamento : Mantido"
+			"<B>Reform Result Info</B>",
+			"1) Refine Level :  ^FF0000-2^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
 		}
 	},
 	[147] = {
@@ -848,10 +848,10 @@ ReformInfo = {
 		PreserveSocketItem = true,
 		PreserveGrade = true,
 		InformationString = {
-			"<B>Resultado da reforma</B>",
-			"1) Nível de fundição :  ^FF0000-2^000000",
-			"2) Opção Aleatória : Mantido",
-			"3) Cartão e encantamento : Mantido"
+			"<B>Reform Result Info</B>",
+			"1) Refine Level :  ^FF0000-2^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
 		}
 	},
 	[148] = {
@@ -867,10 +867,10 @@ ReformInfo = {
 		PreserveSocketItem = true,
 		PreserveGrade = true,
 		InformationString = {
-			"<B>Resultado da reforma</B>",
-			"1) Nível de fundição :  ^FF0000-2^000000",
-			"2) Opção Aleatória : Mantido",
-			"3) Cartão e encantamento : Mantido"
+			"<B>Reform Result Info</B>",
+			"1) Refine Level :  ^FF0000-2^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
 		}
 	},
 	[149] = {
@@ -886,10 +886,10 @@ ReformInfo = {
 		PreserveSocketItem = true,
 		PreserveGrade = true,
 		InformationString = {
-			"<B>Resultado da reforma</B>",
-			"1) Nível de fundição :  ^FF0000-2^000000",
-			"2) Opção Aleatória : Mantido",
-			"3) Cartão e encantamento : Mantido"
+			"<B>Reform Result Info</B>",
+			"1) Refine Level :  ^FF0000-2^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
 		}
 	},
 	[150] = {
@@ -905,10 +905,10 @@ ReformInfo = {
 		PreserveSocketItem = true,
 		PreserveGrade = true,
 		InformationString = {
-			"<B>Resultado da reforma</B>",
-			"1) Nível de fundição :  ^FF0000-2^000000",
-			"2) Opção Aleatória : Mantido",
-			"3) Cartão e encantamento : Mantido"
+			"<B>Reform Result Info</B>",
+			"1) Refine Level :  ^FF0000-2^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
 		}
 	},
 	[151] = {
@@ -924,10 +924,10 @@ ReformInfo = {
 		PreserveSocketItem = true,
 		PreserveGrade = true,
 		InformationString = {
-			"<B>Resultado da reforma</B>",
-			"1) Nível de fundição :  ^FF0000-2^000000",
-			"2) Opção Aleatória : Mantido",
-			"3) Cartão e encantamento : Mantido"
+			"<B>Reform Result Info</B>",
+			"1) Refine Level :  ^FF0000-2^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
 		}
 	},
 	[152] = {
@@ -943,10 +943,10 @@ ReformInfo = {
 		PreserveSocketItem = true,
 		PreserveGrade = true,
 		InformationString = {
-			"<B>Resultado da reforma</B>",
-			"1) Nível de fundição :  ^FF0000-2^000000",
-			"2) Opção Aleatória : Mantido",
-			"3) Cartão e encantamento : Mantido"
+			"<B>Reform Result Info</B>",
+			"1) Refine Level :  ^FF0000-2^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
 		}
 	},
 	[153] = {
@@ -962,10 +962,10 @@ ReformInfo = {
 		PreserveSocketItem = true,
 		PreserveGrade = true,
 		InformationString = {
-			"<B>Resultado da reforma</B>",
-			"1) Nível de fundição :  ^FF0000-2^000000",
-			"2) Opção Aleatória : Mantido",
-			"3) Cartão e encantamento : Mantido"
+			"<B>Reform Result Info</B>",
+			"1) Refine Level :  ^FF0000-2^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
 		}
 	},
 	[154] = {
@@ -981,10 +981,10 @@ ReformInfo = {
 		PreserveSocketItem = true,
 		PreserveGrade = true,
 		InformationString = {
-			"<B>Resultado da reforma</B>",
-			"1) Nível de fundição :  ^FF0000-2^000000",
-			"2) Opção Aleatória : Mantido",
-			"3) Cartão e encantamento : Mantido"
+			"<B>Reform Result Info</B>",
+			"1) Refine Level :  ^FF0000-2^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
 		}
 	},
 	[155] = {
@@ -1000,10 +1000,10 @@ ReformInfo = {
 		PreserveSocketItem = true,
 		PreserveGrade = true,
 		InformationString = {
-			"<B>Resultado da reforma</B>",
-			"1) Nível de fundição :  ^FF0000-2^000000",
-			"2) Opção Aleatória : Mantido",
-			"3) Cartão e encantamento : Mantido"
+			"<B>Reform Result Info</B>",
+			"1) Refine Level :  ^FF0000-2^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
 		}
 	},
 	[156] = {
@@ -1019,10 +1019,10 @@ ReformInfo = {
 		PreserveSocketItem = true,
 		PreserveGrade = true,
 		InformationString = {
-			"<B>Resultado da reforma</B>",
-			"1) Nível de fundição :  ^FF0000-2^000000",
-			"2) Opção Aleatória : Mantido",
-			"3) Cartão e encantamento : Mantido"
+			"<B>Reform Result Info</B>",
+			"1) Refine Level :  ^FF0000-2^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
 		}
 	},
 	[157] = {
@@ -1038,10 +1038,10 @@ ReformInfo = {
 		PreserveSocketItem = true,
 		PreserveGrade = true,
 		InformationString = {
-			"<B>Resultado da reforma</B>",
-			"1) Nível de fundição :  ^FF0000-2^000000",
-			"2) Opção Aleatória : Mantido",
-			"3) Cartão e encantamento : Mantido"
+			"<B>Reform Result Info</B>",
+			"1) Refine Level :  ^FF0000-2^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
 		}
 	},
 	[158] = {
@@ -1057,10 +1057,10 @@ ReformInfo = {
 		PreserveSocketItem = true,
 		PreserveGrade = true,
 		InformationString = {
-			"<B>Resultado da reforma</B>",
-			"1) Nível de fundição :  ^FF0000-2^000000",
-			"2) Opção Aleatória : Mantido",
-			"3) Cartão e encantamento : Mantido"
+			"<B>Reform Result Info</B>",
+			"1) Refine Level :  ^FF0000-2^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
 		}
 	},
 	[159] = {
@@ -1076,10 +1076,10 @@ ReformInfo = {
 		PreserveSocketItem = true,
 		PreserveGrade = true,
 		InformationString = {
-			"<B>Resultado da reforma</B>",
-			"1) Nível de fundição :  ^FF0000-2^000000",
-			"2) Opção Aleatória : Mantido",
-			"3) Cartão e encantamento : Mantido"
+			"<B>Reform Result Info</B>",
+			"1) Refine Level :  ^FF0000-2^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
 		}
 	},
 	[160] = {
@@ -1095,10 +1095,10 @@ ReformInfo = {
 		PreserveSocketItem = true,
 		PreserveGrade = true,
 		InformationString = {
-			"<B>Resultado da reforma</B>",
-			"1) Nível de fundição :  ^FF0000-2^000000",
-			"2) Opção Aleatória : Mantido",
-			"3) Cartão e encantamento : Mantido"
+			"<B>Reform Result Info</B>",
+			"1) Refine Level :  ^FF0000-2^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
 		}
 	},
 	[161] = {
@@ -1114,10 +1114,10 @@ ReformInfo = {
 		PreserveSocketItem = true,
 		PreserveGrade = true,
 		InformationString = {
-			"<B>Resultado da reforma</B>",
-			"1) Nível de fundição :  ^FF0000-2^000000",
-			"2) Opção Aleatória : Mantido",
-			"3) Cartão e encantamento : Mantido"
+			"<B>Reform Result Info</B>",
+			"1) Refine Level :  ^FF0000-2^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
 		}
 	},
 	[162] = {
@@ -1133,10 +1133,10 @@ ReformInfo = {
 		PreserveSocketItem = true,
 		PreserveGrade = true,
 		InformationString = {
-			"<B>Resultado da reforma</B>",
-			"1) Nível de fundição :  ^FF0000-2^000000",
-			"2) Opção Aleatória : Mantido",
-			"3) Cartão e encantamento : Mantido"
+			"<B>Reform Result Info</B>",
+			"1) Refine Level :  ^FF0000-2^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
 		}
 	},
 	[163] = {
@@ -1152,10 +1152,10 @@ ReformInfo = {
 		PreserveSocketItem = true,
 		PreserveGrade = true,
 		InformationString = {
-			"<B>Resultado da reforma</B>",
-			"1) Nível de fundição :  ^FF0000-2^000000",
-			"2) Opção Aleatória : Mantido",
-			"3) Cartão e encantamento : Mantido"
+			"<B>Reform Result Info</B>",
+			"1) Refine Level :  ^FF0000-2^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
 		}
 	},
 	[164] = {
@@ -1171,10 +1171,10 @@ ReformInfo = {
 		PreserveSocketItem = true,
 		PreserveGrade = true,
 		InformationString = {
-			"<B>Resultado da reforma</B>",
-			"1) Nível de fundição :  ^FF0000-2^000000",
-			"2) Opção Aleatória : Mantido",
-			"3) Cartão e encantamento : Mantido"
+			"<B>Reform Result Info</B>",
+			"1) Refine Level :  ^FF0000-2^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
 		}
 	},
 	[714] = {
@@ -1190,10 +1190,10 @@ ReformInfo = {
 		PreserveSocketItem = true,
 		PreserveGrade = true,
 		InformationString = {
-			"<B>Resultado da reforma</B>",
-			"1) Nível de fundição :  ^FF0000-2^000000",
-			"2) Opção Aleatória : Mantido",
-			"3) Cartão e encantamento : Mantido"
+			"<B>Reform Result Info</B>",
+			"1) Refine Level :  ^FF0000-2^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
 		}
 	},
 	[715] = {
@@ -1209,10 +1209,10 @@ ReformInfo = {
 		PreserveSocketItem = true,
 		PreserveGrade = true,
 		InformationString = {
-			"<B>Resultado da reforma</B>",
-			"1) Nível de fundição :  ^FF0000-2^000000",
-			"2) Opção Aleatória : Mantido",
-			"3) Cartão e encantamento : Mantido"
+			"<B>Reform Result Info</B>",
+			"1) Refine Level :  ^FF0000-2^000000",
+			"2) Random Option : Maintained",
+			"3) Card and enchant : Maintained"
 		}
 	}
 }

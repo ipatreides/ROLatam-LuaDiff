@@ -1869,14 +1869,6 @@ TB_Layer_Priority = {
 				[5] = 100
 			}
 		},
-		[ACCESSORY_IDs.ACCESSORY_Love_Feeling] = {
-			Default = -300,
-			Direction = {
-				[3] = 300,
-				[4] = 300,
-				[5] = 300
-			}
-		},
 		[ACCESSORY_IDs.ACCESSORY_C_Heine_Tab_1] = {
 			Default = 304,
 			Direction = {}
@@ -1890,7 +1882,8 @@ TB_Layer_Priority = {
 			Direction = {}
 		},
 		[ACCESSORY_IDs.ACCESSORY_Bear_Candy_Cart] = {Default = 304, isIgnoreRiding = true},
-		[ACCESSORY_IDs.ACCESSORY_C_Luna_On_Shoulder] = {Default = 171}
+		[ACCESSORY_IDs.ACCESSORY_C_Luna_On_Shoulder] = {Default = 171},
+		[ACCESSORY_IDs.ACCESSORY_C_Divine_Twinkling] = {Default = 304}
 	},
 	IsIgnoredRidingState = function(acc_id)
 		local Items_List = TB_Layer_Priority.Items_List

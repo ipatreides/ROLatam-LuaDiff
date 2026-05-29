@@ -8583,90 +8583,6 @@ tblLapineUpgradeBox = {
 			},
 			NeedSource_String = "Chap�u Memor�vel"
 		},
-		Loki_Advice = {
-			ItemID = 102277,
-			NeedRefineMin = 0,
-			NeedRefineMax = 0,
-			NeedOptionNumMin = 0,
-			NotSocketEnchantItem = true,
-			TargetItems = {
-				{
-					"Heart_Ace_Melee",
-					420210
-				}
-			},
-			NeedSource_String = "[Selo de Copas"
-		},
-		Loki_Coin = {
-			ItemID = 102278,
-			NeedRefineMin = 0,
-			NeedRefineMax = 0,
-			NeedOptionNumMin = 0,
-			NotSocketEnchantItem = true,
-			TargetItems = {
-				{
-					"Gambler_Seal_KR_",
-					410233
-				}
-			},
-			NeedSource_String = "Selo de Loki"
-		},
-		Loki_Coin_2 = {
-			ItemID = 100487,
-			NeedRefineMin = 0,
-			NeedRefineMax = 0,
-			NeedOptionNumMin = 0,
-			NotSocketEnchantItem = true,
-			TargetItems = {
-				{
-					"Gambler_Seal_KR_",
-					410233
-				}
-			},
-			NeedSource_String = "Selo de Loki"
-		},
-		Loki_Advice_2 = {
-			ItemID = 100488,
-			NeedRefineMin = 0,
-			NeedRefineMax = 0,
-			NeedOptionNumMin = 0,
-			NotSocketEnchantItem = true,
-			TargetItems = {
-				{
-					"Spade_Ace_Melee",
-					420213
-				}
-			},
-			NeedSource_String = "Selo de Espadas"
-		},
-		Loki_Coin_3 = {
-			ItemID = 102343,
-			NeedRefineMin = 0,
-			NeedRefineMax = 0,
-			NeedOptionNumMin = 0,
-			NotSocketEnchantItem = true,
-			TargetItems = {
-				{
-					"Gambler_Seal_KR_",
-					410233
-				}
-			},
-			NeedSource_String = "Selo de Loki"
-		},
-		Loki_Advice_3 = {
-			ItemID = 102342,
-			NeedRefineMin = 0,
-			NeedRefineMax = 0,
-			NeedOptionNumMin = 0,
-			NotSocketEnchantItem = true,
-			TargetItems = {
-				{
-					"Diamond_Ace_Range",
-					420220
-				}
-			},
-			NeedSource_String = "Selo de Espadas"
-		},
 		Shadow_Random_Mix = {
 			ItemID = 23720,
 			NeedRefineMin = 7,
@@ -13253,34 +13169,6 @@ tblLapineUpgradeBox = {
 				}
 			},
 			NeedSource_String = "Charleston Upgrade Part (Range)"
-		},
-		Loki_Coin_4 = {
-			ItemID = 102676,
-			NeedRefineMin = 0,
-			NeedRefineMax = 0,
-			NeedOptionNumMin = 0,
-			NotSocketEnchantItem = true,
-			TargetItems = {
-				{
-					"Gambler_Seal_KR_",
-					410233
-				}
-			},
-			NeedSource_String = "Selo de Loki"
-		},
-		Loki_Advice_4 = {
-			ItemID = 102677,
-			NeedRefineMin = 0,
-			NeedRefineMax = 0,
-			NeedOptionNumMin = 0,
-			NotSocketEnchantItem = true,
-			TargetItems = {
-				{
-					"Clover_Ace_Defense",
-					420269
-				}
-			},
-			NeedSource_String = "Selo de Bast�es"
 		},
 		UPG_TH_7_Ticket = {
 			ItemID = 104133,
@@ -18701,6 +18589,194 @@ tblLapineUpgradeBox = {
 				{"Estal", 32351}
 			},
 			NeedSource_String = "Bio Lab Weapons"
+		},
+		Ex_Status_Shadow_Up = {
+			ItemID = 101180,
+			NeedRefineMin = 0,
+			NeedRefineMax = 10,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"S_P_Power_Weapon",
+					24751
+				},
+				{
+					"S_P_Power_Shield",
+					24752
+				},
+				{
+					"S_M_Spell_Weapon",
+					24753
+				},
+				{
+					"S_M_Spell_Shield",
+					24754
+				},
+				{
+					"S_Concentration_Weapon",
+					24755
+				},
+				{
+					"S_Concentration_Shield",
+					24756
+				},
+				{
+					"S_Wisdom_Weapon",
+					24757
+				},
+				{
+					"S_Wisdom_Shield",
+					24758
+				},
+				{
+					"S_Stamina_Weapon",
+					24759
+				},
+				{
+					"S_Stamina_Shield",
+					24760
+				},
+				{
+					"S_Creative_Weapon",
+					24761
+				},
+				{
+					"S_Creative_Shield",
+					24762
+				}
+			},
+			NeedSource_String = "Talent Shadow Gear"
+		},
+		AllMighty_Up = {
+			ItemID = 101564,
+			NeedRefineMin = 0,
+			NeedRefineMax = 10,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"S_AllMighty_Pendant",
+					24340
+				},
+				{
+					"S_AllMighty_Earring",
+					24339
+				}
+			},
+			NeedSource_String = "Almighty Shadow Gear"
+		},
+		Loki_Coin = {
+			ItemID = 102278,
+			NeedRefineMin = 0,
+			NeedRefineMax = 0,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"Gambler_Seal_KR_",
+					410233
+				}
+			},
+			NeedSource_String = "Seal of Loki (1)"
+		},
+		Loki_Coin_2 = {
+			ItemID = 100487,
+			NeedRefineMin = 0,
+			NeedRefineMax = 0,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"Gambler_Seal_KR_",
+					410233
+				}
+			},
+			NeedSource_String = "Seal of Loki (1)"
+		},
+		Loki_Coin_3 = {
+			ItemID = 102343,
+			NeedRefineMin = 0,
+			NeedRefineMax = 0,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"Gambler_Seal_KR_",
+					410233
+				}
+			},
+			NeedSource_String = "Seal of Loki (1)"
+		},
+		Loki_Advice = {
+			ItemID = 102277,
+			NeedRefineMin = 0,
+			NeedRefineMax = 0,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"Heart_Ace_Melee",
+					420210
+				}
+			},
+			NeedSource_String = "Seal of Hearts"
+		},
+		Loki_Advice_2 = {
+			ItemID = 100488,
+			NeedRefineMin = 0,
+			NeedRefineMax = 0,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"Spade_Ace_Melee",
+					420213
+				}
+			},
+			NeedSource_String = "Seal of Spades"
+		},
+		Loki_Advice_3 = {
+			ItemID = 102342,
+			NeedRefineMin = 0,
+			NeedRefineMax = 0,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"Diamond_Ace_Range",
+					420220
+				}
+			},
+			NeedSource_String = "Seal of Diamonds"
+		},
+		Loki_Coin_4 = {
+			ItemID = 102676,
+			NeedRefineMin = 0,
+			NeedRefineMax = 0,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"Gambler_Seal_KR_",
+					410233
+				}
+			},
+			NeedSource_String = "Seal of Loki (1)"
+		},
+		Loki_Advice_4 = {
+			ItemID = 102677,
+			NeedRefineMin = 0,
+			NeedRefineMax = 0,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"Clover_Ace_Defense",
+					420269
+				}
+			},
+			NeedSource_String = "Seal of Clubs"
 		}
 	},
 	get_lapine_box = function(in_box_id)

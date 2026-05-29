@@ -1,302 +1,416 @@
 {
     "AN8xAw": {
+        "ko": "기사단원",
         "en": "Knight",
         "pt": "Cavaleiro",
         "es": "Caballero"
     },
     "Ad8xAw": {
-        "en": "[Essofeit]\nKeep up the good work. This world is\nnot easy to live in. It's never a bad thing\nto commit yourself\nto the path you've chosen.",
-        "pt": "[Essofeit]\nContinuem com o bom trabalho. Este mundo\nnão é fácil de se viver. Nunca é ruim\ncomprometer-se com o caminho\nque você escolheu.",
-        "es": "[Essofeit]\n¡Sigue así! Vivir en este mundo\nno es fácil. Nunca es malo\ncomprometerse\ncon el camino que uno eligió."
+        "ko": "- 소지하고 계신 아이템이 많아 진행할 수 없습니다. -",
+        "en": "- You are carrying too many items to proceed. -",
+        "pt": "- Você possui muitos itens e não pode prosseguir. -",
+        "es": "- No puedes continuar porque llevas demasiados objetos. -"
     },
     "At8xAw": {
-        "en": "[Essofeit]\nMm? You're...? Oh, do you want\nto listen to how to use\nCharge Attack again? No problem.\nI'm happy to tell you.",
-        "pt": "[Essofeit]\nHm? Você...? Ah, você quer\nouvir como usar o\nAvanço Ofensivo de novo? Não tem problema.\nÉ um prazer falar como se faz.",
-        "es": "[Essofeit]\n¿Mm? ¿Tú eres…? Ah, ¿quieres\nque te vuelva a explicar cómo se usa\nel Ataque de carga? No hay problema.\nEstaré encantado de hacerlo."
+        "ko": "[에소페]\n...처음 보는 기사로군. 어느 기사단 소속인가? 나는 제7기사단의 기사, 에소페=라제야다.",
+        "en": "[Aesop]\n...You are a knight I have not seen before. Which order do you belong to? I am Aesop Lajeyada, a knight of the 7th Chivalry.",
+        "pt": "[Aesop]\n...É a primeira vez que vejo este cavaleiro. A qual ordem de cavaleiros você pertence? Sou Aesop Rajeya, cavaleiro da 7ª Ordem dos Cavaleiros.",
+        "es": "[Aesop]\n...Eres un caballero que no había visto antes. ¿A qué orden perteneces? Soy Aesop=Rajeya, caballero de la 7.ª Orden."
     },
     "A98xAw": {
-        "en": "[Essofeit]\nThis skill I'm about to teach you\n^FF0000is a Quest skill that has nothing to do with your main skill tree,\n^FF0000but can be manually used anytime,\n^FF0000so long as you have 40 SP^000000.",
-        "pt": "[Essofeit]\nEsta habilidade que estou prestes a ensinar\n^FF0000é uma habilidade de Missão que não tem nada a ver com a árvore de habilidades principal,\n^FF0000mas pode ser usada manualmente a qualquer momento,\n^FF0000desde que você tenha 40 SP^000000.",
-        "es": "[Essofeit]\nEsta habilidad que estoy a punto de enseñarte\n^FF0000es una habilidad de misión que no tiene nada que ver con tu barra de habilidades principal,\n^FF0000pero puedes usarla de forma manual en cualquier momento,\n^FF0000siempre y cuando tengas 40 SP^000000."
+        "ko": "[에소페]\n그런가. 아직 기사단 소속은 아니군. 자유스러운 기사란 말인가. 그것도 좋겠지.",
+        "en": "[Aesop]\nI see. So you do not yet belong to an order. A free knight, then. That is not bad either.",
+        "pt": "[Aesop]\nEntendo. Então ainda não pertence a nenhuma ordem. Um cavaleiro livre, é? Isso também deve ser bom.",
+        "es": "[Aesop]\nYa veo. Aún no perteneces a ninguna orden. Un caballero libre, entonces. Eso tampoco está mal."
     },
     "BN8xAw": {
-        "en": "[Essofeit]\n^FF0000It's an Attack skill\n^FF0000targeting a single enemy at the cost of 40 SP.\nThe farther you are from your target,\nthe greater this skill's damage,\nbut it also takes longer\nto activate.",
-        "pt": "[Essofeit]\n^FF0000É uma habilidade de Ataque\n^FF0000que tem como alvo um único inimigo ao custo de 40 SP.\nQuanto mais longe você estiver do alvo,\nmaior será o dano causado por essa habilidade,\nmas ela também leva mais tempo\npara ser ativada.",
-        "es": "[Essofeit]\n^FF0000Es una habilidad de ataque\n^FF0000dirigida a un solo enemigo que cuesta 40 SP.\nCuanto más lejos estés de tu objetivo,\nmayor será el daño de esta habilidad,\npero también tardará más\nen activarse."
+        "ko": "[에소페]\n적어도 어느 한 테두리에 갇혀서 아무것도 하지 못하거나, 안 하는 것보다 훨씬 나은 셈이다.",
+        "en": "[Aesop]\nAt the very least, it is far better than being trapped within some boundary and being unable to do anything, or choosing not to.",
+        "pt": "[Aesop]\nAo menos é muito melhor do que ficar preso dentro de algum limite e não poder fazer nada, ou simplesmente não fazer nada.",
+        "es": "[Aesop]\nAl menos es mucho mejor que quedar atrapado dentro de un marco y no poder hacer nada, o no hacer nada."
     },
     "Bd8xAw": {
-        "en": "[Essofeit]\nAnd while it's taking its time, you'll be frozen on the spot.\nIn other words, the more powerful this skill,\nthe longer you'll become vulnerable before it delivers a blow.\nIt's not something you can use on a whim.",
-        "pt": "[Essofeit]\nE, enquanto estiver carregando, você não se moverá.\nEm outras palavras, quanto mais poderosa for essa habilidade,\nmais tempo você ficará vulnerável antes de desferir o golpe.\nNão é algo que você possa usar à toa.",
-        "es": "[Essofeit]\nY, mientras transcurra ese tiempo, no podrás moverte.\nEn otras palabras, cuanto más potente sea esta habilidad,\nmás tiempo quedarás vulnerable antes de que impacte.\nNo es algo que puedas usar por capricho."
+        "ko": "[에소페]\n그대가 이 기사단을 어떻게 생각하고 있는지는 모르지만, 실상은 그대의 생각보다 훨씬 심각하다.",
+        "en": "[Aesop]\nI do not know what you think of this chivalry, but the reality is far more serious than you may imagine.",
+        "pt": "[Aesop]\nNão sei o que você pensa desta Ordem dos Cavaleiros, mas a realidade é muito mais grave do que imagina.",
+        "es": "[Aesop]\nNo sé qué piensas de esta orden de caballeros, pero la realidad es mucho más grave de lo que imaginas."
     },
     "Bt8xAw": {
-        "en": "[Essofeit]\nYou can figure out its exact application\non your own. And... Yes,\nI'll call it ^FF0000Charge Attack^000000.\nI know it doesn't sound impressive,\nbut it's pretty straightforward, isn't it?\nIt tells you what the skill can do.",
-        "pt": "[Essofeit]\nVocê pode descobrir sua aplicação exata\npor conta própria. E... Sim,\nEu chamo de ^FF0000Avanço Ofensivo^000000.\nSei que não parece impressionante,\nmas é bem simples, né?\nEle informa o que a habilidade pode fazer.",
-        "es": "[Essofeit]\nPuedes descubrir su uso exacto\npor tu cuenta. Y… sí,\nla llamaré ^FF0000Ataque de carga^000000.\nSé que no suena impactante,\npero es bastante claro, ¿no?\nIndica lo que puede hacer la habilidad."
+        "ko": "[에소페]\n그 실상을 알고 싶으면 밖으로 나가서 훈련하는 것을 견학하도록.",
+        "en": "[Aesop]\nIf you wish to know the truth, go outside and observe the training.",
+        "pt": "[Aesop]\nSe quiser conhecer essa realidade, saia e observe o treinamento.",
+        "es": "[Aesop]\nSi quieres conocer esa realidad, sal fuera y observa el entrenamiento."
     },
     "B98xAw": {
-        "en": "[Essofeit]\nAlright, then enjoy using it.",
-        "pt": "[Essofeit]\nBeleza. Divirta-se com a habilidade!",
-        "es": "[Essofeit]\nMuy bien, entonces, disfrútala."
+        "ko": "[에소페]\n지금 다른 이들은 훈련시간이라 옆의 공터에서 훈련하고 있을 터. 반드시 가까이 가서 그 눈으로 제대로 확인하는 것이 좋을 것이야.",
+        "en": "[Aesop]\nThe others should be training in the vacant lot nearby, as it is training time now. You should make sure to go close and see it properly with your own eyes.",
+        "pt": "[Aesop]\nAgora os outros devem estar em horário de treinamento, treinando no terreno vazio ao lado. É melhor se aproximar e confirmar corretamente com seus próprios olhos.",
+        "es": "[Aesop]\nAhora los demás deberían estar entrenando en el descampado de al lado. Será mejor que te acerques y lo compruebes bien con tus propios ojos."
     },
     "CN8xAw": {
-        "en": "[Essofeit]\n^FF0000It's also an Attack skill\n^FF0000targeting a single enemy at the cost of 40 SP. The farther you are\nfrom your target, the greater this skill's damage,\nbut it also causes a longer delay\nto inflict damage.",
-        "pt": "[Essofeit]\n^FF0000Também é uma habilidade de Ataque\n^FF0000que tem como alvo um único inimigo ao custo de 40 SP. Quanto mais longe você estiver\ndo alvo, maior será o dano causado pela habilidade,\nmas ela também demorará mais\npara causar dano.",
-        "es": "[Essofeit]\n^FF0000También es una habilidad de ataque\n^FF0000dirigida a un solo enemigo que cuesta 40 SP. Cuanto más lejos estés\nde tu objetivo, mayor será el daño de esta habilidad,\npero también provoca un mayor retraso\npara infligir daño."
+        "ko": "[에소페]\n자유로운 자네는 모르겠지만, 가끔은 이런 속박의 굴레에 자신도 모르게 포박당해버린다는 것이 어떤 것인지 느끼도록 하여라.",
+        "en": "[Aesop]\nYou, who are free, may not understand, but sometimes you must feel what it is like to be unknowingly bound by these shackles of restraint.",
+        "pt": "[Aesop]\nVocê, que é livre, talvez não saiba, mas às vezes é preciso sentir como é ser aprisionado, sem perceber, pelos grilhões dessas restrições.",
+        "es": "[Aesop]\nQuizá tú, que eres libre, no lo sepas, pero a veces conviene sentir qué significa quedar atado sin darte cuenta por las cadenas de una obligación como esta."
     },
     "Cd8xAw": {
-        "en": "[Essofeit]\nAlright, then enjoy using it.\nMeanwhile, I'll stop being so passive\nand start raising\nthe honor of the Knights again.",
-        "pt": "[Essofeit]\nTudo bem, então aproveite bem a habilidade.\nEnquanto isso, vou parar de ser tão passivo\ne começarei a elevar\na honra dos Cavaleiros mais uma vez.",
-        "es": "[Essofeit]\nMuy bien, entonces, disfrútala.\nMientras tanto, ya no me quedaré de brazos cruzados.\nMe ocuparé de devolverles\nel honor a los Caballeros."
+        "ko": "[에소페]\n견학인가? 그것도 좋겠지. 훈련 견학도 할 수 있으니 생각이 있다면 밖의 공터로 나가보라.",
+        "en": "[Aesop]\nHere to observe? That is fine as well. You may watch the training, so if you are interested, go to the vacant lot outside.",
+        "pt": "[Aesop]\nVeio observar? Isso também é bom. Se tiver interesse, pode sair até o terreno vazio para observar o treinamento.",
+        "es": "[Aesop]\n¿Una visita de observación? Tampoco está mal. Puedes observar el entrenamiento, así que, si te interesa, sal al descampado exterior."
     },
     "Ct8xAw": {
-        "en": "[Essofeit]\n...Mind if I see those Candy Canes\nand Witherless Roses\nyou have?",
-        "pt": "[Essofeit]\n...Posso ver essas Bengalas Doces\ne Rosas Murchas\nque você tem?",
-        "es": "[Essofeit]\n…¿Puedo ver esos Bastones de dulce\ny esas Rosas eternas\nque tienes?"
+        "ko": "[에소페]\n분명 메로제 기사단장님이 다른 기사단원들을 훈련시키고 있을터.",
+        "en": "[Aesop]\nCaptain Meroze should surely be training the other knights.",
+        "pt": "[Aesop]\nCertamente o Capitão dos Cavaleiros Meroze estará treinando os outros membros da Ordem.",
+        "es": "[Aesop]\nSeguro que el capitán de caballeros Meroze estará entrenando a los demás miembros."
     },
     "C98xAw": {
-        "en": "Show.",
-        "pt": "Mostrar.",
-        "es": "Mostrárselos."
+        "ko": "[에소페]\n그 눈은... 그런가. 우리 기사단의 실체를 보고 온 것이군. 무엇을 느꼈으며, 무슨 생각을 했는지는 굳이 묻지 않겠다.",
+        "en": "[Aesop]\nThose eyes... I see. You have seen the true state of our chivalry. I will not ask what you felt or what you thought.",
+        "pt": "[Aesop]\nEsse olhar... Entendo. Você viu a verdadeira face da nossa Ordem dos Cavaleiros. Não perguntarei o que sentiu nem o que pensou.",
+        "es": "[Aesop]\nEsa mirada... Ya veo. Has visto la verdadera naturaleza de nuestra orden. No te preguntaré qué sentiste ni qué pensaste."
     },
     "DN8xAw": {
-        "en": "Don't show.",
-        "pt": "Não mostrar.",
-        "es": "No mostrárselos."
+        "ko": "[에소페]\n무엇을 위한 기사인가, 무엇을 위한 훈련인지 나는 더 이상 알 수 없다.",
+        "en": "[Aesop]\nI no longer know what we are knights for, or what this training is for.",
+        "pt": "[Aesop]\nJá não sei mais para que serve um cavaleiro, nem para que serve o treinamento.",
+        "es": "[Aesop]\nYa no sé para qué sirve ser caballero, ni para qué sirve este entrenamiento."
     },
     "Dd8xAw": {
-        "en": "[Essofeit]\n...I remember those days\nwhen I fought to the death to train.\nOn the outside, I was ragged and exhausted;\non the inside, I was filled with joy\nbecause I was getting stronger every day...",
-        "pt": "[Essofeit]\n...Lembro-me daqueles dias\nquando lutei até a morte para treinar.\nPor fora, eu estava puro cansaço e exaustão;\npor dentro, sentia alegria porque estava \nficando mais forte a cada dia...",
-        "es": "[Essofeit]\n…Recuerdo aquellos días\nen los que luchaba a muerte para entrenar.\nPor fuera, parecía descuidado y agotado.\nPor dentro, sentía una gran alegría\nporque cada día me hacía más fuerte…"
+        "ko": "[에소페]\n내가 자네 정도일 때엔... 그래, 실전의 위험 속에서 계속 자신을 끊임없이 내던졌었지.",
+        "en": "[Aesop]\nWhen I was about your age... yes, I constantly threw myself into the dangers of actual combat.",
+        "pt": "[Aesop]\nQuando eu tinha a sua idade... sim, eu continuava me lançando sem parar em meio aos perigos reais.",
+        "es": "[Aesop]\nCuando yo tenía tu nivel... sí, me lanzaba sin cesar a los peligros del combate real para seguir templándome."
     },
     "Dt8xAw": {
-        "en": "[Essofeit]\nThis is it. The original intentions.\nIt was no one else but I\nwho limited myself by thinking\nthere was nothing I could do.",
-        "pt": "[Essofeit]\nÉ isso. As intenções originais.\nNão foi ninguém além de mim\nque colocou um limite ao pensar\nque não havia nada que eu pudesse fazer.",
-        "es": "[Essofeit]\nEso es todo. El propósito original.\nYo mismo\nme limité, por creer\nque no había nada que pudiera hacer."
+        "ko": "[에소페]\n...시시한 과거 이야기다. 과거야 어쨌든, 지금으로서는 답이 나오지 않는군. 이것도 무리라는 굴레에 속박된 자의 운명의 한 종류인가.",
+        "en": "[Aesop]\n...It is a dull tale of the past. Whatever the past may have been, I cannot find an answer now. Is this too one kind of fate for those bound by the shackles of the group?",
+        "pt": "[Aesop]\n...É uma história banal do passado. Seja como for o passado, agora não consigo encontrar uma resposta. Seria isso também uma forma do destino daqueles presos aos grilhões de um grupo?",
+        "es": "[Aesop]\n...No es más que una historia trivial del pasado. Sea como sea el pasado, ahora no encuentro respuesta. ¿Será esto también una forma del destino de quien está atado por las cadenas del grupo?"
     },
     "D98xAw": {
-        "en": "[Essofeit]\nI'm going to go back to basics\nand try hard,\nregardless of what the others do.\nThis may not change anything,\nbut at least I would have tried.",
-        "pt": "[Essofeit]\nVou voltar ao básico\ne me esforçar,\nindependentemente do que os outros fizerem.\nIsso pode não mudar nada,\nmas ao menos eu tentarei.",
-        "es": "[Essofeit]\nVolveré a lo básico\ny me esforzaré al máximo,\nsin importar lo que hagan los demás.\nTal vez esto no cambie nada,\npero al menos lo habré intentado."
+        "ko": "[에소페]\n...자네가 가져온 그 Candy_Striper과 시들지않는 장미, 나에게 좀 줘 볼 수 있을까.",
+        "en": "[Aesop]\n...Could you show me that Candy Cane and Witherless Rose you brought?",
+        "pt": "[Aesop]\n...Esse Bengala Doce e essas Rosas Eternas que você trouxe, poderia me mostrar?",
+        "es": "[Aesop]\n...Ese Bastón de dulce y esas rosas eternas que has traído... ¿podrías dejármelos ver?"
     },
     "EN8xAw": {
-        "en": "[Essofeit]\nThe outcome doesn't matter, anyway.\nWhat matters is that I won't give up.\nThat I'll try hard for as long as I can.",
-        "pt": "[Essofeit]\nDe qualquer forma, o resultado não importa.\nO que importa é que eu não desistirei.\nVou me esforçar pelo máximo de tempo que puder.",
-        "es": "[Essofeit]\nDe todos modos, el resultado no importa.\nLo que importa es que no me rendiré.\nQue haré mi mayor esfuerzo durante todo el tiempo que pueda."
+        "ko": "보여준다",
+        "en": "Show him.",
+        "pt": "Mostrar",
+        "es": "Mostrarlos."
     },
     "Ed8xAw": {
-        "en": "[Essofeit]\nThank you so much for reminding me this,\nnew Knight.\nIn return, I'd like to teach you\na skill I've developed after years of training.",
-        "pt": "[Essofeit]\nMuito obrigado por me lembrar disso,\nnovo Cavaleiro.\nEm troca, gostaria de lhe ensinar\numa habilidade que desenvolvi após anos de treinamento.",
-        "es": "[Essofeit]\nMuchas gracias por recordármelo,\njoven Caballero.\nA cambio, me gustaría enseñarte\nuna habilidad que desarrollé tras años de entrenamiento."
+        "ko": "보여주지않는다",
+        "en": "Do not show him.",
+        "pt": "Não mostrar",
+        "es": "No mostrarlos."
     },
     "Et8xAw": {
-        "en": "[Essofeit]\nIt's not something incredible, but I guarantee you\nit'll be helpful for your journey.\nLet me know when you're ready to learn it.",
-        "pt": "[Essofeit]\nNão é algo incrível, mas garanto\nque será útil em sua jornada.\nAvise-me quando quiser aprender.",
-        "es": "[Essofeit]\nNo es algo increíble, pero te garantizo\nque te será útil en tu viaje.\nAvísame cuando tengas todo listo para aprenderla."
+        "ko": "[에소페]\n... 기억이 나는군. 하루하루 죽음을 등지고 살아갔던 자기 수행의 나날들. 비록 몸은 고달팠지만 강해지는 즐거움에 마음만은 흐뭇했던 그때.",
+        "en": "[Aesop]\n...I remember now. Those days of self-discipline, living each day with death at my back. Though my body was weary, my heart was filled with joy at becoming stronger.",
+        "pt": "[Aesop]\n...Estou me lembrando. Os dias de autodisciplina em que eu vivia dia após dia com a morte às costas. Embora o corpo sofresse, meu coração ficava satisfeito com a alegria de me tornar mais forte.",
+        "es": "[Aesop]\n...Lo recuerdo. Aquellos días de disciplina personal en los que vivía cada día con la muerte a la espalda. Aunque el cuerpo sufría, el corazón se alegraba con el placer de volverse más fuerte."
     },
     "E98xAw": {
-        "en": "[Essofeit]\nI see. I'm sorry I asked.\nBut let me know\nif you change your mind.",
-        "pt": "[Essofeit]\nEntendo. Desculpe-me por ter perguntado.\nMas fale comigo\nse mudar de ideia.",
-        "es": "[Essofeit]\nYa veo. Siento haber preguntado.\nPero avísame\nsi cambias de opinión."
+        "ko": "[에소페]\n그런가... 초심이다. 무리라는 속박에 사로잡혀서 아무것도 하지 않는 건 오히려 나였을지도 모르겠군.",
+        "en": "[Aesop]\nI see... it is my original resolve. Perhaps I was the one who was caught by the restraints of the group and doing nothing.",
+        "pt": "[Aesop]\nEntendo... é o espírito inicial. Talvez quem estava preso aos grilhões do grupo e não fazia nada fosse justamente eu.",
+        "es": "[Aesop]\nYa veo... el espíritu inicial. Quizá quien no hacía nada, atrapado por las cadenas del grupo, era en realidad yo."
     },
     "FN8xAw": {
-        "en": "[Essofeit]\nWhen I was fresh just like you,\nI kept throwing myself\ninto dangers. The real dangers.",
-        "pt": "[Essofeit]\nQuando eu era novato, assim como você,\neu continuava me metendo\nem perigos. Dos mais intensos.",
-        "es": "[Essofeit]\nCuando era joven como tú,\nno dejaba de lanzarme\nal peligro. Al verdadero peligro."
+        "ko": "[에소페]\n다시 한번 초심으로 돌아가서 나 자신만이라도 열심히 해 볼 생각이 들었다. 비록 모든 것을 다 잃을지라도 해보는 것 자체에 의미가 있을 터.",
+        "en": "[Aesop]\nI feel that I should return to my original resolve once more and at least try my hardest for myself. Even if I lose everything, the act of trying itself will have meaning.",
+        "pt": "[Aesop]\nSenti vontade de voltar mais uma vez ao espírito inicial e me esforçar, nem que seja por mim mesmo. Mesmo que eu perca tudo, o ato de tentar terá seu próprio significado.",
+        "es": "[Aesop]\nMe han entrado ganas de volver una vez más a mis orígenes y esforzarme, aunque solo sea por mí mismo. Aunque lo pierda todo, el hecho de intentarlo tendrá sentido."
     },
     "Fd8xAw": {
-        "en": "[Essofeit]\nIt's an old story now,\nand I can never go back, but...\nI was definitely happier then.",
-        "pt": "[Essofeit]\nJá é uma história antiga,\ne nunca poderei voltar atrás, mas...\nEu era definitivamente mais feliz naquela época.",
-        "es": "[Essofeit]\nEso ya es historia,\ny nunca podré volver el tiempo atrás, pero…\nSin duda, era más feliz entonces."
+        "ko": "[에소페]\n타인이 나의 노력을 배신한다고 할지라도, 더 끊임없이 노력하며 포기하지 않을 것이다.",
+        "en": "[Aesop]\nEven if others betray my efforts, I will strive ever harder and never give up.",
+        "pt": "[Aesop]\nMesmo que outros traiam meu esforço, continuarei me esforçando ainda mais e não desistirei.",
+        "es": "[Aesop]\nAunque otros traicionen mis esfuerzos, seguiré esforzándome sin cesar y no me rendiré."
     },
     "Ft8xAw": {
-        "en": "[Essofeit]\nThat look in your eyes... I see. You've witnessed\nthe truth about us the Knights. I won't ask\nhow you feel\nor what you think about it.",
-        "pt": "[Essofeit]\nEsse seu olhar... Entendo. Você testemunhou\na verdade sobre nós, os Cavaleiros. Não vou perguntar\ncomo você se sente\nou o que pensa sobre isso.",
-        "es": "[Essofeit]\nEsa mirada en tus ojos… Ya veo. Ya fuiste testigo\nde la verdad sobre nosotros, los Caballeros. No preguntaré \ncómo te sientes\nni qué piensas al respecto."
+        "ko": "[에소페]\n진정으로 고맙게 생각한다.\n새내기 기사여. 보답으로 내가 연구 끝에 만들어낸 기술을 전수해 주지.",
+        "en": "[Aesop]\nI am truly grateful.\nNew knight. As thanks, I will pass down to you a technique I created after much research.",
+        "pt": "[Aesop]\nSou verdadeiramente grato.\nJovem cavaleiro. Como recompensa, transmitirei a técnica que criei após minhas pesquisas.",
+        "es": "[Aesop]\nTe lo agradezco sinceramente.\nCaballero novato. Como recompensa, te transmitiré una técnica que he creado tras investigar."
     },
     "F98xAw": {
-        "en": "[Essofeit]\nEven I don't know\nwhy I'm here\nor what I'm training for.",
-        "pt": "[Essofeit]\nMesmo eu não sei\npor que estou aqui\nou para que estou treinando.",
-        "es": "[Essofeit]\nNi siquiera yo sé \npor qué estoy aquí \no para qué estoy entrenando."
+        "ko": "[에소페]\n별건 아니다만, 필히 자네의 앞 날에 도움이 될 것이야. 준비 다 되면 다시 말 걸게.",
+        "en": "[Aesop]\nIt is nothing great, but it will surely be of help on your path ahead. Speak to me again when you are ready.",
+        "pt": "[Aesop]\nNão é grande coisa, mas certamente ajudará em seu futuro. Quando estiver pronto, fale comigo novamente.",
+        "es": "[Aesop]\nNo es gran cosa, pero sin duda te será útil en el futuro. Cuando estés preparado, háblame de nuevo."
     },
     "GN8xAw": {
-        "en": "[Essofeit]\nBut... that was then, and it's different now.\nI don't know what to do anymore.\nPerhaps I've gotten too comfortable with being the way I am,\nin a big, stable group that provides you with everything you need.",
-        "pt": "[Essofeit]\nMas... isso foi naquela época, e agora é diferente.\nNão sei mais o que fazer.\nTalvez eu tenha me acomodado demais em ser como sou,\nem um grupo grande e estável que fornece tudo o que você precisa.",
-        "es": "[Essofeit]\nPero… eso era antes y, ahora, es diferente.\nYa no sé qué hacer.\nTal vez me acostumbré demasiado a ser como soy,\nen un grupo grande y estable que te da todo lo que necesitas."
+        "ko": "[에소페]\n그런가. 어쩔 수 없군. 생각이 바뀌면 다시 이야기하게.",
+        "en": "[Aesop]\nI see. It cannot be helped. If you change your mind, speak to me again.",
+        "pt": "[Aesop]\nEntendo. Não há o que fazer. Se mudar de ideia, fale comigo novamente.",
+        "es": "[Aesop]\nYa veo. No se puede evitar. Si cambias de opinión, vuelve a hablar conmigo."
     },
     "Gd8xAw": {
-        "en": "[Essofeit]\nAre you on a tour around the facilities? Welcome.\nYou can watch us train, too.\nIf you're interested, go outside to the empty lot.\nThe others should be training\nwith Knight Master Meroje right now.",
-        "pt": "[Essofeit]\nVocê está de passeio pelas instalações? Boas-vindas.\nVocê também pode assistir aos treinos.\nSe tiver interesse, vá até o terreno vazio.\nOs outros devem estar treinando\ncom o Mestre Cavaleiro Meroje agora mesmo.",
-        "es": "[Essofeit]\n¿Vas a recorrer las instalaciones? Te doy la bienvenida.\nTambién puedes vernos entrenar.\nSi te interesa, dirígete al terreno vacío.\nLos demás deben estar entrenando\ncon el Maestro caballero Meroje en este momento."
+        "ko": "[에소페]\n시시한 과거 이야기이고 지금은 되돌릴 수 없지만, 그때가 더 삶의 낙은 있었던 것 같군.",
+        "en": "[Aesop]\nIt is a dull tale of the past, and I cannot return to it now, but I think life held more joy back then.",
+        "pt": "[Aesop]\nÉ uma história banal do passado e agora não posso voltar atrás, mas acho que naquela época havia mais alegria em viver.",
+        "es": "[Aesop]\nEs una historia trivial del pasado y ahora no puedo volver atrás, pero creo que entonces había más alegría en mi vida."
     },
     "Gt8xAw": {
-        "en": "[Essofeit]\n...I don't think I've seen you before.\nWhich unit are you in?\nI'm in the Seventh.\nName's Essofeit Lazeya.",
-        "pt": "[Essofeit]\n...acho que nunca te vi.\nEm que unidade você está?\nEstou na Sétima.\nMeu nome é Essofeit Lazeya.",
-        "es": "[Essofeit]\n…Creo que no te había visto antes.\n¿En qué unidad estás?\nYo estoy en la Séptima.\nMe llamo Essofeit Lazeya."
+        "ko": "[에소페]\n자네에게 가르쳐 줄 기술은\n^FF0000본 스킬트리와는 관계없는 퀘스트 스킬로서 조건이 허용하는 한 언제든 사용가능한 액티브 스킬이다.^000000",
+        "en": "[Aesop]\nThe technique I will teach you\nis ^FF0000a quest skill unrelated to the main skill tree, an active skill that can be used whenever conditions allow.^000000",
+        "pt": "[Aesop]\nA técnica que ensinarei a você\n^FF0000é uma habilidade de missão sem relação com a árvore principal de habilidades, uma habilidade ativa que pode ser usada sempre que as condições permitirem.^000000",
+        "es": "[Aesop]\nLa técnica que voy a enseñarte\n^FF0000es una habilidad activa de misión que no guarda relación con el árbol principal de habilidades y puede usarse siempre que se cumplan las condiciones.^000000"
     },
     "G98xAw": {
-        "en": "[Essofeit]\nI see. So, you're not in a group yet.\nA freelancing knight, huh?\nThat's not bad. Actually, it's better than\nbeing confined within a structure\nand not being able to do anything on your own.",
-        "pt": "[Essofeit]\nEntendi. Então você ainda não está em um grupo.\nUm cavaleiro autônomo, hein?\nIsso não é ruim. Na verdade, é melhor do que\nestar confinado em uma estrutura\ne não ser capaz de fazer nada por conta própria.",
-        "es": "[Essofeit]\nYa veo. Así que aún no estás en un grupo.\n¿Eres un Caballero independiente?\nNo está mal. En realidad, es mejor que\nestar confinado dentro de una estructura\ny no ser capaz de hacer nada por tu cuenta."
+        "ko": "[에소페]\n^FF0000SP가 40이 소비되며 적 1인을 대상으로 한 공격형 기술이다.^000000\n상대와의 거리에 따라 위력이 증가하며, 거리가 멀어짐에 따라 상대가 피해를 입을 때까지의 텀이 늘어난다.",
+        "en": "[Aesop]\n^FF0000It consumes 40 SP and is an offensive skill targeting one enemy.^000000\nIts power increases depending on the distance to the target, and the farther away the target is, the longer the delay before the target takes damage.",
+        "pt": "[Aesop]\n^FF0000Consome 40 de SP e é uma técnica ofensiva direcionada a 1 inimigo.^000000\nSeu poder aumenta de acordo com a distância até o alvo, e quanto maior a distância, maior é o intervalo até que o alvo receba dano.",
+        "es": "[Aesop]\n^FF0000Consume 40 SP y es una técnica ofensiva dirigida a un solo enemigo.^000000\nSu potencia aumenta según la distancia con el objetivo, y cuanto mayor sea la distancia, más tarda en aplicarse el daño al enemigo."
     },
     "HN8xAw": {
-        "en": "[Essofeit]\nI don't know what you think of this group,\nbut its reality is worse\nthan what you might think right now.",
-        "pt": "[Essofeit]\nNão sei o que você pensa sobre esse grupo,\nmas sua realidade é pior\ndo que você pode pensar agora.",
-        "es": "[Essofeit]\nNo sé qué piensas de este grupo,\npero su realidad es peor\nde lo que puedas pensar ahora mismo."
+        "ko": "[에소페]\n그 텀만큼 시전자도 행동불능의 상태가 되는데... 위력이 강하면 행동불능 시간도 늘어나므로 남발할 수 있는 스킬은 아니야.",
+        "en": "[Aesop]\nDuring that delay, the caster also becomes unable to act... If the power is strong, the inability to act lasts longer as well, so it is not a skill that can be used recklessly.",
+        "pt": "[Aesop]\nDurante esse intervalo, o usuário também fica incapaz de agir... e, se o poder for alto, o tempo de incapacidade também aumenta, então não é uma habilidade que possa ser usada indiscriminadamente.",
+        "es": "[Aesop]\nDurante ese intervalo, el usuario también queda incapacitado para actuar... Y cuanto mayor sea la potencia, más largo será el tiempo de inmovilidad, así que no es una habilidad que pueda usarse sin medida."
     },
     "Hd8xAw": {
-        "en": "[Essofeit]\nIf you want to know what I'm talking about,\ngo outside and take a look at my colleagues training.\nRight now, it's the training time.\nThey should be training in the empty lot outside this building.\nAnd I suggest you take a very close look\nat the way they train.",
-        "pt": "[Essofeit]\nSe quiser saber do que estou falando,\nvá lá fora e dê uma olhada no treinamento dos meus colegas.\nEstão treinando agora mesmo.\nEles devem estar treinando no terreno baldio do lado de fora deste edifício.\nSugiro que você olhe bem\na maneira como eles treinam.",
-        "es": "[Essofeit]\nSi quieres saber de qué estoy hablando,\nve afuera y echa un vistazo al entrenamiento de mis colegas.\nEsta es la hora del entrenamiento.\nDeben estar entrenando en el terreno vacío fuera de este edificio.\nY te sugiero que prestes mucha atención\na la forma en que entrenan."
+        "ko": "[에소페]\n나머지는 쓰면서 그 활용을 찾아보도록 하게. 그래... 그 스킬의 이름은 ^FF0000차지 어택^000000이라고 한다.",
+        "en": "[Aesop]\nFind the rest of its uses as you use it. Yes... the name of that skill is ^FF0000Charge Attack^000000.",
+        "pt": "[Aesop]\nQuanto ao resto, descubra seu uso ao utilizá-la. Sim... o nome dessa habilidade é ^FF0000Avanço Ofensivo^000000.",
+        "es": "[Aesop]\nEl resto deberás descubrirlo mientras la usas. Sí... esa habilidad se llama ^FF0000Ataque Rápido^000000."
     },
     "Ht8xAw": {
-        "en": "[Essofeit]\nYou may not have experienced this, being on your own,\nbut watching them might give you an inkling of\nwhat being too comfortable\ncan do to warriors.",
-        "pt": "[Essofeit]\nTalvez você não tenha vivenciado isso, por conta própria,\nmas observá-los pode lhe dar uma ideia\ndo que conforto demais\npode fazer com os guerreiros.",
-        "es": "[Essofeit]\nQuizás no lo hayas experimentado al viajar por tu cuenta,\npero observarlos podría darte una idea de\nlo que la comodidad excesiva\npuede hacerle a un guerrero."
+        "ko": "[에소페]\n별로 멋있는 이름은 아니지만 공격의 이미지가 바로 떠오르니 좋을 것이다.",
+        "en": "[Aesop]\nIt is not a particularly impressive name, but it should be good because it immediately brings the image of the attack to mind.",
+        "pt": "[Aesop]\nNão é um nome muito elegante, mas evoca imediatamente a imagem de um ataque, então é bom.",
+        "es": "[Aesop]\nNo es un nombre especialmente elegante, pero evoca de inmediato la imagen del ataque, así que servirá."
     },
     "H98xAw": {
-        "en": "[Essofeit]\nI'm Essofeit Lazeya,\na member of the Seventh Unit of the proud Prontera Knights.\nIf you want to call me,\njust call me Essofeit.\nYou don't have to call me by my surname.",
-        "pt": "[Essofeit]\nEu sou Essofeit Lazeya,\nmembro da Sétima Unidade dos orgulhosos Cavaleiros de Prontera.\nSe quiser me chamar,\npode usar só Essofeit.\nNão precisa me chamar pelo meu sobrenome.",
-        "es": "[Essofeit]\nSoy Essofeit Lazeya,\nmiembro de la Séptima Unidad de los orgullosos Caballeros de Prontera.\nSi quieres,\npuedes decirme Essofeit.\nNo tienes que llamarme por mi apellido."
+        "ko": "[에소페]\n그럼 잘 사용하도록 하여라. 나도 포기하지 않고 기사단의 명예를 높이는데 혼신을 다 바치도록 하겠다.",
+        "en": "[Aesop]\nThen use it well. I too will not give up, and will devote myself fully to raising the honor of the chivalry.",
+        "pt": "[Aesop]\nEntão use-a bem. Eu também não desistirei e dedicarei todas as minhas forças a elevar a honra da Ordem dos Cavaleiros.",
+        "es": "[Aesop]\nEntonces úsala bien. Yo tampoco me rendiré y dedicaré todas mis fuerzas a elevar el honor de la orden."
     },
     "IN8xAw": {
-        "en": "[Essofeit]\nIf you want to take a tour around the Knights,\nyou're welcome, but make sure to\nobserve your manners as you do so.",
-        "pt": "[Essofeit]\nSe quiser fazer um passeio pelos Cavaleiros,\nsinta-se à vontade, mas não se esqueça\nde manter a educação enquanto isso.",
-        "es": "[Essofeit]\nSi quieres recorrer las instalaciones de los Caballeros,\nadelante, pero asegúrate de\ncuidar tus modales."
+        "ko": "[에소페]\n음? 자네는... 다시 한번 차지 어택에 대한 정보를 듣고 싶은가? 알겠다. 바로 다시 한번 가르쳐주도록 하지.",
+        "en": "[Aesop]\nHm? You are... Do you wish to hear information about Charge Attack once more? Very well. I shall teach you again at once.",
+        "pt": "[Aesop]\nHmm? Você... quer ouvir novamente as informações sobre Avanço Ofensivo? Entendido. Vou ensiná-las mais uma vez.",
+        "es": "[Aesop]\n¿Mmm? Tú eres... ¿Quieres escuchar otra vez la información sobre Ataque Rápido? Entendido. Te la enseñaré de nuevo enseguida."
     },
     "Id8xAw": {
-        "en": "[?]\nHaah!",
-        "pt": "[?]\nRá!",
-        "es": "[¿?]\n¡Aah!"
+        "ko": "[에소페]\n그럼 잘 사용하도록 하여라.",
+        "en": "[Aesop]\nThen use it well.",
+        "pt": "[Aesop]\nEntão use-a bem.",
+        "es": "[Aesop]\nEntonces úsala bien."
     },
     "It8xAw": {
-        "en": "[?]\nToh!",
-        "pt": "[?]\nTó!",
-        "es": "[¿?]\n¡Toh!"
+        "ko": "[에소페]\n열심히 하도록. 세상은 만만한 것이 아니니까 말이지. 자신이 몸 바친 것에 혼신의 힘을 다하는 것은 결코 나쁜 것이 아니야.",
+        "en": "[Aesop]\nWork hard. The world is not an easy place. Devoting all your strength to what you have committed yourself to is never a bad thing.",
+        "pt": "[Aesop]\nEsforce-se. O mundo não é fácil. Dedicar todas as suas forças àquilo a que entregou o corpo jamais é algo ruim.",
+        "es": "[Aesop]\nEsfuérzate. El mundo no es algo fácil. Entregar todo tu ser a aquello a lo que has dedicado tu cuerpo nunca es algo malo."
     },
     "I98xAw": {
-        "en": "- I can hear some people shouting. -\n- They must be Essofeit's colleagues -\n- that he told me about. -",
-        "pt": "- Estou ouvindo algumas pessoas gritando. -\n- Devem ser os colegas de Essofeit -\n- de quem ele me falou. -",
-        "es": "(Oigo gritar a algunas personas.\nDeben ser los colegas de Essofeit\nde los que me habló."
+        "ko": "[에소페]\n나는 긍지 높은 프론테라 제7기사단의 에소페=라제야다.",
+        "en": "[Aesop]\nI am Aesop Lajeyada of the proud Prontera 7th Chivalry.",
+        "pt": "[Aesop]\nSou Aesop Rajeya, da orgulhosa 7ª Ordem dos Cavaleiros de Prontera.",
+        "es": "[Aesop]\nSoy Aesop=Rajeya, de la orgullosa 7.ª Orden de Caballeros de Prontera."
     },
     "JN8xAw": {
-        "en": "- They look like they're training hard. -\n- Just watching them makes me -\n- feel excited. -",
-        "pt": "- Parece que eles estão treinando bastante. -\n- Só o fato de observá-los me-\n- deixa com mais ânimo. -",
-        "es": "Parece que están entrenando duro.\nSolo verlos hace\nque me emocione)."
+        "ko": "[에소페]\n나를 부른다면 성까지 부를 필요 없이 에소페만으로 충분하다.",
+        "en": "[Aesop]\nIf you call me, there is no need to include my surname. Aesop alone is enough.",
+        "pt": "[Aesop]\nSe for me chamar, basta Aesop, sem necessidade de usar meu sobrenome.",
+        "es": "[Aesop]\nSi vas a llamarme, no hace falta que digas mi apellido; basta con Aesop."
     },
     "Jd8xAw": {
-        "en": "- The Knights look like -\n- they're training hard. Some of them -\n- sound obnoxiously loud, -\n- but I like how passionate they look like -\n- they're training. -",
-        "pt": "- Os Cavaleiros parecem -\n- estar treinando com determinação. Alguns deles -\n- são muito barulhentos, -\n- mas gosto de como eles parecem apaixonados -\n- pelo treinamento. -",
-        "es": "(Parece que los Caballeros\nestán entrenando duro. Algunos\nson terriblemente ruidosos,\npero me gusta lo apasionados que se ven\nmientras entrenan)."
+        "ko": "[에소페]\n그대도 이 기사단 견학을 원한다면 기사들에게 지지 않을 정도의 품격과 경의를 가지고 돌아다니도록.",
+        "en": "[Aesop]\nIf you too wish to observe this chivalry, then move about with dignity and respect no less than that of the knights.",
+        "pt": "[Aesop]\nSe você também deseja observar esta Ordem dos Cavaleiros, circule com dignidade e respeito suficientes para não ficar atrás dos cavaleiros.",
+        "es": "[Aesop]\nSi tú también deseas visitar esta orden, recorre el lugar con una dignidad y respeto que no desmerezcan frente a los caballeros."
     },
     "Jt8xAw": {
-        "en": "Knight Master",
-        "pt": "Mestre dos Cavaleiros",
-        "es": "Caballero Maestro"
+        "ko": "[?]\n이얍!",
+        "en": "[?]\nHyah!",
+        "pt": "[?]\nHya!",
+        "es": "[?]\n¡Yaah!"
     },
     "J98xAw": {
-        "en": "[Knight Master]\nTake it easy, men! You've got plenty of time left\nto fill before the training ends. No one\nwill cry for you if you die training.\nTake care of yourself!",
-        "pt": "[Mestre dos Cavaleiros]\nCalma aí, homens! Vocês ainda têm muito tempo\nantes do fim do treinamento. Ninguém\nvai chorar por vocês se morrerem no treinamento.\nÉ bom se cuidar!",
-        "es": "[Maestro caballero]\n¡Tómenselo con calma! Todavía les queda mucho tiempo\nantes de que termine el entrenamiento. Nadie\nllorará por ustedes si mueren entrenando.\n¡Cuídense!"
+        "ko": "[?]\n타아!",
+        "en": "[?]\nTah!",
+        "pt": "[?]\nTaa!",
+        "es": "[?]\n¡Taaah!"
     },
     "KN8xAw": {
-        "en": "[Knight Master]\nYou've done this before, and you'll do it again\nand again. This is just a formality.\nFocus on looking good. That's good enough!\nRemember, you're too young to die\nbefore you get to do what you really want!",
-        "pt": "[Mestre dos Cavaleiros]\nVocê já fez isso antes e fará de novo\ne mais uma vez. Isso é apenas uma formalidade.\nConcentre-se em ter uma boa aparência. Isso é bom o suficiente!\nLembre-se, você é muito jovem para morrer\nantes de conseguir fazer o que realmente quer!",
-        "es": "[Maestro caballero]\nYa lo hicieron antes y lo volverán a hacer\nuna y otra vez. Esto es solo una formalidad.\nConcéntrense en verse bien. ¡Suficiente!\n¡Recuerden que son demasiado jóvenes para morir\nantes de hacer lo que realmente quieren!"
+        "ko": "- 훈련하는 자들의 기합소리가 -\n- 들린다. 이들이 바로 에페소가 -\n- 말한 다른 기사단원인 듯 하다 -",
+        "en": "- You can hear the shouts -\n- of those in training. These seem to be -\n- the other knights Aesop mentioned. -",
+        "pt": "- Ouvem-se os gritos de ânimo -\n- daqueles que treinam. Eles parecem ser -\n- os outros membros da Ordem mencionados por Aesop. -",
+        "es": "- Se oyen los gritos de combate -\n- de quienes entrenan. Parece que estos son -\n- los otros miembros de la orden de los que habló Aesop. -"
     },
     "Kd8xAw": {
-        "en": "[Knight Master]\nTake it easy, men! You've got plenty of time left\nbefore the training time ends. No one will cry for you,\neven if you die during training. Take care of yourself!",
-        "pt": "[Mestre dos Cavaleiros]\nCalma aí, homens! Vocês ainda têm muito tempo\nantes até o fim do treinamento. Ninguém vai chorar por vocês \nse morrerem no treinamento.É bom se cuidar!",
-        "es": "[Maestro caballero]\n¡Tómenselo con calma! Todavía les queda mucho tiempo\nantes de que termine el horario de entrenamiento. Nadie llorará por ustedes,\naunque mueran durante el entrenamiento. ¡Cuídense!"
+        "ko": "- 굉장히 열심히 하고 있다 -\n- 단순히 보기만 해도 상당히 -\n- 보기 좋다 -",
+        "en": "- They are working very hard. -\n- Even simply watching them -\n- is quite pleasing. -",
+        "pt": "- Eles estão se esforçando muito. -\n- Mesmo apenas observando, -\n- é uma cena bastante agradável. -",
+        "es": "- Están esforzándose muchísimo. -\n- Incluso con solo mirar, resulta bastante -\n- agradable de ver. -"
     },
     "Kt8xAw": {
-        "en": "[Knight Master]\nTry your hardest! The future of Prontera\nrests on our shoulders!\nWe're training ourselves, so we can protect our citizens\nwhen they need us the most!",
-        "pt": "[Mestre dos Cavaleiros]\nDê o seu melhor! O futuro de Prontera\ndepende de nós!\nEstamos treinando para que possamos proteger nossos cidadãos\nquando eles mais precisarem de nós!",
-        "es": "[Maestro caballero]\n¡Esfuércense al máximo! ¡El futuro de Prontera\nestá en nuestras manos!\n¡Entrenamos para poder proteger a nuestros ciudadanos\ncuando más nos necesiten!"
+        "ko": "- 힘든 훈련을 하고 있는 기사 -\n- 단원들이 보인다. 가끔은 정말 -\n- 시끄러운 기합소리때문에 민폐를 -\n- 끼칠 때도 있지만, 정말 열심히 -\n- 하는 모습이 좋아보인다. -",
+        "en": "- You can see the knights -\n- undergoing difficult training. At times, -\n- their loud shouts can be a nuisance, -\n- but their dedication looks truly admirable. -",
+        "pt": "- Veem-se membros da Ordem dos Cavaleiros -\n- fazendo um treinamento difícil. Às vezes -\n- causam incômodo por causa dos gritos -\n- de ânimo realmente barulhentos, mas -\n- a dedicação deles parece admirável. -",
+        "es": "- Se ve a los caballeros realizando -\n- un entrenamiento duro. A veces, los gritos -\n- de combate realmente ruidosos causan molestias, -\n- pero su esfuerzo resulta admirable. -"
     },
     "K98xAw": {
-        "en": "[Knight]\nThe Knights belong to the government, which means\nwe're being paid well and on a regular basis.\nAll we have to do to get paid is just training every day.\nIsn't that nice?",
-        "pt": "[Cavaleiro]\nOs Cavaleiros pertencem ao governo, o que significa\nque estamos recebemos salários bem pagos.\nTudo o que temos de fazer para receber o pagamento é treinar todos os dias.\nIsso não é legal?",
-        "es": "[Caballero]\nLos Caballeros pertenecemos al gobierno, lo que significa\nque nos pagan bien y con regularidad.\nLo único que tenemos que hacer para cobrar es entrenar todos los días.\n¿No es genial?"
+        "ko": "기사단장",
+        "en": "Captain of the Guard",
+        "pt": "Capitão da Guarda",
+        "es": "Capitán de la Guardia"
     },
     "LN8xAw": {
-        "en": "[Knight]\nI'm going to stay here for a few years,\nand then move onto\nsomething else that I really want to do.",
-        "pt": "[Cavaleiro]\nVou ficar aqui por alguns anos,\ne depois passar para\noutra coisa que eu realmente queira fazer.",
-        "es": "[Caballero]\nMe quedaré aquí unos años\ny luego haré alguna\notra cosa que realmente quiera hacer."
+        "ko": "[기사단장]\n설렁설렁해라! 훈련 종료시간까지는 아직 많이 남았다!",
+        "en": "[Captain of the Guard]\nTake it easy! There is still plenty of time left before training ends!",
+        "pt": "[Capitão da Guarda]\nFaçam sem pressa! Ainda falta muito para o fim do treinamento!",
+        "es": "[Capitán de la Guardia]\n¡Tomáoslo con calma! ¡Aún falta mucho para que termine el entrenamiento!"
     },
     "Ld8xAw": {
-        "en": "[Knight]\nOops, I'd better go back to\npretending I'm training hard.",
-        "pt": "[Cavaleiro]\nOps, é melhor eu voltar a\nfingir que estou treinando com força.",
-        "es": "[Caballero]\nUps, será mejor que vuelva\na fingir que estoy entrenando duro."
+        "ko": "[기사단장]\n훈련하다가 죽어도 누가 알아주지 않으니 알아서 하도록!",
+        "en": "[Captain of the Guard]\nNo one will recognize you even if you die during training, so take care of yourselves!",
+        "pt": "[Capitão da Guarda]\nMesmo que morram treinando, ninguém reconhecerá, então cuidem-se!",
+        "es": "[Capitán de la Guardia]\n¡Si morís entrenando, nadie os lo agradecerá, así que actuad con cabeza!"
     },
     "Lt8xAw": {
-        "en": "[Knight]\nThe Knights belong to the government, which means\nwe're being paid well and on a regular basis.\nAll we have to do to get paid is just train every day.\nIsn't that nice?",
-        "pt": "[Cavaleiro]\nOs Cavaleiros pertencem ao governo, o que significa\nque estamos recebemos salários bem pagos.\nTudo o que temos de fazer para receber o pagamento é treinar todos os dias.\nIsso não é legal?",
-        "es": "[Caballero]\nLos Caballeros pertenecemos al gobierno, lo que significa\nque nos pagan bien y con regularidad.\nLo único que tenemos que hacer para cobrar es entrenar todos los días.\n¿No es genial?"
+        "ko": "[기사단장]\n언제나 하는 훈련이고, 언제 나와 똑같은 형식적인 것일 뿐이니 그저 훈련만 열심히 하도록!",
+        "en": "[Captain of the Guard]\nIt is the same training as always, and always just the same formal routine as mine, so simply train hard!",
+        "pt": "[Capitão da Guarda]\nÉ o treinamento de sempre, apenas formal como todos os outros dias, então concentrem-se em treinar!",
+        "es": "[Capitán de la Guardia]\n¡Es el entrenamiento de siempre, y no es más que una formalidad igual a la de siempre, así que limitaos a entrenar con empeño!"
     },
     "L98xAw": {
-        "en": "[Knight]\nHaah! Yaap! Hiyah!\nWhew! I feel proud to be\na Knight. Hail to the Prontera Knights!",
-        "pt": "[Cavaleiro]\nRá! Iá! Rá-iá!\nArf! Que orgulho sinto por ser\num Cavaleiro. Viva os Cavaleiros de Prontera!",
-        "es": "[Caballero]\n¡Aah! ¡Zas! ¡Kiai!\n¡Fiu! Me enorgullece ser\nCaballero. ¡Vivan los Caballeros de Prontera!"
+        "ko": "[기사단장]\n자네들은 아직 젊어서 많은 것을 할 수 있다는 것을 명심해라!",
+        "en": "[Captain of the Guard]\nRemember that you are still young and capable of many things!",
+        "pt": "[Capitão da Guarda]\nLembrem-se de que vocês ainda são jovens e podem fazer muitas coisas!",
+        "es": "[Capitán de la Guardia]\n¡Recordad que aún sois jóvenes y podéis hacer muchas cosas!"
     },
     "MN8xAw": {
-        "en": "[Knight]\nWith my next paycheck, I'm going to\nbuy my wife a jeweled necklace.\nShe'll be so happy!",
-        "pt": "[Cavaleiro]\nCom meu próximo salário, vou\ncomprar um colar de joias para minha esposa.\nEla ficará muito feliz!",
-        "es": "[Caballero]\nCon mi próximo sueldo,\nle compraré un collar adornado con joyas a mi esposa.\n¡Se pondrá muy feliz!"
+        "ko": "[기사단장]\n열심히 해라! 우리의 어깨에 이 프론테라의 미래가 걸려있다!",
+        "en": "[Captain of the Guard]\nWork hard! The future of this Prontera rests on our shoulders!",
+        "pt": "[Capitão da Guarda]\nEsforcem-se! O futuro desta Prontera está sobre nossos ombros!",
+        "es": "[Capitán de la Guardia]\n¡Esforzaos! ¡El futuro de Prontera descansa sobre nuestros hombros!"
     },
     "Md8xAw": {
-        "en": "[Knight]\nLet's see... how many days do we have left\nuntil the next paycheck? Who knew\ncounting days could be so fun?",
-        "pt": "[Cavaleiro]\nVejamos... quantos dias nos restam\naté o próximo salário? Quem diria que\ncontar os dias poderia ser tão divertido?",
-        "es": "[Caballero]\nVeamos… ¿cuántos días faltan\nhasta la próxima paga? ¿Quién diría\nque contar los días podía ser tan divertido?"
+        "ko": "[기사단장]\n우리의 사명은 시민들의 평화를 유사시에 지켜주는 것이다!",
+        "en": "[Captain of the Guard]\nOur mission is to protect the peace of the citizens in times of emergency!",
+        "pt": "[Capitão da Guarda]\nNossa missão é proteger a paz dos cidadãos em momentos de emergência!",
+        "es": "[Capitán de la Guardia]\n¡Nuestra misión es proteger la paz de los ciudadanos en caso de emergencia!"
     },
     "Mt8xAw": {
-        "en": "[Knight]\nEvery day is rewarding. I'm so glad\nI've joined the Knights. Hah hah hah.",
-        "pt": "[Cavaleiro]\nTodo dia é gratificante. Estou muito feliz por\nter me juntado aos Cavaleiros. Hahahah.",
-        "es": "[Caballero]\nCada día es gratificante. Me alegro mucho\nde haberme unido a los Caballeros. Ja, ja, ja."
+        "ko": "[기사단원]\n기사는 국가 소속이라 수입이 매우 잘 들어온다는 말씀.",
+        "en": "[Knight]\nBeing a knight means being employed by the state, so the income is quite good.",
+        "pt": "[Cavaleiro]\nDizem que cavaleiros pertencem ao Estado, então a renda entra muito bem.",
+        "es": "[Caballero]\nDicen que los caballeros pertenecen al Estado, así que los ingresos son muy buenos."
     },
     "M98xAw": {
-        "en": "[Knight]\nPffft, the Knights have no future.\nI'm only staying here\nbecause I've got nothing else to do\nat the moment.",
-        "pt": "[Cavaleiro]\nPffft, os Cavaleiros não têm futuro.\nSó estou aqui porque não \ntenho mais nada para fazer\nno momento.",
-        "es": "[Caballero]\nPfff, los Caballeros no tienen futuro.\nSolo me quedo aquí \nporque no tengo nada mejor que hacer\nen este momento."
+        "ko": "[기사단원]\n별다른 거 없이 맨날 하는 훈련만 잘 하면 돈이 굴러들어오니 이거 좋군.",
+        "en": "[Knight]\nAs long as I do the same training every day without anything special, the money rolls in. This is nice.",
+        "pt": "[Cavaleiro]\nSem nada especial, basta fazer bem o treinamento de todo dia e o dinheiro entra rolando. Isso é bom.",
+        "es": "[Caballero]\nMientras uno cumpla con el entrenamiento de siempre, el dinero llega solo. Esto está bien."
     },
     "NN8xAw": {
-        "en": "[Knight]\nFor now, I'm just doing what I'm told.\nThere's nothing to be serious about life, anyway.",
-        "pt": "[Cavaleiro]\nPor enquanto, estou fazendo o que me mandam.\nNão há nada de sério na vida, afinal de contas.",
-        "es": "[Caballero]\nPor ahora, solo hago lo que me dicen.\nDe todos modos, no hay que tomarse la vida tan en serio."
+        "ko": "[기사단원]\n대충 몇 년만 이곳에서 시간을 때우다가 다른 직업이나 가지고 노후를 놀고먹어야지.",
+        "en": "[Knight]\nI'll just spend a few years here killing time, then take another job and spend my later years eating and relaxing.",
+        "pt": "[Cavaleiro]\nVou apenas passar alguns anos por aqui, depois arrumar outro trabalho e viver comendo e descansando na velhice.",
+        "es": "[Caballero]\nPasaré unos años aquí matando el tiempo y luego buscaré otro trabajo para vivir cómodamente en la vejez."
     },
     "Nd8xAw": {
-        "en": "[Knight]\nFor now, I'm just doing what I'm told.\nWhy should I try hard? Forget\nthe future. There's nothing to be serious about life, anyway.",
-        "pt": "[Cavaleiro]\nPor enquanto, estou fazendo o que me mandam.\nPor que eu deveria me esforçar? Esqueça\no futuro. Não há nada para se levar a sério na vida, afinal de contas.",
-        "es": "[Caballero]\nPor ahora, solo hago lo que me dicen.\n¿Por qué debería esforzarme? Olvídate del\nfuturo. De todos modos, no hay que tomarse la vida tan en serio."
+        "ko": "[기사단원]\n이크, 열심히 하는 것처럼은 보여야지.",
+        "en": "[Knight]\nOops, I should at least look like I'm working hard.",
+        "pt": "[Cavaleiro]\nOpa, preciso parecer esforçado.",
+        "es": "[Caballero]\nUy, tengo que parecer que me esfuerzo."
     },
     "Nt8xAw": {
-        "en": "[Knight]\n...Don't talk to me. I'm training!",
-        "pt": "[Cavaleiro]\n...Não fale comigo. Estou treinando!",
-        "es": "[Caballero]\n…No me hables. ¡Estoy entrenando!"
+        "ko": "[기사단원]\n에잇! 이얏! 야압!\n휴우... 자부심을 가지게 되는군. 프론테라 기사단 만세.",
+        "en": "[Knight]\nHah! Hyah! Yaah!\nWhew... It fills me with pride. Long live the Prontera Chivalry.",
+        "pt": "[Cavaleiro]\nEi! Hya! Yaap!\nUfa... Isso dá orgulho. Viva a Ordem dos Cavaleiros de Prontera.",
+        "es": "[Caballero]\n¡Eh! ¡Yaah! ¡Yaaah!\nUf... Esto hace que uno sienta orgullo. Viva la orden de caballeros de Prontera."
     },
     "N98xAw": {
-        "en": "[Knight]\nBy the way, where's Essofeit?\nWhy isn't he training with us?\nJust because he defeated many ^FF0000Obeaunes^000000 and ^FF0000Myst Cases^000000\nin the past, it doesn't mean\nhe doesn't have to train anymore.",
-        "pt": "[Cavaleiro]\nA propósito, onde está o Essofeit?\nPor que ele não está treinando conosco?\nSó porque ele derrotou muitos ^FF0000Obeaunes^000000 e ^FF0000Presentes^000000\nno passado, isso não significa que\nele não precise mais treinar.",
-        "es": "[Caballero]\nPor cierto, ¿dónde está Essofeit?\n¿Por qué no está entrenando con nosotros?\nQue haya derrotado a muchos ^FF0000Obeaune^000000 y ^FF0000Cajas de Myst^000000\nen el pasado no significa\nque ya no tenga que entrenar."
+        "ko": "[기사단원]\n이번 봉급을 받으면 마누라에게 보석 목걸이나 사줘야지. 분명 좋아할 거야!",
+        "en": "[Knight]\nWhen I get this salary, I should buy my wife a jeweled necklace. She'll surely like it!",
+        "pt": "[Cavaleiro]\nQuando receber o salário desta vez, vou comprar um colar de joias para minha esposa. Ela com certeza vai gostar!",
+        "es": "[Caballero]\nCuando cobre este sueldo, le compraré a mi esposa un collar de joyas. Seguro que le encantará."
     },
     "ON8xAw": {
-        "en": "[Knight]\nWhenever he's drunk, all he talks about\nis those two monsters that he hunted as a Knight trainee,\nand it's getting old.",
-        "pt": "[Cavaleiro]\nSempre que ele está bêbado, só fala\nsobre aqueles dois monstros que caçou quando era um Cavaleiro em treinamento,\ne isso já tá ficando ultrapassado.",
-        "es": "[Caballero]\nSiempre que está borracho, solo habla de\nesos dos monstruos que cazó como aprendiz de Caballero,\ny ya aburre."
+        "ko": "[기사단원]\n어디 보자... 봉급날이 앞으로 며칠 남았더라? 날짜 계산도 나름대로 재미로군.",
+        "en": "[Knight]\nLet's see... how many days are left until payday? Counting the days is a kind of fun in itself.",
+        "pt": "[Cavaleiro]\nVamos ver... quantos dias faltam até o pagamento? Calcular as datas também é divertido à sua maneira.",
+        "es": "[Caballero]\nVeamos... ¿cuántos días faltaban para el día de pago? Calcular fechas también tiene su gracia."
     },
     "Od8xAw": {
-        "en": "[Knight]\nHe thinks even the newest Knight must be\nstrong enough to get ^FF00005 Candy Canes^000000\nand ^FF00003 Witherless Roses^000000.\nMan, I've heard that so often\nthat now I can even say it in my sleep.",
-        "pt": "[Cavaleiro]\nEle acha que até o mais novo Cavaleiro deve ser\nforte o suficiente para obter ^FF00005 Bengalas Doces^000000\ne ^FF00003 Rosas Eternas^000000.\nCara, já ouvi isso tantas vezes\nque até repito enquanto durmo.",
-        "es": "[Caballero]\nCree que incluso el Caballero más nuevo debe ser\nlo suficientemente fuerte como para conseguir ^FF00005 Bastones de dulce^000000\ny ^FF00003 Rosas eternas^000000.\nLo oí tantas veces\nque puedo recitarlo hasta dormido."
+        "ko": "[기사단원]\n하루하루가 뿌듯하군...\n역시 기사단에 들길 잘했어. 하하하.",
+        "en": "[Knight]\nEach day feels fulfilling...\nI was right to join the chivalry. Hahaha.",
+        "pt": "[Cavaleiro]\nCada dia é gratificante...\nComo pensei, foi bom entrar para a Ordem dos Cavaleiros. Hahaha.",
+        "es": "[Caballero]\nCada día se siente satisfactorio...\nDefinitivamente hice bien al entrar en la orden. Ja, ja, ja."
     },
     "Ot8xAw": {
-        "en": "[Knight]\nI bet he's hiding somewhere\nin the Knights building right now,\ndeveloping so called ''a new skill.''",
-        "pt": "[Cavaleiro]\nAposto que ele está escondido em algum lugar\nno prédio dos Cavaleiros neste momento,\ndesenvolvendo a tal da ''nova habilidade''.",
-        "es": "[Caballero]\nApuesto a que está escondido en alguna parte\ndel edificio de los Caballeros en este momento,\ndesarrollando una supuesta nueva habilidad."
+        "ko": "[기사단원]\n이거, 기사단에는 역시 미래가 없어. 지금이야 뭐 딱히 딴 거 할 것도 없으니 여기 있어야지 뭐...",
+        "en": "[Knight]\nWell, the chivalry really has no future. For now, I don't have anything else to do, so I suppose I'll stay here...",
+        "pt": "[Cavaleiro]\nBem, a Ordem dos Cavaleiros realmente não tem futuro. Por enquanto, como não tenho mais nada em especial para fazer, vou ficar aqui...",
+        "es": "[Caballero]\nEsto... la orden de caballeros no tiene futuro. Por ahora tampoco tengo otra cosa que hacer, así que me quedaré aquí..."
     },
     "O98xAw": {
-        "en": "[Knight]\nThe Knights' training is too tough... Ugh...\nHuff, huff... Don't they know\nnot all of us are born with good stamina as the others?\nWe're here to make a living, not die! Geez,\nhaving low stamina is not a crime, you know.",
-        "pt": "[Cavaleiro]\nO treinamento dos Cavaleiros é muito difícil... Argh...\nArf, arf... Será que eles não sabem que\nnem todos nós nascemos com a mesma resistência que os outros?\nEstamos aqui para ganhar a vida, não para morrer! Puxa vida,\nter pouca resistência não é um crime, né...?",
-        "es": "[Caballero]\nEl entrenamiento de los Caballeros es demasiado duro… Agh…\nUff, uff… ¿No saben que\nno todos nacemos con buena resistencia?\n¡Estamos aquí para ganarnos la vida, no para morir! Cielos,\ntener poca resistencia no es un crimen, ¿sabes?"
+        "ko": "[기사단원]\n일단 시키는 일이나 하자. 적당히 하면 되지 기사단의 미래는 무슨... 인생 뭐 있나.",
+        "en": "[Knight]\nFor now, I'll just do what I'm told. Doing enough is fine. Future of the chivalry, my foot... What is there to life?",
+        "pt": "[Cavaleiro]\nPor ora, vou fazer só o que mandam. Basta fazer moderadamente. Futuro da Ordem dos Cavaleiros, que nada... A vida tem algo mais?",
+        "es": "[Caballero]\nDe momento, haré lo que me manden. Basta con hacerlo más o menos; ¿qué futuro de la orden ni qué nada...? La vida tampoco es gran cosa."
+    },
+    "PN8xAw": {
+        "ko": "[기사단원]\n... 훈련중엔 말을 하지 않는다!",
+        "en": "[Knight]\n... We do not speak during training!",
+        "pt": "[Cavaleiro]\n... Não se fala durante o treinamento!",
+        "es": "[Caballero]\n... ¡Durante el entrenamiento no se habla!"
+    },
+    "Pd8xAw": {
+        "ko": "[기사단원]\n그러고 보니 에소페 단원은 왜 훈련에 참가하지 않는 거지?",
+        "en": "[Knight]\nCome to think of it, why is Knight Aesop not participating in training?",
+        "pt": "[Cavaleiro]\nAgora que penso nisso, por que o membro Aesop não participa do treinamento?",
+        "es": "[Caballero]\nAhora que lo pienso, ¿por qué el miembro Aesop no participa en el entrenamiento?"
+    },
+    "Pt8xAw": {
+        "ko": "[기사단원]\n과거에 ^FF0000오본느^000000나 ^FF0000미스트 케이스^000000 랑 많이 싸웠으면 훈련하지 않아도 되나?",
+        "en": "[Knight]\nDoes fighting ^FF0000Obeaune^000000 and ^FF0000Myst Case^000000 a lot in the past mean you don't have to train?",
+        "pt": "[Cavaleiro]\nSe alguém lutou muito contra ^FF0000Obeaune^000000 ou ^FF0000Presente^000000 no passado, não precisa treinar?",
+        "es": "[Caballero]\n¿Acaso por haber luchado mucho en el pasado contra ^FF0000Obeaune^000000 y ^FF0000Caja de Myst^000000 ya no hace falta entrenar?"
+    },
+    "P98xAw": {
+        "ko": "[기사단원]\n술만 들어가면 기사 초보 때 저 두 몬스터 잡은 이야기밖에 안 하니 원... 지겨워서.",
+        "en": "[Knight]\nWhenever he drinks, he only talks about catching those two monsters when he was a novice knight... Honestly, I'm sick of it.",
+        "pt": "[Cavaleiro]\nSempre que bebe, ele só fala da história de quando era cavaleiro iniciante e caçou aqueles dois monstros... Já estou cansado disso.",
+        "es": "[Caballero]\nCada vez que bebe, solo habla de cuando era caballero novato y cazó a esos dos monstruos... Qué cansancio."
+    },
+    "QN8xAw": {
+        "ko": "[기사단원]\n초짜 기사라도 ^FF0000Candy_Striper 5개^000000와 ^FF0000시들지 않는 장미 3개^000000 정도는 언제든지 채집해올 능력이 있어야 한다나?",
+        "en": "[Knight]\nHe says even a novice knight should have the ability to gather ^FF00005 Candy Cane^000000 and ^FF00003 Witherless Rose^000000 at any time?",
+        "pt": "[Cavaleiro]\nDiz que até um cavaleiro novato deve ter a capacidade de coletar a qualquer momento cerca de ^FF00005 Bengala Doce^000000 e ^FF00003 Rosa Eterna^000000?",
+        "es": "[Caballero]\n¿Dice que incluso un caballero novato debería ser capaz de recolectar en cualquier momento ^FF00005 Bastón de dulce^000000 y ^FF00003 Rosa Eterna^000000?"
+    },
+    "Qd8xAw": {
+        "ko": "[기사단원]\n나 원 참... 너무 많이 들어서 외우겠네 그래.",
+        "en": "[Knight]\nGood grief... I've heard it so many times I might memorize it.",
+        "pt": "[Cavaleiro]\nFrancamente... ouvi isso tantas vezes que vou acabar decorando.",
+        "es": "[Caballero]\nVaya tela... Lo he oído tantas veces que casi me lo sé de memoria."
+    },
+    "Qt8xAw": {
+        "ko": "[기사단원]\n또 기사단 건물에 틀어박혀서 새로운 기술 입네 뭐네 하면서 연구 중인 건가.",
+        "en": "[Knight]\nIs he holed up in the chivalry building again, researching some so-called new technique?",
+        "pt": "[Cavaleiro]\nSerá que ele está de novo enfiado no prédio da Ordem, pesquisando algo como uma nova técnica?",
+        "es": "[Caballero]\n¿Estará otra vez encerrado en el edificio de la orden investigando una supuesta nueva técnica o algo así?"
+    },
+    "Q98xAw": {
+        "ko": "[기사단원]\n기사단 훈련은 너무 힘들어...헉.. 헉...헉...",
+        "en": "[Knight]\nChivalry training is too hard... hah.. hah... hah...",
+        "pt": "[Cavaleiro]\nO treinamento da Ordem dos Cavaleiros é duro demais... arf... arf... arf...",
+        "es": "[Caballero]\nEl entrenamiento de la orden es demasiado duro... jadeo... jadeo... jadeo..."
+    },
+    "RN8xAw": {
+        "ko": "[기사단원]\n체력이 안 좋은 기사도 배려를 해야 할 거 아냐! 함께 살아야지 원... 기사 체력이 나쁜 게 죄도 아니고 말이야.",
+        "en": "[Knight]\nThey should be considerate of knights with poor stamina! We have to live together... It is not a crime for a knight to have poor stamina, you know.",
+        "pt": "[Cavaleiro]\nTambém deveriam levar em consideração cavaleiros com pouca resistência! Temos que viver juntos... Não é pecado um cavaleiro ter pouca resistência.",
+        "es": "[Caballero]\n¡También deberían tener consideración con los caballeros que no tienen buena resistencia! Hay que convivir... Como si tener mala condición física fuera un pecado para un caballero."
     }
 }

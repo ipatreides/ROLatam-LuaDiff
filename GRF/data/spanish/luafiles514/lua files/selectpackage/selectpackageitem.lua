@@ -657,27 +657,27 @@ packageitemboxName = {
 	{
 		106930,
 		0,
-		"Ala Dragónica"
+		"Gafas de Seguridad"
 	},
 	{
 		106930,
 		1,
-		"Ala Angelical"
+		"Alas Celestiales del Dragón Amarillo"
 	},
 	{
 		106930,
 		2,
-		"Gafas de Seguridad"
+		"Alas Doradas Angelicales"
 	},
 	{
 		107036,
 		0,
-		"Aura de sujeto de prueba decorativa, Documentos de investigación biológica"
+		"Aura de sujeto de prueba decorativa, Documentos de investigacin biolgica"
 	},
 	{
 		107036,
 		1,
-		"Aura de sujeto de prueba decorativa (roja), Fragmento de experimento biológico"
+		"Aura de sujeto de prueba decorativa (roja), Fragmento de experimento biolgico"
 	},
 	{
 		107035,
@@ -752,7 +752,7 @@ packageitemboxName = {
 	{
 		107234,
 		6,
-		"[Disfraz] Cabello de Marinera Lunar (Castaño)"
+		"[Disfraz] Cabello de Marinera Lunar (Castao)"
 	},
 	{
 		107234,
@@ -787,27 +787,87 @@ packageitemboxName = {
 	{
 		101471,
 		0,
-		"Opción 1"
+		"Opcin 1"
 	},
 	{
 		101471,
 		1,
-		"Opción 2"
+		"Opcin 2"
 	},
 	{
 		101471,
 		2,
-		"Opción 3"
+		"Opcin 3"
 	},
 	{
 		101471,
 		3,
-		"Opción 4"
+		"Opcin 4"
 	},
 	{
 		101471,
 		4,
-		"Opción 5"
+		"Opcin 5"
+	},
+	{
+		102733,
+		0,
+		"Opción 1"
+	},
+	{
+		102733,
+		1,
+		"Opción 2"
+	},
+	{
+		102733,
+		2,
+		"Opción 3"
+	},
+	{
+		102733,
+		3,
+		"Opción 4"
+	},
+	{
+		102734,
+		0,
+		"Opción 1"
+	},
+	{
+		102734,
+		1,
+		"Opción 2"
+	},
+	{
+		102734,
+		2,
+		"Opción 3"
+	},
+	{
+		102734,
+		3,
+		"Opción 4"
+	},
+	{
+		102735,
+		0,
+		"Opción 1"
+	},
+	{
+		102735,
+		1,
+		"Opción 2"
+	},
+	{
+		102735,
+		2,
+		"Opción 3"
+	},
+	{
+		102735,
+		3,
+		"Opción 4"
 	},
 	{
 		0,
@@ -2864,6 +2924,114 @@ packageitemsetbox = {
 		4,
 		7138,
 		50,
+		0,
+		0,
+		0
+	},
+	{
+		102733,
+		0,
+		420210,
+		1,
+		0,
+		0,
+		0
+	},
+	{
+		102733,
+		1,
+		420213,
+		1,
+		0,
+		0,
+		0
+	},
+	{
+		102733,
+		2,
+		420220,
+		1,
+		0,
+		0,
+		0
+	},
+	{
+		102733,
+		3,
+		420269,
+		1,
+		0,
+		0,
+		0
+	},
+	{
+		102734,
+		0,
+		102278,
+		10,
+		0,
+		0,
+		0
+	},
+	{
+		102734,
+		1,
+		100487,
+		10,
+		0,
+		0,
+		0
+	},
+	{
+		102734,
+		2,
+		102343,
+		10,
+		0,
+		0,
+		0
+	},
+	{
+		102734,
+		3,
+		102676,
+		10,
+		0,
+		0,
+		0
+	},
+	{
+		102735,
+		0,
+		102277,
+		10,
+		0,
+		0,
+		0
+	},
+	{
+		102735,
+		1,
+		100488,
+		10,
+		0,
+		0,
+		0
+	},
+	{
+		102735,
+		2,
+		102342,
+		10,
+		0,
+		0,
+		0
+	},
+	{
+		102735,
+		3,
+		102677,
+		10,
 		0,
 		0,
 		0

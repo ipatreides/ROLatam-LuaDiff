@@ -1,717 +1,872 @@
 {
     "wNEuAw": {
+        "ko": "피스리크",
         "en": "Pisruik",
         "pt": "Pisruik",
         "es": "Pisruik"
     },
     "wdEuAw": {
-        "en": "[Pisruik]\n...*Cough, Cough!*\nYou don't have enough Zeny to pay for the medicine...\n*Sigh.*",
-        "pt": "[Pisruik]\n...*Cof, cof!*\nVocê não tem Zeny suficiente para pagar o remédio...\n*Suspiro*",
-        "es": "[Pisruik]\n…*¡Cof, cof!*\nNo tienes suficientes zeny para pagar la medicina…\n*Suspira*"
+        "ko": "- 소지하고 계신 아이템이 많아 진행할 수 없습니다. -",
+        "en": "- You cannot proceed because you are carrying too many items. -",
+        "pt": "- Você possui muitos itens e não pode prosseguir. -",
+        "es": "- No puedes continuar porque llevas demasiados objetos. -"
     },
     "wtEuAw": {
-        "en": "[Pisruik]\n*Cough, Cough...!*\nHappy, happy combina--*Cough!*\n...Err?\nWhat the...? Don't peek on my research!",
-        "pt": "[Pisruik]\n*Cof, cof...!*\nCombinação feliz, feliz... *Cof!*\n... Hã?\nO que...? Não espie minha pesquisa!",
-        "es": "[Pisruik]\n*¡Cof, cof…!*\nFeliz, feliz combina… *¡Cof!*\n…¿Mmm?\n¿Pero qué…? ¡No espíes mi investigación!"
+        "ko": "[피스리크]\n...쿨럭 쿨럭\n약값이 모자라네...\n휴우.",
+        "en": "[Pisruik]\n...Cough, cough.\nI do not have enough for medicine...\nHoo.",
+        "pt": "[Pisruik]\n...Cof, cof.\nEstá faltando dinheiro para remédios...\nUfa.",
+        "es": "[Pisruik]\n...Cof cof\nNo me alcanza para las medicinas...\nUf."
     },
     "w9EuAw": {
-        "en": "[Pisruik]\nKids nowadays. Tsk, tsk.\n*Mumble, Mumble...* *Grumble...*",
-        "pt": "[Pisruik]\nAs crianças de hoje em dia. Tsc, tsc.\n*Resmungo, Resmungo...* *Resmunga...*",
-        "es": "[Pisruik]\nLa juventud de hoy en día. *Tsc, tsc*\n*Masculla…* *Gruñe…*"
+        "ko": "[피스리크]\n쿨럭 쿨럭...\n즐거운~ 조~ 합~ 쿨럭\n...어?\n뭐야, 남의 연구를 멋대로 보고!",
+        "en": "[Pisruik]\nCough, cough...\nHappy~ com~ pound~ cough.\n...Huh?\nWhat are you doing, looking at someone else's research!",
+        "pt": "[Pisruik]\nCof, cof...\nCombinação~ divertida~ cof.\n...Hã?\nO que é isso? Olhando a pesquisa dos outros sem permissão!",
+        "es": "[Pisruik]\nCof cof...\nUna maravillosa~ com~ bi~ nación~ cof\n...¿Eh?\n¿Qué pasa? ¡¿Cómo te atreves a mirar la investigación ajena?!"
     },
     "xNEuAw": {
-        "en": "[Pisruik]\nYou're back.\nBy the looks of you, you don't look like\nyou're here to study.\nWhy do you keep\ncoming back?",
-        "pt": "[Pisruik]\nVocê está de volta.\nPela aparência, você não parece\nque está aqui para estudar.\nPor que continua\nvoltando?",
-        "es": "[Pisruik]\nVolviste.\nPor tu aspecto, no parece\nque hayas venido a estudiar.\n¿Por qué vuelves\nuna y otra vez?"
+        "ko": "[피스리크]\n요새 애들은...\n투덜투덜 투덜투덜 투덜투덜",
+        "en": "[Pisruik]\nKids these days...\nGrumble grumble grumble grumble grumble.",
+        "pt": "[Pisruik]\nAs crianças de hoje...\nResmungo, resmungo, resmungo, resmungo, resmungo.",
+        "es": "[Pisruik]\nLos jóvenes de hoy en día...\ngruñendo gruñendo gruñendo gruñendo"
     },
     "xdEuAw": {
-        "en": "What do you study?",
-        "pt": "O que você estuda?",
-        "es": "¿Qué estudias?"
+        "ko": "[피스리크]\n또 왔네?\n모양을 보니 연구를 하러\n오는 건 아닌 것 같은데...\n이런 곳에는 뭐하러\n찾아오는 거지?",
+        "en": "[Pisruik]\nYou are back again?\nJudging by the look of you,\nI do not think you are here\nto conduct research...\nWhat brings you\nto a place like this?",
+        "pt": "[Pisruik]\nVeio de novo?\nPelo jeito, não parece que veio\nfazer pesquisa...\nO que veio fazer\nem um lugar como este?",
+        "es": "[Pisruik]\n¿Otra vez tú?\nPor cómo luces, no parece que\nhayas venido a investigar...\nEntonces, ¿qué haces\nviniendo a un lugar así?"
     },
     "xtEuAw": {
-        "en": "I don't know...",
-        "pt": "Não sei...",
-        "es": "No lo sé…"
+        "ko": "무슨 연구를 하세요?",
+        "en": "What kind of research are you doing?",
+        "pt": "Que pesquisa você faz?",
+        "es": "¿Qué clase de investigación hace?"
     },
     "x9EuAw": {
-        "en": "[Pisruik]\nCan't you tell?\n...Pfft, of course, you can't.\nRemember I yelled at you for peeking on\nmy research the last time?",
-        "pt": "[Pisruik]\nNão dá para perceber?\n... Pfft, pra você, é claro que não dá.\nLembra que eu gritei com você por ter espiado\nminha pesquisa da última vez?",
-        "es": "[Pisruik]\n¿No te das cuenta?\n…Pfff, por supuesto que no.\n¿Recuerdas que te grité por espiar\nmi investigación la última vez?"
+        "ko": "그냥...",
+        "en": "Nothing...",
+        "pt": "Só...",
+        "es": "Solo pasaba..."
     },
     "yNEuAw": {
-        "en": "[Pisruik]\nAs you can see, this is a communal research lab.\nPeople like me\nwho are too poor to\nget their own labs\ncan pay a certain amount of money\nfor a corner space of this lab to study.",
-        "pt": "[Pisruik]\nComo pode ver, este é um laboratório de pesquisa comunitário.\nPessoas como eu,\nque são muito pobres para\nter os próprios laboratórios,\npodem pagar uma quantia\npor um espaço deste laboratório para estudar.",
-        "es": "[Pisruik]\nComo verás, este es un laboratorio de investigación comunitario.\nLa gente como yo,\nque es demasiado pobre para\ntener su propio laboratorio,\npaga una suma de dinero\npara estudiar en un rincón de este laboratorio."
+        "ko": "[피스리크]\n보면 몰라?\n...라고 해도 알 리가 없지.\n지난번에 남의 연구를 멋대로 본다고\n화냈던 것 기억해?",
+        "en": "[Pisruik]\nCan you not tell by looking?\n...Though of course you would not know.\nDo you remember when I got angry\nbecause you were looking at my research without permission?",
+        "pt": "[Pisruik]\nNão dá para ver?\n...Mesmo que eu diga isso, você não entenderia.\nLembra que, da última vez, fiquei bravo\nporque você estava olhando a pesquisa dos outros sem permissão?",
+        "es": "[Pisruik]\n¿No lo ves?\n...Aunque claro, no tendrías por qué saberlo.\n¿Recuerdas que la otra vez me enfadé\nporque estabas mirando mi investigación?"
     },
     "ydEuAw": {
-        "en": "[Pisruik]\nAnd it's dog-eat-dog here.\nPeople constantly steal\nothers' research achievements\nto become rich and famous. It can't be helped.\nWe're poor and desperate.",
-        "pt": "[Pisruik]\nE aqui é um lugar onde um passa por cima do outro.\nAs pessoas roubam constantemente\nas realizações de pesquisa dos outros\npara ficarem ricas e famosas. Não tem como evitar isso.\nSomos pobres e desesperados.",
-        "es": "[Pisruik]\nY es un ambiente competitivo.\nLa gente roba constantemente\nlos logros de investigación de otros\npara enriquecerse y tener fama. Es inevitable.\nSomos pobres y nos invade la desesperación."
+        "ko": "[피스리크]\n보다시피 여긴 공동 연구실이야.\n가난뱅이들이 개별 연구실을\n마련하지 못하고 일정 금액을 내고\n공동 연구실 구석을 빌려서\n쓰고 있는 거지.\n나도 가난뱅이고.",
+        "en": "[Pisruik]\nAs you can see, this is a shared laboratory.\nPaupers who cannot afford\ntheir own laboratories pay a set fee\nto rent a corner of this\nshared laboratory.\nI am a pauper too.",
+        "pt": "[Pisruik]\nComo pode ver, este é um laboratório compartilhado.\nPobres que não conseguem ter\num laboratório individual pagam uma certa quantia\ne alugam um canto do laboratório compartilhado\npara usar.\nEu também sou pobre.",
+        "es": "[Pisruik]\nComo puedes ver, este es un laboratorio compartido.\nLos pobres que no pueden permitirse\nun laboratorio propio pagan cierta cantidad\npara alquilar un rincón\nde este laboratorio común.\nYo también soy pobre."
     },
     "ytEuAw": {
-        "en": "[Pisruik]\nBeing an Alchemist\nisn't exactly lucrative, either.\nThough I've heard some Alchemist in a faraway country\nruns a successful business\nby receiving various supply requests\nand delivering the products on time.",
-        "pt": "[Pisruik]\nSer um Alquimista\ntambém não é exatamente lucrativo.\nEmbora eu tenha ouvido falar que um alquimista em\num país distante tem um negócio bem-sucedido\nrecebendo vários pedidos de suprimentos\ne entregando os produtos no prazo...",
-        "es": "[Pisruik]\nSer alquimista\ntampoco es precisamente lucrativo.\nAunque escuché hablar de un alquimista en un país lejano\nque dirige un negocio exitoso.\nRecibe diversas solicitudes de recursos\ny entrega los productos a tiempo."
+        "ko": "[피스리크]\n그러다보니 분위기가 살벌해.\n여기서 남 연구를 훔쳐다가\n학계에 진출한 사람도 있고,\n...가지가지야. 하지만\n가난하니 어쩔 수 없지.",
+        "en": "[Pisruik]\nBecause of that, the atmosphere is tense.\nSome people here have stolen\nothers' research and entered academia,\n...all sorts of things. But\nwe are poor, so there is no helping it.",
+        "pt": "[Pisruik]\nPor isso, o clima é tenso.\nJá houve gente que roubou pesquisas dos outros aqui\ne entrou no meio acadêmico,\n...tem de tudo. Mas,\npor sermos pobres, não há o que fazer.",
+        "es": "[Pisruik]\nPor eso el ambiente aquí es bastante tenso.\nHay gente que ha robado investigaciones ajenas\npara abrirse paso en el mundo académico,\n...de todo un poco. Pero\ncuando eres pobre, no tienes elección."
     },
     "y9EuAw": {
-        "en": "[Pisruik]\nDelivering products...\nOh, wait a minute.\nYou're an adventurer, aren't you?\nWhat's your name?",
-        "pt": "[Pisruik]\nEntrega de produtos...\nAh, é mesmo.\nVocê é um aventureiro, né?\nQual é o seu nome?",
-        "es": "[Pisruik]\nEntrega productos…\nAh, espera un minuto.\nEres trotamundos, ¿verdad?\n¿Cómo te llamas?"
+        "ko": "[피스리크]\n돈 벌 방법이\n따로 있는 것도 아니고...\n어디 먼 나라의 연금술사는\n이런저런 의뢰를 받아서\n물건을 납기일에 맞춰\n납품하기도 한다지만.",
+        "en": "[Pisruik]\nIt is not as if there is\nsome other way to make money...\nI hear an alchemist in some\ndistant country takes on\nvarious requests and delivers\ngoods by the deadline.",
+        "pt": "[Pisruik]\nTambém não há outra forma\nde ganhar dinheiro...\nDizem que alquimistas de algum país distante\naceitam todo tipo de encomenda\ne entregam produtos\ndentro do prazo.",
+        "es": "[Pisruik]\nY tampoco es que haya muchas\nformas de ganar dinero...\nAunque dicen que en algún país lejano\nlos alquimistas aceptan encargos\ny entregan mercancías\nantes de la fecha límite."
     },
     "zNEuAw": {
-        "en": "[{0}]\n{0}.",
-        "pt": "[{0}]\n{0}.",
-        "es": "[{0}]\n{0}."
+        "ko": "[피스리크]\n납품이라...\n아, 그러고보니\n넌 모험자구나?\n이름이 뭐야?",
+        "en": "[Pisruik]\nDelivery, huh...\nAh, come to think of it,\nyou are an adventurer, are you not?\nWhat is your name?",
+        "pt": "[Pisruik]\nEntrega...\nAh, agora que penso nisso,\nvocê é aventureiro, não é?\nQual é o seu nome?",
+        "es": "[Pisruik]\nEntregas...\nAh, ahora que lo pienso,\n¿eres aventurero, verdad?\n¿Cómo te llamas?"
     },
     "zdEuAw": {
-        "en": "[Pisruik]\nAlright, let's make a deal.\nBring me some combination materials I need,\nand I'll show you\nwhat I've been making.\nI doubt your research scope\noverlaps mine, anyway.",
-        "pt": "[Pisruik]\nTudo bem, vamos fazer um acordo.\nTraga-me alguns materiais combinados\nque preciso, e eu mostrarei\no que estou fazendo.\nDuvido que o objetivo da sua pesquisa\nseja melhor do que o meu, no fim das contas.",
-        "es": "[Pisruik]\nBueno, hagamos un trato.\nTráeme algunos materiales de combinación que necesito\ny te mostraré \nlo que estoy haciendo.\nDe todas formas, dudo que el alcance de tu investigación\nse superponga con la mía."
+        "ko": "[{0}]\n{0}..인데요.",
+        "en": "[{0}]\nIt is... {0}.",
+        "pt": "[{0}]\n{0}... é meu nome.",
+        "es": "[{0}]\nMe llamo {0}..."
     },
     "ztEuAw": {
-        "en": "[Pisruik]\nWhat I need right now is...\n5 Yellow Gemstones,\n4 Empty Potion Bottles,\n10 Mermaid's Hearts,\nand 10 Moth Dusts.\nCome back when you've got them all.",
-        "pt": "[Pisruik]\nO que eu preciso no momento é...\n5 Gemas Amarelas,\n4 Garrafas de Poção Vazia,\n10 Corações de Sereia,\ne 10 Pós de Traça.\nVolte quando conseguir tudo.",
-        "es": "[Pisruik]\nNecesito…\n5 Gemas amarillas,\n4 Botellas para pociones vacías,\n10 Corazones de Obeaune\ny 10 unidades de Polvo de polilla.\nVuelve cuando tengas todo."
+        "ko": "[피스리크]\n지금 내가 필요로 하는\n조합 재료를 납품해 주면\n그 댓가로 내가 뭘 만드는지\n가르쳐 주지.\n어차피 너랑 나는\n연구 범위가 겹치지 않을 테니..",
+        "en": "[Pisruik]\nIf you deliver the\ncompound materials I need now,\nin return, I will teach you\nwhat I am making.\nIn any case, you and I\nwill not have overlapping\nresearch fields...",
+        "pt": "[Pisruik]\nSe você entregar os materiais de combinação\nde que preciso agora,\nem troca eu lhe ensinarei\no que estou fabricando.\nAfinal, você e eu provavelmente\nnão temos áreas de pesquisa em comum...",
+        "es": "[Pisruik]\nSi me traes los materiales\nde combinación que necesito,\na cambio te diré\nqué estoy fabricando.\nDespués de todo,\nnuestros campos de investigación\nno se solapan..."
     },
     "z9EuAw": {
-        "en": "[Pisruik]\nIf you need some Creation Guides,\ngo buy them at the shop.\nEverything you see here\nis personal property.",
-        "pt": "[Pisruik]\nSe precisar de alguns guias de criação,\né só comprar na loja.\nTudo que você vê aqui\né propriedade pessoal.",
-        "es": "[Pisruik]\nSi necesita Guías de creación,\ncómpralas en la tienda.\nTodo lo que ves aquí \nes propiedad personal."
+        "ko": "[피스리크]\n지금 필요한 것은\nYellow_Gemstone 5개,\n빈 포션병 4개,\n인어의 심장 10개,\n나방의 날개 가루 10개.\n다 구하면 돌아와.",
+        "en": "[Pisruik]\nWhat I need now is\n5 Yellow Gemstone,\n4 Empty Potion Bottle,\n10 Mermaid's Heart,\nand 10 Moth Dust.\nCome back when you have them all.",
+        "pt": "[Pisruik]\nO que preciso agora são\n5 Gema Amarela,\n4 Garrafa de Poção,\n10 Coração de Sereia,\n10 Pó de Traça.\nVolte quando conseguir tudo.",
+        "es": "[Pisruik]\nAhora mismo necesito\n5 Gema amarilla,\n4 Botella para pociones vacía,\n10 Corazón de Obeaune,\n10 Polvo de polilla.\nCuando lo tengas todo, vuelve."
     },
     "0NEuAw": {
-        "en": "[Pisruik]\nMy dear {0},\nI asked you for...\n4 Empty Bottles...\nAnd... erm...\nWhat else?",
-        "pt": "[Pisruik]\n{0}, camarada,\neu pedi...\n4 Garrafas Vazias...\nE... ahm...\nO que mais...?",
-        "es": "[Pisruik]\n{0},\nte pedí…\n4 Botellas vacías…\nY… ehh…\n¿Qué más?"
+        "ko": "[피스리크]\n제조 메뉴얼 같은 건\n상점에 가서 사.\n여기 있는 건 전부\n개인 소유물들이야.",
+        "en": "[Pisruik]\nIf you want something like\na manufacturing manual,\ngo buy one at a shop.\nEverything here is\nsomeone's personal property.",
+        "pt": "[Pisruik]\nManuais de fabricação, compre\nna loja.\nTudo aqui é\npropriedade pessoal.",
+        "es": "[Pisruik]\nLos manuales de fabricación\nve a comprarlos a la tienda.\nTodo lo que hay aquí\nes propiedad privada."
     },
     "0dEuAw": {
-        "en": "5 Yellow Gemstones",
-        "pt": "5 Gemas Amarelas",
-        "es": "5 Gemas amarillas."
+        "ko": "[피스리크]\n{0} 후배,\n부탁한 물건은...\n빈 포션병 4개랑...\n....어...\n뭐였더라?",
+        "en": "[Pisruik]\n{0}, my junior,\nthe items I asked for...\n4 Empty Potion Bottle and...\n....uh...\nwhat were they again?",
+        "pt": "[Pisruik]\n{0}, meu calouro,\nos itens que pedi...\n4 Garrafa de Poção e...\n....hum...\nO que mais era?",
+        "es": "[Pisruik]\nCadete {0},\nlos objetos que te pedí eran...\n4 Botella para pociones vacía...\n....eh...\n¿qué más era?"
     },
     "0tEuAw": {
-        "en": "5 Blue Gemstones",
-        "pt": "5 Gemas Azuis",
-        "es": "5 Gemas azules."
+        "ko": "Yellow_Gemstone 5개랑,",
+        "en": "5 Yellow Gemstone and,",
+        "pt": "5 Gema Amarela e,",
+        "es": "5 Gema amarilla,"
     },
     "09EuAw": {
-        "en": "5 Red Gemstones",
-        "pt": "5 Gemas Vermelhas",
-        "es": "5 Gemas rojas."
+        "ko": "Blue_Gemstone 5개랑,",
+        "en": "5 Blue Gemstone and,",
+        "pt": "5 Gema Azul e,",
+        "es": "5 Gema azul,"
     },
     "1NEuAw": {
-        "en": "[Pisruik]\n5 Yellow Gemstones...\nAnd...",
-        "pt": "[Pisruik]\n5 Gemas Amarelas...\nE...",
-        "es": "[Pisruik]\n5 Gemas amarillas…\nY…"
+        "ko": "레드젬스톤 5개랑,",
+        "en": "5 Red Gemstone and,",
+        "pt": "5 Gema Vermelha e,",
+        "es": "5 Gema roja,"
     },
     "1dEuAw": {
-        "en": "10 Mermaid's Hearts",
-        "pt": "10 Corações de Sereia",
-        "es": "10 Corazones de Obeaune."
+        "ko": "[피스리크]\nYellow_Gemstone 5개랑...\n또...",
+        "en": "[Pisruik]\n5 Yellow Gemstone and...\nwhat else...",
+        "pt": "[Pisruik]\n5 Gema Amarela e...\nmais...",
+        "es": "[Pisruik]\n5 Gema amarilla...\nY luego..."
     },
     "1tEuAw": {
-        "en": "10 Large Jellopies",
-        "pt": "10 Jellopies Grandes",
-        "es": "10 Jellopy grandes."
+        "ko": "인어의 심장 10개랑,",
+        "en": "10 Mermaid's Heart and,",
+        "pt": "10 Coração de Sereia e,",
+        "es": "10 Corazón de Obeaune,"
     },
     "19EuAw": {
-        "en": "[Pisruik]\n10 Mermaid's Hearts...\nAnd...",
-        "pt": "[Pisruik]\n10 Corações de Sereia...\nE...",
-        "es": "[Pisruik]\n10 Corazones de Obeaune…\nY…"
+        "ko": "라지 젤로피 10개랑,",
+        "en": "10 Large Jellopy and,",
+        "pt": "10 Jellopy Tamanho Família e,",
+        "es": "10 Jellopy Grande,"
     },
     "2NEuAw": {
-        "en": "10 Frills",
-        "pt": "10 Brasões",
-        "es": "10 Gorgueras."
+        "ko": "[피스리크]\n인어의 심장 10개...\n또...",
+        "en": "[Pisruik]\n10 Mermaid's Heart...\nwhat else...",
+        "pt": "[Pisruik]\n10 Coração de Sereia...\nmais...",
+        "es": "[Pisruik]\n10 Corazón de Obeaune...\nY luego..."
     },
     "2dEuAw": {
-        "en": "10 Moth Dusts",
-        "pt": "10 Pós de Traça",
-        "es": "10 unidades de Polvo de polilla."
+        "ko": "도마뱀의 목덜미 10개.",
+        "en": "10 Frill.",
+        "pt": "10 Brasão.",
+        "es": "10 Gorguera."
     },
     "2tEuAw": {
-        "en": "[Pisruik]\nMm, I don't think so.\nI've still got some of that left\nfrom one of my adventurer friends.\nWhat else?",
-        "pt": "[Pisruik]\nHm... Acho que não.\nAinda tenho um pouco sobrando\nde um dos meus amigos aventureiros.\nO que mais?",
-        "es": "[Pisruik]\nMmm, no lo creo.\nTodavía me queda algo\nque me trajo uno de mis amigos trotamundos.\n¿Qué más?"
+        "ko": "나방의 날개 가루 10개.",
+        "en": "10 Moth Dust.",
+        "pt": "10 Pó de Traça.",
+        "es": "10 Polvo de polilla."
     },
     "29EuAw": {
-        "en": "[Pisruik]\nYes, 5 Yellow Gemstones,\n4 Empty Potion Bottles,\n10 Mermaid's Hearts,\nand 10 Moth Dusts.\nDid you bring them all?",
-        "pt": "[Pisruik]\nSim, 5 Gemas Amarelas,\n4 Garrafa de Poção Vazias,\n10 Corações de Sereia,\ne 10 Pós de Traça.\nVocê trouxe tudo?",
-        "es": "[Pisruik]\nSí, 5 Gemas amarillas,\n4 Botellas para pociones vacías,\n10 Corazones de Obeaune\ny 10 unidades de Polvo de polilla.\n¿Trajiste todo?"
+        "ko": "[피스리크]\n음... 그건 아냐.\n모험자인 친구가 선물해 줘서\n쌓아둔 게 약간 있거든...\n뭐였더라?",
+        "en": "[Pisruik]\nHmm... that is not it.\nAn adventurer friend gave me some\nas a gift, so I have a few stocked up...\nWhat was it again?",
+        "pt": "[Pisruik]\nHmm... Não é isso.\nTenho alguns guardados\nque um amigo aventureiro me deu...\nO que era mesmo?",
+        "es": "[Pisruik]\nMmm... eso no es.\nUn amigo aventurero me regaló\nunas cuantas, así que todavía me quedan...\n¿Qué era entonces?"
     },
     "3NEuAw": {
+        "ko": "[피스리크]\n그래. Yellow_Gemstone 5개,\n빈 포션병 4개,\n인어의 심장 10개,\n나방의 날개 가루 10개.\n모두 구해 왔어?",
+        "en": "[Pisruik]\nRight. 5 Yellow Gemstone,\n4 Empty Potion Bottle,\n10 Mermaid's Heart,\nand 10 Moth Dust.\nDid you bring them all?",
+        "pt": "[Pisruik]\nIsso. 5 Gema Amarela,\n4 Garrafa de Poção,\n10 Coração de Sereia,\n10 Pó de Traça.\nTrouxe tudo?",
+        "es": "[Pisruik]\nCierto. 5 Gema amarilla,\n4 Botella para pociones vacía,\n10 Corazón de Obeaune,\n10 Polvo de polilla.\n¿Ya lo has conseguido todo?"
+    },
+    "3dEuAw": {
+        "ko": "아니오.",
         "en": "No.",
         "pt": "Não.",
         "es": "No."
     },
-    "3dEuAw": {
+    "3tEuAw": {
+        "ko": "네!",
         "en": "Yes!",
         "pt": "Sim!",
         "es": "¡Sí!"
     },
-    "3tEuAw": {
-        "en": "[Pisruik]\nIf you don't want to do this, just say so.\nI don't have time to play games.",
-        "pt": "[Pisruik]\nSe não quiser fazer isso, basta dizer.\nNão tenho tempo para brincadeiras.",
-        "es": "[Pisruik]\nSi no quieres hacer esto, solo dilo.\nNo tengo tiempo que perder."
-    },
     "39EuAw": {
-        "en": "[Pisruik]\nMm...\nPlease bring them as soon as you can.\nIf you don't want to do it, I won't force you.",
-        "pt": "[Pisruik]\nHm...\nPor favor, traga tudo assim que puder.\nSe não quiser fazer isso, não forçarei a barra.",
-        "es": "[Pisruik]\nMm…\nTrae todo lo antes posible.\nSi no quieres hacer esto, no te obligaré."
+        "ko": "[피스리크]\n하기 싫음 싫다고 해.\n나도 바쁘다구.",
+        "en": "[Pisruik]\nIf you do not want to do it, just say so.\nI am busy too.",
+        "pt": "[Pisruik]\nSe não quer fazer, diga que não quer.\nEu também sou ocupado.",
+        "es": "[Pisruik]\nSi no quieres hacerlo, dilo.\nYo también estoy ocupado."
     },
     "4NEuAw": {
-        "en": "[Pisruik]\nLet's see...",
-        "pt": "[Pisruik]\nVejamos...",
-        "es": "[Pisruik]\nVeamos…"
+        "ko": "[피스리크]\n음...\n가능한 한 빨리 부탁해.\n뭐, 하기 싫음 할 수 없고.",
+        "en": "[Pisruik]\nHmm...\nPlease do it as quickly as possible.\nWell, if you do not want to, that cannot be helped.",
+        "pt": "[Pisruik]\nHmm...\nPeço que seja o mais rápido possível.\nBem, se não quiser fazer, não há o que fazer.",
+        "es": "[Pisruik]\nMmm...\nTe agradecería que lo trajeras\nlo antes posible.\nBueno, si no quieres hacerlo,\ntampoco puedo obligarte."
     },
     "4dEuAw": {
-        "en": "[Pisruik]\nAlright,\nthey don't look too bad.\nI'll take them for now.\nNow...\nwhat do you think I can make these with?",
-        "pt": "[Pisruik]\nBeleza,\neles não parecem em mal estado.\nVou ficar com isso.\nAgora...\nO que você acha que posso fazer com isso?",
-        "es": "[Pisruik]\nMuy bien,\nno se ven tan mal.\nMe los quedaré por ahora.\nAhora…\n¿qué crees que puedo hacer con esto?"
+        "ko": "[피스리크]\n어디 보자...",
+        "en": "[Pisruik]\nLet me see...",
+        "pt": "[Pisruik]\nVamos ver...",
+        "es": "[Pisruik]\nVeamos..."
     },
     "4tEuAw": {
-        "en": "A medicine?",
-        "pt": "Um medicamento?",
-        "es": "¿Una medicina?"
+        "ko": "[피스리크]\n좋아.\n품질도 나쁘지 않은 것 같고...\n일단 받아둘게.\n자... 그럼\n이것들로 뭘 만들 것 같아?",
+        "en": "[Pisruik]\nGood.\nThe quality does not seem bad either...\nI will take them for now.\nNow... then,\nwhat do you think I will make with these?",
+        "pt": "[Pisruik]\nÓtimo.\nA qualidade também não parece ruim...\nVou ficar com eles por enquanto.\nBem... então,\no que acha que vou fazer com isto?",
+        "es": "[Pisruik]\nBien.\nLa calidad tampoco parece mala...\nPor ahora me los quedaré.\nAhora bien...\n¿qué crees que voy a hacer con esto?"
     },
     "49EuAw": {
-        "en": "A bomb?",
-        "pt": "Uma bomba?",
-        "es": "¿Una bomba?"
+        "ko": "약?",
+        "en": "Medicine?",
+        "pt": "Remédio?",
+        "es": "¿Medicina?"
     },
     "5NEuAw": {
-        "en": "[Pisruik]\nYes, a medicine.",
-        "pt": "[Pisruik]\nSim, um medicamento.",
-        "es": "[Pisruik]\nSí, una medicina."
+        "ko": "폭탄?",
+        "en": "A bomb?",
+        "pt": "Bomba?",
+        "es": "¿Bombas?"
     },
     "5dEuAw": {
-        "en": "[Pisruik]\nA bomb? You wish.\nIt's a medicine.",
-        "pt": "[Pisruik]\nUma bomba? Até parece.\nÉ um remédio.",
-        "es": "[Pisruik]\n¿Una bomba? Ya quisieras.\nEs una medicina."
+        "ko": "[피스리크]\n그래. 약이야.",
+        "en": "[Pisruik]\nCorrect. Medicine.",
+        "pt": "[Pisruik]\nIsso. Remédio.",
+        "es": "[Pisruik]\nAsí es. Medicina."
     },
     "5tEuAw": {
-        "en": "[Pisruik]\nOf course, bombs\nare more profitable,\nbut I don't want to make anything so dangerous\nthat can risk my life.",
-        "pt": "[Pisruik]\nÉ claro que as bombas\nsão mais lucrativas,\nmas não quero fazer nada tão perigoso\nque possa colocar minha vida em risco.",
-        "es": "[Pisruik]\nClaro que las bombas\nson más rentables,\npero no quiero hacer algo tan peligroso\nque pueda poner en riesgo mi vida."
+        "ko": "[피스리크]\n폭탄은 무슨.\n약이야, 약.",
+        "en": "[Pisruik]\nA bomb? Hardly.\nIt is medicine, medicine.",
+        "pt": "[Pisruik]\nQue bomba, nada.\nÉ remédio, remédio.",
+        "es": "[Pisruik]\n¿Bombas? Qué va.\nEs medicina."
     },
     "59EuAw": {
-        "en": "[Pisruik]\nBesides, you have to have a good place\nto test something like that.\nThere's a reason\nonly a few can make\na powerful bomb.",
-        "pt": "[Pisruik]\nAlém disso, você precisa ter um bom lugar\npara testar algo assim.\nHá um motivo pelo qual\napenas alguns podem fazer\numa bomba poderosa.",
-        "es": "[Pisruik]\nAdemás, necesitas un lugar adecuado\npara probar algo así.\nHay una razón\npor la que pocas personas pueden hacer\nuna bomba potente."
+        "ko": "[피스리크]\n물론 폭탄을 만들면\n돈벌이는 잘 되겠지만...\n그것에 휘말려 되려 내가\n죽어버릴 수도 있는 얘기고",
+        "en": "[Pisruik]\nOf course, if I made bombs,\nthe money would be good...\nBut that also means I might\nget caught up in it and\nend up dead myself.",
+        "pt": "[Pisruik]\nClaro que, se eu fizesse bombas,\ndaria para ganhar bastante dinheiro...\nMas existe a chance de eu ser pego nisso\ne acabar morrendo.",
+        "es": "[Pisruik]\nClaro, fabricar bombas\ndaría buen dinero...\npero también podría acabar\nmuriendo por culpa de ellas."
     },
     "6NEuAw": {
-        "en": "[Pisruik]\nI don't intend to be one of them, either.",
-        "pt": "[Pisruik]\nE eu não pretendo ser um deles.",
-        "es": "[Pisruik]\nY no pretendo ser una de ellas."
+        "ko": "[피스리크]\n무엇보다 실험할 장소가\n마땅하질 않아.\n강력한 폭탄이 달리\n나오지 않는 이유가\n또 그런 거지.",
+        "en": "[Pisruik]\nAbove all, there is no\nsuitable place to test them.\nThat is another reason\nwhy powerful bombs\ndo not appear so easily.",
+        "pt": "[Pisruik]\nAcima de tudo, não há\num lugar adequado para testes.\nEssa também é uma das razões\npara não surgirem bombas\npoderosas com facilidade.",
+        "es": "[Pisruik]\nY sobre todo, no tengo\nun lugar adecuado para probarlas.\nEsa es otra de las razones\npor las que no aparecen\nbombas realmente potentes."
     },
     "6dEuAw": {
+        "ko": "[피스리크]\n내가 만들 생각은 없지만.",
+        "en": "[Pisruik]\nNot that I intend to make any.",
+        "pt": "[Pisruik]\nNão que eu pretenda fazê-las.",
+        "es": "[Pisruik]\nAunque no pienso fabricarlas."
+    },
+    "6tEuAw": {
+        "ko": "[피스리크]",
         "en": "[Pisruik]",
         "pt": "[Pisruik]",
         "es": "[Pisruik]"
     },
-    "6tEuAw": {
-        "en": "This medicine I'm making...\nWhen it's mixed\nwith digestive enzymes\nin your body,",
-        "pt": "Este medicamento que estou fazendo...\nQuando ele é misturado\ncom as enzimas digestivas\ndo seu corpo,",
-        "es": "Esta medicina que estoy haciendo,\ncuando se mezcla\ncon las enzimas digestivas\nen el cuerpo,"
-    },
     "69EuAw": {
-        "en": "[Pisruik]\nit quickly changes\nyour bodily constitution.\nTo fire property,\nfor instance.\nNaturally, the human body\nis not made to withstand high heat.",
-        "pt": "[Pisruik]\nmuda rapidamente\nsua constituição corporal.\nPara a propriedade de fogo,\npor exemplo.\nNaturalmente, o corpo humano\nnão é feito para suportar tanto calor.",
-        "es": "[Pisruik]\ncambia rápidamente\nla constitución corporal.\nA la propiedad Fuego,\npor ejemplo.\nNaturalmente, el cuerpo humano\nno soporta temperaturas altas."
+        "ko": "무슨 약이냐면...\n이 종류의 약이\n체내에서 소화효소와\n반응하게 되면",
+        "en": "What kind of medicine is it...\nWhen this type of medicine\nreacts with digestive enzymes\ninside the body,",
+        "pt": "Que tipo de remédio?\nQuando esse tipo de remédio\nreage com enzimas digestivas\ndentro do corpo,",
+        "es": "¿Qué clase de medicina es...?\nPues bien...\ncuando este tipo de medicina\nreacciona con las enzimas digestivas\ndentro del cuerpo..."
     },
     "7NEuAw": {
-        "en": "[Pisruik]\nWhen you get burned\nby a fire or hot water,\nyour skin dies\nbecause the enzymes in it that help transfer nutrients\nget cooked and die.",
-        "pt": "[Pisruik]\nQuando você se queima\ncom fogo ou água quente,\nsua pele morre porque as enzimas\nque ajudam a transferir nutrientes\nsão cozidas e morrem..",
-        "es": "[Pisruik]\nCuando te quemas\ncon fuego o agua caliente,\nla piel muere\nporque las enzimas que ayudan a transferir nutrientes\nse calientan y mueren."
+        "ko": "[피스리크]\n급속도로 몸의 체질이\n변화하게 되지.\n예를 들어보자,\n화속성으로 말할 것 같으면..\n원래 인간의 몸은\n고열을 견딜 수 없어.",
+        "en": "[Pisruik]\nthe body's constitution\nchanges rapidly.\nFor example,\nwhen it comes to the Fire property...\nThe human body normally\ncannot withstand high heat.",
+        "pt": "[Pisruik]\na constituição do corpo\nmuda rapidamente.\nPor exemplo,\nse falarmos de propriedade Fogo...\nOriginalmente, o corpo humano\nnão suporta altas temperaturas.",
+        "es": "[Pisruik]\n...la constitución del cuerpo\ncambia rápidamente.\nPor ejemplo,\nsi hablamos del elemento fuego...\nel cuerpo humano, por naturaleza,\nno soporta altas temperaturas."
     },
     "7dEuAw": {
-        "en": "[Pisruik]\nThat's the same reason\na high fever can kill you.\nWhat I'm studying right now\nis to stop it\nby chemically improving\nour bodies' resistance to heat.",
-        "pt": "[Pisruik]\nEssa é a mesma razão pela qual\numa febre alta pode matar você.\nO que estou estudando agora\né impedir isso melhorando \nquimicamente a resistência\ndo nosso corpo ao calor.",
-        "es": "[Pisruik]\nEs por eso mismo que\nla fiebre alta puede matarte.\nLo que estoy estudiando ahora\nes cómo evitarlo\nmejorando químicamente\nla resistencia al calor de nuestro cuerpo."
+        "ko": "[피스리크]\n불은 물론이거니와,\n뜨거운 물에 손을 데면\n그 부분의 피부가 죽는 건\n물질의 운반을 돕는 효소가\n익어서 죽어버리기 때문이거든.",
+        "en": "[Pisruik]\nFire goes without saying,\nbut when you scald your hand\nwith hot water, the skin there dies\nbecause the enzymes that help\ntransport substances\ncook and die.",
+        "pt": "[Pisruik]\nNão só o fogo,\nmas quando se queima a mão com água quente,\na pele daquela parte morre\nporque as enzimas que ajudam no transporte de substâncias\ncozinham e morrem.",
+        "es": "[Pisruik]\nNo solo el fuego.\nCuando te quemas con agua caliente,\nla piel de esa zona muere\nporque las enzimas que ayudan\nal transporte de sustancias\nse cocinan y mueren."
     },
     "7tEuAw": {
-        "en": "[Pisruik]\nThere's a side effect, though.\nThe medicine makes you\nmore vulnerable to the opposite property.\nThis is inevitable\nas it is with everything else\nthat's man-made.",
-        "pt": "[Pisruik]\nMas há um efeito colateral.\nO medicamento torna você\nmais vulnerável à propriedade oposta.\nIsso é inevitável,\nassim como tudo que \né feito pelo homem.",
-        "es": "[Pisruik]\nPero hay un efecto secundario.\nLa medicina te hace\nmás vulnerable a la propiedad contraria.\nEsto es inevitable,\ncomo ocurre con todo lo\nque crean las personas."
+        "ko": "[피스리크]\n병에 걸려 고열로 죽는 것도\n그것 때문이고.\n내가 지금 실험하는 건\n그런 것들을 인위적으로 막아\n열에 대한 내성을 키우는\n약물에 대한 것이지.",
+        "en": "[Pisruik]\nThat is also why people die\nfrom high fever when they fall ill.\nWhat I am experimenting on now\nis a drug that artificially prevents\nsuch things and increases\nresistance to heat.",
+        "pt": "[Pisruik]\nMorrer de febre alta por doença\ntambém acontece por isso.\nO que estou experimentando agora\né um medicamento que bloqueia\nartificialmente essas coisas\ne aumenta a resistência ao calor.",
+        "es": "[Pisruik]\nPor eso también la gente\nmuere de fiebre alta.\nLo que estoy investigando ahora\nes una medicina que bloquea\nartificialmente esos efectos\npara aumentar la resistencia al calor."
     },
     "79EuAw": {
-        "en": "[Pisruik]\nWhen you create something,\nyou're responsible for\neverything about it,\nincluding its side effects,\nand I'm willing to take mine.",
-        "pt": "[Pisruik]\nQuando você cria algo,\nvocê é responsável por\ntudo o que diz respeito a ela,\nincluindo seus efeitos colaterais, e\nestou disposto a assumir a responsabilidade.",
-        "es": "[Pisruik]\nCuando creas algo,\nte haces responsable\nde su totalidad,\nincluidos sus efectos secundarios,\ny yo me haré cargo de mi invento."
+        "ko": "[피스리크]\n대신에 부작용도 있어.\n반대 속성에는 반드시\n약해지게 돼 있지.\n자연의 힘을 빌리지 않고\n인공적으로 하는 것이니\n어쩔 수 없지만...",
+        "en": "[Pisruik]\nHowever, there are side effects.\nYou will inevitably become\nweaker to the opposite property.\nSince this is done artificially\nwithout borrowing the power of nature,\nthere is no helping it...",
+        "pt": "[Pisruik]\nMas também há efeitos colaterais.\nVocê necessariamente fica\nmais fraco contra a propriedade oposta.\nComo é feito artificialmente,\nsem pegar emprestada a força da natureza,\nnão há como evitar...",
+        "es": "[Pisruik]\nPero también tiene efectos secundarios.\nTe vuelves necesariamente\nmás débil ante el elemento opuesto.\nAl no usar el poder de la naturaleza\ny hacerlo de forma artificial,\nes inevitable..."
     },
     "8NEuAw": {
-        "en": "[Pisruik]\nAnyways...\nLastly, I need to Maneater Blossoms\nto test these medicines.\n20 would do.",
-        "pt": "[Pisruik]\nEnfim...\nPor fim, preciso de Flores de Planta Carnívora\npara testar esses medicamentos.\nAcho que bastam 20.",
-        "es": "[Pisruik]\nEn fin…\nPor último, necesito Flores carnívoras\npara probar estas medicinas.\nCon 20 será suficiente."
+        "ko": "[피스리크]\n무언가를 '만들어낸다' 라는 건\n분명히 그것이 원래 의도하지\n않았던 것에 대한 책임도\n함께 진다는 이야기니까...\n물론 그것도 지고 갈 생각이야.",
+        "en": "[Pisruik]\nTo 'create' something\ncertainly means also bearing\nresponsibility for things\nit was never originally\nintended to cause...\nOf course, I intend to bear that too.",
+        "pt": "[Pisruik]\n'Criar' algo\ncertamente significa\ntambém assumir responsabilidade\npor aquilo que originalmente\nnão era pretendido...\nClaro, eu também pretendo carregá-la.",
+        "es": "[Pisruik]\nCrear algo\ntambién significa asumir la responsabilidad\nde aquello para lo que originalmente\nno fue concebido...\nY pienso cargar con esa responsabilidad."
     },
     "8dEuAw": {
-        "en": "[Pisruik]\nThink you can get them, too?",
-        "pt": "[Pisruik]\nVocê acha que também consegue elas?",
-        "es": "[Pisruik]\n¿Podrías conseguirlas?"
+        "ko": "[피스리크]\n어쨌거나...\n마지막으로, 이것들을 실험해볼\n식인수의 꽃이 필요한데.\n...20개 정도.",
+        "en": "[Pisruik]\nIn any case...\nLastly, I need Maneater Blossom\nto test these.\n...About 20 of them.",
+        "pt": "[Pisruik]\nDe todo modo...\nPor fim, preciso de\nFlor de Planta Carnívora\npara testar isto.\n...Cerca de 20.",
+        "es": "[Pisruik]\nEn fin...\nLo último que necesito\npara probar esto es\nFlor carnívora.\n...Unas 20."
     },
     "8tEuAw": {
-        "en": "Sorry, I'm busy.",
-        "pt": "Foi mal, tô sem tempo..",
-        "es": "Lo siento, tengo cosas que hacer."
+        "ko": "[피스리크]\n이것도 좀 부탁해도 될까?",
+        "en": "[Pisruik]\nCould I ask you to handle that too?",
+        "pt": "[Pisruik]\nPosso pedir isso também?",
+        "es": "[Pisruik]\n¿Podrías encargarte también de esto?"
     },
     "89EuAw": {
-        "en": "Sure, why not?",
-        "pt": "Claro, por que não?",
-        "es": "Claro, ¿por qué no?"
+        "ko": "아뇨... 좀 바빠서.",
+        "en": "No... I am a little busy.",
+        "pt": "Não... estou meio ocupado.",
+        "es": "No... estoy algo ocupado."
     },
     "9NEuAw": {
-        "en": "What's in it for me?",
-        "pt": "O que eu ganho com isso?",
-        "es": "¿Qué gano yo?"
+        "ko": "네, 그까짓거.",
+        "en": "Yes, that is nothing.",
+        "pt": "Sim, isso é fácil.",
+        "es": "Sí, eso no es problema."
     },
     "9dEuAw": {
-        "en": "[Pisruik]\nI guess\nthen I'll have to go get them myself.\nI told you\nwhat I'd been making.\nWe're done now, right?",
-        "pt": "[Pisruik]\nAcho que terei \nque ir pegá-las por conta própria.\nEu já te falei o que\nestava fazendo.\nAcabamos por aqui, né?",
-        "es": "[Pisruik]\nEntonces, supongo\nque tendré que ir yo a buscarlas.\nTe conté \nlo que estoy haciendo.\nYa terminamos, ¿verdad?"
+        "ko": "댓가는요?",
+        "en": "What is the reward?",
+        "pt": "E a recompensa?",
+        "es": "¿Y la recompensa?"
     },
     "9tEuAw": {
-        "en": "[Pisruik]\nThank you.\nThen, I'll be waiting.\nMeanwhile, I'm going to\nboil some clover extract.",
-        "pt": "[Pisruik]\nValeu.\nVou esperar.\nEnquanto isso, vou\nferver um pouco de extrato de trevo.",
-        "es": "[Pisruik]\nGracias.\nEntonces, te estaré esperando.\nMientras tanto, voy a\nhervir un poco de extracto de trébol."
+        "ko": "[피스리크]\n할 수 없지.\n내가 구하러 가는 수밖에...\n난 약속대로 내가 뭘 만드는지\n가르쳐줬으니, 그것에 대한\n더이상의 볼일은 없겠지?",
+        "en": "[Pisruik]\nIt cannot be helped.\nI will have to go get them myself...\nAs promised, I taught you what I am making,\nso there should be\nno further business\nregarding that, correct?",
+        "pt": "[Pisruik]\nNão tem jeito.\nTerei que ir buscar eu mesmo...\nComo prometido, eu lhe ensinei\no que estou fabricando,\nentão não há mais nada\na tratar sobre isso, certo?",
+        "es": "[Pisruik]\nNo queda otra.\nSupongo que tendré que ir yo mismo...\nYa te expliqué, tal y como prometí,\nqué es lo que fabrico.\nAsí que imagino que\nya no tendrás más asuntos conmigo, ¿verdad?"
     },
     "99EuAw": {
-        "en": "Where do you use it?",
-        "pt": "Qual é a finalidade do extrato?",
-        "es": "¿Para qué lo usas?"
+        "ko": "[피스리크]\n고마워.\n그럼 기다리지.\n난 클로버 엑기스를\n달이고 있을 테니까...",
+        "en": "[Pisruik]\nThank you.\nThen I will wait.\nI will be decocting\nclover extract...",
+        "pt": "[Pisruik]\nObrigado.\nEntão aguardarei.\nEstarei fervendo\nextrato de trevo...",
+        "es": "[Pisruik]\nGracias.\nEntonces esperaré.\nMientras tanto,\nestaré hirviendo extracto de trébol..."
     },
     "+NEuAw": {
-        "en": "[Pisruik]\nWhere do I use it?\nWell... It's not\nexactly clover extract, but...",
-        "pt": "[Pisruik]\nQual a finalidade?\nBem... Não é\nbem extrato de trevo, mas...",
-        "es": "[Pisruik]\n¿Para qué lo uso?\nBueno… No es\nprecisamente extracto de trébol, sino"
+        "ko": "그건 어디다 쓰는데요?",
+        "en": "What do you use that for?",
+        "pt": "Para que isso é usado?",
+        "es": "¿Y eso para qué sirve?"
     },
     "+dEuAw": {
-        "en": "[Pisruik]\nIt's a herb complex, more like.\nI'm not good at fighting,\nso I can't get useful herbs\non my own. I just make do with\nthings I can find around me.",
-        "pt": "[Pisruik]\nÉ mais uma mistura de ervas.\nNão sou bom em luta,\nentão não consigo ervas úteis\npor conta própria. Eu me contento com\ncoisas que posso encontrar ao meu redor.",
-        "es": "[Pisruik]\nmás bien un complejo de hierbas.\nNo se me da bien pelear,\nasí que no puedo conseguir hierbas útiles\npor mi cuenta. Me conformo con\ncosas que puedo encontrar a mi alrededor."
+        "ko": "[피스리크]\n어디다 쓰느냐구?\n그거야... 클로버만\n넣는 건 아니고...",
+        "en": "[Pisruik]\nWhat do I use it for?\nWell... It is not as if\nI only put clover in it...",
+        "pt": "[Pisruik]\nPara que é usado?\nBem... não é que eu coloque\nsó trevo...",
+        "es": "[Pisruik]\n¿Para qué sirve?\nBueno... no es que\nsolo use trébol..."
     },
     "+tEuAw": {
-        "en": "[Pisruik]\nAs you can see, I have a poor sight.\nA poor heart, too.\nMy doctors have been telling me\nnot to exhaust myself,\nbut that's all the more reason I must study.",
-        "pt": "[Pisruik]\nComo você pode ver, tenho uma visão ruim.\nMeu coração também é fraco.\nMeus médicos mandaram\neu não pegar muito pesado,\nmas essa é mais uma razão para eu estudar.",
-        "es": "[Pisruik]\nComo puedes ver, tengo mala visión.\nY, además, un corazón débil.\nMis médicos me dijeron\nque no me esfuerce demasiado,\npero esa es una razón más para estudiar."
+        "ko": "[피스리크]\n허브 배합제인데,\n난 모험자로서의 능력은\n별로 없어서 쓸만한 허브를\n구할 수 없으니까 적당히 주변에서\n캐 오는 거지.",
+        "en": "[Pisruik]\nIt is an herbal compound,\nbut I do not have much\nability as an adventurer,\nso I cannot obtain useful herbs.\nI just gather suitable ones\nfrom around here.",
+        "pt": "[Pisruik]\nÉ uma mistura de ervas,\nmas não tenho muita capacidade\ncomo aventureiro,\nentão não consigo obter ervas úteis\ne acabo colhendo o que há\npor perto.",
+        "es": "[Pisruik]\nEs una mezcla de hierbas,\npero como no tengo grandes aptitudes\ncomo aventurero,\nno puedo conseguir hierbas útiles,\nasí que recojo cualquier cosa\nque encuentro por los alrededores."
     },
     "+9EuAw": {
-        "en": "Maybe you know what I'm talking about.",
-        "pt": "Talvez você saiba do que estou falando.",
-        "es": "Quizá sepas a lo que me refiero."
+        "ko": "[피스리크]\n보다시피 눈도 나쁘고,\n심장도 약한 편이라\n무리한 일은 삼가라는\n이야길 듣고 있지만\n그렇기에 연구만이 내 보람인 걸...",
+        "en": "[Pisruik]\nAs you can see, my eyesight is poor,\nand my heart is rather weak,\nso I have been told to refrain\nfrom strenuous work,\nbut that is exactly why research\nis the only thing that gives me purpose...",
+        "pt": "[Pisruik]\nComo pode ver, minha visão também é ruim,\ne meu coração é fraco,\nentão dizem para eu evitar\ntrabalhos pesados,\nmas é exatamente por isso que\na pesquisa é minha razão de viver...",
+        "es": "[Pisruik]\nComo puedes ver,\ntengo mala vista\ny el corazón débil,\nasí que me dicen\nque evite esfuerzos excesivos.\nPero precisamente por eso,\nla investigación es lo único\nque me da sentido..."
     },
     "/NEuAw": {
-        "en": "[Pisruik]\nI can make do without real herbs,\nbut I can't\nwithout Maneater Blossoms.\nThat's why I'm asking you.\nNow, I'll see you soon.",
-        "pt": "[Pisruik]\nPosso criar sem as ervas reais,\nmas não consigo\nsem Flores de Plantas Carnívoras.\nPor isso que peço esse favor.\nNos vemos em breve.",
-        "es": "[Pisruik]\nPuedo arreglármelas sin hierbas de verdad,\npero necesito\nlas Flores carnívoras.\nPor eso te las estoy pidiendo.\nHasta pronto."
+        "ko": "...너는 알지도 모르겠다.",
+        "en": "...You might understand.",
+        "pt": "...talvez você entenda.",
+        "es": "Quizá tú no lo entiendas."
     },
     "/dEuAw": {
-        "en": "[Pisruik]\nOoh, you think you're smart, don't you?\nAlright, I may be poor, but I'm not dishonorable.\nIf I complete my research, I'll teach you\nmy formulas for free.\nWhat do you say?",
-        "pt": "[Pisruik]\nAh, você se acha inteligente demais, não é?\nTudo bem, posso ser pobre, mas não sou uma pessoa desonesta.\nSe eu concluir minha pesquisa, ensinarei\nminhas fórmulas de graça.\nO que acha?",
-        "es": "[Pisruik]\nTe crees muy inteligente, ¿verdad?\nQuizás sea pobre, pero tengo honor.\nSi completo mi investigación, te enseñaré \nmis fórmulas gratis.\n¿Qué dices?"
+        "ko": "[피스리크]\n허브는 그랬다 쳐도\n식인수의 꽃은\n대체할 만한 게 없으니\n굳이 부탁하는 거고.\n잘 다녀와.",
+        "en": "[Pisruik]\nEven if herbs can be managed,\nthere is no substitute\nfor Maneater Blossom,\nwhich is why I am asking.\nTake care.",
+        "pt": "[Pisruik]\nQuanto às ervas, tudo bem,\nmas Flor de Planta Carnívora\nnão tem substituto,\npor isso estou pedindo.\nVolte em segurança.",
+        "es": "[Pisruik]\nAunque pueda sustituir otras hierbas,\nFlor carnívora\nno tiene reemplazo posible,\npor eso te lo pido expresamente.\nVe con cuidado."
     },
     "/tEuAw": {
-        "en": "Well, in that case...",
-        "pt": "Bem, nesse caso...",
-        "es": "Bueno, en ese caso…"
+        "ko": "[피스리크]\n오호... 한수 배웠다 이거지?\n좋아. 내가 암만 가난뱅이지만\n연구가 완성된다면 너한테는\n제법을 공짜로 가르쳐주도록 하지.\n어때?",
+        "en": "[Pisruik]\nOho... so you learned something, did you?\nFine. Poor as I may be,\nif the research is completed,\nI will teach you the method\nfree of charge.\nHow does that sound?",
+        "pt": "[Pisruik]\nOh... então você aprendeu algo, não é?\nÓtimo. Por mais pobre que eu seja,\nse a pesquisa for concluída,\nvou ensinar a fórmula a você de graça.\nQue tal?",
+        "es": "[Pisruik]\nOh... ¿así que aprendiste algo, eh?\nBien. Aunque sea pobre,\nsi completo esta investigación,\nte enseñaré la fórmula gratis.\n¿Qué te parece?"
     },
     "/9EuAw": {
-        "en": "[Pisruik]\nYou knew what to get\nbetter than I did,\nand yet you didn't bring any of them. Why not?\nUgh!\nIf you don't want to do this,\nwhy didn't you say so earlier?",
-        "pt": "[Pisruik]\nVocê sabia o que pegar\nmelhor do que eu,\ne mesmo assim não trouxe nada. Por quê?\nArgh...!\nSe não queria me ajudar,\npor que não falou de cara?",
-        "es": "[Pisruik]\nSabías mejor que yo\nqué debías conseguir\ny, sin embargo, no trajiste nada. ¿Por qué?\n¡Uf!\nSi no quieres hacer esto,\n¿por qué no me lo dijiste antes?"
+        "ko": "아무래도 바빠서...",
+        "en": "I really am busy...",
+        "pt": "Estou ocupado demais...",
+        "es": "Estoy demasiado ocupado..."
     },
     "ANIuAw": {
-        "en": "[Pisruik]\nForget it.\nBring them, or don't bring them. Whatever.",
-        "pt": "[Pisruik]\nEsquece.\nTraz logo... ou não. Não ligo mais.",
-        "es": "[Pisruik]\nOlvídalo.\nTrae lo que te pedí o no lo traigas. Me da igual."
+        "ko": "그렇다면야...",
+        "en": "If that is the case...",
+        "pt": "Nesse caso...",
+        "es": "En ese caso..."
     },
     "AdIuAw": {
-        "en": "[Pisruik]\nThis isn't enough.\nYou know alchemy\nis all about accuracy. Even the tinniest error\ncan lead to disastrous results.\nYou said you could do it.\nWas that a lie?",
-        "pt": "[Pisruik]\nIsso não é suficiente.\nVocê sabe que a alquimia\ntem tudo a ver com precisão. Até mesmo o menor erro\npode levar a resultados desastrosos.\nVocê disse que poderia fazer isso para mim.\nEstava mentindo?",
-        "es": "[Pisruik]\nNo es suficiente.\n¿Sabes algo? La alquimia\nrequiere precisión. Hasta el más mínimo error\npuede producir resultados desastrosos.\nDijiste que podías hacerlo.\n¿Acaso mentiste?"
+        "ko": "[피스리크]\n방금 이거다 저거다\n대답해놓고는 하나도\n갖고오지 않았단 말야?\n어우...\n할 생각이 없는 거면\n처음부터 하기 싫다 그래.",
+        "en": "[Pisruik]\nYou just answered\nthis and that,\nand yet you brought\nnothing at all?\nUgh...\nIf you do not intend to do it,\nsay you do not want to from the start.",
+        "pt": "[Pisruik]\nVocê acabou de responder isto e aquilo,\nmas não trouxe nada?\nUgh...\nSe não pretende fazer,\ndiga desde o começo que não quer.",
+        "es": "[Pisruik]\n¿Me respondiste tantas cosas\ny aun así no trajiste nada?\nUf...\nSi no pensabas hacerlo,\ndeberías haberlo dicho desde el principio."
     },
     "AtIuAw": {
-        "en": "[Pisruik]\nI've put aside that task\nfor now.\nPlease bring what I've asked\nas soon as you can.",
-        "pt": "[Pisruik]\nDeixei essa tarefa\npara depois por enquanto.\nTraga o que eu pedi\nassim que puder.",
-        "es": "[Pisruik]\nDejé de lado esa tarea\npor ahora.\nTrae lo que te pedí \nlo antes posible."
+        "ko": "[피스리크]\n됐어.\n다 준비되면 오든가 말든가.",
+        "en": "[Pisruik]\nFine.\nCome back when everything is ready,\nor do not.",
+        "pt": "[Pisruik]\nChega.\nQuando tudo estiver pronto, venha ou não venha.",
+        "es": "[Pisruik]\nOlvídalo.\nVen... o no vengas,\ncuando lo tengas todo preparado."
     },
     "A9IuAw": {
-        "en": "[Pisruik]\nOh, yes. Large jellopies.\nActually, no.\nI've got enough large jellopies\nright now.\nIt was something else.",
-        "pt": "[Pisruik]\nAh, sim. Jellopies Grandes.\nNa verdade, não.\nJá tenho Jellopies Grandes\no suficiente agora.\nEra outra coisa.",
-        "es": "[Pisruik]\nAh, sí. Jellopy grandes.\nEn realidad, no.\nTengo suficientes Jellopy grandes\npor ahora.\nEra otra cosa."
+        "ko": "[피스리크]\n모자라잖아.\n알다시피 연금술은\n재료가 모자라면 어떤 결과가\n나와버릴지 알 수 없다구,\n자기 입으로 한다고 했으면\n약속은 지켜줘야지?",
+        "en": "[Pisruik]\nThere is not enough.\nAs you know, in alchemy,\nif the materials are lacking,\nthere is no telling what result\nmight come out.\nIf you said you would do it\nwith your own mouth,\nyou should keep your promise, no?",
+        "pt": "[Pisruik]\nEstá faltando.\nComo sabe, na alquimia,\nse faltam materiais, não se sabe\nque resultado pode sair.\nSe disse com a própria boca que faria,\nprecisa cumprir a promessa, certo?",
+        "es": "[Pisruik]\nFalta algo.\nComo ya sabes,\nen alquimia, si faltan materiales,\nnadie sabe qué resultado\npodría salir.\nSi dijiste que lo harías,\ndeberías cumplir tu promesa."
     },
     "BNIuAw": {
-        "en": "[Pisruik]\nBlue gemstones?\nAre you sure?\nBecause I think\nI was working on\nimproving earth resistance.\nGah, why am I so forgetful?",
-        "pt": "[Pisruik]\nGemas Azuis?\nTem certeza?\nPorque eu acho que\neu estava trabalhando em\nmelhorar a resistência à terra.\nPor que esqueço tudo?",
-        "es": "[Pisruik]\n¿Gemas azules?\n¿De verdad?\nPorque creo que\nestaba trabajando en\nmejorar la resistencia de la tierra.\nUff, ¿por qué se me olvida todo?"
+        "ko": "[피스리크]\n일단 그 작업은\n뒤로 밀어놨으니까\n되는 대로 빨리\n가져다줬음 좋겠어.",
+        "en": "[Pisruik]\nI have put that work\naside for now,\nso I would like you to\nbring them as soon as you can.",
+        "pt": "[Pisruik]\nPor enquanto, coloquei esse trabalho\npara depois,\nentão gostaria que trouxesse\no mais rápido possível.",
+        "es": "[Pisruik]\nPor ahora he dejado\nese trabajo en pausa,\nasí que agradecería\nque lo trajeras\nlo antes posible."
     },
     "BdIuAw": {
-        "en": "[Pisruik]\nRed gemstones?\nAre you sure?\nBecause I think\nI was working on\nimproving earth resistance.\nGah, why am I so forgetful?",
-        "pt": "[Pisruik]\nGemas Vermelhas?\nTem certeza?\nPorque eu acho que\neu estava trabalhando em\nmelhorar a resistência à terra.\nPor que esqueço tudo?",
-        "es": "[Pisruik]\n¿Gemas rojas?\n¿De verdad?\nPorque creo que\nestaba trabajando en\nmejorar la resistencia de la tierra.\nUff, ¿por qué se me olvida todo?"
+        "ko": "[피스리크]\n아, 그래. 라지 젤로피.\n....아닌데.\n라지 젤로피는 지금 준비가\n다 돼 있는데...\n이거 말고 다른 거였어.",
+        "en": "[Pisruik]\nAh, right. Large Jellopy.\n....No, that is not it.\nThe Large Jellopy is already\nfully prepared now...\nIt was something else.",
+        "pt": "[Pisruik]\nAh, isso. Jellopy Tamanho Família.\n....Não é.\nJellopy Tamanho Família agora já está\ntodo preparado...\nEra outra coisa, não isso.",
+        "es": "[Pisruik]\nAh, sí. Jellopy Grande.\n....No, espera.\nLas Jellopy Grande\nya las tengo preparadas...\nEra otra cosa."
     },
     "BtIuAw": {
-        "en": "[Pisruik]\n...?\nWhere did you go\nwhile I was talking?",
-        "pt": "[Pisruik]\n...?\nPara onde você foi\nenquanto eu estava falando?",
-        "es": "[Pisruik]\n¿…?\n¿Dónde fuiste\nmientras hablaba?"
+        "ko": "[피스리크]\nBlue_Gemstone이랑...\n이었나?\n분명 아까까지 하고 있던 작업은\n지속성에 대한 저항력을 높이는\n약물을 만들고 있었는데...\n기억력이 이래서야... 에휴.",
+        "en": "[Pisruik]\nWas it Blue Gemstone\nand...\nthat?\nI am sure the work I was doing until just now\nwas making a drug that increases\nresistance to the Earth property...\nWith a memory like this... sigh.",
+        "pt": "[Pisruik]\nEra Gema Azul e...\ntalvez?\nTenho certeza de que, até agora há pouco,\neu estava trabalhando em um medicamento\npara aumentar a resistência à propriedade Terra...\nCom essa memória... ai.",
+        "es": "[Pisruik]\n¿Era Gema azul...\ntal vez?\nHasta hace un momento\nestaba trabajando en una medicina\npara aumentar la resistencia\na los efectos continuos...\nQué mala memoria tengo... uf."
     },
     "B9IuAw": {
-        "en": "[Pisruik]\nWhat I'm making is a medicine.",
-        "pt": "[Pisruik]\nO que estou fazendo é um medicamento.",
-        "es": "[Pisruik]\nLo que estoy haciendo es una medicina."
+        "ko": "[피스리크]\n레드젬스톤이랑...\n이었나?\n분명 아까까지 하고 있던 작업은\n지속성에 대한 저항력을 높이는\n약물을 만들고 있었는데...\n기억력이 이래서야... 에휴.",
+        "en": "[Pisruik]\nWas it Red Gemstone\nand...\nthat?\nI am sure the work I was doing until just now\nwas making a drug that increases\nresistance to the Earth property...\nWith a memory like this... sigh.",
+        "pt": "[Pisruik]\nEra Gema Vermelha e...\ntalvez?\nTenho certeza de que, até agora há pouco,\neu estava trabalhando em um medicamento\npara aumentar a resistência à propriedade Terra...\nCom essa memória... ai.",
+        "es": "[Pisruik]\n¿Era Gema roja...\ntal vez?\nHasta hace un momento\nestaba trabajando en una medicina\npara aumentar la resistencia\na los efectos continuos...\nQué mala memoria tengo... uf."
     },
     "CNIuAw": {
-        "en": "[Pisruik]\nI said I was making a medicine.\nDo you want me to explain it to you again?",
-        "pt": "[Pisruik]\nEu disse que estava fazendo um remédio.\nQuer que eu explique de novo?",
-        "es": "[Pisruik]\nDije que estoy haciendo una medicina.\n¿Quieres que te lo explique otra vez?"
+        "ko": "[피스리크]\n?\n이야길 듣다 말고\n어딜 갔다 온 거야?",
+        "en": "[Pisruik]\n?\nWhere did you go\nin the middle of listening?",
+        "pt": "[Pisruik]\n?\nVocê saiu no meio da conversa\ne foi aonde?",
+        "es": "[Pisruik]\n¿?\n¿A dónde fuiste\na mitad de la conversación?"
     },
     "CdIuAw": {
-        "en": "Yes.",
-        "pt": "Sim.",
-        "es": "Sí."
+        "ko": "[피스리크]\n지금 만드는 건 약이야.",
+        "en": "[Pisruik]\nWhat I am making now is medicine.",
+        "pt": "[Pisruik]\nO que estou fazendo agora é remédio.",
+        "es": "[Pisruik]\nLo que estoy haciendo ahora\nes medicina."
     },
     "CtIuAw": {
-        "en": "[Pisruik]\nAlright, then.\nNow, excuse me. I'm busy.",
-        "pt": "[Pisruik]\nEntão, tá.\nAgora, com licença. Tenho muito o que fazer.",
-        "es": "[Pisruik]\nDe acuerdo.\nBien, con permiso. Estoy ocupado."
+        "ko": "[피스리크]\n약을 만든다고 했잖아?\n설명이 다시 필요해?",
+        "en": "[Pisruik]\nI said I am making medicine, did I not?\nDo you need the explanation again?",
+        "pt": "[Pisruik]\nEu disse que estou fazendo remédio, não disse?\nPrecisa que eu explique de novo?",
+        "es": "[Pisruik]\n¿No dije que estaba haciendo medicina?\n¿Necesitas que te lo explique otra vez?"
     },
     "C9IuAw": {
-        "en": "[Pisruik]\nThis medicine I'm making...\nWhen it's mixed\nwith digestive enzymes\nin your body,",
-        "pt": "[Pisruik]\nEste medicamento que estou fazendo...\nQuando ele é misturado\ncom as enzimas digestivas\ndo seu corpo,",
-        "es": "[Pisruik]\nEsta medicina que estoy haciendo,\ncuando se mezcla\ncon las enzimas digestivas\nen el cuerpo,"
+        "ko": "아니오",
+        "en": "No",
+        "pt": "Não",
+        "es": "No."
     },
     "DNIuAw": {
-        "en": "[Pisruik]\nI said I'm busy.\nAlso, stop coming in here\nunless you have business.\nOr you'll have the wrath\nof the rest of us here. Got it?",
-        "pt": "[Pisruik]\nJá disse que estou sem tempo.\nAlém disso, pare de vir aqui\na menos que tenha negócios a tratar.\nOu você sentirá a ira\ndo pessoal daqui. Deu pra entender?",
-        "es": "[Pisruik]\nDije que estoy ocupado.\nAdemás, deja de venir aquí \na menos que tengas algo que hacer.\nO te ganarás la ira\nde quienes estamos aquí. ¿Entendido?"
+        "ko": "네",
+        "en": "Yes",
+        "pt": "Sim",
+        "es": "Sí."
     },
     "DdIuAw": {
-        "en": "Got it.",
+        "ko": "[피스리크]\n그럼 됐고.\n난 지금 바빠.",
+        "en": "[Pisruik]\nThen that is enough.\nI am busy now.",
+        "pt": "[Pisruik]\nEntão está bem.\nEstou ocupado agora.",
+        "es": "[Pisruik]\nEntonces está bien.\nAhora mismo estoy ocupado."
+    },
+    "DtIuAw": {
+        "ko": "[피스리크]\n무슨 약이냐면...\n이 종류의 약이\n체내에서 소화효소와\n반응하게 되면",
+        "en": "[Pisruik]\nWhat kind of medicine is it...\nWhen this type of medicine\nreacts with digestive enzymes\ninside the body,",
+        "pt": "[Pisruik]\nQue tipo de remédio?\nQuando esse tipo de remédio\nreage com enzimas digestivas\ndentro do corpo,",
+        "es": "[Pisruik]\nLa medicina que estoy haciendo...\ncuando este tipo de medicina\nreacciona con las enzimas digestivas\ndentro del cuerpo..."
+    },
+    "D9IuAw": {
+        "ko": "[피스리크]\n바쁘다니까?\n그리고 용건도 없이\n여기 자꾸 왔다갔다하면\n다른 사람들 눈치가 점점\n나빠질 거야. 알아?",
+        "en": "[Pisruik]\nI said I am busy, did I not?\nAnd if you keep coming and going\nwithout any business,\nthe others will start to\nlook at you more and more unfavorably.\nDo you understand?",
+        "pt": "[Pisruik]\nEu disse que estou ocupado.\nE se você ficar indo e vindo aqui\nsem ter assunto,\nos outros vão começar a olhar\ncada vez mais torto para você. Entendeu?",
+        "es": "[Pisruik]\n¿No ves que estoy ocupado?\nAdemás, si sigues entrando\ny saliendo de aquí sin motivo,\nla gente empezará a mirarte\ncada vez peor. ¿Entendido?"
+    },
+    "ENIuAw": {
+        "ko": "알았어요.",
+        "en": "I understand.",
         "pt": "Entendi.",
         "es": "Entendido."
     },
-    "DtIuAw": {
-        "en": "Sorry, I want to help.",
-        "pt": "Eu só queria ajudar...",
-        "es": "Lo siento, quiero ayudar."
-    },
-    "D9IuAw": {
-        "en": "[Pisruik]\n...\nThen, git!",
-        "pt": "[Pisruik]\n...\nEntão, vá!",
-        "es": "[Pisruik]\n…\n¡Entonces, largo!"
-    },
-    "ENIuAw": {
-        "en": "[Pisruik]\n...I don't know\nwhat changed you,\nbut I guess it doesn't matter\nso long as I get what I need for my study.\n*Cough, Cough!*",
-        "pt": "[Pisruik]\n...Eu não sei\no que mudou você,\nmas acho que não importa\ndesde que eu consiga o que preciso pro meu estudo.\n*Coff-coff*!",
-        "es": "[Pisruik]\n…No sé \nqué te hizo cambiar,\npero supongo que no importa,\nsiempre y cuando consigas lo que necesito para mi estudio.\n*¡Cof*, cof!*"
-    },
     "EdIuAw": {
-        "en": "[Pisruik]\n*Sigh...*\nI could have done this already\nif it weren't for my coughing fits, but...\nthat's too much to ask, isn't it?\nHah hah hah...",
-        "pt": "[Pisruik]\n*Suspiro...*\nEu já poderia ter feito isso\nse não fosse pela minha tosse, mas...\nAí já é pedir demais, né?\nHahahahah...",
-        "es": "[Pisruik]\n*Suspira…*\nYa podría haber hecho esto\nsi no fuera por mis ataques de tos, pero…\nes mucho pedir, ¿no?\nJa, ja, ja…"
+        "ko": "역시 도와드릴까 해서요.",
+        "en": "I thought I might help after all.",
+        "pt": "Pensei em ajudar, afinal.",
+        "es": "En realidad quería ayudarle."
     },
     "EtIuAw": {
-        "en": "[Pisruik]\n20 Maneater Blossoms.\nThat's all I need.",
-        "pt": "[Pisruik]\n20 Flores de Planta Carnívora.\nIsso é tudo de que preciso.",
-        "es": "[Pisruik]\n20 Flores carnívoras.\nEso es todo lo que necesito."
+        "ko": "[피스리크]\n...\n그럼 빨리 가 봐.",
+        "en": "[Pisruik]\n...\nThen hurry and go.",
+        "pt": "[Pisruik]\n...\nEntão vá logo.",
+        "es": "[Pisruik]\n...\nEntonces date prisa."
     },
     "E9IuAw": {
-        "en": "Thank you.",
-        "pt": "Obrigado.",
-        "es": "Gracias."
+        "ko": "[피스리크]\n...무슨 심경의 변화라도\n일으킨 건지 모르겠지만 뭐.\n나야 연구만 할 수 있으면 되니\n상관없어...\n쿨럭 쿨럭",
+        "en": "[Pisruik]\n...I do not know what change of heart\nyou have had, but fine.\nAs long as I can conduct my research,\nI do not mind...\nCough, cough.",
+        "pt": "[Pisruik]\n...Não sei se você teve\nalguma mudança de coração, mas enfim.\nPara mim, basta poder pesquisar,\nentão não me importo...\nCof, cof.",
+        "es": "[Pisruik]\n...No sé qué cambio de opinión\nhabrás tenido, pero bueno.\nMientras pueda seguir investigando,\na mí no me importa...\ncof cof"
     },
     "FNIuAw": {
-        "en": "Please bring them as soon as you can.",
-        "pt": "Por favor, traga assim que possível.",
-        "es": "Trae todo lo antes posible."
+        "ko": "[피스리크]\n...휴우.\n발작만 안 일어나면\n금방 할 텐데...\n.....아니, 역시 무리일까.\n하하하하..",
+        "en": "[Pisruik]\n...Hoo.\nIf only I did not have these attacks,\nI could do this quickly...\n.....No, perhaps it is still impossible.\nHa ha ha ha...",
+        "pt": "[Pisruik]\n...Ufa.\nSe eu não tivesse ataques,\nfaria isso logo...\n.....Não, talvez ainda fosse impossível.\nHahahaha...",
+        "es": "[Pisruik]\n...Uf.\nSi no me dieran ataques,\npodría terminarlo enseguida...\n.....Aunque quizá sea imposible.\nJa ja ja..."
     },
     "FdIuAw": {
-        "en": "[Pisruik]\nThank you.",
-        "pt": "[Pisruik]\nObrigado.",
-        "es": "[Pisruik]\nGracias."
+        "ko": "[피스리크]\n식인수의 꽃, 20개.\n그만큼만 있으면 돼.",
+        "en": "[Pisruik]\n20 Maneater Blossom.\nThat is all I need.",
+        "pt": "[Pisruik]\n20 Flor de Planta Carnívora.\nSó preciso dessa quantidade.",
+        "es": "[Pisruik]\n20 Flor carnívora.\nCon eso bastará."
     },
     "FtIuAw": {
-        "en": "Thank you so much for doing this.",
-        "pt": "Agradeço pelo que fez..",
-        "es": "Muchas gracias por hacer esto."
+        "ko": "...부탁해.",
+        "en": "...Please.",
+        "pt": "...Por favor.",
+        "es": "...Por favor."
     },
     "F9IuAw": {
-        "en": "Now, if I just put these maneater blossoms\ninto this clover extract...\nThere you go!",
-        "pt": "Agora, se eu colocar essas Flores\nde Planta Carnívora nesse extrato de trevo...\nProntinho!",
-        "es": "Ahora, si pongo estas Flores carnívoras\nen este extracto de trébol…\n¡Ahí tienes!"
+        "ko": "가능한 한 빨리 가져다 줘.",
+        "en": "Bring them as quickly as possible.",
+        "pt": "Traga o mais rápido possível.",
+        "es": "Tráelo lo antes posible."
     },
     "GNIuAw": {
-        "en": "[Pisruik]\nWah!",
-        "pt": "[Pisruik]\nAiê!",
-        "es": "[Pisruik]\n¡Bua!"
+        "ko": "[피스리크]\n...고마워.",
+        "en": "[Pisruik]\n...Thank you.",
+        "pt": "[Pisruik]\n...Obrigado.",
+        "es": "[Pisruik]\n...Gracias."
     },
     "GdIuAw": {
-        "en": "[Pisruik]\nAre you hurt?",
-        "pt": "[Pisruik]\nVocê se machucou?",
-        "es": "[Pisruik]\n¿Estás bien?"
+        "ko": "고마워, 이런 수고까지 해 줘서...",
+        "en": "Thank you for going through all this trouble...",
+        "pt": "Obrigado por todo esse trabalho...",
+        "es": "Gracias por tomarte tantas molestias..."
     },
     "GtIuAw": {
-        "en": "[{0}]\nYour glasses...\nThey are shattered.\n...",
-        "pt": "[{0}]\nSeus óculos...\nQuebraram.\n...",
-        "es": "[{0}]\nTus lentes…\nestán destrozados.\n…"
+        "ko": "자... 그럼 이제 클로버 엑기스에\n식인수 꽃을 담그기만 하면...\n엇차...",
+        "en": "Now... then, if I just soak\nthe Maneater Blossom in the clover extract...\nHeave...",
+        "pt": "Bem... então agora é só mergulhar\na Flor de Planta Carnívora\nno extrato de trevo...\nOpa...",
+        "es": "Bien... ahora solo tengo que\nsumergir la flor carnívora\nen el extracto de trébol...\n¡Hop!"
     },
     "G9IuAw": {
-        "en": "== When the explosion occurred, he fell ==\n == and broke his glasses. ==\n == When he got back on his feet, ==\n == there stood a handsome man ==\n == instead of ==\n == the brusque nerdy scholar. ==",
-        "pt": "== Quando a explosão ocorreu, ele caiu==\n== e quebrou seus óculos. ==\n== Quando se recuperou,==\n== havia um homem bonito ==\n== em vez do ==\n== professor sem graça. ==",
-        "es": "(Cuando se produjo la explosión, se cayó \n y sus lentes se rompieron.\n Cuando se puso de pie,\n vi un hombre guapo\n en lugar\n del erudito estudioso."
+        "ko": "[피스리크]\n으앗!",
+        "en": "[Pisruik]\nUwaah!",
+        "pt": "[Pisruik]\nUaaah!",
+        "es": "[Pisruik]\n¡Aaah!"
     },
     "HNIuAw": {
-        "en": "== An adonis. ==\n == The face behind the glasses ==\n == couldn't be far from ==\n == the curt four eyes ==\n == I'd gotten used to. ==",
-        "pt": "== Um belo rapaz. ==\n== O rosto por trás dos óculos ==\n== não poderia estar longe ==\n== dos quatro olhos curtos ==\n== com os quais eu havia me acostumado. ==",
-        "es": "Un adonis.\n El rostro detrás de los lentes\n no podía ser más distinto\n de los cuatro ojos bruscos\n a los que me había acostumbrado)."
+        "ko": "[피스리크]\n다친 덴 없어?",
+        "en": "[Pisruik]\nAre you hurt anywhere?",
+        "pt": "[Pisruik]\nVocê se machucou?",
+        "es": "[Pisruik]\n¿No te has hecho daño?"
     },
     "HdIuAw": {
-        "en": "[{0}]\n...H-hey, erm...",
-        "pt": "[{0}]\n...Ei, então...",
-        "es": "[{0}]\n…O-oye, ehh…"
+        "ko": "[{0}]\n...안경이...\n산산조각났잖아요...\n....",
+        "en": "[{0}]\n...Your glasses...\nThey are shattered...\n....",
+        "pt": "[{0}]\n...Seus óculos...\nquebraram em pedaços...\n....",
+        "es": "[{0}]\n...Las gafas...\nse hicieron añicos...\n...."
     },
     "HtIuAw": {
-        "en": "[Pisruik]\nAre you sure you're okay?\nI'm sorry, but I can't see without my glasses.\nAt least you don't look like\nyou're bleeding.",
-        "pt": "[Pisruik]\nTem certeza de que está bem?\nFoi mal, não consigo enxergar sem meus óculos.\nPelo menos você não parece\nestar sangrando.",
-        "es": "[Pisruik]\n¿De verdad estás bien?\nLo siento, pero no puedo ver sin mis lentes.\nAl menos no parece\nque estés sangrando."
+        "ko": "== 폭발로 인해 쓰러진 그의 ==\n == 안경이 떨어져 깨졌다. ==\n == 퉁명스런 안경잡이 학자와 ==\n == 동일인물이라고 믿기지 ==\n == 않을 정도의 미청년이, ==\n == 그 자리에 있었다... ==",
+        "en": "== His glasses, knocked off ==\n == by the explosion, fell and broke. ==\n == A beautiful young man, ==\n == hard to believe was the same person ==\n == as the curt bespectacled scholar, ==\n == was standing there... ==",
+        "pt": "== Por causa da explosão, ele caiu, ==\n == e seus óculos caíram e se quebraram. ==\n == Um belo jovem, a ponto de ser difícil ==\n == acreditar que era a mesma pessoa ==\n == que o estudioso de óculos rabugento, ==\n == estava ali... ==",
+        "es": "== Las gafas del hombre, ==\n == que cayó por la explosión, ==\n == cayeron al suelo y se rompieron. ==\n == Allí estaba un joven apuesto, ==\n == imposible de creer que fuera ==\n == el mismo erudito malhumorado ==\n == de las gafas... =="
     },
     "H9IuAw": {
-        "en": "[{0}]\n...No.\nBut your glasses...",
-        "pt": "[{0}]\n...Não.\nMas seus óculos...",
-        "es": "[{0}]\n…No.\nPero tus lentes…"
+        "ko": "== 반반한 청년. ==\n == 안경 속에 있던 것은 ==\n == 그렇게밖에 설명할 수 없는, ==\n == 퉁명스런 안경잡이와는 ==\n == 딴판인 얼굴이었다. ==",
+        "en": "== A handsome young man. ==\n == What had been behind the glasses ==\n == could only be described that way, ==\n == a face completely different ==\n == from the curt bespectacled man. ==",
+        "pt": "== Um jovem bonito. ==\n == O que havia por trás dos óculos ==\n == só podia ser descrito assim: ==\n == um rosto totalmente diferente ==\n == do rabugento de óculos. ==",
+        "es": "== Un joven atractivo. ==\n == Lo que ocultaban aquellas gafas ==\n == solo podía describirse así. ==\n == Un rostro completamente distinto ==\n == al del huraño hombre de gafas. =="
     },
     "INIuAw": {
-        "en": "[Pisruik]\nWhat do I do?\nI don't have my backup glasses with me.\n...",
-        "pt": "[Pisruik]\nO que devo fazer?\nMeu óculos reserva não estão comigo.\n...",
-        "es": "[Pisruik]\n¿Qué hago?\nNo tengo mis lentes de repuesto.\n…"
+        "ko": "[{0}]\n....저.... 저기...",
+        "en": "[{0}]\n....Um.... excuse me...",
+        "pt": "[{0}]\n....E-eu... hum...",
+        "es": "[{0}]\n....Eh... este..."
     },
     "IdIuAw": {
-        "en": "[Pisruik]\nHey, {0}.\nI'm sorry, but think you can\nfind me the same glasses\nlike the ones I had?",
-        "pt": "[Pisruik]\nOlá, {0}.\nFoi mal, mas será que você pode\nencontrar um par de óculos\ncomo os que eu tinha?",
-        "es": "[Pisruik]\nOye, {0}.\nLo siento, pero ¿crees que podrías\nencontrar unos lentes iguales\na los que tenía?"
+        "ko": "[피스리크]\n확실히 괜찮아?\n미안해, 잘 안 보여서\n일단 피가 흐르지 않는 것밖에\n확인할 수가 없어.",
+        "en": "[Pisruik]\nAre you certain you are all right?\nI am sorry, I cannot see well,\nso I can only confirm for now\nthat you are not bleeding.",
+        "pt": "[Pisruik]\nTem certeza de que está bem?\nDesculpe, não enxergo bem,\nentão só consigo verificar\nse não há sangue escorrendo.",
+        "es": "[Pisruik]\n¿Seguro que estás bien?\nLo siento, no veo bien,\nasí que solo puedo comprobar\nque no estés sangrando."
     },
     "ItIuAw": {
-        "en": "[Pisruik]\nI can't do it because I'm practically blind without my glasses on.\nI'll really appreciate it\nif you help me with this.\n...I mean it.\nPlease.",
-        "pt": "[Pisruik]\nNão posso fazer isso porque sou praticamente cego sem meus óculos.\nFicarei muito grato\nse você me ajudar.\n... De verdade.\nFaz esse favor.",
-        "es": "[Pisruik]\nNo puedo hacerlo yo porque estoy prácticamente ciego sin mis lentes.\nTe estaré muy agradecido\nsi me ayudas con esto.\n…Lo digo en serio.\nPor favor."
+        "ko": "[{0}]\n...네.\n그런데... 안경은...",
+        "en": "[{0}]\n...Yes.\nBut... your glasses...",
+        "pt": "[{0}]\n...Sim.\nMas... os óculos...",
+        "es": "[{0}]\n...Sí.\nPero... las gafas..."
     },
     "I9IuAw": {
-        "en": "[Pisruik]\nMm...\nI need\n20 more Maneater Blossoms...",
-        "pt": "[Pisruik]\nHm...\nPreciso de\nmais 20 Flores de Planta Carnívora...",
-        "es": "[Pisruik]\nMm…\nNecesito\n20 Flores carnívoras más…"
+        "ko": "[피스리크]\n....어쩐다.\n지금은 여분이 없는데...\n...",
+        "en": "[Pisruik]\n....What should I do?\nI do not have a spare right now...\n...",
+        "pt": "[Pisruik]\n....O que faço?\nAgora não tenho reserva...\n...",
+        "es": "[Pisruik]\n....Qué problema.\nAhora mismo no tengo unas de repuesto...\n..."
     },
     "JNIuAw": {
-        "en": "== He's looking at his test tubes, ==\n == thinking. ==",
-        "pt": "== Ele está olhando para os tubos de ensaio, ==\n== pensativo. ==",
-        "es": "(Mira los tubos de ensayo,\n pensativo)."
+        "ko": "[피스리크]\n저기. {0} 후배.\n미안하지만 내가 쓰고 있던 것과\n같은 안경을 좀\n구해다주지 않겠어?",
+        "en": "[Pisruik]\nUm. {0}, my junior.\nI am sorry, but could you\nget me a pair of glasses\nlike the ones I was wearing?",
+        "pt": "[Pisruik]\nEi. {0}, meu calouro.\nDesculpe, mas poderia\nme conseguir uns óculos iguais\naos que eu usava?",
+        "es": "[Pisruik]\nOye, cadete {0}.\nLo siento, pero...\n¿podrías conseguirme unas gafas\niguales a las que llevaba?"
     },
     "JdIuAw": {
-        "en": "[Pisruik]\n...This is harder than I thought.\nHey... could you bring me\none more Maneater Blossom?\nPlease.",
-        "pt": "[Pisruik]\n...Isso é mais difícil do que eu pensava.\nEi... você poderia me trazer\nmais uma Flor de Planta Carnívora?\nPor favor.",
-        "es": "[Pisruik]\n…Esto es más difícil de lo que pensaba.\nOye… ¿podrías traerme\nuna Flor carnívora más?\nPor favor."
+        "ko": "[피스리크]\n난 앞이 안 보여서 꼼짝할 수 없으니\n대신 후배가 좀 구해주면\n정말 고마울 것 같아...\n....정말로.\n부탁할게.",
+        "en": "[Pisruik]\nI cannot move because I cannot see,\nso I would be truly grateful\nif you could get them for me instead...\n....Truly.\nPlease.",
+        "pt": "[Pisruik]\nNão consigo me mexer porque não enxergo,\nentão eu ficaria realmente grato\nse meu calouro pudesse conseguir isso\nem meu lugar...\n....De verdade.\nPor favor.",
+        "es": "[Pisruik]\nNo puedo moverme porque no veo nada,\nasí que si pudieras hacerlo por mí,\nte lo agradecería muchísimo...\n....De verdad.\nPor favor."
     },
     "JtIuAw": {
-        "en": "...I owe you again.\nThank you.",
-        "pt": "... Te devo mais uma.\nObrigado.",
-        "es": "…Te debo una, otra vez.\nGracias."
+        "ko": "[피스리크]\n음...\n식인수의 꽃이\n20개 더 있어야...",
+        "en": "[Pisruik]\nHmm...\nI need 20 more\nManeater Blossom...",
+        "pt": "[Pisruik]\nHmm...\nPreciso de mais\n20 Flor de Planta Carnívora...",
+        "es": "[Pisruik]\nMmm...\nNecesitaría\n20 Flor carnívora\nmás..."
     },
     "J9IuAw": {
-        "en": "Now, if I just\nput this thing in here...\nThere you go!",
-        "pt": "Agora, é só eu colocar\nessa coisa aqui...\nE pronto!",
-        "es": "Ahora, si pongo\nesta cosa aquí…\n¡Ahí tienes!"
+        "ko": "== 시험관을 보며 ==\n == 생각에 잠겨 있다. ==",
+        "en": "== He is staring at a test tube, ==\n == lost in thought. ==",
+        "pt": "== Ele observa o tubo de ensaio ==\n == mergulhado em pensamentos. ==",
+        "es": "== Mira el tubo de ensayo ==\n == mientras se queda pensativo. =="
     },
     "KNIuAw": {
-        "en": "[Pisruik]\nI can't do it because I'm practically blind without my glasses.\nI'll really appreciate it\nif you help me with this.\n...I mean it.\nPlease.",
-        "pt": "[Pisruik]\nNão posso fazer isso porque sou praticamente cego sem meus óculos.\nFicarei muito grato\nse você me ajudar com isso.\n...estou falando sério.\nPor favor.",
-        "es": "[Pisruik]\nNo puedo hacerlo porque estoy prácticamente ciego sin mis lentes.\nTe estaré muy agradecido\nsi me ayudas con esto.\n…Lo digo en serio.\nPor favor."
+        "ko": "[피스리크]\n...생각같이 잘 안 되네.\n식인수의 꽃...\n하나만 더 구해줄 수 있겠어?\n부탁할게.",
+        "en": "[Pisruik]\n...This is not going as planned.\nManeater Blossom...\nCould you get me just one more?\nPlease.",
+        "pt": "[Pisruik]\n...Não está dando certo como imaginei.\nFlor de Planta Carnívora...\nPode conseguir só mais uma?\nPor favor.",
+        "es": "[Pisruik]\n...No está saliendo como esperaba.\nFlor carnívora...\n¿Podrías conseguirme solo una más?\nPor favor."
     },
     "KdIuAw": {
-        "en": "[Pisruik]\nMm...\nI need\none more\nManeater Blossom...",
-        "pt": "[Pisruik]\nHumm...\nEu preciso de\nmais uma\nFlor de Planta Carnívora...",
-        "es": "[Pisruik]\nMm…\nNecesito\nuna\nFlor carnívora más…"
+        "ko": "..또 폐를 끼친 기분인데.\n미안해.",
+        "en": "..I feel as if I am troubling you again.\nI am sorry.",
+        "pt": "..Sinto que estou dando trabalho de novo.\nDesculpe.",
+        "es": "..Siento que vuelvo a causarte molestias.\nLo siento."
     },
     "KtIuAw": {
-        "en": "== With his broken glasses in his hand, ==\n == he's squinting hard to see things. ==\n == Yes, ==\n == he definitely looks better ==\n == without the glasses on. ==",
-        "pt": "== Com seus óculos quebrados na mão, ==\n== ele aperta os olhos para enxergar. ==\n== Sim, ==\n== ele fica muito melhor ==\n== sem os óculos. ==",
-        "es": "(Con los lentes rotos en mano,\n entrecierra los ojos para ver.\n Sí,\n definitivamente es más atractivo\n sin los lentes)."
+        "ko": "자... 그럼 이제\n마지막으로 이것만 넣으면...\n엇차...",
+        "en": "Now... then,\nif I just add this last thing...\nHeave...",
+        "pt": "Bem... então agora,\nse eu colocar isto por último...\nOpa...",
+        "es": "Bien... ahora,\nsi añado esto por última vez...\n¡Hop!..."
     },
     "K9IuAw": {
-        "en": "Give him the ''thing.''",
-        "pt": "Entregar a 'coisa' a ele.",
-        "es": "Darle la cosa."
+        "ko": "[피스리크]\n난 앞이 안 보여서 꼼짝할 수 없으니\n대신 좀 구해다 주면\n정말 고마울 것 같아...\n....정말로.\n부탁할게.",
+        "en": "[Pisruik]\nI cannot move because I cannot see,\nso I would be truly grateful\nif you could get them for me instead...\n....Truly.\nPlease.",
+        "pt": "[Pisruik]\nNão consigo me mexer porque não enxergo,\nentão eu ficaria realmente grato\nse você pudesse conseguir isso\nem meu lugar...\n....De verdade.\nPor favor.",
+        "es": "[Pisruik]\nNo puedo moverme porque no veo nada,\nasí que si pudieras ir a conseguirlo,\nte lo agradecería muchísimo...\n....De verdad.\nPor favor."
     },
     "LNIuAw": {
-        "en": "Don't give it to him.",
-        "pt": "Não entregar.",
-        "es": "No dársela."
+        "ko": "[피스리크]\n음...\n식인수의 꽃이\n하나만 더 있으면\n될 것 같은데...",
+        "en": "[Pisruik]\nHmm...\nIt seems I only need\none more Maneater Blossom...",
+        "pt": "[Pisruik]\nHmm...\nAcho que só preciso de\nmais uma Flor de Planta Carnívora...",
+        "es": "[Pisruik]\nMmm...\nSi tuviera solo\nuna Flor carnívora\nmás,\ncreo que bastaría..."
     },
     "LdIuAw": {
-        "en": "== I gently put ==\n == the new glasses on his hand. ==",
-        "pt": "== Coloquei gentilmente ==\n== os novos óculos nas mãos dele. ==",
-        "es": "(Coloco suavemente\n los lentes nuevos en su mano)."
+        "ko": "== 그는 찌푸린 눈으로 ==\n == 깨진 안경을 쥐고 있다. ==\n == 아무리 뜯어봐도 ==\n == 안경이 없는 얼굴이 ==\n == 훨씬 나은 듯하다. ==",
+        "en": "== He is holding ==\n == his broken glasses with narrowed eyes. ==\n == No matter how you look at him, ==\n == his face without glasses ==\n == seems much better. ==",
+        "pt": "== Ele segura os óculos quebrados ==\n == com os olhos semicerrados. ==\n == Por mais que se olhe, ==\n == seu rosto sem óculos ==\n == parece muito melhor. ==",
+        "es": "== Sostiene las gafas rotas ==\n == mientras frunce los ojos. ==\n == Por mucho que se mire, ==\n == parece que se ve mucho mejor ==\n == sin gafas. =="
     },
     "LtIuAw": {
-        "en": "[Pisruik]\nErr?\nWho? ...Ah, {0}?\nThank you.\nLet's see...\nThe explosion didn't\nbreak the test tube.",
-        "pt": "[Pisruik]\nHm...?\nQuem...? Ah, {0}?\nObrigado.\nVejamos...\nA explosão não\nquebrou o tubo de ensaio.",
-        "es": "[Pisruik]\n¿Eh?\n¿Quién…? Ah, ¿{0}?\nGracias.\nVeamos…\nLa explosión no\nrompió el tubo de ensayo."
+        "ko": "'무언가'를 준다.",
+        "en": "Give him 'something'.",
+        "pt": "Dar 'algo'.",
+        "es": "Le das 'algo'."
     },
     "L9IuAw": {
-        "en": "[Pisruik]\nDang, I broke\nmy glasses for nothing.\nNow, let's check the results...\n...",
-        "pt": "[Pisruik]\nDroga, quebrei\nmeus óculos para nada.\nAgora, vejamos os resultados...\n...",
-        "es": "[Pisruik]\nRayos, rompí \nmis lentes para nada.\nAhora, veamos los resultados…\n…"
+        "ko": "주지 않는다.",
+        "en": "Do not give it.",
+        "pt": "Não dar.",
+        "es": "No le das nada."
     },
     "MNIuAw": {
-        "en": "[Pisruik]\nGood.\nTheoretically, this is a success.\nChanging the human body's property\nthrough chemical injection\nis controversial,\nregardless of its intention,",
-        "pt": "[Pisruik]\nBom.\nTeoricamente, foi um sucesso.\nAlterar as propriedades do corpo humano\npor meio de injeção química\né controverso, independentemente \nde sua intenção...",
-        "es": "[Pisruik]\nBien.\nEn teoría, es un éxito.\nCambiar las propiedades del cuerpo humano\nmediante una inyección química\nes controvertido,\nsin importar la intención,"
+        "ko": "== 그의 손에 살짝 ==\n == 안경을 쥐어 주었다. ==",
+        "en": "== You gently placed ==\n == the glasses in his hand. ==",
+        "pt": "== Você colocou discretamente ==\n == os óculos na mão dele. ==",
+        "es": "== Colocaste suavemente ==\n == las gafas en su mano. =="
     },
     "MdIuAw": {
-        "en": "[Pisruik]\nbut it's not like I'm the first one to do it.\nMages were.\nWhatever controversies this might cause, I hope they'll go away soon.\nOh, yes.\n{0},\nhow'd you like to give it a try?",
-        "pt": "[Pisruik]\nMas não é como se eu fosse o primeiro a fazer isso.\nForam os Magos.\nQuaisquer que sejam as controvérsias que isso possa causar,\nespero que elas desapareçam logo.\nAh, sim. {0},\no que você acha de tentar?",
-        "es": "[Pisruik]\npero no soy el primero en hacerlo.\nFueron los Magos.\nEspero que las controversias que esto pueda causar desaparezcan pronto.\nAh, sí.\n{0},\n¿te gustaría probar?"
+        "ko": "[피스리크]\n어?\n누구? ..아, {0}?\n고마워.\n어디보자...\n폭발은 했지만 시험관이\n깨진 건 아니구나.",
+        "en": "[Pisruik]\nHuh?\nWho? ..Ah, {0}?\nThank you.\nLet me see...\nThere was an explosion,\nbut the test tube\nis not broken.",
+        "pt": "[Pisruik]\nHã?\nQuem? ...Ah, {0}?\nObrigado.\nVamos ver...\nHouve uma explosão, mas o tubo de ensaio\nnão quebrou.",
+        "es": "[Pisruik]\n¿Eh?\n¿Quién? ..Ah, ¿{0}?\nGracias.\nVeamos...\nExplotó, pero el tubo de ensayo\nno se rompió."
     },
     "MtIuAw": {
-        "en": "[Pisruik]\nYou're not like me.\nInstead of being cooped up in a lab,\nyou constantly go out there and explore things.\nI believe this invention of mine\nwill come in handy one day.",
-        "pt": "[Pisruik]\nVocê não é como eu.\nEm vez de ficar preso em um laboratório,\nvocê sai constantemente e explora as coisas.\nAcredito que essa minha invenção\nserá útil um dia.",
-        "es": "[Pisruik]\nTú no eres como yo.\nEn lugar de encerrarte en un laboratorio,\nsales constantemente a explorar.\nCreo que mi invento\nserá útil algún día."
+        "ko": "[피스리크]\n하하... 괜히 놀라서\n안경이나 깨먹곤.\n그럼 결과를 볼까...\n...",
+        "en": "[Pisruik]\nHaha... I got startled for nothing\nand broke my glasses.\nThen shall we look at the result...\n...",
+        "pt": "[Pisruik]\nHaha... Fiquei assustado à toa\ne acabei quebrando os óculos.\nEntão vejamos o resultado...\n...",
+        "es": "[Pisruik]\nJa ja... qué susto para acabar\nrompiendo las gafas.\nVeamos el resultado...\n..."
     },
     "M9IuAw": {
-        "en": "Sure!",
-        "pt": "Claro!",
-        "es": "¡Claro!"
+        "ko": "[피스리크]\n...좋아.\n이론상으로는 성공한 것 같아.\n인간에게 약물투여로\n속성을 부여한다는 것...\n암만 의도가 좋아도\n논란이 있을지도 모르겠지만",
+        "en": "[Pisruik]\n...Good.\nIn theory, it seems to have succeeded.\nGranting a property to humans\nthrough drug administration...\nNo matter how good the intent is,\nthere may be controversy,",
+        "pt": "[Pisruik]\n...Ótimo.\nEm teoria, parece ter dado certo.\nConceder uma propriedade a humanos\npor administração de medicamento...\nPor melhores que sejam as intenções,\ntalvez haja controvérsia,",
+        "es": "[Pisruik]\n...Bien.\nEn teoría, parece un éxito.\nOtorgar atributos a los humanos\nmediante sustancias...\naunque la intención sea buena,\nquizá genere polémica."
     },
     "NNIuAw": {
-        "en": "No, thanks.",
-        "pt": "Não, obrigado.",
-        "es": "No, gracias."
+        "ko": "[피스리크]\n지금까지 그런 마법이\n없었던 것도 아니고 하니\n금방 잠잠해지지 않으려나.\n아... 그래.\n{0} 후배.\n이 약을 써 보겠어?",
+        "en": "[Pisruik]\nbut it is not as if\nsuch magic has never existed before,\nso perhaps it will quiet down quickly.\nAh... right.\n{0}, my junior.\nWould you try using this medicine?",
+        "pt": "[Pisruik]\nmas não é como se nunca\ntivesse existido magia assim,\nentão talvez logo se acalme.\nAh... isso mesmo.\n{0}, meu calouro.\nQuer experimentar este remédio?",
+        "es": "[Pisruik]\nPero tampoco es que\nnunca hayan existido\nmagias similares,\nasí que supongo\nque la controversia pasará pronto.\nAh... cierto.\nCadete {0}.\n¿Quieres probar esta medicina?"
     },
     "NdIuAw": {
-        "en": "[Pisruik]\nExcellent! Then, why don't you\nread my thesis first?\nI've already submitted it\nto academia.\nThis is just\na copy.",
-        "pt": "[Pisruik]\nExcelente! Então, por que você não\nlê minha tese primeiro?\nEu já a enviei\nà academia.\nEsta é apenas\numa cópia.",
-        "es": "[Pisruik]\n¡Excelente! Entonces, ¿por qué no\nlees mi tesis primero?\nYa la presenté \nal mundo académico.\nEsta es solo\nuna copia."
+        "ko": "[피스리크]\n후배는 나와는 달리\n연구실에 틀어박히지 않고\n밖으로 나아간 사람이니\n분명 이 약을 쓸 때가\n오게 될 거야.",
+        "en": "[Pisruik]\nUnlike me, you are someone\nwho does not shut yourself in a laboratory\nbut goes out into the world,\nso a time will surely come\nwhen you can use this medicine.",
+        "pt": "[Pisruik]\nAo contrário de mim,\nvocê não fica trancado no laboratório\ne sai pelo mundo,\nentão certamente chegará\no momento de usar este remédio.",
+        "es": "[Pisruik]\nA diferencia de mí,\ntú no te encierras\nen un laboratorio,\nsino que sales al mundo exterior.\nSeguro que llegará el día\nen que necesites usarla."
     },
     "NtIuAw": {
-        "en": "== He explained the elemental properties ==\n == and resistance that the human organs have, ==\n == and then told me ==\n == how to take the medicine. ==",
-        "pt": "== Ele explicou as propriedades elementais ==\n== e a resistência que os órgãos humanos têm, ==\n== e depois me disse ==\n== como tomar o medicamento. ==",
-        "es": "(Explicó las propiedades elementales\n y la resistencia que tienen los órganos humanos\n y luego me dijo\n cómo tomar la medicina)."
+        "ko": "아뇨...",
+        "en": "No...",
+        "pt": "Não...",
+        "es": "No..."
     },
     "N9IuAw": {
-        "en": "[Pisruik]\n...That should give you\na good idea as to how to use the medicine.\nI'm sure you also thought about\nhow to use it\nwhile gathering\nits ingredients. So you must have a general knowledge.",
-        "pt": "[Pisruik]\n...Isso deve lhe dar uma boa ideia\nde como usar o medicamento.\nSei que você também pensou\nem como usá-lo enquanto coletava\nseus ingredientes. Portanto,\ndeve ter um conhecimento geral.",
-        "es": "[Pisruik]\n…Eso debería darte\nuna buena idea de cómo usar la medicina.\nSeguro que también pensaste en\ncómo usarla\nmientras reunías\nlos ingredientes, así que debes tener conocimientos generales."
+        "ko": "[피스리크]\n그러면 이 논문을\n읽어 봐 주겠어?\n이론상 완성이 돼서\n논문은 이미 제출했고,\n이건 같이 제본한\n복사본이거든.",
+        "en": "[Pisruik]\nThen would you\nread this paper?\nIt is theoretically complete,\nso I have already submitted the paper,\nand this is a bound\ncopy of it.",
+        "pt": "[Pisruik]\nEntão você poderia\nler este artigo?\nEle foi concluído teoricamente,\ne o artigo já foi submetido.\nEsta é uma cópia\nencadernada junto.",
+        "es": "[Pisruik]\nEntonces,\n¿podrías leer este artículo?\nEn teoría ya está terminado\ny ya lo envié,\npero esto es una copia\nencuadernada."
     },
     "ONIuAw": {
-        "en": "I hope you don't mind\nhelping me again later.",
-        "pt": "Espero que você não se importe\nde me ajudar novamente no futuro.",
-        "es": "Espero que no te importe\nayudarme de nuevo más tarde."
+        "ko": "== 그는 속성과 인간 장기의 ==\n == 내성에 대한 이야기를 ==\n == 설명하며 약을 사용할 때의 ==\n == 주의점을 알려주었다 ==",
+        "en": "== He explained the relationship ==\n == between properties and the resistance ==\n == of human organs, and told you ==\n == the precautions for using the medicine. ==",
+        "pt": "== Ele explicou sobre propriedades ==\n == e a resistência dos órgãos humanos, ==\n == informando os cuidados ==\n == ao usar o remédio. ==",
+        "es": "== Te explicó sobre atributos ==\n == y la resistencia de los órganos ==\n == humanos, además de las ==\n == precauciones al usar la medicina. =="
     },
     "OdIuAw": {
-        "en": "...It was nice talking to someone after a long time.",
-        "pt": "... Foi bom conversar com alguém depois de muito tempo.",
-        "es": "…Fue lindo hablar con alguien después de tanto tiempo."
+        "ko": "[피스리크]\n...이 정도면 쓸 수\n있을 거라 생각해.\n이것저것 모아 오면서\n이걸 어떻게 쓸까... 하고\n생각해 봤을 테니, 아마\n이해할 수 있겠지.",
+        "en": "[Pisruik]\n...I think this should be\nenough for you to use it.\nWhile gathering all sorts of things,\nyou must have thought about\nhow this could be used... so\nyou can probably understand it.",
+        "pt": "[Pisruik]\n...Acho que, com isso,\nvocê conseguirá usá-lo.\nEnquanto juntava várias coisas,\ndeve ter pensado em como usar isso...\nentão provavelmente\nvai entender.",
+        "es": "[Pisruik]\n...Creo que con esto\nya podrás usarla.\nMientras reunías los materiales,\nseguro que pensaste\ncómo podrías utilizar esto...\nAsí que probablemente\nlo entenderás."
     },
     "OtIuAw": {
-        "en": "*Cough, Cough...*\nNow, I'd better move on to my next research subject...",
-        "pt": "*Coff-coff*...\nÉ melhor eu avançar para a próxima cobaia da pesquisa...",
-        "es": "*Cof, cof…*\nSerá mejor que pase a mi siguiente tema de investigación…"
+        "ko": "나중에 또 찾아왔을 때\n일이 있으면 부탁하지.",
+        "en": "If you come by again later\nand there is something to do, I will ask you.",
+        "pt": "Quando vier me procurar de novo,\nse houver algo a fazer, pedirei sua ajuda.",
+        "es": "Cuando vuelvas más adelante,\nsi tengo trabajo,\nte pediré ayuda."
     },
     "O9IuAw": {
-        "en": "[Pisruik]\n...I understand.\nBut let me know\nif you change your mind.",
-        "pt": "[Pisruik]\n...Entendo.\nFale comigo caso\nmude de ideia.",
-        "es": "[Pisruik]\n…Entiendo.\nPero avísame\nsi cambias de opinión."
+        "ko": "...이야기 상대가 생겨서 즐거웠어.",
+        "en": "...It was enjoyable to have someone to talk to.",
+        "pt": "...Foi divertido ter alguém para conversar.",
+        "es": "...Ha sido agradable tener alguien con quien hablar."
     },
     "PNIuAw": {
-        "en": "== His eyes ==\n == seen through the glasses ==\n == look more vulnerable than before. ==",
-        "pt": "== Os olhos dele, ==\n== vistos através dos óculos, ==\n== estavam muito vulneráveis. ==",
-        "es": "(Sus ojos,\n vistos a través de los lentes,\n parecen más vulnerables que antes."
+        "ko": "쿨럭.. 쿨럭\n슬슬 다음 연구를 시작해 볼까...",
+        "en": "Cough... cough.\nShall I slowly begin the next research...",
+        "pt": "Cof... cof.\nEstá na hora de começar a próxima pesquisa...",
+        "es": "Cof.. cof\n¿Será hora de empezar\nla siguiente investigación...?"
     },
     "PdIuAw": {
-        "en": "== I have nothing to give him. ==",
-        "pt": "== Não tenho nada para dar a ele. ==",
-        "es": "No tengo nada que darle)."
+        "ko": "[피스리크]\n....할 수 없지.\n다음에 생각이 있으면\n다시 찾아오도록 해.",
+        "en": "[Pisruik]\n....It cannot be helped.\nIf you are interested next time,\ncome find me again.",
+        "pt": "[Pisruik]\n....Não tem jeito.\nSe tiver interesse depois,\nvenha me procurar novamente.",
+        "es": "[Pisruik]\n....No se puede evitar.\nSi cambias de idea,\nvuelve otro día."
     },
     "PtIuAw": {
-        "en": "[{0}]\n...You look much handsomer this way...",
-        "pt": "[{0}]\n...Você fica muito mais bonito assim...",
-        "es": "[{0}]\n…Te ves mucho más guapo así…"
+        "ko": "== 안경 너머로 보이는 ==\n == 그의 눈빛은 조금 더 ==\n == 가냘퍼 보였다. ==",
+        "en": "== The look in his eyes ==\n == visible beyond the glasses ==\n == seemed a little more fragile. ==",
+        "pt": "== O olhar dele por trás dos óculos ==\n == parecia um pouco mais frágil. ==",
+        "es": "== A través de las gafas, ==\n == su mirada parecía ==\n == aún más frágil. =="
     },
     "P9IuAw": {
-        "en": "[Pisruik]\nMm?\nDid you say something?",
-        "pt": "[Pisruik]\nOi...?\nVocê disse alguma coisa?",
-        "es": "[Pisruik]\n¿Eh?\n¿Dijiste algo?"
+        "ko": "== 줄 만한 게 없다. ==",
+        "en": "== You have nothing to give. ==",
+        "pt": "== Não há nada que possa ser dado. ==",
+        "es": "== No hay nada que darle. =="
     },
     "QNIuAw": {
-        "en": "[{0}]\nAh... Ah hah hah.\nNothing.",
-        "pt": "[{0}]\nAh... Ahahah.\nNada, não.",
-        "es": "[{0}]\nAh… Ah, ja, ja.\nNada."
+        "ko": "[{0}]\n...이 쪽이 훨씬 미남인데...",
+        "en": "[{0}]\n...He is much more handsome this way...",
+        "pt": "[{0}]\n...Ele é muito mais bonito assim...",
+        "es": "[{0}]\n...Así es mucho más guapo..."
     },
     "QdIuAw": {
-        "en": "[Pisruik]\nTheoretically, this is a success.\nWant to learn how to use it now?",
-        "pt": "[Pisruik]\nTeoricamente, foi um sucesso.\nQuer aprender a usar agora?",
-        "es": "[Pisruik]\nEn teoría, es un éxito.\n¿Quieres aprender a usarla ahora?"
+        "ko": "[피스리크]\n응?\n뭐라고 했어?",
+        "en": "[Pisruik]\nHm?\nWhat did you say?",
+        "pt": "[Pisruik]\nHmm?\nO que você disse?",
+        "es": "[Pisruik]\n¿Eh?\n¿Qué dijiste?"
     },
     "QtIuAw": {
-        "en": "[Pisruik]\n...My potions.\nI guess they're not as useful as I thought, are they?",
-        "pt": "[Pisruik]\n... Minhas poções.\nAcho que elas não são tão úteis quanto eu pensava, né?",
-        "es": "[Pisruik]\n…Mis pociones.\nSupongo que no son tan útiles como pensaba, ¿verdad?"
+        "ko": "[{0}]\n아... 아하하...\n아무것도 아니에요!",
+        "en": "[{0}]\nAh... ahaha...\nIt was nothing!",
+        "pt": "[{0}]\nAh... ahaha...\nNada!",
+        "es": "[{0}]\nAh... ajaja...\n¡No fue nada!"
     },
     "Q9IuAw": {
-        "en": "[Pisruik]\nAre you enjoying using my potions?",
-        "pt": "[Pisruik]\nEstá gostando de usar minhas poções?",
-        "es": "[Pisruik]\n¿Disfrutas de usar mis pociones?"
+        "ko": "[피스리크]\n이론상으로는 성공한 것 같으니,\n일단 지금 사용법을 배워보겠어?",
+        "en": "[Pisruik]\nSince it seems to have succeeded in theory,\nwill you learn how to use it now?",
+        "pt": "[Pisruik]\nComo parece ter dado certo em teoria,\nquer aprender agora como usar?",
+        "es": "[Pisruik]\nComo parece haber sido\nun éxito en teoría,\n¿quieres aprender a usarla ahora?"
     },
     "RNIuAw": {
-        "en": "[Pisruik]\n...\nSo, it's true some people are selling their Guides.\nWell, you can carry as many of them as you want.\nJust don't expect me to autograph them.",
-        "pt": "[Pisruik]\n...\nPois então, tem gente vendendo Guias.\nVocê pode levar quantos guias quiser.\nSó não espere que eu os autografe.",
-        "es": "[Pisruik]\n…\nAsí que es cierto que algunas personas venden sus Guías.\nBueno, puedes llevarte todas las que quieras.\nPero no esperes que las autografíe."
+        "ko": "[피스리크]\n....그 포션,\n생각외로 도움이 안 되나 보네.",
+        "en": "[Pisruik]\n....That potion\ndoes not seem to be helping as much as expected.",
+        "pt": "[Pisruik]\n....Essa poção\nnão parece ajudar tanto quanto eu esperava.",
+        "es": "[Pisruik]\n....Parece que esa poción\nno ayuda tanto como esperaba."
     },
     "RdIuAw": {
-        "en": "[Pisruik]\n...?",
-        "pt": "[Pisruik]\n...?",
-        "es": "[Pisruik]\n¿…?"
+        "ko": "[피스리크]\n포션은 잘 쓰고 있어?",
+        "en": "[Pisruik]\nAre you making good use of the potion?",
+        "pt": "[Pisruik]\nEstá usando bem a poção?",
+        "es": "[Pisruik]\n¿Estás usando bien la poción?"
     },
     "RtIuAw": {
-        "en": "[Pisruik]\nWhy are you standing there?\nGo away!",
-        "pt": "[Pisruik]\nTá fazendo o que aí?\nChispa daqui!",
-        "es": "[Pisruik]\n¿Por qué sigues ahí de pie?\n¡Vete!"
+        "ko": "[피스리크]\n....\n뭐... 팔고 있기도 한다지만\n여러 권 들고 온다고 해서\n사인해 줄 수는 없어.",
+        "en": "[Pisruik]\n....\nWell... I know it is sold too,\nbut bringing several copies\ndoes not mean I can sign them for you.",
+        "pt": "[Pisruik]\n....\nBem... dizem que também está à venda,\nmas mesmo que traga vários volumes,\nnão posso autografá-los.",
+        "es": "[Pisruik]\n....\nBueno... aunque dicen que las venden,\npor mucho que traigas varios ejemplares,\nno voy a firmarlos."
     },
     "R9IuAw": {
+        "ko": "[피스리크]\n?",
+        "en": "[Pisruik]\n?",
+        "pt": "[Pisruik]\n?",
+        "es": "[Pisruik]\n?"
+    },
+    "SNIuAw": {
+        "ko": "[피스리크]\n거기 뭘 보고 서있어요!\n절루 안가?",
+        "en": "[Pisruik]\nWhat are you standing there staring at!\nGo away!",
+        "pt": "[Pisruik]\nO que está olhando aí parado?\nNão vai para lá?",
+        "es": "[Pisruik]\n¡¿Qué haces ahí parado mirando?!\n¡Lárgate de una vez!"
+    },
+    "SdIuAw": {
+        "ko": "이라헤",
         "en": "Irache",
         "pt": "Irache",
         "es": "Irache"
     },
-    "SNIuAw": {
-        "en": "[Irache]\n...\n... ...\nHuff, huff...\nFinally, I've made it.\nA cursed solution\nthat can melt anything and everything!",
-        "pt": "[Irache]\n...\n... ...\nArf, arf...\nFinalmente, consegui.\nUma solução amaldiçoada\nque pode derreter tudo e qualquer coisa!",
-        "es": "[Irache]\n…\n… …\nUff, uff…\nPor fin lo logré.\n¡Una solución maldita\nque puede derretir cualquier cosa!"
-    },
-    "SdIuAw": {
-        "en": "[Irache]\n...But erm, its flask isn't melting.\nHave I failed...?",
-        "pt": "[Irache]\n...Mas o frasco não está derretendo.\nSerá que eu falhei...?",
-        "es": "[Irache]\nPero, eh… el frasco no se está derritiendo.\n¿Fallé…?"
-    },
     "StIuAw": {
+        "ko": "[이라헤]\n....\n.....\n하아 하아\n드디어 만들었다,\n모든 걸 다 녹일 수 있는\n저주받은 액체...",
+        "en": "[Irache]\n....\n.....\nHah, hah.\nI finally made it,\nthe cursed liquid that can\ndissolve everything...",
+        "pt": "[Irache]\n....\n.....\nHaa, haa.\nFinalmente consegui fazer\no líquido amaldiçoado\ncapaz de derreter tudo...",
+        "es": "[Irache]\n....\n.....\nJaa... jaa...\nPor fin lo he creado,\nel líquido maldito\ncapaz de disolverlo todo..."
+    },
+    "S9IuAw": {
+        "ko": "[이라헤]\n....그런데 플라스크가 안 녹네.\n실패인가.",
+        "en": "[Irache]\n....But the flask is not dissolving.\nIs it a failure?",
+        "pt": "[Irache]\n....Mas o frasco não derrete.\nSerá que falhou?",
+        "es": "[Irache]\n....Pero el matraz no se derrite.\n¿Será un fracaso?"
+    },
+    "TNIuAw": {
+        "ko": "데가스",
         "en": "Degas",
         "pt": "Degas",
         "es": "Degas"
     },
-    "S9IuAw": {
-        "en": "[Degas]\nThis jerk next to me can't seem to\nstop shaking his leg or creating junk.\nThat guy with geeky glasses on\ncoughs all day and every day.\nThey're killing me.",
-        "pt": "[Degas]\nEsse idiota ao meu lado parece não conseguir\nparar de sacudir a perna ou de criar lixo.\nAquele cara com óculos de nerd\ntosse o dia todo sem parar.\nNão aguento mais.",
-        "es": "[Degas]\nParece que este idiota no puede\ndeja de mover la pierna o de crear basura.\nEse tipo con lentes de friki\ntose todo el día, todos los días.\nMe están matando."
-    },
-    "TNIuAw": {
-        "en": "[Degas]\nI swear, the moment I get some money,\nI'm out of here!\nUgh!",
-        "pt": "[Degas]\nJuro que, no momento em que eu\nconseguir algum dinheiro, vou sair daqui!\nQue saco!",
-        "es": "[Degas]\nJuro que, en cuanto consiga algo de dinero,\n¡me largo de aquí!\n¡Uf!"
-    },
     "TdIuAw": {
-        "en": "Book Piles",
-        "pt": "Pilhas de Livros",
-        "es": "Pilas de libros"
+        "ko": "[데가스]\n이 옆에 다리 떠는 놈은\n맨날 이상한 것만 만들고 있고\n뱅뱅이 안경 낀 놈은\n맨날 기침이나 해대고\n정말 죽겠어요.",
+        "en": "[Degas]\nThe leg-shaking guy next to me\nkeeps making strange things every day,\nand the guy with the swirly glasses\nkeeps coughing all day.\nIt is killing me.",
+        "pt": "[Degas]\nO sujeito tremendo a perna aqui do lado\nsó faz coisas estranhas o tempo todo,\ne o sujeito de óculos espiralados\nsó fica tossindo o tempo todo.\nEstá me matando.",
+        "es": "[Degas]\nEl tipo tembloroso de al lado\nsiempre está fabricando cosas raras,\ny el de las gafas redondas\nno deja de toser...\nEn serio, esto me mata."
     },
     "TtIuAw": {
-        "en": "== Documents are piled up ==\n== and scattered everywhere. ==\n== The desk owner doesn't seem to ==\n== have a problem finding what he needs among them. ==",
-        "pt": "== Os documentos estão empilhados ==\n== e espalhados por toda parte. ==\n== O dono da mesa não parece ==\n== ter problemas para encontrar o que precisa entre eles. ==",
-        "es": "(Hay documentos amontonados\ny esparcidos por todas partes.\nEl dueño del escritorio no parece\ntener problemas para encontrar lo que necesita)."
+        "ko": "[데가스]\n정말로 돈만 있으면\n내가 여기 뜬다, 떠.\n아우 진짜.",
+        "en": "[Degas]\nIf I really had money,\nI would leave this place, I would.\nUgh, seriously.",
+        "pt": "[Degas]\nSe eu tivesse dinheiro mesmo,\neu sairia daqui, sairia.\nAh, sério.",
+        "es": "[Degas]\nDe verdad, si tuviera dinero,\nme largaría de aquí.\nEn serio."
+    },
+    "T9IuAw": {
+        "ko": "책더미",
+        "en": "Pile of Books",
+        "pt": "Pilha de livros",
+        "es": "Montón de libros"
+    },
+    "UNIuAw": {
+        "ko": "== 온갖 서류뭉치가 ==\n== 뒤죽박죽으로 흩어져 있다. ==\n== 책상의 주인은 전혀 문제없이 ==\n== 필요한 것을 찾아내고 있다. ==",
+        "en": "== All kinds of bundles of documents ==\n== are scattered about in disorder. ==\n== The owner of the desk is finding ==\n== what they need without any problem. ==",
+        "pt": "== Todos os tipos de maços de documentos ==\n== estão espalhados em completa desordem. ==\n== O dono da mesa encontra o que precisa ==\n== sem nenhum problema. ==",
+        "es": "== Todo tipo de documentos ==\n== están esparcidos caóticamente. ==\n== El dueño del escritorio encuentra ==\n== lo que necesita sin problema alguno. =="
     }
 }

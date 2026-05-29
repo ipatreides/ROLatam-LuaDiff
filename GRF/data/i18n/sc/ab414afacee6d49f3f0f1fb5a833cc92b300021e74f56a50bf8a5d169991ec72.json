@@ -1,0 +1,2186 @@
+{
+    "AFD4DA": {
+        "ko": "축제위원장 쇼콜라",
+        "en": "Sweets Festival Organizer",
+        "pt": "Organizadora do Festival Chocomania",
+        "es": "Organizadora del Festival de los Dulces"
+    },
+    "AVD4DA": {
+        "ko": "<스윗츠 축제>",
+        "en": "<Sweets Festival>",
+        "pt": "<Chocomania>",
+        "es": "<Festival de los Dulces>"
+    },
+    "AlD4DA": {
+        "ko": "- 소지하고 계신 아이템이 많아 퀘스트를 진행할 수 없습니다. -",
+        "en": "- You cannot proceed with the quest because you have too many items in your inventory. -",
+        "pt": "- Você não pode continuar a missão, porque tem muitos itens no seu inventário. -",
+        "es": "- No puedes continuar la misión porque tienes demasiados objetos en tu inventario. -"
+    },
+    "A1D4DA": {
+        "ko": "[쇼콜라]\n안녕하세요~~~ 모험가님!!!\n마침 축제 기간에 맞춰서 이 곳을 찾아오셨군요~\n지금 당장 모험가님께 부탁할 것이 있지만~!!",
+        "en": "[Chocola]\nHello, Adventurer!!!\nYou came just in time for the festival.\nI have a favor to ask you right now, but...",
+        "pt": "[Chocolai]\nOlá, Viajante!!!\nVocê chegou bem na época do festival.\nTenho um favor pra te pedir agora mesmo, mas...",
+        "es": "[Chocolai]\n¡¡¡Holaaa, Trotamundos!!!\nJusto llegaste a tiempo para el festival.\nTengo un favor que pedirte ahora mismo, pero..."
+    },
+    "BFD4DA": {
+        "ko": "[쇼콜라]\n음... 음... 뭔가 살짝 아쉬워 보이는군요.\n좀 더 성장하셔서 스윗츠 축제 위원회로 활동하지 않으시겠어요~~?",
+        "en": "[Chocola]\nHm... Hm... You look slightly disappointed.\nHow about you grow a bit more and join the Sweets Festival Committee?",
+        "pt": "[Chocolai]\nHmm... É... Sua expressão parece decepcionada.\nQue tal você crescer um pouco mais e se juntar ao Comitê do Chocomania?",
+        "es": "[Chocolai]\nMmm... mmm... Tu cara parece decepcionada.\n¿Qué tal si creces un poco más y te unes al Comité del Festival de los Dulces?"
+    },
+    "BVD4DA": {
+        "ko": "^4D4DFF레벨 30 이상 수행 가능한 이벤트 퀘스트가 있습니다.^000000",
+        "en": "^4D4DFFThere is an event quest available from Level 30.^000000",
+        "pt": "^4D4DFFHá uma missão de evento disponível a partir do Nível 30.^000000",
+        "es": "^4D4DFFHay una misión de evento disponible a partir del Nivel 30.^000000"
+    },
+    "BlD4DA": {
+        "ko": "[쇼콜라]\n모험가님~!!!\n모험가님, 모험가님, 모험가님~~!!\n아아.. 믿음직해 보이는 모험가님!!",
+        "en": "[Chocola]\nAdventurer!!!\nAdventurer, Adventurer, Adventurer!\nOh... What a reliable-looking Adventurer!",
+        "pt": "[Chocolai]\nViajante!!!\nViajante, viajante, viajante!\nAh... Que viajante de aparência confiável",
+        "es": "[Chocolai]\n¡¡¡Trotamundos!!!\n¡¡Trotamundos, trotamundos, trotamundos!\n¡¡Ah... Qué trotamundos con pinta de buena gente!"
+    },
+    "B1D4DA": {
+        "ko": "[쇼콜라]\n모험가님의 도움이 절실하게 필요하답니다...\n잠깐 시간이 되신다면 저의 이야기를 좀 들어주시겠어요??",
+        "en": "[Chocola]\nI desperately need your help...\nIf you have a moment, would you listen to me?",
+        "pt": "[Chocolai]\nPreciso desesperadamente da sua ajuda...\nSe você tiver tempo, poderia me ouvir?",
+        "es": "[Chocolai]\nNecesito tu ayuda desesperadamente...\nSi tienes tiempo, ¿podrías escucharme??"
+    },
+    "CFD4DA": {
+        "ko": "무슨 일이지?",
+        "en": "What's the matter?",
+        "pt": "O que foi?",
+        "es": "¿Qué pasa?"
+    },
+    "CVD4DA": {
+        "ko": "관심 없어",
+        "en": "Not interested.",
+        "pt": "Não tenho interesse.",
+        "es": "No me interesa."
+    },
+    "ClD4DA": {
+        "ko": "[쇼콜라]\n아.. 다행이다!\n모험가님이라면 매년 이맘 때 열리는 스윗츠 축제를 아실 거에요.\n사랑하는 사람들을 위해 달콤한 스윗츠를 주고 받는 축제 말이에요!",
+        "en": "[Chocola]\nOh, what a relief!\nAs you're an Adventurer, you must know about the Sweets Festival held around this time every year.\nIt's a festival for us to exchange sweet treats with our loved ones!",
+        "pt": "[Chocolai]\nAh, que alívio!\nJá que você é viajante, deve conhecer o Festival Chocomania que acontece por essa época todos os anos.\nÉ um festival para trocarmos doces com os nossos entes queridos!",
+        "es": "[Chocolai]\n¡Ah, qué alivio!\nCómo eres trotamundos, seguro que conoces el Festival de los Dulces que se celebra cada año por esas fechas.\n¡És un festival para intercambiarmos dulces con nuestros queridos amigos!"
+    },
+    "C1D4DA": {
+        "ko": "[쇼콜라]\n그 축제의 위원장을 맡고 있는 ^4D4DFF쇼콜라^000000라고 합니다!",
+        "en": "[Chocola]\nI'm ^4D4DFFChocola^000000, the President of this festival!",
+        "pt": "[Chocolai]\nSou ^4D4DFFChocolai^000000, a Presidente desse festival!",
+        "es": "[Chocolai]\n¡Soy ^4D4DFFChocolai^000000, la Presidente de ese festival!"
+    },
+    "DFD4DA": {
+        "ko": "[쇼콜라]\n스윗츠 메뉴를 만들기 위해 필수적으로 사용되는 귀한 재료가 있는데요.\n바로바로 그것은~~ ^4D4DFF카카오콩^000000입니다.\n정말 골치 아프게도 그 깊은 맛을 노리고 달려드는 무리들이 작년에도 있었어요.",
+        "en": "[Chocola]\nThere's a precious ingredient essential for creating sweet menu items, and it's called ^4D4DFFCacao Bean^000000.\nAnnoyingly, there were groups last year too that came after us to take advantage of that deep flavor.",
+        "pt": "[Chocolai]\nHá um ingrediente precioso e essencial para criar os itens do menu de doces e ele se chama ^4D4DFFGrão de Cacau^000000.\nO chato foi que alguns grupos no ano passado também vieram atrás de nós para se aproveitarem desse sabor intenso.",
+        "es": "[Chocolai]\nHay un ingrediente precioso y esencial para crear los ítens del menú de dulces y se llama ^4D4DFFGrano de Cacao^000000.\nLo malo es que el año pasado algunos grupos vinieron tras de nosotros para aprovecharse de ese sabor intenso."
+    },
+    "DVD4DA": {
+        "ko": "그 무리들의 정체가 뭐야?",
+        "en": "What groups are those?",
+        "pt": "Que grupos são esses?",
+        "es": "¿Qué grupos son?"
+    },
+    "DlD4DA": {
+        "ko": "[쇼콜라]\n^4D4DFF스윗츠 드롭프스^000000라는 아주 골칫덩어리들이에요!!\n스윗츠 축제 때마다 나타나서 카카오콩을 도둑질하기 때문에 그렇게 이름이 붙여지게 되었답니다...",
+        "en": "[Chocola]\nThey're a real nuisance called ^4D4DFFSweet Drops^000000!!\nThey appear every Sweets Festival and steal Cacao Beans, hence the name...",
+        "pt": "[Chocolai]\nEles são um grande estorvo chamado ^4D4DFFQuindings^000000!\nEles aparecem em todos os Festivais Chocomania e roubam grãos de cacau, daí o nome adocicado...",
+        "es": "[Chocolai]\n¡¡Son una verdadera plaga llamada ^4D4DFFPoriflanes^000000!\nAparecen cada Festival de los Dulces y roban Granos de Cacao, por eso el nombre..."
+    },
+    "D1D4DA": {
+        "ko": "[쇼콜라]\n매번 대비를 잘 해왔다고 생각했는데 늘 여지없이 당하고 있답니다.\n그래서 이번엔 그냥 곡물 창고를 활짝 열어놓았어요!!",
+        "en": "[Chocola]\nI thought I prepared well each time, but I always end up losing to them.\nSo this time, I've left the grain warehouse wide open!",
+        "pt": "[Chocolai]\nToda vez pensei que tinha me preparado bem, mas sempre acabo perdendo pra eles.\nEntão dessa vez, deixei o armazém de grãos escancarado!",
+        "es": "[Chocolai]\nPensaba que me preparaba bien cada vez, pero siempre termino perdiendo contra ellos.\n¡¡Así que esta vez, he dejado el almacén de granos bien abierto!!"
+    },
+    "EFD4DA": {
+        "ko": "[쇼콜라]\n얼마든지 가져가라지요!! 다시 되찾으면 되니까!\n그런데 누가 되찾아주지요?",
+        "en": "[Chocola]\nTake as much as you want!! We'll just take it back!\nBut who will take it back?",
+        "pt": "[Chocolai]\nLevem o quanto quiserem!! Depois nós o recuperamos!\nMas quem o recuperará?",
+        "es": "[Chocolai]\n¡¡Llevaos todo lo que queráis!! ¡Ya lo recuperaremos!\n¿Pero quién lo recuperará?"
+    },
+    "EVD4DA": {
+        "ko": "[쇼콜라]\n아아... 바로 이 앞에 계시는군요!! 바쁘시겠지만 제 부탁을 들어주세요.\n도와주세요, 모험가님!!!\n이대로라면 축제를 정상적으로 진행할 수가 없어요.",
+        "en": "[Chocola]\nAh... Here they are right in front of me!! I know you're busy, but please hear my request.\nHelp me, Adventurer!!!\nAt this rate, the festival can't proceed normally.",
+        "pt": "[Chocolai]\nAh... eles estão bem aqui na minha frente!! Sei que está ocupado(a), mas por favor atenda ao meu pedido.\nAjude-me, Viajante!!!\nA este passo, o festival não pode prosseguir normalmente.",
+        "es": "[Chocolai]\nAh... ¡¡Están justo delante de mí!! Sé que estás ocupado(a), pero por favor atiende mi petición.\n¡¡Ayúdame, Trotamundos!!!\nA este paso, el festival no puede continuar con normalidad."
+    },
+    "ElD4DA": {
+        "ko": "[쇼콜라]\n그러니 그 못된 녀석들을 혼내주실 수 있나요?\n저는 너무 연약한 소녀라서 그 녀석들을 응징할 힘이 없답니다...",
+        "en": "[Chocola]\nSo, can you punish those naughty fellows?\nI'm just a fragile girl, I don't have the strength to discipline them...",
+        "pt": "[Chocolai]\nEntão, você pode punir esses sujeitos safados?\nSou apenas uma garota frágil, não tenho forças para os disciplinar...",
+        "es": "[Chocolai]\nEntonces, ¿puedes castigar a esos tipos traviesos?\nSolo soy una chica frágil, no tengo fuerzas para disciplinarlos..."
+    },
+    "E1D4DA": {
+        "ko": "그래, 알았어! 내가 뭘 하면 되는거지?",
+        "en": "Alright, I got it! What do I need to do?",
+        "pt": "Certo, entendi! O que eu preciso fazer?",
+        "es": "¡Está bien, lo tengo! ¿Qué necesito hacer?"
+    },
+    "FFD4DA": {
+        "ko": "거절한다.",
+        "en": "I refuse.",
+        "pt": "Eu recuso.",
+        "es": "Me niego."
+    },
+    "FVD4DA": {
+        "ko": "[쇼콜라]\n아~~ 역시!!\n모험가님이라면 제 부탁을 들어주실 것 같았어요.\n그 얄밉고 못된 ^4D4DFF스윗츠 드롭프스^000000들을 찾아서 10마리 정도만 혼쭐을 내주시겠어요?",
+        "en": "[Chocola]\nAh~~ I knew it!!\nI had a feeling you, Adventurer, would accept my request.\nCould you find those annoying and wicked ^4D4DFFSweet Drops^000000 and teach about 10 of them a lesson?",
+        "pt": "[Chocolai]\nAh,  Sabia!\nEu tinha a sensação de que você, Viajante, aceitaria o meu pedido.\nVocê poderia encontrar esses ^4D4DFFQuindings^000000 irritantes e perversos e ensinar uma lição em pelo menos 10 deles?",
+        "es": "[Chocolai]\n¡¡Ah~~ Lo sabía!!\nTenía la corazonada de que tú, Trotamundos, aceptarías mi petición.\n¿Podrías encontrar a esos molestos y malvados ^4D4DFFPoriflanes^000000 y darles una lección a unos 10 de ellos?"
+    },
+    "FlD4DA": {
+        "ko": "[쇼콜라]\n축제 위원들의 제보에 따르면 그것들은 사방으로 뿔뿔이 흩어져서 각 지역마다 발견되고 있다고 해요!\n감사해요~~ 기다리고 있겠습니다앗!!",
+        "en": "[Chocola]\nAccording to reports from festival staff, they are scattered in all directions and can be found in every region!\nThank you~~ I'll be waiting!!",
+        "pt": "[Chocolai]\nDe acordo com relatos da equipe do festival, eles estão espalhados em todas as direções e podem ser encontrados em todas as regiões!\nMuito obrigada~~ Estarei esperando!!",
+        "es": "[Chocolai]\n¡Según informes del personal del festival, están esparcidos por todas partes y se les puede encontrar en cada región!\n¡¡Muchas gracias~~ Estaré esperando!!"
+    },
+    "F1D4DA": {
+        "ko": "[쇼콜라]\n아니... 진짜요?\n제가 이렇게 부탁하는데, 으...",
+        "en": "[Chocola]\nNo... really?\nI'm asking you this nicely, ugh...",
+        "pt": "[Chocolai]\nNão... a sério?\nEstou a pedir-lhe tão educadamente, ugh...",
+        "es": "[Chocolai]\n¿No... en serio?\nTe lo estoy pidiendo amablemente, ugh..."
+    },
+    "GFD4DA": {
+        "ko": "[쇼콜라]\n아...! 아직 마음의 준비가 되지 않으셨나보다!\n준비가 되면 다시 말씀 주세요!",
+        "en": "[Chocola]\nAh...! You must not be ready yet!\nPlease talk to me again when you are ready!",
+        "pt": "[Chocolai]\nAh...! Você não deve estar preparado(a) ainda!\nPor favor, fale comigo novamente quando estiver preparado(a)!",
+        "es": "[Chocolai]\n¡Ah...! ¡Seguro que aún no estás listo(a)!\n¡Por favor, vuelve a hablarme cuando estés preparado(a)!"
+    },
+    "GVD4DA": {
+        "ko": "[쇼콜라]\n네....?\n제가 이렇게 절실한데요..?",
+        "en": "[Chocola]\nYes....?\nI'm in such desperate need..?",
+        "pt": "[Chocolai]\nSim....?\nÉ que preciso tanto disso..?",
+        "es": "[Chocolai]\n¿¿Sí....?\nEs que lo necesito tantísimo..?"
+    },
+    "GlD4DA": {
+        "ko": "[쇼콜라]\n^4D4DFF스윗츠 드롭프스^000000들은 아직 멀리 도망가지 못했어요!\n주변에서 쉽게 발견할 수 있을 것이니 어서 그 녀석들에게 매콤한 맛을 보여주세요!!",
+        "en": "[Chocola]\nThe ^4D4DFFSweet Drops^000000 haven't escaped far yet!\nYou can find them easily nearby, so go show them some spicy punishment!!",
+        "pt": "[Chocolai]\nOs ^4D4DFFQuindings^000000 ainda não fugiram para longe!\nPode encontrá-los facilmente nas proximidades, então vá mostrar-lhes um castigo bem apimentado!!",
+        "es": "[Chocolai]\n¡¡Los ^4D4DFFPoriflanes^000000 no han huido lejos todavía!\nPuedes encontrarlos fácilmente cerca, así que ¡¡ve y dales un buen castigo picante!!"
+    },
+    "G1D4DA": {
+        "ko": "[쇼콜라]\n어... 모험가님의 의기양양한 표정을 보아하니..\n그 녀석들을 혼쭐내고 오신 모양이로군요!",
+        "en": "[Chocola]\nUh... Judging by your triumphant expression, Adventurer..\nIt seems you've taught those fellows a lesson!",
+        "pt": "[Chocolai]\nHum... A julgar pela sua expressão triunfante, Viajante..\nParece que você já deu uma lição naqueles sujeitos!",
+        "es": "[Chocolai]\nEh... Por tu expresión triunfante, Trotamundos..\n¡Parece que ya les diste una lección a esos tipos!"
+    },
+    "HFD4DA": {
+        "ko": "[쇼콜라]\n킁킁... 맞아요. 이건 그 녀석들의 냄새야.\n저는 냄새로 알 수 있답니다.",
+        "en": "[Chocola]\n*Sniff sniff*... That's right. That's their scent.\nI can tell by the smell.",
+        "pt": "[Chocolai]\n*Sniff sniff*... É isso mesmo. Esse é o cheiro deles.\nConsigo reconhecer pelo cheiro.",
+        "es": "[Chocolai]\n*Sniff sniff*... Así es. Ese es su olor.\nPuedo reconocerlo por el olfato."
+    },
+    "HVD4DA": {
+        "ko": "[쇼콜라]\n모험가님에게 ^4D4DFF스윗츠 드롭프스^000000 10마리의 잔해가 느껴져요.\n정말 감사합니다. 속이 너무 시원하네요~~",
+        "en": "[Chocola]\nI can sense the remains of 10 ^4D4DFFSweet Drops^000000 on you, Adventurer.\nThank you so much. This is so satisfying~~",
+        "pt": "[Chocolai]\nConsigo sentir os restos de 10 ^4D4DFFQuindings^000000 em você, Viajante.\nMuito obrigada. É muito satisfatório~~",
+        "es": "[Chocolai]\nPuedo sentir los restos de 10 ^4D4DFFPoriflanes^000000 en ti, Trotamundos.\nMuchísimas gracias. ¡¡Es muy satisfactorio~~"
+    },
+    "HlD4DA": {
+        "ko": "[쇼콜라]\n이건 스윗츠 축제 상품이에요!\n저의 작은 성의니까 받아주세요.\n^4D4DFF스윗츠 코인^000000도 같이 드렸는데요~\n추후에 스윗츠 상품으로 교환하는 데에 사용되니 우선 보관하고 계세요!",
+        "en": "[Chocola]\nThis is a Sweets Festival product!\nPlease accept it as a small token of my appreciation.\nI've also given you some ^4D4DFFSweet Coin^000000~\nThey'll be used later to exchange for Sweets merchandise, so keep them safe for now!",
+        "pt": "[Chocolai]\nIsto é um produto do Chocomania!\nPor favor, aceite-o como um pequeno gesto de minha gratidão.\nTambém lhe dei algumas ^4D4DFFChocoedas^000000~\nElas serão usadas mais tarde para trocar por mercadorias dos Doces, por isso guarde-as por enquanto!",
+        "es": "[Chocolai]\n¡Esto es un producto del Festival de los Dulces!\nAcepta esto como un pequeño detalle de mi agradecimiento.\n¡También te he dado unas ^4D4DFFChocomoneda^000000~\nMás tarde se usarán para intercambiar por ítens de dulces, así que ¡guárdalas por ahora!"
+    },
+    "H1D4DA": {
+        "ko": "[쇼콜라]\n아! ^4D4DFF스윗츠 코인^000000은 ^4D4DFF30000개^000000 이상 보관이 불가능하니 주의 부탁드립니다!",
+        "en": "[Chocola]\nAh! Please note that you cannot hold more than ^4D4DFF30,000^000000 ^4D4DFFSweet Coin^000000!",
+        "pt": "[Chocolai]\nAh! Note que você não pode carregar mais de ^4D4DFF30000^000000 ^4D4DFFChocoedas^000000!",
+        "es": "[Chocolai]\n¡Ah! ¡Ten en cuenta que no puedes tener más de ^4D4DFF30,000^000000 ^4D4DFFChocomoneda^000000!"
+    },
+    "IFD4DA": {
+        "ko": "[쇼콜라]\n아, 그런데 모험가님!\n^4D4DFF스윗츠 드롭프스^000000들로부터 전리품 같은 거 없었나요?\n^4D4DFF도둑맞은 카카오콩^000000 말이에요!!",
+        "en": "[Chocola]\nAh, by the way, Adventurer!\nDid you happen to get any loot from the ^4D4DFFSweet Drops^000000?\nI mean ^4D4DFFStolen Cacao Beans^000000!!",
+        "pt": "[Chocolai]\nAh, já agora, Viajante!\nVocê por acaso conseguiu algum saque dos ^4D4DFFQuindings^000000?\nQuero dizer, ^4D4DFFGrãos de Cacau Roubados^000000!!",
+        "es": "[Chocolai]\n¡Ah, por cierto, Trotamundos!\n¿Conseguiste algún botín de los ^4D4DFFPoriflanes^000000?\n¡¡Me refiero a ^4D4DFFGranos de Cacao Robados^000000!!"
+    },
+    "IVD4DA": {
+        "ko": "응? 그랬던 것 같기도 하고..",
+        "en": "Hmm? I think I might have...",
+        "pt": "Hum? Acho que sim...",
+        "es": "¿Hmm? Creo que tal vez..."
+    },
+    "IlD4DA": {
+        "ko": "없었어.",
+        "en": "No, I didn't.",
+        "pt": "Não, não consegui.",
+        "es": "No, no conseguí."
+    },
+    "I1D4DA": {
+        "ko": "[쇼콜라]\n아 맞아요...\n제가 너무 흥분한 나머지 가장 중요한 것을 잊고 있었네요.\n^4D4DFF도둑맞은 카카오콩^000000을 되찾아 와야 해요.",
+        "en": "[Chocola]\nAh, that's right...\nI got so excited that I forgot the most important thing.\nI need you to retrieve the ^4D4DFFStolen Cacao Beans^000000.",
+        "pt": "[Chocolai]\nAh, é verdade...\nFiquei tão animada que me esqueci da parte mais importante.\nPreciso que recupere os ^4D4DFFGrãos de Cacau Roubados^000000.",
+        "es": "[Chocolai]\nAh, eso es...\nMe emocioné tanto que olvidé lo más importante.\nNecesito que recuperes los ^4D4DFFGranos de Cacao Robados^000000."
+    },
+    "JFD4DA": {
+        "ko": "[쇼콜라]\n^4D4DFF스윗츠 드롭프스^000000들이 훔쳐간 것들이요!!\n그 녀석들로부터 ^4D4DFF도둑맞은 카카오콩^000000을 되찾아 주세요.\n^4D4DFF20^000000개만 부탁해요!!",
+        "en": "[Chocola]\nThe things the ^4D4DFFSweet Drops^000000 stole!!\nPlease retrieve the ^4D4DFFStolen Cacao Beans^000000 from those fellows.\nJust ^4D4DFF20^000000 of them, please!!",
+        "pt": "[Chocolai]\nAs coisas que os ^4D4DFFQuindings^000000 roubaram!!\nPor favor, recupere os ^4D4DFFGrãos de Cacau Roubados^000000 desses indivíduos.\nApenas ^4D4DFF20^000000 deles, por favor!!",
+        "es": "[Chocolai]\n¡¡Las cosas que robaron los ^4D4DFFPoriflanes^000000!!\nPor favor, recupera los ^4D4DFFGranos de Cacao Robados^000000 de esos tipos.\n¡¡Solo ^4D4DFF20^000000, por favor!!"
+    },
+    "JVD4DA": {
+        "ko": "응, 맡겨줘!",
+        "en": "Sure, leave it to me!",
+        "pt": "Claro, deixa comigo!",
+        "es": "¡Claro, déjamelo a mí!"
+    },
+    "JlD4DA": {
+        "ko": "미안, 내가 바빠서.",
+        "en": "Sorry, I'm busy.",
+        "pt": "Desculpa, estou ocupado(a).",
+        "es": "Lo siento, estoy ocupado(a)."
+    },
+    "J1D4DA": {
+        "ko": "[쇼콜라]\n역시~~ 믿음직한 모험가님이시네요~\n모험가님 덕분에 이번 축제도 무사히 치를 수 있을 것 같네요.\n조심히 다녀오세요!",
+        "en": "[Chocola]\nAs expected! You're such a reliable Adventurer!\nThanks to you, I think this year's festival will go smoothly.\nBe careful and come back!",
+        "pt": "[Chocolai]\nComo esperado! Você é um(a) Viajante tão confiável\nGraças a você, acho que o festival deste ano correrá bem.\nTome cuidado e volte logo!",
+        "es": "[Chocolai]\n¡Como esperaba! ¡Eres un(a) Trotamundos de lo más fiable!\nGracias a ti, creo que el festival de este año irá sobre ruedas.\n¡Ten cuidado y vuelve!"
+    },
+    "KFD4DA": {
+        "ko": "[쇼콜라]\n으... 이제부터가 중요한데...\n상황 되실 때 다시 저를 찾아와주세요.\n감사합니다!!",
+        "en": "[Chocola]\nUgh... Now comes the important part...\nPlease come back to me when you have the chance.\nThank you!!",
+        "pt": "[Chocolai]\nUgh... Agora vem a parte importante...\nPor favor, volte a falar comigo quando tiver oportunidade.\nObrigada!!",
+        "es": "[Chocolai]\nUgh... Ahora viene la parte importante...\nPor favor, vuelve a mí cuando tengas oportunidad.\n¡¡Gracias!!"
+    },
+    "KVD4DA": {
+        "ko": "[쇼콜라]\n아, 모험가님!\n다시 찾아와주실 거라고 믿고 있었답니다.",
+        "en": "[Chocola]\nAh, Adventurer!\nI believed you would come back.",
+        "pt": "[Chocolai]\nAh, Viajante!\nAcreditei que você voltaria.",
+        "es": "[Chocolai]\n¡Ah, Trotamundos!\nCreía que volverías."
+    },
+    "KlD4DA": {
+        "ko": "[쇼콜라]\n^4D4DFF도둑맞은 카카오콩^000000 20개만 그 녀석들로부터 되찾아주세요.\n그 녀석들이 누구냐고요?\n^4D4DFF스윗츠 드롭프스^000000 입니다. 어딜 가든 쉽게 찾으실 수 있을거에요.\n제 부탁, 들어주실거죠??",
+        "en": "[Chocola]\nPlease retrieve 20 ^4D4DFFStolen Cacao Beans^000000 from those fellows.\nWho are those fellows, you ask?\nThey're ^4D4DFFSweet Drops^000000. You can find them easily anywhere you go.\nYou will accept my request, right??",
+        "pt": "[Chocolai]\nPor favor, recupere 20 ^4D4DFFGrãos de Cacau Roubados^000000 desses indivíduos.\nQuem são esses indivíduos, pergunta?\nEles são os ^4D4DFFQuindings^000000. Pode encontrá-los facilmente onde quer que vá.\nVocê aceitará o meu pedido, certo??",
+        "es": "[Chocolai]\nPor favor, recupera 20 ^4D4DFFGranos de Cacao Robados^000000 de esos tipos.\n¿Que quiénes son esos tipos?\nSon ^4D4DFFPoriflanes^000000. Puedes encontrarlos fácilmente dondequiera que vayas.\nAceptarás mi petición, ¿¿verdad??"
+    },
+    "K1D4DA": {
+        "ko": "응, 맡겨줘.",
+        "en": "Sure, leave it to me.",
+        "pt": "Claro, deixa comigo.",
+        "es": "Claro, déjamelo a mí."
+    },
+    "LFD4DA": {
+        "ko": "다음에 할게.",
+        "en": "I'll do it later.",
+        "pt": "Farei isso mais tarde.",
+        "es": "Lo haré más tarde."
+    },
+    "LVD4DA": {
+        "ko": "[쇼콜라]\n아...\n네, 다시 오실거죠...?\n기다리고 있겠습니다!!",
+        "en": "[Chocola]\nAh...\nYes, you will come back, right...?\nI'll be waiting!!",
+        "pt": "[Chocolai]\nAh...\nSim, você voltará, certo...?\nEstarei esperando!!",
+        "es": "[Chocolai]\nAh...\nSí, volverás, ¿verdad...?\n¡¡Estaré esperando!!"
+    },
+    "LlD4DA": {
+        "ko": "[쇼콜라]\n^4D4DFF스윗츠 드롭프스^000000는 현재 어딜 가셔도 쉽게 찾을 수 있을 거에요.\n그 녀석들로부터 ^4D4DFF도둑맞은 카카오콩 20개^000000를 되찾아 주세요!\n감사합니다, 모험가님. 기다리고 있을게요!!",
+        "en": "[Chocola]\nYou can easily find ^4D4DFFSweet Drops^000000 anywhere you go right now.\nPlease retrieve ^4D4DFF20 Stolen Cacao Beans^000000 from them!\nThank you, Adventurer. I'll be waiting!!",
+        "pt": "[Chocolai]\nVocê pode encontrar facilmente ^4D4DFFQuindings^000000 agora em qualquer lugar onde vá.\nPor favor, recupere ^4D4DFF20 Grãos de Cacau Roubados^000000 deles!\nObrigada, Viajante. Estarei esperando!!",
+        "es": "[Chocolai]\nAhora mismo puedes encontrar fácilmente ^4D4DFFPoriflanes^000000 dondequiera que vayas.\n¡¡Por favor, recupera ^4D4DFF20 Granos de Cacao Robados^000000 de ellos!\nGracias, Trotamundos. ¡¡Estaré esperando!!"
+    },
+    "L1D4DA": {
+        "ko": "[쇼콜라]\n와, 역시!!!\n믿음직한 모험가님이시군요.\n재료를 되찾았으니 이제 ^4D4DFF납품용 초콜렛^000000을 만들 수 있게 되었어요.",
+        "en": "[Chocola]\nWow, as expected!!!\nYou're such a reliable Adventurer.\nNow that we've retrieved the ingredients, I can make ^4D4DFFConsignment Chocolates^000000.",
+        "pt": "[Chocolai]\nUau, como esperado!!!\nVocê é um(a) Viajante muito confiável.\nAgora que recuperamos os ingredientes, posso fazer ^4D4DFFChocolaites em Barra^000000.",
+        "es": "[Chocolai]\n¡¡Guau, como esperaba!!!\nEres un(a) Trotamundos de lo más fiable.\nAhora que recuperamos los ingredientes, puedo hacer ^4D4DFFChocolaites de Consignación^000000."
+    },
+    "MFD4DA": {
+        "ko": "[쇼콜라]\n축제 위원장인 쇼콜라가 관계자들 전원을 대표하여 진심으로 감사의 인사를 드려요!!\n자, 감사의 의미로 작은 선물을 준비했으니 받아주세요.",
+        "en": "[Chocola]\nAs the festival organizer Chocola, speaking on behalf of all staff, I offer you my sincere gratitude!!\nHere, please accept this small gift as a token of my appreciation.",
+        "pt": "[Chocolai]\nComo organizadora do festival Chocolai, em nome de toda a equipa, ofereço a minha sincera gratidão!!\nAqui, por favor, aceite este pequeno presente como prova do meu apreço.",
+        "es": "[Chocolai]\n¡¡Como organizadora del festival Chocolai, en nombre de todo el personal, te ofrezco mi más sincero agradecimiento!!\nToma, por favor acepta este pequeño regalo como muestra de mi aprecio."
+    },
+    "MVD4DA": {
+        "ko": "[쇼콜라]\n아, 그러고보니...\n카카오콩 회수 건으로 다들 자리를 비우셔서 배달을 해 주실 분이 지금 안계시는구나...",
+        "en": "[Chocola]\nAh, come to think of it...\nEveryone is away recovering the Cacao Beans, so there's no one to do the deliveries right now...",
+        "pt": "[Chocolai]\nAh, já agora...\nTodos estão ausentes a recuperar os Grãos de Cacau, por isso não há ninguém para fazer as entregas agora...",
+        "es": "[Chocolai]\nAh, ahora que lo pienso...\nTodo el mundo está fuera recuperando los Granos de Cacao, así que no hay nadie para hacer las entregas ahora mismo..."
+    },
+    "MlD4DA": {
+        "ko": "[쇼콜라]\n아앗! 모험가님 잠깐만...\n이왕 이렇게 된 거, 부탁이 또 있어요!!!",
+        "en": "[Chocola]\nAah! Adventurer, wait a moment...\nSince we've come this far, I have another favor to ask!!!",
+        "pt": "[Chocolai]\nAah! Viajante, espere um momento...\nJá que chegámos até aqui, tenho mais um pedido para fazer!!!",
+        "es": "[Chocolai]\n¡¡Aah! Trotamundos, espera un momento...\nYa que hemos llegado hasta aquí, ¡¡¡tengo otro favor que pedirte!!!"
+    },
+    "M1D4DA": {
+        "ko": "[쇼콜라]\n^4D4DFF납품용 초콜렛^000000은 제가 금방 만들 수 있는데요~\n금방 만드니까 잠시 뒤에 저에게 다시 말을 걸어주시겠어요?",
+        "en": "[Chocola]\nI can make the ^4D4DFFConsignment Chocolates^000000 in no time~\nSince it'll be quick, could you talk to me again in a little while?",
+        "pt": "[Chocolai]\nPosso fazer os ^4D4DFFChocolaites em Barra^000000 num instante~\nComo será rápido, importa-se de falar comigo novamente daqui a pouco?",
+        "es": "[Chocolai]\nPuedo hacer los ^4D4DFFChocolaites de Consignación^000000 en un santiamén~\nComo será rápido, ¿podrías volver a hablarme dentro de un rato?"
+    },
+    "NFD4DA": {
+        "ko": "[쇼콜라]\n후후, 전 모험가님이 다시 찾아오실 줄 알았어요.\n납품할 초콜렛을 배달할 인력이 없답니다.\n다들 도둑맞은 카카오콩을 회수하느라 정신이 없어서요...",
+        "en": "[Chocola]\nHehe, I knew you'd come back, Adventurer.\nThere's no one to deliver the chocolates for consignment.\nEveryone is busy retrieving the stolen cacao beans...",
+        "pt": "[Chocolai]\nHehe, sabia que você voltaria, Viajante.\nNão há ninguém para entregar os Chocolaites para consignação.\nTodos estão ocupados a recuperar os Grãos de Cacau Roubados...",
+        "es": "[Chocolai]\nJeje, sabía que volverías, Trotamundos.\nNo hay nadie para entregar los Chocolaites de consignación.\nTodo el mundo está ocupado recuperando los Granos de Cacao Robados..."
+    },
+    "NVD4DA": {
+        "ko": "[쇼콜라]\n그러니 이번에도 저를 도와주셨으면 좋겠습니다.\n빛나는 배달의 정신을 보여주실거죠?!",
+        "en": "[Chocola]\nSo I'd like you to help me again this time.\nYou'll show that shining spirit of delivery, right?!",
+        "pt": "[Chocolai]\nEntão, gostaria que você me ajudasse novamente desta vez.\nVocê mostrará esse espírito de entrega brilhante, certo?!\"",
+        "es": "[Chocolai]\nAsí que me gustaría que me ayudaras de nuevo esta vez.\n¡Mostrarás ese brillante espíritu de entrega, ¿no?!\""
+    },
+    "NlD4DA": {
+        "ko": "그래, 맞다.",
+        "en": "Yeah, that's right.",
+        "pt": "Sim, é verdade.",
+        "es": "Sí, así es."
+    },
+    "N1D4DA": {
+        "ko": "아닌데?",
+        "en": "No, not really.",
+        "pt": "Não, na verdade não.",
+        "es": "No, la verdad que no."
+    },
+    "OFD4DA": {
+        "ko": "[쇼콜라]\n오! 그럼 이 ^4D4DFF납품용 초콜렛^000000을 스윗츠 상점에 배달 해 주세요.\n각 상점별 위치를 적어드릴게요.",
+        "en": "[Chocola]\nOh! Then please deliver these ^4D4DFFConsignment Chocolates^000000 to the Sweets Shops.\nI'll write down the location of each shop.",
+        "pt": "[Chocolai]\nAh! Então, por favor, entregue estes ^4D4DFFChocolaites em Barra^000000 nas Lojas de Doces.\nVou anotar a localização de cada loja.\"",
+        "es": "[Chocolai]\n¡Oh! Entonces, por favor, entrega estos ^4D4DFFChocolaites de Consignación^000000 en las Tiendas de Dulces.\nTe anotaré la ubicación de cada tienda.\""
+    },
+    "OVD4DA": {
+        "ko": "[쇼콜라]\n배달을 하시게 되면 각 상점별로 준비된 특별 상품을 받으실 수 있을거에요.\n그것을 꼭 받아와 주세요!\n그럼 부탁드립니다~!",
+        "en": "[Chocola]\nWhen you make the deliveries, you'll receive special products prepared by each shop.\nPlease be sure to bring them back!\nThen, I leave it to you~!",
+        "pt": "[Chocolai]\nQuando fizer as entregas, receberá produtos especiais preparados por cada loja.\nPor favor, não se esqueça de os trazer!\nEntão, eu deixo isso consigo~!",
+        "es": "[Chocolai]\nCuando hagas las entregas, recibirás productos especiales preparados por cada tienda.\n¡Por favor, asegúrate de traerlos!\n¡Entonces, te lo dejo a ti~!"
+    },
+    "OlD4DA": {
+        "ko": "[쇼콜라]\n햐.. 이럴수가. 아니라니, 그럴리가 없는데...?\n모험가라면 기간 한정 이벤트 퀘스트를 놓칠리가 없는데...?\n...다시 한 번 생각해 보세요.",
+        "en": "[Chocola]\n*Sigh*... No way. That can't be right...?\nAn Adventurer wouldn't miss a limited-time event quest, would they...?\n...Please think again.",
+        "pt": "[Chocolai]\n*Suspiro*... De jeito nenhum. Isso não pode estar certo...?\nUm(a) Viajante não perderia uma missão de evento por tempo limitado, pois não...?\n...Por favor, pense novamente.",
+        "es": "[Chocolai]\n*Suspiro*... No puede ser. Eso no puede estar bien...?\nUn@ Trotamundos no se perdería una misión de evento por tiempo limitado, ¿no...?\n...Por favor, piénsalo de nuevo."
+    },
+    "O1D4DA": {
+        "ko": "[쇼콜라]\n각 도시에 있는 스윗츠 상점에 ^4D4DFF납품용 초콜렛^000000을 배달해 주세요.\n그래야 본격적인 스윗츠 축제가 시작되거든요!",
+        "en": "[Chocola]\nPlease deliver the ^4D4DFFConsignment Chocolates^000000 to the Sweets Shops in each city.\nThen the real Sweets Festival can begin!",
+        "pt": "[Chocolai]\nPor favor, entregue os ^4D4DFFChocolaites em Barra^000000 nas Lojas de Doces de cada cidade.\nAssim, o verdadeiro Chocomania pode começar!",
+        "es": "[Chocolai]\nPor favor, entrega los ^4D4DFFChocolaites de Consignación^000000 en las Tiendas de Dulces de cada ciudad.\n¡Entonces el verdadero Festival de los Dulces puede comenzar!"
+    },
+    "PFD4DA": {
+        "ko": "[쇼콜라]\n어디보자아~ 배달은 잘 다녀오셨고~\n이번 축제 시즌 상품은 뭐였나요?\n제대로 가져오셨죠?",
+        "en": "[Chocola]\nLet's see~ You've made the deliveries well~\nWhat were this season's products?\nYou brought them properly, right?",
+        "pt": "[Chocolai]\nDeixe-me ver~ Você fez as entregas bem~\nQuais foram os produtos desta época?\nVocê os trouxe corretamente, não trouxe?",
+        "es": "[Chocolai]\nA ver~ Has hecho las entregas bien~\n¿Cuáles eran los productos de esta temporada?\nLos trajiste correctamente, ¿verdad?"
+    },
+    "PVD4DA": {
+        "ko": "[쇼콜라]\n호오.. 각 상점의 시즌 상품들이군요.\n맞아요. 기안에 올라온 그대로 만들어주셨네요.",
+        "en": "[Chocola]\nOh ho... These are the seasonal products from each shop.\nThat's right. You've made them exactly as stated in the proposal.",
+        "pt": "[Chocolai]\nOh ho... Estes são os produtos sazonais de cada loja.\nIsso mesmo. Você os fez exatamente como estava na proposta.",
+        "es": "[Chocolai]\nOh ho... Estos son los productos de temporada de cada tienda.\nAsí es. Los has hecho exactamente como estaba en la propuesta."
+    },
+    "PlD4DA": {
+        "ko": "[쇼콜라]\n올해도 이 아이템을 주력으로 한다면 축제는 문제 없겠어요.\n모험가님! 도움이 하나 더 필요한데요~",
+        "en": "[Chocola]\nIf we focus on these items this year too, the festival will have no problems.\nAdventurer! I need one more favor~",
+        "pt": "[Chocolai]\nSe nos concentrarmos nestes itens este ano também, o festival não terá problemas.\nViajante! Preciso de mais um favor~",
+        "es": "[Chocolai]\nSi nos centramos en estos objetos este año también, el festival no tendrá problemas.\n¡Trotamundos! Necesito un favor más~"
+    },
+    "P1D4DA": {
+        "ko": "[쇼콜라]\n우리는 스윗츠 축제의 첫 번째 시즌 상품을 항상 선물하는 것으로 시작해요.",
+        "en": "[Chocola]\nWe always start the Sweets Festival by giving away the first seasonal product as a gift.",
+        "pt": "[Chocolai]\nNós começamos sempre o Chocomania a oferecer o primeiro produto sazonal como presente.",
+        "es": "[Chocolai]\nSiempre comenzamos el Festival de los Dulces regalando el primer producto de temporada."
+    },
+    "QFD4DA": {
+        "ko": "[쇼콜라]\n모험가님께서 이 스윗츠에 담긴 사랑의 전령이 되어 여러 사람들이게 행복을 전해주셨으면 좋겠어요.",
+        "en": "[Chocola]\nI hope you can become a herald of love contained in these sweets and deliver happiness to many people.",
+        "pt": "[Chocolai]\nEspero que você possa tornar-se um arauto do amor contido nestes doces e levar felicidade a muitas pessoas.",
+        "es": "[Chocolai]\nEspero que puedas convertirte en un heraldo del amor contenido en estos dulces y llevar felicidad a mucha gente."
+    },
+    "QVD4DA": {
+        "ko": "[쇼콜라]\n전 모험가님이야말로 진정한 스윗츠 축제의 전령이라고 생각해요!",
+        "en": "[Chocola]\nI think you, Adventurer, are the true herald of the Sweets Festival!",
+        "pt": "[Chocolai]\nEu acho que você, Viajante, é o verdadeiro arauto do Chocomania!",
+        "es": "[Chocolai]\n¡Creo que tú, Trotamundos, eres el verdadero heraldo del Festival de los Dulces!"
+    },
+    "QlD4DA": {
+        "ko": "[쇼콜라]\n자자, 이것이야말로 행복한 여정이랍니다.\n스윗츠 축제는 사랑을 전달하는 축제라는 것은 알고 계시죠?\n각 상점에서 받아온 스윗츠들을 사람들에게 나눠주는 겁니다!",
+        "en": "[Chocola]\nCome on, this is a happy journey.\nYou know that the Sweets Festival is about delivering love, right?\nYou'll distribute the sweets you got from each shop to the people!",
+        "pt": "[Chocolai]\nVamos, esta é uma jornada feliz.\nVocê sabe que o Chocomania é sobre entregar amor, certo?\nVocê distribuirá os doces que obteve de cada loja às pessoas!",
+        "es": "[Chocolai]\nVamos, este es un viaje feliz.\nSabes que el Festival de los Dulces trata de entregar amor, ¿verdad?\n¡Repartirás los dulces que conseguiste de cada tienda a la gente!"
+    },
+    "Q1D4DA": {
+        "ko": "[쇼콜라]\n축제 위원들로부터 전달 받은 내용을 보아하니...\n이번 해에는 다소 사연이 있는 분들이 계시네요.",
+        "en": "[Chocola]\nAccording to what I've heard from the festival staff...\nThere are some people with particular stories this year.",
+        "pt": "[Chocolai]\nDe acordo com o que ouvi da equipa do festival...\nHá algumas pessoas com histórias particulares este ano.",
+        "es": "[Chocolai]\nSegún lo que he oído al personal del festival...\nHay algunas personas con historias particulares este año."
+    },
+    "RFD4DA": {
+        "ko": "[쇼콜라]\n자, 그분들의 명단을 적어 놓았으니 이것을 참고 부탁드립니다.\n그분들에게 어울릴만한 메뉴도 각각 적어놓았으니 꼭 전해 주세요.",
+        "en": "[Chocola]\nHere, I've written down their names, so please refer to this.\nI've also written down menu items suitable for each of them, so please be sure to deliver them.",
+        "pt": "[Chocolai]\nAqui, anotei os nomes deles, por favor, consulte isto.\nTambém anotei itens de menu adequados para cada um deles, por isso, por favor, não se esqueça de os entregar.",
+        "es": "[Chocolai]\nAquí, he anotado sus nombres, así que consúltalo.\nTambién he anotado los platos adecuados para cada uno de ellos, así que asegúrate de entregarlos."
+    },
+    "RVD4DA": {
+        "ko": "[쇼콜라]\n만약 ^4D4DFF스윗츠를 모험가님께서 드셨다!^000000 그럼 ^4D4DFF사비로 충당하셔야 합니다.^000000\n아시겠지요?",
+        "en": "[Chocola]\nIf ^4D4DFFyou ate the sweets yourself^000000, then ^4D4DFFyou must cover the cost^000000.\nYou understand, right?",
+        "pt": "[Chocolai]\nSe ^4D4DFFvocê mesmo comeu os doces^000000, então ^4D4DFFvocê deve cobrir o custo^000000.\nVocê entende, certo?",
+        "es": "[Chocolai]\nSi ^4D4DFFte comiste los dulces tú mismo^000000, entonces ^4D4DFFdebes cubrir el costo^000000.\n¿Lo entiendes, verdad?"
+    },
+    "RlD4DA": {
+        "ko": "[쇼콜라]\n자, 그럼 행복한 여정을 향해 출발!",
+        "en": "[Chocola]\nNow, off you go on your happy journey!",
+        "pt": "[Chocolai]\nAgora, vá na sua jornada feliz!",
+        "es": "[Chocolai]\n¡Ahora, vete en tu viaje feliz!"
+    },
+    "R1D4DA": {
+        "ko": "[쇼콜라]\n으음? 상품을 제대로 가져온 것 맞나요?\n납품용 초콜렛 배달은 제대로 하신 거 같은데, 설마 이거 먹었어요???",
+        "en": "[Chocola]\nErm? Are you sure you brought the products properly?\nIt seems you delivered the Consignment Chocolates correctly, but you didn't eat these, did you???",
+        "pt": "[Chocolai]\nHein? Tem certeza de que trouxe os produtos corretamente?\nParece que você entregou os Chocolates em Barra corretamente, mas não comeu estes, comeu???",
+        "es": "[Chocolai]\n¿Ejem? ¿Seguro que trajiste los productos correctamente?\nParece que entregaste los Chocolates de Consignación correctamente, pero no te comiste estos, ¿¿verdad???"
+    },
+    "SFD4DA": {
+        "ko": "[쇼콜라]\n아아, 정말 곤란하네요.\n시즌 상품이 있어야 축제를 제대로 진행하죠.",
+        "en": "[Chocola]\nAh, this is really troublesome.\nWe need the seasonal products to run the festival properly.",
+        "pt": "[Chocolai]\nAh, isso é realmente problemático.\nPrecisamos dos produtos sazonais para realizar o festival corretamente.",
+        "es": "[Chocolai]\nAh, esto es realmente problemático.\nNecesitamos los productos de temporada para realizar el festival correctamente."
+    },
+    "SVD4DA": {
+        "ko": "[쇼콜라]",
+        "en": "[Chocola]",
+        "pt": "[Chocolai]",
+        "es": "[Chocolai]"
+    },
+    "SlD4DA": {
+        "ko": "달콤한 크레이프 있고,",
+        "en": "There's a Sweet Crepe.",
+        "pt": "Há um Crepe Doce,",
+        "es": "Hay un Crepe Dulce,"
+    },
+    "S1D4DA": {
+        "ko": "달콤한 크레이프 ^4D4DFF없네요^000000.",
+        "en": "There's no ^4D4DFFSweet Crepe^000000.",
+        "pt": "Não há ^4D4DFFCrepe Doce^000000.",
+        "es": "No hay ^4D4DFFCrepe Dulce^000000."
+    },
+    "TFD4DA": {
+        "ko": "딸기 생크림 컵케이크 있고,",
+        "en": "There's a Strawberry Cream Cupcake.",
+        "pt": "Há um Cupcake de Morango.",
+        "es": "Hay un Cupcake de Fresa y Crema."
+    },
+    "TVD4DA": {
+        "ko": "딸기 생크림 컵케이크 ^4D4DFF없네요^000000.",
+        "en": "There's no ^4D4DFFStrawberry Cream Cupcake^000000.",
+        "pt": "Não há ^4D4DFFCupcake de Morango^000000.",
+        "es": "No hay ^4D4DFFCupcake de Fresa y Crema^000000."
+    },
+    "TlD4DA": {
+        "ko": "과일 파르페 있고,",
+        "en": "There's a Fruit Parfait.",
+        "pt": "Há um Parfait de Frutas.",
+        "es": "Hay una Parfait de Frutas."
+    },
+    "T1D4DA": {
+        "ko": "과일 파르페 ^4D4DFF없네요^000000.",
+        "en": "There's no ^4D4DFFFruit Parfait^000000.",
+        "pt": "Não há ^4D4DFFParfait de Frutas^000000.",
+        "es": "No hay ^4D4DFFParfait de Frutas^000000."
+    },
+    "UFD4DA": {
+        "ko": "촉촉한 마카롱 있고,",
+        "en": "There's a Chewy Macaron.",
+        "pt": "Há um Macarons.",
+        "es": "Hay un Macarons."
+    },
+    "UVD4DA": {
+        "ko": "촉촉한 마카롱 ^4D4DFF없네요^000000.",
+        "en": "There's no ^4D4DFFChewy Macaron^000000.",
+        "pt": "Não há ^4D4DFFMacarons^000000.",
+        "es": "No hay ^4D4DFFMacarons^000000."
+    },
+    "UlD4DA": {
+        "ko": "몽블랑 케이크 있고,",
+        "en": "There's a Mont Blanc Cake.",
+        "pt": "Há um Bolo Mont Blanc.",
+        "es": "Hay un Pastel Mont Blanc."
+    },
+    "U1D4DA": {
+        "ko": "몽블랑 케이크 ^4D4DFF없네요^000000.",
+        "en": "There's no ^4D4DFFMont Blanc Cake^000000.",
+        "pt": "Não há ^4D4DFFBolo Mont Blanc^000000.",
+        "es": "No hay ^4D4DFFPastel Mont Blanc^000000."
+    },
+    "VFD4DA": {
+        "ko": "[쇼콜라]\n없는 상품은 상점에서 알아서 구해오던지 하세요.\n반드시 구해오셔야 합니다.\n우리 신용 장사잖아요. 아시겠어요?",
+        "en": "[Chocola]\nIf you're missing a product, go get it from the shop yourself.\nYou absolutely must bring it.\nWe run on trust, you know. Understand?",
+        "pt": "[Chocolai]\nSe estiver faltando um produto, vá buscá-lo na loja você mesmo(a).\nVocê absolutamente deve trazê-lo.\nNós funcionamos com base na confiança, sabe. Entendeu?",
+        "es": "[Chocolai]\nSi te falta un producto, ve a buscarlo a la tienda tú mism@.\nDebes traerlo sí o sí.\nAquí confiamos en la gente, ¿sabes? ¿Entiendes?"
+    },
+    "VVD4DA": {
+        "ko": "[쇼콜라]\n자, 어서 어서 명단에 적힌대로 사람들에게 스윗츠를 전해주세요!\n배달의 전령이여!",
+        "en": "[Chocola]\nNow, go on, deliver the sweets to the people as written on the list!\nOh herald of delivery!",
+        "pt": "[Chocolai]\nAgora, vá, entregue os doces às pessoas como está escrito na lista!\nOh arauto da entrega!",
+        "es": "[Chocolai]\n¡Ahora, ve, entrega los dulces a la gente como está escrito en la lista!\n¡Oh heraldo de la entrega!"
+    },
+    "VlD4DA": {
+        "ko": "[쇼콜라]\n어서오세요!\n그분들께 스윗츠의 사랑이 전달되었나요?\n당연히 좋아했겠죠?\n함께 사랑과 행복의 여정을 해주어서 고마워요, 모험가님!",
+        "en": "[Chocola]\nWelcome back!\nWas the love of sweets delivered to those people?\nSurely they were happy, right?\nThank you for joining me on this journey of love and happiness, Adventurer!",
+        "pt": "[Chocolai]\nBoas-vindas(a) de volta!\nO amor dos doces foi entregue àquelas pessoas?\nCertamente eles ficaram felizes, certo?\nObrigada por se juntar a mim nesta jornada de amor e felicidade, Viajante!",
+        "es": "[Chocolai]\n¡Bienvenid@ de vuelta!\n¿Se entregó el amor de los dulces a esa gente?\nSeguro que estaban felices, ¿verdad?\nGracias por acompañarme en este viaje de amor y felicidad, Trotamundos."
+    },
+    "V1D4DA": {
+        "ko": "[쇼콜라]\n스윗츠 전령에겐 사랑스러운 스윗츠로 보답하는거죠!\n자, 이걸 드릴게요.\n제 성의를 받아주세요~!",
+        "en": "[Chocola]\nA sweet herald deserves to be rewarded with lovely sweets!\nHere, take this.\nPlease accept my small token~!",
+        "pt": "[Chocolai]\nUm arauto doce merece ser recompensado com doces adoráveis!\nAqui, pegue isto.\nPor favor, aceite meu pequeno gesto~!",
+        "es": "[Chocolai]\n¡Un heraldo dulce merece ser recompensado con dulces adorables!\nToma, coge esto.\n¡Acepta mi pequeño detalle~!"
+    },
+    "WFD4DA": {
+        "ko": "[쇼콜라]\n앗 그리고 모험가님! 마지막으로 부탁이 하나 더 있습니다!!",
+        "en": "[Chocola]\nAh, and Adventurer! I have one last favor!!",
+        "pt": "[Chocolai]\nAh, e Viajante! Tenho um último favor!!",
+        "es": "[Chocolai]\n¡Ah, y Trotamundos! ¡¡Tengo un último favor!!"
+    },
+    "WVD4DA": {
+        "ko": "[쇼콜라]\n지금 당장 부탁드리기에는 조금 죄송해서 그런데 시간이 되실 때, 저에게 말을 다시 걸어주세요!!",
+        "en": "[Chocola]\nI feel a bit bad asking you right now, so when you have time, please talk to me again!!",
+        "pt": "[Chocolai]\nSinto-me um pouco mal por pedir agora, então quando tiver tempo, por favor, fale comigo novamente!!",
+        "es": "[Chocolai]\nMe siento un poco mal pidiéndotelo ahora, así que cuando tengas tiempo, ¡¡vuelve a hablarme!!"
+    },
+    "WlD4DA": {
+        "ko": "[쇼콜라]\n앗~! 바로 오셨군요, 그게 어떤 부탁이냐면요~~",
+        "en": "[Chocola]\nAh~! You came right away, so here's the favor~~",
+        "pt": "[Chocolai]\nAh~! Você veio imediatamente, então aqui está o favor~~",
+        "es": "[Chocolai]\n¡Ah~! Viniste de inmediato, así que aquí está el favor~~"
+    },
+    "W1D4DA": {
+        "ko": "[쇼콜라]\n모험가님이 스윗츠 드롭프스들을 사냥하는 동안 그 중에서 유난히 덩치가 큰 녀석이 있지 않았던가요?",
+        "en": "[Chocola]\nWhile you were hunting Sweet Drops, wasn't there one that was particularly large?",
+        "pt": "[Chocolai]\nEnquanto você caçava Quindings, não havia um que era particularmente grande?",
+        "es": "[Chocolai]\nMientras cazabas Poriflanes, ¿no había uno que era particularmente grande?"
+    },
+    "XFD4DA": {
+        "ko": "[쇼콜라]\n카카오콩을 몸에 오래 지니고 있으면 숙성이 되는데 그로 인해 몸이 더부룩해진 것이라고 추측하고 있어요.",
+        "en": "[Chocola]\nI suspect that carrying Cacao Beans for a long time causes them to age, which makes the body bloated.",
+        "pt": "[Chocolai]\nDesconfio que carregar Grãos de Cacau por muito tempo faz com que eles envelheçam, o que faz o corpo ficar inchado.",
+        "es": "[Chocolai]\nSospecho que llevar Granos de Cacao durante mucho tiempo hace que envejezcan, lo que hace que el cuerpo se hinche."
+    },
+    "XVD4DA": {
+        "ko": "[쇼콜라]\n기회가 되어 더부룩한 스윗츠링으로부터 뺏어온 숙성된 카카오콩 맛을 본 적이 있는데요.",
+        "en": "[Chocola]\nI once had the chance to taste Ripe Cacao Beans taken from a Bloated Sweets Ring.",
+        "pt": "[Chocolai]\nUma vez tive a oportunidade de provar grãos de cacau maduros retirados de um Anel de Doce Inchado.",
+        "es": "[Chocolai]\nUna vez tuve la oportunidad de probar Granos de Cacao Maduros tomados de un Anillo Dulce Hinchado."
+    },
+    "XlD4DA": {
+        "ko": "[쇼콜라]\n정말이지 너무 끝내주더라고요!! 한층 더 맛있는 스윗츠 요리들을 제작할 수 있을 것 같아요!",
+        "en": "[Chocola]\nThey were absolutely amazing!! I think I can make even more delicious sweets dishes!",
+        "pt": "[Chocolai]\nEles eram absolutamente incríveis!! Acho que posso fazer pratos de doces ainda mais deliciosos!",
+        "es": "[Chocolai]\n¡¡Eran absolutamente increíbles!! ¡Creo que puedo hacer platos de dulces aún más deliciosos!"
+    },
+    "X1D4DA": {
+        "ko": "[쇼콜라]\n그래서 말인데 필드 곳곳에 나타나고 있는 ^4D4DFF더부룩한 스윗츠링^000000을 잡아서 ^4D4DFF숙성된 카카오콩^000000을 1개만 구해다주실 수 있을까요?",
+        "en": "[Chocola]\nSo, could you hunt the ^4D4DFFBloated Sweets Rings^000000 appearing throughout the fields and bring me just ^4D4DFF1 Aged Cacao Bean^000000?",
+        "pt": "[Chocolai]\nEntão, você poderia caçar os ^4D4DFFAnéis de Doce Inchados^000000 que aparecem por todos os campos e trazer-me apenas ^4D4DFF1 Grão de Cacau Maduro^000000?",
+        "es": "[Chocolai]\nEntonces, ¿podrías cazar a los ^4D4DFFAnillos Dulces Hinchados^000000 que aparecen por todos los campos y traerme solo 1 ^4D4DFFGrano de Cacao Maduro^000000?"
+    },
+    "YFD4DA": {
+        "ko": "[쇼콜라]\n구해다 주신다면 제가 마련한 특별한 상품을 드리도록 할게요~",
+        "en": "[Chocola]\nIf you bring me one, I'll give you a special product I've prepared~",
+        "pt": "[Chocolai]\nSe me trouxer um, dar-lhe-ei um produto especial que preparei~",
+        "es": "[Chocolai]\nSi me traes uno, te daré un producto especial que he preparado~"
+    },
+    "YVD4DA": {
+        "ko": "[쇼콜라]\n제 마지막 부탁을 들어주실거죠~??",
+        "en": "[Chocola]\nYou'll accept my final favor, right~??",
+        "pt": "[Chocolai]\nVocê aceitará meu último favor, certo~??",
+        "es": "[Chocolai]\nAceptarás mi último favor, ¿¿verdad~??"
+    },
+    "YlD4DA": {
+        "ko": "그래, 맡겨줘.",
+        "en": "Sure, leave it to me.",
+        "pt": "Claro, deixa comigo.",
+        "es": "Claro, déjamelo a mí."
+    },
+    "Y1D4DA": {
+        "ko": "아니.",
+        "en": "No.",
+        "pt": "Não.",
+        "es": "No."
+    },
+    "ZFD4DA": {
+        "ko": "[쇼콜라]\n감사해요! 빠르게 다시 찾아와 주시기를 기다리고 있겠습니다!!",
+        "en": "[Chocola]\nThank you! I'll be waiting for your quick return!!",
+        "pt": "[Chocolai]\nObrigada! Estarei esperando o seu rápido retorno!!",
+        "es": "[Chocolai]\n¡Gracias! ¡¡Estaré esperando tu rápido regreso!!"
+    },
+    "ZVD4DA": {
+        "ko": "[쇼콜라]\n아니, 세상에, 맙소사!! 진심이신가요~~???",
+        "en": "[Chocola]\nNo, my goodness, oh my!! Are you serious~~???",
+        "pt": "[Chocolai]\nNão, meu Deus, oh meu!! Você está falando sério~~???",
+        "es": "[Chocolai]\n¡¡No, por Dios, oh cielos!! ¿¿Hablas en serio~~???"
+    },
+    "ZlD4DA": {
+        "ko": "[쇼콜라]\n^4D4DFF더부룩한 스윗츠링^000000을 잡아서 ^4D4DFF숙성된 카카오콩^000000을 1개를 구해오시면 됩니다!!",
+        "en": "[Chocola]\nJust hunt ^4D4DFFBloated Sweets Rings^000000 and bring me ^4D4DFF1 Aged Cacao Bean^000000!!",
+        "pt": "[Chocolai]\nBasta caçar ^4D4DFFAnéis de Doce Inchados^000000 e trazer-me ^4D4DFF1 Grão de Cacau Maduro^000000!!",
+        "es": "[Chocolai]\n¡¡Solo caza ^4D4DFFAnillos Dulces Hinchados^000000 y tráeme 1 ^4D4DFFGrano de Cacao Maduro^000000!!"
+    },
+    "Z1D4DA": {
+        "ko": "[쇼콜라]\n기다리고 있을게요~!!",
+        "en": "[Chocola]\nI'll be waiting~!!",
+        "pt": "[Chocolai]\nEstarei esperando~!!",
+        "es": "[Chocolai]\n¡¡Estaré esperando~!!"
+    },
+    "aFD4DA": {
+        "ko": "[쇼콜라]\n오오~ 이 귀한 냄새는...!!!",
+        "en": "[Chocola]\nOoh~ This precious scent...!!!",
+        "pt": "[Chocolai]\nOoh~ Este cheiro precioso...!!!",
+        "es": "[Chocolai]\n¡¡Ooh~ Este olor tan precioso...!!!"
+    },
+    "aVD4DA": {
+        "ko": "[쇼콜라]\n^4D4DFF숙성된 카카오콩^000000을 구해오신 모양이시로군요!!",
+        "en": "[Chocola]\nYou must have brought the ^4D4DFFRipe Cacao Bean^000000!!",
+        "pt": "[Chocolai]\nVocê deve ter trazido o ^4D4DFFGrão de Cacau Maduro^000000!!",
+        "es": "[Chocolai]\n¡¡Debes haber traído el ^4D4DFFGrano de Cacao Maduro^000000!!"
+    },
+    "alD4DA": {
+        "ko": "[쇼콜라]\n정말로 감사드립니다, 이번 스윗츠 축제는 더욱 달콤한 기간이 될 수 있을 것 같네요.",
+        "en": "[Chocola]\nThank you so much. This Sweets Festival is going to be an even sweeter period.",
+        "pt": "[Chocolai]\nMuito obrigada. Este Chocomania será um período ainda mais doce.",
+        "es": "[Chocolai]\nMuchísimas gracias. Este Festival de los Dulces va a ser un período aún más dulce."
+    },
+    "a1D4DA": {
+        "ko": "[쇼콜라]\n이것은 제 성의이니 부담갖지 마시고 받아주세요.",
+        "en": "[Chocola]\nPlease accept this as a token of my appreciation, don't feel burdened.",
+        "pt": "[Chocolai]\nPor favor, aceite isto como prova do meu apreço, não se sinta sobrecarregado(a).",
+        "es": "[Chocolai]\nPor favor, acepta esto como muestra de mi agradecimiento, no te sientas presionad@."
+    },
+    "bFD4DA": {
+        "ko": "[쇼콜라]\n모험가님의 도움이 지속적으로 필요할 것 같으니 시간이 되실 때마다 저에게 와 주시면 감사하겠습니다.",
+        "en": "[Chocola]\nI think I'll need your help continuously, so please come to me whenever you have time.",
+        "pt": "[Chocolai]\nAcho que precisarei da sua ajuda continuamente, então, por favor, venha falar comigo sempre que tiver tempo.",
+        "es": "[Chocolai]\nCreo que necesitaré tu ayuda continuamente, así que por favor, ven a verme siempre que tengas tiempo."
+    },
+    "bVD4DA": {
+        "ko": "[쇼콜라]\n그럼 행복한 축제 보내시길!!",
+        "en": "[Chocola]\nNow, have a happy festival!!",
+        "pt": "[Chocolai]\nAgora, tenha um festival feliz!!",
+        "es": "[Chocolai]\n¡¡Ahora, ten un festival feliz!!"
+    },
+    "blD4DA": {
+        "ko": "[쇼콜라]\n허어... 분명 ^4D4DFF더부룩한 스윗츠링^000000을 사냥하고 오신 것 같은데...",
+        "en": "[Chocola]\nHuh... You certainly seem to have hunted ^4D4DFFBloated Sweets Rings^000000 but...",
+        "pt": "[Chocolai]\nHã... Você certamente parece ter caçado ^4D4DFFAnéis de Doce Inchados^000000 mas...",
+        "es": "[Chocolai]\nEh... Ciertamente pareces haber cazado ^4D4DFFAnillos Dulces Hinchados^000000 pero..."
+    },
+    "b1D4DA": {
+        "ko": "[쇼콜라]\n^4D4DFF숙성된 카카오콩^000000은 가지고 오지 않으셨네요... 혹시 잡수셨나요??",
+        "en": "[Chocola]\nYou didn't bring the ^4D4DFFRipe Cacao Bean^000000... Did you perhaps eat it??",
+        "pt": "[Chocolai]\nNão trouxe o ^4D4DFFGrão de Cacau Maduro^000000... Você por acaso o comeu??",
+        "es": "[Chocolai]\nNo trajiste el ^4D4DFFGrano de Cacao Maduro^000000... ¿¿Acaso te lo comiste??"
+    },
+    "cFD4DA": {
+        "ko": "[쇼콜라]\n저는 이 자리에서 계속 기다리고 있을테니 습득하게 되시면 저를 다시 찾아와주시길 바랍니다!",
+        "en": "[Chocola]\nI'll be waiting here, so please come back to me once you acquire it!",
+        "pt": "[Chocolai]\nEstarei esperando aqui, então, por favor, volte a falar comigo quando o adquirir!",
+        "es": "[Chocolai]\nEstaré esperando aquí, así que ¡por favor, vuelve a mí una vez que lo consigas!"
+    },
+    "cVD4DA": {
+        "ko": "[쇼콜라]\n어서와요~ 첫번째 사랑의 전령님!\n축제를 도와주기 위해 오셨나요?",
+        "en": "[Chocola]\nWelcome~ First love herald!\nHave you come to help with the festival?",
+        "pt": "[Chocolai]\nBoas-vindas(a)~ Primeiro arauto do amor!\nVocê veio ajudar com o festival?",
+        "es": "[Chocolai]\n¡Bienvenid@~ Primer heraldo del amor!\n¿Has venido a ayudar con el festival?"
+    },
+    "clD4DA": {
+        "ko": "도둑맞은 카카오콩 교환",
+        "en": "Exchange Stolen Cacao Beans",
+        "pt": "Trocar Grãos de Cacau Roubados",
+        "es": "Intercambiar Granos de Cacao Robados"
+    },
+    "c1D4DA": {
+        "ko": "오늘도 행복한 축제 나눔!",
+        "en": "Share the happy festival today!",
+        "pt": "Compartilhe o festival feliz hoje!",
+        "es": "¡Comparte el festival feliz hoy!"
+    },
+    "dFD4DA": {
+        "ko": "스윗츠 드롭프스 응징!",
+        "en": "Punish Sweet Drops!",
+        "pt": "Punir Quindings!",
+        "es": "¡Castigar a los Poriflanes!"
+    },
+    "dVD4DA": {
+        "ko": "숙성된 카카오콩 교환",
+        "en": "Exchange Ripe Cacao Beans",
+        "pt": "Trocar Grão de Cacau Maduro",
+        "es": "Intercambiar Grano de Cacao Maduro"
+    },
+    "dlD4DA": {
+        "ko": "그냥 왔어.",
+        "en": "Just came by.",
+        "pt": "Só passei.",
+        "es": "Solo pasaba por aquí."
+    },
+    "d1D4DA": {
+        "ko": "[쇼콜라]\n어라, 카카오콩을 찾아오셨어요?\n좋아요. 가지고 계신 ^4D4DFF도둑맞은 카카오콩 1개당 스윗츠 축제 코인 1개^000000로 교환 해 드릴게요.",
+        "en": "[Chocola]\nOh, you've brought Cacao Beans?\nGreat. I'll exchange ^4D4DFF1 Sweets Festival Coin for every 1 Stolen Cacao Bean^000000 you have.",
+        "pt": "[Chocolai]\nAh, você trouxe Grãos de Cacau?\nÓtimo. Trocarei ^4D4DFF1 Chocoeda por cada 1 Grão de Cacau Roubado^000000 que você tiver.",
+        "es": "[Chocolai]\nOh, ¿trajiste Granos de Cacao?\nGenial. Intercambiaré ^4D4DFF1 Moneda del Festival de los Dulces por cada 1 Grano de Cacao Robado^000000 que tengas."
+    },
+    "eFD4DA": {
+        "ko": "[쇼콜라]\n지금 바로 교환해드릴까요?",
+        "en": "[Chocola]\nShall I exchange them right now?",
+        "pt": "[Chocolai]\nDevo trocá-los agora?",
+        "es": "[Chocolai]\n¿Los intercambio ahora mismo?"
+    },
+    "eVD4DA": {
+        "ko": "교환하지 않는다",
+        "en": "Don't exchange.",
+        "pt": "Não trocar.",
+        "es": "No intercambiar."
+    },
+    "elD4DA": {
+        "ko": "[쇼콜라]\n네~ 알겠습니다!!",
+        "en": "[Chocola]\nYes~ Understood!!",
+        "pt": "[Chocolai]\nSim~ Entendido!!",
+        "es": "[Chocolai]\n¡Sí~ Entendido!!"
+    },
+    "e1D4DA": {
+        "ko": "[쇼콜라]\n필요하신만큼 교환해 가시길 바랍니다.",
+        "en": "[Chocola]\nPlease exchange as many as you need.",
+        "pt": "[Chocolai]\nPor favor, troque quantos precisar.",
+        "es": "[Chocolai]\nPor favor, intercambia los que necesites."
+    },
+    "fFD4DA": {
+        "ko": "[쇼콜라]\n저런... 저 기대했단 말이에요.\n카카오콩은 항상 필요한 재료니까, 구하는 대로 가져다 주시면 정말 좋을텐데~",
+        "en": "[Chocola]\nOh dear... I was hoping you would.\nCacao Beans are always needed, so it would be great if you brought them whenever you got them~",
+        "pt": "[Chocolai]\nOh céus... Eu esperava que sim.\nGrãos de Cacau são sempre necessários, por isso seria ótimo se você os trouxesse sempre que os obtivesse~",
+        "es": "[Chocolai]\nOh cielos... Esperaba que lo hicieras.\nSiempre se necesitan Granos de Cacao, así que sería genial si los trajeras siempre que los consiguieras~"
+    },
+    "fVD4DA": {
+        "ko": "[쇼콜라]\n오늘의 스윗츠 메뉴는 충분히 전달되었어요.\n이게 다 모험가님 덕분이에요.",
+        "en": "[Chocola]\nToday's sweets menu has been sufficiently delivered.\nIt's all thanks to you, Adventurer.",
+        "pt": "[Chocolai]\nO menu de doces de hoje foi suficientemente entregue.\nTudo graças a você, Viajante.",
+        "es": "[Chocolai]\nEl menú de dulces de hoy se ha entregado suficientemente.\nTodo es gracias a ti, Trotamundos."
+    },
+    "flD4DA": {
+        "ko": "^4D4DFF냥다래 열매를 5개 소모하여 퀘스트를 즉시 재도전 할 수 있습니다.\n냥다래 열매를 사용하시겠습니까?",
+        "en": "^4D4DFFYou can use 5 Catfruit to immediately retry the quest.\nWould you like to use Catfruit?",
+        "pt": "^4D4DFFPode usar 5 Miaumiau para tentar a missão novamente imediatamente.\nGostaria de usar Miaumiau?",
+        "es": "^4D4DFFPuedes usar 5 Miaufrutos para reintentar la misión inmediatamente.\n¿Quieres usar Miaufruto?"
+    },
+    "f1D4DA": {
+        "ko": "사용하지 않는다.",
+        "en": "Don't use.",
+        "pt": "Não usar.",
+        "es": "No usar."
+    },
+    "gFD4DA": {
+        "ko": "퀘스트를 즉시 재도전 한다.",
+        "en": "Immediately retry the quest.",
+        "pt": "Tentar a missão novamente imediatamente.",
+        "es": "Reintentar la misión inmediatamente."
+    },
+    "gVD4DA": {
+        "ko": "^4D4DFF취소하였습니다.^000000",
+        "en": "^4D4DFFCancelled.^000000",
+        "pt": "^4D4DFFCancelado.^000000",
+        "es": "^4D4DFFCancelado.^000000"
+    },
+    "glD4DA": {
+        "ko": "^4D4DFF일일 퀘스트가 초기화 되었습니다.^000000",
+        "en": "^4D4DFFDaily quest has been reset.^000000",
+        "pt": "^4D4DFFA missão diária foi reiniciada.^000000",
+        "es": "^4D4DFFLa misión diaria se ha reiniciado.^000000"
+    },
+    "g1D4DA": {
+        "ko": "^4D4DFF냥다래 열매가 부족합니다.^000000",
+        "en": "^4D4DFFNot enough Catfruit.^000000",
+        "pt": "^4D4DFFMiaumiau insuficiente.^000000",
+        "es": "^4D4DFFNo tienes suficiente Miaufrutos.^000000"
+    },
+    "hFD4DA": {
+        "ko": "[쇼콜라]\n아! 마침 모험가님께서 해주실 일이 있었어요.\n잠깐, 준비가 필요해요.\n정말로 오늘 축제 준비를 도와주실거라면\n다시 말을 걸어주시겠어요?",
+        "en": "[Chocola]\nAh! Just in time, Adventurer. There's something I need you to do.\nWait a moment, I need to prepare.\nIf you really want to help prepare for today's festival,\nplease talk to me again.",
+        "pt": "[Chocolai]\nAh! Bem a tempo, Viajante. Há algo que preciso que você faça.\nEspere um momento, preciso de me preparar.\nSe você realmente quer ajudar a preparar o festival de hoje,\npor favor, fale comigo novamente.",
+        "es": "[Chocolai]\n¡Ah! Justo a tiempo, Trotamundos. Hay algo que necesito que hagas.\nEspera un momento, necesito prepararme.\nSi realmente quieres ayudar a preparar el festival de hoy,\npor favor, vuelve a hablarme."
+    },
+    "hVD4DA": {
+        "ko": "[쇼콜라]\n일전에 스윗츠 메뉴들을 전달했던 사람들을 기억하나요?\n그들에게 한번 더 스윗츠를 선물하려고 해요.",
+        "en": "[Chocola]\nDo you remember the people you delivered sweets menus to before?\nI want to give them sweets once more.",
+        "pt": "[Chocolai]\nLembra-se das pessoas a quem você entregou menus de doces antes?\nQuero dar-lhes doces mais uma vez.",
+        "es": "[Chocolai]\n¿Recuerdas a las personas a las que les entregaste menús de dulces antes?\nQuiero darles dulces una vez más."
+    },
+    "hlD4DA": {
+        "ko": "[쇼콜라]\n스윗츠 메뉴를 전달했을 때, 사람들이 기뻐하는 모습을 보셨죠?\n그들에게 사랑을 전하는 것, 반복하면 더 큰 기쁨이 되는 거니까요!\n선물을 전달하는 행사에 동참하시겠어요?",
+        "en": "[Chocola]\nWhen you delivered the sweets menus, you saw how happy people were, right?\nDelivering love to them brings even greater joy when repeated!\nWill you join this gift-giving event?",
+        "pt": "[Chocolai]\nQuando você entregou os menus de doces, viu como as pessoas estavam felizes, certo?\nEntregar amor a elas traz ainda mais alegria quando é repetido!\nVocê vai participar deste evento de oferta de presentes?",
+        "es": "[Chocolai]\nCuando entregaste los menús de dulces, viste lo feliz que estaba la gente, ¿verdad?\n¡Entregarles amor trae aún más alegría cuando se repite!\n¿Te unirás a este evento de regalar regalos?"
+    },
+    "h1D4DA": {
+        "ko": "응 물론이지.",
+        "en": "Yes, of course.",
+        "pt": "Sim, claro.",
+        "es": "Sí, claro."
+    },
+    "iFD4DA": {
+        "ko": "아니, 다음에 할게.",
+        "en": "No, I'll do it later.",
+        "pt": "Não, farei mais tarde.",
+        "es": "No, lo haré más tarde."
+    },
+    "iVD4DA": {
+        "ko": "[쇼콜라]\n좋아욧!\n동참하실 것이라 믿고 있었지요!!",
+        "en": "[Chocola]\nGreat!\nI believed you would join!!",
+        "pt": "[Chocolai]\nÓtimo!\nAcreditei que você participaria!!",
+        "es": "[Chocolai]\n¡Genial!\n¡¡Creía que te unirías!!"
+    },
+    "ilD4DA": {
+        "ko": "[쇼콜라]\n일전에 전달했던 5명의 사람들을 기억하시죠?\n스윗츠 상점들로부터 메뉴를 받아 두었어요.\n그들에게 스윗츠 메뉴를 한번 더 전달해주시면 됩니다!",
+        "en": "[Chocola]\nYou remember the 5 people you delivered to before, right?\nI've received the menus from the Sweets Shops.\nJust deliver the sweets menus to them once more!",
+        "pt": "[Chocolai]\nVocê se lembra das 5 pessoas a quem entregou antes, certo?\nRecebi os menus das Lojas de Doces.\nBasta entregar os menus de doces a elas mais uma vez!",
+        "es": "[Chocolai]\n¿Recuerdas a las 5 personas a las que entregaste antes, verdad?\nHe recibido los menús de las Tiendas de Dulces.\n¡Solo tienes que entregarles los menús de dulces una vez más!"
+    },
+    "i1D4DA": {
+        "ko": "[쇼콜라]\n그럼, 우리 사랑의 전령님! 부탁드려요!",
+        "en": "[Chocola]\nThen, our love herald! I leave it to you!",
+        "pt": "[Chocolai]\nEntão, nosso arauto do amor! Eu deixo isso consigo!",
+        "es": "[Chocolai]\n¡Entonces, nuestro heraldo del amor! ¡Te lo dejo a ti!"
+    },
+    "jFD4DA": {
+        "ko": "[쇼콜라]\n앗..아앗.. 아아앗...\n아...아쉬워라.",
+        "en": "[Chocola]\nAh.. aah.. aaaah...\nAh... such a shame.",
+        "pt": "[Chocolai]\nAh.. aah.. aaaah...\nAh... que pena.",
+        "es": "[Chocolai]\nAh.. aah.. aaaah...\nAh... qué pena."
+    },
+    "jVD4DA": {
+        "ko": "[쇼콜라]\n어서와요~ 첫번째 전령님!\n어디보자.. 모두에게 전달하셨군요!\n정말 수고하셨어요!",
+        "en": "[Chocola]\nWelcome, First herald!\nLet's see... You've delivered to everyone!\nYou've worked hard!",
+        "pt": "[Chocolai]\nBoas-vindas, Primeiro Arauto!\nDeixe-me ver... Você entregou a todos!\nVocê trabalhou muito!",
+        "es": "[Chocolai]\n¡Bienvenido, Primer Heraldo!\nA ver... ¡Has entregado a todo el mundo!\n¡Has trabajado duro!"
+    },
+    "jlD4DA": {
+        "ko": "[쇼콜라]\n자, 오늘의 일당이랍니다~\n이제부턴 스윗츠 축제를 즐겨주세요!",
+        "en": "[Chocola]\nHere's your daily wages.\nNow go enjoy the Sweets Festival!",
+        "pt": "[Chocolai]\nAqui está o seu salário diário.\nAgora vá aproveitar o Chocomania!",
+        "es": "[Chocolai]\nAquí está tu paga diari.\n¡Ahora ve a disfrutar del Festival de los Dulces!"
+    },
+    "j1D4DA": {
+        "ko": "[쇼콜라]\n일전에 만났던 5명의 사람들에게 스윗츠 메뉴를 전해주세요.",
+        "en": "[Chocola]\nPlease deliver the sweets menus to the 5 people you met before.",
+        "pt": "[Chocolai]\nPor favor, entregue os menus de doces às 5 pessoas que conheceu antes.",
+        "es": "[Chocolai]\nPor favor, entrega los menús de dulces a las 5 personas que conociste antes."
+    },
+    "kFD4DA": {
+        "ko": "^4D4DFF크리엔^000000님에게 전달 완료.",
+        "en": "Delivered to ^4D4DFFCherry^000000.",
+        "pt": "Entregue a ^4D4DFFRadigunda^000000.",
+        "es": "Entregado a ^4D4DFFCereza^000000."
+    },
+    "kVD4DA": {
+        "ko": "^4D4DFF크리엔^000000님에게 전달 미완료.",
+        "en": "Not delivered to ^4D4DFFCherry^000000.",
+        "pt": "Não entregue a ^4D4DFFRadigunda^000000.",
+        "es": "No entregado a ^4D4DFFCereza^000000."
+    },
+    "klD4DA": {
+        "ko": "^4D4DFF라시스^000000님에게 전달 완료.",
+        "en": "Delivered to ^4D4DFFBlossom^000000.",
+        "pt": "Entregue a ^4D4DFFAcheropita^000000.",
+        "es": "Entregado a ^4D4DFFFlorinda^000000."
+    },
+    "k1D4DA": {
+        "ko": "^4D4DFF라시스^000000님에게 전달 미완료.",
+        "en": "Not delivered to ^4D4DFFBlossom^000000.",
+        "pt": "Não entregue a ^4D4DFFAcheropita^000000.",
+        "es": "No entregado a ^4D4DFFFlorinda^000000."
+    },
+    "lFD4DA": {
+        "ko": "^4D4DFF엘트산^000000님에게 전달 완료.",
+        "en": "Delivered to ^4D4DFFWalnuts^000000.",
+        "pt": "Entregue a ^4D4DFFClarisbadeu^000000.",
+        "es": "Entregado a ^4D4DFFNuex^000000."
+    },
+    "lVD4DA": {
+        "ko": "^4D4DFF엘트산^000000님에게 전달 미완료.",
+        "en": "Not delivered to ^4D4DFFWalnuts^000000.",
+        "pt": "Não entregue a ^4D4DFFClarisbadeu^000000.",
+        "es": "No entregado a ^4D4DFFNuex^000000."
+    },
+    "llD4DA": {
+        "ko": "^4D4DFF안트^000000님에게 전달 완료.",
+        "en": "Delivered to ^4D4DFFCinnamon^000000.",
+        "pt": "Entregue a ^4D4DFFHolofontinhol^000000.",
+        "es": "Entregado a ^4D4DFFCanel^000000."
+    },
+    "l1D4DA": {
+        "ko": "^4D4DFF안트^000000님에게 전달 미완료.",
+        "en": "Not delivered to ^4D4DFFCinnamon^000000.",
+        "pt": "Não entregue a ^4D4DFFHolofontinhol^000000.",
+        "es": "No entregado a ^4D4DFFCanel^000000."
+    },
+    "mFD4DA": {
+        "ko": "^4D4DFF채이^000000님에게 전달 완료.",
+        "en": "Delivered to ^4D4DFFHazel^000000.",
+        "pt": "Entregue a ^4D4DFFChai^000000.",
+        "es": "Entregado a ^4D4DFFAvellana^000000."
+    },
+    "mVD4DA": {
+        "ko": "^4D4DFF채이^000000님에게 전달 미완료.",
+        "en": "Not delivered to ^4D4DFFHazel^000000.",
+        "pt": "Não entregue a ^4D4DFFChai^000000.",
+        "es": "No entregado a ^4D4DFFAvellana^000000."
+    },
+    "mlD4DA": {
+        "ko": "[쇼콜라]\n모든 사람에게 전달이 되어야 이번 임무가 완료랍니다!",
+        "en": "[Chocola]\nThe mission is only complete when delivered to everyone!",
+        "pt": "[Chocolai]\nA missão só está completa quando entregue a todos!",
+        "es": "[Chocolai]\n¡La misión solo se completa cuando se entrega a todo el mundo!"
+    },
+    "m1D4DA": {
+        "ko": "[쇼콜라]\n스윗츠 드롭프스 녀석들도 지금쯤 경계를 하느라 창고 털 생각은 못할거에요.\n당분간은 괜찮겠죠.\n모험가님은 축제를 즐겨주세요!",
+        "en": "[Chocola]\nThe Sweet Drops should be on guard right now and won't think of raiding the warehouse.\nThey should be fine for a while.\nYou go enjoy the festival, Adventurer!",
+        "pt": "[Chocolai]\nOs Quindings devem estar agora de guarda e não pensarão em invadir o armazém.\nEles devem ficar bem por um tempo.\nVá aproveitar o festival, Viajante!",
+        "es": "[Chocolai]\nLos Poriflanes deberían estar alerta ahora mismo y no pensarán en asaltar el almacén.\nDeberían estar bien por un tiempo.\nVe y disfruta del festival, Trotamundos."
+    },
+    "nFD4DA": {
+        "ko": "[쇼콜라]\n오, 그러보고니 스윗츠 드롭프스가 있었죠.\n이 녀석들, 또 창고를 털러 올거에요.\n응징의 준비가 되셨다면 저에게 다시 말을 걸어 주세요!",
+        "en": "[Chocola]\nOh, speaking of which, there are the Sweet Drops.\nThose fellows will come to raid the warehouse again.\nIf you're ready to punish them, please talk to me again!",
+        "pt": "[Chocolai]\nAh, por falar nisso, aí estão os Quindings.\nEsses indivíduos virão invadir o armazém novamente.\nSe você estiver pronto para os punir, por favor, fale comigo novamente!",
+        "es": "[Chocolai]\nAh, hablando de eso, ahí están los Poriflanes.\nEsos tipos vendrán a asaltar el almacén de nuevo.\nSi estás list@ para castigarlos, ¡por favor, vuelve a hablarme!"
+    },
+    "nVD4DA": {
+        "ko": "[쇼콜라]\n그렇지, ^4D4DFF스윗츠 드롭프스^000000를 꾸준히 퇴치해야 하죠!\n스윗츠 축제가 진행되는 동안은 아마 매일 해야 할 거에요.",
+        "en": "[Chocola]\nThat's right, we need to consistently defeat the ^4D4DFFSweet Drops^000000!\nWe'll probably need to do it every day during the Sweets Festival.",
+        "pt": "[Chocolai]\nÉ mesmo, precisamos de derrotar consistentemente os ^4D4DFFQuindings^000000!\nProvavelmente precisaremos fazê-lo todos os dias durante o Chocomania.",
+        "es": "[Chocolai]\n¡Así es, necesitamos derrotar constantemente a los ^4D4DFFPoriflanes^000000!\nProbablemente tendremos que hacerlo cada día durante el Festival de los Dulces."
+    },
+    "nlD4DA": {
+        "ko": "퇴치 하겠다.",
+        "en": "I will defeat them.",
+        "pt": "Eu os derrotarei.",
+        "es": "Los derrotaré."
+    },
+    "n1D4DA": {
+        "ko": "거절 한다.",
+        "en": "I refuse.",
+        "pt": "Eu recuso.",
+        "es": "Me niego."
+    },
+    "oFD4DA": {
+        "ko": "[쇼콜라]\n좋아요!\n그럼, 스윗츠 드롭프스의 응징은 모험가님께 맡기겠어요!\n자, 언제나처럼 ^4D4DFF스윗츠 드롭프스 10마리^000000를 처치하시죠!",
+        "en": "[Chocola]\nGreat!\nThen, I'll leave the punishment of the Sweet Drops to you, Adventurer!\nNow, as always, defeat 10 ^4D4DFFSweet Drops^000000!",
+        "pt": "[Chocolai]\nÓtimo!\nEntão, eu deixo o castigo dos Quindings consigo, Viajante!\nAgora, como sempre, derrote 10 ^4D4DFFQuindings^000000!",
+        "es": "[Chocolai]\n¡Genial!\n¡Entonces, te dejo el castigo de los Poriflanes a ti, Trotamundos!\n¡Ahora, como siempre, derrota 10 ^4D4DFFPoriflanes^000000!"
+    },
+    "oVD4DA": {
+        "ko": "[쇼콜라]\n앗.. 아아.. 겸사 겸사 받아 두셔도 될텐데...",
+        "en": "[Chocola]\nAh.. aah... You could have taken it while you were at it...",
+        "pt": "[Chocolai]\nAh.. aah... Você podia tê-lo aceitado enquanto cá estava...",
+        "es": "[Chocolai]\nAh.. aah... Podrías habérnoslo quedado mientras estabas..."
+    },
+    "olD4DA": {
+        "ko": "[쇼콜라]\n그럼, 스윗츠 드롭프스의 응징은 모험가님께 맡기겠어요!\n자, 언제나처럼 스윗츠 드롭프스 10마리를 처치하시죠!",
+        "en": "[Chocola]\nThen, I'll leave the punishment of the Sweet Drops to you, Adventurer!\nNow, as always, defeat 10 Sweet Drops!",
+        "pt": "[Chocolai]\nEntão, eu deixo o castigo dos Quindings consigo, Viajante!\nAgora, como sempre, derrote 10 Quindings!",
+        "es": "[Chocolai]\n¡Entonces, te dejo el castigo de los Poriflanes a ti, Trotamundos!\n¡Ahora, como siempre, derrota 10 Poriflanes!"
+    },
+    "o1D4DA": {
+        "ko": "[쇼콜라]\n스윗츠 드롭프스를 응징하고 오셨군요!\n오늘도 창고를 사수했네요!",
+        "en": "[Chocola]\nYou've come back from punishing the Sweet Drops!\nWe've defended the warehouse again today!",
+        "pt": "[Chocolai]\nVocê voltou de punir os Quindings!\nNós defendemos o armazém novamente hoje!",
+        "es": "[Chocolai]\n¡Has vuelto de castigar a los Poriflanes!\n¡Hemos defendido el almacén otra vez hoy!"
+    },
+    "pFD4DA": {
+        "ko": "[쇼콜라]\n정말 수고하셨습니다.\n아아, 정말로 모험가님 안계셨으면 어쩔뻔했는지..\n이건 감사의 뜻으로 드리는 보답이에요.",
+        "en": "[Chocola]\nYou've worked really hard.\nAh, what would I have done without you, Adventurer..\nThis is a reward as a token of my gratitude.",
+        "pt": "[Chocolai]\nVocê trabalhou muito.\nAh, o que teria feito sem você, Viajante..\nIsto é uma recompensa como prova da minha gratidão.",
+        "es": "[Chocolai]\nHas trabajado muy duro.\nAh, qué habría hecho sin ti, Trotamundos..\nEsto es una recompensa como muestra de mi gratitud."
+    },
+    "pVD4DA": {
+        "ko": "[쇼콜라]\n그럼 스윗츠 축제 즐겨 주세요!",
+        "en": "[Chocola]\nNow, enjoy the Sweets Festival!",
+        "pt": "[Chocolai]\nAgora, aproveite o Chocomania!",
+        "es": "[Chocolai]\n¡Ahora, disfruta del Festival de los Dulces!"
+    },
+    "plD4DA": {
+        "ko": "[쇼콜라]\n모험가님, ^4D4DFF숙성된 카카오콩^000000 1개를 가져오시면 ^4D4DFF스윗츠 코인^000000 30개를 드리고 있습니다.",
+        "en": "[Chocola]\nAdventurer, I'm giving 30 ^4D4DFFSweet Coin^000000 for every 1 ^4D4DFFRipe Cacao Bean^000000 you bring me.",
+        "pt": "[Chocolai]\nViajante, estou dando ^4D4DFF30 Chocoedas^000000 por cada ^4D4DFF1 Grão de Cacau Maduro^000000 que me trouxer.",
+        "es": "[Chocolai]\nTrotamundos, te voy a dar 30 ^4D4DFFChocomoneda^000000 por cada 1 ^4D4DFFGrano de Cacao Maduro^000000 que me traigas."
+    },
+    "p1D4DA": {
+        "ko": "[쇼콜라]\n가지고 계신 숙성된 카카오콩을 코인으로 교환하시겠어요?",
+        "en": "[Chocola]\nWould you like to exchange your Ripe Cacao Beans for Coins?",
+        "pt": "[Chocolai]\nGostaria de trocar os seus grãos de cacau maduros por Chocoedas?",
+        "es": "[Chocolai]\n¿Quieres intercambiar tus Granos de Cacao Maduros por Chocomonedas?"
+    },
+    "qFD4DA": {
+        "ko": "교환한다.",
+        "en": "Exchange.",
+        "pt": "Trocar.",
+        "es": "Intercambiar."
+    },
+    "qVD4DA": {
+        "ko": "교환하지 않는다.",
+        "en": "Don't exchange.",
+        "pt": "Não trocar.",
+        "es": "No intercambiar."
+    },
+    "qlD4DA": {
+        "ko": "[쇼콜라]\n가지고 계신 숙성된 카카오콩을 모두 코인으로 바꿔드렸습니다!!",
+        "en": "[Chocola]\nI've exchanged all your Ripe Cacao Beans for Coins!!",
+        "pt": "[Chocolai]\nTroquei todos os seus grãos de cacau maduros por Chocoedas!!",
+        "es": "[Chocolai]\n¡¡He intercambiado todos tus Granos de Cacao Maduros por Chocomonedas!!"
+    },
+    "q1D4DA": {
+        "ko": "[쇼콜라]\n^4D4DFF숙성된 카카오콩^000000을 가지고 있지 않으세요~",
+        "en": "[Chocola]\nYou don't have any ^4D4DFFRipe Cacao Bean^000000~",
+        "pt": "[Chocolai]\nVocê não tem nenhum ^4D4DFFGrão de Cacau Maduro^000000~",
+        "es": "[Chocolai]\nNo tienes ningún ^4D4DFFGrano de Cacao Maduro^000000~"
+    },
+    "rFD4DA": {
+        "ko": "[쇼콜라]\n^4D4DFF더부룩한 스윗츠링^000000을 처치하면 얻으실 수 있습니다.",
+        "en": "[Chocola]\nYou can get them by defeating ^4D4DFFBloated Sweets Rings^000000.",
+        "pt": "[Chocolai]\nPode obtê-los derrotando ^4D4DFFAnéis de Doce Inchados^000000.",
+        "es": "[Chocolai]\nPuedes obtenerlos derrotando a ^4D4DFFAnillos Dulces Hinchados^000000."
+    },
+    "rVD4DA": {
+        "ko": "[쇼콜라]\n그러시군요~",
+        "en": "[Chocola]\nI see~",
+        "pt": "[Chocolai]\nEntendo~",
+        "es": "[Chocolai]\nYa veo~"
+    },
+    "rlD4DA": {
+        "ko": "[쇼콜라]\n소장하고 계신 것 보다는 저에게 전달해 주시는 쪽이 여러모로 좋다고 생각합니다만...",
+        "en": "[Chocola]\nI think it's better for you to hand them over to me rather than keep them...",
+        "pt": "[Chocolai]\nAcho melhor entregá-los a mim do que guardá-los...",
+        "es": "[Chocolai]\nCreo que es mejor que me los entregues a mí en lugar de guardarlos..."
+    },
+    "r1D4DA": {
+        "ko": "[쇼콜라]\n호홋...\n아직 여유가 넘치시는구나?\n스윗츠 코인 가지고 저희 스윗츠 상점 매상 좀 올려주세요. 호호홋",
+        "en": "[Chocola]\nHo hot...\nStill feeling generous?\nUse your Sweet Coins to boost our Sweets Shop sales. Ho ho hot.",
+        "pt": "[Chocolai]\nHo hot...\nAinda se sentindo generoso(a)?\nUse as suas Chocoedas para aumentar as vendas da nossa Loja de Doces. Ho ho hot.",
+        "es": "[Chocolai]\nJo jo...\n¿Todavía te sientes generos@?\nUsa tus Chocomonedas para aumentar las ventas de nuestra Tienda de Dulces. Jo jo jo."
+    },
+    "sFD4DA": {
+        "ko": "크리엔",
+        "en": "Cherry",
+        "pt": "Radigunda",
+        "es": "Cereza"
+    },
+    "sVD4DA": {
+        "ko": "크레이프 고마워요! 잘 먹을게요!",
+        "en": "Thank you for the crepe! I'll enjoy it!",
+        "pt": "Obrigado pelo crepe! Vou apreciá-lo!",
+        "es": "¡Gracias por el crepe! ¡Lo disfrutaré!"
+    },
+    "slD4DA": {
+        "ko": "...손님들에게 스윗츠를 모두 선물했다. 쇼콜라에게 돌아가 보고하자....",
+        "en": "...I have given all the sweets to the guests. I should return to Chocola and report...",
+        "pt": "...Eu dei todos os doces aos convidados. Devo voltar para a Chocolai e reportar...",
+        "es": "...He repartido todos los dulces a los invitados. Debería volver donde Chocolai y reportar..."
+    },
+    "s1D4DA": {
+        "ko": "[크리엔]\n어... 안녕하세요.\n달콤한 기운이 사방에서 느껴지네요...\n하지만 저는 달콤하지 않답니다.",
+        "en": "[Cherry]\nUh... Hello.\nI can feel a sweet vibe coming from all around...\nBut I'm not sweet.",
+        "pt": "[Radigunda]\nHum... Olá.\nConsigo sentir uma vibração doce vindo de todos os lados...\nMas eu não sou doce.",
+        "es": "[Cereza]\nEh... Hola.\nPuedo sentir una vibra dulce viniendo de todos lados...\nPero yo no soy dulce."
+    },
+    "tFD4DA": {
+        "ko": "[크리엔]\n사랑하는 사람에게 스윗츠를 선물하는 축제.\n저와는 별로 관련이 없는 것 같아요...",
+        "en": "[Cherry]\nA festival where you give sweets to your loved ones.\nIt doesn't seem very relevant to me...",
+        "pt": "[Radigunda]\nUm festival onde se dão doces aos seus entes queridos.\nNão me parece muito relevante...",
+        "es": "[Cereza]\nUn festival donde das dulces a tus seres queridos.\nNo me parece muy relevante..."
+    },
+    "tVD4DA": {
+        "ko": "[크리엔]\n왜 저는 아무것도 받지 못하는 걸까요?\n내가 매력이 없는건가?\n아니야.. 그럴리가 없는데...?",
+        "en": "[Cherry]\nWhy don't I ever receive anything?\nAm I unattractive?\nNo.. that can't be right...?",
+        "pt": "[Radigunda]\nPorque é que nunca recebo nada?\nSou pouco atraente?\nNão.. isso não pode estar certo...?",
+        "es": "[Cereza]\n¿Por qué nunca recibo nada?\n¿Es que no soy atractiv@?\nNo.. eso no puede estar bien...?"
+    },
+    "tlD4DA": {
+        "ko": "자, 여기 이거 받아.",
+        "en": "Here, take this.",
+        "pt": "Aqui, pega isto.",
+        "es": "Toma, coge esto."
+    },
+    "t1D4DA": {
+        "ko": "[크리엔]\n아... 이것은 크레이프네요...!\n달콤한 냄새가....\n제가 가장 좋아하는 스윗츠 메뉴인 것은 어떻게 아셨을까...",
+        "en": "[Cherry]\nAh... This is a crepe...!\nA sweet smell....\nHow did you know this is my favorite sweets menu...",
+        "pt": "[Radigunda]\nAh... Isto é um crepe...!\nUm cheiro doce....\nComo é que soube que este é o meu menu de doces favorito...",
+        "es": "[Cereza]\nAh... ¡Esto es un crepe...!\nUn olor dulce....\n¿Cómo supiste que este es mi menú de dulces favorito..."
+    },
+    "uFD4DA": {
+        "ko": "[크리엔]\n혹시... 저를 사랑하시나요??\n아... 이웃을 사랑하는 마음..!\n그래요. 맞아...",
+        "en": "[Cherry]\nDo you... perhaps love me??\nAh... love for your neighbor..!\nThat's right. Exactly...",
+        "pt": "[Radigunda]\nVocê... por acaso ama-me??\nAh... amor ao próximo..!\nÉ isso mesmo. Exatamente...",
+        "es": "[Cereza]\n¿Acaso... me amas??\nAh... amor al prójimo..!\nAsí es. Exactamente..."
+    },
+    "uVD4DA": {
+        "ko": "[크리엔]\n사랑 받기 위해서는 남을 사랑할 줄도 알아야 하는건데,\n제가 타인에게 그런 마음을 베푼 적이 없었던 것 같아요.",
+        "en": "[Cherry]\nTo be loved, you need to know how to love others,\nbut I realize I've never given that kind of feeling to anyone else.",
+        "pt": "[Radigunda]\nPara ser amado, precisamos saber amar os outros,\nmas apercebo-me de que nunca dei esse tipo de sentimento a ninguém.",
+        "es": "[Cereza]\nPara ser amado, necesitas saber amar a los demás,\npero me doy cuenta de que nunca he dado ese tipo de sentimiento a nadie más."
+    },
+    "ulD4DA": {
+        "ko": "[크리엔]\n감사합니다. 달콤한 크레이프는 정말 감사히 잘 먹을게요.\n그 소중한 마음, 잘 전달받았습니다.\n저도 이 축제에 동참해야겠어요.",
+        "en": "[Cherry]\nThank you. I'll gladly enjoy this sweet crepe.\nI've received that precious feeling well.\nI should join this festival too.",
+        "pt": "[Radigunda]\nObrigada. Vou apreciar este crepe doce com prazer.\nRecebi bem esse sentimento precioso.\nEu deveria participar neste festival também.",
+        "es": "[Cereza]\nGracias. Disfrutaré mucho este dulce crepe.\nHe recibido bien ese sentimiento tan valioso.\nDebería unirme a este festival también."
+    },
+    "u1D4DA": {
+        "ko": "모든 스윗츠를 손님들에게 선물했다.\n쇼콜라에게 돌아가 보고하자.",
+        "en": "I have given all the sweets to the guests. I should return to Chocola and report.",
+        "pt": "Eu dei todos os doces aos convidados. Devo voltar para a Chocolai e reportar.",
+        "es": "He repartido todos los dulces a los invitados. Debería volver donde Chocolai y reportar."
+    },
+    "vFD4DA": {
+        "ko": "아직 스윗츠를 전달하지 않은 손님이 있다.",
+        "en": "There are still guests I haven't given sweets to.",
+        "pt": "Ainda há convidados a quem não dei doces.",
+        "es": "Todavía hay invitados a los que no les he dado dulces."
+    },
+    "vVD4DA": {
+        "ko": "쇼콜라가 부탁했던 달콤한 크레이프가 없다...!\n스윗츠 상점에서 사와야 할까?",
+        "en": "I don't have the sweet crepe that Chocola asked for!\nShould I buy one from the Sweets Shop?",
+        "pt": "Eu não tenho o crepe doce que a Chocolai pediu!\nDevo comprar um na Loja de Doces?",
+        "es": "¡No tengo el crepe dulce que me pidió Chocolai!\n¿Debería comprar uno en la Tienda de Dulces?"
+    },
+    "vlD4DA": {
+        "ko": "[크리엔]\n어... 안녕하세요.\n또 뵙네요. 모험가님.\n저에게 무슨 볼일이신가요?",
+        "en": "[Cherry]\nUh... Hello.\nWe meet again, Adventurer.\nWhat business do you have with me?",
+        "pt": "[Radigunda]\nHum... Olá.\nEncontramo-nos novamente, Viajante.\nQue assunto tem comigo?",
+        "es": "[Cereza]\nEh... Hola.\nNos encontramos de nuevo, Trotamundos.\n¿Qué asunto tienes conmigo?"
+    },
+    "v1D4DA": {
+        "ko": "[크리엔]\n아... 이 달콤한 크레이프..!\n저에게 또 주시는건가요?\n감사해요... 감동적이네요.",
+        "en": "[Cherry]\nAh... this sweet crepe..!\nAre you giving it to me again?\nThank you... I'm touched.",
+        "pt": "[Radigunda]\nAh... este crepe doce..!\nVais dar-mo outra vez?\nObrigado... Estou comovido.",
+        "es": "[Cereza]\nAh... ¡este crepe dulce..!\n¿Me lo vas a dar otra vez?\nGracias... Estoy conmovida."
+    },
+    "wFD4DA": {
+        "ko": "[크리엔]\n이웃에게 나누는 사랑.\n그것이 반복되면 더욱 기쁨이 충만해진다는 것.\n덕분에 잘 알았습니다.\n감사해요. 모험가님도 기쁨으로 충만해지시기를.",
+        "en": "[Cherry]\nThe love shared with neighbors.\nWhen repeated, it fills you with even more joy.\nThanks to you, I've learned that well.\nThank you. I hope you too are filled with joy, Adventurer.",
+        "pt": "[Radigunda]\nO amor partilhado com os vizinhos.\nQuando repetido, enche-nos com ainda mais alegria.\nGraças a ti, aprendi isso bem.\nObrigado. Espero que tu também estejas cheio de alegria, Viajante.",
+        "es": "[Cereza]\nEl amor compartido con los vecinos.\nCuando se repite, te llena de aún más alegría.\nGracias a ti, lo he aprendido bien.\nGracias. Espero que tú también estés llen@ de alegría, Trotamundos."
+    },
+    "wVD4DA": {
+        "ko": "[크리엔]\n고마워요, 모험가님.\n즐거운 축제 되시길.",
+        "en": "[Cherry]\nThank you, Adventurer.\nHave a joyful festival.",
+        "pt": "[Radigunda]\nObrigado, Viajante.\nTenha um festival alegre.",
+        "es": "[Cereza]\nGracias, Trotamundos.\nTen un festival alegre."
+    },
+    "wlD4DA": {
+        "ko": "[크리엔]\n올 해에도... 난...\n이렇게... 쓸쓸하게...?\n...정말로?",
+        "en": "[Cherry]\nAgain this year... I'm...\nSo... lonely...?\n...Really?",
+        "pt": "[Radigunda]\nMais um ano... eu estou...\nTão... sozinho...?\n...A sério?",
+        "es": "[Cereza]\nOtro año más... yo estoy...\nTan... sola...?\n...¿En serio?"
+    },
+    "w1D4DA": {
+        "ko": "라시스",
+        "en": "Blossom",
+        "pt": "Acheropita",
+        "es": "Florinda"
+    },
+    "xFD4DA": {
+        "ko": "µþ±â »ýÅ©¸² ÄÅÄÉŸ?°í¸¶¿ö¿ä! Àß ¸ÔÀ»°Ô¿ä!",
+        "en": "Thank you for the strawberry cream cupcake! I'll enjoy it!",
+        "pt": "Obrigado pelo cupcake de morango! Vou apreciá-lo!",
+        "es": "¡Gracias por el Cupcake de Fresa y Crema! ¡Lo disfrutaré!"
+    },
+    "xVD4DA": {
+        "ko": "[라시스]\n안녕하세요.\n요즘 스윗츠 축제로 인해 프론테라에 달콤한 기운으로 가득 차 있군요!\n이맘 때가 되면 아련한 추억이 자꾸 떠오르는거 있죠.",
+        "en": "[Blossom]\nHello.\nThe Sweets Festival has filled Prontera with a sweet vibe!\nAt this time of year, I keep remembering a bittersweet memory.",
+        "pt": "[Acheropita]\nOlá.\nO Chocomania encheu Prontera de uma vibe doce!\nNesta altura do ano, não paro de me lembrar de uma memória agridoce.",
+        "es": "[Florinda]\nHola.\n¡El Festival de los Dulces ha llenado Prontera de una vibra dulce!\nEn esta época del año, no dejo de recordar un recuerdo agridulce."
+    },
+    "xlD4DA": {
+        "ko": "[라시스]\n±× ³²ÀÚµµ.. µþ±â »ýÅ©¸² ÄÅÄÉŸåÀ?Á¤¸» ÁÁ¾ÆÇß¾ú´Âµ¥...\n잘 지내고 있으려나 모르겠네요.",
+        "en": "[Blossom]\nThat man... loved strawberry cream cupcakes too...\nI wonder how he's doing.",
+        "pt": "[Acheropita]\nAquele homem... também adorava cupcakes de morango...\nGostava de saber como ele está.",
+        "es": "[Florinda]\nEse hombre... también amaba los pastelitos de fresa...\nMe pregunto cómo estará."
+    },
+    "x1D4DA": {
+        "ko": "[라시스]\n아, 그 사람은 지금 어디 있냐고요?\n모험을 떠났답니다. 지금의 모험가님처럼요.\n여기서... 같이 지내도 충분히 서로가 행복할 수 있는데...",
+        "en": "[Blossom]\nAh, you ask where he is now?\nHe left on an adventure. Just like you, Adventurer.\nWe could be perfectly happy together... here...",
+        "pt": "[Acheropita]\nAh, perguntas onde ele está agora?\nEle partiu numa aventura. Tal como tu, Viajante.\nNós podíamos ser perfeitamente felizes juntos... aqui...",
+        "es": "[Florinda]\nAh, ¿preguntas dónde está ahora?\nSe fue de aventura. Igual que tú, Trotamundos.\nPodríamos ser perfectamente felices juntos... aquí..."
+    },
+    "yFD4DA": {
+        "ko": "[라시스]\n±×°¡ Áö±Ý ¿©±â ÀÖ¾ú´Ù¸é, °°ÀÌ ¿Àº×ÇÏ°Ô µþ±â »ýÅ©¸² ÄÅÄÉŸåÀ?¸Ô¾úÀ»ÅÙµ¥...",
+        "en": "[Blossom]\nIf he were here right now, we'd be enjoying strawberry cream cupcakes together...",
+        "pt": "[Acheropita]\nSe ele estivesse aqui agora, estaríamos a saborear cupcakes de morango juntos...",
+        "es": "[Florinda]\nSi él estuviera aquí ahora, estaríamos disfrutando de pastelitos de fresa juntos..."
+    },
+    "yVD4DA": {
+        "ko": "[라시스]\n¾Æ... ÀÌ°ÍÀº µþ±â »ýÅ©¸² ÄÅÄÉŸ?.!\n와~ 구워낸지 얼마 되지 않은 것이네요...!\n저 혼자 먹기에는 너무 아쉽네요.",
+        "en": "[Blossom]\nAh... This is a strawberry cream cupcake..!\nWow~ It looks freshly baked...!\nIt's a shame to eat it alone.",
+        "pt": "[Acheropita]\nAh... Isto é um cupcake de morango..!\nUau~ Parece acabado de sair do forno...!\nÉ uma pena comê-lo sozinha.",
+        "es": "[Florinda]\nAh... ¡Esto es un Cupcake de Fresa y Crema..!\n¡Guau~ Parece recién horneado...!\nEs una pena comérselo sola."
+    },
+    "ylD4DA": {
+        "ko": "[라시스]\n그는 지금 어디 있을까요?\n정말 원하는 것이 있다면서 무작정 떠나버렸는데...\n그것이 저보다 중요한 것일까요?\n모험가님께서도 비슷한 결심을 한 것이겠죠?",
+        "en": "[Blossom]\nWhere could he be now?\nHe left recklessly, saying he wanted something...\nIs that more important than me?\nI suppose you've made a similar decision, Adventurer.",
+        "pt": "[Acheropita]\nOnde estará ele agora?\nPartiu de forma imprudente, dizendo que queria algo...\nIsso é mais importante do que eu?\nSuponho que você tenha tomado uma decisão semelhante, Viajante.",
+        "es": "[Florinda]\n¿Dónde estará ahora?\nSe fue imprudentemente, diciendo que quería algo...\n¿Eso es más importante que yo?\nSupongo que tú has tomado una decisión similar, Trotamundos."
+    },
+    "y1D4DA": {
+        "ko": "[라시스]\n°¨»çÇÕ´Ï´Ù. ÀÌ ÄÅÄÉŸåÀ?Á¤¸» °¨»çÈ÷ Àß ¸ÔÀ»°Ô¿ä.\n그와의 행복했던 기억이 다시 생생해지는 것 같아 정말 기뻐요.\n저는 계속 믿고 기다리려고요.",
+        "en": "[Blossom]\nThank you. I'll gladly enjoy this cupcake.\nI'm really happy because it makes the happy memories with him vivid again.\nI'll continue to believe and wait.",
+        "pt": "[Acheropita]\nObrigada. Vou apreciar este cupcake com prazer.\nEstou muito feliz porque torna as memórias felizes com ele vívidas novamente.\nContinuarei a acreditar e esperar.",
+        "es": "[Florinda]\nGracias. Disfrutaré mucho este pastelito.\nEstoy muy feliz porque hace que los recuerdos felices con él vuelvan a ser vívidos.\nSeguiré creyendo y esperando."
+    },
+    "zFD4DA": {
+        "ko": "[라시스]\n³»³â ÀÌ¸¾ ¶§¿¡´Â °°ÀÌ ÀÌ ´ÞÄÞÇÑ ÄÉŸåÀ?¸ÔÀ» ¼ö ÀÖ°ÚÁö...",
+        "en": "[Blossom]\nI hope we can eat this sweet cake together around this time next year...",
+        "pt": "[Acheropita]\nEspero que possamos comer este bolo doce juntos por esta altura no próximo ano...",
+        "es": "[Florinda]\nEspero que podamos comer este dulce pastel juntos por estas fechas el año que viene..."
+    },
+    "zVD4DA": {
+        "ko": "¼îÄÝ¶ó°¡ ºÎÅ¹Çß´ø µþ±â »ýÅ©¸² ÄÅÄÉŸåÀ?¾ø´Ù...!\n스윗츠 상점에서 사와야 할까?",
+        "en": "I don't have the strawberry cream cupcake that Chocola asked for...!\nShould I buy one from the Sweets Shop?",
+        "pt": "Eu não tenho o cupcake de morango que a Chocolai pediu...!\nDevo comprar um na Loja de Doces?",
+        "es": "¡No tengo el Cupcake de Fresa y Crema que me pidió Chocolai...!\n¿Debería comprar uno en la Tienda de Dulces?"
+    },
+    "zlD4DA": {
+        "ko": "[라시스]\n안녕하세요.\n스윗츠 축제는 잘 즐기고 계신가요?\n그런데 무슨 일이시죠?",
+        "en": "[Blossom]\nHello.\nAre you enjoying the Sweets Festival?\nBut what brings you here?",
+        "pt": "[Acheropita]\nOlá.\nEstá gostando do Chocomania?\nMas o que a traz aqui?",
+        "es": "[Florinda]\nHola.\n¿Estás disfrutando del Festival de los Dulces?\n¿Pero qué te trae por aquí?"
+    },
+    "z1D4DA": {
+        "ko": "[라시스]\n아... 이것을 저에게 또 주시는 건가요?\n착하기도 하셔라...\n고마워요. 잘 먹을게요.",
+        "en": "[Blossom]\nAh... Are you giving this to me again?\nHow kind of you...\nThank you. I'll enjoy it.",
+        "pt": "[Acheropita]\nAh... Vai dar-me isto outra vez?\nTão gentil da sua parte...\nObrigada. Vou apreciá-lo.",
+        "es": "[Florinda]\nAh... ¿Me vas a dar esto otra vez?\nQué amable por tu parte...\nGracias. Lo disfrutaré."
+    },
+    "0FD4DA": {
+        "ko": "[라시스]\n저는 잘 견뎌내고 있답니다.\nÀúÀÇ ±í¾ú´ø ½½ÇÄÀÌ ÀÌ ´ÞÄÞÇÑ ÄÉŸåÀ¸·?Á¶±ÝÀÌ³ª¸¶ ÇØ¼ÒµÇ´Â ´À³¦ÀÌ¿¡¿ä.",
+        "en": "[Blossom]\nI'm enduring well.\nI feel like my deep sadness is being alleviated a little by this sweet cake.",
+        "pt": "[Acheropita]\nEstou a aguentar bem.\nSinto que a minha profunda tristeza está a ser aliviada um pouco por este bolo doce.",
+        "es": "[Florinda]\nEstoy aguantando bien.\nSiento que mi profunda tristeza se está aliviando un poco con este dulce pastel."
+    },
+    "0VD4DA": {
+        "ko": "[라시스]\n모험가님의 앞길에는 기쁨으로 가득 차기를 기원할게요.\n감사합니다.",
+        "en": "[Blossom]\nI wish for your path ahead to be filled with joy.\nThank you.",
+        "pt": "[Acheropita]\nDesejo que o seu caminho à frente seja cheio de alegria.\nObrigada.",
+        "es": "[Florinda]\nDeseo que tu camino por delante esté lleno de alegría.\nGracias."
+    },
+    "0lD4DA": {
+        "ko": "[라시스]\n고마워요, 모험가님.\n저, 잘 견뎌볼게요!",
+        "en": "[Blossom]\nThank you, Adventurer.\nI'll endure well!",
+        "pt": "[Acheropita]\nObrigada, Viajante.\nEu vou aguentar bem!",
+        "es": "[Florinda]\nGracias, Trotamundos.\n¡Aguantaré bien!"
+    },
+    "01D4DA": {
+        "ko": "[라시스]\n달콤한 냄새가 가득하네요.\n스윗츠 축제 시즌이 벌써 돌아오다니...\n아... 딸기맛 같았던 내 사랑...",
+        "en": "[Blossom]\nThe air is full of sweet scents.\nThe Sweets Festival season is already back...\nAh... my love that tasted like strawberries...",
+        "pt": "[Acheropita]\nO ar está cheio de cheiros doces.\nA época do Chocomania já voltou...\nAh... o meu amor que sabia a morangos...",
+        "es": "[Florinda]\nEl aire está lleno de olores dulces.\nLa temporada del Festival de los Dulces ya ha vuelto...\nAh... mi amor que sabía a fresas..."
+    },
+    "1FD4DA": {
+        "ko": "엘트산",
+        "en": "Walnuts",
+        "pt": "Clarisbadeu",
+        "es": "Nuex"
+    },
+    "1VD4DA": {
+        "ko": "과일 파르페 고마워요! 잘 먹을게요!",
+        "en": "Thank you for the fruit parfait! I'll enjoy it!",
+        "pt": "Obrigado pela parfait de frutas! Vou apreciá-la!",
+        "es": "¡Gracias por la parfait de frutas! ¡La disfrutaré!"
+    },
+    "1lD4DA": {
+        "ko": "[엘트산]\n안녕하세요.\n스윗츠 축제가 열렸네요. 다들 행복한 시간을 보내고 있는 것 같아요.\n아... 저도 행복할 예정이었는데...\n저의 모든 계획이 다 무너지고 말았어요.",
+        "en": "[Walnuts]\nHello.\nThe Sweets Festival is being held. Everyone seems to be having a happy time.\nAh... I was supposed to be happy too...\nBut all my plans have fallen apart.",
+        "pt": "[Clarisbadeu]\nOlá.\nO Chocomania está a ser realizado. Toda a gente parece estar a divertir-se.\nAh... Eu também devia estar feliz...\nMas todos os meus planos foram por água abaixo.",
+        "es": "[Nuex]\nHola.\nEl Festival de los Dulces se está celebrando. Todo el mundo parece estar pasándolo bien.\nAh... Se suponía que yo también iba a ser feliz...\nPero todos mis planes se han venido abajo."
+    },
+    "11D4DA": {
+        "ko": "[엘트산]\n저의 계획이 뭐였냐면요...\n그녀에게 고백을 하고 연인이 되어서...\n지금 딱 이 순간에 사랑만큼 달콤한 스윗츠 메뉴를 함께 즐길 생각이었죠.",
+        "en": "[Walnuts]\nWhat were my plans, you ask...\nI was going to confess to her, become lovers...\nand right now, at this very moment, enjoy a sweets menu as sweet as love together.",
+        "pt": "[Clarisbadeu]\nQuais eram os meus planos, perguntas...\nEu ia confessar-me a ela, tornar-nos namorados...\ne agora, neste exato momento, saborear um menu de doces tão doce como o amor juntos.",
+        "es": "[Nuex]\n¿Cuáles eran mis planes, preguntas?\nIba a confesarme a ella, convertirnos en amantes...\ny ahora, en este mismo momento, disfrutar de un menú de dulces tan dulce como el amor juntos."
+    },
+    "2FD4DA": {
+        "ko": "[엘트산]\n하지만... 말도 채 꺼내기 전에...\n고백을 받기도 전에 거절을 하다니요...",
+        "en": "[Walnuts]\nBut... before I could even get the words out...\nBefore I could even receive an answer, I was rejected...",
+        "pt": "[Clarisbadeu]\nMas... antes mesmo de conseguir pronunciar as palavras...\nAntes de conseguir sequer receber uma resposta, fui rejeitado...",
+        "es": "[Nuex]\nPero... antes siquiera de poder pronunciar palabra...\nAntes de poder recibir una respuesta, ¡fui rechazado..."
+    },
+    "2VD4DA": {
+        "ko": "[엘트산]\n아, 맞아요.\n그녀와 함께 먹으려던 메뉴가 바로 이 파르페에요.\n여기에 얹어진 이 생생한 과일들...!\n그녀는 과일을 참 좋아했었는데...!",
+        "en": "[Walnuts]\nAh, that's right.\nThis parfait is exactly the menu I was going to eat with her.\nThese vibrant fruits on top...!\nShe really loved fruit...!",
+        "pt": "[Clarisbadeu]\nAh, é verdade.\nEsta parfait é exatamente o menu que eu ia comer com ela.\nEstas frutas vibrantes no topo...!\nEla realmente adorava fruta...!",
+        "es": "[Nuex]\nAh, así es.\nEsta parfait es exactamente el menú que iba a comer con ella.\n¡Estas frutas tan vibrantes encima...!\n¡A ella le encantaba la fruta...!"
+    },
+    "2lD4DA": {
+        "ko": "[엘트산]\n네...? 별거 아니라구요?\n시간이 지나면 괜찮아진다는 말씀이신거죠...\n맞아요, 알고는 있지만...\n마음 정리하는 것이 쉽지가 않네요.",
+        "en": "[Walnuts]\nYes...? You say it's no big deal?\nYou mean it'll be fine with time, right...\nYou're right, I know, but...\nIt's not easy to sort out my feelings.",
+        "pt": "[Clarisbadeu]\nSim...? Diz que não é nada de especial?\nQuer dizer que ficará tudo bem com o tempo, certo...\nVocê tem razão, eu sei, mas...\nNão é fácil organizar os meus sentimentos.",
+        "es": "[Nuex]\n¿Sí...? ¿Me dices que no es para tanto?\nQuieres decir que todo irá bien con el tiempo, ¿verdad...\nTienes razón, lo sé, pero...\nNo es fácil ordenar mis sentimientos."
+    },
+    "21D4DA": {
+        "ko": "[엘트산]\n감사합니다. 이 파르페는 정말 감사히 잘 먹을게요.\n우울할 때에는 달콤한 것이 최고죠.\n진정한 저의 인연을 만나게 될 것이라 믿고 있어요.\n내년의 축제는 꼭....!",
+        "en": "[Walnuts]\nThank you. I'll gladly enjoy this parfait.\nSweets are the best when you're feeling down.\nI believe I'll meet my true soulmate.\nNext year's festival, for sure...!",
+        "pt": "[Clarisbadeu]\nObrigado. Vou apreciar esta parfait com prazer.\nOs doces são os melhores quando estamos em baixo.\nAcredito que encontrarei a minha verdadeira alma gémea.\nO festival do próximo ano, de certeza...!",
+        "es": "[Nuex]\nGracias. Disfrutaré mucho esta parfait.\nLos dulces son lo mejor cuando estás desanimado.\nCreo que encontraré a mi verdadera alma gemela.\nEl festival del año que viene, ¡seguro...!"
+    },
+    "3FD4DA": {
+        "ko": "쇼콜라가 부탁했던 딸기 과일 파르페가 없다...!\n스윗츠 상점에서 사와야 할까?",
+        "en": "I don't have the strawberry parfait that Chocola asked for!\nShould I buy one from the Sweets Shop?",
+        "pt": "Eu não tenho o parfait de morango que a Chocolai pediu!\nDevo comprar uma na Loja de Doces?",
+        "es": "¡No tengo la parfait de fresas que me pidió Chocolai!\n¿Debería comprar una en la Tienda de Dulces?"
+    },
+    "3VD4DA": {
+        "ko": "[엘트산]\n안녕하세요, 잘 지내셨어요?\n저번에 주신 과일 파르페는 정말 잘 먹었어요\n저에게 또 볼일이 있으신가요?",
+        "en": "[Walnuts]\nHello, how have you been?\nI really enjoyed the fruit parfait you gave me last time.\nDo you have business with me again?",
+        "pt": "[Clarisbadeu]\nOlá, como tem passado?\nGostei muito da parfait de frutas que me deu da última vez.\nTem algum assunto comigo outra vez?",
+        "es": "[Nuex]\nHola, ¿cómo has estado?\nDisfruté mucho la parfait de frutas que me diste la última vez.\n¿Tienes algún asunto conmigo otra vez?"
+    },
+    "3lD4DA": {
+        "ko": "[엘트산]\n오, 마침 그게 또 먹고 싶었던 참이었어요.\n저를 잊지 않고 이렇게 귀한 선물을 또 주셔서 정말 감사해요.",
+        "en": "[Walnuts]\nOh, I was just craving one of those again.\nThank you so much for not forgetting me and giving me such a precious gift again.",
+        "pt": "[Clarisbadeu]\nAh, eu estava mesmo com vontade de comer uma dessas outra vez.\nMuito obrigado por não se esquecer de mim e por me dar um presente tão precioso novamente.",
+        "es": "[Nuex]\nOh, justo me apetecía una de esas otra vez.\nMuchas gracias por no olvidarte de mí y por darme un regalo tan valioso otra vez."
+    },
+    "31D4DA": {
+        "ko": "[엘트산]\n아, 모험가님...!\n저... 또 마음에 드는 여인이 생겼어요!\n얼마전의 그 분은 벌써 잊은거냐고요?",
+        "en": "[Walnuts]\nAh, Adventurer...!\nI've... fallen for someone new!\nYou ask if I've already forgotten the previous one?",
+        "pt": "[Clarisbadeu]\nAh, Viajante...!\nEu... apaixonei-me por alguém novo!\nPergunta se já me esqueci da anterior?",
+        "es": "[Nuex]\n¡Ah, Trotamundos...!\nMe... he enamorado de alguien nuevo!\n¿Me preguntas si ya me olvidé de la anterior?"
+    },
+    "4FD4DA": {
+        "ko": "[엘트산]\n시간이 지나면 괜찮아진다고 말씀하셨잖습니까.\n이젠 괜찮습니다. 하하.",
+        "en": "[Walnuts]\nYou said it would be fine with time.\nI'm fine now. Haha.",
+        "pt": "[Clarisbadeu]\nVocê disse que ficaria tudo bem com o tempo.\nEu estou bem agora. Haha.",
+        "es": "[Nuex]\nDijiste que todo iría bien con el tiempo.\nYa estoy bien ahora. Jaja."
+    },
+    "4VD4DA": {
+        "ko": "[엘트산]\n그래, 이 과일 페르페를 그녀에게 가져다주는거야.\n이 달콤한 맛을 보면 나를 다시보게 되겠지.\n이번에야말로...!!!",
+        "en": "[Walnuts]\nRight, I'll give this fruit parfait to her.\nIf she tastes this sweetness, she'll see me in a new light.\nThis time, for sure...!!!",
+        "pt": "[Clarisbadeu]\nCerto, vou dar esta parfait de frutas a ela.\nSe ela provar esta doçura, ver-me-á sob uma nova luz.\nDesta vez, de certeza...!!!",
+        "es": "[Nuex]\nBien, le daré esta parfait de frutas a ella.\nSi prueba esta dulzura, me verá con otros ojos.\n¡¡Esta vez, seguro...!!!"
+    },
+    "4lD4DA": {
+        "ko": "쇼콜라가 부탁했던 과일 파르페가 없다...!\n스윗츠 상점에서 사와야 할까?",
+        "en": "I don't have the fruit parfait that Chocola asked for...!\nShould I buy one from the Sweets Shop?",
+        "pt": "Eu não tenho a parfait de frutas que a Chocolai pediu...!\nDevo comprar uma na Loja de Doces?",
+        "es": "¡No tengo la parfait de frutas que me pidió Chocolai...!\n¿Debería comprar una en la Tienda de Dulces?"
+    },
+    "41D4DA": {
+        "ko": "[엘트산]\n고마워요, 모험가님.\n상처가 치유되는 것 같아요.",
+        "en": "[Walnuts]\nThank you, Adventurer.\nI feel like my wounds are healing.",
+        "pt": "[Clarisbadeu]\nObrigado, Viajante.\nSinto que as minhas feridas estão a sarar.",
+        "es": "[Nuex]\nGracias, Trotamundos.\nSiento que mis heridas están sanando."
+    },
+    "5FD4DA": {
+        "ko": "[엘트산]\n안녕하세요, 모험가님.\n당신은 빛의 속도로 차여본 적이 있나요?\n상처가... 아물지를 않네요.",
+        "en": "[Walnuts]\nHello, Adventurer.\nHave you ever been dumped at the speed of light?\nMy... wounds won't heal.",
+        "pt": "[Clarisbadeu]\nOlá, Viajante.\nJá alguma vez foi rejeitado à velocidade da luz?\nAs minhas... feridas não saram.",
+        "es": "[Nuex]\nHola, Trotamundos.\n¿Alguna vez te han rechazado a la velocidad de la luz?\nMis... heridas no sanan."
+    },
+    "5VD4DA": {
+        "ko": "안트",
+        "en": "Cinnamon",
+        "pt": "Holofontinho",
+        "es": "Canel"
+    },
+    "5lD4DA": {
+        "ko": "촉촉한 마카롱 고마워요! 잘 먹을게요!",
+        "en": "Thank you for the chewy macaron! I'll enjoy it!",
+        "pt": "Obrigado pelo macaron! Adorei!",
+        "es": "¡Gracias por el macaron! ¡Lo disfrutaré!"
+    },
+    "51D4DA": {
+        "ko": "[안트]\n안녕하세요.\n오늘이 제 어머니의 기일이에요.\n저는 기일 때마다 항상 이 마카롱을 가져온답니다.\n어머니가 정말로 좋아하는 음식이었거든요.",
+        "en": "[Cinnamon]\nHello.\nToday is my mother's death anniversary.\nI always bring these macarons on anniversaries.\nIt was her absolute favorite food.",
+        "pt": "[Holofontinho]\nOlá.\nHoje é o aniversário de morte da minha mãe.\nCostumo sempre trazer estes macarons nos aniversários.\nEra a comida favorita dela.",
+        "es": "[Canel]\nHola.\nHoy es el aniversario de la muerte de mi madre.\nSiempre traigo estos macarons en los aniversarios.\nEra su comida favorita, sin duda."
+    },
+    "6FD4DA": {
+        "ko": "[안트]\n그 마카롱을 어머니와 같이 먹었던 적이 있어요.\n뭐랄까.. 굉장히 달콤하고 촉촉한 마카롱이었어요.\n제가 가져온 마카롱도 달콤하지만... 촉촉하지는 않아서 아쉬워요.",
+        "en": "[Cinnamon]\nI once ate those macarons with my mother.\nThey were, how should I put it, very sweet and chewy macarons.\nThe macarons I brought are sweet too... but it's a shame they're not moist.",
+        "pt": "[Holofontinho]\nUma vez comi aqueles macarons com a minha mãe.\nEram, como hei de dizer, macarons muito doces e húmidos.\nOs macarons que trouxe também são doces... mas é uma pena não serem húmidos.",
+        "es": "[Canel]\nUna vez comí esos macarons con mi madre.\nEran, cómo decirlo, macarons muy dulces y húmedos.\nLos macarons que traje también son dulces... pero es una pena que no sean húmedos."
+    },
+    "6VD4DA": {
+        "ko": "[안트]\n이왕이면 촉촉한 마카롱으로 가져오고 싶었는데...\n어디서 구해야할지 알 수가 없네요.",
+        "en": "[Cinnamon]\nIf possible, I wanted to bring chewy macarons, but...\nI don't know where to get them.",
+        "pt": "[Holofontinho]\nSe possível, queria trazer macarons húmidos, mas...\nNão sei onde os encontrar.",
+        "es": "[Canel]\nSi fuera posible, quería traer macarons húmedos, pero...\nNo sé dónde conseguirlos."
+    },
+    "6lD4DA": {
+        "ko": "[안트]\n앗, 이것은 마카롱이네요!\n아아... 이 감촉은.. 촉촉하다.\n기억나요, 모양새 또한 그 때의 그 마카롱이 맞아요!\n이것을 어디서 구하신거죠??",
+        "en": "[Cinnamon]\nAh, these are macarons!\nAh... this texture... it's moist.\nI remember, the shape is exactly like those macarons from back then!\nWhere did you get these??",
+        "pt": "[Holofontinho]\nAh, estes são macarons!\nAh... esta textura... é húmida.\nLembro-me, a forma é exatamente como aqueles macarons de antigamente!\nOnde arranjou estes??",
+        "es": "[Canel]\n¡Ah, estos son macarons!\nAh... esta textura... es húmeda.\nLo recuerdo, ¡la forma es exactamente como aquellos macarons de entonces!\n¿Dónde conseguiste estos??"
+    },
+    "61D4DA": {
+        "ko": "[안트]\n아... 스윗츠 축제.\n스윗츠 축제의 메뉴로 쓰이는 마카롱일줄이야...\n진작 알았다면 더 좋았겠지만...\n지금에라도 알게 되어 정말 다행이에요~!",
+        "en": "[Cinnamon]\nAh... the Sweets Festival.\nTo think they're macarons used in the Sweets Festival menu...\nIt would have been better if I knew sooner, but...\nI'm really glad to have found out now~!",
+        "pt": "[Holofontinho]\nAh... o Chocomania.\nQuem diria que são macarons usados no menu do Chocomania...\nTer sido melhor se soubesse mais cedo, mas...\nEstou muito feliz por ter descoberto agora~!",
+        "es": "[Canel]\nAh... el Festival de los Dulces.\n¡Quién iba a decir que son macarons usados en el menú del Festival de los Dulces...\nHubiera sido mejor saberlo antes, pero...\n¡Estoy muy contento de haberlo descubierto ahora~!"
+    },
+    "7FD4DA": {
+        "ko": "[안트]\n감사합니다. 어머니를 더욱 기쁘게 해 드릴 수 있게 되었어요.\n이 멋진 마카롱은 어머니와 함께 감사히 나눌게요.\n달콤한 모험 되시길 바랍니다!",
+        "en": "[Cinnamon]\nThank you. Now I can make my mother even happier.\nI'll gladly share these wonderful macarons with my mother.\nI wish you a sweet adventure!",
+        "pt": "[Holofontinho]\nObrigado. Agora posso deixar a minha mãe ainda mais feliz.\nVou partilhar estes maravilhosos macarons com a minha mãe com prazer.\nDesejo-lhe uma aventura doce!",
+        "es": "[Canel]\nGracias. Ahora puedo hacer a mi madre aún más feliz.\nCompartiré estos maravillosos macarons con mi madre con mucho gusto.\n¡Te deseo una dulce aventura!"
+    },
+    "7VD4DA": {
+        "ko": "쇼콜라가 부탁했던 촉촉한 마카롱이 없다...!\n스윗츠 상점에서 사와야 할까?",
+        "en": "I don't have the chewy macaron that Chocola asked for!\nShould I buy one from the Sweets Shop?",
+        "pt": "Eu não tenho o macaron que a Chocolai pediu...!\nDevo comprar um na Loja de Doces?",
+        "es": "¡No tengo el macaron que me pidió Chocolai...!\n¿Debería comprar uno en la Tienda de Dulces?"
+    },
+    "7lD4DA": {
+        "ko": "[안트]\n안녕하세요, 또 오셨군요.\n저는 오늘도 어머니를 만나러 왔어요.\n이번엔 무슨 일이시죠?",
+        "en": "[Cinnamon]\nHello, you're here again.\nI've come to see my mother again today.\nWhat brings you here this time?",
+        "pt": "[Holofontinho]\nOlá, você está aqui outra vez.\nVim ver a minha mãe novamente hoje.\nO que o traz cá desta vez?",
+        "es": "[Canel]\nHola, estás aquí otra vez.\nHe venido a ver a mi madre de nuevo hoy.\n¿Qué te trae por aquí esta vez?"
+    },
+    "71D4DA": {
+        "ko": "[안트]\n아, 정말 감사합니다.\n이렇게 맛있는 마카롱이라면 매일 받아도 좋지요.",
+        "en": "[Cinnamon]\nAh, thank you so much.\nI'd be happy to receive such delicious macarons every day.",
+        "pt": "[Holofontinho]\nAh, muito obrigado.\nFicaria feliz em receber macarons tão deliciosos todos os dias.",
+        "es": "[Canel]\nAh, muchísimas gracias.\nSería feliz recibiendo macarons tan deliciosos todos los días."
+    },
+    "8FD4DA": {
+        "ko": "[안트]\n오늘도 이렇게 어머니와 마카롱을 나눌 수 있게 되었네요.\n아~ 이 촉촉한 느낌.\n어머니도 분명 기뻐하실거에요.\n감사합니다.\n평안한 모험 되시길...",
+        "en": "[Cinnamon]\nI'm able to share macarons with my mother again today.\nAh~ this moist feeling.\nI'm sure Mother will be pleased too.\nThank you.\nI wish you a peaceful adventure...",
+        "pt": "[Holofontinho]\nConsigo partilhar macarons com a minha mãe novamente hoje.\nAh~ esta sensação húmida.\nTenho a certeza de que a Mãe também ficará contente.\nObrigado.\nDesejo-lhe uma aventura pacífica...",
+        "es": "[Canel]\nPuedo compartir macarons con mi madre otra vez hoy.\nAh~ esta sensación húmeda.\nEstoy seguro de que Mamá también estará contenta.\nGracias.\nTe deseo una aventura pacífica..."
+    },
+    "8VD4DA": {
+        "ko": "[안트]\n고마워요, 모험가님.\n평안한 하루 보내세요.",
+        "en": "[Cinnamon]\nThank you, Adventurer.\nHave a peaceful day.",
+        "pt": "[Holofontinho]\nObrigado, Viajante.\nTenha um dia pacífico.",
+        "es": "[Canel]\nGracias, Trotamundos.\nTen un día pacífico."
+    },
+    "8lD4DA": {
+        "ko": "[안트]\n안녕하세요, 모험가님.\n이번 해에도 마카롱을 챙겨 왔어요.\n어머니가 기뻐하시겠죠?",
+        "en": "[Cinnamon]\nHello, Adventurer.\nI've brought macarons again this year.\nI hope Mother will be pleased, right?",
+        "pt": "[Holofontinho]\nOlá, Viajante.\nTrouxe macarons outra vez este ano.\nEspero que a Mãe fique contente, certo?",
+        "es": "[Canel]\nHola, Trotamundos.\nHe traído macarons otra vez este año.\nMamá estará contenta, ¿verdad?"
+    },
+    "81D4DA": {
+        "ko": "채이",
+        "en": "Hazel",
+        "pt": "Chai",
+        "es": "Avellana"
+    },
+    "9FD4DA": {
+        "ko": "몽블랑 케이크 고마워요! 잘 먹을게요!",
+        "en": "Thank you for the Mont Blanc cake! I'll enjoy it!",
+        "pt": "Obrigado pelo bolo Mont Blanc! Vou apreciá-lo!",
+        "es": "¡Gracias por el pastel Mont Blanc! ¡Lo disfrutaré!"
+    },
+    "9VD4DA": {
+        "ko": "[채이]\n하이하이~~\n오늘은 아빠 생신이거든요!\n선물을 사러 나왔는데~~\n으... 뭐를 사야하지...",
+        "en": "[Hazel]\nHi hi~~\nToday is Dad's birthday!\nI came out to buy a present~~\nUgh... what should I buy...",
+        "pt": "[Chai]\nOi oi~~\nHoje é aniversário do Papá!\nSaí para comprar um presente~~\nUgh... o que devo comprar...",
+        "es": "[Avellana]\n¡Hola hola~~\n¡Hoy es el cumpleaños de papá!\nSalí a comprar un regalo~~\nUgh... ¿qué debería comprar..."
+    },
+    "9lD4DA": {
+        "ko": "[채이]\n아빠는 밤을 굉장히 좋아하세요.\n작년에는 햇밤을 따 드리려고 페이욘까지 다녀왔었죠!\n아, 그런데.. 이번에는 못가요.",
+        "en": "[Hazel]\nDad really loves chestnuts.\nLast year, I even went to Payon to pick fresh chestnuts for him!\nAh, but... I can't go this time.",
+        "pt": "[Chai]\nO Papá adora castanhas.\nNo ano passado, fui mesmo a Payon para colher castanhas frescas para ele!\nAh, mas... não posso ir desta vez.",
+        "es": "[Avellana]\nPapá adora las castañas.\n¡El año pasado, hasta fui a Payon a recoger castañas frescas para él!\nAh, pero... este año no puedo ir."
+    },
+    "91D4DA": {
+        "ko": "[채이]\n혼자 거기까지 다녀왔다고 엄마한테 엄청 혼났거든요...\n이번엔 어찌해야하나~",
+        "en": "[Hazel]\nMom got really mad at me for going all the way there alone...\nWhat should I do this time~",
+        "pt": "[Chai]\nA Mamã ficou muito zangada comigo por ir até lá sozinha...\nO que devo fazer desta vez~",
+        "es": "[Avellana]\nMamá se enfadó muchísimo conmigo por ir sola hasta allí...\n¿Qué voy a hacer este año~"
+    },
+    "+FD4DA": {
+        "ko": "[채이]\n어? 이걸 저에게 주시는거에요??\n오와~ 맛있어 보이는 케이크다!\n앗 이 냄새는... 밤 냄새인데??\n아아~ 밤이 들어간 케이크를 몽블랑 케이크라 하는거군요!",
+        "en": "[Hazel]\nHuh? Are you giving this to me??\nOh wow~ It's a cake that looks delicious!\nAh, this smell... is it chestnuts??\nAhh~ So a cake with chestnuts is called a Mont Blanc cake!",
+        "pt": "[Chai]\nHã? Está a dar-me isto??\nOh uau~ É um bolo com um aspeto delicioso!\nAh, este cheiro... são castanhas??\nAhh~ Então um bolo com castanhas chama-se bolo Mont Blanc!",
+        "es": "[Avellana]\n¿Eh? ¿¡Me das esto a mí!?\n¡Oh guau~ Es un pastel que se ve delicioso!\nAh, este olor... ¿son castañas??\n¡Ahh~ Así que un pastel con castañas se llama pastel Mont Blanc!"
+    },
+    "+VD4DA": {
+        "ko": "[채이]\n히히.. 고마워요.\n아빠가 엄청 좋아할거에요.\n신난다~~ 헤헷.",
+        "en": "[Hazel]\nHehe.. thank you.\nDad will be really happy.\nI'm excited~~ Heheh.",
+        "pt": "[Chai]\nHehe.. obrigada.\nO Papá vai ficar muito feliz.\nEstou animada~~ Heheh.",
+        "es": "[Avellana]\nJeje.. gracias.\nPapá estará muy feliz.\n¡Qué ilusión~~ Jeje."
+    },
+    "+lD4DA": {
+        "ko": "쇼콜라가 부탁했던 몽블랑 케이크가 없다...!\n스윗츠 상점에서 사와야 할까?",
+        "en": "I don't have the Mont Blanc cake that Chocola asked for...!\nShould I buy one from the Sweets Shop?",
+        "pt": "Eu não tenho o bolo Mont Blanc que a Chocolai pediu...!\nDevo comprar um na Loja de Doces?",
+        "es": "¡No tengo el pastel Mont Blanc que me pidió Chocolai...!\n¿Debería comprar uno en la Tienda de Dulces?"
+    },
+    "+1D4DA": {
+        "ko": "[채이]\n어엇, 모험가님!\n또 만났네요~~\n오늘은 축제 구경하러 나왔어요!\n저에게 할 말이 있나요??",
+        "en": "[Hazel]\nOh, Adventurer!\nWe meet again~~\nI came out to see the festival today!\nDo you have something to tell me??",
+        "pt": "[Chai]\nOh, Viajante!\nEncontrámo-nos outra vez~~\nSaí para ver o festival hoje!\nTem algo para me dizer??",
+        "es": "[Avellana]\n¡Oh, Trotamundos!\n¡¡Nos encontramos otra vez~~\n¡Salí a ver el festival hoy!\n¿¿Tienes algo que decirme??"
+    },
+    "/FD4DA": {
+        "ko": "[채이]\n헐...\n저에게 또 주시는거에요?\n아~ 정말 먹고 싶었는데 말이에요~",
+        "en": "[Hazel]\nWow...\nAre you giving me another one?\nAh~ I really wanted to eat one, you know~",
+        "pt": "[Chai]\nUau...\nVais dar-me outro?\nAh~ Eu queria mesmo comer um, sabes~",
+        "es": "[Avellana]\nGuau...\n¿Me vas a dar otro?\n¡Ah~ Tenía muchas ganas de comer uno, ¿sabes?~"
+    },
+    "/VD4DA": {
+        "ko": "[채이]\n사실 아빠에게 선물로 드렸는데...\n너무너무 맛있다면서 단숨에 해치우신거 있죠.\n저는 맛도 못봤다는거죠~\n아아~! 이제 이 케이크가 얼마나 맛있는지 경험해봐야 겠어요.",
+        "en": "[Hazel]\nActually, I gave one to Dad as a present...\nHe said it was so, so delicious and devoured it in no time.\nI didn't even get to taste it.\nAhh~! Now I have to experience how delicious this cake is.",
+        "pt": "[Chai]\nNa verdade, dei um ao Papá como presente...\nEle disse que estava tão, tão delicioso e devorou-o num instante.\nEu nem pude prová-lo.\nAhh~! Agora tenho de experimentar o quão delicioso é este bolo.",
+        "es": "[Avellana]\nEn realidad, le di uno a papá como regalo...\nDijo que estaba tan, tan delicioso que lo devoró en un instante.\nEs que ni siquiera pude probarlo.\n¡Ahh~! Ahora tengo que experimentar lo delicioso que es este pastel."
+    },
+    "/lD4DA": {
+        "ko": "[채이]\n고마워요, 모험가님.\n모험가님도 항상 행복하세요!!!!",
+        "en": "[Hazel]\nThank you, Adventurer.\nI hope you're always happy too!!!!",
+        "pt": "[Chai]\nObrigado, Viajante.\nEspero que também seja sempre feliz!!!!",
+        "es": "[Avellana]\nGracias, Trotamundos.\n¡¡¡Que tú también seas siempre feliz!!!!"
+    },
+    "/1D4DA": {
+        "ko": "[채이]\n고마워요, 모험가님.\n몽블랑 너무 좋아요~",
+        "en": "[Hazel]\nThank you, Adventurer.\nI love Mont Blanc so much~",
+        "pt": "[Chai]\nObrigado, Viajante.\nAdoro tanto o Mont Blanc~",
+        "es": "[Avellana]\nGracias, Trotamundos.\n¡Me encanta el Mont Blanc~"
+    },
+    "AFH4DA": {
+        "ko": "[채이]\n안녕하세요~~\n부모님에게 드릴 선물을 찾고 있어요.\n어떤 것을 선물해야 기뻐하실까요??",
+        "en": "[Hazel]\nHello!\nI'm looking for a present to give my parents.\nWhat kind of gift would make them happy??",
+        "pt": "[Chai]\nOlá!\nEstou à procura de um presente para dar aos meus pais.\nQue tipo de presente os deixaria felizes??",
+        "es": "[Avellana]\n¡Hola!\nEstoy buscando un regalo para dar a mis padres.\n¿Qué tipo de regalo los haría felices??"
+    },
+    "AVH4DA": {
+        "ko": "점원 미미",
+        "en": "Clerk Mimi",
+        "pt": "Dona Mimi",
+        "es": "Mimi"
+    },
+    "AlH4DA": {
+        "ko": "<스윗츠 크레이프>",
+        "en": "<Sweets Crepe>",
+        "pt": "<Doce Crepe>",
+        "es": "<Dulce Crepe>"
+    },
+    "A1H4DA": {
+        "ko": "[미미]\n드디어 재료가 왔네요!!!!\n이제 본격적으로 판매를 할 수 있겠어요!\n그리고 이건 이번 시즌에 저희 상점에서 판매할 상품이에요.",
+        "en": "[Mimi]\nThe ingredients are finally here!!!!\nNow we can start selling in earnest!\nAnd this is the product our shop will be selling this season.",
+        "pt": "[Mimi]\nOs ingredientes finalmente chegaram!!!!\nAgora podemos começar a vender a sério!\nE este é o produto que a nossa loja vai vender esta época.",
+        "es": "[Mimi]\n¡¡¡Los ingredientes por fin están aquí!!!!\n¡Ahora podemos empezar a vender en serio!\nY este es el producto que nuestra tienda venderá esta temporada."
+    },
+    "BFH4DA": {
+        "ko": "[미미]\n특별한 손님에게 선물할 예정이라고 들었어요.\n쇼콜라에게 전해주세요.",
+        "en": "[Mimi]\nI heard it's to be gifted to a special guest.\nPlease deliver it to Chocola.",
+        "pt": "[Mimi]\nOuvi dizer que é para ser oferecido a um convidado especial.\nPor favor, entregue-o à Chocolai.",
+        "es": "[Mimi]\nOí que es para regalárselo a un invitado especial.\nPor favor, entrégaselo a Chocolai."
+    },
+    "BVH4DA": {
+        "ko": "모든 상점에 배달을 완료했다... 쇼콜라에게 돌아가서 보고하자.",
+        "en": "I have delivered to all shops... I should return to Chocola and report.",
+        "pt": "Entreguei a todas as lojas... Devo voltar para a Chocolai e reportar.",
+        "es": "He entregado a todas las tiendas... Debería volver donde Chocolai y reportar."
+    },
+    "BlH4DA": {
+        "ko": "[미미]\n마침 기다리고 있었어요.\n그런데 납품용 초콜렛은 어디 있죠?\n물건을 제대로 가져오셔야죠.",
+        "en": "[Mimi]\nI've been waiting for you.\nBut where are the consignment chocolates?\nYou need to bring the goods properly.",
+        "pt": "[Mimi]\nEstive à sua espera.\nMas onde estão os Chocolaites em barra?\nPrecisa de trazer a mercadoria corretamente.",
+        "es": "[Mimi]\nTe he estado esperando.\nPero ¿dónde están los Chocolaites de consignación?\nTienes que traer la mercancía correctamente."
+    },
+    "B1H4DA": {
+        "ko": "[미미]\n안녕하세요~ 프론테라 스윗츠 상점에 오신 것을 환영합니다~\n프론테라 상점 특제 <ITEM>[달콤한 크레이프]<INFO>11607</INFO></ITEM>를 팔고 있어요!",
+        "en": "[Mimi]\nHello~ Welcome to the Prontera Sweets Shop~\nWe're selling the Prontera shop special <ITEM>[Sweet Crepe]<INFO>11607</INFO></ITEM>!",
+        "pt": "[Mimi]\nOlá~ Boas-vindas(a) à Loja de Doces de Prontera~\nEstamos a vender o item especial da loja de Prontera <ITEM>[Crepe Doce]<INFO>11607</INFO></ITEM>!",
+        "es": "[Mimi]\n¡Hola~ Bienvenid@ a la Tienda de Dulces de Prontera~\n¡Vendemos el producto especial de la tienda de Prontera <ITEM>[Crepe Dulce]<INFO>11607</INFO></ITEM>!"
+    },
+    "CFH4DA": {
+        "ko": "스윗츠 메뉴 구매",
+        "en": "Buy sweets menu.",
+        "pt": "Comprar menu de doces.",
+        "es": "Comprar menú de dulces."
+    },
+    "CVH4DA": {
+        "ko": "스윗츠 간식 꾸러미 교환",
+        "en": "Exchange Sweets Package.",
+        "pt": "Trocar Pacote de Doces.",
+        "es": "Intercambiar Paquete de Dulces."
+    },
+    "ClH4DA": {
+        "ko": "다음에 온다",
+        "en": "Come back later.",
+        "pt": "Voltar depois.",
+        "es": "Volver después."
+    },
+    "C1H4DA": {
+        "ko": "[미미]\n한정수량 판매 품목이라 얼마나 남았으려나요.\n있는만큼 구매 해 주세요!",
+        "en": "[Mimi]\nThis is a limited quantity item, so I wonder how many are left.\nPlease buy as many as are available!",
+        "pt": "[Mimi]\nEste é um item de quantidade limitada, por isso pergunto-me quantos restam.\nPor favor, compre quantos estiverem disponíveis!",
+        "es": "[Mimi]\nEste es un objeto de cantidad limitada, así que me pregunto cuántos quedarán.\n¡Compra tantos como haya disponibles!"
+    },
+    "DFH4DA": {
+        "ko": "[미미]\n^4D4DFF스윗츠 간식 꾸러미^000000 하나에 ^4D4DFF스윗츠 축제 코인^000000 2개가 필요합니다.",
+        "en": "[Mimi]\nEach ^4D4DFFSweets Package^000000 costs 2 ^4D4DFFSweet Coin^000000.",
+        "pt": "[Mimi]\nCada ^4D4DFFPacote de Doces^000000 custa ^4D4DFF2 Chocoedas^000000.",
+        "es": "[Mimi]\nCada ^4D4DFFPaquete de Dulces^000000 cuesta 2 ^4D4DFFChocomoneda^000000."
+    },
+    "DVH4DA": {
+        "ko": "[미미]\n교환해드릴까요?",
+        "en": "[Mimi]\nShall I exchange it?",
+        "pt": "[Mimi]\nDevo trocá-lo?",
+        "es": "[Mimi]\n¿Te lo cambio?"
+    },
+    "DlH4DA": {
+        "ko": "그만둔다.",
+        "en": "Stop.",
+        "pt": "Parar.",
+        "es": "Parar."
+    },
+    "D1H4DA": {
+        "ko": "[미미]\n네~ 알겠습니다. 모험가님에게 행운이 따르기를...",
+        "en": "[Mimi]\nYes~ Understood. May luck be with you, Adventurer...",
+        "pt": "[Mimi]\nSim~ Entendido. Que a sorte esteja consigo, Viajante...",
+        "es": "[Mimi]\nSí~ Entendido. Que la suerte te acompañe, Trotamundos..."
+    },
+    "EFH4DA": {
+        "ko": "[미미]\n그럼 다음에 도전해 주세요.",
+        "en": "[Mimi]\nPlease try again next time.",
+        "pt": "[Mimi]\nPor favor, tente novamente da próxima vez.",
+        "es": "[Mimi]\nPor favor, inténtalo de nuevo la próxima vez."
+    },
+    "EVH4DA": {
+        "ko": "[미미]\n그럼 다음에 방문해주세요, 기다리고 있겠습니다!",
+        "en": "[Mimi]\nPlease visit again next time. I'll be waiting!",
+        "pt": "[Mimi]\nPor favor, visite-nos novamente da próxima vez. Estarei à espera!",
+        "es": "[Mimi]\nPor favor, visítanos de nuevo la próxima vez. ¡Estaré esperando!"
+    },
+    "ElH4DA": {
+        "ko": "에드",
+        "en": "Ed",
+        "pt": "Tio Ed",
+        "es": "Ed"
+    },
+    "E1H4DA": {
+        "ko": "<스윗츠 컵케이크>",
+        "en": "<Sweets Cupcake>",
+        "pt": "<Doce Cupcake>",
+        "es": "<Dulce Cupcake>"
+    },
+    "FFH4DA": {
+        "ko": "[에드]\n드디어 재료가 왔네요!!!!\n이제 본격적으로 판매를 할 수 있겠어요!\n그리고 이건 이번 시즌에 저희 상점에서 판매할 상품이에요.",
+        "en": "[Ed]\nThe ingredients are finally here!!!!\nNow we can start selling in earnest!\nAnd this is the product our shop will be selling this season.",
+        "pt": "[Ed]\nOs ingredientes finalmente chegaram!!!!\nAgora podemos começar a vender a sério!\nE este é o produto que a nossa loja vai vender esta época.",
+        "es": "[Ed]\n¡¡¡Los ingredientes por fin están aquí!!!!\n¡Ahora podemos empezar a vender en serio!\nY este es el producto que nuestra tienda venderá esta temporada."
+    },
+    "FVH4DA": {
+        "ko": "[에드]\n특별한 손님에게 선물할 예정이라고 들었어요.\n쇼콜라에게 전해주세요.",
+        "en": "[Ed]\nI heard it's to be gifted to a special guest.\nPlease deliver it to Chocola.",
+        "pt": "[Ed]\nOuvi dizer que é para ser oferecido a um convidado especial.\nPor favor, entregue-o à Chocolai.",
+        "es": "[Ed]\nOí que es para regalárselo a un invitado especial.\nPor favor, entrégaselo a Chocolai."
+    },
+    "FlH4DA": {
+        "ko": "[에드]\n마침 기다리고 있었어요.\n그런데 납품용 초콜렛은 어디 있죠?\n물건을 제대로 가져오셔야죠.",
+        "en": "[Ed]\nI've been waiting for you.\nBut where are the consignment chocolates?\nYou need to bring the goods properly.",
+        "pt": "[Ed]\nEstive à sua espera.\nMas onde estão os Chocolaites em barra?\nPrecisa de trazer a mercadoria corretamente.",
+        "es": "[Ed]\nTe he estado esperando.\nPero ¿dónde están los Chocolaites de consignación?\nTienes que traer la mercancía correctamente."
+    },
+    "F1H4DA": {
+        "ko": "[에드]\n안녕하세요~ 게펜 스윗츠 상점에 오신 것을 환영합니다~\n게펜 상점 특제 <ITEM>[딸기 생크림 컵케이크]<INFO>23259</INFO></ITEM>를 팔고 있어요!",
+        "en": "[Ed]\nHello~ Welcome to the Geffen Sweets Shop~\nWe're selling the Geffen shop special <ITEM>[Strawberry Cream Cupcake]<INFO>23259</INFO></ITEM>!",
+        "pt": "[Ed]\nOlá~ Boas-vindas(a) à Loja de Doces de Geffen~\nEstamos a vender o item especial da loja de Geffen <ITEM>[Cupcake de Morango]<INFO>23259</INFO></ITEM>!",
+        "es": "[Ed]\n¡Hola~ Bienvenid@ a la Tienda de Dulces de Geffen~\n¡Vendemos el producto especial de la tienda de Geffen <ITEM>[Cupcake de Fresa y Crema]<INFO>23259</INFO></ITEM>!"
+    },
+    "GFH4DA": {
+        "ko": "[에드]\n한정수량 판매 품목이라 얼마나 남았으려나요.\n있는만큼 구매 해 주세요!",
+        "en": "[Ed]\nThis is a limited quantity item, so I wonder how many are left.\nPlease buy as many as are available!",
+        "pt": "[Ed]\nEste é um item de quantidade limitada, por isso pergunto-me quantos restam.\nPor favor, compre quantos estiverem disponíveis!",
+        "es": "[Ed]\nEste es un objeto de cantidad limitada, así que me pregunto cuántos quedarán.\n¡Compra tantos como haya disponibles!"
+    },
+    "GVH4DA": {
+        "ko": "[에드]\n^4D4DFF스윗츠 간식 꾸러미^000000 하나에 ^4D4DFF스윗츠 축제 코인^000000 2개가 필요합니다.",
+        "en": "[Ed]\nEach ^4D4DFFSweets Package^000000 costs 2 ^4D4DFFSweet Coin^000000.",
+        "pt": "[Ed]\nCada ^4D4DFFPacote de Doces^000000 custa 2 ^4D4DFFChocoedas^000000.",
+        "es": "[Ed]\nCada ^4D4DFFPaquete de Dulces^000000 cuesta 2 ^4D4DFFChocomoneda^000000."
+    },
+    "GlH4DA": {
+        "ko": "[에드]\n교환해드릴까요?",
+        "en": "[Ed]\nShall I exchange it?",
+        "pt": "[Ed]\nDevo trocá-lo?",
+        "es": "[Ed]\n¿Te lo cambio?"
+    },
+    "G1H4DA": {
+        "ko": "[에드]\n네~ 알겠습니다. 모험가님에게 행운이 따르기를...",
+        "en": "[Ed]\nYes~ Understood. May luck be with you, Adventurer...",
+        "pt": "[Ed]\nSim~ Entendido. Que a sorte esteja consigo, Viajante...",
+        "es": "[Ed]\nSí~ Entendido. Que la suerte te acompañe, Trotamundos..."
+    },
+    "HFH4DA": {
+        "ko": "[에드]\n그럼 다음에 도전해 주세요.",
+        "en": "[Ed]\nPlease try again next time.",
+        "pt": "[Ed]\nPor favor, tente novamente da próxima vez.",
+        "es": "[Ed]\nPor favor, inténtalo de nuevo la próxima vez."
+    },
+    "HVH4DA": {
+        "ko": "[에드]\n그럼 다음에 방문해주세요, 기다리고 있겠습니다!",
+        "en": "[Ed]\nPlease visit again next time. I'll be waiting!",
+        "pt": "[Ed]\nPor favor, visite-nos novamente da próxima vez. Estarei à espera!",
+        "es": "[Ed]\nPor favor, visítanos de nuevo la próxima vez. ¡Estaré esperando!"
+    },
+    "HlH4DA": {
+        "ko": "알렌",
+        "en": "Allen",
+        "pt": "Allen",
+        "es": "Allen"
+    },
+    "H1H4DA": {
+        "ko": "<스윗츠 몽블랑>",
+        "en": "<Sweets Mont Blanc>",
+        "pt": "<Mont Blanc de Doce>",
+        "es": "<Mont Blanc de Dulce>"
+    },
+    "IFH4DA": {
+        "ko": "[알렌]\n드디어 재료가 왔네요!!!!\n이제 본격적으로 판매를 할 수 있겠어요!\n그리고 이건 이번 시즌에 저희 상점에서 판매할 상품이에요.",
+        "en": "[Allen]\nThe ingredients are finally here!!!!\nNow we can start selling in earnest!\nAnd this is the product our shop will be selling this season.",
+        "pt": "[Allen]\nOs ingredientes finalmente chegaram!!!!\nAgora podemos começar a vender a sério!\nE este é o produto que a nossa loja vai vender esta época.",
+        "es": "[Allen]\n¡¡¡Los ingredientes por fin están aquí!!!!\n¡Ahora podemos empezar a vender en serio!\nY este es el producto que nuestra tienda venderá esta temporada."
+    },
+    "IVH4DA": {
+        "ko": "[알렌]\n특별한 손님에게 선물할 예정이라고 들었어요.\n쇼콜라에게 전해주세요.",
+        "en": "[Allen]\nI heard it's to be gifted to a special guest.\nPlease deliver it to Chocola.",
+        "pt": "[Allen]\nOuvi dizer que é para ser oferecido a um convidado especial.\nPor favor, entregue-o à Chocolai.",
+        "es": "[Allen]\nOí que es para regalárselo a un invitado especial.\nPor favor, entrégaselo a Chocolai."
+    },
+    "IlH4DA": {
+        "ko": "[알렌]\n마침 기다리고 있었어요.\n그런데 납품용 초콜렛은 어디 있죠?\n물건을 제대로 가져오셔야죠.",
+        "en": "[Allen]\nI've been waiting for you.\nBut where are the consignment chocolates?\nYou need to bring the goods properly.",
+        "pt": "[Allen]\nEstive à sua espera.\nMas onde estão os Chocolaites em barra?\nPrecisa de trazer a mercadoria corretamente.",
+        "es": "[Allen]\nTe he estado esperando.\nPero ¿dónde están los Chocolaites de consignación?\nTienes que traer la mercancía correctamente."
+    },
+    "I1H4DA": {
+        "ko": "[알렌]\n안녕하세요~ 페이욘 스윗츠 상점에 오신 것을 환영합니다~\n페이욘 상점 특제 <ITEM>[몽블랑 케이크]<INFO>23045</INFO></ITEM>를 팔고 있어요!",
+        "en": "[Allen]\nHello~ Welcome to the Payon Sweets Shop~\nWe're selling the Payon shop special <ITEM>[Mont Blanc Cake]<INFO>23045</INFO></ITEM>!",
+        "pt": "[Allen]\nOlá~ Boas-vindas(a) à Loja de Doces de Payon~\nEstamos a vender o item especial da loja de Payon <ITEM>[Bolo Mont Blanc]<INFO>23045</INFO></ITEM>!",
+        "es": "[Allen]\n¡Hola~ Bienvenid@ a la Tienda de Dulces de Payon~\n¡Vendemos el producto especial de la tienda de Payon <ITEM>[Pastel Mont Blanc]<INFO>23045</INFO></ITEM>!"
+    },
+    "JFH4DA": {
+        "ko": "[알렌]\n한정수량 판매 품목이라 얼마나 남았으려나요.\n있는만큼 구매 해 주세요!",
+        "en": "[Allen]\nThis is a limited quantity item, so I wonder how many are left.\nPlease buy as many as are available!",
+        "pt": "[Allen]\nEste é um item de quantidade limitada, por isso pergunto-me quantos restam.\nPor favor, compre quantos estiverem disponíveis!",
+        "es": "[Allen]\nEste es un objeto de cantidad limitada, así que me pregunto cuántos quedarán.\n¡Compra tantos como haya disponibles!"
+    },
+    "JVH4DA": {
+        "ko": "[알렌]\n^4D4DFF스윗츠 간식 꾸러미^000000 하나에 ^4D4DFF스윗츠 축제 코인^000000 2개가 필요합니다.",
+        "en": "[Allen]\nEach ^4D4DFFSweets Package^000000 costs 2 ^4D4DFFSweet Coin^000000.",
+        "pt": "[Allen]\nCada ^4D4DFFPacote de Doces^000000 custa 2 ^4D4DFFChocoedas^000000.",
+        "es": "[Allen]\nCada ^4D4DFFPaquete de Dulces^000000 cuesta 2 ^4D4DFFChocomoneda^000000."
+    },
+    "JlH4DA": {
+        "ko": "[알렌]\n교환해드릴까요?",
+        "en": "[Allen]\nShall I exchange it?",
+        "pt": "[Allen]\nDevo trocá-lo?",
+        "es": "[Allen]\n¿Te lo cambio?"
+    },
+    "J1H4DA": {
+        "ko": "[알렌]\n네~ 알겠습니다. 모험가님에게 행운이 따르기를...",
+        "en": "[Allen]\nYes~ Understood. May luck be with you, Adventurer...",
+        "pt": "[Allen]\nSim~ Entendido. Que a sorte esteja consigo, Viajante...",
+        "es": "[Allen]\nSí~ Entendido. Que la suerte te acompañe, Trotamundos..."
+    },
+    "KFH4DA": {
+        "ko": "[알렌]\n그럼 다음에 도전해 주세요.",
+        "en": "[Allen]\nPlease try again next time.",
+        "pt": "[Allen]\nPor favor, tente novamente da próxima vez.",
+        "es": "[Allen]\nPor favor, inténtalo de nuevo la próxima vez."
+    },
+    "KVH4DA": {
+        "ko": "[알렌]\n그럼 다음에 방문해주세요, 기다리고 있겠습니다!",
+        "en": "[Allen]\nPlease visit again next time. I'll be waiting!",
+        "pt": "[Allen]\nPor favor, visite-nos novamente da próxima vez. Estarei à espera!",
+        "es": "[Allen]\nPor favor, visítanos de nuevo la próxima vez. ¡Estaré esperando!"
+    },
+    "KlH4DA": {
+        "ko": "한스",
+        "en": "Hans",
+        "pt": "Seu Hans",
+        "es": "Hans"
+    },
+    "K1H4DA": {
+        "ko": "<스윗츠 파르페>",
+        "en": "<Sweets Parfait>",
+        "pt": "<Doce Parfait>",
+        "es": "<Dulce Parfait>"
+    },
+    "LFH4DA": {
+        "ko": "[한스]\n드디어 재료가 왔네요!!!!\n이제 본격적으로 판매를 할 수 있겠어요!\n그리고 이건 이번 시즌에 저희 상점에서 판매할 상품이에요.",
+        "en": "[Hans]\nThe ingredients are finally here!!!!\nNow we can start selling in earnest!\nAnd this is the product our shop will be selling this season.",
+        "pt": "[Hans]\nOs ingredientes finalmente chegaram!!!!\nAgora podemos começar a vender a sério!\nE este é o produto que a nossa loja vai vender esta época.",
+        "es": "[Hans]\n¡¡¡Los ingredientes por fin están aquí!!!!\n¡Ahora podemos empezar a vender en serio!\nY este es el producto que nuestra tienda venderá esta temporada."
+    },
+    "LVH4DA": {
+        "ko": "[한스]\n특별한 손님에게 선물할 예정이라고 들었어요.\n쇼콜라에게 전해주세요.",
+        "en": "[Hans]\nI heard it's to be gifted to a special guest.\nPlease deliver it to Chocola.",
+        "pt": "[Hans]\nOuvi dizer que é para ser oferecido a um convidado especial.\nPor favor, entregue-o à Chocolai.",
+        "es": "[Hans]\nOí que es para regalárselo a un invitado especial.\nPor favor, entrégaselo a Chocolai."
+    },
+    "LlH4DA": {
+        "ko": "[한스]\n마침 기다리고 있었어요.\n그런데 납품용 초콜렛은 어디 있죠?\n물건을 제대로 가져오셔야죠.",
+        "en": "[Hans]\nI've been waiting for you.\nBut where are the consignment chocolates?\nYou need to bring the goods properly.",
+        "pt": "[Hans]\nEstive à sua espera.\nMas onde estão os Chocolaites em barra?\nPrecisa de trazer a mercadoria corretamente.",
+        "es": "[Hans]\nTe he estado esperando.\nPero ¿dónde están los Chocolaites de consignación?\nTienes que traer la mercancía correctamente."
+    },
+    "L1H4DA": {
+        "ko": "[한스]\n안녕하세요~ 알데바란 스윗츠 상점에 오신 것을 환영합니다~\n알데바란 상점 특제 <ITEM>[과일 파르페]<INFO>23260</INFO></ITEM>를 팔고 있어요!",
+        "en": "[Hans]\nHello! Welcome to the Aldebaran Sweets Shop!\nWe're selling the Aldebaran shop special <ITEM>[Fruit Parfait]<INFO>23260</INFO></ITEM>!",
+        "pt": "[Hans]\nOlá! Boas-vindas(a) à Loja de Doces de Aldebaran!\nEstamos a vender o item especial da loja de Aldebaran <ITEM>[Parfait de Frutas]<INFO>23260</INFO></ITEM>!",
+        "es": "[Hans]\n¡Hola! ¡Bienvenid@ a la Tienda de Dulces de Aldebaran!\n¡Vendemos el producto especial de la tienda de Aldebaran <ITEM>[Parfait de Frutas]<INFO>23260</INFO></ITEM>!"
+    },
+    "MFH4DA": {
+        "ko": "[한스]\n한정수량 판매 품목이라 얼마나 남았으려나요.\n있는만큼 구매 해 주세요!",
+        "en": "[Hans]\nThis is a limited quantity item, so I wonder how many are left.\nPlease buy as many as are available!",
+        "pt": "[Hans]\nEste é um item de quantidade limitada, por isso pergunto-me quantos restam.\nPor favor, compre quantos estiverem disponíveis!",
+        "es": "[Hans]\nEste es un objeto de cantidad limitada, así que me pregunto cuántos quedarán.\n¡Compra tantos como haya disponibles!"
+    },
+    "MVH4DA": {
+        "ko": "[한스]\n^4D4DFF스윗츠 간식 꾸러미^000000 하나에 ^4D4DFF스윗츠 축제 코인^000000 2개가 필요합니다.",
+        "en": "[Hans]\nEach ^4D4DFFSweets Package^000000 costs 2 ^4D4DFFSweet Coin^000000.",
+        "pt": "[Hans]\nCada ^4D4DFFPacote de Doces^000000 custa 2 ^4D4DFFChocoedas^000000.",
+        "es": "[Hans]\nCada ^4D4DFFPaquete de Dulces^000000 cuesta 2 ^4D4DFFChocomoneda^000000."
+    },
+    "MlH4DA": {
+        "ko": "[한스]\n교환해드릴까요?",
+        "en": "[Hans]\nShall I exchange it?",
+        "pt": "[Hans]\nDevo trocá-lo?",
+        "es": "[Hans]\n¿Te lo cambio?"
+    },
+    "M1H4DA": {
+        "ko": "[한스]\n네~ 알겠습니다. 모험가님에게 행운이 따르기를...",
+        "en": "[Hans]\nYes, understood. May luck be with you, Adventurer...",
+        "pt": "[Hans]\nSim, entendido. Que a sorte esteja com você, Viajante...",
+        "es": "[Hans]\nSí, de acuerdo. Que la suerte te acompañe, Trotamundos..."
+    },
+    "NFH4DA": {
+        "ko": "[한스]\n그럼 다음에 도전해 주세요.",
+        "en": "[Hans]\nPlease try again next time.",
+        "pt": "[Hans]\nPor favor, tente novamente da próxima vez.",
+        "es": "[Hans]\nPor favor, inténtalo de nuevo la próxima vez."
+    },
+    "NVH4DA": {
+        "ko": "[한스]\n그럼 다음에 방문해주세요, 기다리고 있겠습니다!",
+        "en": "[Hans]\nPlease visit again next time. I'll be waiting!",
+        "pt": "[Hans]\nPor favor, visite-nos novamente da próxima vez. Estarei à espera!",
+        "es": "[Hans]\nPor favor, visítanos de nuevo la próxima vez. ¡Estaré esperando!"
+    },
+    "NlH4DA": {
+        "ko": "아망디오",
+        "en": "Amandio",
+        "pt": "Amanda",
+        "es": "Amanda"
+    },
+    "N1H4DA": {
+        "ko": "<스윗츠 마카롱>",
+        "en": "<Sweets Macaron>",
+        "pt": "<Doce Macaron>",
+        "es": "<Dulce Macaron>"
+    },
+    "OFH4DA": {
+        "ko": "[아망디오]\n드디어 재료가 왔네요!!!!\n이제 본격적으로 판매를 할 수 있겠어요!\n그리고 이건 이번 시즌에 저희 상점에서 판매할 상품이에요.",
+        "en": "[Amandio]\nThe ingredients are finally here!!!!\nNow we can start selling in earnest!\nAnd this is the product our shop will be selling this season.",
+        "pt": "[Amanda]\nOs ingredientes finalmente chegaram!!!!\nAgora podemos começar a vender a sério!\nE este é o produto que a nossa loja vai vender esta época.",
+        "es": "[Amanda]\n¡¡¡Los ingredientes por fin están aquí!!!!\n¡Ahora podemos empezar a vender en serio!\nY este es el producto que nuestra tienda venderá esta temporada."
+    },
+    "OVH4DA": {
+        "ko": "[아망디오]\n특별한 손님에게 선물할 예정이라고 들었어요.\n쇼콜라에게 전해주세요.",
+        "en": "[Amandio]\nI heard it's to be gifted to a special guest.\nPlease deliver it to Chocola.",
+        "pt": "[Amanda]\nOuvi dizer que é para ser oferecido a um convidado especial.\nPor favor, entregue-o à Chocolai.",
+        "es": "[Amanda]\nOí que es para regalárselo a un invitado especial.\nPor favor, entrégaselo a Chocolai."
+    },
+    "OlH4DA": {
+        "ko": "[아망디오]\n마침 기다리고 있었어요.\n그런데 납품용 초콜렛은 어디 있죠?\n물건을 제대로 가져오셔야죠.",
+        "en": "[Amandio]\nI've been waiting for you.\nBut where are the consignment chocolates?\nYou need to bring the goods properly.",
+        "pt": "[Amanda]\nEstive à sua espera.\nMas onde estão os Chocolaites em barra?\nPrecisa de trazer a mercadoria corretamente.",
+        "es": "[Amanda]\nTe he estado esperando.\nPero ¿dónde están los Chocolaites de consignación?\nTienes que traer la mercancía correctamente."
+    },
+    "O1H4DA": {
+        "ko": "[아망디오]\n안녕하세요~ 모로크 스윗츠 상점에 오신 것을 환영합니다~\n모로크 상점 특제 <ITEM>[촉촉한 마카롱]<INFO>23261</INFO></ITEM>를 팔고 있어요!",
+        "en": "[Amandio]\nHello~ Welcome to the Morroc Sweets Shop~\nWe're selling the Morroc shop special <ITEM>[Chewy Macaron]<INFO>23261</INFO></ITEM>!",
+        "pt": "[Amanda]\nOlá~ Boas-vindas(a) à Loja de Doces de Morroc~\nEstamos a vender o item especial da loja de Morroc <ITEM>[Macarons]<INFO>23261</INFO></ITEM>!",
+        "es": "[Amanda]\n¡Hola~ Bienvenid@ a la Tienda de Dulces de Morroc~\n¡Vendemos el producto especial de la tienda de Morroc <ITEM>[Macarons]<INFO>23261</INFO></ITEM>!"
+    },
+    "PFH4DA": {
+        "ko": "[아망디오]\n한정수량 판매 품목이라 얼마나 남았으려나요.\n있는만큼 구매 해 주세요!",
+        "en": "[Amandio]\nThis is a limited quantity item, so I wonder how many are left.\nPlease buy as many as are available!",
+        "pt": "[Amanda]\nEste é um item de quantidade limitada, por isso pergunto-me quantos restam.\nPor favor, compre quantos estiverem disponíveis!",
+        "es": "[Amanda]\nEste es un objeto de cantidad limitada, así que me pregunto cuántos quedarán.\n¡Compra tantos como haya disponibles!"
+    },
+    "PVH4DA": {
+        "ko": "[아망디오]\n^4D4DFF스윗츠 간식 꾸러미^000000 하나에 ^4D4DFF스윗츠 축제 코인^000000 2개가 필요합니다.",
+        "en": "[Amandio]\nEach ^4D4DFFSweets Package^000000 costs 2 ^4D4DFFSweet Coin^000000.",
+        "pt": "[Amanda]\nCada ^4D4DFFPacote de Doces^000000 custa 2 ^4D4DFFChocoedas^000000.",
+        "es": "[Amanda]\nCada ^4D4DFFPaquete de Dulces^000000 cuesta 2 ^4D4DFFChocomoneda^000000."
+    },
+    "PlH4DA": {
+        "ko": "[아망디오]\n교환해드릴까요?",
+        "en": "[Amandio]\nShall I exchange it?",
+        "pt": "[Amanda]\nDevo trocá-lo?",
+        "es": "[Amanda]\n¿Te lo cambio?"
+    },
+    "P1H4DA": {
+        "ko": "[아망디오]\n네~ 알겠습니다. 모험가님에게 행운이 따르기를...",
+        "en": "[Amandio]\nYes~ Understood. May luck be with you, Adventurer...",
+        "pt": "[Amanda]\nSim~ Entendido. Que a sorte esteja consigo, Viajante...",
+        "es": "[Amanda]\nSí~ Entendido. Que la suerte te acompañe, Trotamundos..."
+    },
+    "QFH4DA": {
+        "ko": "[아망디오]\n그럼 다음에 도전해 주세요.",
+        "en": "[Amandio]\nPlease try again next time.",
+        "pt": "[Amanda]\nPor favor, tente novamente da próxima vez.",
+        "es": "[Amanda]\nPor favor, inténtalo de nuevo la próxima vez."
+    },
+    "QVH4DA": {
+        "ko": "[아망디오]\n그럼 다음에 방문해주세요, 기다리고 있겠습니다!",
+        "en": "[Amandio]\nPlease visit again next time. I'll be waiting!",
+        "pt": "[Amanda]\nPor favor, visite-nos novamente da próxima vez. Estarei à espera!",
+        "es": "[Amanda]\nPor favor, visítanos de nuevo la próxima vez. ¡Estaré esperando!"
+    },
+    "QlH4DA": {
+        "ko": "아를르",
+        "en": "Arles",
+        "pt": "Arles",
+        "es": "Arles"
+    },
+    "Q1H4DA": {
+        "ko": "<스윗츠 축제위원>",
+        "en": "<Sweets Festival Staff>",
+        "pt": "<Equipa do Chocomania>",
+        "es": "<Personal del Festival de los Dulces>"
+    },
+    "RFH4DA": {
+        "ko": "[아를르]\n사랑하는 연인과 친구를 위해 당신의 이름을 새긴 스윗츠를 선물 해 보세요.\n스윗츠 코인 30개면 된답니다.",
+        "en": "[Arles]\nGive a sweet engraved with your name for your beloved partner or friend.\nIt only costs 30 Sweet Coins.",
+        "pt": "[Arles]\nOfereça um doce gravado com o seu nome para o seu amado parceiro ou amigo.\nCusta apenas 30 Chocoedas.",
+        "es": "[Arles]\nRegala un dulce grabado con tu nombre para tu amado compañero o amigo.\nSolo cuesta 30 Chocomonedas."
+    },
+    "RVH4DA": {
+        "ko": "이름이 새겨진 스윗츠를 산다.",
+        "en": "Buy a name-engraved sweet.",
+        "pt": "Comprar um doce gravado.",
+        "es": "Comprar un dulce grabado."
+    },
+    "RlH4DA": {
+        "ko": "그만 둔다.",
+        "en": "Stop.",
+        "pt": "Parar.",
+        "es": "Parar."
+    },
+    "R1H4DA": {
+        "ko": "[아를르]\n이름이 새겨진 스윗츠 제작에는 스윗츠 축제 코인 30개가 필요하답니다.",
+        "en": "[Arles]\nCreating a name-engraved sweet requires 30 Sweet Coins.",
+        "pt": "[Arles]\nCriar um doce gravado requer 30 Chocoedas.",
+        "es": "[Arles]\nCrear un dulce grabado requiere 30 Chocomonedas."
+    },
+    "SFH4DA": {
+        "ko": "[아를르]\n이름이 새겨진 스윗츠~\n여기 있습니다.\n사랑하는 연인과 교환하세요!",
+        "en": "[Arles]\nA name-engraved sweet~\nHere it is.\nExchange it with your beloved partner!",
+        "pt": "[Arles]\nUm doce gravado~\nAqui está.\nTroque-o com o seu amado parceiro!",
+        "es": "[Arles]\nUn dulce grabado~\nAquí está.\n¡Cambia con tu amada pareja!"
+    },
+    "SVH4DA": {
+        "ko": "[아를르]\n언제든 이름 새긴 스윗츠가 필요하다면 절 찾아 주세요.",
+        "en": "[Arles]\nIf you ever need a name-engraved sweet, please find me.",
+        "pt": "[Arles]\nSe alguma vez precisar de um doce gravado, por favor, encontre-me.",
+        "es": "[Arles]\nSi alguna vez necesitas un dulce grabado, por favor, búscame."
+    },
+    "SlH4DA": {
+        "ko": "스윗쿡",
+        "en": "Pâtissier",
+        "pt": "Pâtissier",
+        "es": "Pâtissier"
+    },
+    "S1H4DA": {
+        "ko": "<요리사 스윗쿡>",
+        "en": "<Pâtissier>",
+        "pt": "<Pâtissier>",
+        "es": "<Pâtissier>"
+    },
+    "TFH4DA": {
+        "ko": "안녕하세요!! 조금 더 환상적인 요리를 맛보지 않으시겠어요??",
+        "en": "Hello!! Would you like to taste some even more fantastic dishes??",
+        "pt": "Olá!! Gostaria de provar alguns pratos ainda mais fantásticos??",
+        "es": "¡¡Hola!! ¿Te gustaría probar unos platos aún más fantásticos??"
+    },
+    "TVH4DA": {
+        "ko": "[스윗쿡]\n어머, 모험가님 안녕하세요~!\n스윗츠 축제는 즐거우신가요?",
+        "en": "[Pâtissier]\nOh my, hello Adventurer~!\nAre you enjoying the Sweets Festival?",
+        "pt": "[Pâtissier]\nOh meu, olá Viajante~!\nEstá a gostar do Chocomania?",
+        "es": "[Pâtissier]\n¡Oh cielos, hola Trotamundos~!\n¿Estás disfrutando del Festival de los Dulces?"
+    },
+    "TlH4DA": {
+        "ko": "[스윗쿡]\n저는 스위트 요리 전문가 ^4D4DFF스윗쿡^000000이라고 합니다.\n이 세상 모든 달콤한 요리들은 제 전문이죠!",
+        "en": "[Pâtissier]\nI'm a sweet dish specialist named ^4D4DFFPâtissier^000000.\nAll the sweet dishes in the world are my specialty!",
+        "pt": "[Pâtissier]\nSou um especialista em pratos doces chamado ^4D4DFFPâtissier^000000.\nTodos os pratos doces do mundo são a minha especialidade!",
+        "es": "[Pâtissier]\nSoy un especialista en platos dulces llamado ^4D4DFFPâtissier^000000.\n¡Todos los platos dulces del mundo son mi especialidad!"
+    },
+    "T1H4DA": {
+        "ko": "[스윗쿡]\n이번 축제도 말썽꾸러기들 때문에 쇼콜라가 아주 고생이 많았다고 들었어요.",
+        "en": "[Pâtissier]\nI heard Chocola had a really hard time this festival because of the troublemakers.",
+        "pt": "[Pâtissier]\nOuvi dizer que a Chocolai se divertiu muito este festival por causa dos encrenqueiros.",
+        "es": "[Pâtissier]\nOí que Chocolai la pasó muy mal este festival por culpa de los alborotadores."
+    },
+    "UFH4DA": {
+        "ko": "[스윗쿡]\n그런 와중에 쇼콜라가 저에게 부탁을 해 오니 차마 거절할 수가 없었답니다.",
+        "en": "[Pâtissier]\nDespite that, Chocola came to me with a request, and I just couldn't refuse.",
+        "pt": "[Pâtissier]\nApesar disso, a Chocolai veio ter comigo com um pedido e eu simplesmente não pude recusar.",
+        "es": "[Pâtissier]\nA pesar de eso, Chocolai vino a mí con una petición, y simplemente no pude negarme."
+    },
+    "UVH4DA": {
+        "ko": "[스윗쿡]\n그리하여 이번에는 특별히 현장에서 즉석 요리를 선사해드리기로 했어요~",
+        "en": "[Pâtissier]\nSo, this time, I've decided to offer impromptu cooking on site~",
+        "pt": "[Pâtissier]\nEntão, desta vez, decidi oferecer confeção improvisada no local~",
+        "es": "[Pâtissier]\nAsí que, esta vez, he decidido ofrecer cocina improvisada en el lugar~"
+    },
+    "UlH4DA": {
+        "ko": "어떤 요리를 하는데?",
+        "en": "What kind of dishes?",
+        "pt": "Que tipo de pratos?",
+        "es": "¿Qué tipo de platos?"
+    },
+    "U1H4DA": {
+        "ko": "그렇구나, 수고해.",
+        "en": "I see, keep up the good work.",
+        "pt": "Entendo, continue com o bom trabalho.",
+        "es": "Ya veo, sigue con el buen trabajo."
+    },
+    "VFH4DA": {
+        "ko": "[스윗쿡]\n아~! 이번 현장에서 제가 선사할 요리는 말이죠~!!\n현재 제공되고 있는 스윗츠 메뉴를 알고 계신가요?",
+        "en": "[Pâtissier]\nAh~! The dish I'll be presenting on site this time is~~\nDo you know the current sweets menu being offered?",
+        "pt": "[Pâtissier]\nAh~! O prato que apresentarei no local desta vez é~~\nVocê conhece o menu de doces atual que está a ser oferecido?",
+        "es": "[Pâtissier]\n¡Ah~! El plato que presentaré en el lugar esta vez es~~\n¿Conoces el menú de dulces actual que se ofrece?"
+    },
+    "VVH4DA": {
+        "ko": "[스윗쿡]\n^4D4DFF´ÞÄÞÇÑ Å©·¹ÀÌÇÁ^000000, ^4D4DFFÃËÃËÇÑ ¸¶Ä«·Õ^000000, ^4D4DFF¸ùºí¶û ÄÉÀÌÅ©^000000, ^4D4DFF°úÀÏ ÆÄ¸£Æä^000000, ^4D4DFFµþ±â »ýÅ©¸² ÄÅÄÉŸ?000000\n이 다섯가지 메뉴요!!",
+        "en": "[Pâtissier]\nThe five menus are:\n^4D4DFFSweet Crepe^000000, ^4D4DFFChewy Macaron^000000, ^4D4DFFMont Blanc Cake^000000, ^4D4DFFFruit Parfait^000000, ^4D4DFFStrawberry Cream Cupcake^000000!!",
+        "pt": "[Pâtissier]\nOs cinco menus são:\n^4D4DFFCrepe Doce^000000, ^4D4DFFMacarons^000000, ^4D4DFFBolo Mont Blanc^000000, ^4D4DFFParfait de Frutas^000000, ^4D4DFFCupcake de Morango^000000!!",
+        "es": "[Pâtissier]\nLos cinco menús son:\n¡¡^4D4DFFCrepe Dulce^000000, ^4D4DFFMacarons^000000, ^4D4DFFPastel Mont Blanc^000000, ^4D4DFFParfait de Frutas^000000, ^4D4DFFCupcake de Fresa y Crema^000000!!"
+    },
+    "VlH4DA": {
+        "ko": "[스윗쿡]\n이 메뉴들을 조합해서 새롭고 특별한 요리를 즉석에서 시식할 수 있도록 할 거에요!\n세 가지 요리를 제공할 예정인데요~",
+        "en": "[Pâtissier]\nI'll combine these menus to create new and special dishes that you can sample on the spot!\nI plan to offer three dishes~",
+        "pt": "[Pâtissier]\nVou combinar estes menus para criar pratos novos e especiais que você pode provar no local!\nPlaneio oferecer três pratos~",
+        "es": "[Pâtissier]\n¡Combinaré estos menús para crear platos nuevos y especiales que podrás probar en el momento!\nPlaneo ofrecer tres platos~"
+    },
+    "V1H4DA": {
+        "ko": "[스윗쿡]\n첫 번째 요리는 ^4D4DFF스위트 마카롱 케이크^000000입니다~\n달콤한 케이크에 촉촉한 마카롱이 송송 박혀있는~!! 아주 끝내주겠죠?",
+        "en": "[Pâtissier]\nThe first dish is the ^4D4DFFSweet Macaron Cake^000000~\nA sweet cake studded with Chewy Macarons~!! It's going to be amazing, right?",
+        "pt": "[Pâtissier]\nO primeiro prato é o ^4D4DFFBolo de Macaron Doce^000000~\nUm bolo doce cravejado de macarons húmidos~!! Vai ser incrível, certo?",
+        "es": "[Pâtissier]\n¡El primer plato es el ^4D4DFFPastel de Macaron Dulce^000000~\nUn pastel dulce tachonado de macarons húmedos~!! Va a ser increíble, ¿verdad?"
+    },
+    "WFH4DA": {
+        "ko": "[스윗쿡]\n^4D4DFF달콤한 크레이프^000000, ^4D4DFF촉촉한 마카롱^000000, ^4D4DFF몽블랑 케이크^000000를 각각 1개씩 가져오시면 만들어드릴게요.",
+        "en": "[Pâtissier]\nBring me one each of ^4D4DFFSweet Crepe^000000, ^4D4DFFChewy Macaron^000000, and ^4D4DFFMont Blanc Cake^000000, and I'll make it for you.",
+        "pt": "[Pâtissier]\nTraga-me um de cada de ^4D4DFFCrepe Doce^000000, ^4D4DFFMacarons^000000 e ^4D4DFFBolo Mont Blanc^000000, e eu faço-lho.",
+        "es": "[Pâtissier]\nTráeme uno de cada: ^4D4DFFCrepe Dulce^000000, ^4D4DFFMacarons^000000 y ^4D4DFFPastel Mont Blanc^000000, y te lo prepararé."
+    },
+    "WVH4DA": {
+        "ko": "[스윗쿡]\n이 요리를 먹으면 환상적인 달콤함이 넘쳐흐르는 바람에 ^4D4DFF물리 공격력^000000이 강해지는 효과가 있어요.",
+        "en": "[Pâtissier]\nEating this dish fills you with fantastic sweetness, giving an effect that ^4D4DFFincreases Physical Attack^000000.",
+        "pt": "[Pâtissier]\nComer este prato enche-o de uma doçura fantástica, dando um efeito que ^4D4DFFaumenta o Ataque Físico^000000.",
+        "es": "[Pâtissier]\nComer este plato te llena de una dulzura fantástica, dando un efecto que ^4D4DFFaumenta el Ataque Físico^000000."
+    },
+    "WlH4DA": {
+        "ko": "[스윗쿡]\n두 번째 요리는 ^4D4DFF스위트 딸기 파르페^000000입니다~\n신선한 딸기와 달콤한 생크림이 곁들어진 환상적인 파르페 말이에요~!!",
+        "en": "[Pâtissier]\nThe second dish is the ^4D4DFFStrawberry Parfait^000000.\nA fantastic parfait accompanied by fresh strawberries and sweet fresh cream!",
+        "pt": "[Pâtissier]\nO segundo prato é o ^4D4DFFParfait de Morango^000000.\nUma parfait fantástica acompanhada de morangos frescos e creme fresco doce!",
+        "es": "[Pâtissier]\n¡El segundo plato es el ^4D4DFFParfait de Fresa^000000.\nUna fantástica parfait acompañada de fresas frescas y dulce crema fresca!"
+    },
+    "W1H4DA": {
+        "ko": "[스윗쿡]\n^4D4DFF´ÞÄÞÇÑ Å©·¹ÀÌÇÁ^000000, ^4D4DFFµþ±â »ýÅ©¸² ÄÅÄÉŸ?000000, ^4D4DFF°úÀÏ ÆÄ¸£Æä^000000¸¦ °¢°¢ 1°³¾¿ °¡Á®¿À½Ã¸é ¸¸µé¾îµå¸±°Ô¿ä.",
+        "en": "[Pâtissier]\nBring me one each of ^4D4DFFSweet Crepe^000000, ^4D4DFFStrawberry Cream Cupcake^000000, and ^4D4DFFFruit Parfait^000000, and I'll make it for you.",
+        "pt": "[Pâtissier]\nTraga-me um de cada de ^4D4DFFCrepe Doce^000000, ^4D4DFFCupcake de Morango^000000 e ^4D4DFFParfait de Frutas^000000, e eu faço-lha.",
+        "es": "[Pâtissier]\nTráeme uno de cada: ^4D4DFFCrepe Dulce^000000, ^4D4DFFCupcake de Fresa y Crema^000000 y ^4D4DFFParfait de Frutas^000000, y te la prepararé."
+    },
+    "XFH4DA": {
+        "ko": "[스윗쿡]\n이 요리를 먹으면 생기 넘치는 감칠맛을 느끼게 되면서 ^4D4DFF마법 공격력^000000이 강해지는 효과가 있어요.",
+        "en": "[Pâtissier]\nEating this dish makes you feel a lively savory flavor, giving an effect that ^4D4DFFincreases Magical Attack^000000.",
+        "pt": "[Pâtissier]\nComer este prato faz-lhe sentir um sabor vivo e saboroso, dando um efeito que ^4D4DFFaumenta o Ataque Mágico^000000.",
+        "es": "[Pâtissier]\nComer este plato te hace sentir un sabor vivo y sabroso, dando un efecto que ^4D4DFFaumenta el Ataque Mágico^000000."
+    },
+    "XVH4DA": {
+        "ko": "[스윗쿡]\n세 번째 요리는 ^4D4DFF스위트 생크림 크레이프^000000입니다~\n달콤한 생크림이 듬뿍 발라져 있는 크레이프에요~!!",
+        "en": "[Pâtissier]\nThe third dish is the ^4D4DFFSweet Cream Crepe^000000.\nA crepe generously spread with sweet fresh cream!",
+        "pt": "[Pâtissier]\nO terceiro prato é o ^4D4DFFCrepe com Creme^000000.\nUm crepe generosamente espalhado com creme fresco doce!",
+        "es": "[Pâtissier]\n¡El tercer plato es el ^4D4DFFCrepe con Crema^000000.\nUn crepe generosamente untado con dulce crema fresca!"
+    },
+    "XlH4DA": {
+        "ko": "[스윗쿡]\n^4D4DFF´ÞÄÞÇÑ Å©·¹ÀÌÇÁ^000000, ^4D4DFFµþ±â »ýÅ©¸² ÄÅÄÉŸ?000000, ^4D4DFF¸ùºí¶û ÄÉÀÌÅ©^000000¸¦ °¢°¢ 1°³¾¿ °¡Á®¿À½Ã¸é ¸¸µé¾îµå¸±°Ô¿ä.",
+        "en": "[Pâtissier]\nBring me one each of ^4D4DFFSweet Crepe^000000, ^4D4DFFStrawberry Cream Cupcake^000000, and ^4D4DFFMont Blanc Cake^000000, and I'll make it for you.",
+        "pt": "[Pâtissier]\nTraga-me um de cada de ^4D4DFFCrepe Doce^000000, ^4D4DFFCupcake de Morango^000000 e ^4D4DFFBolo Mont Blanc^000000, e eu faço-lho.",
+        "es": "[Pâtissier]\nTráeme uno de cada: ^4D4DFFCrepe Dulce^000000, ^4D4DFFCupcake de Fresa y Crema^000000 y ^4D4DFFPastel Mont Blanc^000000, y te lo prepararé."
+    },
+    "X1H4DA": {
+        "ko": "[스윗쿡]\n이 요리를 먹으면 폭발하는 달콤함에 취해 ^4D4DFF민첩해지는^000000 효과가 있어요.",
+        "en": "[Pâtissier]\nEating this dish intoxicates you with explosive sweetness, giving an effect that ^4D4DFFmakes you agile^000000.",
+        "pt": "[Pâtissier]\nComer este prato intoxica-o com doçura explosiva, dando um efeito que ^4D4DFFo torna ágil^000000.",
+        "es": "[Pâtissier]\nComer este plato te intoxica con una dulzura explosiva, dando un efecto que ^4D4DFFte vuelve ágil^000000."
+    },
+    "YFH4DA": {
+        "ko": "[스윗쿡]\n자, 어떤 즉석 요리를 만들어 드릴까요?",
+        "en": "[Pâtissier]\nNow, which impromptu dish shall I make for you?",
+        "pt": "[Pâtissier]\nAgora, qual prato improvisado devo fazer para si?",
+        "es": "[Pâtissier]\nAhora, ¿qué plato improvisado te preparo?"
+    },
+    "YVH4DA": {
+        "ko": "^4D4DFF스위트 마카롱 케이크^000000를 주문한다.(물리 버프)",
+        "en": "Order ^4D4DFFSweet Macaron Cake^000000. (Physical Buff)",
+        "pt": "Encomendar ^4D4DFFBolo de Macarons^000000. (Buff Físico)",
+        "es": "Pedir ^4D4DFFPastel de Macarons^000000. (Buff Físico)"
+    },
+    "YlH4DA": {
+        "ko": "^4D4DFF스위트 딸기 파르페^000000를 주문한다.(마법 버프)",
+        "en": "Order ^4D4DFFSweet Strawberry Parfait^000000. (Magic Buff)",
+        "pt": "Encomendar ^4D4DFFParfait de Morango^000000. (Buff Mágico)",
+        "es": "Pedir ^4D4DFFParfait de Fresa^000000. (Buff Mágico)"
+    },
+    "Y1H4DA": {
+        "ko": "^4D4DFF스위트 생크림 크레이프^000000를 주문한다.(속도 버프)",
+        "en": "Order ^4D4DFFSweet Cream Crepe^000000. (Speed Buff)",
+        "pt": "Encomendar ^4D4DFFCrepe com Creme^000000. (Buff de Velocidade)",
+        "es": "Pedir ^4D4DFFCrepe con Crema^000000. (Buff de Velocidad)"
+    },
+    "ZFH4DA": {
+        "ko": "다음에 온다.",
+        "en": "Come back later.",
+        "pt": "Voltar depois.",
+        "es": "Volver después."
+    },
+    "ZVH4DA": {
+        "ko": "[스윗쿡]\n좋아요, 재료가 준비되었으니 바로 후다닥 만들어드리겠습니다!!\n아자아자, 이얏이얏, 이랏쵸오오오옷~~~~!!!!!!!!",
+        "en": "[Pâtissier]\nGreat, the ingredients are ready, so I'll whip it up for you right away!!\nAja aja, yiat yiat, iratchoooooot!!!!!!!!",
+        "pt": "[Pâtissier]\nÓtimo, os ingredientes estão prontos, então vou prepará-lo para si imediatamente!!\nA-a-a-a-atchiiiiiiimm!!!!!!!!",
+        "es": "[Pâtissier]\nGenial, los ingredientes están listos, así que ¡¡te lo prepararé ahora mismo!!\n¡Aja aja, yiat yiat, iratchoooooot!!!!!!!!"
+    },
+    "ZlH4DA": {
+        "ko": "[스윗쿡]\n후아... 어때요?\n맛이 끝내주죠?\n나중에 또 필요하면 다시 찾아와주세요.\n그럼 즐거운 축제 되시길!",
+        "en": "[Pâtissier]\nPhew... How is it?\nIt tastes amazing, right?\nCome back again if you need more later.\nNow, have a joyful festival!",
+        "pt": "[Pâtissier]\nUfa... Que tal?\nTem um sabor incrível, não tem?\nVolte outra vez se precisar de mais mais tarde.\nAgora, tenha um festival alegre!",
+        "es": "[Pâtissier]\nUf... ¿Qué tal?\nTiene un sabor increíble, ¿verdad?\nVuelve otra vez si necesitas más más tarde.\n¡Ahora, ten un festival alegre!"
+    },
+    "Z1H4DA": {
+        "ko": "[스윗쿡]\n이런, 재료가 부족해요~\n완벽한 요리를 만들기 위해서는 재료도 완벽하게 갖춰져야 한답니다.\n^4D4DFF달콤한 크레이프^000000, ^4D4DFF촉촉한 마카롱^000000, ^4D4DFF몽블랑 케이크^000000를 각각 1개씩 가져와 주세요!",
+        "en": "[Pâtissier]\nOh dear, you're missing ingredients!\nTo make a perfect dish, the ingredients must be perfectly prepared too.\nPlease bring me one each of ^4D4DFFSweet Crepe^000000, ^4D4DFFChewy Macaron^000000, and ^4D4DFFMont Blanc Cake^000000!",
+        "pt": "[Pâtissier]\nOh céus, faltam ingredientes!\nPara fazer um prato perfeito, os ingredientes também devem ser perfeitamente preparados.\nPor favor, traga-me um de cada de ^4D4DFFCrepe Doce^000000, ^4D4DFFMacarons^000000 e ^4D4DFFBolo Mont Blanc^000000!",
+        "es": "[Pâtissier]\n¡Oh cielos, te faltan ingredientes!\nPara hacer un plato perfecto, los ingredientes también deben estar perfectamente preparados.\n¡Tráeme uno de cada: ^4D4DFFCrepe Dulce^000000, ^4D4DFFMacarons^000000 y ^4D4DFFPastel Mont Blanc^000000!"
+    },
+    "aFH4DA": {
+        "ko": "[스윗쿡]\n이런, 재료가 부족해요~\n완벽한 요리를 만들기 위해서는 재료도 완벽하게 갖춰져야 한답니다.\n^4D4DFF´ÞÄÞÇÑ Å©·¹ÀÌÇÁ^000000, ^4D4DFFµþ±â »ýÅ©¸² ÄÅÄÉŸ?000000, ^4D4DFF°úÀÏ Æä¸£Æä^000000¸¦ °¢°¢ 1°³¾¿ °¡Á®¿Í ÁÖ¼¼¿ä!",
+        "en": "[Pâtissier]\nOh dear, you're missing ingredients!\nTo make a perfect dish, the ingredients must be perfectly prepared too.\nPlease bring me one each of ^4D4DFFSweet Crepe^000000, ^4D4DFFStrawberry Cream Cupcake^000000, and ^4D4DFFFruit Parfait^000000!",
+        "pt": "[Pâtissier]\nOh céus, faltam-lhe ingredientes!\nPara fazer um prato perfeito, os ingredientes também devem ser perfeitamente preparados.\nPor favor, traga-me um de cada de ^4D4DFFCrepe Doce^000000, ^4D4DFFCupcake de Morango^000000 e ^4D4DFFParfait de Frutas^000000!",
+        "es": "[Pâtissier]\n¡Oh cielos, te faltan ingredientes!\nPara hacer un plato perfecto, los ingredientes también deben estar perfectamente preparados.\n¡Tráeme uno de cada: ^4D4DFFCrepe Dulce^000000, ^4D4DFFCupcake de Fresa y Crema^000000 y ^4D4DFFParfait de Frutas^000000!"
+    },
+    "aVH4DA": {
+        "ko": "[스윗쿡]\n이런, 재료가 부족해요~\n완벽한 요리를 만들기 위해서는 재료도 완벽하게 갖춰져야 한답니다.\n^4D4DFF´ÞÄÞÇÑ Å©·¹ÀÌÇÁ^000000, ^4D4DFFµþ±â »ýÅ©¸² ÄÅÄÉŸ?000000, ^4D4DFF¸ùºí¶û ÄÉÀÌÅ©^000000¸¦ °¢°¢ 1°³¾¿ °¡Á®¿Í ÁÖ¼¼¿ä!",
+        "en": "[Pâtissier]\nOh dear, you're missing ingredients!\nTo make a perfect dish, the ingredients must be perfectly prepared too.\nPlease bring me one each of ^4D4DFFSweet Crepe^000000, ^4D4DFFStrawberry Cream Cupcake^000000, and ^4D4DFFMont Blanc Cake^000000!",
+        "pt": "[Pâtissier]\nOh céus, faltam ingredientes!\nPara fazer um prato perfeito, os ingredientes também devem ser perfeitamente preparados.\nPor favor, traga-me um de cada de ^4D4DFFCrepe Doce^000000, ^4D4DFFCupcake de Morango^000000 e ^4D4DFFBolo Mont Blanc^000000!",
+        "es": "[Pâtissier]\n¡Oh cielos, te faltan ingredientes!\nPara hacer un plato perfecto, los ingredientes también deben estar perfectamente preparados.\n¡Tráeme uno de cada: ^4D4DFFCrepe Dulce^000000, ^4D4DFFCupcake de Fresa y Crema^000000 y ^4D4DFFPastel Mont Blanc^000000!"
+    },
+    "alH4DA": {
+        "ko": "[스윗쿡]\n스윗츠 축제 기간에만 맛볼 수 있는 이 어마어마한 기회를 놓치지 마세요!!\n다시 찾아와 주실 것을 믿고 기다리겠습니다~~",
+        "en": "[Pâtissier]\nDon't miss this incredible opportunity to taste these dishes only available during the Sweets Festival!!\nI'll be waiting, believing you'll come back~~",
+        "pt": "[Pâtissier]\nNão perca esta oportunidade incrível de provar estes pratos disponíveis apenas durante o Chocomania!!\nEstarei à espera, acreditando que voltará~~",
+        "es": "[Pâtissier]\n¡¡No te pierdas esta increíble oportunidad de probar estos platos disponibles solo durante el Festival de los Dulces!!\nEstaré esperando, creyendo que volverás~~"
+    },
+    "a1H4DA": {
+        "ko": "[스윗쿡]\n엥....?\n뭐지, 이 반응은...\n제가 만들어드릴 이 어마어마한 요리를 포기하실 생각이신가요?\n에이, 설마~",
+        "en": "[Pâtissier]\nHuh....?\nWhat's with this reaction...\nAre you thinking of giving up on this incredible dish I'm offering?\nAh, no way~",
+        "pt": "[Pâtissier]\nHã....?\nO que é esta reação...\nEstá a pensar em desistir deste prato incrível que estou a oferecer?\nAh, não pode~",
+        "es": "[Pâtissier]\n¿¿Eh....?\n¿Qué es esta reacción...\nEstás pensando en renunciar a este increíble plato que te ofrezco?\nAh, no puede ser~"
+    }
+}

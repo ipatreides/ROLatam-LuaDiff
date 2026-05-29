@@ -311,5 +311,7 @@ SPRITE_ROBE_IDs = {
 	ROBE_C_CLB_BS_Bag_GM = 311,
 	ROBE_C_CLB_BS_Bag_GF = 312,
 	ROBE_C_Stylish_Arch_Quiver = 313,
-	ROBE_C_Adventures_Backpack = 314
+	ROBE_C_Adventures_Backpack = 314,
+	ROBE_C_Mushroom_Umbrella_RD = 315,
+	ROBE_C_Eddga_Rest = 316
 }

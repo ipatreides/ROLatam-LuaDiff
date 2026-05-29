@@ -1653,5 +1653,40 @@
         "en": "[Kay]\nLevel up service ended!!",
         "pt": "[Kay]\nO serviço de subida de nível terminou!!",
         "es": "[Kay]\n¡¡El servicio de subida de nivel finalizó!!"
+    },
+    "K5+jAQ": {
+        "en": "[10]Removal service[10]",
+        "pt": "[10] Serviço de Remoção [10]",
+        "es": "[10]Servicio de retirada[10]"
+    },
+    "LJ+jAQ": {
+        "en": "4th job change",
+        "pt": "4ª Classe",
+        "es": "4º cambio de clase"
+    },
+    "LZ+jAQ": {
+        "en": "[Kay]\nYou've chosen the 4th Job Change Service.\nI'm going to check up if you are level 200 and Job level 70, also if you have spent all skill points you had.",
+        "pt": "[Kay]\nVocê escolheu o serviço de Mudança de 4ª Classe.\nVou verificar se você está no nível base 200 e no nível de classe 70, e também se gastou todos os pontos de habilidade que tinha.",
+        "es": "[Kay]\nHas elegido el 4º Servicio de cambio de clase.\nVoy a comprobar si eres nivel 200 y nivel de clase 70, también si has gastado todos los puntos de habilidad que tenías."
+    },
+    "Lp+jAQ": {
+        "en": "[Kay]\nSorry. You are not yet level 200. Go to get more level for yourself.",
+        "pt": "[Kay]\nDesculpe. Você ainda não está no nível base 200. Vá para obter mais níveis.",
+        "es": "[Kay]\nLo siento. Aún no eres nivel 200. Ve a conseguir más nivel para ti."
+    },
+    "L5+jAQ": {
+        "en": "[Kay]\nNo you can't. You don't have a job level of 70. Come back after you reach to job level 70.",
+        "pt": "[Não, não pode.]\nNão, você não pode. Você não tem um nível de classe de 70. Volte depois de atingir pelo menos o nível de classe 70.",
+        "es": "[Kay]\nNo, no puedes. No tienes un nivel de clase de 70. Vuelve cuando alcances el nivel 70."
+    },
+    "MJ+jAQ": {
+        "en": "[Kay]\njob change done.",
+        "pt": "[Kay]\nMudança de classe concluída.",
+        "es": "[Kay]\nCambio de clase completado."
+    },
+    "MZ+jAQ": {
+        "en": "[Kay]\nYour job hasn't got developped yet for 4th Job.~",
+        "pt": "[Kay]\nSua classe ainda não possui a 4ª evolução disponível.",
+        "es": "[Kay]\nTu clase aún no tiene disponible el 4.º cambio de clase."
     }
 }

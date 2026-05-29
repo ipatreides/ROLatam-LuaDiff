@@ -391,9 +391,9 @@
     },
     "wViEDA": {
         "ko": "[신자]\n아~♪ 아아~♬",
-        "en": "[Follower]\nAh~♪ Ahh~♬",
-        "pt": "[Fiel]\nAh~♪ Ah~♬",
-        "es": "[Fiel]\nAh~♪ Aaa~♬"
+        "en": "[Follower]\nAh~ Ahh~",
+        "pt": "[Fiel]\nAh~ Ah~",
+        "es": "[Fiel]\nAh~ Aaa~"
     },
     "wliEDA": {
         "ko": "망부석",
@@ -421,13 +421,13 @@
     },
     "xliEDA": {
         "ko": "[망부석]\n......\n.........",
-        "en": "[Waiting Stone]......\n\n.........",
+        "en": "[Waiting Statue]\n......\n.........",
         "pt": "[Pedra da Esposa]\n......\n.........",
         "es": "[La roca de la esposa]\n......\n........."
     },
     "x1iEDA": {
         "ko": "[망부석]\n......\n.........\n............",
-        "en": "[Waiting Statue]......\n.........\n\n............",
+        "en": "[Waiting Statue]\n......\n.........\n............",
         "pt": "[Pedra da Esposa]\n......\n.........\n............",
         "es": "[La roca de la esposa]\n......\n.........\n............"
     },
@@ -458,12 +458,12 @@
     "zFiEDA": {
         "ko": "[망부석]\n멀리 떠난 사람을 기다리다 돌이 된 사람 처음 보시나요? 아니라면 절 내버려 두시고, 처음이라도 저를 내버려두세요.",
         "en": "[Waiting Statue]\nHaven't you seen someone before who's turned into a stone while waiting for the person they love? Even if you haven't, please leave me alone.",
-        "pt": "[Pedra da Esperança]\nÉ a primeira vez que vês alguém que se transformou em pedra à espera de quem partiu para longe? Se não for, deixa-me em paz; mesmo que seja a primeira vez, deixa-me em paz.",
+        "pt": "[Pedra da Esposa]\nÉ a primeira vez que vês alguém que se transformou em pedra à espera de quem partiu para longe? Se não for, deixa-me em paz; mesmo que seja a primeira vez, deixa-me em paz.",
         "es": "[La Roca de la Esposa]\n¿Es la primera vez que ves a alguien que se ha convertido en piedra esperando a quien se fue lejos? Si no es así, déjame en paz; y si es la primera vez, déjame en paz."
     },
     "zViEDA": {
         "ko": "[망부석]\n파도소리가 들리지 않으니까요. 단 하나라도 놓칠 수 없어요.",
-        "en": "[Waiting Stone]\nBecause I can't hear the waves. I can't miss even one.",
+        "en": "[Waiting Statue]\nBecause I can't hear the waves. I can't miss even one.",
         "pt": "[Pedra da Esposa]\nPorque não consigo ouvir o som das ondas. Não posso perder nem um único.",
         "es": "[La Roca de la Esposa]\nPorque no oigo el sonido de las olas. No puedo perderme ni una sola."
     },
@@ -481,13 +481,13 @@
     },
     "0FiEDA": {
         "ko": "[망부석]\n풍랑일지, 너울일지, 태풍일지. 바다로 떠난 사람이 무사히 돌아 오길 기다리면서 듣는 건 먼 파도 소리 밖에 없거든요.",
-        "en": "[Waiting Stone]\nWhether it's a storm, a swell, or a typhoon. All I can hear while waiting for the person who left for the sea to return safely is the distant sound of the waves.",
+        "en": "[Waiting Statue]\nWhether it's a storm, a swell, or a typhoon. All I can hear while waiting for the person who left for the sea to return safely is the distant sound of the waves.",
         "pt": "[Pedra da Esposa]\nSeja tempestade, ondulação ou furacão. Enquanto espero que a pessoa que partiu para o mar volte em segurança, o único som que ouço é o das ondas distantes.",
         "es": "[La roca de la esposa]\nYa sea una tormenta, un oleaje o un tifón. Mientras espero que la persona que se fue al mar regrese sana y salva, lo único que escucho es el sonido de las olas lejanas."
     },
     "0ViEDA": {
         "ko": "[망부석]\n인력으로는 어떻게 할 수 없는 거대한 물... 무사히 돌아오길 빌면서 기다리는 것 밖에는 할 수 없어요.",
-        "en": "[Waiting Stone]\nThe sea isn't something we can control. Just praying and waiting. That's all we can do.",
+        "en": "[Waiting Statue]\nThe sea isn't something we can control. Just praying and waiting. That's all we can do.",
         "pt": "[Mangbuseok]\nÁguas gigantescas que a força humana não consegue controlar... Não dá pra fazer nada além de esperar, rezando pra que ele volte são e salvo.",
         "es": "[Mangbuseok]\nEsas aguas gigantescas contra las que no podemos hacer nada... Lo único que podemos hacer es esperar y rezar para que regresen sanos y salvos."
     },
@@ -517,21 +517,21 @@
     },
     "1liEDA": {
         "ko": "[망부석]\n오늘은 올 거야, 내일에라도 올 거야! 맞아요. 나는 이미 그 사람이 길을 잃고 파도에 삼켜졌을 거라고 생각하고 체념했지만 그랬다면 나는 이곳에 오지 않았겠죠!",
-        "en": "[Waiting Stone]\nHe'll come today, or tomorrow at the latest! That's right. I thought he might have lost his way and been swallowed by the waves, and I resigned myself to it. But if that were true, I wouldn't have come here!",
+        "en": "[Waiting Statue]\nHe'll come today, or tomorrow at the latest! That's right. I thought he might have lost his way and been swallowed by the waves, and I resigned myself to it. But if that were true, I wouldn't have come here!",
         "pt": "[Pedra da Esposa]\nHoje ele vai chegar, amanhã ele vai chegar! É isso mesmo. Eu já tinha desistido, achando que ele tinha se perdido e sido engolido pelas ondas, mas se fosse assim, eu não teria vindo aqui!",
         "es": "[La Roca de la Esposa]\n¡Hoy vendrá, o tal vez mañana! Sí. Ya me había resignado pensando que esa persona se había perdido y que las olas se la habían tragado, pero si fuera así, ¡no habría venido aquí!"
     },
     "11iEDA": {
         "ko": "[망부석]\n맞아요. 나는 기다리고 있었어요!!!",
         "en": "[Waiting Statue]\nYes, that's why I'm still waiting!",
-        "pt": "[Pedra da Esperança]\nÉ isso mesmo. Eu estava esperando!!!",
+        "pt": "[Pedra da Esposa]\nÉ isso mesmo. Eu estava esperando!!!",
         "es": "[La Roca de la Esposa]\n¡Así es! ¡Estaba esperando!!!"
     },
     "2FiEDA": {
         "ko": "[망부석]\n이곳이에요♬ 이쪽이에요♩ 잃지 말고 찾아 와요♪ 철썩- 잊지 말고 찾아 와요♬ 처얼썩- 철썩-",
-        "en": "[Waiting Statue]\nThis way♬ This way♩ Don't get lost, come to me♪ Splash! Don't forget, come to me♬ Splash, splash!",
-        "pt": "[Pedra da Esposa]\nÉ aqui♬ É por aqui♩ Não te perca e vem me encontrar♪ Splash- Não te esqueças e vem me encontrar♬ Splash- Splash-",
-        "es": "[La Roca de la Esposa]\n¡Es aquí♬ Por aquí♩ No te pierdas y ven a buscarme♪ Chap- No te olvides y ven a buscarme♬ Chap- Chap-"
+        "en": "[Waiting Statue]\nThis way This way♩ Don't get lost, come to me Splash! Don't forget, come to me Splash, splash!",
+        "pt": "[Pedra da Esposa]\nÉ aqui É por aqui♩ Não te perca e vem me encontrar Splash- Não te esqueças e vem me encontrar Splash- Splash-",
+        "es": "[La Roca de la Esposa]\n¡Es aquí Por aquí♩ No te pierdas y ven a buscarme Chap- No te olvides y ven a buscarme Chap- Chap-"
     },
     "2ViEDA": {
         "ko": "[망부석]\n나는 내일 또 이곳에 나와서 돌아오길 기다리며 노래를 부르겠죠. 내 노래 소리를 듣고 길을 잃지 않고 찾아 오길...!",
@@ -679,9 +679,9 @@
     },
     "8ViEDA": {
         "ko": "♬ 마음의 소리에 귀를 기울이는 것 ♪",
-        "en": "♬ Listen to what your heart tells you ♪",
-        "pt": "♬ Prestar atenção ao som do coração ♪",
-        "es": "♬ Escuchar la voz del corazón ♪"
+        "en": "Listen to what your heart tells you",
+        "pt": "Prestar atenção ao som do coração",
+        "es": "Escuchar la voz del corazón"
     },
     "8liEDA": {
         "ko": "[소리꾼]\n소리는 소리로 덮는 것. 하지만 때로는 비어 있는 것이 모든 소리를 덮을 수 있다...\n맞아요. 스승님도 그 비슷한 말씀을 하셨어요.",
@@ -787,7 +787,7 @@
     },
     "A1mEDA": {
         "ko": "[소리꾼]\n<NAVI>[오딘신전]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI>으로 가 봐야 한다고 그러지 않았어요? 급하다고 했잖아요. 그럼, 안녀어어어어어엉!!!!!",
-        "en": "[Musical Storyteller]\nDidn't you say you have to go to <NAVI>[Odin's Temple]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI>? You said it was urgent. Well then, goodbyeoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo",
+        "en": "[Musical Storyteller]\nDidn't you say you have to go to <NAVI>[Odin's Temple]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI>? You said it was urgent. Well then, goodbye!!!",
         "pt": "[Cantor]\nNão foi o que você disse, que eu tinha que ir para <NAVI>[Templo de Odin]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI>? Você disse que era urgente, né? Então, adeus!!!!!",
         "es": "[Cantante]\n¿No dijiste que tenía que ir a <NAVI>[Templo de Odín]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI>? Dijiste que era urgente. ¡Entonces, adiós!"
     },

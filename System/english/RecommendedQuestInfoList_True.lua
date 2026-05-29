@@ -42,5 +42,27 @@ RecommendedQuestInfoList = {
 		QuestInfo3 = {
 			"^ff0000* This is a notice for new content.^000000"
 		}
+	},
+	[84] = {
+		Title = "4th Job Release!!!",
+		IconName = "ico_jq.bmp",
+		Summary = "A new era begins!",
+		BgName = "reco_84.bmp",
+		QuestInfo1 = {
+			"The long-awaited secrets of the 4th Job are finally revealed!!!",
+			[[
+With the arrival of new classes, the continent of Midgard begins to stir, and adventurers with different goals and destinies set out on their journey.
+Trials and effort to become stronger!
+And your story awaits.]],
+			"\t\t\t<TIPBOX>>4th Job Guide<INFO>9136</INFO></TIPBOX>"
+		},
+		QuestInfo2 = {
+			"Target:   ^55bbeeTranscendent 3rd Classes^000000",
+			"BaseLv: ^ffaa66200^000000",
+			"JobLv:  ^ffaa6670^000000"
+		},
+		QuestInfo3 = {
+			"^ff0000* This page is an update introduction, not a quest. It will not be removed even after completion.^000000"
+		}
 	}
 }

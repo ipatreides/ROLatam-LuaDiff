@@ -1953,5 +1953,124 @@
         "en": "Dark Priest .. It's really annoying.",
         "pt": "Malditos Sacerdotes Malditos! Urgh!",
         "es": "El Sacerdote oscuro… es realmente molesto."
+    },
+    "BwR1Aw": {
+        "en": "[Paul]\nLately, there have even been bees in the field outside Prontera's West Gate ...",
+        "pt": "[Paulinho]\nEu gosto muito de brincar do lado de fora de Prontera.",
+        "es": "[Paul]\nÚltimamente, incluso hay abejas en el campo que está justo afuera de la puerta oeste de Prontera…"
+    },
+    "CAR1Aw": {
+        "en": "[Paul]\nCould it be? The legendary knight ...\nIs it like the Knight of Abyss from the ancient castle of Glast Heim?",
+        "pt": "[Paulinho]\nO-oh... um Cavaleiro Lendário.\nSerá parecido com o Cavaleiro do Abismo que tem em Glastheim?",
+        "es": "[Paul]\n¿Podría ser? El caballero legendario…\n¿Es como el Caballero abismal del antiguo castillo de Glastheim?"
+    },
+    "CQR1Aw": {
+        "en": "[Lars]\nOh! Are you from the Eden Group?\nWell, isn't it really that important? But can you accept the quest from me?",
+        "pt": "[Laerte]\nEi, você é do Grupo do Éden?\nSe importaria em atender o meu pedido?",
+        "es": "[Lars]\n¡Ah! ¿Eres del Grupo del Edén? \nBueno, ¿no es realmente muy importante? Pero, ¿puedes aceptar la misión que ofrezco?"
+    },
+    "CgR1Aw": {
+        "en": "[Lars]\nDo you know Glastheim's ancient castle?\nIt's a castle that has crumbled since ^4D4DFFSchmidt ^000000 A long time ago ...",
+        "pt": "[Laerte]\nJá ouviu falar da Abadia de Glastheim?\nÉ uma construção que virou ruínas durante o reinado de ^4D4DFFSchmidt^000000....",
+        "es": "[Lars]\n¿Conoces el antiguo castillo de Glastheim?\nEs un castillo que se viene desmoronando desde los tiempos de ^4D4DFFSchmidt^000000. Hace mucho tiempo…"
+    },
+    "CwR1Aw": {
+        "en": "[Lars]\nEven though the promised time has passed, the priests have not returned.\nI am concerned about their safety. Therefore, I am looking for someone to investigate.",
+        "pt": "[Laerte]\nMandamos alguns exorcistas para lá, mas não voltaram ainda.\nEstou procurando algum aventureiro que possa me informar a situação deles.",
+        "es": "[Lars]\nAunque ya pasó el tiempo estipulado, los sacerdotes no regresaron.\nMe preocupa su seguridad. Por lo tanto, busco a alguien que investigue."
+    },
+    "DAR1Aw": {
+        "en": "[Lars]\nThe person in charge of all the priests who were sent is named^4D4DFFClaude. ^000000\nPlease look for him at the church in the ancient castle of Glastheim",
+        "pt": "[Laerte]\nA pessoa encarregada da expedição se chama ^4D4DFFCláudio^000000.\nEncontre-o na Abadia de Glastheim.",
+        "es": "[Lars]\nEl líder de todos los sacerdotes enviados se llama^4D4DFFClaude.^000000 \nBúscalo en la iglesia que está en el antiguo castillo de Glastheim."
+    },
+    "DQR1Aw": {
+        "en": "[Lars]\n, even if things are working fine. But he couldn't help but worry.\nIf so, then bother, too.\nGod bless you.",
+        "pt": "[Laerte]\nTenho certeza que ele está bem, mas ainda tenho preocupações.\nPor favor.\nQue a graça do Senhor esteja com você.",
+        "es": "[Lars]\nAunque todo parecía ir bien, no pude evitar preocuparme. \nAsí que ve a consultarle.\nQue Dios te bendiga."
+    },
+    "DgR1Aw": {
+        "en": "[Lars]\n^4D4DFFClaude. ^000000 Go to the church in the ancient castle of Glastheim.",
+        "pt": "[Laerte]\n^4D4DFFCláudio^000000 deve estar na Abadia de Glastheim.",
+        "es": "[Lars]\n^4D4DFFClaude. ^000000 Ve a la iglesia del antiguo castillo de Glastheim."
+    },
+    "DwR1Aw": {
+        "en": "[Lars]\nIf you go ^4D4DFF from Geffen, go west-west-north-west, ^000000 and you will see the ancient castle of Glastheim.\nThe church is located in the south-central part of the ancient castle ruins. So please look carefully.",
+        "pt": "The church is located in the south-central part of the ancient castle ruins. So please look carefully."
+    },
+    "EAR1Aw": {
+        "en": "[Claude]\nThe cleansing went smoothly. So he doesn't need to worry about anything.\nBut if there is a problem ...",
+        "pt": "[Cláudio]\nO trabalho está indo bem, ele não precisa se preocupar.\nExceto...",
+        "es": "[Claude]\nLa limpieza se completó sin contratiempos, así que no tiene que preocuparse por nada. \nPero si hay algún problema…"
+    },
+    "EQR1Aw": {
+        "en": "[Claude]\nSoon the kids are exhausted and wandering,\nwhile moving forward one step at a time. But they would be disappointed not to reach their destination",
+        "pt": "[Cláudio]\nAté mesmo os mais jovens se cansam com o tempo.\nE estamos começando a ficar sem esperança de que os monstros parem de aparecer.",
+        "es": "[Claude]\nPronto los niños estarán agotados y deambularán, \navanzando paso a paso. Pero les decepcionaría no llegar a su destino."
+    },
+    "EgR1Aw": {
+        "en": "[Claude]\nAll the rest for now, only this side of the situation.\nWhat? Will you try to be a great Cat Hand?",
+        "pt": "[Cláudio]\nTudo o que restou foram essas missões.\nE aí? Vai aceitar?",
+        "es": "[Claude]\nDescansemos un poco. No hay mucho más que podamos hacer al respecto.\n¿Qué? ¿Intentarás unirte a Pata de Gato?"
+    },
+    "EwR1Aw": {
+        "en": "[Claude]\nWhat is taking over the church?\nIs it the ^4D4DFFEvil Druid ^000000 and ^4D4DFFWraith ^000000, who are called gods of death?",
+        "pt": "[Cláudio]\nOs controladores da Abadia.\n^4D4DFFDruidas Malignos^000000 e ^4D4DFFAlmas Penadas^000000 parecem ser emissários da morte.",
+        "es": "[Claude]\n¿Qué se está apoderando de la Iglesia?\n¿Son el ^4D4DFFDruida del mal^000000 y el ^4D4DFFEspectro^000000 a los que llaman dioses de la muerte?"
+    },
+    "FAR1Aw": {
+        "en": "[Claude]\nThe Dark Undead are weak in the face of ^4D4DFF holy elements. ^000000\nYou will use a Divine Weapon, or you can ask the priest inside to give such a weapon to you.",
+        "pt": "[Cláudio]\nMonstros Sombrios são fracos contra a propriedade ^4D4DFFSagrado^000000.\nPeça para algum Sacerdote abençoar sua arma.",
+        "es": "[Claude]\nLos Muertos vivientes oscuros son débiles ante los ^4D4DFFelementos sagrados.^000000\nSi tienes, usa un Arma divina. Si no, pídele una al sacerdote que está adentro."
+    },
+    "FQR1Aw": {
+        "en": "[Claude]\nAnyway, it's because of you that we had a great success.\nWell done.",
+        "pt": "[Cláudio]\nDe qualquer forma, graças a você, tudo deu certo.\nBom trabalho.",
+        "es": "[Claude]\nDe todos modos, tuvimos un éxito rotundo gracias a ti. \nBien hecho."
+    },
+    "FgR1Aw": {
+        "en": "[Claude]\nNo, Cat Hand,\nI understand your mind well. But the catacombs are very dangerous for you.\nBe careful.",
+        "pt": "[Cláudio]\nSinto muito.\nEntendo sua vontade, mas esse trabalho é perigoso demais para você.\nConcorda?",
+        "es": "[Claude]\nNo, agente de Pata de Gato,\nentiendo bien cómo piensas. Pero las catacumbas son muy peligrosas para ti. \nTen cuidado."
+    },
+    "FwR1Aw": {
+        "en": "[Claude]\nYou don't need to overdo it.\nIs that Geffen over there? Geffen is the closest town to here.\nWell, go and stay there for a bit, then come back.",
+        "pt": "[Cláudio]\nNão se preocupe, o de hoje tá pago.\nSabe Geffen? É a cidade mais próxima daqui.\nVá descansar lá, é mais seguro.",
+        "es": "[Claude]\nNo hace falta que te sobreexijas.\n¿Eso de ahí es Geffen? Geffen es el pueblo más cercano a este lugar. \nBueno, ve y quédate allí un rato, luego vuelve."
+    },
+    "GAR1Aw": {
+        "en": "[Claude]\nIn cathedrals and churches,\nthere is also a large, underground burial chamber, too ... So how do you have a cemetery?",
+        "pt": "[Cláudio]\nAssim como qualquer Catedral antiga,\nos subterrâneos desse lugar escondem um cemitério.",
+        "es": "[Claude]\nEn las catedrales e iglesias,\ntambién hay una gran cámara funeraria subterránea… ¿Cómo es que hay un cementerio?"
+    },
+    "GQR1Aw": {
+        "en": "[Claude]\nAnd there are high-ranking priests asleep.\n... The problem is, now there is a ^4D4DFFDark Priest, ^000000 and he is on a rampage.",
+        "pt": "[Cláudio]\nOs antigos Sacerdotes descansavam lá.\n...até que eles despertaram um dia... são os ^4D4DFFSacerdotes Malditos^000000.",
+        "es": "[Claude]\nY hay sacerdotes de alto rango durmiendo.\n… El problema es que ahora hay un ^4D4DFFSacerdote oscuro^000000 y está fuera de control."
+    },
+    "GgR1Aw": {
+        "en": "[Claude]\nYes, now I'm going to tell you to defeat the Dark Priest.\nWhat? Cat Hand, what do you think?",
+        "pt": "[Cláudio]\nSim, chegou a hora de enfrentarmos esses Sacerdotes Malditos.\nVocê aceita?",
+        "es": "[Claude]\nSí, ahora te pediré que derrotes al Sacerdote oscuro.\n¿Qué? ¿Qué te parece, agente de Pata de Gato?"
+    },
+    "GwR1Aw": {
+        "en": "[Claude]\nThen hurry and come along.\nI will be here to ask you to be blessed ... No, I wish you good luck.",
+        "pt": "[Cláudio]\nEntão, vá.\nVou descansar um pouco... boa sorte.",
+        "es": "[Claude]\nEntonces, apúrate y ven.\nEstaré aquí para bendecirlos… No, desearles suerte."
+    },
+    "HAR1Aw": {
+        "en": "[Claude]\nChris ...\nWhat a fun companion!\nHahahaha! I understand.\nI'll try looking for someone else, hahaha!",
+        "pt": "[Cláudio]\nHahah!\nSem problemas!\nHahahah! Eu compreendo.\nVou encontrar outra pessoa. Hahahah!",
+        "es": "[Claude]\nChris…\n¡Qué compañero tan divertido!\n¡Ja, ja, ja, ja! Entiendo. \nIntentaré conseguir a otra persona, ¡ja, ja, ja!"
+    },
+    "HQR1Aw": {
+        "en": "This is a dangerous area. Please be careful.",
+        "pt": "Essa área é perigosa, tome cuidado.",
+        "es": "Esta es una zona peligrosa. Por favor, ten cuidado."
+    },
+    "HgR1Aw": {
+        "en": "[Merlin]\nWhat do you want?\nGive a blessing to your weapon? Or give a blessing to you?",
+        "pt": "[Márcia]\nO que quer?\nQue eu abençoe a arma ou abençoe você?",
+        "es": "[Merlin]\n¿Qué quieres?\n¿Bendecir tu arma? ¿O bendecirte tú?"
     }
 }

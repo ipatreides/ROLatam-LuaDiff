@@ -920,9 +920,9 @@
         "es": "[Norton]\nAh, bien por ti. Esperamos que no lleguen demasiadas parejas en busca de servicios de divorcio. Sin embargo, si alguna vez te encuentras sufriendo el agobio de un matrimonio sin amor, ¡podemos ayudarte! Hasta pronto."
     },
     "2B78AQ": {
-        "en": "Wedding Present",
-        "pt": "Presente de casamento",
-        "es": "Regalo de boda"
+        "en": "D'Italie",
+        "pt": "D'Italie",
+        "es": "D'Italie"
     },
     "2R78AQ": {
         "en": "[D'Italie]\nSir, you appear to be carrying too many items. Please return when you have more space within your inventory.",
@@ -2034,6 +2034,11 @@
         "pt": "Redefinir",
         "es": "Restablecer."
     },
+    "tx/8AQ": {
+        "en": "Name02",
+        "pt": "Name02",
+        "es": "Name02"
+    },
     "uB/8AQ": {
         "en": "Let you divorce.",
         "pt": "Permitir que você se divorcie.",
@@ -2068,5 +2073,15 @@
         "en": "You are not baby, even not parent. Go back.",
         "pt": "Você não é um bebê, nem mesmo um pai. Volte atrás.",
         "es": "No eres bebé ni padre. Regresa más tarde."
+    },
+    "vx/8AQ": {
+        "en": "[Norton]\nUnderstood, it seems like you've reached a decision regarding this process,",
+        "pt": "[Norton]\nEntendi, parece que você já tomou uma decisão em relação a esse processo.",
+        "es": "[Norton]\nEntendido, parece que has tomado una decisión respecto a este proceso."
+    },
+    "wB/8AQ": {
+        "en": "[D'Italie]\nI'm sorry, but these are only available for those who are not married and you're showing up registered as married...",
+        "pt": "[D'Italie]\nSinto muito, mas essas opções estão disponíveis apenas para quem não é casado e você consta como casado(a) no seu cadastro...",
+        "es": "[D'Italie]\nLo siento, pero estos servicios solo están disponibles para personas solteras y usted aparece registrado como casado..."
     }
 }

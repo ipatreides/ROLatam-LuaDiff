@@ -2059,18 +2059,28 @@
         "es": "Piedra de Músicos II (Capa) ({0} un)"
     },
     "XGXDCQ": {
-        "en": "Range Stone({0}left)"
+        "en": "Range Stone({0}left)",
+        "pt": "Pedra de Alcance (Topo) ({0} un)",
+        "es": "Piedra de Alcance (Superior) ({0} un)"
     },
     "XWXDCQ": {
-        "en": "Melee Stone({0}left)"
+        "en": "Melee Stone({0}left)",
+        "pt": "Pedra de Corpo (Topo) ({0} un)",
+        "es": "Piedra de Cuerpo (Superior) ({0} un)"
     },
     "XmXDCQ": {
-        "en": "Melee Stone({0}left)"
+        "en": "Melee Stone({0}left)",
+        "pt": "Pedra de Corpo (Meio) ({0} un)",
+        "es": "Piedra de Cuerpo (Centro) ({0} un)"
     },
     "X2XDCQ": {
-        "en": "Range Stone({0}left)"
+        "en": "Range Stone({0}left)",
+        "pt": "Pedra de Alcance (Baixo) ({0} un)",
+        "es": "Piedra de Alcance (Inferior) ({0} un)"
     },
     "YGXDCQ": {
-        "en": "Melee Stone({0}left)"
+        "en": "Melee Stone({0}left)",
+        "pt": "Pedra de Corpo (Baixo) ({0} un)",
+        "es": "Piedra de Cuerpo (Inferior) ({0} un)"
     }
 }

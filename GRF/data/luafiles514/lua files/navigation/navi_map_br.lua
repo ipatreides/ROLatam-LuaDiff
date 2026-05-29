@@ -4081,6 +4081,13 @@ Navi_Map = {
 		100
 	},
 	{
+		"s_atelier",
+		"Shadow Workshop",
+		5001,
+		200,
+		140
+	},
+	{
 		"sch_gld",
 		"Feudo de Nithafjoll ",
 		5001,

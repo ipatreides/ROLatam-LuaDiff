@@ -1,322 +1,392 @@
 {
     "QOw0Aw": {
-        "en": "Sister Linus",
+        "ko": "라이너스 수녀",
+        "en": "Linus Sister",
         "pt": "Irmã Lina",
         "es": "Hermana Linus"
     },
     "Qew0Aw": {
-        "en": "[Sister Linus]\nI think I've seen you before...\nHo ho. We're both the servants of God. I'm sure we've met somewhere before.",
-        "pt": "[Irmã Lina]\nAcho que já vi você antes...\nHo-ho. Somos servos de Deus. Tenho certeza de que já nos encontramos em algum lugar antes.",
-        "es": "[Hermana Linus]\nCreo que ya te vi antes…\nJo, jo. Tú y yo servimos a Dios. No tengo duda de que ya nos vimos en algún sitio."
+        "ko": "- 소지하고 계신 아이템이 많아 진행할 수 없습니다. -",
+        "en": "- You cannot proceed because you are carrying too many items. -",
+        "pt": "- Você possui muitos itens e não pode prosseguir. -",
+        "es": "- No puedes continuar porque llevas demasiados objetos. -"
     },
     "Quw0Aw": {
-        "en": "[Sister Linus]\nHave you heard of the skill, ^3131FFRedemptio^000000?\nWith it, you can sacrifice yourself to save many. It's dangerous, but such a selfless act is romance among His servants like us.",
-        "pt": "[Irmã Lina]\nVocê já ouviu falar da habilidade ^3131FFMartírio^000000?\nCom ela, você pode se sacrificar para salvar muitos. É perigoso, mas um ato tão altruísta é um romance entre servos como nós.",
-        "es": "[Hermana Linus]\n¿Te hablaron de la habilidad ^3131FFRedención^000000?\nCon ella, puedes sacrificarte para salvar muchas vidas. Es algo peligroso, pero un acto tan desinteresado se vuelve poético para quienes servimos a Dios."
+        "ko": "[라이너스 수녀]\n새벽의 파수꾼이여, 당신의 등불로 그녀를 인도하여 주소서. 오딘신이시여, 당신께선 무한한 자비와 사랑을 베풀라 하셨나이다.",
+        "en": "[Sister Linus]\nGuardian of the dawn, guide her with your lantern. O Lord Odin, you who grant infinite mercy and love.",
+        "pt": "[Irmã Lina]\nVigia da aurora, guiai-a com vossa luz. Ó Deus Odin, vós nos ensinastes a conceder misericórdia e amor infinitos.",
+        "es": "[Hermana Linus]\nCentinela del alba, guíala con tu lámpara. Dios Odín, vos nos enseñasteis a conceder misericordia y amor infinitos."
     },
     "Q+w0Aw": {
-        "en": "How about I teach you this skill, brother?",
-        "pt": "Que tal eu ensinar essa habilidade a você, irmão?",
-        "es": "¿Qué tal si te enseño esta habilidad, hermano?"
+        "ko": "[라이너스 수녀]\n당신 앞에 선 가련한 영혼을 불쌍히 여기시어 그들이 원하는 영원한 안식을 얻게 하소서. 당신의 찬란하고 영원한 빛을 그들에게 비춰주소서.",
+        "en": "[Sister Linus]\nPlease take pity on the poor soul standing before you and grant them the eternal rest they seek. Shine your brilliant and eternal light upon them.",
+        "pt": "[Irmã Lina]\nTende piedade das pobres almas diante de vós e permiti que obtenham o eterno Vaporizar que desejam. Iluminai-as com vossa luz radiante e eterna.",
+        "es": "[Hermana Linus]\nApiadaos de las pobres almas que están ante vos, y permitid que alcancen la eterna Evaporización que desean. Iluminadlas con vuestra luz brillante y eterna."
     },
     "ROw0Aw": {
-        "en": "How about I teach you this skill, sister?",
-        "pt": "Que tal eu ensinar essa habilidade a você, irmã?",
-        "es": "¿Qué tal si te enseño esta habilidad, hermana?"
+        "ko": "누구를 위한 기도인가요?",
+        "en": "Who is this prayer for?",
+        "pt": "Por quem é essa oração?",
+        "es": "¿Para quién es esa oración?"
     },
     "Rew0Aw": {
-        "en": "I'm sure it'll be a great help to you one day.\nNow, may Odin bless you.",
-        "pt": "Tenho certeza de que será de grande ajuda para você um dia.\nAgora, que Odin lhe abençoe.",
-        "es": "Seguro que algún día te será de gran ayuda.\nQue Odín te bendiga."
+        "ko": "[라이너스 수녀]\n..............",
+        "en": "[Sister Linus]\n..............",
+        "pt": "[Irmã Lina]\n..............",
+        "es": "[Hermana Linus]\n.............."
     },
     "Ruw0Aw": {
-        "en": "[Sister Linus]\nI pray for you every day.",
-        "pt": "[Irmã Lina]\nOro por você todos os dias.",
-        "es": "[Hermana Linus]\nRezo por ti todos los días."
+        "ko": "[라이너스 수녀]\n한 어린 수녀가 있었답니다.",
+        "en": "[Sister Linus]\nThere once was a young nun.",
+        "pt": "[Irmã Lina]\nHavia uma jovem freira.",
+        "es": "[Hermana Linus]\nHabía una joven monja."
     },
     "R+w0Aw": {
-        "en": "[Sister Linus]\nPlease, Watcher of the Dawn, show her the way with your lantern. Dear Odin, you told us to love and forgive each other.",
-        "pt": "[Irmã Lina]\nÓ, Sentinela do Amanhecer, mostre a ela o caminho com seu lampião. Querido Odin, você nos disse para amarmos e perdoarmos uns aos outros.",
-        "es": "[Hermana Linus]\nGuardián del amanecer, muéstrale el camino con tu farol. Querido Odín, nos dijiste que nos amáramos y perdonáramos."
+        "ko": "[라이너스 수녀]\n언제나 밝고 명랑했지만,\n왈가닥 기질이 있어 이런 저런\n작은 사고도 많이 쳤던 귀여운 아이였지요.",
+        "en": "[Sister Linus]\nShe was always cheerful and bright,\nbut she had a mischievous streak,\nso she often caused all sorts of\nsmall accidents.",
+        "pt": "[Irmã Lina]\nEla era sempre alegre e animada,\nmas tinha um temperamento travesso\ne causava vários pequenos acidentes.\nEra uma criança adorável.",
+        "es": "[Hermana Linus]\nSiempre era alegre y vivaz,\npero también algo revoltosa,\nasí que causaba muchos pequeños\nincidentes. Era una niña encantadora."
     },
     "SOw0Aw": {
-        "en": "[Sister Linus]\nPlease take pity on these poor souls standing before you and let them rest in peace. Shine your bright light of eternity unto them.",
-        "pt": "[Irmã Lina]\nÓ, tenha piedade dessas pobres almas que estão diante de você e deixe-as descansar em paz. Faça brilhar sua luz resplandecente da eternidade sobre elas.",
-        "es": "[Hermana Linus]\nTen piedad de estas pobres almas que están ante ti y déjalas descansar en paz. Ilumínalas con tu luz eterna."
+        "ko": "[라이너스 수녀]\n모험가들은 일부러 위험한 지역만을 골라 여행을 다니며 수행을 쌓곤 하죠.\n그리고 그 모임에는 위험한 만큼 성직자가 빠지지 않는다는 것, 잘 아시리라 생각합니다.",
+        "en": "[Sister Linus]\nAdventurers often travel only through dangerous lands to train themselves.\nAnd surely you know that wherever danger awaits, a priest is always needed among them.",
+        "pt": "[Irmã Lina]\nAventureiros costumam escolher áreas perigosas de propósito para viajar e treinar.\nE acredito que você saiba bem que, por serem perigosos,\nesses grupos nunca deixam de levar um clérigo.",
+        "es": "[Hermana Linus]\nLos aventureros suelen elegir\nzonas peligrosas para viajar y entrenarse.\nY creo que sabrá bien que, cuanto más peligroso es el grupo,\nmás indispensable resulta un clérigo."
     },
     "Sew0Aw": {
-        "en": "Whom are you praying for?",
-        "pt": "Por quem você está orando?",
-        "es": "¿Por quién rezas?"
+        "ko": "[라이너스 수녀]\n어느 날, 한 모험가들이\n여행을 함께 떠날 성직자를 찾아\n이 곳에 찾아온 적이 있습니다.",
+        "en": "[Sister Linus]\nOne day, a group of adventurers came here\nlooking for a priest to accompany them on their journey.",
+        "pt": "[Irmã Lina]\nCerto dia, um grupo de aventureiros\nveio até aqui procurando um clérigo\npara partir em viagem com eles.",
+        "es": "[Hermana Linus]\nUn día, unos aventureros\nvinieron aquí en busca de un clérigo\nque los acompañara en su viaje."
     },
     "Suw0Aw": {
-        "en": "[Sister Linus]\n...",
-        "pt": "[Irmã Lina]\n...",
-        "es": "[Hermana Linus]\n…"
+        "ko": "[라이너스 수녀]\n....이것도 운명의 장난일까요?\n당시 대성당에는 그 날 따라\n그 여행에 동참할 수 있는,\n시간적 여유가 있는 성직자가 단 한 분도 없었답니다.\n그 아이만 제외하고요.",
+        "en": "[Sister Linus]\n...Perhaps it was fate's cruel joke?\nThat day, not a single priest in the cathedral\nhad the time to join the expedition...\nexcept for that child.",
+        "pt": "[Irmã Lina]\n....Seria isso também uma brincadeira do destino?\nNaquele dia, na Grande Catedral,\nnão havia nenhum clérigo com tempo livre\npara acompanhá-los nessa viagem.\nExceto aquela criança.",
+        "es": "[Hermana Linus]\n....¿Sería también una burla del destino?\nJusto aquel día, en la catedral\nno había ni un solo clérigo\ncon tiempo disponible\npara unirse a ese viaje.\nNadie, salvo aquella niña."
     },
     "S+w0Aw": {
-        "en": "[Sister Linus]\nThere was a young nun.",
-        "pt": "[Irmã Lina]\nHavia uma jovem freira.",
-        "es": "[Hermana Linus]\nHabía una monja joven."
+        "ko": "[라이너스 수녀]\n매사에 호기심이 많았던\n그 아이는 한참을 떼를 써서\n결국 그 파티에 참여하게 되었습니다.",
+        "en": "[Sister Linus]\nThat child, always full of curiosity,\nbegged and pleaded for quite some time,\nand eventually joined the party.",
+        "pt": "[Irmã Lina]\nAquela criança, que sempre foi\ncheia de curiosidade,\ninsistiu por muito tempo\ne acabou se juntando ao grupo.",
+        "es": "[Hermana Linus]\nAquella niña, siempre llena de curiosidad,\ninsistió durante mucho rato\ny al final acabó uniéndose a aquel grupo."
     },
     "TOw0Aw": {
-        "en": "[Sister Linus]\nShe was cheerful and bright.\nMischievous, too.\nA tomboy, who got herself into trouble more often than not.",
-        "pt": "[Irmã Lina]\nEla era alegre e brilhante.\nE travessa também.\nUma moleca, que se metia em encrencas com frequência.",
-        "es": "[Hermana Linus]\nEra alegre y brillante.\nY un poco traviesa.\nNo era muy femenina, y se metía en problemas bastante seguido."
+        "ko": "[라이너스 수녀]\n그들은 위험하기로 소문난\n^3131FF글래스트헤임^000000으로 떠났고,\n그 곳에서 수 많은 위협을 물리쳐 갔다고 합니다.\n그 아이도 꽤나 고군분투 한 모양이에요.",
+        "en": "[Sister Linus]\nThey departed for the infamous\n^3131FFGlast Heim^000000,\nand overcame countless dangers there.\nIt seems that child struggled quite hard as well.",
+        "pt": "[Irmã Lina]\nEles partiram para a perigosa\n^3131FFGlast Heim^000000,\ne dizem que lá enfrentaram inúmeras ameaças.\nParece que aquela criança também lutou bastante.",
+        "es": "[Hermana Linus]\nPartieron hacia ^3131FFGlast Heim^000000,\nun lugar famoso por su peligrosidad,\ny dicen que allí superaron\ninnumerables amenazas.\nParece que la niña también luchó con mucho esfuerzo."
     },
     "Tew0Aw": {
-        "en": "[Sister Linus]\nAdventurers pick the most dangerous places they can find to explore and gain experience.\nThey wouldn't have been so bold if they didn't have Priests like us with them.",
-        "pt": "[Irmã Lina]\nOs aventureiros escolhem os lugares mais perigosos que podem encontrar para explorar e ganhar experiência.\nEles não seriam tão ousados se não tivessem sacerdotes como nós com eles.",
-        "es": "[Hermana Linus]\nLos trotamundos eligen los lugares más peligrosos para explorar y ganar experiencia.\nNo habrían sido tan audaces si no hubieran tenido Sacerdotes como nosotros con ellos."
+        "ko": "[라이너스 수녀]\n그리고 그들은..여행의 막바지에 접어들어, 커다란 위험과 마주치게 됩니다.",
+        "en": "[Sister Linus]\nAnd then... near the end of their journey,\nthey encountered a terrible danger.",
+        "pt": "[Irmã Lina]\nE então, já perto do fim da viagem, eles se depararam com um grande perigo.",
+        "es": "[Hermana Linus]\nY entonces... al acercarse el final del viaje,\nse toparon con un gran peligro."
     },
     "Tuw0Aw": {
-        "en": "[Sister Linus]\nOne day, a group of adventurers\ncame here, looking for a Priest\nwho could journey along with them.",
-        "pt": "[Irmã Lina]\nUm dia, um grupo de aventureiros\nveio até aqui, procurando um sacerdote\nque pudesse viajar junto com eles.",
-        "es": "[Hermana Linus]\nUn día, un grupo de trotamundos\nvino aquí en busca de un Sacerdote\nque pudiera viajar con ellos."
+        "ko": "[라이너스 수녀]\n글래스트헤임. 그 중에서도\n가장 위험하다고 하는,\n^3131FF배회하는 자^000000들이 가득한 그 곳에서 그 아이를 제외한 모든 동료들이 쓰러지고 만 것이죠.\n여차하면 파티가 외진 곳에서 전멸할 수 있는 급박한 상황이었습니다.",
+        "en": "[Sister Linus]\nIn Glast Heim, in the area said to be the most dangerous,\nfilled with ^3131FFWanderers^000000,\nall of the companions except that child fell in battle.\nIt was a desperate situation where the entire party could have been wiped out.",
+        "pt": "[Irmã Lina]\nGlast Heim. Entre seus lugares,\nnaquele considerado o mais perigoso,\ncheio de ^3131FFHomem Errante^000000, todos os companheiros, exceto aquela criança, acabaram caindo.\nEra uma situação urgente em que, a qualquer momento, o grupo poderia ser aniquilado em um lugar isolado.",
+        "es": "[Hermana Linus]\nEn Glast Heim, y entre sus zonas\nen la que dicen que es la más peligrosa,\nllena de ^3131FFHombre Errante^000000,\ntodos sus compañeros cayeron,\nexcepto la niña.\nEra una situación urgente en la que,\nsi algo salía mal, el grupo podía ser aniquilado\nen un lugar apartado."
     },
     "T+w0Aw": {
-        "en": "[Sister Linus]\n...Perhaps by a twist of fate,\nno Priest in the main church\nat that time could afford\nto go with them.\nExcept her.",
-        "pt": "[Irmã Lina]\n...Talvez por uma reviravolta do destino,\nnenhum sacerdote da igreja principal\nnaquela época podia se dar ao luxo\nde ir com eles.\nExceto ela.",
-        "es": "[Hermana Linus]\n…Tal vez por un giro del destino,\nno había ninguno en la iglesia principal\nen ese momento que pudiera permitirse\nir con ellos.\nExcepto ella."
+        "ko": "그래서 그들은 어떻게 되었나요?",
+        "en": "So what happened to them?",
+        "pt": "E o que aconteceu com eles?",
+        "es": "¿Y qué les ocurrió?"
     },
     "UOw0Aw": {
-        "en": "[Sister Linus]\nBeing such a curious girl,\nshe insisted on going with them despite the opposition.\nEventually, she won and happily went away with her party.",
-        "pt": "[Irmã Lina]\nPor ser uma garota tão curiosa,\nela insistiu em ir com eles, apesar da oposição.\nPor fim, ela ganhou e foi embora feliz com seu grupo.",
-        "es": "[Hermana Linus]\nComo era una chica tan curiosa,\ninsistió en ir con ellos, a pesar del rechazo inicial.\nAl final, se los ganó y se fue feliz con el grupo."
+        "ko": "[라이너스 수녀]\n다른 동료들은 모두 전투불능 이었던 그 때..\n그 아이는 고대의 그 주문을 외우기 시작했습니다.",
+        "en": "[Sister Linus]\nAt that moment, while all the others were incapacitated...\nthat child began chanting an ancient spell.",
+        "pt": "[Irmã Lina]\nNaquele momento, quando todos os outros companheiros estavam fora de combate...\na criança começou a recitar aquele antigo encantamento.",
+        "es": "[Hermana Linus]\nCuando todos los demás compañeros\nestaban fuera de combate...\nla niña empezó a recitar\naquel antiguo conjuro."
     },
     "Uew0Aw": {
-        "en": "[Sister Linus]\nTheir destination was\nnone other than the infamous ^3131FFGlastheim^000000.\nThere, they encountered many threats and prevailed,\npartly because of her.",
-        "pt": "[Irmã Lina]\nSeu destino era\nnada menos que a infame ^3131FFGlastheim^000000.\nLá, eles enfrentaram muitas ameaças e venceram,\nem parte por causa dela.",
-        "es": "[Hermana Linus]\nSu destino era\nnada menos que el infame ^3131FFGlastHeim^000000.\nAllí se enfrentaron a muchas amenazas y las superaron,\nen parte gracias a ella."
+        "ko": "그 주문이란?",
+        "en": "What spell was it?",
+        "pt": "Que encantamento?",
+        "es": "¿Qué conjuro?"
     },
     "Uuw0Aw": {
-        "en": "[Sister Linus]\nAnd at the end of their journey, they faced the biggest challenge that they'd ever had.",
-        "pt": "[Irmã Lina]\nE, no final de sua jornada, eles enfrentaram o maior desafio que já tiveram.",
-        "es": "[Hermana Linus]\nY, al final del viaje, se enfrentaron al mayor desafío de todos."
+        "ko": "[라이너스 수녀]\n^FF0000레뎀프티오 !!!^000000",
+        "en": "[Sister Linus]\n^FF0000Redemptio!!!^000000",
+        "pt": "[Irmã Lina]\n^FF0000Martírio !!!^000000",
+        "es": "[Hermana Linus]\n^FF0000¡¡¡Redención!!!^000000"
     },
     "U+w0Aw": {
-        "en": "[Sister Linus]\nIn the middle of Glastheim,\nthey became surrounded by the most dangerous of all enemies there,\n^3131FFWanderers^000000. Everyone in her party fell except her.\nHer party was on the brink of complete annihilation.",
-        "pt": "[Irmã Lina]\nNo meio de Glastheim,\neles foram cercados pelos inimigos mais perigosos de todos,\n^3131FFAndarilhos^000000. Todos em seu grupo caíram, exceto ela.\nSeu grupo estava à beira da aniquilação completa.",
-        "es": "[Hermana Linus]\nEn el medio de GlastHeim,\nse vieron rodeados por el más peligroso de todos los enemigos,\nlos ^3131FFNómados^000000. Todo su grupo cayó, menos ella.\nSu grupo estaba al borde de la aniquilación."
+        "ko": "[라이너스 수녀]\n성직자 중에서도 실력이\n뛰어난 하이클래스 성직자만이\n쓸 수 있다고 하는 그 기술을요!!",
+        "en": "[Sister Linus]\nThat technique said to be usable\nonly by highly skilled high-class priests!",
+        "pt": "[Irmã Lina]\nAquela técnica que, dizem,\nsó pode ser usada por clérigos de classe alta\ncom habilidade excepcional!!",
+        "es": "[Hermana Linus]\n¡¡Aquella técnica que, según se dice,\nsolo pueden usar los clérigos\nde clase superior con gran habilidad!!"
     },
     "VOw0Aw": {
-        "en": "So? What happened to it?",
-        "pt": "E aí? O que aconteceu?",
-        "es": "¿Y? ¿Qué le pasó?"
+        "ko": "[라이너스 수녀]\n그 기술은 자신 주변의 동료들을\n구해내는 대신, 자신은 전투불능의\n상태로 빠지는, ^3131FF성직자 최고의 희생스킬^000000입니다.",
+        "en": "[Sister Linus]\nIt is the ultimate sacrificial skill for priests,\none that saves nearby allies\nwhile leaving the caster incapacitated.",
+        "pt": "[Irmã Lina]\nEssa técnica salva os companheiros ao redor,\nmas coloca o próprio usuário\nem estado de incapacidade de combate.\nÉ a ^3131FFmaior habilidade de sacrifício dos clérigos^000000.",
+        "es": "[Hermana Linus]\nEsa técnica salva a los compañeros\ncercanos a cambio de dejar\nal propio usuario fuera de combate:\nes ^3131FFla habilidad suprema de sacrificio de los clérigos^000000."
     },
     "Vew0Aw": {
-        "en": "[Sister Linus]\nAfter everyone else got knocked down,\nshe started chanting the ancient spell.",
-        "pt": "[Irmã Lina]\nDepois que todos os outros foram derrubados,\nela começou a entoar o feitiço antigo.",
-        "es": "[Hermana Linus]\nDespués de que derribaran a todos los demás,\nella empezó a conjurar el antiguo hechizo."
+        "ko": "[라이너스 수녀]\n책도 재미없다며 보는 둥\n마는 둥 하던 그 아이가,\n그 위기의 순간에 레뎀프티오의\n구절을 생각해 내곤 동료들을\n구하기 위해 안간힘을 쓴 것이지요.",
+        "en": "[Sister Linus]\nThat child, who always found books boring,\nsuddenly recalled the sacred verses of Redemptio\nduring that crisis and desperately tried to save the companions.",
+        "pt": "[Irmã Lina]\nAquela criança, que achava livros entediantes\ne mal os lia,\nlembrou-se dos versos de Martírio\nnaquele momento de crise\ne se esforçou ao máximo para salvar seus companheiros.",
+        "es": "[Hermana Linus]\nAquella niña, que apenas hojeaba los libros\ndiciendo que eran aburridos,\nen aquel momento de crisis recordó\nlos versos de Redención\ny se esforzó desesperadamente\npor salvar a sus compañeros."
     },
     "Vuw0Aw": {
-        "en": "What spell?",
-        "pt": "Que feitiço?",
-        "es": "¿Qué hechizo?"
+        "ko": "[라이너스 수녀]\n아마 그 순간, 꽤나 괴로웠을거라 생각해요.\n자신의 무기력함을 느끼는 때 만큼 괴로울 때도 없으니까요.",
+        "en": "[Sister Linus]\nI believe that moment must have been agonizing.\nNothing is more painful than feeling your own helplessness.",
+        "pt": "[Irmã Lina]\nAcredito que, naquele momento, ela tenha sofrido bastante.\nNão há dor maior do que sentir a própria impotência.",
+        "es": "[Hermana Linus]\nCreo que, en ese instante,\ndebió de sufrir mucho.\nNo hay nada más doloroso\nque sentirse impotente."
     },
     "V+w0Aw": {
-        "en": "[Sister Linus]\n^FF0000Redemptio!^000000",
-        "pt": "[Irmã Lina]\n^FF0000Martírio!^000000",
-        "es": "[Hermana Linus]\n^FF0000¡Redención!^000000"
+        "ko": "[라이너스 수녀]\n안간힘을 쓰는 그 아이를 가여이\n여기신 오딘신께서 내려주신 기적이었을까요?\n레뎀프티오는 성공했습니다.",
+        "en": "[Sister Linus]\nWas it perhaps a miracle granted by Odin,\nwho pitied the struggling child?\nRedemptio succeeded.",
+        "pt": "[Irmã Lina]\nTeria sido um milagre concedido pelo Deus Odin,\nque teve pena daquela criança se esforçando desesperadamente?\nMartírio teve sucesso.",
+        "es": "[Hermana Linus]\n¿Fue acaso un milagro concedido por Odín,\nque se apiadó de aquella niña\nque se esforzaba con todas sus fuerzas?\nRedención tuvo éxito."
     },
     "WOw0Aw": {
-        "en": "[Sister Linus]\nThe skill that we thought\ncould only be cast by\ntalented high-ranking Priests!",
-        "pt": "[Irmã Lina]\nA habilidade que pensávamos\nque só poderia ser lançada por\nsacerdotes talentosos de alto escalão!",
-        "es": "[Hermana Linus]\n¡La habilidad que pensábamos\nque solo podían lanzar\nlos Sumos sacerdotes más talentosos!"
+        "ko": "[라이너스 수녀]\n기적적으로 살아난 동료들은\n주변 상황을 정리하고 이그드라실\n잎사귀로 그 아이를 일으켜 세워,\n마지막 여정을 마치고 프론테라로\n무사히 돌아올 수 있었습니다.",
+        "en": "[Sister Linus]\nThe companions who miraculously survived\norganized the situation around them\nand revived the child with a Yggdrasil Leaf.\nAfter finishing the final leg of the journey,\nthey safely returned to Prontera.",
+        "pt": "[Irmã Lina]\nOs companheiros que sobreviveram milagrosamente\nresolveram a situação ao redor,\nlevantaram aquela criança com uma Folha de Yggdrasil\ne, depois de concluir a última etapa da jornada,\nconseguiram voltar em segurança para Prontera.",
+        "es": "[Hermana Linus]\nLos compañeros que sobrevivieron milagrosamente\naseguraron la zona y levantaron a la niña\ncon una Hoja de Yggdrasil.\nDespués terminaron el último tramo del viaje\ny pudieron regresar sanos y salvos\na Prontera."
     },
     "Wew0Aw": {
-        "en": "[Sister Linus]\nIt saves everyone around its caster\nby incapacitating its caster.\nIt's by far the ^3131FFmost selfless skill we Priests have^000000.",
-        "pt": "[Irmã Lina]\nEla salva todos ao redor do\nconjurador incapacitando-o.\nÉ de longe a habilidade ^3131FFmais altruísta que nós, Sacerdotes, temos^000000.",
-        "es": "[Hermana Linus]\nIncapacita a quien lo lanza\npara salvar a todos los que lo rodean.\nEs, por lejos, la ^3131FFhabilidad más altruista que tenemos los Sacerdotes^000000."
+        "ko": "[^3131FF{0}^000000]\n갑자기 이야길 꺼내셔서\n슬픈 결말일 줄 알았는데 다행이로군요.",
+        "en": "[^3131FF{0}^000000]\nYou suddenly began this story,\nso I feared it would end sadly.\nI'm relieved.",
+        "pt": "[^3131FF{0}^000000]\nComo a senhora começou a contar essa história de repente,\npensei que teria um final triste. Ainda bem.",
+        "es": "[^3131FF{0}^000000]\nComo empezó a contar la historia de repente,\npensé que tendría un final triste.\nMe alegra que no fuera así."
     },
     "Wuw0Aw": {
-        "en": "[Sister Linus]\nShe always thought\nreading was boring,\nbut at that time, she remembered\na part of Redemptio\nand did her best to save her companions.",
-        "pt": "[Irmã Lina]\nEla sempre achou\nque ler era chato,\nmas, naquela época, ela se lembrou\numa parte do Martírio\ne fez o possível para salvar seus companheiros.",
-        "es": "[Hermana Linus]\nElla siempre pensó \nque leer era aburrido,\npero, en ese momento, recordó \nuna parte de Redención\ne hizo todo lo posible por salvar a los demás."
+        "ko": "[라이너스 수녀]\n호호, 그러신가요?\n비록 그 동안 그 아이가\n주교를 내팽개치고 소소한 성당의 작업도 게을리 하긴 했지만,\n상급 스킬인 레뎀프티오를 성공시키고 파티원들의 여행을 무사히 도운 점을 감안해,",
+        "en": "[Sister Linus]\nHoho, is that so?\nThough that child often neglected duties at the cathedral,\nconsidering that they successfully used Redemptio\nand safely guided the party through the journey,",
+        "pt": "[Irmã Lina]\nHoho, acha mesmo?\nEmbora, nesse meio tempo, aquela criança\ntenha abandonado o bispo e negligenciado pequenos trabalhos da catedral,\nconsiderando que conseguiu usar a habilidade avançada Martírio e ajudou o grupo a concluir a viagem em segurança,",
+        "es": "[Hermana Linus]\nJo, jo, ¿eso cree?\nAunque durante ese tiempo aquella niña\ndejaba tirado al obispo y descuidaba\nhasta las pequeñas tareas de la catedral,\nse tuvo en cuenta que logró usar\nuna habilidad avanzada como Redención\ny ayudó a que sus compañeros completaran\nel viaje sin peligro."
     },
     "W+w0Aw": {
-        "en": "[Sister Linus]\nI can't even fathom how desperate she must have felt at that time.\nHelpless, too.",
-        "pt": "[Irmã Lina]\nNão consigo nem imaginar o desespero que ela deve ter sentido naquele momento.\nDesamparada...",
-        "es": "[Hermana Linus]\nNo puedo ni imaginar lo desesperada que debió sentirse en aquel momento.\nIndefensa, también."
+        "ko": "[라이너스 수녀]\n그 아인 몇 개월간의 수련과정을\n거쳐, 일반 프리스트의 옷을 벗고,\n하이 프리스트로 승격될 수 있었습니다.",
+        "en": "[Sister Linus]\nAfter several months of training,\nthat child shed the robes of an ordinary priest\nand was promoted to a High Priest.",
+        "pt": "[Irmã Lina]\napós alguns meses de treinamento,\nela deixou as vestes de Priest comum\ne pôde ser promovida a High Priest.",
+        "es": "[Hermana Linus]\nTras varios meses de entrenamiento,\naquella niña pudo abandonar\nlas vestiduras de sacerdotisa común\ny ascender a suma sacerdotisa."
     },
     "XOw0Aw": {
-        "en": "[Sister Linus]\nPerhaps Odin took pity on her\nfor trying so hard.\nHer Redemptio worked.",
-        "pt": "[Irmã Lina]\nTalvez Odin tenha ficado com pena dela\npor ter se esforçado tanto.\nO Martírio funcionou.",
-        "es": "[Hermana Linus]\nTal vez Odín se apiadó de ella\npor hacer tanto esfuerzo.\nSu Redención funcionó."
+        "ko": "[라이너스 수녀]\n하이 프리스트가 된 이후로, 그 아인\n전보다 더 활발하게 대륙을 거닐며\n수 많은 활약극을 보이곤 했죠.\n여전히 덜렁거린 모양이지만요. 후후.",
+        "en": "[Sister Linus]\nAfter becoming a High Priest,\nthat child traveled the continent more actively than before\nand performed many great deeds.\nThough still a bit clumsy. Hoho.",
+        "pt": "[Irmã Lina]\nDepois de se tornar High Priest,\nela passou a percorrer o continente\nainda mais ativamente do que antes\ne realizou muitos feitos.\nEmbora pareça que continuou atrapalhada. Huhu.",
+        "es": "[Hermana Linus]\nDespués de convertirse en suma sacerdotisa,\nrecorrió el continente con más energía que antes\ny protagonizó numerosas hazañas.\nAunque parece que seguía siendo algo torpe.\nJe, je."
     },
     "Xew0Aw": {
-        "en": "[Sister Linus]\nHer companions miraculously came back to life,\ntook care of the situation,\nand used a Yggdrasil Leaf to save her.\nAfter that, she safely\nreturned to Prontera.",
-        "pt": "[Irmã Lina]\nSeus companheiros milagrosamente voltaram à vida,\ncuidaram da situação,\ne usaram uma folha de Yggdrasil para salvá-la.\nDepois disso, ela voltou\nem segurança para Prontera.",
-        "es": "[Hermana Linus]\nSus compañeros volvieron milagrosamente a la vida,\nse ocuparon de la situación\ny usaron una Hoja de Yggdrasil para salvarla.\nDespués de eso, ella\nvolvió a Prontera."
+        "ko": "그런데 왜 이 이야기를?",
+        "en": "Then why are you telling me this?",
+        "pt": "Mas por que essa história?",
+        "es": "¿Pero por qué me cuenta esta historia?"
     },
     "Xuw0Aw": {
-        "en": "[^3131FF{0}^000000]\nYou started telling me this story so suddenly,\nthat I was worried it might end in tears. I'm glad it didn't.",
-        "pt": "[^3131FF{0}^000000]\nVocê começou a me contar essa história tão repentinamente,\nque achei que ela pudesse terminar em lágrimas. Fico feliz que não tenha acabado.",
-        "es": "[^3131FF{0}^000000]\nEmpezaste a contarme esta historia tan de repente\nque me preocupaba que tuviera un final triste. Me alegro de que no fuera así."
+        "ko": "[라이너스 수녀]\n몇 개월 전, 그 아이는 동료들과\n^3131FF슈발츠발드 공화국^000000의 ^3131FF리히타르젠^000000으로 전도 및 수련을 위한 여행을 떠났습니다만..\n바빠서 인지, 또 다시 위험에 빠져버린 것 인지 도통 연락이 없군요.",
+        "en": "[Sister Linus]\nSeveral months ago, that child departed with companions\nto ^3131FFLighthalzen^000000 in the ^3131FFSchwartzvald Republic^000000\nfor missionary work and training...\nBut whether from being busy or in danger again,\nthere has been no contact at all.",
+        "pt": "[Irmã Lina]\nHá alguns meses, aquela criança partiu com seus companheiros\npara ^3131FFLighthalzen^000000, na ^3131FFRepública de Schwarzwald^000000,\nem uma viagem de evangelização e treinamento...\nMas talvez por estar ocupada, ou talvez por ter caído em perigo novamente, não recebo nenhuma notícia dela.",
+        "es": "[Hermana Linus]\nHace unos meses, aquella niña partió\ncon sus compañeros hacia ^3131FFLighthalzen^000000,\nen la ^3131FFRepública de Schwarzwald^000000,\npara predicar y entrenarse...\npero no ha enviado noticias. No sé si está ocupada\no si volvió a caer en algún peligro."
     },
     "X+w0Aw": {
-        "en": "[Sister Linus]\nHo ho. Were you?\nEven though she often forgot about her position\nas His servant and neglected her duty around the church,\nshe succeeded the high-ranking skill, Redemptio, and made sure her party returned safely.",
-        "pt": "[Irmã Lina]\nHo-ho. Você gostou?\nMesmo que muitas vezes ela tenha se esquecido de sua posição\ncomo serva e negligenciou seu dever na igreja,\nela conseguiu a habilidade de alto nível, Martírio, e garantiu que seu grupo retornasse em segurança.",
-        "es": "[Hermana Linus]\nJo, jo. ¿De verdad?\nAunque a menudo se olvidaba de su condición\nde sierva de Dios y descuidaba sus obligaciones eclesiásticas,\nlanzó la habilidad de Suma sacerdotisa, Redención, y logró que todo el grupo volviera sano y salvo."
+        "ko": "[라이너스 수녀]\n그래서 전 걱정이 되는 마음에\n매일 이 곳 성당에서 오딘신께\n그 아이의 안전을 기도하고 있습니다.",
+        "en": "[Sister Linus]\nSo out of concern,\nI pray every day here in the cathedral\nto Odin for that child's safety.",
+        "pt": "[Irmã Lina]\nPor isso, preocupada,\ntodos os dias rezo aqui na catedral\nao Deus Odin pela segurança daquela criança.",
+        "es": "[Hermana Linus]\nPor eso, preocupada por ella,\nrezo cada día aquí, en la catedral,\nal dios Odín por su seguridad."
     },
     "YOw0Aw": {
-        "en": "[Sister Linus]\nAfter a few months of training,\nshe graduated from being a Priestess\nand was promoted to a high Priestess.",
-        "pt": "[Irmã Lina]\nApós alguns meses de treinamento,\nela deixou de ser uma Sacerdotisa\ne foi promovida a Suma Sacerdotisa.",
-        "es": "[Hermana Linus]\nTras unos meses de entrenamiento,\nse graduó de Sacerdotisa\ny ascendió a Suma sacerdotisa."
+        "ko": "[라이너스 수녀]\n후후, 어서 빨리 무사히 돌아와 여느 때 처럼 밤새도록 여행담을 들려주었으면 좋겠어요.",
+        "en": "[Sister Linus]\nHoho, I hope they return safely soon\nand tell me stories of their adventures all night long once again.",
+        "pt": "[Irmã Lina]\nHuhu, espero que ela volte logo em segurança e me conte histórias de viagem a noite inteira, como sempre.",
+        "es": "[Hermana Linus]\nJe, je. Ojalá vuelva pronto sana y salva\ny me cuente sus historias de viaje\ndurante toda la noche, como siempre."
     },
     "Yew0Aw": {
-        "en": "[Sister Linus]\nSince then, she's been traveling\nmore actively throughout the continent,\nmaking her name known.\nAnd her tomboyish klutziness as well. Ho ho.",
-        "pt": "[Irmã Lina]\nDesde então, ela tem viajado\nmais ativamente por todo o continente,\ntornando seu nome conhecido.\nE sua desastrada personalidade de moleca também. Hoho.",
-        "es": "[Hermana Linus]\nDesde entonces, viaja\nde manera activa por todo el continente,\npara darse a conocer.\nPor supuesto, con su torpeza algo varonil. Jo, jo."
-    },
-    "Yuw0Aw": {
-        "en": "Okay, but why are you telling me this?",
-        "pt": "Certo, mas por que está me dizendo isso?",
-        "es": "Pero ¿por qué me cuentas esto?"
-    },
-    "Y+w0Aw": {
-        "en": "[Sister Linus]\nA few months ago, she and her party\nwent off to ^3131FFLighthalzen^000000 in the ^3131FFSchwarzwald Republic^000000 to train and spread His teachings.\nI don't know if she's busy or in trouble, but we haven't heard from her since then.",
-        "pt": "[Irmã Lina]\nHá alguns meses, ela e seu grupo\nforam para ^3131FFLighthalzen^000000 na ^3131FFRepública de Schwarzwald^000000 para treinar e disseminar os ensinamentos Dele.\nNão sei se ela está ocupada ou com problemas, mas não tivemos mais notícias dela desde então.",
-        "es": "[Hermana Linus]\nHace unos meses, ella y su grupo\nse marcharon a ^3131FFLighthalzen^000000, en la ^3131FFRepública de Schwarzwald^000000, para entrenar y difundir Sus enseñanzas.\nNo sé si está ocupada o en problemas, pero no supimos nada de ella desde entonces."
-    },
-    "ZOw0Aw": {
-        "en": "[Sister Linus]\nI'm so worried about her\nthat I've been praying to Odin\nfor her every day.",
-        "pt": "[Irmã Lina]\nA situação é tão preocupante\nque tenho orado a Odin\npor ela todos os dias.",
-        "es": "[Hermana Linus]\nMe preocupa tanto\nque estuve rezándole a Odín\npor ella todos los días."
-    },
-    "Zew0Aw": {
-        "en": "[Sister Linus]\nHo ho. I can't wait for her to come back and tell me her adventure stories all night long.",
-        "pt": "[Irmã Lina]\nHoho. Mal posso esperar para que ela volte e me conte suas histórias de aventura a noite toda.",
-        "es": "[Hermana Linus]\nJo, jo. No veo la hora de que vuelva y me cuente todas sus aventuras."
-    },
-    "Zuw0Aw": {
+        "ko": "[라이너스 수녀]",
         "en": "[Sister Linus]",
         "pt": "[Irmã Lina]",
         "es": "[Hermana Linus]"
     },
+    "Yuw0Aw": {
+        "ko": "어마, 이런 제가 너무 오래 붙잡아 두어 버렸네요. 형제님께서도 여러 곳을 여행하시곤 하나요?",
+        "en": "Goodness, I've kept you here far too long. Do you also travel to many places, brother?",
+        "pt": "Ora, acabei prendendo você por tempo demais. Irmão, você também costuma viajar por muitos lugares?",
+        "es": "Vaya, lo he retenido demasiado tiempo. Hermano, ¿también viaja por muchos lugares?"
+    },
+    "Y+w0Aw": {
+        "ko": "어마, 이런 제가 너무 오래 붙잡아 두어 버렸네요. 자매님께서도 여러 곳을 여행하시곤 하나요?",
+        "en": "Goodness, I've kept you here far too long. Do you also travel to many places, sister?",
+        "pt": "Ora, acabei prendendo você por tempo demais. Irmã, você também costuma viajar por muitos lugares?",
+        "es": "Vaya, la he retenido demasiado tiempo. Hermana, ¿también viaja por muchos lugares?"
+    },
+    "ZOw0Aw": {
+        "ko": "부디 언제나 몸 조심 하시기를 바랍니다.",
+        "en": "Please always take care of yourself.",
+        "pt": "Por favor, cuide sempre de sua saúde.",
+        "es": "Por favor, cuídese siempre."
+    },
+    "Zew0Aw": {
+        "ko": "형제님을 위해서도 제가 늘 이곳에서 기도를 드릴께요.",
+        "en": "I will always pray here for you as well, brother.",
+        "pt": "Também rezarei sempre aqui por você, irmão.",
+        "es": "También rezaré siempre aquí por usted, hermano."
+    },
+    "Zuw0Aw": {
+        "ko": "자매님을 위해서도 제가 늘 이곳에서 기도를 드릴께요.",
+        "en": "I will always pray here for you as well, sister.",
+        "pt": "Também rezarei sempre aqui por você, irmã.",
+        "es": "También rezaré siempre aquí por usted, hermana."
+    },
     "Z+w0Aw": {
-        "en": "Oh, I'm sorry I kept you here so long. Brother, are you also traveling?",
-        "pt": "Oh, perdão por ter segurado você aqui por tanto tempo. Irmão, você também está viajando?",
-        "es": "Siento haberte demorado aquí tanto tiempo. Hermano, ¿tú también viajas?"
+        "ko": "[^3131FF{0}^000000]\n그런데 수녀님,\n하이 프리스트가 된 그 왈가닥 성직자 분의 이름은 무엇인가요?\n제가 여행을 다니다 뵙게 되면 수녀님의 이야기를 꼭 전해 드리겠습니다.",
+        "en": "[^3131FF{0}^000000]\nBy the way, Sister,\nwhat is the name of that mischievous priest who became a High Priest?\nIf I meet them during my travels,\nI will surely deliver your message.",
+        "pt": "[^3131FF{0}^000000]\nMas, irmã,\nqual é o nome daquela clériga travessa que se tornou High Priest?\nSe eu a encontrar em minhas viagens, farei questão de transmitir a ela suas palavras.",
+        "es": "[^3131FF{0}^000000]\nPero, hermana,\n¿cómo se llama aquella clériga revoltosa\nque se convirtió en suma sacerdotisa?\nSi la encuentro durante mis viajes,\nle transmitiré sin falta sus palabras."
     },
     "aOw0Aw": {
-        "en": "Oh, I'm sorry I kept you here so long. Sister, are you also traveling?",
-        "pt": "Oh, perdão por ter segurado você aqui por tanto tempo. Irmã, você também está viajando?",
-        "es": "Siento haberte demorado aquí tanto tiempo. Hermana, ¿tú también viajas?"
+        "ko": "[라이너스 수녀]\n어마나, 정말요?\n정말 친절한 분이시군요.",
+        "en": "[Sister Linus]\nOh my, really?\nYou are truly kind.",
+        "pt": "[Irmã Lina]\nOra, de verdade?\nVocê é uma pessoa muito gentil.",
+        "es": "[Hermana Linus]\nVaya, ¿de verdad?\nEs usted una persona muy amable."
     },
     "aew0Aw": {
-        "en": "Please be safe, wherever you are.",
-        "pt": "Fique bem, onde quer que você vá.",
-        "es": "Por favor, cuídate, donde sea que vayas."
+        "ko": "[라이너스 수녀]\n그 아이의 이름은,\n프리스트 소린, 아니 지금은 하이 프리스트가 되었죠.\n하이 프리스트 소린, 풀 네임은 ^3131FF마가레타 소린^000000 입니다.",
+        "en": "[Sister Linus]\nThat child's name is Priest Sorin—\nno, now a High Priest.\nHigh Priest Sorin, full name ^3131FFMargaretha Sorin^000000.",
+        "pt": "[Irmã Lina]\nO nome daquela criança é\nPriest Sorin, não, agora ela é High Priest.\nHigh Priest Sorin, seu nome completo é ^3131FFMargaretha Sorin^000000.",
+        "es": "[Hermana Linus]\nSu nombre es\nla sacerdotisa Sorin... no, ahora es suma sacerdotisa.\nLa suma sacerdotisa Sorin, su nombre completo,\nes ^3131FFSra. Margaret Sorin^000000."
     },
     "auw0Aw": {
-        "en": "I'll pray for you here as well, brother.",
-        "pt": "Orarei por você também, irmão.",
-        "es": "Rezaré por ti también, hermano."
+        "ko": "[라이너스 수녀]\n그 아이를 만나시거든,\n언제나 제가 성당에서 너를 위해 기도하고 있다고 몸조심 하라고 전해주세요.",
+        "en": "[Sister Linus]\nIf you happen to meet that child,\nplease tell them that I always pray for them here at the cathedral\nand that they must stay safe.",
+        "pt": "[Irmã Lina]\nSe encontrar aquela criança,\ndiga a ela que estou sempre rezando por ela na catedral e que deve cuidar de si.",
+        "es": "[Hermana Linus]\nSi la encuentra,\ndígale que siempre rezo por ella\nen la catedral y que se cuide."
     },
     "a+w0Aw": {
-        "en": "I'll pray for you here as well, sister.",
-        "pt": "Orarei por você também, irmã.",
-        "es": "Rezaré por ti también, hermana."
+        "ko": "그럼 형제님도 언제나 건강하시기를.",
+        "en": "Then may you always remain healthy, brother.",
+        "pt": "Então, que você também esteja sempre saudável, irmão.",
+        "es": "Entonces, hermano, que siempre conserve la salud."
     },
     "bOw0Aw": {
-        "en": "[^3131FF{0}^000000]\nBy the way, sister,\nwho's this high Priestess friend of yours?\nIf I see her somewhere, I'll tell her you're waiting.",
-        "pt": "[^3131FF{0}^000000]\nA propósito, irmã,\nquem é essa sua amiga Suma Sacerdotisa?\nSe eu a vir em algum lugar, direi a ela que você está esperando.",
-        "es": "[^3131FF{0}^000000]\nPor cierto, hermana,\n¿Quién es esta Suma sacerdotisa amiga tuya?\nSi la veo en algún sitio, le diré que estás esperando."
+        "ko": "그럼 자매님도 언제나 건강하시기를.",
+        "en": "Then may you always remain healthy, sister.",
+        "pt": "Então, que você também esteja sempre saudável, irmã.",
+        "es": "Entonces, hermana, que siempre conserve la salud."
     },
     "bew0Aw": {
-        "en": "[Sister Linus]\nOh, will you really do that for me?\nYou're so kind.",
-        "pt": "[Irmã Lina]\nAh, você faria isso por mim?\nQue gentileza.",
-        "es": "[Hermana Linus]\n¿De verdad harás eso por mí?\nEres muy amable."
+        "ko": "[라이너스 수녀]\n당신의 평안한 여행을 기원합니다.",
+        "en": "[Sister Linus]\nI wish you a peaceful journey.",
+        "pt": "[Irmã Lina]\nDesejo que sua viagem seja tranquila.",
+        "es": "[Hermana Linus]\nLe deseo un viaje en paz."
     },
     "buw0Aw": {
-        "en": "[Sister Linus]\nShe's\nPriestess Sorin--wait, she's a high Priestess now.\nHigh Priestess Sorin. Her full name is ^3131FFMargaretha Sorin^000000.",
-        "pt": "[Irmã Lina]\nEla é a Sacerdotisa Sorin... \nEspere, ela é uma Suma Sacerdotisa agora.\nSuma Sacerdotisa Sorin. Seu nome completo é ^3131FFMargaretha Sorin^000000.",
-        "es": "[Hermana Linus]\nElla es\nla Sacerdotisa Sorin… espera, ahora es una Suma sacerdotisa.\nLa Suma sacerdotisa Sorin. Su nombre completo es ^3131FFMargarita Sorin^000000."
+        "ko": "^3131FF'레뎀프티오'^000000를 배운다.",
+        "en": "Learn ^3131FF'Redemptio'^000000.",
+        "pt": "Aprender ^3131FF'Martírio'^000000.",
+        "es": "Aprender ^3131FF'Redención'^000000."
     },
     "b+w0Aw": {
-        "en": "[Sister Linus]\nIf you see her,\nplease tell her I pray for her every day and I want her to stay safe.",
-        "pt": "[Irmã Lina]\nSe você a vir, diga a ela que oro por ela \ntodos os dias e que quero que ela fique em segurança.",
-        "es": "[Hermana Linus]\nSi la ves,\ndile que rezo por ella todos los días y que quiero que tenga cuidado."
-    },
-    "cOw0Aw": {
-        "en": "Now, brother, be safe yourself.",
-        "pt": "Agora, irmão, fique seguro.",
-        "es": "Ahora, hermano, cuídate."
-    },
-    "cew0Aw": {
-        "en": "Now, sister, be safe yourself.",
-        "pt": "Agora, irmã, fique segura.",
-        "es": "Ahora, hermana, cuídate."
-    },
-    "cuw0Aw": {
-        "en": "[Sister Linus]\nMay your journey be safe and peaceful.",
-        "pt": "[Irmã Lina]\nQue sua viagem seja segura e tranquila.",
-        "es": "[Hermana Linus]\nQue tu viaje sea seguro y tranquilo."
-    },
-    "c+w0Aw": {
-        "en": "Learn ^3131FFRedemptio^000000.",
-        "pt": "Aprenda ^3131FFMartírio^000000.",
-        "es": "Aprender ^3131FFRedención^000000."
-    },
-    "dOw0Aw": {
-        "en": "End conversation.",
-        "pt": "Encerrar conversa.",
+        "ko": "대화를 마친다.",
+        "en": "End the conversation.",
+        "pt": "Encerrar a conversa.",
         "es": "Terminar la conversación."
     },
+    "cOw0Aw": {
+        "ko": "[라이너스 수녀]\n^3131FF'레뎀프티오'^000000는 주변의 전투불능인\n파티원을 한꺼번에 되살리는 상급 스킬입니다.\n꽤나 어려운 기도문이기에, 시전하는 것 또한 쉽지가 않죠.",
+        "en": "[Sister Linus]\n^3131FF'Redemptio'^000000 is an advanced skill\nthat revives all incapacitated party members nearby at once.\nIt is a difficult prayer, so casting it is not easy.",
+        "pt": "[Irmã Lina]\n^3131FF'Martírio'^000000 é uma habilidade avançada\nque revive de uma só vez\nos membros do grupo ao redor que estão fora de combate.\nComo é uma oração bastante difícil,\ntambém não é fácil conjurá-la.",
+        "es": "[Hermana Linus]\n^3131FF'Redención'^000000 es una habilidad avanzada\nque revive de una vez a los miembros del grupo\ncercanos que estén fuera de combate.\nComo es una oración bastante difícil,\nlanzarla tampoco es sencillo."
+    },
+    "cew0Aw": {
+        "ko": "[라이너스 수녀]\n게다가 레뎀프티오는 희생,\n바로 희생 스킬입니다.\n^FF0000파티원을 살리는 대신 자신이 전투 불능에 빠져버리게 되는 점^000000 잊지 마시길 바래요.",
+        "en": "[Sister Linus]\nFurthermore, Redemptio is a sacrifice skill.\nPlease remember that ^FF0000while it revives your party members,\nyou yourself will become incapacitated.^000000",
+        "pt": "[Irmã Lina]\nAlém disso, Martírio é sacrifício,\numa verdadeira habilidade de sacrifício.\nEspero que não se esqueça de que ^FF0000você ficará fora de combate em troca de salvar seus companheiros de grupo^000000.",
+        "es": "[Hermana Linus]\nAdemás, Redención es sacrificio,\nuna habilidad de sacrificio.\nNo olvide que ^FF0000salvará a sus compañeros\na cambio de que usted quede fuera de combate^000000."
+    },
+    "cuw0Aw": {
+        "ko": "[라이너스 수녀]\n그럼 레뎀프티오를 배우는데 필요한 것들을 알려드릴께요.\n^3131FF'리저랙션 1스킬'^000000\n^3131FF'블루 젬스톤 20개'^000000\n^3131FF'Holy_Water 30개'^000000.\n입니다.",
+        "en": "[Sister Linus]\nThen let me tell you what is needed to learn Redemptio.\n^3131FF'Resurrection Lv.1'^000000\n^3131FF'20 Blue Gemstones'^000000\n^3131FF'30 Holy Waters'^000000.",
+        "pt": "[Irmã Lina]\nEntão direi o que é necessário para aprender Martírio.\n^3131FF'Habilidade Ressurreição 1'^000000\n^3131FF'20 Gemas Azuis'^000000\n^3131FF'30 Águas Bentas'^000000.\nÉ isso.",
+        "es": "[Hermana Linus]\nEntonces le diré lo que necesita\npara aprender Redención.\n^3131FF'Habilidad Resurrección 1'^000000\n^3131FF'20 gemas azules'^000000\n^3131FF'30 aguas benditas'^000000.\nEso es."
+    },
+    "c+w0Aw": {
+        "ko": "[라이너스 수녀]\n기도를 하면 왠지 마음이 평안해 진답니다.\n위로 받은 듯한 기분이 든달까요?\n제가 그래서 이 길을 택했을지도 모르겠습니다. 후후.",
+        "en": "[Sister Linus]\nPraying somehow brings peace to the heart.\nIt feels as though one has been comforted.\nPerhaps that is why I chose this path. Hoho.",
+        "pt": "[Irmã Lina]\nQuando rezamos, de algum modo o coração fica em paz.\nÉ como se recebêssemos consolo.\nTalvez seja por isso que escolhi este caminho. Huhu.",
+        "es": "[Hermana Linus]\nAl rezar, el corazón se siente en paz.\n¿Como si una hubiera recibido consuelo?\nQuizá por eso elegí este camino.\nJe, je."
+    },
+    "dOw0Aw": {
+        "ko": "[라이너스 수녀]\n준비가 모두 되셨군요.\n그럼 지금부터 레뎀프티오를 익히는 법을 알려드리겠습니다.\n저를 따라 주문을 외우시면 됩니다.\n다만, ^FF0000실패하면 블루 젬스톤과 Holy_Water가 하나씩 사라지게 될거에요.^000000",
+        "en": "[Sister Linus]\nYou have prepared everything.\nNow I shall teach you how to master Redemptio.\nSimply repeat the chant after me.\nHowever, ^FF0000if you fail, one Blue Gemstone and one Holy Water will disappear.^000000",
+        "pt": "[Irmã Lina]\nVocê preparou tudo.\nEntão, a partir de agora, ensinarei como aprender Martírio.\nBasta recitar o encantamento comigo.\nNo entanto, ^FF0000se falhar, uma Gema Azul e uma Água Benta desaparecerão.^000000",
+        "es": "[Hermana Linus]\nYa lo tiene todo preparado.\nEntonces, a partir de ahora,\nle enseñaré cómo aprender Redención.\nSolo debe recitar el conjuro siguiendo mis palabras.\nSin embargo, ^FF0000si falla, desaparecerán\nuna gema azul y un agua bendita.^000000"
+    },
     "dew0Aw": {
-        "en": "[Sister Linus]\n^3131FFRedemptio^000000 is a high-ranking skill\nthat can revive multiple party members at once.\nIt's a difficult prayer to say. It's not easy to cast, especially in a dangerous situation.",
-        "pt": "[Irmã Lina]\n^3131FFMartírio^000000 é uma habilidade de alto nível\nque pode reviver vários membros do grupo ao mesmo tempo.\nÉ uma oração difícil de ser feita. Não é fácil lançá-la, especialmente em uma situação perigosa.",
-        "es": "[Hermana Linus]\n^3131FFRedención^000000 es una habilidad de alto rango\nque puede revivir a varios miembros del grupo a la vez.\nEs una oración difícil de decir. No es fácil de lanzar, en especial en una situación peligrosa."
+        "ko": "[라이너스 수녀]\n자아...그럼, 시작해 볼까요?",
+        "en": "[Sister Linus]\nNow then... shall we begin?",
+        "pt": "[Irmã Lina]\nBem... então, vamos começar?",
+        "es": "[Hermana Linus]\nBien... entonces, ¿empezamos?"
     },
     "duw0Aw": {
-        "en": "[Sister Linus]\nWorse still, Redemptio\nis a sacrificial skill.\n^FF0000It sacrifices you in order to save your party members^000000. Please don't forget that.",
-        "pt": "[Irmã Lina]\nPior ainda, Martírio\né uma habilidade de sacrifício.\n^FF0000Ela sacrifica você para salvar os membros do seu grupo^000000. Não se esqueça disso",
-        "es": "[Hermana Linus]\nPeor aún, Redención\nes una habilidad sacrificial.\n^FF0000Te sacrifica para salvar a los miembros de tu grupo^000000. No lo olvides."
+        "ko": "[라이너스 수녀]\n^3131FF태초부터 가장 고귀하고 가장 신성한 자 이시여, 당신께 간절히 비오니 당신의 자비로 우리를 도와주시어, 천상의 안내의 빛을 내려주소서.^000000",
+        "en": "[Sister Linus]\n^3131FFO most noble and sacred being since the beginning of time, I earnestly pray to you. By your mercy, aid us and grant us the guiding light of heaven.^000000",
+        "pt": "[Irmã Lina]\n^3131FFÓ ser mais nobre e mais sagrado desde o princípio, imploro-vos com fervor: ajudai-nos com vossa misericórdia e concedei-nos a luz guia dos céus.^000000",
+        "es": "[Hermana Linus]\n^3131FFOh, vos, el más noble y sagrado desde el principio de los tiempos, os ruego fervientemente que nos ayudéis con vuestra misericordia y derraméis sobre nosotros la luz de la guía celestial.^000000"
     },
     "d+w0Aw": {
-        "en": "[Sister Linus]\nNow, let me tell you what you need to learn Redemptio.\n^3131FFResurrection Level 1^000000,\n^3131FF20 Blue Gemstones^000000,\nand ^3131FF30 Holy Waters^000000.\nThat's it.",
-        "pt": "[Irmã Lina]\nAgora, deixe-me dizer o que você precisa para aprender Martírio.\n^3131FFRessuscitar Nível 1^000000,\n^3131FF20 Gemas Azuis^000000,\ne ^3131FF30 Águas Bentas^000000.\nÉ isso.",
-        "es": "[Hermana Linus]\nAhora, te contaré lo que necesitas para aprender Redención.\n^3131FFResurrección nivel 1^000000,\n^3131FF20 Gemas azules^000000\ny ^3131FF30 unidades de Agua bendita^000000.\nEso es todo."
+        "ko": "[라이너스 수녀]\n^3131FF당신이 그리하셨듯이, 나 또한 당신을 따라 그 길을 걷사옵니다.^000000\n^3131FFRedemptio !!^000000",
+        "en": "[Sister Linus]\n^3131FFAs you once did, so too shall I follow that path.^000000\n^3131FFRedemptio!!^000000",
+        "pt": "[Irmã Lina]\n^3131FFAssim como vós fizestes, também seguirei vossos passos nesse caminho.^000000\n^3131FFRedemptio !!^000000",
+        "es": "[Hermana Linus]\n^3131FFAsí como vos lo hicisteis, yo también sigo vuestro camino.^000000\n^3131FFRedemptio!!^000000"
     },
     "eOw0Aw": {
-        "en": "[Sister Linus]\nI feel peaceful when I pray.\nComforted.\nMaybe that's why I've chosen this path. Ho ho.",
-        "pt": "[Irmã Lina]\nSinto-me em paz quando oro.\nConfortada.\nTalvez seja por isso que escolhi esse caminho. Ho-ho-ho.",
-        "es": "[Hermana Linus]\nCuando rezo, siento paz.\nY consuelo.\nQuizá por eso elegí este camino. Jo, jo."
+        "ko": "[라이너스 수녀]\n축하합니다!\n레뎀프티오를 익히셨군요.\n레뎀프티오는 궁극의 스킬인 만큼, 조심해서 위급한 시기에만 쓰시는 거 잊지마세요.",
+        "en": "[Sister Linus]\nCongratulations!\nYou have learned Redemptio.\nAs Redemptio is an ultimate skill,\nplease use it carefully and only in times of great danger.",
+        "pt": "[Irmã Lina]\nParabéns!\nVocê aprendeu Martírio.\nComo Martírio é uma habilidade suprema, não se esqueça de usá-la com cuidado e apenas em momentos críticos.",
+        "es": "[Hermana Linus]\n¡Felicidades!\nHa aprendido Redención.\nComo Redención es una habilidad suprema,\nno olvide usarla con cuidado\ny solo en momentos de emergencia."
     },
     "eew0Aw": {
-        "en": "[Sister Linus]\nYou're ready.\nThen, let me teach you Redemptio.\nPlease repeat after me.\nIf you ^FF0000fail, you'll lose one Blue Gemstone and one Holy Water.^000000",
-        "pt": "[Irmã Lina]\nEstá tudo pronto.\nEntão, deixe-me ensinar Martírio.\nRepita depois de mim.\nSe você ^FF0000falhar, perderá uma Gema Azul e uma Água Benta.^000000",
-        "es": "[Hermana Linus]\nTienes todo.\nEntonces, te enseñaré Redención.\nRepite después de mí.\nSi ^FF0000fallas, perderás una Gema azul y un unidad de Agua bendita.^000000"
+        "ko": "[라이너스 수녀]\n이런 실패네요.\n재료 다시 준비해서 다시 해보도록 하죠.",
+        "en": "[Sister Linus]\nOh dear, it was a failure.\nPrepare the materials again and let us try once more.",
+        "pt": "[Irmã Lina]\nOh, falhou.\nVamos preparar os materiais novamente e tentar de novo.",
+        "es": "[Hermana Linus]\nVaya, ha fallado.\nPrepare los materiales de nuevo\ny volvamos a intentarlo."
     },
     "euw0Aw": {
-        "en": "[Sister Linus]\nNow... ready?",
-        "pt": "[Irmã Lina]\nAgora... tudo pronto?",
-        "es": "[Hermana Linus]\nAhora… ¿empezamos?"
+        "ko": "[라이너스 수녀]\n^3131FF'리저랙션 1스킬'^000000\n^3131FF'블루 젬스톤 20개'^000000\n^3131FF'Holy_Water 30개'^000000.\n를 준비해 주시면 레뎀프티오에 대해 알려드리겠습니다.",
+        "en": "[Sister Linus]\n^3131FF'Resurrection Lv.1'^000000\n^3131FF'20 Blue Gemstones'^000000\n^3131FF'30 Holy Waters'^000000.\nPlease prepare them, and I will tell you more about Redemptio.",
+        "pt": "[Irmã Lina]\nSe você preparar\n^3131FF'Habilidade Ressurreição 1'^000000\n^3131FF'20 Gemas Azuis'^000000\n^3131FF'30 Águas Bentas'^000000,\neu lhe ensinarei sobre Martírio.",
+        "es": "[Hermana Linus]\nSi prepara\n^3131FF'Habilidad Resurrección 1'^000000\n^3131FF'20 gemas azules'^000000\n^3131FF'30 aguas benditas'^000000,\nle enseñaré sobre Redención."
     },
     "e+w0Aw": {
-        "en": "[Sister Linus]\n^3131FFThe noblest and holiest one since the beginning of time, I plead with you. Please show us your mercy. Guide us with your heavenly light.^000000",
-        "pt": "[Irmã Lina]\n^3131FFÓ, nobre e santo desde o início dos tempos, imploro a você. Por favor, mostre-nos sua misericórdia. Guie-nos com sua luz celestial.^000000",
-        "es": "[Hermana Linus]\n^3131FFEl más noble y santo desde el principio de los tiempos, te lo suplico. Muéstranos tu misericordia. Guíanos con tu luz celestial.^000000"
+        "ko": "[라이너스 수녀]\n어디서 많이 뵌 분 같은데...\n후후, 뭐 같은 성직자니 어딘가에서 만난 적이 있겠죠.",
+        "en": "[Sister Linus]\nYou seem strangely familiar...\nHoho, perhaps we met somewhere since we are both priests.",
+        "pt": "[Irmã Lina]\nAcho que já vi você em algum lugar...\nHuhu, bem, somos clérigos, então devemos ter nos encontrado em algum lugar.",
+        "es": "[Hermana Linus]\nCreo que ya la he visto en alguna parte...\nJe, je, bueno, al ser ambas clérigas,\nseguro que nos habremos encontrado en algún lugar."
     },
     "fOw0Aw": {
-        "en": "[Sister Linus]\n^3131FFBecause you walked the path, I'll do the same.^000000\n^3131FFRedemptio!^000000",
-        "pt": "[Irmã Lina]\n^3131FFPorque você trilhou o caminho, eu farei o mesmo.^000000\n^3131FFMartírio!^000000",
-        "es": "[Hermana Linus]\n^3131FFPorque tú recorriste el camino, yo haré lo mismo.^000000\n^3131FF¡Redención!^000000"
+        "ko": "[라이너스 수녀]\n'^3131FF레뎀프티오^000000'란 기술 아세요?\n자신을 희생시켜 여러사람을 살리는 기술인데, 위험하긴 하지만 성직자의 하나의 로망이기도 하죠.",
+        "en": "[Sister Linus]\nDo you know the technique called '^3131FFRedemptio^000000'?\nIt is a skill that sacrifices oneself to save many people.\nDangerous, yes, but also one of the dreams of every priest.",
+        "pt": "[Irmã Lina]\nVocê conhece a técnica chamada '^3131FFMartírio^000000'?\nÉ uma técnica que sacrifica a si mesmo para salvar várias pessoas. É perigosa, mas também é um dos ideais dos clérigos.",
+        "es": "[Hermana Linus]\n¿Conoce la técnica\n'^3131FFRedención^000000'?\nEs una técnica que sacrifica al usuario\npara salvar a varias personas.\nEs peligrosa, pero también es uno de los ideales\nde todo clérigo."
     },
     "few0Aw": {
-        "en": "[Sister Linus]\nCongratulations!\nYou've learned Redemptio.\nRedemptio is the ultimate skill. Don't forget to use it only when you have to.",
-        "pt": "[Irmã Lina]\nParabéns!\nVocê aprendeu Martírio.\nMartírio é a habilidade suprema. Não se esqueça de usá-la somente quando for necessário.",
-        "es": "[Hermana Linus]\n¡Felicitaciones!\nAprendiste Redención.\nRedención es la habilidad definitiva. Úsala solo cuando sea necesario."
+        "ko": "형제님께 이 스킬을 가르쳐 드릴게요.",
+        "en": "I will teach this skill to you, brother.",
+        "pt": "Vou ensinar esta habilidade a você, irmão.",
+        "es": "Le enseñaré esta habilidad a usted, hermano."
     },
     "fuw0Aw": {
-        "en": "[Sister Linus]\nOops, that didn't work.\nLet's reorganize our materials and try again.",
-        "pt": "[Irmã Lina]\nEita, não deu certo.\nVamos reorganizar nossos materiais e tentar outra vez.",
-        "es": "[Hermana Linus]\n¡Ups! Eso no funcionó.\nReorganicemos los materiales e intentémoslo de nuevo."
+        "ko": "자매님께 이 스킬을 가르쳐 드릴게요.",
+        "en": "I will teach this skill to you, sister.",
+        "pt": "Vou ensinar esta habilidade a você, irmã.",
+        "es": "Le enseñaré esta habilidad a usted, hermana."
     },
     "f+w0Aw": {
-        "en": "[Sister Linus]\n^3131FFResurrection Level 1^000000,\n^3131FF20 Blue Gemstones^000000,\nand ^3131FF30 Holy Waters^000000.\nPlease have them ready, and I'll teach you Redemptio.",
-        "pt": "[Irmã Lina]\n^3131FFRessuscitar Nível 1^000000,\n^3131FF20 Gemas Azuis^000000,\ne ^3131FF30 Águas Bentas^000000.\nPrepare tudo e ensinarei o Martírio.",
-        "es": "[Hermana Linus]\n^3131FFResurrección nivel 1^000000,\n^3131FF20 Gemas azules^000000\ny ^3131FF30 unidades de Agua bendita^000000.\nTenlos listos, y te enseñaré Redención."
+        "ko": "분명 당신에게 큰 도움이 되어주는 날이 올 거에요.\n그럼 신의 가호가 함께 하기를.",
+        "en": "Surely there will come a day when it greatly helps you.\nMay God's blessing be with you.",
+        "pt": "Com certeza chegará um dia em que ela será de grande ajuda para você.\nEntão, que a proteção divina esteja com você.",
+        "es": "Sin duda llegará un día\nen que le será de gran ayuda.\nEntonces, que la bendición divina le acompañe."
+    },
+    "gOw0Aw": {
+        "ko": "[라이너스 수녀]\n언제나 여러분들을 위해 기도하겠습니다.",
+        "en": "[Sister Linus]\nI will always pray for all of you.",
+        "pt": "[Irmã Lina]\nRezarei sempre por todos vocês.",
+        "es": "[Hermana Linus]\nSiempre rezaré por todos ustedes."
     }
 }

@@ -905,5 +905,6 @@ ShadowFactorTable = {
 	[jobtbl.JT_G_DISGUISER] = 1,
 	[jobtbl.JT_G_BLUEMOON_LOLI_RURI] = 1.2,
 	[jobtbl.JT_G_GROTE] = 1.2,
-	[jobtbl.JT_G_PIERROTZOIST] = 1
+	[jobtbl.JT_G_PIERROTZOIST] = 1,
+	[JTtbl.JT_KNIGHT_OF_ABYSS2] = 2.5
 }

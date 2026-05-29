@@ -5123,5 +5123,6 @@ JobNameTable = {
 	[jobtbl.JT_EDDGA3] = "EDDGA3",
 	[jobtbl.JT_MD_HIDDEN_GROUND01] = "invisible",
 	[jobtbl.JT_MD_HIDDEN_GROUND02] = "invisible",
-	[jobtbl.JT_4_EP18_PAPERS] = "4_ep18_papers"
+	[jobtbl.JT_4_EP18_PAPERS] = "4_ep18_papers",
+	[jobtbl.JT_E_SWEETS_DROPS] = "sweets_drops"
 }

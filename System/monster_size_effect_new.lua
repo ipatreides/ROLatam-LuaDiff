@@ -3979,6 +3979,42 @@ tbl = {
 		MonsterEff = {
 			EFFECT.EF_MAP_MAGICZONE
 		}
+	},
+	[20928] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.EF_LEVEL99_RED
+		}
+	},
+	[20934] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.EF_LEVEL99_RED
+		}
+	},
+	[20943] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.EF_LEVEL99_RED
+		}
+	},
+	[20118] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.EF_LEVEL99_RED
+		}
+	},
+	[3910] = {
+		MonsterSize = 1.8,
+		MonsterEff = {
+			EFFECT.EF_MAGIC_FLOOR
+		}
+	},
+	[21651] = {
+		MonsterSize = 0.8,
+		MonsterEff = {
+			EFFECT.EF_NONE
+		}
 	}
 }
 function main()

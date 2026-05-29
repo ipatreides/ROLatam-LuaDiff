@@ -7778,7 +7778,12 @@ QuestInfoList = {
 		Summary = "Report to Junok"
 	},
 	[3506] = {
-		Description = {""}
+		Title = "Chocomania",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"To obtain 1 ^4d4dffRipe Cacao Bean^000000, find and eliminate ^4d4dffQuindings^000000 scattered across the maps."
+		},
+		Summary = "1 Ripe Cacao Bean"
 	},
 	[3507] = {
 		Title = "Seshin of Twins",
@@ -24131,7 +24136,6 @@ QuestInfoList = {
 	},
 	[8640] = {
 		Title = "Everyone's Drunk, Dead or Alive",
-		IconName = "ico_dq.bmp",
 		Description = {
 			"I should report to <NAVI>[Garim]<INFO>moc_para01,14,19,0,101,0</INFO></NAVI> with what I've heard and seen in Nifflheim. Aside from this, I can report to Milla for her requests on a daily basis."
 		},
@@ -25150,6 +25154,56 @@ QuestInfoList = {
 		},
 		Summary = "Reset at 4 AM",
 		CoolTimeQuest = 1
+	},
+	[8895] = {
+		Title = "Classless Floor Noise (Short)",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Mila of Niflheim hates noise. If you have time, she asks you to wipe out about 300 noisy dead from <NAVI>[Collapsed Opera House]<INFO>nif_dun02,149,26,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Defeat 300 enemies in Niflheim, Floor 2"
+	},
+	[8896] = {
+		Title = "Classless Floor Noise (Short) - Waiting",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"This quest is a daily quest. When the waiting time expires, you can take it again from <NAVI>[Mila]<INFO>niflheim,164,102,0,101,0</INFO></NAVI> and complete it again."
+		},
+		Summary = "Reset at 04:00",
+		CoolTimeQuest = 1
+	},
+	[8897] = {
+		Title = "Classless Floor Noise (Short)",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Mila of Niflheim hates noise. If you have time, she asks you to wipe out about 300 noisy dead from <NAVI>[Collapsed Opera House]<INFO>nif_dun02,149,26,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Defeat 300 enemies in Niflheim, Floor 2"
+	},
+	[8898] = {
+		Title = "Classless Floor Noise (Long)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"Mila of Niflheim hates noise. If you have time, she asks you to wipe out about 1500 noisy dead from <NAVI>[Collapsed Opera House]<INFO>nif_dun02,149,26,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Defeat 1500 enemies in Niflheim, Floor 2"
+	},
+	[8899] = {
+		Title = "Classless Floor Noise (Long) - Waiting",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"This quest is a weekly quest. The waiting time expires every Friday at 04:00. After that, you can take it again from <NAVI>[Mila]<INFO>niflheim,164,102,0,101,0</INFO></NAVI> to complete it again."
+		},
+		Summary = "Reset at 04:00 on Friday",
+		CoolTimeQuest = 1
+	},
+	[8900] = {
+		Title = "Classless Floor Noise (Long)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"Mila of Niflheim hates noise. If you have time, she asks you to wipe out about 1500 noisy dead from <NAVI>[Collapsed Opera House]<INFO>nif_dun02,149,26,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Defeat 1500 enemies in Niflheim, Floor 2"
 	},
 	[8938] = {
 		Title = "Kung Fu Panda",
@@ -34050,6 +34104,7 @@ QuestInfoList = {
 	},
 	[12049] = {
 		Title = "Job Quest 1 - Rogue",
+		IconName = "ico_jq.bmp",
 		Description = {
 			"Deliver the letter to Haijara Greg's last son, Louis Greg."
 		},
@@ -34057,6 +34112,7 @@ QuestInfoList = {
 	},
 	[12050] = {
 		Title = "Job Quest 2 - Rogue",
+		IconName = "ico_jq.bmp",
 		Description = {
 			"Deliver the letter to Haijara Greg's 2nd son, Thor Greg. "
 		},
@@ -34064,6 +34120,7 @@ QuestInfoList = {
 	},
 	[12051] = {
 		Title = "Job Quest 3 - Rogue",
+		IconName = "ico_jq.bmp",
 		Description = {
 			"Deliver the letter to Haijara Greg's first son, Jay Greg. "
 		},
@@ -34071,6 +34128,7 @@ QuestInfoList = {
 	},
 	[12052] = {
 		Title = "Job Quest 4 - Rogue",
+		IconName = "ico_jq.bmp",
 		Description = {
 			"Deliver the letter to Haijara Greg's first son, Jay Greg."
 		},
@@ -34078,6 +34136,7 @@ QuestInfoList = {
 	},
 	[12053] = {
 		Title = "Job Quest 5 - Rogue",
+		IconName = "ico_jq.bmp",
 		Description = {
 			"Thor Greg will initiate the secret Rogue skill for you. You must pass Thor Greg's test."
 		},
@@ -34085,6 +34144,7 @@ QuestInfoList = {
 	},
 	[12054] = {
 		Title = "Job Quest 6 - Rogue",
+		IconName = "ico_jq.bmp",
 		Description = {
 			"Return to Haijara Greg for more information."
 		},
@@ -34092,6 +34152,7 @@ QuestInfoList = {
 	},
 	[12055] = {
 		Title = "Job Quest - Assassin",
+		IconName = "ico_jq.bmp",
 		Description = {
 			"Talk to Killtin to learn Venom Knife skill."
 		},
@@ -34099,6 +34160,7 @@ QuestInfoList = {
 	},
 	[12056] = {
 		Title = "Job Quest - Assassin",
+		IconName = "ico_jq.bmp",
 		Description = {
 			"Listen to Esmille carefully about learning Sonic Acceleration, and bring gemstones from certain places she mentions."
 		},
@@ -36999,7 +37061,7 @@ QuestInfoList = {
 		Title = "Apply for the Dragon's Test",
 		IconName = "ico_jq.bmp",
 		Description = {
-			"^FF0000''Are you really the Dragon Knight candidate?''^FF0000",
+			"^FF0000''Are you really the Dragon Knight candidate?'' ^FF0000",
 			"The space-time dinosaur in front of you doesn't seem to believe it, but who else is more qualified to become a ^ff0000Dragon Knight^000000 than you? Apply for the test and prove it to it."
 		},
 		Summary = "Become a dragon's companion"
@@ -48185,7 +48247,7 @@ Talk to Kar=],
 		Title = "[Booster]  Fabre Hunt",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"Hunt monsters in the field near Prontera to complete the beginner's hunting quest. You can receive rewards and items through the quest window."
+			"Hunt monsters in the field near Prontera to complete the beginner's hunting quest. You can receive rewards and items through the Booster Bell."
 		},
 		Summary = "Beginner Hunting"
 	},
@@ -48202,7 +48264,7 @@ Talk to Kar=],
 		Title = "[Booster]  Explore Payon Forest",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"Complete the quest by hunting the Rogue monsters. You can receive rewards and items through the quest window."
+			"Complete the quest by hunting the Rogue monsters. You can receive rewards and items through the Booster Bell."
 		},
 		Summary = "Explore Payon Forest Contract"
 	},
@@ -48219,7 +48281,7 @@ Talk to Kar=],
 		Title = "[Booster]  Explore Prontera Culvert",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"Complete the quest by hunting Prontera Culvert monsters. To have access, you can go to <NAVI>[Knight Guild]<INFO>prt_in,88,105,0,101,0</INFO></NAVI>. You can receive rewards and items through the quest window."
+			"Complete the quest by hunting Prontera Culvert monsters. To have access, you can go to <NAVI>[Knight Guild]<INFO>prt_in,88,105,0,101,0</INFO></NAVI>. You can receive rewards and items through the Booster Bell."
 		},
 		Summary = "Prontera Culvert Contract"
 	},
@@ -48270,7 +48332,7 @@ Talk to Kar=],
 		Title = "[Booster]  Explore Payon Cave",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"Complete the quest by hunting in <NAVI>[Payon Cave]<INFO>pay_dun03,155,156,0,101,0</INFO></NAVI>. You can receive rewards and items through the quest window."
+			"Complete the quest by hunting in <NAVI>[Payon Cave]<INFO>pay_dun03,155,156,0,101,0</INFO></NAVI>. You can receive rewards and items through the Booster Bell."
 		},
 		Summary = "Explore Payon Cave Contract"
 	},
@@ -48287,7 +48349,7 @@ Talk to Kar=],
 		Title = "[Booster]  Explore Clock Tower",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"Complete the quest by hunting in <NAVI>[Clock Tower]<INFO>c_tower1,199,163,0,101,0</INFO></NAVI>. You can receive rewards and items through the quest window."
+			"Complete the quest by hunting in <NAVI>[Clock Tower]<INFO>c_tower1,199,163,0,101,0</INFO></NAVI>. You can receive rewards and items through the Booster Bell."
 		},
 		Summary = "Explore Clock Tower Contract"
 	},
@@ -48304,7 +48366,7 @@ Talk to Kar=],
 		Title = "[Booster] Explore Turtle Island",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Complete the quest by hunting in <NAVI>[Turtle Island]<INFO>tur_dun02,148,261,0,101,0</INFO></NAVI>. You can receive rewards and items through the quest window."
+			"Complete the quest by hunting in <NAVI>[Turtle Island]<INFO>tur_dun02,148,261,0,101,0</INFO></NAVI>. You can receive rewards and items through the Booster Bell."
 		},
 		Summary = ""
 	},
@@ -48431,7 +48493,7 @@ Talk to Kar=],
 		Title = "[Booster] Explore Einbech Mine",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Complete the quest by finding the hidden <NAVI>[Einbech Mine 3]<INFO>ein_dun03,268,279,0,101,0</INFO></NAVI>. You can receive rewards and items through the quest window."
+			"Complete the quest by finding the hidden <NAVI>[Einbech Mine 3]<INFO>ein_dun03,268,279,0,101,0</INFO></NAVI>. You can receive rewards and items through the Booster Bell."
 		},
 		Summary = ""
 	},
@@ -49298,104 +49360,6 @@ Talk to Kar=],
 		Description = {
 			"Defeat 100 Water property Monsters which are Lv.200 or higher",
 			"and go back to <NAVI>[Investigator Rudolf]<INFO>aldebaran,171,153,0,101,0</INFO></NAVI> for rewards."
-		},
-		Summary = ""
-	},
-	[19116] = {
-		Title = "The Eye of Hellion",
-		Description = {
-			"You found a Vat with a message, ''What will it be? Wine or Grape Juice? Oh, but I much prefer wine.'' Tell Grout'he about the message."
-		},
-		Summary = ""
-	},
-	[19117] = {
-		Title = "The Eye of Hellion",
-		Description = {
-			"You found a message from Tyus, return to Grout'he and let him know what you found under the Wooden Floor."
-		},
-		Summary = ""
-	},
-	[19118] = {
-		Title = "The Eye of Hellion",
-		Description = {
-			"You told Grout'he what the slab under the wooden floor said. He tells you to check the huge stone statue in the Archer Village to the north."
-		},
-		Summary = ""
-	},
-	[19119] = {
-		Title = "The Eye of Hellion",
-		Description = {
-			"You have obtained a Payon Tablet from the Buddha Statue. You should bring it back to Chilias'Tyus in Morroc."
-		},
-		Summary = ""
-	},
-	[19120] = {
-		Title = "The Eye of Hellion",
-		Description = {
-			"You have received a Morroc Tablet. Chilias'Tyus says that you should travel to Geffen and find a man named Welshyun."
-		},
-		Summary = ""
-	},
-	[19121] = {
-		Title = "The Eye of Hellion",
-		Description = {
-			"Welshyun asked you to find his student Enoz in the Geffen tower. Make sure that he has the report called ''Monster Life in the Geffen Area.''"
-		},
-		Summary = ""
-	},
-	[19122] = {
-		Title = "The Eye of Hellion",
-		Description = {
-			"Your insult may not have been such a great idea. Try to make amends with Welshyun."
-		},
-		Summary = ""
-	},
-	[19123] = {
-		Title = "The Eye of Hellion",
-		Description = {
-			"Welshyun says that he is thirsty. Bring him a potion and see if you can parch his throat."
-		},
-		Summary = ""
-	},
-	[19124] = {
-		Title = "The Eye of Hellion",
-		Description = {
-			"It seems Enoz has lost the Monster Life book. Return to Welshyun and tell let him know."
-		},
-		Summary = ""
-	},
-	[19125] = {
-		Title = "The Eye of Hellion",
-		Description = {
-			"Welshyun says you should deliver the book to Enoz at Geffen tower and bring back 1 Blue Gemstone when you return."
-		},
-		Summary = ""
-	},
-	[19126] = {
-		Title = "The Eye of Hellion",
-		Description = {
-			"Return to Welshyun and don't forget to bring 1 Blue Gemstone. If he asks you a strange question, answer him 'Valaskjalf'"
-		},
-		Summary = ""
-	},
-	[19127] = {
-		Title = "The Eye of Hellion",
-		Description = {
-			"You have received a Geffen Tablet. Bring all of the tablets back to Sir Chilias'Tyus in Morroc."
-		},
-		Summary = ""
-	},
-	[19128] = {
-		Title = "The Eye of Hellion",
-		Description = {
-			"Chilias'Tyus says that Welshyun is the only one who can combine the tablet pieces into its complete form."
-		},
-		Summary = ""
-	},
-	[19129] = {
-		Title = "The Eye of Hellion",
-		Description = {
-			"You have the Completed Tablet. Bring it to Chilias'Tyus so he knows that the task is complete."
 		},
 		Summary = ""
 	},
@@ -73208,5 +73172,508 @@ Talk to Kar=],
 		NpcNavi = "geffen",
 		NpcPosX = 40,
 		NpcPosY = 141
+	},
+	[19116] = {
+		Title = "Pisruik's Research (1)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"If you deliver the materials I need right now, I'll teach you what I'm making in return. The materials I need now are..",
+			"▶5 <ITEM>[Yellow Gemstones]<INFO>715</INFO></ITEM>,",
+			"▶4 <ITEM>[Empty Potion Bottles]<INFO>1093</INFO></ITEM>,",
+			"▶10 <ITEM>[Mermaid's Heart]<INFO>950</INFO></ITEM>,",
+			"▶10 <ITEM>[Moth Dust]<INFO>1057</INFO></ITEM>",
+			"   ",
+			"Once you have all the materials, bring them to <NAVI>[Pisruik]<INFO>yuno_in04,33,108,0,101,0</INFO></NAVI>."
+		},
+		Summary = "",
+		NpcSpr = "4_M_ALCHE_D",
+		NpcNavi = "yuno_in04",
+		NpcPosX = 33,
+		NpcPosY = 108
+	},
+	[19117] = {
+		Title = "Pisruik's Research (2-1)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"I need about 20 <ITEM>[Maneater Blossom]<INFO>1032</INFO></ITEM> to test my theory.. Could I ask you for this too?",
+			"   ",
+			"Once you have all the materials, bring them to <NAVI>[Pisruik]<INFO>yuno_in04,33,108,0,101,0</INFO></NAVI>."
+		},
+		Summary = "20 Maneater Blossom",
+		NpcSpr = "4_M_ALCHE_D",
+		NpcNavi = "yuno_in04",
+		NpcPosX = 33,
+		NpcPosY = 108
+	},
+	[19118] = {
+		Title = "Pisruik's Research (2-2)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"The experiment isn't going as well as I thought.. Could you get me just 1 more <ITEM>[Maneater Blossom]<INFO>1032</INFO></ITEM>? Please.",
+			"   ",
+			"Once you have all the materials, bring them to <NAVI>[Pisruik]<INFO>yuno_in04,33,108,0,101,0</INFO></NAVI>."
+		},
+		Summary = "1 Maneater Blossom",
+		NpcSpr = "4_M_ALCHE_D",
+		NpcNavi = "yuno_in04",
+		NpcPosX = 33,
+		NpcPosY = 108
+	},
+	[19119] = {
+		Title = "Pisruik's Research (3)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"Um.. I'm sorry, but could you get me glasses like the ones I was wearing? I can't see ahead, so I can't move. I'd really appreciate it if you could get them for me.",
+			"   ",
+			"Obtain <ITEM>[Geek Glasses]<INFO>2243</INFO></ITEM> and bring them to <NAVI>[Pisruik]<INFO>yuno_in04,33,108,0,101,0</INFO></NAVI>.",
+			"^FF0000※ Please make sure you do not have another pair of Geek Glasses equipped in your inventory.^000000"
+		},
+		Summary = "1 Geek Glasses",
+		NpcSpr = "4_M_ALCHE_D",
+		NpcNavi = "yuno_in04",
+		NpcPosX = 33,
+		NpcPosY = 108
+	},
+	[19120] = {
+		Title = "The Bard's Song (1)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"I can't stop thinking about what the Timid Youth",
+			"who liked {{P:{00}}}[Tropical Sograt]{{P:{01}}} in Prontera said. A bard's curse.. For gathering information like this, surely..",
+			"I should start at the <NAVI>[Morroc tavern]<INFO>morocc_in,179,65,0,101,0</INFO></NAVI>, right?"
+		},
+		Summary = "Gather Information"
+	},
+	[19121] = {
+		Title = "The Bard's Song (1)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"The Bard <NAVI>[Riot]<INFO>morocc_in,169,72,0,101,0</INFO></NAVI> I met at the Morroc tavern",
+			"refuses to deal with me, saying I am not a poet's friend. A young poet crying in Geffen? What could he mean?",
+			"  ",
+			"※ You must clear the <TIPBOX>[Bard]<INFO>6123</INFO></TIPBOX> quest in Geffen."
+		},
+		Summary = "",
+		NpcSpr = "2_M_BARD_ORIENT",
+		NpcNavi = "morocc_in",
+		NpcPosX = 169,
+		NpcPosY = 72
+	},
+	[19122] = {
+		Title = "The Bard's Song (2)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"Riot.. Does he mean he won't teach me easily?",
+			"A place you can reach by riding tree roots? Niflhiem?",
+			"Does he want me to bring five Yhelle eggs from Niflhiem?",
+			"  ",
+			"Find Yhelle in Niflhiem, obtain five <ITEM>[eggs]<INFO>574</INFO></ITEM>, and bring them to <NAVI>[Riot]<INFO>morocc_in,169,72,0,101,0</INFO></NAVI>.",
+			"  ",
+			"▶Yhelle Appearance Areas",
+			"<NAVI>[Location]<INFO>niflheim,239,70,0,101,0</INFO></NAVI>/<NAVI>[Location]<INFO>niflheim,185,205,0,101,0</INFO></NAVI>/<NAVI>[Location]<INFO>niflheim,85,203,0,101,0</INFO></NAVI>/<NAVI>[Location]<INFO>niflheim,149,81,0,101,0</INFO></NAVI>/<NAVI>[Location]<INFO>niflheim,209,144,0,101,0</INFO></NAVI>",
+			"^FF0000※ Navigation out of the City of the Dead is not available.^000000"
+		},
+		Summary = "5 Yhelle Eggs",
+		NpcSpr = "2_M_BARD_ORIENT",
+		NpcNavi = "morocc_in",
+		NpcPosX = 169,
+		NpcPosY = 72
+	},
+	[19123] = {
+		Title = "The Bard's Song (2)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"Strange?! I'm sure I got five eggs from Yhelle? If I want to learn the skill, I have to bring 1 Munak Doll?",
+			"  ",
+			"Obtain 1 <ITEM>[Munak Doll]<INFO>7277</INFO></ITEM> and bring it to <NAVI>[Riot]<INFO>morocc_in,169,72,0,101,0</INFO></NAVI>."
+		},
+		Summary = "1 Munak Doll",
+		NpcSpr = "2_M_BARD_ORIENT",
+		NpcNavi = "morocc_in",
+		NpcPosX = 169,
+		NpcPosY = 72
+	},
+	[19124] = {
+		Title = "Tidings That Do Not Fade (1)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"Ford Leslie in Geffen is worried because the person assigned to duty in Britoniah has not sent any word.",
+			"   ",
+			"▶Go to [Britoniah] and look for a knight named ^0000FFSlaty^191240."
+		},
+		Summary = "Find Knight Slaty",
+		NpcSpr = "4_M_CRU",
+		NpcNavi = "gef_fild13",
+		NpcPosX = 297,
+		NpcPosY = 242
+	},
+	[19125] = {
+		Title = "Tidings That Do Not Fade (2)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"To help the injured and unconscious <NAVI>[Slaty]<INFO>gef_fild13,297,242,0,101,0</INFO></NAVI> regain consciousness..",
+			"   ",
+			"▶Bring 1 <ITEM>[Red Potion]<INFO>909</INFO></ITEM>."
+		},
+		Summary = "Give Slaty a Red Potion..",
+		NpcSpr = "4_M_CRU",
+		NpcNavi = "gef_fild13",
+		NpcPosX = 297,
+		NpcPosY = 242
+	},
+	[19126] = {
+		Title = "Tidings That Do Not Fade (3)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"The report and chivalry deployment request that Slaty was risking his life to deliver...",
+			"   ",
+			"▶Bring them to <NAVI>[Ford]<INFO>geffen,110,117,0,101,0</INFO></NAVI> in Geffen."
+		},
+		Summary = "To Ford..",
+		NpcSpr = "4_M_CRU_OLD",
+		NpcNavi = "geffen",
+		NpcPosX = 110,
+		NpcPosY = 117
+	},
+	[19127] = {
+		Title = "Tidings That Do Not Fade (4)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"They say wounds caused by Knife Goblin poison will not heal without an antidote. Go to the priest at Prontera Church who can make the antidote,",
+			"   ",
+			"▶<NAVI>[Arthur]<INFO>prt_church,87,125,0,101,0</INFO></NAVI>, and obtain the remedy."
+		},
+		Summary = "",
+		NpcSpr = "4_M_SAGE_C",
+		NpcNavi = "prt_church",
+		NpcPosX = 87,
+		NpcPosY = 125
+	},
+	[19128] = {
+		Title = "Tidings That Do Not Fade (5)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"<NAVI>[Arthur]<INFO>prt_church,87,125,0,101,0</INFO></NAVI> said he needs ingredients for the Goblin poison remedy and told you what they are. Gather the ingredients and bring them to him.",
+			"   ",
+			"▶Remedy Ingredients",
+			"1 <ITEM>[Grape]<INFO>514</INFO></ITEM>, 1 <ITEM>[Unripe Apple]<INFO>619</INFO></ITEM>, 3 <ITEM>[Empty Bottle]<INFO>713</INFO></ITEM>,",
+			"5 <ITEM>[Jellopy]<INFO>909</INFO></ITEM>, 20 <ITEM>[Sticky Mucus]<INFO>938</INFO></ITEM>,",
+			"1 <ITEM>[Coal]<INFO>1003</INFO></ITEM>, 3 <ITEM>[Cyfar]<INFO>7053</INFO></ITEM>"
+		},
+		Summary = "Remedy Ingredients",
+		NpcSpr = "4_M_SAGE_C",
+		NpcNavi = "prt_church",
+		NpcPosX = 87,
+		NpcPosY = 125
+	},
+	[19129] = {
+		Title = "Tidings That Do Not Fade (6)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"<NAVI>[Arthur]<INFO>prt_church,87,125,0,101,0</INFO></NAVI> is preparing the Goblin poison remedy.",
+			"   ",
+			"▶Talk to him and see if the preparation is complete."
+		},
+		Summary = "",
+		NpcSpr = "4_M_SAGE_C",
+		NpcNavi = "prt_church",
+		NpcPosX = 87,
+		NpcPosY = 125
+	},
+	[19130] = {
+		Title = "Tidings That Do Not Fade (7)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"The Goblin poison remedy is complete.",
+			"   ",
+			"▶Bring it to <NAVI>[Slaty]<INFO>gef_fild13,297,242,0,101,0</INFO></NAVI> before the remedy loses its effect."
+		},
+		Summary = "To Britoniah..",
+		NpcSpr = "4_M_CRU",
+		NpcNavi = "gef_fild13",
+		NpcPosX = 297,
+		NpcPosY = 242
+	},
+	[19131] = {
+		Title = "Tidings That Do Not Fade (7)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"Did I arrive too late?",
+			"The remedy given to Slaty had no effect.",
+			"   ",
+			"▶Ask <NAVI>[Arthur]<INFO>prt_church,87,125,0,101,0</INFO></NAVI> to make the remedy again."
+		},
+		Summary = "To Arthur..",
+		NpcSpr = "4_M_SAGE_C",
+		NpcNavi = "prt_church",
+		NpcPosX = 87,
+		NpcPosY = 125
+	},
+	[19132] = {
+		Title = "Bioethics (1)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"I spoke to Kellasus, the authority on Homunculus Bioethics, and was ignored. They say he normally won't even deal with people.. Could it be?",
+			"   ",
+			"▶Keep talking to <NAVI>[Kellasus]<INFO>lhz_in01,224,140,0,101,0</INFO></NAVI>."
+		},
+		Summary = "",
+		NpcSpr = "1_M_LIBRARYMASTER",
+		NpcNavi = "lhz_in01",
+		NpcPosX = 224,
+		NpcPosY = 140
+	},
+	[19133] = {
+		Title = "Bioethics (2)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"To receive instruction in Homunculus techniques from Kellasus, it seems I must first acquire knowledge about Homunculi.",
+			"   ",
+			"▶Ask <NAVI>[Skrajjad]<INFO>lhz_in01,225,122,0,101,0</INFO></NAVI> about Homunculi."
+		},
+		Summary = "",
+		NpcSpr = "4_M_SAGE_A",
+		NpcNavi = "lhz_in01",
+		NpcPosX = 225,
+		NpcPosY = 122
+	},
+	[19134] = {
+		Title = "Bioethics (3)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"Skrajjad introduced Keshibien, who knows the ^FF0000Call Homunculus^000000 skill in detail.",
+			"   ",
+			"▶Ask <NAVI>[Keshibien]<INFO>lhz_in01,204,138,0,101,0</INFO></NAVI> about Call Homunculus."
+		},
+		Summary = "",
+		NpcSpr = "4_M_ALCHE_C",
+		NpcNavi = "lhz_in01",
+		NpcPosX = 204,
+		NpcPosY = 138
+	},
+	[19135] = {
+		Title = "Bioethics (4)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"Keshibien finally introduced Broncher, who knows the FF0000Homunculus Resurrection^000000 skill in detail.",
+			"   ",
+			"▶Ask <NAVI>[Broncher]<INFO>lhz_in02,278,273,0,101,0</INFO></NAVI> about Homunculus Resurrection."
+		},
+		Summary = "",
+		NpcSpr = "4_M_SEAMAN",
+		NpcNavi = "lhz_in02",
+		NpcPosX = 278,
+		NpcPosY = 273
+	},
+	[19136] = {
+		Title = "Bioethics (5)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"I learned about the Homunculus skills Vaporize, Call Homunculus, and Homunculus Resurrection.",
+			"   ",
+			"▶Ask <NAVI>[Kellasus]<INFO>lhz_in01,224,140,0,101,0</INFO></NAVI> to teach you Bioethics."
+		},
+		Summary = "",
+		NpcSpr = "1_M_LIBRARYMASTER",
+		NpcNavi = "lhz_in01",
+		NpcPosX = 224,
+		NpcPosY = 140
+	},
+	[19137] = {
+		Title = "Bioethics (6)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"How can I break Kellasus's stubborn belief that Homunculi are living beings and that humans should not speak lightly of them?",
+			"   ",
+			"▶Should I at least meet <NAVI>[Kellasus's family]<INFO>lhz_in03,106,34,0,101,0</INFO></NAVI>?"
+		},
+		Summary = "",
+		NpcSpr = "4_M_KID1",
+		NpcNavi = "lhz_in03",
+		NpcPosX = 106,
+		NpcPosY = 34
+	},
+	[19138] = {
+		Title = "Bioethics (7)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"After meeting Mr. Kellasus's son, I thought of a way to break his stubbornness.",
+			"   ",
+			"▶Go to <NAVI>[Kellasus]<INFO>lhz_in01,224,140,0,101,0</INFO></NAVI> and speak with him."
+		},
+		Summary = "",
+		NpcSpr = "1_M_LIBRARYMASTER",
+		NpcNavi = "lhz_in01",
+		NpcPosX = 224,
+		NpcPosY = 140
+	},
+	[19139] = {
+		Title = "Bioethics (8)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"After listening to me, Kellasus seems to have a lot on his mind.",
+			"   ",
+			"▶Continue talking to <NAVI>[Kellasus]<INFO>lhz_in01,224,140,0,101,0</INFO></NAVI>."
+		},
+		Summary = "",
+		NpcSpr = "1_M_LIBRARYMASTER",
+		NpcNavi = "lhz_in01",
+		NpcPosX = 224,
+		NpcPosY = 140
+	},
+	[19140] = {
+		Title = "Bioethics (9)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"It seems Kellasus has finished organizing his thoughts.",
+			"   ",
+			"▶Learn Bioethics from <NAVI>[Kellasus]<INFO>lhz_in01,224,140,0,101,0</INFO></NAVI>."
+		},
+		Summary = "",
+		NpcSpr = "1_M_LIBRARYMASTER",
+		NpcNavi = "lhz_in01",
+		NpcPosX = 224,
+		NpcPosY = 140
+	},
+	[19141] = {
+		Title = "Charge Attack (1)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"Knight Aesop of the Prontera 7th Chivalry says that if I want to know the true state of the chivalry, I should observe the training outside.",
+			"   ",
+			"▶Observe the <NAVI>[Chivalry Training]<INFO>prontera,69,351,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Observe Chivalry Training"
+	},
+	[19142] = {
+		Title = "Charge Attack (2)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"As Aesop said, I observed the chivalry's training.",
+			"   ",
+			"▶Return to <NAVI>[Aesop]<INFO>prt_in,85,99,0,101,0</INFO></NAVI>."
+		},
+		Summary = "",
+		NpcSpr = "4_M_JOB_KNIGHT2",
+		NpcNavi = "prt_in",
+		NpcPosX = 85,
+		NpcPosY = 99
+	},
+	[19143] = {
+		Title = "Charge Attack (3)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"Aesop seems to have lost all passion and motivation. While observing, I think I heard about Aesop's novice days? Something about how a knight should have the ability to gather 5 Candy Cane and 3 Witherless Rose at any time?",
+			"   ",
+			"▶Obtain 5 <ITEM>[Candy Cane]<INFO>530</INFO></ITEM> and 3 <ITEM>[Witherless Rose]<INFO>748</INFO></ITEM>,",
+			"▶then bring them to <NAVI>[Aesop]<INFO>prt_in,85,99,0,101,0</INFO></NAVI>."
+		},
+		Summary = "For the Knight Who Lost His Motivation",
+		NpcSpr = "4_M_JOB_KNIGHT2",
+		NpcNavi = "prt_in",
+		NpcPosX = 85,
+		NpcPosY = 99
+	},
+	[19144] = {
+		Title = "Charge Attack (4)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"Aesop says he will pass down a technique he developed after much research.",
+			"   ",
+			"▶Learn the technique from <NAVI>[Aesop]<INFO>prt_in,85,99,0,101,0</INFO></NAVI>."
+		},
+		Summary = "",
+		NpcSpr = "4_M_JOB_KNIGHT2",
+		NpcNavi = "prt_in",
+		NpcPosX = 85,
+		NpcPosY = 99
+	},
+	[19145] = {
+		Title = "Training Monk's Technique (1)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"Excruciating Palm, which the Monks created with all their might, cannot be used without knowing Spiritual Bestowment?",
+			"   ",
+			"▶Go find <NAVI>[some foolish idiot]<INFO>prt_monk,270,198,0,101,0</INFO></NAVI> who can supposedly use Spiritual Bestowment alone."
+		},
+		Summary = "",
+		NpcSpr = "4_M_MONK",
+		NpcNavi = "prt_monk",
+		NpcPosX = 270,
+		NpcPosY = 198
+	},
+	[19146] = {
+		Title = "Training Monk's Technique (2)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"If I want to do something, I should cast away material desire first? Could it be...?",
+			"   ",
+			"▶Empty all items related to material desire and visit <NAVI>[Training Monk]<INFO>prt_monk,270,198,0,101,0</INFO></NAVI>.",
+			"^FF0000※ This quest can only proceed after reducing your carried weight to 0.^000000"
+		},
+		Summary = "",
+		NpcSpr = "4_M_MONK",
+		NpcNavi = "prt_monk",
+		NpcPosX = 270,
+		NpcPosY = 198
+	},
+	[19147] = {
+		Title = "Training Monk's Technique (3)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"I learned Spiritual Bestowment. Then could I perhaps learn Excruciating Palm too?",
+			"   ",
+			"▶Find <NAVI>[Training Monk]<INFO>monk_test,316,69,0,101,0</INFO></NAVI>."
+		},
+		Summary = "",
+		NpcSpr = "4_M_CHNMONK",
+		NpcNavi = "monk_test",
+		NpcPosX = 316,
+		NpcPosY = 69
+	},
+	[19148] = {
+		Title = "Training Monk's Technique (4)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"Prove that you use power righteously.",
+			"   ",
+			"▶Obtain 20 <ITEM>[Stem]<INFO>905</INFO></ITEM> and 3 <ITEM>[Shoot]<INFO>711</INFO></ITEM>,",
+			"▶then find <NAVI>[Training Monk]<INFO>monk_test,316,69,0,101,0</INFO></NAVI>."
+		},
+		Summary = "",
+		NpcSpr = "4_M_CHNMONK",
+		NpcNavi = "monk_test",
+		NpcPosX = 316,
+		NpcPosY = 69
+	},
+	[19149] = {
+		Title = "Training Monk's Technique (5)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"I have proven my qualification to use power righteously.",
+			"   ",
+			"▶Learn Excruciating Palm from <NAVI>[Training Monk]<INFO>monk_test,316,69,0,101,0</INFO></NAVI>."
+		},
+		Summary = "",
+		NpcSpr = "4_M_CHNMONK",
+		NpcNavi = "monk_test",
+		NpcPosX = 316,
+		NpcPosY = 69
+	},
+	[19150] = {
+		Title = "Sacrifice",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"Do you know the skill called ^3131FFRedemptio^000000'?",
+			"Redemptio is sacrifice, a true sacrifice skill. Please remember that ^FF0000you become incapacitated in exchange for reviving your party members^000000.",
+			"   ",
+			"▶ Learn Resurrection Skill Level 1 or higher, and bring 20 <ITEM>[Blue Gemstones]<INFO>717</INFO></ITEM> and 30 <ITEM>[Holy Waters]<INFO>523</INFO></ITEM>",
+			"▶ Take the materials and visit <NAVI>[Sister Linus]<INFO>prt_church,111,112,0,101,0</INFO></NAVI>."
+		},
+		Summary = "",
+		NpcSpr = "1_F_PRIEST",
+		NpcNavi = "prt_church",
+		NpcPosX = 111,
+		NpcPosY = 112
 	}
 }

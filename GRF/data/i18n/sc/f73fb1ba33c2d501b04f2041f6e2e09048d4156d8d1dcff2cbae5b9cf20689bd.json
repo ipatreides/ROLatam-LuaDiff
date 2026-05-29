@@ -344,8 +344,8 @@
     "eRZ1DA": {
         "ko": "<루루카 깊은 숲 {0}일째>",
         "en": "<Deep Luluka Forest Day {0}>",
-        "pt": "<Floresta Profunda de Luluka {0}º dia>",
-        "es": "<Bosque profundo de Luluka {0} día}"
+        "pt": "<Floresta Profunda de Luluka dia {0}>",
+        "es": "<Bosque profundo de Luluka día {0}}"
     },
     "ehZ1DA": {
         "ko": "<루루카 깊은 숲 위로 태양이 떠올랐습니다.>",

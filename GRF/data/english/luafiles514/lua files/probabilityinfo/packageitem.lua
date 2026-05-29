@@ -3621,7 +3621,7 @@ tbl = {
 		{
 			id = 300006,
 			prob = 1,
-			name = "Geodoliant Card",
+			name = "Jeweliant Card",
 			group = 6
 		},
 		{
@@ -4499,68 +4499,56 @@ tbl = {
 		{
 			id = 23045,
 			prob = 1105,
-			name = "Mont Blanc cake",
+			name = "Mont Blanc Cake",
 			group = 6
 		},
 		{
 			id = 22991,
 			prob = 1105,
-			name = "Soccer cake",
+			name = "Soccer Cake",
 			group = 6
 		},
 		{
 			id = 23079,
 			prob = 1105,
-			name = "Red Fruit Cake",
+			name = "Red Berry Cake",
 			group = 6
 		},
 		{
 			id = 11584,
-			prob = 2172,
+			prob = 2182,
 			name = "[Event] White Chocolate",
-			group = 6
-		},
-		{
-			id = 104830,
-			prob = 3,
-			name = "[Event] Burning Oval Artifact",
-			group = 6
-		},
-		{
-			id = 19683,
-			prob = 20,
-			name = "Costume Sweet Candy",
-			group = 6
-		},
-		{
-			id = 31195,
-			prob = 20,
-			name = "Costume Mini Chocolate Hat",
-			group = 6
-		},
-		{
-			id = 20470,
-			prob = 20,
-			name = "Choco-Helm",
 			group = 6
 		},
 		{
 			id = 31459,
 			prob = 20,
-			name = "Bonbon hat",
+			name = "[Costume] Bonbon hat",
 			group = 6
 		},
 		{
-			id = 15858,
-			prob = 10,
-			name = "Stuffed top hat",
+			id = 20470,
+			prob = 20,
+			name = "[Costume] Sweet Chocolate Hat",
+			group = 6
+		},
+		{
+			id = 31195,
+			prob = 20,
+			name = "[Costume] Mini Chocolate Hat",
+			group = 6
+		},
+		{
+			id = 19683,
+			prob = 20,
+			name = "[Costume] Sweet Candy",
 			group = 6
 		}
 	},
 	[12152] = {
 		{
 			id = 12107,
-			prob = 3,
+			prob = 4,
 			name = "Wrapped Mask",
 			group = 1
 		},
@@ -12241,7 +12229,7 @@ tbl = {
 		{
 			id = 300006,
 			prob = 1,
-			name = "Geodoliant Card",
+			name = "Jeweliant Card",
 			group = 6
 		},
 		{
@@ -14053,7 +14041,7 @@ tbl = {
 		{
 			id = 7139,
 			prob = 1,
-			name = "Glistening Coat",
+			name = "Glistening Coating",
 			group = 0
 		}
 	},
@@ -14067,7 +14055,7 @@ tbl = {
 		{
 			id = 7139,
 			prob = 1,
-			name = "Glistening Coat",
+			name = "Glistening Coating",
 			group = 0
 		}
 	},
@@ -14081,7 +14069,7 @@ tbl = {
 		{
 			id = 7139,
 			prob = 1,
-			name = "Glistening Coat",
+			name = "Glistening Coating",
 			group = 0
 		}
 	},
@@ -14095,7 +14083,7 @@ tbl = {
 		{
 			id = 7139,
 			prob = 1,
-			name = "Glistening Coat",
+			name = "Glistening Coating",
 			group = 0
 		}
 	},
@@ -25025,7 +25013,7 @@ tbl = {
 		{
 			id = 5654,
 			prob = 1,
-			name = " [1]",
+			name = "Holy Marching Hat [1]",
 			group = 1
 		}
 	},
@@ -28695,7 +28683,7 @@ tbl = {
 		{
 			id = 1601,
 			prob = 300,
-			name = "롯드 [3]",
+			name = "Rod [3]",
 			group = 6
 		},
 		{
@@ -30291,7 +30279,7 @@ tbl = {
 		{
 			id = 7139,
 			prob = 1,
-			name = "Glistening Coat 50",
+			name = "Glistening Coating 50",
 			group = 6
 		},
 		{
@@ -32379,7 +32367,7 @@ tbl = {
 		{
 			id = 7139,
 			prob = 1,
-			name = "Glistening Coat 50",
+			name = "Glistening Coating 50",
 			group = 6
 		},
 		{
@@ -43845,7 +43833,7 @@ tbl = {
 		{
 			id = 480069,
 			prob = 500,
-			name = "Archangel's Enchanted Wings",
+			name = "[Costume] Fluttering Archangel Wings",
 			group = 6
 		},
 		{
@@ -45881,6 +45869,476 @@ tbl = {
 			group = 0
 		}
 	},
+	[100655] = {
+		{
+			id = 1000475,
+			prob = 10,
+			name = "Unknown Item",
+			group = 1
+		},
+		{
+			id = 1000476,
+			prob = 10,
+			name = "Unknown Item",
+			group = 1
+		},
+		{
+			id = 1000477,
+			prob = 10,
+			name = "Unknown Item",
+			group = 1
+		},
+		{
+			id = 1000478,
+			prob = 10,
+			name = "Unknown Item",
+			group = 1
+		},
+		{
+			id = 1000479,
+			prob = 10,
+			name = "Unknown Item",
+			group = 1
+		},
+		{
+			id = 1000480,
+			prob = 10,
+			name = "Unknown Item",
+			group = 1
+		},
+		{
+			id = 1000481,
+			prob = 10,
+			name = "Unknown Item",
+			group = 1
+		},
+		{
+			id = 1000482,
+			prob = 10,
+			name = "Unknown Item",
+			group = 1
+		},
+		{
+			id = 1000483,
+			prob = 10,
+			name = "Unknown Item",
+			group = 1
+		},
+		{
+			id = 1000484,
+			prob = 10,
+			name = "Unknown Item",
+			group = 1
+		},
+		{
+			id = 1000485,
+			prob = 10,
+			name = "Unknown Item",
+			group = 1
+		},
+		{
+			id = 1000486,
+			prob = 10,
+			name = "Unknown Item",
+			group = 1
+		},
+		{
+			id = 1000487,
+			prob = 10,
+			name = "Unknown Item",
+			group = 1
+		},
+		{
+			id = 1000488,
+			prob = 10,
+			name = "Unknown Item",
+			group = 1
+		},
+		{
+			id = 1000489,
+			prob = 10,
+			name = "Unknown Item",
+			group = 1
+		},
+		{
+			id = 1000490,
+			prob = 10,
+			name = "Unknown Item",
+			group = 1
+		},
+		{
+			id = 1000491,
+			prob = 10,
+			name = "Unknown Item",
+			group = 1
+		},
+		{
+			id = 1000492,
+			prob = 10,
+			name = "Unknown Item",
+			group = 1
+		},
+		{
+			id = 1000493,
+			prob = 10,
+			name = "Unknown Item",
+			group = 1
+		},
+		{
+			id = 1000494,
+			prob = 10,
+			name = "Unknown Item",
+			group = 1
+		},
+		{
+			id = 1000495,
+			prob = 10,
+			name = "Unknown Item",
+			group = 1
+		},
+		{
+			id = 1000496,
+			prob = 10,
+			name = "Unknown Item",
+			group = 1
+		},
+		{
+			id = 1000497,
+			prob = 10,
+			name = "Unknown Item",
+			group = 1
+		},
+		{
+			id = 1000498,
+			prob = 10,
+			name = "Unknown Item",
+			group = 1
+		},
+		{
+			id = 1000499,
+			prob = 10,
+			name = "Unknown Item",
+			group = 1
+		},
+		{
+			id = 1000500,
+			prob = 10,
+			name = "Unknown Item",
+			group = 1
+		},
+		{
+			id = 1000475,
+			prob = 10,
+			name = "Unknown Item",
+			group = 2
+		},
+		{
+			id = 1000476,
+			prob = 10,
+			name = "Unknown Item",
+			group = 2
+		},
+		{
+			id = 1000477,
+			prob = 10,
+			name = "Unknown Item",
+			group = 2
+		},
+		{
+			id = 1000478,
+			prob = 10,
+			name = "Unknown Item",
+			group = 2
+		},
+		{
+			id = 1000479,
+			prob = 10,
+			name = "Unknown Item",
+			group = 2
+		},
+		{
+			id = 1000480,
+			prob = 10,
+			name = "Unknown Item",
+			group = 2
+		},
+		{
+			id = 1000481,
+			prob = 10,
+			name = "Unknown Item",
+			group = 2
+		},
+		{
+			id = 1000482,
+			prob = 10,
+			name = "Unknown Item",
+			group = 2
+		},
+		{
+			id = 1000483,
+			prob = 10,
+			name = "Unknown Item",
+			group = 2
+		},
+		{
+			id = 1000484,
+			prob = 10,
+			name = "Unknown Item",
+			group = 2
+		},
+		{
+			id = 1000485,
+			prob = 10,
+			name = "Unknown Item",
+			group = 2
+		},
+		{
+			id = 1000486,
+			prob = 10,
+			name = "Unknown Item",
+			group = 2
+		},
+		{
+			id = 1000487,
+			prob = 10,
+			name = "Unknown Item",
+			group = 2
+		},
+		{
+			id = 1000488,
+			prob = 10,
+			name = "Unknown Item",
+			group = 2
+		},
+		{
+			id = 1000489,
+			prob = 10,
+			name = "Unknown Item",
+			group = 2
+		},
+		{
+			id = 1000490,
+			prob = 10,
+			name = "Unknown Item",
+			group = 2
+		},
+		{
+			id = 1000491,
+			prob = 10,
+			name = "Unknown Item",
+			group = 2
+		},
+		{
+			id = 1000492,
+			prob = 10,
+			name = "Unknown Item",
+			group = 2
+		},
+		{
+			id = 1000493,
+			prob = 10,
+			name = "Unknown Item",
+			group = 2
+		},
+		{
+			id = 1000494,
+			prob = 10,
+			name = "Unknown Item",
+			group = 2
+		},
+		{
+			id = 1000495,
+			prob = 10,
+			name = "Unknown Item",
+			group = 2
+		},
+		{
+			id = 1000496,
+			prob = 10,
+			name = "Unknown Item",
+			group = 2
+		},
+		{
+			id = 1000497,
+			prob = 10,
+			name = "Unknown Item",
+			group = 2
+		},
+		{
+			id = 1000498,
+			prob = 10,
+			name = "Unknown Item",
+			group = 2
+		},
+		{
+			id = 1000499,
+			prob = 10,
+			name = "Unknown Item",
+			group = 2
+		},
+		{
+			id = 1000500,
+			prob = 10,
+			name = "Unknown Item",
+			group = 2
+		},
+		{
+			id = 1000475,
+			prob = 10,
+			name = "Unknown Item",
+			group = 3
+		},
+		{
+			id = 1000476,
+			prob = 10,
+			name = "Unknown Item",
+			group = 3
+		},
+		{
+			id = 1000477,
+			prob = 10,
+			name = "Unknown Item",
+			group = 3
+		},
+		{
+			id = 1000478,
+			prob = 10,
+			name = "Unknown Item",
+			group = 3
+		},
+		{
+			id = 1000479,
+			prob = 10,
+			name = "Unknown Item",
+			group = 3
+		},
+		{
+			id = 1000480,
+			prob = 10,
+			name = "Unknown Item",
+			group = 3
+		},
+		{
+			id = 1000481,
+			prob = 10,
+			name = "Unknown Item",
+			group = 3
+		},
+		{
+			id = 1000482,
+			prob = 10,
+			name = "Unknown Item",
+			group = 3
+		},
+		{
+			id = 1000483,
+			prob = 10,
+			name = "Unknown Item",
+			group = 3
+		},
+		{
+			id = 1000484,
+			prob = 10,
+			name = "Unknown Item",
+			group = 3
+		},
+		{
+			id = 1000485,
+			prob = 10,
+			name = "Unknown Item",
+			group = 3
+		},
+		{
+			id = 1000486,
+			prob = 10,
+			name = "Unknown Item",
+			group = 3
+		},
+		{
+			id = 1000487,
+			prob = 10,
+			name = "Unknown Item",
+			group = 3
+		},
+		{
+			id = 1000488,
+			prob = 10,
+			name = "Unknown Item",
+			group = 3
+		},
+		{
+			id = 1000489,
+			prob = 10,
+			name = "Unknown Item",
+			group = 3
+		},
+		{
+			id = 1000490,
+			prob = 10,
+			name = "Unknown Item",
+			group = 3
+		},
+		{
+			id = 1000491,
+			prob = 10,
+			name = "Unknown Item",
+			group = 3
+		},
+		{
+			id = 1000492,
+			prob = 10,
+			name = "Unknown Item",
+			group = 3
+		},
+		{
+			id = 1000493,
+			prob = 10,
+			name = "Unknown Item",
+			group = 3
+		},
+		{
+			id = 1000494,
+			prob = 10,
+			name = "Unknown Item",
+			group = 3
+		},
+		{
+			id = 1000495,
+			prob = 10,
+			name = "Unknown Item",
+			group = 3
+		},
+		{
+			id = 1000496,
+			prob = 10,
+			name = "Unknown Item",
+			group = 3
+		},
+		{
+			id = 1000497,
+			prob = 10,
+			name = "Unknown Item",
+			group = 3
+		},
+		{
+			id = 1000498,
+			prob = 10,
+			name = "Unknown Item",
+			group = 3
+		},
+		{
+			id = 1000499,
+			prob = 10,
+			name = "Unknown Item",
+			group = 3
+		},
+		{
+			id = 1000500,
+			prob = 10,
+			name = "Unknown Item",
+			group = 3
+		}
+	},
 	[100690] = {
 		{
 			id = 24150,
@@ -47437,15 +47895,15 @@ tbl = {
 			group = 0
 		},
 		{
-			id = 23307,
+			id = 104699,
 			prob = 0,
-			name = "Unknown Item 30",
+			name = "[Event] Defense Scroll 30",
 			group = 0
 		},
 		{
-			id = 14533,
+			id = 100680,
 			prob = 0,
-			name = "Advanced Field Manual 5",
+			name = "[Event]Advanced Field Manual 5",
 			group = 0
 		},
 		{
@@ -51673,6 +52131,80 @@ tbl = {
 			group = 0
 		}
 	},
+	[103316] = {
+		{
+			id = 24751,
+			prob = 10,
+			name = "POW Shadow Weapon",
+			group = 6
+		},
+		{
+			id = 24752,
+			prob = 10,
+			name = "POW Shadow Shield",
+			group = 6
+		},
+		{
+			id = 24753,
+			prob = 10,
+			name = "SPL Shadow Weapon",
+			group = 6
+		},
+		{
+			id = 24754,
+			prob = 10,
+			name = "SPL Shadow Shield",
+			group = 6
+		},
+		{
+			id = 24755,
+			prob = 10,
+			name = "CON Shadow Weapon",
+			group = 6
+		},
+		{
+			id = 24756,
+			prob = 10,
+			name = "CON Shadow Shield",
+			group = 6
+		},
+		{
+			id = 24757,
+			prob = 10,
+			name = "WIS Shadow Weapon",
+			group = 6
+		},
+		{
+			id = 24758,
+			prob = 10,
+			name = "WIS Shadow Shield",
+			group = 6
+		},
+		{
+			id = 24759,
+			prob = 10,
+			name = "STA Shadow Weapon",
+			group = 6
+		},
+		{
+			id = 24760,
+			prob = 10,
+			name = "STA Shadow Shield",
+			group = 6
+		},
+		{
+			id = 24761,
+			prob = 10,
+			name = "CRE Shadow Weapon",
+			group = 6
+		},
+		{
+			id = 24762,
+			prob = 10,
+			name = "CRE Shadow Shield",
+			group = 6
+		}
+	},
 	[103667] = {
 		{
 			id = 12516,
@@ -53238,7 +53770,7 @@ tbl = {
 	[104144] = {
 		{
 			id = 6413,
-			prob = 1,
+			prob = 0,
 			name = "New Insurance 5",
 			group = 0
 		}
@@ -54413,93 +54945,93 @@ tbl = {
 			group = 0
 		},
 		{
-			id = 480360,
+			id = 480167,
 			prob = 150,
-			name = "[Costume] Ornamental Shuriken",
+			name = "[Costume] Chocolate Lollipop",
 			group = 6
 		},
 		{
-			id = 480223,
+			id = 20570,
 			prob = 300,
-			name = "[Costume] Muranyasa",
+			name = "[Costume] Chocolate Backpack",
 			group = 6
 		},
 		{
-			id = 480221,
+			id = 420088,
 			prob = 500,
-			name = "[Costume] Ninetail's Tail",
+			name = "[Costume] Little Angel of Love",
 			group = 6
 		},
 		{
-			id = 420016,
+			id = 31538,
 			prob = 500,
-			name = "[Costume] Paper Spirits",
+			name = "[Costume] Aura of Love",
 			group = 6
 		},
 		{
-			id = 420014,
+			id = 420207,
 			prob = 650,
-			name = "[Costume] Amatsu Wig",
+			name = "[Costume] Eternal Rose Wig",
 			group = 6
 		},
 		{
-			id = 400343,
+			id = 31624,
 			prob = 650,
-			name = "[Costume] Fox Bamboo Hat",
+			name = "[Costume] Feline Heart",
 			group = 6
 		},
 		{
-			id = 19807,
+			id = 20255,
 			prob = 650,
-			name = "[Costume] Shogun Helmet",
+			name = "[Costume] Love's Blush",
 			group = 6
 		},
 		{
-			id = 31735,
+			id = 31535,
 			prob = 800,
-			name = "[Costume] Yawata Seal",
+			name = "[Costume] Fragrant Hat",
 			group = 6
 		},
 		{
-			id = 31403,
+			id = 19762,
 			prob = 800,
-			name = "[Costume] Wall",
+			name = "[Costume] Lovey-Dovey Couple Doves",
 			group = 6
 		},
 		{
-			id = 19805,
+			id = 31483,
 			prob = 800,
-			name = "[Costume] Taboo Curse Scroll",
+			name = "[Costume] In Love Cat Ears",
 			group = 6
 		},
 		{
-			id = 400495,
+			id = 400730,
 			prob = 800,
-			name = "[Costume] Crescent Helm",
+			name = "[Costume] Angeling Tiara",
 			group = 6
 		},
 		{
-			id = 410429,
+			id = 19512,
 			prob = 800,
-			name = "[Costume] Yokai Mask",
+			name = "[Costume] Fashion Eyepatch",
 			group = 6
 		},
 		{
-			id = 410194,
+			id = 31424,
 			prob = 800,
-			name = "[Costume] Fox Clan Mask",
+			name = "[Costume] Love Balloons",
 			group = 6
 		},
 		{
-			id = 19690,
+			id = 31439,
 			prob = 900,
-			name = "[Costume] Dark Snake Lord Hat",
+			name = "[Costume] Heart Earmuffs",
 			group = 6
 		},
 		{
-			id = 31415,
+			id = 20022,
 			prob = 900,
-			name = "[Costume] Wanderer's Sakkat",
+			name = "[Costume] Strawberry Love Candy",
 			group = 6
 		}
 	},
@@ -58367,7 +58899,7 @@ tbl = {
 		{
 			id = 400011,
 			prob = 70,
-			name = "Officer's hat [1]",
+			name = "Officer's Hat [1]",
 			group = 6
 		},
 		{
@@ -58585,7 +59117,7 @@ tbl = {
 		{
 			id = 400011,
 			prob = 70,
-			name = "Officer's hat [1]",
+			name = "Officer's Hat [1]",
 			group = 6
 		},
 		{
@@ -66893,7 +67425,7 @@ tbl = {
 		{
 			id = 420748,
 			prob = 5,
-			name = "Schmidt's physical Scarf",
+			name = "Schmidt's Physical Scarf",
 			group = 6
 		},
 		{
@@ -67147,7 +67679,7 @@ tbl = {
 		{
 			id = 420748,
 			prob = 5,
-			name = "Schmidt's physical Scarf",
+			name = "Schmidt's Physical Scarf",
 			group = 6
 		},
 		{
@@ -71125,9 +71657,9 @@ tbl = {
 	},
 	[106954] = {
 		{
-			id = 14533,
+			id = 100680,
 			prob = 0,
-			name = "Advanced Field Manual 2",
+			name = "[Event]Advanced Field Manual 2",
 			group = 0
 		}
 	},
@@ -71199,15 +71731,15 @@ tbl = {
 		{
 			id = 101168,
 			prob = 0,
-			name = "Unknown Item",
+			name = "[Not for Sale] Special Potion",
 			group = 0
 		}
 	},
 	[106964] = {
 		{
-			id = 14533,
+			id = 100680,
 			prob = 0,
-			name = "Advanced Field Manual 2",
+			name = "[Event]Advanced Field Manual 2",
 			group = 0
 		}
 	},
@@ -71451,9 +71983,9 @@ tbl = {
 	},
 	[106997] = {
 		{
-			id = 14533,
+			id = 100680,
 			prob = 0,
-			name = "Advanced Field Manual 2",
+			name = "[Event]Advanced Field Manual 2",
 			group = 0
 		}
 	},
@@ -72219,9 +72751,9 @@ tbl = {
 	},
 	[107087] = {
 		{
-			id = 14533,
+			id = 100680,
 			prob = 0,
-			name = "Advanced Field Manual 2",
+			name = "[Event]Advanced Field Manual 2",
 			group = 0
 		}
 	},
@@ -72230,6 +72762,14 @@ tbl = {
 			id = 22979,
 			prob = 0,
 			name = "[Event] Manual & Gum 2",
+			group = 0
+		}
+	},
+	[107089] = {
+		{
+			id = 107371,
+			prob = 0,
+			name = "[Event] Anniversary Oval Artifact",
 			group = 0
 		}
 	},
@@ -73351,7 +73891,7 @@ tbl = {
 		{
 			id = 420748,
 			prob = 70,
-			name = "Schmidt's physical Scarf",
+			name = "Schmidt's Physical Scarf",
 			group = 6
 		},
 		{
@@ -73611,7 +74151,7 @@ tbl = {
 		{
 			id = 420748,
 			prob = 70,
-			name = "Schmidt's physical Scarf",
+			name = "Schmidt's Physical Scarf",
 			group = 6
 		},
 		{
@@ -74019,6 +74559,708 @@ tbl = {
 			group = 0
 		}
 	},
+	[107359] = {
+		{
+			id = 107371,
+			prob = 0,
+			name = "[Event] Anniversary Oval Artifact 100",
+			group = 0
+		}
+	},
+	[107360] = {
+		{
+			id = 6635,
+			prob = 0,
+			name = "Blacksmith Blessing 200",
+			group = 0
+		}
+	},
+	[107361] = {
+		{
+			id = 6635,
+			prob = 0,
+			name = "Blacksmith Blessing 100",
+			group = 0
+		}
+	},
+	[107362] = {
+		{
+			id = 480069,
+			prob = 0,
+			name = "[Costume] Fluttering Archangel Wings",
+			group = 0
+		}
+	},
+	[107363] = {
+		{
+			id = 6635,
+			prob = 0,
+			name = "Blacksmith Blessing 5",
+			group = 0
+		}
+	},
+	[107364] = {
+		{
+			id = 6635,
+			prob = 0,
+			name = "Blacksmith Blessing 2",
+			group = 0
+		}
+	},
+	[107365] = {
+		{
+			id = 23436,
+			prob = 0,
+			name = "Shadow Refine Hammer 3",
+			group = 0
+		}
+	},
+	[107366] = {
+		{
+			id = 22979,
+			prob = 0,
+			name = "[Event] Manual & Gum 2",
+			group = 0
+		}
+	},
+	[107367] = {
+		{
+			id = 23898,
+			prob = 0,
+			name = "[Event] Unlimited Potion 3",
+			group = 0
+		}
+	},
+	[107368] = {
+		{
+			id = 25464,
+			prob = 0,
+			name = "Passport 10",
+			group = 0
+		}
+	},
+	[107370] = {
+		{
+			id = 1000274,
+			prob = 0,
+			name = "Kachua Coupon",
+			group = 0
+		},
+		{
+			id = 25464,
+			prob = 1409,
+			name = "Passport 5",
+			group = 6
+		},
+		{
+			id = 101471,
+			prob = 1408,
+			name = "Alchemist Selection Box 2",
+			group = 6
+		},
+		{
+			id = 107334,
+			prob = 1408,
+			name = "Coin Holder 2",
+			group = 6
+		},
+		{
+			id = 25041,
+			prob = 1408,
+			name = "Pump of Spirit 2",
+			group = 6
+		},
+		{
+			id = 107375,
+			prob = 1408,
+			name = "Talent Potion Box",
+			group = 6
+		},
+		{
+			id = 22979,
+			prob = 950,
+			name = "[Event] Manual & Gum",
+			group = 6
+		},
+		{
+			id = 23012,
+			prob = 950,
+			name = "[Event] Small Mana Potion 2",
+			group = 6
+		},
+		{
+			id = 12515,
+			prob = 950,
+			name = "[Event] Medium Life Potion 2",
+			group = 6
+		},
+		{
+			id = 102803,
+			prob = 950,
+			name = "Force Booster 2",
+			group = 6
+		},
+		{
+			id = 6833,
+			prob = 950,
+			name = "[Limited] Token of Siegfried 3",
+			group = 6
+		},
+		{
+			id = 6635,
+			prob = 600,
+			name = "Blacksmith Blessing",
+			group = 6
+		},
+		{
+			id = 23720,
+			prob = 600,
+			name = "Shadow Enhancement Box 3",
+			group = 6
+		},
+		{
+			id = 23334,
+			prob = 600,
+			name = "Mix Box 3",
+			group = 6
+		},
+		{
+			id = 107335,
+			prob = 600,
+			name = "Shadow Combiner Box 2",
+			group = 6
+		},
+		{
+			id = 101048,
+			prob = 600,
+			name = "Shadow Hammer Box",
+			group = 6
+		},
+		{
+			id = 23115,
+			prob = 550,
+			name = "Class Shadow Cube",
+			group = 6
+		},
+		{
+			id = 100198,
+			prob = 400,
+			name = "Skill Shadow Cube",
+			group = 6
+		},
+		{
+			id = 22893,
+			prob = 400,
+			name = "New Shadow Cube",
+			group = 6
+		},
+		{
+			id = 23663,
+			prob = 400,
+			name = "Shadow Material Cube 3",
+			group = 6
+		},
+		{
+			id = 23335,
+			prob = 400,
+			name = "Shadow Materials Cube",
+			group = 6
+		},
+		{
+			id = 100690,
+			prob = 400,
+			name = "Material Shadow Cube 2",
+			group = 6
+		},
+		{
+			id = 103316,
+			prob = 300,
+			name = "Talent Shadow Cube",
+			group = 6
+		},
+		{
+			id = 101180,
+			prob = 300,
+			name = "Talent Notebook",
+			group = 6
+		},
+		{
+			id = 101564,
+			prob = 300,
+			name = "Attribute Notebook",
+			group = 6
+		},
+		{
+			id = 410232,
+			prob = 200,
+			name = "Seal of Loki",
+			group = 6
+		},
+		{
+			id = 102735,
+			prob = 200,
+			name = "Selectable Loki Box",
+			group = 6
+		},
+		{
+			id = 400011,
+			prob = 200,
+			name = "Officer's Hat [1]",
+			group = 6
+		},
+		{
+			id = 100708,
+			prob = 200,
+			name = "Skill Shadow Spellbook Box",
+			group = 6
+		},
+		{
+			id = 107225,
+			prob = 200,
+			name = "Primordial Ring Box",
+			group = 6
+		},
+		{
+			id = 100547,
+			prob = 200,
+			name = "Spoils Box",
+			group = 6
+		},
+		{
+			id = 100752,
+			prob = 80,
+			name = "Special Refine Cube",
+			group = 6
+		},
+		{
+			id = 480306,
+			prob = 80,
+			name = "Replicating Mantle [1]",
+			group = 6
+		},
+		{
+			id = 420269,
+			prob = 70,
+			name = "Seal of Clubs",
+			group = 6
+		},
+		{
+			id = 420210,
+			prob = 70,
+			name = "Seal of Hearts",
+			group = 6
+		},
+		{
+			id = 420213,
+			prob = 70,
+			name = "Seal of Spades",
+			group = 6
+		},
+		{
+			id = 420220,
+			prob = 70,
+			name = "Seal of Diamonds",
+			group = 6
+		},
+		{
+			id = 102734,
+			prob = 70,
+			name = "Selectable Coin Box",
+			group = 6
+		},
+		{
+			id = 100742,
+			prob = 20,
+			name = "Primordial Weapon Box",
+			group = 6
+		},
+		{
+			id = 100750,
+			prob = 10,
+			name = "High Refine Envelope",
+			group = 6
+		},
+		{
+			id = 7925,
+			prob = 9,
+			name = "Powerful Dimensional Essence",
+			group = 6
+		},
+		{
+			id = 480136,
+			prob = 5,
+			name = "Magic Sword of Thanatos [1]",
+			group = 6
+		},
+		{
+			id = 490482,
+			prob = 5,
+			name = "Celine's Pendant [1]",
+			group = 6
+		}
+	},
+	[107371] = {
+		{
+			id = 1000274,
+			prob = 0,
+			name = "Kachua Coupon",
+			group = 0
+		},
+		{
+			id = 25464,
+			prob = 1409,
+			name = "Passport 5",
+			group = 6
+		},
+		{
+			id = 101471,
+			prob = 1408,
+			name = "Alchemist Selection Box 2",
+			group = 6
+		},
+		{
+			id = 107334,
+			prob = 1408,
+			name = "Coin Holder 2",
+			group = 6
+		},
+		{
+			id = 25041,
+			prob = 1408,
+			name = "Pump of Spirit 2",
+			group = 6
+		},
+		{
+			id = 107375,
+			prob = 1408,
+			name = "Talent Potion Box",
+			group = 6
+		},
+		{
+			id = 22979,
+			prob = 950,
+			name = "[Event] Manual & Gum",
+			group = 6
+		},
+		{
+			id = 23012,
+			prob = 950,
+			name = "[Event] Small Mana Potion 2",
+			group = 6
+		},
+		{
+			id = 12515,
+			prob = 950,
+			name = "[Event] Medium Life Potion 2",
+			group = 6
+		},
+		{
+			id = 102803,
+			prob = 950,
+			name = "Force Booster 2",
+			group = 6
+		},
+		{
+			id = 6833,
+			prob = 950,
+			name = "[Limited] Token of Siegfried 3",
+			group = 6
+		},
+		{
+			id = 6635,
+			prob = 600,
+			name = "Blacksmith Blessing",
+			group = 6
+		},
+		{
+			id = 23720,
+			prob = 600,
+			name = "Shadow Enhancement Box 3",
+			group = 6
+		},
+		{
+			id = 23334,
+			prob = 600,
+			name = "Mix Box 3",
+			group = 6
+		},
+		{
+			id = 107335,
+			prob = 600,
+			name = "Shadow Combiner Box 2",
+			group = 6
+		},
+		{
+			id = 101048,
+			prob = 600,
+			name = "Shadow Hammer Box",
+			group = 6
+		},
+		{
+			id = 23115,
+			prob = 550,
+			name = "Class Shadow Cube",
+			group = 6
+		},
+		{
+			id = 100198,
+			prob = 400,
+			name = "Skill Shadow Cube",
+			group = 6
+		},
+		{
+			id = 22893,
+			prob = 400,
+			name = "New Shadow Cube",
+			group = 6
+		},
+		{
+			id = 23663,
+			prob = 400,
+			name = "Shadow Material Cube 3",
+			group = 6
+		},
+		{
+			id = 23335,
+			prob = 400,
+			name = "Shadow Materials Cube",
+			group = 6
+		},
+		{
+			id = 100690,
+			prob = 400,
+			name = "Material Shadow Cube 2",
+			group = 6
+		},
+		{
+			id = 103316,
+			prob = 300,
+			name = "Talent Shadow Cube",
+			group = 6
+		},
+		{
+			id = 101180,
+			prob = 300,
+			name = "Talent Notebook",
+			group = 6
+		},
+		{
+			id = 101564,
+			prob = 300,
+			name = "Attribute Notebook",
+			group = 6
+		},
+		{
+			id = 410232,
+			prob = 200,
+			name = "Seal of Loki",
+			group = 6
+		},
+		{
+			id = 102735,
+			prob = 200,
+			name = "Selectable Loki Box",
+			group = 6
+		},
+		{
+			id = 400011,
+			prob = 200,
+			name = "Officer's Hat [1]",
+			group = 6
+		},
+		{
+			id = 100708,
+			prob = 200,
+			name = "Skill Shadow Spellbook Box",
+			group = 6
+		},
+		{
+			id = 107225,
+			prob = 200,
+			name = "Primordial Ring Box",
+			group = 6
+		},
+		{
+			id = 100547,
+			prob = 200,
+			name = "Spoils Box",
+			group = 6
+		},
+		{
+			id = 100752,
+			prob = 80,
+			name = "Special Refine Cube",
+			group = 6
+		},
+		{
+			id = 480306,
+			prob = 80,
+			name = "Replicating Mantle [1]",
+			group = 6
+		},
+		{
+			id = 420269,
+			prob = 70,
+			name = "Seal of Clubs",
+			group = 6
+		},
+		{
+			id = 420210,
+			prob = 70,
+			name = "Seal of Hearts",
+			group = 6
+		},
+		{
+			id = 420213,
+			prob = 70,
+			name = "Seal of Spades",
+			group = 6
+		},
+		{
+			id = 420220,
+			prob = 70,
+			name = "Seal of Diamonds",
+			group = 6
+		},
+		{
+			id = 102734,
+			prob = 70,
+			name = "Selectable Coin Box",
+			group = 6
+		},
+		{
+			id = 100742,
+			prob = 20,
+			name = "Primordial Weapon Box",
+			group = 6
+		},
+		{
+			id = 100750,
+			prob = 10,
+			name = "High Refine Envelope",
+			group = 6
+		},
+		{
+			id = 7925,
+			prob = 9,
+			name = "Powerful Dimensional Essence",
+			group = 6
+		},
+		{
+			id = 480136,
+			prob = 5,
+			name = "Magic Sword of Thanatos [1]",
+			group = 6
+		},
+		{
+			id = 490482,
+			prob = 5,
+			name = "Celine's Pendant [1]",
+			group = 6
+		}
+	},
+	[107372] = {
+		{
+			id = 107371,
+			prob = 0,
+			name = "[Event] Anniversary Oval Artifact",
+			group = 0
+		}
+	},
+	[107375] = {
+		{
+			id = 100452,
+			prob = 1,
+			name = "POW Reduction Potion",
+			group = 6
+		},
+		{
+			id = 100453,
+			prob = 1,
+			name = "SPL Reduction Potion",
+			group = 6
+		},
+		{
+			id = 100454,
+			prob = 1,
+			name = "STA Reduction Potion",
+			group = 6
+		},
+		{
+			id = 100455,
+			prob = 1,
+			name = "WIS Reduction Potion",
+			group = 6
+		},
+		{
+			id = 100456,
+			prob = 1,
+			name = "CON Reduction Potion",
+			group = 6
+		},
+		{
+			id = 100457,
+			prob = 1,
+			name = "CRT Reduction Potion",
+			group = 6
+		}
+	},
+	[107376] = {
+		{
+			id = 107371,
+			prob = 0,
+			name = "[Event] Anniversary Oval Artifact 11",
+			group = 0
+		}
+	},
+	[107377] = {
+		{
+			id = 107371,
+			prob = 0,
+			name = "[Event] Anniversary Oval Artifact 40",
+			group = 0
+		}
+	},
+	[107378] = {
+		{
+			id = 107371,
+			prob = 0,
+			name = "[Event] Anniversary Oval Artifact 85",
+			group = 0
+		}
+	},
+	[107445] = {
+		{
+			id = 200585,
+			prob = 10,
+			name = "Premium Special Package",
+			group = 0
+		},
+		{
+			id = 12497,
+			prob = 10,
+			name = "[Limited] Chewing Gum 20",
+			group = 0
+		},
+		{
+			id = 12208,
+			prob = 10,
+			name = "Battle Manual 20",
+			group = 0
+		},
+		{
+			id = 100680,
+			prob = 10,
+			name = "[Event]Advanced Field Manual 10",
+			group = 0
+		},
+		{
+			id = 480393,
+			prob = 10,
+			name = "Glow of the waning moon",
+			group = 0
+		}
+	},
 	[200001] = {
 		{
 			id = 25793,
@@ -74180,6 +75422,250 @@ tbl = {
 			id = 103307,
 			prob = 10,
 			name = "Character Slot Expansion Card",
+			group = 0
+		}
+	},
+	[200485] = {
+		{
+			id = 14534,
+			prob = 10,
+			name = "Small Life Potion 200",
+			group = 0
+		},
+		{
+			id = 14535,
+			prob = 10,
+			name = "Medium Life Potion 200",
+			group = 0
+		},
+		{
+			id = 12832,
+			prob = 10,
+			name = "Mysterious Water 200",
+			group = 0
+		},
+		{
+			id = 6635,
+			prob = 10,
+			name = "Blacksmith Blessing 2",
+			group = 0
+		},
+		{
+			id = 103272,
+			prob = 10,
+			name = "[Event] Celestial Elixir 11",
+			group = 0
+		},
+		{
+			id = 103273,
+			prob = 10,
+			name = "[Event] Force Booster[ 11",
+			group = 0
+		},
+		{
+			id = 107372,
+			prob = 10,
+			name = "Oval Artifact Pouch 25 11",
+			group = 0
+		}
+	},
+	[200486] = {
+		{
+			id = 14534,
+			prob = 1,
+			name = "Small Life Potion 200",
+			group = 0
+		},
+		{
+			id = 14535,
+			prob = 1,
+			name = "Medium Life Potion 200",
+			group = 0
+		},
+		{
+			id = 12832,
+			prob = 1,
+			name = "Mysterious Water 200",
+			group = 0
+		},
+		{
+			id = 107372,
+			prob = 1,
+			name = "Oval Artifact Pouch 25 22",
+			group = 0
+		},
+		{
+			id = 6635,
+			prob = 1,
+			name = "Blacksmith Blessing 4",
+			group = 0
+		},
+		{
+			id = 23475,
+			prob = 1,
+			name = "Infinite Potion 33",
+			group = 0
+		},
+		{
+			id = 12883,
+			prob = 1,
+			name = "Almighty 33",
+			group = 0
+		},
+		{
+			id = 103272,
+			prob = 1,
+			name = "[Event] Celestial Elixir 22",
+			group = 0
+		},
+		{
+			id = 103273,
+			prob = 1,
+			name = "[Event] Force Booster[ 22",
+			group = 0
+		},
+		{
+			id = 14766,
+			prob = 1,
+			name = "Unlimited Potion 34",
+			group = 0
+		}
+	},
+	[200487] = {
+		{
+			id = 14534,
+			prob = 10,
+			name = "Small Life Potion 200",
+			group = 0
+		},
+		{
+			id = 14535,
+			prob = 10,
+			name = "Medium Life Potion 200",
+			group = 0
+		},
+		{
+			id = 12832,
+			prob = 10,
+			name = "Mysterious Water 200",
+			group = 0
+		},
+		{
+			id = 107372,
+			prob = 10,
+			name = "Oval Artifact Pouch 25 33",
+			group = 0
+		},
+		{
+			id = 6635,
+			prob = 10,
+			name = "Blacksmith Blessing 6",
+			group = 0
+		},
+		{
+			id = 23475,
+			prob = 10,
+			name = "Infinite Potion 33",
+			group = 0
+		},
+		{
+			id = 12883,
+			prob = 10,
+			name = "Almighty 33",
+			group = 0
+		},
+		{
+			id = 14766,
+			prob = 10,
+			name = "Unlimited Potion 34",
+			group = 0
+		},
+		{
+			id = 23203,
+			prob = 10,
+			name = "Small Mana Potion 50",
+			group = 0
+		},
+		{
+			id = 103272,
+			prob = 10,
+			name = "[Event] Celestial Elixir 33",
+			group = 0
+		},
+		{
+			id = 103273,
+			prob = 10,
+			name = "[Event] Force Booster[ 33",
+			group = 0
+		},
+		{
+			id = 23204,
+			prob = 10,
+			name = "Scriptures 300",
+			group = 0
+		}
+	},
+	[200489] = {
+		{
+			id = 23475,
+			prob = 10,
+			name = "Infinite Potion 25",
+			group = 0
+		},
+		{
+			id = 14766,
+			prob = 10,
+			name = "Unlimited Potion 25",
+			group = 0
+		},
+		{
+			id = 12883,
+			prob = 10,
+			name = "Almighty 25",
+			group = 0
+		},
+		{
+			id = 102803,
+			prob = 10,
+			name = "Force Booster 25",
+			group = 0
+		},
+		{
+			id = 107372,
+			prob = 10,
+			name = "Oval Artifact Pouch 25 11",
+			group = 0
+		}
+	},
+	[200490] = {
+		{
+			id = 14535,
+			prob = 10,
+			name = "Medium Life Potion 100",
+			group = 0
+		},
+		{
+			id = 12832,
+			prob = 10,
+			name = "Mysterious Water 100",
+			group = 0
+		},
+		{
+			id = 102985,
+			prob = 10,
+			name = "Celestial Elixir 50",
+			group = 0
+		},
+		{
+			id = 14534,
+			prob = 10,
+			name = "Small Life Potion 100",
+			group = 0
+		},
+		{
+			id = 107372,
+			prob = 10,
+			name = "Oval Artifact Pouch 25 11",
 			group = 0
 		}
 	},
@@ -75659,7 +77145,7 @@ tbl = {
 		{
 			id = 102803,
 			prob = 10,
-			name = "Unknown Item 100",
+			name = "Force Booster 100",
 			group = 0
 		},
 		{
@@ -75816,6 +77302,46 @@ tbl = {
 			id = 106361,
 			prob = 0,
 			name = "[Event] Carnival Oval Artifact 12",
+			group = 0
+		}
+	},
+	[200941] = {
+		{
+			id = 6909,
+			prob = 0,
+			name = "Nyangvine 100",
+			group = 0
+		},
+		{
+			id = 7000,
+			prob = 0,
+			name = "Costume Mileage Coin 12",
+			group = 0
+		},
+		{
+			id = 107371,
+			prob = 0,
+			name = "[Event] Anniversary Oval Artifact 6",
+			group = 0
+		}
+	},
+	[200942] = {
+		{
+			id = 6909,
+			prob = 0,
+			name = "Nyangvine 200",
+			group = 0
+		},
+		{
+			id = 7000,
+			prob = 0,
+			name = "Costume Mileage Coin 25",
+			group = 0
+		},
+		{
+			id = 107371,
+			prob = 0,
+			name = "[Event] Anniversary Oval Artifact 12",
 			group = 0
 		}
 	}

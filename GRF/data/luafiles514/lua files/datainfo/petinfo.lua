@@ -133,7 +133,8 @@ PetNameTable = {
 	[jobtbl.JT_EP17_2_CHILD_ADMIN1] = "child_admin_b",
 	[jobtbl.JT_EP17_2_CHILD_ADMIN2] = "child_admin_a",
 	[jobtbl.JT_BLUEMOON_LOLI_RURI2] = "BLUEMOON_LOLI_RURI2",
-	[jobtbl.JT_CWHITEKNIGHT] = "CWHITEKNIGHT"
+	[jobtbl.JT_CWHITEKNIGHT] = "CWHITEKNIGHT",
+	[jobtbl.JT_KNIGHT_OF_ABYSS2] = "KNIGHT_OF_ABYSS2"
 }
 PetIllustNameTable = {
 	[jobtbl.JT_BAPHOMET_] = "펫_바포메트.bmp",
@@ -274,7 +275,8 @@ PetIllustNameTable = {
 	[jobtbl.JT_EP17_2_CHILD_ADMIN1] = "child_admin_b.bmp",
 	[jobtbl.JT_EP17_2_CHILD_ADMIN2] = "child_admin_a.bmp",
 	[jobtbl.JT_BLUEMOON_LOLI_RURI2] = "pet_blue_moon_loli_ruri.bmp",
-	[jobtbl.JT_CWHITEKNIGHT] = "pet_c_white_knight.bmp"
+	[jobtbl.JT_CWHITEKNIGHT] = "pet_c_white_knight.bmp",
+	[jobtbl.JT_KNIGHT_OF_ABYSS2] = "KNIGHT_OF_ABYSS2"
 }
 PetIllustNameTable_Eng = {
 	[jobtbl.JT_BAPHOMET_] = "PET_BAPHOMET.bmp",
@@ -414,7 +416,8 @@ PetIllustNameTable_Eng = {
 	[jobtbl.JT_EP17_2_CHILD_ADMIN1] = "child_admin_b.bmp",
 	[jobtbl.JT_EP17_2_CHILD_ADMIN2] = "child_admin_a.bmp",
 	[jobtbl.JT_BLUEMOON_LOLI_RURI2] = "pet_blue_moon_loli_ruri.bmp",
-	[jobtbl.JT_CWHITEKNIGHT] = "pet_c_white_knight.bmp"
+	[jobtbl.JT_CWHITEKNIGHT] = "pet_c_white_knight.bmp",
+	[jobtbl.JT_KNIGHT_OF_ABYSS2] = "pet_knight_of_abyss.bmp"
 }
 PetAccIDs = {
 	ACC_FIRST = 10000,
@@ -696,7 +699,8 @@ PetStringTable = {
 	[jobtbl.JT_EP17_2_CHILD_ADMIN1] = "꼬마 관리자β",
 	[jobtbl.JT_EP17_2_CHILD_ADMIN2] = "꼬마 관리자α",
 	[jobtbl.JT_BLUEMOON_LOLI_RURI2] = "블루 문 로리루리",
-	[jobtbl.JT_CWHITEKNIGHT] = "변이하는 백색의 기사"
+	[jobtbl.JT_CWHITEKNIGHT] = "변이하는 백색의 기사",
+	[jobtbl.JT_KNIGHT_OF_ABYSS2] = "심연의 기사"
 }
 PetEggItemID_PetJobID = {
 	[9001] = jobtbl.JT_PORING,
@@ -835,7 +839,8 @@ PetEggItemID_PetJobID = {
 	[9193] = jobtbl.JT_MISTRESS3,
 	[9171] = jobtbl.JT_TIMEHOLDER3,
 	[9123] = jobtbl.JT_EP17_2_CHILD_ADMIN1,
-	[9124] = jobtbl.JT_EP17_2_CHILD_ADMIN2
+	[9124] = jobtbl.JT_EP17_2_CHILD_ADMIN2,
+	[9132] = jobtbl.JT_KNIGHT_OF_ABYSS2
 }
 PetFoodTable = {
 	[jobtbl.JT_PORING] = 531,
@@ -976,5 +981,6 @@ PetFoodTable = {
 	[jobtbl.JT_EP17_2_CHILD_ADMIN1] = 1000227,
 	[jobtbl.JT_EP17_2_CHILD_ADMIN2] = 537,
 	[jobtbl.JT_BLUEMOON_LOLI_RURI2] = 537,
-	[jobtbl.JT_CWHITEKNIGHT] = 537
+	[jobtbl.JT_CWHITEKNIGHT] = 537,
+	[jobtbl.JT_KNIGHT_OF_ABYSS2] = 537
 }

@@ -279,12 +279,13 @@ function GetSkillScale(in_SKID, in_Level)
 	return x, y
 end
 JobSkillTab = {}
-function JobSkillTab.ChangeSkillTabName(in_job, in_1sttab, in_2ndtab, in_3rdtab)
+function JobSkillTab.ChangeSkillTabName(in_job, in_1sttab, in_2ndtab, in_3rdtab, in_4thtab)
 	local tbl = {
 		job = in_job,
 		TabName1st = in_1sttab,
 		TabName2nd = in_2ndtab,
-		TabName3rd = in_3rdtab
+		TabName3rd = in_3rdtab,
+		TabName4th = in_4thtab
 	}
 	JobSkillTab[#JobSkillTab + 1] = tbl
 end
@@ -295,7 +296,45 @@ function JobSkillTab_GetTabName(in_job)
 	local size = #JobSkillTab
 	for seq = 1, size do
 		if in_job == JobSkillTab[seq].job then
-			return JobSkillTab[seq].TabName1st, JobSkillTab[seq].TabName2nd, JobSkillTab[seq].TabName3rd
+			return JobSkillTab[seq].TabName1st, JobSkillTab[seq].TabName2nd, JobSkillTab[seq].TabName3rd, JobSkillTab[seq].TabName4th
 		end
 	end
+end
+function IsSkillUsesAp(SkillID)
+	local skillInfo = SKILL_INFO_LIST[SkillID]
+	local rst
+	if skillInfo ~= nil then
+		local apAmount = skillInfo.ApAmount
+		if apAmount ~= nil then
+			return true
+		end
+	end
+	return false
+end
+function GetLevelUseApAmount(SkillID, idx)
+	local obj = SKILL_INFO_LIST[SkillID]
+	if obj ~= nil then
+		obj = SKILL_INFO_LIST[SkillID].ApAmount
+	end
+	if obj ~= nil then
+		obj = SKILL_INFO_LIST[SkillID].ApAmount[idx]
+	end
+	if obj ~= nil then
+		return obj
+	end
+	return 0
+end
+function GetSkillMaxLv(SKID)
+	local skillInfo = SKILL_INFO_LIST[SKID]
+	if skillInfo ~= nil then
+		return skillInfo.MaxLv
+	end
+	return 0
+end
+function IsPassiveSkill(SKID)
+	local skillInfo = SKILL_INFO_LIST[SKID]
+	if nil ~= skillInfo and nil ~= skillInfo.IsPassive then
+		return skillInfo.IsPassive
+	end
+	return false
 end
