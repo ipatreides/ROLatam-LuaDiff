@@ -62,7 +62,7 @@
     "ard8DA": {
         "ko": "[엘마]\n흥!!!\n좋아!!!\n알려주지 않는다면 무슨 수를 써서라도 찾아내고 말 테니까!!!!",
         "en": "[Elma]\nHmph!!!\nFine!!!\nIf you won't tell me, I'll find out by any means necessary!!!!",
-        "pt": "[Elma]\nHmph!!!\nTudo bem!!!\nSe não me contares, vou descobrir de qualquer jeito!!!!",
+        "pt": "[Elma]\nHmph!!!\nTudo bem!!!\nSe não me contar, vou descobrir de qualquer jeito!!!!",
         "es": "[Elma]\n¡Bah!\n¡¡¡Vale!!!\nSi no me lo dices, haré lo que sea necesario para averiguarlo!!!!"
     },
     "a7d8DA": {
@@ -80,8 +80,8 @@
     "bbd8DA": {
         "ko": "[엘마]\n오호라~~\n너도 ^00B7EE상급정령 소환^000000에 관심이 있나 보네~",
         "en": "[Elma]\nOooh~~\nSo you're also interested in ^00B7EEsummoning greater elementals^000000, huh?",
-        "pt": "[Elma]\nOhho~~\nParece que você também está interessado em ^00B7EEinvocar espíritos superiores^000000, né~",
-        "es": "[Elma]\nOh, vaya~~\nParece que tú también estás interesado en ^00B7EEinvocar espíritus superiores^000000, ¿no?"
+        "pt": "[Elma]\nHihihi.\nParece que você também está interessado em ^00B7EEinvocar espíritos superiores^000000, né?",
+        "es": "[Elma]\nOh, vaya.\nParece que tú también estás interesado en ^00B7EEinvocar espíritus superiores^000000, ¿no?"
     },
     "brd8DA": {
         "ko": "[엘마]\n키란님은 노력이나 정령 친화도 같은 말을 하지만 그런 걸로 불러낼 수 있는 거라면 <B>이 내가 못 할 리가 없잖아?</B>",
@@ -128,19 +128,19 @@
     "dbd8DA": {
         "ko": "[엘마]\n드디어!!!!\n<FONT SIZE = 14><B>봐버렸다고!!!!</B></FONT>\n<B>키란님이 나랑 말싸움을 한 뒤에 슬그머니 어떤 장소로 이동하는 걸!!!!!!</B>",
         "en": "[Elma]\nFinally!!!!\n<B>I saw it!!!!</B>\n<B>Kiran secretly leaving his office after arguing with me!!!!!!</B>",
-        "pt": "[Elma]\nFinalmente!!!!\n<FONT SIZE = 14><B>Eu vi!!!!</B></FONT>\n<B>O Kiran-nim, depois de discutir comigo, indo sorrateiramente para algum lugar!!!!!!</B>",
+        "pt": "[Elma]\nFinalmente!!!!\n<FONT SIZE = 14><B>Eu vi!!!!</B></FONT>\n<B>O senhor Kiran, depois de discutir comigo, indo sorrateiramente para algum lugar!!!!!!</B>",
         "es": "[Elma]\n¡¡¡Por fin!!!!\n<FONT SIZE = 14><B>¡¡¡Lo vi!!!!</B></FONT>\n<B>¡¡¡Cómo el señor Kiran, después de discutir conmigo, se escabullía a algún lugar!!!!!!</B>"
     },
     "drd8DA": {
         "ko": "엘마 : 딱 걸린 거지!!!!",
         "en": "Elma: Gotcha!",
-        "pt": "Elma: Fui te pegar!!!!",
+        "pt": "Elma: Te peguei!!!!",
         "es": "Elma: ¡Te pillé!"
     },
     "d7d8DA": {
         "ko": "[엘마]\n후후후후후후후!!!\n그 <FONT SIZE = 14><B>장소</B></FONT>가 무려!!!!",
-        "en": "[Elma]\nHee hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee he",
-        "pt": "[Elma]\nHuhuhuhuhuhuhuh!!!\nAquele <FONT SIZE = 14><B>lugar</B></FONT> é nada menos que!!!!",
+        "en": "[Elma]\nHee hee hee hee hee hee hee hee hee hee!",
+        "pt": "[Elma]\nHihihihihi!!!\nAquele <FONT SIZE = 14><B>lugar</B></FONT> é nada menos que...!",
         "es": "[Elma]\n¡Jajajajajaja!!!\n¡Ese <FONT SIZE = 14><B>lugar</B></FONT> es nada menos que!!!!"
     },
     "eLd8DA": {
@@ -151,27 +151,27 @@
     },
     "ebd8DA": {
         "ko": "[엘마]\n그 유명한 <FONT SIZE = 14><B>[대현자 바르문트]의 저택</B></FONT> 이었다고!!!!!!\n거기라면 ^00B7EE상급정령을 소환하는 마법서^000000라던가!!! 마도구라던가!!! 그런게 잔뜩 있겠지?!",
-        "en": "[Elma]\nIt was the famous <FONT SIZE = 14><B>[Great Sage Barmund's] mansion</B></FONT>!!!!!!\nIf it's that place, it's gotta be full of ^00B7EEmagic books that summon high-level elementals^000000!!! Or magical artifacts!!! Stuff like that?!",
-        "pt": "[Elma]\nEra a famosa <FONT SIZE = 14><B>[mansão do Grande Sábio Barumunt]</B></FONT>!!!!!!\nSe for lá, deve ter um monte de coisas como ^00B7EElivros de magia para invocar espíritos superiores^000000!!! Ou artefatos mágicos!!!",
-        "es": "[Elma]\n¡¡¡Era nada menos que la famosa <FONT SIZE = 14><B>mansión del Gran Sabio Barumunt</B></FONT>!!!!!!\nSi es ahí, ¡seguro que hay un montón de cosas como el ^00B7EElibro de magia para invocar espíritus superiores^000000 o artefactos mágicos!!!"
+        "en": "[Elma]\nIt was the famous <FONT SIZE = 14><B>[Great Sage Varmunt's] mansion</B></FONT>!!!!!!\nIf it's that place, it's gotta be full of ^00B7EEmagic books that summon high-level elementals^000000!!! Or magical artifacts!!! Stuff like that?!",
+        "pt": "[Elma]\nEra a famosa <FONT SIZE = 14><B>[mansão do Grande Sábio Varmunt]</B></FONT>!!!!!!\nSe for lá, deve ter um monte de coisas como ^00B7EElivros de magia para invocar espíritos superiores^000000!!! Ou artefatos mágicos!!!",
+        "es": "[Elma]\n¡¡¡Era nada menos que la famosa <FONT SIZE = 14><B>mansión del Gran Sabio Varmunt</B></FONT>!!!!!!\nSi es ahí, ¡seguro que hay un montón de cosas como el ^00B7EElibro de magia para invocar espíritus superiores^000000 o artefactos mágicos!!!"
     },
     "erd8DA": {
         "ko": "[엘마]\n아무래도 키란님이 바쁠 때를 틈타 키란님이 간 곳을 확인해 봐야겠어!!!\n일단 ^00B7EE바르문트 저택의 지하에 있다는 마력발전소^000000를 둘러보지 않을 수 없겠지?!",
-        "en": "[Elma]\nI'm going to check it out while Kiran is too busy to follow me!\nFirst, I want to look around the ^00B7EEMagic Power Plant in the basement of the Barmund Mansion!",
-        "pt": "[Elma]\nAcho que vou ter que aproveitar um momento em que o Kiran estiver ocupado pra conferir onde ele foi!!!\nPra começar, não dá pra deixar de dar uma olhada na ^00B7EEcentral de geração de magia^000000 que fica no porão da mansão de Barumunt, né?!",
-        "es": "[Elma]\n¡Tendré que aprovechar un momento en que Kiran esté ocupado para ver adónde se fue!!!\nPara empezar, ¡no puedo dejar de echarle un vistazo a la ^00B7EEcentral de energía mágica^000000 que dicen que está en el sótano de la mansión de Barumunt, ¿no?!"
+        "en": "[Elma]\nI'm going to check it out while Kiran is too busy to follow me!\nFirst, I want to look around the ^00B7EEMagic Power Plant in the basement of the Varmunt Mansion!",
+        "pt": "[Elma]\nAcho que vou ter que aproveitar um momento em que o Kiran estiver ocupado pra conferir onde ele foi!!!\nPra começar, não dá pra deixar de dar uma olhada na ^00B7EEUsina Mágica^000000 que fica no porão da mansão de Varmunt, né?!",
+        "es": "[Elma]\n¡Tendré que aprovechar un momento en que Kiran esté ocupado para ver adónde se fue!!!\nPara empezar, ¡no puedo dejar de echarle un vistazo a la ^00B7EEcentral de energía mágica^000000 que dicen que está en el sótano de la mansión de Varmunt, ¿no?!"
     },
     "e7d8DA": {
         "ko": "[엘마]\n<B>마력발전소</B>라니 이름만 들어서 마력이 흘러넘칠 것만 같은 기분이야!!!\n너도 이 내가 멋지게 상급정령을 소환하는 모습을 감상하고 싶다면 따라와도 좋다고!",
         "en": "[Elma]\n<B>Magic Power Plant</B>! Just the name itself sounds so magical!\nWant to watch me summon a greater elemental? Then, follow me!",
-        "pt": "[Elma]\n<B>Central de energia mágica</B>... só de ouvir o nome já dá a sensação de que a magia vai transbordar!!!\nSe você também quiser ver a gente invocando espíritos superiores com todo o estilo, pode vir junto!",
-        "es": "[Elma]\n¡Solo con oír el nombre de <B>«central de energía mágica»</B> ya siento como si la magia fuera a desbordarse!!!\nSi tú también quieres ver cómo invoco a un espíritu superior de manera espectacular, ¡puedes venir conmigo!"
+        "pt": "[Elma]\n<B>Usina Mágica</B>... só de ouvir o nome já dá a sensação de que a magia vai transbordar!!!\nSe você também quiser ver a gente invocando espíritos superiores com todo o estilo, pode vir junto!",
+        "es": "[Elma]\n¡Solo con oír el nombre de <B>«Central Mágica»</B> ya siento como si la magia fuera a desbordarse!!!\nSi tú también quieres ver cómo invoco a un espíritu superior de manera espectacular, ¡puedes venir conmigo!"
     },
     "fLd8DA": {
         "ko": "[엘마]\n<FONT SIZE = 10>아무래도 키란님이 바쁠 때를 틈타 키란님이 간 곳을 확인해 봐야겠어!!!</FONT>\n일단 ^00B7EE바르문트 저택의 지하에 있다는 마력발전소^000000를 둘러보지 않을 수 없겠지?!",
-        "en": "[Elma]\n<FONT SIZE = 10>I'm going to check it out while Kiran is too busy to follow me!</FONT>\nFirst, I want to look around the ^00B7EEMagic Power Plant^000000 in the basement of the Barumunt Mansion!",
-        "pt": "[Elma]\n<FONT SIZE = 10>Acho que vou ter que aproveitar um momento em que o Kiran estiver ocupado pra dar uma olhada onde ele foi!!!</FONT>\nPra começar, não dá pra deixar de dar uma olhada na ^00B7EECentral de Magia^000000 que fica no porão da Mansão Barumunt, né?!",
-        "es": "[Elma]\n<FONT SIZE = 10>¡Creo que tengo que aprovechar que Kiran está ocupado para ver adónde se fue!!!</FONT>\nPara empezar, ¡no puedo dejar de echar un vistazo a la ^00B7EEcentral de energía mágica^000000 que dicen que está en el sótano de la mansión Barment!"
+        "en": "[Elma]\n<FONT SIZE = 10>I'm going to check it out while Kiran is too busy to follow me!</FONT>\nFirst, I want to look around the ^00B7EEMagic Power Plant^000000 in the basement of the Varmunt Mansion!",
+        "pt": "[Elma]\n<FONT SIZE = 10>Acho que vou ter que aproveitar um momento em que o Kiran estiver ocupado pra dar uma olhada aonde ele foi!!!</FONT>\nPra começar, não dá pra deixar de dar uma olhada na ^00B7EEUsina Mágica^000000 que fica no porão da Mansão Varmunt, né?!",
+        "es": "[Elma]\n<FONT SIZE = 10>¡Creo que tengo que aprovechar que Kiran está ocupado para ver adónde se fue!!!</FONT>\nPara empezar, ¡no puedo dejar de echar un vistazo a la ^00B7EEcentral de energía mágica^000000 que dicen que está en el sótano de la mansión Varmunt!"
     },
     "fbd8DA": {
         "ko": "[엘마]\n<FONT SIZE = 14><B>뭐야!!!</B></FONT>\n어떻게 한 거야!!!\n<FONT SIZE = 10>나도 전직하고 싶단 말야!!!</FONT>",
@@ -182,8 +182,8 @@
     "frd8DA": {
         "ko": "[엘마]\n뭐야.\n더 강해지고 싶다면 전승은 하는게 좋지 않아?\n<NAVI>[프론테라 동사무소]<INFO>prt_in,280,167,0,101,0</INFO></NAVI>에 가봐.\n도움을 받을 수 있을지도 모르니까.",
         "en": "[Elma]\nWhat the...?\nIf you want to get stronger, shouldn't you Transcend first?\nGo to the <NAVI>[Prontera Town Office]<INFO>prt_in,280,167,0,101,0</INFO></NAVI>.\nYou might be able to get some help there.",
-        "pt": "[Elma]\nO que é isso.\nSe você quer ficar mais forte, não é melhor fazer a transmissão de habilidades?\n<NAVI>[Prefeitura de Frontera]<INFO>prt_in,280,167,0,101,0</INFO></NAVI>.\nTalvez você consiga ajuda lá.",
-        "es": "[Elma]\n¿Qué pasa?\nSi quieres ser más fuerte, ¿no sería mejor que te especializaras?\nVe a <NAVI>[Oficina Municipal de Frontera]<INFO>prt_in,280,167,0,101,0</INFO></NAVI>.\nQuizás allí te puedan ayudar."
+        "pt": "[Elma]\nO que é isso?\nSe você quer ficar mais forte, não é melhor fazer a transição de habilidades?\n<NAVI>[Prefeitura de Prontera]<INFO>prt_in,280,167,0,101,0</INFO></NAVI>.\nTalvez você consiga ajuda lá.",
+        "es": "[Elma]\n¿Qué pasa?\nSi quieres ser más fuerte, ¿no sería mejor que te especializaras?\nVe a <NAVI>[Oficina Municipal de Prontera]<INFO>prt_in,280,167,0,101,0</INFO></NAVI>.\nQuizás allí te puedan ayudar."
     },
     "f7d8DA": {
         "ko": "[엘마]\n뭐야.\n바쁘니까 말 걸지마!",
@@ -200,8 +200,8 @@
     "gbd8DA": {
         "ko": "[키란]\n하아……\n며칠째 이 곳을 찾아와 <B>상급정령을 소환하는 방법</B>을 내 놓으라며 소리를 질러대는데다가 돌아가지도 않고 절 <B>감시</B>까지 하고 있어서 방해가 이만 저만이 아닙니다.",
         "en": "[Kiran]\nSigh...\nFor days now, she's been coming here to harass me about <B>how to summon greater elementals</B>, shouting at me to give her the method. Not only that, she won't leave and is even <B>spying</B> on me. She's been nothing but a nuisance.",
-        "pt": "[Kiran]\nAi...\nHá dias que vêm aqui gritando pra eu <B>revelar o método de invocar espíritos superiores</B>, e ainda por cima não vão embora e ficam me <B>vigilando</B>, o que é um verdadeiro incômodo.",
-        "es": "[Kiran]\nAy...\nLlevas varios días viniendo aquí a gritarme que te dé <B>la forma de invocar espíritus superiores</B>, y encima no te vas ni me <B>vigilas</B>, así que me estás molestando muchísimo."
+        "pt": "[Kiran]\nAi...\nHá dias que ela vem aqui gritando pra eu <B>revelar o método de invocar espíritos superiores</B>, e ainda por cima não vai embora e fica me <B>vigiando</B>, o que é um verdadeiro incômodo.",
+        "es": "[Kiran]\nAy...\nLlevas varios días viniendo aquí a gritarme que te dé <B>la forma de invocar espíritus superiores</B>,  y encima, no se va y se queda <B>vigilándome</B>, lo cual es una verdadera molestia."
     },
     "grd8DA": {
         "ko": "[키란]\n상급정령을 소환하는 건 개인의 노력이나 정령 친화도에 따라 달라지는 것이라 ‘방법’만 안다고해서 상급정령을 소환할 수 있는게 아닌데 말입니다.",
@@ -242,26 +242,26 @@
     "iLd8DA": {
         "ko": "[엘마]\n<FONT SIZE = 14><B>으악!!!</B></FONT>\n깜짝이야…",
         "en": "[Elma]\n<FONT SIZE = 14><B>Eek!!!</B></FONT>\nYou scared me…",
-        "pt": "[Elma]\n<FONT SIZE = 14><B>Eca!!!</B></FONT>\nQue susto...",
+        "pt": "[Elma]\n<FONT SIZE = 14><B>Eita!!!</B></FONT>\nQue susto...",
         "es": "[Elma]\n<FONT SIZE = 14><B>¡Ay!!!</B></FONT>\n¡Qué susto…!"
     },
     "ibd8DA": {
         "ko": "[엘마]\n<B>몬스터들 때문에 조사에 집중할 수가 없잖아!!!</B>\n이봐! 거기 멀뚱멀뚱 서있지 말고 내가 조사를 할동안 몬스터를 좀 처리해줘.",
         "en": "[Elma]\n<B>I can't focus on my investigation because of monsters!</B>\nHey! Stop just standing there and do something about these monsters while I investigate.",
-        "pt": "[Elma]\n<B>Não dá pra me concentrar na investigação por causa desses monstros!!!</B>\nEi! Não fique aí parado sem fazer nada; dá um jeito nesses monstros enquanto eu investigo.",
-        "es": "[Elma]\n<B>¡¡¡No puedo concentrarme en la investigación por culpa de los monstruos!!!</B>\n¡Oye! No te quedes ahí parado sin hacer nada; mientras yo investigo, ocúpate de los monstruos."
+        "pt": "[Elma]\n<B>Não dá pra me concentrar na investigação por causa desses monstros!!!</B>\nEi! Não fique aí sem fazer nada; dá um jeito nesses monstros enquanto eu investigo.",
+        "es": "[Elma]\n<B>¡¡¡No puedo concentrarme en la investigación por culpa de los monstruos!!!</B>\n¡Oye! No te quedes ahí sin hacer nada; mientras yo investigo, ocúpate de los monstruos."
     },
     "ird8DA": {
         "ko": "[엘마]\n이 곳의 마력의 특히 짙어서 그런지 ^00B7EE[마력중독 돌로르]^000000랑 ^00B7EE[풀려난 마력]^000000이 특히 귀찮게 엉겨붙는 것 같아.",
-        "en": "[Elma]\nIt's probably because of the overflowing mana in this place, but ^00B7EEMagic-poisoned Dolors^000000 and ^00B7EEUnleashed Magics^000000 are especially clinging to me annoyingly.",
-        "pt": "[Elma]\nTalvez por causa da magia particularmente forte neste lugar, parece que o ^00B7EE[Dolor, Viciado em Magia]^000000 e o ^00B7EE[Magia Liberada]^000000 estão grudando em mim de um jeito bem chato.",
-        "es": "[Elma]\nQuizá sea porque la magia de este lugar es especialmente densa, pero parece que ^00B7EE[Dolor por intoxicación mágica]^000000 y ^00B7EE[Magia desatada]^000000 se pegan a mí de forma especialmente molesta."
+        "en": "[Elma]\nIt's probably because of the overflowing mana in this place, but ^00B7EEMana Addicted Dolors^000000 and ^00B7EEUnleashed Plasmas^000000 are especially clinging to me annoyingly.",
+        "pt": "[Elma]\nTalvez por causa da magia particularmente forte neste lugar, parece que ^00B7EE[Dolor Viciada]^000000 e ^00B7EE[Magia Liberta]^000000 estão grudando em mim de um jeito bem chato.",
+        "es": "[Elma]\nQuizá sea porque la magia de este lugar es especialmente densa, pero parece que ^00B7EE[Dolor Adicta al Mana\n]^000000 y ^00B7EE[Magia Liberada]^000000 se pegan a mí de forma especialmente molesta."
     },
     "i7d8DA": {
         "ko": "[엘마]\n둘 다 10마리 정도씩만 처리해도 주변이 좀 깨끗해 지겠는걸?",
         "en": "[Elma]\nHunt about 10 of each, will you? That should keep this place clear for a while.",
-        "pt": "[Elma]\nSe a gente derretesse uns 10 de cada um, o lugar aqui já ficaria mais limpo, né?",
-        "es": "[Elma]\nSi acabas con unos 10 de cada uno, el lugar se va a quedar un poco más limpio, ¿no?"
+        "pt": "[Elma]\nSe a gente derretesse umas 10 de cada, o lugar aqui já ficaria mais limpo, né?",
+        "es": "[Elma]\nSi acabas con 10 de cada, el lugar se va a quedar un poco más limpio, ¿no?"
     },
     "jLd8DA": {
         "ko": "[엘마]\n흐음…\n<B>마력농도가 짙다</B>는 것 외엔 특별한게 없네…",
@@ -271,9 +271,9 @@
     },
     "jbd8DA": {
         "ko": "[엘마]\n역시 ^00B7EE바르문트의 지식이 그대로 남아있다^000000는 <FONT SIZE = 14><B>바르문트의 도서관</B></FONT>을 조사해보는게 좋겠어.",
-        "en": "[Elma]\nI'd better check <FONT SIZE = 14><B>Barmund's Library</B></FONT>, where it's rumored that ^00B7EEBarmund's knowledge^000000 remains intact.",
-        "pt": "[Elma]\nAcho melhor dar uma olhada na <FONT SIZE = 14><B>Biblioteca de Barumunt</B></FONT>, onde ^00B7EEo conhecimento de Barumunt permanece intacto^000000.",
-        "es": "[Elma]\nComo era de esperarse, ^00B7EEel conocimiento de Barment sigue intacto^000000, así que sería mejor investigar la <FONT SIZE = 14><B>Biblioteca de Barment</B></FONT>."
+        "en": "[Elma]\nI'd better check <FONT SIZE = 14><B>Varmunt's Library</B></FONT>, where it's rumored that ^00B7EEVarmunt's knowledge^000000 remains intact.",
+        "pt": "[Elma]\nAcho melhor dar uma olhada na <FONT SIZE = 14><B>Biblioteca de Varmunt</B></FONT>, onde ^00B7EEo conhecimento de Varmunt permanece intacto^000000.",
+        "es": "[Elma]\nComo era de esperarse, ^00B7EEel conocimiento de Varmunt sigue intacto^000000, así que sería mejor investigar la <FONT SIZE = 14><B>Biblioteca de Varmunt</B></FONT>."
     },
     "jrd8DA": {
         "ko": "[엘마]\n그 수많은 책들 중에 설마 내가 찾고 있는 책이 없겠어?",
@@ -296,7 +296,7 @@
     "kbd8DA": {
         "ko": "[엘마]\n으갸악!!!!!!\n<FONT SIZE = 14><B>또</B></FONT> 도망쳤잖아!!!!",
         "en": "[Elma]\nEeek!!!!!!\n<FONT SIZE = 14><B>Again</B></FONT>! It ran away again!!!!",
-        "pt": "[Elma]\nEca!!!!!!\n<FONT SIZE = 14><B>De novo</B></FONT> fugiu!!!!",
+        "pt": "[Elma]\nEita!!!!!!\n<FONT SIZE = 14><B>De novo</B></FONT> fugiu!!!!",
         "es": "[Elma]\n¡Ay, no!!!!!!\n<FONT SIZE = 14><B>Otra vez</B></FONT> se han escapado!!!!"
     },
     "krd8DA": {
@@ -308,8 +308,8 @@
     "k7d8DA": {
         "ko": "[엘마]\n앗!!!!\n그쪽으로 도망간다!!\n거기 ^00B7EE[배회하는 마법서]^000000 좀 잡아줘!!!",
         "en": "[Elma]\nAh!!!!\nIt's heading your way!!\nCatch that ^00B7EERoaming Spellook^000000 over there!!!",
-        "pt": "[Elma]\nAh!!!!\nEstá fugindo para aquele lado!!\nPega lá o ^00B7EE[Livro Mágico Errante]^000000!!!",
-        "es": "[Elma]\n¡Ay!\n¡Se escapa por ahí!\n¡Atrapa ese ^00B7EE[Libro mágico errante]^000000!"
+        "pt": "[Elma]\nAh!!!!\nEstá fugindo para aquele lado!!\nPega lá o ^00B7EE[Grimório Errante]^000000!!!",
+        "es": "[Elma]\n¡Ay!\n¡Se escapa por ahí!\n¡Atrapa ese ^00B7EE[Grimorio errante]^000000!"
     },
     "lLd8DA": {
         "ko": "[엘마]\n어디 보자……",
@@ -374,7 +374,7 @@
     "nrd8DA": {
         "ko": "마법서를 확인한다.",
         "en": "Check the magic book.",
-        "pt": "Ela dá uma olhada no livro de magia.",
+        "pt": "Olhar o livro de magia.",
         "es": "Revisa el libro de magia."
     },
     "n7d8DA": {
@@ -458,14 +458,14 @@
     "rLd8DA": {
         "ko": "[엘마]\n푸풉~\n설마 네가 <B>소환</B>한 거야?\n평범한 정령 소환서 답게 이런 쬐깐하고 평범한 녀석이 소환되는 구나~",
         "en": "[Elma]\nPoof!\nIs this what you've <B>summoned</B>?\nMakes sense. A lesser summoning book for a lesser elemental.",
-        "pt": "[Elma]\nHahaha~\nSerá que foste tu que <B>convocaste</B> isso?\nComo era de se esperar de um pergaminho de invocação comum, um criaturinha minúsculo e comum como esse foi invocado~",
-        "es": "[Elma]\nJaja~\n¿Acaso lo <B>convocaste</B> tú?\nComo era de esperarse de un pergamino de invocación común y corriente, resulta que invoca a un bichito tan chiquito y corriente como este~"
+        "pt": "[Elma]\nHahaha!\nSerá que foi você que <B>invocou</B> isso?\nComo era de se esperar de um pergaminho de invocação simplório: invocou um criaturinha minúscula e comum como essa!",
+        "es": "[Elma]\nJaja.\n¿Acaso lo <B>convocaste</B> tú?\nComo era de esperarse de un pergamino de invocación común y corriente, resulta que invoca a un bichito tan chiquito y corriente como este."
     },
     "rbd8DA": {
         "ko": "[???]\n너 이 내가 누군 줄 알고!!!!\n감히 위대한 바람의 ㅈ……",
         "en": "[???]\nDo you even know who I am!!!!\nHow dare you call the great wind elemental...",
-        "pt": "[???]\nVocê sabe quem eu sou!!!!\nComo ousa, o grande ㅈ do vento……",
-        "es": "[???]\n¡¿Sabes quién soy yo?!\n¿Cómo te atreves a... el gran..."
+        "pt": "[???]\nVocê sabe quem eu sou!!!!\nComo ousa chamar o grande elemental do vento……",
+        "es": "[???]\n¡¿Sabes quién soy yo?!\n¿Cómo te atreves a... el gran elemental del viento..."
     },
     "rrd8DA": {
         "ko": "[???]\n……아……",
@@ -518,8 +518,8 @@
     "trd8DA": {
         "ko": "- 어려워 보이는 책들 사이에 <상급 정령술 안내서>가 눈에 띈다. -",
         "en": "- Among the intimidating books, the <Advanced Elementalism Guide> catches my eye. -",
-        "pt": "- Entre os livros que parecem difíceis, o <Guia de Espiritismo Avançado> chama a atenção. -",
-        "es": "- Entre los libros que parecen difíciles, llama la atención el <Manual de Espiritismo Avanzado>. -"
+        "pt": "- Entre os livros que parecem difíceis, o <Guia de Elementalismo Avançado> chama a atenção. -",
+        "es": "- Entre los libros que parecen difíciles, llama la atención el <Manual de Elementalismo Avanzado>. -"
     },
     "t7d8DA": {
         "ko": "책을 꺼낸다.",

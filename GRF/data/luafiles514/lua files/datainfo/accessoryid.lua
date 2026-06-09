@@ -2825,5 +2825,9 @@ ACCESSORY_IDs = {
 	ACCESSORY_C_Water_Elem_Dragon = 2842,
 	ACCESSORY_Holy_Rosario_Silver = 2843,
 	ACCESSORY_C_Culture_Pod = 2844,
-	ACCESSORY_C_Tarou_Magical_Hat = 2845
+	ACCESSORY_C_Tarou_Magical_Hat = 2845,
+	ACCESSORY_C_Mask_of_Ifrit = 2846,
+	ACCESSORY_C_Fine_Chada = 2847,
+	ACCESSORY_C_Vibrant_Jeepney = 2848,
+	ACCESSORY_C_Swift_Bicycle = 2849
 }

@@ -8150,6 +8150,15 @@ mapTbl = {
 			subTitle = "Grade Enhancement Facility"
 		},
 		backgroundBmp = "village_s1"
+	},
+	["clb_kuma.rsw"] = {
+		displayName = "Kumamoto Experience Farm",
+		notifyEnter = true,
+		signName = {
+			subTitle = "Kumamon",
+			mainTitle = "Kumamoto Experience Farm"
+		},
+		backgroundBmp = "village"
 	}
 }
 function main()

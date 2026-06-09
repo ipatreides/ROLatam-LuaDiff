@@ -6415,7 +6415,7 @@ StateIconList_string = {
 	[EFST_IDs.EFST_SERVANTWEAPON] = {
 		descript = {
 			{
-				"Arma de Servidor"
+				"Espada Alada"
 			},
 			{"%s"},
 			{
@@ -6429,7 +6429,7 @@ StateIconList_string = {
 	[EFST_IDs.EFST_SERVANT_SIGN] = {
 		descript = {
 			{
-				"Marca de Arma de Servidor"
+				"Marca Alada"
 			},
 			{"%s"},
 			{
@@ -6693,7 +6693,7 @@ StateIconList_string = {
 	},
 	[EFST_IDs.EFST_HANDICAPSTATE_DEEPSILENCE] = {
 		descript = {
-			{"Silencio"},
+			{"Quietud"},
 			{"%s"},
 			{
 				"No se pueden usar habilidades"
@@ -6718,14 +6718,17 @@ StateIconList_string = {
 	[EFST_IDs.EFST_HANDICAPSTATE_FROSTBITE] = {
 		descript = {
 			{
-				"Enfriamiento Rápido"
+				"Ultracongelación"
 			},
 			{"%s"},
 			{
-				"Estado de agua"
+				"Armadura de prop. Agua"
 			},
 			{
-				"No se puede mover, usar objetos ni habilidades"
+				"No se puede mover,"
+			},
+			{
+				"usar objetos ni habilidades"
 			},
 			{
 				"Reduce DEF y DEFM"
@@ -6754,7 +6757,9 @@ StateIconList_string = {
 	},
 	[EFST_IDs.EFST_HANDICAPSTATE_LIGHTNINGSTRIKE] = {
 		descript = {
-			{"Tormento"},
+			{
+				"Electrificación"
+			},
 			{"%s"},
 			{
 				"Armadura de prop. Viento"
@@ -6801,7 +6806,7 @@ StateIconList_string = {
 	},
 	[EFST_IDs.EFST_HANDICAPSTATE_MISFORTUNE] = {
 		descript = {
-			{"Desgracia"},
+			{"Infortunio"},
 			{"%s"},
 			{
 				"Reduce PREC"
@@ -6814,7 +6819,7 @@ StateIconList_string = {
 	[EFST_IDs.EFST_HANDICAPSTATE_DEADLYPOISON] = {
 		descript = {
 			{
-				"Lectura intensiva"
+				"Intoxicación"
 			},
 			{"%s"},
 			{
@@ -8233,6 +8238,34 @@ StateIconList_string = {
 				"Daño Mágico +7%"
 			},
 			{"%s"}
+		}
+	},
+	[EFST_IDs.EFST_C_BUFF_16] = {
+		descript = {
+			{
+				"Buff Sabroso"
+			},
+			{"%s"},
+			{
+				"Aumenta el dano fisico y magico infligido a monstruos de tipo Normal."
+			},
+			{
+				"Aumenta el dano fisico y magico infligido a monstruos de tipo Jefe"
+			}
+		}
+	},
+	[EFST_IDs.EFST_C_BUFF_17] = {
+		descript = {
+			{
+				"Buff Fresco"
+			},
+			{"%s"},
+			{
+				"Aumenta el dano fisico y magico infligido a monstruos de todas las razas."
+			},
+			{
+				"(Excepto jugadores)"
+			}
 		}
 	},
 	[EFST_IDs.EFST_OVERSEA_BUFF_12] = {

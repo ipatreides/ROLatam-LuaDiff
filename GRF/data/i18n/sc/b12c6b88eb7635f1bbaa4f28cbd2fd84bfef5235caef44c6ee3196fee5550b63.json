@@ -3358,5 +3358,30 @@
         "en": "[Eden Logistics Manager]\nGoodbye.",
         "pt": "[Estoquista]\nAdeus.",
         "es": "[Admin. logíst. de Edén]\nAdiós."
+    },
+    "oGMQDA": {
+        "en": "^4D4DFFOrcs are glad that the troublesome matter has been resolved.^000000",
+        "pt": "^4D4DFFOs orcs estão felizes porque o assunto chato foi resolvido.^000000",
+        "es": "^4D4DFFLos orcos están contentos porque el asunto molesto se ha resuelto.^000000"
+    },
+    "oWMQDA": {
+        "en": "^4D4DFFThe goblins' inner closeness has increased.^000000",
+        "pt": "^4D4DFFA intimidade interna dos goblins aumentou.^000000",
+        "es": "^4D4DFFLa cercanía interna de los goblins ha aumentado.^000000"
+    },
+    "omMQDA": {
+        "en": "^FF4D4DffThe orcs' vigilance has increased.^000000",
+        "pt": "^FF4D4DA vigilância dos orcs aumentou.^000000",
+        "es": "^FF4D4DLa vigilancia de los orcos ha aumentado.^000000"
+    },
+    "o2MQDA": {
+        "en": "^4D4DFFThe goblins' vigilance has increased.^000000",
+        "pt": "^4D4DFFA vigilância dos goblins aumentou.^000000",
+        "es": "^4D4DFFLa vigilancia de los goblins ha aumentado.^000000"
+    },
+    "pGMQDA": {
+        "en": "^4D4DFFThe orcs' inner closeness has increased.^000000",
+        "pt": "^4D4DFFA intimidade interna dos orcs aumentou..^000000",
+        "es": "^4D4DFFLa cercanía interna de los orcos ha aumentado.^000000"
     }
 }

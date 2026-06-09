@@ -1,0 +1,217 @@
+{
+    "4OP8DA": {
+        "en": "ÆòÆÇ¸í·É¾îÅ×½ºÆ®",
+        "pt": "Teste de comando de reputação",
+        "es": "Prueba del comando de reputación"
+    },
+    "4eP8DA": {
+        "en": "0 ~ 9999 ±îÁö ÀÔ·Â °¡´ÉÇÕ´Ï´Ù.",
+        "pt": "Você pode inserir um valor de 0 a 9999.",
+        "es": "Puedes introducir un valor de 0 a 9999."
+    },
+    "4uP8DA": {
+        "en": "°¢ ÆòÆÇ ¼¼·ÂÀÇ ¾ÆÀÌµðÀÔ´Ï´Ù.\n¼³Á¤ ¹× È®ÀÎÇÏ°íÀÚ ÇÏ´Â ¼¼·ÂÀÇ ¼ýÀÚ¸¦ ÀÔ·ÂÇØ ÁÖ¼¼¿ä.\n¿ÀÅ©ºÎ¶ô: 1\n°íºí¸°ºÎ¶ô: 2\nÈ¸»ö´Á´ë¸¶À»: 3\n¾óÀ½¼º: 4\nÇÏ¾á °í¾çÀÌ µ¿¸Í: 5\n½ÉÃþ 1Ãþ ¿¬±¸: 6\n¿µ¿õµ¿¸Í(EP21): 7\nÃàÁ¦ÀÇ À½À¯½ÃÀÎ: 8\n½ÉÃþ ¾îºñ½º ¿¬±¸: 9\nÀÏ·ç½Ã¿Â ÆÐ½º: 10\nÇöÀÚÀÇ À¯»ê ÆÐ½º: 11\n±âµµÀÇ ¹æÇâ ÆÐ½º: 12\n°Ô¿Àº¸¸£±× »ç·ÉºÎ: 13\n°ËÀºº° ³×¸®¿ì½º: 14\n½£ÀÇ ÇöÀÚ ÇÏÀÌ³×: 15\n·Ú°ÕºÎ¸£±× ÇüÁ¦: 16\n¹ßÅÍ ÇÔ´ë: 17\nÀ§±×³Ê »ó´Ü: 18\n¸®ÇÏ¸£Æ® ¿ëº´´Ü: 19\nÈ²±Ý »Ñ¸®: 20\nÈ­¿° °¡Áö: 21",
+        "pt": "Este é o ID de cada facção de reputação.\nPor favor, insira o número da facção que deseja definir e verificar.\nOrc Buraco: 1\nToca de Goblins: 2\nAldeia do Lobo Cinzento: 3\nCastelo de Gelo: 4\nAliança do Gato Branco: 5\nPesquisa do Andar 1 do Abismo: 6\nAliança dos Heróis (EP21): 7\nBardo do Festival: 8\nPesquisa do Abismo Profundo: 9\nPasse Ilusão: 10\nPasse do Legado do Sábio: 11\nPasse da Direção da Oração: 12\nComando de Geoborg: 13\nNerius, la Estrella Negra: 14\nHeine, o Sábio da Floresta: 15\nIrmãos de Rogenburg: 16\nFrota Walter: 17\nCompanhia Comercial Wiegner: 18\nCompanhia de Mercenários Reinhardt: 19\nRaiz Dourada: 20\nRamo de Chamas: 21",
+        "es": "Este es el ID de cada facción de reputación.\nIntroduce el número de la facción que deseas configurar y comprobar.\nMadriguera de Orcos: 1\nMadriguera de Duendes: 2\nAldea del Lobo Gris: 3\nCastillo de Hielo: 4\nAlianza del Gato Blanco: 5\nInvestigación del Nivel 1 del Abismo: 6\nAlianza de Héroes (EP21): 7\nBardo del Festival: 8\nInvestigación del Abismo Profundo: 9\nPase de la Ilusión: 10\nPase del Legado del Sabio: 11\nPase de la Dirección de la Oración: 12\nMando de Geoborg: 13\nNerius, la Estrella Negra: 14\nHeine, el Sabio del Bosque: 15\nHermanos de Rogenburg: 16\nFlota Walter: 17\nCompañía Comercial Wiegner: 18\nCompañía de Mercenarios Reinhardt: 19\nRaíz Dorada: 20\nRama de Llamas: 21"
+    },
+    "4+P8DA": {
+        "en": "Ãë¼ÒÇÏ¼Ì½À´Ï´Ù.",
+        "pt": "Você cancelou.",
+        "es": "Has cancelado."
+    },
+    "5OP8DA": {
+        "en": "¿ÀÅ©",
+        "pt": "Orcs",
+        "es": "Orcos"
+    },
+    "5eP8DA": {
+        "en": "°íºí¸°",
+        "pt": "Goblins",
+        "es": "Duendes"
+    },
+    "5uP8DA": {
+        "en": "È¸»ö´Á´ë",
+        "pt": "Lobos Cinzentos",
+        "es": "Lobos Grises"
+    },
+    "5+P8DA": {
+        "en": "¾óÀ½¼º",
+        "pt": "Castelo de Gelo",
+        "es": "Castillo de Hielo"
+    },
+    "6OP8DA": {
+        "en": "ÇÏ¾á °í¾çÀÌ µ¿¸Í",
+        "pt": "Aliança do Gato Branco",
+        "es": "Alianza del Gato Blanco"
+    },
+    "6eP8DA": {
+        "en": "½ÉÃþ 1Ãþ ¿¬±¸",
+        "pt": "Pesquisa do Andar 1 do Abismo",
+        "es": "Investigación del Nivel 1 del Abismo"
+    },
+    "6uP8DA": {
+        "en": "¿µ¿õµ¿¸Í",
+        "pt": "Aliança dos Heróis",
+        "es": "Alianza de Héroes"
+    },
+    "6+P8DA": {
+        "en": "ÃàÁ¦ÀÇ À½À¯½ÃÀÎ",
+        "pt": "Bardo do Festival",
+        "es": "Bardo del Festival"
+    },
+    "7OP8DA": {
+        "en": "½ÉÃþ ¾îºñ½º ¿¬±¸",
+        "pt": "Pesquisa do Abismo Profundo",
+        "es": "Investigación del Abismo Profundo"
+    },
+    "7eP8DA": {
+        "en": "ÀÏ·ç½Ã¿Â ÆÐ½º",
+        "pt": "Passe Ilusão",
+        "es": "Pase de la Ilusión"
+    },
+    "7uP8DA": {
+        "en": "ÇöÀÚÀÇ À¯»ê ÆÐ½º",
+        "pt": "Passe do Legado do Sábio",
+        "es": "Pase del Legado del Sabio"
+    },
+    "7+P8DA": {
+        "en": "±âµµÀÇ ¹æÇâ ÆÐ½º",
+        "pt": "Passe da Direção da Oração",
+        "es": "Pase de la Dirección de la Oración"
+    },
+    "8OP8DA": {
+        "en": "°Ô¿Àº¸¸£±× »ç·ÉºÎ",
+        "pt": "Comando de Geoborg",
+        "es": "Mando de Geoborg"
+    },
+    "8eP8DA": {
+        "en": "°ËÀºº° ³×¸®¿ì½º",
+        "pt": "Nerius, la Estrella Negra",
+        "es": "Nerius, la Estrella Negra"
+    },
+    "8uP8DA": {
+        "en": "½£ÀÇ ÇöÀÚ ÇÏÀÌ³×",
+        "pt": "Heine, o Sábio da Floresta",
+        "es": "Heine, el Sabio del Bosque"
+    },
+    "8+P8DA": {
+        "en": "·Ú°ÕºÎ¸£±× ÇüÁ¦",
+        "pt": "Irmãos de Rogenburg",
+        "es": "Hermanos de Rogenburg"
+    },
+    "9OP8DA": {
+        "en": "¹ßÅÍ ÇÔ´ë",
+        "pt": "Frota Walter",
+        "es": "Flota Walter"
+    },
+    "9eP8DA": {
+        "en": "À§±×³Ê »ó´Ü",
+        "pt": "Companhia Comercial Wiegner",
+        "es": "Compañía Comercial Wiegner"
+    },
+    "9uP8DA": {
+        "en": "¸®ÇÏ¸£Æ® ¿ëº´´Ü",
+        "pt": "Companhia de Mercenários Reinhardt",
+        "es": "Compañía de Mercenarios Reinhardt"
+    },
+    "9+P8DA": {
+        "en": "È²±Ý »Ñ¸®",
+        "pt": "Raiz Dourada",
+        "es": "Raíz Dorada"
+    },
+    "+OP8DA": {
+        "en": "È­¿° °¡Áö",
+        "pt": "Ramo de Chamas",
+        "es": "Rama de Llamas"
+    },
+    "+eP8DA": {
+        "en": "¹Ìµî·Ï±âº»5Ãµ",
+        "pt": "Padrão não registrado 5000",
+        "es": "Predeterminado no registrado 5000"
+    },
+    "+uP8DA": {
+        "en": "ÆòÆÇ Å×½ºÆ®¿ëÀÔ´Ï´Ù.\n{0} ÀÇ ÆòÆÇ Á¡¼ö¸¦ Á¶ÀÛÇÕ´Ï´Ù.",
+        "pt": "Isto é para testes de reputação.\nManipule a pontuação de reputação de {0}.",
+        "es": "Esto es para pruebas de reputación.\nManipula la puntuación de reputación de {0}."
+    },
+    "++P8DA": {
+        "en": "¿ìÈ£µµ ¿Ã¸®±â",
+        "pt": "Aumentar Afinidade",
+        "es": "Aumentar Favor"
+    },
+    "/OP8DA": {
+        "en": "Àû´ëµµ ¿Ã¸®±â",
+        "pt": "Aumentar Hostilidade",
+        "es": "Aumentar Hostilidad"
+    },
+    "/eP8DA": {
+        "en": "¿ìÈ£µµ ÁöÁ¤°ª ¼³Á¤",
+        "pt": "Definir Afinidade para um valor específico",
+        "es": "Establecer Favor en un valor específico"
+    },
+    "/uP8DA": {
+        "en": "Àû´ëµµ ÁöÁ¤°ª ¼³Á¤",
+        "pt": "Definir Hostilidade para um valor específico",
+        "es": "Establecer Hostilidad en un valor específico"
+    },
+    "/+P8DA": {
+        "en": "0 ~ {0} ±îÁö ÀÔ·Â °¡´ÉÇÕ´Ï´Ù.",
+        "pt": "Você pode inserir um valor de 0 a {0}.",
+        "es": "Puedes introducir un valor de 0 a {0}."
+    },
+    "AOT8DA": {
+        "en": "ÇöÀç ¿ìÈ£µµ ÃÖ´ë, Àû´ë¼öÄ¡ 0ÀÌ¹Ç·Î ´õ ÀÌ»ó ¿ìÈ£µµ¸¦ ¿Ã¸± ¼ö ¾ø½À´Ï´Ù.",
+        "pt": "A afinidade já está no máximo e a hostilidade é 0, então não é possível aumentar a afinidade mais.",
+        "es": "El favor ya está en el máximo y la hostilidad es 0, así que no puedes aumentar el favor más."
+    },
+    "AeT8DA": {
+        "en": "¿ìÈ£µµ {0} ¿Ã¸²",
+        "pt": "Aumentar afinidade em {0}",
+        "es": "Aumentar favor en {0}"
+    },
+    "AuT8DA": {
+        "en": "Àû´ëµµ {0} ³»¸²",
+        "pt": "Diminuir hostilidade em {0}",
+        "es": "Disminuir hostilidad en {0}"
+    },
+    "A+T8DA": {
+        "en": "ÇöÀç Àû´ëµµ ÃÖ´ë, ¿ìÈ£¼öÄ¡ 0ÀÌ¹Ç·Î ´õ ÀÌ»ó Àû´ëµµ¸¦ ¿Ã¸± ¼ö ¾ø½À´Ï´Ù.",
+        "pt": "A hostilidade já está no máximo e a afinidade é 0, então não é possível aumentar a hostilidade mais.",
+        "es": "La hostilidad ya está en el máximo y el favor es 0, así que no puedes aumentar la hostilidad más."
+    },
+    "BOT8DA": {
+        "en": "ÀÔ·Â ¹üÀ§¸¦ ÃÊ°úÇÏ¿´½À´Ï´Ù.",
+        "pt": "Você excedeu o intervalo de entrada.",
+        "es": "Has superado el rango de entrada."
+    },
+    "BeT8DA": {
+        "en": "Áý°è ÁßÀÔ´Ï´Ù.",
+        "pt": "Agregando.",
+        "es": "Calculando."
+    },
+    "BuT8DA": {
+        "en": "ÆòÆÇ:{0}",
+        "pt": "Reputação: {0}",
+        "es": "Reputación: {0}"
+    },
+    "B+T8DA": {
+        "en": "¿ìÈ£Á¡¼ö: {0}\nÀû´ëÁ¡¼ö: {1}\nÃÖÁ¾Á¡¼ö ¿ìÈ£:{2}\n±àÁ¤ÆòÆÇ ·¹º§: {3}\nºÎÁ¤ÆòÆÇ ·¹º§: {4}\nÃÖÁ¾ÆòÆÇ ¿ìÈ£: {5}",
+        "pt": "Pontuação positiva: {0}\nPontuação de hostilidade: {1}\nPontuação final (favor): {2}\nNível de reputação positiva: {3}\nNível de reputação negativa: {4}\nReputação final (favor): {5}",
+        "es": "Puntuación positiva: {0}\nPuntuación de hostilidad: {1}\nPuntuación final (a favor): {2}\nNivel de reputación positiva: {3}\nNivel de reputación negativa: {4}\nReputación final (a favor): {5}"
+    },
+    "COT8DA": {
+        "en": "¿ìÈ£Á¡¼ö: {0}\nÀû´ëÁ¡¼ö: {1}\nÃÖÁ¾Á¡¼ö Àû´ë:{2}\n±àÁ¤ÆòÆÇ ·¹º§: {3}\nºÎÁ¤ÆòÆÇ ·¹º§: {4}\nÃÖÁ¾ÆòÆÇ ºÒÈ£: {5}",
+        "pt": "Pontuação positiva: {0}\nPontuação de hostilidade: {1}\nPontuação final (hostilidade): {2}\nNível de reputação positiva: {3}\nNível de reputação negativa: {4}\nReputação final (desagrado): {5}",
+        "es": "Puntuación positiva: {0}\nPuntuación de hostilidad: {1}\nPuntuación final (en contra): {2}\nNivel de reputación positiva: {3}\nNivel de reputación negativa: {4}\nReputación final (desagrado): {5}"
+    },
+    "CeT8DA": {
+        "en": "¿ìÈ£Á¡¼ö: {0}\nÀû´ëÁ¡¼ö: {1}\nÃÖÁ¾Á¡¼ö:{2}\n±àÁ¤ÆòÆÇ ·¹º§: {3}\nºÎÁ¤ÆòÆÇ ·¹º§: {4}\nÃÖÁ¾ÆòÆÇ: {5}",
+        "pt": "Pontuação positiva: {0}\nPontuação de hostilidade: {1}\nPontuação final: {2}\nNível de reputação positiva: {3}\nNível de reputação negativa: {4}\nReputação final: {5}",
+        "es": "Puntuación positiva: {0}\nPuntuación de hostilidad: {1}\nPuntuación final: {2}\nNivel de reputación positiva: {3}\nNivel de reputación negativa: {4}\nReputación final: {5}"
+    },
+    "CuT8DA": {
+        "en": "¹«½¼ÀÏÀÌ ¹ú¾îÁö°í ÀÖÁö¿ä?",
+        "pt": "O que está acontecendo?",
+        "es": "¿Qué está pasando?"
+    }
+}

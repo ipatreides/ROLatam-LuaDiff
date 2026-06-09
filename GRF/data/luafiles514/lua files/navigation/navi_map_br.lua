@@ -442,14 +442,14 @@ Navi_Map = {
 	},
 	{
 		"ba_chess",
-		"Cheque-mate",
+		"Xeque-mate",
 		5001,
 		48,
 		48
 	},
 	{
 		"ba_go",
-		"Campo de Batalha Fileira de Palmeiras",
+		"Campo de Batalha Aquático",
 		5001,
 		104,
 		100
@@ -463,21 +463,21 @@ Navi_Map = {
 	},
 	{
 		"ba_lib",
-		"Salão de Memórias da Biblioteca",
+		"Corredor da Biblioteca das Memórias",
 		5001,
 		320,
 		320
 	},
 	{
 		"ba_lost",
-		"Fazenda Vale Perdido",
+		"Menageria do Vale Perdido",
 		5001,
 		320,
 		360
 	},
 	{
 		"ba_maison",
-		"Jardim da Mansão Varmundt",
+		"Jardim da Mansão Varmunt",
 		5001,
 		400,
 		400
@@ -491,7 +491,7 @@ Navi_Map = {
 	},
 	{
 		"ba_pw02",
-		"Estação de Tratamento de Esgoto",
+		"Planta de Tratamento de Esgoto",
 		5001,
 		300,
 		300
@@ -3123,7 +3123,7 @@ Navi_Map = {
 	},
 	{
 		"odin_past",
-		"Templo de Odin",
+		"Antigo Templo de Odin",
 		5001,
 		400,
 		400
@@ -4061,7 +4061,7 @@ Navi_Map = {
 	},
 	{
 		"rockrdg2",
-		"Kiwawa Desert",
+		"Deserto Kiwawa (2)",
 		5001,
 		400,
 		400
@@ -4933,6 +4933,48 @@ Navi_Map = {
 		5001,
 		400,
 		400
+	},
+	{
+		"1@nyr",
+		"Sanctuary Sessrumnir Garden",
+		5001,
+		240,
+		240
+	},
+	{
+		"2@nyr",
+		"Sanctuary Sessrumnir Heart Storage",
+		5001,
+		240,
+		240
+	},
+	{
+		"1@exse",
+		"Eunha Celestial Branch Office",
+		5003,
+		84,
+		94
+	},
+	{
+		"1@pop2",
+		"",
+		5001,
+		160,
+		300
+	},
+	{
+		"1@pop3",
+		"",
+		5001,
+		116,
+		116
+	},
+	{
+		"1@gat",
+		"Dentro do Portal",
+		5001,
+		240,
+		240
 	},
 	{
 		"NULL",

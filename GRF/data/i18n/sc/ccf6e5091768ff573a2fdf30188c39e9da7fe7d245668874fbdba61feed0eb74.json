@@ -14,7 +14,7 @@
     "wsZiDA": {
         "ko": "[사제 예르거스]\n늘 그랬듯이 선한 영향력을 끼칠 수 있는 카디날로 남아주시길 바랍니다.",
         "en": "[Priest Jergus]\nPlease remain as the good servant you are, as you always have.",
-        "pt": "[Sacerdote Yergus]\nEspero que continue sendo capaz de exercer uma influência como cardeal, sempre.",
+        "pt": "[Sacerdote Yergus]\nEspero que continue exercendo seu papel como cardeal sempre.",
         "es": "[Sacerdote Yergus]\nEspero que, sigas siendo capaz de ejercer una influencia positiva como cardenal, siempre."
     },
     "w8ZiDA": {
@@ -32,25 +32,25 @@
     "xcZiDA": {
         "ko": "[?????]\n얘, 넌 거기서 비비지 말고 나 좀 보자",
         "en": "[?????]\nHey, stop messing around over there and look at me.",
-        "pt": "[?????]\nEi, não fique perdendo tempo por aí, olhe para mim.",
+        "pt": "[?????]\nEi, não fique perdendo tempo por aí e olhe para cá.",
         "es": "[?????]\nOye, deja de hacer el tonto ahí y mírame."
     },
     "xsZiDA": {
         "ko": "[사제 예르거스]\n신앙심이 빛의 경지에 다다른 분이시여.",
         "en": "[Priest Jergus]\nOne whose faith has reached the state of light.",
-        "pt": "[Sacerdote Yergus]\nÓ tu, cuja fé atingiu o nível da luz.",
+        "pt": "[Sacerdote Yergus]\nÓ tu, cuja fé atingiste o nível da luz.",
         "es": "[Sacerdote Yergus]\nAquel cuya fe ha alcanzado el nivel de la luz."
     },
     "x8ZiDA": {
         "ko": "[사제 예르거스]\n그 경지에 다다른 자에게만 주어진다는 시련이 있습니다.",
         "en": "[Priest Jergus]\nThere is a trial that only one who has reached that state can face.",
-        "pt": "[Sacerdote Yergus]\nHá uma provação concedida apenas àqueles que alcançaram esse patamar.",
+        "pt": "[Sacerdote Yergus]\nHá uma provação concedida apenas àqueles que alcançaram esse nível superior.",
         "es": "[Sacerdote Yergus]\nHay una prueba que solo se le concede a quien ha alcanzado ese nivel."
     },
     "yMZiDA": {
         "ko": "[사제 예르거스]\n당신의 신앙심을 시험해보시겠습니까?",
         "en": "[Priest Jergus]\nWould you like to put your faith to the test?",
-        "pt": "[Sacerdote Yergus]\nGostarias de testar a tua fé?",
+        "pt": "[Sacerdote Yergus]\nGostaria de testar a tua fé?",
         "es": "[Sacerdote Yergus]\n¿Quieres poner a prueba tu fe?"
     },
     "ycZiDA": {
@@ -68,7 +68,7 @@
     "y8ZiDA": {
         "ko": "[사제 예르거스]\n스킬 포인트가 남아있어 진행이 불가능합니다.",
         "en": "[Priest Jergus]\nYou cannot proceed with this quest while having unused Skill Points.",
-        "pt": "[Sacerdote Yergus]\nNão é possível prosseguir porque ainda há pontos de habilidade não distribuidas.",
+        "pt": "[Sacerdote Yergus]\nNão é possível prosseguir enquanto houver pontos de habilidade não distribuidas.",
         "es": "[Sacerdote Yergus]\nNo puedes continuar porque tienes puntos de habilidad sin usar."
     },
     "zMZiDA": {
@@ -86,19 +86,19 @@
     "zsZiDA": {
         "ko": "[사제 예르거스]\n그들의 신앙심은 아직 더 깊어질 여지가 있기 때문이죠.",
         "en": "[Priest Jergus]\nBecause their faith still has room to grow deeper.",
-        "pt": "[Sacerdote Yergus]\nIsso porque a fé deles ainda tem espaço para evoluir.",
+        "pt": "[Sacerdote Yergus]\nIsso porque ainda há espaço para crescimento em sua fé.",
         "es": "[Sacerdote Yergus]\nPorque su fe aún tiene margen para profundizarse."
     },
     "z8ZiDA": {
         "ko": "[사제 예르거스]\n그것을 확인할 수 있는 지표를 잡기에 적합한 곳이 얼마전에 한 아크비숍으로부터 발견되었습니다.",
         "en": "[Priest Jergus]\nA suitable location for gauging that has recently been discovered by an Archbishop.",
-        "pt": "[Sacerdote Yergus]\nUm local adequado para encontrar indícios que comprovem isso foi descoberto recentemente por um Arcebispo.",
+        "pt": "[Sacerdote Yergus]\nRecentemente, um local contendo indícios desta teoria foi descoberto por um Arcebispo.",
         "es": "[Sacerdote Yergus]\nUn lugar adecuado para encontrar indicios que comprueben esto fue descubierto recientemente por un arzobispo."
     },
     "0MZiDA": {
         "ko": "[사제 예르거스]\n페이욘 동굴에서 발견된 <FONT COLOR = 4D4DFF><FONT SIZE = 16><B>환영의 서</FONT></FONT></B>.",
         "en": "[Priest Jergus]\nThe <FONT COLOR = 4D4DFF><FONT SIZE = 16><B>Book of Illusion</FONT></FONT></B>, found in the Payon Cave.",
-        "pt": "[Sacerdote Yergus]\nO <FONT COLOR = 4D4DFF><FONT SIZE = 16><B>Livro das Ilusões</FONT></FONT></B>, encontrado na Caverna de Payon.",
+        "pt": "[Sacerdote Yergus]\nÉ o <FONT COLOR = 4D4DFF><FONT SIZE = 16><B>Livro das Ilusões</FONT></FONT></B>, encontrado na Caverna de Payon.",
         "es": "[Sacerdote Yergus]\nEl <FONT COLOR = 4D4DFF><FONT SIZE = 16><B>Libro de las Visiones</FONT></FONT></B> que se encontró en las cuevas de Payon."
     },
     "0cZiDA": {
@@ -122,13 +122,13 @@
     "1MZiDA": {
         "ko": "[사제 예르거스]\n지금 제 앞에 있는 아크비숍이여, 당신의 신앙심은 진정 빛의 경지에 다다렀다고 말할 수 있습니까?",
         "en": "[Priest Jergus]\nArchbishop, are you confident that your faith has reached the state of light?",
-        "pt": "[Sacerdote Yergus]\nÓ fiel, que está diante de mim, podes dizer que a tua fé realmente alcançou o reino da luz?",
+        "pt": "[Sacerdote Yergus]\nÓ fiel, que estás diante de mim, estás confiante de que a tua fé alcançou o estado de iluminação?",
         "es": "[Sacerdote Yergus]\n¿Puedes decir que tu fe ha alcanzado verdaderamente el reino de la luz?"
     },
     "1cZiDA": {
         "ko": "[사제 예르거스]\n진정 빛의 경지에 다다렀다면 당신도 페이욘 동굴에 가서 환영의 서를 찾아보시는 것이 어떨지요.",
         "en": "[Priest Jergus]\nIf so, how'd you like to go look for the Book of Illusion in the Payon Cave?",
-        "pt": "[Sacerdote Yergus]\nSe realmente atingiste o nível da luz, que tal ires até a Caverna de Payon procurar o Livro das Ilusões?",
+        "pt": "[Sacerdote Yergus]\nCaso esteja, que tal ir até a Caverna de Payon procurar o Livro das Ilusões?",
         "es": "[Sacerdote Yergus]\nSi de verdad has alcanzado el nivel de la luz, ¿qué tal si vas a la cueva de Payon a buscar el libro de las visiones?"
     },
     "1sZiDA": {
@@ -140,7 +140,7 @@
     "18ZiDA": {
         "ko": "아직 준비가 되지 않았습니다.",
         "en": "I'm not ready yet.",
-        "pt": "Ainda não me preparei.",
+        "pt": "Ainda não estou preparado.",
         "es": "Aún no me preparé."
     },
     "2MZiDA": {
@@ -176,31 +176,31 @@
     "3cZiDA": {
         "ko": "[사제 예르거스]\n당신은 현재의 위치에 만족하고 계시는 모양이군요.",
         "en": "[Priest Jergus]\nIt seems you're content with your current position.",
-        "pt": "[Sacerdote Yergus]\nParece que você está contente com sua situação atual.",
+        "pt": "[Sacerdote Yergus]\nParece que você está satisfeito do jeito que está.",
         "es": "[Sacerdote Yergus]\nParece que estás conforme con tu situación actual."
     },
     "3sZiDA": {
         "ko": "[사제 예르거스]\n그것도 나쁘지는 않다고 생각합니다만...",
         "en": "[Priest Jergus]\nI suppose that's not a bad thing...",
-        "pt": "[Sacerdote Yergus]\nAté que isso não é algo ruim...",
+        "pt": "[Sacerdote Yergus]\nNão que seja algo ruim...",
         "es": "[Sacerdote Yergus]\nNo creo que eso sea malo, pero..."
     },
     "38ZiDA": {
         "ko": "[사제 예르거스]\n신앙에 목말라 있는 아크비숍이여.",
         "en": "[Priest Jergus]\nArch Bishop, who's thirsty for faith.",
-        "pt": "[Sacerdote Yergus]\nArcebispos sedentos por fé.",
+        "pt": "[Sacerdote Yergus]\nArcebispo, que anseia por mais fé.",
         "es": "[Sacerdote Yergus]\nArzobispos, sedientos de fe."
     },
     "4MZiDA": {
         "ko": "[사제 예르거스]\n더욱 성장할 여지가 있는 것에 감사하시기를 바랍니다.",
         "en": "[Priest Jergus]\nPlease be grateful that you still have room for growth.",
-        "pt": "[Sacerdote Yergus]\nDevem agredecer pelo fato de ainda poder crescer.",
+        "pt": "[Sacerdote Yergus]\nAgradeça por ainda ainda poder evoluir.",
         "es": "[Sacerdote Yergus]\nAgradece por tener aún margen para mejorar."
     },
     "4cZiDA": {
         "ko": "[사제 예르거스]\n그리하여 더 이상 올라갈 수 없는 경지까지 다다렀다고 판단되시면 저를 다시 찾아와주시길 바랍니다.",
         "en": "[Priest Jergus]\nTherefore, when you feel you have reached a point where you can no longer progress, please come back to me.",
-        "pt": "[Sacerdote Yergus]\nPortanto, quando achar que atingiu o seu limite e não conseguir mais progredir, por favor, volte a me procurar.",
+        "pt": "[Sacerdote Yergus]\nE então, quando achar que chegou ao seu limite e não conseguir mais progredir, volte a me procurar.",
         "es": "[Sacerdote Yergus]\nPor eso, cuando sientas que has llegado a un punto en el que ya no puedes seguir avanzando, vuelve a verme."
     },
     "4sZiDA": {
@@ -224,7 +224,7 @@
     "5cZiDA": {
         "ko": "[사제 예르거스]\n신앙을 가지고 싶으시다면 언제든지 말씀해주시길 바랍니다.",
         "en": "[Priest Jergus]\nIf you wish to embrace faith, please let me know anytime.",
-        "pt": "[Sacerdote Yergus]\nSe quiseres abraçar a fé, por favor, fale comigo a qualquer momento.",
+        "pt": "[Sacerdote Yergus]\nSe deseja abraçar a fé, por favor, fale comigo a qualquer momento.",
         "es": "[Sacerdote Yergus]\nSi deseas abrazar la fe, no dudes en decírmelo en cualquier momento."
     },
     "5sZiDA": {
@@ -242,7 +242,7 @@
     "6MZiDA": {
         "ko": "[환영의 서 제 1권]\n지금 해당 내용을 잘 지키고 있다 해도 그것에 소홀해지지 않도록 항상 조심하는 것이 중요하다는 것을 명심하도록 하여라.",
         "en": "[Book of Illusion Vol. 1]\nRemember, it's not important that you meet God's expectations now. What matters most is that you work at it constantly and don't get neglectful.",
-        "pt": "[Livro das Ilusões, Volume 1]\nLembre-se! Cumprir as expectativas agora não é o mais importante, mas sim o seu trabalho duro e constante.",
+        "pt": "[Livro das Ilusões, Volume 1]\nLembre-se! O importante não é atender expectativas com pressa, mas sim trabalhar de forma árdua e constante.",
         "es": "[Libro de las Visiones, Tomo 1]\nRecuerda, aunque actualmente sigas bien estas instrucciones. Lo que importa es que te esfuerces constantemente y no te descuides."
     },
     "6cZiDA": {
@@ -260,19 +260,19 @@
     "68ZiDA": {
         "ko": "[환영의 서 제 1권]\n본 서가 보인다면 당신의 신앙심이 어느정도 충만하다는 것을 뜻한다.",
         "en": "[Book of Illusion Vol. 1]\nIf you can see this book, it means you're strong in faith.",
-        "pt": "[Livro das Ilusões, Volume 1]\nSe consegues ver este livro, significa que tua fé é muito forte.",
+        "pt": "[Livro das Ilusões, Volume 1]\nSe consegues ver este livro, significa que tua fé é forte.",
         "es": "[Libro de las Visiones, Tomo 1]\nSi ves este libro, significa que tienes una fe fuerte."
     },
     "7MZiDA": {
         "ko": "[환영의 서 제 1권]\n현재의 위치에 부족함을 느낀 자여, 위로 더 올라가려고 하는 의지는 욕심이 아닌 믿음이요, 신의 말씀에 더 가까워지려고 하는 경건함일지니...",
         "en": "[Book of Illusion Vol. 1]\nOne who feels dissatisfied with their current position, your desire to ascend higher is not greed, but faith. It shows you're eager to become closer to your lord.",
-        "pt": "[Livro das Ilusões, Volume 1]\nÓ tu que estás insatisfeito com tua atual capacidade. Tua vontade de crescer não é ganância, mas fé. É a devoção de se aproximar ainda mais de seu senhor.",
+        "pt": "[Livro das Ilusões, Volume 1]\nVocê se sente insatisfeito com suas atuais habilidades? Não temas, pois sua vontade de crescer não é ganância, mas sim fé. É o seu desejo de se aproximar ainda mais de seu senhor.",
         "es": "[Libro de las Visiones, Tomo 1]\nTú, que te sientes insatisfecho en tu posición actual, tu deseo de ascender no es codicia, sino fe, y la devoción por acercarte más a la palabra de dios..."
     },
     "7cZiDA": {
         "ko": "[환영의 서 제 1권]\n현재 당신의 위치를 확인해 볼 수 있는 기회를 마련해주겠노라.",
         "en": "[Book of Illusion Vol. 1]\nI'll give you a chance to check your current position.",
-        "pt": "[Livro das Ilusões, Volume 1]\nDar-te-ei a oportunidade de verificar a tua atual situação.",
+        "pt": "[Livro das Ilusões, Volume 1]\nDar-te-ei a oportunidade de confirmar a tua devoção.",
         "es": "[Libro de las Visiones, Tomo 1]\nTe daré la oportunidad de verificar tu posición actual."
     },
     "7sZiDA": {
@@ -284,19 +284,19 @@
     "78ZiDA": {
         "ko": "[환영의 서 제 1권]\n<FONT COLOR = 4D4DFF><FONT SIZE = 16><B>성전 앞에서만 경건한 자는 참된 신앙인이 될 수 없을지어다.</FONT></FONT></B>",
         "en": "[Book of Illusion Vol. 1]\n<FONT COLOR = 4D4DFF><FONT SIZE = 16><B>Those who only worship Him in His place are not truly devoted to Him.</FONT></FONT></B>",
-        "pt": "[Livro das Ilusões, Volume 1]\n<FONT COLOR = 4D4DFF><FONT SIZE = 16><B>Quem é piedoso apenas diante do templo não pode ser um verdadeiro crente.</FONT></FONT></B>",
+        "pt": "[Livro das Ilusões, Volume 1]\n<FONT COLOR = 4D4DFF><FONT SIZE = 16><B>Aquele que é piedoso apenas diante do templo não será considerado um verdadeiro devoto.</FONT></FONT></B>",
         "es": "[Libro de las Visiones, Tomo 1]\n<FONT COLOR = 4D4DFF><FONT SIZE = 16><B>Quien solo es piadoso ante el templo no podrá ser un verdadero creyente.</FONT></FONT></B>"
     },
     "8MZiDA": {
         "ko": "[환영의 서 제 1권]\n많은 신앙인들은 집회가 행해지는 성전의 자리 앞에서는 참된 신앙인의 모습을 보이려고 노력한다.",
         "en": "[Book of Illusion Vol. 1]\nMany believers strive to appear as true devotees when gathered before the altar in the temple where worship is held.",
-        "pt": "[Livro das Ilusões, Volume 1]\nMuitos fiéis se esforçam para se prostrar como um verdadeiro devoto diante do templo de adoração.",
+        "pt": "[Livro das Ilusões, Volume 1]\nMuitos fiéis se esforçam para ser um verdadeiro devoto diante do templo de adoração.",
         "es": "[Libro de las Visiones, Tomo 1]\nMuchos creyentes se esfuerzan por mostrar su lado más devoto cuando están frente al templo, donde se celebran las reuniones."
     },
     "8cZiDA": {
         "ko": "[환영의 서 제 1권]\n하지만 성전에서 벗어나게 되면 그 부분에 대해 소홀해지는 신앙인이 많은 것이 현실이다.",
         "en": "[Book of Illusion Vol. 1]\nBut the reality is that many believers neglect that aspect once they leave the temple.",
-        "pt": "[Livro das Ilusões, Volume 1]\nMas a realidade é que, assim que saem do templo, muitos de vocês deixam a fé de lado.",
+        "pt": "[Livro das Ilusões, Volume 1]\nMas a realidade é que, assim que deixam o templo, muitos deixam a fé de lado.",
         "es": "[Libro de las Visiones, Tomo 1]\nPero la realidad es que muchos creyentes descuidan ese aspecto en cuanto salen del templo"
     },
     "8sZiDA": {
@@ -308,13 +308,13 @@
     "88ZiDA": {
         "ko": "[환영의 서 제 1권]\n본 서를 읽고 있는 아크비숍이여, 본 내용에 대해 스스로를 돌아본 적이 있는가?",
         "en": "[Book of Illusion Vol. 1]\nArchbishop reading this book, have you ever reflected upon yourself in relation to its contents?",
-        "pt": "[Livro das Ilusões, Volume 1]\nQuem estiver lendo este livro: já refletiste sobre o que está escrito aqui?",
+        "pt": "[Livro das Ilusões, Volume 1]\nPara aquele que lê este livro: já parou para refletir sobre isso e sobre si mesmo?",
         "es": "[Libro de las Visiones, Tomo 1]\nQuíen está leyendo este libro, ¿ha reflexionado sobre lo que acabas de leer?"
     },
     "9MZiDA": {
         "ko": "[환영의 서 제 1권]\n당신은 성전 밖에서도 경건한 모습을 유지하며 지내는가?",
         "en": "[Book of Illusion Vol. 1]\nDo you maintain a pious demeanor even outside the temple?",
-        "pt": "[Livro das Ilusões, Volume 1]\nVocê mantém sua postura de devoção mesmo fora do templo?",
+        "pt": "[Livro das Ilusões, Volume 1]\nVocê mantém a sua devoção mesmo fora do templo?",
         "es": "[Libro de las Visiones, Tomo 1]\n¿Mantienes una actitud piadosa incluso fuera del templo?"
     },
     "9cZiDA": {
@@ -332,49 +332,49 @@
     "98ZiDA": {
         "ko": "[환영의 서 제 1권]\n생각보다 어려운 일을 당신이 행하고 있는 것이다.",
         "en": "[Book of Illusion Vol. 1]\nYou're doing something that's more difficult than you think.",
-        "pt": "[Livro das Ilusões, Volume 1]\nTu estás a realizar uma tarefa mais difícil do que imaginas.",
+        "pt": "[Livro das Ilusões, Volume 1]\nO que você consegue fazer é mais difícil do que se imagina.",
         "es": "[Libro de las Visiones, Tomo 1]\nEstás haciendo algo más difícil de lo que crees."
     },
     "+MZiDA": {
         "ko": "[환영의 서 제 1권]\n신앙 생활에 있어서 오딘님을 의식하는 것이 아닌 이 땅에 존재하는 타인의 시선을 의식하며 나아가는 사람들이 많다.",
         "en": "[Book of Illusion Vol. 1]\nIn matters of faith, many people move forward conscious not of Odin, but of the gaze of others who exist in this land.",
-        "pt": "[Livro das Ilusões, Volume 1]\nNa vida em fé, há muitas pessoas que não vivem conscientes de Odin, mas sim preocupadas com o olhar dos outros que existem nesta terra.",
+        "pt": "[Livro das Ilusões, Volume 1]\nNa vida em fé, muitas são as pessoas que vivem conscientes não de Odin, mas de outras pessoas ao seu redor.",
         "es": "[Libro de las Visiones, Tomo 1]\nEn cuestiones de fe, muchas personas avanzan conscientes no de Odín, sino de la mirada de otros que existen en esta tierra."
     },
     "+cZiDA": {
         "ko": "[환영의 서 제 1권]\n그렇기에 성전에서 벗어나 본인의 자리로 갔을 때, 의식하는 대상이 없어지게 되며 자연스럽게 경건함을 잃게 되는 것이다.",
-        "en": "[Book of Illusion Vol. 1]\nThat's why they forget about Him when they're away from others, away from His place.",
-        "pt": "[Livro das Ilusões, Volume 1]\nPor isso, quando saem do templo e voltam para o seu lugar, esquecem-no e, naturalmente, perdem a devoção.",
+        "en": "[Book of Illusion Vol. 1]\nThat's why they forget about Him when they're away from His place.",
+        "pt": "[Livro das Ilusões, Volume 1]\nPor isso, quando deixam o templo e voltam para seus afazeres, esquecem-no. Deixando a devoção de lado.",
         "es": "[Libro de las Visiones, Tomo 1]\nPor eso, al salir del templo y regresar a tu lugar, al dejar de tener algo en qué concentrarte, es natural que pierdas la devoción."
     },
     "+sZiDA": {
         "ko": "[환영의 서 제 1권]\n매우 중요한 첫 번째 말씀을 잘 지켜주고 있다니 다행이군.",
         "en": "[Book of Illusion Vol. 1]\nI'm glad you're keeping His very important first commandment.",
-        "pt": "[Livro das Ilusões, Volume 1]\nQue bom que estás a cumprir bem esta primeira regra tão importante.",
+        "pt": "[Livro das Ilusões, Volume 1]\nAlegra-me saber que está cumprindo esta primeira regra tão importante.",
         "es": "[Libro de las Visiones, Tomo 1]\nMe alegra que estés cumpliendo bien con esta primera enseñanza tan importante."
     },
     "+8ZiDA": {
         "ko": "[환영의 서 제 1권]\n이제 다음 환영의 서를 볼 수 있을 것이다.",
         "en": "[Book of Illusion Vol. 1]\nNow, you're allowed to read the next volume.",
-        "pt": "[Livro das Ilusões, Volume 1]\nAgora você poderá buscar o próximo Livro das Ilusões.",
+        "pt": "[Livro das Ilusões, Volume 1]\nAgora você poderá ler o próximo Livro das Ilusões.",
         "es": "[Libro de las Visiones, Tomo 1]\nAhora podrás ver el siguiente Libro de las Visiones."
     },
     "/MZiDA": {
         "ko": "[환영의 서 제 1권]\n다음 환영의 서를 찾아 두 번째 말씀을 접하도록 하여라.",
         "en": "[Book of Illusion Vol. 1]\nFind the next Book of Illusion and listen to His second message.",
-        "pt": "[Livro das Ilusões, Volume 1]\nProcure o próximo Livro das Ilusões e familiariza-te com a segunda lição.",
+        "pt": "[Livro das Ilusões, Volume 1]\nProcure pelo próximo Livro das Ilusões e compreenda a sua segunda mensagem.",
         "es": "[Libro de las Visiones, Tomo 1]\nBusca el siguiente Libro de las Visiones y toma conocimiento de la segunda enseñanza."
     },
     "/cZiDA": {
         "ko": "[환영의 서 제 1권]\n만약 그렇지 않다면 성전 밖에서도 경건할 수 있는 믿음을 가지도록 하여라.",
         "en": "[Book of Illusion Vol. 1]\nIf you find yourself unable to do it, then try hard to strengthen your faith.",
-        "pt": "[Livro das Ilusões, Volume 1]\nSe não conseguires, busque a fé que te permitará manter a devoção mesmo fora do templo.",
+        "pt": "[Livro das Ilusões, Volume 1]\nSe não for capaz disso, então terá que fortalecer sua fé.",
         "es": "[Libro de las Visiones, Tomo 1]\nSi no es así, procura tener la fe necesaria para mantener la devoción incluso fuera del templo."
     },
     "/sZiDA": {
         "ko": "[환영의 서 제 1권]\n현재 부족함이 있다는 것은 성장할 수 있다는 것이니 그것 또한 감사한 일일지니...",
         "en": "[Book of Illusion Vol. 1]\nTo feel inadequate now means you can grow. You should be grateful for that.",
-        "pt": "[Livro das Ilusões, Volume 1]\nSentir-se incapaz neste momento significa que ainda há espaço para crescer. Por isso, sinta-se agradecido.",
+        "pt": "[Livro das Ilusões, Volume 1]\nSe for incapaz de prosseguir, significa que ainda há espaço para evoluir. \nSinta-se grato por isso.",
         "es": "[Libro de las Visiones, Tomo 1]\nEl hecho de que ahora tengas carencias significa que puedes crecer, así que eso también es algo que deberías agradecer..."
     },
     "/8ZiDA": {
@@ -392,7 +392,7 @@
     "AcdiDA": {
         "ko": "[환영의 서 제 2권]\n지금 해당 내용을 잘 지키고 있다 해도 그것에 소홀해지지 않도록 항상 조심하는 것이 중요하다는 것을 명심하도록 하여라.",
         "en": "[Book of Illusion Vol. 2]\nRemember, it's not important that you meet God's expectations now. What matters is that you work at it constantly and don't get neglectful.",
-        "pt": "[Livro das Ilusões, Volume 2]\nLembre-se que cumprir as expectativas agora não é o mais importante, mas sim continuar realizando seu trabalho de forma constante e rigorosa.",
+        "pt": "[Livro das Ilusões, Volume 2]\nLembre-se! O importante não é atender expectativas com pressa, mas sim trabalhar de forma árdua e constante.",
         "es": "[Libro de las Visiones, Tomo 2]\nRecuerda, aunque actualmente sigas bien estas instrucciones. Lo que importa es que te esfuerces constantemente y no te descuides."
     },
     "AsdiDA": {
@@ -410,31 +410,31 @@
     "BMdiDA": {
         "ko": "[환영의 서 제 2권]\n그대는 오딘님이 내려주시는 가르침에 따라 행하고 있을 지어니...",
         "en": "[Book of Illusion Vol. 2]\nYou've been following His commands.",
-        "pt": "[Livro das Ilusões, Volume 2]\nTu caminhas de acordo com os ensinamentos de Odin.",
+        "pt": "[Livro das Ilusões, Volume 2]\nTu caminhas de acordo com os Seus ensinamentos.",
         "es": "[Libro de las Visiones, Tomo 2]\nSeguramente estás actuando según las enseñanzas que Odín te ha impartido..."
     },
     "BcdiDA": {
         "ko": "[환영의 서 제 2권]\n그대가 행하는 모든 것들에 오딘님의 말씀이 반영되었다고 확신할 수 있는가?",
         "en": "[Book of Illusion Vol. 2]\nAre you confident everything you do represents God?",
-        "pt": "[Livro das Ilusões, Volume 2]\nTu estás certo de que as palavras de Odin se refletem em tudo o que você faz?",
+        "pt": "[Livro das Ilusões, Volume 2]\nVocê está confiante de que tudo o que realiza é para a graça de seu Deus?",
         "es": "[Libro de las Visiones, Tomo 2]\n¿Estás seguro de que las palabras de Odín se reflejan en todo lo que haces?"
     },
     "BsdiDA": {
         "ko": "[환영의 서 제 2권]\n가장 무서운 것은 본인이 하는 행동이 잘못인지도 모르고 행하는 것이다.",
         "en": "[Book of Illusion Vol. 2]\nYour worst enemy is your very self.",
-        "pt": "[Livro das Ilusões, Volume 2]\nO mais assustador é agir sem saber se o que se faz está errado.",
+        "pt": "[Livro das Ilusões, Volume 2]\nO seu pior inimigo é você mesmo.",
         "es": "[Libro de las Visiones, Tomo 2]\nLo más aterrador es actuar sin saber que lo que se hace está mal."
     },
     "B8diDA": {
         "ko": "[환영의 서 제 2권]\n<FONT COLOR = 4D4DFF><FONT SIZE = 16><B>오딘님의 말씀을 온전히 배우지 못한 자는 그것을 거스르는 행동을 했을 때, 그것이 잘못인지도 스스로 모르게 된다.</FONT></FONT></B>",
         "en": "[Book of Illusion Vol. 2]\n<FONT COLOR = 4D4DFF><FONT SIZE = 16><B>Those who fail to fully learn Odin's teachings will act against them without even realizing their actions are wrong.</FONT></FONT></B>",
-        "pt": "[Livro das Ilusões, Volume 2]\n<FONT COLOR = 4D4DFF><FONT SIZE = 16><B>Aquele que não compreende plenamente as palavras de Odin, ao agir contra elas não perceberás que está errado.</FONT></FONT></B>",
+        "pt": "[Livro das Ilusões, Volume 2]\n<FONT COLOR = 4D4DFF><FONT SIZE = 16><B>Aquele que não compreende plenamente as palavras de Odin, sequer perceberá que caminha pelo caminho indigno.</FONT></FONT></B>",
         "es": "[Libro de las Visiones, Tomo 2]\n<FONT COLOR = 4D4DFF><FONT SIZE = 16><B>Quien no haya aprendido plenamente las palabras de Odín, cuando actúe en contra de ellas, ni siquiera se dará cuenta de que está actuando mal.</FONT></FONT></B>"
     },
     "CMdiDA": {
         "ko": "[환영의 서 제 2권]\n인생의 여정을 마치고 최후의 심판대에 올라섰을 때, 당신이 죄의 심판을 받게 된다면, 그 죄가 무엇인지도 모르고 심판을 받게 된다면, 그것만큼 억울한 일은 없을 지어니...",
         "en": "[Book of Illusion Vol. 2]\nWhen you complete life's journey and stand before the final judgment seat, if you are judged for your sins, and if you are judged without even knowing what those sins are, there could be nothing more unjust...",
-        "pt": "[Livro das Ilusões, Volume 2]\nQuando terminares a jornada da vida e subires ao tribunal do juízo final, se fores julgado por um pecado sem saber qual é esse pecado, não haverá nada mais injusto do que isso...",
+        "pt": "[Livro das Ilusões, Volume 2]\nQuando chegar ao fim de sua jornada e estiver diante do tribunal do juízo final, perceberá o quão terrível é ser julgado por pecados que nem sequer sabia que cometia.",
         "es": "[Libro de las Visiones, Tomo 2]\nCuando termines el viaje de la vida y te presentes ante el Juicio Final, si te juzgan por tus pecados sin que sepas siquiera cuáles son, no habrá nada más injusto que eso..."
     },
     "CcdiDA": {
@@ -446,43 +446,43 @@
     "CsdiDA": {
         "ko": "[환영의 서 제 2권]\n당신은 오딘님께서 전하신 말씀을 모두 익혔고 그것에 충실하고 있는가?",
         "en": "[Book of Illusion Vol. 2]\nAre you confident you understand all of His teachings and practice them as you should?",
-        "pt": "[Livro das Ilusões, Volume 2]\nSente-se confiante em ter aprendido os ensinamentos de Odin e está sendo fiel a elas?",
+        "pt": "[Livro das Ilusões, Volume 2]\nEstás confiante em ter aprendido e praticado os ensinamentos de Odin?",
         "es": "[Libro de las Visiones, Tomo 2]\n¿Has aprendido todas las palabras transmitidas por Odín y te mantienes fiel a ellas?"
     },
     "C8diDA": {
         "ko": "[환영의 서 제 2권]\n당신이 행한 모든 행동이 오딘님이 추구하는 방향이며, 오딘님께서 기뻐하실 행동인가?",
         "en": "[Book of Illusion Vol. 2]\nIs everything you do what Odin wants? Do you do it to please Him?",
-        "pt": "[Livro das Ilusões, Volume 2]\nTodas as tuas ações seguem a direção que Odin busca e são ações que Odin apreciaria?",
+        "pt": "[Livro das Ilusões, Volume 2]\nTodas as tuas ações são em favor do que Odin deseja?",
         "es": "[Libro de las Visiones, Tomo 2]\n¿Todas tus acciones siguen el camino que busca Odín y son acciones que Odín apreciaría?"
     },
     "DMdiDA": {
         "ko": "[환영의 서 제 2권]\n그것이 일반 신앙인과 대사제의 길을 걸어가는 사람의 차이라고 볼 수 있을 것이다.",
         "en": "[Book of Illusion Vol. 2]\nThis is the difference between a layperson and a priest.",
-        "pt": "[Livro das Ilusões, Volume 2]\nPode-se dizer que essa é a diferença entre um fiel comum e alguém que trilha o caminho do sacerdote.",
+        "pt": "[Livro das Ilusões, Volume 2]\nEsta é a diferença entre um cidadão comum e um verdadeiro sacerdote.",
         "es": "[Libro de las Visiones, Tomo 2]\nPodría decirse que esta es la diferencia entre un creyente común y alguien que sigue el camino del sumo sacerdote."
     },
     "DcdiDA": {
         "ko": "[환영의 서 제 2권]\n모든 신앙인이 신께서 전하신 말씀을 모두 기억하고 외우며 그것을 행하는 것은 매우 어려운 일이고 당연한 일이다.",
         "en": "[Book of Illusion Vol. 2]\nIt is difficult for every believer to remember and recite all the words conveyed by God and to act upon them.",
-        "pt": "[Livro das Ilusões, Volume 2]\nÉ muito difícil que todo fiel se lembre e memorize todas as palavras transmitidas pelo deus e as coloque em prática.",
+        "pt": "[Livro das Ilusões, Volume 2]\nNão é todo fiel que consegue lembrar e recitar todas as palavras do Senhor, muito menos colocá-las em prática.",
         "es": "[Libro de las Visiones, Tomo 2]\nEs muy difícil, y a la vez natural, que todo fiel recuerde y memorice todas las palabras transmitidas por dios y las ponga en práctica"
     },
     "DsdiDA": {
         "ko": "[환영의 서 제 2권]\n하지만 진정으로 빛의 길에 다다르고 싶다면 그 모든 것을 알아야 하며 한 치의 그릇됨 없는 행동이 필요한 것이다.",
         "en": "[Book of Illusion Vol. 2]\nBut you're His servant. You must do it, no matter what, to lead others by example.",
-        "pt": "[Livro das Ilusões, Volume 2]\nMas, se você realmente deseja alcançar o caminho da luz, você deve realizar tudo isso e nunca se desviar do caminho.",
+        "pt": "[Livro das Ilusões, Volume 2]\nMas, se você realmente deseja ser o Seu seguidor, você deve realizar tudo isso e ser um exemplo aos demais.",
         "es": "[Libro de las Visiones, Tomo 2]\nPero si de verdad quieres llegar al camino de la luz, debes saberlo todo y actuar sin el más mínimo error."
     },
     "D8diDA": {
         "ko": "[환영의 서 제 2권]\n당신이 지금까지 해 온 행동에는 그릇된 것이 없다고 할 지라도 앞으로 걸어가게 될 길에 대해서도 정진하여야 할 것이다.",
         "en": "[Book of Illusion Vol. 2]\nEven if you're confident in the way you've served Him until now, you must remain humble and focus on serving him as best as you can.",
-        "pt": "[Livro das Ilusões, Volume 2]\nMesmo que não haja nada de errado nas ações que você fez até agora, você deve se empenhar também no caminho que irá percorrer daqui para frente.",
+        "pt": "[Livro das Ilusões, Volume 2]\nMesmo que seu caminho tenha sido correto até agora, você deve continuar se empenhando no caminho que irá percorrer daqui para frente.",
         "es": "[Libro de las Visiones, Tomo 2]\nAunque puedas decir que no hay nada erróneo en lo que has hecho hasta ahora, debes esforzarte también en el camino que vas a recorrer en el futuro."
     },
     "EMdiDA": {
         "ko": "[환영의 서 제 2권]\n미처 당신이 모르는 말씀과 행하지 않았던 행동이 있을지도 모르는 것이니...",
         "en": "[Book of Illusion Vol. 2]\nFor there may yet be words you do not know,\nand deeds you have not carried out…",
-        "pt": "[Livro das Ilusões, Volume 2]\nPois pode ser que haja ensinamentos que você ainda não conhece e tarefas a serem realizadas...",
+        "pt": "[Livro das Ilusões, Volume 2]\nPois sempre poderão existir novos ensinamentos e tarefas que devem serem realizadas...",
         "es": "[Libro de las Visiones, Tomo 2]\nPorque puede que haya palabras que aún no conozcas y acciones que aún no hayas realizado..."
     },
     "EcdiDA": {
@@ -494,7 +494,7 @@
     "EsdiDA": {
         "ko": "[환영의 서 제 2권]\n마지막 말씀에는 오딘님이 주시는 시련도 함께 있을 것이니... 준비를 하는 것이 필요할 것이다.",
         "en": "[Book of Illusion Vol. 2]\nThis final book comes with Odin's test. You should prepare yourself.",
-        "pt": "[Livro das Ilusões, Volume 2]\nNeste último livro, você encontrará as provações de Odin... É preciso que te prepares.",
+        "pt": "[Livro das Ilusões, Volume 2]\nNeste último livro, você encontrará a provação de Odin... Esteja preparado.",
         "es": "[Libro de las Visiones, Tomo 2]\nEn las últimas palabras también habrá pruebas que te impondrá el Señor Odín... así que tendrás que prepararte."
     },
     "E8diDA": {
@@ -512,7 +512,7 @@
     "FcdiDA": {
         "ko": "[환영의 서 제 2권]\n조금 더 정진한 후에 본 서를 읽어주길 바란다.",
         "en": "[Book of Illusion Vol. 2]\nPlease train for a little longer, and then come back.",
-        "pt": "[Livro das Ilusões, Volume 2]\nEspero que leias este livro depois de te dedicares um pouco mais.",
+        "pt": "[Livro das Ilusões, Volume 2]\nEspero que treine duro após ler este livro. E quando estiver pronto, volte.",
         "es": "[Libro de las Visiones, Tomo 2]\nEspero que leas este libro después de haberte esforzado un poco más."
     },
     "FsdiDA": {
@@ -530,13 +530,13 @@
     "GMdiDA": {
         "ko": "^FF0000시련을 받기 전에 가지고 있는 짐을 조금 덜어내 주십시오.^000000",
         "en": "^FF0000Please lighten your load before you accept this trial.^000000",
-        "pt": "^FF0000Antes de enfrentar a provação, por favor, alivia um pouco a carga que carregas.^000000",
+        "pt": "^FF0000Antes de enfrentar a provação, alivie um pouco o seu peso.^000000",
         "es": "^FF0000Antes de enfrentarte a la prueba, aligera un poco la carga que llevas.^000000"
     },
     "GcdiDA": {
         "ko": "[환영의 서 제 3권]\n단 ^0000FF1명^000000으로 이루어진 파티를 이루어야 본 서를 읽을 수 있다.",
         "en": "[Book of Illusion Vol. 3]\nOnly parties of ^0000FF1^000000 can read this book.",
-        "pt": "[Livro das Ilusões, Volume 3]\nSó é possível ler este livro se estiver em um grupo com ^0000FF1 pessoa^000000.",
+        "pt": "[Livro das Ilusões, Volume 3]\nPara ler este livro, esteja em um grupo com ^0000FF1 pessoa^000000.",
         "es": "[Libro de las Visiones, Tomo 3]\nSolo puedes leer este libro si formas un grupo de ^0000FF1 persona^000000."
     },
     "GsdiDA": {
@@ -548,7 +548,7 @@
     "G8diDA": {
         "ko": "[환영의 서 제 3권]\n^0000FF파티장이 아닐경우 시련을 진행할 수 없다.^000000",
         "en": "[Book of Illusion Vol. 3]\n^0000FFParty leaders only can accept the trial.^000000",
-        "pt": "[Livro das Ilusões, Volume 3]\n^0000FFSe você não for o líder do grupo, não poderá prosseguir com a provação.^000000",
+        "pt": "[Livro das Ilusões, Volume 3]\n^0000FFApenas líderes do grupo poderão prosseguir com a provação.^000000",
         "es": "[Libro de las Visiones, Tomo 3]\n^0000FFSi no eres el líder del grupo, no podrás continuar con la prueba.^000000"
     },
     "HMdiDA": {
@@ -566,13 +566,13 @@
     "HsdiDA": {
         "ko": "[환영의 서 제 3권]\n자네는 전직의 자격이 되는데 아직 카디날로 전직하지 않았군.",
         "en": "[Book of Illusion Vol. 3]\nYou meet the requirements for advancement, yet you haven't advanced to Cardinal.",
-        "pt": "[Livro das Boas-Vindas, Volume 3]\nTu tens os requisitos para a mudança de classe, mas ainda não te tornaste um Cardeal.",
+        "pt": "[Livro das Boas-Vindas, Volume 3]\nVocê atende aos requisitos para a mudança de classe, mas ainda não se tornou um Cardeal.",
         "es": "[Libro de las Visiones, Tomo 3]\nTienes los requisitos para cambiar de clase, pero aún no te has convertido en Cardenal."
     },
     "H8diDA": {
         "ko": "[환영의 서 제 3권]\n지금 여기서 카디날로 전직하겠는가?",
         "en": "[Book of Illusion Vol. 3]\nDo you want to advance to Cardinal now?",
-        "pt": "[Livro das Ilusões, Volume 3]\nQueres mudar para a classe de Cardeal aqui e agora?",
+        "pt": "[Livro das Ilusões, Volume 3]\nDeseja mudar para a classe de Cardeal agora?",
         "es": "[Libro de las Visiones, Tomo 3]\n¿Quieres cambiar a cardenal aquí y ahora?"
     },
     "IMdiDA": {
@@ -590,25 +590,25 @@
     "IsdiDA": {
         "ko": "[환영의 서 제 3권]\n스스로가 성장했을을 느끼게 될 것이다.",
         "en": "[Book of Illusion Vol. 3]\nYou'll notice you've grown.",
-        "pt": "[Livro das Ilusões, Volume 3]\nVocê sentirá que cresceu.",
+        "pt": "[Livro das Ilusões, Volume 3]\nVocê sentirá que ficou mais forte.",
         "es": "[Libro de las Visiones, Tomo 3]\nSentirás que has crecido."
     },
     "I8diDA": {
         "ko": "[환영의 서 제 3권]\n하지만 신앙을 쌓는 것에 있어서 끝은 없다는 것을 꼭 명심하여야 한다.",
         "en": "[Book of Illusion Vol. 3]\nBut remember, there's no end to strengthening your faith.",
-        "pt": "[Livro das Ilusões, Volume 3]\nMas lembre-se bem de que não há fim para o caminho da fé.",
+        "pt": "[Livro das Ilusões, Volume 3]\nMas lembre-se de que não há fim para o caminho da fé.",
         "es": "[Libro de las Visiones, Tomo 3]\nPero recuerda bien que no hay fin para el camino de la fe."
     },
     "JMdiDA": {
         "ko": "[환영의 서 제 3권]\n이제 밖으로 나가게 되면 카디날에 걸맞는 행실을 보이도록 하여라.",
         "en": "[Book of Illusion Vol. 3]\nNow, go outside and lead others as a Cardinal.",
-        "pt": "[Livro das Ilusões, Volume 3]\nAgora que vais sair daqui, comporta-te de maneira digna de um cardeal.",
+        "pt": "[Livro das Ilusões, Volume 3]\nAgora vá e comporte-se de maneira digna de um cardeal.",
         "es": "[Libro de las Visiones, Tomo 3]\nAhora que salgas, compórtate como corresponde a un cardenal."
     },
     "JcdiDA": {
         "ko": "[환영의 서 제 3권]\n앞으로 걸어가야 할 당신의 길에 오딘님의 가호가 함께 하기를.",
         "en": "[Book of Illusion Vol. 3]\nMay Odin illuminate the path in front of you.",
-        "pt": "[Livro das Ilusões, Volume 3]\nQue a bênção de Odin esteja contigo no caminho que irás trilhar daqui em diante.",
+        "pt": "[Livro das Ilusões, Volume 3]\nQue a bênção de Odin esteja contigo no caminho que irá trilhar daqui em diante.",
         "es": "[Libro de las Visiones, Tomo 3]\nQue la bendición de Odín te acompañe en el camino que debes recorrer."
     },
     "JsdiDA": {
@@ -674,7 +674,7 @@
     "MMdiDA": {
         "ko": "^0000FF파티장이 아니라면 던전의 생성은 불가능합니다.^000000",
         "en": "^0000FFYou cannot generate a dungeon unless you are the party leader.^000000",
-        "pt": "^0000FFSe você não for o líder do grupo, não é possível criar a masmorra.^000000",
+        "pt": "^0000FFSe você não for o líder do grupo, não poderá criar a masmorra.^000000",
         "es": "^0000FFSi no eres el líder del grupo, no puedes crear la mazmorra.^000000"
     },
     "McdiDA": {
@@ -704,25 +704,25 @@
     "NcdiDA": {
         "ko": "[환영의 서 제 3권]\n신성해야 하는 장소에 마물이 들끓고 있다.",
         "en": "[Book of Illusion Vol. 3]\nMonsters are defiling the holy ground.",
-        "pt": "[Livro das Ilusões, Volume 3]\nUm lugar que deveria ser sagrado está infestado de monstros.",
+        "pt": "[Livro das Ilusões, Volume 3]\nMonstros estão profanando este solo sagrado.",
         "es": "[Libro de las Visiones, Tomo 3]\nUn lugar que debería ser sagrado está infestado de monstruos."
     },
     "NsdiDA": {
         "ko": "[환영의 서 제 3권]\n자네의 신성한 힘으로 그것들을 먼저 잠재우고 와 주길 바란다.",
         "en": "[Book of Illusion Vol. 3]\nPlease use your sacred power to subdue them first and then come.",
-        "pt": "[Livro das Ilusões, Volume 3]\nEspero que uses teu poder sagrado para subjugá-los primeiro e depois retornar.",
+        "pt": "[Livro das Ilusões, Volume 3]\nUtilize seu poder sagrado para subjugá-los antes de retornar.",
         "es": "[Libro de las Visiones, Tomo 3]\nEspero que uses tu poder sagrado para subyugarlos primero y luego regreses."
     },
     "N8diDA": {
         "ko": "[환영의 서 제 3권]\n이 공간에 존재하는 모든 마물들을 종류와 상관없이 30마리 처치한 뒤에 본 서로 다시 돌아와 주길 바란다.",
         "en": "[Book of Illusion Vol. 3]\nHunt 30 monsters of any kind, and then come back here.",
-        "pt": "[Livro das Ilusões, Volume 3]\nDepois de derrotar 30 monstros de qualquer tipo neste local, retorne para este livro.",
+        "pt": "[Livro das Ilusões, Volume 3]\nDerrote 30 monstros de qualquer tipo nesta área, e então retorne para este livro.",
         "es": "[Libro de las Visiones, Tomo 3]\nTras derrotar a 30 monstruos de cualquier tipo que existan en este espacio, regresa a este libro."
     },
     "OMdiDA": {
         "ko": "[환영의 서 제 3권]\n당신이 신앙 생활을 하면서 얻는 것은 무엇인가?",
         "en": "[Book of Illusion Vol. 3]\nWhat do you gain from your life of faith?",
-        "pt": "[Livro das Ilusões, Volume 3]\nO que você ganha ao viver sua vida de fé?",
+        "pt": "[Livro das Ilusões, Volume 3]\nO que você ganha ao viver da fé?",
         "es": "[Libro de las Visiones, Tomo 3]\n¿Qué obtienes al vivir tu vida de fe?"
     },
     "OcdiDA": {
@@ -734,31 +734,31 @@
     "OsdiDA": {
         "ko": "[환영의 서 제 3권]\n이유는 간단하다. 오딘님의 말씀을 따르고 가르침 대로 행동하면 은혜가 따르기 때문.",
         "en": "[Book of Illusion Vol. 3]\nThe reason is simple. They know that following Odin's words and acting according to His teachings brings blessings.",
-        "pt": "[Livro das Ilusões, Volume 3]\nA razão é simples. Porque, se seguires as palavras do Odin e agires de acordo com os seus ensinamentos, a graça virá.",
+        "pt": "[Livro das Ilusões, Volume 3]\nA razão é simples. Eles acreditam que se seguirem as palavras do Odin e agirem de acordo com os seus ensinamentos, serão abençoados.",
         "es": "[Libro de las Visiones, Tomo 3]\nLa razón es simple. Porque si sigues las palabras de Odín y actúas según sus enseñanzas, la gracia te acompañará."
     },
     "O8diDA": {
         "ko": "[환영의 서 제 3권]\n신앙의 가장 근본적인 부분에 대해 생각해 본 적이 있는가?",
         "en": "[Book of Illusion Vol. 3]\nHave you ever thought about the fundamentals of faith?",
-        "pt": "[Livro das Ilusões, Volume 3]\nJá pensaste sobre a parte mais fundamental da fé?",
+        "pt": "[Livro das Ilusões, Volume 3]\nJá parou para pensar sobre os fundamentos da fé?",
         "es": "[Libro de las Visiones, Tomo 3]\n¿Alguna vez has pensado en la parte más fundamental de la fe?"
     },
     "PMdiDA": {
         "ko": "[환영의 서 제 3권]\n당신은 오딘님이 내려주신 말씀만 믿고 있는 것이 아닌가?",
         "en": "[Book of Illusion Vol. 3]\nAre you sure you believe in Him, not just His words?",
-        "pt": "[Livro das Ilusões, Volume 3]\nVocê não está acreditando apenas nas palavras que Odin concedeu?",
+        "pt": "[Livro das Ilusões, Volume 3]\nVocê realmente acredita em Odin, e não apenas nas suas palavras?",
         "es": "[Libro de las Visiones, Tomo 3]\n¿Acaso no te crees las palabras que Odín te concedió?"
     },
     "PcdiDA": {
         "ko": "[환영의 서 제 3권]\n<FONT COLOR = 4D4DFF><FONT SIZE = 16><B>말씀과 가르침을 믿고 따르기 전에 오딘님의 존재 자체를 믿는 것이 중요할지니...</FONT></FONT></B>",
         "en": "[Book of Illusion Vol. 3]\n<FONT COLOR = 4D4DFF><FONT SIZE = 16><B>Before believing in and following His words and teachings, it is important to believe in Odin's very existence...</FONT></FONT></B>",
-        "pt": "[Livro das Ilusões, Volume 3]\n<FONT COLOR = 4D4DFF><FONT SIZE = 16><B>Antes de acreditar e seguir as palavras e os ensinamentos, é importante acreditar na própria existência de Odin...</FONT></FONT></B>",
+        "pt": "[Livro das Ilusões, Volume 3]\n<FONT COLOR = 4D4DFF><FONT SIZE = 16><B>Antes de acreditar e seguir suas palavras e seus ensinamentos, é importante acreditar na própria existência de Odin...</FONT></FONT></B>",
         "es": "[Libro de las Visiones, Tomo 3]\n<FONT COLOR = 4D4DFF><FONT SIZE = 16><B>Antes de creer y seguir las palabras y las enseñanzas, es importante creer en la existencia misma de Odín...</FONT></FONT></B>"
     },
     "PsdiDA": {
         "ko": "[환영의 서 제 3권]\n오딘님의 말씀에 따라 행동하였을 때 얻어지는 은혜는 우리가 발견하기 쉽다.",
         "en": "[Book of Illusion Vol. 3]\nThe blessings gained by acting according to Odin's words are easy for us to discover.",
-        "pt": "[Livro das Ilusões, Volume 3]\nÉ fácil percebermos as bênçãos que recebemos quando agimos de acordo com as palavras de Odin.",
+        "pt": "[Livro das Ilusões, Volume 3]\nTodos acreditamos nas bênçãos que recebemos de Odin pois é fácil vê-las acontecendo.",
         "es": "[Libro de las Visiones, Tomo 3]\nEs fácil ver las bendiciones que recibimos cuando actuamos de acuerdo con las palabras de Odín."
     },
     "P8diDA": {
@@ -776,7 +776,7 @@
     "QcdiDA": {
         "ko": "[환영의 서 제 3권]\n하지만 진정으로 오딘님의 말씀에 닿기 위해서는 오딘님의 존재 자체에 대한 믿음과 확인이 필요한 것이다.",
         "en": "[Book of Illusion Vol. 3]\nBut to truly reach Odin's words, you must have faith in His very existence and confirmation of it.",
-        "pt": "[Livro das Ilusões, Volume 3]\nMas, para realmente alcançar as palavras de Odin, é preciso ter fé e ter certeza da própria existência de Odin.",
+        "pt": "[Livro das Ilusões, Volume 3]\nMas, para realmente alcançar as palavras de Odin, é preciso ter fé e a certeza da própria existência de Odin.",
         "es": "[Libro de las Visiones, Tomo 3]\nPero para llegar de verdad a las palabras de Odín, se necesita fe y estar seguro de su existencia."
     },
     "QsdiDA": {
@@ -788,31 +788,31 @@
     "Q8diDA": {
         "ko": "[환영의 서 제 3권]\n당신은 그것을 구별해 낼 수 있는가?",
         "en": "[Book of Illusion Vol. 3]\nCan you distinguish these two?",
-        "pt": "[Livro da Ilusão, Volume 3]\nVocê consegue distinguir isso?",
+        "pt": "[Livro da Ilusão, Volume 3]\nVocê consegue ver a diferença?",
         "es": "[Libro de las Visiones, Tomo 3]\n¿Eres capaz de distinguirlos?"
     },
     "RMdiDA": {
         "ko": "[환영의 서 제 3권]\n신은 보이지 않으나 악마는 보인다. 악마의 존재... 그것은 신에 대한 믿음을 방해하는 것일지니...",
         "en": "[Book of Illusion Vol. 3]\nGod is invisible, but demons aren't. And demons interfere with our faith in Him.",
-        "pt": "[Livro das Ilusões, Volume 3]\nDeus é invisível, mas demônios não. E a existência do demônio interfere em nossa fé em Deus...",
+        "pt": "[Livro das Ilusões, Volume 3]\nDeus é invisível, mas demônios não são. E a existência do demônio interfere em nossa fé em Deus...",
         "es": "[Libro de las Visiones, Tomo 3]\nDios no es visible, pero el demonio sí lo es. La existencia del demonio... eso es lo que obstaculiza la fe en Dios..."
     },
     "RcdiDA": {
         "ko": "[환영의 서 제 3권]\n악마의 형상을 가진 환영이 존재한다고 하면 당신은 그것으로부터 온전하게 벗어날 수 있는가?",
         "en": "[Book of Illusion Vol. 3]\nIf you see an image of a demon, can you remain unaffected by it?",
-        "pt": "[Livro das Ilusões, Volume 3]\nSe existisse uma ilusão com a forma de um demônio, você conseguiria se livrar dela completamente?",
+        "pt": "[Livro das Ilusões, Volume 3]\nSe uma ilusão em forma de demônio aparecesse bem à sua frente, você conseguiria se manter íntegro?",
         "es": "[Libro de las Visiones, Tomo 3]\nSi existiera una ilusión con forma de demonio, ¿podrías liberarte por completo de ella?"
     },
     "RsdiDA": {
         "ko": "네, 가능합니다.",
         "en": "Yes, it is possible.",
-        "pt": "Sim, é possível.",
+        "pt": "Sim, eu consigo.",
         "es": "Sí, es posible."
     },
     "R8diDA": {
         "ko": "불가능합니다.",
         "en": "It is impossible.",
-        "pt": "Não é possível.",
+        "pt": "Não consigo...",
         "es": "No es posible."
     },
     "SMdiDA": {
@@ -836,13 +836,13 @@
     "S8diDA": {
         "ko": "[환영의 서 제 3권]\n진정 그 곳으로의 입장을 원한다면 다시 본 서를 읽어주기를 바란다.",
         "en": "[Book of Illusion Vol. 3]\nIf you truly wish to enter that place, please read this book again.",
-        "pt": "[Livro das Ilusões, Volume 3]\nSe realmente desejas entrar naquele lugar, leia este livro novamente.",
+        "pt": "[Livro das Ilusões, Volume 3]\nSe realmente deseja entrar naquele lugar, leia este livro novamente.",
         "es": "[Libro de las Visiones, Tomo 3]\nSi de verdad deseas entrar en ese lugar, vuelve a leer este libro."
     },
     "TMdiDA": {
         "ko": "[환영의 서 제 3권]\n준비가 되면 다시 찾아와주길 바란다.",
         "en": "[Book of Illusion Vol. 3]\nCome back when you're ready.",
-        "pt": "[Livro das Ilusões, Volume 3]\nQuando estiveres confiante, retorne aqui.",
+        "pt": "[Livro das Ilusões, Volume 3]\nQuando se sentir pronto, volte aqui.",
         "es": "[Libro de las Visiones, Tomo 3]\nVuelve cuando todo esté listo."
     }
 }

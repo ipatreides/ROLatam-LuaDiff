@@ -267,7 +267,9 @@ StateIconImgList = {
 		[EFST_IDs.EFST_C_BUFF_3] = "Resist_Elemental_Water.tga",
 		[EFST_IDs.EFST_C_BUFF_4] = "Resist_Elemental_Wind.tga",
 		[EFST_IDs.EFST_C_BUFF_5] = "Resist_Elemental_Saint.tga",
-		[EFST_IDs.EFST_C_BUFF_6] = "Resist_Elemental_Poison.tga"
+		[EFST_IDs.EFST_C_BUFF_6] = "Resist_Elemental_Poison.tga",
+		[EFST_IDs.EFST_C_BUFF_16] = "mvpcard_mistress.TGA",
+		[EFST_IDs.EFST_C_BUFF_17] = "glastheim_atk.TGA"
 	},
 	[PRIORITY_GREEN] = {
 		[EFST_IDs.EFST_SET_NUM_DEF] = "SETDEF.TGA",

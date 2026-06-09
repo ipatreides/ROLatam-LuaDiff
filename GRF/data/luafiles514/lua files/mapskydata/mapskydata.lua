@@ -1,4 +1,35 @@
 MapSkyData = {
+	["clb_kuma.rsw"] = {
+		BG_Color = {
+			163,
+			217,
+			250
+		},
+		Star_Effect = false,
+		BG_Fog = true,
+		Cloud_Effect = {
+			[1] = {
+				Num = 500,
+				CullDist = 200,
+				Color = {
+					255,
+					255,
+					255
+				},
+				Size = 20,
+				Size_Extra = 20,
+				Expand_Rate = 0.05,
+				Alpha_Inc_Time = 80,
+				Alpha_Inc_Time_Extra = 50,
+				Alpha_Inc_Speed = 1,
+				Alpha_Dec_Time = 300,
+				Alpha_Dec_Time_Extra = 200,
+				Alpha_Dec_Speed = 0.5,
+				Height = 200,
+				Height_Extra = 10
+			}
+		}
+	},
 	["jor_crk_p.rsw"] = {
 		BG_Color = {
 			7,

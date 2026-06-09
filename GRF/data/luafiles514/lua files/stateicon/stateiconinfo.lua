@@ -10559,3 +10559,37 @@ StateIconList[EFST_IDs.EFST_NIGHTMARE] = {
 		}
 	}
 }
+StateIconList[EFST_IDs.EFST_C_BUFF_16] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{
+			"맛있는 버프",
+			COLOR_TITLE_BUFF
+		},
+		{"%s", COLOR_TIME},
+		{
+			"일반형 적에게 주는 물리/마법 데미지 증가."
+		},
+		{
+			"보스형 몬스터에게 주는 물리/마법 데미지 증가."
+		}
+	}
+}
+StateIconList[EFST_IDs.EFST_C_BUFF_17] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{
+			"신선한 버프",
+			COLOR_TITLE_BUFF
+		},
+		{"%s", COLOR_TIME},
+		{
+			"모든 종족 몬스터에게 주는 물리/마법 데미지 증가."
+		},
+		{
+			"(플레이어 제외)"
+		}
+	}
+}

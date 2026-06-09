@@ -1,86 +1,86 @@
 {
     "AHOKDA": {
         "ko": "노학자",
-        "en": "Old Scholar",
-        "pt": "Erudito",
+        "en": "Elder Scholar",
+        "pt": "Ancião Erudito",
         "es": "Anciano Erudito"
     },
     "AXOKDA": {
         "ko": "[노학자]\n연구를 더 하고 싶지만 정말로 목숨이 위험한 곳이면...",
-        "en": "[Old Scholar]\nI'd love to study further, but if that place is so dangerous...",
+        "en": "[Elder Scholar]\nI would love to research further, but if my life is at risk in that place...",
         "pt": "[Erudito]\nEu gostaria de continuar pesquisando, mas se for um lugar onde minha vida corre risco...",
         "es": "[Anciano Erudito]\nMe gustaría seguir investigando, pero si se trata de un lugar donde mi vida corre peligro..."
     },
     "AnOKDA": {
         "ko": "[노학자]\n아무래도 강하고 성실한 모험가를 고용하는 수밖에 없는가. 흐음...",
-        "en": "[Old Scholar]\nI suppose I have no choice but to hire a strong, reliable adventurer. Hm...",
-        "pt": "[Velho Erudito]\nAcho que não tenho outra escolha a não ser contratar um aventureiro forte e dedicado. Hmm...",
-        "es": "[Anciano Erudito]\nSupongo que no me queda más remedio que contratar a un aventurero fuerte y honesto. Hmm..."
+        "en": "[Elder Scholar]\nI suppose I have no choice but to hire a strong, reliable adventurer. Hm...",
+        "pt": "[Ancião Erudito]\nAcho que não tenho outra escolha a não ser contratar um viajante forte e dedicado. Hmm...",
+        "es": "[Anciano Erudito]\nSupongo que no me queda más remedio que contratar a un trotamundos fuerte y honesto. Hmm..."
     },
     "A3OKDA": {
         "ko": "[노학자]\n200레벨 정도면 충분할 것 같은데... 말은 쉽지만 그렇게 쉽게 찾을 수 있는 인재가 아니구만.",
-        "en": "[Old Scholar]\nLevel 200 should be sufficient... Easier said than done, though. Finding someone like that isn't so simple.",
-        "pt": "[Velho Erudito]\nAlguém por volta do nível 200 deve bastar... É fácil falar, mas não é tão fácil assim encontrar um talento assim.",
-        "es": "[Anciano Erudito]\nUn nivel 200 debería bastar... Es fácil decirlo, pero no es tan fácil encontrar a alguien así."
+        "en": "[Elder Scholar]\nSomeone above Level 200 should be sufficient... Easier said than done, though. Finding such talent isn't so simple.",
+        "pt": "[Ancião Erudito]\nAlguém por volta do Nível 200 deve bastar... É fácil falar, mas não é tão fácil encontrar um talento assim.",
+        "es": "[Anciano Erudito]\nAlguien de Nivel 200 debería ser suficiente... Es fácil decirlo, pero no es tan fácil encontrar un talento así."
     },
     "BHOKDA": {
         "ko": "[노학자]\n오오, 이런. 이럴 수가. 그렇게 찾던 강하고 성실한 모험가가 여기에 나타나 주었군.\n혹시 자네, 내 연구를 도와줄 생각이 있는가?",
-        "en": "[Old Scholar]\nOoh! Today must be my lucky day! The strong, reliable adventurer I've been waiting for has finally shown up!\nHey, kind adventurer. Could you help me with my research?",
-        "pt": "[Erudito]\nOpa, que surpresa. Não acredito. O aventureiro forte e dedicado que eu tanto procurava apareceu bem aqui.\nPor acaso, você tem vontade de me ajudar na minha pesquisa?",
-        "es": "[Anciano Erudito]\n¡Vaya! ¡No puede ser! El aventurero fuerte y honesto que tanto buscaba ha aparecido aquí.\n¿Por casualidad, tú, tendrías ganas de ayudarme con mi investigación?"
+        "en": "[Elder Scholar]\nOh my, I can't believe it! The strong, reliable adventurer I've been looking for has finally shown up.\nWould you be interested in helping with my research?",
+        "pt": "[Ancião Erudito]\nMinha nossa! Não acredito! O viajante dotado de força e dedicação que eu tanto procurava finalmente apareceu.\nPor acaso, você teria vontade de ajudar com a minha pesquisa?",
+        "es": "[Anciano Erudito]\n¡Vaya! ¡No puede ser! El trotamundos lleno de fuerza y dedicación que tanto busqué por fin apareció.\n¿Por casualidad, tendría ganas de ayudar con mi investigación?"
     },
     "BXOKDA": {
         "ko": "의뢰를 들어본다.",
-        "en": "Listen to her request.",
-        "pt": "Aceito a missão.",
-        "es": "Escucho la propuesta."
+        "en": "Listen to the request.",
+        "pt": "Ouvir a proposta.",
+        "es": "Escuchar la propuesta."
     },
     "BnOKDA": {
         "ko": "수상해...",
-        "en": "Suspicious...",
-        "pt": "Suspeito...",
-        "es": "Me da mala espina..."
+        "en": "It seems suspicious...",
+        "pt": "Achei meio suspeito...",
+        "es": "Me parece sospechoso..."
     },
     "B3OKDA": {
         "ko": "[노학자]\n자네의 실력을 한 눈에 알아본 내 눈썰미를 봐서라도 그러지 말고 부디...!\n...?\n뭐? 도와주겠다고?",
-        "en": "[Old Scholar]\nFor the sake of my keen eye that recognized your skill at a glance, please don't do this...!...?\n\nWhat? You want to help?",
-        "pt": "[Erudito]\nPelo menos por causa da minha perspicácia em reconhecer a tua habilidade à primeira vista, não faças isso e, por favor...!\n...?\nO quê? Vais ajudar?",
-        "es": "[Anciano Erudito]\n¡Por mi buen ojo, que ha sabido reconocer tu destreza de un solo vistazo, no lo rechaces y, por favor...!\n...?\n¿Qué? ¿Que vas a ayudarme?"
+        "en": "[Elder Scholar]\nFor the sake of my keen eye that recognized your skills at one glance, please, don't do this!\nWhat? Are you going to help me?",
+        "pt": "[Ancião Erudito]\nPelo bem dos meus olhos perspicazes em reconhecer as suas habilidades à primeira vista, não faça isso, por favor!\nO quê? Você vai me ajudar?",
+        "es": "[Anciano Erudito]\n¡Por el bienestar de mis ojos perceptivos, que han sabido reconocer tu destreza de un solo vistazo, no lo haga, por favor!\n¿Qué? ¿Que va a ayudarme?"
     },
     "CHOKDA": {
         "ko": "[노학자]\n아니, 그게 말이야... 다들 거절하는 바람에 매달리는 말이 입에 붙어 버렸구만.\n협력에 감사하네.",
-        "en": "[Old Scholar]\nNo, it's just that... everyone keeps refusing, so begging has become second nature.\nThank you for your help.",
-        "pt": "[Erudito]\nNão, quer dizer... Como todo mundo recusa, essa frase de insistência já ficou na minha boca.\nAgradeço a tua colaboração.",
-        "es": "[Anciano Erudito]\nNo, es que... Como todos se negaban, se me quedó pegada esa frase de insistir.\nTe agradezco tu colaboración."
+        "en": "[Elder Scholar]\nNo, it's just that... As everyone kept refusing, I got used to begging.\nThank you for your cooperation.",
+        "pt": "[Ancião Erudito]\nNão, é que... Como todo mundo recusa, já me acostumei a implorar.\nAgradeço a sua colaboração.",
+        "es": "[Anciano Erudito]\nNo, es que... Como todos se negaban, ya me acostumbré a suplicar.\nLe agradezco su colaboración."
     },
     "CXOKDA": {
         "ko": "아직 협력한다고는...",
         "en": "I never said I'd help...",
-        "pt": "Ainda não disse que vou colaborar...",
-        "es": "Todavía no he dicho que vaya a colaborar..."
+        "pt": "Ainda não disse que ia colaborar...",
+        "es": "Todavía no dije que iba a colaborar..."
     },
     "CnOKDA": {
         "ko": "[노학자]\n자자, 그게 말이야. 자네 정도의 실력자라면 당연히 니플헤임에 갔다 올 수 있겠지.\n물론 나는 그냥도 갈 날이 얼마 남지 않았지만 아직은 때가 아닌 데다 돌아올 수 없어서 말이야.",
-        "en": "[Old Scholar]\nWell, well, that's the thing. Someone of your caliber should certainly be able to go to Nifflheim and return.\nOf course, my time is running out anyway, but it's not yet my time, and I couldn't come back.",
-        "pt": "[Erudito]\nOra, ora, o que eu quero dizer é o seguinte. Alguém com o teu nível de habilidade certamente conseguiria ir até Niflheim e voltar.\nÉ claro que, para mim, não falta muito para eu partir, mas ainda não é a hora certa e, além disso, eu não poderia voltar.",
-        "es": "[Anciano Erudito]\nVamos, vamos, es que... Alguien con tu nivel de habilidad, por supuesto, podría ir y venir de Niflheim sin problemas.\nClaro que a mí ya no me queda mucho tiempo, pero aún no es mi hora, además, no podría regresar."
+        "en": "[Elder Scholar]\nWell, but someone of your caliber should certainly be able to go to Niflheim and return safely.\nOf course, my time is running out, but it's not my time yet. Besides, I wouldn't be able to come back.",
+        "pt": "[Ancião Erudito]\nBom, mas alguém do seu nível de habilidade deveria ser capaz de ir e voltar de Niflheim sem problemas.\nÉ claro, não falta muito para eu partir, mas ainda não chegou a hora. Além disso, eu não conseguiria voltar.",
+        "es": "[Anciano Erudito]\nPues bien, pero alguien de su nivel de habilidad debería poder ir y venir de Niflheim sin problemas.\nClaro, ya no queda mucho para que me vaya, pero aún no llegó la hora. Además, yo no podría regresar."
     },
     "C3OKDA": {
         "ko": "[노학자]\n최근에 찾은 자료에 의하면... 니플헤임 어둠 속 깊은 곳에서 망자들이 연회를 연다는군.\n우리가 상상할 수 없는 형태로.\n그런데 그것에 대한 자세한 이야기를 들을 곳이 없어.",
-        "en": "[Old Scholar]\nAccording to some documents I've discovered lately, the dead are holding a banquet in the depths of that dark place,\nand it's like nothing we can imagine.\nI'd love to know more about it, but there's nowhere to hear the details.",
-        "pt": "[Erudito]\nDe acordo com dados recentes que encontrei... dizem que, nas profundezas das trevas de Niflheim, os mortos realizam um banquete.\nDe formas que nem conseguimos imaginar.\nMas não tenho onde ouvir detalhes sobre isso.",
-        "es": "[Anciano Erudito]\nSegún unos datos que encontré hace poco... dicen que en las profundidades de Niflheim, los muertos celebran un banquete.\nDe una forma que ni nos podemos imaginar.\nPero no tengo dónde conseguir más detalles sobre eso."
+        "en": "[Elder Scholar]\nAccording to the documents I've discovered recently, the dead are holding a banquet in the darkest depths of Niflheim,\nand it's something beyond our imagination.\nHowever, I have no means to obtain more details about it.",
+        "pt": "[Ancião Erudito]\nDe acordo com documentos recentes que encontrei, os mortos costumam dar um banquete nas trevas mais profundas de Niflheim, e de uma maneira que vai muito além da nossa imaginação.\nMas não tenho meios de conseguir mais detalhes a respeito.",
+        "es": "[Anciano Erudito]\nSegún documentos recientes que encontré, los muertos ofrecen un banquete en la oscuridad más profunda de Niflheim, y de una forma que supera por completo nuestra imaginación.\nPero no tengo medios para obtener más detalles al respecto."
     },
     "DHOKDA": {
         "ko": "[노학자]\n어차피 얼마 지나지 않으면 알게 되겠지만, 지금 궁금하단 말이야.\n좀 알아봐 줄 수 없을까? 사례는 넉넉히 하겠네.",
-        "en": "[Old Scholar]\nI'm sure I'll find out soon enough, but I'm impatient.\nCould you look into this banquet of the dead for me? I'll reward you handsomely.",
-        "pt": "[Erudito]\nDe qualquer forma, em breve descobriremos, mas estou curioso agora.\nVocê poderia dar uma olhada nisso? A recompensa será generosa.",
-        "es": "[Anciano Erudito]\nDe todos modos, lo sabré en poco tiempo, pero es que tengo curiosidad ahora mismo.\n¿Podrías averiguar algo? Te daré una buena recompensa."
+        "en": "[Elder Scholar]\nI'm sure we'll find out soon enough, but I'm curious right now.\nCould you investigate this for me? I'll reward you handsomely.",
+        "pt": "[Ancião Erudito]\nSem dúvida descobriremos em breve, mas estou curioso agora.\nVocê poderia dar uma investigada nisso? A recompensa será generosa.",
+        "es": "[Anciano Erudito]\nSin duda lo sabremos pronto, pero es que tengo curiosidad ahora mismo.\n¿Podrías investigarlo? La recompensa será generosa."
     },
     "DXOKDA": {
         "ko": "그 정도야. 다녀오면 되죠?",
-        "en": "That's no big deal. I'll just go and come back, right?",
-        "pt": "Isso é o mínimo. Posso ir dar uma olhada?",
+        "en": "That's no big deal. I just have to go and come back, right?",
+        "pt": "Não é nada demais. É só ir e voltar, né?",
         "es": "No es para tanto. ¿Me voy y vuelvo, no?"
     },
     "DnOKDA": {
@@ -91,63 +91,63 @@
     },
     "D3OKDA": {
         "ko": "[가림 스프링필드]\n고맙구만. 그러고보니 내 소개를 깜박했네.\n나는 가림 스프링필드라고 한다.\n세이지 캐슬에서 오래 근무했는데... 지금은 정년퇴직하고 여기서 여가를 보낼 겸 의뢰도 넣을 겸...",
-        "en": "[Garim Springfield]\nThank you. Oh, I forgot to introduce myself.\nMy name is Garim Springfield.\nI used to work at Sage Castle for a long time before I retired. Now, I'm here to enjoy my leisure time and take on requests...",
-        "pt": "[Garim Springfield]\nObrigado. Agora que penso nisso, esqueci de me apresentar.\nMeu nome é Garim Springfield.\nTrabalhei por muito tempo no Castelo de Sage... Agora que me aposentei, vim para cá para aproveitar o tempo livre e, de quebra, aceitar alguns trabalhos...",
-        "es": "[Garam Springfield]\nTe lo agradezco. Ahora que lo pienso, olvidé presentarme.\nMe llamo Garam Springfield.\nTrabajé durante muchos años en el Castillo del Sabio... pero ahora ya me jubilé. Estoy aquí pasando mi tiempo libre y, de paso, aceptar encargos..."
+        "en": "[Garim Springfield]\nThank you. Oh, I forgot to introduce myself.\nMy name is Garim Springfield.\nI used to work at Sage Castle for a long time. Now that I am retired, I came here to enjoy my free time and submit requests.",
+        "pt": "[Garim Springfield]\nObrigado. Agora que percebi, esqueci de me apresentar.\nMeu nome é Garim Springfield.\nTrabalhei por muito tempo no Castelo de Sage. Agora que me aposentei, vim para cá para aproveitar meu tempo livre e fazer solicitações.",
+        "es": "[Garim Springfield]\nLe agradezco. Ahora que lo pienso, olvidé presentarme.\nMe llamo Garim Springfield.\nTrabajé durante muchos años en el Castillo de Sage. Ahora que me jubilé, vení acá para disfrutar de mi tiempo libre y hacer solicitudes."
     },
     "EHOKDA": {
         "ko": "[{0}]\n한가하게...",
-        "en": "[{0}]\nIn leisure...",
-        "pt": "[{0}]\nCom calma...",
-        "es": "[{0}]\nTranquilo..."
+        "en": "[{0}]\nFree time, huh...",
+        "pt": "[{0}]\nTempo livre, é? Hm...",
+        "es": "[{0}]\n¿Tiempo libre, eh? Mmm..."
     },
     "EXOKDA": {
         "ko": "[가림 스프링필드]\n그래. 한가하다네.\n한가한 늙은이 소원 좀 들어 주게.\n그럼 좋은 소식 기다리겠어.",
-        "en": "[Garim Springfield]\nYes. So leisurely.\nYou'll help out this leisurely old man, won't you?\nOkay, then I'll look forward to the good news.",
-        "pt": "[Garam Springfield]\nÉ. Estou de folga.\nAtende o pedido de um velho de folga.\nEntão, vou ficar esperando boas notícias.",
-        "es": "[Garam Springfield]\nAsí es, no tengo nada que hacer.\nPor favor, concédele un deseo a este viejo aburrido.\nEntonces, esperaré buenas noticias."
+        "en": "[Garim Springfield]\nYes, I have free time.\nPlease, grant the request of this idle old man, will you?\nI am looking forward to your good news.",
+        "pt": "[Garim Springfield]\nSim, tenho tempo livre.\nPor favor, atenda o pedido desse velho ocioso, sim?\nEstarei à espera de boas notícias de sua parte.",
+        "es": "[Garim Springfield]\nAsí es, tengo tiempo libre.\nPor favor, concédele un deseo a este viejo desocupado, ¿vale?\nEspero recibir buenas noticias suyas."
     },
     "EnOKDA": {
         "ko": "[노학자]\n자네 정도의 실력에 못 돌아올 거라고는 자네도 생각하지 않겠지만...\n그래도 그렇게 신중하다면, 알겠어. 준비가 되면 다시 오게.",
-        "en": "[Old Scholar]\nI don't think you really think you can't make it back, considering how good you are,\nbut still, if you're worried, I understand. Just know the offer is still on the table.",
-        "pt": "[Erudito]\nCom o teu nível de habilidade, acho que nem tu achas que não conseguirás voltar...\nMas se és tão cauteloso assim, tudo bem. Volta quando estiveres pronto.",
-        "es": "[Anciano Erudito]\nCon alguien de tu nivel, dudo que tú mismo pienses que no vas a poder regresar...\nPero si eres tan precavido, lo entiendo. Vuelve cuando estés listo."
+        "en": "[Garim Springfield]\nConsidering your level, I don't think you believe you won't be able to come back...\nBut if you're this careful, I understand. Come to me when you are ready.",
+        "pt": "[Garim Springfield]\nCom o seu nível de habilidade, acho que nem você acredita que não conseguirá voltar...\nMas se prefere ter mais cautela, tudo bem. Volte quando estiver pronto.",
+        "es": "[Garim Springfield]\nCon tu nivel de habilidad, Creo que ni tu mismo crees que no podrás regresar...\nPero si prefieres ser más cauteloso, no pasa nada. Vuelve cuando estés listo."
     },
     "E3OKDA": {
         "ko": "[노학자]\n자네의 실력을 한 눈에 알아본 내 눈썰미를 봐서라도 어떻게 좀 해 주게...!",
-        "en": "[Old Scholar]\nPlease. I knew you were strong the moment I laid my eyes on you. Please, help!",
-        "pt": "[Erudito]\nPelo menos por causa da minha perspicácia em reconhecer a tua habilidade de relance, faz algo por mim...!",
-        "es": "[Anciano Erudito]\n¡Hazlo por mí, aunque sea en honor al buen ojo que tuve para reconocer tu talento a primera vista...!"
+        "en": "[Garim Springfield]\nFor the sake of my keen eyes recognizing your skills, please, do something for me!",
+        "pt": "[Garim Springfield]\nAinda que seja pela minha perspicácia em reconhecer as suas habilidades, faça algo por mim!",
+        "es": "[Garim Springfield]\nAl menos por mi perspicacia para reconocer sus habilidades, ¡hazlo por mí!"
     },
     "FHOKDA": {
         "ko": "[가림 스프링필드]\n뭐 하나? 얼른 가지 않고.",
         "en": "[Garim Springfield]\nWhat are you still doing here? Go!",
-        "pt": "[Garam Springfield]\nO que foi? Não vai logo?",
-        "es": "[Garam Springfield]\n¿Qué pasa? ¿No te vas ya?"
+        "pt": "[Garim Springfield]\nO que foi? Não vai logo?",
+        "es": "[Garim Springfield]\n¿Qué pasa? ¿No te vas ya?"
     },
     "FXOKDA": {
         "ko": "[가림 스프링필드]\n으응? 설마 정말로 니플헤임 깊은 곳 대연회장을 찾아갔단 말인가?\n살아서 돌아왔다고?\n좋았어, 그럼 이야기를 좀 들려주게.",
-        "en": "[Garim Springfield]\nWhat? Did you really go to the grand banquet hall in the depths of Nifflheim?\nAnd you came back alive?\nHow amazing! I can't wait to hear your story!",
-        "pt": "[Garim Springfield]\nHã? Não me diga que você realmente foi até o Grande Salão de Festas nas profundezas de Niflheim?\nE voltou vivo?\nÓtimo, então me conte um pouco sobre isso.",
-        "es": "[Garam Springfield]\n¿Eh? ¿De verdad fuiste hasta el Gran Salón de Banquetes en las profundidades de Niflheim?\n¿Y regresaste con vida?\nGenial, entonces cuéntame un poco sobre eso."
+        "en": "[Garim Springfield]\nWhat? Did you really go to the Grand Banquet Hall in the depths of Niflheim?\nAnd you came back alive?\nHow amazing! I can't wait to hear your story!",
+        "pt": "[Garim Springfield]\nHã? Não me diga que você realmente foi até o Salão de Banquete nas profundezas de Niflheim?\nE voltou com vida?\nIncrível! Quero ouvir a sua história!",
+        "es": "[Garim Springfield]\n¿Eh? ¿De verdad fuiste hasta el Salón de Banquetes en las profundidades de Niflheim?\n¿Y regresaste con vida?\n¡Genial, pues cuéntame la historia!"
     },
     "FnOKDA": {
         "ko": "[가림 스프링필드]\n흠 흠... 알겠네!\n이렇게 예습을 했으니 나중에 가게 돼도 무섭지 않겠군!",
-        "en": "[Garim Springfield]\nHmm... Hm... I see.\nNow that I know what I can expect, I'm not scared to go there anymore.",
-        "pt": "[Garam Springfield]\nHum, hum... Entendi!\nAgora que fiz essa pré-preparação, não vou ter medo mesmo que tenha que ir lá mais tarde!",
-        "es": "[Garam Springfield]\nMmm... ¡Ya veo!\n¡Con esta preparación previa, no tendré miedo si tengo que ir más adelante!"
+        "en": "[Garim Springfield]\nHmm... Hm... I see.\nNow that I know what to expect, I won't be scared if I have to go there later!",
+        "pt": "[Garim Springfield]\nAham, aham... Entendi!\nAgora que já sei o que esperar, não vou ter medo se acabar indo lá depois!",
+        "es": "[Garim Springfield]\nAjá, ajá... Lo entiendo!\nAhora que ya sé qué me espera, ¡no me dará miedo ir allí después!"
     },
     "F3OKDA": {
         "ko": "[가림 스프링필드]\n연구는 영원히 지속될 것이야...!",
-        "en": "[Garim Springfield]\nResearch will continue forever...!",
-        "pt": "[Garam Springfield]\nA pesquisa vai durar para sempre...!",
-        "es": "[Garam Springfield]\n¡La investigación durará para siempre...!"
+        "en": "[Garim Springfield]\nThe research will continue forever!",
+        "pt": "[Garim Springfield]\nA pesquisa vai durar para sempre!",
+        "es": "[Garim Springfield]\n¡La investigación durará para siempre!"
     },
     "GHOKDA": {
         "ko": "[가림 스프링필드]\n연구는 죽어서도 할 수 있을 것 같아서 처져 있던 기분이 나아졌다네.",
-        "en": "[Garim Springfield]\nKnowing I can continue my research even after death lifted my gloom.",
-        "pt": "[Garim Springfield]\nParece que vou poder continuar pesquisando mesmo depois de morrer, então meu humor, que estava meio pra baixo, melhorou.",
-        "es": "[Garam Springfield]\nMe sentí mejor al pensar que podría seguir investigando incluso después de morir."
+        "en": "[Garim Springfield]\nKnowing I can continue my research even after death lifted my mood.",
+        "pt": "[Garim Springfield]\nSaber que vou poder continuar pesquisando mesmo depois de morrer até melhorou o meu humor.",
+        "es": "[Garim Springfield]\nSaber que podré seguir investigando aún después de morir me levantó el ánimo."
     },
     "GXOKDA": {
         "ko": "신난 첼로",
@@ -159,7 +159,7 @@
         "ko": "춤추는 첼로",
         "en": "Dancing Cello",
         "pt": "Violoncelo Dançante",
-        "es": "Cello Bailarín"
+        "es": "Violonchelo Bailarín"
     },
     "G3OKDA": {
         "ko": "조용한 첼로",
@@ -199,45 +199,45 @@
     },
     "IXOKDA": {
         "ko": "쨍그랑 땡강... 와사삭!",
-        "en": "Clang! Clang! Clang! Clang! Clang! Clang! Clang! Clang! Clang! Clang! Clang! Clang! Clang! Clang! Clang! Clang! Clang! Clang! Clang! Clang! Clang! Clang",
-        "pt": "Tin-tin... Wasassak!",
+        "en": "Clink! Clank! Woosh!",
+        "pt": "Plim! Plom! Vuuush!",
         "es": "¡Tintineo, tintineo... y zas!"
     },
     "InOKDA": {
         "ko": "산 자다! 끼야악!",
         "en": "A living person! Kyaaah!",
-        "pt": "É o vivo! Aaaargh!",
-        "es": "¡Es un vivo! ¡Ay!"
+        "pt": "É uma pessoa viva! Aaaargh!",
+        "es": "¡Es una persona viva! ¡Aaaaaah!"
     },
     "I3OKDA": {
         "ko": "산 자가 피아노를 쳐!",
         "en": "That living person is playing piano!",
-        "pt": "O vivo está tocando piano!",
-        "es": "¡Un vivo está tocando el piano!"
+        "pt": "Tem uma pessoa viva tocando piano!",
+        "es": "¡Hay una persona viva tocando el piano!"
     },
     "JHOKDA": {
         "ko": "세상에, 정말 못 친다...",
-        "en": "Good heavens, they're such a terrible player...",
-        "pt": "Nossa, ele toca muito mal...",
-        "es": "Vaya, toca fatal..."
+        "en": "Oh my, they're such a terrible player...",
+        "pt": "Nossa, como toca mal...",
+        "es": "Vaya, ¡qué mal toca...!"
     },
     "JXOKDA": {
         "ko": "어쩜 저럴 수가...",
-        "en": "How can they do that?",
-        "pt": "Como é possível...",
-        "es": "¿Cómo es posible...?"
+        "en": "How's that possible?",
+        "pt": "Como é possível?",
+        "es": "¿Cómo es posible?"
     },
     "JnOKDA": {
         "ko": "분위기 다 망쳤어!",
         "en": "You ruined the mood!",
-        "pt": "Estragou todo o clima!",
+        "pt": "Estragou o clima!",
         "es": "¡Ha arruinado todo el ambiente!"
     },
     "J3OKDA": {
         "ko": "피아노오오!!!",
         "en": "Pianooooo!!!",
         "pt": "Pianooo!!!",
-        "es": "¡El pianooo!!!"
+        "es": "¡¡¡Pianooo!!!"
     },
     "KHOKDA": {
         "ko": "피아노가 기절했어...",
@@ -248,7 +248,7 @@
     "KXOKDA": {
         "ko": "아무 소리도 들리지 않았지만 주변의 망자들은 난리가 난 것 같다.\n밀라에게 보고하자.",
         "en": "I couldn't hear any noise, but the spirits around me are somehow on a rampage.\nI should report back to Milla.",
-        "pt": "Não ouvi nenhum som, mas parece que os mortos ao redor estão em polvorosa.\nVou contar para a Mila.",
+        "pt": "Não ouvi nenhum som, mas parece que os mortos ao redor estão em polvorosa.\nPreciso reportar para a Mila.",
         "es": "No se oía ningún ruido, pero parecía que los difuntos de los alrededores estaban armando un gran alboroto.\nVoy a informarle a Mila"
     },
     "KnOKDA": {
@@ -291,7 +291,7 @@
         "ko": "잠꼬대하는 유령",
         "en": "Sleep-talking Ghost",
         "pt": "O fantasma que fala dormindo",
-        "es": "Fantasma Sonámbulo"
+        "es": "Fantasma que habla dormido"
     },
     "MXOKDA": {
         "ko": "나도 먹을래... 맛있겠다...",
@@ -435,31 +435,31 @@
         "ko": "생긴 것만 귀여운 듯[200]",
         "en": "Looks cute but that's about it[200]",
         "pt": "Parece fofo só na aparência[200]",
-        "es": "Es bonito, pero eso es todo[200]"
+        "es": "Para nada adorable[200]"
     },
     "SXOKDA": {
         "ko": "생긴 건 귀여운데[200]",
         "en": "Looks Cute But[200]",
         "pt": "A aparência é fofa, mas...[200]",
-        "es": "Es bonito, pero...[200]"
+        "es": "Aspecto engañosamente adorable[200]"
     },
     "SnOKDA": {
         "ko": "그건 악기가 아니라니까[200]",
         "en": "I Said, Not a Musical Instrument![200]",
         "pt": "Isso não é um instrumento, tá?[200]",
-        "es": "Te digo que eso no es un instrumento[200]"
+        "es": "¡Dije que no era un instrumento musical![200]"
     },
     "S3OKDA": {
         "ko": "그건 악기가 아닌데[200]",
         "en": "It's not a musical instrument[200]",
         "pt": "Isso não é um instrumento[200]",
-        "es": "Eso no es un instrumento[200]"
+        "es": "No es un instrumento musical[200]"
     },
     "THOKDA": {
         "ko": "머리털 부시시한 애들[240]",
         "en": "Kids with Bushy Hair[240]",
         "pt": "Crianças com o cabelo todo despenteado [240]",
-        "es": "Chicos con el pelo revuelto [240]"
+        "es": "Niños con el pelo despeinado[240]"
     },
     "TXOKDA": {
         "ko": "머리 부시시한 애들[240]",
@@ -477,7 +477,7 @@
         "ko": "인형 달고 있는 애들[240]",
         "en": "Kids with Dolls[240]",
         "pt": "As crianças com bonecos pendurados[240]",
-        "es": "Los chicos con muñecos colgados[240]"
+        "es": "Niños con muñecas[240]"
     },
     "UHOKDA": {
         "ko": "[밀라]\n그래, 다시 와 줘서 고마워.\n하아암...\n나와 우리 이웃들의... 숙면을 위해.",
@@ -507,7 +507,7 @@
         "ko": "걔들 좀 깨워 줘[240]",
         "en": "Wake Them Up[240]",
         "pt": "Acorda esses caras [240]",
-        "es": "Despiértalos un poco [240]"
+        "es": "Despiértalos, por favor [240]"
     },
     "VXOKDA": {
         "ko": "품격 없는 층간소음(짧게)[240]",
@@ -537,7 +537,7 @@
         "ko": "[밀라]\n망자의 연회장에 출몰하는\n^0000FF고스트 큐브 15마리^000000와\n^0000FF루드갈 15마리^000000를 두들겨패서 하루짜리 성불을 시켜 줬으면 좋겠어.",
         "en": "[Milla]\nI wish you'd beat the crap out of\n^0000FF15 Ghost Quves^000000 and\n^0000FF15 Lude Gals^000000 that haunt the Banquet Hall of the Dead\nand grant them a day of peace.",
         "pt": "[Mila]\nGostaria que você espancasse\n^0000FF15 Quves Fantasmas^000000 e\n^0000FF15 Lude Gals^000000 que aparecem no Salão do Banquete dos Mortos\npara que eles encontrassem a paz por um dia.",
-        "es": "[Mila]\nMe gustaría que le dieras una buena paliza a\n^0000FF15 Quves Fantasmas^000000 y\n^0000FF15 Ludes Gals^000000 que aparecen en el salón de banquetes de los muertos para que descansen en paz por un día."
+        "es": "[Mila]\nMe gustaría que le dieras una buena paliza a\n^0000FF15 Quves Fantasmas^000000 y\n^0000FF15 Ludes Gals^000000 que aparecen en el Salón de Banquetes de los Muertos para que descansen en paz por un día."
     },
     "WnOKDA": {
         "ko": "수락한다.",
@@ -573,13 +573,13 @@
         "ko": "[밀라]\n오늘은 걔들은 충분히 집에 보낸 것 같아.\n시간 있으면 내일도 좀 도와 줬으면 좋겠어.",
         "en": "[Milla]\nI think I sent them home for good today.\nIf you have time, I'd appreciate your help again tomorrow.",
         "pt": "[Mila]\nAcho que hoje já mandei todos pra casa.\nSe tiver tempo, gostaria que me ajudasse amanhã também.",
-        "es": "[Mila]\nCreo que hoy ya los mandé a todos a casa.\nSi tienes tiempo, me gustaría que me ayudaras un poco mañana también."
+        "es": "[Mila]\nCreo que hoy ya los mandé a todos a casa.\nSi tienes tiempo, me gustaría que me ayudaras de nuevo mañana."
     },
     "YHOKDA": {
         "ko": "[밀라]\n음, 뭔가 이상한 걸 밟고 온 거 아니야?",
         "en": "[Mila]\nHmm, didn't you step on something weird on your way here?",
         "pt": "[Mila]\nHum, você não pisou em alguma coisa estranha ao vir para cá?",
-        "es": "[Mila]\nMmm, ¿no pisaste algo raro al venir?"
+        "es": "[Mila]\nMmm, ¿no habrás pisado algo raro al venir?"
     },
     "YXOKDA": {
         "ko": "[밀라]\n^0000FF브루탈 머더러^000000라고 있거든.\n걔네들 손에 들고 있는 칼...\n아무데나 두드리는 거 너무 시끄러워!",
@@ -591,7 +591,7 @@
         "ko": "[밀라]\n망자의 연회장에 출몰하는\n^0000FF브루탈 머더러 10마리^000000와\n걔네 짝꿍 ^0000FF간칸 10마리^000000를 두들겨패서 하루짜리 성불을 시켜 줬으면 좋겠어.",
         "en": "[Mila]\nI wish I could beat the crap out of\n^0000FF10 Brutal Murderers^000000\nand their buddies, ^0000FF10 Gan Ceanns^000000,\nwho show up at the Banquet Hall of the Dead,\nand send them to a day of enlightenment.",
         "pt": "[Mila]\nGostaria que você espancasse\n^0000FF10 Assassinos Brutais^000000 que aparecem no Salão do Banquete dos Mortos\ne seus parceiros, ^0000FF10 Gan Ceanns^000000,\npara que eles possam encontrar a paz por um dia.",
-        "es": "[Mila]\nMe gustaría que le dieras una paliza a los\n^0000FF10 Asesinos Brutales^000000 que aparecen en el Salón del Banquete de los Muertos\ny a sus compañeros, los ^0000FF10 Gan Ceanns^000000, para que puedan descansar en paz por un día."
+        "es": "[Mila]\nMe gustaría que le dieras una paliza a los\n^0000FF10 Asesinos Brutales^000000 que aparecen en el Salón de Banquete de los Muertos\ny a sus compañeros, los ^0000FF10 Gan Ceanns^000000, para que puedan descansar en paz por un día."
     },
     "Y3OKDA": {
         "ko": "[밀라]\n캬, 걔네 식칼하고 머리 투구 날아가는 소리 여기까지 들리던데?\n덕분에 오늘은 조금 더 깊게 잘 수 있을 것 같아...\n고마워.",
@@ -603,31 +603,31 @@
         "ko": "[밀라]\n거기 망자의 연회장 들어가 보면 피아노가 하나 있을 거야.\n그거 사실은 산 자가 두드리면 비명 지른다.\n재미있겠지?",
         "en": "[Milla]\nIf you go into the Hall of the Dead, there'll be a piano there.\nActually, if a living person plays it, it screams.\nSounds fun, right?",
         "pt": "[Mila]\nSe você entrar no Salão de Banquetes dos Mortos, vai encontrar um piano lá.\nNa verdade, se um vivo tocar nele, ele grita.\nVai ser divertido, né?",
-        "es": "[Mila]\nSi entras al salón de banquetes de los muertos, vas a encontrar un piano.\nLa verdad es que, si lo tocan los vivos, grita.\n¿No te parece divertido?"
+        "es": "[Mila]\nSi entras al Salón de Banquete de los Muertos, vas a encontrar un piano.\nLa verdad es que, si un vivo lo toca, el piano grita.\n¿No te parece divertido?"
     },
     "ZXOKDA": {
         "ko": "[밀라]\n망자의 연회장 안쪽에 있는\n<NAVI>[피아노]<INFO>nif_dun01,140,202,0,101,0</INFO></NAVI>를 좀 두드리다 와.\n딱히 신청곡같은 건 없어.",
         "en": "[Milla]\nGo inside the Hall of the Dead\nand play the piano.\n<NAVI>[Piano]<INFO>nif_dun01,140,202,0,101,0</INFO></NAVI>\nJust play it for a bit.\nNo specific requests or anything.",
         "pt": "[Mila]\nVai lá no fundo do Salão de Banquetes dos Mortos\n<NAVI>[Piano]<INFO>nif_dun01,140,202,0,101,0</INFO></NAVI> e toca um pouco nele.\nNão tem nenhuma música específica pra pedir.",
-        "es": "[Mila]\nVe al fondo del salón de banquetes de los muertos\n<NAVI>[Piano]<INFO>nif_dun01,140,202,0,101,0</INFO></NAVI> y dale unos toques.\nNo hay ninguna canción en particular que pedir."
+        "es": "[Mila]\nVe a tocar un rato el\n<NAVI>[piano]<INFO>nif_dun01,140,202,0,101,0</INFO></NAVI> que está en el interior del Salón de Banquete de los Muertos.\nNo es que tenga alguna canción en mente, toca lo que sea."
     },
     "ZnOKDA": {
         "ko": "[밀라]\n하하하, 너도 들었지? 그러게 술... 아니, 마력 퍼마시고 행패 부리면 그렇게 된다니까.\n덕분에 오늘은 조금 더 깊게 잘 수 있을 것 같아...\n고마워.",
         "en": "[Milla]\nHahaha, you heard that too? See what happens when you drink... I mean, overindulge in magic and cause trouble.\nThanks to you, I think I'll sleep a little deeper tonight...\nThanks.",
         "pt": "[Mila]\nHahaha, você também ouviu, né? É isso aí, se você beber... não, se você encher a cabeça de magia e sair por aí fazendo bagunça, é isso que acontece.\nGraças a isso, acho que hoje vou conseguir dormir um pouco mais profundamente...\nObrigada.",
-        "es": "[Mila]\nJajaja, ¿también lo oíste? Te lo dije, si te pasas con el alcohol... no, con la magia y te pones a armar jaleo, eso es lo que pasa.\nGracias a eso, parece que hoy voy a poder dormir un poco más profundamente...\nGracias."
+        "es": "[Mila]\nJajaja, ¿también lo oíste? Te lo dije, si te pasas con el alcohol... no, con la magia y te pones a armar jaleo, eso es lo que pasa.\nGracias a eso, parece que hoy voy a poder dormir un poco más profundamente...\nMuchas gracias."
     },
     "Z3OKDA": {
         "ko": "[밀라]\n흐음... 아니야.\n이건 아직 네게 맡기기엔 좀...\n네가 240레벨이 될 때까지 기다릴게.\n나에게는 금방이지만.",
         "en": "[Mila]\nHmm... No.\nThis is still a bit much to entrust to you...\nI'll wait until you reach level 240.\nIt'll be quick for me, though.",
         "pt": "[Mila]\nHum... Não.\nIsso ainda é um pouco cedo pra deixar nas tuas mãos...\nVou esperar até tu chegares ao nível 240.\nPra mim, isso vai ser rapidinho.",
-        "es": "[Mila]\nMmm... No.\nEsto todavía es un poco pronto para dejártelo a ti...\nEsperaré hasta que llegues al nivel 240.\nAunque para mí sea un santiamén."
+        "es": "[Mila]\nMmm... No, olvídalo.\nCreo que esto todavía es demasiado para ti...\nEsperaré hasta que llegues al nivel 240.\nAunque para mí sea un abrir y cerrar de ojos."
     },
     "aHOKDA": {
         "ko": "[밀라]\n^0000FF디스가이저^000000란 애들이 있단 말야.\n폭탄 맞은 것 같은 머리를 하고 있는데 엄청 신나 보이지.\n^0000FF블루 문 로리루리^000000라고, 빗자루같은 머리를 한 애들하고 여럿 모이면 그렇게 시끄러울 수가 없어.",
         "en": "[Mila]\nThere are these kids called ^0000FFDisguisers^000000.\nThey have hair like they got hit by a bomb, but they look super excited.\nWhen ^0000FFBlue Moon Loli Ruris^000000, the ones with broomstick hair, gather in groups, they get incredibly loud.",
         "pt": "[Mila]\nTem umas criaturas chamadas ^0000FFDisfarçados^000000.\nElas têm um cabelo que parece ter levado uma explosão, mas parecem superanimadas.\nE as ^0000FFLoli Ruri Azuis^000000, aquelas com cabelo tipo vassoura... quando se juntam em grupo, não dá pra acreditar como ficam barulhentas.",
-        "es": "[Mila]\nHay unos tipos llamados ^0000FFDisfrazadores^000000.\nTienen el pelo como si les hubiera caído una bomba, pero se ven súper emocionados.\nLas ^0000FFLoli Ruri Azules^000000, esos con el pelo como escobas, cuando se juntan muchos son increíblemente ruidosos."
+        "es": "[Mila]\nHay unas criaturas llamadas ^0000FFDisfrazadores^000000.\nTienen el pelo como si les hubiera caído una explosión encima, pero se ven súper emocionados.\nY las ^0000FFLoli Ruri Azules^000000, esas con el pelo tipo escoba... cuando se juntan en grupo, no te puedes imaginar lo ruidosas que se ponen."
     },
     "aXOKDA": {
         "ko": "[밀라]\n무너진 오페라 하우스에 출몰하는\n^0000FF디스가이저 15마리^000000와\n^0000FF블루 문 로리루리 15마리^000000에게 뜨거운 맛을 보여줬음 해.",
@@ -639,25 +639,25 @@
         "ko": "[밀라]\n무너진 오페라 하우스에 출몰하는\n^0000FF디스가이저 15마리^000000와\n^0000FF블루 문 로리루리 15마리^000000에게 뜨거운 맛을 보여줘서 집에 보내줬음 해.",
         "en": "[Mila]\nI hope you gave those 15 Disguisers^000000 and\n15 Blue Moon Loli Ruris^000000 haunting the collapsed opera house\na taste of their own medicine and sent them home.",
         "pt": "[Mila]\nMostrei a quem é que mandam\naos ^0000FF15 Disfarçados^000000 e\naos ^0000FF15 Loli Ruri Azuis^000000 que aparecem na Ópera em ruínas, e mandei-os de volta para casa.",
-        "es": "[Mila]\nLes di una buena lección a los\n^0000FF15 Disfrazadores^000000 y\n^0000FF15 Loli Ruri Azules^000000 que andan por la Ópera derruida, y los mandé de vuelta a casa."
+        "es": "[Mila]\nQuiero que vayas a la Ópera en Ruinas y les des su merecido a\n^0000FF15 Disfrazadores^000000 y a\n^0000FF15 Loli Ruri Azules^000000 para mandarlos de vuelta a casa."
     },
     "a3OKDA": {
         "ko": "[밀라]\n후후후, 폭탄머리 먼지터는 소리 여기까지 다 들리더라.\n덕분에 오늘은 푹 자겠는걸.\n고마워. 내일 또 부탁해.",
         "en": "[Milla]\nHehehe, I could hear the sound of that bomb-head dust-buster all the way over here.\nThanks to you, I'll sleep like a log tonight.\nThanks. See you tomorrow.",
         "pt": "[Mila]\nHuhuhuh, o barulho daquele cabeça-de-bomba explodindo chegou até aqui.\nGraças a isso, hoje vou dormir bem.\nObrigada. Amanhã, conta comigo de novo.",
-        "es": "[Mila]\nJijiji, hasta aquí se oía el ruido de las explosiones.\nGracias a eso, hoy voy a dormir de lo más profundo.\nGracias. Mañana te lo vuelvo a pedir."
+        "es": "[Mila]\nJijiji, hasta aquí se oía el ruido de las explosiones.\nGracias a eso, hoy voy a dormir bien.\nGracias. Mañana te lo vuelvo a pedir."
     },
     "bHOKDA": {
         "ko": "[밀라]\n거기 무너진 오페라 하우스 가 보면 인형 달고 다니는 애들 있어.\n^0000FF그로트^000000랑, ^0000FF삐에로조이스트^000000라고 있는데...\n그 달고 다니는 인형들 하나하나가 너무 시끄러워.",
         "en": "[Milla]\nIf you go to the collapsed opera house, there are kids carrying dolls around.\nThere's ^0000FFGrote^000000 and ^0000FFPierrotzoist^000000...\nEach of those dolls they carry is just too noisy.",
         "pt": "[Mila]\nSe você for lá na Ópera em ruínas, tem umas crianças andando por aí com bonecos pendurados.\nTem o ^0000FFGrote^000000 e o ^0000FFPierrotzoist^000000...\nCada um desses bonecos que elas carregam é barulhento pra caramba.",
-        "es": "[Mila]\nSi vas a la Ópera derruida, verás a unos chicos que andan con muñecos colgados.\nHay unos llamados ^0000FFGrote^000000 y ^0000FFPierrotzoist^000000...\nY cada uno de esos muñecos que llevan colgados hace un ruido de locos."
+        "es": "[Mila]\nSi vas a la Ópera en Ruinas, verás a unos chicos que andan con muñecos colgados.\nHay unos llamados ^0000FFGrote^000000 y ^0000FFPierrotzoist^000000...\nCada uno de esos muñecos que llevan colgados hace mucho ruido."
     },
     "bXOKDA": {
         "ko": "[밀라]\n무너진 오페라 하우스에 출몰하는\n^0000FF그로트 10마리^000000와\n^0000FF삐에로조이스트 10마리^000000에게 뜨거운 맛을 보여줬음 해.",
         "en": "[Mila]\nI want to show those ten ^0000FFGrotes^000000 and\nten ^0000FFPierrotzoists^000000 that haunt the ruined opera house\nwhat real heat feels like.",
         "pt": "[Mila]\nQuero dar uma lição nos\n^0000FF10 Grotes^000000 e\n^0000FF10 Pierrotzoists^000000 que aparecem na Ópera em ruínas.",
-        "es": "[Mila]\nMe gustaría darles una buena lección a los\n^0000FF10 Grotes^000000 y\n^0000FF10 Pierrotzoists^000000 que andan por la Ópera derruida."
+        "es": "[Mila]\nMe gustaría darles una buena lección a\n^0000FF10 Grotes^000000 y a\n^0000FF10 Pierrotzoists^000000 que andan por la Ópera en Ruinas."
     },
     "bnOKDA": {
         "ko": "[밀라]\n캭캭캭. 너 정말 어떻게 한 거야?\n아까 요 앞에 그로트랑 삐에로조이스트들이 다시는 시끄럽게 안 하겠다고 하고 집에 갔어.\n물론 그럴 리 없지. 내일 또 올 걸.\n고마워. 내일도 부탁해.",
@@ -675,67 +675,67 @@
         "ko": "[밀라]\n그 박살난... 아니, 그렇게 말하지 말라 그랬지.\n무너진 오페라 하우스에 가 보면 액자에 깃든 유령들이 있단 말야.\n그런데 걔들, 육체도 없는데...\n코를 골아요, 내 참.",
         "en": "[Mila]\nThat wrecked... No, I told you not to say it like that.\nIf you go to the collapsed opera house, there are ghosts trapped in the frames, you know.\nBut they don't even have bodies...\nThey snore, for crying out loud.",
         "pt": "[Mila]\nAquela ópera destruída... Não, eu disse pra você não falar assim.\nSe você for lá, na ópera em ruínas, tem fantasmas presos nas molduras.\nMas eles, sem corpo e tudo...\nE ainda roncam, meu Deus.",
-        "es": "[Mila]\nEsa ópera destrozada... No, te dije que no lo dijeras así.\nSi vas a la ópera derruida, verás que hay fantasmas en los marcos.\nPero ellos, sin tener cuerpo...\nRoncan, por Dios."
+        "es": "[Mila]\nEsa ópera destrozada... Ah, cierto que me dijeron que no la llamara así.\nSi vas a la ópera en ruinas, verás que hay fantasmas habitando los cuadros.\nLo ridículo es que ni siquiera tienen un cuerpo físico...\n¡Y aun así roncan!"
     },
     "cXOKDA": {
         "ko": "[밀라]\n망자의 연회장 안쪽에 있는\n<NAVI>[코고는 유령]<INFO>nif_dun02,249,221,0,101,0</INFO></NAVI>하고\n<NAVI>[잠꼬대하는 유령]<INFO>nif_dun02,37,221,0,101,0</INFO></NAVI>, 코 좀 비틀어 줘.\n정신 좀 차려야 돼.",
         "en": "[Mila]\nInside the banquet hall of the deceased\n<NAVI>[Snoring Ghost]<INFO>nif_dun02,249,221,0,101,0</INFO></NAVI> and\n<NAVI>[Sleep-Talking Ghost]<INFO>nif_dun02,37,221,0,101,0</INFO></NAVI>, give their nose a little pinch.\nThey need to snap out of it.",
         "pt": "[Mila]\nDentro do salão de banquetes dos mortos,\n<NAVI>[Fantasma que ronca]<INFO>nif_dun02,249,221,0,101,0</INFO></NAVI>e\n<NAVI>[Fantasma que fala dormindo]<INFO>nif_dun02,37,221,0,101,0</INFO></NAVI>, dá uma torcida no nariz deles.\nEles precisam acordar.",
-        "es": "[Mila]\nDentro del salón de banquetes de los difuntos\n<NAVI>[Fantasma que ronca]<INFO>nif_dun02,249,221,0,101,0</INFO></NAVI>y\n<NAVI>[Fantasma que habla en sueños]<INFO>nif_dun02,37,221,0,101,0</INFO></NAVI>, dale un pellizco en la nariz.\nTienen que despertar de una vez."
+        "es": "[Mila]\nDentro del salón de banquetes de los muertos y retuérceles la nariz al\n<NAVI>[Fantasma roncador]<INFO>nif_dun02,249,221,0,101,0</INFO></NAVI> y al\n<NAVI>[Fantasma que habla dormido]<INFO>nif_dun02,37,221,0,101,0</INFO></NAVI>.\nTiene que despertar ya."
     },
     "cnOKDA": {
         "ko": "[밀라]\n...더는 못 먹겠어...\n...힉.\n아, 다녀왔어? 나도 모르게 졸았네.\n그 코고는 소리 여기까지 들리는 거 정말 짜증나...",
         "en": "[Mila]\n...I can't eat anymore...\n...Hic.\nAh, you're back? I must've dozed off without realizing it.\nThat snoring is really annoying, you know...",
         "pt": "[Mila]\n...Não consigo comer mais...\n...Hic.\nAh, você voltou? Acabei cochilando sem perceber.\nÉ tão irritante esse ronco chegar até aqui...",
-        "es": "[Mila]\n...No puedo comer más...\n...Hic.\nAh, ¿ya volviste? Me quedé dormida sin darme cuenta.\nEs muy molesto que se oiga ese ronquido hasta aquí..."
+        "es": "[Mila]\n...No puedo comer más...\n...Hic.\nAh, ¿ya regresaste? Me quedé dormida sin darme cuenta.\nEs muy molesto que se oiga ese ronquido hasta aquí..."
     },
     "c3OKDA": {
         "ko": "[밀라]\n산 자에게는 잘 안 들리나 보네.\n어쨌든, 오늘도 고마워.\n잠은 소중하다구...\n살아있을 때 충분히 자 둬.",
         "en": "[Milla]\nGuess it doesn't bother the living much.\nAnyway, thanks again today.\nSleep is precious...\nMake sure you get enough while you're alive.",
         "pt": "[Mila]\nParece que os vivos não ouvem muito bem.\nDe qualquer forma, obrigada por hoje.\nO sono é precioso...\nDorme bastante enquanto estiveres viva.",
-        "es": "[Mila]\nParece que los vivos no lo escuchan bien.\nDe todos modos, gracias por hoy.\nEl sueño es algo precioso...\nDuerme lo suficiente mientras estés vivo."
+        "es": "[Mila]\nParece que los vivos no pueden escucharlo muy bien.\nComo sea, gracias por lo de hoy.\nEl sueño es algo precioso...\nAprovecha para dormir todo lo que puedas mientras sigas con vida."
     },
     "dHOKDA": {
         "ko": "[밀라]\n자잘한 일로는 시시하다, 그 말이지?\n무너진 오페라 하우스에서 그 몇몇 좀 집에 보낸다고 완전히 편안해질 리 없지.\n그럼 나를 좀 더 편하게 해 주겠어?",
         "en": "[Milla]\nTrivial matters are beneath me, is that it?\nSending a few of them home from the collapsed opera house won't make me feel completely at ease.\nSo will you make me feel more comfortable?",
         "pt": "[Mila]\nCoisas pequenas são sem graça, é isso que você quer dizer?\nMandar algumas pessoas de volta pra casa na Ópera em ruínas não vai me deixar totalmente tranquila.\nEntão, você vai me deixar um pouco mais tranquila?",
-        "es": "[Mila]\nLas cosas sin importancia son aburridas, ¿no?\nNo vas a estar completamente tranquila solo por mandar a casa a unos cuantos de la Ópera derruida.\n¿Entonces me vas a hacer sentir un poco más cómoda?"
+        "es": "[Mila]\nLas cosas sin importancia son aburridas, ¿no?\nBueno, mandar a unos cuantos a sus casas en la Ópera en ruinas no iba a traer una paz absoluta.\nEntonces, ¿qué tal si me ayudas a estar un poco más cómoda?"
     },
     "dXOKDA": {
         "ko": "[밀라]\n무너진 오페라 하우스에서 아무나 쓸어버려.\n300마리 정도?\n이건 하루에 한 번 정도면 충분히 매운 맛을 보여 줄 수 있겠지.",
         "en": "[Mila]\nSweep anyone away from the collapsed opera house.\nAbout 300?\nThat should be enough to give them a spicy taste once a day.",
         "pt": "[Mila]\nAcaba com qualquer um na Ópera em ruínas.\nUns 300, talvez?\nIsso deve bastar pra dar uma lição bem forte, uma vez por dia.",
-        "es": "[Mila]\nAcaba con cualquiera que esté en la Ópera derruida.\n¿Unos 300?\nCon esto, una vez al día será suficiente para que les des una buena lección."
+        "es": "[Mila]\nAcaba con cualquiera que esté en la Ópera en ruinas.\n¿Unos 300?\nCon esto, una vez al día será suficiente para que les des una buena lección."
     },
     "dnOKDA": {
         "ko": "[밀라]\n아하하하!\n죽은 자를 두 번 죽이다니 이 얼마나 산 자다운 일인가!",
         "en": "[Mila]\nAhahahaha!\nKilling the dead twice? How very alive of you!",
         "pt": "[Mila]\nAhahahaha!\nMatar os mortos duas vezes... que ato tão típico dos vivos!",
-        "es": "[Mila]\n¡Jajajaja!\n¡Matar dos veces a los muertos! ¡Qué propio de los vivos!"
+        "es": "[Mila]\n¡Jajajaja!\n¡Matar dos veces a un muerto! ¡Qué propio de los vivos!"
     },
     "d3OKDA": {
         "ko": "[밀라]\n캭캭캭. 네 솜씨를 믿었다고!\n아까 그 놈들 우르르 몰려서 집에 가는 거 봤어?\n물론 내일 또 오겠지만 말야!\n그럼 어디... 내일도 부탁해야지 뭐!\n잘 가! 또 와!",
         "en": "[Mila]\nKwa kwa kwa. I trusted your skills!\nDid you see those guys swarming home just now?\nOf course they'll be back tomorrow!\nWell then... guess I'll have to ask for your help again tomorrow!\nTake care! Come back!",
         "pt": "[Mila]\nKekekeke. Eu confiei na tua habilidade!\nViste aqueles caras se amontoando e indo pra casa há pouco?\nClaro que eles vão voltar amanhã!\nEntão, vamos lá... vou ter que contar com a tua ajuda amanhã também!\nFica bem! Volta sempre!",
-        "es": "[Mila]\nJajaja. ¡Confié en tu habilidad!\n¿Viste cómo esos tipos de hace un rato se fueron todos juntos a casa?\n¡Aunque claro, mañana volverán!\nBueno, pues... ¡tendré que pedirte que lo hagas mañana también!\n¡Adiós! ¡Vuelve pronto!"
+        "es": "[Mila]\nJajaja. ¡Confié en tu habilidad!\n¿Viste cómo esos tipos de hace un rato se fueron todos juntos a casa?\n¡Aunque claro, mañana volverán!\nBueno, pues... ¡tendré que contar contigo mañana también!\n¡Adiós! ¡Vuelve pronto!"
     },
     "eHOKDA": {
         "ko": "[밀라]\n무너진 오페라 하우스에서 아무나 쓸어버려.\n1500마리 정도?\n이건 일주일에 한 번 정도면 충분히 매운 맛을 보여 줄 수 있겠지.",
         "en": "[Mila]\nSweep anyone away from the collapsed opera house.\nAbout 1500?\nThis should be enough to give them a spicy taste about once a week.",
         "pt": "[Mila]\nVai lá e acaba com quem estiver na Ópera em ruínas.\nUns 1.500, mais ou menos?\nIsso deve dar pra mostrar o que é queimado uma vez por semana, né?",
-        "es": "[Mila]\nAcaba con cualquiera en la Ópera derruida.\n¿Unos 1500?\nCon esto, una vez a la semana será suficiente para darles una buena lección."
+        "es": "[Mila]\nAcaba con cualquiera que esté en la Ópera en ruinas.\n¿Unos 1500?\nCon esto, una vez a la semana será suficiente para darles una buena lección."
     },
     "eXOKDA": {
         "ko": "[밀라]\n캭캭캭. 네 솜씨를 믿었다고!\n아까 그 놈들 우르르 몰려서 집에 가는 거 봤어?\n물론 다음 주에 또 오겠지만 말야!\n그럼 어디... 다음 주에도 부탁해야지 뭐!\n잘 가! 또 와!",
         "en": "[Mila]\nKwa kwa kwa. I trusted your skills!\nDid you see those guys swarming home just now?\nOf course they'll be back next week!\nWell then... guess I'll have to ask you again next week!\nTake care! Come back!",
         "pt": "[Mila]\nKeng keng keng. Eu confiei na tua habilidade!\nViste aqueles caras indo pra casa em massa há pouco?\nClaro que eles vão voltar na próxima semana!\nEntão, vamos lá... vou ter que te pedir ajuda na próxima semana também!\nFica bem! Volta sempre!",
-        "es": "[Mila]\nJajaja. ¡Confiaba en tu habilidad!\n¿Viste cómo esos tipos se iban en tropel a casa hace un rato?\n¡Aunque claro, volverán la semana que viene!\nBueno, pues... ¡tendré que pedirte que lo hagas también la semana que viene!\n¡Adiós! ¡Vuelve pronto!"
+        "es": "[Mila]\nJajaja. ¡Confié en tu habilidad!\n¿Viste cómo esos tipos de hace un rato se fueron todos juntos a casa?\n¡Aunque claro, volverán la semana que viene!\nBueno, pues... ¡tendré que contar contigo la semana que viene!\n¡Adiós! ¡Vuelve pronto!"
     },
     "enOKDA": {
         "ko": "[밀라]\n캭캭캭. 네 솜씨를 믿었다고!\n아까 그 놈들 우르르 몰려서 집에 가는 거 봤어?\n물론 다음 주면 또 오겠지만 말야!\n그럼 어디... 다음 주에도 부탁해야지 뭐!\n잘 가! 또 와!",
         "en": "[Mila]\nKwa kwa kwa. I knew you could do it!\nDid you see those guys swarming home just now?\nOf course they'll be back next week!\nWell then... guess I'll have to ask you again next week!\nTake care! Come back!",
         "pt": "[Mila]\nHahaha. Eu confiava no teu talento!\nViste aqueles caras indo pra casa em massa há pouco?\nClaro que eles vão voltar na próxima semana!\nEntão, vamos lá... vou ter que te pedir de novo na próxima semana!\nFica bem! Volta sempre!",
-        "es": "[Mila]\nJajaja. ¡Confié en tu habilidad!\n¿Viste cómo esos tipos se fueron en tropel a casa hace un rato?\n¡Aunque claro, volverán la semana que viene!\nBueno, pues... ¡tendré que pedirte que lo hagas otra vez la semana que viene!\n¡Adiós! ¡Vuelve pronto!"
+        "es": "[Mila]\nJajaja. ¡Confié en tu habilidad!\n¿Viste cómo esos tipos de hace un rato se fueron todos juntos a casa?\n¡Aunque claro, volverán la semana que viene!\nBueno, pues... ¡tendré que contar contigo la semana que viene!\n¡Adiós! ¡Vuelve pronto!"
     },
     "e3OKDA": {
         "ko": "[밀라]\n바쁘다면 할 수 없지...\n아아, 역시 산 자들에게는 저 소리가 들리지 않는 것인가. 나의 이 고뇌는 오직 망자들만 알아준단 말인가...",

@@ -48,7 +48,7 @@ SKILL_DESCRIPT = {
 	[SKID.SM_TWOHAND] = {
 		"Perícia com Espada de Duas Mãos",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Perícia com Espada 1^000000",
+		"Pré-requisitos: ^777777Perícia com Espada 1^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
 		"^777777Aumenta o ATQ de perícia ao usar",
@@ -128,7 +128,7 @@ SKILL_DESCRIPT = {
 	[SKID.SM_MAGNUM] = {
 		"Impacto Explosivo ^777777(Magnum Break)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Golpe Fulminante 5^000000",
+		"Pré-requisitos: ^777777Golpe Fulminante 5^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^777777Causa dano físico corpo a corpo de",
@@ -151,7 +151,7 @@ SKILL_DESCRIPT = {
 	[SKID.SM_ENDURE] = {
 		"Vigor ^777777(Endure)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Provocar 5^000000",
+		"Pré-requisitos: ^777777Provocar 5^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^777777Temporariamente aumenta a DEFM e evita o",
@@ -246,7 +246,7 @@ SKILL_DESCRIPT = {
 	[SKID.MG_SOULSTRIKE] = {
 		"Espíritos Anciões ^777777(Soul Strike)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Ataque Espiritual 4^000000",
+		"Pré-requisitos: ^777777Ataque Espiritual 4^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^777777Invoca espíritos para causar 100% de dano",
@@ -286,7 +286,7 @@ SKILL_DESCRIPT = {
 	[SKID.MG_FROSTDIVER] = {
 		"Rajada Congelante ^777777(Frost Diver)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Lanças de Gelo 5^000000",
+		"Pré-requisitos: ^777777Lanças de Gelo 5^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^777777Causa dano mágico de propriedade Água com",
@@ -329,7 +329,7 @@ SKILL_DESCRIPT = {
 	[SKID.MG_FIREBALL] = {
 		"Bolas de Fogo ^777777(Fire Ball)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Lanças de Fogo 4^000000",
+		"Pré-requisitos: ^777777Lanças de Fogo 4^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^777777Atira bolas que causam dano mágico de",
@@ -351,7 +351,7 @@ SKILL_DESCRIPT = {
 	[SKID.MG_FIREWALL] = {
 		"Barreira de Fogo ^777777(Fire Wall)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos:",
+		"Pré-requisitos:",
 		"^777777Chama Reveladora 1, Bolas de Fogo 5^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -411,7 +411,7 @@ SKILL_DESCRIPT = {
 	[SKID.MG_THUNDERSTORM] = {
 		"Tempestade de Raios ^777777(Thunder Storm)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Relâmpago 4^000000",
+		"Pré-requisitos: ^777777Relâmpago 4^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^777777Causa 100% do ATQM de propriedade Vento",
@@ -483,7 +483,7 @@ SKILL_DESCRIPT = {
 	[SKID.AL_PNEUMA] = {
 		"Escudo Sagrado ^777777(Pneuma)^000000",
 		"Nível máximo: ^7777771^000000",
-		"Pré requisitos: ^777777Portal 4^000000",
+		"Pré-requisitos: ^777777Portal 4^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^777777Cria uma barreira de 3x3 células que",
@@ -494,7 +494,7 @@ SKILL_DESCRIPT = {
 	[SKID.AL_TELEPORT] = {
 		"Teleporte ^777777(Teleportation)^000000",
 		"Nível máximo: ^7777772^000000",
-		"Pré requisitos: ^777777Revelação 1^000000",
+		"Pré-requisitos: ^777777Revelação 1^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Teleporta-se para outra área.",
@@ -506,7 +506,7 @@ SKILL_DESCRIPT = {
 	[SKID.AL_WARP] = {
 		"Portal ^777777(Warp)^000000",
 		"Nível máximo: ^7777774^000000",
-		"Pré requisitos: ^777777Teleporte 2^000000",
+		"Pré-requisitos: ^777777Teleporte 2^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Abre um portal que teleporta até",
@@ -538,7 +538,7 @@ SKILL_DESCRIPT = {
 	[SKID.AL_INCAGI] = {
 		"Aumentar Agilidade ^777777(Increase AGI)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Curar 3^000000",
+		"Pré-requisitos: ^777777Curar 3^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^777777Consome 15 de HP para aumentar a AGI,",
@@ -558,7 +558,7 @@ SKILL_DESCRIPT = {
 	[SKID.AL_DECAGI] = {
 		"Diminuir Agilidade ^777777(Decrease AGI)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Aumentar Agilidade 1^000000",
+		"Pré-requisitos: ^777777Aumentar Agilidade 1^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Haverá uma chance de reduzir a AGI",
@@ -589,7 +589,7 @@ SKILL_DESCRIPT = {
 	[SKID.AL_CRUCIS] = {
 		"Signum Crucis",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Flagelo do Mal 3^000000",
+		"Pré-requisitos: ^777777Flagelo do Mal 3^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^777777Concede uma chance de reduzir a DEF de",
@@ -609,7 +609,7 @@ SKILL_DESCRIPT = {
 	[SKID.AL_ANGELUS] = {
 		"Angelus",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Proteção Divina 3^000000",
+		"Pré-requisitos: ^777777Proteção Divina 3^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^777777Reza para garantir um bônus de HP máx. e",
@@ -630,7 +630,7 @@ SKILL_DESCRIPT = {
 	[SKID.AL_BLESSING] = {
 		"Bênção ^777777(Blessing)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Proteção Divina 5^000000",
+		"Pré-requisitos: ^777777Proteção Divina 5^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^777777Aumenta a DES, INT, FOR, Precisão e retira",
@@ -681,7 +681,7 @@ SKILL_DESCRIPT = {
 	[SKID.MC_DISCOUNT] = {
 		"Desconto ^777777(Discount)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos:",
+		"Pré-requisitos:",
 		"^777777Aumentar Capacidade de Carga 3^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
@@ -703,7 +703,7 @@ SKILL_DESCRIPT = {
 	[SKID.MC_OVERCHARGE] = {
 		"Superfaturar ^777777(Overcharge)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Desconto 3^000000",
+		"Pré-requisitos: ^777777Desconto 3^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
 		"^777777Permite vender itens para NPCs por",
@@ -723,7 +723,7 @@ SKILL_DESCRIPT = {
 	[SKID.MC_PUSHCART] = {
 		"Usar Carrinho ^777777(Push Cart)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos:",
+		"Pré-requisitos:",
 		"^777777Aumentar Capacidade de Carga 5^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
@@ -757,7 +757,7 @@ SKILL_DESCRIPT = {
 	[SKID.MC_VENDING] = {
 		"Comércio ^777777(Vending)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Usar Carrinho 3^000000",
+		"Pré-requisitos: ^777777Usar Carrinho 3^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Abre uma loja para vender itens.",
@@ -818,7 +818,7 @@ SKILL_DESCRIPT = {
 	[SKID.AC_VULTURE] = {
 		"Olhos de Águia ^777777(Vulture's Eye)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Olhos de Coruja 3^000000",
+		"Pré-requisitos: ^777777Olhos de Coruja 3^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
 		"^777777Aumenta a Precisão e o alcance",
@@ -838,7 +838,7 @@ SKILL_DESCRIPT = {
 	[SKID.AC_CONCENTRATION] = {
 		"Concentrar ^777777(Improve Concentration)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Olhos de Águia 1^000000",
+		"Pré-requisitos: ^777777Olhos de Águia 1^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^777777Fornece um bônus de DES e AGI.",
@@ -879,7 +879,7 @@ SKILL_DESCRIPT = {
 	[SKID.AC_SHOWER] = {
 		"Chuva de Flechas ^777777(Arrow Shower)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Rajada de Flechas 5^000000",
+		"Pré-requisitos: ^777777Rajada de Flechas 5^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^777777Custa 15 de SP para causar dano físico a",
@@ -1014,7 +1014,7 @@ SKILL_DESCRIPT = {
 	[SKID.TF_DETOXIFY] = {
 		"Desintoxicar ^777777(Detoxify)^000000",
 		"Nível máximo: ^7777771^000000",
-		"Pré requisitos: ^777777Envenenar 3^000000",
+		"Pré-requisitos: ^777777Envenenar 3^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^777777Cura o efeito de [Envenenamento] do alvo.",
@@ -1023,7 +1023,7 @@ SKILL_DESCRIPT = {
 	[SKID.ALL_RESURRECTION] = {
 		"Ressuscitar ^777777(Resurrection)^000000",
 		"Nível máximo: ^7777774^000000",
-		"Pré requisitos: ^777777Graça Divina 1,",
+		"Pré-requisitos: ^777777Graça Divina 1,",
 		"Aumentar Recuperação de SP 4^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
@@ -1059,7 +1059,7 @@ SKILL_DESCRIPT = {
 	[SKID.KN_PIERCE] = {
 		"Perfurar ^777777(Pierce)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Perícia com Lança 1^000000",
+		"Pré-requisitos: ^777777Perícia com Lança 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^008080Apenas com Lança.^000000",
@@ -1083,7 +1083,7 @@ SKILL_DESCRIPT = {
 	[SKID.KN_BRANDISHSPEAR] = {
 		"Brandir Lança ^777777(Brandish Spear)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Montaria 1, Estocada 3^000000",
+		"Pré-requisitos: ^777777Montaria 1, Estocada 3^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^008080Apenas com Lança.^000000",
@@ -1107,7 +1107,7 @@ SKILL_DESCRIPT = {
 	[SKID.KN_SPEARSTAB] = {
 		"Estocada ^777777(Spear Stab)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Perfurar 5^000000",
+		"Pré-requisitos: ^777777Perfurar 5^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^008080Apenas com Lança.^000000",
@@ -1129,7 +1129,7 @@ SKILL_DESCRIPT = {
 	[SKID.KN_SPEARBOOMERANG] = {
 		"Lança Bumerangue ^777777(Spear Boomerang)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Perfurar 3^000000",
+		"Pré-requisitos: ^777777Perfurar 3^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^008080Apenas com Lança.^000000",
@@ -1147,7 +1147,7 @@ SKILL_DESCRIPT = {
 	[SKID.KN_TWOHANDQUICKEN] = {
 		"Rapidez com Duas Mãos ^777777(Twohand Quicken)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Perícia Espada 2 Mãos 1^000000",
+		"Pré-requisitos: ^777777Perícia Espada 2 Mãos 1^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^008080Apenas com Espadas de Duas Mãos.^000000",
@@ -1170,7 +1170,7 @@ SKILL_DESCRIPT = {
 	[SKID.KN_AUTOCOUNTER] = {
 		"Contra-Ataque ^777777(Auto Counter)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Perícia Espada 2 Mãos 1^000000",
+		"Pré-requisitos: ^777777Perícia Espada 2 Mãos 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^777777Fica imóvel por um curto período de tempo",
@@ -1186,7 +1186,7 @@ SKILL_DESCRIPT = {
 	[SKID.KN_BOWLINGBASH] = {
 		"Impacto de Tyr ^777777(Bowling Bash)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Golpe Fulminante 10,",
+		"Pré-requisitos: ^777777Golpe Fulminante 10,",
 		"Impacto Explosivo 3, Contra-Ataque 5",
 		"Rapidez com Duas Mãos 10,",
 		"Perícia com Espada de Duas Mãos 5^000000",
@@ -1210,7 +1210,7 @@ SKILL_DESCRIPT = {
 	[SKID.KN_RIDING] = {
 		"Montaria ^777777(Riding)^000000",
 		"Nível máximo: ^7777771^000000",
-		"Pré requisitos: ^777777Vigor 1^000000",
+		"Pré-requisitos: ^777777Vigor 1^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
 		"^777777Permite usar um animal como montaria.",
@@ -1224,7 +1224,7 @@ SKILL_DESCRIPT = {
 	[SKID.KN_CAVALIERMASTERY] = {
 		"Perícia em Montaria ^777777(Cavalier Mastery)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Montaria 1^000000",
+		"Pré-requisitos: ^777777Montaria 1^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
 		"^777777Enquanto estiver em uma montaria, sua",
@@ -1272,7 +1272,7 @@ SKILL_DESCRIPT = {
 	[SKID.PR_SUFFRAGIUM] = {
 		"Suffragium",
 		"Nível máximo: ^7777773^000000",
-		"Pré requisitos: ^777777Impositio Manus 2^000000",
+		"Pré-requisitos: ^777777Impositio Manus 2^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^777777Reduz a Conjuração Variável de todos do",
@@ -1285,7 +1285,7 @@ SKILL_DESCRIPT = {
 	[SKID.PR_ASPERSIO] = {
 		"Aspersio",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos:",
+		"Pré-requisitos:",
 		"^777777Aqua Benedicta 1, Impositio Manus 3^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
@@ -1302,7 +1302,7 @@ SKILL_DESCRIPT = {
 	[SKID.PR_BENEDICTIO] = {
 		"Benedictio Sanctissimi Sacramenti",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos:",
+		"Pré-requisitos:",
 		"^777777Aspersio 5, Glória 3^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
@@ -1322,7 +1322,7 @@ SKILL_DESCRIPT = {
 	[SKID.PR_SANCTUARY] = {
 		"Santuário ^777777(Sanctuary)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Curar 1^000000",
+		"Pré-requisitos: ^777777Curar 1^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^777777Cria uma área de 5x5 células que regenera",
@@ -1364,7 +1364,7 @@ SKILL_DESCRIPT = {
 	[SKID.PR_KYRIE] = {
 		"Kyrie Eleison",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Angelus 2^000000",
+		"Pré-requisitos: ^777777Angelus 2^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^777777Cria uma barreira no alvo que bloqueia",
@@ -1400,7 +1400,7 @@ SKILL_DESCRIPT = {
 	[SKID.PR_GLORIA] = {
 		"Glória",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Kyrie Eleison 4, Magnificat 3^000000",
+		"Pré-requisitos: ^777777Kyrie Eleison 4, Magnificat 3^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^777777Consome 20 de SP para conceder SOR +30",
@@ -1415,7 +1415,7 @@ SKILL_DESCRIPT = {
 	[SKID.PR_LEXDIVINA] = {
 		"Lex Divina",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Revelação 1^000000",
+		"Pré-requisitos: ^777777Revelação 1^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Concede uma chance de infligir",
@@ -1437,7 +1437,7 @@ SKILL_DESCRIPT = {
 	[SKID.PR_TURNUNDEAD] = {
 		"Esconjurar ^777777(Turn Undead)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Ressuscitar 1, Lex Divina 3^000000",
+		"Pré-requisitos: ^777777Ressuscitar 1, Lex Divina 3^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^777777Consome 20 de SP para ter a chance de",
@@ -1459,7 +1459,7 @@ SKILL_DESCRIPT = {
 	[SKID.PR_LEXAETERNA] = {
 		"Lex Aeterna",
 		"Nível máximo: ^7777771^000000",
-		"Pré requisitos: ^777777Lex Divina 5^000000",
+		"Pré-requisitos: ^777777Lex Divina 5^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Permite que um alvo receba o dobro de dano",
@@ -1472,7 +1472,7 @@ SKILL_DESCRIPT = {
 	[SKID.PR_MAGNUS] = {
 		"Magnus Exorcismus",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Escudo Mágico 1,",
+		"Pré-requisitos: ^777777Escudo Mágico 1,",
 		"Esconjurar 3, Lex Aeterna 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -1497,7 +1497,7 @@ SKILL_DESCRIPT = {
 	[SKID.WZ_FIREPILLAR] = {
 		"Coluna de Fogo ^777777(Fire Pillar)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Barreira de Fogo 1^000000",
+		"Pré-requisitos: ^777777Barreira de Fogo 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^777777Ergue um pilar que causa dano mágico de",
@@ -1520,7 +1520,7 @@ SKILL_DESCRIPT = {
 	[SKID.WZ_SIGHTRASHER] = {
 		"Supernova ^777777(Sightrasher)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Relâmpago 1,",
+		"Pré-requisitos: ^777777Relâmpago 1,",
 		"Chama Reveladora 1,^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -1552,7 +1552,7 @@ SKILL_DESCRIPT = {
 	[SKID.WZ_METEOR] = {
 		"Chuva de Meteoros ^777777(Meteor Storm)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Supernova 2,",
+		"Pré-requisitos: ^777777Supernova 2,",
 		"Tempestade de Raios 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -1576,7 +1576,7 @@ SKILL_DESCRIPT = {
 	[SKID.WZ_JUPITEL] = {
 		"Trovão de Júpiter ^777777(Jupitel Thunder)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Ataque Espiritual 1,",
+		"Pré-requisitos: ^777777Ataque Espiritual 1,",
 		"Relâmpago 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -1598,7 +1598,7 @@ SKILL_DESCRIPT = {
 	[SKID.WZ_VERMILION] = {
 		"Ira de Thor ^777777(Lord of Vermilion)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Trovão de Júpiter 5,",
+		"Pré-requisitos: ^777777Trovão de Júpiter 5,",
 		"Tempestade de Raios 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -1622,7 +1622,7 @@ SKILL_DESCRIPT = {
 	[SKID.WZ_WATERBALL] = {
 		"Esfera d'Água ^777777(Waterball)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Lanças de Gelo 1,",
+		"Pré-requisitos: ^777777Lanças de Gelo 1,",
 		"Relâmpago 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -1643,7 +1643,7 @@ SKILL_DESCRIPT = {
 	[SKID.WZ_ICEWALL] = {
 		"Barreira de Gelo ^777777(Ice Wall)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Petrificar 1,",
+		"Pré-requisitos: ^777777Petrificar 1,",
 		"Rajada Congelante 1^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
@@ -1666,7 +1666,7 @@ SKILL_DESCRIPT = {
 	[SKID.WZ_FROSTNOVA] = {
 		"Congelar ^777777(Frost Nova)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Barreira de Gelo 1^000000",
+		"Pré-requisitos: ^777777Barreira de Gelo 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^777777Resfria o ar ao seu redor, causando dano",
@@ -1687,7 +1687,7 @@ SKILL_DESCRIPT = {
 	[SKID.WZ_STORMGUST] = {
 		"Nevasca ^777777(Storm Gust)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Trovão de Júpiter 3,",
+		"Pré-requisitos: ^777777Trovão de Júpiter 3,",
 		"Rajada Congelante 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -1748,7 +1748,7 @@ SKILL_DESCRIPT = {
 	[SKID.WZ_QUAGMIRE] = {
 		"Pântano dos Mortos ^777777(Quagmire)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Fúria da Terra 1^000000",
+		"Pré-requisitos: ^777777Fúria da Terra 1^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Transforma o solo em uma área alagada,",
@@ -1790,7 +1790,7 @@ SKILL_DESCRIPT = {
 	[SKID.BS_STEEL] = {
 		"Trabalhar Aço ^777777(Steel Tempering)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Trabalhar Ferro 1^000000",
+		"Pré-requisitos: ^777777Trabalhar Ferro 1^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
 		"^777777Concede uma chance de fabricar Aço.",
@@ -1807,7 +1807,7 @@ SKILL_DESCRIPT = {
 	[SKID.BS_ENCHANTEDSTONE] = {
 		"Produzir Pedra Fundamental ^777777(Stone Craft)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Trabalhar Ferro 1^000000",
+		"Pré-requisitos: ^777777Trabalhar Ferro 1^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
 		"^777777Dá a chance de forjar 1 Pedra Elemental ao",
@@ -1830,7 +1830,7 @@ SKILL_DESCRIPT = {
 	[SKID.BS_ORIDEOCON] = {
 		"Perícia com Oridecon ^777777(Oridecon Research)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Produzir Pedra Fundamental 1^000000",
+		"Pré-requisitos: ^777777Produzir Pedra Fundamental 1^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
 		"^777777Aumenta as chances de forja ao produzir",
@@ -1853,7 +1853,7 @@ SKILL_DESCRIPT = {
 	[SKID.BS_SWORD] = {
 		"Forjar Espada ^777777(Smith Sword)^000000",
 		"Nível máximo: ^7777773^000000",
-		"Pré requisitos: ^777777Forjar Adaga 1^000000",
+		"Pré-requisitos: ^777777Forjar Adaga 1^000000",
 		"Tipo: ^777777Passiva^000000 / ^CD3278Forja^000000",
 		"Descrição:",
 		"^008080Precisa de 1 Martelo e 1 Bigorna.^000000",
@@ -1868,7 +1868,7 @@ SKILL_DESCRIPT = {
 	[SKID.BS_TWOHANDSWORD] = {
 		"Forjar Espada de Duas Mãos ^777777(Smith Sword)^000000",
 		"Nível máximo: ^7777773^000000",
-		"Pré requisitos: ^777777Forjar Espada 1^000000",
+		"Pré-requisitos: ^777777Forjar Espada 1^000000",
 		"Tipo: ^777777Passiva^000000 / ^CD3278Forja^000000",
 		"Descrição:",
 		"^008080Precisa de 1 Martelo e 1 Bigorna.^000000",
@@ -1884,7 +1884,7 @@ SKILL_DESCRIPT = {
 	[SKID.BS_AXE] = {
 		"Forjar Machado ^777777(Smith Axe)^000000",
 		"Nível máximo: ^7777773^000000",
-		"Pré requisitos: ^777777Forjar Espada 2^000000",
+		"Pré-requisitos: ^777777Forjar Espada 2^000000",
 		"Tipo: ^777777Passiva^000000 / ^CD3278Forja^000000",
 		"Descrição:",
 		"^008080Precisa de 1 Martelo e 1 Bigorna.^000000",
@@ -1899,7 +1899,7 @@ SKILL_DESCRIPT = {
 	[SKID.BS_MACE] = {
 		"Forjar Maça ^777777(Smith Mace)^000000",
 		"Nível máximo: ^7777773^000000",
-		"Pré requisitos: ^777777Forjar Soqueira 1^000000",
+		"Pré-requisitos: ^777777Forjar Soqueira 1^000000",
 		"Tipo: ^777777Passiva^000000 / ^CD3278Forja^000000",
 		"Descrição:",
 		"^008080Precisa de 1 Martelo e 1 Bigorna.^000000",
@@ -1914,7 +1914,7 @@ SKILL_DESCRIPT = {
 	[SKID.BS_KNUCKLE] = {
 		"Forjar Soqueira ^777777(Smith Knuckle)^000000",
 		"Nível máximo: ^7777773^000000",
-		"Pré requisitos: ^777777Forjar Adaga 1^000000",
+		"Pré-requisitos: ^777777Forjar Adaga 1^000000",
 		"Tipo: ^777777Passiva^000000 / ^CD3278Forja^000000",
 		"Descrição:",
 		"^008080Precisa de 1 Martelo e 1 Bigorna.^000000",
@@ -1929,7 +1929,7 @@ SKILL_DESCRIPT = {
 	[SKID.BS_SPEAR] = {
 		"Forjar Lança ^777777(Smith Spear)^000000",
 		"Nível máximo: ^7777773^000000",
-		"Pré requisitos: ^777777Forjar Adaga 2^000000",
+		"Pré-requisitos: ^777777Forjar Adaga 2^000000",
 		"Tipo: ^777777Passiva^000000 / ^CD3278Forja^000000",
 		"Descrição:",
 		"^008080Precisa de 1 Martelo e 1 Bigorna.^000000",
@@ -1953,7 +1953,7 @@ SKILL_DESCRIPT = {
 	[SKID.BS_FINDINGORE] = {
 		"Encontrar Minério ^777777(Finding Ore)^000000",
 		"Nível máximo: ^7777771^000000",
-		"Pré requisitos: ^777777Punho Firme 1^000000",
+		"Pré-requisitos: ^777777Punho Firme 1^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
 		"^777777Ao derrotar monstros, possui uma pequena",
@@ -1962,7 +1962,7 @@ SKILL_DESCRIPT = {
 	[SKID.BS_WEAPONRESEARCH] = {
 		"Perícia em Armamento ^777777(Weaponry Research)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Punho Firme 1^000000",
+		"Pré-requisitos: ^777777Punho Firme 1^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
 		"^777777Aumenta o ATQ e corrige a Precisão.^000000",
@@ -1981,7 +1981,7 @@ SKILL_DESCRIPT = {
 	[SKID.BS_REPAIRWEAPON] = {
 		"Consertar Armas ^777777(Repair Weapon)^000000",
 		"Nível máximo: ^7777771^000000",
-		"Pré requisitos: ^777777Perícia em Armamento 1^000000",
+		"Pré-requisitos: ^777777Perícia em Armamento 1^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Conserta uma arma ou equipamento que",
@@ -2027,7 +2027,7 @@ SKILL_DESCRIPT = {
 	[SKID.BS_ADRENALINE] = {
 		"Adrenalina Pura ^777777(Adrenaline Rush)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Martelo de Thor 2^000000",
+		"Pré-requisitos: ^777777Martelo de Thor 2^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^008080Apenas com Maça ou Machado.^000000",
@@ -2045,7 +2045,7 @@ SKILL_DESCRIPT = {
 	[SKID.BS_WEAPONPERFECT] = {
 		"Manejo Perfeito ^777777(Weapon Perfection)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Adrenalina Pura 2",
+		"Pré-requisitos: ^777777Adrenalina Pura 2",
 		"Perícia em Armamento 2^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
@@ -2061,7 +2061,7 @@ SKILL_DESCRIPT = {
 	[SKID.BS_OVERTHRUST] = {
 		"Força Violenta ^777777(Over Thrust)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Adrenalina Pura 3^000000",
+		"Pré-requisitos: ^777777Adrenalina Pura 3^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^777777Aumenta o ATQ da arma do usuário.",
@@ -2077,7 +2077,7 @@ SKILL_DESCRIPT = {
 	[SKID.BS_MAXIMIZE] = {
 		"Amplificar Poder ^777777(Power Maximize)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Manejo Perfeito 3,",
+		"Pré-requisitos: ^777777Manejo Perfeito 3,",
 		"Força Violenta 2^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
@@ -2130,7 +2130,7 @@ SKILL_DESCRIPT = {
 	[SKID.HT_ANKLESNARE] = {
 		"Instalar Armadilha ^777777(Ankle Snare)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Armadilha Escorregadia 1^000000",
+		"Pré-requisitos: ^777777Armadilha Escorregadia 1^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Instala uma armadilha no chão que ativa",
@@ -2148,7 +2148,7 @@ SKILL_DESCRIPT = {
 	[SKID.HT_SHOCKWAVE] = {
 		"Armadilha Extenuante ^777777(Shockwave)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Instalar Armadilha 1^000000",
+		"Pré-requisitos: ^777777Instalar Armadilha 1^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Instala uma armadilha no chão que ativa",
@@ -2165,7 +2165,7 @@ SKILL_DESCRIPT = {
 	[SKID.HT_SANDMAN] = {
 		"Armadilha Sonífera ^777777(Sandman)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Armadilha Luminosa 1^000000",
+		"Pré-requisitos: ^777777Armadilha Luminosa 1^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Instala uma armadilha no chão que ativa",
@@ -2184,7 +2184,7 @@ SKILL_DESCRIPT = {
 	[SKID.HT_FLASHER] = {
 		"Armadilha Luminosa ^777777(Flasher)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Armadilha Escorregadia 1^000000",
+		"Pré-requisitos: ^777777Armadilha Escorregadia 1^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Instala uma armadilha no chão que ativa",
@@ -2202,7 +2202,7 @@ SKILL_DESCRIPT = {
 	[SKID.HT_FREEZINGTRAP] = {
 		"Armadilha Congelante ^777777(Freezing Trap)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Armadilha Luminosa 1^000000",
+		"Pré-requisitos: ^777777Armadilha Luminosa 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^777777Instala uma armadilha no chão que ativa",
@@ -2221,7 +2221,7 @@ SKILL_DESCRIPT = {
 	[SKID.HT_BLASTMINE] = {
 		"Instalar Mina ^777777(Blast Mine)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Armadilha Congelante 1,",
+		"Pré-requisitos: ^777777Armadilha Congelante 1,",
 		"Armadilha Atordoante 1, Armadilha Sonífera 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -2241,7 +2241,7 @@ SKILL_DESCRIPT = {
 	[SKID.HT_CLAYMORETRAP] = {
 		"Armadilha Explosiva ^777777(Claymore Trap)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Instalar Mina 1,",
+		"Pré-requisitos: ^777777Instalar Mina 1,",
 		"Armadilha Extenuante 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -2275,7 +2275,7 @@ SKILL_DESCRIPT = {
 	[SKID.HT_TALKIEBOX] = {
 		"Mensagem Secreta ^777777(Talkie Box)^000000",
 		"Nível máximo: ^7777771^000000",
-		"Pré requisitos: ^777777Remover Armadilha 1,",
+		"Pré-requisitos: ^777777Remover Armadilha 1,",
 		"Armadilha Extenuante 1^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
@@ -2309,7 +2309,7 @@ SKILL_DESCRIPT = {
 	[SKID.HT_FALCON] = {
 		"Adestrar Ave ^777777(Falconry Mastery)^000000",
 		"Nível máximo: ^7777771^000000",
-		"Pré requisitos: ^777777Flagelo das Feras 1^000000",
+		"Pré-requisitos: ^777777Flagelo das Feras 1^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
 		"^777777Permite controlar uma ave de rapina.",
@@ -2322,7 +2322,7 @@ SKILL_DESCRIPT = {
 	[SKID.HT_STEELCROW] = {
 		"Garras de Aço ^777777(Steel Claw)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Ataque Aéreo 5^000000",
+		"Pré-requisitos: ^777777Ataque Aéreo 5^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
 		"^777777Aumenta o ATQ da ave de rapina.^000000",
@@ -2341,7 +2341,7 @@ SKILL_DESCRIPT = {
 	[SKID.HT_BLITZBEAT] = {
 		"Ataque Aéreo ^777777(Blitz Beat)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Adestrar Ave 1^000000",
+		"Pré-requisitos: ^777777Adestrar Ave 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^008080Apenas com Ave.^000000",
@@ -2361,7 +2361,7 @@ SKILL_DESCRIPT = {
 	[SKID.HT_DETECTING] = {
 		"Alerta ^777777(Detecting)^000000",
 		"Nível máximo: ^7777774^000000",
-		"Pré requisitos: ^777777Adestrar Ave 1,",
+		"Pré-requisitos: ^777777Adestrar Ave 1,",
 		"Concentrar 1^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
@@ -2377,7 +2377,7 @@ SKILL_DESCRIPT = {
 	[SKID.HT_SPRINGTRAP] = {
 		"Desativar Armadilha ^777777(Spring Trap)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Adestrar Ave 1,",
+		"Pré-requisitos: ^777777Adestrar Ave 1,",
 		"Remover Armadilha 1^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
@@ -2411,7 +2411,7 @@ SKILL_DESCRIPT = {
 	[SKID.AS_LEFT] = {
 		"Perícia com Mão Esquerda ^777777(Left Mastery)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Perícia com Mão Direita 2^000000",
+		"Pré-requisitos: ^777777Perícia com Mão Direita 2^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
 		"^777777Ao equipar armas de duas mãos, o usuário",
@@ -2446,7 +2446,7 @@ SKILL_DESCRIPT = {
 	[SKID.AS_CLOAKING] = {
 		"Furtividade ^777777(Cloaking)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Esconderijo 2^000000",
+		"Pré-requisitos: ^777777Esconderijo 2^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Esconde-se, permitindo a movimentação.",
@@ -2471,7 +2471,7 @@ SKILL_DESCRIPT = {
 	[SKID.AS_SONICBLOW] = {
 		"Lâminas Destruidoras ^777777(Sonic Blow)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Perícia com Katar 4^000000",
+		"Pré-requisitos: ^777777Perícia com Katar 4^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^008080Apenas com Katar.^000000",
@@ -2494,7 +2494,7 @@ SKILL_DESCRIPT = {
 	[SKID.AS_GRIMTOOTH] = {
 		"Tocaia ^777777(Grimtooth)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Furtividade 2,",
+		"Pré-requisitos: ^777777Furtividade 2,",
 		"Lâminas Destruidoras 5^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -2514,7 +2514,7 @@ SKILL_DESCRIPT = {
 	[SKID.AS_ENCHANTPOISON] = {
 		"Envenenar Arma ^777777(Enchant Poison)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Envenenar 1^000000",
+		"Pré-requisitos: ^777777Envenenar 1^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^777777Encanta a arma com propriedade Veneno.",
@@ -2535,7 +2535,7 @@ SKILL_DESCRIPT = {
 	[SKID.AS_POISONREACT] = {
 		"Refletir Veneno ^777777(Poison React)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Envenenar Arma 3^000000",
+		"Pré-requisitos: ^777777Envenenar Arma 3^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Ao receber danos físicos de propriedade",
@@ -2561,7 +2561,7 @@ SKILL_DESCRIPT = {
 	[SKID.AS_VENOMDUST] = {
 		"Névoa Tóxica ^777777(Venom Dust)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Envenenar Arma 5^000000",
+		"Pré-requisitos: ^777777Envenenar Arma 5^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Espalha veneno na área de 3x3 células com",
@@ -2582,7 +2582,7 @@ SKILL_DESCRIPT = {
 	[SKID.AS_SPLASHER] = {
 		"Explosão Tóxica ^777777(Venom Splasher)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Refletir Veneno 5,",
+		"Pré-requisitos: ^777777Refletir Veneno 5,",
 		"Névoa Tóxica 5^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -2759,7 +2759,7 @@ SKILL_DESCRIPT = {
 	[SKID.RG_SNATCHER] = {
 		"Mãos Leves ^777777(Snatcher)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Furto 1^000000",
+		"Pré-requisitos: ^777777Furto 1^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
 		"^777777Ao realizar ataques físicos corpo a corpo,",
@@ -2780,7 +2780,7 @@ SKILL_DESCRIPT = {
 	[SKID.RG_STEALCOIN] = {
 		"Afanar ^777777(Steal Coin)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Mãos Leves 4^000000",
+		"Pré-requisitos: ^777777Mãos Leves 4^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Tem a chance de adquirir Zeny de monstros.",
@@ -2803,7 +2803,7 @@ SKILL_DESCRIPT = {
 	[SKID.RG_BACKSTAP] = {
 		"Apunhalar ^777777(Back Stab)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Afanar 4^000000",
+		"Pré-requisitos: ^777777Afanar 4^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^777777Causa dano físico corpo a corpo ao se virar",
@@ -2825,7 +2825,7 @@ SKILL_DESCRIPT = {
 	[SKID.RG_TUNNELDRIVE] = {
 		"Túnel de Fuga ^777777(Tunnel Drive)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Esconderijo 1^000000",
+		"Pré-requisitos: ^777777Esconderijo 1^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
 		"^777777Permite andar lentamente em Esconderijo.",
@@ -2841,7 +2841,7 @@ SKILL_DESCRIPT = {
 	[SKID.RG_RAID] = {
 		"Ataque Surpresa ^777777(Sightless Mind)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Apunhalar 2, Túnel de Fuga 2^000000",
+		"Pré-requisitos: ^777777Apunhalar 2, Túnel de Fuga 2^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^008080Somente em Esconderijo.^000000",
@@ -2861,7 +2861,7 @@ SKILL_DESCRIPT = {
 	[SKID.RG_STRIPWEAPON] = {
 		"Remover Arma ^777777(Strip Weapon)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Remover Armadura 5^000000",
+		"Pré-requisitos: ^777777Remover Armadura 5^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Tenta remover a arma do oponente,",
@@ -2878,7 +2878,7 @@ SKILL_DESCRIPT = {
 	[SKID.RG_STRIPSHIELD] = {
 		"Remover Escudo ^777777(Strip Shield)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Remover Capacete 5^000000",
+		"Pré-requisitos: ^777777Remover Capacete 5^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Tenta remover o escudo do oponente,",
@@ -2895,7 +2895,7 @@ SKILL_DESCRIPT = {
 	[SKID.RG_STRIPARMOR] = {
 		"Remover Armadura ^777777(Strip Armor)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Remover Escudo 5^000000",
+		"Pré-requisitos: ^777777Remover Escudo 5^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Tenta remover a armadura do oponente,",
@@ -2912,7 +2912,7 @@ SKILL_DESCRIPT = {
 	[SKID.RG_STRIPHELM] = {
 		"Remover Capacete ^777777(Strip Helm)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Afanar 2^000000",
+		"Pré-requisitos: ^777777Afanar 2^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Tenta remover o capacete do oponente,",
@@ -2946,7 +2946,7 @@ SKILL_DESCRIPT = {
 	[SKID.RG_GRAFFITI] = {
 		"Graffiti ^777777(Graffiti)^000000",
 		"Nível máximo: ^7777771^000000",
-		"Pré requisitos: ^777777Malandragem 1^000000",
+		"Pré-requisitos: ^777777Malandragem 1^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Escreve uma frase de até 20 caracteres.",
@@ -2957,23 +2957,23 @@ SKILL_DESCRIPT = {
 	[SKID.RG_FLAGGRAFFITI] = {
 		"Pichar ^777777(Flag Graffiti)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Faxina 1^000000",
+		"Pré-requisitos: ^777777Faxina 1^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
-		"^ff0000Habilidade não implementada.^000000"
+		"^FF0000Habilidade não implementada.^000000"
 	},
 	[SKID.RG_CLEANER] = {
 		"Faxina ^777777(Cleaner)^000000",
 		"Nível máximo: ^7777771^000000",
-		"Pré requisitos: ^777777Malandragem 1^000000",
+		"Pré-requisitos: ^777777Malandragem 1^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
-		"^ff0000Habilidade não implementada.^000000"
+		"^FF0000Habilidade não implementada.^000000"
 	},
 	[SKID.RG_GANGSTER] = {
 		"Malandragem ^777777(Gangster Paradise)^000000",
 		"Nível máximo: ^7777771^000000",
-		"Pré requisitos: ^777777Remover Escudo 3^000000",
+		"Pré-requisitos: ^777777Remover Escudo 3^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
 		"^777777Se outros Arruaceiros sentarem 3x3 células",
@@ -2984,7 +2984,7 @@ SKILL_DESCRIPT = {
 	[SKID.RG_COMPULSION] = {
 		"Extorquir ^777777(Compulsion Discount)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Malandragem 1^000000",
+		"Pré-requisitos: ^777777Malandragem 1^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
 		"^777777Permite comprar itens mais baratos em NPC.^000000",
@@ -2999,12 +2999,12 @@ SKILL_DESCRIPT = {
 	[SKID.RG_PLAGIARISM] = {
 		"Plágio ^777777(Plagiarism)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Rapto 5^000000",
+		"Pré-requisitos: ^777777Rapto 5^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
 		"^777777Permite copiar uma habilidade que você",
 		"sofreu e sobreviveu ao dano recebido.",
-		"A habilidade copiada fica na aba [Variados].",
+		"A habilidade copiada fica na aba [Etc].",
 		"A cópia não conta como habilidade aprendida",
 		"para usar os efeitos de alguns itens.",
 		"Não copia Transclasse, Expandida, Classe 3",
@@ -3064,7 +3064,7 @@ SKILL_DESCRIPT = {
 	[SKID.AM_PHARMACY] = {
 		"Preparar Poção ^777777(Pharmacy)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Pesquisa de Poções 5^000000",
+		"Pré-requisitos: ^777777Pesquisa de Poções 5^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Concede a chance de criar Poções.",
@@ -3075,7 +3075,7 @@ SKILL_DESCRIPT = {
 	[SKID.AM_DEMONSTRATION] = {
 		"Fogo Grego ^777777(Demonstration)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Preparar Poção 4^000000",
+		"Pré-requisitos: ^777777Preparar Poção 4^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^777777Atira um coquetel na área de 3x3 células que",
@@ -3094,7 +3094,7 @@ SKILL_DESCRIPT = {
 	[SKID.AM_ACIDTERROR] = {
 		"Terror Ácido ^777777(Acid Terror)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Preparar Poção 5^000000",
+		"Pré-requisitos: ^777777Preparar Poção 5^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^777777Atira ácido. Causa dano físico a distância e",
@@ -3112,7 +3112,7 @@ SKILL_DESCRIPT = {
 	[SKID.AM_POTIONPITCHER] = {
 		"Arremessar Poção ^777777(Potion Pitcher)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Preparar Poção 3^000000",
+		"Pré-requisitos: ^777777Preparar Poção 3^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^777777Lança uma Poção no alvo, podendo ser o",
@@ -3131,7 +3131,7 @@ SKILL_DESCRIPT = {
 	[SKID.AM_CANNIBALIZE] = {
 		"Criar Monstro Planta ^777777(Bio Cannibalize)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Preparar Poção 6^000000",
+		"Pré-requisitos: ^777777Preparar Poção 6^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Germina uma planta que ajuda nas batalhas.",
@@ -3148,7 +3148,7 @@ SKILL_DESCRIPT = {
 	[SKID.AM_SPHEREMINE] = {
 		"Criar Esfera Marinha ^777777(Sphere Mine)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Preparar Poção 2^000000",
+		"Pré-requisitos: ^777777Preparar Poção 2^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Cria uma Esfera Marinha no local escolhido.",
@@ -3168,7 +3168,7 @@ SKILL_DESCRIPT = {
 	[SKID.AM_CP_WEAPON] = {
 		"Revestir Arma ^777777(Chemical Protection)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Revestir Armadura 3^000000",
+		"Pré-requisitos: ^777777Revestir Armadura 3^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^777777Impede que a Arma seja quebrada",
@@ -3184,7 +3184,7 @@ SKILL_DESCRIPT = {
 	[SKID.AM_CP_SHIELD] = {
 		"Revestir Escudo ^777777(Chemical Protection)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Revestir Capacete 3^000000",
+		"Pré-requisitos: ^777777Revestir Capacete 3^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^777777Impede que o Escudo seja quebrado",
@@ -3200,7 +3200,7 @@ SKILL_DESCRIPT = {
 	[SKID.AM_CP_ARMOR] = {
 		"Revestir Armadura ^777777(Chemical Protection)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Revestir Escudo 3^000000",
+		"Pré-requisitos: ^777777Revestir Escudo 3^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^777777Impede que a Armadura seja quebrada",
@@ -3216,7 +3216,7 @@ SKILL_DESCRIPT = {
 	[SKID.AM_CP_HELM] = {
 		"Revestir Capacete ^777777(Chemical Protection)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Preparar Poção 2^000000",
+		"Pré-requisitos: ^777777Preparar Poção 2^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^777777Impede que o Elmo (Topo) seja quebrado",
@@ -3279,7 +3279,7 @@ SKILL_DESCRIPT = {
 	[SKID.AM_CALLHOMUN] = {
 		"Despertar Homunculus ^777777(Call Homunculus)^000000",
 		"Nível máximo: ^7777771^000000",
-		"Pré requisitos: ^777777Vaporizar 1^000000",
+		"Pré-requisitos: ^777777Vaporizar 1^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Chama um Homunculus vaporizado a partir",
@@ -3291,7 +3291,7 @@ SKILL_DESCRIPT = {
 	[SKID.AM_REST] = {
 		"Vaporizar ^777777(Rest)^000000",
 		"Nível máximo: ^7777771^000000",
-		"Pré requisitos: ^777777Bioética 1^000000",
+		"Pré-requisitos: ^777777Bioética 1^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Adormece o próprio Homunculus ativo.",
@@ -3328,7 +3328,7 @@ SKILL_DESCRIPT = {
 	[SKID.AM_RESURRECTHOMUN] = {
 		"Ressuscitar Homunculus ^777777(Resurrect)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Despertar Homunculus 1^000000",
+		"Pré-requisitos: ^777777Despertar Homunculus 1^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^777777Revive o próprio Homunculus.",
@@ -3387,7 +3387,7 @@ SKILL_DESCRIPT = {
 	[SKID.CR_SHIELDCHARGE] = {
 		"Punição Divina ^777777(Shield Charge)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Bloqueio 5^000000",
+		"Pré-requisitos: ^777777Bloqueio 5^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^008080Apenas com Escudo.^000000",
@@ -3404,7 +3404,7 @@ SKILL_DESCRIPT = {
 	[SKID.CR_SHIELDBOOMERANG] = {
 		"Escudo Bumerangue ^777777(Shield Boomerang)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Punição Divina 3^000000",
+		"Pré-requisitos: ^777777Punição Divina 3^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^008080Apenas com Escudo.^000000",
@@ -3421,7 +3421,7 @@ SKILL_DESCRIPT = {
 	[SKID.CR_REFLECTSHIELD] = {
 		"Escudo Refletor ^777777(Shield Reflect)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Escudo Bumerangue 3^000000",
+		"Pré-requisitos: ^777777Escudo Bumerangue 3^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^008080Apenas com Escudo.^000000",
@@ -3443,7 +3443,7 @@ SKILL_DESCRIPT = {
 	[SKID.CR_HOLYCROSS] = {
 		"Crux Divinum ^777777(Holy Cross)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Fé 7^000000",
+		"Pré-requisitos: ^777777Fé 7^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^777777Faz um corte cruzado, causando dano físico",
@@ -3465,7 +3465,7 @@ SKILL_DESCRIPT = {
 	[SKID.CR_GRANDCROSS] = {
 		"Crux Magnum ^777777(Grand Cross)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Fé 10, Crux Divinum 6^000000",
+		"Pré-requisitos: ^777777Fé 10, Crux Divinum 6^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^777777Causa dano híbrido (físico e mágico) de",
@@ -3488,7 +3488,7 @@ SKILL_DESCRIPT = {
 	[SKID.CR_DEVOTION] = {
 		"Redenção ^777777(Devotion)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Escudo Refletor 5,",
+		"Pré-requisitos: ^777777Escudo Refletor 5,",
 		"Crux Magnum 4^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
@@ -3509,7 +3509,7 @@ SKILL_DESCRIPT = {
 	[SKID.CR_PROVIDENCE] = {
 		"Divina Providência ^777777(Providence)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Curar 5, Proteção Divina 5^000000",
+		"Pré-requisitos: ^777777Curar 5, Proteção Divina 5^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^777777Aumenta a resistência a ataques da raça",
@@ -3525,7 +3525,7 @@ SKILL_DESCRIPT = {
 	[SKID.CR_DEFENDER] = {
 		"Aura Sagrada ^777777(Defender)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Escudo Bumerangue 1^000000",
+		"Pré-requisitos: ^777777Escudo Bumerangue 1^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^008080Apenas com Escudo.^000000",
@@ -3542,7 +3542,7 @@ SKILL_DESCRIPT = {
 	[SKID.CR_SPEARQUICKEN] = {
 		"Rapidez com Lança ^777777(Spear Quicken)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Perícia com Lança 10^000000",
+		"Pré-requisitos: ^777777Perícia com Lança 10^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^008080Apenas com Lanças.^000000",
@@ -3584,7 +3584,7 @@ SKILL_DESCRIPT = {
 	[SKID.MO_SPIRITSRECOVERY] = {
 		"Meditação ^777777(Spirits Recovery)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Dilema 2^000000",
+		"Pré-requisitos: ^777777Dilema 2^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
 		"^777777A cada 10 segundos, regenera mais HP e SP",
@@ -3617,7 +3617,7 @@ SKILL_DESCRIPT = {
 	[SKID.MO_ABSORBSPIRITS] = {
 		"Absorver Esferas Espirituais ^777777(Absorb Spirits)^000000",
 		"Nível máximo: ^7777771^000000",
-		"Pré requisitos: ^777777Invocar Esfera Espiritual 5^000000",
+		"Pré-requisitos: ^777777Invocar Esfera Espiritual 5^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^777777Absorve todas as Esferas Espirituais do alvo,",
@@ -3631,7 +3631,7 @@ SKILL_DESCRIPT = {
 	[SKID.MO_TRIPLEATTACK] = {
 		"Combo Triplo ^777777(Triple Attack)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Cair das Pétalas 5^000000",
+		"Pré-requisitos: ^777777Cair das Pétalas 5^000000",
 		"Tipo: ^777777Passiva^000000 / ^CD3278Combo^000000",
 		"Descrição:",
 		"^777777Ao realizar ataques físicos, 30% de chance",
@@ -3653,7 +3653,7 @@ SKILL_DESCRIPT = {
 	[SKID.MO_BODYRELOCATION] = {
 		"Passo Etéreo ^777777(Body Relocation)^000000",
 		"Nível máximo: ^7777771^000000",
-		"Pré requisitos: ^777777Punho Supremo de Asura 3,",
+		"Pré-requisitos: ^777777Punho Supremo de Asura 3,",
 		"Meditação 2, Corpo Fechado 3^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
@@ -3668,7 +3668,7 @@ SKILL_DESCRIPT = {
 	[SKID.MO_DODGE] = {
 		"Cair das Pétalas ^777777(Dodge)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Punhos de Ferro 5,",
+		"Pré-requisitos: ^777777Punhos de Ferro 5,",
 		"Invocar Esfera Espiritual 5^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição: ^777777Aumenta a Esquiva.^000000",
@@ -3687,7 +3687,7 @@ SKILL_DESCRIPT = {
 	[SKID.MO_INVESTIGATE] = {
 		"Impacto Psíquico ^777777(Investigate)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Invocar Esfera Espiritual 5^000000",
+		"Pré-requisitos: ^777777Invocar Esfera Espiritual 5^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^777777Desfere um ataque penetrante no alvo,",
@@ -3705,7 +3705,7 @@ SKILL_DESCRIPT = {
 	[SKID.MO_FINGEROFFENSIVE] = {
 		"Disparo de Esferas Espirituais ^777777(Throw Spirits)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Impacto Psíquico 3^000000",
+		"Pré-requisitos: ^777777Impacto Psíquico 3^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^777777Causa dano físico a distância em alvo único.",
@@ -3739,7 +3739,7 @@ SKILL_DESCRIPT = {
 	[SKID.MO_BLADESTOP] = {
 		"Dilema ^777777(Blade Stop)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Cair das Pétalas 5^000000",
+		"Pré-requisitos: ^777777Cair das Pétalas 5^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Imobiliza você e o atacante por 10 segundos.",
@@ -3758,7 +3758,7 @@ SKILL_DESCRIPT = {
 	[SKID.MO_EXPLOSIONSPIRITS] = {
 		"Fúria Interior ^777777(Explosion Spirits)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Absorver Esferas Espirituais 1^000000",
+		"Pré-requisitos: ^777777Absorver Esferas Espirituais 1^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^777777Aumenta o CRIT por 180 segundos.",
@@ -3774,7 +3774,7 @@ SKILL_DESCRIPT = {
 	[SKID.MO_EXTREMITYFIST] = {
 		"Punho Supremo de Asura ^777777(Extremity Fist)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Fúria Interior 3,",
+		"Pré-requisitos: ^777777Fúria Interior 3,",
 		"Disparo de Esferas Espirituais 3^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -3791,7 +3791,7 @@ SKILL_DESCRIPT = {
 	[SKID.MO_CHAINCOMBO] = {
 		"Combo Quádruplo ^777777(Chain Combo)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Combo Triplo 5^000000",
+		"Pré-requisitos: ^777777Combo Triplo 5^000000",
 		"Tipo: ^777777Ofensiva^000000 / ^CD3278Combo^000000",
 		"Descrição:",
 		"^008080Após Combo Triplo.^000000",
@@ -3849,7 +3849,7 @@ SKILL_DESCRIPT = {
 	[SKID.SA_CASTCANCEL] = {
 		"Cancelar Magia ^777777(Cast Cancel)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Estudo de Livros 2^000000",
+		"Pré-requisitos: ^777777Estudo de Livros 2^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Permite cancelar a conjuração de uma",
@@ -3866,7 +3866,7 @@ SKILL_DESCRIPT = {
 	[SKID.SA_MAGICROD] = {
 		"Espelho Mágico ^777777(Magic Rod)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Estudo de Livros 4^000000",
+		"Pré-requisitos: ^777777Estudo de Livros 4^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Se mantém imóvel temporariamente para",
@@ -3884,7 +3884,7 @@ SKILL_DESCRIPT = {
 	[SKID.SA_SPELLBREAKER] = {
 		"Desconcentrar ^777777(Spell Breaker)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Espelho Mágico 1^000000",
+		"Pré-requisitos: ^777777Espelho Mágico 1^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Cancela a conjuração de um oponenente e",
@@ -3902,7 +3902,7 @@ SKILL_DESCRIPT = {
 	[SKID.SA_FREECAST] = {
 		"Conjuração Livre ^777777(Free Cast)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Cancelar Magia 1^000000",
+		"Pré-requisitos: ^777777Cancelar Magia 1^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
 		"^777777Permite andar e atacar fisicamente",
@@ -3924,7 +3924,7 @@ SKILL_DESCRIPT = {
 	[SKID.SA_AUTOSPELL] = {
 		"Desejo Arcano ^777777(Auto Spell)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Conjuração Livre 4^000000",
+		"Pré-requisitos: ^777777Conjuração Livre 4^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Seleciona uma habilidade para autoconjurar.",
@@ -3948,7 +3948,7 @@ SKILL_DESCRIPT = {
 	[SKID.SA_FLAMELAUNCHER] = {
 		"Encantar com Chama ^777777(Flame Launcher)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Lanças de Fogo 1,",
+		"Pré-requisitos: ^777777Lanças de Fogo 1,",
 		"Estudo de Livros 5^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
@@ -3966,7 +3966,7 @@ SKILL_DESCRIPT = {
 	[SKID.SA_FROSTWEAPON] = {
 		"Encantar com Geada ^777777(Frost Weapon)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Lanças de Gelo 1,",
+		"Pré-requisitos: ^777777Lanças de Gelo 1,",
 		"Estudo de Livros 5^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
@@ -3984,7 +3984,7 @@ SKILL_DESCRIPT = {
 	[SKID.SA_LIGHTNINGLOADER] = {
 		"Encantar com Ventania ^777777(Lightning Loader)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Relâmpago 1,",
+		"Pré-requisitos: ^777777Relâmpago 1,",
 		"Estudo de Livros 5^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
@@ -4002,7 +4002,7 @@ SKILL_DESCRIPT = {
 	[SKID.SA_SEISMICWEAPON] = {
 		"Encantar com Terremoto ^777777(Seismic Weapon)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Petrificar 1,",
+		"Pré-requisitos: ^777777Petrificar 1,",
 		"Estudo de Livros 5^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
@@ -4020,7 +4020,7 @@ SKILL_DESCRIPT = {
 	[SKID.SA_DRAGONOLOGY] = {
 		"Dragonologia ^777777(Dragonology)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Estudo de Livros 9^000000",
+		"Pré-requisitos: ^777777Estudo de Livros 9^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
 		"^777777Aumenta a resistência, o dano físico e mágico",
@@ -4036,7 +4036,7 @@ SKILL_DESCRIPT = {
 	[SKID.SA_VOLCANO] = {
 		"Vulcão ^777777(Volcano)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Encantar com Chama 2^000000",
+		"Pré-requisitos: ^777777Encantar com Chama 2^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^777777Cria um terreno mágico de 7x7 células que",
@@ -4056,7 +4056,7 @@ SKILL_DESCRIPT = {
 	[SKID.SA_DELUGE] = {
 		"Dilúvio ^777777(Deluge)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Encantar com Geada 2^000000",
+		"Pré-requisitos: ^777777Encantar com Geada 2^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^777777Cria um terreno mágico de 7x7 células que",
@@ -4076,7 +4076,7 @@ SKILL_DESCRIPT = {
 	[SKID.SA_VIOLENTGALE] = {
 		"Furacão ^777777(Whirlwind)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Encantar com Ventania 2^000000",
+		"Pré-requisitos: ^777777Encantar com Ventania 2^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^777777Cria um terreno mágico de 7x7 células que",
@@ -4096,7 +4096,7 @@ SKILL_DESCRIPT = {
 	[SKID.SA_LANDPROTECTOR] = {
 		"Proteger Terreno ^777777(Land Protector)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Vulcão 3, Dilúvio 3, Furacão 3^000000",
+		"Pré-requisitos: ^777777Vulcão 3, Dilúvio 3, Furacão 3^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^777777Protege a área de certas magias de solo,",
@@ -4112,7 +4112,7 @@ SKILL_DESCRIPT = {
 	[SKID.SA_DISPELL] = {
 		"Desencantar ^777777(Dispell)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Desconcentrar 3^000000",
+		"Pré-requisitos: ^777777Desconcentrar 3^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^777777Dá chance de remover efeitos ativos no alvo.",
@@ -4129,7 +4129,7 @@ SKILL_DESCRIPT = {
 	[SKID.SA_ABRACADABRA] = {
 		"Abracadabra",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Desejo Arcano 5,",
+		"Pré-requisitos: ^777777Desejo Arcano 5,",
 		"Desencantar 1, Proteger Terreno 1^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
@@ -4246,7 +4246,7 @@ SKILL_DESCRIPT = {
 	[SKID.BD_ENCORE] = {
 		"Bis ^777777(Encore)^000000",
 		"Nível máximo: ^7777771^000000",
-		"Pré requisitos: ^777777Aquecimento 1^000000",
+		"Pré-requisitos: ^777777Aquecimento 1^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Repete a última habilidade artística, mas",
@@ -4258,7 +4258,7 @@ SKILL_DESCRIPT = {
 	[SKID.BD_LULLABY] = {
 		"Cantiga de Ninar ^777777(Lullaby)^000000",
 		"Nível máximo: ^7777771^000000",
-		"Pré requisitos:",
+		"Pré-requisitos:",
 		"^777777Assovio 10^000000 ou ^777777Sibilo 10^000000",
 		"Tipo: ^777777Ativa^000000 / ^CD3278Dueto^000000",
 		"Descrição:",
@@ -4273,7 +4273,7 @@ SKILL_DESCRIPT = {
 	[SKID.BD_RICHMANKIM] = {
 		"Banquete de Njord ^777777(Mr. Kim A Rich Man)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Ode a Siegfried 3^000000",
+		"Pré-requisitos: ^777777Ode a Siegfried 3^000000",
 		"Tipo: ^777777Suporte^000000 / ^CD3278Dueto^000000",
 		"Descrição:",
 		"^008080Apenas Chicotes ou Instrumentos.^000000",
@@ -4294,7 +4294,7 @@ SKILL_DESCRIPT = {
 	[SKID.BD_ETERNALCHAOS] = {
 		"Ritmo Caótico ^777777(Eternal Chaos)^000000",
 		"Nível máximo: ^7777771^000000",
-		"Pré requisitos: ^777777Lamento de Loki 1^000000",
+		"Pré-requisitos: ^777777Lamento de Loki 1^000000",
 		"Tipo: ^777777Ativa^000000 / ^CD3278Dueto^000000",
 		"Descrição:",
 		"^008080Apenas Chicotes ou Instrumentos.^000000",
@@ -4309,7 +4309,7 @@ SKILL_DESCRIPT = {
 	[SKID.BD_DRUMBATTLEFIELD] = {
 		"Rufar dos Tambores ^777777(Battle Theme)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos:",
+		"Pré-requisitos:",
 		"^777777Maçãs de Idun 10^000000 ou ^777777Dança Cigana 10^000000",
 		"Tipo: ^777777Suporte^000000 / ^CD3278Dueto^000000",
 		"Descrição:",
@@ -4330,7 +4330,7 @@ SKILL_DESCRIPT = {
 	[SKID.BD_RINGNIBELUNGEN] = {
 		"Anel dos Nibelungos ^777777(Ring of Nibelungen)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Rufar dos Tambores 3^000000",
+		"Pré-requisitos: ^777777Rufar dos Tambores 3^000000",
 		"Tipo: ^777777Suporte^000000 / ^CD3278Dueto^000000",
 		"Descrição:",
 		"^008080Apenas Chicotes ou Instrumentos.^000000",
@@ -4356,7 +4356,7 @@ SKILL_DESCRIPT = {
 	[SKID.BD_ROKISWEIL] = {
 		"Lamento de Loki ^777777(Loki's Veil)^000000",
 		"Nível máximo: ^7777771^000000",
-		"Pré requisitos:",
+		"Pré-requisitos:",
 		"^777777Crepúsculo Sangrento 10^000000 ou",
 		"^777777Não Me Abandones 10^000000",
 		"Tipo: ^777777Ativa^000000 / ^CD3278Dueto^000000",
@@ -4374,7 +4374,7 @@ SKILL_DESCRIPT = {
 	[SKID.BD_INTOABYSS] = {
 		"Canção Preciosa ^777777(Into the Abyss)^000000",
 		"Nível máximo: ^7777771^000000",
-		"Pré requisitos: ^777777Cantiga de Ninar 1^000000",
+		"Pré-requisitos: ^777777Cantiga de Ninar 1^000000",
 		"Tipo: ^777777Suporte^000000 / ^CD3278Dueto^000000",
 		"Descrição:",
 		"^008080Apenas Chicotes ou Instrumentos.^000000",
@@ -4389,7 +4389,7 @@ SKILL_DESCRIPT = {
 	[SKID.BD_SIEGFRIED] = {
 		"Ode a Siegfried ^777777(Invulnerable Siegfried)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos:",
+		"Pré-requisitos:",
 		"^777777Poema de Bragi 10^000000 ou ^777777Beijo da Sorte 10^000000",
 		"Tipo: ^777777Suporte^000000 / ^CD3278Dueto^000000",
 		"Descrição:",
@@ -4435,7 +4435,7 @@ SKILL_DESCRIPT = {
 	[SKID.BA_MUSICALSTRIKE] = {
 		"Flecha Melódica ^777777(Melody Strike)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Lições de Música 3^000000",
+		"Pré-requisitos: ^777777Lições de Música 3^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^008080Apenas Instrumentos Musicais.^000000",
@@ -4452,7 +4452,7 @@ SKILL_DESCRIPT = {
 	[SKID.BA_DISSONANCE] = {
 		"Dissonância ^777777(Dissonance)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos:",
+		"Pré-requisitos:",
 		"^777777Aquecimento 1, Lições de Música 1^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
@@ -4471,7 +4471,7 @@ SKILL_DESCRIPT = {
 	[SKID.BA_FROSTJOKE] = {
 		"Piada Infame ^777777(Frost Joker)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Bis 1^000000",
+		"Pré-requisitos: ^777777Bis 1^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Conta uma piada tão ruim que pode infligir",
@@ -4487,7 +4487,7 @@ SKILL_DESCRIPT = {
 	[SKID.BA_WHISTLE] = {
 		"Assovio ^777777(Whistle)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Dissonância 3^000000",
+		"Pré-requisitos: ^777777Dissonância 3^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^008080Apenas Instrumentos Musicais.^000000",
@@ -4510,7 +4510,7 @@ SKILL_DESCRIPT = {
 	[SKID.BA_ASSASSINCROSS] = {
 		"Crepúsculo Sangrento ^777777(Assassin of Sunset)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Dissonância 3^000000",
+		"Pré-requisitos: ^777777Dissonância 3^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^008080Apenas Instrumentos Musicais.^000000",
@@ -4533,7 +4533,7 @@ SKILL_DESCRIPT = {
 	[SKID.BA_POEMBRAGI] = {
 		"Poema de Bragi ^777777(Poem of Bragi)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Dissonância 3^000000",
+		"Pré-requisitos: ^777777Dissonância 3^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^008080Apenas Instrumentos Musicais.^000000",
@@ -4556,7 +4556,7 @@ SKILL_DESCRIPT = {
 	[SKID.BA_APPLEIDUN] = {
 		"Maçãs de Idun ^777777(Apple of Idun)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Dissonância 3^000000",
+		"Pré-requisitos: ^777777Dissonância 3^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^008080Apenas Instrumentos Musicais.^000000",
@@ -4598,7 +4598,7 @@ SKILL_DESCRIPT = {
 	[SKID.DC_THROWARROW] = {
 		"Estilingue ^777777(Throw Arrow)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Lições de Dança 3^000000",
+		"Pré-requisitos: ^777777Lições de Dança 3^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^008080Apenas Chicotes.^000000",
@@ -4633,7 +4633,7 @@ SKILL_DESCRIPT = {
 	[SKID.DC_SCREAM] = {
 		"Escândalo ^777777(Scream)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Bis 1^000000",
+		"Pré-requisitos: ^777777Bis 1^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Grita tão alto que pode infligir",
@@ -4649,7 +4649,7 @@ SKILL_DESCRIPT = {
 	[SKID.DC_HUMMING] = {
 		"Sibilo ^777777(Humming)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Dança do Ventre 3^000000",
+		"Pré-requisitos: ^777777Dança do Ventre 3^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^008080Apenas Chicotes.^000000",
@@ -4671,7 +4671,7 @@ SKILL_DESCRIPT = {
 	[SKID.DC_DONTFORGETME] = {
 		"Não Me Abandones ^777777(Don't Forget Me)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Dança do Ventre 3^000000",
+		"Pré-requisitos: ^777777Dança do Ventre 3^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^008080Apenas Chicotes.^000000",
@@ -4695,7 +4695,7 @@ SKILL_DESCRIPT = {
 	[SKID.DC_FORTUNEKISS] = {
 		"Beijo da Sorte ^777777(Fortune Kiss)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Dança do Ventre 3^000000",
+		"Pré-requisitos: ^777777Dança do Ventre 3^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^008080Apenas Chicotes.^000000",
@@ -4718,7 +4718,7 @@ SKILL_DESCRIPT = {
 	[SKID.DC_SERVICEFORYOU] = {
 		"Dança Cigana ^777777(Service for You)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Dança do Ventre 3^000000",
+		"Pré-requisitos: ^777777Dança do Ventre 3^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^008080Apenas Chicotes.^000000",
@@ -4773,7 +4773,7 @@ SKILL_DESCRIPT = {
 	[SKID.LK_AURABLADE] = {
 		"Lâmina de Aura ^777777(Aura Blade)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Impacto Explosivo 5,",
+		"Pré-requisitos: ^777777Impacto Explosivo 5,",
 		"Perícia com Espada de Duas Mãos 5^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
@@ -4789,7 +4789,7 @@ SKILL_DESCRIPT = {
 	[SKID.LK_PARRYING] = {
 		"Aparar Golpe ^777777(Parry)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Provocar 5,",
+		"Pré-requisitos: ^777777Provocar 5,",
 		"Rapidez com Duas Mãos 3,",
 		"Perícia com Espada de Duas Mãos 10^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -4812,7 +4812,7 @@ SKILL_DESCRIPT = {
 	[SKID.LK_CONCENTRATION] = {
 		"Dedicação ^777777(Concentration)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos:",
+		"Pré-requisitos:",
 		"^777777Montaria 1, Perícia com Lança 5,",
 		"Aumentar Recuperação de HP 5^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -4829,7 +4829,7 @@ SKILL_DESCRIPT = {
 	[SKID.LK_TENSIONRELAX] = {
 		"Relaxar ^777777(Tension Relax)^000000",
 		"Nível máximo: ^7777771^000000",
-		"Pré requisitos: ^777777Vigor 3,",
+		"Pré-requisitos: ^777777Vigor 3,",
 		"Aumentar Recuperação de HP 10^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
@@ -4840,7 +4840,7 @@ SKILL_DESCRIPT = {
 	[SKID.LK_BERSERK] = {
 		"Frenesi ^777777(Bersek)^000000",
 		"Nível máximo: ^7777771^000000",
-		"Pré requisitos: ^777777Nv. de classe 50^000000",
+		"Pré-requisitos: ^777777Nv. de classe 50^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Recupera todo o HP para ativar.",
@@ -4856,7 +4856,7 @@ SKILL_DESCRIPT = {
 	[SKID.HP_ASSUMPTIO] = {
 		"Assumptio",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Angelus 1, Impositio Manus 3,",
+		"Pré-requisitos: ^777777Angelus 1, Impositio Manus 3,",
 		"Aumentar Recuperação de SP 3^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
@@ -4871,7 +4871,7 @@ SKILL_DESCRIPT = {
 	[SKID.HP_BASILICA] = {
 		"Basílica",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Gloria 2,",
+		"Pré-requisitos: ^777777Gloria 2,",
 		"Aumentar Recuperação de SP 1^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
@@ -4888,7 +4888,7 @@ SKILL_DESCRIPT = {
 	[SKID.HP_MEDITATIO] = {
 		"Meditatio",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos:",
+		"Pré-requisitos:",
 		"^777777Aumentar Recuperação de SP 5,",
 		"Lex Divina 5, Aspersio 3^000000",
 		"Tipo: ^777777Passiva^000000",
@@ -4910,7 +4910,7 @@ SKILL_DESCRIPT = {
 	[SKID.HW_SOULDRAIN] = {
 		"Dreno de Alma ^777777(Soul Drain)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Espíritos Anciões 7,",
+		"Pré-requisitos: ^777777Espíritos Anciões 7,",
 		"Aumentar Recuperação de SP 5^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
@@ -4934,7 +4934,7 @@ SKILL_DESCRIPT = {
 	[SKID.HW_MAGICCRASHER] = {
 		"Esmagamento Mágico ^777777(Magic Crasher)^000000",
 		"Nível máximo: ^7777771^000000",
-		"Pré requisitos:",
+		"Pré-requisitos:",
 		"^777777Aumentar Recuperação de SP 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -4962,7 +4962,7 @@ SKILL_DESCRIPT = {
 	[SKID.PA_PRESSURE] = {
 		"Gloria Domini ^777777(Pressure)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Vigor 5, Fé 5,",
+		"Pré-requisitos: ^777777Vigor 5, Fé 5,",
 		"Punição Divina 2^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -4978,7 +4978,7 @@ SKILL_DESCRIPT = {
 	[SKID.PA_SACRIFICE] = {
 		"Sacrifício do Mártir ^777777(Sacrifice)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Vigor 1, Redenção 3^000000",
+		"Pré-requisitos: ^777777Vigor 1, Redenção 3^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Ao realizar ataques físicos normais,",
@@ -4997,7 +4997,7 @@ SKILL_DESCRIPT = {
 	[SKID.PA_GOSPEL] = {
 		"Canto de Batalha ^777777(Gospel)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Fé 8, Flagelo do Mal 5,",
+		"Pré-requisitos: ^777777Fé 8, Flagelo do Mal 5,",
 		"Proteção Divina 3^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
@@ -5010,7 +5010,7 @@ SKILL_DESCRIPT = {
 	[SKID.CH_PALMSTRIKE] = {
 		"Golpe da Palma em Fúria ^777777(Palm Strike)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Punhos de Ferro 7,",
+		"Pré-requisitos: ^777777Punhos de Ferro 7,",
 		"Invocar Esfera Espiritual 5^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -5029,7 +5029,7 @@ SKILL_DESCRIPT = {
 	[SKID.CH_TIGERFIST] = {
 		"Punho do Tigre ^777777(Tiger Fist)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777O Último Dragão 3^000000",
+		"Pré-requisitos: ^777777O Último Dragão 3^000000",
 		"Tipo: ^777777Ofensiva^000000 / ^CD3278Combo^000000",
 		"Descrição:",
 		"^008080Somente após [O Último Dragão].^000000",
@@ -5047,7 +5047,7 @@ SKILL_DESCRIPT = {
 	[SKID.CH_CHAINCRUSH] = {
 		"Combo Esmagador ^777777(Chain Crush)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Punhos de Ferro 5,",
+		"Pré-requisitos: ^777777Punhos de Ferro 5,",
 		"Punho do Tigre 2, Inv. Esfera Espiritual 5^000000",
 		"Tipo: ^777777Ofensiva^000000 / ^CD3278Combo^000000",
 		"Descrição:",
@@ -5073,7 +5073,7 @@ SKILL_DESCRIPT = {
 	[SKID.PF_HPCONVERSION] = {
 		"Indulgir ^777777(HP Conversion)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Espelho Mágico 1,",
+		"Pré-requisitos: ^777777Espelho Mágico 1,",
 		"Aumentar Recuperação de SP 1^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
@@ -5091,7 +5091,7 @@ SKILL_DESCRIPT = {
 	[SKID.PF_SOULCHANGE] = {
 		"Exalar Alma ^777777(Soul Change)^000000",
 		"Nível máximo: ^7777771^000000",
-		"Pré requisitos:",
+		"Pré-requisitos:",
 		"^777777Espelho Mágico 3, Desconcentrar 2^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
@@ -5102,7 +5102,7 @@ SKILL_DESCRIPT = {
 	[SKID.PF_SOULBURN] = {
 		"Sifão de Alma ^777777(Soul Burn)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Cancelar Magia 5,",
+		"Pré-requisitos: ^777777Cancelar Magia 5,",
 		"Espelho Mágico 3, Desencantar 3^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -5121,7 +5121,7 @@ SKILL_DESCRIPT = {
 	[SKID.ASC_KATAR] = {
 		"Perícia com Katar Avançada ^777777(Adv. Katar)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Ataque Duplo 5,",
+		"Pré-requisitos: ^777777Ataque Duplo 5,",
 		"Perícia com Katar 7^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
@@ -5153,7 +5153,7 @@ SKILL_DESCRIPT = {
 	[SKID.ASC_BREAKER] = {
 		"Destruidor de Almas ^777777(Soul Breaker)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Envenenar Arma 6,",
+		"Pré-requisitos: ^777777Envenenar Arma 6,",
 		"Ataque Duplo 5, Esconderijo 2,",
 		"Envenenar 5, Furtividade 3^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -5177,7 +5177,7 @@ SKILL_DESCRIPT = {
 	[SKID.SN_SIGHT] = {
 		"Visão Real ^777777(True Sight)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Precisão 10,",
+		"Pré-requisitos: ^777777Precisão 10,",
 		"Olhos de Águia 10, Concentrar 10,",
 		"Adestrar Ave 1^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -5199,7 +5199,7 @@ SKILL_DESCRIPT = {
 	[SKID.SN_FALCONASSAULT] = {
 		"Assalto do Falcão ^777777(Falcon Assault)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos:",
+		"Pré-requisitos:",
 		"^777777Olhos de Águia 5, Garras de Aço 3^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -5210,7 +5210,7 @@ SKILL_DESCRIPT = {
 	[SKID.SN_SHARPSHOOTING] = {
 		"Tiro Preciso ^777777(Sharp Shooting)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos:",
+		"Pré-requisitos:",
 		"^777777Rajada de Flechas 5, Concentrar 10^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -5231,7 +5231,7 @@ SKILL_DESCRIPT = {
 	[SKID.SN_WINDWALK] = {
 		"Caminho do Vento ^777777(Wind Walk)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Concentrar 9^000000",
+		"Pré-requisitos: ^777777Concentrar 9^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^777777Aumenta a Esquiva e o movimento",
@@ -5243,7 +5243,7 @@ SKILL_DESCRIPT = {
 	[SKID.WS_MELTDOWN] = {
 		"Golpe Estilhaçante ^777777(Melt Down)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Resistência ao Fogo 3,",
+		"Pré-requisitos: ^777777Resistência ao Fogo 3,",
 		"Força Violenta 3, Perícia em Armamento 5^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
@@ -5268,7 +5268,7 @@ SKILL_DESCRIPT = {
 	[SKID.WS_CARTBOOST] = {
 		"Impulso no Carrinho ^777777(Cart Boost)^000000",
 		"Nível máximo: ^7777771^000000",
-		"Pré requisitos: ^777777Punho Firme 1,",
+		"Pré-requisitos: ^777777Punho Firme 1,",
 		"Cavalo de Pau 1, Usar Carrinho 5,",
 		"Personalizar Carrinho 1^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -5283,7 +5283,7 @@ SKILL_DESCRIPT = {
 	[SKID.ST_CHASEWALK] = {
 		"Espreitar ^777777(Chase Walk)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos:",
+		"Pré-requisitos:",
 		"^777777Esconderijo 5, Túnel de Fuga 3^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
@@ -5326,7 +5326,7 @@ SKILL_DESCRIPT = {
 	[SKID.CG_ARROWVULCAN] = {
 		"Vulcão de Flechas ^777777(Arrow Vulcan)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Rajada de Flechas 5,",
+		"Pré-requisitos: ^777777Rajada de Flechas 5,",
 		"Chuva de Flechas 5, Flecha Melódica 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -5349,16 +5349,16 @@ SKILL_DESCRIPT = {
 	[SKID.CG_MOONLIT] = {
 		"Bênção Protetora ^777777(Moonlight Water Mill)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Concentrar 5,",
+		"Pré-requisitos: ^777777Concentrar 5,",
 		"Lições de Música 7^000000 ou ^777777Lições de Dança 7^000000",
-		"Tipo: ^777777Suporte^000000 / ^CD3278Dueto^000000",
+		"Tipo: ^777777Suporte^000000 / ^CD3278Dupla^000000",
 		"Descrição:",
 		"^777777Empurra oponentes e impede que eles se",
 		"aproximem da área de 5x5 células ao redor.",
 		"Os artistas estarão imunes a danos",
 		"físicos corpo a corpo.",
 		"Se houver obstáculos na área,",
-		"o dueto não poderá ser iniciado.",
+		"a dupla não poderá ser iniciada.",
 		"Consome SP a cada 10 segundos ativo.^000000",
 		"Nível l Duração",
 		"[Nv 1]: ^77777720 segundos^000000",
@@ -5370,7 +5370,7 @@ SKILL_DESCRIPT = {
 	[SKID.CG_MARIONETTE] = {
 		"Controle de Marionete ^777777(Marionette Control)^000000",
 		"Nível máximo: ^7777771^000000",
-		"Pré requisitos: ^777777Concentrar 10,",
+		"Pré-requisitos: ^777777Concentrar 10,",
 		"Lições de Música 5^000000 ou ^777777Lições de Dança 5^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
@@ -5384,7 +5384,7 @@ SKILL_DESCRIPT = {
 	[SKID.LK_SPIRALPIERCE] = {
 		"Perfurar em Espiral ^777777(Spiral Pierce)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Perícia com Lança 5,",
+		"Pré-requisitos: ^777777Perícia com Lança 5,",
 		"Perfurar 5, Estocada 5^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -5402,7 +5402,7 @@ SKILL_DESCRIPT = {
 	[SKID.LK_HEADCRUSH] = {
 		"Golpe Traumático ^777777(Head Crush)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos:",
+		"Pré-requisitos:",
 		"^777777Perícia com Lança 9, Montaria 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -5418,7 +5418,7 @@ SKILL_DESCRIPT = {
 	[SKID.LK_JOINTBEAT] = {
 		"Ataque Vital ^777777(Joint Beat)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Perícia com Lança 9,",
+		"Pré-requisitos: ^777777Perícia com Lança 9,",
 		"Perícia em Montaria 3, Golpe Traumático 3^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -5442,7 +5442,7 @@ SKILL_DESCRIPT = {
 	[SKID.HW_NAPALMVULCAN] = {
 		"Vulcão Napalm ^777777(Napalm Vulcan)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Ataque Espiritual 5^000000",
+		"Pré-requisitos: ^777777Ataque Espiritual 5^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^777777Usa golpes telecinéticos para causar dano",
@@ -5460,7 +5460,7 @@ SKILL_DESCRIPT = {
 	[SKID.CH_SOULCOLLECT] = {
 		"Zen ^777777(Dangerous Soul Collect)^000000",
 		"Nível máximo: ^7777771^000000",
-		"Pré requisitos: ^777777Fúria Interior 5^000000",
+		"Pré-requisitos: ^777777Fúria Interior 5^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777De uma só vez, invoca o maior número",
@@ -5469,7 +5469,7 @@ SKILL_DESCRIPT = {
 	[SKID.PF_MINDBREAKER] = {
 		"Enlouquecedor ^777777(Mind Breaker)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Sifão de Alma 2,",
+		"Pré-requisitos: ^777777Sifão de Alma 2,",
 		"Aumentar Recuperação de SP 3^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
@@ -5487,7 +5487,7 @@ SKILL_DESCRIPT = {
 	[SKID.PF_MEMORIZE] = {
 		"Presciência ^777777(Memorize)^000000",
 		"Nível máximo: ^7777771^000000",
-		"Pré requisitos: ^777777Desejo Arcano 1,",
+		"Pré-requisitos: ^777777Desejo Arcano 1,",
 		"Estudo de Livros 5, Conjuração Livre 5^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
@@ -5497,7 +5497,7 @@ SKILL_DESCRIPT = {
 	[SKID.PF_FOGWALL] = {
 		"Bruma Ofuscante ^777777(Wall of Fog)^000000",
 		"Nível máximo: ^7777771^000000",
-		"Pré requisitos: ^777777Furacão 2, Dilúvio 2^000000",
+		"Pré-requisitos: ^777777Furacão 2, Dilúvio 2^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Cria uma neblina na área de 5x3 células",
@@ -5510,7 +5510,7 @@ SKILL_DESCRIPT = {
 	[SKID.PF_SPIDERWEB] = {
 		"Prisão de Teia ^777777(Spider Web)^000000",
 		"Nível máximo: ^7777771^000000",
-		"Pré requisitos: ^777777Dragonologia 4^000000",
+		"Pré-requisitos: ^777777Dragonologia 4^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Imobiliza o alvo, reduzindo a Esquiva.",
@@ -5522,7 +5522,7 @@ SKILL_DESCRIPT = {
 	[SKID.ASC_METEORASSAULT] = {
 		"Impacto Meteoro ^777777(Meteor Assault)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Perícia com Mão Direita 3",
+		"Pré-requisitos: ^777777Perícia com Mão Direita 3",
 		"Perícia com Katar 5, Destruidor de Almas 1",
 		"Lâminas Destruidoras 5^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -5547,7 +5547,7 @@ SKILL_DESCRIPT = {
 	[SKID.ASC_CDP] = {
 		"Criar Veneno Mortal ^777777(CPD)^000000",
 		"Nível máximo: ^7777771^000000",
-		"Pré requisitos: ^777777Envenenar Arma 5,",
+		"Pré-requisitos: ^777777Envenenar Arma 5,",
 		"Envenenar 10, Desintoxicar 1^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
@@ -5610,7 +5610,7 @@ SKILL_DESCRIPT = {
 	[SKID.TK_READYSTORM] = {
 		"Postura do Tornado ^777777(Ready Storm)^000000",
 		"Nível máximo: ^7777771^000000",
-		"Pré requisitos: ^777777Chute do Tornado 1^000000",
+		"Pré-requisitos: ^777777Chute do Tornado 1^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^FF0000Não pode ser usada por Espiritualistas.^000000",
@@ -5640,7 +5640,7 @@ SKILL_DESCRIPT = {
 	[SKID.TK_READYDOWN] = {
 		"Postura da Patada Voadora ^777777(Ready Down)^000000",
 		"Nível máximo: ^7777771^000000",
-		"Pré requisitos: ^777777Patada Voadora 1^000000",
+		"Pré-requisitos: ^777777Patada Voadora 1^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^FF0000Não pode ser usada por Espiritualistas.^000000",
@@ -5670,7 +5670,7 @@ SKILL_DESCRIPT = {
 	[SKID.TK_READYTURN] = {
 		"Postura da Rasteira ^777777(Ready Turn)^000000",
 		"Nível máximo: ^7777771^000000",
-		"Pré requisitos: ^777777Rasteira 1^000000",
+		"Pré-requisitos: ^777777Rasteira 1^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^FF0000Não pode ser usada por Espiritualistas.^000000",
@@ -5702,7 +5702,7 @@ SKILL_DESCRIPT = {
 	[SKID.TK_READYCOUNTER] = {
 		"Postura do Contrachute ^777777(Ready Counter)^000000",
 		"Nível máximo: ^7777771^000000",
-		"Pré requisitos: ^777777Contrachute 1^000000",
+		"Pré-requisitos: ^777777Contrachute 1^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^FF0000Não pode ser usada por Espiritualistas.^000000",
@@ -5732,7 +5732,7 @@ SKILL_DESCRIPT = {
 	[SKID.TK_DODGE] = {
 		"Cambalhota ^777777(Dodge)^000000",
 		"Nível máximo: ^7777771^000000",
-		"Pré requisitos: ^777777Chute Aéreo 7^000000",
+		"Pré-requisitos: ^777777Chute Aéreo 7^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Ao receber danos físicos a distância, tem",
@@ -5823,7 +5823,7 @@ SKILL_DESCRIPT = {
 	[SKID.TK_SEVENWIND] = {
 		"Brisa Leve ^777777(Seven Wind)^000000",
 		"Nível máximo: ^7777777^000000",
-		"Pré requisitos:",
+		"Pré-requisitos:",
 		"^777777Trégua Rápida 5, Retiro Rápido 5, Kihop 5^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
@@ -5877,7 +5877,7 @@ SKILL_DESCRIPT = {
 	[SKID.SG_SUN_WARM] = {
 		"Calor Solar ^777777(Sun Warm)^000000",
 		"Nível máximo: ^7777773^000000",
-		"Pré requisitos:",
+		"Pré-requisitos:",
 		"^777777Percepção Solar, Lunar e Estelar 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -5895,7 +5895,7 @@ SKILL_DESCRIPT = {
 	[SKID.SG_MOON_WARM] = {
 		"Calor Lunar ^777777(Moon Warm)^000000",
 		"Nível máximo: ^7777773^000000",
-		"Pré requisitos:",
+		"Pré-requisitos:",
 		"^777777Percepção Solar, Lunar e Estelar 2^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -5913,7 +5913,7 @@ SKILL_DESCRIPT = {
 	[SKID.SG_STAR_WARM] = {
 		"Calor Estelar ^777777(Star Warm)^000000",
 		"Nível máximo: ^7777773^000000",
-		"Pré requisitos:",
+		"Pré-requisitos:",
 		"^777777Percepção Solar, Lunar e Estelar 3^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -5931,7 +5931,7 @@ SKILL_DESCRIPT = {
 	[SKID.SG_SUN_COMFORT] = {
 		"Proteção Solar ^777777(Sun Comfort)^000000",
 		"Nível máximo: ^7777774^000000",
-		"Pré requisitos:",
+		"Pré-requisitos:",
 		"^777777Percepção Solar, Lunar e Estelar 1^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
@@ -5948,7 +5948,7 @@ SKILL_DESCRIPT = {
 	[SKID.SG_MOON_COMFORT] = {
 		"Proteção Lunar ^777777(Moon Comfort)^000000",
 		"Nível máximo: ^7777774^000000",
-		"Pré requisitos:",
+		"Pré-requisitos:",
 		"^777777Percepção Solar, Lunar e Estelar 2^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
@@ -5965,7 +5965,7 @@ SKILL_DESCRIPT = {
 	[SKID.SG_STAR_COMFORT] = {
 		"Proteção Estelar ^777777(Star Comfort)^000000",
 		"Nível máximo: ^7777774^000000",
-		"Pré requisitos:",
+		"Pré-requisitos:",
 		"^777777Percepção Solar, Lunar e Estelar 3^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
@@ -5999,7 +5999,7 @@ SKILL_DESCRIPT = {
 	[SKID.SG_SUN_ANGER] = {
 		"Fúria Solar ^777777(Sun Anger)^000000",
 		"Nível máximo: ^7777773^000000",
-		"Pré requisitos:",
+		"Pré-requisitos:",
 		"^777777Oposição Solar, Lunar e Estelar 1^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
@@ -6010,7 +6010,7 @@ SKILL_DESCRIPT = {
 	[SKID.SG_MOON_ANGER] = {
 		"Fúria Lunar ^777777(Moon Anger)^000000",
 		"Nível máximo: ^7777773^000000",
-		"Pré requisitos:",
+		"Pré-requisitos:",
 		"^777777Oposição Solar, Lunar e Estelar 2^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
@@ -6021,7 +6021,7 @@ SKILL_DESCRIPT = {
 	[SKID.SG_STAR_ANGER] = {
 		"Fúria Estelar ^777777(Star Anger)^000000",
 		"Nível máximo: ^7777773^000000",
-		"Pré requisitos:",
+		"Pré-requisitos:",
 		"^777777Oposição Solar, Lunar e Estelar 3^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
@@ -6032,7 +6032,7 @@ SKILL_DESCRIPT = {
 	[SKID.SG_SUN_BLESS] = {
 		"Bênção Solar ^777777(Sun Bless)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos:",
+		"Pré-requisitos:",
 		"^777777Percepção Solar, Lunar e Estelar 1",
 		"Oposição Solar, Lunar e Estelar 1^000000",
 		"Tipo: ^777777Passiva^000000",
@@ -6050,7 +6050,7 @@ SKILL_DESCRIPT = {
 	[SKID.SG_MOON_BLESS] = {
 		"Bênção Lunar ^777777(Moon Bless)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos:",
+		"Pré-requisitos:",
 		"^777777Percepção Solar, Lunar e Estelar 2",
 		"Oposição Solar, Lunar e Estelar 2^000000",
 		"Tipo: ^777777Passiva^000000",
@@ -6068,7 +6068,7 @@ SKILL_DESCRIPT = {
 	[SKID.SG_STAR_BLESS] = {
 		"Bênção Estelar ^777777(Star Bless)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos:",
+		"Pré-requisitos:",
 		"^777777Percepção Solar, Lunar e Estelar 3",
 		"Oposição Solar, Lunar e Estelar 3^000000",
 		"Tipo: ^777777Passiva^000000",
@@ -6142,7 +6142,7 @@ SKILL_DESCRIPT = {
 	[SKID.SG_FUSION] = {
 		"União Solar, Lunar e Estelar",
 		"Nível máximo: ^7777771^000000",
-		"Pré requisitos:",
+		"Pré-requisitos:",
 		"^777777Transmissão Solar Lunar e Estelar 9^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
@@ -6253,7 +6253,7 @@ SKILL_DESCRIPT = {
 		"Espírito do Superaprendiz",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Suporte^000000",
-		"Pré requisitos: ^777777Espírito do Mestre Taekwon 1^000000",
+		"Pré-requisitos: ^777777Espírito do Mestre Taekwon 1^000000",
 		"Descrição:",
 		"^008080Apenas Superaprendizes e evoluções.^000000",
 		"^777777Alvos com nível de classe 70 ou mais têm",
@@ -6274,7 +6274,7 @@ SKILL_DESCRIPT = {
 		"Espírito do Cavaleiro",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Suporte^000000",
-		"Pré requisitos: ^777777Espírito do Templário 1^000000",
+		"Pré-requisitos: ^777777Espírito do Templário 1^000000",
 		"Descrição:",
 		"^008080Apenas Cavaleiros e evoluções.^000000",
 		"^777777Se tiver aprendido [Rapidez com Duas Mãos]",
@@ -6290,7 +6290,7 @@ SKILL_DESCRIPT = {
 		"Espírito do Bruxo",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Suporte^000000",
-		"Pré requisitos: ^777777Espírito do Sábio 1^000000",
+		"Pré-requisitos: ^777777Espírito do Sábio 1^000000",
 		"Descrição:",
 		"^008080Apenas Bruxos e evoluções.^000000",
 		"^777777Anula o gasto de Gemas das habilidades.",
@@ -6308,7 +6308,7 @@ SKILL_DESCRIPT = {
 		"Espírito do Sacerdote",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Suporte^000000",
-		"Pré requisitos: ^777777Espírito do Monge 1^000000",
+		"Pré-requisitos: ^777777Espírito do Monge 1^000000",
 		"Descrição:",
 		"^008080Apenas Sacerdotes e evoluções.^000000",
 		"^777777Efeitos em [Luz Divina]:",
@@ -6342,7 +6342,7 @@ SKILL_DESCRIPT = {
 		"Espírito do Arruaceiro",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Suporte^000000",
-		"Pré requisitos: ^777777Espírito do Mercenário 1^000000",
+		"Pré-requisitos: ^777777Espírito do Mercenário 1^000000",
 		"Descrição:",
 		"^008080Apenas Arruaceiros e evoluções.^000000",
 		"^777777Durante Espreitar, acelera o movimento.",
@@ -6377,7 +6377,7 @@ SKILL_DESCRIPT = {
 		"Espírito do Ferreiro",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Suporte^000000",
-		"Pré requisitos: ^777777Espírito do Alquimista 1^000000",
+		"Pré-requisitos: ^777777Espírito do Alquimista 1^000000",
 		"Descrição:",
 		"^008080Apenas Ferreiros e evoluções.^000000",
 		"^777777Se tiver aprendido [Adrenalina Pura]",
@@ -6393,7 +6393,7 @@ SKILL_DESCRIPT = {
 		"Adrenalina Concentrada ^777777(Advanced Rush)^000000",
 		"Nível máximo: ^7777771^000000",
 		"Tipo: ^777777Suporte^000000",
-		"Pré requisitos: ^777777Adrenalina Pura 5^000000",
+		"Pré-requisitos: ^777777Adrenalina Pura 5^000000",
 		"Descrição:",
 		"^008080Precisa receber o [Espírito do Ferreiro].^000000",
 		"^777777Aumenta a velocidade de ataque de qualquer",
@@ -6404,7 +6404,7 @@ SKILL_DESCRIPT = {
 		"Espírito do Caçador",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Suporte^000000",
-		"Pré requisitos: ^777777Espírito dos Artistas 1^000000",
+		"Pré-requisitos: ^777777Espírito dos Artistas 1^000000",
 		"Descrição:",
 		"^008080Apenas Caçadores e evoluções.^000000",
 		"^777777Se tiver aprendido [Rajada de Flechas]",
@@ -6422,7 +6422,7 @@ SKILL_DESCRIPT = {
 		"Espírito do Espiritualista",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Suporte^000000",
-		"Pré requisitos: ^777777Espírito do Mestre Taekwon 1^000000",
+		"Pré-requisitos: ^777777Espírito do Mestre Taekwon 1^000000",
 		"Descrição:",
 		"^008080Apenas Espiritualistas e evoluções.^000000",
 		"^777777Permite usar em qualquer personagem, as",
@@ -6439,7 +6439,7 @@ SKILL_DESCRIPT = {
 		"Nível máximo: ^7777777^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Alvo: ^777777Usuário, familiares e Espiritualistas^000000",
-		"Pré requisitos: ^777777Espírito do Sacerdote 1^000000",
+		"Pré-requisitos: ^777777Espírito do Sacerdote 1^000000",
 		"Descrição:",
 		"^777777Permite ressuscitar com um valor de HP",
 		"regenerado, recebendo Kyrie Eleison nos",
@@ -6460,7 +6460,7 @@ SKILL_DESCRIPT = {
 		"Nível máximo: ^7777777^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Alvo: ^777777Usuário, familiares e Espiritualistas^000000",
-		"Pré requisitos: ^777777Espírito do Monge 1",
+		"Pré-requisitos: ^777777Espírito do Monge 1",
 		"Espírito do Templário 1^000000",
 		"Descrição:",
 		"^777777Drena o próprio SP para recuperar um valor",
@@ -6481,7 +6481,7 @@ SKILL_DESCRIPT = {
 		"Nível máximo: ^7777773^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Alvo: ^777777Usuário, familiares e Espiritualistas^000000",
-		"Pré requisitos: ^777777Espírito do Arruaceiro 1",
+		"Pré-requisitos: ^777777Espírito do Arruaceiro 1",
 		"Espírito do Mercenário 1^000000",
 		"Descrição:",
 		"^777777Tem a chance de bloquear um único ataque.",
@@ -6496,7 +6496,7 @@ SKILL_DESCRIPT = {
 		"Nível máximo: ^7777777^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Alvo: ^777777Usuário, familiares e Espiritualistas^000000",
-		"Pré requisitos: ^777777Espírito do Bruxo 1",
+		"Pré-requisitos: ^777777Espírito do Bruxo 1",
 		"Espírito do Sábio 1^000000",
 		"Descrição:",
 		"^777777Tem 50% de chance de refletir 1 ou 2 magias.",
@@ -6518,7 +6518,7 @@ SKILL_DESCRIPT = {
 		"Kaina",
 		"Nível máximo: ^7777777^000000",
 		"Tipo: ^777777Passiva^000000",
-		"Pré requisitos: ^777777Retiro Rápido 1^000000",
+		"Pré-requisitos: ^777777Retiro Rápido 1^000000",
 		"Descrição:",
 		"^777777Aumenta o SP máx., a regeneração de SP em",
 		"[Retiro Rápido] e reduz o custo de SP das",
@@ -6543,7 +6543,7 @@ SKILL_DESCRIPT = {
 		"Nível máximo: ^7777777^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Alvo: ^777777Apenas monstros^000000",
-		"Pré requisitos: ^777777Espírito do Bruxo 1^000000",
+		"Pré-requisitos: ^777777Espírito do Bruxo 1^000000",
 		"Descrição:",
 		"^777777Empurra alvos e causa dano mágico",
 		"em alvos de tamanho Pequeno.",
@@ -6564,7 +6564,7 @@ SKILL_DESCRIPT = {
 		"Nível máximo: ^7777777^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Alvo: ^777777Apenas monstros^000000",
-		"Pré requisitos: ^777777Espírito do Bruxo 1^000000",
+		"Pré-requisitos: ^777777Espírito do Bruxo 1^000000",
 		"Descrição:",
 		"^777777Causa dano mágico nos alvos com chance",
 		"de infligir Atordoamento em monstros Médios.",
@@ -6585,7 +6585,7 @@ SKILL_DESCRIPT = {
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Alvo: ^777777Apenas monstros^000000",
-		"Pré requisitos: ^777777Estin 7, Estun 7^000000",
+		"Pré-requisitos: ^777777Estin 7, Estun 7^000000",
 		"Descrição:",
 		"^777777Após conjurar Estin, Estun ou Eske, você terá",
 		"3 segundos para invocar círculos espirituais",
@@ -6608,7 +6608,7 @@ SKILL_DESCRIPT = {
 		"Nível máximo: ^7777777^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Alvo: ^777777Apenas monstros^000000",
-		"Pré requisitos: ^777777Espírito do Sacerdote 1^000000",
+		"Pré-requisitos: ^777777Espírito do Sacerdote 1^000000",
 		"Descrição:",
 		"^777777Encolhe um monstro normal ou chefe para",
 		"reduzir a velocidade de movimento dele.",
@@ -6629,7 +6629,7 @@ SKILL_DESCRIPT = {
 		"Nível máximo: ^7777773^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Alvo: ^777777Apenas monstros^000000",
-		"Pré requisitos: ^777777Espírito do Cavaleiro 1^000000",
+		"Pré-requisitos: ^777777Espírito do Cavaleiro 1^000000",
 		"Descrição:",
 		"^777777Força um monstro a ficar com",
 		"DEF -50% e ATQ +300%.",
@@ -6645,7 +6645,7 @@ SKILL_DESCRIPT = {
 		"Nível máximo: ^7777773^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Alvo: ^777777Apenas monstros^000000",
-		"Pré requisitos: ^777777Espírito do Monge 1^000000",
+		"Pré-requisitos: ^777777Espírito do Monge 1^000000",
 		"Descrição:",
 		"^777777Fixa valores de DEF e DEFM do monstro e",
 		"reduz a velocidade de ataque e movimento.^000000",
@@ -6657,7 +6657,7 @@ SKILL_DESCRIPT = {
 	[SKID.ST_PRESERVE] = {
 		"Preservar ^777777(Preserve)^000000",
 		"Nível máximo: ^7777771^000000",
-		"Pré requisitos: ^777777Plágio 10^000000",
+		"Pré-requisitos: ^777777Plágio 10^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Por 10 minutos, impede que habilidades",
@@ -6667,7 +6667,7 @@ SKILL_DESCRIPT = {
 	[SKID.ST_FULLSTRIP] = {
 		"Remoção Total ^777777(Full Strip)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Remover Arma 5^000000",
+		"Pré-requisitos: ^777777Remover Arma 5^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Tenta remover a armadura, a arma, o escudo",
@@ -6684,7 +6684,7 @@ SKILL_DESCRIPT = {
 	[SKID.WS_WEAPONREFINE] = {
 		"Aprimorar Armamento ^777777(Weapon Refine)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Perícia em Armamento 10^000000",
+		"Pré-requisitos: ^777777Perícia em Armamento 10^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Permite refinar armas do inventário.",
@@ -6713,7 +6713,7 @@ SKILL_DESCRIPT = {
 	[SKID.CR_SLIMPITCHER] = {
 		"Arremessar Poção Compacta ^777777(Slim Pitcher)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Arremessar Poção 5^000000",
+		"Pré-requisitos: ^777777Arremessar Poção 5^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^777777Atira uma poção compacta na área de",
@@ -6736,7 +6736,7 @@ SKILL_DESCRIPT = {
 	[SKID.CR_FULLPROTECTION] = {
 		"Proteção Química Total ^777777(Full Protection)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Revestir Capacete 5,",
+		"Pré-requisitos: ^777777Revestir Capacete 5,",
 		"Revestir Arma, Escudo, Armadura 5^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
@@ -6754,7 +6754,7 @@ SKILL_DESCRIPT = {
 	[SKID.PA_SHIELDCHAIN] = {
 		"Choque Rápido ^777777(Shield Chain)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Escudo Bumerangue 5^000000",
+		"Pré-requisitos: ^777777Escudo Bumerangue 5^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^008080Apenas com Escudo.^000000",
@@ -6773,7 +6773,7 @@ SKILL_DESCRIPT = {
 	[SKID.HP_MANARECHARGE] = {
 		"Riqueza de Espírito ^777777(Mana Recharge)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos:",
+		"Pré-requisitos:",
 		"^777777Perícia com Maça 10, Flagelo do Mal 10^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
@@ -6788,7 +6788,7 @@ SKILL_DESCRIPT = {
 	[SKID.PF_DOUBLECASTING] = {
 		"Lanças Duplas ^777777(Double Casting)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Desejo Arcano 1^000000",
+		"Pré-requisitos: ^777777Desejo Arcano 1^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Por 90 segundos, concede a chance de",
@@ -6804,7 +6804,7 @@ SKILL_DESCRIPT = {
 	[SKID.HW_GANBANTEIN] = {
 		"Ganbantein",
 		"Nível máximo: ^7777771^000000",
-		"Pré requisitos: ^777777Barreira de Gelo 1,",
+		"Pré-requisitos: ^777777Barreira de Gelo 1,",
 		"Sentido Sobrenatural 1^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
@@ -6816,7 +6816,7 @@ SKILL_DESCRIPT = {
 	[SKID.HW_GRAVITATION] = {
 		"Campo Gravitacional ^777777(Gravitational Field)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Amplificação Mística 10,",
+		"Pré-requisitos: ^777777Amplificação Mística 10,",
 		"Esmagamento Mágico 1, Pântano dos Mortos 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -6832,7 +6832,7 @@ SKILL_DESCRIPT = {
 	[SKID.WS_CARTTERMINATION] = {
 		"Choque do Carrinho ^777777(Cart Termination)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Martelo de Thor 5,",
+		"Pré-requisitos: ^777777Martelo de Thor 5,",
 		"Mammonita 10, Impulso no Carrinho 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -6857,7 +6857,7 @@ SKILL_DESCRIPT = {
 	[SKID.WS_OVERTHRUSTMAX] = {
 		"Força Violentíssima ^777777(Maximum Over Thrust)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Força Violenta 5^000000",
+		"Pré-requisitos: ^777777Força Violenta 5^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^777777Aumenta o dano físico do usuário.^000000",
@@ -6872,7 +6872,7 @@ SKILL_DESCRIPT = {
 	[SKID.CG_HERMODE] = {
 		"Bastão de Hermod ^777777(Wand of Hermode)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Concentrar 10,",
+		"Pré-requisitos: ^777777Concentrar 10,",
 		"Lições de Música 10^000000 ou ^777777Lições de Dança 10^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
@@ -6893,7 +6893,7 @@ SKILL_DESCRIPT = {
 	[SKID.CG_TAROTCARD] = {
 		"Destino nas Cartas ^777777(Tarot Card)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Concentrar 10,",
+		"Pré-requisitos: ^777777Concentrar 10,",
 		"Dança do Ventre 3^000000 ou ^777777Dissonância 3^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
@@ -6909,7 +6909,7 @@ SKILL_DESCRIPT = {
 	[SKID.CR_ACIDDEMONSTRATION] = {
 		"Bomba Ácida ^777777(Acid Demonstration)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Fogo Grego 5, Terror Ácido 5^000000",
+		"Pré-requisitos: ^777777Fogo Grego 5, Terror Ácido 5^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^777777Combina dois frascos de Ácido e Fogo Grego",
@@ -6948,7 +6948,7 @@ SKILL_DESCRIPT = {
 	[SKID.TK_MISSION] = {
 		"Missão Taekwon ^777777(TK Mission)^000000",
 		"Nível máximo: ^7777771^000000",
-		"Pré requisitos: ^777777Kihop 5^000000",
+		"Pré-requisitos: ^777777Kihop 5^000000",
 		"Descrição:",
 		"^FF0000É desativada ao mudar de classe.^000000",
 		"^777777Exibe um monstro aleatório para você caçar.",
@@ -6967,7 +6967,7 @@ SKILL_DESCRIPT = {
 	[SKID.SL_HIGH] = {
 		"Espírito dos Transcendentais",
 		"Nível Máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Espírito do Superaprendiz 5^000000",
+		"Pré-requisitos: ^777777Espírito do Superaprendiz 5^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^008080Apenas Classe 1 Transcendental.^000000",
@@ -6984,7 +6984,7 @@ SKILL_DESCRIPT = {
 	},
 	[SKID.KN_ONEHAND] = {
 		"Rapidez com Uma Mão ^777777(One Quicken)^000000",
-		"Pré requisitos: ^777777Rapidez com Duas Mãos 10^000000",
+		"Pré-requisitos: ^777777Rapidez com Duas Mãos 10^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^008080Precisa receber o [Espírito do Cavaleiro].^000000",
@@ -6995,7 +6995,7 @@ SKILL_DESCRIPT = {
 	},
 	[SKID.AM_TWILIGHT1] = {
 		"Criação Espiritual de Poções I ^777777(Twilight 1)^000000",
-		"Pré requisitos: ^777777Preparar Poção 10^000000",
+		"Pré-requisitos: ^777777Preparar Poção 10^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^008080Precisa receber o [Espírito do Alquimista].^000000",
@@ -7003,14 +7003,14 @@ SKILL_DESCRIPT = {
 		"A chance de criar cada poção é contada",
 		"individualmente e o sucesso é semelhante à",
 		"criação de Preparar Poção.^000000",
-		"^ff0000Se não possuir carga suficiente ou",
+		"^FF0000Se não possuir carga suficiente ou",
 		"espaço no inventário, a habilidade falha e",
 		"os materiais serão consumidos.^000000",
 		"^000088Consome 200 materiais de Poção Branca.^000000"
 	},
 	[SKID.AM_TWILIGHT2] = {
 		"Criação Espiritual de Poções II ^777777(Twilight 2)^000000",
-		"Pré requisitos: ^777777Preparar Poção 10^000000",
+		"Pré-requisitos: ^777777Preparar Poção 10^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^008080Precisa receber o [Espírito do Alquimista].^000000",
@@ -7024,7 +7024,7 @@ SKILL_DESCRIPT = {
 	},
 	[SKID.AM_TWILIGHT3] = {
 		"Criação Espiritual de Poções III ^777777(Twilight 3)^000000",
-		"Pré requisitos: ^777777Preparar Poção 10^000000",
+		"Pré-requisitos: ^777777Preparar Poção 10^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^008080Precisa receber o [Espírito do Alquimista].^000000",
@@ -7040,7 +7040,7 @@ SKILL_DESCRIPT = {
 	},
 	[SKID.HT_POWER] = {
 		"Ataque da Fera  ^777777(Beast Charge)^000000",
-		"Pré requisitos: ^777777PRajada de Flechas 10^000000",
+		"Pré-requisitos: ^777777PRajada de Flechas 10^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^008080Precisa receber o [Espírito do Caçador].^000000",
@@ -7065,7 +7065,7 @@ SKILL_DESCRIPT = {
 	[SKID.GS_FLING] = {
 		"Atirar Moedas ^777777(Coin Fling)^000000",
 		"Nível Máximo: ^7777771^000000",
-		"Pré requisitos: ^777777Cara ou Coroa 1^000000",
+		"Pré-requisitos: ^777777Cara ou Coroa 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^777777Atira até 5 moedas para reduzir a DEF",
@@ -7076,7 +7076,7 @@ SKILL_DESCRIPT = {
 	[SKID.GS_TRIPLEACTION] = {
 		"Ataque Triplo ^777777(Triple Action)^000000",
 		"Nível máximo: ^7777771^000000",
-		"Pré requisitos: ^777777Cara ou Coroa 1^000000",
+		"Pré-requisitos: ^777777Cara ou Coroa 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^777777Consome 1 moeda para disparar 3 vezes",
@@ -7085,7 +7085,7 @@ SKILL_DESCRIPT = {
 	[SKID.GS_BULLSEYE] = {
 		"Ataque Certeiro ^777777(Bull's Eye)^000000",
 		"Nível máximo: ^7777771^000000",
-		"Pré requisitos: ^777777Cara ou Coroa 5^000000",
+		"Pré-requisitos: ^777777Cara ou Coroa 5^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^777777Dispara um projétil que causa 500% de dano",
@@ -7096,7 +7096,7 @@ SKILL_DESCRIPT = {
 	[SKID.GS_MADNESSCANCEL] = {
 		"Resistência Final ^777777(Madness Cancel)^000000",
 		"Nível máximo: ^7777771^000000",
-		"Pré requisitos: ^777777Cara ou Coroa 4^000000",
+		"Pré-requisitos: ^777777Cara ou Coroa 4^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^777777Consome 1 moeda para tornar-se",
@@ -7108,7 +7108,7 @@ SKILL_DESCRIPT = {
 	[SKID.GS_ADJUSTMENT] = {
 		"Pânico do Justiceiro ^777777(Adjustment)^000000",
 		"Nível máximo: ^7777771^000000",
-		"Pré requisitos: ^777777Cara ou Coroa 4^000000",
+		"Pré-requisitos: ^777777Cara ou Coroa 4^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^777777Consome 2 moedas para ter esquiva +30,",
@@ -7120,7 +7120,7 @@ SKILL_DESCRIPT = {
 	[SKID.GS_INCREASING] = {
 		"Aumentar Precisão ^777777(Increase Accuracy)^000000",
 		"Nível máximo: ^7777771^000000",
-		"Pré requisitos: ^777777Cara ou Coroa 2^000000",
+		"Pré-requisitos: ^777777Cara ou Coroa 2^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^777777Consome 4 moedas para garantir",
@@ -7129,7 +7129,7 @@ SKILL_DESCRIPT = {
 	[SKID.GS_MAGICALBULLET] = {
 		"Bala Mágica ^777777(Magical Bullet)^000000",
 		"Nível máximo: ^7777771^000000",
-		"Pré requisitos: ^777777Cara ou Coroa 1^000000",
+		"Pré-requisitos: ^777777Cara ou Coroa 1^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^777777Consome 1 moeda para adicionar o ATQM",
@@ -7138,7 +7138,7 @@ SKILL_DESCRIPT = {
 	[SKID.GS_CRACKER] = {
 		"Tiro Bombinha ^777777(Cracker)^000000",
 		"Nível máximo: ^7777771^000000",
-		"Pré requisitos: ^777777Cara ou Coroa 1^000000",
+		"Pré-requisitos: ^777777Cara ou Coroa 1^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^777777Assusta o inimigo tentando atordoá-lo.",
@@ -7187,7 +7187,7 @@ SKILL_DESCRIPT = {
 	[SKID.GS_CHAINACTION] = {
 		"Reação em Cadeia ^777777(Chain Action)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Ataque Concentrado 1^000000",
+		"Pré-requisitos: ^777777Ataque Concentrado 1^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
 		"^008080Apenas com Pistolas.^000000",
@@ -7199,7 +7199,7 @@ SKILL_DESCRIPT = {
 	[SKID.GS_TRACKING] = {
 		"Rastrear o Alvo ^777777(Tracking)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Ataque Concentrado 5^000000",
+		"Pré-requisitos: ^777777Ataque Concentrado 5^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^008080Apenas com Pistolas ou Rifles.^000000",
@@ -7220,7 +7220,7 @@ SKILL_DESCRIPT = {
 	[SKID.GS_DISARM] = {
 		"Desarmar ^777777(Disarm)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Rastrear o Alvo 7^000000",
+		"Pré-requisitos: ^777777Rastrear o Alvo 7^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^008080Apenas com Pistolas ou Rifles.^000000",
@@ -7232,7 +7232,7 @@ SKILL_DESCRIPT = {
 	[SKID.GS_PIERCINGSHOT] = {
 		"Ferir Alvo ^777777(Wounding Shot)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Rastrear o Alvo 5^000000",
+		"Pré-requisitos: ^777777Rastrear o Alvo 5^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^008080Apenas com Pistolas ou Rifles.^000000",
@@ -7248,7 +7248,7 @@ SKILL_DESCRIPT = {
 	[SKID.GS_RAPIDSHOWER] = {
 		"Rajada Certeira ^777777(Rapid Shower)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Reação em Cadeia 3^000000",
+		"Pré-requisitos: ^777777Reação em Cadeia 3^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^008080Apenas com Pistolas.^000000",
@@ -7269,7 +7269,7 @@ SKILL_DESCRIPT = {
 	[SKID.GS_DESPERADO] = {
 		"Desperado",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Rajada Certeira 5^000000",
+		"Pré-requisitos: ^777777Rajada Certeira 5^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^008080Apenas com Pistolas.^000000",
@@ -7290,7 +7290,7 @@ SKILL_DESCRIPT = {
 	[SKID.GS_GATLINGFEVER] = {
 		"Ataque Gatling ^777777(Gatling Fever)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos:",
+		"Pré-requisitos:",
 		"^777777Desperado 5, Rajada Certeira 7^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
@@ -7322,7 +7322,7 @@ SKILL_DESCRIPT = {
 	[SKID.GS_DUST] = {
 		"Controle de Multidão ^777777(Dust)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Ataque Concentrado 5^000000",
+		"Pré-requisitos: ^777777Ataque Concentrado 5^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^008080Apenas com Espingardas.^000000",
@@ -7343,7 +7343,7 @@ SKILL_DESCRIPT = {
 	[SKID.GS_FULLBUSTER] = {
 		"Ataque Total ^777777(Full Blast)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Controle de Multidão 3^000000",
+		"Pré-requisitos: ^777777Controle de Multidão 3^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^008080Apenas com Espingardas.^000000",
@@ -7365,7 +7365,7 @@ SKILL_DESCRIPT = {
 	[SKID.GS_SPREADATTACK] = {
 		"Disparo Espalhado ^777777(Spread Attack)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Ataque concentrado 5^000000",
+		"Pré-requisitos: ^777777Ataque concentrado 5^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^008080Apenas com Espingardas ou Lança-Granadas.^000000",
@@ -7386,7 +7386,7 @@ SKILL_DESCRIPT = {
 	[SKID.GS_GROUNDDRIFT] = {
 		"Mina do Justiceiro ^777777(Ground Drift)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Disparo Espalhado 7^000000",
+		"Pré-requisitos: ^777777Disparo Espalhado 7^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^008080Apenas com Lança-Granadas.^000000",
@@ -7427,7 +7427,7 @@ SKILL_DESCRIPT = {
 	[SKID.NJ_SYURIKEN] = {
 		"Arremessar Shuriken ^777777(Throw Shuriken)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Perícia com Shuriken 1^000000",
+		"Pré-requisitos: ^777777Perícia com Shuriken 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^777777Atira uma Shuriken à 9 células de distância,",
@@ -7449,7 +7449,7 @@ SKILL_DESCRIPT = {
 	[SKID.NJ_KUNAI] = {
 		"Arremessar Kunai ^777777(Throw Kunai)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Arremessar Shuriken 5^000000",
+		"Pré-requisitos: ^777777Arremessar Shuriken 5^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^777777Atira uma Kunai à 9 células de distância",
@@ -7466,7 +7466,7 @@ SKILL_DESCRIPT = {
 	[SKID.NJ_HUUMA] = {
 		"Arremessar Huuma ^777777(Throw Huuma)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Arremessar Kunai 5",
+		"Pré-requisitos: ^777777Arremessar Kunai 5",
 		"Perícia com Shuriken 5^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -7484,7 +7484,7 @@ SKILL_DESCRIPT = {
 	[SKID.NJ_ZENYNAGE] = {
 		"Chuva de Moedas ^777777(Throw Coins)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Arremessar Huuma 5,",
+		"Pré-requisitos: ^777777Arremessar Huuma 5,",
 		"Perícia com Shuriken 10^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -7526,7 +7526,7 @@ SKILL_DESCRIPT = {
 	[SKID.NJ_KASUMIKIRI] = {
 		"Corte da Névoa ^777777(Haze Slasher)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Salto das Sombras 1^000000",
+		"Pré-requisitos: ^777777Salto das Sombras 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^777777Atinge o alvo e se esconde, causando dano",
@@ -7549,7 +7549,7 @@ SKILL_DESCRIPT = {
 	[SKID.NJ_SHADOWJUMP] = {
 		"Salto das Sombras ^777777(Shadow Leap)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Virar Tatami 1^000000",
+		"Pré-requisitos: ^777777Virar Tatami 1^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^008080Apenas em Esconderijo.^000000",
@@ -7566,7 +7566,7 @@ SKILL_DESCRIPT = {
 	[SKID.NJ_KIRIKAGE] = {
 		"Corte das Sombras ^777777(Shadow Slash)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Corte da Névoa 5^000000",
+		"Pré-requisitos: ^777777Corte da Névoa 5^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^008080Apenas em Esconderijo.^000000",
@@ -7584,7 +7584,7 @@ SKILL_DESCRIPT = {
 	[SKID.NJ_UTSUSEMI] = {
 		"Troca de Pele ^777777(Cicada Skin Shed)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Salto das Sombras 5^000000",
+		"Pré-requisitos: ^777777Salto das Sombras 5^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Bloqueia alguns ataques físicos dos",
@@ -7601,7 +7601,7 @@ SKILL_DESCRIPT = {
 	[SKID.NJ_BUNSINJYUTSU] = {
 		"Imagem Falsa ^777777(Mirror Image)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Aura Ninja 1,",
+		"Pré-requisitos: ^777777Aura Ninja 1,",
 		"Troca de Pele 4, Corte das Sombras 3^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
@@ -7645,7 +7645,7 @@ SKILL_DESCRIPT = {
 	[SKID.NJ_KOUENKA] = {
 		"Pétalas Flamejantes ^777777(Flaming Petals)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Perícia Ninja 1^000000",
+		"Pré-requisitos: ^777777Perícia Ninja 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^777777Causa dano mágico de propriedade Fogo.",
@@ -7665,7 +7665,7 @@ SKILL_DESCRIPT = {
 	[SKID.NJ_KAENSIN] = {
 		"Escudo de Chamas ^777777(Blaze Shield)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Pétalas Flamejantes 5^000000",
+		"Pré-requisitos: ^777777Pétalas Flamejantes 5^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^777777Cria um escudo ao redor do usuário na",
@@ -7690,7 +7690,7 @@ SKILL_DESCRIPT = {
 	[SKID.NJ_BAKUENRYU] = {
 		"Dragão Explosivo ^777777(Exploding Dragon)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Perícia Ninja 10,",
+		"Pré-requisitos: ^777777Perícia Ninja 10,",
 		"Escudo de Chamas 7^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -7707,7 +7707,7 @@ SKILL_DESCRIPT = {
 	[SKID.NJ_HYOUSENSOU] = {
 		"Lança Congelante ^777777(Freezing Spear)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Perícia Ninja 1^000000",
+		"Pré-requisitos: ^777777Perícia Ninja 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^777777Causa dano mágico de propriedade Água.",
@@ -7727,7 +7727,7 @@ SKILL_DESCRIPT = {
 	[SKID.NJ_SUITON] = {
 		"Evasão Aquática ^777777(Watery Evasion)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Lança Congelante 5^000000",
+		"Pré-requisitos: ^777777Lança Congelante 5^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Cria uma área molhada que reduz a AGI e",
@@ -7751,7 +7751,7 @@ SKILL_DESCRIPT = {
 	[SKID.NJ_HYOUSYOURAKU] = {
 		"Grande Floco de Neve ^777777(Snow Flake Draft)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Perícia Ninja 10,",
+		"Pré-requisitos: ^777777Perícia Ninja 10,",
 		"Evasão Aquática 7^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -7769,7 +7769,7 @@ SKILL_DESCRIPT = {
 	[SKID.NJ_HUUJIN] = {
 		"Lâmina de Vento ^777777(Wind Blade)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Perícia Ninja 1^000000",
+		"Pré-requisitos: ^777777Perícia Ninja 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^777777Causa dano mágico de propriedade Vento.",
@@ -7789,7 +7789,7 @@ SKILL_DESCRIPT = {
 	[SKID.NJ_RAIGEKISAI] = {
 		"Descarga Elétrica ^777777(Lightning Jolt)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Lâmina de Vento 5^000000",
+		"Pré-requisitos: ^777777Lâmina de Vento 5^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^777777Causa dano mágico de propriedade Vento",
@@ -7805,7 +7805,7 @@ SKILL_DESCRIPT = {
 	[SKID.NJ_KAMAITACHI] = {
 		"Brisa Cortante ^777777(First Wind)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Perícia Ninja 10,",
+		"Pré-requisitos: ^777777Perícia Ninja 10,",
 		"Descarga Elétrica 5^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -7823,7 +7823,7 @@ SKILL_DESCRIPT = {
 	[SKID.NJ_NEN] = {
 		"Aura Ninja ^777777(Ninja Aura)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Perícia Ninja 5^000000",
+		"Pré-requisitos: ^777777Perícia Ninja 5^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^777777Drena 5% do HP máx. para ativar a Aura.",
@@ -7839,7 +7839,7 @@ SKILL_DESCRIPT = {
 	[SKID.NJ_ISSEN] = {
 		"Ataque Mortal ^777777(Final Strike)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Aura Ninja 1,",
+		"Pré-requisitos: ^777777Aura Ninja 1,",
 		"Perícia com Shuriken 7,",
 		"Corte das Sombras 5^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -8753,7 +8753,7 @@ SKILL_DESCRIPT = {
 	[SKID.AB_JUDEX] = {
 		"Judex",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Esconjurar 1^000000",
+		"Pré-requisitos: ^777777Esconjurar 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^777777Emite a luz do Grande Juiz, causando dano",
@@ -8775,7 +8775,7 @@ SKILL_DESCRIPT = {
 	[SKID.AB_ANCILLA] = {
 		"Criar Ancilla",
 		"Nível máximo: ^7777771^000000",
-		"Pré requisitos: ^777777Clementia 3^000000",
+		"Pré-requisitos: ^777777Clementia 3^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Drena 10% do SP máx. para criar 1 Ancilla.^000000",
@@ -8788,7 +8788,7 @@ SKILL_DESCRIPT = {
 	[SKID.AB_ADORAMUS] = {
 		"Adoramus",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Judex 5, Criar Ancilla 1,",
+		"Pré-requisitos: ^777777Judex 5, Criar Ancilla 1,",
 		"Magnus Exorcismus 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -8815,7 +8815,7 @@ SKILL_DESCRIPT = {
 	[SKID.AB_CLEMENTIA] = {
 		"Clementia",
 		"Nível máximo: ^7777773^000000",
-		"Pré requisitos: ^777777Bênção 1^000000",
+		"Pré-requisitos: ^777777Bênção 1^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^777777Conjura [Bênção] nos membros do",
@@ -8832,7 +8832,7 @@ SKILL_DESCRIPT = {
 	[SKID.AB_CANTO] = {
 		"Canto Candidus",
 		"Nível máximo: ^7777773^000000",
-		"Pré requisitos: ^777777Aumentar Agilidade 1^000000",
+		"Pré-requisitos: ^777777Aumentar Agilidade 1^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^777777Conjura [Aumentar Agilidade] nos",
@@ -8849,7 +8849,7 @@ SKILL_DESCRIPT = {
 	[SKID.AB_CHEAL] = {
 		"Sopro Divino ^777777(Coluseo Heal)^000000",
 		"Nível máximo: ^7777773^000000",
-		"Pré requisitos: ^777777Curar 1^000000",
+		"Pré-requisitos: ^777777Curar 1^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^777777Conjura [Curar] nos membros",
@@ -8864,7 +8864,7 @@ SKILL_DESCRIPT = {
 	[SKID.AB_EPICLESIS] = {
 		"Epiclesis",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos:",
+		"Pré-requisitos:",
 		"^777777Criar Ancilla 1, Curatio 1^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
@@ -8887,7 +8887,7 @@ SKILL_DESCRIPT = {
 	[SKID.AB_PRAEFATIO] = {
 		"Praefatio",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Kyrie Eleison 1^000000",
+		"Pré-requisitos: ^777777Kyrie Eleison 1^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^777777Por 120 segundos, envolve o usuário",
@@ -8908,7 +8908,7 @@ SKILL_DESCRIPT = {
 	[SKID.AB_ORATIO] = {
 		"Oratio",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Praefatio 5^000000",
+		"Pré-requisitos: ^777777Praefatio 5^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Concede a chance de reduzir a",
@@ -8929,7 +8929,7 @@ SKILL_DESCRIPT = {
 	[SKID.AB_LAUDAAGNUS] = {
 		"Lauda Agnus",
 		"Nível máximo: ^7777774^000000",
-		"Pré requisitos: ^777777Graça Divina 1^000000",
+		"Pré-requisitos: ^777777Graça Divina 1^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^777777Chance de aumentar o HP por 1 min.",
@@ -8944,7 +8944,7 @@ SKILL_DESCRIPT = {
 	[SKID.AB_LAUDARAMUS] = {
 		"Lauda Ramus",
 		"Nível máximo: ^7777774^000000",
-		"Pré requisitos: ^777777Lauda Agnus 2^000000",
+		"Pré-requisitos: ^777777Lauda Agnus 2^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^777777Chance de aumentar o Dano Crítico por",
@@ -8959,7 +8959,7 @@ SKILL_DESCRIPT = {
 	[SKID.AB_EUCHARISTICA] = {
 		"Eucaristia",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Epiclesis 1, Expiatio 1^000000",
+		"Pré-requisitos: ^777777Epiclesis 1, Expiatio 1^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
 		"^777777Aumenta a resistência, o dano",
@@ -8969,7 +8969,7 @@ SKILL_DESCRIPT = {
 	[SKID.AB_RENOVATIO] = {
 		"Renovatio",
 		"Nível máximo: ^7777774^000000",
-		"Pré requisitos: ^777777Sopro Divino 3^000000",
+		"Pré-requisitos: ^777777Sopro Divino 3^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^777777A cada 5 segundos, regenera HP do grupo",
@@ -8983,7 +8983,7 @@ SKILL_DESCRIPT = {
 	[SKID.AB_HIGHNESSHEAL] = {
 		"Curatio ^777777(Highness Heal)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Renovatio 1^000000",
+		"Pré-requisitos: ^777777Renovatio 1^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^777777Recupera o HP do alvo de forma mais",
@@ -9000,7 +9000,7 @@ SKILL_DESCRIPT = {
 	[SKID.AB_CLEARANCE] = {
 		"Gênese ^777777(Clearance)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Lauda Ramus 2^000000",
+		"Pré-requisitos: ^777777Lauda Ramus 2^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Concede a chance de remover todos",
@@ -9016,7 +9016,7 @@ SKILL_DESCRIPT = {
 	[SKID.AB_EXPIATIO] = {
 		"Expiatio",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos:",
+		"Pré-requisitos:",
 		"^777777Oratio 5, Gemini Lumen 5^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
@@ -9032,7 +9032,7 @@ SKILL_DESCRIPT = {
 	[SKID.AB_DUPLELIGHT] = {
 		"Gemini Lumen ^777777(Duple Light)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Aspersio 1^000000",
+		"Pré-requisitos: ^777777Aspersio 1^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Invoca duas luzes que ficam ativas",
@@ -9056,7 +9056,7 @@ SKILL_DESCRIPT = {
 	[SKID.AB_SILENTIUM] = {
 		"Silentium",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Gênese 1^000000",
+		"Pré-requisitos: ^777777Gênese 1^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Dá a chance de infligir Silêncio",
@@ -9071,7 +9071,7 @@ SKILL_DESCRIPT = {
 	[SKID.WL_WHITEIMPRISON] = {
 		"Exílio ^777777(White Imprision)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Impacto Espiritual 3^000000",
+		"Pré-requisitos: ^777777Impacto Espiritual 3^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Concede a chance de imobilizar o alvo.",
@@ -9093,7 +9093,7 @@ SKILL_DESCRIPT = {
 	[SKID.WL_SOULEXPANSION] = {
 		"Impacto Espiritual ^777777(Soul Expansion)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Drenar Vida 1^000000",
+		"Pré-requisitos: ^777777Drenar Vida 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^777777Expande as almas dos alvos, explodindo-as.",
@@ -9110,7 +9110,7 @@ SKILL_DESCRIPT = {
 	[SKID.WL_FROSTMISTY] = {
 		"Zero Absoluto ^777777(Frost Misty)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Invocar Esfera de Água 1^000000",
+		"Pré-requisitos: ^777777Invocar Esfera de Água 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^777777Causa dano mágico de propriedade Água",
@@ -9127,7 +9127,7 @@ SKILL_DESCRIPT = {
 	[SKID.WL_JACKFROST] = {
 		"Esquife de Gelo ^777777(Jack Frost)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Zero Absoluto 2^000000",
+		"Pré-requisitos: ^777777Zero Absoluto 2^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^777777Causa dano mágico de propriedade Água no",
@@ -9144,7 +9144,7 @@ SKILL_DESCRIPT = {
 	[SKID.WL_MARSHOFABYSS] = {
 		"Pântano de Nifflheim ^777777(March of Abyss)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Pântano dos Mortos 1^000000",
+		"Pré-requisitos: ^777777Pântano dos Mortos 1^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Reduz o movimento, DES, AGI, Esquiva,",
@@ -9160,7 +9160,7 @@ SKILL_DESCRIPT = {
 	[SKID.WL_RECOGNIZEDSPELL] = {
 		"Maestria Arcana ^777777(Recognized Spell)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Lançar Magia 2,",
+		"Pré-requisitos: ^777777Lançar Magia 2,",
 		"Stasis 1 e Exílio 1^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
@@ -9177,7 +9177,7 @@ SKILL_DESCRIPT = {
 	[SKID.WL_SIENNAEXECRATE] = {
 		"Fúria da Medusa ^777777(Sienna Execrate)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Invocar Esfera de Terra 1^000000",
+		"Pré-requisitos: ^777777Invocar Esfera de Terra 1^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Cria a chance de infligir [Petrificação]",
@@ -9207,7 +9207,7 @@ SKILL_DESCRIPT = {
 	[SKID.WL_STASIS] = {
 		"Stasis",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Drenar Vida 1^000000",
+		"Pré-requisitos: ^777777Drenar Vida 1^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Impede que o usuário, aliados e oponentes",
@@ -9224,7 +9224,7 @@ SKILL_DESCRIPT = {
 	[SKID.WL_DRAINLIFE] = {
 		"Drenar Vida ^777777(Drain Life)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Radius 1^000000",
+		"Pré-requisitos: ^777777Radius 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^777777Causa dano mágico de propriedade Neutro.",
@@ -9240,7 +9240,7 @@ SKILL_DESCRIPT = {
 	[SKID.WL_CRIMSONROCK] = {
 		"Meteoro Escarlate ^777777(Crimson Rock)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Invocar Esfera de Fogo 1^000000",
+		"Pré-requisitos: ^777777Invocar Esfera de Fogo 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^777777Causa dano mágico de propriedade Fogo na",
@@ -9257,7 +9257,7 @@ SKILL_DESCRIPT = {
 	[SKID.WL_HELLINFERNO] = {
 		"Chamas de Hela ^777777(Hell Inferno)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Meteoro Escarlate 2^000000",
+		"Pré-requisitos: ^777777Meteoro Escarlate 2^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^777777Causa dano mágico de propriedade Fogo e",
@@ -9273,7 +9273,7 @@ SKILL_DESCRIPT = {
 	[SKID.WL_COMET] = {
 		"Cometa ^777777(Comet)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Chamas de Hela 3^000000",
+		"Pré-requisitos: ^777777Chamas de Hela 3^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^777777Abre espaço para um enorme Cometa cair,",
@@ -9293,7 +9293,7 @@ SKILL_DESCRIPT = {
 	[SKID.WL_CHAINLIGHTNING] = {
 		"Corrente Elétrica ^777777(Chain Lightning)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Invocar Esfera de Vento 1^000000",
+		"Pré-requisitos: ^777777Invocar Esfera de Vento 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^777777Causa dano mágico de propriedade Vento",
@@ -9309,7 +9309,7 @@ SKILL_DESCRIPT = {
 	[SKID.WL_EARTHSTRAIN] = {
 		"Abalo Sísmico ^777777(Earth Strain)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Fúria da Medusa 2^000000",
+		"Pré-requisitos: ^777777Fúria da Medusa 2^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^777777Causa dano mágico de propriedade Terra em",
@@ -9324,7 +9324,7 @@ SKILL_DESCRIPT = {
 	[SKID.WL_TETRAVORTEX] = {
 		"Tetra Vortex",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos:",
+		"Pré-requisitos:",
 		"^777777Corrente Elétrica 5, Esquife de Gelo 5,",
 		"Abalo Sísmico 5, Chamas de Hela 5^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -9348,7 +9348,7 @@ SKILL_DESCRIPT = {
 	[SKID.WL_SUMMONFB] = {
 		"Invocar Esfera de Fogo ^777777(Summon Fire Ball)^000000",
 		"Nível máximo: ^7777772^000000",
-		"Pré requisitos: ^777777Chuva de Meteoros 1^000000",
+		"Pré-requisitos: ^777777Chuva de Meteoros 1^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Conjura Esferas ao redor do usuário.",
@@ -9364,7 +9364,7 @@ SKILL_DESCRIPT = {
 	[SKID.WL_SUMMONBL] = {
 		"Invocar Esfera de Vento ^777777(Summon Light Ball)^000000",
 		"Nível máximo: ^7777772^000000",
-		"Pré requisitos: ^777777Ira de Thor 1^000000",
+		"Pré-requisitos: ^777777Ira de Thor 1^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Conjura Esferas ao redor do usuário.",
@@ -9380,7 +9380,7 @@ SKILL_DESCRIPT = {
 	[SKID.WL_SUMMONWB] = {
 		"Invocar Esfera de Água ^777777(Summon Water Ball)^000000",
 		"Nível máximo: ^7777772^000000",
-		"Pré requisitos: ^777777Nevasca 1^000000",
+		"Pré-requisitos: ^777777Nevasca 1^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Conjura Esferas ao redor do usuário.",
@@ -9396,7 +9396,7 @@ SKILL_DESCRIPT = {
 	[SKID.WL_SUMMONSTONE] = {
 		"Invocar Esfera de Terra ^777777(Summon Stone)^000000",
 		"Nível máximo: ^7777772^000000",
-		"Pré requisitos: ^777777Fúria da Terra 1^000000",
+		"Pré-requisitos: ^777777Fúria da Terra 1^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Conjura Esferas ao redor do usuário.",
@@ -9448,7 +9448,7 @@ SKILL_DESCRIPT = {
 	[SKID.RA_ARROWSTORM] = {
 		"Tempestade de Flechas ^777777(Arrow Storm)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Disparo Certeiro 5^000000",
+		"Pré-requisitos: ^777777Disparo Certeiro 5^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^777777Causa dano físico a distância na área.",
@@ -9471,7 +9471,7 @@ SKILL_DESCRIPT = {
 	[SKID.RA_FEARBREEZE] = {
 		"Disparo Selvagem ^777777(Fear Breeze)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos:",
+		"Pré-requisitos:",
 		"^777777Camuflagem 1, Tempestade de Flechas 5^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
@@ -9507,7 +9507,7 @@ SKILL_DESCRIPT = {
 	[SKID.RA_AIMEDBOLT] = {
 		"Disparo Certeiro ^777777(Aimed Bolt)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Instalar Armadilha 5^000000",
+		"Pré-requisitos: ^777777Instalar Armadilha 5^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^777777Dispara 5 flechas no alvo, causando dano",
@@ -9529,7 +9529,7 @@ SKILL_DESCRIPT = {
 	[SKID.RA_DETONATOR] = {
 		"Detonador",
 		"Nível máximo: ^7777771^000000",
-		"Pré requisitos: ^777777Bomba Relógio 3^000000",
+		"Pré-requisitos: ^777777Bomba Relógio 3^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Ativa o efeito de todas as armadilhas",
@@ -9539,7 +9539,7 @@ SKILL_DESCRIPT = {
 	[SKID.RA_ELECTRICSHOCKER] = {
 		"Armadilha Energizada ^777777(Eletric Shocker)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Armadilha Extenuante 5^000000",
+		"Pré-requisitos: ^777777Armadilha Extenuante 5^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Instala uma armadilha na área de 5x5",
@@ -9559,7 +9559,7 @@ SKILL_DESCRIPT = {
 	[SKID.RA_CLUSTERBOMB] = {
 		"Bomba Relógio ^777777(Cluster Bomb)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Perícia com Armadilha 3^000000",
+		"Pré-requisitos: ^777777Perícia com Armadilha 3^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^777777Instala uma armadilha no chão, causando",
@@ -9588,7 +9588,7 @@ SKILL_DESCRIPT = {
 	[SKID.RA_WUGRIDER] = {
 		"Montaria em Worg ^777777(Worg Rider)^000000",
 		"Nível máximo: ^7777773^000000",
-		"Pré requisitos: ^777777Adestrar Worg 1^000000",
+		"Pré-requisitos: ^777777Adestrar Worg 1^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Permite montar em um Worg.",
@@ -9600,7 +9600,7 @@ SKILL_DESCRIPT = {
 	[SKID.RA_WUGDASH] = {
 		"Assalto de Worg ^777777(Worg Dash)^000000",
 		"Nível máximo: ^7777771^000000",
-		"Pré requisitos: ^777777Montaria em Worg 1^000000",
+		"Pré-requisitos: ^777777Montaria em Worg 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^008080Apenas montado no Worg.^000000",
@@ -9613,7 +9613,7 @@ SKILL_DESCRIPT = {
 	[SKID.RA_WUGSTRIKE] = {
 		"Investida de Worg ^777777(Worg Strike)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Presas Afiadas 1^000000",
+		"Pré-requisitos: ^777777Presas Afiadas 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^008080Apenas com Worg.^000000",
@@ -9629,7 +9629,7 @@ SKILL_DESCRIPT = {
 	[SKID.RA_WUGBITE] = {
 		"Mordida Feroz ^777777(Worg Bite)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Investida de Worg 1^000000",
+		"Pré-requisitos: ^777777Investida de Worg 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^008080Apenas com Worg.^000000",
@@ -9647,7 +9647,7 @@ SKILL_DESCRIPT = {
 	[SKID.RA_TOOTHOFWUG] = {
 		"Presas Afiadas ^777777(Tooth of Worg)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Adestrar Worg 1^000000",
+		"Pré-requisitos: ^777777Adestrar Worg 1^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
 		"^777777Aumenta o ATQ de perícia do Worg e o dano",
@@ -9668,7 +9668,7 @@ SKILL_DESCRIPT = {
 	[SKID.RA_SENSITIVEKEEN] = {
 		"Faro Aguçado ^777777(Sensitive Keen)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Presas Afiadas 3^000000",
+		"Pré-requisitos: ^777777Presas Afiadas 3^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^008080Apenas com Worg.^000000",
@@ -9685,7 +9685,7 @@ SKILL_DESCRIPT = {
 	[SKID.RA_CAMOUFLAGE] = {
 		"Camuflagem ^777777(Camouflage)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Táticas de Sobrevivência 1^000000",
+		"Pré-requisitos: ^777777Táticas de Sobrevivência 1^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^777777Entra em estado de esconderijo, podendo",
@@ -9705,7 +9705,7 @@ SKILL_DESCRIPT = {
 	[SKID.RA_RESEARCHTRAP] = {
 		"Perícia com Armadilha ^777777(Research Trap)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Armadilha Explosiva 1,",
+		"Pré-requisitos: ^777777Armadilha Explosiva 1,",
 		"Remover Armadilha 1^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
@@ -9728,7 +9728,7 @@ SKILL_DESCRIPT = {
 	[SKID.RA_MAGENTATRAP] = {
 		"Armadilha Escarlate ^777777(Magenta Trap)^000000",
 		"Nível máximo: ^7777771^000000",
-		"Pré requisitos: ^777777Perícia com Armadilha 1^000000",
+		"Pré-requisitos: ^777777Perícia com Armadilha 1^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Instala uma armadilha no chão.",
@@ -9741,7 +9741,7 @@ SKILL_DESCRIPT = {
 	[SKID.RA_COBALTTRAP] = {
 		"Armadilha Cobalto ^777777(Cobalt Trap)^000000",
 		"Nível máximo: ^7777771^000000",
-		"Pré requisitos: ^777777Perícia com Armadilha 1^000000",
+		"Pré-requisitos: ^777777Perícia com Armadilha 1^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Instala uma armadilha no chão.",
@@ -9754,7 +9754,7 @@ SKILL_DESCRIPT = {
 	[SKID.RA_MAIZETRAP] = {
 		"Armadilha Ocre ^777777(Maize Trap)^000000",
 		"Nível máximo: ^7777771^000000",
-		"Pré requisitos: ^777777Perícia com Armadilha 1^000000",
+		"Pré-requisitos: ^777777Perícia com Armadilha 1^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Instala uma armadilha no chão.",
@@ -9767,7 +9767,7 @@ SKILL_DESCRIPT = {
 	[SKID.RA_VERDURETRAP] = {
 		"Armadilha Esmeralda ^777777(Verdure Trap)^000000",
 		"Nível máximo: ^7777771^000000",
-		"Pré requisitos: ^777777Perícia com Armadilha 1^000000",
+		"Pré-requisitos: ^777777Perícia com Armadilha 1^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Instala uma armadilha no chão.",
@@ -9780,7 +9780,7 @@ SKILL_DESCRIPT = {
 	[SKID.RA_FIRINGTRAP] = {
 		"Armadilha Incendiária ^777777(Fire Trap)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Detonador 1^000000",
+		"Pré-requisitos: ^777777Detonador 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^777777Instala uma armadilha no chão, causando",
@@ -9798,7 +9798,7 @@ SKILL_DESCRIPT = {
 	[SKID.RA_ICEBOUNDTRAP] = {
 		"Armadilha Glacial ^777777(Ice Trap)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Detonador 1^000000",
+		"Pré-requisitos: ^777777Detonador 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^777777Instala uma armadilha no chão, causando",
@@ -9832,7 +9832,7 @@ SKILL_DESCRIPT = {
 	[SKID.NC_BOOSTKNUCKLE] = {
 		"Punho Foguete ^777777(Boost Knuckle)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Licença de Pilotagem 1^000000",
+		"Pré-requisitos: ^777777Licença de Pilotagem 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^008080Apenas com M.E.C.H.A.^000000",
@@ -9849,7 +9849,7 @@ SKILL_DESCRIPT = {
 	[SKID.NC_PILEBUNKER] = {
 		"Bate Estaca ^777777(Pile Bunker)^000000",
 		"Nível máximo: ^7777773^000000",
-		"Pré requisitos: ^777777Punho Foguete 2^000000",
+		"Pré-requisitos: ^777777Punho Foguete 2^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^008080Apenas com M.E.C.H.A.^000000",
@@ -9866,7 +9866,7 @@ SKILL_DESCRIPT = {
 	[SKID.NC_VULCANARM] = {
 		"Metralhadora ^777777(Vulcan Arm)^000000",
 		"Nível máximo: ^7777773^000000",
-		"Pré requisitos: ^777777Punho Foguete 2^000000",
+		"Pré-requisitos: ^777777Punho Foguete 2^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^008080Apenas com M.E.C.H.A.^000000",
@@ -9883,7 +9883,7 @@ SKILL_DESCRIPT = {
 	[SKID.NC_FLAMELAUNCHER] = {
 		"Lança Chamas ^777777(Flame Launcher)^000000",
 		"Nível máximo: ^7777773^000000",
-		"Pré requisitos: ^777777Metralhadora 1^000000",
+		"Pré-requisitos: ^777777Metralhadora 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^008080Apenas com M.E.C.H.A.^000000",
@@ -9900,7 +9900,7 @@ SKILL_DESCRIPT = {
 	[SKID.NC_COLDSLOWER] = {
 		"Gás Criogênico ^777777(Ice Launcher)^000000",
 		"Nível máximo: ^7777773^000000",
-		"Pré requisitos: ^777777Metralhadora 3^000000",
+		"Pré-requisitos: ^777777Metralhadora 3^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^008080Apenas com M.E.C.H.A.^000000",
@@ -9918,7 +9918,7 @@ SKILL_DESCRIPT = {
 	[SKID.NC_ARMSCANNON] = {
 		"Canhão ^777777(Arms Cannon)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Lança Chamas 2,",
+		"Pré-requisitos: ^777777Lança Chamas 2,",
 		"Gás Criogênico 2^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -9938,7 +9938,7 @@ SKILL_DESCRIPT = {
 	[SKID.NC_ACCELERATION] = {
 		"Aceleração ^777777(Acceleration)^000000",
 		"Nível máximo: ^7777773^000000",
-		"Pré requisitos: ^777777Licença de Pilotagem 1^000000",
+		"Pré-requisitos: ^777777Licença de Pilotagem 1^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^008080Apenas com M.E.C.H.A.^000000",
@@ -9953,7 +9953,7 @@ SKILL_DESCRIPT = {
 	[SKID.NC_HOVERING] = {
 		"Planar ^777777(Hovering)^000000",
 		"Nível máximo: ^7777771^000000",
-		"Pré requisitos: ^777777Aceleração 1^000000",
+		"Pré-requisitos: ^777777Aceleração 1^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^008080Apenas com M.E.C.H.A.^000000",
@@ -9965,7 +9965,7 @@ SKILL_DESCRIPT = {
 	[SKID.NC_F_SIDESLIDE] = {
 		"Propulsão Traseira ^777777(Front Slide)^000000",
 		"Nível máximo: ^7777771^000000",
-		"Pré requisitos: ^777777Planar 1^000000",
+		"Pré-requisitos: ^777777Planar 1^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^008080Apenas com M.E.C.H.A.^000000",
@@ -9975,7 +9975,7 @@ SKILL_DESCRIPT = {
 	[SKID.NC_B_SIDESLIDE] = {
 		"Propulsão Dianteira ^777777(Back Slide)^000000",
 		"Nível máximo: ^7777771^000000",
-		"Pré requisitos: ^777777Planar 1^000000",
+		"Pré-requisitos: ^777777Planar 1^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^008080Apenas com M.E.C.H.A.^000000",
@@ -9985,7 +9985,7 @@ SKILL_DESCRIPT = {
 	[SKID.NC_MAINFRAME] = {
 		"Reforçar Estrutura ^777777(Remodel Mainframe)^000000",
 		"Nível máximo: ^7777774^000000",
-		"Pré requisitos: ^777777Licença de Pilotagem 4^000000",
+		"Pré-requisitos: ^777777Licença de Pilotagem 4^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
 		"^777777Aumenta a DEF e o limite",
@@ -10005,7 +10005,7 @@ SKILL_DESCRIPT = {
 	[SKID.NC_SELFDESTRUCTION] = {
 		"Autodestruição ^777777(Self Destruction)^000000",
 		"Nível máximo: ^7777773^000000",
-		"Pré requisitos: ^777777Reforçar Estrutura 2^000000",
+		"Pré-requisitos: ^777777Reforçar Estrutura 2^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^008080Apenas com M.E.C.H.A.^000000",
@@ -10022,7 +10022,7 @@ SKILL_DESCRIPT = {
 	[SKID.NC_SHAPESHIFT] = {
 		"Reconfigurar Elemento ^777777(Shape Shift)^000000",
 		"Nível máximo: ^7777774^000000",
-		"Pré requisitos: ^777777Reforçar Estrutura 2^000000",
+		"Pré-requisitos: ^777777Reforçar Estrutura 2^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^008080Apenas com M.E.C.H.A.^000000",
@@ -10039,7 +10039,7 @@ SKILL_DESCRIPT = {
 	[SKID.NC_EMERGENCYCOOL] = {
 		"Resfriamento ^777777(Emergency Cool)^000000",
 		"Nível máximo: ^7777771^000000",
-		"Pré requisitos: ^777777Autodestruição 2^000000",
+		"Pré-requisitos: ^777777Autodestruição 2^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^008080Apenas com M.E.C.H.A.^000000",
@@ -10050,7 +10050,7 @@ SKILL_DESCRIPT = {
 	[SKID.NC_INFRAREDSCAN] = {
 		"Sensor Infravermelho ^777777(Infrared Scan)^000000",
 		"Nível máximo: ^7777771^000000",
-		"Pré requisitos: ^777777Reconfigurar Elemento 2^000000",
+		"Pré-requisitos: ^777777Reconfigurar Elemento 2^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^008080Apenas com M.E.C.H.A.^000000",
@@ -10061,7 +10061,7 @@ SKILL_DESCRIPT = {
 	[SKID.NC_ANALYZE] = {
 		"Analisar ^777777(Analyze)^000000",
 		"Nível máximo: ^7777773^000000",
-		"Pré requisitos: ^777777Sensor Infravermelho 1^000000",
+		"Pré-requisitos: ^777777Sensor Infravermelho 1^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^008080Apenas com M.E.C.H.A.^000000",
@@ -10076,7 +10076,7 @@ SKILL_DESCRIPT = {
 	[SKID.NC_MAGNETICFIELD] = {
 		"Campo Magnético ^777777(Magnetic Field)^000000",
 		"Nível máximo: ^7777773^000000",
-		"Pré requisitos: ^777777Resfriamento 1^000000",
+		"Pré-requisitos: ^777777Resfriamento 1^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^008080Apenas com M.E.C.H.A.^000000",
@@ -10095,7 +10095,7 @@ SKILL_DESCRIPT = {
 	[SKID.NC_NEUTRALBARRIER] = {
 		"Campo Protetor ^777777(Neutral Barrier)^000000",
 		"Nível máximo: ^7777773^000000",
-		"Pré requisitos: ^777777Campo Magnético 2^000000",
+		"Pré-requisitos: ^777777Campo Magnético 2^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^008080Apenas com M.E.C.H.A.^000000",
@@ -10112,7 +10112,7 @@ SKILL_DESCRIPT = {
 	[SKID.NC_STEALTHFIELD] = {
 		"Campo de Invisibilidade ^777777(Stealth Field)^000000",
 		"Nível máximo: ^7777773^000000",
-		"Pré requisitos:",
+		"Pré-requisitos:",
 		"^777777Analisar 3, Campo Protetor 2^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
@@ -10131,7 +10131,7 @@ SKILL_DESCRIPT = {
 	[SKID.NC_REPAIR] = {
 		"Reparar ^777777(Repair)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Licença de Pilotagem 2^000000",
+		"Pré-requisitos: ^777777Licença de Pilotagem 2^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^008080Apenas com M.E.C.H.A.^000000",
@@ -10181,7 +10181,7 @@ SKILL_DESCRIPT = {
 	[SKID.NC_AXEBOOMERANG] = {
 		"Arremesso de Machado ^777777(Axe Boomerang)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Maestria com Machados 1^000000",
+		"Pré-requisitos: ^777777Maestria com Machados 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^777777Causa dano físico a distância",
@@ -10197,7 +10197,7 @@ SKILL_DESCRIPT = {
 	[SKID.NC_POWERSWING] = {
 		"Brandir Machado ^777777(Power Swing)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Arremesso de Machado 3^000000",
+		"Pré-requisitos: ^777777Arremesso de Machado 3^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^777777Causa dano físico corpo a corpo com chance",
@@ -10218,7 +10218,7 @@ SKILL_DESCRIPT = {
 	[SKID.NC_AXETORNADO] = {
 		"Fúria do Furacão ^777777(Axe Tornado)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Maestria com Machados 1^000000",
+		"Pré-requisitos: ^777777Maestria com Machados 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^008080Apenas com Machados.^000000",
@@ -10234,7 +10234,7 @@ SKILL_DESCRIPT = {
 	[SKID.NC_SILVERSNIPER] = {
 		"Artilharia Caçadora ^777777(Silver Sniper)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Sabedoria de Hefesto 2^000000",
+		"Pré-requisitos: ^777777Sabedoria de Hefesto 2^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Cria uma Artilharia de ataques",
@@ -10253,7 +10253,7 @@ SKILL_DESCRIPT = {
 	[SKID.NC_MAGICDECOY] = {
 		"Artilharia Arcana ^777777(Magic Decoy)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Artilharia Caçadora 2^000000",
+		"Pré-requisitos: ^777777Artilharia Caçadora 2^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Cria uma Artilharia de ataques",
@@ -10277,7 +10277,7 @@ SKILL_DESCRIPT = {
 	[SKID.NC_DISJOINT] = {
 		"Remover Artilharia ^777777(Disjoint)^000000",
 		"Nível máximo: ^7777771^000000",
-		"Pré requisitos: ^777777Artilharia Caçadora 1^000000",
+		"Pré-requisitos: ^777777Artilharia Caçadora 1^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Consome 1 Chave de Boca para",
@@ -10287,7 +10287,7 @@ SKILL_DESCRIPT = {
 	[SKID.SC_FATALMENACE] = {
 		"Ofensiva Fatal ^777777(Fatal Menace)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Rapto 5^000000",
+		"Pré-requisitos: ^777777Rapto 5^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^777777Causa dano físico corpo a corpo no alvo e",
@@ -10309,7 +10309,7 @@ SKILL_DESCRIPT = {
 	[SKID.SC_REPRODUCE] = {
 		"Mimetismo ^777777(Reproduce)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Rapto 5,",
+		"Pré-requisitos: ^777777Rapto 5,",
 		"Ataque Surpresa 5, Plágio 5^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
@@ -10325,7 +10325,7 @@ SKILL_DESCRIPT = {
 	[SKID.SC_AUTOSHADOWSPELL] = {
 		"Desejo das Sombras ^777777(Auto Shadow Spell)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Mimetismo 5^000000",
+		"Pré-requisitos: ^777777Mimetismo 5^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Ao realizar ataques físicos corpo",
@@ -10349,7 +10349,7 @@ SKILL_DESCRIPT = {
 	[SKID.SC_SHADOWFORM] = {
 		"Vínculo Sombrio ^777777(Shadow Form)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Túnel de Fuga 3^000000",
+		"Pré-requisitos: ^777777Túnel de Fuga 3^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Se esconde na sombra de um personagem.",
@@ -10370,7 +10370,7 @@ SKILL_DESCRIPT = {
 	[SKID.SC_TRIANGLESHOT] = {
 		"Disparo Triplo ^777777(Triangle Shot)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Rajada de Flechas 7^000000",
+		"Pré-requisitos: ^777777Rajada de Flechas 7^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^777777Causa dano físico a distância em 1 alvo.",
@@ -10414,7 +10414,7 @@ SKILL_DESCRIPT = {
 	[SKID.SC_INVISIBILITY] = {
 		"Forma Etérea ^777777(Invisibility)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Msc. da Vulnerabilidade 3,",
+		"Pré-requisitos: ^777777Msc. da Vulnerabilidade 3,",
 		"Desejo das Sombras 7, Pestilência 5^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
@@ -10436,7 +10436,7 @@ SKILL_DESCRIPT = {
 	[SKID.SC_DEADLYINFECT] = {
 		"Pestilência ^777777(Deadly Infection)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Vínculo Sombrio 3,",
+		"Pré-requisitos: ^777777Vínculo Sombrio 3,",
 		"Desejo das Sombras 5^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
@@ -10455,7 +10455,7 @@ SKILL_DESCRIPT = {
 	[SKID.SC_ENERVATION] = {
 		"Máscara da Fraqueza ^777777(M. Enervation)^000000",
 		"Nível máximo: ^7777773^000000",
-		"Pré requisitos: ^777777Borrifar Tinta 1^000000",
+		"Pré-requisitos: ^777777Borrifar Tinta 1^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Concede a chance de reduzir o ATQ do alvo",
@@ -10471,7 +10471,7 @@ SKILL_DESCRIPT = {
 	[SKID.SC_GROOMY] = {
 		"Máscara da Melancolia ^777777(M. Gloomy)^000000",
 		"Nível máximo: ^7777773^000000",
-		"Pré requisitos: ^777777Borrifar Tinta 1^000000",
+		"Pré-requisitos: ^777777Borrifar Tinta 1^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Concede a chance de reduzir a Precisão e a",
@@ -10489,7 +10489,7 @@ SKILL_DESCRIPT = {
 	[SKID.SC_IGNORANCE] = {
 		"Máscara da Tolice ^777777(M. Ignorance)^000000",
 		"Nível máximo: ^7777773^000000",
-		"Pré requisitos: ^777777Borrifar Tinta 1^000000",
+		"Pré-requisitos: ^777777Borrifar Tinta 1^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Concede a chance de impedir o alvo de",
@@ -10507,7 +10507,7 @@ SKILL_DESCRIPT = {
 	[SKID.SC_LAZINESS] = {
 		"Máscara da Ociosidade ^777777(M. Laziness)^000000",
 		"Nível máximo: ^7777773^000000",
-		"Pré requisitos: ^777777Máscara da Melancolia 1,",
+		"Pré-requisitos: ^777777Máscara da Melancolia 1,",
 		"Máscara da Fraqueza 1, Máscara da Tolice 1^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
@@ -10526,7 +10526,7 @@ SKILL_DESCRIPT = {
 	[SKID.SC_UNLUCKY] = {
 		"Máscara do Infortúnio ^777777(M. Unlucky)^000000",
 		"Nível máximo: ^7777773^000000",
-		"Pré requisitos: ^777777Máscara da Ociosidade 1",
+		"Pré-requisitos: ^777777Máscara da Ociosidade 1",
 		"Máscara da Vulnerabilidade 1^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
@@ -10546,7 +10546,7 @@ SKILL_DESCRIPT = {
 	[SKID.SC_WEAKNESS] = {
 		"Máscara da Vulnerabilidade ^777777(M. Weakness)^000000",
 		"Nível máximo: ^7777773^000000",
-		"Pré requisitos: ^777777Máscara da Melancolia 1",
+		"Pré-requisitos: ^777777Máscara da Melancolia 1",
 		"Máscara da Fraqueza 1, Máscara da Tolice 1^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
@@ -10563,7 +10563,7 @@ SKILL_DESCRIPT = {
 	[SKID.SC_STRIPACCESSARY] = {
 		"Remover Acessório ^777777(Strip Accessory)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Remover Arma 1^000000",
+		"Pré-requisitos: ^777777Remover Arma 1^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Tenta remover o acessório do alvo,",
@@ -10579,7 +10579,7 @@ SKILL_DESCRIPT = {
 	[SKID.SC_MANHOLE] = {
 		"Pintar Armadilha ^777777(Manhole)^000000",
 		"Nível máximo: ^7777773^000000",
-		"Pré requisitos: ^777777Pichar 1^000000",
+		"Pré-requisitos: ^777777Pichar 1^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Pinta uma armadilha no chão, imobilizando",
@@ -10595,7 +10595,7 @@ SKILL_DESCRIPT = {
 	[SKID.SC_DIMENSIONDOOR] = {
 		"Porta Dimensional ^777777(Dimensional Door)^000000",
 		"Nível máximo: ^7777773^000000",
-		"Pré requisitos: ^777777Pintar Armadilha 1^000000",
+		"Pré-requisitos: ^777777Pintar Armadilha 1^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Pinta uma porta no chão que teleportará",
@@ -10611,7 +10611,7 @@ SKILL_DESCRIPT = {
 	[SKID.SC_CHAOSPANIC] = {
 		"Símbolo do Caos ^777777(Chaos Panic)^000000",
 		"Nível máximo: ^7777773^000000",
-		"Pré requisitos: ^777777Pintar Armadilha 1^000000",
+		"Pré-requisitos: ^777777Pintar Armadilha 1^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Pinta um símbolo que tem chance de",
@@ -10626,7 +10626,7 @@ SKILL_DESCRIPT = {
 	[SKID.SC_MAELSTROM] = {
 		"Redemoinho de Absorção ^777777(Maelstrom)^000000",
 		"Nível máximo: ^7777773^000000",
-		"Pré requisitos: ^777777Máscara do Infortúnio 3,",
+		"Pré-requisitos: ^777777Máscara do Infortúnio 3,",
 		"Símbolo do Caos 3^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
@@ -10642,7 +10642,7 @@ SKILL_DESCRIPT = {
 	[SKID.SC_BLOODYLUST] = {
 		"Sede de Sangue ^777777(Bloody Lust)^000000",
 		"Nível máximo: ^7777773^000000",
-		"Pré requisitos: ^777777Porta Dimensional 3^000000",
+		"Pré-requisitos: ^777777Porta Dimensional 3^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Pinta um símbolo no chão que ativa",
@@ -10658,7 +10658,7 @@ SKILL_DESCRIPT = {
 	[SKID.SC_FEINTBOMB] = {
 		"Cópia Explosiva ^777777(Feint Bomb)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Porta Dimensional 3^000000",
+		"Pré-requisitos: ^777777Porta Dimensional 3^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^777777Recua para trás e entra em Esconderijo.",
@@ -10682,7 +10682,7 @@ SKILL_DESCRIPT = {
 	[SKID.LG_CANNONSPEAR] = {
 		"Disparo Perfurante ^777777(Cannon Spear)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Estocada Precisa 1^000000",
+		"Pré-requisitos: ^777777Estocada Precisa 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^008080Apenas com Lança.^000000",
@@ -10700,7 +10700,7 @@ SKILL_DESCRIPT = {
 	[SKID.LG_BANISHINGPOINT] = {
 		"Toque do Oblívio ^777777(Vanishing Point)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Perícia com Lança 1^000000",
+		"Pré-requisitos: ^777777Perícia com Lança 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^008080Apenas com Lança.^000000",
@@ -10737,7 +10737,7 @@ SKILL_DESCRIPT = {
 	[SKID.LG_SHIELDPRESS] = {
 		"Escudo Compressor ^777777(Shield Press)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Punição Divina 3^000000",
+		"Pré-requisitos: ^777777Punição Divina 3^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^008080Apenas com Escudo.^000000",
@@ -10759,7 +10759,7 @@ SKILL_DESCRIPT = {
 	[SKID.LG_REFLECTDAMAGE] = {
 		"Escudo Supressor ^777777(Reflect Damage)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Escudo Refletor 5^000000",
+		"Pré-requisitos: ^777777Escudo Refletor 5^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^008080Apenas com Escudo.^000000",
@@ -10775,7 +10775,7 @@ SKILL_DESCRIPT = {
 	[SKID.LG_PINPOINTATTACK] = {
 		"Estocada Precisa ^777777(Pinpoint Attack)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Toque do Oblívio 5^000000",
+		"Pré-requisitos: ^777777Toque do Oblívio 5^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^008080Apenas com Lança.^000000",
@@ -10813,7 +10813,7 @@ SKILL_DESCRIPT = {
 	[SKID.LG_RAGEBURST] = {
 		"Retribuição da Vanguarda ^777777(Rage Burst)^000000",
 		"Nível máximo: ^7777771^000000",
-		"Pré requisitos: ^777777Proteção da Vanguarda 1^000000",
+		"Pré-requisitos: ^777777Proteção da Vanguarda 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^777777Consome todos os [Pontos de Fúria] para",
@@ -10824,7 +10824,7 @@ SKILL_DESCRIPT = {
 	[SKID.LG_SHIELDSPELL] = {
 		"Aegis Domini ^777777(Shield Spell)^000000",
 		"Nível máximo: ^7777773^000000",
-		"Pré requisitos: ^777777Aegis Inferi 2,",
+		"Pré-requisitos: ^777777Aegis Inferi 2,",
 		"Escudo Compressor 3^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
@@ -10840,7 +10840,7 @@ SKILL_DESCRIPT = {
 	[SKID.LG_EXEEDBREAK] = {
 		"Exceder Limite ^777777(Exceed Break)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Toque do Oblívio 3^000000",
+		"Pré-requisitos: ^777777Toque do Oblívio 3^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^777777Ao acertar o alvo no próximo ataque,",
@@ -10859,7 +10859,7 @@ SKILL_DESCRIPT = {
 	[SKID.LG_OVERBRAND] = {
 		"Lança do Destino ^777777(Overbrand)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos:",
+		"Pré-requisitos:",
 		"^777777Espiral Lunar 3, Estocada Precisa 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -10873,13 +10873,12 @@ SKILL_DESCRIPT = {
 		"[Nv 2]: ^777777700%^000000 l ^7777771.000%^000000",
 		"[Nv 3]: ^7777771.050%^000000 l ^7777771.500%^000000",
 		"[Nv 4]: ^7777771.400%^000000 l ^7777772.000%^000000",
-		"[Nv 5]: ^7777771.750%^000000 l ^7777772.500%^000000",
-		""
+		"[Nv 5]: ^7777771.750%^000000 l ^7777772.500%^000000"
 	},
 	[SKID.LG_PRESTIGE] = {
 		"Prestígio Divino ^777777(Prestige)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Pisotear Armadilha 3^000000",
+		"Pré-requisitos: ^777777Pisotear Armadilha 3^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^777777Aumenta a DEF dos equipamentos e dá",
@@ -10896,7 +10895,7 @@ SKILL_DESCRIPT = {
 	[SKID.LG_BANDING] = {
 		"Formação Real ^777777(Banding)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Estocada Precisa 3,",
+		"Pré-requisitos: ^777777Estocada Precisa 3,",
 		"Retribuição da Vanguarda 1^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
@@ -10915,7 +10914,7 @@ SKILL_DESCRIPT = {
 	[SKID.LG_MOONSLASHER] = {
 		"Espiral Lunar ^777777(Moon Slasher)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Perícia com Lança 1^000000",
+		"Pré-requisitos: ^777777Perícia com Lança 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^008080Apenas com Lança.^000000",
@@ -10934,7 +10933,7 @@ SKILL_DESCRIPT = {
 	[SKID.LG_RAYOFGENESIS] = {
 		"Luz da Criação ^777777(Ray of Genesis)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Crux Magnum 5^000000",
+		"Pré-requisitos: ^777777Crux Magnum 5^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^777777Causa dano mágico de propriedade Sagrado",
@@ -10958,7 +10957,7 @@ SKILL_DESCRIPT = {
 	[SKID.LG_PIETY] = {
 		"Devoção ^777777(Piety)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Fé 3^000000",
+		"Pré-requisitos: ^777777Fé 3^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^777777Encanta a armadura com propriedade Sagrado",
@@ -10974,7 +10973,7 @@ SKILL_DESCRIPT = {
 	[SKID.LG_EARTHDRIVE] = {
 		"Aegis Inferi ^777777(Earth Drive)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Escudo Supressor 3^000000",
+		"Pré-requisitos: ^777777Escudo Supressor 3^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^008080Apenas com Escudo.^000000",
@@ -10993,7 +10992,7 @@ SKILL_DESCRIPT = {
 	[SKID.LG_HESPERUSLIT] = {
 		"Trindade ^777777(Hesperus Lit)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos:",
+		"Pré-requisitos:",
 		"^777777Prestígio Divino 3, Formação Real 3^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -11011,7 +11010,7 @@ SKILL_DESCRIPT = {
 	[SKID.LG_INSPIRATION] = {
 		"Consagração ^777777(Inspiration)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Aegis Domini 3,",
+		"Pré-requisitos: ^777777Aegis Domini 3,",
 		"Luz da Criação 4, Devoção 5^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
@@ -11035,7 +11034,7 @@ SKILL_DESCRIPT = {
 	[SKID.SR_DRAGONCOMBO] = {
 		"Punho do Dragão ^777777(Dragon Combo)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Combo Triplo 5^000000",
+		"Pré-requisitos: ^777777Combo Triplo 5^000000",
 		"Tipo: ^777777Ofensiva^000000 / ^CD3278Combo^000000",
 		"Descrição:",
 		"^777777Dá um soco no alvo, causando dano físico",
@@ -11056,7 +11055,7 @@ SKILL_DESCRIPT = {
 	[SKID.SR_SKYNETBLOW] = {
 		"Soco Furacão ^777777(Sky Net Blow)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Punho do Dragão 3^000000",
+		"Pré-requisitos: ^777777Punho do Dragão 3^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^777777Golpe giratório que atinge 5x5 células ao",
@@ -11072,7 +11071,7 @@ SKILL_DESCRIPT = {
 	[SKID.SR_EARTHSHAKER] = {
 		"Impacto Sísmico ^777777(Earth Shaker)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Punho do Dragão 3^000000",
+		"Pré-requisitos: ^777777Punho do Dragão 3^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^777777Causa dano físico corpo a corpo na área.",
@@ -11091,7 +11090,7 @@ SKILL_DESCRIPT = {
 	[SKID.SR_FALLENEMPIRE] = {
 		"Ruína ^777777(Fallen Empire)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Punho do Dragão 3^000000",
+		"Pré-requisitos: ^777777Punho do Dragão 3^000000",
 		"Tipo: ^777777Ofensiva^000000 / ^CD3278Combo^000000",
 		"Descrição:",
 		"^008080Após [Punho do Dragão].^000000",
@@ -11115,7 +11114,7 @@ SKILL_DESCRIPT = {
 	[SKID.SR_TIGERCANNON] = {
 		"Garra de Tigre ^777777(Tiger Cannon)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Ruína 3^000000",
+		"Pré-requisitos: ^777777Ruína 3^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^008080Apenas em [Fúria Interior].^000000",
@@ -11138,7 +11137,7 @@ SKILL_DESCRIPT = {
 	[SKID.SR_RAMPAGEBLASTER] = {
 		"Explosão Espiritual ^777777(Rampage Blaster)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Impacto Sísmico 2 ^000000",
+		"Pré-requisitos: ^777777Impacto Sísmico 2 ^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^008080Apenas em [Fúria Interior].^000000",
@@ -11157,7 +11156,7 @@ SKILL_DESCRIPT = {
 	[SKID.SR_CRESCENTELBOW] = {
 		"Cotovelada Ascendente ^777777(Crescent Elbow)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Chute Rasteiro 1^000000",
+		"Pré-requisitos: ^777777Chute Rasteiro 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^777777Dá a chance de refletir ataques físicos de",
@@ -11178,7 +11177,7 @@ SKILL_DESCRIPT = {
 	[SKID.SR_CURSEDCIRCLE] = {
 		"Campo Amaldiçoado ^777777(Cursed Circle)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Dilema 2^000000",
+		"Pré-requisitos: ^777777Dilema 2^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Produz um campo que afeta o usuário e",
@@ -11195,7 +11194,7 @@ SKILL_DESCRIPT = {
 	[SKID.SR_LIGHTNINGWALK] = {
 		"Salto Relâmpago ^777777(Lightning Walk)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Chute Rasteiro 1^000000",
+		"Pré-requisitos: ^777777Chute Rasteiro 1^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Dá a chance de anular um ataque físico a",
@@ -11212,7 +11211,7 @@ SKILL_DESCRIPT = {
 	[SKID.SR_KNUCKLEARROW] = {
 		"Pancada Corporal ^777777(Knuckle Arrow)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Salto Relâmpago 1^000000",
+		"Pré-requisitos: ^777777Salto Relâmpago 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^777777Joga o corpo contra o alvo para causar dano",
@@ -11237,7 +11236,7 @@ SKILL_DESCRIPT = {
 	[SKID.SR_WINDMILL] = {
 		"Chute Rasteiro ^777777(Windmill)^000000",
 		"Nível máximo: ^7777771^000000",
-		"Pré requisitos: ^777777Campo Amaldiçoado 1^000000",
+		"Pré-requisitos: ^777777Campo Amaldiçoado 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^777777Causa dano físico na área de 5x5 células.",
@@ -11247,7 +11246,7 @@ SKILL_DESCRIPT = {
 	[SKID.SR_RAISINGDRAGON] = {
 		"Dragão Ascendente ^777777(Raising Dragon)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Renúncia Espiritual 1^000000",
+		"Pré-requisitos: ^777777Renúncia Espiritual 1^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^777777Aumenta o HP e SP máx. e o nº de Esferas.",
@@ -11267,7 +11266,7 @@ SKILL_DESCRIPT = {
 	[SKID.SR_ASSIMILATEPOWER] = {
 		"Absorção Espiritual ^777777(Power Absorb)^000000",
 		"Nível máximo: ^7777771^000000",
-		"Pré requisitos: ^777777Renúncia Espiritual 1,",
+		"Pré-requisitos: ^777777Renúncia Espiritual 1,",
 		"Absorver Esferas Espirituais 1 ^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
@@ -11278,7 +11277,7 @@ SKILL_DESCRIPT = {
 	[SKID.SR_POWERVELOCITY] = {
 		"Renúncia Espiritual ^777777(Power Velocity)^000000",
 		"Nível máximo: ^7777771^000000",
-		"Pré requisitos: ^777777Invocar Esfera Espiritual 5^000000",
+		"Pré-requisitos: ^777777Invocar Esfera Espiritual 5^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Transfere todas as esferas espirituais",
@@ -11287,7 +11286,7 @@ SKILL_DESCRIPT = {
 	[SKID.SR_GATEOFHELL] = {
 		"Portões do Inferno ^777777(Gates of Hell)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos:",
+		"Pré-requisitos:",
 		"^777777Explosão Espiritual 1, Garra de Tigre 5^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -11327,7 +11326,7 @@ SKILL_DESCRIPT = {
 	[SKID.SR_GENTLETOUCH_CURE] = {
 		"Chakra da Cura ^777777(Touch - Cure)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Chakra do Silêncio 1^000000",
+		"Pré-requisitos: ^777777Chakra do Silêncio 1^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^777777Recupera um pouco de HP com chance de",
@@ -11343,7 +11342,7 @@ SKILL_DESCRIPT = {
 	[SKID.SR_GENTLETOUCH_ENERGYGAIN] = {
 		"Chakra da Energia ^777777(Touch - Energy Gain)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Chakra da Cura 1^000000",
+		"Pré-requisitos: ^777777Chakra da Cura 1^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^777777Enquanto estiver ativa, ao realizar ataques",
@@ -11362,7 +11361,7 @@ SKILL_DESCRIPT = {
 	[SKID.SR_GENTLETOUCH_CHANGE] = {
 		"Chakra da Fúria ^777777(Touch - Change)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Chakra da Energia 3^000000",
+		"Pré-requisitos: ^777777Chakra da Energia 3^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^777777Aumenta o ATQ, a Velocidade de ataque e",
@@ -11381,7 +11380,7 @@ SKILL_DESCRIPT = {
 	[SKID.SR_GENTLETOUCH_REVITALIZE] = {
 		"Chakra do Vigor ^777777(Touch - Revitalize)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Chakra da Energia 3^000000",
+		"Pré-requisitos: ^777777Chakra da Energia 3^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^777777Acelera a regen. natural de HP e aumenta o",
@@ -11399,7 +11398,7 @@ SKILL_DESCRIPT = {
 	[SKID.WA_SWING_DANCE] = {
 		"Ritmo Contagiante ^777777(Swing Dance)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Melodia de Morfeu 1^000000",
+		"Pré-requisitos: ^777777Melodia de Morfeu 1^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^008080Apenas Chicotes.^000000",
@@ -11418,7 +11417,7 @@ SKILL_DESCRIPT = {
 	[SKID.WA_SYMPHONY_OF_LOVER] = {
 		"Balada Sinfônica ^777777(Symphony of Lover)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Melodia de Morfeu 1^000000",
+		"Pré-requisitos: ^777777Melodia de Morfeu 1^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^008080Apenas Chicotes.^000000",
@@ -11434,7 +11433,7 @@ SKILL_DESCRIPT = {
 	[SKID.WA_MOONLIT_SERENADE] = {
 		"Serenata ao Luar ^777777(Moonlight Serenade)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Melodia de Morfeu 1^000000",
+		"Pré-requisitos: ^777777Melodia de Morfeu 1^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^008080Apenas Chicotes.^000000",
@@ -11452,7 +11451,7 @@ SKILL_DESCRIPT = {
 	[SKID.MI_RUSH_WINDMILL] = {
 		"Sinfonia dos Ventos ^777777(Windmill Rush)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Melodia de Morfeu 1^000000",
+		"Pré-requisitos: ^777777Melodia de Morfeu 1^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^008080Apenas Instrumentos Musicais.^000000",
@@ -11470,7 +11469,7 @@ SKILL_DESCRIPT = {
 	[SKID.MI_ECHOSONG] = {
 		"Canção de Balder ^777777(Echo Song)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Melodia de Morfeu 1^000000",
+		"Pré-requisitos: ^777777Melodia de Morfeu 1^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^008080Apenas Instrumentos Musicais.^000000",
@@ -11487,7 +11486,7 @@ SKILL_DESCRIPT = {
 	[SKID.MI_HARMONIZE] = {
 		"Harmonizar ^777777(Harmonize)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Melodia de Morfeu 1^000000",
+		"Pré-requisitos: ^777777Melodia de Morfeu 1^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^008080Apenas Instrumentos Musicais.^000000",
@@ -11522,7 +11521,7 @@ SKILL_DESCRIPT = {
 	[SKID.WM_METALICSOUND] = {
 		"Ruído Estridente ^777777(Metallic Sound)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Ressonância 5^000000",
+		"Pré-requisitos: ^777777Ressonância 5^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^777777Emite um som metálico e causa dano mágico",
@@ -11545,7 +11544,7 @@ SKILL_DESCRIPT = {
 	[SKID.WM_REVERBERATION] = {
 		"Ressonância ^777777(Reverberation)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Dissonância 5^000000 ou",
+		"Pré-requisitos: ^777777Dissonância 5^000000 ou",
 		"^777777Dança do Ventre 5^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -11565,7 +11564,7 @@ SKILL_DESCRIPT = {
 	[SKID.WM_SEVERE_RAINSTORM] = {
 		"Temporal de Flechas ^777777(Severe Rainstorm)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos:",
+		"Pré-requisitos:",
 		"^777777Estilingue 5^000000 ou ^777777Flecha Melódica 5^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -11586,7 +11585,7 @@ SKILL_DESCRIPT = {
 	[SKID.WM_POEMOFNETHERWORLD] = {
 		"Poema de Nifflheim ^777777(Poem of Netherworld)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Domínio Musical 1^000000",
+		"Pré-requisitos: ^777777Domínio Musical 1^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^008080Apenas Chicotes ou Instrumentos.^000000",
@@ -11605,7 +11604,7 @@ SKILL_DESCRIPT = {
 	[SKID.WM_VOICEOFSIREN] = {
 		"Canto da Sereia ^777777(Voice of Siren)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Poema de Nifflheim 3^000000",
+		"Pré-requisitos: ^777777Poema de Nifflheim 3^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^008080Apenas Chicotes ou Instrumentos.^000000",
@@ -11624,7 +11623,7 @@ SKILL_DESCRIPT = {
 	[SKID.WM_DEADHILLHERE] = {
 		"Réquiem de Orfeu ^777777(Death Valley)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Sibilo de Eir 3^000000",
+		"Pré-requisitos: ^777777Sibilo de Eir 3^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^008080Apenas Chicotes ou Instrumentos.^000000",
@@ -11643,7 +11642,7 @@ SKILL_DESCRIPT = {
 	[SKID.WM_LULLABY_DEEPSLEEP] = {
 		"Melodia de Morfeu ^777777(Deep Sleep Lullaby)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Domínio Musical 1^000000",
+		"Pré-requisitos: ^777777Domínio Musical 1^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^008080Apenas Chicotes ou Instrumentos.^000000",
@@ -11663,7 +11662,7 @@ SKILL_DESCRIPT = {
 	[SKID.WM_SIRCLEOFNATURE] = {
 		"Sibilo de Eir ^777777(Circle of Nature)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Domínio Musical 1^000000",
+		"Pré-requisitos: ^777777Domínio Musical 1^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^008080Apenas Chicotes ou Instrumentos.^000000",
@@ -11681,7 +11680,7 @@ SKILL_DESCRIPT = {
 	[SKID.WM_RANDOMIZESPELL] = {
 		"Improviso ^777777(Randomize Spell)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Poema de Nifflheim 1^000000",
+		"Pré-requisitos: ^777777Poema de Nifflheim 1^000000",
 		"Tipo: ^777777Suporte^000000",
 		"^777777Remove efeitos de Coral atuante no alvo.",
 		"A chance de sucesso depende da habilidade.^000000",
@@ -11695,7 +11694,7 @@ SKILL_DESCRIPT = {
 	[SKID.WM_GLOOMYDAY] = {
 		"Ode a Hela ^777777(Gloomy Day)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Improviso 1^000000",
+		"Pré-requisitos: ^777777Improviso 1^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^008080Apenas Chicotes ou Instrumentos.^000000",
@@ -11714,7 +11713,7 @@ SKILL_DESCRIPT = {
 	[SKID.WM_GREAT_ECHO] = {
 		"Brado de Odin ^777777(Great Echo)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Ruído Estridente 1^000000",
+		"Pré-requisitos: ^777777Ruído Estridente 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^008080Apenas Chicotes ou Instrumentos.^000000",
@@ -11734,7 +11733,7 @@ SKILL_DESCRIPT = {
 	[SKID.WM_SONG_OF_MANA] = {
 		"Canção de Alfheim ^777777(Song of Mana)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos:",
+		"Pré-requisitos:",
 		"^777777Ritmo Contagiante 1, Balada Sinfônica 1 e",
 		"Serenata ao Luar 1^000000 ou",
 		"^777777Harmonizar 1, Canção de Balder 1 e",
@@ -11758,7 +11757,7 @@ SKILL_DESCRIPT = {
 	[SKID.WM_DANCE_WITH_WUG] = {
 		"Dança com Lobos ^777777(Dance with Worgs)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos:",
+		"Pré-requisitos:",
 		"^777777Ritmo Contagiante 1, Balada Sinfônica 1 e",
 		"Serenata ao Luar 1^000000 ou",
 		"^777777Harmonizar 1, Canção de Balder 1 e",
@@ -11782,7 +11781,7 @@ SKILL_DESCRIPT = {
 	[SKID.WM_SOUND_OF_DESTRUCTION] = {
 		"Prelúdio do Ragnarök ^777777(Sound of Destruction)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos:",
+		"Pré-requisitos:",
 		"^777777Embalos de Sábado a Noite 3,",
 		"Cântico da Iluminação 3^000000",
 		"Tipo: ^777777Ativa^000000 / ^CD3278Coral^000000",
@@ -11804,7 +11803,7 @@ SKILL_DESCRIPT = {
 	[SKID.WM_SATURDAY_NIGHT_FEVER] = {
 		"Embalos de Sábado a Noite ^777777(S. Night Fever)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Dança com Lobos 1^000000",
+		"Pré-requisitos: ^777777Dança com Lobos 1^000000",
 		"Tipo: ^777777Ativa^000000 / ^CD3278Coral^000000",
 		"Descrição:",
 		"^008080Apenas Chicotes ou Instrumentos.^000000",
@@ -11827,7 +11826,7 @@ SKILL_DESCRIPT = {
 	[SKID.WM_LERADS_DEW] = {
 		"Orvalho de Idun ^777777(Lerad's Dew)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos:",
+		"Pré-requisitos:",
 		"^777777Ritmo Contagiante 1, Balada Sinfônica 1 e",
 		"Serenata ao Luar 1^000000 ou",
 		"^777777Harmonizar 1, Canção de Balder 1 e",
@@ -11849,7 +11848,7 @@ SKILL_DESCRIPT = {
 	[SKID.WM_MELODYOFSINK] = {
 		"Cântico da Iluminação ^777777(Melody of Sink)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Canção de Alfheim 1^000000",
+		"Pré-requisitos: ^777777Canção de Alfheim 1^000000",
 		"Tipo: ^777777Ativa^000000 / ^CD3278Coral^000000",
 		"Descrição:",
 		"^008080Apenas Chicotes ou Instrumentos.^000000",
@@ -11869,7 +11868,7 @@ SKILL_DESCRIPT = {
 	[SKID.WM_BEYOND_OF_WARCRY] = {
 		"Clamor de Batalha ^777777(Beyond of Warcry)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Orvalho de Idun 1^000000",
+		"Pré-requisitos: ^777777Orvalho de Idun 1^000000",
 		"Tipo: ^777777Ativa^000000 / ^CD3278Coral^000000",
 		"Descrição:",
 		"^008080Apenas Chicotes ou Instrumentos.^000000",
@@ -11889,7 +11888,7 @@ SKILL_DESCRIPT = {
 	[SKID.WM_UNLIMITED_HUMMING_VOICE] = {
 		"Murmúrio Perene ^777777(Humming Voice)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos:",
+		"Pré-requisitos:",
 		"^777777Prelúdio do Ragnarök 1, Clamor de Batalha 1^000000",
 		"Tipo: ^777777Suporte^000000 / ^CD3278Coral^000000",
 		"Descrição:",
@@ -11910,7 +11909,7 @@ SKILL_DESCRIPT = {
 	[SKID.SO_FIREWALK] = {
 		"Passos da Salamandra ^777777(Fire Walk)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Vulcão 1^000000",
+		"Pré-requisitos: ^777777Vulcão 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^777777Por 30 segundos, encanta os pés",
@@ -11928,7 +11927,7 @@ SKILL_DESCRIPT = {
 	[SKID.SO_ELECTRICWALK] = {
 		"Passos da Sílfide ^777777(Eletric Walk)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Furacão 1^000000",
+		"Pré-requisitos: ^777777Furacão 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^777777Por 30 segundos, encanta os pés",
@@ -11946,7 +11945,7 @@ SKILL_DESCRIPT = {
 	[SKID.SO_SPELLFIST] = {
 		"Punho Arcano ^777777(Spell Fist)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Desejo Arcano 4^000000",
+		"Pré-requisitos: ^777777Desejo Arcano 4^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Cancela a conjuração de Relâmpago, Lanças",
@@ -11972,7 +11971,7 @@ SKILL_DESCRIPT = {
 	[SKID.SO_EARTHGRAVE] = {
 		"Castigo de Nerthus ^777777(Earth Grave)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Coluna de Pedra 5^000000",
+		"Pré-requisitos: ^777777Coluna de Pedra 5^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^777777Causa dano mágico de propriedade Terra com",
@@ -11990,7 +11989,7 @@ SKILL_DESCRIPT = {
 	[SKID.SO_DIAMONDDUST] = {
 		"Pó de Diamante ^777777(Diamond Dust)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Dilúvio 3 ^000000",
+		"Pré-requisitos: ^777777Dilúvio 3 ^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^777777Causa dano mágico de propriedade Água na",
@@ -12007,7 +12006,7 @@ SKILL_DESCRIPT = {
 	[SKID.SO_POISON_BUSTER] = {
 		"Implosão Tóxica ^777777(Poison Buster)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Maldição de Jormungand 2^000000",
+		"Pré-requisitos: ^777777Maldição de Jormungand 2^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^777777Causa dano mágico de propriedade Veneno no",
@@ -12025,7 +12024,7 @@ SKILL_DESCRIPT = {
 	[SKID.SO_PSYCHIC_WAVE] = {
 		"Onda Psíquica ^777777(Psychic Wave)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Desencantar 2^000000",
+		"Pré-requisitos: ^777777Desencantar 2^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^777777Causa dano mágico de propriedade Neutro na",
@@ -12042,7 +12041,7 @@ SKILL_DESCRIPT = {
 	[SKID.SO_CLOUD_KILL] = {
 		"Maldição de Jormungand ^777777(Cloud Kill)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Fúria da Terra 5^000000",
+		"Pré-requisitos: ^777777Fúria da Terra 5^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^777777Cria uma fumaça na área de 7x7 células que",
@@ -12062,7 +12061,7 @@ SKILL_DESCRIPT = {
 	[SKID.SO_STRIKING] = {
 		"Encanto de Órion ^777777(Striking)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos:",
+		"Pré-requisitos:",
 		"^777777Encantar com Chama 1,",
 		"Encantar com Geada 1",
 		"Encantar com Ventania 1 e",
@@ -12082,7 +12081,7 @@ SKILL_DESCRIPT = {
 	[SKID.SO_WARMER] = {
 		"Aquecer Terreno ^777777(Warmer)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos:",
+		"Pré-requisitos:",
 		"^777777Vulcão 1, Furacão 1^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
@@ -12101,7 +12100,7 @@ SKILL_DESCRIPT = {
 	[SKID.SO_VACUUM_EXTREME] = {
 		"Tornado ^777777(Vacuum Extreme)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Proteger Terreno 2^000000",
+		"Pré-requisitos: ^777777Proteger Terreno 2^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Cria uma área que puxa oponentes",
@@ -12118,7 +12117,7 @@ SKILL_DESCRIPT = {
 	[SKID.SO_VARETYR_SPEAR] = {
 		"Lanças dos Aesir ^777777(Varetyr Spear)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos:",
+		"Pré-requisitos:",
 		"^777777Encantar com Terremoto 1, Furacão 4^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -12141,7 +12140,7 @@ SKILL_DESCRIPT = {
 	[SKID.SO_ARRULLO] = {
 		"Arrullo",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Aquecer Terreno 2^000000",
+		"Pré-requisitos: ^777777Aquecer Terreno 2^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Dá a chance de infligir Sono Profundo",
@@ -12158,7 +12157,7 @@ SKILL_DESCRIPT = {
 	[SKID.SO_EL_CONTROL] = {
 		"Domínio Elemental ^777777(Spirit Control)^000000",
 		"Nível máximo: ^7777774^000000",
-		"Pré requisitos: ^777777Análise Elemental 1^000000",
+		"Pré-requisitos: ^777777Análise Elemental 1^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Alterna os modos do Elemental.",
@@ -12172,7 +12171,7 @@ SKILL_DESCRIPT = {
 	[SKID.SO_SUMMON_AGNI] = {
 		"Invocar Agni ^777777(Summon Agni)^000000",
 		"Nível máximo: ^7777773^000000",
-		"Pré requisitos:",
+		"Pré-requisitos:",
 		"^777777Domínio Elemental 1, Aquecer Terreno 3^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
@@ -12187,7 +12186,7 @@ SKILL_DESCRIPT = {
 	[SKID.SO_SUMMON_AQUA] = {
 		"Invocar Varuna ^777777(Summon Aqua)^000000",
 		"Nível máximo: ^7777773^000000",
-		"Pré requisitos:",
+		"Pré-requisitos:",
 		"^777777Domínio Elemental 1, Pó de Diamante 3^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
@@ -12202,7 +12201,7 @@ SKILL_DESCRIPT = {
 	[SKID.SO_SUMMON_VENTUS] = {
 		"Invocar Vayu ^777777(Summon Ventus)^000000",
 		"Nível máximo: ^7777773^000000",
-		"Pré requisitos:",
+		"Pré-requisitos:",
 		"^777777Domínio Elemental 1, Lanças dos Aesir 3^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
@@ -12217,7 +12216,7 @@ SKILL_DESCRIPT = {
 	[SKID.SO_SUMMON_TERA] = {
 		"Invocar Chandra ^777777(Summon Tera)^000000",
 		"Nível máximo: ^7777773^000000",
-		"Pré requisitos:",
+		"Pré-requisitos:",
 		"^777777Domínio Elemental 1, Castigo de Nerthus 3^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
@@ -12232,7 +12231,7 @@ SKILL_DESCRIPT = {
 	[SKID.SO_EL_ACTION] = {
 		"Incitar Elemental ^777777(Elemental Action)^000000",
 		"Nível máximo: ^7777771^000000",
-		"Pré requisitos: ^777777Domínio Elemental 3^000000",
+		"Pré-requisitos: ^777777Domínio Elemental 3^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Ordena o Elemental a atacar.^000000"
@@ -12240,7 +12239,7 @@ SKILL_DESCRIPT = {
 	[SKID.SO_EL_ANALYSIS] = {
 		"Análise Elemental ^777777(Elemental Analysis)^000000",
 		"Nível máximo: ^7777772^000000",
-		"Pré requisitos:",
+		"Pré-requisitos:",
 		"^777777Encantar com Geada 1,",
 		"Encantar com Chama 1",
 		"Encantar com Ventania 1 e",
@@ -12262,7 +12261,7 @@ SKILL_DESCRIPT = {
 	[SKID.SO_EL_SYMPATHY] = {
 		"Empatia Elemental ^777777(Elemental Simpathy)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Domínio Elemental 3^000000",
+		"Pré-requisitos: ^777777Domínio Elemental 3^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
 		"^777777Aumenta o HP, SP, ATQ e ATQM do Elemental.",
@@ -12277,7 +12276,7 @@ SKILL_DESCRIPT = {
 	[SKID.SO_EL_CURE] = {
 		"Troca Espiritual ^777777(Elemental Cure)^000000",
 		"Nível máximo: ^7777771^000000",
-		"Pré requisitos: ^777777Empatia Elemental 1^000000",
+		"Pré-requisitos: ^777777Empatia Elemental 1^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Drena 10% de HP e SP do usuário",
@@ -12286,7 +12285,7 @@ SKILL_DESCRIPT = {
 	[SKID.SO_FIRE_INSIGNIA] = {
 		"Insígnia do Fogo ^777777(Fire Insignia)^000000",
 		"Nível máximo: ^7777773^000000",
-		"Pré requisitos: ^777777Invocar Agni 3^000000",
+		"Pré-requisitos: ^777777Invocar Agni 3^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^777777Por 1 min., encanta a área de 3x3 células.",
@@ -12307,7 +12306,7 @@ SKILL_DESCRIPT = {
 	[SKID.SO_WATER_INSIGNIA] = {
 		"Insígnia da Água ^777777(Water Insignia)^000000",
 		"Nível máximo: ^7777773^000000",
-		"Pré requisitos: ^777777Invocar Varuna 3^000000",
+		"Pré-requisitos: ^777777Invocar Varuna 3^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^777777Por 1 min., encanta a área de 3x3 células.",
@@ -12328,7 +12327,7 @@ SKILL_DESCRIPT = {
 	[SKID.SO_WIND_INSIGNIA] = {
 		"Insígnia do Vento ^777777(Wind Insignia)^000000",
 		"Nível máximo: ^7777773^000000",
-		"Pré requisitos: ^777777Invocar Vayu 3^000000",
+		"Pré-requisitos: ^777777Invocar Vayu 3^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^777777Por 1 min., encanta a área de 3x3 células.",
@@ -12349,7 +12348,7 @@ SKILL_DESCRIPT = {
 	[SKID.SO_EARTH_INSIGNIA] = {
 		"Insígnia da Terra ^777777(Earth Insignia)^000000",
 		"Nível máximo: ^7777773^000000",
-		"Pré requisitos: ^777777Invocar Chandra 3^000000",
+		"Pré-requisitos: ^777777Invocar Chandra 3^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^777777Por 1 min., encanta a área de 3x3 células.",
@@ -12399,7 +12398,7 @@ SKILL_DESCRIPT = {
 	[SKID.GN_CART_TORNADO] = {
 		"Tornado de Carrinho ^777777(Cart Tornado)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Aprimorar Carrinho 1^000000",
+		"Pré-requisitos: ^777777Aprimorar Carrinho 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^008080Apenas com Carrinho.^000000",
@@ -12422,7 +12421,7 @@ SKILL_DESCRIPT = {
 	[SKID.GN_CARTCANNON] = {
 		"Canhão de Prótons ^777777(Cart Cannon)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Aprimorar Carrinho 2^000000",
+		"Pré-requisitos: ^777777Aprimorar Carrinho 2^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^008080Apenas com Carrinho.^000000",
@@ -12441,7 +12440,7 @@ SKILL_DESCRIPT = {
 	[SKID.GN_CARTBOOST] = {
 		"Propulsão do Carrinho ^777777(Cart Boost)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Aprimorar Carrinho 3^000000",
+		"Pré-requisitos: ^777777Aprimorar Carrinho 3^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^008080Apenas com Carrinho.^000000",
@@ -12457,7 +12456,7 @@ SKILL_DESCRIPT = {
 	[SKID.GN_THORNS_TRAP] = {
 		"Armadilha de Espinhos ^777777(Thorn's Trap)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Farmacologia Avançada 2^000000",
+		"Pré-requisitos: ^777777Farmacologia Avançada 2^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^777777Instala uma armadilha que imobiliza um",
@@ -12475,7 +12474,7 @@ SKILL_DESCRIPT = {
 	[SKID.GN_BLOOD_SUCKER] = {
 		"Planta Sanguessuga ^777777(Blood Sucker)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Farmacologia Avançada 3^000000",
+		"Pré-requisitos: ^777777Farmacologia Avançada 3^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^777777Prende uma Sanguessuga no alvo ou em si.",
@@ -12492,7 +12491,7 @@ SKILL_DESCRIPT = {
 	[SKID.GN_SPORE_EXPLOSION] = {
 		"Esporo Explosivo ^777777(Spore Explosion)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Farmacologia Avançada 4^000000",
+		"Pré-requisitos: ^777777Farmacologia Avançada 4^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^777777Causa dano físico a distância no alvo e na",
@@ -12517,7 +12516,7 @@ SKILL_DESCRIPT = {
 	[SKID.GN_WALLOFTHORN] = {
 		"Muralha de Espinhos ^777777(Wall of Thorn)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Armadilha de Espinhos 3^000000",
+		"Pré-requisitos: ^777777Armadilha de Espinhos 3^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^777777Cria uma barreira ao redor de um alvo.",
@@ -12540,7 +12539,7 @@ SKILL_DESCRIPT = {
 	[SKID.GN_CRAZYWEED] = {
 		"Erva Daninha ^777777(Crazy Vines)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Muralha de Espinhos 3^000000",
+		"Pré-requisitos: ^777777Muralha de Espinhos 3^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^777777Espalha ervas daninhas na área escolhida.",
@@ -12563,7 +12562,7 @@ SKILL_DESCRIPT = {
 	[SKID.GN_DEMONIC_FIRE] = {
 		"Bomba Napalm ^777777(Demonic Fire)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Esporo Explosivo 3^000000",
+		"Pré-requisitos: ^777777Esporo Explosivo 3^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^777777Causa dano mágico de propriedade Fogo",
@@ -12580,7 +12579,7 @@ SKILL_DESCRIPT = {
 	[SKID.GN_FIRE_EXPANSION] = {
 		"Catalisador Alquímico ^777777(Fire Expansion)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Bomba Napalm 3^000000",
+		"Pré-requisitos: ^777777Bomba Napalm 3^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Atira um item na área da [Bomba Napalm]",
@@ -12601,7 +12600,7 @@ SKILL_DESCRIPT = {
 	[SKID.GN_HELLS_PLANT] = {
 		"Planta Infernal ^777777(Hell's Plant)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Planta Sanguessuga 3^000000",
+		"Pré-requisitos: ^777777Planta Sanguessuga 3^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^777777Instala um Monstro Planta no usuário.",
@@ -12620,7 +12619,7 @@ SKILL_DESCRIPT = {
 	[SKID.GN_MANDRAGORA] = {
 		"Grito da Mandrágora ^777777(Mandragora Howling)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Planta Infernal 3^000000",
+		"Pré-requisitos: ^777777Planta Infernal 3^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Concede a chance de reduzir a INT, drenar",
@@ -12640,7 +12639,7 @@ SKILL_DESCRIPT = {
 	[SKID.GN_SLINGITEM] = {
 		"Arremessar Item ^777777(Sling Item)^000000",
 		"Nível máximo: ^7777771^000000",
-		"Pré requisitos: ^777777Reação Alquímica 1^000000",
+		"Pré-requisitos: ^777777Reação Alquímica 1^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Atira munições equipadas a distância.",
@@ -12659,7 +12658,7 @@ SKILL_DESCRIPT = {
 	[SKID.GN_MIX_COOKING] = {
 		"Culinária Avançada ^777777(Mixed Cooking)^000000",
 		"Nível máximo: ^7777772^000000",
-		"Pré requisitos: ^777777Farmacologia Avançada 1^000000",
+		"Pré-requisitos: ^777777Farmacologia Avançada 1^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Cria pratos de comida usando ingredientes.",
@@ -12675,7 +12674,7 @@ SKILL_DESCRIPT = {
 	[SKID.GN_MAKEBOMB] = {
 		"Criar Bomba Orgânica ^777777(Bomb Creation)^000000",
 		"Nível máximo: ^7777772^000000",
-		"Pré requisitos: ^777777Culinária Avançada 1^000000",
+		"Pré-requisitos: ^777777Culinária Avançada 1^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Cria bombas de fruta usando ingredientes.",
@@ -12713,7 +12712,7 @@ SKILL_DESCRIPT = {
 	[SKID.AB_SECRAMENT] = {
 		"Sacramentum",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos:",
+		"Pré-requisitos:",
 		"^777777Epiclesis 1, Expiatio 1^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
@@ -12729,7 +12728,7 @@ SKILL_DESCRIPT = {
 	[SKID.SR_HOWLINGOFLION] = {
 		"Rugido do Leão ^777777(Howling of Lion)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos:  ^777777Absorção Espiritual 1,",
+		"Pré-requisitos:  ^777777Absorção Espiritual 1,",
 		"Tempestade Espiritual 3^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -12749,7 +12748,7 @@ SKILL_DESCRIPT = {
 	[SKID.SR_RIDEINLIGHTNING] = {
 		"Tempestade Espiritual ^777777(Lightning Ride)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos:",
+		"Pré-requisitos:",
 		" ^777777Disparo de Esferas Espirituais 3^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -12776,7 +12775,7 @@ SKILL_DESCRIPT = {
 	[SKID.ALL_BUYING_STORE] = {
 		"Loja de Compras ^777777(Buying Store)^000000",
 		"Nível máximo: ^7777771^000000",
-		"Pré requisitos: ^777777Completar Missão^000000",
+		"Pré-requisitos: ^777777Completar Missão^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Abre uma loja com uma lista de",
@@ -13233,7 +13232,7 @@ SKILL_DESCRIPT = {
 	[SKID.SJ_LIGHTOFMOON] = {
 		"Luz Lunar ^777777(Light of Moon)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Chute Lunar 3^000000",
+		"Pré-requisitos: ^777777Chute Lunar 3^000000",
 		"Tipo: ^777777Suporte^000000 / ^CD3278Lunar^000000",
 		"Descrição:",
 		"^777777Atrai o brilho da Lua, aumentando o dano",
@@ -13250,7 +13249,7 @@ SKILL_DESCRIPT = {
 	[SKID.SJ_LUNARSTANCE] = {
 		"Postura Lunar ^777777(Lunar Stance)^000000",
 		"Nível máximo: ^7777773^000000",
-		"Pré requisitos: ^777777Registro SLE 1^000000",
+		"Pré-requisitos: ^777777Registro SLE 1^000000",
 		"Tipo: ^777777Ativa^000000 / ^CD3278Lunar^000000",
 		"Descrição:",
 		"^777777Permite usar as novas habilidades Lunares.",
@@ -13265,7 +13264,7 @@ SKILL_DESCRIPT = {
 	[SKID.SJ_FULLMOONKICK] = {
 		"Chute Lunar ^777777(Full Moon Kick)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Eclipse Lunar 7^000000",
+		"Pré-requisitos: ^777777Eclipse Lunar 7^000000",
 		"Tipo: ^777777Ofensiva^000000 / ^CD3278Lunar^000000",
 		"Descrição:",
 		"^008080Precisa de [Penumbra] ativo.^000000",
@@ -13288,7 +13287,7 @@ SKILL_DESCRIPT = {
 	[SKID.SJ_LIGHTOFSTAR] = {
 		"Luz Estelar ^777777(Light of Star)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Chuva Estelar 3^000000",
+		"Pré-requisitos: ^777777Chuva Estelar 3^000000",
 		"Tipo: ^777777Suporte^000000 / ^CD3278Estelar^000000",
 		"Descrição:",
 		"^777777Atrai o brilho das Estrelas, aumentando o",
@@ -13305,7 +13304,7 @@ SKILL_DESCRIPT = {
 	[SKID.SJ_STARSTANCE] = {
 		"Postura Estelar ^777777(Star Stance)^000000",
 		"Nível máximo: ^7777773^000000",
-		"Pré requisitos: ^777777Registro SLE 1^000000",
+		"Pré-requisitos: ^777777Registro SLE 1^000000",
 		"Tipo: ^777777Ativa^000000 / ^CD3278Estelar^000000",
 		"Descrição:",
 		"^777777Permite usar novas habilidades Estelares.",
@@ -13321,7 +13320,7 @@ SKILL_DESCRIPT = {
 	[SKID.SJ_NEWMOONKICK] = {
 		"Eclipse Lunar ^777777(New Moon Kick)^000000",
 		"Nível máximo: ^7777777^000000",
-		"Pré requisitos: ^777777Postura Lunar 1^000000",
+		"Pré-requisitos: ^777777Postura Lunar 1^000000",
 		"Tipo: ^777777Ofensiva^000000 / ^CD3278Lunar^000000",
 		"Descrição:",
 		"^777777Causa dano físico corpo a corpo no alvo e",
@@ -13343,7 +13342,7 @@ SKILL_DESCRIPT = {
 	[SKID.SJ_FLASHKICK] = {
 		"Chute Estelar ^777777(Flash Kick)^000000",
 		"Nível máximo: ^7777777^000000",
-		"Pré requisitos: ^777777Postura Estelar 1^000000",
+		"Pré-requisitos: ^777777Postura Estelar 1^000000",
 		"Tipo: ^777777Ofensiva^000000 / ^CD3278Estelar^000000",
 		"Descrição:",
 		"^777777Causa 100% de dano físico corpo a corpo em",
@@ -13361,7 +13360,7 @@ SKILL_DESCRIPT = {
 	[SKID.SJ_STAREMPEROR] = {
 		"Advento Imperial ^777777(Star Emperor)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Hipernova 5,",
+		"Pré-requisitos: ^777777Hipernova 5,",
 		"Postura do Universo 3^000000",
 		"Tipo: ^777777Ofensiva^000000 / ^CD3278Universo^000000",
 		"Descrição:",
@@ -13380,7 +13379,7 @@ SKILL_DESCRIPT = {
 	[SKID.SJ_NOVAEXPLOSING] = {
 		"Hipernova ^777777(Nova Explosing)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Postura do Universo 1^000000",
+		"Pré-requisitos: ^777777Postura do Universo 1^000000",
 		"Tipo: ^777777Ofensiva^000000 / ^CD3278Universo^000000",
 		"Descrição:",
 		"^008080Funciona apenas em PvP/GdE.^000000",
@@ -13400,7 +13399,7 @@ SKILL_DESCRIPT = {
 	[SKID.SJ_UNIVERSESTANCE] = {
 		"Postura do Universo ^777777(Universe Stance)^000000",
 		"Nível máximo: ^7777773^000000",
-		"Pré requisitos: ^777777Postura Solar 3,",
+		"Pré-requisitos: ^777777Postura Solar 3,",
 		"Postura Lunar 3, Postura Estelar 3^000000",
 		"Tipo: ^777777Ativa^000000 / ^CD3278Universo^000000",
 		"Descrição:",
@@ -13414,7 +13413,7 @@ SKILL_DESCRIPT = {
 	[SKID.SJ_FALLINGSTAR] = {
 		"Chuva Estelar ^777777(Falling Star)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Chute Estelar 10^000000",
+		"Pré-requisitos: ^777777Chute Estelar 10^000000",
 		"Tipo: ^777777Ofensiva^000000 / ^CD3278Estelar^000000",
 		"Descrição:",
 		"^777777Ao realizar ataques físicos, tem chance de",
@@ -13437,7 +13436,7 @@ SKILL_DESCRIPT = {
 	[SKID.SJ_GRAVITYCONTROL] = {
 		"Controle Gravitacional ^777777(Gravity Control)^000000",
 		"Nível máximo: ^7777771^000000",
-		"Pré requisitos: ^777777Postura do Universo 1^000000",
+		"Pré-requisitos: ^777777Postura do Universo 1^000000",
 		"Tipo: ^777777Ofensiva^000000 / ^CD3278Universo^000000",
 		"Alvo: ^777777Apenas personagens^000000",
 		"Descrição:",
@@ -13453,7 +13452,7 @@ SKILL_DESCRIPT = {
 	[SKID.SJ_BOOKOFDIMENSION] = {
 		"Livro das Dimensões ^777777(Book of Dimension)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Advento Imperial 3",
+		"Pré-requisitos: ^777777Advento Imperial 3",
 		"Registro Solar, Lunar e Estelar 3^000000",
 		"Tipo: ^777777Suporte^000000 / ^CD3278Universo^000000",
 		"Descrição:",
@@ -13471,7 +13470,7 @@ SKILL_DESCRIPT = {
 	[SKID.SJ_BOOKOFCREATINGSTAR] = {
 		"Livro da Criação ^777777(Book of Creating Star)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Advento Imperial 3",
+		"Pré-requisitos: ^777777Advento Imperial 3",
 		"Registro Solar, Lunar e Estelar 3^000000",
 		"Tipo: ^777777Ofensiva^000000 / ^CD3278Universo^000000",
 		"Descrição:",
@@ -13490,7 +13489,7 @@ SKILL_DESCRIPT = {
 	[SKID.SJ_DOCUMENT] = {
 		"Registro Solar, Lunar e Estelar ^777777(Document)^000000",
 		"Nível máximo: ^7777773^000000",
-		"Pré requisitos: ^777777Percepção e Oposição SLE 3^000000",
+		"Pré-requisitos: ^777777Percepção e Oposição SLE 3^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Permite resetar os alinhamentos registrados",
@@ -13505,7 +13504,7 @@ SKILL_DESCRIPT = {
 	[SKID.SJ_PURIFY] = {
 		"Purificação Solar, Lunar e Estelar ^777777(Purify)^000000",
 		"Nível máximo: ^7777771^000000",
-		"Pré requisitos: ^777777Sombra SLE 10^000000",
+		"Pré-requisitos: ^777777Sombra SLE 10^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
 		"^777777Reduz pela metade a penalidade da visão",
@@ -13514,7 +13513,7 @@ SKILL_DESCRIPT = {
 	[SKID.SJ_LIGHTOFSUN] = {
 		"Luz Solar ^777777(Light of Sun)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Explosão Solar 3^000000",
+		"Pré-requisitos: ^777777Explosão Solar 3^000000",
 		"Tipo: ^777777Suporte^000000 / ^CD3278Solar^000000",
 		"Descrição:",
 		"^777777Atrai o brilho do sol, aumentando o dano",
@@ -13531,7 +13530,7 @@ SKILL_DESCRIPT = {
 	[SKID.SJ_SUNSTANCE] = {
 		"Postura Solar ^777777(Sun Stance)^000000",
 		"Nível máximo: ^7777773^000000",
-		"Pré requisitos: ^777777Registro SLE 1^000000",
+		"Pré-requisitos: ^777777Registro SLE 1^000000",
 		"Tipo: ^777777Ativa^000000 / ^CD3278Solar^000000",
 		"Descrição:",
 		"^777777Permite usar as novas habilidades Solares.",
@@ -13546,7 +13545,7 @@ SKILL_DESCRIPT = {
 	[SKID.SJ_SOLARBURST] = {
 		"Explosão Solar ^777777(Solar Burst)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Chute Solar 7^000000",
+		"Pré-requisitos: ^777777Chute Solar 7^000000",
 		"Tipo: ^777777Ofensiva^000000 / ^CD3278Solar^000000",
 		"Descrição:",
 		"^008080Apenas após [Chute Solar].^000000",
@@ -13568,7 +13567,7 @@ SKILL_DESCRIPT = {
 	[SKID.SJ_PROMINENCEKICK] = {
 		"Chute Solar ^777777(Blaze Kick)^000000",
 		"Nível máximo: ^7777777^000000",
-		"Pré requisitos: ^777777Postura Solar 1^000000",
+		"Pré-requisitos: ^777777Postura Solar 1^000000",
 		"Tipo: ^777777Ofensiva^000000 / ^CD3278Solar^000000",
 		"Descrição:",
 		"^777777Causa dano físico corpo a corpo no alvo, se",
@@ -13587,7 +13586,7 @@ SKILL_DESCRIPT = {
 	[SKID.SP_SOULGOLEM] = {
 		"Espírito do Golem ^777777(Golem Soul)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Absorver Espírito 2^000000",
+		"Pré-requisitos: ^777777Absorver Espírito 2^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^777777Escraviza uma alma inanimada para garantir",
@@ -13604,7 +13603,7 @@ SKILL_DESCRIPT = {
 	[SKID.SP_SOULSHADOW] = {
 		"Espírito das Sombras ^777777(Shadow Soul)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777União Espiritual 5^000000",
+		"Pré-requisitos: ^777777União Espiritual 5^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^777777Escraviza uma alma das trevas para garantir",
@@ -13621,7 +13620,7 @@ SKILL_DESCRIPT = {
 	[SKID.SP_SOULFALCON] = {
 		"Espírito do Falcão ^777777(Falcon Soul)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Absorver Espírito 2^000000",
+		"Pré-requisitos: ^777777Absorver Espírito 2^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^777777Escraviza uma alma selvagem para garantir",
@@ -13638,7 +13637,7 @@ SKILL_DESCRIPT = {
 	[SKID.SP_SOULFAIRY] = {
 		"Espírito da Fada ^777777(Fairy Soul)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777União Espiritual 5^000000",
+		"Pré-requisitos: ^777777União Espiritual 5^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^777777Escraviza uma alma feérica para garantir",
@@ -13655,7 +13654,7 @@ SKILL_DESCRIPT = {
 	[SKID.SP_CURSEEXPLOSION] = {
 		"Necroexplosão ^777777(Curse Explosion)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Necromancia 3^000000",
+		"Pré-requisitos: ^777777Necromancia 3^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descriçãoo:",
 		"^777777Causa dano mágico de propriedade Sombrio",
@@ -13677,7 +13676,7 @@ SKILL_DESCRIPT = {
 	[SKID.SP_SOULCURSE] = {
 		"Necromancia ^777777(Soul Curse)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Ceifar Alma 3^000000",
+		"Pré-requisitos: ^777777Ceifar Alma 3^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Joga uma praga para infligir Assombração",
@@ -13696,7 +13695,7 @@ SKILL_DESCRIPT = {
 	[SKID.SP_SPA] = {
 		"Espa",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Esha 1^000000",
+		"Pré-requisitos: ^777777Esha 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Alvo: ^777777Apenas monstros^000000",
 		"Descrição:",
@@ -13721,7 +13720,7 @@ SKILL_DESCRIPT = {
 	[SKID.SP_SHA] = {
 		"Esha",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777 Ceifar Alma 3^000000",
+		"Pré-requisitos: ^777777 Ceifar Alma 3^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Alvo: ^777777Apenas monstros^000000",
 		"Descrição:",
@@ -13741,7 +13740,7 @@ SKILL_DESCRIPT = {
 	[SKID.SP_SWHOO] = {
 		"Eswhoo",
 		"Nível máximo: ^77777710^000000",
-		"Pré requisitos: ^777777Espa 3^000000",
+		"Pré-requisitos: ^777777Espa 3^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Alvo: ^777777Apenas monstros^000000",
 		"Descrição:",
@@ -13767,7 +13766,7 @@ SKILL_DESCRIPT = {
 	[SKID.SP_SOULUNITY] = {
 		"União Espiritual ^777777(Soul Unity)^000000",
 		"Nível máximo: ^7777777^000000",
-		"Pré requisitos: ^777777Perícia com Almas 3^000000",
+		"Pré-requisitos: ^777777Perícia com Almas 3^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^777777Unifica as almas dos membros do grupo.",
@@ -13789,7 +13788,7 @@ SKILL_DESCRIPT = {
 	[SKID.SP_SOULDIVISION] = {
 		"Divisão de Alma ^777777(Soul Division)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Esha 5, Espa 5^000000",
+		"Pré-requisitos: ^777777Esha 5, Espa 5^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Alvo: ^777777Apenas personagens^000000",
 		"Descrição:",
@@ -13807,7 +13806,7 @@ SKILL_DESCRIPT = {
 	[SKID.SP_SOULREAPER] = {
 		"Ceifar Alma ^777777(Soul Reaper)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Coletar Alma 1^000000",
+		"Pré-requisitos: ^777777Coletar Alma 1^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^777777Ao realizar ataques físicos ou mágicos, tem",
@@ -13823,7 +13822,7 @@ SKILL_DESCRIPT = {
 	[SKID.SP_SOULREVOLVE] = {
 		"Absorver Espírito ^777777(Soul Revolve)^000000",
 		"Nível máximo: ^7777773^000000",
-		"Pré requisitos: ^777777Perícia com Almas 3, Kaute 3^000000",
+		"Pré-requisitos: ^777777Perícia com Almas 3, Kaute 3^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^777777Cancela o espírito e regenera o SP do alvo.",
@@ -13853,7 +13852,7 @@ SKILL_DESCRIPT = {
 	[SKID.SP_SOULEXPLOSION] = {
 		"Sifão Espiritual ^777777(Soul Explosion)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Necroexplosão 2,",
+		"Pré-requisitos: ^777777Necroexplosão 2,",
 		"Espírito das Sombras 1, Espírito da Fada 1,",
 		"Espírito do Falcão 1, Espírito do Golem 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -13876,7 +13875,7 @@ SKILL_DESCRIPT = {
 	[SKID.SP_SOULENERGY] = {
 		"Perícia com Almas ^777777(Soul Energy)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Coletar Alma 1^000000",
+		"Pré-requisitos: ^777777Coletar Alma 1^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
 		"^777777Aumenta a quantidade de Almas coletáveis.",
@@ -13892,7 +13891,7 @@ SKILL_DESCRIPT = {
 	[SKID.SP_KAUTE] = {
 		"Kaute",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Perícia com Almas 1^000000",
+		"Pré-requisitos: ^777777Perícia com Almas 1^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Alvo: ^777777Usuário, familiares e Espiritualistas^000000",
 		"Descrição:",
@@ -14559,7 +14558,7 @@ SKILL_DESCRIPT = {
 	[SKID.SR_FLASHCOMBO] = {
 		"Combo Rápido ^777777(Flash Combo)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos:",
+		"Pré-requisitos:",
 		"^777777Punho do Dragão 3, Ruína 3,",
 		"Garra de Tigre 5, Soco Furacão 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -14600,7 +14599,7 @@ SKILL_DESCRIPT = {
 	[SKID.AB_OFFERTORIUM] = {
 		"Offertorium",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Curatio 2^000000",
+		"Pré-requisitos: ^777777Curatio 2^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^777777Remove efeitos negativos e melhora",
@@ -14716,7 +14715,7 @@ SKILL_DESCRIPT = {
 		"Mordida ^777777(Bite)^000000",
 		"Nível máximo: ^7777771^000000",
 		"Tipo: ^777777Ofensiva^000000",
-		"Pré requisitos: ^777777Instintos Básicos 1^000000",
+		"Pré-requisitos: ^777777Instintos Básicos 1^000000",
 		"Descrição:",
 		"^777777Causa 200% de dano físico no alvo único.",
 		"Se o HP do alvo for menor que 50%,",
@@ -14728,7 +14727,7 @@ SKILL_DESCRIPT = {
 		"Gato-Mia ^777777(Hide)^000000",
 		"Nível máximo: ^7777771^000000",
 		"Tipo: ^777777Ativa^000000",
-		"Pré requisitos: ^777777Mordida 1^000000",
+		"Pré-requisitos: ^777777Mordida 1^000000",
 		"Descrição:",
 		"^777777Esconde-se na grama para evitar ataques.",
 		"Pode ser cancelada ao receber dano mágico",
@@ -14738,7 +14737,7 @@ SKILL_DESCRIPT = {
 		"Arranhar ^777777(Scratch)^000000",
 		"Nível máximo: ^7777773^000000",
 		"Tipo: ^777777Ofensiva^000000",
-		"Pré requisitos: ^777777Gato-Mia 1^000000",
+		"Pré-requisitos: ^777777Gato-Mia 1^000000",
 		"Descrição:",
 		"^777777Causa dano físico de curta distância com",
 		"chances de infligir Sangramento no alvo.",
@@ -14753,7 +14752,7 @@ SKILL_DESCRIPT = {
 		"Quatro Patas ^777777(Stoop)^000000",
 		"Nível máximo: ^7777771^000000",
 		"Tipo: ^777777Suporte^000000",
-		"Pré requisitos: ^777777Arranhar 3^000000",
+		"Pré-requisitos: ^777777Arranhar 3^000000",
 		"Descrição:",
 		"^777777Por 6 segundos, fica de quatro patas para",
 		"reduzir danos físicos e mágicos em 90%.",
@@ -14763,7 +14762,7 @@ SKILL_DESCRIPT = {
 		"Pulo do Gato ^777777(Lope)^000000",
 		"Nível máximo: ^7777773^000000",
 		"Tipo: ^777777Ativa^000000",
-		"Pré requisitos: ^777777Quatro Patas 1^000000",
+		"Pré-requisitos: ^777777Quatro Patas 1^000000",
 		"Descrição:",
 		"^777777Pula de um lugar para o outro, podendo",
 		"ultrapassar obstáculos, como montanhas.",
@@ -14780,7 +14779,7 @@ SKILL_DESCRIPT = {
 		"Invocar ^777777(Sprite Mable)^000000",
 		"Nível máximo: ^7777771^000000",
 		"Tipo: ^777777Passiva^000000",
-		"Pré requisitos: ^777777Pulo do Gato 3^000000",
+		"Pré-requisitos: ^777777Pulo do Gato 3^000000",
 		"Descrição:",
 		"^777777Invoca os três espíritos da natureza, tendo",
 		"permissão para usar as habilidades",
@@ -14791,7 +14790,7 @@ SKILL_DESCRIPT = {
 		"Poder da Selva ^777777(Power of Land)^000000",
 		"Nível máximo: ^7777771^000000",
 		"Tipo: ^777777Passiva^000000",
-		"Pré requisitos: ^777777Pulverizar 3^000000",
+		"Pré-requisitos: ^777777Pulverizar 3^000000",
 		"Descrição:",
 		"^777777Garante INT +20.",
 		"Ao dominar a flora, investindo 20 pontos em",
@@ -14802,7 +14801,7 @@ SKILL_DESCRIPT = {
 		"Lança Gateira ^777777(Silvervine Stem Spear)^000000",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Ofensiva^000000 / ^CD3278Selva^000000",
-		"Pré requisitos: ^777777Invocar 1^000000",
+		"Pré-requisitos: ^777777Invocar 1^000000",
 		"Descrição:",
 		"^777777Causa 700% de dano mágico no alvo único,",
 		"com 10% de chance de infligir Sangramento.",
@@ -14820,7 +14819,7 @@ SKILL_DESCRIPT = {
 		"Pulverizar ^777777(Catnip Powdering)^000000",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Ativa^000000 / ^CD3278Selva^000000",
-		"Pré requisitos: ^777777Meteoros de Nepeta 3^000000",
+		"Pré-requisitos: ^777777Meteoros de Nepeta 3^000000",
 		"Descrição:",
 		"^777777Borrifa uma neblina que reduz o",
 		"ATQ e ATQM em 50% e o movimento.",
@@ -14838,7 +14837,7 @@ SKILL_DESCRIPT = {
 		"Meteoros de Nepeta ^777777(Catnip Meteor)^000000",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Ofensiva^000000 / ^CD3278Selva^000000",
-		"Pré requisitos: ^777777Hera Venenosa 3^000000",
+		"Pré-requisitos: ^777777Hera Venenosa 3^000000",
 		"Descrição:",
 		"^777777Causa dano mágico de propriedade Neutro",
 		"na área de 7x7 células selecionada.",
@@ -14860,7 +14859,7 @@ SKILL_DESCRIPT = {
 		"Hera Venenosa ^777777(Silvervine Root Twist)^000000",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Ofensiva^000000 / ^CD3278Selva^000000",
-		"Pré requisitos: ^777777Lança Gateira 3^000000",
+		"Pré-requisitos: ^777777Lança Gateira 3^000000",
 		"Descrição:",
 		"^777777Paralisa um alvo e causa dano fixo",
 		"por segundo de propriedade Neutro.",
@@ -14879,7 +14878,7 @@ SKILL_DESCRIPT = {
 		"Poder da Fauna ^777777(Power of Life)^000000",
 		"Nível máximo: ^7777771^000000",
 		"Tipo: ^777777Passiva^000000",
-		"Pré requisitos: ^777777Cometas Lunáticos 3^000000",
+		"Pré-requisitos: ^777777Cometas Lunáticos 3^000000",
 		"Descrição:",
 		"^777777Garante Precisão, Esquiva e CRIT +20.",
 		"Ao dominar os animais, investindo 20 pontos",
@@ -14890,7 +14889,7 @@ SKILL_DESCRIPT = {
 		"Ferida de Tarou ^777777(Scar of Tarou)^000000",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Ofensiva^000000 / ^CD3278Fauna^000000",
-		"Pré requisitos: ^777777Impulso de Arclouse 3^000000",
+		"Pré-requisitos: ^777777Impulso de Arclouse 3^000000",
 		"Descrição:",
 		"^777777Invoca um Tarou para causar dano físico",
 		"a distância com chance de infectar o alvo.",
@@ -14909,7 +14908,7 @@ SKILL_DESCRIPT = {
 		"Chilique de Picky ^777777(Picky Peck)^000000",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Ofensiva^000000 / ^CD3278Fauna^000000",
-		"Pré requisitos: ^777777Invocar 1^000000",
+		"Pré-requisitos: ^777777Invocar 1^000000",
 		"Descrição:",
 		"^777777Invoca um Picky para causar",
 		"dano físico a distância em um alvo único.",
@@ -14928,7 +14927,7 @@ SKILL_DESCRIPT = {
 		"Impulso de Arclouse ^777777(Arclouse Dash)^000000",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Suporte^000000 / ^CD3278Fauna^000000",
-		"Pré requisitos: ^777777Chilique de Picky 3^000000",
+		"Pré-requisitos: ^777777Chilique de Picky 3^000000",
 		"Descrição:",
 		"^777777Invoca um Arclouse para aumentar a AGI e",
 		"acelerar o movimento do alvo selecionado.",
@@ -14945,7 +14944,7 @@ SKILL_DESCRIPT = {
 		"Cometas Lunáticos ^777777(Lunatic Carrot Beat)^000000",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Ofensiva^000000 / ^CD3278Fauna^000000",
-		"Pré requisitos: ^777777Ferida de Tarou 3^000000",
+		"Pré-requisitos: ^777777Ferida de Tarou 3^000000",
 		"Descrição:",
 		"^777777Invoca várias cenouras de Lunático para",
 		"causar dano físico na área próxima do alvo.",
@@ -14966,7 +14965,7 @@ SKILL_DESCRIPT = {
 		"Poder das Marés ^777777(Power of Sea)^000000",
 		"Nível máximo: ^7777771^000000",
 		"Tipo: ^777777Passiva^000000",
-		"Pré requisitos: ^777777Proteção da Orla 3^000000",
+		"Pré-requisitos: ^777777Proteção da Orla 3^000000",
 		"Descrição:",
 		"^777777Garante efetividade de cura +10%,",
 		"HP máx. +1.000 e SP máx. +100.",
@@ -14979,7 +14978,7 @@ SKILL_DESCRIPT = {
 		"Dádiva do Atum ^777777(Tuna Belly)^000000",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Suporte^000000 / ^CD3278Marés^000000",
-		"Pré requisitos: ^777777Chuva de Mariscos 3^000000",
+		"Pré-requisitos: ^777777Chuva de Mariscos 3^000000",
 		"Descrição:",
 		"^777777Recupera uma quantia de HP",
 		"de acordo com o HP máx. do alvo.^000000",
@@ -14994,7 +14993,7 @@ SKILL_DESCRIPT = {
 		"Proteção da Orla ^777777(Tuna Party)^000000",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Suporte^000000 / ^CD3278Marés^000000",
-		"Pré requisitos: ^777777Dádiva do Atum 3^000000",
+		"Pré-requisitos: ^777777Dádiva do Atum 3^000000",
 		"Descrição:",
 		"^777777Por 30 segundos, invoca um Atum para",
 		"bloquear ataques físicos e mágicos.",
@@ -15011,7 +15010,7 @@ SKILL_DESCRIPT = {
 		"Chuva de Mariscos ^777777(Bunch of Shrimp)^000000",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Suporte^000000 / ^CD3278Marés^000000",
-		"Pré requisitos: ^777777Camarão Fresquinho 3^000000",
+		"Pré-requisitos: ^777777Camarão Fresquinho 3^000000",
 		"Descrição:",
 		"^777777Recupera HP dos membros do grupo",
 		"na tela do usuário e também concede",
@@ -15028,7 +15027,7 @@ SKILL_DESCRIPT = {
 		"Camarão Fresquinho ^777777(Fresh Shrimp)^000000",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Suporte^000000 / ^CD3278Marés^000000",
-		"Pré requisitos: ^777777Invocar 1^000000",
+		"Pré-requisitos: ^777777Invocar 1^000000",
 		"Descrição:",
 		"^777777Por 2 minutos, regenera uma pequena",
 		"quantidade de HP continuamente.^000000",
@@ -15043,7 +15042,7 @@ SKILL_DESCRIPT = {
 		"Ampliar Alcance ^777777(Soul Attack)^000000",
 		"Nível máximo: ^7777771^000000",
 		"Tipo: ^777777Passiva^000000",
-		"Pré requisitos: ^777777Invocar 1^000000",
+		"Pré-requisitos: ^777777Invocar 1^000000",
 		"Descrição:",
 		"^777777Permite que ataques básicos",
 		"tenham alcance de 15 células.^000000"
@@ -15052,7 +15051,7 @@ SKILL_DESCRIPT = {
 		"Intimidar ^777777(Power Of Lock)^000000",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Ativa^000000 / ^CD3278Fauna^000000",
-		"Pré requisitos: ^777777Riscar Fósforo 5^000000",
+		"Pré-requisitos: ^777777Riscar Fósforo 5^000000",
 		"Descrição:",
 		"^777777Invoca outros gatos para intimidar inimigos",
 		"ao redor do usuário, tendo a chance de",
@@ -15068,7 +15067,7 @@ SKILL_DESCRIPT = {
 		"Ataque Selvagem ^777777(Sprit Of Savage)^000000",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Ofensiva^000000 / ^CD3278Fauna^000000",
-		"Pré requisitos: ^777777Intimidar 5^000000",
+		"Pré-requisitos: ^777777Intimidar 5^000000",
 		"Descrição:",
 		"^777777Invoca o espírito de um Selvagem para",
 		"causar dano físico a distância em uma",
@@ -15084,7 +15083,7 @@ SKILL_DESCRIPT = {
 		"Riscar Fósforo ^777777(Hiss)^000000",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Suporte^000000 / ^CD3278Fauna^000000",
-		"Pré requisitos: ^777777Poder da Fauna 1^000000",
+		"Pré-requisitos: ^777777Poder da Fauna 1^000000",
 		"Descrição:",
 		"^008080A partir do nível 100 de base.^000000",
 		"^777777Entra em estado de alerta, concedendo",
@@ -15102,7 +15101,7 @@ SKILL_DESCRIPT = {
 		"Mato de Gato ^777777(Nyang Grass)^000000",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Ativa^000000 / ^CD3278Selva^000000",
-		"Pré requisitos: ^777777Balaio de Gato 5^000000",
+		"Pré-requisitos: ^777777Balaio de Gato 5^000000",
 		"Descrição:",
 		"^777777Ergue um jardim com espinhos perfurantes.",
 		"Em monstros, reduz a DEF e DEFM em 50%.",
@@ -15119,7 +15118,7 @@ SKILL_DESCRIPT = {
 		"Lambida ^777777(Grooming)^000000",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Suporte^000000 / ^CD3278Marés^000000",
-		"Pré requisitos: ^777777Poder das Marés 1^000000",
+		"Pré-requisitos: ^777777Poder das Marés 1^000000",
 		"Descrição:",
 		"^008080A partir do nível 100 de base.^000000",
 		"^777777Ao se lamber, fornece Esquiva +100 e",
@@ -15140,7 +15139,7 @@ SKILL_DESCRIPT = {
 		"Banho de Lambidas ^777777(Purring)^000000",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Suporte^000000 / ^CD3278Marés^000000",
-		"Pré requisitos: ^777777Lambida 5^000000",
+		"Pré-requisitos: ^777777Lambida 5^000000",
 		"Descrição:",
 		"^777777Dá Esquiva +100 e cura efeitos negativos",
 		"no usuário e membros do grupo na tela.",
@@ -15162,7 +15161,7 @@ SKILL_DESCRIPT = {
 		"Festa do Camarão ^777777(Tasty Shrimp Party)^000000",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Suporte^000000 / ^CD3278Marés^000000",
-		"Pré requisitos: ^777777Banho de Lambidas 5^000000",
+		"Pré-requisitos: ^777777Banho de Lambidas 5^000000",
 		"Descrição:",
 		"^777777Conjura [Camarão Fresquinho] nos membros",
 		"do grupo em toda a tela do usuário.",
@@ -15179,7 +15178,7 @@ SKILL_DESCRIPT = {
 		"Invocação da Fauna ^777777(Sprit Of Life)^000000",
 		"Nível máximo: ^7777771^000000",
 		"Tipo: ^777777Passiva^000000",
-		"Pré requisitos: ^777777Ataque Selvagem 5^000000",
+		"Pré-requisitos: ^777777Ataque Selvagem 5^000000",
 		"Descrição:",
 		"^777777Aumenta o dano das habilidades de origem",
 		"animal de acordo com o HP atual do usuário.^000000",
@@ -15191,7 +15190,7 @@ SKILL_DESCRIPT = {
 		"Balaio de Gato ^777777(Meow Meow)^000000",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Suporte^000000 / ^CD3278Selva^000000",
-		"Pré requisitos: ^777777Despertar 5^000000",
+		"Pré-requisitos: ^777777Despertar 5^000000",
 		"Descrição:",
 		"^777777Conjura [Despertar] nos membros do Grupo.",
 		"O efeito tem duração um pouco maior.",
@@ -15207,7 +15206,7 @@ SKILL_DESCRIPT = {
 		"Invocação da Selva ^777777(Spirit Of Land)^000000",
 		"Nível máximo: ^7777771^000000",
 		"Tipo: ^777777Passiva^000000",
-		"Pré requisitos: ^777777Mato de Gato 5^000000",
+		"Pré-requisitos: ^777777Mato de Gato 5^000000",
 		"Descrição:",
 		"^777777Ao usar habilidades da Floresta, adiciona um",
 		"efeito especial no usuário por 3 segundos^000000",
@@ -15229,7 +15228,7 @@ SKILL_DESCRIPT = {
 		"Despertar ^777777(Chattering)^000000",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Suporte^000000 / ^CD3278Selva^000000",
-		"Pré requisitos: ^777777Poder da Selva 1^000000",
+		"Pré-requisitos: ^777777Poder da Selva 1^000000",
 		"Descrição:",
 		"^008080A partir do nível 100 de base.^000000",
 		"^777777Desperta os instintos primitivos de caça.",
@@ -15246,7 +15245,7 @@ SKILL_DESCRIPT = {
 		"Invocação das Marés ^777777(Spirit Of Sea)^000000",
 		"Nível máximo: ^7777771^000000",
 		"Tipo: ^777777Passiva^000000",
-		"Pré requisitos: ^777777Festa do Camarão 5^000000",
+		"Pré-requisitos: ^777777Festa do Camarão 5^000000",
 		"Descrição:",
 		"^777777Adiciona efeitos novos nas habilidades",
 		"relacionadas a Frutos do Mar.^000000",
@@ -15293,7 +15292,7 @@ SKILL_DESCRIPT = {
 	[SKID.CG_SPECIALSINGER] = {
 		"Vocação Musical ^777777(Special Singer)^000000",
 		"Nível máximo: ^7777771^000000",
-		"Pré requisitos: ^777777Controle de Marionete 1,",
+		"Pré-requisitos: ^777777Controle de Marionete 1,",
 		"Dança do Ventre 3, Lições de Dança 10^000000 ou",
 		"^777777Dissonância 3, Lições de Música 10^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -15306,7 +15305,7 @@ SKILL_DESCRIPT = {
 	[SKID.AB_VITUPERATUM] = {
 		"Vituperatum",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Epiclesis 1, Expiatio 1^000000",
+		"Pré-requisitos: ^777777Epiclesis 1, Expiatio 1^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Conjura Lex Aeterna na área ao redor do alvo.^000000",
@@ -15321,7 +15320,7 @@ SKILL_DESCRIPT = {
 	[SKID.AB_CONVENIO] = {
 		"Convenio",
 		"Nível máximo: ^7777771^000000",
-		"Pré requisitos: ^777777Criar Ancilla, Oratio 5^000000",
+		"Pré-requisitos: ^777777Criar Ancilla, Oratio 5^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^000088Apenas se você for o Líder do grupo.^000000",
@@ -15646,7 +15645,7 @@ SKILL_DESCRIPT = {
 		"^777777Causa dano mágico de propriedade Vento",
 		"em todos os oponentes ao seu redor.",
 		"Nível de base e FEI influenciam no dano.^000000",
-		"        ^8041D9< Níveis de Intensificação >^000000",
+		"        ^8041D9< Níveis de Potencializar Magia >^000000",
 		"^777777Nv.1: Golpe adicional de 500% do ATQM.",
 		"Nv.2: Empurra alvos 2 células.",
 		"Nv.3: Dano do Tufão Destrutivo +100%.",
@@ -15704,14 +15703,14 @@ SKILL_DESCRIPT = {
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^777777Cria um terreno para erguer pilares.",
-		"A cada 0,3 segundos, uma célula aleatória",
+		"A cada 0,3 segundo, uma célula aleatória",
 		"será escolhida e levantará 1 Pilar para",
 		"atingir inimigos que estiverem 7x7 células",
 		"ao redor daquela célula escolhida.",
 		"Cada pilar inflige dano mágico de",
 		"de propriedade Terra nos oponentes.",
 		"Nível de base e FEI influenciam no dano.^000000",
-		"       ^8041D9< Níveis de Intensificação >^000000",
+		"       ^8041D9< Níveis de Potencializar Magia >^000000",
 		"^777777Nv.1: Dano -50%, 2 Pilares a cada 0,3 seg.",
 		"Nv.2: Pilar atinge 9x9 células.",
 		"Nv.3: Dano de Pilares de Pedra +100%.",
@@ -15753,7 +15752,7 @@ SKILL_DESCRIPT = {
 		"Descrição:",
 		"^777777Inflige dano mágico de propriedade Terra",
 		"nos oponentes dentro da área selecionada",
-		"a cada 0,4 segundos durante 4 segundos.",
+		"a cada 0,4 segundo durante 4 segundos.",
 		"Nível de base e FEI influenciam no dano.^000000",
 		"Nível l ATQM l Área",
 		"[Nv 1]: ^777777250%^000000 l ^7777775x5 células^000000",
@@ -15770,15 +15769,15 @@ SKILL_DESCRIPT = {
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^777777Cria um jardim de flores explosivas.",
-		"A cada 0,3 segundos, uma célula aleatória",
+		"A cada 0,3 segundo, uma célula aleatória",
 		"será escolhida para 1 Flor explodir e",
 		"atingir inimigos que estiverem 7x7 células",
 		"ao redor daquela célula escolhida.",
 		"Cada flor inflige dano mágico de",
 		"de propriedade Fogo nos oponentes.",
 		"Nível de base e FEI influenciam no dano.^000000",
-		"       ^8041D9< Níveis de Intensificação >^000000",
-		"^777777Nv.1: Explode a cada 0,15 segundos.",
+		"       ^8041D9< Níveis de Potencializar Magia >^000000",
+		"^777777Nv.1: Explode a cada 0,15 segundo.",
 		"Nv.2: Dano -50%, 2 Flores a cada 0,3 seg.",
 		"Nv.3: Dano de Florescer +100%.",
 		"Nv.4: Não causa dano, mas ativa o estado",
@@ -15807,7 +15806,7 @@ SKILL_DESCRIPT = {
 		"Após 0,1 segundo, os atingidos receberão",
 		"um segundo ataque, também de prop. Água.",
 		"Nível de base e FEI influenciam no dano.^000000",
-		"       ^8041D9< Níveis de Intensificação >^000000",
+		"       ^8041D9< Níveis de Potencializar Magia >^000000",
 		"^777777Nv.1: Ativa o estado de [Geleira] em você",
 		"       e nos membros do grupo dentro",
 		"       da área do efeito por 15 minutos.",
@@ -15835,7 +15834,7 @@ SKILL_DESCRIPT = {
 		"Descrição:",
 		"^777777Invoca um Ciclone na área selecionada,",
 		"causando dano mágico de propriedade Vento",
-		"nos oponentes a cada 0,3 segundos.",
+		"nos oponentes a cada 0,3 segundo.",
 		"O ciclone dura 3 segundos.",
 		"Nível de base e FEI influenciam no dano.^000000",
 		"Nível l ATQM l Área",
@@ -15871,7 +15870,7 @@ SKILL_DESCRIPT = {
 		"Descrição:",
 		"^777777Cria uma área ardente no chão,",
 		"causando dano mágico de propriedade Fogo",
-		"nos oponentes a cada 0,5 segundos.",
+		"nos oponentes a cada 0,5 segundo.",
 		"A área floral dura 5 segundos.",
 		"Nível de base e FEI influenciam no dano.^000000",
 		"Nível l ATQM l Área",
@@ -15885,13 +15884,13 @@ SKILL_DESCRIPT = {
 		"Colisão Astral ^777777(Astral Strike)^000000",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Cometa 5,",
-		"Portal do Submundo 3, Projeção Mortal 3^000000",
+		"Portal do Submundo 3, Projeção Maldita 3^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Custo de AP: ^FF0000150^000000",
 		"Descrição:",
 		"^777777Derruba um asteroide na área selecionada,",
 		"abrindo passagem para meteoritos caírem e",
-		"atingirem oponentes a cada 0,3 segundos.",
+		"atingirem oponentes a cada 0,3 segundo.",
 		"Inflige dano mágico de propriedade Neutro.",
 		"Oponentes das raças Morto-Vivo e Dragão",
 		"terão um bônus: eles recebem mais dano.",
@@ -15909,7 +15908,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^7777775.000%^000000 l ^77777711.000%^000000 l ^77777711x11 células^000000"
 	},
 	[SKID.AG_CLIMAX] = {
-		"Intensificação ^777777(Climax)^000000",
+		"Potencializar Magia ^777777(Climax)^000000",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Tetra Vortex 5",
 		"Perícia com Cajado de Duas Mãos 3^000000",
@@ -15919,7 +15918,7 @@ SKILL_DESCRIPT = {
 		"^777777Intensifica os poderes mágicos.",
 		"Diferentes efeitos serão aplicados em",
 		"certas habilidades de acordo com o nível",
-		"de Intensificação. Dura 300 segundos.^000000",
+		"de Potencializar Magia. Dura 300 segundos.^000000",
 		"Habilidades afetadas:",
 		"^777777Florescer",
 		"Cacos de Gelo",
@@ -15937,9 +15936,9 @@ SKILL_DESCRIPT = {
 		"Descrição:",
 		"^777777Causa dano mágico de propriedade Terra",
 		"no alvo e em oponentes ao redor dele.",
-		"Se [Intensificação] estiver ativo,",
+		"Se [Potencializar Magia] estiver ativo,",
 		"recebe um bônus no dano infligido",
-		"independente do nível de Intensificação.",
+		"independente do nível de Potencializar Magia.",
 		"Nível de base e FEI influenciam no dano.^000000",
 		"Nível l ATQM l ATQM (Bônus) l Área",
 		"[Nv 1]: ^777777600%^000000 l ^777777850%^000000 l ^7777775x5 células^000000",
@@ -15957,9 +15956,9 @@ SKILL_DESCRIPT = {
 		"Descrição:",
 		"^777777Dispara uma rajada de ar no alvo que",
 		"percorre 3 células em linha reta.",
-		"Se [Intensificação] estiver ativo,",
+		"Se [Potencializar Magia] estiver ativo,",
 		"recebe um bônus no dano infligido",
-		"independente do nível de Intensificação.",
+		"independente do nível de Potencializar Magia.",
 		"Nível de base e FEI influenciam no dano.^000000",
 		"Nível l ATQM l ATQM (Bônus)",
 		"[Nv 1]: ^777777600%^000000 l ^777777850%^000000",
@@ -15980,9 +15979,9 @@ SKILL_DESCRIPT = {
 		"em linha reta até explodir e atingir todos",
 		"os oponentes próximos com 2 ataques que",
 		"infligem dano mágico de propriedade Fogo.",
-		"Se [Intensificação] estiver ativo, a",
+		"Se [Potencializar Magia] estiver ativo, a",
 		"explosão causará 3 ataques independente",
-		"do nível de Intensificação.",
+		"do nível de Potencializar Magia.",
 		"Nível de base e FEI influenciam no dano.^000000",
 		"Nível l ATQM l ATQM (Explosão) l Área",
 		"[Nv 1]: ^777777300%^000000 l ^777777600%^000000 l ^7777775x5 células^000000",
@@ -16000,9 +15999,9 @@ SKILL_DESCRIPT = {
 		"Descrição:",
 		"^777777Causa dano mágico de propriedade Água",
 		"em todos os oponentes ao seu redor.",
-		"Se [Intensificação] estiver ativo,",
+		"Se [Potencializar Magia] estiver ativo,",
 		"recebe um bônus no dano infligido",
-		"independente do nível de Intensificação.",
+		"independente do nível de Potencializar Magia.",
 		"Nível de base e FEI influenciam no dano.^000000",
 		"Nível l ATQM l ATQM (Bônus) l Área",
 		"[Nv 1]: ^777777600%^000000 l ^777777850%^000000 l ^7777779x9 células^000000",
@@ -16531,7 +16530,7 @@ SKILL_DESCRIPT = {
 		"Tipo: ^777777Ofensiva^000000",
 		"Custo de AP: ^FF0000150^000000",
 		"Descrição:",
-		"^008080Apenas com Lança e Posição de Ataque.^000000",
+		"^008080Apenas com Lança e na Posição de Ataque.^000000",
 		"^777777Causa dano físico à distância no alvo e",
 		"em oponentes 7x7 células ao redor dele.",
 		"Nos próximos 300 segundos, aumenta o dano",
@@ -16578,11 +16577,11 @@ SKILL_DESCRIPT = {
 		"Arremessar Escudo ^777777(Shield Shooting)^000000",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Perícia com Escudo 5,",
-		"    Postura de Ataque 2^000000",
+		"    Posição de Ataque 2^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Regen. de AP: ^0054FF2^000000",
 		"Descrição:",
-		"^008080Com Escudo e [Posição de Ataque].^000000",
+		"^008080Com Escudo e na [Posição de Ataque].^000000",
 		"^777777Causa dano físico a distância em 1 alvo.",
 		"Nos próximos 10 segundos, aumenta o dano",
 		"de Choque Rápido, Aegis Inferi e Escudo",
@@ -16601,11 +16600,11 @@ SKILL_DESCRIPT = {
 	[SKID.IG_OVERSLASH] = {
 		"Golpe do Destino ^777777(Overslash)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré-requisitos: ^777777Postura de Ataque 3^000000",
+		"Pré-requisitos: ^777777Posição de Ataque 3^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Regen. de AP: ^0054FF2^000000",
 		"Descrição:",
-		"^008080Apenas na [Postura de Ataque].^000000",
+		"^008080Apenas na [Posição de Ataque].^000000",
 		"^777777Causa dano físico corpo a corpo no alvo e",
 		"em 7x7 células nos oponentes ao redor.",
 		"Os golpes aumentam de acordo com o número",
@@ -16628,39 +16627,39 @@ SKILL_DESCRIPT = {
 	[SKID.IG_CROSS_RAIN] = {
 		"Crux Tempestas ^777777(Cross Rain)^000000",
 		"Nível máximo: ^77777710^000000",
-		"Pré-requisitos: ^777777Nv. de Maestria com Escudo 1^000000",
+		"Pré-requisitos: ^777777Maestria com Escudo 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Regen. de AP: ^0054FF5^000000",
 		"Descrição:",
 		"^777777Cria uma chuva divina na área selecionada.",
 		"Causa dano mágico de propriedade Sagrado a",
-		"cada 0,3 segundos durante 4,5 segundos.",
+		"cada 0,3 segundo durante 4,5 segundos.",
 		"Se [Escudo Divino] estiver ativo, o dano",
-		"mágico nfligido será ainda maior.",
+		"mágico infligido será ainda maior.",
 		"Nível de base e FEI influenciam no dano.",
 		"O nível de Maestria da Guarda entra",
 		"como multiplicador na fórmula de dano.^000000",
 		"Nível l ATQM l ATQM (Escudo Divino) l Área",
 		"[Nv 1]: ^777777150%^000000 l ^777777250%^000000 l ^7777773x3 células^000000",
-		"        ^777777Nv. de Maestria x 5^000000 l ^777777Nv. de Maestria x 10^000000",
+		"        ^777777Nv. Maestria x 5^000000 l ^777777Nv. Maestria x 10^000000",
 		"[Nv 2]: ^777777300%^000000 l ^777777500%^000000 l ^7777773x3 células^000000",
-		"        ^777777Nv. de Maestria x 10^000000 l ^777777Nv. de Maestria x 15^000000",
+		"        ^777777Nv. Maestria x 10^000000 l ^777777Nv. Maestria x 15^000000",
 		"[Nv 3]: ^777777450%^000000 l ^777777750%^000000 l ^7777773x3 células^000000",
-		"        ^777777Nv. de Maestria x 15^000000 l ^777777Nv. de Maestria x 30^000000",
+		"        ^777777Nv. Maestria x 15^000000 l ^777777Nv. Maestria x 30^000000",
 		"[Nv 4]: ^777777600%^000000 l ^7777771.000%^000000 l ^7777775x5 células^000000",
-		"        ^777777Nv. de Maestria x 20^000000 l ^777777Nv. de Maestria x 40^000000",
+		"        ^777777Nv. Maestria x 20^000000 l ^777777Nv. Maestria x 40^000000",
 		"[Nv 5]: ^777777750%^000000 l ^7777771.250%^000000 l ^7777775x5 células^000000",
-		"        ^777777Nv. de Maestria x 25^000000 l ^777777Nv. de Maestria x 50^000000",
+		"        ^777777Nv. Maestria x 25^000000 l ^777777Nv. Maestria x 50^000000",
 		"[Nv 6]: ^777777900%^000000 l ^7777771.500%^000000 l ^7777775x5 células^000000",
-		"        ^777777Nv. de Maestria x 30^000000 l ^777777Nv. de Maestria x 60^000000",
+		"        ^777777Nv. Maestria x 30^000000 l ^777777Nv. Maestria x 60^000000",
 		"[Nv 7]: ^7777771.050%^000000 l ^7777771.750%^000000 l ^7777777x7 células^000000",
-		"        ^777777Nv. de Maestria x 35^000000 l ^777777Nv. de Maestria x 70^000000",
+		"        ^777777Nv. Maestria x 35^000000 l ^777777Nv. Maestria x 70^000000",
 		"[Nv 8]: ^7777771.200%^000000 l ^7777772.000%^000000 l ^7777777x7 células^000000",
-		"        ^777777Nv. de Maestria x 40^000000 l ^777777Nv. de Maestria x 80^000000",
+		"        ^777777Nv. Maestria x 40^000000 l ^777777Nv. Maestria x 80^000000",
 		"[Nv 9]: ^7777771.350%^000000 l ^7777772.250%^000000 l ^7777777x7 células^000000",
-		"        ^777777Nv. de Maestria x 45^000000 l ^777777Nv. de Maestria x 90^000000",
+		"        ^777777Nv. Maestria x 45^000000 l ^777777Nv. Maestria x 90^000000",
 		"[Nv 10]: ^7777771.500%^000000 l ^7777772.500%^000000 l ^7777779x9 células^000000",
-		"        ^777777Nv. de Maestria x 50^000000 l ^777777Nv. de Maestria x 100^000000"
+		"        ^777777Nv. Maestria x 50^000000 l ^777777Nv. Maestria x 100^000000"
 	},
 	[SKID.CD_REPARATIO] = {
 		"Reparatio",
@@ -16754,11 +16753,11 @@ SKILL_DESCRIPT = {
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^777777Causa dano mágico de propriedade Sagrado",
-		"no alvo, com chance de infligir [Mudez].",
+		"no alvo, com chance de infligir Quietude.",
 		"Depois, causa um 2º dano mágico sagrado no",
 		"alvo e em oponentes 9x9 células ao redor.",
 		"Nível de base e FEI afetam o dano.^000000",
-		"Nível l 1º ATQM l 2º ATQM l Chance Mudez",
+		"Nível l 1º ATQM l 2º ATQM l Quietude",
 		"[Nv 1]: ^777777400%^000000 l ^777777550%^000000 l ^77777725%^000000",
 		"[Nv 2]: ^777777800%^000000 l ^7777771.100%^000000 l ^77777730%^000000",
 		"[Nv 3]: ^7777771.200%^000000 l ^7777771.650%^000000 l ^77777735%^000000",
@@ -16934,9 +16933,9 @@ SKILL_DESCRIPT = {
 		"^008080Apenas com Maça ou Livro.^000000",
 		"^777777Golpeia um alvo, afetando outros ao redor.",
 		"O dano causado é afetado pela arma usada.^000000",
-		"^777777Maça:^000000 causa dano físico à distância.",
-		"^777777Livro:^000000 causa dano físico corpo a corpo.",
-		"Tem possibilidade do ataque ser crítico.",
+		"Maça: ^777777causa dano físico à distância.^000000",
+		"Livro: ^777777causa dano físico corpo a corpo.^000000",
+		"^777777Tem possibilidade do ataque ser crítico.",
 		"A chance é igual ao CRIT do usuário.",
 		"Se [Gemini Lumen] estiver ativo, seus",
 		"ataques básicos poderão autoconjurar",
@@ -17004,7 +17003,7 @@ SKILL_DESCRIPT = {
 		"Descrição:",
 		"^008080Apenas com Adaga.^000000",
 		"^777777Lança facas no ar, que causam dano físico",
-		"corpo a corpo a cada 0,3 segundos em uma",
+		"corpo a corpo a cada 0,3 segundo em uma",
 		"área de 5x5 células ao redor do usuário.",
 		"É cancelada se você trocar para uma arma",
 		"que não seja do tipo Adaga.",
@@ -17021,7 +17020,7 @@ SKILL_DESCRIPT = {
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Lâminas Retalhadoras 5,",
 		"    Senso das Sombras 3^000000",
-		"Tipo: ^777777Ofesiva^000000",
+		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^008080Apenas com Katar.^000000",
 		"^777777Vai para cima do alvo, atingindo-o 3 vezes",
@@ -17178,7 +17177,7 @@ SKILL_DESCRIPT = {
 		"Tipo: ^777777Ofensiva^000000",
 		"Custo de AP: ^FF0000150^000000",
 		"Descrição:",
-		"^777777Aproxima no alvo e conjura Garra Sombria",
+		"^777777Aproxima-se do alvo e conjura Garra Sombria",
 		"no nível aprendido em todos ao redor.",
 		"Causa dano físico corpo a corpo e tem um",
 		"bônus contra as raças Dragão e Humanoide.",
@@ -17364,8 +17363,8 @@ SKILL_DESCRIPT = {
 		"Regen. de AP: ^0054FF20^000000",
 		"Descrição:",
 		"^777777Invoca o ABR conhecido como [Canhoneiro].",
-		"Enquanto invocado, o dano de Punho Foguete",
-		"Metralhadora e Canhão será dobrado.^000000",
+		"Enquanto invocado, o dano de Canhão,",
+		"Metralhadora e Punho Foguete é dobrado.^000000",
 		"^000088Consome 1 Cápsula de ABR.^000000",
 		"Nível l Duração",
 		"[Nv 1]: ^777777120 segundos^000000",
@@ -17403,7 +17402,7 @@ SKILL_DESCRIPT = {
 		"^777777Invoca o ABR conhecido como [Escoteiro].",
 		"Enquanto invocado, ataca inimigos e usa",
 		"habilidades de dano físico contra eles.^000000",
-		"^000088Consome 1 Cápsula de ABR.^000000",
+		"^000088Consome 5 Cápsulas de ABR.^000000",
 		"Nível l Duração",
 		"[Nv 1]: ^777777120 segundos^000000",
 		"[Nv 2]: ^777777180 segundos^000000",
@@ -17543,7 +17542,7 @@ SKILL_DESCRIPT = {
 		"área de 9x9 células ao redor. Os orbes",
 		"consumidos são regenerados com o tempo.",
 		"Nível de base e FEI aumentam o dano.^000000",
-		"Nível l ATQM l Duração l",
+		"Nível l ATQM l Duração",
 		"[Nv 1]: ^777777220%^000000 l ^77777730 segundos^000000 l ^7777773,0 segundos^000000",
 		"[Nv 2]: ^777777290%^000000 l ^77777760 segundos^000000 l ^7777772,5 segundos^000000",
 		"[Nv 3]: ^777777360%^000000 l ^77777790 segundos^000000 l ^7777772,0 segundos^000000",
@@ -17632,7 +17631,7 @@ SKILL_DESCRIPT = {
 		"^777777Abre uma passagem para o abismo no chão.",
 		"Oponentes dentro da área de 7x7 células",
 		"receberão dano mágico de propriedade",
-		"Neutro a cada 0,3 segundos por 3 segundos.",
+		"Neutro a cada 0,3 segundo por 3 segundos.",
 		"Nível de base e FEI aumentam o dano.",
 		"Se [Invocação do Abismo] estiver ativo,",
 		"ao realizar ataques básicos, há chance de",
@@ -17729,7 +17728,7 @@ SKILL_DESCRIPT = {
 		"Pré-requisitos: ^777777Chamar Ave 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
-		"^008080Apenas com Arco e Áve de Rapina.^000000",
+		"^008080Apenas com Arco e Ave de Rapina.^000000",
 		"^777777Comanda a Ave a atacar 2 vezes no alvo,",
 		"causando dano físico a distância.",
 		"Ao aprender a habilidade, permite que",
@@ -17875,7 +17874,7 @@ SKILL_DESCRIPT = {
 		"^777777Monta uma armadilha avançada no chão.",
 		"A cada intervalo, causa dano físico",
 		"corpo a corpo de propriedade Vento.",
-		"Tem chance de infligir [Atormento].",
+		"Tem chance de infligir [Eletrificação].",
 		"Nível de base e CON afetam o dano.^000000",
 		"^000088Consome 2 Armadilhas Especiais.^000000",
 		"Nível l ATQ l Duração da armadilha",
@@ -17941,10 +17940,10 @@ SKILL_DESCRIPT = {
 		"Descrição:",
 		"^777777Cria novas Poções:",
 		"Ácido Sólido, Ácido Álgido, Ácido Gasoso",
-		"Ácido Inflamável, Garrafa de Revestimento",
+		"Ácido Inflamável, Ampola de Revestimento",
 		"Frasco de Terrário, Limpador de Olhos,",
-		"Limpador de Ouvidos, Biotônico, Extintor,",
-		"Brigadeiro, Água Purificada, Frasco de",
+		"Limpador de Ouvido, Biotônico, Extintor,",
+		"Brigadeiro, Óleo Sagrado, Frasco de",
 		"Antídoto e Banho de Ervas.",
 		"Para saber a lista de ingredientes,",
 		"verifique a descrição do Béquer.^000000",
@@ -17996,7 +17995,7 @@ SKILL_DESCRIPT = {
 		"armadura dos membros do grupo ao redor.",
 		"Impede que esses equipamentos sejam",
 		"removidos ou quebrados por habilidades.^000000",
-		"^000088Consome 3 Garrafas de Revestimento.^000000",
+		"^000088Consome 3 Ampolas de Revestimento.^000000",
 		"Nível l Área l Duração",
 		"[Nv 1]: ^77777715x15 células^000000 l ^77777760 segundos^000000",
 		"[Nv 2]: ^77777715x15 células^000000 l ^77777790 segundos^000000",
@@ -18014,7 +18013,7 @@ SKILL_DESCRIPT = {
 		"^777777Reveste todos os equipamentos sombrios do",
 		"alvo selecionado, impedindo-os de serem",
 		"removidos ou quebrados por habilidades.^000000",
-		"^000088Consome 1 Garrafa de Revestimento.^000000",
+		"^000088Consome 1 Ampola de Revestimento.^000000",
 		"Nível l Duração l Regen. de AP",
 		"[Nv 1]: ^77777730 segundos^000000 l ^7777772^000000",
 		"[Nv 2]: ^77777740 segundos^000000 l ^7777772^000000",
@@ -18452,7 +18451,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777+15^000000 l ^77777723x23 células^000000"
 	},
 	[SKID.TR_NIPELHEIM_REQUIEM] = {
-		"Réquiem de Nifflheim ^777777(Nifflheim Requiem)^000000",
+		"Réquiem de Niflheim ^777777(Niflheim Requiem)^000000",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Interlúdio 1,",
 		"    Marcha de Prontera 1^000000",
@@ -18545,7 +18544,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777-70^000000 l ^77777770%^000000"
 	},
 	[SKID.EM_INCREASING_ACTIVITY] = {
-		"Canalizar Energia ^777777(Increasing Activity)^000000",
+		"Canalizar Energia ^777777(Increase AP)^000000",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Exaurir 5^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -18588,8 +18587,8 @@ SKILL_DESCRIPT = {
 		"^777777Cria uma tempestade elétrica na área de",
 		"9x9 células que dura 3 segundos, causando",
 		"dano mágico de propriedade Vento a cada",
-		"0,3 segundos, com chance de infligir o",
-		"efeito de [Atormento] nos oponentes.",
+		"0,3 segundo, com chance de infligir o",
+		"efeito de [Eletrificação] nos oponentes.",
 		"O dano aumenta se Procella for invocada.",
 		"Nível de base e FEI influenciam o dano.^000000",
 		"Nível l ATQM l ATQM (Procella) l Chance",
@@ -18608,7 +18607,7 @@ SKILL_DESCRIPT = {
 		"Descrição:",
 		"^777777Abre um pântano na área de 9x9 células que",
 		"dura 3 segundos, causando dano mágico de",
-		"propriedade Veneno a cada 0,3 segundos.",
+		"propriedade Veneno a cada 0,3 segundo.",
 		"Tem chance de infligir [Intoxicação].",
 		"O dano aumenta se Serpens for invocado.",
 		"Nível de base e FEI influenciam o dano.^000000",
@@ -18628,7 +18627,7 @@ SKILL_DESCRIPT = {
 		"Descrição:",
 		"^777777Provoca um incêndio na área de 9x9 células",
 		"que dura 3 segundos, causando dano mágico",
-		"de propriedade Fogo a cada 0,3 segundos.",
+		"de propriedade Fogo a cada 0,3 segundo.",
 		"Tem chance de infligir [Ardência].",
 		"O dano aumenta se Ardor for invocado.",
 		"Nível de base e FEI influenciam o dano.^000000",
@@ -20909,7 +20908,7 @@ SKILL_DESCRIPT = {
 	[SKID.HLIF_AVOID] = {
 		"Bater em Retirada ^777777(Emergency Avoid)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Cura pelas Mãos 3^000000",
+		"Pré-requisitos: ^777777Cura pelas Mãos 3^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^777777Acelera o movimento da Lif e do mestre.",
@@ -20924,7 +20923,7 @@ SKILL_DESCRIPT = {
 	[SKID.HLIF_BRAIN] = {
 		"Cirurgia Cerebral ^777777(Brain Surgery)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Cura pelas Mãos 5^000000",
+		"Pré-requisitos: ^777777Cura pelas Mãos 5^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
 		"^777777Aumenta o SP, a regeneração natural de SP",
@@ -20940,7 +20939,7 @@ SKILL_DESCRIPT = {
 	[SKID.HLIF_CHANGE] = {
 		"Esforço Mental ^777777(Mental Change)^000000",
 		"Nível máximo: ^7777773^000000",
-		"Pré requisitos: ^CD3278Lealdade alta na 2ª forma^000000",
+		"Pré-requisitos: ^CD3278Lealdade alta na 2ª forma^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^777777Aumenta a VIT e INT da Lif.",
@@ -20970,7 +20969,7 @@ SKILL_DESCRIPT = {
 	[SKID.HAMI_DEFENCE] = {
 		"Fortaleza ^777777(Deffence)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Troca de Lugar 2^000000",
+		"Pré-requisitos: ^777777Troca de Lugar 2^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^777777Melhora a DEF do Amistr e a VIT do Mestre.^000000",
@@ -20984,7 +20983,7 @@ SKILL_DESCRIPT = {
 	[SKID.HAMI_SKIN] = {
 		"Pele de Adamantium ^777777(Adamantium Skin)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Fortaleza 3^000000",
+		"Pré-requisitos: ^777777Fortaleza 3^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
 		"^777777Garante bônus na DEF, HP máximo e",
@@ -20999,7 +20998,7 @@ SKILL_DESCRIPT = {
 	[SKID.HAMI_BLOODLUST] = {
 		"Desejo por Sangue ^777777(Blood Lust)^000000",
 		"Nível máximo: ^7777773^000000",
-		"Pré requisitos: ^CD3278Lealdade alta na 2ª forma^000000",
+		"Pré-requisitos: ^CD3278Lealdade alta na 2ª forma^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^777777Melhora o ATQ do Homunculus e concede",
@@ -21026,7 +21025,7 @@ SKILL_DESCRIPT = {
 	[SKID.HFLI_FLEET] = {
 		"Voo Frenético ^777777(Flitting)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Pica-Pau 3^000000",
+		"Pré-requisitos: ^777777Pica-Pau 3^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^777777Aumenta temporariamente o ATQ",
@@ -21041,7 +21040,7 @@ SKILL_DESCRIPT = {
 	[SKID.HFLI_SPEED] = {
 		"Voo Acelerado ^777777(Overed Speed)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Voo Frenético 3^000000",
+		"Pré-requisitos: ^777777Voo Frenético 3^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^777777Aumenta a Esquiva do Filir temporariamente.^000000",
@@ -21055,7 +21054,7 @@ SKILL_DESCRIPT = {
 	[SKID.HFLI_SBR44] = {
 		"S.B.R.44",
 		"Nível máximo: ^7777773^000000",
-		"Pré requisitos: ^CD3278Lealdade alta na 2ª forma^000000",
+		"Pré-requisitos: ^CD3278Lealdade alta na 2ª forma^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^777777Sacrifica a lealdade do Filir para causar",
@@ -21080,7 +21079,7 @@ SKILL_DESCRIPT = {
 	[SKID.HVAN_CHAOTIC] = {
 		"Bênção Caótica ^777777(Chaotic Venediction)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Capricho 3^000000",
+		"Pré-requisitos: ^777777Capricho 3^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^777777Conjura [Curar] em um alvo aleatório.",
@@ -21096,7 +21095,7 @@ SKILL_DESCRIPT = {
 	[SKID.HVAN_INSTRUCT] = {
 		"Mudança de Planos ^777777(Change Instruction)^000000",
 		"Nível máximo: ^7777775^000000",
-		"Pré requisitos: ^777777Capricho 5^000000",
+		"Pré-requisitos: ^777777Capricho 5^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
 		"^777777Melhora a INT e a FOR do Vanilmirth.^000000",
@@ -21110,7 +21109,7 @@ SKILL_DESCRIPT = {
 	[SKID.HVAN_EXPLOSION] = {
 		"Bioexplosão ^777777(Bio Explosion)^000000",
 		"Nível máximo: ^7777773^000000",
-		"Pré requisitos: ^CD3278Lealdade alta na 2ª forma^000000",
+		"Pré-requisitos: ^CD3278Lealdade alta na 2ª forma^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^777777Causa dano físico na área de 9x9 células.",

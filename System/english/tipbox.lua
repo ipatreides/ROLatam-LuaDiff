@@ -847,7 +847,7 @@ You can toggle all player shops by ^3b488ctyping /showshop^000000 in the chat wi
 		Image = "유저인터페이스\\tipbox\\tip00069",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"You can enable the map name to be displayed on the screen when moving between major maps.\n\t\t(^ff0000※Even if the map name display is enabled, it may not appear depending on the map's concept.^000000)\n\t\t\n\t\tThe map name display can be toggled ^ff0000in the Game Options (ESC) → Game Settings → Effect Settings^000000.\n\t\t\n\t\t<TIPBOX>>Effect Settings<INFO>143</INFO></TIPBOX>\n\t\t<TIPBOX>>Game Options Window<INFO>32</INFO></TIPBOX>\n\t\t<TIPBOX>>View Tip List<INFO>1000</INFO></TIPBOX>"
+			"You can enable the map name to be displayed on the screen when moving between major maps.\n\t\t(^ff0000※Even if the map name display is enabled, it may not appear depending on the map's concept.^000000)\n\t\t\n\t\tThe map name display can be toggled ^ff0000in the Game Options (ESC) > Game Settings > Effect Settings^000000.\n\t\t\n\t\t<TIPBOX>>Effect Settings<INFO>143</INFO></TIPBOX>\n\t\t<TIPBOX>>Game Options Window<INFO>32</INFO></TIPBOX>\n\t\t<TIPBOX>>View Tip List<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[83] = {
@@ -883,7 +883,15 @@ You can check the command list by pressing Alt + Y.
 		Image = "유저인터페이스\\tipbox\\tip00085",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"You can expand your field of view.\n\t >Open Game Settings by pressing ESC or the option button.\n\t →Check Zoom Out in the Control Settings tab to increase the maximum view.\n\t >You can also use the /zoom command.\n\t\n\t<TIPBOX>>Control Settings<INFO>152</INFO></TIPBOX>\n\t<TIPBOX>>Game Options Window<INFO>32</INFO></TIPBOX>\n\t<TIPBOX>>View Tip List<INFO>1000</INFO></TIPBOX>"
+			[[
+You can expand your field of view.
+	 >Open Game Settings by pressing ESC or the option button.
+	 >Check Zoom Out in the Control Settings tab to increase the maximum view.
+	 >You can also use the /zoom command.
+	
+	<TIPBOX>>Control Settings<INFO>152</INFO></TIPBOX>
+	<TIPBOX>>Game Options Window<INFO>32</INFO></TIPBOX>
+	<TIPBOX>>View Tip List<INFO>1000</INFO></TIPBOX>]]
 		}
 	},
 	[86] = {
@@ -915,7 +923,18 @@ You can store Zeny in the account bank and share it between characters on the sa
 			}
 		},
 		Page = {
-			"You can enable the emblem border display during WoE.\n\t\n\t>Open Game Settings with ESC or the option button.\n\t→Check \"Show Emblem Frame\" in the Basic Settings tab.\n\t\n\t>Command\n\t/frame\n\t\n\t<TIPBOX>>Basic Settings<INFO>33</INFO></TIPBOX>\n\t<TIPBOX>>Game Options Window<INFO>32</INFO></TIPBOX>\n\t<TIPBOX>>View Tip List<INFO>1000</INFO></TIPBOX>"
+			[[
+You can enable the emblem border display during WoE.
+	
+	>Open Game Settings with ESC or the option button.
+	>Check "Show Emblem Frame" in the Basic Settings tab.
+	
+	>Command
+	/frame
+	
+	<TIPBOX>>Basic Settings<INFO>33</INFO></TIPBOX>
+	<TIPBOX>>Game Options Window<INFO>32</INFO></TIPBOX>
+	<TIPBOX>>View Tip List<INFO>1000</INFO></TIPBOX>]]
 		}
 	},
 	[88] = {
@@ -924,7 +943,20 @@ You can store Zeny in the account bank and share it between characters on the sa
 		Image = "유저인터페이스\\tipbox\\tip00088",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"You can extend the maximum display limit of damage numbers.\n\t(Default: Damage above 999999 is displayed as 999999)\n\t\n\t>Open Game Settings with ESC or the option button.\n\t→Click Effect Settings.\n\t→Enable Extended Damage Display.\n\t\n\tYou can change the damage font.\n\t<TIPBOX>>Change Damage Font<INFO>192</INFO></TIPBOX>\n\t\n\t<TIPBOX>>Effect Settings<INFO>143</INFO></TIPBOX>\n\t<TIPBOX>>Game Options Window<INFO>32</INFO></TIPBOX>\n\t<TIPBOX>>View Tip List<INFO>1000</INFO></TIPBOX>"
+			[[
+You can extend the maximum display limit of damage numbers.
+	(Default: Damage above 999999 is displayed as 999999)
+	
+	>Open Game Settings with ESC or the option button.
+	>Click Effect Settings.
+	>Enable Extended Damage Display.
+	
+	You can change the damage font.
+	<TIPBOX>>Change Damage Font<INFO>192</INFO></TIPBOX>
+	
+	<TIPBOX>>Effect Settings<INFO>143</INFO></TIPBOX>
+	<TIPBOX>>Game Options Window<INFO>32</INFO></TIPBOX>
+	<TIPBOX>>View Tip List<INFO>1000</INFO></TIPBOX>]]
 		}
 	},
 	[89] = {

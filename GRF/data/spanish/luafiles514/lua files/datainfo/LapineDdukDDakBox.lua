@@ -9500,6 +9500,99 @@ tblLapineDdukddakBox = {
 				}
 			},
 			NeedSource_String = "Coleccionables"
+		},
+		R_BearersShadow_Mix = {
+			ItemID = 101257,
+			NeedCount = 6,
+			NeedRefineMin = 7,
+			NeedRefineMax = 10,
+			SourceItems = {
+				{
+					"S2_Bearers_Shoes",
+					1,
+					24338
+				},
+				{
+					"S2_Bearers_Armor",
+					1,
+					24337
+				},
+				{
+					"S2_Bearers_Pendent",
+					1,
+					24321
+				},
+				{
+					"S_Bearers_Earring",
+					1,
+					24184
+				},
+				{
+					"S_Bearers_Pendent",
+					1,
+					24185
+				},
+				{
+					"S_Bearers_Armor",
+					1,
+					24180
+				},
+				{
+					"S_Bearers_Weapon",
+					1,
+					24183
+				},
+				{
+					"S_Bearers_Shoes",
+					1,
+					24181
+				},
+				{
+					"S_Bearers_Shield",
+					1,
+					24182
+				}
+			},
+			NeedSource_String = "Bearers Shadows"
+		},
+		M_BlitzShadow_Mix = {
+			ItemID = 101258,
+			NeedCount = 6,
+			NeedRefineMin = 7,
+			NeedRefineMax = 10,
+			SourceItems = {
+				{
+					"S_Blitz_Armor",
+					1,
+					24344
+				},
+				{
+					"S_Blitz_Weapon",
+					1,
+					24343
+				},
+				{
+					"S_Blitz_Shield",
+					1,
+					24232
+				},
+				{
+					"S_Blitz_Shoes",
+					1,
+					24231
+				},
+				{
+					"S_Blitz_Pendent",
+					1,
+					24218
+				},
+				{
+					"S_Blitz_Earring",
+					1,
+					24217
+				}
+			},
+			NeedSource_String = "Blitz Shadows"
 		}
 	},
 	get_lapine_box = function(in_box_id)

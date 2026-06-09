@@ -7211,7 +7211,7 @@ QuestInfoList = {
 		Title = "Finding the Book of Illusion",
 		IconName = "ico_jq.bmp",
 		Description = {
-			"Priest Jergus asked me to test my faith by finding the Book of Illusion on <NAVI>[Payon Cave Floor 1]<INFO>pay_arche,39,131,0,101,0</INFO></NAVI>."
+			"Priest Jergus asked me to test my faith by finding the Book of Illusion in <NAVI>[Payon Cave Floor 1]<INFO>pay_arche,39,131,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Find Book of Illusion Vol. 1"
 	},
@@ -7219,7 +7219,7 @@ QuestInfoList = {
 		Title = "Book of Illusion Vol. 2",
 		IconName = "ico_jq.bmp",
 		Description = {
-			"The first volume of the Book of Illusion says that the second volume is somewhere on <NAVI>[Orc Dungeon Floor 1]<INFO>gef_fild10,65,335,0,101,0</INFO></NAVI>. "
+			"The first volume of the Book of Illusion says that the second volume is somewhere in <NAVI>[Orc Dungeon Floor 1]<INFO>gef_fild10,65,335,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Find Book of Illusion Vol. 2"
 	},
@@ -7227,7 +7227,7 @@ QuestInfoList = {
 		Title = "Book of Illusion Vol. 3",
 		IconName = "ico_jq.bmp",
 		Description = {
-			"The seconds volume of the Book of Illusion reads the third volume is somewhere on <NAVI>[Glastheim Monastery]<INFO>glast_01,200,135,0,101,0</INFO></NAVI>."
+			"The second volume of the Book of Illusion says that the third volume is somewhere in <NAVI>[Glastheim Monastery]<INFO>glast_01,200,135,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Find Book of Illusion Vol. 3"
 	},
@@ -7235,7 +7235,7 @@ QuestInfoList = {
 		Title = "Defeat Monastery Monsters",
 		IconName = "ico_jq.bmp",
 		Description = {
-			"To read the third volume of the Book of Illusion further, I must hunt 30 monsters of any kind inside the Monastery."
+			"To keep reading the third volume of the Book of Illusion further, I must hunt 30 monsters of any kind inside the Monastery."
 		},
 		Summary = "Hunt 30 monsters inside the Monastery"
 	},
@@ -7243,17 +7243,17 @@ QuestInfoList = {
 		Title = "Last Ordeal",
 		IconName = "ico_jq.bmp",
 		Description = {
-			"Enter the Cave of Trials and defeat Dark Illusions."
+			"Enter the Cave of Trials and defeat the Dark Illusion."
 		},
-		Summary = "Defeat Dark Illusions"
+		Summary = "Defeat Dark Illusion"
 	},
 	[3429] = {
-		Title = "Defeat Dark Illusions",
+		Title = "Defeat Dark Illusion",
 		IconName = "ico_jq.bmp",
 		Description = {
-			"Defeat Dark Illusions."
+			"Defeat Dark Illusion."
 		},
-		Summary = "Defeat Dark Illusions"
+		Summary = "Defeat Dark Illusion"
 	},
 	[3430] = {
 		Title = "Talk to the Knight of Devotion",
@@ -7667,113 +7667,107 @@ QuestInfoList = {
 		Description = {""}
 	},
 	[3493] = {
-		Title = "Conversation with Jarad",
+		Title = "Conversation with Zarad",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Let's talk to <NAVI>[Jarad]<INFO>rachel,69,234,0,101,0</INFO></NAVI> about his opinion on the situation."
+			"Go and speak with <NAVI>[Zarad]<INFO>rachel,69,234,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Talk to Jarad"
+		Summary = "Conversation with Zarad"
 	},
 	[3494] = {
 		Title = "Conversation with Rohi",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Let's talk to <NAVI>[Rohi]<INFO>rachel,100,72,0,101,0</INFO></NAVI> about her opinion on the situation."
+			"Go and speak with <NAVI>[Rohi]<INFO>rachel,100,72,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Talk to Rohi"
+		Summary = "Conversation with Rohi"
 	},
 	[3495] = {
-		Title = "Conversation with Jeojin",
+		Title = "Conversation with Jojin",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Let's talk to <NAVI>[Jeojin]<INFO>rachel,258,207,0,101,0</INFO></NAVI> about her opinion on the situation."
+			"Go and speak with <NAVI>[Jojin]<INFO>rachel,258,207,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Talk to Jeojin"
+		Summary = "Conversation with Jojin"
 	},
 	[3496] = {
-		Title = "Conversation with Skuain",
+		Title = "Conversation with Squain",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Let's talk to <NAVI>[Skuain]<INFO>rachel,159,173,0,101,0</INFO></NAVI> about his opinion on the situation."
+			"Go and speak with <NAVI>[Squain]<INFO>rachel,159,173,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Talk to Skuain"
+		Summary = "Conversation with Squain"
 	},
 	[3497] = {
 		Title = "Conversation with Senado",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Let's talk to <NAVI>[Senado]<INFO>rachel,190,30,0,101,0</INFO></NAVI> about her opinion on the situation."
+			"Go and speak with <NAVI>[Senado]<INFO>rachel,190,30,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Talk to Senado"
+		Summary = "Conversation with Senado"
 	},
 	[3498] = {
 		Title = "Conversation with Japer",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Let's talk to <NAVI>[Japer]<INFO>rachel,210,52,0,101,0</INFO></NAVI> about his opinion on the situation."
+			"Go and speak with <NAVI>[Japer]<INFO>rachel,210,52,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Talk to Japer"
+		Summary = "Conversation with Japer"
 	},
 	[3499] = {
-		Title = "Conversation with Shiroan",
+		Title = "Conversation with Siroan",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Let's talk to <NAVI>[Shiroan]<INFO>rachel,40,73,0,101,0</INFO></NAVI> about her opinion on the situation."
+			"Go and speak with <NAVI>[Siroan]<INFO>rachel,40,73,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Talk to Shiroan"
+		Summary = "Conversation with Siroan"
 	},
 	[3500] = {
-		Title = "Conversation with Isira",
+		Title = "Conversation with Ishira",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Let's talk to <NAVI>[Isira]<INFO>rachel,88,151,0,101,0</INFO></NAVI> about her opinion on the situation."
+			"Go and speak with <NAVI>[Ishira]<INFO>rachel,88,151,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Talk to Isira"
+		Summary = "Conversation with Ishira"
 	},
 	[3501] = {
-		Title = "Conversation with Dina",
+		Title = "Conversation with Gina",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Let's talk to <NAVI>[Dina]<INFO>rachel,240,182,0,101,0</INFO></NAVI> about her opinion on the situation."
+			"Go and speak with <NAVI>[Gina]<INFO>rachel,240,182,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Talk to Dina"
+		Summary = "Conversation with Gina"
 	},
 	[3502] = {
 		Title = "Conversation with Hari",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Let's talk to <NAVI>[Hari]<INFO>rachel,212,52,0,101,0</INFO></NAVI> about her opinion on the situation."
+			"Go and speak with <NAVI>[Hari]<INFO>rachel,212,52,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Talk to Hari"
+		Summary = "Conversation with Hari"
 	},
 	[3503] = {
-		Title = "[Daily] Opinion Gathering",
+		Title = "Reading the Atmosphere",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"You have been tasked with checking on the ^FF0000social tension between natives and immigrants^000000.",
-			"Gather opinions by talking to ^4D4DFF3 natives^000000 and ^4D4DFF3 immigrants^000000 and then report your findings to <NAVI>[Junok]<INFO>rachel,155,236,0,101,0</INFO></NAVI>.",
-			""
+			"After speaking with 3 natives and 3 settlers to assess the situation, return to <NAVI>[Junok]<INFO>rachel,155,236,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Gather 6 Opinions"
+		Summary = "Conversation with 6 people"
 	},
 	[3504] = {
-		Title = "[Cooldown] Opinion Gathering",
+		Title = "Reading the Atmosphere - Waiting",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"This daily quest can be completed again when the cooldown expires.",
-			"Quest can be accepted by talking to <NAVI>[Junok]<INFO>rachel,155,236,0,101,0</INFO></NAVI>.",
-			""
+			"This quest is a daily quest and can be accepted again after the waiting time has expired. You can accept the quest through <NAVI>[Junok]<INFO>rachel,155,236,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Reset at 4 AM",
+		Summary = "Resets at 04:00",
 		CoolTimeQuest = 1
 	},
 	[3505] = {
-		Title = "Completed Opinion Gathering",
+		Title = "Report to Junok",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"We have enough opinions regarding the situation between natives and immigrants.",
-			"Let's report our finding to <NAVI>[Junok]<INFO>rachel,155,236,0,101,0</INFO></NAVI>.",
-			""
+			"Now that all conversations are complete, return to <NAVI>[Junok]<INFO>rachel,155,236,0,101,0</INFO></NAVI> and report."
 		},
 		Summary = "Report to Junok"
 	},
@@ -14243,10 +14237,10 @@ QuestInfoList = {
 		Summary = "Talk to the Drunk Old Man"
 	},
 	[5902] = {
-		Title = "Reasons for Attraction",
+		Title = "Reasons for Curiosity",
 		IconName = "ico_jq.bmp",
 		Description = {
-			"For some reason, I feel drawn to this old man whom I just met. I should continue to talk to him to find out why."
+			"For some reason, I felt a curiosity about this old man's story. I should continue to talk to him to find out why."
 		},
 		Summary = "Talk to the Drunk Old Man"
 	},
@@ -14643,32 +14637,30 @@ QuestInfoList = {
 		Title = "Abused Child",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"I saw a child who was treated a bit too much by a man.",
-			"What on earth happened?",
-			"Let's try to talk to the child."
+			"You met a child being treated somewhat excessively by a certain man. What could have happened? Speak with the child."
 		},
-		Summary = "Talk to the child.",
+		Summary = "Speak with the child",
 		NpcSpr = "4_M_DST_CHILD"
 	},
 	[5933] = {
-		Title = "Business Plan",
+		Title = "Business Plan Presentation",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Mejai, who had an unusual way of speaking, asked you if you would be interested in joining his business.",
+			"You received a proposal from Medjay, whose manner of speech and behavior are far from ordinary, asking if you would like to join his business. If interested, visit the location indicated on the map.",
 			"",
-			"If you're interested, let's go to the place on the <NAVI>[Map]<INFO>rachel,70,135,0,101,0</INFO></NAVI> given by him."
+			"<NAVI>[Map given by Medjay]<INFO>rachel,70,135,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Go to the meeting spot",
+		Summary = "",
 		NpcSpr = "4_M_DST_CHILD",
 		NpcNavi = "rachel",
 		NpcPosX = 70,
 		NpcPosY = 135
 	},
 	[5934] = {
-		Title = "Foraging Practice (1)",
+		Title = "Gathering Training (1)",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"It seems that in order to participate in Mejai's business, you must receive training in collecting half flowers."
+			"To join Medjay's business, it seems you must undergo Half Flower gathering training. When you are ready to receive the training, speak with Medjay."
 		},
 		Summary = "",
 		NpcSpr = "4_M_DST_CHILD",
@@ -14677,48 +14669,47 @@ QuestInfoList = {
 		NpcPosY = 135
 	},
 	[5935] = {
-		Title = "Foraging Practice (2)",
+		Title = "Gathering Training (2)",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Let's collect half flowers for practice.",
-			"------------------------",
-			"How to collect half flowers based on its bloom location:",
-			"------------------------",
-			"1) Near Rocks",
-			"Angle 40/2 Leaves left/Water 50ml/Secret Powder 2g",
-			"2) On Flat Ground",
-			"Angle 30/4 Leaves left/Water 40ml/Secret Powder 4g",
-			"^0000FF3) Near Trees^000000",
-			"^0000FFAngle 20/4 Leaves left/Water 30ml/Secret Powder 6g^000000",
-			"4) Near Water",
-			"Angle 10/8 Leaves left/Water 20ml/Secret Powder 8g"
+			"Try gathering Half Flower from the practice Half Flower.",
+			"",
+			"Half Flower Gathering Method",
+			"1) When it grows near rocks",
+			"â_x0096_¶Angle 40Â°/Leaves to leave 2/Water 50ml/Secret Powder 2g",
+			"2) When it grows on flat ground",
+			"â_x0096_¶Angle 30Â°/Leaves to leave 4/Water 40ml/Secret Powder 4g",
+			"^0000FF3) When it grows near trees^000000",
+			"^0000FFâ_x0096_¶Angle 20Â°/Leaves to leave 4/Water 30ml/Secret Powder 6g^000000",
+			"4) When it grows near water",
+			"â_x0096_¶Angle 10Â°/Leaves to leave 8/Water 20ml/Secret Powder 8g"
 		},
-		Summary = "Collect Half Flower",
+		Summary = "",
 		NpcSpr = "EP18_HALFFLOWER"
 	},
 	[5936] = {
-		Title = "Foraging Practice (3)",
+		Title = "Gathering Training (3)",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Let's take the collected Half Flower to Mejai."
+			"Bring the gathered Half Flower to Medjay."
 		},
-		Summary = "Report to Mejai",
+		Summary = "",
 		NpcSpr = "4_M_DST_CHILD",
 		NpcNavi = "rachel",
 		NpcPosX = 70,
 		NpcPosY = 135
 	},
 	[5937] = {
-		Title = "[Cooldown] Half Flower Gathering",
+		Title = "[Waiting]Work of the Flower Room",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"^4D4DFFFlower Room's Company Regulations^000000",
-			"^FF0000NO EXCESSIVE WORK. IF YOU FINISHED ONE TASK, TAKE ENOUGH REST!^000000",
+			"Flower Room Regulations",
+			"Do not overwork. After finishing a task, take sufficient rest!",
 			"",
-			"It seems you can go to work again once the cooldown expires.",
-			"Talk to <NAVI>[President Mejai]<INFO>rachel,70,135,0,101,0</INFO></NAVI> when you're ready to work again."
+			"If you want the next task after the waiting time,",
+			"visit <NAVI>[President Medjay]<INFO>rachel,70,135,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Reset after 20 hours",
+		Summary = "Resets at 04:00",
 		CoolTimeQuest = 1,
 		NpcSpr = "4_M_DST_CHILD",
 		NpcNavi = "rachel",
@@ -14726,89 +14717,85 @@ QuestInfoList = {
 		NpcPosY = 135
 	},
 	[5938] = {
-		Title = "[Daily] Half Flower Gathering",
+		Title = "Half Flower Gathering",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Half Flower Gathering Bag",
-			"The bag contains scissors, a small cylinder, Mejai's secret powder, some water, and a piece of paper with detailed instructions on how to collect them.",
-			"Collect the flower according to the instruction and bring it to <NAVI>[President Mejai]<INFO>rachel,70,135,0,101,0</INFO></NAVI> before it withers.",
-			"------------------------",
-			"How to collect half flowers based on its bloom location:",
-			"------------------------",
-			"^0000FF1) Near Rocks^000000",
-			"^0000FFAngle 40/2 Leaves left/Water 50ml/Secret Powder 2g^000000",
-			"2) On Flat Ground",
-			"Angle 30/4 Leaves left/Water 40ml/Secret Powder 4g",
-			"3) Near Trees",
-			"Angle 20/4 Leaves left/Water 30ml/Secret Powder 6g",
-			"4) Near Water",
-			"Angle 10/8 Leaves left/Water 20ml/Secret Powder 8g"
+			"The bag contains floral scissors, a small cylinder, Medjay's secret powder, some water, and a paper detailing the gathering method.",
+			"After gathering Half Flower, bring it to <NAVI>[President Medjay]<INFO>rachel,70,135,0,101,0</INFO></NAVI> before it withers and disappears.",
+			"",
+			"Half Flower Gathering Method",
+			"^0000FF1) When it grows near rocks^000000",
+			"^0000FFâ_x0096_¶Angle 40Â°/Leaves to leave 2/Water 50ml/Secret Powder 2g^000000",
+			"2) When it grows on flat ground",
+			"â_x0096_¶Angle 30Â°/Leaves to leave 4/Water 40ml/Secret Powder 4g",
+			"3) When it grows near trees",
+			"â_x0096_¶Angle 20Â°/Leaves to leave 4/Water 30ml/Secret Powder 6g",
+			"4) When it grows near water",
+			"â_x0096_¶Angle 10Â°/Leaves to leave 8/Water 20ml/Secret Powder 8g"
 		},
 		Summary = "",
 		NpcSpr = "EP18_HALFFLOWER"
 	},
 	[5939] = {
-		Title = "[Daily] Half Flower Gathering",
+		Title = "Half Flower Gathering",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Half Flower Gathering Bag",
-			"The bag contains scissors, a small cylinder, Mejai's secret powder, some water, and a piece of paper with detailed instructions on how to collect them.",
-			"Collect the flower according to the instruction and bring it to <NAVI>[President Mejai]<INFO>rachel,70,135,0,101,0</INFO></NAVI> before it withers.",
-			"------------------------",
-			"How to collect half flowers based on its bloom location:",
-			"------------------------",
-			"1) Near Rocks",
-			"Angle 40/2 Leaves left/Water 50ml/Secret Powder 2g",
-			"^0000FF2) On Flat Ground^000000",
-			"^0000FFAngle 30/4 Leaves left/Water 40ml/Secret Powder 4g^000000",
-			"3) Near Trees",
-			"Angle 20/4 Leaves left/Water 30ml/Secret Powder 6g",
-			"4) Near Water",
-			"Angle 10/8 Leaves left/Water 20ml/Secret Powder 8g"
+			"The bag contains floral scissors, a small cylinder, Medjay's secret powder, some water, and a paper detailing the gathering method.",
+			"After gathering Half Flower, bring it to <NAVI>[President Medjay]<INFO>rachel,70,135,0,101,0</INFO></NAVI> before it withers and disappears.",
+			"",
+			"Half Flower Gathering Method",
+			"1) When it grows near rocks",
+			"â_x0096_¶Angle 40Â°/Leaves to leave 2/Water 50ml/Secret Powder 2g",
+			"^0000FF2) When it grows on flat ground^000000",
+			"^0000FFâ_x0096_¶Angle 30Â°/Leaves to leave 4/Water 40ml/Secret Powder 4g^000000",
+			"3) When it grows near trees",
+			"â_x0096_¶Angle 20Â°/Leaves to leave 4/Water 30ml/Secret Powder 6g",
+			"4) When it grows near water",
+			"â_x0096_¶Angle 10Â°/Leaves to leave 8/Water 20ml/Secret Powder 8g"
 		},
 		Summary = "",
 		NpcSpr = "EP18_HALFFLOWER"
 	},
 	[5940] = {
-		Title = "[Daily] Half Flower Gathering",
+		Title = "Half Flower Gathering",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Half Flower Gathering Bag",
-			"The bag contains scissors, a small cylinder, Mejai's secret powder, some water, and a piece of paper with detailed instructions on how to collect them.",
-			"Collect the flower according to the instruction and bring it to <NAVI>[President Mejai]<INFO>rachel,70,135,0,101,0</INFO></NAVI> before it withers.",
-			"------------------------",
-			"How to collect half flowers based on its bloom location:",
-			"------------------------",
-			"1) Near Rocks",
-			"Angle 40/2 Leaves left/Water 50ml/Secret Powder 2g",
-			"2) On Flat Ground",
-			"Angle 30/4 Leaves left/Water 40ml/Secret Powder 4g",
-			"^0000FF3) Near Trees^000000",
-			"^0000FFAngle 20/4 Leaves left/Water 30ml/Secret Powder 6g^000000",
-			"4) Near Water",
-			"Angle 10/8 Leaves left/Water 20ml/Secret Powder 8g"
+			"The bag contains floral scissors, a small cylinder, Medjay's secret powder, some water, and a paper detailing the gathering method.",
+			"After gathering Half Flower, bring it to <NAVI>[President Medjay]<INFO>rachel,70,135,0,101,0</INFO></NAVI> before it withers and disappears.",
+			"",
+			"Half Flower Gathering Method",
+			"1) When it grows near rocks",
+			"â_x0096_¶Angle 40Â°/Leaves to leave 2/Water 50ml/Secret Powder 2g",
+			"2) When it grows on flat ground",
+			"â_x0096_¶Angle 30Â°/Leaves to leave 4/Water 40ml/Secret Powder 4g",
+			"^0000FF3) When it grows near trees^000000",
+			"^0000FFâ_x0096_¶Angle 20Â°/Leaves to leave 4/Water 30ml/Secret Powder 6g^000000",
+			"4) When it grows near water",
+			"â_x0096_¶Angle 10Â°/Leaves to leave 8/Water 20ml/Secret Powder 8g"
 		},
 		Summary = "",
 		NpcSpr = "EP18_HALFFLOWER"
 	},
 	[5941] = {
-		Title = "[Daily] Half Flower Gathering",
+		Title = "Half Flower Gathering",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Half Flower Gathering Bag",
-			"The bag contains scissors, a small cylinder, Mejai's secret powder, some water, and a piece of paper with detailed instructions on how to collect them.",
-			"Collect the flower according to the instruction and bring it to <NAVI>[President Mejai]<INFO>rachel,70,135,0,101,0</INFO></NAVI> before it withers.",
-			"------------------------",
-			"How to collect half flowers based on its bloom location:",
-			"------------------------",
-			"1) Near Rocks",
-			"Angle 40/2 Leaves left/Water 50ml/Secret Powder 2g",
-			"2) On Flat Ground",
-			"Angle 30/4 Leaves left/Water 40ml/Secret Powder 4g",
-			"3) Near Trees",
-			"Angle 20/4 Leaves left/Water 30ml/Secret Powder 6g",
-			"^0000FF4) Near Water^000000",
-			"^0000FFAngle 10/8 Leaves left/Water 20ml/Secret Powder 8g^000000"
+			"The bag contains floral scissors, a small cylinder, Medjay's secret powder, some water, and a paper detailing the gathering method.",
+			"After gathering Half Flower, bring it to <NAVI>[President Medjay]<INFO>rachel,70,135,0,101,0</INFO></NAVI> before it withers and disappears.",
+			"",
+			"Half Flower Gathering Method",
+			"1) When it grows near rocks",
+			"â_x0096_¶Angle 40Â°/Leaves to leave 2/Water 50ml/Secret Powder 2g",
+			"2) When it grows on flat ground",
+			"â_x0096_¶Angle 30Â°/Leaves to leave 4/Water 40ml/Secret Powder 4g",
+			"3) When it grows near trees",
+			"â_x0096_¶Angle 20Â°/Leaves to leave 4/Water 30ml/Secret Powder 6g",
+			"^0000FF4) When it grows near water^000000",
+			"^0000FFâ_x0096_¶Angle 10Â°/Leaves to leave 8/Water 20ml/Secret Powder 8g^000000"
 		},
 		Summary = "",
 		NpcSpr = "EP18_HALFFLOWER"
@@ -14817,15 +14804,15 @@ QuestInfoList = {
 		Title = "Flower Room Opening Ceremony",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"You attended the flower room opening ceremony."
+			"You attended the Flower Room opening ceremony."
 		},
 		Summary = ""
 	},
 	[5943] = {
-		Title = "Flower Room Delivery Service",
+		Title = "Delivery Service Launch",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Flower Room has started a delivery service."
+			"The Flower Room has started its delivery service."
 		},
 		Summary = ""
 	},
@@ -14833,67 +14820,57 @@ QuestInfoList = {
 		Title = "Flower Delivery Service",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Please deliver the flowers based on the information provided by the client.",
-			"Don't forget to receive the delivery confirmation after delivery.",
-			"------------------------",
-			"Today, I ask you to deliver flowers to the girl I met on the <NAVI>[Stairs to the Temple]<INFO>rachel,150,192,0,101,0</INFO></NAVI>.",
-			"Her name might be ^0000FFMully^000000 or ^0000FFMolly^000000, I don't remember very well. We couldn't talk much, but she was a girl with really pretty eyes."
+			"Deliver flowers based on the details written by the client. Do not forget to bring back the delivery receipt after delivery.",
+			"",
+			"Today, deliver flowers to the young lady you met at <NAVI>[Stairs leading to the temple]<INFO>rachel,150,192,0,101,0</INFO></NAVI>. Her name is probably ^0000FFMulli^000000 or ^0000FFMolly^000000. I cannot quite remember. We did not talk much, but she had very beautiful eyes. Anyway, I told her I would send flowers, so I am counting on you."
 		},
-		Summary = "Deliver the Flower"
+		Summary = ""
 	},
 	[5945] = {
 		Title = "Flower Delivery Service",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Please deliver the flowers based on the information provided by the client.",
-			"Don't forget to receive the delivery confirmation after delivery.",
-			"------------------------",
-			"Today, I ask you to deliver flowers to the girl I met on the <NAVI>[North of Veins Village]<INFO>veins,218,354,0,101,0</INFO></NAVI>.",
-			"Her name might be ^0000FFMartha^000000? ^0000FFMasha^000000? it's difficult to pronounce. She's wearing an exotic outfit that doesn't match Veins, so it won't be hard to find her."
+			"Deliver flowers based on the details written by the client. Do not forget to bring back the delivery receipt after delivery.",
+			"",
+			"Today, deliver flowers to the young lady you met at <NAVI>[North of Veins Town]<INFO>veins,218,354,0,101,0</INFO></NAVI>. Her name was ^0000FFMasa^000000? ^0000FFMasha^000000? It was a name with a difficult pronunciation. She wore exotic clothing that did not match Veins, so she should not be hard to find. Anyway, I told her I would send flowers, so I am counting on you."
 		},
-		Summary = "Deliver the Flower"
+		Summary = ""
 	},
 	[5946] = {
 		Title = "Flower Delivery Service",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Please deliver the flowers based on the information provided by the client.",
-			"Don't forget to receive the delivery confirmation after delivery.",
-			"------------------------",
-			"Today, I ask you to deliver flowers to the girl I met on the <NAVI>[Rachel Weapon Shop]<INFO>rachel,42,87,0,101,0</INFO></NAVI>.",
-			"^0000FFTilling^000000? ^0000FFTelling^000000? No, I think it was ^0000FFTeilling^000000? This girl looks great with yellow hair."
+			"Deliver flowers based on the details written by the client. Do not forget to bring back the delivery receipt after delivery.",
+			"",
+			"Today, deliver flowers to the young lady you met at <NAVI>[Rachel Weapon Shop]<INFO>rachel,42,87,0,101,0</INFO></NAVI>. ^0000FFTilling^000000? ^0000FFTelling^000000? Or was it ^0000FFTailing^000000? She was a young lady whose yellow hair suited her very well. I already told her I would send flowers, so I am counting on you."
 		},
-		Summary = "Deliver the Flower"
+		Summary = ""
 	},
 	[5947] = {
 		Title = "Flower Delivery Service",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Please deliver the flowers based on the information provided by the client.",
-			"Don't forget to receive the delivery confirmation after delivery.",
-			"------------------------",
-			"Today, I ask you to deliver flowers to the girl I met on the <NAVI>[Gray Wolf Village]<INFO>wolfvill,269,29,0,101,0</INFO></NAVI>.",
-			"^0000FFSyeil^000000? ^0000FFSeil^000000? She was a girl with a name that made you think you needed to buy something quickly."
+			"Deliver flowers based on the details written by the client. Do not forget to bring back the delivery receipt after delivery.",
+			"",
+			"Today, deliver flowers to the young lady who left Rachel, where she worked, and returned to her hometown <NAVI>[Gray Wolf Village]<INFO>wolfvill,269,29,0,101,0</INFO></NAVI>. ^0000FFSheil^000000? ^0000FFSeil^000000? She had a name that sounded like you should buy something quickly. It has been a long time since I have seen her face, and I miss her. Heh, she will be pleased if I say I sent flowers. I am counting on you."
 		},
-		Summary = "Deliver the Flower"
+		Summary = ""
 	},
 	[5948] = {
-		Title = "Delivery Confirmation",
+		Title = "Delivery Receipt",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"I received a confirmation that the half flower was delivered and received.",
-			"Show the receipt to <NAVI>[President Mejai]<INFO>rachel,70,135,0,101,0</INFO></NAVI> and claim your reward."
+			"You received a receipt confirming the delivery of Half Flower. Show this certificate to <NAVI>[President Medjay]<INFO>rachel,70,135,0,101,0</INFO></NAVI> and receive your reward."
 		},
-		Summary = "Show the receipt to Mejai"
+		Summary = ""
 	},
 	[5949] = {
-		Title = "Delivery Confirmation",
+		Title = "Delivery Receipt",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"I received a confirmation that the half flower was delivered and received.",
-			"Show the receipt to <NAVI>[President Mejai]<INFO>rachel,70,135,0,101,0</INFO></NAVI> and claim your reward."
+			"You received a receipt confirming the delivery of Half Flower. Show this certificate to <NAVI>[President Medjay]<INFO>rachel,70,135,0,101,0</INFO></NAVI> and receive your reward."
 		},
-		Summary = "Show the receipt to Mejai"
+		Summary = ""
 	},
 	[5950] = {
 		Title = "Hyper Novice",
@@ -23936,7 +23913,7 @@ QuestInfoList = {
 		Title = "Source of Stench",
 		IconName = "ico_jq.bmp",
 		Description = {
-			"To address the problem at Verus's <NAVI>[dump site]<INFO>verus04,28,115,0,101,0</INFO></NAVI>, I need 20 <ITEM>[Black Cloths]<INFO>7205</INFO></ITEM> ,1 <ITEM>[Needle Packet]<INFO>7213</INFO></ITEM> ,10 <ITEM>[Black_Charcoal]<INFO>6251</INFO></ITEM>.",
+			"To address the problem at Verus's <NAVI>[dump site]<INFO>verus04,28,115,0,101,0</INFO></NAVI>, I need 20 <ITEM>[Pieces of Black Cloth]<INFO>7205</INFO></ITEM> ,1 <ITEM>[Needle Packet]<INFO>7213</INFO></ITEM> ,10 <ITEM>[Black_Charcoal]<INFO>6251</INFO></ITEM>.",
 			"I saw the <NAVI>[Alchemist Job Change Center]<INFO>alde_alche,38,184,0,101,0</INFO></NAVI> selling Black Charcoals."
 		},
 		Summary = "To Verus with the required materials"
@@ -23945,7 +23922,7 @@ QuestInfoList = {
 		Title = "Search the Dump Site",
 		IconName = "ico_jq.bmp",
 		Description = {
-			"As a highly technical adventurer, I'm doing the public a service by searching a <NAVI>[dump site]<INFO>verus04,28,115,0,101,0</INFO></NAVI> like this."
+			"As a highly qualified adventurer, I'm doing the public a service by searching a <NAVI>[dump site]<INFO>verus04,28,115,0,101,0</INFO></NAVI> like this."
 		},
 		Summary = "Investigate the Verus's dump site"
 	},
@@ -23961,7 +23938,7 @@ QuestInfoList = {
 		Title = "Aldina's New Request (1)",
 		IconName = "ico_jq.bmp",
 		Description = {
-			"Aldina frowned at the box, and then started creating a document to fulfill her duty as a governmental official."
+			"Aldina frowned at the box, and then started writing a document to fulfill her duty as a governmental official."
 		},
 		Summary = "Talk to Aldina"
 	},
@@ -24001,7 +23978,7 @@ QuestInfoList = {
 		Title = "Plant Design",
 		IconName = "ico_jq.bmp",
 		Description = {
-			"<NAVI>[Gregor]<INFO>job4_bio,31,30,0,101,0</INFO></NAVI> asks me to get 1 <ITEM>[Dead Branch]<INFO>604</INFO></ITEM>, 10 <ITEM>[Tangled Chains]<INFO>7221</INFO></ITEM>, 10 <ITEM>[Coral Reef]<INFO>7013</INFO></ITEM> , 10 <ITEM>[Beautiful Flower]<INFO>6511</INFO></ITEM>, among other things, and refer to the books in his lab to make what I need."
+			"<NAVI>[Gregor]<INFO>job4_bio,31,30,0,101,0</INFO></NAVI> asks me to get 1 <ITEM>[Dead Branch]<INFO>604</INFO></ITEM>, 10 <ITEM>[Tangled Chains]<INFO>7221</INFO></ITEM>, 10 <ITEM>[Coral Reefs]<INFO>7013</INFO></ITEM> , 10 <ITEM>[Beautiful Flower]<INFO>6511</INFO></ITEM>, among other things, and refer to the books in his lab to make what I need."
 		},
 		Summary = "Collect required materials and perform your task"
 	},
@@ -24009,7 +23986,7 @@ QuestInfoList = {
 		Title = "Plant Design",
 		IconName = "ico_jq.bmp",
 		Description = {
-			"<NAVI>[Gregor]<INFO>job4_bio,31,30,0,101,0</INFO></NAVI> asks me to get 10 <ITEM>[Elder Twigs]<INFO>7939</INFO></ITEM> , 10 <ITEM>[Tangled Chains]<INFO>7221</INFO></ITEM> , 10 <ITEM>[Coral Reef]<INFO>7013</INFO></ITEM> , 1 <ITEM>[Mysterious Flower]<INFO>6509</INFO></ITEM>, among other things, and refer to the books in his lab to make what I need."
+			"<NAVI>[Gregor]<INFO>job4_bio,31,30,0,101,0</INFO></NAVI> asks me to get 10 <ITEM>[Elder Branches]<INFO>7939</INFO></ITEM> , 10 <ITEM>[Tangled Chains]<INFO>7221</INFO></ITEM> , 10 <ITEM>[Coral Reefs]<INFO>7013</INFO></ITEM> , 1 <ITEM>[Mysterious Flower]<INFO>6509</INFO></ITEM>, among other things, and refer to the books in his lab to make what I need."
 		},
 		Summary = "Collect required materials and perform your task"
 	},
@@ -24017,7 +23994,7 @@ QuestInfoList = {
 		Title = "Plant Design",
 		IconName = "ico_jq.bmp",
 		Description = {
-			"<NAVI>[Gregor]<INFO>job4_bio,31,30,0,101,0</INFO></NAVI> asks me to get 10 <ITEM>[Shoots]<INFO>711</INFO></ITEM>,  10 <ITEM>[Tangled Chains]<INFO>7221</INFO></ITEM>, 10 <ITEM>[Coral Reef]<INFO>7013</INFO></ITEM>, 10 <ITEM>[Elegant Flower]<INFO>6510</INFO></ITEM>, among other things, and refer to the books in his lab to make what I need."
+			"<NAVI>[Gregor]<INFO>job4_bio,31,30,0,101,0</INFO></NAVI> asks me to get 10 <ITEM>[Shoots]<INFO>711</INFO></ITEM>,  10 <ITEM>[Tangled Chains]<INFO>7221</INFO></ITEM>, 10 <ITEM>[Coral Reef]<INFO>7013</INFO></ITEM>, 10 <ITEM>[Elegant Flowers]<INFO>6510</INFO></ITEM>, among other things, and refer to the books in his lab to make what I need."
 		},
 		Summary = "Collect required materials and perform your task"
 	},
@@ -24489,314 +24466,296 @@ QuestInfoList = {
 		Summary = ""
 	},
 	[8681] = {
-		Title = "Towards Rachel (1)",
+		Title = "To the Holy See (1)",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"The automatons at Varmund Mansion finally confirmed the identity of the signal that had arrived.",
-			"It comes from <NAVI>[Rachel]<INFO>rachel,182,176,0,101,0</INFO></NAVI>, and it looks like we'll have to move quickly."
+			"The automata of Varmundt Estate have finally identified the source of the signal that arrived. The origin is <NAVI>[Rachel]<INFO>rachel,182,176,0,101,0</INFO></NAVI>, and it seems necessary to move quickly."
 		},
-		Summary = "Go to Rachel"
+		Summary = "Move to Rachel"
 	},
 	[8682] = {
-		Title = "Towards Rachel (2)",
+		Title = "To the Holy See (2)",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"It seems the situation of Rachel is not looking good. As they were listening to a public discussion, a fight broke out among the people. However, a <NAVI>[Person]<INFO>rachel,183,170,0,101,0</INFO></NAVI> stood out."
+			"Rachel feels far more hostile than the last time you visited. While listening to someone giving a speech, a fight breaks out among the crowd, and <NAVI>[A person]<INFO>rachel,183,170,0,101,0</INFO></NAVI> stands out."
 		},
-		Summary = "Talk to the Priest"
+		Summary = "Speak with Priest"
 	},
 	[8683] = {
-		Title = "Heated Argument",
+		Title = "Please stop the fight",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"The nervous priest asks to stop the fight, but what should we do?"
+			"The anxious Priest asks you to stop the fight, but how should you proceed?"
 		},
-		Summary = "Talk to the Priest"
+		Summary = "Speak with Priest"
 	},
 	[8684] = {
-		Title = "State of Conflict",
+		Title = "It has been settled, but",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Priest Junok, who could not hide his nervousness the whole time, said he would tell me about the current situation of Arunafeltz.",
-			"He asks you to meet him <NAVI>[in front of the Temple]<INFO>ra_temple,72,54,0,101,0</INFO></NAVI>."
+			"The ever-anxious Priest Junok says he will tell you about the current state of Arunafeltz and asks to meet at <NAVI>[In front of the temple]<INFO>ra_temple,72,54,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Go to the Temple"
+		Summary = "Move to the temple"
 	},
 	[8685] = {
-		Title = "Suspicious Movement",
+		Title = "Suspicious movement detected at the temple",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"As soon as Priest Junok and the security guards heard the disturbing news that an intruder had recently appeared in Cheshrumnir, word came that a suspicious movement had appeared in <NAVI>[the west side of the temple]<INFO>ra_temple,30,142,0,101,0</INFO></NAVI>."
+			"As soon as you hear unsettling news from Priest Junok and a guard that intruders have recently appeared in Sesrumnir, a report arrives that a suspicious person has appeared at <NAVI>[West of the temple]<INFO>ra_temple,30,142,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Follow the Guards"
+		Summary = "Follow the guard"
 	},
 	[8686] = {
-		Title = "Intruder of the Temple",
+		Title = "Intruders in the temple",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Their identity, which I had seen somewhere before, was Heart Hunter.",
-			"I don't think I've heard any news yet that those who invaded the mansion were vanquished."
+			"The ones who seemed familiar turned out to be Heart Hunters. It seems they have not yet heard that those who stormed the estate were annihilated."
 		},
-		Summary = "Talk to the Priest"
+		Summary = "Speak with Priest"
 	},
 	[8687] = {
-		Title = "Staged Plot",
+		Title = "You crushed them?",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Strangely, the power of the heart hunters is weak. A moment like a staged play ends without a hint of suspiciousness.",
-			"The security guard who seems to know who this side is tells him to go see <NAVI>[High Priestess Niren]<INFO>ra_temin,173,40,0,101,0</INFO></NAVI>."
+			"For some reason, the Heart Hunters seem weak. The encounter ends abruptly like a staged act, and the guard, who seems to know who you are, tells you to go meet <NAVI>[Niren]<INFO>ra_temin,173,40,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Talk to Niren"
+		Summary = "Speak with Niren"
 	},
 	[8688] = {
-		Title = "Today's Daily Bread",
+		Title = "Our Daily Bread",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"<NAVI>[Eruin]<INFO>wolfvill,202,166,0,101,0</INFO></NAVI> asks you to check the traps he set and collect 5 of them."
+			"Eruin of Gray Wolf Village asks you to check the traps he set and collect 5 caught items."
 		},
-		Summary = "Retrieve 5 items from the trap"
+		Summary = "Collect 5 trapped items"
 	},
 	[8689] = {
-		Title = "[Cooldown] Today's Daily Bread",
+		Title = "Our Daily Bread - Waiting",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Eruin]<INFO>wolfvill,202,166,0,101,0</INFO></NAVI> is expecting you to help with the trap work tomorrow as well."
+			"<NAVI>[Eruin]<INFO>wolfvill,202,166,0,101,0</INFO></NAVI> seems to want your help again tomorrow."
 		},
-		Summary = "Reset after 20 hours",
+		Summary = "Resets at 04:00",
 		CoolTimeQuest = 1
 	},
 	[8690] = {
-		Title = "[Daily] Today's Daily Bread",
+		Title = "Our Daily Bread",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Eruin]<INFO>wolfvill,202,166,0,101,0</INFO></NAVI> asks you to check the traps he set and collect 5 of them."
+			"Eruin of Gray Wolf Village asks you to check the traps he set and collect 5 caught items."
 		},
-		Summary = "Retrieve 5 items from the trap"
+		Summary = "Collect 5 trapped items"
 	},
 	[8691] = {
-		Title = "Water Purification (1)",
+		Title = "Relic for Essence (1)",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Budan of Gray Wolf Village asks you to buy a Water Filter in Rachel.",
-			"Let's go to Rachel and find the <NAVI>[Trader]<INFO>rachel,103,141,0,101,0</INFO></NAVI>."
+			"Budan of Gray Wolf Village asks you to buy drinking water Relic for Essence from Rachel. It seems fresh supplies are needed. Visit <NAVI>[Relic Vendor]<INFO>rachel,103,141,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Buy a Water Filter"
+		Summary = "Purchase Relic for Essence"
 	},
 	[8692] = {
-		Title = "Water Purification (2)",
+		Title = "Relic for Essence (2)",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"You purchased a Water Filter from the trader.",
-			"Now you can get clean water by bringing it to the <NAVI>[Water Bucket]<INFO>wolfvill,104,234,0,101,0</INFO></NAVI> in Gray Wolf Village."
+			"You purchased Relic for Essence. If you place it into the <NAVI>[Water Container]<INFO>wolfvill,104,234,0,101,0</INFO></NAVI> in Gray Wolf Village, you can obtain clean water."
 		},
-		Summary = "Put the Filter into Water Bucket"
+		Summary = "Place Relic for Essence into the container"
 	},
 	[8693] = {
-		Title = "Water Purification (3)",
+		Title = "Relic for Essence (3)",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"You got the Bucket of Purified Water.",
-			"Bring it to <NAVI>[Budan]<INFO>wolfvill,103,230,0,101,0</INFO></NAVI> to receive your reward."
+			"Bring the bucket of water to <NAVI>[Budan]<INFO>wolfvill,103,230,0,101,0</INFO></NAVI> to complete the task."
 		},
-		Summary = "Talk to Budan"
+		Summary = "Speak with Budan"
 	},
 	[8694] = {
-		Title = "[Cooldown] Water Purification",
+		Title = "Supplying Clean Water - Waiting",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Budan]<INFO>wolfvill,103,230,0,101,0</INFO></NAVI> is expecting you to help him get some water again tomorrow."
+			"<NAVI>[Budan]<INFO>wolfvill,103,230,0,101,0</INFO></NAVI> seems to want your help again tomorrow."
 		},
-		Summary = "Reset after 20 hours",
+		Summary = "Resets at 04:00",
 		CoolTimeQuest = 1
 	},
 	[8695] = {
-		Title = "[Daily] Water Purification (1)",
+		Title = "Supplying Clean Water (1)",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Budan of Gray Wolf Village asks you to buy a Water Filter in Rachel.",
-			"Let's go to Rachel and find the <NAVI>[Trader]<INFO>rachel,103,141,0,101,0</INFO></NAVI>."
+			"Budan of Gray Wolf Village asks you to buy drinking water Relic for Essence from Rachel. It seems fresh supplies are needed. Visit <NAVI>[Relic Vendor]<INFO>rachel,103,141,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Buy a Water Filter"
+		Summary = "Purchase Relic for Essence"
 	},
 	[8696] = {
-		Title = "[Daily] Water Purification (2)",
+		Title = "Supplying Clean Water (2)",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"You purchased a Water Filter from the trader.",
-			"Now you can get clean water by bringing it to the <NAVI>[Water Bucket]<INFO>wolfvill,104,234,0,101,0</INFO></NAVI> in Gray Wolf Village."
+			"You purchased Relic for Essence. If you place it into the <NAVI>[Water Container]<INFO>wolfvill,104,234,0,101,0</INFO></NAVI> in Gray Wolf Village, you can obtain clean water."
 		},
-		Summary = "Put the Filter into Water Bucket"
+		Summary = "Place Relic for Essence into the container"
 	},
 	[8697] = {
-		Title = "[Daily] Water Purification (3)",
+		Title = "Supplying Clean Water (3)",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"You got the Bucket of Purified Water.",
-			"Bring it to <NAVI>[Budan]<INFO>wolfvill,103,230,0,101,0</INFO></NAVI> to receive your reward."
+			"Bring the bucket of water to <NAVI>[Budan]<INFO>wolfvill,103,230,0,101,0</INFO></NAVI> to complete the task."
 		},
-		Summary = "Talk to Budan"
+		Summary = "Speak with Budan"
 	},
 	[8698] = {
-		Title = "Horim's Bizarre Adventure (1)",
+		Title = "A Belated Migration",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Horim, an employee she met at Rachel's hotel, wants to go to Gray Wolf Village.",
-			"He agreed to meet at <NAVI>[West Rachel]<INFO>ra_fild11,358,229,0,101,0</INFO></NAVI> after the work."
+			"Employee Horim, whom you met at the hotel in Rachel, wishes to go to Gray Wolf Village. To help him, you agreed to meet at <NAVI>[Outside the West Gate of Rachel]<INFO>ra_fild11,358,229,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Meet with Horim"
+		Summary = "Speak with Horim"
 	},
 	[8699] = {
-		Title = "Horim's Bizarre Adventure (2)",
+		Title = "The First Step Out of the City",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Horim said he has never felt a sense of belonging anywhere he has lived his entire life.",
-			"We must <NAVI>[guide]<INFO>ra_fild10,375,293,0,101,0</INFO></NAVI> him who is still hesitant."
+			"Horim said he never felt a sense of belonging where he lived his entire life. You must guide him, who still hesitates, to <NAVI>[Guide]<INFO>ra_fild10,375,293,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Talk to Horim"
+		Summary = "Speak with Horim"
 	},
 	[8700] = {
-		Title = "Horim's Bizarre Adventure (3)",
+		Title = "Not Even Halfway There",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Horim seems to be acting harshly, it might be because it's his first time going out of the city.",
-			"Since I have stamina, let's continue <NAVI>[guide]<INFO>oz_dun01,285,170,0,101,0</INFO></NAVI> him."
+			"Horim seems to be complaining, but it is likely just because it is his first time on this path. Since he has stamina and follows more easily than expected, you can continue to <NAVI>[Guide]<INFO>oz_dun01,285,170,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Talk to Horim"
+		Summary = "Speak with Horim"
 	},
 	[8701] = {
-		Title = "Horim's Bizarre Adventure (4)",
+		Title = "An Unfamiliar Landscape",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Horim, overwhelmed by Mother Nature, asks what the gray wolf forest is like. But perhaps the story Horim heard and reality are not much different.",
-			"Let's continue <NAVI>[guide]<INFO>gw_fild01,275,338,0,101,0</INFO></NAVI> him."
+			"Overwhelmed by nature, Horim asks what Gray Wolf Forest looks like. However, it will likely not differ much from what he has heard. Horim urges you to <NAVI>[Guide]<INFO>gw_fild01,275,338,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Talk to Horim"
+		Summary = "Speak with Horim"
 	},
 	[8702] = {
-		Title = "Horim's Bizarre Adventure (5)",
+		Title = "The Smell of Volcanic Ash",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"It seems that careless people have been spreading confidential information from the military base here and there.",
-			"Anyway, you know that this place is dangerous. Let's continue <NAVI>[guide]<INFO>gw_fild01,38,99,0,101,0</INFO></NAVI> Horim."
+			"It seems careless individuals have been spreading confidential information from the military base. In any case, even if the location can be determined by smell, this place is dangerous. You must proceed to <NAVI>[Guide]<INFO>gw_fild01,38,99,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Talk to Horim"
+		Summary = "Speak with Horim"
 	},
 	[8703] = {
-		Title = "Horim's Bizarre Adventure (6)",
+		Title = "A Leisurely Journey",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Horim says he needs a place to return to. Does that mean that to him, home has never been a place he wants to return to?",
-			"He cannot sit for long. Let's <NAVI>[guide]<INFO>wolfvill,266,26,0,101,0</INFO></NAVI> him."
+			"Horim says he needs a place to return to. Has home never been such a place for him until now? You cannot sit for long. Continue to <NAVI>[Guide]<INFO>wolfvill,266,26,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Talk to Horim"
+		Summary = "Speak with Horim"
 	},
 	[8704] = {
 		Title = "Temple Closure (1)",
 		Description = {
-			"The temple door was suddenly closed. Let's <NAVI>[ask around]<INFO>rachel,243,37,0,101,0</INFO></NAVI> if there is another entrance for the worried Priest Nemma."
+			"The temple gates have suddenly been closed. For the worried High Priest Nemma, investigate whether there is another entrance at <NAVI>[Inquiry]<INFO>rachel,243,37,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Let's ask around for other entrance"
+		Summary = "Find someone who knows another entrance"
 	},
 	[8705] = {
 		Title = "Temple Closure (2)",
 		Description = {
-			"It is said that there is an unlocked <NAVI>[Window]<INFO>ra_temple,67,209,0,101,0</INFO></NAVI> in the temple that can be entered secretly..."
+			"It is said that there is an unlocked <NAVI>[Window]<INFO>ra_temple,67,209,0,101,0</INFO></NAVI> through which one can secretly enter the templeâ_x0080_¦."
 		},
-		Summary = "Find the unlocked Window"
+		Summary = "Find the open window"
 	},
 	[8706] = {
 		Title = "Temple Closure (3)",
 		Description = {
-			"I succeeded in sneaking into the temple. Let's go to the <NAVI>[entrance direction]<INFO>que_rachel,59,112,0,101,0</INFO></NAVI>."
+			"You successfully entered the temple secretly. Head toward <NAVI>[Entrance Direction]<INFO>que_rachel,59,112,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Explore the Temple"
+		Summary = "Explore inside the temple"
 	},
 	[8707] = {
 		Title = "Temple Closure (4)",
 		Description = {
-			"A mumbling <NAVI>[sound]<INFO>que_rachel,94,138,0,101,0</INFO></NAVI> is heard from somewhere. Let's investigate it."
+			"You hear murmuring <NAVI>[Sound]<INFO>que_rachel,94,138,0,101,0</INFO></NAVI> from somewhere. Follow it."
 		},
-		Summary = "Go to the Hallway"
+		Summary = "Move to the corridor leading to the chapel"
 	},
 	[8708] = {
 		Title = "Temple Closure (5)",
 		Description = {
-			"A suspicious sound is heard. It seems to be coming from <NAVI>[the stairs]<INFO>que_rachel,132,70,0,101,0</INFO></NAVI>."
+			"You hear a suspicious sound. It seems to be coming from <NAVI>[Stairs]<INFO>que_rachel,132,70,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Move towards the stairs"
+		Summary = "Move toward the stairs"
 	},
 	[8709] = {
 		Title = "Temple Closure (6)",
 		Description = {
-			"<NAVI>[Sound]<INFO>que_rachel,239, 258,0,101,0</INFO></NAVI> seems to have come from the top of the stairs. Let's go upstairs."
+			"The <NAVI>[Sound]<INFO>que_rachel,239, 258,0,101,0</INFO></NAVI> seems to be coming from above the stairs. Move to the upper floor."
 		},
-		Summary = "Move up the stairs"
+		Summary = "Move via stairs Comfort"
 	},
 	[8710] = {
 		Title = "Temple Closure (7)",
 		Description = {
-			"Let's follow the direction where the <NAVI>[sound]<INFO>que_rachel,28,315,0,101,0</INFO></NAVI> came from."
+			"Follow the direction of the <NAVI>[Sound]<INFO>que_rachel,28,315,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Explore the Temple"
+		Summary = "Explore inside the temple"
 	},
 	[8711] = {
 		Title = "Temple Closure (8)",
 		Description = {
-			"What if someone shows up while I'm looking for something else?",
-			"First, let's examine the blood stains again."
+			"What if someone appears while you are searching? For now, decide to examine the bloodstains again."
 		},
-		Summary = "Investigate the blood stain"
+		Summary = "Examine the bloodstains"
 	},
 	[8712] = {
 		Title = "Temple Closure (9)",
 		Description = {
-			"I don't know what will happen if I spend any more time and run into someone.",
-			"First, let's head to <NAVI>[Door]<INFO>que_rachel,169,18,0,101,0</INFO></NAVI>."
+			"If you waste any more time and encounter someone, it may be dangerous. Head to <NAVI>[Door]<INFO>que_rachel,169,18,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Go to the temple lobby"
+		Summary = "Move to the temple lobby"
 	},
 	[8713] = {
 		Title = "Temple Closure (10)",
 		Description = {
-			"The door opened safely and I was able to get out. Let's talk to <NAVI>[Priest Nemma]<INFO>rachel,116,174,0,101,0</INFO></NAVI>."
+			"The door opened safely and you were able to get outside. Speak with <NAVI>[High Priest Nemma]<INFO>rachel,116,174,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Talk to Priest Nemma"
+		Summary = "Speak with High Priest Nemma"
 	},
 	[8714] = {
 		Title = "Temple Closure (11)",
 		Description = {
-			"I have something to ask the <NAVI>[Priest Panno]<INFO>ra_temin,170,46,0,101,0</INFO></NAVI> inside the temple."
+			"There is something to ask <NAVI>[Priest Pano]<INFO>ra_temin,170,46,0,101,0</INFO></NAVI> inside the temple."
 		},
-		Summary = "Talk to Priest Panno"
+		Summary = "Speak with Priest Pano"
 	},
 	[8715] = {
 		Title = "Temple Closure (12)",
 		Description = {
-			"I have something to ask the <NAVI>[Priest Panno]<INFO>ra_temin,170,46,0,101,0</INFO></NAVI> inside the temple."
+			"There is something to ask <NAVI>[Priest Pano]<INFO>ra_temin,170,46,0,101,0</INFO></NAVI> inside the temple."
 		},
-		Summary = "Talk to Priest Panno"
+		Summary = "Speak with Priest Pano"
 	},
 	[8716] = {
 		Title = "Temple Closure (13)",
 		Description = {
-			"Does <NAVI>[Priest Nemma]<INFO>rachel,116,174,0,101,0</INFO></NAVI> really know nothing?"
+			"<NAVI>[High Priest Nemma]<INFO>rachel,116,174,0,101,0</INFO></NAVI> truly knows nothing?"
 		},
-		Summary = "Talk to Priest Nemma"
+		Summary = "Speak with High Priest Nemma"
 	},
 	[8717] = {
 		Title = "Temple Closure (14)",
 		Description = {
-			"<NAVI>[Priest Nemma]<INFO>rachel,116,174,0,101,0</INFO></NAVI> asked me to procure 20 <ITEM>[Firecrackers]<INFO>12018</INFO></ITEM>."
+			"<NAVI>[High Priest Nemma]<INFO>rachel,116,174,0,101,0</INFO></NAVI> asked you to procure 20 <ITEM>[Fireworks]<INFO>12018</INFO></ITEM>."
 		},
-		Summary = "Bring the required item"
+		Summary = "Deliver the items"
 	},
 	[8718] = {
-		Title = "Greetings from a Friend",
+		Title = "A Friendâ_x0080__x0099_s Well-Being",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Albert of Gray Wolf Village is worried about the well-being of his friend, <NAVI>[Horim]<INFO>ra_in01,388,59,0,101,0</INFO></NAVI> who works at Rachel's hotel."
+			"Alber of Gray Wolf Village is worried about his friend <NAVI>[Horim]<INFO>ra_in01,388,59,0,101,0</INFO></NAVI>, who works at a hotel in Rachel."
 		},
-		Summary = "Talk to Horim"
+		Summary = "Speak with Horim"
 	},
 	[8719] = {
 		Title = "A new section somewhere in ant hell",
@@ -24964,6 +24923,14 @@ QuestInfoList = {
 			"Mimi and Soy, aspiring to become Wanderers, will soon.. They were informed that an outstanding Wanderer, Kim Dancer, would be performing up in front of tree <NAVI>[Tree]<INFO>xmas,132,143,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Head to the front of the tree"
+	},
+	[8859] = {
+		Title = "Recovered 5 trapped things",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Recovered the 5 trapped things."
+		},
+		Summary = "Talk with Eruin"
 	},
 	[8860] = {
 		Title = "Dr. Eggman's Secret Base",
@@ -32783,7 +32750,7 @@ QuestInfoList = {
 		Title = "Arch Mage Job Change",
 		IconName = "ico_jq.bmp",
 		Description = {
-			"Our third challenge: ^ff0000Collect 1 Shining Plant for 1 Yggdrasil Seed^000000."
+			"Our third challenge: ^FF0000Hunt 1 Shining Plant for 1 Yggdrasil Seed^000000."
 		},
 		Summary = "A Yggdrasil Seed to Maggie"
 	},
@@ -32831,7 +32798,7 @@ QuestInfoList = {
 		Title = "Elemental Master Job Change",
 		IconName = "ico_jq.bmp",
 		Description = {
-			"Elma can't investigate because of monsters. ^ff0000Hunt Magic-poisoned Dolors and Unleashed Magics, 10 each^000000."
+			"Elma can't investigate because of monsters. ^FF0000Hunt Mana Addicted Dolors and Unleashed Plasma, 10 each^000000."
 		},
 		Summary = "Hunt bothersome monsters"
 	},
@@ -32839,9 +32806,9 @@ QuestInfoList = {
 		Title = "Elemental Master Job Change",
 		IconName = "ico_jq.bmp",
 		Description = {
-			"There's no clue about greater elementals in the Magic Power Plant. ^ff0000Investigate the Barmund's Library^000000."
+			"There's no clue about greater elementals in the Magic Power Plant. ^FF0000Investigate the Varmunt's Library^000000."
 		},
-		Summary = "Investigate the Barmund's Library"
+		Summary = "Investigate the Varmunt's Library"
 	},
 	[11679] = {
 		Title = "Elemental Master Job Change",
@@ -32871,9 +32838,9 @@ QuestInfoList = {
 		Title = "Elemental Master Job Change",
 		IconName = "ico_jq.bmp",
 		Description = {
-			"Yoop asked me to summon Shez and Ivane just like I summoned him. Go where he says and summon Shez and Ivane."
+			"Yoop asked me to summon Shez and Ivein just like I summoned him. Go where he says and summon Shez and Ivein."
 		},
-		Summary = "Summon Shez and Ivane"
+		Summary = "Summon Shez and Ivein"
 	},
 	[11683] = {
 		Title = "Elemental Master Job Change",
@@ -32996,385 +32963,357 @@ QuestInfoList = {
 		}
 	},
 	[11696] = {
-		Title = "Niren's Request (1)",
+		Title = "Nirenâ_x0080__x0099_s Request",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"It seems like Dent from the security force has been having a hard time recently due to the Rachel situation.",
-			"------------------------",
-			"Let's listen to the story of <NAVI>[other guard]<INFO>ra_temin,174,38,0,101,0</INFO></NAVI>."
+			"Dent of the security guards seems to be having a hard time because of the recent situation in Rachel. Listen to what <NAVI>[Another Security Guard]<INFO>ra_temin,174,38,0,101,0</INFO></NAVI> has to say."
 		},
-		Summary = "Talk to Marshal Neil"
+		Summary = "Speak with Security Guard Nil"
 	},
 	[11697] = {
-		Title = "Niren's Request (2)",
+		Title = "Nirenâ_x0080__x0099_s Request",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Neil also says he has a lot of difficulties. The situation at the temple doesn't seem to be good either.",
-			"------------------------",
-			"Let's also listen to the story of <NAVI>[Priest Freya]<INFO>ra_temin,172,36,0,101,0</INFO></NAVI>."
+			"Nil of the security guards is also having trouble because of the residents' fights. It seems the situation at the temple is not good either, so listen to what <NAVI>[Freya Priest<INFO>ra_temin,172,36,0,101,0</INFO></NAVI> has to say as well."
 		},
-		Summary = "Talk to Priest Freya"
+		Summary = "Speak with Freya Priest"
 	},
 	[11698] = {
-		Title = "Niren's Request (3)",
+		Title = "Nirenâ_x0080__x0099_s Request",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Niren, who heard the word Heart Hunter, suggested moving the converstaion somewhere else.",
-			"------------------------",
-			"Let's talk to <NAVI>[Niren]<INFO>ra_temin,213,87,0,101,0</INFO></NAVI> in the corner of the hallway where people don't often go."
+			"Upon hearing the word Heart Hunter, Niren suggested moving to another place. Speak with <NAVI>[Niren<INFO>ra_temin,213,87,0,101,0</INFO></NAVI> again in a secluded corner of the corridor where people rarely pass."
 		},
-		Summary = "Talk to Niren"
+		Summary = "Speak with Niren"
 	},
 	[11699] = {
-		Title = "Niren's Request (4)",
+		Title = "Nirenâ_x0080__x0099_s Request",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Niren asks his son Maram to find out the situation of the residents.",
-			"------------------------",
-			"Go back to the temple entrance and ask <NAVI>[Neil]<INFO>ra_temin,174,38,0,101,0</INFO></NAVI> about the place where Maram is likely to be."
+			"Niren asks you to assess the residents' situation together with his son Maram. Return to the temple entrance and ask <NAVI>[Security Guard Nil]<INFO>ra_temin,174,38,0,101,0</INFO></NAVI> where Maram might be."
 		},
-		Summary = "Talk to Marshal Neal"
+		Summary = "Speak with Security Guard Nil"
 	},
 	[11700] = {
-		Title = "Niren's Request (5)",
+		Title = "Nirenâ_x0080__x0099_s Request",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Neil says he saw Maram near Rachel Square. Let's ask the villagers near the area about Maram's whereabouts."
+			"Nil says he saw Maram near the square in Rachel. Ask the townspeople near the central fountain in Rachel about Maram's whereabouts."
 		},
-		Summary = "Talk to the Villager"
+		Summary = "Speak with townspeople in the square"
 	},
 	[11701] = {
-		Title = "Niren's Request (6)",
+		Title = "Nirenâ_x0080__x0099_s Request",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"The villager said that they didn't know where Maram was. Let's talk to other villager."
+			"You did not obtain the information you needed. Ask the townspeople near the central fountain in Rachel about Maram's whereabouts."
 		},
-		Summary = "Talk to other Villager"
+		Summary = "Speak with townspeople in the square"
 	},
 	[11702] = {
-		Title = "Niren's Request (7)",
+		Title = "Nirenâ_x0080__x0099_s Request",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"The villager said that they didn't know where Maram was. Let's talk to other villager."
+			"You did not obtain the information you needed. Ask the townspeople near the shopping district in Rachel about Maram's whereabouts."
 		},
-		Summary = "Talk to other Villager"
+		Summary = "Speak with townspeople in the square"
 	},
 	[11703] = {
-		Title = "Niren's Request (8)",
+		Title = "Nirenâ_x0080__x0099_s Request",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"It is said that Maram passed the villagers and went up.",
-			"------------------------",
-			"Let's find <NAVI>[Maram]<INFO>rachel,70,147,0,101,0</INFO></NAVI> on the upper road."
+			"They say Maram passed by the townspeople and went up to Comfort. Find <NAVI>[Maram]<INFO>rachel,70,147,0,101,0</INFO></NAVI> on the upper road."
 		},
 		Summary = "Find Maram"
 	},
 	[11704] = {
-		Title = "Gray Children (1)",
+		Title = "Nirenâ_x0080__x0099_s Request",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"<NAVI>[Maram]<INFO>rachel,70,147,0,101,0</INFO></NAVI> tells me about the Gray Children. Then, he introduces his friend, Miriam.",
-			"------------------------",
-			"Let's talk to <NAVI>[Miriam]<INFO>rachel,62,144,0,101,0</INFO></NAVI>."
+			"You obtained information about Children of Gray from <NAVI>[Maram]<INFO>rachel,70,147,0,101,0</INFO></NAVI>. Speak with Maram's friend <NAVI>[Miriam]<INFO>rachel,62,144,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Talk to Miriam"
+		Summary = "Speak with Miriam"
 	},
 	[11705] = {
-		Title = "Gray Children (2)",
+		Title = "Children of Gray",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"It appears that Miriam can't buy the item she intended to.",
-			"------------------------",
-			"Let's help her <NAVI>[buy things]<INFO>rachel,87,122,0,101,0</INFO></NAVI>."
+			"It seems Miriam was unable to buy the item she intended to purchase. Watch Maram <NAVI>[buying an item]<INFO>rachel,87,122,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Talk to the Merchant"
+		Summary = "Speak with merchant"
 	},
 	[11706] = {
-		Title = "Gray Children (3)",
+		Title = "Children of Gray",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"The merchant says he will not sell anything to Maram.",
-			"------------------------",
-			"Let's try to buy it at <NAVI>[Other Merchant]<INFO>rachel,107,102,0,101,0</INFO></NAVI>."
+			"The merchant says he will not sell the item to Maram. Purchase the item from <NAVI>[Another Merchant]<INFO>rachel,107,102,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Talk to other Merchant"
+		Summary = "Speak with merchant"
 	},
 	[11707] = {
-		Title = "Gray Children (4)",
+		Title = "Children of Gray",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"In the end, I couldn't buy it.",
-			"------------------------",
-			"Let's go back to <NAVI>[Miriam]<INFO>rachel,107,102,0,101,0</INFO></NAVI>."
+			"Once again, you were unable to purchase the item. Speak with Miriam in front of the <NAVI>[Shop]<INFO>rachel,107,102,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Talk to Miriam"
+		Summary = "Speak with Miriam"
 	},
 	[11708] = {
-		Title = "Gray Children (5)",
+		Title = "Children of Gray",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"It seems the <NAVI>[Merchant]<INFO>rachel,107,102,0,101,0</INFO></NAVI> don't want to sell anything to the gray children.",
-			"------------------------",
-			"Let's talk to Maram to find the solution."
+			"It seems the <NAVI>[Merchants]<INFO>rachel,107,102,0,101,0</INFO></NAVI> do not want to sell items to Children of Gray. Find a solution."
 		},
-		Summary = "Talk to Maram"
+		Summary = "Speak with Maram"
 	},
 	[11709] = {
-		Title = "Gray Children (6)",
+		Title = "Children of Gray",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Maram and Miriam left Rachel and tried to buy supplies to help the natives who were living a difficult life.",
-			"------------------------",
-			"Let's try to purchase goods from the <NAVI>[Merchant]<INFO>rachel,137,85,0,101,0</INFO></NAVI> without Maram."
+			"Maram and Miriam say they were trying to purchase supplies to help the natives who left Rachel and are struggling to survive. Instead of Maram, try purchasing the items from the <NAVI>[Merchant]<INFO>rachel,137,85,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Talk to the Merchant"
+		Summary = "Speak with merchant"
 	},
 	[11710] = {
-		Title = "Gray Children (7)",
+		Title = "Children of Gray",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"I signed a contract with the <NAVI>[Merchant]<INFO>rachel,137,85,0,101,0</INFO></NAVI> to purchase goods under the lie that I was from a foreign country.",
-			"------------------------",
-			"Let's talk to Miriam."
+			"You made a purchase contract by lying that you were a trading company from a foreign land. Speak with Miriam in front of the <NAVI>[Merchant]<INFO>rachel,137,85,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Talk to Miriam"
+		Summary = "Speak with Miriam"
 	},
 	[11711] = {
-		Title = "Gray Children (8)",
+		Title = "Children of Gray",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Let's wait and eat <NAVI>[Dumplings]<INFO>rachel,108,73,0,101,0</INFO></NAVI> while Maram and Miriam prepare to disguise themselves as merchants."
+			"While Maram and Miriam prepare to disguise themselves as a trading company, wait while eating <NAVI>[Dumplings]<INFO>rachel,108,73,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Eat the Dumplings"
+		Summary = "Eat dumplings"
 	},
 	[11712] = {
-		Title = "Gray Children (9)",
+		Title = "Children of Gray",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"I met Tamarin by chance and asked him to help me disguise. He asks you to take <NAVI>[Mark]<INFO>rachel,122,120,0,101,0</INFO></NAVI> and Maggi."
+			"You happened to meet Tamarin. When asked to help with the trading company disguise, he says to take <NAVI>[Mark]<INFO>rachel,122,120,0,101,0</INFO></NAVI> and Magi along."
 		},
-		Summary = "Find Mark"
+		Summary = "Find Mark in the square"
 	},
 	[11713] = {
-		Title = "Gray Children (10)",
+		Title = "Children of Gray",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Mark and Maggi also joined. Let's go to the place where we first met <NAVI>[Maram]<INFO>rachel,70,147,0,101,0</INFO></NAVI>."
+			"Mark and Magi have joined as well. Move to the place where you first met <NAVI>[Maram]<INFO>rachel,70,147,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Talk to Maram"
+		Summary = "Speak with Maram"
 	},
 	[11714] = {
-		Title = "Gray Children (11)",
+		Title = "Children of Gray",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Maram and Miriam say they will wait at the village entrance.",
-			"Let's meet the <NAVI>[Merchant]<INFO>rachel,137,85,0,101,0</INFO></NAVI> who purchased the product."
+			"Maram and Miriam say they will wait at the village entrance with the trading company. Go to the <NAVI>[Merchant]<INFO>rachel,137,85,0,101,0</INFO></NAVI> from whom you purchased the items and request delivery."
 		},
-		Summary = "Talk to Merchant"
+		Summary = "Speak with merchant"
 	},
 	[11715] = {
-		Title = "Gray Children (12)",
+		Title = "Children of Gray",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"I talked to the merchant. Let's go to the west entrance of Rachel and check for the <NAVI>[item]<INFO>rachel,41,132,0,101,0</INFO></NAVI>."
+			"You spoke with the merchant. Go to Rachel West Entrance and check the <NAVI>[Goods]<INFO>rachel,41,132,0,101,0</INFO></NAVI>."
 		},
-		Summary = "To the west entrance of Rachel"
+		Summary = "Go to Rachel West Entrance"
 	},
 	[11716] = {
-		Title = "Gray Children (13)",
+		Title = "Children of Gray",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"I purchased the item safely. Talk to <NAVI>[Maram]<INFO>ra_fild11,354,235,0,101,0</INFO></NAVI> outside the western entrance to Rachel."
+			"The goods were purchased safely. Speak with <NAVI>[Maram]<INFO>ra_fild11,354,235,0,101,0</INFO></NAVI> outside Rachel West Entrance."
 		},
-		Summary = "Talk to Maram"
+		Summary = "Speak with Maram"
 	},
 	[11717] = {
-		Title = "Gray Children (14)",
+		Title = "Children of Gray",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"In order not to reveal our destination, we decided to move separately from Maram.",
-			"Let's meet with <NAVI>[Miriam]<INFO>ra_fild10,179,176,0,101,0</INFO></NAVI> in Oz Canyon, west of Rachel."
+			"To avoid revealing the destination, you decided to move separately from Maram. Meet <NAVI>[Miriam]<INFO>ra_fild10,179,176,0,101,0</INFO></NAVI> in the Oz Canyons west of Rachel."
 		},
-		Summary = "Talk to Miriam"
+		Summary = "Speak with Miriam"
 	},
 	[11718] = {
-		Title = "Gray Children (15)",
+		Title = "Children of Gray",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"When preparations to go to the Oz Labyrinth are complete, talk to <NAVI>[Miriam]<INFO>ra_fild10,179,176,0,101,0</INFO></NAVI>."
+			"When you are ready to go to Oz Labyrinth, speak with <NAVI>[Miriam]<INFO>ra_fild10,179,176,0,101,0</INFO></NAVI> again."
 		},
-		Summary = "Talk to Miriam"
+		Summary = "Speak with Miriam"
 	},
 	[11719] = {
-		Title = "Gray Children (16)",
+		Title = "Children of Gray",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Let's break through the Oz Labyrinth with the group."
+			"Break through Oz Labyrinth together with the party."
 		},
-		Summary = "Pass Oz Labyrinth"
+		Summary = "Break through Oz Labyrinth"
 	},
 	[11720] = {
-		Title = "Gray Children (17)",
+		Title = "Children of Gray",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"You have broken through the labyrinth. Talk to <NAVI>[Maram]<INFO>gw_fild01,273,339,0,101,0</INFO></NAVI> outside the labyrinth."
+			"You broke through the labyrinth. Speak with <NAVI>[Maram]<INFO>gw_fild01,273,339,0,101,0</INFO></NAVI> outside the labyrinth."
 		},
-		Summary = "Talk to Maram"
+		Summary = "Speak with Maram"
 	},
 	[11721] = {
-		Title = "Gray Children (18)",
+		Title = "Children of Gray",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Find the village entrance to the west of Gray Wolf Forest and talk to Maram."
+			"Find the village entrance in the west of the Gray Wolf Forest and speak with Maram."
 		},
 		Summary = "Find the village entrance"
 	},
 	[11722] = {
-		Title = "Gray Children (19)",
+		Title = "Children of Gray",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"It seems <NAVI>[Maram]<INFO>gw_fild01,35,102,0,101,0</INFO></NAVI> is not allowed to enter the village with outsider. Let's talk to Imril."
+			"It does not seem they will let <NAVI>[Maram]<INFO>gw_fild01,35,102,0,101,0</INFO></NAVI>, who came with an outsider, enter the village. Speak with Imril."
 		},
-		Summary = "Talk to Imril"
+		Summary = "Speak with Imril"
 	},
 	[11723] = {
-		Title = "Gray Children (20)",
+		Title = "Children of Gray",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"I asked Imril to call Suad. Let's talk to <NAVI>[Maram]<INFO>gw_fild01,35,102,0,101,0</INFO></NAVI> while waiting for Suad."
+			"You asked Imril to call Suad. While waiting for Suad, speak with <NAVI>[Maram]<INFO>gw_fild01,35,102,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Talk to Maram"
+		Summary = "Speak with Maram"
 	},
 	[11724] = {
-		Title = "Gray Children (21)",
+		Title = "Children of Gray",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"I received permission from Suad to enter Gray Wolf Village. Let's talk to <NAVI>[Imril]<INFO>wolfvill,143,113,0,101,0</INFO></NAVI> in the village."
+			"You received permission from Suad to enter Gray Wolf Village. Speak with <NAVI>[Imril]<INFO>wolfvill,143,113,0,101,0</INFO></NAVI> in the village."
 		},
-		Summary = "Enter Gray Wolf Village"
+		Summary = "To Gray Wolf Village"
 	},
 	[11725] = {
-		Title = "The Labyrinth and the Merchant (1)",
+		Title = "Ozâ_x0080__x0099_s Maze and the Peddler",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Let's meet <NAVI>[Imril]<INFO>oz_dun01,27,184,0,101,0</INFO></NAVI> at the entrance to the first floor of Oz Labyrinth."
+			"Meet <NAVI>[Imril]<INFO>oz_dun01,27,184,0,101,0</INFO></NAVI> at the entrance to Oz Labyrinth 1F."
 		},
-		Summary = "Go to Oz Labyrinth 1F"
+		Summary = "To Oz Labyrinth 1F"
 	},
 	[11726] = {
-		Title = "The Labyrinth and the Merchant (2)",
+		Title = "Ozâ_x0080__x0099_s Maze and the Peddler",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Let's follow Imril's guidance and move to <NAVI>[narrow road]<INFO>oz_dun01,68,284,0,101,0</INFO></NAVI>."
+			"Follow Imril's guidance and move to <NAVI>[Narrow Path]<INFO>oz_dun01,68,284,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Investigate Oz Labyrinth"
 	},
 	[11727] = {
-		Title = "The Labyrinth and the Merchant (3)",
+		Title = "Ozâ_x0080__x0099_s Maze and the Peddler",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"I found the box. Let's continue Imril's instructions and move <NAVI>[below]<INFO>oz_dun01,65,189,0,101,0</INFO></NAVI>."
+			"You found a box. Follow Imril's guidance and move <NAVI>[Down]<INFO>oz_dun01,65,189,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Investigate Oz Labyrinth"
 	},
 	[11728] = {
-		Title = "The Labyrinth and the Merchant (4)",
+		Title = "Ozâ_x0080__x0099_s Maze and the Peddler",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"It's a dangerous road. Be careful and follow Imril's guidance by moving <NAVI>[below]<INFO>oz_dun01,111,96,0,101,0</INFO></NAVI>."
+			"It looks like a dangerous path. Be careful and follow Imril's guidance to move <NAVI>[Down]<INFO>oz_dun01,111,96,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Investigate Oz Labyrinth"
 	},
 	[11729] = {
-		Title = "The Labyrinth and the Merchant (5)",
+		Title = "Ozâ_x0080__x0099_s Maze and the Peddler",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"While investigating the hole where the steam was coming out, I heard a voice calling for Imril from somewhere.",
-			"Let's investigate <NAVI>[where the sound came from]<INFO>oz_dun01,100,92,0,101,0</INFO></NAVI>."
+			"While investigating a hole emitting steam, you heard someone calling for Imril from somewhere. Move to <NAVI>[Where the sound came from]<INFO>oz_dun01,100,92,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Investigate the sound"
+		Summary = "Find the injured person"
 	},
 	[11730] = {
-		Title = "The Labyrinth and the Merchant (6)",
+		Title = "Ozâ_x0080__x0099_s Maze and the Peddler",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Let's defeat 10 monsters around <NAVI>[Paul]<INFO>oz_dun01,100,92,0,101,0</INFO></NAVI> so they don't interfere with the treatment."
+			"Defeat around 10 nearby monsters so as not to interfere with <NAVI>[Mr. Poles]<INFO>oz_dun01,100,92,0,101,0</INFO></NAVI>'s recovery."
 		},
-		Summary = "Protect the treatment"
+		Summary = "Help Mr. Poles recover"
 	},
 	[11731] = {
-		Title = "The Labyrinth and the Merchant (7)",
+		Title = "Ozâ_x0080__x0099_s Maze and the Peddler",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Let's follow Imril's instructions and move to <NAVI>[below]<INFO>oz_dun01,134,56,0,101,0</INFO></NAVI>."
+			"Mr. Poles returned to the village. Follow Imril's guidance and move <NAVI>[Down]<INFO>oz_dun01,134,56,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Investigate Oz Labyrinth"
 	},
 	[11732] = {
-		Title = "The Labyrinth and the Merchant (8)",
+		Title = "Ozâ_x0080__x0099_s Maze and the Peddler",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"I found the box. Let's continue Imril's instructions and move <NAVI>[below]<INFO>oz_dun01,110,37,0,101,0</INFO></NAVI>."
+			"You found a box. Follow Imril's guidance and move <NAVI>[Down]<INFO>oz_dun01,110,37,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Investigate Oz Labyrinth"
 	},
 	[11733] = {
-		Title = "The Labyrinth and the Merchant (9)",
+		Title = "Ozâ_x0080__x0099_s Maze and the Peddler",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"We arrived at the entrance to the second floor of the Oz Labyrinth.",
-			"Let's follow Imril's instructions and move to <NAVI>[below]<INFO>oz_dun02,152,276,0,101,0</INFO></NAVI>."
+			"You arrived at the entrance to Oz Labyrinth 2F. Follow Imril's guidance and move <NAVI>[Down]<INFO>oz_dun02,152,276,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Go to Labyrinth 2F"
+		Summary = "To the 2nd floor"
 	},
 	[11734] = {
-		Title = "The Labyrinth and the Merchant (10)",
+		Title = "Ozâ_x0080__x0099_s Maze and the Peddler",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"The second floor investigation seems to be too much for Imril. Let's investigate the <NAVI>[surroundings]<INFO>oz_dun02,143,231,0,101,0</INFO></NAVI>."
+			"Investigating the 2nd floor seems too difficult for Imril. Investigate the <NAVI>[Surroundings]<INFO>oz_dun02,143,231,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Investigate Oz Labyrinth"
 	},
 	[11735] = {
-		Title = "The Labyrinth and the Merchant (11)",
+		Title = "Ozâ_x0080__x0099_s Maze and the Peddler",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"I met the old labyrinth keeper. Let's return to the village and talk to <NAVI>[Imril]<INFO>wolfvill,143,113,0,101,0</INFO></NAVI> to inform Suad about the investigation."
+			"You met Old Man, Keeper of the Maze. To report the investigation results of Oz Labyrinth to Suad, return to the village and speak with <NAVI>[Imril]<INFO>wolfvill,143,113,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Talk to Imril"
+		Summary = "Speak with Imril in the village"
 	},
 	[11736] = {
 		Title = "Oz Labyrinth 1F (170lv)",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Let's defeat 20 Ash Toad on the first floor of Oz Labyrinth. Return to <NAVI>[Imril]<INFO>wolfvill,143,113,0,101,0</INFO></NAVI> when you're done."
+			"Defeat 20 Jatooad in Oz Labyrinth 1F and return to <NAVI>[Imril]<INFO>wolfvill,143,113,0,101,0</INFO></NAVI> in Gray Wolf Village."
 		},
-		Summary = "Explore Oz Labyrinth 1F"
+		Summary = "To Gray Wolf Village"
 	},
 	[11737] = {
-		Title = "[Cooldown] Oz Labyrinth 1F",
+		Title = "Oz Labyrinth 1F-Waiting",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Imril]<INFO>wolfvill,143,113,0,101,0</INFO></NAVI> is expecting you to join the expidition on the Oz Labyrinth 1F again tomorrow."
+			"This quest is a daily quest and can be accepted again through <NAVI>[Imril]<INFO>wolfvill,143,113,0,101,0</INFO></NAVI> after the waiting time expires."
 		},
-		Summary = "Reset after 20 hours",
+		Summary = "Resets at 04:00",
 		CoolTimeQuest = 1
 	},
 	[11738] = {
 		Title = "Oz Labyrinth 2F (200lv)",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Let's defeat 20 Hot Molar on the second floor of Oz Labyrinth. Return to <NAVI>[Imril]<INFO>wolfvill,143,113,0,101,0</INFO></NAVI> when you're done."
+			"Defeat 20 Hot Molar in Oz Labyrinth 2F and return to <NAVI>[Imril]<INFO>wolfvill,143,113,0,101,0</INFO></NAVI> in Gray Wolf Village."
 		},
-		Summary = "Explore Oz Labyrinth 2F"
+		Summary = "Defeat Hot Molar"
 	},
 	[11739] = {
-		Title = "[Cooldown] Oz Labyrinth 2F",
+		Title = "Oz Labyrinth 2F-Waiting",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Imril]<INFO>wolfvill,143,113,0,101,0</INFO></NAVI> is expecting you to join the expidition on the Oz Labyrinth 2F again tomorrow."
+			"This quest is a daily quest and can be accepted again through <NAVI>[Imril]<INFO>wolfvill,143,113,0,101,0</INFO></NAVI> after the waiting time expires."
 		},
-		Summary = "Reset after 20 hours",
+		Summary = "Resets at 04:00",
 		CoolTimeQuest = 1
 	},
 	[11760] = {
@@ -37061,7 +37000,7 @@ QuestInfoList = {
 		Title = "Apply for the Dragon's Test",
 		IconName = "ico_jq.bmp",
 		Description = {
-			"^FF0000''Are you really the Dragon Knight candidate?'' ^FF0000",
+			"^FF0000''Are you really the Dragon Knight candidate?''^FF0000",
 			"The space-time dinosaur in front of you doesn't seem to believe it, but who else is more qualified to become a ^ff0000Dragon Knight^000000 than you? Apply for the test and prove it to it."
 		},
 		Summary = "Become a dragon's companion"
@@ -37098,109 +37037,106 @@ QuestInfoList = {
 		Summary = "Not yet dead."
 	},
 	[12520] = {
-		Title = "[Normal] Villa of Deception",
+		Title = "Villa of Deception",
 		Description = {
-			"It is said that the ^FF0000foul beings^000000 that were already eradicated before are showing up again in a certain ^FF0000Villa^000000.",
-			"Ira hopes that adventurers can take care of it before it invokes the wrath of God."
+			"It is said that the forms of beings already slain are still being witnessed in High Priest Yus's summer villa. Aira hopes that adventurers will deal with the ominous presence before it calls down the god's Rage."
 		},
-		Summary = "Defeat the Twisted God"
+		Summary = "Defeat Twisted God"
 	},
 	[12521] = {
-		Title = "[Hard] Villa of Deception",
+		Title = "Villa of Deception Advanced",
 		Description = {
-			"It is said that the ^FF0000foul beings^000000 that were already eradicated before are showing up again in a certain ^FF0000Villa^000000.",
-			"Ira hopes that adventurers can take care of it before it invokes the wrath of God."
+			"It is said that the forms of beings already slain are still being witnessed in High Priest Yus's summer villa. Aira hopes that adventurers will deal with the ominous presence before it pours out into the world."
 		},
-		Summary = "Defeat the Twisted God"
+		Summary = "Defeat Twisted God"
 	},
 	[12522] = {
-		Title = "[Cooldown] Villa of Deception",
+		Title = "Waiting: Old House Syndrome",
 		Description = {
-			"After staying in the Villa, I felt nauseous and dizzy.",
-			"It would be a good idea to take some time to rest."
+			"After staying in the old mansion, you feel nauseous and dizzy. It would be best to take some time to rest."
 		},
-		Summary = "Reset after 20 hours",
+		Summary = "Resets at 04:00",
 		CoolTimeQuest = 1
 	},
 	[12531] = {
-		Title = "Transporting Goods",
+		Title = "A Future Candidate for Chief Administrator",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"If we can retrieve the goods to this extent, I think we can avoid the worst situation.",
-			"Let's go back to the <NAVI>[Upper Area]<INFO>wolfvill,79,211,0,101,0</INFO></NAVI> and help Camille."
+			"If this much luggage has been recovered, it seems the worst-case scenario can be avoided. Return to the merchant conference hall and help Kamil.",
+			"<NAVI>[Merchant Conference Hall]<INFO>wolfvill,79,211,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Help Camille"
+		Summary = "Help Kamil..."
 	},
 	[12532] = {
-		Title = "Broken Wagon",
+		Title = "Hardship of the Merchant Group",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"There seems to be a problem with the wagon. I think I can use some <ITEM>[Materials]<INFO>7197</INFO></ITEM> to repair the broken wheel."
+			"It seems there is a problem with the caravan. You will likely need to find <ITEM>[Materials]<INFO>7197</INFO></ITEM> suitable for repairing the broken wagon wheel."
 		},
 		Summary = "Find suitable materials."
 	},
 	[12533] = {
-		Title = "Hidden Helper",
+		Title = "A Hidden Helper",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Hazar told you to follow Camille on his trip to make sure he travels safely with the wagon.",
-			"<NAVI>[Follow Wagon's track]<INFO>gw_fild01,118,131,0,101,0</INFO></NAVI>"
+			"I am worried whether Kamil can safely finish the caravan business like this. As Hazar requested, it would be best to secretly follow along.",
+			"<NAVI>[Follow the wagon wheel tracks]<INFO>gw_fild01,118,131,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Follow Camille secretly"
+		Summary = "Secretly follow Kamil."
 	},
 	[12534] = {
-		Title = "Missing Camille",
+		Title = "Missing Kamil",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"It seems like the situation I was worried about has happened. Camille must be in great trouble by now.",
-			"Let's help him by following the <NAVI>[trace]<INFO>gw_fild01,200,96,0,101,0</INFO></NAVI>"
+			"It seems the situation we feared has occurred. Kamil must surely be in great trouble by now. Find and help him.",
+			"<NAVI>[Look for traces of Kamil]<INFO>gw_fild01,200,96,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Save Camille"
+		Summary = "Rescue Kamil."
 	},
 	[12535] = {
-		Title = "Chief Decision",
+		Title = "The Chief Administrator's Decision",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"We don't know what kind of treatment Camille will receive in the village.",
-			"Let's go back to the <NAVI>[Upper Area]<INFO>wolfvill,79,211,0,101,0</INFO></NAVI>, check Camille's disposition, and intervene if necessary."
+			"It is impossible to know what kind of punishment Kamil will receive in the village. Return to the village, confirm Kamil's disposition, and intervene if necessary.",
+			"<NAVI>[Merchant Conference Hall]<INFO>wolfvill,79,211,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Return to the Chief"
+		Summary = "Return to the chief administrator."
 	},
 	[12536] = {
-		Title = "Scattered Goods (North)",
+		Title = "Scattered Cargo (North)",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"There may be a lost goods somewhere ^FF0000north of the Gray Wolf Forest^000000.",
-			"Let's search on the <NAVI>[estimated location]<INFO>gw_fild01,242,321,0,101,0</INFO></NAVI>."
+			"There may be cargo somewhere in the north of Gray Wolf Forest. Search for it and recover it.",
+			"<NAVI>[Estimated Location]<INFO>gw_fild01,242,321,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Retrieve the Goods"
+		Summary = "Recover the goods."
 	},
 	[12537] = {
-		Title = "Scattered Goods (West)",
+		Title = "Scattered Cargo (West)",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"There may be a lost goods somewhere ^FF0000west of the Gray Wolf Forest^000000.",
-			"Let's search on the <NAVI>[estimated location]<INFO>gw_fild01,93,211,0,101,0</INFO></NAVI>."
+			"There may be cargo somewhere in the west of Gray Wolf Forest. Search for it and recover it.",
+			"<NAVI>[Estimated Location]<INFO>gw_fild01,93,211,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Retrieve the Goods"
+		Summary = "Recover the goods."
 	},
 	[12538] = {
-		Title = "Scattered Goods (East)",
+		Title = "Scattered Cargo (East)",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"There may be a lost goods somewhere ^FF0000east of the Gray Wolf Forest^000000.",
-			"Let's search on the <NAVI>[estimated location]<INFO>gw_fild01,343,194,0,101,0</INFO></NAVI>."
+			"There may be cargo somewhere in the east of Gray Wolf Forest. Search for it and recover it.",
+			"<NAVI>[Estimated Location]<INFO>gw_fild01,343,194,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Retrieve the Goods"
+		Summary = "Recover the goods."
 	},
 	[12539] = {
-		Title = "Scattered Goods (South)",
+		Title = "Scattered Cargo (South)",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"There may be a lost goods somewhere ^FF0000south of the Gray Wolf Forest^000000.",
-			"Let's search on the <NAVI>[estimated location]<INFO>gw_fild01,228,59,0,101,0</INFO></NAVI>."
+			"There may be cargo somewhere in the south of Gray Wolf Forest. Search for it and recover it.",
+			"<NAVI>[Estimated Location]<INFO>gw_fild01,228,59,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Retrieve the Goods"
+		Summary = "Recover the goods."
 	},
 	[12543] = {
 		Title = "",
@@ -44988,9 +44924,9 @@ QuestInfoList = {
 		IconName = "ico_jq.bmp",
 		Description = {
 			"I've decided to take the test to become an Inquisitor. I must enter the underground ward in the abbey's basement and fight the heinous monster there alone. When I'm done, I should report back to <NAVI>[Einhar]<INFO>prt_monk,97,214,0,101,0</INFO></NAVI>.",
-			"Nied - Is",
-			"|\tWard\t|",
-			"Wyn - Siegel"
+			"Nid - Eh",
+			"|  Barrier  |",
+			"Uwin - Siegel"
 		},
 		Summary = ""
 	},
@@ -44999,9 +44935,9 @@ QuestInfoList = {
 		IconName = "ico_jq.bmp",
 		Description = {
 			"I've decided to take the test to become an Inquisitor. I must enter the underground ward in the abbey's basement and fight the heinous monster there alone again. When I'm done, I should report back to <NAVI>[Einhar]<INFO>prt_monk,97,214,0,101,0</INFO></NAVI>.",
-			"Nied - Is",
-			"|\tWard\t|",
-			"Wyn - Siegel"
+			"Nid - Eh",
+			"|  Barrier  |",
+			"Uwin - Siegel"
 		},
 		Summary = ""
 	},
@@ -45010,9 +44946,9 @@ QuestInfoList = {
 		IconName = "ico_jq.bmp",
 		Description = {
 			"I've decided to take the test to become an Inquisitor. I must enter the underground ward in the abbey's basement and fight the heinous monster there alone one more time. When I'm done, I should report back to <NAVI>[Einhar]<INFO>prt_monk,97,214,0,101,0</INFO></NAVI>.",
-			"Nied - Is",
-			"|\tWard\t|",
-			"Wyn - Siegel"
+			"Nid - Eh",
+			"|  Barrier  |",
+			"Uwin - Siegel"
 		},
 		Summary = ""
 	},
@@ -45408,10 +45344,10 @@ QuestInfoList = {
 		Summary = ""
 	},
 	[16548] = {
-		Title = "I can't sleep",
+		Title = "I Canâ_x0080__x0099_t Sleep",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"<NAVI>[Ahir]<INFO>wolfvill,147,97,0,101,0</INFO></NAVI> who seems to be having a hard time sleeping due to noisy monster cries, is asking you to hunt 30 Firewind Kites to help him sleep peacefully."
+			"<NAVI>[Ahir]<INFO>wolfvill,147,97,0,101,0</INFO></NAVI>, who could not sleep a wink all night, says he could sleep better if only the cries of Firewind Kite would stop, and asks you to hunt 30 Firewind Kite."
 		},
 		Summary = "",
 		NpcSpr = "4_M_DST_CHILD",
@@ -45420,10 +45356,10 @@ QuestInfoList = {
 		NpcPosY = 97
 	},
 	[16549] = {
-		Title = "[Daily] I can't sleep",
+		Title = "I Canâ_x0080__x0099_t Sleep",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Ahir]<INFO>wolfvill,147,97,0,101,0</INFO></NAVI> is asking for your help in hunting 30 Firewind Kites again to help him sleep peacefully."
+			"<NAVI>[Ahir]<INFO>wolfvill,147,97,0,101,0</INFO></NAVI> says that if an adventurer hunts 30 Firewind Kite again, he will be able to sleep comfortably tonight as well."
 		},
 		Summary = "",
 		NpcSpr = "4_M_DST_CHILD",
@@ -45432,12 +45368,12 @@ QuestInfoList = {
 		NpcPosY = 97
 	},
 	[16550] = {
-		Title = "[Cooldown] I can't sleep",
+		Title = "I Canâ_x0080__x0099_t Sleep-Waiting",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Ahir seems to be sleep peacefully tonight. Let's come back to <NAVI>[Ahir]<INFO>wolfvill,147,97,0,101,0</INFO></NAVI> tomorrow and see whether he needs help again."
+			"This quest is a daily quest and can be accepted again after the waiting time expires. You can accept the quest through <NAVI>[Ahir]<INFO>wolfvill,147,97,0,101,0</INFO></NAVI> in Gray Wolf Village."
 		},
-		Summary = "04ï¿½ï¿½ ï¿½Ê±ï¿½È­",
+		Summary = "Resets at 04:00",
 		CoolTimeQuest = 1,
 		NpcSpr = "4_M_DST_CHILD",
 		NpcNavi = "wolfvill",
@@ -45445,108 +45381,108 @@ QuestInfoList = {
 		NpcPosY = 97
 	},
 	[16551] = {
-		Title = "Collecting Folklore (1)",
+		Title = "Dinarâ_x0080__x0099_s Story",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Take the notebook Gudra gave you and go to <NAVI>[Dinar]<INFO>wolfvill,106,224,0,101,0</INFO></NAVI> and write down the amazing story."
+			"Take the notebook given by Gudra and go to <NAVI>[Dinar]<INFO>wolfvill,106,224,0,101,0</INFO></NAVI> to write down the amazing story told by Dinar."
 		},
-		Summary = "Talk to Dinar",
+		Summary = "Speak with Dinar",
 		NpcSpr = "4_F_DST_CHILD",
 		NpcNavi = "wolfvill",
 		NpcPosX = 106,
 		NpcPosY = 224
 	},
 	[16552] = {
-		Title = "Collecting Folklore (2)",
+		Title = "Amiraâ_x0080__x0099_s Story",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Take the notebook Gudra gave you and go to <NAVI>[Amira]<INFO>wolfvill,180,204,0,101,0</INFO></NAVI> and write down the story about the mysterious gods."
+			"Take the notebook given by Gudra and go to <NAVI>[Amira]<INFO>wolfvill,180,204,0,101,0</INFO></NAVI> to write down the story about mysterious gods told by Amira."
 		},
-		Summary = "Talk to Amira",
+		Summary = "Speak with Amira",
 		NpcSpr = "4_F_DESERT",
 		NpcNavi = "wolfvill",
 		NpcPosX = 180,
 		NpcPosY = 204
 	},
 	[16553] = {
-		Title = "Collecting Folklore (3)",
+		Title = "Shaninaâ_x0080__x0099_s Story",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Take the notebook Gudra gave you and go to <NAVI>[Shanina]<INFO>wolfvill,154,184,0,101,0</INFO></NAVI> and write down the old stories."
+			"Take the notebook given by Gudra and go to <NAVI>[Shanina]<INFO>wolfvill,154,184,0,101,0</INFO></NAVI> to write down the old tales told by Shanina."
 		},
-		Summary = "Talk to Shanina",
+		Summary = "Speak with Shanina",
 		NpcSpr = "4_F_DST_GRAND",
 		NpcNavi = "wolfvill",
 		NpcPosX = 154,
 		NpcPosY = 184
 	},
 	[16554] = {
-		Title = "Collecting Folklore (4)",
+		Title = "Please Gather Stories",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"We've collected all of today's stories. Let's return to <NAVI>[Gudra]<INFO>wolfvill,61,170,0,101,0</INFO></NAVI> with the collected stories."
+			"You have gathered all of todayâ_x0080__x0099_s stories. Return to <NAVI>[Gudra]<INFO>wolfvill,61,170,0,101,0</INFO></NAVI> with the collected stories."
 		},
-		Summary = "Talk to Gudra",
+		Summary = "Speak with Gudra",
 		NpcSpr = "4_F_SHABBY",
 		NpcNavi = "wolfvill",
 		NpcPosX = 61,
 		NpcPosY = 170
 	},
 	[16555] = {
-		Title = "[Daily] Dinar's Story",
+		Title = "Dinarâ_x0080__x0099_s Story",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Take the notebook Gudra gave you and go to <NAVI>[Dinar]<INFO>wolfvill,106,224,0,101,0</INFO></NAVI> and write down the amazing story."
+			"Take the notebook given by Gudra and go to <NAVI>[Dinar]<INFO>wolfvill,106,224,0,101,0</INFO></NAVI> to write down the amazing story told by Dinar."
 		},
-		Summary = "Talk to Dinar",
+		Summary = "Speak with Dinar",
 		NpcSpr = "4_F_DST_CHILD",
 		NpcNavi = "wolfvill",
 		NpcPosX = 106,
 		NpcPosY = 224
 	},
 	[16556] = {
-		Title = "[Daily] Amira's Story",
+		Title = "Amiraâ_x0080__x0099_s Story",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Take the notebook Gudra gave you and go to <NAVI>[Amira]<INFO>wolfvill,180,204,0,101,0</INFO></NAVI> and write down the story about the mysterious gods."
+			"Take the notebook given by Gudra and go to <NAVI>[Amira]<INFO>wolfvill,180,204,0,101,0</INFO></NAVI> to write down the story about mysterious gods told by Amira."
 		},
-		Summary = "Talk to Amira",
+		Summary = "Speak with Amira",
 		NpcSpr = "4_F_DESERT",
 		NpcNavi = "wolfvill",
 		NpcPosX = 180,
 		NpcPosY = 204
 	},
 	[16557] = {
-		Title = "[Daily] Shanina's Story",
+		Title = "Shaninaâ_x0080__x0099_s Story",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Take the notebook Gudra gave you and go to <NAVI>[Shanina]<INFO>wolfvill,154,184,0,101,0</INFO></NAVI> and write down the old stories."
+			"Take the notebook given by Gudra and go to <NAVI>[Shanina]<INFO>wolfvill,154,184,0,101,0</INFO></NAVI> to write down the old tales told by Shanina."
 		},
-		Summary = "Talk to Shanina",
+		Summary = "Speak with Shanina",
 		NpcSpr = "4_F_DST_GRAND",
 		NpcNavi = "wolfvill",
 		NpcPosX = 154,
 		NpcPosY = 184
 	},
 	[16558] = {
-		Title = "[Daily] Collecting Folklore",
+		Title = "Please Gather Stories",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"We've collected all of today's stories. Let's return to <NAVI>[Gudra]<INFO>wolfvill,61,170,0,101,0</INFO></NAVI> with the collected stories."
+			"You have gathered all of todayâ_x0080__x0099_s stories. Return to <NAVI>[Gudra]<INFO>wolfvill,61,170,0,101,0</INFO></NAVI> with the collected stories."
 		},
-		Summary = "Talk to Gudra",
+		Summary = "Speak with Gudra",
 		NpcSpr = "4_F_SHABBY",
 		NpcNavi = "wolfvill",
 		NpcPosX = 61,
 		NpcPosY = 170
 	},
 	[16559] = {
-		Title = "[Cooldown] Collecting Folklore",
+		Title = "Please Gather Stories-Waiting",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Let's come back to <NAVI>[Gudra]<INFO>wolfvill,61,170,0,101,0</INFO></NAVI> tomorrow and see whether she needs help again."
+			"This quest is a daily quest and can be accepted again after the waiting time expires. You can accept the quest through <NAVI>[Gudra]<INFO>wolfvill,61,170,0,101,0</INFO></NAVI> in Gray Wolf Village."
 		},
-		Summary = "Reset after 20 hours",
+		Summary = "Resets at 04:00",
 		CoolTimeQuest = 1,
 		NpcSpr = "4_F_SHABBY",
 		NpcNavi = "wolfvill",
@@ -45554,311 +45490,306 @@ QuestInfoList = {
 		NpcPosY = 170
 	},
 	[16560] = {
-		Title = "Ahab's Gossip (1)",
+		Title = "This Is Not the Place",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"A group of young men are seen complaining about someone near the lake.",
-			"Let's listen to the gossip from <NAVI>[Kayar]<INFO>wolfvill,83,109,0,101,0</INFO></NAVI>."
+			"Some youths are seen complaining about someone near the lake. Listen to <NAVI>[Kayar]<INFO>wolfvill,83,109,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Talk to Kayar",
+		Summary = "Speak with Kayar",
 		NpcSpr = "4W_M_03",
 		NpcNavi = "wolfvill",
 		NpcPosX = 83,
 		NpcPosY = 109
 	},
 	[16561] = {
-		Title = "Ahab's Gossip (2)",
+		Title = "This Is Not the Place",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"They say the only people who can help them are adventurers...",
-			"Let's hear from <NAVI>[Desel]<INFO>wolfvill,87,109,0,101,0</INFO></NAVI> to find out why."
+			"They say only an adventurer can help themâ_x0080_¦ Listen to <NAVI>[Redsel]<INFO>wolfvill,87,109,0,101,0</INFO></NAVI> for the reason."
 		},
-		Summary = "Talk to Desel",
+		Summary = "Speak with Redsel",
 		NpcSpr = "4_M_DESERT",
 		NpcNavi = "wolfvill",
 		NpcPosX = 87,
 		NpcPosY = 109
 	},
 	[16562] = {
-		Title = "Ahab's Gossip (3)",
+		Title = "This Is Not the Place",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"They were asked to meet in person the person they were talking about. Let's visit <NAVI>[Ahab]<INFO>wolfvill,127,155,0,101,0</INFO></NAVI>."
+			"You were asked to meet the person they were talking about directly. Meet <NAVI>[Ahab]<INFO>wolfvill,127,155,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Talk to Ahab",
+		Summary = "Speak with Ahab",
 		NpcSpr = "4_M_MIDDLE1",
 		NpcNavi = "wolfvill",
 		NpcPosX = 127,
 		NpcPosY = 155
 	},
 	[16563] = {
-		Title = "Ahab's Gossip (4)",
+		Title = "This Is Not the Place",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"It seems there is nothing I can do. Let's go to <NAVI>[Merno Mart]<INFO>rachel,135,64,0,101,0</INFO></NAVI> in Rachel and buy a bottle of Cucumber Sauce."
+			"You ended up being forced into an errand. Go to <NAVI>[Mernomat]<INFO>rachel,135,64,0,101,0</INFO></NAVI> in Rachel and buy a bottle of Oigurt Sauce."
 		},
-		Summary = "Buy Cucumber Sauce",
+		Summary = "Visit Mernomat",
 		NpcSpr = "4_M_RACHMAN2",
 		NpcNavi = "rachel",
 		NpcPosX = 135,
 		NpcPosY = 64
 	},
 	[16564] = {
-		Title = "Ahab's Gossip (5)",
+		Title = "This Is Not the Place",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"I purchased some Cucumber Sauce, with my money.....",
-			"Return to <NAVI>[Ahab]<INFO>wolfvill,127,155,0,101,0</INFO></NAVI> and complete the errand."
+			"You safely purchased Oigurt Sauce. With your own money... Return to <NAVI>[Ahab]<INFO>wolfvill,127,155,0,101,0</INFO></NAVI> and complete the errand."
 		},
-		Summary = "Talk to Ahab",
+		Summary = "Speak with Ahab",
 		NpcSpr = "4_M_MIDDLE1",
 		NpcNavi = "wolfvill",
 		NpcPosX = 127,
 		NpcPosY = 155
 	},
 	[16565] = {
-		Title = "Ahab's Gossip (6)",
+		Title = "This Is Not the Place",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Let's persuade <NAVI>[Ahab]<INFO>wolfvill,127,155,0,101,0</INFO></NAVI>, who is busy eating with sauce."
+			"Try to persuade <NAVI>[Ahab]<INFO>wolfvill,127,155,0,101,0</INFO></NAVI>, who is busy eating with the sauce."
 		},
-		Summary = "Persuade Ahab",
+		Summary = "Speak with Ahab",
 		NpcSpr = "4_M_MIDDLE1",
 		NpcNavi = "wolfvill",
 		NpcPosX = 127,
 		NpcPosY = 155
 	},
 	[16566] = {
-		Title = "Ahab's Gossip (7)",
+		Title = "This Is Not the Place",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Ahab says he will change his mind and asks you to tell this to others.",
-			"Let's tell Ahab's decision to <NAVI>[Zlan]<INFO>wolfvill,85,111,0,101,0</INFO></NAVI> and the others."
+			"Ahab says he will change his ways and asks you to tell the others as well. Tell <NAVI>[Julan]<INFO>wolfvill,85,111,0,101,0</INFO></NAVI>, Kayar, and Redsel about Ahabâ_x0080__x0099_s decision."
 		},
-		Summary = "Tell Ahab's decision",
+		Summary = "",
 		NpcSpr = "4_M_RACHMAN1",
 		NpcNavi = "wolfvill",
 		NpcPosX = 85,
 		NpcPosY = 111
 	},
 	[16567] = {
-		Title = "Gray Wolf Forest Tournament (1)",
+		Title = "Conference of the Gray Wolf Forest",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"The Great Conference of the Gray Wolf Forest will soon begin. Let's go meet <NAVI>[Suad]<INFO>wolfvill,144,151,0,101,0</INFO></NAVI> where people are gathered."
+			"The Conference of the Gray Wolf Forest is about to begin. Go to where <NAVI>[Suad]<INFO>wolfvill,144,151,0,101,0</INFO></NAVI> and the people are gathered and attend the meeting."
 		},
-		Summary = "Talk to Suad",
+		Summary = "Speak with Suad",
 		NpcSpr = "4_EP18_SUAD",
 		NpcNavi = "wolfvill",
 		NpcPosX = 144,
 		NpcPosY = 151
 	},
 	[16568] = {
-		Title = "People's Opinion (1)",
+		Title = "Different Opinions",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"I was advised to come after hearing various opinions. Let's hear the opinion of <NAVI>[Passionate Young Man]<INFO>wolfvill,145,146,0,101,0</INFO></NAVI>."
+			"You were advised to hear various opinions. Listen to <NAVI>[Passionate Youth]<INFO>wolfvill,145,146,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Talk to Passionate Young Man",
+		Summary = "Speak with Passionate Youth",
 		NpcSpr = "4_EP18_GW_MAN01",
 		NpcNavi = "wolfvill",
 		NpcPosX = 145,
 		NpcPosY = 146
 	},
 	[16569] = {
-		Title = "People's Opinion (2)",
+		Title = "Different Opinions",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"I was advised to come after hearing various opinions. Let's hear the opinion of <NAVI>[Native Old Man]<INFO>wolfvill,139,148,0,101,0</INFO></NAVI>."
+			"You were advised to hear various opinions. Listen to <NAVI>[Native Old Man]<INFO>wolfvill,139,148,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Talk to Native Old Man",
+		Summary = "Speak with Native Old Man",
 		NpcSpr = "4_EP18_GW_OLD01",
 		NpcNavi = "wolfvill",
 		NpcPosX = 139,
 		NpcPosY = 148
 	},
 	[16570] = {
-		Title = "People's Opinion (3)",
+		Title = "Different Opinions",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"I was advised to come after hearing various opinions. Let's hear the opinion of <NAVI>[Passionate Old Man]<INFO>wolfvill,150,147,0,101,0</INFO></NAVI>."
+			"You were advised to hear various opinions. Listen to <NAVI>[Passionate Middle-aged Man]<INFO>wolfvill,150,147,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Talk to Passionate Old Man",
+		Summary = "Speak with Passionate Middle-aged Man",
 		NpcSpr = "4_M_MIDDLE",
 		NpcNavi = "wolfvill",
 		NpcPosX = 150,
 		NpcPosY = 147
 	},
 	[16571] = {
-		Title = "People's Opinion (4)",
+		Title = "Different Opinions",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"I was advised to come after hearing various opinions. Let's hear the opinion of <NAVI>[Timid Young Man]<INFO>wolfvill,152,145,0,101,0</INFO></NAVI>."
+			"You were advised to hear various opinions. Listen to <NAVI>[Timid Youth]<INFO>wolfvill,152,145,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Talk to Timid Young Man",
+		Summary = "Speak with Timid Youth",
 		NpcSpr = "4_M_RACHMAN1",
 		NpcNavi = "wolfvill",
 		NpcPosX = 152,
 		NpcPosY = 145
 	},
 	[16572] = {
-		Title = "Gray Wolf Forest Tournament (2)",
+		Title = "Conference of the Gray Wolf Forest",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"I think I have listened enough opinions of the people of Gray Wolf Forest. Let's go back to <NAVI>[Suad]<INFO>wolfvill,144,151,0,101,0</INFO></NAVI>."
+			"It seems you have sufficiently heard the opinions of the people of the Gray Wolf Forest. Return to <NAVI>[Suad]<INFO>wolfvill,144,151,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Talk to Suad",
+		Summary = "Speak with Suad",
 		NpcSpr = "4_EP18_SUAD",
 		NpcNavi = "wolfvill",
 		NpcPosX = 144,
 		NpcPosY = 151
 	},
 	[16573] = {
-		Title = "Source of Weapons (1)",
+		Title = "Origin of the Weapon",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"After the meeting, <NAVI>[Miriam]<INFO>wolfvill,148,151,0,101,0</INFO></NAVI> quietly called you and the others. What's going on?"
+			"After the meeting ended, <NAVI>[Miriam]<INFO>wolfvill,148,151,0,101,0</INFO></NAVI> quietly called the adventurer and friends. What could it be?"
 		},
-		Summary = "Talk to Miriam",
+		Summary = "Speak with Miriam",
 		NpcSpr = "4_EP18_MIRIAM",
 		NpcNavi = "wolfvill",
 		NpcPosX = 148,
 		NpcPosY = 151
 	},
 	[16574] = {
-		Title = "Source of Weapons (2)",
+		Title = "Origin of the Weapon",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"With Maram, go to the armed <NAVI>[Radical Youth]<INFO>wolfvill,143,145,0,101,0</INFO></NAVI> and find out the source of the weapon."
+			"Together with Maram, go to the armed <NAVI>[Radical Youth]<INFO>wolfvill,143,145,0,101,0</INFO></NAVI> and investigate Origin of the Weapon."
 		},
-		Summary = "Talk to Radical Youth",
+		Summary = "Speak with Radical Youth",
 		NpcSpr = "4_M_RASWORD",
 		NpcNavi = "wolfvill",
 		NpcPosX = 143,
 		NpcPosY = 145
 	},
 	[16575] = {
-		Title = "Source of Weapons (3)",
+		Title = "Origin of the Weapon",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"To find out where the weapon came from, you must call <NAVI>[Bearded Jack]<INFO>rachel,75,44,0,101,0</INFO></NAVI> for the password."
+			"To find where the weapons came from, you must give a password to <NAVI>[Bearded Jack]<INFO>rachel,75,44,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Talk to Bearded Jack",
+		Summary = "Speak with Bearded Jack",
 		NpcSpr = "4_M_MIDDLE1",
 		NpcNavi = "rachel",
 		NpcPosX = 75,
 		NpcPosY = 44
 	},
 	[16576] = {
-		Title = "Source of Weapons (4)",
+		Title = "Origin of the Weapon",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Bearded Jack introduced the adventurer and Maram to <NAVI>[Dandelion]<INFO>veins,293,282,0,101,0</INFO></NAVI>, a Veins weapon dealer."
+			"Bearded Jack introduced Danderon, a weapon merchant in Veins, to the adventurer and Maram."
 		},
-		Summary = "Talk to Dandelion",
+		Summary = "Speak with Danderon",
 		NpcSpr = "4_M_DESERT",
 		NpcNavi = "veins",
 		NpcPosX = 293,
 		NpcPosY = 282
 	},
 	[16577] = {
-		Title = "Source of Weapons (5)",
+		Title = "Origin of the Weapon",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Maram guided the adventurer, saying that he knew the shortcut to <NAVI>[Military Base]<INFO>que_thr,133,53,0,101,0</INFO></NAVI>."
+			"Maram guided the adventurer, saying he knows a shortcut to <NAVI>[Military Base]<INFO>que_thr,133,53,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Contact with Maram",
+		Summary = "Meet with Maram",
 		NpcSpr = "4_EP18_MARAM",
 		NpcNavi = "que_thr",
 		NpcPosX = 133,
 		NpcPosY = 53
 	},
 	[16578] = {
-		Title = "Source of Weapons (6)",
+		Title = "Origin of the Weapon",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Who I met inside <NAVI>[Thor Military Base]<INFO>que_thr,133,53,0,101,0</INFO></NAVI> was an unexpected person."
+			"What you encountered inside <NAVI>[Thor Military Base]<INFO>que_thr,133,53,0,101,0</INFO></NAVI> was someone unexpected."
 		},
-		Summary = "Talk to Miriam",
+		Summary = "Speak with Miriam",
 		NpcSpr = "4_EP18_MIRIAM"
 	},
 	[16579] = {
-		Title = "Source of Weapons (7)",
+		Title = "Origin of the Weapon",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Let's talk to Maram at <NAVI>[Thor Military Base]<INFO>que_thr,133,53,0,101,0</INFO></NAVI> about the clues you obtained."
+			"Speak with Maram inside <NAVI>[Thor Military Base]<INFO>que_thr,133,53,0,101,0</INFO></NAVI> and discuss the clues you obtained."
 		},
-		Summary = "Talk to Maram",
+		Summary = "Speak with Maram",
 		NpcSpr = "4_EP18_MARAM"
 	},
 	[16580] = {
-		Title = "Source of Weapons (8)",
+		Title = "Origin of the Weapon",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Let's quickly explain what we found out at the Thor Military Base to <NAVI>[Suad]<INFO>wolfvill,140,112,0,101,0</INFO></NAVI>."
+			"Quickly deliver what you learned at Thor Military Base to <NAVI>[Suad]<INFO>wolfvill,140,112,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Talk to Suad",
+		Summary = "Speak with Suad.",
 		NpcSpr = "4_EP18_SUAD",
 		NpcNavi = "wolfvill",
 		NpcPosX = 140,
 		NpcPosY = 112
 	},
 	[16581] = {
-		Title = "Even children know (1)",
+		Title = "Even Children Know",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"<NAVI>[Kar]<INFO>rachel,37,41,0,101,0</INFO></NAVI>'s eyes widened when Naiman said that he had no money."
+			"At Nymanâ_x0080__x0099_s words that he has no money, <NAVI>[Kar]<INFO>rachel,37,41,0,101,0</INFO></NAVI> widened his eyes."
 		},
-		Summary = [[
-Talk to Kar=],
-	NpcSpr = [=[4_M_RACHMAN1]],
+		Summary = "Speak with Kar",
+		NpcSpr = "4_M_RACHMAN1",
 		NpcNavi = "rachel",
 		NpcPosX = 37,
 		NpcPosY = 41
 	},
 	[16582] = {
-		Title = "Even children know (2)",
+		Title = "Even Children Know",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"<NAVI>[Luccy]<INFO>rachel,40,45,0,101,0</INFO></NAVI> frowned when she saw Nai looking angry with a straight face."
+			"Seeing Nyman getting angry seriously, <NAVI>[Ruxi]<INFO>rachel,40,45,0,101,0</INFO></NAVI> frowned."
 		},
-		Summary = "Talk to Luccy",
+		Summary = "Speak with Ruxi",
 		NpcSpr = "4_M_DST_CHILD",
 		NpcNavi = "rachel",
 		NpcPosX = 40,
 		NpcPosY = 45
 	},
 	[16583] = {
-		Title = "Even children know (3)",
+		Title = "Even Children Know",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Why on earth did <NAVI>[Naiman]<INFO>rachel,36,45,0,101,0</INFO></NAVI> choose these kids as friends? Let's ask directly."
+			"Why did <NAVI>[Nyman]<INFO>rachel,36,45,0,101,0</INFO></NAVI> make friends with these children? Ask him directly."
 		},
-		Summary = "Talk to Naiman",
+		Summary = "Speak with Nyman",
 		NpcSpr = "4_F_DST_CHILD",
 		NpcNavi = "rachel",
 		NpcPosX = 36,
 		NpcPosY = 45
 	},
 	[16584] = {
-		Title = "The Price of Labor (1)",
+		Title = "Reward for Labor",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Amodipine wants help to receive overdue salary. Let's talk to Amodipine's employer, <NAVI>[Dahil]<INFO>rachel,136,95,0,101,0</INFO></NAVI>."
+			"Amodyphine wants help to receive unpaid wages. Speak with <NAVI>[Dahil]<INFO>rachel,136,95,0,101,0</INFO></NAVI>, Amodyphineâ_x0080__x0099_s employer."
 		},
-		Summary = "Talk to Dahil",
+		Summary = "Speak with Dahil",
 		NpcSpr = "4_M_RACHMAN2",
 		NpcNavi = "rachel",
 		NpcPosX = 136,
 		NpcPosY = 95
 	},
 	[16585] = {
-		Title = "The Price of Labor (2)",
+		Title = "Reward for Labor",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Dahil was very upset, but listened to the story anyway. Let's go to <NAVI>[Amodipine]<INFO>rachel,181,51,0,101,0</INFO></NAVI> and tell the news."
+			"Dahil was quite displeased but listened anyway. Go to <NAVI>[Amodyphine]<INFO>rachel,181,51,0,101,0</INFO></NAVI> and deliver the news."
 		},
-		Summary = "Talk to Amodipine",
+		Summary = "Speak with Amodyphine",
 		NpcSpr = "4_M_MIDDLE",
 		NpcNavi = "rachel",
 		NpcPosX = 181,
@@ -47353,9 +47284,9 @@ Talk to Kar=],
 		Title = "4th Job Change: Piece Collection Completed",
 		IconName = "ico_jq.bmp",
 		Description = {
-			"Now that I've collected all the pieces, I should report back to the <NAVI>[Folklorist]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI>."
+			"Now that I've collected all the pieces, I should report back to the <NAVI>[Historian]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI>."
 		},
-		Summary = "To the Folklorist"
+		Summary = "To the Historian"
 	},
 	[17461] = {
 		Title = "4th Job Change: A New Stage",
@@ -47385,7 +47316,7 @@ Talk to Kar=],
 		Title = "4th Job Change: Piece Collection",
 		IconName = "ico_jq.bmp",
 		Description = {
-			"As I hold the crystal in my hand, I hear the sound of something <NAVI>[burning]<INFO>thor_v01,281,233,0,101,0</INFO></NAVI> urrounding me.,"
+			"As I hold the crystal in my hand, I hear the sound of something <NAVI>[burning]<INFO>thor_v01,281,233,0,101,0</INFO></NAVI>, surrounding me.,"
 		},
 		Summary = "Inspiration Piece 2"
 	},
@@ -47393,7 +47324,7 @@ Talk to Kar=],
 		Title = "4th Job Change: Piece Collection",
 		IconName = "ico_jq.bmp",
 		Description = {
-			"I should hunt Fire monsters at Level 130 or above to fill the <NAVI>[Piece]<INFO>thor_v01,281,233,0,101,0</INFO></NAVI> with fiery energy."
+			"I should hunt Fire monsters at Level 130 or above to fill the <NAVI>[Piece]<INFO>thor_v01,281,233,0,101,0</INFO></NAVI> with fire energy."
 		},
 		Summary = "Inspiration Piece 2"
 	},
@@ -47417,7 +47348,7 @@ Talk to Kar=],
 		Title = "4th Job Change: Piece Collection",
 		IconName = "ico_jq.bmp",
 		Description = {
-			"Why don't you go to the biggest <NAVI>[church]<INFO>prt_church,94,116,0,101,0</INFO></NAVI>? The songs could be drawn to the sound of people singing a hymn there."
+			"Why don't you go to that big <NAVI>[church]<INFO>prt_church,94,116,0,101,0</INFO></NAVI>? The songs could be drawn to the sound of people singing a hymn there."
 		},
 		Summary = "Emotion Piece 1"
 	},
@@ -47441,9 +47372,9 @@ Talk to Kar=],
 		Title = "4th Job Change: Piece Collection Completed",
 		IconName = "ico_jq.bmp",
 		Description = {
-			"Now that I've collected all the pieces, I should report back to the <NAVI>[Folklorist]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI>."
+			"Now that I've collected all the pieces, I should report back to the <NAVI>[Historian]<INFO>odin_tem03,193,301,0,101,0</INFO></NAVI>."
 		},
-		Summary = "To the Folklorist"
+		Summary = "To the Historian"
 	},
 	[17472] = {
 		Title = "4th Job Change: Where's the Stage?",
@@ -47459,7 +47390,7 @@ Talk to Kar=],
 		Description = {
 			"I don't know all the technical details. You should talk to <NAVI>[Heren]<INFO>job4_tro,53,50,0,101,0</INFO></NAVI> instead."
 		},
-		Summary = "Talk to the Folklorist"
+		Summary = "Talk to the Historian"
 	},
 	[17474] = {
 		Title = "4th Job Change: The Steps of the Ritual",
@@ -47486,201 +47417,198 @@ Talk to Kar=],
 		Summary = "Shipped"
 	},
 	[17504] = {
-		Title = "Where is My Home (1)",
+		Title = "Where Is My Home",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Adventurer, I have a favor to ask. A state-of-the-art clinic is a must here. Please persuade the <NAVI>[Elder]<INFO>wolfvill,176,111,0,101,0</INFO></NAVI>."
+			"Adventurer, please. A modern clinic is absolutely necessary here. Please persuade the <NAVI>[Elders]<INFO>wolfvill,176,111,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Talk to the Old Man"
+		Summary = "Persuade the elders"
 	},
 	[17505] = {
-		Title = "Where is My Home (2)",
+		Title = "Where Is My Home",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"We'll go and talk about the clinic matter with <NAVI>[him]<INFO>wolfvill,171,253,0,101,0</INFO></NAVI> one more time later, so it would be best for outsiders to stay out of this matter."
+			"We will talk to <NAVI>[that person]<INFO>wolfvill,171,253,0,101,0</INFO></NAVI> about the clinic later ourselves, so it would be better for an outsider to stay out of this matter."
 		},
-		Summary = "Failed to Persuade"
+		Summary = "Persuasion failed"
 	},
 	[17506] = {
-		Title = "Where is My Home (3)",
+		Title = "Where Is My Home",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"It seems Ezekiel is asking for some Steel. Let's bring 3 of them <NAVI>[here]<INFO>wolfvill,171,253,0,101,0</INFO></NAVI>."
+			"Most goods can be obtained at <NAVI>[this place]<INFO>wolfvill,171,253,0,101,0</INFO></NAVI>, but not Steel. Please, just a little. About 3 pieces..."
 		},
-		Summary = "Collect 3 Steel"
+		Summary = "Steel x3"
 	},
 	[17507] = {
-		Title = "Where is My Home (4)",
+		Title = "Where Is My Home",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Let's talk to <NAVI>[Ezekiel]<INFO>wolfvill,171,253,0,101,0</INFO></NAVI> who helps another villager."
+			"Watch <NAVI>[Ezekiel]<INFO>wolfvill,171,253,0,101,0</INFO></NAVI> perform treatment."
 		},
-		Summary = "Treatment Process"
+		Summary = "Treatment process"
 	},
 	[17508] = {
-		Title = "[Daily] Shortage of Supplies",
+		Title = "Lack of Supplies",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Ezekiel]<INFO>wolfvill,171,253,0,101,0</INFO></NAVI> asked you to bring 1 <ITEM>[Steel]<INFO>999</INFO></ITEM> and 10 <ITEM>[Very Unusual Crystal]<INFO>1000406</INFO></ITEM>.",
-			"Very Unusual Crystal can be obtained from ^FF0000Gray Wolf^000000."
+			"Please bring 1 Steel and 10 Solid Berry Crystals. Solid Berry Crystals can be obtained from Gray Wolves. - <NAVI>[Ezekiel]<INFO>wolfvill,171,253,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Gather Required Materials"
+		Summary = "Construction Materials"
 	},
 	[17509] = {
-		Title = "[Cooldown] Shortage of Supplies",
+		Title = "Waiting: Lack of Supplies",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Adventurer, thank you for your hard work. Take a break today and I'll see you again after dawn!",
-			"",
-			"- <NAVI>[Ezekiel]<INFO>wolfvill,171,253,0,101,0</INFO></NAVI>"
+			"Adventurer, youâ_x0080__x0099_ve worked hard. Please rest for today and come back after dawn! - <NAVI>[Ezekiel]<INFO>wolfvill,171,253,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Reset after 20 hours",
+		Summary = "Resets at 04:00",
 		CoolTimeQuest = 1
 	},
 	[17510] = {
-		Title = "There are no evil beasts in this world (1)",
+		Title = "There Is No Bad Beast in the World",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"<NAVI>[Aisha]<INFO>wolfvill,99,178,0,101,0</INFO></NAVI> seems want to guide you to train a baby gray wolf."
+			"You only need to check whether what <NAVI>[Aisha]<INFO>wolfvill,99,178,0,101,0</INFO></NAVI> picked up is truly a wolf cub or just a puppy that looks like a wolf."
 		},
-		Summary = "Talk to Aisha"
+		Summary = "Go to Aisha"
 	},
 	[17511] = {
-		Title = "There are no evil beasts in this world (2)",
+		Title = "There Is No Bad Beast in the World",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"As long as you have a Meat, training a <NAVI>[Baby Gray Wolf]<INFO>wolfvill,100,177,0,101,0</INFO></NAVI> will not be a problem."
+			"As long as there is meat, training <NAVI>[Boksil]<INFO>wolfvill,100,177,0,101,0</INFO></NAVI> will not be a problem. One will be enough."
 		},
-		Summary = "Give Meat to Baby Gray Wolf"
+		Summary = "Meat and Boksil"
 	},
 	[17512] = {
-		Title = "There are no evil beasts in this world (3)",
+		Title = "There Is No Bad Beast in the World",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Let's get back to <NAVI>[Scania]<INFO>wolfvill,117,119,0,101,0</INFO></NAVI> and tell you are ready to become part of the village."
+			"Letâ_x0080__x0099_s show <NAVI>[Scania]<INFO>wolfvill,117,119,0,101,0</INFO></NAVI> that Boksil is ready to live as a member of this village!"
 		},
-		Summary = "Talk to Scania"
+		Summary = "To Scania"
 	},
 	[17513] = {
-		Title = "An Unexpected Shepherd (1)",
+		Title = "An Unexpected Shepherd",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"It seems the goat likes to graze in the <NAVI>[forest]<INFO>gw_fild01,138,106,0,101,0</INFO></NAVI>. Let's protect it while it's grazing."
+			"Boksil likes grazing in the <NAVI>[Forest]<INFO>gw_fild01,138,106,0,101,0</INFO></NAVI>. Please watch over it while it grazes."
 		},
-		Summary = "Go to the Forest"
+		Summary = "To the forest"
 	},
 	[17514] = {
-		Title = "An Unexpected Shepherd (2)",
+		Title = "An Unexpected Shepherd",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Let's defeat 20 Ashring while <NAVI>[Boksil]<INFO>gw_fild01,138,106,0,101,0</INFO></NAVI> is grazing."
+			"While <NAVI>[Boksil]<INFO>gw_fild01,138,106,0,101,0</INFO></NAVI> is grazing, defeat Ashring."
 		},
-		Summary = "Defeat 20 Ashring"
+		Summary = "Ashring x20"
 	},
 	[17515] = {
-		Title = "An Unexpected Shepherd (3)",
+		Title = "An Unexpected Shepherd",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Let's report back to <NAVI>[Scania]<INFO>wolfvill,117,119,0,101,0</INFO></NAVI> and return Boksil."
+			"Boksil, having finished grazing, seems to have returned to <NAVI>[Scania]<INFO>wolfvill,117,119,0,101,0</INFO></NAVI>. Go and report."
 		},
-		Summary = "Talk to Scania"
+		Summary = "To Scania"
 	},
 	[17516] = {
-		Title = "[Cooldown] An Unexpected Shepherd",
+		Title = "Waiting: An Unexpected Shepherd",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Adventurer, you worked hard. Then please ask again tomorrow! - <NAVI>[Scania]<INFO>wolfvill,117,119,0,101,0</INFO></NAVI>"
+			"Adventurer, youâ_x0080__x0099_ve worked hard. Please help again tomorrow! - <NAVI>[Scania]<INFO>wolfvill,117,119,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Reset after 20 hours.",
+		Summary = "Resets at 04:00",
 		CoolTimeQuest = 1
 	},
 	[17517] = {
-		Title = "Rebellion (1)",
+		Title = "Rebellion",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"We need to warn <NAVI>[those guys]<INFO>wolfvill,131,257,0,101,0</INFO></NAVI> about the weapons."
+			"A caravan attack? First, I should meet those <NAVI>[fellows]<INFO>wolfvill,131,257,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Check the truth"
+		Summary = "Investigate the situation"
 	},
 	[17518] = {
-		Title = "Rebellion (2)",
+		Title = "Rebellion",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Although the punishment was relatively light, <NAVI>[Wolves]<INFO>wolfvill,131,257,0,101,0</INFO></NAVI> seem to be very dissatisfied."
+			"Although a relatively light punishment was given, the <NAVI>[wolves]<INFO>wolfvill,131,257,0,101,0</INFO></NAVI> seem very dissatisfied."
 		},
-		Summary = "People Rebel"
+		Summary = "Discontented people"
 	},
 	[17519] = {
-		Title = "Rebellion (3)",
+		Title = "Rebellion",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Well, now that it's decided, let's hurry. Tell them to gather <NAVI>[in front of the temple]<INFO>rachel,169,245,0,101,0</INFO></NAVI>."
+			"Then itâ_x0080__x0099_s decided, letâ_x0080__x0099_s hurry. Tell them to gather at <NAVI>[In front of the temple]<INFO>rachel,169,245,0,101,0</INFO></NAVI> in Rachel for the protest."
 		},
-		Summary = "Start the Protest!"
+		Summary = "Carry out the protest!"
 	},
 	[17520] = {
-		Title = "Wolf Among Sheep (1)",
+		Title = "A Wolf in Sheepâ_x0080__x0099_s Clothing",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Let's participate in the protest at <NAVI>[Rachel]<INFO>rachel,169,245,0,101,0</INFO></NAVI>."
+			"Participate in the protest at the <NAVI>[Temple]<INFO>rachel,169,245,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Go to the temple"
+		Summary = "To the temple"
 	},
 	[17521] = {
-		Title = "Wolf Among Sheep (2)",
+		Title = "When Conversation Is Needed",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Everyone is moving to <NAVI>[Safe Place]<INFO>rachel,116,200,0,101,0</INFO></NAVI>."
+			"If things are roughly settled, move quickly. Everyone is heading to a <NAVI>[safe place]<INFO>rachel,116,200,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Let's evacuate quickly"
+		Summary = "Evacuate quickly"
 	},
 	[17522] = {
-		Title = "Wolf Among Sheep (3)",
+		Title = "Cleaning Up the Defectors",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"The main forces that infiltrated the temple have escaped, but please clean up the temple guards who have crossed over to the Heart Hunters! - <NAVI>[Priest]<INFO>rachel,169,245,0,101,0</INFO></NAVI>"
+			"The main forces that infiltrated the temple have withdrawn, but please eliminate the temple guards who have defected to the Heart Hunter side! - <NAVI>[Priest]<INFO>rachel,169,245,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Defeat the Traitors"
+		Summary = "Eliminate the defectors"
 	},
 	[17523] = {
 		Title = "Sanctuary Purification",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"The remnants of the Heart Hunters still lingering in the Sanctuary Sessrumnir Heart Storage. Let's clear them out! - <NAVI>[Priest]<INFO>rachel,169,245,0,101,0</INFO></NAVI>"
+			"The remnants of Heart Hunter appearing in the heart repository are causing trouble. Please join the extermination operation! - <NAVI>[Priest]<INFO>rachel,169,245,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Clear the Heart Hunters"
+		Summary = "Eliminate Heart Hunter remnants"
 	},
 	[17524] = {
-		Title = "[Completed] Renegade Cleaning",
+		Title = "Cleaning Up the Defectors",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"The operation to clear out the traitors has been completed. Let's report back to the <NAVI>[Priest]<INFO>rachel,169,245,0,101,0</INFO></NAVI>."
+			"You have completed the extermination of the defected guards. Return to <NAVI>[Priest]<INFO>rachel,169,245,0,101,0</INFO></NAVI> and report."
 		},
-		Summary = "Report to the Priest"
+		Summary = "Report to Priest"
 	},
 	[17525] = {
-		Title = "Aftermath",
+		Title = "When Conversation Is Needed",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Miriam said she had someone to accompany her and asked her to meet separately at the Maze of Oz. Let's wait at the appointment <NAVI>[location]<INFO>oz_dun01,223,116,0,101,0</INFO></NAVI>."
+			"Miriam said she has someone to accompany and asked to meet separately at Oz Labyrinth. There is a place where Oz Labyrinth is exposed outside the cliff. Wait at <NAVI>[Meeting Place]<INFO>oz_dun01,223,116,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Go to the meeting place"
+		Summary = "To the meeting place"
 	},
 	[17526] = {
-		Title = "[Completed] Sanctuary Purification",
+		Title = "Sanctuary Purification",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"The operation to clear out the Heart Hunters has been completed. Let's report back to the <NAVI>[Priest]<INFO>rachel,169,245,0,101,0</INFO></NAVI>."
+			"You have completed the extermination operation of Heart Hunter in the repository. Return to <NAVI>[Priest]<INFO>rachel,169,245,0,101,0</INFO></NAVI> and report."
 		},
-		Summary = "Report to the Priest"
+		Summary = "Report to Priest"
 	},
 	[17527] = {
-		Title = "[Cooldown] Sanctuary Purification",
+		Title = "Waiting: Extermination Operation",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Thank you adventurer for your cooperation. Please rest today and cooperate again tomorrow! - <NAVI>[Priest]<INFO>rachel,169,245,0,101,0</INFO></NAVI>"
+			"Thank you for your cooperation, Adventurer. Please rest today and we ask for your help again tomorrow! - <NAVI>[Priest]<INFO>rachel,169,245,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Reset after 20 hours",
+		Summary = "Resets at 04:00",
 		CoolTimeQuest = 1
 	},
 	[17538] = {
@@ -48515,7 +48443,7 @@ Talk to Kar=],
 		Summary = "Talk to Verkhasel"
 	},
 	[18060] = {
-		Title = "For Shadow Crosses 1",
+		Title = "Path to Shadow Cross 1",
 		IconName = "ico_jq.bmp",
 		Description = {
 			"Verkhasel asked me to investigate the Shadow Phenomenon <NAVI>[near the dock]<INFO>ve_fild07,99,141,0,101,0</INFO></NAVI> on the southern coast of Veins. There's a clue as to becoming a Shadow Cross."
@@ -48523,7 +48451,7 @@ Talk to Kar=],
 		Summary = "Look for the Shadow"
 	},
 	[18061] = {
-		Title = "For Shadow Crosses 2",
+		Title = "Path to Shadow Cross 2",
 		IconName = "ico_jq.bmp",
 		Description = {
 			"I should find Tori in Veins and ask him about the Shadow Phenomenon. If I don't see him, I can shout out his name <NAVI>[here]<INFO>veins,87,158,0,101,0</INFO></NAVI>."
@@ -48531,7 +48459,7 @@ Talk to Kar=],
 		Summary = "Talk to Tori"
 	},
 	[18062] = {
-		Title = "For Shadow Crosses 3",
+		Title = "Path to Shadow Cross 3",
 		IconName = "ico_jq.bmp",
 		Description = {
 			"I should check the containers <NAVI>[near the dock]<INFO>ve_fild07,99,141,0,101,0</INFO></NAVI> again. Perhaps Noir might respond to me this time."
@@ -48539,7 +48467,7 @@ Talk to Kar=],
 		Summary = "Talk to Noir"
 	},
 	[18063] = {
-		Title = "For Shadow Crosses 4",
+		Title = "Path to Shadow Cross 4",
 		IconName = "ico_jq.bmp",
 		Description = {
 			"I've verified the information. I should report back to <NAVI>[Verkhasel]<INFO>ve_in,212,384,0,101,0</INFO></NAVI> in the safehouse."
@@ -48547,15 +48475,15 @@ Talk to Kar=],
 		Summary = "Talk to Verkhasel"
 	},
 	[18064] = {
-		Title = "For Shadow Crosses 5",
+		Title = "Path to Shadow Cross 5",
 		IconName = "ico_jq.bmp",
 		Description = {
-			"I should bring 5 <ITEM>Crystals of Darkness<INFO>7799</INFO></ITEM> ,20 <ITEM>Dark Piece<INFO>6089</INFO></ITEM> to Verkhasel in this <NAVI>[location]<INFO>ve_fild05,317,235,0,101,0</INFO></NAVI>. I can collect Crystals of Darkness from Incarnations of Morroc and Dark Pieces in Rudus."
+			"I should bring 5 <ITEM>Crystals of Darkness<INFO>7799</INFO></ITEM> ,20 <ITEM>Dark Pieces<INFO>6089</INFO></ITEM> to Verkhasel at this <NAVI>[location]<INFO>ve_fild05,317,235,0,101,0</INFO></NAVI>. I can collect Crystals of Darkness from Incarnations of Morroc and Dark Pieces in Rudus."
 		},
 		Summary = "Talk to Verkhasel"
 	},
 	[18065] = {
-		Title = "For Shadow Crosses 6",
+		Title = "Path to Shadow Cross 6",
 		IconName = "ico_jq.bmp",
 		Description = {
 			"I should enter the Shadowy Mansion with <NAVI>[Verkhasel]<INFO>ve_fild05,317,235,0,101,0</INFO></NAVI> and use the Crystals of Darkness and Dark Pieces I have to summon the Dark Elemental."
@@ -48563,7 +48491,7 @@ Talk to Kar=],
 		Summary = "Summon the Dark Elemental"
 	},
 	[18066] = {
-		Title = "For Shadow Crosses 7",
+		Title = "Path to Shadow Cross 7",
 		IconName = "ico_jq.bmp",
 		Description = {
 			"I should pass the Dark Elemental's test. If I fail, I can reenter the Shadowy Mansion through <NAVI>[Verkhasel]<INFO>ve_fild05,317,235,0,101,0</INFO></NAVI> on the Veins Field."
@@ -48571,7 +48499,7 @@ Talk to Kar=],
 		Summary = ""
 	},
 	[18067] = {
-		Title = "For Shadow Crosses 8",
+		Title = "Path to Shadow Cross 8",
 		IconName = "ico_jq.bmp",
 		Description = {
 			"I should get ready to become a Shadow Cross, and then talk to the Dark Elemental again."
@@ -48593,7 +48521,7 @@ Talk to Kar=],
 		Summary = "Gallina"
 	},
 	[18070] = {
-		Title = "For Abyss Chasers 1",
+		Title = "Path to Abyss Chasers 1",
 		IconName = "ico_jq.bmp",
 		Description = {
 			"I should go to <NAVI>[Julie]<INFO>rachel,54,48,0,101,0</INFO></NAVI> in the market district on the southwest side of Rachel and ask her about the dark elemental."
@@ -48601,7 +48529,7 @@ Talk to Kar=],
 		Summary = "Talk to Julie"
 	},
 	[18071] = {
-		Title = "For Abyss Chasers 2",
+		Title = "Path to Abyss Chasers 2",
 		IconName = "ico_jq.bmp",
 		Description = {
 			"Julie wants me to warn her brothers who went to the <NAVI>[Abandoned Post]<INFO>ve_fild02,53,189,0,101,0</INFO></NAVI> in the south of Rachel."
@@ -48609,7 +48537,7 @@ Talk to Kar=],
 		Summary = "Talk to Mulie"
 	},
 	[18072] = {
-		Title = "For Abyss Chasers 3",
+		Title = "Path to Abyss Chasers 3",
 		IconName = "ico_jq.bmp",
 		Description = {
 			"After sending Mulie and Peter away, I decided to look for the dark elemental that the children mentioned."
@@ -48617,7 +48545,7 @@ Talk to Kar=],
 		Summary = "Investigate Pale Shadow"
 	},
 	[18073] = {
-		Title = "For Abyss Chasers 4",
+		Title = "Path to Abyss Chasers 4",
 		IconName = "ico_jq.bmp",
 		Description = {
 			"I should report back to Vicente in Rachel's <NAVI>[Shadow Workshop]<INFO>rachel,180,117,0,101,0</INFO></NAVI>."
@@ -48625,7 +48553,7 @@ Talk to Kar=],
 		Summary = "Talk to Vicente"
 	},
 	[18074] = {
-		Title = "For Abyss Chasers 5",
+		Title = "Path to Abyss Chasers 5",
 		IconName = "ico_jq.bmp",
 		Description = {
 			"I should bring 5 <ITEM>Crystals of Darkness<INFO>7799</INFO></ITEM> ,20 <ITEM>Dark Piece<INFO>6089</INFO></ITEM> to Vicente in Rachel's <NAVI>[Shadow Workshop]<INFO>rachel,180,117,0,101,0</INFO></NAVI>. I can collect Crystals of Darkness from Incarnations of Morroc and Dark Pieces in Rudus."
@@ -48633,7 +48561,7 @@ Talk to Kar=],
 		Summary = "Collect items, and then talk to Vicente"
 	},
 	[18075] = {
-		Title = "For Abyss Chasers 6",
+		Title = "Path to Abyss Chasers 6",
 		IconName = "ico_jq.bmp",
 		Description = {
 			"I should go meet <NAVI>[Doomk]<INFO>ve_fild05,313,110,0,101,0</INFO></NAVI> where Vicente told me. I cannot forget about the Crystals of Darkness and Dark Pieces I need to summon the Dark Elemental."
@@ -48641,7 +48569,7 @@ Talk to Kar=],
 		Summary = "Talk to Doomk"
 	},
 	[18076] = {
-		Title = "For Abyss Chasers 7",
+		Title = "Path to Abyss Chasers 7",
 		IconName = "ico_jq.bmp",
 		Description = {
 			"I should pass the Dark Elemental's test. If I fail, I can reenter the Abyssal Mansion through <NAVI>[Doomk]<INFO>ve_fild05,313,110,0,101,0</INFO></NAVI> on the Veins Field."
@@ -48649,7 +48577,7 @@ Talk to Kar=],
 		Summary = ""
 	},
 	[18077] = {
-		Title = "For Abyss Chasers 8",
+		Title = "Path to Abyss Chasers 8",
 		IconName = "ico_jq.bmp",
 		Description = {
 			"I should get ready to become an Abyss Chaser, and then talk to the Dark Elemental again."
@@ -48670,65 +48598,70 @@ Talk to Kar=],
 		},
 		Summary = "Csar Aleksay III"
 	},
+	[18081] = {
+		Title = "Orcish Voucher Delivery - Waiting",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Once per day, you can deliver 100 <ITEM>[Orcish Voucher]<INFO>931</INFO></ITEM> to the Goblin Leader as proof that you defeated Orcs to help manage Goblin territory."
+		},
+		Summary = "Resets at 04:00",
+		CoolTimeQuest = 1
+	},
 	[18082] = {
-		Title = "Eligibility to attend the competition",
+		Title = "Qualification to Attend the Conference",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"I was recognized as a member of the Gray Wolf Village and was eligible to attend the grand meeting.",
-			"Let's ask <NAVI>[Village Boy]<INFO>wolfvill,180,179,0,101,0</INFO></NAVI> where the grand meeting will be held."
+			"You have been recognized as a member of Gray Wolf Village and gained the qualification to attend the conference. Ask <NAVI>[Kayplas]<INFO>wolfvill,180,179,0,101,0</INFO></NAVI> where the conference will be held."
 		},
-		Summary = "Ask the Village Boy",
+		Summary = "Ask Kayplas about the conference location",
 		NpcSpr = "4_M_DST_CHILD",
 		NpcNavi = "wolfvill",
 		NpcPosX = 180,
 		NpcPosY = 179
 	},
 	[18083] = {
-		Title = "High Priest's Villa",
+		Title = "Investigation of the High Priestâ_x0080__x0099_s Villa",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"You decided to investigate High Priest Amal's villa to find the whereabouts of Bagot and the Heart Hunter.",
-			"with hope to interfere Bagot and High Priest Amal's plans."
+			"To find the whereabouts of Bagot and Heart Hunter, you decided to investigate the villa of High Priest Amal. If possible, interfere with the plans of Bagot and High Priest Amal."
 		},
-		Summary = "Investigate the Villa"
+		Summary = "Investigation of the High Priestâ_x0080__x0099_s Villa"
 	},
 	[18084] = {
-		Title = "Fact Finding",
+		Title = "Investigate the truth",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"We must find out what High Priest Amal's true purpose was and why he cooperated with the Illusion.",
-			"Let's talk to <NAVI>[Miriam]<INFO>ra_temin,254,117,0,101,0</INFO></NAVI> in Sessrumnir."
+			"You must find out what High Priest Amal's true objective was and why he cooperated with Illusion. Speak with <NAVI>[Miriam]<INFO>ra_temin,254,117,0,101,0</INFO></NAVI> in Sesrumnir."
 		},
-		Summary = "Talk to Miriam"
+		Summary = "Speak with Miriam"
 	},
 	[18085] = {
 		Title = "Direction of Prayer",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Elly appeared in a strange form at the Sanctuary of Sessrumnir. It looks like she has something important to say.",
-			"Let's talk to <NAVI>[Elly]<INFO>ra_temin,258,117,0,101,0</INFO></NAVI>."
+			"Eli appeared in a mysterious form at the Sesrumnir temple. It seems there is something important to say. Speak with <NAVI>[Eli]<INFO>ra_temin,258,117,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Talk to Elly"
+		Summary = "Speak with Eli"
 	},
 	[18086] = {
-		Title = "[Daily] Gray Wolf Forest Hunting",
+		Title = "Making the Gray Wolf Forest Safer",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"The <NAVI>[Gatekeeper]<INFO>gw_fild01,32,101,0,101,0</INFO></NAVI> asked you to hunt the monsters in the Gray Wolf Forest to make the village safer."
+			"The <NAVI>[Gatekeeper]<INFO>gw_fild01,32,101,0,101,0</INFO></NAVI> of Gray Wolf Village asked you to defeat monsters in the Gray Wolf Forest for his safety."
 		},
-		Summary = "Hunt Monsters in Gray Wolf Forest",
+		Summary = "Defeat monsters in the Gray Wolf Forest",
 		NpcSpr = "4_M_SITDOWN",
 		NpcNavi = "gw_fild01",
 		NpcPosX = 32,
 		NpcPosY = 101
 	},
 	[18087] = {
-		Title = "[Cooldown] Gray Wolf Forest Hunting",
+		Title = "Making the Gray Wolf Forest Safer-Waiting",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"It seems the <NAVI>[Gatekeeper]<INFO>gw_fild01,32,101,0,101,0</INFO></NAVI> is expecting you to help with the hunt again tomorrow."
+			"This quest can be accepted again after the waiting time has passed through the <NAVI>[Gatekeeper]<INFO>gw_fild01,32,101,0,101,0</INFO></NAVI> at Thanatos Tower."
 		},
-		Summary = "Reset after 20 hours",
+		Summary = "Resets at 04:00",
 		CoolTimeQuest = 1,
 		NpcSpr = "4_M_SITDOWN",
 		NpcNavi = "gw_fild01",
@@ -49362,6 +49295,509 @@ Talk to Kar=],
 			"and go back to <NAVI>[Investigator Rudolf]<INFO>aldebaran,171,153,0,101,0</INFO></NAVI> for rewards."
 		},
 		Summary = ""
+	},
+	[19116] = {
+		Title = "Pisruik's Research (1)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"If you deliver the materials I need right now, I'll teach you what I'm making in return. The materials I need now are..",
+			"_x0096_ï¿½5 <ITEM>[Yellow Gemstones]<INFO>715</INFO></ITEM>,",
+			"_x0096_ï¿½4 <ITEM>[Empty Potion Bottles]<INFO>1093</INFO></ITEM>,",
+			"_x0096_ï¿½10 <ITEM>[Mermaid's Heart]<INFO>950</INFO></ITEM>,",
+			"_x0096_ï¿½10 <ITEM>[Moth Dust]<INFO>1057</INFO></ITEM>",
+			"",
+			"Once you have all the materials, bring them to <NAVI>[Pisruik]<INFO>yuno_in04,33,108,0,101,0</INFO></NAVI>."
+		},
+		Summary = "",
+		NpcSpr = "4_M_ALCHE_D",
+		NpcNavi = "yuno_in04",
+		NpcPosX = 33,
+		NpcPosY = 108
+	},
+	[19117] = {
+		Title = "Pisruik's Research (2-1)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"I need about 20 <ITEM>[Maneater Blossom]<INFO>1032</INFO></ITEM> to test my theory.. Could I ask you for this too?",
+			"",
+			"Once you have all the materials, bring them to <NAVI>[Pisruik]<INFO>yuno_in04,33,108,0,101,0</INFO></NAVI>."
+		},
+		Summary = "20 Maneater Blossom",
+		NpcSpr = "4_M_ALCHE_D",
+		NpcNavi = "yuno_in04",
+		NpcPosX = 33,
+		NpcPosY = 108
+	},
+	[19118] = {
+		Title = "Pisruik's Research (2-2)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"The experiment isn't going as well as I thought.. Could you get me just 1 more <ITEM>[Maneater Blossom]<INFO>1032</INFO></ITEM>? Please.",
+			"",
+			"Once you have all the materials, bring them to <NAVI>[Pisruik]<INFO>yuno_in04,33,108,0,101,0</INFO></NAVI>."
+		},
+		Summary = "1 Maneater Blossom",
+		NpcSpr = "4_M_ALCHE_D",
+		NpcNavi = "yuno_in04",
+		NpcPosX = 33,
+		NpcPosY = 108
+	},
+	[19119] = {
+		Title = "Pisruik's Research (3)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"Um.. I'm sorry, but could you get me glasses like the ones I was wearing? I can't see ahead, so I can't move. I'd really appreciate it if you could get them for me.",
+			"",
+			"Obtain <ITEM>[Geek Glasses]<INFO>2243</INFO></ITEM> and bring them to <NAVI>[Pisruik]<INFO>yuno_in04,33,108,0,101,0</INFO></NAVI>.",
+			"^FF0000_x0080_ï¿½ Please make sure you do not have another pair of Geek Glasses equipped in your inventory.^000000"
+		},
+		Summary = "1 Geek Glasses",
+		NpcSpr = "4_M_ALCHE_D",
+		NpcNavi = "yuno_in04",
+		NpcPosX = 33,
+		NpcPosY = 108
+	},
+	[19120] = {
+		Title = "The Bard's Song (1)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"I can't stop thinking about what the Timid Youth",
+			"who liked {{P:^000000}}[Tropical Sograt]{{P:^FFFFFF}} in Prontera said. A bard's curse.. For gathering information like this, surely..",
+			"I should start at the <NAVI>[Morroc tavern]<INFO>morocc_in,179,65,0,101,0</INFO></NAVI>, right?"
+		},
+		Summary = "Gather Information"
+	},
+	[19121] = {
+		Title = "The Bard's Song (1)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"The Bard <NAVI>[Riot]<INFO>morocc_in,169,72,0,101,0</INFO></NAVI> I met at the Morroc tavern",
+			"refuses to deal with me, saying I am not a poet's friend. A young poet crying in Geffen? What could he mean?",
+			"",
+			"_x0080_ï¿½ You must clear the <TIPBOX>[Bard]<INFO>6123</INFO></TIPBOX> quest in Geffen."
+		},
+		Summary = "",
+		NpcSpr = "2_M_BARD_ORIENT",
+		NpcNavi = "morocc_in",
+		NpcPosX = 169,
+		NpcPosY = 72
+	},
+	[19122] = {
+		Title = "The Bard's Song (2)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"Riot.. Does he mean he won't teach me easily?",
+			"A place you can reach by riding tree roots? Niflhiem?",
+			"Does he want me to bring five Yhelle eggs from Niflhiem?",
+			"",
+			"Find Yhelle in Niflhiem, obtain five <ITEM>[eggs]<INFO>574</INFO></ITEM>, and bring them to <NAVI>[Riot]<INFO>morocc_in,169,72,0,101,0</INFO></NAVI>.",
+			"",
+			"_x0096_ï¿½Yhelle Appearance Areas",
+			"<NAVI>[Location]<INFO>niflheim,239,70,0,101,0</INFO></NAVI>/<NAVI>[Location]<INFO>niflheim,185,205,0,101,0</INFO></NAVI>/<NAVI>[Location]<INFO>niflheim,85,203,0,101,0</INFO></NAVI>/<NAVI>[Location]<INFO>niflheim,149,81,0,101,0</INFO></NAVI>/<NAVI>[Location]<INFO>niflheim,209,144,0,101,0</INFO></NAVI>",
+			"^FF0000_x0080_ï¿½ Navigation out of the City of the Dead is not available.^000000"
+		},
+		Summary = "5 Yhelle Eggs",
+		NpcSpr = "2_M_BARD_ORIENT",
+		NpcNavi = "morocc_in",
+		NpcPosX = 169,
+		NpcPosY = 72
+	},
+	[19123] = {
+		Title = "The Bard's Song (2)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"Strange?! I'm sure I got five eggs from Yhelle? If I want to learn the skill, I have to bring 1 Munak Doll?",
+			"",
+			"Obtain 1 <ITEM>[Munak Doll]<INFO>7277</INFO></ITEM> and bring it to <NAVI>[Riot]<INFO>morocc_in,169,72,0,101,0</INFO></NAVI>."
+		},
+		Summary = "1 Munak Doll",
+		NpcSpr = "2_M_BARD_ORIENT",
+		NpcNavi = "morocc_in",
+		NpcPosX = 169,
+		NpcPosY = 72
+	},
+	[19124] = {
+		Title = "Tidings That Do Not Fade (1)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"Ford Leslie in Geffen is worried because the person assigned to duty in Britoniah has not sent any word.",
+			"",
+			"_x0096_ï¿½Go to [Britoniah] and look for a knight named ^0000FFSlaty^191240."
+		},
+		Summary = "Find Knight Slaty",
+		NpcSpr = "4_M_CRU",
+		NpcNavi = "gef_fild13",
+		NpcPosX = 297,
+		NpcPosY = 242
+	},
+	[19125] = {
+		Title = "Tidings That Do Not Fade (2)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"To help the injured and unconscious <NAVI>[Slaty]<INFO>gef_fild13,297,242,0,101,0</INFO></NAVI> regain consciousness..",
+			"",
+			"_x0096_ï¿½Bring 1 <ITEM>[Red Potion]<INFO>501</INFO></ITEM>."
+		},
+		Summary = "Give Slaty a Red Potion..",
+		NpcSpr = "4_M_CRU",
+		NpcNavi = "gef_fild13",
+		NpcPosX = 297,
+		NpcPosY = 242
+	},
+	[19126] = {
+		Title = "Tidings That Do Not Fade (3)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"The report and chivalry deployment request that Slaty was risking his life to deliver...",
+			"",
+			"_x0096_ï¿½Bring them to <NAVI>[Ford]<INFO>geffen,110,117,0,101,0</INFO></NAVI> in Geffen."
+		},
+		Summary = "To Ford..",
+		NpcSpr = "4_M_CRU_OLD",
+		NpcNavi = "geffen",
+		NpcPosX = 110,
+		NpcPosY = 117
+	},
+	[19127] = {
+		Title = "Tidings That Do Not Fade (4)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"They say wounds caused by Knife Goblin poison will not heal without an antidote. Go to the priest at Prontera Church who can make the antidote,",
+			"",
+			"_x0096_ï¿½<NAVI>[Arthur]<INFO>prt_church,87,125,0,101,0</INFO></NAVI>, and obtain the remedy."
+		},
+		Summary = "",
+		NpcSpr = "4_M_SAGE_C",
+		NpcNavi = "prt_church",
+		NpcPosX = 87,
+		NpcPosY = 125
+	},
+	[19128] = {
+		Title = "Tidings That Do Not Fade (5)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"<NAVI>[Arthur]<INFO>prt_church,87,125,0,101,0</INFO></NAVI> said he needs ingredients for the Goblin poison remedy and told you what they are. Gather the ingredients and bring them to him.",
+			"",
+			"_x0096_ï¿½Remedy Ingredients",
+			"1 <ITEM>[Grape]<INFO>514</INFO></ITEM>, 1 <ITEM>[Unripe Apple]<INFO>619</INFO></ITEM>, 3 <ITEM>[Empty Bottle]<INFO>713</INFO></ITEM>,",
+			"5 <ITEM>[Jellopy]<INFO>909</INFO></ITEM>, 20 <ITEM>[Sticky Mucus]<INFO>938</INFO></ITEM>,",
+			"1 <ITEM>[Coal]<INFO>1003</INFO></ITEM>, 3 <ITEM>[Cyfar]<INFO>7053</INFO></ITEM>"
+		},
+		Summary = "Remedy Ingredients",
+		NpcSpr = "4_M_SAGE_C",
+		NpcNavi = "prt_church",
+		NpcPosX = 87,
+		NpcPosY = 125
+	},
+	[19129] = {
+		Title = "Tidings That Do Not Fade (6)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"<NAVI>[Arthur]<INFO>prt_church,87,125,0,101,0</INFO></NAVI> is preparing the Goblin poison remedy.",
+			"",
+			"_x0096_ï¿½Talk to him and see if the preparation is complete."
+		},
+		Summary = "",
+		NpcSpr = "4_M_SAGE_C",
+		NpcNavi = "prt_church",
+		NpcPosX = 87,
+		NpcPosY = 125
+	},
+	[19130] = {
+		Title = "Tidings That Do Not Fade (7)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"The Goblin poison remedy is complete.",
+			"",
+			"_x0096_ï¿½Bring it to <NAVI>[Slaty]<INFO>gef_fild13,297,242,0,101,0</INFO></NAVI> before the remedy loses its effect."
+		},
+		Summary = "To Britoniah..",
+		NpcSpr = "4_M_CRU",
+		NpcNavi = "gef_fild13",
+		NpcPosX = 297,
+		NpcPosY = 242
+	},
+	[19131] = {
+		Title = "Tidings That Do Not Fade (7)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"Did I arrive too late?",
+			"The remedy given to Slaty had no effect.",
+			"",
+			"_x0096_ï¿½Ask <NAVI>[Arthur]<INFO>prt_church,87,125,0,101,0</INFO></NAVI> to make the remedy again."
+		},
+		Summary = "To Arthur..",
+		NpcSpr = "4_M_SAGE_C",
+		NpcNavi = "prt_church",
+		NpcPosX = 87,
+		NpcPosY = 125
+	},
+	[19132] = {
+		Title = "Bioethics (1)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"I spoke to Kellasus, the authority on Homunculus Bioethics, and was ignored. They say he normally won't even deal with people.. Could it be?",
+			"",
+			"_x0096_ï¿½Keep talking to <NAVI>[Kellasus]<INFO>lhz_in01,224,140,0,101,0</INFO></NAVI>."
+		},
+		Summary = "",
+		NpcSpr = "1_M_LIBRARYMASTER",
+		NpcNavi = "lhz_in01",
+		NpcPosX = 224,
+		NpcPosY = 140
+	},
+	[19133] = {
+		Title = "Bioethics (2)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"To receive instruction in Homunculus techniques from Kellasus, it seems I must first acquire knowledge about Homunculi.",
+			"",
+			"_x0096_ï¿½Ask <NAVI>[Skrajjad]<INFO>lhz_in01,225,122,0,101,0</INFO></NAVI> about Homunculi."
+		},
+		Summary = "",
+		NpcSpr = "4_M_SAGE_A",
+		NpcNavi = "lhz_in01",
+		NpcPosX = 225,
+		NpcPosY = 122
+	},
+	[19134] = {
+		Title = "Bioethics (3)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"Skrajjad introduced Keshibien, who knows the ^FF0000Call Homunculus^000000 skill in detail.",
+			"",
+			"_x0096_ï¿½Ask <NAVI>[Keshibien]<INFO>lhz_in01,204,138,0,101,0</INFO></NAVI> about Call Homunculus."
+		},
+		Summary = "",
+		NpcSpr = "4_M_ALCHE_C",
+		NpcNavi = "lhz_in01",
+		NpcPosX = 204,
+		NpcPosY = 138
+	},
+	[19135] = {
+		Title = "Bioethics (4)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"Keshibien finally introduced Broncher, who knows the FF0000Homunculus Resurrection^000000 skill in detail.",
+			"",
+			"_x0096_ï¿½Ask <NAVI>[Broncher]<INFO>lhz_in02,278,273,0,101,0</INFO></NAVI> about Homunculus Resurrection."
+		},
+		Summary = "",
+		NpcSpr = "4_M_SEAMAN",
+		NpcNavi = "lhz_in02",
+		NpcPosX = 278,
+		NpcPosY = 273
+	},
+	[19136] = {
+		Title = "Bioethics (5)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"I learned about the Homunculus skills Vaporize, Call Homunculus, and Homunculus Resurrection.",
+			"",
+			"_x0096_ï¿½Ask <NAVI>[Kellasus]<INFO>lhz_in01,224,140,0,101,0</INFO></NAVI> to teach you Bioethics."
+		},
+		Summary = "",
+		NpcSpr = "1_M_LIBRARYMASTER",
+		NpcNavi = "lhz_in01",
+		NpcPosX = 224,
+		NpcPosY = 140
+	},
+	[19137] = {
+		Title = "Bioethics (6)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"How can I break Kellasus's stubborn belief that Homunculi are living beings and that humans should not speak lightly of them?",
+			"",
+			"_x0096_ï¿½Should I at least meet <NAVI>[Kellasus's family]<INFO>lhz_in03,106,34,0,101,0</INFO></NAVI>?"
+		},
+		Summary = "",
+		NpcSpr = "4_M_KID1",
+		NpcNavi = "lhz_in03",
+		NpcPosX = 106,
+		NpcPosY = 34
+	},
+	[19138] = {
+		Title = "Bioethics (7)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"After meeting Mr. Kellasus's son, I thought of a way to break his stubbornness.",
+			"",
+			"_x0096_ï¿½Go to <NAVI>[Kellasus]<INFO>lhz_in01,224,140,0,101,0</INFO></NAVI> and speak with him."
+		},
+		Summary = "",
+		NpcSpr = "1_M_LIBRARYMASTER",
+		NpcNavi = "lhz_in01",
+		NpcPosX = 224,
+		NpcPosY = 140
+	},
+	[19139] = {
+		Title = "Bioethics (8)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"After listening to me, Kellasus seems to have a lot on his mind.",
+			"",
+			"_x0096_ï¿½Continue talking to <NAVI>[Kellasus]<INFO>lhz_in01,224,140,0,101,0</INFO></NAVI>."
+		},
+		Summary = "",
+		NpcSpr = "1_M_LIBRARYMASTER",
+		NpcNavi = "lhz_in01",
+		NpcPosX = 224,
+		NpcPosY = 140
+	},
+	[19140] = {
+		Title = "Bioethics (9)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"It seems Kellasus has finished organizing his thoughts.",
+			"",
+			"_x0096_ï¿½Learn Bioethics from <NAVI>[Kellasus]<INFO>lhz_in01,224,140,0,101,0</INFO></NAVI>."
+		},
+		Summary = "",
+		NpcSpr = "1_M_LIBRARYMASTER",
+		NpcNavi = "lhz_in01",
+		NpcPosX = 224,
+		NpcPosY = 140
+	},
+	[19141] = {
+		Title = "Charge Attack (1)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"Knight Aesop of the Prontera 7th Chivalry says that if I want to know the true state of the chivalry, I should observe the training outside.",
+			"",
+			"_x0096_ï¿½Observe the <NAVI>[Chivalry Training]<INFO>prontera,69,351,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Observe Chivalry Training"
+	},
+	[19142] = {
+		Title = "Charge Attack (2)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"As Aesop said, I observed the chivalry's training.",
+			"",
+			"_x0096_ï¿½Return to <NAVI>[Aesop]<INFO>prt_in,85,99,0,101,0</INFO></NAVI>."
+		},
+		Summary = "",
+		NpcSpr = "4_M_JOB_KNIGHT2",
+		NpcNavi = "prt_in",
+		NpcPosX = 85,
+		NpcPosY = 99
+	},
+	[19143] = {
+		Title = "Charge Attack (3)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"Aesop seems to have lost all passion and motivation. While observing, I think I heard about Aesop's novice days? Something about how a knight should have the ability to gather 5 Candy Cane and 3 Witherless Rose at any time?",
+			"",
+			"_x0096_ï¿½Obtain 5 <ITEM>[Candy Cane]<INFO>530</INFO></ITEM> and 3 <ITEM>[Witherless Rose]<INFO>748</INFO></ITEM>,",
+			"_x0096_ï¿½then bring them to <NAVI>[Aesop]<INFO>prt_in,85,99,0,101,0</INFO></NAVI>."
+		},
+		Summary = "For the Knight Who Lost His Motivation",
+		NpcSpr = "4_M_JOB_KNIGHT2",
+		NpcNavi = "prt_in",
+		NpcPosX = 85,
+		NpcPosY = 99
+	},
+	[19144] = {
+		Title = "Charge Attack (4)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"Aesop says he will pass down a technique he developed after much research.",
+			"",
+			"_x0096_ï¿½Learn the technique from <NAVI>[Aesop]<INFO>prt_in,85,99,0,101,0</INFO></NAVI>."
+		},
+		Summary = "",
+		NpcSpr = "4_M_JOB_KNIGHT2",
+		NpcNavi = "prt_in",
+		NpcPosX = 85,
+		NpcPosY = 99
+	},
+	[19145] = {
+		Title = "Training Monk's Technique (1)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"Excruciating Palm, which the Monks created with all their might, cannot be used without knowing Spiritual Bestowment?",
+			"",
+			"_x0096_ï¿½Go find <NAVI>[some foolish idiot]<INFO>prt_monk,270,198,0,101,0</INFO></NAVI> who can supposedly use Spiritual Bestowment alone."
+		},
+		Summary = "",
+		NpcSpr = "4_M_MONK",
+		NpcNavi = "prt_monk",
+		NpcPosX = 270,
+		NpcPosY = 198
+	},
+	[19146] = {
+		Title = "Training Monk's Technique (2)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"If I want to do something, I should cast away material desire first? Could it be...?",
+			"",
+			"_x0096_ï¿½Empty all items related to material desire and visit <NAVI>[Training Monk]<INFO>prt_monk,270,198,0,101,0</INFO></NAVI>.",
+			"^FF0000_x0080_ï¿½ This quest can only proceed after reducing your carried weight to 0.^000000"
+		},
+		Summary = "",
+		NpcSpr = "4_M_MONK",
+		NpcNavi = "prt_monk",
+		NpcPosX = 270,
+		NpcPosY = 198
+	},
+	[19147] = {
+		Title = "Training Monk's Technique (3)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"I learned Spiritual Bestowment. Then could I perhaps learn Excruciating Palm too?",
+			"",
+			"_x0096_ï¿½Find <NAVI>[Training Monk]<INFO>monk_test,316,69,0,101,0</INFO></NAVI>."
+		},
+		Summary = "",
+		NpcSpr = "4_M_CHNMONK",
+		NpcNavi = "monk_test",
+		NpcPosX = 316,
+		NpcPosY = 69
+	},
+	[19148] = {
+		Title = "Training Monk's Technique (4)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"Prove that you use power righteously.",
+			"",
+			"_x0096_ï¿½Obtain 20 <ITEM>[Stem]<INFO>905</INFO></ITEM> and 3 <ITEM>[Shoot]<INFO>711</INFO></ITEM>,",
+			"_x0096_ï¿½then find <NAVI>[Training Monk]<INFO>monk_test,316,69,0,101,0</INFO></NAVI>."
+		},
+		Summary = "",
+		NpcSpr = "4_M_CHNMONK",
+		NpcNavi = "monk_test",
+		NpcPosX = 316,
+		NpcPosY = 69
+	},
+	[19149] = {
+		Title = "Training Monk's Technique (5)",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"I have proven my qualification to use power righteously.",
+			"",
+			"_x0096_ï¿½Learn Excruciating Palm from <NAVI>[Training Monk]<INFO>monk_test,316,69,0,101,0</INFO></NAVI>."
+		},
+		Summary = "",
+		NpcSpr = "4_M_CHNMONK",
+		NpcNavi = "monk_test",
+		NpcPosX = 316,
+		NpcPosY = 69
+	},
+	[19150] = {
+		Title = "Sacrifice",
+		IconName = "ico_jq.bmp",
+		Description = {
+			"Do you know the skill called ^3131FFRedemptio^000000'?",
+			"Redemptio is sacrifice, a true sacrifice skill. Please remember that ^FF0000you become incapacitated in exchange for reviving your party members^000000.",
+			"",
+			"_x0096_ï¿½ Learn Resurrection Skill Level 1 or higher, and bring 20 <ITEM>[Blue Gemstones]<INFO>717</INFO></ITEM> and 30 <ITEM>[Holy Waters]<INFO>523</INFO></ITEM>",
+			"_x0096_ï¿½ Take the materials and visit <NAVI>[Sister Linus]<INFO>prt_church,111,112,0,101,0</INFO></NAVI>."
+		},
+		Summary = "",
+		NpcSpr = "1_F_PRIEST",
+		NpcNavi = "prt_church",
+		NpcPosX = 111,
+		NpcPosY = 112
 	},
 	[19200] = {
 		Title = "RPS with Troy",
@@ -51101,6 +51537,7 @@ Talk to Kar=],
 	},
 	[21256] = {
 		Title = "Operation Orc Wipeout",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"I've joined the Orc extermination. The leader called out curiously. \"Let's wipe out the ^4d4dffOrc Warrior, Orc Crady, and Orc Baby^000000 families!\" Let's live up to our expectations and wipe them out!"
 		},
@@ -51108,6 +51545,7 @@ Talk to Kar=],
 	},
 	[21257] = {
 		Title = "Operation Orc Wipeout - Wait",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"This is a daily quest that can be picked up again at the end of the cooldown. You can pick up the quest from the Eden Group bulletin board or from the Orc Village Exterminators."
 		},
@@ -51115,6 +51553,7 @@ Talk to Kar=],
 	},
 	[21258] = {
 		Title = "Disgusting Orcs",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"In the dungeons beneath the Orc Village, undead orc zombies and orc skeletons reside. Let's get rid of these unholy orcs."
 		},
@@ -51122,6 +51561,7 @@ Talk to Kar=],
 	},
 	[21259] = {
 		Title = "Disgusting Orcs - Wait",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"This is a daily quest that can be picked up again at the end of the wait. You can get the quest from the Paradise Order bulletin board or from the Orc Village Exterminators."
 		},
@@ -51129,6 +51569,7 @@ Talk to Kar=],
 	},
 	[21260] = {
 		Title = "A Greedy Person",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"On the second floor of the underground tunnels of the Orc Village, there is a deformed orc named \"Zenorc\" who has never seen sunlight and has become greedy. Defeat this greedy creature."
 		},
@@ -51136,6 +51577,7 @@ Talk to Kar=],
 	},
 	[21261] = {
 		Title = "A Greedy Person - Waiting",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"This is a daily quest that can be picked up again at the end of the wait time. You can get the quest from the Paradise Order bulletin board or from the Orcish Village Exterminators."
 		},
@@ -51143,6 +51585,7 @@ Talk to Kar=],
 	},
 	[21262] = {
 		Title = "Gruesome Goblin Cleanup",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"South of the Orc Village, a small band of goblins live in a village. The Deputy Leader of the Exterminators has asked for your help in exterminating the goblins, saying that they, like the orcs, must be stopped from expanding their territory."
 		},
@@ -51150,6 +51593,7 @@ Talk to Kar=],
 	},
 	[21263] = {
 		Title = "Gruesome Goblin Cleanup - Wait",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"This is a daily quest that can be picked up again at the end of the cooldown. You can pick up the quest from the Paradise Order bulletin board or from the Deputy Leader of the Exterminators in the Goblin Clan south of Orc Village."
 		},
@@ -51157,6 +51601,7 @@ Talk to Kar=],
 	},
 	[21264] = {
 		Title = "Swift Goblin Cleanup",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"To the south of the Orc Village, there is a small clan of goblins. The Deputy Leader of the Exterminators has asked for your help in exterminating the goblins, saying that like the orcs, they must be kept from expanding their territory."
 		},
@@ -51164,6 +51609,7 @@ Talk to Kar=],
 	},
 	[21265] = {
 		Title = "Swift Goblin Cleanup - Wait",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"This is a daily quest that can be picked up again when the cooldown expires. You can pick up the quest from the Paradise Order bulletin board or from the Deputy Leader of the Exterminators in the Goblin Clan south of Orc Village."
 		},
@@ -51171,6 +51617,7 @@ Talk to Kar=],
 	},
 	[21266] = {
 		Title = "Supplies are here! 1",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"Deliver the ^4d4dffKnights of Prontera supplies^000000 you received as a Knights of Prontera clerk to the leader of the Ravagers in Orc Village."
 		},
@@ -51178,6 +51625,7 @@ Talk to Kar=],
 	},
 	[21267] = {
 		Title = "Supplies are here! 2",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"After removing the supplies for use in the Orcish Village, the Extermination Leader asked you to deliver the rest of the supplies to the Deputy Leader, who had gone to the Goblin Village, just south of the Orcish Village."
 		},
@@ -51185,6 +51633,7 @@ Talk to Kar=],
 	},
 	[21268] = {
 		Title = "Supplies are here - Wait",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"This is a daily quest that can be picked up again at the end of the wait time. You can pick up the quest from the clerk in front of the Knights of Prontera."
 		},
@@ -51192,6 +51641,7 @@ Talk to Kar=],
 	},
 	[21269] = {
 		Title = "Tough Fellows",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"Some of the goblins have expanded their territory into the fields east of the Goblin Clan. The Vice-Captain of the Ravagers has ordered the goblins to be exterminated, saying that any further expansion must be stopped."
 		},
@@ -51199,6 +51649,7 @@ Talk to Kar=],
 	},
 	[21270] = {
 		Title = "Tough Fellows - Wait",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"This is a daily quest that can be picked up again when the cooldown expires. You can pick up the quest from the Paradise Order bulletin board or from the Deputy Leader of the Exterminators in the Goblin Clan south of Orc Village."
 		},
@@ -73173,507 +73624,94 @@ Talk to Kar=],
 		NpcPosX = 40,
 		NpcPosY = 141
 	},
-	[19116] = {
-		Title = "Pisruik's Research (1)",
-		IconName = "ico_jq.bmp",
+	[23442] = {
+		Title = "Kumamon",
+		IconName = "ico_ev.bmp",
 		Description = {
-			"If you deliver the materials I need right now, I'll teach you what I'm making in return. The materials I need now are..",
-			"â–¶5 <ITEM>[Yellow Gemstones]<INFO>715</INFO></ITEM>,",
-			"â–¶4 <ITEM>[Empty Potion Bottles]<INFO>1093</INFO></ITEM>,",
-			"â–¶10 <ITEM>[Mermaid's Heart]<INFO>950</INFO></ITEM>,",
-			"â–¶10 <ITEM>[Moth Dust]<INFO>1057</INFO></ITEM>",
-			"   ",
-			"Once you have all the materials, bring them to <NAVI>[Pisruik]<INFO>yuno_in04,33,108,0,101,0</INFO></NAVI>."
+			"Heard about Kumamoto!!"
 		},
-		Summary = "",
-		NpcSpr = "4_M_ALCHE_D",
-		NpcNavi = "yuno_in04",
-		NpcPosX = 33,
-		NpcPosY = 108
+		Summary = ""
 	},
-	[19117] = {
-		Title = "Pisruik's Research (2-1)",
-		IconName = "ico_jq.bmp",
+	[23443] = {
+		Title = "Kumamoto Farm Experience",
+		IconName = "ico_ev.bmp",
 		Description = {
-			"I need about 20 <ITEM>[Maneater Blossom]<INFO>1032</INFO></ITEM> to test my theory.. Could I ask you for this too?",
-			"   ",
-			"Once you have all the materials, bring them to <NAVI>[Pisruik]<INFO>yuno_in04,33,108,0,101,0</INFO></NAVI>."
+			"Experienced the Kumamoto Farm."
 		},
-		Summary = "20 Maneater Blossom",
-		NpcSpr = "4_M_ALCHE_D",
-		NpcNavi = "yuno_in04",
-		NpcPosX = 33,
-		NpcPosY = 108
+		Summary = ""
 	},
-	[19118] = {
-		Title = "Pisruik's Research (2-2)",
-		IconName = "ico_jq.bmp",
+	[23444] = {
+		Title = "Kumamoto Farm Experience",
+		IconName = "ico_ev.bmp",
 		Description = {
-			"The experiment isn't going as well as I thought.. Could you get me just 1 more <ITEM>[Maneater Blossom]<INFO>1032</INFO></ITEM>? Please.",
-			"   ",
-			"Once you have all the materials, bring them to <NAVI>[Pisruik]<INFO>yuno_in04,33,108,0,101,0</INFO></NAVI>."
+			"The Kumamoto Farm Experience has started. To the southwest of Kumamoto you can harvest tomatoes, and to the southeast you can harvest watermelons. Try harvesting one tomato and one watermelon each."
 		},
-		Summary = "1 Maneater Blossom",
-		NpcSpr = "4_M_ALCHE_D",
-		NpcNavi = "yuno_in04",
-		NpcPosX = 33,
-		NpcPosY = 108
+		Summary = "Harvest Tomato and Watermelon"
 	},
-	[19119] = {
-		Title = "Pisruik's Research (3)",
-		IconName = "ico_jq.bmp",
+	[23445] = {
+		Title = "Kumamoto Farm Experience End!",
+		IconName = "ico_ev.bmp",
 		Description = {
-			"Um.. I'm sorry, but could you get me glasses like the ones I was wearing? I can't see ahead, so I can't move. I'd really appreciate it if you could get them for me.",
-			"   ",
-			"Obtain <ITEM>[Geek Glasses]<INFO>2243</INFO></ITEM> and bring them to <NAVI>[Pisruik]<INFO>yuno_in04,33,108,0,101,0</INFO></NAVI>.",
-			"^FF0000â€» Please make sure you do not have another pair of Geek Glasses equipped in your inventory.^000000"
+			"Harvested both watermelon and tomato at the Kumamoto Farm. Return to Varmunt in Kumamoto to report that you have completed the farm experience."
 		},
-		Summary = "1 Geek Glasses",
-		NpcSpr = "4_M_ALCHE_D",
-		NpcNavi = "yuno_in04",
-		NpcPosX = 33,
-		NpcPosY = 108
+		Summary = ""
 	},
-	[19120] = {
-		Title = "The Bard's Song (1)",
-		IconName = "ico_jq.bmp",
+	[23446] = {
+		Title = "Kumamoto Farm Experience - Waiting",
+		IconName = "ico_ev.bmp",
 		Description = {
-			"I can't stop thinking about what the Timid Youth",
-			"who liked {{P:{00}}}[Tropical Sograt]{{P:{01}}} in Prontera said. A bard's curse.. For gathering information like this, surely..",
-			"I should start at the <NAVI>[Morroc tavern]<INFO>morocc_in,179,65,0,101,0</INFO></NAVI>, right?"
+			"Finished the farm experience of harvesting Kumamoto's specialties, watermelon and tomato, at the Kumamoto Farm. If you want to do it again, visit Varmunt in Kumamoto again tomorrow."
 		},
-		Summary = "Gather Information"
+		Summary = "Resets at 04:00 AM",
+		CoolTimeQuest = 1
 	},
-	[19121] = {
-		Title = "The Bard's Song (1)",
-		IconName = "ico_jq.bmp",
+	[23447] = {
+		Title = "Eye-Popping Taste",
+		IconName = "ico_ev.bmp",
 		Description = {
-			"The Bard <NAVI>[Riot]<INFO>morocc_in,169,72,0,101,0</INFO></NAVI> I met at the Morroc tavern",
-			"refuses to deal with me, saying I am not a poet's friend. A young poet crying in Geffen? What could he mean?",
-			"  ",
-			"â€» You must clear the <TIPBOX>[Bard]<INFO>6123</INFO></TIPBOX> quest in Geffen."
+			"Helped the Watermelon Poring."
 		},
-		Summary = "",
-		NpcSpr = "2_M_BARD_ORIENT",
-		NpcNavi = "morocc_in",
-		NpcPosX = 169,
-		NpcPosY = 72
+		Summary = ""
 	},
-	[19122] = {
-		Title = "The Bard's Song (2)",
-		IconName = "ico_jq.bmp",
+	[23448] = {
+		Title = "Eye-Popping Taste",
+		IconName = "ico_ev.bmp",
 		Description = {
-			"Riot.. Does he mean he won't teach me easily?",
-			"A place you can reach by riding tree roots? Niflhiem?",
-			"Does he want me to bring five Yhelle eggs from Niflhiem?",
-			"  ",
-			"Find Yhelle in Niflhiem, obtain five <ITEM>[eggs]<INFO>574</INFO></ITEM>, and bring them to <NAVI>[Riot]<INFO>morocc_in,169,72,0,101,0</INFO></NAVI>.",
-			"  ",
-			"â–¶Yhelle Appearance Areas",
-			"<NAVI>[Location]<INFO>niflheim,239,70,0,101,0</INFO></NAVI>/<NAVI>[Location]<INFO>niflheim,185,205,0,101,0</INFO></NAVI>/<NAVI>[Location]<INFO>niflheim,85,203,0,101,0</INFO></NAVI>/<NAVI>[Location]<INFO>niflheim,149,81,0,101,0</INFO></NAVI>/<NAVI>[Location]<INFO>niflheim,209,144,0,101,0</INFO></NAVI>",
-			"^FF0000â€» Navigation out of the City of the Dead is not available.^000000"
+			"The Watermelon Poring staying in Kumamoto was greedily carrying Kumamoto watermelons and Kumamoto tomatoes, and it dropped them all. Recover 5 Kumamoto watermelons and 5 Kumamoto tomatoes that are scattered around Kumamoto."
 		},
-		Summary = "5 Yhelle Eggs",
-		NpcSpr = "2_M_BARD_ORIENT",
-		NpcNavi = "morocc_in",
-		NpcPosX = 169,
-		NpcPosY = 72
+		Summary = ""
 	},
-	[19123] = {
-		Title = "The Bard's Song (2)",
-		IconName = "ico_jq.bmp",
+	[23449] = {
+		Title = "Eye-Popping Taste - Waiting",
+		IconName = "ico_ev.bmp",
 		Description = {
-			"Strange?! I'm sure I got five eggs from Yhelle? If I want to learn the skill, I have to bring 1 Munak Doll?",
-			"  ",
-			"Obtain 1 <ITEM>[Munak Doll]<INFO>7277</INFO></ITEM> and bring it to <NAVI>[Riot]<INFO>morocc_in,169,72,0,101,0</INFO></NAVI>."
+			"Helped the Watermelon Poring in Kumamoto. If you want to help again, visit the Watermelon Poring in Kumamoto again tomorrow."
 		},
-		Summary = "1 Munak Doll",
-		NpcSpr = "2_M_BARD_ORIENT",
-		NpcNavi = "morocc_in",
-		NpcPosX = 169,
-		NpcPosY = 72
+		Summary = "Resets at 04:00 AM",
+		CoolTimeQuest = 1
 	},
-	[19124] = {
-		Title = "Tidings That Do Not Fade (1)",
-		IconName = "ico_jq.bmp",
+	[23450] = {
+		Title = "Kumamoto Watermelon Harvest Experience Complete",
+		IconName = "ico_ev.bmp",
 		Description = {
-			"Ford Leslie in Geffen is worried because the person assigned to duty in Britoniah has not sent any word.",
-			"   ",
-			"â–¶Go to [Britoniah] and look for a knight named ^0000FFSlaty^191240."
+			"Harvested a Kumamoto watermelon through the Kumamoto Farm Experience!"
 		},
-		Summary = "Find Knight Slaty",
-		NpcSpr = "4_M_CRU",
-		NpcNavi = "gef_fild13",
-		NpcPosX = 297,
-		NpcPosY = 242
+		Summary = ""
 	},
-	[19125] = {
-		Title = "Tidings That Do Not Fade (2)",
-		IconName = "ico_jq.bmp",
+	[23451] = {
+		Title = "Kumamoto Tomato Harvest Experience Complete",
+		IconName = "ico_ev.bmp",
 		Description = {
-			"To help the injured and unconscious <NAVI>[Slaty]<INFO>gef_fild13,297,242,0,101,0</INFO></NAVI> regain consciousness..",
-			"   ",
-			"â–¶Bring 1 <ITEM>[Red Potion]<INFO>909</INFO></ITEM>."
+			"Harvested a Kumamoto tomato through the Kumamoto Farm Experience!"
 		},
-		Summary = "Give Slaty a Red Potion..",
-		NpcSpr = "4_M_CRU",
-		NpcNavi = "gef_fild13",
-		NpcPosX = 297,
-		NpcPosY = 242
+		Summary = ""
 	},
-	[19126] = {
-		Title = "Tidings That Do Not Fade (3)",
-		IconName = "ico_jq.bmp",
+	[23452] = {
+		Title = "Collaboration Event Ending",
+		IconName = "ico_ev.bmp",
 		Description = {
-			"The report and chivalry deployment request that Slaty was risking his life to deliver...",
-			"   ",
-			"â–¶Bring them to <NAVI>[Ford]<INFO>geffen,110,117,0,101,0</INFO></NAVI> in Geffen."
+			"End of Event, Thank You For Participating!"
 		},
-		Summary = "To Ford..",
-		NpcSpr = "4_M_CRU_OLD",
-		NpcNavi = "geffen",
-		NpcPosX = 110,
-		NpcPosY = 117
-	},
-	[19127] = {
-		Title = "Tidings That Do Not Fade (4)",
-		IconName = "ico_jq.bmp",
-		Description = {
-			"They say wounds caused by Knife Goblin poison will not heal without an antidote. Go to the priest at Prontera Church who can make the antidote,",
-			"   ",
-			"â–¶<NAVI>[Arthur]<INFO>prt_church,87,125,0,101,0</INFO></NAVI>, and obtain the remedy."
-		},
-		Summary = "",
-		NpcSpr = "4_M_SAGE_C",
-		NpcNavi = "prt_church",
-		NpcPosX = 87,
-		NpcPosY = 125
-	},
-	[19128] = {
-		Title = "Tidings That Do Not Fade (5)",
-		IconName = "ico_jq.bmp",
-		Description = {
-			"<NAVI>[Arthur]<INFO>prt_church,87,125,0,101,0</INFO></NAVI> said he needs ingredients for the Goblin poison remedy and told you what they are. Gather the ingredients and bring them to him.",
-			"   ",
-			"â–¶Remedy Ingredients",
-			"1 <ITEM>[Grape]<INFO>514</INFO></ITEM>, 1 <ITEM>[Unripe Apple]<INFO>619</INFO></ITEM>, 3 <ITEM>[Empty Bottle]<INFO>713</INFO></ITEM>,",
-			"5 <ITEM>[Jellopy]<INFO>909</INFO></ITEM>, 20 <ITEM>[Sticky Mucus]<INFO>938</INFO></ITEM>,",
-			"1 <ITEM>[Coal]<INFO>1003</INFO></ITEM>, 3 <ITEM>[Cyfar]<INFO>7053</INFO></ITEM>"
-		},
-		Summary = "Remedy Ingredients",
-		NpcSpr = "4_M_SAGE_C",
-		NpcNavi = "prt_church",
-		NpcPosX = 87,
-		NpcPosY = 125
-	},
-	[19129] = {
-		Title = "Tidings That Do Not Fade (6)",
-		IconName = "ico_jq.bmp",
-		Description = {
-			"<NAVI>[Arthur]<INFO>prt_church,87,125,0,101,0</INFO></NAVI> is preparing the Goblin poison remedy.",
-			"   ",
-			"â–¶Talk to him and see if the preparation is complete."
-		},
-		Summary = "",
-		NpcSpr = "4_M_SAGE_C",
-		NpcNavi = "prt_church",
-		NpcPosX = 87,
-		NpcPosY = 125
-	},
-	[19130] = {
-		Title = "Tidings That Do Not Fade (7)",
-		IconName = "ico_jq.bmp",
-		Description = {
-			"The Goblin poison remedy is complete.",
-			"   ",
-			"â–¶Bring it to <NAVI>[Slaty]<INFO>gef_fild13,297,242,0,101,0</INFO></NAVI> before the remedy loses its effect."
-		},
-		Summary = "To Britoniah..",
-		NpcSpr = "4_M_CRU",
-		NpcNavi = "gef_fild13",
-		NpcPosX = 297,
-		NpcPosY = 242
-	},
-	[19131] = {
-		Title = "Tidings That Do Not Fade (7)",
-		IconName = "ico_jq.bmp",
-		Description = {
-			"Did I arrive too late?",
-			"The remedy given to Slaty had no effect.",
-			"   ",
-			"â–¶Ask <NAVI>[Arthur]<INFO>prt_church,87,125,0,101,0</INFO></NAVI> to make the remedy again."
-		},
-		Summary = "To Arthur..",
-		NpcSpr = "4_M_SAGE_C",
-		NpcNavi = "prt_church",
-		NpcPosX = 87,
-		NpcPosY = 125
-	},
-	[19132] = {
-		Title = "Bioethics (1)",
-		IconName = "ico_jq.bmp",
-		Description = {
-			"I spoke to Kellasus, the authority on Homunculus Bioethics, and was ignored. They say he normally won't even deal with people.. Could it be?",
-			"   ",
-			"â–¶Keep talking to <NAVI>[Kellasus]<INFO>lhz_in01,224,140,0,101,0</INFO></NAVI>."
-		},
-		Summary = "",
-		NpcSpr = "1_M_LIBRARYMASTER",
-		NpcNavi = "lhz_in01",
-		NpcPosX = 224,
-		NpcPosY = 140
-	},
-	[19133] = {
-		Title = "Bioethics (2)",
-		IconName = "ico_jq.bmp",
-		Description = {
-			"To receive instruction in Homunculus techniques from Kellasus, it seems I must first acquire knowledge about Homunculi.",
-			"   ",
-			"â–¶Ask <NAVI>[Skrajjad]<INFO>lhz_in01,225,122,0,101,0</INFO></NAVI> about Homunculi."
-		},
-		Summary = "",
-		NpcSpr = "4_M_SAGE_A",
-		NpcNavi = "lhz_in01",
-		NpcPosX = 225,
-		NpcPosY = 122
-	},
-	[19134] = {
-		Title = "Bioethics (3)",
-		IconName = "ico_jq.bmp",
-		Description = {
-			"Skrajjad introduced Keshibien, who knows the ^FF0000Call Homunculus^000000 skill in detail.",
-			"   ",
-			"â–¶Ask <NAVI>[Keshibien]<INFO>lhz_in01,204,138,0,101,0</INFO></NAVI> about Call Homunculus."
-		},
-		Summary = "",
-		NpcSpr = "4_M_ALCHE_C",
-		NpcNavi = "lhz_in01",
-		NpcPosX = 204,
-		NpcPosY = 138
-	},
-	[19135] = {
-		Title = "Bioethics (4)",
-		IconName = "ico_jq.bmp",
-		Description = {
-			"Keshibien finally introduced Broncher, who knows the FF0000Homunculus Resurrection^000000 skill in detail.",
-			"   ",
-			"â–¶Ask <NAVI>[Broncher]<INFO>lhz_in02,278,273,0,101,0</INFO></NAVI> about Homunculus Resurrection."
-		},
-		Summary = "",
-		NpcSpr = "4_M_SEAMAN",
-		NpcNavi = "lhz_in02",
-		NpcPosX = 278,
-		NpcPosY = 273
-	},
-	[19136] = {
-		Title = "Bioethics (5)",
-		IconName = "ico_jq.bmp",
-		Description = {
-			"I learned about the Homunculus skills Vaporize, Call Homunculus, and Homunculus Resurrection.",
-			"   ",
-			"â–¶Ask <NAVI>[Kellasus]<INFO>lhz_in01,224,140,0,101,0</INFO></NAVI> to teach you Bioethics."
-		},
-		Summary = "",
-		NpcSpr = "1_M_LIBRARYMASTER",
-		NpcNavi = "lhz_in01",
-		NpcPosX = 224,
-		NpcPosY = 140
-	},
-	[19137] = {
-		Title = "Bioethics (6)",
-		IconName = "ico_jq.bmp",
-		Description = {
-			"How can I break Kellasus's stubborn belief that Homunculi are living beings and that humans should not speak lightly of them?",
-			"   ",
-			"â–¶Should I at least meet <NAVI>[Kellasus's family]<INFO>lhz_in03,106,34,0,101,0</INFO></NAVI>?"
-		},
-		Summary = "",
-		NpcSpr = "4_M_KID1",
-		NpcNavi = "lhz_in03",
-		NpcPosX = 106,
-		NpcPosY = 34
-	},
-	[19138] = {
-		Title = "Bioethics (7)",
-		IconName = "ico_jq.bmp",
-		Description = {
-			"After meeting Mr. Kellasus's son, I thought of a way to break his stubbornness.",
-			"   ",
-			"â–¶Go to <NAVI>[Kellasus]<INFO>lhz_in01,224,140,0,101,0</INFO></NAVI> and speak with him."
-		},
-		Summary = "",
-		NpcSpr = "1_M_LIBRARYMASTER",
-		NpcNavi = "lhz_in01",
-		NpcPosX = 224,
-		NpcPosY = 140
-	},
-	[19139] = {
-		Title = "Bioethics (8)",
-		IconName = "ico_jq.bmp",
-		Description = {
-			"After listening to me, Kellasus seems to have a lot on his mind.",
-			"   ",
-			"â–¶Continue talking to <NAVI>[Kellasus]<INFO>lhz_in01,224,140,0,101,0</INFO></NAVI>."
-		},
-		Summary = "",
-		NpcSpr = "1_M_LIBRARYMASTER",
-		NpcNavi = "lhz_in01",
-		NpcPosX = 224,
-		NpcPosY = 140
-	},
-	[19140] = {
-		Title = "Bioethics (9)",
-		IconName = "ico_jq.bmp",
-		Description = {
-			"It seems Kellasus has finished organizing his thoughts.",
-			"   ",
-			"â–¶Learn Bioethics from <NAVI>[Kellasus]<INFO>lhz_in01,224,140,0,101,0</INFO></NAVI>."
-		},
-		Summary = "",
-		NpcSpr = "1_M_LIBRARYMASTER",
-		NpcNavi = "lhz_in01",
-		NpcPosX = 224,
-		NpcPosY = 140
-	},
-	[19141] = {
-		Title = "Charge Attack (1)",
-		IconName = "ico_jq.bmp",
-		Description = {
-			"Knight Aesop of the Prontera 7th Chivalry says that if I want to know the true state of the chivalry, I should observe the training outside.",
-			"   ",
-			"â–¶Observe the <NAVI>[Chivalry Training]<INFO>prontera,69,351,0,101,0</INFO></NAVI>."
-		},
-		Summary = "Observe Chivalry Training"
-	},
-	[19142] = {
-		Title = "Charge Attack (2)",
-		IconName = "ico_jq.bmp",
-		Description = {
-			"As Aesop said, I observed the chivalry's training.",
-			"   ",
-			"â–¶Return to <NAVI>[Aesop]<INFO>prt_in,85,99,0,101,0</INFO></NAVI>."
-		},
-		Summary = "",
-		NpcSpr = "4_M_JOB_KNIGHT2",
-		NpcNavi = "prt_in",
-		NpcPosX = 85,
-		NpcPosY = 99
-	},
-	[19143] = {
-		Title = "Charge Attack (3)",
-		IconName = "ico_jq.bmp",
-		Description = {
-			"Aesop seems to have lost all passion and motivation. While observing, I think I heard about Aesop's novice days? Something about how a knight should have the ability to gather 5 Candy Cane and 3 Witherless Rose at any time?",
-			"   ",
-			"â–¶Obtain 5 <ITEM>[Candy Cane]<INFO>530</INFO></ITEM> and 3 <ITEM>[Witherless Rose]<INFO>748</INFO></ITEM>,",
-			"â–¶then bring them to <NAVI>[Aesop]<INFO>prt_in,85,99,0,101,0</INFO></NAVI>."
-		},
-		Summary = "For the Knight Who Lost His Motivation",
-		NpcSpr = "4_M_JOB_KNIGHT2",
-		NpcNavi = "prt_in",
-		NpcPosX = 85,
-		NpcPosY = 99
-	},
-	[19144] = {
-		Title = "Charge Attack (4)",
-		IconName = "ico_jq.bmp",
-		Description = {
-			"Aesop says he will pass down a technique he developed after much research.",
-			"   ",
-			"â–¶Learn the technique from <NAVI>[Aesop]<INFO>prt_in,85,99,0,101,0</INFO></NAVI>."
-		},
-		Summary = "",
-		NpcSpr = "4_M_JOB_KNIGHT2",
-		NpcNavi = "prt_in",
-		NpcPosX = 85,
-		NpcPosY = 99
-	},
-	[19145] = {
-		Title = "Training Monk's Technique (1)",
-		IconName = "ico_jq.bmp",
-		Description = {
-			"Excruciating Palm, which the Monks created with all their might, cannot be used without knowing Spiritual Bestowment?",
-			"   ",
-			"â–¶Go find <NAVI>[some foolish idiot]<INFO>prt_monk,270,198,0,101,0</INFO></NAVI> who can supposedly use Spiritual Bestowment alone."
-		},
-		Summary = "",
-		NpcSpr = "4_M_MONK",
-		NpcNavi = "prt_monk",
-		NpcPosX = 270,
-		NpcPosY = 198
-	},
-	[19146] = {
-		Title = "Training Monk's Technique (2)",
-		IconName = "ico_jq.bmp",
-		Description = {
-			"If I want to do something, I should cast away material desire first? Could it be...?",
-			"   ",
-			"â–¶Empty all items related to material desire and visit <NAVI>[Training Monk]<INFO>prt_monk,270,198,0,101,0</INFO></NAVI>.",
-			"^FF0000â€» This quest can only proceed after reducing your carried weight to 0.^000000"
-		},
-		Summary = "",
-		NpcSpr = "4_M_MONK",
-		NpcNavi = "prt_monk",
-		NpcPosX = 270,
-		NpcPosY = 198
-	},
-	[19147] = {
-		Title = "Training Monk's Technique (3)",
-		IconName = "ico_jq.bmp",
-		Description = {
-			"I learned Spiritual Bestowment. Then could I perhaps learn Excruciating Palm too?",
-			"   ",
-			"â–¶Find <NAVI>[Training Monk]<INFO>monk_test,316,69,0,101,0</INFO></NAVI>."
-		},
-		Summary = "",
-		NpcSpr = "4_M_CHNMONK",
-		NpcNavi = "monk_test",
-		NpcPosX = 316,
-		NpcPosY = 69
-	},
-	[19148] = {
-		Title = "Training Monk's Technique (4)",
-		IconName = "ico_jq.bmp",
-		Description = {
-			"Prove that you use power righteously.",
-			"   ",
-			"â–¶Obtain 20 <ITEM>[Stem]<INFO>905</INFO></ITEM> and 3 <ITEM>[Shoot]<INFO>711</INFO></ITEM>,",
-			"â–¶then find <NAVI>[Training Monk]<INFO>monk_test,316,69,0,101,0</INFO></NAVI>."
-		},
-		Summary = "",
-		NpcSpr = "4_M_CHNMONK",
-		NpcNavi = "monk_test",
-		NpcPosX = 316,
-		NpcPosY = 69
-	},
-	[19149] = {
-		Title = "Training Monk's Technique (5)",
-		IconName = "ico_jq.bmp",
-		Description = {
-			"I have proven my qualification to use power righteously.",
-			"   ",
-			"â–¶Learn Excruciating Palm from <NAVI>[Training Monk]<INFO>monk_test,316,69,0,101,0</INFO></NAVI>."
-		},
-		Summary = "",
-		NpcSpr = "4_M_CHNMONK",
-		NpcNavi = "monk_test",
-		NpcPosX = 316,
-		NpcPosY = 69
-	},
-	[19150] = {
-		Title = "Sacrifice",
-		IconName = "ico_jq.bmp",
-		Description = {
-			"Do you know the skill called ^3131FFRedemptio^000000'?",
-			"Redemptio is sacrifice, a true sacrifice skill. Please remember that ^FF0000you become incapacitated in exchange for reviving your party members^000000.",
-			"   ",
-			"â–¶ Learn Resurrection Skill Level 1 or higher, and bring 20 <ITEM>[Blue Gemstones]<INFO>717</INFO></ITEM> and 30 <ITEM>[Holy Waters]<INFO>523</INFO></ITEM>",
-			"â–¶ Take the materials and visit <NAVI>[Sister Linus]<INFO>prt_church,111,112,0,101,0</INFO></NAVI>."
-		},
-		Summary = "",
-		NpcSpr = "1_F_PRIEST",
-		NpcNavi = "prt_church",
-		NpcPosX = 111,
-		NpcPosY = 112
+		Summary = ""
 	}
 }

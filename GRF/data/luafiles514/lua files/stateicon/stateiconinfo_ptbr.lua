@@ -7270,7 +7270,7 @@ StateIconList_string = {
 	},
 	[EFST_IDs.EFST_HANDICAPSTATE_DEEPSILENCE] = {
 		descript = {
-			{"Mudez"},
+			{"Quietude"},
 			{"%s"},
 			{
 				"Vel.Atq reduzida"
@@ -7332,7 +7332,9 @@ StateIconList_string = {
 	},
 	[EFST_IDs.EFST_HANDICAPSTATE_LIGHTNINGSTRIKE] = {
 		descript = {
-			{"Atormento"},
+			{
+				"Eletrificação"
+			},
 			{"%s"},
 			{
 				"Armadura de prop. Vento"
@@ -8928,6 +8930,34 @@ StateIconList_string = {
 				"Dano Mágico +7%"
 			},
 			{"%s"}
+		}
+	},
+	[EFST_IDs.EFST_C_BUFF_16] = {
+		descript = {
+			{
+				"Buff Saboroso"
+			},
+			{"%s"},
+			{
+				"Aumenta o dano fisico e magico causado a inimigos do tipo Normal."
+			},
+			{
+				"Aumento de dano físico e mágico contra monstros chefes"
+			}
+		}
+	},
+	[EFST_IDs.EFST_C_BUFF_17] = {
+		descript = {
+			{
+				"Buff Fresco"
+			},
+			{"%s"},
+			{
+				"Aumenta o dano fisico e magico causado a monstros de todas as racas."
+			},
+			{
+				"(Exceto jogadores)"
+			}
 		}
 	},
 	[EFST_IDs.EFST_OVERSEA_BUFF_12] = {

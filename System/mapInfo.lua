@@ -8266,6 +8266,15 @@ mapTbl = {
 			subTitle = "Instalação de Aprimoramento de Grau"
 		},
 		backgroundBmp = "village_s1"
+	},
+	["clb_kuma.rsw"] = {
+		displayName = "Fazenda Temática do Kumamoto",
+		notifyEnter = true,
+		signName = {
+			subTitle = "Kumamon",
+			mainTitle = "Fazenda Temática do Kumamoto"
+		},
+		backgroundBmp = "village"
 	}
 }
 function main()

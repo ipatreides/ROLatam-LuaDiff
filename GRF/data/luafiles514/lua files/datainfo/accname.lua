@@ -2825,5 +2825,9 @@ AccNameTable = {
 	[ACCESSORY_IDs.ACCESSORY_C_Water_Elem_Dragon] = "_C_Water_Elem_Dragon",
 	[ACCESSORY_IDs.ACCESSORY_Holy_Rosario_Silver] = "_Holy_Rosario_Silver",
 	[ACCESSORY_IDs.ACCESSORY_C_Culture_Pod] = "_C_Culture_Pod",
-	[ACCESSORY_IDs.ACCESSORY_C_Tarou_Magical_Hat] = "_C_Tarou_Magical_Hat"
+	[ACCESSORY_IDs.ACCESSORY_C_Tarou_Magical_Hat] = "_C_Tarou_Magical_Hat",
+	[ACCESSORY_IDs.ACCESSORY_C_Mask_of_Ifrit] = "_C_Mask_of_Ifrit",
+	[ACCESSORY_IDs.ACCESSORY_C_Fine_Chada] = "_C_Fine_Chada",
+	[ACCESSORY_IDs.ACCESSORY_C_Vibrant_Jeepney] = "_C_Vibrant_Jeepney",
+	[ACCESSORY_IDs.ACCESSORY_C_Swift_Bicycle] = "_C_Swift_Bicycle"
 }

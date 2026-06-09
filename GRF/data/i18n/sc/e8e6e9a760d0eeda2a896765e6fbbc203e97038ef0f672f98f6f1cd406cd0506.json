@@ -17,7 +17,7 @@
     "A9KhCQ": {
         "en": "^0000FF-Admin Mode-^000000",
         "pt": "^0000CD-Modo Administrador-^000000",
-        "es": "^FF0000-Modo administrador-^000000"
+        "es": "^0000FF-Modo administrador.-^000000"
     },
     "BNKhCQ": {
         "en": "I think there are too many kinds of things or weights. Please clean up your inventory.",
@@ -27,17 +27,17 @@
     "BdKhCQ": {
         "en": "^003366A very suspicious vending machine, which has no idea who installed it, is waiting for a touch with the screen lit up. The manufacturer's mark is worn out, so it's hard to see.^000000",
         "pt": "^FFCC00Uma máquina de venda automática muito suspeita, que não se faz ideia de quem instalou, está esperando por um toque com a tela acesa. A marca do fabricante está desgastada, por isso é difícil de ver.^000000",
-        "es": "^440000Una máquina expendedora de aspecto sospechoso, que no sabe quién la ha instalado, espera un toque con la pantalla encendida. La marca del fabricante está desgastada, por lo que es difícil de distinguir.^000000"
+        "es": "^003366Una máquina expendedora de aspecto sospechoso, que no sabe quién la ha instalado, espera un toque con la pantalla encendida. La marca del fabricante está desgastada, por lo que es difícil de distinguir.^000000"
     },
     "BtKhCQ": {
-        "en": "{}on",
-        "pt": "{}em",
-        "es": "Encantamiento garantizado de {}"
+        "en": "{0}on",
+        "pt": "{0}em",
+        "es": "Encantamiento garantizado de {0}"
     },
     "B9KhCQ": {
-        "en": "{} guarenteed enchant.",
-        "pt": "{} encantamento garantido.",
-        "es": "en {}"
+        "en": "{0} guarenteed enchant.",
+        "pt": "{0} encantamento garantido.",
+        "es": "en {0}"
     },
     "CNKhCQ": {
         "en": "[Hot Machine]\nNice to meet you. I'm G-3380, Hot Machine. We provide enchantment support for the equipment listed below.",
@@ -52,7 +52,7 @@
     "CtKhCQ": {
         "en": "[<ITEM>Old Minstrel Song Hat<INFO>18976</INFO></ITEM>]\n[<ITEM>Old Midas Whisper<INFO>18977</INFO></ITEM>]\n[<ITEM>Old Magic Stone Hat<INFO>18978</INFO></ITEM>]\n[<ITEM>Old Blazing Soul<INFO>18979</INFO></ITEM>]\n[<ITEM>Old Wind Whisper<INFO>18980</INFO></ITEM>]",
         "pt": "[<ITEM>Memorável Canção do Trovador<INFO>18976</INFO></ITEM>]\n[<ITEM>Memorável Toque de Midas<INFO>18977</INFO></ITEM>]\n[<ITEM>Memorável Mistério da Magia<INFO>18978</INFO></ITEM>]\n[<ITEM>Memorável Disciplina do Espírito<INFO>18979</INFO></ITEM>]\n[<ITEM>Memorável Sussurro dos Elementos<INFO>18980</INFO></ITEM>]",
-        "es": "[<ITEM>Sombrero de la canción del juglar antiguo<INFO>18976</INFO></ITEM>]\n[<ITEM>Susurro de Midas antiguo<INFO>18977</INFO></ITEM>]\n[<ITEM>Sombrero de piedra mágica antiguo<INFO>18978</INFO></ITEM>]\n[<ITEM>Alma llameante antigua<INFO>18979</INFO></ITEM>]\n[<ITEM>Susurro del viento antiguo<INFO>18980</INFO></ITEM>]"
+        "es": "[<ITEM>Sombrero de la canción del Juglar antiguo<INFO>18976</INFO></ITEM>]\n[<ITEM>Susurro de Midas antiguo<INFO>18977</INFO></ITEM>]\n[<ITEM>Sombrero de piedra mágica antiguo<INFO>18978</INFO></ITEM>]\n[<ITEM>Alma llameante antigua<INFO>18979</INFO></ITEM>]\n[<ITEM>Susurro del viento antiguo<INFO>18980</INFO></ITEM>]"
     },
     "C9KhCQ": {
         "en": "[<ITEM>Old Dying Swan<INFO>18981</INFO></ITEM>]\n[<ITEM>Old Circlet of Bone<INFO>18982</INFO></ITEM>]\n[<ITEM>Old Protect of Crown<INFO>18983</INFO></ITEM>]\n[<ITEM>Old Camo RabbitHood<INFO>18984</INFO></ITEM>]",
@@ -62,7 +62,7 @@
     "DNKhCQ": {
         "en": "[Hot Machine]\n2nd slot option may be selected when 3,4 slots are already enchanted.",
         "pt": "[Hot Machine]\nA opção do 2º espaço pode ser selecionada quando 3 ou 4 espaços já estiverem encantados.",
-        "es": "[Máquina caliente]\nSe puede seleccionar la opción de ranura2cuando las ranuras3 y4 ya están encantadas."
+        "es": "[Máquina caliente]\nSe puede seleccionar la opción de ranura2 cuando las ranuras3 y4 ya están encantadas."
     },
     "DdKhCQ": {
         "en": "[Hot Machine]\nIf special option is applied on 2nd slot, 1 level can be upgraded.",
@@ -87,7 +87,7 @@
     "EdKhCQ": {
         "en": "^FF0000The random option is checked. You cannot work on this equipment.^000000",
         "pt": "^FF0000A opção aleatória está marcada. Você não pode trabalhar nesse equipamento.^000000",
-        "es": "^660000Se marcó la opción aleatoria. No puedes trabajar sobre este equipamiento.^000000"
+        "es": "^FF0000Se marcó la opción aleatoria. No puedes trabajar sobre este equipamiento.^000000"
     },
     "EtKhCQ": {
         "en": "[Hot Machine]\nIt's very dangerous to take off the equipment right now.",
@@ -122,7 +122,7 @@
     "GNKhCQ": {
         "en": "Old Minstrel Song Hat",
         "pt": "Memorável Canção do Trovador",
-        "es": "Sombrero de la canción del juglar antiguo"
+        "es": "Sombrero de la canción del Juglar antiguo"
     },
     "GdKhCQ": {
         "en": "Old Midas Whisper",
@@ -175,54 +175,54 @@
         "es": "Pieza de rencor"
     },
     "I9KhCQ": {
-        "en": "[Hot Machine]\nThis {} item's 3rd and 4th are already upgraded. You can select 1 special option. It's guarenteed 100%.",
-        "pt": "[Hot Machine]\nO 3º e 4º espaço do item {} já foram melhorados. Você pode selecionar 1 opção especial. Garantido 100%.",
-        "es": "[Máquina caliente]\nLas ranuras3 y4 del objeto {} ya están mejoradas. Puedes seleccionar 1opción especial. Está garantizado al 100%."
+        "en": "[Hot Machine]\nThis {0} item's 3rd and 4th are already upgraded. You can select 1 special option. It's guarenteed 100%.",
+        "pt": "[Hot Machine]\nO 3º e 4º espaço do item {0} já foram melhorados. Você pode selecionar 1 opção especial. Garantido 100%.",
+        "es": "[Máquina caliente]\nLas ranuras3 y4 del objeto {0} ya están mejoradas. Puedes seleccionar 1opción especial. Está garantizado al 100%."
     },
     "JNKhCQ": {
         "en": "Select Option",
         "pt": "Selecionar Opção",
-        "es": "Seleccionar opción"
+        "es": "Seleccionar opción."
     },
     "JdKhCQ": {
         "en": "Mettle1Lv",
         "pt": "Mettle1Lv",
-        "es": "Fortaleza Nv.1"
+        "es": "Fortaleza de nivel1."
     },
     "JtKhCQ": {
         "en": "MagicEssence1Lv",
         "pt": "MagicEssence1Lv",
-        "es": "Esencia mágica Nv.1"
+        "es": "Esencia mágica de nivel1."
     },
     "J9KhCQ": {
         "en": "Acute1Lv",
         "pt": "Acute1Lv",
-        "es": "Perspicacia Nv.1"
+        "es": "Perspicacia de nivel1."
     },
     "KNKhCQ": {
         "en": "MasterArcher1Lv",
         "pt": "MasterArcher1Lv",
-        "es": "Maestro Arquero Nv.1"
+        "es": "Maestro Arquero de nivel1."
     },
     "KdKhCQ": {
         "en": "Adamantine1Lv",
         "pt": "Adamantine1Lv",
-        "es": "Adamantino Nv.1"
+        "es": "Adamantino de nivel1."
     },
     "KtKhCQ": {
         "en": "Affection1Lv",
         "pt": "Affection1Lv",
-        "es": "Afecto Nv.1"
+        "es": "Afecto de nivel1."
     },
     "K9KhCQ": {
         "en": "Tenacity1Lv",
         "pt": "Tenacity1Lv",
-        "es": "Tenacidad Nv.1"
+        "es": "Tenacidad de nivel1."
     },
     "LNKhCQ": {
         "en": "[Hot Machine]\n[<ITEM>Mettle1Lv<INFO>29061</INFO></ITEM>]\n[<ITEM>MagicEssence1Lv<INFO>29071</INFO></ITEM>]\n[<ITEM>Acute1Lv<INFO>29081</INFO></ITEM>]\n[<ITEM>MasterArcher1Lv<INFO>29091</INFO></ITEM>]\n[<ITEM>Adamantine1Lv<INFO>29101</INFO></ITEM>]\n[<ITEM>Affection1Lv<INFO>29111</INFO></ITEM>]\n[<ITEM>Tenacity1Lv<INFO>29706</INFO></ITEM>]\ncan be selected.",
         "pt": "[Hot Machine]\n[<ITEM>Mettle1Lv<INFO>29061</INFO></ITEM>]\n[<ITEM>MagicEssence1Lv<INFO>29071</INFO></ITEM>]\n[<ITEM>Acute1Lv<INFO>29081</INFO></ITEM>]\n[<ITEM>MasterArcher1Lv<INFO>29091</INFO></ITEM>]\n[<ITEM>Adamantine1Lv<INFO>29101</INFO></ITEM>]\n[<ITEM>Affection1Lv<INFO>29111</INFO></ITEM>]\n[<ITEM>Tenacity1Lv<INFO>29706</INFO></ITEM>]\npode ser selecionado.",
-        "es": "[Máquina caliente]\n[<ITEM>Fortaleza Nv.1<INFO>29061</INFO></ITEM>]\n[<ITEM>Esencia mágica Nv.1<INFO>29071</INFO></ITEM>]\n[<ITEM>Perspicacia Nv.1<INFO>29081</INFO></ITEM>]\n[<ITEM>Maestro Arquero Nv.1<INFO>29091</INFO></ITEM>]\n[<ITEM>Adamantino Nv.1<INFO>29101</INFO></ITEM>]\n[<ITEM>Afecto Nv.1<INFO>29111</INFO></ITEM>]\n[<ITEM>Tenacidad Nv.1<INFO>29706</INFO></ITEM>]\nson las opciones seleccionables."
+        "es": "[Máquina caliente]\n[<ITEM>Fortaleza de nivel1<INFO>29061</INFO></ITEM>]\n[<ITEM>Esencia mágica de nivel1<INFO>29071</INFO></ITEM>]\n[<ITEM>Perspicacia de nivel1<INFO>29081</INFO></ITEM>]\n[<ITEM>Maestro Arquero de nivel1<INFO>29091</INFO></ITEM>]\n[<ITEM>Adamantino de nivel1<INFO>29101</INFO></ITEM>]\n[<ITEM>Afecto de nivel1<INFO>29111</INFO></ITEM>]\n[<ITEM>Tenacidad de nivel1<INFO>29706</INFO></ITEM>]\nson las opciones seleccionables."
     },
     "LdKhCQ": {
         "en": "[Hot Machine]\nThe equipment has been reinforced to the limits supported by Hot Machine. No further reinforcement is possible here.",
@@ -235,19 +235,19 @@
         "es": "[Máquina caliente]\nNo creo que el equipamiento se haya reforzado lo suficiente como para obtener una mejora garantizada."
     },
     "L9KhCQ": {
-        "en": "[<ITEM>{}<INFO>{}</INFO></ITEM>]\n^0000FF{} -> {}level^000000 upgrade",
-        "pt": "[<ITEM>{}<INFO> + {}</INFO></ITEM>]\n^0000CD{} -> + melhoria de {}nível^000000",
-        "es": "[<ITEM>{}<INFO>{}</INFO></ITEM>]\n^FF0000{} -> {}mejora de nivel ^000000"
+        "en": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\n^0000FF{2} -> {3}level^000000 upgrade",
+        "pt": "[<ITEM>{0}<INFO> + {1}</INFO></ITEM>]\n^0000CD{2} -> + melhoria de {3}nível^000000",
+        "es": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\n^0000FF{2}: {3}mejora de nivel ^000000"
     },
     "MNKhCQ": {
-        "en": "[<ITEM>{}<INFO>{}</INFO></ITEM>]",
-        "pt": "[<ITEM>{}<INFO> + {}</INFO></ITEM>]",
-        "es": "[<ITEM>{}<INFO>{}</INFO></ITEM>]"
+        "en": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>]",
+        "pt": "[<ITEM>{0}<INFO> + {1}</INFO></ITEM>]",
+        "es": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>]"
     },
     "MdKhCQ": {
-        "en": "====[Requirement]====\n{} Zeny\n[<ITEM>{}<INFO>{}</INFO></ITEM>] {}s",
-        "pt": "====[Requisito]====\n + {} Zeny\n[<ITEM>{}<INFO> + {}</INFO></ITEM>] {}s",
-        "es": "====[Requisito]====\n{}zeny\n{}[<ITEM>{}<INFO>{}</INFO></ITEM>]"
+        "en": "====[Requirement]====\n{0} Zeny\n[<ITEM>{1}<INFO>{2}</INFO></ITEM>] {3}s",
+        "pt": "====[Requisito]====\n + {0} Zeny\n[<ITEM>{1}<INFO> + {2}</INFO></ITEM>] {3}s",
+        "es": "====[Requisito]====\n{0}zeny\n{3}[<ITEM>{1}<INFO>{2}</INFO></ITEM>]"
     },
     "MtKhCQ": {
         "en": "Cancel",
@@ -257,7 +257,7 @@
     "M9KhCQ": {
         "en": "Upgrade",
         "pt": "Melhorar",
-        "es": "Actualizar."
+        "es": "Mejorar."
     },
     "NNKhCQ": {
         "en": "[Hot Machine]\nCome back when you want to upgrade.",
@@ -265,9 +265,9 @@
         "es": "[Máquina caliente]\nVuelve cuando quieras realizar la mejora."
     },
     "NdKhCQ": {
-        "en": "^FF0000Not enough!^000000\n===[Requirement]===\n{} Zeny\n[<ITEM>{}<INFO>{}</INFO></ITEM>] {}s",
-        "pt": "^FF0000Insuficiente!^000000\n===[Requisito]====\n + {} Zeny\n[<ITEM>{}<INFO> + {}</INFO></ITEM>] {}s",
-        "es": "^660000¡No es suficiente!^000000\n===[Requisito]===\n{}zeny\n{}[<ITEM>{}<INFO>{}</INFO></ITEM>]"
+        "en": "^FF0000Not enough!^000000\n===[Requirement]===\n{0} Zeny\n[<ITEM>{1}<INFO>{2}</INFO></ITEM>] {3}s",
+        "pt": "^FF0000Insuficiente!^000000\n===[Requisito]====\n + {0} Zeny\n[<ITEM>{1}<INFO> + {2}</INFO></ITEM>] {3}s",
+        "es": "^FF0000¡No es suficiente!^000000\n===[Requisito]===\n{0}zeny\n{3}[<ITEM>{1}<INFO>{2}</INFO></ITEM>]"
     },
     "NtKhCQ": {
         "en": "[Hot Machine]",
@@ -275,19 +275,19 @@
         "es": "[Máquina caliente]"
     },
     "N9KhCQ": {
-        "en": "^FF0000[<ITEM>{}<INFO>{}</INFO></ITEM>]\nFailed.^000000",
-        "pt": "^FF0000[<ITEM>{}<INFO> + {}</INFO></ITEM>]\nFalhou.^000000",
-        "es": "^660000[<ITEM>{}<INFO>{}</INFO></ITEM>]\nFalló.^000000"
+        "en": "^FF0000[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\nFailed.^000000",
+        "pt": "^FF0000[<ITEM>{0}<INFO> + {1}</INFO></ITEM>]\nFalhou.^000000",
+        "es": "^FF0000[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\nFalló.^000000"
     },
     "ONKhCQ": {
-        "en": "[<ITEM>{}<INFO>{}</INFO></ITEM>]\nSuccess!",
-        "pt": "[<ITEM>{}<INFO> + {}</INFO></ITEM>]\nSucesso!",
-        "es": "[<ITEM>{}<INFO>{}</INFO></ITEM>]\n¡Éxito!"
+        "en": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\nSuccess!",
+        "pt": "[<ITEM>{0}<INFO> + {1}</INFO></ITEM>]\nSucesso!",
+        "es": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\n¡Éxito!"
     },
     "OdKhCQ": {
-        "en": "[<ITEM>{}<INFO>{}</INFO></ITEM>]\nUpgrade Done.",
-        "pt": "[<ITEM>{}<INFO> + {}</INFO></ITEM>]\nMelhoria Concluída.",
-        "es": "[<ITEM>{}<INFO>{}</INFO></ITEM>]\nMejora realizada."
+        "en": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\nUpgrade Done.",
+        "pt": "[<ITEM>{0}<INFO> + {1}</INFO></ITEM>]\nMelhoria Concluída.",
+        "es": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\nMejora realizada."
     },
     "OtKhCQ": {
         "en": "<Glastheim Boots>",
@@ -302,17 +302,17 @@
     "PNKhCQ": {
         "en": "I think there are too many kinds of things or weights. Please organize your inventory.",
         "pt": "Acho que há muitos tipos de coisas ou pesos. Organize seu inventário.",
-        "es": "Creo que hay demasiados tipos de objetos o peso. Organiza tu inventario."
+        "es": "Creo que hay demasiados tipos de objetos o pesos. Organiza tu inventario."
     },
     "PdKhCQ": {
         "en": "^003366A very suspicious vending machine, which has no idea who installed it, is waiting for a touch with the screen lit up. The manufacturer's mark is old, so it's hard to see.^000000",
         "pt": "^FFCC00Uma máquina de venda automática muito suspeita, que não se faz ideia de quem instalou, está esperando por um toque com a tela acesa. A marca do fabricante é antiga, portanto, é difícil de ver.^000000",
-        "es": "^440000Una máquina expendedora de aspecto sospechoso, que no sabe quién la ha instalado, espera un toque con la pantalla encendida. La marca del fabricante es antigua, por lo que es difícil de distinguir.^000000"
+        "es": "^003366Una máquina expendedora de aspecto sospechoso, que no sabe quién la ha instalado, espera un toque con la pantalla encendida. La marca del fabricante es antigua, por lo que es difícil de distinguir.^000000"
     },
     "PtKhCQ": {
-        "en": "{}'s",
-        "pt": "De {}",
-        "es": "Encantamiento de {}"
+        "en": "{0}'s",
+        "pt": "De {0}",
+        "es": "Encantamiento de {0}"
     },
     "P9KhCQ": {
         "en": "[Hot Machine]\nNice to meet you. I'm G-3425, the hot air machine for you. We provide reinforcement support for the equipment listed below.",
@@ -342,7 +342,7 @@
     "RNKhCQ": {
         "en": "[Hot Machine]\nIf any of the options listed below is enchanted on 4th slot, you can select 3rd slot option.\n[<ITEM>Fiting Spirit7Lv<INFO>4822</INFO></ITEM>]\n[<ITEM>Expert Archer4Lv<INFO>4835</INFO></ITEM>]\n[<ITEM>Spell5Lv<INFO>4826</INFO></ITEM>]\n[<ITEM>MHP+2%<INFO>4862</INFO></ITEM>]\n[<ITEM>Delay after Attck4Lv<INFO>4881</INFO></ITEM>]\n[<ITEM>LUK+6<INFO>4755</INFO></ITEM>]",
         "pt": "[Hot Machine]\nSe alguma das opções listadas abaixo estiver encantada no 4º espaço, você poderá selecionar a opção do 3º espaço.\n[<ITEM>Fiting Spirit7Lv<INFO>4822</INFO></ITEM>]\n[<ITEM>Expert Archer4Lv<INFO>4835</INFO></ITEM>]\n[<ITEM>Spell5Lv<INFO>4826</INFO></ITEM>]\n[<ITEM>MHP+2%<INFO>4862</INFO></ITEM>]\n[<ITEM>Delay after Attck4Lv<INFO>4881</INFO></ITEM>]\n[<ITEM>LUK+6<INFO>4755</INFO></ITEM>]",
-        "es": "[Máquina caliente]\nSi alguna de las opciones enumeradas a continuación está encantada en la ranura4, puedes seleccionar la opción de la ranura3.\n[<ITEM>Espíritu de lucha Nv.7<INFO>4822</INFO></ITEM>]\n[<ITEM>Arquero experto Nv.4<INFO>4835</INFO></ITEM>]\n[<ITEM>Hechizo Nv.5<INFO>4826</INFO></ITEM>]\n[<ITEM>PVM+2%<INFO>4862</INFO></ITEM>]\n[<ITEM>Retraso después de ataque Nv.4<INFO>4881</INFO></ITEM>]\n[<ITEM>SUE+6<INFO>4755</INFO></ITEM>]"
+        "es": "[Máquina caliente]\nSi alguna de las opciones enumeradas a continuación está encantada en la ranura4, puedes seleccionar la opción de la ranura3.\n[<ITEM>Espíritu de lucha de nivel7<INFO>4822</INFO></ITEM>]\n[<ITEM>Arquero experto de nivel4<INFO>4835</INFO></ITEM>]\n[<ITEM>Hechizo de nivel5<INFO>4826</INFO></ITEM>]\n[<ITEM>PVM+2%<INFO>4862</INFO></ITEM>]\n[<ITEM>Retraso después de ataque de nivel4<INFO>4881</INFO></ITEM>]\n[<ITEM>SUE+6<INFO>4755</INFO></ITEM>]"
     },
     "RdKhCQ": {
         "en": "[Hot Machine]\nService fee will be guided when you enchant. Good luck.",
@@ -352,7 +352,7 @@
     "RtKhCQ": {
         "en": "^FF0000Random option is checked. You cannot proceed.^000000",
         "pt": "^FF0000Opção aleatória verificada. Você não pode prosseguir.^000000",
-        "es": "^660000Se seleccionó la opción aleatoria. No puedes continuar.^000000"
+        "es": "^FF0000Se seleccionó la opción aleatoria. No puedes continuar.^000000"
     },
     "R9KhCQ": {
         "en": "[Hot Machine]\nIt's dangerous to unequip right now.",
@@ -477,7 +477,7 @@
     "X9KhCQ": {
         "en": "Modify Luk Boots[Socket]",
         "pt": "Modificar Botas de Sor.[Socket]",
-        "es": "Botas de SUE modificadas [22118]"
+        "es": "Botas de SUE modificadas [Ranura]"
     },
     "YNKhCQ": {
         "en": "[Hot Machine]\nItem you showed me is not guarenteed upgradable item.",
@@ -502,12 +502,12 @@
     "ZNKhCQ": {
         "en": "^FF0000Error occurred.^000000",
         "pt": "^FF0000Ocorreu um erro.^000000",
-        "es": "^660000Se produjo un error.^000000"
+        "es": "^FF0000Se produjo un error.^000000"
     },
     "ZdKhCQ": {
-        "en": "[Hot Machine]\nThis {} 4th slot is upgraded to limit. You can select one special option for 100%.",
-        "pt": "[Hot Machine]\nO 4º espaço deste item {} foi melhorado até o limite. Você pode selecionar uma opção especial por 100%.",
-        "es": "[Máquina caliente]\nLa ranura4 del objeto {} está actualizada al límite. Puedes seleccionar una opción especial para el 100%."
+        "en": "[Hot Machine]\nThis {0} 4th slot is upgraded to limit. You can select one special option for 100%.",
+        "pt": "[Hot Machine]\nO 4º espaço deste item {0} foi melhorado até o limite. Você pode selecionar uma opção especial por 100%.",
+        "es": "[Máquina caliente]\nLa ranura4 del objeto {0} está actualizada al límite. Puedes seleccionar una opción especial para el 100%."
     },
     "ZtKhCQ": {
         "en": "Bear's Power",
@@ -550,37 +550,37 @@
         "es": "[Máquina caliente]\n[<ITEM>El poder del oso<INFO>4875</INFO></ITEM>]\n[<ITEM>Ojo de halcón<INFO>4879</INFO></ITEM>]\n[<ITEM>Magia desmedida<INFO>4876</INFO></ITEM>]\n[<ITEM>Velocidad de la luz<INFO>4877</INFO></ITEM>]\n[<ITEM>Cabeza de músculo<INFO>4878</INFO></ITEM>]\n[<ITEM>Día de suerte<INFO>4880</INFO></ITEM>]\nLa lista de opciones es la que ves arriba."
     },
     "btKhCQ": {
-        "en": "[<ITEM>{}<INFO>{}</INFO></ITEM>]\n^0000FF{} -> {}ready to enchant to level^000000",
-        "pt": "[<ITEM>{}<INFO> + {}</INFO></ITEM>]\n^0000CD{} -> + {}pronto para melhorar para o nível^000000",
-        "es": "[<ITEM>{}<INFO>{}</INFO></ITEM>]\n^FF0000{} -> {}listo para encantar a nivel ^000000"
+        "en": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\n^0000FF{2} -> {3}ready to enchant to level^000000",
+        "pt": "[<ITEM>{0}<INFO> + {1}</INFO></ITEM>]\n^0000CD{2} -> + {3}pronto para melhorar para o nível^000000",
+        "es": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\n^0000FF{2}: {3}listo para encantar a nivel ^000000"
     },
     "b9KhCQ": {
-        "en": "====[Requirement]====\n{} Zeny\n[<ITEM>{}<INFO>{}</INFO></ITEM>] {}s",
-        "pt": "====[Requisito]====\n + {} Zeny\n[<ITEM>{}<INFO> + {}</INFO></ITEM>] {}s",
-        "es": "====[Requisito]====\n{}zeny\n{}[<ITEM>{}<INFO>{}</INFO></ITEM>]"
+        "en": "====[Requirement]====\n{0} Zeny\n[<ITEM>{1}<INFO>{2}</INFO></ITEM>] {3}s",
+        "pt": "====[Requisito]====\n + {0} Zeny\n[<ITEM>{1}<INFO> + {2}</INFO></ITEM>] {3}s",
+        "es": "====[Requisito]====\n{0}zeny\n{3}[<ITEM>{1}<INFO>{2}</INFO></ITEM>]"
     },
     "cNKhCQ": {
-        "en": "[<ITEM>{}<INFO>{}</INFO></ITEM>] {}s\n[<ITEM>{}<INFO>{}</INFO></ITEM>] {}s",
-        "pt": "[<ITEM>{}<INFO> + {}</INFO></ITEM>] {}s\n[<ITEM>{}<INFO> + {}</INFO></ITEM>] {}s",
-        "es": "{}{}[<ITEM>{}<INFO>{}</INFO></ITEM>]\n{}[<ITEM>{}<INFO>{}</INFO></ITEM>]"
+        "en": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>] {2}s\n[<ITEM>{3}<INFO>{4}</INFO></ITEM>] {5}s",
+        "pt": "[<ITEM>{0}<INFO> + {1}</INFO></ITEM>] {2}s\n[<ITEM>{3}<INFO> + {4}</INFO></ITEM>] {5}s",
+        "es": "{drop_disp1}{2}[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\n{5}[<ITEM>{3}<INFO>{4}</INFO></ITEM>]"
     },
     "cdKhCQ": {
         "en": "[Hot Machine]\nPlease come back when you want to upgrade.",
-        "pt": "^FF0000Insuficiente!^000000\n===[Requisito]====\n + {} Zeny\n[<ITEM>{}<INFO> + {}</INFO></ITEM>] {}s",
+        "pt": "^FF0000Insuficiente!^000000\n===[Requisito]====\n + {drop_zeny} Zeny\n[<ITEM>{drop_disp1}<INFO> + {drop_num1}</INFO></ITEM>] {drop_count1}s",
         "es": "[Máquina caliente]\nVuelve cuando quieras realizar la mejora."
     },
     "ctKhCQ": {
-        "en": "^FF0000Not enough!^000000\n===[Requirement]===\n{} Zeny\n[<ITEM>{}<INFO>{}</INFO></ITEM>] {}s",
-        "pt": "[<ITEM>{}<INFO> + {}</INFO></ITEM>]\nSucesso.",
-        "es": "^660000¡No es suficiente!^000000\n===[Requisito]===\n{}zeny\n{}[<ITEM>{}<INFO>{}</INFO></ITEM>]"
+        "en": "^FF0000Not enough!^000000\n===[Requirement]===\n{0} Zeny\n[<ITEM>{1}<INFO>{2}</INFO></ITEM>] {3}s",
+        "pt": "[<ITEM>{db_disp}<INFO> + {db_num}</INFO></ITEM>]\nSucesso.",
+        "es": "^FF0000¡No es suficiente!^000000\n===[Requisito]===\n{0}zeny\n{3}[<ITEM>{1}<INFO>{2}</INFO></ITEM>]"
     },
     "c9KhCQ": {
-        "en": "[<ITEM>{}<INFO>{}</INFO></ITEM>]\nSuccess.",
-        "pt": "[<ITEM>{}<INFO> + {}</INFO></ITEM>]\nMelhoria concluída.",
-        "es": "[<ITEM>{}<INFO>{}</INFO></ITEM>]\n¡Éxito!"
+        "en": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\nSuccess.",
+        "pt": "[<ITEM>{0}<INFO> + {1}</INFO></ITEM>]\nMelhoria concluída.",
+        "es": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\nÉxito."
     },
     "dNKhCQ": {
-        "en": "[<ITEM>{}<INFO>{}</INFO></ITEM>]\nUpgrade completed.",
-        "es": "[<ITEM>{}<INFO>{}</INFO></ITEM>]\nMejora completada."
+        "en": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\nUpgrade completed.",
+        "es": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\nMejora completada."
     }
 }

@@ -8,32 +8,32 @@
     "QUuBDA": {
         "ko": "[?????]\n얘. 넌 거기서 비비지 말고 나 좀 보자.",
         "en": "Hey. Stop messing around over there and come see me.",
-        "pt": "[?????]\nEi. Não fique aí se esfregando, olha pra mim.",
+        "pt": "[?????]\nEi. Não fique aí zanzando por aí, olhe pra mim.",
         "es": "[?????]\nOye. No te quedes ahí parado, ven a verme."
     },
     "QkuBDA": {
         "ko": "[여관 종업원]\n프론테라에 오신 것을 환영합니다. 저희 여관에서 여독을 풀고 가세요.",
         "en": "[Inn Employee]\nWelcome to Prontera. Please feel free to stay here and relieve your fatigue from a long journey.",
-        "pt": "[Funcionário da pousada]\nSeja bem-vindo a Frontera. Descanse um pouco na nossa pousada antes de seguir viagem.",
-        "es": "[Empleado de la posada]\nBienvenido a Frontera. Descansa un rato en nuestra posada antes de seguir tu camino."
+        "pt": "[Funcionário da pousada]\nSeja bem-vindo a Prontera. Descanse um pouco na nossa pousada antes de seguir viagem.",
+        "es": "[Empleado de la posada]\nBienvenido a Prontera. Descansa un rato en nuestra posada antes de seguir tu camino."
     },
     "Q0uBDA": {
         "ko": "[여관 종업원]\n프론테라에 오신 것을 환영합니다. 저희 여관에서 푹 쉬시고 가세요.",
         "en": "[Inn Employee]\nWelcome to Prontera. Please feel free to stay here and rest well.",
-        "pt": "[Funcionário da pousada]\nSeja bem-vindo a Frontera. Descanse bem na nossa pousada antes de seguir viagem.",
-        "es": "[Empleado de la posada]\nBienvenido a Frontera. Descansa un rato en nuestra posada antes de seguir tu camino."
+        "pt": "[Funcionário da pousada]\nSeja bem-vindo a Prontera. Descanse bem na nossa pousada antes de seguir viagem.",
+        "es": "[Empleado de la posada]\nBienvenido a Prontera. Descansa un rato en nuestra posada antes de seguir tu camino."
     },
     "REuBDA": {
         "ko": "[여관 종업원]\n프론테라에 오신 것을 환영합니다. 저희 여관에서 여독을 푸는 건 어떠신지요?",
         "en": "[Inn Employee]\nWelcome to Prontera. Why not stay here and relieve your fatigue from a long journey?",
-        "pt": "[Funcionário da pousada]\nSeja bem-vindo a Frontera. Que tal descansar um pouco na nossa pousada?",
-        "es": "[Empleado de la posada]\nBienvenido a Frontera. ¿Qué tal si te relajas en nuestra posada?"
+        "pt": "[Funcionário da pousada]\nSeja bem-vindo a Prontera. Que tal descansar um pouco na nossa pousada?",
+        "es": "[Empleado de la posada]\nBienvenido a Prontera. ¿Qué tal si te relajas en nuestra posada?"
     },
     "RUuBDA": {
         "ko": "[{0}]\n(아무리 세속과는 거리를 둔다지만, 프론테라까지 와서 차가운 바닥에서 노숙할 필요는 없겠지)",
         "en": "[{0}]\n(I shouldn't indulge in pleasure, but I shouldn't sleep on the street, either, when I'm in a big city like this.)",
-        "pt": "[{0}]\n(Por mais que eu queira me afastar do mundo, não preciso dormir no chão frio aqui em Frontera)",
-        "es": "[{0}]\n(Por mucho que quiera alejarme del mundo, no hace falta que venga hasta Frontera para dormir en el suelo frío)"
+        "pt": "[{0}]\n(Por mais que eu queira me afastar do mundo, não preciso dormir no chão frio aqui em Prontera)",
+        "es": "[{0}]\n(Por mucho que quiera alejarme del mundo, no hace falta que venga hasta Prontera para dormir en el suelo frío)"
     },
     "RkuBDA": {
         "ko": "[{0}]\n(요즘 수련이 정체되어 마음이 답답하나…… 의미없이 몸을 혹사하는 행동이 답은 아닐 테니까)",
@@ -44,13 +44,13 @@
     "R0uBDA": {
         "ko": "방을 잡는다.",
         "en": "Get a room.",
-        "pt": "Reservo um quarto.",
+        "pt": "Reservar um quarto.",
         "es": "Reservo una habitación."
     },
     "SEuBDA": {
         "ko": "[여관 종업원]\n감사합니다, 손님! 2층 두번째 방을 이용해주시면 됩니다.",
         "en": "[Inn Employee]\nThank you, sir! You can use the second room upstairs.",
-        "pt": "[Funcionário da pousada]\nObrigado, hóspede! O quarto é o segundo no segundo andar.",
+        "pt": "[Funcionário da pousada]\nObrigado, hóspede! É o segundo quarto no segundo andar.",
         "es": "[Empleado de la posada]\n¡Gracias, huésped! Puedes usar la segunda habitación del segundo piso."
     },
     "SUuBDA": {
@@ -104,8 +104,8 @@
     "UUuBDA": {
         "ko": "[여관 종업원]\n프론테라에 오신 것을 환영합니다. 저희 여관에서 푹 쉬고 여행을 즐기세요.",
         "en": "[Inn Employee]\nWelcome to Prontera. Please feel free to stay here while you're in the city.",
-        "pt": "[Funcionário da pousada]\nSeja bem-vindo a Frontera. Descanse bem na nossa pousada e aproveite a viagem.",
-        "es": "[Empleado de la posada]\nBienvenido a Frontera. Descansa bien en nuestra posada y disfruta del viaje."
+        "pt": "[Funcionário da pousada]\nSeja bem-vindo a Prontera. Descanse bem na nossa pousada e aproveite a viagem.",
+        "es": "[{PcName}]\n(Por mucho que quiera alejarme del mundo, no hace falta que venga hasta Prontera para dormir en el suelo frío)"
     },
     "UkuBDA": {
         "ko": "???",
@@ -128,7 +128,7 @@
     "VUuBDA": {
         "ko": "[???]\n어머? 들켰네, 언제부터 알고 있었을까?",
         "en": "[???]\nOh my? You caught me. How long have you known?",
-        "pt": "[???]\nOpa? Fui pego, será que ele sabia desde quando?",
+        "pt": "[???]\nOpa? Fui pego, desde quando será que ele sabia?",
         "es": "[???]\n¿Qué? Me han pillado. ¿Desde cuándo lo sabían?"
     },
     "VkuBDA": {
@@ -140,44 +140,44 @@
     "V0uBDA": {
         "ko": "[세량]\n에헷, 들켰다면 어쩔 수 없을까?\n<B>초 천재 인퀴지터 세량이 여기 등장!</B>",
         "en": "[Seriang]\nHeh heh. I have no choice now, do I?\n<B>Here comes Seriang, the super genius Inquisitor!</B>",
-        "pt": "[Se-ryang]\nHehe, se fui pego, não tem jeito, né?\n<B>O supergênio Inquisidor Se-ryang entra em cena!</B>",
+        "pt": "[Seriang]\nHehe, se fui pego, não tem jeito, né?\n<B>O supergênio Inquisidor Seriang entra em cena!</B>",
         "es": "[Seryang]\nJeje, si me descubrieron, ¿qué se le va a hacer?\n<B>¡Aparece aquí el supergenio Inquisidor Seryang!</B>"
     },
     "WEuBDA": {
         "ko": "인퀴지터에 대해 묻는다.",
         "en": "What is an Inquisitor?",
-        "pt": "Pergunta sobre o Inquisidor.",
+        "pt": "Perguntar sobre \"Inquisidor\".",
         "es": "Te pregunta sobre el Inquisidor."
     },
     "WUuBDA": {
         "ko": "미행한 이유를 묻는다.",
         "en": "Why are you following me?",
-        "pt": "Pergunta o motivo da perseguição.",
+        "pt": "Perguntar sobre o motivo da perseguição.",
         "es": "Te pregunto por qué me seguías."
     },
     "WkuBDA": {
         "ko": "[세량]\n세량이는 생각하는데. 지금은 그 질문에 답을 줄 때가 아니라고.",
         "en": "[Seriang]\nSeriang thinks. Now is not the time to answer that question.",
-        "pt": "[Se-ryang]\nSe-ryang acha que agora não é a hora de responder a essa pergunta.",
+        "pt": "[Seriang]\nSeriang acha que agora não é a hora de responder a essa pergunta.",
         "es": "[Seryang]\nSeryang piensa que... ahora no es el momento de responder a esa pregunta."
     },
     "W0uBDA": {
         "ko": "[세량]\n그대에게는 더 신경쓰이는 점이 있지 않을까?\n그것은 아마도……",
         "en": "[Seriang]\nRight now, you have a more urgent matter at hand.\nWhich is...",
-        "pt": "[Se-ryang]\nNão há algo que te preocupe mais?\nIsso provavelmente é...",
-        "es": "[Se-ryang]\n¿No hay algo que te preocupe más?\nEso es probablemente..."
+        "pt": "[Seriang]\nNão há algo que te preocupe mais?\nIsso provavelmente é...",
+        "es": "[Seriang]\n¿No hay algo que te preocupe más?\nEso es probablemente..."
     },
     "XEuBDA": {
         "ko": "[세량]\n미행한 이유일까? 으흠, 답은 고명한 무공을 가진 그대에게 관심이 있어서…… 려나?",
         "en": "[Seriang]\nWhy have I been following you? Hmm, the answer is... because I'm interested in you and your impressive fighting skills.",
-        "pt": "[Se-ryang]\nO motivo da perseguição? Hum, a resposta é que estou interessado em você, que possui habilidades marciais tão notáveis... não é?",
-        "es": "[Se-ryang]\n¿El motivo por el que te seguí? Ejem, la respuesta es que me interesas a ti, que tienes unas habilidades marciales tan famosas... ¿o no?"
+        "pt": "[Seriang]\nO motivo da perseguição? Hum, a resposta é que estou interessado em você, que possui habilidades marciais tão notáveis... não é?",
+        "es": "[Seriang]\n¿El motivo por el que te seguí? Ejem, la respuesta es que me interesas a ti, que tienes unas habilidades marciales tan famosas... ¿o no?"
     },
     "XUuBDA": {
         "ko": "[세량]\n그대, 수라일까?\n하지만 요즘 정체를 겪고 있네. 으흠, 기맥이 끊긴 듯 혈맥이 막힌 듯 무공의 수련이 끊어져 있을까?",
         "en": "[Seriang]\nYou're a Sura, right?\nBut you seem to be stagnating lately. Hmm... Have you felt as if something's blocking you from the inside?",
-        "pt": "[Se-ryang]\nVocê é um Sura?\nMas parece que está passando por uma fase difícil ultimamente. Hum, será que sua energia vital se interrompeu, seus meridianos estão bloqueados e seu treino de artes marciais foi interrompido?",
-        "es": "[Se-ryang]\n¿Eres un Sura?\nPero últimamente estás pasando por una crisis. Ejem, ¿se habrá interrumpido tu entrenamiento de artes marciales porque tus meridianos se han cortado o tus venas se han obstruido?"
+        "pt": "[Seriang]\nVocê é um Shura?\nMas parece que está passando por uma fase difícil ultimamente. Hum, será que sua energia vital se interrompeu, seus meridianos estão bloqueados e seu treino de artes marciais foi interrompido?",
+        "es": "[Seriang]\n¿Eres un Sura?\nPero últimamente estás pasando por una crisis. Ejem, ¿se habrá interrumpido tu entrenamiento de artes marciales porque tus meridianos se han cortado o tus venas se han obstruido?"
     },
     "XkuBDA": {
         "ko": "[{0}]\n(수련에 정체기가 온 건 사실이다…… 내 상태를 어떻게 알고 있지, 이 아이?)",
@@ -188,13 +188,13 @@
     "X0uBDA": {
         "ko": "[세량]\n그대의 생각보다 세량이는 그대를 오래 지켜봐 왔거든. 그대가 초조해하고 있다는 사실을 충분히 알 만큼.",
         "en": "[Seriang]\nSeriang has been watching you much longer than you know. Long enough to know you've been anxious.",
-        "pt": "[Se-ryang]\nMais do que você imagina, eu venho observando você há muito tempo. O suficiente para saber que você está ansioso.",
+        "pt": "[Seriang]\nMais do que você imagina, eu venho observando você há muito tempo. O suficiente para saber que você está ansioso.",
         "es": "[Seryang]\nSeryang te ha estado observando durante más tiempo de lo que crees. Lo suficiente como para saber perfectamente que estás inquieto."
     },
     "YEuBDA": {
         "ko": "[세량]\n그런 수라인 그대에게 짜잔, 세량이가 줄 수 있는 조언이 있는데.\n관심이 있을까?",
         "en": "[Seriang]\nFor you, Sura, my friend, I've got a piece of advice.\nWould you be interested in hearing it?",
-        "pt": "[Se-ryang]\nPara um su-ra como você, ta-da, o Se-ryang tem um conselho a dar.\nVocê tem interesse?",
+        "pt": "[Seriang]\nPara um Shura como você, Seriang tem um conselho a dar.\nVocê tem interesse?",
         "es": "[Seryang]\nPara un maestro como tú, ¡ta-da!, tengo un consejo que darte.\n¿Te interesa?"
     },
     "YUuBDA": {
@@ -212,26 +212,26 @@
     "Y0uBDA": {
         "ko": "[세량]\n관심 없다면 상관 없는 이야기일까? 귀한 조언, 값싸게 주기는 싫으니까.",
         "en": "[Seriang]\nIf you're not interested, is it irrelevant? I'd hate to give away valuable advice cheaply.",
-        "pt": "[Se-ryang]\nSe não te interessar, será que não vale a pena falar? Não quero dar um conselho tão valioso de graça.",
-        "es": "[Se-ryang]\n¿Si no te interesa, entonces no vale la pena? No quiero dar un consejo tan valioso a la ligera."
+        "pt": "[Seriang]\nSe não te interessar, será que não vale a pena falar? Não quero dar um conselho tão valioso de graça.",
+        "es": "[Seriang]\n¿Si no te interesa, entonces no vale la pena? No quiero dar un consejo tan valioso a la ligera."
     },
     "ZEuBDA": {
         "ko": "[세량]\n으흠, 좋은 판단입니다. 하지만 사실 세량인 그대에게 가르침을 주기엔 <FONT SIZE = 10>사실 아직</FONT> <FONT SIZE = 9>수련이 부족해.</FONT>",
         "en": "[Seriang]\nHmm, good judgment. But truthfully, Seriang, even though she's a genius Inquisitor, is <FONT SIZE = 10>not yet</FONT> <FONT SIZE = 9>fully trained enough</FONT> to teach you.",
-        "pt": "[Se-ryang]\nHum, boa decisão. Mas, na verdade, para te ensinar, <FONT SIZE = 10>na verdade, ainda</FONT> <FONT SIZE = 9>me falta treino.</FONT>",
+        "pt": "[Seriang]\nHum, boa decisão. Mas, na verdade, para te ensinar, <FONT SIZE = 10>na verdade, ainda</FONT> <FONT SIZE = 9>me falta treino.</FONT>",
         "es": "[Seryang]\nEjem, buena decisión. Pero la verdad es que, para darte una enseñanza, <FONT SIZE = 10>en realidad todavía</FONT> <FONT SIZE = 9>me falta práctica.</FONT>"
     },
     "ZUuBDA": {
         "ko": "[세량]\n어어, 화내지 마시길. 그대에게 조언을 줄 수 있다고 했지. 나보다 더 뛰어나고 그대에게 도움이 될 이를 소개해 줄 수 있는데. 이걸로 좋을까?",
         "en": "[Seriang]\nWhoa, whoa! Calm down. I said I'd offer you advice, not training. I know someone who's much better and more helpful to you than I am. Want to meet him?",
-        "pt": "[Se-ryang]\nEi, não fique bravo. Eu disse que poderia te dar conselhos. Posso te apresentar alguém que é melhor do que eu e que pode te ajudar. Isso tá bom pra você?",
+        "pt": "[Seriang]\nEi, não fique bravo. Eu disse que poderia te dar conselhos. Posso te apresentar alguém que é melhor do que eu e que pode te ajudar. Isso tá bom pra você?",
         "es": "[Seryang]\nEh, no te enojes. Dije que podía darte un consejo. Puedo presentarte a alguien que es mejor que yo y que te puede ayudar. ¿Te parece bien?"
     },
     "ZkuBDA": {
         "ko": "[세량]\n그대의 어려움에 답이 되어 줄 이는 하나뿐. 바로… <B>주신 오딘</B>.",
         "en": "[Seriang]\nThe only one who can help you solve your problem is... <B>Odin</B>.",
-        "pt": "[Se-ryang]\nSó há uma pessoa que pode resolver a tua dificuldade. É... <B>O deus Odin</B>.",
-        "es": "[Se-ryang]\nSolo hay una persona que puede resolver tus dificultades. Es... <B>el dios Odín</B>."
+        "pt": "[Seriang]\nSó há uma pessoa que pode resolver a tua dificuldade. É... <B>O deus Odin</B>.",
+        "es": "[Seriang]\nSolo hay una persona que puede resolver tus dificultades. Es... <B>el dios Odín</B>."
     },
     "Z0uBDA": {
         "ko": "……안 사요.",
@@ -242,14 +242,14 @@
     "aEuBDA": {
         "ko": "[세량]\n아이참, 왜 그럴까. 농담, 농담도 못하나.",
         "en": "[Seriang]\nOh, come on. Why are you like that? Can't you take a joke?",
-        "pt": "[Se-ryang]\nAh, por que assim? Não dá nem para brincar?",
+        "pt": "[Seriang]\nAh, por que assim? Não dá nem para brincar?",
         "es": "[Seryang]\nAy, ¿por qué? ¿Es que no se puede ni bromear?"
     },
     "aUuBDA": {
         "ko": "[세량]\n하지만 그렇게 단호하게 거절할 줄이야.\n그대, 신의 뜻으로 된 길을 걸은 적이 있을 텐데?",
         "en": "[Seriang]\nBut I can't believe how quickly you said no.\nYou once were on the path of God, weren't you?",
-        "pt": "[Se-ryang]\nMas não esperava que você recusasse tão categoricamente.\nVocê já deve ter trilhado o caminho traçado pela vontade dos deuses, não é?",
-        "es": "[Se-ryang]\nPero no pensé que lo rechazarías con tanta rotundidad.\nTú, ¿no has caminado alguna vez por el camino marcado por la voluntad de los dioses?"
+        "pt": "[Seriang]\nMas não esperava que você recusasse tão categoricamente.\nVocê já deve ter trilhado o caminho traçado pela vontade dos deuses, não é?",
+        "es": "[Seriang]\nPero no pensé que lo rechazarías con tanta rotundidad.\nTú, ¿no has caminado alguna vez por el camino marcado por la voluntad de los dioses?"
     },
     "akuBDA": {
         "ko": "옛 일임을 말한다.",
@@ -260,26 +260,26 @@
     "a0uBDA": {
         "ko": "[세량]\n으흠, 그렇게 생각하고 있는 거로군.\n세량이가 소개해 주고 싶은 사람, <B>에인하르</B>는 성 카피톨리나 수도원으로 가는 길목에서 그대를 기다리고 있어.",
         "en": "[Seriang]\nAh, so that's how you think.\n<B>Einhar</B>, whom Seriang would like you to meet, is waiting for you on the path to St. Capitolina Abbey.",
-        "pt": "[Se-ryang]\nHum, então é isso que você está pensando.\nA pessoa que a Se-ryang gostaria de te apresentar, <B>Einhar</B>, está te esperando no caminho para o Mosteiro de Santa Capitolina.",
+        "pt": "[Seriang]\nHum, então é isso que você está pensando.\nA pessoa que a Seriang gostaria de te apresentar, <B>Einhar</B>, está te esperando no caminho para a Abadia de Santa Capitolina.",
         "es": "[Seryang]\nEjem, así que eso es lo que piensas.\nLa persona que Seryang quiere presentarte, <B>Einhar</B>, te está esperando en el camino hacia el monasterio de Santa Capitolina."
     },
     "bEuBDA": {
         "ko": "[세량]\n어떻게, 수도원은 낯설지 않은 곳일까? 그곳의 기억을 아직 가지고 있을까?\n어느 새 귀신이 되어 버린 그대의 영혼이, 말이야.",
         "en": "[Seriang]\nHow about it? Is the abbey an unfamiliar place? Do you still hold memories of that place?\nYour soul that's become a fiend, you know.",
-        "pt": "[Se-ryang]\nE aí, o mosteiro não é um lugar estranho para você? Você ainda guarda lembranças daquele lugar?\nDa sua alma, que sem perceber se tornou um fantasma, quero dizer.",
+        "pt": "[Seriang]\nE aí, a abadia não é um lugar estranho para você? Você ainda guarda lembranças daquele lugar?\nDa sua alma, que sem perceber se tornou um fantasma, quero dizer.",
         "es": "[Seryang]\n¿Qué tal? ¿Te resulta familiar el monasterio? ¿Aún conservas recuerdos de ese lugar?\nMe refiero a tu alma, que sin darte cuenta se ha convertido en un fantasma."
     },
     "bUuBDA": {
         "ko": "[세량]\n수도원에서 수련하던 시절을 아직 기억하고 있다면, 에인하르를 추천해 준 세량이의 선택이 틀리지 않았다는 거겠지.",
         "en": "[Seriang]\nIf you still remember when you trained at the abbey, then Seriang has made the right decision to refer you to Einhar.",
-        "pt": "[Se-ryang]\nSe você ainda se lembra dos tempos em que treinava no mosteiro, isso significa que a escolha de Se-ryang em te recomendar Einhar não foi errada.",
+        "pt": "[Seriang]\nSe você ainda se lembra dos tempos em que treinava na abadia, isso significa que a escolha de Seriang em te recomendar a Einhar não foi errada.",
         "es": "[Seryang]\nSi aún recuerdas la época en que te formabas en el monasterio, eso significará que la elección de Seryang al recomendarte a Einhar no fue errónea."
     },
     "bkuBDA": {
         "ko": "[세량]\n으흠, 모쪼록 세량이가 그대에게 도움이 되기를 바라.",
         "en": "[Seriang]\nWell then, I hope Seriang proves helpful to you.",
-        "pt": "[Se-ryang]\nHum, espero que eu possa ser útil para você.",
-        "es": "[Se-ryang]\nEjem, espero de todo corazón que Se-ryang te sea de ayuda."
+        "pt": "[Seriang]\nHum, espero que eu possa ser útil para você.",
+        "es": "[Seriang]\nEjem, espero de todo corazón que Se-ryang te sea de ayuda."
     },
     "b0uBDA": {
         "ko": "[{0}]\n(수상한 꼬마다. 하지만 수련에 돌파구가 필요한 것은 사실……)",
@@ -290,20 +290,20 @@
     "cEuBDA": {
         "ko": "[{0}]\n(속는 셈 치고 찾아가 볼까. 성 카피톨리나 수도원으로 가는 길목, <NAVI>[에인하르]<INFO>prt_fild03,360,272,0,101,0</INFO></NAVI> 라고 했지)",
         "en": "[{0}]\n(Maybe I should take the risk and go see her. She said it's on the way to the Saint Capitolina Monastery, <NAVI>[Einhar]<INFO>prt_fild03,360,272,0,101,0</INFO></NAVI>)",
-        "pt": "[{0}]\n(Vou fingir que acredito nisso e dar uma passada lá. No caminho para o Convento de Santa Capitolina, <NAVI>[Einhar]<INFO>prt_fild03,360,272,0,101,0</INFO></NAVI>, foi o que ele disse)",
+        "pt": "[{0}]\n(Vou fingir que acredito nisso e dar uma passada lá. No caminho para a Abadia de Santa Capitolina, <NAVI>[Einhar]<INFO>prt_fild03,360,272,0,101,0</INFO></NAVI>, foi o que ele disse)",
         "es": "[{0}]\n(Voy a hacer como si me dejara engañar y voy a ir a verlo. En el camino hacia el monasterio de Santa Capitolina, <NAVI>[Einhar]<INFO>prt_fild03,360,272,0,101,0</INFO></NAVI>, ¿no?)"
     },
     "cUuBDA": {
         "ko": "세량",
         "en": "세량",
-        "pt": "Se-ryang",
+        "pt": "Seriang",
         "es": "Seryang"
     },
     "ckuBDA": {
         "ko": "[세량]\n으흠, <B>초 천재 인퀴지터</B>에게는 모름지기 비밀이 있어야 흥미로운 법.",
         "en": "[Seriang]\nHmm, a <B>super genius Inquisitor</B> should always have secrets to be interesting.",
-        "pt": "[Se-ryang]\nHum, para um <B>Inquisidor supergênio</B>, é preciso ter segredos pra ficar interessante.",
-        "es": "[Se-ryang]\nEjem, para un <B>inquisidor supergenio</B> es inevitable tener secretos para que sea interesante."
+        "pt": "[Seriang]\nHum, para um <B>Inquisidor supergênio</B>, é preciso ter segredos pra ficar interessante.",
+        "es": "[Seriang]\nEjem, para un <B>inquisidor supergenio</B> es inevitable tener secretos para que sea interesante."
     },
     "c0uBDA": {
         "ko": "에인하르",
@@ -326,13 +326,13 @@
     "dkuBDA": {
         "ko": "[에인하르]\n주변에 수련의 끝에 도달해 벽에 부딪힌 수라가 있다면, 저를 기억해 주십시오.",
         "en": "[Einhar]\nIf you know any Sura who's reached their limits, please remember and look for me.",
-        "pt": "[Einhar]\nSe por aí houver algum sura que tenha chegado ao fim do treinamento e se deparado com um obstáculo, lembra-te de mim.",
+        "pt": "[Einhar]\nSe conhecer algum Shura que tenha chegado ao fim do treinamento e se deparado com um obstáculo, lembre-se de mim.",
         "es": "[Einhar]\nSi hay algún sura a tu alrededor que haya llegado al límite de su entrenamiento y se haya topado con un muro, acuérdate de mí."
     },
     "d0uBDA": {
         "ko": "[에인하르]\n언젠가 수련이 끝에 도달해 벽에 부딪치게 된다면, 이곳에 있는 저를 기억해 주십시오.",
         "en": "[Einhar]\nIf you ever reach your limits in training and hit a wall, please remember I'm here.",
-        "pt": "[Einhar]\nSe algum dia você chegar ao fim do treinamento e se deparar com um obstáculo, lembre-se de mim aqui.",
+        "pt": "[Einhar]\nSe algum dia você chegar ao fim do treinamento e se deparar com um obstáculo, lembre-se que estarei aqui.",
         "es": "[Einhar]\nSi algún día llegas al final de tu entrenamiento y te topas con un muro, acuérdate de mí, que estoy aquí."
     },
     "eEuBDA": {
@@ -355,8 +355,8 @@
     },
     "e0uBDA": {
         "ko": "에인하르가 맞는지 묻는다.",
-        "en": "He asks if it's Einhar.",
-        "pt": "Ele pergunta se é mesmo Einhar.",
+        "en": "You ask if he's Einhar.",
+        "pt": "Você pergunta se ele é mesmo Einhar.",
         "es": "Te pregunta si eres Einhar."
     },
     "fEuBDA": {
@@ -368,13 +368,13 @@
     "fUuBDA": {
         "ko": "세량의 소개로 찾아왔다고 한다.",
         "en": "He says he came on Seriang's recommendation.",
-        "pt": "Diz que veio por indicação de Se-ryang.",
+        "pt": "Diz que veio por indicação de Seriang.",
         "es": "Dice que ha venido por recomendación de Se-ryang."
     },
     "fkuBDA": {
         "ko": "[에인하르]\n아, 세량이가 보낸 분이십니까. 그렇다면 수라겠군요.\n당신에게서 전장의 냄새가 납니다.",
         "en": "[Einhar]\nAh, so you're the one Seriang sent. Then you must be a Sura.\nI can smell the battlefield from you.",
-        "pt": "[Einhar]\nAh, você foi enviado pelo Se-ryang? Se é assim, então vamos ao que interessa.\nSinto o cheiro do campo de batalha vindo de você.",
+        "pt": "[Einhar]\nAh, você foi enviado pelo Seriang? Se é assim, então vamos ao que interessa.\nSinto o cheiro do campo de batalha vindo de você.",
         "es": "[Einhar]\nAh, ¿te envía Se-ryang? En ese caso, un placer.\nHueles a campo de batalla."
     },
     "f0uBDA": {
@@ -392,13 +392,13 @@
     "gUuBDA": {
         "ko": "[에인하르]\n세량이는 그런 수라들을 찾아내 제게 보내기 때문에 짐작할 수 있었습니다.",
         "en": "[Einhar]\nI could tell because Seriang finds those Suras and sends them my way.",
-        "pt": "[Einhar]\nComo o Se-ryang costuma encontrar esses Suras e me enviá-los, eu consegui adivinhar.",
+        "pt": "[Einhar]\nEu sei porque o Seriang costuma encontrar esses Shuras e os envia para mim.",
         "es": "[Einhar]\nSe-ryang busca a suras como tú y me los envía, así que me lo imaginaba."
     },
     "gkuBDA": {
         "ko": "[{0}]\n(<I>……왜 마음을 읽지?!</I>)",
         "en": "[{0}]\n(<I>……Why is he reading my mind?!</I>)",
-        "pt": "[{0}]\n(<I>……Por que você leu meus pensamentos?!</I>)",
+        "pt": "[{0}]\n(<I>……Por que ele lê meus pensamentos?!</I>)",
         "es": "[{0}]\n(<I>……¡¿Por qué me lees la mente?!</I>)"
     },
     "g0uBDA": {
@@ -409,9 +409,9 @@
     },
     "hEuBDA": {
         "ko": "[에인하르]\n소개가 늦었습니다. 저는 <B>에인하르 에나드</B>. 미욱한 신의 철퇴입니다.\n장세량과 같은 인퀴지터입니다.",
-        "en": "[Einhar]\nMy apologies for the late introduction. I am <B>Einhar Enhard</B>. The Mace of the Unwise God.\nAn Inquisitor, just like Seriang.",
-        "pt": "[Einhar]\nMeu nome é <B>Einhar Enad</B>. O martelo do deus ignorante.\nSou um Inquisidor, assim como Jang Se-ryang.",
-        "es": "[Einhar]\nMe presenté tarde. Soy <B>Einhar Enad</B>. El mazo del dios ignorante.\nSoy un inquisidor como Jang Se-ryang."
+        "en": "[Einhar]\nMy apologies for the late introduction. I am <B>Einhar Enard</B>. The Mace of the Unwise God.\nAn Inquisitor, just like Seriang.",
+        "pt": "[Einhar]\nMeu nome é <B>Einhar Enard</B>. A Clava do Deus Insensato.\nSou um Inquisidor, assim como Seriang.",
+        "es": "[Einhar]\nMe presenté tarde. Soy <B>Einhar Enard</B>. El mazo del dios ignorante.\nSoy un inquisidor como Se-ryang."
     },
     "hUuBDA": {
         "ko": "인퀴지터가 무엇인지 묻는다.",
@@ -422,25 +422,25 @@
     "hkuBDA": {
         "ko": "[에인하르]\n세량이는 아무 것도 알려주지 않았지요?\n그 애는 여기까지 오는 일 자체도 간절함의 시험이라 여겨서 그렇습니다.",
         "en": "[Einhar]\nDid Seriang not tell you anything?\nShe considers the very act of coming here a test of your earnestness.",
-        "pt": "[Einhar]\nSe-ryang não te contou nada, não é?\nÉ porque ele considera que o próprio ato de chegar até aqui já é um teste de determinação.",
+        "pt": "[Einhar]\nSeriang não te contou nada, não é?\nÉ porque ele considera que o próprio ato de chegar até aqui já é um teste de determinação.",
         "es": "[Einhar]\n¿Se-ryang no te contó nada, verdad?\nEs que para él, el mero hecho de llegar hasta aquí ya es una prueba de su fervor."
     },
     "h0uBDA": {
         "ko": "[에인하르]\n세량이는 당신같은 이들이 더 강해지고자 하는 욕망을 붙들고 미지의 앎에 기꺼이 뛰어들 수 있는지 알고 싶어하지요.",
         "en": "[Einhar]\nSeriang wants to know if you're willing to embrace the knowledge of the unknown to become stronger.",
-        "pt": "[Einhar]\nSe-ryang quer saber se pessoas como você são capazes de se agarrar ao desejo de se tornarem mais fortes e mergulhar de bom grado no conhecimento do desconhecido.",
+        "pt": "[Einhar]\nSeriang quer saber se pessoas como você são capazes de se agarrar ao desejo de se tornarem mais fortes e mergulhar de bom grado no conhecimento do desconhecido.",
         "es": "[Einhar]\nA Se-ryang le interesa saber si gente como tú es capaz de aferrarse al deseo de ser más fuerte y lanzarse de buena gana al conocimiento de lo desconocido."
     },
     "iEuBDA": {
         "ko": "인퀴지터에 대해 듣는다.",
         "en": "Tell me about you Inquisitors.",
-        "pt": "Ouvimos sobre os Inquisidores.",
+        "pt": "Fale-me sobre os Inquisidores.",
         "es": "Escuchas sobre los Inquisidores."
     },
     "iUuBDA": {
         "ko": "[에인하르]\n<B>인퀴지터</B>는 한때 수라였던 자들입니다.",
         "en": "[Einhar]\n<B>Inquisitors</B> were once Suras.",
-        "pt": "[Einhar]\n<B>Os Inquisidores</B> são aqueles que já foram demônios.",
+        "pt": "[Einhar]\n<B>Os Inquisidores</B> são aqueles que já foram Shuras.",
         "es": "[Einhar]\nLos <B>Inquisidores</B> son aquellos que alguna vez fueron demonios."
     },
     "ikuBDA": {
@@ -476,7 +476,7 @@
     "j0uBDA": {
         "ko": "[에인하르]\n하지만 수라여, 당신이 신을 버린 이유는 무엇입니까.",
         "en": "[Einhar]\nBut Sura, why did you abandon Him?",
-        "pt": "[Einhar]\nMas, Sura, qual foi a razão pela qual você abandonou os deuses?",
+        "pt": "[Einhar]\nMas, Shura, qual foi a razão pela qual você abandonou os deuses?",
         "es": "[Einhar]\nPero, Sura, ¿por qué abandonaste a los dioses?"
     },
     "kEuBDA": {
@@ -488,7 +488,7 @@
     "kUuBDA": {
         "ko": "[에인하르]\n저 역시 그랬습니다. 그렇게 수라의 길을 걸었지요.",
         "en": "[Einhar]\nI did the same. I chose the path of the Sura for that very reason.",
-        "pt": "[Einhar]\nEu também fiz o mesmo. Foi assim que trilhei o caminho de Sura.",
+        "pt": "[Einhar]\nEu também fiz o mesmo. Foi assim que trilhei o caminho de Shura.",
         "es": "[Einhar]\nYo también lo hice. Así fue como recorrí el camino de los suras."
     },
     "kkuBDA": {
@@ -518,13 +518,13 @@
     "lkuBDA": {
         "ko": "[에인하르]\n그것은, 당신이 <FONT COLOR = FF0000>자신의 한계까지 수련한 수라</FONT>였기 때문입니다.",
         "en": "[Einhar]\nIt was because you were a Sura who had trained to the limits of your own capabilities.",
-        "pt": "[Einhar]\nIsso é porque você era um <FONT COLOR = FF0000>Sura que treinou até o limite de suas capacidades</FONT>.",
+        "pt": "[Einhar]\nIsso é porque você era um <FONT COLOR = FF0000>Shura que treinou até o limite de suas capacidades</FONT>.",
         "es": "[Einhar]\nEs porque eras un <FONT COLOR = FF0000>sura que se había entrenado hasta sus límites</FONT>."
     },
     "l0uBDA": {
         "ko": "[에인하르]\n성취할 것이 남아 있는 수라에게는 그것이 중요하기에, 저와 세량이의 말이 그저 잔소리로만 들릴 것을 알기 때문입니다.",
         "en": "[Einhar]\nBecause you still had things to accomplish as who you were, you wouldn't have listened to Seriang or me.",
-        "pt": "[Einhar]\nPara um sura que ainda tem algo a conquistar, isso é importante, e eu sei que as palavras minhas e de Seoryang soariam apenas como reclamações.",
+        "pt": "[Einhar]\nPara um sura que ainda tem algo a conquistar, isso é importante, e eu sei que as palavras minhas e de Seriang soariam apenas como reclamações.",
         "es": "[Einhar]\nSé que para un sura al que aún le queda algo por lograr eso es lo importante, y que las palabras de Seryang y mías solo te suenan a sermones."
     },
     "mEuBDA": {
@@ -596,7 +596,7 @@
     "o0uBDA": {
         "ko": "[에인하르]\n<FONT SIZE = 14><B>돌아와! 강해지고 싶다고 하지 않았나, 그 길을 보여준대도!</B></FONT>",
         "en": "[Einhar]\n<FONT SIZE = 14><B>Come back! Didn't you say you wanted to become stronger? I'll show you how!</B></FONT>",
-        "pt": "[Einhar]\n<FONT SIZE = 14><B>Volta! Você não disse que queria ficar mais forte? Ele vai te mostrar o caminho!</B></FONT>",
+        "pt": "[Einhar]\n<FONT SIZE = 14><B>Volte! Você não disse que queria ficar mais forte? Ele vai te mostrar o caminho!</B></FONT>",
         "es": "[Einhar]\n<FONT SIZE = 14><B>¡Regresa! ¿No dijiste que querías ser más fuerte? ¡Te mostrarán el camino!</B></FONT>"
     },
     "pEuBDA": {
@@ -632,19 +632,19 @@
     "qUuBDA": {
         "ko": "[에인하르]\n3시 방향의 길로 진입해 성 카피톨리나 수도원으로 들어오십시오.\n그 안에서 당신은 수도원에서 오랫동안 그 기운을 누르고 있는 <B>흉악한 괴물</B>을 만나게 될 것입니다.",
         "en": "[Einhar]\nEnter St. Capitolina Abbey through the eastern entrance.\nThere, you'll encounter a <B>heinous monster</B> that's been suppressing the abbey's energy for a long time.",
-        "pt": "[Einhar]\nEntre pelo caminho na direção das 3 horas e entre no Mosteiro de Santa Capitolina.\nLá dentro, você encontrará um <B>monstro terrível</B> que há muito tempo reprime sua energia no mosteiro.",
+        "pt": "[Einhar]\nVá pelo caminho na direção leste e entre na Abadia de Santa Capitolina.\nLá dentro, você encontrará um <B>monstro terrível</B> que há muito tempo reprime sua energia na abadia.",
         "es": "[Einhar]\nEntra por el camino a las 3 en punto y dirígete al monasterio de Santa Capitolina.\nAllí te encontrarás con un <B>monstruo atroz</B> que lleva mucho tiempo reprimiendo su poder en el monasterio."
     },
     "qkuBDA": {
         "ko": "[에인하르]\n그것을 처치해 주십시오. 그것이 실천의 시험입니다.\n<NAVI>[안쪽]<INFO>prt_monk,97,214,0,101,0</INFO></NAVI>에서 기다리고 있겠습니다.",
         "en": "[Einhar]\nPlease defeat it. This is your execution test.\nI'll be waiting on the <NAVI>[inside]<INFO>prt_monk,97,214,0,101,0</INFO></NAVI>.",
-        "pt": "[Einhar]\nDerrote-o. Essa é a prova de prática.\nEstarei esperando em <NAVI>[Interior]<INFO>prt_monk,97,214,0,101,0</INFO></NAVI>.",
+        "pt": "[Einhar]\nDerrote-o. Essa é a prova de prática.\nEstarei esperando <NAVI>[lá dentro]<INFO>prt_monk,97,214,0,101,0</INFO></NAVI>.",
         "es": "[Einhar]\nAcaba con él. Esa es tu prueba de fe.\nTe estaré esperando en <NAVI>[Interior]<INFO>prt_monk,97,214,0,101,0</INFO></NAVI>."
     },
     "q0uBDA": {
         "ko": "[에인하르]\n앞의 길로 진입해 성 카피톨리나 수도원으로 들어오십시오.\n그 안에서 당신은 수도원에서 오랫동안 그 기운을 누르고 있는 흉악한 괴물을 만나게 될 것입니다.",
         "en": "[Einhar]\nEnter the path ahead and proceed to St. Capitolina Abbey.\nThere, you'll encounter a heinous monster that's been suppressing the abbey's energy for a long time.",
-        "pt": "[Einhar]\nSiga pelo caminho à frente e entre no Mosteiro de Santa Capitolina.\nLá dentro, você encontrará um monstro terrível que há muito tempo reprime sua energia no mosteiro.",
+        "pt": "[Einhar]\nSiga pelo caminho à frente e entre no Abadia de Santa Capitolina.\nLá dentro, você encontrará um monstro terrível que há muito tempo reprime sua energia na abadia.",
         "es": "[Einhar]\nEntra por el camino de adelante y dirígete al Monasterio de Santa Capitolina.\nAllí te encontrarás con un <B>monstruo atroz</B> que lleva mucho tiempo reprimiendo su poder en el monasterio."
     },
     "rEuBDA": {
@@ -656,13 +656,13 @@
     "rUuBDA": {
         "ko": "[세량]\n으흠, 무사히 여기까지 왔군, 그대!\n역시 내가 사람을 잘못 보지 않은 걸까!",
         "en": "[Seriang]\nOooh, good job coming this far!\nI knew I had an eye for people!",
-        "pt": "[Se-ryang]\nHum, você chegou aqui em segurança, não é mesmo!\nAfinal, parece que não me enganei ao julgar as pessoas!",
+        "pt": "[Seriang]\nHum, você chegou aqui em segurança, não é mesmo!\nAfinal, parece que não me enganei ao julgar as pessoas!",
         "es": "[Seryang]\n¡Eh, has llegado sano y salvo hasta aquí, amigo!\n¡Al fin y al cabo, no me equivoqué al juzgarte!"
     },
     "rkuBDA": {
         "ko": "[에인하르]\n잘 오셨습니다. 실천의 시험을 위한 괴물은 수도원 지하에 있습니다.\n결계로 가두어 놓았으나, 워낙 강력한 괴물이라 방치하면 결계가 약해져 결국 무너지고 말 것입니다.",
         "en": "[Einhar]\nWelcome. The monster for your execution test is in the abbey's basement.\nIt's warded, but it's such a formidable monster that it can eventually break out of its prison.",
-        "pt": "[Einhar]\nSeja bem-vindo. O monstro para o teste prático está no subsolo do mosteiro.\nEle está preso por um feitiço de contenção, mas, como é um monstro extremamente poderoso, se deixarmos isso de lado, o feitiço enfraquecerá e acabará por ruir.",
+        "pt": "[Einhar]\nSeja bem-vindo. O monstro para o teste prático está no subsolo da abadia.\nEle está preso por um feitiço de contenção, mas, como é um monstro extremamente poderoso, se deixarmos isso de lado, o feitiço enfraquecerá e acabará por ruir.",
         "es": "[Einhar]\nBienvenido. El monstruo para tu prueba práctica está en los sótanos del monasterio.\nLo tenemos encerrado en un hechizo de contención, pero es tan poderoso que, si lo dejamos sin control, el hechizo se debilitará y acabará rompiéndose."
     },
     "r0uBDA": {
@@ -698,7 +698,7 @@
     "tEuBDA": {
         "ko": "[세량]\n준비도 중요한 일이니, 너무 채근하지 않는 게 어떨까, 에인하르!",
         "en": "[Seriang]\nPreparation is important. Why don't we give them some time, Einhar?",
-        "pt": "[Seryang]\nA preparação também é importante, então que tal não pressioná-lo tanto, Einhar!",
+        "pt": "[Seriang]\nA preparação também é importante, então que tal não pressioná-lo tanto, Einhar!",
         "es": "[Seryang]\nLa preparación también es importante, ¡así que mejor no lo presiones tanto, Einhar!"
     },
     "tUuBDA": {
@@ -722,13 +722,13 @@
     "uEuBDA": {
         "ko": "[에인하르]\n그렇습니다. <B>한 번 더</B>, 수도원 지하결계 안으로 들어가 흉악을 퇴치해 주십시오.",
         "en": "[Einhar]\nYes. Please enter the underground ward in the abbey and defeat that abomination <B>one more time</B>.",
-        "pt": "[Einhar]\nIsso mesmo. <B>Mais uma vez</B>, entra no subterrâneo do mosteiro e derrota o monstro.",
+        "pt": "[Einhar]\nIsso mesmo. <B>Mais uma vez</B>, entre no subterrâneo da abadia e derrote o monstro.",
         "es": "[Einhar]\nAsí es. <B>Una vez más</B>, entra en el barrier subterráneo del monasterio y acaba con esa bestia."
     },
     "uUuBDA": {
         "ko": "[에인하르]\n<FONT COLOR = FF0000>아직 이전에 열어드렸던 통로가 열려 있는 상태라면, [던전 파괴]를 눌러 닫으시고 새로이 입장하시기 바랍니다.</FONT>",
         "en": "[Einhar]\n<FONT COLOR = FF0000>If the previous passage to the ward still exists, please press [Destroy Dungeon] to close it and create a new one.</FONT>",
-        "pt": "[Einhar]\n<FONT COLOR = FF0000>Se o corredor que abri anteriormente ainda estiver aberto, clica em [Destruir Masmorra] para fechá-lo e entra novamente.</FONT>",
+        "pt": "[Einhar]\n<FONT COLOR = FF0000>Se o corredor que abri anteriormente ainda estiver aberto, precisarei clicar em [Destruir Masmorra] para fechá-lo e entrar novamente.</FONT>",
         "es": "[Einhar]\n<FONT COLOR = FF0000>Si el pasadizo que te abrí antes sigue abierto, presiona [Destruir mazmorra] para cerrarlo y vuelve a entrar.</FONT>"
     },
     "ukuBDA": {
@@ -746,13 +746,13 @@
     "vEuBDA": {
         "ko": "[에인하르]\n그렇습니다. 이것은 신의 품으로 돌아오는 과정입니다.\n반복되는 구마행은 앞으로의 일상이 될 터. 거기에 익숙해지실 필요가 있습니다.",
         "en": "[Einhar]\nYes. This is a part of the process of returning to His embrace.\nAs an Inquisitor, you'll have to exorcise evil creatures over and over again. You have to get used to it.",
-        "pt": "[Einhar]\nSim. Este é o processo de retorno ao seio de Deus.\nA repetição dos rituais de exorcismo se tornará o teu dia a dia daqui em diante. Precisas te acostumar com isso.",
+        "pt": "[Einhar]\nSim. Este é o processo de retorno à graça de Deus.\nA repetição dos rituais de exorcismo se tornará o teu dia a dia daqui em diante. Precisas te acostumar com isso.",
         "es": "[Einhar]\nAsí es. Este es el proceso para regresar al seno de los dioses.\nLas repetidas exorcismos se convertirán en tu rutina diaria. Necesitas acostumbrarte a eso."
     },
     "vUuBDA": {
         "ko": "[에인하르]\n<B>한 번 더</B>, 지하결계 안의 괴물을 퇴치해 주시기 바랍니다.\n다시 통로를 열어 드리겠습니다.",
         "en": "[Einhar]\n<B>One more time</B>, please defeat the monster in the underground ward.\nI will open the passage again for you.",
-        "pt": "[Einhar]\n<B>Mais uma vez</B>, por favor, derrota os monstros dentro do feitiço subterrâneo.\nVou abrir o corredor novamente para você.",
+        "pt": "[Einhar]\n<B>Mais uma vez</B>, por favor, derrote os monstros dentro do feitiço subterrâneo.\nVou abrir o corredor novamente para você.",
         "es": "[Einhar]\n<B>Una vez más</B>, por favor, derrota a los monstruos dentro del barrier subterráneo.\nTe volveré a abrir el pasaje."
     },
     "vkuBDA": {
@@ -776,7 +776,7 @@
     "wUuBDA": {
         "ko": "[에인하르]\n지금 그만두면 아무 것도 이룰 수 없습니다.\n지금까지 한 일도 전부 무로 돌아갑니다. 그러니 계속 힘내 주십시오.",
         "en": "[Einhar]\nIf you quit now, you won't achieve anything.\nEverything you've done so far will go to waste. Please be resolute and carry on.",
-        "pt": "[Einhar]\nSe desistires agora, não conseguirás nada.\nTudo o que fizeste até agora será em vão. Por isso, continua a dar o teu melhor.",
+        "pt": "[Einhar]\nSe desistires agora, não conseguirás nada.\nTudo o que fizeste até agora será em vão. Por isso, continue dando o seu melhor.",
         "es": "[Einhar]\nSi lo dejas ahora, no lograrás nada.\nTodo lo que has hecho hasta ahora se echará a perder. Así que sigue esforzándote."
     },
     "wkuBDA": {
@@ -794,13 +794,13 @@
     "xEuBDA": {
         "ko": "[에인하르]\n이것은 신의 품으로 돌아오는 과정입니다.\n반복되는 구마행은 앞으로의 일상이 될 터. 거기에 익숙해지실 필요가 있습니다.",
         "en": "[Einhar]\nThis is part of the process of returning to His embrace.\nRepeated exorcisms will become your daily routine. You must get used to it.",
-        "pt": "[Einhar]\nEste é o processo de voltar para o seio de Deus.\nAs missões de exorcismo repetitivas se tornarão o teu dia a dia daqui para frente. Precisas te acostumar com isso.",
+        "pt": "[Einhar]\nEste é o processo para voltar à graça de Deus.\nAs recorrentes missões de exorcismo se tornarão a sua rotina daqui para frente. Precisará se acostumar com isso.",
         "es": "[Einhar]\nEste es el proceso de regresar al seno de los dioses.\nLas expediciones de exorcismo repetidas se convertirán en tu rutina diaria. Necesitas acostumbrarte a eso."
     },
     "xUuBDA": {
         "ko": "[에인하르]\n흉악한 괴물을 퇴치하시는 모습을 잘 보았습니다. 무용이 눈부시게 빛나는군요.\n그렇다면 <B>다시 한 번</B>……,",
         "en": "[Einhar]\nI witnessed your defeat of that heinous monster. Your skill shines brilliantly.\nThen, <B>once more</B>……,",
-        "pt": "[Einhar]\nVi bem como derrotaste aquele monstro terrível. A tua destreza brilha de forma deslumbrante.\nEntão, <B>mais uma vez</B>……,",
+        "pt": "[Einhar]\nVi bem como derrotaste aquele monstro terrível. A sua destreza brilha de forma deslumbrante.\nEntão, <B>mais uma vez</B>……,",
         "es": "[Einhar]\nHe visto bien cómo derrotas a ese monstruo atroz. Tu destreza brilla de manera deslumbrante.\nEntonces, <B>una vez más</B>……,"
     },
     "xkuBDA": {
@@ -812,13 +812,13 @@
     "x0uBDA": {
         "ko": "[세량]\n그것 참, 에인하르. 새로운 인퀴지터를 환영하고 있지 않은가?\n이제 시험은 충분한 것을. 왜 감추고 괴롭히는 걸까?",
         "en": "[Seriang]\nSheesh, Einhar. Welcome the new Inquisitor already.\nThey've proved themselves plenty. Why are you torturing them?",
-        "pt": "[Se-ryang]\nOra, Einhar. Não estarias dando as boas-vindas a um novo Inquisidor?\nAcho que já deu o suficiente de provas. Por que ficar escondendo e me atormentando?",
+        "pt": "[Seriang]\nOra, Einhar. Dê logo as boas-vindas ao novo Inquisidor!\nAcho que ele já se provou o suficiente. Por que ficar atormentando tanto?",
         "es": "[Seryang]\nVaya, Einhar. ¿No estás dando la bienvenida a un nuevo inquisidor?\nYa ha habido suficiente prueba. ¿Por qué te escondes y me atormentas?"
     },
     "yEuBDA": {
         "ko": "[에인하르]\n……다시 한 번이라고 말하고 싶지만, 시험은 여기까지입니다.\n괴롭히다니오. 그저 단단한 마음을 한 번 더 확인하고자 하는 일입니다, 세량.",
         "en": "[Einhar]\n...I'd like to say one more time, but the test ends here.\nTorture? No. I just wanted to check their firmness of heart one more time, Seriang.",
-        "pt": "[Einhar]\n……Gostaria de dizer “mais uma vez”, mas o teste termina por aqui.\nAtormentar? É apenas para confirmar mais uma vez a firmeza do teu coração, Se-ryang.",
+        "pt": "[Einhar]\n……Gostaria de dizer “mais uma vez”, mas o teste termina por aqui.\nAtormentar? É apenas para confirmar mais uma vez a convicção no coração deles, Seriang.",
         "es": "[Einhar]\n……Me gustaría decir «otra vez», pero la prueba termina aquí.\n¿Que lo estoy atormentando? Solo quiero confirmar una vez más que tienes un corazón firme, Se-ryang."
     },
     "yUuBDA": {
@@ -830,7 +830,7 @@
     "ykuBDA": {
         "ko": "[에인하르]\n그리고 이곳, 성 카피톨리나 수도원에서 봉인된 몬스터를 거듭 쓰러트리는 모습을 보며 당신의 의지와 오딘을 향한 굳건한 마음을 확인했습니다.",
         "en": "[Einhar]\nAnd here, at St. Capitolina Abbey, I witnessed your repeated defeats of the sealed monster, confirming your will and your steadfast devotion to Odin.",
-        "pt": "[Einhar]\nE aqui, no Mosteiro de Santa Capitolina, ao ver-te derrotar repetidamente os monstros selados, confirmei a tua determinação e o teu coração firme voltado para Odin.",
+        "pt": "[Einhar]\nE aqui, na Abadia de Santa Capitolina, ao ver-te derrotar repetidamente os monstros selados, confirmei a tua determinação e o teu coração firme voltado para Odin.",
         "es": "[Einhar]\nY al ver cómo derrotabas una y otra vez a los monstruos sellados aquí, en el monasterio de Santa Capitolina, he comprobado tu voluntad y tu firme devoción por Odín."
     },
     "y0uBDA": {
@@ -842,43 +842,43 @@
     "zEuBDA": {
         "ko": "[에인하르]\n몸과 마음을 지나치게 무겁지 않도록 정돈하고, 탈것에서 내린 뒤 다시 오도록 하십시오.\n아직 수라로서 덜 한 일이나 하지 못한 수행이 있다면 모두 완료하고 오시기 바랍니다.",
         "en": "[Einhar]\nLighten your mind and body, dismount, and then return.\nIf you still have unfinished business or uncompleted training as a Sura, please complete it all before returning.",
-        "pt": "[Einhar]\nOrganiza-te para que teu corpo e tua mente não fiquem excessivamente pesados, desce da montaria e volta aqui.\nSe ainda houver alguma tarefa que não tenhas cumprido ou algum treino que não tenhas concluído como Sura, conclui tudo e volta.",
+        "pt": "[Einhar]\nLimpe seu corpo e sua mente para que não fiquem excessivamente pesados, desça de sua montaria e então retorne.\nSe ainda houver alguma tarefa que não tenhas cumprido ou algum treino que não tenhas concluído como Shura, conclua e retorne.",
         "es": "[Einhar]\nPrepárate, sin que tu cuerpo ni tu mente estén demasiado agobiados, baja de tu montura y vuelve aquí.\nSi aún te quedan tareas pendientes o prácticas que no hayas completado como sura, termina con todo eso antes de regresar."
     },
     "zUuBDA": {
         "ko": "[에인하르]\n그 후에 제게 돌아오십시오. 의식을 시행하도록 하겠습니다.",
         "en": "[Einhar]\nAfter that, please return to me. I will perform the ceremony.",
-        "pt": "[Einhar]\nDepois disso, volta até mim. Vou realizar a cerimônia.",
+        "pt": "[Einhar]\nDepois disso, volte até mim. Irei realizar a cerimônia.",
         "es": "[Einhar]\nDespués de eso, regresen conmigo. Procederé a llevar a cabo la ceremonia."
     },
     "zkuBDA": {
         "ko": "[에인하르]\n시험은 종료입니다. 자, 몸과 마음을 지나치게 무겁지 않도록 정돈하고, 탈것에서 내린 뒤 저에게 다시 오십시오.\n아직 수라로서 덜 한 일이나 하지 못한 수행이 있다면 모두 완료하고 오시기 바랍니다.",
         "en": "[Einhar]\nThe test is over. Now, lighten your mind and body, dismount, and come back to me.\nIf you still have things to do as a Sura, please complete them as well.",
-        "pt": "[Einhar]\nO teste está encerrado. Agora, organize-se para que seu corpo e sua mente não fiquem excessivamente pesados, desça do seu meio de transporte e volte até mim.\nSe ainda houver alguma tarefa pendente ou prática que não tenha sido realizada como Sura, conclua tudo e volte.",
+        "pt": "[Einhar]\nO teste está encerrado. Agora, limpe seu corpo e sua mente para que não fiquem excessivamente pesados, desça de sua montaria e retorne para mim.\nSe ainda houver alguma tarefa pendente ou prática que não tenha sido realizada como Shura, conclua primeiro e retorne.",
         "es": "[Einhar]\nLa prueba ha terminado. Bueno, ordena tu cuerpo y tu mente para que no estén demasiado cargados, baja de tu montura y vuelve a verme.\nSi aún te queda algo por hacer o alguna tarea sin completar como Asura, termina todo eso antes de venir."
     },
     "z0uBDA": {
         "ko": "[에인하르]\n그럼, 수도원 지하결계 안으로 안내하도록 하겠습니다.",
         "en": "[Einhar]\nThen, let me guide you to the underground ward in the abbey.",
-        "pt": "[Einhar]\nEntão, vou te guiar até o interior do campo de força subterrâneo do mosteiro.",
+        "pt": "[Einhar]\nEntão, vou te guiar até o interior do campo de força subterrâneo da abadia.",
         "es": "[Einhar]\nEntonces, te guiaré al interior del barrier subterráneo del monasterio."
     },
     "0EuBDA": {
         "ko": "지하결계 입장 신청",
         "en": "Request to enter the underground ward",
-        "pt": "Solicitação de entrada na barreira subterrânea",
+        "pt": "Solicitação para entrada na barreira subterrânea",
         "es": "Solicitud de ingreso al recinto subterráneo"
     },
     "0UuBDA": {
         "ko": "지하결계 입장",
         "en": "Enter the Underground Ward",
-        "pt": "Entrada na Barreira Subterrânea",
+        "pt": "Entrar na Barreira Subterrânea",
         "es": "Entrar al recinto subterráneo"
     },
     "0kuBDA": {
         "ko": "수도원 지하결계",
         "en": "Abbey Underground Ward",
-        "pt": "Barreira subterrânea do mosteiro",
+        "pt": "Barreira Subterrânea da Abadia",
         "es": "Barrera subterránea del monasterio"
     },
     "00uBDA": {
@@ -890,19 +890,19 @@
     "1EuBDA": {
         "ko": "[에인하르]\n1인 파티의 파티장만 입장을 신청할 수 있습니다.\n파티를 결성한 뒤 다시 시도해주시기 바랍니다.",
         "en": "[Einhar]\nOnly the leader of a party of 1 can apply to enter.\nPlease form a party first.",
-        "pt": "[Einhar]\nApenas o líder do grupo de 1 pessoa pode solicitar a entrada.\nForma um grupo e tenta novamente.",
+        "pt": "[Einhar]\nApenas o líder do grupo pode solicitar a entrada.\nForme um grupo e tente novamente.",
         "es": "[Einhar]\nSolo el líder de un grupo de 1 persona puede solicitar la entrada.\nForma un grupo y vuelve a intentarlo."
     },
     "1UuBDA": {
         "ko": "[에인하르]\n신청에 실패하였습니다. 잠시 후 다시 시도해 주시기 바랍니다.",
         "en": "[Einhar]\nRequest failed. Please try again later.",
-        "pt": "[Einhar]\nA solicitação falhou. Tenta novamente daqui a pouco.",
+        "pt": "[Einhar]\nA solicitação falhou. Tente novamente daqui a pouco.",
         "es": "[Einhar]\nLa solicitud ha fallado. Inténtalo de nuevo en unos momentos."
     },
     "1kuBDA": {
         "ko": "[에인하르]\n신청에 성공하였습니다. '지하결계 입장'을 선택해 입장해 주십시오.",
         "en": "[Einhar]\nYour application was successful. Please select 'Enter Underground Realm' to proceed.",
-        "pt": "[Einhar]\nA solicitação foi bem-sucedida. Seleciona “Entrar na Barreira Subterrânea” para entrar.",
+        "pt": "[Einhar]\nA solicitação foi bem-sucedida. Selecione “Entrar na Barreira Subterrânea” para entrar.",
         "es": "[Einhar]\nLa solicitud se ha realizado con éxito. Selecciona «Entrar al recinto subterráneo» para acceder."
     },
     "10uBDA": {
@@ -914,43 +914,43 @@
     "2EuBDA": {
         "ko": "[에인하르]\n파티장이 메모리얼 던전을 생성하여야 입장할 수 있습니다. 다시 한 번 확인해보시기 바랍니다.",
         "en": "[Einhar]\nYou can only enter this Memorial Dungeon after your party leader created it. Please check again.",
-        "pt": "[Einhar]\nO líder do grupo precisa criar a Masmorra Memorial para que possas entrar. Verifica novamente.",
+        "pt": "[Einhar]\nO líder do grupo precisa criar a Masmorra Memorial para que possa entrar. Verifique novamente.",
         "es": "[Einhar]\nEl líder del grupo debe crear la mazmorra conmemorativa para poder entrar. Por favor, compruébalo de nuevo."
     },
     "2UuBDA": {
         "ko": "[에인하르]\n메모리얼 던전이 생성되지 않았습니다. 다시 한 번 시도해주시기 바랍니다.",
         "en": "[Einhar]\nNo Memorial Dungeon exists. Please try again.",
-        "pt": "[Einhar]\nA Masmorra Memorial não foi criada. Tenta novamente, por favor.",
+        "pt": "[Einhar]\nA Masmorra Memorial não foi criada. Tente novamente, por favor.",
         "es": "[Einhar]\nNo se ha creado la mazmorra conmemorativa. Inténtalo de nuevo."
     },
     "2kuBDA": {
         "ko": "[에인하르]\n알 수 없는 오류가 발생했습니다. 다시 한 번 시도해주시기 바랍니다.",
         "en": "[Einhar]\nAn unknown error occurred. Please try again.",
-        "pt": "[Einhar]\nOcorreu um erro desconhecido. Tenta novamente, por favor.",
+        "pt": "[Einhar]\nOcorreu um erro desconhecido. Tente novamente, por favor.",
         "es": "[Einhar]\nSe ha producido un error desconocido. Inténtalo de nuevo."
     },
     "20uBDA": {
         "ko": "[에인하르]\n예외 상황이 발생했습니다. 다시 한 번 시도해주시기 바랍니다.\n같은 안내가 반복될 경우, 스크린샷을 찍어 운영팀에 문의해주세요.",
         "en": "[Einhar]\nAn exceptional situation occurred. Please try again.\nIf this persists, please take a screenshot and contact the Operation Team.",
-        "pt": "[Einhar]\nOcorreu uma situação excepcional. Por favor, tente novamente.\nSe essa mensagem continuar aparecendo, tira uma captura de tela e entra em contato com a equipe de suporte.",
+        "pt": "[Einhar]\nOcorreu uma situação inesperada. Por favor, tente novamente.\nSe essa mensagem continuar aparecendo, tire uma captura de tela e entre em contato com a equipe de suporte.",
         "es": "[Einhar]\nSe ha producido un error. Inténtalo de nuevo.\nSi sigue apareciendo este mensaje, haz una captura de pantalla y ponte en contacto con el equipo de soporte."
     },
     "3EuBDA": {
         "ko": "[에인하르]\n가방이 가득 찼습니다. 몸과 마음을 지나치게 무겁지 않도록 정돈하고 돌아오십시오.",
         "en": "[에인하르]\nYour bag is full. Please lighten your mind and body first.",
-        "pt": "[Einhar]\nA mochila está cheia. Organize-se para não sobrecarregar o corpo e a mente e volte depois.",
+        "pt": "[Einhar]\nA mochila está cheia. Alivie sua mente e o seu corpo primeiro e tente novamente.",
         "es": "[Einhar]\nTu mochila está llena. Ordena tus cosas para que no te pesen demasiado el cuerpo y la mente, y luego regresa."
     },
     "3UuBDA": {
         "ko": "[에인하르]\n스킬 포인트가 남았습니다. 수라로서 못다한 수련이 있다면 모두 완료한 뒤 다시 와 주십시오.",
         "en": "[Einhar]\nYou still have unused Skill Points. Please finish your training as a Sura, and then come back.",
-        "pt": "[Einhar]\nAinda sobraram pontos de habilidade. Se houver algum treino que não tenhas concluído como Sura, termina tudo e volta depois.",
+        "pt": "[Einhar]\nAinda sobraram pontos de habilidade. Se houver algum treino que não tenhas concluído como Shura, finalize e retorne depois.",
         "es": "[Einhar]\nTe sobran puntos de habilidad. Si como Sura tienes algún entrenamiento pendiente, complétalo todo y vuelve después."
     },
     "3kuBDA": {
         "ko": "[에인하르]\n탈것에서 내려 주십시오. 경건한 마음으로 임해 주시기 바랍니다.",
         "en": "[Einhar]\nPlease dismount. Approach this with reverence.",
-        "pt": "[Einhar]\nDesça do seu meio de transporte. Por favor, encare isso com um coração reverente.",
+        "pt": "[Einhar]\nDesça de sua montaria. Por favor, encare isso com um coração reverente.",
         "es": "[Einahar]\nBájate de tu montura. Te pido que te prepares con un espíritu reverente."
     },
     "30uBDA": {
@@ -962,7 +962,7 @@
     "4EuBDA": {
         "ko": "[에인하르]\n주신 오딘이시여. 여기에 {0}, 인퀴지터로 거듭나고자 하는 한 명의 수라가 있습니다.",
         "en": "[Einhar]\nDear Odin, here stands {0}, the Sura who would like to be reborn as an Inquisitor.",
-        "pt": "[Einhar]\nÓ deus Odin. Aqui está {0}, um sura que deseja renascer como Inquisidor.",
+        "pt": "[Einhar]\nÓ deus Odin. Aqui está {0}, um Shura que deseja renascer como Inquisidor.",
         "es": "[Einhar]\nOh, Odín, nuestro dios. Aquí se encuentra {0}, un sura que desea renacer como inquisidor."
     },
     "4UuBDA": {
@@ -998,7 +998,7 @@
     "5kuBDA": {
         "ko": "[에인하르]\n여기, 성장의 증표로 <ITEM>[모래시계 목걸이]<INFO>490087</INFO></ITEM> 하나를 선물해 드리겠습니다.\n새로이 신의 길을 걷고자 하는 당신에게 도움이 될 것입니다.",
         "en": "[Einhar]\nHere, let me give you this <ITEM>[Hourglass Necklace]<INFO>490087</INFO></ITEM> as a token of your growth.\nIt will be of help to you as you walk the path of the gods anew.",
-        "pt": "[Einhar]\nAqui, como símbolo de crescimento, vou te dar de presente um <ITEM>[Colar Relógio de Areia]<INFO>490087</INFO></ITEM>.\nIsso vai te ajudar agora que você está começando a trilhar o caminho dos deuses.",
+        "pt": "[Einhar]\nAqui, como símbolo de crescimento, vou te dar de presente um <ITEM>[Colar de Ampulheta]<INFO>490087</INFO></ITEM>.\nIsso vai te ajudar agora que você está começando a trilhar o caminho dos deuses.",
         "es": "[Einhar]\nToma, como muestra de tu crecimiento, te regalo un <ITEM>[Collar de reloj de arena]<INFO>490087</INFO></ITEM>.\nTe será de ayuda en tu nuevo camino hacia los dioses."
     },
     "50uBDA": {
@@ -1016,91 +1016,91 @@
     "6UuBDA": {
         "ko": "[세량]\n훌륭한 인퀴지터가 되어 주었을까? 이제 앞으로 나아갈 일만 남았네!",
         "en": "[Seriang]\nHave you become a fine Inquisitor? Now, all that's left is to move forward!",
-        "pt": "[Seryang]\nSerá que você se tornou um excelente Inquisidor? Agora só resta seguir em frente!",
+        "pt": "[Seriang]\nSerá que você se tornou um excelente Inquisidor? Agora só resta seguir em frente!",
         "es": "[Seryang]\n¿Te has convertido en un gran inquisidor? ¡Ahora solo queda seguir adelante!"
     },
     "6kuBDA": {
         "ko": "[세량]\n상담하고 싶은 게 있을까? 그러면 언제든 에인하르에게 오면 되는 거야!",
         "en": "[Seriang]\nIs there anything you want to talk about? Then you can come see Einhar anytime!",
-        "pt": "[Seryang]\nTem algo que queiras conversar? Então, é só vir falar com o Einhar quando quiseres!",
+        "pt": "[Seriang]\nTem algo que queiras conversar? Então, é só vir falar com o Einhar quando quiseres!",
         "es": "[Seryang]\n¿Hay algo de lo que quieras hablar? ¡Pues ven a ver a Einhar cuando quieras!"
     },
     "60uBDA": {
         "ko": "[세량]\n세량이와는, 으흠! 언젠가 인연이 된다면 다시 만날 수 있겠지!",
         "en": "[Seriang]\nSeriang, hmm! If we're meant to be, we'll meet again someday!",
-        "pt": "[Se-ryang]\nCom Se-ryang... hum! Se algum dia nosso caminho se cruzar, com certeza nos encontraremos de novo!",
+        "pt": "[Seriang]\nCom Seriang... hum! Se algum dia nosso caminho se cruzar, com certeza nos encontraremos de novo!",
         "es": "[Seryang]\n¡Con Seryang, ejem! ¡Si algún día el destino nos une, nos volveremos a ver!"
     },
     "7EuBDA": {
         "ko": "[세량]\n아직 실천의 시험을 전부 완료하지 않은 걸까?\n바깥에서는 긴장을 풀고 충분히 쉬도록 해.",
         "en": "[Seriang]\nHave you completed your execution test yet?\nWhen you're outside, you should relax and take rest.",
-        "pt": "[Se-ryang]\nAinda não concluíste todas as provas práticas?\nLá fora, relaxa e descansa bastante.",
+        "pt": "[Seriang]\nAinda não concluíste todas as provas práticas?\nLá fora, relaxa e descansa bastante.",
         "es": "[Seryang]\n¿Aún no has completado todas las pruebas prácticas?\nAfuera, relájate y descansa lo suficiente."
     },
     "7UuBDA": {
         "ko": "[세량]\n지하에서 울리는 저 울음소리가 괴이의 흉포함을 짐작하게 해 주지.\n그러나 잘 이겨내고 돌아왔구나, 그대!",
         "en": "[Seriang]\nYou can tell how heinous this monster is by the sound of its howls coming from the basement.\nGood job beating it!",
-        "pt": "[Se-ryang]\nAquele choro que ressoa no subterrâneo dá uma ideia da ferocidade daquela criatura.\nMas você superou tudo e voltou, não é mesmo?",
+        "pt": "[Seriang]\nAquele choro que ressoa no subterrâneo dá uma ideia da ferocidade daquela criatura.\nMas você superou tudo e voltou, não é mesmo?",
         "es": "[Seryang]\nEsos gemidos que resuenan en el subsuelo dan una idea de lo feroz que es esa criatura.\n¡Pero has salido adelante y has regresado, amigo!"
     },
     "7kuBDA": {
         "ko": "[세량]\n지하에서 울리는 울음소리가 저 괴이의 흉포함을 짐작하게 해 주지.\n그러나 잘 이겨내고 돌아왔구나, 그대!",
         "en": "[Seriang]\nThe howls echoing from the basement give you a sense of that monster's savagery.\nBut you've overcome it and returned, my friend!",
-        "pt": "[Se-ryang]\nO choro que ressoa no subterrâneo dá uma ideia da ferocidade daquela criatura.\nMas você superou tudo isso e voltou, não é mesmo?",
-        "es": "[Se-ryang]\nLos gemidos que resuenan en el subsuelo dan una idea de lo feroz que es esa bestia.\n¡Pero has logrado vencerla y has regresado, amigo!"
+        "pt": "[Seriang]\nO choro que ressoa no subterrâneo dá uma ideia da ferocidade daquela criatura.\nMas você superou tudo isso e voltou, não é mesmo?",
+        "es": "[Seriang]\nLos gemidos que resuenan en el subsuelo dan una idea de lo feroz que es esa bestia.\n¡Pero has logrado vencerla y has regresado, amigo!"
     },
     "70uBDA": {
         "ko": "[세량]\n아직 실천의 시험을 전부 완료하지 않은 걸까?\n다시 도전하려면 에인하르에게 이야기하면 돼.",
         "en": "[Seriang]\nHave you completed your execution test yet?\nIf you want to try again, please talk to Einhar.",
-        "pt": "[Se-ryang]\nAinda não completaste todas as provas práticas?\nSe quiseres tentar de novo, é só falar com Einhar.",
+        "pt": "[Seriang]\nAinda não completaste todas as provas práticas?\nSe quiseres tentar de novo, é só falar com Einhar.",
         "es": "[Seryang]\n¿Acaso aún no has completado todas las pruebas prácticas?\nSi quieres volver a intentarlo, solo tienes que hablar con Einhar."
     },
     "8EuBDA": {
         "ko": "[세량]\n그대의 솜씨를 견식하고 싶지만, 으흠. 세량이는 지하결계에 함부로 접근할 수 없어.\n대부분은 존재조차 모르는 결계거든.",
         "en": "[Seriang]\nI'd love to watch you fight, but mm... Seriang is not allowed to get close to the underground ward.\nMost people don't even know about this ward.",
-        "pt": "[Se-ryang]\nGostaria de ver o teu talento, mas... bem. Se-ryang não pode se aproximar do Barreira Subterrânea sem mais nem menos.\nAfinal, a maioria das pessoas nem sabe que ela existe.",
-        "es": "[Se-ryang]\nMe gustaría ver de qué estás hecho, pero... eh... Se-ryang no puede acercarse sin más al barrier subterráneo.\nEs un barrier que la mayoría ni siquiera sabe que existe."
+        "pt": "[Seriang]\nGostaria de ver o teu talento, mas... bem. Seriang não pode se aproximar do Barreira Subterrânea sem mais nem menos.\nAfinal, a maioria das pessoas nem sabe que ela existe.",
+        "es": "[Seriang]\nMe gustaría ver de qué estás hecho, pero... eh... Se-ryang no puede acercarse sin más al barrier subterráneo.\nEs un barrier que la mayoría ni siquiera sabe que existe."
     },
     "8UuBDA": {
         "ko": "[세량]\n에인하르가 얼마나 이 시험에 기대를 걸고 있는지 알겠지?\n물론 그 시험을 치르고 있는 그대에게 말이야!",
         "en": "[Seriang]\nThat should tell you how much Einhar is counting on this test.\nAnd how high his expectations are for you!",
-        "pt": "[Se-ryang]\nVocê deve saber o quanto Einhar está apostando nessa prova, não é?\nClaro, estou falando com você, que está prestando essa prova!",
+        "pt": "[Seriang]\nVocê deve saber o quanto Einhar está apostando nessa prova, não é?\nClaro, estou falando com você, que está prestando essa prova!",
         "es": "[Seryang]\n¿Te das cuenta de lo mucho que Einhar espera de esta prueba?\n¡Claro que te lo digo a ti, que estás en medio de ella!"
     },
     "8kuBDA": {
         "ko": "[세량]\n그대의 솜씨를 견식하고 싶지만, 으흠. 세량이는 결계에 함부로 접근할 수 없어.\n대부분은 존재조차 모르는 결계거든.",
         "en": "[Seriang]\nI'd love to watch you fight, but mm... Seriang is not allowed to get close to the ward.\nMost people don't even know about this ward.",
-        "pt": "[Se-ryang]\nGostaria de ver como você se sai, mas... bem. Se-ryang não pode simplesmente entrar na barreira.\nAfinal, a maioria das pessoas nem sabe que ela existe.",
+        "pt": "[Seriang]\nGostaria de ver como você se sai, mas... bem. Seriang não pode simplesmente entrar na barreira.\nAfinal, a maioria das pessoas nem sabe que ela existe.",
         "es": "[Seryang]\nMe gustaría ver de qué estás hecho, pero... ejem. Seryang no puede acercarse a las barreras sin más.\nLa mayoría ni siquiera sabe que existen."
     },
     "80uBDA": {
         "ko": "[세량]\n아직 실천의 시험을 전부 완료하지 않은 걸까?\n전부 완료하고 나면 비로소 인퀴지터가 되는 거지!",
         "en": "[Seriang]\nHave you completed your execution test yet?\nHurry. You can be an Inquisitor after this!",
-        "pt": "[Se-ryang]\nAinda não terminaste todas as provas práticas?\nSó depois de terminar tudo é que te tornas um Inquisidor!",
+        "pt": "[Seriang]\nAinda não terminaste todas as provas práticas?\nSó depois de terminar tudo é que te tornas um Inquisidor!",
         "es": "[Seryang]\n¿Acaso aún no has completado todas las pruebas prácticas?\n¡Solo cuando las hayas completado todas te convertirás en Inquisidor!"
     },
     "9EuBDA": {
         "ko": "[세량]\n이제는 인퀴지터의 의식만이 남았구나.\n진중하고도 유쾌하게 평생 남을 기억이 될 그 순간을 맞이하도록 해.",
         "en": "[Seriang]\nNow, only the Inquisitor's ceremony remains.\nPrepare to meet that solemn and unforgettable moment with both gravity and joy.",
-        "pt": "[Se-ryang]\nAgora só falta a cerimônia de Inquisidor.\nVive esse momento com seriedade e alegria, para que ele se torne uma lembrança para toda a vida.",
+        "pt": "[Seriang]\nAgora só falta a cerimônia de Inquisidor.\nViva esse momento com seriedade e alegria, para que ele se torne uma lembrança para toda a vida.",
         "es": "[Seryang]\nAhora solo queda la ceremonia de Inquisidor.\nPrepárate para vivir ese momento, que será un recuerdo imborrable, a la vez solemne y divertido."
     },
     "9UuBDA": {
         "ko": "[세량]\n나도 에인하르 곁에서 인퀴지터가 되는 의식을 보좌하고 있어\n긴 여행자 생활의 몇 안되는 즐거움 중 하나지!",
         "en": "[Seriang]\nI too assist Einhar in the Inquisitor appointment ceremony.\nIt's one of the few things I get to enjoy while on this long journey.",
-        "pt": "[Se-ryang]\nEu também estou ao lado de Einhar, auxiliando no ritual de iniciação como Inquisidor.\nÉ uma das poucas alegrias da minha longa vida de viajante!",
-        "es": "[Se-ryang]\nYo también estoy junto a Einhar, ayudando en la ceremonia de convertirte en Inquisidor.\n¡Es uno de los pocos placeres de mi larga vida como viajero!"
+        "pt": "[Seriang]\nEu também estou ao lado de Einhar, auxiliando no ritual de iniciação como Inquisidor.\nÉ uma das poucas alegrias da minha longa vida de viajante!",
+        "es": "[Seriang]\nYo también estoy junto a Einhar, ayudando en la ceremonia de convertirte en Inquisidor.\n¡Es uno de los pocos placeres de mi larga vida como viajero!"
     },
     "9kuBDA": {
         "ko": "[세량]\n환영한다! 그대, 이제 곧 인퀴지터의 일원이로군!\n잘 부탁하네, 후배님!",
         "en": "[Seriang]\nWelcome! Soon, you'll be one of us.\nI'll be counting on you, successor!",
-        "pt": "[Se-ryang]\nSeja bem-vindo! Você está prestes a se tornar um membro da Ordem dos Inquisidores!\nConto com você, novato!",
-        "es": "[Se-ryang]\n¡Bienvenido! ¡Ya casi eres parte de los Inquisidores!\n¡Cuídate, novato!"
+        "pt": "[Seriang]\nSeja bem-vindo! Você está prestes a se tornar um membro da Ordem dos Inquisidores!\nConto com você, novato!",
+        "es": "[Seriang]\n¡Bienvenido! ¡Ya casi eres parte de los Inquisidores!\n¡Cuídate, novato!"
     },
     "90uBDA": {
         "ko": "[세량]\n프론테라에 간다면 프론테라 여관에 묵어보도록 해. 시설도 좋고, 밥도 맛잇거든!",
         "en": "[Seriang]\nIf you go to Prontera, I recommend you stay at the Prontera Inn. It's got clean rooms and delicious food!",
-        "pt": "[Se-ryang]\nSe fores a Frontera, tenta ficar na pousada de Frontera. As instalações são ótimas e a comida é deliciosa!",
-        "es": "[Seryang]\nSi vas a Frontera, prueba a quedarte en la posada de Frontera. ¡Las instalaciones son buenas y la comida está deliciosa!"
+        "pt": "[Seriang]\nSe fores a Prontera, recomendo ficar na pousada de Prontera. As instalações são ótimas e a comida é deliciosa!",
+        "es": "[Seryang]\nSi vas a Prontera, prueba a quedarte en la posada de Prontera. ¡Las instalaciones son buenas y la comida está deliciosa!"
     }
 }

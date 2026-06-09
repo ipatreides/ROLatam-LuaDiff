@@ -2,13 +2,13 @@
     "ANRlDA": {
         "ko": "^0000FF드래곤의 흔적이 느껴지는 결계가 뒤로 통하는 문을 단단히 막고있다.^000000",
         "en": "^0000FFA barrier imbued with traces of a dragon firmly seals the door leading to the rear.^000000",
-        "pt": "^0000FFUm feitiço com vestígios de dragão bloqueia firmemente a porta que leva para trás.^000000",
+        "pt": "^0000FFUm feitiço com vestígios de dragão bloqueia firmemente a porta que leva para os fundos.^000000",
         "es": "^0000FFUn hechizo con rasgos de dragón bloquea firmemente la puerta que conduce a la parte trasera.^000000"
     },
     "AdRlDA": {
         "ko": "[시간의 관리자]\nUI 오픈\n쿨타임관리",
         "en": "[Time Controller]\nUI Open\nCooldown Management",
-        "pt": "[Administrador do Tempo]\nAbrir UI\nGerenciamento de tempo de recarga",
+        "pt": "[Administrador do Tempo]\nAbrir interface\nGerenciamento de tempo de recarga",
         "es": "[Administrador del tiempo]\nAbrir interfaz\nGestión de tiempos de espera"
     },
     "AtRlDA": {
@@ -39,19 +39,19 @@
         "ko": "<식사 중>",
         "en": "<Out for Lunch>",
         "pt": "<Almoçando>",
-        "es": "<Comiendo>"
+        "es": "<Almorzando>"
     },
     "B9RlDA": {
         "ko": "[오스카의 알림판]\n배가 고파서 잠시 자리를 비웁니다. 용건이 있으신분은 죄송하지만 며칠뒤에 다시 와주세요.",
         "en": "[Oscar's Notice Board]\nI'm out for lunch. If you have any business with me, please come back in a few days.",
-        "pt": "[Quadro de avisos do Oscar]\nEstou com fome, por isso vou me ausentar por um tempo. Se você tiver algum assunto urgente, desculpa, mas volta daqui a alguns dias.",
+        "pt": "[Quadro de avisos do Oscar]\nSaí para almoçar. Se você tiver algum assunto urgente, desculpe mas volte daqui a alguns dias.",
         "es": "[Tablón de anuncios de Oscar]\nMe voy un rato porque tengo hambre. Si tienes algo que decirme, lo siento, pero vuelve dentro de unos días."
     },
     "CNRlDA": {
         "ko": "[?????]\n얘 넌 거기서 비비지 말고 나 좀 보자",
         "en": "[?????]\nHey, stop messing around over there and come talk to me.",
-        "pt": "[?????]\nEi, não fique aí parado, olha só pra mim",
-        "es": "[?????]\nOye, no te quedes ahí parado, ven a verme"
+        "pt": "[?????]\nEi, não fique aí parado, venha aqui.",
+        "es": "[?????]\nOye, no te quedes ahí, ven a verme."
     },
     "CdRlDA": {
         "ko": "오스카",
@@ -68,25 +68,25 @@
     "C9RlDA": {
         "ko": "^0000FF오스카는 당신의 존재감을 인지하지 못합니다.^000000",
         "en": "^0000FFOscar is not aware of your presence.^000000",
-        "pt": "^0000FFO Oscar não percebe a tua presença.^000000",
+        "pt": "^0000FFOscar não percebe a sua presença.^000000",
         "es": "^0000FFOscar no percibe tu presencia.^000000"
     },
     "DNRlDA": {
         "ko": "^0000FF오스카는 당신의 존재감을 인지하지 못합니다. 최소한 베이스 레벨 200까지 성장해야 할 것입니다.^000000",
         "en": "^0000FFOscar is not aware of your presence. You must reach Base Level 200 first.^000000",
-        "pt": "^0000FFOscar não percebe a tua presença. Precisas atingir pelo menos o nível básico 200.^000000",
+        "pt": "^0000FFOscar não percebe a sua presença. Você precisa alcançar pelo menos o nível de base 200.^000000",
         "es": "^0000FFOscar no se da cuenta de que estás ahí. Tendrás que subir al menos hasta el nivel base 200.^000000"
     },
     "DdRlDA": {
         "ko": "^0000FF오스카는 당신의 존재감을 인지하지 못합니다. 최소한 잡 레벨 70까지 성장해야 할 것입니다.^000000",
         "en": "^0000FFOscar is not aware of your presence. Please reach Job Level 70 first.^000000",
-        "pt": "^0000FFOscar não percebe a tua presença. Precisas atingir pelo menos o nível 70 de Job.^000000",
+        "pt": "^0000FFOscar não percebe a sua presença. Você precisa alcançar pelo menos o nível de classe 70.^000000",
         "es": "^0000FFOscar no detecta tu presencia. Tendrás que subir al menos hasta el nivel 70 de clase.^000000"
     },
     "DtRlDA": {
         "ko": "^0000FF해당 시험은 1인 파티로 진행해 주십시오.^000000",
         "en": "^0000FFPlease proceed with this test in a party of 1.^000000",
-        "pt": "^0000FFRealiza esta prova em um grupo de 1 pessoa.^000000",
+        "pt": "^0000FFRealize esta prova em um grupo de 1 pessoa.^000000",
         "es": "^0000FFRealiza esta prueba en un grupo de un solo jugador.^000000"
     },
     "D9RlDA": {
@@ -98,14 +98,14 @@
     "ENRlDA": {
         "ko": "[오스카]\n전 {0}씨의 시험 결과에 만족하고있어요. 레티시아의 평은 어떤지 모르겠지만 표정을 보니 나빠 보이진 않네요.",
         "en": "[Oscar]\nI'm satisfied with your test results, {0}. I don't know what Letizia thinks, but judging by the look on her face, I don't think it's bad.",
-        "pt": "[Oscar]\nEstou satisfeito com o resultado do teste do {0}. Não sei qual é a opinião da Letícia, mas, pelo que vejo na expressão dela, não parece nada mal.",
+        "pt": "[Oscar]\nEstou satisfeito com o resultado do seu teste, {0}. Não sei qual é a opinião da Letícia, mas, pelo que vejo na expressão dela, não é nada mau.",
         "es": "[Oscar]\nEstoy satisfecho con el resultado de tu prueba, {0}. No sé qué opinará Leticia, pero por su expresión no parece que esté molesta."
     },
     "EdRlDA": {
         "ko": "[오스카]\n저는 이 시험의 진행자이자 공증인으로서 {0} 씨가 우리의 동반자가 되는것에 찬성하는 쪽이예요.",
         "en": "[Oscar]\nAs the host and notary of this test, {0}, I'd love to have you in our midst.",
-        "pt": "[Oscar]\nComo condutor e testemunha deste teste, sou a favor de que o {0} se torne nosso companheiro.",
-        "es": "[Oscar]\nComo organizador y notario de esta prueba, estoy a favor de que {0} se convierta en nuestro compañero."
+        "pt": "[Oscar]\nComo condutor e testemunha deste teste, sou a favor de que {0} se junte a nós.",
+        "es": "[Oscar]\nComo organizador y notario de esta prueba, estoy a favor de que {0} se una a nosotros."
     },
     "EtRlDA": {
         "ko": "[오스카]\n이제 남은건 레티시아씨의 의견이군요.",
@@ -116,7 +116,7 @@
     "E9RlDA": {
         "ko": "[오스카]\n응? {0} 씨가 여기에?.",
         "en": "[Oscar]\nHuh? {0}? What are you doing here?",
-        "pt": "[Oscar]\nHã? O {0} está aqui?",
+        "pt": "[Oscar]\nHã? {0} está aqui?",
         "es": "[Oscar]\n¿Eh? ¿{0} estás aquí?"
     },
     "FNRlDA": {
@@ -128,14 +128,14 @@
     "FdRlDA": {
         "ko": "[오스카]\n아니, 저야 일하러 왔죠. 오늘 ^0000FF드래곤 나이트^000000의 후보자가 이곳을 방문한다는 계시를 받았거든요.",
         "en": "[Oscar]\nNo, I came to work. I received a revelation that a ^0000FFDragon Knight^000000 candidate would visit this place today.",
-        "pt": "[Oscar]\nAh, vim trabalhar. Recebi uma revelação de que hoje um candidato a ^0000FFCavaleiro Dragão^000000 visitaria este lugar.",
+        "pt": "[Oscar]\nAh, vim trabalhar. Recebi uma revelação de que hoje um candidato a ^0000FFCavaleiro Draconiano^000000 visitaria este lugar.",
         "es": "[Oscar]\nNo, yo vine a trabajar. Recibí una revelación de que hoy visitaría este lugar un candidato a ^0000FFCaballero Dragón^000000."
     },
     "FtRlDA": {
         "ko": "[오스카]\n흐릿한 환영을 본거라 누군지 식별은 하지 못했지만 오늘 이곳에 찾아올거라는 건 확실했거든요... {0}씨, ^0000FF드래곤 나이트^000000가 될 결심을 하고 오신거 맞죠?",
         "en": "[Oscar]\nI only saw a vague image of them, so I couldn't recognize who their face was. I knew they'd be here today, though. {0}, you came to become a ^0000FFDragon Knight^000000, right?",
-        "pt": "[Oscar]\nEu vi uma visão meio borrada, então não consegui identificar quem era, mas tinha certeza de que você viria aqui hoje... {0}, você veio aqui decidido a se tornar um ^0000FFCavaleiro Dragão^000000, certo?",
-        "es": "[Oscar]\nVi una visión borrosa, así que no pude identificar a quién era, pero tenía claro que hoy vendrías aquí... {0}, has venido decidido a convertirte en un ^0000FFCaballero Dragón^000000, ¿verdad?"
+        "pt": "[Oscar]\nEu vi uma visão meio borrada, então não consegui identificar quem era, mas tinha certeza de que você viria aqui hoje... {0}, você veio aqui decidido a se juntar aos ^0000FFCavaleiros Draconianos^000000, certo?",
+        "es": "[Oscar]\nVi una visión borrosa, así que no pude identificar a quién era, pero tenía claro que hoy vendrías aquí... {0}, has venido decidido a convertirte en ^0000FFCaballero Dragón^000000, ¿verdad?"
     },
     "F9RlDA": {
         "ko": "네 맞아요.",
@@ -164,14 +164,14 @@
     "G9RlDA": {
         "ko": "[오스카]\n드래곤나이트는 룬 나이트 출신자들 중에서도 드래곤과의 교감이 가능할정도로 영혼이 맑은 사람만 도달가능한 경지예요. 드래곤의 동반자가 되는데 그 정도의 조건은 있어야죠.",
         "en": "[Oscar]\nDragon Knights are Rune Knights whose souls are pure enough to commune with dragons. And that's the least you have to be to have the honor of having a dragon as your companion.",
-        "pt": "[Oscar]\nO Dragão Cavaleiro é um patamar que só pessoas de alma tão pura que conseguem se comunicar com os dragões podem alcançar, mesmo entre os ex-Cavaleiros Rúnicos. Para se tornar um companheiro de dragão, é preciso ter esse nível de qualificação.",
-        "es": "[Oscar]\nSer un Caballero Dragón es un nivel al que solo pueden llegar aquellos de entre los Caballeros Rúnicos que tienen un alma tan pura que pueden comunicarse con los dragones. Para ser compañero de un dragón, hay que cumplir con ese requisito, ¿no?"
+        "pt": "[Oscar]\nCavaleiros Draconianos são Cavaleiros Rúnicos de alma tão pura que conseguem se comunicar com os dragões. Para ter a honrosa companhia de um dragão, é preciso cumprir este requisito.",
+        "es": "[Oscar]\nSer un Caballero Dragón es un nivel al que solo pueden llegar aquellos de entre los Caballeros Rúnicos que tienen un alma tan pura para comunicarse con los dragones. Para ser compañero de un dragón, hay que cumplir con ese requisito, ¿no?"
     },
     "HNRlDA": {
         "ko": "[오스카]\n물론 강제적인건 아니예요, 저흰 억지로 권유하거나 하지않아요. 어디까지나 후보자들의 의사를 존중하죠. 그래서 {0}씨의 생각은 어떤가요? ^0000FF드래곤 나이트^000000가 되어 저희의 동반자가 될 생각이 있나요?",
         "en": "[Oscar]\nOf course, if you're not interested, we won't force you. We absolutely respect our candidates' decisions. So, {0}, what do you say? Would you like to become a ^0000FFDragon Knight^000000 and join us as our companion?",
-        "pt": "[Oscar]\nClaro que não é obrigatório, nós não forçamos ninguém. Respeitamos totalmente a decisão dos candidatos. Então, o que você acha, {0}? Você tem vontade de se tornar um ^0000FFCavaleiro Dragão^000000 e ser nosso companheiro?",
-        "es": "[Oscar]\nPor supuesto, no es obligatorio; nosotros no te lo imponemos ni te presionamos. Respetamos totalmente la decisión de los candidatos. ¿Qué opinas, {0}? ¿Te gustaría convertirte en ^0000FFCaballero Dragón^000000 y ser nuestro compañero?"
+        "pt": "[Oscar]\nClaro que não é obrigatório, nós não forçamos ninguém. Respeitamos totalmente a decisão dos candidatos. Então, o que você acha, {0}? Você tem vontade de se juntar aos ^0000FFCavaleiros Draconianos^000000?",
+        "es": "[Oscar]\nPor supuesto, no es obligatorio; nosotros no te lo imponemos ni te presionamos. Respetamos totalmente la decisión de los candidatos. ¿Qué opinas, {0}? ¿Te gustaría convertirte en ^0000FFCaballero Dragón^000000?"
     },
     "HdRlDA": {
         "ko": "당연하죠",
@@ -188,13 +188,13 @@
     "H9RlDA": {
         "ko": "[오스카]\n아... 그건 조금 실망이군요. {0}씨라면 좋은 친구가 될 수 있을거라 생각했는데...이런 우유부단한 모습 좋지 않아요.",
         "en": "[Oscar]\nOh... This is a little bit disappointing, {0}. I thought you'd be a great addition to our group, but that was before I knew you were so indecisive.",
-        "pt": "[Oscar]\nAh... Isso é um pouco decepcionante. Eu achava que o {0} poderia ser um bom amigo... Não gosto dessa indecisão.",
-        "es": "[Oscar]\nAh... eso me decepciona un poco. Pensaba que {0} podría ser un buen amigo... No me gusta verte tan indeciso."
+        "pt": "[Oscar]\nAh... Isso é um pouco decepcionante. Eu achava que teríamos uma grande amizade com {0}... Não gosto dessa indecisão.",
+        "es": "[Oscar]\nAh... eso me decepciona un poco. Pensaba que tendríamos una gran amistad con {0}... No me gusta esta indecisión."
     },
     "INRlDA": {
         "ko": "[오스카]\n그럴거라 생각했어요! 하지만 말 몇마디로 드래곤나이트가 될 수는 없어요. 이제 그만한 업보를 감당할 수 있는지 시련을 거치게 될 거예요.",
         "en": "[Oscar]\nI knew it! But you can't become a Dragon Knight simply because you want to. You have to prove your worthiness through a test.",
-        "pt": "[Oscar]\nEu já imaginava! Mas não dá para se tornar um Cavaleiro Dragão só com algumas palavras. Agora você vai passar por uma provação para ver se consegue arcar com esse fardo.",
+        "pt": "[Oscar]\nEu já imaginava! Mas não dá para se tornar um Cavaleiro Draconiano só com algumas palavras. Agora você vai passar por uma provação para ver se consegue arcar com esse fardo.",
         "es": "[Oscar]\n¡Me lo imaginaba! Pero no basta con unas pocas palabras para convertirse en un Caballero Dragón. Ahora tendrás que pasar por una prueba para ver si puedes soportar ese destino."
     },
     "IdRlDA": {
@@ -212,13 +212,13 @@
     "I9RlDA": {
         "ko": "^0000FF파티장 단 1사람만 시험장에 진입하여 진행할 수 있습니다.^000000",
         "en": "^0000FFOnly the party leader can enter this test hall.^000000",
-        "pt": "^0000FFApenas um membro do grupo pode entrar na sala de provas para realizar o teste.^000000",
+        "pt": "^0000FFApenas o líder do grupo pode entrar na sala de provas para realizar o teste.^000000",
         "es": "^0000FFSolo el líder del grupo puede entrar al lugar de la prueba y llevarla a cabo.^000000"
     },
     "JNRlDA": {
         "ko": "[오스카]\n자 그럼 제 손을 잡고 정신을 집중 해주세요.",
         "en": "[Oscar]\nAlright, then please hold my hands and focus.",
-        "pt": "[Oscar]\nBom, então segura minha mão e concentra-te.",
+        "pt": "[Oscar]\nMuito bem, então segure a minha mão e concentre-se.",
         "es": "[Oscar]\nBueno, entonces toma mi mano y concéntrate."
     },
     "JdRlDA": {
@@ -236,25 +236,25 @@
     "J9RlDA": {
         "ko": "^0000FF던전이 생성되지 않았거나 파티장과 다른 던전으로 진입하려는 상태로 확인됩니다^000000",
         "en": "^0000FFIt appears the dungeon has not been generated, or you are attempting to enter a different dungeon than the party leader.^000000",
-        "pt": "^0000FFParece que a masmorra não foi criada ou que você está tentando entrar em uma masmorra diferente da do líder do grupo^000000",
+        "pt": "^0000FFParece que a masmorra não foi criada ou você está tentando entrar em uma masmorra diferente da do líder do grupo^000000",
         "es": "^0000FFParece que la mazmorra no se ha creado o que intentas entrar en una mazmorra diferente a la del líder del grupo^000000"
     },
     "KNRlDA": {
         "ko": "^FF0000파티 상태가 아니라면 입장할 수 없습니다.^000000",
         "en": "^FF0000You cannot enter unless you are in a party.^000000",
-        "pt": "^FF0000Não dá pra entrar se não estiver em um grupo.^000000",
+        "pt": "^FF0000Não é possível entrar se não estiver em um grupo.^000000",
         "es": "^FF0000No puedes entrar si no estás en un grupo.^000000"
     },
     "KdRlDA": {
         "ko": "{0} 파티의 일원이 {1} 에 응합니다.",
         "en": "{0} has joined {1}.",
-        "pt": "{0}, membro do grupo, aceita o desafio de {1}.",
-        "es": "{0}, miembro del grupo, responde a {1}."
+        "pt": "{0}, aceitou o desafio {1}.",
+        "es": "{0}, miembro del grupo, entra en {1}."
     },
     "KtRlDA": {
         "ko": "^0000FF파티장이 아니라면 던전의 생성은 불가능합니다.^000000",
         "en": "^0000FFYou cannot generate a dungeon unless you are the party leader.^000000",
-        "pt": "^0000FFSe você não for o líder do grupo, não é possível criar a masmorra.^000000",
+        "pt": "^0000FFApenas o líder do grupo poderá criar a masmorra.^000000",
         "es": "^0000FFSi no eres el líder del grupo, no puedes crear la mazmorra.^000000"
     },
     "K9RlDA": {
@@ -265,7 +265,7 @@
     },
     "LNRlDA": {
         "ko": "레티시아",
-        "en": "Leticia",
+        "en": "Letizia",
         "pt": "Letícia",
         "es": "Leticia"
     },
@@ -278,61 +278,61 @@
     "LtRlDA": {
         "ko": "^FF0000레티시아에게 말을 걸기 전에 짊어진 짐을 좀 더 줄일 필요가 있습니다.^000000",
         "en": "^FF0000You need to lighten your load before talking to Letizia.^000000",
-        "pt": "^FF0000Antes de falar com Letícia, é preciso aliviar um pouco a carga que carregas.^000000",
+        "pt": "^FF0000Antes de falar com Letícia, é preciso reduzir o seu peso.^000000",
         "es": "^FF0000Antes de hablar con Leticia, necesitas aligerar un poco la carga que llevas.^000000"
     },
     "L9RlDA": {
         "ko": "[레티시아]\n간만에 날 즐겁게 한 생물이었구나.",
         "en": "[Letizia]\nIt's been a while since I've met such an entertaining creature.",
-        "pt": "[Letícia]\nFoi a primeira criatura em muito tempo que me divertiu.",
+        "pt": "[Letícia]\nJá faz um bom tempo que uma criatura não me divertia.",
         "es": "[Leticia]\nHacía tiempo que un ser vivo no me hacía tan feliz."
     },
     "MNRlDA": {
         "ko": "[레티시아]\n우리의 동반자가 되기 위해선 용족 성좌 둘 이상의 동의를 얻어야 하지, 넌 그 시험을 통과했고 이제 너의 의지만이 남아있구나.",
         "en": "[Letizia]\nTo become our companion, you must gain support from at least two Dragon Signs and you did. Now, the final decision is up to you.",
-        "pt": "[Letícia]\nPara se tornar nosso companheiro, é preciso obter a aprovação de pelo menos dois membros da constelação dos dragões. Você passou nesse teste, e agora só falta a sua vontade.",
+        "pt": "[Letícia]\nPara se tornar nosso companheiro, é preciso obter a aprovação de pelo menos dois membros da constelação dos dragões. Você passou nesse teste e agora só falta a sua decisão.",
         "es": "[Leticia]\nPara convertirte en nuestro compañero, debes obtener el consentimiento de al menos dos de las constelaciones de los dragones; has superado esa prueba y ahora solo queda tu voluntad."
     },
     "MdRlDA": {
         "ko": "[레티시아]\n우리와 우호적인 사이를 유지하며 오랜 세월 변치않고 살아가겠느냐?",
         "en": "[Letizia]\nDo you promise that you will remain friends with us for a long time?",
-        "pt": "[Letícia]\nVocê vai manter uma relação amigável conosco e viver por muitos anos sem mudar?",
+        "pt": "[Letícia]\nVocê promete manter uma relação amigável conosco por muitos e muitos anos?",
         "es": "[Leticia]\n¿Mantendrás una relación amistosa con nosotros y vivirás sin cambiar durante muchos años?"
     },
     "MtRlDA": {
         "ko": "잠깐, 다시 생각해보겠습니다.",
         "en": "Hold on, let me reconsider.",
-        "pt": "Espera um pouco, vou pensar melhor.",
+        "pt": "Espere um pouco, vou pensar melhor.",
         "es": "Un momento, lo voy a pensar mejor."
     },
     "M9RlDA": {
         "ko": "그렇게 하겠습니다.",
         "en": "I will.",
-        "pt": "Farei isso.",
+        "pt": "Eu prometo.",
         "es": "Así lo haré."
     },
     "NNRlDA": {
         "ko": "[레티시아]\n여기까지 와 놓고 거절인가? 신중히 생각해야 할것이다. 내 인내심은 그리 크지 않느니라.",
         "en": "[Letizia]\nYou're saying no after coming all the way here? You'd better think carefully because I'm not a patient dragon.",
-        "pt": "[Letícia]\nChegaste até aqui e vais recusar? É melhor pensares bem. Minha paciência não é infinita.",
+        "pt": "[Letícia]\nChegou até aqui e vai recusar? É melhor pensar bem. Minha paciência não é infinita.",
         "es": "[Leticia]\n¿Vienes hasta aquí para decir que no? Tendrás que pensarlo bien. Mi paciencia no es infinita."
     },
     "NdRlDA": {
         "ko": "[레티시아]\n좋다, 이제 네 몸에 용족의 기운을 불어넣어주마. 마음을 편안히 하고 몸의 기운을 풀도록 하여라.",
         "en": "[Letizia]\nAlright, then I'll share my draconic energy with you. Relax.",
-        "pt": "[Letícia]\nTudo bem, agora vou infundir a energia da tribo dos dragões em teu corpo. Acalma a mente e relaxa o corpo.",
+        "pt": "[Letícia]\nMuito bem, agora vou infundir a energia da tribo dos dragões em seu corpo. Acalme a mente e relaxe o corpo.",
         "es": "[Leticia]\nBien, ahora te infundiré la energía de los dragones en tu cuerpo. Relaja tu mente y deja que tu cuerpo se suelte."
     },
     "NtRlDA": {
         "ko": "[레티시아]\n그 전에 네 순수한 몸의 각성을 위해, 네가 탑승하고있는 그 하찮은 생명을 어딘가에 치워두고 오거라.",
         "en": "[Letizia]\nBefore we proceed, you'd better go put away that insignificant mount of yours somewhere to avoid having its energy get mixed with yours.",
-        "pt": "[Letícia]\nAntes disso, para o despertar do teu corpo puro, vai deixar essa vida insignificante em que estás montado em algum lugar e volta.",
+        "pt": "[Letícia]\nAntes disso, para o despertar do seu corpo puro, vá deixar essa vida insignificante, a que chama de montaria, em algum lugar e retorne.",
         "es": "[Leticia]\nAntes de eso, para que tu cuerpo puro despierte, deja en algún lado esa vida insignificante en la que estás montado y vuelve."
     },
     "N9RlDA": {
         "ko": "[레티시아]\n네 몸엔 아직 잉여하게 남아도는 스킬의 흔적이 있구나. 남아있는 스킬포인트를 모두 소모하고 오거라.",
         "en": "[Letizia]\nYou still have unused Skill Points. Spend them first.",
-        "pt": "[Letícia]\nAinda há vestígios de habilidades em excesso no teu corpo. Vai gastar todos os pontos de habilidade que sobraram e volta.",
+        "pt": "[Letícia]\nAinda há vestígios de habilidades em excesso no teu corpo. Vá gastar todos os pontos de habilidade que sobraram e volte.",
         "es": "[Leticia]\nAún quedan rastros de habilidades sobrantes en tu cuerpo. Ve y gasta todos los puntos de habilidad que te quedan."
     },
     "ONRlDA": {

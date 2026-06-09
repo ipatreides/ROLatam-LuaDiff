@@ -2060,27 +2060,87 @@
     },
     "XGXDCQ": {
         "en": "Range Stone({0}left)",
-        "pt": "Pedra de Alcance (Topo) ({0} un)",
-        "es": "Piedra de Alcance (Superior) ({0} un)"
+        "pt": "Pedra de Alcance({0}left)",
+        "es": "Piedra de Alcance({0}left)"
     },
     "XWXDCQ": {
         "en": "Melee Stone({0}left)",
-        "pt": "Pedra de Corpo (Topo) ({0} un)",
-        "es": "Piedra de Cuerpo (Superior) ({0} un)"
+        "pt": "Pedra de Corpo({0}left)",
+        "es": "Piedra de Alcance({0}left)"
     },
     "XmXDCQ": {
         "en": "Melee Stone({0}left)",
-        "pt": "Pedra de Corpo (Meio) ({0} un)",
-        "es": "Piedra de Cuerpo (Centro) ({0} un)"
+        "pt": "Pedra de Corpo({0}left)",
+        "es": "Piedra de Cuerpo({0}left)"
     },
     "X2XDCQ": {
         "en": "Range Stone({0}left)",
-        "pt": "Pedra de Alcance (Baixo) ({0} un)",
-        "es": "Piedra de Alcance (Inferior) ({0} un)"
+        "pt": "Pedra de Alcance({0}left)",
+        "es": "Piedra de Alcance({0}left)"
     },
     "YGXDCQ": {
         "en": "Melee Stone({0}left)",
-        "pt": "Pedra de Corpo (Baixo) ({0} un)",
-        "es": "Piedra de Cuerpo (Inferior) ({0} un)"
+        "pt": "Pedra de Corpo({0}left)",
+        "es": "Piedra de Cuerpo({0}left)"
+    },
+    "YWXDCQ": {
+        "en": "Dumpling Footprints ({0} left",
+        "pt": "Pedra de Pegada: Bolinhos ({0} left",
+        "es": "Piedra de Huella: Bollos({0} left"
+    },
+    "YmXDCQ": {
+        "en": "Panda Footprints({0} left",
+        "pt": "Pedra de Pegada: Pandas({0} left",
+        "es": "Piedra de Huella: Pandas({0} left"
+    },
+    "Y2XDCQ": {
+        "en": "Panda Color Footprints({0} left",
+        "pt": "Pedra de Pegada: Pandas Coloridos({0} left",
+        "es": "Piedra de Huella: Pandas Coloridos({0} left"
+    },
+    "ZGXDCQ": {
+        "en": "Magical Feather({0})",
+        "pt": "Pedra Gráfica: Corações({0})",
+        "es": "Piedra Gráfica: Corazones({0})"
+    },
+    "ZWXDCQ": {
+        "en": "Camellia({0})",
+        "pt": "Pedra Gráfica: Camélia({0})",
+        "es": "Piedra Gráfica: Camelia({0})"
+    },
+    "ZmXDCQ": {
+        "en": "Roar({0})",
+        "pt": "Pedra Gráfica: Dragão Alado({0})",
+        "es": "Piedra Gráfica: Dragón Alado({0})"
+    },
+    "Z2XDCQ": {
+        "en": "Romantic Roses({0})",
+        "pt": "Pedra Gráfica: Rosas Românticas({0})",
+        "es": "Piedra Gráfica: Rosas Románticas({0})"
+    },
+    "aGXDCQ": {
+        "en": "Valhalla's Blessing({0})",
+        "pt": "Pedra Gráfica: Popstar({0})",
+        "es": "Piedra Gráfica: Popstar({0})"
+    },
+    "aWXDCQ": {
+        "en": "Angels' Blessing({0})",
+        "pt": "Pedra Gráfica: Luz Angelical({0})",
+        "es": "Piedra Gráfica: Luz Angelical({0})"
+    },
+    "amXDCQ": {
+        "en": "TIme Accessary({0})",
+        "pt": "Pedra Gráfica: Relógios({0})",
+        "es": "Piedra Gráfica: Relojes({0})"
+    },
+    "a2XDCQ": {
+        "en": "Golden Aura({0})",
+        "pt": "Pedra Gráfica: Vento Amarelado({0})",
+        "es": "Piedra Gráfica: Viento Amarillento({0})"
+    },
+    "bGXDCQ": {
+        "en": "Magic Digital Space({0})",
+        "pt": "Pedra Gráfica: Espaço Digital({0})",
+        "es": "Piedra Gráfica: Espacio Digital({0})"
     }
 }

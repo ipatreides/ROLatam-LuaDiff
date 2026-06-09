@@ -14947,7 +14947,7 @@
     "TVNJX0JVWUlOR1NUT1JFX01BS0VXTkRfQUREX0dPT0RT": {
         "ko": "판매할 아이템을 등록하지 않았습니다. 판매하실 아이템을 등록해 주세요",
         "en": "the item is not register to sell. Please register the item you want to sell",
-        "pt": "the item is not register to sell. Please register the item you want to sell",
+        "pt": "Você não cadastrou nenhum item para venda. Por favor, cadastre os itens que deseja vender.",
         "es": "El objeto no está registrado para su venta. Registra el objeto que quieres vender."
     },
     "TVNJX0lURU1fSU5fTUFJTF9TWVNURU0=": {
@@ -14995,7 +14995,7 @@
     "TVNJX0JBUkdBSU5TQUxFX1RPT0xXTkRfVElUTEU=": {
         "ko": "한정판매 등록창",
         "en": "Limited item sales registration window",
-        "pt": "Limited item sales registration window",
+        "pt": "Período de registro de venda limitado",
         "es": "Ventana de registro de ventas limitadas de objetos"
     },
     "TVNJX0JBUkdBSU5TQUxFX1RPT0xXTkRfREJfTkFNRQ==": {
@@ -15013,43 +15013,43 @@
     "TVNJX0JBUkdBSU5TQUxFX1RPT0xXTkRfU0VMTF9DT1VOVA==": {
         "ko": "판매 갯수",
         "en": "Sales count",
-        "pt": "Sales count",
+        "pt": "Unidades vendidas",
         "es": "Recuento de ventas"
     },
     "TVNJX0JBUkdBSU5TQUxFX1RPT0xXTkRfU0VMTF9TVEFSVFRJTUU=": {
         "ko": "판매 시작시간",
         "en": "Sales start time",
-        "pt": "Sales start time",
+        "pt": "Início das vendas",
         "es": "Hora de inicio de la venta"
     },
     "TVNJX0JBUkdBSU5TQUxFX1RPT0xXTkRfU0VMTF9QRVJJT0RUSU1F": {
         "ko": "판매할 시간",
         "en": "Sales time",
-        "pt": "Sales time",
+        "pt": "Hora da venda",
         "es": "Hora de venta"
     },
     "TVNJX0JBUkdBSU5TQUxFX1RPT0xXTkRfSU5QVVRfQ09VTlRfTVNH": {
         "ko": "판매할 갯수를 입력해 주세요",
         "en": "Please put the amount you want to sell",
-        "pt": "Please put the amount you want to sell",
+        "pt": "Por favor, insira a quantidade que deseja vender.",
         "es": "Indica la cantidad que deseas vender."
     },
     "TVNJX0JBUkdBSU5TQUxFX1RPT0xXTkRfSU5QVVRfU1RBUlRUSU1FX01TRw==": {
         "ko": "판매 시작시간을 입력해 주세요",
         "en": "Please put sales start time",
-        "pt": "Please put sales start time",
+        "pt": "Por favor, insira o horário de início da venda.",
         "es": "Indica la hora de inicio de la venta."
     },
     "TVNJX0JBUkdBSU5TQUxFX1RPT0xXTkRfV1JPTkdfUkFOR0VfTVNH": {
         "ko": "판매 시작시간의 범위가 맞지 않습니다",
         "en": "the sales start time range is not suitable.",
-        "pt": "the sales start time range is not suitable.",
+        "pt": "O intervalo de horários de início das vendas não coincide.",
         "es": "La franja horaria de inicio de la venta no es adecuada."
     },
     "TVNJX0JBUkdBSU5TQUxFX1RPT0xXTkRfSU5QVVRfUEVSSU9EVElNRV9NU0c=": {
         "ko": "판매할 시간을 입력해 주세요",
         "en": "Please put the sales time",
-        "pt": "Please put the sales time",
+        "pt": "Por favor, insira o horário da venda.",
         "es": "Indica la hora de venta."
     },
     "TVNJX0JBUkdBSU5TQUxFX1RPT0xXTkRfSU5QVVRfSVRFTURCTkFNRV9NU0c=": {
@@ -15061,91 +15061,91 @@
     "TVNJX0JBUkdBSU5TQUxFX1RPT0xXTkRfSVRFTUlEX0NIRUNLX0ZBSUxFRF9NU0c=": {
         "ko": "Item ID 조회에 실패하였습니다. 확인 후 다시 시도해 주시기 바랍니다",
         "en": "Item ID check has failed. Please try again.",
-        "pt": "Item ID check has failed. Please try again.",
+        "pt": "Não foi possível encontrar o ID do item. Verifique novamente e tente mais uma vez.",
         "es": "Falló la comprobación de identificación del objeto. Inténtalo de nuevo."
     },
     "TVNJX0JBUkdBSU5TQUxFX1RPT0xXTkRfUkVTVUxUX0ZPUk1BVA==": {
         "ko": ">> ItemName : %s / Price : %dc / 수량 : %d / 판매기간 : %d월:%d일:%d시:%d분 ~ %d월:%d일:%d시:%d분",
         "en": ">> ItemName : %s / Price : %dc / Count : %d / sales periiod : %d:%d:%d:%d ~ %d:%d:%d:%d",
-        "pt": ">> ItemName : %s / Price : %dc / Count : %d / sales periiod : %d:%d:%d:%d ~ %d:%d:%d:%d",
+        "pt": ">> Nome : %s / Preço : %dc / Un. : %d / Período : %d:%d:%d:%d ~ %d:%d:%d:%d",
         "es": ">> Nombre del objeto: %s / Precio: %dc / Cantidad: %d / período de venta: %d:%d:%d:%d ~ %d:%d:%d:%d"
     },
     "TVNJX0JBUkdBSU5TQUxFX1RPT0xXTkRfQVBQTFlfU1VDQ0VTU19NU0c=": {
         "ko": "등록에 성공하였습니다",
         "en": "It has succefully registered.",
-        "pt": "It has succefully registered.",
+        "pt": "Registrado com sucesso.",
         "es": "Se registró correctamente."
     },
     "TVNJX0JBUkdBSU5TQUxFX1RPT0xXTkRfQVBQTFlfRkFJTEVEX01TRw==": {
         "ko": "등록에 실패하였습니다. 다시 시도해 주시기 바랍니다.",
         "en": "it has failed to register. Please tray later.",
-        "pt": "it has failed to register. Please tray later.",
+        "pt": "O cadastro falhou. Tente novamente.",
         "es": "No se registró. Inténtalo más tarde."
     },
     "TVNJX0JBUkdBSU5TQUxFX1RPT0xXTkRfQUxSRUFEWV9SRUdJU1RFUkVEX01TRw==": {
         "ko": "이미 등록된 아이템이 있습니다. 다시 시도해 주시기 바랍니다.",
         "en": "There is an item already registered. Please try again.",
-        "pt": "There is an item already registered. Please try again.",
+        "pt": "Já existe um item registrado. Por favor, tente novamente.",
         "es": "Ya hay un objeto registrado. Inténtalo de nuevo."
     },
     "TVNJX0JBUkdBSU5TQUxFX1RPT0xXTkRfREVMRVRFX0ZBSUxFRF9NU0c=": {
         "ko": "아이템 삭제에 실패 하였습니다. 다시 시도해 주시기 바랍니다.",
         "en": "It has failed to remove the item. Please try again.",
-        "pt": "It has failed to remove the item. Please try again.",
+        "pt": "Não foi possível excluir o item. Tente novamente.",
         "es": "No se logró eliminar el objeto. Inténtalo de nuevo."
     },
     "TVNJX0JBUkdBSU5TQUxFX1RPT0xXTkRfREVMRVRFX1NVQ0NFU1NfTVNH": {
         "ko": "%s 아이템이 삭제되었습니다.",
         "en": "%s item has removed.",
-        "pt": "%s item has removed.",
+        "pt": "O item %s foi excluído.",
         "es": "El elemento %s se eliminó."
     },
     "TVNJX0JBUkdBSU5TQUxFX0NBU0hTSE9QX1RBQl9OQU1F": {
         "ko": "특가",
         "en": "Special",
-        "pt": "Special",
+        "pt": "Especial",
         "es": "Especial"
     },
     "TVNJX0JBUkdBSU5TQUxFX0NBU0hTSE9QX1JFRlJFU0hfQlROX1RPT0xUSVA=": {
         "ko": "한정판매 아이템 판매수량 갱신",
         "en": "Flash sale item count renew",
-        "pt": "Flash sale item count renew",
+        "pt": "Renovar qtd. de itens da Flash Sale",
         "es": "Renovar el recuento de objetos de venta rápida"
     },
     "TVNJX0JBUkdBSU5TQUxFX0NBU0hTSE9QX1RJTUVS": {
         "ko": "판매종료",
         "en": "Sales closed",
-        "pt": "Sales closed",
+        "pt": "Vendas encerradas",
         "es": "Ventas cerradas"
     },
     "TVNJX0JBUkdBSU5TQUxFX0NBU0hTSE9QX1JFRlJFU0hfTVNH": {
         "ko": "수량갱신이 필요합니다",
         "en": "item count should be renewed",
-        "pt": "item count should be renewed",
+        "pt": "A quantidade precisa ser atualizada.",
         "es": "El recuento de objetos debe renovarse."
     },
     "TVNJX0JBUkdBSU5TQUxFX0NBU0hTSE9QX0NIRUNLX0NPVU5UX01TRw==": {
         "ko": "재고가 부족하여 %d 개 만큼만 구입합니다",
         "en": "There is not eoungh item, so %d item has purchased.",
-        "pt": "There is not eoungh item, so %d item has purchased.",
+        "pt": "Devido à falta de estoque, você só pode comprar apenas %d unidades.",
         "es": "No hay objetos suficientes, por lo que se compró el objeto %d."
     },
     "TVNJX0JBUkdBSU5TQUxFX1NUQVJUX01TRw==": {
         "ko": "%s 아이템의 특가판매가 시작되었습니다",
         "en": "%s item's flash sale started.",
-        "pt": "%s item's flash sale started.",
+        "pt": "A promoção especial de %s começou.",
         "es": "Comenzó la venta rápida de objetos %s."
     },
     "TVNJX0JBUkdBSU5TQUxFX0NMT1NFX01TRw==": {
         "ko": "%s 아이템의 매진 또는 판매시간만료로 인해 한정판매가 종료되었습니다",
         "en": "%s item is out of stock or sale period is finished.",
-        "pt": "%s item is out of stock or sale period is finished.",
+        "pt": "A venda limitada do item %s foi encerrada devido ao esgotamento do estoque ou ao término do período de vendas.",
         "es": "El objeto %s está agotado o el período de venta finalizó."
     },
     "TVNJX0JBUkdBSU5TQUxFX1RPT0xXTkRfQ0FMTA==": {
         "ko": "/한정판매",
         "en": "/limited sales",
-        "pt": "/limited sales",
+        "pt": "/liquidação",
         "es": "/Ventas limitadas"
     },
     "TVNJX0ZSQU5DRV9DQVNIU0hPUF9VUkw=": {
@@ -15380,13 +15380,13 @@
     "TVNJX1BFVF9FVk9MVVRJT04=": {
         "ko": "펫 진화",
         "en": "Pet evolution",
-        "pt": "Evoluir",
+        "pt": "Evolução",
         "es": "Evoluir"
     },
     "TVNJX1BFVF9FVk9MVVRJT05fV0lUSF9QRVRfTkFNRQ==": {
         "ko": "진화 - %s",
         "en": "Evolution - %s",
-        "pt": "Evoluir - %s",
+        "pt": "Evoluir %s",
         "es": "Evoluir - %s"
     },
     "TVNJX1BFVF9FVk9MVVRJT05fTkVFRF9JVEVN": {
@@ -15470,19 +15470,19 @@
     "TVNJX1RJTUVfTElORV9NSU5VVEU=": {
         "ko": "%d 분 전",
         "en": "%d mininutes ago",
-        "pt": "%d mininutes ago",
+        "pt": "%d minutos atrás",
         "es": "hace %d minutos"
     },
     "TVNJX1RJTUVfTElORV9IT1VS": {
         "ko": "%d 시간 전",
         "en": "%d hours ago",
-        "pt": "%d hours ago",
+        "pt": "%d horas atrás",
         "es": "hace%d horas"
     },
     "TVNJX1RJTUVfTElORV9EQVk=": {
         "ko": "%d 일 전",
         "en": "%d days ago",
-        "pt": "%d days ago",
+        "pt": "%d dias atrás",
         "es": "hace%d días"
     },
     "TVNJX0JBU0lDX0VYUF9NU0dfUEg=": {
@@ -18673,13 +18673,13 @@
     },
     "TVNJX0RFU0NfREVYMg==": {
         "ko": "손재주 파라메터\\n^cc0000원거리 물리 공격력^ffffff, 명중률, 캐스팅 시간, 마법 공격력",
-        "en": "Handcraft Parameter\\n^cc0000Long Range Physical Attack^ffffff, Accuracy, Casting Time, Magic Attack",
+        "en": "Dexterity Parameter\\n^CC0000Long Range Physical Attack^FFFFFF, Accuracy, Casting Time, Magic Attack",
         "pt": "Destreza\\n         Aumenta a Precisão e\\n          Conjuração variável",
         "es": "Destreza:\\n Aumenta la precisión y conjuración variable"
     },
     "TVNJX0RFU0NfTFVLMg==": {
         "ko": "운 파라메터\\n^cc0000치명타율^ffffff, 명중률, 물리공격력, 마법공격력, 회피율",
-        "en": "Moon Parameter\\n^cc0000Critical Rate^ffffff, Accuracy, Physical Attack, Magic Attack, Dodge",
+        "en": "Luck Parameter\\n^CC0000Critical Rate^FFFFFF, Accuracy, Physical Attack, Magic Attack, Dodge",
         "pt": "Sorte\\n         Aumenta o Crítico e\\n          o Ataque Físico e Mágico",
         "es": "Suerte:\\n Aumenta la probabilidad de golpe crítico y el ataque físico y mágico"
     },
@@ -18716,7 +18716,7 @@
     "TVNJX0RFU0NfUE9JTlQy": {
         "ko": "각 파라메터 레벨업에 사용되는 포인트",
         "en": "Points to level up each Parameter",
-        "pt": "Pontos para investir em atributos",
+        "pt": "Pontos para investir em Atributos",
         "es": "Puntos para subir de nivel cada parámetro"
     },
     "TVNJX0RFU0NfTUFUSzI=": {
@@ -21672,7 +21672,7 @@
     "TVNJX0RFU0NfQ09O": {
         "ko": "컨센트레이션 파라메터\\n^cc0000명중률, 회피율, 특성 물리/마법 공격력^ffffff 증가",
         "en": "Concentration Parameter\\n^cc0000Accuracy, Evasion, Talent Physical/Magic Attack^ffffff increased",
-        "pt": "Concentração\\n         Mais Precisão, Esquiva,\\n         Poder de Ataque e Super Ataque Mágico",
+        "pt": "Concentração\\n         Mais Precisão, Esquiva,\\n         Poder de Ataque e\\n         Super Ataque Mágico",
         "es": "Parámetro de concentración\\n^cc0000Precisión, Evasión, Talento físico/Ataque mágico^ffffff aumentaron."
     },
     "TVNJX0RFU0NfQ1JU": {
@@ -21862,13 +21862,13 @@
     "TVNJX0FDQ09VTlRfTElNSVRFRF9UT09MX1RJVExF": {
         "ko": "계정한정판매 등록창",
         "en": "Account-only sales registration window",
-        "pt": "Janela de registro das contas limitadas para venda",
+        "pt": "Registrar Venda Limitada na loja",
         "es": "Ventana de registro de ventas solo para cuentas"
     },
     "TVNJX0FDQ09VTlRfTElNSVRFRF9EQl9OQU1F": {
         "ko": "아이템 DB명",
         "en": "Item DB name",
-        "pt": "DB name do item",
+        "pt": "DBname",
         "es": "Nombre de la base de datos de objetos"
     },
     "TVNJX0FDQ09VTlRfTElNSVRFRF9UT09MX0RCX05VTUJFUg==": {
@@ -21880,19 +21880,19 @@
     "TVNJX0FDQ09VTlRfTElNSVRFRF9UT09MX1NFTExfQ09VTlQ=": {
         "ko": "판매 갯수",
         "en": "Selling quantity",
-        "pt": "Itens vendidos",
+        "pt": "Quantidade",
         "es": "Cantidad vendida"
     },
     "TVNJX0FDQ09VTlRfTElNSVRFRF9UT09MX1NFTExfU1RBUlRUSU1F": {
         "ko": "판매 시작시간",
         "en": "Selling start time",
-        "pt": "Hora de início da venda",
+        "pt": "Início da Venda",
         "es": "Hora de inicio de la venta"
     },
     "TVNJX0FDQ09VTlRfTElNSVRFRF9UT09MX1NFTExfRU5EVElNRQ==": {
         "ko": "판매 종료시간",
         "en": "Selling end time",
-        "pt": "Hora do fim da venda",
+        "pt": "Fim da Venda",
         "es": "Hora de finalización de la venta"
     },
     "TVNJX0FDQ09VTlRfTElNSVRFRF9TQUxFX0lURU0=": {
@@ -23039,7 +23039,7 @@
     "TVNJX0lURU1fUkVGT1JNX09L": {
         "ko": "제작",
         "en": "Craft",
-        "pt": "Reformar",
+        "pt": "Criar",
         "es": "Crear"
     },
     "TVNJX0lURU1fUkVGT1JNX1dBUk5OSU5HX05PVF9FTk9VR0hfTUFURVJJQUw=": {
@@ -23453,13 +23453,13 @@
     "TVNJX0FDQ09VTlRfTElNSVRFRF9UT09MX1JFTlRfVElNRQ==": {
         "ko": "임대 기간",
         "en": "Rental period",
-        "pt": "Período de Aluguel",
+        "pt": "Dias de Aluguel",
         "es": "Período de alquiler"
     },
     "TVNJX0FDQ09VTlRfTElNSVRFRF9UT09MX1JFTlRfVElNRV9NQVhfMTREQVk=": {
         "ko": "임대 기간은 최대 14일까지 입력 가능합니다.",
         "en": "Rental period can be entered up to 14 days.",
-        "pt": "Pode ser alugado por até 14 dias.",
+        "pt": "O período máximo de aluguel é 14 dias.",
         "es": "El período de alquiler puede ser de hasta 14 días."
     },
     "TVNJX0NBU0hTSE9QX05PTl9UUkFEQUJMRQ==": {
@@ -24690,9 +24690,9 @@
     },
     "TVNJX0dSQURFX0VOQ0hBTlRfUFJPQkFCSUxJVFlfVVJM": {
         "ko": "https://ro.gnjoy.com/news/probability/View.asp?category=4&seq=1941553&curpage=1",
-        "en": "https://ro.gnjoylatam.com/en/news/probability",
-        "pt": "https://ro.gnjoylatam.com/pt/news/probability",
-        "es": "https://ro.gnjoylatam.com/es/news/probability"
+        "en": "https://ro.gnjoylatam.com/en/news/probability/27",
+        "pt": "https://ro.gnjoylatam.com/pt/news/probability/27",
+        "es": "https://ro.gnjoylatam.com/es/news/probability/27"
     },
     "TVNJX1NFTExJTkdTTE9UX1NVQ0NFU1M=": {
         "ko": "신규 캐릭터 슬롯이 생성 되었습니다.",

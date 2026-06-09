@@ -1236,6 +1236,8 @@ EFST_IDs = {
 	EFST_TOXIN_OF_MANDARA = 1341,
 	EFST_GOLDENE_TONE = 1342,
 	EFST_TEMPERING = 1343,
+	EFST_C_BUFF_16 = 1524,
+	EFST_C_BUFF_17 = 1525,
 	__newindex = function()
 		error("unknown state")
 	end

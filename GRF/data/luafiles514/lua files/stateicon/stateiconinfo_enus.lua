@@ -6628,7 +6628,7 @@ StateIconList_string = {
 	},
 	[EFST_IDs.EFST_HANDICAPSTATE_DEEPSILENCE] = {
 		descript = {
-			{"Silence"},
+			{"Quiet"},
 			{"%s"},
 			{
 				"Cannot use skills"
@@ -8149,6 +8149,30 @@ StateIconList_string = {
 			{"ATK + 7%"},
 			{"MATK + 7%"},
 			{"%s"}
+		}
+	},
+	[EFST_IDs.EFST_C_BUFF_16] = {
+		descript = {
+			{"Tasty Buff"},
+			{"%s"},
+			{
+				"Increases physical and magic damage dealt to Normal class monsters."
+			},
+			{
+				"Increases physical and magic damage dealt to Boss class monsters."
+			}
+		}
+	},
+	[EFST_IDs.EFST_C_BUFF_17] = {
+		descript = {
+			{"Fresh Buff"},
+			{"%s"},
+			{
+				"Increases physical and magic damage dealt to all monster races."
+			},
+			{
+				"(Does not include players)"
+			}
 		}
 	},
 	[EFST_IDs.EFST_OVERSEA_BUFF_12] = {

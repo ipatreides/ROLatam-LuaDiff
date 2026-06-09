@@ -1916,7 +1916,7 @@ SkillInfoList_string = {
 		SkillName = "Esquife de Gelo"
 	},
 	[SKID.WL_MARSHOFABYSS] = {
-		SkillName = "Pântano de Nifflheim"
+		SkillName = "Pântano de Niflheim"
 	},
 	[SKID.WL_RECOGNIZEDSPELL] = {
 		SkillName = "Maestria Arcana"
@@ -3008,7 +3008,7 @@ SkillInfoList_string = {
 		SkillName = "Colisão Astral"
 	},
 	[SKID.AG_CLIMAX] = {
-		SkillName = "Intensificação"
+		SkillName = "Potencializar Magia"
 	},
 	[SKID.AG_ROCK_DOWN] = {
 		SkillName = "Deslize de Pedras"
@@ -3346,7 +3346,7 @@ SkillInfoList_string = {
 		SkillName = "Serenata de Jawaii"
 	},
 	[SKID.TR_NIPELHEIM_REQUIEM] = {
-		SkillName = "Réquiem de Nifflheim"
+		SkillName = "Réquiem de Niflheim"
 	},
 	[SKID.TR_PRON_MARCH] = {
 		SkillName = "Marcha de Prontera"

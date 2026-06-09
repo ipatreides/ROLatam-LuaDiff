@@ -5124,5 +5124,11 @@ JobNameTable = {
 	[jobtbl.JT_MD_HIDDEN_GROUND01] = "invisible",
 	[jobtbl.JT_MD_HIDDEN_GROUND02] = "invisible",
 	[jobtbl.JT_4_EP18_PAPERS] = "4_ep18_papers",
-	[jobtbl.JT_E_SWEETS_DROPS] = "sweets_drops"
+	[jobtbl.JT_E_SWEETS_DROPS] = "sweets_drops",
+	[jobtbl.JT_2_CLB_K_1] = "2_CLB_K_1",
+	[jobtbl.JT_2_CLB_K_2] = "2_CLB_K_2",
+	[jobtbl.JT_4_CLB_K_M] = "4_CLB_K_M",
+	[jobtbl.JT_CLB_K_MOB1] = "CLB_K_MOB1",
+	[jobtbl.JT_CLB_K_MOB2] = "CLB_K_MOB2",
+	[jobtbl.JT_E_WATER_M_RING] = "E_WATER_M_RING"
 }

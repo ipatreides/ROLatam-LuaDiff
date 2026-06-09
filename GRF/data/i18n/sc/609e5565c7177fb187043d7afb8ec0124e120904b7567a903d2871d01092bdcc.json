@@ -196,7 +196,7 @@
         "es": "[Empleado de\tKafra]\nLo siento, \tpero no tienes suficientes zeny. \tAlquilar una carreta cuesta 800 zeny."
     },
     "x+BjAg": {
-        "en": "[Kafra\tEmployee]\nKafra always strives \tto provide you \twith reliable and friendly services.\t\nThank you \tfor using Kafra.",
+        "en": "[Kafra\tEmployee]\nKafra always strives \tto provide you \twith reliable and friendly services.\nThank you \tfor using Kafra.",
         "pt": "[Funcionária da Kafra]\nA Kafra sempre se esforça para lhe oferecer serviços confiáveis e amigáveis.\nObrigada por utilizar os serviços da Corporação Kafra.",
         "es": "[Empleado de\tKafra]\nKafra siempre se esfuerza \tpor brindarte \tservicios confiables y agradables.\t\nGracias \tpor usar Kafra."
     },
@@ -526,7 +526,7 @@
         "es": "{0} -\tNo se agregó"
     },
     "CeFjAg": {
-        "en": "[Butler Ampere]\nWould you like to add a Guardian?\tIt'll fight to the death \tto protect our stronghold \tagainst enemies.\t\nPlease select \tthe Guardian you want.",
+        "en": "[Butler Ampere]\nWould you like to add a Guardian?\tIt'll fight to the death \tto protect our stronghold \tagainst enemies.\nPlease select \tthe Guardian you want.",
         "pt": "[Mordomo Ampere]\nVocê gostaria de adicionar um Guardião? Ele lutará até a morte para proteger nossa fortaleza contra inimigos.\nSelecione o Guardião que você deseja.",
         "es": "[Mayordomo Ampere]\n¿Te gustaría agregar un Guardián?\tLuchará hasta la muerte \tpara proteger nuestra fortaleza \tcontra los enemigos.\t\nSelecciona \tel Guardián que quieras."
     },
@@ -626,7 +626,7 @@
         "es": "[Mayordomo Ampere]\nContratación \tde empleado de Kafra \texitosa."
     },
     "HeFjAg": {
-        "en": "[Hired Kafra\t Employee]\nHello. \tI'm from Kafra.\t\nI'll serve you and your guild to the best of my ability.",
+        "en": "[Hired Kafra\t Employee]\nHello. \tI'm from Kafra.\nI'll serve you and your guild to the best of my ability.",
         "pt": "[Funcionária contratada da Kafra]\nOlá. Sou da Kafra.\nServirei a você e à sua guilda com o melhor de minhas capacidades.",
         "es": "[Empleada de Kafra\tcontratada]\nHola. \tSoy de Kafra.\t\nTe serviré a ti y a tu gremio lo mejor que pueda."
     },
@@ -646,7 +646,7 @@
         "es": "[Mayordomo Ampere]\n¿Te gustaría ver dónde se almacenan nuestros preciados productos?\nSolo tú \tpuedes acceder, \tlíder."
     },
     "IeFjAg": {
-        "en": "[Butler Ampere]\nPlease note Treasure Chests may disappear \twhen the stronghold \tfaces unexpected situations\t\nif you don't open them within a certain amount of time.\nPlease collect them \tas often as you can in consideration \tof our guild's development.",
+        "en": "[Butler Ampere]\nPlease note Treasure Chests may disappear \twhen the stronghold \tfaces unexpected situations\nif you don't open them within a certain amount of time.\nPlease collect them \tas often as you can in consideration \tof our guild's development.",
         "pt": "[Mordomo Ampere]\nObserve que os baús de tesouro podem desaparecer quando o castelo enfrentar situações inesperadas\nse você não os abrir em um determinado período de tempo.\nPor favor, colete-os sempre que puder visando o desenvolvimento da nossa guilda.",
         "es": "[Mayordomo Ampere]\nTen en cuenta que los cofres de tesoro pueden desaparecer \tcuando la fortaleza \tse enfrenta a situaciones inesperadas\t\nsi no los abres en un plazo de tiempo determinado.\nRecoléctalos \ttan a menudo como puedas en consideración \tal desarrollo de nuestro gremio."
     },
